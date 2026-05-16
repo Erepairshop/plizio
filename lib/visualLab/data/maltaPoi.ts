@@ -55,6 +55,7 @@ export const maltaPoi: POI[] = [
       ro: ["Fortul a fost construit între anii 1670 și 1698.", "Cu o suprafață de 7 hectare, este cea mai mare fortificație din Malta.", "Proiectul a fost realizat de inginerul militar italian Maurizio Valperga.", "În 1807, fortul a fost locul revoltei sângeroase a Regimentului Froberg.", "A servit drept platou de filmare pentru filmul Gladiatorul (2000).", "În 1942, a suferit daune majore în urma bombardamentelor aeriene."],
       en: ["The fort was constructed between 1670 and 1698.", "It is the largest fort in Malta, covering an area of 7 hectares.", "The design was created by the Italian military engineer Maurizio Valperga.", "In 1807, it was the site of the violent Froberg Regiment mutiny.", "The fort was used as a filming set for the movie Gladiator (2000).", "It was heavily damaged by aerial bombardment during World War II in 1942."],
     },
+    image: "/poi-images/poi-mt-fort-ricasoli.webp",
   },
   {
     id: "poi-mt-esplora",
@@ -119,6 +120,7 @@ export const maltaPoi: POI[] = [
       ro: ["Catedrala a fost construită între anii 1572 și 1577.", "Adăpostește cea mai mare pictură realizată de Caravaggio.", "Pardoseala cuprinde aproape 400 de plăci funerare din marmură decorată.", "Tavanul boltit a fost pictat de Mattia Preti între 1661 și 1666.", "Include opt capele dedicate fiecărei „Limbi” a Ordinului.", "A fost ridicată la rangul de cocatedrală în anul 1816."],
       en: ["The cathedral was constructed between 1572 and 1577.", "It houses the largest known painting by the master Caravaggio.", "The floor contains nearly 400 intricately decorated marble tombstones.", "The vaulted ceiling was painted by Mattia Preti between 1661 and 1666.", "There are eight chapels dedicated to the different Langues of the Order.", "It was officially raised to the status of Co-Cathedral in 1816."],
     },
+    image: "/poi-images/poi-mt-valletta.webp",
   },
   {
     id: "poi-mt-upper-barrakka",
@@ -245,6 +247,7 @@ export const maltaPoi: POI[] = [
       ro: ["Promenada se întinde pe o lungime de aproximativ 3 kilometri.", "Face legătura între localitatea Sliema și orașul vecin St. Julian's.", "Anumite secțiuni păstrează mobilier de grădină din epoca victoriană.", "Este locul principal pentru plimbarea tradițională de seară malteză.", "Se învecinează cu Grădinile Independenței (Independence Gardens) din Sliema.", "Zona de coastă este cunoscută pentru plajele stâncoase și lido-urile naturale."],
       en: ["The promenade extends for approximately 3 kilometers in total length.", "It connects the town of Sliema to the neighboring hub of St. Julian's.", "Some sections feature well-preserved Victorian-era garden furniture.", "It is a primary location for the traditional \"Maltese Paseo\" (evening walk).", "The walkway borders the Independence Gardens in Sliema.", "The coastal edge is famous for its flat rocky beaches and natural lidos."],
     },
+    image: "/poi-images/poi-mt-sliema-promenade.webp",
   },
   {
     id: "poi-mt-tigne-point",
@@ -340,6 +343,7 @@ export const maltaPoi: POI[] = [
       ro: ["Palatul Spinola a fost construit în 1688 de arhitectul Romano Carapecchia pentru cavalerul Spinola.", "Barca tradițională Luzzu păstrează culorile specifice malteze: galben, albastru, roșu și verde.", "Monumentul 'Love' de pe faleză este o sculptură modernă celebră unde cuvântul se reflectă pe pavaj.", "În 1798, trupele franceze au folosit palatul ca centru de comandă și spital de campanie.", "Golful găzduiește o biserică parohială dedicată Inimii Sacre, ridicată la începutul secolului XX.", "Sărbătoarea Sfântului Iulian este celebrată anual în luna august cu procesiuni pe apă în golf."],
       en: ["Spinola Palace was completed in 1688 and served as a retreat for the Knights of St. John.", "The 'Love' monument was designed by Richard England and features inverted letters for reflection.", "Traditional Luzzu boats used in the bay date back to ancient Phoenician designs.", "The palace was significantly enlarged and remodeled in the 18th century by Romano Carapecchia.", "The bay was a major site for the local fishing industry before the tourism boom of the 1960s.", "Statue of St. Julian the Hospitaller stands prominently on the promenade overlooking the bay."],
     },
+    image: "/poi-images/poi-mt-spinola-bay.webp",
   },
   {
     id: "poi-mt-paceville",
@@ -435,6 +439,7 @@ export const maltaPoi: POI[] = [
       ro: ["Localitatea Pembroke a fost fondată oficial în 1859 ca garnizoană britanică.", "Parcul conservă peste 200 de specii de plante, inclusiv orhidee endemice malteze.", "Fortul Pembroke, situat la marginea parcului, a fost finalizat în anul 1878.", "Zona este protejată prin directiva europeană Natura 2000 pentru biodiversitatea sa.", "În parc pot fi văzute ruinele fostelor cazarme militare din epoca victoriană.", "Peisajul carstic oferă condiții ideale pentru șopârla de zid malteză, o specie endemică."],
       en: ["Pembroke was formally established as a British military outpost in 1859.", "The park is home to over 200 plant species, including the rare Maltese Spider Orchid.", "Fort Pembroke was built between 1875 and 1878 as part of the Victoria Lines defenses.", "The area contains 19th-century military structures like the Musketry School ruins.", "It was designated as a Natura 2000 site due to its unique coastal garigue habitat.", "The park features several 'cart ruts', mysterious archaeological tracks in the stone."],
     },
+    image: "/poi-images/poi-mt-pembroke-garden.webp",
   },
   {
     id: "poi-mt-madliena-tower",
@@ -499,6 +504,7 @@ export const maltaPoi: POI[] = [
       ro: ["Palatul a fost construit inițial în 1733 pentru uzul Marelui Maestru Vilhena.", "Familia Scicluna a achiziționat proprietatea în anul 1898 pentru o sumă record la acea vreme.", "Sala de bal este considerată cea mai luxoasă încăpere privată din întreaga țară.", "Grădinile italiene ale palatului au câștigat numeroase premii pentru conservare botanică.", "Frescele de pe tavanul sălii principale ilustrează scene mitologice și alegorice complexe.", "Palazzo Parisio găzduiește unul dintre cele mai rafinate restaurante de pe insulă."],
       en: ["The palace was originally built in 1733 and served as a retreat for Grand Master Vilhena.", "Marquis Giuseppe Scicluna purchased the palace in 1898 and transformed its interior.", "The ballroom is decorated with genuine 24-carat gold leaf and intricate carvings.", "The gardens feature an ancient fountain and a diverse collection of exotic hibiscus.", "Filippo Venuti was the lead artist responsible for the palace's stunning ceiling frescoes.", "It was used as a headquarters for British officers during the early 20th century."],
     },
+    image: "/poi-images/poi-mt-palazzo-parisio.webp",
   },
   {
     id: "poi-mt-salina-pans",
@@ -594,6 +600,7 @@ export const maltaPoi: POI[] = [
       ro: ["Mellieħa Bay este singura plajă din Malta care depășește lungimea de 800 de metri.", "Nivelul apei rămâne foarte scăzut pe o distanță de peste 50 de metri de la mal.", "Rezervația Għadira a fost declarată sit de importanță internațională în 1988.", "Bateria de coastă din golf a fost ridicată în secolul al XVIII-lea pentru a opri pirații.", "Plaja este dotată cu facilități complete pentru persoane cu mobilitate redusă.", "Curenții marini de aici sunt slabi, ceea ce favorizează acumularea nisipului fin."],
       en: ["Mellieħa Bay is the longest sandy beach on the Maltese Islands at over 1 km.", "The Għadira Nature Reserve was established in 1978 and is managed by BirdLife Malta.", "The bay was a key site for the defense of the island during the Great Siege period.", "It has consistently held the Blue Flag status for water quality and safety since 2011.", "The shallow waters extend for nearly 50 meters, making it exceptionally safe for children.", "Nearby attractions include Popeye Village, built as a film set in 1979."],
     },
+    image: "/poi-images/poi-mt-mellieha-bay.webp",
   },
   {
     id: "poi-mt-red-tower",
@@ -720,6 +727,7 @@ export const maltaPoi: POI[] = [
       ro: ["Prima ocupare a sitului datează din 5000 î.Hr.", "Inclus în Patrimoniul UNESCO în anul 1992", "Excavat între 1960 și 1963 de David Trump", "Cuprinde două temple din faze diferite", "Locul descoperirii unor figurine feminine celebre", "Conține resturi de colibe din epoca cuprului"],
       en: ["Initial settlement dates back to 5000 BC", "Added to UNESCO World Heritage list in 1992", "Excavated by David Trump between 1960-1963", "Consists of West (3600 BC) and East (3000 BC) temples", "Site of early Copper Age domestic hut remains", "Crucial for dating the Għar Dalam phase"],
     },
+    image: "/poi-images/poi-mt-skorba.webp",
   },
 
   // MT-010 Rabat
@@ -753,6 +761,7 @@ export const maltaPoi: POI[] = [
       ro: ["Utilizate din secolul III până în secolul VIII", "Suprafața totală depășește 2.000 m²", "Găzduiește morminte creștine, iudaice și păgâne", "Prezența meselor rituale de agapă (triclinia)", "Include peste 30 de unități hipogee distincte", "Cel mai mare sit funerar roman din arhipelag"],
       en: ["Used between the 3rd and 8th centuries AD", "Total area exceeds 2,000 square meters", "Contains Christian, Jewish, and Pagan burials", "Features rock-cut 'agape tables' for rituals", "Consists of over 30 interconnected hypogea", "Largest Roman underground cemetery in Malta"],
     },
+    image: "/poi-images/poi-mt-st-paul-catacombs.webp",
   },
   {
     id: "poi-mt-domvs-romana",
@@ -848,6 +857,7 @@ export const maltaPoi: POI[] = [
       ro: ["Amplasat într-o fostă carieră din Siġġiewi", "Acoperă 7000 de ani de istorie a construcțiilor", "Expune unelte tradiționale și utilaje miniere", "Premiat pentru conservarea patrimoniului cultural", "Oferă demonstrații live de cioplire a pietrei", "Include o grădină mediteraneană cu cascadă"],
       en: ["Situated in a repurposed quarry in Siġġiewi", "Covers 7,000 years of stonemasonry history", "Exhibits traditional and modern stone tools", "Award-winning attraction for cultural heritage", "Features live stone carving demonstrations", "Includes landscaped gardens and a waterfall"],
     },
+    image: "/poi-images/poi-mt-limestone-heritage.webp",
   },
   {
     id: "poi-mt-ghar-lapsi",
@@ -912,6 +922,7 @@ export const maltaPoi: POI[] = [
       ro: ["Datat în faza Ġgantija (3600-3200 î.Hr.)", "Inclus în Patrimoniul UNESCO în 1992", "Cel mai mare monolit cântărește 20 de tone", "Aliniat astronomic cu solstițiul de vară", "Locul descoperirii statuetei Venus din Malta", "Protejat de un baldachin special din 2009"],
       en: ["Constructed between 3600 and 3200 BC", "UNESCO World Heritage site since 1992", "Largest stone weighs approximately 20 tons", "Aligned with the sunrise of the summer solstice", "Discovery site of the 'Venus of Malta' figurine", "Sheltered by a protective canopy since 2009"],
     },
+    image: "/poi-images/poi-mt-hagarqim.webp",
   },
 
   // MT-014 Żurrieq
@@ -945,6 +956,7 @@ export const maltaPoi: POI[] = [
       ro: ["Construită în 1724 de Marele Maestru Vilhena", "Singura moară de vânt funcțională din țară", "Restaurată complet în anul 1992", "Baza pătrată servea drept casă pentru morar", "Vecină cu un complex de catacombe antice", "Păstrează mecanismele originale din secolul XVIII"],
       en: ["Built in 1724 by Grand Master Vilhena", "The only fully functional windmill in Malta", "Restored to working order in 1992", "Miller's quarters located in the square base", "Located next to Paleo-Christian catacombs", "Features original internal wooden mechanisms"],
     },
+    image: "/poi-images/poi-mt-xarolla-windmill.webp",
   },
   {
     id: "poi-mt-babu-valley",
@@ -1009,6 +1021,7 @@ export const maltaPoi: POI[] = [
       ro: ["Cea mai veche dovadă a așezării umane în Malta (aprox. 5.400 î.Hr.)", "Conține fosile de elefanți pitici și hipopotami din epoca glaciară", "Primele excavații științifice au avut loc în anul 1885", "Peștera are o lungime totală de 144 de metri", "Doar primii 50 de metri ai peșterii sunt deschiși publicului larg", "Stratigrafia prezintă șase straturi geologice distincte"],
       en: ["Oldest evidence of human settlement in Malta (approx. 5,400 BC)", "Contains fossils of dwarf elephants and hippopotami from the Ice Age", "First scientific excavations were conducted in the year 1885", "The cave has a total length of 144 meters", "Only the first 50 meters of the cave are accessible to the public", "The stratigraphy displays six distinct geological and archaeological layers"],
     },
+    image: "/poi-images/poi-mt-ghar-dalam.webp",
   },
   {
     id: "poi-mt-pretty-bay",
@@ -1073,6 +1086,7 @@ export const maltaPoi: POI[] = [
       ro: ["Piața de duminică este specializată în pește proaspăt din regiune", "Marsaxlokk găzduiește cea mai mare flotă de pescuit din arhipelagul maltez", "Ambarcațiunile tradiționale Luzzu poartă ochiul lui Osiris la proră", "Golful a fost primul loc de debarcare al flotei otomane în 1565", "Aici se vând produse tipice malteze precum bigilla și miere locală", "În 1989, în golf a avut loc summitul istoric dintre Bush și Gorbaciov"],
       en: ["The Sunday market is specialized in fresh, locally caught fish", "Marsaxlokk hosts the largest fishing fleet in the Maltese archipelago", "Traditional Luzzu boats feature the Eye of Osiris painted on the bow", "The bay was the first landing site of the Ottoman fleet in 1565", "Typical Maltese products like bigilla and honey are sold here", "The historic Bush-Gorbachev summit took place in the bay in 1989"],
     },
+    image: "/poi-images/poi-mt-marsaxlokk-market.webp",
   },
   {
     id: "poi-mt-zonqor-point",
@@ -1137,6 +1151,7 @@ export const maltaPoi: POI[] = [
       ro: ["Găzduiește a doua cea mai mare colecție de ex-voto maritime din lume", "Expune trăsura de ceremonie a Marelui Maestru Alof de Wignacourt", "Muzeul a fost deschis oficial în anul 1954", "Conține rămășițe ale unui avion prăbușit în timpul celui de-al Doilea Război Mondial", "Deține o colecție importantă de medalii și monede ale Ordinului Maltei", "Construit pe două etaje, direct lângă biserica principală barocă"],
       en: ["Houses the world's second-largest maritime ex-voto collection", "Displays the ceremonial carriage of Grand Master Alof de Wignacourt", "The museum was officially opened in the year 1954", "Contains remains of an aircraft that crashed during World War II", "Features a significant collection of medals and coins from the Order", "Built on two floors right next to the town's baroque parish church"],
     },
+    image: "/poi-images/poi-mt-zabbar-museum.webp",
   },
   {
     id: "poi-mt-hompesch-arch",
@@ -1201,6 +1216,7 @@ export const maltaPoi: POI[] = [
       ro: ["Construit între 1872 și 1878 pentru apărarea Portului Mare", "Numit după promontoriul învecinat Leonardo Point", "Inițial a fost dotat cu tunuri grele de 9,2 inci cu încărcare prin chiulasă", "A servit drept poziție antiaeriană activă în al Doilea Război Mondial", "Exemplu de arhitectură militară poligonală de la sfârșitul secolului XIX", "Se află astăzi în proprietate privată și este folosit parțial în scopuri agricole"],
       en: ["Built between 1872 and 1878 to defend the Grand Harbour", "Named after the neighboring headland called Leonardo Point", "Originally armed with heavy 9.2-inch breech-loading artillery", "Served as an active anti-aircraft position during World War II", "A prime example of late 19th-century polygonal fort design", "Currently privately owned and used partly for agricultural purposes"],
     },
+    image: "/poi-images/poi-mt-fort-leonardo.webp",
   },
   {
     id: "poi-mt-xghajra-promenade",
@@ -1232,6 +1248,7 @@ export const maltaPoi: POI[] = [
       ro: ["Conectează centrul satului cu coasta stâncoasă accidentată", "Oferă o vedere panoramică asupra Mării Mediterane fără obstacole", "Situată în imediata apropiere a fortului istoric Leonardo", "Loc popular pentru pescuitul local de pe mal în timpul serii", "Caracterizată geologic prin formațiuni carstice ascuțite pe țărm", "Promenada a fost recent renovată integral cu fonduri europene"],
       en: ["Connects the village center with the rugged rocky coastline", "Offers an unobstructed panoramic view of the open Mediterranean Sea", "Located in very close proximity to the historic Fort Leonardo", "A popular spot for local shore fishing during the evening", "Geologically characterized by sharp karst formations along the shore", "The promenade was recently fully refurbished using EU funds"],
     },
+    image: "/poi-images/poi-mt-xghajra-promenade.webp",
   },
 
   // MT-020 San Lawrenz
@@ -1265,6 +1282,7 @@ export const maltaPoi: POI[] = [
       ro: ["Planta rară Cynomorium coccineum a fost confundată greșit cu o ciupercă", "Marele Maestru Pinto a instituit pedeapsa cu moartea pentru intruși în 1746", "Un sistem de teleferic conecta în trecut stânca de restul insulei Gozo", "Stânca are o înălțime de aproximativ 60 de metri și este din calcar coralier", "A servit drept locație de filmare pentru seriale celebre (ex. Game of Thrones)", "Astăzi este o rezervație naturală protejată pentru specii endemice de șopârle"],
       en: ["The rare Cynomorium coccineum plant was wrongly identified as a fungus", "Grand Master Pinto introduced the death penalty for intruders in 1746", "A basket-and-rope cable car system formerly connected the rock to the shore", "The islet is approximately 60 meters high and made of coralline limestone", "Used as a filming location for major productions like Game of Thrones", "Currently a strictly protected nature reserve for endemic wall lizards"],
     },
+    image: "/poi-images/poi-mt-fungus-rock.webp",
   },
   {
     id: "poi-mt-blue-hole",
@@ -1329,6 +1347,7 @@ export const maltaPoi: POI[] = [
       ro: ["Capela Bunei Vestiri din cadrul văii a fost stabilită inițial în anul 1347.", "Valea a servit ca rezervă privată de vânătoare pentru Cavalerii de Malta din 1530.", "Un sistem sofisticat de irigații din piatră datând din secolul XV este încă vizibil.", "Izvoarele de apă dulce din vale au fost utilizate pentru agricultură de peste 600 de ani.", "Poarta ornamentală din piatră de la intrarea în vale a fost construită la începutul anilor 1900.", "Lunzjata este recunoscută ca sit Natura 2000 datorită biodiversității sale ripariene."],
       en: ["The Chapel of the Annunciation within the valley was originally established in 1347.", "The valley served as a private hunting reserve for the Knights of Malta from 1530.", "A sophisticated stone irrigation system dating back to the 15th century is still visible.", "Freshwater springs in the valley have been utilized for agriculture for over 600 years.", "The ornate stone gateway at the valley entrance was constructed in the early 1900s.", "Lunzjata is recognized as a Natura 2000 site due to its unique riparian biodiversity."],
     },
+    image: "/poi-images/poi-mt-lunzjata.webp",
   },
   {
     id: "poi-mt-sarraflu",
@@ -1360,6 +1379,7 @@ export const maltaPoi: POI[] = [
       ro: ["Iazul Sarraflu este situat la o altitudine de aproximativ 120 de metri deasupra nivelului mării.", "Sarraflu este unul dintre puținele corpuri naturale de apă dulce din Malta care rămâne plin tot anul.", "Dovezile arheologice din peșterile din apropiere sugerează activitate umană din Epoca Bronzului.", "Situl servește ca loc vital de reproducere pentru broasca pictată malteză endemică.", "Nivelul apei este menținut de un acvifer natural în cadrul calcarului coralier superior.", "Zona iazului acoperă aproximativ 1.500 de metri pătrați, în funcție de precipitațiile sezoniere."],
       en: ["The pond is situated at an elevation of approximately 120 meters above sea level.", "Sarraflu is one of the few natural freshwater bodies in Malta that remains filled year-round.", "Archaeological evidence in nearby caves suggests human activity dating to the Bronze Age.", "The site serves as a vital breeding ground for the endemic Maltese Painted Frog.", "The water level is maintained by a natural perched aquifer within the Upper Coralline Limestone.", "The pond area covers roughly 1,500 square meters depending on seasonal rainfall."],
     },
+    image: "/poi-images/poi-mt-sarraflu.webp",
   },
 
   // MT-022 Munxar
@@ -1393,6 +1413,7 @@ export const maltaPoi: POI[] = [
       ro: ["Turnul de veghe Xlendi a fost construit în 1650 în timpul domniei Marelui Maestru Lascaris.", "Săpăturile subacvatice au identificat epave romane la adâncimi între 40 și 70 de metri.", "Golful este flancat de stânci care ating înălțimi de peste 100 de metri deasupra nivelului mării.", "Salinele săpate în stâncile de coastă datează din secolele al XVIII-lea și al XIX-lea.", "Podul din Valea Kantra oferă o pasarelă pitorească folosită inițial de recoltatorii de sare.", "Xlendi a fost unul dintre primele golfuri din Gozo care a apărut pe hărțile maritime din secolul XVII."],
       en: ["The Xlendi watchtower was built in 1650 during the reign of Grand Master Lascaris.", "Underwater excavations have identified Roman shipwrecks at depths between 40 and 70 meters.", "The bay is flanking by cliffs that reach heights of over 100 meters above sea level.", "Salt pans carved into the coastal rocks date back to the 18th and 19th centuries.", "The Kantra Valley bridge provides a scenic walkway originally used by salt harvesters.", "Xlendi was one of the first bays in Gozo to be featured in 17th-century maritime maps."],
     },
+    image: "/poi-images/poi-mt-xlendi.webp",
   },
   {
     id: "poi-mt-sanap-cliffs",
@@ -1490,6 +1511,7 @@ export const maltaPoi: POI[] = [
       ro: ["Laguna Albastră acoperă o suprafață de aproximativ 2,7 hectare de apă puțin adâncă.", "Adâncimea apei în lagună variază de la 1 metru până la aproximativ 5 metri.", "Insula Comino are o populație rezidentă permanentă de mai puțin de 5 persoane.", "Turnul Santa Marija a fost construit în 1618 pentru apărarea de coastă.", "Nisipul alb de pe fundul mării constă în principal din fragmente de scoici și calcar.", "Comino a fost declarată sanctuar de păsări și rezervație naturală în anii 1900."],
       en: ["The Blue Lagoon covers a surface area of approximately 2.7 hectares of shallow water.", "The water depth in the lagoon ranges from 1 meter to about 5 meters in deeper parts.", "The surrounding island of Comino has a permanent resident population of fewer than 5 people.", "Santa Marija Tower, overlooking the lagoon, was constructed in 1618 for coastal defense.", "The white sand on the seabed consists primarily of fragmented shells and limestone particles.", "Comino was declared a bird sanctuary and a nature reserve under Maltese law in the 1900s."],
     },
+    image: "/poi-images/poi-mt-blue-lagoon.webp",
   },
   {
     id: "poi-mt-fort-chambray",
@@ -1554,6 +1576,7 @@ export const maltaPoi: POI[] = [
       ro: ["Golful este situat la aproximativ 1 kilometru peste canal de insula Comino.", "Salinele tradiționale din zonă au fost utilizate pe scară largă în anii 1800 pentru comerțul local.", "Apele cristaline din Ħondoq sunt printre cele mai curate din întregul arhipelag maltez.", "Sondajele arheologice au identificat cuptoare de var antice pe dealurile din jur.", "Protestele de mediu din anii 2000 au oprit cu succes un proiect planificat de mega-marina.", "Fundul mării prezintă câteva caverne subacvatice care se extind adânc în stâncile de calcar."],
       en: ["The bay is situated approximately 1 kilometer across the channel from the island of Comino.", "Traditional salt pans in the area were extensively used during the 1800s for local trade.", "The crystal-clear waters of Ħondoq are among the cleanest in the entire Maltese archipelago.", "Archaeological surveys have identified ancient lime kilns in the surrounding hillsides.", "Environmental protests in the early 2000s successfully halted a planned mega-marina project.", "The seabed features several underwater caverns that extend deep into the limestone cliffs."],
     },
+    image: "/poi-images/poi-mt-hondoq.webp",
   },
   {
     id: "poi-mt-st-anthony-battery",
@@ -1618,6 +1641,7 @@ export const maltaPoi: POI[] = [
       ro: ["Golful se află la aproximativ 1,5 kilometri nord de satul Nadur.", "Nisipul roșiatic este identic din punct de vedere geologic cu cel din Golful Ramla.", "Drumul către golf are o înclinație de peste 20 la sută.", "În apropiere se află Turnul Ta' Sopu, un turn de veghe construit în 1667.", "Golful are o lățime de numai aproximativ 100 de metri.", "Fundul mării este în mare parte nisipos, cu câteva secțiuni stâncoase pe margini."],
       en: ["The bay is located approximately 1.5 kilometers north of the village of Nadur.", "The reddish sand is geologically identical to that of the larger Ramla Bay.", "The road to the bay has a gradient exceeding 20 percent.", "Nearby is the Ta' Sopu Tower, a watchtower dating back to 1667.", "The bay is only about 100 meters wide.", "The seabed is mostly sandy with some rocky sections at the edges."],
     },
+    image: "/poi-images/poi-mt-san-blas.webp",
   },
   {
     id: "poi-mt-kenuna",
@@ -1649,6 +1673,7 @@ export const maltaPoi: POI[] = [
       ro: ["Turnul a fost construit în anul 1848 sub guvernatorul Richard More O'Ferrall.", "Se află pe cel mai înalt punct din Nadur, la o altitudine de 148 de metri.", "Sistemul de semafor putea transmite semnale pe o distanță de 14 kilometri.", "Turnul a fost una dintre cele doar trei stații de semafor de pe Gozo.", "Restaurarea din 2005 a costat aproximativ 120.000 de euro.", "Grădina botanică de la baza turnului conține specii rare, cum ar fi arborele național maltez."],
       en: ["The tower was built in 1848 under Governor Richard More O'Ferrall.", "It is located at the highest point of Nadur at an altitude of 148 meters.", "The semaphore system could transmit signals over a distance of 14 kilometers.", "The tower was one of only three semaphore stations on Gozo.", "The restoration in 2005 cost approximately 120,000 euros.", "The botanical garden at the base of the tower contains rare species such as the Maltese national tree."],
     },
+    image: "/poi-images/poi-mt-kenuna.webp",
   },
 
   // MT-027 Xagħra
@@ -1682,6 +1707,7 @@ export const maltaPoi: POI[] = [
       ro: ["Templele au o vechime de peste 5.500 de ani.", "Complexul a fost recunoscut ca Patrimoniu Mondial UNESCO în 1980.", "Unele dintre pietre cântăresc peste 50 de tone.", "Zidul exterior atinge o înălțime de șase metri în unele locuri.", "Arheologii au găsit dovezi ale arderii silexului în interior.", "Templele au fost construite fără utilizarea uneltelor din metal."],
       en: ["The temples are over 5,500 years old.", "The complex was recognized as a UNESCO World Heritage site in 1980.", "Some of the stones weigh over 50 tons.", "The outer wall reaches a height of six meters in some places.", "Archaeologists found evidence of flint burning inside.", "The temples were constructed without the use of metal tools."],
     },
+    image: "/poi-images/poi-mt-ggantija.webp",
   },
   {
     id: "poi-mt-ramla",
@@ -1777,6 +1803,7 @@ export const maltaPoi: POI[] = [
       ro: ["Valea se varsă într-un braț de mare îngust, lung de aproximativ 300 de metri.", "În stânci se află Cathedral Cave, un loc faimos pentru scufundări.", "O scară abruptă cu aproximativ 100 de trepte duce jos la plaja cu pietriș.", "Valea adăpostește o specie rară de muștar de mare.", "Adâncimea apei în brațul de mare variază între 2 și 10 metri.", "Stâncile sunt formate în principal din calcar coralifer inferior."],
       en: ["The valley opens into a narrow inlet approximately 300 meters long.", "The Cathedral Cave, a famous diving site, is located in the cliffs.", "A steep staircase with about 100 steps leads down to the pebble beach.", "The valley is home to a rare species of sea rocket.", "The water depth in the inlet varies between 2 and 10 meters.", "The rocks consist mainly of Lower Coralline Limestone."],
     },
+    image: "/poi-images/poi-mt-wied-il-ghasri.webp",
   },
   {
     id: "poi-mt-giordan-lighthouse",
@@ -1841,6 +1868,7 @@ export const maltaPoi: POI[] = [
       ro: ["Viziunea lui Karmni Grima a avut loc la 22 iunie 1883.", "Papa Ioan Paul al II-lea a vizitat sanctuarul în anul 1990.", "Construcția bazilicii a durat unsprezece ani, din 1920 până în 1931.", "Turnul bisericii are o înălțime de 61 de metri.", "Tabloul de deasupra altarului înfățișează Adormirea Maicii Domnului și datează din 1619.", "Mozaicurile din curte sunt formate din peste un milion de piese individuale."],
       en: ["The vision of Karmni Grima occurred on June 22, 1883.", "Pope John Paul II visited the sanctuary in 1990.", "The construction of the basilica took eleven years, from 1920 to 1931.", "The church tower is 61 meters high.", "The altarpiece depicts the Assumption of Mary and dates back to 1619.", "The mosaics on the forecourt consist of over one million individual stones."],
     },
+    image: "/poi-images/poi-mt-ta-pinu.webp",
   },
   {
     id: "poi-mt-wied-il-mielah",
@@ -1905,6 +1933,7 @@ export const maltaPoi: POI[] = [
       ro: ["Citadela a fost inclusă pe lista tentativă a Patrimoniului Mondial UNESCO în 1998.", "În timpul atacului otoman din 1551, aproape toți cei 6.000 de locuitori au fost luați în sclavie.", "Catedrala a fost construită între 1697 și 1711.", "Pictura trompe-l'œil din catedrală creează iluzia unei cupole.", "Restaurarea din 2008 până în 2016 a costat aproximativ 14 milioane de euro.", "Zidurile oferă o perspectivă de 360 de grade asupra întregii insule Gozo."],
       en: ["The Citadel was placed on the UNESCO World Heritage tentative list in 1998.", "During the Ottoman attack in 1551, almost all 6,000 inhabitants were taken into slavery.", "The Cathedral was built between 1697 and 1711.", "The trompe-l'œil painting in the Cathedral creates the illusion of a dome.", "The restoration from 2008 to 2016 cost approximately 14 million euros.", "The walls offer a 360-degree view over all of Gozo."],
     },
+    image: "/poi-images/poi-mt-citadel.webp",
   },
   {
     id: "poi-mt-victoria-market",
@@ -1936,6 +1965,7 @@ export const maltaPoi: POI[] = [
       ro: ["Piața este localizată în Pjazza l-Indipendenza din Victoria.", "Banca Giuratale din apropiere a fost construită în anul 1733.", "Este un loc principal pentru achiziționarea dantelei de Gozo.", "Numele 'It-Tokk' provine din limba malteză și înseamnă loc de întâlnire.", "Zona a fost centrul administrativ al insulei încă din epoca medievală.", "Piața găzduiește zilnic producători locali de miere și dulciuri."],
       en: ["The market is located in Independence Square (Pjazza l-Indipendenza).", "The nearby Banca Giuratale was built in 1733 for the local council.", "It is famous for selling authentic handmade Gozitan lace.", "The name 'It-Tokk' is derived from a Maltese word for a meeting place.", "Historically, the square was used for major government proclamations.", "Local products like sun-dried tomatoes and honey are staples here."],
     },
+    image: "/poi-images/poi-mt-victoria-market.webp",
   },
 
   // MT-032 Fontana
@@ -1969,6 +1999,7 @@ export const maltaPoi: POI[] = [
       ro: ["Structurile de piatră ale izvoarelor datează din anul 1588.", "Cele două unități principale se numesc Ghajn il-Kbira și Ghajn Tuta.", "Apa alimentează sistemul de irigații din valea Lunzjata.", "Satul Fontana s-a format în jurul acestor surse vitale de apă.", "Arcadele de piatră sunt construite în stilul arhitectural al epocii.", "Izvoarele sunt printre puținele surse perene de apă dulce din Malta."],
       en: ["The stone shelters over the springs were constructed in 1588.", "There are two main spring sites: Ghajn il-Kbira and Ghajn Tuta.", "The water flows directly into the nearby Lunzjata Valley.", "The village of Fontana is named after these historic springs.", "The structures feature large stone troughs for public washing.", "These springs provided a consistent water supply even in droughts."],
     },
+    image: "/poi-images/poi-mt-fontana-springs.webp",
   },
   {
     id: "poi-mt-fontana-church",
@@ -2033,6 +2064,7 @@ export const maltaPoi: POI[] = [
       ro: ["Construcția rotondei a fost realizată între anii 1952 și 1978.", "Cupola are o înălțime de 75 de metri și nu are piloni de susținere.", "Greutatea estimată a cupolei este de 45.000 de tone.", "Biserica poate găzdui o comunitate de până la 3.000 de persoane.", "Arhitectul proiectului a fost maltezul Joseph D'Amato.", "Parohia din Xewkija a fost oficial fondată în anul 1678."],
       en: ["Construction took 26 years, spanning from 1952 to 1978.", "The dome is 75 meters high with an external diameter of 27 meters.", "The estimated weight of the dome structure is 45,000 tons.", "The church has a seating capacity of approximately 3,000 people.", "It was designed by the architect Joseph D'Amato.", "Xewkija was established as the first parish outside Victoria in 1678."],
     },
+    image: "/poi-images/poi-mt-xewkija-rotunda.webp",
   },
 
   // MT-034 Mosta
@@ -2066,6 +2098,7 @@ export const maltaPoi: POI[] = [
       ro: ["Bazilica a fost construită pe parcursul a 27 de ani, între 1833 și 1860.", "Diametrul interior al cupolei este de 37,2 metri.", "Arhitectul Giorgio Grognet de Vassé a folosit stilul neoclasic.", "Bomba care nu a explodat în 1942 cântărea aproximativ 200 kg.", "Interiorul adăpostește picturi remarcabile de Giuseppe Calì.", "Este a treia sau a patra cea mai mare cupolă nesusținută din Europa."],
       en: ["The church was constructed between 1833 and 1860.", "The dome has an internal diameter of 37.2 meters (122 feet).", "It was designed by Giorgio Grognet de Vassé in the neoclassical style.", "The 'Miracle of Mosta' bomb fell through the roof on April 9, 1942.", "Over 300 people were inside the church when the bomb failed to detonate.", "The church was elevated to the status of a Minor Basilica in 2018."],
     },
+    image: "/poi-images/poi-mt-mosta.webp",
   },
   {
     id: "poi-mt-victoria-lines",
@@ -2130,6 +2163,7 @@ export const maltaPoi: POI[] = [
       ro: ["Turnul a fost construit în anul 1857 ca o structură decorativă.", "Inițial a făcut parte din grădinile private ale Vilei Gourgion.", "Arhitectul Giuseppe Bonavia a realizat proiectul în stil neoclasic.", "Astăzi este situat pe un scuar de trafic din cauza dezvoltării rurale.", "Lija este recunoscut pentru livezile de portocali care înconjurau turnul.", "Structura a fost restaurată pentru a conserva detaliile în piatră."],
       en: ["The Belvedere Tower was constructed in 1857.", "It was originally part of the private gardens of Villa Gourgion.", "The tower was designed by the prominent architect Giuseppe Bonavia.", "It features a unique blend of Gothic and Neoclassical styles.", "The tower was separated from the villa by road construction in the 1950s.", "It is now a Grade 1 listed national monument."],
     },
+    image: "/poi-images/poi-mt-lija-belvedere.webp",
   },
   {
     id: "poi-mt-lija-church",
@@ -2161,6 +2195,7 @@ export const maltaPoi: POI[] = [
       ro: ["Biserica a fost ridicată în perioada 1694-1702.", "Arhitectul Giovanni Barbara a proiectat această capodoperă barocă.", "Pictura principală de pe altar este semnată de artistul Giuseppe Calì.", "Sărbătoarea parohiei din 6 august atrage mii de vizitatori anual.", "Lija este recunoscut în Malta pentru calitatea focurilor de artificii.", "Interiorul conține sculpturi în piatră realizate de meșteri locali."],
       en: ["The current church was built between 1694 and 1702.", "It was designed by the prominent Maltese architect Giovanni Barbara.", "The titular altarpiece is a famous work by painter Giuseppe Calì.", "The church celebrates its feast day annually on August 6th.", "The Lija pyrotechnic displays are considered among the best in Malta.", "The building is a Grade 1 scheduled monument of national importance."],
     },
+    image: "/poi-images/poi-mt-lija-church.webp",
   },
 
   // MT-036 Attard
@@ -2194,6 +2229,7 @@ export const maltaPoi: POI[] = [
       ro: ["Palatul a fost ridicat de Marele Maestru Antoine de Paule în secolul XVII.", "Este reședința oficială a șefului statului maltez din 1974.", "Grădinile publice au fost inaugurate în anul 1882.", "Situl găzduiește numeroase fântâni din epoca Cavalerilor de Malta.", "Vegetația include specii aduse din diverse părți ale Imperiului Britanic.", "În curtea interioară au loc anual spectacole de teatru în aer liber."],
       en: ["The palace was constructed between 1623 and 1636.", "It became the official presidential residence in 1974.", "San Anton Gardens were first opened to the public in 1882.", "The palace is named after Saint Anthony of Padua.", "It has hosted numerous international heads of state and royalty.", "The gardens feature an extensive collection of citrus and exotic trees."],
     },
+    image: "/poi-images/poi-mt-san-anton.webp",
   },
   {
     id: "poi-mt-ta-qali",
@@ -2225,6 +2261,7 @@ export const maltaPoi: POI[] = [
       ro: ["Situl a servit ca bază aeriană britanică în timpul celui de-al Doilea Război Mondial.", "Satul meșteșugăresc a fost înființat oficial în anul 1968.", "Tehnica suflării sticlei poate fi observată live în ateliere.", "Mdina Glass, un brand maltez renumit, își are sediul principal aici.", "Atelierele produc filigran tradițional din argint de înaltă calitate.", "Zona a fost recent modernizată pentru a facilita accesul turiștilor."],
       en: ["The site was a key RAF airfield during the Second World War.", "The crafts village was officially established in 1968.", "It is the primary location for traditional Maltese glass blowing.", "Silver and gold filigree jewelry is handmade on-site.", "The original workshops were located in military Nissen huts.", "The village underwent a major 14 million euro renovation recently."],
     },
+    image: "/poi-images/poi-mt-ta-qali.webp",
   },
 
   // MT-037 Mtarfa
@@ -2258,6 +2295,7 @@ export const maltaPoi: POI[] = [
       ro: ["Anul construcției: 1895", "Stil: Arhitectură militară victoriană", "Material: Calcar local", "Funcție: Cronometrarea garnizoanei britanice", "Locație: Podișul Mtarfa", "Statut: Monument istoric protejat"],
       en: ["Year built: 1895", "Style: Victorian military architecture", "Material: Local limestone", "Purpose: Timekeeping for British garrison", "Location: Mtarfa plateau", "Status: Well-preserved colonial monument"],
     },
+    image: "/poi-images/poi-mt-mtarfa-clock.webp",
   },
   {
     id: "poi-mt-mtarfa-naval",
@@ -2322,6 +2360,7 @@ export const maltaPoi: POI[] = [
       ro: ["Fostă capitală a Maltei", "Populație actuală: aprox. 250 locuitori", "Fondare: aprox. 700 î.Hr. de către fenicieni", "Poreclă: 'Orașul Tăcerii'", "Regulă specială: Acces auto restricționat", "Arhitectură: Amestec de stil siculo-normand și baroc"],
       en: ["Ancient capital city of Malta", "Current population: approx. 250", "Founded: c. 700 BC by Phoenicians", "Nickname: 'The Silent City'", "Unique feature: Mostly car-free historic zone", "Architecture: Mix of Norman and Baroque styles"],
     },
+    image: "/poi-images/poi-mt-mdina.webp",
   },
   {
     id: "poi-mt-st-paul-cathedral",
@@ -2417,6 +2456,7 @@ export const maltaPoi: POI[] = [
       ro: ["Anul construcției: 1777", "Stil: Arc de triumf baroc târziu", "Titlu oraș: Città Rohan", "Dedicat: Marelui Maestru Emmanuel de Rohan-Polduc", "Locație: Intrarea principală în Żebbuġ", "Importanță: Monument național de categoria I"],
       en: ["Year built: 1777", "Style: Late Baroque triumphal arch", "City title: Città Rohan", "Dedicated to: Grand Master Emmanuel de Rohan-Polduc", "Location: Entrance to the town of Żebbuġ", "Status: Scheduled national monument"],
     },
+    image: "/poi-images/poi-mt-zebbug-arch.webp",
   },
   {
     id: "poi-mt-zebbug-church",
@@ -2481,6 +2521,7 @@ export const maltaPoi: POI[] = [
       ro: ["Poreclă: Casal Fornaro (Satul Brutarilor)", "Produs principal: Ħobż tal-Malti (pâine malteză)", "Metodă: Cuptoare tradiționale cu lemne", "Eveniment: Festivalul Casal Fornaro", "Istoric: Centru de panificație de peste 400 de ani", "Locație: Centrul vechi din Qormi"],
       en: ["Nickname: Casal Fornaro (Baker's Village)", "Specialty: Ħobż tal-Malti (Maltese bread)", "Method: Traditional wood-fired stone ovens", "Event: Annual Casal Fornaro festival", "Heritage: Centuries-old family-run bakeries", "Location: Historic center of Qormi"],
     },
+    image: "/poi-images/poi-mt-qormi-bread.webp",
   },
   {
     id: "poi-mt-st-george-qormi",
@@ -2545,6 +2586,7 @@ export const maltaPoi: POI[] = [
       ro: ["Anul construcției: Sfârșitul secolului al XIX-lea", "Rol: Parte a liniei defensive Victoria Lines", "Locație: Peste valea Wied id-Dis", "Material: Calcar maltez", "Importanță: Monument de inginerie militară britanică", "Acces: Destinație populară pentru drumeții"],
       en: ["Year built: Late 19th century", "Function: Part of the Victoria Lines fortifications", "Location: Spanning the Wied id-Dis valley", "Material: Local Maltese limestone", "Significance: Victorian military infrastructure", "Status: Popular spot for heritage hiking"],
     },
+    image: "/poi-images/poi-mt-madliena-bridge.webp",
   },
   {
     id: "poi-mt-swieqi-parish",
@@ -2576,6 +2618,7 @@ export const maltaPoi: POI[] = [
       ro: ["Swieqi a devenit oficial o parohie independentă la 1 ianuarie 1999.", "Biserica este dedicată Imaculatei Concepții a Fecioarei Maria.", "Clădirea a fost finalizată în anii 1990 pentru a deservi zona rezidențială.", "Parohia include și districtele adiacente Madliena și St. Andrews.", "Sărbătoarea patronală a bisericii are loc anual pe data de 8 decembrie.", "Designul arhitectural reflectă tendințele moderne ale sfârșitului de secol XX."],
       en: ["Swieqi was officially established as an independent parish on January 1, 1999.", "The church is dedicated to the Immaculate Conception of the Virgin Mary.", "The building was completed in the 1990s to serve the expanding locality.", "The parish territory covers Swieqi, Madliena, and parts of St. Andrews.", "The annual titular feast is celebrated on the 8th of December.", "The church's architecture is a departure from traditional Maltese Baroque styles."],
     },
+    image: "/poi-images/poi-mt-swieqi-parish.webp",
   },
 
   // MT-042 Għargħur
@@ -2609,6 +2652,7 @@ export const maltaPoi: POI[] = [
       ro: ["Punctul de observație oferă o vedere clară asupra Victoria Lines, finalizate în 1897.", "Locația domină valea fertilă Wied id-Dis și zona de coastă Magħtab.", "În condiții de vizibilitate maximă, se poate observa silueta insulei Gozo.", "Zona găzduiește exemple bine conservate de 'cart ruts' din epoca bronzului.", "Fortificațiile Victoria Lines sunt supranumite uneori Marele Zid Maltez.", "Peisajul natural este format dintr-o floră de macchia mediteraneană autentică."],
       en: ["The viewpoint overlooks the Victoria Lines, which were completed in 1897.", "It provides a commanding view of the Wied id-Dis valley and Magħtab coast.", "On very clear days, the island of Gozo can be seen on the horizon.", "The area contains ancient cart ruts, possibly dating back to the Bronze Age.", "The Victoria Lines are often referred to as the 'Great Wall of Malta'.", "The natural terrain features a variety of endemic Maltese flora and fauna."],
     },
+    image: "/poi-images/poi-mt-top-of-the-world.webp",
   },
   {
     id: "poi-mt-gharghur-church",
@@ -2640,6 +2684,7 @@ export const maltaPoi: POI[] = [
       ro: ["Construcția bisericii a început în 1610 sub îndrumarea lui Tumas Dingli.", "Fațada actuală în stil doric a fost finalizată în anul 1743.", "Statuia titulară a Sfântului Bartolomeu a fost sculptată în 1902.", "Għargħur a fost ridicat la rangul de parohie independentă în anul 1610.", "Interiorul adăpostește numeroase picturi valoroase din epoca barocă.", "Sărbătoarea parohială este celebrată anual în ultima duminică din august."],
       en: ["Construction of the church started in 1610 under architect Tumas Dingli.", "The current Doric-style facade was completed in the year 1743.", "The titular statue of St. Bartholomew was commissioned in Rome in 1902.", "Għargħur was established as an independent parish in 1610.", "The church interior contains significant artworks from the 17th and 18th centuries.", "The village feast is celebrated annually on the last Sunday of August."],
     },
+    image: "/poi-images/poi-mt-gharghur-church.webp",
   },
 
   // MT-043 San Ġwann
@@ -2673,6 +2718,7 @@ export const maltaPoi: POI[] = [
       ro: ["Sanctuarul a fost ridicat deasupra unei grote naturale din calcar.", "Numele 'Mensija' înseamnă 'cea uitată' în limba malteză.", "Legenda redescoperirii capelei datează din secolul al XV-lea.", "Clădirea vizibilă astăzi a fost renovată și extinsă în secolul al XVII-lea.", "În cripta subterană se află un altar sculptat parțial în stâncă.", "Sărbătoarea Fecioarei de Mensija are loc anual în luna septembrie."],
       en: ["The sanctuary is built directly over a natural limestone cave.", "The name 'Mensija' translates to 'the forgotten one' in Maltese.", "The legend of the chapel's rediscovery dates back to the 15th century.", "The present-day chapel structure was significantly updated in the 17th century.", "The crypt features an altar positioned within the rock formations.", "The feast of Our Lady of Mensija is celebrated annually in September."],
     },
+    image: "/poi-images/poi-mt-mensija-sanctuary.webp",
   },
   {
     id: "poi-mt-san-gwann-ruts",
@@ -2704,6 +2750,7 @@ export const maltaPoi: POI[] = [
       ro: ["Șanțurile sunt tăiate direct în calcarul coralifer dur al insulei.", "Unele dintre urme ating o adâncime de până la 60 de centimetri.", "Distanța dintre cele două șanțuri paralele este constantă, de circa 1,4 metri.", "Vârsta estimată a acestor structuri este între 2000 și 3000 de ani.", "Rețeaua din San Ġwann include joncțiuni și bifurcații unice.", "Situl arheologic este situat pe un platou natural deasupra orașului."],
       en: ["The cart ruts are carved into the island's hard coralline limestone.", "Some of the tracks reach a significant depth of up to 60 centimeters.", "The gauge between the parallel tracks is typically around 1.4 meters.", "Archaeologists estimate the ruts were created between 2000 and 3000 years ago.", "The San Ġwann site features rare instances of intersecting track patterns.", "The tracks are located on a plateau offering a strategic view of the area."],
     },
+    image: "/poi-images/poi-mt-san-gwann-ruts.webp",
   },
 
   // MT-044 Iklin
@@ -2737,6 +2784,7 @@ export const maltaPoi: POI[] = [
       ro: ["Capela actuală a fost construită în 1615 pe locul unui lăcaș mai vechi.", "Este situată în valea pitorească Iklin, cunoscută sub numele de Wied l-Iklin.", "Lăcașul de cult este dedicat Arhanghelului Mihail.", "În secolul al XVII-lea, capela a fost supusă unor lucrări majore de renovare.", "Fațada include o mică nișă pentru clopot, specifică arhitecturii rurale.", "Sărbătoarea Sfântului Mihail este marcată anual pe data de 29 septembrie."],
       en: ["The current chapel was built in 1615 on the site of an earlier structure.", "It is situated in the scenic Iklin Valley, also known as Wied l-Iklin.", "The chapel is dedicated to the Archangel Michael.", "Extensive restoration work was carried out on the chapel during the 17th century.", "The building features a traditional Maltese parvis or 'zuntier' in front.", "The feast of St. Michael is celebrated annually on the 29th of September."],
     },
+    image: "/poi-images/poi-mt-iklin-chapel.webp",
   },
   {
     id: "poi-mt-iklin-square",
@@ -2768,6 +2816,7 @@ export const maltaPoi: POI[] = [
       ro: ["Piața poartă numele scriitorului și lingvistului maltez Ninu Cremona.", "Iklin a devenit o parohie independentă în mod oficial în anul 2005.", "Zona a fost utilizată exclusiv pentru agricultură până la mijlocul secolului XX.", "Piața este situată strategic lângă arterele principale care leagă nordul insulei.", "Un monument modern din piață este dedicat identității locale a comunității.", "Dezvoltarea rezidențială a localității Iklin a început masiv după 1970."],
       en: ["The square is named after the Maltese author and linguist Ninu Cremona.", "Iklin was officially recognized as an independent parish in 2005.", "The area remained largely agricultural until the mid-20th century.", "The square is located close to the main bypass connecting the north to the center.", "A modern monument in the square celebrates the local community's identity.", "Iklin's residential growth surged significantly after the 1970s."],
     },
+    image: "/poi-images/poi-mt-iklin-square.webp",
   },
 
   // MT-045 Birkirkara
@@ -2801,6 +2850,7 @@ export const maltaPoi: POI[] = [
       ro: ["Biserica găzduiește cel mai mare clopot din Malta, turnat în 1932 la Milano.", "Bazilica a fost ridicată în stil baroc între anii 1727 și 1745.", "Titlul de 'Basilica Minor' a fost conferit oficial la 18 ianuarie 1950.", "Sărbătoarea Sfântei Elena are loc anual pe data de 18 august.", "Statuia titulară a Sfintei Elena a fost finalizată în anul 1837.", "Birkirkara este renumită pentru procesiunea sa religioasă de duminică dimineața."],
       en: ["The church houses the largest bell in Malta, cast in Milan in 1932.", "The basilica was constructed in the Baroque style between 1727 and 1745.", "The title of 'Basilica Minor' was conferred on January 18, 1950.", "The titular feast of St. Helen is celebrated annually on August 18th.", "The iconic statue of St. Helen was completed in the year 1837.", "It is one of the few Maltese parishes to hold its main procession in the morning."],
     },
+    image: "/poi-images/poi-mt-birkirkara.webp",
   },
   {
     id: "poi-mt-birkirkara-station",
@@ -2865,6 +2915,7 @@ export const maltaPoi: POI[] = [
       ro: ["Piatra de temelie a bisericii actuale a fost pusă în anul 1669.", "Pictura principală a altarului este realizată de maestrul Stefano Erardi.", "Lăcașul de cult a fost sfințit oficial la data de 7 octombrie 1781.", "Turnul clopotniță a fost adăugat structurii principale în anul 1708.", "Parohia Balzan a fost înființată inițial în secolul al XV-lea.", "Sărbătoarea anuală a Bunei Vestiri este celebrată în a doua duminică din iulie."],
       en: ["The foundation stone of the current church was laid in 1669.", "The titular painting of the Annunciation is the work of Stefano Erardi.", "The church was officially consecrated on October 7, 1781.", "The bell tower was added to the church structure in 1708.", "Balzan was established as an independent parish in the mid-15th century.", "The annual titular feast is held on the second Sunday of July."],
     },
+    image: "/poi-images/poi-mt-balzan-church.webp",
   },
   {
     id: "poi-mt-wignacourt-aqueduct",
@@ -2929,6 +2980,7 @@ export const maltaPoi: POI[] = [
       ro: ["A fost grădina privată a Palazzo Manoel în secolul XVIII.", "Accesul publicului a fost permis începând cu anul 1977.", "Numele provine de la Romeo Romano, un binefăcător local.", "Dispune de o roată de apă istorică pentru irigații.", "Este renumită pentru numărul mare de pomi citrici.", "Găzduiește o expoziție de unelte agricole tradiționale."],
       en: ["Originally part of the 18th-century Palazzo Manoel.", "Opened to the general public in the year 1977.", "Named after Romeo Romano, a local benefactor.", "Features an original water wheel used for irrigation.", "Contains an extensive and historic citrus tree grove.", "Houses a small museum of traditional farming tools."],
     },
+    image: "/poi-images/poi-mt-romeo-romano.webp",
   },
   {
     id: "poi-mt-casa-leoni",
@@ -2993,6 +3045,7 @@ export const maltaPoi: POI[] = [
       ro: ["Sediul central al Societății Doctrinei Creștine (M.U.S.E.U.M.).", "Găzduiește mormântul și moaștele Sfântului George Preca.", "Piatra de temelie a fost pusă în anul 1954.", "Sfântul George Preca a fost canonizat în anul 2007.", "Dedicată Medaliei Miraculoase conform tradiției franceze.", "Complexul dispune de un auditorium pentru evenimente mari."],
       en: ["Headquarters of the Society of Christian Doctrine (M.U.S.E.U.M.).", "Contains the tomb and relics of Saint George Preca.", "The foundation stone was officially laid in 1954.", "Saint George Preca was canonized in the year 2007.", "Dedicated to the Miraculous Medal of the Virgin Mary.", "The adjacent auditorium is used for major religious events."],
     },
+    image: "/poi-images/poi-mt-miraculous-medal.webp",
   },
   {
     id: "poi-mt-hamrun-liberty",
@@ -3057,6 +3110,7 @@ export const maltaPoi: POI[] = [
       ro: ["Fondat în anul 1868 sub administrație britanică.", "Lungimea pistei principale este de 1.752 de metri.", "Specializat în curse de trap, foarte populare în Malta.", "Dispune de grajduri pentru peste 400 de cai.", "Găzduiește peste 50 de zile de cursă în fiecare an.", "Face parte dintr-un complex sportiv vast din zona Marsa."],
       en: ["Established in 1868 during the British colonial period.", "The main racing track is 1,752 meters in length.", "Focuses primarily on trotting, a popular national sport.", "Contains stabling facilities for over 400 horses.", "Hosts more than 50 race meetings every year.", "Situated within a larger sports complex in the Marsa area."],
     },
+    image: "/poi-images/poi-mt-marsa-racing.webp",
   },
   {
     id: "poi-mt-turkish-cemetery",
@@ -3121,6 +3175,7 @@ export const maltaPoi: POI[] = [
       ro: ["Terminalul actual a fost inaugurat în anul 1992.", "Dispune de două piste (3.544 m și 2.377 m lungime).", "A depășit pragul de 7 milioane de pasageri în 2019.", "Hub principal pentru compania aeriană KM Malta Airlines.", "Conectează Malta cu peste 100 de destinații externe.", "Premiat repetat pentru calitatea serviciilor la nivel european."],
       en: ["The present passenger terminal opened in 1992.", "Features two runways measuring 3,544m and 2,377m.", "Handled over 7 million passengers in the year 2019.", "Serves as the main hub for KM Malta Airlines.", "Connects the island to over 100 different destinations.", "Voted best European airport in its size category multiple times."],
     },
+    image: "/poi-images/poi-mt-airport.webp",
   },
   {
     id: "poi-mt-luqa-parish",
@@ -3152,6 +3207,7 @@ export const maltaPoi: POI[] = [
       ro: ["Vechea biserică a fost distrusă de bombe în 1942.", "Procesul de reconstrucție a durat din 1944 până în 1962.", "Statuia titulară a Sfântului Andrei este opera lui Giuseppe Scolaro.", "Biserica deține unul dintre cele mai mari clopote de pe insulă.", "Pictura plafonului ilustrează viața și martiriul Sfântului Andrei.", "Sărbătoarea patronală are loc în prima duminică din iulie."],
       en: ["The original church was destroyed by bombs in 1942.", "Reconstruction took place between 1944 and 1962.", "The titular statue of St. Andrew was carved by Giuseppe Scolaro.", "The church houses one of the largest bells in Malta.", "Ceiling frescoes depict various scenes from the life of St. Andrew.", "The village feast is celebrated on the first Sunday of July."],
     },
+    image: "/poi-images/poi-mt-luqa-parish.webp",
   },
 
   // MT-051 Mqabba
@@ -3185,6 +3241,7 @@ export const maltaPoi: POI[] = [
       ro: ["Datează din perioada cuprinsă între secolele IV și IX d.Hr.", "Include mese „agape” circulare sculptate direct în stâncă.", "Documentate pentru prima dată de A.A. Caruana în 1860.", "Complexul Tal-Mintna este format din trei mici catacombe.", "Prezintă diverse tipuri de morminte, inclusiv pentru copii.", "Administrate în prezent de instituția Heritage Malta."],
       en: ["Dated to the period between the 4th and 9th centuries AD.", "Features rare rock-cut 'agape tables' for ritual meals.", "First described by scholar A.A. Caruana in the year 1860.", "The Tal-Mintna complex consists of three small catacombs.", "Contains a variety of tomb types for adults and children.", "Managed and protected by the national agency Heritage Malta."],
     },
+    image: "/poi-images/poi-mt-mqabba-catacombs.webp",
   },
   {
     id: "poi-mt-mqabba-tower",
@@ -3249,6 +3306,7 @@ export const maltaPoi: POI[] = [
       ro: ["Înălțimea menhirului este de aproximativ 3,1 metri deasupra solului.", "Datat în perioada templelor preistorice (3600–2500 î.Hr.).", "Porecla locală a monumentului este 'It-Tfajla' (Fata).", "Este realizat dintr-un singur bloc monolitic de calcar local.", "Lângă monument au fost identificate mai multe morminte punice.", "Reprezintă un vestigiu rar al culturii megalitice din Malta."],
       en: ["The standing stone measures approximately 3.1 meters in height.", "Dates back to the Temple Period, circa 3600–2500 BC.", "Known in the local Maltese language as 'It-Tfajla'.", "Carved from a single large block of globigerina limestone.", "Punic shaft tombs were discovered in the immediate vicinity.", "One of the few prehistoric menhirs still standing in its original site."],
     },
+    image: "/poi-images/poi-mt-kirkop-menhir.webp",
   },
   {
     id: "poi-mt-kirkop-church",
@@ -3280,6 +3338,7 @@ export const maltaPoi: POI[] = [
       ro: ["Parohia Kirkop a fost înființată oficial în anul 1592.", "Biserica actuală a fost construită în perioada 1706–1716.", "Este singura biserică parohială din Malta dedicată Sfântului Leonard.", "Fațada bisericii include două turnuri clopotniță simetrice.", "Interiorul adăpostește relicve și sculpturi religioase de mare valoare.", "Sărbătoarea patronală a satului este celebrată în fiecare an în septembrie."],
       en: ["The parish of Kirkop was formally established in the year 1592.", "The current church structure was built between 1706 and 1716.", "It is dedicated to Saint Leonard, the patron saint of prisoners.", "The architectural style is a classic example of Maltese Baroque.", "The facade is flanked by two distinctively designed bell towers.", "The church holds a central role in the village's annual 'festa' celebrations."],
     },
+    image: "/poi-images/poi-mt-kirkop-church.webp",
   },
 
   // MT-053 Safi
@@ -3313,6 +3372,7 @@ export const maltaPoi: POI[] = [
       ro: ["Grădina poartă numele primului guvernator britanic al Maltei, Sir Alexander Ball.", "Este situată în nucleul istoric al localității Safi.", "Sir Alexander Ball a fost un aliat cheie al maltezilor împotriva francezilor.", "Spațiul este amenajat cu vegetație specifică zonei mediteraneene.", "Inaugurarea grădinii face parte din conservarea moștenirii britanice.", "Oferă o zonă de recreere publică într-o zonă rurală liniștită."],
       en: ["Named after Sir Alexander Ball, the first British Civil Commissioner of Malta.", "The garden is situated in the central part of the village of Safi.", "Sir Alexander Ball served in Malta between 1799 and 1809.", "It features a variety of local trees and flowering plants.", "The site commemorates Ball's role in the Maltese revolt against Napoleon.", "It is one of the primary public recreational spaces in the small village."],
     },
+    image: "/poi-images/poi-mt-safi-garden.webp",
   },
   {
     id: "poi-mt-safi-church",
@@ -3344,6 +3404,7 @@ export const maltaPoi: POI[] = [
       ro: ["Parohia din Safi a fost declarată independentă la 15 aprilie 1598.", "Biserica actuală a fost sfințită în anul 1744.", "Este dedicată evenimentului biblic al Convertirii Sfântului Pavel.", "Arhitectura bisericii urmează stilul baroc târziu maltez.", "Interiorul conține o statuie procesională a Sfântului Pavel datată 1844.", "Turnul clopotniță este una dintre cele mai înalte structuri din sat."],
       en: ["The parish of Safi was established on April 15, 1598.", "The current building was finalized in 1744 after years of work.", "It is dedicated to the Conversion of Saint Paul the Apostle.", "The church architecture reflects the Late Baroque period in Malta.", "It houses a processional statue of Saint Paul carved in 1844.", "The annual feast is celebrated locally on the last Sunday of January."],
     },
+    image: "/poi-images/poi-mt-safi-church.webp",
   },
 
   // MT-054 Għaxaq
@@ -3377,6 +3438,7 @@ export const maltaPoi: POI[] = [
       ro: ["Fațada a fost decorată în perioada 1898–1901.", "Autorul acestei opere de artă populară a fost Indri Cassar.", "S-au folosit mii de scoici marine autentice de diferite specii.", "Motivele decorative includ cruci și alte însemne religioase.", "Casa este un reper turistic major în satul Għaxaq.", "Decorul original a supraviețuit peste 120 de ani în condiții bune."],
       en: ["The shell decoration was carried out between 1898 and 1901.", "The project was completed single-handedly by Indri Cassar.", "Thousands of individual sea shells were used to cover the facade.", "The patterns include intricate geometric designs and religious icons.", "Known locally as 'Id-Dar tal-Bebbux' (The Snail House).", "It is located in a historic narrow street within the village of Għaxaq."],
     },
+    image: "/poi-images/poi-mt-shell-house.webp",
   },
   {
     id: "poi-mt-ghaxaq-church",
@@ -3408,6 +3470,7 @@ export const maltaPoi: POI[] = [
       ro: ["Construcția bisericii a durat peste 50 de ani, fiind finalizată în 1784.", "Hramul principal al bisericii este Adormirea Maicii Domnului.", "Arhitectul responsabil pentru design a fost Sebastiano Saliba.", "Biserica găzduiește celebrul festival 'Santa Marija' în fiecare august.", "Interiorul este decorat cu marmură prețioasă și elemente de aur filigranat.", "Este înregistrată ca monument istoric de importanță națională (Gradul 1)."],
       en: ["The construction of the present church took place between 1733 and 1784.", "It is dedicated to the Assumption of Our Lady, locally called Santa Marija.", "The architectural design is attributed to the master builder Sebastiano Saliba.", "The annual village feast is celebrated with grand fireworks on August 15th.", "The church features a highly ornate interior with extensive marble work.", "It is classified as a Grade 1 monument by the Superintendence of Cultural Heritage."],
     },
+    image: "/poi-images/poi-mt-ghaxaq-church.webp",
   },
 
   // MT-055 Żejtun
@@ -3441,6 +3504,7 @@ export const maltaPoi: POI[] = [
       ro: ["Arhitectul bisericii a fost Lorenzo Gafà, faimos pentru designul catedralei din Mdina.", "Lucrările de construcție s-au desfășurat între anii 1692 și 1720.", "Hramul bisericii este Sfânta Ecaterina din Alexandria.", "Interiorul conține picturi valoroase realizate de Francesco Zahra.", "Cupola este considerată una dintre cele mai reușite din punct de vedere estetic în Malta.", "Edificiul este protejat ca monument de patrimoniu național de gradul 1."],
       en: ["Designed by Lorenzo Gafà, the leading architect of the Maltese Baroque.", "Construction spanned 28 years, starting in 1692 and finishing in 1720.", "Dedicated to Saint Catherine of Alexandria, the patron saint of the town.", "Features interior artwork by the famous 18th-century painter Francesco Zahra.", "The dome is noted for its structural elegance and classical proportions.", "It is a Grade 1 listed building, reflecting its supreme historical importance."],
     },
+    image: "/poi-images/poi-mt-zejtun-parish.webp",
   },
   {
     id: "poi-mt-st-gregory",
@@ -3505,6 +3569,7 @@ export const maltaPoi: POI[] = [
       ro: ["Fgura a devenit parohie independentă la data de 1 februarie 1945.", "Monumentul este dedicat Fecioarei Maria de pe Muntele Carmel.", "Localitatea a cunoscut cea mai mare creștere demografică în anii 1970.", "Structura servește drept reper geografic pe drumul principal spre sud.", "Simbolizează tranziția de la peisaj rural la un centru urban modern.", "Este un punct focal pentru procesiunile religioase locale."],
       en: ["Fgura was formally established as an independent parish in February 1945.", "The monument celebrates the town's identity and religious heritage.", "Our Lady of Mount Carmel is the patron saint depicted in local monuments.", "Fgura is now one of the most densely populated residential areas in Malta.", "The site is located on the main road linking Valletta to the Three Cities.", "It reflects the urban development that replaced traditional farms in the area."],
     },
+    image: "/poi-images/poi-mt-fgura-monument.webp",
   },
   {
     id: "poi-mt-fgura-church",
@@ -3569,6 +3634,7 @@ export const maltaPoi: POI[] = [
       ro: ["Complexul a fost construit în perioada 3600–2500 î.Hr.", "Situl a fost descoperit accidental de fermieri în anul 1913.", "Cuprinde patru temple megalitice conectate între ele.", "A fost inclus în lista Patrimoniului Mondial UNESCO în anul 1980.", "Excavările principale au fost conduse de Sir Themistocles Zammit în 1915.", "Situl conține reliefuri unice reprezentând tauri, scroafe și spirale."],
       en: ["The temple complex dates back to between 3600 and 2500 BC.", "The site was discovered in 1913 while farmers were plowing a field.", "It consists of four distinct megalithic structures.", "Tarxien was inscribed on the UNESCO World Heritage list in 1980.", "Sir Themistocles Zammit led the excavations starting in 1915.", "Evidence of animal sacrifice was found in the form of bones and stone altars."],
     },
+    image: "/poi-images/poi-mt-tarxien.webp",
   },
   {
     id: "poi-mt-kordin",
@@ -3633,6 +3699,7 @@ export const maltaPoi: POI[] = [
       ro: ["Grădina a fost inaugurată oficial pe data de 7 iulie 1997.", "Reprezintă un cadou oferit Maltei de către Republica Populară Chineză.", "Designul se bazează pe principiile echilibrului dintre Yin și Yang.", "Conține numeroase poduri de piatră și pagode construite manual.", "Bazinele cu apă sunt populate cu pești Koi aduși special.", "Elementele de vegetație și rocă sunt dispuse pentru a facilita meditația."],
       en: ["The garden was officially inaugurated on July 7, 1997.", "It was built as a gift from the People's Republic of China to Malta.", "The layout reflects traditional Chinese philosophy and symbolism.", "The ponds are home to a large population of colorful koi fish.", "Traditional pagodas and bridges were constructed by Chinese artisans.", "The garden represents various stages of life, including birth and rebirth."],
     },
+    image: "/poi-images/poi-mt-garden-serenity.webp",
   },
   {
     id: "poi-mt-st-lucija-church",
@@ -3664,6 +3731,7 @@ export const maltaPoi: POI[] = [
       ro: ["Parohia Santa Luċija a fost înființată pe data de 7 iulie 1969.", "Lăcașul de cult este dedicat Sfântului Papă Pius al X-lea.", "Construcția clădirii actuale a fost finalizată complet în anul 1977.", "Stilul arhitectural este unul modern, tipic pentru anii '70.", "Sărbătoarea parohială are loc în fiecare an în luna august.", "Biserica servește drept centru comunitar pentru orașul planificat."],
       en: ["The parish of Santa Luċija was officially created on July 7, 1969.", "The church is dedicated to Saint Pope Pius X.", "The construction of the church building was completed in 1977.", "The architecture represents a modern and functional design.", "The annual parish feast is celebrated at the end of August.", "The church's bell tower is a prominent feature of the town's landscape."],
     },
+    image: "/poi-images/poi-mt-st-lucija-church.webp",
   },
 
   // MT-059 Gudja
@@ -3697,6 +3765,7 @@ export const maltaPoi: POI[] = [
       ro: ["Capela a fost construită în secolul al XV-lea, în jurul anului 1435.", "A servit drept biserică parohială principală pentru regiune până în 1676.", "Conține fresce unice din secolul al XVI-lea reprezentând Judecata de Apoi.", "A fost restaurată de organizația Din l-Art Ħelwa începând cu anul 1970.", "Arhitectura include elemente medievale malteze și influențe gotice.", "Este situată pe teritoriul localității Gudja, lângă aeroport."],
       en: ["The chapel was built in the 15th century, likely around 1435.", "It functioned as the parish church for the entire district until 1676.", "It houses rare 16th-century frescoes depicting the Last Judgment.", "Restoration work was carried out by Din l-Art Ħelwa in the 1970s.", "The building is a rare survivor of pre-Hospitaller Maltese architecture.", "The chapel is a popular venue for international music festivals."],
     },
+    image: "/poi-images/poi-mt-bir-miftuh.webp",
   },
   {
     id: "poi-mt-palazzo-bettina",
@@ -3728,6 +3797,7 @@ export const maltaPoi: POI[] = [
       ro: ["Palatul a fost construit în secolul al XVII-lea pentru familia Muscat Manduca.", "Poartă numele Bettinei Muscat Manduca, o figură proeminentă a nobilimii.", "Se crede că Napoleon Bonaparte a locuit aici în iunie 1798.", "Edificiul include un turn de veghe istoric și o capelă privată.", "Grădinile palatului sunt printre cele mai mari și bine păstrate din Gudja.", "Este considerat un monument arhitectural de categoria A în Malta."],
       en: ["The palace was built in the 17th century as a noble residence.", "It is named after Bettina Muscat Manduca, a prominent Maltese lady.", "Tradition states that Napoleon Bonaparte stayed here in 1798.", "The building features a distinctive lookout tower and a private chapel.", "The palace served as a meeting place for Maltese political leaders.", "It remains one of the finest examples of domestic baroque architecture in Gudja."],
     },
+    image: "/poi-images/poi-mt-palazzo-bettina.webp",
   },
 
   // MT-060 Paola
@@ -3761,6 +3831,7 @@ export const maltaPoi: POI[] = [
       ro: ["Situl a fost construit în perioada 3300–3000 î.Hr.", "A fost descoperit accidental în anul 1902 de către muncitori constructori.", "Cuprinde trei niveluri subterane excavate integral în stâncă.", "Se estimează că adăpostea rămășițele a peste 7.000 de indivizi.", "Celebra statuetă 'Femeia care doarme' a fost găsită în acest sit.", "A fost inclus în lista UNESCO în anul 1980 pentru valoarea sa unică."],
       en: ["The Hypogeum dates back to the Saflieni phase (3300–3000 BC).", "It was discovered in 1902 during the construction of a cistern.", "The structure consists of three levels reaching 10 meters deep.", "Archaeologists found remains of approximately 7,000 people inside.", "The famous 'Sleeping Lady' figurine was discovered in this complex.", "Visitor numbers are restricted to 10 per hour to preserve the site."],
     },
+    image: "/poi-images/poi-mt-hypogeum.webp",
   },
   {
     id: "poi-mt-paola-parish",
@@ -3825,6 +3896,7 @@ export const maltaPoi: POI[] = [
       ro: ["Fortul Manoel a fost construit în perioada 1723–1733.", "Insula poartă numele Marelui Maestru António Manoel de Vilhena.", "Spitalul Lazzaretto a fost înființat pe insulă în anul 1643.", "A servit drept bază militară pentru Marina Regală între 1942 și 1964.", "Insula este legată de Gżira printr-un pod de piatră.", "Fortul a fost restaurat recent, fiind deschis publicului pentru evenimente."],
       en: ["Fort Manoel was constructed between 1723 and 1733.", "The island is named after Grand Master António Manoel de Vilhena.", "The Lazzaretto quarantine hospital was established in 1643.", "Manoel Island was a submarine base known as HMS Phoenicia in WWII.", "The island is connected to the mainland town of Gżira by a bridge.", "Fort Manoel was used as a filming location for 'Game of Thrones'."],
     },
+    image: "/poi-images/poi-mt-manoel-island.webp",
   },
   {
     id: "poi-mt-gzira-promenade",
@@ -3856,6 +3928,7 @@ export const maltaPoi: POI[] = [
       ro: ["Promenada oferă o vedere directă către Fortul Manoel situat pe insula opusă.", "Numele Gżira înseamnă literal insulă în limba malteză, referindu-se la Insula Manoel.", "Traseul face parte dintr-o faleză aproape continuă care leagă St. Julian's de Pietà.", "Zona a fost o bază importantă pentru Marina Britanică în timpul secolului al XIX-lea.", "Porturile de agrement din Gżira pot găzdui ambarcațiuni cu lungimi de peste 100 de metri.", "Arhitectura locală prezintă un contrast puternic între vestigiile victoriene și clădirile moderne din sticlă."],
       en: ["The promenade offers a direct view of Fort Manoel located on the opposite island.", "Gżira literally means island in Maltese, named after the adjacent Manoel Island.", "The waterfront is part of a nearly continuous coastal path from St. Julian's to Pietà.", "The area was a significant base for the British Royal Navy during the 19th century.", "The marinas in Gżira can accommodate vessels exceeding 100 meters in length.", "The architecture displays a stark contrast between Victorian remnants and modern glass designs."],
     },
+    image: "/poi-images/poi-mt-gzira-promenade.webp",
   },
 
   // MT-062 Floriana
@@ -3889,6 +3962,7 @@ export const maltaPoi: POI[] = [
       ro: ["Grădinile au fost transferate Universității din Malta în 1855 pentru uz științific.", "Ignatius de Argotti și-a construit reședința privată și grădina aici în anul 1774.", "Colecția include specii rare ale florei malteze care sunt amenințate cu dispariția.", "Părți ale grădinii sunt situate pe bastioanele datând din perioada Cavalerilor Ioaniți.", "Există un ierbar la fața locului care păstrează mii de mostre de plante uscate.", "Grădina a fost concepută inițial ca un refugiu privat pentru înalții oficiali ai Ordinului."],
       en: ["The gardens were handed over to the University of Malta for scientific use in 1855.", "Ignatius de Argotti built his private residence and garden here in 1774.", "The collection includes rare species of Maltese flora that are threatened with extinction.", "Sections of the garden are situated on bastions dating back to the period of the Knights.", "There is an on-site herbarium that preserves thousands of dried plant specimens.", "The garden was originally intended as a private retreat for high-ranking Order officials."],
     },
+    image: "/poi-images/poi-mt-argotti.webp",
   },
   {
     id: "poi-mt-st-publius",
@@ -3984,6 +4058,7 @@ export const maltaPoi: POI[] = [
       ro: ["Turnul de veghe a fost construit în 1551 sub domnia Marelui Maestru Claude de la Sengle.", "Ochiul și urechea de pe turn simbolizează faptul că Ordinul vede și aude totul.", "Senglea a fost numită 'Civitas Invicta' în 1565 pentru curajul său în timpul asediului.", "Grădinile au fost restaurate extensiv după distrugerile grave din al Doilea Război Mondial.", "Inscripția de pe turn îndeamnă gărzile la vigilență constantă asupra mării.", "Cocorul de pe turn este un simbol creștin tradițional pentru vigilența religioasă."],
       en: ["The watchtower was built in 1551 during the reign of Grand Master Claude de la Sengle.", "The eye and ear on the tower symbolize that the Order sees and hears everything.", "Senglea was dubbed 'Civitas Invicta' in 1565 for its bravery during the Great Siege.", "The gardens were extensively restored following heavy destruction in World War II.", "The inscription on the tower exhorts the guards to constant vigilance over the sea.", "The crane on the tower is a traditional Christian symbol for religious alertness."],
     },
+    image: "/poi-images/poi-mt-gardjola.webp",
   },
   {
     id: "poi-mt-isla-basilica",
@@ -4048,6 +4123,7 @@ export const maltaPoi: POI[] = [
       ro: ["Biserica a fost ridicată la statutul de biserică colegială în anul 1822.", "Construcția clopotniței a avut loc abia în secolul al XVIII-lea, la mult timp după nava bisericii.", "Pictura de altar a Imaculatei Concepții a fost realizată în secolul al XVII-lea de pictorul Filippino Dingli.", "În timpul epidemiei de holeră din 1837, mulți credincioși au căutat refugiu aici.", "Biserica deține o colecție valoroasă de obiecte de cult din argint și aur.", "Clădirea se află pe un teren care a fost utilizat în scopuri sacre încă din secolul al XIV-lea."],
       en: ["The church was elevated to the status of a collegiate church in 1822.", "The construction of the bell tower took place in the 18th century, long after the nave.", "The altarpiece of the Immaculate Conception was painted in the 17th century by Filippino Dingli.", "During the cholera epidemic of 1837, many faithful sought refuge within its walls.", "The church possesses a valuable collection of silver and gold liturgical artifacts.", "The building stands on a site that has been used for sacred purposes since the 14th century."],
     },
+    image: "/poi-images/poi-mt-cospicua-church.webp",
   },
   {
     id: "poi-mt-st-helen-gate",
@@ -4112,6 +4188,7 @@ export const maltaPoi: POI[] = [
       ro: ["Vila a fost construită în jurul anului 1745 pentru clericul maltez Fra Gaetano Bruno.", "Proprietatea se întinde pe o suprafață de aproximativ 1.500 de metri pătrați.", "Prințul Philip a închiriat casa de la unchiul său, Lordul Mountbatten.", "Regina Elisabeta a II-a a vizitat vila pentru ultima dată în timpul vizitei sale de stat din 2015.", "Arhitectura prezintă influențe atât din barocul târziu, cât și din neoclasicismul timpuriu.", "Agenția națională Heritage Malta coordonează în prezent restaurarea completă a clădirii."],
       en: ["The villa was built around 1745 for the Maltese cleric Fra Gaetano Bruno.", "The property covers an area of approximately 1,500 square meters.", "Prince Philip rented the house from his uncle, Lord Mountbatten.", "Queen Elizabeth II last visited the villa during her state visit to Malta in 2015.", "The architecture displays influences of both late Baroque and early Neo-Classicism.", "Heritage Malta, the national agency, is currently overseeing its extensive restoration."],
     },
+    image: "/poi-images/poi-mt-villa-guardamangia.webp",
   },
   {
     id: "poi-mt-pieta-marina",
@@ -4176,6 +4253,7 @@ export const maltaPoi: POI[] = [
       ro: ["Construită între 1840 și 1894", "Arhitectul principal a fost Andrea Vassallo", "Cupola a fost finalizată în 1901", "Dedicată Sfântului Iosif", "Situată la capătul golfului Msida", "Sărbătoarea principală are loc pe 19 martie"],
       en: ["Built between 1889 and 1894", "Designed by architect Andrea Vassallo", "Dome was completed in 1901", "Dedicated to Saint Joseph", "Located at the head of Msida Creek", "Annual feast celebrated on March 19"],
     },
+    image: "/poi-images/poi-mt-msida-church.webp",
   },
   {
     id: "poi-mt-university",
@@ -4207,6 +4285,7 @@ export const maltaPoi: POI[] = [
       ro: ["Fondată în anul 1592", "Nume inițial: Collegium Melitense", "Campus principal situat la Tal-Qroqq", "Are în componență 14 facultăți", "Peste 11.500 de studenți înmatriculați", "Cea mai veche universitate din Commonwealth în afara Marii Britanii"],
       en: ["Founded in 1592", "Originally named Collegium Melitense", "Main campus located in Tal-Qroqq", "Features 14 academic faculties", "Over 11,500 students enrolled", "Oldest university in the Commonwealth outside Britain"],
     },
+    image: "/poi-images/poi-mt-university.webp",
   },
 
   // MT-068 Birgu
@@ -4240,6 +4319,7 @@ export const maltaPoi: POI[] = [
       ro: ["Situat în orașul Birgu", "Cartier general în timpul Marelui Sediu din 1565", "Cunoscut anterior sub numele de Castrum Maris", "Utilizat de britanici sub numele de HMS St Angelo", "Partea superioară aparține Ordinului de Malta", "Inclus pe lista tentativă UNESCO"],
       en: ["Located in the city of Birgu", "Headquarters during the Great Siege of 1565", "Formerly known as Castrum Maris", "Commissioned as HMS St Angelo by the British", "Upper tier is owned by the Order of Malta", "Part of Malta's UNESCO tentative list"],
     },
+    image: "/poi-images/poi-mt-fortstangelo.webp",
   },
   {
     id: "poi-mt-inquisitor-palace",
@@ -4271,6 +4351,7 @@ export const maltaPoi: POI[] = [
       ro: ["Sediul Inchiziției între 1574 și 1798", "Construit inițial sub numele de Castellania", "A găzduit 62 de inchizitori succesivi", "Include celule de închisoare originale", "A servit drept spital militar britanic", "În prezent este muzeu de etnografie"],
       en: ["Seat of the Inquisition from 1574 to 1798", "Originally built as a civil law court", "Home to 62 different inquisitors", "Contains authentic original prison cells", "Used as a British military hospital", "Now functions as an ethnography museum"],
     },
+    image: "/poi-images/poi-mt-inquisitor-palace.webp",
   },
 , ...poiExtraMaltaCities, ...poiExtraMaltaOther];
 

@@ -31,6 +31,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Finalizare: 1875", "Stil: neoroman", "Finanțată de administrația colonială franceză", "Turn clopotniță: 30 m înălțime", "Vitralii din secolul al XIX-lea", "Restaurare în anii 1990"],
       en: ["Completed in 1875", "Neo-Romanesque architectural style", "Funded by French colonial administration", "Bell tower height: 30 m", "Stained glass windows from the 19th century", "Restored in the 1990s"],
     },
+    image: "/poi-images/frenchpolynesia-papeete-cathedral-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-robert-wan-pearl-museum-landmarks-v2",
@@ -62,6 +63,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Deschis în 1998", "Unicul muzeu al perlelor din lume", "Fondator: Robert Wan", "Peste 2000 de perle expuse", "Accent pe perla de Tahiti (neagră)", "Expoziție permanentă despre metode de cultivare"],
       en: ["Opened in 1998", "World's only pearl museum", "Founder: Robert Wan", "Over 2,000 pearls on display", "Focus on Tahitian black pearls", "Permanent exhibition on cultivation methods"],
     },
+    image: "/poi-images/frenchpolynesia-robert-wan-pearl-museum-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-james-norman-hall-museum-landmarks-v2",
@@ -93,6 +95,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["James Norman Hall: 1887–1951", "Casă construită în anii 1920", "Celebru pentru 'Răzvrătirea de pe Bounty'", "Muzeu deschis din 1975", "Grădină cu 30 de specii de plante tropicale", "Expoziție permanentă de manuscrise"],
       en: ["James Norman Hall lived 1887–1951", "House built in the 1920s", "Famous for 'Mutiny on the Bounty' novels", "Museum opened in 1975", "Garden with 30 tropical plant species", "Permanent exhibition of manuscripts"],
     },
+    image: "/poi-images/frenchpolynesia-james-norman-hall-museum-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-point-venus-lighthouse-landmarks-v2",
@@ -124,6 +127,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Construit în 1867", "Înălțime: 15 m", "Cel mai vechi far din Polinezia Franceză", "Locul observării tranzitului lui Venus de Cook în 1769", "Nefuncțional din 1990", "Acum muzeu"],
       en: ["Built in 1867", "Height: 15 m", "Oldest lighthouse in French Polynesia", "Site of Cook's 1769 Venus transit observation", "Decommissioned in 1990", "Now a museum"],
     },
+    image: "/poi-images/frenchpolynesia-point-venus-lighthouse-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-paofai-temple-landmarks-v2",
@@ -155,6 +159,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Construit în 1818", "Cea mai veche biserică protestantă din Tahiti", "Fațadă albă cu turn", "Amvon din lemn sculptat", "Adăpostește arhiva bisericii protestante", "Loc central de adunare"],
       en: ["Built in 1818", "Oldest Protestant church in Tahiti", "White façade with steeple", "Carved wooden pulpit", "Houses Protestant church archives", "Central place of worship"],
     },
+    image: "/poi-images/frenchpolynesia-paofai-temple-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-war-memorial-papeete-landmarks-v2",
@@ -186,6 +191,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Inaugurat în 1926", "Locație: Piața Vai'ete, Papeete", "Material: piatră și bronz", "Comemorează 122 de căzuți în Primul Război Mondial", "Inscripții pentru al Doilea Război Mondial adăugate în 1950", "Comemorare anuală pe 11 noiembrie"],
       en: ["Inaugurated in 1926", "Location: Place Vai'ete, Papeete", "Material: stone and bronze", "Commemorates 122 WWI fallen", "WWII inscriptions added in 1950", "Annual ceremony on November 11"],
     },
+    image: "/poi-images/frenchpolynesia-war-memorial-papeete-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-paul-gauguin-museum-landmarks-v2",
@@ -217,6 +223,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Deschis în 1965", "Locație: Papeari, Tahiti", "Colecție: 10 picturi originale", "Gauguin a trăit 1891–1903 în Polinezia", "Grădină botanică cu 50 de specii tropicale", "20.000 de vizitatori anual"],
       en: ["Opened in 1965", "Location: Papeari, Tahiti", "Collection includes 10 original paintings", "Gauguin lived 1891–1903 in Polynesia", "Botanical garden with 50 tropical species", "20,000 visitors annually"],
     },
+    image: "/poi-images/frenchpolynesia-paul-gauguin-museum-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-taata-landmarks-v2",
@@ -248,6 +255,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Construit între sec. XV–XVII", "Material: coral și piatră vulcanică", "Mai multe platforme", "Topoare de piatră descoperite", "Centru religios", "Protejat din 1985"],
       en: ["Built 15th–17th centuries", "Material: coral and volcanic stone", "Multiple platforms", "Stone axes found", "Religious center", "Protected since 1985"],
     },
+    image: "/poi-images/frenchpolynesia-marae-taata-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-notre-dame-fatima-moorea-landmarks-v2",
@@ -279,6 +287,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Construită în 1964", "Arhitectură modernă cu acoperiș ondulat", "Vitralii cu 6 scene", "Capacitate: 200 de locuri", "Turn clopotniță: 15 m", "Sărbătoarea de la Fatima pe 13 mai"],
       en: ["Built in 1964", "Modern architecture with wave roof", "Stained glass with 6 scenes", "Seating capacity: 200", "Bell tower height: 15 m", "Feast of Fatima celebrated May 13"],
     },
+    image: "/poi-images/frenchpolynesia-notre-dame-fatima-moorea-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-st-joseph-church-faanui-landmarks-v2",
@@ -310,6 +319,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Construită în 1895", "Material: calcar și blocuri de corali", "Fundație de corali", "Altar din lemn sculptat", "Lungime: 25 m, lățime: 10 m", "Comunitate catolică activă"],
       en: ["Built in 1895", "Material: limestone and coral blocks", "Coral foundation", "Carved wooden altar", "Length: 25 m, width: 10 m", "Active Catholic congregation"],
     },
+    image: "/poi-images/frenchpolynesia-st-joseph-church-faanui-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-marine-museum-bora-bora-landmarks-v2",
@@ -341,6 +351,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Deschis în 1994", "Suprafață expozițională: 500 m²", "Colecție: 30 de canoe tradiționale", "Replică canoe cu dublu catarg de 15 m", "Preț bilet: 800 CFP", "15.000 vizitatori anual"],
       en: ["Opened in 1994", "Exhibition area: 500 m²", "Collection: 30 traditional canoes", "Double-hulled canoe replica 15 m long", "Admission: 800 CFP", "15,000 visitors annually"],
     },
+    image: "/poi-images/frenchpolynesia-marine-museum-bora-bora-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-wwii-cannons-bora-bora-landmarks-v2",
@@ -372,6 +383,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Calibru: 155 mm", "Amplasate în 1942", "Bază militară SUA cu 6.000 de soldați", "Locație: Muntele Otemanu, altitudine 400 m", "Rază de acțiune: 14 km", "Număr tunuri păstrate: 4"],
       en: ["Caliber: 155 mm", "Installed in 1942", "US base hosted 6,000 troops", "Location: Mount Otemanu, 400 m elevation", "Range: 14 km", "Surviving cannons: 4"],
     },
+    image: "/poi-images/frenchpolynesia-wwii-cannons-bora-bora-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-st-michael-cathedral-rikitea-landmarks-v2",
@@ -403,6 +415,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Construită în 1839", "Material: blocuri de corali", "Lungime: 40 m, lățime: 15 m", "Două turnuri: 25 m înălțime", "Orgă din secolul XIX", "Capacitate: 300 de locuri"],
       en: ["Built in 1839", "Material: coral blocks", "Length: 40 m, width: 15 m", "Two towers: 25 m tall", "19th-century organ", "Seating capacity: 300"],
     },
+    image: "/poi-images/frenchpolynesia-st-michael-cathedral-rikitea-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-uturoa-town-hall-landmarks-v2",
@@ -434,6 +447,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Construită în anii 1950", "Stil: arhitectură colonială", "Înălțime: 12 m", "Coloane: 6 pe fațadă", "Suprafața acoperișului: 300 m²", "Birouri: 15 încăperi"],
       en: ["Built in the 1950s", "Architectural style: colonial", "Height: 12 m", "Columns: 6 on façade", "Roof area: 300 m²", "Offices: 15 rooms"],
     },
+    image: "/poi-images/frenchpolynesia-uturoa-town-hall-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-moorea-shell-museum-landmarks-v2",
@@ -465,6 +479,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Deschis în 1995", "Colecție: 7.000 de exemplare", "Accent: melci marini din Pacific", "Specie rară: Conus gloriamaris", "Preț bilet: 600 CFP", "Suprafață: 250 m²"],
       en: ["Opened in 1995", "Collection size: 7,000 specimens", "Focus: Pacific sea snails", "Rare species: Conus gloriamaris", "Admission: 600 CFP", "Area: 250 m²"],
     },
+    image: "/poi-images/frenchpolynesia-moorea-shell-museum-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-notre-dame-cathedral-taiohae-landmarks-v2",
@@ -496,6 +511,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Sfințită în 1977", "Sediu al episcopului de Taiohae", "Acoperiș din lemn local", "Lungime: 35 m, lățime: 18 m", "Capacitate: 400 de locuri", "Înălțimea turnului clopotniță: 20 m"],
       en: ["Consecrated in 1977", "Seat of the Bishop of Taiohae", "Roof made of local wood", "Length: 35 m, width: 18 m", "Seating capacity: 400", "Bell tower height: 20 m"],
     },
+    image: "/poi-images/frenchpolynesia-notre-dame-cathedral-taiohae-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-kamuihei-landmarks-v2",
@@ -527,6 +543,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Construit în sec. XIV–XVII", "Platforme din bazalt", "Lungime platformă principală: 30 m", "Oase umane descoperite", "Altitudine: 100 m deasupra nivelului mării", "Înconjurat de 20 de sculpturi din piatră"],
       en: ["Built 14th–17th centuries", "Platforms made of basalt", "Main platform length: 30 m", "Human bones found", "Elevation: 100 m above sea level", "Surrounded by 20 stone sculptures"],
     },
+    image: "/poi-images/frenchpolynesia-marae-kamuihei-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-statue-of-the-virgin-hiva-oa-landmarks-v2",
@@ -558,6 +575,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Construită în 1870 de misionari francezi.", "Înălțime: aproximativ 3 metri.", "Realizată din piatră locală.", "Amplasată pe un deal lângă Atuona, insula Hiva Oa.", "Procesiuni anuale pe 15 august (Adormirea Maicii Domnului).", "Parte a patrimoniului catolic al Polineziei Franceze."],
       en: ["Erected in 1870 by French missionaries.", "Height: approximately 3 meters.", "Material: local stone.", "Located on a hill near Atuona, Hiva Oa, Marquesas Islands.", "Annual procession on August 15 (Assumption of Mary).", "Part of French Polynesia's Catholic heritage."],
     },
+    image: "/poi-images/frenchpolynesia-statue-of-the-virgin-hiva-oa-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-te-fare-tauhiti-nui-landmarks-v2",
@@ -589,6 +607,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Construit în secolul al XIX-lea.", "Dimensiuni: aproximativ 15 m lungime, 8 m lățime.", "Acoperiș din frunze de pandanus.", "Amplasat pe insula Huahine, Insulele Societății.", "Folosit ca muzeu din 1970.", "Capacitate: până la 100 de persoane."],
       en: ["Built in the 19th century.", "Dimensions: approx. 15 m long, 8 m wide.", "Roof made of pandanus leaves.", "Located on Huahine, Society Islands.", "Used as a museum since 1970.", "Capacity: up to 100 people."],
     },
+    image: "/poi-images/frenchpolynesia-te-fare-tauhiti-nui-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-bounty-monument-mahina-landmarks-v2",
@@ -620,6 +639,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Ridicat în 1880.", "Înălțime: aprox. 4 m.", "Material: piatră.", "Amplasat în Mahina, Tahiti.", "Plașă memorială cu inscripție în engleză și tahitiană.", "Comemorare anuală pe 28 aprilie."],
       en: ["Erected in 1880.", "Height: approx. 4 m.", "Material: stone.", "Located in Mahina, Tahiti.", "Plaque inscribed in English and Tahitian.", "Annual memorial ceremony on April 28."],
     },
+    image: "/poi-images/frenchpolynesia-bounty-monument-mahina-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-st-paul-church-tautira-landmarks-v2",
@@ -651,6 +671,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Construită în 1850.", "Turnul clopotniță: 12 m înălțime.", "Vitralii importate din Franța.", "Amplasată în Tautira, Tahiti.", "Capacitate: aprox. 200 de locuri.", "Renovată în 1995."],
       en: ["Built in 1850.", "Bell tower: 12 m high.", "Stained glass imported from France.", "Located in Tautira, Tahiti.", "Capacity: approx. 200 seats.", "Renovated in 1995."],
     },
+    image: "/poi-images/frenchpolynesia-st-paul-church-tautira-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-fare-potee-huahine-landmarks-v2",
@@ -682,6 +703,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Construit în secolul al XX-lea.", "Suprafață: aprox. 80 m².", "Acoperiș din frunze de cocos.", "Amplasat pe Huahine, Insulele Societății.", "Capacitate: până la 30 de persoane.", "Folosit pentru activități culturale."],
       en: ["Built in the 20th century.", "Floor area: approx. 80 m².", "Roof made of coconut leaves.", "Located on Huahine, Society Islands.", "Accommodates up to 30 people.", "Used for cultural activities."],
     },
+    image: "/poi-images/frenchpolynesia-fare-potee-huahine-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-st-anne-church-fatu-hiva-landmarks-v2",
@@ -713,6 +735,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Construită în 1920.", "Lungime: 20 m, lățime: 10 m.", "Înălțimea turnului clopotniță: 8 m.", "Amplasată pe Fatu Hiva, Insulele Marchize.", "Capacitate: aprox. 100 de persoane.", "Renovată în 2005."],
       en: ["Built in 1920.", "Length: 20 m, width: 10 m.", "Bell tower height: 8 m.", "Located on Fatu Hiva, Marquesas Islands.", "Capacity: approx. 100 people.", "Renovated in 2005."],
     },
+    image: "/poi-images/frenchpolynesia-st-anne-church-fatu-hiva-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-assembly-of-french-polynesia-landmarks-v2",
@@ -744,6 +767,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Construită în 1960.", "Număr de deputați: 57.", "Mandat: 5 ani.", "Amplasată în Papeete, Tahiti.", "Sală de ședințe: 200 de locuri.", "Renovată în 1999."],
       en: ["Built in 1960.", "Number of members: 57.", "Term length: 5 years.", "Located in Papeete, Tahiti.", "Chamber seating: 200 seats.", "Renovated in 1999."],
     },
+    image: "/poi-images/frenchpolynesia-assembly-of-french-polynesia-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-high-commissioner-residence-landmarks-v2",
@@ -775,6 +799,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Construită în 1875.", "Suprafața terenului: 2 hectare.", "Număr de camere: 20.", "Amplasată în Papeete, Tahiti.", "Vedere la mare.", "Renovată în 1950 și 2000."],
       en: ["Built in 1875.", "Land area: 2 hectares.", "Number of rooms: 20.", "Located in Papeete, Tahiti.", "Ocean view.", "Renovated in 1950 and 2000."],
     },
+    image: "/poi-images/frenchpolynesia-high-commissioner-residence-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-tomb-of-king-pomare-v-landmarks-v2",
@@ -806,6 +831,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Ridicat în 1891.", "Material: marmură.", "Înălțime: 2 m.", "Amplasat în Arue, Tahiti.", "Inscripție în tahitiană și franceză.", "Regele Pomare al V-lea: 1842–1891."],
       en: ["Erected in 1891.", "Material: marble.", "Height: 2 m.", "Located in Arue, Tahiti.", "Inscription in Tahitian and French.", "King Pomare V: 1842–1891."],
     },
+    image: "/poi-images/frenchpolynesia-tomb-of-king-pomare-v-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-captain-cook-monument-mahina-landmarks-v2",
@@ -837,6 +863,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Ridicat în 1885.", "Înălțime: 5 m.", "Material: piatră.", "Amplasat în Mahina, Tahiti.", "Cook a vizitat Tahiti în 1769.", "Obelisc cu placă memorială."],
       en: ["Erected in 1885.", "Height: 5 m.", "Material: stone.", "Located in Mahina, Tahiti.", "Cook visited Tahiti in 1769.", "Obelisk with memorial plaque."],
     },
+    image: "/poi-images/frenchpolynesia-captain-cook-monument-mahina-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-afareaito-landmarks-v2",
@@ -868,6 +895,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Construit în secolul al XV-lea.", "Lungime: 30 m, lățime: 20 m.", "Platformă de piatră.", "Amplasat pe Tahiti.", "Restaurat parțial în 1980.", "Săpături arheologice în 1920."],
       en: ["Built in the 15th century.", "Length: 30 m, width: 20 m.", "Stone platform.", "Located on Tahiti.", "Partially restored in 1980.", "Archaeological excavations in 1920."],
     },
+    image: "/poi-images/frenchpolynesia-marae-afareaito-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-papetoai-octagonal-church-landmarks-v2",
@@ -899,6 +927,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Construită în 1822.", "Formă: octogonală.", "Material: piatră de corali.", "Amplasată în Papetoai, Moorea.", "Înălțime: 10 m.", "Cea mai veche biserică din Moorea."],
       en: ["Built in 1822.", "Shape: octagonal.", "Material: coral limestone.", "Located in Papetoai, Moorea.", "Height: 10 m.", "Oldest church on Moorea."],
     },
+    image: "/poi-images/frenchpolynesia-papetoai-octagonal-church-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-nuutere-landmarks-v2",
@@ -930,6 +959,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Construit în secolul al XVI-lea.", "Număr de platforme: 3.", "Înălțimea platformei principale: 2 m.", "Amplasat pe Huahine.", "Săpături în 1965.", "Important pentru cultura polineziană."],
       en: ["Built in the 16th century.", "Number of platforms: 3.", "Main platform height: 2 m.", "Located on Huahine.", "Excavations in 1965.", "Significant to Polynesian culture."],
     },
+    image: "/poi-images/frenchpolynesia-marae-nuutere-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-fare-rua-landmarks-v2",
@@ -961,6 +991,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Construit în secolul al XVII-lea.", "Lungime: 25 m.", "Înălțimea platformei: 1,5 m.", "Amplasat pe Raiatea.", "Dedicat zeului 'Oro.", "Săpături în 1950."],
       en: ["Built in the 17th century.", "Length: 25 m.", "Platform height: 1.5 m.", "Located on Raiatea.", "Dedicated to the god 'Oro.", "Excavations in 1950."],
     },
+    image: "/poi-images/frenchpolynesia-marae-fare-rua-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-alain-despert-gallery-landmarks-v2",
@@ -992,6 +1023,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Deschisă în 1995.", "Număr de artiști expuși: peste 50.", "Amplasată în Papeete, Tahiti.", "Suprafață de expunere: 200 m².", "Expoziții temporare la fiecare 2 luni.", "Specializată în arta polineziană."],
       en: ["Opened in 1995.", "Artists exhibited: over 50.", "Located in Papeete, Tahiti.", "Exhibition space: 200 m².", "Temporary exhibitions every 2 months.", "Specializes in Polynesian art."],
     },
+    image: "/poi-images/frenchpolynesia-alain-despert-gallery-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-opunohu-temple-landmarks-v2",
@@ -1023,6 +1055,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Construit în secolul al XVIII-lea.", "Lungimea platformei: 40 m.", "Lățime: 15 m.", "Amplasat în Golful Opunohu, Moorea.", "Dedicat zeului 'Oro.", "Săpături din 1975."],
       en: ["Built in the 18th century.", "Platform length: 40 m.", "Width: 15 m.", "Located in Opunohu Bay, Moorea.", "Dedicated to the god 'Oro.", "Excavations since 1975."],
     },
+    image: "/poi-images/frenchpolynesia-opunohu-temple-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-haapiti-church-landmarks-v2",
@@ -1054,6 +1087,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Construită în 1840.", "Turnul clopotniță: 15 m.", "Lungime: 30 m, lățime: 12 m.", "Amplasată în Haapiti, Moorea.", "Capacitate: 150 de persoane.", "Renovată în 1960."],
       en: ["Built in 1840.", "Bell tower: 15 m.", "Length: 30 m, width: 12 m.", "Located in Haapiti, Moorea.", "Capacity: 150 people.", "Renovated in 1960."],
     },
+    image: "/poi-images/frenchpolynesia-haapiti-church-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-rauhuru-landmarks-v2",
@@ -1085,6 +1119,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Construit în secolul al XVI-lea.", "Lungime: 35 m.", "Lățime: 18 m.", "Amplasat pe Tahiti.", "Înălțimea platformei: 2,5 m.", "Săpături în 1930."],
       en: ["Built in the 16th century.", "Length: 35 m.", "Width: 18 m.", "Located on Tahiti.", "Platform height: 2.5 m.", "Excavations in 1930."],
     },
+    image: "/poi-images/frenchpolynesia-marae-rauhuru-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-missionaries-monument-landmarks-v2",
@@ -1116,6 +1151,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Ridicat în 1900.", "Înălțime: 6 m.", "Material: granit.", "Amplasat în Papeete, Tahiti.", "Plașă memorială în engleză și tahitiană.", "Primii misionari: 1797."],
       en: ["Erected in 1900.", "Height: 6 m.", "Material: granite.", "Located in Papeete, Tahiti.", "Plaque in English and Tahitian.", "First missionaries: 1797."],
     },
+    image: "/poi-images/frenchpolynesia-missionaries-monument-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-kanti-chinese-temple-landmarks-v2",
@@ -1147,6 +1183,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Construit în 1890.", "Înălțime: 10 m.", "Amplasat în Papeete, Tahiti.", "Dedicat zeiței Mazu.", "Cel mai mare templu chinezesc din Polinezia Franceză.", "Renovat în 1985."],
       en: ["Built in 1890.", "Height: 10 m.", "Located in Papeete, Tahiti.", "Dedicated to goddess Mazu.", "Largest Chinese temple in French Polynesia.", "Renovated in 1985."],
     },
+    image: "/poi-images/frenchpolynesia-kanti-chinese-temple-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-paofai-protestant-church-landmarks-v2",
@@ -1178,6 +1215,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Construită în 1840", "Înălțimea turnului: 25 metri", "Capacitate: 350 locuri", "Membri ai comunității: 1.200", "Renovată în 1995", "Vitralii din 1880"],
       en: ["Constructed in 1840", "Bell tower height: 25 meters", "Capacity: 350 seats", "Congregation size: 1,200 members", "Renovated in 1995", "Stained glass windows from 1880"],
     },
+    image: "/poi-images/frenchpolynesia-paofai-protestant-church-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-uturoa-war-memorial-landmarks-v2",
@@ -1209,6 +1247,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Inaugurat în 1925", "Înălțimea obeliscului: 8 metri", "Greutate: 4 tone", "Plaqe comemorative: 3", "Număr de nume inscripționate: 156", "Ceremonie anuală: 11 noiembrie"],
       en: ["Erected in 1925", "Obelisk height: 8 meters", "Weight: 4 tons", "Commemorative plaques: 3", "Names inscribed: 156", "Annual ceremony: November 11"],
     },
+    image: "/poi-images/frenchpolynesia-uturoa-war-memorial-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-marae-taata-v2-landmarks-v2",
@@ -1240,6 +1279,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Vechime: aproximativ 500 de ani", "Dimensiunea platformei: 20 x 15 metri", "Înălțime: 2,5 metri", "Număr de plăci de piatră: 40", "Săpături arheologice: 1998", "Categorie: Monument istoric din 1952"],
       en: ["Age: approximately 500 years", "Platform size: 20 x 15 meters", "Height: 2.5 meters", "Number of stone slabs: 40", "Excavations conducted: 1998", "Classified as historical monument since 1952"],
     },
+    image: "/poi-images/frenchpolynesia-marae-marae-taata-v2-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-notre-dame-cathedral-nuku-hiva-landmarks-v2",
@@ -1271,6 +1311,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Consacrată în 1979", "Lungime: 45 metri", "Lățime: 20 metri", "Înălțimea turnului clopotniță: 30 metri", "Capacitate: 500 locuri", "Dieceză înființată în 1975"],
       en: ["Consecrated in 1979", "Length: 45 meters", "Width: 20 meters", "Bell tower height: 30 meters", "Seating capacity: 500", "Diocese established in 1975"],
     },
+    image: "/poi-images/frenchpolynesia-notre-dame-cathedral-nuku-hiva-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-fare-potee-maeva-landmarks-v2",
@@ -1302,6 +1343,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Construit în 2005", "Suprafață: 300 de metri pătrați", "Înălțime: 8 metri", "Vizitatori pe an: 15.000", "Număr de exponate: 200", "Evenimente lunare: 10"],
       en: ["Built in 2005", "Area: 300 square meters", "Height: 8 meters", "Annual visitors: 15,000", "Number of exhibits: 200", "Monthly events: 10"],
     },
+    image: "/poi-images/frenchpolynesia-fare-potee-maeva-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-memorial-to-the-bounty-landmarks-v2",
@@ -1333,6 +1375,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Inaugurat în 1969", "Înălțimea plăcii de piatră: 2 metri", "Material: granit", "Număr de persoane menționate: 10", "Distanța până la port: 200 de metri", "Ceremonie anuală: 28 aprilie"],
       en: ["Unveiled in 1969", "Stone plaque height: 2 meters", "Material: granite", "Number of individuals mentioned: 10", "Distance from harbor: 200 meters", "Annual ceremony: April 28"],
     },
+    image: "/poi-images/frenchpolynesia-memorial-to-the-bounty-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-titiroa-moorea-landmarks-v2",
@@ -1364,6 +1407,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Vechime: 800 de ani", "Dimensiunea platformei: 15 x 10 metri", "Înălțime: 1,8 metri", "Număr de blocuri de corali: 100", "Săpături: 2005", "Artefacte descoperite: 50"],
       en: ["Age: 800 years", "Platform size: 15 x 10 meters", "Height: 1.8 meters", "Number of coral blocks: 100", "Excavations: 2005", "Artifacts found: 50"],
     },
+    image: "/poi-images/frenchpolynesia-marae-titiroa-moorea-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-paofai-gardens-monument-landmarks-v2",
@@ -1395,6 +1439,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Erectat în 1901", "Înălțimea statuii: 3 metri", "Material: bronz", "Înălțimea soclului: 1,5 metri", "Suprafața grădinii: 2 hectare", "Specii de plante: 80"],
       en: ["Erected in 1901", "Statue height: 3 meters", "Material: bronze", "Pedestal height: 1.5 meters", "Garden area: 2 hectares", "Plant species: 80"],
     },
+    image: "/poi-images/frenchpolynesia-paofai-gardens-monument-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-memorial-to-nuclear-testing-landmarks-v2",
@@ -1426,6 +1471,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Inaugurat în 2006", "Număr de nume inscripționate: 150", "Înălțimea sculpturii: 4 metri", "Greutatea plăcii de granit: 3 tone", "Erectat de: organizațiile victimelor", "Ceremonie anuală: 2 iulie"],
       en: ["Unveiled in 2006", "Number of names inscribed: 150", "Sculpture height: 4 meters", "Granite slab weight: 3 tons", "Erected by: victim organizations", "Annual ceremony: July 2"],
     },
+    image: "/poi-images/frenchpolynesia-memorial-to-nuclear-testing-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-vaima-center-landmarks-v2",
@@ -1457,6 +1503,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Construit în 1985", "Suprafață comercială: 10.000 de metri pătrați", "Număr de magazine: 50", "Locuri de parcare: 200", "Restaurante: 10", "Vizitatori zilnici: 5.000"],
       en: ["Built in 1985", "Retail space: 10,000 square meters", "Number of stores: 50", "Parking spaces: 200", "Restaurants: 10", "Daily visitors: 5,000"],
     },
+    image: "/poi-images/frenchpolynesia-vaima-center-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-church-of-st-jean-baptiste-landmarks-v2",
@@ -1488,6 +1535,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Construită în 1875", "Înălțimea turnului: 35 de metri", "Capacitate: 400 locuri", "Vitralii: 12", "Orga din 1880", "Renovată în 1990"],
       en: ["Built in 1875", "Spire height: 35 meters", "Capacity: 400 seats", "Stained glass windows: 12", "Organ from 1880", "Renovated in 1990"],
     },
+    image: "/poi-images/frenchpolynesia-church-of-st-jean-baptiste-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-lighthouse-at-pointe-de-maatea-landmarks-v2",
@@ -1519,6 +1567,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Construit în 1892", "Înălțime: 15 metri", "Raza de acțiune a luminii: 20 de mile marine", "Material: piatră", "Culoare: alb/roșu", "Automatizat în 1970"],
       en: ["Built in 1892", "Height: 15 meters", "Light range: 20 nautical miles", "Material: stone", "Color scheme: white/red", "Automated in 1970"],
     },
+    image: "/poi-images/frenchpolynesia-lighthouse-at-pointe-de-maatea-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-borabora-valley-landmarks-v2",
@@ -1550,6 +1599,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Perioadă de utilizare: secolele XIV-XVI", "Dimensiunea platformei: 10 x 8 metri", "Număr de pietre verticale: 8", "Cea mai înaltă piatră: 2 metri", "Distanța până la coastă: 3 kilometri", "Săpături arheologice: 2010"],
       en: ["Period of use: 14th-16th centuries", "Platform size: 10 x 8 meters", "Number of upright stones: 8", "Tallest stone: 2 meters", "Distance from coast: 3 kilometers", "Excavations: 2010"],
     },
+    image: "/poi-images/frenchpolynesia-marae-borabora-valley-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-papeete-lighthouse-landmarks-v2",
@@ -1581,6 +1631,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Construit în 1910", "Înălțime: 12 metri", "Material: beton", "Lumină: LED din 2005", "Rază de acțiune: 15 mile marine", "Culoare: alb cu cupolă roșie"],
       en: ["Built in 1910", "Height: 12 meters", "Material: concrete", "Light: LED since 2005", "Range: 15 nautical miles", "Color: white with red dome"],
     },
+    image: "/poi-images/frenchpolynesia-papeete-lighthouse-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-uturoa-public-library-landmarks-v2",
@@ -1612,6 +1663,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Fondată în 1995", "Număr de cărți: 20.000", "Sală de lectură: 50 de locuri", "Stații de calculator: 8", "Program: L-V 8-17", "Membri: 3.000"],
       en: ["Founded in 1995", "Number of books: 20,000", "Reading room capacity: 50", "Computer stations: 8", "Opening hours: Mon-Fri 8-17", "Members: 3,000"],
     },
+    image: "/poi-images/frenchpolynesia-uturoa-public-library-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-fare-potee-landmarks-v2",
@@ -1643,6 +1695,7 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Restaurat în 2000", "Dimensiunea platformei: 12 x 12 metri", "Înălțimea platformei: 1,5 metri", "Număr de pietre: 60", "Evenimente culturale pe an: 20", "Vechime: 300 de ani"],
       en: ["Restored in 2000", "Platform size: 12 x 12 meters", "Platform height: 1.5 meters", "Number of stones: 60", "Cultural events per year: 20", "Age: 300 years"],
     },
+    image: "/poi-images/frenchpolynesia-marae-fare-potee-landmarks-v2.webp",
   },
   {
     id: "frenchpolynesia-notre-dame-cathedral-rikitea-v2-landmarks-v2",
@@ -1674,5 +1727,6 @@ export const frenchpolynesiaLandmarksV2: POI[] = [
       ro: ["Construită în 1840", "Lungime: 40 de metri", "Lățime: 18 metri", "Înălțimea turnurilor: 25 de metri", "Capacitate: 300 de locuri", "Material: piatră de corali, lemn"],
       en: ["Built in 1840", "Length: 40 meters", "Width: 18 meters", "Tower height: 25 meters", "Seating: 300", "Materials: coral limestone, wood"],
     },
+    image: "/poi-images/frenchpolynesia-notre-dame-cathedral-rikitea-v2-landmarks-v2.webp",
   }
 ];

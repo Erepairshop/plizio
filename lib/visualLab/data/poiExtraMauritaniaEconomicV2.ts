@@ -31,6 +31,7 @@ export const mauritaniaEconomicV2: POI[] = [
       ro: ["Volum anual de marfă: peste 12 milioane de tone", "Adâncimea apei: până la 14 m", "Număr de cheiuri: 12", "Deschiderea terminalului de minereu: 1963", "Lungimea podului de încărcare a minereului: 1.200 m", "Trafic anual de containere: aprox. 80.000 TEU"],
       en: ["Annual cargo throughput: over 12 million metric tons", "Water depth: up to 14 meters", "Number of berths: 12 (including 3 ore berths)", "Ore terminal opened in 1963", "Length of ore loading pier: 1,200 meters", "Annual container traffic: approximately 80,000 TEUs"],
     },
+    image: "/poi-images/mauritania-nouadhibou-port-economic-v2.webp",
   },
   {
     id: "mauritania-zouerat-mine-economic-v2",
@@ -62,6 +63,7 @@ export const mauritaniaEconomicV2: POI[] = [
       ro: ["Producție anuală: aprox. 12 milioane de tone", "Conținut de fier: 60-65%", "Începerea exploatării comerciale: 1963", "Număr de angajați: aproximativ 5.000", "Lungimea căii ferate către port: 700 km", "Rezerve totale: peste 200 de milioane de tone"],
       en: ["Annual production: approx. 12 million metric tons", "Iron content: 60-65%", "Commercial mining started in 1963", "Workforce: about 5,000 employees", "Rail line length to port: 700 km (435 mi)", "Total reserves: over 200 million tons"],
     },
+    image: "/poi-images/mauritania-zouerat-mine-economic-v2.webp",
   },
   {
     id: "mauritania-nouakchott-market-economic-v2",
@@ -93,6 +95,7 @@ export const mauritaniaEconomicV2: POI[] = [
       ro: ["Suprafață: aprox. 5 ha", "Număr de tarabe: peste 2.000", "Vizitatori zilnici: circa 50.000", "Categoria principală: produse alimentare (60% din tarabe)", "Cifră de afaceri anuală: estimativ 40 miliarde ouguiya", "Deschidere: ora 5 dimineața"],
       en: ["Area: approximately 5 hectares", "Number of stalls: over 2,000", "Daily visitors: around 50,000", "Main product category: food (60% of stalls)", "Annual turnover: estimated 40 billion Ouguiya", "Market opens at 5:00 AM daily"],
     },
+    image: "/poi-images/mauritania-nouakchott-market-economic-v2.webp",
   },
   {
     id: "mauritania-kaedi-agro-economic-v2",
@@ -124,6 +127,7 @@ export const mauritaniaEconomicV2: POI[] = [
       ro: ["Producție anuală de orez: aprox. 30.000 tone", "Suprafață cultivată: 8.000 ha", "Înființare centru: 1985", "Populația orașului Kaédi: circa 50.000 (2013)", "Precipitații medii anuale: 400 mm", "Număr de fermieri sprijiniți: peste 5.000"],
       en: ["Annual rice production: approx. 30,000 metric tons", "Cultivated area: 8,000 hectares", "Center established: 1985", "Population of Kaédi: about 50,000 (2013 census)", "Average annual rainfall: 400 mm", "Number of supported farmers: over 5,000"],
     },
+    image: "/poi-images/mauritania-kaedi-agro-economic-v2.webp",
   },
   {
     id: "mauritania-ross-bethio-agro-economic-v2",
@@ -155,6 +159,7 @@ export const mauritaniaEconomicV2: POI[] = [
       ro: ["Suprafață irigată: 12.000 ha", "Producție anuală de orez: 45.000 tone", "Barajul Rosso construit în 1995, lungime 1,5 km", "Distanța până la Nouakchott: 200 km", "Randament mediu: 3,5 t/ha", "Populația zonei: circa 150.000"],
       en: ["Irrigated area: 12,000 hectares", "Annual rice production: 45,000 metric tons", "Rosso Dam built in 1995, length 1.5 km", "Distance to Nouakchott: 200 km (124 mi)", "Average yield: 3.5 tons per hectare", "Population in the zone: approximately 150,000"],
     },
+    image: "/poi-images/mauritania-ross-bethio-agro-economic-v2.webp",
   },
   {
     id: "mauritania-nouakchott-deepwater-port-economic-v2",
@@ -186,6 +191,7 @@ export const mauritaniaEconomicV2: POI[] = [
       ro: ["Anul deschiderii: 2020", "Adâncimea apei: 16 m", "Capacitate terminal containere: 300.000 TEU/an", "Costul construcției: 600 milioane USD", "Distanța până la Nouakchott: 30 km", "Număr de cheiuri: 4"],
       en: ["Year opened: 2020", "Water depth: 16 meters (52 ft)", "Container terminal capacity: 300,000 TEUs per year", "Construction cost: $600 million", "Distance from Nouakchott: 30 km (19 mi)", "Number of berths: 4"],
     },
+    image: "/poi-images/mauritania-nouakchott-deepwater-port-economic-v2.webp",
   },
   {
     id: "mauritania-boulanouar-energy-economic-v2",
@@ -217,6 +223,7 @@ export const mauritaniaEconomicV2: POI[] = [
       ro: ["Anul punerii în funcțiune: 2016", "Număr de turbine: 37", "Capacitate totală: 44 MW", "Producție anuală: 100 GWh", "Reducere anuală CO2: 50.000 tone", "Costul investiției: 100 milioane USD"],
       en: ["Commissioned in 2016", "Number of turbines: 37", "Total capacity: 44 MW", "Annual energy production: 100 GWh", "Annual CO2 reduction: 50,000 tons", "Project cost: $100 million"],
     },
+    image: "/poi-images/mauritania-boulanouar-energy-economic-v2.webp",
   },
   {
     id: "mauritania-akjoujt-mine-economic-v2",
@@ -248,6 +255,7 @@ export const mauritaniaEconomicV2: POI[] = [
       ro: ["Producție anuală cupru: 30.000 tone concentrat", "Producție anuală aur: circa 2.000 kg", "Începerea exploatării: 2009", "Rezerve de minereu: 20 milioane de tone", "Număr de angajați: 1.200", "Costul investiției: 500 milioane USD"],
       en: ["Annual copper production: 30,000 metric tons of concentrate", "Annual gold production: approx. 2,000 kg (64,000 oz)", "Production started: 2009", "Ore reserves: 20 million tons", "Workforce: 1,200 employees", "Project investment: $500 million"],
     },
+    image: "/poi-images/mauritania-akjoujt-mine-economic-v2.webp",
   },
   {
     id: "mauritania-nouakchott-industrial-zone-economic-v2",
@@ -279,6 +287,7 @@ export const mauritaniaEconomicV2: POI[] = [
       ro: ["Suprafață: 500 ha", "Număr de companii: peste 100", "Valoare anuală a producției: estimată 200 miliarde ouguiya", "Cel mai mare angajator: fabrica de ciment (2.000 de angajați)", "Alimentare electrică: 50 MW", "Anul înființării: 1995"],
       en: ["Area: 500 hectares", "Number of companies: over 100", "Annual production value: estimated 200 billion Ouguiya", "Largest employer: cement plant (2,000 employees)", "Power supply: 50 MW from national grid", "Established: 1995"],
     },
+    image: "/poi-images/mauritania-nouakchott-industrial-zone-economic-v2.webp",
   },
   {
     id: "mauritania-kiffa-trade-economic-v2",
@@ -310,6 +319,7 @@ export const mauritaniaEconomicV2: POI[] = [
       ro: ["Populație: aprox. 60.000 (2013)", "Altitudine: 170 m", "Principala zi de piață: sâmbătă", "Număr de moschei: peste 20", "Distanța până la Nouakchott: 480 km", "Piață de animale: în medie 5.000 de capete pe săptămână"],
       en: ["Population: approx. 60,000 (2013 census)", "Elevation: 170 m (558 ft)", "Main market day: Saturday", "Number of mosques: over 20", "Distance to Nouakchott: 480 km (298 mi)", "Livestock market: average 5,000 animals per week"],
     },
+    image: "/poi-images/mauritania-kiffa-trade-economic-v2.webp",
   },
   {
     id: "mauritania-atarr-oasis-economic-v2",
@@ -341,6 +351,7 @@ export const mauritaniaEconomicV2: POI[] = [
       ro: ["Centrul producției de curmale din Mauritania", "Peste 190.000 de palmiere în regiune", "Cea mai importantă piață de curmale din țară", "Vârful recoltei în timpul festivalului Guetna", "Utilizează irigarea prin puțuri pentru plantații", "Capitala regiunii administrative Adrar"],
       en: ["Center of Mauritanian date production", "Over 190,000 date palms in the region", "Most important date market in Mauritania", "Harvest peak during the Guetna festival", "Uses well irrigation for palm groves", "Capital of the Adrar administrative region"],
     },
+    image: "/poi-images/mauritania-atarr-oasis-economic-v2.webp",
   },
   {
     id: "mauritania-nouadhibou-fishing-economic-v2",
@@ -372,6 +383,7 @@ export const mauritaniaEconomicV2: POI[] = [
       ro: ["Captură anuală: 800.000 tone", "Număr de nave de pescuit: peste 1.000 (400 industriale)", "Export în UE: aproximativ 60% din captură", "Angajați în sector: 20.000", "Capacitate de depozitare frigorifică: 50.000 tone", "Număr de fabrici de conserve: 15"],
       en: ["Annual fish catch: 800,000 metric tons", "Number of fishing vessels: over 1,000 (400 industrial)", "Share of catch exported to EU: about 60%", "Employment in the sector: 20,000", "Cold storage capacity: 50,000 metric tons", "Number of canneries: 15"],
     },
+    image: "/poi-images/mauritania-nouadhibou-fishing-economic-v2.webp",
   },
   {
     id: "mauritania-fderik-mine-economic-v2",
@@ -403,6 +415,7 @@ export const mauritaniaEconomicV2: POI[] = [
       ro: ["Redeschidere: 2018", "Producție anuală: 500.000 tone concentrat", "Conținut de fier: >60%", "Angajați: 400", "Distanța față de Zouérat: 40 km", "Rezerve estimate: 50 milioane de tone"],
       en: ["Reopened in 2018", "Annual production: 500,000 metric tons of concentrate", "Iron content: >60%", "Workforce: 400 employees", "Distance from Zouérat: 40 km (25 mi)", "Estimated reserves: 50 million tons"],
     },
+    image: "/poi-images/mauritania-fderik-mine-economic-v2.webp",
   },
   {
     id: "mauritania-trarza-agro-economic-v2",
@@ -465,6 +478,7 @@ export const mauritaniaEconomicV2: POI[] = [
       ro: ["Populație: aprox. 50.000 (2013)", "Suprafața pieței: 2 ha", "Zile principale de piață: sâmbătă și duminică", "Distanța până la Nouakchott: 600 km", "Distanța până la granița cu Mali: 50 km", "Număr de comercianți: circa 1.500"],
       en: ["Population: approx. 50,000 (2013)", "Market area: 2 hectares", "Main market days: Saturday and Sunday", "Distance to Nouakchott: 600 km (373 mi)", "Distance to Mali border: 50 km (31 mi)", "Number of traders: about 1,500"],
     },
+    image: "/poi-images/mauritania-nema-market-economic-v2.webp",
   },
   {
     id: "mauritania-nouakchott-market-v2-economic-v2",
@@ -496,6 +510,7 @@ export const mauritaniaEconomicV2: POI[] = [
       ro: ["Marfă zilnică: 200 tone alimente", "Număr de tarabe: peste 1.000", "Deschidere: ora 5 dimineața", "Suprafață: 4 ha", "Valoare anuală: 100 miliarde ouguiya", "Ponderea importurilor: 40%"],
       en: ["Daily throughput: 200 metric tons of food", "Number of stalls: over 1,000", "Opening time: 5 AM", "Area: 4 hectares", "Annual value: 100 billion Ouguiya", "Share of imported goods: 40%"],
     },
+    image: "/poi-images/mauritania-nouakchott-market-v2-economic-v2.webp",
   },
   {
     id: "mauritania-zouerat-rail-economic-v2",
@@ -527,6 +542,7 @@ export const mauritaniaEconomicV2: POI[] = [
       ro: ["Lungime: 700 km", "Ecartament: 1.435 mm", "Anul construcției: 1963", "Lungimea maximă a trenului: 200 de vagoane (2,5 km)", "Volum anual de transport: 20 milioane de tone", "Tren de pasageri: o dată pe săptămână"],
       en: ["Track length: 700 km (435 mi)", "Track gauge: 1,435 mm (standard gauge)", "Year built: 1963", "Maximum train length: 200 cars (2.5 km / 1.6 mi)", "Annual freight volume: 20 million metric tons", "Passenger service: once weekly"],
     },
+    image: "/poi-images/mauritania-zouerat-rail-economic-v2.webp",
   },
   {
     id: "mauritania-boghe-irrigation-economic-v2",
@@ -558,6 +574,7 @@ export const mauritaniaEconomicV2: POI[] = [
       ro: ["Suprafață irigată: 5.000 ha", "Începutul proiectului: 1975", "Cultura principală: orez (80% din suprafață)", "Număr de fermieri: 3.000", "Lungimea canalelor: 120 km", "Producție anuală de orez: 25.000 tone"],
       en: ["Irrigated area: 5,000 hectares", "Project start: 1975", "Main crop: rice (80% of area)", "Number of farmers: 3,000", "Length of canals: 120 km (75 mi)", "Annual rice production: 25,000 metric tons"],
     },
+    image: "/poi-images/mauritania-boghe-irrigation-economic-v2.webp",
   },
   {
     id: "mauritania-akjoujt-copper-mine-economic-v2",
@@ -589,6 +606,7 @@ export const mauritaniaEconomicV2: POI[] = [
       ro: ["Producție anuală concentrat de cupru: 30.000 tone", "Redeschidere: 2004", "Angajați: 800", "Producție anuală de aur: circa 1.500 kg", "Altitudinea zăcământului: 2.000 m", "Operator: First Quantum Minerals"],
       en: ["Annual copper concentrate production: 30,000 metric tons", "Reopened in 2004", "Workforce: 800 employees", "Annual gold production: approx. 1,500 kg", "Deposit elevation: 2,000 m above sea level", "Operator: First Quantum Minerals"],
     },
+    image: "/poi-images/mauritania-akjoujt-copper-mine-economic-v2.webp",
   },
   {
     id: "mauritania-tichitt-date-economic-v2",
@@ -620,6 +638,7 @@ export const mauritaniaEconomicV2: POI[] = [
       ro: ["200 hectare de palmieri de curmale în Tichitt", "Producție anuală de curmale: 1.500 tone", "Înălțimea celui mai bătrân copac: 15 metri", "Precipitații medii anuale: 100 mm", "Numărul de fântâni active: 12", "Valoarea exporturilor în 2020: 2,3 milioane USD"],
       en: ["Date palm groves in Tichitt cover 200 hectares", "Annual date production: approximately 1,500 tons", "Oldest recorded tree height: 15 meters", "Average annual rainfall: 100 mm", "Number of active wells: 12", "Export value in 2020: USD 2.3 million"],
     },
+    image: "/poi-images/mauritania-tichitt-date-economic-v2.webp",
   },
   {
     id: "mauritania-nouadhibou-free-zone-economic-v2",
@@ -651,6 +670,7 @@ export const mauritaniaEconomicV2: POI[] = [
       ro: ["Anul înființării: 2013", "Suprafață: 420 hectare", "Număr de companii stabilite: 80", "Valoarea exporturilor anuale: 1,2 miliarde USD", "Locuri de muncă vizate: 50.000", "Capacitatea centralei solare: 10 MW"],
       en: ["Year established: 2013", "Area: 420 hectares", "Number of registered companies: 80", "Annual export value: USD 1.2 billion", "Targeted jobs: 50,000", "Solar farm capacity: 10 MW"],
     },
+    image: "/poi-images/mauritania-nouadhibou-free-zone-economic-v2.webp",
   },
   {
     id: "mauritania-kaedi-river-market-economic-v2",
@@ -682,6 +702,7 @@ export const mauritaniaEconomicV2: POI[] = [
       ro: ["Număr săptămânal de comercianți: până la 5.000", "Suprafața pieței: 3 hectare", "Volum anual al comerțului: 50 milioane USD", "Rata pierderilor la produse perisabile: 20%", "Anul înființării: 1967", "Fonduri UE pentru depozit frigorific: 2,5 milioane euro"],
       en: ["Weekly trader count: up to 5,000", "Market area: 3 hectares", "Annual trade volume: USD 50 million", "Spoilage loss rate for perishables: 20%", "Established year: 1967", "EU funding for cold storage: EUR 2.5 million"],
     },
+    image: "/poi-images/mauritania-kaedi-river-market-economic-v2.webp",
   },
   {
     id: "mauritania-boumdeid-trade-economic-v2",
@@ -713,6 +734,7 @@ export const mauritaniaEconomicV2: POI[] = [
       ro: ["Comerț săptămânal cu animale: 2.000 capete", "Venit anual: 8 milioane USD", "Număr de tăbăcării: 10", "Anul construcției drumului asfaltat: 2018", "Fondat în secolul al XIX-lea", "Adâncimea fântânii: 25 de metri"],
       en: ["Weekly livestock trade: 2,000 head", "Annual revenue: USD 8 million", "Number of tanneries: 10", "Year of paved road construction: 2018", "Established in the 19th century", "Well depth: 25 meters"],
     },
+    image: "/poi-images/mauritania-boumdeid-trade-economic-v2.webp",
   },
   {
     id: "mauritania-selibaby-trade-economic-v2",
@@ -744,6 +766,7 @@ export const mauritaniaEconomicV2: POI[] = [
       ro: ["Volum săptămânal: 3.000 de tone", "Suprafața pieței: 5 hectare", "Capacitate depozit frigorific: 500 de tone", "Bazin de populație deservit: 100.000 de locuitori", "Ponderea comerțului transfrontalier: 60%", "Înălțimea halei pieței: 12 metri"],
       en: ["Weekly throughput: 3,000 tons", "Market area: 5 hectares", "Cold storage capacity: 500 tons", "Population served: 100,000", "Share of cross-border trade: 60%", "Market hall height: 12 meters"],
     },
+    image: "/poi-images/mauritania-selibaby-trade-economic-v2.webp",
   },
   {
     id: "mauritania-nouakchott-port-economic-v2",
@@ -775,6 +798,7 @@ export const mauritaniaEconomicV2: POI[] = [
       ro: ["Anul deschiderii: 1986", "Lungimea cheiului: 1.500 de metri", "Capacitate anuală: 4 milioane de tone", "Ponderea importurilor: 72%", "Angajați direcți: 2.500", "Volum anual de dragare: 1,5 milioane de metri cubi"],
       en: ["Year opened: 1986", "Quay length: 1,500 meters", "Annual capacity: 4 million tons", "Share of national imports: 72%", "Direct employees: 2,500", "Annual dredging volume: 1.5 million cubic meters"],
     },
+    image: "/poi-images/mauritania-nouakchott-port-economic-v2.webp",
   },
   {
     id: "mauritania-akjoujt-mine-v2-economic-v2",
@@ -806,6 +830,7 @@ export const mauritaniaEconomicV2: POI[] = [
       ro: ["Producție de concentrat de cupru: 30.000 tone/an", "Producție de aur: 1,2 tone/an", "Număr de angajați: 1.200", "Consum de apă: 10 milioane de metri cubi/an", "Capacitatea centralei solare: 15 MW", "Contribuția la PIB: 5%"],
       en: ["Copper concentrate production: 30,000 tons/year", "Gold production: 1.2 tons/year", "Number of employees: 1,200", "Water consumption: 10 million cubic meters/year", "Solar plant capacity: 15 MW", "Contribution to GDP: 5%"],
     },
+    image: "/poi-images/mauritania-akjoujt-mine-v2-economic-v2.webp",
   },
   {
     id: "mauritania-maghama-trade-economic-v2",
@@ -837,6 +862,7 @@ export const mauritaniaEconomicV2: POI[] = [
       ro: ["Suprafață: 2 hectare", "Număr de comercianți: 800", "Valoare anuală a comerțului: 15 milioane USD", "Trecători zilnici ai frontierei: 1.000", "Anul recunoașterii oficiale: 1995", "Distanța până la cel mai apropiat oraș: 12 km"],
       en: ["Area: 2 hectares", "Number of traders: 800", "Annual trade value: USD 15 million", "Daily border crossers: 1,000", "Year of official recognition: 1995", "Distance to nearest town: 12 km"],
     },
+    image: "/poi-images/mauritania-maghama-trade-economic-v2.webp",
   },
   {
     id: "mauritania-nouadhibou-industrial-v2-economic-v2",
@@ -868,6 +894,7 @@ export const mauritaniaEconomicV2: POI[] = [
       ro: ["Manipulare anuală de marfă: 10 milioane de tone", "Ponderea exporturilor naționale: 80%", "Număr de nave-ucraină: 300", "Angajați: 15.000", "Distanța căii ferate către Zouérat: 700 km", "Deschiderea terminalului de adâncime: 2021"],
       en: ["Annual cargo throughput: 10 million tons", "Share of national exports: 80%", "Number of factory trawlers: 300", "Employees: 15,000", "Rail distance to Zouérat: 700 km", "Deep-water terminal opening: 2021"],
     },
+    image: "/poi-images/mauritania-nouadhibou-industrial-v2-economic-v2.webp",
   },
   {
     id: "mauritania-kaedi-river-v2-economic-v2",
@@ -899,5 +926,6 @@ export const mauritaniaEconomicV2: POI[] = [
       ro: ["Anul construcției: 1972", "Lungimea cheiului: 200 de metri", "Dimensiunea maximă a navelor: 500 de tone", "Volum anual de marfă: 30.000 de tone", "Perioada de operare: iulie – decembrie", "Distanța până la Saint-Louis: 240 km"],
       en: ["Year built: 1972", "Quay length: 200 meters", "Maximum vessel size: 500 tons", "Annual cargo volume: 30,000 tons", "Operational period: July to December", "Distance to Saint-Louis: 240 km"],
     },
+    image: "/poi-images/mauritania-kaedi-river-v2-economic-v2.webp",
   }
 ];

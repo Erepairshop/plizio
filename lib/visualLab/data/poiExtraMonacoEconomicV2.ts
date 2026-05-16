@@ -32,6 +32,7 @@ export const monacoEconomicV2: POI[] = [
       ro: ["Înființată oficial în mai 1976", "Zboruri programate la fiecare 20 min", "Peste 10 elicoptere în dotare", "Servicii vamale directe la aterizare", "Peste 100.000 de mișcări anuale", "Partener oficial al evenimentelor F1"],
       en: ["Established May 1976 by Patrick Rossi", "Headquartered at Monaco Heliport", "Average flight time of 7 minutes", "Regular shuttle to Nice Côte d'Azur", "Fleet consists of Airbus Helicopters", "Vital link for business logistics"],
     },
+    image: "/poi-images/monaco-heli-air-monaco-economic-v2.webp",
   },
   {
     id: "monaco-monaco-telecom-economic-v2",
@@ -64,6 +65,7 @@ export const monacoEconomicV2: POI[] = [
       ro: ["Fondată prin fuziune în 1997", "Lansare 5G în iulie 2019", "Parteneriat strategic cu Huawei", "Peste 200 de angajați calificați", "Sediul central situat în Fontvieille", "Servicii complete Triple Play"],
       en: ["Established in 1997 via privatization", "100% 5G coverage achieved in 2019", "Majority owned by NJJ Group since 2014", "Operator of the +377 country code", "Provides E-Government cloud services", "Acquired Monaco Telecom Malta in 2020"],
     },
+    image: "/poi-images/monaco-monaco-telecom-economic-v2.webp",
   },
   {
     id: "monaco-sbm-corporate-economic-v2",
@@ -96,6 +98,7 @@ export const monacoEconomicV2: POI[] = [
       ro: ["Înființată pe 2 aprilie 1863", "Peste 4000 de angajați permanenți", "Administrează Hotel de Paris", "Proprietar al Cazinoului Monte-Carlo", "Statul deține 64,2% din acțiuni", "Sediul lângă Place du Casino"],
       en: ["Founded in 1863 by Prince Charles III", "Employs over 4,000 people locally", "State holds 64% majority stake", "Manages 4 luxury hotels and 4 casinos", "Operates 30+ dining establishments", "Cornerstone of Monaco's GDP"],
     },
+    image: "/poi-images/monaco-sbm-corporate-economic-v2.webp",
   },
   {
     id: "monaco-bureau-economic-expansion-economic-v2",
@@ -128,6 +131,7 @@ export const monacoEconomicV2: POI[] = [
       ro: ["An înființare: 1998", "Impozit pe profit: 25%", "Companii asistate: peste 500", "PIB pe cap de locuitor: 185.000 €", "Șomaj: 2%", "Investiții străine directe: 500 mil. €"],
       en: ["Year founded: 1998", "Corporate tax rate: 25% (since 2023)", "Companies assisted: 500+", "GDP per capita: €185,000", "Unemployment: 2%", "Annual visitors: 10 million"],
     },
+    image: "/poi-images/monaco-bureau-economic-expansion-economic-v2.webp",
   },
   {
     id: "monaco-st-devote-logistics-economic-v2",
@@ -160,5 +164,6 @@ export const monacoEconomicV2: POI[] = [
       ro: ["Tonaj anual: 100.000 t", "Depozite: 15", "Angajați: 200", "Adâncimea portului: 12 m", "Trafic containere: 50.000 TEU", "An deschidere: 1995"],
       en: ["Annual cargo volume: 100,000 t", "Number of warehouses: 15", "Employees: 200", "Port depth: 12 m", "Container throughput: 50,000 TEU", "Established: 1995"],
     },
+    image: "/poi-images/monaco-st-devote-logistics-economic-v2.webp",
   }
 ];

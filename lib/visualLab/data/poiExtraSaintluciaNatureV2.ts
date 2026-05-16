@@ -31,6 +31,7 @@ export const saintluciaNatureV2: POI[] = [
       ro: ["Înălțimea vârfului este de 786 metri deasupra mării.", "Inclus în patrimoniul mondial UNESCO din anul 2004.", "Compus geologic în principal din rocă dacitică.", "Găzduiește aproximativ 27 de specii de păsări.", "Traseul de drumeție până la vârf are circa 4 km.", "Situat în districtul Soufrière, în sud-vestul insulei."],
       en: ["Summit elevation is 786 meters above sea level.", "Designated a UNESCO World Heritage site in 2004.", "Geologically composed mainly of dacitic rock.", "Home to approximately 27 different bird species.", "The hiking trail to the summit is about 4 km long.", "Located in the Soufrière District of Saint Lucia."],
     },
+    image: "/poi-images/saintlucia-gros-piton-nature-v2.webp",
   },
   {
     id: "saintlucia-petit-piton-nature-v2",
@@ -62,6 +63,7 @@ export const saintluciaNatureV2: POI[] = [
       ro: ["Înălțimea maximă este de 743 metri deasupra mării.", "Profil semnificativ mai abrupt decât Gros Piton.", "Parte a zonei de management UNESCO Pitons.", "Conține petroglife precolumbiene ale caribilor.", "Format ca dop vulcanic cu milioane de ani în urmă.", "Ascensiunea necesită adesea echipament de alpinism."],
       en: ["Maximum height of 743 meters above sea level.", "Significantly steeper profile than Gros Piton.", "Part of the UNESCO Pitons Management Area.", "Contains pre-Columbian Carib petroglyphs.", "Formed as a volcanic plug millions of years ago.", "Ascent often requires technical climbing skills."],
     },
+    image: "/poi-images/saintlucia-petit-piton-nature-v2.webp",
   },
   {
     id: "saintlucia-sulphur-springs-nature-v2",
@@ -93,6 +95,7 @@ export const saintluciaNatureV2: POI[] = [
       ro: ["Situat în caldera Soufrière din sud-vestul insulei.", "Temperaturile apei ating până la 77 grade Celsius.", "Ultima erupție magmatică a avut loc în jurul anului 1766.", "Conține concentrații mari de sulf și fier.", "Utilizat în scopuri medicale încă din secolul al XVIII-lea.", "Considerat unul dintre cele mai vizitate locuri din Sfânta Lucia."],
       en: ["Located within the Soufrière caldera in the southwest.", "Water temperatures reach up to 170°F (77°C).", "The last magmatic eruption occurred around 1766.", "Contains high concentrations of sulfur and iron.", "Has been used for medicinal purposes since the 1700s.", "Recognized as a top tourist attraction in Saint Lucia."],
     },
+    image: "/poi-images/saintlucia-sulphur-springs-nature-v2.webp",
   },
   {
     id: "saintlucia-diamond-falls-nature-v2",
@@ -124,6 +127,7 @@ export const saintluciaNatureV2: POI[] = [
       ro: ["Înălțimea cascadei este de aproximativ 17 metri.", "Mineralele colorează stâncile în galben, verde și maro.", "Terenul a fost donat în 1784 de regele Ludovic al XVI-lea.", "Apa provine dintr-un izvor termal subteran.", "Conține calciu, magneziu și compuși de sulf.", "Parte a unei grădini botanice de șase hectare."],
       en: ["The waterfall has a drop of approximately 17 meters.", "Minerals tint the rocks in shades of yellow, green, and brown.", "The site was granted by King Louis XVI in 1784.", "Water originates from an underground geothermal spring.", "Contains deposits of lime, magnesium, and sulfur.", "Set within a six-acre award-winning botanical garden."],
     },
+    image: "/poi-images/saintlucia-diamond-falls-nature-v2.webp",
   },
   {
     id: "saintlucia-toraille-waterfall-nature-v2",
@@ -155,6 +159,7 @@ export const saintluciaNatureV2: POI[] = [
       ro: ["Înălțimea căderii este de circa 15 metri (50 picioare).", "Situată într-un parc botanic luxuriant.", "Apa se varsă ulterior în Marea Caraibilor.", "Dispune de poteci și poduri amenajate pentru vizitatori.", "Utilizată frecvent pentru fotografia de natură locală.", "Localizată aproape de drumul principal spre Soufrière."],
       en: ["Drop height is approximately 15 meters (50 feet).", "Situated within a lush botanical park setting.", "The runoff eventually flows into the Caribbean Sea.", "Features landscaped paths and bridges for visitors.", "Frequently used as a site for local nature photography.", "Located just off the main road to Soufrière."],
     },
+    image: "/poi-images/saintlucia-toraille-waterfall-nature-v2.webp",
   },
   {
     id: "saintlucia-mount-gimie-nature-v2",
@@ -186,6 +191,7 @@ export const saintluciaNatureV2: POI[] = [
       ro: ["Cel mai înalt punct din Sfânta Lucia, la 950 metri.", "Origine vulcanică datând din perioada pleistocenului.", "Principala zonă de captare pentru alimentarea cu apă.", "Parte a Rezervației Forestiere Centrale protejate.", "Vârful este compus în principal din dacit vulcanic.", "Drumeția necesită adesea un ghid autorizat."],
       en: ["Highest point in Saint Lucia at 950 meters (3,117 ft).", "Volcanic origin dating back to the Pleistocene.", "Primary catchment area for the island's water supply.", "Part of the protected Central Forest Reserve.", "The summit consists primarily of volcanic dacite.", "Hiking the peak often requires a licensed guide."],
     },
+    image: "/poi-images/saintlucia-mount-gimie-nature-v2.webp",
   },
   {
     id: "saintlucia-piton-flore-nature-v2",
@@ -217,6 +223,7 @@ export const saintluciaNatureV2: POI[] = [
       ro: ["Înălțimea vârfului este de 564 metri deasupra mării.", "Aparține Rezervației Castries Waterworks.", "Habitat important pentru pitulicea de Sfânta Lucia.", "Servește ca bazin de captare pentru barajul Roseau.", "Accesul se face de obicei prin zona Babonneau.", "Acoperit de o pădure tropicală secundară densă."],
       en: ["Summit elevation is 564 meters above sea level.", "Part of the Castries Waterworks Reserve.", "Important habitat for the Saint Lucia Warbler.", "Serves as a catchment area for the Roseau Dam.", "Accessible via trails from the Babonneau area.", "Covered by dense secondary tropical rainforest."],
     },
+    image: "/poi-images/saintlucia-piton-flore-nature-v2.webp",
   },
   {
     id: "saintlucia-roseau-river-nature-v2",
@@ -248,6 +255,7 @@ export const saintluciaNatureV2: POI[] = [
       ro: ["Cel mai lung râu de pe insulă, cu circa 19 km.", "Alimentează barajul John Compton (barajul Roseau).", "Rezervorul reține aproximativ 3 milioane m3 de apă.", "Traversează cea mai mare zonă agricolă de bananieri.", "Principala sursă de apă pentru nordul insulei.", "Se varsă în Marea Caraibilor la Roseau Bay."],
       en: ["Longest river on the island, approx 19 km in length.", "Primary source for the John Compton Dam.", "The dam reservoir holds 3 million cubic meters of water.", "Flows through the island's largest banana plantations.", "Key water source for northern districts of Saint Lucia.", "Empties into the Caribbean Sea at Roseau Bay."],
     },
+    image: "/poi-images/saintlucia-roseau-river-nature-v2.webp",
   },
   {
     id: "saintlucia-anse-chastanet-reef-nature-v2",
@@ -279,6 +287,7 @@ export const saintluciaNatureV2: POI[] = [
       ro: ["Parte a zonei de management marin Soufrière.", "Găzduiește peste 150 de specii diferite de pești.", "Adâncimea apei variază de la 5 la peste 40 de metri.", "Cunoscut pentru coralii creier și gorgoniile mari.", "Vizibilitatea sub apă depășește adesea 20 de metri.", "Acces direct de pe plaja Anse Chastanet."],
       en: ["Part of the Soufrière Marine Management Area.", "Home to over 150 species of tropical fish.", "Depths range from 5 to over 140 feet (40+ meters).", "Features large brain corals and colorful gorgonians.", "Underwater visibility often exceeds 20 meters.", "Accessible directly from the Anse Chastanet beach."],
     },
+    image: "/poi-images/saintlucia-anse-chastanet-reef-nature-v2.webp",
   },
   {
     id: "saintlucia-maria-islands-nature-v2",
@@ -310,6 +319,7 @@ export const saintluciaNatureV2: POI[] = [
       ro: ["Compuse din Maria Major și Maria Minor.", "Habitat pentru cel mai rar șarpe din lume (Kouwes).", "Adăpostește șopârla endemică de Sfânta Lucia.", "Declarate oficial rezervație naturală în anul 1982.", "Loc important de cuibărit pentru rândunicile de mare.", "Administrate de Saint Lucia National Trust."],
       en: ["Comprised of two islets: Maria Major and Maria Minor.", "Home to the Saint Lucia Racer, the world's rarest snake.", "Habitat for the endemic Saint Lucia Whiptail lizard.", "Declared a Nature Reserve in 1982.", "Major nesting site for Sooty Terns during spring.", "Managed by the Saint Lucia National Trust."],
     },
+    image: "/poi-images/saintlucia-maria-islands-nature-v2.webp",
   },
   {
     id: "saintlucia-dennery-falls-nature-v2",
@@ -341,6 +351,7 @@ export const saintluciaNatureV2: POI[] = [
       ro: ["Înălțimea cascadei este de circa 20 metri.", "Cunoscută local sub numele de Sault Falls.", "Situată în districtul Dennery, pe coasta atlantică.", "Alimentată de râul Dennery din zonele înalte.", "Înconjurată de pădure tropicală uscată secundară.", "Mai puțin frecventată decât cascadele din vest."],
       en: ["The waterfall has a drop of approximately 20 meters.", "Frequently referred to locally as Sault Falls.", "Located in the Dennery District on the Atlantic coast.", "Fed by the Dennery River originating in the highlands.", "Surrounded by dense secondary dry tropical forest.", "Less visited by tourists compared to western falls."],
     },
+    image: "/poi-images/saintlucia-dennery-falls-nature-v2.webp",
   },
   {
     id: "saintlucia-soufriere-river-nature-v2",
@@ -372,6 +383,7 @@ export const saintluciaNatureV2: POI[] = [
       ro: ["Se varsă în Marea Caraibilor la Soufrière Bay.", "Lungimea cursului râului este de circa 10 kilometri.", "Transportă depozite de sulf din zona Sulphur Springs.", "Crucial pentru stabilirea primelor domenii franceze.", "Utilizat pentru irigarea micilor suprafețe agricole.", "Traversează direct centrul orașului Soufrière."],
       en: ["Empties into the Caribbean Sea at Soufrière Bay.", "Total length of the river is approximately 10 km.", "Carries sulfur deposits from the Sulphur Springs area.", "Was vital for the establishment of early French estates.", "Provides irrigation for small-scale local agriculture.", "Flows directly through the center of Soufrière town."],
     },
+    image: "/poi-images/saintlucia-soufriere-river-nature-v2.webp",
   },
   {
     id: "saintlucia-latille-falls-nature-v2",
@@ -403,6 +415,7 @@ export const saintluciaNatureV2: POI[] = [
       ro: ["Înălțimea cascadei este de circa 6 metri.", "Situată lângă Savannes Bay în Micoud.", "Cunoscută pentru tratamentul cu pești în pârâul natural.", "Înconjurată de arbori de nucșoară, cacao și scorțișoară.", "Gestionată ca un proiect privat de conservare.", "Oferă poteci naturale marcate pentru vizitatori."],
       en: ["Height of the waterfall is approximately 6 meters.", "Located near Savannes Bay in the Micoud District.", "Known for the natural fish spa experience in the stream.", "Surrounded by nutmeg, cocoa, and cinnamon trees.", "Operated as a private eco-tourism and nature project.", "Features marked nature trails through the property."],
     },
+    image: "/poi-images/saintlucia-latille-falls-nature-v2.webp",
   },
   {
     id: "saintlucia-piton-mitan-nature-v2",
@@ -434,6 +447,7 @@ export const saintluciaNatureV2: POI[] = [
       ro: ["Înălțimea maximă este de circa 360 metri.", "Poziție centrală pe axa vulcanică principală.", "Vizibil de pe drumul ce traversează insula est-vest.", "Habitat important pentru ferigile arborescente.", "Servește ca punct de reper în zonele înalte centrale.", "Compus geologic din roci vulcanice antice."],
       en: ["Maximum elevation is approximately 360 meters.", "Central location along the island's volcanic backbone.", "Visible from the main highway crossing the island.", "Important habitat for tropical tree ferns.", "Serves as a landmark in the central highlands.", "Geologically composed of ancient volcanic rock."],
     },
+    image: "/poi-images/saintlucia-piton-mitan-nature-v2.webp",
   },
   {
     id: "saintlucia-frigate-island-nature-v2",
@@ -465,6 +479,7 @@ export const saintluciaNatureV2: POI[] = [
       ro: ["A fost declarată oficial rezervație naturală în anul 1989", "Sezonul principal de cuibărit al fregatelor este mai-iulie", "Găzduiește specia rară de boa din Sfânta Lucia", "Păsările au o anvergură a aripilor de până la 2 metri", "Cele două insule sunt legate printr-o structură de tombolo", "Habitat esențial pentru specia endemică de gecko pitic"],
       en: ["Officially declared a nature reserve in 1989", "Main breeding season for frigatebirds is May to July", "Home to the rare Saint Lucia boa constrictor", "Birds exhibit a wingspan of up to 2 meters", "Two islets are connected by a tombolo sandbar structure", "Critical habitat for the endemic pygmy gecko species"],
     },
+    image: "/poi-images/saintlucia-frigate-island-nature-v2.webp",
   },
   {
     id: "saintlucia-savannes-bay-nature-v2",
@@ -496,6 +511,7 @@ export const saintluciaNatureV2: POI[] = [
       ro: ["Aria protejată se întinde pe aproximativ 25 de hectare", "Găzduiește toate cele patru specii de mangrove din regiune", "A fost pusă sub protecție legală în anul 1990", "Locație importantă pentru pescuitul artizanal local", "Pajiștile de iarbă de mare stochează cantități mari de carbon", "Loc frecvent de observare pentru vulturul pescar"],
       en: ["The protected area covers approximately 25 hectares", "Home to all four mangrove species found in the region", "Placed under legal protection in the year 1990", "Important site for local artisanal fishing activities", "Seagrass beds sequester significant amounts of carbon", "Frequent sighting location for the western osprey"],
     },
+    image: "/poi-images/saintlucia-savannes-bay-nature-v2.webp",
   },
   {
     id: "saintlucia-troumasse-river-nature-v2",
@@ -527,6 +543,7 @@ export const saintluciaNatureV2: POI[] = [
       ro: ["Unul dintre cele mai lungi râuri din statul insular", "Bazinul său hidrografic include pădure tropicală primară", "Se varsă printr-o zonă largă de estuar la Micoud", "Sursă importantă pentru extracția nisipului fluvial", "Găzduiește populații de creveți de râu nativi", "Joacă un rol central în controlul inundațiilor din est"],
       en: ["One of the longest rivers in the island nation", "The watershed includes primary tropical rainforest", "Empties into a wide estuary zone at Micoud", "Important source for local river sand extraction", "Home to populations of native freshwater shrimp", "Plays a central role in eastern flood management"],
     },
+    image: "/poi-images/saintlucia-troumasse-river-nature-v2.webp",
   },
   {
     id: "saintlucia-canaries-river-nature-v2",
@@ -558,6 +575,7 @@ export const saintluciaNatureV2: POI[] = [
       ro: ["Izvorăște în apropierea muntelui Mount Gimie", "Traversează un teren cu relief vulcanic pronunțat", "Gura de vărsare formează un port natural pentru bărci mici", "Utilizat istoric pentru alimentarea plantațiilor de zahăr", "Există bazine naturale de înot în cursul superior", "Sursă importantă de apă dulce pentru coasta de vest"],
       en: ["Originates near the vicinity of Mount Gimie", "Traverses terrain with pronounced volcanic features", "The mouth forms a natural harbor for small boats", "Historically used to supply sugar cane plantations", "Features pristine natural swimming pools in upper reaches", "Key supplier of freshwater for the western coast"],
     },
+    image: "/poi-images/saintlucia-canaries-river-nature-v2.webp",
   },
   {
     id: "saintlucia-cul-de-sac-valley-nature-v2",
@@ -589,6 +607,7 @@ export const saintluciaNatureV2: POI[] = [
       ro: ["Găzduiește un terminal major de stocare a petrolului", "Fost sit al unor fabrici importante de zahăr", "Râul Cul de Sac are o lungime de circa 12 kilometri", "Cea mai importantă zonă de cultură a bananelor din nord", "Valea s-a format prin sedimentare vulcanică", "Include o instalație solară majoră pentru energie"],
       en: ["Home to a major oil storage terminal for the region", "Once the site of significant sugar cane factories", "The Cul de Sac River is approximately 12 kilometers long", "Most important banana-growing area in the north", "The valley was formed by volcanic sedimentation", "Contains a large solar farm for electricity generation"],
     },
+    image: "/poi-images/saintlucia-cul-de-sac-valley-nature-v2.webp",
   },
   {
     id: "saintlucia-praslin-island-nature-v2",
@@ -620,6 +639,7 @@ export const saintluciaNatureV2: POI[] = [
       ro: ["Adăpostește cea mai rară șopârlă din lume (Cnemidophorus vanzoi)", "Insula are o suprafață de numai 1,1 hectare", "A fost declarată rezervație naturală în anul 1995", "Accesul este permis doar cu acordul National Trust", "Rozătoarele au fost eliminate pentru protejarea șopârlelor", "Specii precum pasărea tropic cu cioc roșu cuibăresc aici"],
       en: ["Home to the world's rarest lizard (Cnemidophorus vanzoi)", "The island covers an area of only 1.1 hectares", "Declared a nature reserve in the year 1995", "Visiting is allowed only with National Trust permission", "Rats were eradicated to protect the native lizard", "Bird species like the tropicbird nest on its cliffs"],
     },
+    image: "/poi-images/saintlucia-praslin-island-nature-v2.webp",
   },
   {
     id: "saintlucia-sapphire-falls-nature-v2",
@@ -651,5 +671,6 @@ export const saintluciaNatureV2: POI[] = [
       ro: ["Cascada are o înălțime de aproximativ 10 metri", "Apa este caracterizată printr-un conținut ridicat de sulf", "Se află pe terenul privat al unei foste plantații", "Temperatura apei este blândă datorită activității vulcanice", "Accesibilă printr-o potecă dificilă prin junglă", "Izvoarele din apropiere au fost folosite istoric ca băi"],
       en: ["The waterfall has a drop of approximately 10 meters", "The water is characterized by a high sulfur content", "Located on the private grounds of an old plantation", "Water temperature is mild due to geothermal activity", "Accessible via a challenging jungle hiking trail", "Nearby springs were historically used as healing baths"],
     },
+    image: "/poi-images/saintlucia-sapphire-falls-nature-v2.webp",
   }
 ];

@@ -1053,6 +1053,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       ro: ["Stâncile Dovbush au aproximativ 200 m lungime.", "Înălțimea maximă: 30 m.", "Sunt formate din gresie din perioada Cretacicului.", "Descoperirile arheologice datează din secolele IX–XIII.", "Parcul Național Huțulshchyna a fost înființat în 2002.", "Stâncile se află la altitudinea de aproximativ 600 m."],
       en: ["Dovbush Rocks are about 200 m long.", "Maximum height: 30 m.", "Composed of Cretaceous sandstone.", "Archaeological finds date from 9th–13th centuries.", "Hutsulshchyna National Park established in 2002.", "Rocks sit at an elevation of about 600 m."],
     },
+    image: "/poi-images/ukraine-dovbush-rocks-history-v2.webp",
   },
   {
     id: "ukraine-st-barbara-cathedral-berdychiv-history-v2",
@@ -1085,6 +1086,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       ro: ["Construcția catedralei a început în 1803 și s-a încheiat în 1824.", "Biserica are 45 m lungime și 20 m lățime.", "Turnul are 50 m înălțime.", "Orga a fost construită în 1840 de firma Buchholz.", "Catedrala a fost redeschisă în 1991.", "Lucrările de restaurare au costat aproximativ 1 milion de euro."],
       en: ["Construction started in 1803, completed in 1824.", "Church is 45 m long and 20 m wide.", "Tower height: 50 m.", "Organ built in 1840 by Buchholz company.", "Cathedral reopened in 1991.", "Restoration cost approx. 1 million euros."],
     },
+    image: "/poi-images/ukraine-st-barbara-cathedral-berdychiv-history-v2.webp",
   },
   {
     id: "ukraine-zbarazh-castle-history-v2",
@@ -1117,6 +1119,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       ro: ["Construcția castelului a început în 1626.", "Fortăreața are un plan pentagonal.", "Grosimea zidurilor ajunge la 3 m.", "Palatul castelului are 40 m lungime.", "Asediul din 1649 a durat 67 de zile.", "Muzeul a fost deschis în 1954."],
       en: ["Castle construction started in 1626.", "Pentagonal layout with bastions.", "Wall thickness up to 3 m.", "Castle palace is 40 m long.", "1649 siege lasted 67 days.", "Museum opened in 1954."],
     },
+    image: "/poi-images/ukraine-zbarazh-castle-history-v2.webp",
   },
   {
     id: "ukraine-mezhyrich-monastery-history-v2",
@@ -1149,6 +1152,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       ro: ["Mănăstirea a fost fondată în 1576.", "Biserica rupestră are 10 m lungime și 5 m lățime.", "Stâncile de cretă au aproximativ 20 m înălțime.", "Mănăstirea a fost închisă între 1922 și 1992.", "Peșterile au fost săpate manual.", "Temperatura constantă în peșteră este de 10 °C."],
       en: ["Monastery founded in 1576.", "Cave church is 10 m long, 5 m wide.", "Chalk cliffs about 20 m high.", "Closed from 1922 to 1992.", "Caves were dug by hand.", "Constant cave temperature: 10 °C."],
     },
+    image: "/poi-images/ukraine-mezhyrich-monastery-history-v2.webp",
   },
   {
     id: "ukraine-dubno-castle-history-v2",
@@ -1181,6 +1185,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       ro: ["Castelul Dubno a fost fondat în secolul al XII-lea.", "Suprafața fortăreței este de 2 hectare.", "Înălțimea zidurilor ajunge la 15 m.", "Palatul a fost construit în 1507.", "Bastioanele au un diametru de 25 m.", "Muzeul a fost deschis în 1939."],
       en: ["Dubno Castle founded in 12th century.", "Fortress area: 2 hectares.", "Wall height up to 15 m.", "Palace built in 1507.", "Bastions diameter: 25 m.", "Museum opened in 1939."],
     },
+    image: "/poi-images/ukraine-dubno-castle-history-v2.webp",
   },
   {
     id: "ukraine-bakhtchysarai-palace-history-v2",
@@ -1213,6 +1218,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       ro: ["Palatul a fost construit în 1532.", "Suprafața totală a complexului este de 4,3 hectare.", "Fântâna Lacrimilor datează din 1764.", "Palatul are 16 curți interioare.", "Moscheea are un minaret de 28 m înălțime.", "Palatul a fost declarat muzeu de stat în 1963."],
       en: ["Palace built in 1532.", "Total area: 4.3 hectares.", "Fountain of Tears dates from 1764.", "16 inner courtyards.", "Mosque's minaret height: 28 m.", "Declared state museum in 1963."],
     },
+    image: "/poi-images/ukraine-bakhtchysarai-palace-history-v2.webp",
   },
   {
     id: "ukraine-sharyvka-castle-history-v2",
@@ -1245,6 +1251,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       ro: ["Construcția castelului a început în 1830.", "Castelul are 12 turnuri.", "Turnul principal are 25 m înălțime.", "Castelul este situat pe malul unui lac de 2 ha.", "Parcul are 10 ha.", "Castelul a fost închis pentru restaurare în anii 2000."],
       en: ["Castle construction started in 1830.", "12 turrets.", "Main tower height: 25 m.", "Located on a 2-hectare lake.", "Park area: 10 hectares.", "Castle closed for restoration in the 2000s."],
     },
+    image: "/poi-images/ukraine-sharyvka-castle-history-v2.webp",
   },
   {
     id: "ukraine-chupiv-castle-history-v2",
@@ -1277,6 +1284,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       ro: ["Castelul a fost construit în 1888.", "Suprafața castelului este de 600 m².", "Turnul are 20 m înălțime.", "Castelul are 12 camere.", "Parcul are 5 hectare.", "Restaurarea a început în 1995."],
       en: ["Castle built in 1888.", "Area: 600 m².", "Tower height: 20 m.", "12 rooms.", "Park area: 5 hectares.", "Restoration started in 1995."],
     },
+    image: "/poi-images/ukraine-chupiv-castle-history-v2.webp",
   },
   {
     id: "ukraine-korosten-fortress-history-v2",
@@ -1309,6 +1317,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       ro: ["Fortăreața a fost construită în secolul al X-lea.", "Asediul Olgăi a avut loc în anul 945.", "Suprafața cetății: 2,5 hectare.", "Valurile de pământ au până la 5 m înălțime.", "Fortăreața a fost distrusă de mongoli în 1240.", "Muzeul a fost deschis în 1954."],
       en: ["Fortress built in 10th century.", "Olga's siege in 945.", "Area: 2.5 hectares.", "Earthen ramparts up to 5 m high.", "Destroyed by Mongols in 1240.", "Museum opened in 1954."],
     },
+    image: "/poi-images/ukraine-korosten-fortress-history-v2.webp",
   },
   {
     id: "ukraine-ostroh-academy-history-v2",
@@ -1341,6 +1350,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       ro: ["Academia a fost fondată în 1576.", "Biblia Ostroh a fost tipărită în 1581.", "Clădirea principală datează din secolul al XVI-lea.", "Universitatea are aproximativ 4.500 de studenți (2020).", "Fondatorul a fost prințul Konstantin Ostrogski (1526–1608).", "Academia a fost redeschisă în 1994."],
       en: ["Academy founded in 1576.", "Ostroh Bible printed in 1581.", "Main building dates from the 16th century.", "University has approx. 4,500 students (2020).", "Founder Prince Konstantin Ostrogski (1526–1608).", "Academy reopened in 1994."],
     },
+    image: "/poi-images/ukraine-ostroh-academy-history-v2.webp",
   },
   {
     id: "ukraine-sokyryntsi-palace-history-v2",
@@ -1373,6 +1383,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       ro: ["Palatul construit între 1824 și 1829.", "Suprafața palatului: 1.500 m².", "Parcul moșiei are 40 de hectare.", "Parcul are 3 iazuri artificiale.", "Biblioteca conținea 10.000 de volume.", "Muzeul a fost deschis în 1976."],
       en: ["Palace built 1824–1829.", "Floor area: 1,500 m².", "Estate park: 40 hectares.", "Park has 3 artificial ponds.", "Library held 10,000 volumes.", "Museum opened in 1976."],
     },
+    image: "/poi-images/ukraine-sokyryntsi-palace-history-v2.webp",
   },
   {
     id: "ukraine-kremenets-castle-history-v2",
@@ -1405,6 +1416,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       ro: ["Construit în secolul al XII-lea", "Înălțimea stâncii: 50 m", "Distrus în 1550 de tătari", "Lungimea zidului: 200 m", "Înălțimea turnului: 15 m", "Restaurare în 2018"],
       en: ["Built in the 12th century", "Rock height: 50 m", "Destroyed in 1550 by Tatars", "Wall length: 200 m", "Tower height: 15 m", "Restoration in 2018"],
     },
+    image: "/poi-images/ukraine-kremenets-castle-history-v2.webp",
   },
   {
     id: "ukraine-korets-castle-history-v2",
@@ -1437,6 +1449,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       ro: ["Construit în secolul XIV", "Distrus în 1648 de cazaci", "Lungimea aripii palatului: 50 m", "Capelă construită în 1600", "Suprafața parcului: 5 ha", "Proprietari: familia Korețki"],
       en: ["Built in the 14th century", "Destroyed in 1648 by Cossacks", "Palace wing length: 50 m", "Chapel built in 1600", "Park area: 5 ha", "Owners: Koretsky family"],
     },
+    image: "/poi-images/ukraine-korets-castle-history-v2.webp",
   },
   {
     id: "ukraine-lubny-monastery-history-v2",
@@ -1469,6 +1482,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       ro: ["Anul fondării: 1619", "Suprafața mănăstirii: 3,5 hectare", "Înălțimea clopotniței: 42 de metri", "Numărul de călugări în secolul al XVIII-lea: aproximativ 50", "Anul restaurării: 2005", "Distanța până la Lubny: 5 km"],
       en: ["Founded in 1619", "Height of bell tower: 42 meters", "Area of monastery grounds: 3.5 hectares", "Number of monks in the 18th century: about 50", "Restoration completed in 2005", "Distance from Lubny: 5 km"],
     },
+    image: "/poi-images/ukraine-lubny-monastery-history-v2.webp",
   },
   {
     id: "ukraine-st-nicolas-cathedral-nizhyn-history-v2",
@@ -1501,6 +1515,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       ro: ["Anul construcției: anii 1660", "Numărul de cupole: 5", "Înălțimea clopotniței: 40 de metri", "Anul renovării: 1822", "Suprafața catedralei: 450 de metri pătrați", "Numărul de icoane pe iconostas: 60"],
       en: ["Construction year: 1660s", "Number of domes: 5", "Height of bell tower: 40 meters", "Renovation year: 1822", "Area of cathedral: 450 square meters", "Number of icons on iconostasis: 60"],
     },
+    image: "/poi-images/ukraine-st-nicolas-cathedral-nizhyn-history-v2.webp",
   },
   {
     id: "ukraine-zhovkva-castle-history-v2",
@@ -1533,6 +1548,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       ro: ["Perioada de construcție: 1594-1606", "Grosimea zidurilor: 2 metri", "Numărul de turnuri: 4", "Suprafața curții interioare: 500 de metri pătrați", "Înălțimea zidurilor: 12 metri", "Numărul de camere: 40"],
       en: ["Construction period: 1594-1606", "Wall thickness: 2 meters", "Number of towers: 4", "Inner courtyard area: 500 square meters", "Wall height: 12 meters", "Number of rooms: 40"],
     },
+    image: "/poi-images/ukraine-zhovkva-castle-history-v2.webp",
   },
   {
     id: "ukraine-pidmikhailivtsi-castle-history-v2",
@@ -1565,6 +1581,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       ro: ["Anul construirii: circa 1550", "Grosimea zidurilor: 1,8 metri", "Numărul de turnuri: 4", "Înălțimea turnurilor: 15 metri", "Suprafața castelului: 0,8 hectare", "Distrus în 1648 în timpul revoltei lui Hmelnițki"],
       en: ["Construction year: around 1550", "Wall thickness: 1.8 meters", "Number of towers: 4", "Tower height: 15 meters", "Castle area: 0.8 hectares", "Destroyed in 1648 during the Khmelnytsky Uprising"],
     },
+    image: "/poi-images/ukraine-pidmikhailivtsi-castle-history-v2.webp",
   },
   {
     id: "ukraine-svirzh-castle-history-v2",
@@ -1597,6 +1614,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       ro: ["Anul construcției: 1480", "Numărul de turnuri: 3", "Grosimea zidurilor: 2 metri", "Înălțimea zidurilor: 10 metri", "Asediul cazacilor: 1648", "Suprafața: 0,5 hectare"],
       en: ["Construction year: 1480", "Number of towers: 3", "Wall thickness: 2 meters", "Wall height: 10 meters", "Cossack siege: 1648", "Area: 0.5 hectares"],
     },
+    image: "/poi-images/ukraine-svirzh-castle-history-v2.webp",
   },
   {
     id: "ukraine-stare-selo-castle-history-v2",
@@ -1629,6 +1647,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       ro: ["Anul construirii: circa 1450", "Grosimea zidurilor: 2,5 metri", "Numărul de bastioane: 4", "Lungimea zidurilor: 200 de metri", "Asediul turcilor: 1672", "Suprafața: 1 hectar"],
       en: ["Construction year: around 1450", "Wall thickness: 2.5 meters", "Number of bastions: 4", "Wall length: 200 meters", "Turkish siege: 1672", "Area: 1 hectare"],
     },
+    image: "/poi-images/ukraine-stare-selo-castle-history-v2.webp",
   },
   {
     id: "ukraine-bilhorod-castle-history-v2",
@@ -1661,6 +1680,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       ro: ["Fondare: secolul al VI-lea", "Suprafața totală: 9 hectare", "Lungimea zidurilor: 2,5 km", "Numărul de turnuri: 20", "Înălțimea zidurilor: până la 15 metri", "Asediul armatei otomane în 1484"],
       en: ["Foundation: 6th century", "Total area: 9 hectares", "Wall length: 2.5 km", "Number of towers: 20", "Wall height: up to 15 meters", "Siege by Ottoman army in 1484"],
     },
+    image: "/poi-images/ukraine-bilhorod-castle-history-v2.webp",
   },
   {
     id: "ukraine-dobromyl-castle-history-v2",
@@ -1693,6 +1713,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       ro: ["Anul construirii: 1563", "Înființarea tipografiei: 1611", "Distrugerea de către cazaci: 1648", "Grosimea zidurilor: 1,5 metri", "Numărul de turnuri: 2", "Suprafața: 0,3 hectare"],
       en: ["Construction year: 1563", "Printing press founded: 1611", "Destruction by Cossacks: 1648", "Wall thickness: 1.5 meters", "Number of towers: 2", "Area: 0.3 hectares"],
     },
+    image: "/poi-images/ukraine-dobromyl-castle-history-v2.webp",
   },
   {
     id: "ukraine-pohrebyshche-palace-history-v2",
@@ -1725,6 +1746,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       ro: ["Anul construirii: 1820", "Numărul de camere: 30", "Suprafața parcului: 5 hectare", "Suprafața iazului: 0,5 hectare", "Numărul de coloane la portic: 6", "Renovare: 2010"],
       en: ["Construction year: 1820", "Number of rooms: 30", "Park area: 5 hectares", "Pond area: 0.5 hectares", "Number of columns on portico: 6", "Renovation: 2010"],
     },
+    image: "/poi-images/ukraine-pohrebyshche-palace-history-v2.webp",
   },
   {
     id: "ukraine-st-barbara-cathedral-berdychiv-v2",
@@ -1757,6 +1779,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       ro: ["Anul construcției: 1860", "Înălțimea cupolei: 40 de metri", "Lungimea bisericii: 60 de metri", "Lățimea: 30 de metri", "Numărul de clopote: 5", "Restaurare finalizată: 2002"],
       en: ["Construction year: 1860", "Dome height: 40 meters", "Church length: 60 meters", "Width: 30 meters", "Number of bells: 5", "Restoration completed: 2002"],
     },
+    image: "/poi-images/ukraine-st-barbara-cathedral-berdychiv-v2.webp",
   },
   {
     id: "ukraine-bakhchysarai-cave-monastery-history-v2",
@@ -1789,6 +1812,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       ro: ["Fondare: secolul al VIII-lea", "Înălțime deasupra văii: 150 de metri", "Număr de chilii: 20", "Lungimea culoarelor: 300 de metri", "Redeschidere: 1993", "Număr de fresce păstrate: 15"],
       en: ["Foundation: 8th century", "Height above valley: 150 meters", "Number of cells: 20", "Length of passages: 300 meters", "Reopening: 1993", "Number of preserved frescoes: 15"],
     },
+    image: "/poi-images/ukraine-bakhchysarai-cave-monastery-history-v2.webp",
   },
   {
     id: "ukraine-pryluki-castle-history-v2",
@@ -1821,6 +1845,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       ro: ["Perioada de construcție: 1550-1600", "Lungimea valurilor: 1,5 km", "Înălțimea valurilor: 6 metri", "Lățimea șanțului: 8 metri", "Distrus în 1708 de trupele ruse", "Suprafața: 4 hectare"],
       en: ["Construction period: 1550-1600", "Length of ramparts: 1.5 km", "Height of ramparts: 6 meters", "Width of moat: 8 meters", "Destroyed in 1708 by Russian troops", "Area: 4 hectares"],
     },
+    image: "/poi-images/ukraine-pryluki-castle-history-v2.webp",
   },
   {
     id: "ukraine-mezhyrich-fortress-history-v2",
@@ -1853,6 +1878,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       ro: ["Anul construcției: 1560", "Grosimea zidurilor: 2 metri", "Numărul de turnuri: 4", "Înălțimea turnurilor: 18 metri", "Suprafața: 1,2 hectare", "Redeschiderea ca mănăstire: 1992"],
       en: ["Construction year: 1560", "Wall thickness: 2 meters", "Number of towers: 4", "Tower height: 18 meters", "Area: 1.2 hectares", "Reopening as monastery: 1992"],
     },
+    image: "/poi-images/ukraine-mezhyrich-fortress-history-v2.webp",
   },
   {
     id: "ukraine-chyhyryn-castle-history-v2",
@@ -1885,6 +1911,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       ro: ["Anul construirii: 1592", "Înălțimea valurilor: 7 metri", "Numărul de turnuri: 5", "Suprafața: 2 hectare", "Reședința lui Bohdan Hmelnițki: 1648-1657", "Muzeul deschis: 1967"],
       en: ["Construction year: 1592", "Height of ramparts: 7 meters", "Number of towers: 5", "Area: 2 hectares", "Residence of Bohdan Khmelnytsky: 1648-1657", "Museum opened: 1967"],
     },
+    image: "/poi-images/ukraine-chyhyryn-castle-history-v2.webp",
   },
   {
     id: "ukraine-kamianets-fortress-history-v2",
@@ -1917,6 +1944,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       ro: ["Fondare: secolul al XI-lea", "Suprafața totală: 4 hectare", "Numărul de turnuri: 11", "Lungimea zidurilor: 800 de metri", "Stăpânirea otomană: 1672-1699", "Înălțimea zidurilor: până la 12 metri"],
       en: ["Foundation: 11th century", "Total area: 4 hectares", "Number of towers: 11", "Wall length: 800 meters", "Ottoman rule: 1672-1699", "Wall height: up to 12 meters"],
     },
+    image: "/poi-images/ukraine-kamianets-fortress-history-v2.webp",
   },
   {
     id: "ukraine-vinnytsia-walls-history-v2",
@@ -1949,6 +1977,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       ro: ["Construit în 1550", "Suprafața fortificată: 10 ha", "Înălțimea zidurilor: 6 m", "Bastioane: 5", "Restaurare în 2005", "Distrus parțial în 1648"],
       en: ["Built in 1550", "Fortified area: 10 ha", "Wall height: 6 m", "Bastions: 5", "Restoration in 2005", "Partially destroyed in 1648"],
     },
+    image: "/poi-images/ukraine-vinnytsia-walls-history-v2.webp",
   },
   {
     id: "ukraine-vylkove-history-v2",
@@ -1981,6 +2010,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       ro: ["Fondat în 1746", "Populație: 8.000 (2022)", "Lungimea canalelor: 10 km", "Canale principale: 6", "Altitudine: 1 m", "Recoltă de stuf: 2.000 t anual"],
       en: ["Founded in 1746", "Population: 8,000 (2022)", "Canal length: 10 km", "Main canals: 6", "Elevation: 1 m", "Annual reed harvest: 2,000 tons"],
     },
+    image: "/poi-images/ukraine-vylkove-history-v2.webp",
   },
   {
     id: "ukraine-berdychiv-fortress-history-v2",
@@ -2013,6 +2043,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       ro: ["Anul construirii: 1580", "Grosimea zidurilor: 2 metri", "Adâncimea șanțului: 5 metri", "Numărul de bastioane: 4", "Asediul cazacilor: 1648", "Suprafața: 0,6 hectare"],
       en: ["Construction year: 1580", "Wall thickness: 2 meters", "Depth of moat: 5 meters", "Number of bastions: 4", "Cossack siege: 1648", "Area: 0.6 hectares"],
     },
+    image: "/poi-images/ukraine-berdychiv-fortress-history-v2.webp",
   },
   {
     id: "ukraine-baturyn-palace-history-v2",
@@ -2045,6 +2076,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       ro: ["Anul construirii: 1800", "Numărul de coloane la portic: 8", "Etaje: 2", "Suprafața parcului: 10 hectare", "Muzeul deschis: 2005", "Înălțimea clădirii: 15 metri"],
       en: ["Construction year: 1800", "Number of columns on portico: 8", "Floors: 2", "Park area: 10 hectares", "Museum opened: 2005", "Building height: 15 meters"],
     },
+    image: "/poi-images/ukraine-baturyn-palace-history-v2.webp",
   },
   {
     id: "ukraine-shostka-powder-mill-history-v2",
@@ -2077,6 +2109,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       ro: ["Fondare: 1739", "Producție în secolul al XIX-lea: 10.000 tone anual", "Distrusă: 1943", "Reconstrucție: 1946", "Angajați: 500 în secolul al XX-lea", "Suprafața: 8 hectare"],
       en: ["Foundation: 1739", "Annual production in 19th century: 10,000 tons", "Destroyed: 1943", "Rebuilt: 1946", "Employees: 500 in 20th century", "Area: 8 hectares"],
     },
+    image: "/poi-images/ukraine-shostka-powder-mill-history-v2.webp",
   },
   {
     id: "ukraine-poltava-round-square-history-v2",
@@ -2109,6 +2142,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       ro: ["Diametru: 340 metri, suprafață: 9 hectare.", "Construit între 1805 și 1811.", "Înconjurat de 11 clădiri clasice.", "Monumentul central: un obelisc de 10 metri.", "Avariat în 1941–1943 în timpul ocupației germane.", "Protejat ca monument arhitectural din 1979."],
       en: ["Diameter: 340 meters, area: 9 hectares.", "Construction: 1805–1811.", "Surrounded by 11 Neoclassical buildings.", "Central obelisk height: 10 meters.", "Damaged during WWII (1941–1943).", "Architectural monument since 1979."],
     },
+    image: "/poi-images/ukraine-poltava-round-square-history-v2.webp",
   },
   {
     id: "ukraine-chuhuiv-military-settlement-history-v2",
@@ -2141,6 +2175,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       ro: ["Fondată în 1638 ca fortăreață cazacă.", "Suprafața centrului istoric: 12 ha.", "Garnizoană maximă: 6.000 de soldați.", "Biserica Mijlocirii construită în 1730.", "Ilia Repin născut aici în 1844.", "Protejat ca monument istoric din 1993."],
       en: ["Founded in 1638 as a Cossack fortress.", "Historic core area: 12 hectares.", "Maximum garrison: 6,000 soldiers.", "Church of the Intercession built in 1730.", "Ilya Repin born here in 1844.", "Protected as a historical monument since 1993."],
     },
+    image: "/poi-images/ukraine-chuhuiv-military-settlement-history-v2.webp",
   },
   {
     id: "ukraine-zviahel-castle-history-v2",
@@ -2173,6 +2208,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       ro: ["Prima mențiune: 1257.", "Reconstrucție din piatră în sec. XVI.", "Grosimea zidurilor: până la 3 m.", "Înălțimea turnului rămas: 8 m.", "Asediat în 1648 de cazaci.", "Suprafața sitului: 2,5 ha."],
       en: ["First mentioned in 1257.", "Stone reconstruction in the 16th century.", "Wall thickness up to 3 meters.", "Remaining tower height: 8 meters.", "Besieged in 1648 by Cossacks.", "Site area: 2.5 hectares."],
     },
+    image: "/poi-images/ukraine-zviahel-castle-history-v2.webp",
   },
   {
     id: "ukraine-kremenets-lyceum-history-v2",
@@ -2205,6 +2241,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       ro: ["Fondat în 1805 de Tadeusz Czacki.", "Clădire neoclasică construită 1805–1810.", "Bibliotecă cu 50.000 de volume.", "Observator cu telescop din 1806.", "Mutrat la Kiev în 1831.", "Astăzi sediul Universității Pedagogice din Kremeneț."],
       en: ["Founded in 1805 by Tadeusz Czacki.", "Neoclassical building constructed 1805–1810.", "Library with 50,000 volumes.", "Astronomical observatory with 1806 telescope.", "Moved to Kiev in 1831.", "Now houses Kremenets Pedagogical University."],
     },
+    image: "/poi-images/ukraine-kremenets-lyceum-history-v2.webp",
   },
   {
     id: "ukraine-ostroh-gate-history-v2",
@@ -2237,6 +2274,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       ro: ["Construită în secolul al XIV-lea.", "Înălțime: 12 m.", "Lățime pasaj: 4 m.", "Grosime zid: 2 m.", "Reconstruită în sec. XIX.", "Monument național din 1963."],
       en: ["Built in the 14th century.", "Height: 12 meters.", "Passage width: 4 meters.", "Wall thickness: 2 meters.", "Rebuilt in the 19th century.", "National monument since 1963."],
     },
+    image: "/poi-images/ukraine-ostroh-gate-history-v2.webp",
   },
   {
     id: "ukraine-starokostiantyniv-castle-history-v2",
@@ -2269,6 +2307,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       ro: ["Construit între 1581–1595.", "Patru turnuri, înălțime 15 m.", "Șanț cu apă: 8 m lățime.", "Cucerit în 1648 de cazaci.", "Suprafața ruinelor: 1,5 ha.", "Monument de importanță națională din 1970."],
       en: ["Built 1581–1595.", "Four towers, each 15 m high.", "Moat width: 8 m.", "Captured by Cossacks in 1648.", "Ruin area: 1.5 ha.", "National monument since 1970."],
     },
+    image: "/poi-images/ukraine-starokostiantyniv-castle-history-v2.webp",
   },
   {
     id: "ukraine-zbarazh-synagogue-history-v2",
@@ -2301,6 +2340,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       ro: ["Construită în 1629.", "Suprafață 28 x 18 m.", "Grosime ziduri 2,5 m.", "Înălțime până la coama acoperișului: 12 m.", "Distrusă de ocupanții germani în 1941.", "Părăsită din 1990."],
       en: ["Built in 1629.", "Floor area: 28 x 18 m.", "Wall thickness: 2.5 m.", "Height to roof ridge: 12 m.", "Destroyed by German occupiers in 1941.", "Abandoned since 1990."],
     },
+    image: "/poi-images/ukraine-zbarazh-synagogue-history-v2.webp",
   },
   {
     id: "ukraine-bucha-mansion-history-v2",
@@ -2333,6 +2373,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       ro: ["Construit în 1890.", "Suprafață 20 x 15 m.", "Turn înalt de 18 m.", "Parcul are 3 ha.", "Folosit ca școală 1920–1941.", "Monument din 1995."],
       en: ["Built in 1890.", "Floor area: 20 x 15 m.", "Tower height: 18 m.", "Park area: 3 ha.", "Used as a school from 1920 to 1941.", "Monument since 1995."],
     },
+    image: "/poi-images/ukraine-bucha-mansion-history-v2.webp",
   },
   {
     id: "ukraine-korosten-monument-history-v2",
@@ -2365,6 +2406,7 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       ro: ["Ridicat în 1990.", "Înălțimea statuii: 4 m.", "Înălțimea piedestalului: 2 m.", "Material: bronz și granit.", "Greutate: 3 tone.", "Locația: Piața Eroilor."],
       en: ["Erected in 1990.", "Statue height: 4 m.", "Pedestal height: 2 m.", "Material: bronze and granite.", "Weight: 3 tons.", "Location: Heroes Square."],
     },
+    image: "/poi-images/ukraine-korosten-monument-history-v2.webp",
   },
   {
     id: "ukraine-shostka-manor-history-v2",
@@ -2397,5 +2439,6 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       ro: ["Construit în 1760.", "Parcul: 10 ha.", "Clădirea principală: 3 etaje.", "Număr anexe: 5.", "Școală din 1922.", "Protejat din 1980."],
       en: ["Built in 1760.", "Park area: 10 ha.", "Main house: 3 stories.", "Number of outbuildings: 5.", "School since 1922.", "Protected since 1980."],
     },
+    image: "/poi-images/ukraine-shostka-manor-history-v2.webp",
   }
 ];

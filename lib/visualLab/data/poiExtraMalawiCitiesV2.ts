@@ -31,6 +31,7 @@ export const malawiCitiesV2: POI[] = [
       ro: ["Populație: aprox. 1,2 milioane", "Capitală din: 1975", "Fondat: 1947", "Aeroport: internațional", "Altitudine: 1.050 m", "Cea mai mare piață de tutun din lume"],
       en: ["Population: 1.2 million (est. 2023)", "Capital since: 1975", "Founded: 1947", "Elevation: 1,050 m (3,445 ft)", "International airport: Lilongwe (LLW)", "Largest tobacco auction in the world"],
     },
+    image: "/poi-images/malawi-lilongwe-cities-v2.webp",
   },
   {
     id: "malawi-blantyre-cities-v2",
@@ -62,6 +63,7 @@ export const malawiCitiesV2: POI[] = [
       ro: ["Populație: aprox. 1,1 milioane", "Fondat: 1876", "Altitudine: 1.040 m", "Bursa Malawi", "Cel mai mare spital: Queen Elizabeth", "Aeroport internațional Chileka (BLZ)"],
       en: ["Population: 1.1 million (est.)", "Founded: 1876", "Elevation: 1,040 m (3,412 ft)", "Malawi Stock Exchange located here", "Largest hospital: Queen Elizabeth Central (1,000 beds)", "IATA code for airport: BLZ"],
     },
+    image: "/poi-images/malawi-blantyre-cities-v2.webp",
   },
   {
     id: "malawi-mzuzu-cities-v2",
@@ -93,6 +95,7 @@ export const malawiCitiesV2: POI[] = [
       ro: ["Populație: aprox. 250.000", "Altitudine: 1.250 m", "Fondat: anii 1940", "Universitatea Mzuzu: 5.000 studenți", "Produse principale: ceai și cafea", "Aeroport Mzuzu (ZZU)"],
       en: ["Population: 250,000 (est.)", "Elevation: 1,250 m (4,101 ft)", "Founded: 1940s", "University: Mzuzu, established 1999", "Major cash crops: tea and coffee", "Airport code: ZZU"],
     },
+    image: "/poi-images/malawi-mzuzu-cities-v2.webp",
   },
   {
     id: "malawi-zomba-cities-v2",
@@ -124,6 +127,7 @@ export const malawiCitiesV2: POI[] = [
       ro: ["Populație: aprox. 100.000", "Capitală până în: 1975", "Fondat: anii 1880", "Altitudine: 900 m", "Universitatea Malawi (Chancellor College)", "Grădini botanice înființate în 1860"],
       en: ["Population: 100,000 (est.)", "Capital until: 1975", "Founded: 1880s", "Elevation: 900 m (2,953 ft) at base", "University: Chancellor College (est. 1965)", "Zomba Plateau peak: 1,800 m (5,906 ft)"],
     },
+    image: "/poi-images/malawi-zomba-cities-v2.webp",
   },
   {
     id: "malawi-kasungu-cities-v2",
@@ -155,6 +159,7 @@ export const malawiCitiesV2: POI[] = [
       ro: ["Populație: aprox. 70.000", "Parcul Național Kasungu: 2.000 km²", "Culturi principale: tutun, porumb, arahide", "Spital districtual", "Distanța până la Lilongwe: 120 km", "Fondat: anii 1920"],
       en: ["Population: 70,000 (est.)", "Kasungu National Park area: 2,000 km²", "Main crops: tobacco, maize, groundnuts", "District hospital: 150 beds", "Distance from Lilongwe: 120 km (75 mi)", "Town founded: 1920s"],
     },
+    image: "/poi-images/malawi-kasungu-cities-v2.webp",
   },
   {
     id: "malawi-mangochi-cities-v2",
@@ -186,6 +191,7 @@ export const malawiCitiesV2: POI[] = [
       ro: ["Populație: aprox. 80.000", "Lacul Malawi (capătul sudic)", "Fondat: anii 1930", "Aeroport: MAI", "UNESCO: Arta rupestră Chongoni", "Spital: 200 de paturi"],
       en: ["Population: 80,000 (est.)", "Location: southern shore of Lake Malawi", "Founded: 1930s", "Airport code: MAI", "UNESCO World Heritage: Chongoni Rock Art (127 sites)", "Hospital: 200 beds"],
     },
+    image: "/poi-images/malawi-mangochi-cities-v2.webp",
   },
   {
     id: "malawi-karonga-cities-v2",
@@ -217,6 +223,7 @@ export const malawiCitiesV2: POI[] = [
       ro: ["Populație: aprox. 70.000", "Lacul Malawi, granița Tanzania", "Muzeul Karonga: fosile de dinozauri", "Aeroport: KGJ", "Parcul Național Nyika", "Fondat ca stație comercială"],
       en: ["Population: 70,000 (est.)", "Lake Malawi shoreline length: 15 km in district", "Airport code: KGJ", "Museum: Cretaceous dinosaur fossils", "Nyika National Park: 3,200 km²", "Border post with Tanzania: 10 km north"],
     },
+    image: "/poi-images/malawi-karonga-cities-v2.webp",
   },
   {
     id: "malawi-salima-cities-v2",
@@ -248,6 +255,7 @@ export const malawiCitiesV2: POI[] = [
       ro: ["Populație: aprox. 50.000", "Fondat: anii 1950", "Distanța până la Lilongwe: 110 km", "UNESCO: Parcul Național Lacul Malawi", "Gară: linia Lilongwe", "Aeroport: LIX"],
       en: ["Population: 50,000 (est.)", "Founded: 1950s", "Distance from Lilongwe: 110 km (68 mi)", "UNESCO World Heritage: Lake Malawi National Park (1980)", "Railway: connected to Lilongwe", "Airport code: LIX"],
     },
+    image: "/poi-images/malawi-salima-cities-v2.webp",
   },
   {
     id: "malawi-nkhotakota-cities-v2",
@@ -279,6 +287,7 @@ export const malawiCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 40.000", "Altitudine: 472 m", "Distanța până la Lilongwe: 108 km", "Anul înființării rezervației: 1955", "Pescuitul asigură 70% din venituri", "Numărul de școli primare: 15"],
       en: ["Elevation: 472 metres", "District area: 4,259 km²", "Population: 40,000 (2022 estimate)", "Established as a trading post: 1850s", "Distance to Lilongwe: 108 km by road", "Nkhotakota Wildlife Reserve: 1,800 km², established 1955"],
     },
+    image: "/poi-images/malawi-nkhotakota-cities-v2.webp",
   },
   {
     id: "malawi-liwonde-cities-v2",
@@ -310,6 +319,7 @@ export const malawiCitiesV2: POI[] = [
       ro: ["Populație: 35.000", "Pod peste Shire construit în 1968", "Distanța până la Blantyre: 80 km", "Parcul Național Liwonde: 548 km²", "Număr de hipopotami: 200", "Pescuitul asigură 30% din locuri de muncă"],
       en: ["Population: 35,000 (2022)", "National park area: 548 km²", "Elevation: 465 metres", "Distance to Blantyre: 80 km", "Bridge rebuilt: 2005", "Rhino population: 12 (introduced in 2020)"],
     },
+    image: "/poi-images/malawi-liwonde-cities-v2.webp",
   },
   {
     id: "malawi-nsanje-cities-v2",
@@ -341,6 +351,7 @@ export const malawiCitiesV2: POI[] = [
       ro: ["Populație: 30.000", "Altitudine: 50 m", "Distanța până la Blantyre: 190 km", "Aerodrom construit în 1942", "Râul Shire lățime la Nsanje: 400 m", "Precipitații anuale: 1.200 mm"],
       en: ["Population: 30,000 (2022)", "Elevation: 50 metres", "Distance to Blantyre: 190 km", "Flood frequency: major events in 2001, 2015, 2019", "Airstrip built: 1942", "Average annual rainfall: 1,200 mm"],
     },
+    image: "/poi-images/malawi-nsanje-cities-v2.webp",
   },
   {
     id: "malawi-rumphi-cities-v2",
@@ -372,5 +383,6 @@ export const malawiCitiesV2: POI[] = [
       ro: ["Populație: 25.000", "Altitudine: 1.000 m", "Distanța până la Mzuzu: 60 km", "Parcul Național Nyika: 3.200 km²", "Suprafața cultivată cu cafea: 500 ha", "Temperatura medie anuală: 18 °C"],
       en: ["Population: 25,000 (2022)", "Elevation: 1,000 metres", "Nyika National Park area: 3,200 km²", "Distance to Mzuzu: 60 km", "Coffee estates: over 15", "Annual rainfall: 1,000 mm"],
     },
+    image: "/poi-images/malawi-rumphi-cities-v2.webp",
   }
 ];

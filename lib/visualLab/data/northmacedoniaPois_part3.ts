@@ -32,7 +32,8 @@ export const mkPoisPart3: POI[] = [
       hu: ["Kivételes 14. századi freskóiról ismert.", "Az egyik legjelentősebb bizánci műemlék.", "Egyedülálló ötkupolás szerkezettel rendelkezik."],
       ro: ["Cunoscută pentru frescele sale excepționale din secolul al XIV-lea.", "Unul dintre cele mai importante monumente bizantine.", "Are o structură unică cu cinci cupole."],
       en: ["Famous for its extraordinary 14th-century frescoes.", "One of the most important Byzantine monuments.", "Features a unique five-domed structure."]
-    }
+    },
+    image: "/poi-images/MK-031-st-george-church.webp",
   },
   {
     id: "MK-031-zebrnjak-monument",
@@ -63,7 +64,8 @@ export const mkPoisPart3: POI[] = [
       hu: ["Eredetileg egy majdnem 50 méter magas torony volt.", "A második világháborúban részben megsemmisült.", "Széles kilátást nyújt a síkságra."],
       ro: ["Inițial a fost un turn de aproape 50 de metri înălțime.", "Distrus parțial în al Doilea Război Mondial.", "Oferă o vedere largă asupra câmpiei."],
       en: ["Originally a tower nearly 50 meters high.", "Partially destroyed during World War II.", "Provides an extensive view over the plain."]
-    }
+    },
+    image: "/poi-images/MK-031-zebrnjak-monument.webp",
   },
   // MK-032: Kumanovo
   {
@@ -95,7 +97,8 @@ export const mkPoisPart3: POI[] = [
       hu: ["Az UNESCO a negyedik legrégebbi obszervatóriumként sorolta be.", "A bronzkorból származik (i. e. 1800 körül).", "Kőjelzésekből áll az égitestek megfigyelésére."],
       ro: ["Clasificat de UNESCO drept al patrulea cel mai vechi observator.", "Datează din epoca bronzului (aprox. 1800 î.Hr.).", "Format din marcaje în piatră pentru observarea corpurilor cerești."],
       en: ["Ranked by UNESCO as the fourth oldest observatory.", "Dates from the Bronze Age (approx. 1800 BC).", "Consists of stone markers for observing celestial bodies."]
-    }
+    },
+    image: "/poi-images/MK-032-kokino-observatory.webp",
   },
   {
     id: "MK-032-kumanovo-city-square",
@@ -126,7 +129,8 @@ export const mkPoisPart3: POI[] = [
       hu: ["Kávézók és üzletek veszik körül.", "Helyi hősök emlékműveinek ad otthont.", "Számos kulturális esemény helyszíne."],
       ro: ["Înconjurată de cafenele și magazine.", "Găzduiește monumente dedicate eroilor locali.", "Locul de desfășurare a multor evenimente culturale."],
       en: ["Surrounded by cafes and shops.", "Houses monuments to local heroes.", "Venue for many cultural events."]
-    }
+    },
+    image: "/poi-images/MK-032-kumanovo-city-square.webp",
   },
   // MK-033: Delčevo
   {
@@ -158,7 +162,8 @@ export const mkPoisPart3: POI[] = [
       hu: ["Legmagasabb csúcsa a Čavka (1538 m).", "Kiváló feltételeket kínál a hegyi levegős gyógykezelésekhez.", "Számos túra- és kerékpárúttal rendelkezik."],
       ro: ["Cel mai înalt vârf este Čavka (1.538 m).", "Oferă condiții excelente pentru cure de aer montan.", "Are multe trasee de drumeție și ciclism."],
       en: ["The highest peak is Čavka (1,538 m).", "Offers excellent conditions for mountain air treatments.", "Features many hiking and biking trails."]
-    }
+    },
+    image: "/poi-images/MK-033-golak-mountain.webp",
   },
   {
     id: "MK-033-delcevo-city-park",
@@ -189,7 +194,8 @@ export const mkPoisPart3: POI[] = [
       hu: ["Népszerű hely a sétákhoz.", "Sportpályáknak és játszótereknek ad otthont.", "Nyáron hűvöset kínál a folyónak köszönhetően."],
       ro: ["Loc popular pentru plimbări.", "Găzduiește terenuri de sport și locuri de joacă.", "Oferă răcoare vara datorită râului."],
       en: ["Popular spot for walks.", "Houses sports fields and playgrounds.", "Provides coolness in summer due to the river."]
-    }
+    },
+    image: "/poi-images/MK-033-delcevo-city-park.webp",
   },
   // MK-034: Makedonska Kamenica
   {
@@ -221,7 +227,8 @@ export const mkPoisPart3: POI[] = [
       hu: ["Halállományáról ismert.", "Népszerű célpont a horgászok körében.", "Szép dombos táj veszi körül."],
       ro: ["Cunoscut pentru abundența de pește.", "O destinație populară pentru pescari.", "Înconjurat de un peisaj colinar frumos."],
       en: ["Known for its abundance of fish.", "A popular destination for anglers.", "Surrounded by beautiful hilly landscape."]
-    }
+    },
+    image: "/poi-images/MK-034-kalimanci-lake.webp",
   },
   {
     id: "MK-034-sasa-mine",
@@ -252,7 +259,8 @@ export const mkPoisPart3: POI[] = [
       hu: ["A régió legfontosabb gazdasági tényezője.", "Az 1960-as évek óta működik.", "Jelentősen hozzájárul az ország exportjához."],
       ro: ["Cel mai important factor economic din regiune.", "Există din anii 1960.", "Contribuie semnificativ la exportul țării."],
       en: ["The region's most important economic factor.", "In operation since the 1960s.", "Contributes significantly to the country's exports."]
-    }
+    },
+    image: "/poi-images/MK-034-sasa-mine.webp",
   },
   // MK-035: Berovo
   {
@@ -284,7 +292,8 @@ export const mkPoisPart3: POI[] = [
       hu: ["Gyakran Macedónia 'kis Svájcaként' emlegetik.", "Az egészségturizmus központja.", "Számos kerékpár- és túraúttal rendelkezik."],
       ro: ["Este adesea numit 'Mica Elveție' a Macedoniei.", "Un centru pentru turismul de sănătate.", "Oferă numeroase trasee de ciclism și drumeție."],
       en: ["Often referred to as the 'Little Switzerland' of Macedonia.", "A center for health tourism.", "Offers numerous biking and hiking trails."]
-    }
+    },
+    image: "/poi-images/MK-035-berovo-lake.webp",
   },
   {
     id: "MK-035-st-archangel-michael-monastery",
@@ -315,7 +324,8 @@ export const mkPoisPart3: POI[] = [
       hu: ["A 19. században alapították nehéz körülmények között.", "Szőnyegkészítéséről ismert.", "Értékes vallási műtárgyakat őriz."],
       ro: ["Fondată în secolul al XIX-lea în condiții dificile.", "Cunoscută pentru fabricarea covoarelor.", "Adăpostește artefacte religioase valoroase."],
       en: ["Founded in the 19th century under difficult conditions.", "Known for the production of carpets.", "Houses valuable religious artifacts."]
-    }
+    },
+    image: "/poi-images/MK-035-st-archangel-michael-monastery.webp",
   },
   // MK-036: Pehčevo
   {
@@ -347,7 +357,8 @@ export const mkPoisPart3: POI[] = [
       hu: ["Rendkívül oxigéndús levegőjű területen található.", "Az erdőn átvezető túraösvényeken közelíthető meg.", "Rejtett természeti kincs keleten."],
       ro: ["Situat într-o zonă cu aer extrem de bogat în oxigen.", "Accesibil prin poteci de drumeție prin pădure.", "O bijuterie naturală ascunsă în est."],
       en: ["Located in an area with extremely oxygen-rich air.", "Accessible via hiking trails through the forest.", "A hidden natural gem in the east."]
-    }
+    },
+    image: "/poi-images/MK-036-pehcevo-waterfalls.webp",
   },
   {
     id: "MK-036-ravna-reka",
@@ -378,7 +389,8 @@ export const mkPoisPart3: POI[] = [
       hu: ["Hideg forrásairól és hegyi patakjairól ismert.", "Nyáron hűvös hőmérsékletet biztosít.", "Ideális családi kirándulásokhoz."],
       ro: ["Cunoscută pentru izvoarele sale reci și pârâurile de munte.", "Oferă temperaturi răcoroase vara.", "Ideală pentru excursii în familie."],
       en: ["Known for its cold springs and mountain streams.", "Offers cool temperatures in summer.", "Ideal for family outings."]
-    }
+    },
+    image: "/poi-images/MK-036-ravna-reka.webp",
   },
   // MK-037: Želino
   {
@@ -410,7 +422,8 @@ export const mkPoisPart3: POI[] = [
       hu: ["Fontos közlekedési útvonalakat köt össze a Polog-völgyben.", "Zselinó község jelképe.", "Kilátást nyújt a folyó széles medrére."],
       ro: ["Conectează rute de transport importante din valea Polog.", "Un simbol al municipalității Želino.", "Oferă o vedere asupra cursului larg al râului."],
       en: ["Connects important transport routes in the Polog valley.", "A symbol of the Želino municipality.", "Offers a view of the river's wide course."]
-    }
+    },
+    image: "/poi-images/MK-037-zelino-bridge.webp",
   },
   {
     id: "MK-037-suva-gora",
@@ -441,7 +454,8 @@ export const mkPoisPart3: POI[] = [
       hu: ["A név 'száraz hegyet' jelent a vízforrások hiánya miatt.", "Kihívást jelentő túraútvonalakat kínál.", "Gazdag mészkőképződményekben."],
       ro: ["Numele înseamnă 'munte uscat' din cauza lipsei izvoarerelor de apă.", "Oferă rute de drumeție provocatoare.", "Bogat în formațiuni calcaroase."],
       en: ["The name means 'dry mountain' due to the lack of water springs.", "Offers challenging hiking routes.", "Rich in limestone formations."]
-    }
+    },
+    image: "/poi-images/MK-037-suva-gora.webp",
   },
   // MK-038: Brvenica
   {
@@ -473,7 +487,8 @@ export const mkPoisPart3: POI[] = [
       hu: ["A faluközösség központja.", "A Vardar közelében található.", "Egyházi ünnepek alkalmával használják."],
       ro: ["Centrul comunității sătești.", "Situată în apropierea râului Vardar.", "Utilizată pentru sărbători religioase."],
       en: ["Center of the village community.", "Located near the Vardar river.", "Used for religious holidays."]
-    }
+    },
+    image: "/poi-images/MK-038-st-athanasius-radioovce.webp",
   },
   {
     id: "MK-038-vardar-river-brvenica",
@@ -504,7 +519,8 @@ export const mkPoisPart3: POI[] = [
       hu: ["Fontos a földek öntözéséhez.", "Helyszíneket kínál a vízparti kikapcsolódáshoz.", "Meghatározza a község földrajzát."],
       ro: ["Important pentru irigarea câmpurilor.", "Oferă locuri pentru recreere pe malul apei.", "Modelează geografia municipalității."],
       en: ["Important for irrigation of the fields.", "Offers spots for leisure activities by the water.", "Shapes the geography of the municipality."]
-    }
+    },
+    image: "/poi-images/MK-038-vardar-river-brvenica.webp",
   },
   // MK-039: Brod (Makedonski Brod)
   {
@@ -536,7 +552,8 @@ export const mkPoisPart3: POI[] = [
       hu: ["Középkori erődromokat őriz.", "Marko király legendájával hozzák összefüggésbe.", "Nagy szépségű természeti emlék."],
       ro: ["Adăpostește ruinele unei cetăți medievale.", "Asociată cu legenda regelui Marko.", "Un monument al naturii de o mare frumusețe."],
       en: ["Houses ruins of a medieval fortress.", "Associated with the legend of King Marko.", "A natural monument of great beauty."]
-    }
+    },
+    image: "/poi-images/MK-039-pesna-cave.webp",
   },
   {
     id: "MK-039-st-mother-of-god-brod",
@@ -567,7 +584,8 @@ export const mkPoisPart3: POI[] = [
       hu: ["Szép ikonosztázáról ismert.", "Kulturális és vallási ünnepek helyszíne.", "Jellegzetes építészettel rendelkezik."],
       ro: ["Cunoscută pentru iconostasul său frumos.", "Un loc pentru sărbători culturale și religioase.", "Are o arhitectură distinctivă."],
       en: ["Known for its beautiful iconostasis.", "A venue for cultural and religious festivals.", "Features distinctive architecture."]
-    }
+    },
+    image: "/poi-images/MK-039-st-mother-of-god-brod.webp",
   },
   // MK-040: Oslomej
   {
@@ -599,7 +617,8 @@ export const mkPoisPart3: POI[] = [
       hu: ["Ipari célokat szolgál.", "Helyi horgászhely.", "Dombos táj veszi körül."],
       ro: ["Servește în scopuri industriale.", "Un loc pentru pescuitul local.", "Înconjurat de un peisaj colinar."],
       en: ["Serves industrial purposes.", "A spot for local fishing.", "Surrounded by hilly landscape."]
-    }
+    },
+    image: "/poi-images/MK-040-oslomej-lake.webp",
   },
   {
     id: "MK-040-st-george-popovjane",
@@ -630,7 +649,8 @@ export const mkPoisPart3: POI[] = [
       hu: ["Hagyományos vallási szokásokat őriz.", "Csendes vidéki környezetben található.", "Helyi művészettörténeti jelentőséggel bír."],
       ro: ["Păstrează obiceiuri religioase tradiționale.", "Situată într-un cadru rural liniștit.", "Are o importanță istorică și artistică locală."],
       en: ["Preserves traditional religious customs.", "Located in a quiet rural setting.", "Has local art-historical significance."]
-    }
+    },
+    image: "/poi-images/MK-040-st-george-popovjane.webp",
   }
 ];
 

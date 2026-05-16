@@ -31,6 +31,7 @@ export const palauHistoryV2: POI[] = [
       ro: ["Bătălia a început la 15 septembrie 1944", "Operațiunea a avut numele de cod Stalemate II", "A durat peste două luni, până la sfârșitul lui noiembrie 1944", "Peste 10.000 de soldați japonezi au murit în bătălie", "Pierderile SUA s-au ridicat la aproximativ 1.800 de morți", "Situl include sistemul de peșteri de pe muntele Umurbrogol"],
       en: ["The battle began on September 15, 1944", "Operation was conducted under the codename Stalemate II", "Lasted over two months until late November 1944", "Over 10,000 Japanese soldiers died in the conflict", "U.S. forces suffered approximately 1,800 fatalities", "The site includes the complex cave system of Bloody Nose Ridge"],
     },
+    image: "/poi-images/palau-peleliu-battlefield-history-v2.webp",
   },
   {
     id: "palau-badrulchau-monoliths-history-v2",
@@ -62,6 +63,7 @@ export const palauHistoryV2: POI[] = [
       ro: ["Cele mai vechi artefacte sunt datate în jurul anului 161 d.Hr.", "Cei mai grei monoliți cântăresc peste 5 tone", "Situl constă în două rânduri paralele de pietre", "Unele pietre prezintă fețe umane stilizate", "Scopul original a fost probabil un Bai (casă de adunare)", "Situat în statul Ngarchelong de pe insula Babeldaob"],
       en: ["Earliest artifacts at the site date back to circa 161 AD", "The heaviest monoliths weigh over 5 tons each", "The site features two parallel rows of stone pillars", "Several stones are carved with stylized human faces", "Original purpose was likely a massive Bai (meeting house)", "Located in Ngarchelong State on the island of Babeldaob"],
     },
+    image: "/poi-images/palau-badrulchau-monoliths-history-v2.webp",
   },
   {
     id: "palau-angaur-battlefield-history-v2",
@@ -93,6 +95,7 @@ export const palauHistoryV2: POI[] = [
       ro: ["Invazia a început la 17 septembrie 1944", "Operațiunea a purtat numele de cod Stalemate II", "A implicat Divizia 81 Infanterie a Armatei SUA", "Aproximativ 1.300 de soldați japonezi au apărat insula", "Insula a fost declarată securizată la 22 octombrie 1944", "Americanii au construit două piste pentru bombardiere B-24"],
       en: ["The invasion began on September 17, 1944", "Operation was part of the broader Stalemate II campaign", "The U.S. Army's 81st Infantry Division led the assault", "Approximately 1,300 Japanese soldiers defended the island", "The island was declared secure on October 22, 1944", "U.S. forces constructed two runways for B-24 bombers"],
     },
+    image: "/poi-images/palau-angaur-battlefield-history-v2.webp",
   },
   {
     id: "palau-german-channel-history-v2",
@@ -124,6 +127,7 @@ export const palauHistoryV2: POI[] = [
       ro: ["Construcția a avut loc sub administrație germană în 1908", "Canalul a permis navelor trecerea către Koror", "Lungimea canalului este de aproximativ 1,2 kilometri", "Cel mai important punct de curățare pentru manta în Palau", "Curenții pot fi foarte puternici în interiorul canalului", "Folosit zilnic de numeroase ambarcațiuni de scufundări"],
       en: ["Constructed under German administration in the year 1908", "The channel allowed ships to pass directly to Koror", "The length of the cut passage is about 1.2 kilometers", "Famous as a major 'cleaning station' for manta rays", "Tidal currents in the channel can be extremely strong", "Crucial navigational route for tour boats heading south"],
     },
+    image: "/poi-images/palau-german-channel-history-v2.webp",
   },
   {
     id: "palau-airai-bai-history-v2",
@@ -155,6 +159,7 @@ export const palauHistoryV2: POI[] = [
       ro: ["Construită în jurul anului 1890 în statul Airai", "Acoperișul este realizat din material tip palmier nipa", "Folosește doar îmbinări de lemn și frânghii", "Frontoanele sunt pictate cu legende și mituri locale", "Are aproximativ 20 de metri lungime și 6 metri lățime", "Restaurată de mai multe ori folosind tehnici tradiționale"],
       en: ["Constructed around the year 1890 in Airai State", "The steep roof is thatched with nipa palm leaves", "Built entirely with wooden joinery and coconut fiber lashings", "The gables are painted with depictions of local legends", "Measures approximately 20 meters long and 6 meters wide", "Has been restored several times using traditional methods"],
     },
+    image: "/poi-images/palau-airai-bai-history-v2.webp",
   },
   {
     id: "palau-japanese-comm-center-history-v2",
@@ -186,6 +191,7 @@ export const palauHistoryV2: POI[] = [
       ro: ["Clădire cu două etaje și pereți de beton extrem de groși", "A fost ținta focului direct al navelor americane în 1944", "Găuri mari de impact sunt încă vizibile în structură", "Situat în partea de nord a insulei Peleliu", "A servit drept cartier general pentru radio și telegrafie", "Parte a rețelei fortificate de apărare japoneze"],
       en: ["Two-story structure with exceptionally thick concrete walls", "Subjected to direct naval gunfire by U.S. forces in 1944", "Large shell holes are still visible in the reinforced structure", "Located in the northern section of Peleliu Island", "Served as a headquarters for radio and telegraphy", "Key component of the fortified Japanese defense network"],
     },
+    image: "/poi-images/palau-japanese-comm-center-history-v2.webp",
   },
   {
     id: "palau-aimeliik-terraces-history-v2",
@@ -217,6 +223,7 @@ export const palauHistoryV2: POI[] = [
       ro: ["Data construcției este estimată între 500 și 1000 d.Hr.", "Constau în mai multe niveluri aplatizate artificial", "Forma lor seamănă cu terasele de orez din Asia de Sud-Est", "Situate în statul Aimeliik de pe insula Babeldaob", "Arheologii au găsit fragmente de ceramică în straturile de pământ", "Probabil au fost folosite pentru apărare împotriva invadatorilor"],
       en: ["Estimated to have been constructed between 500 and 1000 AD", "Consist of multiple tiers of artificially flattened earth", "Resemble rice terraces found in parts of Southeast Asia", "Located in Aimeliik State on the island of Babeldaob", "Archaeologists have discovered pottery shards in the soil", "Theories suggest they were used as defensive fortifications"],
     },
+    image: "/poi-images/palau-aimeliik-terraces-history-v2.webp",
   },
   {
     id: "palau-orange-beach-history-v2",
@@ -248,6 +255,7 @@ export const palauHistoryV2: POI[] = [
       ro: ["Sectorul de debarcare al Diviziei 1 Pușcași Marini", "Trupele SUA au suferit pierderi grele aici în prima zi", "Japonezii au folosit poziții de artilerie ascunse în recif", "Temperatura în ziua debarcării a depășit 40 de grade Celsius", "Împărțită în secțiuni precum 'Orange 1' și 'Orange 2'", "Rămășițe ale vehiculelor de debarcare sunt încă în apă"],
       en: ["Designated landing sector for the 1st Marine Division", "U.S. forces suffered significant casualties here on D-Day", "Japanese defenders utilized hidden pillboxes along the reef", "Temperatures on the day of the landing exceeded 40°C (104°F)", "The beach was divided into 'Orange 1', '2', and '3' sections", "Rusting remains of landing craft can still be found in the surf"],
     },
+    image: "/poi-images/palau-orange-beach-history-v2.webp",
   },
   {
     id: "palau-ngarchelong-stone-faces-history-v2",
@@ -279,6 +287,7 @@ export const palauHistoryV2: POI[] = [
       ro: ["Situl conține între 37 și 52 de monoliți de bazalt.", "Cele mai grele pietre cântăresc peste 5 tone.", "Testele radiocarbon indică anul 161 d.Hr. ca dată de origine.", "Denumirea locală a sitului este Badrulchau.", "Unele coloane au o înălțime de peste 2 metri.", "Monoliții sunt aranjați în două rânduri paralele distincte."],
       en: ["The site contains between 37 and 52 individual basalt monoliths.", "The heaviest stones weigh more than 5 tons each.", "Radiocarbon dating confirms the site was used around 161 AD.", "Locally, the archaeological site is known as Badrulchau.", "Some of the stone pillars stand over 2 meters tall.", "The monoliths are arranged in two distinct parallel rows."],
     },
+    image: "/poi-images/palau-ngarchelong-stone-faces-history-v2.webp",
   },
   {
     id: "palau-chelechol-ra-orrak-history-v2",
@@ -310,6 +319,7 @@ export const palauHistoryV2: POI[] = [
       ro: ["Rămășițele sunt datate cu o vechime de circa 3000 de ani.", "Au fost identificați cel puțin 25 de indivizi diferiți.", "Excavațiile au început în anul 2000 sub conducerea lui Scott Fitzpatrick.", "Situl este localizat pe mica insulă calcaroasă Orrak.", "Este considerat cel mai vechi cimitir cunoscut din Palau.", "S-au descoperit fragmente de ceramică datând din anul 1000 î.Hr."],
       en: ["The remains are estimated to be approximately 3000 years old.", "At least 25 distinct individuals were identified during excavations.", "Research at the site began in 2000 led by Scott Fitzpatrick.", "The location is a limestone rock shelter on Orrak Island.", "It is recognized as the oldest known cemetery in Palau.", "Pottery shards from roughly 1000 BC were found near the burials."],
     },
+    image: "/poi-images/palau-chelechol-ra-orrak-history-v2.webp",
   },
   {
     id: "palau-ngerulmud-monoliths-history-v2",
@@ -341,6 +351,7 @@ export const palauHistoryV2: POI[] = [
       ro: ["Pietrele sunt localizate în statul Melekeok de pe insula Babeldaob.", "Sunt cioplite din rocă vulcanică de tip bazalt.", "Monoliții marchează locul tradițional de întâlnire al triburilor.", "Se află lângă Capitoliul finalizat în anul 2006.", "Fiecare piatră este atribuită unui anumit rang sau clan.", "Situl subliniază importanța istorică a regiunii Ngerulmud."],
       en: ["The stones are located in Melekeok State on Babeldaob Island.", "They are composed of volcanic basalt rock.", "The monoliths mark the traditional site of village assemblies.", "They stand adjacent to the Capitol building completed in 2006.", "Each stone is assigned to a specific rank or clan leader.", "The site highlights the long-standing historical importance of Ngerulmud."],
     },
+    image: "/poi-images/palau-ngerulmud-monoliths-history-v2.webp",
   },
   {
     id: "palau-ngerchelchuus-stone-path-history-v2",
@@ -372,6 +383,7 @@ export const palauHistoryV2: POI[] = [
       ro: ["Calea duce spre muntele Ngerchelchuus, înalt de 242 metri.", "Drumurile sunt pavate cu blocuri masive de bazalt.", "Construcția datează din epoca precolonială a Palau-ului.", "Potecile au adesea o lățime de peste un metru.", "Există locuri de odihnă din piatră conservate de-a lungul rutei.", "Sistemul conectează statele Ngardmau și Ngaremlengui."],
       en: ["The path leads toward Mount Ngerchelchuus, the highest point at 242m.", "The walkways are paved with heavy basalt blocks.", "They originate from Palau's pre-colonial era.", "The stone paths are often more than one meter wide.", "Historical stone resting places are located along the route.", "This path system connects the states of Ngardmau and Ngaremlengui."],
     },
+    image: "/poi-images/palau-ngerchelchuus-stone-path-history-v2.webp",
   },
   {
     id: "palau-imeong-village-ruins-history-v2",
@@ -403,6 +415,7 @@ export const palauHistoryV2: POI[] = [
       ro: ["Ruinele se află în statul Ngaremlengui de pe insula Babeldaob.", "Situl include dealul sacru numit Ngerutechei.", "Imeong era considerat centrul spiritual al insulei Babeldaob.", "Sunt vizibile rămășițele a peste 10 platforme de piatră.", "Ruinele fac parte din lista tentativă a Patrimoniului Mondial UNESCO.", "Satul a fost locuit până la sfârșitul secolului al XIX-lea."],
       en: ["The ruins are located in Ngaremlengui State on Babeldaob.", "The site includes the sacred hill known as Ngerutechei.", "Imeong was historically considered the spiritual center of Babeldaob.", "Remains of more than 10 stone platforms are visible today.", "The ruins are on the UNESCO World Heritage Tentative List.", "The village remained inhabited until the late 19th century."],
     },
+    image: "/poi-images/palau-imeong-village-ruins-history-v2.webp",
   },
   {
     id: "palau-ngeruktabel-stone-fort-history-v2",
@@ -434,6 +447,7 @@ export const palauHistoryV2: POI[] = [
       ro: ["Fortul este situat pe insula Ngeruktabel, la sud de Koror.", "A fost construit folosind calcar local și corali.", "Zidurile au o grosime de peste 2 metri în anumite secțiuni.", "Fortul servea drept refugiu în timpul raidurilor inamice.", "Arheologii datează structura între secolele XV și XVII.", "Situl este accesibil doar printr-o urcare abruptă pe teren accidentat."],
       en: ["The fort is located on Ngeruktabel Island, south of Koror.", "It was constructed using local limestone and coral rock.", "The defensive walls exceed 2 meters in thickness in some areas.", "The fort served as a primary refuge during coastal raids.", "Archaeologists date the complex to the 15th to 17th centuries.", "The site is accessible only via a steep and difficult climb."],
     },
+    image: "/poi-images/palau-ngeruktabel-stone-fort-history-v2.webp",
   },
   {
     id: "palau-ngaraard-stone-path-history-v2",
@@ -465,5 +479,6 @@ export const palauHistoryV2: POI[] = [
       ro: ["Calea conectează satele Choll și Elab.", "Este construită din pietre de bazalt așezate cu grijă.", "Sistemul datează din perioada anterioară contactului european.", "Unele secțiuni includ platforme ceremoniale de piatră.", "Drumul trece prin junglă densă și zone cu mangrove.", "Ngaraard este renumit pentru drumurile sale de piatră bine conservate."],
       en: ["The path connects the villages of Choll and Elab.", "It is constructed from carefully laid basalt stones.", "The path system dates to the pre-European contact era.", "Some sections feature ceremonial stone docking platforms.", "The route passes through dense jungle and mangrove areas.", "Ngaraard State is noted for its well-preserved stone path networks."],
     },
+    image: "/poi-images/palau-ngaraard-stone-path-history-v2.webp",
   }
 ];

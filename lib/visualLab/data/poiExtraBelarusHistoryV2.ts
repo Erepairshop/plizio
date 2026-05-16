@@ -1066,6 +1066,7 @@ export const belarusHistoryV2: POI[] = [
       ro: ["Podul a fost finalizat în anul 1972.", "Are o lungime totală de 193 de metri.", "Traversează râul Neman, unul dintre cele mai mari râuri din țară.", "Lățimea părții pietonale este de 1,5 metri.", "A fost construit inițial pentru muncitorii companiei 'Mostovdrev'.", "O renovare tehnică majoră a avut loc în anul 2023."],
       en: ["The bridge was completed and opened in 1972.", "It has a total length of 193 meters.", "Spans the Neman River, one of the primary waterways in Belarus.", "The width of the pedestrian walkway is 1.5 meters.", "Originally constructed for the employees of the 'Mostovdrev' enterprise.", "A major technical renovation project was concluded in 2023."],
     },
+    image: "/poi-images/belarus-masty-bridge-history-v2.webp",
   },
   {
     id: "belarus-loysk-castle-ruins-history-v2",
@@ -1098,6 +1099,7 @@ export const belarusHistoryV2: POI[] = [
       ro: ["Bătălia de la Lojev a avut loc la 31 iulie 1649.", "Dealul castelului se ridică la aproximativ 15 metri deasupra Niprului.", "Situat la confluența râurilor Nipru și Sozh.", "A fost o poziție cheie împotriva incursiunilor căzăcești în secolul XVII.", "Descoperirile arheologice atestă o așezare încă din epoca fierului.", "Orașul a primit drepturile Magdeburg în anul 1582."],
       en: ["The pivotal Battle of Loev occurred on July 31, 1649.", "The castle hill rises approximately 15 meters above the Dnieper level.", "Located at the strategic confluence of the Dnieper and Sozh rivers.", "Served as a key defensive position against Cossack raids in the 17th century.", "Archaeological evidence points to settlement since the Iron Age.", "The town was granted Magdeburg rights in 1582."],
     },
+    image: "/poi-images/belarus-loysk-castle-ruins-history-v2.webp",
   },
   {
     id: "belarus-polotsk-st-euphrosyne-history-v2",
@@ -1130,6 +1132,7 @@ export const belarusHistoryV2: POI[] = [
       ro: ["Fondată în anul 1125 de către Sfânta Eufrosina.", "Biserica Schimbarea la Față a fost construită în 1161 de arhitectul Ioann.", "Găzduiește fresce din secolul XII pe o suprafață de 1000 mp.", "Mănăstirea este cea mai veche mănăstire de maici activă din Belarus.", "Moaștele Sfintei Eufrosina s-au întors la Polotsk în anul 1910.", "Faimoasa cruce cu email a fost realizată în 1161 de Lazar Bogsha."],
       en: ["Established in 1125 by the venerable Saint Euphrosyne.", "The Transfiguration Church was built in 1161 by the architect Ioann.", "Contains 12th-century frescoes covering nearly 1,000 square meters.", "The oldest continuously operating convent in Belarus.", "The relics of Saint Euphrosyne were returned to Polotsk in 1910.", "The legendary enameled cross was created in 1161 by Lazar Bogsha."],
     },
+    image: "/poi-images/belarus-polotsk-st-euphrosyne-history-v2.webp",
   },
   {
     id: "belarus-gomel-old-church-history-v2",
@@ -1162,6 +1165,7 @@ export const belarusHistoryV2: POI[] = [
       ro: ["Catedrala a fost construită în perioada 1809-1819.", "Arhitectul britanic John Clark a realizat proiectul.", "Stilul arhitectural predominant este clasicismul pur.", "Fondurile au fost asigurate de contele Nikolai Rumianțev.", "Lăcașul a fost retrocedat Bisericii Ortodoxe în 1989.", "Adăpostește moaștele Sfintei Maniufa, canonizată în 2007."],
       en: ["Construction took place between 1809 and 1819.", "Designed by British architect John Clark in Neoclassical style.", "Commissioned and funded by Count Nikolay Rumyantsev.", "The cathedral stands on the high bank of the Sozh River.", "It was converted into an atheism museum during the Soviet period.", "The building was returned to the Orthodox Church in 1989."],
     },
+    image: "/poi-images/belarus-gomel-old-church-history-v2.webp",
   },
   {
     id: "belarus-turov-cathedral-ruins-history-v2",
@@ -1194,6 +1198,7 @@ export const belarusHistoryV2: POI[] = [
       ro: ["Catedrala a fost ridicată în jurul anului 1170.", "Clădirea s-a prăbușit în urma unui cutremur în 1230.", "Fundațiile au o lungime de 29,3 m și o lățime de 17,9 m.", "Situl a fost excavat și cercetat sistematic în anii 1960.", "Este considerată cea mai mare biserică medievală din regiune.", "Un pavilion muzeal protejează resturile din anul 1994."],
       en: ["The cathedral was constructed around 1170-1175.", "An earthquake led to its total destruction in 1230.", "The footprint of the building is 29.3 by 17.9 meters.", "Excavations in 1963 revealed the site's historical importance.", "It is located on the ancient castle hill of Turov.", "A modern archaeological museum was built over the ruins in 1994."],
     },
+    image: "/poi-images/belarus-turov-cathedral-ruins-history-v2.webp",
   },
   {
     id: "belarus-lida-synagogue-history-v2",
@@ -1226,6 +1231,7 @@ export const belarusHistoryV2: POI[] = [
       ro: ["Sinagoga monumentală din piatră a fost finalizată la sfârșitul secolului XIX.", "Evreii reprezentau aproximativ 54% din populația orașului în 1939.", "Ieșiva din Lida a fost fondată în 1905 de rabinul Isaac Jacob Reines.", "Clădirea a fost distrusă complet de ocupanții naziști în 1941.", "Înainte de piatră, a existat o sinagogă din lemn datând din secolul XVII.", "Locul este marcat astăzi printr-un memorial dedicat victimelor Holocaustului."],
       en: ["The masonry Great Synagogue was constructed in the late 19th century.", "Jews made up roughly 54% of Lida's population before 1941.", "The Lida Yeshiva was established nearby in 1905 by Rabbi Reines.", "The building was destroyed during the Nazi occupation in 1941.", "A previous wooden synagogue had existed on this site since the 17th century.", "A commemorative stone was placed at the site to honor the Jewish heritage."],
     },
+    image: "/poi-images/belarus-lida-synagogue-history-v2.webp",
   },
   {
     id: "belarus-novogrudok-mosque-history-v2",
@@ -1258,6 +1264,7 @@ export const belarusHistoryV2: POI[] = [
       ro: ["Actualul edificiu din lemn a fost ridicat în anul 1855.", "Prima mențiune a unei moschei în Novogrudok datează din 1550.", "Tătarii lipkani s-au stabilit în această regiune în secolul al XIV-lea.", "În perioada URSS, minaretul a fost îndepărtat, clădirea fiind locuită.", "Moscheea a fost restaurată și redeschisă pe 11 iulie 1997.", "Arhitectura sa este tipică stilului vernacular de lemn din Belarus."],
       en: ["The current wooden mosque building dates back to 1855.", "A mosque on this site was first mentioned in historical records in 1550.", "Lipka Tatars have resided in Navahrudak since the 14th century.", "The minaret was destroyed during the Soviet closure of the mosque.", "The building was rededicated for religious use on July 11, 1997.", "It features a unique mix of Tatar Islamic and Belarusian folk architecture."],
     },
+    image: "/poi-images/belarus-novogrudok-mosque-history-v2.webp",
   },
   {
     id: "belarus-polotsk-jesuit-college-history-v2",
@@ -1290,6 +1297,7 @@ export const belarusHistoryV2: POI[] = [
       ro: ["Instituția a fost fondată în anul 1581 de Ștefan Báthory.", "În 1812, colegiul a devenit Academie cu drepturi de universitate.", "Stilul arhitectural predominant al complexului este barocul târziu.", "A fost prima instituție de învățământ superior din Belarusul actual.", "În prezent, aici funcționează sediul Universității de Stat din Polotsk.", "Turnul principal găzduiește un ceas cu figuri mecanice mobile."],
       en: ["Founded in 1581 by King Stefan Batory of the Polish-Lithuanian Commonwealth.", "Elevated to Academy status by Tsar Alexander I in 1812.", "It was the first higher education institution in modern-day Belarus.", "The current buildings date largely from the 18th-century Baroque period.", "It now serves as the Faculty of Humanities for Polotsk State University.", "The courtyard features a unique mechanical clock with historical figures."],
     },
+    image: "/poi-images/belarus-polotsk-jesuit-college-history-v2.webp",
   },
   {
     id: "belarus-minsk-kalvariya-cemetery-history-v2",
@@ -1322,6 +1330,7 @@ export const belarusHistoryV2: POI[] = [
       ro: ["Cimitirul a fost înființat oficial în secolul al XVIII-lea.", "Capela principală a fost ridicată în stil neogotic în 1839.", "Adăpostește mormintele unor personalități precum pictorul Jan Damel.", "Este considerat cel mai vechi sit funerar catolic din capitală.", "În perioada 1941-1944, a fost martorul unor execuții în masă naziste.", "Situl a fost inclus în lista monumentelor protejate în 1990."],
       en: ["The cemetery was established in the late 18th century.", "The Holy Cross Chapel was built in Neo-Gothic style in 1839.", "It is the oldest surviving Catholic burial ground in Minsk.", "Prominent members of the Wańkowicz and Chodźko families are buried here.", "The cemetery was granted the status of a protected monument in 1990.", "It contains approximately 30,000 burial plots over its history."],
     },
+    image: "/poi-images/belarus-minsk-kalvariya-cemetery-history-v2.webp",
   },
   {
     id: "belarus-brest-archaeological-museum-history-v2",
@@ -1354,6 +1363,7 @@ export const belarusHistoryV2: POI[] = [
       ro: ["Situl a fost descoperit în 1968 de către arheologul Piotr Lîsenko.", "Muzeul a fost inaugurat oficial pe data de 2 martie 1982.", "Exponatul principal constă în 28 de case din lemn din secolul al XIII-lea.", "Săpăturile acoperă o suprafață excavată de 1.118 metri pătrați.", "Lemnul a fost conservat datorită solului argilos și mlaștinos.", "Colecția include peste 43.000 de obiecte găsite în timpul excavărilor."],
       en: ["The site was discovered in 1968 by archaeologist Pyotr Lysenko.", "The museum officially opened to the public on March 2, 1982.", "It features 28 well-preserved log structures dating to the 13th century.", "The excavation site covers an area of approximately 1,118 square meters.", "Artifacts include tools, toys, and rare samples of medieval footwear.", "The protective pavilion's modern design allows for viewing from multiple angles."],
     },
+    image: "/poi-images/belarus-brest-archaeological-museum-history-v2.webp",
   },
   {
     id: "belarus-horki-agricultural-history-v2",
@@ -1386,6 +1396,7 @@ export const belarusHistoryV2: POI[] = [
       ro: ["Academia a fost fondată în 1836 și inaugurată în 1840.", "Este prima instituție superioară de învățământ agricol din Imperiul Rus.", "Grădina Botanică a fost înființată în 1840 pentru scopuri didactice.", "Arhitectul italian Angelo Campioni a proiectat clădirile principale.", "În 1848, școala a fost ridicată la rangul deplin de Academie.", "Campusul cuprinde 16 clădiri de studiu și numeroase cămine studențești."],
       en: ["The academy was founded in 1836 and opened for instruction in 1840.", "It was the first institution in the Russian Empire to offer higher agricultural degrees.", "The botanical garden on campus was established in 1840.", "The main architectural structures were designed by Angelo Campioni.", "The institution was elevated to full Academy status in 1848.", "Currently, it is the largest agricultural university in the CIS countries."],
     },
+    image: "/poi-images/belarus-horki-agricultural-history-v2.webp",
   },
   {
     id: "belarus-sklyary-manor-history-v2",
@@ -1418,6 +1429,7 @@ export const belarusHistoryV2: POI[] = [
       ro: ["Conacul a fost construit la sfârșitul secolului al XIX-lea.", "Stilul arhitectural predominant este cel neoclasic provincial.", "Clădirea prezintă o fațadă simetrică cu un portic central discret.", "A fost nucleul administrativ al unei mari proprietăți funciare.", "S-a păstrat parțial parcul istoric care înconjoară locuința.", "Conacul este inclus pe lista obiectivelor de patrimoniu local."],
       en: ["The manor house was constructed in the late 1800s.", "It was designed in a modest Neoclassical style typical for the region.", "The building features a symmetrical layout with a central entrance.", "It served as the primary residence for a local noble family.", "The surrounding park once contained unique exotic tree species.", "The structure has survived as a rare example of 19th-century rural estate architecture."],
     },
+    image: "/poi-images/belarus-sklyary-manor-history-v2.webp",
   },
   {
     id: "belarus-minsk-pishchalauski-castle-history-v2",
@@ -1450,6 +1462,7 @@ export const belarusHistoryV2: POI[] = [
       ro: ["Construcția a fost finalizată în anul 1825.", "Proiectul a fost finanțat și supravegheat de Rudolf Pishchala.", "Stilul este neogotic romantic cu elemente defensive.", "Edificiul are patru turnuri circulare impunătoare la colțuri.", "Este locul unde a fost închis poetul național Yakub Kolas.", "Unul dintre turnuri s-a prăbușit parțial în aprilie 2008."],
       en: ["The building was completed in 1825.", "It was commissioned by Rudolf Pishchala as a central prison.", "The architectural style is Neo-Gothic with fortress elements.", "The structure features four prominent circular corner towers.", "Notable inmates include Felix Dzerzhinsky and Józef Piłsudski.", "A corner tower suffered a major structural collapse in 2008."],
     },
+    image: "/poi-images/belarus-minsk-pishchalauski-castle-history-v2.webp",
   },
   {
     id: "belarus-braslaw-church-history-v2",
@@ -1482,6 +1495,7 @@ export const belarusHistoryV2: POI[] = [
       ro: ["Construcția actualei biserici de piatră a fost finalizată în 1897.", "Icoana Maicii Domnului din Braslaw a fost încoronată de papă în 1999.", "Arhitectura combină cărămida roșie cu piatra naturală de câmp.", "Biserica se află pe locul unui lăcaș de cult din lemn din anul 1434.", "Este considerată una dintre cele mai importante destinații de pelerinaj din Belarus.", "În perioada sovietică, edificiul a funcționat temporar ca depozit de cereale."],
       en: ["The current stone church was completed and consecrated in 1897.", "The Icon of the Mother of God of Braslaw was coronated in 1999.", "The walls are built from a mixture of red brick and natural fieldstone.", "The first wooden church on this site was mentioned as early as 1434.", "Braslaw is a major center for Catholic pilgrimage in northern Belarus.", "The building was used as a granary during the Soviet anti-religious campaigns."],
     },
+    image: "/poi-images/belarus-braslaw-church-history-v2.webp",
   },
   {
     id: "belarus-minsk-svisloch-mill-history-v2",
@@ -1514,6 +1528,7 @@ export const belarusHistoryV2: POI[] = [
       ro: ["Moara istorică era situată în actualul cartier Troițkoe Predmestie din Minsk.", "Legenda îl menționează pe gigantul Menesk ca proprietar al primei mori.", "În secolul al XIX-lea, moara era un pilon central al economiei locale.", "Structura a fost demolată în secolul XX pentru a face loc noilor proiecte urbane.", "Numele orașului Minsk este asociat etimologic cu activitatea de măcinare (mensk).", "Râul Svisloci a fost principala sursă de energie pentru primele mori din oraș."],
       en: ["The historic mill was situated in the Trinity Suburb of Minsk.", "The mythical giant Menesk is said to have founded Minsk with a stone mill.", "The 19th-century brick mill was a key industrial asset for the growing capital.", "Most of the mill buildings were cleared during 20th-century Soviet urban planning.", "The city's name is traditionally linked to the Old Slavic word for 'grinding'.", "The Svisloch River powered numerous mills that defined the early city skyline."],
     },
+    image: "/poi-images/belarus-minsk-svisloch-mill-history-v2.webp",
   },
   {
     id: "belarus-stolin-palace-history-v2",
@@ -1546,6 +1561,7 @@ export const belarusHistoryV2: POI[] = [
       ro: ["Palatul a fost comandat de Maria Radziwill în anul 1885.", "Reședința se afla în parcul istoric Mankavichi de lângă Stolin.", "Edificiul a fost distrus în anul 1943, în timpul celui de-al Doilea Război Mondial.", "Parcul dendrologic care înconjoară locul are o suprafață de circa 30 de hectare.", "În parc pot fi găsite specii rare de arbori, precum pinul alb american.", "Domeniul a servit drept una dintre principalele reședințe ale familiei Radziwill în Polesia."],
       en: ["The palace was commissioned by Princess Maria Radziwill in 1885.", "It was located in the Mankavichi Park, a suburb of the town of Stolin.", "The building was tragically destroyed in 1943 during World War II.", "The surrounding landscape park covers an area of approximately 30 hectares.", "The park is home to rare tree species, including the Eastern White Pine.", "The estate was a major cultural and political center for the Radziwills in Polesie."],
     },
+    image: "/poi-images/belarus-stolin-palace-history-v2.webp",
   },
   {
     id: "belarus-vetka-museum-history-v2",
@@ -1578,6 +1594,7 @@ export const belarusHistoryV2: POI[] = [
       ro: ["Muzeul a fost deschis oficial în anul 1978.", "Instituția are la bază colecția privată a lui Fiodor Grigorievici Șkliarov.", "Colecția muzeului cuprinde peste 10.000 de exponate valoroase.", "Vetka a devenit un refugiu pentru vechii credincioși încă din secolul al XVII-lea.", "Clădirea muzeului a fost inițial casa negustorului Groșikov în secolul XIX.", "Biblioteca muzeului deține manuscrise rare și tipărituri de Ivan Fiodorov."],
       en: ["The museum was officially established in 1978.", "It originated from the extensive private collection of Fyodor Shklyarov.", "The permanent collection features over 10,000 unique cultural artifacts.", "Vetka has been a significant Old Believer settlement since the late 1600s.", "The building is a former 19th-century mansion of the merchant Groshikov.", "The collection includes rare early printed books by the pioneer Ivan Fyodorov."],
     },
+    image: "/poi-images/belarus-vetka-museum-history-v2.webp",
   },
   {
     id: "belarus-zaslawye-castle-mounds-history-v2",
@@ -1610,6 +1627,7 @@ export const belarusHistoryV2: POI[] = [
       ro: ["Zaslawye a fost întemeiat în anul 985 de cneazul Vladimir cel Mare.", "Fortificația cu bastioane a fost construită în secolul XVI după model italian.", "Valurile de pământ au o înălțime maximă de aproximativ 3,5 metri.", "În perimetrul cetății se află Biserica Schimbarea la Față, datând din 1577.", "Cetatea a fost una dintre cele mai rezistente puncte de apărare lângă Minsk.", "Situl este inclus în Rezervația Națională Istorică și Culturală Zaslawye."],
       en: ["Zaslawye was established in 985 by Prince Vladimir the Great of Kiev.", "The bastion castle was upgraded in the 16th century using Italian designs.", "The earthen ramparts rise to a height of 3.5 meters above the terrain.", "The Church of the Transfiguration inside the walls dates back to 1577.", "It was a key strategic fortress protecting the capital city of Minsk.", "The site is protected as part of the Zaslawye Historical and Cultural Reserve."],
     },
+    image: "/poi-images/belarus-zaslawye-castle-mounds-history-v2.webp",
   },
   {
     id: "belarus-voranava-church-history-v2",
@@ -1642,6 +1660,7 @@ export const belarusHistoryV2: POI[] = [
       ro: ["Biserica a fost construită în perioada anilor 1900-1903.", "Lăcașul este dedicat Sfântului Cazimir, patronul Lituaniei și al Poloniei.", "Edificiul este realizat din piatră și are o tencuială exterioară albă.", "Parohia din Voranava are o istorie documentată încă din secolul XVI.", "Biserica nu a fost închisă în timpul regimului sovietic.", "Locația se află în regiunea Grodno, la mică distanță de granița lituaniană."],
       en: ["The church was constructed between 1900 and 1903.", "It is dedicated to Saint Casimir, the patron saint of Lithuania and Poland.", "The structure is made of stone with a distinctive white-plastered facade.", "The Catholic parish in Voranava dates back to the 16th century.", "The church was one of the few to remain active throughout the Soviet era.", "It is located in the Hrodna Region, very close to the Belarus-Lithuania border."],
     },
+    image: "/poi-images/belarus-voranava-church-history-v2.webp",
   },
   {
     id: "belarus-masty-old-mill-history-v2",
@@ -1674,6 +1693,7 @@ export const belarusHistoryV2: POI[] = [
       ro: ["Moara a fost construită în secolul al XIX-lea pe malul râului Neman.", "Edificiul este realizat dintr-un amestec de cărămidă și piatră naturală.", "Sistemul folosea forța apelor râului Neman pentru acționarea mecanismelor.", "Masty este renumit pentru cel mai lung pod suspendat din Belarus.", "Moara a reprezentat un factor economic central pentru districtul Masty.", "Structura istorică a supraviețuit parțial distrugerilor din secolul XX."],
       en: ["The mill was constructed in the 19th century on the Neman River banks.", "The building features a blend of traditional brickwork and fieldstone.", "It utilized the Neman's strong current to power its grinding machinery.", "Masty is also home to the longest pedestrian suspension bridge in Belarus.", "The mill was a primary industrial employer in the Masty district for decades.", "Parts of the original 19th-century structure are still visible today."],
     },
+    image: "/poi-images/belarus-masty-old-mill-history-v2.webp",
   },
   {
     id: "belarus-kletsk-church-history-v2",
@@ -1706,6 +1726,7 @@ export const belarusHistoryV2: POI[] = [
       ro: ["Biserica a fost inițial parte a unei mănăstiri dominicane din secolul XVI.", "În anul 1832, edificiul a fost transformat în biserică ortodoxă.", "Arhitectura combină stilul baroc cu elemente ortodoxe rusești.", "Klețk este unul dintre cele mai vechi orașe din Belarus, atestat în 1127.", "Edificiul a fost grav avariat în timpul celui de-al Doilea Război Mondial.", "Restaurarea completă a interiorului a fost finalizată în anii 2000."],
       en: ["The church was originally part of a Dominican monastery founded in the 1500s.", "The building was converted into an Orthodox church in 1832.", "Its design merges Baroque foundations with traditional Orthodox onion domes.", "Kletsk is among the oldest Belarusian towns, first mentioned in 1127.", "The structure sustained major damage during the military actions of WWII.", "A comprehensive interior restoration project was completed in the early 21st century."],
     },
+    image: "/poi-images/belarus-kletsk-church-history-v2.webp",
   },
   {
     id: "belarus-pruzhany-palace-history-v2",
@@ -1738,6 +1759,7 @@ export const belarusHistoryV2: POI[] = [
       ro: ["Palatul a fost construit între 1843 și 1850 în stilul unei vile italiene.", "Arhitectul Francisco Maria Lanci a proiectat clădirea pentru familia Shchors.", "Este singurul exemplu de acest tip de arhitectură de vilă din Belarus.", "O restaurare majoră a palatului a avut loc în anii 1990.", "Parcul înconjurător conține peste 60 de specii de arbori și arbuști.", "În prezent, clădirea găzduiește Muzeul Districtual din Pruzhany."],
       en: ["The palace was built between 1843 and 1850 in the Italianate villa style.", "Architect Francisco Maria Lanci designed the building for the Shchors family.", "It is the only surviving example of this specific villa style in Belarus.", "The mansion underwent a massive restoration effort during the 1990s.", "The landscape park features over 60 different species of trees and shrubs.", "The building currently serves as the Pruzhany District Museum."],
     },
+    image: "/poi-images/belarus-pruzhany-palace-history-v2.webp",
   },
   {
     id: "belarus-lyakhavichy-church-history-v2",
@@ -1770,6 +1792,7 @@ export const belarusHistoryV2: POI[] = [
       ro: ["Biserica a fost construită în stil neogotic în anul 1907.", "Structura este realizată integral din cărămidă roșie caracteristică.", "Lyakhavichy a fost sediul uneia dintre cele mai puternice fortărețe belaruse.", "În timpul regimului sovietic, clădirea a servit drept depozit industrial.", "Parohia a fost reactivată oficial la începutul anilor 1990.", "Edificiul este protejat ca patrimoniu istoric și cultural național."],
       en: ["The church was completed in 1907 in the popular Neo-Gothic style.", "The entire structure is built from high-quality red facing brick.", "Lyakhavichy was once home to one of the most powerful bastions in Belarus.", "The building was used as a commercial warehouse during the Soviet period.", "The parish was officially re-established in the 1990s after decades of closure.", "The church is listed as a site of national historical and cultural significance."],
     },
+    image: "/poi-images/belarus-lyakhavichy-church-history-v2.webp",
   },
   {
     id: "belarus-stowbtsy-castle-history-v2",
@@ -1802,6 +1825,7 @@ export const belarusHistoryV2: POI[] = [
       ro: ["Localitatea Stoubți a fost menționată documentar pentru prima dată în anul 1511.", "Orașul a aparținut timp de secole domeniilor vaste ale familiei nobiliare Radziwill.", "Râul Niemen a fost artera principală pentru comerțul cu lemn și cereale din regiune.", "Fortificațiile au fost grav avariate în timpul războaielor ruso-polone din secolul al XVII-lea.", "În apropiere se află locul de naștere al celebrului scriitor belarus Iakub Kolas.", "Poziția strategică a făcut ca orașul să fie un punct disputat în timpul invaziei franceze din 1812."],
       en: ["Stowbtsy was first mentioned in historical documents in the year 1511.", "The town was part of the extensive estates of the powerful Radziwill family for centuries.", "The Neman River served as the primary route for the large-scale trade of timber and grain.", "The fortifications suffered heavy damage during the Russo-Polish wars of the 17th century.", "The birthplace and museum of famous Belarusian poet Yakub Kolas is located nearby.", "Due to its strategic location, the town was a significant crossing point during Napoleon's 1812 campaign."],
     },
+    image: "/poi-images/belarus-stowbtsy-castle-history-v2.webp",
   },
   {
     id: "belarus-hlybokaye-church-history-v2",
@@ -1834,6 +1858,7 @@ export const belarusHistoryV2: POI[] = [
       ro: ["Biserica a fost ctitorită în 1639 de voievodul Iosif Korsak.", "Este considerată unul dintre cele mai mari lăcașuri de cult baroce din Belarus.", "Criptele adăpostesc rămășițele a peste 100 de călugări și nobili.", "Fațada prezintă structura caracteristică în trei niveluri a barocului de Vilnius.", "În anul 1875 a avut loc sfințirea ca catedrală ortodoxă rusă.", "Turnurile catedralei ating o înălțime de aproximativ 40 de metri."],
       en: ["The church was founded in 1639 by the voivode Joseph Korsak.", "It is considered one of the largest Baroque religious buildings in Belarus.", "The crypts house the remains of over 100 monks and noble family members.", "The facade displays the characteristic three-tier structure of Vilnian Baroque.", "In 1875, the building was consecrated as a Russian Orthodox cathedral.", "The towers of the cathedral reach a height of approximately 40 meters."],
     },
+    image: "/poi-images/belarus-hlybokaye-church-history-v2.webp",
   },
   {
     id: "belarus-lepiel-church-history-v2",
@@ -1866,6 +1891,7 @@ export const belarusHistoryV2: POI[] = [
       ro: ["Prima biserică de lemn de pe acest loc a fost fondată în 1602 de Lew Sapieha.", "Actualul edificiu din cărămidă a fost finalizat în 1876 în stil neoclasic.", "În timpul erei sovietice, clădirea a servit o perioadă drept depozit.", "Biserica a fost resfințită oficial și redeschisă pentru cult în anul 1993.", "Lepel este situat pe malul pitorescului lac Lepel din regiunea Vitebsk.", "Fațada bisericii este vopsită într-o nuanță caracteristică de galben."],
       en: ["The first wooden church at this location was founded in 1602 by Lew Sapieha.", "The current brick building was completed in 1876 in the Neoclassical style.", "During the Soviet period, the building was used as a warehouse for a time.", "The church was officially reconsecrated and reopened for services in 1993.", "Lepiel is located on the shores of the scenic Lake Lepiel in the Vitebsk region.", "The facade of the church is finished in a characteristic yellow hue."],
     },
+    image: "/poi-images/belarus-lepiel-church-history-v2.webp",
   },
   {
     id: "belarus-ivanava-church-history-v2",
@@ -1898,6 +1924,7 @@ export const belarusHistoryV2: POI[] = [
       ro: ["Biserica a fost construită din cărămidă în anul 1848.", "Locul este celebru pentru martiriul Sfântului Andrei Bobola în anul 1657.", "Arhitectura urmează liniile clare ale neoclasicismului târziu.", "Ivanava este situată în inima regiunii geografice Polesie.", "În biserică se află o pictură semnificativă care reprezintă răstignirea lui Iisus.", "Parohia aparține de Dieceza de Pinsk și este un protopopiat regional important."],
       en: ["The church was constructed from brick in the year 1848.", "The site is famous for the martyrdom of St. Andrew Bobola in 1657.", "The architecture follows the clean lines of Late Neoclassicism.", "Ivanava is located in the heart of the geographical region of Polesie.", "A significant painting depicting the crucifixion of Jesus is housed in the church.", "The parish belongs to the Diocese of Pinsk and is an important regional deanery."],
     },
+    image: "/poi-images/belarus-ivanava-church-history-v2.webp",
   },
   {
     id: "belarus-slutsk-gymnasium-history-v2",
@@ -1930,6 +1957,7 @@ export const belarusHistoryV2: POI[] = [
       ro: ["Gimnaziul a fost fondat pe 20 mai 1617 de către Janusz Radziwill.", "Este cea mai veche școală din țară și a celebrat 400 de ani de activitate în 2017.", "Clădirea a fost reconstruită în secolul al XIX-lea în stilul neoclasicismului rus.", "Absolvenți celebri includ inventatorul Witold Ceraski și filozoful Edward Abramowski.", "În secolul al XVII-lea, școala deținea una dintre cele mai mari biblioteci din regiune.", "Instituția a supraviețuit numeroaselor războaie, rămânând constant un focar de cultură."],
       en: ["The gymnasium was founded on May 20, 1617, by Janusz Radziwill.", "It is the oldest school in the country and celebrated its 400th anniversary in 2017.", "The building was rebuilt in the 19th century in the Russian Neoclassical style.", "Famous alumni include the inventor Witold Ceraski and the philosopher Edward Abramowski.", "In the 17th century, the school possessed one of the largest libraries in the region.", "The institution survived numerous wars and always remained a place of knowledge."],
     },
+    image: "/poi-images/belarus-slutsk-gymnasium-history-v2.webp",
   },
   {
     id: "belarus-kastsyukovichy-church-history-v2",
@@ -1962,6 +1990,7 @@ export const belarusHistoryV2: POI[] = [
       ro: ["Actuala biserică din cărămidă a fost construită spre sfârșitul secolului al XIX-lea.", "Kastsyukovichy se află în regiunea Mogilev, aproape de granița cu Rusia.", "Arhitectura combină elemente ale stilului neorus cu arta locală a zidarilor.", "În anii 1930, biserica a fost închisă oficial pentru serviciul religios.", "Restaurarea interiorului a început intens la începutul anilor 1990.", "Clădirea este considerată unul dintre cele mai importante monumente arhitecturale ale orașului."],
       en: ["The current brick church was built towards the end of the 19th century.", "Kastsyukovichy is located in the Mogilev region, near the border with Russia.", "The architecture combines elements of the Neo-Russian style with local brickwork.", "In the 1930s, the church was officially closed for religious services.", "The restoration of the interior began intensively in the early 1990s.", "The building is considered one of the most important architectural monuments in the city."],
     },
+    image: "/poi-images/belarus-kastsyukovichy-church-history-v2.webp",
   },
   {
     id: "belarus-volozhyn-palace-history-v2",
@@ -1994,6 +2023,7 @@ export const belarusHistoryV2: POI[] = [
       ro: ["Construcția palatului a avut loc sub Józef Tyszkiewicz între 1803 și 1806.", "Complexul cuprinde palatul principal, clădiri utilitare și un parc.", "Arhitectura este un exemplu pur al neoclasicismului matur.", "Valozhyn a fost un centru economic important sub stăpânirea familiei Tyszkiewicz.", "În secolul al XIX-lea, palatul adăpostea o colecție de artă semnificativă.", "Astăzi, o parte a clădirii este utilizată în scopuri administrative de stat."],
       en: ["The construction of the palace took place under Józef Tyszkiewicz between 1803 and 1806.", "The complex includes the main palace, outbuildings, and a park.", "The architecture is a pure example of mature Neoclassicism.", "Volozhyn was an important economic center under the Tyszkiewicz family.", "In the 19th century, the palace housed a significant art collection.", "Today, a part of the building is used for state administrative purposes."],
     },
+    image: "/poi-images/belarus-volozhyn-palace-history-v2.webp",
   },
   {
     id: "belarus-vileyka-church-history-v2",
@@ -2026,5 +2056,6 @@ export const belarusHistoryV2: POI[] = [
       ro: ["Biserica a fost construită între 1906 și 1913 din cărămidă galbenă.", "Arhitectul clădirii a fost renumitul August Klein.", "Stilul arhitectural este neogotic, recunoscut după turnurile ascuțite.", "În era sovietică, clădirea a servit periodic drept siloz de cereale.", "Vileyka este situată pe malul râului Viliya, în nord-vestul Belarusului.", "Biserica a fost retrocedată comunității catolice în anul 1990."],
       en: ["The church was built between 1906 and 1913 using yellow brick.", "The architect of the building was the renowned August Klein.", "The architectural style is Neo-Gothic, recognizable by its pointed towers.", "During the Soviet period, the building served as a grain store for a time.", "Vileyka is located on the banks of the Viliya River in northwestern Belarus.", "The church was returned to the Catholic community in 1990."],
     },
+    image: "/poi-images/belarus-vileyka-church-history-v2.webp",
   }
 ];

@@ -32,6 +32,7 @@ export const bulgariaLandmarksV2: POI[] = [
       ro: ["Fondată în anul 1083 de Grigore Pakourianos", "A doua cea mai mare mănăstire din Bulgaria", "Osuar cu fresce bizantine din secolul al XII-lea", "Biserica principală a fost reconstruită în 1604", "Găzduiește o icoană făcătoare de minuni a Maicii Domnului", "Inclusă pe lista de patrimoniu mondial tentativă UNESCO"],
       en: ["Founded in 1083 by Gregory Pakourianos", "Second largest monastery in Bulgaria", "Contains an ossuary with 12th-century frescoes", "Main church dedicated to the Virgin Mary built in 1604", "Houses a miraculous icon dated to 1311", "On the UNESCO World Heritage tentative list"],
     },
+    image: "/poi-images/bulgaria-bachkovo-monastery-landmarks-v2.webp",
   },
   {
     id: "bulgaria-thracian-tomb-sveshtari-landmarks-v2",
@@ -64,6 +65,7 @@ export const bulgariaLandmarksV2: POI[] = [
       ro: ["Descoperit în anul 1982 lângă Sveștari", "Datat în secolul al III-lea î.Hr.", "Inclus în patrimoniul mondial UNESCO în 1985", "Prezintă 10 cariatide unice sculptate în relief", "Aparține unui conducător al tribului geților", "Construit din blocuri mari de calcar fără mortar"],
       en: ["Discovered in 1982 near the village of Sveshtari", "Dates from the 3rd century BC", "UNESCO World Heritage site since 1985", "Features 10 unique caryatids (female figures)", "Believed to belong to a Getae Thracian ruler", "Consists of three chambers built from limestone"],
     },
+    image: "/poi-images/bulgaria-thracian-tomb-sveshtari-landmarks-v2.webp",
   },
   {
     id: "bulgaria-koprinka-dam-monument-landmarks-v2",
@@ -96,6 +98,7 @@ export const bulgariaLandmarksV2: POI[] = [
       ro: ["Construit între anii 1947 și 1954 pe râul Tundja", "Inundă ruinele fostei capitale trace Seuthopolis", "Lungimea peretelui barajului este de peste 600 m", "Înălțimea barajului atinge 44 de metri", "Situat în Valea Trandafirilor, lângă Kazanlak", "Sursă majoră de energie hidroelectrică și irigații"],
       en: ["Built between 1947 and 1954 on the Tundzha River", "Submerged the ancient Thracian capital Seuthopolis", "Dam wall length exceeds 600 meters", "The dam reaches a height of 44 meters", "Located in the Rose Valley near Kazanlak", "Crucial for irrigation and hydroelectric power generation"],
     },
+    image: "/poi-images/bulgaria-koprinka-dam-monument-landmarks-v2.webp",
   },
   {
     id: "bulgaria-shipka-memorial-church-landmarks-v2",
@@ -128,6 +131,7 @@ export const bulgariaLandmarksV2: POI[] = [
       ro: ["Construită între anii 1885 și 1902", "Turnul clopotniță are 53 de metri înălțime", "Adăpostește 17 clopote, cel mai mare având 12 tone", "Clopotele sunt turnate din tunuri otomane capturate", "Monument dedicat eroilor războiului din 1877-1878", "Proiectată de arhitectul rus Anton Tomishko"],
       en: ["Built between 1885 and 1902", "Bell tower stands 53 meters high", "Houses 17 bells (the largest weighs 12 tons)", "Bells were cast from captured Ottoman cannons", "Dedicated to the fallen of the 1877-78 war", "Designed in the 17th-century Russian Orthodox style"],
     },
+    image: "/poi-images/bulgaria-shipka-memorial-church-landmarks-v2.webp",
   },
   {
     id: "bulgaria-rzhava-monastery-landmarks-v2",
@@ -160,6 +164,7 @@ export const bulgariaLandmarksV2: POI[] = [
       ro: ["Fondată tradițional în secolul al XI-lea", "Singura biserică cu șapte altare separate", "Situată la poalele munților Rjana", "Refugiu pentru revoluționari în timpul ocupației otomane", "Loc de inspirație pentru scriitorul Ivan Vazov", "Complexul include o clopotniță din secolul al XIX-lea"],
       en: ["Traditionally founded in the 11th century", "The only church with seven separate altars", "Located at the foot of Rzhana Mountain", "A refuge for revolutionaries during Ottoman rule", "Frequent destination for writer Ivan Vazov", "Features 19th-century residential buildings and a bell tower"],
     },
+    image: "/poi-images/bulgaria-rzhava-monastery-landmarks-v2.webp",
   },
   {
     id: "bulgaria-basarbovo-monastery-landmarks-v2",
@@ -192,6 +197,7 @@ export const bulgariaLandmarksV2: POI[] = [
       ro: ["Singura mănăstire rupestră activă din Bulgaria", "Fondată în secolul al XV-lea", "Dedicată Sfântului Dimitrie Basarbov", "Moaștele sfântului se află la București din 1774", "Capela și chiliile sunt sculptate în calcar", "Situată în parcul natural Rusenski Lom"],
       en: ["The only active rock-hewn monastery in Bulgaria", "Founded in the 15th century", "Dedicated to Saint Dimitar Basarbovski", "The saint's relics are kept in Bucharest since 1774", "Features a chapel carved into the limestone cliff", "Located in the Rusenski Lom Nature Park near Ruse"],
     },
+    image: "/poi-images/bulgaria-basarbovo-monastery-landmarks-v2.webp",
   },
   {
     id: "bulgaria-rozhen-monastery-landmarks-v2",
@@ -224,6 +230,7 @@ export const bulgariaLandmarksV2: POI[] = [
       ro: ["Cea mai mare mănăstire din Munții Pirin", "Fondată probabil în secolul al XIII-lea", "Adăpostește vitralii din anul 1715", "Picturi murale din 1732 în biserica principală", "Mormântul lui Iane Sandanski se află în apropiere", "Situată lângă faimoasele piramide de nisip din Melnik"],
       en: ["Largest monastery in the Pirin Mountains", "Likely founded in the 13th century", "Features stained glass windows from 1715", "Main church frescoes date back to 1732", "The tomb of Yane Sandanski is located nearby", "Situated near the unique Melnik sand pyramids"],
     },
+    image: "/poi-images/bulgaria-rozhen-monastery-landmarks-v2.webp",
   },
   {
     id: "bulgaria-vitosha-boyana-waterfall-landmarks-v2",
@@ -256,6 +263,7 @@ export const bulgariaLandmarksV2: POI[] = [
       ro: ["Cea mai înaltă cascadă din munții Vitosha", "Înălțimea căderii de apă este de aproximativ 25 metri", "Debitul maxim este atins în lunile de primăvară", "Devine un loc de escaladă pe gheață în timpul iernii", "Accesibilă prin două trasee montane diferite", "Parte a celui mai vechi parc natural din Balcani"],
       en: ["Highest waterfall in the Vitosha Mountain range", "Features a vertical drop of approximately 25 meters", "Peak water flow occurs during snowmelt in late spring", "Frequently freezes in winter, used for ice climbing", "Accessible via two distinct hiking trails from Sofia", "Located within the oldest nature park in the Balkans"],
     },
+    image: "/poi-images/bulgaria-vitosha-boyana-waterfall-landmarks-v2.webp",
   },
   {
     id: "bulgaria-pernik-fortress-ruins-landmarks-v2",
@@ -288,6 +296,7 @@ export const bulgariaLandmarksV2: POI[] = [
       ro: ["Fortăreață crucială din secolele X și XI", "Apărată de legendarul boier Krakra de Pernik", "A rezistat asediilor bizantine din 1004 și 1016", "Conține vestigiile a șapte biserici medievale", "Poziționată strategic pe râul Struma", "Sursă de vederi panoramice asupra orașului Pernik"],
       en: ["Significant fortress from the 10th and 11th centuries", "Defended by boyar Krakra against the Byzantines", "Withstood major sieges in 1004 and 1016", "Site contains the ruins of seven medieval churches", "Strategically located above the Struma River", "Currently an archaeological reserve with panoramic views"],
     },
+    image: "/poi-images/bulgaria-pernik-fortress-ruins-landmarks-v2.webp",
   },
   {
     id: "bulgaria-tsar-samuil-monument-landmarks-v2",
@@ -320,6 +329,7 @@ export const bulgariaLandmarksV2: POI[] = [
       ro: ["Inaugurat la 8 iunie 2015 în orașul Sofia", "Statuia are o înălțime totală de 6,2 metri", "Sculptorul monumentului este Alexander Haitov", "Ochii luminează noaptea prin tehnologie LED", "Locația este piața de lângă Biserica Sf. Sofia", "Ridicat la 1000 de ani de la moartea țarului"],
       en: ["Inaugurated on June 8, 2015, in central Sofia", "The bronze statue stands 6.2 meters tall", "The monument was crafted by sculptor Alexander Haitov", "The eyes feature light-emitting diodes for night illumination", "Located in the square adjacent to Saint Sophia Church", "Commemorates the 1000th anniversary of the Tsar's death"],
     },
+    image: "/poi-images/bulgaria-tsar-samuil-monument-landmarks-v2.webp",
   },
   {
     id: "bulgaria-kalofer-hristo-botev-landmarks-v2",
@@ -352,6 +362,7 @@ export const bulgariaLandmarksV2: POI[] = [
       ro: ["Inaugurarea complexului a avut loc în 1986", "Statuia este realizată din granit masiv", "Înălțimea totală a monumentului este de 14,5 metri", "Exact 444 de trepte conduc către platformă", "Kalofer este orașul natal al lui Hristo Botev", "Loc central de comemorare pe data de 2 iunie"],
       en: ["The memorial complex was inaugurated in 1986", "The statue is carved from solid gray granite", "The total height of the monument is 14.5 meters", "Exactly 444 stone steps lead up to the memorial", "Kalofer is the historic birthplace of Hristo Botev", "Acts as the central site for June 2nd national honors"],
     },
+    image: "/poi-images/bulgaria-kalofer-hristo-botev-landmarks-v2.webp",
   },
   {
     id: "bulgaria-st-george-cathedral-plovdiv-landmarks-v2",
@@ -384,6 +395,7 @@ export const bulgariaLandmarksV2: POI[] = [
       ro: ["Construcția actuală a fost finalizată în 1848", "Deține un iconostas aurit realizat la Samokov", "Turnul clopotniță a fost adăugat în anul 1903", "Înălțimea turnului clopotniță este de 31 metri", "Sediul Mitropoliei Eparhiei de Plovdiv", "Găzduiește icoane valoroase din secolul al XVIII-lea"],
       en: ["The present church structure was finished in 1848", "Features a gilded iconostasis from the Samokov School", "The bell tower was constructed in 1903", "The height of the bell tower reaches 31 meters", "Serves as the seat of the Plovdiv Metropolis", "Contains significant icons from the 18th century"],
     },
+    image: "/poi-images/bulgaria-st-george-cathedral-plovdiv-landmarks-v2.webp",
   },
   {
     id: "bulgaria-st-archangel-michael-church-landmarks-v2",
@@ -416,6 +428,7 @@ export const bulgariaLandmarksV2: POI[] = [
       ro: ["Fondată inițial în secolul al XII-lea de familia Asan", "Construcția actuală a fost ridicată în anul 1819", "Iconostasul școlii din Tryavna a fost finalizat în 1839", "Situată în centrul istoric al orașului Tryavna", "Este considerată cea mai veche biserică din zonă", "Sculpturile în lemn redau peste 20 de scene biblice"],
       en: ["Originally founded in the 12th century by the Asens", "The current structure was rebuilt in 1819", "Features a famous Tryavna-style iconostasis from 1839", "Located in the historic center of Tryavna town", "Regarded as the oldest church in the Tryavna region", "The woodcarvings depict more than 20 biblical scenes"],
     },
+    image: "/poi-images/bulgaria-st-archangel-michael-church-landmarks-v2.webp",
   },
   {
     id: "bulgaria-varna-dormition-cathedral-landmarks-v2",
@@ -448,6 +461,7 @@ export const bulgariaLandmarksV2: POI[] = [
       ro: ["Piatra de temelie pusă de Principele Alexandru I în 1880", "Inaugurarea oficială a avut loc în anul 1886", "Cupolele au fost suflate cu aur în anul 2000", "A doua cea mai mare catedrală din Bulgaria", "Picturile murale interioare datează din anii 1950", "Sediul Mitropoliei de Varna și Preslav"],
       en: ["Foundation stone laid by Prince Alexander I in 1880", "Official consecration took place in 1886", "The domes were plated with gold in the year 2000", "Stands as the second largest cathedral in Bulgaria", "The interior wall paintings date back to the 1950s", "Seat of the Metropolis of Varna and Preslav"],
     },
+    image: "/poi-images/bulgaria-varna-dormition-cathedral-landmarks-v2.webp",
   },
   {
     id: "bulgaria-veliko-tarnovo-art-gallery-landmarks-v2",
@@ -480,6 +494,7 @@ export const bulgariaLandmarksV2: POI[] = [
       ro: ["Fondarea galeriei de artă a avut loc în 1934", "Găzduiește peste 5.000 de opere de artă diferite", "Poartă numele pictorului bulgar Boris Denev", "Situată pe peninsula de lângă monumentul Asăneștilor", "Clădirea este construită în stil neoclasic", "Oferă vedere spre cetatea Țareveț și râul Iantra"],
       en: ["The art gallery was established in 1934", "Houses a collection of over 5,000 individual works", "Named after the Bulgarian painter Boris Denev", "Located on the peninsula by the Asenevtsi Monument", "The building features neoclassical architectural style", "Offers views of Tsarevets Fortress and the Yantra River"],
     },
+    image: "/poi-images/bulgaria-veliko-tarnovo-art-gallery-landmarks-v2.webp",
   },
   {
     id: "bulgaria-st-nedelya-church-sofia-landmarks-v2",
@@ -512,6 +527,7 @@ export const bulgariaLandmarksV2: POI[] = [
       ro: ["Biserica actuală de piatră a fost finalizată în 1863", "Victima unui atentat cu bombă la 16 aprilie 1925", "Cupola centrală atinge o înălțime de 30 de metri", "Adăpostește moaștele regelui Ștefan Milutin", "Picturile murale au fost restaurate în 1971-1973", "Construită pe fundațiile unei biserici de lemn"],
       en: ["The current stone church was completed in 1863", "Target of a major bombing on April 16, 1925", "The central dome rises to a height of 30 meters", "Houses the relics of Serbian King Stefan Milutin", "Interior murals were restored between 1971 and 1973", "Built upon the foundations of a 10th-century church"],
     },
+    image: "/poi-images/bulgaria-st-nedelya-church-sofia-landmarks-v2.webp",
   },
   {
     id: "bulgaria-rila-monastery-entrance-landmarks-v2",
@@ -544,6 +560,7 @@ export const bulgariaLandmarksV2: POI[] = [
       ro: ["Există două porți principale: Dupnitsa și Samokov", "Porțile sunt realizate din stejar masiv ferecat", "Zidurile exterioare au o înălțime de până la 24 metri", "Grosimea zidurilor de apărare ajunge la 2 metri", "Inclusă în patrimoniul UNESCO din anul 1983", "Porțile actuale datează din reconstrucția după 1833"],
       en: ["The complex features two main gates: Dupnitsa and Samokov", "The gates are crafted from solid, iron-reinforced oak", "The defensive outer walls rise up to 24 meters high", "Wall thickness reaches up to 2 meters in some sections", "Designated a UNESCO World Heritage site in 1983", "Current gates date from the post-1833 reconstruction"],
     },
+    image: "/poi-images/bulgaria-rila-monastery-entrance-landmarks-v2.webp",
   },
   {
     id: "bulgaria-banya-mineral-baths-landmarks-v2",
@@ -576,6 +593,7 @@ export const bulgariaLandmarksV2: POI[] = [
       ro: ["În Banya există 72 de izvoare termale naturale", "Temperatura apei variază între 37 și 58 °C", "Vestigii ale băilor romane din secolul al III-lea", "Se păstrează o baie turcească din secolul al XVI-lea", "Situat la o altitudine de aproximativ 800 de metri", "Apa minerală are un conținut ridicat de fluor și sulf"],
       en: ["Banya is home to 72 natural thermal springs", "Water temperatures range between 37°C and 58°C", "Contains Roman bath ruins dating to the 3rd century", "A 16th-century Turkish bath remains well-preserved", "Located at an elevation of roughly 800 meters", "The mineral water is rich in fluorine and sulfur"],
     },
+    image: "/poi-images/bulgaria-banya-mineral-baths-landmarks-v2.webp",
   },
   {
     id: "bulgaria-st-panteleimon-church-landmarks-v2",
@@ -608,6 +626,7 @@ export const bulgariaLandmarksV2: POI[] = [
       ro: ["Faze de construcție din secolele XI, XIII și XIX", "Frescele celebre au fost finalizate în anul 1259", "Inclusă în patrimoniul UNESCO din anul 1979", "Situată în cartierul Boiana de la poalele Vitosha", "Ctitorul frescelor a fost sebastocratorul Kalojan", "Conține 240 de reprezentări de figuri umane"],
       en: ["Construction phases span the 11th, 13th, and 19th centuries", "The world-famous frescoes were completed in 1259", "Designated as a UNESCO World Heritage site in 1979", "Located in the Boyana district at the foot of Vitosha", "Murals were commissioned by Sebastocrator Kaloyan", "Features 240 distinct depictions of human figures"],
     },
+    image: "/poi-images/bulgaria-st-panteleimon-church-landmarks-v2.webp",
   },
   {
     id: "bulgaria-dobrich-history-museum-landmarks-v2",
@@ -640,6 +659,7 @@ export const bulgariaLandmarksV2: POI[] = [
       ro: ["Fondat în anul 1953 ca muzeu regional de istorie.", "Găzduiește peste 163.000 de unități de inventar individuale.", "Administrează descoperiri din necropola de la Durankulak (mileniul V î.Hr.).", "Clădirea principală este situată în parcul central 'Sf. Gheorghe'.", "Deține o colecție importantă privind problema Dobrogei (1878–1940).", "Întreține o galerie specializată de pictură de icoane din regiune."],
       en: ["Founded in 1953 as a regional history museum.", "Houses more than 163,000 individual inventory units.", "Manages artifacts from the Durankulak necropolis (5th millennium BC).", "The main building is located in the central 'St. George' city park.", "Features a significant collection on the Dobruja Question (1878–1940).", "Maintains a specialized gallery for icon painting from the region."],
     },
+    image: "/poi-images/bulgaria-dobrich-history-museum-landmarks-v2.webp",
   },
   {
     id: "bulgaria-st-apostles-church-landmarks-v2",
@@ -672,6 +692,7 @@ export const bulgariaLandmarksV2: POI[] = [
       ro: ["Construită în secolele XIII-XIV, în timpul celui de-al Doilea Imperiu Bulgar.", "Situată în punctul nord-estic al orașului vechi Sozopol.", "A făcut parte dintr-o mănăstire dedicată Sfinților Apostoli.", "Excavarea arheologică și restaurarea au început în anul 2003.", "Are o structură de bazilică cu trei nave și fațadă caracteristică.", "În apropiere au fost găsite morminte ale unor demnitari din Evul Mediu."],
       en: ["Built in the 13th to 14th centuries during the Second Bulgarian Empire.", "Located at the northeastern point of Sozopol's Old Town.", "Was part of a monastery dedicated to the Holy Apostles.", "Archaeological excavation and restoration began in 2003.", "Features a three-nave basilica structure with a decorative facade.", "Medieval tombs of high-ranking officials were discovered nearby."],
     },
+    image: "/poi-images/bulgaria-st-apostles-church-landmarks-v2.webp",
   },
   {
     id: "bulgaria-vratza-history-museum-landmarks-v2",
@@ -704,6 +725,7 @@ export const bulgariaLandmarksV2: POI[] = [
       ro: ["Fondat în anul 1953 ca succesor al unor colecții locale anterioare.", "Găzduiește tezaurul de la Rogozen, format din 165 de vase de argint.", "Expune o coroană de lauri din aur din secolul al IV-lea î.Hr.", "Deține o colecție unică de armuri și care de luptă tracice.", "Secția etnografică este situată într-un complex separat.", "Muzeul înregistrează anual zeci de mii de vizitatori din întreaga lume."],
       en: ["Established in 1953, succeeding earlier local collections.", "Houses the Rogozen Treasure, comprised of 165 silver vessels.", "Displays a golden laurel wreath dating back to the 4th century BC.", "Features a unique collection of Thracian armor and chariots.", "The ethnographic department is located in a separate complex.", "The museum attracts tens of thousands of international visitors annually."],
     },
+    image: "/poi-images/bulgaria-vratza-history-museum-landmarks-v2.webp",
   },
   {
     id: "bulgaria-kardzhali-museum-landmarks-v2",
@@ -736,6 +758,7 @@ export const bulgariaLandmarksV2: POI[] = [
       ro: ["Clădirea a fost construită între anii 1922 și 1930.", "Arhitectul Pomeranțev a proiectat și Catedrala Alexandru Nevski.", "Găzduiește peste 40.000 de exponate în trei secțiuni principale.", "Expune descoperiri din orașul antic Perperikon (mileniul VI î.Hr.).", "Parcul muzeului se întinde pe o suprafață de 22 de hectare.", "Deține una dintre cele mai mari colecții de agate din Europa."],
       en: ["The building was constructed between 1922 and 1930.", "Architect Pomerantsev also designed the Alexander Nevsky Cathedral.", "Houses over 40,000 exhibits across three main departments.", "Displays artifacts from the ancient city of Perperikon (6th millennium BC).", "The museum's park covers an area of 22 hectares.", "Features one of the largest collections of agates in Europe."],
     },
+    image: "/poi-images/bulgaria-kardzhali-museum-landmarks-v2.webp",
   },
   {
     id: "bulgaria-yambol-bezisten-landmarks-v2",
@@ -768,6 +791,7 @@ export const bulgariaLandmarksV2: POI[] = [
       ro: ["Construit în anul 1509 sau 1510 sub sultanul Bayezid al II-lea.", "Considerat una dintre cele mai importante clădiri laice otomane din Bulgaria.", "Clădirea are 12 cupole cu înveliș de plumb.", "A fost dotat în 2015 cu tehnologii interactive moderne.", "A servit temporar ca depozit de arme în secolul al XIX-lea.", "Muzeul oferă tururi virtuale prin istoria orașului Iambol."],
       en: ["Built in 1509 or 1510 during the reign of Sultan Bayezid II.", "Considered one of the most significant Ottoman secular buildings in Bulgaria.", "The building features 12 domes originally covered with lead.", "Upgraded in 2015 with modern interactive museum technologies.", "Served as a weapons depot for a period during the 19th century.", "The museum offers virtual tours through the history of Yambol."],
     },
+    image: "/poi-images/bulgaria-yambol-bezisten-landmarks-v2.webp",
   },
   {
     id: "bulgaria-stara-zagora-history-museum-landmarks-v2",
@@ -800,5 +824,6 @@ export const bulgariaLandmarksV2: POI[] = [
       ro: ["Fondat în anul 1907 de către societatea arheologică locală.", "Noua clădire a muzeului a fost inaugurată la 3 martie 2009.", "Găzduiește peste 100.000 de unități de inventar din toate epocile.", "Conține o stradă romană originală din secolul al II-lea d.Hr.", "Administrează locuințele neolitice ale orașului, listate UNESCO.", "A fost nominalizat pentru designul său la 'Muzeul European al Anului'."],
       en: ["Founded in 1907 by the local archaeological society.", "The new museum building was officially opened on March 3, 2009.", "Houses over 100,000 inventory items from various historical periods.", "Contains an original Roman street dating back to the 2nd century AD.", "Manages the UNESCO-listed Neolithic dwellings located in the city.", "Was nominated for the 'European Museum of the Year' award for its design."],
     },
+    image: "/poi-images/bulgaria-stara-zagora-history-museum-landmarks-v2.webp",
   }
 ];

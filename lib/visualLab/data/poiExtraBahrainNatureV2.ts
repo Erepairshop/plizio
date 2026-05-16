@@ -31,6 +31,7 @@ export const bahrainNatureV2: POI[] = [
       ro: ["Altitudine 134 m", "Cel mai înalt punct din Bahrain", "Geologie: calcar, dolomit", "Peștera Majlis al-Jinn (12 m adâncime)", "Fosile miocene", "Locație: lângă Awali"],
       en: ["Height 134 m", "Highest point in Bahrain", "Geology: limestone, dolomite", "Cave: Majlis al-Jinn (12 m deep)", "Miocene fossils", "Location: near Awali"],
     },
+    image: "/poi-images/bahrain-jabal-ad-dukhan-nature-v2.webp",
   },
   {
     id: "bahrain-hawar-island-nature-v2",
@@ -62,6 +63,7 @@ export const bahrainNatureV2: POI[] = [
       ro: ["Suprafață 50 km²", "Lungime 16 km, lățime 7 km", "Cormoran Socotra: 200.000 perechi", "Sit Ramsar din 1997", "Distanță 20 km", "Acces restricționat"],
       en: ["Area 50 km²", "Length 16 km, width 7 km", "Socotra cormorant: 200,000 breeding pairs", "Ramsar site since 1997", "Distance 20 km", "Restricted access"],
     },
+    image: "/poi-images/bahrain-hawar-island-nature-v2.webp",
   },
   {
     id: "bahrain-suwad-al-shamaliyya-nature-v2",
@@ -93,6 +95,7 @@ export const bahrainNatureV2: POI[] = [
       ro: ["Suprafață 0,5 km²", "Nelocuită", "Nisip calcaros", "Loc de cuibărit pentru păsări", "Raze și murene", "Accesibilă doar cu barca"],
       en: ["Area 0.5 km²", "Uninhabited", "Carbonate sand", "Seabird breeding site", "Stingrays and moray eels", "Accessible only by boat"],
     },
+    image: "/poi-images/bahrain-suwad-al-shamaliyya-nature-v2.webp",
   },
   {
     id: "bahrain-suwad-al-janubiyya-nature-v2",
@@ -124,6 +127,7 @@ export const bahrainNatureV2: POI[] = [
       ro: ["Suprafață 0,4 km²", "Nelocuită", "Nisip coralifer", "Loc de popas pentru păsări", "Pești papagal și pești curățători", "Populară pentru caiac"],
       en: ["Area 0.4 km²", "Uninhabited", "Coral sand", "Migratory bird stopover", "Parrotfish and cleaner wrasse", "Popular kayaking destination"],
     },
+    image: "/poi-images/bahrain-suwad-al-janubiyya-nature-v2.webp",
   },
   {
     id: "bahrain-rubud-al-sharqiyya-nature-v2",
@@ -155,6 +159,7 @@ export const bahrainNatureV2: POI[] = [
       ro: ["Suprafață 0,3 km²", "Nelocuită", "Nisip și fragmente de corali", "Loc de cuibărit pentru ploieri", "Pajiști marine pentru dugongi", "Dificil de accesat"],
       en: ["Area 0.3 km²", "Uninhabited", "Sand and coral rubble", "Nesting site for Kentish plover", "Seagrass beds for dugongs", "Difficult access"],
     },
+    image: "/poi-images/bahrain-rubud-al-sharqiyya-nature-v2.webp",
   },
   {
     id: "bahrain-rubud-al-gharbiyya-nature-v2",
@@ -186,6 +191,7 @@ export const bahrainNatureV2: POI[] = [
       ro: ["Suprafață 0,2 km²", "Cea mai mică din grupul Rubud", "Nisip și scoici", "Canale de maree", "Crabi și moluște", "Lângă Askar"],
       en: ["Area 0.2 km²", "Smallest of Rubud group", "Sand and shell debris", "Tidal channels", "Crabs and mollusks", "Near Askar"],
     },
+    image: "/poi-images/bahrain-rubud-al-gharbiyya-nature-v2.webp",
   },
   {
     id: "bahrain-umm-an-nasan-nature-v2",
@@ -217,6 +223,7 @@ export const bahrainNatureV2: POI[] = [
       ro: ["Zonă naturală a insulei", "Cormoran Socotra: 1.000 perechi", "Stânci de calcar", "Peste 50 de specii de moluște", "Vulpi roșii și iepuri", "Permis de cercetare necesar"],
       en: ["Natural zone of island", "Socotra cormorant: 1,000 breeding pairs", "Limestone cliffs", "50+ mollusk species", "Red foxes and hares", "Research permit required"],
     },
+    image: "/poi-images/bahrain-umm-an-nasan-nature-v2.webp",
   },
   {
     id: "bahrain-jidda-island-nature-v2",
@@ -248,6 +255,7 @@ export const bahrainNatureV2: POI[] = [
       ro: ["Suprafață 0,6 km²", "Distanță Manama 10 km", "Nelocuită", "Recife de corali", "Peste 200 de specii de pești", "Vizibilitate subacvatică 10-15 m"],
       en: ["Area 0.6 km²", "Distance Manama 10 km", "Uninhabited", "Coral reefs", "Over 200 fish species", "Underwater visibility 10-15 m"],
     },
+    image: "/poi-images/bahrain-jidda-island-nature-v2.webp",
   },
   {
     id: "bahrain-al-jazaer-beach-nature-v2",
@@ -279,6 +287,7 @@ export const bahrainNatureV2: POI[] = [
       ro: ["Lungime 1,5 km", "Distanță Manama 12 km", "Nisip fin alb", "Apă puțin adâncă", "Intrare cu taxă", "Renovări în 2022"],
       en: ["Length 1.5 km", "Distance Manama 12 km", "Fine white sand", "Shallow water", "Entry fee required", "Renovated in 2022"],
     },
+    image: "/poi-images/bahrain-al-jazaer-beach-nature-v2.webp",
   },
   {
     id: "bahrain-fasht-al-jarim-nature-v2",
@@ -310,6 +319,7 @@ export const bahrainNatureV2: POI[] = [
       ro: ["Suprafață peste 100 km²", "Distanță Manama 40 km", "Adâncime 1-6 m", "Habitat pentru dugong", "Peste 150 de specii de pești", "Afectat de albirea coralilor"],
       en: ["Area over 100 km²", "Distance Manama 40 km", "Water depth 1-6 m", "Dugong habitat", "Over 150 fish species", "Coral bleaching affected"],
     },
+    image: "/poi-images/bahrain-fasht-al-jarim-nature-v2.webp",
   },
   {
     id: "bahrain-wadi-al-buhair-nature-v2",
@@ -341,6 +351,7 @@ export const bahrainNatureV2: POI[] = [
       ro: ["Lungime 5 km", "Vale uscată", "Curs de apă sezonier", "Salcâmi", "Popular pentru off-road", "Fără sursă permanentă de apă"],
       en: ["Length 5 km", "Dry wadi", "Seasonal water flow", "Acacia trees", "Popular for off-roading", "No permanent water source"],
     },
+    image: "/poi-images/bahrain-wadi-al-buhair-nature-v2.webp",
   },
   {
     id: "bahrain-ras-al-bar-nature-v2",
@@ -372,6 +383,7 @@ export const bahrainNatureV2: POI[] = [
       ro: ["Rezervația are o suprafață de aproximativ 5 km².", "Adăpostește peste 50 de specii de păsări migratoare anual.", "Mangrovele pot atinge o înălțime de până la 3 metri.", "Salinitatea solului ajunge la 40 ppt.", "Zona a fost desemnată rezervație naturală în 1995.", "Temperatura medie anuală este de 28°C."],
       en: ["The reserve covers about 5 km².", "It hosts over 50 migratory bird species annually.", "Mangroves can reach heights of up to 3 meters.", "Soil salinity reaches up to 40 ppt.", "The area was designated a nature reserve in 1995.", "Average annual temperature is 28°C."],
     },
+    image: "/poi-images/bahrain-ras-al-bar-nature-v2.webp",
   },
   {
     id: "bahrain-umm-jalid-island-nature-v2",
@@ -403,6 +415,7 @@ export const bahrainNatureV2: POI[] = [
       ro: ["Insula are o suprafață de 0,8 km².", "Aproximativ 200 de perechi de pescăruși cuibăresc anual.", "Temperatura apei vara ajunge la 32°C.", "Recifele de corali se întind pe 2 km în jurul insulei.", "Cel mai înalt punct este la 5 metri deasupra nivelului mării.", "Insula face parte din arhipelagul Hawar."],
       en: ["The island covers 0.8 km².", "About 200 pairs of terns breed there annually.", "Water temperature reaches 32°C in summer.", "Coral reefs extend 2 km around the island.", "Highest elevation is 5 meters above sea level.", "The island is part of the Hawar Archipelago."],
     },
+    image: "/poi-images/bahrain-umm-jalid-island-nature-v2.webp",
   },
   {
     id: "bahrain-bu-saadah-island-nature-v2",
@@ -434,6 +447,7 @@ export const bahrainNatureV2: POI[] = [
       ro: ["Insula are 0,5 km².", "Se află la 10 km de coastă.", "Aproximativ 50 de perechi de pelicani creți cuibăresc acolo.", "Înălțimea maximă este de 3 m deasupra nivelului mării.", "Insula face parte din arhipelagul Hawar (neconfirmat oficial).", "Adâncimea medie a apei este de 5 m."],
       en: ["The island covers 0.5 km².", "It is located 10 km from shore.", "About 50 pairs of Dalmatian pelicans breed there.", "Maximum elevation is 3 m above sea level.", "The island is part of the Hawar Archipelago (not officially confirmed).", "Average surrounding water depth is 5 m."],
     },
+    image: "/poi-images/bahrain-bu-saadah-island-nature-v2.webp",
   },
   {
     id: "bahrain-jazirat-al-hamra-nature-v2",
@@ -465,6 +479,7 @@ export const bahrainNatureV2: POI[] = [
       ro: ["Insula are o suprafață de 1,2 km².", "Adăpostește peste 30 de specii de păsări acvatice.", "Amplitudinea mareelor este de până la 1,5 m.", "Mangrovele acoperă aproximativ 40% din insulă.", "Insula se află la 3 km nord de Budaiya.", "Precipitațiile medii anuale sunt de 70 mm."],
       en: ["The island covers 1.2 km².", "It hosts over 30 waterbird species.", "Tidal range reaches up to 1.5 m.", "Mangroves cover about 40% of the island.", "The island is located 3 km north of Budaiya.", "Average annual rainfall is 70 mm."],
     },
+    image: "/poi-images/bahrain-jazirat-al-hamra-nature-v2.webp",
   },
   {
     id: "bahrain-ras-al-qulayah-nature-v2",
@@ -496,6 +511,7 @@ export const bahrainNatureV2: POI[] = [
       ro: ["Linia de coastă se întinde pe 2 km.", "Stâncile ating înălțimi de până la 4 m.", "Adâncimea apei în bălțile de maree este de până la 1 m.", "Au fost identificate 15 specii de pești în bălți.", "Captura anuală de pește este de aproximativ 2 tone.", "Zona este protejată din 2000."],
       en: ["The coastline stretches 2 km.", "Rocks reach heights of up to 4 m.", "Water depth in tidal pools is up to 1 m.", "15 fish species were counted in the pools.", "Annual fish catch is about 2 tons.", "The area has been protected since 2000."],
     },
+    image: "/poi-images/bahrain-ras-al-qulayah-nature-v2.webp",
   },
   {
     id: "bahrain-khor-al-qulayah-nature-v2",
@@ -527,6 +543,7 @@ export const bahrainNatureV2: POI[] = [
       ro: ["Golful are 3 km lungime și până la 500 m lățime.", "Adăpostește 20 de specii de pești care depun icre aici.", "Adâncimea maximă a apei este de 4 m.", "Mangrovele acoperă aproximativ 30% din linia țărmului.", "Aproximativ 10 țestoase marine cuibăresc anual pe plajă.", "Golful a fost desemnat arie protejată în 2005."],
       en: ["The bay is 3 km long and up to 500 m wide.", "It hosts 20 fish species that spawn here.", "Maximum water depth is 4 m.", "Mangroves cover about 30% of the shoreline.", "About 10 sea turtles nest annually on the beach.", "The bay was designated a protected area in 2005."],
     },
+    image: "/poi-images/bahrain-khor-al-qulayah-nature-v2.webp",
   },
   {
     id: "bahrain-jazirat-al-shajirah-nature-v2",
@@ -558,6 +575,7 @@ export const bahrainNatureV2: POI[] = [
       ro: ["Insula are 0,3 km².", "Adăpostește peste 40 de specii de păsări.", "Mangrovele acoperă 70% din suprafața insulei.", "Cel mai înalt punct este la 2 m deasupra nivelului mării.", "Insula se află la 2 km sud de Al Dur.", "Aproximativ 500 de flamingo vizitează insula anual."],
       en: ["The island covers 0.3 km².", "It hosts over 40 bird species.", "Mangroves cover 70% of the island area.", "Highest elevation is 2 m above sea level.", "The island is located 2 km south of Al Dur.", "About 500 flamingos visit the island annually."],
     },
+    image: "/poi-images/bahrain-jazirat-al-shajirah-nature-v2.webp",
   },
   {
     id: "bahrain-umm-al-shajar-nature-v2",
@@ -589,6 +607,7 @@ export const bahrainNatureV2: POI[] = [
       ro: ["Zona umedă are 4 km².", "Adăpostește aproximativ 20 de dugongi.", "Pajiștile marine acoperă 60% din suprafață.", "Anual cuibăresc aici 15 țestoase marine.", "Adâncimea medie a apei este de 2 m.", "Zona a fost declarată arie protejată în 1998."],
       en: ["The wetland covers 4 km².", "It hosts about 20 dugongs.", "Seagrass beds cover 60% of the area.", "15 sea turtles nest here annually.", "Average water depth is 2 m.", "The area was declared a protected site in 1998."],
     },
+    image: "/poi-images/bahrain-umm-al-shajar-nature-v2.webp",
   },
   {
     id: "bahrain-fasht-al-dibal-nature-v2",
@@ -620,6 +639,7 @@ export const bahrainNatureV2: POI[] = [
       ro: ["Reciful se întinde pe 8 km².", "Adăpostește 120 de specii de pești.", "Adâncimea medie a apei este de 10 m.", "Acoperirea coralilor este de 40%.", "Există 35 de specii de corali în recif.", "Temperatura apei vara este de 30°C."],
       en: ["The reef covers 8 km².", "It hosts 120 fish species.", "Average water depth is 10 m.", "Coral cover is 40%.", "There are 35 coral species in the reef.", "Water temperature in summer is 30°C."],
     },
+    image: "/poi-images/bahrain-fasht-al-dibal-nature-v2.webp",
   },
   {
     id: "bahrain-ras-mumlihah-nature-v2",
@@ -651,6 +671,7 @@ export const bahrainNatureV2: POI[] = [
       ro: ["Promontoriul se întinde pe 3 km.", "Tăvile de sare produc anual 500 de tone de sare.", "Concentrația sării ajunge la 250 g/L.", "Au fost identificate 25 de specii de microorganisme.", "Mangrovele acoperă 1 km de coastă.", "Zona este protejată din 2005."],
       en: ["The headland stretches 3 km.", "The salt pans produce 500 tons of salt annually.", "Salt concentration reaches up to 250 g/L.", "25 microorganism species have been identified.", "Mangroves cover 1 km of the coast.", "The area has been protected since 2005."],
     },
+    image: "/poi-images/bahrain-ras-mumlihah-nature-v2.webp",
   },
   {
     id: "bahrain-najwat-bulthamah-nature-v2",
@@ -682,6 +703,7 @@ export const bahrainNatureV2: POI[] = [
       ro: ["Insula are 0,2 km².", "Aproximativ 300 de perechi de chirighițe de mare cuibăresc acolo.", "Înălțimea maximă este de 2 m deasupra nivelului mării.", "Viteza curenților atinge 3 noduri.", "Insula se află la 5 km nord-vest de Umm Jalid.", "A fost declarată arie protejată în 1997."],
       en: ["The island covers 0.2 km².", "About 300 pairs of greater crested terns breed there.", "Maximum elevation is 2 m above sea level.", "Current speed reaches 3 knots.", "The island is located 5 km northwest of Umm Jalid.", "It was declared a protected area in 1997."],
     },
+    image: "/poi-images/bahrain-najwat-bulthamah-nature-v2.webp",
   },
   {
     id: "bahrain-hayr-shariyah-nature-v2",
@@ -713,6 +735,7 @@ export const bahrainNatureV2: POI[] = [
       ro: ["Insula are 0,1 km².", "Recifele adăpostesc 50 de specii de corali.", "Vizibilitatea subacvatică atinge până la 20 m.", "Există 80 de specii de pești în jurul insulei.", "Temperatura apei iarna este de 20°C.", "Insula se află la 2 km est de Fasht al Dibal."],
       en: ["The island covers 0.1 km².", "The reefs host 50 coral species.", "Underwater visibility reaches up to 20 m.", "There are 80 fish species around the island.", "Water temperature in winter is 20°C.", "The island is located 2 km east of Fasht al Dibal."],
     },
+    image: "/poi-images/bahrain-hayr-shariyah-nature-v2.webp",
   },
   {
     id: "bahrain-bu-thaur-island-nature-v2",
@@ -744,6 +767,7 @@ export const bahrainNatureV2: POI[] = [
       ro: ["Insula are 0,15 km².", "Aproximativ 20 de perechi de scoicari cuibăresc acolo.", "Bălțile de maree au o adâncime de până la 0,5 m.", "Au fost identificate 10 specii de anemone marine.", "Insula se află la 3 km vest de Ras Mumlihah.", "A fost declarată arie protejată în 2003."],
       en: ["The island covers 0.15 km².", "About 20 pairs of Eurasian oystercatchers breed there.", "Tidal pools have a depth of up to 0.5 m.", "10 species of sea anemones have been identified.", "The island is located 3 km west of Ras Mumlihah.", "It was declared a protected area in 2003."],
     },
+    image: "/poi-images/bahrain-bu-thaur-island-nature-v2.webp",
   },
   {
     id: "bahrain-jazirat-al-khisifah-nature-v2",
@@ -775,6 +799,7 @@ export const bahrainNatureV2: POI[] = [
       ro: ["Insula are 0,4 km².", "Adăpostește 15 specii de crabi.", "Mangrovele acoperă 50% din insulă.", "Există 30 de specii de păsări de țărm.", "Insula se află la 1 km sud de Umm al Shajar.", "A fost desemnată sit Ramsar în 2001."],
       en: ["The island covers 0.4 km².", "It hosts 15 crab species.", "Mangroves cover 50% of the island.", "There are 30 shorebird species.", "The island is located 1 km south of Umm al Shajar.", "It was designated a Ramsar site in 2001."],
     },
+    image: "/poi-images/bahrain-jazirat-al-khisifah-nature-v2.webp",
   },
   {
     id: "bahrain-al-hazm-plateau-nature-v2",
@@ -806,5 +831,6 @@ export const bahrainNatureV2: POI[] = [
       ro: ["Platoul are 10 km².", "Altitudinea maximă este de 80 m deasupra nivelului mării.", "Există 20 de specii de plante pe platou.", "Temperatura medie vara este de 35°C.", "Au fost găsite fosile din Miocen.", "Platoul se află la 5 km sud-vest de Manama."],
       en: ["The plateau covers 10 km².", "Highest elevation is 80 m above sea level.", "There are 20 plant species on the plateau.", "Average summer temperature is 35°C.", "Fossils from the Miocene have been found.", "The plateau is located 5 km southwest of Manama."],
     },
+    image: "/poi-images/bahrain-al-hazm-plateau-nature-v2.webp",
   }
 ];

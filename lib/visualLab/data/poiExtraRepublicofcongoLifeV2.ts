@@ -31,6 +31,7 @@ export const republicofcongoLifeV2: POI[] = [
       ro: ["Parc național înființat în 1999", "Suprafață de aproximativ 5.049 km pătrați", "Zonă umedă Ramsar de importanță mondială", "Habitat pentru lamantini vest-africani", "Populație semnificativă de elefanți de pădure", "Țestoase pieloase care cuibăresc pe coastă"],
       en: ["National park established in 1999", "Area of approximately 5,049 sq km", "Ramsar wetland of international importance", "Habitat for West African manatees", "Significant population of forest elephants", "Coastline used by nesting leatherback turtles"],
     },
+    image: "/poi-images/republicofcongo-conkouati-douli-national-park-life-v2.webp",
   },
   {
     id: "republicofcongo-lesio-louna-wildlife-reserve-life-v2",
@@ -62,6 +63,7 @@ export const republicofcongoLifeV2: POI[] = [
       ro: ["Rezervația a fost înființată în anul 1999.", "Suprafața totală este de circa 173.000 hectare.", "Găzduiește gorile de câmpie reabilitate.", "Râul Louna formează o graniță naturală.", "Prezența hipopotamilor în cursurile de apă.", "Utilizarea rangerilor împotriva braconajului."],
       en: ["The reserve was established in 1999.", "Total area of approximately 173,000 hectares.", "Home to rehabilitated lowland gorillas.", "The Louna River forms a natural boundary.", "Presence of hippos in the water bodies.", "Rangers are employed to prevent poaching."],
     },
+    image: "/poi-images/republicofcongo-lesio-louna-wildlife-reserve-life-v2.webp",
   },
   {
     id: "republicofcongo-ntoki-wetland-zone-life-v2",
@@ -93,6 +95,7 @@ export const republicofcongoLifeV2: POI[] = [
       ro: ["Face parte din cel mai mare complex de mlaștini din Africa.", "Precipitații anuale de peste 2.000 mm.", "Habitat important pentru elefanții de pădure.", "Conține depozite extinse de turbă.", "Stoc de carbon crucial pentru planetă.", "Accesibil doar cu barca sau elicopterul."],
       en: ["Part of the largest swamp forest complex in Africa.", "Annual rainfall exceeds 2,000 mm.", "Important habitat for forest elephants.", "Contains extensive peatland deposits.", "Crucial carbon sink for the planet.", "Accessible only by boat or helicopter."],
     },
+    image: "/poi-images/republicofcongo-ntoki-wetland-zone-life-v2.webp",
   },
   {
     id: "republicofcongo-djoukou-forest-reserve-life-v2",
@@ -124,6 +127,7 @@ export const republicofcongoLifeV2: POI[] = [
       ro: ["Protejează peste 500 de specii de plante.", "Prezența gorilei de câmpie occidentale.", "Regiunea este caracterizată de pădurea tropicală.", "Coridor important pentru speciile migratoare.", "Temperatura medie anuală este de circa 25 °C.", "Monitorizată de autoritățile forestiere de stat."],
       en: ["Protects over 500 species of plants.", "Presence of the western lowland gorilla.", "The region is characterized by tropical rainforest.", "Important corridor for migratory animal species.", "Average annual temperature is around 25 °C.", "Monitored by state forestry authorities."],
     },
+    image: "/poi-images/republicofcongo-djoukou-forest-reserve-life-v2.webp",
   },
   {
     id: "republicofcongo-léfini-faunal-reserve-life-v2",
@@ -155,6 +159,7 @@ export const republicofcongoLifeV2: POI[] = [
       ro: ["Data oficială de înființare: 26 noiembrie 1951.", "Suprafață de aproximativ 630.000 hectare.", "Adiacentă rezervației Lesio-Louna.", "Prezența rarei antilope sitatunga.", "Peisaj caracterizat prin canioane adânci.", "Zonă importantă de cercetare pentru ecologiști."],
       en: ["Official establishment date: Nov 26, 1951.", "Area of approximately 630,000 hectares.", "Adjacent to the Lesio-Louna Reserve.", "Home to the rare sitatunga antelope.", "Landscape characterized by deep canyons.", "Important research area for ecologists."],
     },
+    image: "/poi-images/republicofcongo-léfini-faunal-reserve-life-v2.webp",
   },
   {
     id: "republicofcongo-sangha-river-biodiversity-zone-life-v2",
@@ -186,6 +191,7 @@ export const republicofcongoLifeV2: POI[] = [
       ro: ["Râul Sangha are o lungime de circa 790 km.", "Patrimoniu Mondial UNESCO din 2012.", "Râu de frontieră între Congo, Camerun și RCA.", "Găzduiește peste 300 de specii de păsări.", "Bogat în specii de pești, cum ar fi peștele tigru.", "Rută importantă de transport pentru comunități."],
       en: ["The Sangha River is about 790 km long.", "UNESCO World Heritage site since 2012.", "Border river between Congo, Cameroon, and CAR.", "Home to over 300 species of birds.", "Rich in fish species like the tigerfish.", "Important transport route for local communities."],
     },
+    image: "/poi-images/republicofcongo-sangha-river-biodiversity-zone-life-v2.webp",
   },
   {
     id: "republicofcongo-loufoulakari-river-zone-life-v2",
@@ -217,6 +223,7 @@ export const republicofcongoLifeV2: POI[] = [
       ro: ["Cascadele au o înălțime de aproximativ 40 m.", "Vărsare în fluviul Congo lângă Louingui.", "Situată în regiunea Pool.", "Loc important pentru ecoturismul local.", "Formațiuni stâncoase din roci precambriene.", "Găzduiește pescăruși albaștri și păsări de apă."],
       en: ["The waterfalls have a height of about 40m.", "Confluence with the Congo River near Louingui.", "Located in the Pool region.", "Important site for local ecotourism.", "Rock formations consist of Precambrian stone.", "Home to kingfishers and other water birds."],
     },
+    image: "/poi-images/republicofcongo-loufoulakari-river-zone-life-v2.webp",
   },
   {
     id: "republicofcongo-baya-forest-region-life-v2",
@@ -248,6 +255,7 @@ export const republicofcongoLifeV2: POI[] = [
       ro: ["Situată în regiunea Niari.", "Parte a centurii forestiere guineo-congoleze.", "Prezența unor esențe rare de lemn african.", "Precipitații de peste 1.800 mm pe an.", "Habitat pentru elefanți de pădure și cimpanzei.", "Solurile sunt bogate în substanțe organice."],
       en: ["Located in the Niari region.", "Part of the Guineo-Congolese forest belt.", "Presence of rare African hardwoods.", "Rainfall exceeds 1,800 mm per year.", "Habitat for forest elephants and chimpanzees.", "Soils are rich in organic matter."],
     },
+    image: "/poi-images/republicofcongo-baya-forest-region-life-v2.webp",
   },
   {
     id: "republicofcongo-nibere-wildlife-spot-life-v2",
@@ -279,6 +287,7 @@ export const republicofcongoLifeV2: POI[] = [
       ro: ["Cunoscut pentru grupuri mari de elefanți.", "Printre cele mai importante luminișuri din nord.", "Solul bogat în minerale atrage primatele.", "Stație științifică pentru cercetarea gorilelor.", "Turnuri de observare pentru animale sălbatice.", "Accesibil prin transport fluvial."],
       en: ["Known for large groups of forest elephants.", "Among the most important bais in North Congo.", "Mineral-rich soil attracts primates.", "Scientific station for gorilla research.", "Observation towers for wildlife viewing.", "Accessible via river transport."],
     },
+    image: "/poi-images/republicofcongo-nibere-wildlife-spot-life-v2.webp",
   },
   {
     id: "republicofcongo-lakouo-swamp-forest-life-v2",
@@ -310,6 +319,7 @@ export const republicofcongoLifeV2: POI[] = [
       ro: ["Dominanța palmierilor Raphia în pădure.", "Habitat pentru rara antilopă sitatunga.", "Nivelul apei variază sezonier cu până la 2 m.", "Loc important de cuibărit pentru păsări.", "Solurile constau din nămol adânc și turbă.", "Regiunea este aproape complet nelocuită."],
       en: ["Dominance of Raphia palms in the forest.", "Habitat for the rare sitatunga antelope.", "Water level fluctuates seasonally by up to 2m.", "Important nesting site for migratory birds.", "Soils consist of deep mud and peat.", "The region is almost entirely uninhabited."],
     },
+    image: "/poi-images/republicofcongo-lakouo-swamp-forest-life-v2.webp",
   },
   {
     id: "republicofcongo-kouilou-river-estuary-life-v2",
@@ -341,6 +351,7 @@ export const republicofcongoLifeV2: POI[] = [
       ro: ["Kouilou este al doilea cel mai lung râu din țară.", "Prezența a patru specii de țestoase marine.", "Mangrovele acoperă mari părți ale malului.", "Loc important pentru pescuitul artizanal.", "Mareele influențează cursul pe mulți kilometri.", "Adiacent Parcului Național Conkouati-Douli."],
       en: ["Kouilou is the second longest river in Congo.", "Presence of four species of sea turtles.", "Mangroves cover large portions of the banks.", "Important site for artisanal fishing.", "Tides influence the river for many kilometers.", "Adjacent to Conkouati-Douli National Park."],
     },
+    image: "/poi-images/republicofcongo-kouilou-river-estuary-life-v2.webp",
   },
   {
     id: "republicofcongo-likouala-forest-zone-life-v2",
@@ -372,6 +383,7 @@ export const republicofcongoLifeV2: POI[] = [
       ro: ["Regiunea cuprinde cca. 66.000 km pătrați.", "Locul de origine al legendei Mokele-mbembe.", "Cea mai mare zonă mlăștinoasă din Africa.", "Capitala regiunii este orașul Impfondo.", "Populație ridicată de elefanți de pădure.", "Depozit enorm pentru CO2 atmosferic."],
       en: ["Region covers approx. 66,000 square km.", "Home to the legend of the Mokele-mbembe.", "Largest contiguous swamp area in Africa.", "The regional capital is Impfondo.", "High population of forest elephants.", "Enormous storage for atmospheric CO2."],
     },
+    image: "/poi-images/republicofcongo-likouala-forest-zone-life-v2.webp",
   },
   {
     id: "republicofcongo-djoumouna-river-nature-spot-life-v2",
@@ -403,6 +415,7 @@ export const republicofcongoLifeV2: POI[] = [
       ro: ["Situat la doar circa 20 km de Brazzaville.", "Loc popular pentru picnicuri și excursii.", "Prezența structurilor de pădure secundară.", "Observarea pescărușilor albaștri este posibilă.", "Mici repezișuri caracterizează cursul râului.", "Loc important pentru educația ecologică."],
       en: ["Located only about 20 km from Brazzaville.", "Popular spot for picnics and excursions.", "Presence of secondary forest structures.", "Birdwatching for kingfishers is possible.", "Small rapids characterize the river flow.", "Important site for environmental education."],
     },
+    image: "/poi-images/republicofcongo-djoumouna-river-nature-spot-life-v2.webp",
   },
   {
     id: "republicofcongo-mbe-plateau-savannah-life-v2",
@@ -434,6 +447,7 @@ export const republicofcongoLifeV2: POI[] = [
       ro: ["Înălțime medie de aproximativ 600 de metri.", "Centru istoric al poporului Téké.", "Soluri nisipoase cu fertilitate scăzută.", "Prezența șacalilor și a păsărilor de pradă.", "Parte a sistemului mai larg al Podișului Batéké.", "Densitate scăzută a populației în regiune."],
       en: ["Average elevation of about 600 meters.", "Historical center of the Téké people.", "Sandy soils with low fertility.", "Home to jackal species and birds of prey.", "Part of the larger Batéké Plateau system.", "Low population density in the region."],
     },
+    image: "/poi-images/republicofcongo-mbe-plateau-savannah-life-v2.webp",
   },
   {
     id: "republicofcongo-indombo-lake-region-life-v2",
@@ -465,6 +479,7 @@ export const republicofcongoLifeV2: POI[] = [
       ro: ["Situată în districtul Impfondo.", "Bogat în specii de pești ciclide.", "Parte a zonelor umede RAMSAR.", "Pescuit tradițional practicat de populația Baka.", "Inundații în timpul sezonului ploios (oct-nov).", "Accesibil doar pe căi navigabile."],
       en: ["Located in the Impfondo district.", "Rich in various cichlid fish species.", "Part of the RAMSAR wetland sites.", "Traditional fishing by local Baka people.", "Flooding occurs during the rainy season (Oct-Nov).", "Accessible only via waterways."],
     },
+    image: "/poi-images/republicofcongo-indombo-lake-region-life-v2.webp",
   },
   {
     id: "republicofcongo-djouah-forest-zone-life-v2",
@@ -496,6 +511,7 @@ export const republicofcongoLifeV2: POI[] = [
       ro: ["Bogat în specii de lemn prețios, cum ar fi okoumé.", "Parte a blocului forestier Sangha-Gabon.", "Prezența bivolilor de pădure rari.", "Habitat important pentru mandrili.", "Precipitațiile sunt de circa 1.700 mm anual.", "Regiunea este cunoscută pentru endemism ridicat."],
       en: ["Rich in valuable timber like Okoumé.", "Part of the Sangha-Gabon forest block.", "Presence of rare forest buffaloes.", "Important habitat for mandrills.", "Rainfall is approximately 1,700 mm annually.", "Region is known for high levels of endemism."],
     },
+    image: "/poi-images/republicofcongo-djouah-forest-zone-life-v2.webp",
   },
   {
     id: "republicofcongo-niari-valley-wildlife-spot-life-v2",
@@ -527,6 +543,7 @@ export const republicofcongoLifeV2: POI[] = [
       ro: ["Valea se întinde pe o lungime de aproximativ 500 de kilometri.", "Este cea mai importantă zonă de cultivare a trestiei de zahăr.", "Râul Niari este principala sursă de apă a regiunii.", "Temperatura medie anuală este de circa 26 de grade Celsius.", "La marginile văii se găsesc păduri-galerie dense.", "Regiunea găzduiește peste 200 de specii de păsări."],
       en: ["The valley stretches for approximately 500 kilometers.", "It is the primary sugarcane-growing region in the country.", "The Niari River serves as the main water source for the area.", "Average annual temperatures hover around 26 degrees Celsius.", "Dense gallery forests are found along the valley edges.", "The region is home to over 200 different bird species."],
     },
+    image: "/poi-images/republicofcongo-niari-valley-wildlife-spot-life-v2.webp",
   },
   {
     id: "republicofcongo-sanga-marsh-life-v2",
@@ -558,6 +575,7 @@ export const republicofcongoLifeV2: POI[] = [
       ro: ["Mlaștina se află în bazinul Sangha, sit inclus în patrimoniul UNESCO.", "Regiunea primește peste 1.600 mm de precipitații anual.", "Este un refugiu major pentru elefanții de pădure.", "Vegetația este dominată de palmieri din genul Raphia.", "Zona este accesibilă doar cu barca pe râul Sangha.", "Mari părți ale mlaștinii rămân umede pe tot parcursul anului."],
       en: ["The marsh is in the Sangha Basin, a UNESCO World Heritage site.", "The region receives over 1,600 mm of rainfall annually.", "It is a primary refuge for the endangered forest elephant.", "The vegetation is dominated by Raphia palm species.", "The area is accessible only by boat via the Sangha River.", "Large sections of the marsh remain wet throughout the year."],
     },
+    image: "/poi-images/republicofcongo-sanga-marsh-life-v2.webp",
   },
   {
     id: "republicofcongo-lemba-forest-area-life-v2",
@@ -589,6 +607,7 @@ export const republicofcongoLifeV2: POI[] = [
       ro: ["Zona aparține sistemului ecologic al pădurii Mayombe.", "Arborii de aici ating adesea înălțimi de peste 50 de metri.", "Umiditatea aerului scade rar sub pragul de 80%.", "Este habitatul unor specii rare de orhidee sălbatice.", "Regiunea este cunoscută pentru insectele sale endemice.", "Râul Lemba traversează întreaga zonă forestieră."],
       en: ["The area belongs to the Mayombe forest ecological system.", "Trees here frequently reach heights exceeding 50 meters.", "Air humidity levels rarely drop below 80 percent.", "It is home to several species of rare wild orchids.", "The region is noted for its endemic insect populations.", "The Lemba River flows through the entire forest area."],
     },
+    image: "/poi-images/republicofcongo-lemba-forest-area-life-v2.webp",
   },
   {
     id: "republicofcongo-ouesso-river-zone-life-v2",
@@ -620,6 +639,7 @@ export const republicofcongoLifeV2: POI[] = [
       ro: ["Ouesso este capitala departamentului Sangha.", "Râul Sangha este un afluent major al fluviului Congo.", "Zona este un punct principal de tranzit pentru lemnul tropical.", "Temperatura medie anuală în regiune este de 25 grade Celsius.", "Râul atinge aici o lățime de aproximativ 500 de metri.", "Pescarii tradiționali folosesc zona de secole întregi."],
       en: ["Ouesso is the administrative capital of the Sangha Department.", "The Sangha River is a major tributary of the Congo River.", "The zone is a primary transit point for tropical timber.", "The average annual temperature in the area is 25 degrees Celsius.", "The river reaches a width of about 500 meters here.", "Traditional fishers have utilized the zone for centuries."],
     },
+    image: "/poi-images/republicofcongo-ouesso-river-zone-life-v2.webp",
   },
   {
     id: "republicofcongo-pokola-forest-life-v2",
@@ -651,6 +671,7 @@ export const republicofcongoLifeV2: POI[] = [
       ro: ["Pokola este sediul companiei forestiere CIB.", "Părți semnificative ale pădurii sunt certificate FSC.", "Aici trăiesc populații importante de cimpanzei.", "Pădurea se învecinează cu Parcul Național Nouabalé-Ndoki.", "Arborii de aici pot depăși vârsta de 400 de ani.", "Precipitațiile anuale sunt de aproximativ 1.700 mm."],
       en: ["Pokola is the headquarters of the CIB forestry company.", "Significant portions of the forest are FSC-certified.", "Important populations of chimpanzees inhabit the area.", "The forest borders the Nouabalé-Ndoki National Park.", "Trees in this forest can live for over 400 years.", "Annual rainfall averages around 1,700 mm."],
     },
+    image: "/poi-images/republicofcongo-pokola-forest-life-v2.webp",
   },
   {
     id: "republicofcongo-kouilou-savannah-zone-life-v2",
@@ -682,6 +703,7 @@ export const republicofcongoLifeV2: POI[] = [
       ro: ["Zona este situată în departamentul Kouilou.", "Se învecinează direct cu Oceanul Atlantic.", "Baobabii sunt elemente caracteristice ale peisajului.", "Regiunea este cunoscută pentru zăcămintele de petrol.", "Aici predomină un climat tropical de savană.", "Sezonul uscat durează din iunie până în septembrie."],
       en: ["The zone is located in the Kouilou Department.", "It borders the Atlantic Ocean directly.", "Baobab trees are a characteristic feature of the landscape.", "The region is known for its significant oil deposits.", "A tropical savannah climate prevails in the area.", "The dry season lasts from June to September."],
     },
+    image: "/poi-images/republicofcongo-kouilou-savannah-zone-life-v2.webp",
   },
   {
     id: "republicofcongo-djoumouna-forest-life-v2",
@@ -713,6 +735,7 @@ export const republicofcongoLifeV2: POI[] = [
       ro: ["Pădurea se află în departamentul Pool.", "Este un centru pentru ecoturismul local.", "Râul Djoumouna este un afluent al fluviului Congo.", "S-au păstrat bazine piscicole din perioada colonială.", "Regiunea este cunoscută pentru varietatea de ferigi.", "Există trasee marcate pentru observarea naturii."],
       en: ["The forest is situated in the Pool Department.", "It serves as a center for local ecotourism.", "The Djoumouna River is a tributary of the Congo River.", "Colonial-era fish ponds are still preserved here.", "The region is famous for its diverse fern species.", "Marked trails are available for nature observation."],
     },
+    image: "/poi-images/republicofcongo-djoumouna-forest-life-v2.webp",
   },
   {
     id: "republicofcongo-léfini-wetland-life-v2",
@@ -744,6 +767,7 @@ export const republicofcongoLifeV2: POI[] = [
       ro: ["Rezervația a fost înființată încă din anul 1951.", "Se întinde pe o suprafață de circa 600.000 de hectare.", "Aici se află un centru de orfelinat pentru gorile.", "Râul Léfini se varsă în fluviul Congo.", "Peisajul aparține de Platoul Bateke.", "Turiștii pot face tururi ghidate cu barca."],
       en: ["The reserve was established as early as 1951.", "It covers an area of approximately 600,000 hectares.", "A gorilla orphanage and rehabilitation center is located here.", "The Lefini River flows into the Congo River.", "The landscape is part of the Bateke Plateau system.", "Guided boat tours are available for tourists."],
     },
+    image: "/poi-images/republicofcongo-léfini-wetland-life-v2.webp",
   },
   {
     id: "republicofcongo-niari-forest-spot-life-v2",
@@ -775,6 +799,7 @@ export const republicofcongoLifeV2: POI[] = [
       ro: ["Pădurea se află la o altitudine de până la 800 de metri.", "Face parte din ecosistemul forestier montan Mayombe.", "Aici își au originea mai mulți afluenți mici.", "Zona este greu accesibilă și puțin explorată.", "Există depozite de specii de lemn de esență tare.", "Temperatura medie este de aproximativ 24 grade Celsius."],
       en: ["The forest is located at altitudes up to 800 meters.", "It is part of the Mayombe mountain forest ecosystem.", "Several small tributaries originate in this area.", "The region is difficult to access and remains largely unexplored.", "Valuable hardwood species are found throughout the forest.", "The average temperature is around 24 degrees Celsius."],
     },
+    image: "/poi-images/republicofcongo-niari-forest-spot-life-v2.webp",
   },
   {
     id: "republicofcongo-ouesso-swamp-life-v2",
@@ -806,5 +831,6 @@ export const republicofcongoLifeV2: POI[] = [
       ro: ["Mlaștina se extinde considerabil în sezonul ploios.", "Este un habitat pentru antilopa Sitatunga.", "Canoele tradiționale sunt principalul mijloc de transport.", "Umiditatea aerului atinge adesea aproape 100%.", "Există peste 50 de specii diferite de pești în mlaștină.", "Regiunea este bogată în plante medicinale de mlaștină."],
       en: ["The swamp expands significantly during the rainy season.", "It is a prime habitat for the Sitatunga antelope.", "Traditional dugout canoes are the primary mode of transport.", "Humidity levels often reach nearly 100 percent.", "Over 50 different species of fish inhabit the swamp.", "The region is rich in medicinal wetland plants."],
     },
+    image: "/poi-images/republicofcongo-ouesso-swamp-life-v2.webp",
   }
 ];

@@ -31,6 +31,7 @@ export const marshallislandsNatureV2: POI[] = [
       ro: ["Suprafață terestră: 9,7 km².", "Lagună: 295 km².", "Număr de insule: peste 50.", "Coordonate: 7° N, 171° E.", "Rată anuală de eroziune: 0,5 m.", "Capitală: Delap-Uliga-Darrit."],
       en: ["Land area: 9.7 km².", "Lagoon area: 295 km².", "Number of islands: over 50.", "Coordinates: 7°N, 171°E.", "Annual erosion rate: 0.5 meters.", "Capital city: Delap-Uliga-Darrit."],
     },
+    image: "/poi-images/marshallislands-majuro-atoll-nature-v2.webp",
   },
   {
     id: "marshallislands-kwajalein-atoll-nature-v2",
@@ -62,6 +63,7 @@ export const marshallislandsNatureV2: POI[] = [
       ro: ["Suprafață terestră: 16,4 km².", "Lagună: 3.244 km².", "Număr de insule: peste 90.", "Bază militară din 1964.", "100 de epave în lagună.", "Bătălia de la Kwajalein 1944."],
       en: ["Land area: 16.4 km².", "Lagoon area: 3,244 km².", "Number of islets: over 90.", "Military base established: 1964.", "Shipwrecks in lagoon: 100.", "Battle of Kwajalein: 1944."],
     },
+    image: "/poi-images/marshallislands-kwajalein-atoll-nature-v2.webp",
   },
   {
     id: "marshallislands-taongi-atoll-nature-v2",
@@ -93,6 +95,7 @@ export const marshallislandsNatureV2: POI[] = [
       ro: ["Suprafață terestră: 2,3 km².", "Lagună: 170 km².", "Acoperire corală: 80%.", "Arie protejată din 2003.", "10.000 perechi de papagal de mare.", "Temperatura apei: 28°C."],
       en: ["Land area: 2.3 km².", "Lagoon area: 170 km².", "Coral cover: 80%.", "Protected since: 2003.", "Red-tailed tropicbird pairs: 10,000.", "Average sea temperature: 28°C."],
     },
+    image: "/poi-images/marshallislands-taongi-atoll-nature-v2.webp",
   },
   {
     id: "marshallislands-mili-atoll-nature-v2",
@@ -124,6 +127,7 @@ export const marshallislandsNatureV2: POI[] = [
       ro: ["Suprafață terestră: 16,1 km².", "Lagună: 410 km².", "Populație: aproximativ 1.000.", "Altitudine maximă: 3 m.", "Economie: pescuit și copra.", "Epave din Al Doilea Război Mondial."],
       en: ["Land area: 16.1 km².", "Lagoon area: 410 km².", "Population: approximately 1,000.", "Highest elevation: 3 meters.", "Main economic activities: fishing, copra.", "WWII wrecks: present."],
     },
+    image: "/poi-images/marshallislands-mili-atoll-nature-v2.webp",
   },
   {
     id: "marshallislands-jaluit-atoll-nature-v2",
@@ -155,6 +159,7 @@ export const marshallislandsNatureV2: POI[] = [
       ro: ["Suprafață terestră: 11,3 km².", "Lagună: 358 km².", "Specii de pești: peste 300.", "Sezon manta ray: august-octombrie.", "Sit Ramsar din 2004.", "Populație: circa 1.500."],
       en: ["Land area: 11.3 km².", "Lagoon area: 358 km².", "Fish species: over 300.", "Manta ray season: August-October.", "Ramsar site since: 2004.", "Population: approximately 1,500."],
     },
+    image: "/poi-images/marshallislands-jaluit-atoll-nature-v2.webp",
   },
   {
     id: "marshallislands-rongelap-atoll-nature-v2",
@@ -186,6 +191,7 @@ export const marshallislandsNatureV2: POI[] = [
       ro: ["Suprafață terestră: 7,9 km².", "Lagună: 1.006 km².", "Testul Castle Bravo: 1954.", "Populație evacuată: circa 300.", "Acoperire corală: peste 60%.", "Radiație: încă ridicată."],
       en: ["Land area: 7.9 km².", "Lagoon area: 1,006 km².", "Nuclear test: Castle Bravo (1954).", "Evacuated population: about 300.", "Coral cover: over 60%.", "Radiation levels: still elevated."],
     },
+    image: "/poi-images/marshallislands-rongelap-atoll-nature-v2.webp",
   },
   {
     id: "marshallislands-ailinglaplap-atoll-nature-v2",
@@ -217,6 +223,7 @@ export const marshallislandsNatureV2: POI[] = [
       ro: ["Suprafață terestră: 14,7 km².", "Lagună: 750 km².", "Număr de insule: 56.", "Populație: circa 2.000.", "Altitudine maximă: 2 m.", "Bază navală japoneză în WWII."],
       en: ["Land area: 14.7 km².", "Lagoon area: 750 km².", "Number of islands: 56.", "Population: approximately 2,000.", "Highest elevation: 2 meters.", "WWII Japanese base: remnants present."],
     },
+    image: "/poi-images/marshallislands-ailinglaplap-atoll-nature-v2.webp",
   },
   {
     id: "marshallislands-arno-atoll-nature-v2",
@@ -248,6 +255,7 @@ export const marshallislandsNatureV2: POI[] = [
       ro: ["Suprafață terestră: 13,0 km².", "Lagună: 338 km².", "Populație: circa 2.500.", "Distanță până la Majuro: 20 km.", "Specii de pești: peste 200.", "Legătură cu barca cu Majuro."],
       en: ["Land area: 13.0 km².", "Lagoon area: 338 km².", "Population: approximately 2,500.", "Distance from Majuro: 20 km.", "Fish species: over 200.", "Boat service to Majuro: regular."],
     },
+    image: "/poi-images/marshallislands-arno-atoll-nature-v2.webp",
   },
   {
     id: "marshallislands-likiep-atoll-nature-v2",
@@ -279,6 +287,7 @@ export const marshallislandsNatureV2: POI[] = [
       ro: ["Suprafață terestră: 10,3 km².", "Lagună: 424 km².", "Populație: aproximativ 500.", "Clădiri coloniale germane: 1880.", "Colonii de păsări: mii de perechi.", "Zboruri către Majuro."],
       en: ["Land area: 10.3 km².", "Lagoon area: 424 km².", "Population: approximately 500.", "German colonial buildings: 1880s.", "Seabird colonies: thousands of pairs.", "Air service to Majuro: available."],
     },
+    image: "/poi-images/marshallislands-likiep-atoll-nature-v2.webp",
   },
   {
     id: "marshallislands-wotje-atoll-nature-v2",
@@ -310,6 +319,7 @@ export const marshallislandsNatureV2: POI[] = [
       ro: ["Suprafață terestră: 8,3 km².", "Lagună: 624 km².", "Populație: circa 1.000.", "Bază japoneză în WWII.", "Acoperire corală: 40%.", "Epave de avioane."],
       en: ["Land area: 8.3 km².", "Lagoon area: 624 km².", "Population: approximately 1,000.", "WWII Japanese base: yes.", "Coral cover: 40%.", "Aircraft wrecks: several."],
     },
+    image: "/poi-images/marshallislands-wotje-atoll-nature-v2.webp",
   },
   {
     id: "marshallislands-mejit-island-nature-v2",
@@ -341,6 +351,7 @@ export const marshallislandsNatureV2: POI[] = [
       ro: ["Suprafață: 1,9 km².", "Populație: circa 300.", "Lac sărat: da.", "Meșteșuguri tradiționale: țesut.", "Fără aeroport.", "Hrană principală: pește și taro."],
       en: ["Area: 1.9 km².", "Population: approximately 300.", "Brackish lake: present.", "Traditional crafts: mat weaving.", "No airstrip: boat access only.", "Staple foods: fish and taro."],
     },
+    image: "/poi-images/marshallislands-mejit-island-nature-v2.webp",
   },
   {
     id: "marshallislands-ebon-atoll-nature-v2",
@@ -372,6 +383,7 @@ export const marshallislandsNatureV2: POI[] = [
       ro: ["Suprafață terestră: 5,8 km².", "Lagună: 104 km².", "Populație: circa 700.", "Acoperire corală: peste 70%.", "Cimitir colonial german.", "Accesibil doar cu barca."],
       en: ["Land area: 5.8 km².", "Lagoon area: 104 km².", "Population: approximately 700.", "Coral cover: over 70%.", "German colonial cemetery: present.", "Access: boat only."],
     },
+    image: "/poi-images/marshallislands-ebon-atoll-nature-v2.webp",
   },
   {
     id: "marshallislands-namorik-atoll-nature-v2",
@@ -403,6 +415,7 @@ export const marshallislandsNatureV2: POI[] = [
       ro: ["suprafața terestră: 0,9 km²", "suprafața lagunei: 16 km²", "adâncimea maximă a lagunei: 50 m", "populație: aproximativ 500", "număr insule principale: 4", "lungimea atolului: cca. 10 km"],
       en: ["land area: 0.9 km²", "lagoon area: 16 km²", "maximum lagoon depth: 50 m", "population: approx. 500", "number of main islands: 4", "atoll length: approx. 10 km"],
     },
+    image: "/poi-images/marshallislands-namorik-atoll-nature-v2.webp",
   },
   {
     id: "marshallislands-maloelap-atoll-nature-v2",
@@ -434,6 +447,7 @@ export const marshallislandsNatureV2: POI[] = [
       ro: ["suprafața terestră: 9,8 km²", "număr de insule: aprox. 75", "lungimea lagunei: 29 km", "adâncimea maximă a lagunei: 47 m", "populație: aproximativ 600", "punctul cel mai înalt: cca. 3 m deasupra nivelului mării"],
       en: ["land area: 9.8 km²", "number of islands: approx. 75", "lagoon length: 29 km", "maximum lagoon depth: 47 m", "population: approx. 600", "highest elevation: about 3 m above sea level"],
     },
+    image: "/poi-images/marshallislands-maloelap-atoll-nature-v2.webp",
   },
   {
     id: "marshallislands-namu-atoll-nature-v2",
@@ -465,5 +479,6 @@ export const marshallislandsNatureV2: POI[] = [
       ro: ["suprafața terestră: 6,3 km²", "număr de insule: 54", "suprafața lagunei: 397 km²", "adâncimea maximă a lagunei: 55 m", "populație: aprox. 760", "altitudinea maximă: 2 m deasupra nivelului mării"],
       en: ["land area: 6.3 km²", "number of islands: 54", "lagoon area: 397 km²", "maximum lagoon depth: 55 m", "population: approx. 760", "highest elevation: 2 m above sea level"],
     },
+    image: "/poi-images/marshallislands-namu-atoll-nature-v2.webp",
   }
 ];

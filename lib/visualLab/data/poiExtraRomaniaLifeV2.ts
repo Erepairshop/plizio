@@ -32,6 +32,7 @@ export const romaniaLifeV2: POI[] = [
       ro: ["Înființare: 1998", "Suprafață: 11.000 ha", "Cel mai înalt vârf: Țuțuiatul (467 m)", "Număr de trasee: 10", "Specii endemice de plante: peste 100", "Specii de păsări: 170"],
       en: ["Established: 1998", "Area: 11,000 ha", "Highest peak: Țuțuiatul (467 m)", "Number of hiking trails: 10", "Endemic plant species: over 100", "Bird species: 170"],
     },
+    image: "/poi-images/romania-parcul-national-muntii-macinului-life-v2.webp",
   },
   {
     id: "romania-gradina-botanica-jibou-life-v2",
@@ -64,6 +65,7 @@ export const romaniaLifeV2: POI[] = [
       ro: ["Fondare: 1965", "Suprafață: 25 ha", "Specii de plante: peste 10.000", "Număr de sere: 3", "Lungimea aleilor: 8 km", "Vizitatori anuali: 100.000"],
       en: ["Founded: 1965", "Area: 25 ha", "Plant species: over 10,000", "Number of greenhouses: 3", "Length of paths: 8 km", "Annual visitors: 100,000"],
     },
+    image: "/poi-images/romania-gradina-botanica-jibou-life-v2.webp",
   },
   {
     id: "romania-parcul-national-semic-cheile-cara-life-v2",
@@ -96,6 +98,7 @@ export const romaniaLifeV2: POI[] = [
       ro: ["Parcul a fost înființat în anul 2000.", "Suprafața parcului este de 36.664 de hectare.", "Vârful Semenic are 1.449 de metri altitudine.", "Cheile Carașului au adâncimi de până la 200 de metri.", "Peste 1.200 de specii de plante sunt prezente în parc.", "Peștera Comarnic are o lungime de 5.000 de metri."],
       en: ["The park was established in 2000.", "It covers an area of 36,664 hectares.", "Semenic Peak is the highest point at 1,449 meters.", "Caraș Gorges reach depths of up to 200 meters.", "Over 1,200 plant species have been recorded in the park.", "Comarnic Cave has a total length of 5,000 meters."],
     },
+    image: "/poi-images/romania-parcul-national-semic-cheile-cara-life-v2.webp",
   },
   {
     id: "romania-rezervatia-tinovul-mohos-life-v2",
@@ -128,6 +131,7 @@ export const romaniaLifeV2: POI[] = [
       ro: ["Turbăria s-a format acum aproximativ 10.000 de ani.", "Suprafața rezervației este de circa 80 de hectare.", "Este situată în craterul unui vulcan stins.", "Aici crește roua cerului (Drosera rotundifolia).", "pH-ul apei este sub 4,5.", "Stratul de turbă atinge grosimi de până la 10 metri."],
       en: ["The bog formed approximately 10,000 years ago.", "The reserve covers about 80 hectares.", "It is located in the crater of an extinct volcano.", "Round-leaved sundew (Drosera rotundifolia) is present.", "The water pH is below 4.5.", "The peat layer can be up to 10 meters thick."],
     },
+    image: "/poi-images/romania-rezervatia-tinovul-mohos-life-v2.webp",
   },
   {
     id: "romania-parcul-natural-balta-mica-a-brailei-life-v2",
@@ -160,6 +164,7 @@ export const romaniaLifeV2: POI[] = [
       ro: ["Parcul a fost înființat în anul 2000.", "Suprafața este de aproximativ 17.000 de hectare.", "Peste 200 de specii de păsări au fost înregistrate.", "Parcul este situat în lunca Dunării.", "Speciile de arbori predominante sunt salcia și plopul.", "Zona contribuie la protecția împotriva inundațiilor."],
       en: ["The park was established in 2000.", "It covers approximately 17,000 hectares.", "Over 200 bird species have been recorded.", "It is located in the Danube floodplain.", "Dominant tree species are willow and poplar.", "The area serves as flood control."],
     },
+    image: "/poi-images/romania-parcul-natural-balta-mica-a-brailei-life-v2.webp",
   },
   {
     id: "romania-rezervatia-cheile-banitei-life-v2",
@@ -192,5 +197,6 @@ export const romaniaLifeV2: POI[] = [
       ro: ["Suprafața rezervației este de aproximativ 10 hectare.", "Cheile au o lungime de circa 1,5 kilometri.", "Adâncimea maximă este de 50 de metri.", "Aici crește trandafirul de piatră (Sempervivum).", "Cheile sunt situate în Munții Șureanu.", "Există mai multe peșteri în zonă."],
       en: ["The reserve covers about 10 hectares.", "The gorge is approximately 1.5 kilometers long.", "Maximum depth reaches 50 meters.", "Yellow stonecrop (Sempervivum) grows here.", "The gorge is located in the Șureanu Mountains.", "There are several caves in the area."],
     },
+    image: "/poi-images/romania-rezervatia-cheile-banitei-life-v2.webp",
   }
 ];

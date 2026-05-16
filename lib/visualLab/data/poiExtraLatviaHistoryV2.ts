@@ -32,6 +32,7 @@ export const latviaHistoryV2: POI[] = [
       ro: ["Construit pe locul unei vechi așezări letone", "Donat familiei von Korff de către polonezi", "Include elemente de arhitectură barocă", "Situat la 140 km distanță de orașul Riga", "Grădina castelului datează din secolul XIX", "Zidurile de piatră au grosimi de peste 1 metru"],
       en: ["First stone castle built by Riga Archbishop", "Strategic location on the Daugava waterway", "Rebuilt as a manor house in the 1700s", "Occupied by the military until 1994", "Features a distinctive gate tower", "Archaeological layers date back to the 10th century"],
     },
+    image: "/poi-images/latvia-kristapils-castle-history-v2.webp",
   },
   {
     id: "latvia-sauka-ancient-mound-history-v2",
@@ -64,6 +65,7 @@ export const latviaHistoryV2: POI[] = [
       ro: ["Așezare din Epoca Fierului (mil. I î.Hr.)", "Înălțime: 20 m", "Peste 500 de artefacte descoperite", "Primele săpături în anii 1920", "Mărgele de chihlimbar găsite", "Monument arheologic de stat"],
       en: ["Iron Age settlement (1st millennium BCE)", "Height: 20 m", "Over 500 artifacts excavated", "First excavations in the 1920s", "Amber beads found", "State archaeological monument"],
     },
+    image: "/poi-images/latvia-sauka-ancient-mound-history-v2.webp",
   },
   {
     id: "latvia-jumprava-manor-history-v2",
@@ -96,6 +98,7 @@ export const latviaHistoryV2: POI[] = [
       ro: ["Construit în secolul al XVIII-lea", "Stil: baroc, ulterior neoclasic", "Parcul: 15 hectare", "Copaci exotici: nuc negru, brad Douglas", "Folosit ca școală din 1920", "Monument arhitectonic"],
       en: ["Built in 18th century", "Style: Baroque, later Neoclassical", "Park area: 15 hectares", "Exotic trees: black walnut, Douglas fir", "Used as school since 1920", "Architectural monument"],
     },
+    image: "/poi-images/latvia-jumprava-manor-history-v2.webp",
   },
   {
     id: "latvia-stende-battle-site-history-v2",
@@ -128,6 +131,7 @@ export const latviaHistoryV2: POI[] = [
       ro: ["Bătălia din 30 noiembrie 1919", "Parte a eliberării regiunii Kurzeme", "Victorie asupra trupelor Landeswehr", "Poziție strategică lângă Stende"],
       en: ["Battle on November 30, 1919", "Part of Kurzeme liberation", "Victory over Landeswehr forces", "Strategic site near Stende station"],
     },
+    image: "/poi-images/latvia-stende-battle-site-history-v2.webp",
   },
   {
     id: "latvia-rubene-church-history-v2",
@@ -160,6 +164,7 @@ export const latviaHistoryV2: POI[] = [
       ro: ["Construită în secolul al XVII-lea", "Material: lemn", "Altar sculptat din 1694", "Turn-clopotniță din 1753", "Biserică luterană", "Slujbe vara"],
       en: ["Built in 17th century", "Material: wood", "Carved altar from 1694", "Bell tower from 1753", "Lutheran church", "Summer services only"],
     },
+    image: "/poi-images/latvia-rubene-church-history-v2.webp",
   },
   {
     id: "latvia-mezotne-palace-history-v2",
@@ -192,6 +197,7 @@ export const latviaHistoryV2: POI[] = [
       ro: ["Construit în 1802", "Arhitect: Johann Georg Berlitz", "Portic cu 6 coloane ionice", "Parcul: 40 de hectare în stil englezesc", "Școală agricolă 1945-1995", "Astăzi hotel cu 25 de camere"],
       en: ["Built in 1802", "Architect: Johann Georg Berlitz", "Portico with 6 Ionic columns", "Park: 40 hectares English style", "Agricultural school 1945-1995", "Now hotel with 25 rooms"],
     },
+    image: "/poi-images/latvia-mezotne-palace-history-v2.webp",
   },
   {
     id: "latvia-vilaka-castle-ruins-history-v2",
@@ -224,6 +230,7 @@ export const latviaHistoryV2: POI[] = [
       ro: ["Castelul a fost sediul unui district administrativ", "Accesul se făcea printr-o poartă fortificată", "Ruinele păstrează fragmente din turnul rotund", "Lacul Viļaka are o suprafață de 1,4 km pătrați", "Distrus definitiv de trupele lui Petru cel Mare", "Săpăturile au scos la iveală arme medievale"],
       en: ["Established on an island for natural defense", "Named Marienhausen in historical chronicles", "The island is accessible by a modern bridge", "Ruined during the Great Northern War", "The castle had three main defense towers", "Distance to the Russian border is only 8 km"],
     },
+    image: "/poi-images/latvia-vilaka-castle-ruins-history-v2.webp",
   },
   {
     id: "latvia-seda-historical-settlement-history-v2",
@@ -256,6 +263,7 @@ export const latviaHistoryV2: POI[] = [
       ro: ["Fondat în secolul al XII-lea", "Situat pe râul Seda", "A aparținut Ordinului Livonian", "Ruine din secolul al XIII-lea", "Descoperiri hanseatice (monede, ceramică)", "Movila cetății păstrată"],
       en: ["Founded in 12th century", "Location on Seda River", "Owned by Livonian Order", "Ruins from 13th century", "Hanseatic finds (coins, pottery)", "Castle mound preserved"],
     },
+    image: "/poi-images/latvia-seda-historical-settlement-history-v2.webp",
   },
   {
     id: "latvia-kraslava-manor-history-v2",
@@ -288,6 +296,7 @@ export const latviaHistoryV2: POI[] = [
       ro: ["Construit în secolul al XVIII-lea", "Arhitect: Antonio Paracca", "40 de camere", "Parcul: 30 de hectare cu iaz", "Școală până în 1992", "Centru de artă din 2010"],
       en: ["Built in 18th century", "Architect: Antonio Paracca", "40 rooms", "Park: 30 hectares with pond", "School until 1992", "Art center since 2010"],
     },
+    image: "/poi-images/latvia-kraslava-manor-history-v2.webp",
   },
   {
     id: "latvia-jaunauce-manor-history-v2",
@@ -320,6 +329,7 @@ export const latviaHistoryV2: POI[] = [
       ro: ["Construit în secolul al XIX-lea", "Stil: neorenascentist", "Parcul: 20 de hectare", "Stejari și tei în parc", "Împărțit în apartamente după 1920", "Pivniță de vin din secolul al XIX-lea"],
       en: ["Built in 19th century", "Style: Neorenaissance", "Park area: 20 hectares", "Oaks and lindens in park", "Divided into apartments after 1920", "Wine cellar from 19th century"],
     },
+    image: "/poi-images/latvia-jaunauce-manor-history-v2.webp",
   },
   {
     id: "latvia-alksne-mound-history-v2",
@@ -352,6 +362,7 @@ export const latviaHistoryV2: POI[] = [
       ro: ["Înălțime deasupra lacului: aprox. 12 m", "Perioada de locuire: mileniul I î.Hr. – sec. XIII", "Suprafața platoului: circa 2000 m²", "Primele săpături: 1926 de Ernests Brastiņš", "Lungimea valurilor: aprox. 150 m", "Protejat din 1924 ca monument cultural"],
       en: ["Height above lake level: approx. 12 m", "Period of habitation: 1st millennium BC – 13th century", "Top area: about 2000 m²", "First excavations: 1926 by Ernests Brastiņš", "Length of ramparts: approx. 150 m", "Protected since 1924 as cultural monument"],
     },
+    image: "/poi-images/latvia-alksne-mound-history-v2.webp",
   },
   {
     id: "latvia-daugavpils-war-memorial-history-v2",
@@ -384,6 +395,7 @@ export const latviaHistoryV2: POI[] = [
       ro: ["Construit în: 1975", "Înălțimea stelei: 15 m", "Soldați îngropați: peste 500", "Suprafața memorialului: 1,5 ha", "Locație: 55°52′N 26°32′E", "Ultima renovare: 2014"],
       en: ["Erected: 1975", "Stele height: 15 m", "Buried soldiers: over 500", "Memorial area: 1.5 ha", "Location: 55°52′N 26°32′E", "Last renovation: 2014"],
     },
+    image: "/poi-images/latvia-daugavpils-war-memorial-history-v2.webp",
   },
   {
     id: "latvia-cesvaine-manor-history-v2",
@@ -416,6 +428,7 @@ export const latviaHistoryV2: POI[] = [
       ro: ["Perioada construcției: 1889–1896", "Arhitect: Hans Grisebach", "Înălțimea turnului principal: 45 m", "Număr de camere: peste 60", "Suprafața parcului: 14 ha", "Începutul restaurării: 2008"],
       en: ["Construction period: 1889–1896", "Architect: Hans Grisebach", "Main tower height: 45 m", "Number of rooms: over 60", "Park area: 14 ha", "Restoration started: 2008"],
     },
+    image: "/poi-images/latvia-cesvaine-manor-history-v2.webp",
   },
   {
     id: "latvia-ludza-castle-ruins-history-v2",
@@ -448,6 +461,7 @@ export const latviaHistoryV2: POI[] = [
       ro: ["Construit în 1399 de ordin", "Ziduri de piatră înalte de 3 etaje", "Distrugerea completă în 1654", "Cea mai estică fortăreață livoniană"],
       en: ["Built in 1399 by the Order", "Stone walls three stories high", "Destroyed in the year 1654", "Easternmost fortress in Livonia"],
     },
+    image: "/poi-images/latvia-ludza-castle-ruins-history-v2.webp",
   },
   {
     id: "latvia-stende-manor-history-v2",
@@ -480,6 +494,7 @@ export const latviaHistoryV2: POI[] = [
       ro: ["Construit: secolul XVIII", "Familia constructoare: von Hahn", "Acoperiș: mansardă", "Suprafața parcului: 6 ha", "Specii rare de arbori: peste 20", "Utilizare actuală: școală și casă de cultură"],
       en: ["Built: 18th century", "Constructing family: von Hahn", "Roof type: mansard", "Park area: 6 ha", "Rare tree species: over 20", "Current use: school and cultural house"],
     },
+    image: "/poi-images/latvia-stende-manor-history-v2.webp",
   },
   {
     id: "latvia-kandava-bridge-history-v2",
@@ -512,6 +527,7 @@ export const latviaHistoryV2: POI[] = [
       ro: ["Anul construcției: 1803", "Număr de arcuri: 3", "Material: piatră dolomitică", "Lungime: 38 m", "Lățime: 5 m", "Statut de monument: monument cultural național"],
       en: ["Year built: 1803", "Number of arches: 3", "Material: dolomite stone", "Length: 38 m", "Width: 5 m", "Monument status: national cultural monument"],
     },
+    image: "/poi-images/latvia-kandava-bridge-history-v2.webp",
   },
   {
     id: "latvia-priekule-gate-history-v2",
@@ -544,6 +560,7 @@ export const latviaHistoryV2: POI[] = [
       ro: ["Construit: secolul XVII", "Material: piatră de câmp", "Tip arc: arc de coș", "Înălțime: 4 m", "Lățime: 2,5 m", "Statut: monument arhitectural"],
       en: ["Built: 17th century", "Material: fieldstone", "Arch type: basket arch", "Height: 4 m", "Width: 2.5 m", "Status: architectural monument"],
     },
+    image: "/poi-images/latvia-priekule-gate-history-v2.webp",
   },
   {
     id: "latvia-durbe-battle-memorial-history-v2",
@@ -576,6 +593,7 @@ export const latviaHistoryV2: POI[] = [
       ro: ["Victorie samogitiană la 13 iulie 1260", "150 de cavaleri uciși în luptă", "Cea mai mare înfrângere din secolul 13", "Situat lângă lacul Durbe"],
       en: ["Samogitian victory on July 13, 1260", "150 knights killed in the battle", "Largest 13th-century order defeat", "Located near the Durbe Lake"],
     },
+    image: "/poi-images/latvia-durbe-battle-memorial-history-v2.webp",
   },
   {
     id: "latvia-embute-castle-ruins-history-v2",
@@ -608,6 +626,7 @@ export const latviaHistoryV2: POI[] = [
       ro: ["Situat în rezervația naturală Valea Embūte", "Cetatea a fost distrusă în timpul marelui incendiu", "Zidurile de apărare aveau turnuri dreptunghiulare", "Aproape de locul unde a căpitanul Indulis a căzut", "Regiunea este numită Elveția Curlandei", "Ruinele bisericii locale sunt din secolul XVII"],
       en: ["The site consists of a castle and a hillfort", "Embūte was a holy place for ancient Curonians", "Stone castle built by the Livonian Order", "Abandoned after the Great Northern War", "Located in one of the deepest valleys in Latvia", "Excavations revealed pottery from the 11th century"],
     },
+    image: "/poi-images/latvia-embute-castle-ruins-history-v2.webp",
   },
   {
     id: "latvia-alsunga-castle-history-v2",
@@ -640,6 +659,7 @@ export const latviaHistoryV2: POI[] = [
       ro: ["Construit: secolul XIV", "Constructor: Ordinul Livonian", "Plan: dreptunghiular, cca 40×40 m", "Curtea interioară: 20×20 m", "Înființarea muzeului: 1989", "Suprafața parcului: 3 ha"],
       en: ["Built: 14th century", "Builder: Livonian Order", "Layout: rectangular, approx. 40×40 m", "Inner courtyard: 20×20 m", "Museum established: 1989", "Park area: 3 ha"],
     },
+    image: "/poi-images/latvia-alsunga-castle-history-v2.webp",
   },
   {
     id: "latvia-ugale-church-history-v2",
@@ -672,6 +692,7 @@ export const latviaHistoryV2: POI[] = [
       ro: ["Anul construirii: 1795", "Înălțimea turnului: 42 m", "Cult: luteran", "Stil arhitectural: clasicism", "Biblia altarului: sec. XVIII", "Statut: monument cultural"],
       en: ["Year built: 1795", "Tower height: 42 m", "Denomination: Lutheran", "Architectural style: Classicism", "Altar Bible: 18th century", "Monument status: cultural monument"],
     },
+    image: "/poi-images/latvia-ugale-church-history-v2.webp",
   },
   {
     id: "latvia-usma-church-history-v2",
@@ -704,6 +725,7 @@ export const latviaHistoryV2: POI[] = [
       ro: ["Anul construcției: 1699", "Plan: octogonal", "Material: lemn", "Clopotniță separată: înălțime 22 m", "Altar baroc: sec. XVIII", "Ultima renovare: 2016"],
       en: ["Year built: 1699", "Plan: octagonal", "Material: wood", "Bell tower: separate, height 22 m", "Baroque altar: 18th century", "Last renovation: 2016"],
     },
+    image: "/poi-images/latvia-usma-church-history-v2.webp",
   },
   {
     id: "latvia-targale-manor-history-v2",
@@ -736,6 +758,7 @@ export const latviaHistoryV2: POI[] = [
       ro: ["Construit: secolul XVIII", "Familia constructoare: von Fircks", "Număr etaje: 2", "Suprafața parcului: 10 ha", "Portic: cu 4 coloane", "Statut: monument cultural local"],
       en: ["Built: 18th century", "Constructing family: von Fircks", "Floors: 2", "Park area: 10 ha", "Portico: with 4 columns", "Status: local cultural monument"],
     },
+    image: "/poi-images/latvia-targale-manor-history-v2.webp",
   },
   {
     id: "latvia-puz-manor-history-v2",
@@ -768,6 +791,7 @@ export const latviaHistoryV2: POI[] = [
       ro: ["Construit: secolul XVIII", "Familia constructoare: von Recke", "Niveluri: 1", "Acoperiș: mansardă", "Înălțimea soclului: 1,5 m", "Începutul restaurării: 2010"],
       en: ["Built: 18th century", "Constructing family: von Recke", "Floors: 1", "Roof: mansard", "Basement height: 1.5 m", "Restoration start: 2010"],
     },
+    image: "/poi-images/latvia-puz-manor-history-v2.webp",
   },
   {
     id: "latvia-zuras-manor-history-v2",
@@ -800,6 +824,7 @@ export const latviaHistoryV2: POI[] = [
       ro: ["Construit: secolul XIX", "Etaje: 2", "Înălțime turn: 18 m", "Balcon: fier, 5×3 m", "Stil: istoricist", "Stare: gol, în degradare"],
       en: ["Built: 19th century", "Floors: 2", "Tower height: 18 m", "Balcony: iron, 5×3 m", "Style: Historicism", "Condition: vacant, deteriorating"],
     },
+    image: "/poi-images/latvia-zuras-manor-history-v2.webp",
   },
   {
     id: "latvia-eleja-palace-ruins-history-v2",
@@ -832,6 +857,7 @@ export const latviaHistoryV2: POI[] = [
       ro: ["Construit între 1806 și 1810", "Proiectat de Giacomo Quarenghi", "Reședința familiei de conte Medem", "Distrus de incendiu în anul 1915"],
       en: ["Built between 1806 and 1810", "Designed by Giacomo Quarenghi", "Seat of the Count Medem family", "Destroyed by fire in 1915"],
     },
+    image: "/poi-images/latvia-eleja-palace-ruins-history-v2.webp",
   },
   {
     id: "latvia-auces-manor-history-v2",
@@ -864,6 +890,7 @@ export const latviaHistoryV2: POI[] = [
       ro: ["Construit: secolul XIX", "Familia constructoare: von Hahn", "Portic: cu 6 coloane", "Suprafața parcului: 8 ha", "Înființarea muzeului: 1992", "Iazuri: 2"],
       en: ["Built: 19th century", "Constructing family: von Hahn", "Portico: with 6 columns", "Park area: 8 ha", "Museum established: 1992", "Ponds: 2"],
     },
+    image: "/poi-images/latvia-auces-manor-history-v2.webp",
   },
   {
     id: "latvia-berze-church-history-v2",
@@ -896,6 +923,7 @@ export const latviaHistoryV2: POI[] = [
       ro: ["Anul construcției: 1698", "Material: lemn", "Clopotniță separată: înălțime 18 m", "Pictură pe tavan: sec. XVII", "Altar baroc: sec. XVII", "Ultima renovare: 2005"],
       en: ["Year built: 1698", "Material: wood", "Bell tower: separate, height 18 m", "Ceiling painting: 17th century", "Baroque altar: 17th century", "Last renovation: 2005"],
     },
+    image: "/poi-images/latvia-berze-church-history-v2.webp",
   },
   {
     id: "latvia-galdnieki-manor-history-v2",
@@ -928,6 +956,7 @@ export const latviaHistoryV2: POI[] = [
       ro: ["Construit: secolul XVIII", "Familia constructoare: von Hahn", "Acoperiș: șindrilă", "Verandă: cu coloane", "Suprafața terenului: 0,5 ha", "Stare: bine păstrat"],
       en: ["Built: 18th century", "Constructing family: von Hahn", "Roof material: shingles", "Veranda: columned", "Land area: 0.5 ha", "Condition: well preserved"],
     },
+    image: "/poi-images/latvia-galdnieki-manor-history-v2.webp",
   },
   {
     id: "latvia-vane-manor-history-v2",
@@ -960,6 +989,7 @@ export const latviaHistoryV2: POI[] = [
       ro: ["Construit: secolul XIX", "Etaje: 2", "Acoperiș: cochiliu plat", "Balcon: piatră, 4×2 m", "Suprafața iazului: 0,2 ha", "Începutul restaurării: 2015"],
       en: ["Built: 19th century", "Floors: 2", "Roof: flat hipped", "Balcony: stone, 4×2 m", "Pond area: 0.2 ha", "Restoration start: 2015"],
     },
+    image: "/poi-images/latvia-vane-manor-history-v2.webp",
   },
   {
     id: "latvia-zante-manor-history-v2",
@@ -992,6 +1022,7 @@ export const latviaHistoryV2: POI[] = [
       ro: ["Construit: secolul XVIII", "Familia constructoare: von Plettenberg", "Acoperiș: stuf", "Muzeu deschis din: 1995", "Număr camere: 6", "Statut: monument cultural"],
       en: ["Built: 18th century", "Constructing family: von Plettenberg", "Roof material: thatch", "Museum operating since: 1995", "Number of rooms: 6", "Status: cultural monument"],
     },
+    image: "/poi-images/latvia-zante-manor-history-v2.webp",
   },
   {
     id: "latvia-zirni-manor-history-v2",
@@ -1024,6 +1055,7 @@ export const latviaHistoryV2: POI[] = [
       ro: ["Construit: secolul XIX", "Niveluri: 1", "Risalit central: 2 coloane", "Fronton: triunghiular", "Stejari bătrâni: 3", "Statut: monument cultural local"],
       en: ["Built: 19th century", "Floors: 1", "Risalit: central, 2-column", "Pediment: triangular", "Old oaks: 3", "Status: local cultural monument"],
     },
+    image: "/poi-images/latvia-zirni-manor-history-v2.webp",
   },
   {
     id: "latvia-kursisi-manor-history-v2",
@@ -1056,6 +1088,7 @@ export const latviaHistoryV2: POI[] = [
       ro: ["Construit: secolul XVIII", "Familia constructoare: von Lieven", "Acoperiș: cochiliu", "Suprafața parcului: 5 ha", "Stare: gol, necesită renovare", "Statut: monument cultural local"],
       en: ["Built: 18th century", "Constructing family: von Lieven", "Roof: hipped", "Park area: 5 ha", "Condition: vacant, needing renovation", "Status: local cultural monument"],
     },
+    image: "/poi-images/latvia-kursisi-manor-history-v2.webp",
   },
   {
     id: "latvia-ezere-manor-history-v2",
@@ -1088,6 +1121,7 @@ export const latviaHistoryV2: POI[] = [
       ro: ["Construit: secolul XIX", "Înălțime turn: 20 m", "Turnuleț: octogonal", "Creneluri: 10", "Stil: neogotic", "Stare: în degradare"],
       en: ["Built: 19th century", "Tower height: 20 m", "Turret: octagonal", "Battlements: 10", "Style: Neo-Gothic", "Condition: decaying"],
     },
+    image: "/poi-images/latvia-ezere-manor-history-v2.webp",
   },
   {
     id: "latvia-nica-heritage-history-v2",
@@ -1120,6 +1154,7 @@ export const latviaHistoryV2: POI[] = [
       ro: ["Nīca a fost menționat pentru prima dată în 1253", "Broderia Nīca a fost inclusă în patrimoniul UNESCO în 2018", "Biserica luterană din Nīca a fost construită în 1865", "Populația localității era de aproximativ 880 de locuitori în 2021", "Muzeul local a fost deschis în 1972", "Costumul tradițional Nīca conține 7 culori distincte"],
       en: ["Nīca was first mentioned in 1253", "Nīca embroidery was recognized by UNESCO in 2018", "The village's Lutheran church was built in 1865", "Population in 2021 was approximately 880", "The Nīca local museum opened in 1972", "Traditional Nīca costume uses 7 distinct colors"],
     },
+    image: "/poi-images/latvia-nica-heritage-history-v2.webp",
   },
   {
     id: "latvia-rucava-heritage-history-v2",
@@ -1152,6 +1187,7 @@ export const latviaHistoryV2: POI[] = [
       ro: ["Biserica de lemn din Rucava a fost construită în 1760", "Muzeul casei țărănești din Rucava a fost deschis în 1985", "Rucava se află la 3 km de granița cu Lituania", "Suprafața parohiei Rucava este de 103,5 km²", "Satul a fost un centru al comerțului cu in în secolul al XVII-lea", "Turnul bisericii are 20 de metri înălțime"],
       en: ["Rucava's wooden church was built in 1760", "The Rucava Farmstead Museum opened in 1985", "Rucava is 3 km from the Lithuanian border", "The parish area covers 103.5 km²", "It was a linen trade center in the 17th century", "The church tower is 20 meters tall"],
     },
+    image: "/poi-images/latvia-rucava-heritage-history-v2.webp",
   },
   {
     id: "latvia-kaleti-manor-history-v2",
@@ -1184,6 +1220,7 @@ export const latviaHistoryV2: POI[] = [
       ro: ["Conacul Kalēti a fost construit în secolul al XVIII-lea", "A fost reconstruit în secolul al XIX-lea în stil clasicist", "A aparținut familiei von Grotthuss", "După 1920 a fost folosit ca școală", "Parcul conține peste 20 de specii rare de copaci", "Restaurarea a început în 2015"],
       en: ["Kalēti Manor was built in the 18th century", "It was remodeled in classicist style in the 19th century", "Owned by the von Grotthuss family", "Used as a school after 1920", "The park features over 20 rare tree species", "Restoration began in 2015"],
     },
+    image: "/poi-images/latvia-kaleti-manor-history-v2.webp",
   },
   {
     id: "latvia-laid-manor-history-v2",
@@ -1216,6 +1253,7 @@ export const latviaHistoryV2: POI[] = [
       ro: ["Conacul Laidi a fost construit în secolul al XVIII-lea", "Este un exemplu de arhitectură barocă", "După cel de-al Doilea Război Mondial a fost folosit ca locuință", "Parcul are o alee de tei de 200 m lungime", "Proprietatea are 5 hectare", "Renovarea are loc din 2010"],
       en: ["Laidi Manor was built in the 18th century", "It is an example of Baroque architecture", "Used as a residence after WWII", "The park has a 200 m lime tree avenue", "The estate covers 5 hectares", "Renovation has been ongoing since 2010"],
     },
+    image: "/poi-images/latvia-laid-manor-history-v2.webp",
   },
   {
     id: "latvia-gudenieki-heritage-history-v2",
@@ -1248,6 +1286,7 @@ export const latviaHistoryV2: POI[] = [
       ro: ["Gudenieki a fost menționat pentru prima dată în 1560", "Conacul datează din secolul al XVIII-lea", "Satul are aproximativ 600 de locuitori", "Suprafața parohiei este de 87,2 km²", "Centrul cultural organizează un festival popular anual", "19 clădiri sunt documentate ca având arhitectură tradițională din lemn"],
       en: ["Gudenieki was first mentioned in 1560", "The manor dates from the 18th century", "The village has about 600 inhabitants", "The parish area is 87.2 km²", "The cultural center hosts an annual folk festival", "19 buildings are documented as traditional wooden architecture"],
     },
+    image: "/poi-images/latvia-gudenieki-heritage-history-v2.webp",
   },
   {
     id: "latvia-pelci-manor-history-v2",
@@ -1280,5 +1319,6 @@ export const latviaHistoryV2: POI[] = [
       ro: ["Conacul Pelči a fost construit în 1840", "Este construit în stil istoricist", "După 1920 a fost folosit ca școală", "Astăzi găzduiește o școală primară cu 120 de elevi", "Muzeul are 500 de exponate", "Parcul are 3 hectare"],
       en: ["Pelči Manor was built in 1840", "It is built in historicist style", "Used as a school after 1920", "Now houses a primary school with 120 students", "The museum has 500 exhibits", "The park is 3 hectares"],
     },
+    image: "/poi-images/latvia-pelci-manor-history-v2.webp",
   }
 ];

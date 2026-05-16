@@ -32,6 +32,7 @@ export const serbiaLifeV2: POI[] = [
       ro: ["Parcul a fost înființat în 1981, suprafață 220 km².", "Cel mai înalt punct: Kozji Rid, 1.591 m.", "Defileul Drina are până la 1.000 m adâncime.", "53 de specii de mamifere.", "Molidul lui Pančić este un conifer endemic.", "6 trasee marcate, total 150 km."],
       en: ["Park established 1981, area 220 km².", "Highest point: Kozji Rid at 1,591 m.", "Drina Canyon up to 1,000 m deep.", "Home to 53 mammal species.", "Pančić's spruce is an endemic conifer.", "6 marked trails totaling 150 km."],
     },
+    image: "/poi-images/serbia-tara-national-forest-life-v2.webp",
   },
   {
     id: "serbia-zobnatica-stud-farm-life-v2",
@@ -64,6 +65,7 @@ export const serbiaLifeV2: POI[] = [
       ro: ["Fondată în 1787.", "Adăpostește 150 de cai.", "Creșterea lipițanilor a început în 1800.", "Conacul are 20 de camere.", "Sala de călărie are 800 m².", "3 spectacole ecvestre anual."],
       en: ["Founded in 1787.", "Houses 150 horses.", "Lipizzaner breeding started in 1800.", "Manor has 20 rooms.", "Riding hall is 800 sq m.", "3 horse shows annually."],
     },
+    image: "/poi-images/serbia-zobnatica-stud-farm-life-v2.webp",
   },
   {
     id: "serbia-zasavica-wetlands-life-v2",
@@ -96,6 +98,7 @@ export const serbiaLifeV2: POI[] = [
       ro: ["Rezervație înființată în 1997.", "Suprafață 1.200 ha.", "200 de specii de păsări.", "Oglinda apei: 400 ha.", "55 de specii de pești.", "Creșterea porcilor Mangalița a început în 2000."],
       en: ["Reserve established in 1997.", "Area: 1,200 hectares.", "Home to 200 bird species.", "Water surface: 400 ha.", "55 fish species.", "Mangalica pig breeding started in 2000."],
     },
+    image: "/poi-images/serbia-zasavica-wetlands-life-v2.webp",
   },
   {
     id: "serbia-subotica-zoo-life-v2",
@@ -128,6 +131,7 @@ export const serbiaLifeV2: POI[] = [
       ro: ["Deschis în 1949.", "Adăpostește 500 de animale.", "Suprafață: 10 ha.", "100 de specii de animale.", "Cel mai bătrân copac are 150 de ani.", "200.000 de vizitatori anual."],
       en: ["Opened in 1949.", "Houses 500 animals.", "Area: 10 hectares.", "100 animal species.", "Oldest tree is 150 years old.", "200,000 visitors annually."],
     },
+    image: "/poi-images/serbia-subotica-zoo-life-v2.webp",
   },
   {
     id: "serbia-golija-nature-park-life-v2",
@@ -160,6 +164,7 @@ export const serbiaLifeV2: POI[] = [
       ro: ["Rezervația biosferei recunoscută în 2001.", "Suprafață: 750 km².", "Cel mai înalt punct: Crni Vrh, 1.833 m.", "30 de specii de mamifere.", "1.000 de specii de plante.", "Mănăstirea Studenica datează din secolul al XII-lea."],
       en: ["Biosphere reserve recognized in 2001.", "Area: 750 km².", "Highest point: Crni Vrh at 1,833 m.", "30 mammal species.", "1,000 plant species.", "Studenica Monastery dates from 12th century."],
     },
+    image: "/poi-images/serbia-golija-nature-park-life-v2.webp",
   },
   {
     id: "serbia-belgrade-botanical-garden-life-v2",
@@ -192,6 +197,7 @@ export const serbiaLifeV2: POI[] = [
       ro: ["Fondată în 1874.", "Suprafață: 5 ha.", "10.000 de specii de plante.", "Sera mare are 1.000 m².", "Grădina japoneză a fost amenajată în 2000.", "Copaci vechi de 200 de ani."],
       en: ["Founded in 1874.", "Area: 5 hectares.", "10,000 plant species.", "Large greenhouse is 1,000 sq m.", "Japanese garden laid out in 2000.", "Trees up to 200 years old."],
     },
+    image: "/poi-images/serbia-belgrade-botanical-garden-life-v2.webp",
   },
   {
     id: "serbia-stara-planina-park-life-v2",
@@ -224,6 +230,7 @@ export const serbiaLifeV2: POI[] = [
       ro: ["Parcul se întinde pe 1.200 km².", "Vârful Midžor are 2.169 m.", "100 de cascade cu înălțime peste 10 m.", "40 de specii de mamifere.", "Precipitații medii anuale: 800 mm.", "Satul Topli Do este la 1.400 m altitudine."],
       en: ["Park covers 1,200 km².", "Highest peak Midžor at 2,169 m.", "100 waterfalls over 10 m high.", "40 mammal species.", "Average annual rainfall: 800 mm.", "Village of Topli Do at 1,400 m elevation."],
     },
+    image: "/poi-images/serbia-stara-planina-park-life-v2.webp",
   },
   {
     id: "serbia-carska-bara-reserve-life-v2",
@@ -256,6 +263,7 @@ export const serbiaLifeV2: POI[] = [
       ro: ["Rezervația înființată în 1955.", "Suprafață: 5.200 ha.", "240 de specii de păsări.", "Oglinda apei: 1.500 ha.", "100 de perechi de acvilă țipătoare cuibăresc aici.", "Adâncimea maximă a apei: 2 m."],
       en: ["Reserve established in 1955.", "Area: 5,200 hectares.", "240 bird species.", "Water surface: 1,500 ha.", "100 pairs of eastern imperial eagle nest here.", "Maximum water depth: 2 meters."],
     },
+    image: "/poi-images/serbia-carska-bara-reserve-life-v2.webp",
   },
   {
     id: "serbia-ovcar-kablar-reserve-life-v2",
@@ -288,6 +296,7 @@ export const serbiaLifeV2: POI[] = [
       ro: ["Suprafață: 11.250 ha", "Adâncimea canionului: până la 400 m", "Desemnare: 2009", "Număr mănăstiri: 16", "Specii de plante: >500", "Faună: urs brun, lup, acvilă de stâncă"],
       en: ["Area: 11,250 ha", "Gorge depth: up to 400 m", "Established: 2009", "Number of monasteries: 16", "Plant species: >500", "Mammals: brown bear, wolf, golden eagle"],
     },
+    image: "/poi-images/serbia-ovcar-kablar-reserve-life-v2.webp",
   },
   {
     id: "serbia-veliki-ratno-ostrvo-life-v2",
@@ -320,6 +329,7 @@ export const serbiaLifeV2: POI[] = [
       ro: ["Insula are 200 ha.", "Altitudine: 70 m.", "100 de specii de păsări.", "Lungime: 2 km.", "Lățime maximă: 1 km.", "5.000 de vizitatori anual."],
       en: ["Island area: 200 hectares.", "Elevation: 70 meters.", "100 bird species.", "Length: 2 km.", "Maximum width: 1 km.", "5,000 visitors annually."],
     },
+    image: "/poi-images/serbia-veliki-ratno-ostrvo-life-v2.webp",
   },
   {
     id: "serbia-kopaonik-park-life-v2",
@@ -352,6 +362,7 @@ export const serbiaLifeV2: POI[] = [
       ro: ["Parcul înființat în 1981.", "Suprafață: 120 km².", "1.600 de specii de plante.", "Vârful Pančićev vrh: 2.017 m.", "25 de pârtii de schi, total 60 km.", "Stratul mediu de zăpadă: 100 cm."],
       en: ["Park established in 1981.", "Area: 120 km².", "1,600 plant species.", "Highest peak Pančićev vrh: 2,017 m.", "25 ski slopes totaling 60 km.", "Average snow cover: 100 cm."],
     },
+    image: "/poi-images/serbia-kopaonik-park-life-v2.webp",
   },
   {
     id: "serbia-fruska-gora-park-life-v2",
@@ -384,6 +395,7 @@ export const serbiaLifeV2: POI[] = [
       ro: ["Parcul național a fost înființat în 1960 și acoperă 26.672 de hectare.", "Cel mai înalt punct este Crveni Čot, la 539 de metri deasupra nivelului mării.", "Pe teritoriul parcului există 16 mănăstiri ortodoxe.", "Peste 1.200 de specii de plante au fost înregistrate în parc.", "Fruška Gora se întinde pe o lungime de 80 de kilometri.", "Aproximativ 300.000 de turiști vizitează parcul anual."],
       en: ["The national park was established in 1960 and covers 26,672 hectares.", "The highest point is Crveni Čot at 539 meters above sea level.", "There are 16 Orthodox monasteries within the park.", "Over 1,200 plant species have been recorded in the park.", "Fruška Gora stretches for 80 kilometers in length.", "Approximately 300,000 tourists visit the park annually."],
     },
+    image: "/poi-images/serbia-fruska-gora-park-life-v2.webp",
   },
   {
     id: "serbia-djavolja-varos-life-v2",
@@ -416,6 +428,7 @@ export const serbiaLifeV2: POI[] = [
       ro: ["Đavolja Varoș este format din aproximativ 200 de stâlpi de pământ.", "Cei mai înalți stâlpi ating o înălțime de 15 metri.", "Zona a fost declarată monument natural în 1959.", "Stâlpii sunt formați din tuf vulcanic șiandezit.", "Două pâraie cu pH diferit curg prin formațiuni (pH 1,5 și pH 3,5).", "Locul se află la o altitudine de 640-700 de metri deasupra nivelului mării."],
       en: ["Đavolja Varoš consists of about 200 earth pyramids.", "The tallest towers reach a height of 15 meters.", "The area was declared a natural monument in 1959.", "The earth pyramids are formed from volcanic tuff and andesite.", "Two streams with different pH levels flow through the formations (pH 1.5 and pH 3.5).", "The site is located at an elevation of 640-700 meters above sea level."],
     },
+    image: "/poi-images/serbia-djavolja-varos-life-v2.webp",
   },
   {
     id: "serbia-uvac-canyon-life-v2",
@@ -448,6 +461,7 @@ export const serbiaLifeV2: POI[] = [
       ro: ["Cheile Uvac se întind pe 35 de kilometri.", "Adâncimea maximă este de 300 de metri.", "Colonia de vulturi suri numără aproximativ 500 de perechi cuibăritoare.", "Lacul de acumulare Uvac are o suprafață de 6 kilometri pătrați.", "Peștera Uvac are o lungime de 6.185 de metri.", "Cheile sunt situate la o altitudine de 800-1.000 de metri."],
       en: ["Uvac Canyon stretches for 35 kilometers.", "The maximum depth is 300 meters.", "The griffon vulture colony numbers about 500 breeding pairs.", "The Uvac reservoir has an area of 6 square kilometers.", "The Uvac Cave is 6,185 meters long.", "The canyon is located at an elevation of 800-1,000 meters."],
     },
+    image: "/poi-images/serbia-uvac-canyon-life-v2.webp",
   },
   {
     id: "serbia-djerdap-park-life-v2",
@@ -480,6 +494,7 @@ export const serbiaLifeV2: POI[] = [
       ro: ["Parcul național se întinde pe 64.000 de hectare.", "Defileul Đerdap are 117 kilometri lungime și până la 300 de metri adâncime.", "Dunărea se îngustează în defileu la 150 de metri lățime.", "Barajul Đerdap a fost finalizat în 1972 și produce 2.200 de megawați.", "Placa lui Traian a fost sculptată în stâncă în anul 103 d.Hr.", "Parcul găzduiește peste 1.100 de specii de plante."],
       en: ["The national park covers 64,000 hectares.", "The Đerdap Gorge is 117 kilometers long and up to 300 meters deep.", "The Danube narrows in the gorge to 150 meters width.", "The Đerdap Dam was completed in 1972 and generates 2,200 megawatts.", "Trajan's Plaque was carved into the rock in 103 AD.", "The park hosts over 1,100 plant species."],
     },
+    image: "/poi-images/serbia-djerdap-park-life-v2.webp",
   },
   {
     id: "serbia-rospi-cuprija-life-v2",
@@ -512,6 +527,7 @@ export const serbiaLifeV2: POI[] = [
       ro: ["Zona umedă se întinde pe 1.500 de hectare.", "Adăpostește peste 200 de specii de păsări, inclusiv 100 de specii cuibăritoare.", "Adâncimea apei variază între 0,5 și 3 metri.", "Populația de crap este estimată la aproximativ 50 de tone.", "Rezervația a fost protejată în 1969.", "Aproximativ 30.000 de păsări migratoare se opresc aici anual."],
       en: ["The wetland covers 1,500 hectares.", "It hosts over 200 bird species, including 100 breeding species.", "Water depth ranges from 0.5 to 3 meters.", "The carp population is estimated at about 50 tons.", "The reserve was protected in 1969.", "Approximately 30,000 migratory birds stop here annually."],
     },
+    image: "/poi-images/serbia-rospi-cuprija-life-v2.webp",
   },
   {
     id: "serbia-valjevo-mountains-life-v2",
@@ -544,6 +560,7 @@ export const serbiaLifeV2: POI[] = [
       ro: ["Cel mai înalt punct este Povlen, cu 1.347 de metri.", "Peștera Petnica are 6,5 kilometri lungime.", "Munții Valjevo acoperă o suprafață de aproximativ 1.200 de kilometri pătrați.", "Maljen are 1.104 metri înălțime.", "Bătălia de la Kolubara a avut loc în 1914.", "Regiunea are peste 100 de peșteri înregistrate."],
       en: ["The highest peak is Povlen at 1,347 meters.", "Petnica Cave is 6.5 kilometers long.", "The Valjevo Mountains cover an area of about 1,200 square kilometers.", "Maljen is 1,104 meters high.", "The Battle of Kolubara took place in 1914.", "The region has over 100 recorded caves."],
     },
+    image: "/poi-images/serbia-valjevo-mountains-life-v2.webp",
   },
   {
     id: "serbia-banjska-stena-life-v2",
@@ -576,6 +593,7 @@ export const serbiaLifeV2: POI[] = [
       ro: ["Altitudinea punctului de belvedere este de 1.100 de metri.", "Punctul de belvedere se află în Parcul Național Tara, înființat în 1960.", "Parcul Național Tara se întinde pe 19.175 de hectare.", "Defileul Drinei are o adâncime de până la 1.000 de metri.", "Cel mai înalt vârf al Tarei este Kozji Rid, cu 1.591 de metri.", "Molidul sârbesc (Picea omorika) este o specie endemică care se găsește aici."],
       en: ["The viewpoint is at 1,100 meters altitude.", "The viewpoint is within Tara National Park, established in 1960.", "Tara National Park covers 19,175 hectares.", "The Drina Gorge is up to 1,000 meters deep.", "The highest peak of Tara is Kozji Rid at 1,591 meters.", "The Serbian spruce (Picea omorika) is an endemic species found here."],
     },
+    image: "/poi-images/serbia-banjska-stena-life-v2.webp",
   },
   {
     id: "serbia-zlatibor-park-life-v2",
@@ -608,6 +626,7 @@ export const serbiaLifeV2: POI[] = [
       ro: ["Parcul natural se întinde pe 300 de kilometri pătrați.", "Altitudinea medie este de 700-1.000 de metri.", "Tornik are 1.496 de metri, fiind cel mai înalt vârf.", "Lacul Ribnica are o suprafață de 5 hectare.", "Linia de cale ferată istorică Belgrad-Bar trece prin Zlatibor.", "Numărul anual de vizitatori depășește 500.000."],
       en: ["The nature park covers 300 square kilometers.", "Average elevation is 700-1,000 meters.", "Tornik is 1,496 meters high, the highest peak.", "Ribnica Lake has an area of 5 hectares.", "The historic Belgrade-Bar railway line runs through Zlatibor.", "Annual visitor numbers exceed 500,000."],
     },
+    image: "/poi-images/serbia-zlatibor-park-life-v2.webp",
   },
   {
     id: "serbia-cer-mountain-life-v2",
@@ -640,6 +659,7 @@ export const serbiaLifeV2: POI[] = [
       ro: ["Înălțimea Cerului este de 687 de metri.", "Bătălia de la Cer a avut loc între 15 și 24 august 1914.", "Muntele face parte din masivul Cer, care se întinde pe 20 de kilometri.", "Acoperirea forestieră este de aproximativ 80% din suprafață.", "Pe vârf se află o capelă construită în 1922.", "Regiunea are peste 100 de zile însorite pe an."],
       en: ["The height of Cer is 687 meters.", "The Battle of Cer took place from August 15-24, 1914.", "The mountain is part of the Cer massif, stretching 20 kilometers.", "Forest cover is about 80% of the area.", "On the summit is a chapel built in 1922.", "The region has over 100 sunny days per year."],
     },
+    image: "/poi-images/serbia-cer-mountain-life-v2.webp",
   },
   {
     id: "serbia-besna-kobila-life-v2",
@@ -672,6 +692,7 @@ export const serbiaLifeV2: POI[] = [
       ro: ["Înălțimea vârfului este de 1.923 de metri.", "Muntele se întinde pe 15 kilometri de-a lungul graniței cu Macedonia de Nord.", "Lacul Besna Kobila este situat la 1.800 de metri altitudine.", "Clopoțelul de Osogovo (Campanula osogovensis) este o specie endemică.", "Izvoarele termale de la Besna Kobila au o temperatură a apei de 38-42 °C.", "Acoperirea forestieră este de aproximativ 60% din suprafața muntelui."],
       en: ["The peak height is 1,923 meters.", "The mountain stretches 15 kilometers along the border with North Macedonia.", "Lake Besna Kobila is located at 1,800 meters elevation.", "The Osogovo bellflower (Campanula osogovensis) is an endemic species.", "The thermal springs at Besna Kobila have water temperature of 38-42 °C.", "Forest cover is about 60% of the mountain area."],
     },
+    image: "/poi-images/serbia-besna-kobila-life-v2.webp",
   },
   {
     id: "serbia-stara-planina-waterfalls-life-v2",
@@ -704,6 +725,7 @@ export const serbiaLifeV2: POI[] = [
       ro: ["Cea mai înaltă cascadă din Stara Planina este Pilj, cu o cădere de 15 metri.", "Parcul Natural Stara Planina acoperă 1.140 de kilometri pătrați.", "Cel mai înalt vârf este Midžor, cu 2.169 de metri.", "Regiunea găzduiește peste 2.000 de specii de plante.", "Cascada Čungulj are 10 metri înălțime.", "Stara Planina se întinde pe 530 de kilometri de-a lungul graniței."],
       en: ["The highest waterfall in Stara Planina is Pilj with a 15-meter drop.", "Stara Planina Nature Park covers 1,140 square kilometers.", "The highest peak is Midžor at 2,169 meters.", "The region hosts over 2,000 plant species.", "Čungulj waterfall is 10 meters high.", "Stara Planina stretches 530 kilometers along the border."],
     },
+    image: "/poi-images/serbia-stara-planina-waterfalls-life-v2.webp",
   },
   {
     id: "serbia-tamiš-river-life-v2",
@@ -736,6 +758,7 @@ export const serbiaLifeV2: POI[] = [
       ro: ["Tamișul are 340 de kilometri lungime, dintre care 118 în Serbia.", "Lățimea medie este de 50-80 de metri.", "Bazinul de recepție acoperă 13.600 de kilometri pătrați.", "Debitul maxim măsurat este de 1.200 m³/s.", "Râul se varsă în Dunăre lângă Pančevo, la o altitudine de 62 de metri.", "Delta Tamișului include 1.500 de hectare de zone umede."],
       en: ["The Tamiš is 340 kilometers long, of which 118 in Serbia.", "Average width is 50-80 meters.", "The catchment area covers 13,600 square kilometers.", "The highest measured discharge is 1,200 m³/s.", "The river joins the Danube at Pančevo at 62 meters elevation.", "The Tamiš Delta comprises 1,500 hectares of wetland."],
     },
+    image: "/poi-images/serbia-tamiš-river-life-v2.webp",
   },
   {
     id: "serbia-suva-planina-life-v2",
@@ -768,6 +791,7 @@ export const serbiaLifeV2: POI[] = [
       ro: ["Cel mai înalt vârf este Trem, cu 1.810 metri.", "Parcul natural se întinde pe 18.500 de hectare.", "Peștera Cerjanska are o lungime de 2.500 de metri.", "Există peste 600 de specii de plante, inclusiv 30 de endemice.", "Garoafa de Suva Planina (Dianthus suvae) este o specie endemică.", "Regiunea are peste 50 de peșteri."],
       en: ["The highest peak is Trem at 1,810 meters.", "The nature park covers 18,500 hectares.", "Cerjanska Cave is 2,500 meters long.", "There are over 600 plant species, including 30 endemics.", "The Suva Planina carnation (Dianthus suvae) is an endemic species.", "The region has more than 50 caves."],
     },
+    image: "/poi-images/serbia-suva-planina-life-v2.webp",
   },
   {
     id: "serbia-vlasina-lake-life-v2",
@@ -800,6 +824,7 @@ export const serbiaLifeV2: POI[] = [
       ro: ["Lacul Vlasina este situat la 1.213 metri altitudine.", "Suprafața este de 16 kilometri pătrați.", "Adâncimea maximă este de 22 de metri.", "Barajul a fost finalizat în 1954.", "Insulele plutitoare de turbă au o dimensiune de până la 20 de hectare.", "Lacul găzduiește peste 200 de specii de păsări."],
       en: ["Vlasina Lake is located at 1,213 meters altitude.", "Area is 16 square kilometers.", "Maximum depth is 22 meters.", "The dam was completed in 1954.", "The floating peat islands can be up to 20 hectares in size.", "The lake hosts over 200 bird species."],
     },
+    image: "/poi-images/serbia-vlasina-lake-life-v2.webp",
   },
   {
     id: "serbia-goc-mountain-life-v2",
@@ -832,6 +857,7 @@ export const serbiaLifeV2: POI[] = [
       ro: ["Cel mai înalt vârf este Kamenac, cu 1.216 metri.", "Acoperirea forestieră este de 85% din suprafață.", "Izvoarele minerale de la Goč au o temperatură de 12-15 °C.", "Mănăstirea Žiča datează din anul 1207.", "Regiunea Goč acoperă aproximativ 200 de kilometri pătrați.", "Precipitațiile anuale sunt de 800 mm."],
       en: ["The highest peak is Kamenac at 1,216 meters.", "Forest cover is 85% of the area.", "The mineral springs of Goč have a temperature of 12-15 °C.", "The Žiča Monastery dates from 1207.", "The Goč region covers about 200 square kilometers.", "Annual precipitation is 800 mm."],
     },
+    image: "/poi-images/serbia-goc-mountain-life-v2.webp",
   },
   {
     id: "serbia-grmija-forest-life-v2",
@@ -864,6 +890,7 @@ export const serbiaLifeV2: POI[] = [
       ro: ["Pădurea se întinde pe 500 de hectare.", "Specia de arbori dominantă este stejarul (Quercus robur).", "Teritoriul de vânătoare adăpostește o populație de aproximativ 200 de cerbi lopătari.", "Cel mai înalt punct din pădure este la 600 de metri.", "Temperatura medie anuală este de 11 °C.", "Pădurea a fost declarată rezervație naturală în 2005."],
       en: ["The forest covers 500 hectares.", "The dominant tree species is oak (Quercus robur).", "The hunting ground hosts a population of about 200 fallow deer.", "The highest point in the forest is 600 meters.", "Average annual temperature is 11 °C.", "The forest was designated a nature reserve in 2005."],
     },
+    image: "/poi-images/serbia-grmija-forest-life-v2.webp",
   },
   {
     id: "serbia-zobnatica-park-life-v2",
@@ -896,6 +923,7 @@ export const serbiaLifeV2: POI[] = [
       ro: ["Suprafață: 18 ha", "Construcția castelului: secolul al XIX-lea", "Monument natural din: 2007", "Arbori: sequoia, ginkgo", "Grădină zoologică: da", "Distanță de Bačka Topola: 5 km"],
       en: ["Area: 18 ha", "Castle built: 19th century", "Natural monument since: 2007", "Notable trees: giant sequoia, ginkgo", "Zoo: yes", "Distance from Bačka Topola: 5 km"],
     },
+    image: "/poi-images/serbia-zobnatica-park-life-v2.webp",
   },
   {
     id: "serbia-rila-mountains-serbian-part-life-v2",
@@ -928,5 +956,6 @@ export const serbiaLifeV2: POI[] = [
       ro: ["Altitudine maximă: ~1.800 m", "Granita cu Bulgaria: 20 km", "Acoperire forestieră: >70%", "Mamifer: urs brun", "Densitatea populației: <10 loc./km²", "Protecție: parte a Parcului Natural Stara Planina"],
       en: ["Maximum elevation: ~1,800 m", "Bulgarian border stretch: 20 km", "Forest cover: >70%", "Mammal: brown bear", "Population density: <10/km²", "Protected area: part of Stara Planina Nature Park"],
     },
+    image: "/poi-images/serbia-rila-mountains-serbian-part-life-v2.webp",
   }
 ];

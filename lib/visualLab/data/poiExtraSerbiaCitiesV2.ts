@@ -32,6 +32,7 @@ export const serbiaCitiesV2: POI[] = [
       ro: ["Populație: aprox. 15.000 (oraș), 37.000 (municipiu)", "Altitudine: 440 m deasupra nivelului mării", "Suprafața municipiului: 827 km²", "Lungimea căii ferate Belgrad–Bar prin oraș: 30 km", "Prima mențiune a orașului: 1274", "Numărul de fabrici textile: 5 unități mari"],
       en: ["Population: approx. 15,000 (town), 37,000 (municipality)", "Elevation: 440 m (1,444 ft) above sea level", "Municipality area: 827 km² (319 sq mi)", "Length of Belgrade–Bar railway through town: 30 km (19 mi)", "First mentioned: 1274", "Number of textile factories: 5 major plants"],
     },
+    image: "/poi-images/serbia-prijepolje-cities-v2.webp",
   },
   {
     id: "serbia-loznica-cities-v2",
@@ -64,6 +65,7 @@ export const serbiaCitiesV2: POI[] = [
       ro: ["Atestat documentar în anul 1317", "Altitudine medie de 142 metri", "Populație municipală de 79.134 locuitori", "Zăcăminte masive de jadarit în zonă", "Proximitate față de râul Drina", "Muntele Gučevo atinge 779 m înălțime"],
       en: ["First historical mention in 1317", "Elevation: 142 meters above sea level", "Municipality population: 79,134", "Home to unique Jadarite lithium deposits", "Located on the banks of the Drina river", "Includes the historic Tronoša Monastery"],
     },
+    image: "/poi-images/serbia-loznica-cities-v2.webp",
   },
   {
     id: "serbia-vladicin-han-cities-v2",
@@ -96,5 +98,6 @@ export const serbiaCitiesV2: POI[] = [
       ro: ["Fondat în secolul al XIX-lea", "Situat pe valea Moravei de Sud", "Apartine de districtul Pčinja", "Nod feroviar și rutier strategic", "Altitudine medie de 328 metri", "Populație urbană de circa 8.000 persoane"],
       en: ["Founded in the late 19th century", "Located on the South Morava river", "Part of the Pčinja District", "Critical rail and road transport hub", "Elevation: 328 meters above sea level", "Town population is approximately 8,000"],
     },
+    image: "/poi-images/serbia-vladicin-han-cities-v2.webp",
   }
 ];

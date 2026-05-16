@@ -248,7 +248,8 @@ export const luxembourgLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
+    },
+    image: "/poi-images/luxembourg-septfontaines-castle-landmarks-v2.webp",
   },
   {
     id: "luxembourg-mersch-castle-landmarks-v2",
@@ -1025,7 +1026,8 @@ export const luxembourgLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
+    },
+    image: "/poi-images/luxembourg-grand-ducal-museum-history-landmarks-v2.webp",
   },
   {
     id: "luxembourg-vauban-circular-walk-landmarks-v2",
@@ -1181,7 +1183,8 @@ export const luxembourgLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
+    },
+    image: "/poi-images/luxembourg-saint-nicholas-church-vianden-landmarks-v2.webp",
   },
   {
     id: "luxembourg-wirtgen-castle-landmarks-v2",
@@ -1213,6 +1216,7 @@ export const luxembourgLandmarksV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
+    },
+    image: "/poi-images/luxembourg-wirtgen-castle-landmarks-v2.webp",
   }
 ];

@@ -32,6 +32,7 @@ export const italyLifeV2: POI[] = [
       ro: ["Anul înființării: 1934", "Suprafață totală: 5.616 hectare", "Altitudinea maximă: 541 metri", "Lungimea dunelor de coastă: 25 km", "Include 4 lacuri costiere principale", "Statut de Rezervație Biosferă UNESCO"],
       en: ["Year of establishment: 1934", "Total land area: 5,616 hectares", "Peak elevation: 541 meters", "Coastal dune length: 25 kilometers", "Number of protected coastal lakes: 4", "UNESCO Biosphere Reserve since 1977"],
     },
+    image: "/poi-images/italy-parco-nazionale-circeo-life-v2.webp",
   },
   {
     id: "italy-parco-nazionale-cilento-life-v2",
@@ -64,6 +65,7 @@ export const italyLifeV2: POI[] = [
       ro: ["Fondat în anul 1991", "Suprafață de 181.048 hectare", "Patrimoniu UNESCO din 1998", "Peste 1.800 de specii de plante"],
       en: ["Founded in 1991", "Area of 181,048 hectares", "UNESCO site since 1998", "Over 1,800 plant species"],
     },
+    image: "/poi-images/italy-parco-nazionale-cilento-life-v2.webp",
   },
   {
     id: "italy-riserva-naturale-torre-guaceto-life-v2",
@@ -96,6 +98,7 @@ export const italyLifeV2: POI[] = [
       ro: ["1.200 hectare zonă marină", "Turn de pază din secolul XVI", "Sit RAMSAR din anul 1981", "222 hectare zonă terestră"],
       en: ["1,200 hectares marine zone", "16th-century watchtower", "RAMSAR site since 1981", "222 hectares land area"],
     },
+    image: "/poi-images/italy-riserva-naturale-torre-guaceto-life-v2.webp",
   },
   {
     id: "italy-orto-botanico-di-padova-life-v2",
@@ -128,6 +131,7 @@ export const italyLifeV2: POI[] = [
       ro: ["Anul fondării: 1545", "Inclus în patrimoniul UNESCO: 1997", "Număr de specii: peste 6.000", "Cea mai veche plantă: Palmierul lui Goethe", "Suprafața grădinii: 2,2 hectare", "Coordonate: 45°24 N, 11°52 E"],
       en: ["Founded in: 1545", "UNESCO World Heritage since: 1997", "Number of plant species: 6,000+", "Oldest specimen: Goethe Palm from 1585", "Total area size: 2.2 hectares", "Original circular layout diameter: 84m"],
     },
+    image: "/poi-images/italy-orto-botanico-di-padova-life-v2.webp",
   },
   {
     id: "italy-parco-nazionale-val-grande-life-v2",
@@ -160,6 +164,7 @@ export const italyLifeV2: POI[] = [
       ro: ["Anul înființării: 1992", "Suprafață: 14.598 hectare", "Altitudinea maximă: 2.301 metri", "Precipitații anuale medii: 2.000 mm", "Fără așezări umane permanente", "Biodiversitate: peste 400 de specii vegetale"],
       en: ["Established in: 1992", "Total area: 14,598 hectares", "Highest peak: Monte Togano at 2,301m", "Annual precipitation: approx 2,000 mm", "Key tree species: Beech and Chestnut", "Number of permanent residents: 0"],
     },
+    image: "/poi-images/italy-parco-nazionale-val-grande-life-v2.webp",
   },
   {
     id: "italy-parco-nazionale-sila-life-v2",
@@ -192,6 +197,7 @@ export const italyLifeV2: POI[] = [
       ro: ["Anul înființării: 1968 (reînființat 2002)", "Suprafață totală: 73.695 hectare", "Vârful maxim: Botte Donato (1.928 m)", "Cele 3 lacuri principale: Arvo, Cecita, Ampollino", "Specii dominante: Pinus laricio", "Prezența lupului apeninic este stabilă"],
       en: ["Original establishment: 1968", "Current total area: 73,695 hectares", "Highest peak: Botte Donato at 1,928m", "Main lakes: Arvo, Cecita, and Ampollino", "Dominant tree: Corsican Pine (Pinus laricio)", "Home to the Italian wolf (Canis lupus)"],
     },
+    image: "/poi-images/italy-parco-nazionale-sila-life-v2.webp",
   },
   {
     id: "italy-parco-nazionale-aspromonte-life-v2",
@@ -224,6 +230,7 @@ export const italyLifeV2: POI[] = [
       ro: ["Anul înființării: 1989", "Suprafață: 64.153 hectare", "Altitudinea maximă: 1.955 metri", "Peste 1.500 de specii de plante", "Include monumentul lui Garibaldi", "Localizare: Regiunea Calabria"],
       en: ["Established in: 1989", "Total area: 64,153 hectares", "Highest peak: Montalto at 1,955m", "Plant biodiversity: approx 1,500 species", "Geology: Gneiss and Mica schist rocks", "Region: Calabria, Southern Italy"],
     },
+    image: "/poi-images/italy-parco-nazionale-aspromonte-life-v2.webp",
   },
   {
     id: "italy-parco-nazionale-gargano-life-v2",
@@ -256,6 +263,7 @@ export const italyLifeV2: POI[] = [
       ro: ["Suprafață de 121.118 hectare", "Înființat în anul 1991", "Peste 80 de specii de orhidee", "Altitudine maximă de 1.065 m"],
       en: ["Area of 121,118 hectares", "Founded in 1991", "Over 80 orchid species", "Maximum elevation 1,065 m"],
     },
+    image: "/poi-images/italy-parco-nazionale-gargano-life-v2.webp",
   },
   {
     id: "italy-oasi-di-bolgheri-life-v2",
@@ -288,6 +296,7 @@ export const italyLifeV2: POI[] = [
       ro: ["Anul înființării: 1959", "Suprafață: 513 hectare", "Prima rezervație WWF (din 1966)", "Peste 200 de specii de păsări", "Habitate: mlaștini și dune de nisip", "Localizare: Provincia Livorno"],
       en: ["Established in: 1959", "Total area size: 513 hectares", "First Italian WWF site since 1966", "Bird species: over 200 recorded", "Vegetation: Juniper and Stone Pine", "Location: Castagneto Carducci, Tuscany"],
     },
+    image: "/poi-images/italy-oasi-di-bolgheri-life-v2.webp",
   },
   {
     id: "italy-parco-nazionale-maiella-life-v2",
@@ -320,6 +329,7 @@ export const italyLifeV2: POI[] = [
       ro: ["Fondat în anul 1991", "Vârful Monte Amaro (2.793 m)", "Suprafață de 74.095 hectare", "Peste 2.100 de specii de plante"],
       en: ["Established in 1991", "2,793 m (Monte Amaro)", "Area of 74,095 hectares", "Over 2,100 plant species"],
     },
+    image: "/poi-images/italy-parco-nazionale-maiella-life-v2.webp",
   },
   {
     id: "italy-giardino-botanico-hanbury-life-v2",
@@ -352,6 +362,7 @@ export const italyLifeV2: POI[] = [
       ro: ["Anul fondării: 1867", "Suprafață totală: 18 hectare", "Număr de specii: aprox. 5.800", "Diferență de nivel: 100 metri", "Administrat de Universitatea din Genova", "Localizare: Capul Mortola, Liguria"],
       en: ["Founded in: 1867", "Total land area: 18 hectares", "Plant species count: approx 5,800", "Elevation range: 0 to 100 meters", "Managed by: University of Genoa", "Location: Mortola, near Ventimiglia"],
     },
+    image: "/poi-images/italy-giardino-botanico-hanbury-life-v2.webp",
   },
   {
     id: "italy-parco-nazionale-foreste-casentinesi-life-v2",
@@ -384,6 +395,7 @@ export const italyLifeV2: POI[] = [
       ro: ["Anul înființării: 1993", "Suprafață: 36.843 hectare", "Altitudinea maximă: 1.658 metri", "Pădurile de fag sunt protejate UNESCO", "Izvorul râului Arno se află aici", "Acoperire forestieră: peste 80%"],
       en: ["Established in: 1993", "Total area: 36,843 hectares", "Highest peak: Monte Falterona at 1,658m", "UNESCO site for ancient beech forests", "Source of the Arno River is located here", "Forest coverage: over 80% of total land"],
     },
+    image: "/poi-images/italy-parco-nazionale-foreste-casentinesi-life-v2.webp",
   },
   {
     id: "italy-parco-naturale-regionale-migliarino-san-rossore-life-v2",
@@ -416,6 +428,7 @@ export const italyLifeV2: POI[] = [
       ro: ["Suprafață de 23.000 hectare", "Fondat în anul 1979", "14 km de linie de coastă", "Peste 250 de specii de păsări"],
       en: ["Area of 23,000 hectares", "Founded in 1979", "14 km of coastline", "Over 250 bird species"],
     },
+    image: "/poi-images/italy-parco-naturale-regionale-migliarino-san-rossore-life-v2.webp",
   },
   {
     id: "italy-parco-nazionale-abruzzo-lazio-molise-life-v2",
@@ -448,6 +461,7 @@ export const italyLifeV2: POI[] = [
       ro: ["Anul fondării: 1923", "Suprafață: aprox. 50.000 hectare", "Vârful maxim: Monte Petroso (2.249 m)", "Populația de urși: aprox. 50-60", "Număr specii plante: peste 2.000", "Cuprinde 3 regiuni administrative"],
       en: ["Year founded: 1923", "Total area: approx 50,000 hectares", "Highest peak: Monte Petroso at 2,249m", "Brown bear population: approx 50-60", "Plant biodiversity: 2,000+ species", "Covered regions: Abruzzo, Lazio, Molise"],
     },
+    image: "/poi-images/italy-parco-nazionale-abruzzo-lazio-molise-life-v2.webp",
   },
   {
     id: "italy-oasi-wwe-le-cesine-life-v2",
@@ -480,6 +494,7 @@ export const italyLifeV2: POI[] = [
       ro: ["Suprafață totală de 380 hectare", "Sit RAMSAR din anul 1977", "32 de specii de libelule", "Peste 180 de specii de păsări"],
       en: ["Total area of 380 hectares", "RAMSAR site since 1977", "32 species of dragonflies", "Over 180 bird species"],
     },
+    image: "/poi-images/italy-oasi-wwe-le-cesine-life-v2.webp",
   },
   {
     id: "italy-parco-regionale-dell-etna-life-v2",
@@ -512,6 +527,7 @@ export const italyLifeV2: POI[] = [
       ro: ["Suprafață de 59.000 hectare", "Altitudine de aprox. 3.357 m", "Înființat în anul 1987", "Patrimoniu UNESCO din 2013"],
       en: ["Area of 59,000 hectares", "Elevation approx. 3,357 m", "Established in 1987", "UNESCO site since 2013"],
     },
+    image: "/poi-images/italy-parco-regionale-dell-etna-life-v2.webp",
   },
   {
     id: "italy-riserva-di-vendicari-life-v2",
@@ -544,6 +560,7 @@ export const italyLifeV2: POI[] = [
       ro: ["Anul înființării: 1984", "Suprafață: 1.512 hectare", "Lungimea zonei de coastă: 8 km", "Peste 250 de specii de păsări", "Punct cheie pentru flamingo roz", "Include Tonnara di Vendicari (sec. XVIII)"],
       en: ["Established in: 1984", "Total area size: 1,512 hectares", "Coastline length: approx 8 kilometers", "Bird species documented: over 250", "Famous for: seasonal flamingo migrations", "Historical site: 18th-century tuna factory"],
     },
+    image: "/poi-images/italy-riserva-di-vendicari-life-v2.webp",
   },
   {
     id: "italy-parco-nazionale-gran-sasso-life-v2",
@@ -576,6 +593,7 @@ export const italyLifeV2: POI[] = [
       ro: ["Suprafață de 141.341 hectare", "Vârful Corno Grande (2.912 m)", "Înființat în anul 1991", "Peste 2.300 de specii de plante"],
       en: ["141,341 hectares area", "2,912 m (Corno Grande)", "Founded in 1991", "Over 2,300 plant species"],
     },
+    image: "/poi-images/italy-parco-nazionale-gran-sasso-life-v2.webp",
   },
   {
     id: "italy-parco-regionale-maremma-life-v2",
@@ -608,6 +626,7 @@ export const italyLifeV2: POI[] = [
       ro: ["Anul înființării: 1975", "Suprafață: 9.800 hectare", "Altitudinea maximă: 417 metri", "Lungimea țărmului: 25 km", "Rasă autohtonă: vacile Maremmana", "Include mlaștini și păduri de pin"],
       en: ["Established in: 1975", "Total area size: 9,800 hectares", "Highest point: Poggio Lecci at 417m", "Coastline length: 25 kilometers", "Native breeds: Maremmana cattle and horses", "Dominant flora: Stone pine and Holm oak"],
     },
+    image: "/poi-images/italy-parco-regionale-maremma-life-v2.webp",
   },
   {
     id: "italy-giardino-botanico-di-napoli-life-v2",
@@ -640,6 +659,7 @@ export const italyLifeV2: POI[] = [
       ro: ["Fondată în anul 1807", "Suprafață de 12 hectare", "Peste 9.000 de specii de plante", "Parte a Universității Federico II"],
       en: ["Founded in 1807", "12 hectares area", "Over 9,000 plant species", "Part of Federico II University"],
     },
+    image: "/poi-images/italy-giardino-botanico-di-napoli-life-v2.webp",
   },
   {
     id: "italy-parco-nazionale-monti-sibillini-life-v2",
@@ -672,6 +692,7 @@ export const italyLifeV2: POI[] = [
       ro: ["Anul înființării: 1993", "Suprafață: 71.437 hectare", "Cota maximă: Monte Vettore (2.476 m)", "Lacul Pilato se află la 1.941 m", "Cuprinde 16 municipalități", "Faună: capra neagră și acvila de munte"],
       en: ["Established in: 1993", "Total area: 71,437 hectares", "Highest peak: Monte Vettore at 2,476m", "Notable site: Lake Pilato at 1,941m", "Number of municipalities: 16", "Key wildlife: Apennine chamois and eagles"],
     },
+    image: "/poi-images/italy-parco-nazionale-monti-sibillini-life-v2.webp",
   },
   {
     id: "italy-parco-regionale-lago-di-bracciano-life-v2",
@@ -704,6 +725,7 @@ export const italyLifeV2: POI[] = [
       ro: ["Suprafața lacului: 57 km².", "Adâncime maximă: 165 m.", "Distanța față de Roma: 30 km.", "Origine vulcanică.", "Parcul înființat în 1999.", "Specii de păsări: peste 200."],
       en: ["Lake area: 57 km².", "Maximum depth: 165 m.", "Distance from Rome: 30 km.", "Volcanic origin.", "Park established in 1999.", "Bird species: over 200."],
     },
+    image: "/poi-images/italy-parco-regionale-lago-di-bracciano-life-v2.webp",
   },
   {
     id: "italy-riserva-naturale-foce-fiume-po-life-v2",
@@ -736,6 +758,7 @@ export const italyLifeV2: POI[] = [
       ro: ["Suprafață: 54.000 de hectare.", "Înființată în 1988.", "Patrimoniul UNESCO.", "Sit Ramsar.", "Peste 300 de specii de păsări.", "Cinci brațe principale ale Po."],
       en: ["Area: 54,000 hectares.", "Established in 1988.", "UNESCO World Heritage.", "Ramsar site.", "Over 300 bird species.", "Five main branches of the Po."],
     },
+    image: "/poi-images/italy-riserva-naturale-foce-fiume-po-life-v2.webp",
   },
   {
     id: "italy-parco-nazionale-della-val-d-agri-life-v2",
@@ -768,6 +791,7 @@ export const italyLifeV2: POI[] = [
       ro: ["Suprafață de 68.996 hectare", "Înființat în anul 2007", "Altitudine maximă de 2.005 m", "Peste 1.400 de specii de plante"],
       en: ["Area of 68,996 hectares", "Founded in 2007", "Max elevation 2,005 m", "Over 1,400 plant species"],
     },
+    image: "/poi-images/italy-parco-nazionale-della-val-d-agri-life-v2.webp",
   },
   {
     id: "italy-parco-regionale-monte-subasio-life-v2",
@@ -800,6 +824,7 @@ export const italyLifeV2: POI[] = [
       ro: ["Suprafață de 7.169 hectare", "Vârful Monte Subasio (1.290 m)", "Înființat în anul 1995", "Calcar roz caracteristic"],
       en: ["Area of 7,169 hectares", "Monte Subasio (1,290 m)", "Established in 1995", "Characteristic pink limestone"],
     },
+    image: "/poi-images/italy-parco-regionale-monte-subasio-life-v2.webp",
   },
   {
     id: "italy-riserva-naturale-tasso-di-monte-life-v2",
@@ -832,6 +857,7 @@ export const italyLifeV2: POI[] = [
       ro: ["Anul înființării: 1972", "Specie dominantă: Taxus baccata (Tisa)", "Suprafață: aprox. 300 hectare", "Localizare: Regiunea Lazio", "Altitudine: între 600 și 800 metri", "Statut: Rezervație naturală de stat"],
       en: ["Established in: 1972", "Primary tree: Taxus baccata (English Yew)", "Total area size: approx 300 hectares", "Location: Lazio region, Italy", "Elevation: 600 to 800 meters above sea", "Type: National State Nature Reserve"],
     },
+    image: "/poi-images/italy-riserva-naturale-tasso-di-monte-life-v2.webp",
   },
   {
     id: "italy-giardino-botanico-di-catania-life-v2",
@@ -864,6 +890,7 @@ export const italyLifeV2: POI[] = [
       ro: ["Anul fondării: 1858", "Suprafață: 1,5 hectare", "Specializare: plante suculente și cactuși", "Altitudine: 50 m deasupra mării", "Administrat de Universitatea din Catania", "Element central: clădirea în stil neoclasic"],
       en: ["Founded in: 1858", "Total area size: 1.5 hectares", "Key collection: Succulents and Cacti", "Elevation: 50 meters above sea level", "Managed by: University of Catania", "Feature: Neoclassical pavilion design"],
     },
+    image: "/poi-images/italy-giardino-botanico-di-catania-life-v2.webp",
   },
   {
     id: "italy-parco-regionale-del-conero-life-v2",
@@ -896,5 +923,6 @@ export const italyLifeV2: POI[] = [
       ro: ["Anul înființării: 1987", "Suprafață: 5.800 hectare", "Altitudinea maximă: 572 metri", "Lungimea coastei: aprox. 20 km", "Peste 1.000 de specii de plante", "Localizare: Provincia Ancona, Marche"],
       en: ["Established in: 1987", "Total area size: 5,800 hectares", "Peak elevation: 572 meters", "Coastline length: 20 kilometers", "Plant species count: 1,000+", "Location: Ancona province, Marche"],
     },
+    image: "/poi-images/italy-parco-regionale-del-conero-life-v2.webp",
   }
 ];

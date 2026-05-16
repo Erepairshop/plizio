@@ -1006,6 +1006,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Vârful Nadkrstac reprezintă cel mai înalt punct, având o cotă de 2.112 metri.", "Lacul Prokoško este habitatul tritonului alpin endemic (Triturus alpestris reiseri).", "Masivul constituie cumpăna apelor între bazinele râurilor Bosna și Vrbas.", "În Vranica se află urme ale unor mine de aur datând din epoca romană și medievală.", "Există peste 10 vârfuri în cadrul masivului care depășesc altitudinea de 2.000 m.", "Zona lacului Prokoško a fost declarată monument al naturii în anul 2005."],
       en: ["Nadkrstac peak is the highest point of Vranica at 2,112 meters above sea level.", "Prokoško Lake is the habitat of the endemic Alpine newt (Triturus alpestris reiseri).", "The mountain range serves as a watershed between the Bosna and Vrbas rivers.", "Vranica contains some of the oldest gold mines in Bosnia, dating back to Roman times.", "There are over 10 peaks within the massif that exceed an altitude of 2,000 meters.", "The Prokoško Lake area was designated as a regional nature monument in 2005."],
     },
+    image: "/poi-images/bosniaherzegovina-vranica-relief-v2.webp",
   },
   {
     id: "bosniaherzegovina-todor-relief-v2",
@@ -1038,6 +1039,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Vârful Todor atinge o altitudine de 2.014 metri deasupra nivelului mării.", "Face parte din masivul Zelengora, integrat în Parcul Național Sutjeska.", "Numele 'Todor' are rezonanțe în folclorul și tradițiile pastorale locale.", "Regiunea este un habitat important pentru caprele negre și acvilele de munte.", "Lacul Orlovačko, aflat în proximitate, este unul dintre cele mai pitorești lacuri glaciare.", "Geologia vârfului este marcată de prezența calcarului din perioada triasică."],
       en: ["The Todor peak reaches an altitude of 2,014 meters above sea level.", "It is part of the Zelengora mountain range within the Sutjeska National Park.", "The name 'Todor' is deeply rooted in local folklore and historical traditions.", "The area is a well-known habitat for chamois populations and golden eagles.", "Orlovačko Lake, one of the region's most beautiful glacial lakes, is located nearby.", "The peak is primarily composed of limestone dating back to the Triassic period."],
     },
+    image: "/poi-images/bosniaherzegovina-todor-relief-v2.webp",
   },
   {
     id: "bosniaherzegovina-vlasulja-relief-v2",
@@ -1070,6 +1072,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Vlasulja este punctul culminant al masivului Volujak, la 2.336 de metri.", "Vârful este situat chiar pe frontiera internațională cu Muntenegru.", "Din punct de vedere geologic, masivul este dominat de calcare cretacice.", "De pe munte se poate vedea faimosul lac glaciar Trnovačko, în formă de inimă.", "Ascensiunea necesită experiență alpină din cauza pantelor abrupte și grohotișului.", "Masivul face parte dintr-un coridor biologic transfrontalier între Sutjeska și Durmitor."],
       en: ["Vlasulja is the highest point of the Volujak range at 2,336 meters.", "The peak is located directly on the international border with Montenegro.", "Geologically, the massif is dominated by limestone from the Cretaceous period.", "The mountain offers a direct view of the heart-shaped Trnovačko Lake below.", "Climbing Vlasulja typically requires good physical fitness and mountain experience.", "The massif is part of a transborder ecological corridor between Sutjeska and Durmitor."],
     },
+    image: "/poi-images/bosniaherzegovina-vlasulja-relief-v2.webp",
   },
   {
     id: "bosniaherzegovina-cincar-planina-relief-v2",
@@ -1102,6 +1105,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Vârful Cincar, la 2.006 metri, este cel mai înalt munte din vestul Bosniei.", "Pe platourile masivului trăiesc aproximativ 700 de cai sălbăticiți protejați.", "Muntele domină Livanjsko polje, considerat cel mai mare câmp carstic din lume.", "Climatul este temperat-continental cu puternice influențe alpine și vânturi intense.", "Platoul Kruge este presărat cu mii de doline, creând un peisaj carstic spectaculos.", "Regiunea este un sit important pentru studiul proceselor de eroziune eoliană în carst."],
       en: ["Cincar peak is the highest mountain in western Bosnia at 2,006 meters.", "The high plateaus are home to an estimated population of over 700 wild horses.", "The mountain towers over Livanjsko polje, the largest karst field in the world.", "The average temperature on the peaks is significantly lower than the national average.", "The Kruge plateau is famous for its moon-like landscape formed by thousands of sinkholes.", "During winter, Cincar is a renowned area for challenging backcountry skiing."],
     },
+    image: "/poi-images/bosniaherzegovina-cincar-planina-relief-v2.webp",
   },
   {
     id: "bosniaherzegovina-stare-planine-relief-v2",
@@ -1134,6 +1138,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Regiunea este situată la o altitudine medie cuprinsă între 1.000 și 1.400 de metri.", "Localitatea Kalinovik reprezintă principalul centru administrativ al zonei.", "În zonă se găsesc numeroase necropole cu stećci, monumente medievale protejate.", "Flora include specii rare de orhidee și plante medicinale montane endemice.", "Producția tradițională de brânză de munte este o activitate economică de bază.", "Cantitatea anuală de precipitații este semnificativă, favorizând pădurile de conifere."],
       en: ["The region is situated at an average elevation between 1,000 and 1,400 meters.", "Kalinovik serves as the administrative and cultural heart of this mountain area.", "The area features numerous stećci, unique medieval tombstones characteristic of the region.", "The flora includes rare orchid species and endemic mountain herbs.", "The area is locally famous for its traditional mountain cheese production.", "Annual precipitation rates are among the highest in the Bosnian interior."],
     },
+    image: "/poi-images/bosniaherzegovina-stare-planine-relief-v2.webp",
   },
   {
     id: "bosniaherzegovina-bjela-gora-relief-v2",
@@ -1166,6 +1171,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Bijela Gora atinge altitudini de peste 1.800 de metri.", "Platoul este una dintre cele mai umede zone din Europa, în ciuda reliefului arid.", "Din punct de vedere geologic, masivul este alcătuit din calcare și dolomite.", "Pinul de munte (Pinus heldreichii) din zonă poate atinge vârste de peste 1.000 de ani.", "Regiunea este renumită pentru avenele sale verticale extrem de adânci.", "Nu există așezări umane permanente pe platoul înalt din Bijela Gora."],
       en: ["Bijela Gora reaches elevations of over 1,800 meters above sea level.", "The plateau is one of the rainiest areas in Europe, despite the lack of surface water.", "Geologically, the massif consists almost entirely of limestone and dolomite.", "The Bosnian pines (Pinus heldreichii) here can live for over 1,000 years.", "The area is famous for its extremely deep vertical caves and shafts.", "There are no permanent human settlements on the high plateau of Bijela Gora."],
     },
+    image: "/poi-images/bosniaherzegovina-bjela-gora-relief-v2.webp",
   },
   {
     id: "bosniaherzegovina-vrtoce-relief-v2",
@@ -1198,5 +1204,6 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ro: ["Vrtoče este situată într-un câmp carstic la o altitudine de 600-700 m.", "În apropiere se află vestigiile fortificației ilire cunoscută sub numele de 'Gradina'.", "Regiunea este renumită pentru producția tradițională de hrișcă.", "Muntele Osječenica din vecinătate este o destinație populară pentru drumeții.", "Climatul prezintă ierni aspre și veri plăcute, cu influențe montane.", "Gospodăriile tradiționale păstrează elemente de arhitectură din lemn și piatră."],
       en: ["Vrtoče is located in a karst field at an elevation of 600 to 700 meters.", "Remains of the ancient Illyrian fortress 'Gradina' are located nearby.", "The region is locally famous for high-quality buckwheat production.", "The nearby Osječenica mountain is a popular destination for hikers.", "The climate is characterized by cold winters and mild, dry summers.", "Traditional houses in the area often feature oak beams and local limestone."],
     },
+    image: "/poi-images/bosniaherzegovina-vrtoce-relief-v2.webp",
   }
 ];

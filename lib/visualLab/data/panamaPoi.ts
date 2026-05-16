@@ -93,7 +93,8 @@ export const panamaCities: POI[] = [
       en: ["Originally named Aspinwall, after one of the builders of the Panama Railroad.", "The city has suffered several major fires throughout its history.", "The Colón Free Trade Zone is a primary engine of the Panamanian economy."]
     },
     historyYear: 1850,
-    historyPeriod: "Modern"
+    historyPeriod: "Modern",
+    image: "/poi-images/pa-colon.webp",
   },
   { 
     id: "pa-santiago", 
@@ -336,7 +337,8 @@ export const panamaLandmarks: POI[] = [
       en: ["The construction cost the lives of over 25,000 workers due to disease and accidents.", "In 2016, the canal was expanded with a new, larger set of locks for bigger ships.", "A ship typically takes about 8 to 10 hours to complete the full transit."]
     },
     length: 82,
-    historyYear: 1914
+    historyYear: 1914,
+    image: "/poi-images/pa-canal.webp",
   },
   { 
     id: "pa-cascoviejo", 
@@ -679,7 +681,8 @@ export const panamaLandmarks: POI[] = [
       en: ["The park shares a border with the La Amistad International Park.", "It encompasses seven distinct climatic zones.", "The fertile volcanic soils of the park's lower slopes produce Panama's best coffee."]
     },
     area: 143,
-    elevation: 3474
+    elevation: 3474,
+    image: "/poi-images/pa-baru-volcano-park.webp",
   }
 ];
 

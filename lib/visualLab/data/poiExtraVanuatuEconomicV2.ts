@@ -31,6 +31,7 @@ export const vanuatuEconomicV2: POI[] = [
       ro: ["Inaugurarea cheiului original a avut loc în 1972", "Gestionează aproximativ 80% din traficul național de mărfuri", "Punct major de oprire pentru liniile internaționale de croazieră", "Amplasat în golful protejat Pont-Vila", "Modernizat cu sprijinul asistenței japoneze pentru dezvoltare", "Echipat cu sisteme moderne de management al terminalelor"],
       en: ["Opening of the original wharf took place in 1972", "Handles approximately 80% of Vanuatu's national trade", "Key port of call for international cruise lines", "Located within the sheltered Pont-Vila Bay area", "Upgraded with support from Japanese development aid", "Features modern terminal management and security systems"],
     },
+    image: "/poi-images/vanuatu-port-vila-wharf-economic-v2.webp",
   },
   {
     id: "vanuatu-luganville-wharf-economic-v2",
@@ -62,6 +63,7 @@ export const vanuatuEconomicV2: POI[] = [
       ro: ["Al doilea cel mai important port de export al țării", "Situat pe Canalul Segond, care are ape adânci", "Fost sit al bazei americane 'Buttons' în al Doilea Război Mondial", "Centru principal pentru transportul de copra și carne de vită", "Modernizare finalizată prin investiții chinezești", "Poartă de acces către celebrul sit de scufundări 'Million Dollar Point'"],
       en: ["Vanuatu's second most important export harbor", "Located on the naturally deep Segond Channel", "Former site of the massive WWII U.S. 'Buttons' base", "Primary transit point for copra and premium beef exports", "Modernization was completed via Chinese investment projects", "Gateway to the famous 'Million Dollar Point' diving site"],
     },
+    image: "/poi-images/vanuatu-luganville-wharf-economic-v2.webp",
   },
   {
     id: "vanuatu-lapetasi-wharf-economic-v2",
@@ -93,6 +95,7 @@ export const vanuatuEconomicV2: POI[] = [
       ro: ["Finanțat de Agenția Japoneză de Cooperare Internațională (JICA)", "Inaugurare oficială în februarie 2018", "Lungimea danei este de exact 200 de metri", "Specializat în manipularea și depozitarea containerelor", "A triplat capacitatea de manipulare a mărfurilor în port", "Eliberează cheiul principal pentru traficul de croazieră"],
       en: ["Funded by the Japan International Cooperation Agency (JICA)", "Officially commenced operations in February 2018", "The berth length is exactly 200 meters long", "Specialized in container handling and yard storage", "Tripled the cargo handling capacity of the port", "Relieves the main wharf for dedicated cruise ship use"],
     },
+    image: "/poi-images/vanuatu-lapetasi-wharf-economic-v2.webp",
   },
   {
     id: "vanuatu-brewing-limited-economic-v2",
@@ -124,6 +127,7 @@ export const vanuatuEconomicV2: POI[] = [
       ro: ["Fondarea companiei a avut loc în anul 1990", "Producătorul berii 'Tusker', berea națională a țării", "Sediul unității de producție este în Port Vila", "Câștigător a mai multor medalii de aur Monde Selection", "Produce și băuturi răcoritoare sub licențe locale", "Sponsor major al evenimentelor sportive și culturale locale"],
       en: ["The company was established in 1990", "Manufacturer of 'Tusker,' the national beer of Vanuatu", "Production facility is located in Port Vila", "Winner of multiple Monde Selection Gold Awards", "Produces soft drinks under local licensing agreements", "Major sponsor of local sporting and cultural events"],
     },
+    image: "/poi-images/vanuatu-brewing-limited-economic-v2.webp",
   },
   {
     id: "vanuatu-tanna-coffee-economic-v2",
@@ -155,6 +159,7 @@ export const vanuatuEconomicV2: POI[] = [
       ro: ["Cultivată pe soluri bogate în minerale lângă Mount Yasur", "Colaborare cu peste 700 de mici fermieri locali", "Procesează boabe 100% Arabica pură", "Compania a fost fondată în anul 1992", "Articol major de export către Australia și Noua Zeelandă", "Oferă tururi ghidate ale prăjitoriei din Port Vila"],
       en: ["Grown on mineral-rich soils near Mount Yasur volcano", "Collaborates with more than 700 local smallholder farmers", "Processes 100% pure Arabica coffee beans", "The business was established in 1992", "Significant export commodity to Australia and New Zealand", "Offers guided educational tours of the Port Vila roastery"],
     },
+    image: "/poi-images/vanuatu-tanna-coffee-economic-v2.webp",
   },
   {
     id: "vanuatu-metenesel-cocoa-economic-v2",
@@ -186,6 +191,7 @@ export const vanuatuEconomicV2: POI[] = [
       ro: ["Cea mai mare plantație comercială de cacao din Vanuatu", "Situată pe coasta de nord-est a insulei Malekula", "Angajează sute de lucrători din comunitatea locală", "Produce soiuri de înaltă calitate Trinitario și Forastero", "Exportă cacao în principal către Europa și Asia", "Centru important pentru proiecte de cercetare agricolă"],
       en: ["Largest commercial cocoa plantation in Vanuatu", "Located on the northeastern coast of Malekula island", "Provides employment for hundreds of local workers", "Cultivates premium Trinitario and Forastero varieties", "Exports cocoa primarily to markets in Europe and Asia", "Key site for regional agricultural research and development"],
     },
+    image: "/poi-images/vanuatu-metenesel-cocoa-economic-v2.webp",
   },
   {
     id: "vanuatu-sarakata-hydro-economic-v2",
@@ -217,6 +223,7 @@ export const vanuatuEconomicV2: POI[] = [
       ro: ["Inaugurarea primei faze a avut loc în anul 1995", "Capacitate totală de 1,2 MW generată de trei turbine", "Proiect finanțat prin asistența japoneză (JICA)", "A redus costurile cu electricitatea în Luganville cu 20%", "Extindere și lucrări de întreținere majore în 2018", "Veniturile susțin Fondul de Electrificare Rurală"],
       en: ["Commissioning of the first phase occurred in 1995", "Total capacity of 1.2 MW provided by three turbines", "Funded by Japanese Grant Aid through JICA", "Reduced electricity costs in Luganville by roughly 20%", "Major maintenance and expansion completed in 2018", "Profits are reinvested in the Rural Electrification Fund"],
     },
+    image: "/poi-images/vanuatu-sarakata-hydro-economic-v2.webp",
   },
   {
     id: "vanuatu-teouma-solar-economic-v2",
@@ -248,6 +255,7 @@ export const vanuatuEconomicV2: POI[] = [
       ro: ["Pus în funcțiune în iulie 2016 de către UNELCO", "Putere instalată de aproximativ 1.000 kW (1 MW)", "Cuprinde peste 3.000 de panouri fotovoltaice", "Economisește anual circa 400.000 de litri de motorină", "Reduce emisiile de CO2 cu aproximativ 1.000 de tone pe an", "Parte integrantă a sistemului de rețea inteligentă din Efate"],
       en: ["Commissioned in July 2016 by utility company UNELCO", "Installed power capacity of approximately 1,000 kW (1 MW)", "Comprises more than 3,000 photovoltaic modules", "Saves roughly 400,000 liters of diesel fuel each year", "Reduces CO2 emissions by about 1,000 tons annually", "Integrated into Efate's smart grid energy management system"],
     },
+    image: "/poi-images/vanuatu-teouma-solar-economic-v2.webp",
   },
   {
     id: "vanuatu-devils-point-wind-economic-v2",
@@ -279,6 +287,7 @@ export const vanuatuEconomicV2: POI[] = [
       ro: ["Pus în funcțiune în anul 2009 de către UNELCO", "Cuprinde 11 turbine eoliene Vergnet rabatabile", "Capacitate totală instalată de 2,75 MW", "Turbinele pot fi coborâte în 45 de minute în caz de ciclon", "Asigură aproximativ 15% din consumul de energie al insulei Efate", "Structura a rezistat cu succes ciclonului Pam din 2015", "Valorifică vânturile alizee constante de pe coastă"],
       en: ["Operational since 2009, managed by UNELCO", "Features 11 tilting Vergnet wind turbines", "Total installed power capacity of 2.75 MW", "Turbines can be lowered in 45 minutes during cyclone alerts", "Supplies approximately 15% of Efate island's electricity", "The facility survived the category 5 Cyclone Pam in 2015", "Strategically located to capture consistent coastal trade winds"],
     },
+    image: "/poi-images/vanuatu-devils-point-wind-economic-v2.webp",
   },
   {
     id: "vanuatu-forari-mine-economic-v2",
@@ -310,6 +319,7 @@ export const vanuatuEconomicV2: POI[] = [
       ro: ["Activitățile miniere au început oficial în iulie 1962", "Principalul produs de export al Vanuatu în anii 1960", "Operată de Compagnie Française des Phosphates de l'Océanie", "Producția totală a fost de aproximativ 2 milioane de tone de minereu", "Închiderea minei a avut loc în 1979, înainte de independență", "Rămășițele unui dig de încărcare de 500 de metri sunt încă vizibile"],
       en: ["Mining operations officially began in July 1962", "Manganese was Vanuatu's leading export during the 1960s", "Operated by the Compagnie Française des Phosphates de l'Océanie", "Total production amounted to approximately 2 million tons of ore", "The mine closed in 1979 just before national independence", "Remnants of a 500-meter-long loading pier are still visible today"],
     },
+    image: "/poi-images/vanuatu-forari-mine-economic-v2.webp",
   },
   {
     id: "vanuatu-financial-centre-economic-v2",
@@ -341,6 +351,7 @@ export const vanuatuEconomicV2: POI[] = [
       ro: ["Fondat ca centru financiar offshore în anul 1971", "Vanuatu nu percepe impozit pe venit sau pe succesiune", "Reglementat de Comisia de Servicii Financiare din Vanuatu (VFSC)", "Sectorul contribuie cu aproximativ 10% la PIB-ul național", "Sediul Băncii de Rezervă a Vanuatu se află în apropiere", "Punct strategic pentru programul național de înregistrare a navelor"],
       en: ["Established as an offshore financial center in 1971", "Vanuatu levies no personal income or inheritance taxes", "Regulated by the Vanuatu Financial Services Commission (VFSC)", "The financial sector contributes roughly 10% to the national GDP", "The Reserve Bank of Vanuatu is headquartered within the district", "A key location for the country's international ship registry program"],
     },
+    image: "/poi-images/vanuatu-financial-centre-economic-v2.webp",
   },
   {
     id: "vanuatu-norsup-cocoa-economic-v2",
@@ -372,6 +383,7 @@ export const vanuatuEconomicV2: POI[] = [
       ro: ["Malekula produce peste 60% din cacaoa totală din Vanuatu", "Norsup găzduiește plantațiile Metenesel Cocoa Estates", "Procesul de fermentare durează de regulă între 5 și 7 zile", "Exporturile sunt direcționate în principal către Europa și Australia", "Se promovează activ certificarea pentru cacao organică", "Instalația a fost modernizată după daunele cauzate de cicloni"],
       en: ["Malekula accounts for over 60% of Vanuatu's cocoa output", "Norsup is home to the extensive Metenesel Cocoa Estates", "The standard fermentation process lasts 5 to 7 days", "Primary export markets include Europe and Australia", "The facility is actively pursuing organic cocoa certification", "Infrastructure was significantly upgraded following recent cyclones"],
     },
+    image: "/poi-images/vanuatu-norsup-cocoa-economic-v2.webp",
   },
   {
     id: "vanuatu-santo-meat-packers-economic-v2",
@@ -403,6 +415,7 @@ export const vanuatuEconomicV2: POI[] = [
       ro: ["Unitate certificată HACCP situată în Luganville", "Vitele sunt hrănite 100% cu iarbă (grass-fed)", "Cea mai importantă piață de export pentru fripturi premium este Japonia", "Procesează anual câteva mii de tone de carne de vită", "Cel mai mare angajator din sectorul industrial al insulei Santo", "Sistem integrat de control al calității la standarde internaționale"],
       en: ["HACCP-certified facility located in Luganville", "Cattle are 100% grass-fed, ensuring organic quality", "Japan is the primary export market for premium beef cuts", "Processes several thousand tons of beef annually", "Leading employer in the industrial sector of Espiritu Santo", "Equipped with integrated quality control systems for export"],
     },
+    image: "/poi-images/vanuatu-santo-meat-packers-economic-v2.webp",
   },
   {
     id: "vanuatu-litzlitz-wharf-economic-v2",
@@ -434,6 +447,7 @@ export const vanuatuEconomicV2: POI[] = [
       ro: ["Principalul port pentru Malampa, a doua provincie ca mărime", "Modernizare finanțată de ADB și Noua Zeelandă", "Punct central de încărcare pentru sacii de copra", "Conexiuni regulate de feribot către Port Vila", "Dispune de capacități de depozitare pentru mărfuri în tranzit", "Capacitate sporită pentru navele de tip Ro-Ro"],
       en: ["Main port for Malampa, Vanuatu's second-largest province", "Modernization funded by the ADB and New Zealand", "Primary consolidation point for copra exports", "Regular inter-island ferry services to Port Vila", "Features dedicated storage facilities for transit cargo", "Upgraded to accommodate Ro-Ro (roll-on/roll-off) vessels"],
     },
+    image: "/poi-images/vanuatu-litzlitz-wharf-economic-v2.webp",
   },
   {
     id: "vanuatu-bauerfield-logistics-economic-v2",
@@ -465,6 +479,7 @@ export const vanuatuEconomicV2: POI[] = [
       ro: ["Principalul aeroport internațional din Vanuatu (cod: VLI)", "Reabilitarea pistei finanțată de Banca Mondială", "Baza operațională a companiei naționale Air Vanuatu", "Nod important pentru servicii poștale și e-commerce", "Centru pentru biosecuritate și control la frontieră", "Terminal de marfă pentru exportul de pește proaspăt"],
       en: ["Vanuatu's primary international airport (IATA code: VLI)", "Runway rehabilitation funded by the World Bank", "Main operational base for flag carrier Air Vanuatu", "Key hub for international mail and e-commerce distribution", "Central point for national biosecurity and border controls", "Features a dedicated air cargo terminal for fish exports"],
     },
+    image: "/poi-images/vanuatu-bauerfield-logistics-economic-v2.webp",
   },
   {
     id: "vanuatu-pekoa-logistics-economic-v2",
@@ -496,6 +511,7 @@ export const vanuatuEconomicV2: POI[] = [
       ro: ["Al doilea aeroport internațional ca mărime (cod: SON)", "Fost aerodrom militar american în al Doilea Război Mondial", "Centru pentru transportul aerian al cărnii de vită din Santo", "Principalul nod pentru zborurile către Insulele Banks", "Reabilitarea pistei a fost finalizată în anul 2017", "Dotat cu depozite frigorifice speciale pentru marfă"],
       en: ["Second-largest international airport in Vanuatu (IATA code: SON)", "Originally built as a major US military airfield in WWII", "Specialized in the air transport of premium Santo beef", "Primary gateway for domestic flights to the Banks Islands", "Major runway resurfacing project was completed in 2017", "Equipped with dedicated cold storage for perishable air cargo"],
     },
+    image: "/poi-images/vanuatu-pekoa-logistics-economic-v2.webp",
   },
   {
     id: "vanuatu-port-vila-market-economic-v2",
@@ -527,6 +543,7 @@ export const vanuatuEconomicV2: POI[] = [
       ro: ["Deschisă 24/7 de luni (06:00) până sâmbătă (14:00)", "Cel mai important punct de desfacere pentru produse bio în Efate", "Administrată de Consiliul Municipal din Port Vila", "Centru pentru vânzarea preparatului național 'Laplap'", "Modernizare susținută prin fonduri din partea Australiei", "Dispune de peste 400 de tarabe pentru fermierii locali"],
       en: ["Operates 24/7 from Monday morning until Saturday afternoon", "Vanuatu's largest outlet for certified organic produce", "Managed directly by the Port Vila Municipal Council", "The primary center for buying and selling the national dish, Laplap", "Infrastructure upgrades were supported by Australian aid", "Provides over 400 stalls for registered local producers"],
     },
+    image: "/poi-images/vanuatu-port-vila-market-economic-v2.webp",
   },
   {
     id: "vanuatu-luganville-market-economic-v2",
@@ -558,6 +575,7 @@ export const vanuatuEconomicV2: POI[] = [
       ro: ["Piața centrală a celui de-al doilea oraș ca mărime", "Locul principal pentru comerțul cu pește capturat din sălbăticie", "Include o cafenea modernă pentru preparate locale", "Reglementată de Consiliul Orășenesc Luganville", "Punct de colectare pentru navele de marfă din nord", "Zonă extinsă pentru procesarea rădăcinii de kava"],
       en: ["The central market for Vanuatu's second-largest city", "The leading site for the trade of wild-caught ocean fish", "Features an on-site cafeteria serving traditional island meals", "Operated and regulated by the Luganville Town Council", "Serves as a transit point for inter-island cargo from the north", "Contains a major section for the processing of fresh green kava"],
     },
+    image: "/poi-images/vanuatu-luganville-market-economic-v2.webp",
   },
   {
     id: "vanuatu-lakatoro-center-economic-v2",
@@ -589,6 +607,7 @@ export const vanuatuEconomicV2: POI[] = [
       ro: ["Sediul administrativ al provinciei Malampa", "Locație principală pentru National Bank of Vanuatu", "Centru pentru distribuția sistemelor solare rezidențiale", "Găzduiește un spital regional și centre educaționale", "Nod rutier pentru transportul de marfă de pe coasta de vest", "Sediul departamentului regional pentru agricultură"],
       en: ["The administrative headquarters of Malampa Province", "Home to a major branch of the National Bank of Vanuatu", "A distribution hub for household solar power systems", "Features a regional hospital and several educational centers", "A central logistics point for truck transport from the west coast", "Houses the regional office for the Department of Agriculture"],
     },
+    image: "/poi-images/vanuatu-lakatoro-center-economic-v2.webp",
   },
   {
     id: "vanuatu-sola-port-economic-v2",
@@ -620,6 +639,7 @@ export const vanuatuEconomicV2: POI[] = [
       ro: ["Portul administrativ al celei mai nordice provincii, Torba", "Principalul punct de tranzit pentru exporturile de fructe de mare", "Conexiuni maritime regulate din Luganville (Santo)", "Centru de aprovizionare pentru grupul de insule Banks", "Dotat cu depozite de combustibil pentru ambarcațiunile locale", "Punct de acostare pentru navele internaționale de expediție"],
       en: ["The administrative port for Torba, Vanuatu's northernmost province", "The leading transshipment hub for regional seafood exports", "Served by regular cargo schedules from Luganville in Santo", "The primary supply base for the entire Banks Island group", "Features dedicated fuel storage for local fishing fleets", "A designated port of call for international expedition cruises"],
     },
+    image: "/poi-images/vanuatu-sola-port-economic-v2.webp",
   },
   {
     id: "vanuatu-lenakel-wharf-economic-v2",
@@ -651,6 +671,7 @@ export const vanuatuEconomicV2: POI[] = [
       ro: ["Principalul port al provinciei Tafea (Sud-Vanuatu)", "Punctul primar de export pentru 'Tanna Coffee'", "Modernizare finanțată prin fonduri japoneze (JICA)", "Centru pentru importul bunurilor destinate populației din Tanna", "Loc important de sosire pentru șalupele navelor de croazieră", "Dispune de depozite pentru sacii de copra și kava"],
       en: ["The primary port of entry for Tafea Province in southern Vanuatu", "The main exit point for the world-famous Tanna Coffee", "Wharf upgrades were funded by Japanese Grant Aid (JICA)", "The central hub for the importation of essential supplies to Tanna", "A key landing site for shore excursions from cruise ships", "Equipped with transit warehouses for copra and kava storage"],
     },
+    image: "/poi-images/vanuatu-lenakel-wharf-economic-v2.webp",
   },
   {
     id: "vanuatu-kava-processing-economic-v2",
@@ -682,6 +703,7 @@ export const vanuatuEconomicV2: POI[] = [
       ro: ["Kava reprezintă peste 40% din totalul exporturilor agricole ale Vanuatu.", "Facilitatea procesează anual rădăcini de la peste 30.000 de mici fermieri.", "În 2002 a fost adoptată Legea Kava pentru a asigura standardele de export.", "Vanuatu exportă kava în valoare de peste 25 de milioane USD anual.", "Există 80 de varietăți endemice de kava pe insulele din Vanuatu.", "Doar 11 dintre aceste varietăți sunt clasificate ca 'Noble Kava' pentru export."],
       en: ["Kava accounts for over 40% of Vanuatu's total agricultural exports.", "The facility processes roots from over 30,000 smallholder farmers annually.", "The 2002 Kava Act was established to regulate quality and export types.", "Vanuatu exports kava products worth over $25 million USD per year.", "There are 80 endemic varieties of kava identified across the archipelago.", "Only 11 of these varieties are legally classified as 'Noble Kava' for export."],
     },
+    image: "/poi-images/vanuatu-kava-processing-economic-v2.webp",
   },
   {
     id: "vanuatu-efate-quarry-economic-v2",
@@ -713,6 +735,7 @@ export const vanuatuEconomicV2: POI[] = [
       ro: ["Cariera furnizează peste 70% din materialele de construcție pentru capitala Port Vila.", "Proiectul Efate Ring Road a utilizat peste 200.000 de metri cubi de material de aici.", "Facilitatea deține echipamente de concasare moderne instalate în 2014.", "Bazaltul este principala rocă extrasă pentru producția de asfalt.", "Cariera este situată strategic în apropierea golfului Mele.", "Evaluările de impact asupra mediului sunt efectuate la fiecare doi ani."],
       en: ["The quarry supplies over 70% of the construction aggregates for Port Vila.", "The Efate Ring Road project utilized over 200,000 cubic meters of material from here.", "The facility features modern crushing plants installed in 2014.", "Basalt is the primary rock type extracted for high-grade asphalt production.", "The quarry is strategically located near Mele Bay for easy logistics.", "Environmental impact assessments are mandatory and conducted every two years."],
     },
+    image: "/poi-images/vanuatu-efate-quarry-economic-v2.webp",
   },
   {
     id: "vanuatu-havannah-shipping-economic-v2",
@@ -744,6 +767,7 @@ export const vanuatuEconomicV2: POI[] = [
       ro: ["Canalul are o adâncime de peste 100 de metri în anumite secțiuni.", "În 1942, aici erau staționate simultan până la 100 de nave de război americane.", "Portul Havannah este portul de rezervă pentru Port Vila în timpul furtunilor severe.", "Regiunea a devenit faimoasă ca locație de filmare pentru serialul 'Survivor' în 2004.", "Servicii regulate de feribot către Lelepa și Moso pleacă din acest punct.", "Apele adăpostesc dugongi (vaci de mare), o specie rară și protejată."],
       en: ["The channel reaches depths of over 100 meters in several areas.", "In 1942, up to 100 US warships were stationed here simultaneously.", "Havannah Harbour acts as the primary safe haven for ships during cyclones.", "The region gained international fame as the filming location for 'Survivor' in 2004.", "Regular ferry services to Lelepa and Moso islands operate from this channel.", "The area is a known habitat for rare dugongs (sea cows)."],
     },
+    image: "/poi-images/vanuatu-havannah-shipping-economic-v2.webp",
   },
   {
     id: "vanuatu-whitegrass-logistics-economic-v2",
@@ -775,6 +799,7 @@ export const vanuatuEconomicV2: POI[] = [
       ro: ["Whitegrass este singurul loc de pe insula Tanna cu o pistă de aterizare asfaltată.", "Peste 90% din cafeaua Tanna este expediată prin acest punct logistic.", "Aeroportul Whitegrass a fost modernizat în 2011 pentru a primi zboruri charter internaționale.", "Regiunea este faimoasă pentru caii sălbatici care pot fi văzuți adesea în apropiere.", "Zilnic sunt manipulate aici bunuri pentru peste 30.000 de locuitori ai insulei.", "Distanța de la acest punct până la vulcanul Yasur este de aproximativ 35 de kilometri."],
       en: ["Whitegrass features the only asphalt runway on the island of Tanna.", "Over 90% of Tanna's coffee exports pass through this logistics hub.", "Whitegrass Airport was upgraded in 2011 to accommodate international charter flights.", "The area is famous for wild horses that roam near the logistics installations.", "Goods for over 30,000 island residents are handled here daily.", "The travel distance from Whitegrass to Mount Yasur is approximately 35 kilometers."],
     },
+    image: "/poi-images/vanuatu-whitegrass-logistics-economic-v2.webp",
   },
   {
     id: "vanuatu-shark-bay-oil-economic-v2",
@@ -806,6 +831,7 @@ export const vanuatuEconomicV2: POI[] = [
       ro: ["Fabrica are capacitatea de a procesa până la 10 tone de copra zilnic.", "Uleiul de cocos este testat în Vanuatu ca înlocuitor pentru motorină încă din anii 1990.", "Peste 2.000 de familii de fermieri din Santo își livrează recolta la această fabrică.", "Uleiul de cocos are un punct de topire de aproximativ 24 de grade Celsius.", "Shark Bay este cunoscută pentru apele sale calme, ideale pentru logistica maritimă.", "Reziduurile de la presarea uleiului sunt utilizate ca hrană nutritivă pentru animale."],
       en: ["The factory can process up to 10 tonnes of copra per day.", "Coconut oil has been tested as a diesel substitute in Vanuatu since the 1990s.", "Over 2,000 farming families on Santo supply their harvest to this factory.", "The coconut oil produced here has a melting point of approximately 24°C.", "Shark Bay is known for its calm waters, which are ideal for shipping logistics.", "The by-products of oil extraction are repurposed as high-protein animal feed."],
     },
+    image: "/poi-images/vanuatu-shark-bay-oil-economic-v2.webp",
   },
   {
     id: "vanuatu-lowanatom-coffee-economic-v2",
@@ -837,6 +863,7 @@ export const vanuatuEconomicV2: POI[] = [
       ro: ["Cafeaua Tanna este o varietate pură Arabica, cultivată la altitudini de 400-600 metri.", "Plantele de cafea sunt fertilizate natural de cenușa vulcanică de la vulcanul Yasur.", "Producția anuală variază între 50 și 80 de tone de cafea verde.", "Unitatea Lowanatom utilizează apă din izvoarele montane locale pentru procesare.", "Tanna Coffee a fost fondată în 1982 de către Terry Adlington.", "După ciclonul Pam din 2015, aproximativ 80% din arborii de cafea au fost replantați."],
       en: ["Tanna Coffee is a pure Arabica variety grown at altitudes of 400-600 meters.", "The coffee plants are naturally fertilized by volcanic ash from Mount Yasur.", "Annual production typically ranges between 50 and 80 tonnes of green beans.", "The Lowanatom facility uses fresh water from local mountain springs for washing.", "The Tanna Coffee brand was officially established in 1982 by Terry Adlington.", "Following Cyclone Pam in 2015, 80% of the island's coffee trees had to be replanted."],
     },
+    image: "/poi-images/vanuatu-lowanatom-coffee-economic-v2.webp",
   },
   {
     id: "vanuatu-lamap-port-economic-v2",
@@ -868,6 +895,7 @@ export const vanuatuEconomicV2: POI[] = [
       ro: ["Portul este situat în golful Port Sandwich, unul dintre cele mai bune porturi naturale.", "Malekula produce peste 20% din întreaga cantitate de cacao din Vanuatu.", "Lamap a fost un sediu al administrației franceze înainte de independența din 1980.", "O dată pe lună, o navă mare de aprovizionare din Port Vila acostează în port.", "Regiunea din jurul portului este cunoscută pentru festivalul tradițional al măștilor.", "În apropiere se află un aerodrom care completează logistic activitatea portului."],
       en: ["The port is located in Port Sandwich Bay, one of the finest natural harbors in the island.", "Malekula island produces over 20% of Vanuatu's total cocoa output.", "Lamap served as a major French administrative headquarters before independence in 1980.", "A large supply vessel from Port Vila visits the port on a monthly basis.", "The region around the port is famous for its annual traditional mask festivals.", "There is a nearby airfield that supports the port's logistical operations."],
     },
+    image: "/poi-images/vanuatu-lamap-port-economic-v2.webp",
   },
   {
     id: "vanuatu-valesdir-plantation-economic-v2",
@@ -899,6 +927,7 @@ export const vanuatuEconomicV2: POI[] = [
       ro: ["Plantația a fost fondată la sfârșitul secolului al XIX-lea de coloniști europeni.", "Insula Epi este cunoscută pentru vitele sale 'bio' care pasc pe pășunile din Valesdir.", "Conacul este una dintre puținele clădiri coloniale rămase pe insulă.", "Un mic aerodrom situat chiar lângă plantație leagă Valesdir de Port Vila.", "Apele din fața plantației sunt o zonă protejată pentru dugongi.", "Valesdir exportă anual câteva sute de tone de copra."],
       en: ["The plantation was founded in the late 19th century by European settlers.", "Epi is renowned for its organic beef, raised on the pastures of Valesdir.", "The manor house is one of the few surviving colonial-era buildings on the island.", "A small airstrip located right on the plantation connects Valesdir to Port Vila.", "The waters offshore from the plantation are a designated sanctuary for dugongs.", "Valesdir continues to export several hundred tonnes of copra every year."],
     },
+    image: "/poi-images/vanuatu-valesdir-plantation-economic-v2.webp",
   },
   {
     id: "vanuatu-craig-cove-wharf-economic-v2",
@@ -930,5 +959,6 @@ export const vanuatuEconomicV2: POI[] = [
       ro: ["Craig Cove este cel mai mare port de pe partea de vest a insulei Ambrym.", "Insula Ambrym este adesea numită 'Insula Neagră' din cauza cenușii vulcanice.", "Mollul a fost reparat după daunele severe cauzate de un ciclon în 2015.", "Zboruri regulate sunt operate de pe aeroportul Craig Cove din apropiere.", "Sculpturile din lemn de ferigă din Ambrym sunt exportate în întreaga lume de aici.", "Activitatea vulcanică a insulei este monitorizată de o stație din apropiere."],
       en: ["Craig Cove is the largest port on the western side of Ambrym island.", "Ambrym is often referred to as the 'Black Island' due to its ubiquitous volcanic ash.", "The wharf underwent major repairs after sustaining damage from a cyclone in 2015.", "Regular air services operate from the adjacent Craig Cove Airport.", "Traditional fernwood carvings from Ambrym are shipped globally from this wharf.", "The island's volcanic activity is monitored by a specialized station nearby."],
     },
+    image: "/poi-images/vanuatu-craig-cove-wharf-economic-v2.webp",
   }
 ];

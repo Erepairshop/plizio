@@ -361,7 +361,8 @@ export const elsalvadorLandmarks: POI[] = [
       en: ["The eruption was so sudden that half-eaten meals were found on kitchen tables.", "It is often called the 'Pompeii of the Americas' due to its state of preservation.", "Excavations revealed specialized buildings like a community sauna (temezcal)."]
     },
     historyYear: 600,
-    historyPeriod: "Classical"
+    historyPeriod: "Classical",
+    image: "/poi-images/sv-joyadeceren.webp",
   },
   { 
     id: "sv-tazumal", 
@@ -544,7 +545,8 @@ export const elsalvadorLandmarks: POI[] = [
       hu: ["Az El Tunco név a sziklaalakzatról kapta a nevét, amely egy disznóra (Tunco) hasonlít.", "A település a 'Surf City' projekt egyik kulcsfontosságú helyszíne.", "Rendszeresen tartanak itt nemzetközi szörfversenyeket."],
       ro: ["Numele El Tunco provine de la formațiunea stâncoasă care seamănă cu un porc (Tunco).", "Localitatea este o parte importantă a proiectului \\\"Surf City\\\".", "Aici au loc regulat competiții internaționale de surf."],
       en: ["The name 'Tunco' is local slang for a pig, describing the shape of the offshore rock.", "The village is the spiritual center of El Salvador's 'Surf City' tourism brand.", "It features some of the best right-hand point breaks in the region."]
-    }
+    },
+    image: "/poi-images/sv-eltunco.webp",
   },
   { 
     id: "sv-cathedral", 
@@ -730,7 +732,8 @@ export const elsalvadorLandmarks: POI[] = [
       ro: ["Balenele cu cocoașă pot fi observate aici între noiembrie și martie.", "Reciful găzduiește multe specii de țestoase marine.", "În apropiere se află două epave istorice din secolul al XIX-lea."],
       en: ["Humpback whales migrate to these warm waters every winter to breed.", "Two 19th-century steamships, the SS Sheridos and SS Douglas, are popular dive sites.", "The reef provides a habitat for endangered Hawksbill sea turtles."]
     },
-    area: 1
+    area: 1,
+    image: "/poi-images/sv-los-cobanos.webp",
   }
 ];
 

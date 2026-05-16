@@ -107,6 +107,7 @@ export const sanmarinoExtraHistory: POI[] = [
       ro: [], 
       en: [] 
     },
+    image: "/poi-images/landmark-state-museum-san-marino-extra.webp",
   },
   {
     id: "historical-vampire-museum-extra",
@@ -248,6 +249,7 @@ export const sanmarinoExtraHistory: POI[] = [
       ro: [], 
       en: [] 
     },
+    image: "/poi-images/landmark-borgo-maggiore-cable-car-extra.webp",
   },
   {
     id: "historical-saracen-walls-extra",
@@ -704,6 +706,7 @@ export const sanmarinoExtraHistory: POI[] = [
       ro: [], 
       en: [] 
     },
+    image: "/poi-images/historical-domagnano-fortress-extra.webp",
   },
   {
     id: "historical-church-of-san-michele-arcangelo-domagnano-extra",
@@ -1020,6 +1023,7 @@ export const sanmarinoExtraHistory: POI[] = [
       ro: [], 
       en: [] 
     },
+    image: "/poi-images/historical-valdragone-church-extra.webp",
   },
   {
     id: "landmark-cross-of-monte-titano-extra",
@@ -1056,6 +1060,7 @@ export const sanmarinoExtraHistory: POI[] = [
       ro: [], 
       en: [] 
     },
+    image: "/poi-images/landmark-cross-of-monte-titano-extra.webp",
   },
   {
     id: "historical-coin-and-stamp-museum-extra",

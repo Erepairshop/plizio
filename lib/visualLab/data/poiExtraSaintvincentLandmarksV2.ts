@@ -31,6 +31,7 @@ export const saintvincentLandmarksV2: POI[] = [
       ro: ["Catedrala a fost finalizată în anul 1820.", "Posedă trei vitralii faimoase create de artistul german Kempe.", "Clopotnița a fost reconstruită în 1884 după un cutremur puternic.", "Cimitirul adăpostește morminte ale soldaților care au căzut în Războaiele Caribilor.", "Orga a fost construită în Londra în 1903 și adusă pe insulă cu nava.", "În biserică se află o placă comemorativă pentru Sir Charles Brisbane, un guvernator faimos."],
       en: ["The cathedral was completed in 1820.", "It features three famous stained glass windows by the German artist Kempe.", "The steeple was rebuilt in 1884 following a severe earthquake.", "The cemetery contains graves of soldiers who fell in the Carib Wars.", "The organ was built in London in 1903 and transported to the island by ship.", "A memorial plaque for Sir Charles Brisbane, a famous governor, is located inside."],
     },
+    image: "/poi-images/saintvincent-st-georges-cathedral-landmarks-v2.webp",
   },
   {
     id: "saintvincent-st-marys-cathedral-landmarks-v2",
@@ -62,6 +63,7 @@ export const saintvincentLandmarksV2: POI[] = [
       ro: ["Renovarea fundamentală realizată de Dom Charles Verbeke a început în anul 1935.", "Clădirea a fost construită din rocă vulcanică gri închis.", "Există numeroase arcuri în potcoavă, tipice pentru stilul maur.", "Catedrala găzduiește o statuie a 'Madonei Negre'.", "O mare parte din costurile de construcție a fost finanțată prin donații private ale insularilor.", "Situl a fost anterior locul primei stații misionare catolice de pe insulă."],
       en: ["The fundamental renovation by Dom Charles Verbeke began in 1935.", "The building was constructed from dark gray volcanic rock.", "There are numerous horseshoe arches typical of the Moorish style.", "The cathedral houses a statue of the 'Black Madonna.'", "A large portion of the construction costs was financed by private donations from islanders.", "The site was previously the location of the island's first Catholic mission station."],
     },
+    image: "/poi-images/saintvincent-st-marys-cathedral-landmarks-v2.webp",
   },
   {
     id: "saintvincent-layou-petroglyph-landmarks-v2",
@@ -81,6 +83,7 @@ export const saintvincentLandmarksV2: POI[] = [
       en: ["Dates from before 1000 AD", "Largest petroglyph on St. Vincent", "Depicts human faces and symbols", "Part of a protected archaeological park"],
     },
     imageHint: "Layou Petroglyph Park St Vincent rock carvings",
+    image: "/poi-images/saintvincent-layou-petroglyph-landmarks-v2.webp",
   },
   {
     id: "saintvincent-carnegie-building-landmarks-v2",
@@ -112,6 +115,7 @@ export const saintvincentLandmarksV2: POI[] = [
       ro: ["Andrew Carnegie a donat exact 2.000 de lire sterline pentru clădire în 1907.", "Clădirea a fost sfințită oficial la 1 martie 1909.", "A găzduit Biblioteca Națională până în anul 2006.", "Scara din interior este realizată din lemn de esență tare de înaltă calitate.", "Clădirea a supraviețuit mai multor uragane puternice aproape fără daune.", "National Trust din Sfântul Vincențiu o utilizează astăzi pentru proiecte educaționale."],
       en: ["Andrew Carnegie donated exactly £2,000 for the building in 1907.", "The building was officially dedicated on March 1, 1909.", "It housed the National Library until the year 2006.", "The interior staircase is crafted from high-quality hardwood.", "The building survived several severe hurricanes almost unscathed.", "The Saint Vincent National Trust now uses it for educational projects."],
     },
+    image: "/poi-images/saintvincent-carnegie-building-landmarks-v2.webp",
   },
   {
     id: "saintvincent-cenotaph-kingstown-landmarks-v2",
@@ -143,6 +147,7 @@ export const saintvincentLandmarksV2: POI[] = [
       ro: ["Obeliscul are o înălțime de aproximativ 6 metri și este realizat din calcar alb.", "Monumentul a fost ridicat la scurt timp după încheierea Primului Război Mondial.", "După 1945, au fost adăugate plăci suplimentare pentru victimele celui de-al Doilea Război Mondial.", "Ceremonia anuală are loc întotdeauna în luna noiembrie.", "Soldații din Sfântul Vincențiu au servit adesea în Regimentul Indiilor de Vest.", "Cenotaful este cel mai important loc pentru comemorările militare din țară."],
       en: ["The obelisk is approximately 6 meters high and made of white limestone.", "The monument was erected shortly after the end of the First World War.", "Additional plaques for the victims of the Second World War were added after 1945.", "The annual ceremony is always held in November.", "Soldiers from Saint Vincent often served in the West India Regiment.", "The Cenotaph is the most important site for military commemorations in the country."],
     },
+    image: "/poi-images/saintvincent-cenotaph-kingstown-landmarks-v2.webp",
   },
   {
     id: "saintvincent-house-of-assembly-landmarks-v2",
@@ -174,6 +179,7 @@ export const saintvincentLandmarksV2: POI[] = [
       ro: ["Parlamentul este format din 15 deputați aleși și 6 senatori numiți.", "Clădirea este situată la intersecția străzilor Granby și Halifax.", "În cameră se află un buzdugan ceremonial, simbolul autorității.", "House of Assembly a fost modernizat de mai multe ori pentru a îndeplini standardele tehnologice.", "Dezbaterile sunt adesea transmise în direct la radioul național.", "În fața clădirii au loc adesea parade solemne cu ocazia deschiderii sesiunilor parlamentare."],
       en: ["The parliament consists of 15 elected representatives and 6 appointed senators.", "The building is located at the intersection of Granby Street and Halifax Street.", "A ceremonial mace, the symbol of authority, is kept in the chamber.", "The House of Assembly has been modernized several times to meet technological standards.", "Debates are often broadcast live on national radio.", "Solemn parades often take place in front of the building for the opening of parliament."],
     },
+    image: "/poi-images/saintvincent-house-of-assembly-landmarks-v2.webp",
   },
   {
     id: "saintvincent-botanical-gardens-landmarks-v2",
@@ -205,6 +211,7 @@ export const saintvincentLandmarksV2: POI[] = [
       ro: ["Înființată în 1765, fiind cea mai veche grădină de acest tip din Americi.", "Căpitanul William Bligh a introdus aici arborele de pâine în 1793.", "Grădina acoperă o suprafață de circa 8 hectare în apropiere de Kingstown.", "Găzduiește un program de reproducere pentru papagalul Amazona guildingii.", "A fost inițial concepută pentru a promova plantele medicinale și comerțul.", "Este administrată de Ministerul Agriculturii din Saint Vincent și Grenadine."],
       en: ["Established in 1765, making it the oldest in the Western Hemisphere.", "An original breadfruit tree from Captain Bligh's 1793 voyage still exists.", "The gardens span approximately 20 acres of tropical flora and fauna.", "Home to a dedicated conservation center for the endemic St. Vincent Parrot.", "Initially created to provide medicinal plants for British military forces.", "Located at the northern outskirts of the capital city, Kingstown."],
     },
+    image: "/poi-images/saintvincent-botanical-gardens-landmarks-v2.webp",
   },
   {
     id: "saintvincent-dorsetshire-hill-landmarks-v2",
@@ -236,6 +243,7 @@ export const saintvincentLandmarksV2: POI[] = [
       ro: ["Joseph Chatoyer a fost ucis aici în lupta cu britanicii în anul 1795.", "Locul este considerat punctul de naștere al rezistenței naționale.", "Monumentul se află pe cel mai înalt punct din zona Dorsetshire Hill.", "Oferă o panoramă de 360 de grade asupra orașului Kingstown și a portului.", "Ziua de 14 martie este declarată sărbătoare națională în onoarea sa.", "Dealul a fost utilizat ca post de comandă în secolul al XVIII-lea."],
       en: ["Joseph Chatoyer was killed in action at this location in 1795.", "It is the primary site for National Heroes Day celebrations on March 14.", "The hill played a decisive role in the Second Carib War (1795-1797).", "Chatoyer was declared the first National Hero of the country in 2002.", "The site provides a clear vantage point of the neighboring Grenadine islands.", "Strategic fortifications were once maintained here to protect the capital."],
     },
+    image: "/poi-images/saintvincent-dorsetshire-hill-landmarks-v2.webp",
   },
   {
     id: "saintvincent-victoria-park-landmarks-v2",
@@ -267,5 +275,6 @@ export const saintvincentLandmarksV2: POI[] = [
       ro: ["Poartă numele Reginei Victoria a Regatului Unit al Marii Britanii.", "Este locul principal de desfășurare a finalelor carnavalului Vincy Mas.", "Găzduiește competiții de cricket, sportul național al insulei.", "A fost dotat cu nocturnă pentru a permite meciuri desfășurate seara.", "A servit istoric ca loc pentru discursuri politice pro-independență.", "Capacitatea stadionului permite mii de persoane la evenimentele majore."],
       en: ["Named in honor of Queen Victoria of the United Kingdom.", "The primary venue for the annual Soca Monarch and Calypso shows.", "Has served as the hub for local and regional cricket for decades.", "The stadium was upgraded with modern floodlighting for night events.", "Centrally located within walking distance of downtown Kingstown.", "Historically significant as a site for national political gatherings."],
     },
+    image: "/poi-images/saintvincent-victoria-park-landmarks-v2.webp",
   }
 ];

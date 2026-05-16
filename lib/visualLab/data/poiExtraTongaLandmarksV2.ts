@@ -31,6 +31,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Construit în jurul anului 1200 d.Hr. de regele Tu'itatui", "Cântărește în total aproximativ 30 până la 40 de tone", "Buiandrugul orizontal are o lungime de 5,8 metri", "Servește ca observator astronomic pentru solstiții", "Construit din calcar coralifer fosil", "Cel mai important monument megalitic din Tonga"],
       en: ["Built around 1200 AD by King Tu'itatui", "Weighs approximately 30 to 40 tons in total", "The horizontal lintel is 5.8 meters long", "Functions as an astronomical observatory for solstices", "Constructed from fossilized coral limestone", "The most significant megalithic monument in Tonga"],
     },
+    image: "/poi-images/tonga-haamonga-a-maui-landmarks-v2.webp",
   },
   {
     id: "tonga-malaekula-landmarks-v2",
@@ -62,6 +63,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Necropola oficială a Casei Tupou", "Situată în inima capitalei Nuku'alofa", "Fondată la sfârșitul secolului al XIX-lea", "Găzduiește mormântul faimoasei regine Salote III", "Păzită de gardienii ereditari 'Nimatapu'", "Arhitectură centrală în stil victorian"],
       en: ["Official necropolis of the House of Tupou", "Located in the heart of the capital, Nuku'alofa", "Established in the late 19th century", "Contains the tomb of the renowned Queen Salote III", "Guarded by the hereditary 'Nimatapu' guardians", "Features Victorian-style central architecture"],
     },
+    image: "/poi-images/tonga-malaekula-landmarks-v2.webp",
   },
   {
     id: "tonga-paepae-o-telea-landmarks-v2",
@@ -93,6 +95,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Locul de înmormântare al regelui 'Uluakimata I (Tele'a)", "Cunoscut pentru pietrele de colț unice în formă de L", "Construit în secolul al XVI-lea", "Format din plăci masive de calcar coralifer", "Cel mai mare monument individual din Parcul Arheologic Mu'a", "Exemplu de prelucrare precisă a pietrei fără unelte metalice"],
       en: ["Burial place of King 'Uluakimata I (Tele'a)", "Renowned for its unique L-shaped cornerstones", "Constructed during the 16th century", "Composed of massive coral limestone slabs", "The largest individual monument in the Mu'a Archaeological Park", "Example of precise stonework achieved without metal tools"],
     },
+    image: "/poi-images/tonga-paepae-o-telea-landmarks-v2.webp",
   },
   {
     id: "tonga-langi-namoala-landmarks-v2",
@@ -124,6 +127,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Parte a sitului Mu'a din patrimoniul mondial UNESCO", "Mormânt monumental din piatră terasat (langi)", "Utilizează blocuri de piatră de coral sculptate cu precizie", "A servit ca loc de înmormântare pentru dinastia Tu'i Tonga", "Situat în districtul istoric Lapaha", "Exemplu impresionant de arhitectură megalitică polineziană"],
       en: ["Part of the Mu'a UNESCO World Heritage site", "A monumental terraced stone tomb (langi)", "Features precisely hewn coral stone blocks", "Served as a burial site for the Tu'i Tonga dynasty", "Located in the historic Lapaha District", "An impressive example of Polynesian megalithic architecture"],
     },
+    image: "/poi-images/tonga-langi-namoala-landmarks-v2.webp",
   },
   {
     id: "tonga-centenary-chapel-landmarks-v2",
@@ -155,6 +159,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Biserica oficială a Bisericii Wesleyane Libere din Tonga", "Inaugurată în 1952 pentru jubileul bisericii", "Locul de încoronare a monarhilor Tupou", "Dispune de locuri regale speciale", "Cunoscută pentru acustica excelentă a corului", "Restaurată după cutremurul puternic din 2006"],
       en: ["The primary church of the Free Wesleyan Church of Tonga", "Dedicated in 1952 for the church's centenary", "Venue for the coronations of the Tupou monarchs", "Features specially reserved royal seating", "Renowned for its excellent choral acoustics", "Restored following the severe earthquake of 2006"],
     },
+    image: "/poi-images/tonga-centenary-chapel-landmarks-v2.webp",
   },
   {
     id: "tonga-free-church-landmarks-v2",
@@ -186,6 +191,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Fondată în 1885 de regele George Tupou I", "Simbol al independenței bisericești naționale", "Arhitectură în stil colonial simplu", "Cunoscută pentru acoperișul metalic roșu distinctiv", "Centrul confesiunii Siasi 'o Tonga", "A supraviețuit mai multor cicloane puternice din secolul al XIX-lea"],
       en: ["Founded in 1885 by King George Tupou I", "A symbol of national ecclesiastical independence", "Architectural style is simple colonial", "Renowned for its distinctive red metal roof", "The headquarters of the Siasi 'o Tonga denomination", "Has survived several severe cyclones since the 19th century"],
     },
+    image: "/poi-images/tonga-free-church-landmarks-v2.webp",
   },
   {
     id: "tonga-national-museum-landmarks-v2",
@@ -217,6 +223,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Găzduiește ceramică preistorică Lapita rară", "Prezintă artefacte regale din secolul al XIX-lea", "Centru pentru documentarea artei tatuajului din Tonga", "Prezintă instrumente istorice de navigație polineziene", "Deține o colecție importantă de covorașe Kie Hingoa", "Oferă ateliere pentru meșteșuguri tradiționale"],
       en: ["Houses rare prehistoric Lapita pottery", "Displays royal artifacts from the 19th century", "A center for the documentation of Tongan tattooing art", "Presents historical Polynesian navigational instruments", "Features a significant collection of Kie Hingoa mats", "Offers workshops for traditional handicrafts"],
     },
+    image: "/poi-images/tonga-national-museum-landmarks-v2.webp",
   },
   {
     id: "tonga-vuna-wharf-landmarks-v2",
@@ -248,6 +255,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Punctul principal de acostare pentru navele de croazieră internaționale", "Renovat și modernizat complet în anul 2012", "Poartă istorică pentru sosirile regale", "Oferă vedere panoramică asupra lagunei Nuku'alofa", "Componentă centrală a revitalizării falezei", "Locația unor plăci comemorative și monumente maritime"],
       en: ["The primary docking site for international cruise ships", "Extensively renovated and modernized in 2012", "Historical gateway for royal arrivals", "Offers panoramic views of the Nuku'alofa lagoon", "A central component of the waterfront revitalization", "Site for maritime commemorative plaques and monuments"],
     },
+    image: "/poi-images/tonga-vuna-wharf-landmarks-v2.webp",
   },
   {
     id: "tonga-captain-cook-landing-landmarks-v2",
@@ -279,6 +287,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Locul debarcării lui James Cook în 1777", "Inspirația pentru supranumele 'Friendly Islands'", "Locația unui arbore banyan istoric (Pua)", "Placă comemorativă dezvelită de regele Taufa'ahau Tupou IV", "Sursă importantă pentru etnografia polineziană timpurie", "Situat pe coasta pitorească din Holonga"],
       en: ["Site of James Cook's landing in 1777", "Inspiration for the nickname 'Friendly Islands'", "Location of a historical banyan (Pua) tree", "Commemorative plaque unveiled by King Taufa'ahau Tupou IV", "Significant source for early Polynesian ethnography", "Situated on the scenic coast of Holonga"],
     },
+    image: "/poi-images/tonga-captain-cook-landing-landmarks-v2.webp",
   },
   {
     id: "tonga-abel-tasman-memorial-landmarks-v2",
@@ -310,6 +319,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Comemorează prima debarcare europeană din 1643", "Abel Tasman a numit Tongatapu 'Insula Amsterdam'", "Locul primului comerț pașnic cu articole din fier", "Monumentul este situat în districtul Hihifo", "Monument semnificativ al istoriei olandezo-tongane", "Primul contact documentat cu lumea occidentală"],
       en: ["Commemorates the first European landing in 1643", "Abel Tasman named Tongatapu 'Amsterdam Island'", "Site of the first peaceful trade involving ironware", "The monument is located in the Hihifo District", "A significant landmark of Dutch-Tongan history", "The first documented contact with the Western world"],
     },
+    image: "/poi-images/tonga-abel-tasman-memorial-landmarks-v2.webp",
   },
   {
     id: "tonga-langi-tuofafa-landmarks-v2",
@@ -341,6 +351,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Cuvântul Langi se traduce prin cer sau tron în limba tongană.", "Monumentul este situat în parcul arheologic Lapaha din Tongatapu.", "Structura prezintă trei niveluri terasate realizate din calcar.", "Blocurile au fost extrase din recifele de corali din apropiere.", "Datarea estimată a construcției este în secolul al XIII-lea.", "Face parte dintr-un complex de peste 20 de morminte regale antice."],
       en: ["Langi means sky or throne in the Tongan language.", "It is situated in the Lapaha archaeological area on Tongatapu.", "The tomb features three distinct terraced levels of coral stone.", "The massive limestone slabs were quarried without metal tools.", "It dates back to the peak of the Tu'i Tonga empire around 1200 AD.", "The site is listed on the UNESCO World Heritage tentative list."],
     },
+    image: "/poi-images/tonga-langi-tuofafa-landmarks-v2.webp",
   },
   {
     id: "tonga-langi-katoa-landmarks-v2",
@@ -372,6 +383,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Langi Katoa este situat în vechiul centru de putere Mu'a.", "A fost ridicat în onoarea regilor din dinastia Tu'i Tonga.", "Constructia utilizează blocuri masive de calcar coralier.", "Tehnica de asamblare este similară cu cea a zidăriei uscate.", "Exista dovezi că situl a fost folosit pentru ceremonii de stat.", "Face parte din patrimoniul istoric protejat al Regatului Tonga."],
       en: ["Langi Katoa is located in the ancient royal capital of Mu'a.", "It was built for the monarchs of the Tu'i Tonga dynasty.", "The structure uses massive coral limestone slabs cut to size.", "The stones were assembled without mortar using precise joints.", "It is part of a cluster of 28 royal tombs in the Lapaha area.", "The site represents the architectural peak of the Tongan Empire."],
     },
+    image: "/poi-images/tonga-langi-katoa-landmarks-v2.webp",
   },
   {
     id: "tonga-st-marys-cathedral-landmarks-v2",
@@ -403,6 +415,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Catedrala este situată pe strada Vuna Road, în apropierea mării.", "Este sediul Diecezei Romano-Catolice de Tonga.", "Construcția a fost influențată de misionarii mariști francezi.", "Interiorul conține sculpturi în lemn realizate de artiști locali.", "Edificiul este un punct de reper vizibil din portul Nuku'alofa.", "Corul catedralei este renumit pentru armoniile sale vocale unice."],
       en: ["The cathedral is located on Vuna Road in Nuku'alofa.", "It serves as the seat of the Roman Catholic Diocese of Tonga.", "The mission was established by Marist priests in the 1800s.", "The interior features distinctive Tongan woodcraft and carvings.", "It is situated within walking distance of the Royal Palace.", "Tongan-language masses feature powerful local choral singing."],
     },
+    image: "/poi-images/tonga-st-marys-cathedral-landmarks-v2.webp",
   },
   {
     id: "tonga-st-josephs-cathedral-landmarks-v2",
@@ -434,6 +447,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Catedrala este localizată în Pangai, centrul administrativ din Ha'apai.", "Face parte din structura Bisericii Romano-Catolice din Tonga.", "Lifuka este insula unde s-a consolidat puterea primului rege modern.", "Clădirea a fost consolidată recent pentru a rezista ciclonilor.", "Este una dintre puținele construcții de piatră din Pangai.", "Evenimentele religioase sunt puncte centrale ale vieții sociale locale."],
       en: ["The cathedral is situated in Pangai on Lifuka Island.", "It is part of the Roman Catholic Diocese of Tonga.", "Ha'apai is historically significant as the home of King George Tupou I.", "The building has been restored following several major cyclones.", "Pangai serves as the administrative hub for the Ha'apai group.", "Local celebrations at the cathedral involve traditional Tongan hymns."],
     },
+    image: "/poi-images/tonga-st-josephs-cathedral-landmarks-v2.webp",
   },
   {
     id: "tonga-shirley-baker-memorial-landmarks-v2",
@@ -465,6 +479,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Shirley Baker a servit ca prim-ministru între anii 1880 și 1890.", "Memorialul se află pe insula Lifuka, unde Baker a murit în 1903.", "Obeliscul a fost ridicat în semn de recunoaștere a serviciilor sale.", "Baker a fost autorul principal al drapelului și stemei naționale.", "A fost exilat în 1890, dar s-a întors ulterior în Tonga.", "Monumentul este un obiectiv cheie în parcul istoric din Pangai."],
       en: ["Shirley Baker served as Prime Minister of Tonga from 1880 to 1890.", "The memorial is located on the island of Lifuka in the Ha'apai group.", "Baker died in 1903 and was buried in Pangai at his request.", "He was a key author of the 1875 Tongan Constitution.", "The monument is a white stone obelisk overlooking the town.", "He helped establish the Free Wesleyan Church of Tonga."],
     },
+    image: "/poi-images/tonga-shirley-baker-memorial-landmarks-v2.webp",
   },
   {
     id: "tonga-taufaahau-tupou-i-statue-landmarks-v2",
@@ -496,6 +511,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Taufa'ahau Tupou I a domnit timp de 48 de ani (1845-1893).", "Statuia este localizată în Pangai, locul său natal simbolic.", "A fost primul monarh care a vizitat Europa în mod oficial.", "Constituția din 1875, creată de el, este încă în vigoare.", "A unificat insulele Tongatapu, Vava'u și Ha'apai.", "Monumentul este un loc central pentru festivitățile naționale din Ha'apai."],
       en: ["Taufa'ahau Tupou I ruled Tonga from 1845 until 1893.", "The statue is located in the town of Pangai on Lifuka Island.", "He is celebrated for unifying Tonga into a single kingdom.", "He signed the first Tongan Constitution into law in 1875.", "His long reign ensured Tonga's independence from colonial powers.", "The monument is a key site for Royal and National Day events."],
     },
+    image: "/poi-images/tonga-taufaahau-tupou-i-statue-landmarks-v2.webp",
   },
   {
     id: "tonga-sia-heu-lupe-tongatapu-landmarks-v2",
@@ -527,6 +543,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Sia Heu Lupe sunt movile artificiale destinate vânătorii de porumbei.", "Activitatea era un sport nobiliar reglementat de legi stricte.", "Multe platforme au o formă de stea cu mai multe brațe (picioare).", "Porumbelul imperial de Pacific este specia vizată de acest sport.", "Situl reflectă organizarea socială complexă a imperiului Tongan.", "Arheologii au identificat numeroase astfel de movile pe insula Tongatapu."],
       en: ["Sia Heu Lupe are artificial mounds for ritual pigeon snaring.", "The sport was restricted to the Tu'i Tonga and high-ranking chiefs.", "The mounds often feature a distinct star-shaped layout.", "'Lupe' is the Tongan word for the Pacific imperial pigeon.", "The sites were most active during the peak of the Tongan Empire.", "Decoy birds were used to attract wild pigeons to the platforms."],
     },
+    image: "/poi-images/tonga-sia-heu-lupe-tongatapu-landmarks-v2.webp",
   },
   {
     id: "tonga-sia-heu-lupe-vavau-landmarks-v2",
@@ -558,6 +575,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["În Vava'u, movilele sunt adesea amplasate în puncte cu vizibilitate mare.", "Construcțiile folosesc calcar coralier și piatră vulcanică locală.", "Vânătoarea de porumbei era însoțită de banchete ceremoniale.", "Sia Heu Lupe din Vava'u sunt incluse în circuitele de turism cultural.", "Unele platforme au depresiuni centrale pentru ascunderea vânătorilor.", "Sunt mărturii ale expansiunii influenței Tu'i Tonga spre nord."],
       en: ["Several Sia Heu Lupe sites are located in the forested hills of Vava'u.", "The platforms were status symbols for regional Tongan chiefs.", "Local stone was utilized to reinforce the sides of the mounds.", "Pigeon snaring was a non-lethal sport focused on skill and nets.", "Some mounds in Vava'u feature intricate stone-paved walkways.", "The sites illustrate the uniformity of royal customs across Tonga."],
     },
+    image: "/poi-images/tonga-sia-heu-lupe-vavau-landmarks-v2.webp",
   },
   {
     id: "tonga-treasury-building-landmarks-v2",
@@ -589,6 +607,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Clădirea găzduiește Ministerul Finanțelor și Planificării Naționale.", "Este situată pe Vuna Road, strada principală din Nuku'alofa.", "Trezoreria administrează bugetul anual al Regatului Tonga.", "Designul exterior păstrează elemente din perioada de început a secolului XX.", "Este un punct vital pentru stabilitatea monetară a țării.", "Edificiul a fost renovat pentru a rezista cutremurelor frecvente."],
       en: ["The building houses the Ministry of Finance and National Planning.", "It is located on Vuna Road, near the Nuku'alofa waterfront.", "The Treasury manages Tonga's national budget and fiscal policy.", "Its architectural style is typical of Pacific administrative buildings.", "It is a central landmark in the capital's commercial district.", "The office coordinates with international financial organizations."],
     },
+    image: "/poi-images/tonga-treasury-building-landmarks-v2.webp",
   },
   {
     id: "tonga-post-office-nukualofa-landmarks-v2",
@@ -620,6 +639,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Poșta din Tonga este celebră pentru timbrele sale în formă de fructe.", "Edificiul este situat la intersecția drumurilor principale din capitală.", "Tonga a emis primele timbre autoadezive din lume în 1963.", "Oficiul Poștal găzduiește și servicii de curierat internațional.", "Este o destinație populară pentru colecționarii de mărci poștale rare.", "Clădirea joacă un rol esențial în comunicarea cu insulele îndepărtate."],
       en: ["Tonga is famous for its uniquely shaped stamps, like the banana stamp.", "The Post Office is located on the corner of Taufa'ahau Road.", "In 1963, Tonga issued the world's first self-adhesive stamps.", "The building serves as the central hub for Tonga Post Ltd.", "Philatelic services at the office attract collectors from around the world.", "It is a key location for receiving international mail and packages."],
     },
+    image: "/poi-images/tonga-post-office-nukualofa-landmarks-v2.webp",
   },
   {
     id: "tonga-high-court-nukualofa-landmarks-v2",
@@ -651,6 +671,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Înalta Curte are sediul într-o clădire istorică din Nuku'alofa.", "Sistemul juridic este un amestec de drept comun și tradiție locală.", "Judecătorii sunt numiți de rege la recomandarea Consiliului Privat.", "Clădirea este un punct cheie în paradele oficiale de stat.", "Aici se află registrele oficiale ale tuturor legilor regatului.", "Instanța supraveghează constituționalitatea actelor normative."],
       en: ["The High Court is the superior court of record in the Kingdom of Tonga.", "It was formally established by the Constitution of 1875.", "The judiciary often includes judges from New Zealand and Australia.", "The building is located on the Nuku'alofa waterfront near the Palace.", "Land disputes involving hereditary titles are often heard here.", "Legal proceedings are conducted in both Tongan and English languages."],
     },
+    image: "/poi-images/tonga-high-court-nukualofa-landmarks-v2.webp",
   },
   {
     id: "tonga-tonga-college-atele-landmarks-v2",
@@ -682,6 +703,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Colegiul a fost fondat oficial în 1882 de regele George Tupou I.", "Este prima instituție de învățământ secundar de stat din Tonga.", "Rugby-ul este disciplina sportivă dominantă a școlii.", "Campusul este situat în zona rurală 'Atele, lângă Nuku'alofa.", "Școala a fost creată pe modelul sistemului educațional britanic.", "Absolvenții sunt cunoscuți sub numele de 'Old Boys' ai colegiului."],
       en: ["Tonga College was founded on November 3, 1882.", "It is the oldest government secondary school in the kingdom.", "The school has a legendary reputation for rugby excellence.", "It is located in the 'Atele district on the island of Tongatapu.", "The college was established to train Tongan youth for public service.", "It remains a male-only institution for secondary education."],
     },
+    image: "/poi-images/tonga-tonga-college-atele-landmarks-v2.webp",
   },
   {
     id: "tonga-tupou-college-toloa-landmarks-v2",
@@ -713,6 +735,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Colegiul Tupou a fost înființat oficial în 1866.", "Este prima școală secundară privată fondată în regat.", "Instituția aparține Bisericii Libere Wesleyene din Tonga.", "Elevii sunt organizați în sate studențești în interiorul campusului.", "Școala deține un muzeu istoric propriu de mare valoare.", "Fanfara colegiului este considerată una dintre cele mai bune din Pacific."],
       en: ["Tupou College was established in 1866.", "It is the oldest secondary school in the Kingdom of Tonga.", "The school is affiliated with the Free Wesleyan Church of Tonga.", "The campus features a large-scale agricultural and farming program.", "The college is famous for its award-winning brass band and choir.", "It was founded by the missionary James Egan Moulton."],
     },
+    image: "/poi-images/tonga-tupou-college-toloa-landmarks-v2.webp",
   },
   {
     id: "tonga-queen-salote-memorial-hall-landmarks-v2",
@@ -744,6 +767,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Sala a fost construită pentru a onora memoria reginei Salote Tupou III.", "Este cea mai mare sală multifuncțională din întregul regat.", "Regina Salote a fost renumită pentru compozițiile sale muzicale și poetice.", "Clădirea este un punct central pentru Festivalul Heilala anual.", "Găzduiește adesea delegații străine și summituri regionale.", "Interiorul este renumit pentru acustica sa excelentă în timpul concertelor."],
       en: ["The hall is named after Queen Salote Tupou III, who reigned 1918-1965.", "It is the primary venue for large-scale public events in Nuku'alofa.", "Queen Salote gained international fame at Queen Elizabeth II's coronation.", "The building is a key site for the annual Heilala Festival events.", "It is located on Taufa'ahau Road in the center of the capital.", "The hall can accommodate thousands of people for national ceremonies."],
     },
+    image: "/poi-images/tonga-queen-salote-memorial-hall-landmarks-v2.webp",
   },
   {
     id: "tonga-wwii-war-memorial-landmarks-v2",
@@ -775,6 +799,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Memorialul este situat în apropierea Palatului Regal din Nuku'alofa.", "Tonga a fost printre primele țări care au declarat război Germaniei.", "Soldații tongani au fost recunoscuți pentru abilitățile lor de cercetași.", "Baza militară americană din Tonga a fost esențială pentru logistica din Pacific.", "Ziua ANZAC este marcată aici în fiecare an pe 25 aprilie.", "Plăcile comemorative sunt scrise în limbile tongană și engleză."],
       en: ["The memorial is located on Vuna Road near the Nuku'alofa harbor.", "Tonga declared war on Germany on September 3, 1939.", "The US military presence in 1942 was larger than the local population.", "Tongan troops were highly valued for their jungle warfare skills.", "ANZAC Day is the main occasion for ceremonies at this site.", "It honors those who served in the Tonga Defense Force during the war."],
     },
+    image: "/poi-images/tonga-wwii-war-memorial-landmarks-v2.webp",
   },
   {
     id: "tonga-1918-epidemic-memorial-landmarks-v2",
@@ -806,6 +831,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Epidemia a ajuns în Tonga în noiembrie 1918.", "Circa 8% din populație a murit din cauza gripei spaniole.", "Monumentul este situat în cimitirul din Nuku'alofa.", "Rata mortalității a fost printre cele mai mari din Pacific.", "Regina Salote III a urcat pe tron în timpul acestei crize.", "Pandemia a schimbat permanent structura socială din Tonga."],
       en: ["The epidemic reached Tonga in November 1918.", "Approximately 8% of the population died from the Spanish Flu.", "The memorial is located in the Nuku'alofa cemetery.", "The mortality rate was one of the highest in the Pacific.", "Queen Salote III ascended the throne during this crisis.", "The pandemic permanently altered Tongan social structures."],
     },
+    image: "/poi-images/tonga-1918-epidemic-memorial-landmarks-v2.webp",
   },
   {
     id: "tonga-missionary-landing-pangaimotu-landmarks-v2",
@@ -837,6 +863,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Primii misionari LMS au debarcat pe 12 aprilie 1797.", "Nava misionară s-a numit \"Duff\" și a venit din Anglia.", "Pangaimotu a servit drept primă bază pentru contactele europene.", "Inițial, nouă misionari au fost lăsați pe insulă.", "Locul marchează începutul oficial al activității misionare.", "Astăzi există o placă memorială care marchează sosirea."],
       en: ["The first LMS missionaries landed on April 12, 1797.", "The missionary ship was named \"Duff\" and came from England.", "Pangaimotu served as the first base for European contacts.", "Nine missionaries were originally dropped off here.", "The site marks the official start of missionary work in Tonga.", "Today, a memorial stone commemorates their arrival."],
     },
+    image: "/poi-images/tonga-missionary-landing-pangaimotu-landmarks-v2.webp",
   },
   {
     id: "tonga-haapai-high-school-landmarks-v2",
@@ -868,6 +895,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Școala a fost deschisă oficial în anul 1963.", "Este situată în centrul administrativ Pangai.", "Este cea mai mare școală de stat din grupul Ha'apai.", "Elevii provin de pe peste 20 de insule diferite.", "Rugby-ul și netball-ul sunt sporturile dominante.", "Școala a fost renovată după ciclonul Ian din 2014."],
       en: ["The school was officially opened in 1963.", "It is located in the administrative center of Pangai.", "It is the largest government school in the Ha'apai group.", "Students come from over 20 different islands.", "Rugby and netball are the dominant sports at the school.", "The school was renovated following Cyclone Ian in 2014."],
     },
+    image: "/poi-images/tonga-haapai-high-school-landmarks-v2.webp",
   },
   {
     id: "tonga-prince-wellington-gu-monument-landmarks-v2",
@@ -899,6 +927,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Prințul Wellington Ngū s-a născut în anul 1854.", "A servit ca guvernator de Vava'u până la moartea sa.", "Monumentul a fost ridicat la sfârșitul secolului al XIX-lea.", "A fost nepotul fondatorului statului, George Tupou I.", "Obeliscul este realizat din piatră albă.", "Wellington Ngū a murit la vârsta tânără de 31 de ani."],
       en: ["Prince Wellington Ngū was born in 1854.", "He served as Governor of Vava'u until his death in 1885.", "The monument was erected in the late 19th century.", "He was the grandson of the nation's founder, George Tupou I.", "The obelisk is constructed from polished white stone.", "Wellington Ngū passed away at the young age of 31."],
     },
+    image: "/poi-images/tonga-prince-wellington-gu-monument-landmarks-v2.webp",
   },
   {
     id: "tonga-taufaahau-memorial-church-landmarks-v2",
@@ -930,6 +959,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Biserica este dedicată primului rege creștin al Tongăi.", "Se află în Pangai, locul de naștere al lui Taufa'ahau.", "Clădirea este un exemplu remarcabil de arhitectură din lemn.", "Aparține Bisericii Wesleyane Libere din Tonga.", "Cântările corale regulate atrag mulți vizitatori.", "După ciclonul Ian, biserica a fost renovată substanțial."],
       en: ["The church is dedicated to Tonga's first Christian king.", "It is located in Pangai, the birthplace of King George Tupou I.", "The building is a prime example of Tongan timber architecture.", "It is part of the Free Wesleyan Church of Tonga.", "Regular choral services are a major attraction for visitors.", "The church underwent extensive repairs after Cyclone Ian in 2014."],
     },
+    image: "/poi-images/tonga-taufaahau-memorial-church-landmarks-v2.webp",
   },
   {
     id: "tonga-neiafu-old-post-office-landmarks-v2",
@@ -961,6 +991,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Clădirea a fost construită la începutul secolului XX.", "Este situată în apropierea portului din Neiafu.", "Anterior a fost centrul pentru telegrame din Vava'u.", "Arhitectura este un exemplu al stilului colonial.", "Astăzi servește parțial ca spațiu de depozitare sau birouri.", "Este un obiectiv important pentru tururile istorice ale orașului."],
       en: ["The building was constructed in the early 20th century.", "It is located near the waterfront in Neiafu.", "It once served as the primary center for telegrams in Vava'u.", "The architecture is a surviving example of colonial-era style.", "The building is now used for various administrative purposes.", "It is a featured stop on historical walking tours of the town."],
     },
+    image: "/poi-images/tonga-neiafu-old-post-office-landmarks-v2.webp",
   },
   {
     id: "tonga-vavau-high-school-landmarks-v2",
@@ -992,6 +1023,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Școala a fost fondată în anul 1961.", "Este situată pe un deal deasupra orașului Neiafu.", "Numărul elevilor depășește adesea 800 de tineri.", "Rugby-ul este cel mai important sport al școlii.", "Mulți tongani proeminenți au frecventat acest colegiu.", "Școala dispune de terenuri de sport extinse."],
       en: ["The school was officially established in 1961.", "It is situated on a hill overlooking the town of Neiafu.", "The student body often exceeds 800 young people.", "Rugby is the cornerstone of the school's athletic program.", "Many prominent Tongan leaders are alumni of this school.", "The campus features extensive playing fields for local matches."],
     },
+    image: "/poi-images/tonga-vavau-high-school-landmarks-v2.webp",
   },
   {
     id: "tonga-eua-old-school-house-landmarks-v2",
@@ -1023,6 +1055,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Clădirea școlii a fost construită la începutul secolului XX.", "Se află pe insula 'Eua, la sud-est de Tongatapu.", "Misionarii au folosit-o ca primă școală a insulei.", "Construcția este realizată aproape în întregime din lemn de esență tare.", "Este una dintre cele mai vechi clădiri conservate din 'Eua.", "Astăzi este adesea folosită ca casă comunitară sau muzeu."],
       en: ["The school house was built in the early 20th century.", "It is located on the island of 'Eua, southeast of Tongatapu.", "Missionaries established it as the island's first school.", "The structure is made almost entirely of native hardwood.", "It is one of the oldest surviving buildings on 'Eua.", "The building now often serves as a community hall or museum."],
     },
+    image: "/poi-images/tonga-eua-old-school-house-landmarks-v2.webp",
   },
   {
     id: "tonga-niuatoputapu-church-landmarks-v2",
@@ -1054,6 +1087,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Biserica aparține Bisericii Wesleyane Libere din Tonga.", "Este situată în satul Hihifo de pe Niuatoputapu.", "Clădirea a fost reparată după tsunami-ul din 2009.", "Niuatoputapu se află la peste 600 km nord de Nuku'alofa.", "Biserica este cel mai important loc de întâlnire de pe insulă.", "Slujbele sunt adesea celebrate în stil tradițional."],
       en: ["The church is affiliated with the Free Wesleyan Church of Tonga.", "It is located in Hihifo, the main village on Niuatoputapu.", "The building was repaired following the devastating 2009 tsunami.", "Niuatoputapu is over 600 km north of the capital, Nuku'alofa.", "The church serves as the primary assembly point for islanders.", "Services feature traditional Tongan hymns and local customs."],
     },
+    image: "/poi-images/tonga-niuatoputapu-church-landmarks-v2.webp",
   },
   {
     id: "tonga-niuafoou-landing-pier-landmarks-v2",
@@ -1085,6 +1119,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Niuafo'ou este numită \"Insula cutiilor de tablă\" datorită istoriei poștale.", "Debarcaderul este situat pe coasta de vest, în satul Futu.", "Nu există lagună, navele trebuie să ancoreze în ape adânci.", "Docul este adesea expus vânturilor alizee puternice.", "Livrarea poștei prin înotători a încetat abia în anii 1980.", "Erupțiile vulcanice au modificat linia de coastă de mai multe ori."],
       en: ["Niuafo'ou is nicknamed \"Tin Can Island\" due to its postal history.", "The pier is located at Futu village on the western coast.", "The island lacks a lagoon, forcing ships to anchor in deep water.", "The landing site is frequently battered by heavy Pacific swells.", "The \"Tin Can Mail\" system was officially replaced in the 1980s.", "Volcanic eruptions have reshaped the coastline around the pier."],
     },
+    image: "/poi-images/tonga-niuafoou-landing-pier-landmarks-v2.webp",
   },
   {
     id: "tonga-mua-ancient-capital-landmarks-v2",
@@ -1116,6 +1151,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Mu'a a fost capitala imperială timp de aproape 700 de ani.", "Există 28 de morminte regale din piatră (Langi) cunoscute.", "Pietrele au fost adesea aduse de pe insula Wallis (Uvea).", "Lapaha era districtul sacru pentru Tu'i Tonga.", "Mu'a este situată pe malul lagunei Fanga'uta.", "Situl face parte din lista indicativă UNESCO."],
       en: ["Mu'a served as the imperial capital for nearly 700 years.", "There are 28 known royal stone tombs (Langi) at the site.", "The stones were often transported from as far as Wallis Island.", "Lapaha was the sacred district reserved for the Tu'i Tonga.", "Mu'a is located on the shores of the Fanga'uta Lagoon.", "The site is currently on the UNESCO World Heritage tentative list."],
     },
+    image: "/poi-images/tonga-mua-ancient-capital-landmarks-v2.webp",
   },
   {
     id: "tonga-kanokupolu-site-landmarks-v2",
@@ -1147,6 +1183,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Linia Tu'i Kanokupolu a început aici în jurul anului 1610 d.Hr.", "Arborele koka este simbolul central al învestiturii.", "Regele George Tupou I a fost învestit aici în 1845.", "Ceremonia include băutul ritualic al kavei.", "Satul Kanokupolu este considerat leagănul dinastiei moderne.", "Situl este situat în vârful vestic al insulei Tongatapu."],
       en: ["The Tu'i Kanokupolu line began here around 1610 AD.", "The koka tree is the central symbol of the royal investiture.", "King George Tupou I was invested here as ruler in 1845.", "The ceremony traditionally involves a highly ritualized kava drinking.", "The village of Kanokupolu is the ancestral cradle of the current dynasty.", "The site is located on the western tip of Tongatapu island."],
     },
+    image: "/poi-images/tonga-kanokupolu-site-landmarks-v2.webp",
   },
   {
     id: "tonga-nukuleka-archaeological-site-landmarks-v2",
@@ -1178,6 +1215,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Nukuleka este considerată cea mai veche așezare din întreaga Polinezie.", "Descoperirile de ceramică Lapita datează de aproximativ 2.900 de ani.", "Arheologii o numesc \"așezarea fondatoare\".", "Situl este situat la o gură de lagună strategică.", "S-au găsit dovezi ale unor rute comerciale maritime extinse.", "Nukuleka este crucială pentru înțelegerea colonizării Hawaii-ului."],
       en: ["Nukuleka is regarded as the oldest settlement in all of Polynesia.", "Lapita pottery fragments found here date back roughly 2,900 years.", "Archaeologists refer to it as a \"Founder Settlement.\"", "The site is strategically located at the mouth of the Fanga'uta Lagoon.", "Evidence of long-distance maritime trade networks was found here.", "Nukuleka is critical for understanding the subsequent settlement of Hawaii."],
     },
+    image: "/poi-images/tonga-nukuleka-archaeological-site-landmarks-v2.webp",
   },
   {
     id: "tonga-haateiho-stone-pillars-landmarks-v2",
@@ -1209,6 +1247,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Maka Fa'akinanga înseamnă \"piatra de care te sprijini\".", "Stâlpii datează din secolul al XIII-lea.", "Regele Tu'itatui i-a folosit probabil ca scut de protecție.", "Pietrele au o înălțime de aproximativ 4 metri.", "Sunt realizate din calcar coralier fosilizat.", "Monumentul se află în satul Ha'ateiho, în centrul insulei."],
       en: ["Maka Fa'akinanga translates to \"stone against which one leans.\"", "The pillars date back to the 13th century.", "King Tu'itatui likely used them as a protective backrest.", "The upright slabs stand approximately 4 meters tall.", "They are composed of fossilized coral limestone.", "The monument is located in Ha'ateiho village in central Tongatapu."],
     },
+    image: "/poi-images/tonga-haateiho-stone-pillars-landmarks-v2.webp",
   },
   {
     id: "tonga-talasiu-ancient-docks-landmarks-v2",
@@ -1240,6 +1279,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Docurile au servit ca port pentru flota imperială Kalia.", "Sunt situate strategic la intrarea în regiunea Mu'a.", "Canale artificiale au fost săpate în calcarul coralier.", "Mii de muncitori și marinari se adunau aici odinioară.", "Talasiu a fost un centru al comerțului oceanic la distanță.", "Structurile datează din perioada de glorie, cca. 1200-1500 d.Hr."],
       en: ["The docks served as the primary port for the imperial Kalia fleet.", "They are strategically located at the gateway to the Mu'a region.", "Artificial canals were painstakingly excavated into the coral limestone.", "Thousands of laborers and sailors once congregated at this site.", "Talasiu was a pivotal hub for long-distance oceanic trade.", "The structures date to the empire's peak between 1200 and 1500 AD."],
     },
+    image: "/poi-images/tonga-talasiu-ancient-docks-landmarks-v2.webp",
   },
   {
     id: "tonga-popua-fortress-landmarks-v2",
@@ -1271,6 +1311,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Cetatea datează din perioada de glorie a Imperiului Tu'i Tonga.", "Terasamentele masive de pământ formau principala linie de apărare.", "Descoperirile arheologice atestă utilizarea sitului din secolul XV.", "Locația este situată strategic în apropierea capitalei Nuku'alofa.", "Unelte de bazalt au fost recuperate în timpul excavărilor.", "Fortificația a rămas activă până spre sfârșitul secolului al XVIII-lea."],
       en: ["The fortress was built during the era of the Tu'i Tonga Empire.", "Massive earthen ramparts formed the primary line of defense.", "Archaeological finds date the main construction to the 15th century.", "The site is strategically located on the eastern side of Tongatapu.", "Basalt tools and pottery were discovered during modern excavations.", "The defensive complex was utilized until the late 18th century."],
     },
+    image: "/poi-images/tonga-popua-fortress-landmarks-v2.webp",
   },
   {
     id: "tonga-cathedral-of-st-joseph-neiafu-landmarks-v2",
@@ -1302,6 +1343,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Catedrala este sediul principal al Bisericii Catolice din Vava'u.", "Edificiul este amplasat pe o colină deasupra Portului Refuge.", "Misionarii mariști au stabilit prima misiune aici în secolul XIX.", "Fațada clădirii este vopsită în culorile tradiționale alb și roșu.", "Interiorul conține vitralii cu tematică biblică și motive locale.", "Slujbele sunt recunoscute pentru calitatea muzicii corale polifonice."],
       en: ["The cathedral is the principal Catholic seat in the Vava'u group.", "It is positioned on a hill overlooking the Neiafu harbor area.", "Marist missionaries established their presence here in the mid-1800s.", "The building's exterior features a classic white and red color scheme.", "The interior houses detailed wood carvings made by Tongan artists.", "It is a central hub for major religious festivals in the archipelago."],
     },
+    image: "/poi-images/tonga-cathedral-of-st-joseph-neiafu-landmarks-v2.webp",
   },
   {
     id: "tonga-atele-indoor-stadium-landmarks-v2",
@@ -1333,6 +1375,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Este cea mai mare arenă sportivă de interior din țară.", "Stadionul este localizat în districtul Atele de pe insula Tongatapu.", "Construcția a fost realizată cu asistență financiară din China.", "Găzduiește competiții de netball, baschet și volei.", "Este un spațiu polivalent utilizat pentru festivități naționale.", "Clădirea joacă un rol esențial în dezvoltarea sportului juvenil."],
       en: ["The stadium is the largest indoor athletic venue in Tonga.", "It is situated in the Atele district on the island of Tongatapu.", "Construction was funded through a partnership with China.", "The facility supports netball, basketball, and volleyball matches.", "It serves as a primary venue for national cultural festivals.", "The building is engineered to resist regional tropical cyclones."],
     },
+    image: "/poi-images/tonga-atele-indoor-stadium-landmarks-v2.webp",
   },
   {
     id: "tonga-nukualofa-lighthouse-landmarks-v2",
@@ -1364,6 +1407,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Farul securizează intrarea în portul principal din Nuku'alofa.", "Avertizează navele despre prezența recifelor de corali periculoase.", "Structura a fost modernizată semnificativ în secolul al XX-lea.", "Este un punct de atracție major pe faleza Vuna Road.", "Semnalul său luminos este vizibil de la mulți kilometri distanță.", "Rămâne o metodă de navigație secundară esențială pentru pescari."],
       en: ["The lighthouse monitors the main entrance to Nuku'alofa harbor.", "It provides critical warnings about the surrounding coral reefs.", "The facility underwent significant upgrades during the 1900s.", "It is located along the iconic Vuna Road waterfront area.", "Its beacon is visible for several nautical miles out at sea.", "It remains a crucial backup for local maritime navigation."],
     },
+    image: "/poi-images/tonga-nukualofa-lighthouse-landmarks-v2.webp",
   },
   {
     id: "tonga-st-peters-church-vavau-landmarks-v2",
@@ -1395,6 +1439,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Biserica este un lăcaș de cult catolic central în Vava'u.", "Arhitectura îmbină stilul neogotic cu elemente din Pacific.", "Interiorul este decorat cu sculpturi în lemn realizate local.", "Este renumită pentru slujbele duminicale cu muzică corală.", "Clădirea a fost extinsă și renovată pe parcursul secolului XX.", "Reprezintă un punct de reper social major în zona Neiafu."],
       en: ["The church is a key Catholic place of worship in Vava'u.", "Its design features a mix of neo-Gothic and Pacific styles.", "Ornate local wood carvings are prominent within the interior.", "Sunday masses are noted for their complex polyphonic singing.", "The structure has been expanded multiple times since its founding.", "It serves as a primary social venue for the Neiafu community."],
     },
+    image: "/poi-images/tonga-st-peters-church-vavau-landmarks-v2.webp",
   },
   {
     id: "tonga-royal-residence-kauvai-landmarks-v2",
@@ -1426,6 +1471,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Kauvai servește ca refugiu privat pentru familia regală.", "Arhitectura imobilului este de tip colonial tongan.", "Proprietatea este localizată pe insula principală, Tongatapu.", "A fost locul multor întâlniri politice informale importante.", "Grădinile sunt renumite pentru speciile de plante locale.", "Situl reflectă legătura dintre monarhie și tradiția agrară."],
       en: ["Kauvai functions as a private getaway for the Royal Family.", "The building showcases classic Tongan colonial architecture.", "The estate is situated on the main island of Tongatapu.", "It has historically hosted many high-level private meetings.", "The surrounding grounds are noted for their lush gardens.", "It represents the monarchy's ties to the Tongan landscape."],
     },
+    image: "/poi-images/tonga-royal-residence-kauvai-landmarks-v2.webp",
   },
   {
     id: "tonga-house-of-nobles-landmarks-v2",
@@ -1457,6 +1503,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Reprezentanții nobililor sunt aleși de deținătorii de titluri ereditare.", "Rolul lor parlamentar a fost stabilit prin Constituția din 1875.", "Casa Nobililor își desfășoară ședințele în Nuku'alofa.", "Aceștia reprezintă interesele marilor proprietari de pământ.", "Clădirea face parte din complexul Adunării Legislative.", "Purtarea vestimentației tradiționale este obligatorie în sesiuni."],
       en: ["Nobles' representatives are elected by hereditary title-holders.", "The 1875 Constitution formally defined their legislative role.", "The House of Nobles convenes in the capital city of Nuku'alofa.", "They represent the interests of the nobility and landowners.", "The building is a key component of the Legislative Assembly complex.", "Traditional Tongan attire is required for formal sessions."],
     },
+    image: "/poi-images/tonga-house-of-nobles-landmarks-v2.webp",
   },
   {
     id: "tonga-hufangalupe-natural-monument-landmarks-v2",
@@ -1488,6 +1535,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Numele Hufangalupe se traduce prin 'Poarta Porumbeilor'.", "Este o punte naturală formată din corali fosilizați.", "Formațiunea a rezultat din prăbușirea unei peșteri marine.", "Se află pe coasta de sud a insulei Tongatapu.", "Stâncile reprezintă un loc de cuibărit pentru păsări marine.", "Situl este considerat sacru în mitologia și folclorul local."],
       en: ["Hufangalupe translates to 'The Gate of the Pigeons.'", "It is a natural bridge composed of ancient coral limestone.", "The arch was created by the collapse of a massive sea cave.", "It is located on the rugged southern coast of Tongatapu.", "The cliffs provide nesting grounds for various seabirds.", "The site is featured in numerous Tongan myths and legends."],
     },
+    image: "/poi-images/tonga-hufangalupe-natural-monument-landmarks-v2.webp",
   },
   {
     id: "tonga-falaleu-church-landmarks-v2",
@@ -1519,6 +1567,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Biserica este situată în satul Falaleu pe insula Vava'u.", "Deservește una dintre cele mai active comunități din zonă.", "Este recunoscută pentru calitatea interpretărilor corale locale.", "Întreținerea clădirii se bazează pe voluntariatul sătenilor.", "Se află în proximitatea imediată a orașului Neiafu.", "Sărbătorile religioase includ adesea ospățuri tradiționale."],
       en: ["The church is located in Falaleu village on Vava'u island.", "It is home to a very active Christian congregation.", "The church is a local center for traditional Tongan choral music.", "Villagers participate in communal work to maintain the site.", "It is situated within walking distance of the town of Neiafu.", "Major church holidays are celebrated with traditional feasts."],
     },
+    image: "/poi-images/tonga-falaleu-church-landmarks-v2.webp",
   },
   {
     id: "tonga-vaipua-bridge-vavau-landmarks-v2",
@@ -1550,6 +1599,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Podul traversează un braț de mare în apropiere de Neiafu.", "Conectează centrul urban de satele din estul insulei Vava'u.", "Construcția este esențială pentru transportul local de mărfuri.", "Pietonii folosesc podul pentru perspectivele asupra portului.", "Mentenanța periodică previne coroziunea cauzată de sare.", "Podul a redus semnificativ timpul de călătorie spre aeroport."],
       en: ["The bridge spans a scenic inlet near the town of Neiafu.", "It links the urban center to the eastern villages of Vava'u.", "The structure is critical for local commerce and logistics.", "It is a popular vantage point for viewing the harbor area.", "Regular inspections are held to combat saltwater corrosion.", "The bridge significantly cuts travel time to the local airport."],
     },
+    image: "/poi-images/tonga-vaipua-bridge-vavau-landmarks-v2.webp",
   },
   {
     id: "tonga-utui-village-monument-landmarks-v2",
@@ -1581,6 +1631,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Monumentul este amplasat în centrul satului Utui.", "Onorează lideri locali sau momente istorice importante.", "Inscripțiile în limba tongană documentează trecutul satului.", "Piațeta servește ca loc pentru adunări tradiționale.", "Satul Utui este renumit pentru plantațiile sale fertile.", "Monumentul este întreținut direct de comunitatea locală."],
       en: ["The monument is located in the center of Utui village.", "It honors local leaders or key historical milestones.", "Inscriptions in Tongan record the village's unique history.", "The surrounding square is used for community meetings.", "Utui is known for its highly productive inland plantations.", "The site is cared for as part of a collective village effort."],
     },
+    image: "/poi-images/tonga-utui-village-monument-landmarks-v2.webp",
   },
   {
     id: "tonga-leimatua-church-landmarks-v2",
@@ -1612,6 +1663,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Biserica este centrul religios al satului Leimatua.", "Construcția a beneficiat de sprijinul diasporei tongane.", "Leimatua este unul dintre cele mai populate sate din Vava'u.", "Festivalurile recoltei sunt celebrate aici cu mare fast.", "Biserica este renumită pentru acustica sa interioară.", "Reprezintă un reper al misiunilor creștine în mediul rural."],
       en: ["The church is the spiritual heart of Leimatua village.", "Construction was significantly aided by the Tongan diaspora.", "Leimatua is among the largest rural settlements in Vava'u.", "Harvest festivals feature elaborate traditional decorations.", "The building is noted for its exceptional internal acoustics.", "It serves as a landmark of Christian influence in rural areas."],
     },
+    image: "/poi-images/tonga-leimatua-church-landmarks-v2.webp",
   },
   {
     id: "tonga-haalaufuli-school-landmarks-v2",
@@ -1643,6 +1695,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Școala deservește satul Ha'alaufuli și regiunile vecine.", "Curriculum-ul îmbină educația formală cu valorile locale.", "Clădirile sunt proiectate pentru ventilație naturală optimă.", "Curtea școlii găzduiește frecvent evenimente sportive locale.", "Sprijinul părinților este vital pentru funcționarea școlii.", "Instituția contribuie la creșterea alfabetizării în mediul rural."],
       en: ["The school serves Ha'alaufuli village and adjacent areas.", "Education here is integrated with traditional Tongan values.", "The structures are designed for natural cooling in the heat.", "The campus serves as a primary site for village sports.", "Parental involvement is key to school infrastructure projects.", "The school promotes literacy across the rural Vava'u region."],
     },
+    image: "/poi-images/tonga-haalaufuli-school-landmarks-v2.webp",
   },
   {
     id: "tonga-longoteme-stone-monument-landmarks-v2",
@@ -1674,6 +1727,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Monumentul datează din epoca Imperiului Tu'i Tonga.", "Este construit din blocuri masive de calcar fasonate.", "Situl a fost probabil utilizat pentru ceremonii ritualice.", "Este situat în partea centrală a insulei Tongatapu.", "Transportul pietrelor a necesitat o logistică complexă.", "Longoteme este un monument arheologic protejat prin lege."],
       en: ["The monument dates back to the era of the Tu'i Tonga Empire.", "It is constructed from massive, hewn limestone blocks.", "The site was likely used for ancient ceremonial purposes.", "It is located in the central region of Tongatapu island.", "Moving the stones was a major logistical feat of the time.", "Longoteme is a officially recognized archaeological site."],
     },
+    image: "/poi-images/tonga-longoteme-stone-monument-landmarks-v2.webp",
   },
   {
     id: "tonga-vuna-road-landmarks-v2",
@@ -1705,6 +1759,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Vuna Road conectează Palatul Regal de zona portuară.", "Aici sunt situate sedii guvernamentale cheie și Parlamentul.", "Strada găzduiește parada militară anuală a regatului.", "Oferă o vedere panoramică asupra lagunei Nuku'alofa.", "Multe monumente onorează monarhii dinastiei Tupou.", "Faleza a fost modernizată recent după distrugerile ciclonilor."],
       en: ["Vuna Road links the Royal Palace to the shipping wharf.", "Key government offices and the Parliament are located here.", "It is the primary site for national military parades.", "The road offers panoramic views of the Nuku'alofa lagoon.", "Monuments along the way honor the kings of the Tupou dynasty.", "The waterfront was extensively renovated after major cyclones."],
     },
+    image: "/poi-images/tonga-vuna-road-landmarks-v2.webp",
   },
   {
     id: "tonga-tonga-broadcasting-building-landmarks-v2",
@@ -1736,6 +1791,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Inaugurată oficial la data de 4 iulie 1961.", "Sediul central al Tonga Broadcasting Commission.", "Găzduiește Radio Tonga 1 și Television Tonga.", "Punct principal de alertă pentru cicloane tropicale.", "Localizată în capitala Nuku'alofa, lângă palat.", "Emisia TV a început în acest sediu în anul 2000."],
       en: ["Opened on July 4, 1961, by Queen Salote Tupou III.", "Headquarters of the Tonga Broadcasting Commission.", "Home to Radio Tonga 1 and Television Tonga.", "Primary emergency communication hub for cyclones.", "Located on Taufa'ahau Road in Nuku'alofa.", "Television broadcasting commenced here in 2000."],
     },
+    image: "/poi-images/tonga-tonga-broadcasting-building-landmarks-v2.webp",
   },
   {
     id: "tonga-dateline-hotel-historic-landmarks-v2",
@@ -1767,6 +1823,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Deschis în 1966 pentru încoronarea regală.", "Renovat complet și redeschis în februarie 2017.", "Situat pe Vuna Road, cu vedere directă la port.", "A fost primul hotel de standard internațional din țară.", "Găzduiește frecvent reuniuni ale Forumului Insulelor din Pacific.", "Dispune de 122 de camere de lux după modernizare."],
       en: ["Opened in 1966 for the coronation of King Taufa'ahau Tupou IV.", "Underwent a major multi-million dollar renovation in 2015-2017.", "Located on the Nuku'alofa waterfront on Vuna Road.", "Historically the first international-standard hotel in Tonga.", "Primary venue for the 53rd Pacific Islands Forum in 2024.", "Features 122 rooms and comprehensive conference facilities."],
     },
+    image: "/poi-images/tonga-dateline-hotel-historic-landmarks-v2.webp",
   },
   {
     id: "tonga-government-building-nukualofa-landmarks-v2",
@@ -1798,6 +1855,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Nume oficial: St. George Government Building.", "Inaugurată oficial în septembrie 2017.", "Construită cu asistență financiară din partea Chinei.", "Sediul oficial al biroului Prim-ministrului.", "Structură cu patru etaje situată în centrul capitalei.", "Centralizează Ministerul Finanțelor și Afacerilor Externe."],
       en: ["Officially known as the St. George Government Building.", "Opened in September 2017 after a 20-month construction.", "Houses the Office of the Prime Minister and Ministry of Finance.", "Funded through a grant/loan from the Chinese government.", "The structure is designed to resist Category 5 cyclones.", "Located on Taufa'ahau Road in central Nuku'alofa."],
     },
+    image: "/poi-images/tonga-government-building-nukualofa-landmarks-v2.webp",
   },
   {
     id: "tonga-st-andrews-school-landmarks-v2",
@@ -1829,6 +1887,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Fondată în anul 1904 de Biserica Anglicană.", "Oferă educație secundară până la clasa a 13-a (Form 7).", "Motto: 'Respect, Loialitate, Rugăciune'.", "Amplasată central pe strada Taufa'ahau.", "Recunoscută pentru performanțe deosebite în rugbi.", "Parte integrantă a Diecezei Anglicane de Polinezia."],
       en: ["Established in 1904 by the Anglican mission.", "Provides secondary education from Form 1 up to Form 7.", "School motto: 'Faka'apa'apa, Mateaki, Lotu'.", "Located on Taufa'ahau Road in central Nuku'alofa.", "Significant contributor to Tongan national rugby talent.", "Affiliated with the Anglican Diocese of Polynesia."],
     },
+    image: "/poi-images/tonga-st-andrews-school-landmarks-v2.webp",
   },
   {
     id: "tonga-nuku-historic-site-landmarks-v2",
@@ -1860,6 +1919,7 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Numele tradus înseamnă 'loc' sau 'reședință'.", "Situl conține fortificații precoloniale complexe.", "Relicvă a conflictelor tribale din Tongatapu.", "Prezintă structuri de apărare din pământ.", "Dovezile arheologice indică locuirea pe termen lung.", "Punct de referință pentru istoria orală locală."],
       en: ["The name 'Nuku' means 'place' or 'abode' in Tongan.", "Features pre-colonial defensive earthworks and ditches.", "Reflects the era of inter-tribal warfare in Tonga.", "Archaeological evidence dates back several centuries.", "Strategic location used for community protection.", "Integral part of Tonga's intangible cultural heritage."],
     },
+    image: "/poi-images/tonga-nuku-historic-site-landmarks-v2.webp",
   },
   {
     id: "tonga-lapaha-royal-tombs-complex-landmarks-v2",
@@ -1891,5 +1951,6 @@ export const tongaLandmarksV2: POI[] = [
       ro: ["Situat în Mu'a, fosta capitală imperială.", "Construite între secolele al XIII-lea și al XIX-lea.", "Material: blocuri masive de calcar coralier.", "Loc de înmormântare pentru dinastia Tu'i Tonga.", "Inclus pe lista indicativă a UNESCO.", "Peste 20 de morminte tip 'Langi' identificate."],
       en: ["Located in Mu'a, the ancient imperial capital.", "Constructed between the 13th and 19th centuries.", "Built from massive, hand-cut coral limestone blocks.", "Final resting place of the Tu'i Tonga divine rulers.", "Listed on the UNESCO World Heritage tentative list.", "Consists of over 20 major tiered stone tombs (Langi)."],
     },
+    image: "/poi-images/tonga-lapaha-royal-tombs-complex-landmarks-v2.webp",
   }
 ];

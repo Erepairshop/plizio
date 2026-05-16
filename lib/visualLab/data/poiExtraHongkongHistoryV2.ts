@@ -31,6 +31,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Comemorează împărații Zhao Shi și Zhao Bing", "Fuga din fața mongolilor în anii 1277-1278", "Inscripția înseamnă 'Terasa Regilor Song'", "Stânca a fost parțial dinamitată în al Doilea Război", "Parcul memorial actual a fost deschis în 1959", "Situat în apropierea fostului aeroport Kai Tak"],
       en: ["Commemorates Emperors Zhao Shi and Zhao Bing", "Flight from Mongol invaders in 1277-1278", "Inscription means 'Terrace of the Song Kings'", "Rock was partially blasted during World War II", "The current memorial park opened in 1959", "Located near the site of the former Kai Tak Airport"],
     },
+    image: "/poi-images/hongkong-sung-wong-toi-history-v2.webp",
   },
   {
     id: "hongkong-kowloon-walled-city-park-history-v2",
@@ -62,6 +63,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Demolarea vechiului oraș a avut loc între 1993-1994", "Parcul a fost deschis în decembrie 1995", "Suprafață de aproximativ 31.000 de metri pătrați", "Clădirea Yamen din 1847 este conservată original", "Amenajat în stilul arhitectural de la începutul Qing", "Resturile Porții de Sud au fost descoperite în 1987"],
       en: ["Demolition of the old Walled City from 1993 to 1994", "Opening of the park in December 1995", "Covers an area of about 31,000 square meters", "Original 1847 Yamen building is preserved", "Designed in the early Qing Dynasty garden style", "Remnants of the South Gate discovered in 1987"],
     },
+    image: "/poi-images/hongkong-kowloon-walled-city-park-history-v2.webp",
   },
   {
     id: "hongkong-tung-chung-fort-history-v2",
@@ -93,6 +95,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Construit în anul 1832 sub împăratul Daoguang", "Găzduiește 6 tunuri de fontă pe zidul nordic", "A servit drept sediu de poliție după anul 1898", "Declarat monument istoric oficial în 1979", "Zidurile sunt edificate din blocuri de granit", "Incinta măsoară aproximativ 70 pe 80 de metri"],
       en: ["Built in 1832 during the reign of Emperor Daoguang", "Features 6 original muzzle-loading cannons", "Used as a police station after the 1898 lease", "Declared a statutory monument in 1979", "Constructed primarily from granite blocks", "The rectangular site measures 70 by 80 metres"],
     },
+    image: "/poi-images/hongkong-tung-chung-fort-history-v2.webp",
   },
   {
     id: "hongkong-fan-lau-fort-history-v2",
@@ -124,6 +127,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Cea mai veche fortăreață din Hong Kong, din 1729", "Dimensiunile incintei sunt de 46 pe 21 metri", "Zidurile ating o înălțime de până la 5 metri", "Proteja rutele comerciale maritime spre Canton", "Declarat monument istoric protejat în anul 1981", "Situat în perimetrul Parcului Natural Lantau South"],
       en: ["Oldest fort in Hong Kong, completed in 1729", "The rectangular enclosure measures 46 by 21 metres", "Walls stand up to 5 metres high in some sections", "Guarded the maritime trade routes to Canton", "Declared a statutory monument in 1981", "Located within the Lantau South Country Park"],
     },
+    image: "/poi-images/hongkong-fan-lau-fort-history-v2.webp",
   },
   {
     id: "hongkong-murray-house-history-v2",
@@ -155,6 +159,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Construită inițial în 1844 în districtul Central", "Compusă din peste 3.000 de blocuri de granit numerotate", "A servit drept sediu Gestapo în timpul celui de-al Doilea Război Mondial", "Demontată în 1982 și reconstruită în Stanley până în 2002", "Una dintre cele mai vechi clădiri publice din oraș", "Îmbină coloanele clasice cu logii exterioare"],
       en: ["Originally built in 1844 in the Central District", "Comprised of over 3,000 numbered granite blocks", "Used as a headquarters by the Japanese during WWII", "Dismantled in 1982 and reopened in Stanley in 2002", "One of the oldest surviving public buildings in HK", "Features Classical columns and wide verandas"],
     },
+    image: "/poi-images/hongkong-murray-house-history-v2.webp",
   },
   {
     id: "hongkong-flagstaff-house-history-v2",
@@ -186,6 +191,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Cea mai veche clădire colonială din oraș, din 1846", "Cunoscută inițial sub numele de Headquarter House", "Situată în districtul Central, în interiorul HK Park", "A fost rezidență militară oficială până în anul 1978", "Găzduiește Muzeul Ustensilelor de Ceai din 1984", "Declarată monument istoric protejat în anul 1989"],
       en: ["Oldest surviving colonial building in HK, built 1846", "Originally known as the Headquarter House", "Located in Central within the Hong Kong Park", "Served as a military residence until 1978", "Home to the Museum of Tea Ware since 1984", "Declared a statutory monument in 1989"],
     },
+    image: "/poi-images/hongkong-flagstaff-house-history-v2.webp",
   },
   {
     id: "hongkong-st-johns-cathedral-history-v2",
@@ -217,6 +223,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Piatra de temelie a fost pusă la 25 ianuarie 1847", "Cea mai veche catedrală anglicană din Extremul Orient", "Singurul teren în proprietate privată (freehold) din HK", "Construită în stil neogotic între anii 1847 și 1849", "Vitraliile au fost distruse în al Doilea Război Mondial", "Declarată monument istoric oficial în anul 1996"],
       en: ["Foundation stone laid on 25 January 1847", "Oldest Anglican cathedral in the Far East", "Only piece of freehold land in all of Hong Kong", "Built in the Gothic Revival style (1847–1849)", "Stained glass windows were destroyed during WWII", "Declared a statutory monument in 1996"],
     },
+    image: "/poi-images/hongkong-st-johns-cathedral-history-v2.webp",
   },
   {
     id: "hongkong-kat-hing-wai-history-v2",
@@ -248,6 +255,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Fondat în timpul domniei lui Chenghua (dinastia Ming)", "Zidurile de apărare au o înălțime de 6 metri", "Porțile de fier au fost ținute în Irlanda între 1899-1925", "Locuință tradițională a clanului Tang (populația Punti)", "Satul are o formă dreptunghiulară de 100 pe 90 metri", "Prevăzut inițial cu un șanț cu apă pentru protecție"],
       en: ["Founded during the Chenghua reign of the Ming Dynasty", "The defensive walls stand roughly 6 metres tall", "Iron gates were held in Ireland from 1899 to 1925", "Home to the Punti people of the Tang clan", "The village measures 100 by 90 metres in a rectangle", "Originally featured a protective water moat"],
     },
+    image: "/poi-images/hongkong-kat-hing-wai-history-v2.webp",
   },
   {
     id: "hongkong-sam-tung-uk-history-v2",
@@ -279,6 +287,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Construit în anul 1786 de către clanul Chan", "Sat tradițional Hakka prevăzut cu ziduri de apărare", "Numele provine de la cele trei hale principale", "Declarat monument istoric oficial în anul 1981", "Deschis publicului ca muzeu în anul 1987", "Complexul ocupă o suprafață de circa 2.000 mp"],
       en: ["Built in 1786 by members of the Chan clan", "Traditional Hakka-style walled village architecture", "Name refers to the three main halls in the complex", "Declared a statutory monument in 1981", "Opened as a public museum in 1987", "Occupies a total area of approximately 2,000 sqm"],
     },
+    image: "/poi-images/hongkong-sam-tung-uk-history-v2.webp",
   },
   {
     id: "hongkong-kun-ting-study-hall-history-v2",
@@ -310,6 +319,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Construită în anul 1870 de Tang Kwei-shing", "Utilizată pentru pregătirea examenelor imperiale", "Structurată în două hale cu o curte interioară", "Faimoasă pentru sculpturile în lemn și picturile murale", "Restaurarea clădirii a fost finalizată în anul 1991", "Situată în satul Hang Tau Tsuen din districtul Yuen Long"],
       en: ["Built in 1870 by the Tang clan leader Tang Kwei-shing", "Used for preparing students for the imperial exams", "Consists of two halls separated by a courtyard", "Features intricate wood carvings and wall paintings", "Full restoration was completed in 1991", "Located in Hang Tau Tsuen village, Yuen Long"],
     },
+    image: "/poi-images/hongkong-kun-ting-study-hall-history-v2.webp",
   },
   {
     id: "hongkong-tang-ancestral-hall-history-v2",
@@ -341,6 +351,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Cea mai mare sală ancestrală din Hong Kong", "Fondată în jurul anului 1273 (dinastia Song)", "Clădirea actuală datează din anul 1525", "Urmează planul arhitectural tradițional cu trei hale", "Declarată monument istoric oficial în anul 2001", "Acoperișul este decorat cu figurine ceramice complexe"],
       en: ["Largest ancestral hall in the Hong Kong region", "Founded around 1273 during the Southern Song Dynasty", "The present structure dates back to 1525", "Features a traditional three-hall architectural layout", "Declared a statutory monument in December 2001", "Adorned with elaborate ceramic figures on the ridges"],
     },
+    image: "/poi-images/hongkong-tang-ancestral-hall-history-v2.webp",
   },
   {
     id: "hongkong-tsui-sing-lau-pagoda-history-v2",
@@ -372,6 +383,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Construită în 1486 în timpul dinastiei Ming.", "Înălțimea de aproximativ 13 metri.", "Trei etaje construite din cărămidă și granit.", "Făcea parte inițial dintr-un complex de temple al clanului Tang.", "Declarată monument istoric în 1991.", "Ultima restaurare a avut loc în anii 1990."],
       en: ["Built in 1486 during the Ming Dynasty.", "Height of approximately 13 meters.", "Three stories constructed of brick and granite.", "Originally part of a larger temple complex belonging to the Tang clan.", "Declared a historic monument in 1991.", "Last major restoration completed in the 1990s."],
     },
+    image: "/poi-images/hongkong-tsui-sing-lau-pagoda-history-v2.webp",
   },
   {
     id: "hongkong-maryknoll-convent-school-history-v2",
@@ -403,6 +415,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Fondată în 1925 de Surorile Maryknoll.", "Clădire neoclasică cu fațadă de cărămidă roșie.", "Folosită drept cazarmă în timpul ocupației japoneze (1941-1945).", "Monument istoric din 1994.", "Înălțimea turnului-clopotniță: aproximativ 20 de metri.", "Muzeul Școlii Maryknoll Convent a fost deschis în 2010."],
       en: ["Founded in 1925 by the Maryknoll Sisters.", "Neoclassical building with red brick facade.", "Used as a barracks during Japanese occupation (1941-1945).", "Declared a monument in 1994.", "Bell tower height: approximately 20 meters.", "Maryknoll Convent School Museum opened in 2010."],
     },
+    image: "/poi-images/hongkong-maryknoll-convent-school-history-v2.webp",
   },
   {
     id: "hongkong-blue-house-history-v2",
@@ -434,6 +447,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Construită în anii 1920.", "Fațada albastră datorită pigmentului albastru din tencuială.", "Exemplu de arhitectură tong-lau cu magazine la parter.", "A găzduit inițial o clinică chineză și o farmacie.", "Restaurată în 2017, păstrând culoarea originală.", "Adăpostește Muzeul Viva Blue House."],
       en: ["Built in the 1920s.", "Blue facade from blue pigment in the plaster.", "Example of tong-lau architecture with ground-floor shops.", "Originally housed a Chinese clinic and pharmacy.", "Restored in 2017, preserving original color.", "Now houses the Viva Blue House Museum."],
     },
+    image: "/poi-images/hongkong-blue-house-history-v2.webp",
   },
   {
     id: "hongkong-western-market-history-v2",
@@ -465,6 +479,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Construită în 1906 în stil edwardian.", "Inițial a fost o piață de pește și legume.", "Fațadă de cărămidă roșie cu turn cu ceas.", "Închisă ca piață în anii 1980.", "Declarată monument istoric în 1990.", "Transformată într-un centru comercial cu magazine de artizanat și restaurante."],
       en: ["Built in 1906 in Edwardian style.", "Originally a fish and vegetable market.", "Red brick facade with a clock tower.", "Closed as a market in the 1980s.", "Declared a monument in 1990.", "Converted into a shopping arcade with craft shops and restaurants."],
     },
+    image: "/poi-images/hongkong-western-market-history-v2.webp",
   },
   {
     id: "hongkong-former-french-mission-building-history-v2",
@@ -496,6 +511,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Construită în 1917 pentru Misiunea Franceză.", "Arhitectură neoclasică cu fațadă albă.", "Adăpostea inițial o biserică, o școală și un orfelinat.", "După război, folosită de Poliția din Hong Kong.", "Declarată monument istoric în 1991.", "Acum este o galerie de artă și locație pentru evenimente."],
       en: ["Built in 1917 for the French Mission.", "Neoclassical architecture with white facade.", "Originally housed a church, school, and orphanage.", "Post-war used by Hong Kong Police.", "Declared a monument in 1991.", "Now an art gallery and event venue."],
     },
+    image: "/poi-images/hongkong-former-french-mission-building-history-v2.webp",
   },
   {
     id: "hongkong-old-supreme-court-history-v2",
@@ -527,6 +543,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Construită în 1912 în stil neoclasic.", "Acoperiș cu dom și coloane ionice.", "Sediu al Curții Supreme între 1912 și 1985.", "Folosită ca cartier general în timpul ocupației japoneze (1941-1945).", "Din 1985 găzduiește ședințele Consiliului Legislativ.", "Declarată monument istoric în 1992."],
       en: ["Built in 1912 in neoclassical style.", "Domed roof with Ionic columns.", "Supreme Court seat from 1912 to 1985.", "Used as Japanese headquarters during occupation (1941-1945).", "Houses Legislative Council meetings since 1985.", "Declared a monument in 1992."],
     },
+    image: "/poi-images/hongkong-old-supreme-court-history-v2.webp",
   },
   {
     id: "hongkong-tst-clock-tower-history-v2",
@@ -558,6 +575,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Construit în 1915 ca parte a terminalului feroviar Kowloon-Canton.", "Înălțime: 44 de metri.", "Stil edwardian cu patru cadrane.", "Singura parte rămasă din clădirea originală a gării.", "Declarat monument istoric în 1975 după închiderea gării.", "Situat pe promenada din Tsim Sha Tsui."],
       en: ["Built in 1915 as part of the Kowloon-Canton Railway terminus.", "Height: 44 meters.", "Edwardian style with four clock faces.", "Last remaining part of the original station building.", "Declared a monument in 1975 after station closure.", "Located on the Tsim Sha Tsui waterfront promenade."],
     },
+    image: "/poi-images/hongkong-tst-clock-tower-history-v2.webp",
   },
   {
     id: "hongkong-peninsula-hotel-history-v2",
@@ -589,6 +607,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Construit în 1928 de familia Kadoorie.", "Arhitectură neoclasică și Art Deco.", "Folosit drept cartier general japonez în timpul celui de-al Doilea Război Mondial.", "Deține o flotă de 14 limuzine Rolls-Royce.", "Faimos pentru ceaiul de după-amiază și mașinile 'The Pen'.", "Clădirea avea inițial 7 etaje."],
       en: ["Built in 1928 by the Kadoorie family.", "Neoclassical and Art Deco architecture.", "Used as Japanese headquarters during WWII.", "Owns a fleet of 14 Rolls-Royce limousines.", "Famous for afternoon tea and 'The Pen' vehicles.", "Original building height: 7 storeys."],
     },
+    image: "/poi-images/hongkong-peninsula-hotel-history-v2.webp",
   },
   {
     id: "hongkong-bethanie-sanatorium-history-v2",
@@ -620,6 +639,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Construit în 1875 de Misiunea din Paris.", "Arhitectură neogotică cu cărămidă roșie.", "A servit drept loc de odihnă pentru misionarii bolnavi.", "Preluat de guvern în anii 1970.", "Acum găzduiește Academia de Arte Spectacolului din Hong Kong.", "Clădire monument istoric."],
       en: ["Built in 1875 by the Paris Mission.", "Neo-Gothic architecture with red brick.", "Served as a convalescent home for sick missionaries.", "Taken over by the government in the 1970s.", "Now houses the Hong Kong Academy for Performing Arts.", "Declared monument building."],
     },
+    image: "/poi-images/hongkong-bethanie-sanatorium-history-v2.webp",
   },
   {
     id: "hongkong-lei-yue-mun-fort-history-v2",
@@ -651,6 +671,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Construit în anii 1880 de britanici.", "Echipat cu tunuri grele pentru apărarea coastei.", "Puternic disputat în bătălia pentru Hong Kong din 1941.", "Restaurat în anii 1990 și transformat în parc.", "Suprafață de aproximativ 2 hectare.", "Adăpostește mai multe baterii de artilerie păstrate."],
       en: ["Built in the 1880s by the British.", "Equipped with heavy guns for coastal defence.", "Heavily contested during the 1941 Battle of Hong Kong.", "Restored in the 1990s and turned into a park.", "Area of approximately 2 hectares.", "Houses several preserved gun batteries."],
     },
+    image: "/poi-images/hongkong-lei-yue-mun-fort-history-v2.webp",
   },
   {
     id: "hongkong-shing-mun-redoubt-history-v2",
@@ -682,6 +703,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Construită în anii 1930 de britanici.", "Parte a Liniei Gin Drinker's în al Doilea Război Mondial.", "Capturată de japonezi pe 10 decembrie 1941.", "Altitudine: 222 de metri deasupra nivelului mării.", "Conține peste 1 km de tuneluri.", "Astăzi este un parc public și sit istoric."],
       en: ["Built in the 1930s by the British.", "Part of the Gin Drinker's Line in WWII.", "Captured by the Japanese on 10 December 1941.", "Elevation: 222 meters above sea level.", "Contains over 1 km of tunnels.", "Now a public park and historical site."],
     },
+    image: "/poi-images/hongkong-shing-mun-redoubt-history-v2.webp",
   },
   {
     id: "hongkong-wong-nai-chung-gap-history-v2",
@@ -713,6 +735,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Scena luptelor intense pe 18 decembrie 1941.", "Trecere strategic importantă pe insula Hong Kong.", "Poziție defensivă britanică cu buncăre și cuiburi de mitraliere.", "Străpungerea japoneză a dus la divizarea apărării.", "Acum parte a Traseului Hong Kong.", "Buncăre de beton și tranșee păstrate vizibile."],
       en: ["Site of heavy fighting on 18 December 1941.", "Strategically important pass on Hong Kong Island.", "British defensive position with bunkers and machine gun nests.", "Japanese breakthrough split the defence.", "Now part of the Hong Kong Trail.", "Preserved concrete bunkers and trenches visible."],
     },
+    image: "/poi-images/hongkong-wong-nai-chung-gap-history-v2.webp",
   },
   {
     id: "hongkong-mount-davis-battery-history-v2",
@@ -744,6 +767,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Construită în 1900 pentru apărarea accesului vestic spre port.", "Echipată inițial cu tunuri de 9,2 inci.", "Capturată de japonezi în timpul bătăliei pentru Hong Kong în 1941.", "Altitudine: 269 de metri deasupra nivelului mării.", "Conține buncăre subterane și posturi de comandă.", "Astăzi este o destinație de drumeție și sit istoric."],
       en: ["Built in 1900 to defend the western harbour approach.", "Originally equipped with 9.2-inch guns.", "Captured by the Japanese during the 1941 Battle of Hong Kong.", "Elevation: 269 meters above sea level.", "Contains underground bunkers and fire control stations.", "Now a hiking destination and historical site."],
     },
+    image: "/poi-images/hongkong-mount-davis-battery-history-v2.webp",
   },
   {
     id: "hongkong-pinewood-battery-history-v2",
@@ -775,6 +799,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Construită în 1902 pentru apărarea accesului nordic spre port.", "Echipată cu tunuri de 9,2 inci.", "Copleșită de japonezi în timpul bătăliei pentru Hong Kong din 1941.", "Altitudine: aproximativ 150 de metri deasupra nivelului mării.", "Structuri de beton parțial păstrate ale pozițiilor de artilerie.", "Accesibilă pe trasee de drumeție în zonă împădurită."],
       en: ["Built in 1902 to defend the northern harbour approach.", "Equipped with 9.2-inch guns.", "Overrun by Japanese during the 1941 Battle of Hong Kong.", "Elevation: approximately 150 meters above sea level.", "Partially preserved concrete gun emplacements.", "Accessible via hiking trails in wooded area."],
     },
+    image: "/poi-images/hongkong-pinewood-battery-history-v2.webp",
   },
   {
     id: "hongkong-stanley-military-cemetery-history-v2",
@@ -806,6 +831,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Înființat în 1942 de ocupanții japonezi.", "Peste 600 de soldați îngropați, inclusiv britanici, canadieni, indieni și localnici.", "Întreținut de Comisia Commonwealth pentru Morminte de Război.", "Suprafață de aproximativ 1,5 hectare.", "Conține mormintele a 72 de soldați necunoscuți.", "Situat în Stanley, insula Hong Kong."],
       en: ["Established in 1942 by the Japanese occupiers.", "Over 600 soldiers buried, including British, Canadian, Indian, and local Hong Kong.", "Maintained by the Commonwealth War Graves Commission.", "Area of approximately 1.5 hectares.", "Contains graves of 72 unknown soldiers.", "Location: Stanley, Hong Kong Island."],
     },
+    image: "/poi-images/hongkong-stanley-military-cemetery-history-v2.webp",
   },
   {
     id: "hongkong-sai-wan-war-cemetery-history-v2",
@@ -837,6 +863,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Cel mai mare cimitir de război al Commonwealth-ului din Hong Kong.", "Înființat după cel de-al Doilea Război Mondial.", "Peste 1.500 de soldați îngropați.", "Conține morminte ale soldaților britanici, canadieni, australieni, indieni.", "Zidul Memorial Sai Wan pentru dispăruți.", "Situat în Chai Wan, insula Hong Kong."],
       en: ["Largest Commonwealth war cemetery in Hong Kong.", "Established after WWII.", "Over 1,500 soldiers buried.", "Contains graves of British, Canadian, Australian, Indian troops.", "Sai Wan Memorial Wall for the missing.", "Location: Chai Wan, Hong Kong Island."],
     },
+    image: "/poi-images/hongkong-sai-wan-war-cemetery-history-v2.webp",
   },
   {
     id: "hongkong-sheung-yiu-kiln-history-v2",
@@ -868,6 +895,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Cuptor de var din secolul al XIX-lea.", "Operat de comunitatea Hakka.", "Structură din cărămidă bine conservată.", "Lângă satul Sheung Yiu din Sai Kung.", "Folosit pentru producerea varului pentru construcții și agricultură.", "Acum parte a Parcului Natural Sai Kung."],
       en: ["Lime kiln from the 19th century.", "Operated by the Hakka community.", "Well-preserved brick structure.", "Near Sheung Yiu Village in Sai Kung.", "Used for producing lime for construction and agriculture.", "Now part of Sai Kung Country Park."],
     },
+    image: "/poi-images/hongkong-sheung-yiu-kiln-history-v2.webp",
   },
   {
     id: "hongkong-cheung-chau-rock-carvings-history-v2",
@@ -899,6 +927,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Datare: aproximativ 2000 î.Hr. (epoca bronzului).", "Descoperite în 1970.", "Modele geometrice și figuri de animale incizate în granit.", "Asemănări cu alte gravuri rupestre din sudul Chinei.", "Locație: sector izolat de coastă pe insula Cheung Chau.", "Protejată ca sit arheologic."],
       en: ["Dated to around 2000 BC (Bronze Age).", "Discovered in 1970.", "Geometric patterns and animal figures carved in granite.", "Similarities to other rock carvings in southern China.", "Location: remote coastal section on Cheung Chau.", "Protected as an archaeological site."],
     },
+    image: "/poi-images/hongkong-cheung-chau-rock-carvings-history-v2.webp",
   },
   {
     id: "hongkong-shek-pik-rock-carvings-history-v2",
@@ -930,6 +959,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Vechime estimată la aproximativ 3.000 de ani", "Descoperite de Chen Kung-che în anul 1939", "Situate la 200 de metri sub barajul Shek Pik", "Compuse din modele geometrice și spirale complexe", "Declarate monument istoric oficial în anul 1979", "Incizate direct în fața de granit a stâncii"],
       en: ["Estimated age is approximately 3,000 years", "Discovered by Chen Kung-che in 1939", "Located 200 metres below the Shek Pik reservoir dam", "Consist of complex geometric and spiral patterns", "Declared a statutory monument in 1979", "Carved directly onto a natural granite rock face"],
     },
+    image: "/poi-images/hongkong-shek-pik-rock-carvings-history-v2.webp",
   },
   {
     id: "hongkong-big-wave-bay-carvings-history-v2",
@@ -961,6 +991,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Descoperite accidental de un polițist în 1970", "Datează din Epoca Bronzului (aprox. 1000 î.Hr.)", "Prezintă motive stilizate de monștri sau animale", "Situate în extremitatea estică a insulei Hong Kong", "Declarate monument istoric protejat în anul 1978", "Suprafața gravată măsoară circa 90 pe 180 cm"],
       en: ["Accidentally discovered by a policeman in 1970", "Date back to the Bronze Age (c. 1000 BC)", "Depict stylised monster or animal motifs", "Located at the eastern end of Hong Kong Island", "Declared a statutory monument in 1978", "The carved area measures roughly 90 by 180 cm"],
     },
+    image: "/poi-images/hongkong-big-wave-bay-carvings-history-v2.webp",
   },
   {
     id: "hongkong-lung-yeuk-tau-history-v2",
@@ -992,6 +1023,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Traseul are o lungime de aproximativ 2 kilometri.", "Clanul Tang s-a stabilit în zonă în secolul al XIV-lea.", "Traseul leagă cinci sate principale, inclusiv Lo Wai și San Wai.", "Templul Fung Ying Seen Koon a fost construit în secolul al XVIII-lea.", "Satul Lo Wai este înconjurat de un zid de până la 3 metri înălțime.", "Traseul a fost desemnat traseu de patrimoniu cultural în 1998."],
       en: ["The trail is approximately 2 kilometers long.", "The Tang clan settled in the area during the 14th century.", "The trail connects five major villages, including Lo Wai and San Wai.", "Fung Ying Seen Koon temple was built in the 18th century.", "Lo Wai village is surrounded by a wall up to 3 meters high.", "The trail was designated a heritage walk in 1998."],
     },
+    image: "/poi-images/hongkong-lung-yeuk-tau-history-v2.webp",
   },
   {
     id: "hongkong-man-mo-temple-history-v2",
@@ -1023,6 +1055,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Templul a fost construit în jurul anului 1847.", "Spiralele de tămâie au până la 3 metri înălțime.", "Templul este dedicat zeilor Man Cheong și Mo Tai.", "Clădirea este realizată în stil tradițional chinezesc, cu stâlpi de granit.", "Complexul templului are o suprafață de aproximativ 300 de metri pătrați.", "Peste 1 milion de credincioși și turiști îl vizitează anual."],
       en: ["The temple was built around 1847.", "The incense coils are up to 3 meters high.", "The temple is dedicated to Man Cheong and Mo Tai.", "The building features traditional Chinese architecture with granite pillars.", "The temple complex covers about 300 square meters.", "Over 1 million worshippers and tourists visit annually."],
     },
+    image: "/poi-images/hongkong-man-mo-temple-history-v2.webp",
   },
   {
     id: "hongkong-tin-hau-temple-causeway-bay-history-v2",
@@ -1054,6 +1087,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Templul a fost construit în secolul al XVIII-lea.", "Templul este dedicat zeiței mării Tin Hau.", "Clădirea este realizată în stil cantonez.", "Templul adăpostește o tabletă din lemn negru veche de 200 de ani.", "Festivalul anual Tin Hau are loc pe 23 a celei de-a treia luni lunare.", "Templul are o suprafață de aproximativ 150 de metri pătrați."],
       en: ["The temple was built in the 18th century.", "The temple is dedicated to the sea goddess Tin Hau.", "The building is constructed in Cantonese architectural style.", "The temple houses a 200-year-old black wooden tablet.", "The annual Tin Hau Festival is held on the 23rd day of the 3rd lunar month.", "The temple covers approximately 150 square meters."],
     },
+    image: "/poi-images/hongkong-tin-hau-temple-causeway-bay-history-v2.webp",
   },
   {
     id: "hongkong-wong-tai-sin-temple-history-v2",
@@ -1085,6 +1119,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Templul a fost construit în 1921.", "Complexul se întinde pe 18.000 de metri pătrați.", "Sala Principală de Rugăciune are 15 metri înălțime.", "Templul adăpostește o statuie de bronz de 3 metri a lui Wong Tai Sin.", "Peste 5 milioane de oameni îl vizitează anual.", "Templul este împărțit în 6 săli distincte."],
       en: ["The temple was built in 1921.", "The complex covers 18,000 square meters.", "The Main Prayer Hall is 15 meters high.", "The temple houses a 3-meter bronze statue of Wong Tai Sin.", "Over 5 million people visit annually.", "The temple is divided into 6 different halls."],
     },
+    image: "/poi-images/hongkong-wong-tai-sin-temple-history-v2.webp",
   },
   {
     id: "hongkong-1881-heritage-history-v2",
@@ -1116,6 +1151,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Clădirea a fost finalizată în 1884.", "Cupola are un diametru de 10 metri.", "Farul are 20 de metri înălțime.", "Restaurarea din 2009 a costat 400 de milioane HKD.", "Terenul se întinde pe 3 hectare.", "Poliția Marină a folosit clădirea până în 1996."],
       en: ["The building was completed in 1884.", "The cupola has a diameter of 10 meters.", "The lighthouse is 20 meters high.", "The 2009 restoration cost 400 million HKD.", "The site covers 3 hectares.", "The Marine Police used the building until 1996."],
     },
+    image: "/poi-images/hongkong-1881-heritage-history-v2.webp",
   },
   {
     id: "hongkong-hk-observatory-history-v2",
@@ -1147,6 +1183,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Observatorul a fost fondat în 1883.", "Clădirea principală a fost finalizată în 1884.", "Clădirea este din cărămidă roșie în stil victorian.", "Bila de timp a fost introdusă în 1885.", "Observatorul se află la 20 de metri deasupra nivelului mării.", "Observatorul angajează aproximativ 300 de persoane."],
       en: ["The observatory was founded in 1883.", "The main building was completed in 1884.", "The building is red-brick in Victorian style.", "The time ball was introduced in 1885.", "The observatory is 20 meters above sea level.", "The observatory employs around 300 staff."],
     },
+    image: "/poi-images/hongkong-hk-observatory-history-v2.webp",
   },
   {
     id: "hongkong-hku-main-building-history-v2",
@@ -1178,6 +1215,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Clădirea a fost finalizată în 1912.", "Cupola are 25 de metri înălțime.", "Costul construcției a fost de 1,2 milioane HKD.", "Clădirea are 4 etaje.", "Are 80 de metri lungime și 30 de metri lățime.", "Universitatea a fost fondată în 1911, clădirea principală deschisă în 1912."],
       en: ["The building was completed in 1912.", "The cupola is 25 meters high.", "Construction cost was 1.2 million HKD.", "The building has 4 floors.", "It is 80 meters long and 30 meters wide.", "The university was founded in 1911, the main building opened in 1912."],
     },
+    image: "/poi-images/hongkong-hku-main-building-history-v2.webp",
   },
   {
     id: "hongkong-tai-kwun-history-v2",
@@ -1209,6 +1247,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Construcția a început în 1864 și s-a încheiat în 1925.", "Închisoarea avea 150 de celule.", "Clădirea principală are 3 etaje.", "Restaurarea a costat 1,8 miliarde HKD.", "Tai Kwun se întinde pe 13.000 de metri pătrați.", "A fost deschis publicului în 2018."],
       en: ["Construction began in 1864 and completed in 1925.", "The prison had 150 cells.", "The main building has 3 floors.", "Restoration cost 1.8 billion HKD.", "Tai Kwun covers 13,000 square meters.", "It opened to the public in 2018."],
     },
+    image: "/poi-images/hongkong-tai-kwun-history-v2.webp",
   },
   {
     id: "hongkong-pmq-history-v2",
@@ -1240,6 +1279,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Clădirea a fost construită în 1951.", "Complexul este format din două blocuri cu 6 etaje.", "PMQ găzduiește peste 100 de studiouri creative.", "Renovarea a costat 500 de milioane HKD.", "Suprafața utilă este de 18.000 de metri pătrați.", "PMQ s-a deschis în 2014."],
       en: ["The building was constructed in 1951.", "The complex consists of two 6-storey blocks.", "PMQ houses over 100 creative studios.", "Renovation cost 500 million HKD.", "The floor area is 18,000 square meters.", "PMQ opened in 2014."],
     },
+    image: "/poi-images/hongkong-pmq-history-v2.webp",
   },
   {
     id: "hongkong-haw-par-mansion-history-v2",
@@ -1271,6 +1311,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Vila a fost construită în 1935.", "Proprietatea se întinde pe 2 hectare.", "Interioarele conțin peste 1000 de sculpturi din lemn.", "Grădina avea inițial peste 200 de statui.", "Aw Boon Haw a locuit acolo până la moartea sa în 1954.", "Restaurarea din 2010 a costat 200 de milioane HKD."],
       en: ["The villa was built in 1935.", "The estate covers 2 hectares.", "Interiors contain over 1000 wood carvings.", "The garden originally had over 200 statues.", "Aw Boon Haw lived there until his death in 1954.", "The 2010 restoration cost 200 million HKD."],
     },
+    image: "/poi-images/hongkong-haw-par-mansion-history-v2.webp",
   },
   {
     id: "hongkong-kom-tong-hall-history-v2",
@@ -1302,6 +1343,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Clădirea a fost construită în 1914.", "Clădirea are 3 etaje.", "Fațada este decorată cu coloane ionice.", "Suprafața utilă este de aproximativ 1.000 de metri pătrați.", "A fost declarată monument protejat în 1990.", "Muzeul a fost deschis în 1996."],
       en: ["The building was built in 1914.", "The building has 3 floors.", "The façade features Ionic columns.", "The floor area is about 1,000 square meters.", "It was declared a protected monument in 1990.", "The museum opened in 1996."],
     },
+    image: "/poi-images/hongkong-kom-tong-hall-history-v2.webp",
   },
   {
     id: "hongkong-kings-college-history-v2",
@@ -1333,6 +1375,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Școala a fost fondată în 1926.", "Clădirea principală a fost construită în 1925.", "Clădirea are 30 de metri înălțime.", "Școala are 1.200 de elevi.", "În timpul celui de-al Doilea Război Mondial, clădirea a fost folosită ca spital militar.", "Clădirea a fost declarată monument în 2011."],
       en: ["The school was founded in 1926.", "The main building was built in 1925.", "The building is 30 meters high.", "The school has 1,200 students.", "During WWII, the building served as a military hospital.", "The building was declared a monument in 2011."],
     },
+    image: "/poi-images/hongkong-kings-college-history-v2.webp",
   },
   {
     id: "hongkong-ping-shan-heritage-trail-history-v2",
@@ -1364,6 +1407,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Traseul are aproximativ 1 kilometru lungime.", "A fost deschis în 1993.", "Pagoda Tsui Sing Lau are 15 metri înălțime.", "Sala Ancestrală a Clanului Tang datează din secolul al XVI-lea.", "Traseul include 12 clădiri istorice.", "Zona este locuită de clanul Tang din secolul al XII-lea."],
       en: ["The trail is about 1 kilometer long.", "It was opened in 1993.", "Tsui Sing Lau Pagoda is 15 meters high.", "Tang Clan Ancestral Hall dates from the 16th century.", "The trail includes 12 historic buildings.", "The area has been inhabited by the Tang clan since the 12th century."],
     },
+    image: "/poi-images/hongkong-ping-shan-heritage-trail-history-v2.webp",
   },
   {
     id: "hongkong-old-tai-po-police-station-history-v2",
@@ -1395,6 +1439,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Secția a fost construită în 1899.", "Clădirea principală are 2 etaje.", "Secția a funcționat până în 1970.", "Clădirea a fost restaurată în 2002.", "Se întinde pe o suprafață de 1.500 de metri pătrați.", "Grajdul a fost adăugat în 1905."],
       en: ["The station was built in 1899.", "The main building has 2 floors.", "The station operated until 1970.", "The building was restored in 2002.", "It covers an area of 1,500 square meters.", "The stable was added in 1905."],
     },
+    image: "/poi-images/hongkong-old-tai-po-police-station-history-v2.webp",
   },
   {
     id: "hongkong-man-lun-fung-ancestral-hall-history-v2",
@@ -1426,6 +1471,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Sala a fost construită în 1936.", "Sala are 15 metri lungime și 10 metri lățime.", "Acoperișul în formă de șa are 8 metri înălțime.", "Sala adăpostește peste 100 de tăblițe ancestrale.", "A fost renovată în 2010.", "Costul construcției a fost de 500.000 HKD."],
       en: ["The hall was built in 1936.", "The hall is 15 meters long and 10 meters wide.", "The saddle roof is 8 meters high.", "The hall houses over 100 ancestral tablets.", "It was renovated in 2010.", "Construction cost was 500,000 HKD."],
     },
+    image: "/poi-images/hongkong-man-lun-fung-ancestral-hall-history-v2.webp",
   },
   {
     id: "hongkong-tai-tam-tuk-dam-history-v2",
@@ -1457,6 +1503,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Barajul a fost construit între 1912 și 1917.", "Are 122 de metri lungime și 28 de metri înălțime.", "Rezervorul are o capacitate de 2,5 milioane de metri cubi.", "Barajul este format din 10.000 de blocuri de granit.", "Costul construcției a fost de 2,5 milioane HKD.", "Barajul face parte din Rezervorul Tai Tam, construit în 1888."],
       en: ["The dam was built between 1912 and 1917.", "It is 122 meters long and 28 meters high.", "The reservoir has a capacity of 2.5 million cubic meters.", "The dam consists of 10,000 granite blocks.", "Construction cost was 2.5 million HKD.", "The dam is part of the Tai Tam Reservoir, built in 1888."],
     },
+    image: "/poi-images/hongkong-tai-tam-tuk-dam-history-v2.webp",
   },
   {
     id: "hongkong-old-wan-chai-post-office-history-v2",
@@ -1488,6 +1535,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Clădirea a fost construită în 1913.", "A funcționat ca oficiu poștal până în 1992.", "Clădirea are un singur etaj.", "Are 15 metri lungime și 8 metri lățime.", "A fost transformată în muzeu în 1993.", "Clădirea a fost declarată monument în 1972."],
       en: ["The building was built in 1913.", "It served as a post office until 1992.", "The building is single-story.", "It is 15 meters long and 8 meters wide.", "It was converted into a museum in 1993.", "The building was declared a monument in 1972."],
     },
+    image: "/poi-images/hongkong-old-wan-chai-post-office-history-v2.webp",
   },
   {
     id: "hongkong-former-kowloon-british-school-history-v2",
@@ -1519,6 +1567,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Clădirea a fost construită în 1902.", "A funcționat ca școală până în 1941.", "Clădirea are 3 etaje.", "Fațada este din cărămidă roșie.", "A fost restaurată în 1998.", "Clădirea are 25 de metri lățime."],
       en: ["The building was built in 1902.", "It operated as a school until 1941.", "The building has 3 floors.", "The façade is made of red brick.", "It was restored in 1998.", "The building is 25 meters wide."],
     },
+    image: "/poi-images/hongkong-former-kowloon-british-school-history-v2.webp",
   },
   {
     id: "hongkong-university-hall-hku-history-v2",
@@ -1550,6 +1599,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Clădirea a fost construită în 1860.", "Turnul are 20 de metri înălțime.", "Capela a fost adăugată în 1890.", "Clădirea are 4 etaje.", "Adăpostește 100 de studenți.", "University Hall a fost achiziționată de HKU în 1956."],
       en: ["The building was built in 1860.", "The tower is 20 meters high.", "The chapel was added in 1890.", "The building has 4 floors.", "It accommodates 100 students.", "University Hall was acquired by HKU in 1956."],
     },
+    image: "/poi-images/hongkong-university-hall-hku-history-v2.webp",
   },
   {
     id: "hongkong-liu-man-shek-tong-history-v2",
@@ -1581,6 +1631,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Construcția a fost finalizată în anul 1751", "Templul ancestral principal al clanului Liu", "Structurată în trei hale și două curți interioare", "Numele semnifică literal 10.000 de saci de grâne", "Declarată monument istoric oficial în anul 1985", "Restaurare majoră efectuată în cursul anului 1994"],
       en: ["Building construction was completed in 1751", "The main ancestral hall for the Liu clan in Sheung Shui", "Layout consists of three halls and two courtyards", "Name translates to 'Ten Thousand Sacks of Grain'", "Declared a statutory monument in 1985", "Underwent a comprehensive restoration in 1994"],
     },
+    image: "/poi-images/hongkong-liu-man-shek-tong-history-v2.webp",
   },
   {
     id: "hongkong-western-monastery-history-v2",
@@ -1612,6 +1663,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Western Monastery a fost fondat în anul 1970.", "Mănăstirea se întinde pe o suprafață de aproximativ 5.000 de metri pătrați.", "Sala principală de rugăciune are o înălțime de 20 de metri și adăpostește o statuie a lui Buddha de 3 metri.", "Grădina include un iaz de 500 de metri pătrați.", "Peste 100.000 de pelerini vizitează mănăstirea anual.", "Biblioteca conține peste 10.000 de scripturi budiste."],
       en: ["Western Monastery was founded in 1970.", "It covers an area of approximately 5,000 square meters.", "The main prayer hall is 20 meters high, housing a 3-meter Buddha statue.", "The garden includes a 500-square-meter pond.", "Over 100,000 pilgrims visit annually.", "The library holds more than 10,000 Buddhist scriptures."],
     },
+    image: "/poi-images/hongkong-western-monastery-history-v2.webp",
   },
   {
     id: "hongkong-tung-lin-kok-yuen-history-v2",
@@ -1643,6 +1695,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Tung Lin Kok Yuen a fost fondată în 1935.", "Mănăstirea se întinde pe 1.200 de metri pătrați.", "Sala principală are 15 metri înălțime.", "Iazul cu lotusuri are un diametru de 8 metri.", "Adăpostește aproximativ 30 de călugărițe.", "Mănăstirea a fost declarată monument în 2010."],
       en: ["Founded in 1935.", "Covers 1,200 square meters.", "Main hall is 15 meters high.", "Lotus pond has an 8-meter diameter.", "Houses about 30 nuns.", "Declared a monument in 2010."],
     },
+    image: "/poi-images/hongkong-tung-lin-kok-yuen-history-v2.webp",
   },
   {
     id: "hongkong-former-yc-college-building-history-v2",
@@ -1674,6 +1727,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Clădirea a fost construită în 1913.", "Are o suprafață de 2.000 de metri pătrați.", "Fațada are 6 coloane corintice.", "Clădirea a costat 50.000 de dolari HK atunci.", "Restaurarea din anii 1990 a costat 10 milioane HKD.", "Ying Wa Girls' College a fost fondat în 1900."],
       en: ["Built in 1913.", "Floor area of 2,000 square meters.", "Facade has 6 Corinthian columns.", "Construction cost 50,000 Hong Kong dollars.", "Restoration in the 1990s cost 10 million HKD.", "Ying Wa Girls' College was founded in 1900."],
     },
+    image: "/poi-images/hongkong-former-yc-college-building-history-v2.webp",
   },
   {
     id: "hongkong-old-supreme-court-statue-history-v2",
@@ -1705,6 +1759,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Statuia a fost ridicată în 1915.", "Are 2,5 metri înălțime și cântărește 1,5 tone.", "Materialul este bronzul.", "Statuia a costat aproximativ 5.000 de dolari HK în 1915.", "A fost îndepărtată de japonezi în 1941 și reinstalată în 1945.", "Statuia se află pe un soclu de 1 metru."],
       en: ["Erected in 1915.", "2.5 meters tall, weighs 1.5 tons.", "Made of bronze.", "Cost about 5,000 Hong Kong dollars in 1915.", "Removed by Japanese in 1941, reinstalled in 1945.", "Stands on a 1-meter-high pedestal."],
     },
+    image: "/poi-images/hongkong-old-supreme-court-statue-history-v2.webp",
   },
   {
     id: "hongkong-noonday-gun-history-v2",
@@ -1736,6 +1791,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Noonday Gun este tras zilnic la ora 12:00.", "Tunul original datează din 1860.", "Actualul tun este o replică instalată în 1947.", "Calibrul tunului este de 6 inci (152 mm).", "Tradiția a fost preluată oficial de guvern în 1961.", "Lungimea tunului este de aproximativ 3 metri."],
       en: ["Fired daily at 12:00 noon.", "Original cannon from 1860.", "Current replica installed in 1947.", "Caliber of 6 inches (152 mm).", "Tradition officially adopted by government in 1961.", "Cannon is approximately 3 meters long."],
     },
+    image: "/poi-images/hongkong-noonday-gun-history-v2.webp",
   },
   {
     id: "hongkong-st-andrews-church-history-v2",
@@ -1767,6 +1823,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Biserica St. Andrew's a fost sfințită în 1906.", "Turnul-clopotniță are 30 de metri înălțime.", "Biserica are o capacitate de 500 de persoane.", "Vitraliile au fost instalate în 1920.", "În timpul celui de-al Doilea Război Mondial a servit ca spital militar cu 200 de paturi.", "Orga bisericii a fost construită în 1935, având 1.200 de tuburi."],
       en: ["Consecrated in 1906.", "Bell tower is 30 meters high.", "Seating capacity of 500.", "Stained glass windows installed in 1920.", "Served as military hospital with 200 beds during WWII.", "Organ built in 1935 with 1,200 pipes."],
     },
+    image: "/poi-images/hongkong-st-andrews-church-history-v2.webp",
   },
   {
     id: "hongkong-former-french-convent-history-v2",
@@ -1798,6 +1855,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Mănăstirea a fost finalizată în 1864.", "Are o suprafață de 3.000 de metri pătrați.", "Capela are 18 metri înălțime.", "Clădirea a fost declarată monument în 1979.", "A servit ca tribunal între 1975 și 1998.", "Muzeul de Istorie s-a mutat în clădire în 1998."],
       en: ["Completed in 1864.", "Floor area of 3,000 square meters.", "Chapel is 18 meters high.", "Declared a monument in 1979.", "Served as courthouse from 1975 to 1998.", "Museum of History moved in in 1998."],
     },
+    image: "/poi-images/hongkong-former-french-convent-history-v2.webp",
   },
   {
     id: "hongkong-ohel-leah-synagogue-history-v2",
@@ -1829,6 +1887,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Sinagoga a fost inaugurată în 1902.", "Cupola are un diametru de 10 metri.", "Clădirea poate găzdui 300 de credincioși.", "Renovarea din 1998 a costat 3 milioane de dolari.", "Sinagoga are 8 metri înălțime.", "Comunitatea evreiască din Hong Kong numără aproximativ 5.000 de membri."],
       en: ["Inaugurated in 1902.", "Dome diameter of 10 meters.", "Seating capacity of 300.", "1998 renovation cost $3 million.", "Synagogue height is 8 meters.", "Jewish community in Hong Kong: about 5,000 members."],
     },
+    image: "/poi-images/hongkong-ohel-leah-synagogue-history-v2.webp",
   },
   {
     id: "hongkong-jamia-mosque-history-v2",
@@ -1860,6 +1919,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Moscheea Jamia a fost finalizată în 1890.", "Minaretele au 15 metri înălțime.", "Cupola are un diametru de 8 metri.", "Moscheea a fost renovată în 1990 pentru 2 milioane HKD.", "Poate găzdui 500 de credincioși.", "Moscheea are 12 metri înălțime."],
       en: ["Completed in 1890.", "Minarets are 15 meters tall.", "Dome diameter of 8 meters.", "Renovated in 1990 for 2 million HKD.", "Capacity of 500 worshippers.", "Mosque height is 12 meters."],
     },
+    image: "/poi-images/hongkong-jamia-mosque-history-v2.webp",
   },
   {
     id: "hongkong-hong-kong-heritage-museum-history-v2",
@@ -1891,6 +1951,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Muzeul a fost deschis pe 16 decembrie 2000.", "Costul de construcție a fost de 500 milioane HKD.", "Suprafața totală este de 32.000 de metri pătrați.", "Spațiul expozițional este de 7.500 de metri pătrați.", "Muzeul primește peste 500.000 de vizitatori anual.", "Colecția sa cuprinde peste 100.000 de artefacte."],
       en: ["Opened December 16, 2000.", "Construction cost 500 million HKD.", "Total area of 32,000 square meters.", "Exhibition space of 7,500 square meters.", "Receives over 500,000 visitors annually.", "Collection holds over 100,000 artifacts."],
     },
+    image: "/poi-images/hongkong-hong-kong-heritage-museum-history-v2.webp",
   },
   {
     id: "hongkong-yuen-long-old-market-history-v2",
@@ -1922,6 +1983,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Piața există de peste 100 de ani.", "Se întinde pe o suprafață de 2.000 de metri pătrați.", "Există aproximativ 150 de tarabe.", "Piața este deschisă zilnic între 6:00 și 20:00.", "Aproximativ 1 milion de oameni o vizitează anual.", "Piața a fost parțial renovată în 2015."],
       en: ["Market has existed for over 100 years.", "Covers 2,000 square meters.", "About 150 stalls.", "Open daily 6:00 AM to 8:00 PM.", "Approximately 1 million visitors annually.", "Partially renovated in 2015."],
     },
+    image: "/poi-images/hongkong-yuen-long-old-market-history-v2.webp",
   },
   {
     id: "hongkong-cheung-po-tsai-cave-history-v2",
@@ -1953,6 +2015,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Peștera are aproximativ 10 metri lungime.", "Are 2 metri înălțime și 3 metri lățime.", "Peștera s-a format acum aproximativ 5.000 de ani prin eroziune.", "Cheung Po Tsai a trăit între 1785 și 1822.", "Peștera este accesibilă doar la reflux (nivel al apei sub 1 metru).", "Aproximativ 200.000 de turiști o vizitează anual."],
       en: ["Cave is about 10 meters long.", "2 meters high, 3 meters wide.", "Formed about 5,000 years ago by erosion.", "Cheung Po Tsai lived from 1785 to 1822.", "Accessible only at low tide (water level below 1 meter).", "Approximately 200,000 tourists visit annually."],
     },
+    image: "/poi-images/hongkong-cheung-po-tsai-cave-history-v2.webp",
   },
   {
     id: "hongkong-lin-fa-kung-temple-history-v2",
@@ -1984,6 +2047,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Templul a fost construit în 1863.", "Sala principală are 12 metri înălțime.", "Sculpturile în lemn datează din 1870.", "Templul se întinde pe 500 de metri pătrați.", "A fost renovat în 1990 pentru 1,5 milioane HKD.", "Motivul dragonului de pe acoperiș este format din 50 de țigle."],
       en: ["Built in 1863.", "Main hall is 12 meters high.", "Wood carvings date from 1870.", "Temple covers 500 square meters.", "Renovated in 1990 for 1.5 million HKD.", "Dragon motif on roof consists of 50 tiles."],
     },
+    image: "/poi-images/hongkong-lin-fa-kung-temple-history-v2.webp",
   },
   {
     id: "hongkong-st-stephens-college-history-v2",
@@ -2015,6 +2079,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Colegiul a fost fondat în 1903.", "Clădirea principală din cărămidă roșie a fost finalizată în 1905.", "Clădirea are 3 etaje și o suprafață de 2.500 de metri pătrați.", "În timpul celui de-al Doilea Război Mondial, lagărul a internat aproximativ 3.000 de civili.", "Colegiul are acum aproximativ 1.200 de elevi.", "A fost declarat monument în 1990."],
       en: ["College founded in 1903.", "Main red-brick building completed in 1905.", "Building has 3 floors, floor area 2,500 sq m.", "WWII internment camp held about 3,000 civilians.", "College now has about 1,200 students.", "Declared a monument in 1990."],
     },
+    image: "/poi-images/hongkong-st-stephens-college-history-v2.webp",
   },
   {
     id: "hongkong-former-supreme-court-statue-of-justice-history-v2",
@@ -2046,6 +2111,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Statuia a fost ridicată în 1915.", "Are 2,5 metri înălțime și cântărește 1,5 tone.", "Materialul este bronzul.", "Statuia a costat aproximativ 5.000 de dolari HK în 1915.", "A fost îndepărtată de japonezi în 1941 și reinstalată în 1945.", "Statuia se află pe un soclu de 1 metru."],
       en: ["Erected in 1915.", "2.5 meters tall, weighs 1.5 tons.", "Made of bronze.", "Cost about 5,000 Hong Kong dollars in 1915.", "Removed by Japanese in 1941, reinstalled in 1945.", "Stands on a 1-meter-high pedestal."],
     },
+    image: "/poi-images/hongkong-former-supreme-court-statue-of-justice-history-v2.webp",
   },
   {
     id: "hongkong-loke-yew-hall-history-v2",
@@ -2077,6 +2143,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Loke Yew Hall a fost finalizată în 1919.", "Costul de construcție a fost de 150.000 HKD.", "Cupola are un diametru de 12 metri.", "Sala are o capacitate de 600 de persoane.", "Clădirea are 2 etaje.", "A fost declarată monument în 1985."],
       en: ["Completed in 1919.", "Construction cost 150,000 HKD.", "Dome diameter 12 meters.", "Seats 600 people.", "Building has 2 floors.", "Declared a monument in 1985."],
     },
+    image: "/poi-images/hongkong-loke-yew-hall-history-v2.webp",
   },
   {
     id: "hongkong-green-island-lighthouse-history-v2",
@@ -2108,6 +2175,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Farul a intrat în funcțiune în 1875.", "Are 10 metri înălțime.", "Farul din granit are un diametru de 3 metri.", "Raza de acțiune a luminii este de 15 mile marine.", "Automatizarea a avut loc în 1975.", "Farul se află pe o insulă de 2.000 de metri pătrați."],
       en: ["Commissioned in 1875.", "Height of 10 meters.", "Granite tower diameter 3 meters.", "Light range of 15 nautical miles.", "Automated in 1975.", "Located on a 2,000 sq m island."],
     },
+    image: "/poi-images/hongkong-green-island-lighthouse-history-v2.webp",
   },
   {
     id: "hongkong-waglan-lighthouse-history-v2",
@@ -2139,6 +2207,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Farul a intrat în funcțiune în 1893.", "Are 12 metri înălțime.", "Lentila Fresnel a fost instalată în 1893.", "Raza de acțiune a luminii este de 20 de mile marine.", "Automatizarea a avut loc în 1989.", "Farul se află pe o insulă de 1.500 de metri pătrați."],
       en: ["Commissioned in 1893.", "Height of 12 meters.", "Fresnel lens installed in 1893.", "Light range of 20 nautical miles.", "Automated in 1989.", "Located on a 1,500 sq m island."],
     },
+    image: "/poi-images/hongkong-waglan-lighthouse-history-v2.webp",
   },
   {
     id: "hongkong-former-central-magistracy-history-v2",
@@ -2170,6 +2239,7 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Clădirea a fost finalizată în 1914.", "Fațada are 6 coloane ionice.", "Are 3 etaje și o înălțime de 18 metri.", "Suprafața este de 1.500 de metri pătrați.", "A servit ca tribunal din 1914 până în 1979.", "Clădirea a fost declarată monument în 1992."],
       en: ["Completed in 1914.", "Facade has 6 Ionic columns.", "3 floors, height 18 meters.", "Floor area 1,500 square meters.", "Served as court from 1914 to 1979.", "Declared a monument in 1992."],
     },
+    image: "/poi-images/hongkong-former-central-magistracy-history-v2.webp",
   },
   {
     id: "hongkong-old-path-military-trail-history-v2",
@@ -2201,5 +2271,6 @@ export const hongkongHistoryV2: POI[] = [
       ro: ["Traseul are aproximativ 5 kilometri lungime.", "Timpul de mers pe jos este de aproximativ 2 ore.", "Cel mai înalt punct se află la 200 de metri deasupra nivelului mării.", "Traseul a fost restaurat în 2005.", "Leagă 4 foste buncăre militare.", "Traseul face parte din Sistemul de Trasee din Hong Kong."],
       en: ["Trail is about 5 km long.", "Hiking time about 2 hours.", "Highest point at 200 meters above sea level.", "Restored in 2005.", "Connects 4 former military bunkers.", "Part of the Hong Kong Trail System."],
     },
+    image: "/poi-images/hongkong-old-path-military-trail-history-v2.webp",
   }
 ];

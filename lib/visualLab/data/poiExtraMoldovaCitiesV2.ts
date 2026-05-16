@@ -1852,6 +1852,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Prima atestare documentară în anul 1897", "Devine centru administrativ în 1999", "Altitudinea medie este de 218 metri", "Suprafața intravilană ocupă 345 hectare", "Distanța până la Bălți este de 64 km", "Găzduiește o stație feroviară importantă"],
       en: ["Founded in 1893 as a railway settlement", "Designated as a city in 1963", "Population estimated at 7,100 residents", "Total administrative area is 3.7 sq km", "Elevation reaches 218 meters above sea level", "Key transport hub for the northern region"],
     },
+    image: "/poi-images/moldova-dondu-eni-cities-v2.webp",
   },
   {
     id: "moldova-brani-te-city-v2",
@@ -1884,6 +1885,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["PopulaÈ›ia comunei este de aproximativ 13.000 de locuitori.", "BrÄƒneÈ™ti se aflÄƒ la scurtÄƒ distanÈ›Äƒ de graniÈ›a cu RomÃ¢nia.", "Localitatea este cunoscutÄƒ pentru agricultura sa ruralÄƒ È™i muncile sale tradiÈ›ionale.", "A fost menÈ›ionatÄƒ pentru prima datÄƒ Ã®n anul 1452."],
       en: ["The population is approximately 13,000 people.", "BrÄƒneÈ™ti lies close to the Romanian border.", "It is known for its rural agriculture and traditional crafts.", "First mentioned in historical records in 1452."],
     },
+    image: "/poi-images/moldova-brani-te-city-v2.webp",
   },
   {
     id: "moldova-vatra-city-v2",
@@ -1916,6 +1918,7 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["Face parte din municipiul Chișinău", "Situat la 7 km vest de capitală", "Lacul Ghidighici are volumul de 40 mln m³", "Localitatea a purtat anterior numele Ghidighici", "Altitudinea orașului este de circa 40 metri", "Găzduiește întreprinderi de vinificație"],
       en: ["Located 7 km west of Chișinău city", "Bordered by the 8.8 sq km Ghidighici lake", "Renamed from Ghidighici to Vatra in 1991", "Average elevation is 40 meters", "Population is approximately 3,500 people", "Site of major construction material factories"],
     },
+    image: "/poi-images/moldova-vatra-city-v2.webp",
   },
   {
     id: "moldova-fale-tii-noi-city-v2",
@@ -1948,5 +1951,6 @@ export const moldovaCitiesV2: POI[] = [
       ro: ["PopulaÈ›ia localitÄƒÈ›ii este de aproximativ 10.500 de locuitori.", "Este cunoscut pentru agricultura sa tradiÈ›ionalÄƒ.", "ÃŽn oraÈ™ existÄƒ o biserica veche construitÄƒ Ã®n anul 1834.", "FÄƒleÈ™tii Noi are un mic muzeu cu istorie localÄƒ."],
       en: ["The population is approximately 10,500 people.", "It's known for traditional agriculture.", "An old church from the year 1834 exists in the city.", "FÄƒleÈ™tii Noi has a small museum with local history."],
     },
+    image: "/poi-images/moldova-fale-tii-noi-city-v2.webp",
   }
 ];

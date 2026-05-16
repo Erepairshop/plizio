@@ -77,6 +77,7 @@ export const cyprusRegions: POI[] = [
       ro: ["Nicosia este situată între munții Kyrenia la nord și munții Troodos la sud.", "Zidurile venețiene au fost proiectate de arhitectul Giulio Savorgnano în 1567.", "Büyük Han este considerat cea mai frumoasă clădire otomană din Cipru.", "Poarta Famagusta este cea mai bine conservată dintre cele trei porți ale zidului.", "Orașul a fost sediul regatului cruciat al Ciprului sub dinastia Lusignan.", "Punctul de trecere de pe strada Ledra este situat în centrul comercial al orașului."],
       en: ["Nicosia has been the island's capital for over 1,000 continuous years.", "The Venetian walls were built between 1567 and 1570 by the Republic of Venice.", "The Selimiye Mosque was the coronation site for the Lusignan kings of Cyprus.", "The UN Green Line was established following the military conflicts in 1974.", "Büyük Han contains 68 rooms and was once used as a city prison by the British.", "The city's elevation is approximately 149 meters above sea level."],
     },
+    image: "/poi-images/cy-nicosia.webp",
   },
   {
     id: "cy-limassol",
@@ -646,6 +647,7 @@ export const cyprusRegions: POI[] = [
       ro: ["Festivalul a fost înființat în 1999 pentru a promova turismul cultural.", "Prima operă pusă în scenă a fost 'Aida' de Giuseppe Verdi.", "Locul de desfășurare este piața din fața castelului medieval din Paphos.", "Companii renumite, precum Teatrul Bolșoi, au susținut spectacole aici.", "Capacitatea tribunelor temporare este de aproximativ 2.500 de locuri pe seară.", "Festivalul are loc în mod tradițional în primul weekend din septembrie."],
       en: ["The festival was established in 1999 to promote cultural tourism.", "The very first production was Giuseppe Verdi's opera 'Aida'.", "The venue is the open square in front of the Paphos Medieval Castle.", "World-renowned ensembles, such as the Bolshoi Theatre, have performed here.", "The temporary grandstands have a capacity of approximately 2,500 seats per night.", "The festival is traditionally held during the first weekend of September."],
     },
+    image: "/poi-images/cy-paphos-aphrodite.webp",
   },
   {
     id: "cy-kataklysmos",
@@ -1123,6 +1125,7 @@ export const cyprusRegions: POI[] = [
       ro: ["Situat la 12 km nord de Paphos, lângă satul Koili.", "Prezintă două niveluri de cascade naturale cu bazine de smarald.", "Locul mitologic de naștere al copiilor Afroditei și ai lui Adonis.", "Găzduiește un muzeu într-o moară de apă veche de 400 de ani.", "Apa alimentează râul Mavrokolympos și barajul din apropiere.", "Intrarea este marcată de o statuie a Afroditei înaltă de 10 metri."],
       en: ["Located 12 km north of Paphos near the village of Koili.", "Features two natural waterfalls on different elevation levels.", "Mythological birthplace of the children of Aphrodite and Adonis.", "Houses a museum inside a 400-year-old traditional water mill.", "The water feeds into the Mavrokolympos river and nearby dam.", "Includes a 10-meter high statue of Aphrodite at the entrance."],
     },
+    image: "/poi-images/CY-005-adonis-baths.webp",
   }
 ];
 

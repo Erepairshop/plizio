@@ -31,6 +31,7 @@ export const cookislandsReliefV2: POI[] = [
       ro: ["Înălțime: aprox. 200 m", "Locație: Rarotonga, coasta de sud", "Rocă: bazalt", "Durată drumeție: 2-3 ore", "Dificultate: medie", "Semnificația numelui: peștera florii de mango"],
       en: ["Height: approx. 200 m", "Location: Rarotonga, south coast", "Rock type: basalt", "Hiking time: 2-3 hours", "Difficulty: moderate", "Name meaning: cave of the mango blossom"],
     },
+    image: "/poi-images/cookislands-te-rua-manga-relief-v2.webp",
   },
   {
     id: "cookislands-maungapu-relief-v2",
@@ -62,6 +63,7 @@ export const cookislandsReliefV2: POI[] = [
       ro: ["Înălțime: 124 m", "Insulă: Aitutaki", "Tip vârf: con vulcanic", "Timp de ascensiune: 30 minute", "Caracteristică: punct de belvedere", "Distanță față de lagună: 1 km"],
       en: ["Height: 124 m", "Island: Aitutaki", "Summit type: volcanic cone", "Ascent time: 30 minutes", "Feature: lookout point", "Distance to lagoon: 1 km"],
     },
+    image: "/poi-images/cookislands-maungapu-relief-v2.webp",
   },
   {
     id: "cookislands-raemaru-relief-v2",
@@ -93,6 +95,7 @@ export const cookislandsReliefV2: POI[] = [
       ro: ["Înălțime: 357 m", "Locație: creasta centrală", "Rocă: bazalt", "Vegetație: pădure tropicală", "Durată drumeție: 3-4 ore", "Dificultate: dificilă"],
       en: ["Height: 357 m", "Location: central ridge", "Rock type: basalt", "Vegetation: rainforest", "Hiking time: 3-4 hours", "Difficulty: hard"],
     },
+    image: "/poi-images/cookislands-raemaru-relief-v2.webp",
   },
   {
     id: "cookislands-ikurangi-relief-v2",
@@ -124,6 +127,7 @@ export const cookislandsReliefV2: POI[] = [
       ro: ["Înălțime: 489 m", "Locație: lanț muntos central", "Rocă: bazalt", "Precipitații: >3000 mm/an", "Timp de ascensiune: 5-6 ore", "Semnificație mitologică: da"],
       en: ["Height: 489 m", "Location: central mountain range", "Rock type: basalt", "Rainfall: >3000 mm/year", "Climb time: 5-6 hours", "Mythological significance: yes"],
     },
+    image: "/poi-images/cookislands-ikurangi-relief-v2.webp",
   },
   {
     id: "cookislands-te-kou-relief-v2",
@@ -155,6 +159,7 @@ export const cookislandsReliefV2: POI[] = [
       ro: ["Înălțime: 588 m (cel mai înalt munte din Rarotonga)", "Locație: masiv central", "Rocă: bazalt", "Vegetație: pădure tropicală", "Timp de ascensiune: 6-8 ore", "Dificultate: dificilă"],
       en: ["Height: 588 m (highest mountain on Rarotonga)", "Location: central massif", "Rock type: basalt", "Vegetation: rainforest", "Ascent time: 6-8 hours", "Difficulty: hard"],
     },
+    image: "/poi-images/cookislands-te-kou-relief-v2.webp",
   },
   {
     id: "cookislands-rangimotia-relief-v2",
@@ -186,6 +191,7 @@ export const cookislandsReliefV2: POI[] = [
       ro: ["Înălțime: 432 m", "Locație: lanț muntos estic", "Rocă: bazalt", "Vegetație: pădure tropicală", "Durată drumeție: 3-4 ore", "Situri istorice: marae în apropiere"],
       en: ["Height: 432 m", "Location: eastern mountain range", "Rock type: basalt", "Vegetation: rainforest", "Hiking time: 3-4 hours", "Historical sites: marae nearby"],
     },
+    image: "/poi-images/cookislands-rangimotia-relief-v2.webp",
   },
   {
     id: "cookislands-maungatea-relief-v2",
@@ -217,6 +223,7 @@ export const cookislandsReliefV2: POI[] = [
       ro: ["Înălțime: 514 m", "Locație: lanț muntos vestic", "Rocă: vulcanică", "Precipitații: 2500 mm/an", "Dificultate: dificilă", "Semnificația numelui: muntele alb"],
       en: ["Height: 514 m", "Location: western mountain range", "Rock type: volcanic", "Rainfall: 2500 mm/year", "Difficulty: hard", "Name meaning: white mountain"],
     },
+    image: "/poi-images/cookislands-maungatea-relief-v2.webp",
   },
   {
     id: "cookislands-te-atukura-relief-v2",
@@ -248,6 +255,7 @@ export const cookislandsReliefV2: POI[] = [
       ro: ["Înălțime: 623 m (considerat cel mai înalt)", "Locație: masiv central", "Rocă: bazalt", "Timp de ascensiune: 8+ ore", "Dificultate: extremă", "Semnificația numelui: far"],
       en: ["Height: 623 m (disputed highest)", "Location: central massif", "Rock type: basalt", "Ascent time: 8+ hours", "Difficulty: extreme", "Name meaning: lighthouse"],
     },
+    image: "/poi-images/cookislands-te-atukura-relief-v2.webp",
   },
   {
     id: "cookislands-orovaru-relief-v2",
@@ -279,5 +287,6 @@ export const cookislandsReliefV2: POI[] = [
       ro: ["Înălțime: 346 m", "Locație: sudul Rarotongăi", "Rocă: bazalt", "Vegetație: pădure mixtă", "Durată drumeție: 2-3 ore", "Situri arheologice: vestigii așezări"],
       en: ["Height: 346 m", "Location: southern Rarotonga", "Rock type: basalt", "Vegetation: mixed forest", "Hiking time: 2-3 hours", "Archaeological sites: settlement remains"],
     },
+    image: "/poi-images/cookislands-orovaru-relief-v2.webp",
   }
 ];

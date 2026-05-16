@@ -602,5 +602,6 @@ export const czechrepublicAllPoi: POI[] = [
       ro: ["Cel mai mare lac de acumulare din Cehia, cu o suprafață de 48,7 km².", "Barajul are o înălțime de 25 de metri și o lungime de 296 de metri.", "Hidrocentrala este situată într-o cavernă la 160 m sub pământ.", "Construcția barajului a durat șapte ani, între 1952 și 1959.", "Volumul maxim de apă stocat este de 309 milioane m³.", "Iarna se formează o pistă de patinaj naturală de până la 11 km."],
       en: ["Largest reservoir in the Czech Republic, covering 48.7 km².", "The dam structure is 25 meters high and 296 meters long.", "The power station operates in a cavern 160 meters underground.", "Construction of the dam took place from 1952 to 1959.", "The maximum water capacity of the reservoir is 309 million m³.", "In winter, it features an ice-skating track up to 11 km long."],
     },
+    image: "/poi-images/lake-lipno-dam-extra.webp",
   }
 ];

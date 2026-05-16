@@ -1002,6 +1002,7 @@ export const belarusLandmarksV2: POI[] = [
       ro: ["Muzeul a fost deschis oficial pe 23 martie 1990.", "Se află în istorica „Casă a Masonilor”, construită în anul 1817.", "Colecția cuprinde peste 30.000 de exponate privind istoria muzicii și a teatrului.", "Printre comori se numără partituri originale ale lui Stanisław Moniuszko.", "Clădirea este un exemplu clasic al arhitecturii vechiului Minsk.", "Muzeul are mai multe filiale dedicate unor artiști individuali."],
       en: ["The museum was officially opened on March 23, 1990.", "It is located in the historical 'House of Masons,' built in 1817.", "The collection includes over 30,000 exhibits on music and theater history.", "Among the treasures are original scores by Stanisław Moniuszko.", "The building is a classic example of the architecture of old Minsk.", "The museum has several branches dedicated to individual artists."],
     },
+    image: "/poi-images/belarus-national-museum-of-music-landmarks-v2.webp",
   },
   {
     id: "belarus-church-of-st-elias-gomel-landmarks-v2",
@@ -1034,6 +1035,7 @@ export const belarusLandmarksV2: POI[] = [
       ro: ["Biserica a fost ridicată de credincioșii de rit vechi între 1773 și 1794.", "Amplasamentul se află pe malul înalt al râului Sozh în orașul Gomel.", "Este construită integral din bârne de lemn, folosind tehnici tradiționale.", "Edificiul are trei turnuri cu acoperișuri în formă de cort suprapuse.", "A fost închisă oficial în 1937 și redeschisă pentru cult în 1941.", "Monumentul este inclus în registrul patrimoniului național al Belarusului."],
       en: ["The church was constructed by Old Believers between 1773 and 1794.", "It is located on the right bank of the Sozh River in the city of Gomel.", "The architecture features a three-part longitudinal log structure.", "Three distinctive tiered tent roofs define its external appearance.", "Closed by Soviet authorities in 1937, it was reopened as early as 1941.", "It is recognized as a Grade 2 National Historical and Cultural Value."],
     },
+    image: "/poi-images/belarus-church-of-st-elias-gomel-landmarks-v2.webp",
   },
   {
     id: "belarus-vitebsk-art-museum-landmarks-v2",
@@ -1066,5 +1068,6 @@ export const belarusLandmarksV2: POI[] = [
       ro: ["Muzeul a fost înființat oficial în structura sa actuală în anul 1992.", "Clădirea a fost construită în 1775 și este un model al arhitecturii clasiciste.", "Patrimoniul muzeal include peste 8.000 de obiecte de artă și exponate.", "Instituția deține o colecție unică de lucrări ale avangardei de la Vitebsk.", "Sunt expuse numeroase lucrări semnate de Yuri Pen, mentorul lui Marc Chagall.", "Muzeul este situat în inima orașului, în Piața Lenin, un punct turistic central."],
       en: ["The museum was officially established in its current form in 1992.", "The building was completed in 1775 and represents Neoclassical architecture.", "The permanent collection consists of more than 8,000 diverse art pieces.", "It focuses heavily on preserving works from the early 20th-century avant-garde.", "A large gallery is dedicated to Yuri Pen, the teacher of Marc Chagall.", "The museum is located in Vitebsk's historic center on Lenin Square."],
     },
+    image: "/poi-images/belarus-vitebsk-art-museum-landmarks-v2.webp",
   }
 ];

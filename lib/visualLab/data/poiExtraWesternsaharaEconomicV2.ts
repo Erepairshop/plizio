@@ -31,6 +31,7 @@ export const westernsaharaEconomicV2: POI[] = [
       ro: ["Cel mai lung sistem de bandă transportoare din lume, cu o lungime de 101,6 kilometri.", "Descoperirea zăcământului în 1963 de către geologul Manuel Alía Medina.", "Capacitate de extracție de câteva milioane de tone de fosfat pe an.", "Banda transportoare este vizibilă din spațiu cu ochiul liber pe fotografiile satelitare.", "Cea mai importantă ramură economică și cel mai mare angajator din regiunea Laayoune.", "Fosfatul este expediat printr-un debarcader specializat în El Marsa."],
       en: ["The world's longest conveyor belt system, spanning 101.6 kilometers.", "Discovery of the deposit in 1963 by geologist Manuel Alía Medina.", "Production capacity of several million tons of phosphate per year.", "The conveyor belt is visible from space on satellite photographs.", "Most important economic sector and largest employer in the Laayoune region.", "Phosphate is shipped via a specialized pier in El Marsa."],
     },
+    image: "/poi-images/westernsahara-boukraa-phosphate-mine-v2.webp",
   },
   {
     id: "westernsahara-dakhla-fishing-zone-v2",
@@ -62,5 +63,6 @@ export const westernsaharaEconomicV2: POI[] = [
       ro: ["Găzduiește unul dintre cele mai mari porturi de export pentru caracatiță din lume.", "Bogăția de nutrienți rezultă din curentul rece al Canarelor (upwelling).", "Cantitățile anuale de pescuit ating adesea câteva sute de mii de tone.", "Dakhla este centrul pentru procesarea făinii și uleiului de pește.", "Marocul a instalat aici unul dintre cele mai moderne sisteme de monitorizare a pescuitului.", "Piață de export semnificativă pentru spațiul UE, în special Spanyolország și Italia."],
       en: ["Home to one of the largest export ports for octopus worldwide.", "Nutrient richness results from the cold Canary Current (upwelling).", "Annual catch volumes often reach several hundred thousand tons.", "Dakhla is the center for fishmeal and fish oil processing.", "Morocco has installed one of its most modern fishing surveillance systems here.", "Significant export market for the EU region, especially Spain and Italy."],
     },
+    image: "/poi-images/westernsahara-dakhla-fishing-zone-v2.webp",
   }
 ];

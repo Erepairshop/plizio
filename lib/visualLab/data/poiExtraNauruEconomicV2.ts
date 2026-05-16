@@ -31,6 +31,7 @@ export const nauruEconomicV2: POI[] = [
       ro: ["Fondată la 1 iulie 2005", "Gestionează cel mai important sector economic din Nauru", "Sediul în districtul Aiwo, lângă zona industrială", "Succesor al British Phosphate Commissioners (BPC)", "Controlează exportul produselor pe bază de fosfat", "Colaborează strâns cu parteneri comerciali internaționali"],
       en: ["Founded on July 1, 2005", "Manages Nauru's most critical economic sector", "Headquartered in Aiwo district near industrial zones", "Successor to the British Phosphate Commissioners (BPC)", "Controls the export of all phosphate products", "Works closely with international trading partners"],
     },
+    image: "/poi-images/nauru-ronphos-hq-economic-v2.webp",
   },
   {
     id: "nauru-aiwo-port-economic-v2",
@@ -62,6 +63,7 @@ export const nauruEconomicV2: POI[] = [
       ro: ["Portul principal pentru exportul de fosfat", "Dispune de două instalații de încărcare tip consolă", "Situat în districtul dens populat Aiwo", "Navele trebuie să ancoreze în larg din cauza recifului", "Centrul logisticii maritime a insulei", "Locația depozitelor de combustibil și a magaziilor"],
       en: ["Primary port for the export of phosphate", "Features two prominent cantilever loading systems", "Located in the densely populated Aiwo district", "Ships must moor offshore due to the surrounding reef", "Hub of the island's maritime logistics and trade", "Site of fuel storage depots and cargo warehouses"],
     },
+    image: "/poi-images/nauru-aiwo-port-economic-v2.webp",
   },
   {
     id: "nauru-anibare-harbour-economic-v2",
@@ -93,6 +95,7 @@ export const nauruEconomicV2: POI[] = [
       ro: ["Finalizat în anul 2000", "Finanțat de guvernul Japoniei", "Singurul port de pe coasta de est", "Situat în districtul Anibare", "Bază importantă pentru pescari", "Protejează împotriva curenților oceanici"],
       en: ["Completed in the year 2000", "Funded by the Japanese government", "Only harbour on the eastern coast", "Located in the Anibare District", "Important base for local fishermen", "Protects against heavy Pacific swells"],
     },
+    image: "/poi-images/nauru-anibare-harbour-economic-v2.webp",
   },
   {
     id: "nauru-solar-plant-economic-v2",
@@ -124,6 +127,7 @@ export const nauruEconomicV2: POI[] = [
       ro: ["Parte a viziunii 2020/2030", "Scop: 50% energie regenerabilă", "Finanțat de banca ADB", "Reduce consumul anual de motorină", "Instalat pe platoul insulei", "Utilizează tehnologie PV modernă"],
       en: ["Part of the 2020/2030 vision", "Goal of 50% renewable energy", "Funded by the ADB", "Reduces annual diesel consumption", "Installed on the island plateau", "Uses modern PV technology"],
     },
+    image: "/poi-images/nauru-solar-plant-economic-v2.webp",
   },
   {
     id: "nauru-nrc-hq-economic-v2",
@@ -155,6 +159,7 @@ export const nauruEconomicV2: POI[] = [
       ro: ["Înființată în anul 1999", "Sediul în districtul Aiwo", "Concentrare pe recuperarea terenurilor", "Eliminarea coloanelor de corali", "Reîmpădurire cu specii native", "Companie de stat din Nauru"],
       en: ["Founded in the year 1999", "Headquarters in Aiwo District", "Focus on land reclamation", "Removal of coral pinnacles", "Reforestation with native species", "State-owned enterprise of Nauru"],
     },
+    image: "/poi-images/nauru-nrc-hq-economic-v2.webp",
   },
   {
     id: "nauru-eigigu-supermarket-economic-v2",
@@ -186,6 +191,7 @@ export const nauruEconomicV2: POI[] = [
       ro: ["Cel mai mare magazin din țară", "Operat de Eigigu Holdings", "Loc central pentru bunuri importate", "Situat în districtul Denigomodu", "Vital pentru securitatea alimentară", "Companie deținută de guvern"],
       en: ["Largest store in the country", "Operated by Eigigu Holdings", "Central hub for imported goods", "Located in Denigomodu District", "Vital for national food security", "Government-linked corporation"],
     },
+    image: "/poi-images/nauru-eigigu-supermarket-economic-v2.webp",
   },
   {
     id: "nauru-phosphate-cantilever-economic-v2",
@@ -217,6 +223,7 @@ export const nauruEconomicV2: POI[] = [
       ro: ["Simboluri ale industriei fosfatului", "Se extind peste reciful de corali", "Situate în districtul Aiwo", "Permit încărcarea navelor mari", "Cel mai important factor economic", "Există două instalații principale"],
       en: ["Iconic symbols of phosphate industry", "Extend beyond the fringing reef", "Located in Aiwo District", "Allow loading of deep-sea vessels", "Primary economic infrastructure", "Two main structures are in use"],
     },
+    image: "/poi-images/nauru-phosphate-cantilever-economic-v2.webp",
   },
   {
     id: "nauru-utilities-corp-economic-v2",
@@ -248,6 +255,7 @@ export const nauruEconomicV2: POI[] = [
       ro: ["Singurul furnizor de electricitate", "Operează stații de desalinizare", "Centrala principală în Aiwo", "Colaborează cu NRC", "Concentrare pe stabilitatea rețelei", "Autoritate de stat din 2011"],
       en: ["Sole provider of electricity", "Operates desalination plants", "Main power plant in Aiwo District", "Collaborates with the NRC", "Focus on grid stability", "State authority since 2011"],
     },
+    image: "/poi-images/nauru-utilities-corp-economic-v2.webp",
   },
   {
     id: "nauru-nfmra-economic-v2",
@@ -279,6 +287,7 @@ export const nauruEconomicV2: POI[] = [
       ro: ["Înființată în anul 1997", "Gestionează 320.000 km² de mare", "Monitorizează pescuitul de ton", "Sediul în districtul Aiwo", "Sursă vitală de venit (licențe)", "Membră a grupului PNA"],
       en: ["Founded in the year 1997", "Manages 320,000 km² of ocean", "Monitors tuna fishing", "Headquarters in Aiwo District", "Major source of revenue (licenses)", "Member of the PNA group"],
     },
+    image: "/poi-images/nauru-nfmra-economic-v2.webp",
   },
   {
     id: "nauru-denig-settlement-economic-v2",
@@ -310,5 +319,6 @@ export const nauruEconomicV2: POI[] = [
       ro: ["Cel mai populat district", "Găzduiește cartierul Location", "Inițial așezare pentru mineri", "Situat pe coasta de nord-vest", "Lângă spitalul RONHospital", "Centru pentru migranții muncii"],
       en: ["Most populous district in Nauru", "Home to the Location quarter", "Originally a mining settlement", "Situated on the northwest coast", "Located near the RONHospital", "Hub for migrant workers"],
     },
+    image: "/poi-images/nauru-denig-settlement-economic-v2.webp",
   }
 ];

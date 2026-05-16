@@ -31,6 +31,7 @@ export const vanuatuLifeV2: POI[] = [
       ro: ["Vatthe cuprinde aproximativ 2.300 de hectare de pădure tropicală primară de câmpie.", "Zona a fost înființată în 1994 ca prima arie protejată comunitară din Vanuatu.", "Este un loc important de cuibărit pentru pasărea endemică Megapode de Vanuatu.", "Râul Jordan, unul dintre cele mai mari râuri din Vanuatu, traversează zona.", "Cel puțin 36 de specii de păsări au fost documentate în limitele rezervației.", "Comunitatea locală Matantas gestionează ecoturismul și eforturile de conservare."],
       en: ["Vatthe covers approximately 2,300 hectares of primary lowland rainforest.", "The area was established in 1994 as Vanuatu's first community-owned protected area.", "It is a major nesting site for the endemic Vanuatu Megapode (Megapodius layardi).", "The Jordan River, one of Vanuatu's largest rivers, flows through the area.", "At least 36 bird species have been documented within the conservation area boundaries.", "The local Matantas community manages the ecotourism and conservation efforts."],
     },
+    image: "/poi-images/vanuatu-vatthe-conservation-area-life-v2.webp",
   },
   {
     id: "vanuatu-loru-conservation-area-life-v2",
@@ -62,6 +63,7 @@ export const vanuatuLifeV2: POI[] = [
       ro: ["Loru a fost înregistrată în 1993 ca una dintre primele rezervații naturale private din Vanuatu.", "Suprafața este de aproximativ 220 de hectare și cuprinde pădure de coastă pe calcar.", "Găzduiește specia amenințată de vulpe zburătoare de Vanuatu (Pteropus anetianus).", "Regulile tradiționale 'Tabu' reglementează vânătoarea și colectarea resurselor.", "Pădurea adăpostește peste 20 de specii diferite de orhidee.", "O centură de protecție a recifului de corali se conectează direct la partea terestră a rezervației."],
       en: ["Loru was registered in 1993 as one of Vanuatu's first private conservation areas.", "The area covers approximately 220 hectares and includes coastal forest on limestone.", "It provides habitat for the threatened Vanuatu flying fox (Pteropus anetianus).", "Traditional 'Tabu' rules regulate hunting and resource gathering within the area.", "The forest is home to more than 20 different species of orchids.", "A coral reef protection belt connects directly to the land portion of the reserve."],
     },
+    image: "/poi-images/vanuatu-loru-conservation-area-life-v2.webp",
   },
   {
     id: "vanuatu-hideaway-island-sanctuary-life-v2",
@@ -93,6 +95,7 @@ export const vanuatuLifeV2: POI[] = [
       ro: ["Singurul oficiu poștal subacvatic din lume a fost deschis aici în 2003.", "Zona protejată este o zonă 'no-take', unde orice tip de pescuit este interzis.", "Se află la doar câteva sute de metri de coasta insulei Efate.", "Peste 200 de specii de pești tropicali au fost identificate în recife.", "Reciful de coastă începe la o adâncime de mai puțin de un metru.", "Vizitatorii pot achiziționa cărți poștale speciale impermeabile la fața locului."],
       en: ["The world's only underwater post office was opened here in 2003.", "The sanctuary is a 'no-take' zone where all forms of fishing are prohibited.", "It is located just a few hundred metres from the main coast of Efate island.", "Over 200 species of tropical fish have been identified within the reef area.", "The fringing reef starts at a depth of less than one metre.", "Visitors can purchase special waterproof postcards to mail from the post office."],
     },
+    image: "/poi-images/vanuatu-hideaway-island-sanctuary-life-v2.webp",
   },
   {
     id: "vanuatu-moso-island-turtles-life-v2",
@@ -124,6 +127,7 @@ export const vanuatuLifeV2: POI[] = [
       ro: ["Comunitatea Tasiriki a înființat sanctuarul în anul 1995.", "Se concentrează în principal pe țestoasa Hawksbill (Eretmochelys imbricata).", "Puii sunt crescuți în captivitate timp de aproximativ un an înainte de eliberare.", "Peste 1.000 de țestoase au fost deja marcate și eliberate cu succes.", "Insula Moso face parte din zona tampon a sitului UNESCO Chief Roi Mata’s Domain.", "Insula este accesibilă doar cu barca de la Purumea Landing de pe Efate."],
       en: ["The Tasiriki community established the conservation project in 1995.", "The sanctuary focuses primarily on the endangered Hawksbill turtle (Eretmochelys imbricata).", "Hatchlings are raised in captivity for about one year before being released.", "Over 1,000 turtles have been successfully tagged and released back into the wild.", "Moso Island is part of the buffer zone for the Chief Roi Mata’s Domain UNESCO site.", "Access to the island is only possible by boat from Purumea Landing on Efate."],
     },
+    image: "/poi-images/vanuatu-moso-island-turtles-life-v2.webp",
   },
   {
     id: "vanuatu-million-dollar-point-reef-life-v2",
@@ -155,6 +159,7 @@ export const vanuatuLifeV2: POI[] = [
       ro: ["Echipamentul a fost scufundat în august 1945, după încheierea războiului.", "Numele se referă la valoarea estimată a bunurilor scufundate la acea vreme.", "Reciful începe direct de pe plajă și coboară până la o adâncime de 30 de metri.", "Printre epave se numără și lăzi complete cu piese de schimb și anvelope.", "Este unul dintre cele mai cunoscute locuri din lume pentru scufundări la epave de pe mal.", "Acoperirea cu corali pe metal atinge 100% în unele locuri."],
       en: ["The equipment was disposed of in August 1945 following the war's conclusion.", "The name refers to the multi-million dollar estimated value of the goods at the time.", "The reef starts directly at the shoreline and slopes down to 30 metres depth.", "Wrecks include complete crates of spare parts, engines, and heavy tyres.", "It is considered one of the world's best shore-access wreck diving locations.", "Coral coverage on some of the metallic structures has reached nearly 100%."],
     },
+    image: "/poi-images/vanuatu-million-dollar-point-reef-life-v2.webp",
   },
   {
     id: "vanuatu-president-coolidge-reef-life-v2",
@@ -186,6 +191,7 @@ export const vanuatuLifeV2: POI[] = [
       ro: ["Nava s-a scufundat pe 26 octombrie 1942 în mai puțin de 90 de minute.", "Cu o lungime de 198 de metri, este una dintre cele mai mari epave din lume accesibile scafandrilor.", "Doar două persoane din cele 5.340 aflate la bord și-au pierdut viața în timpul scufundării.", "Statia de porțelan 'The Lady' din fosta sală de mese este o atracție celebră pentru scafandri.", "Nava încă mai transportă camioane, jeep-uri și motoare de avion în calele sale.", "În magaziile de marfă pot fi observate grupuri de pești lanternă bioluminescenți."],
       en: ["The vessel sank on October 26, 1942, taking less than 90 minutes to go down.", "At 198 metres long, it is one of the largest accessible shipwrecks in the world.", "Only two out of the 5,340 personnel on board perished during the sinking.", "The 'Lady' porcelain relief in the first-class dining saloon is a famous diving landmark.", "The ship's holds still contain trucks, jeeps, and aircraft engines from the war era.", "Swarms of bioluminescent flashlight fish can be seen in the darkness of the cargo holds."],
     },
+    image: "/poi-images/vanuatu-president-coolidge-reef-life-v2.webp",
   },
   {
     id: "vanuatu-mele-cascades-nature-life-v2",
@@ -217,6 +223,7 @@ export const vanuatuLifeV2: POI[] = [
       ro: ["Cascada principală are o înălțime de cădere de aproximativ 35 de metri.", "Bazinele de calcar se formează prin depunerea carbonatului de calciu din apă.", "Parcul este administrat de comunitatea indigenă Mele.", "Drumeția până la vârful cascadei durează aproximativ 20 până la 30 de minute.", "Apa rămâne constant răcoroasă pe tot parcursul anului, la aproximativ 22-24 grade Celsius.", "De-a lungul potecilor cresc numeroase plante tropicale, cum ar fi ferigile și ghimbirul."],
       en: ["The main waterfall features a vertical drop of approximately 35 metres.", "The limestone pools are formed by the precipitation of calcium carbonate from the water.", "The park is managed by the indigenous Mele village community.", "The hike to the top pool takes about 20 to 30 minutes at a moderate pace.", "The water temperature remains consistently cool at around 22-24 degrees Celsius year-round.", "The surrounding trails are home to various tropical plants, including ferns and wild ginger."],
     },
+    image: "/poi-images/vanuatu-mele-cascades-nature-life-v2.webp",
   },
   {
     id: "vanuatu-nanda-blue-hole-life-v2",
@@ -248,6 +255,7 @@ export const vanuatuLifeV2: POI[] = [
       ro: ["Nanda este considerată una dintre cele mai adânci Blue Holes de pe Espiritu Santo.", "Apa este filtrată prin kilometri de peșteri subterane de calcar.", "Vizibilitatea sub apă depășește adesea 30 de metri.", "Terenul este în proprietatea unei familii locale de generații întregi.", "Există o mică structură de cafenea construită din materiale locale.", "Temperatura apei este constantă, la aproximativ 24 de grade Celsius."],
       en: ["Nanda is regarded as one of the deepest blue holes on Espiritu Santo.", "The water is filtered through kilometres of underground limestone caves.", "Underwater visibility often exceeds 30 metres due to the water's purity.", "The site has been owned and managed by a local family for generations.", "A small café structure on-site was built entirely from local sustainable materials.", "The water temperature remains a constant 24 degrees Celsius throughout the year."],
     },
+    image: "/poi-images/vanuatu-nanda-blue-hole-life-v2.webp",
   },
   {
     id: "vanuatu-matevulu-blue-hole-life-v2",
@@ -279,6 +287,7 @@ export const vanuatuLifeV2: POI[] = [
       ro: ["Matevulu este conectată de coastă printr-un râu navigabil.", "Arborele banyan iconic de pe mal are o vârstă estimată la peste 100 de ani.", "Apa are un conținut ridicat de minerale dizolvate, ceea ce creează culoarea.", "Adâncimea bazinului central este de aproximativ 12 metri.", "În timpul celui de-al Doilea Război Mondial, zona a fost folosită ca loc de recreere de trupele SUA.", "Sursa furnizează zilnic mii de metri cubi de apă dulce proaspătă."],
       en: ["Matevulu is connected to the coast via a navigable river channel.", "The iconic banyan tree on the bank is estimated to be over 100 years old.", "High concentrations of dissolved minerals give the water its vivid blue hue.", "The depth of the central basin is approximately 12 metres.", "The surrounding area was used as a recreation site by US troops during WWII.", "The spring produces thousands of cubic metres of fresh water every day."],
     },
+    image: "/poi-images/vanuatu-matevulu-blue-hole-life-v2.webp",
   },
   {
     id: "vanuatu-riri-blue-hole-life-v2",
@@ -310,6 +319,7 @@ export const vanuatuLifeV2: POI[] = [
       ro: ["Accesul se face adesea cu canoe tradiționale cu tangon (pirogă).", "Riri este cunoscută pentru albastrul său deosebit de profund, mai închis decât cel de la Matevulu.", "Pădurea înconjurătoare găzduiește specii rare de fluturi.", "Bazinul este înconjurat de pereți calcaroși abrupți.", "Plimbarea cu canoa până la sursă durează aproximativ 15 minute.", "Nu există clădiri permanente acolo, ceea ce păstrează estetica naturală."],
       en: ["Access is often provided via traditional outrigger canoes managed by locals.", "Riri is famous for its exceptionally deep blue hue, darker than Matevulu's.", "The surrounding riparian forest is home to several rare butterfly species.", "The spring basin is enclosed by steep limestone embankments.", "The canoe trip from the river mouth to the source takes approximately 15 minutes.", "There are no permanent buildings at the site, maintaining its natural aesthetic."],
     },
+    image: "/poi-images/vanuatu-riri-blue-hole-life-v2.webp",
   },
   {
     id: "vanuatu-champagne-beach-reefs-life-v2",
@@ -341,6 +351,7 @@ export const vanuatuLifeV2: POI[] = [
       ro: ["Efervescența este cauzată de gazele sulfuroase din sursele vulcanice submarine.", "Plaja este considerată în mod regulat una dintre cele mai frumoase plaje din lume.", "Reciful este deosebit de bogat în moluște și crustacee mici.", "La reflux, emisiile de gaze pot fi observate în apă până la genunchi.", "Golful este protejat de valurile puternice prin recifele din larg.", "Comunitățile locale administrează plaja și protejează natura înconjurătoare."],
       en: ["The fizzing effect is caused by volcanic gases escaping from vents on the sea floor.", "Champagne Beach is consistently ranked among the world's top beaches.", "The reef ecosystem is particularly rich in mollusks and small crustaceans.", "Gas leaks can be easily observed in knee-deep water during low tide.", "The bay's calm waters are a result of protection provided by offshore reefs.", "Local communities manage the beach access to fund conservation and village needs."],
     },
+    image: "/poi-images/vanuatu-champagne-beach-reefs-life-v2.webp",
   },
   {
     id: "vanuatu-mystery-island-reserve-life-v2",
@@ -372,6 +383,7 @@ export const vanuatuLifeV2: POI[] = [
       ro: ["Mystery Island este complet nelocuită; lucrătorii vin zilnic de pe Aneityum.", "Pista de aterizare a fost construită de armata SUA în timpul Războiului din Pacific.", "Zona protejată a fost înființată oficial în 1995.", "Este unul dintre cele mai bune locuri din Vanuatu pentru a observa dugongi.", "Insula poate fi parțial inundată în timpul mareelor foarte înalte.", "Peste 150 de specii de pești de recif au fost numărate în rezervație."],
       en: ["Mystery Island is completely uninhabited; workers commute daily from nearby Aneityum.", "The grass airstrip was originally built by US forces during World War II.", "The marine reserve was officially established and gazetted in 1995.", "The waters are a known habitat for the elusive dugong (sea cow).", "The low-lying island is susceptible to partial flooding during king tides.", "Surveys have documented over 150 species of tropical fish within the reserve."],
     },
+    image: "/poi-images/vanuatu-mystery-island-reserve-life-v2.webp",
   },
   {
     id: "vanuatu-nguna-pele-protected-area-life-v2",
@@ -403,6 +415,7 @@ export const vanuatuLifeV2: POI[] = [
       ro: ["MPA a fost înființată în 2003 de 16 comunități indigene.", "Cuprinde peste 3.000 de hectare de suprafață marină protejată.", "Inițiativa a câștigat prestigiosul Premiu Ecuator al Națiunilor Unite.", "Există zone speciale pentru protecția scoicilor gigantice.", "Zona se află pe ruta de migrație a balenelor cu cocoașă.", "Monitorizarea recifelor este realizată de voluntari locali ('Community Rangers')."],
       en: ["The MPA was established in 2003 by a consortium of 16 indigenous communities.", "It encompasses over 3,000 hectares of diverse marine habitat.", "The initiative won the prestigious United Nations Equator Prize for its success.", "Specific zones are dedicated to the restoration and protection of giant clams.", "The area is located within a seasonal migration corridor for humpback whales.", "Reef monitoring and enforcement are conducted by trained local community rangers."],
     },
+    image: "/poi-images/vanuatu-nguna-pele-protected-area-life-v2.webp",
   },
   {
     id: "vanuatu-lelepa-island-reefs-life-v2",
@@ -434,6 +447,7 @@ export const vanuatuLifeV2: POI[] = [
       ro: ["Insula face parte din zona tampon UNESCO 'Chief Roi Mata’s Domain'.", "Peștera Fels de pe insulă are o înălțime de peste 35 de metri.", "Lelepa are aproximativ 500 de locuitori care trăiesc într-un singur sat.", "Recifele adăpostesc specii rare de căluți de mare pigmei.", "Zona a devenit cunoscută ca locație de filmare pentru seria americană 'Survivor'.", "Medicina tradițională pe bază de plante este încă practicată pe scară largă pe insulă."],
       en: ["The island is situated within the UNESCO World Heritage buffer zone of Chief Roi Mata’s Domain.", "The historic Fels Cave on the island reaches a height of over 35 metres.", "Lelepa's population of approximately 500 people resides in a single coastal village.", "The surrounding reefs are a known habitat for rare pygmy seahorses.", "The island gained international fame as a filming location for the TV series 'Survivor'.", "Traditional herbal medicine remains a primary healthcare practice on the island."],
     },
+    image: "/poi-images/vanuatu-lelepa-island-reefs-life-v2.webp",
   },
   {
     id: "vanuatu-erakor-lagoon-mangroves-life-v2",
@@ -465,6 +479,7 @@ export const vanuatuLifeV2: POI[] = [
       ro: ["Laguna se întinde pe o suprafață de aproximativ 4 kilometri pătrați.", "În această zonă se regăsesc cel puțin 3 specii diferite de mangrove.", "Zona protejează orașul Port Vila de valurile de furtună în timpul cicloanelor.", "Mangrovele stochează de până la 4 ori mai mult carbon decât pădurile tropicale.", "Adâncimea apei în zonele cu mangrove este de obicei sub 1,5 metri.", "Comunitățile locale utilizează tradițional lemnul de mangrove pentru construcții."],
       en: ["The lagoon covers an area of approximately 4 square kilometers.", "At least 3 distinct species of mangroves thrive in this ecosystem.", "The area provides critical protection for Port Vila during storm surges.", "Mangroves can sequester up to 4 times more carbon than upland forests.", "Water depth in the mangrove zones typically averages less than 1.5 meters.", "Local communities have historically used mangrove wood for construction."],
     },
+    image: "/poi-images/vanuatu-erakor-lagoon-mangroves-life-v2.webp",
   },
   {
     id: "vanuatu-port-havannah-dugongs-life-v2",
@@ -496,6 +511,7 @@ export const vanuatuLifeV2: POI[] = [
       ro: ["Dugongii pot trăi până la vârsta de 70 de ani.", "Un exemplar adult consumă zilnic aproximativ 30-40 kg de iarbă de mare.", "Golful Port Havannah are o lungime de peste 10 kilometri.", "Peste 100 de nave de război americane au fost staționate aici în al Doilea Război Mondial.", "Dugongii trebuie să iasă la suprafață pentru a respira la fiecare 3-12 minute.", "Vanuatu a fost prima țară din Pacific care a protejat legal dugongii."],
       en: ["Dugongs can live for up to 70 years in the wild.", "An adult dugong consumes approximately 30 to 40 kg of seagrass daily.", "The Port Havannah bay extends over 10 kilometers in length.", "Over 100 US naval vessels were stationed here during World War II.", "Dugongs must surface to breathe every 3 to 12 minutes.", "Vanuatu was the first Pacific nation to grant legal protection to dugongs."],
     },
+    image: "/poi-images/vanuatu-port-havannah-dugongs-life-v2.webp",
   },
   {
     id: "vanuatu-lonnoc-beach-coral-life-v2",
@@ -527,6 +543,7 @@ export const vanuatuLifeV2: POI[] = [
       ro: ["Reciful de corali începe la doar 5 metri de țărm.", "Găzduiește peste 150 de specii diferite de pești.", "Temperatura medie a apei este cuprinsă între 27 și 29 de grade Celsius.", "Plaja Lonnoc este situată la aproximativ 50 de kilometri nord de Luganville.", "Vizibilitatea sub apă depășește adesea 30 de metri.", "Zona face parte dintr-un sistem tradițional de protecție „tabu”."],
       en: ["The coral reef starts just 5 meters from the shoreline.", "It is home to over 150 distinct species of tropical fish.", "The average water temperature ranges from 27 to 29 degrees Celsius.", "Lonnoc Beach is located approximately 50 kilometers north of Luganville.", "Underwater visibility frequently exceeds 30 meters.", "The area is managed under a traditional 'tabu' conservation system."],
     },
+    image: "/poi-images/vanuatu-lonnoc-beach-coral-life-v2.webp",
   },
   {
     id: "vanuatu-crab-bay-reserve-life-v2",
@@ -558,6 +575,7 @@ export const vanuatuLifeV2: POI[] = [
       ro: ["Rezervația a fost înființată oficial în anul 2002 de către căpeteniile locale.", "Cuprinde o linie de coastă cu o lungime de aproximativ 5 kilometri.", "Crabii Cardisoma migrează în masă spre mare pentru reproducere.", "Peste 15 specii diferite de mangrove au fost identificate aici.", "Zona este o „Zonă de Conservare Comunitară” înregistrată în Vanuatu.", "Vânarea dugongilor este strict interzisă în interiorul rezervației."],
       en: ["The reserve was officially established by local chiefs in 2002.", "It encompasses approximately 5 kilometers of pristine coastline.", "Cardisoma crabs engage in mass migrations to the sea for spawning.", "Over 15 different species of mangroves have been identified here.", "The area is a legally registered Community Conservation Area in Vanuatu.", "Dugong hunting is strictly prohibited within the boundaries of the reserve."],
     },
+    image: "/poi-images/vanuatu-crab-bay-reserve-life-v2.webp",
   },
   {
     id: "vanuatu-maskelyne-mangroves-life-v2",
@@ -589,6 +607,7 @@ export const vanuatuLifeV2: POI[] = [
       ro: ["Insulele Maskelyne cuprind aproximativ 10 insule locuite și nelocuite.", "Mangrovele acoperă peste 20% din suprafața totală de teren a arhipelagului.", "Aici se află una dintre cele mai mari zone de protecție a dugongilor din Vanuatu.", "Curenții de maree între mangrove pot fi foarte puternici.", "Există peste 500 de specii de pești catalogate în recifele din Maskelynes.", "Rezervația marină 'Ringi Te Suh' a fost înființată aici în 1990."],
       en: ["The Maskelyne Islands consist of approximately 10 inhabited and uninhabited isles.", "Mangroves cover over 20% of the archipelago's total land area.", "The area hosts one of the largest dugong sanctuaries in Vanuatu.", "Tidal currents flowing through the mangroves can be exceptionally strong.", "There are over 500 cataloged species of fish in the Maskelyne reefs.", "The 'Ringi Te Suh' Marine Protected Area was established here in 1990."],
     },
+    image: "/poi-images/vanuatu-maskelyne-mangroves-life-v2.webp",
   },
   {
     id: "vanuatu-erromango-cloud-forest-life-v2",
@@ -620,6 +639,7 @@ export const vanuatuLifeV2: POI[] = [
       ro: ["Cel mai înalt punct din Erromango, Mont Santop, se află la 886 de metri.", "Pădurile de nori filtrează cu până la 20% mai multă apă din aer decât pădurea tropicală obișnuită.", "Vanuatu găzduiește aproximativ 80 de specii de orhidee, multe în pădurea de nori.", "Umiditatea aerului în această zonă este aproape constantă la 100%.", "Coniferele Kauri endemice cresc în zonele de tranziție spre pădurea de nori.", "Erromango este a patra insulă ca mărime din arhipelagul Vanuatu."],
       en: ["The highest point on Erromango, Mount Santop, reaches 886 meters.", "Cloud forests can strip up to 20% more water from the air than standard rainforests.", "Vanuatu is home to around 80 orchid species, many found in these highlands.", "Relative humidity in the cloud forest zone is consistently near 100%.", "Endemic Kauri trees are often found in the transition zones to the cloud forest.", "Erromango is the fourth largest island in the Vanuatu archipelago."],
     },
+    image: "/poi-images/vanuatu-erromango-cloud-forest-life-v2.webp",
   },
   {
     id: "vanuatu-tanna-giant-banyan-life-v2",
@@ -651,6 +671,7 @@ export const vanuatuLifeV2: POI[] = [
       ro: ["Unii banyani de pe Tanna au o circumferință de peste 100 de metri.", "Arborele aparține genului Ficus, cunoscut pentru natura sa de smochin sugrumător.", "Locurile tradiționale de adunare de sub copac sunt numite „Nakamal”.", "Vârsta banyanului uriaș este estimată la peste 200-400 de ani.", "Rădăcinile de banyan pot sparge piatra masivă și pot schimba peisajele.", "Arborele supraviețuiește adesea cicloanelor mai bine decât alte specii datorită rețelei sale."],
       en: ["Some banyan trees on Tanna have a combined circumference exceeding 100 meters.", "The tree belongs to the Ficus genus, famous for its 'strangler fig' growth habit.", "Traditional assembly areas located beneath the tree are known as 'Nakamal'.", "The age of the giant banyan is estimated to be between 200 and 400 years.", "Banyan roots are powerful enough to split solid rock and alter landscapes.", "Due to its interconnected root system, the tree often survives cyclones better than others."],
     },
+    image: "/poi-images/vanuatu-tanna-giant-banyan-life-v2.webp",
   },
   {
     id: "vanuatu-epi-dugong-sanctuary-life-v2",
@@ -682,6 +703,7 @@ export const vanuatuLifeV2: POI[] = [
       ro: ["În golful Lamen trăiește un dugong rezident binecunoscut, numit „Rex”.", "Dugongii pot ajunge la 3 metri lungime și 400 kg greutate.", "Zona protejată cuprinde întregul golf și recifele adiacente.", "Vizitatorii nu au voie să atingă sau să urmărească dugongii.", "Dugongii comunică prin sunete de fluierat, ciripit și lătrat.", "Golful Lamen este, de asemenea, un habitat important pentru țestoasele verzi."],
       en: ["Lamen Bay is home to a famous resident dugong nicknamed 'Rex'.", "Dugongs can grow up to 3 meters in length and weigh up to 400 kg.", "The sanctuary encompasses the entire bay and its neighboring reefs.", "Visitors are strictly prohibited from touching or chasing the dugongs.", "Dugongs communicate using whistles, chirps, and barking sounds.", "Lamen Bay also serves as a critical habitat for green sea turtles."],
     },
+    image: "/poi-images/vanuatu-epi-dugong-sanctuary-life-v2.webp",
   },
   {
     id: "vanuatu-lake-letas-biodiversity-life-v2",
@@ -713,6 +735,7 @@ export const vanuatuLifeV2: POI[] = [
       ro: ["Lacul are o suprafață de aproximativ 19 kilometri pătrați.", "Lacul Letas are forma unei seceri și înconjoară conul vulcanic.", "Apa este ușor sulfuroasă datorită activității vulcanice.", "Lacul atinge adâncimi de peste 100 de metri.", "Este cel mai mare lac cu apă dulce de pe o insulă oceanică din Pacific.", "Anghilele migrează din mare până în lac pentru a trăi acolo."],
       en: ["The lake covers a surface area of approximately 19 square kilometers.", "Lake Letas is crescent-shaped, partially surrounding the volcanic cone.", "The water has a mild sulfur content due to ongoing volcanic activity.", "The lake reaches depths exceeding 100 meters in several areas.", "It is the largest freshwater lake located on an oceanic island in the Pacific.", "Eels are known to migrate from the ocean into the lake to mature."],
     },
+    image: "/poi-images/vanuatu-lake-letas-biodiversity-life-v2.webp",
   },
   {
     id: "vanuatu-port-olry-reserve-life-v2",
@@ -744,6 +767,7 @@ export const vanuatuLifeV2: POI[] = [
       ro: ["Port Olry este a doua localitate ca mărime de pe Espiritu Santo.", "Rezervația protejează peste 200 de hectare de suprafață marină.", "Scoicile gigante din regiune pot trăi peste 100 de ani.", "Insula Thion este accesibilă doar cu canoea sau prin înot.", "Țestoasele verzi folosesc regulat plajele pentru depunerea ouălor.", "Pescuitul este complet interzis în anumite zone centrale."],
       en: ["Port Olry is the second largest settlement on Espiritu Santo.", "The reserve protects over 200 hectares of marine territory.", "Giant clams in this region can live for more than 100 years.", "Thion Island is accessible only by canoe or by swimming.", "Green sea turtles frequently use the local beaches for nesting.", "Fishing is strictly prohibited within designated core zones of the reserve."],
     },
+    image: "/poi-images/vanuatu-port-olry-reserve-life-v2.webp",
   },
   {
     id: "vanuatu-aore-island-reefs-life-v2",
@@ -775,6 +799,7 @@ export const vanuatuLifeV2: POI[] = [
       ro: ["Aore se află la doar aproximativ 3 kilometri sud de Luganville.", "Canalul Segond dintre Efate și Aore are o adâncime de până la 60 de metri.", "Aici se pot găsi căluți de mare pigmei rari în corali evantai.", "Aore a fost o bază importantă de aprovizionare pentru flota americană.", "Vizibilitatea sub apă este constantă între 20 și 40 de metri.", "Reciful găzduiește mai multe specii de pești-clovn în câmpuri de anemone."],
       en: ["Aore Island is located just 3 kilometers south of Luganville.", "The Segond Channel separating Efate and Aore reaches depths of 60 meters.", "Rare pygmy seahorses can be found hiding within the island's sea fans.", "Aore served as a major logistics base for the US Navy during WWII.", "Underwater visibility consistently ranges between 20 and 40 meters.", "The reef features diverse anemone patches inhabited by multiple clownfish species."],
     },
+    image: "/poi-images/vanuatu-aore-island-reefs-life-v2.webp",
   },
   {
     id: "vanuatu-bokissa-island-reserve-life-v2",
@@ -806,6 +831,7 @@ export const vanuatuLifeV2: POI[] = [
       ro: ["Insula Bokissa are o suprafață de aproximativ 70 de hectare.", "Pădurea tropicală a insulei găzduiește crabi de cocos giganți.", "Nu există locuitori permanenți în afară de personalul resortului și rangeri.", "Bokissa se află la aproximativ 10 kilometri sud-est de Luganville.", "Reciful este cunoscut pentru bancurile sale mari de pești-papagal.", "Alimentarea cu energie a insulei se face parțial prin panouri solare."],
       en: ["Bokissa Island covers a total land area of approximately 70 hectares.", "The island's interior rainforest is home to large coconut crabs.", "There are no permanent residents other than resort staff and rangers.", "Bokissa is situated roughly 10 kilometers southeast of Luganville.", "The reef is noted for its massive schools of grazing parrotfish.", "The island utilizes solar energy systems to minimize its carbon footprint."],
     },
+    image: "/poi-images/vanuatu-bokissa-island-reserve-life-v2.webp",
   },
   {
     id: "vanuatu-ratua-wildlife-reserve-life-v2",
@@ -837,6 +863,7 @@ export const vanuatuLifeV2: POI[] = [
       ro: ["Insula Ratua este o rezervație naturală administrată complet privat.", "Caii care trăiesc pe insulă se mișcă adesea liber pe teren.", "Toate alimentele din resort sunt cultivate local și ecologic.", "Ratua se află la aproximativ 30 de minute cu barca sud de Luganville.", "Recifele de corali din Ratua găzduiesc ace de mare cu dungi albastre rare.", "Proiectul sprijină financiar peste 15 școli locale."],
       en: ["Ratua Island is a entirely privately managed wildlife sanctuary.", "Horses living on the island are often permitted to roam freely.", "All food served on the island is sourced from local, organic gardens.", "Ratua is located approximately a 30-minute boat ride south of Luganville.", "The reefs around Ratua are home to rare bluestripe pipefish.", "The Ratua Foundation provides financial support to over 15 local schools."],
     },
+    image: "/poi-images/vanuatu-ratua-wildlife-reserve-life-v2.webp",
   },
   {
     id: "vanuatu-oyster-island-mangroves-life-v2",
@@ -868,6 +895,7 @@ export const vanuatuLifeV2: POI[] = [
       ro: ["Oyster Island se află în imediata apropiere a Matevulu Blue Hole.", "Apa din canalele de mangrove este un amestec de apă dulce și sărată.", "Cresterea stridiilor se mai practică astăzi doar la scară mică și durabilă.", "Rădăcinile de mangrove oferă protecție pentru puietul de baracudă.", "Tururile cu canoe prin canale durează de obicei între 45 și 60 de minute.", "Insula este aproape conectată de continentul Santo la reflux."],
       en: ["Oyster Island is located in close proximity to the Matevulu Blue Hole.", "The water within the mangrove channels is brackish, a mix of fresh and salt.", "Oyster farming is now conducted only on a small, sustainable scale.", "The prop roots of the mangroves provide shelter for juvenile barracudas.", "Kayak tours through the winding channels typically last 45 to 60 minutes.", "At low tide, the island is nearly connected to the main coast of Santo."],
     },
+    image: "/poi-images/vanuatu-oyster-island-mangroves-life-v2.webp",
   },
   {
     id: "vanuatu-circe-blue-hole-life-v2",
@@ -899,6 +927,7 @@ export const vanuatuLifeV2: POI[] = [
       ro: ["Circe Blue Hole atinge o adâncime estimată la peste 15 metri.", "Temperatura apei rămâne constantă pe tot parcursul anului la aproximativ 24 de grade.", "Strălucirea albastră este cea mai puternică în timpul luminii solare perpendiculare.", "Apa se scurge direct în mare printr-un mic pârâu.", "În zonă pot fi găsite adesea specii rare de pescăruș albastru (Kingfisher).", "Accesul la Circe Blue Hole se face de obicei prin poteci forestiere neamenajate."],
       en: ["The Circe Blue Hole reaches an estimated depth of over 15 meters.", "The water temperature remains a constant 24 degrees Celsius year-round.", "The characteristic blue glow is most intense during peak vertical sunlight.", "The spring's discharge flows directly into the sea via a small stream.", "Rare kingfishers are frequently spotted in the trees surrounding the spring.", "Access to Circe Blue Hole is typically via unpaved and rugged forest paths."],
     },
+    image: "/poi-images/vanuatu-circe-blue-hole-life-v2.webp",
   },
   {
     id: "vanuatu-south-malekula-seagrass-life-v2",
@@ -930,5 +959,6 @@ export const vanuatuLifeV2: POI[] = [
       ro: ["Dugongii consumă zilnic până la 40 kg de iarbă de mare.", "Vanuatu deține una dintre cele mai mari populații de dugongi din Melanezia.", "Iarba de mare stochează de două ori mai mult carbon decât pădurile terestre.", "Peste 60 de specii de pești folosesc aceste zone ca pepiniere naturale.", "Suprafața protejată include câțiva kilometri pătrați de habitat critic.", "Tradițiile locale 'Tabu' sunt utilizate pentru managementul resurselor marine."],
       en: ["Dugongs consume up to 40 kg of seagrass per day.", "Vanuatu hosts one of the largest dugong populations in Melanesia.", "Seagrass meadows sequester carbon at twice the rate of terrestrial forests.", "Over 60 fish species use these meadows as nursery grounds.", "The area covers several square kilometers of protected marine habitat.", "Traditional 'Tabu' zones help enforce local fishing restrictions."],
     },
+    image: "/poi-images/vanuatu-south-malekula-seagrass-life-v2.webp",
   }
 ];

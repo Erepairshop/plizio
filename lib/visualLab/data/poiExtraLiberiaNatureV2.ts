@@ -31,6 +31,7 @@ export const liberiaNatureV2: POI[] = [
       ro: ["Altitudine: 1.440 m", "Suprafața rezervației: 500 km²", "Precipitații: 3.000 mm", "Specii de orhidee: 15", "Populația de babuini: 200", "Anul explorării: 1950"],
       en: ["Elevation: 1,440 m", "Reserve area: 500 km²", "Annual rainfall: 3,000 mm", "Forest elephant population: 30", "Bird species: 180", "Distance from Voinjama: 35 km"],
     },
+    image: "/poi-images/liberia-mount-wologizi-nature-v2.webp",
   },
   {
     id: "liberia-st-paul-river-nature-v2",
@@ -62,6 +63,7 @@ export const liberiaNatureV2: POI[] = [
       ro: ["Lungime: 500 km", "Bazin hidrografic: 20.000 km²", "Debit mediu: 250 m³/s", "Putere hidroelectrică: 88 MW", "Specii de pești: 70", "Anul construirii barajului: 1960"],
       en: ["Length: 500 km", "Basin area: 20,000 km²", "Hydropower capacity: 88 MW", "Annual average discharge: 250 m³/s", "Fish species: 70", "Distance from source to mouth: 500 km"],
     },
+    image: "/poi-images/liberia-st-paul-river-nature-v2.webp",
   },
   {
     id: "liberia-cavalla-river-nature-v2",
@@ -93,6 +95,7 @@ export const liberiaNatureV2: POI[] = [
       ro: ["Lungime: 515 km", "Bazin: 24.000 km²", "Debit: 300 m³/s", "Specii de pești: 80", "Anul înființării Sapo: 1983", "Cascade principale: 3"],
       en: ["Length: 515 km", "Basin area: 24,000 km²", "Discharge: 300 m³/s", "Fish species: 80", "Sapo National Park area: 1,800 km²", "Boundary with Ivory Coast: 210 km"],
     },
+    image: "/poi-images/liberia-cavalla-river-nature-v2.webp",
   },
   {
     id: "liberia-man-river-nature-v2",
@@ -124,6 +127,7 @@ export const liberiaNatureV2: POI[] = [
       ro: ["Lungime: 100 km", "Suprafața bazinului: 800 km²", "Specii de amfibieni: 20", "pH: 7,2", "Debit mediu: 10 m³/s", "Altitudine la izvor: 1.200 m"],
       en: ["Length: 100 km", "Basin area: 800 km²", "Average discharge: 10 m³/s", "Amphibian species: 20", "Gold mining sites: 8", "Villages: 12"],
     },
+    image: "/poi-images/liberia-man-river-nature-v2.webp",
   },
   {
     id: "liberia-lofa-river-nature-v2",
@@ -155,6 +159,7 @@ export const liberiaNatureV2: POI[] = [
       ro: ["Lungime: 180 km", "Bazin: 4.000 km²", "Debit maxim: 100 m³/s", "Cascade: 5", "Specii de pești: 40", "Altitudine la vărsare: 100 m"],
       en: ["Length: 180 km", "Basin area: 4,000 km²", "Average discharge: 40 m³/s", "Rice paddies: 50 km²", "Fish production: 200 tons/year", "Dams: 3"],
     },
+    image: "/poi-images/liberia-lofa-river-nature-v2.webp",
   },
   {
     id: "liberia-mount-putu-nature-v2",
@@ -186,6 +191,7 @@ export const liberiaNatureV2: POI[] = [
       ro: ["Altitudine: 1.000 m", "Rezerve de minereu: 2 miliarde tone", "Suprafața rezervației: 300 km²", "Populația de cimpanzei: 50", "Anul începerii exploatării: 2010", "Defrișări: 20 km²"],
       en: ["Elevation: 1,000 m", "Iron ore reserves: 2 billion tons", "Reserve area: 300 km²", "Elephant population: 20", "Mining start year: 2010", "Deforested area: 20 km²"],
     },
+    image: "/poi-images/liberia-mount-putu-nature-v2.webp",
   },
   {
     id: "liberia-cecess-river-nature-v2",
@@ -217,6 +223,7 @@ export const liberiaNatureV2: POI[] = [
       ro: ["Lungime: 180 km", "Bazin: 5.000 km²", "Debit: 60 m³/s", "Suprafață mangrove: 30 km²", "Producție pește: 500 t/an", "Specii de crustacee: 15"],
       en: ["Length: 180 km", "Basin area: 5,000 km²", "Discharge: 60 m³/s", "Mangrove area: 30 km²", "Fisheries yield: 500 tons/year", "Estuary width: 1 km"],
     },
+    image: "/poi-images/liberia-cecess-river-nature-v2.webp",
   },
   {
     id: "liberia-buchanan-coastline-nature-v2",
@@ -248,6 +255,7 @@ export const liberiaNatureV2: POI[] = [
       ro: ["Lungime coastă: 40 km", "Cuiburi de broaște țestoase: 2.000 sezon", "Temperatura apei: 27°C", "Trafic portuar: 10 milioane tone/an", "Rată eroziune: 2 m/an", "Specii de păsări: 30"],
       en: ["Coastline length: 40 km", "Sea turtle nests per season: 2,000", "Port cargo volume: 10 million tons/year", "Water temperature: 27°C", "Erosion rate: 2 m/year", "Fishing villages: 10"],
     },
+    image: "/poi-images/liberia-buchanan-coastline-nature-v2.webp",
   },
   {
     id: "liberia-mount-cradle-nature-v2",
@@ -279,6 +287,7 @@ export const liberiaNatureV2: POI[] = [
       ro: ["Altitudine: 800 m", "Suprafața rezervației: 200 km²", "Populația de cimpanzei: 60", "Mine de aur: 10", "Precipitații: 2.500 mm", "Altitudine bază: 400 m"],
       en: ["Elevation: 800 m", "Reserve area: 200 km²", "Chimpanzee population: 60", "Gold mining sites: 10", "Annual rainfall: 2,500 mm", "Distance to Guinea border: 15 km"],
     },
+    image: "/poi-images/liberia-mount-cradle-nature-v2.webp",
   },
   {
     id: "liberia-bloh-creek-nature-v2",
@@ -310,6 +319,7 @@ export const liberiaNatureV2: POI[] = [
       ro: ["Lungime: 30 km", "Bazin: 150 km²", "Specii de pești: 15", "Temperatura apei: 22°C", "Lățime maximă: 5 m", "Precipitații: 2.800 mm"],
       en: ["Length: 30 km", "Basin area: 150 km²", "Fish species: 15", "Water temperature: 22°C", "Maximum width: 5 m", "Annual rainfall: 2,800 mm"],
     },
+    image: "/poi-images/liberia-bloh-creek-nature-v2.webp",
   },
   {
     id: "liberia-du-river-nature-v2",
@@ -341,6 +351,7 @@ export const liberiaNatureV2: POI[] = [
       ro: ["Lungime: 80 km", "Bazin: 500 km²", "Specii de pești: 25", "Lățime: 20 m", "Mine de aur: 5", "Distanța până la Sapo: 10 km"],
       en: ["Length: 80 km", "Basin area: 500 km²", "Fish species: 25", "Average width: 20 m", "Gold mining sites: 5", "Distance to Sapo NP: 10 km"],
     },
+    image: "/poi-images/liberia-du-river-nature-v2.webp",
   },
   {
     id: "liberia-farmington-river-nature-v2",
@@ -372,6 +383,7 @@ export const liberiaNatureV2: POI[] = [
       ro: ["Lungime: 120 km", "Bazin: 2.000 km²", "Debit: 20 m³/s", "Specii de pești: 30", "Lățime: 30 m", "Plantații de cauciuc: 100 km²"],
       en: ["Length: 120 km", "Basin area: 2,000 km²", "Discharge: 20 m³/s", "Fish species: 30", "Width: 30 m", "Rubber plantations: 100 km²"],
     },
+    image: "/poi-images/liberia-farmington-river-nature-v2.webp",
   },
   {
     id: "liberia-lave-river-nature-v2",
@@ -403,6 +415,7 @@ export const liberiaNatureV2: POI[] = [
       ro: ["Lungime: 60 km", "Bazin: 400 km²", "Suprafață mangrove: 10 km²", "Specii de pești: 20", "Debit: 5 m³/s", "Distanță față de Greenville: 5 km"],
       en: ["Length: 60 km", "Basin area: 400 km²", "Mangrove area: 10 km²", "Fish species: 20", "Discharge: 5 m³/s", "Distance to Greenville: 5 km"],
     },
+    image: "/poi-images/liberia-lave-river-nature-v2.webp",
   },
   {
     id: "liberia-mount-gbo-nature-v2",
@@ -434,6 +447,7 @@ export const liberiaNatureV2: POI[] = [
       ro: ["Altitudine: 900 m", "Suprafață rezervație: 250 km²", "Specii de păsări: 200", "Precipitații: 3.000 mm", "Plante endemice: 8", "Distanță graniță: 10 km"],
       en: ["Elevation: 900 m", "Reserve area: 250 km²", "Bird species: 200", "Annual rainfall: 3,000 mm", "Endemic plants: 8", "Distance to Sierra Leone: 10 km"],
     },
+    image: "/poi-images/liberia-mount-gbo-nature-v2.webp",
   },
   {
     id: "liberia-sess-river-nature-v2",
@@ -465,6 +479,7 @@ export const liberiaNatureV2: POI[] = [
       ro: ["Lungime: 70 km", "Bazin: 600 km²", "Specii de pești: 22", "Lamantini: 10", "Lățime estuar: 500 m", "Debit: 8 m³/s"],
       en: ["Length: 70 km", "Basin area: 600 km²", "Fish species: 22", "Manatee population: 10", "Estuary width: 500 m", "Discharge: 8 m³/s"],
     },
+    image: "/poi-images/liberia-sess-river-nature-v2.webp",
   },
   {
     id: "liberia-morro-river-nature-v2",
@@ -496,6 +511,7 @@ export const liberiaNatureV2: POI[] = [
       ro: ["Lungime: 50 km", "Bazin: 300 km²", "Suprafață mangrove: 15 km²", "Specii de păsări: 40", "Adâncime medie: 2 m", "Debit: 4 m³/s"],
       en: ["Length: 50 km", "Basin area: 300 km²", "Mangrove area: 15 km²", "Migratory bird species: 40", "Average depth: 2 m", "Discharge: 4 m³/s"],
     },
+    image: "/poi-images/liberia-morro-river-nature-v2.webp",
   },
   {
     id: "liberia-st-paul-tributary-nature-v2",
@@ -527,6 +543,7 @@ export const liberiaNatureV2: POI[] = [
       ro: ["Lungimea râului St. Paul este de 500 km.", "Bazinul hidrografic are 28.000 km².", "Debitul mediu anual este de 700 m³/s.", "Principalul afluent este râul Lofa.", "Sezonul ploios durează din mai până în octombrie.", "Vărsarea în Atlantic se produce lângă Monrovia."],
       en: ["The St. Paul River is approximately 500 km long.", "Its drainage basin covers 28,000 km².", "The maximum recorded discharge is 3,200 m³/s.", "It has over 20 major tributaries.", "The rainy season lasts from May to October.", "The river empties into the Atlantic Ocean near Monrovia."],
     },
+    image: "/poi-images/liberia-st-paul-tributary-nature-v2.webp",
   },
   {
     id: "liberia-putu-forest-nature-v2",
@@ -558,6 +575,7 @@ export const liberiaNatureV2: POI[] = [
       ro: ["Pădurea Putu are o suprafață de 1.500 km².", "Precipitațiile anuale depășesc 2.500 mm.", "Arborii ating înălțimi de până la 60 m.", "Peste 100 de specii de arbori pe hectar.", "Rezervele de minereu de fier sunt estimate la 2 miliarde de tone.", "Se învecinează cu Parcul Național Sapo."],
       en: ["Putu Forest covers an area of 1,500 km².", "Annual rainfall exceeds 2,500 mm.", "Trees can reach up to 60 m in height.", "Over 100 tree species per hectare are recorded.", "Iron ore reserves are estimated at 2 billion tons.", "The forest borders Sapo National Park."],
     },
+    image: "/poi-images/liberia-putu-forest-nature-v2.webp",
   },
   {
     id: "liberia-nimba-plateau-nature-v2",
@@ -589,6 +607,7 @@ export const liberiaNatureV2: POI[] = [
       ro: ["Podisul Nimba atinge 1.752 m altitudine.", "Suprafața este de 17.540 ha.", "Peste 200 de specii de plante endemice.", "Precipitațiile anuale sunt de 2.000 mm.", "Este o zonă majoră de exploatare a minereului de fier.", "A fost declarat Patrimoniu UNESCO în 1981."],
       en: ["Nimba Plateau elevation reaches 1,752 m.", "It covers 17,540 hectares.", "Over 200 endemic plant species are found here.", "Annual rainfall averages 2,000 mm.", "It is a major iron ore mining area.", "Designated a UNESCO World Heritage site in 1981."],
     },
+    image: "/poi-images/liberia-nimba-plateau-nature-v2.webp",
   },
   {
     id: "liberia-lofa-forest-nature-v2",
@@ -620,6 +639,7 @@ export const liberiaNatureV2: POI[] = [
       ro: ["Pădurea Lofa are 2.000 km².", "Râul Lofa are o lungime de 250 km.", "Adăpostește hipopotamul pigmeu liberian.", "Înălțimea coronamentului atinge 50 m.", "Precipitațiile anuale sunt de 2.200 mm.", "Densitatea populației este sub 10 locuitori pe km²."],
       en: ["Lofa Forest covers 2,000 km².", "The Lofa River is about 250 km long.", "It hosts a population of endangered pygmy hippopotamuses.", "Canopy height reaches up to 50 m.", "Annual rainfall is 2,200 mm.", "Population density is less than 10 people per km²."],
     },
+    image: "/poi-images/liberia-lofa-forest-nature-v2.webp",
   },
   {
     id: "liberia-maryland-coast-nature-v2",
@@ -651,6 +671,7 @@ export const liberiaNatureV2: POI[] = [
       ro: ["Coasta Maryland are 150 km lungime.", "Lățimea plajei atinge 100 m în unele locuri.", "Aproximativ 500 de țestoase marine cuibăresc anual.", "Pădurile de mangrove acoperă 50 km².", "Temperatura medie a apei este de 26 °C.", "Diferența de maree este de 1,5 m."],
       en: ["The Maryland Coast is 150 km long.", "Beach width reaches up to 100 m in places.", "Approximately 500 sea turtles nest here annually.", "Mangrove forests cover 50 km².", "Average water temperature is 26 °C.", "Tidal range is 1.5 m."],
     },
+    image: "/poi-images/liberia-maryland-coast-nature-v2.webp",
   },
   {
     id: "liberia-gbarpolu-river-nature-v2",
@@ -682,5 +703,6 @@ export const liberiaNatureV2: POI[] = [
       ro: ["Râul Gbarpolu are 120 km lungime.", "Bazinul hidrografic are 2.500 km².", "Izvorăște la 500 m altitudine.", "Lățimea medie este de 30 m.", "Debitul maxim măsurat este de 400 m³/s.", "Nu există baraje mari pe râu."],
       en: ["The Gbarpolu River is 120 km long.", "Its drainage basin covers 2,500 km².", "The river originates at 500 m elevation.", "Average width is 30 m.", "Maximum recorded discharge is 400 m³/s.", "No major dams exist on the river."],
     },
+    image: "/poi-images/liberia-gbarpolu-river-nature-v2.webp",
   }
 ];

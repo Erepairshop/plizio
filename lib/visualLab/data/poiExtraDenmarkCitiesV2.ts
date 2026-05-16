@@ -32,6 +32,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Herning a primit drepturi oficiale de oraș abia în anul 1913.", "Găzduiește MCH, cel mai mare complex expozițional și de evenimente din Scandinavia.", "Jyske Bank Boxen a fost prima mare arenă interioară multifuncțională din Danemarca.", "Centrul istoric al clusterului textil și de confecții danez (Textilbyen).", "Hub important pentru industria globală a energiei eoliene (ex. Siemens Gamesa).", "Muzeul HEART a fost proiectat de celebrul arhitect Steven Holl."],
       en: ["Herning only received official city status in the year 1913.", "Home to MCH, Scandinavia's largest exhibition and entertainment complex.", "Jyske Bank Boxen was Denmark's first major multi-purpose indoor arena.", "Historical center of the Danish textile and clothing cluster (Textilbyen).", "A major hub for the global wind energy industry (e.g., Siemens Gamesa).", "The HEART Museum was designed by the famous architect Steven Holl."],
     },
+    image: "/poi-images/denmark-herning-cities-v2.webp",
   },
   {
     id: "denmark-horsens-cities-v2",
@@ -64,6 +65,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Vitus Bering s-a născut în Horsens în anul 1681.", "Muzeul Închisorii funcționează în fosta închisoare de stat construită în 1853.", "Orașul a primit primele drepturi municipale în secolul al XIV-lea.", "Fiordul Horsens are o lungime de aproximativ 20 de kilometri.", "Populația orașului este de circa 60.000 de locuitori.", "Festivalul Medieval anual atrage peste 60.000 de vizitatori."],
       en: ["Explorer Vitus Bering was born in Horsens in 1681.", "The Prison Museum is located in the former state prison built in 1853.", "The city received its first town privileges in the 14th century.", "Horsens Fjord extends for approximately 20 kilometers into the land.", "The city's population is approximately 60,000 residents.", "The annual Medieval Festival attracts more than 60,000 visitors."],
     },
+    image: "/poi-images/denmark-horsens-cities-v2.webp",
   },
   {
     id: "denmark-naestved-cities-v2",
@@ -96,6 +98,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Næstved a fost menționat pentru prima dată în 1135 într-un act de donație.", "Biserica Sf. Petru este singura biserică gotică cu cinci nave din Danemarca.", "Râul Suså este cel mai lung râu din Seeland, având 83 de kilometri.", "Școala Herlufsholm a fost fondată în 1565 de către Herluf Trolle.", "Populația municipalității Næstved este de aproximativ 84.000 de locuitori.", "Castelul Gavnø găzduiește cea mai mare colecție privată de picturi din Danemarca."],
       en: ["Næstved was first mentioned in 1135 in a deed of gift.", "St. Peter's Church is the only five-aisled Gothic church in Denmark.", "The Suså River is the longest on Zealand, measuring 83 kilometers.", "Herlufsholm School was founded in 1565 by Herluf Trolle.", "The population of Næstved municipality is approximately 84,000.", "Gavnø Castle houses the largest private painting collection in Denmark."],
     },
+    image: "/poi-images/denmark-naestved-cities-v2.webp",
   },
   {
     id: "denmark-slagelse-cities-v2",
@@ -128,6 +131,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Trelleborg de lângă Slagelse a fost construit în jurul anului 980 sub regele Harald Dinte Albastru.", "Mănăstirea Antvorskov a fost fondată în 1164 ca sediu al Cavalerilor Ioaniți în Danemarca.", "Hans Christian Andersen a frecventat școala latină din Slagelse între 1822 și 1826.", "Biserica Sf. Mihail datează inițial din secolul al XIV-lea.", "Slagelse este sediul Regimentului de Husari ai Gărzii din cadrul armatei daneze.", "Orașul are o populație de aproximativ 34.000 de locuitori."],
       en: ["Trelleborg near Slagelse was built around 980 AD under King Harald Bluetooth.", "Antvorskov Monastery was founded in 1164 as the headquarters for the Knights Hospitaller in Denmark.", "Hans Christian Andersen attended the Latin school in Slagelse from 1822 to 1826.", "St. Michael's Church dates back to the 14th century.", "Slagelse is the home of the Guard Hussar Regiment of the Danish Army.", "The city has a population of approximately 34,000 residents."],
     },
+    image: "/poi-images/denmark-slagelse-cities-v2.webp",
   },
   {
     id: "denmark-fredericia-cities-v2",
@@ -160,6 +164,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Fredericia a fost fondată special ca oraș-fortăreață în anul 1650.", "Sistemul de metereze acoperă o suprafață de aproximativ 100 de hectare.", "Ziua de 6 iulie este o sărbătoare locală ce comemorează bătălia din 1849.", "Fredericia a fost primul oraș din Danemarca care a acordat libertate religioasă generală.", "Portul este cel mai mare terminal din Danemarca pentru manipularea mărfurilor lichide.", "Populația orașului este de aproximativ 41.000 de locuitori."],
       en: ["Fredericia was specifically founded as a fortress town in 1650.", "The ramparts cover an area of approximately 100 hectares.", "July 6th is a local public holiday commemorating the victory in the Battle of 1849.", "Fredericia was the first city in Denmark to grant general religious freedom.", "The port is Denmark's largest for the handling of liquid bulk goods.", "The city's population is approximately 41,000 residents."],
     },
+    image: "/poi-images/denmark-fredericia-cities-v2.webp",
   },
   {
     id: "denmark-haderslev-cities-v2",
@@ -192,6 +197,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Haderslev a primit drepturi de oraș în 1292 de la ducele Valdemar al IV-lea.", "Catedrala din Haderslev a fost construită între anii 1250 și 1270.", "Haderslev Dam este cel mai mare lac de acumulare din Danemarca, cu o suprafață de 2,6 km².", "Orașul a fost sub stăpânire prusaco-germană între 1864 și 1920.", "Haderslev este supranumit 'Wittenberg-ul Nordului' datorită Reformei timpurii.", "Populația orașului este de aproximativ 22.000 de locuitori."],
       en: ["Haderslev received town status in 1292 from Duke Valdemar IV.", "Haderslev Cathedral was constructed between 1250 and 1270.", "Haderslev Dam is Denmark's largest dammed lake, covering 2.6 km².", "The city was under Prussian-German rule from 1864 to 1920.", "Haderslev is known as the 'Wittenberg of the North' due to the early Reformation.", "The city's population is approximately 22,000 residents."],
     },
+    image: "/poi-images/denmark-haderslev-cities-v2.webp",
   },
   {
     id: "denmark-skive-cities-v2",
@@ -224,6 +230,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Skive a primit primele drepturi de oraș în anul 1326.", "Castelul Spøttrup a fost construit la începutul secolului al XV-lea de episcopul de Viborg.", "Cazarma din Skive găzduiește regimentul de ingineri (Ingeniørregimentet) al armatei daneze.", "Jenle găzduiește cel mai mare festival anual de poezie din Danemarca.", "Populația orașului este de aproximativ 20.000 de locuitori.", "Skive este lider în Danemarca în proiecte de utilizare a biogazului și a energiei verzi."],
       en: ["Skive received its first town privileges in the year 1326.", "Spøttrup Castle was built in the early 15th century by the Bishop of Viborg.", "Skive Barracks is home to the Danish Engineering Regiment (Ingeniørregimentet).", "Jenle hosts Denmark's largest annual poetry festival.", "The city's population is approximately 20,000 residents.", "Skive is a Danish leader in biogas and green energy technology projects."],
     },
+    image: "/poi-images/denmark-skive-cities-v2.webp",
   },
   {
     id: "denmark-ringsted-cities-v2",
@@ -256,6 +263,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Biserica Sf. Bendt a fost ridicată în 1170 peste mormântul ducelui Knud Lavard.", "Ringsted a fost locul de întrunire al Landsting-ului din Seeland până în 1584.", "Regii Valdemar cel Mare și Valdemar cel Victorios sunt înmormântați aici.", "Orașul se află la aproximativ 60 de kilometri vest de Copenhaga.", "Populația orașului este de aproximativ 23.000 de locuitori.", "Ringsted Outlet este singurul centru comercial de tip outlet de marcă din Danemarca."],
       en: ["St. Bendt's Church was built in 1170 over the grave of Duke Knud Lavard.", "Ringsted was the meeting place for the Zealand Landsting until 1584.", "Kings Valdemar the Great and Valdemar the Victorious are buried here.", "The city is located approximately 60 kilometers west of Copenhagen.", "The city's population is approximately 23,000 residents.", "Ringsted Outlet is the only designer outlet center in Denmark."],
     },
+    image: "/poi-images/denmark-ringsted-cities-v2.webp",
   },
   {
     id: "denmark-thisted-cities-v2",
@@ -288,6 +296,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Thisted a primit drepturi oficiale de oraș în 1524 de la regele Frederic I.", "Fabrica de bere Thisted Bryghus a fost fondată în anul 1902.", "Parcul Național Thy acoperă o suprafață de 244 km².", "Klitmøller se află la doar 15 kilometri nord-vest de Thisted.", "Thisted a fost primul oraș danez cu o centrală geotermală în 1984.", "Populația orașului este de aproximativ 13.500 de locuitori."],
       en: ["Thisted was granted official town status in 1524 by King Frederick I.", "The Thisted Bryghus brewery was established in 1902.", "Thy National Park covers an extensive area of 244 km².", "Klitmøller is located just 15 kilometers northwest of Thisted.", "Thisted was the first Danish city to have a geothermal district heating plant in 1984.", "The city's population is approximately 13,500 residents."],
     },
+    image: "/poi-images/denmark-thisted-cities-v2.webp",
   },
   {
     id: "denmark-svendborg-cities-v2",
@@ -320,6 +329,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Svendborg a fost declarat oficial oraș în anul 1253.", "Muzeul Naturama a fost deschis în 2005 într-un fost abator.", "Castelul Valdemar a fost construit în 1644 de regele Christian al IV-lea pentru fiul său.", "Svendborg este locul de fondare al companiei de transport maritim A.P. Møller-Mærsk.", "Orașul are o populație de aproximativ 27.000 de locuitori.", "Svendborg este membru al rețelei internaționale Cittaslow."],
       en: ["Svendborg was officially designated as a town in 1253.", "The Naturama Museum opened in 2005 in a former slaughterhouse.", "Valdemar's Castle was built in 1644 by King Christian IV for his son.", "Svendborg is the founding location of the shipping giant A.P. Møller-Mærsk.", "The city's population is approximately 27,000 residents.", "Svendborg is a member of the international Cittaslow network."],
     },
+    image: "/poi-images/denmark-svendborg-cities-v2.webp",
   },
   {
     id: "denmark-soenderborg-cities-v2",
@@ -352,6 +362,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Castelul Sønderborg a fost construit inițial în jurul anului 1158 de Valdemar cel Mare.", "Regele Christian al II-lea a fost întemnițat în castel între 1532 și 1549.", "Bătălia de la Dybbøl a avut loc la 18 aprilie 1864.", "Complexul Alsion a fost deschis în 2007 și găzduiește Universitatea Danemarcei de Sud.", "Populația orașului este de aproximativ 27.700 de locuitori.", "Podul Regele Christian al X-lea leagă continentul de insula Als."],
       en: ["Sønderborg Castle was originally established around 1158 by Valdemar the Great.", "King Christian II was imprisoned in the castle from 1532 to 1549.", "The Battle of Dybbøl took place on April 18, 1864.", "Alsion was opened in 2007 and houses the University of Southern Denmark.", "The city's population is approximately 27,700 residents.", "The King Christian X Bridge connects the mainland to the island of Als."],
     },
+    image: "/poi-images/denmark-soenderborg-cities-v2.webp",
   },
   {
     id: "denmark-vejle-cities-v2",
@@ -384,6 +395,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Vejle a fost menționat oficial ca oraș pentru prima dată în anul 1256.", "Orașul găzduiește Fjordenhus, prima clădire proiectată integral de artistul Olafur Eliasson.", "Munkebjergbakken este considerată una dintre cele mai abrupte pante din Danemarca, cu o înclinație de 10%.", "Moara de vânt din Vejle, construită în 1890, este un simbol vizibil de pe dealurile orașului.", "Clădirea rezidențială Bølgen (Valul) este compusă din cinci secțiuni distincte în formă de val.", "În Biserica Sf. Nicolai se află mumia femeii din Haraldskær, datând din anul 490 î.Hr."],
       en: ["Vejle was first officially mentioned as a market town in the year 1256.", "The city features the Fjordenhus, the first building fully designed by artist Olafur Eliasson.", "Munkebjergbakken is one of the steepest road climbs in Denmark, reaching a 10% gradient.", "The Vejle Windmill, built in 1890, serves as a prominent landmark overlooking the city.", "The iconic residential building 'The Wave' consists of five distinct wave-shaped peaks.", "St. Nicolai Church houses the Bog Body of the Haraldskær Woman, dating back to 490 BC."],
     },
+    image: "/poi-images/denmark-vejle-cities-v2.webp",
   },
   {
     id: "denmark-nyborg-cities-v2",
@@ -416,6 +428,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Castelul Nyborg a fost construit în jurul anului 1170 ca apărare împotriva venzilor.", "În anul 1282, aici a fost semnată prima cartă constituțională daneză (Håndfæstning).", "Orașul a servit drept sediu al parlamentului danez (Danehof) între 1183 și 1413.", "Podul Marele Belt leagă Nyborg direct de insula Zealand începând cu anul 1998.", "Nyborg a fost un important oraș garnizoană danez între anii 1660 și 1869.", "Biserica Vor Frue din Nyborg datează original de la sfârșitul secolului al XIV-lea."],
       en: ["Nyborg Castle was built around 1170 as a defensive fortification against the Wends.", "In 1282, the first Danish constitutional charter (Håndfæstning) was signed here.", "The city was the seat of the Danish parliament, the Danehof, from 1183 to 1413.", "The Great Belt Fixed Link has connected Nyborg to Zealand since its opening in 1998.", "Nyborg served as a major Danish garrison town from 1660 until 1869.", "The Vor Frue Kirke (Church of Our Lady) in Nyborg dates back to the late 14th century."],
     },
+    image: "/poi-images/denmark-nyborg-cities-v2.webp",
   },
   {
     id: "denmark-kalundborg-cities-v2",
@@ -448,6 +461,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Biserica Vor Frue din Kalundborg este singura biserică cu cinci turnuri din Danemarca.", "Orașul și castelul au fost fondate în anul 1170 de către nobilul Esbern Snare.", "Portul din Kalundborg este unul dintre cele mai adânci porturi naturale din Danemarca.", "Simbioza Kalundborg a început în 1961 ca o cooperare între companiile locale.", "Muzeul Kalundborg expune tezaure importante din epoca vikingilor găsite în regiune.", "Orașul găzduiește una dintre cele mai mari facilități de producție de insulină din lume."],
       en: ["The Church of Our Lady in Kalundborg is the only five-towered church in Denmark.", "Esbern Snare founded the town and its first castle in the year 1170.", "Kalundborg Harbour is one of the deepest natural ports in all of Denmark.", "The Kalundborg Symbiosis began in 1961 as a collaboration between local industries.", "Kalundborg Museum houses significant Viking Age treasures discovered in the area.", "The city is home to one of the largest insulin production facilities in the world."],
     },
+    image: "/poi-images/denmark-kalundborg-cities-v2.webp",
   },
   {
     id: "denmark-tønder-cities-v2",
@@ -480,6 +494,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Tønder a fost primul oraș din Danemarca care a primit drepturi de cetate în 1243.", "Hans J. Wegner, celebrul designer de mobilier danez, s-a născut la Tønder în 1914.", "Festivalul Tønder a început în anul 1974 și atrage anual mii de turiști.", "Kristkirken posedă una dintre cele mai bogate decorațiuni interioare dintre bisericile daneze.", "Tønder a fost un port important până în 1864, când digurile au blocat accesul la mare.", "Confecționarea dantelei a fost principala sursă de venit pentru peste 10.000 de oameni în secolul XVIII."],
       en: ["Tønder was the first town in Denmark to receive market town rights in the year 1243.", "Hans J. Wegner, the world-famous furniture designer, was born in Tønder in 1914.", "The Tønder Festival was established in 1974 and is now a major international event.", "Kristkirken (Christ Church) features one of the most elaborate church interiors in Denmark.", "Tønder was a major port until 1864, when land reclamation cut off its sea access.", "Lacemaking was the primary livelihood for over 10,000 people in the region during the 1700s."],
     },
+    image: "/poi-images/denmark-tønder-cities-v2.webp",
   },
   {
     id: "denmark-hjoerring-cities-v2",
@@ -512,6 +527,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Hjørring a primit primele sale drepturi de oraș în anul 1243.", "Dana Cup este organizat anual în oraș în fiecare vară începând cu 1982.", "Biserica Sf. Ecaterina este cea mai mare dintre cele trei biserici medievale ale orașului.", "Orașul găzduiește singurul teatru din Danemarca din afara Copenhagăi cu ansamblu propriu.", "Poul Anker, un erou al rezistenței din secolul al XVII-lea, este înmormântat în regiune.", "În Hjørring se intersectează rutele feroviare importante dintre Aalborg și Hirtshals."],
       en: ["Hjørring was granted its first official market town privileges in the year 1243.", "The Dana Cup has been hosted annually in the city every summer since 1982.", "St. Catharine's Church is the largest of the three medieval churches in the city center.", "Hjørring is home to Vendsyssel Teater, the first regional theater built outside Copenhagen.", "Poul Anker, a 17th-century resistance leader, is a celebrated local historical figure.", "The city serves as a key railway junction connecting Aalborg with the port of Hirtshals."],
     },
+    image: "/poi-images/denmark-hjoerring-cities-v2.webp",
   },
   {
     id: "denmark-frederikssund-cities-v2",
@@ -544,6 +560,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Frederikssund a fost declarat oficial oraș comercial în anul 1810.", "Jocurile Vikingilor (Vikingespil) au loc în fiecare vară începând cu anul 1952.", "Muzeul J.F. Willumsen a fost inaugurat în oraș în anul 1957.", "Podul Kronprinsesse Mary este primul pod cu taxă de pe teritoriul continental danez.", "Orașul servește drept capăt de linie pentru linia C a trenului suburban (S-tog) din Copenhaga.", "Fiordul Roskilde din această zonă este un habitat crucial pentru cuibărirea păsărilor marine."],
       en: ["Frederikssund was officially granted market town status in the year 1810.", "The Viking Plays (Vikingespil) have been performed annually since 1952.", "The J.F. Willumsen Museum opened its doors to the public in 1957.", "Crown Princess Mary's Bridge is the first toll bridge on the Danish mainland.", "The town acts as the northern terminus for the S-train line C from Copenhagen.", "Roskilde Fjord at Frederikssund is a designated protected area for migratory sea birds."],
     },
+    image: "/poi-images/denmark-frederikssund-cities-v2.webp",
   },
   {
     id: "denmark-ikast-cities-v2",
@@ -576,6 +593,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Ikast a devenit centrul industriei textile daneze începând cu anii 1950.", "Clubul de fotbal FC Midtjylland a fost fondat în 1999 prin fuziunea unor cluburi locale.", "Turnul de apă din Ikast a fost construit în 1948 și este astăzi un simbol al orașului.", "Orașul găzduiește una dintre cele mai prestigioase școli internaționale din Danemarca.", "În Ikast se află cea mai lungă stradă comercială acoperită din Danemarca (Strøget).", "Colecția de artă din 'Ikast Kunstpakhus' expune opere daneze contemporane."],
       en: ["Ikast emerged as the heart of the Danish textile industry after the 1950s.", "The football club FC Midtjylland was formed in 1999 through a local merger.", "The Ikast Water Tower, built in 1948, now serves as a popular panoramic viewpoint.", "The town is home to the International School of Ikast-Brande, established in 2004.", "Ikast features Denmark's largest indoor shopping street, known as Strøget.", "The 'Kunstpakhuset' is a central venue for contemporary art exhibitions in the region."],
     },
+    image: "/poi-images/denmark-ikast-cities-v2.webp",
   },
   {
     id: "denmark-faaborg-cities-v2",
@@ -608,6 +626,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Faaborg a fost menționat pentru prima dată în anul 1229 într-un document de donație.", "Turnul cu clopot din Faaborg, datând din 1450, este restul unei biserici demolate.", "Muzeul Faaborg a fost fondat în 1910 de către producătorul de conserve Mads Rasmussen.", "Poarta Vesterport este singura poartă medievală a orașului care a supraviețuit pe insula Funen.", "Svanninge Bakker ating o înălțime considerabilă pentru Danemarca, de 126 de metri.", "În timpul verii, paznicii de noapte tradiționali patrulează pe străzi cântând."],
       en: ["Faaborg was first mentioned in a royal deed of gift in the year 1229.", "The Faaborg Bell Tower, built in 1450, is the only remains of a former parish church.", "Faaborg Museum was established in 1910 by the industrialist Mads Rasmussen.", "The Vesterport gate is the only preserved medieval town gate on the island of Funen.", "The Svanninge Bakker hills reach an elevation of 126 meters above sea level.", "Traditional night watchmen still patrol the streets every evening during the summer months."],
     },
+    image: "/poi-images/denmark-faaborg-cities-v2.webp",
   },
   {
     id: "denmark-lemvig-cities-v2",
@@ -640,6 +659,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Lemvig a fost menționat documentar pentru prima dată în anul 1234.", "Planetstien este un model al sistemului solar care se întinde pe o lungime de 12 kilometri.", "Biserica din Lemvig are un turn în formă de bulb construit în anul 1788.", "Calea ferată Lemvigbanen este una dintre cele mai abrupte și pitorești din Danemarca.", "Muzeul de Artă Religioasă a fost inaugurat în oraș în anul 1994.", "Orașul găzduiește 'Klimatorium', un centru internațional de excelență în cercetarea climei."],
       en: ["Lemvig was first officially mentioned in historical documents in 1234.", "The Planetary Path (Planetstien) is a scale model of the solar system spanning 12 kilometers.", "Lemvig Church features a distinct onion-shaped spire added in the year 1788.", "The Lemvig Railway is noted for being one of the steepest and most scenic in Denmark.", "The Museum of Religious Art was established in the town in 1994.", "The city is home to the 'Klimatorium,' an international hub for climate change adaptation."],
     },
+    image: "/poi-images/denmark-lemvig-cities-v2.webp",
   },
   {
     id: "denmark-store-heddinge-cities-v2",
@@ -672,6 +692,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Store Heddinge a primit drepturi oficiale de oraș în 1441 de la regele Cristofor al III-lea.", "Biserica Sfânta Ecaterina are un plan octogonal unic în Danemarca.", "Turnul de apă din Store Heddinge a fost construit în 1912 și are o înălțime de 32 de metri.", "Orașul se află la doar 5 kilometri distanță de situl UNESCO Stevns Klint.", "În Evul Mediu, orașul era înconjurat de un șanț de apărare și valuri de pământ.", "Primăria istorică din piața centrală a fost construită în jurul anului 1838."],
       en: ["Store Heddinge was granted its official market town charter in 1441 by King Christopher III.", "St. Katherine's Church features an octagonal floor plan that is unique in Denmark.", "The Store Heddinge Water Tower, built in 1912, stands 32 meters tall.", "The town is situated only 5 kilometers from the UNESCO World Heritage site of Stevns Klint.", "During the Middle Ages, the city was protected by a system of moats and ramparts.", "The historic town hall located in the market square was constructed around 1838."],
     },
+    image: "/poi-images/denmark-store-heddinge-cities-v2.webp",
   },
   {
     id: "denmark-odder-cities-v2",
@@ -704,6 +725,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Odder se află la aproximativ 20 de kilometri sud de orașul Aarhus.", "Biserica din Odder datează din secolul al XII-lea și are origini romanice.", "Orașul are o populație de aproximativ 12.450 de locuitori conform datelor din 2023.", "Gara din Odder este punctul terminus sudic al liniei de metrou ușor Aarhus Letbane.", "Muzeul Odder a fost fondat în 1928 și este găzduit într-o veche moară de apă.", "Regiunea din jurul orașului Odder este renumită pentru productivitatea sa agricolă ridicată."],
       en: ["Odder is located approximately 20 kilometers south of the city of Aarhus.", "Odder Church dates back to the 12th century and is of Romanesque origin.", "The town has a population of around 12,450 inhabitants as of 2023.", "Odder railway station serves as the southern terminus of the Aarhus Letbane.", "The Odder Museum was founded in 1928 and is housed in an old water mill.", "The area surrounding Odder is known for its high agricultural productivity."],
     },
+    image: "/poi-images/denmark-odder-cities-v2.webp",
   },
   {
     id: "denmark-aabenraa-cities-v2",
@@ -736,6 +758,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Aabenraa este situat în punctul cel mai adânc al fjordului Aabenraa din sudul Iulandei.", "Castelul Brundlund a fost construit în 1411 de către Regina Margareta I.", "Orașul s-a aflat sub administrație prusacă și germană între anii 1864 și 1920.", "Portul din Aabenraa are o adâncime a apei de până la 11 metri.", "Biserica Sfântul Nicolai a fost construită în secolul al XIII-lea în stil romano-gotic.", "Aabenraa este sediul ziarului de limbă germană 'Der Nordschleswiger'."],
       en: ["Aabenraa is located at the deepest point of the Aabenraa Fjord in South Jutland.", "Brundlund Castle was erected in 1411 by Queen Margaret I.", "The city was under Prussian and German administration from 1864 to 1920.", "The port of Aabenraa has a water depth of up to 11 meters.", "St. Nicolai Church was built in the 13th century in Romanesque-Gothic style.", "Aabenraa is the headquarters of the German-language newspaper 'Der Nordschleswiger'."],
     },
+    image: "/poi-images/denmark-aabenraa-cities-v2.webp",
   },
   {
     id: "denmark-herlufmagle-cities-v2",
@@ -768,6 +791,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Herlufmagle aparține municipalității Næstved din regiunea Sjælland.", "Biserica din Herlufmagle este o biserică romanică din piatră de câmp din secolul al XII-lea.", "Localitatea are aproximativ 2.100 de locuitori (conform datelor din 2023).", "Complexul 'Herlufmagle Hallen' este un centru sportiv regional important.", "Herlufmagle este situat direct pe ruta primară 54, între Næstved și Ringsted.", "În apropiere se află proprietatea Suså, care a influențat istoria locală."],
       en: ["Herlufmagle is part of the Næstved Municipality in the Region Zealand.", "Herlufmagle Church is a Romanesque fieldstone church dating from the 12th century.", "The town has a population of approximately 2,100 inhabitants as of 2023.", "The 'Herlufmagle Hallen' complex is a significant regional sports center.", "Herlufmagle is located directly on Primary Route 54 between Næstved and Ringsted.", "Nearby is the Suså estate, which has played a role in local history."],
     },
+    image: "/poi-images/denmark-herlufmagle-cities-v2.webp",
   },
   {
     id: "denmark-bramming-cities-v2",
@@ -800,6 +824,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Bramming se află la aproximativ 15 kilometri est de Esbjerg.", "Gara Bramming conectează rute către Esbjerg, Kolding și Tønder.", "Orașul are o populație de aproximativ 7.100 de locuitori (conform datelor din 2023).", "Bramming Egnsmuseum prezintă expoziții despre istoria feroviară și culturală.", "Biserica Sfântul Knud a fost construită în jurul anului 1200.", "Până în 2007, Bramming a fost reședința administrativă a municipalității Bramming."],
       en: ["Bramming is situated about 15 kilometers east of Esbjerg.", "Bramming railway station connects lines to Esbjerg, Kolding, and Tønder.", "The town has a population of approximately 7,100 inhabitants as of 2023.", "The Bramming Egnsmuseum features exhibits on railway and cultural history.", "St. Knud's Church was built around the year 1200.", "Bramming was the administrative seat of the independent Bramming Municipality until 2007."],
     },
+    image: "/poi-images/denmark-bramming-cities-v2.webp",
   },
   {
     id: "denmark-greve-cities-v2",
@@ -832,6 +857,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Greve Strand este situat la aproximativ 20 de kilometri sud-vest de centrul Copenhagăi.", "Plaja de nisip din Greve se întinde pe o lungime de aproximativ 8 kilometri.", "Municipalitatea Greve are o populație de peste 51.000 de locuitori.", "Fortul Mosede a fost construit între 1913 și 1916 ca parte a centurii de fortificații a Copenhagăi.", "Greve este deservit de liniile de tren suburban S-tog A și E.", "Greve Midtby Center este unul dintre cele mai mari centre comerciale din regiune."],
       en: ["Greve Strand is located approximately 20 kilometers southwest of central Copenhagen.", "The sandy beach of Greve stretches for about 8 kilometers.", "The Greve Municipality has a population of over 51,000 inhabitants.", "Mosede Fort was built between 1913 and 1916 as part of Copenhagen's defense belt.", "Greve is served by the A and E lines of the S-train network.", "The Greve Midtby Center is one of the largest shopping malls in the region."],
     },
+    image: "/poi-images/denmark-greve-cities-v2.webp",
   },
   {
     id: "denmark-ishøj-cities-v2",
@@ -864,6 +890,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Muzeul de Artă Modernă ARKEN din Ishøj a fost deschis în anul 1996.", "Ishøj Strandpark face parte dintr-un parc de coastă artificial lung de 7 kilometri.", "Municipalitatea Ishøj are aproximativ 21.600 de locuitori (conform datelor din 2023).", "Biserica din Ishøj datează inițial din secolul al XII-lea.", "Ishøj se află la aproximativ 18 kilometri sud-vest de Copenhaga.", "Orașul este deservit de liniile de tren suburban S-tog A și E."],
       en: ["The ARKEN Museum of Modern Art in Ishøj was opened in 1996.", "Ishøj Strandpark is part of a 7-kilometer-long man-made coastal park.", "The Ishøj Municipality has about 21,600 inhabitants as of 2023.", "Ishøj Church originally dates back to the 12th century.", "Ishøj is located approximately 18 kilometers southwest of Copenhagen.", "The town is served by the A and E lines of the S-train network."],
     },
+    image: "/poi-images/denmark-ishøj-cities-v2.webp",
   },
   {
     id: "denmark-hvidovre-cities-v2",
@@ -896,6 +923,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Hvidovre se învecinează direct cu cartierul Valby din Copenhaga.", "În Filmbyen au fost turnate numeroase filme ale regizorului Lars von Trier.", "Municipalitatea Hvidovre are o populație de aproximativ 53.400 de locuitori.", "Biserica din Hvidovre este una dintre cele mai vechi biserici din regiunea Copenhaga.", "Rebæk Sø este un mic lac și parc popular situat în zona urbană.", "Trei linii de tren suburban S-tog (A, B și C) deservesc diverse gări din Hvidovre."],
       en: ["Hvidovre borders the Copenhagen district of Valby.", "Numerous films by director Lars von Trier were shot at Filmbyen.", "The Hvidovre Municipality has a population of approximately 53,400 inhabitants.", "Hvidovre Church is one of the oldest churches in the Copenhagen region.", "Rebæk Sø is a popular small lake and park within the urban area.", "Three S-train lines (A, B, and C) serve different stations in Hvidovre."],
     },
+    image: "/poi-images/denmark-hvidovre-cities-v2.webp",
   },
   {
     id: "denmark-ballerup-cities-v2",
@@ -928,6 +956,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["În Ballerup se află sediile unor companii mari precum Novo Nordisk și GN Store Nord.", "Ballerup Super Arena a găzduit mai multe campionate mondiale de ciclism pe pistă.", "Municipalitatea Ballerup are o populație de aproximativ 49.000 de locuitori (conform datelor din 2023).", "Biserica din Ballerup a fost construită în jurul anului 1200 în stil romanic târziu.", "Orașul este situat la aproximativ 16 kilometri vest de centrul orașului Copenhaga.", "Satul Pederstrup găzduiește Muzeul Ballerup dedicat istoriei locale."],
       en: ["Ballerup is home to the headquarters of major companies like Novo Nordisk and GN Store Nord.", "The Ballerup Super Arena has hosted several Track Cycling World Championships.", "The Ballerup Municipality has a population of around 49,000 inhabitants as of 2023.", "Ballerup Church was built around 1200 in late Romanesque style.", "The town is located approximately 16 kilometers west of Copenhagen's city center.", "Pederstrup Landsby houses the Ballerup Museum for local history."],
     },
+    image: "/poi-images/denmark-ballerup-cities-v2.webp",
   },
   {
     id: "denmark-gladsaxe-cities-v2",
@@ -960,6 +989,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Biserica Bagsvărd a fost finalizată în 1976 și este considerată o capodoperă a lui Jørn Utzon.", "Lacul Bagsvărd găzduiește centrul național danez pentru sporturi de canotaj.", "Municipalitatea Gladsaxe are o populație de aproximativ 70.000 de locuitori.", "Primăria Gladsaxe este un exemplu semnificativ al arhitecturii daneze postbelice.", "Companii internaționale precum Novo Nordisk au sedii importante în Gladsaxe.", "Orașul este conectat la liniile B și H prin mai multe stații de tren suburban S-tog."],
       en: ["Bagsværd Church was completed in 1976 and is considered a masterpiece by Jørn Utzon.", "Bagsværd Lake houses the Danish national center for rowing sports.", "The Gladsaxe Municipality has a population of approximately 70,000 inhabitants.", "Gladsaxe City Hall is a significant example of post-war Danish architecture.", "International companies like Novo Nordisk have major facilities in Gladsaxe.", "The town is connected to the B and H lines through several S-train stations."],
     },
+    image: "/poi-images/denmark-gladsaxe-cities-v2.webp",
   },
   {
     id: "denmark-brøndby-cities-v2",
@@ -992,6 +1022,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Brøndby IF este unul dintre cele mai de succes cluburi de fotbal din istoria daneză.", "Brøndby Haveby a fost înființat în 1964 și este cunoscut pentru formele sale circulare de grădină.", "Municipalitatea Brøndby are o populație de aproximativ 37.100 de locuitori.", "Stadionul Brøndby a fost deschis în 1965 și a fost modernizat de mai multe ori.", "Brøndby Strand dispune de un parc de coastă amenajat artificial.", "Orașul este deservit de liniile de tren suburban S-tog A, B și C."],
       en: ["Brøndby IF is one of the most successful football clubs in Danish history.", "Brøndby Haveby was established in 1964 and is famous for its circular garden layouts.", "The Brøndby Municipality has a population of approximately 37,100 inhabitants.", "Brøndby Stadium was opened in 1965 and has been modernized several times.", "Brøndby Strand features a man-made coastal recreational park.", "The town is served by the A, B, and C lines of the S-train network."],
     },
+    image: "/poi-images/denmark-brøndby-cities-v2.webp",
   },
   {
     id: "denmark-herlev-cities-v2",
@@ -1024,6 +1055,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Spitalul Herlev are o înălțime de 120 de metri, fiind printre cele mai înalte din țară.", "Municipalitatea Herlev a fost înființată ca entitate separată în anul 1909.", "Conexiunea feroviară S-tog cu Copenhaga funcționează din anul 1949.", "Echipa de hochei pe gheață Herlev Eagles a fost fondată în anul 1968.", "Spitalul are 28 de etaje și a fost finalizat în cursul anului 1976.", "Populația orașului Herlev este de aproximativ 29.000 de locuitori în 2023."],
       en: ["Herlev Hospital is one of Denmark's tallest buildings at 120 meters in height.", "The municipality of Herlev was officially established in the year 1909.", "The town has been connected to the Copenhagen S-train network since 1949.", "The Herlev Eagles, a professional ice hockey team, was founded in 1968.", "The hospital tower consists of 28 floors and was completed in 1976.", "Herlev has an urban population of approximately 29,000 as of 2023."],
     },
+    image: "/poi-images/denmark-herlev-cities-v2.webp",
   },
   {
     id: "denmark-glostrup-cities-v2",
@@ -1056,6 +1088,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Glostrup a fost menționat prima dată în scrierile episcopului Absalon în 1186.", "Prima cale ferată din Danemarca a avut stație în Glostrup începând cu 1847.", "Biserica din Glostrup datează parțial din secolele al XII-lea și al XIII-lea.", "Rigshospitalet Glostrup este un centru medical de elită în regiune.", "Conexiunea feroviară suburbană S-tog a fost inaugurată în anul 1953.", "Glostrup găzduiește sediul central al Poliției Naționale Daneze (Rigspolitiet)."],
       en: ["Glostrup was first mentioned in a letter by Bishop Absalon around 1186.", "The first Danish railway began serving Glostrup station in the year 1847.", "Glostrup Church dates back to the 12th and 13th centuries.", "Rigshospitalet Glostrup is a premier regional healthcare and research facility.", "The S-train connection to central Copenhagen was established in 1953.", "Glostrup is the seat of the Danish National Police headquarters."],
     },
+    image: "/poi-images/denmark-glostrup-cities-v2.webp",
   },
   {
     id: "denmark-rodovre-cities-v2",
@@ -1088,6 +1121,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Primăria din Rødovre a fost proiectată în 1956 de celebrul arhitect Arne Jacobsen.", "Rødovre Centrum a fost inaugurat în 1966 ca primul mall acoperit din Danemarca.", "Municipalitatea Rødovre are o populație de circa 42.000 de locuitori (2023).", "Echipa Rødovre Mighty Bulls a câștigat de mai multe ori campionatul de hochei.", "Lacul Damhussøen reprezintă granița naturală de est cu orașul Copenhaga.", "Biblioteca municipală a fost, de asemenea, creată de Arne Jacobsen în 1969."],
       en: ["The Rødovre Town Hall was designed by architect Arne Jacobsen in 1956.", "Rødovre Centrum opened in 1966 as the first indoor shopping mall in Denmark.", "The municipality of Rødovre has a population of about 42,000 as of 2023.", "The Rødovre Mighty Bulls ice hockey team has won several national titles.", "Damhus Lake (Damhussøen) serves as the natural eastern border to Copenhagen.", "Rødovre Library was another project designed by Arne Jacobsen, completed in 1969."],
     },
+    image: "/poi-images/denmark-rodovre-cities-v2.webp",
   },
   {
     id: "denmark-valby-cities-v2",
@@ -1120,6 +1154,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["J.C. Jacobsen a fondat fabrica de bere Carlsberg în Valby în anul 1847.", "Nordisk Film, cel mai vechi studio de film din lume, a fost deschis aici în 1906.", "Valbyparken este cel mai mare parc din Copenhaga, având 64 de hectare.", "Poarta Elefanților de la fabrica Carlsberg a fost construită în anul 1901.", "Biserica lui Isus din Valby a fost proiectată de Vilhelm Dahlerup în 1891.", "Gara Valby a fost inaugurată în locația sa actuală în anul 1911."],
       en: ["J.C. Jacobsen established the Carlsberg Brewery in Valby in the year 1847.", "Nordisk Film, the world's oldest film studio, was founded here in 1906.", "Valbyparken is the largest public park in Copenhagen, covering 64 hectares.", "The iconic Elephant Gate at the Carlsberg site was completed in 1901.", "The Jesus Church in Valby was designed by architect Vilhelm Dahlerup in 1891.", "Valby Station was opened at its current central location in 1911."],
     },
+    image: "/poi-images/denmark-valby-cities-v2.webp",
   },
   {
     id: "denmark-taastrup-cities-v2",
@@ -1152,6 +1187,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Turnul de apă din Taastrup a fost ridicat în 1908 în stil neogotic.", "Prima linie de cale ferată daneză a deservit gara Taastrup începând cu 1847.", "Centrul comercial City 2 a fost deschis în 1975, fiind atunci unul dintre cele mai mari.", "Gara modernă Høje Taastrup a fost inaugurată oficial în cursul anului 1986.", "Municipalitatea Høje-Taastrup are în prezent o populație de circa 55.000 de locuitori.", "Blaakildegaard găzduiește muzeul de istorie locală al municipalității."],
       en: ["The Taastrup Water Tower was constructed in the Neo-Gothic style in 1908.", "Denmark's first railway line began serving Taastrup station in the year 1847.", "The City 2 shopping mall opened in 1975 as one of the largest in Europe at the time.", "The modern Høje Taastrup railway station was officially inaugurated in 1986.", "The municipality of Høje-Taastrup currently has a population of about 55,000.", "Blaakildegaard houses the local history museum for the Taastrup area."],
     },
+    image: "/poi-images/denmark-taastrup-cities-v2.webp",
   },
   {
     id: "denmark-farum-cities-v2",
@@ -1184,6 +1220,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Biserica din Farum a fost construită în secolul al XII-lea și este de origine romanică.", "Clubul FC Nordsjælland își desfășoară meciurile pe Right to Dream Park din Farum.", "Farum Midtpunkt este un proiect locativ celebru, realizat între 1970 și 1974.", "Lacul Furesø este cel mai adânc din Danemarca, atingând 38 de metri profunzime.", "Orașul este conectat la rețeaua feroviară spre Copenhaga încă din anul 1906.", "Populația orașului Farum este de aproximativ 20.000 de locuitori (2023)."],
       en: ["Farum Church was built in the 12th century and features Romanesque architecture.", "FC Nordsjælland plays its home matches at the Right to Dream Park in Farum.", "Farum Midtpunkt is a renowned social housing complex built between 1970 and 1974.", "Lake Furesø is Denmark's deepest lake, reaching a maximum depth of 38 meters.", "The town has been linked by rail to the capital, Copenhagen, since the year 1906.", "Farum has an urban population of approximately 20,000 residents as of 2023."],
     },
+    image: "/poi-images/denmark-farum-cities-v2.webp",
   },
   {
     id: "denmark-vaerloese-cities-v2",
@@ -1216,6 +1253,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Aerodromul militar Værløse a fost operațional între anii 1934 și 2004.", "'Filmbyen' din Værløse servește ca platou de filmare pentru numeroase filme daneze.", "Lacul Søndersø este un rezervor important de apă potabilă și zonă de agrement.", "Stația S-tog din Værløse a fost inaugurată pentru operare electrică în anul 1977.", "Din anul 2007, Værløse face parte din municipalitatea consolidată Furesø.", "Pădurea Syvstjernen este renumită pentru rețeaua sa de poteci în formă de stea."],
       en: ["The Værløse Air Base was an active military facility from 1934 until 2004.", "The 'Filmbyen' studio complex in Værløse is a major site for Danish film production.", "Lake Søndersø is a vital local drinking water reservoir and recreation site.", "The Værløse S-train station was opened for electric service in the year 1977.", "Værløse has been part of the Furesø Municipality since the reform in 2007.", "The Syvstjernen forest is famous for its unique star-shaped path network."],
     },
+    image: "/poi-images/denmark-vaerloese-cities-v2.webp",
   },
   {
     id: "denmark-soeborg-cities-v2",
@@ -1248,6 +1286,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Primăria din Gladsaxe, situată în Søborg, a fost inaugurată în anul 1937.", "Søborg s-a dezvoltat începând cu 1901 ca unul dintre primele orașe-grădină daneze.", "Turnul de apă din Søborg a fost construit în 1912 și este acum monument protejat.", "Gigantul farmaceutic Novo Nordisk are unul dintre sediile sale principale în Søborg.", "Utterslev Mose oferă peste 200 de hectare de spațiu verde la marginea orașului.", "Studiourile postului danez TV 2 se află în cartierul Søborg."],
       en: ["The Gladsaxe Town Hall in Søborg was officially inaugurated in the year 1937.", "Søborg emerged as one of Denmark's first garden cities starting around 1901.", "The Søborg Water Tower was built in 1912 and is now a protected historical monument.", "The pharmaceutical company Novo Nordisk maintains a major campus in Søborg.", "Utterslev Mose provides over 200 hectares of green space adjacent to Søborg.", "The studios for the Danish broadcaster TV 2 are located in the Søborg district."],
     },
+    image: "/poi-images/denmark-soeborg-cities-v2.webp",
   },
   {
     id: "denmark-gentofte-cities-v2",
@@ -1280,6 +1319,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Palatul Bernstorff a fost finalizat în anul 1765 ca reședință de vară.", "Muzeul Ordrupgaard deține una dintre cele mai bune colecții de impresioniști din Europa.", "Plaja Bellevue a fost amenajată în anii 1930 de către arhitectul Arne Jacobsen.", "Municipalitatea Gentofte are o populație de aproximativ 75.000 de locuitori (2023).", "Lacul Gentofte este o rezervație naturală oficială cu o suprafață de 36 de hectare.", "Prima linie S-tog din Danemarca a ajuns în Gentofte în anul 1934."],
       en: ["Bernstorff Palace was completed in the year 1765 as a royal summer residence.", "The Ordrupgaard Museum houses one of the finest Impressionist collections in Europe.", "Bellevue Beach was designed and developed by Arne Jacobsen in the 1930s.", "The municipality of Gentofte has an urban population of about 75,000 as of 2023.", "Gentofte Lake is a designated nature reserve covering an area of 36 hectares.", "The first Danish S-train line began serving Gentofte in the year 1934."],
     },
+    image: "/poi-images/denmark-gentofte-cities-v2.webp",
   },
   {
     id: "denmark-lyngby-cities-v2",
@@ -1312,6 +1352,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Universitatea Tehnică din Danemarca (DTU) a fost fondată inițial în anul 1829.", "Palatul Sorgenfri a fost finalizat în 1705 și servește drept reședință regală.", "Muzeul în Aer Liber (Frilandsmuseet) s-a deschis în 1897 și are peste 100 de case.", "Centrul comercial Lyngby Storcenter a fost inaugurat în cursul anului 1973.", "Râul Mølleåen este considerat locul de naștere al industriei daneze.", "Municipalitatea Lyngby are o populație de aproximativ 58.000 de locuitori (2023)."],
       en: ["The Technical University of Denmark (DTU) was originally founded in the year 1829.", "Sorgenfri Palace was completed in 1705 and remains a royal family residence.", "The Open Air Museum (Frilandsmuseet) opened in 1897 and features over 100 historic buildings.", "Lyngby Storcenter opened in 1973 as one of Denmark's first modern shopping malls.", "The Mølleåen river valley is known as the birthplace of Danish industry.", "Lyngby-Taarbæk Municipality has a population of approximately 58,000 as of 2023."],
     },
+    image: "/poi-images/denmark-lyngby-cities-v2.webp",
   },
   {
     id: "denmark-holte-cities-v2",
@@ -1344,6 +1385,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Holte se află la aproximativ 20 de kilometri nord de centrul orașului Copenhaga.", "Gara din Holte a fost deschisă în anul 1864 ca parte a liniei ferate de nord.", "Pădurea adiacentă Rude Skov acoperă o suprafață de aproximativ 580 de hectare.", "Conacul istoric Dronninggård a fost construit în anul 1781 în stil neoclasic.", "Holte aparține municipalității Rudersdal, una dintre cele mai bogate din Danemarca.", "Lacul Furesø este cel mai adânc lac din Danemarca, atingând o profunzime de 37 de metri."],
       en: ["Holte is located approximately 20 kilometers north of Copenhagen city center.", "Holte station was opened in 1864 as part of the North Line railway network.", "The adjacent Rude Skov forest covers an area of roughly 580 hectares.", "The historic Dronninggård estate was built in 1781 in the Neoclassical style.", "Holte is part of Rudersdal Municipality, known for high average income levels.", "The nearby Furesø lake is Denmark's deepest lake, reaching 37 meters in depth."],
     },
+    image: "/poi-images/denmark-holte-cities-v2.webp",
   },
   {
     id: "denmark-birkerød-cities-v2",
@@ -1376,6 +1418,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Biserica din Birkerød datează inițial din secolul al XII-lea.", "Birkerød a fost conectat la rețeaua feroviară daneză în anul 1864.", "Gimnaziul Birkerød a fost fondat încă din anul 1868.", "Lacul Sjælsø din apropiere are o suprafață de aproximativ 2,9 kilometri pătrați.", "Centrul cultural Mantziusgården este găzduit într-o fermă istorică.", "Birkerød este situat la aproximativ 22 de kilometri nord de Copenhaga."],
       en: ["Birkerød Church originally dates back to the 12th century.", "The town was connected to the Danish railway network in 1864.", "The Birkerød Gymnasium was established as early as 1868.", "The nearby Lake Sjælsø has a surface area of approximately 2.9 square kilometers.", "The Mantziusgården cultural center is located in a historic farmhouse.", "Birkerød is situated about 22 kilometers north of the Danish capital, Copenhagen."],
     },
+    image: "/poi-images/denmark-birkerød-cities-v2.webp",
   },
   {
     id: "denmark-allerød-cities-v2",
@@ -1408,6 +1451,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Allerød a primit prima sa conexiune feroviară în anul 1864.", "Teatrul Mungo Park a fost fondat în Allerød în anul 1985.", "Tokkekøb Hegn din apropiere este cunoscut pentru numeroasele sale morminte megalitice.", "Municipalitatea Allerød a fost formată în forma sa actuală în anul 1970.", "Lillerød este centrul administrativ al municipalității Allerød.", "Orașul este situat la aproximativ 30 de kilometri nord-vest de centrul Copenhagăi."],
       en: ["Allerød received its first railway connection in 1864.", "The Mungo Park theatre was established in Allerød in 1985.", "The nearby Tokkekøb Hegn forest is famous for its numerous megalithic tombs.", "Allerød Municipality was formed in its current configuration in 1970.", "The town of Lillerød serves as the administrative center of Allerød Municipality.", "Allerød is located about 30 kilometers northwest of central Copenhagen."],
     },
+    image: "/poi-images/denmark-allerød-cities-v2.webp",
   },
   {
     id: "denmark-fredensborg-cities-v2",
@@ -1440,6 +1484,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Palatul Fredensborg a fost inaugurat în anul 1722.", "Lacul Esrum are o adâncime maximă de aproximativ 22 de metri.", "Parcul palatului acoperă o suprafață de circa 120 de hectare.", "În 'Valea Norvegienilor' se află 70 de sculpturi reprezentând pescari norvegieni și feroezi.", "Fredensborg a fost conectat la linia ferată de nord în anul 1864.", "Orașul este situat în inima Parcului Național Kongernes Nordsjælland."],
       en: ["Fredensborg Palace was inaugurated in the year 1722.", "Lake Esrum has a maximum depth of approximately 22 meters.", "The palace gardens cover an area of roughly 120 hectares.", "The 'Valley of the Norwegians' contains 70 sculptures of Norwegian and Faroese people.", "Fredensborg was connected to the North Line railway in 1864.", "The town is located at the center of the National Park Kongernes Nordsjælland."],
     },
+    image: "/poi-images/denmark-fredensborg-cities-v2.webp",
   },
   {
     id: "denmark-humlebæk-cities-v2",
@@ -1472,6 +1517,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Muzeul Louisiana a fost fondat în anul 1958 de Knud W. Jensen.", "Numele 'Humlebæk' a fost menționat documentar pentru prima dată în 1582.", "Biserica din Humlebæk a fost construită în anul 1868 în stil neoromanic.", "Gara din Humlebæk a fost deschisă în anul 1897 pe linia ferată de coastă.", "Muzeul Louisiana înregistrează anual peste 600.000 de vizitatori.", "Portul din Humlebæk era folosit în trecut în principal pentru pescuitul de hering."],
       en: ["The Louisiana Museum was founded in 1958 by Knud W. Jensen.", "The name 'Humlebæk' was first recorded in documents in 1582.", "Humlebæk Church was built in 1868 in the Neo-Romanesque style.", "Humlebæk station opened in 1897 as part of the Coast Line railway.", "The Louisiana Museum attracts over 600,000 visitors annually.", "The harbor of Humlebæk was historically vital for herring fishing."],
     },
+    image: "/poi-images/denmark-humlebæk-cities-v2.webp",
   },
   {
     id: "denmark-nivå-cities-v2",
@@ -1504,6 +1550,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Fabrica de cărămizi Nivaagaard a fost fondată în anul 1701.", "Galeria de Artă Nivaagaard a fost deschisă publicului în anul 1908.", "Cuptorul inelar al muzeului cărămizii este unul dintre cele mai vechi de acest tip din lume.", "Nivå se află la aproximativ 30 de kilometri nord de Copenhaga.", "Rezervația naturală Nivå Bugt Strandenge este un loc important de cuibărit pentru păsări.", "Marina din Nivå oferă spațiu pentru aproximativ 400 de ambarcațiuni de agrement."],
       en: ["The Nivaagaard Brickworks was established in the year 1701.", "The Nivaagaard Picture Gallery opened to the public in 1908.", "The brickworks museum's ring kiln is one of the oldest of its kind in the world.", "Nivå is located approximately 30 kilometers north of Copenhagen.", "The Nivå Bugt Strandenge nature reserve is a vital breeding ground for birds.", "Nivå Marina has the capacity to accommodate around 400 leisure boats."],
     },
+    image: "/poi-images/denmark-nivå-cities-v2.webp",
   },
   {
     id: "denmark-kokkedal-cities-v2",
@@ -1536,6 +1583,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Clădirea principală actuală a Castelului Kokkedal a fost construită în anul 1866.", "Clubul de Golf Kokkedal a fost fondat în 1971 și dispune de un teren cu 18 găuri.", "Proiectul 'Grădina Albastru-Verde Kokkedal' cuprinde peste 60 de măsuri individuale.", "Gara Kokkedal a fost deschisă în anul 1906 pe linia ferată de coastă.", "Kokkedal se află la aproximativ 28 de kilometri nord de centrul Copenhagăi.", "Zona se învecinează direct cu râul Usserød Å."],
       en: ["The current main building of Kokkedal Castle was constructed in 1866.", "Kokkedal Golf Club was founded in 1971 and features an 18-hole course.", "The 'Blue-Green Garden Kokkedal' project consists of over 60 individual measures.", "Kokkedal station was opened in 1906 on the Coast Line railway.", "Kokkedal is located approximately 28 kilometers north of Copenhagen city center.", "The area is directly bordered by the Usserød Å stream."],
     },
+    image: "/poi-images/denmark-kokkedal-cities-v2.webp",
   },
   {
     id: "denmark-hørsholm-cities-v2",
@@ -1568,6 +1616,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Palatul Hirschholm a fost finalizat în anul 1744.", "Biserica actuală din Hørsholm a fost proiectată în 1823 de C.F. Hansen.", "Arboretul danez cuprinde aproximativ 2.000 de specii diferite de arbori și arbuști.", "Hørsholm se află la aproximativ 25 de kilometri nord de Copenhaga.", "Muzeul Vânătorii și Silviculturii a avut sediul în Hørsholm pentru o lungă perioadă.", "Orașul a fost recunoscut oficial ca oraș de piață în anul 1739."],
       en: ["Hirschholm Palace was completed in the year 1744.", "The current Hørsholm Church was designed by C.F. Hansen in 1823.", "The Danish Arboretum contains roughly 2,000 different species of trees and shrubs.", "Hørsholm is located approximately 25 kilometers north of Copenhagen.", "The Museum of Hunting and Forestry was long established in Hørsholm.", "The town was officially recognized as a market town in 1739."],
     },
+    image: "/poi-images/denmark-hørsholm-cities-v2.webp",
   },
   {
     id: "denmark-vedbæk-cities-v2",
@@ -1600,6 +1649,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["„Descoperirile de la Vedbæk” datează din jurul anului 5000 î.Hr.", "Gara Vedbæk a fost deschisă în anul 1897.", "Conacul Enrum a fost finalizat în forma sa actuală în anul 1864.", "Vedbæk se află la aproximativ 20 de kilometri nord de Copenhaga.", "Biserica din Vedbæk a fost inaugurată în anul 1871.", "Portul din Vedbæk oferă spațiu pentru peste 400 de ambarcațiuni."],
       en: ["The 'Vedbæk Finds' date back to approximately 5000 BC.", "Vedbæk station was opened in the year 1897.", "The Enrum estate in its current form was completed in 1864.", "Vedbæk is located about 20 kilometers north of Copenhagen.", "Vedbæk Church was inaugurated in the year 1871.", "Vedbæk Harbor has a capacity for over 400 boats."],
     },
+    image: "/poi-images/denmark-vedbæk-cities-v2.webp",
   },
   {
     id: "denmark-rungsted-cities-v2",
@@ -1632,6 +1682,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Karen Blixen s-a născut în anul 1885 la Rungstedlund.", "Muzeul Rungstedlund a fost deschis în anul 1991.", "Clubul de Golf Rungsted a fost fondat în anul 1937.", "Rungsted Havn oferă locuri de acostare pentru aproximativ 800 de ambarcațiuni.", "Localitatea se află la circa 25 de kilometri nord de centrul Copenhagăi.", "Rungstedlund cuprinde un parc și o pădure de 15 hectare."],
       en: ["Karen Blixen was born in Rungstedlund in the year 1885.", "The Rungstedlund Museum was opened to the public in 1991.", "Rungsted Golf Club was established in 1937.", "Rungsted Harbor can accommodate approximately 800 boats.", "The town is located about 25 kilometers north of central Copenhagen.", "Rungstedlund includes a 15-hectare park and woodland area."],
     },
+    image: "/poi-images/denmark-rungsted-cities-v2.webp",
   },
   {
     id: "denmark-taarbæk-cities-v2",
@@ -1664,6 +1715,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Taarbæk a fost atestat documentar ca sat de pescari în secolul XVI.", "Biserica locală a fost construită și finalizată în anul 1864.", "Localitatea se află la granița parcului Jægersborg Dyrehaven, sit UNESCO.", "Distanța rutieră până în centrul orașului Copenhaga este de 12 km.", "Zona este cunoscută pentru vilele sale luxoase din secolul al XIX-lea.", "Portul local servește astăzi în principal ambarcațiunilor de agrement."],
       en: ["Taarbæk originated as a fishing settlement in the 16th century.", "The Taarbæk Church was constructed and opened in 1864.", "It is bordered by the UNESCO-listed Jægersborg Dyrehaven park.", "The village is situated 12 kilometers north of Copenhagen's center.", "Through-traffic for motor vehicles is largely restricted in the area.", "The harbor remains a focal point for the local sailing community."],
     },
+    image: "/poi-images/denmark-taarbæk-cities-v2.webp",
   },
   {
     id: "denmark-klampenborg-cities-v2",
@@ -1696,6 +1748,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Dyrehavsbakken, fondat în 1583 în Klampenborg, este cel mai vechi parc de distracții.", "Teatrul Bellevue a fost proiectat de Arne Jacobsen și inaugurat în 1936.", "Gara Klampenborg a fost pusă în funcțiune în anul 1863.", "Hipodromul Klampenborg Galopbane funcționează aici din anul 1910.", "Plaja Bellevue este celebră pentru designul său modernist din anii '30.", "Zona oferă acces la rezervația Dyrehaven, parte a patrimoniului UNESCO."],
       en: ["Klampenborg is home to Dyrehavsbakken, the world's oldest amusement park (1583).", "Arne Jacobsen designed the functionalist Bellevue Theatre in 1936.", "The Klampenborg railway station was first opened in 1863.", "The Klampenborg Racecourse for galloping horses was established in 1910.", "Bellevue Beach features iconic blue-and-white striped lifeguard towers.", "The area is the gateway to the UNESCO World Heritage Jægersborg Dyrehaven."],
     },
+    image: "/poi-images/denmark-klampenborg-cities-v2.webp",
   },
   {
     id: "denmark-charlottenlund-cities-v2",
@@ -1728,6 +1781,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Palatul Charlottenlund a fost finalizat în anul 1733 pentru familia regală.", "Fortul local a fost construit în 1886 și transformat ulterior în parc.", "Pădurea Charlottenlund Skov acoperă o suprafață de aproximativ 80 de hectare.", "Acvariul Danez a funcționat aici timp de 73 de ani, începând cu 1939.", "Gara Charlottenlund a fost deschisă în cadrul liniei Nordbanen în 1863.", "Vilele din zonă sunt considerate printre cele mai scumpe proprietăți din Danemarca."],
       en: ["Charlottenlund Palace was built between 1731 and 1733 for royalty.", "The Charlottenlund Fort was established in 1886 for coastal defense.", "Charlottenlund Skov is a popular recreational forest adjacent to the sea.", "The Danish Aquarium was located here from 1939 until its closure in 2012.", "The local railway station opened in 1863 on the North Line.", "The district is part of Gentofte, one of Denmark's wealthiest municipalities."],
     },
+    image: "/poi-images/denmark-charlottenlund-cities-v2.webp",
   },
   {
     id: "denmark-hellerup-cities-v2",
@@ -1760,6 +1814,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Fabrica de bere Tuborg a fost înființată în Hellerup în anul 1873.", "Centrul Experimentarium a fost redeschis în format modern în 2017.", "Biserica Hellerup datează din anul 1900, fiind construită din cărămidă roșie.", "Gara Hellerup a fost inaugurată în 1863 și modernizată succesiv.", "Multe dintre ambasadele străine din Danemarca își au sediul în Hellerup.", "Tuborg Havn include un port privat și centre comerciale moderne."],
       en: ["The Tuborg Brewery was established in Hellerup in 1873.", "Experimentarium is a premier science museum located in the district.", "Hellerup Church was completed in 1900 and is a local landmark.", "Hellerup Station opened in 1863 and serves S-train and regional lines.", "The district is home to a high concentration of foreign embassies.", "Tuborg Havn is a contemporary waterfront development on former industrial land."],
     },
+    image: "/poi-images/denmark-hellerup-cities-v2.webp",
   },
   {
     id: "denmark-nordhavn-cities-v2",
@@ -1792,6 +1847,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Planul de dezvoltare pentru Nordhavn a fost aprobat în anul 2009.", "Clădirea UN City a fost inaugurată oficial în iulie 2013.", "Turnul 'The Silo' are 17 etaje și a fost finalizat în forma actuală în 2017.", "Extinderea liniei de metrou M4 către Nordhavn a fost finalizată în 2020.", "Konditaget Lüders acoperă o suprafață de 2.400 metri pătrați pe acoperiș.", "Cartierul este proiectat să găzduiască în final peste 40.000 de rezidenți."],
       en: ["Nordhavn's transformation into a residential area began in 2009.", "The UN City complex was officially opened in July 2013.", "The Silo residential building stands 62 meters tall with 17 floors.", "Two new metro stations were opened in Nordhavn in March 2020.", "Konditaget Lüders is an innovative public space on a rooftop.", "The district aims to be a CO2-neutral urban area by design."],
     },
+    image: "/poi-images/denmark-nordhavn-cities-v2.webp",
   },
   {
     id: "denmark-amager-cities-v2",
@@ -1824,6 +1880,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Insula Amager acoperă o suprafață totală de aproximativ 96 km².", "Aeroportul Copenhaga a fost fondat în localitatea Kastrup în 1925.", "Peste 2.000 de hectare din vestul insulei au fost recuperate din mare.", "Podul Øresund pornește de pe Amager și a fost inaugurat în anul 2000.", "Parcul Amager Strandpark are plaje artificiale întinse pe 4,6 km.", "Amager a fost centrul furnizării de legume pentru Copenhaga din 1521."],
       en: ["Amager island spans a total area of approximately 96 square kilometers.", "Copenhagen Airport was established on the island in 1925.", "Much of western Amager consists of reclaimed land from the mid-20th century.", "The Øresund Bridge connection to Sweden was opened in July 2000.", "Amager Strandpark features 4.6 kilometers of artificial beachfront.", "The island’s highest natural point is only 22 meters above sea level."],
     },
+    image: "/poi-images/denmark-amager-cities-v2.webp",
   },
   {
     id: "denmark-dragør-cities-v2",
@@ -1856,6 +1913,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Dragør a fost menționat pentru prima dată în secolul al XII-lea.", "Fermierii olandezi s-au stabilit în zonă în anul 1521.", "În secolul XVIII, Dragør era al doilea cel mai important port danez.", "Muzeul Dragør este găzduit într-o clădire istorică din 1750.", "Portul vechi a fost extins la dimensiunile actuale în anul 1844.", "Orașul este cunoscut pentru serviciile sale istorice de pilotaj maritim."],
       en: ["Dragør was first mentioned in historical records in the 12th century.", "Dutch settlers were granted land in the area by the King in 1521.", "By the 18th century, Dragør was a major shipping and piloting center.", "The Dragør Museum is located in a historic building dating from 1750.", "The harbor underwent a significant expansion in 1844.", "The town features approximately 70 protected historic buildings."],
     },
+    image: "/poi-images/denmark-dragør-cities-v2.webp",
   },
   {
     id: "denmark-taarnby-cities-v2",
@@ -1888,6 +1946,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Biserica Tårnby a fost construită inițial în secolul al XII-lea.", "Municipalitatea Tårnby are o populație de aproximativ 43.000 de locuitori.", "Aeroportul Copenhaga ocupă o suprafață extinsă în această zonă.", "Tårnby a fost reorganizată ca municipalitate modernă în anul 1970.", "Gara Tårnby a fost dată în folosință în anul 1998.", "Autostrada E20 traversează municipalitatea printr-o secțiune îngropată."],
       en: ["Tårnby Church dates back to the 12th century.", "The municipality of Tårnby has a population of around 43,000.", "Much of Copenhagen Airport's infrastructure is located within Tårnby.", "Tårnby became an independent municipality in 1970.", "Tårnby Station opened in 1998 as part of the Øresund line.", "The E20 motorway passes through the town via a covered tunnel."],
     },
+    image: "/poi-images/denmark-taarnby-cities-v2.webp",
   },
   {
     id: "denmark-kastrup-cities-v2",
@@ -1920,6 +1979,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Complexul industrial Kastrup Værk a fost fondat în 1749.", "Aeroportul internațional din Kastrup a fost deschis în 1925.", "Acvariul 'Den Blå Planet' a fost finalizat în anul 2013.", "Kastrup Søbad este o structură din lemn premiată, construită în 2004.", "Metroul conectează direct Kastrup de centrul orașului din 2007.", "Portul local are o istorie de peste două secole de utilizare comercială."],
       en: ["Kastrup Værk was established as a lime factory in 1749.", "Copenhagen Airport in Kastrup officially opened in 1925.", "The National Aquarium Denmark opened its doors in 2013.", "Kastrup Søbad is a renowned circular sea bath built in 2004.", "The M2 Metro line was extended to Kastrup in 2007.", "Kastrup serves as a major railway station for regional traffic."],
     },
+    image: "/poi-images/denmark-kastrup-cities-v2.webp",
   },
   {
     id: "denmark-valby-garden-cities-v2",
@@ -1952,6 +2012,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Søndermarken a fost fondat în anii 1730 ca parte a domeniului regal.", "Parcul acoperă o suprafață totală de 32 de hectare.", "Rezervoarele subterane Cisternerne au o adâncime de 16 metri.", "Monumentul Mindehøjen a fost inaugurat oficial în anul 1925.", "Parcul a fost deschis publicului larg în secolul al XIX-lea.", "Zona este cunoscută pentru relieful său neobișnuit de deluros."],
       en: ["Søndermarken was created in the 1730s as a royal palace garden.", "The total area of the park is approximately 32 hectares.", "The Cisterns museum is located in a former 16-meter deep reservoir.", "The Danish-American memorial, Mindehøjen, was established in 1925.", "The landscape was converted to an English garden style in the 1800s.", "The park offers views of the adjacent Copenhagen Zoo’s elephant house."],
     },
+    image: "/poi-images/denmark-valby-garden-cities-v2.webp",
   },
   {
     id: "denmark-vanløse-cities-v2",
@@ -1984,6 +2045,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Vanløse a fost încorporat oficial în orașul Copenhaga la 1 ianuarie 1901.", "Lacul Damhus, situat în district, are o suprafață de aproximativ 46 de hectare.", "Stația de metrou Vanløse este terminalul vestic pentru liniile M1 și M2 din 2002.", "Biserica Vanløse a fost construită în anul 1909 în stil romantic național.", "Districtul se întinde pe o suprafață de circa 7 kilometri pătrați.", "Populația actuală a districtului Vanløse este de aproximativ 41.000 de locuitori."],
       en: ["Vanløse was officially incorporated into Copenhagen on January 1, 1901.", "Damhus Lake in the district covers a water area of approximately 46 hectares.", "Vanløse Metro Station has served as the western terminus for M1 and M2 since 2002.", "The local Vanløse Church was constructed in 1909 in national romantic style.", "The district encompasses a total land area of roughly 7 square kilometers.", "The current population of Vanløse is estimated at around 41,000 people."],
     },
+    image: "/poi-images/denmark-vanløse-cities-v2.webp",
   },
   {
     id: "denmark-brønshøj-cities-v2",
@@ -2016,6 +2078,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Biserica Brønshøj datează din 1180 și este cea mai veche clădire din Copenhaga.", "Carlstad, o tabără suedeză cu 30.000 de soldați, a fost stabilită aici în 1658.", "Turnurile Bellahøj au fost construite între 1951 și 1956, fiind primele din Danemarca.", "Brønshøj a fost anexat oficial la municipalitatea Copenhaga în anul 1901.", "Turnul de apă din Brønshøj, construit în 1928, este un reper vizual important.", "Utterslev Mose este o rezervație naturală de peste 200 de hectare aflată în apropiere."],
       en: ["Brønshøj Church was built in 1180, making it the oldest building in Copenhagen.", "The Swedish military camp Carlstad housed 30,000 soldiers here in 1658.", "The Bellahøj high-rises were constructed between 1951 and 1956 as Denmark's first.", "Brønshøj was officially incorporated into the City of Copenhagen in 1901.", "The Brønshøj Water Tower, completed in 1928, is a prominent local landmark.", "Utterslev Mose nearby is a nature reserve spanning over 200 hectares."],
     },
+    image: "/poi-images/denmark-brønshøj-cities-v2.webp",
   },
   {
     id: "denmark-husum-cities-v2",
@@ -2048,6 +2111,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Husum a fost încorporat oficial în municipalitatea Copenhaga în anul 1901.", "Parcul Husum a fost amenajat în anii 1940 ca principală zonă verde.", "Gara de trenuri S-tog Husum conectează zona cu centrul încă din 1894.", "Piața Husum Torv este centrul comercial al cartierului de peste 100 de ani.", "Cartierul se învecinează direct cu rezervația de 200 de hectare Utterslev Mose.", "Populația actuală a districtului Husum este de aproximativ 15.000 de locuitori."],
       en: ["Husum was officially incorporated into the City of Copenhagen in 1901.", "Husum Park was established in the 1940s as a primary recreational area.", "Husum S-train station has connected the area to the network since 1894.", "Husum Torv has been the central marketplace of the district for over a century.", "The district shares a border with the 200-hectare Utterslev Mose nature site.", "The current population of Husum is approximately 15,000 residents."],
     },
+    image: "/poi-images/denmark-husum-cities-v2.webp",
   },
   {
     id: "denmark-nørrebro-cities-v2",
@@ -2080,6 +2144,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Nørrebrogade este considerată una dintre cele mai circulate piste de biciclete din lume.", "Cimitirul Assistens adăpostește mormântul scriitorului Hans Christian Andersen.", "Dezvoltarea urbană a districtului a început în 1852, după dărâmarea fortificațiilor.", "Parcul Superkilen a primit premii de arhitectură de prestigiu în anul 2013.", "În acest district sunt reprezentate peste 50 de naționalități diferite.", "Gara Nørrebro este un nod vital pentru rețeaua S-tog și linia de metrou Cityringen."],
       en: ["Nørrebrogade is recognized as one of the world's busiest cycling streets.", "Assistens Cemetery contains the grave of the famous author Hans Christian Andersen.", "Nørrebro's urban development accelerated after 1852 following the wall removal.", "The Superkilen park won major international architecture awards in 2013.", "Residents from over 50 different nationalities live in this diverse district.", "Nørrebro Station is a major interchange for S-trains and the City Circle Metro."],
     },
+    image: "/poi-images/denmark-nørrebro-cities-v2.webp",
   },
   {
     id: "denmark-østerbro-cities-v2",
@@ -2112,6 +2177,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Fælledparken din Østerbro este cel mai mare parc din Copenhaga, având 58 de hectare.", "Stadionul Parken are o capacitate de aproximativ 38.000 de locuri.", "Statuia Micii Sirene de pe digul Langelinie a fost inaugurată în anul 1913.", "Østerbro a fost primul district din Copenhaga care a beneficiat de legătură S-tog.", "Østerbrogade este una dintre cele mai lungi și exclusiviste străzi comerciale daneze.", "Districtul găzduiește numeroase ambasade și reședințe diplomatice străine."],
       en: ["Fælledparken in Østerbro is the largest park in Copenhagen, covering 58 hectares.", "The Parken Stadium has a seating capacity of approximately 38,000 spectators.", "The Little Mermaid statue at Langelinie was first unveiled in 1913.", "Østerbro was the first district in Copenhagen to be connected to the S-train network.", "Østerbrogade is one of the longest and most prestigious shopping streets in Denmark.", "The district is home to a high concentration of foreign embassies and consulates."],
     },
+    image: "/poi-images/denmark-østerbro-cities-v2.webp",
   },
   {
     id: "denmark-vesterbro-cities-v2",
@@ -2144,6 +2210,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Kødbyen, districtul ambalării cărnii, a fost construit în stil funcționalist în 1934.", "Berăria Carlsberg a fost fondată în anul 1847 pe dealul Valby din Vesterbro.", "Vesterbro a fost prima zonă din afara fortificațiilor unde s-a permis construcția.", "Absalon este o fostă biserică ce găzduiește zilnic cine comunitare pentru sute de oameni.", "Districtul adăpostește Muzeul Copenhagăi, situat pe artera Vesterbrogade.", "Strada Istedgade a fost un centru important al rezistenței daneze în timpul ocupației."],
       en: ["Kødbyen, the Meatpacking District, was built in functionalist style in 1934.", "The Carlsberg Brewery was founded on a hill in Vesterbro in 1847.", "Vesterbro was the first area outside the city walls where construction was permitted.", "Absalon is a former church that now hosts communal dinners for hundreds daily.", "The Museum of Copenhagen is located in the heart of Vesterbro on Vesterbrogade.", "Istedgade was a significant center for the Danish resistance during WWII."],
     },
+    image: "/poi-images/denmark-vesterbro-cities-v2.webp",
   },
   {
     id: "denmark-christianshavn-cities-v2",
@@ -2176,6 +2243,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Regele Christian al IV-lea a fondat Christianshavn în anul 1618 ca oraș fortificat.", "Turla Bisericii Mântuitorului a fost finalizată în 1752, mult după construcția navei.", "Christiania ocupă o suprafață de aproximativ 34 de hectare pe vechile fortificații.", "Canalele din Christianshavn au fost construite inițial pentru traficul de mărfuri.", "Restaurantul Noma, situat aici, a fost desemnat de mai multe ori cel mai bun din lume.", "Districtul este conectat de centrul orașului prin podul istoric Knippelsbro."],
       en: ["King Christian IV founded Christianshavn in 1618 as a fortified merchant city.", "The spire of the Church of Our Saviour was completed in 1752.", "Christiania covers an area of about 34 hectares on the former military ramparts.", "The canals of Christianshavn were originally designed for commercial maritime trade.", "The world-renowned restaurant Noma is located in this historic district.", "Knippelsbro bridge connects Christianshavn to the central business district."],
     },
+    image: "/poi-images/denmark-christianshavn-cities-v2.webp",
   },
   {
     id: "denmark-islands-brygge-cities-v2",
@@ -2208,6 +2276,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Islands Brygge a fost creat începând cu 1905 prin asanarea fundului mării.", "Baia portuară Havnebadet a fost prima de acest fel din Copenhaga, în 2002.", "Silozurile Gemini Residence au fost convertite în locuințe de lux în anul 2005.", "Bryggebroen a fost în 2006 primul pod exclusiv pentru biciclete din port.", "Explozia devastatoare de la Soja-Kagefabrik din 1980 a marcat istoria zonei.", "Districtul numără astăzi aproximativ 14.000 de locuitori în apartamente moderne."],
       en: ["Islands Brygge was created through land reclamation starting in 1905.", "The Havnebadet Harbour Bath was the first of its kind in Copenhagen when it opened in 2002.", "The Gemini Residence silos were converted into luxury apartments in 2005.", "Bryggebroen was the first bridge in the harbor dedicated solely to cyclists and pedestrians in 2006.", "A massive explosion at the Soy Cake Factory in 1980 led to the end of heavy industry.", "The district is currently home to approximately 14,000 residents in modern waterfront units."],
     },
+    image: "/poi-images/denmark-islands-brygge-cities-v2.webp",
   },
   {
     id: "denmark-sydhavn-cities-v2",
@@ -2240,6 +2309,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Sydhavn a fost dezvoltat începând cu 1915 prin asanări masive ale terenului.", "Piața Anker Jørgensens îl onorează pe fostul premier danez care a locuit în cartier.", "Noul cartier Sluseholmen este construit pe opt insule artificiale distincte.", "Ecluza 'Slusen' a fost construită în 1903 pentru a controla curenții din port.", "Extinderea liniei de metrou M4 către Sydhavn include cinci stații noi.", "Rezervația Sydhavnstippen adăpostește oi și alpaca în libertate pe un fost sit industrial."],
       en: ["Sydhavn was developed through massive land reclamation projects starting in 1915.", "Anker Jørgensens Plads is named after the former Prime Minister who lived here.", "The Sluseholmen residential area is built on eight separate man-made islands.", "The 'Slusen' lock was completed in 1903 to manage harbor water currents.", "The M4 Metro extension to Sydhavn introduces five new underground stations.", "The Sydhavnstippen nature reserve is home to grazing sheep and alpacas."],
     },
+    image: "/poi-images/denmark-sydhavn-cities-v2.webp",
   },
   {
     id: "denmark-emdrup-cities-v2",
@@ -2272,6 +2342,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Emdrup a fost anexat la Copenhaga în 1901 ca parte a unității Brønshøj-Rønnebjerg.", "Lacul Emdrup a făcut parte din prima rețea de alimentare cu apă a orașului în secolul XVI.", "Biserica Emdrup a fost sfințită în 1954, fiind opera arhitectului Christian Tyge Bruun.", "Emdrupborg a fost construit în timpul ocupației germane ca școală de băieți.", "Gara S-tog Emdrup a fost deschisă în 1906 pe fosta linie ferată Slangerup.", "Emdrup are în prezent o populație de aproximativ 13.000 de locuitori."],
       en: ["Emdrup was incorporated into Copenhagen in 1901 as part of the Brønshøj area.", "Emdrup Lake was integrated into Copenhagen's first water supply system in the 1500s.", "The Emdrup Church was consecrated in 1954 and designed by Christian Tyge Bruun.", "Emdrupborg was originally built during the German occupation as a boys' school.", "Emdrup S-train station opened in 1906 as part of the Slangerup railway line.", "The district of Emdrup currently has a population of approximately 13,000 people."],
     },
+    image: "/poi-images/denmark-emdrup-cities-v2.webp",
   },
   {
     id: "denmark-dyssegård-cities-v2",
@@ -2304,6 +2375,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Face parte din municipalitatea Gentofte", "Stația de tren S a fost deschisă pe 15 mai 1936", "Biserica Dyssegård a fost construită în 1961 de Holger Jensen", "Situat în imediata apropiere a lacului Gentofte", "Altitudinea medie este de aproximativ 15 metri", "Codul poștal este 2870 Dyssegård"],
       en: ["Part of Gentofte Municipality", "S-train station opened on May 15, 1936", "Dyssegård Church built in 1961 by Holger Jensen", "Located close to Gentofte Lake", "Average elevation is 15 meters", "Postal code is 2870 Dyssegård"],
     },
+    image: "/poi-images/denmark-dyssegård-cities-v2.webp",
   },
   {
     id: "denmark-grøndal-cities-v2",
@@ -2336,6 +2408,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Situat la granița dintre Copenhaga și Frederiksberg", "Parcul Grøndal se întinde pe o lungime de aproape 2 km", "Grøndal MultiCenter este situat într-o fostă fabrică", "Stația este deservită de linia F a trenului S", "Arhitectura include blocuri de cărămidă roșie și case terasate", "Codul poștal al cartierului este 2720 Vanløse"],
       en: ["Located on the border of Copenhagen and Frederiksberg", "Grøndal Park stretches for nearly 2 km in length", "Grøndal MultiCenter is located in an old factory building", "Station is served by the S-train Line F", "Architecture features red-brick blocks and terraced houses", "Postal code for the neighborhood is 2720 Vanløse"],
     },
+    image: "/poi-images/denmark-grøndal-cities-v2.webp",
   },
   {
     id: "denmark-bispebjerg-cities-v2",
@@ -2368,6 +2441,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Biserica lui Grundtvig a fost construită din aproximativ 6 milioane de cărămizi", "Spitalul Bispebjerg a fost inaugurat în anul 1913", "Cimitirul se întinde pe o suprafață de circa 43 de hectare", "Construcția bisericii a fost finalizată complet în 1940", "Faimos pentru aleea cu cireși japonezi înfloriți primăvara", "Situat pe o colină la aproximativ 30 de metri deasupra mării"],
       en: ["Grundtvig's Church was built using approx. 6 million bricks", "Bispebjerg Hospital was founded in 1913", "The cemetery covers an area of about 43 hectares", "The church construction was fully completed in 1940", "Famous for the cherry blossom avenue in spring", "Located on a hill about 30 meters above sea level"],
     },
+    image: "/poi-images/denmark-bispebjerg-cities-v2.webp",
   },
   {
     id: "denmark-nordvest-cities-v2",
@@ -2400,6 +2474,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Abrevierea oficială pentru acest district este NV", "Centrul Biblioteket a fost proiectat de COBE în 2011", "A fost un centru important al micii industrii încă din 1900", "Proiectul rezidențial Emaljehaven a fost finalizat în 2007", "Rentemestervej este axa centrală pentru industriile creative", "Codul poștal al zonei este 2400 Copenhaga NV"],
       en: ["The official abbreviation for the district is NV", "The Library (Biblioteket) was designed by COBE in 2011", "Has been an important hub for small industry since 1900", "Emaljehaven residential project was completed in 2007", "Rentemestervej is the central axis for creative industries", "Postal code for the area is 2400 Copenhagen NV"],
     },
+    image: "/poi-images/denmark-nordvest-cities-v2.webp",
   },
   {
     id: "denmark-valby-park-cities-v2",
@@ -2432,6 +2507,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Suprafața totală a parcului este de aproximativ 64,3 hectare", "A fost înființat oficial ca parc public în anul 1939", "Grădina de trandafiri conține peste 12.000 de tufe individuale", "Noua plajă naturală a fost deschisă în iunie 2021", "Găzduiește evenimentul anual Copenhagen Historic Grand Prix", "Include 17 grădini tematice diferite"],
       en: ["The park's total area is approximately 64.3 hectares", "It was officially established as a park in 1939", "The rose garden contains over 12,000 individual rose bushes", "The new swimming beach was opened in June 2021", "Venue for the annual Copenhagen Historic Grand Prix", "Contains 17 different themed gardens"],
     },
+    image: "/poi-images/denmark-valby-park-cities-v2.webp",
   },
   {
     id: "denmark-hvidovre-strand-cities-v2",
@@ -2464,6 +2540,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Proiectul de renovare s-a desfășurat între 2012 și 2017", "S-au adăugat aproximativ 15.000 de metri cubi de nisip nou", "Se învecinează cu rezervația naturală Kalvebod Fælled", "Adâncimea apei este foarte mică, sub 1,5 metri în general", "Include o zonă verde extinsă de-a lungul coastei", "Accesibil prin poteca de coastă numită Strandstien"],
       en: ["Renovation project took place between 2012 and 2017", "Approx. 15,000 cubic meters of new sand were added", "Borders the Kalvebod Fælled nature reserve", "Water depth is very shallow, mostly under 1.5 meters", "Includes a green coastal park belt", "Accessible via the coastal trail Strandstien"],
     },
+    image: "/poi-images/denmark-hvidovre-strand-cities-v2.webp",
   },
   {
     id: "denmark-greve-strand-cities-v2",
@@ -2496,6 +2573,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Fortul Mosede a fost construit între 1913 și 1916", "Plaja se întinde pe o lungime de aproximativ 8 km", "Dezvoltarea majoră a localității a început în anii 1960", "Face parte din punct de vedere administrativ din Greve", "Conectat direct la autostrada E20", "Codul poștal este 2670 Greve"],
       en: ["Mosede Fort was built between 1913 and 1916", "The beach stretches for about 8 km in length", "Major urban development began in the 1960s", "Administratively part of Greve Municipality", "Directly connected to the E20 motorway", "Postal code is 2670 Greve"],
     },
+    image: "/poi-images/denmark-greve-strand-cities-v2.webp",
   },
   {
     id: "denmark-hundige-cities-v2",
@@ -2528,6 +2606,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Centrul comercial Waves are o suprafață de circa 110.000 m2", "Biserica Hundige a fost inaugurată în anul 1976", "Portul de agrement este un centru pentru activități maritime", "Stația de tren S este deservită de liniile A și E", "Situat la aproximativ 20 km de centrul Copenhagăi", "Parte a expansiunii urbane planificate în Golful Køge"],
       en: ["Waves shopping mall covers approx. 110,000 m2", "Hundige Church was inaugurated in 1976", "The marina is a hub for maritime leisure activities", "S-train station is served by Line A and E", "Located 20 km from the center of Copenhagen", "Part of the planned Køge Bay urban expansion"],
     },
+    image: "/poi-images/denmark-hundige-cities-v2.webp",
   },
   {
     id: "denmark-karlslunde-cities-v2",
@@ -2560,6 +2639,7 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Bătălia de la Karlslunde a avut loc în anul 1807", "Biserica are origini ce datează din secolul al XII-lea", "Pădurea Karlslunde (Skov) este o zonă naturală importantă", "Divizat într-un sat istoric și o zonă de plajă", "A cunoscut o creștere demografică majoră în anii 1970", "Codul poștal al localității este 2690 Karlslunde"],
       en: ["Battle of Karlslunde occurred in 1807", "The village church has 12th-century origins", "Karlslunde Forest (Skov) is a key natural recreation area", "Divided into a historic village and a beach area", "Experienced major population growth in the 1970s", "Postal code for the area is 2690 Karlslunde"],
     },
+    image: "/poi-images/denmark-karlslunde-cities-v2.webp",
   },
   {
     id: "denmark-solrød-cities-v2",
@@ -2592,5 +2672,6 @@ export const denmarkCitiesV2: POI[] = [
       ro: ["Solrød Center este principalul nod comercial și administrativ", "Karlstrup Kalkgrav este o fostă carieră de calcar cu apă azurie", "Stația de biogaz la scară largă a fost deschisă în 2016", "Linia de coastă este marcată de peisaje de dune protejate", "Stația de tren S Solrød Strand asigură legătura cu capitala", "A devenit municipalitate independentă în anul 1970"],
       en: ["Solrød Center is the central commercial and retail hub", "Karlstrup Kalkgrav is a former lime quarry with azure water", "A large-scale biogas plant was opened in 2016", "The coastline features protected sand dune landscapes", "Solrød Strand station connects the town to the capital", "Became an independent municipality in 1970"],
     },
+    image: "/poi-images/denmark-solrød-cities-v2.webp",
   }
 ];

@@ -31,6 +31,7 @@ export const saintvincentHistoryV2: POI[] = [
       ro: ["Fortăreața stă pe un dop vulcanic masiv", "Construcția a avut loc în timpul domniei regelui George III", "Oferă o vedere de 360 de grade asupra Grenadinelor de Sud", "Dispune de două baterii cu tunuri originale", "Insula se află la doar 50 de metri de Young Island", "Treptele au fost săpate manual în stânca dură"],
       en: ["The fort stands on a massive volcanic plug", "Construction took place during the reign of King George III", "Offers 360-degree views of the southern Grenadines", "Features two batteries with original iron cannons", "The island is located 50 metres off the coast of Young Island", "Steps were laboriously hand-carved into the hard rock"],
     },
+    image: "/poi-images/saintvincent-fort-duvernette-history-v2.webp",
   },
   {
     id: "saintvincent-black-point-tunnel-history-v2",
@@ -62,6 +63,7 @@ export const saintvincentHistoryV2: POI[] = [
       ro: ["Construcția a fost comandată de colonelul Thomas Browne", "Finalizat după aproximativ doi ani de muncă", "Tunelul are o lungime de 300 de picioare (91 metri)", "Considerat unul dintre cele mai importante monumente construite de sclavi", "A permis exportul de zahăr chiar și în condiții de mare agitată", "Situat în actualul Parc al Patrimoniului Black Point"],
       en: ["Construction was commissioned by Colonel Thomas Browne", "Completed after approximately two years of manual labor", "The tunnel is about 300 feet (91 metres) long", "Considered one of the island's most significant slave-built structures", "Enabled sugar exports during rough sea conditions", "Located within the current Black Point Heritage Park"],
     },
+    image: "/poi-images/saintvincent-black-point-tunnel-history-v2.webp",
   },
   {
     id: "saintvincent-layou-petroglyphs-history-v2",
@@ -93,6 +95,7 @@ export const saintvincentHistoryV2: POI[] = [
       ro: ["Datate aproximativ între anii 300 și 600 d.Hr.", "Cea mai mare stâncă cu petroglife din țară", "Create probabil de popoarele Saladoid sau Carib", "Situate pe un bloc masiv de piatră vulcanică", "Înfățișează în total 13 fețe umane diferite", "Protejate oficial ca sit de patrimoniu național"],
       en: ["Dated between 300 AD and 600 AD", "Largest single petroglyph boulder in the country", "Likely created by Saladoid or Carib peoples", "Situated on a massive volcanic rock boulder", "Features a total of 13 distinct human faces", "Officially protected as a national heritage site"],
     },
+    image: "/poi-images/saintvincent-layou-petroglyphs-history-v2.webp",
   },
   {
     id: "saintvincent-st-georges-cathedral-history-v2",
@@ -124,6 +127,7 @@ export const saintvincentHistoryV2: POI[] = [
       ro: ["Construcția actualei clădiri a început în 1820", "Faimoasă pentru fereastra Kempe cu îngerul roșu", "Construită din gresie galbenă locală", "A supraviețuit marelui uragan din 1831", "Găzduiește plăci comemorative pentru oficiali coloniali", "Catedrala servește drept sediu al eparhiei anglicane"],
       en: ["Construction of the current building began in 1820", "Famous for the Kempe window depicting a Red Angel", "Built using locally quarried yellow sandstone", "Survived the Great Hurricane of 1831", "Houses memorial tablets for significant colonial officials", "Serves as the seat of the Anglican Diocese"],
     },
+    image: "/poi-images/saintvincent-st-georges-cathedral-history-v2.webp",
   },
   {
     id: "saintvincent-st-marys-cathedral-history-v2",
@@ -155,6 +159,7 @@ export const saintvincentHistoryV2: POI[] = [
       ro: ["Prima piatră de temelie a fost pusă în 1823", "Renovată major de Dom Charles Verbeke în anii 1930", "Amestec unic de stiluri arhitecturale europene", "Scările interioare sunt decorate cu feronerie artistică", "Situată direct vis-à-vis de catedrala anglicană", "Catedrala Eparhiei Romano-Catolice de Kingstown"],
       en: ["First cornerstone was laid in the year 1823", "Majorly renovated by Dom Charles Verbeke in the 1930s", "Features a unique mix of various European architectural styles", "Interior stairs are decorated with ornate ironwork", "Located directly across from the Anglican Cathedral", "Mother church of the Roman Catholic Diocese of Kingstown"],
     },
+    image: "/poi-images/saintvincent-st-marys-cathedral-history-v2.webp",
   },
   {
     id: "saintvincent-barrouallie-petroglyphs-history-v2",
@@ -186,6 +191,7 @@ export const saintvincentHistoryV2: POI[] = [
       ro: ["Petroglifele au fost sculptate într-un bloc mare de bazalt negru.", "Arheologii estimează vechimea acestora la peste 1.000 de ani.", "Se află la doar câteva sute de metri distanță de linia țărmului.", "Cele mai frecvente motive sunt fețele stilizate cu orbite mari.", "Situl a fost inclus în registrul monumentelor naționale în anul 1990.", "Sculpturi similare pot fi găsite și pe insulele vecine Grenada și Sfânta Lucia."],
       en: ["The petroglyphs were carved into a large boulder of black basalt.", "Archaeologists estimate their age to be over 1,000 years old.", "They are located only a few hundred meters from the coastline.", "The most common motifs are stylized faces with large eye sockets.", "The site was added to the national monument register in 1990.", "Similar carvings can also be found on the neighboring islands of Grenada and St. Lucia."],
     },
+    image: "/poi-images/saintvincent-barrouallie-petroglyphs-history-v2.webp",
   },
   {
     id: "saintvincent-chatoyer-memorial-history-v2",
@@ -217,6 +223,7 @@ export const saintvincentHistoryV2: POI[] = [
       ro: ["Joseph Chatoyer a fost ucis pe dealul Dorsetshire la 14 martie 1795.", "A fost declarat oficial primul erou național al țării în anul 2002.", "Monumentul este situat la o altitudine de aproximativ 180 de metri deasupra mării.", "Ziua de 14 martie este sărbătorită în Sfântul Vincențiu ca 'Ziua Eroilor Naționali'.", "Populația Black Carib era formată din caribi indigeni și sclavi africani evadați.", "Pe locul monumentului se afla anterior un punct important de observație al rebelilor."],
       en: ["Joseph Chatoyer was killed on Dorsetshire Hill on March 14, 1795.", "He was officially declared the country's first national hero in 2002.", "The monument is located at an altitude of approximately 180 meters above sea level.", "March 14 is celebrated in Saint Vincent as 'National Heroes Day'.", "The Black Caribs were a mix of indigenous Caribs and escaped African slaves.", "A key rebel lookout point was formerly located at the site of the monument."],
     },
+    image: "/poi-images/saintvincent-chatoyer-memorial-history-v2.webp",
   },
   {
     id: "saintvincent-kingstown-methodist-church-history-v2",
@@ -248,6 +255,7 @@ export const saintvincentHistoryV2: POI[] = [
       ro: ["Actuala clădire a bisericii a fost sfințită în anul 1841.", "Biserica a fost ridicată pe locul unei foste mănăstiri catolice.", "Multe dintre pietrele originale au fost transportate manual din carierele apropiate.", "În biserică se află una dintre cele mai vechi orgi funcționale de pe insulă.", "Ferestrele sunt proiectate în stil gotic cu arc frânt.", "Congregația a jucat un rol central în educația sclavilor eliberați după 1834."],
       en: ["The current church building was dedicated in 1841.", "The church was erected on the site of a former Catholic convent.", "Many of the original stones were carried by hand from nearby quarries.", "The church houses one of the oldest functioning organs on the island.", "The windows are designed in the Gothic pointed arch style.", "The congregation played a central role in the education of freed slaves after 1834."],
     },
+    image: "/poi-images/saintvincent-kingstown-methodist-church-history-v2.webp",
   },
   {
     id: "saintvincent-argyle-petroglyphs-history-v2",
@@ -279,6 +287,7 @@ export const saintvincentHistoryV2: POI[] = [
       ro: ["Petroglifele au fost sculptate direct în albia râului Argyle.", "Au fost create de locuitorii timpurii din perioada Saladoid, în jurul anului 500 d.Hr.", "Unele dintre desene înfățișează corpuri umane stilizate.", "Situl a fost deschis oficial pentru turism în anul 2017.", "Râul Argyle a fost anterior o sursă importantă de apă dulce pentru așezările indigene.", "Desenele pe stâncă fac parte dintr-o rețea mai largă de situri precolumbiene de pe insulă."],
       en: ["The petroglyphs were carved directly into the bedrock of the Argyle River.", "They were created by early Saladoid inhabitants around 500 AD.", "Some of the drawings depict stylized human figures.", "The site was officially developed for tourism in 2017.", "The Argyle River was formerly a key freshwater source for indigenous settlements.", "The rock drawings are part of a larger network of pre-Columbian sites on the island."],
     },
+    image: "/poi-images/saintvincent-argyle-petroglyphs-history-v2.webp",
   },
   {
     id: "saintvincent-old-public-library-history-v2",
@@ -310,6 +319,7 @@ export const saintvincentHistoryV2: POI[] = [
       ro: ["Biblioteca a fost deschisă oficial în anul 1909.", "Andrew Carnegie a donat 2.000 de lire sterline pentru construcția clădirii.", "Clădirea este construită din piatră de calcar locală și cărămidă.", "A fost prima bibliotecă publică de acest tip din Insulele Windward.", "Etajul superior a fost utilizat anterior pentru conferințe publice și concerte.", "În anul 2012, clădirea a fost renovată integral pentru a-i păstra structura."],
       en: ["The library was officially opened in 1909.", "Andrew Carnegie donated £2,000 for the construction of the building.", "The building is constructed from local limestone and bricks.", "It was the first public library of its kind in the Windward Islands.", "The upper floor was formerly used for public lectures and concerts.", "In 2012, the building underwent extensive renovation to preserve its structure."],
     },
+    image: "/poi-images/saintvincent-old-public-library-history-v2.webp",
   },
   {
     id: "saintvincent-dorsetshire-hill-history-v2",
@@ -341,6 +351,7 @@ export const saintvincentHistoryV2: POI[] = [
       ro: ["Dealul Dorsetshire este situat la aproximativ 180 de metri deasupra nivelului mării.", "Bătălia decisivă împotriva britanicilor a avut loc aici în martie 1795.", "Pe deal se află un monument dedicat lui Joseph Chatoyer.", "În perioada colonială, aici se cultivau plante comerciale de înaltă calitate, cum ar fi tutunul.", "De aici se poate vedea până la insula Bequia în zilele senine.", "Dealul face parte dintr-o centură verde care înconjoară capitala Kingstown."],
       en: ["Dorsetshire Hill is situated approximately 180 meters above sea level.", "The decisive battle against the British took place here in March 1795.", "A monument dedicated to Joseph Chatoyer is located on the hill.", "High-quality cash crops such as tobacco were grown here during the colonial era.", "On clear days, one can see as far as the island of Bequia from here.", "The hill is part of a green belt encircling the capital city of Kingstown."],
     },
+    image: "/poi-images/saintvincent-dorsetshire-hill-history-v2.webp",
   },
   {
     id: "saintvincent-wallilabou-estate-history-v2",
@@ -372,6 +383,7 @@ export const saintvincentHistoryV2: POI[] = [
       ro: ["Plantația a fost fondată inițial la sfârșitul secolului al XVIII-lea.", "Proprietatea dispune de o veche roată hidraulică ce punea în mișcare moara.", "Filmările pentru 'Pirații din Caraibe' au avut loc aici în anul 2003.", "În golful Wallilabou se află un mic port privat.", "Multe elemente de recuzită, cum ar fi spânzurători și tunuri, pot fi văzute încă la fața locului.", "Domeniul găzduiește un mic muzeu cu fotografii și obiecte de la filmări."],
       en: ["The plantation was originally founded in the late 18th century.", "The estate features an old water wheel that formerly powered the mill.", "Filming for 'Pirates of the Caribbean' took place here in 2003.", "A small private harbor is located in Wallilabou Bay.", "Many props such as gallows and cannons are still visible on-site.", "The estate houses a small museum with photos and items from the film production."],
     },
+    image: "/poi-images/saintvincent-wallilabou-estate-history-v2.webp",
   },
   {
     id: "saintvincent-rabacca-dry-river-history-v2",
@@ -403,6 +415,7 @@ export const saintvincentHistoryV2: POI[] = [
       ro: ["Albia râului constă aproape în întregime din tefra vulcanică și resturi.", "Erupția din 1902 a provocat peste 1.500 de victime în această regiune.", "Podul deschis în 2007 este adesea numit 'Podul Speranței'.", "În timpul erupției din 1979, albia s-a umplut din nou cu material lavic proaspăt.", "Râul servește ca un canal natural de drenaj pentru flancul estic al vulcanului.", "În timpul sezonului uscat, nisipul vulcanic este adesea extras ca material de construcție."],
       en: ["The riverbed consists almost entirely of volcanic tephra and debris.", "The 1902 eruption claimed over 1,500 lives in this region.", "The bridge opened in 2007 is often referred to as the 'Bridge of Hope.'", "During the 1979 eruption, the bed filled again with fresh lava material.", "The river serves as a natural drainage channel for the volcano's eastern flank.", "During the dry season, volcanic sand is often mined as construction material."],
     },
+    image: "/poi-images/saintvincent-rabacca-dry-river-history-v2.webp",
   },
   {
     id: "saintvincent-buccament-rock-art-history-v2",
@@ -434,5 +447,6 @@ export const saintvincentHistoryV2: POI[] = [
       ro: ["Petroglifele se află pe un perete vertical de rocă andezitică.", "Există peste 15 motive individuale pe acest perete de stâncă specific.", "Situl se află la aproximativ 2 kilometri de coastă, spre interiorul insulei.", "Simboluri similare au fost găsite în America de Sud, în bazinul Orinoco.", "Valea Buccament este cunoscută și pentru fauna sa bogată de păsări.", "Unele dintre linii au fost trasate cu cretă în trecut, practică interzisă în prezent."],
       en: ["The petroglyphs are located on a vertical wall of andesitic rock.", "There are over 15 individual motifs on this specific rock face.", "The site is situated about 2 kilometers inland from the coast.", "Similar symbols have been found in South America in the Orinoco Basin.", "The Buccament Valley is also known for its rich birdlife.", "Some of the lines were traced with chalk in the past, a practice now prohibited."],
     },
+    image: "/poi-images/saintvincent-buccament-rock-art-history-v2.webp",
   }
 ];

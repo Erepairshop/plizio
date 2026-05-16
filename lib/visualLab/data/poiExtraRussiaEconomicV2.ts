@@ -1053,6 +1053,7 @@ imageHint: "Bilibino nuclear power plant in the snowy Arctic tundra",
       ro: ["Uzina acoperă o suprafață de 600 de hectare.", "Producția anuală atinge 1 milion de vehicule la capacitate maximă.", "Primul model Lada a fost VAZ-2101, bazat pe Fiat 124.", "AvtoVAZ a produs peste 30 de milioane de mașini până în 2020.", "Fabrica are 5 ateliere principale de asamblare.", "Salariul mediu al angajaților este de 40.000 de ruble."],
       en: ["The plant was built with help from Fiat.", "The first Lada model (VAZ-2101) was based on the Fiat 124.", "AvtoVAZ produced over 30 million vehicles by 2020.", "The plant has its own railway network of 180 km.", "Annual energy consumption is about 1.2 TWh.", "The plant contributes 5% of Samara Oblast's GDP."],
     },
+    image: "/poi-images/russia-tolyatti-avto-economic-v2.webp",
   },
   {
     id: "russia-salekhard-arctic-port-economic-v2",
@@ -1085,5 +1086,6 @@ imageHint: "Bilibino nuclear power plant in the snowy Arctic tundra",
       ro: ["Portul are o lungime a cheiului de 1,2 km.", "Adâncimea la chei este de 7 m.", "Sezonul de navigație este de 150 de zile.", "Portul manipulează 300.000 de tone de marfă anual.", "Este utilizat pentru aprovizionarea orașelor arctice.", "Flota de spărgătoare de gheață asigură accesul."],
       en: ["The port handles over 1 million tons of cargo annually.", "The Ob River freezes to a depth of 2 meters.", "Port operations are supported by nuclear icebreakers.", "The port has a storage capacity of 50,000 m² for containers.", "Salekhard Port is a base for Arctic research vessels.", "The port's coordinates are 66°32'N, 66°36'E."],
     },
+    image: "/poi-images/russia-salekhard-arctic-port-economic-v2.webp",
   }
 ];

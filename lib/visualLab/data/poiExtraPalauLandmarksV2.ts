@@ -31,6 +31,7 @@ export const palauLandmarksV2: POI[] = [
       ro: ["Capitoliul a fost inaugurat oficial pe 7 octombrie 2006.", "Costurile de construcție s-au ridicat la circa 45 milioane USD.", "Ngerulmud este cea mai puțin populată capitală din lume.", "Complexul include trei aripi separate pentru puterile statului.", "Designul îmbină elemente neoclasice cu detalii palauene.", "Cupola este vizibilă de la mare distanță pe insula Babeldaob."],
       en: ["The Capitol was officially dedicated on October 7, 2006.", "The construction cost was approximately 45 million US dollars.", "Ngerulmud is the least populous national capital in the world.", "The complex consists of three wings for the branches of government.", "The design blends neoclassical style with local Palauan motifs.", "The central dome is a prominent landmark on Babeldaob Island."],
     },
+    image: "/poi-images/palau-capitol-building-landmarks-v2.webp",
   },
   {
     id: "palau-belau-national-museum-landmarks-v2",
@@ -62,6 +63,7 @@ export const palauLandmarksV2: POI[] = [
       ro: ["Muzeul a fost deschis publicului în anul 1955.", "Este găzduit în fosta stație meteorologică japoneză.", "Colecția cuprinde peste 4500 de obiecte catalogate.", "Un Bai tradițional din lemn este expus în curtea muzeului.", "Muzeul prezintă și expoziții despre biologia marină locală.", "Dispune de o bibliotecă de cercetare pentru istoria Palau-ului."],
       en: ["The museum was officially established in 1955.", "It is housed in a former Japanese weather station building.", "The permanent collection features over 4500 cataloged items.", "A traditional wooden Bai stands on the museum grounds.", "The exhibits cover local maritime history and marine biology.", "It houses a specialized research library for Palauan studies."],
     },
+    image: "/poi-images/palau-belau-national-museum-landmarks-v2.webp",
   },
   {
     id: "palau-etpison-museum-landmarks-v2",
@@ -93,6 +95,7 @@ export const palauLandmarksV2: POI[] = [
       ro: ["Muzeul a fost inaugurat pe 1 august 1999.", "A fost fondat de Mandy și Shallum Etpison.", "Colecția include canoe tradiționale și plăci sculptate (storyboards).", "Există o secțiune importantă dedicată monedelor din mărgele.", "Muzeul susține protejarea dugongilor în apele Palau-ului.", "Clădirea include un magazin cu produse de artizanat local."],
       en: ["The museum officially opened on August 1, 1999.", "It was founded by Mandy and Shallum Etpison.", "The collection includes traditional canoes and storyboards.", "There is a major exhibit on traditional Palauan bead money.", "The museum supports local dugong conservation programs.", "The facility includes a gift shop selling authentic local crafts."],
     },
+    image: "/poi-images/palau-etpison-museum-landmarks-v2.webp",
   },
   {
     id: "palau-badrulchau-monoliths-landmarks-v2",
@@ -124,6 +127,7 @@ export const palauLandmarksV2: POI[] = [
       ro: ["Este cea mai mare concentrare de monoliți din Micronezia.", "Pietrele au o vechime de peste 1800 de ani.", "Situl cuprinde în total 52 de coloane de bazalt.", "Cea mai grea coloană cântărește aproximativ 4,5 tone.", "Monoliții formau probabil baza unui Bai de dimensiuni uriașe.", "Locația oferă o vedere panoramică de 360 de grade asupra coastei."],
       en: ["It is the largest collection of monoliths in Micronesia.", "The stones are estimated to be over 1800 years old.", "The site features a total of 52 distinct basalt pillars.", "The heaviest pillar weighs approximately 4.5 tons.", "The monoliths likely supported the foundation of a massive Bai.", "The location provides a 360-degree panoramic view of the coast."],
     },
+    image: "/poi-images/palau-badrulchau-monoliths-landmarks-v2.webp",
   },
   {
     id: "palau-airai-bai-landmarks-v2",
@@ -155,6 +159,7 @@ export const palauLandmarksV2: POI[] = [
       ro: ["Clădirea a fost construită în jurul anului 1890.", "Are o lungime de 20 de metri și o lățime de 6 metri.", "Acoperișul este realizat din frunze de palmier nipa.", "Sculpturile înfățișează scene din mitologia palauană.", "Bai-ul este așezat pe o platformă masivă de piatră.", "Este unul dintre cele mai fotografiate obiective din Palau."],
       en: ["The building was constructed around the year 1890.", "It measures 20 meters in length and 6 meters in width.", "The thatched roof is made from nipa palm leaves.", "The interior and exterior carvings depict Palauan mythology.", "The Bai rests upon a traditional massive stone platform.", "It is one of the most iconic and photographed sites in Palau."],
     },
+    image: "/poi-images/palau-airai-bai-landmarks-v2.webp",
   },
   {
     id: "palau-japan-palau-bridge-landmarks-v2",
@@ -186,6 +191,7 @@ export const palauLandmarksV2: POI[] = [
       ro: ["Actualul pod a fost deschis pe 11 ianuarie 2002.", "Lungimea totală a structurii este de 413 metri.", "Deschiderea principală măsoară 247 metri.", "Construcția a fost realizată de Kajima Corporation.", "Podul este considerat un cadou oficial din partea Japoniei.", "Înlocuiește vechiul pod construit în 1977 care s-a prăbușit în 1996."],
       en: ["The current bridge was officially opened on January 11, 2002.", "The total length of the structure is 413 meters.", "The main span of the bridge measures 247 meters.", "It was constructed by the Japanese firm Kajima Corporation.", "The bridge was funded by a grant from the Japanese government.", "It replaced the original 1977 bridge that collapsed in 1996."],
     },
+    image: "/poi-images/palau-japan-palau-bridge-landmarks-v2.webp",
   },
   {
     id: "palau-peleliu-wwii-memorial-landmarks-v2",
@@ -217,6 +223,7 @@ export const palauLandmarksV2: POI[] = [
       ro: ["Bătălia de la Peleliu a avut loc între septembrie și noiembrie 1944.", "Peste 10.000 de soldați japonezi au murit în timpul luptelor.", "Forțele americane au suferit peste 1.700 de pierderi umane.", "Există un muzeu dedicat istoriei militare pe insulă.", "Numeroase sisteme de peșteri folosite pentru apărare sunt vizibile.", "Memorialul este vizitat anual de delegații din Japonia și SUA."],
       en: ["The Battle of Peleliu lasted from September to November 1944.", "Over 10,000 Japanese soldiers perished during the defense.", "The United States forces suffered more than 1,700 fatalities.", "The island features a museum dedicated to the conflict's history.", "Many Japanese defensive cave systems remain intact today.", "The memorial is visited annually by high-level Japanese and US delegations."],
     },
+    image: "/poi-images/palau-peleliu-wwii-memorial-landmarks-v2.webp",
   },
   {
     id: "palau-german-lighthouse-landmarks-v2",
@@ -248,6 +255,7 @@ export const palauLandmarksV2: POI[] = [
       ro: ["Farul a fost construit în jurul anului 1900.", "Se află la o altitudine de peste 100 de metri deasupra mării.", "A fost activ în timpul perioadei coloniale germane (1899-1914).", "Ruinele sunt realizate din beton și piatră de corali.", "Locația permitea monitorizarea rutelor maritime strategice.", "Un traseu abrupt de drumeție duce astăzi către rămășițele farului."],
       en: ["The lighthouse was constructed around the year 1900.", "It sits at an elevation of over 100 meters above sea level.", "It operated during the German colonial era (1899-1914).", "The remains are built from a mixture of concrete and coral rock.", "The site provided a clear vantage point for monitoring shipping lanes.", "A steep hiking trail now provides access to the historic ruins."],
     },
+    image: "/poi-images/palau-german-lighthouse-landmarks-v2.webp",
   },
   {
     id: "palau-angaur-lighthouse-landmarks-v2",
@@ -279,6 +287,7 @@ export const palauLandmarksV2: POI[] = [
       ro: ["Construit în jurul anului 1908 de către germani.", "Situat pe cel mai înalt punct din nord-vestul insulei.", "Utilizat pentru protejarea rutelor de export al fosfaților.", "A suferit daune majore în timpul celui de-al Doilea Război Mondial.", "Accesibil astăzi printr-o potecă de drumeție.", "Oferă vizibilitate până la insula vecină Peleliu."],
       en: ["Built around 1908 during the German administration.", "Located on the highest point in northwestern Angaur.", "Served to protect phosphate export shipping routes.", "Suffered significant damage during World War II.", "The ruins are accessible via a designated hiking trail.", "Provides views reaching as far as the island of Peleliu."],
     },
+    image: "/poi-images/palau-angaur-lighthouse-landmarks-v2.webp",
   },
   {
     id: "palau-roman-catholic-church-koror-landmarks-v2",
@@ -310,6 +319,7 @@ export const palauLandmarksV2: POI[] = [
       ro: ["Sediul diecezei catolice din arhipelagul Palau.", "Misiunea originală a fost fondată în anul 1891.", "Reconstruită după distrugerea totală din 1944.", "Cunoscută pentru culoarea exterioară albastru deschis.", "Găzduiește slujbe în mai multe limbi locale și străine.", "Situată strategic lângă centrul comercial al orașului."],
       en: ["Headquarters of the Catholic Diocese in Palau.", "The original mission was founded in 1891.", "Rebuilt after being destroyed in the 1944 bombings.", "Famous for its iconic light-blue exterior paint.", "Hosts regular services in multiple languages.", "Located within walking distance of downtown Koror."],
     },
+    image: "/poi-images/palau-roman-catholic-church-koror-landmarks-v2.webp",
   },
   {
     id: "palau-national-stadium-landmarks-v2",
@@ -341,6 +351,7 @@ export const palauLandmarksV2: POI[] = [
       ro: ["Cunoscut oficial sub numele de PCC Track and Field.", "Locul principal de desfășurare pentru Belau Games.", "Situat în incinta Colegiului Comunitar din Palau.", "Capacitate totală de aproximativ 4.000 de spectatori.", "Stadionul de acasă al echipei naționale de fotbal.", "Modernizat pentru Jocurile din Pacificul de Sud din 1998."],
       en: ["Officially known as the PCC Track and Field.", "Primary venue for the biennial Belau Games.", "Located on the Palau Community College campus.", "Has a total seating capacity of approximately 4,000.", "Home stadium for the Palau national football team.", "Upgraded for the 1998 South Pacific Games."],
     },
+    image: "/poi-images/palau-national-stadium-landmarks-v2.webp",
   },
   {
     id: "palau-peleliu-peace-memorial-landmarks-v2",
@@ -372,6 +383,7 @@ export const palauLandmarksV2: POI[] = [
       ro: ["Ridicată de guvernul japonez în anul 1985.", "Comemorează peste 10.000 de morți din timpul bătăliei.", "Situat în proximitatea zonei Bloody Nose Ridge.", "Vizitat anual de delegații internaționale oficiale.", "Include inscripții în limbile japoneză și engleză.", "Face parte din situl istoric național Peleliu."],
       en: ["Erected by the Japanese government in 1985.", "Honors the over 10,000 casualties of the battle.", "Located near the infamous Bloody Nose Ridge.", "Visited annually by international diplomatic delegations.", "Features inscriptions in both Japanese and English.", "Part of the Peleliu Battlefield National Landmark."],
     },
+    image: "/poi-images/palau-peleliu-peace-memorial-landmarks-v2.webp",
   },
   {
     id: "palau-airai-stone-path-landmarks-v2",
@@ -403,6 +415,7 @@ export const palauLandmarksV2: POI[] = [
       ro: ["Element esențial al planificării satelor tradiționale.", "Realizate din bazalt local și piatră de corali.", "Conduc adesea către un „Bai” (casa de adunare a bărbaților).", "Unele secțiuni au o vechime de peste 500 de ani.", "Rol secundar în drenajul apei în timpul sezonului ploios.", "Simbolizau statutul social al clanurilor adiacente."],
       en: ["Core element of traditional Palauan village design.", "Constructed using local basalt and coral stone.", "Often lead to a 'Bai' (traditional meeting house).", "Some path sections are over 500 years old.", "Designed to facilitate drainage during heavy rains.", "Symbolized the social status of the connected clans."],
     },
+    image: "/poi-images/palau-airai-stone-path-landmarks-v2.webp",
   },
   {
     id: "palau-coral-reef-center-landmarks-v2",
@@ -434,5 +447,6 @@ export const palauLandmarksV2: POI[] = [
       ro: ["Inaugurat în anul 2001 pentru a celebra independența.", "Găzduiește cel mai mare acvariu public din Palau.", "Focalizat pe cercetarea albirii coralilor și a climei.", "Colaborează activ cu universități internaționale de elită.", "Include expoziții interactive pentru elevi și studenți.", "Finanțat prin bilete de intrare și granturi de cercetare."],
       en: ["Opened in 2001 to commemorate Palau's independence.", "Houses the largest public aquarium in the country.", "Research focuses on coral bleaching and climate change.", "Collaborates with top international research universities.", "Features interactive exhibits for local and visiting students.", "Funded through admission fees and scientific grants."],
     },
+    image: "/poi-images/palau-coral-reef-center-landmarks-v2.webp",
   }
 ];

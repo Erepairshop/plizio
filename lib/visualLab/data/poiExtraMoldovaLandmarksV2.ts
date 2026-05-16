@@ -858,7 +858,8 @@ export const moldovaLandmarksV2: POI[] = [
         hu: ["1861-ben alapították a Neamț-kolostor szerzetesei.", "A 69 méter magas harangtorony a legmagasabb Moldovában.", "A komplexum négy különálló templomból áll.", "A szovjet korszakban bezárták, 1990-ben nyitották meg újra.", "Papnevelde is működik benne.", "Orosz-bizánci építészeti stílus jellemzi.", "Chițcani faluban, a Dnyeszter partján található."],
         ro: ["Fondată în 1861 de călugări de la Mănăstirea Neamț.", "Clopotnița de 69 de metri este cea mai înaltă din Moldova.", "Complexul include patru biserici separate.", "A fost închisă în perioada sovietică și redeschisă în 1990.", "Găzduiește un seminar teologic.", "Arhitectură în stil ruso-bizantin.", "Situată în satul Chițcani, pe malul Nistrului."],
         en: ["Founded in 1861 by monks from Neamț Monastery.", "The 69-meter bell tower is the tallest in Moldova.", "The complex includes four separate churches.", "Was closed during the Soviet era and reopened in 1990.", "It hosts a theological seminary.", "Architecture is in the Russian-Byzantine style.", "Located in the village of Chițcani on the Dniester river."]
-    }
+    },
+    image: "/poi-images/moldova-noul-neamt-monastery-landmarks-v2.webp",
   },
   {
     id: "moldova-chisinau-circus-landmarks-v2",
@@ -921,7 +922,8 @@ export const moldovaLandmarksV2: POI[] = [
           hu: ["1854 és 1858 között épült.", "A Ciufli testvérek finanszírozták.", "Stílus: orosz eklektika.", "Szent Theodor Tironnak szentelték.", "2002-ben lett kolostor.", "Nyolc aranykupolájáról ismert.", "Jellegzetes kék színe az eget szimbolizálja.", "Kisinyov egyik forgalmas kereszteződésében található."],
           ro: ["Construită între 1854 și 1858.", "Finanțată de frații Teodor și Anastasie Ciufli.", "Stil: eclectism rusesc.", "Hramul: Sfântul Teodor Tiron.", "A devenit mănăstire în 2002.", "Renumită pentru cele opt cupole aurite.", "Culoarea albastră distinctivă simbolizează cerul.", "Situată la o intersecție aglomerată din Chișinău."],
           en: ["Built between 1854 and 1858.", "Funded by the brothers Teodor and Anastasie Ciufli.", "Style: Russian Eclecticism.", "Dedicated to Saint Theodore Tiron.", "Became a monastery in 2002.", "Known for its eight golden domes.", "Distinctive blue color symbolizes the sky.", "Located at a busy intersection in Chișinău."]
-    }
+    },
+    image: "/poi-images/moldova-ciuflea-monastery-landmarks-v2.webp",
   },
   {
     id: "moldova-candle-of-gratitude-landmarks-v2",
@@ -1046,6 +1048,7 @@ export const moldovaLandmarksV2: POI[] = [
           hu: ["1924 és 1934 között épült.", "Tervezők: Adrian Gabrielescu, Andrei Ivanov.", "Stílus: neoromán/neobizánci.", "1935-ben szentelték fel.", "Bălți város fő katedrálisa.", "A Bălți és Fălești egyházmegye székhelye.", "Észak-Moldova fontos műemléke.", "Meghatározza Bălți városképét."],
           ro: ["Construită între 1924 și 1934.", "Arhitecți: Adrian Gabrielescu, Andrei Ivanov.", "Stil: neoromânesc/neobizantin.", "Sfințită în anul 1935.", "Catedrala principală din orașul Bălți.", "Sediul Episcopiei de Bălți și Fălești.", "Monument important în nordul Moldovei.", "Domină peisajul urban din Bălți."],
           en: ["Built between 1924 and 1934.", "Architects: Adrian Gabrielescu, Andrei Ivanov.", "Style: Neo-Romanian/Neo-Byzantine.", "Consecrated in 1935.", "Main cathedral of the city of Bălți.", "Seat of the Diocese of Bălți and Fălești.", "Important monument in northern Moldova.", "Dominates the cityscape of Bălți."]
-    }
+    },
+    image: "/poi-images/moldova-balti-cathedral-landmarks-v2.webp",
   }
 ];

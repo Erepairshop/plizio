@@ -31,6 +31,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Domeniul lui Roi Mata a fost înscris pe lista Patrimoniului Mondial UNESCO în 2008.", "Se crede că șeful a murit la începutul secolului al XVII-lea (aprox. 1600 d.Hr.).", "Numele său se traduce aproximativ prin 'Regele care vede'.", "Insula Artok a fost oficial nelocuită timp de 400 de ani după moartea sa (tabu).", "Săpăturile au scos la iveală peste 50 de persoane îngropate alături de el.", "Legenda spune că a fost otrăvit de fratele său în timpul unei dispute."],
       en: ["Chief Roi Mata's Domain was inscribed on the UNESCO World Heritage list in 2008.", "The paramount chief is estimated to have died around 1600 AD.", "The name Roi Mata translates approximately to 'The King who Sees'.", "Artok Island was declared a forbidden 'taboo' area and uninhabited for 400 years.", "Archaeological excavations revealed over 50 individuals buried alongside the chief.", "Legend states that Roi Mata was poisoned by his brother during a feast."],
     },
+    image: "/poi-images/vanuatu-chief-roi-mata-domain-history-v2.webp",
   },
   {
     id: "vanuatu-fels-cave-history-v2",
@@ -62,6 +63,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Peștera are o înălțime a tavanului de până la 35 de metri.", "Cele mai vechi petroglife din peșteră sunt datate în jurul anului 900 d.Hr.", "Peștera Fels a devenit parte a patrimoniului mondial UNESCO în 2008.", "Numele 'Fels' derivă din cuvântul local care înseamnă 'peșteră'.", "Conform legendei, Roi Mata a fost adus aici pentru a muri în pace.", "Peștera este de origine vulcanică și a fost formată prin procese de eroziune."],
       en: ["The cave's ceiling reaches a height of up to 35 meters in some chambers.", "The oldest rock art in the cave dates back to approximately 900 AD.", "Fels Cave was included in the UNESCO World Heritage list in 2008.", "The name 'Fels' is derived from the local language word for 'cave'.", "According to oral tradition, Roi Mata was brought here to die in solitude and peace.", "The cave is of volcanic origin, formed over millennia by natural erosion."],
     },
+    image: "/poi-images/vanuatu-fels-cave-history-v2.webp",
   },
   {
     id: "vanuatu-artok-island-history-v2",
@@ -93,6 +95,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Insula are forma unei pălării de soare tropicale.", "Șeful Roi Mata a fost înmormântat aici în jurul anului 1600 d.Hr.", "Mormântul este marcat de două pietre mari, așezate vertical.", "Artok a fost oficial interzisă populației locale între 1600 și 1960.", "Insula face parte astăzi din situl UNESCO Domeniul lui Roi Mata.", "Arheologii au găsit bijuterii din scoici și dinți de balenă în mormânt."],
       en: ["The island's silhouette resembles a traditional tropical sun hat.", "Chief Roi Mata was buried on the island around 1600 AD.", "The chief's grave is marked by two large, upright megalithic stones.", "Artok was officially uninhabited and forbidden from 1600 until 1960.", "The island is a key part of the UNESCO-listed Chief Roi Mata's Domain.", "Excavations revealed precious grave goods made from shells and whale teeth."],
     },
+    image: "/poi-images/vanuatu-artok-island-history-v2.webp",
   },
   {
     id: "vanuatu-million-dollar-point-history-v2",
@@ -124,6 +127,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Scufundarea echipamentelor a avut loc între anii 1945 și 1946.", "Printre bunurile scufundate s-au numărat buldozere, macarale, camioane și jeep-uri.", "Locația se află chiar lângă țărm, la est de orașul Luganville.", "Epavele se află la adâncimi cuprinse între 0 și 30 de metri.", "Multe epave sunt acum colonizate de corali duri și moi.", "Baza SUA de pe Santo a fost a doua ca mărime din Pacific după Pearl Harbor."],
       en: ["The dumping of the military equipment occurred between 1945 and 1946.", "Items disposed of included bulldozers, cranes, trucks, and multi-purpose jeeps.", "The site is located just offshore, a short distance east of Luganville.", "The debris field spans depths from the shoreline down to 30 meters.", "The machinery is now host to a vast array of hard and soft coral species.", "The US base on Santo was the second largest in the Pacific after Pearl Harbor."],
     },
+    image: "/poi-images/vanuatu-million-dollar-point-history-v2.webp",
   },
   {
     id: "vanuatu-ss-president-coolidge-history-v2",
@@ -155,6 +159,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Nava a fost finalizată ca pachebot de lux în anul 1931.", "SS President Coolidge s-a scufundat la 26 octombrie 1942.", "Epava se sprijină pe babord și este aproape complet intactă.", "În interiorul navei se mai găsesc încă obiecte personale ale soldaților.", "Scafandrii pot explora puntea de comandă, calale și saloanele.", "Cea mai faimoasă scufundare duce la 'Lady', o figură din porțelan."],
       en: ["The vessel was originally completed as a luxury liner in 1931.", "The SS President Coolidge sank on October 26, 1942.", "The wreck rests on its port side and remains largely intact.", "Personal items belonging to the evacuated soldiers can still be found inside.", "Divers can explore the ship's bridge, cargo holds, and dining saloons.", "The most famous attraction inside is 'The Lady', a ceramic mantelpiece figure."],
     },
+    image: "/poi-images/vanuatu-ss-president-coolidge-history-v2.webp",
   },
   {
     id: "vanuatu-uss-tucker-history-v2",
@@ -186,6 +191,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["USS Tucker a fost scufundată la 4 august 1942.", "Nava avea o lungime de aproximativ 104 metri.", "Șase membri ai echipajului și-au pierdut viața în urma exploziei.", "Epava se află în apele puțin adânci din fața pasajului Bruat.", "Tunurile de 5 inci ale distrugătorului sunt încă vizibile.", "USS Tucker a fost prima navă de război americană pierdută lângă Santo."],
       en: ["The USS Tucker was lost on August 4, 1942.", "The destroyer had a total length of approximately 104 meters.", "Six crew members tragically lost their lives during the initial explosion.", "The wreck is situated in shallow waters near the Bruat Passage.", "The ship's 5-inch guns remain clearly visible to visiting divers.", "USS Tucker was the first US naval vessel lost in the Espiritu Santo area."],
     },
+    image: "/poi-images/vanuatu-uss-tucker-history-v2.webp",
   },
   {
     id: "vanuatu-luganville-quonset-huts-history-v2",
@@ -217,6 +223,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Designul a fost inspirat de colibele Nissen folosite în Primul Război Mondial.", "Peste 1.000 de astfel de structuri au fost ridicate în zona Luganville.", "Oțelul galvanizat proteja structura împotriva coroziunii marine corozive.", "Sunt considerate primele exemple de arhitectură modulară din Vanuatu.", "Multe colibe sunt folosite și astăzi ca ateliere auto sau depozite.", "Baza militară de aici a fost crucială pentru bătălia de la Guadalcanal."],
       en: ["Developed in 1941 by the US Navy for rapid logistical deployment.", "Luganville hosted over 40,000 personnel at the height of the war.", "The huts are made of corrugated galvanized steel on a light frame.", "They represent the first major wave of modern construction in the islands.", "Many units have survived extreme tropical weather for over 80 years.", "The town was the second-largest US base in the entire Pacific theater."],
     },
+    image: "/poi-images/vanuatu-luganville-quonset-huts-history-v2.webp",
   },
   {
     id: "vanuatu-bomber-two-wreck-history-v2",
@@ -248,6 +255,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Epava se află la o adâncime de aproximativ 18 metri sub nivelul mării.", "Se crede că avionul a participat la campania din insulele Solomon.", "Elicele sunt încă atașate de motoarele radiale ale aeronavei.", "Structura metalică servește acum drept habitat pentru peștii tropicali.", "Accidentul a avut loc probabil în cursul anului 1943 sau 1944.", "Situl este monitorizat pentru a preveni sustragerea de suveniruri istorice."],
       en: ["The wreck lies at a depth of approximately 15 to 20 meters.", "It is believed to be a US Army Air Forces heavy bomber.", "The radial engines and cockpit framework are still visible to divers.", "The aircraft likely originated from one of Santo's four wartime runways.", "It has become a biodiversity hotspot for local reef fish and corals.", "This site is a primary example of WWII 'iron' legacy in the Pacific."],
     },
+    image: "/poi-images/vanuatu-bomber-two-wreck-history-v2.webp",
   },
   {
     id: "vanuatu-havannah-harbour-history-v2",
@@ -279,6 +287,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Portul are o adâncime naturală care permite accesul navelor mari.", "A fost baza principală pentru Task Force 11 și 16 în 1942.", "Numele provine de la nava britanică HMS Havannah, vizitatoare în 1850.", "Multe obiecte din sticlă din epoca războiului sunt încă găsite pe fundul mării.", "Zona a fost esențială pentru logistica ofensivei din Guadalcanal.", "Astăzi adăpostește numeroase iahturi de lux și resorturi ecologice."],
       en: ["Named after the British ship HMS Havannah, which visited in 1850.", "Served as a primary staging area for the Battle of the Coral Sea.", "The harbor is deep enough to accommodate the largest aircraft carriers.", "Wartime debris, known as 'white glass,' is still found by divers.", "The US Seabees built extensive infrastructure around the harbor in 1942.", "It is currently a site for significant marine conservation initiatives."],
     },
+    image: "/poi-images/vanuatu-havannah-harbour-history-v2.webp",
   },
   {
     id: "vanuatu-port-vila-war-memorial-history-v2",
@@ -310,6 +319,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Este locul principal pentru comemorările de Ziua ANZAC.", "Monumentul a fost renovat de mai multe ori de la independență.", "Se află la mică distanță de Centrul Cultural din Port Vila.", "Plăcile de bronz listează numele eroilor locali din Nouile Hebride.", "Reprezintă un punct de oprire important în tururile istorice ale orașului.", "Simbolizează trecerea de la condominiu colonial la republică suverană."],
       en: ["The site hosts official ANZAC Day dawn services annually on April 25.", "Commemorates New Hebridean volunteers in the French and British forces.", "Positioned centrally within Port Vila's administrative district.", "Features plaques detailing significant dates in Vanuatu's military history.", "Acts as a bridge between the nation's colonial past and its sovereign future.", "Commonly used for official wreath-laying ceremonies by foreign dignitaries."],
     },
+    image: "/poi-images/vanuatu-port-vila-war-memorial-history-v2.webp",
   },
   {
     id: "vanuatu-teouma-lapita-site-history-v2",
@@ -341,6 +351,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Situl a fost descoperit accidental în timpul unor lucrări de terasament.", "Ceramica Lapita este recunoscută după modelele geometrice unice.", "Săpăturile au fost conduse de experți de la Universitatea Națională Australiană.", "Testele ADN au revoluționat teoriile despre migrația polineziană.", "Mormintele indică practici funerare complexe cu manipularea oaselor.", "Teouma este considerat 'piatra de temelie' a arheologiei din Vanuatu."],
       en: ["Discovered in 2004 during the construction of a prawn farm.", "The site dates back to the period between 1200 and 1000 BCE.", "It contains the largest collection of early Lapita human remains.", "Genetic studies linked these individuals to populations in Taiwan and Philippines.", "Many burials involved post-mortem removal of the skull for ritual use.", "Lapita pottery shards found here are essential for dating Pacific migrations."],
     },
+    image: "/poi-images/vanuatu-teouma-lapita-site-history-v2.webp",
   },
   {
     id: "vanuatu-iririki-island-residency-history-v2",
@@ -372,6 +383,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Insula Iririki este situată la doar câteva sute de metri de țărm.", "Reședința a fost construită la începutul secolului al XX-lea.", "Condominiul franco-britanic a durat din 1906 până în 1980.", "Nava de război britanică HMS Dart a cartografiat zona inițial.", "În prezent, insula găzduiește unul dintre cele mai mari cazinouri din țară.", "Vechile structuri coloniale au fost în mare parte integrate în resort."],
       en: ["The island served as the seat of British authority until 1980.", "The Residency was positioned at the island's 30-meter summit.", "Iririki means 'small island' in the local Efate dialect.", "Queen Elizabeth II anchored in the harbor during a 1974 visit.", "The transition to a private resort began in the late 1980s.", "The ferry trip from the mainland to Iririki takes less than 5 minutes."],
     },
+    image: "/poi-images/vanuatu-iririki-island-residency-history-v2.webp",
   },
   {
     id: "vanuatu-malakula-cannibal-site-history-v2",
@@ -403,6 +415,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Practica canibalismului era limitată la contextul războaielor tribale.", "Locurile de dans 'nasara' sunt considerate extrem de sacre.", "Vechile gropi de gătit, numite 'earth ovens', sunt încă vizibile.", "Tribul Big Nambas trăia în sate fortificate în interiorul insulei.", "În prezent, situl poate fi vizitat doar cu acordul șefilor locali.", "Oasele victimelor erau uneori folosite pentru confecționarea uneltelor."],
       en: ["Ritual cannibalism was documented on Malakula until the mid-20th century.", "Nasaras serve as sacred stages for high-ranking grade ceremonies.", "Slit-gongs were carved from tree trunks to communicate between sites.", "The consumption of enemies was believed to enhance a warrior's mana.", "The transition to Christianity in the 1900s led to the abandonment of these sites.", "Malakula remains the most culturally diverse island in the archipelago."],
     },
+    image: "/poi-images/vanuatu-malakula-cannibal-site-history-v2.webp",
   },
   {
     id: "vanuatu-john-frum-village-history-v2",
@@ -434,6 +447,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Numele ar putea proveni de la prezentarea 'John from America'.", "Sulphur Bay se află în apropierea vulcanului activ Mount Yasur.", "Cultul a apărut ca o reacție împotriva misionarilor creștini.", "Adepții au construit avioane din paie pentru a atrage 'cargo-ul'.", "Ziua de 15 februarie este sărbătorită anual cu parade militare simulate.", "Mișcarea are propriul partid politic reprezentat în parlamentul local."],
       en: ["The name likely derives from the phrase 'John from America.'", "Friday is considered the movement's holy day for congregational singing.", "Followers often wear denim and perform drills with bamboo rifles.", "The movement gained momentum after the US Seabees arrived in 1942.", "February 15th is celebrated as John Frum Day with major festivities.", "The cult is primarily centered in the villages surrounding Sulphur Bay."],
     },
+    image: "/poi-images/vanuatu-john-frum-village-history-v2.webp",
   },
   {
     id: "vanuatu-anityum-church-ruins-history-v2",
@@ -465,6 +479,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Biserica avea o lungime de aproximativ 30 de metri.", "Materialele de construcție au inclus var obținut din coral ars.", "Cutremurul din 1875 a fost unul dintre cele mai puternice din regiune.", "Peste 3.000 de oameni locuiau pe insulă în perioada de vârf a misiunii.", "Situl este situat în apropierea actualului sat principal, Anelcauhat.", "Geddie a tradus Biblia în limba locală aneityumese."],
       en: ["The church was completed around 1860 after years of communal labor.", "It featured a massive thatched roof supported by stone columns.", "Aneityum was the headquarters for the Presbyterian mission in the Pacific.", "The 1875 tsunami was triggered by a magnitude 8.0 earthquake.", "The ruins are now a protected site under the Vanuatu Cultural Centre.", "The church's scale reflects the high population of the island in the 1850s."],
     },
+    image: "/poi-images/vanuatu-anityum-church-ruins-history-v2.webp",
   },
   {
     id: "vanuatu-dillons-bay-martyrs-history-v2",
@@ -496,6 +511,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["John Williams a fost unul dintre cei mai celebri misionari din epocă.", "Cinci misionari în total au fost uciși pe insulă între 1839 și 1872.", "Ceremonia de iertare din 2009 a inclus ritualuri tradiționale Ni-Vanuatu.", "Râul care traversează golful este o sursă vitală de apă pentru sat.", "Erromango a suferit un declin demografic masiv în secolul al XIX-lea.", "Situl este un punct focal pentru pelerinajele creștine locale."],
       en: ["John Williams was killed just minutes after stepping ashore in 1839.", "The island saw the deaths of five missionaries over a 33-year period.", "The 2009 reconciliation event involved descendants flying from the UK.", "Erromango was nearly depopulated by disease and trade wars in the 1800s.", "The memorial is located at the mouth of the Williams River.", "Local oral history preserves detailed accounts of the early contacts."],
     },
+    image: "/poi-images/vanuatu-dillons-bay-martyrs-history-v2.webp",
   },
   {
     id: "vanuatu-port-resolution-history-v2",
@@ -527,6 +543,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Căpitanul Cook a oferit localnicilor primele unelte de fier aici.", "Numele original al golfului în limba locală este 'Iguifa'.", "Izvoarele termale sunt rezultatul proximității vulcanului Yasur.", "Portul a fost un centru major pentru exportul de copră în trecut.", "Este considerat unul dintre cele mai sigure locuri de ancorare din Tanna.", "James Cook a încercat să urce pe vulcan, dar a fost oprit de localnici."],
       en: ["Captain Cook anchored here for 15 days in August 1774.", "The site provides the best access to the active Mount Yasur volcano.", "Hot springs on the beach are hot enough to boil eggs and vegetables.", "Historically, the bay was a major sandalwood trading post.", "The local yacht club is a famous meeting point for Pacific sailors.", "White sands and volcanic rocks define the harbor's unique coastline."],
     },
+    image: "/poi-images/vanuatu-port-resolution-history-v2.webp",
   },
   {
     id: "vanuatu-pentecost-land-diving-history-v2",
@@ -558,6 +575,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Turnurile pot atinge înălțimea unei clădiri cu zece etaje.", "Lianele sunt alese cu mare grijă pentru a nu se rupe în timpul șocului.", "Ritualul asigură, conform tradiției, o recoltă bogată de igname.", "Doar bărbații au voie să sară de pe structura de lemn.", "Solul de la baza turnului este săpat și afânat pentru a amortiza impactul.", "Fiecare sat participant își construiește propriul turn ceremonial."],
       en: ["The towers take up to seven weeks to build using local materials.", "Vines are chosen based on their sap content to ensure maximum elasticity.", "The ceremony was traditionally kept secret from outsiders until the 20th century.", "Land diving is considered the original inspiration for AJ Hackett's bungee.", "A diver's head touching the soil is seen as an act of earth fertilization.", "The site is legally protected to prevent commercial exploitation of the rite."],
     },
+    image: "/poi-images/vanuatu-pentecost-land-diving-history-v2.webp",
   },
   {
     id: "vanuatu-forari-mine-history-v2",
@@ -589,6 +607,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Producția anuală depășea 50.000 de tone de concentrat de mangan.", "Instalația de spălare a minereului folosea cantități uriașe de apă.", "Mina a generat peste 25% din veniturile de export ale coloniei.", "Locuințele directorilor erau construite în stil colonial francez.", "Situl se află la aproximativ 45 de minute de mers cu mașina de Port Vila.", "Vegetația a acoperit majoritatea carierelor de extracție în prezent."],
       en: ["Operations commenced in 1962 and effectively ceased in 1979.", "The mine produced over 600,000 tons of manganese during its lifespan.", "Forari provided a rare alternative to the coconut-based economy of the time.", "The loading pier was designed to handle large bulk carrier ships.", "Historical documents show workers were recruited from across the Pacific.", "Rusting bulldozers and trucks remain popular subjects for photographers."],
     },
+    image: "/poi-images/vanuatu-forari-mine-history-v2.webp",
   },
   {
     id: "vanuatu-ano-island-dancing-ground-history-v2",
@@ -620,6 +639,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Monoliții sunt fabricați din piatră vulcanică sau calcar coraligen.", "Fiecare piatră are un nume și o genealogie specifică.", "Tobele 'slit-gong' sunt printre cele mai mari instrumente din Pacific.", "Rano a rămas un bastion al tradițiilor în fața influenței coloniale.", "Accesul în centrul nasarei este uneori restricționat femeilor.", "Situl este inclus în rutele de turism cultural din provincia Malampa."],
       en: ["Some monoliths weigh several tons and were moved using log rollers.", "The slit-gongs are vertically planted and feature ancestral faces.", "The nasara serves as both a courtroom and a religious theater.", "Ceremonial dances here can involve hundreds of participants.", "The site is part of a network of similar grounds across Malakula's islets.", "Lichens on the stones testify to their ancient age and permanence."],
     },
+    image: "/poi-images/vanuatu-ano-island-dancing-ground-history-v2.webp",
   },
   {
     id: "vanuatu-gaua-stone-walls-history-v2",
@@ -651,6 +671,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Zidurile de piatră de pe Gaua sunt printre cele mai vechi din Oceania.", "Tehnica de construcție este similară cu cea a zidurilor 'marae' din Polinezia.", "Sistemele de irigații antice erau adesea integrate în aceste ziduri.", "Insula este dominată de vulcanul activ Mount Garat.", "Multe ziduri au o grosime de peste un metru la bază.", "Sunt considerate monumente istorice de interes național în Vanuatu."],
       en: ["The stone walls are constructed using dry-stack techniques.", "They were essential for protecting crops from wild pigs and erosion.", "Gaua's walls are unique for their sheer scale in the Melanesian region.", "The island is also famous for its traditional water percussion music.", "Archaeologists link the walls to a peak population period centuries ago.", "Current villagers still use parts of these ancient boundaries for their gardens."],
     },
+    image: "/poi-images/vanuatu-gaua-stone-walls-history-v2.webp",
   },
   {
     id: "vanuatu-quoin-hill-airfield-history-v2",
@@ -682,6 +703,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Construcția a fost demarată în mai 1942 de către batalionul 1 de Seabees.", "Pista a fost realizată din corali albi extrași din recifele învecinate.", "A servit drept bază principală pentru avioanele F4F Wildcat în 1942.", "Rolul tactic a fost monitorizarea accesului maritim prin nordul insulei Efate.", "Activitatea militară intensă a încetat oficial în cursul anului 1944.", "Rămășițele includ fundații de tunuri antiaeriene și depozite de muniție."],
       en: ["Construction began in May 1942 by the 1st US Navy Seabee Battalion.", "The runway was engineered using compacted coral for durability.", "Primary base for the VMF-212 squadron during the defense of the New Hebrides.", "Located near Undine Bay to intercept threats from the northern approach.", "The airfield was largely phased out of active service by late 1944.", "Visible remains include concrete hardstands and remnants of fuel storage."],
     },
+    image: "/poi-images/vanuatu-quoin-hill-airfield-history-v2.webp",
   },
   {
     id: "vanuatu-loltong-mission-history-v2",
@@ -713,6 +735,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Fondată la începutul anilor 1900 de Misiunea Melaneziană Anglicană.", "A servit drept principal centru de evanghelizare pentru nordul Pentecost.", "Misiunea a inaugurat prima școală primară din această zonă a insulei.", "Clădirile istorice combină piatra de coral cu structuri din lemn local.", "Loltong a fost un punct de oprire esențial pentru nava de misiune Southern Cross.", "Aici s-au format primii lideri religioși locali din comunitatea anglicană."],
       en: ["Founded in the early 1900s by the Anglican Melanesian Mission.", "Served as the central hub for religious outreach in North Pentecost.", "The mission established one of the first formal schools on the island.", "Historic structures feature a blend of coral lime and local timber.", "Loltong was a frequent port of call for the mission vessel Southern Cross.", "The site played a key role in training the first local Ni-Vanuatu clergy."],
     },
+    image: "/poi-images/vanuatu-loltong-mission-history-v2.webp",
   },
   {
     id: "vanuatu-ureparapara-paimet-history-v2",
@@ -744,6 +767,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Zidurile sunt construite prin tehnica stivuirii uscate a blocurilor de bazalt.", "Insula Ureparapara găzduiește cele mai bine conservate forturi de piatră.", "Structurile au fost utilizate intens în conflictele inter-tribale din secolul XVIII.", "Paimet este situat strategic în interiorul calderei vulcanice a insulei.", "Înălțimea zidurilor atingea puncte de observație pentru monitorizarea golfului.", "Situl este considerat un monument sacru de către comunitatea locală."],
       en: ["The walls were built using local basalt rocks with a dry-stone technique.", "Ureparapara is one of the few islands in Vanuatu with surviving stone forts.", "Defensive structures were primarily used during tribal conflicts in the 1700s.", "Paimet is located within the island's unique breached volcanic crater.", "The layout of the walls was designed to protect sacred ceremonial spaces.", "Some stone sections reach heights of over 2 meters (6.5 feet)."],
     },
+    image: "/poi-images/vanuatu-ureparapara-paimet-history-v2.webp",
   },
   {
     id: "vanuatu-lamap-french-mission-history-v2",
@@ -775,6 +799,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Fondată în anul 1889 de către misionarii mariști francezi.", "Biserica Sfânta Ioana d'Arc este un simbol al arhitecturii catolice în Pacific.", "A reprezentat centrul administrativ și spiritual al francezilor pe Malekula.", "Structura bisericii a fost consolidată după daunele provocate de ciconul Pam.", "Misiunea a jucat un rol vital în educația bilingvă a populației indigene.", "Situl găzduiește mormintele primilor misionari europeni ajunși în zonă."],
       en: ["Established around 1889 by French Marist missionaries.", "The St. Joan of Arc Church is one of Malekula's largest historic structures.", "Lamap served as a primary hub for French language and culture.", "The mission complex has been resilient against numerous tropical cyclones.", "It provided the first formal medical and educational services in South Malekula.", "The architectural style is a unique blend of French Gothic and island motifs."],
     },
+    image: "/poi-images/vanuatu-lamap-french-mission-history-v2.webp",
   },
   {
     id: "vanuatu-aore-island-wwii-history-v2",
@@ -806,6 +831,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Aore a făcut parte din baza codificată 'Buttons', esențială pentru Marina SUA.", "Insula a găzduit ateliere navale pentru reparații rapide ale navelor mici.", "Sunt vizibile și astăzi rampe de descărcare din beton de-a lungul țărmului.", "Populația militară a depășit ocazional 10.000 de persoane simultan.", "Spitalul nr. 4 al Marinei SUA a tratat mii de răniți din Guadalcanal aici.", "Artefactele de război, precum sticle de epocă, se găsesc frecvent în sol."],
       en: ["Aore was part of Base 'Buttons', one of the largest US installations in the Pacific.", "The island featured specialized repair docks for small naval craft.", "Remnants of concrete loading ramps are still visible along the shoreline.", "At its peak, the island housed more than 10,000 military personnel.", "The 4th Fleet Hospital was established here to treat wounded from the front.", "Wartime artifacts, such as glass bottles and metal scraps, are still common."],
     },
+    image: "/poi-images/vanuatu-aore-island-wwii-history-v2.webp",
   },
   {
     id: "vanuatu-ambrym-magic-square-history-v2",
@@ -837,6 +863,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Piața este locația exclusivă pentru desfășurarea dansului mistic Rom.", "Tobele tam-tam sunt sculptate din trunchiuri de ferigă arborescentă sau lemn dur.", "Suprafața de dans este netezită ritualic înainte de marile ceremonii.", "Sistemul de gradare Maki determină prestigiul social al bărbaților din trib.", "Simbolurile sculptate pe tobe indică gradul de inițiere al șefului local.", "Multe dintre aceste spații sunt ascunse adânc în pădurile tropicale ale insulei."],
       en: ["The Magic Square is the exclusive venue for the secretive Rom dance.", "The massive slit-gongs (tamtams) can stand over 3 meters (10 feet) tall.", "The dark ground surface is formed by ash from the Marum and Benbow craters.", "Ceremonies conducted here are essential for social advancement in the Maki system.", "Strict taboos often prohibit women and uninitiated men from entering the inner circle.", "The elaborate Rom masks are considered spiritually charged and highly sacred."],
     },
+    image: "/poi-images/vanuatu-ambrym-magic-square-history-v2.webp",
   },
   {
     id: "vanuatu-mota-mission-history-v2",
@@ -868,6 +895,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Fondată în 1858, fiind primul sediu stabil al Misiunii Melaneziene.", "Limba mota a fost utilizată în scris înaintea multor altor limbi din regiune.", "Prima școală de pe insulă a fost inaugurată sub supravegherea lui Patteson.", "Mota a servit drept model pentru structura administrativă a bisericii anglicane.", "Traducerea Noului Testament în limba mota a fost finalizată în secolul XIX.", "Insula este renumită pentru forma sa circulară aproape perfectă."],
       en: ["Established in 1858 as the first permanent Melanesian Mission base.", "The Mota language was used for liturgy and teaching across 50+ islands.", "Religious texts were printed in the Mota language starting in the mid-1800s.", "Mota was the primary training ground for the first Melanesian teachers.", "Bishop Patteson's focus on Mota created a unique linguistic legacy in the Pacific.", "The island's dormant volcanic peak is a significant landmark in the Banks group."],
     },
+    image: "/poi-images/vanuatu-mota-mission-history-v2.webp",
   },
   {
     id: "vanuatu-ifira-island-village-history-v2",
@@ -899,6 +927,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Locuitorii din Ifira dețin drepturile de proprietate asupra terenului capitalei.", "Insula este guvernată de un consiliu de căpetenii cu autoritate deplină.", "Accesul pe insulă se face printr-un serviciu permanent de bărci de transfer.", "În timpul celui de-al Doilea Război Mondial, a servit ca post de observație.", "Nasara (piața centrală) este locul unde se desfășoară ritualurile de gradare.", "Limba vorbită pe Ifira include arhaisme specifice regiunii Efate de Sud."],
       en: ["Ifira people are the legal customary owners of Port Vila's urban land.", "The island is autonomously managed by a traditional Council of Chiefs.", "A 24-hour boat service connects Ifira with the Port Vila waterfront.", "The island was a strategic observation point for US forces during WWII.", "Traditional meeting grounds are still used for resolving community disputes.", "Ifira maintains a distinct identity separate from the mainland urban population."],
     },
+    image: "/poi-images/vanuatu-ifira-island-village-history-v2.webp",
   },
   {
     id: "vanuatu-mele-village-grounds-history-v2",
@@ -930,6 +959,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Relocarea oficială de pe insula Mele pe uscat a fost finalizată în 1950.", "Satul este renumit pentru agricultura de subzistență și piețele sale.", "Mele găzduiește cele mai vizitate cascade din arhipelagul Vanuatu.", "Comunitatea păstrează un dialect cu puternice influențe polineziene.", "Nasara (piața satului) este una dintre cele mai mari din provincia Shefa.", "Hideaway Island, fosta locație a satului, este acum un parc marin protejat."],
       en: ["The village moved from the offshore islet to the mainland in 1950.", "Mele is famous for its polyphonic singing and vibrant church life.", "The community is a primary provider of fresh produce for Port Vila markets.", "The Mele Cascades waterfalls are located on customary village land.", "The local language features Polynesian outliers' linguistic traits.", "The original village site on Mele Island is now a popular marine resort."],
     },
+    image: "/poi-images/vanuatu-mele-village-grounds-history-v2.webp",
   },
   {
     id: "vanuatu-pby-catalina-wreck-history-v2",
@@ -961,6 +991,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Prăbușirea a avut loc pe 14 ianuarie 1944, imediat după decolare.", "Epava este localizată în zona Canalului Segond, lângă Luganville.", "Modelul Catalina a fost esențial pentru salvarea aviatorilor doborâți în mare.", "Motoarele radiale sunt încă atașate de structura principală a aripilor.", "Adâncimea de 40 de metri necesită experiență pentru scufundări sigure.", "Anvergura aripilor avionului măsura peste 31 de metri."],
       en: ["The aircraft crashed on January 14, 1944, shortly after takeoff.", "It lies within the Segond Channel area off the coast of Luganville.", "The PBY Catalina was famous for its long-range and durability.", "Both radial engines are still mounted on the wings at the bottom.", "The wreck site is considered a premier dive location for experienced divers.", "The aircraft featured a massive wingspan of over 31 meters (104 feet)."],
     },
+    image: "/poi-images/vanuatu-pby-catalina-wreck-history-v2.webp",
   },
   {
     id: "vanuatu-sbd-dauntless-wreck-history-v2",
@@ -992,6 +1023,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Modelul Dauntless era poreclit 'Slow But Deadly' de către piloți.", "Epava se află la o adâncime accesibilă de 5-10 metri în ape limpezi.", "Motorul radial Wright R-1820 este piesa centrală a secțiunii frontale.", "Situl este ideal pentru fotografia subacvatică datorită luminii bune.", "Resturile armamentului de bord sunt parțial îngropate în sedimente.", "Avionul opera de pe unul dintre cele patru aerodromuri militare din Santo."],
       en: ["The SBD Dauntless was known for its 'Swiss cheese' perforated dive brakes.", "The wreck is located at a depth of only 5 to 10 meters (16-33 feet).", "The Wright R-1820 radial engine is still clearly visible at the front.", "It is one of several Dauntless wrecks documented around Espiritu Santo.", "Divers can often spot remnants of the machine gun ammunition belts.", "This aircraft was part of the massive air wing based at Pallikulo Airfield."],
     },
+    image: "/poi-images/vanuatu-sbd-dauntless-wreck-history-v2.webp",
   },
   {
     id: "vanuatu-ao-island-monoliths-history-v2",
@@ -1023,6 +1055,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Monoliții servesc drept monumente comemorative pentru marile sacrificii de porci.", "Transportul pietrelor masive implica colaborarea întregii comunități.", "Vao găzduiește structuri de piatră unice numite 'mese de piatră'.", "Fiecare kastom nasara are o configurație specifică a monoliților.", "Pietrele sunt considerate puncte de contact cu spiritele protectoare.", "Studiile arheologice confirmă utilizarea continuă a siturilor de secole."],
       en: ["The monoliths are central to the 'Maki' system of hierarchical progression.", "Massive stones were often transported from the Malekula mainland by raft.", "Vao is famous for its distinct ritual areas called 'Small' and 'Big' Nasaras.", "Monoliths often served as tethering posts for ritual pig sacrifices.", "Many stones are decorated with intricate carvings or spiritual markings.", "The practice of erecting these megaliths dates back over 500 years."],
     },
+    image: "/poi-images/vanuatu-ao-island-monoliths-history-v2.webp",
   },
   {
     id: "vanuatu-malo-island-pottery-history-v2",
@@ -1054,6 +1087,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Ceramica Lapita descoperită aici prezintă decoruri complexe cu roți dințate.", "Situl Avunatari este unul dintre cele mai prolifice locații arheologice.", "Migratorii au introdus plante precum taro și igname pe insula Malo.", "Analizele chimice arată că obsidianul provenea din arhipelagul Bismarck.", "Datarea cu carbon confirmă prezența umană încă din anul 1100 î.Hr.", "Malo a servit ca bază pentru expansiunea către Fiji și Tonga."],
       en: ["Malo's Lapita pottery is among the oldest found in the South Pacific.", "Sites like Avunatari have yielded hundreds of intricately decorated shards.", "Early settlers introduced domesticated pigs and chickens to the island.", "Obsidian artifacts suggest trade links reaching as far as the Bismarck Archipelago.", "Radiocarbon dating places the initial settlement at over 3,000 years ago.", "Malo acted as a springboard for the further settlement of southern Vanuatu."],
     },
+    image: "/poi-images/vanuatu-malo-island-pottery-history-v2.webp",
   },
   {
     id: "vanuatu-luganville-airfield-history-v2",
@@ -1085,6 +1119,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Pista principală a fost pavată cu corali zdrobiți și oțel perforat (PSP).", "A servit ca punct de lansare pentru raidurile asupra bazei japoneze de la Rabaul.", "Actualul Aeroport Pekoa păstrează orientarea pistei originale din 1942.", "Peste 40 de bombardiere grele puteau fi alimentate simultan aici.", "Luganville a devenit al doilea oraș ca mărime datorită acestei baze.", "Sunt încă vizibile buncăre de beton folosite pentru protecția muniției."],
       en: ["The main runway originally measured over 1,800 meters (6,000 feet) in length.", "Famous units like the 'Black Sheep' squadron were based here at various times.", "Pekoa International Airport currently operates on the Bomber Field No. 2 site.", "The airfield handled hundreds of takeoffs and landings daily during the war.", "Construction was completed in record time by the US Navy Seabees.", "Surrounding areas still contain concrete bunkers and aircraft revetments."],
     },
+    image: "/poi-images/vanuatu-luganville-airfield-history-v2.webp",
   },
   {
     id: "vanuatu-martyrs-memorial-erromango-history-v2",
@@ -1116,6 +1151,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["John Williams a fost ucis pe 20 noiembrie 1839, la scurt timp după debarcare.", "Monumentul actual a fost sfințit în cadrul ceremoniei de reconciliere din 2009.", "Alți martiri includ pe George N. Gordon și soția sa, Ellen, uciși în 1861.", "Reprezentanți ai Societății Misionare din Londra au vizitat situl recent.", "Conflictul a fost cauzat parțial de frica localnicilor de boli noi aduse de străini.", "Memorialul este situat chiar lângă gura de vărsare a râului în Dillon's Bay."],
       en: ["John Williams was killed on November 20, 1839, at Dillon's Bay.", "The memorial was extensively renovated for the 170th anniversary in 2009.", "A total of six European missionaries are recognized as martyrs on Erromango.", "The 2009 reconciliation event involved the participation of Williams' descendants.", "Historical records often refer to Dillon's Bay as the 'Sandalwood Coast'.", "The site reflects the transition from violent resistance to Christian conversion."],
     },
+    image: "/poi-images/vanuatu-martyrs-memorial-erromango-history-v2.webp",
   },
   {
     id: "vanuatu-williams-river-history-v2",
@@ -1147,6 +1183,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Data morții lui John Williams a fost 20 noiembrie 1839.", "Erromango a devenit cunoscută ca Insula Martirilor din cauza acestui loc.", "Ceremonia de reconciliere a avut loc în 2009, la 170 de ani de la eveniment.", "Râul este situat în apropierea așezării numite Dillon's Bay.", "În secolul al XIX-lea, zona a fost un centru al comerțului cu lemn de santal.", "O piatră funerară memorială marchează locul debarcării lui Williams."],
       en: ["John Williams was killed on November 20, 1839.", "Erromango became known as the Martyr's Island because of this site.", "A reconciliation ceremony took place in 2009, 170 years after the event.", "The river is located near the modern settlement of Dillon's Bay.", "The river mouth was a major hub for the sandalwood trade in the 1800s.", "A memorial stone commemorates the missionary's landing and death."],
     },
+    image: "/poi-images/vanuatu-williams-river-history-v2.webp",
   },
   {
     id: "vanuatu-pattpatrick-lapita-history-v2",
@@ -1178,6 +1215,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Descoperirile datează de aproximativ 1000 î.Hr.", "Ceramica Lapita este faimoasă pentru modelele sale geometrice complexe.", "Săpăturile au fost conduse în principal de arheologul Matthew Spriggs.", "Port Patrick se află pe coasta nordică a insulei Aneityum.", "Au fost găsite resturi de porci și găini din perioada timpurie.", "Fragmentele de ceramică au fost realizate folosind nisip coralier ca degresant."],
       en: ["The artifacts date back to approximately 1000 BCE.", "Lapita pottery is known for its intricate geometric designs.", "Major excavations were led by archaeologist Matthew Spriggs.", "Port Patrick is situated on the northern coast of Aneityum.", "Remains of early domesticated pigs and chickens were identified.", "The pottery was tempered with crushed coral or volcanic sand."],
     },
+    image: "/poi-images/vanuatu-pattpatrick-lapita-history-v2.webp",
   },
   {
     id: "vanuatu-resolution-bay-history-v2",
@@ -1209,6 +1247,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["James Cook a debarcat aici la 5 august 1774.", "HMS Resolution a dat numele golfului.", "Johann Reinhold Forster a descris pentru prima dată vulcanul Yasur aici.", "Golful are izvoare termale naturale chiar pe plajă.", "Cook a încercat să facă schimb de bunuri pentru lemn de santal și hrană.", "Port Resolution este astăzi un loc de ancorare important pentru iahturi."],
       en: ["James Cook landed here on August 5, 1774.", "The bay was named after the ship HMS Resolution.", "Johann Reinhold Forster wrote the first scientific account of Mt. Yasur here.", "Natural hot springs are located along the shoreline of the bay.", "Cook attempted to trade for sandalwood and provisions during his stay.", "Port Resolution remains a primary anchorage for international yachts."],
     },
+    image: "/poi-images/vanuatu-resolution-bay-history-v2.webp",
   },
   {
     id: "vanuatu-matchin-island-monoliths-history-v2",
@@ -1240,6 +1279,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Monoliții au adesea o înălțime de peste 2 metri.", "John Layard i-a documentat între 1714 și 1915.", "Ei marchează locurile ceremoniale numite 'Nasara'.", "Pietrele simbolizează succesul în sacrificiile rituale de porci.", "Atchin este cunoscută pentru legăturile sale culturale cu 'Small Nambas'.", "Unii monoliți prezintă fețe stilizate sau figuri ancestrale."],
       en: ["Many monoliths stand over 2 meters in height.", "They were documented by John Layard between 1914 and 1915.", "The stones mark ceremonial grounds known as 'Nasara'.", "The erection of a stone required specific grades of pig sacrifice.", "Atchin is famous for its complex maritime trade and culture.", "Carvings on the stones often represent ancestral spirits or deities."],
     },
+    image: "/poi-images/vanuatu-matchin-island-monoliths-history-v2.webp",
   },
   {
     id: "vanuatu-small-nambas-territory-history-v2",
@@ -1271,6 +1311,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Regiunea este situată în principal în sudul insulei Malakula.", "„Dansul Rom” este un ritual cultural protejat.", "Măștile sunt adesea făcute din lut, fibre și ferigă arborescentă.", "Desenele în nisip din regiune sunt patrimoniu mondial UNESCO.", "Societatea este organizată în niveluri de rang stricte.", "Femeile au propriile spații și dansuri rituale separate."],
       en: ["The territory is primarily located in southern Malakula.", "The Rom dance is a prestigious ritual involving elaborate masks.", "Traditional masks are constructed from tree-fern, clay, and fiber.", "The region's sand drawings are recognized as UNESCO Intangible Heritage.", "Social status is gained through the 'Nimangki' rank-taking system.", "The Small Nambas speak several distinct languages, such as Unua."],
     },
+    image: "/poi-images/vanuatu-small-nambas-territory-history-v2.webp",
   },
   {
     id: "vanuatu-big-nambas-territory-history-v2",
@@ -1302,6 +1343,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Regiunea cuprinde nordul insulei Malakula.", "Șefii Big Nambas aveau în trecut numeroase soții.", "Tobele rituale (Tam-Tams) sunt adesea de înălțimea unui om.", "Au fost considerați un popor războinic până în anii 1930.", "Vila-Vila este unul dintre cele mai cunoscute sate tradiționale.", "Culoarea violet a pieselor Namba provine din coloranți naturali."],
       en: ["The territory covers the northern highlands of Malakula.", "Chiefs traditionally practiced polygyny as a sign of wealth.", "Massive slit-gongs were used to announce deaths or celebrations.", "The Big Nambas were among the last to accept missionary presence.", "Mae is a significant archaeological site in this territory.", "Distinctive purple fibers are made from the inner bark of a local tree."],
     },
+    image: "/poi-images/vanuatu-big-nambas-territory-history-v2.webp",
   },
   {
     id: "vanuatu-fanla-village-history-v2",
@@ -1333,6 +1375,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Fanla este considerat locul de origine al dansului Rom.", "Șeful Tofor a murit în 1999 și a fost o legendă locală.", "Sculpturile sunt numite „Mage” în limba locală.", "Satul este situat în partea de nord a insulei Ambrym.", "Măștile ceremoniale pot fi văzute tradițional doar de bărbați.", "Locurile Nasara sunt decorate cu tobe din lemn de câțiva metri înălțime."],
       en: ["Fanla is widely considered the birthplace of the Rom dance.", "Chief Tofor, who passed away in 1999, was a key cultural guardian.", "Tree-fern carvings are integral to the 'Maki' grade-taking system.", "The village is located in the North Ambrym region.", "Rom masks are considered highly sacred and subject to taboos.", "The village maintains a traditional council of elders to govern."],
     },
+    image: "/poi-images/vanuatu-fanla-village-history-v2.webp",
   },
   {
     id: "vanuatu-louniel-traditional-site-history-v2",
@@ -1364,6 +1407,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Louniel este renumit pentru plajele sale largi cu nisip negru.", "Dansul Toka are loc aici o dată la câțiva ani.", "Casele sunt construite fără cuie, folosind doar frânghii.", "Regiunea se află în umbra vulcanului Yasur.", "Plăcile de surf sunt fabricate aici tradițional din lemn.", "Ceremoniile Kava sunt o parte importantă a vieții de zi cu zi."],
       en: ["Louniel is famous for its long stretches of black volcanic sand.", "The Toka dance involves hundreds of performers from nearby villages.", "Traditional houses are built using only natural fibers and wood.", "The site provides a clear view of the eruptions of Mt. Yasur.", "Local artisans create traditional outrigger canoes for fishing.", "Village governance is led by a council of hereditary chiefs."],
     },
+    image: "/poi-images/vanuatu-louniel-traditional-site-history-v2.webp",
   },
   {
     id: "vanuatu-anelcauhat-mission-history-v2",
@@ -1395,6 +1439,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["John Geddie a sosit aici din Nova Scotia în 1848.", "Biserica a fost construită din calcar local.", "Aneityum a fost prima insulă complet creștinată din Vanuatu.", "Populația a scăzut de la 12.000 la mai puțin de 500 în sec. XIX.", "Anelcauhat a fost cândva o bază pentru vânătoarea de balene.", "Misiunea a operat prima presă tipografică din Vanuatu."],
       en: ["John Geddie arrived from Nova Scotia, Canada, in 1848.", "The stone church was completed in 1860 using local materials.", "Aneityum was the first island in the New Hebrides to be fully converted.", "Epidemics like measles caused massive population loss in the 1860s.", "The mission introduced the first written dictionary of the local language.", "Anelcauhat remains the main administrative center of the island."],
     },
+    image: "/poi-images/vanuatu-anelcauhat-mission-history-v2.webp",
   },
   {
     id: "vanuatu-paimet-fortress-history-v2",
@@ -1426,6 +1471,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Fortăreața a fost construită din blocuri masive de coral.", "A fost utilizată intens în special în secolul al XIX-lea.", "Atchin a fost un centru al construcției de canoe și al războiului naval.", "Zidurile au pe alocuri o grosime de peste un metru.", "Fortul este situat pe o colină cu vedere spre mare.", "A servit ca ultim loc de retragere în timpul raidurilor."],
       en: ["The fort is constructed primarily from dry-stone coral blocks.", "It played a key role during the 19th-century tribal conflicts.", "Atchin islanders were famous for their large seafaring war canoes.", "Portions of the defensive walls remain intact today.", "The site was strategically located to prevent beach landings.", "Archaeologists consider it a prime example of South Pacific fortification."],
     },
+    image: "/poi-images/vanuatu-paimet-fortress-history-v2.webp",
   },
   {
     id: "vanuatu-mangalliu-village-history-v2",
@@ -1457,6 +1503,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Mangaliliu este punctul de plecare pentru tururile către Hat Island.", "Șeful Roi Mata a trăit la sfârșitul sec. XVI sau începutul sec. XVII.", "Satul a devenit parte a Patrimoniului UNESCO în 2008.", "Locuitorii mențin un sistem strict de tabu pentru locurile sacre.", "Medicina tradițională este încă practicată aici.", "Coasta din fața satului este o zonă marină protejată."],
       en: ["Mangaliliu is the official entry point for Chief Roi Mata’s Domain.", "Archaeologist Jose Garanger excavated Roi Mata's tomb in 1967.", "The village is part of the first UNESCO World Heritage site in Vanuatu.", "The local community holds exclusive rights to the oral history of Roi Mata.", "Traditional weaving and handicraft are important local industries.", "The surrounding waters are a 'tabu' marine protected area."],
     },
+    image: "/poi-images/vanuatu-mangalliu-village-history-v2.webp",
   },
   {
     id: "vanuatu-ipota-sandalwood-history-v2",
@@ -1488,6 +1535,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Boom-ul lemnului de santal a început aici în jurul anului 1825.", "Ipota a fost un port principal pentru comercianții australieni și chinezi.", "Lemnul de santal era schimbat pe topoare, cuțite și arme.", "Populația din Erromango a scăzut drastic în această perioadă.", "Astăzi, în Ipota există pepiniere forestiere de stat.", "Uleiul de santal este acum un produs de export valoros pentru regiune."],
       en: ["Peter Dillon was one of the first traders to exploit Ipota's sandalwood.", "The peak of the sandalwood trade lasted from 1840 to 1865.", "Erromango was once known as the 'Sandalwood Island'.", "The trade led to the introduction of the 'Blackbirding' labor trade.", "Ipota currently hosts a community-based reforestation program.", "Local sandalwood is highly prized in the international perfume industry."],
     },
+    image: "/poi-images/vanuatu-ipota-sandalwood-history-v2.webp",
   },
   {
     id: "vanuatu-bokissa-island-wwii-history-v2",
@@ -1519,6 +1567,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Trupele americane au fost staționate aici între 1942 și 1945.", "Fragmente de avioane au fost găsite în junglă.", "Bokissa proteja intrarea sudică în Segond Channel.", "În apropiere se află faimoasa epavă a SS President Coolidge.", "Insula a fost în mare parte defrișată în timpul războiului.", "Astăzi este o rezervație privată pentru țestoasele marine."],
       en: ["The island was part of the 'Button' base complex in WWII.", "Scattered anti-aircraft battery remains can be found on the island.", "Bokissa served as a vital lookout for the 2nd Marine Division.", "Submerged artifacts from the era are popular among snorkelers.", "The island's airstrip was planned but never fully completed.", "It is now a prime location for eco-tourism and historical tours."],
     },
+    image: "/poi-images/vanuatu-bokissa-island-wwii-history-v2.webp",
   },
   {
     id: "vanuatu-efate-round-road-history-v2",
@@ -1550,6 +1599,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Drumul are o lungime totală de aproximativ 130 km.", "Extinderea a fost finalizată oficial în anul 2011.", "SUA au creat baza drumului în timpul celui de-al Doilea Război Mondial.", "Timpul de parcurgere pentru un tur complet este de cca. 3-4 ore.", "Trece pe lângă faimoasa Blue Lagoon.", "Podurile de-a lungul traseului au fost adesea finanțate de Japonia."],
       en: ["The total length of the road is approximately 130 kilometers.", "The major sealing project was funded by the MCA (USA).", "It connects Port Vila to the rural North Efate communities.", "The road reaches its highest point near the Klehm's Hill area.", "It passes through many 'Kastom' villages and historical sites.", "The road has significantly reduced travel times across the island."],
     },
+    image: "/poi-images/vanuatu-efate-round-road-history-v2.webp",
   },
   {
     id: "vanuatu-mota-lava-church-history-v2",
@@ -1581,6 +1631,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Misiunea anglicană a început aici în anii 1860.", "Biserica este dedicată Sfântului Ioan.", "Mota Lava a fost o bază pentru nava misionară Southern Cross.", "Coralul local a fost adesea folosit pentru fundație.", "Sărbătoarea Sfântului Ioan este o zi festivă majoră pe insulă.", "Insula este cunoscută și pentru ritualul „Dansul Șarpelui”."],
       en: ["Anglican presence was established by Bishop Patteson in the 1860s.", "The church often features intricate local woven mat decorations.", "Mota Lava produced many of the first Melanesian Anglican priests.", "The current building replaces earlier structures made of bamboo.", "Christianity here exists alongside strong 'Kastom' traditions.", "The mission introduced the first English-style school system."],
     },
+    image: "/poi-images/vanuatu-mota-lava-church-history-v2.webp",
   },
   {
     id: "vanuatu-avenger-wreck-history-v2",
@@ -1612,6 +1663,7 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Grumman TBF Avenger a fost principalul bombardier torpilor al US Navy în al Doilea Război Mondial.", "Epava se află la o adâncime accesibilă de 10-15 metri în apropiere de Port Vila.", "Peste 500.000 de soldați americani au tranzitat Noile Hebride începând cu 1942.", "Structura avionului este vizibilă clar, inclusiv fuzelajul și aripile metalice.", "Locația este considerată un sit de patrimoniu subacvatic din epoca războiului.", "Noile Hebride au fost esențiale pentru campania aliaților în Insulele Solomon."],
       en: ["The Grumman TBF Avenger was the primary torpedo bomber for the US Navy during WWII.", "The wreck is situated at a depth of 10 to 15 meters off the coast of Efate.", "Over 500,000 US military personnel were stationed in the New Hebrides from 1942.", "The aircraft's fuselage and wing structures are still clearly identifiable underwater.", "The site has become a thriving artificial reef for local marine biodiversity.", "Vanuatu served as a critical rear-echelon base during the Guadalcanal campaign."],
     },
+    image: "/poi-images/vanuatu-avenger-wreck-history-v2.webp",
   },
   {
     id: "vanuatu-mele-cascades-legend-history-v2",
@@ -1643,5 +1695,6 @@ export const vanuatuHistoryV2: POI[] = [
       ro: ["Cascada principală are o înălțime de aproximativ 35 de metri.", "Formațiunile stâncoase sunt compuse din calcar poros depus de apă.", "Satul Mele este una dintre cele mai mari așezări tradiționale de pe Efate.", "Accesul la cascade necesită o drumeție prin junglă de aproximativ 20 de minute.", "Situl este o sursă vitală de apă pentru irigarea culturilor de taro din zonă.", "Legendele locale spun că spiritele 'Nabanga' locuiesc în copacii din jur."],
       en: ["The primary waterfall drop is approximately 35 meters high.", "The cascades are formed by travertine limestone deposits over many centuries.", "Mele Village is one of the largest indigenous communities on Efate island.", "The site is managed by a local landowning community cooperative.", "The water originates from underground springs in the hills of Efate.", "Traditional taboos once restricted access to certain sacred upper pools."],
     },
+    image: "/poi-images/vanuatu-mele-cascades-legend-history-v2.webp",
   }
 ];

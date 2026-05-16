@@ -32,6 +32,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Fondat de vikingi în sec. IX", "Port la Marea Irlandei", "Râul Avoca traversează orașul", "Centru istoric de construcții navale", "Populație de peste 13.000 locuitori", "Găzduiește un festival maritim anual"],
       en: ["Viking name 'Arnkill's Lugh'", "1798 Battle of Arklow location", "Major 19th-century fishing port", "Home to Arklow Pottery (est. 1934)", "Located 70 km south of Dublin", "Known for traditional boat building"],
     },
+    image: "/poi-images/ireland-arklow-cities-v2.webp",
   },
   {
     id: "ireland-ashbourne-cities-v2",
@@ -64,6 +65,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Populație de aproximativ 12.600", "Situat în regiunea istorică Meath", "Aproape de parcul tematic Emerald", "Legături rutiere majore prin N2", "Dezvoltare urbană masivă recentă", "Zona face parte din Câmpia Centrală"],
       en: ["Located 20 km from Dublin city", "Rapid expansion since the 1970s", "Named by Frederick Bourne in 1820", "Proximity to Newgrange monument", "Significant retail and leisure center", "Part of the ancient Kingdom of Meath"],
     },
+    image: "/poi-images/ireland-ashbourne-cities-v2.webp",
   },
   {
     id: "ireland-ballincollig-cities-v2",
@@ -96,6 +98,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Populație de peste 18.000", "Râul Lee trece pe lângă oraș", "Fabrica de praf de pușcă din 1794", "Castelul Ballincollig (sec. XIV)", "Parc regional de 134 de acri", "Centru de servicii financiare și IT"],
       en: ["Home to 14th-century castle ruins", "Largest gunpowder plant in 1800s", "Located on the R608 road", "Regional Park covers the mill ruins", "Major growth in late 20th century", "Proximity to University College Cork"],
     },
+    image: "/poi-images/ireland-ballincollig-cities-v2.webp",
   },
   {
     id: "ireland-ballymena-cities-v2",
@@ -128,6 +131,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Oraș în comitatul Antrim", "Populație de aprox. 30.000", "Muntele Slemish la 10 km distanță", "Istorie legată de industria inului", "Piața săptămânală din sec. XVII", "Conexiune feroviară spre Belfast"],
       en: ["Linen capital of the North", "Adair family castle history", "Gateway to the Glens of Antrim", "Braidwater Spinning Mill site", "Birthplace of actor Liam Neeson", "Established as a market town in 1626"],
     },
+    image: "/poi-images/ireland-ballymena-cities-v2.webp",
   },
   {
     id: "ireland-banbridge-cities-v2",
@@ -160,6 +164,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Fondat la mijlocul sec. XVIII", "Râul Bann traversează orașul", "Excavația rutieră 'The Cut'", "Legături cu exploratorul F. Crozier", "Industria inului a dominat sec. XIX", "Populație de peste 16.000"],
       en: ["County Down market town", "Home to F.E. McWilliam Gallery", "Crozier Memorial in the square", "World-renowned linen production", "Excavated main street (The Cut)", "Proximity to the Mourne Mountains"],
     },
+    image: "/poi-images/ireland-banbridge-cities-v2.webp",
   },
   {
     id: "ireland-bantry-cities-v2",
@@ -192,6 +197,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 2.700 locuitori", "Bantry House a fost construită în 1740", "Golful Bantry are o lungime de 35 km", "Locul tentativei de invazie franceză din 1796"],
       en: ["Population: approx. 2,700 residents", "Bantry House was built around 1740", "Bantry Bay is about 35 km long", "Site of the 1796 French invasion attempt"],
     },
+    image: "/poi-images/ireland-bantry-cities-v2.webp",
   },
   {
     id: "ireland-birr-cities-v2",
@@ -224,6 +230,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 4.400 locuitori", "Castelul Birr datează din anul 1620", "Telescopul are un diametru de 1,8 metri", "Primul oraș cu iluminat public pe gaz"],
       en: ["Population: approx. 4,400 residents", "Birr Castle dates back to 1620", "The telescope has a 1.83m diameter", "First town with public gas lighting"],
     },
+    image: "/poi-images/ireland-birr-cities-v2.webp",
   },
   {
     id: "ireland-carrickfergus-cities-v2",
@@ -256,6 +263,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Castel normand construit în 1177", "Cel mai vechi oraș din Antrim", "Ziduri medievale conservate", "Debarcarea lui William de Orania", "Legături cu familia președintelui Jackson", "Populație de aprox. 28.000"],
       en: ["One of Ireland's oldest towns", "Castle besieged by Bruce (1315)", "Ancestral home of Andrew Jackson", "Historic town walls from 1600s", "Port town on the Belfast Lough", "Site of John Paul Jones sea battle"],
     },
+    image: "/poi-images/ireland-carrickfergus-cities-v2.webp",
   },
   {
     id: "ireland-cashel-cities-v2",
@@ -288,6 +296,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Sediul regilor Munster din sec. IV", "Capela lui Cormac (arhitectură romanică)", "Turn rotund din sec. XII", "Catedrală gotică din sec. XIII", "Situat în câmpia Golden Vale", "Populație de aprox. 4.400"],
       en: ["Site of St. Patrick's conversion of kings", "Cormac's Chapel built 1127", "Round Tower stands 28m high", "Capital of Munster until 1101", "Home to Bolton Library collections", "Rock of Cashel is a top tourist site"],
     },
+    image: "/poi-images/ireland-cashel-cities-v2.webp",
   },
   {
     id: "ireland-castlebar-cities-v2",
@@ -320,6 +329,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 12.000 locuitori", "Bătălia de la Castlebar a avut loc în 1798", "Găzduiește Muzeul Național al Vieții Rurale", "Statut de oraș obținut în anul 1613"],
       en: ["Population: approx. 12,000 residents", "Battle of Castlebar occurred in 1798", "Home to the National Museum of Country Life", "Granted town charter in 1613"],
     },
+    image: "/poi-images/ireland-castlebar-cities-v2.webp",
   },
   {
     id: "ireland-cobh-cities-v2",
@@ -352,6 +362,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 12.800 locuitori", "Catedrala Sf. Colman domină orașul", "Titanic a ancorat aici la 11 aprilie 1912", "Cel mai mare port natural din Irlanda"],
       en: ["Population: approx. 12,800 residents", "St. Colman's Cathedral dominates the skyline", "Titanic called here on April 11, 1912", "Largest natural harbour in Ireland"],
     },
+    image: "/poi-images/ireland-cobh-cities-v2.webp",
   },
   {
     id: "ireland-coleraine-cities-v2",
@@ -384,6 +395,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 24.600 locuitori", "Mount Sandel este cea mai veche așezare", "Sediul Universității Ulster", "Fondat în timpul Colonizării Ulsterului"],
       en: ["Population: approx. 24,600 residents", "Mount Sandel is Ireland's oldest settlement", "Site of an Ulster University campus", "Founded during the Plantation of Ulster"],
     },
+    image: "/poi-images/ireland-coleraine-cities-v2.webp",
   },
   {
     id: "ireland-cratloe-cities-v2",
@@ -416,6 +428,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Păduri de stejar din epoca fierului", "Sursă de lemn pentru edificii celebre", "Situat lângă orașul Limerick", "Dealul Gallowshill la sud", "Include rezerve naturale protejate", "Biserica St. John construită în 1791"],
       en: ["Oak supplied for Westminster Hall", "Home to 17th-century Cratloe Woods House", "Located on the N18 road", "Proximity to Shannon Airport", "Famous for Gallowshill archaeological site", "Native sessile oak forest"],
     },
+    image: "/poi-images/ireland-cratloe-cities-v2.webp",
   },
   {
     id: "ireland-dalkey-cities-v2",
@@ -448,6 +461,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 8.000 locuitori", "Castelul Dalkey a fost construit în 1390", "Portul principal al Dublinului (sec. XIV-XVI)", "Reședință pentru mulți autori celebri"],
       en: ["Population: approx. 8,000 residents", "Dalkey Castle was built around 1390", "Main port for Dublin (14th-16th centuries)", "Home to many famous authors and artists"],
     },
+    image: "/poi-images/ireland-dalkey-cities-v2.webp",
   },
   {
     id: "ireland-donegal-cities-v2",
@@ -480,6 +494,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Castelul Donegal construit în 1474", "Capitala istorică a Tír Chonaill", "Mănăstire franciscană din sec. XV", "Piața centrală se numește Diamond", "Situat la gura râului Eske", "Centru de producție pentru tweed"],
       en: ["Home to Donegal Castle (restored)", "The Diamond is the central hub", "Franciscan Friary ruins (est. 1474)", "Famous for hand-woven Donegal Tweed", "Gateway to the Wild Atlantic Way", "Located on the River Eske"],
     },
+    image: "/poi-images/ireland-donegal-cities-v2.webp",
   },
   {
     id: "ireland-downpatrick-cities-v2",
@@ -512,6 +527,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 10.800 locuitori", "Catedrala Sf. Patrick se află pe deal", "Găzduiește Centrul Sfântul Patrick", "Muzeul Comitatului Down este într-o fostă închisoare"],
       en: ["Population: approx. 10,800 residents", "St. Patrick's Cathedral stands on the hill", "Home to the Saint Patrick Centre", "Down County Museum is in a former jail"],
     },
+    image: "/poi-images/ireland-downpatrick-cities-v2.webp",
   },
   {
     id: "ireland-edenderry-cities-v2",
@@ -544,6 +560,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Oraș în comitatul Offaly", "Situat lângă mlaștina Bog of Allen", "Ruinele castelului Blundell", "Conexiune directă cu Grand Canal", "Populație de peste 7.000", "Baza economică în agricultură și retail"],
       en: ["Lies on the Grand Canal route", "Blundell family manor history", "19th-century Town Hall building", "Proximity to the Bog of Allen", "Major peat harvesting area", "Founded in the 16th century"],
     },
+    image: "/poi-images/ireland-edenderry-cities-v2.webp",
   },
   {
     id: "ireland-enos-cities-v2",
@@ -576,6 +593,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Singurul oraș insular din Irlanda", "Castelul Enniskillen (sec. XVI)", "Catedrala Sf. Macartin", "Legături cu regimentalul Inniskillings", "Poziție strategică între lacuri", "Populație de aprox. 14.000"],
       en: ["Home to Enniskillen Castle", "County town of Fermanagh", "Samuel Beckett attended school here", "Famous for the 1987 Remembrance Day bomb", "Water gateway to the Shannon-Erne Link", "Seat of the Maguire clan"],
     },
+    image: "/poi-images/ireland-enos-cities-v2.webp",
   },
   {
     id: "ireland-fermoy-cities-v2",
@@ -608,6 +626,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 6.500 locuitori", "Fondat ca oraș modern în anul 1791", "Centru pentru pescuitul de somon pe râul Blackwater", "Fost sediu al unor mari cazărmi britanice"],
       en: ["Population: approx. 6,500 residents", "Founded as a modern town in 1791", "Centre for salmon fishing on the Blackwater", "Former site of major British military barracks"],
     },
+    image: "/poi-images/ireland-fermoy-cities-v2.webp",
   },
   {
     id: "ireland-gort-cities-v2",
@@ -640,6 +659,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Situat pe râul Gort", "Aproape de parcul Coole", "Legături cu mișcarea literară gaelică", "Peisaj carstic (Burren la vest)", "Turnul Thoor Ballylee în apropiere", "Centru agricol și comercial"],
       en: ["Home to Lady Gregory's Coole Park", "Thoor Ballylee is nearby", "Significant Brazilian community", "Lies on the edge of the Burren", "Historic market square", "Founded as a town in the 17th century"],
     },
+    image: "/poi-images/ireland-gort-cities-v2.webp",
   },
   {
     id: "ireland-greystones-cities-v2",
@@ -672,6 +692,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 18.000 locuitori", "Faimosul Cliff Walk duce spre Bray", "Numele provine de la stâncile gri distinctive", "Portul modern de agrement a fost deschis în 2013"],
       en: ["Population: approx. 18,000 residents", "Famous Cliff Walk leads to Bray", "Named after prominent grey coastal rocks", "Modern marina development opened in 2013"],
     },
+    image: "/poi-images/ireland-greystones-cities-v2.webp",
   },
   {
     id: "ireland-howth-cities-v2",
@@ -704,6 +725,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 8.200 locuitori", "Castelul Howth datează din secolul XII", "Farul Baily a fost construit în 1814", "Cunoscut pentru coloniile de foci din port"],
       en: ["Population: approx. 8,200 residents", "Howth Castle dates back to the 12th century", "Baily Lighthouse was built in 1814", "Famous for its local grey seal colony"],
     },
+    image: "/poi-images/ireland-howth-cities-v2.webp",
   },
   {
     id: "ireland-kenmare-cities-v2",
@@ -736,6 +758,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 2.400 locuitori", "Fondat în anul 1670", "Găzduiește un cerc neolitic de piatră", "Numele înseamnă 'Capul mării'"],
       en: ["Population: approx. 2,400 residents", "Founded in the year 1670", "Home to a large Neolithic stone circle", "Name means 'head of the sea' in Irish"],
     },
+    image: "/poi-images/ireland-kenmare-cities-v2.webp",
   },
   {
     id: "ireland-kinsale-cities-v2",
@@ -768,6 +791,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Bătălia de la Kinsale (1601)", "Charles Fort: fortăreață stelată", "Capitala culinară a Irlandei", "Punct de plecare Wild Atlantic Way", "Biserica St. Multose din sec. XII", "Populație de aprox. 5.300"],
       en: ["Site of the 1601 Siege", "Charles Fort is a national monument", "Renowned for the Gourmet Festival", "Deep-water harbor on Bandon River", "Colorful 18th-century architecture", "Oldest building is St. Multose Church"],
     },
+    image: "/poi-images/ireland-kinsale-cities-v2.webp",
   },
   {
     id: "ireland-larne-cities-v2",
@@ -800,6 +824,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 18.700 locuitori", "Castelul Olderfleet datează din secolul XIII", "Portul este activ de peste 1.000 de ani", "Turnul Memorial Chaine a fost ridicat în 1888"],
       en: ["Population: approx. 18,700 residents", "Olderfleet Castle dates to the 13th century", "The port has been active for over 1,000 years", "Chaine Memorial Tower was built in 1888"],
     },
+    image: "/poi-images/ireland-larne-cities-v2.webp",
   },
   {
     id: "ireland-limavady-cities-v2",
@@ -832,6 +857,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 12.000 locuitori", "Fondat în timpul Colonizării Ulsterului", "Parcul Roe Valley se află în apropiere", "Melodia 'Londonderry Air' a fost culeasă aici"],
       en: ["Population: approx. 12,000 residents", "Founded during the Plantation of Ulster", "Roe Valley Country Park is nearby", "The 'Londonderry Air' melody was found here"],
     },
+    image: "/poi-images/ireland-limavady-cities-v2.webp",
   },
   {
     id: "ireland-listowel-cities-v2",
@@ -864,6 +890,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Calea ferată Lartigue (monorail)", "Festivalul Writers' Week", "Castelul Listowel din sec. XV", "Populație de aprox. 4.800", "Traversat de râul Feale", "Cunoscut ca 'Orașul Literar'"],
       en: ["World's only Lartigue monorail site", "Home to writers like John B. Keane", "Listowel Castle was a Desmond seat", "Located on the River Feale", "Major horse racing festival in Sept", "Historic market square design"],
     },
+    image: "/poi-images/ireland-listowel-cities-v2.webp",
   },
   {
     id: "ireland-longford-cities-v2",
@@ -896,6 +923,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Reședința comitatului Longford", "Catedrala neoclasică St. Mel", "Râul Camlin traversează orașul", "Legături cu drumul antic Corlea", "Populație de peste 10.000", "Centru de servicii pentru Midlands"],
       en: ["Home to St. Mel's Cathedral", "Named 'Longphort Uí Fhearghail'", "Proximity to the Royal Canal", "Historic military barracks site", "Major hub on the N4 road", "O'Farrell clan stronghold"],
     },
+    image: "/poi-images/ireland-longford-cities-v2.webp",
   },
   {
     id: "ireland-loughrea-cities-v2",
@@ -928,6 +956,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Catedrala St. Brendan (artă sacră)", "Situat pe malul lacului Rea", "Mănăstire carmelită din sec. XIV", "Ziduri medievale fragmentate", "Populație de aprox. 5.500", "Centru de harnașament și agricultură"],
       en: ["Home to St. Brendan's Cathedral", "Carmelite Abbey founded 1300", "Lough Rea is a Blue Flag lake", "Collection of Harry Clarke glass", "Medieval town walls remains", "Located 30 km east of Galway"],
     },
+    image: "/poi-images/ireland-loughrea-cities-v2.webp",
   },
   {
     id: "ireland-lurgan-cities-v2",
@@ -960,6 +989,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 25.000 locuitori", "Parcul Lurgan are o suprafață de 100 hectare", "Brownlow House a fost construită în 1833", "Centru major al industriei inului"],
       en: ["Population: approx. 25,000 residents", "Lurgan Park covers 250 acres (100 ha)", "Brownlow House was built in 1833", "A leading center of the linen industry"],
     },
+    image: "/poi-images/ireland-lurgan-cities-v2.webp",
   },
   {
     id: "ireland-macroom-cities-v2",
@@ -992,6 +1022,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 3.700 locuitori", "Castelul Macroom datează din secolul XII", "Bătălia de la Macroom a avut loc în 1650", "Locul de origine al muzicianului Rory Gallagher"],
       en: ["Population: approx. 3,700 residents", "Macroom Castle dates to the 12th century", "Battle of Macroom took place in 1650", "Birthplace of musician Rory Gallagher"],
     },
+    image: "/poi-images/ireland-macroom-cities-v2.webp",
   },
   {
     id: "ireland-malahide-cities-v2",
@@ -1024,6 +1055,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 16.500 locuitori", "Castelul Malahide datează din secolul XII", "Deține un port de agrement modern și mare", "Familia Talbot a locuit aici timp de 791 ani"],
       en: ["Population: approx. 16,500 residents", "Malahide Castle dates to the 12th century", "Features a large award-winning marina", "The Talbot family lived here for 791 years"],
     },
+    image: "/poi-images/ireland-malahide-cities-v2.webp",
   },
   {
     id: "ireland-maynooth-cities-v2",
@@ -1056,6 +1088,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Oraș universitar (Maynooth Univ.)", "Castelul Maynooth (sec. XII)", "Seminarul Național St. Patrick", "Situat pe ruta Royal Canal", "Populație de peste 14.000", "Legătură feroviară cu Dublin"],
       en: ["Founded by the Fitzgerald family", "Home to St. Patrick's Pontifical Univ", "Maynooth Castle ruins at entrance", "Royal Canal Greenway access", "Seat of the Earls of Kildare", "Population grew rapidly since 1970"],
     },
+    image: "/poi-images/ireland-maynooth-cities-v2.webp",
   },
   {
     id: "ireland-monkstown-cities-v2",
@@ -1088,6 +1121,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 6.000 locuitori", "Numele provine de la o abație din sec. XIII", "Biserica Sf. Patrick a fost construită în 1861", "Găzduiește mai multe cluburi de navigație"],
       en: ["Population: approx. 6,000 residents", "Name derives from a 13th-century abbey", "St. Patrick's Church was completed in 1861", "Home to several prestigious yacht clubs"],
     },
+    image: "/poi-images/ireland-monkstown-cities-v2.webp",
   },
   {
     id: "ireland-mountmellick-cities-v2",
@@ -1120,6 +1154,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Centru quaker din 1657", "Broderia Mountmellick (alb pe alb)", "Numit odinioară 'Manchester-ul Irlandei'", "Traversat de râul Owenass", "Istorie industrială în lână și bumbac", "Populație de aprox. 5.000"],
       en: ["Founded by Quaker William Edmundson", "Home to Mountmellick Embroidery Museum", "Lies on the N80 road", "Developed as a textile center", "Historic brewery and tannery site", "Surrounded by the Slieve Bloom Mts"],
     },
+    image: "/poi-images/ireland-mountmellick-cities-v2.webp",
   },
   {
     id: "ireland-muine-bheag-cities-v2",
@@ -1152,6 +1187,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Numit și Bagenalstown", "Situat pe malul râului Barrow", "Proiectat după modelul Versailles", "Faimos pentru granitul de Carlow", "Populație de aprox. 2.800", "Găzduiește o distilerie modernă"],
       en: ["Designed by Walter Bagenal", "River Barrow navigation hub", "Renowned for Carlow granite", "Classical 1840s railway station", "Known as Bagenalstown until 1910", "Proximity to Leighlinbridge"],
     },
+    image: "/poi-images/ireland-muine-bheag-cities-v2.webp",
   },
   {
     id: "ireland-nena-cities-v2",
@@ -1184,6 +1220,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Castelul Nenagh (sec. XIII)", "Fostă capitală a North Tipperary", "Ruinele mănăstirii franciscane", "Centru de patrimoniu în vechea închisoare", "Populație de peste 8.000", "Conexiune feroviară cu Limerick"],
       en: ["Home to Nenagh Castle Keep", "Seat of the Butler family", "Nenagh Heritage Centre location", "Largest town in North Tipperary", "Founded by Theobald Walter", "Proximity to Lough Derg"],
     },
+    image: "/poi-images/ireland-nena-cities-v2.webp",
   },
   {
     id: "ireland-newtownards-cities-v2",
@@ -1216,6 +1253,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 28.000 locuitori", "Turnul Scrabo a fost construit în 1857", "Grădinile Mount Stewart sunt în apropiere", "Fondat în jurul anului 1226"],
       en: ["Population: approx. 28,000 residents", "Scrabo Tower was completed in 1857", "Mount Stewart gardens are located nearby", "Established around the year 1226"],
     },
+    image: "/poi-images/ireland-newtownards-cities-v2.webp",
   },
   {
     id: "ireland-omagh-cities-v2",
@@ -1248,6 +1286,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 20.000 locuitori", "Găzduiește Ulster American Folk Park", "Biserica Sf. Columba datează din 1777", "Centru educațional important al regiunii"],
       en: ["Population: approx. 20,000 residents", "Home to the Ulster American Folk Park", "St. Columba's Church was built in 1777", "Significant regional educational centre"],
     },
+    image: "/poi-images/ireland-omagh-cities-v2.webp",
   },
   {
     id: "ireland-passage-west-cities-v2",
@@ -1280,6 +1319,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Port istoric în comitatul Cork", "Plecarea navei SS Sirius (1838)", "Tradiție în construcții navale", "Situat pe râul Lee", "Populație de aprox. 5.800", "Cunoscut ca 'Orașul Vapoarelor'"],
       en: ["Home to the first steam crossing (Sirius)", "Major shipbuilding center in 1800s", "Located on Cork Harbor", "Part of the Cork commuter belt", "Maritime heritage walk", "Proximity to Monkstown"],
     },
+    image: "/poi-images/ireland-passage-west-cities-v2.webp",
   },
   {
     id: "ireland-portadown-cities-v2",
@@ -1312,6 +1352,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 22.000 locuitori", "Fondat în timpul Colonizării Ulsterului", "Podul Bann a fost reconstruit în 1970", "Cunoscut anterior ca 'Nodul Nordului'"],
       en: ["Population: approx. 22,000 residents", "Founded during the Plantation of Ulster", "The current Bann Bridge opened in 1970", "Once known as the 'Hub of the North'"],
     },
+    image: "/poi-images/ireland-portadown-cities-v2.webp",
   },
   {
     id: "ireland-rathkeale-cities-v2",
@@ -1344,6 +1385,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Centrul refugiaților palatini (1709)", "Castelul Desmond din sec. XV", "Muzeul Palatin din Rathkeale", "Populație de aprox. 1.500", "Situat pe râul Deel", "Istorie legată de clanul Desmond"],
       en: ["Main Irish Palatine settlement", "Home to 15th-century Desmond Castle", "Located on the Great Southern Trail", "Augustinian Priory ruins (est. 1280)", "Major hub for Irish Travelers", "Agriculture-based economy"],
     },
+    image: "/poi-images/ireland-rathkeale-cities-v2.webp",
   },
   {
     id: "ireland-rosslare-cities-v2",
@@ -1376,6 +1418,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 1.800 locuitori", "Rosslare Europort a fost deschis în 1882", "Faimos pentru plaja sa însorită de nisip", "Terminus feroviar important"],
       en: ["Population: approx. 1,800 residents", "Rosslare Europort opened in 1882", "Known for its sunny Blue Flag beach", "Major terminus for the railway line"],
     },
+    image: "/poi-images/ireland-rosslare-cities-v2.webp",
   },
   {
     id: "ireland-skibbereen-cities-v2",
@@ -1408,6 +1451,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 2.700 locuitori", "Găzduiește Centrul de Patrimoniu (Foametea)", "Lacul Hyne se află la doar 5 km distanță", "Fondat după atacurile piraților din 1631"],
       en: ["Population: approx. 2,700 residents", "Home to the Famine Heritage Centre", "Lough Hyne is located 5 km away", "Developed after pirate raids in 1631"],
     },
+    image: "/poi-images/ireland-skibbereen-cities-v2.webp",
   },
   {
     id: "ireland-strabane-cities-v2",
@@ -1440,6 +1484,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 13.000 locuitori", "Găzduiește Tipografia Gray's", "La confluența râurilor Mourne și Finn", "John Dunlap a ucenicit aici în tipografie"],
       en: ["Population: approx. 13,000 residents", "Home to Gray's Printing Press", "At the confluence of the Mourne and Finn", "John Dunlap apprenticed as a printer here"],
     },
+    image: "/poi-images/ireland-strabane-cities-v2.webp",
   },
   {
     id: "ireland-swinford-cities-v2",
@@ -1472,6 +1517,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Festivalul Siamsa Sráide", "Aproape de râul Moy (somon)", "Populație de aprox. 1.400", "Baza istorică a familiei Brabazon", "Centru de muzică tradițională", "Situat pe drumul N26"],
       en: ["Home to Siamsa Sráide festival", "Renowned for salmon fishing", "Developed by the Brabazon family", "Old Swinford railway heritage", "Located 15 km from Knock Airport", "Significant market town history"],
     },
+    image: "/poi-images/ireland-swinford-cities-v2.webp",
   },
   {
     id: "ireland-templemore-cities-v2",
@@ -1504,6 +1550,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 1.900 locuitori", "Colegiul Garda a fost deschis în 1964", "Parcul Templemore are 70 de hectare", "Fost sediu al Cavalerilor Templieri (sec. XII)"],
       en: ["Population: approx. 1,900 residents", "The Garda College opened here in 1964", "Templemore Town Park covers 70 hectares", "Former site of the Knights Templar (12th C)"],
     },
+    image: "/poi-images/ireland-templemore-cities-v2.webp",
   },
   {
     id: "ireland-thurles-cities-v2",
@@ -1536,6 +1583,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 8.000 locuitori", "GAA a fost fondată în 1884 la Hayes Hotel", "Stadionul Semple are 45.000 de locuri", "Catedrala Sf. Patrick datează din 1879"],
       en: ["Population: approx. 8,000 residents", "GAA was founded in 1884 at Hayes Hotel", "Semple Stadium has a capacity of 45,000", "St. Patrick's Cathedral was built in 1879"],
     },
+    image: "/poi-images/ireland-thurles-cities-v2.webp",
   },
   {
     id: "ireland-tipperary-cities-v2",
@@ -1568,6 +1616,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Situat în valea Golden Vale", "Cântecul 'It's a Long Way to Tipperary'", "Centru major al industriei laptelui", "Cunoscut pentru târgurile de vite", "Populație de aprox. 4.500", "Biserica St. Michael (sec. XIX)"],
       en: ["Famous WWI song association", "Center of the Golden Vale dairy area", "Home to Tipperary Excel Centre", "Anglo-Norman town foundation", "New Tipperary historical site", "Located on the N24 road"],
     },
+    image: "/poi-images/ireland-tipperary-cities-v2.webp",
   },
   {
     id: "ireland-trillick-cities-v2",
@@ -1600,6 +1649,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Numele înseamnă 'Trei Pietre'", "Castelul Trillick construit în 1620", "Gara istorică Great Northern", "Situri arheologice din epoca bronzului", "Situat în comitatul Tyrone", "Comunitate rurală tradițională"],
       en: ["Named after ancient Tri-leac stones", "Home to 1620 castle ruins", "Former Great Northern Railway hub", "Significant Celtic cross nearby", "Located near the Fermanagh border", "Known for agricultural shows"],
     },
+    image: "/poi-images/ireland-trillick-cities-v2.webp",
   },
   {
     id: "ireland-tuam-cities-v2",
@@ -1632,6 +1682,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 8.800 locuitori", "Catedrala Sf. Maria datează din sec. XII", "Are două catedrale (catolică și anglicană)", "Fondat în jurul unei mănăstiri în secolul V"],
       en: ["Population: approx. 8,800 residents", "St. Mary's Cathedral has a 12th-century chancel", "Features two cathedrals (RC and Anglican)", "Grew around a 5th-century monastery"],
     },
+    image: "/poi-images/ireland-tuam-cities-v2.webp",
   },
   {
     id: "ireland-tulla-cities-v2",
@@ -1664,6 +1715,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Renumit pentru muzica tradițională", "Tulla Céilí Band (fondată în 1946)", "Mănăstirea Sf. Mochulla din sec. VII", "Peșterile Kiltannon în apropiere", "Populație de aprox. 700", "Situat pe un deal calcaros"],
       en: ["Home to the legendary Tulla Céilí Band", "St. Mochulla founded monastery in 620", "Famous for Kiltannon Caves", "Major center for traditional fiddle music", "Panoramic views from the hill", "Located in east County Clare"],
     },
+    image: "/poi-images/ireland-tulla-cities-v2.webp",
   },
   {
     id: "ireland-warrenpoint-cities-v2",
@@ -1696,6 +1748,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 8.700 locuitori", "Castelul Narrow Water se află în apropiere", "Portul a fost extins în secolul XVIII", "Are un parc public victorian vast"],
       en: ["Population: approx. 8,700 residents", "Narrow Water Castle is located nearby", "Port facilities expanded in the 18th century", "Features a large Victorian municipal park"],
     },
+    image: "/poi-images/ireland-warrenpoint-cities-v2.webp",
   },
   {
     id: "ireland-youghal-cities-v2",
@@ -1728,6 +1781,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Ziduri medievale din sec. XIII", "Turnul Clock Gate (construit în 1777)", "Biserica St. Mary (sec. XIII)", "Sir Walter Raleigh a fost primar aici", "Situat pe râul Blackwater", "Populație de peste 8.000"],
       en: ["One of Ireland's best-preserved walled towns", "Home to St. Mary's Collegiate Church", "Sir Walter Raleigh's Myrtle Grove", "Filming location for Moby Dick (1954)", "Major seaside resort destination", "Blackwater River mouth location"],
     },
+    image: "/poi-images/ireland-youghal-cities-v2.webp",
   },
   {
     id: "ireland-abbeyleix-cities-v2",
@@ -1760,6 +1814,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 1.800 locuitori", "Găzduiește Abbey Leix House (1773)", "Abbeyleix Bog este o rezervație naturală", "Cel mai bine conservat oraș de patrimoniu"],
       en: ["Population: approx. 1,800 residents", "Home to Abbey Leix House, built in 1773", "Abbeyleix Bog is a 500-acre nature reserve", "Designated as a Heritage Town in Laois"],
     },
+    image: "/poi-images/ireland-abbeyleix-cities-v2.webp",
   },
   {
     id: "ireland-adare-cities-v2",
@@ -1792,6 +1847,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Case tradiționale cu stuf", "Castelul Desmond din sec. XIII", "Mănăstire trinitariană unică", "Adare Manor (resort de golf)", "Situat pe râul Maigue", "Populație de aprox. 1.100"],
       en: ["Known for thatched cottages", "Home to 13th-century Desmond Castle", "Host of the 2027 Ryder Cup", "Trinitarian and Augustinian friaries", "Located on the River Maigue", "Founded in the 13th century"],
     },
+    image: "/poi-images/ireland-adare-cities-v2.webp",
   },
   {
     id: "ireland-ardee-cities-v2",
@@ -1824,6 +1880,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Castelul Ardee (sec. XV)", "Legenda duelului Cuchulainn-Ferdia", "Râul Dee traversează orașul", "Biserica Kildemock (Jumpers' Church)", "Populație de peste 5.000", "Situat pe drumul N2"],
       en: ["Home to Ireland's largest tower house", "Site of mythical Ferdia's Ford", "Hatch's Castle (14th century)", "Located on the River Dee", "Kildemock 'Jumping Church' nearby", "Market town charter since 1207"],
     },
+    image: "/poi-images/ireland-ardee-cities-v2.webp",
   },
   {
     id: "ireland-arklow-low-cities-v2",
@@ -1856,6 +1913,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["District portuar istoric", "Centrul flotei de pescuit", "Șantiere navale tradiționale", "Gura de vărsare a râului Avoca", "Acces direct la Marea Irlandei", "Monumente dedicate marinarilor"],
       en: ["Historic harbor district", "Center of Arklow's fishing trade", "Location of traditional boatyards", "Access to the South Beach area", "Maritime memorial location", "Strong Viking historical link"],
     },
+    image: "/poi-images/ireland-arklow-low-cities-v2.webp",
   },
   {
     id: "ireland-ballybunion-cities-v2",
@@ -1888,6 +1946,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Situat în nordul comitatului Kerry", "Club de golf fondat în 1893", "Formațiune stâncoasă Virgin Rock", "Destinație populară de surf", "Plaje premiate cu Steagul Albastru", "Aproape de gura de vărsare a Shannon"],
       en: ["Home to world-class golf links", "Famous Virgin Rock sea arch", "Established as resort in 1800s", "Located on the Wild Atlantic Way", "Two major blue flag beaches", "Known for traditional seaweed baths"],
     },
+    image: "/poi-images/ireland-ballybunion-cities-v2.webp",
   },
   {
     id: "ireland-ballymoney-cities-v2",
@@ -1920,6 +1979,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 10.400 locuitori", "Statut de oraș obținut în anul 1613", "Găzduiește Grădina Memorială Joey Dunlop", "Fost centru major al comerțului cu in"],
       en: ["Population: approx. 10,400 residents", "Granted a town charter in 1613", "Home to the Joey Dunlop Memorial Garden", "Once a major hub for the linen trade"],
     },
+    image: "/poi-images/ireland-ballymoney-cities-v2.webp",
   },
   {
     id: "ireland-banagher-cities-v2",
@@ -1952,6 +2012,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Port fluvial pe râul Shannon", "Turn Martello construit în 1812", "Pod istoric finalizat în 1843", "Legături cu scriitoarea Charlotte Bronte", "Centru de pescuit sportiv", "Comitatul Offaly"],
       en: ["Strategic crossing on River Shannon", "Martello tower dates to 1812", "Stone bridge built in 1843", "Associated with Charlotte Bronte", "Major hub for river cruising", "Located in County Offaly"],
     },
+    image: "/poi-images/ireland-banagher-cities-v2.webp",
   },
   {
     id: "ireland-buncrana-cities-v2",
@@ -1984,6 +2045,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Oraș port la Lough Swilly", "Turnul O'Doherty din sec. XIV", "Centru istoric al industriei textile", "Acces către Peninsula Inishowen", "Parcul Swan situat pe malul râului", "Comitatul Donegal"],
       en: ["Gateway to Inishowen Peninsula", "14th-century O'Doherty's Keep", "Located on Lough Swilly", "Historical textile manufacturing hub", "Famous Shore Front walk", "County Donegal's second largest town"],
     },
+    image: "/poi-images/ireland-buncrana-cities-v2.webp",
   },
   {
     id: "ireland-cahir-cities-v2",
@@ -2016,6 +2078,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Castelul Cahir din secolul XII", "Râul Suir traversează orașul", "Swiss Cottage construit în 1810", "Fost domeniu al familiei Butler", "Comitatul Tipperary", "Piață istorică centrală"],
       en: ["12th-century island castle", "Set on the banks of River Suir", "Regency era Swiss Cottage nearby", "Historical seat of Butler family", "Located in County Tipperary", "Well-preserved medieval structure"],
     },
+    image: "/poi-images/ireland-cahir-cities-v2.webp",
   },
   {
     id: "ireland-carrickmacross-cities-v2",
@@ -2048,6 +2111,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Centru mondial al dantelei", "Fondat în jurul anului 1630", "Biserica St. Finbarr", "Situat în comitatul Monaghan", "Regiune cu multe lacuri de pescuit", "Dantelă folosită de familia regală"],
       en: ["World-famed lace industry center", "Founded circa 1630", "St. Finbarr's Church site", "Located in County Monaghan", "Hub for drumlin lake fishing", "Lace featured in royal weddings"],
     },
+    image: "/poi-images/ireland-carrickmacross-cities-v2.webp",
   },
   {
     id: "ireland-castlewellan-cities-v2",
@@ -2080,6 +2144,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Parc forestier spectaculos", "Castel construit în 1856", "Labirintul Păcii (gard viu)", "Arboretumul Annesley", "Lângă munții Mourne", "Comitatul Down, Irlanda de Nord"],
       en: ["Home to the Peace Maze", "1856 Scottish Baronial castle", "Extensive Forest Park and lake", "World-class arboretum collection", "Located in County Down", "Footsteps of the Mourne Mountains"],
     },
+    image: "/poi-images/ireland-castlewellan-cities-v2.webp",
   },
   {
     id: "ireland-charleville-cities-v2",
@@ -2112,6 +2177,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Centru al industriei lactatelor", "Fondat în 1661 de Contele de Orrery", "Situat în regiunea Golden Vale", "Comitatul Cork", "Numit după regele Carol al II-lea", "Nod feroviar important"],
       en: ["Major dairy processing center", "Founded in 1661 by Earl of Orrery", "Heart of the Golden Vale pasture", "Located in County Cork", "Named after King Charles II", "Key stop on the Dublin-Cork railway"],
     },
+    image: "/poi-images/ireland-charleville-cities-v2.webp",
   },
   {
     id: "ireland-clara-cities-v2",
@@ -2144,6 +2210,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 3.300 locuitori", "Clara Bog este una dintre cele mai mari mlaștini", "Familia Goodbody a dominat industria locală", "Gara a fost deschisă în anul 1859"],
       en: ["Population: approx. 3,300 residents", "Clara Bog is one of Europe's largest raised bogs", "The Goodbody family drove local industry", "Railway station opened in the year 1859"],
     },
+    image: "/poi-images/ireland-clara-cities-v2.webp",
   },
   {
     id: "ireland-clifden-cities-v2",
@@ -2176,6 +2243,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Capitala regiunii Connemara", "Fondat în anul 1812", "Traseul panoramic Sky Road", "Locul aterizării Alcock și Brown", "Stație radio Marconi istorică", "Târg anual de ponei Connemara"],
       en: ["Unofficial capital of Connemara", "Founded in 1812", "Sky Road scenic drive", "Alcock & Brown landing site", "Marconi wireless station ruins", "Famous Connemara Pony Festival"],
     },
+    image: "/poi-images/ireland-clifden-cities-v2.webp",
   },
   {
     id: "ireland-donaghadee-cities-v2",
@@ -2208,6 +2276,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Far construit în anul 1836", "Port istoric important", "Pub-ul Grace Neill's din 1611", "Fortificația Donaghadee Moat", "Cea mai mică distanță spre Scoția", "Comitatul Down, Irlanda de Nord"],
       en: ["Iconic lighthouse built in 1836", "Historical stone pier harbor", "Home to Grace Neill's (1611 pub)", "The Moat defensive structure", "Closest Irish port to Scotland", "Located in County Down"],
     },
+    image: "/poi-images/ireland-donaghadee-cities-v2.webp",
   },
   {
     id: "ireland-dungloe-cities-v2",
@@ -2240,6 +2309,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Capitala regiunii Rosses", "Festivalul Mary From Dungloe", "Coasta vestică a Donegalului", "Comitatul Donegal", "Zonă importantă pentru pescuit", "Proximitatea regiunii Gaeltacht"],
       en: ["Capital of the Rosses area", "Host of Mary From Dungloe Festival", "Located on the Donegal coast", "County Donegal heartland", "Surrounded by 130+ fishing lakes", "Strong Irish language connections"],
     },
+    image: "/poi-images/ireland-dungloe-cities-v2.webp",
   },
   {
     id: "ireland-dunmanway-cities-v2",
@@ -2272,6 +2342,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Locul de naștere al lui Sam Maguire", "Centrul geografic al West Cork", "Carillonul Sam Maguire", "Comitatul Cork", "Piață istorică centrală", "Aproape de munții Shehy"],
       en: ["Birthplace of Sam Maguire", "Geographic heart of West Cork", "Sam Maguire Community Bells", "Located in County Cork", "Historic market town heritage", "Gate to the Bandon river valley"],
     },
+    image: "/poi-images/ireland-dunmanway-cities-v2.webp",
   },
   {
     id: "ireland-glenties-cities-v2",
@@ -2304,6 +2375,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Confluența râurilor Owenea și Stracashel", "Centru istoric al tricotajelor", "Muzeul St. Connell", "Loc de inspirație pentru Brian Friel", "Comitatul Donegal", "Câștigător repetat Tidy Towns"],
       en: ["Confluence of Owenea and Stracashel", "Famed for knitwear and hosiery", "St. Connell's Museum and Heritage", "Setting for Brian Friel's plays", "Located in County Donegal", "Record 'Tidy Towns' competition wins"],
     },
+    image: "/poi-images/ireland-glenties-cities-v2.webp",
   },
   {
     id: "ireland-gorey-cities-v2",
@@ -2336,6 +2408,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Populație de aproximativ 11.500 de locuitori", "Situat la 5 km de coasta Mării Irlandei", "Dealul Tara are o înălțime de 253 de metri", "Locul unei bătălii majore în iunie 1798"],
       en: ["Population of approximately 11,500 people", "Located 5 km from the Irish Sea coast", "Tara Hill rises to 253 meters nearby", "Site of a major battle in June 1798"],
     },
+    image: "/poi-images/ireland-gorey-cities-v2.webp",
   },
   {
     id: "ireland-graiguenamanagh-cities-v2",
@@ -2368,6 +2441,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Abația Duiske fondată în 1204", "Situat pe râul Barrow", "Pod istoric construit în 1767", "Comitatul Kilkenny", "Centru pentru navigația fluvială", "Aproape de Brandon Hill"],
       en: ["13th-century Duiske Abbey", "Set on the River Barrow", "Historic seven-arch bridge", "Located in County Kilkenny", "Popular stop on the Barrow Way", "Former center of wool and corn trade"],
     },
+    image: "/poi-images/ireland-graiguenamanagh-cities-v2.webp",
   },
   {
     id: "ireland-killaloe-cities-v2",
@@ -2400,6 +2474,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Catedrala St. Flannan datează din sec. XII", "Brian Boru a domnit de aici între 1002 și 1014", "Punct de intrare către lacul Lough Derg", "Sediul diecezei Killaloe din perioada medievală"],
       en: ["St. Flannan's Cathedral dates to the 12th century", "Brian Boru ruled from here (1002–1014)", "Entry point to the Lough Derg lake system", "Seat of the Diocese of Killaloe since medieval times"],
     },
+    image: "/poi-images/ireland-killaloe-cities-v2.webp",
   },
   {
     id: "ireland-manorhamilton-cities-v2",
@@ -2432,6 +2507,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Castelul Hamilton construit în 1634", "Centrul văilor din North Leitrim", "Comitatul Leitrim", "Centru regional de sculptură", "Situat lângă muntele Benbo", "Arhitectură din secolul XIX"],
       en: ["1634 baronial castle ruins", "Gateway to North Leitrim Glens", "County Leitrim administrative hub", "Home to Leitrim Sculpture Centre", "Overlooked by Benbo Mountain", "Historical 17th-century plantation town"],
     },
+    image: "/poi-images/ireland-manorhamilton-cities-v2.webp",
   },
   {
     id: "ireland-miltown-malbay-cities-v2",
@@ -2464,6 +2540,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Numit după moara de lângă Golful Mal", "Willie Clancy a fost un celebru cimpoier irlandez", "Situat lângă falezele de la Spanish Point", "Școala de muzică a fost fondată în 1973"],
       en: ["Named after the mill by the Mal Bay", "Willie Clancy was a famous Uilleann piper", "Located near the Spanish Point cliffs", "Music school established in 1973"],
     },
+    image: "/poi-images/ireland-miltown-malbay-cities-v2.webp",
   },
   {
     id: "ireland-moate-cities-v2",
@@ -2496,6 +2573,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Fortăreața Granoge datează din secolul XII", "Turloughmore a fost o piață locală renumită", "Fost centru al comunității Quakerilor", "Situat pe traseul ciclist Old Rail Trail"],
       en: ["The Motte of Granoge dates to the 12th century", "Turloughmore was a famous local marketplace", "Former center of the Quaker community", "Located on the Old Rail Trail greenway"],
     },
+    image: "/poi-images/ireland-moate-cities-v2.webp",
   },
   {
     id: "ireland-moville-cities-v2",
@@ -2528,6 +2606,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Situat pe malul Lough Foyle", "Arhitectură din epoca victoriană", "Parcul Moville Green", "Peninsula Inishowen", "Comitatul Donegal", "Cale de acces spre Oceanul Atlantic"],
       en: ["Set on the shores of Lough Foyle", "Notable Victorian architecture", "Scenic Moville Green parkland", "Located on Inishowen Peninsula", "County Donegal coastal resort", "Associated with Field Marshal Montgomery"],
     },
+    image: "/poi-images/ireland-moville-cities-v2.webp",
   },
   {
     id: "ireland-muin-bheag-cities-v2",
@@ -2560,6 +2639,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Oraș planificat în secolul XVIII", "Situat pe râul Barrow", "Judecătoria în stil neoclasic", "Comitatul Carlow", "Gară istorică din 1846", "Punct pe traseul Barrow Way"],
       en: ["Planned town founded by Walter Bagenal", "Set on the River Barrow", "Grand neoclassical courthouse", "Located in County Carlow", "Railway station dates to 1846", "Strategic river crossing point"],
     },
+    image: "/poi-images/ireland-muin-bheag-cities-v2.webp",
   },
   {
     id: "ireland-new-ross-cities-v2",
@@ -2592,6 +2672,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Fondat de William Marshal în anul 1207", "Găzduiește replica navei de foamete Dunbrody", "JFK a vizitat orașul în iunie 1963", "Deține unul dintre cele mai lungi poduri din țară"],
       en: ["Founded by William Marshal in 1207", "Home to the Dunbrody Famine Ship replica", "JFK visited the town in June 1963", "Features one of Ireland's longest bridges"],
     },
+    image: "/poi-images/ireland-new-ross-cities-v2.webp",
   },
   {
     id: "ireland-portarlington-cities-v2",
@@ -2624,6 +2705,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Fondat în 1666 de către Lord Arlington", "Găzduiește biserica franceză St. Paul", "Nod feroviar important începând cu 1847", "Râul Barrow traversează centrul orașului"],
       en: ["Founded in 1666 by Lord Arlington", "Home to St. Paul's French Church", "Major railway junction since 1847", "The River Barrow flows through the town"],
     },
+    image: "/poi-images/ireland-portarlington-cities-v2.webp",
   },
   {
     id: "ireland-rathdrum-cities-v2",
@@ -2656,6 +2738,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Casa Avondale a fost construită în 1777", "Parnell s-a născut aici în anul 1846", "Situat pe malul râului Avonmore", "Stație importantă pe linia ferată spre Wexford"],
       en: ["Avondale House was built in 1777", "Parnell was born here in 1846", "Located on the banks of the River Avonmore", "Key stop on the Dublin-Wexford railway line"],
     },
+    image: "/poi-images/ireland-rathdrum-cities-v2.webp",
   },
   {
     id: "ireland-roscrea-cities-v2",
@@ -2688,6 +2771,7 @@ export const irelandCitiesV2: POI[] = [
       ro: ["Castelul Roscrea a fost ridicat în 1213", "Turnul rotund datează din secolul XII", "Sf. Cronan a fondat mănăstirea în jurul anului 610", "Casa Damer este un exemplu de stil Queen Anne"],
       en: ["Roscrea Castle was built in 1213", "The round tower dates to the 12th century", "St. Cronan founded a monastery here c. 610", "Damer House is a fine Queen Anne style building"],
     },
+    image: "/poi-images/ireland-roscrea-cities-v2.webp",
   },
   {
     id: "ireland-shannon-cities-v2",
@@ -2720,5 +2804,6 @@ export const irelandCitiesV2: POI[] = [
       ro: ["A primit statutul de oraș în anul 1982", "Aeroportul a fost deschis oficial în 1945", "Prima zonă Duty-Free din lume creată în 1947", "Populație de aproximativ 10.000 de locuitori"],
       en: ["Granted town status in 1982", "The airport officially opened in 1945", "World's first Duty Free shop opened here in 1947", "Population of approximately 10,000 residents"],
     },
+    image: "/poi-images/ireland-shannon-cities-v2.webp",
   }
 ];

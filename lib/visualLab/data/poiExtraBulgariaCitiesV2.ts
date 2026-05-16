@@ -32,6 +32,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Asediul Plevnei din anul 1877 a durat în total 143 de zile.", "Panorama „Epopeea Pleven” a fost inaugurată în 1977, la centenarul eliberării.", "Parcul Kaylaka se întinde pe o suprafață de aproximativ 10 kilometri pătrați.", "Orașul găzduiește una dintre cele mai importante universități de medicină din Bulgaria.", "Pleven este situat la aproximativ 160 de kilometri nord-est de Sofia.", "Mausoleul-capelă Sfântul Gheorghe a fost construit între anii 1903 și 1907."],
       en: ["The Siege of Plevna in 1877 lasted for a total of 143 days.", "The Pleven Panorama was opened in 1977 to mark the centennial of the liberation.", "Kaylaka Park covers an area of approximately 10 square kilometers.", "Pleven is home to one of Bulgaria's leading medical universities.", "The city is located roughly 160 kilometers northeast of the capital, Sofia.", "The St. George the Conqueror Chapel-Mausoleum was built between 1903 and 1907."],
     },
+    image: "/poi-images/bulgaria-pleven-cities-v2.webp",
   },
   {
     id: "bulgaria-gabrovo-cities-v2",
@@ -64,6 +65,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Casa Umorului și Satirei a fost inaugurată la data de 1 aprilie 1972.", "Liceul Aprilov a fost prima școală laică modernă din Bulgaria, fondată în 1835.", "Muzeul Etar cuprinde 50 de obiective, inclusiv ateliere meșteșugărești hidraulice.", "Gabrovo are o lungime de peste 25 km, fiind unul dintre cele mai lungi orașe din țară.", "Universitatea Tehnică din Gabrovo a fost înființată în anul 1964.", "Astronomul Hristo Ganev a numit un asteroid descoperit de el „Gabrovo”."],
       en: ["The House of Humor and Satire was officially opened on April 1, 1972.", "The Aprilov National High School was the first modern secular school in Bulgaria (1835).", "The Etar Museum features 50 sites, including unique water-powered workshops.", "Gabrovo stretches over 25 kilometers in length along the Yantra River valley.", "The Technical University of Gabrovo was established in 1964.", "Astronomer Hristo Ganev named a discovered asteroid 'Gabrovo' in honor of the city."],
     },
+    image: "/poi-images/bulgaria-gabrovo-cities-v2.webp",
   },
   {
     id: "bulgaria-yambol-cities-v2",
@@ -96,6 +98,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Orașul antic Kabile a fost cucerit în secolul al IV-lea î.Hr. de Filip al II-lea al Macedoniei.", "Bezistenul din Iambol este singura piață otomană acoperită care s-a păstrat în Bulgaria.", "Festivalul de măști „Kukerlandia” are loc anual la sfârșitul lunii februarie.", "Iambol a fost cucerit de otomani în anul 1373, după un asediu prelungit.", "Orașul se află la aproximativ 280 km de Sofia și 100 km de Burgas.", "Parcul municipal din Iambol ocupă o suprafață de aproape 30 de hectare."],
       en: ["The ancient city of Kabile was conquered by Philip II of Macedon in the 4th century BC.", "The Yambol Bezisten is the only preserved Ottoman covered market of its kind in Bulgaria.", "The 'Kukerlandia' masquerade festival is held annually in late February or early March.", "Yambol was captured by the Ottomans in 1373 after a prolonged siege.", "The city is located roughly 280 kilometers from Sofia and 100 kilometers from Burgas.", "Yambol's central park spans an area of nearly 30 hectares on a river island."],
     },
+    image: "/poi-images/bulgaria-yambol-cities-v2.webp",
   },
   {
     id: "bulgaria-kardzhali-cities-v2",
@@ -128,6 +131,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Situl Perperikon se află la aproximativ 15 kilometri nord-est de Kărdjali.", "Barajul Kărdjali are unul dintre cele mai înalte ziduri de acumulare din Balcani.", "Muzeul Regional deține peste 40.000 de piese, inclusiv tezaure de aur trace.", "Orașul a fost eliberat în anul 1912, în timpul Primului Război Balcanic.", "„Oglinda de apă” este un canal artificial de 2 km lungime situat în centrul orașului.", "Kărdjali se află la o distanță de aproximativ 50 de kilometri de granița cu Grecia."],
       en: ["Perperikon is located approximately 15 kilometers northeast of Kardzhali.", "The Kardzhali Dam features one of the highest concrete arch walls in the Balkans.", "The Regional Museum houses over 40,000 artifacts, including ancient Thracian gold.", "The city was liberated from Ottoman rule in 1912 during the First Balkan War.", "The 'Water Mirror' is a 2-kilometer long artificial lake in the city center.", "Kardzhali is situated roughly 50 kilometers from the border with Greece."],
     },
+    image: "/poi-images/bulgaria-kardzhali-cities-v2.webp",
   },
   {
     id: "bulgaria-smolyan-cities-v2",
@@ -160,6 +164,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Smolyan este situat la o altitudine medie de aproximativ 1.000 de metri peste nivelul mării.", "Planetariul din Smolyan, inaugurat în 1975, este cel mai mare din Bulgaria.", "Vârful Golyam Perelik (2.191 m), cel mai înalt din Rodopi, se află în apropiere.", "Din grupul inițial de peste 20 de lacuri, astăzi mai există 7 sau 8 lacuri permanente.", "Orașul se află la doar 15 kilometri distanță de stațiunea internațională Pamporovo.", "Catedrala Sfântul Vissarion din Smolyan este cea mai mare biserică ortodoxă din Rodopi."],
       en: ["Smolyan is located at an average altitude of approximately 1,000 meters above sea level.", "The Smolyan Planetarium, opened in 1975, is the largest facility of its kind in Bulgaria.", "The nearby Golyam Perelik (2,191 m) is the highest peak in the Rhodope Mountains.", "Out of the original 20+ Smolyan Lakes, only 7 or 8 remain permanently filled with water today.", "The city is situated only 15 kilometers south of the Pamporovo international ski resort.", "The St. Vissarion Cathedral in Smolyan is the largest Orthodox church in the Rhodope region."],
     },
+    image: "/poi-images/bulgaria-smolyan-cities-v2.webp",
   },
   {
     id: "bulgaria-targovishte-cities-v2",
@@ -192,6 +197,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Celebrul târg de primăvară din Târgoviște a fost menționat documentar încă din secolul XVIII.", "Cetatea Missionis a fost fondată în secolul al V-lea și a fost un important centru episcopal.", "Orașul găzduiește una dintre cele mai mari fabrici de sticlă din sud-estul Europei.", "Târgoviște a fost eliberat în anul 1878, în timpul Războiului Ruso-Turc.", "Cartierul istoric Varoșa include peste 30 de case declarate monumente istorice.", "Orașul este situat la aproximativ 125 de kilometri vest de portul Varna."],
       en: ["Targovishte's famous spring trade fair was already mentioned in records in the 18th century.", "The Missionis fortress was established in the 5th century and served as an episcopal see.", "Targovishte is home to one of the largest glass manufacturing plants in Southeast Europe.", "The city was liberated from Ottoman rule in 1878 during the Russo-Turkish War.", "The historic Varosha district contains more than 30 protected cultural monuments.", "The city is located approximately 125 kilometers west of the port city of Varna."],
     },
+    image: "/poi-images/bulgaria-targovishte-cities-v2.webp",
   },
   {
     id: "bulgaria-silistra-cities-v2",
@@ -224,6 +230,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Silistra a fost una dintre reședințele țarilor bulgari în perioada medievală.", "Mormântul roman din Silistra a fost descoperit accidental în anul 1942.", "Fortăreața Medzhidi Tabia a fost proiectată de inginerul german Helmuth von Moltke.", "Grădina publică din Silistra a fost înființată încă din anul 1870.", "Între 1913 și 1940, Silistra a făcut parte din Regatul României.", "Rezervația naturală Srebarna se află la aproximativ 16 kilometri vest de oraș."],
       en: ["Silistra served as one of the residences for Bulgarian Tsars during the Middle Ages.", "The Roman tomb of Silistra was discovered accidentally in 1942.", "The Medzhidi Tabia fortress was designed by the famous German engineer Helmuth von Moltke.", "The municipal park in Silistra was established as early as 1870.", "Silistra was part of the Kingdom of Romania between 1913 and 1940.", "The Srebarna Nature Reserve is located roughly 16 kilometers west of the city center."],
     },
+    image: "/poi-images/bulgaria-silistra-cities-v2.webp",
   },
   {
     id: "bulgaria-razgrad-cities-v2",
@@ -256,6 +263,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["La Abritus a fost descoperit cel mai mare tezaur de monede de aur din secolul al V-lea din Bulgaria.", "Moscheea Ibrahim Pașa a fost finalizată în anul 1616.", "Turnul cu ceas din Razgrad datează din 1864 și are o înălțime de 26 de metri.", "Rezervația arheologică Abritus ocupă o suprafață de peste 100 de hectare.", "Ludogorets Razgrad este singurul club bulgar care a câștigat peste 10 titluri consecutive.", "Razgrad se află la aproximativ 70 de kilometri sud-est de orașul Ruse."],
       en: ["Abritus yielded the largest 5th-century gold coin treasure ever found in Bulgaria.", "The Ibrahim Pasha Mosque was completed in 1616.", "The Razgrad Clock Tower dates back to 1864 and stands 26 meters tall.", "The Abritus Archaeological Reserve covers an area of about 100 hectares.", "Ludogorets Razgrad is the only Bulgarian club to win more than 10 consecutive league titles.", "Razgrad is located approximately 70 kilometers southeast of the Danube port of Ruse."],
     },
+    image: "/poi-images/bulgaria-razgrad-cities-v2.webp",
   },
   {
     id: "bulgaria-lovech-cities-v2",
@@ -288,6 +296,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Podul Acoperit din Loveci este unul dintre puținele de acest tip din Europa.", "Monumentul lui Vasil Levski din Loveci este cea mai înaltă statuie a acestuia din lume.", "La cetatea Hisarya a fost semnat în 1187 tratatul de pace cu Imperiul Bizantin.", "Cartierul Varoșa cuprinde peste 160 de clădiri declarate monumente de arhitectură.", "Peștera Devetashka, una dintre cele mai mari din Bulgaria, se află la 18 km de oraș.", "Loveci a fost un centru major al prelucrării pieilor în secolul al XIX-lea."],
       en: ["The Covered Bridge in Lovech is one of only a few such structures in Europe.", "The monument to Vasil Levski in Lovech is the largest statue of the hero in the world.", "The Hisarya Fortress was the site of the 1187 peace treaty with the Byzantine Empire.", "The Varosha district contains over 160 designated architectural monuments.", "The massive Devetashka Cave is located just 18 kilometers from the city.", "During the 19th century, Lovech was a premier center for leather craftsmanship."],
     },
+    image: "/poi-images/bulgaria-lovech-cities-v2.webp",
   },
   {
     id: "bulgaria-montana-cities-v2",
@@ -320,6 +329,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Cetatea romană Castra ad Montanesium a fost înființată în secolul I d.Hr.", "Barajul Ogosta a fost construit într-un interval de 20 de ani, între 1966 și 1986.", "În Montana au fost descoperite numeroase tablete votive dedicate zeiței Diana.", "Orașul și-a reluat numele antic de Montana în anul 1993 prin decret prezidențial.", "Lacul de acumulare Ogosta are o capacitate de peste 500 de milioane de metri cubi.", "Montana se află la o distanță de aproximativ 100 de kilometri nord de Sofia."],
       en: ["The Roman fortress Castra ad Montanesium was established in the 1st century AD.", "The Ogosta Dam was constructed over a 20-year period between 1966 and 1986.", "Excavations in Montana have unearthed many votive plaques dedicated to goddess Diana.", "The city reclaimed its ancient name Montana in 1993 by presidential decree.", "The Ogosta Reservoir has a total water capacity exceeding 500 million cubic meters.", "Montana is situated approximately 100 kilometers north of the capital, Sofia."],
     },
+    image: "/poi-images/bulgaria-montana-cities-v2.webp",
   },
   {
     id: "bulgaria-kharmanli-cities-v2",
@@ -352,6 +362,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Fondat în secolul al XVI-lea ca loc de popas pentru caravane.", "Situat pe ruta strategică a vechiului drum Via Diagonalis.", "Prima școală laică din oraș a fost deschisă în 1835.", "Renumit pentru viticultură și calitatea vinului Mavrud.", "Podul istoric Gurbet datează din anul 1585.", "Centru important de tranzit rutier lângă frontiera cu Turcia."],
       en: ["Founded in the 16th century as a caravanserai stop.", "Located on the strategic ancient Via Diagonalis route.", "The first secular school was opened in 1835.", "Famous for its high-quality Mavrud wine production.", "The historic Gurbet Bridge was constructed in 1585.", "Key transit hub near the Turkish and Greek borders."],
     },
+    image: "/poi-images/bulgaria-kharmanli-cities-v2.webp",
   },
   {
     id: "bulgaria-svishtov-cities-v2",
@@ -384,6 +395,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Locul sitului arheologic al castrului roman Novae.", "Primul oraș eliberat în războiul din 1877.", "Locul de naștere al scriitorului Aleko Konstantinov.", "Găzduiește prima școală comercială din Bulgaria.", "Academia de Economie a fost înființată în 1936.", "Cel mai sudic punct al cursului Dunării în Bulgaria."],
       en: ["Site of the ancient Roman legionary camp Novae.", "First Bulgarian city liberated in the 1877 war.", "Birthplace of the writer Aleko Konstantinov.", "Home to the first Bulgarian commercial high school.", "The Tsenov Academy of Economics opened in 1936.", "Located at the southernmost point of the Danube river."],
     },
+    image: "/poi-images/bulgaria-svishtov-cities-v2.webp",
   },
   {
     id: "bulgaria-asenovgrad-cities-v2",
@@ -416,6 +428,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Cetatea lui Asen a fost extinsă în 1230 de Ioan Asen al II-lea.", "Găzduiește peste 30 de biserici și 50 de capele.", "Centrul principal de producție al vinului Mavrud.", "Numele istoric al orașului a fost Stanimaka.", "Cunoscut drept „Capitala nunților” din Bulgaria.", "Poartă de acces strategică către Munții Rodopi."],
       en: ["Asen's Fortress was expanded in 1230 by Tsar Ivan Asen II.", "Home to over 30 churches and 50 chapels.", "The center of Mavrud wine production in Bulgaria.", "The town's historical name was Stanimaka.", "Known as the 'Wedding Capital' of Bulgaria.", "Located at the strategic entrance to the Rhodope Mountains."],
     },
+    image: "/poi-images/bulgaria-asenovgrad-cities-v2.webp",
   },
   {
     id: "bulgaria-dupnitsa-cities-v2",
@@ -448,6 +461,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Cel mai important centru al industriei farmaceutice bulgare.", "Situat la baza Munților Rila, cel mai înalt masiv din Balcani.", "Râul Djerman traversează centrul orașului.", "Se află la doar 65 km sud de capitala Sofia.", "Nod de transport esențial către Mănăstirea Rila.", "Localitate atestată documentar din Evul Mediu târziu."],
       en: ["Major center for Bulgaria's pharmaceutical industry.", "Located at the foot of the Rila Mountains, the highest in the Balkans.", "The Dzherman River flows through the city center.", "Situated only 65 km south of the capital, Sofia.", "Key transport link for travelers to the Rila Monastery.", "Settlement recorded since the late Middle Ages."],
     },
+    image: "/poi-images/bulgaria-dupnitsa-cities-v2.webp",
   },
   {
     id: "bulgaria-petrich-cities-v2",
@@ -480,6 +494,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Cel mai sud-vestic oraș din Bulgaria, lângă trei frontiere.", "Are un climat mediteranean unic în țară.", "Asociat cu celebra prezicătoare Baba Vanga (Rupite).", "Locul bătăliei de la Kleidion din anul 1014.", "Centru major pentru cultura tutunului și agricultură.", "Situat la baza masivului muntos Belasița."],
       en: ["Southwesternmost city in Bulgaria near three borders.", "Characterized by a rare Mediterranean climate.", "Home to the famous clairvoyant Baba Vanga (Rupite).", "Site of the historic Battle of Kleidion in 1014.", "Major center for tobacco and early-season agriculture.", "Located at the foot of the Belasitsa mountain range."],
     },
+    image: "/poi-images/bulgaria-petrich-cities-v2.webp",
   },
   {
     id: "bulgaria-koprivshtitsa-cities-v2",
@@ -512,6 +527,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Punctul de plecare al Răscoalei din Aprilie 1876.", "Întregul oraș este declarat rezervație arhitecturală.", "Găzduiește peste 380 de monumente istorice.", "Locul de desfășurare a Festivalului Național de Folclor.", "Locul de naștere al multor eroi naționali bulgari.", "Situat la o altitudine de 1030 de metri."],
       en: ["Starting point of the April Uprising in 1876.", "The entire town is an architectural reserve.", "Contains over 380 historical cultural monuments.", "Host of the National Festival of Bulgarian Folklore.", "Birthplace of many Bulgarian national heroes.", "Located at an altitude of 1,030 meters above sea level."],
     },
+    image: "/poi-images/bulgaria-koprivshtitsa-cities-v2.webp",
   },
   {
     id: "bulgaria-kavarna-cities-v2",
@@ -544,6 +560,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Orașul antic Bizone s-a scufundat parțial în sec. I î.Hr.", "Fostă capitală a Despotatului Dobrogei.", "Recunoscut internațional drept „Capitala Rock a Bulgariei”.", "Capul Kaliakra se află la doar 12 km distanță.", "Centru important pentru parcurile eoliene bulgare.", "Găzduiește unul dintre cele mai mari porturi de iahturi."],
       en: ["Ancient city of Bizone partially submerged in 1st c. BC.", "Former capital of the Despotate of Dobruja.", "Globally known as the 'Rock Capital of Bulgaria'.", "Cape Kaliakra is located just 12 km away.", "Significant center for renewable wind energy projects.", "Features one of the largest artificial yacht marinas."],
     },
+    image: "/poi-images/bulgaria-kavarna-cities-v2.webp",
   },
   {
     id: "bulgaria-banya-cities-v2",
@@ -576,6 +593,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Peste 10 izvoare termale (35–51 °C).", "Palatul Regal de vară a fost construit în 1929.", "Centru major pentru uleiul de trandafir și lavandă.", "Băile de nămol sunt utilizate din epoca romană.", "Situat în centrul geografic al Bulgariei.", "Renumit pentru podgoriile sale de viță-de-vie."],
       en: ["Home to over 10 thermal springs (35–51 °C).", "Tsar Boris III's summer palace was built in 1929.", "A major center for rose and lavender oil production.", "The therapeutic mud baths date back to antiquity.", "Located near the geographical center of Bulgaria.", "Famous for high-quality wine grape cultivation."],
     },
+    image: "/poi-images/bulgaria-banya-cities-v2.webp",
   },
   {
     id: "bulgaria-melnik-cities-v2",
@@ -608,6 +626,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Oficial cel mai mic oraș din Bulgaria.", "Găzduiește cea mai mare casă din perioada Renașterii.", "Faimos pentru piramidele geologice de pământ.", "Centru pentru producția celebrului vin roșu de Melnic.", "A avut în trecut peste 70 de biserici creștine.", "Situat la doar 6 km de Mănăstirea Rojhen."],
       en: ["Officially the smallest town in Bulgaria.", "Home to the largest National Revival house (Kordopulov).", "Famous for the geological Earth Pyramids.", "Center for the exclusive dark red Melnik wine.", "Once home to over 70 Christian churches.", "Located only 6 km from the Rozhen Monastery."],
     },
+    image: "/poi-images/bulgaria-melnik-cities-v2.webp",
   },
   {
     id: "bulgaria-tryavna-cities-v2",
@@ -640,6 +659,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Căminul celebrei Școli de Artă din Treavna.", "Turnul cu Ceas a fost construit în anul 1814.", "Găzduiește Muzeul Sculpturii în Lemn (Casa Daskalov).", "Faimos pentru plafoanele „soare” din 1808.", "Centru important al producției de mătase în sec. XIX.", "Deține Biserica Arhanghelului Mihail din sec. XII."],
       en: ["Home of the famous Tryavna School of Art.", "The iconic Clock Tower was built in 1814.", "Houses the Museum of Woodcarving (Daskalov House).", "Famous for the 'sun ceilings' created in 1808.", "Major center for silk production in the 19th century.", "Features the 12th-century Church of Archangel Michael."],
     },
+    image: "/poi-images/bulgaria-tryavna-cities-v2.webp",
   },
   {
     id: "bulgaria-chiprovtsi-cities-v2",
@@ -672,6 +692,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Covoarele de Chiprovtsi au fost incluse în patrimoniul imaterial UNESCO în anul 2014.", "Răscoala de la Chiprovtsi din 1688 a fost condusă de elita catolică locală împotriva dominației otomane.", "În secolul al XVII-lea, orașul era un centru major de prelucrare a metalelor prețioase din Balcani.", "Muzeul de Istorie expune o colecție vastă de monede și bijuterii de argint produse în atelierele locale.", "Cascada Chiprovtsi are o cădere de apă de 18 metri și se află la aproximativ 5 km de oraș.", "Mănăstirea Chiprovtsi a fost distrusă de mai multe ori, ultima reconstrucție datând din secolul al XIX-lea."],
       en: ["Chiprovtsi carpets were added to the UNESCO Intangible Cultural Heritage list in 2014.", "The 1688 Chiprovtsi Uprising was one of the largest organized revolts against Ottoman rule in Bulgaria.", "During the 17th century, the town was the primary center of Catholicism in the Bulgarian lands.", "The History Museum is housed in a restored 19th-century building and features silver mining artifacts.", "The Chiprovtsi Waterfall has a drop of 18 meters and is accessible via a marked eco-trail.", "Traditional kilims from this region are double-sided and woven with 100% natural wool and dyes."],
     },
+    image: "/poi-images/bulgaria-chiprovtsi-cities-v2.webp",
   },
   {
     id: "bulgaria-devnya-cities-v2",
@@ -704,6 +725,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Marcianopolis a fost numit în onoarea Ulpiei Marciana, sora împăratului Traian, la începutul secolului al II-lea.", "Muzeul Mozaicurilor expune faimosul mozaic 'Medusa', considerat o capodoperă a artei antice.", "Izvoarele carstice din Devnya sunt cele mai mari din Bulgaria, având un debit total impresionant.", "În oraș se află fabrica Agropolychim, cel mai mare producător de îngrășăminte fosfatice din Balcani.", "Tezaurul de monede de la Devnya, descoperit în 1929, conține monede din epoca lui Marcus Aurelius până la Septimius Severus.", "Orașul este conectat direct la portul Varna prin transport feroviar și naval industrial."],
       en: ["Marcianopolis served as the winter headquarters for Emperor Valens during the Gothic War of 367-369 AD.", "The Museum of Mosaics features the 'Gorgon Medusa' mosaic, which is the centerpiece of the collection.", "The local soda ash plant, Solvay Sodi, accounts for a significant portion of the world's total production capacity.", "There are approximately 30 individual springs in the Devnya karst basin, known for their high mineral content.", "Devnya's industrial zone was largely developed during the 1950s and 60s as a socialist economic hub.", "Archaeologists have uncovered remains of an ancient amphitheater and a forum within the city's boundaries."],
     },
+    image: "/poi-images/bulgaria-devnya-cities-v2.webp",
   },
   {
     id: "bulgaria-samokov-cities-v2",
@@ -736,6 +758,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Școala de pictură din Samokov a fost fondată în secolul al XVIII-lea de Hristo Dimitrov.", "Borovetz, situat la 10 km distanță, a găzduit primele competiții oficiale de schi din Bulgaria în secolul al XIX-lea.", "Fântâna Mare din Samokov este construită în stil maur și datează de la mijlocul secolului al XVII-lea.", "Samokov a fost un centru major al producției de fier, având peste 20 de ciocane uriașe acționate de apă.", "Zahari Zograf, originar din Samokov, este autorul faimosului autoportret din Mănăstirea Rila.", "Orașul este străbătut de râul Iskar, cel mai lung râu care curge integral pe teritoriul Bulgariei."],
       en: ["The Samokov School of Art is considered the most influential in Bulgarian history for icon painting.", "Borovetz was originally known as Chamkoria and was established as a royal hunting ground in 1896.", "The Great Fountain (Golyamata Cheshma) was built in 1660 and features a unique architectural design.", "By the mid-19th century, Samokov produced high-quality iron that was exported across the Ottoman Empire.", "The Bayrakli Mosque is the only preserved mosque in Samokov and is now an architectural monument.", "The town is situated at 950 meters altitude, making it a prime location for high-altitude sports training."],
     },
+    image: "/poi-images/bulgaria-samokov-cities-v2.webp",
   },
   {
     id: "bulgaria-balchik-cities-v2",
@@ -768,6 +791,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Castelul Reginei Maria din Balcic a fost construit între anii 1924 și 1936 de arhitecți italieni.", "Grădina Botanică din Balcic se întinde pe o suprafață de peste 6 hectare și este un sit protejat.", "Orașul a fost numit Dionysopolis după ce o statuie a zeului Dionis a fost adusă la mal de valuri.", "Inima Reginei Maria a fost depusă în capela 'Stella Maris' înainte de a fi mutată la Bran în 1940.", "Faleza din Balcic este construită din calcar alb extras din carierele locale, oferind orașului un aspect distinct.", "În perioada românească, Balcic a fost supranumit 'Coasta de Argint' datorită stâncilor sale albe."],
       en: ["Queen Marie of Romania's palace in Balchik was known as her 'Quiet Nest' residence.", "The Botanical Garden features over 250 species of cacti, some of which reach several meters in height.", "Ancient Dionysopolis was a major mint center, producing its own coins as early as the 4th century BC.", "The palace complex includes a unique throne of stone overlooking the sea where the Queen used to sit.", "Balchik was a significant export point for wheat from the Dobruja region during the 19th century.", "The town hosts an international short film festival known as 'In the Palace' annually."],
     },
+    image: "/poi-images/bulgaria-balchik-cities-v2.webp",
   },
   {
     id: "bulgaria-etropole-cities-v2",
@@ -800,6 +824,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Turnul cu ceas din Etropole a fost finalizat în 1710 sub îndrumarea meșterului Todor.", "Mănăstirea Etropole este cunoscută și sub numele de Varovitets, după muntele pe care se află.", "Exploatarea minieră Elatsite-Med produce cantități mari de cupru și aur pentru export.", "Cascada Varovitets are o cădere de apă peste travertin, creând un peisaj spectaculos.", "Școala de caligrafie din Etropole a produs 'Tetraevangheliarul de la Etropole' în secolul al XVII-lea.", "Orașul se află la o altitudine de 620 metri și are o climă temperat-continentală moderată."],
       en: ["The Etropole Clock Tower was built in 1710 and is made of travertine and river stones.", "The Etropole Literary School was a primary center for copying and decorating Slavic books in the 17th century.", "The Elatsite copper mine near the town is among the most significant open-pit mines in the Balkans.", "Varovitets Waterfall is a protected natural site located within the grounds of the Etropole Monastery.", "The local History Museum is located in a building that served as a Turkish konak (administrative building).", "Etropole is known for its traditional brass band music, which is celebrated during local holidays."],
     },
+    image: "/poi-images/bulgaria-etropole-cities-v2.webp",
   },
   {
     id: "bulgaria-razlog-cities-v2",
@@ -832,6 +857,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Numele orașului a fost schimbat din Mehomiya în Razlog în anul 1925.", "Festivalul Kukeri din Razlog este unul dintre cele mai vechi și autentice din regiunea Balcanilor.", "Razlog este situat la o altitudine de 812 metri, între masivele muntoase Rila și Pirin.", "Stațiunea de golf din apropiere a fost proiectată de celebrul jucător Ian Woosnam.", "Casa Parapunov găzduiește secția de etnografie a Muzeului de Istorie din Razlog.", "Panorama munților Pirin din centrul orașului este considerată una dintre cele mai frumoase din Bulgaria."],
       en: ["The town's name was changed from Mehomiya to Razlog by a royal decree in 1925.", "The New Year's Kukeri festival in Razlog attracts thousands of participants and spectators annually.", "Razlog is located at an altitude of 812 meters in the Razlog Valley.", "The Pirin Golf & Country Club features an 18-hole championship course designed by Ian Woosnam.", "Archaeological finds in the area include ancient Thracian pottery and Roman coins.", "The central park of Razlog features a unique installation representing the ancient Bulgarian sun calendar."],
     },
+    image: "/poi-images/bulgaria-razlog-cities-v2.webp",
   },
   {
     id: "bulgaria-nova-zagora-cities-v2",
@@ -864,6 +890,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Movila Karanovo are o înălțime de 13 metri și a fost locuită timp de peste 3.000 de ani fără întrerupere.", "Muzeul de Istorie din Nova Zagora a fost fondat în 1921 și este unul dintre cele mai vechi muzee regionale.", "Orașul este un nod feroviar strategic pe ruta care leagă capitala de portul Burgas.", "Regiunea este renumită pentru 'Nova Zagora Merlot', un vin roșu de calitate superioară.", "În apropiere au fost descoperite tablete de lut cu semne pictografice considerate printre cele mai vechi forme de scriere din lume.", "Economia locală este dominată de industria textilă și de prelucrarea produselor agricole."],
       en: ["The Karanovo Tell is considered the 'prehistoric capital' of Europe due to its extensive cultural layers.", "Nova Zagora's History Museum features a rare collection of ancient Thracian gold jewelry and ritual vessels.", "The first railway line reached the town in 1873, connecting it to the major ports of the Ottoman Empire.", "The surrounding area is one of the most productive grain-growing regions in all of Bulgaria.", "Archaeological excavations in the 1970s revealed significant Roman and Byzantine fortifications near the town.", "The town hosts an annual festival dedicated to bread and traditional Bulgarian agriculture."],
     },
+    image: "/poi-images/bulgaria-nova-zagora-cities-v2.webp",
   },
   {
     id: "bulgaria-byala-cities-v2",
@@ -896,6 +923,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Podul construit de Kolyu Ficheto peste râul Iantra măsoară 276 de metri lungime și 9 metri lățime.", "Țarul Alexandru al II-lea al Rusiei a avut reședința oficială în Byala în anul 1877.", "Turnul cu ceas din Byala a fost construit în anul 1872 și are o înălțime de 15 metri.", "Orașul a fost aproape complet reconstruit după Războiul de Independență din 1878.", "Râul Iantra este cunoscut în această zonă pentru biodiversitatea sa bogată și zonele de agrement.", "În apropierea orașului se află cariere de calcar care au fost folosite timp de secole pentru construcții monumentale."],
       en: ["The Byala Bridge was the first bridge in the Balkans to feature decorative relief images on its pillars.", "The Liberation Museum in Byala was established in 1907 in the house used by the Russian command.", "Byala is located at the intersection of two major international roads connecting Central and Southern Europe.", "The Clock Tower of Byala was built by local masters using voluntary contributions from citizens.", "Archaeological excavations near the river have uncovered remains of an ancient Roman fortification.", "The town celebrates its official holiday on the 10th of May, marking its liberation."],
     },
+    image: "/poi-images/bulgaria-byala-cities-v2.webp",
   },
   {
     id: "bulgaria-elkhovo-cities-v2",
@@ -928,6 +956,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Muzeul Etnografic din Elhovo este inclus în lista celor 100 de obiective turistice naționale ale Bulgariei.", "Rezervația naturală 'Dolna Topchiya' protejează una dintre cele mai mari colonii de fazani sălbatici din Europa.", "Orașul a purtat în trecut numele de Kizil Agaci în timpul perioadei otomane.", "Râul Tundja, care traversează orașul, este cel mai mare afluent al râului Marița.", "Dolmenele trace din apropierea satului Belevren sunt printre cele mai bine conservate din Balcani.", "Elhovo este un punct strategic pentru monitorizarea ecologică a ecosistemelor fluviale din sud-estul țării."],
       en: ["The Ethnographic Museum of Elhovo features detailed exhibits on traditional Bulgarian wedding rituals.", "The 'Dolna Topchiya' reserve is one of the oldest protected areas in Bulgaria, established in 1960.", "Elhovo was known as Orhanlar during part of the 19th century.", "The Tundzha River valley near Elhovo is a major migratory route for birds known as the Via Pontica.", "Archaeologists have discovered unique Thracian solar symbols engraved on stones in the area.", "The town is a significant producer of high-quality sunflower seeds and essential oils."],
     },
+    image: "/poi-images/bulgaria-elkhovo-cities-v2.webp",
   },
   {
     id: "bulgaria-svilengrad-cities-v2",
@@ -960,6 +989,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Podul lui Mustafa Pașa a fost finanțat de vizirul cu același nume în timpul domniei lui Suleiman Magnificul.", "Svilengrad a devenit parte a Bulgariei după Primul Război Balcanic, în anul 1912.", "În oraș se află o faimoasă bibliotecă și centru cultural fondat în anul 1870.", "Marița este cel mai lung râu care izvorăște din Bulgaria și se varsă în Marea Egee.", "Complexul de la Mezek, situat la 6 km de oraș, include o cetate bizantină și un mormânt tracic monumental.", "Economia orașului este puternic susținută de logistica internațională și comerțul de frontieră."],
       en: ["The Mustafa Pasha Bridge is considered one of Sinan's earliest masterpieces before he built the bridge in Višegrad.", "Svilengrad was almost entirely burned down during the Balkan Wars and subsequently rebuilt.", "The town's silk industry reached its peak in the 1920s, exporting high-quality textiles to France and Italy.", "Kapitan Andreevo, located 15 km from the town, is the largest border crossing between the EU and Turkey.", "The Mezek Thracian Tomb nearby is a unique example of 4th-century BC beehive architecture.", "Svilengrad experiences one of the warmest climates in Bulgaria due to its southern location and Mediterranean influence."],
     },
+    image: "/poi-images/bulgaria-svilengrad-cities-v2.webp",
   },
   {
     id: "bulgaria-omurtag-cities-v2",
@@ -992,6 +1022,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Orașul este situat la o altitudine de 525 de metri deasupra mării.", "În anul 1934, numele localității a fost schimbat din Osman Pazar în Omurtag.", "Aleksandăr Aleksandrov, al doilea cosmonaut bulgar, s-a născut aici în 1951.", "Un avion de vânătoare MiG-19 este expus ca monument la muzeul aviației.", "Regiunea a fost locuită încă din neolitic și din perioada tracică.", "Omurtag este un punct nodal pe drumul european E772 spre Varna."],
       en: ["The town is situated at an elevation of 525 meters above sea level.", "It was renamed from Osman Pazar to Omurtag in 1934.", "Aleksandar Aleksandrov, the second Bulgarian cosmonaut, was born here in 1951.", "A MiG-19 fighter jet is displayed as a monument at the local aviation museum.", "Archaeological evidence shows habitation since the Neolithic and Thracian eras.", "Omurtag is a key junction on the E772 European route to Varna."],
     },
+    image: "/poi-images/bulgaria-omurtag-cities-v2.webp",
   },
   {
     id: "bulgaria-straldzha-cities-v2",
@@ -1024,6 +1055,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Localitatea a primit oficial statutul de oraș în anul 1969.", "Izvoarele termale din apropiere ating temperaturi de până la 77 °C.", "Straldja se află pe magistrala feroviară importantă dintre Sofia și Burgas.", "Mlaștina Straldja a fost în trecut una dintre cele mai mari zone umede din Bulgaria.", "Populația orașului era de aproximativ 5.500 de locuitori în anul 2021.", "Regiunea este renumită pentru tradițiile sale folclorice și muzica populară."],
       en: ["The settlement was officially granted town status in the year 1969.", "Thermal springs nearby reach high temperatures of up to 77 °C.", "Straldzha is located on the major railway line connecting Sofia and Burgas.", "The Straldzha Swamp was once one of the largest wetlands in Bulgaria.", "The population of the town was approximately 5,500 as of 2021.", "The region is famous for its distinct folklore traditions and folk music."],
     },
+    image: "/poi-images/bulgaria-straldzha-cities-v2.webp",
   },
   {
     id: "bulgaria-popovo-cities-v2",
@@ -1056,6 +1088,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Popovo este situat la o altitudine medie de 210 metri deasupra mării.", "Orașul a primit acest statut administrativ oficial în anul 1883.", "Fortăreața romană Kovacevsko Kale se află la doar 6 km de centrul orașului.", "Populația orașului era de aproximativ 13.000 de locuitori în anul 2021.", "Numele orașului derivă din cuvântul bulgar pentru „preot”.", "Este supranumit „Orașul Alb” datorită geologiei și arhitecturii locale."],
       en: ["Popovo is situated at an average elevation of 210 meters above sea level.", "The settlement was officially granted city status in the year 1883.", "The ancient fortress of Kovachevsko Kale is located just 6 km from the town.", "The population of the city was approximately 13,000 as of 2021.", "The town's name is derived from the Bulgarian word for \"priest.\"", "It is nicknamed the \"White Town\" due to its architecture and limestone surroundings."],
     },
+    image: "/poi-images/bulgaria-popovo-cities-v2.webp",
   },
   {
     id: "bulgaria-lyaskovets-cities-v2",
@@ -1088,6 +1121,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Leaskoveț este situat la o altitudine de 170 de metri pe platoul Arbanasi.", "Orașul este celebru pentru producția de vin spumant bulgăresc de calitate.", "Mănăstirea Sf. Petru și Pavel a fost construită inițial în secolul al XIV-lea.", "Localitatea găzduiește singurul Muzeu al Grădinăritului din întreaga Bulgarie.", "Numele orașului derivă din cuvântul slav pentru alun (leska).", "Populația orașului era de aproximativ 7.000 de locuitori în anul 2021."],
       en: ["Lyaskovets is situated at an elevation of 170 meters on the Arbanasi Plateau.", "The town is famous for the production of high-quality Bulgarian sparkling wine.", "The Sts. Peter and Paul Monastery was originally built in the 14th century.", "It hosts the only Museum of Market Gardening in the entire country of Bulgaria.", "The town's name originates from the Slavic word for hazelnut (leska).", "The population of the town was approximately 7,000 as of 2021."],
     },
+    image: "/poi-images/bulgaria-lyaskovets-cities-v2.webp",
   },
   {
     id: "bulgaria-batenberg-cities-v2",
@@ -1120,6 +1154,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Numele îl onorează pe Principele Alexandru I de Battenberg (domnie: 1879–1886).", "Satul Țar Krum a purtat numele de Batenberg timp de exact 50 de ani.", "Alexandru de Battenberg a fost primul monarh ales al Bulgariei independente.", "Multe dintre aceste localități se află lângă câmpuri de luptă din 1877/78.", "Valul masiv de schimbări de nume în denumiri bulgărești a avut loc în 1934.", "Mausoleul lui Battenberg se află în prezent în centrul capitalei Sofia."],
       en: ["The name honors Prince Alexander I of Battenberg (reign: 1879–1886).", "The village of Tsar Krum bore the name Batenberg for exactly 50 years.", "Alexander of Battenberg was the first elected monarch of independent Bulgaria.", "Many of these locations are situated near major battlefields from 1877/78.", "A massive wave of renaming to Bulgarian names occurred in the year 1934.", "The Battenberg Mausoleum is currently located in the center of Sofia."],
     },
+    image: "/poi-images/bulgaria-batenberg-cities-v2.webp",
   },
   {
     id: "bulgaria-kalofer-cities-v2",
@@ -1152,6 +1187,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Kalofer este situat la o altitudine de 600 de metri în valea pitorească a râului Tundja.", "Eroul național Hristo Botev s-a născut aici la data de 6 ianuarie 1848.", "Orașul a fost ars aproape în totalitate în timpul războiului ruso-turc din 1877.", "Tehnica dantelei de Kalofer a fost introdusă oficial în oraș în anul 1910.", "Vârful Botev (2.376 m) este accesibil din oraș prin trasee montane marcate.", "Populația orașului este în prezent de aproximativ 2.500 de locuitori."],
       en: ["Kalofer is situated at an elevation of 600 meters in the scenic Tundzha Valley.", "National hero Hristo Botev was born here on January 6th, 1848.", "The town was almost completely burned down during the Russo-Turkish War in 1877.", "The technique of Kalofer lace was officially introduced to the town in 1910.", "Botev Peak (2,376 m) is accessible from the town via several marked hiking trails.", "The town's population currently stands at approximately 2,500 people."],
     },
+    image: "/poi-images/bulgaria-kalofer-cities-v2.webp",
   },
   {
     id: "bulgaria-pirdop-cities-v2",
@@ -1184,6 +1220,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Pirdop este situat la o altitudine medie de 670 de metri în valea Srednogorie.", "Combinatul de cupru din Pirdop aparține în prezent grupului internațional Aurubis.", "Basilica Elenska din perioada antică târzie este unul dintre cele mai importante monumente.", "Localitatea a fost declarată oraș în anul 1844, în timpul Renașterii bulgare.", "Pirdop este un punct de oprire important pe linia ferată dintre Sofia și Varna.", "Populația orașului era de aproximativ 7.500 de locuitori în anul 2021."],
       en: ["Pirdop is located at an average elevation of 670 meters in the Srednogorie Valley.", "The copper smelter in Pirdop is currently owned by the international Aurubis group.", "The late antique Elenska Basilica is one of the most significant monuments in the region.", "The settlement was officially declared a town in 1844 during the Bulgarian Revival.", "Pirdop serves as an important stop on the railway line connecting Sofia and Varna.", "The population of the town was approximately 7,500 as of 2021."],
     },
+    image: "/poi-images/bulgaria-pirdop-cities-v2.webp",
   },
   {
     id: "bulgaria-belene-cities-v2",
@@ -1216,6 +1253,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Belene este situat pe Dunăre, la aproximativ 175 km nord-est de Sofia.", "Insula Persin (Insula Belene) este cea mai mare insulă din Bulgaria, având 43 km².", "Fortăreața romană Dimum a fost construită inițial în secolul I d.Hr.", "Belene este unul dintre puținele orașe bulgare cu o populație majoritar catolică.", "Parcul Natural Persina găzduiește peste 200 de specii de păsări rare.", "Populația orașului era de aproximativ 7.500 de locuitori în anul 2021."],
       en: ["Belene is located on the Danube, approximately 175 km northeast of Sofia.", "Persin Island (Belene Island) is the largest island in Bulgaria, covering 43 km².", "The Roman fortress of Dimum was established as early as the 1st century AD.", "Belene is one of the few Bulgarian towns with a predominantly Catholic population.", "Persina Nature Park is home to more than 200 rare bird species.", "The population of the town was approximately 7,500 as of 2021."],
     },
+    image: "/poi-images/bulgaria-belene-cities-v2.webp",
   },
   {
     id: "bulgaria-kovachevtsi-cities-v2",
@@ -1248,6 +1286,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Kovacevți se află la aproximativ 25 km vest de orașul Pernik.", "Georgi Dimitrov s-a născut în acest sat în anul 1882.", "Lacul de acumulare Pchela este situat la doar câțiva kilometri de centrul localității.", "Comuna cuprinde în total 10 sate, cu Kovacevți ca reședință administrativă.", "Regiunea este cunoscută pentru procesiunile tradiționale cu măști „Surva”.", "Populația satului este de aproximativ 400 de locuitori."],
       en: ["Kovachevtsi is located about 25 km west of the city of Pernik.", "Georgi Dimitrov was born in this village in the year 1882.", "The Pchela Reservoir is situated just a few kilometers from the village center.", "The municipality consists of 10 villages, with Kovachevtsi as the administrative hub.", "The region is famous for the traditional \"Surva\" masked mummer processions.", "The population of the village is approximately 400 people."],
     },
+    image: "/poi-images/bulgaria-kovachevtsi-cities-v2.webp",
   },
   {
     id: "bulgaria-vrantsa-cities-v2",
@@ -1280,6 +1319,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Vrața este situată la o altitudine de 344 de metri la poalele Munților Balcani.", "Stâncile defileului Vratsata se ridică vertical până la o înălțime de 400 de metri.", "Peștera Ledenika este a doua cea mai vizitată peșteră din întreaga Bulgarie.", "Tezaurul de la Rogozen este compus din 165 de vase de argint bogat ornamentate.", "Orașul este punctul de plecare al marșului anual în memoria lui Hristo Botev spre Kozlodui.", "Populația orașului este de aproximativ 50.000 de locuitori."],
       en: ["Vratsa is situated at an elevation of 344 meters at the base of the Balkan Mountains.", "The cliffs of the Vratsata Gorge rise vertically up to a height of 400 meters.", "Ledenika Cave is the second most visited cave in Bulgaria.", "The Rogozen Treasure consists of 165 ornate silver vessels from the Thracian era.", "The city is the starting point for the annual Botev commemorative march to Kozloduy.", "The population of the city is approximately 50,000 people."],
     },
+    image: "/poi-images/bulgaria-vrantsa-cities-v2.webp",
   },
   {
     id: "bulgaria-yabulkovo-cities-v2",
@@ -1312,6 +1352,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Așezarea neolitică de la Iabulkovo datează din mileniul al VI-lea î.Hr.", "Satul se află la o altitudine de 110 metri în Câmpia Traciei.", "Numele localității se traduce literal prin \"Satul Mărului\".", "Este traversat de calea ferată internațională spre Turcia.", "Râul Marița trece prin imediata apropiere a localității.", "Populația locală este de aproximativ 1.200 de persoane."],
       en: ["The Neolithic site at Yabulkovo dates back to roughly 6000 BC.", "The village is situated on the left bank of the Maritsa River.", "Its name originates from the Bulgarian word for apple, \"yabulka\".", "Located on the important Plovdiv-Svilengrad railway corridor.", "Administratively part of the Dimitrovgrad Municipality since 1947.", "Archaeological finds include early pottery and flint tools."],
     },
+    image: "/poi-images/bulgaria-yabulkovo-cities-v2.webp",
   },
   {
     id: "bulgaria-bov-cities-v2",
@@ -1344,6 +1385,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Satul se află la o altitudine medie de peste 700 de metri.", "Cascada Skaklya are o cădere verticală de 85 de metri.", "Numele provine, conform legendei, de la cavalerul francez de Boeuf.", "Traseul ecologic local poartă numele scriitorului Ivan Vazov.", "Gara Bov asigură conexiunea feroviară cu capitala Sofia.", "Defileul Iskar este cel mai lung și spectaculos defileu din Bulgaria."],
       en: ["Located in the Balkan Mountains at elevations reaching 900 meters.", "The Skaklya Waterfall is among Bulgaria's highest at 85 meters.", "Legend traces the name to a 13th-century French crusader.", "Serves as the main gateway for the Ivan Vazov Eco-trail.", "Situated approximately 50 kilometers north of Sofia via the Iskar Gorge.", "The area is famous for its massive karst rock formations."],
     },
+    image: "/poi-images/bulgaria-bov-cities-v2.webp",
   },
   {
     id: "bulgaria-golyamo-selo-cities-v2",
@@ -1376,6 +1418,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Face parte administrativ din comuna Bobov Dol, regiunea Kyustendil.", "Termocentrala Bobov Dol din apropiere are o capacitate de 630 MW.", "Economia locală depinde aproape exclusiv de sectorul energetic.", "Populația satului este de aproximativ 450 de locuitori.", "Localitatea se află la o altitudine de circa 550 de metri.", "Zona a fost un centru major al mineritului de lignit în secolul XX."],
       en: ["Situated in the Kyustendil Province, Bobov Dol Municipality.", "Home to or adjacent to the massive Bobov Dol Thermal Power Plant.", "The economy is historically centered on brown coal mining.", "Current population stands at approximately 450 residents.", "Located at an average elevation of 550 meters above sea level.", "Part of the historical and geographical region of Razmetanitsa."],
     },
+    image: "/poi-images/bulgaria-golyamo-selo-cities-v2.webp",
   },
   {
     id: "bulgaria-dobroslavtsi-cities-v2",
@@ -1408,6 +1451,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Dobroslavți se află la 15 km de centrul capitalei Sofia.", "Fosta bază aeriană militară a fost activă până la începutul anilor 2000.", "Face parte administrativ din raionul Novi Iskar al municipiului Sofia.", "Populația locală numără aproximativ 1.100 de locuitori.", "Biserica Sfânta Nedelia este centrul spiritual al satului.", "Zona este caracterizată de un relief de câmpie fertilă."],
       en: ["Located 15 km north of Sofia city center in the Sofia Basin.", "The former airbase hosted various MiG fighter jet regiments.", "Administratively part of the Novi Iskar district of Sofia Municipality.", "Current population is approximately 1,100 residents.", "The Church of St. Nedelya was built in the late 19th century.", "Transitioning from an agricultural to a suburban residential area."],
     },
+    image: "/poi-images/bulgaria-dobroslavtsi-cities-v2.webp",
   },
   {
     id: "bulgaria-kresna-cities-v2",
@@ -1440,6 +1484,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Kresna se află în regiunea Blagoevgrad, pe valea râului Struma.", "Răscoala anti-otomană din 1878 este un eveniment istoric cheie.", "Defileul Kresna separă munții Pirin de munții Maleșevo.", "Orașul are o populație de aproximativ 3.500 de locuitori.", "Este cel mai important centru de rafting din Bulgaria.", "Rezervația Tisata din apropiere adăpostește specii mediteraneene rare."],
       en: ["Located in Blagoevgrad Province along the Struma River.", "Center of the 1878 Kresna-Razlog Uprising against Ottoman rule.", "The Struma River here is the top Bulgarian rafting destination.", "Kresna Gorge is a critical biological corridor for rare species.", "The town has a population of roughly 3,500 residents.", "Directly served by the Sofia-Thessaloniki international highway."],
     },
+    image: "/poi-images/bulgaria-kresna-cities-v2.webp",
   },
   {
     id: "bulgaria-valchedram-cities-v2",
@@ -1472,6 +1517,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Orașul este situat în regiunea Montana, în Câmpia Dunării.", "Biserica Sfânta Parascheva (1936) are un stil arhitectural rus.", "Statutul de oraș a fost acordat oficial în anul 1969.", "Regiunea Zlatiya este celebră pentru calitatea solului agricol.", "Populația orașului este de aproximativ 3.100 de locuitori.", "Altitudinea medie a localității este de 85 de metri."],
       en: ["Located in Montana Province in the northwestern Danubian Plain.", "Home to the St. Paraskeva Church, modeled after St. Isaac's Cathedral.", "Officially declared a town by government decree in 1969.", "The town serves as the center of the fertile Zlatiya agricultural region.", "Current population stands at roughly 3,100 residents.", "Major producer of wheat, maize, and sunflower seeds."],
     },
+    image: "/poi-images/bulgaria-valchedram-cities-v2.webp",
   },
   {
     id: "bulgaria-yagodina-cities-v2",
@@ -1504,6 +1550,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Iagodina se află la o altitudine de 1.173 de metri în Rodopi.", "Peștera Iagodina are o lungime totală de 10.500 de metri.", "Platforma Ochiul Vulturului este situată la 1.563 m altitudine.", "Satul are o populație constantă de aproximativ 400 de locuitori.", "Defileul Buynovo din apropiere este un monument natural protejat.", "Săpăturile au relevat locuințe eneolitice în interiorul peșterii."],
       en: ["Situated at an altitude of 1,173 meters in the Rhodope Mountains.", "Yagodina Cave is 10.5 km long and features three levels.", "The Eagle's Eye platform is perched 600 meters above the gorge.", "Home to only about 400 residents, mainly engaged in tourism.", "The cave is famous for its rare 'cave pearls' formations.", "Located within the spectacular and narrow Buynovo Gorge area."],
     },
+    image: "/poi-images/bulgaria-yagodina-cities-v2.webp",
   },
   {
     id: "bulgaria-bobrek-cities-v2",
@@ -1536,6 +1583,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Satul aparține de regiunea Kyustendil și comuna Bobov Dol.", "Este situat în zona premontană a Munților Rila.", "Populația este foarte mică, fiind un sat în curs de depopulare.", "Relieful este predominant deluros cu pășuni întinse.", "Toponimul este legat de forma de 'rinichi' (babreka).", "Accesul se face prin drumuri comunale dinspre Bobov Dol."],
       en: ["Located in the Kyustendil Province, Bobov Dol Municipality.", "Situated in the northern foothills of the Rila mountain range.", "Has a very small permanent population, often fewer than 20 people.", "The local economy relies on subsistence farming and livestock.", "The name is a variant of 'Babreka', meaning kidney-shaped.", "Offers a quiet, rural atmosphere far from major urban centers."],
     },
+    image: "/poi-images/bulgaria-bobrek-cities-v2.webp",
   },
   {
     id: "bulgaria-chernomorets-cities-v2",
@@ -1568,6 +1616,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Cernomoreț este situat în regiunea Burgas, pe coasta Mării Negre.", "Populația orașului este de aproximativ 2.200 de locuitori.", "Numele orașului s-a schimbat din Sfântul Nicolae în 1951.", "Biserica locală este faimoasă pentru grădina sa de flori.", "Stațiunea este populară pentru windsurfing în golful Vromos.", "Se află la o distanță de doar 24 km de aeroportul internațional Burgas."],
       en: ["Located on the Black Sea coast within the Sozopol Municipality.", "The town has a permanent population of around 2,200 people.", "Known for its distinctive horseshoe-shaped central beach.", "The Church of St. Nicholas features a unique maritime museum.", "Home to the Akra fortress archaeological site on a nearby peninsula.", "Renamed from Sveti Nikola to Chernomorets in 1951."],
     },
+    image: "/poi-images/bulgaria-chernomorets-cities-v2.webp",
   },
   {
     id: "bulgaria-banya-razlog-cities-v2",
@@ -1600,6 +1649,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Localitatea dispune de 72 de izvoare cu apă minerală curativă.", "Temperatura apei la ieșirea din sol este de maximum 57 °C.", "Baia Romană datează din perioada antică și a fost restaurată.", "Se află la o altitudine de 800 de metri în valea Razlog.", "Populația satului este de aproximativ 2.800 de locuitori.", "Este considerat cel mai vechi centru balnear din regiune."],
       en: ["Banya boasts a total of 72 natural mineral springs.", "Water temperatures fluctuate between 37°C and 57°C.", "Home to historic Roman and Turkish baths from different eras.", "Located at 800 meters elevation in the scenic Razlog Valley.", "Population stands at approximately 2,800 residents.", "Situated just 5 km from Bansko, Bulgaria's premier ski resort."],
     },
+    image: "/poi-images/bulgaria-banya-razlog-cities-v2.webp",
   },
   {
     id: "bulgaria-klisura-cities-v2",
@@ -1632,6 +1682,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Oraș fondat în secolul al XVI-lea", "Centru major al Răscoalei din Aprilie 1876", "Distrus complet de trupele otomane în revoltă", "Reconstruit integral după anul 1878", "Situat la 670 metri altitudine în Balcani", "Găzduiește Muzeul Renașterii Naționale"],
       en: ["Town founded in the 16th century", "Key center of the 1876 April Uprising", "Completely burned by Ottoman forces in 1876", "Rebuilt from ruins after the 1878 liberation", "Situated at 670 meters in the Balkan Mountains", "Home to a significant Historical Museum"],
     },
+    image: "/poi-images/bulgaria-klisura-cities-v2.webp",
   },
   {
     id: "bulgaria-panagyurishte-cities-v2",
@@ -1664,6 +1715,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Locul descoperirii tezaurului de aur trac", "Centru revoluționar major în 1876", "Situat în masivul montan Sredna Gora", "Hub industrial pentru extracția cuprului", "Orașul natal al eroinei Raina Kneaghina", "Muzeu de istorie cu replică de aur"],
       en: ["Site of the Thracian Gold Treasure find", "Key center of the 1876 April Uprising", "Located in the Sredna Gora Mountains", "Major Bulgarian copper mining center", "Birthplace of revolutionary Rayna Knyaginya", "Home to a comprehensive historical complex"],
     },
+    image: "/poi-images/bulgaria-panagyurishte-cities-v2.webp",
   },
   {
     id: "bulgaria-batanovtsi-cities-v2",
@@ -1696,6 +1748,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Locul primei fabrici de ciment (1913)", "Numit Temelkovo între 1950 și 1991", "Situat pe malul râului Struma", "Face parte din regiunea Pernic", "Nod feroviar secundar în vestul țării", "Urme de așezări trace în apropiere"],
       en: ["Site of the first cement factory (1913)", "Named Temelkovo between 1950 and 1991", "Located on the banks of the Struma River", "Part of the Pernik Province", "Significant regional railway station", "Ancient Thracian remains found nearby"],
     },
+    image: "/poi-images/bulgaria-batanovtsi-cities-v2.webp",
   },
   {
     id: "bulgaria-kustendil-cities-v2",
@@ -1728,6 +1781,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Peste 70 de izvoare termale (până la 73°C)", "Numele antic al orașului: Pautalia", "Principalul centru pomicol al Bulgariei", "Găzduiește galeria pictorului Maystora", "Situat la baza munților Osogovo", "Cetatea Hissarlaka din epoca romană"],
       en: ["Over 70 mineral springs (up to 73°C)", "Ancient Roman name: Pautalia", "Bulgaria's primary fruit-growing region", "Home to the Maystora Art Gallery", "Located at the foot of Osogovo Mountains", "Features the late antique Hissarlaka fortress"],
     },
+    image: "/poi-images/bulgaria-kustendil-cities-v2.webp",
   },
   {
     id: "bulgaria-belovo-cities-v2",
@@ -1760,6 +1814,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Capătul căii ferate Baron Hirsch (1873)", "Prima fabrică de hârtie din Bulgaria (1900)", "Ruinele Bazilicii Belovo din secolul VI", "Punct de demarcație între Rila și Rodopi", "Centru major de prelucrare a lemnului", "Situat pe cursul superior al Mariței"],
       en: ["Terminus of the Baron Hirsch railway (1873)", "Site of Bulgaria's first paper mill (1900)", "Ruins of the 6th-century Belovo Basilica", "Boundary point between Rila and Rhodope mountains", "Major timber and wood processing hub", "Located on the upper Maritsa River"],
     },
+    image: "/poi-images/bulgaria-belovo-cities-v2.webp",
   },
   {
     id: "bulgaria-breshnik-cities-v2",
@@ -1792,6 +1847,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Sursă unică de apă feruginoasă (Zhelyazna voda)", "Locul unei bătălii decisive în 1885", "Biserica Sfânta Petka din secolul XV", "Centru major pentru festivalul Surva", "Face parte din regiunea administrativă Pernic", "Situat la baza dealului Bardoto"],
       en: ["Unique iron mineral spring (Zhelyazna voda)", "Site of a major battle in 1885", "Church of Saint Petka (15th century)", "Stronghold of the traditional Surva festival", "Part of the Pernik administrative province", "Located at the foot of Bardoto Hill"],
     },
+    image: "/poi-images/bulgaria-breshnik-cities-v2.webp",
   },
   {
     id: "bulgaria-bratsigovo-cities-v2",
@@ -1824,6 +1880,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Centrul unei celebre școli de constructori", "Cel mai înalt turn ortodox din Balcani", "Rol esențial în Răscoala din Aprilie 1876", "Centru important de producție a uleiului de trandafir", "Situat la poalele munților Rodopi", "Renumit pentru arhitectura sa tradițională"],
       en: ["Home to a famous school of master builders", "Tallest Orthodox bell tower in the Balkans", "Key site of the 1876 April Uprising", "Significant center for rose oil production", "Located in the foothills of the Rhodopes", "Famed for its traditional masonry and stone crafts"],
     },
+    image: "/poi-images/bulgaria-bratsigovo-cities-v2.webp",
   },
   {
     id: "bulgaria-buhovo-cities-v2",
@@ -1856,6 +1913,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Fost centru al extracției de uraniu (1938-1992)", "Face parte din regiunea metropolitană Sofia", "Ruinele unei bazilici creștine din secolul IV", "Găzduiește biserica Sf. Nicolae Făcătorul de Minuni", "Situat pe versantul sudic al Munților Balcani", "Oraș satelit pentru fostul combinat Kremikovți"],
       en: ["Former center of uranium mining (1938-1992)", "Part of the Sofia Municipality area", "Ruins of a 4th-century Christian basilica found", "Home to St. Nicholas the Miracleworker Church", "Located on the southern slopes of Balkan Mountains", "Once closely linked to the Kremikovtsi steel plant"],
     },
+    image: "/poi-images/bulgaria-buhovo-cities-v2.webp",
   },
   {
     id: "bulgaria-batenberg-varna-cities-v2",
@@ -1888,6 +1946,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Numit după primul principe al Bulgariei moderne", "Centru arhitectural în stil neoclasic și secesionist", "Găzduiește Muzeul de Arheologie din Varna", "Epoca în care a fost fondat palatul Euxinograd", "Inima dezvoltării urbane după eliberarea din 1878", "Situat în imediata apropiere a Grădinii Morii"],
       en: ["Named after the first Prince of modern Bulgaria", "Architectural hub of Neoclassical and Secessionist styles", "Site of the world-renowned Varna Archaeological Museum", "Era of the Euxinograd Palace foundation", "Center of urban modernization after 1878", "Located adjacent to the famous Sea Garden park"],
     },
+    image: "/poi-images/bulgaria-batenberg-varna-cities-v2.webp",
   },
   {
     id: "bulgaria-kaspichan-cities-v2",
@@ -1920,6 +1979,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Nod feroviar major începând cu anul 1866", "Situat lângă Pliska, prima capitală bulgară", "Centru pentru industria ceramicii și caolinului", "Intersecția liniilor Sofia, Varna și Ruse", "Proximitate față de Călărețul de la Madara (UNESCO)", "Face parte din regiunea administrativă Șumen"],
       en: ["Major railway junction established in 1866", "Located near the first Bulgarian capital, Pliska", "Center for ceramics and kaolin processing", "Intersection for Sofia-Varna and Varna-Ruse lines", "Close to the UNESCO World Heritage Madara Rider", "Part of the Shumen administrative province"],
     },
+    image: "/poi-images/bulgaria-kaspichan-cities-v2.webp",
   },
   {
     id: "bulgaria-zlatograd-cities-v2",
@@ -1952,6 +2012,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Zlatograd este cel mai sudic oraș din întreaga Bulgarie.", "Complexul etnografic a fost inaugurat oficial în anul 2001.", "Biserica Sfântul Gheorghe datează din anul 1834.", "Orașul este situat la o altitudine medie de 420 de metri.", "Punctul de frontieră cu Grecia a fost deschis în 2010.", "Hornurile rotunde sunt elemente decorative și funcționale specifice."],
       en: ["Zlatograd is the southernmost town in Bulgaria.", "The Ethnographic Complex was officially opened in 2001.", "The St. George Church was built in 1834.", "The town sits at an average altitude of 420 meters above sea level.", "A border crossing to Greece was inaugurated in 2010.", "Round white chimneys are a signature architectural feature of the area."],
     },
+    image: "/poi-images/bulgaria-zlatograd-cities-v2.webp",
   },
   {
     id: "bulgaria-suvorovo-cities-v2",
@@ -1984,6 +2045,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Orașul a fost redenumit Suvorovo în anul 1934.", "Bătălia istorică de la Kozludja a avut loc pe 20 iunie 1774.", "Suvorovo se află la aproximativ 30 km de Varna.", "Moscheea din oraș datează din secolul al XVI-lea.", "Regiunea deține numeroase parcuri eoliene moderne.", "Populația orașului este de aproximativ 4.500 de locuitori."],
       en: ["Suvorovo was renamed from Kozludzha in 1934.", "The Battle of Kozludzha took place on June 20, 1774.", "The town is located roughly 30 kilometers from Varna.", "The town's mosque dates back to the 16th century.", "The area is home to one of Bulgaria's largest wind farms.", "Suvorovo has a population of approximately 4,500 people."],
     },
+    image: "/poi-images/bulgaria-suvorovo-cities-v2.webp",
   },
   {
     id: "bulgaria-devin-cities-v2",
@@ -2016,6 +2078,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Devin este situat la o altitudine de 710 metri.", "Temperatura izvorului Bedenski atinge 76 de grade Celsius.", "În perioada antică, localitatea era cunoscută sub numele de Selene.", "Apa minerală Devin este exportată la nivel internațional.", "Cheile Trigrad se află la o distanță de 20 km de oraș.", "Regiunea adăpostește numeroase specii de plante endemice."],
       en: ["Devin is situated at an altitude of 710 meters.", "The temperature of the Bedenski spring reaches up to 76°C.", "The town was known as Selene in ancient times.", "Devin mineral water is exported to various international markets.", "The Trigrad Gorge is located only 20 kilometers away.", "The region is home to several rare and endemic plant species."],
     },
+    image: "/poi-images/bulgaria-devin-cities-v2.webp",
   },
   {
     id: "bulgaria-banya-nebeska-cities-v2",
@@ -2048,6 +2111,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Banya (Nebeska) aparține de comuna Chernoochene.", "Regiunea este celebră pentru cultivarea tutunului oriental.", "Satul este situat în inima Munților Rodopi de Est.", "Orașul Kardjali este cel mai apropiat centru urban.", "Împrejurimile sunt bogate în sanctuare tracice săpate în stâncă.", "Populația locală este redusă, păstrând tradiții vechi."],
       en: ["Banya (Nebeska) is part of the Chernoochene municipality.", "The region is a major hub for Oriental tobacco production.", "The village is located in the Eastern Rhodope Mountains.", "Kardzhali is the nearest significant urban center.", "The area is known for ancient Thracian rock sanctuaries.", "The population of the settlement is small and steady."],
     },
+    image: "/poi-images/bulgaria-banya-nebeska-cities-v2.webp",
   },
   {
     id: "bulgaria-topolovgrad-cities-v2",
@@ -2080,6 +2144,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Topolovgrad și-a primit numele actual în anul 1934.", "Orașul este situat pe panta nordică a Munților Sakar.", "Regiunea găzduiește peste 30 de dolmene tracice antice.", "Mănăstirea Sfânta Treime se află la 12 km de oraș.", "Munții Sakar sunt o arie protejată pentru acvila de câmp.", "Orașul găzduiește un festival anual de teatru de amatori."],
       en: ["Topolovgrad received its current name in 1934.", "The town is situated on the northern slope of Sakar Mountain.", "The region contains over 30 ancient Thracian dolmens.", "The Holy Trinity Monastery is located 12 km from the town.", "The Sakar Mountains are a protected area for Imperial Eagles.", "An annual amateur theater festival is held in the town."],
     },
+    image: "/poi-images/bulgaria-topolovgrad-cities-v2.webp",
   },
   {
     id: "bulgaria-banya-varna-cities-v2",
@@ -2112,6 +2177,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Banya se află între orașele portuare Varna și Burgas.", "Plaja sălbatică Irakli este la doar câțiva kilometri distanță.", "Satul este situat la intersecția Munților Balcani cu marea.", "Regiunea este renumită pentru producția de vin alb.", "Rezervația naturală Kamchia se află în imediata apropiere.", "Altitudinea medie a localității este de aproximativ 160 de metri."],
       en: ["Banya is located between the major ports of Varna and Burgas.", "The Irakli wild beach is just a few kilometers away.", "The village sits where the Balkan Mountains meet the sea.", "The region is well-known for its white wine production.", "The Kamchia Biosphere Reserve is located nearby.", "The average altitude of the village is about 160 meters."],
     },
+    image: "/poi-images/bulgaria-banya-varna-cities-v2.webp",
   },
   {
     id: "bulgaria-sarnitsa-cities-v2",
@@ -2144,6 +2210,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Sarnitsa este situat la o altitudine de aproximativ 1.250 m.", "Lacul Dospat are o lungime de 19 kilometri.", "Localitatea a fost declarată oraș în anul 2003.", "Comuna Sarnitsa a fost înființată la 1 ianuarie 2015.", "Industria lemnului este principala sursă de venit.", "Regiunea este o destinație populară pentru pescuitul de păstrăv."],
       en: ["Sarnitsa sits at an altitude of approximately 1,250 meters.", "The Dospat Reservoir is 19 kilometers long.", "The settlement was officially declared a town in 2003.", "The Sarnitsa municipality was established on January 1, 2015.", "Wood processing is the leading local industry.", "The reservoir is a famous spot for trout fishing."],
     },
+    image: "/poi-images/bulgaria-sarnitsa-cities-v2.webp",
   },
   {
     id: "bulgaria-banya-stara-zagora-cities-v2",
@@ -2176,6 +2243,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Temperatura apei minerale este constantă la 40 de grade Celsius.", "Stațiunea este situată la o altitudine de 370 de metri.", "Ruinele unor băi romane sunt vizibile în localitate.", "Starozagorski Bani se află la 15 km de orașul Stara Zagora.", "Zona este înconjurată de păduri de foioase întinse.", "Localitatea găzduiește un festival anual de folclor trac."],
       en: ["The mineral water temperature is a constant 40°C.", "The resort is located at an altitude of 370 meters.", "Ancient Roman baths were discovered during excavations.", "Starozagorski Bani is 15 km away from Stara Zagora.", "The area is surrounded by dense deciduous forests.", "An annual Thracian folklore festival is held here."],
     },
+    image: "/poi-images/bulgaria-banya-stara-zagora-cities-v2.webp",
   },
   {
     id: "bulgaria-batanovtsi-rural-cities-v2",
@@ -2208,6 +2276,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Prima fabrică de ciment din Bulgaria a fost construită aici în 1913.", "Batanovtsi este traversat de râul Struma.", "Orașul s-a numit Temelkovo între anii 1950 și 1992.", "Localitatea face parte din regiunea administrativă Pernik.", "Distanța până la capitala Sofia este de aproximativ 40 km.", "Regiunea a fost un centru important pentru extracția cărbunelui."],
       en: ["Bulgaria's first cement factory was built here in 1913.", "Batanovtsi is located on the Struma River.", "The town was named Temelkovo between 1950 and 1992.", "The town is part of the Pernik Province.", "Sofia, the capital city, is approximately 40 km away.", "The region used to be a hub for coal mining."],
     },
+    image: "/poi-images/bulgaria-batanovtsi-rural-cities-v2.webp",
   },
   {
     id: "bulgaria-sapareva-banya-cities-v2",
@@ -2240,6 +2309,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Gheizerul din Sapareva Banya are o temperatură de 103 °C.", "Este singurul gheizer activ din Europa continentală.", "Orașul antic Germania a fost situat pe acest amplasament.", "Localitatea se află la o altitudine de 750 de metri.", "Gheizerul erupe la un interval de aproximativ 20 de secunde.", "Orașul este punctul de plecare către Cele Șapte Lacuri din Rila."],
       en: ["The Sapareva Banya geyser reaches a temperature of 103°C.", "It is the only active geyser in continental Europe.", "The ancient city of Germania was located on this site.", "Sapareva Banya is situated at an altitude of 750 meters.", "The geyser erupts approximately every 20 seconds.", "The town is the main starting point for the Seven Rila Lakes."],
     },
+    image: "/poi-images/bulgaria-sapareva-banya-cities-v2.webp",
   },
   {
     id: "bulgaria-batenberg-pazardzhik-cities-v2",
@@ -2272,6 +2342,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Numit după principele Alexandru I de Battenberg.", "Situat în provincia Pazardjik din sudul Bulgariei.", "Fondat ca așezare modernă la sfârșitul secolului al XIX-lea.", "Face parte din Câmpia Tracică Superioară.", "Economia se bazează pe cereale și viticultură.", "Localitatea a fost redenumită ulterior în Konstantinovo."],
       en: ["Named after Prince Alexander I of Battenberg.", "Located in the Pazardzhik Province of Southern Bulgaria.", "Established as a modern settlement in the late 19th century.", "Situated within the fertile Upper Thracian Plain.", "Regional economy focuses on grain and fruit production.", "The settlement was later renamed to Konstantinovo."],
     },
+    image: "/poi-images/bulgaria-batenberg-pazardzhik-cities-v2.webp",
   },
   {
     id: "bulgaria-valchi-dol-cities-v2",
@@ -2304,6 +2375,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["A primit statutul de oraș în anul 1974.", "Situat în provincia Varna din nord-estul Bulgariei.", "Numele localității se traduce prin Valea Lupului.", "Centru important pentru producția de cereale din regiune.", "Nod feroviar pe magistrala Varna-Sofia.", "Localizat geografic pe platoul Franga."],
       en: ["Officially granted town status in 1974.", "Located in the Varna Province of Northeastern Bulgaria.", "The name Valchi Dol translates to Wolf's Glen.", "Major regional center for grain and sunflower production.", "Strategically positioned on the Varna-Sofia railway line.", "Situated on the elevated Franga Plateau."],
     },
+    image: "/poi-images/bulgaria-valchi-dol-cities-v2.webp",
   },
   {
     id: "bulgaria-banya-pazardzhik-cities-v2",
@@ -2336,6 +2408,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Situat în munții Sredna Gora din centrul Bulgariei.", "Aparține de municipalitatea Panaghiuriște, provincia Pazardjik.", "Renumit pentru izvoarele sale termale și minerale naturale.", "A jucat un rol activ în Insurecția din Aprilie 1876.", "Apele curative erau exploatate încă din epoca antică.", "Economia este bazată în principal pe turismul balnear."],
       en: ["Located in the Sredna Gora Mountains of central Bulgaria.", "Part of the Panagyurishte municipality, Pazardzhik Province.", "Famous for its natural mineral and thermal springs.", "Was a significant center during the April Uprising of 1876.", "The healing springs have been known since antiquity.", "The primary economic driver is modern spa tourism."],
     },
+    image: "/poi-images/bulgaria-banya-pazardzhik-cities-v2.webp",
   },
   {
     id: "bulgaria-batenberg-burgas-cities-v2",
@@ -2368,6 +2441,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Numit în onoarea principelui Alexandru I de Battenberg.", "Situat în provincia Burgas din sud-estul Bulgariei.", "Marchează independența națională obținută după 1878.", "Regiunea deține numeroase vestigii tracice și romane.", "Activitatea economică include viticultura și agricultura.", "Aproape de orașul-port Burgas, un centru logistic major."],
       en: ["Named after the first Prince of modern Bulgaria, Alexander of Battenberg.", "Located in the southeastern Burgas Province near the coast.", "Symbolizes national sovereignty established after 1878.", "The surrounding area is rich in Thracian and Roman ruins.", "Agriculture in the region focuses on vineyards and orchards.", "Situated close to the major port and industrial city of Burgas."],
     },
+    image: "/poi-images/bulgaria-batenberg-burgas-cities-v2.webp",
   },
   {
     id: "bulgaria-banya-burgas-cities-v2",
@@ -2400,6 +2474,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Situat la poalele Munților Balcani de Est, în provincia Burgas.", "Aparține de municipalitatea Nessebar, aproape de litoral.", "În vecinătate se află rezervația naturală protejată Irakli.", "Renumit pentru microclimatul benefic (amestec de aer montan și marin).", "Zonă importantă pentru viticultură și producția de vinuri locale.", "Localizat în apropierea Capului Emine, unde Balcanii întâlnesc marea."],
       en: ["Located at the foot of the Eastern Balkan Mountains in Burgas Province.", "Part of the Nessebar municipality near the Black Sea coast.", "The protected Irakli natural area is located nearby.", "Famous for its healthy microclimate combining mountain and sea air.", "Significant region for viticulture and local wine production.", "Situated close to Cape Emine, the easternmost point of the Balkans."],
     },
+    image: "/poi-images/bulgaria-banya-burgas-cities-v2.webp",
   },
   {
     id: "bulgaria-batenberg-lovech-cities-v2",
@@ -2432,6 +2507,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Numit după principele Alexandru I de Battenberg în secolul XIX.", "Situat în provincia Loveci din nordul Bulgariei.", "Regiunea se află în zona colinară a Prebalcanilor.", "Simbolizează formarea statului bulgar după eliberarea din 1878.", "Zonă agricolă importantă pentru pomicultură și cereale.", "Aproape de centre istorice precum Loveci și Troian."],
       en: ["Named after Prince Alexander I of Battenberg in the late 19th century.", "Located in the Lovech Province of Northern Bulgaria.", "Situated in the hilly foothills of the Fore-Balkan range.", "Symbolizes the nation-building efforts after the liberation of 1878.", "Key agricultural region for fruit orchards and grain production.", "Close to historical centers such as Lovech and Troyan."],
     },
+    image: "/poi-images/bulgaria-batenberg-lovech-cities-v2.webp",
   },
   {
     id: "bulgaria-banya-lovech-cities-v2",
@@ -2464,6 +2540,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Situat în inima munților Prebalcani, în provincia Loveci.", "Regiunea este cunoscută pentru pădurile sale dese și văile râurilor.", "Economia locală este bazată pe silvicultură și creșterea animalelor.", "Zona este bogată în formațiuni carstice și peșteri calcaroase.", "Păstrează elemente de arhitectură tradițională din secolul al XIX-lea.", "Face parte din regiunea Loveci, un centru istoric al educației."],
       en: ["Located in the heart of the Fore-Balkan mountains, Lovech Province.", "The region is known for its dense forests and lush river valleys.", "The economy is driven by forestry and small-scale livestock farming.", "Situated in an area famous for its limestone caves and karst relief.", "Features well-preserved 19th-century Bulgarian rural architecture.", "Part of the Lovech municipality, a historical center of education."],
     },
+    image: "/poi-images/bulgaria-banya-lovech-cities-v2.webp",
   },
   {
     id: "bulgaria-batenberg-vtarnovo-cities-v2",
@@ -2496,6 +2573,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1884 și numit după principele Alexandru de Battenberg.", "Situat la punctul de vărsare al râului Iantra în Dunăre.", "Astăzi localitatea este cunoscută sub numele oficial de Novograd.", "Se află în provincia istorică Veliko Târnovo din nordul Bulgariei.", "Centru important pentru pescuit și agricultură dunăreană.", "Găzduiește vestigii ale unor fortificații antice din apropiere."],
       en: ["Founded in 1884 and named after Prince Alexander of Battenberg.", "Located at the confluence of the Yantra River and the Danube.", "The settlement is known today by the official name Novograd.", "Situated in the historic Veliko Tarnovo Province of Northern Bulgaria.", "A significant center for fishing and agriculture along the Danube.", "Features nearby remains of ancient defensive fortifications."],
     },
+    image: "/poi-images/bulgaria-batenberg-vtarnovo-cities-v2.webp",
   },
   {
     id: "bulgaria-banya-vtarnovo-cities-v2",
@@ -2528,6 +2606,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Situat în provincia Veliko Târnovo din centrul Bulgariei.", "Regiune locuită continuu din epoca tracică și romană.", "Cunoscut pentru proximitatea față de izvoarele minerale curative.", "Arhitectura reflectă stilul Renașterii Naționale Bulgare.", "Principalele activități sunt agricultura și viticultura.", "Localizat în apropierea rutei istorice către Nova Zagora."],
       en: ["Located in the Veliko Tarnovo Province of Central Bulgaria.", "Region inhabited since Thracian and Roman times.", "Famous for its proximity to natural healing springs and baths.", "Architecture preserves the Bulgarian National Revival style.", "Main economic activities include agriculture and winemaking.", "Situated near the historical route towards Nova Zagora."],
     },
+    image: "/poi-images/bulgaria-banya-vtarnovo-cities-v2.webp",
   },
   {
     id: "bulgaria-batenberg-pleven-2-cities-v2",
@@ -2560,6 +2639,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Numit după principele Alexandru I de Battenberg după 1878.", "Situat în provincia Plevna, în Câmpia Dunării.", "Regiunea este un centru major pentru cereale și viticultură.", "Legat istoric de evenimentele Războiului Ruso-Otoman.", "Plevna este celebră pentru asediul din 1877 și monumentele sale.", "Face parte din zona agricolă cea mai productivă a Bulgariei de Nord."],
       en: ["Named after Prince Alexander I of Battenberg after 1878.", "Located in the Pleven Province within the Danubian Plain.", "The region is a key center for grain production and winemaking.", "Historically tied to the events of the Russo-Turkish War.", "Pleven is famous for its 1877 Siege and numerous war memorials.", "Part of the most agriculturally productive zone in Northern Bulgaria."],
     },
+    image: "/poi-images/bulgaria-batenberg-pleven-2-cities-v2.webp",
   },
   {
     id: "bulgaria-banya-pleven-cities-v2",
@@ -2592,6 +2672,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Situat în Câmpia Dunării la o altitudine medie de 100 de metri.", "Satul se află la aproximativ 45 de kilometri nord-est de orașul Plevna.", "Solurile sunt compuse predominant din cernoziom fertil de tip negru.", "Climatul este continental, cu variații de temperatură de peste 30 de grade.", "Descoperirile arheologice din apropiere indică urme de așezări romane.", "Economia locală se bazează aproape exclusiv pe cultivarea cerealelor."],
       en: ["Located in the Danubian Plain at an average elevation of 100 meters.", "The village is situated approximately 45 kilometers northeast of Pleven.", "Soils consist mainly of highly fertile black earth (chernozem).", "The climate is continental with annual temperature swings exceeding 30°C.", "Archaeological finds nearby suggest traces of ancient Roman settlements.", "Local economy is almost entirely based on large-scale grain production."],
     },
+    image: "/poi-images/bulgaria-banya-pleven-cities-v2.webp",
   },
   {
     id: "bulgaria-batenberg-varna-2-cities-v2",
@@ -2624,6 +2705,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Se află la aproximativ 30 de kilometri sud-vest de centrul orașului Varna.", "Altitudinea deasupra nivelului mării variază între 150 și 200 de metri.", "Numele provine de la Alexandru I de Battenberg (domnie 1879–1886).", "Regiunea este cunoscută pentru depozitele de marnă și calcar de calitate.", "Prezintă un climat mixt, cu ierni mai blânde decât în interiorul țării.", "Economia locală este completată de viticultură și creșterea animalelor mici."],
       en: ["Located approximately 30 kilometers southwest of Varna's city center.", "The elevation above sea level ranges between 150 and 200 meters.", "The name is derived from Alexander I of Battenberg (reigned 1879–1886).", "The region is known for high-quality marl and limestone deposits.", "Features a mixed climate with milder winters than the Bulgarian interior.", "Local economy is supplemented by viticulture and small-scale livestock."],
     },
+    image: "/poi-images/bulgaria-batenberg-varna-2-cities-v2.webp",
   },
   {
     id: "bulgaria-banya-varna-2-cities-v2",
@@ -2656,6 +2738,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Așezarea se află la poalele Munților Balcani de Est.", "Climatul este maritim-continental cu o medie de 2300 de ore de soare.", "În zonă se găsesc păduri de stejar și fag protejate ecologic.", "Varna, centrul maritim al Bulgariei, este la aproximativ 40 km distanță.", "Alimentarea cu apă se face parțial prin izvoare montane locale.", "Imobiliarele din această regiune sunt populare printre pensionarii străini."],
       en: ["The settlement is located in the foothills of the Eastern Balkan range.", "The climate is maritime-continental with an average of 2,300 sun hours.", "Ecologically protected oak and beech forests are found in the vicinity.", "Varna, the maritime capital of Bulgaria, is roughly 40 km away.", "Water supply is partially sourced from local mountain springs.", "Real estate in this region is increasingly popular with foreign retirees."],
     },
+    image: "/poi-images/bulgaria-banya-varna-2-cities-v2.webp",
   },
   {
     id: "bulgaria-batenberg-burgas-2-cities-v2",
@@ -2688,6 +2771,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Situat în Câmpia Burgasului, la aproximativ 25 km de Marea Neagră.", "Terenul este în mare parte plan, cu o altitudine de circa 40-60 de metri.", "Principala ramură economică este producția de materii prime pentru ulei.", "Regiunea înregistrează ierni mai blânde datorită influenței maritime.", "Conexiunea rutieră spre Burgas asigură accesul la infrastructura urbană.", "Densitatea populației este foarte scăzută în comparație cu zona costieră."],
       en: ["Located in the Burgas Plain, roughly 25 kilometers from the Black Sea.", "The terrain is largely flat with an elevation of about 40-60 meters.", "The most important economic sector is the production of sunflower oil crops.", "Winters are milder than in Northern Bulgaria due to maritime proximity.", "Bus connections to Burgas ensure access to essential urban infrastructure.", "The population density is very low compared to the nearby coastal strip."],
     },
+    image: "/poi-images/bulgaria-batenberg-burgas-2-cities-v2.webp",
   },
   {
     id: "bulgaria-banya-burgas-2-cities-v2",
@@ -2720,6 +2804,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Situat la aproximativ 15 km nord-vest de faimoasa stațiune Sunny Beach.", "Altitudinea deasupra nivelului mării este în medie de 100-150 de metri.", "Satul este cunoscut pentru microclimatul excelent și aerul curat.", "În împrejurimi se produc vinuri de calitate din soiuri de struguri locali.", "Regiunea oferă habitat pentru țestoasele de uscat mediteraneene protejate.", "Burgas, reședința administrativă, este accesibil în circa 40 de minute."],
       en: ["Located about 15 kilometers northwest of the famous Sunny Beach resort.", "The elevation above sea level averages between 100 and 150 meters.", "The village is renowned for its excellent microclimate and clean air.", "High-quality wines are produced in the vicinity from local grape varieties.", "The region provides a habitat for protected Mediterranean tortoises.", "Burgas, the administrative center, is reachable within a 40-minute drive."],
     },
+    image: "/poi-images/bulgaria-banya-burgas-2-cities-v2.webp",
   },
   {
     id: "bulgaria-batenberg-pazardzhik-2-cities-v2",
@@ -2752,6 +2837,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Situat în fertila Câmpie a Traciei Superioare.", "Altitudinea medie este de aproximativ 200 de metri peste nivelul mării.", "Regiunea este celebră pentru cultivarea legumelor de tip tracic.", "Râul Marița curge în direcție sudică în apropierea regiunii.", "Există numeroși tumuli traci antici în imediata vecinătate.", "Pazardjik, centrul regional, se află la o distanță de circa 15 km."],
       en: ["Located in the fertile Upper Thracian Plain of Southern Bulgaria.", "The average elevation is approximately 200 meters above sea level.", "The region is famous for the cultivation of Thracian vegetables.", "The Maritsa River flows in a southern direction near the region.", "Numerous ancient Thracian burial mounds are found in the immediate area.", "Pazardzhik, the regional capital, is roughly 15 km away."],
     },
+    image: "/poi-images/bulgaria-batenberg-pazardzhik-2-cities-v2.webp",
   },
   {
     id: "bulgaria-banya-pazardzhik-2-cities-v2",
@@ -2784,6 +2870,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Situat la marginea nordică a poalelor Munților Rodopi.", "Regiunea este bogată în izvoare geotermale și apă minerală.", "Cunoscut pentru producția de miere aromată și produse forestiere.", "Temperatura medie anuală se situează în jurul a 12 grade Celsius.", "Situl arheologice ale unor sanctuare trace se află în munți.", "Satul se află la aproximativ 20 km sud de orașul Panaghiuriște."],
       en: ["Located on the northern edge of the Rhodope foothills.", "The region is rich in geothermal springs and mineral water.", "Known for the production of aromatic honey and forest products.", "The average annual temperature is approximately 12 degrees Celsius.", "Archaeological sites of Thracian sanctuaries are located in the mountains.", "The village is situated about 20 km south of the town of Panagyurishte."],
     },
+    image: "/poi-images/bulgaria-banya-pazardzhik-2-cities-v2.webp",
   },
   {
     id: "bulgaria-batenberg-lovech-2-cities-v2",
@@ -2816,6 +2903,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Situat în una dintre cele mai importante regiuni carstice din Bulgaria.", "Altitudinea variază semnificativ între 300 și 500 de metri.", "Faimos pentru cultivarea prunelor și producția de rachiu.", "În apropiere se află sisteme de peșteri importante din Prebalcani.", "Temperatura iarna poate scădea drastic din cauza fenomenelor de inversiune.", "Loveci, orașul podurilor, se află la circa 20 km spre nord-vest."],
       en: ["Located in one of the most significant karst regions in Bulgaria.", "Elevation varies significantly between 300 and 500 meters above sea level.", "Famous for plum cultivation and the production of traditional rakia.", "Significant cave systems of the Pre-Balkans are located nearby.", "Winter temperatures can drop sharply due to atmospheric inversion.", "Lovech, known as the city of bridges, is roughly 20 km northwest."],
     },
+    image: "/poi-images/bulgaria-batenberg-lovech-2-cities-v2.webp",
   },
   {
     id: "bulgaria-banya-lovech-2-cities-v2",
@@ -2848,6 +2936,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Amplasat la poalele nordice ale Munților Balcani Centrali.", "Altitudinea deasupra nivelului mării este în medie de 450 de metri.", "Regiunea este bogată în specii de plante endemice și ierburi de leac.", "Există urme ale unor băi romane în împrejurimile apropiate.", "Localitatea este cunoscută pentru arta tradițională a cioplitului în piatră.", "Iernile sunt lungi, cu un strat mediu de zăpadă de 40 cm."],
       en: ["Nestled in the northern foothills of the Central Balkan range.", "The elevation above sea level averages around 450 meters.", "The region is rich in endemic plant species and medicinal herbs.", "Traces of Roman bath facilities exist in the nearby vicinity.", "The settlement is known for its traditional stonemasonry crafts.", "Winters are long with an average snow depth of 40 centimeters."],
     },
+    image: "/poi-images/bulgaria-banya-lovech-2-cities-v2.webp",
   },
   {
     id: "bulgaria-batenberg-vtarnovo-2-cities-v2",
@@ -2880,6 +2969,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Situat la aproximativ 10 kilometri est de Veliko Târnovo.", "Altitudinea medie variază între 200 și 250 de metri.", "Zonă importantă de cultivare a cireșelor și strugurilor de masă.", "Regiunea este cunoscută pentru mănăstirile sale ortodoxe medievale.", "Râul Iantra definește condițiile hidrologice ale împrejurimilor.", "Climatul este temperat-continental cu toamne lungi și calde."],
       en: ["Located approximately 10 kilometers east of Veliko Tarnovo.", "The average elevation is between 200 and 250 meters above sea level.", "An important cultivation area for cherries and table grapes.", "The region is renowned for its medieval Orthodox monasteries.", "The Yantra River defines the hydrological characteristics of the area.", "The climate is moderate-continental featuring long, warm autumns."],
     },
+    image: "/poi-images/bulgaria-batenberg-vtarnovo-2-cities-v2.webp",
   },
   {
     id: "bulgaria-banya-vtarnovo-2-cities-v2",
@@ -2912,6 +3002,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Izvoarele minerale au o temperatură constantă de aproximativ 37-42 grade Celsius.", "Monedele romane descoperite lângă Banya datează din secolul al II-lea d.Hr.", "Satul este situat la o altitudine de aproximativ 250 de metri deasupra nivelului mării.", "Regiunea este cunoscută pentru cultivarea ierburilor medicinale și a plantelor oleaginoase.", "Banya se află în apropierea văii râului Tundzha, o rută importantă de migrație.", "Biserica locală a fost construită în secolul al XIX-lea, în timpul Renașterii Bulgare."],
       en: ["The mineral springs maintain a constant temperature between 37 and 42 degrees Celsius.", "Roman coins discovered near Banya date back to the 2nd century AD.", "The village is situated at an elevation of approximately 250 meters above sea level.", "The region is known for the cultivation of medicinal herbs and oilseed plants.", "Banya is located near the Tundzha River valley, a key ecological migration route.", "The local church was constructed in the 19th century during the Bulgarian National Revival."],
     },
+    image: "/poi-images/bulgaria-banya-vtarnovo-2-cities-v2.webp",
   },
   {
     id: "bulgaria-banya-pleven-2-cities-v2",
@@ -2944,6 +3035,7 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Regiunea Pleven a găzduit bătălii decisive pentru eliberarea Bulgariei în 1877.", "Fragmente de ceramică din Epoca Bronzului au fost găsite în împrejurimile satului Banya.", "Climatul este temperat-continental, cu veri fierbinți și ierni reci.", "Solurile din această parte a Câmpiei Dunării sunt cernoziomuri extrem de fertile.", "Banya se află la aproximativ 150 de kilometri nord-est de capitala Sofia.", "Arhitectura tradițională din sat prezintă adesea elemente din piatră și lemn din secolul XIX."],
       en: ["The Pleven region witnessed decisive battles for Bulgarian liberation in 1877.", "Bronze Age ceramic fragments have been discovered in the vicinity of Banya.", "The climate is moderate continental, characterized by hot summers and cold winters.", "The soils in this part of the Danubian Plain are extremely fertile chernozems.", "Banya is located approximately 150 kilometers northeast of the capital, Sofia.", "Traditional village architecture often features 19th-century stone and wood elements."],
     },
+    image: "/poi-images/bulgaria-banya-pleven-2-cities-v2.webp",
   },
   {
     id: "bulgaria-banya-varna-3-cities-v2",
@@ -2976,5 +3068,6 @@ export const bulgariaCitiesV2: POI[] = [
       ro: ["Capul Emine, cel mai estic punct al Munților Balcani, se află la doar câțiva kilometri distanță.", "Regiunea adăpostește specii rare de păsări care migrează pe ruta Via Pontica.", "Satul este situat la o altitudine medie de aproximativ 180 de metri.", "Banya se află pe drumul principal care leagă orașele Varna și Burgas.", "Arheologii au descoperit resturi de așezări tracice din mileniul I î.Hr. în apropiere.", "Populația locală sărbătorește anual festivaluri tradiționale dedicate protecției naturii."],
       en: ["Cape Emine, the easternmost point of the Balkan Mountains, is located just a few kilometers away.", "The region hosts rare bird species migrating along the Via Pontica route.", "The village is situated at an average elevation of approximately 180 meters.", "Banya is located on the main road connecting the cities of Varna and Burgas.", "Archaeologists have discovered Thracian settlement remains dating to the 1st millennium BC.", "The local population celebrates annual traditional festivals dedicated to nature conservation."],
     },
+    image: "/poi-images/bulgaria-banya-varna-3-cities-v2.webp",
   }
 ];

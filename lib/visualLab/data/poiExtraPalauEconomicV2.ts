@@ -31,6 +31,7 @@ export const palauEconomicV2: POI[] = [
       ro: ["Situat pe insula Malakal", "Principalul port maritim al Palau", "Port de adâncime pentru nave mari", "Poarta economică a țării", "Centru pentru logistica internațională", "Bază pentru flotele de pescuit comercial"],
       en: ["Located on Malakal Island", "Palau's most important shipping port", "Deep water harbor for large vessels", "Economic gateway for the nation", "Center for international logistics", "Base for commercial fishing fleets"],
     },
+    image: "/poi-images/palau-malakal-port-economic-v2.webp",
   },
   {
     id: "palau-koror-business-district-economic-v2",
@@ -62,6 +63,7 @@ export const palauEconomicV2: POI[] = [
       ro: ["Centrul economic al Palau", "Cea mai mare densitate de retail", "Sediul majorității băncilor", "Centrul industriei turistice", "Principalul nod de trafic din Koror", "Fosta capitală până în anul 2006"],
       en: ["Economic center of Palau", "Highest density of retail shops", "Home to most national bank branches", "Hub for the tourism industry", "Primary traffic junction in Koror", "Formerly the capital until 2006"],
     },
+    image: "/poi-images/palau-koror-business-district-economic-v2.webp",
   },
   {
     id: "palau-aimeliik-power-plant-economic-v2",
@@ -93,6 +95,7 @@ export const palauEconomicV2: POI[] = [
       ro: ["Cea mai mare centrală din țară", "Situată în statul Aimeliik", "Alimentează rețeaua Koror-Babeldaob", "Vitală pentru securitatea energetică", "Funcționează în principal cu motorină", "Pilonul infrastructurii naționale"],
       en: ["Largest power plant in the country", "Located in Aimeliik State", "Supplies the Koror-Babeldaob grid", "Critical for national power security", "Primarily uses diesel generation", "Backbone of Palau's infrastructure"],
     },
+    image: "/poi-images/palau-aimeliik-power-plant-economic-v2.webp",
   },
   {
     id: "palau-airai-solar-farm-economic-v2",
@@ -124,6 +127,7 @@ export const palauEconomicV2: POI[] = [
       ro: ["Capacitate instalată de aproximativ 13,2 megawați (MWp)", "Se întinde pe o suprafață de circa 15 hectare", "A fost pus în funcțiune oficial în anul 2023", "Parte a obiectivului de a atinge 45% energie regenerabilă până în 2025", "Sprijinit financiar de Fondul pentru Energie Viitoare din Abu Dhabi", "Reduce emisiile de CO2 cu câteva mii de tone anual"],
       en: ["Installed capacity of approximately 13.2 megawatts (MWp)", "Spans across an area of about 15 hectares", "Officially commissioned in the year 2023", "Part of the goal to reach 45% renewable energy by 2025", "Supported by funding from the Abu Dhabi Future Energy Fund", "Reduces CO2 emissions by several thousand tons annually"],
     },
+    image: "/poi-images/palau-airai-solar-farm-economic-v2.webp",
   },
   {
     id: "palau-kb-bridge-infrastructure-economic-v2",
@@ -155,6 +159,7 @@ export const palauEconomicV2: POI[] = [
       ro: ["Lungimea totală a podului este de aproximativ 413 metri", "A fost deschis oficial traficului în anul 2002", "Finanțat printr-o donație japoneză de 28 de milioane de dolari", "Deschiderea traveei principale este de circa 247 metri", "A înlocuit podul construit în 1977 și prăbușit în 1996", "Cea mai importantă legătură pentru conductele de curent și apă"],
       en: ["Total length of the bridge is approximately 413 meters", "Officially opened to traffic in the year 2002", "Financed by a Japanese grant of 28 million dollars", "The main span of the bridge is about 247 meters", "Replaced the bridge built in 1977 that collapsed in 1996", "Crucial link for power and water supply lines between islands"],
     },
+    image: "/poi-images/palau-kb-bridge-infrastructure-economic-v2.webp",
   },
   {
     id: "palau-ngatpang-aquaculture-center-economic-v2",
@@ -186,6 +191,7 @@ export const palauEconomicV2: POI[] = [
       ro: ["Situat în statul Ngatpang de pe insula Babeldaob", "Dezvoltat cu asistență tehnică din partea Taiwanului", "Accentul principal este pe producția de pește lapte (Chanos chanos)", "Dispune de mai multe hectare de bazine de creștere", "Promovează creșterea crabilor de mangrovă pentru piața locală", "Sprijină pescarii locali prin furnizarea de puiet"],
       en: ["Located in Ngatpang State on the island of Babeldaob", "Developed with technical assistance from Taiwan", "Main focus is on the production of milkfish (Chanos chanos)", "Features several hectares of grow-out ponds", "Promotes the farming of mangrove crabs for the local market", "Supports local fishers by providing fingerlings and training"],
     },
+    image: "/poi-images/palau-ngatpang-aquaculture-center-economic-v2.webp",
   },
   {
     id: "palau-peleliu-south-harbor-economic-v2",
@@ -217,6 +223,7 @@ export const palauEconomicV2: POI[] = [
       ro: ["Portul principal pentru traficul de pasageri către Koror", "Situat în vârful sudic al insulei Peleliu", "Modernizat prin asistență pentru dezvoltare din partea Japoniei", "Servește ca bază pentru ambarcațiunile pescarilor locali", "Punct important de transbordare pentru materiale de construcție", "În apropiere se află monumente din al Doilea Război Mondial"],
       en: ["Main port for passenger traffic to and from Koror", "Located at the southern tip of Peleliu Island", "Modernized through Japanese development assistance", "Serves as a base for local artisanal fishing boats", "Important transit point for construction materials", "Nearby area contains several World War II memorials"],
     },
+    image: "/poi-images/palau-peleliu-south-harbor-economic-v2.webp",
   },
   {
     id: "palau-angaur-harbor-economic-v2",
@@ -248,6 +255,7 @@ export const palauEconomicV2: POI[] = [
       ro: ["Singurul port amenajat de pe insula Angaur", "Intrarea în port a fost tăiată artificial în recif", "Folosit istoric pentru exportul de fosfați", "Bazinul portuar oferă protecție împotriva mării agitate", "Conexiune regulată cu feribotul operată de statul Angaur", "Loc important pentru încărcarea și descărcarea combustibilului"],
       en: ["Only established harbor on the island of Angaur", "The harbor entrance was artificially blasted into the reef", "Historically used for the exportation of phosphate", "The harbor basin provides protection from heavy ocean swells", "Regular ferry service is operated by the State of Angaur", "Crucial location for the loading and unloading of fuel"],
     },
+    image: "/poi-images/palau-angaur-harbor-economic-v2.webp",
   },
   {
     id: "palau-ngerulmud-administrative-economic-v2",
@@ -279,6 +287,7 @@ export const palauEconomicV2: POI[] = [
       ro: ["Inaugurat oficial la 7 octombrie 2006", "Ngerulmud este capitala cu cea mai mică populație din lume", "Construcția a costat aproximativ 45 de milioane de dolari SUA", "Finanțat printr-un împrumut de la guvernul Taiwanului", "Situat la aproximativ 20 de kilometri nord-est de Koror", "Format din trei clădiri principale conectate prin alei"],
       en: ["Officially inaugurated on October 7, 2006", "Ngerulmud is the least populous capital city in the world", "Construction costs totaled approximately 45 million USD", "Financed through a loan from the government of Taiwan", "Located about 20 kilometers northeast of the former capital, Koror", "Consists of three main buildings connected by walkways"],
     },
+    image: "/poi-images/palau-ngerulmud-administrative-economic-v2.webp",
   },
   {
     id: "palau-ngardmau-mining-ruins-economic-v2",
@@ -310,5 +319,6 @@ export const palauEconomicV2: POI[] = [
       ro: ["Exploatarea bauxitei de către compania Nanyo Kerai Kaisha", "Perioada de funcționare a fost între 1937 și 1944", "Funicularul avea odată peste 3 kilometri lungime", "Ruinele se află în apropierea cascadelor Ngardmau", "Rămășițele unui vechi depou de locomotive sunt încă vizibile", "Japonia producea aici aluminiu pentru efortul de război"],
       en: ["Bauxite mining was conducted by the Nanyo Kerai Kaisha company", "Operational period spanned between 1937 and 1944", "The cable car system was once over 3 kilometers long", "Ruins are located near the scenic Ngardmau Waterfalls", "Remains of an old locomotive shed are still visible today", "Japan produced aluminum here to support its wartime efforts"],
     },
+    image: "/poi-images/palau-ngardmau-mining-ruins-economic-v2.webp",
   }
 ];

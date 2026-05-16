@@ -1055,6 +1055,7 @@ imageHint: "Large petrochemical industrial complex in Tarragona",
       ro: ["Anul înființării: 1992", "Suprafață: 300 ha", "Număr de companii: peste 600", "Angajați: circa 18.000", "Cifră de afaceri anuală: 2 miliarde euro", "Centre de cercetare: 20"],
       en: ["Founded: 1992", "Area: 300 ha", "Number of companies: over 600", "Employees: about 18,000", "Annual revenue: €2 billion", "Research centers: 20"],
     },
+    image: "/poi-images/spain-parque-tecnologico-andalucia-economic-v2.webp",
   },
   {
     id: "spain-refineria-puertollano-economic-v2",
@@ -1087,5 +1088,6 @@ imageHint: "Large petrochemical industrial complex in Tarragona",
       ro: ["Intrat în funcțiune: 1947", "Procesare țiței: 8 milioane t/an", "Capacitate de producție: 200.000 barili/zi", "Angajați direcți: 1.500", "Investiții în tehnologii de mediu: 200 milioane euro", "Suprafață: 500 ha"],
       en: ["Start of operations: 1947", "Crude oil processing: 8 million t/year", "Production capacity: 200,000 barrels/day", "Direct employees: 1,500", "Environmental technology investments: €200 million", "Area: 500 ha"],
     },
+    image: "/poi-images/spain-refineria-puertollano-economic-v2.webp",
   }
 ];

@@ -107,7 +107,8 @@ export const northmacedoniaPois: POI[] = [
         "The devastating 1963 earthquake resulted in the loss of nearly 80% of the city's architectural fabric, leading to a radical urban transformation.",
         "Skopje is the birthplace of Mother Teresa, and a dedicated memorial house marks her legacy in the city center."
       ]
-    }
+    },
+    image: "/poi-images/city-skopje.webp",
   },
   {
     id: "city-bitola",
@@ -288,7 +289,8 @@ export const northmacedoniaPois: POI[] = [
         "The local region has historically played a significant role in various national resistance movements.",
         "Today, Kumanovo remains a center of industrial output and service-based economic activity."
       ]
-    }
+    },
+    image: "/poi-images/city-kumanovo.webp",
   }
 ];
 

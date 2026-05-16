@@ -1619,6 +1619,7 @@ imageHint: "Susak island sandy paths yellow loess cliffs",
       ro: ["Lungimea totală a canionului este de 800 de metri.", "Pereții verticali de stâncă ating o înălțime de 100 de metri.", "Rezervația geomorfologică a fost înființată în anul 1962.", "Pârâul Jasle a sculptat rocile calcaroase de-a lungul mileniilor.", "Peștera Muževa hižica se găsește la capătul traseului.", "Altitudinea zonei protejate din Gorski Kotar depășește 300 de metri."],
       en: ["The canyon extends for approximately 800 meters in length.", "The vertical limestone cliffs rise up to 100 meters high.", "The fast-flowing Jasle stream runs through the canyon floor.", "It was officially declared a geomorphological reserve in 1962.", "The nearby Muževa hižica cave serves as an overwintering site for bats.", "Metal walkways have been installed to allow pedestrian access."],
     },
+    image: "/poi-images/croatia-vrazji-prolaz-nature-v2.webp",
   },
   {
     id: "croatia-zeleni-vir-nature-v2",
@@ -1837,5 +1838,6 @@ imageHint: "Susak island sandy paths yellow loess cliffs",
       ro: ["Înălțimea turnurilor de piatră: până la 100 m", "Monument geomorfologic protejat din 1963", "Lungimea totală a canionului: 3,5 km", "Parte a Parcului Natural Učka din 1999"],
       en: ["Height of rock towers: up to 100 meters", "Geomorphological monument since 1963", "Total canyon length: 3.5 km", "Part of Učka Nature Park since 1999"],
     },
+    image: "/poi-images/croatia-vela-draga-nature-v2.webp",
   }
 ];

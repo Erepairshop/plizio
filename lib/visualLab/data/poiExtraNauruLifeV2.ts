@@ -31,6 +31,7 @@ export const nauruLifeV2: POI[] = [
       ro: ["Singurul lac interior din țară", "Situat în districtul Buada", "Conține apă salmastră", "Loc pentru piscicultură tradițională", "Zona cea mai fertilă a insulei", "Oază naturală pe platoul central"],
       en: ["Nauru's only inland lake", "Located in Buada District", "Contains brackish water", "Traditional site for milkfish farming", "Surrounded by fertile vegetation", "Situated in the central plateau area"],
     },
+    image: "/poi-images/nauru-buada-lagoon-life-v2.webp",
   },
   {
     id: "nauru-anibare-bay-reef-life-v2",
@@ -62,6 +63,7 @@ export const nauruLifeV2: POI[] = [
       ro: ["Cel mai mare golf de pe coasta de est", "Biodiversitate bogată de corali și pești", "Locația portului Anibare", "Barieră naturală împotriva valurilor", "Zonă populară pentru scufundări", "Sistem ecologic vital pentru insulă"],
       en: ["Largest bay on the eastern coast", "Rich in coral and fish species", "Site of the Anibare Harbor", "Natural barrier against ocean swells", "Popular location for diving", "Crucial marine ecological zone"],
     },
+    image: "/poi-images/nauru-anibare-bay-reef-life-v2.webp",
   },
   {
     id: "nauru-topside-plateau-ferns-life-v2",
@@ -93,6 +95,7 @@ export const nauruLifeV2: POI[] = [
       ro: ["Cresc între coloanele de calcar", "Specii comune: Pteris și Nephrolepis", "Colonizează fostele situri miniere", "Preferă microclimatul din crăpături", "Parte a vegetației secundare", "Rezistente în soluri sărace"],
       en: ["Grow between limestone pinnacles", "Common species: Pteris and Nephrolepis", "Colonize former mining areas", "Thrive in crevice microclimates", "Key part of secondary vegetation", "Resilient in nutrient-poor soils"],
     },
+    image: "/poi-images/nauru-topside-plateau-ferns-life-v2.webp",
   },
   {
     id: "nauru-command-ridge-forest-life-v2",
@@ -124,6 +127,7 @@ export const nauruLifeV2: POI[] = [
       ro: ["Cel mai înalt punct din Nauru (71 m)", "Situat în districtul Aiwo", "Adăpostește specii de arbori nativi", "Habitat pentru păsări marine", "Acoperă vechile baterii de artilerie", "Fragment de pădure tropicală"],
       en: ["Nauru's highest point (71 m)", "Located in Aiwo District", "Home to native tree species", "Habitat for various seabirds", "Overgrows old military emplacements", "Crucial forest fragment on the island"],
     },
+    image: "/poi-images/nauru-command-ridge-forest-life-v2.webp",
   },
   {
     id: "nauru-moqua-well-area-life-v2",
@@ -155,6 +159,7 @@ export const nauruLifeV2: POI[] = [
       ro: ["Localizat în districtul Yaren", "Peisaj carstic cu sistem de peșteri", "Prezența crabilor de uscat", "Floră adaptată la calcar", "Zonă puțin afectată de minerit", "Regiune hidrogeologică importantă"],
       en: ["Located in Yaren District", "Karst landscape with cave systems", "Presence of various land crabs", "Specialized limestone flora", "Relatively undisturbed by mining", "Significant hydrogeological area"],
     },
+    image: "/poi-images/nauru-moqua-well-area-life-v2.webp",
   },
   {
     id: "nauru-ijuw-mangroves-life-v2",
@@ -186,6 +191,7 @@ export const nauruLifeV2: POI[] = [
       ro: ["Situat în districtul Ijuw", "Specia: Bruguiera gymnorhiza", "Ecosistem rar în Nauru", "Protecție împotriva eroziunii costiere", "Loc de reproducere pentru pești", "Crește în zone cu apă salmastră"],
       en: ["Located in Ijuw District", "Species: Bruguiera gymnorhiza", "Rare ecosystem on Nauru", "Protection against coastal erosion", "Breeding ground for marine species", "Grows in brackish coastal zones"],
     },
+    image: "/poi-images/nauru-ijuw-mangroves-life-v2.webp",
   },
   {
     id: "nauru-nibok-shrubland-life-v2",
@@ -217,6 +223,7 @@ export const nauruLifeV2: POI[] = [
       ro: ["Situat în districtul Nibok", "Specie dominantă: Scaevola taccada", "Stabilizează solul costier", "Rezistent la salinitatea marină", "Habitat pentru insecte și șopârle", "Parte a centurii vegetale originale"],
       en: ["Located in Nibok District", "Dominant species: Scaevola taccada", "Stabilizes coastal soils", "Resilient to salt spray", "Habitat for insects and lizards", "Part of the original coastal vegetation belt"],
     },
+    image: "/poi-images/nauru-nibok-shrubland-life-v2.webp",
   },
   {
     id: "nauru-meneng-pandanus-groves-life-v2",
@@ -248,6 +255,7 @@ export const nauruLifeV2: POI[] = [
       ro: ["Situat în districtul Meneng", "Frunze folosite pentru țesut", "Sursă tradițională de hrană", "Adaptat la condițiile de coastă", "Simbol cultural al insulei Nauru", "Refugiu pentru mici animale"],
       en: ["Located in Meneng District", "Leaves used for traditional weaving", "Significant traditional food source", "Adapted to coastal environments", "Cultural symbol of Nauru", "Provides shelter for small fauna"],
     },
+    image: "/poi-images/nauru-meneng-pandanus-groves-life-v2.webp",
   },
   {
     id: "nauru-anetan-frigatebird-nesting-life-v2",
@@ -279,6 +287,7 @@ export const nauruLifeV2: POI[] = [
       ro: ["Fregata mare are o anvergură a aripilor de până la 2,30 metri.", "Perioada de cuibărit a păsărilor se întinde adesea pe mai multe luni.", "Anetan este situat în partea cea mai nordică a insulei Nauru.", "Păsările preferă să cuibărească în arbori nativi precum Pisonia grandis.", "Fregatele pot rămâne în aer timp de săptămâni fără întrerupere.", "Colonia este monitorizată în cadrul programelor naționale de biodiversitate."],
       en: ["The Great Frigatebird has a wingspan reaching up to 2.30 meters.", "The breeding season of these birds often extends over several months.", "Anetan is located in the northernmost part of Nauru island.", "Birds prefer nesting in native trees such as Pisonia grandis.", "Frigatebirds can remain airborne for weeks without landing.", "The colony is monitored under national biodiversity conservation programs."],
     },
+    image: "/poi-images/nauru-anetan-frigatebird-nesting-life-v2.webp",
   },
   {
     id: "nauru-buada-district-gardens-life-v2",
@@ -310,6 +319,7 @@ export const nauruLifeV2: POI[] = [
       ro: ["Laguna Buada este situată la aproximativ 5 metri deasupra nivelului mării.", "Zona acoperă o suprafață de circa 0,13 kilometri pătrați.", "Aici cresc peste 10 tipuri diferite de banane comestibile.", "Depresiunea colectează apa de ploaie pentru irigațiile locale.", "Buada este singurul district din Nauru fără acces la mare.", "Grădinile sunt îngrijite de familii locale de generații întregi."],
       en: ["Buada Lagoon sits approximately 5 meters above sea level.", "The area covers a surface of about 0.13 square kilometers.", "More than 10 different types of edible bananas grow here.", "The depression collects rainwater for local irrigation purposes.", "Buada is the only district in Nauru without a coastline.", "The gardens have been maintained by local families for generations."],
     },
+    image: "/poi-images/nauru-buada-district-gardens-life-v2.webp",
   },
   {
     id: "nauru-denigomodu-casuarinas-life-v2",
@@ -341,6 +351,7 @@ export const nauruLifeV2: POI[] = [
       ro: ["Casuarina equisetifolia poate atinge o înălțime de până la 35 de metri.", "Arborii fixează azotul în sol, îmbunătățind calitatea acestuia.", "Denigomodu este cel mai dens populat district din Nauru.", "Pădurile servesc drept paravânt pentru infrastructura din apropiere.", "Lemnul de Casuarina este extrem de dur și folosit local în construcții.", "Arborii au fost plantați parțial pentru reîmpădurire după minerit."],
       en: ["Casuarina equisetifolia can reach heights of up to 35 meters.", "The trees fix nitrogen in the soil, improving its overall quality.", "Denigomodu is the most densely populated district in Nauru.", "The stands serve as windbreaks for nearby infrastructure.", "Casuarina wood is extremely hard and used locally for construction.", "Some trees were planted for reforestation following phosphate mining."],
     },
+    image: "/poi-images/nauru-denigomodu-casuarinas-life-v2.webp",
   },
   {
     id: "nauru-aiwo-mangroves-life-v2",
@@ -372,6 +383,7 @@ export const nauruLifeV2: POI[] = [
       ro: ["Nauru găzduiește în principal specia de mangrove Bruguiera gymnorhiza.", "Mangrovele din Aiwo sunt situate în apropierea zonei portuare.", "Rădăcinile lor adventive filtrează sedimentele din apa de scurgere.", "Pădurile servesc drept pepinieră pentru mulți pești de recif.", "Mangrovele sunt foarte rare în Nauru din cauza pantei abrupte a recifului.", "Școlile locale utilizează zona pentru studii ecologice de teren."],
       en: ["Nauru primarily hosts the mangrove species Bruguiera gymnorhiza.", "The mangroves in Aiwo are located near the main harbor area.", "Their prop roots filter sediments from the runoff water.", "The stands serve as a nursery for many reef fish species.", "Mangroves are very rare in Nauru due to the steep reef edge.", "Local schools use the area for ecological field studies and education."],
     },
+    image: "/poi-images/nauru-aiwo-mangroves-life-v2.webp",
   },
   {
     id: "nauru-boe-coastal-flora-life-v2",
@@ -403,6 +415,7 @@ export const nauruLifeV2: POI[] = [
       ro: ["Boe este cel mai mic district din Nauru ca suprafață.", "Scaevola taccada este numită local 'Emi'.", "Florile de Guettarda speciosa au un parfum foarte puternic noaptea.", "Flora previne eroziunea solului nisipos în timpul furtunilor.", "Unele plante servesc ca materie primă pentru artizanatul tradițional.", "Drumul de coastă trece direct pe lângă această centură de vegetație."],
       en: ["Boe is the smallest district in Nauru by land area.", "Scaevola taccada is known locally as 'Emi'.", "The flowers of Guettarda speciosa are especially fragrant at night.", "The flora prevents the erosion of sandy soil during storms.", "Certain plants serve as raw materials for traditional handicrafts.", "The coastal ring road runs directly alongside this vegetation belt."],
     },
+    image: "/poi-images/nauru-boe-coastal-flora-life-v2.webp",
   },
   {
     id: "nauru-yaren-greenbelt-life-v2",
@@ -434,6 +447,7 @@ export const nauruLifeV2: POI[] = [
       ro: ["Yaren funcționează ca capitală neoficială a insulei Nauru.", "Centura verde se învecinează direct cu pista aeroportului.", "Aici se găsesc adesea arbori spectaculoși de Frangipani (Plumeria).", "Irigarea se face parțial cu apă industrială reciclată.", "Zona servește ca tampon pentru protecția fonică a aeroportului.", "În această zonă sunt situate și clădiri guvernamentale importante."],
       en: ["Yaren serves as the de facto capital of Nauru.", "The greenbelt directly borders the airport runway.", "Magnificent Frangipani trees (Plumeria) are commonly found here.", "Irrigation is partially provided by recycled graywater.", "The area acts as a buffer zone for noise reduction near the airport.", "Several important government buildings are located within this area."],
     },
+    image: "/poi-images/nauru-yaren-greenbelt-life-v2.webp",
   },
   {
     id: "nauru-conservation-nursery-life-v2",
@@ -465,5 +479,6 @@ export const nauruLifeV2: POI[] = [
       ro: ["Pepinierea produce anual mii de puieți.", "Un accent deosebit se pune pe înmulțirea speciei Calophyllum inophyllum.", "Facilitatea este susținută de Ministerul Mediului.", "Puieții sunt utilizați pentru stabilizarea zonelor afectate de eroziune.", "Se efectuează experimente pentru ameliorarea solului cu compost.", "Pepinierea este importantă pentru securitatea alimentară a insulei."],
       en: ["The nursery produces thousands of seedlings annually.", "A major focus is the propagation of Calophyllum inophyllum.", "The facility is supported by the Ministry of Environment.", "Seedlings are used to stabilize erosion-prone areas.", "Soil improvement trials using compost are conducted on-site.", "The nursery is vital for the island's long-term food security."],
     },
+    image: "/poi-images/nauru-conservation-nursery-life-v2.webp",
   }
 ];

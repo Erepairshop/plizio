@@ -32,6 +32,7 @@ export const netherlandsLandmarksV2: POI[] = [
       ro: ["Înălțime totală 112,5 metri", "465 de trepte de piatră", "Construcție începută în 1321", "13 clopote monumentale", "Carillon cu 50 de clopote", "Stil gotic de inspirație franceză"],
       en: ["112.5 meters in total height", "465 stone steps to the top", "Built between 1321 and 1382", "13 original swinging bells", "Separated from nave in 1674", "Features a 50-bell carillon"],
     },
+    image: "/poi-images/netherlands-dom-tower-utrecht-landmarks-v2.webp",
   },
   {
     id: "netherlands-ridderzaal-the-hague-landmarks-v2",
@@ -64,6 +65,7 @@ export const netherlandsLandmarksV2: POI[] = [
       ro: ["Construit în secolul al XIII-lea", "Sala are o lungime de 40 metri", "Lățime interioară de 18 metri", "Situat în inima Binnenhof", "Găzduiește Discursul Tronului", "Stil gotic secular conservat"],
       en: ["Built in the late 13th century", "Main hall is 40 meters long", "18 meters wide interior space", "Located in Binnenhof courtyard", "Site of annual Speech from Throne", "Commissioned by Count William II"],
     },
+    image: "/poi-images/netherlands-ridderzaal-the-hague-landmarks-v2.webp",
   },
   {
     id: "netherlands-markthal-rotterdam-landmarks-v2",
@@ -96,6 +98,7 @@ export const netherlandsLandmarksV2: POI[] = [
       ro: ["Pictură murală de 11.000 m²", "228 de apartamente incluse", "Peste 100 de tarabe de piață", "Inaugurată în octombrie 2014", "Înălțime maximă de 40 metri", "Arhitectură semnată de MVRDV"],
       en: ["11,000 m² digital mural", "Contains 228 apartments", "Over 100 fresh market stalls", "Opened in October 2014", "Building is 40 meters high", "Designed by architecture firm MVRDV"],
     },
+    image: "/poi-images/netherlands-markthal-rotterdam-landmarks-v2.webp",
   },
   {
     id: "netherlands-erasmus-house-rotterdam-landmarks-v2",
@@ -128,6 +131,7 @@ export const netherlandsLandmarksV2: POI[] = [
       ro: ["Construit: 1515", "Stil: gotic târziu", "Vizitatori anual: 50.000", "Distrus în 1940: nu (a supraviețuit)", "Ultima restaurare: 2013", "Muzeu din: 1939"],
       en: ["Built: 1515", "Style: Late Gothic", "Annual visitors: 50,000", "Destroyed in 1940: no (survived)", "Last restoration: 2013", "Museum since: 1939"],
     },
+    image: "/poi-images/netherlands-erasmus-house-rotterdam-landmarks-v2.webp",
   },
   {
     id: "netherlands-moco-museum-amsterdam-landmarks-v2",
@@ -160,6 +164,7 @@ export const netherlandsLandmarksV2: POI[] = [
       ro: ["Găzduit în Vila Alsberg (1904)", "Locație centrală în Museumplein", "Colecție importantă Banksy", "Focus pe arta contemporană", "Deschis publicului din 2016", "Concept de muzeu boutique"],
       en: ["Housed in Villa Alsberg (1904)", "Located in Museumplein district", "Large collection of Banksy works", "Specializes in modern art", "Established in April 2016", "Private boutique museum"],
     },
+    image: "/poi-images/netherlands-moco-museum-amsterdam-landmarks-v2.webp",
   },
   {
     id: "netherlands-westerkerk-amsterdam-landmarks-v2",
@@ -192,6 +197,7 @@ export const netherlandsLandmarksV2: POI[] = [
       ro: ["Perioadă construcție: 1620–1631", "Înălțime turn: 87 m", "Orgă: 1686", "Mormântul lui Rembrandt: da", "Confesiune: protestantă", "Vizitatori anual: 100.000"],
       en: ["Construction period: 1620–1631", "Tower height: 87 m", "Organ: 1686", "Rembrandt's grave: yes", "Denomination: Protestant", "Annual visitors: 100,000"],
     },
+    image: "/poi-images/netherlands-westerkerk-amsterdam-landmarks-v2.webp",
   },
   {
     id: "netherlands-tuschinski-theater-amsterdam-landmarks-v2",
@@ -224,6 +230,7 @@ export const netherlandsLandmarksV2: POI[] = [
       ro: ["Inaugurat în octombrie 1921", "Combinație de 3 stiluri distincte", "Fondator Abraham Tuschinski", "740 de locuri în sala mare", "Statut de monument național", "Interior bogat în elemente Art Deco"],
       en: ["Opened in October 1921", "Blends 3 architectural styles", "Founded by Abraham Tuschinski", "740-seat main auditorium", "National heritage site", "Lavish Art Deco interior design"],
     },
+    image: "/poi-images/netherlands-tuschinski-theater-amsterdam-landmarks-v2.webp",
   },
   {
     id: "netherlands-het-loo-palace-apeldoorn-landmarks-v2",
@@ -256,6 +263,7 @@ export const netherlandsLandmarksV2: POI[] = [
       ro: ["Finalizat în anul 1686", "Grădini baroce simetrice", "Fostă reședință de vară regală", "Muzeu național din 1984", "Inclus în patrimoniul UNESCO", "Construit în stil clasicist olandez"],
       en: ["Completed in the year 1686", "Formal Dutch Baroque gardens", "Former royal summer residence", "National museum since 1984", "UNESCO World Heritage status", "Built for King William III"],
     },
+    image: "/poi-images/netherlands-het-loo-palace-apeldoorn-landmarks-v2.webp",
   },
   {
     id: "netherlands-st-bavo-church-haarlem-landmarks-v2",
@@ -288,6 +296,7 @@ export const netherlandsLandmarksV2: POI[] = [
       ro: ["Perioadă construcție: 1390–1520", "Înălțime turn: 75 m", "Orgă: 1738 de Christian Müller", "Händel și Mozart au cântat pe ea", "Confesiune: protestantă (din 1578)", "Vizitatori anual: 150.000"],
       en: ["Construction period: 1390–1520", "Tower height: 75 m", "Organ: 1738 by Christian Müller", "Handel and Mozart played on it", "Denomination: Protestant (since 1578)", "Annual visitors: 150,000"],
     },
+    image: "/poi-images/netherlands-st-bavo-church-haarlem-landmarks-v2.webp",
   },
   {
     id: "netherlands-pieterskerk-leiden-landmarks-v2",
@@ -320,6 +329,7 @@ export const netherlandsLandmarksV2: POI[] = [
       ro: ["Perioadă construcție: 1390–1400", "Mormântul lui John Robinson: da", "Orgă: 1883", "Dezafectată: 1971", "Capacitate: 1.000 de locuri", "Vizitatori anual: 120.000"],
       en: ["Construction period: 1390–1400", "John Robinson's grave: yes", "Organ: 1883", "Deconsecrated: 1971", "Capacity: 1,000 seats", "Annual visitors: 120,000"],
     },
+    image: "/poi-images/netherlands-pieterskerk-leiden-landmarks-v2.webp",
   },
   {
     id: "netherlands-nemo-science-museum-amsterdam-landmarks-v2",
@@ -352,6 +362,7 @@ export const netherlandsLandmarksV2: POI[] = [
       ro: ["Proiectat de arhitectul Renzo Piano", "5 niveluri de expoziții", "Formă distinctă de navă verde", "Terasă panoramică pe acoperiș", "Deschis oficial în 1997", "Peste 600.000 vizitatori anual"],
       en: ["Designed by architect Renzo Piano", "5 floors of interactive exhibits", "Distinct green ship-like shape", "Accessible roof terrace views", "Opened in June 1997", "Largest science center in NL"],
     },
+    image: "/poi-images/netherlands-nemo-science-museum-amsterdam-landmarks-v2.webp",
   },
   {
     id: "netherlands-st-johns-cathedral-den-bosch-landmarks-v2",
@@ -384,6 +395,7 @@ export const netherlandsLandmarksV2: POI[] = [
       ro: ["Perioadă construcție: 1220–1530", "Înălțime turn: 73 m", "Vitralii: 30", "Strane: 100 sculptate", "Avarii de război: grave, reconstruit", "Vizitatori anual: 200.000"],
       en: ["Construction period: 1220–1530", "Tower height: 73 m", "Stained glass windows: 30", "Choir stalls: 100 carved", "War damage: severe, rebuilt", "Annual visitors: 200,000"],
     },
+    image: "/poi-images/netherlands-st-johns-cathedral-den-bosch-landmarks-v2.webp",
   },
   {
     id: "netherlands-amsterdam-central-station-landmarks-v2",
@@ -416,6 +428,7 @@ export const netherlandsLandmarksV2: POI[] = [
       ro: ["Susținută de 8.687 piloni de lemn", "Arhitect principal Pierre Cuypers", "Construită pe 3 insule artificiale", "Inaugurată în octombrie 1889", "250.000 de pasageri zilnic", "Stil arhitectural neorenascentist"],
       en: ["Stands on 8,687 wooden piles", "Designed by Pierre Cuypers", "Built on 3 man-made islands", "Opened in October 1889", "250,000 daily passengers", "Grand Neo-Renaissance facade"],
     },
+    image: "/poi-images/netherlands-amsterdam-central-station-landmarks-v2.webp",
   },
   {
     id: "netherlands-van-nelle-factory-rotterdam-landmarks-v2",
@@ -448,6 +461,7 @@ export const netherlandsLandmarksV2: POI[] = [
       ro: ["Perioadă construcție: 1925–1931", "Arhitect: Leendert van der Vlugt", "UNESCO: din 2014", "Suprafață: 12 hectare", "Înălțime: 30 de metri (turn de apă)", "Produse: cafea, ceai, tutun"],
       en: ["Construction period: 1925–1931", "Architect: Leendert van der Vlugt", "UNESCO: since 2014", "Site area: 12 hectares", "Height: 30 meters (water tower)", "Products: coffee, tea, tobacco"],
     },
+    image: "/poi-images/netherlands-van-nelle-factory-rotterdam-landmarks-v2.webp",
   },
   {
     id: "netherlands-rotterdam-city-hall-landmarks-v2",
@@ -480,6 +494,7 @@ export const netherlandsLandmarksV2: POI[] = [
       ro: ["Turn cu înălțime de 71 metri", "Perioada construcției 1914-1920", "A supraviețuit atacului din 1940", "Arhitect proiectant Henri Evers", "Carillon cu 63 de clopote", "Statut de monument național"],
       en: ["71-meter high clock tower", "Constructed between 1914-1920", "Survived the 1940 blitz", "Designed by Henri Evers", "Features a 63-bell carillon", "Designated national monument"],
     },
+    image: "/poi-images/netherlands-rotterdam-city-hall-landmarks-v2.webp",
   },
   {
     id: "netherlands-st-nicholas-basilica-amsterdam-landmarks-v2",
@@ -512,6 +527,7 @@ export const netherlandsLandmarksV2: POI[] = [
       ro: ["Anul finalizării este 1887", "Cupolă centrală de 58 metri", "Arhitect Adrianus Bleijs", "Două turnuri simetrice masive", "Principalul lăcaș catolic urban", "Vitralii artistice deosebite"],
       en: ["Completed in the year 1887", "Central dome is 58 meters high", "Designed by Adrianus Bleijs", "Features twin facade towers", "Primary city Catholic church", "Ornate stained glass windows"],
     },
+    image: "/poi-images/netherlands-st-nicholas-basilica-amsterdam-landmarks-v2.webp",
   },
   {
     id: "netherlands-kasteel-de-haar-utrecht-landmarks-v2",
@@ -544,6 +560,7 @@ export const netherlandsLandmarksV2: POI[] = [
       ro: ["Cel mai mare castel olandez", "Arhitect renumit Pierre Cuypers", "Dispune de peste 200 de camere", "Parc vast de 55 de hectare", "Reconstruit pentru familia van Zuylen", "Bijuterie a stilului neogotic"],
       en: ["Largest castle in the Netherlands", "Designed by Pierre Cuypers", "Features over 200 rooms", "55-hectare surrounding grounds", "Owned by the van Zuylen family", "Neo-Gothic architectural style"],
     },
+    image: "/poi-images/netherlands-kasteel-de-haar-utrecht-landmarks-v2.webp",
   },
   {
     id: "netherlands-militair-museum-soesterberg-landmarks-v2",
@@ -576,6 +593,7 @@ export const netherlandsLandmarksV2: POI[] = [
       ro: ["Situat pe baza aeriană Soesterberg", "Inaugurat în decembrie 2014", "Suprafață de 45.000 m²", "Peste 300.000 de obiecte expuse", "Găzduit într-un hangar uriaș", "Colecție de avioane și tancuri"],
       en: ["Located at Soesterberg Air Base", "Opened in December 2014", "45,000 m² exhibition space", "Collection of 300,000 objects", "Housed in a former airbase", "Vast display of tanks and jets"],
     },
+    image: "/poi-images/netherlands-militair-museum-soesterberg-landmarks-v2.webp",
   },
   {
     id: "netherlands-old-church-amsterdam-landmarks-v2",
@@ -608,6 +626,7 @@ export const netherlandsLandmarksV2: POI[] = [
       ro: ["Cea mai veche parte: 1306", "Orgă: secolul al XVIII-lea", "Vitralii: gotic târziu", "Boltă: lemn", "Locație: De Wallen", "Vizitatori anual: 100.000"],
       en: ["Oldest part: 1306", "Organ: 18th century", "Stained glass: late Gothic", "Vault: wood", "Location: De Wallen", "Annual visitors: 100,000"],
     },
+    image: "/poi-images/netherlands-old-church-amsterdam-landmarks-v2.webp",
   },
   {
     id: "netherlands-rotterdam-central-station-landmarks-v2",
@@ -640,6 +659,7 @@ export const netherlandsLandmarksV2: POI[] = [
       ro: ["Inaugurare în martie 2014", "110.000 călători în fiecare zi", "Arhitectură Benthem Crouwel", "Acoperiș cu panouri solare", "Lungimea gării este de 250 m", "Design unghiular în formă de V"],
       en: ["Opened in March 2014", "110,000 passengers daily", "Benthem Crouwel Architects", "Solar panels integrated in roof", "Main hall is 250 meters long", "Striking futuristic V-shape"],
     },
+    image: "/poi-images/netherlands-rotterdam-central-station-landmarks-v2.webp",
   },
   {
     id: "netherlands-kruisherenhotel-maastricht-landmarks-v2",
@@ -672,6 +692,7 @@ export const netherlandsLandmarksV2: POI[] = [
       ro: ["Fostă mănăstire din sec. XV", "Premiat cu Gothic Design Award", "Dispune de 60 de camere de lux", "Situat în centrul Maastricht", "Design interior de Henk Vos", "Lift de sticlă în naos"],
       en: ["Former 15th-century monastery", "Gothic Design Award winner", "Contains 60 designer rooms", "Located in Maastricht center", "Interior by designer Henk Vos", "Features a spectacular glass lift"],
     },
+    image: "/poi-images/netherlands-kruisherenhotel-maastricht-landmarks-v2.webp",
   },
   {
     id: "netherlands-euromast-rotterdam-landmarks-v2",
@@ -704,6 +725,7 @@ export const netherlandsLandmarksV2: POI[] = [
       ro: ["Înălțime totală de 185 metri", "Construit în 1960 pt. Floriade", "Platformă de observație la 100m", "Lift rotativ tip Euroscoop", "Restaurant situat la 96m", "Proiectat de Hugh Maaskant"],
       en: ["Total height is 185 meters", "Built in 1960 for Floriade", "Observation deck at 100m", "Rotating Euroscoop lift", "Restaurant at 96 meters high", "Designed by Hugh Maaskant"],
     },
+    image: "/poi-images/netherlands-euromast-rotterdam-landmarks-v2.webp",
   },
   {
     id: "netherlands-rijksmuseum-amsterdam-landmarks-v2",
@@ -736,6 +758,7 @@ export const netherlandsLandmarksV2: POI[] = [
       ro: ["Fondat inițial în anul 1800", "Arhitect principal Pierre Cuypers", "8.000 de obiecte de artă expuse", "Adăpostește Rondul de Noapte", "10 ani de renovări capitale", "Situat în inima Museumplein"],
       en: ["Originally founded in 1800", "Designed by Pierre Cuypers", "8,000 objects on display", "Houses Rembrandt's Night Watch", "Underwent 10-year renovation", "Located in Museumplein hub"],
     },
+    image: "/poi-images/netherlands-rijksmuseum-amsterdam-landmarks-v2.webp",
   },
   {
     id: "netherlands-city-hall-leiden-landmarks-v2",
@@ -768,6 +791,7 @@ export const netherlandsLandmarksV2: POI[] = [
       ro: ["Perioadă construcție: 1595–1597", "Stil: Renaștere olandeză", "Fațadă: cu șase secțiuni", "Ridderzaal: cu șemineu", "Avarii de război: da, restaurată", "Vizitatori anual: 80.000"],
       en: ["Construction period: 1595–1597", "Style: Dutch Renaissance", "Facade: six bays", "Ridderzaal: with fireplace", "War damage: yes, restored", "Annual visitors: 80,000"],
     },
+    image: "/poi-images/netherlands-city-hall-leiden-landmarks-v2.webp",
   },
   {
     id: "netherlands-st-laurence-church-rotterdam-landmarks-v2",
@@ -800,6 +824,7 @@ export const netherlandsLandmarksV2: POI[] = [
       ro: ["Perioadă construcție: 1449–1525", "Înălțime turn: 64 m", "Distrus în 1940: da, reconstruit", "Redeschis: 1968", "Orgă: secolul XX", "Vizitatori anual: 150.000"],
       en: ["Construction period: 1449–1525", "Tower height: 64 m", "Destroyed in 1940: yes, rebuilt", "Reopened: 1968", "Organ: 20th century", "Annual visitors: 150,000"],
     },
+    image: "/poi-images/netherlands-st-laurence-church-rotterdam-landmarks-v2.webp",
   },
   {
     id: "netherlands-thialf-heerenveen-landmarks-v2",
@@ -832,5 +857,6 @@ export const netherlandsLandmarksV2: POI[] = [
       ro: ["Deschis oficial în anul 1967", "Capacitate de 12.500 locuri", "Pistă olimpică de 400 metri", "Supranumit Mecca patinajului", "Localizat în Heerenveen", "Gazdă pentru recorduri mondiale"],
       en: ["First opened in the year 1967", "12,500 seat spectator capacity", "400-meter speed skating track", "The \"Mecca of Speed Skating\"", "Located in Heerenveen, Friesland", "Frequent world record venue"],
     },
+    image: "/poi-images/netherlands-thialf-heerenveen-landmarks-v2.webp",
   }
 ];

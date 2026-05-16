@@ -220,6 +220,7 @@ export const vaticanPois: POI[] = [
       ro: ["Sediul Gărzii Elvețiene din 1506", "Compusă din trei clădiri principale", "Include o armurărie proprie", "Situată lângă poarta Porta Sant'Anna", "Proiect de reconstrucție din 2026", "Găzduiește aproximativ 135 de gardiști"],
       en: ["Home of the Swiss Guard since 1506", "Consists of three main buildings", "Includes a private armory", "Located near the Porta Sant'Anna gate", "Reconstruction project starting in 2026", "Houses approximately 135 guards"],
     },
+    image: "/poi-images/landmark-swiss-guard-barracks.webp",
   },
   {
     id: "landmark-vatican-library",
@@ -370,6 +371,7 @@ export const vaticanPois: POI[] = [
       ro: ["Fondată în anul 1874", "Aproximativ 2.000 de clienți zilnic", "Singura farmacie din stat", "Administrată de Ordinul Sf. Ioan al lui Dumnezeu", "Stoc de cca 42.000 de produse", "Suprafață de aproximativ 500 mp"],
       en: ["Founded in the year 1874", "Serves approx 2,000 customers daily", "The only pharmacy in the state", "Run by the Brothers of Charity", "Inventory of approx 42,000 products", "Total floor area of about 500 m²"],
     },
+    image: "/poi-images/landmark-vatican-pharmacy.webp",
   },
   {
     id: "landmark-st-martha-house",
@@ -777,6 +779,7 @@ export const vaticanPois: POI[] = [
       ro: ["Zidul a fost ridicat ca răspuns la jefuirea Romei de către sarazini în 846.", "Lungimea inițială a fortificației era de aproximativ trei kilometri.", "Construcția a fost finanțată printr-o taxă specială colectată în Italia.", "Sistemul defensiv includea inițial 44 de turnuri de observație.", "Papa Leon al IV-lea a sfințit zidurile finalizate la 27 iunie 852.", "Pasajul Passetto di Borgo leagă Palatul Apostolic de Castelul Sant'Angelo."],
       en: ["Construction began after the Saracen raid on Old St. Peter's in 846.", "The original wall extended for a distance of about three kilometers.", "The project was funded by a special tax levied across the Italian peninsula.", "The wall originally featured 44 defensive towers and three main gates.", "Pope Leo IV solemnly blessed the completed walls on June 27, 852.", "The Passetto di Borgo corridor was later built atop a section of the wall."],
     },
+    image: "/poi-images/VA-001-leonine-wall.webp",
   }
 ];
 

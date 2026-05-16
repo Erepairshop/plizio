@@ -31,6 +31,7 @@ export const solomonislandsEconomicV2: POI[] = [
       ro: ["Cel mai important port internațional din Insulele Solomon.", "Singurul port de adâncime din statul insular.", "Gestionează peste 90% din comerțul exterior.", "Origini istorice în bazele militare americane din 1942.", "Nod central pentru traficul inter-insular de feribot.", "Extinderea terminalului a fost finalizată în 2016."],
       en: ["Principal international maritime gateway for the Solomon Islands.", "The nation's only deep-water port capable of handling large vessels.", "Processes over 90% of all national imports and exports.", "Developed from military wharves constructed in 1942.", "Primary terminus for the domestic inter-island shipping network.", "Major wharf expansion and modernization project completed in 2016."],
     },
+    image: "/poi-images/solomonislands-honiara-port-economic-v2.webp",
   },
   {
     id: "solomonislands-noro-cannery-economic-v2",
@@ -62,6 +63,7 @@ export const solomonislandsEconomicV2: POI[] = [
       ro: ["Operată de SolTuna, unul dintre cei mai mari angajatori din țară.", "Specializată în procesarea tonului dungat (skipjack).", "Noro deține unul dintre puținele porturi de adâncime din afara capitalei.", "Uniunea Europeană este principala piață de export.", "Are peste 1.500 de angajați, majoritatea femei.", "Fabrica a fost înființată inițial prin investiții japoneze (Taiyo)."],
       en: ["Home to the SolTuna processing plant, a major national employer.", "Specializes in processing and canning skipjack and yellowfin tuna.", "Located at a strategic deep-water port in the Western Province.", "A primary source of tuna exports to the European Union market.", "Employs over 1,500 people, supporting the local regional economy.", "Originally established as a joint venture with Japan's Taiyo Gyogyo."],
     },
+    image: "/poi-images/solomonislands-noro-cannery-economic-v2.webp",
   },
   {
     id: "solomonislands-gold-ridge-mine-economic-v2",
@@ -93,6 +95,7 @@ export const solomonislandsEconomicV2: POI[] = [
       ro: ["Singura mină industrială de aur din Insulele Solomon.", "Descoperită de exploratorii spanioli în anul 1568.", "Exploatarea modernă la suprafață a început în 1998.", "Închisă între 2000 și 2008 din cauza conflictelor etnice.", "Situată pe terenurile clanurilor indigene Ghaobata și Belamataga.", "Siguranța barajului de steril este o problemă ecologică critică."],
       en: ["The only operational large-scale gold mine in the country.", "Gold presence first recorded by Mendaña’s expedition in 1568.", "Modern production began under Ross Mining in 1998.", "Operation was halted for 8 years during the national ethnic crisis.", "Managed through a unique landowner-involved company structure.", "Tailings dam management is subject to strict environmental monitoring."],
     },
+    image: "/poi-images/solomonislands-gold-ridge-mine-economic-v2.webp",
   },
   {
     id: "solomonislands-yandina-copra-center-economic-v2",
@@ -124,6 +127,7 @@ export const solomonislandsEconomicV2: POI[] = [
       ro: ["Centrul Insulelor Russell în Provincia Centrală.", "Fost sediu al Lever’s Pacific Plantations Ltd.", "Deține un port de adâncime de importanță strategică.", "A servit drept bază militară americană majoră în al Doilea Război Mondial.", "Producția de copra este gestionată de compania RIPEL.", "Are una dintre cele mai lungi piste de aterizare asfaltate din regiune."],
       en: ["Main administrative and economic hub of the Russell Islands.", "Historical headquarters for Levers Pacific Plantations Ltd.", "Equipped with a naturally sheltered deep-water wharf.", "Major US logistical base during the 1943 Solomon Islands campaign.", "Managed by Russell Islands Plantation Estate Ltd (RIPEL).", "Features a high-capacity airstrip originally built for military use."],
     },
+    image: "/poi-images/solomonislands-yandina-copra-center-economic-v2.webp",
   },
   {
     id: "solomonislands-point-cruz-business-economic-v2",
@@ -155,6 +159,7 @@ export const solomonislandsEconomicV2: POI[] = [
       ro: ["Cartierul central de afaceri și inima administrativă a Honiarei.", "Numit după crucea ridicată de spanioli în 1568.", "Sediul Băncii Centrale a Insulelor Solomon.", "Centru logistic datorită proximității imediate față de port.", "Găzduiește Muzeul Național și Biblioteca Națională.", "Cea mai importantă locație comercială din întreaga țară."],
       en: ["Primary Central Business District of the Solomon Islands capital.", "Historically named after a cross planted by Mendaña in 1568.", "Hosts the national headquarters of the Central Bank.", "Serves as the main transport and shipping hub for the nation.", "Location of the National Parliament and key government ministries.", "The primary area for retail, banking, and international services."],
     },
+    image: "/poi-images/solomonislands-point-cruz-business-economic-v2.webp",
   },
   {
     id: "solomonislands-ringgi-timber-economic-v2",
@@ -186,6 +191,7 @@ export const solomonislandsEconomicV2: POI[] = [
       ro: ["Sediul administrativ al Kolombangara Forest Products Limited (KFPL).", "Pionier în silvicultura durabilă și certificată.", "Deține un port natural de adâncime pentru navele de transport de lemn.", "Exportă lemn de înaltă calitate, precum tecul și mahonul.", "Oferă o infrastructură socială cuprinzătoare pentru personal.", "Punct de acces pentru expedițiile științifice pe Muntele Veve."],
       en: ["Operational headquarters for the KFPL forestry enterprise.", "A premier global example of sustainable plantation management.", "Features a specialized deep-water wharf for timber shipping.", "Primary producer of FSC-certified teak and mahogany in the region.", "Maintains a self-sufficient township with health and education services.", "Serves as a logistics base for conservation work on Mt. Veve."],
     },
+    image: "/poi-images/solomonislands-ringgi-timber-economic-v2.webp",
   },
   {
     id: "solomonislands-auki-market-economic-v2",
@@ -217,6 +223,7 @@ export const solomonislandsEconomicV2: POI[] = [
       ro: ["Cea mai importantă piață din Malaita, cea mai populată provincie.", "Centru pentru comerțul cu bani tradiționali din scoici.", "Modernizare susținută de ajutorul japonez pentru dezvoltare (JICA).", "Loc de schimb zilnic pentru pește, taro și cartofi dulci.", "Nod central pentru transportul de mărfuri de pe insulă.", "Situat direct lângă portul Auki."],
       en: ["Principal economic hub for the nearly 160,000 residents of Malaita.", "One of the key locations for the legal and ceremonial trade of shell money.", "Upgraded with climate-resilient infrastructure in recent years.", "A vital outlet for small-holder farmers and artisanal fishers.", "Primary transit point for the island's 'road-king' transport trucks.", "Located adjacent to the main Auki passenger and cargo wharf."],
     },
+    image: "/poi-images/solomonislands-auki-market-economic-v2.webp",
   },
   {
     id: "solomonislands-gizo-trade-port-economic-v2",
@@ -248,6 +255,7 @@ export const solomonislandsEconomicV2: POI[] = [
       ro: ["Al doilea cel mai important port comercial din Insulele Solomon.", "Centrul logistic pentru întreaga Provincie de Vest.", "Principalul port de export pentru cacao și copra din regiune.", "Înconjurat de epave de importanță istorică din al Doilea Război Mondial.", "Punct central de oprire pentru navele de croazieră turistice.", "Nod important pentru industria locală de pescuit."],
       en: ["The primary maritime gateway for the Western Province.", "The largest international port of entry outside of Honiara.", "Handles significant volumes of regional copra and cocoa exports.", "Strategically located near the site of the PT-109 incident (JFK).", "A central hub for tourism, particularly for the diving industry.", "Subject to ongoing wharf modernization and safety upgrades."],
     },
+    image: "/poi-images/solomonislands-gizo-trade-port-economic-v2.webp",
   },
   {
     id: "solomonislands-munda-logistics-economic-v2",
@@ -279,6 +287,7 @@ export const solomonislandsEconomicV2: POI[] = [
       ro: ["Al doilea cel mai important aeroport din Insulele Solomon cu statut internațional.", "Construit inițial în 1942 de geniștii japonezi, camuflat sub palmieri.", "Nod central pentru dezvoltarea economică a Lagunei Roviana.", "Punct important de transfer pentru peștele proaspăt de export.", "Locația Spitalului Helena Goldie, un centru regional de sănătate.", "Punct de conexiune pentru transportul maritim în Provincia de Vest."],
       en: ["Upgraded to international standards as an alternate for Honiara.", "Historically famous for the 1943 Battle of Munda Point.", "Serves as the commercial gateway to the Roviana Lagoon region.", "A major hub for the high-value fresh fish trade and exports.", "Home to Helena Goldie Hospital, a key provincial medical facility.", "Primary logistics base for regional tourism and diving operations."],
     },
+    image: "/poi-images/solomonislands-munda-logistics-economic-v2.webp",
   },
   {
     id: "solomonislands-tulagi-fisheries-economic-v2",
@@ -310,6 +319,7 @@ export const solomonislandsEconomicV2: POI[] = [
       ro: ["A funcționat ca capitală a protectoratului până în anul 1952.", "A găzduit prima fabrică majoră de conserve de pește din arhipelag.", "Portul natural este unul dintre cele mai protejate din regiune.", "Este un centru vital pentru întreținerea navelor de pescuit costier.", "Asigură aprovizionarea cu combustibil pentru flota din provincia Centrală.", "Facilitățile de stocare la rece au fost modernizate recent în 2018."],
       en: ["Served as the national capital until the administrative shift in 1952.", "Primary site for Solomon Taiyo tuna operations starting in 1973.", "Features a natural deep-water harbor suitable for large vessels.", "Key economic driver for the Central Islands province.", "Provides critical slipway services for local shipping maintenance.", "Infrastructure includes industrial-scale ice plants for fish preservation."],
     },
+    image: "/poi-images/solomonislands-tulagi-fisheries-economic-v2.webp",
   },
   {
     id: "solomonislands-kirakira-trade-economic-v2",
@@ -341,6 +351,7 @@ export const solomonislandsEconomicV2: POI[] = [
       ro: ["Capitala provinciei Makira-Ulawa, stabilizată ca centru de comerț.", "Principalul punct de ieșire pentru exporturile de cacao de înaltă calitate.", "Aerodromul local asigură singura legătură rapidă cu restul arhipelagului.", "Centru major de colectare și procesare primară a coprei.", "Găzduiește sediile administrative și serviciile bancare provinciale.", "Infrastructura portuară permite andocarea navelor comerciale de tonaj mediu."],
       en: ["Administrative headquarters of Makira-Ulawa Province.", "Major export hub for premium organic cocoa beans.", "Airport code IRA serves as the vital link to the capital, Honiara.", "Centralized collection point for the regional copra industry.", "Economic activity is bolstered by weekly large-scale public markets.", "Strategic maritime port for supply vessels servicing the eastern islands."],
     },
+    image: "/poi-images/solomonislands-kirakira-trade-economic-v2.webp",
   },
   {
     id: "solomonislands-lata-export-economic-v2",
@@ -372,6 +383,7 @@ export const solomonislandsEconomicV2: POI[] = [
       ro: ["Centrul administrativ al provinciei Temotu, situat pe Santa Cruz.", "Portul local este poarta principală de ieșire pentru copra și cherestea.", "Aeroportul din Lata (SCZ) este vital pentru conectivitatea regională.", "Economia se bazează pe resurse forestiere gestionate la nivel local.", "Lata servește ca bază pentru serviciile guvernamentale în est.", "Producția de vanilie a crescut cu peste 20% în ultimul deceniu."],
       en: ["Provincial capital of Temotu, the most remote province of the country.", "Primary shipping point for timber and agricultural exports.", "Santa Cruz Airport (SCZ) is the main logistics link for the region.", "Graciosa Bay provides a sheltered harbor for international freighters.", "Center for the distribution of essential supplies to outlying islands.", "Historically near the site of Alvaro de Mendaña’s 1595 expedition."],
     },
+    image: "/poi-images/solomonislands-lata-export-economic-v2.webp",
   },
   {
     id: "solomonislands-taro-trade-post-economic-v2",
@@ -403,6 +415,7 @@ export const solomonislandsEconomicV2: POI[] = [
       ro: ["Capitala provinciei Choiseul, situată pe o mică insulă de barieră.", "Punct strategic de control vamal și comercial la granița de nord.", "Aerodromul Taro (TAY) asigură conexiuni vitale cu Honiara.", "Economia este susținută de exportul de copră și castraveți de mare.", "Relocarea planificată pe continent vizează sustenabilitatea pe termen lung.", "Asigură servicii de depozitare și logistică pentru întreaga provincie."],
       en: ["Administrative center of Choiseul Province, located on a small island.", "Key gateway for informal and formal trade with Bougainville, PNG.", "Taro Airstrip (TAY) is the main air transport link for the province.", "Central hub for the collection of copra and sustainable marine resources.", "Pioneering site for climate change relocation planning globally.", "Serves as the primary distribution point for fuel and retail goods."],
     },
+    image: "/poi-images/solomonislands-taro-trade-post-economic-v2.webp",
   },
   {
     id: "solomonislands-tetere-agriculture-economic-v2",
@@ -434,6 +447,7 @@ export const solomonislandsEconomicV2: POI[] = [
       ro: ["Nucleul producției naționale de orez în Insulele Solomon.", "Sit istoric al unei baze majore de aprovizionare în timpul războiului.", "Centru de excelență pentru cercetarea fertilității solurilor tropicale.", "Furnizor principal de produse proaspete pentru piața din Honiara.", "Găzduiește facilități avansate de procesare a semințelor de cacao.", "Beneficiar al unor proiecte de modernizare finanțate de ONU și FAO."],
       en: ["Hub for the national rice development and production scheme.", "Former site of a significant US military supply base in WWII.", "Research facility for tropical crop diversification and soil health.", "Major contributor to the livestock supply chain for the capital city.", "Houses the region's largest agricultural machinery and seed bank.", "Strategic partner for global agricultural innovation programs."],
     },
+    image: "/poi-images/solomonislands-tetere-agriculture-economic-v2.webp",
   },
   {
     id: "solomonislands-aruligo-mill-economic-v2",
@@ -465,6 +479,7 @@ export const solomonislandsEconomicV2: POI[] = [
       ro: ["Cea mai mare unitate de procesare a cocosului din vestul Guadalcanal.", "Produce ulei de cocos certificat pentru piețele de export europene.", "Capacitatea de procesare depășește câteva tone de copră pe zi.", "Sursă majoră de venituri pentru comunitățile rurale din Aruligo.", "Implementează sisteme de cogenerare folosind biomasă din coji de nucă.", "Reziduurile de presare sunt distribuite fermierilor pentru hrana porcinelor."],
       en: ["Largest coconut processing facility in the West Guadalcanal district.", "Produces export-quality coconut oil certified for international standards.", "Processes several metric tons of raw copra on a daily basis.", "Key driver of economic activity and employment in the Aruligo area.", "Utilizes coconut shells as renewable biomass for power generation.", "Produces high-protein copra cake, a valuable byproduct for livestock."],
     },
+    image: "/poi-images/solomonislands-aruligo-mill-economic-v2.webp",
   },
   {
     id: "solomonislands-viru-timber-port-economic-v2",
@@ -496,6 +511,7 @@ export const solomonislandsEconomicV2: POI[] = [
       ro: ["Punct major de export pentru bușteni din provincia de Vest.", "Golful Viru oferă adăpost natural navelor în timpul sezonului ciclonic.", "Exporturile sunt dominate de specii tropicale de mare valoare comercială.", "Portul dispune de facilități de reparații pentru utilajele forestiere grele.", "Sursă esențială de venituri din taxe vamale pentru guvernul provincial.", "Capacitatea de stocare a buștenilor depășește 50.000 de metri cubi."],
       en: ["Primary deep-water export terminal for round logs in New Georgia.", "Viru Harbour is renowned as one of the safest natural ports in the Pacific.", "Key destination for timber exports include China, Vietnam, and India.", "Facility includes specialized infrastructure for log grading and sorting.", "Acts as the main refueling station for commercial vessels in the area.", "Significant contributor to the Solomon Islands' annual GDP through timber levies."],
     },
+    image: "/poi-images/solomonislands-viru-timber-port-economic-v2.webp",
   },
   {
     id: "solomonislands-suavanao-fisheries-economic-v2",
@@ -527,6 +543,7 @@ export const solomonislandsEconomicV2: POI[] = [
       ro: ["Principalul centru de colectare pentru castraveți de mare din regiune.", "Codul aeroportuar VAO facilitează exportul rapid de pește proaspăt.", "Lider în implementarea zonelor marine protejate gestionate local.", "Dispune de infrastructură frigorifică alimentată cu energie solară.", "Contribuie major la PIB-ul provinciei Santa Isabel prin exporturi marine.", "Găzduiește ferme experimentale de alge marine pentru export industrial."],
       en: ["Primary collection hub for sea cucumbers and premium reef fish.", "Suavanao Airport (VAO) is critical for the logistics of fresh seafood.", "Renowned center for Locally Managed Marine Areas (LMMA).", "Equipped with modern solar-powered cold storage infrastructure.", "Economic lifeblood for hundreds of families in northern Santa Isabel.", "Emerging industry leader in sustainable commercial seaweed farming."],
     },
+    image: "/poi-images/solomonislands-suavanao-fisheries-economic-v2.webp",
   },
   {
     id: "solomonislands-allardyce-logging-economic-v2",
@@ -558,6 +575,7 @@ export const solomonislandsEconomicV2: POI[] = [
       ro: ["Una dintre cele mai mari tabere active de exploatare din Santa Isabel.", "Administrează o rețea de drumuri forestiere de peste 100 de kilometri.", "Punct major de încărcare pentru bușteni destinați pieței asiatice.", "Găzduiește programe pilot pentru reîmpădurirea speciilor native.", "Generează venituri semnificative din redevențe pentru comunitățile locale.", "Dispune de infrastructură proprie de alimentare și mentenanță tehnică."],
       en: ["One of the largest operational logging bases in the Solomon Islands.", "Maintains a private road network exceeding 100 kilometers in length.", "Strategic export point for premium tropical hardwoods to East Asia.", "A key site for implementing reforestation and silviculture programs.", "Provides approximately 25% of the total export revenue for the province.", "Features extensive on-site maintenance facilities for heavy machinery."],
     },
+    image: "/poi-images/solomonislands-allardyce-logging-economic-v2.webp",
   },
   {
     id: "solomonislands-binu-palm-oil-economic-v2",
@@ -589,6 +607,7 @@ export const solomonislandsEconomicV2: POI[] = [
       ro: ["Sediul operațional al companiei GPPOL în Insulele Solomon.", "Operațiunile au fost reluate și tehnologizate integral în 2005.", "Prima plantație din țară care a obținut certificarea RSPO.", "Sursă vitală de locuri de muncă pentru provincia Guadalcanal.", "Dispune de o moară de extracție cu o capacitate industrială ridicată.", "Contribuie major la rezervele de valută ale băncii centrale."],
       en: ["Main operational hub for GPPOL on the Guadalcanal Plains.", "Successfully resumed large-scale production in 2005.", "Certified by the Roundtable on Sustainable Palm Oil (RSPO).", "Among the largest private sector employers in the country.", "Annual output includes tens of thousands of tons of crude palm oil.", "A critical source of foreign exchange and tax revenue for the state."],
     },
+    image: "/poi-images/solomonislands-binu-palm-oil-economic-v2.webp",
   },
   {
     id: "solomonislands-henderson-logistics-economic-v2",
@@ -620,6 +639,7 @@ export const solomonislandsEconomicV2: POI[] = [
       ro: ["Nod central pentru 95% din traficul aerian de marfă al țării.", "Găzduiește cele mai mari depozite vamale din Insulele Solomon.", "Situat strategic lângă Aeroportul Internațional Honiara (HIR).", "Zonă economică dezvoltată pe amplasamentul istoric Henderson Field.", "Centru operațional pentru marii operatori de curierat internațional.", "Facilitează exportul aerian de pește proaspăt către piețele din Asia."],
       en: ["Primary hub for 95% of the Solomon Islands' air cargo volume.", "Location of the nation's principal bonded warehouses.", "Strategically positioned at Honiara International Airport (HIR).", "Economic development zone built on the historic Henderson Field site.", "Regional headquarters for major global logistics and courier firms.", "Key facility for the rapid export of high-grade fresh tuna by air."],
     },
+    image: "/poi-images/solomonislands-henderson-logistics-economic-v2.webp",
   },
   {
     id: "solomonislands-lungga-industrial-economic-v2",
@@ -651,6 +671,7 @@ export const solomonislandsEconomicV2: POI[] = [
       ro: ["Cea mai mare zonă industrială consolidată din Insulele Solomon.", "Găzduiește principala centrală electrică pe motorină a țării.", "Nucleul industriei naționale de băuturi și procesare alimentară.", "Centru major pentru producția de ciment și materiale metalice.", "Oferă locuri de muncă pentru peste 2.000 de specialiști în industrie.", "Acces direct la autostrada Kukum pentru o logistică optimizată."],
       en: ["Largest contiguous industrial zone in the Solomon Islands.", "Houses the nation's primary diesel-powered electrical station.", "Center for the domestic beverage and food processing industries.", "Major site for the production of cement and galvanized steel.", "Employs over 2,000 skilled workers in the manufacturing sector.", "Directly linked to the Kukum Highway for streamlined distribution."],
     },
+    image: "/poi-images/solomonislands-lungga-industrial-economic-v2.webp",
   },
   {
     id: "solomonislands-marau-fisheries-economic-v2",
@@ -682,6 +703,7 @@ export const solomonislandsEconomicV2: POI[] = [
       ro: ["Centru principal pentru creșterea scoicilor gigant destinate exportului.", "Aerodromul Marau asigură accesul rapid pentru turiști și mărfuri.", "Punct major de colectare pentru homari destinați pieței asiatice.", "Principalul motor economic pentru comunitățile din estul Guadalcanal.", "Găzduiește facilități de cercetare pentru conservarea recifelor.", "Lider regional în integrarea pescuitului cu turismul sustenabil."],
       en: ["Major production center for giant clams in the marine aquarium trade.", "Marau Airstrip provides a vital connection for both trade and tourism.", "Key source for high-quality lobster exports to international markets.", "Central driver of economic activity for the eastern Guadalcanal region.", "Houses specialized facilities for marine biodiversity research.", "Site of pioneering community-led ecotourism and conservation projects."],
     },
+    image: "/poi-images/solomonislands-marau-fisheries-economic-v2.webp",
   },
   {
     id: "solomonislands-choiseul-bay-timber-economic-v2",
@@ -713,6 +735,7 @@ export const solomonislandsEconomicV2: POI[] = [
       ro: ["Principalul port de încărcare pentru produse forestiere în Choiseul.", "Port natural cu apă adâncă, accesibil navelor mari în orice sezon.", "Centru pentru prelucrarea primară a lemnului și producția de grinzi.", "Punct de colectare pentru lemn certificat ecologic (FSC-style).", "Furnizor esențial de cherestea pentru piața internă a construcțiilor.", "Găzduiește birourile regionale de monitorizare a silviculturii."],
       en: ["Primary shipping terminal for forestry products in Choiseul Province.", "Deep natural harbor capable of hosting large international freighters.", "Hub for mobile sawmilling and the production of construction timber.", "Specializes in the export of certified sustainable tropical hardwoods.", "Major supplier of high-quality timber for the domestic building market.", "Site of the regional forestry monitoring and regulatory office."],
     },
+    image: "/poi-images/solomonislands-choiseul-bay-timber-economic-v2.webp",
   },
   {
     id: "solomonislands-lofung-border-trade-economic-v2",
@@ -744,6 +767,7 @@ export const solomonislandsEconomicV2: POI[] = [
       ro: ["Cel mai nordic post comercial oficial din Insulele Solomon.", "Punct principal de tranzit pentru mărfuri din Bougainville (PNG).", "Sediu pentru serviciile vamale și de imigrare din nord.", "Centru pentru comerțul cu produse artizanale și resurse marine.", "Găzduiește o bază de patrulare maritimă pentru siguranța frontierei.", "Sursă principală de aprovizionare cu combustibil pentru regiune."],
       en: ["Northernmost official trade gateway of the Solomon Islands.", "Primary transit hub for goods moving to and from Bougainville, PNG.", "Critical post for national customs, immigration, and quarantine services.", "Central point for the informal exchange of traditional commodities.", "Houses a strategic maritime patrol base for border surveillance.", "Essential distribution point for fuel and retail supplies in the Shortlands."],
     },
+    image: "/poi-images/solomonislands-lofung-border-trade-economic-v2.webp",
   },
   {
     id: "solomonislands-santa-cruz-copra-economic-v2",
@@ -775,6 +799,7 @@ export const solomonislandsEconomicV2: POI[] = [
       ro: ["Situat în Lata, centrul administrativ al provinciei Temotu.", "Punct central de colectare pentru insulele dispersate Santa Cruz.", "Copra este obținută prin uscarea miezului de nucă de cocos în cuptoare.", "Transportul către capitală depinde de programul navelor maritime.", "Centrul a beneficiat de programe de modernizare în ultimul deceniu.", "Taxele pe exportul de copră finanțează serviciile publice locale."],
       en: ["Located in Lata, the provincial headquarters of Temotu.", "Serves as a collection point for remote islands in the Santa Cruz group.", "Copra is processed by drying coconut meat to extract oil later.", "Logistics involve long-distance shipping to Honiara for export.", "Provides the main source of cash income for local islanders.", "Recent upgrades focus on producing higher-grade coconut oil."],
     },
+    image: "/poi-images/solomonislands-santa-cruz-copra-economic-v2.webp",
   },
   {
     id: "solomonislands-kolombangara-forest-economic-v2",
@@ -806,6 +831,7 @@ export const solomonislandsEconomicV2: POI[] = [
       ro: ["Administrată de KFPL, înființată în 1989 ca joint venture.", "Prima operațiune forestieră din Solomon care a primit certificarea FSC.", "Plantația acoperă o suprafață de aproximativ 14.000 de hectare.", "Speciile principale includ eucaliptul și tecul de înaltă calitate.", "Ringgi Cove servește ca port principal pentru exportul buștenilor.", "Compania oferă servicii sociale pentru peste 800 de angajați și familiile lor."],
       en: ["Operated by KFPL, a company established in 1989.", "The first forestry operation in the Solomon Islands to achieve FSC certification.", "The plantation area covers approximately 14,000 hectares of the island.", "Focuses on high-value timber species like teak and mahogany.", "Ringgi Cove functions as a dedicated port for timber shipments.", "Strict conservation zones protect forests above the 400-meter contour line."],
     },
+    image: "/poi-images/solomonislands-kolombangara-forest-economic-v2.webp",
   },
   {
     id: "solomonislands-guadalcanal-rice-economic-v2",
@@ -837,6 +863,7 @@ export const solomonislandsEconomicV2: POI[] = [
       ro: ["Lansat în anii 1970 pentru a contracara costul ridicat al importurilor.", "Taiwanul a fost partenerul principal pentru asistență tehnică până în 2019.", "Localizat în câmpiile fertile din nordul insulei Guadalcanal.", "Producția a fost grav afectată de instabilitatea politică din 2000.", "Orezul cultivat local este considerat mai proaspăt decât cel importat.", "Noi programe de reabilitare vizează mecanizarea completă a fermelor."],
       en: ["Started in the 1970s to achieve national food security.", "Taiwanese technical missions were instrumental in the project's early success.", "The fields are located on the expansive plains east of Honiara.", "Infrastructure suffered major damage during the 1998-2003 ethnic crisis.", "Rice has surpassed root crops as the primary staple in urban areas.", "Ongoing trials include high-yield varieties supported by international donors."],
     },
+    image: "/poi-images/solomonislands-guadalcanal-rice-economic-v2.webp",
   },
   {
     id: "solomonislands-ranadi-estate-economic-v2",
@@ -868,6 +895,7 @@ export const solomonislandsEconomicV2: POI[] = [
       ro: ["Cea mai mare zonă industrială desemnată din Insulele Solomon.", "Găzduiește fabrica Solbrew, pilon al veniturilor fiscale naționale.", "Poziționată strategic de-a lungul autostrăzii Kukum.", "Centru pentru producția de bunuri de larg consum destinate pieței locale.", "Include facilități majore de depozitare pentru combustibili și gaze.", "Zona este esențială pentru formarea profesională a tinerilor din Honiara."],
       en: ["The largest dedicated industrial zone in the Solomon Islands.", "Home to the Solbrew brewery, a major contributor to national excise taxes.", "Strategically located along the main Kukum Highway corridor.", "Center for the manufacturing of coconut oil-based soaps and detergents.", "Serves as a primary distribution point for imported petroleum products.", "Key source of formal sector employment in the capital city."],
     },
+    image: "/poi-images/solomonislands-ranadi-estate-economic-v2.webp",
   },
   {
     id: "solomonislands-wagina-seaweed-economic-v2",
@@ -899,6 +927,7 @@ export const solomonislandsEconomicV2: POI[] = [
       ro: ["Locuitorii sunt descendenți ai coloniștilor micronezieni din Kiribati.", "Wagina este cel mai mare producător de alge marine din țară.", "Procesul de cultivare nu necesită îngrășăminte sau chimicale.", "Algele sunt uscate pe platforme de lemn înainte de a fi balotate.", "Exporturile sunt direcționate în principal către procesatori din Europa și Asia.", "Economia algelor a redus presiunea asupra recifelor de corali locale."],
       en: ["The community consists of I-Kiribati settlers relocated in the 1960s.", "Wagina accounts for the majority of seaweed production in the Solomon Islands.", "Seaweed is grown on ropes tied to stakes in the shallow lagoon waters.", "The harvested seaweed is sun-dried to reduce moisture for shipping.", "Carrageenan extracted from the seaweed is used as a stabilizer in food.", "Seaweed farming provides a climate-resilient alternative to traditional crops."],
     },
+    image: "/poi-images/solomonislands-wagina-seaweed-economic-v2.webp",
   },
   {
     id: "solomonislands-pavuvu-copra-economic-v2",
@@ -930,5 +959,6 @@ export const solomonislandsEconomicV2: POI[] = [
       ro: ["Cea mai mare insulă din grupul Russell, Provincia Centrală.", "Fostă proprietate a gigantului Lever Brothers pentru producția de săpun.", "Baza militară americană a lăsat în urmă infrastructură utilă de transport.", "Plantațiile ocupă o mare parte din suprafața plană a insulei.", "Producția de copră este esențială pentru economia locală a Insulelor Russell.", "Disputele legale privind terenurile rămân o barieră în calea investițiilor noi."],
       en: ["The largest island of the Russell Islands group.", "Formerly a key asset of Lever's Pacific Plantations Ltd.", "Served as a primary base for the 1st Marine Division in 1944.", "Features vast areas of systematically planted coconut groves.", "Copra remains the dominant export and local economic driver.", "Ongoing land reform aims to resolve long-standing tenure issues on the island."],
     },
+    image: "/poi-images/solomonislands-pavuvu-copra-economic-v2.webp",
   }
 ];

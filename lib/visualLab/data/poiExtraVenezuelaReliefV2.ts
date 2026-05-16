@@ -31,6 +31,7 @@ export const venezuelaReliefV2: POI[] = [
       ro: ["Suprafața platoului este de circa 650 km²", "Sursa Cascadei Angel (979 metri înălțime)", "Altitudinea maximă este de 2535 metri", "Format din gresie precambriană veche", "Numele înseamnă „Muntele Diavolului” în Pemon", "Inclus în Patrimoniul Mondial UNESCO"],
       en: ["Summit plateau area of about 650 km²", "Source of Angel Falls (979 meters high)", "Highest point reaches 2,535 meters", "Composed of ancient Precambrian sandstone", "Name means 'Devil's Mountain' in Pemon", "Part of the Canaima UNESCO World Heritage site"],
     },
+    image: "/poi-images/venezuela-auyan-tepui-relief-v2.webp",
   },
   {
     id: "venezuela-mount-duida-relief-v2",
@@ -62,6 +63,7 @@ export const venezuelaReliefV2: POI[] = [
       ro: ["Altitudine de 2358 metri deasupra mării", "Parte din Parcul Național Duida-Marahuaca", "Prima expediție majoră în 1928-1929 (Tate)", "Integrat în structura Scutului Guayanian", "Adăpostește peste 150 de specii de plante endemice", "Rezervor de apă crucial pentru regiunea Amazonas"],
       en: ["Elevation of 2,358 meters above sea level", "Part of the Duida-Marahuaca National Park", "First major scientific expedition in 1928-1929", "Member of the ancient Guiana Shield formation", "Home to over 150 endemic plant species", "Key water catchment area for the Amazon region"],
     },
+    image: "/poi-images/venezuela-mount-duida-relief-v2.webp",
   },
   {
     id: "venezuela-pico-el-leon-relief-v2",
@@ -93,6 +95,7 @@ export const venezuelaReliefV2: POI[] = [
       ro: ["Altitudine maximă de 4740 metri", "Situat în masivul Sierra Nevada de Mérida", "Membru al grupului 'Cinci Vulturi Albi'", "Caracterizat prin formațiuni de roci cristaline", "Accesul principal se face din orașul Mérida", "Habitat pentru speciile endemice de Espeletia"],
       en: ["Reaches an elevation of 4,740 meters", "Located within the Sierra Nevada de Mérida", "Part of the 'Five White Eagles' peak group", "Defined by crystalline rock formations", "Ascent typically starts from the city of Mérida", "Home to various endemic Espeletia species"],
     },
+    image: "/poi-images/venezuela-pico-el-leon-relief-v2.webp",
   },
   {
     id: "venezuela-chimanta-massif-relief-v2",
@@ -124,6 +127,7 @@ export const venezuelaReliefV2: POI[] = [
       ro: ["Suprafață de circa 1470 km²", "Compus din 11 tepui distincți", "Situat în statul Bolívar", "Cel mai înalt vârf: Murei-tepui (2698 m)", "Rată de endemism extrem de ridicată", "Vârsta geologică de aproximativ 1,8 miliarde ani"],
       en: ["Covers an area of about 1,470 km²", "Comprised of 11 individual tepuis", "Located in Bolívar state", "Highest peak: Murei-tepui (2,698 m)", "Extreme level of plant endemism", "Geological age of approximately 1.8 billion years"],
     },
+    image: "/poi-images/venezuela-chimanta-massif-relief-v2.webp",
   },
   {
     id: "venezuela-mount-autana-relief-v2",
@@ -155,6 +159,7 @@ export const venezuelaReliefV2: POI[] = [
       ro: ["Altitudine de 1220 metri", "Monument natural din anul 1978", "Include peștera Cueva del Ratón", "Loc sacru pentru indigenii Piaroa", "Constituit din gresie și cuarțit", "Situat aproape de granița cu Columbia"],
       en: ["Elevation of 1,220 meters", "Designated a Natural Monument in 1978", "Features the unique Cueva del Ratón cave", "Sacred site for the Piaroa indigenous group", "Composed of sandstone and quartzite", "Located near the border with Colombia"],
     },
+    image: "/poi-images/venezuela-mount-autana-relief-v2.webp",
   },
   {
     id: "venezuela-pico-el-aguila-relief-v2",
@@ -186,6 +191,7 @@ export const venezuelaReliefV2: POI[] = [
       ro: ["Altitudinea maximă este de 4.118 metri.", "Drumul transandin a fost finalizat în anul 1925.", "Monumentul condorului a fost inaugurat în 1927.", "Temperatura medie variază între 0°C și 5°C.", "Face parte din Parcul Național Sierra de la Culata.", "Este cel mai înalt punct rutier din Venezuela."],
       en: ["Elevation reaches 4,118 meters above sea level.", "The Transandean Highway was completed in 1925.", "The Condor monument was erected in 1927.", "Located within the Sierra de la Culata National Park.", "Average temperatures range from 0°C to 5°C.", "Acts as a watershed for the Chama and Motatán rivers."],
     },
+    image: "/poi-images/venezuela-pico-el-aguila-relief-v2.webp",
   },
   {
     id: "venezuela-kukenan-tepui-relief-v2",
@@ -217,6 +223,7 @@ export const venezuelaReliefV2: POI[] = [
       ro: ["Altitudinea este de aproximativ 2.680 de metri.", "Cascada Kukenán are o înălțime de 674 de metri.", "Gresia constitutivă are o vechime de 1,7 miliarde de ani.", "Este situat în Parcul Național Canaima.", "Indigenii Pemon îl numesc „Matawi-Tepui”.", "Face parte din supergrupul geologic Roraima."],
       en: ["Elevation is approximately 2,680 meters.", "Kukenán Falls features a 674-meter drop.", "Composed of 1.7-billion-year-old Precambrian sandstone.", "Located within the UNESCO-listed Canaima National Park.", "Known as 'Matawi-Tepui' by the Pemon people.", "Separated from Mount Roraima by the Kukenán Pass."],
     },
+    image: "/poi-images/venezuela-kukenan-tepui-relief-v2.webp",
   },
   {
     id: "venezuela-sierra-de-perija-relief-v2",
@@ -248,6 +255,7 @@ export const venezuelaReliefV2: POI[] = [
       ro: ["Altitudinea maximă: 3.750 metri (Pico Tetari).", "Lungimea lanțului muntos: circa 310 kilometri.", "Parcul Național a fost înființat în anul 1978.", "Adăpostește comunitățile indigene Bari și Yukpa.", "Conține zăcăminte majore de cărbune la El Guasare.", "Formează frontiera naturală cu Columbia."],
       en: ["Maximum elevation: 3,750 meters (Pico Tetari).", "Total length: approximately 310 kilometers.", "National Park established in 1978.", "Home to the indigenous Bari and Yukpa peoples.", "Site of major coal deposits in the El Guasare region.", "Serves as the natural border with Colombia."],
     },
+    image: "/poi-images/venezuela-sierra-de-perija-relief-v2.webp",
   },
   {
     id: "venezuela-pico-mucuchies-relief-v2",
@@ -279,6 +287,7 @@ export const venezuelaReliefV2: POI[] = [
       ro: ["Altitudinea este de circa 4.070 de metri.", "Face parte din lanțul Sierra de la Culata.", "Numele provine de la tribul indigen Mucuchíes.", "Situat în statul Mérida.", "Prezintă relief format prin eroziune glaciară.", "Temperatura medie este de 5-8°C."],
       en: ["Elevation is approximately 4,070 meters.", "Part of the Sierra de la Culata mountain range.", "Named after the indigenous Mucuchíes people.", "Located in the state of Mérida.", "Features landforms from Pleistocene glaciations.", "Average temperature ranges from 5°C to 8°C."],
     },
+    image: "/poi-images/venezuela-pico-mucuchies-relief-v2.webp",
   },
   {
     id: "venezuela-mount-cuyuni-relief-v2",
@@ -310,6 +319,7 @@ export const venezuelaReliefV2: POI[] = [
       ro: ["Face parte din Scutul Guayanese precambrian.", "Sursă majoră de aur și diamante pentru Venezuela.", "Râul Cuyuni are o lungime totală de circa 618 km.", "Locuit de grupuri indigene din familia caribă.", "Dominat de păduri tropicale umede de mare densitate.", "Zonă implicată în disputa teritorială cu Guyana."],
       en: ["Part of the Precambrian Guiana Shield.", "Major source of gold and diamonds in Venezuela.", "The Cuyuni River spans approximately 618 km in total.", "Inhabited by various indigenous Carib-speaking groups.", "Characterized by dense tropical rainforest vegetation.", "Involved in the geopolitical Esequibo dispute with Guyana."],
     },
+    image: "/poi-images/venezuela-mount-cuyuni-relief-v2.webp",
   },
   {
     id: "venezuela-sierra-de-la-culata-relief-v2",
@@ -341,6 +351,7 @@ export const venezuelaReliefV2: POI[] = [
       ro: ["Parcul Național a fost fondat pe 7 decembrie 1989.", "Altitudinea maximă depășește 4.600 de metri.", "Situat paralel cu Sierra Nevada de Mérida.", "Adăpostește peste 40 de lacune glaciare.", "Specia vegetală dominantă este Espeletia (Frailejón).", "Sursă de apă pentru râurile Chama și Torondoy."],
       en: ["National Park established on December 7, 1989.", "Max elevation exceeds 4,600 meters.", "Runs parallel to the Sierra Nevada de Mérida.", "Contains over 40 glacial lagoons.", "Key plant species is the Espeletia (Frailejón).", "Source of the Chama and Torondoy rivers."],
     },
+    image: "/poi-images/venezuela-sierra-de-la-culata-relief-v2.webp",
   },
   {
     id: "venezuela-pico-guirigay-relief-v2",
@@ -372,6 +383,7 @@ export const venezuelaReliefV2: POI[] = [
       ro: ["Altitudinea este de aproximativ 3.870 de metri.", "Situat la limita dintre statele Trujillo și Mérida.", "Face parte din Cordiliera Mérida.", "Sursă importantă pentru sistemul râului Motatán.", "Adăpostește specii rare de Espeletia.", "Temperatura medie anuală este sub 10°C."],
       en: ["Elevation is approximately 3,870 meters.", "Located on the border of Trujillo and Mérida states.", "Part of the Cordillera de Mérida.", "Key water source for the Motatán river system.", "Habitat for rare species of the Espeletia genus.", "Mean annual temperature is below 10°C."],
     },
+    image: "/poi-images/venezuela-pico-guirigay-relief-v2.webp",
   },
   {
     id: "venezuela-sierra-de-san-luis-relief-v2",
@@ -403,6 +415,7 @@ export const venezuelaReliefV2: POI[] = [
       ro: ["Altitudinea maximă este de circa 1.500 de metri.", "Găzduiește avenul Haitón del Guarataro (305 m adâncime).", "Inclus în Parcul Național Juan Crisóstomo Falcón din 1987.", "Principalul rezervor de apă pentru statul Falcón.", "Compoziție geologică dominantă: calcar terțiar.", "Precipitațiile anuale ating 1.500 mm."],
       en: ["Highest elevation is approximately 1,500 meters.", "Home to the 305-meter-deep Haitón del Guarataro shaft.", "Part of the Juan Crisóstomo Falcón National Park (est. 1987).", "Most important water source for Falcón State.", "Composed primarily of Tertiary limestone.", "Annual rainfall reaches up to 1,500 mm."],
     },
+    image: "/poi-images/venezuela-sierra-de-san-luis-relief-v2.webp",
   },
   {
     id: "venezuela-pico-pulpito-relief-v2",
@@ -434,6 +447,7 @@ export const venezuelaReliefV2: POI[] = [
       ro: ["Altitudinea este de 3.942 de metri.", "Cel mai înalt munte din statul Táchira.", "Parte a Parcului Național binational Tamá.", "Aparține masivului Tamá.", "Semnificația numelui: „Vârful Amvonului”.", "Cumpănă a apelor între bazinele Orinoco și Maracaibo."],
       en: ["Elevation is 3,942 meters.", "Highest mountain in Táchira State.", "Part of the binational Tamá National Park.", "Belongs to the Tamá Massif.", "Name meaning: 'The Pulpit Peak'.", "Strategic watershed between the Orinoco and Maracaibo basins."],
     },
+    image: "/poi-images/venezuela-pico-pulpito-relief-v2.webp",
   },
   {
     id: "venezuela-tepui-sarisarinama-relief-v2",
@@ -465,6 +479,7 @@ export const venezuelaReliefV2: POI[] = [
       ro: ["Altitudinea este de aproximativ 2.350 de metri.", "Sima Humboldt are o adâncime de 314 metri.", "Descoperit de Harry Gibson în anul 1961.", "Prima expediție științifică a avut loc în 1974.", "Inclus în Parcul Național Jaua-Sarisariñama din 1978.", "Compus din gresie cuarțoasă din grupul Roraima."],
       en: ["Elevation is approximately 2,350 meters.", "Sima Humboldt reaches a depth of 314 meters.", "Discovered by Harry Gibson in 1961.", "First scientific expedition conducted in 1974.", "Part of Jaua-Sarisariñama National Park (est. 1978).", "Composed of Roraima Group quartz sandstone."],
     },
+    image: "/poi-images/venezuela-tepui-sarisarinama-relief-v2.webp",
   },
   {
     id: "venezuela-mount-neblina-relief-v2",
@@ -496,6 +511,7 @@ export const venezuelaReliefV2: POI[] = [
       ro: ["Altitudinea este de 2.995 de metri.", "Cel mai înalt punct al Scutului Guayanese.", "Descoperit în 1953 de către Bassett Maguire.", "Situat la granița dintre Venezuela și Brazilia.", "Parcul Național a fost creat în anul 1978.", "Găzduiește specia endemică Heliamphora neblinae."],
       en: ["Elevation is 2,995 meters.", "Highest point of the Guiana Shield.", "Discovered in 1953 by Bassett Maguire.", "Located on the border between Venezuela and Brazil.", "National Park established in 1978.", "Home to the endemic Heliamphora neblinae."],
     },
+    image: "/poi-images/venezuela-mount-neblina-relief-v2.webp",
   },
   {
     id: "venezuela-sierra-de-falcon-relief-v2",
@@ -527,6 +543,7 @@ export const venezuelaReliefV2: POI[] = [
       ro: ["Altitudini maxime de până la 1.500 de metri.", "Formațiune geologică principală: calcar terțiar.", "Adăpostește Parcul Național Sierra de San Luis.", "Sursă de fosile importante din perioada miocenă.", "Zonă tradițională de cultivare a cafelei de calitate.", "Principalul nod hidrografic al statului Falcón."],
       en: ["Highest peaks reach up to 1,500 meters.", "Primary geological formation: Tertiary limestone.", "Home to the Sierra de San Luis National Park.", "Site of significant Miocene fossil discoveries.", "Traditional region for high-quality coffee production.", "Serves as the main watershed for Falcón State."],
     },
+    image: "/poi-images/venezuela-sierra-de-falcon-relief-v2.webp",
   },
   {
     id: "venezuela-mount-marahuaca-relief-v2",
@@ -558,6 +575,7 @@ export const venezuelaReliefV2: POI[] = [
       ro: ["Altitudinea este de 2.800 de metri.", "Inclus în Parcul Național Duida-Marahuaca din 1987.", "Format din gresie precambriană de tip Roraima.", "Munte sacru pentru indigenii Ye'kuana.", "Găzduiește specii rare de broaște din genul Oreophrynella.", "Drenează apele în sistemul fluviului Orinoco."],
       en: ["Elevation is 2,800 meters.", "Part of the Duida-Marahuaca National Park (est. 1978).", "Composed of Precambrian Roraima sandstone.", "Sacred mountain for the Ye'kuana people.", "Home to rare frog species of the genus Oreophrynella.", "Drains into the Orinoco river system."],
     },
+    image: "/poi-images/venezuela-mount-marahuaca-relief-v2.webp",
   },
   {
     id: "venezuela-pico-el-buitre-relief-v2",
@@ -589,6 +607,7 @@ export const venezuelaReliefV2: POI[] = [
       ro: ["Altitudinea este de aproximativ 4.650 de metri.", "Aparține masivului Sierra de la Culata.", "Prezența morenelor pleistocene pe versanți.", "Habitat pentru condorul andin, specie amenințată.", "Temperatura medie este adesea sub punctul de îngheț.", "Bazin hidrografic important pentru valea Chama."],
       en: ["Elevation is approximately 4,650 meters.", "Part of the Sierra de la Culata Massif.", "Features prominent Pleistocene moraines.", "Habitat for the endangered Andean condor.", "Average temperature is often below freezing point.", "Crucial watershed for the Chama Valley."],
     },
+    image: "/poi-images/venezuela-pico-el-buitre-relief-v2.webp",
   },
   {
     id: "venezuela-mount-jaua-relief-v2",
@@ -620,6 +639,7 @@ export const venezuelaReliefV2: POI[] = [
       ro: ["Altitudinea este de 2.395 de metri.", "Face parte din masivul Jaua-Sarisariñama.", "Compoziție: gresie veche de circa 1,8 miliarde de ani.", "Inclus în Parcul Național Jaua-Sarisariñama din 1978.", "Sursă vitală pentru bazinul râului Rio Caura.", "Platou aproape inaccesibil, fără rute terestre."],
       en: ["Elevation is 2,395 meters.", "Part of the Jaua-Sarisariñama Massif.", "Composed of 1.8-billion-year-old sandstone.", "Part of Jaua-Sarisariñama National Park (est. 1978).", "Major water source for the Rio Caura basin.", "Nearly inaccessible plateau with no established trails."],
     },
+    image: "/poi-images/venezuela-mount-jaua-relief-v2.webp",
   },
   {
     id: "venezuela-sierra-de-neblina-relief-v2",
@@ -651,6 +671,7 @@ export const venezuelaReliefV2: POI[] = [
       ro: ["Descoperire științifică realizată de Bassett Maguire în anul 1953.", "Parte a Parcului Național Serranía de la Neblina, de 1,36 milioane de hectare.", "Găzduiește Cañón Grande del Río Baría, unul dintre cele mai adânci canioane din lume.", "Cel mai înalt punct de pe partea venezueleană depășește 3.000 de metri.", "Formațiune geologică din cuarțite precambriene ale Grupului Roraima.", "Habitat principal pentru plante carnivore endemice precum Heliamphora neblinae."],
       en: ["Scientific discovery by Bassett Maguire in 1953.", "Part of the 1.36 million hectare Serranía de la Neblina National Park.", "Home to the Cañón Grande del Río Baría, one of the world's deepest canyons.", "Highest point on the Venezuelan side reaches over 3,000 meters.", "Geological formation composed of Precambrian quartzite of the Roraima Group.", "Primary location for endemic carnivorous plants like Heliamphora neblinae."],
     },
+    image: "/poi-images/venezuela-sierra-de-neblina-relief-v2.webp",
   },
   {
     id: "venezuela-pico-reveron-relief-v2",
@@ -682,6 +703,7 @@ export const venezuelaReliefV2: POI[] = [
       ro: ["Altitudine maximă de aproximativ 3.427 de metri deasupra nivelului mării.", "Numit în onoarea artistului venezuelean Armando Reverón.", "Situat în Serranía de la Neblina, în statul Amazonas.", "Compoziție geologică din gresie precambriană.", "Bazin hidrografic crucial pentru bazinul Amazonului.", "Accesibilitate aproape exclusiv prin elicopter sau expediții de mai multe zile."],
       en: ["Maximum height of approximately 3,427 meters above sea level.", "Named in honor of the Venezuelan artist Armando Reverón.", "Located in the Serranía de la Neblina in Amazonas State.", "Geological composition consists of Precambrian sandstone.", "Crucial watershed for the Amazon basin.", "Accessibility almost exclusively via helicopter or multi-day expeditions."],
     },
+    image: "/poi-images/venezuela-pico-reveron-relief-v2.webp",
   },
   {
     id: "venezuela-mount-uquien-relief-v2",
@@ -713,5 +735,6 @@ export const venezuelaReliefV2: POI[] = [
       ro: ["Componentă a lanțului muntos Parima-Tapirapecó din bazinul Amazonului.", "Situat în una dintre cele mai ploioase regiuni din America de Sud.", "Adiacent teritoriului populației indigene Yanomami.", "Structură geologică formată din roci vechi de cuarțite ale Scutului Guianei.", "Habitat important pentru specii endemice de păsări de munte.", "Prima escaladare și măsurare au avut loc în cadrul expedițiilor de frontieră."],
       en: ["Part of the Parima-Tapirapecó mountain range in the Amazon basin.", "Located in one of the highest rainfall regions in South America.", "Adjacent to the territory of the indigenous Yanomami people.", "Geological structure composed of ancient quartzite rocks of the Guiana Shield.", "Significant habitat for endemic highland bird species.", "First ascent and surveying were conducted as part of border expeditions."],
     },
+    image: "/poi-images/venezuela-mount-uquien-relief-v2.webp",
   }
 ];

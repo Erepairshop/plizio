@@ -232,6 +232,7 @@ export const serbiaDistrictPoi: POI[] = [
       ro: ["Prima menționare în anul 1340", "Reședința comitatului Bács-Bodrog", "Clădirea Prefecturii ridicată în 1808", "Cunoscut pentru tradiția trăsurilor", "120 km de străzi aliniate cu arbori", "Lângă canalul Dunăre-Tisa-Dunăre"],
       en: ["First mentioned in 1340", "Former seat of Bács-Bodrog county", "County Hall built in 1808", "Famous for hackney carriage tradition", "120 km of tree-lined streets", "Near the Danube-Tisa-Danube canal"],
     },
+    image: "/poi-images/RS-002-sombor.webp",
   },
   {
     id: "RS-002-apatin",
@@ -295,6 +296,7 @@ export const serbiaDistrictPoi: POI[] = [
       ro: ["Fondarea așezării moderne în anul 1774", "Descoperirea scheletului mamutului Kika în 1996", "Peste 500 de bufnițe iernează în centrul orașului", "Simpozionul Terra funcționează din anul 1982", "Suvača este una dintre ultimele mori cu cai din Europa", "Muzeul Național este situat în clădirea fostei Curii"],
       en: ["Establishment of the modern settlement in 1774", "Discovery of the Kika mammoth skeleton in 1996", "Over 500 long-eared owls winter in the city center", "Home to the Terra sculpture symposium since 1982", "The Suvača is one of the last horse-powered mills in Europe", "National Museum is housed in the former Curia building"],
     },
+    image: "/poi-images/RS-003-kikinda.webp",
   },
   {
     id: "RS-003-senta",
@@ -358,6 +360,7 @@ export const serbiaDistrictPoi: POI[] = [
       ro: ["Podul Alb (Beli most) a fost construit în anul 1844", "Amam este o baie turcească ce datează din secolul XVII", "Vranje a fost menționat în scris pentru prima dată în 1093", "Borisav Stanković s-a născut aici în anul 1876", "Cetatea Markovo Kale datează din secolul al XIV-lea", "Vranje se află la aproximativ 350 km sud de Belgrad"],
       en: ["The White Bridge (Beli most) was built in 1844", "The Amam is a Turkish bath dating back to the 17th century", "Vranje was first mentioned in writing in 1093", "Borisav Stanković was born here in 1876", "The Markovo Kale fortress dates back to the 14th century", "Vranje is located about 350 kilometers south of Belgrade"],
     },
+    image: "/poi-images/RS-004-vranje.webp",
   },
   {
     id: "RS-004-prohor-pcinjski",
@@ -421,6 +424,7 @@ export const serbiaDistrictPoi: POI[] = [
       ro: ["Mineritul sistematic a început în anul 1903", "George Weifert a primit concesiunea minei în 1903", "RTB Bor este una dintre cele mai mari mine de cupru din Europa", "Lacul Bor (Borsko jezero) a fost creat artificial în 1959", "Orașul este situat la poalele muntelui Crni Vrh", "Bor găzduiește o facultate tehnică de minerit"],
       en: ["Systematic mining began in the year 1903", "George Weifert received the mine concession in 1903", "RTB Bor is one of the largest copper mines in Europe", "Bor Lake (Borsko jezero) was artificially created in 1959", "The city is located at the foot of the Crni Vrh mountain", "Bor is home to a technical faculty for mining"],
     },
+    image: "/poi-images/RS-005-bor.webp",
   },
   {
     id: "RS-005-negotin",
@@ -484,6 +488,7 @@ export const serbiaDistrictPoi: POI[] = [
       ro: ["Zaječar a fost menționat documentar prima dată în 1466", "Felix Romuliana se află la aproximativ 11 kilometri", "Festivalul Gitarijada se desfășoară din anul 1966", "Muzeul Național din Zaječar a fost fondat în 1951", "Orașul este situat la confluența celor două brațe ale Timokului", "Radul-Bey Konak este un exemplu de arhitectură otomană"],
       en: ["Zaječar was first mentioned in documents in 1466", "Felix Romuliana is located about 11 kilometers away", "The Gitarijada festival has been held since 1966", "The Zaječar National Museum was established in 1951", "The city lies at the confluence of two Timok river branches", "Radul-Bey's Konak is a prime example of Ottoman architecture"],
     },
+    image: "/poi-images/RS-006-zajecar.webp",
   },
   // RS-007 Pirotski
   {
@@ -516,6 +521,7 @@ export const serbiaDistrictPoi: POI[] = [
       ro: ["Cetatea Pirot datează din secolul al XIV-lea", "Covoarele de Pirot sunt protejate ca indicație geografică", "Orașul a fost o oprire importantă pe Via Militaris", "Pirot a fost eliberat de sub dominația otomană în 1877", "Râul Nišava traversează centrul orașului", "Pirot este cunoscut pentru producția de articole din cauciuc"],
       en: ["The Pirot Fortress dates back to the 14th century", "Pirot Kilims are protected as a geographical indication", "The city was a significant stop on the Via Militaris", "Pirot was liberated from Ottoman rule in 1877", "The Nišava River flows through the heart of the city", "Pirot is well-known for its rubber industry (Tigar)"],
     },
+    image: "/poi-images/RS-007-pirot.webp",
   },
   {
     id: "RS-007-stara-planina",
@@ -579,6 +585,7 @@ export const serbiaDistrictPoi: POI[] = [
       ro: ["Roštiljijada atrage anual peste 500.000 de vizitatori", "Orașul a fost menționat documentar prima dată în 1308", "Leskovac a avut una dintre primele centrale electrice în 1903", "Dealul Hisar găzduiește un sit arheologic important", "Orașul este centrul districtului Jablanica", "Leskovac este faimos pentru specialitățile sale de ardei"],
       en: ["The Roštiljijada draws over 500,000 visitors annually", "The city was first mentioned in documents in 1308", "Leskovac had one of the first power plants in Serbia in 1903", "Hisar Hill is home to a significant archaeological site", "The city is the center of the Jablanica District", "Leskovac is famous for its paprika and ajvar specialties"],
     },
+    image: "/poi-images/RS-008-leskovac.webp",
   },
   {
     id: "RS-008-caricin-grad",
@@ -642,6 +649,7 @@ export const serbiaDistrictPoi: POI[] = [
       ro: ["Orașul a primit numele actual, Kraljevo, în 1882", "Kraljevo se află la doar 5 km de mănăstirea Žiča", "Piața circulară a fost proiectată în secolul al XIX-lea", "Orașul era cunoscut anterior sub numele de Karanovac", "Kraljevo a fost menționat în scris pentru prima dată în secolul XIV", "Cetatea Maglič se află la 20 km sud de oraș"],
       en: ["The city received its current name, Kraljevo, in 1882", "Kraljevo is located only 5 km from the Žiča Monastery", "The circular city square was designed in the 19th century", "The city was formerly known as Karanovac", "Kraljevo was first mentioned in writing in the 14th century", "The Maglič fortress is situated 20 km south of the city"],
     },
+    image: "/poi-images/RS-009-kraljevo.webp",
   },
   {
     id: "RS-009-zica",
@@ -705,6 +713,7 @@ export const serbiaDistrictPoi: POI[] = [
       ro: ["Jagodina a fost menționat documentar prima dată în 1381", "Muzeul figurilor de ceară a fost deschis în 2008", "Aqua Park Jagodina a fost primul de acest gen din Serbia", "Orașul s-a numit Svetozarevo între 1946 și 1992", "Aici se află una dintre cele mai mari fabrici de cabluri din Balcani", "Grădina zoologică găzduiește peste 80 de specii de animale"],
       en: ["Jagodina was first mentioned in documents in 1381", "The wax museum was opened in the year 2008", "Jagodina's aqua park was the first of its kind in Serbia", "The city was named Svetozarevo from 1946 to 1992", "It is home to one of the largest cable factories in the Balkans", "The city zoo houses more than 80 different animal species"],
     },
+    image: "/poi-images/RS-010-jagodina.webp",
   },
   {
     id: "RS-010-manasija",
@@ -768,6 +777,7 @@ export const serbiaDistrictPoi: POI[] = [
       ro: ["Biserica Sfântul Procopie a fost construită în secolele IX-X.", "Orașul a fost numit după Sfântul Procopie din Scythopolis.", "Dealul Hisar găzduiește o cetate din perioada romană.", "Prokuplje este centrul administrativ al districtului Toplica.", "Populația zonei urbane este de aproximativ 27.000 de locuitori.", "Orașul găzduiește festivalul anual de muzică Prokupačka gitarijada."],
       en: ["Church of St. Procopius was built in the 9th-10th century.", "Named after Saint Procopius of Scythopolis.", "Hisar hill hosts a fortress from the Roman period.", "Administrative center of the Toplica District in southern Serbia.", "Population of the urban area is approximately 27,000.", "Home to the annual Prokupačka gitarijada music festival."],
     },
+    image: "/poi-images/RS-011-prokuplje.webp",
   },
   // RS-012 Zlatiborski
   {
@@ -800,6 +810,7 @@ export const serbiaDistrictPoi: POI[] = [
       ro: ["Cetatea Užice a fost construită în secolul al XIV-lea.", "Hidrocentrala Pod Gradom a început să funcționeze în anul 1900.", "Orașul a fost centrul Republicii Užice timp de 67 de zile în 1941.", "Užice este centrul administrativ al districtului Zlatibor.", "Orașul este înconjurat de munții Zlatibor și Tara.", "Cunoscut pentru specialitatea locală de pâine lepinja sa sve."],
       en: ["Užice Fortress was built in the 14th century.", "Hydroelectric plant Pod Gradom started operating in 1900.", "Center of the Užice Republic for 67 days in 1941.", "Administrative center of the Zlatibor District.", "The city is surrounded by the Zlatibor and Tara mountains.", "Known for the unique lepinja sa sve local flatbread."],
     },
+    image: "/poi-images/RS-012-uzice.webp",
   },
   // RS-013 Sremski
   {
@@ -832,6 +843,7 @@ export const serbiaDistrictPoi: POI[] = [
       ro: ["Sirmiumul antic a fost fondat de celți în secolul al III-lea î.Hr.", "A servit drept capitală romană în perioada Tetrarhiei.", "Zece împărați romani s-au născut în oraș sau în apropiere.", "Ruinele palatului imperial sunt protejate de o structură modernă.", "Locul unde se află biserica istorică Sfântul Dumitru.", "Situat în regiunea plană și fertilă a Sremului."],
       en: ["Ancient Sirmium was founded by Celts in the 3rd century BC.", "Served as a Roman capital during the Tetrarchy period.", "Ten Roman emperors were born in or near the city.", "The Imperial Palace ruins are protected by a modern structure.", "Site of the historic St. Demetrius Church.", "Located in the flat and fertile Syrmia region."],
     },
+    image: "/poi-images/RS-013-sremska-mitrovica.webp",
   },
   {
     id: "RS-013-krusedol",
@@ -895,6 +907,7 @@ export const serbiaDistrictPoi: POI[] = [
       ro: ["Cetatea Šabac a fost înființată de Isa-Beg Isaković în 1471.", "Cunoscut pentru Šabački vaśar, un mare târg folcloric tradițional.", "Primul pian din Serbia a fost adus la Šabac în anul 1829.", "Centrul administrativ al districtului Mačva din vestul Serbiei.", "A suferit distrugeri grele în timpul bătăliei de la Cer din 1914.", "Zona pietonală prezintă arhitectură de la sfârșitul secolului XIX."],
       en: ["Šabac Fortress was established by Isa-Beg Isaković in 1471.", "Known for the Šabački vaśar, a large traditional folk fair.", "The first piano in Serbia was brought to Šabac in 1829.", "Center of the Mačva District in western Serbia.", "Suffered heavy destruction during the Battle of Cer in 1914.", "The pedestrian zone features architecture from the late 19th century."],
     },
+    image: "/poi-images/RS-014-sabac.webp",
   },
   {
     id: "RS-014-tronosa",
@@ -926,6 +939,7 @@ export const serbiaDistrictPoi: POI[] = [
       ro: ["Biserica în forma sa actuală a fost finalizată în jurul anului 1317.", "Faimoasă pentru tradiția Ratarske sveće (lumânările plugarilor).", "Vuk Karadžić, reformatorul limbii sârbe, a urmat școala aici.", "Mănăstirea a fost distrusă de turci și reconstruită în 1559.", "Situată într-o pădure pitorească lângă satul Korenita.", "Găzduiește o fântână dedicată legendarilor frați Jugović."],
       en: ["Completed in its current form around 1317.", "Famous for the Ratarske sveće (Farmer's candles) tradition.", "Vuk Karadžić, reformer of the Serbian language, attended school here.", "The monastery was destroyed by Turks and rebuilt in 1559.", "Located in a picturesque forest near the village of Korenita.", "Houses a fountain dedicated to the legendary Jugović brothers."],
     },
+    image: "/poi-images/RS-014-tronosa.webp",
   },
   // RS-015 Južno-Backi
   // RS-016 Srednje-Banatski
@@ -991,6 +1005,7 @@ export const serbiaDistrictPoi: POI[] = [
       ro: ["Una dintre cele mai vechi așezări din regiunea Banatului.", "Găzduiește fabrica de bere Weifert, fondată în anul 1722.", "Mănăstirea Vojlovica datează de la sfârșitul secolului al XIV-lea.", "Situat la doar 15 kilometri nord-est de Belgrad.", "Biserica Adormirea Maicii Domnului are un iconostas celebru.", "Cunoscut pentru marea sa rafinărie de petrol și fabrici chimice."],
       en: ["One of the oldest settlements in the Banat region.", "Home to the Weifert Brewery, founded in 1722.", "Vojlovica Monastery dates back to the late 14th century.", "Located only 15 kilometers northeast of Belgrade.", "The Church of the Assumption features a famous iconostasis.", "Known for its large oil refinery and chemical plants."],
     },
+    image: "/poi-images/RS-017-pancevo.webp",
   },
   {
     id: "RS-017-vrsac",
@@ -1054,6 +1069,7 @@ export const serbiaDistrictPoi: POI[] = [
       ro: ["Tratatul de la Passarowitz a fost semnat aici la 21 iulie 1718.", "Găzduiește Galeria Barili, dedicată pictoriței Milena Pavlović-Barili.", "Jocurile ecvestre Ljubičevo prezintă abilități tradiționale de călărie.", "A servit drept a doua capitală pentru prințul Miloš Obrenović.", "Centrul administrativ al districtului Braničevo din estul Serbiei.", "Orașul deține un muzeu național cu importante descoperiri arheologice."],
       en: ["The Treaty of Passarowitz was signed here on July 21, 1718.", "Home to the Barili Gallery, dedicated to painter Milena Pavlović-Barili.", "Ljubičevo Equestrian Games feature traditional Serbian horseback skills.", "Served as a second capital for Prince Miloš Obrenović.", "Administrative center of the Braničevo District.", "The city museum houses significant archaeological findings."],
     },
+    image: "/poi-images/RS-018-pozarevac.webp",
   },
   {
     id: "RS-018-viminacium",
@@ -1118,6 +1134,7 @@ export const serbiaDistrictPoi: POI[] = [
       ro: ["Cetatea Smederevo are 25 de turnuri masive și ziduri duble.", "A fost ultima capitală medievală a Serbiei înainte de cucerire.", "Cetatea a fost construită în doar doi ani, între 1428 și 1430.", "Cunoscut pentru soiul de struguri albi Smederevka și vinul local.", "Biserica principală din centrul orașului este dedicată Sfântului Gheorghe.", "A găzduit guvernul sârb în timpul Primei Răscoale Sârbe."],
       en: ["Smederevo Fortress features 25 massive towers and double walls.", "Served as the last medieval capital of Serbia before the Ottoman conquest.", "The fortress was built in only two years, between 1428 and 1430.", "Known for the Smederevka white grape variety and wine.", "The main church in the city center is dedicated to Saint George.", "Hosted the Serbian government during the First Serbian Uprising."],
     },
+    image: "/poi-images/RS-020-smederevo-city.webp",
   },
   // RS-021 Nišavski
   // RS-022 Pomoravski (Rasinski/South area) -> Kruševac
@@ -1151,6 +1168,7 @@ export const serbiaDistrictPoi: POI[] = [
       ro: ["Fondat de cneazul Lazăr Hrebeljanović în anul 1371.", "Biserica Lazarica a fost construită în 1375 pentru a celebra nașterea unui fiu.", "Monumentul Eroilor din Kosovo se află în centrul orașului.", "A servit ca punct de plecare pentru armata sârbă înainte de bătălia de la Kosovo.", "Găzduiește un mare complex industrial și chimic.", "Muzeul Național al orașului adăpostește artefacte medievale valoroase."],
       en: ["Founded by Prince Lazar Hrebeljanović in 1371.", "Lazarica Church was built in 1375 to celebrate the birth of a son.", "The Monument to the Kosovo Heroes stands in the city center.", "Served as a starting point for the Serbian army before the Battle of Kosovo.", "Home to a large chemical and industrial complex.", "The City National Museum houses valuable medieval artifacts."],
     },
+    image: "/poi-images/RS-022-krusevac.webp",
   },
   {
     id: "RS-022-ljubostinja",
@@ -1247,6 +1265,7 @@ export const serbiaDistrictPoi: POI[] = [
       ro: ["Orașul a fost menționat documentar pentru prima dată în 1393.", "Valjevo este situat la o altitudine medie de 185 de metri.", "Râul Gradac este considerat unul dintre cele mai curate din Europa.", "Cartierul istoric Tešnjar a început să se dezvolte în secolul XVII.", "Populația orașului este de aproximativ 58.000 de locuitori.", "Muntele Povlen din apropiere atinge o înălțime de 1.347 metri."],
       en: ["The city was first mentioned in historical records in 1393.", "Valjevo sits at an average elevation of 185 meters above sea level.", "The Gradac River is regarded as one of the cleanest in Europe.", "The Tešnjar historic quarter dates back to the 17th century.", "The city has a population of approximately 58,000 residents.", "Nearby Mount Povlen reaches an altitude of 1,347 meters."],
     },
+    image: "/poi-images/RS-025-valjevo.webp",
   },
   {
     id: "RS-025-lelic",
@@ -1278,6 +1297,7 @@ export const serbiaDistrictPoi: POI[] = [
       ro: ["Mănăstirea a fost sfințită oficial la 15 iunie 1922.", "Biserica principală este dedicată Sfântului Nicolae din Mira.", "Episcopul Nikolaj Velimirović s-a născut în satul Lelić în 1881.", "Moaștele episcopului au fost aduse aici din SUA în anul 1991.", "Așezământul a fost transformat în mănăstire de călugări în 1996.", "Catapeteasma datează din perioada fondării mănăstirii."],
       en: ["The monastery was officially consecrated on June 15, 1922.", "The main church is dedicated to Saint Nicholas of Myra.", "Bishop Nikolaj Velimirović was born in Lelić village in 1881.", "The bishop's relics were transferred here from the USA in 1991.", "The site was reorganized as a male monastery in 1996.", "The iconostasis dates back to the time of the monastery's founding."],
     },
+    image: "/poi-images/RS-025-lelic.webp",
   }
 ];
 

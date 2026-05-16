@@ -31,6 +31,7 @@ export const grenadaHistoryV2: POI[] = [
       ro: ["Înălțimea stâncii: 100 m", "Eveniment: 1650", "Număr de victime: 40", "Locație: 15 km nord de St. George's", "Vizitatori anual: 15.000", "Parte a parcului național"],
       en: ["Cliff height: 100 m", "Event: 1650", "Number of victims: 40", "Location: 15 km north of St. George's", "Annual visitors: 15,000", "Part of national park"],
     },
+    image: "/poi-images/grenada-leapers-hill-history-v2.webp",
   },
   {
     id: "grenada-national-museum-history-v2",
@@ -62,6 +63,7 @@ export const grenadaHistoryV2: POI[] = [
       ro: ["Construit: 1704", "Înființat: 1975", "Suprafață expozițională: 800 m²", "Număr de exponate: 5.000", "Vizitatori anual: 30.000", "Preț bilet: 5 USD"],
       en: ["Built: 1704", "Museum founded: 1975", "Exhibition area: 800 sq m", "Number of exhibits: 5,000", "Annual visitors: 30,000", "Admission: $5"],
     },
+    image: "/poi-images/grenada-national-museum-history-v2.webp",
   },
   {
     id: "grenada-fort-frederick-history-v2",
@@ -93,6 +95,7 @@ export const grenadaHistoryV2: POI[] = [
       ro: ["Construit: 1779", "Altitudine: 200 m", "Număr de tunuri: 20", "Grosimea zidului: 2 m", "Vizitatori anual: 40.000", "Suprafață: 5 ha"],
       en: ["Built: 1779", "Elevation: 200 m", "Number of cannons: 20", "Wall thickness: 2 m", "Annual visitors: 40,000", "Area: 5 hectares"],
     },
+    image: "/poi-images/grenada-fort-frederick-history-v2.webp",
   },
   {
     id: "grenada-carenage-history-v2",
@@ -124,6 +127,7 @@ export const grenadaHistoryV2: POI[] = [
       ro: ["Portul Carenage are o adâncime de 7 până la 10 metri.", "Lungimea cheiului este de 1,2 kilometri.", "Francezii au utilizat portul începând cu 1650.", "În 1779 a avut loc bătălia navală pentru Grenada.", "Există 18 magazii istorice restaurate de-a lungul portului.", "Portul poate primi până la 3 vase de croazieră simultan."],
       en: ["The Carenage harbor depth averages 8 meters.", "The waterfront stretches approximately 1.5 km.", "French use of the harbor began in 1650.", "The Battle of Grenada in 1779 occurred here.", "There are 22 historic warehouses along the quay.", "The harbor can accommodate up to 5 cruise ships."],
     },
+    image: "/poi-images/grenada-carenage-history-v2.webp",
   },
   {
     id: "grenada-st-georges-anglican-church-history-v2",
@@ -155,6 +159,7 @@ export const grenadaHistoryV2: POI[] = [
       ro: ["Biserica a fost finalizată în 1825.", "Clopotnița are 30 de metri înălțime.", "Cutremurul din 1871 a avariat grav acoperișul.", "Capacitatea bisericii este de 250 de persoane.", "Vitraliile datează din 1880.", "În curtea bisericii sunt 35 de morminte istorice."],
       en: ["The church was completed in 1825.", "Its bell tower is 30 meters high.", "It survived Hurricane Ivan in 2004.", "The church seats 300 people.", "Stained glass windows were installed in 1850.", "The churchyard contains 40 graves from the 1800s."],
     },
+    image: "/poi-images/grenada-st-georges-anglican-church-history-v2.webp",
   },
   {
     id: "grenada-pearls-airport-history-v2",
@@ -186,6 +191,7 @@ export const grenadaHistoryV2: POI[] = [
       ro: ["Aeroportul a fost construit în 1943.", "Pista avea 1.600 de metri lungime.", "A fost închis în 1984.", "Costurile de construcție au fost de 1,2 milioane de dolari.", "A deservit rute către Trinidad și Barbados.", "Terminalul avea o capacitate de 300 de pasageri pe oră."],
       en: ["The airport was built in 1943 by the US Army.", "Runway length was 1,600 meters (5,250 ft).", "It closed in 1984 after the new airport opened.", "Construction cost was $1.5 million.", "At its peak, it handled 50 flights per week.", "The terminal had two gates and a control tower."],
     },
+    image: "/poi-images/grenada-pearls-airport-history-v2.webp",
   },
   {
     id: "grenada-mt-rich-petroglyphs-history-v2",
@@ -217,6 +223,7 @@ export const grenadaHistoryV2: POI[] = [
       ro: ["Petroglifele datează din perioada 500-1000 d.Hr.", "Sunt 15 gravuri identificate până acum.", "Cea mai mare figură are 2,2 metri înălțime.", "Situl a fost declarat monument național în 1955.", "Se întind pe o distanță de 150 de metri de-a lungul râului.", "Una dintre figuri reprezintă un șaman."],
       en: ["The petroglyphs are estimated to be 1,000-1,500 years old.", "There are 13 distinct carvings on the boulders.", "The largest human figure is 2.1 meters tall.", "The site was declared a protected area in 1950.", "It is located 12 km from Grenville.", "The carvings include images of birds and turtles."],
     },
+    image: "/poi-images/grenada-mt-rich-petroglyphs-history-v2.webp",
   },
   {
     id: "grenada-fort-matthew-history-v2",
@@ -248,6 +255,7 @@ export const grenadaHistoryV2: POI[] = [
       ro: ["Fortul a fost construit în 1779.", "Zidurile au o grosime de 4 metri.", "Altitudinea este de 90 de metri deasupra mării.", "Muzeul a fost inaugurat în 1976.", "Fortul are 12 tunuri istorice.", "A suferit daune în invazia din 1983."],
       en: ["Fort Matthew was built in 1779 by the French.", "Its walls are 4 meters thick.", "It stands 100 meters above sea level.", "The museum opened in 1976.", "There are 9 historic cannons on site.", "It was bombed during the 1983 invasion."],
     },
+    image: "/poi-images/grenada-fort-matthew-history-v2.webp",
   },
   {
     id: "grenada-market-square-history-v2",
@@ -279,6 +287,7 @@ export const grenadaHistoryV2: POI[] = [
       ro: ["Piața a fost înființată în 1705.", "Fântâna datează din 1880.", "Suprafața este de 2.300 de metri pătrați.", "Sunt 12 clădiri istorice în jurul pieței.", "Independența Grenadei a fost proclamată aici în 1974.", "Piața găzduiește 80 de tarabe zilnic."],
       en: ["Market Square was established in 1705.", "The fountain was built in 1880.", "It covers an area of 2,400 square meters.", "There are 16 historic buildings surrounding the square.", "Independence was declared here on Feb 7, 1974.", "The market operates from 6 AM to 6 PM daily."],
     },
+    image: "/poi-images/grenada-market-square-history-v2.webp",
   },
   {
     id: "grenada-dougaldston-estate-history-v2",
@@ -310,6 +319,7 @@ export const grenadaHistoryV2: POI[] = [
       ro: ["Plantația a fost fondată în 1760.", "Producea anual 12 tone de nucșoară.", "Casa conacerească are 14 camere.", "Moara de procesare datează din 1815.", "Aproximativ 90 de sclavi lucrau aici.", "Suprafața este de 45 de hectare."],
       en: ["The estate was founded in 1760.", "It produced 15 tons of nutmeg annually.", "The manor house has 11 rooms.", "The processing mill was built in 1820.", "Over 100 slaves worked on the estate.", "The estate covers 40 hectares."],
     },
+    image: "/poi-images/grenada-dougaldston-estate-history-v2.webp",
   },
   {
     id: "grenada-carriacou-museum-history-v2",
@@ -341,6 +351,7 @@ export const grenadaHistoryV2: POI[] = [
       ro: ["Muzeul a fost deschis în 1982.", "Clădirea datează din 1750.", "Colecția include 250 de artefacte.", "Suprafața expozițională este de 180 de metri pătrați.", "Sunt expuse 40 de modele de nave.", "Muzeul atrage 4.000 de vizitatori pe an."],
       en: ["The museum opened in 1982.", "The building was constructed in 1750.", "It displays over 300 artifacts.", "Exhibition space is 200 square meters.", "The model ship collection includes 45 pieces.", "Annual visitors number around 4,500."],
     },
+    image: "/poi-images/grenada-carriacou-museum-history-v2.webp",
   },
   {
     id: "grenada-sendall-tunnel-history-v2",
@@ -372,6 +383,7 @@ export const grenadaHistoryV2: POI[] = [
       ro: ["Tunelul a fost finalizat în 1894.", "Lungimea sa este de 40 de metri.", "Lățimea este de 5 metri.", "Costul construcției a fost de 9.000 de lire sterline.", "A fost săpat manual.", "A redus călătoria cu 20 de minute."],
       en: ["The tunnel was completed in 1894.", "It is 40 meters (131 feet) long.", "Width is 5 meters (16 feet).", "Construction cost was 8,500 pounds.", "It was carved by hand using picks.", "Before the tunnel, the route required a 3 km detour."],
     },
+    image: "/poi-images/grenada-sendall-tunnel-history-v2.webp",
   },
   {
     id: "grenada-house-of-parliament-history-v2",
@@ -403,5 +415,6 @@ export const grenadaHistoryV2: POI[] = [
       ro: ["Clădirea a fost construită în 1840 ca o cazarmă.", "Găzduiește 13 senatori și 15 deputați.", "Sala de ședințe are 120 de locuri.", "A fost transformată în parlament în 1974.", "Are două etaje.", "Oferă vedere spre port."],
       en: ["The building was built as a barracks in 1840.", "It houses 13 senators and 15 representatives.", "The main chamber seats 120 people.", "It became the parliament building in 1974.", "The structure has three floors.", "It is located at an elevation of 30 meters."],
     },
+    image: "/poi-images/grenada-house-of-parliament-history-v2.webp",
   }
 ];

@@ -145,7 +145,8 @@ export const serbiaPoiExtraOther = ([
       hu: ["A ritka szerb lucfenyő otthona.", "Itt található a látványos Drina-kanyon.", "Változatos növény- és állatvilágban gazdag."],
       ro: ["Adăpostește rarul molid sârbesc.", "Include spectaculosul Canion al râului Drina.", "Bogat în floră și faună diversă."],
       en: ["Home to the rare Serbian spruce.", "Features the spectacular Drina River Canyon.", "Rich in diverse flora and fauna."]
-    }
+    },
+    image: "/poi-images/nature-tara-national-park.webp",
   },
   {
     id: "nature-djerdap-national-park",
@@ -203,7 +204,8 @@ export const serbiaPoiExtraOther = ([
       hu: ["Szerbia legnagyobb és leghíresebb síközpontja.", "A sok napsütéses nap miatt 'A Nap hegyeként' ismert.", "1981-ben nyilvánították nemzeti parkká."],
       ro: ["Cea mai mare și mai faimoasă stațiune de schi din Serbia.", "Cunoscut drept 'Muntele Soarelui' pentru numeroasele sale zile însorite.", "Desemnat parc național în 1981."],
       en: ["Serbia's largest and most famous ski resort.", "Known as the 'Mountain of the Sun' for its many sunny days.", "Designated as a national park in 1981."]
-    }
+    },
+    image: "/poi-images/nature-kopaonik.webp",
   },
   {
     id: "nature-fruska-gora",
@@ -232,7 +234,8 @@ export const serbiaPoiExtraOther = ([
       hu: ["16 történelmi ortodox kolostor otthona.", "Szerbia legrégebbi nemzeti parkja.", "Kiváló bortermeléséről híres."],
       ro: ["Găzduiește 16 mănăstiri ortodoxe istorice.", "Cel mai vechi parc național din Serbia.", "Renumit pentru producția sa excelentă de vin."],
       en: ["Home to 16 historic Orthodox monasteries.", "Serbia's oldest national park.", "Renowned for its excellent wine production."]
-    }
+    },
+    image: "/poi-images/nature-fruska-gora.webp",
   },
   {
     id: "nature-uvac",

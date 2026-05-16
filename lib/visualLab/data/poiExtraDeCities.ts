@@ -59,7 +59,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "7 domb mínusz 3 = ?",
       "ro": "7 coline minus 3 = ?",
       "en": "7 hills minus 3 = ?"
-    }
+    },
+    image: "/poi-images/bamberg-extra.webp",
   },
   {
     "id": "rosenheim-extra",
@@ -118,7 +119,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 folyó + 3 hegy = ?",
       "ro": "2 râuri + 3 munți = ?",
       "en": "2 rivers + 3 mountains = ?"
-    }
+    },
+    image: "/poi-images/rosenheim-extra.webp",
   },
   {
     "id": "garmisch-extra",
@@ -177,7 +179,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Ha a hegy 2962m magas, mennyi hiányzik 3000m-ig?",
       "ro": "Dacă muntele are 2962m, cât mai e până la 3000m?",
       "en": "If the mountain is 2962m, how much is missing to 3000m?"
-    }
+    },
+    image: "/poi-images/garmisch-extra.webp",
   },
   {
     "id": "berchtesgaden-extra",
@@ -236,7 +239,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "3 hegy + 2 tó = ?",
       "ro": "3 munți + 2 lacuri = ?",
       "en": "3 mountains + 2 lakes = ?"
-    }
+    },
+    image: "/poi-images/berchtesgaden-extra.webp",
   },
   {
     "id": "fuessen-extra",
@@ -295,7 +299,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Ha 5 várnak egyenként 4 tornya van, hány torony az összesen?",
       "ro": "Dacă 5 castele au câte 4 turnuri, câte turnuri sunt în total?",
       "en": "If 5 castles have 4 towers each, how many towers is that?"
-    }
+    },
+    image: "/poi-images/fuessen-extra.webp",
   },
   {
     "id": "erlangen-extra",
@@ -354,7 +359,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Ha 100 diák 4 terembe megy, hányan vannak egy teremben?",
       "ro": "Dacă 100 de studenți intră în 4 săli, câți sunt într-o sală?",
       "en": "If 100 students go into 4 rooms, how many are in one room?"
-    }
+    },
+    image: "/poi-images/erlangen-extra.webp",
   },
   {
     "id": "aschaffenburg-extra",
@@ -413,7 +419,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Kastély (Schloss) 7 betű. Nizza 5. Összesen?",
       "ro": "Castel (Schloss) are 7 litere. Nisa are 5. Împreună?",
       "en": "Castle (Schloss) has 7 letters. Nice has 5. Together?"
-    }
+    },
+    image: "/poi-images/aschaffenburg-extra.webp",
   },
   {
     "id": "hof-extra",
@@ -472,7 +479,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Ha egy film 90 perces, hány óra az?",
       "ro": "Dacă un film durează 90 de minute, câte ore sunt?",
       "en": "If a movie is 90 minutes long, how many hours is that?"
-    }
+    },
+    image: "/poi-images/hof-extra.webp",
   },
   {
     "id": "coburg-extra",
@@ -531,7 +539,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Egy erődnek 4 fala van, mindegyiken 3 őr. Hány őr van?",
       "ro": "O cetate are 4 ziduri cu câte 3 paznici. Câți paznici sunt?",
       "en": "A fortress has 4 walls with 3 guards each. How many guards?"
-    }
+    },
+    image: "/poi-images/coburg-extra.webp",
   },
   {
     "id": "moenchengladbach-extra",
@@ -590,7 +599,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "11 játékos + 11 játékos = ?",
       "ro": "11 jucători + 11 jucători = ?",
       "en": "11 players + 11 players = ?"
-    }
+    },
+    image: "/poi-images/moenchengladbach-extra.webp",
   },
   {
     "id": "solingen-extra",
@@ -649,7 +659,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Ha 1 ollónak 2 pengéje van, hány pengéje van 5 ollónak?",
       "ro": "Dacă 1 foarfecă are 2 lame, câte lame au 5 foarfece?",
       "en": "If 1 pair of scissors has 2 blades, how many blades do 5 scissors have?"
-    }
+    },
+    image: "/poi-images/solingen-extra.webp",
   },
   {
     "id": "krefeld-extra",
@@ -708,7 +719,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Bársony és selyem: 2 anyag + 2 szín = ?",
       "ro": "Catifea și mătase: 2 materiale + 2 culori = ?",
       "en": "Velvet and silk: 2 fabrics + 2 colors = ?"
-    }
+    },
+    image: "/poi-images/krefeld-extra.webp",
   },
   {
     "id": "paderborn-extra",
@@ -767,7 +779,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Ha a folyó 4000 méter hosszú, hány kilométer ez?",
       "ro": "Dacă râul are 4000 de metri, câți kilometri sunt?",
       "en": "If the river is 4000 meters long, how many kilometers is that?"
-    }
+    },
+    image: "/poi-images/paderborn-extra.webp",
   },
   {
     "id": "siegen-extra",
@@ -826,7 +839,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Ha egy festő havonta 5 képet fest, mennyit fest egy évben?",
       "ro": "Dacă un pictor pictează 5 tablouri pe lună, câte într-un an?",
       "en": "If a painter paints 5 pictures a month, how many in a year?"
-    }
+    },
+    image: "/poi-images/siegen-extra.webp",
   },
   {
     "id": "hamm-extra",
@@ -885,7 +899,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Egy elefánt 4000 kg. Mennyit nyom 2 elefánt?",
       "ro": "Un elefant cântărește 4000 kg. Cât cântăresc 2 elefanți?",
       "en": "An elephant weighs 4000 kg. How much do 2 elephants weigh?"
-    }
+    },
+    image: "/poi-images/hamm-extra.webp",
   },
   {
     "id": "hagen-extra",
@@ -944,7 +959,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Ha Hagennek 4 folyója van, hány partja van?",
       "ro": "Dacă Hagen are 4 râuri, câte maluri sunt?",
       "en": "If Hagen has 4 rivers, how many banks are there?"
-    }
+    },
+    image: "/poi-images/hagen-extra.webp",
   },
   {
     "id": "leverkusen-extra",
@@ -1003,7 +1019,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Ha 4 focimeccs egyenként 90 perces, hány perc összesen?",
       "ro": "Dacă 4 meciuri de fotbal durează 90 de minute, câte minute în total?",
       "en": "If 4 football matches last 90 minutes each, how many minutes in total?"
-    }
+    },
+    image: "/poi-images/leverkusen-extra.webp",
   },
   {
     "id": "recklinghausen-extra",
@@ -1062,7 +1079,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Ha egy fesztivál 3 hétig tart, hány nap az?",
       "ro": "Dacă un festival durează 3 săptămâni, câte zile sunt?",
       "en": "If a festival lasts 3 weeks, how many days is that?"
-    }
+    },
+    image: "/poi-images/recklinghausen-extra.webp",
   },
   {
     "id": "mannheim-extra",
@@ -1121,7 +1139,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Egy sakktáblán 8x8 mező van. Hány mező ez?",
       "ro": "O tablă de șah are 8x8 pătrate. Câte pătrate sunt?",
       "en": "A chessboard has 8x8 squares. How many squares is that?"
-    }
+    },
+    image: "/poi-images/mannheim-extra.webp",
   },
   {
     "id": "karlsruhe-extra",
@@ -1180,7 +1199,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Egy legyezőnek 32 bordája van. A fele eltört. Hány maradt?",
       "ro": "Un evantai are 32 de spițe. Jumătate sunt rupte. Câte au rămas?",
       "en": "A fan has 32 ribs. Half are broken. How many are left?"
-    }
+    },
+    image: "/poi-images/karlsruhe-extra.webp",
   },
   {
     "id": "heilbronn-extra",
@@ -1239,7 +1259,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Ha 3 ládában egyenként 12 szőlő van, hány szőlő az összesen?",
       "ro": "Dacă 3 lăzi au câte 12 struguri, câți struguri sunt în total?",
       "en": "If 3 boxes have 12 grapes each, how many grapes is that?"
-    }
+    },
+    image: "/poi-images/heilbronn-extra.webp",
   },
   {
     "id": "pforzheim-extra",
@@ -1298,7 +1319,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Az arany csillog. 3 óra + 4 gyűrű = hány ékszer?",
       "ro": "Aurul strălucește. 3 ceasuri + 4 inele = câte bijuterii?",
       "en": "Gold shines. 3 watches + 4 rings = how many pieces of jewelry?"
-    }
+    },
+    image: "/poi-images/pforzheim-extra.webp",
   },
   {
     "id": "reutlingen-extra",
@@ -1357,7 +1379,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Ha egy utca 31 cm széles, hány mm az?",
       "ro": "Dacă o stradă are 31 cm lățime, câți mm înseamnă?",
       "en": "If a street is 31 cm wide, how many mm is that?"
-    }
+    },
+    image: "/poi-images/reutlingen-extra.webp",
   },
   {
     "id": "esslingen-extra",
@@ -1416,7 +1439,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Ha egy favázas ház 400 éves, melyik évszázadból származik?",
       "ro": "Dacă o casă cu structură de lemn are 400 de ani, din ce secol este?",
       "en": "If a half-timbered house is 400 years old, what century is it from?"
-    }
+    },
+    image: "/poi-images/esslingen-extra.webp",
   },
   {
     "id": "sindelfingen-extra",
@@ -1475,7 +1499,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Ha a gyárban naponta 1000 autót építenek, mennyit 5 nap alatt?",
       "ro": "Dacă fabrica construiește 1000 de mașini pe zi, câte în 5 zile?",
       "en": "If the factory builds 1000 cars a day, how many in 5 days?"
-    }
+    },
+    image: "/poi-images/sindelfingen-extra.webp",
   },
   {
     "id": "aalen-extra",
@@ -1534,7 +1559,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Ha 50 római alszik 5 sátorban, hány római jut egy sátorra?",
       "ro": "Dacă 50 de romani dorm în 5 corturi, câți romani per cort?",
       "en": "If 50 Romans sleep in 5 tents, how many Romans per tent?"
-    }
+    },
+    image: "/poi-images/aalen-extra.webp",
   },
   {
     "id": "schwaebisch-gmuend-extra",
@@ -1593,7 +1619,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "1 aranygyűrű + 2 ezüstlánc = hány ékszer?",
       "ro": "1 inel de aur + 2 lanțuri de argint = câte bijuterii?",
       "en": "1 gold ring + 2 silver chains = how many pieces of jewelry?"
-    }
+    },
+    image: "/poi-images/schwaebisch-gmuend-extra.webp",
   },
   {
     "id": "ravensburg-extra",
@@ -1652,7 +1679,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Ha egy játéknak 4 játékosa van, és 3 játék fut, hány játékos játszik?",
       "ro": "Dacă un joc are 4 jucători și se desfășoară 3 jocuri, câți jucători joacă?",
       "en": "If a game has 4 players and 3 games are running, how many players are playing?"
-    }
+    },
+    image: "/poi-images/ravensburg-extra.webp",
   },
   {
     "id": "fulda-extra",
@@ -1711,7 +1739,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "A Fulda folyó 5 betű, a Fulda város is. Összesen?",
       "ro": "Râul Fulda are 5 litere, orașul Fulda la fel. Împreună?",
       "en": "River Fulda has 5 letters, the city Fulda too. Together?"
-    }
+    },
+    image: "/poi-images/fulda-extra.webp",
   },
   {
     "id": "offenbach-extra",
@@ -1770,7 +1799,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Ha egy táska 3 bőrdarabból áll, hányból áll 4 táska?",
       "ro": "Dacă o geantă constă din 3 bucăți de piele, din câte sunt făcute 4 genți?",
       "en": "If a bag consists of 3 pieces of leather, how many in 4 bags?"
-    }
+    },
+    image: "/poi-images/offenbach-extra.webp",
   },
   {
     "id": "hanau-extra",
@@ -1829,7 +1859,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Hófehérkének 7 törpéje van. Hány törpéje van 3 Hófehérkének?",
       "ro": "Albă ca Zăpada are 7 pitici. Câți pitici au 3 Albe ca Zăpada?",
       "en": "Snow White has 7 dwarfs. How many dwarfs do 3 Snow Whites have?"
-    }
+    },
+    image: "/poi-images/hanau-extra.webp",
   },
   {
     "id": "wetzlar-extra",
@@ -1888,7 +1919,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Ha egy távcsőnek 2 lencséje van, hány lencséje van 6 távcsőnek?",
       "ro": "Dacă un binoclu are 2 lentile, câte lentile au 6 binocluri?",
       "en": "If a pair of binoculars has 2 lenses, how many lenses do 6 binoculars have?"
-    }
+    },
+    image: "/poi-images/wetzlar-extra.webp",
   },
   {
     "id": "limburg-extra",
@@ -1947,7 +1979,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "A dómnak 7 tornya van. 2 torony elöl. Hány hátul?",
       "ro": "Domul are 7 turnuri. 2 turnuri sunt în față. Câte în spate?",
       "en": "The cathedral has 7 towers. 2 towers are in front. How many in back?"
-    }
+    },
+    image: "/poi-images/limburg-extra.webp",
   },
   {
     "id": "bad-homburg-extra",
@@ -2006,7 +2039,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Ha 3 forrás percenként 5 liter vizet ad, mennyi az összesen?",
       "ro": "Dacă 3 izvoare dau fiecare 5 litri de apă pe minut, cât împreună?",
       "en": "If 3 springs yield 5 liters of water per minute each, how much together?"
-    }
+    },
+    image: "/poi-images/bad-homburg-extra.webp",
   },
   {
     "id": "friedberg-extra",
@@ -2065,7 +2099,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Elvis 2 évig volt Friedbergben. Hány hónap ez?",
       "ro": "Elvis a fost 2 ani în Friedberg. Câte luni înseamnă?",
       "en": "Elvis was in Friedberg for 2 years. How many months is that?"
-    }
+    },
+    image: "/poi-images/friedberg-extra.webp",
   },
   {
     "id": "ruesselsheim-extra",
@@ -2124,7 +2159,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Ha 4 autónak egyenként 5 ülése van, hány személy utazhat velük?",
       "ro": "Dacă 4 mașini au fiecare 5 locuri, câte persoane pot călători?",
       "en": "If 4 cars have 5 seats each, how many people can ride?"
-    }
+    },
+    image: "/poi-images/ruesselsheim-extra.webp",
   },
   {
     "id": "bensheim-extra",
@@ -2183,7 +2219,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Ha 10 mandulafa egyenként 5 kiló mandulát ad, hány kiló az összesen?",
       "ro": "Dacă 10 migdali dau fiecare 5 kilograme de migdale, câte kilograme?",
       "en": "If 10 almond trees give 5 kilos of almonds each, how many kilos?"
-    }
+    },
+    image: "/poi-images/bensheim-extra.webp",
   },
   {
     "id": "eschwege-extra",
@@ -2242,7 +2279,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Egy tó 2 km hosszú és 1 km széles. 2 + 1 = ?",
       "ro": "Un lac are 2 km lungime și 1 km lățime. 2 + 1 = ?",
       "en": "A lake is 2 km long and 1 km wide. 2 + 1 = ?"
-    }
+    },
+    image: "/poi-images/eschwege-extra.webp",
   },
   {
     "id": "neu-isenburg-extra",
@@ -2301,7 +2339,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Ha egy repülőgépnek 4 hajtóműve van, hány van 2 repülőgépnek?",
       "ro": "Dacă un avion are 4 motoare, câte au 2 avioane?",
       "en": "If an airplane has 4 engines, how many do 2 airplanes have?"
-    }
+    },
+    image: "/poi-images/neu-isenburg-extra.webp",
   },
   {
     "id": "oldenburg-extra",
@@ -2360,7 +2399,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Ha 15 000 diák él a 170 000 lakosú városban, hányan nem diákok?",
       "ro": "Dacă 15.000 de studenți locuiesc aici dintr-o populație de 170.000, câți nu sunt studenți?",
       "en": "If 15,000 students live here out of a population of 170,000, how many are not students?"
-    }
+    },
+    image: "/poi-images/oldenburg-extra.webp",
   },
   {
     "id": "salzgitter-extra",
@@ -2419,7 +2459,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Ha Salzgitterben 30 000 tonna acélt gyártanak 3 nap alatt, mennyi tonna jut egy napra?",
       "ro": "Dacă în Salzgitter se produc 30.000 tone de oțel în 3 zile, câte tone se produc pe zi?",
       "en": "If 30,000 tons of steel are produced in Salzgitter in 3 days, how many tons is that per day?"
-    }
+    },
+    image: "/poi-images/salzgitter-extra.webp",
   },
   {
     "id": "lueneburg-extra",
@@ -2478,7 +2519,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Ha 1 liter víz 30 gramm sót tartalmaz, mennyi só van 50 literben?",
       "ro": "Dacă 1 litru de apă conține 30 grame de sare, câtă sare este în 50 litri?",
       "en": "If 1 liter of water contains 30 grams of salt, how much salt is in 50 liters?"
-    }
+    },
+    image: "/poi-images/lueneburg-extra.webp",
   },
   {
     "id": "emden-extra",
@@ -2537,7 +2579,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Egy teherhajó 2500 autót rakodik be. Hány autót rakodik be 4 ilyen hajó?",
       "ro": "O navă de marfă încarcă 2.500 de mașini. Câte mașini încarcă 4 astfel de nave?",
       "en": "A cargo ship loads 2,500 cars. How many cars do 4 such ships load?"
-    }
+    },
+    image: "/poi-images/emden-extra.webp",
   },
   {
     "id": "stade-extra",
@@ -2596,7 +2639,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Svédország 1645-től 1712-ig uralkodott Stade felett. Hány év volt ez?",
       "ro": "Suedia a domnit peste Stade din 1645 până în 1712. Câți ani au fost?",
       "en": "Sweden ruled Stade from 1645 to 1712. How many years was that?"
-    }
+    },
+    image: "/poi-images/stade-extra.webp",
   },
   {
     "id": "cuxhaven-extra",
@@ -2655,7 +2699,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "A gyalogtúra a tengerfenéken 10 km hosszú. 4 km/h sebességgel mennyi időbe telik?",
       "ro": "Drumeția este lungă de 10 km. La 4 km/h, cât timp durează?",
       "en": "The mudflat hike is 10 km long. At 4 km/h, how long does it take?"
-    }
+    },
+    image: "/poi-images/cuxhaven-extra.webp",
   },
   {
     "id": "lingen-extra",
@@ -2714,7 +2759,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Ha 6 szélturbina egyenként 2 megawattot termel, hány megawatt ez összesen?",
       "ro": "Dacă 6 turbine eoliene produc fiecare 2 megawați, câți megawați sunt în total?",
       "en": "If 6 wind turbines produce 2 megawatts each, how many megawatts is that in total?"
-    }
+    },
+    image: "/poi-images/lingen-extra.webp",
   },
   {
     "id": "kaiserslautern-extra",
@@ -2773,7 +2819,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Egy focimeccs 90 percig tart. Hány percig tart 3 meccs összesen?",
       "ro": "Un meci de fotbal durează 90 de minute. Câte minute durează 3 meciuri în total?",
       "en": "A football match lasts 90 minutes. How many minutes do 3 matches last in total?"
-    }
+    },
+    image: "/poi-images/kaiserslautern-extra.webp",
   },
   {
     "id": "speyer-extra",
@@ -2832,7 +2879,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "A dómot 1030-ban kezdték el építeni és 1061-ben szentelték fel. Mennyi ideig tartott az építkezés?",
       "ro": "Catedrala a fost începută în 1030 și consacrată în 1061. Cât a durat construcția?",
       "en": "The cathedral was started in 1030 and consecrated in 1061. How long did the construction take?"
-    }
+    },
+    image: "/poi-images/speyer-extra.webp",
   },
   {
     "id": "neustadt-extra",
@@ -2891,7 +2939,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Ha egy borfesztiválon napi 1500 poharat töltenek meg, hányat töltenek meg 4 nap alatt?",
       "ro": "Dacă la un festival al vinului se umplu 1.500 de pahare pe zi, câte se umplu în 4 zile?",
       "en": "If 1,500 glasses are filled per day at a wine festival, how many are filled in 4 days?"
-    }
+    },
+    image: "/poi-images/neustadt-extra.webp",
   },
   {
     "id": "idar-oberstein-extra",
@@ -2950,7 +2999,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Egy csiszoló 1 óra alatt 4 drágakövet csiszol. Hány óra alatt végez 28 drágakővel?",
       "ro": "Un șlefuitor polizează 4 pietre prețioase în 1 oră. De câte ore are nevoie pentru 28?",
       "en": "A polisher finishes 4 gemstones in 1 hour. How many hours does it take for 28 gemstones?"
-    }
+    },
+    image: "/poi-images/idar-oberstein-extra.webp",
   },
   {
     "id": "bad-kreuznach-extra",
@@ -3009,7 +3059,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Ha 4 hídi ház van, és mindegyiknek 2 emelete van, hány emelet van összesen?",
       "ro": "Dacă există 4 case pe pod și fiecare are 2 etaje, câte etaje sunt în total?",
       "en": "If there are 4 bridge houses and each has 2 floors, how many floors is that in total?"
-    }
+    },
+    image: "/poi-images/bad-kreuznach-extra.webp",
   },
   {
     "id": "pirmasens-extra",
@@ -3068,7 +3119,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Ha egy gyárban naponta 500 pár cipőt gyártanak, hány pár készül 5 nap alatt?",
       "ro": "Dacă o fabrică produce 500 de perechi de pantofi pe zi, câte perechi sunt în 5 zile?",
       "en": "If a factory makes 500 pairs of shoes a day, how many pairs are made in 5 days?"
-    }
+    },
+    image: "/poi-images/pirmasens-extra.webp",
   },
   {
     "id": "andernach-extra",
@@ -3127,7 +3179,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Ha a gejzír 60 méter magas, mennyi az centiméterben?",
       "ro": "Dacă gheizerul are 60 de metri înălțime, câți centimetri reprezintă asta?",
       "en": "If the geyser is 60 meters high, how much is that in centimeters?"
-    }
+    },
+    image: "/poi-images/andernach-extra.webp",
   },
   {
     "id": "bingen-extra",
@@ -3186,7 +3239,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Ha egy torony 30 méter magas és minden emelet 5 méter, hány emelete van?",
       "ro": "Dacă un turn are 30 de metri înălțime și fiecare etaj are 5 metri, câte etaje are?",
       "en": "If a tower is 30 meters high and each floor is 5 meters, how many floors does it have?"
-    }
+    },
+    image: "/poi-images/bingen-extra.webp",
   },
   {
     "id": "frankenthal-extra",
@@ -3245,7 +3299,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Ha 2 városkapu egyenként 15 méter széles, milyen szélesek összesen?",
       "ro": "Dacă 2 porți ale orașului au fiecare 15 metri lățime, ce lățime au ambele?",
       "en": "If 2 city gates are each 15 meters wide, how wide are they together?"
-    }
+    },
+    image: "/poi-images/frankenthal-extra.webp",
   },
   {
     "id": "neuwied-extra",
@@ -3304,7 +3359,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "A gát 7,5 kilométer hosszú. Hány méter ez?",
       "ro": "Digul are 7,5 kilometri lungime. Câți metri înseamnă asta?",
       "en": "The dyke is 7.5 kilometers long. How many meters is that?"
-    }
+    },
+    image: "/poi-images/neuwied-extra.webp",
   },
   {
     "id": "zweibruecken-extra",
@@ -3363,7 +3419,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Ha a rózsakertben 60 000 rózsa nyílik, és 10 000 piros, hány más színű?",
       "ro": "Dacă înfloresc 60.000 de trandafiri și 10.000 sunt roșii, câți au alte culori?",
       "en": "If 60,000 roses bloom in the rose garden and 10,000 are red, how many are other colors?"
-    }
+    },
+    image: "/poi-images/zweibruecken-extra.webp",
   },
   {
     "id": "plauen-extra",
@@ -3422,7 +3479,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Egy darab csipke 15 euróba kerül. Mennyibe kerül 4 darab?",
       "ro": "O bucată de dantelă costă 15 euro. Cât costă 4 bucăți?",
       "en": "A piece of lace costs 15 euros. How much do 4 pieces cost?"
-    }
+    },
+    image: "/poi-images/plauen-extra.webp",
   },
   {
     "id": "bautzen-extra",
@@ -3481,7 +3539,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Bautzenben 17 torony van. Ha 4-et már meglátogattál, mennyi maradt?",
       "ro": "Bautzen are 17 turnuri. Dacă ai vizitat 4, câte mai rămân?",
       "en": "Bautzen has 17 towers. If you have visited 4, how many are left?"
-    }
+    },
+    image: "/poi-images/bautzen-extra.webp",
   },
   {
     "id": "pirna-extra",
@@ -3540,7 +3599,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Egy túra a Szász Svájcba oda 3 óra, vissza 2,5 óra. Mennyi idő ez összesen?",
       "ro": "O drumeție în Elveția Saxonă durează 3 ore la dus și 2,5 ore la întors. Cât durează în total?",
       "en": "A hike into Saxon Switzerland takes 3 hours there and 2.5 hours back. How long is that in total?"
-    }
+    },
+    image: "/poi-images/pirna-extra.webp",
   },
   {
     "id": "hoyerswerda-extra",
@@ -3599,7 +3659,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Egy tó 4 km hosszú és 2 km széles. Mennyi a területe (hossz szorozva szélességgel)?",
       "ro": "Un lac are 4 km lungime și 2 km lățime. Care este aria sa (lungime ori lățime)?",
       "en": "A lake is 4 km long and 2 km wide. What is its area (length times width)?"
-    }
+    },
+    image: "/poi-images/hoyerswerda-extra.webp",
   },
   {
     "id": "riesa-extra",
@@ -3658,7 +3719,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Ha egy gyárban napi 5000 csomag tésztát gyártanak, hány csomagot gyártanak 2 nap alatt?",
       "ro": "Dacă o fabrică produce 5.000 de pachete de paste pe zi, câte se produc în 2 zile?",
       "en": "If a factory produces 5,000 packs of pasta a day, how many in 2 days?"
-    }
+    },
+    image: "/poi-images/riesa-extra.webp",
   },
   {
     "id": "radebeul-extra",
@@ -3717,7 +3779,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Karl May több mint 70 könyvet írt. Ha minden évben 2 könyvet írt, hány évre volt szüksége?",
       "ro": "Karl May a scris peste 70 de cărți. Dacă a scris 2 pe an, de câți ani a avut nevoie?",
       "en": "Karl May wrote over 70 books. If he wrote 2 books a year, how many years did he need?"
-    }
+    },
+    image: "/poi-images/radebeul-extra.webp",
   },
   {
     "id": "glauchau-extra",
@@ -3776,7 +3839,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Ha egy kastély udvarán 5 pad van és mindegyiken 3 ember fér el, hány embernek van hely?",
       "ro": "Dacă în curtea unui castel sunt 5 bănci și pe fiecare încap 3 persoane, câte persoane pot sta?",
       "en": "If there are 5 benches in a castle courtyard and 3 people fit on each, how many people can sit?"
-    }
+    },
+    image: "/poi-images/glauchau-extra.webp",
   },
   {
     "id": "crimmitschau-extra",
@@ -3835,7 +3899,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Egy jégkorongmérkőzés három 20 perces harmadból áll. Hány perc a rendes játékidő?",
       "ro": "Un meci de hochei are 3 reprize a câte 20 de minute. Câte minute este timpul regulamentar?",
       "en": "An ice hockey game has 3 periods of 20 minutes each. How many minutes is the regular playing time?"
-    }
+    },
+    image: "/poi-images/crimmitschau-extra.webp",
   },
   {
     "id": "annaberg-buchholz-extra",
@@ -3894,7 +3959,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Egy bányász naponta 5 kg ezüstércet bányászik. Mennyit bányászik 6 nap alatt?",
       "ro": "Un miner extrage 5 kg de minereu de argint pe zi. Cât extrage în 6 zile?",
       "en": "A miner mines 5 kg of silver ore a day. How much does he mine in 6 days?"
-    }
+    },
+    image: "/poi-images/annaberg-buchholz-extra.webp",
   },
   {
     "id": "wittenberg-extra",
@@ -3953,7 +4019,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Ha Luthernek 95 tétele volt, és 5 lapra írta őket, átlagosan hány tétel volt egy lapon?",
       "ro": "Dacă Luther a avut 95 de teze și le-a scris pe 5 coli, câte teze erau în medie pe o coală?",
       "en": "If Luther had 95 theses and wrote them on 5 sheets, how many theses were on average on one sheet?"
-    }
+    },
+    image: "/poi-images/wittenberg-extra.webp",
   },
   {
     "id": "wernigerode-extra",
@@ -4012,7 +4079,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "A vonat 20 km/h-val megy a Brockenre. Mennyi idő kell neki 10 km-hez?",
       "ro": "Trenul urcă pe Brocken cu 20 km/h. De cât timp are nevoie pentru 10 km?",
       "en": "The train goes up the Brocken at 20 km/h. How long does it need for 10 km?"
-    }
+    },
+    image: "/poi-images/wernigerode-extra.webp",
   },
   {
     "id": "halberstadt-extra",
@@ -4071,7 +4139,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "A zenemű a tervek szerint 639 évig tart. 2001-ben kezdődött. Melyik évben ér véget?",
       "ro": "Piesa muzicală trebuie să dureze 639 de ani. A început în 2001. În ce an se termină?",
       "en": "The piece of music is supposed to last 639 years. It started in 2001. In what year does it end?"
-    }
+    },
+    image: "/poi-images/halberstadt-extra.webp",
   },
   {
     "id": "stendal-extra",
@@ -4130,7 +4199,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "A Roland-szobor 7,8 méter magas. Mennyi hiányzik a 10 méterhez?",
       "ro": "Statuia lui Roland are 7,8 metri înălțime. Cât lipsește până la 10 metri?",
       "en": "The Roland statue is 7.8 meters tall. How much is missing to 10 meters?"
-    }
+    },
+    image: "/poi-images/stendal-extra.webp",
   },
   {
     "id": "aschersleben-extra",
@@ -4189,7 +4259,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Az első említés 753-ban volt. Hány éves volt a város 2003-ban?",
       "ro": "Prima mențiune a fost în anul 753. Câți ani avea orașul în 2003?",
       "en": "The first mention was in 753. How old was the city in 2003?"
-    }
+    },
+    image: "/poi-images/aschersleben-extra.webp",
   },
   {
     "id": "naumburg-extra",
@@ -4248,7 +4319,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "A dómban 12 alapító szobor van. Ha 2 nő, hány férfi van?",
       "ro": "Sunt 12 figuri de fondatori în catedrală. Dacă 2 sunt femei, câți bărbați sunt?",
       "en": "There are 12 founder figures in the cathedral. If 2 are women, how many men are there?"
-    }
+    },
+    image: "/poi-images/naumburg-extra.webp",
   },
   {
     "id": "bernburg-extra",
@@ -4307,7 +4379,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Egy barnamedve hetente 10 kg almát eszik. Mennyit eszik 2 medve 3 hét alatt?",
       "ro": "Un urs brun mănâncă 10 kg de mere pe săptămână. Cât mănâncă 2 urși în 3 săptămâni?",
       "en": "A brown bear eats 10 kg of apples a week. How much do 2 bears eat in 3 weeks?"
-    }
+    },
+    image: "/poi-images/bernburg-extra.webp",
   },
   {
     "id": "bitterfeld-wolfen-extra",
@@ -4366,7 +4439,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Ha a tó 6 km² területű és egy csónaknak fél órába telik 1 km² bejárása, mennyi idő a teljes tó?",
       "ro": "Dacă lacul are 6 km² și o barcă are nevoie de o jumătate de oră pentru 1 km², cât timp este necesar pentru tot lacul?",
       "en": "If the lake is 6 km² and a boat needs half an hour for 1 km², how long does it take for the whole lake?"
-    }
+    },
+    image: "/poi-images/bitterfeld-wolfen-extra.webp",
   },
   {
     "id": "sangerhausen-extra",
@@ -4425,7 +4499,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "Ha naponta 400 különböző rózsafajtát tudsz megnézni, hány nap kell 8000 fajtához?",
       "ro": "Dacă poți vedea 400 de soiuri diferite de trandafiri pe zi, de câte zile ai nevoie pentru 8.000 de soiuri?",
       "en": "If you can see 400 different rose varieties a day, how many days do you need for 8,000 varieties?"
-    }
+    },
+    image: "/poi-images/sangerhausen-extra.webp",
   },
   {
     "id": "neumunster-extra",
@@ -4484,7 +4559,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Neumünster területén = ?",
       "ro": "2 copaci + 3 copaci în Neumünster = ?",
       "en": "2 trees + 3 trees in Neumünster = ?"
-    }
+    },
+    image: "/poi-images/neumunster-extra.webp",
   },
   {
     "id": "norderstedt-extra",
@@ -4543,7 +4619,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Norderstedt területén = ?",
       "ro": "2 copaci + 3 copaci în Norderstedt = ?",
       "en": "2 trees + 3 trees in Norderstedt = ?"
-    }
+    },
+    image: "/poi-images/norderstedt-extra.webp",
   },
   {
     "id": "pinneberg-extra",
@@ -4602,7 +4679,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Pinneberg területén = ?",
       "ro": "2 copaci + 3 copaci în Pinneberg = ?",
       "en": "2 trees + 3 trees in Pinneberg = ?"
-    }
+    },
+    image: "/poi-images/pinneberg-extra.webp",
   },
   {
     "id": "itzehoe-extra",
@@ -4661,7 +4739,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Itzehoe területén = ?",
       "ro": "2 copaci + 3 copaci în Itzehoe = ?",
       "en": "2 trees + 3 trees in Itzehoe = ?"
-    }
+    },
+    image: "/poi-images/itzehoe-extra.webp",
   },
   {
     "id": "elmshorn-extra",
@@ -4720,7 +4799,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Elmshorn területén = ?",
       "ro": "2 copaci + 3 copaci în Elmshorn = ?",
       "en": "2 trees + 3 trees in Elmshorn = ?"
-    }
+    },
+    image: "/poi-images/elmshorn-extra.webp",
   },
   {
     "id": "schleswig-extra",
@@ -4779,7 +4859,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Schleswig területén = ?",
       "ro": "2 copaci + 3 copaci în Schleswig = ?",
       "en": "2 trees + 3 trees in Schleswig = ?"
-    }
+    },
+    image: "/poi-images/schleswig-extra.webp",
   },
   {
     "id": "rendsburg-extra",
@@ -4838,7 +4919,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Rendsburg területén = ?",
       "ro": "2 copaci + 3 copaci în Rendsburg = ?",
       "en": "2 trees + 3 trees in Rendsburg = ?"
-    }
+    },
+    image: "/poi-images/rendsburg-extra.webp",
   },
   {
     "id": "heide-extra",
@@ -4897,7 +4979,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Heide területén = ?",
       "ro": "2 copaci + 3 copaci în Heide = ?",
       "en": "2 trees + 3 trees in Heide = ?"
-    }
+    },
+    image: "/poi-images/heide-extra.webp",
   },
   {
     "id": "husum-extra",
@@ -4956,7 +5039,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Husum területén = ?",
       "ro": "2 copaci + 3 copaci în Husum = ?",
       "en": "2 trees + 3 trees in Husum = ?"
-    }
+    },
+    image: "/poi-images/husum-extra.webp",
   },
   {
     "id": "eckernforde-extra",
@@ -5015,7 +5099,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Eckernförde területén = ?",
       "ro": "2 copaci + 3 copaci în Eckernförde = ?",
       "en": "2 trees + 3 trees in Eckernförde = ?"
-    }
+    },
+    image: "/poi-images/eckernforde-extra.webp",
   },
   {
     "id": "homburg-extra",
@@ -5074,7 +5159,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Homburg területén = ?",
       "ro": "2 copaci + 3 copaci în Homburg = ?",
       "en": "2 trees + 3 trees in Homburg = ?"
-    }
+    },
+    image: "/poi-images/homburg-extra.webp",
   },
   {
     "id": "volklingen-extra",
@@ -5133,7 +5219,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Völklingen területén = ?",
       "ro": "2 copaci + 3 copaci în Völklingen = ?",
       "en": "2 trees + 3 trees in Völklingen = ?"
-    }
+    },
+    image: "/poi-images/volklingen-extra.webp",
   },
   {
     "id": "st-wendel-extra",
@@ -5192,7 +5279,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa St. Wendel területén = ?",
       "ro": "2 copaci + 3 copaci în St. Wendel = ?",
       "en": "2 trees + 3 trees in St. Wendel = ?"
-    }
+    },
+    image: "/poi-images/st-wendel-extra.webp",
   },
   {
     "id": "merzig-extra",
@@ -5251,7 +5339,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Merzig területén = ?",
       "ro": "2 copaci + 3 copaci în Merzig = ?",
       "en": "2 trees + 3 trees in Merzig = ?"
-    }
+    },
+    image: "/poi-images/merzig-extra.webp",
   },
   {
     "id": "dillingen-extra",
@@ -5310,7 +5399,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Dillingen területén = ?",
       "ro": "2 copaci + 3 copaci în Dillingen = ?",
       "en": "2 trees + 3 trees in Dillingen = ?"
-    }
+    },
+    image: "/poi-images/dillingen-extra.webp",
   },
   {
     "id": "lebach-extra",
@@ -5369,7 +5459,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Lebach területén = ?",
       "ro": "2 copaci + 3 copaci în Lebach = ?",
       "en": "2 trees + 3 trees in Lebach = ?"
-    }
+    },
+    image: "/poi-images/lebach-extra.webp",
   },
   {
     "id": "suhl-extra",
@@ -5428,7 +5519,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Suhl területén = ?",
       "ro": "2 copaci + 3 copaci în Suhl = ?",
       "en": "2 trees + 3 trees in Suhl = ?"
-    }
+    },
+    image: "/poi-images/suhl-extra.webp",
   },
   {
     "id": "muhlhausen-extra",
@@ -5487,7 +5579,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Mühlhausen területén = ?",
       "ro": "2 copaci + 3 copaci în Mühlhausen = ?",
       "en": "2 trees + 3 trees in Mühlhausen = ?"
-    }
+    },
+    image: "/poi-images/muhlhausen-extra.webp",
   },
   {
     "id": "nordhausen-extra",
@@ -5546,7 +5639,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Nordhausen területén = ?",
       "ro": "2 copaci + 3 copaci în Nordhausen = ?",
       "en": "2 trees + 3 trees in Nordhausen = ?"
-    }
+    },
+    image: "/poi-images/nordhausen-extra.webp",
   },
   {
     "id": "altenburg-extra",
@@ -5605,7 +5699,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Altenburg területén = ?",
       "ro": "2 copaci + 3 copaci în Altenburg = ?",
       "en": "2 trees + 3 trees in Altenburg = ?"
-    }
+    },
+    image: "/poi-images/altenburg-extra.webp",
   },
   {
     "id": "sondershausen-extra",
@@ -5664,7 +5759,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Sondershausen területén = ?",
       "ro": "2 copaci + 3 copaci în Sondershausen = ?",
       "en": "2 trees + 3 trees in Sondershausen = ?"
-    }
+    },
+    image: "/poi-images/sondershausen-extra.webp",
   },
   {
     "id": "apolda-extra",
@@ -5723,7 +5819,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Apolda területén = ?",
       "ro": "2 copaci + 3 copaci în Apolda = ?",
       "en": "2 trees + 3 trees in Apolda = ?"
-    }
+    },
+    image: "/poi-images/apolda-extra.webp",
   },
   {
     "id": "ilmenau-extra",
@@ -5782,7 +5879,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Ilmenau területén = ?",
       "ro": "2 copaci + 3 copaci în Ilmenau = ?",
       "en": "2 trees + 3 trees in Ilmenau = ?"
-    }
+    },
+    image: "/poi-images/ilmenau-extra.webp",
   },
   {
     "id": "schmalkalden-extra",
@@ -5841,7 +5939,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Schmalkalden területén = ?",
       "ro": "2 copaci + 3 copaci în Schmalkalden = ?",
       "en": "2 trees + 3 trees in Schmalkalden = ?"
-    }
+    },
+    image: "/poi-images/schmalkalden-extra.webp",
   },
   {
     "id": "anklam-extra",
@@ -5900,7 +5999,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Anklam területén = ?",
       "ro": "2 copaci + 3 copaci în Anklam = ?",
       "en": "2 trees + 3 trees in Anklam = ?"
-    }
+    },
+    image: "/poi-images/anklam-extra.webp",
   },
   {
     "id": "waren-extra",
@@ -5959,7 +6059,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Waren területén = ?",
       "ro": "2 copaci + 3 copaci în Waren = ?",
       "en": "2 trees + 3 trees in Waren = ?"
-    }
+    },
+    image: "/poi-images/waren-extra.webp",
   },
   {
     "id": "gustrow-extra",
@@ -6018,7 +6119,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Güstrow területén = ?",
       "ro": "2 copaci + 3 copaci în Güstrow = ?",
       "en": "2 trees + 3 trees in Güstrow = ?"
-    }
+    },
+    image: "/poi-images/gustrow-extra.webp",
   },
   {
     "id": "parchim-extra",
@@ -6077,7 +6179,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Parchim területén = ?",
       "ro": "2 copaci + 3 copaci în Parchim = ?",
       "en": "2 trees + 3 trees in Parchim = ?"
-    }
+    },
+    image: "/poi-images/parchim-extra.webp",
   },
   {
     "id": "demmin-extra",
@@ -6136,7 +6239,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Demmin területén = ?",
       "ro": "2 copaci + 3 copaci în Demmin = ?",
       "en": "2 trees + 3 trees in Demmin = ?"
-    }
+    },
+    image: "/poi-images/demmin-extra.webp",
   },
   {
     "id": "bad-doberan-extra",
@@ -6195,7 +6299,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Bad Doberan területén = ?",
       "ro": "2 copaci + 3 copaci în Bad Doberan = ?",
       "en": "2 trees + 3 trees in Bad Doberan = ?"
-    }
+    },
+    image: "/poi-images/bad-doberan-extra.webp",
   },
   {
     "id": "ribnitz-extra",
@@ -6278,7 +6383,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Ribnitz területén = ?",
       "ro": "2 copaci + 3 copaci în Ribnitz = ?",
       "en": "2 trees + 3 trees in Ribnitz = ?"
-    }
+    },
+    image: "/poi-images/ribnitz-extra.webp",
   },
   {
     "id": "brandenburg-an-der-havel-extra",
@@ -6361,7 +6467,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Brandenburg an der Havel területén = ?",
       "ro": "2 copaci + 3 copaci în Brandenburg an der Havel = ?",
       "en": "2 trees + 3 trees in Brandenburg an der Havel = ?"
-    }
+    },
+    image: "/poi-images/brandenburg-an-der-havel-extra.webp",
   },
   {
     "id": "eberswalde-extra",
@@ -6444,7 +6551,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Eberswalde területén = ?",
       "ro": "2 copaci + 3 copaci în Eberswalde = ?",
       "en": "2 trees + 3 trees in Eberswalde = ?"
-    }
+    },
+    image: "/poi-images/eberswalde-extra.webp",
   },
   {
     "id": "bernau-extra",
@@ -6527,7 +6635,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Bernau területén = ?",
       "ro": "2 copaci + 3 copaci în Bernau = ?",
       "en": "2 trees + 3 trees in Bernau = ?"
-    }
+    },
+    image: "/poi-images/bernau-extra.webp",
   },
   {
     "id": "konigs-wusterhausen-extra",
@@ -6610,7 +6719,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Königs Wusterhausen területén = ?",
       "ro": "2 copaci + 3 copaci în Königs Wusterhausen = ?",
       "en": "2 trees + 3 trees in Königs Wusterhausen = ?"
-    }
+    },
+    image: "/poi-images/konigs-wusterhausen-extra.webp",
   },
   {
     "id": "oranienburg-extra",
@@ -6693,7 +6803,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Oranienburg területén = ?",
       "ro": "2 copaci + 3 copaci în Oranienburg = ?",
       "en": "2 trees + 3 trees in Oranienburg = ?"
-    }
+    },
+    image: "/poi-images/oranienburg-extra.webp",
   },
   {
     "id": "falkensee-extra",
@@ -6776,7 +6887,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Falkensee területén = ?",
       "ro": "2 copaci + 3 copaci în Falkensee = ?",
       "en": "2 trees + 3 trees in Falkensee = ?"
-    }
+    },
+    image: "/poi-images/falkensee-extra.webp",
   },
   {
     "id": "strausberg-extra",
@@ -6859,7 +6971,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Strausberg területén = ?",
       "ro": "2 copaci + 3 copaci în Strausberg = ?",
       "en": "2 trees + 3 trees in Strausberg = ?"
-    }
+    },
+    image: "/poi-images/strausberg-extra.webp",
   },
   {
     "id": "werder-extra",
@@ -6942,7 +7055,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Werder területén = ?",
       "ro": "2 copaci + 3 copaci în Werder = ?",
       "en": "2 trees + 3 trees in Werder = ?"
-    }
+    },
+    image: "/poi-images/werder-extra.webp",
   },
   {
     "id": "senftenberg-extra",
@@ -7025,7 +7139,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Senftenberg területén = ?",
       "ro": "2 copaci + 3 copaci în Senftenberg = ?",
       "en": "2 trees + 3 trees in Senftenberg = ?"
-    }
+    },
+    image: "/poi-images/senftenberg-extra.webp",
   },
   {
     "id": "mitte-extra",
@@ -7108,7 +7223,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Mitte területén = ?",
       "ro": "2 copaci + 3 copaci în Mitte = ?",
       "en": "2 trees + 3 trees in Mitte = ?"
-    }
+    },
+    image: "/poi-images/mitte-extra.webp",
   },
   {
     "id": "charlottenburg-extra",
@@ -7191,7 +7307,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Charlottenburg területén = ?",
       "ro": "2 copaci + 3 copaci în Charlottenburg = ?",
       "en": "2 trees + 3 trees in Charlottenburg = ?"
-    }
+    },
+    image: "/poi-images/charlottenburg-extra.webp",
   },
   {
     "id": "kreuzberg-extra",
@@ -7274,7 +7391,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Kreuzberg területén = ?",
       "ro": "2 copaci + 3 copaci în Kreuzberg = ?",
       "en": "2 trees + 3 trees in Kreuzberg = ?"
-    }
+    },
+    image: "/poi-images/kreuzberg-extra.webp",
   },
   {
     "id": "prenzlauer-berg-extra",
@@ -7357,7 +7475,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Prenzlauer Berg területén = ?",
       "ro": "2 copaci + 3 copaci în Prenzlauer Berg = ?",
       "en": "2 trees + 3 trees in Prenzlauer Berg = ?"
-    }
+    },
+    image: "/poi-images/prenzlauer-berg-extra.webp",
   },
   {
     "id": "steglitz-extra",
@@ -7440,7 +7559,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Steglitz területén = ?",
       "ro": "2 copaci + 3 copaci în Steglitz = ?",
       "en": "2 trees + 3 trees in Steglitz = ?"
-    }
+    },
+    image: "/poi-images/steglitz-extra.webp",
   },
   {
     "id": "vegesack-extra",
@@ -7523,7 +7643,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Vegesack területén = ?",
       "ro": "2 copaci + 3 copaci în Vegesack = ?",
       "en": "2 trees + 3 trees in Vegesack = ?"
-    }
+    },
+    image: "/poi-images/vegesack-extra.webp",
   },
   {
     "id": "findorff-extra",
@@ -7606,7 +7727,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Findorff területén = ?",
       "ro": "2 copaci + 3 copaci în Findorff = ?",
       "en": "2 trees + 3 trees in Findorff = ?"
-    }
+    },
+    image: "/poi-images/findorff-extra.webp",
   },
   {
     "id": "schwachhausen-extra",
@@ -7665,7 +7787,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Schwachhausen területén = ?",
       "ro": "2 copaci + 3 copaci în Schwachhausen = ?",
       "en": "2 trees + 3 trees in Schwachhausen = ?"
-    }
+    },
+    image: "/poi-images/schwachhausen-extra.webp",
   },
   {
     "id": "st-pauli-extra",
@@ -7724,7 +7847,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa St. Pauli területén = ?",
       "ro": "2 copaci + 3 copaci în St. Pauli = ?",
       "en": "2 trees + 3 trees in St. Pauli = ?"
-    }
+    },
+    image: "/poi-images/st-pauli-extra.webp",
   },
   {
     "id": "eimsbuttel-extra",
@@ -7783,7 +7907,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Eimsbüttel területén = ?",
       "ro": "2 copaci + 3 copaci în Eimsbüttel = ?",
       "en": "2 trees + 3 trees in Eimsbüttel = ?"
-    }
+    },
+    image: "/poi-images/eimsbuttel-extra.webp",
   },
   {
     "id": "wandsbek-extra",
@@ -7842,7 +7967,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Wandsbek területén = ?",
       "ro": "2 copaci + 3 copaci în Wandsbek = ?",
       "en": "2 trees + 3 trees in Wandsbek = ?"
-    }
+    },
+    image: "/poi-images/wandsbek-extra.webp",
   },
   {
     "id": "harburg-extra",
@@ -7901,7 +8027,8 @@ export const poiExtraDeCities: POI[] = [
       "hu": "2 fa + 3 fa Harburg területén = ?",
       "ro": "2 copaci + 3 copaci în Harburg = ?",
       "en": "2 trees + 3 trees in Harburg = ?"
-    }
+    },
+    image: "/poi-images/harburg-extra.webp",
   }
 ];
 

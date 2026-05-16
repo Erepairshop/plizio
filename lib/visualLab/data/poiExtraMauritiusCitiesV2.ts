@@ -31,6 +31,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Fondat în anul 1735 de către francezi", "Orașul are o populație de aproximativ 150.000 de locuitori", "Aapravasi Ghat este un sit al Patrimoniului Mondial UNESCO în oraș", "Citadela (Fort Adelaide) a fost construită în 1834", "Port Louis găzduiește cel mai mare port de pe insulă", "Muzeul Blue Penny expune mărci poștale rare din 1847"],
       en: ["Founded in 1735 by the French", "The city has a population of approximately 150.000", "Aapravasi Ghat is a UNESCO World Heritage site in the city", "The Citadel (Fort Adelaide) was built in 1834", "Port Louis hosts the largest port on the island", "The Blue Penny Museum displays rare stamps from 1847"],
     },
+    image: "/poi-images/mauritius-port-louis-cities-v2.webp",
   },
   {
     id: "mauritius-beau-bassin-cities-v2",
@@ -62,6 +63,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Aparține municipalității Beau Bassin-Rose Hill", "Situat la o altitudine de aproximativ 200-300 de metri", "Regiunea este cunoscută pentru Grădinile Balfour", "Numele înseamnă 'Bazin Frumos' în franceză", "Stație importantă a Metro Express, inaugurat în 2019", "Sediul mai multor instituții de învățământ importante"],
       en: ["Part of the Beau Bassin-Rose Hill municipality", "Located at an altitude of about 200 to 300 meters", "The region is known for the Balfour Gardens", "The name means 'Beautiful Basin' in French", "Important stop on the Metro Express inaugurated in 2019", "Home to several major educational institutions"],
     },
+    image: "/poi-images/mauritius-beau-bassin-cities-v2.webp",
   },
   {
     id: "mauritius-rose-hill-cities-v2",
@@ -93,6 +95,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Teatrul Plaza a fost deschis în anul 1933", "Un nod central al sistemului Metro Express", "Găzduiește Institutul de Educație din Mauritius", "Piața Rose Hill este un centru comercial important", "Orașul este situat în districtul Plaines Wilhems", "Una dintre cele mai populate localități din Mauritius"],
       en: ["The Plaza Theatre was opened in 1933", "A central hub of the Metro Express system", "Home to the Mauritius Institute of Education", "The Rose Hill Market is a major trading center", "The town is located in the Plaines Wilhems district", "One of the most populous urban areas in Mauritius"],
     },
+    image: "/poi-images/mauritius-rose-hill-cities-v2.webp",
   },
   {
     id: "mauritius-vacoas-cities-v2",
@@ -124,6 +127,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Vacoas-Phoenix a fost ridicat la rang de municipalitate în 1963", "Situat la o altitudine medie de 400 de metri", "Găzduiește sediul central al Special Mobile Force", "Numele provine de la palmierul Vacoas", "Locația Serviciului Meteorologic din Mauritius", "Găzduiește Gymkhana Club, cel mai vechi club de golf de pe insulă"],
       en: ["Vacoas-Phoenix became a municipality in 1963", "Located at an average altitude of 400 meters", "Home to the Special Mobile Force headquarters", "The name originates from the Vacoas (screw pine) plant", "Site of the Mauritius Meteorological Services", "Home to the Gymkhana Club, the oldest golf club on the island"],
     },
+    image: "/poi-images/mauritius-vacoas-cities-v2.webp",
   },
   {
     id: "mauritius-curepipe-cities-v2",
@@ -155,6 +159,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Cel mai înalt oraș de pe insulă (cca. 560 m)", "Craterul Trou aux Cerfs are o înălțime de 605 metri", "Numele provine probabil de la 'Curé' (vindecat) și 'Pipe'", "Primăria (Hôtel de Ville) este o capodoperă a arhitecturii în lemn", "Orașul este un centru al industriei de machete de corăbii", "Sediul Royal College Curepipe, fondat în secolul al XVIII-lea"],
       en: ["Highest town on the island (approx. 560 m)", "The Trou aux Cerfs crater is 605 meters high", "The name likely comes from 'Curé' (cured) and 'Pipe'", "The Town Hall (Hôtel de Ville) is a masterpiece of wooden architecture", "The town is a center for the ship model-making industry", "Home to Royal College Curepipe, founded in the 18th century"],
     },
+    image: "/poi-images/mauritius-curepipe-cities-v2.webp",
   },
   {
     id: "mauritius-triolet-town-cities-v2",
@@ -186,6 +191,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Templul Maheswarnath a fost construit în 1888", "Este considerat cel mai lung sat de pe insulă", "Situat în districtul Pamplemousses", "Centru agricol important (trestie de zahăr)", "Populația este de aproximativ 23.000 de locuitori", "Numit după o familie franceză din epoca colonială"],
       en: ["The Maheswarnath Mandir was built in 1888", "It is considered the longest village on the island", "Located in the Pamplemousses district", "Important agricultural center (sugarcane)", "Population is approximately 23,000", "Named after a French family from the colonial era"],
     },
+    image: "/poi-images/mauritius-triolet-town-cities-v2.webp",
   },
   {
     id: "mauritius-goodlands-town-cities-v2",
@@ -217,6 +223,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Situat în nord-estul insulei, în districtul Rivière du Rempart", "Cunoscut pentru piața săptămânală de textile", "Populația depășește 20.000 de locuitori", "Istoric legat strâns de industria zahărului", "Servește ca centru comercial pentru nordul insulei Mauritius", "Găzduiește mai multe situri religioase importante"],
       en: ["Located in the northeast in the Rivière du Rempart district", "Famous for its weekly textile market", "Population exceeds 20,000 inhabitants", "Historically closely linked to the sugar industry", "Serves as a trade hub for northern Mauritius", "Home to several significant religious sites"],
     },
+    image: "/poi-images/mauritius-goodlands-town-cities-v2.webp",
   },
   {
     id: "mauritius-centre-de-flacq-cities-v2",
@@ -248,6 +255,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Sediul administrativ al celui mai populat district, Flacq", "Piața are loc în zilele de miercuri și duminică", "Nod de transport vital pentru estul insulei", "Găzduiește centrul comercial Flacq Shopping Mall", "Regiunea este marcată istoric de cultura trestiei de zahăr", "În apropiere se află complexe hoteliere exclusiviste pe coastă"],
       en: ["Administrative center of Flacq, the most populous district", "The market is held on Wednesdays and Sundays", "Key transport interchange for the east of the island", "Home to the Flacq Shopping Mall", "The region is historically shaped by sugarcane farming", "Nearby coastal areas host exclusive hotel resorts"],
     },
+    image: "/poi-images/mauritius-centre-de-flacq-cities-v2.webp",
   },
   {
     id: "mauritius-bel-air-riviere-seche-cities-v2",
@@ -279,6 +287,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Unul dintre cele mai mari complexe de așezări din districtul Flacq", "Populația este de aproximativ 18.000 de locuitori", "Locație importantă pentru industria textilă", "Numele 'Rivière Sèche' înseamnă 'Râu Uscat'", "Acces apropiat către Ile aux Cerfs", "Marcat istoric de plantația de zahăr Bel Air"],
       en: ["One of the largest settlement clusters in Flacq district", "The population is approximately 18,000", "Important site for the textile industry", "The name 'Rivière Sèche' means 'Dry River'", "Provides nearby access to Ile aux Cerfs", "Historically shaped by the Bel Air sugar estate"],
     },
+    image: "/poi-images/mauritius-bel-air-riviere-seche-cities-v2.webp",
   },
   {
     id: "mauritius-mahebourg-cities-v2",
@@ -310,6 +319,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Fondat în anul 1805 de generalul Decaen", "Numit după Bertrand-François Mahé de La Bourdonnais", "Locul bătăliei navale de la Grand Port (august 1810)", "Muzeul de Istorie este situat în Castelul Robillard", "Primul loc de sosire a coloniștilor olandezi în 1598", "Orașul este cunoscut pentru fabrica de biscuiți Rault (fondată în 1870)"],
       en: ["Founded in 1805 by General Decaen", "Named after Bertrand-François Mahé de La Bourdonnais", "Site of the Battle of Grand Port (August 1810)", "The National History Museum is housed in Château Robillard", "First landing site of Dutch settlers in 1598", "Home to the Rault biscuit factory established in 1870"],
     },
+    image: "/poi-images/mauritius-mahebourg-cities-v2.webp",
   },
   {
     id: "mauritius-saint-pierre-cities-v2",
@@ -341,6 +351,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Situat în districtul Moka, în inima insulei", "Găzduiește centrul comercial Bagatelle Mall în apropiere", "Stație importantă a fazei a 3-a a Metro Express", "Sediul mai multor companii internaționale", "Regiunea este cunoscută pentru climatul său blând", "În apropiere se află instituții de învățământ de top"],
       en: ["Located in the Moka district in the heart of the island", "Home to the nearby Bagatelle Shopping Mall", "Key station for the Metro Express Phase 3", "Site of several international corporate offices", "The region is known for its mild climate", "Proximity to leading educational institutions"],
     },
+    image: "/poi-images/mauritius-saint-pierre-cities-v2.webp",
   },
   {
     id: "mauritius-le-hochet-cities-v2",
@@ -372,6 +383,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Situat la aproximativ 5 kilometri nord-est de Port Louis", "Aparține administrativ de districtul Pamplemousses", "Populația este de aproximativ 15.000 de locuitori", "Altitudinea este de circa 50 de metri peste nivelul mării", "Locație rezidențială importantă pentru funcționarii din capitală", "Zonă de tranziție între mediul urban și cel rural"],
       en: ["Located approximately 5 kilometers northeast of Port Louis", "Administratively part of the Pamplemousses District", "Population is estimated at around 15,000 residents", "Elevation is approximately 50 meters above sea level", "Major residential site for capital city employees", "Serves as a transition zone between urban and rural areas"],
     },
+    image: "/poi-images/mauritius-le-hochet-cities-v2.webp",
   },
   {
     id: "mauritius-baie-du-tombeau-town-cities-v2",
@@ -403,6 +415,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Numele se traduce prin Golful Mormântului", "Pieter Both a murit aici în timpul unei furtuni în 1615", "Situat în districtul Pamplemousses, pe coasta de vest", "Populația numără aproximativ 13.000 de locuitori", "Găzduiește un port pescăresc important pentru regiune", "Linia de coastă se întinde pe aproximativ 3 kilometri"],
       en: ["The name translates to Tomb Bay in English", "Pieter Both died here during a storm in 1615", "Located in the Pamplemousses District on the west coast", "Population consists of about 13,000 residents", "Home to a significant regional fishing port", "Coastal stretch extends for approximately 3 kilometers"],
     },
+    image: "/poi-images/mauritius-baie-du-tombeau-town-cities-v2.webp",
   },
   {
     id: "mauritius-bambous-cities-v2",
@@ -434,6 +447,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Sediul Consiliului Districtual din Black River", "Găzduiește stadionul Germain Comarmond", "Populația este de aproximativ 15.000 de locuitori", "Situat la 15 kilometri sud de Port Louis", "Centru important pentru industria textilă în vest", "Altitudinea este de circa 80 de metri deasupra mării"],
       en: ["Seat of the Black River District Council", "Home to the Germain Comarmond Stadium", "Population is approximately 15,000 residents", "Located 15 kilometers south of Port Louis", "Important hub for the textile industry in the west", "Elevation is about 80 meters above sea level"],
     },
+    image: "/poi-images/mauritius-bambous-cities-v2.webp",
   },
   {
     id: "mauritius-rose-belle-cities-v2",
@@ -465,6 +479,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Situat în districtul Grand Port, în sud-est", "Populația este de aproximativ 12.000 de locuitori", "Găzduiește spitalul regional Jawaharlal Nehru", "Centrul istoric al domeniului Rose Belle Sugar Estate", "Aflat la doar 5 kilometri de aeroportul internațional", "Fost nod feroviar important până în anul 1964"],
       en: ["Located in the Grand Port District in the southeast", "Population is approximately 12,000 residents", "Home to the regional Jawaharlal Nehru Hospital", "Historical center of the Rose Belle Sugar Estate", "Just 5 kilometers away from the international airport", "Was a major railway junction until closure in 1964"],
     },
+    image: "/poi-images/mauritius-rose-belle-cities-v2.webp",
   },
   {
     id: "mauritius-chemin-grenier-cities-v2",
@@ -496,6 +511,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Cea mai mare localitate din districtul Savanne", "Numele se traduce prin Calea Grânarului", "Populația este de circa 12.000 de locuitori", "Centru important pentru cultivarea cartofilor", "Situat în apropierea punctului de belvedere Macondé", "Cunoscut pentru plajele cu pietriș din proximitate"],
       en: ["Largest settlement in the Savanne District", "The name translates to Granary Path in English", "Population is estimated at 12,000 residents", "Major hub for local potato cultivation", "Located near the famous Macondé viewpoint", "Known for the nearby Galets (pebble) beaches"],
     },
+    image: "/poi-images/mauritius-chemin-grenier-cities-v2.webp",
   },
   {
     id: "mauritius-riviere-du-rempart-cities-v2",
@@ -527,6 +543,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Sediul Consiliului Districtual din Rivière du Rempart", "Situat la 20 de kilometri nord-est de Port Louis", "Populația numără aproximativ 11.000 de locuitori", "Centru vital al industriei textile din Mauritius", "Numit după râul Rempart care curge în apropiere", "Climatul este mai umed decât pe coasta de vest"],
       en: ["Seat of the Rivière du Rempart District Council", "Located 20 kilometers northeast of Port Louis", "Population is approximately 11,000 residents", "A vital center for the Mauritian textile industry", "Named after the nearby Rempart River", "The climate is more humid than on the west coast"],
     },
+    image: "/poi-images/mauritius-riviere-du-rempart-cities-v2.webp",
   },
   {
     id: "mauritius-grand-baie-cities-v2",
@@ -558,6 +575,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Primul sat de pe insulă care a dezvoltat turismul de masă", "Locul debarcării britanicilor în noiembrie 1810", "Populația este de aproximativ 12.000 de locuitori", "Găzduiește cel mai mare mall din nordul insulei", "Cel mai important port de agrement din nord", "Face parte din districtul Rivière du Rempart"],
       en: ["The first village on the island to see massive tourism", "Landing site for the British in November 1810", "Population is approximately 12,000 residents", "Home to the largest shopping mall in the north", "Most important yacht marina in northern Mauritius", "Part of the Rivière du Rempart District"],
     },
+    image: "/poi-images/mauritius-grand-baie-cities-v2.webp",
   },
   {
     id: "mauritius-plaine-magnien-cities-v2",
@@ -589,6 +607,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Locația singurului aeroport internațional de pe insulă", "Situat în districtul Grand Port, în sud-est", "Populația este de aproximativ 10.000 de locuitori", "Numit după un colonist francez din secolul al XVIII-lea", "Nod important al autostrăzii M1", "Găzduiește centre logistice mari pentru marfă aeriană"],
       en: ["Site of the island's only international airport", "Located in the Grand Port District in the southeast", "Population is approximately 10,000 residents", "Named after an 18th-century French colonist", "Major junction of the M1 motorway", "Home to large air cargo logistics centers"],
     },
+    image: "/poi-images/mauritius-plaine-magnien-cities-v2.webp",
   },
   {
     id: "mauritius-pailles-cities-v2",
@@ -620,6 +639,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Situat la doar 3 kilometri sud de Port Louis", "Găzduiește centrul de conferințe SVICC", "Populația numără aproximativ 11.000 de locuitori", "Locația parcului tematic Domaine Les Pailles", "District industrial și comercial major în regiunea Moka", "Acces facil către autostrăzile M1 și M2"],
       en: ["Located only about 3 kilometers south of Port Louis", "Home to the SVICC International Convention Centre", "Population is estimated at 11,000 residents", "Site of the Domaine Les Pailles cultural park", "Major industrial and commercial district in Moka region", "Excellent connectivity to M1 and M2 motorways"],
     },
+    image: "/poi-images/mauritius-pailles-cities-v2.webp",
   },
   {
     id: "mauritius-surinam-cities-v2",
@@ -651,6 +671,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Aparține administrativ de districtul Savanne", "Populația este de aproximativ 10.000 de locuitori", "Situat în imediata apropiere a plajei Riambel", "Poartă de acces către Cascada Rochester din interior", "Climatul este influențat de vânturile alizee de sud-est", "Economia se bazează parțial pe pescuit și agricultură"],
       en: ["Administratively part of the Savanne District", "Population is approximately 10,000 residents", "Located in close proximity to Riambel beach", "Gateway to the inland Rochester Falls", "Climate is shaped by the southeast trade winds", "Economy is partly based on fishing and agriculture"],
     },
+    image: "/poi-images/mauritius-surinam-cities-v2.webp",
   },
   {
     id: "mauritius-lallmatie-cities-v2",
@@ -682,6 +703,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Cea mai mare așezare din districtul Flacq după reședință", "Numele înseamnă Pământ Roșu în limba Bhojpuri", "Populația numără aproximativ 10.000 de locuitori", "Centru al Mauritiusului rural cu influențe indiene", "Dependent economic de cultivarea trestiei de zahăr", "Găzduiește mai multe complexe mari de temple hindu"],
       en: ["Largest settlement in Flacq District after the capital", "Name translates to Red Earth in Bhojpuri", "Population is approximately 10,000 residents", "A hub of Indian-influenced rural Mauritius", "Economically heavily dependent on sugarcane farming", "Home to several large Hindu temple complexes"],
     },
+    image: "/poi-images/mauritius-lallmatie-cities-v2.webp",
   },
   {
     id: "mauritius-new-grove-cities-v2",
@@ -713,6 +735,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Situat în districtul Grand Port, în sud-est", "Populația este de aproximativ 10.000 de locuitori", "Zonă rezidențială importantă pentru angajații aeroportului", "Fostă parte a plantației de zahăr Mon Trésor", "Altitudinea este de circa 120 de metri peste nivelul mării", "Acces direct la autostrada M1"],
       en: ["Located in the Grand Port District in the southeast", "Population is approximately 10,000 residents", "Major residential area for airport employees", "Once part of the Mon Trésor sugar plantation", "Elevation is about 120 meters above sea level", "Provides direct access to the M1 motorway"],
     },
+    image: "/poi-images/mauritius-new-grove-cities-v2.webp",
   },
   {
     id: "mauritius-riviere-des-anguilles-cities-v2",
@@ -744,6 +767,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Sediul Consiliului Districtual din Savanne", "Numele se traduce prin Râul Anghilelor", "Populația numără aproximativ 9.000 de locuitori", "Găzduiește faimosul Pod al Dragonului (Pont Dragon)", "Aproape de rezervația naturală La Vanille Nature Park", "Centru important al industriei istorice a zahărului"],
       en: ["Seat of the Savanne District Council", "The name translates to River of Eels in English", "Population is estimated at 9,000 residents", "Home to the famous Dragon Bridge (Pont Dragon)", "Proximity to the La Vanille Nature Park reserve", "An important center of the historical sugar industry"],
     },
+    image: "/poi-images/mauritius-riviere-des-anguilles-cities-v2.webp",
   },
   {
     id: "mauritius-terre-rouge-town-cities-v2",
@@ -775,6 +799,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Poarta către stațiunile de coastă din nordul insulei", "Numele se traduce literal prin Pământ Roșu", "Populația este de aproximativ 11.000 de locuitori", "Găzduiește rezervația de păsări Terre Rouge", "Nod rutier vital pe autostrada M2", "Zonă industrială axată pe materiale de construcții"],
       en: ["Gateway to the northern coastal resorts of Mauritius", "The name literally translates to Red Earth in English", "Population is approximately 11,000 residents", "Home to the Terre Rouge Bird Sanctuary", "Key transport junction of the M2 motorway", "Industrial zone focusing on construction and trade"],
     },
+    image: "/poi-images/mauritius-terre-rouge-town-cities-v2.webp",
   },
   {
     id: "mauritius-petit-raffray-cities-v2",
@@ -806,6 +831,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Situat în nordul districtului Rivière du Rempart", "Populația numără aproximativ 9.000 de locuitori", "Cunoscut pentru cultivarea pe scară largă a legumelor", "Aflat la doar 10 minute de mers cu mașina de Cap Malheureux", "Altitudinea este de circa 60 de metri peste nivelul mării", "Densitate relativ mare de monumente culturale religioase"],
       en: ["Located in the northern Rivière du Rempart District", "Population is estimated at 9,000 residents", "Known for large-scale vegetable cultivation", "Just a 10-minute drive away from Cap Malheureux", "Elevation is about 60 meters above sea level", "Features a relatively high density of religious monuments"],
     },
+    image: "/poi-images/mauritius-petit-raffray-cities-v2.webp",
   },
   {
     id: "mauritius-pamplemousses-village-cities-v2",
@@ -837,6 +863,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Găzduiește Grădina Botanică Sir Seewoosagur Ramgoolam.", "Biserica St. François d'Assise datează din 1756.", "Numele provine de la fructul citric pamplemousses.", "Pierre Poivre a introdus condimente aici în secolul al XVIII-lea.", "Satul este situat la aproximativ 11 kilometri nord-est de Port Louis.", "Găzduiește muzeul L'Aventure du Sucre într-o fostă fabrică de zahăr."],
       en: ["Home to the Sir Seewoosagur Ramgoolam Botanical Garden.", "The St. François d'Assise church dates back to 1756.", "The name is derived from the citrus fruit pamplemousses.", "Pierre Poivre introduced spices here in the 18th century.", "The village is located about 11 kilometers northeast of Port Louis.", "Houses the L'Aventure du Sucre museum in a former sugar factory."],
     },
+    image: "/poi-images/mauritius-pamplemousses-village-cities-v2.webp",
   },
   {
     id: "mauritius-montagne-blanche-cities-v2",
@@ -868,6 +895,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Situat la poalele muntelui Montagne Blanche, înalt de 532 de metri.", "Regiunea primește cantități mari de precipitații anual.", "Nod rutier important între centru și coasta de est.", "Satul are o populație de peste 10.000 de locuitori.", "Cultivarea trestiei de zahăr este principala activitate economică.", "Face parte din Consiliul Districtual Flacq pentru administrarea locală."],
       en: ["Located at the foot of the 532-meter high Montagne Blanche mountain.", "The region receives high amounts of annual rainfall.", "Important road junction between the center and the east coast.", "The village has a population of over 10,000 inhabitants.", "Sugar cane cultivation is the primary economic activity.", "Part of the Flacq District Council for local administration."],
     },
+    image: "/poi-images/mauritius-montagne-blanche-cities-v2.webp",
   },
   {
     id: "mauritius-grand-bois-cities-v2",
@@ -899,6 +927,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Situat în zonele înalte ale districtului Savanne.", "Satul este cunoscut pentru temperaturile sale mai scăzute.", "Regiunea este un centru al producției locale de ceai.", "În apropiere se află rezervații naturale importante.", "Grand Bois a fost istoric o bază pentru silvicultură.", "Populația este formată predominant din lucrători agricoli."],
       en: ["Located in the highlands of the Savanne district.", "The village is known for its cooler temperatures.", "The region is a center for local tea production.", "Significant nature reserves are located nearby.", "Grand Bois was historically a base for forestry operations.", "The population consists predominantly of agricultural workers."],
     },
+    image: "/poi-images/mauritius-grand-bois-cities-v2.webp",
   },
   {
     id: "mauritius-riche-terre-village-cities-v2",
@@ -930,6 +959,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Găzduiește Riche Terre Mall, un centru comercial major.", "Situat pe autostrada M2, care leagă nordul de centru.", "Locație importantă pentru depozitare și companii de logistică.", "Fostul amplasament al unei plantații de trestie de zahăr semnificative.", "Satul se învecinează direct cu zona mlaștoasă Terre Rouge.", "Dezvoltarea industrială a început intens în anii 1990."],
       en: ["Home to the Riche Terre Mall, a major shopping center.", "Located along the M2 motorway connecting the north to the center.", "Important location for warehousing and logistics companies.", "Formerly the site of a significant sugar cane plantation.", "The village directly borders the Terre Rouge marshland area.", "Industrial development began intensifying in the 1990s."],
     },
+    image: "/poi-images/mauritius-riche-terre-village-cities-v2.webp",
   },
   {
     id: "mauritius-quartier-militaire-cities-v2",
@@ -961,6 +991,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Sediul Consiliului Districtual Moka.", "Situat la o altitudine medie de 450 de metri.", "Numele se referă la o fostă bază militară.", "Un nod important pentru liniile de autobuz din interiorul insulei.", "Cunoscut pentru piața săptămânală cu produse locale.", "Regiunea înregistrează unele dintre cele mai mari rate de precipitații de pe insulă."],
       en: ["Seat of the Moka District Council.", "Located at an average altitude of 450 meters.", "The name dates back to a former military outpost.", "An important hub for bus routes in the interior of the country.", "Known for its weekly market featuring local produce.", "The region records some of the highest rainfall rates on the island."],
     },
+    image: "/poi-images/mauritius-quartier-militaire-cities-v2.webp",
   },
   {
     id: "mauritius-cap-malheureux-cities-v2",
@@ -992,6 +1023,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Locul invaziei britanice din 1810.", "Celebra capelă a fost construită în 1938.", "Numele înseamnă 'Capul Nefericit' din cauza numeroaselor naufragii.", "Oferă cea mai bună vedere spre insula Coin de Mire.", "Un centru important pentru pescuitul artizanal tradițional.", "Situat la aproximativ 10 minute de mers cu mașina la nord de Grand Baie."],
       en: ["Site of the British invasion in 1810.", "The famous chapel was built in 1938.", "The name means 'Cape Misfortune' due to numerous shipwrecks.", "Offers the best view of the Coin de Mire island.", "An important center for traditional artisanal fishing.", "Located about a 10-minute drive north of Grand Baie."],
     },
+    image: "/poi-images/mauritius-cap-malheureux-cities-v2.webp",
   },
   {
     id: "mauritius-flic-en-flac-village-cities-v2",
@@ -1023,6 +1055,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Numele derivă probabil din olandeza 'Fried Landt Flaak'.", "Plaja publică se întinde pe aproape 3 kilometri.", "Loc popular pentru apusurile de soare de pe coasta de vest.", "Găzduiește institutul de cercetare al Mauritius Oceanography Institute.", "Un centru pentru școli de scufundări certificate PADI în Mauritius.", "Regiunea a fost anterior un teren de vânătoare semnificativ."],
       en: ["The name likely derives from the Dutch 'Fried Landt Flaak'.", "The public beach stretches for nearly 3 kilometers.", "Popular spot for viewing sunsets on the west coast.", "Home to the research facility of the Mauritius Oceanography Institute.", "A hub for PADI-certified diving schools in Mauritius.", "The region was formerly a significant hunting ground."],
     },
+    image: "/poi-images/mauritius-flic-en-flac-village-cities-v2.webp",
   },
   {
     id: "mauritius-souillac-cities-v2",
@@ -1054,6 +1087,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Fondat în anul 1787 de către guvernatorul Vicomte de Souillac.", "Găzduiește punctul de belvedere Gris Gris cu stânci spectaculoase.", "Celebra 'La Roche Qui Pleure' (stânca care plânge) se află aici.", "Sediul Curții Districtuale din Savanne.", "Gara locală a fost anterior un terminal important de cale ferată.", "Telfair Garden oferă un parc istoric lângă mare."],
       en: ["Founded in 1787 by Governor Vicomte de Souillac.", "Home to the Gris Gris viewpoint with spectacular cliffs.", "The famous 'La Roche Qui Pleure' (the crying rock) is located here.", "Seat of the Savanne District Court.", "The local train station was formerly an important railway terminus.", "Telfair Garden offers a historical park by the sea."],
     },
+    image: "/poi-images/mauritius-souillac-cities-v2.webp",
   },
   {
     id: "mauritius-tamarin-cities-v2",
@@ -1085,6 +1119,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Centrul extracției tradiționale de sare marină din Mauritius.", "Golful Tamarin este un loc de surf cunoscut în întreaga lume.", "Situat în umbra ploii a munților și este foarte însorit.", "Râul Tamarin separă localitatea de satul vecin Black River.", "Punct de plecare important pentru tururi cu barca pentru observarea delfinilor.", "Emblema zonei este vârful Trois Mamelles din hinterland."],
       en: ["Center of traditional sea salt production in Mauritius.", "Tamarin Bay is a world-renowned spot for surfing.", "Located in the rain shadow of the mountains and is very sunny.", "The Tamarin River separates the village from neighboring Black River.", "Major starting point for boat tours for dolphin watching.", "The Trois Mamelles peak in the hinterland is a local landmark."],
     },
+    image: "/poi-images/mauritius-tamarin-cities-v2.webp",
   },
   {
     id: "mauritius-pointe-aux-piments-cities-v2",
@@ -1116,6 +1151,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Găzduiește Acvariul Mauritius cu peste 200 de specii de pești.", "Numele înseamnă 'Capul Ardeilor Iuți'.", "Locația primului parc marin protejat din Mauritius.", "Coasta este marcată de roci bazaltice și golfuri cu nisip alb.", "Un loc popular pentru snorkeling cu țestoase marine.", "Situat în districtul Pamplemousses între Balaclava și Trou aux Biches."],
       en: ["Home to the Mauritius Aquarium with over 200 species of fish.", "The name translates to 'Cape of Chilies'.", "Location of the first protected Marine Park in Mauritius.", "The coast is characterized by basalt rocks and white sandy coves.", "A popular spot for snorkeling with sea turtles.", "Located in the Pamplemousses district between Balaclava and Trou aux Biches."],
     },
+    image: "/poi-images/mauritius-pointe-aux-piments-cities-v2.webp",
   },
   {
     id: "mauritius-trou-deau-douce-cities-v2",
@@ -1147,6 +1183,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Fondat în secolul al XVII-lea de coloniștii olandezi.", "Principalul debarcader pentru taxiuri pe apă către Île aux Cerfs.", "Biserica Notre Dame des Bon Secours este un simbol local.", "Fostul amplasament al unei fabrici de zahăr importante (Victoria Mill).", "Laguna de aici este una dintre cele mai mari de pe insulă.", "Economia se bazează pe pescuit și turism de lux."],
       en: ["Founded in the 17th century by Dutch settlers.", "Primary jetty for water taxis to Île aux Cerfs.", "The Notre Dame des Bon Secours church is a local landmark.", "Formerly the site of a major sugar factory (Victoria Mill).", "The lagoon here is among the largest on the island.", "The economy is based on fishing and high-end tourism."],
     },
+    image: "/poi-images/mauritius-trou-deau-douce-cities-v2.webp",
   },
   {
     id: "mauritius-poste-de-flacq-cities-v2",
@@ -1178,6 +1215,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Templul Sagar Shiv Mandir a fost finalizat în 2007.", "Anterior un post militar important pentru monitorizarea coastei.", "Găzduiește renumitul resort One&Only Le Saint Géran.", "Regiunea este cunoscută pentru pădurile sale dese de mangrove.", "Gura de vărsare a râului Rivière du Poste se află în apropiere.", "Un centru pentru instruirea în domeniul managementului hotelier."],
       en: ["The Sagar Shiv Mandir temple was completed in 2007.", "Formerly an important military post for coastal surveillance.", "Home to the prestigious One&Only Le Saint Géran resort.", "The region is known for its dense mangrove forests.", "The mouth of the Rivière du Poste is located nearby.", "A center for training in hotel management."],
     },
+    image: "/poi-images/mauritius-poste-de-flacq-cities-v2.webp",
   },
   {
     id: "mauritius-bassin-village-cities-v2",
@@ -1209,6 +1247,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Situat la o altitudine de aproximativ 380 de metri deasupra nivelului mării.", "Numele se referă la bazinele naturale de apă din regiune.", "O arteră importantă leagă centrul de coasta de vest.", "Fostă parte a marii zone de trestie de zahăr Palma.", "Populația este foarte diversă din punct de vedere etnic și religios.", "În apropiere se află granița cu districtul Black River."],
       en: ["Located at an altitude of approximately 380 meters above sea level.", "The name refers to natural water basins in the region.", "Important transit road connects the center to the west coast.", "Formerly part of the large Palma sugar cane estate.", "The population is ethnically and religiously very diverse.", "The border with the Black River district is located nearby."],
     },
+    image: "/poi-images/mauritius-bassin-village-cities-v2.webp",
   },
   {
     id: "mauritius-gros-cailloux-village-cities-v2",
@@ -1240,6 +1279,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Găzduiește parcul de agrement Gros Cailloux cu o grădină zoologică.", "Numele înseamnă 'Pietre Mari' în limba franceză.", "Locație importantă pentru creșterea păsărilor pe insulă.", "Regiunea dispune de un sistem extins de irigații.", "Istoric strâns legat de fabrica de zahăr Médine.", "Situat pe drumul principal între Bambous și Petite Rivière."],
       en: ["Home to the Gros Cailloux Leisure Park with a petting zoo.", "The name means 'Big Pebbles' in French.", "Significant location for poultry farming on the island.", "The region features an extensive irrigation system.", "Historically closely linked to the Médine sugar factory.", "Located on the main road between Bambous and Petite Rivière."],
     },
+    image: "/poi-images/mauritius-gros-cailloux-village-cities-v2.webp",
   },
   {
     id: "mauritius-midlands-cities-v2",
@@ -1271,6 +1311,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Sediul barajului Midlands, finalizat în 2003.", "Înregistrează una dintre cele mai mari cantități anuale de precipitații de pe insulă.", "Rezervorul are o capacitate de 25 de milioane de metri cubi.", "Un centru important pentru cultivarea ceaiului la scară largă.", "Găzduiește proiecte de conservare pentru restaurarea pădurilor endemice.", "Situat lângă autostrada M1, între Curepipe și est."],
       en: ["Home to the Midlands Dam, completed in 2003.", "Records one of the highest annual rainfall amounts on the island.", "The reservoir has a capacity of 25 million cubic meters.", "An important center for large-scale tea cultivation.", "Houses conservation projects for restoring endemic forests.", "Located near the M1 motorway between Curepipe and the east."],
     },
+    image: "/poi-images/mauritius-midlands-cities-v2.webp",
   },
   {
     id: "mauritius-dubreuil-cities-v2",
@@ -1302,6 +1343,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Situat la o altitudine medie de aproximativ 400 de metri", "Aparține districtului Moka, aflat în interiorul insulei", "Se află în imediata vecinătate a barajului Midlands, finalizat în 2002", "Regiunea înregistrează una dintre cele mai mari cantități de precipitații", "Populația localității este de aproximativ 2.800 de locuitori", "Economia este dominată de cultivarea trestiei de zahăr și a legumelor"],
       en: ["Situated at an average altitude of approximately 400 meters", "Belongs to the inland district of Moka", "Located in close proximity to the Midlands Dam, completed in 2002", "The region records some of the highest annual rainfall on the island", "The population stands at approximately 2,800 inhabitants", "Agriculture, mainly sugarcane and vegetables, is the primary economic activity"],
     },
+    image: "/poi-images/mauritius-dubreuil-cities-v2.webp",
   },
   {
     id: "mauritius-sebastopol-cities-v2",
@@ -1333,6 +1375,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Se află în districtul Flacq, în partea de est a insulei", "Populația este estimată la peste 5.500 de locuitori", "Numele provine probabil de la asediul Sevastopolului din Războiul Crimeii", "Regiunea este un centru pentru cultivarea comercială a trestiei de zahăr", "Satul este situat într-un peisaj colinar, în interiorul țării", "Dispune de piețe locale pentru produse agricole"],
       en: ["Located in the Flacq District in the east of the island", "The population is estimated at over 5,500 people", "The name likely refers to the Siege of Sevastopol during the Crimean War", "The region is a hub for commercial sugarcane cultivation", "The village is situated in a hilly, inland landscape", "Features local markets for the sale of agricultural produce"],
     },
+    image: "/poi-images/mauritius-sebastopol-cities-v2.webp",
   },
   {
     id: "mauritius-ecroignard-cities-v2",
@@ -1364,6 +1407,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Aparține administrativ de districtul Flacq", "Numărul locuitorilor este de aproximativ 2.500", "Se află la mică distanță de coasta de est a țării", "Localitatea este cunoscută tradițional pentru cultivarea legumelor", "Situat într-o câmpie cu soluri vulcanice fertile", "Așezarea prezintă o arhitectură tipic mauritiană"],
       en: ["Administratively part of the Flacq District", "The population is approximately 2,500 inhabitants", "Located not far from the eastern coast of the country", "The area is traditionally known for vegetable farming", "Situated on a plain with fertile volcanic soils", "The settlement features typical Mauritian architectural styles"],
     },
+    image: "/poi-images/mauritius-ecroignard-cities-v2.webp",
   },
   {
     id: "mauritius-camp-ithier-cities-v2",
@@ -1395,6 +1439,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Situat în estul insulei Mauritius, în districtul Flacq", "Populația numără aproximativ 4.300 de persoane", "Se află într-o zonă climatică tropicală cu precipitații moderate", "Așezarea este situată în apropierea orașului Centre de Flacq", "Economic, satul este marcat de mici afaceri și agricultură", "Dispune de conexiuni rutiere bine dezvoltate către coastă"],
       en: ["Located in eastern Mauritius within the Flacq District", "The population is approximately 4,300 people", "Situated in a tropical climate zone with moderate rainfall", "The settlement is positioned close to the town of Centre de Flacq", "The local economy is driven by small businesses and agriculture", "Boasts well-developed road links to the coastal areas"],
     },
+    image: "/poi-images/mauritius-camp-ithier-cities-v2.webp",
   },
   {
     id: "mauritius-bon-accueil-cities-v2",
@@ -1426,6 +1471,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Situat în partea central-estică a insulei Mauritius", "Găzduiește o populație de aproximativ 7.200 de locuitori", "Numele înseamnă în limba franceză „Bun venit”", "Dispune de mai multe lăcașuri de cult de diverse confesiuni", "Se află într-o regiune cu cultivare intensivă a trestiei de zahăr", "Satul este un nod de transport important pentru liniile de autobuz locale"],
       en: ["Located in the central-eastern part of Mauritius", "Home to a population of around 7,200 inhabitants", "The name translates to \"Warm Welcome\" in French", "Features multiple religious sites representing various faiths", "Situated in a region of intensive sugarcane cultivation", "The village is a key transit point for local bus routes"],
     },
+    image: "/poi-images/mauritius-bon-accueil-cities-v2.webp",
   },
   {
     id: "mauritius-laventure-cities-v2",
@@ -1457,6 +1503,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Aparține de districtul Flacq, în estul insulei", "Populația localității este de aproximativ 6.000 de locuitori", "Împrejurimile sunt cunoscute pentru cultivarea tutunului și a trestiei de zahăr", "Se află în relativă apropiere de coasta de nord-est", "Numele localității provine din franceză și înseamnă „Aventura”", "Terenul este caracterizat de formațiuni stâncoase vulcanice"],
       en: ["Part of the Flacq District in eastern Mauritius", "The population is approximately 6,000 inhabitants", "The surrounding area is known for tobacco and sugarcane farming", "Located relatively close to the northeastern coast", "The village name is French for \"The Adventure\"", "The terrain is characterized by volcanic rock formations"],
     },
+    image: "/poi-images/mauritius-laventure-cities-v2.webp",
   },
   {
     id: "mauritius-brisee-verdiere-cities-v2",
@@ -1488,6 +1535,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Situat în partea de nord a districtului Flacq", "Numărul locuitorilor se ridică la aproximativ 7.500", "Considerat unul dintre cele mai importante centre agricole din regiune", "Dispune de un sistem de educație și sănătate bine dezvoltat la nivel local", "Se află la o altitudine de circa 250 de metri deasupra mării", "Numele se referă probabil la flora locală sau la geografie"],
       en: ["Located in the northern part of the Flacq District", "The population totals approximately 7,500 people", "Regarded as one of the most significant agricultural hubs in the region", "Features well-established local education and healthcare facilities", "Situated at an altitude of about 250 meters above sea level", "The name likely refers to local flora or geographic features"],
     },
+    image: "/poi-images/mauritius-brisee-verdiere-cities-v2.webp",
   },
   {
     id: "mauritius-chamouny-cities-v2",
@@ -1519,6 +1567,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Situat în districtul Savanne, în sudul insulei", "Populația este de aproximativ 4.700 de persoane", "Se află în imediata apropiere a cascadelor Rochester", "Cascadele sunt renumite pentru coloanele lor de bazalt distincte", "Economia locală se bazează pe agricultură și ecoturism", "Satul este situat în mijlocul unui mediu colinar și verde"],
       en: ["Located in the Savanne District in the south of the island", "The population is approximately 4,700 people", "Situated in the immediate vicinity of Rochester Falls", "The falls are famous for their distinctive basalt columns", "The local economy is based on agriculture and ecotourism", "The village is set amidst a hilly, lush green environment"],
     },
+    image: "/poi-images/mauritius-chamouny-cities-v2.webp",
   },
   {
     id: "mauritius-baie-du-cap-cities-v2",
@@ -1550,6 +1599,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Situat pe drumul de coastă din sud-vestul insulei", "Populația este de aproximativ 2.400 de locuitori", "Găzduiește punctul de belvedere Macondé pe o stâncă vulcanică", "Un monument comemorează debarcarea lui Matthew Flinders în 1803", "Monumentul dedicat lui Flinders a fost inaugurat în anul 2003", "Satul se află la tranziția dintre laguna de corali și marea deschisă"],
       en: ["Located along the coastal road in the southwest of the island", "The population is around 2,400 inhabitants", "Home to the Macondé viewpoint situated on a volcanic rock", "A monument commemorates the landing of Matthew Flinders in 1803", "The Flinders monument was inaugurated in 2003", "The village sits at the transition between the coral lagoon and open sea"],
     },
+    image: "/poi-images/mauritius-baie-du-cap-cities-v2.webp",
   },
   {
     id: "mauritius-le-morne-village-cities-v2",
@@ -1581,6 +1631,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Aparține de districtul Black River în sud-vestul insulei Mauritius", "Populația este de aproximativ 2.000 de persoane", "Muntele Le Morne Brabant din apropiere este sit UNESCO din 2008", "Satul este un centru pentru cultura creolă a insulei", "Istoric, a fost o locație importantă pentru pescuit", "Regiunea este astăzi o destinație majoră pentru kitesurfing la nivel mondial"],
       en: ["Part of the Black River District in southwestern Mauritius", "The population is approximately 2,000 inhabitants", "The nearby Le Morne Brabant mountain became a UNESCO site in 2008", "The village serves as a hub for the island's Creole culture", "Historically, it was a significant location for local fishing", "The region is now a premier global destination for kitesurfing"],
     },
+    image: "/poi-images/mauritius-le-morne-village-cities-v2.webp",
   },
   {
     id: "mauritius-la-gaulette-cities-v2",
@@ -1612,6 +1663,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Situat pe coasta de vest, în districtul Black River", "Populația este de aproximativ 2.300 de locuitori", "Servește ca poartă principală către insula Île aux Bénitiers", "Dispune de o concentrație mare de pensiuni pentru sporturi nautice", "Numele se referă la un tip tradițional de undiță", "Oferă o vedere directă către muntele Le Morne Brabant"],
       en: ["Located on the west coast in the Black River District", "The population is approximately 2,300 inhabitants", "Serves as the main gateway to the offshore Île aux Bénitiers", "Has a high density of guesthouses catering to water sports enthusiasts", "The name refers to a traditional type of fishing rod", "Offers a direct view of the Le Morne Brabant mountain"],
     },
+    image: "/poi-images/mauritius-la-gaulette-cities-v2.webp",
   },
   {
     id: "mauritius-case-noyale-cities-v2",
@@ -1643,6 +1695,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Aparține de districtul Black River, pe coasta de vest", "Populația numără aproximativ 1.700 de locuitori", "A fost un centru al cultivării cafelei în secolele XVIII și XIX", "Găzduiește o capelă istorică din perioada colonială", "Economia se bazează astăzi pe pescuit și turism", "Localitatea se află la marginea Parcului Național Black River Gorges"],
       en: ["Part of the Black River District on the west coast", "The population is around 1,700 inhabitants", "Was a center of coffee cultivation in the 18th and 19th centuries", "Home to a historic chapel dating back to the colonial era", "The economy is currently based on fishing and tourism", "The village is situated on the edge of the Black River Gorges National Park"],
     },
+    image: "/poi-images/mauritius-case-noyale-cities-v2.webp",
   },
   {
     id: "mauritius-grande-riviere-noire-cities-v2",
@@ -1674,6 +1727,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Situat în vestul insulei Mauritius, în districtul cu același nume", "Populația este estimată la aproximativ 2.600 de persoane", "Este un centru cunoscut la nivel internațional pentru pescuitul sportiv", "Dispune de porturi moderne de ambarcațiuni și infrastructură maritimă", "Numele provine de la râul care se varsă aici în ocean", "Se află în imediata vecinătate a Parcului Național Black River"],
       en: ["Located in western Mauritius in the district of the same name", "The population is estimated at approximately 2,600 people", "Is an internationally recognized hub for big-game fishing", "Features modern marinas and maritime infrastructure", "The name is derived from the river that flows into the ocean here", "Situated in close proximity to the Black River Gorges National Park"],
     },
+    image: "/poi-images/mauritius-grande-riviere-noire-cities-v2.webp",
   },
   {
     id: "mauritius-petite-riviere-cities-v2",
@@ -1705,6 +1759,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Situat pe coasta de nord-vest a insulei", "Are o populație numeroasă de peste 11.000 de locuitori", "Găzduiește zone industriale importante ale țării", "Este cunoscut pentru închisoarea locală Petite Rivière", "Situat strategic pe drumul principal către Port Louis", "Regiunea deține urme arheologice ale așezărilor timpurii"],
       en: ["Located on the northwestern coast of the island", "Has a large population of over 11,000 inhabitants", "Home to significant industrial zones in the country", "Known for housing the local Petite Rivière prison", "Strategically located along the main road to Port Louis", "The region contains archaeological traces of early settlements"],
     },
+    image: "/poi-images/mauritius-petite-riviere-cities-v2.webp",
   },
   {
     id: "mauritius-grand-gaube-cities-v2",
@@ -1736,6 +1791,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Situat în districtul Rivière du Rempart, în nordul insulei", "Populația este de aproximativ 7.500 de persoane", "Unul dintre ultimele centre pentru construcția pirogilor din lemn lucrate manual", "Linia de coastă este marcată de numeroase golfulețe stâncoase", "Oferă o vedere panoramică asupra insulelor nordice, precum Coin de Mire", "Dispune de mai multe hoteluri de lux integrate armonios"],
       en: ["Located in the Rivière du Rempart District in the north", "The population is approximately 7,500 inhabitants", "One of the last centers for building handcrafted wooden pirogues", "The coastline is characterized by many small rocky inlets and bays", "Offers excellent views of the northern islets like Coin de Mire", "Features several luxury hotels that are harmoniously integrated"],
     },
+    image: "/poi-images/mauritius-grand-gaube-cities-v2.webp",
   },
   {
     id: "mauritius-roches-noires-cities-v2",
@@ -1767,6 +1823,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Satul este situat în districtul Rivière du Rempart, în nord-estul insulei.", "Numele localității se traduce prin „Rocile Negre”, referindu-se la bazaltul local.", "Zona găzduiește numeroase peșteri formate în vechi tuburi de lavă.", "Este o locație de top pentru kitesurfing datorită vânturilor constante.", "Relieful este marcat de activitatea vulcanică istorică a insulei.", "Distanța până la capitala Port Louis este de aproximativ 20 de kilometri."],
       en: ["The village is situated in the Rivière du Rempart district of Mauritius.", "Its name translates to \"Black Rocks,\" describing the coastal basalt formations.", "The area contains several accessible underground volcanic lava tubes.", "It is recognized as a major spot for kitesurfing and windsurfing.", "The coastline features numerous secluded coves and clear lagoons.", "Roches Noires is located roughly 20 kilometers from Port Louis."],
     },
+    image: "/poi-images/mauritius-roches-noires-cities-v2.webp",
   },
   {
     id: "mauritius-poudre-dor-cities-v2",
@@ -1798,6 +1855,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Satul se află în nord-estul insulei Mauritius, în districtul Rivière du Rempart.", "Nava „Le Saint Géran” s-a scufundat în apropiere la 17 august 1744.", "Există un monument ridicat în onoarea personajelor literare Paul și Virginie.", "Numele satului se traduce prin „Praf de Aur” datorită nisipului fin.", "Localitatea găzduiește un spital istoric ce datează din perioada colonială.", "Țărmul este caracterizat de prezența extinsă a pădurilor de mangrove."],
       en: ["The village is located in the northeast Rivière du Rempart district.", "The vessel \"Le Saint Géran\" wrecked nearby on August 17, 1744.", "A commemorative monument stands in the village for the shipwreck victims.", "The name Poudre d'Or means \"Golden Powder,\" referring to the sand.", "The village is home to one of the oldest specialized hospitals on the island.", "The coastal area is noted for its extensive and healthy mangrove forests."],
     },
+    image: "/poi-images/mauritius-poudre-dor-cities-v2.webp",
   },
   {
     id: "mauritius-plaine-des-papayes-cities-v2",
@@ -1829,6 +1887,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Satul este situat în districtul Pamplemousses, în interiorul insulei.", "Numele localității face referire la plantațiile de papaya de odinioară.", "Trestia de zahăr rămâne principala resursă agricolă a întregii zone.", "Regiunea este situată la o altitudine medie de aproximativ 60 de metri.", "Plaine des Papayes face legătura între satele de coastă și interior.", "Există vestigii ale vechilor conace coloniale în zonele limitrofe."],
       en: ["The village is situated in the Pamplemousses district of northern Mauritius.", "It was historically named after the abundance of papaya trees in the area.", "Sugarcane cultivation is the primary economic activity in the region.", "The elevation of the plain is approximately 60 meters above sea level.", "It acts as a strategic link between the northern coast and the uplands.", "The village has a diverse community with several historic places of worship."],
     },
+    image: "/poi-images/mauritius-plaine-des-papayes-cities-v2.webp",
   },
   {
     id: "mauritius-mapou-cities-v2",
@@ -1860,6 +1919,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Mapou este centrul administrativ al districtului Rivière du Rempart.", "Conacul Château de Labourdonnais a fost construit în anul 1856.", "Zona este cunoscută pentru producția artizanală de rom și sucuri naturale.", "Satul beneficiază de acces direct la autostrada M2 către Port Louis.", "Numele Mapou provine de la o specie de arbore endemică de pe insulă.", "Proprietatea Labourdonnais include grădini botanice și livezi vaste."],
       en: ["Mapou serves as the administrative headquarters for Rivière du Rempart.", "The Château de Labourdonnais was completed in 1856 by Christian Wiehe.", "The estate is famous for its artisanal rum distillery and fruit orchards.", "It is located alongside the M2 motorway, linking the north to the capital.", "The village is named after the endemic 'Mapou' tree species found locally.", "The local climate is ideal for growing tropical fruits like mangoes and litchis."],
     },
+    image: "/poi-images/mauritius-mapou-cities-v2.webp",
   },
   {
     id: "mauritius-fond-du-sac-cities-v2",
@@ -1891,6 +1951,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Satul se află în districtul Pamplemousses, în nordul insulei Mauritius.", "Denumirea sugerează locația sa într-o formă de relief de tip depresiune.", "Trestia de zahăr înconjoară aproape integral limitele intravilane ale satului.", "Localitatea a implementat sisteme noi de drenaj după inundațiile din 2013.", "Există o comunitate religioasă activă cu temple hinduse tradiționale.", "Agricultura locală este diversificată, incluzând numeroase ferme de legume."],
       en: ["The village is situated in the Pamplemousses district of Mauritius.", "The name implies a 'bottom of the bag' or a low-lying topographical pocket.", "Sugarcane plantations encircle the entire residential area of the village.", "The region suffered significant flash floods in 2013 and 2016.", "It features several prominent Hindu temples serving the local community.", "The fertile volcanic soil makes it one of the most productive farming areas."],
     },
+    image: "/poi-images/mauritius-fond-du-sac-cities-v2.webp",
   },
   {
     id: "mauritius-mont-choisy-cities-v2",
@@ -1922,6 +1983,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Mont Choisy este situat în districtul Pamplemousses, lângă Grand Baie.", "Plaja publică se întinde pe o lungime de aproape trei kilometri.", "Primul avion a aterizat pe acest teren la data de 10 septembrie 1933.", "Monumentul piloților Samat și Lemerle este un reper istoric local.", "Stațiunea găzduiește un teren de golf de campionat de nivel internațional.", "Apele golfului sunt protejate de recif, fiind ideale pentru familii."],
       en: ["Mont Choisy is located in the Pamplemousses district of northern Mauritius.", "The beach is one of the longest on the island, spanning nearly 3 km.", "On September 10, 1933, the first aircraft landing in Mauritius occurred here.", "A monument commemorates aviators Maurice Samat and Paul Louis Lemerle.", "The area is home to the Mont Choisy Le Golf, a premier 18-hole course.", "The beach is uniquely lined with casuarina (filao) trees instead of palms."],
     },
+    image: "/poi-images/mauritius-mont-choisy-cities-v2.webp",
   },
   {
     id: "mauritius-trou-aux-biches-cities-v2",
@@ -1953,6 +2015,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Localitatea este situată în districtul Pamplemousses, pe coasta de vest.", "Plaja a primit numeroase premii internaționale pentru frumusețea sa.", "Primul resort major de pe coastă a fost inaugurat aici în anul 1971.", "Reciful de corali din apropiere adăpostește o biodiversitate marină bogată.", "Numele se traduce aproximativ prin „Groapa Căprioarelor”.", "Este o locație preferată pentru scufundări și plimbări cu barca cu fund de sticlă."],
       en: ["The village is located in the Pamplemousses district on the northwest coast.", "Trou aux Biches has been frequently voted among the world's best beach destinations.", "The first major boutique hotel on the site opened its doors in 1971.", "The coral reef is easily accessible from the shore for snorkelers.", "The name refers to a watering hole or 'hole of the hinds' (deer).", "It is famous for its vibrant marine life and calm, swimmable lagoon."],
     },
+    image: "/poi-images/mauritius-trou-aux-biches-cities-v2.webp",
   },
   {
     id: "mauritius-pereybere-cities-v2",
@@ -1984,6 +2047,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Pereybere se află în districtul Rivière du Rempart, în extremitatea nordică.", "Plaja este renumită pentru claritatea apei și fundul mării nisipos.", "Localitatea este o bază populară pentru explorarea insulelor din nord.", "Vederea către insula Coin de Mire de pe plajă este una emblematică.", "Zona este recunoscută pentru numeroasele sale centre de scufundări.", "Pereybere oferă o varietate mare de restaurante cu specific pescăresc."],
       en: ["The village is situated in the Rivière du Rempart district of northern Mauritius.", "Its beach is noted for having clearer and deeper water than nearby bays.", "Pereybere is a popular hub for short-term vacation rentals and villas.", "Many catamaran excursions to northern islets like Flat Island depart from here.", "The beach offers an iconic view of the rock formation known as Coin de Mire.", "The area is famous for its cosmopolitan mix of local and international cuisine."],
     },
+    image: "/poi-images/mauritius-pereybere-cities-v2.webp",
   },
   {
     id: "mauritius-madrague-cities-v2",
@@ -2015,6 +2079,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Madrague este situată pe coasta de est a insulei, expusă alizeelor.", "Termenul „Madrague” se referă la o tehnică tradițională de pescuit cu plasă.", "Peisajul este dominat de roci vulcanice și vegetație de mlaștină maritimă.", "Zona a rămas în mare parte neafectată de dezvoltarea hotelieră masivă.", "Biodiversitatea marină din largul coastei este una remarcabilă.", "Este o destinație preferată de cei care caută solitudinea și natura pură."],
       en: ["Madrague is positioned on the windward eastern coast of Mauritius.", "The term 'Madrague' refers to a traditional fixed-net tuna fishing trap.", "The coastline features a mix of volcanic rocks and mangrove ecosystems.", "The area is characterized by a lack of large-scale commercial resorts.", "Local fishermen still practice traditional methods in these waters.", "It is a popular spot for birdwatching and exploring coastal biodiversity."],
     },
+    image: "/poi-images/mauritius-madrague-cities-v2.webp",
   },
   {
     id: "mauritius-la-flora-cities-v2",
@@ -2046,6 +2111,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["La Flora este situată în districtul Savanne, într-o zonă deluroasă.", "Regiunea este un centru vital pentru industria ceaiului din Mauritius.", "Temperaturile sunt aici cu câteva grade mai mici decât pe litoral.", "Localitatea este înconjurată de unele dintre cele mai vechi plantații de ceai.", "Numele reflectă varietatea mare de specii botanice din zonă.", "Satul este un punct de trecere important către lacul sacru Grand Bassin."],
       en: ["La Flora is located in the Savanne district in the southern highlands.", "It is a key part of the Mauritian tea route and production belt.", "The area experiences higher rainfall and cooler temperatures than the coast.", "Several historic tea estates are located in the immediate vicinity.", "The name 'La Flora' celebrates the abundant local botanical diversity.", "The village is a common stop on the road to the sacred Grand Bassin lake."],
     },
+    image: "/poi-images/mauritius-la-flora-cities-v2.webp",
   },
   {
     id: "mauritius-bois-cheri-village-cities-v2",
@@ -2077,6 +2143,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Plantația Bois Chéri a fost înființată oficial în anul 1892.", "Este cel mai mare producător de ceai de pe întreaga insulă.", "Fabrica procesează anual sute de tone de frunze de ceai verde și negru.", "Proprietatea include un lac pitoresc situat într-un fost crater vulcanic.", "Turiștii pot degusta specialități locale, precum ceaiul cu vanilie.", "Restaurantul oferă una dintre cele mai frumoase vederi panoramice din sud."],
       en: ["The Bois Chéri tea estate was officially founded in 1892.", "It remains the largest producer of tea in all of Mauritius.", "The factory processes hundreds of tons of tea leaves each year.", "The estate grounds include a scenic lake set in an ancient volcanic crater.", "It is famous for its unique flavored teas, especially the vanilla blend.", "The panoramic restaurant offers views spanning the entire southern coastline."],
     },
+    image: "/poi-images/mauritius-bois-cheri-village-cities-v2.webp",
   },
   {
     id: "mauritius-britannia-cities-v2",
@@ -2108,6 +2175,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Britannia se află în districtul Savanne, în sudul insulei.", "Fabrica de zahăr locală a fost un pilon economic timp de peste un secol.", "Activitatea industrială a fabricii de zahăr a încetat în anul 2010.", "Satul conservă structuri vechi tipice epocii coloniale britanice.", "Trestia de zahăr este în continuare principala cultură din regiune.", "Localitatea oferă o perspectivă asupra vieții rurale tradiționale mauritiene."],
       en: ["The village is situated in the Savanne district of southern Mauritius.", "The Britannia sugar estate was a major economic driver for over 100 years.", "The local sugar factory officially ceased its operations in 2010.", "The village layout includes traditional 'camps' for estate workers.", "The area is noted for its high-quality volcanic soil suitable for agriculture.", "Its name reflects the British influence on the island's colonial history."],
     },
+    image: "/poi-images/mauritius-britannia-cities-v2.webp",
   },
   {
     id: "mauritius-bois-des-amourettes-cities-v2",
@@ -2139,6 +2207,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Satul se află pe malul golfului istoric Grand Port, în sud-est.", "Lion Mountain domină orizontul localității cu forma sa caracteristică.", "Debarcaderul din lemn este unul dintre cele mai lungi de pe insulă.", "Zona este situată aproape de locul bătăliei navale din 1810.", "Numele satului s-ar traduce prin „Pădurea Micilor Iubiri”.", "Pescuitul artizanal rămâne principala activitate a locuitorilor de aici."],
       en: ["Bois des Amourettes is situated along the historic Grand Port bay.", "Lion Mountain provides a dramatic and recognizable backdrop to the village.", "The village features a famous long jetty stretching deep into the lagoon.", "It is located near the site of the 1810 naval Battle of Grand Port.", "The name poetically translates to 'The Wood of Little Loves'.", "The local community is predominantly involved in artisanal lagoon fishing."],
     },
+    image: "/poi-images/mauritius-bois-des-amourettes-cities-v2.webp",
   },
   {
     id: "mauritius-plaines-des-roches-cities-v2",
@@ -2170,6 +2239,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Plaines des Roches se întinde între districtele Rivière du Rempart și Flacq.", "Solul este compus aproape integral din roci bazaltice de origine vulcanică.", "Parcul eolian „Eole Plaine des Roches” a fost inaugurat în anul 2016.", "Regiunea este considerată una dintre cele mai vântoase zone ale insulei.", "Tradițional, zona a fost utilizată pentru extragerea pietrei de construcție.", "Există numeroase peșteri naturale formate în structura bazaltică a solului."],
       en: ["Plaines des Roches spans across the Rivière du Rempart and Flacq districts.", "The ground is largely composed of basaltic rocks from ancient lava flows.", "The Eole Plaine des Roches wind farm was commissioned here in 2016.", "It is identified as one of the windiest locations on the island of Mauritius.", "The area was historically used for stone quarrying due to its rocky nature.", "The plains host several underground caves and natural water reservoirs."],
     },
+    image: "/poi-images/mauritius-plaines-des-roches-cities-v2.webp",
   },
   {
     id: "mauritius-medine-camp-de-masque-cities-v2",
@@ -2201,6 +2271,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Satul se află în estul insulei, în cadrul districtului Flacq.", "Denumirea „Médine” provine de la istorica plantație de trestie de zahăr.", "Regiunea este recunoscută pentru producția diversificată de legume.", "Médine Camp de Masque este un punct nodal pentru comerțul rural din est.", "Localitatea găzduiește mai multe centre culturale și religioase.", "Peisajul înconjurător oferă vederi panoramice către munții din Flacq."],
       en: ["The village is situated in the Flacq district in the east of Mauritius.", "Its name 'Médine' originates from the historic local sugar estate.", "The area is a major contributor to the island's vegetable supply.", "It serves as a key commercial center for the surrounding rural villages.", "The community is multicultural, with various places of worship present.", "The nearby mountains of Flacq dominate the western horizon of the village."],
     },
+    image: "/poi-images/mauritius-medine-camp-de-masque-cities-v2.webp",
   },
   {
     id: "mauritius-creve-coeur-cities-v2",
@@ -2232,6 +2303,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Situat în districtul Pamplemousses", "Altitudine de aproximativ 150-200 metri", "Face parte din regiunea Long Mountain", "Focus pe cultivarea legumelor", "La aproximativ 10 kilometri de Port Louis", "Climat tropical cu ierni blânde"],
       en: ["Located in the Pamplemousses District", "Altitude of about 150 to 200 meters", "Part of the Long Mountain region", "Focus on vegetable farming", "About 10 kilometers from Port Louis", "Tropical climate with mild winters"],
     },
+    image: "/poi-images/mauritius-creve-coeur-cities-v2.webp",
   },
   {
     id: "mauritius-petiti-verger-cities-v2",
@@ -2263,6 +2335,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Aparține districtului Moka", "Zonă exclusiv rezidențială", "Proximitate față de orașul Saint Pierre", "Localizare pe podișul central", "Cantități mari de precipitații anuale", "Caracterizat de floră tropicală"],
       en: ["Belongs to the Moka District", "Purely residential area", "Proximity to Saint Pierre town", "Location on the central plateau", "High annual rainfall amounts", "Characterized by tropical flora"],
     },
+    image: "/poi-images/mauritius-petiti-verger-cities-v2.webp",
   },
   {
     id: "mauritius-mont-idat-cities-v2",
@@ -2294,6 +2367,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Situat în districtul Flacq", "Centru al cultivării trestiei de zahăr", "Regiunea estică a insulei", "Economie predominant agricolă", "Climat tropical de savană", "Legat istoric de fabricile de zahăr"],
       en: ["Located in the Flacq District", "Center of sugar cane cultivation", "Eastern region of the island", "Predominantly agricultural economy", "Tropical savannah climate", "Historically linked to sugar factories"],
     },
+    image: "/poi-images/mauritius-mont-idat-cities-v2.webp",
   },
   {
     id: "mauritius-melrose-cities-v2",
@@ -2325,6 +2399,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Aparține districtului Moka", "Locația închisorii Melrose", "Deschiderea penitenciarului în 2014", "Capacitate de 900 de deținuți", "Localizare în podișul central", "Mediu rural"],
       en: ["Belongs to the Moka District", "Site of the Melrose Prison", "Opening of the prison in 2014", "Capacity for 900 inmates", "Location on the central plateau", "Rural environment"],
     },
+    image: "/poi-images/mauritius-melrose-cities-v2.webp",
   },
   {
     id: "mauritius-cluny-cities-v2",
@@ -2356,6 +2431,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Situat în districtul Grand Port", "Localizare în sud-estul insulei", "Proximitate de localitatea Rose Belle", "Istoria plantațiilor de trestie de zahăr", "Climat tropical", "Comunitate rurală"],
       en: ["Located in the Grand Port District", "Southeastern location in Mauritius", "Proximity to Rose Belle town", "History of sugar cane plantations", "Tropical climate", "Rural community"],
     },
+    image: "/poi-images/mauritius-cluny-cities-v2.webp",
   },
   {
     id: "mauritius-bananes-cities-v2",
@@ -2387,6 +2463,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Aparține districtului Grand Port", "Proximitate de barajul Midlands", "Capacitate rezervor 42 mil. m³", "Teren muntos", "Regiune importantă pentru resursele de apă", "Localizare în centrul-estul insulei"],
       en: ["Belongs to the Grand Port District", "Near the Midlands Dam", "Reservoir capacity of 42 million m³", "Mountainous terrain", "Important water resource region", "Central-eastern location"],
     },
+    image: "/poi-images/mauritius-bananes-cities-v2.webp",
   },
   {
     id: "mauritius-le-val-cities-v2",
@@ -2418,6 +2495,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Situat în districtul Grand Port", "Locația Parcului Natural Le Val", "Suprafață de aproximativ 1000 de hectare", "Specii diverse de păsări", "Destinație pentru ecoturism", "Peisaj de văi și râuri"],
       en: ["Located in the Grand Port District", "Site of the Le Val Nature Park", "Area of about 1000 hectares", "Diverse bird species", "Ecotourism destination", "Valley and river landscape"],
     },
+    image: "/poi-images/mauritius-le-val-cities-v2.webp",
   },
   {
     id: "mauritius-clémencia-cities-v2",
@@ -2449,6 +2527,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Aparține districtului Flacq", "Localizare în estul insulei Mauritius", "Teren deluros", "Centru al producției de trestie de zahăr", "Tip de așezare rurală", "Climat tropical"],
       en: ["Belongs to the Flacq District", "Location in eastern Mauritius", "Hilly terrain", "Center of sugar cane production", "Rural settlement type", "Tropical climate"],
     },
+    image: "/poi-images/mauritius-clémencia-cities-v2.webp",
   },
   {
     id: "mauritius-olivier-cities-v2",
@@ -2480,6 +2559,7 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Așezare rurală", "Patrimoniu agricol", "Localizare în interiorul insulei", "Zonă de plantații", "Metode tradiționale de cultivare", "Mediu rezidențial liniștit"],
       en: ["Rural settlement", "Agricultural heritage", "Inland location", "Plantation area", "Traditional farming methods", "Quiet residential environment"],
     },
+    image: "/poi-images/mauritius-olivier-cities-v2.webp",
   },
   {
     id: "mauritius-vacoas-phoenix-cities-v2",
@@ -2511,5 +2591,6 @@ export const mauritiusCitiesV2: POI[] = [
       ro: ["Situat în districtul Plaines Wilhems", "Fuziune în anul 1963", "Altitudine de aproximativ 400 de metri", "Sediul Special Mobile Force", "Important nod de transport", "Centru al industriei farmaceutice"],
       en: ["Located in the Plaines Wilhems District", "Merger in the year 1963", "Altitude of about 400 meters", "Headquarters of the Special Mobile Force", "Major transport hub", "Center of the pharmaceutical industry"],
     },
+    image: "/poi-images/mauritius-vacoas-phoenix-cities-v2.webp",
   }
 ];

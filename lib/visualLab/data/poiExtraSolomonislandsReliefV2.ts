@@ -31,6 +31,7 @@ export const solomonislandsReliefV2: POI[] = [
       ro: ["Muntele atinge o înălțime maximă de aproximativ 1.060 de metri.", "Este cea mai înaltă cotă de pe insula Choiseul.", "Din punct de vedere geologic, este clasificat ca un vulcan stins.", "În pădurile de pe munte au fost identificate specii rare de lilieci.", "Masivul montan este compus predominant din bazalt și andezit.", "Precipitațiile anuale la nivelul vârfului depășesc adesea 3.500 mm."],
       en: ["The mountain reaches a maximum elevation of about 1,060 meters.", "It is the highest point of elevation on Choiseul Island.", "Geologically, it is classified as an extinct volcano.", "Rare species of bats have been identified in the mountain's forests.", "The mountain massif is predominantly composed of basalt and andesite.", "Annual rainfall at the summit often exceeds 3,500 mm."],
     },
+    image: "/poi-images/solomonislands-mount-maetambe-relief-v2.webp",
   },
   {
     id: "solomonislands-mount-kela-relief-v2",
@@ -62,6 +63,7 @@ export const solomonislandsReliefV2: POI[] = [
       ro: ["Muntele Kela este situat în partea centrală a insulei Santa Isabel.", "Regiunea vârfului este aproape în permanență învăluită în nori.", "Compoziția rocii include parțial complexe ofiolitice.", "Face parte dintr-o zonă protejată pentru flora și fauna locală.", "Muntele servește drept cumpănă de ape pentru mai multe sisteme fluviale.", "Vegetația este formată în principal din pădure tropicală montană."],
       en: ["Mount Kela is located in the central part of Santa Isabel Island.", "The summit region is almost constantly shrouded in clouds.", "The rock composition includes partial ophiolitic complexes.", "It is part of a protected area for local flora and fauna.", "The mountain serves as a drainage divide for several river systems.", "The vegetation consists mainly of tropical montane rainforest."],
     },
+    image: "/poi-images/solomonislands-mount-kela-relief-v2.webp",
   },
   {
     id: "solomonislands-mount-galau-relief-v2",
@@ -93,6 +95,7 @@ export const solomonislandsReliefV2: POI[] = [
       ro: ["Muntele Galau atinge o înălțime de aproximativ 1.020 de metri.", "Este situat în partea de nord-vest a insulei Santa Isabel.", "Muntele este compus în principal din bazalt și sedimente silicioase.", "În regiune au fost documentate specii endemice de rozătoare.", "Servește ca bazin hidrografic important pentru districtul Maringe.", "Înclinația versanților depășește adesea 45 de grade."],
       en: ["Mount Galau reaches an elevation of approximately 1,020 meters.", "It is located in the northwestern part of Santa Isabel.", "The mountain consists primarily of basalt and siliceous sediments.", "Endemic rodent species have been documented in the region.", "It serves as an important catchment area for the Maringe district.", "The slope of the flanks often exceeds 45 degrees."],
     },
+    image: "/poi-images/solomonislands-mount-galau-relief-v2.webp",
   },
   {
     id: "solomonislands-mount-gower-relief-v2",
@@ -124,6 +127,7 @@ export const solomonislandsReliefV2: POI[] = [
       ro: ["Muntele este situat într-o regiune cu umiditate extrem de ridicată.", "Este compus în principal din lavă solidificată și cenușă vulcanică.", "În zonele înalte cresc specii rare de mușchi și ferigi.", "Muntele Gower face parte din sistemul montan oceanic al Insulelor Solomon.", "Regiunea vârfului este un habitat important pentru păsările montane.", "Muntele este menționat frecvent în tradițiile orale locale."],
       en: ["The mountain is located in a region with extremely high humidity.", "It consists primarily of solidified lava and volcanic ash.", "Rare species of moss and ferns grow in the high-altitude areas.", "Mount Gower is part of the oceanic mountain system of the Solomon Islands.", "The summit region is an important habitat for mountain birds.", "The mountain is frequently mentioned in local oral traditions."],
     },
+    image: "/poi-images/solomonislands-mount-gower-relief-v2.webp",
   },
   {
     id: "solomonislands-mount-vangunu-relief-v2",
@@ -155,6 +159,7 @@ export const solomonislandsReliefV2: POI[] = [
       ro: ["Vârful atinge o înălțime de 1.123 de metri.", "Vangunu face parte din arcul insular New Georgia.", "Muntele are o structură distinctă de crater vulcanic.", "Se învecinează cu Laguna Marovo, aflată în patrimoniul UNESCO.", "Pe versanți au fost descoperite specii endemice de șobolani uriași.", "Muntele reglează rezervele de apă dulce pentru întreaga insulă."],
       en: ["The summit reaches an elevation of 1,123 meters.", "Vangunu is part of the New Georgia island arc.", "The mountain possesses a distinct volcanic crater structure.", "It borders the UNESCO World Heritage site of Marovo Lagoon.", "Endemic species of giant rats have been discovered on the slopes.", "The mountain regulates the fresh water supply for the entire island."],
     },
+    image: "/poi-images/solomonislands-mount-vangunu-relief-v2.webp",
   },
   {
     id: "solomonislands-mount-rendova-relief-v2",
@@ -186,6 +191,7 @@ export const solomonislandsReliefV2: POI[] = [
       ro: ["Muntele Rendova atinge o înălțime de 1.063 de metri.", "Muntele este un stratovulcan stins din perioada pleistocenului.", "Este situat la sud de orașul Munda din arhipelagul New Georgia.", "Insula Rendova este cunoscută pentru precipitațiile anuale foarte ridicate.", "Pe flancurile muntelui cresc ferigi arborescente endemice.", "Forțele americane au menținut poziții la poalele muntelui în 1943."],
       en: ["Mount Rendova reaches an elevation of 1,063 meters.", "The mountain is an extinct stratovolcano from the Pleistocene.", "It is located south of the town of Munda in the New Georgia archipelago.", "Rendova Island is known for its very high annual rainfall.", "Endemic tree ferns grow on the flanks of the mountain.", "U.S. forces maintained positions at the foot of the mountain in 1943."],
     },
+    image: "/poi-images/solomonislands-mount-rendova-relief-v2.webp",
   },
   {
     id: "solomonislands-mount-paneti-relief-v2",
@@ -217,6 +223,7 @@ export const solomonislandsReliefV2: POI[] = [
       ro: ["Muntele Paneti este situat în interiorul muntos al insulei Choiseul.", "Regiunea primește anual peste 3.000 mm de precipitații.", "Muntele este compus parțial din brecie vulcanică.", "Adăpostește specii rare de păsări, cum ar fi papagalul lori din Choiseul.", "Înălțimea vârfului este înregistrată pe hărțile topografice locale.", "Zona este accesibilă doar prin poteci tradiționale prin junglă."],
       en: ["Mount Paneti is located in the mountainous interior of Choiseul.", "The region receives over 3,000 mm of rainfall annually.", "The mountain consists partly of volcanic breccia.", "It hosts rare bird species such as the Choiseul lory.", "The summit elevation is recorded on local topographic maps.", "The area is accessible only via traditional bush tracks."],
     },
+    image: "/poi-images/solomonislands-mount-paneti-relief-v2.webp",
   },
   {
     id: "solomonislands-mount-sambe-relief-v2",
@@ -248,6 +255,7 @@ export const solomonislandsReliefV2: POI[] = [
       ro: ["Muntele este situat în partea de est a insulei Choiseul.", "Este compus în principal din andezit vulcanic.", "Regiunea vârfului este adesea acoperită de nori de alizee.", "Muntele alimentează mai mulți afluenți ai râului Vura.", "Pe versanți se găsesc specii rare de orhidee.", "Regiunea este o zonă desemnată pentru cercetarea în domeniul conservării naturii."],
       en: ["The mountain is located in the eastern part of Choiseul Island.", "It consists primarily of volcanic andesite.", "The summit region is often covered by trade wind clouds.", "The mountain feeds several tributaries of the Vura River.", "Rare species of orchids are found on the slopes.", "The region is a designated area for nature conservation research."],
     },
+    image: "/poi-images/solomonislands-mount-sambe-relief-v2.webp",
   },
   {
     id: "solomonislands-mount-turu-relief-v2",
@@ -279,6 +287,7 @@ export const solomonislandsReliefV2: POI[] = [
       ro: ["Muntele Turu este situat în partea de nord-centrală a insulei Guadalcanal.", "Atinge o înălțime de aproximativ 1.000 de metri.", "Muntele este compus în principal din roci vulcanice din perioada pliocenului.", "Este un habitat important pentru pasărea endemică Honeyeater de Guadalcanal.", "Mai multe pârâuri curg de pe munte în râul Lungga.", "În apropiere se află rămășițe ale unor poziții japoneze din anul 1942."],
       en: ["Mount Turu is located in the north-central part of Guadalcanal.", "It reaches an elevation of approximately 1,000 meters.", "The mountain consists primarily of Pliocene volcanic rocks.", "It is an important habitat for the endemic Guadalcanal honeyeater.", "Several streams flow from the mountain into the Lungga River.", "Remnants of Japanese positions from 1942 are located nearby."],
     },
+    image: "/poi-images/solomonislands-mount-turu-relief-v2.webp",
   },
   {
     id: "solomonislands-mount-kaichui-relief-v2",
@@ -310,6 +319,7 @@ export const solomonislandsReliefV2: POI[] = [
       ro: ["Muntele Kaichui atinge o înălțime de peste 900 de metri.", "Este situat în sectorul vestic al insulei Choiseul.", "Muntele este compus predominant din roci vulcanice terțiare.", "Regiunea este cunoscută pentru speciile sale endemice de ferigi.", "Face parte din sistemul de drenaj al râului Kolombangara.", "Nu există așezări umane permanente pe munte."],
       en: ["Mount Kaichui reaches an elevation of over 900 meters.", "It is located in the western sector of Choiseul Island.", "The mountain consists predominantly of Tertiary volcanic rocks.", "The region is known for its endemic fern species.", "It is part of the drainage system of the Kolombangara River.", "There are no permanent human settlements on the mountain."],
     },
+    image: "/poi-images/solomonislands-mount-kaichui-relief-v2.webp",
   },
   {
     id: "solomonislands-mount-marescot-relief-v2",
@@ -341,6 +351,7 @@ export const solomonislandsReliefV2: POI[] = [
       ro: ["Muntele Marescot este cea mai înaltă cotă de pe Santa Isabel.", "Muntele atinge o înălțime de 1.220 de metri deasupra nivelului mării.", "Masivul montan este compus din roci provenite din scoarța oceanică.", "Adăpostește specia rară de papagal lori de Santa Isabel.", "Precipitațiile anuale pot atinge până la 4.000 mm.", "Pe versanții inferiori există zăcăminte importante de nichel."],
       en: ["Mount Marescot is the highest elevation on Santa Isabel.", "The mountain reaches a height of 1,220 meters above sea level.", "The mountain massif consists of rocks from the oceanic crust.", "It is home to the rare Santa Isabel lory.", "Annual rainfall can reach up to 4,000 mm.", "There are significant nickel deposits on the lower slopes."],
     },
+    image: "/poi-images/solomonislands-mount-marescot-relief-v2.webp",
   },
   {
     id: "solomonislands-mount-namarakao-relief-v2",
@@ -372,6 +383,7 @@ export const solomonislandsReliefV2: POI[] = [
       ro: ["Muntele Namarakao este situat în partea centrală a insulei Vella Lavella.", "Este un con vulcanic stins din perioada cuaternară.", "În apropiere se află vulcani noroioși activi.", "Muntele atinge o înălțime de 790 de metri.", "Solurile de pe munte sunt extrem de fertile și bogate în minerale.", "Face parte din arcul vulcanic New Georgia."],
       en: ["Mount Namarakao is located in the central part of Vella Lavella.", "It is an extinct volcanic cone from the Quaternary period.", "Active mud volcanoes are located nearby.", "The mountain reaches an elevation of 790 meters.", "The soils on the mountain are extremely fertile and mineral-rich.", "It is part of the New Georgia volcanic arc."],
     },
+    image: "/poi-images/solomonislands-mount-namarakao-relief-v2.webp",
   },
   {
     id: "solomonislands-kavo-range-relief-v2",
@@ -403,6 +415,7 @@ export const solomonislandsReliefV2: POI[] = [
       ro: ["Lanțul Kavo include Muntele Popomanaseu (2.335 m).", "Este cel mai înalt sistem muntos din întreaga țară.", "Munții sunt compuși parțial din calcare coraliere ridicate.", "Aici se află singurele zone alpine tropicale din Insulele Solomon.", "Lanțul muntos reglează condițiile meteorologice pentru capitala Honiara.", "Cantitatea anuală de precipitații poate depăși 5.000 mm pe vârfuri."],
       en: ["The Kavo Range includes Mount Popomanaseu (2,335 m).", "It is the highest mountain range in the entire island nation.", "The range is composed partly of uplifted coral limestones.", "It contains the only tropical alpine zones in the Solomon Islands.", "The range regulates the weather patterns for the capital, Honiara.", "Annual rainfall in the summit areas can exceed 5,000 mm."],
     },
+    image: "/poi-images/solomonislands-kavo-range-relief-v2.webp",
   },
   {
     id: "solomonislands-central-range-malaita-relief-v2",
@@ -434,6 +447,7 @@ export const solomonislandsReliefV2: POI[] = [
       ro: ["Lanțul Central atinge o înălțime de 1.303 m pe Muntele Emu.", "Munții împart insula într-o parte estică și una vestică.", "Formațiunile stâncoase datează predominant din perioada cretacică.", "În zonele înalte trăiesc păsări rare, cum ar fi rândunica de Malaita.", "Creasta muntoasă este sursa râului Auki.", "Există numeroase sisteme de peșteri carstice în zonele de calcar."],
       en: ["The Central Range reaches an elevation of 1,303 m at Mount Emu.", "The mountains divide the island into eastern and western sides.", "The rock formations date predominantly from the Cretaceous period.", "Rare birds such as the Malaita fantail live in the high elevations.", "The mountain ridge is the source for the Auki River.", "There are numerous karst cave systems in the limestone areas."],
     },
+    image: "/poi-images/solomonislands-central-range-malaita-relief-v2.webp",
   },
   {
     id: "solomonislands-itina-valley-relief-v2",
@@ -465,6 +479,7 @@ export const solomonislandsReliefV2: POI[] = [
       ro: ["Valea este situată în zonele înalte centrale din Guadalcanal, Insulele Solomon.", "Râul Itina este cursul de apă primar care a modelat valea de-a lungul mileniilor.", "Regiunea primește anual peste 3000 mm de precipitații, hrănind jungla densă.", "Zona a fost scena unor lupte locale în timpul Bătăliei de la Guadalcanal din 1942.", "Altitudinea medie a fundului văii este cuprinsă între 200 și 400 de metri deasupra nivelului mării.", "Este un habitat important pentru speciile de păsări endemice din Insulele Solomon."],
       en: ["The valley is situated in the central highlands of Guadalcanal in the Solomon Islands.", "The Itina River is the primary watercourse that has shaped the valley over millennia.", "The region receives over 3000 mm of annual rainfall, feeding the dense jungle.", "The area was the site of local skirmishes during the Battle of Guadalcanal in 1942.", "Average elevation of the valley floor ranges between 200 and 400 meters above sea level.", "It is a key habitat for endemic bird species of the Solomon Islands."],
     },
+    image: "/poi-images/solomonislands-itina-valley-relief-v2.webp",
   },
   {
     id: "solomonislands-lungga-plain-relief-v2",
@@ -496,6 +511,7 @@ export const solomonislandsReliefV2: POI[] = [
       ro: ["Câmpia Lungga acoperă o suprafață de aproximativ 30 de kilometri pătrați pe coasta de nord.", "Aerodromul strategic Henderson Field a fost finalizat aici în august 1942.", "Râul Lungga formează granița de vest a câmpiei și se varsă în Ironbottom Sound.", "Înainte de 1942, aici se afla Lever's Pacific Plantations Ltd, o mare companie de copra.", "Honiara, capitala Insulelor Solomon, a fost construită pe această câmpie după cel de-al Doilea Război Mondial.", "Altitudinea medie a câmpiei este de mai puțin de 20 de metri deasupra nivelului mării."],
       en: ["The Lungga Plain covers an area of approximately 30 square kilometers on the north coast.", "The strategic Henderson Field airfield was completed here in August 1942.", "The Lungga River forms the western boundary of the plain and flows into Ironbottom Sound.", "Prior to 1942, the site was home to Lever's Pacific Plantations Ltd, a major copra enterprise.", "Honiara, the capital of the Solomon Islands, was built on this plain after World War II.", "The average elevation of the plain is less than 20 meters above sea level."],
     },
+    image: "/poi-images/solomonislands-lungga-plain-relief-v2.webp",
   },
   {
     id: "solomonislands-gold-ridge-relief-v2",
@@ -527,6 +543,7 @@ export const solomonislandsReliefV2: POI[] = [
       ro: ["Mina Gold Ridge este situată la aproximativ 30 km sud-est de capitala Honiara.", "Mineritul comercial a început oficial aici în anul 1998.", "Zona se află la o altitudine de aproximativ 500 până la 600 de metri deasupra nivelului mării.", "Înregistrările istorice despre aur datează de la Alvaro de Mendaña în 1568.", "Mina a fost scoasă din funcțiune în 2014 în urma unor inundații severe.", "Este singura mină de aur la scară largă din Insulele Solomon."],
       en: ["The Gold Ridge mine is located about 30 km southeast of the capital, Honiara.", "Commercial mining operations officially began here in 1998.", "The area sits at an elevation of approximately 500 to 600 meters above sea level.", "Historical records of gold date back to Alvaro de Mendaña in 1568.", "The mine was decommissioned in 2014 following severe flooding events.", "It is the only large-scale gold mining operation in the Solomon Islands."],
     },
+    image: "/poi-images/solomonislands-gold-ridge-relief-v2.webp",
   },
   {
     id: "solomonislands-mount-gallego-relief-v2",
@@ -558,6 +575,7 @@ export const solomonislandsReliefV2: POI[] = [
       ro: ["Muntele Gallego atinge o înălțime maximă de aproximativ 1.070 de metri.", "Este un vulcan stins care datează din epoca pleistocenului.", "Muntele este situat în vârful de nord-vest al insulei Guadalcanal.", "Trupele japoneze au folosit muntele ca ultimă poziție defensivă în ianuarie 1943.", "Zona înconjurătoare este cunoscută ca o zonă importantă pentru păsări (IBA).", "Pantele sunt acoperite aproape în întregime de pădure tropicală virgină."],
       en: ["Mount Gallego reaches a maximum elevation of approximately 1,070 meters.", "It is an extinct volcano dating back to the Pleistocene epoch.", "The mountain is located at the northwestern tip of Guadalcanal island.", "Japanese forces used the mountain as a final defensive position in January 1943.", "The surrounding area is recognized as an Important Bird Area (IBA).", "The slopes are almost entirely covered by pristine tropical rainforest."],
     },
+    image: "/poi-images/solomonislands-mount-gallego-relief-v2.webp",
   },
   {
     id: "solomonislands-mount-nasuha-relief-v2",
@@ -589,6 +607,7 @@ export const solomonislandsReliefV2: POI[] = [
       ro: ["Muntele Nasuha este situat în lanțul muntos sud-central din Guadalcanal.", "Regiunea înregistrează precipitații anuale care depășesc adesea 5.000 mm.", "Vârful este frecvent învăluit în nori densi și ceață, favorizând pădurile de nori.", "Servește ca un bazin hidrografic vital pentru râurile de pe Weather Coast.", "Terenul este caracterizat de stânci extrem de abrupte și chei adânci.", "Vegetația constă predominant din pădure tropicală submontană și păduri de mușchi."],
       en: ["Mount Nasuha is located in the south-central mountain range of Guadalcanal.", "The region records annual rainfall amounts often exceeding 5,000 mm.", "The summit is frequently shrouded in dense clouds and mist, favoring cloud forests.", "It serves as a vital watershed for the rivers of the Weather Coast.", "The terrain is characterized by extremely steep cliffs and deep gorges.", "Vegetation consists primarily of submontane rainforest and moss forests."],
     },
+    image: "/poi-images/solomonislands-mount-nasuha-relief-v2.webp",
   },
   {
     id: "solomonislands-florida-ridge-relief-v2",
@@ -620,6 +639,7 @@ export const solomonislandsReliefV2: POI[] = [
       ro: ["Florida Ridge se întinde pe întreaga lungime a Insulelor Nggela.", "Cea mai înaltă cotă a crestei atinge aproximativ 400 de metri deasupra nivelului mării.", "Tulagi, fosta capitală a Insulelor Solomon, se află la capătul sud-vestic al crestei.", "Creasta este compusă dintr-un amestec de material vulcanic și calcar.", "În timpul Bătăliei de la Guadalcanal din 1942, creasta a fost un punct de observație vital.", "Zona este cunoscută pentru numeroasele sale peșteri care au servit drept buncăre în timpul războiului."],
       en: ["Florida Ridge extends across the entire length of the Nggela Islands.", "The highest elevation of the ridge reaches approximately 400 meters above sea level.", "Tulagi, the former capital of the Solomon Islands, is located at the southwest end of the ridge.", "The ridge is composed of a mixture of volcanic material and limestone.", "During the Battle of Guadalcanal in 1942, the ridge was a vital observation point.", "The area is known for its numerous caves that served as bunkers during the war."],
     },
+    image: "/poi-images/solomonislands-florida-ridge-relief-v2.webp",
   },
   {
     id: "solomonislands-mount-kubonitu-relief-v2",
@@ -651,6 +671,7 @@ export const solomonislandsReliefV2: POI[] = [
       ro: ["Muntele Kubonitu este o componentă centrală a crestei muntoase din Guadalcanal.", "Flora include numeroase specii de orhidee endemice din Insulele Solomon.", "Muntele formează cumpăna de ape între câmpiile de coastă de nord și de sud.", "Cantitatea medie anuală de precipitații la această altitudine depășește 4.000 mm.", "Nu există așezări umane permanente direct pe vârful muntelui.", "Solul este compus predominant din rocă vulcanică alterată și pământuri lateritice."],
       en: ["Mount Kubonitu is a central component of the Guadalcanal mountain ridge.", "The flora includes numerous endemic Solomon Islands orchid species.", "The mountain forms the watershed between the northern and southern coastal plains.", "The average annual rainfall at this elevation exceeds 4,000 mm.", "There are no permanent human settlements directly at the summit of the mountain.", "The soil is predominantly composed of weathered volcanic rock and lateritic earths."],
     },
+    image: "/poi-images/solomonislands-mount-kubonitu-relief-v2.webp",
   },
   {
     id: "solomonislands-mount-suku-relief-v2",
@@ -682,6 +703,7 @@ export const solomonislandsReliefV2: POI[] = [
       ro: ["Muntele Suku este situat în zonele înalte sud-centrale izolate din Guadalcanal.", "Muntele atinge o înălțime estimată de peste 1.200 de metri.", "Zona este una dintre cele mai puțin explorate regiuni din Insulele Solomon.", "Roca este compusă în principal din rocă vulcanică terțiară.", "Temperatura medie pe munte este semnificativ mai rece decât pe coastă datorită altitudinii.", "În pădurile de pe Muntele Suku trăiesc lilieci giganți rari."],
       en: ["Mount Suku is located in the remote south-central highlands of Guadalcanal.", "The mountain reaches an estimated elevation of over 1,200 meters.", "The area is one of the least explored regions of the Solomon Islands.", "The rock composition is primarily tertiary volcanic rock.", "The mean temperature on the mountain is significantly cooler than on the coast due to altitude.", "The forests of Mount Suku are home to rare giant fruit bats."],
     },
+    image: "/poi-images/solomonislands-mount-suku-relief-v2.webp",
   },
   {
     id: "solomonislands-mount-lambi-relief-v2",
@@ -713,6 +735,7 @@ export const solomonislandsReliefV2: POI[] = [
       ro: ["Muntele Lambi este situat în extremitatea vestică a insulei Guadalcanal.", "Muntele atinge o înălțime de aproximativ 800 până la 1.000 de metri.", "Acesta marchează capătul vestic al crestei muntoase centrale a insulei.", "Regiunea este cunoscută pentru obiceiurile sale tradiționale și siturile ancestrale.", "Vegetația constă în principal din pădure tropicală de joasă altitudine și montană.", "Cursuri de apă importante curg de pe pante în Golful Lambi."],
       en: ["Mount Lambi is located in the far west of Guadalcanal island.", "The mountain reaches an elevation of approximately 800 to 1,000 meters.", "It marks the western end of the island's central mountain ridge.", "The region is known for its traditional customs and ancestral sites.", "The vegetation consists primarily of tropical lowland and montane rainforest.", "Important watercourses flow from the slopes into Lambi Bay."],
     },
+    image: "/poi-images/solomonislands-mount-lambi-relief-v2.webp",
   },
   {
     id: "solomonislands-savo-crater-relief-v2",
@@ -744,5 +767,6 @@ export const solomonislandsReliefV2: POI[] = [
       ro: ["Savo este un stratovulcan activ cu o înălțime de 485 de metri.", "Ultima erupție majoră a fost înregistrată între 1847 și 1850.", "Izvoarele geotermale din crater ating temperaturi de peste 100 de grade Celsius.", "Insula este situată în Ironbottom Sound, un celebru loc de bătălii navale.", "Pasările megapode folosesc căldura solului vulcanic pentru a-și incuba ouăle.", "Monitorizarea vulcanică este efectuată regulat de geologi din Honiara."],
       en: ["Savo is an active stratovolcano with an elevation of 485 meters.", "The last major eruption was recorded between 1847 and 1850.", "Geothermal springs in the crater reach temperatures exceeding 100 degrees Celsius.", "The island is located in Ironbottom Sound, a famous site of naval battles.", "Megapode birds use the volcano's ground heat to incubate their eggs.", "Volcanic monitoring is conducted regularly by geologists from Honiara."],
     },
+    image: "/poi-images/solomonislands-savo-crater-relief-v2.webp",
   }
 ];

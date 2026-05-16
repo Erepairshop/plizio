@@ -31,6 +31,7 @@ export const malawiReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf: 2.000 m", "Lungime: 200 km", "Suprafața pădurii: 1.100 km²", "Prima plantație: 1924", "Precipitații anuale: 1.200–1.800 mm", "Vârsta geologică: Precambrian"],
       en: ["Highest peak: 2,000 m above sea level", "Length: 200 km", "Forest area: 1,100 km²", "First plantation established: 1924", "Annual rainfall: 1,200–1,800 mm", "Geological age: Precambrian (over 540 million years)"],
     },
+    image: "/poi-images/malawi-viphya-mountains-relief-v2.webp",
   },
   {
     id: "malawi-kirk-range-relief-v2",
@@ -62,6 +63,7 @@ export const malawiReliefV2: POI[] = [
       ro: ["Lungime: 150 km", "Altitudine medie: 1.200 m", "Cel mai înalt punct: 1.800 m", "Precipitații anuale: 900–1.400 mm", "Roci: gnais, cuarțit", "Culturi: ceai, cafea, porumb, tutun"],
       en: ["Length: 150 km", "Average elevation: 1,200 m", "Highest point: 1,800 m", "Annual rainfall: 900–1,400 mm", "Rock types: gneiss and quartzite", "Major crops: tea, coffee, maize, tobacco"],
     },
+    image: "/poi-images/malawi-kirk-range-relief-v2.webp",
   },
   {
     id: "malawi-misuku-hills-relief-v2",
@@ -93,6 +95,7 @@ export const malawiReliefV2: POI[] = [
       ro: ["Altitudine maximă: 1.700 m", "Precipitații: 1.000 mm/an", "Grup etnic: Mambwe", "Rezervație forestieră", "Râu: Songwe", "Culturi: manioc, cafea"],
       en: ["Highest point: 1,700 m", "Annual rainfall: 1,000 mm", "Ethnic group: Mambwe", "Protected area: Forest Reserve", "River: Songwe", "Main crops: cassava, coffee"],
     },
+    image: "/poi-images/malawi-misuku-hills-relief-v2.webp",
   },
   {
     id: "malawi-dzalanyama-range-relief-v2",
@@ -124,6 +127,7 @@ export const malawiReliefV2: POI[] = [
       ro: ["Lungime: 50 km", "Altitudine medie: 1.500 m", "Rezervație forestieră: 300 km²", "Precipitații anuale: 800–1.200 mm", "Râu: Lilongwe", "Culturi: porumb, tutun"],
       en: ["Length: 50 km", "Average elevation: 1,500 m", "Forest reserve: 300 km²", "Annual rainfall: 800–1,200 mm", "River: Lilongwe River", "Crops: maize, tobacco"],
     },
+    image: "/poi-images/malawi-dzalanyama-range-relief-v2.webp",
   },
   {
     id: "malawi-thyolo-mountain-relief-v2",
@@ -155,6 +159,7 @@ export const malawiReliefV2: POI[] = [
       ro: ["Altitudine: 1.400 m", "Rocă: sienit", "Precipitații anuale: 1.500 mm", "Perioada uscată: mai–octombrie", "Plantații de ceai din: anii 1900", "Oraș: Thyolo"],
       en: ["Elevation: 1,400 m", "Rock type: syenite", "Annual rainfall: 1,500 mm", "Dry season: May to October", "Tea plantations since: early 1900s", "Nearby town: Thyolo"],
     },
+    image: "/poi-images/malawi-thyolo-mountain-relief-v2.webp",
   },
   {
     id: "malawi-chiradzulu-mountain-relief-v2",
@@ -186,6 +191,7 @@ export const malawiReliefV2: POI[] = [
       ro: ["Altitudine: 1.739 m", "Rocă: nefelin sienit", "Precipitații: 1.200 mm/an", "Distanța de Blantyre: 15 km", "Culturi: porumb, fasole", "District: Chiradzulu"],
       en: ["Elevation: 1,739 m", "Rock type: nepheline syenite", "Annual rainfall: 1,200 mm", "Distance from Blantyre: 15 km", "Crops: maize, beans", "District: Chiradzulu"],
     },
+    image: "/poi-images/malawi-chiradzulu-mountain-relief-v2.webp",
   },
   {
     id: "malawi-ndirande-mountain-relief-v2",
@@ -217,6 +223,7 @@ export const malawiReliefV2: POI[] = [
       ro: ["Altitudine: 1.400 m", "Tip vulcanic: scut inactiv", "Vârstă: Terțiar", "Roci: bazalt, fonolit", "Precipitații anuale: 1.100 mm", "Populație: densă"],
       en: ["Elevation: 1,400 m", "Volcano type: inactive shield", "Age: Tertiary", "Rock types: basalt, phonolite", "Annual rainfall: 1,100 mm", "Population density: high"],
     },
+    image: "/poi-images/malawi-ndirande-mountain-relief-v2.webp",
   },
   {
     id: "malawi-soche-mountain-relief-v2",
@@ -248,6 +255,7 @@ export const malawiReliefV2: POI[] = [
       ro: ["Altitudine: 1.400 m", "Roci: granit, sienit", "Rezervație: Soche Hill", "Precipitații: 1.300 mm/an", "Culturi: porumb, legume", "Orhidee rare"],
       en: ["Elevation: 1,400 m", "Rock types: granite, syenite", "Protected area: Soche Hill Forest Reserve", "Annual rainfall: 1,300 mm", "Crops: maize, vegetables", "Rare orchids present"],
     },
+    image: "/poi-images/malawi-soche-mountain-relief-v2.webp",
   },
   {
     id: "malawi-malosa-mountain-relief-v2",
@@ -279,6 +287,7 @@ export const malawiReliefV2: POI[] = [
       ro: ["Altitudine: 1.800 m", "Roci: sienit, granit", "Rezervație forestieră: 40 km²", "Precipitații: până la 2.000 mm/an", "Lemn: cedru Mulanje", "Fructe: mere, pere"],
       en: ["Elevation: 1,800 m", "Rock types: syenite, granite", "Forest reserve: 40 km²", "Annual rainfall: up to 2,000 mm", "Timber: Mulanje cedar", "Fruit: apples, pears"],
     },
+    image: "/poi-images/malawi-malosa-mountain-relief-v2.webp",
   },
   {
     id: "malawi-lower-shire-valley-relief-v2",
@@ -310,6 +319,7 @@ export const malawiReliefV2: POI[] = [
       ro: ["Altitudine: sub 200 m", "Temperatură: până la 40°C", "Precipitații: 500–800 mm/an", "Culturi: trestie de zahăr, bumbac, orez", "Zonă umedă: Elephant Marsh", "Reședință: Nsanje"],
       en: ["Elevation: below 200 m", "Temperature: up to 40°C", "Annual rainfall: 500–800 mm", "Crops: sugarcane, cotton, rice", "Wetland: Elephant Marsh", "District capital: Nsanje"],
     },
+    image: "/poi-images/malawi-lower-shire-valley-relief-v2.webp",
   },
   {
     id: "malawi-livingstonia-escarpment-relief-v2",
@@ -341,6 +351,7 @@ export const malawiReliefV2: POI[] = [
       ro: ["Lungime: 100 km", "Diferență de altitudine: 1.500 m", "Nivelul lacului: 472 m", "Roci: gresie, șist", "Misiunea Livingstonia (1894)", "Grupuri etnice: Misuku, Mambwe"],
       en: ["Length: 100 km", "Maximum elevation difference: 1,500 m", "Lake surface elevation: 472 m", "Rock types: sandstone, shale", "Mission: Livingstonia (founded 1894)", "Ethnic groups: Misuku, Mambwe"],
     },
+    image: "/poi-images/malawi-livingstonia-escarpment-relief-v2.webp",
   },
   {
     id: "malawi-chongoni-hills-relief-v2",
@@ -372,6 +383,7 @@ export const malawiReliefV2: POI[] = [
       ro: ["Altitudine: 1.200–1.600 m", "Patrimoniu UNESCO din: 1990", "Picturi rupestre: peste 100", "Rocă: granit", "Grupuri etnice: Batwa, Chewa", "Culturi: porumb, tutun"],
       en: ["Elevation: 1,200–1,600 m", "UNESCO World Heritage since: 1990", "Number of rock art sites: over 100", "Rock type: granite", "Ethnic groups: Batwa, Chewa", "Crops: maize, tobacco"],
     },
+    image: "/poi-images/malawi-chongoni-hills-relief-v2.webp",
   },
   {
     id: "malawi-bunda-hill-relief-v2",
@@ -403,6 +415,7 @@ export const malawiReliefV2: POI[] = [
       ro: ["Altitudine: 1.200 m", "Roci: granit, sienit", "Distanța de Lilongwe: 20 km", "Rezervor: Barajul Bunda", "Culturi: porumb, tutun", "Utilizare: recreere"],
       en: ["Elevation: 1,200 m", "Rock types: granite, syenite", "Distance from Lilongwe: 20 km", "Reservoir: Bunda Dam", "Crops: maize, tobacco", "Use: recreation"],
     },
+    image: "/poi-images/malawi-bunda-hill-relief-v2.webp",
   },
   {
     id: "malawi-mphunzi-mountain-relief-v2",
@@ -434,6 +447,7 @@ export const malawiReliefV2: POI[] = [
       ro: ["Altitudine: 1.400 m", "Roci: granit, gnais", "Parte din: Kirk Range", "Centrală hidroelectrică: Mphunzi", "Culturi: porumb, fasole", "Precipitații: 1.000 mm/an"],
       en: ["Elevation: 1,400 m", "Rock types: granite, gneiss", "Part of: Kirk Range", "Hydro plant: Mphunzi", "Crops: maize, beans", "Annual rainfall: 1,000 mm"],
     },
+    image: "/poi-images/malawi-mphunzi-mountain-relief-v2.webp",
   },
   {
     id: "malawi-chencherere-hill-relief-v2",
@@ -465,6 +479,7 @@ export const malawiReliefV2: POI[] = [
       ro: ["Altitudine: 1.100 m", "Rocă: granit", "UNESCO: parte Chongoni", "Picturi: animale, geometrice", "Culturi: porumb, manioc", "Precipitații: 900–1.100 mm/an"],
       en: ["Elevation: 1,100 m", "Rock type: granite", "UNESCO: part of Chongoni", "Paintings: animals, geometric", "Crops: maize, cassava", "Annual rainfall: 900–1,100 mm"],
     },
+    image: "/poi-images/malawi-chencherere-hill-relief-v2.webp",
   },
   {
     id: "malawi-dedza-salima-escarpment-relief-v2",
@@ -496,6 +511,7 @@ export const malawiReliefV2: POI[] = [
       ro: ["Lungime: 80 km", "Altitudine: 1.500 m", "Roci: granit, bazalt", "Cumpănă de ape", "Culturi: cafea, porumb", "Vegetație: miombo"],
       en: ["Length: 80 km", "Elevation: 1,500 m", "Rock types: granite, basalt", "Watershed", "Crops: coffee, maize", "Vegetation: miombo"],
     },
+    image: "/poi-images/malawi-dedza-salima-escarpment-relief-v2.webp",
   },
   {
     id: "malawi-phirilongwe-hill-relief-v2",
@@ -527,6 +543,7 @@ export const malawiReliefV2: POI[] = [
       ro: ["Altitudine: 1.200 m", "Rocă: granit", "Rezervație: Phirilongwe", "Animale: babuini", "Culturi: tutun, porumb", "Precipitații: 1.000 mm/an"],
       en: ["Elevation: 1,200 m", "Rock type: granite", "Reserve: Phirilongwe Forest", "Wildlife: baboons", "Crops: tobacco, maize", "Annual rainfall: 1,000 mm"],
     },
+    image: "/poi-images/malawi-phirilongwe-hill-relief-v2.webp",
   },
   {
     id: "malawi-namizimu-forest-reserve-relief-v2",
@@ -558,6 +575,7 @@ export const malawiReliefV2: POI[] = [
       ro: ["Altitudine: 1.800 m", "Roci: granit, gnais", "Rezervație forestieră: 200 km²", "Precipitații: 1.500–2.000 mm/an", "Râu: Rumphi", "Culturi: cafea, legume"],
       en: ["Elevation: 1,800 m", "Rock types: granite, gneiss", "Forest reserve: 200 km²", "Annual rainfall: 1,500–2,000 mm", "River: Rumphi River", "Crops: coffee, vegetables"],
     },
+    image: "/poi-images/malawi-namizimu-forest-reserve-relief-v2.webp",
   },
   {
     id: "malawi-mangochi-mountain-relief-v2",
@@ -589,6 +607,7 @@ export const malawiReliefV2: POI[] = [
       ro: ["Altitudine: 800 m", "Rocă: granit", "Precipitații: 800–1.000 mm/an", "Culturi: porumb, orez", "Lac: Malawi", "Cascadă: Mbalanganda"],
       en: ["Elevation: 800 m", "Rock type: granite", "Annual rainfall: 800–1,000 mm", "Crops: maize, rice", "Lake: Lake Malawi", "Waterfall: Mbalanganda"],
     },
+    image: "/poi-images/malawi-mangochi-mountain-relief-v2.webp",
   },
   {
     id: "malawi-mwadui-hill-relief-v2",
@@ -620,6 +639,7 @@ export const malawiReliefV2: POI[] = [
       ro: ["Altitudine: 1.000 m", "Rocă: sienit", "Rezervație: Mwadui", "Sezon ploios: noiembrie–aprilie", "Precipitații: 800–1.200 mm/an", "Grup etnic: Ngonde"],
       en: ["Elevation: 1,000 m", "Rock type: syenite", "Reserve: Mwadui Forest", "Rainy season: November to April", "Annual rainfall: 800–1,200 mm", "Ethnic group: Ngonde"],
     },
+    image: "/poi-images/malawi-mwadui-hill-relief-v2.webp",
   },
   {
     id: "malawi-mwenewisi-hills-relief-v2",
@@ -651,6 +671,7 @@ export const malawiReliefV2: POI[] = [
       ro: ["Altitudine maximă: 1.245 m", "Lungime: 20 km", "Exploatare bauxit din 1952", "Precipitații medii anuale: 1.500 mm", "Suprafață: 200 km²", "Distanța până la Mulanje: 18 km"],
       en: ["Highest point: 1,245 m", "Area: 200 km²", "Bauxite reserves: 30 million tons", "Average annual rainfall: 1,400 mm", "Population density: 80 per km²", "Distance to Mulanje town: 18 km"],
     },
+    image: "/poi-images/malawi-mwenewisi-hills-relief-v2.webp",
   },
   {
     id: "malawi-kandoli-mountains-relief-v2",
@@ -682,6 +703,7 @@ export const malawiReliefV2: POI[] = [
       ro: ["Altitudine maximă: 1.850 m", "Lungime: 30 km", "Precipitații anuale: peste 2.000 mm", "Înălțimea cascadei: 80 m", "Densitatea populației: 12 loc./km²", "Prima cartografiere: 1904"],
       en: ["Highest peak: 1,850 m", "Length: 30 km", "Annual rainfall: >2,000 mm", "Waterfall height: 80 m", "Population within 50 km: 10,000", "First surveyed: 1904"],
     },
+    image: "/poi-images/malawi-kandoli-mountains-relief-v2.webp",
   },
   {
     id: "malawi-nkhotakota-escarpment-relief-v2",
@@ -713,6 +735,7 @@ export const malawiReliefV2: POI[] = [
       ro: ["Lungime: 40 km", "Diferență de nivel: 700 m", "Vârsta rocilor: 250 milioane ani", "Precipitații medii: 1.100 mm/an", "Populație elefanți: 300", "Suprafața rezervației: 1.800 km²"],
       en: ["Length: 40 km", "Elevation drop: 700 m", "Rock age: 250 million years", "Average rainfall: 1,100 mm/year", "Elephant population: 300", "Reserve area: 1,800 km²"],
     },
+    image: "/poi-images/malawi-nkhotakota-escarpment-relief-v2.webp",
   },
   {
     id: "malawi-chikala-hill-relief-v2",
@@ -744,5 +767,6 @@ export const malawiReliefV2: POI[] = [
       ro: ["Altitudine: 850 m", "Înălțime relativă: 300 m", "Precipitații anuale: 800 mm", "Suprafața rezervației: 50 km²", "Vechimea siturilor: sec. VII", "Distanța până la Liwonde: 15 km"],
       en: ["Height: 850 m", "Relative elevation: 300 m", "Annual rainfall: 800 mm", "Protected area: 50 km²", "Iron Age settlements: ca. 600 CE", "Distance to Liwonde: 15 km"],
     },
+    image: "/poi-images/malawi-chikala-hill-relief-v2.webp",
   }
 ];

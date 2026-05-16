@@ -956,7 +956,8 @@ imageHint: "Panoramic view of the Eisch valley",
       hu: [],
       ro: [],
       en: []
-    }
+    },
+    image: "/poi-images/luxembourg-mess-river-nature-v2.webp",
   },
   {
     id: "luxembourg-wark-river-nature-v2",
@@ -1206,7 +1207,8 @@ imageHint: "Panoramic view of the Eisch valley",
       hu: [],
       ro: [],
       en: []
-    }
+    },
+    image: "/poi-images/luxembourg-kierchbierg-forest-nature-v2.webp",
   },
   {
     id: "luxembourg-akelsbech-nature-v2",
@@ -1331,7 +1333,8 @@ imageHint: "Panoramic view of the Eisch valley",
       hu: [],
       ro: [],
       en: []
-    }
+    },
+    image: "/poi-images/luxembourg-strutzbierg-nature-v2.webp",
   },
   {
     id: "luxembourg-amberkneppchen-nature-v2",
@@ -1487,7 +1490,8 @@ imageHint: "Panoramic view of the Eisch valley",
       hu: [],
       ro: [],
       en: []
-    }
+    },
+    image: "/poi-images/luxembourg-gaalgebierg-belvaux-nature-v2.webp",
   },
   {
     id: "luxembourg-reimecherbierg-nature-v2",
@@ -1674,7 +1678,8 @@ imageHint: "Panoramic view of the Eisch valley",
       hu: [],
       ro: [],
       en: []
-    }
+    },
+    image: "/poi-images/luxembourg-born-sure-valley-nature-v2.webp",
   },
   {
     id: "luxembourg-rosport-sure-valley-nature-v2",
@@ -1737,7 +1742,8 @@ imageHint: "Panoramic view of the Eisch valley",
       hu: [],
       ro: [],
       en: []
-    }
+    },
+    image: "/poi-images/luxembourg-moersdorf-nature-area-nature-v2.webp",
   },
   {
     id: "luxembourg-girsterklaus-hill-nature-v2",
@@ -2051,6 +2057,7 @@ imageHint: "Panoramic view of the Eisch valley",
       hu: [],
       ro: [],
       en: []
-    }
+    },
+    image: "/poi-images/luxembourg-woltz-valley-nature-v2.webp",
   }
 ];

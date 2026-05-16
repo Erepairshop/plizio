@@ -234,7 +234,8 @@ export const poiExtraAustriaIndustry: POI[] = [
         "'Tyroler Imperial Zwickl' is an unfiltered, natural beer specialty.",
         "The brewery is committed to sustainability and uses the latest energy-saving technologies."
       ]
-    }
+    },
+    image: "/poi-images/industry-zillertal-bier-extra.webp",
   }
 ];
 

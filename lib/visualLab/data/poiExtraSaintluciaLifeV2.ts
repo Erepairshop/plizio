@@ -31,6 +31,7 @@ export const saintluciaLifeV2: POI[] = [
       ro: ["Desemnată rezervație în anul 1982", "Formată din două insule: Major și Minor", "Găzduiește rarul șarpe de pământ lucian", "Habitat pentru șopârla endemică Whiptail", "Loc important de cuibărit pentru păsări migratoare", "Suprafață de aproximativ 12 hectare"],
       en: ["Declared a nature reserve in 1982", "Comprises two islets: Major and Minor", "Home to the rare Saint Lucia Racer snake", "Habitat for the Saint Lucia Whiptail lizard", "Critical nesting site for migratory birds", "Total area of approximately 12 hectares"],
     },
+    image: "/poi-images/saintlucia-maria-islands-nature-reserve-life-v2.webp",
   },
   {
     id: "saintlucia-diamond-falls-botanical-gardens-life-v2",
@@ -62,6 +63,7 @@ export const saintluciaLifeV2: POI[] = [
       ro: ["Băile originale au fost construite în 1784", "Cascada este colorată de minerale vulcanice", "Suprafața grădinilor este de 2,4 hectare", "Situată în valea Soufrière", "Amplasată pe fosta moșie Soufrière", "Premiată pentru sustenabilitate ecologică"],
       en: ["Original baths built in 1784", "Waterfall colored by volcanic minerals", "Gardens cover 2.4 hectares of land", "Located within the Soufrière valley", "Situated on the historic Soufrière Estate", "Awarded for ecological sustainability"],
     },
+    image: "/poi-images/saintlucia-diamond-falls-botanical-gardens-life-v2.webp",
   },
   {
     id: "saintlucia-millet-bird-sanctuary-life-v2",
@@ -93,6 +95,7 @@ export const saintluciaLifeV2: POI[] = [
       ro: ["Adăpostește peste 30 de specii de păsări", "Habitat pentru papagalul Amazon din Sf. Lucia", "Traseul are o lungime de aprox. 2,8 km", "Situat în centura centrală de pădure tropicală", "Altitudine de aprox. 300 de metri", "Parte a Rezervației Forestiere de stat"],
       en: ["Home to over 30 recorded bird species", "Habitat for the Saint Lucia Parrot", "Trail length is approximately 2.8 km", "Located in the central rainforest belt", "Altitude of approx. 300 meters above sea level", "Part of the government forest reserve"],
     },
+    image: "/poi-images/saintlucia-millet-bird-sanctuary-life-v2.webp",
   },
   {
     id: "saintlucia-mankote-mangrove-life-v2",
@@ -124,6 +127,7 @@ export const saintluciaLifeV2: POI[] = [
       ro: ["Cea mai mare mangrovă de pe insulă", "Desemnat sit RAMSAR din anul 2002", "Suprafață de aproximativ 60 de hectare", "Rol major în protecția împotriva eroziunii", "Habitat pentru stârci și crabi", "Centru pentru producția durabilă de cărbune"],
       en: ["Largest mangrove forest on the island", "Designated RAMSAR site since 2002", "Covers an area of about 60 hectares", "Critical barrier against coastal erosion", "Home to herons and various crab species", "Model for sustainable charcoal harvesting"],
     },
+    image: "/poi-images/saintlucia-mankote-mangrove-life-v2.webp",
   },
   {
     id: "saintlucia-frigate-island-nature-reserve-life-v2",
@@ -155,6 +159,7 @@ export const saintluciaLifeV2: POI[] = [
       ro: ["Loc de cuibărit pentru fregata magnifică", "Pusă sub protecție în anul 1987", "Situată pe coasta atlantică a insulei", "Punct de observare disponibil pe uscat", "Prezența unor specii rare de reptile", "Sezon principal de cuibărit între mai și iulie"],
       en: ["Nesting site for Magnificent Frigatebirds", "Established as a reserve in 1987", "Located on the Atlantic coast of the island", "Observation point accessible from the mainland", "Presence of rare endemic reptile species", "Peak nesting season occurs May to July"],
     },
+    image: "/poi-images/saintlucia-frigate-island-nature-reserve-life-v2.webp",
   },
   {
     id: "saintlucia-edmund-forest-reserve-life-v2",
@@ -186,6 +191,7 @@ export const saintluciaLifeV2: POI[] = [
       ro: ["Oferă vedere spre Muntele Gimie (950m)", "Habitat crucial pentru papagalul lucian", "Cantitate anuală ridicată de precipitații", "Parte a lanțului muntos central", "Prezența a peste 150 de specii de plante", "Traseu de drumeție prin pădurea de nori"],
       en: ["Offers views of Mount Gimie (950m)", "Critical habitat for the Saint Lucia Parrot", "High average annual rainfall levels", "Part of the island's central mountain range", "Home to over 150 identified plant species", "Features trails through the cloud forest"],
     },
+    image: "/poi-images/saintlucia-edmund-forest-reserve-life-v2.webp",
   },
   {
     id: "saintlucia-des-cartier-trail-life-v2",
@@ -217,6 +223,7 @@ export const saintluciaLifeV2: POI[] = [
       ro: ["Lungimea traseului este de aprox. 4 km", "Situat în Rezervația Forestieră Quilesse", "Observări frecvente ale papagalului lucian", "Traversează pădure primară virgină", "Diferența de nivel este moderată", "Loc important pentru excursii științifice"],
       en: ["Trail length is approximately 4 km", "Located within Quilesse Forest Reserve", "Frequent sightings of the Saint Lucia Parrot", "Traverses pristine primary rainforest", "Moderate elevation changes throughout", "Key location for ecological field studies"],
     },
+    image: "/poi-images/saintlucia-des-cartier-trail-life-v2.webp",
   },
   {
     id: "saintlucia-savannes-bay-nature-reserve-life-v2",
@@ -248,6 +255,7 @@ export const saintluciaLifeV2: POI[] = [
       ro: ["Desemnat sit RAMSAR în anul 2002", "Include Insula Scorpion", "Ecosistem important de iarbă marină", "Protecție împotriva eroziunii prin mangrove", "Habitat pentru țestoase marine periclitate", "Situată în apropiere de Vieux Fort"],
       en: ["Designated as a RAMSAR site in 2002", "Includes the offshore Scorpion Island", "Features extensive seagrass bed ecosystems", "Mangroves provide coastal erosion defense", "Habitat for endangered sea turtles", "Located in the vicinity of Vieux Fort"],
     },
+    image: "/poi-images/saintlucia-savannes-bay-nature-reserve-life-v2.webp",
   },
   {
     id: "saintlucia-mamiku-gardens-life-v2",
@@ -279,6 +287,7 @@ export const saintluciaLifeV2: POI[] = [
       ro: ["Fosta reședință a baronului de Micoud", "Găzduiește o grădină de plante medicinale", "Prezența ruinelor din secolul al XVIII-lea", "Peste 250 de specii diferite de plante", "Vedere spre Golful Praslin", "Tururi ghidate despre istoria colonială"],
       en: ["Formerly the estate of Baron de Micoud", "Features a dedicated medicinal herb garden", "Contains ruins dating to the 18th century", "Home to over 250 plant species", "Offers views overlooking Praslin Bay", "Provides educational tours on colonial history"],
     },
+    image: "/poi-images/saintlucia-mamiku-gardens-life-v2.webp",
   },
   {
     id: "saintlucia-union-nature-trail-life-v2",
@@ -310,6 +319,7 @@ export const saintluciaLifeV2: POI[] = [
       ro: ["Sediul departamentului forestier", "Include o mică incintă zoologică", "Grădină de plante medicinale documentată", "Grad de dificultate ușor pentru drumeție", "Centru de informare despre biodiversitate", "Proximitate față de capitala Castries"],
       en: ["Headquarters of the Forestry Department", "Features a small animal exhibit area", "Includes a documented medicinal herb garden", "Easy difficulty rating for the hiking trail", "Biodiversity interpretation center on-site", "Close proximity to the capital, Castries"],
     },
+    image: "/poi-images/saintlucia-union-nature-trail-life-v2.webp",
   },
   {
     id: "saintlucia-quilesse-forest-reserve-life-v2",
@@ -341,6 +351,7 @@ export const saintluciaLifeV2: POI[] = [
       ro: ["Bazin hidrografic esențial pentru insulă", "Găzduiește traseul Des Cartier", "Concentrație ridicată de epifite", "Parte a sistemului central de protecție", "Precipitații deseori peste 3500 mm/an", "Habitat pentru grangurul din Sfânta Lucia"],
       en: ["Critical watershed for the island's supply", "Contains the famous Des Cartier Trail", "High concentration of epiphytic plants", "Part of the central rainforest protection", "Annual rainfall often exceeds 3,500 mm", "Habitat for the endemic Saint Lucia Oriole"],
     },
+    image: "/poi-images/saintlucia-quilesse-forest-reserve-life-v2.webp",
   },
   {
     id: "saintlucia-praslin-island-nature-reserve-life-v2",
@@ -372,6 +383,7 @@ export const saintluciaLifeV2: POI[] = [
       ro: ["Refugiu pentru șopârla Whiptail", "Gestionată de Sfânta Lucia National Trust", "Situată în Golful Praslin", "Acces permis doar cu autorizație specială", "Ecosistem de coastă uscat", "Loc de cercetare important pentru herpetologi"],
       en: ["Refuge for the Saint Lucia Whiptail lizard", "Managed by the Saint Lucia National Trust", "Located within Praslin Bay", "Access restricted to special permits", "Characterized by dry coastal scrub", "Key research site for herpetologists"],
     },
+    image: "/poi-images/saintlucia-praslin-island-nature-reserve-life-v2.webp",
   },
   {
     id: "saintlucia-scorpion-island-life-v2",
@@ -403,6 +415,7 @@ export const saintluciaLifeV2: POI[] = [
       ro: ["Parte a sitului RAMSAR Savannes Bay", "Loc de cuibărit pentru păsări marine", "Înconjurată de recife de corali joase", "Fără așezări umane permanente", "Prezența vegetației de coastă", "Numele provine de la forma insulei"],
       en: ["Part of the Savannes Bay RAMSAR site", "Important nesting ground for seabirds", "Surrounded by shallow coral reefs", "No permanent human inhabitants", "Features specialized coastal vegetation", "Name refers to the physical shape of the islet"],
     },
+    image: "/poi-images/saintlucia-scorpion-island-life-v2.webp",
   },
   {
     id: "saintlucia-dennery-island-nature-reserve-life-v2",
@@ -434,6 +447,7 @@ export const saintluciaLifeV2: POI[] = [
       ro: ["Loc de cuibărit pentru pasărea tropic", "Caracterizată prin formațiuni stâncoase", "Situată direct în fața Golfului Dennery", "Habitat pentru reptile marine", "Valuri puternice ale Atlanticului în est", "Zonă protejată pentru păsările marine"],
       en: ["Nesting site for Red-billed Tropicbirds", "Features steep volcanic rock formations", "Located directly offshore from Dennery Bay", "Habitat for various marine reptile species", "Subject to strong Atlantic swell", "Protected for the conservation of seabirds"],
     },
+    image: "/poi-images/saintlucia-dennery-island-nature-reserve-life-v2.webp",
   },
   {
     id: "saintlucia-choc-bay-mangroves-life-v2",
@@ -465,6 +479,7 @@ export const saintluciaLifeV2: POI[] = [
       ro: ["Protejează linia de coastă de furtunile tropicale", "Prezența mangrovei roșii (Rhizophora mangle)", "Filtrează sedimentele din râul Choc", "Habitat pentru stârci și alte păsări acvatice", "Zonă importantă de reproducere pentru peștii locali", "Parte a rețelei ecologice din nordul insulei"],
       en: ["Protects the coastline from tropical storms", "Presence of red mangroves (Rhizophora mangle)", "Filters sediments from the Choc River", "Habitat for herons and other waterfowls", "Important breeding ground for local fish species", "Part of the ecological network in the north"],
     },
+    image: "/poi-images/saintlucia-choc-bay-mangroves-life-v2.webp",
   },
   {
     id: "saintlucia-canelles-river-delta-life-v2",
@@ -496,6 +511,7 @@ export const saintluciaLifeV2: POI[] = [
       ro: ["Zonă de vărsare a râului Canelles în sud-est", "Zonă importantă pentru schimbul de nutrienți", "Habitat pentru crustacee și moluște", "Găzduiește diverse tipuri de vegetație de mlaștină", "Loc de observare pentru păsările migratoare de țărm", "Zonă protejată pentru fauna acvatică locală"],
       en: ["Mouth of the Canelles River in the southeast", "Crucial area for nutrient exchange", "Habitat for crustaceans and mollusks", "Hosts various types of marsh vegetation", "Observation spot for migrating shorebirds", "Protected area for local aquatic fauna"],
     },
+    image: "/poi-images/saintlucia-canelles-river-delta-life-v2.webp",
   },
   {
     id: "saintlucia-fond-dor-nature-reserve-life-v2",
@@ -527,6 +543,7 @@ export const saintluciaLifeV2: POI[] = [
       ro: ["Loc de cuibărit pentru țestoasele luth (martie-august)", "Conține ruinele unei plantații de zahăr din sec. XIX", "Zonă protejată pentru specia rară St. Lucia Boa", "Prezența mangrovelor la gura de vărsare a râului", "Coridor important pentru migrația păsărilor", "Administrat de Saint Lucia National Trust"],
       en: ["Nesting site for Leatherback turtles (March-August)", "Contains 19th-century sugar plantation ruins", "Protected area for the rare St. Lucia Boa", "Presence of mangroves at the river mouth", "Important corridor for bird migration", "Managed by the Saint Lucia National Trust"],
     },
+    image: "/poi-images/saintlucia-fond-dor-nature-reserve-life-v2.webp",
   },
   {
     id: "saintlucia-latille-waterfalls-and-gardens-life-v2",
@@ -558,6 +575,7 @@ export const saintluciaLifeV2: POI[] = [
       ro: ["Cascadă naturală cu o înălțime de cca. 6 metri", "Bazin cu pești Tilapia pentru pedichiură cu pești", "Diversitate de heliconii și plante de ghimbir", "Grădini de plante medicinale cultivate ecologic", "Habitat pentru colibri și fluturi tropicali", "Situat în centura de pădure tropicală din sud-est"],
       en: ["Natural waterfall approximately 6 meters high", "Pool with Tilapia fish for fish pedicures", "Diversity of heliconias and ginger plants", "Ecologically managed medicinal herb gardens", "Habitat for hummingbirds and tropical butterflies", "Located in the southeastern rainforest belt"],
     },
+    image: "/poi-images/saintlucia-latille-waterfalls-and-gardens-life-v2.webp",
   },
   {
     id: "saintlucia-marigot-bay-mangroves-life-v2",
@@ -589,6 +607,7 @@ export const saintluciaLifeV2: POI[] = [
       ro: ["Pădure de mangrove în partea interioară a golfului", "Prezența mangrovei albe (Laguncularia racemosa)", "Protecție importantă împotriva valurilor de uragan", "Habitat pentru egreta mare", "Sistem natural de filtrare pentru marină", "Parte a unui ecosistem marin protejat"],
       en: ["Mangrove forest at the inner part of the bay", "Presence of white mangrove (Laguncularia racemosa)", "Critical protection against hurricane storm surges", "Habitat for the Great Egret", "Natural filtration system for the marina", "Part of a protected marine ecosystem"],
     },
+    image: "/poi-images/saintlucia-marigot-bay-mangroves-life-v2.webp",
   },
   {
     id: "saintlucia-anse-chastanet-marine-national-park-life-v2",
@@ -620,6 +639,7 @@ export const saintluciaLifeV2: POI[] = [
       ro: ["Peste 150 de specii de pești documentate", "Prezența coralilor creier și a coralilor evantai", "Zone stricte cu interdicție de pescuit", "Zonă preferată de țestoasele marine", "Proximitate imediată față de munții Pitons", "Parte a Zonei de Management Marin Soufrière"],
       en: ["Over 150 documented fish species in the reef", "Presence of brain corals and sea fans", "Strict no-take zones for fishing", "Popular area for sea turtles", "Immediate proximity to the Pitons", "Part of the Soufrière Marine Management Area"],
     },
+    image: "/poi-images/saintlucia-anse-chastanet-marine-national-park-life-v2.webp",
   },
   {
     id: "saintlucia-soufriere-marine-management-area-life-v2",
@@ -651,6 +671,7 @@ export const saintluciaLifeV2: POI[] = [
       ro: ["Înființată oficial în anul 1994", "Împărțită în cinci zone de protecție diferite", "Protejează 12 km de linie de coastă", "Găzduiește specii rare de căluți de mare", "Restaurarea populațiilor de pești", "Model global pentru conservarea marină"],
       en: ["Officially established in 1994", "Divided into five different management zones", "Protects 12 km of coastline", "Home to rare seahorse species", "Successful recovery of fish populations", "Global model for marine conservation"],
     },
+    image: "/poi-images/saintlucia-soufriere-marine-management-area-life-v2.webp",
   },
   {
     id: "saintlucia-canaries-anse-la-raye-marine-management-area-life-v2",
@@ -682,6 +703,7 @@ export const saintluciaLifeV2: POI[] = [
       ro: ["Zonă protejată pentru pești de recif și corali", "Formațiuni stâncoase vulcanice subacvatice", "Reglementarea pescuitului artizanal", "Prezența baracudelor și a macroului", "Promovarea ecoturismului în sate", "Parte a sistemului național de rezervații marine"],
       en: ["Protected area for reef fish and corals", "Volcanic rock formations underwater", "Regulation of artisanal fishing practices", "Presence of barracudas and mackerels", "Promotion of ecotourism in local villages", "Part of the national marine reserve system"],
     },
+    image: "/poi-images/saintlucia-canaries-anse-la-raye-marine-management-area-life-v2.webp",
   },
   {
     id: "saintlucia-pigeon-island-nature-focus-life-v2",
@@ -713,6 +735,7 @@ export const saintluciaLifeV2: POI[] = [
       ro: ["Habitat pentru șopârla endemică St. Lucia Whiptail", "Prezența fregatei mari pe stâncile de coastă", "Pajiști de iarbă de mare pentru țestoasele verzi", "Vegetație de pădure uscată cu arbori de gumă", "Statut de parc național din 1979", "Locuri de cuibărit pentru diverse păsări marine"],
       en: ["Habitat for the endemic St. Lucia Whiptail lizard", "Presence of Magnificent Frigatebirds on cliffs", "Crucial seagrass beds for Green Sea Turtles", "Dry forest vegetation with gum trees", "National Park status since 1979", "Nesting sites for various seabird species"],
     },
+    image: "/poi-images/saintlucia-pigeon-island-nature-focus-life-v2.webp",
   },
   {
     id: "saintlucia-roseau-river-wetlands-life-v2",
@@ -744,6 +767,7 @@ export const saintluciaLifeV2: POI[] = [
       ro: ["Una dintre cele mai mari zone umede de pe insulă", "Prezența lișiței din Caraibe", "Filtru important pentru reziduurile agricole", "Habitat pentru racii de apă dulce", "Zonă semnificativă pentru observarea păsărilor", "Barieră împotriva pătrunderii apei sărate în interior"],
       en: ["One of the largest wetlands on the island", "Presence of the Caribbean Coot", "Critical filter for agricultural runoff", "Habitat for freshwater crayfish", "Significant area for birdwatching", "Barrier against saltwater intrusion inland"],
     },
+    image: "/poi-images/saintlucia-roseau-river-wetlands-life-v2.webp",
   },
   {
     id: "saintlucia-troumassee-river-delta-life-v2",
@@ -775,6 +799,7 @@ export const saintluciaLifeV2: POI[] = [
       ro: ["Cel mai mare estuar de pe coasta de sud-est", "Prezența mangrovelor roșii și negre", "Loc de reproducere pentru țestoasa verde", "Prezența peștilor Snook în apele salmastre", "Capcană importantă de sedimente pentru Atlantic", "Habitat pentru stârci și ibiși"],
       en: ["Largest estuary on the southeast coast", "Presence of red and black mangroves", "Breeding site for the Green Sea Turtle", "Presence of snook fish in brackish water", "Critical sediment trap for the Atlantic", "Habitat for herons and ibises"],
     },
+    image: "/poi-images/saintlucia-troumassee-river-delta-life-v2.webp",
   },
   {
     id: "saintlucia-cul-de-sac-river-wetlands-life-v2",
@@ -806,6 +831,7 @@ export const saintluciaLifeV2: POI[] = [
       ro: ["Bazin de drenaj la scară largă pentru nordul insulei", "Protejează golful de sedimentele industriale", "Prezența parulidului cu piept galben", "Zonă de mlaștină importantă pentru protecția coastei", "Habitat pentru diverse specii de libelule", "Reglarea nivelului pânzei freatice în vale"],
       en: ["Large-scale drainage basin for northern St. Lucia", "Protects the bay from industrial sediments", "Presence of the Yellow Warbler", "Critical marsh area for coastal protection", "Habitat for various dragonfly species", "Regulation of groundwater levels in the valley"],
     },
+    image: "/poi-images/saintlucia-cul-de-sac-river-wetlands-life-v2.webp",
   },
   {
     id: "saintlucia-marquis-river-mangroves-life-v2",
@@ -837,6 +863,7 @@ export const saintluciaLifeV2: POI[] = [
       ro: ["Pădure de mangrove izolată în nord-est", "Prezența șarpelui rar St. Lucia Racer", "Loc de cuibărit important pentru corbul de mare brun", "Ecosistem natural fără turism de masă", "Protejează Golful Marquis de eroziune", "Diversitate de specii de crabi tropicali"],
       en: ["Remote mangrove forest in the northeast", "Presence of the rare St. Lucia Racer snake", "Important nesting site for Brown Boobies", "Pristine ecosystem without mass tourism", "Protects Marquis Bay from erosion", "Diversity of tropical crab species"],
     },
+    image: "/poi-images/saintlucia-marquis-river-mangroves-life-v2.webp",
   },
   {
     id: "saintlucia-fond-st-jacques-forest-life-v2",
@@ -868,6 +895,7 @@ export const saintluciaLifeV2: POI[] = [
       ro: ["Habitat principal al papagalului St. Lucia", "Prezența a peste 50 de specii de ferigi", "Regiunea cu cele mai mari cantități de precipitații", "Parte a rezervației forestiere centrale", "Locul unde se găsesc arbori Gommier uriași", "Centru pentru cercetarea biologică pe insulă"],
       en: ["Main habitat for the St. Lucia Parrot", "Presence of over 50 species of ferns", "Region with the highest rainfall amounts", "Part of the Central Forest Reserve", "Home to giant Gommier trees", "Center for biological research on the island"],
     },
+    image: "/poi-images/saintlucia-fond-st-jacques-forest-life-v2.webp",
   },
   {
     id: "saintlucia-barre-de-lisle-forest-life-v2",
@@ -899,6 +927,7 @@ export const saintluciaLifeV2: POI[] = [
       ro: ["Creastă muntoasă centrală cu vederi panoramice", "Cel mai important bazin hidrografic al insulei", "Prezența colibriului cu gât purpuriu", "Traseu de drumeție de-a lungul cumpenei apelor", "Găzduiește specii endemice de ferigi arborescente", "Zonă protejată pentru pasărea St. Lucia Blackbird"],
       en: ["Central ridge offering panoramic views", "Most important watershed on the island", "Presence of the Purple-throated Carib", "Hiking trail along the continental divide", "Home to endemic tree fern species", "Protected area for the St. Lucia Blackbird"],
     },
+    image: "/poi-images/saintlucia-barre-de-lisle-forest-life-v2.webp",
   },
   {
     id: "saintlucia-mount-gimie-forest-life-v2",
@@ -930,5 +959,6 @@ export const saintluciaLifeV2: POI[] = [
       ro: ["Cea mai mare rezervație forestieră din Sfânta Lucia.", "Habitat pentru specia endemică Amazona versicolor.", "Precipitațiile anuale depășesc adesea 3000 mm.", "Conține păduri de nori rare la peste 800 m altitudine.", "Sursă pentru mai multe sisteme fluviale importante.", "Sub protecție guvernamentală din secolul al XX-lea."],
       en: ["Largest forest reserve on the island of Saint Lucia.", "Primary habitat for the endemic Amazona versicolor.", "Annual rainfall often exceeds 3,000 mm.", "Features rare cloud forests above 800 meters.", "Source for several major river systems on the island.", "Under government protection since the 20th century."],
     },
+    image: "/poi-images/saintlucia-mount-gimie-forest-life-v2.webp",
   }
 ];

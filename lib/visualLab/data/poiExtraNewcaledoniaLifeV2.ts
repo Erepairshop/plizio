@@ -31,6 +31,7 @@ export const newcaledoniaLifeV2: POI[] = [
       ro: ["Adăpostește „Marele Kaori”, un arbore de peste 1.000 de ani.", "Protejează cea mai mare populație de păsări Kagu din lume.", "Rezervorul Yaté a creat faimoasa pădure de arbori morți în apă.", "Suprafața totală a parcului este de aproximativ 9.000 de hectare.", "Peste 80% din speciile de plante de aici sunt endemice.", "Este o destinație de top pentru caiac și ciclism montan."],
       en: ["Home to the 'Grand Kaori', a tree estimated to be over 1,000 years old.", "Protects the largest wild population of the endangered Cagou bird.", "The Yaté reservoir created the iconic 'Drowned Forest' scenery.", "Covers an extensive area of approximately 9,000 hectares.", "Features an incredibly high density of endemic plant species.", "Popular for river kayaking, hiking, and mountain biking."],
     },
+    image: "/poi-images/newcaledonia-riviere-bleue-park-life-v2.webp",
   },
   {
     id: "newcaledonia-noumea-zoo-forest-life-v2",
@@ -62,6 +63,7 @@ export const newcaledoniaLifeV2: POI[] = [
       ro: ["Fondat în 1962 pe dealurile care domină orașul Nouméa.", "Găzduiește pasărea Kagu, simbolul național care nu poate zbura.", "Acoperă o suprafață de 34 de hectare de pădure uscată.", "Deține o colecție importantă de arbori din familia Araucaria.", "Este un centru activ pentru programe de conservare a speciilor.", "Oferă trasee educative despre biodiversitatea arhipelagului."],
       en: ["Established in 1962 on the heights overlooking Nouméa.", "Home to the Cagou, the flightless national bird of the country.", "Covers 34 hectares of protected dry forest and gardens.", "Features a significant collection of endemic Araucaria trees.", "Acts as a vital center for the breeding of endangered species.", "Offers educational nature trails focused on local ecology."],
     },
+    image: "/poi-images/newcaledonia-noumea-zoo-forest-life-v2.webp",
   },
   {
     id: "newcaledonia-grandes-fougeres-park-life-v2",
@@ -93,6 +95,7 @@ export const newcaledoniaLifeV2: POI[] = [
       ro: ["Creat în 2008 pentru a proteja pădurile primare montane.", "Suprafața totală a rezervației este de 4.500 de hectare.", "Faimos pentru ferigile care pot atinge înălțimi de peste 20 de metri.", "Găzduiește uliul Noii Caledonii, o specie rară și protejată.", "Dispune de peste 30 de kilometri de trasee de drumeție marcate.", "Reprezintă un coridor ecologic vital pentru fauna locală."],
       en: ["Established in 2008 to protect primary tropical forests.", "Covers a total area of 4,500 hectares of mountainous terrain.", "Famous for tree ferns that can reach heights of over 20 meters.", "Home to the rare and endangered New Caledonian Goshawk.", "Offers more than 30 kilometers of marked hiking trails.", "Serves as a vital ecological corridor for native wildlife."],
     },
+    image: "/poi-images/newcaledonia-grandes-fougeres-park-life-v2.webp",
   },
   {
     id: "newcaledonia-coral-sea-park-life-v2",
@@ -124,6 +127,7 @@ export const newcaledoniaLifeV2: POI[] = [
       ro: ["Se întinde pe aproximativ 1,3 milioane de kilometri pătrați.", "Creat oficial în anul 2014 de către guvernul local.", "Protejează al doilea cel mai mare sistem de recife din lume.", "Găzduiește 25 de specii diferite de mamifere marine.", "Zona include situri majore de cuibărit pentru țestoasele verzi.", "Cuprinde atoli virgini, cum este arhipelagul Chesterfield."],
       en: ["Spans approximately 1.3 million square kilometers of ocean.", "Established in 2014 by the local government of New Caledonia.", "Protects the world's second-largest coral reef system.", "Home to 25 different species of marine mammals.", "A major nesting ground for green sea turtles in the Pacific.", "Includes pristine atolls such as the Chesterfield Islands."],
     },
+    image: "/poi-images/newcaledonia-coral-sea-park-life-v2.webp",
   },
   {
     id: "newcaledonia-amedee-island-reserve-life-v2",
@@ -155,6 +159,7 @@ export const newcaledoniaLifeV2: POI[] = [
       ro: ["Farul a fost construit în 1862 la Paris și asamblat pe insulă.", "Are o înălțime de 56 de metri, fiind unul dintre cele mai înalte din metal.", "Rezervația a fost stabilită în 1981 pentru protecția lagunei.", "Cunoscută pentru populația densă de șerpi de mare tricotați.", "Situată lângă una dintre principalele treceri prin recif.", "Cea mai populară destinație de excursie de o zi din Nouméa."],
       en: ["The lighthouse was built in Paris in 1862 before being shipped.", "Standing at 56 meters, it is one of the tallest metal lighthouses globally.", "The marine reserve was established in 1981 for lagoon protection.", "Famous for the high density of tricot rayé sea snakes.", "Located right at one of the reef's major natural passages.", "A premier destination for day trips and snorkeling from Nouméa."],
     },
+    image: "/poi-images/newcaledonia-amedee-island-reserve-life-v2.webp",
   },
   {
     id: "newcaledonia-duck-island-reserve-life-v2",
@@ -186,6 +191,7 @@ export const newcaledoniaLifeV2: POI[] = [
       ro: ["Dispune de un traseu submarin marcat pentru educație ecologică.", "Situată la doar aproximativ 1 km distanță de malul orașului.", "Asigură protecția unor specii de corali amenințate.", "Destinație preferată pentru windsurf și kitesurf.", "Insula servește și ca sit de cuibărit pentru păsările marine.", "Echipamentul de snorkeling poate fi închiriat direct pe insulă."],
       en: ["Features a marked underwater trail for ecological education.", "Located only about 1 kilometer off the coast of Nouméa.", "Provides protection for several endangered coral species.", "A popular spot for windsurfing and kitesurfing enthusiasts.", "The island also serves as a nesting site for various seabirds.", "Snorkeling equipment is available for rent directly on the island."],
     },
+    image: "/poi-images/newcaledonia-duck-island-reserve-life-v2.webp",
   },
   {
     id: "newcaledonia-roche-percee-reserve-life-v2",
@@ -217,6 +223,7 @@ export const newcaledoniaLifeV2: POI[] = [
       ro: ["Găzduiește „Bonhomme de Bourail”, un monolit iconic din piatră.", "Principalul sit de cuibărit pentru țestoasa Loggerhead (Caretta caretta).", "Stâncile sunt formate din roci sedimentare intens erodate.", "Oferă un traseu de drumeție panoramic de-a lungul falezelor.", "Regiunea este renumită pentru valurile mari, ideale pentru surf.", "Face parte dintr-o rețea extinsă de arii protejate pe coasta de vest."],
       en: ["Home to 'Le Bonhomme de Bourail', an iconic rock needle.", "A primary nesting site for loggerhead sea turtles (Caretta caretta).", "The cliffs are composed of heavily eroded sedimentary rock.", "Offers a panoramic hiking trail along the cliff edges.", "The area is well-known for surfing due to its consistent waves.", "Part of a larger network of protected areas on the west coast."],
     },
+    image: "/poi-images/newcaledonia-roche-percee-reserve-life-v2.webp",
   },
   {
     id: "newcaledonia-domaine-deva-life-v2",
@@ -248,6 +255,7 @@ export const newcaledoniaLifeV2: POI[] = [
       ro: ["Cuprinde o suprafață totală de peste 8.000 de hectare.", "Protejează unul dintre cele mai mari fragmente de pădure uscată.", "Include situri arheologice aparținând culturii antice Lapita.", "Dispune de o rețea de peste 100 km de trasee marcate.", "Habitat esențial pentru specii endemice de păsări de sol.", "Oferă acces la o porțiune din reciful aflat în patrimoniul UNESCO."],
       en: ["Covers a total area of more than 8,000 hectares.", "Protects one of the largest remaining fragments of native dry forest.", "Contains archaeological sites belonging to the ancient Lapita culture.", "Features a network of over 100 kilometers of marked trails.", "A vital habitat for the endemic New Caledonian Scrubfowl.", "Provides access to a reef section listed as a UNESCO World Heritage site."],
     },
+    image: "/poi-images/newcaledonia-domaine-deva-life-v2.webp",
   },
   {
     id: "newcaledonia-noumea-botanical-garden-life-v2",
@@ -279,6 +287,7 @@ export const newcaledoniaLifeV2: POI[] = [
       ro: ["Specializată în conservarea plantelor endemice de pădure uscată.", "Deține o colecție de talie mondială de specii de Araucaria.", "Parte integrantă a parcului Michel Corbasson de pe dealurile orașului.", "Include o secțiune dedicată plantelor medicinale tradiționale Kanak.", "Rol crucial în conservarea ex-situ a speciilor vegetale rare.", "Oferă tururi ghidate despre botanica specifică arhipelagului."],
       en: ["Specializes in the conservation of endemic dry forest plants.", "Houses a world-renowned collection of Araucaria tree species.", "Integrated into the Michel Corbasson Park on the city's heights.", "Features a section dedicated to traditional Kanak medicinal plants.", "Plays a crucial role in the ex-situ conservation of rare species.", "Offers guided educational tours focused on local botany."],
     },
+    image: "/poi-images/newcaledonia-noumea-botanical-garden-life-v2.webp",
   },
   {
     id: "newcaledonia-mont-panie-reserve-life-v2",
@@ -310,6 +319,7 @@ export const newcaledoniaLifeV2: POI[] = [
       ro: ["Punctul maxim: 1628 metri deasupra nivelului mării", "Înființarea zonei protejate în anul 1950", "Prezența a 13 specii diferite de Araucaria", "Precipitații medii anuale de peste 3000 mm", "Localizat în Provincia de Nord a insulei Grande Terre", "Habitat pentru planta endemică rară Paratrophis baillonii"],
       en: ["Highest point: 1628 meters above sea level", "Establishment of the protected area in 1950", "Presence of 13 different Araucaria species", "Average annual rainfall exceeds 3000 mm", "Located in the North Province of Grande Terre", "Home to the rare endemic plant Paratrophis baillonii"],
     },
+    image: "/poi-images/newcaledonia-mont-panie-reserve-life-v2.webp",
   },
   {
     id: "newcaledonia-ilot-maitre-reserve-life-v2",
@@ -341,6 +351,7 @@ export const newcaledoniaLifeV2: POI[] = [
       ro: ["Suprafața totală a zonei protejate: 200 hectare", "Distanța față de Nouméa: aprox. 4 kilometri", "Statut de protecție din anul 1981", "Prezența țestoasei marine Chelonia mydas", "Înălțimea maximă a insulei: aprox. 2 metri", "Locație populară pentru kitesurfing datorită vânturilor constante"],
       en: ["Total area of the protected zone: 200 hectares", "Distance from Nouméa: approx. 4 kilometers", "Protection status since the year 1981", "Presence of the sea turtle Chelonia mydas", "Maximum height of the island: approx. 2 meters", "Popular kitesurfing spot due to consistent winds"],
     },
+    image: "/poi-images/newcaledonia-ilot-maitre-reserve-life-v2.webp",
   },
   {
     id: "newcaledonia-white-river-reserve-life-v2",
@@ -372,6 +383,7 @@ export const newcaledoniaLifeV2: POI[] = [
       ro: ["Parte a Parcului Blue River de 9000 de hectare", "Cea mai mare concentrație de specii de plante endemice", "Cea mai importantă zonă de cuibărit pentru pasărea kagu", "Prezența rarei Araucaria humboldtensis", "Pământ roșu datorită conținutului ridicat de fier și mangan", "Traversată de râul Rivière Blanche"],
       en: ["Part of the 9000-hectare Blue River Provincial Park", "Highest concentration of endemic plant species", "Most important breeding ground for the flightless Kagu", "Occurrence of the rare Araucaria humboldtensis", "Red soil due to high iron and manganese content", "The Rivière Blanche river flows through the area"],
     },
+    image: "/poi-images/newcaledonia-white-river-reserve-life-v2.webp",
   },
   {
     id: "newcaledonia-signal-island-reserve-life-v2",
@@ -403,6 +415,7 @@ export const newcaledoniaLifeV2: POI[] = [
       ro: ["Construcția turnului de semnalizare istoric în 1883", "Suprafața insulei de corali: aprox. 11 hectare", "Parte a lagunei incluse în UNESCO din 2008", "Loc de cuibărit pentru furtunarul cu coadă în formă de pană", "Recife de corali cu peste 100 de specii de pești", "Localizată la aprox. 15 km vest de Nouméa"],
       en: ["Construction of the historical signal tower in 1883", "Area of the coral island: approx. 11 hectares", "Part of the UNESCO World Heritage lagoon since 2008", "Nesting site for the Wedge-tailed Shearwater", "Coral reefs hosting over 100 fish species", "Located approx. 15 km west of Nouméa"],
     },
+    image: "/poi-images/newcaledonia-signal-island-reserve-life-v2.webp",
   },
   {
     id: "newcaledonia-yves-merlet-reserve-life-v2",
@@ -434,6 +447,7 @@ export const newcaledoniaLifeV2: POI[] = [
       ro: ["Înființarea rezervației în anul 1970", "Suprafața totală: aprox. 172 kilometri pătrați", "Statut de Rezervație Naturală Integrală (Categoria Ia)", "Acces interzis pentru turiști și pescari", "Monitorizarea regenerării coralilor", "Punct de referință important pentru studii științifice"],
       en: ["Establishment of the reserve in 1970", "Total area: approx. 172 square kilometers", "Status as an Integral Nature Reserve (Category Ia)", "Access prohibited for tourists and fishers", "Monitoring of coral regeneration", "Important reference point for scientific studies"],
     },
+    image: "/poi-images/newcaledonia-yves-merlet-reserve-life-v2.webp",
   },
   {
     id: "newcaledonia-ouen-toro-forest-life-v2",
@@ -465,6 +479,7 @@ export const newcaledoniaLifeV2: POI[] = [
       ro: ["Punctul maxim al dealului: 132 metri", "Suprafața zonei protejate: aprox. 60 hectare", "Prezența arborilor de santal (Santalum austrocaledonicum)", "Instalarea a două tunuri de 6 inci în anul 1940", "Ultimul refugiu pentru pădurea uscată amenințată", "Loc popular pentru practicantii de parapantă"],
       en: ["Highest point of the hill: 132 meters", "Area of the protected zone: approx. 60 hectares", "Occurrence of sandalwood trees (Santalum austrocaledonicum)", "Installation of two 6-inch cannons in 1940", "Last refuge for the endangered dry forest", "Popular spot for paragliders"],
     },
+    image: "/poi-images/newcaledonia-ouen-toro-forest-life-v2.webp",
   },
   {
     id: "newcaledonia-ouamenie-mangroves-life-v2",
@@ -496,6 +511,7 @@ export const newcaledoniaLifeV2: POI[] = [
       ro: ["Prezența a 11 specii diferite de mangrove", "Habitat important pentru crabul Scylla serrata", "Protecție împotriva eroziunii costiere prin atenuarea valurilor", "Zonă de observare pentru pasărea Zosterops lateralis", "Situat pe coasta de vest a insulei Grande Terre", "Importanță pentru pescuitul artizanal local"],
       en: ["Presence of 11 different mangrove species", "Important habitat for the mud crab Scylla serrata", "Protection against coastal erosion through wave attenuation", "Observation area for the Silvereye bird", "Located on the west coast of Grande Terre", "Significance for local artisanal fishing"],
     },
+    image: "/poi-images/newcaledonia-ouamenie-mangroves-life-v2.webp",
   },
   {
     id: "newcaledonia-ouvea-atoll-lagoon-life-v2",
@@ -527,6 +543,7 @@ export const newcaledoniaLifeV2: POI[] = [
       ro: ["Includerea în Patrimoniul UNESCO în anul 2008", "Lungimea lagunei: aprox. 35 kilometri", "Habitat pentru papagalul endemic de Ouvéa pe uscat", "Adâncimea maximă a lagunei: aprox. 30 metri", "Găzduiește rechini lămâie și rechini de recif cu vârful alb", "Plaje cu nisip alb cu o lungime de 25 km"],
       en: ["Included in the UNESCO World Heritage list in 2008", "Length of the lagoon: approx. 35 kilometers", "Habitat for the endemic Ouvéa Parakeet on land", "Maximum depth of the lagoon: approx. 30 meters", "Home to lemon sharks and whitetip reef sharks", "White sand beaches stretching for 25 km"],
     },
+    image: "/poi-images/newcaledonia-ouvea-atoll-lagoon-life-v2.webp",
   },
   {
     id: "newcaledonia-prony-bay-reserve-life-v2",
@@ -558,6 +575,7 @@ export const newcaledoniaLifeV2: POI[] = [
       ro: ["Înălțimea Aiguille de Prony: aprox. 38 metri", "Sezonul principal pentru balenele cu cocoașă: iulie-septembrie", "Vestigiile fostei colonii penitenciare Prony", "Prezența coralilor negri rari", "Confluența apei dulci cu ecosistemul marin", "Situat în Provincia de Sud (Province Sud)"],
       en: ["Height of the Aiguille de Prony: approx. 38 meters", "Peak season for humpback whales: July to September", "Remains of the former Prony penal colony", "Occurrence of rare black corals", "Confluence of freshwater and marine ecosystems", "Located in the South Province (Province Sud)"],
     },
+    image: "/poi-images/newcaledonia-prony-bay-reserve-life-v2.webp",
   },
   {
     id: "newcaledonia-entrecasteaux-reefs-life-v2",
@@ -589,6 +607,7 @@ export const newcaledoniaLifeV2: POI[] = [
       ro: ["Parte a Parcului Natural al Mării de Corali de 1,3 mil. km²", "Cea mai importantă zonă de cuibărit pentru Chelonia mydas din Pacific", "Include atolii Huon, Surprise și Fabre", "Colonii mari de corbi de mare cu mască și fregate", "Patrimoniu Mondial UNESCO din anul 2008", "Nu există așezări umane permanente"],
       en: ["Part of the 1.3 million km² Natural Park of the Coral Sea", "Most important nesting ground for Chelonia mydas in the Pacific", "Includes Huon, Surprise, and Fabre atolls", "Large colonies of Masked Boobies and Frigatebirds", "UNESCO World Heritage site since the year 2008", "No permanent human habitation present"],
     },
+    image: "/poi-images/newcaledonia-entrecasteaux-reefs-life-v2.webp",
   },
   {
     id: "newcaledonia-netcha-reserve-life-v2",
@@ -620,6 +639,7 @@ export const newcaledoniaLifeV2: POI[] = [
       ro: ["Peste 30 de kilometri de trasee marcate pentru mountain bike", "Prezența genului de plante endemice Nepenthes", "Pământul roșu rezultă din geologia specifică minelor de nichel", "Localizată lângă lacul de acumulare Yaté", "Prezența speciilor endemice de Grevillea", "Destinație populară pentru ecoturism în sud"],
       en: ["Over 30 kilometers of marked mountain bike trails", "Presence of the endemic plant genus Nepenthes", "Red soil results from nickel-mining geology", "Located near the Yaté reservoir", "Occurrence of endemic Grevillea species", "Popular destination for ecotourism in the south"],
     },
+    image: "/poi-images/newcaledonia-netcha-reserve-life-v2.webp",
   },
   {
     id: "newcaledonia-saille-forest-life-v2",
@@ -651,6 +671,7 @@ export const newcaledoniaLifeV2: POI[] = [
       ro: ["Peste 75% din speciile de plante sunt endemice", "Habitat important pentru uliul de Noua Caledonie", "Prezența ferigilor arborescente gigantice (Cyathea)", "Precipitații anuale între 2500 și 3500 mm", "Situată în masivul muntos al insulei principale", "Importanță pentru cercetarea diversității insectelor"],
       en: ["Over 75% of plant species are endemic", "Important habitat for the New Caledonian Goshawk", "Presence of giant tree ferns (Cyathea)", "Annual rainfall between 2500 and 3500 mm", "Located in the mountain massif of the main island", "Significance for research on insect diversity"],
     },
+    image: "/poi-images/newcaledonia-saille-forest-life-v2.webp",
   },
   {
     id: "newcaledonia-poindimie-marine-reserve-life-v2",
@@ -682,6 +703,7 @@ export const newcaledoniaLifeV2: POI[] = [
       ro: ["Diversitate mare de corali moi și duri", "Punct de observare pentru căluții de mare pigmei", "Localizată în largul comunei Poindimié", "Parte a clusterelor incluse în Patrimoniul UNESCO", "Zonă de protecție pentru nudibranhiate rare", "Temperaturi ale apei între 22 și 28 de grade Celsius"],
       en: ["High diversity of soft and hard corals", "Observation point for pygmy seahorses", "Located off the coast of Poindimié commune", "Part of the UNESCO World Heritage clusters", "Protection zone for rare nudibranchs", "Water temperatures between 22 and 28 degrees Celsius"],
     },
+    image: "/poi-images/newcaledonia-poindimie-marine-reserve-life-v2.webp",
   },
   {
     id: "newcaledonia-upi-bay-reserve-life-v2",
@@ -713,6 +735,7 @@ export const newcaledoniaLifeV2: POI[] = [
       ro: ["Stânci caracteristice sub formă de ciupercă din calcar coraligen", "Utilizarea pirogilor melaneziene tradiționale", "Prezența țestoaselor marine verzi", "Barcile cu motor nu sunt permise în interiorul golfului", "Înconjurat de pini columnari endemici (Araucaria columnaris)", "Conexiune cu golful vecin Oro"],
       en: ["Characteristic mushroom-shaped rocks of coral limestone", "Use of traditional Melanesian outrigger canoes", "Presence of green sea turtles", "Motorized boats are not permitted in the inner bay", "Surrounded by endemic column pines (Araucaria columnaris)", "Connection to the neighboring Oro Bay"],
     },
+    image: "/poi-images/newcaledonia-upi-bay-reserve-life-v2.webp",
   },
   {
     id: "newcaledonia-boulari-pass-reserve-life-v2",
@@ -744,6 +767,7 @@ export const newcaledoniaLifeV2: POI[] = [
       ro: ["Observări frecvente ale diavolilor de mare (manta)", "Cea mai importantă rută de navigație către portul Nouméa", "Farul Amédée a fost construit în anul 1865", "Curenții puternici de maree favorizează schimbul de nutrienți", "Adâncimea pasului: peste 20 de metri", "Parte a sistemului de lagune UNESCO"],
       en: ["Frequent sightings of giant manta rays", "Most important shipping lane to the port of Nouméa", "Construction of the Amédée Lighthouse in 1865", "Strong tidal currents promote nutrient exchange", "Depth of the pass: over 20 meters", "Part of the UNESCO World Heritage lagoon system"],
     },
+    image: "/poi-images/newcaledonia-boulari-pass-reserve-life-v2.webp",
   },
   {
     id: "newcaledonia-sarcelle-forest-life-v2",
@@ -775,6 +799,7 @@ export const newcaledoniaLifeV2: POI[] = [
       ro: ["Rezervația cuprinde păduri tropicale umede dense.", "Se află în comuna Yaté din Provincia Sud.", "Găzduiește numeroase plante agățătoare și ferigi endemice.", "Habitat important pentru porumbelul de fructe din Noua Caledonie.", "Teritoriul este caracterizat de precipitații anuale ridicate.", "Statutul de protecție vizează conservarea patrimoniului genetic al florei."],
       en: ["The reserve encompasses dense tropical rainforests.", "Located in the commune of Yaté in the South Province.", "Home to numerous endemic climbing plants and ferns.", "Crucial habitat for the New Caledonian Imperial Pigeon.", "The area is characterized by high annual rainfall.", "Conservation status aims to preserve the flora's genetic heritage."],
     },
+    image: "/poi-images/newcaledonia-sarcelle-forest-life-v2.webp",
   },
   {
     id: "newcaledonia-laregnere-island-reserve-life-v2",
@@ -806,6 +831,7 @@ export const newcaledoniaLifeV2: POI[] = [
       ro: ["Insula se află la aproximativ 12 kilometri de Nouméa.", "Rezervația a fost declarată zonă protejată în anul 1989.", "Este un loc important de cuibărit pentru furtunarul cu coadă scurtă.", "Recifurile de corali adăpostesc peste 200 de specii de pești.", "Vizitatorii trebuie să respecte reguli stricte de protecție a mediului.", "Suprafața insulei este formată din nisip coraligen și vegetație."],
       en: ["The islet is located about 12 kilometers from Nouméa.", "The reserve was declared a protected area in 1989.", "It is a key nesting site for the Wedge-tailed Shearwater.", "The coral reefs are home to over 200 species of fish.", "Day visitors must follow strict environmental protection rules.", "The island surface consists of coral sand and vegetation."],
     },
+    image: "/poi-images/newcaledonia-laregnere-island-reserve-life-v2.webp",
   },
   {
     id: "newcaledonia-bellona-reefs-life-v2",
@@ -837,6 +863,7 @@ export const newcaledoniaLifeV2: POI[] = [
       ro: ["Recifurile au fost numite după nava Bellona.", "Fac parte din Parcul Natural al Mării de Corali.", "Habitat important pentru țestoasele marine și rechini.", "Zona include numeroase bancuri de nisip și formațiuni de corali.", "Expedițiile științifice documentează aici specii rare.", "Recifurile se află în afara zonei economice exclusive."],
       en: ["The reefs were named after the ship Bellona.", "They are part of the Natural Park of the Coral Sea.", "Important habitat for sea turtles and sharks.", "The area includes numerous sandbanks and coral heads.", "Scientific expeditions document rare species in this area.", "The reefs are located within the remote Chesterfield Plateau."],
     },
+    image: "/poi-images/newcaledonia-bellona-reefs-life-v2.webp",
   },
   {
     id: "newcaledonia-voh-heart-mangrove-life-v2",
@@ -868,6 +895,7 @@ export const newcaledoniaLifeV2: POI[] = [
       ro: ["Formațiunea este compusă din mangrove din genul Avicennia.", "Se află în apropierea comunei Voh.", "Poiana în formă de inimă se întinde pe aproximativ 4 hectare.", "A apărut pe coperta cărții 'Pământul văzut din cer' în 1999.", "Forma este cel mai bine vizibilă de pe muntele Katépa.", "Fenomenul este cunoscut sub numele de 'tanne' în ecologia mangrovelor."],
       en: ["The formation consists of mangroves of the genus Avicennia.", "It is located near the commune of Voh.", "The heart-shaped clearing covers approximately 4 hectares.", "Featured on the cover of 'Earth from Above' in 1999.", "The shape is best viewed from the top of Mount Katépa.", "The phenomenon is known as a 'tanne' in mangrove ecology."],
     },
+    image: "/poi-images/newcaledonia-voh-heart-mangrove-life-v2.webp",
   },
   {
     id: "newcaledonia-turtle-bay-reserve-life-v2",
@@ -899,6 +927,7 @@ export const newcaledoniaLifeV2: POI[] = [
       ro: ["Principal loc de cuibărit pentru țestoasa loggerhead în Pacific.", "Sezonul de cuibărit durează din noiembrie până în martie.", "Araucariile de pe plajă ating înălțimi de peste 30 de metri.", "Se află la sud de formațiunea stâncoasă 'La Roche Percée'.", "Este monitorizată de grupuri locale de voluntari pentru protecția cuiburilor.", "Golful este cunoscut pentru curenții marini puternici."],
       en: ["Major nesting site for loggerhead sea turtles in the Pacific.", "The nesting season runs from November to March.", "Columnar pines on the beach reach heights over 30 meters.", "Located just south of the 'La Roche Percée' rock formation.", "Monitored by local volunteer groups to protect the nests.", "The bay is known for its strong oceanic currents."],
     },
+    image: "/poi-images/newcaledonia-turtle-bay-reserve-life-v2.webp",
   },
   {
     id: "newcaledonia-madeleine-waterfalls-reserve-life-v2",
@@ -930,5 +959,6 @@ export const newcaledoniaLifeV2: POI[] = [
       ro: ["Protejează 168 de specii de plante, dintre care 95% sunt endemice.", "Găzduiește 7 din cele 19 specii de Podocarpus din lume.", "Rezervația acoperă o suprafață de aproximativ 400 de hectare.", "Solul este extrem de bogat în fier și magneziu.", "Un traseu didactic informează despre flora rară a zonei.", "Zonă importantă de protecție pentru coniferul Neocallitropsis pancheri."],
       en: ["Protects 168 plant species, 95% of which are endemic.", "Home to 7 of the world's 19 species of Podocarpus.", "The reserve covers an area of approximately 400 hectares.", "The soil is extremely rich in iron and magnesium.", "An educational trail provides info on the area's rare flora.", "Crucial sanctuary for the conifer Neocallitropsis pancheri."],
     },
+    image: "/poi-images/newcaledonia-madeleine-waterfalls-reserve-life-v2.webp",
   }
 ];

@@ -32,6 +32,7 @@ export const switzerlandLifeV2: POI[] = [
       ro: ["Fondat: 1914", "Suprafață: 170 km²", "Altitudine: 1.400–3.173 m", "Trasee de drumeție: 80 km", "Specii animale: peste 5.000", "Vizitatori pe an: ~150.000"],
       en: ["Founded: 1914", "Area: 170 km²", "Altitude range: 1,400–3,173 m", "Hiking trails: 80 km", "Animal species: over 5,000", "Annual visitors: approx. 150,000"],
     },
+    image: "/poi-images/switzerland-swiss-national-park-life-v2.webp",
   },
   {
     id: "switzerland-papiliorama-zoo-life-v2",
@@ -64,6 +65,7 @@ export const switzerlandLifeV2: POI[] = [
       ro: ["Deschis: 1988", "Suprafața sălii: 1.000 m²", "Specii de fluturi: peste 60", "Temperatură: constantă 26 °C", "Umiditate: 80%", "Vizitatori pe an: ~200.000"],
       en: ["Opened: 1988", "Hall area: 1,000 m²", "Butterfly species: over 60", "Temperature: constant 26 °C", "Humidity: 80%", "Annual visitors: approx. 200,000"],
     },
+    image: "/poi-images/switzerland-papiliorama-zoo-life-v2.webp",
   },
   {
     id: "switzerland-botanical-garden-bern-life-v2",
@@ -96,6 +98,7 @@ export const switzerlandLifeV2: POI[] = [
       ro: ["Fondată: 1860", "Suprafață: 2,5 ha", "Specii de plante: 6.000+", "Seră tropicală: 300 m²", "Alpinum: 1.000 m²", "Grădină japoneză: din 1992"],
       en: ["Founded: 1860", "Area: 2.5 hectares", "Plant species: 6,000+", "Tropical greenhouse: 300 m²", "Alpine garden: 1,000 m²", "Japanese garden: since 1992"],
     },
+    image: "/poi-images/switzerland-botanical-garden-bern-life-v2.webp",
   },
   {
     id: "switzerland-zoo-zurich-life-v2",
@@ -128,6 +131,7 @@ export const switzerlandLifeV2: POI[] = [
       ro: ["Deschis: 1929", "Suprafață: 27 ha", "Specii animale: 360+", "Sala Masoala: 13.000 m²", "Incinta elefanților: 6.000 m²", "Vizitatori pe an: ~1,2 milioane"],
       en: ["Opened: 1929", "Area: 27 hectares", "Animal species: 360+", "Masoala Hall: 13,000 m²", "Elephant park: 6,000 m²", "Annual visitors: approx. 1.2 million"],
     },
+    image: "/poi-images/switzerland-zoo-zurich-life-v2.webp",
   },
   {
     id: "switzerland-la-garenne-zoo-life-v2",
@@ -160,6 +164,7 @@ export const switzerlandLifeV2: POI[] = [
       ro: ["Fondat: 1965", "Suprafață: 12 ha", "Specii animale: 200+", "Incinta râșilor: 1.500 m²", "Incinta urșilor: 2.000 m²", "Vizitatori pe an: ~80.000"],
       en: ["Founded: 1965", "Area: 12 hectares", "Animal species: 200+", "Lynx enclosure: 1,500 m²", "Bear enclosure: 2,000 m²", "Annual visitors: approx. 80,000"],
     },
+    image: "/poi-images/switzerland-la-garenne-zoo-life-v2.webp",
   },
   {
     id: "switzerland-botanical-garden-basel-life-v2",
@@ -192,6 +197,7 @@ export const switzerlandLifeV2: POI[] = [
       ro: ["Fondată: 1589", "Suprafață: 1,5 ha", "Specii de plante: 7.000+", "Seră tropicală: 500 m²", "Arboretum: 0,5 ha", "Cea mai veche grădină botanică din Elveția"],
       en: ["Founded: 1589", "Area: 1.5 hectares", "Plant species: 7,000+", "Tropical greenhouse: 500 m²", "Arboretum: 0.5 hectares", "Oldest botanical garden in Switzerland"],
     },
+    image: "/poi-images/switzerland-botanical-garden-basel-life-v2.webp",
   },
   {
     id: "switzerland-niederried-wetland-life-v2",
@@ -224,6 +230,7 @@ export const switzerlandLifeV2: POI[] = [
       ro: ["Suprafață: 150 ha", "Statut de protecție: importanță națională", "Stufăriș: 40 ha", "Specii de păsări: peste 200", "Potecă de lemn: 2 km", "Fondată: 1975"],
       en: ["Area: 150 hectares", "Protection status: national significance", "Reed beds: 40 hectares", "Bird species: over 200 recorded", "Boardwalk: 2 km", "Established: 1975"],
     },
+    image: "/poi-images/switzerland-niederried-wetland-life-v2.webp",
   },
   {
     id: "switzerland-botanical-garden-geneva-life-v2",
@@ -256,6 +263,7 @@ export const switzerlandLifeV2: POI[] = [
       ro: ["Fondare: 1904", "Suprafață: 28 hectare", "Specii de plante: peste 12.000", "Seră construită: 1960", "Grădină alpină din 1906", "Bancă de semințe: 5.000 de probe"],
       en: ["Founded: 1904", "Area: 28 hectares", "Plant species: over 12,000", "Greenhouse built: 1960", "Alpine garden since 1906", "Seed bank: 5,000 seed samples"],
     },
+    image: "/poi-images/switzerland-botanical-garden-geneva-life-v2.webp",
   },
   {
     id: "switzerland-goldau-animal-park-life-v2",
@@ -288,6 +296,7 @@ export const switzerlandLifeV2: POI[] = [
       ro: ["Deschis: 1925", "Suprafață: 42 ha", "Specii animale: peste 100", "Incinta urșilor: 3 ha", "Vizitatori anual: cca. 500.000", "Alunecare de teren: 1806"],
       en: ["Opened: 1925", "Area: 42 ha", "Animal species: over 100", "Bear enclosure: 3 ha", "Annual visitors: approx. 500,000", "Landslide: 1806"],
     },
+    image: "/poi-images/switzerland-goldau-animal-park-life-v2.webp",
   },
   {
     id: "switzerland-botanical-garden-zurich-life-v2",
@@ -320,6 +329,7 @@ export const switzerlandLifeV2: POI[] = [
       ro: ["Fondare: 1833", "Mutare: 1976", "Suprafață: 5 ha", "Specii plante: peste 15.000", "Seră tropicală deschisă: 1977", "Altitudine: 600 m"],
       en: ["Founded: 1833", "Relocated: 1976", "Area: 5 ha", "Plant species: over 15,000", "Tropical house opened: 1977", "Elevation: 600 m"],
     },
+    image: "/poi-images/switzerland-botanical-garden-zurich-life-v2.webp",
   },
   {
     id: "switzerland-kaltbrunner-ried-life-v2",
@@ -352,6 +362,7 @@ export const switzerlandLifeV2: POI[] = [
       ro: ["Rezervație din: 1974", "Suprafață: 82 ha", "Specii păsări: peste 80", "Cuiburi de sitar: aprox. 15", "Loc de popas păsări migratoare: internațional", "Grosime turbă: până la 3 m"],
       en: ["Protected since: 1974", "Area: 82 ha", "Bird species: over 80", "Snipe breeding pairs: approx. 15", "Migratory bird stopover: international", "Peat depth: up to 3 m"],
     },
+    image: "/poi-images/switzerland-kaltbrunner-ried-life-v2.webp",
   },
   {
     id: "switzerland-zoo-servion-life-v2",
@@ -384,6 +395,7 @@ export const switzerlandLifeV2: POI[] = [
       ro: ["Deschis: 1974", "Număr animale: cca. 500", "Specii: 100", "Hipopotami: 6", "Girafe: 5", "Vizitatori anual: 150.000"],
       en: ["Opened: 1974", "Number of animals: approx. 500", "Species: 100", "Hippos: 6", "Giraffes: 5", "Annual visitors: 150,000"],
     },
+    image: "/poi-images/switzerland-zoo-servion-life-v2.webp",
   },
   {
     id: "switzerland-gruyere-pays-d-enhaut-life-v2",
@@ -416,6 +428,7 @@ export const switzerlandLifeV2: POI[] = [
       ro: ["Fondare: 2000", "Suprafață: 660 km²", "Comune: 12", "Altitudine: 600–2000 m", "Producție brânză: 30.000 t/an", "Trasee de drumeție: 800 km"],
       en: ["Founded: 2000", "Area: 660 km²", "Municipalities: 12", "Elevation: 600–2000 m", "Cheese production: 30,000 t/year", "Hiking trails: 800 km"],
     },
+    image: "/poi-images/switzerland-gruyere-pays-d-enhaut-life-v2.webp",
   },
   {
     id: "switzerland-botanical-garden-st-gallen-life-v2",
@@ -448,6 +461,7 @@ export const switzerlandLifeV2: POI[] = [
       ro: ["Deschis: 1989", "Suprafață: 1,5 ha", "Lungime alpinum: 1000 m", "Grădină medicinală: istorică", "Specii plante: 3000", "Sere: 2"],
       en: ["Opened: 1989", "Area: 1.5 ha", "Alpinum length: 1000 m", "Herb garden: historical", "Plant species: 3,000", "Greenhouses: 2"],
     },
+    image: "/poi-images/switzerland-botanical-garden-st-gallen-life-v2.webp",
   },
   {
     id: "switzerland-wildnispark-zurich-life-v2",
@@ -480,6 +494,7 @@ export const switzerlandLifeV2: POI[] = [
       ro: ["Fondare: 1995", "Suprafață: 570 ha", "Specii animale: peste 200", "Patrimoniu UNESCO din: 2007", "Trasee drumeție: 100 km", "Vizitatori anual: 200.000"],
       en: ["Founded: 1995", "Area: 570 ha", "Animal species: over 200", "UNESCO World Heritage since: 2007", "Hiking trails: 100 km", "Annual visitors: 200,000"],
     },
+    image: "/poi-images/switzerland-wildnispark-zurich-life-v2.webp",
   },
   {
     id: "switzerland-jurapark-aargau-life-v2",
@@ -512,6 +527,7 @@ export const switzerlandLifeV2: POI[] = [
       ro: ["Fondare: 2000", "Suprafață: 300 km²", "Comune: 40", "Altitudine maximă: 908 m (Geissflue)", "Peșteri carstice: peste 100", "Trasee drumeție: 400 km"],
       en: ["Founded: 2000", "Area: 300 km²", "Municipalities: 40", "Highest point: 908 m (Geissflue)", "Karst caves: over 100", "Hiking trails: 400 km"],
     },
+    image: "/poi-images/switzerland-jurapark-aargau-life-v2.webp",
   },
   {
     id: "switzerland-botanical-garden-fribourg-life-v2",
@@ -544,6 +560,7 @@ export const switzerlandLifeV2: POI[] = [
       ro: ["Amenajare: 1910", "Suprafață: 3 ha", "Specii plante: peste 4.000", "Alpinum: 1965", "Iazuri: 3", "Altitudine: 640 m"],
       en: ["Laid out: 1910", "Area: 3 ha", "Plant species: over 4,000", "Alpine garden: 1965", "Ponds: 3", "Elevation: 640 m"],
     },
+    image: "/poi-images/switzerland-botanical-garden-fribourg-life-v2.webp",
   },
   {
     id: "switzerland-thal-nature-park-life-v2",
@@ -576,6 +593,7 @@ export const switzerlandLifeV2: POI[] = [
       ro: ["Fondare: 2006", "Suprafață: 140 km²", "Comune: 10", "Populație râși: cca. 5", "Izvoare carstice: peste 30", "Trasee drumeție: 150 km"],
       en: ["Founded: 2006", "Area: 140 km²", "Municipalities: 10", "Lynx population: approx. 5", "Karst springs: over 30", "Hiking trails: 150 km"],
     },
+    image: "/poi-images/switzerland-thal-nature-park-life-v2.webp",
   },
   {
     id: "switzerland-zoo-les-marecottes-life-v2",
@@ -608,6 +626,7 @@ export const switzerlandLifeV2: POI[] = [
       ro: ["Deschis: 1970", "Altitudine: 1.100 m", "Număr animale: peste 200", "Specii: 50", "Capre de stâncă: 12", "Zăgani: 3"],
       en: ["Opened: 1970", "Altitude: 1,100 m", "Number of animals: over 200", "Species: 50", "Ibex: 12", "Bearded vultures: 3"],
     },
+    image: "/poi-images/switzerland-zoo-les-marecottes-life-v2.webp",
   },
   {
     id: "switzerland-botanical-garden-neuchatel-life-v2",
@@ -640,6 +659,7 @@ export const switzerlandLifeV2: POI[] = [
       ro: ["Amenajare: 1953", "Suprafață: 2,5 ha", "Specii plante: peste 3.000", "Suculente: 800 specii", "Seră tropicală: 1970", "Mal de lac: 200 m"],
       en: ["Laid out: 1953", "Area: 2.5 ha", "Plant species: over 3,000", "Succulents: 800 species", "Tropical greenhouse: 1970", "Lakeshore: 200 m"],
     },
+    image: "/poi-images/switzerland-botanical-garden-neuchatel-life-v2.webp",
   },
   {
     id: "switzerland-biosphere-entlebuch-life-v2",
@@ -672,6 +692,7 @@ export const switzerlandLifeV2: POI[] = [
       ro: ["Recunoaștere UNESCO: 2001", "Suprafață: 395 km²", "Comune: 9", "Suprafață mlaștini: 3.000 ha", "Peșteri carstice: peste 100", "Populație cocoș de mesteacăn: cca. 200"],
       en: ["UNESCO recognition: 2001", "Area: 395 km²", "Municipalities: 9", "Moor area: 3,000 ha", "Karst caves: over 100", "Black grouse population: approx. 200"],
     },
+    image: "/poi-images/switzerland-biosphere-entlebuch-life-v2.webp",
   },
   {
     id: "switzerland-zoo-maggi-life-v2",
@@ -704,6 +725,7 @@ export const switzerlandLifeV2: POI[] = [
       ro: ["Deschis: 1996", "Număr animale: cca. 300", "Specii: 80", "Populație lupi: 8", "Incinta urșilor: 2 ha", "Vizitatori anual: 100.000"],
       en: ["Opened: 1996", "Number of animals: approx. 300", "Species: 80", "Wolf population: 8", "Bear enclosure: 2 ha", "Annual visitors: 100,000"],
     },
+    image: "/poi-images/switzerland-zoo-maggi-life-v2.webp",
   },
   {
     id: "switzerland-botanical-garden-zurich-villa-life-v2",
@@ -736,6 +758,7 @@ export const switzerlandLifeV2: POI[] = [
       ro: ["Amenajare: 1837", "Suprafață: 0,8 ha", "Specii plante: peste 1.000", "Seră palmieri: 1850", "Vila Wesendonck: sec. XIX", "Monument istoric din: 1965"],
       en: ["Laid out: 1837", "Area: 0.8 ha", "Plant species: over 1,000", "Palm house: 1850", "Villa Wesendonck: 19th century", "Listed building since: 1965"],
     },
+    image: "/poi-images/switzerland-botanical-garden-zurich-villa-life-v2.webp",
   },
   {
     id: "switzerland-pfyn-finges-park-life-v2",
@@ -768,6 +791,7 @@ export const switzerlandLifeV2: POI[] = [
       ro: ["Fondare: 1995", "Suprafață: 165 km²", "Lungime sector Ron: 20 km", "Specii reptile: 15", "Populație viperă cu corn: cca. 500", "Castelul Leuk: sec. XII"],
       en: ["Founded: 1995", "Area: 165 km²", "Length of Rhone stretch: 20 km", "Reptile species: 15", "Asp viper population: approx. 500", "Leuk Castle: 12th century"],
     },
+    image: "/poi-images/switzerland-pfyn-finges-park-life-v2.webp",
   },
   {
     id: "switzerland-zoo-langenberg-life-v2",
@@ -800,6 +824,7 @@ export const switzerlandLifeV2: POI[] = [
       ro: ["Deschis: 1970", "Suprafață: 40 ha", "Specii animale: 20", "Zimbri: 15", "Traseu circular: 3 km", "Vizitatori anual: 250.000"],
       en: ["Opened: 1970", "Area: 40 ha", "Animal species: 20", "Bison: 15", "Circular trail: 3 km", "Annual visitors: 250,000"],
     },
+    image: "/poi-images/switzerland-zoo-langenberg-life-v2.webp",
   },
   {
     id: "switzerland-botanical-garden-porrentruy-life-v2",
@@ -832,5 +857,6 @@ export const switzerlandLifeV2: POI[] = [
       ro: ["Amenajare: 1955", "Suprafață: 1,2 ha", "Specii plante: cca. 2.000", "Plante medicinale: 300 specii", "Seră: 1960", "Altitudine: 440 m"],
       en: ["Laid out: 1955", "Area: 1.2 ha", "Plant species: approx. 2,000", "Medicinal plants: 300 species", "Greenhouse: 1960", "Elevation: 440 m"],
     },
+    image: "/poi-images/switzerland-botanical-garden-porrentruy-life-v2.webp",
   }
 ];

@@ -427,7 +427,8 @@ export const dominicanrepublicLandmarks: POI[] = [
       en: ["Calle Las Damas is the oldest paved street in the Americas", "Fortaleza Ozama is the oldest European-style military structure in the region", "The Cathedral of Santa María la Menor was completed and consecrated in 1541"]
     },
     historyYear: 1498,
-    area: 1.06
+    area: 1.06,
+    image: "/poi-images/do-zonacolonial.webp",
   },
   {
     id: "do-alcazar",
@@ -863,7 +864,8 @@ export const dominicanrepublicLandmarks: POI[] = [
       ro: ["Epava navei 'Quedagh Merchant' a căpitanului Kidd se află în apropiere", "Insula a fost descoperită de Cristofor Columb în 1494", "Există acolo o populație protejată de papagali"],
       en: ["The 1699 shipwreck of Captain Kidd's 'Quedagh Merchant' lies nearby", "Christopher Columbus originally discovered and named the island in 1494", "The island is surrounded by white sand beaches and shallow reef gardens"]
     },
-    area: 9.6
+    area: 9.6,
+    image: "/poi-images/do-isla-catalina.webp",
   }
 ];
 

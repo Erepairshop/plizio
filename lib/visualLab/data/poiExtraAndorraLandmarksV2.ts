@@ -32,6 +32,7 @@ export const andorraLandmarksV2: POI[] = [
       ro: ["Sfințită în anul 1055", "Stil arhitectural romanic timpuriu", "Amplasare spectaculoasă pe o stâncă", "Găzduiește fragmente de pictură murală", "Situată în Nagol, Sant Julià de Lòria", "Una dintre cele mai vechi biserici din țară"],
       en: ["Consecrated in the year 1055", "Early Romanesque architectural style", "Spectacularly perched on a rocky cliff", "Houses remains of Romanesque murals", "Located in Nagol, Sant Julià de Lòria", "One of the oldest churches in Andorra"],
     },
+    image: "/poi-images/andorra-sant-cerni-nagol-landmarks-v2.webp",
   },
   {
     id: "andorra-santa-eulalia-encamp-landmarks-v2",
@@ -64,6 +65,7 @@ export const andorraLandmarksV2: POI[] = [
       ro: ["Turn clopotniță de 23 de metri înălțime", "Cel mai înalt turn romanic din Andorra", "Stil lombard datat din sec. XI-XII", "Biserica parohială principală din Encamp", "Deține un baptisteriu din secolul al XII-lea", "Adăpostește retabluri din perioada barocă"],
       en: ["Bell tower stands 23 meters tall", "Tallest Romanesque tower in Andorra", "Lombard style from 11th-12th centuries", "Main parish church of Encamp", "Houses a 12th-century baptismal font", "Contains several Baroque altarpieces"],
     },
+    image: "/poi-images/andorra-santa-eulalia-encamp-landmarks-v2.webp",
   },
   {
     id: "andorra-sant-serni-canillo-landmarks-v2",
@@ -96,6 +98,7 @@ export const andorraLandmarksV2: POI[] = [
       ro: ["Reconstruită în secolele XVII și XVIII", "Ridicată pe fundații romanice vechi", "Dispune de un turn clopotniță masiv", "Retablu principal din secolul al XVII-lea", "Situată în centrul parohiei Canillo", "Centru religios și cultural important"],
       en: ["Rebuilt during the 17th and 18th centuries", "Built over older Romanesque foundations", "Features a massive and imposing bell tower", "Main altarpiece dates to the 17th century", "Located in the center of Canillo", "Significant religious and cultural center"],
     },
+    image: "/poi-images/andorra-sant-serni-canillo-landmarks-v2.webp",
   },
   {
     id: "andorra-sant-esteve-vella-landmarks-v2",
@@ -128,6 +131,7 @@ export const andorraLandmarksV2: POI[] = [
       ro: ["Biserica datează inițial din secolul al XII-lea.", "Turnul clopotniță are o bază pătrată în stil lombard.", "Josep Puig i Cadafalch a condus renovarea în anul 1940.", "Absida bisericii este una dintre cele mai mari din Andorra.", "O pictură murală romanică a fost transferată la Muzeul Național de Artă al Cataloniei.", "Clădirea se află chiar lângă sediul parlamentului, Casa de la Vall."],
       en: ["The church originally dates back to the 12th century.", "The bell tower features a square floor plan in the Lombard style.", "Josep Puig i Cadafalch directed the renovation work in 1940.", "The church's apse is one of the largest in all of Andorra.", "A Romanesque mural was moved to the National Art Museum of Catalonia.", "The building is located directly next to the parliament, Casa de la Vall."],
     },
+    image: "/poi-images/andorra-sant-esteve-vella-landmarks-v2.webp",
   },
   {
     id: "andorra-sant-cristofol-anyos-landmarks-v2",
@@ -160,6 +164,7 @@ export const andorraLandmarksV2: POI[] = [
       ro: ["Clădirea a fost construită în secolul al XII-lea în stil romanic.", "Biserica măsoară doar 5 pe 11 metri la bază.", "Picturile murale originale sunt atribuite Maestrului din Anyós.", "Extinderea navei bisericii a avut loc în secolul al XVI-lea.", "Biserica se află la o altitudine de aproximativ 1.300 de metri deasupra mării.", "În fiecare an, pe 10 iulie, are loc binecuvântarea tradițională a vehiculelor."],
       en: ["The building was constructed in the 12th century in Romanesque style.", "The church measures only 5 by 11 meters in floor area.", "The original murals are attributed to the Master of Anyós.", "The expansion of the church nave took place in the 16th century.", "The church stands at an altitude of approximately 1,300 meters above sea level.", "Every July 10th, the traditional blessing of vehicles takes place."],
     },
+    image: "/poi-images/andorra-sant-cristofol-anyos-landmarks-v2.webp",
   },
   {
     id: "andorra-sant-iscle-massana-landmarks-v2",
@@ -192,6 +197,7 @@ export const andorraLandmarksV2: POI[] = [
       ro: ["Structura actuală datează predominant din secolul al XVII-lea.", "Turnul clopotniță pătrat este una dintre cele mai înalte structuri din La Massana.", "Altarul principal a fost finalizat în anul 1706.", "Biserica adăpostește două busturi-relicvar ale sfinților patroni.", "Un grilaj baroc separă zona corului de restul navei.", "Fațada prezintă arta tradițională andorrană a cioplitului în granit."],
       en: ["The current structure dates predominantly from the 17th century.", "The square bell tower is one of the tallest structures in La Massana.", "The main altarpiece was completed in the year 1706.", "The church houses two reliquary busts of the patron saints.", "A Baroque grille separates the choir area from the rest of the nave.", "The facade displays traditional Andorran granite stonemasonry."],
     },
+    image: "/poi-images/andorra-sant-iscle-massana-landmarks-v2.webp",
   },
   {
     id: "andorra-museu-postal-landmarks-v2",
@@ -224,6 +230,7 @@ export const andorraLandmarksV2: POI[] = [
       ro: ["Muzeul găzduiește o colecție de peste 50.000 de timbre andorrane.", "Andorra utilizează serviciile poștale ale Spaniei (Correos) și Franței (La Poste) din 1928.", "Expoziția este situată în clădirea istorică Borda del Ransol.", "Vizitatorii pot experimenta un tur audiovizual despre istoria poștei.", "Unele dintre cele mai rare timbre datează din perioada fondării serviciului.", "Muzeul prezintă evoluția uniformelor poștale pe parcursul mai multor decenii."],
       en: ["The museum houses a collection of over 50,000 Andorran stamps.", "Andorra has used the postal services of Spain (Correos) and France (La Poste) since 1928.", "The exhibition is located in the historic Borda del Ransol building.", "Visitors can enjoy an audiovisual tour detailing the history of the mail.", "Some of the rarest stamps date back to the founding period of the service.", "The museum displays the evolution of postal uniforms over several decades."],
     },
+    image: "/poi-images/andorra-museu-postal-landmarks-v2.webp",
   },
   {
     id: "andorra-museu-miniatura-landmarks-v2",
@@ -256,6 +263,7 @@ export const andorraLandmarksV2: POI[] = [
       ro: ["Artistul Nikolai Siadristy este considerat fondatorul artei moderne a microminiaturii.", "Exponate precum 'Caravana în urechile acului' sunt faimoase la nivel mondial.", "Fiecare operă de artă trebuie privită printr-o lupă sau un microscop.", "Materialele folosite includ aur, platină, fire de păr și semințe.", "Unele lucrări sunt compuse din peste 20 de piese individuale de dimensiuni micrometrice.", "Muzeul este unul dintre puținele din lume specializate exclusiv pe acest domeniu."],
       en: ["The artist Nikolai Siadristy is considered the founder of modern microminiature art.", "Exhibits such as the 'Caravan in the Eye of a Needle' are world-famous.", "Every artwork must be viewed through a magnifying glass or microscope.", "Materials used include gold, platinum, human hair, and seeds.", "Some works consist of more than 20 individual parts at the micrometer scale.", "The museum is one of only a few worldwide specializing in this specific field."],
     },
+    image: "/poi-images/andorra-museu-miniatura-landmarks-v2.webp",
   },
   {
     id: "andorra-museu-automobil-landmarks-v2",
@@ -288,6 +296,7 @@ export const andorraLandmarksV2: POI[] = [
       ro: ["Muzeul adăpostește mașina cu aburi Pinette din anul 1885.", "Peste 80 de automobile documentează istoria mobilității.", "Colecția include, de asemenea, aproximativ 100 de biciclete istorice.", "Sunt expuse vehicule de la mărci precum Hispano-Suiza și Bugatti.", "Muzeul este împărțit pe cinci etaje organizate cronologic.", "Se află situat în centrul parohiei Encamp."],
       en: ["The museum houses the Pinette steam car from the year 1885.", "More than 80 automobiles document the history of mobility.", "The collection also includes around 100 historical bicycles.", "Vehicles from brands such as Hispano-Suiza and Bugatti are on display.", "The museum is divided into five chronologically arranged floors.", "It is located in the center of the Encamp parish."],
     },
+    image: "/poi-images/andorra-museu-automobil-landmarks-v2.webp",
   },
   {
     id: "andorra-casa-rull-landmarks-v2",
@@ -320,6 +329,7 @@ export const andorraLandmarksV2: POI[] = [
       ro: ["Clădirea a fost construită în secolul al XVII-lea și modernizată în secolul al XIX-lea.", "Casa Rull a aparținut influentei familii Perich din Sispony.", "Casa dispune de trei etaje, separate în funcție de utilitate.", "Agricultura de aici se baza în principal pe cereale și tutun.", "Un incendiu din secolul al XIX-lea a dus la lucrări de remodelare extinse.", "Muzeul face parte din rețeaua de muzee naționale ale Andorrei."],
       en: ["The building was constructed in the 17th century and modernized in the 19th.", "Casa Rull belonged to the influential Perich family of Sispony.", "The house features three floors separated according to their functions.", "Agriculture here was primarily based on cereals and tobacco.", "A fire in the 19th century led to extensive remodeling work.", "The museum is part of the network of Andorran national museums."],
     },
+    image: "/poi-images/andorra-casa-rull-landmarks-v2.webp",
   },
   {
     id: "andorra-museu-thyssen-landmarks-v2",
@@ -352,6 +362,7 @@ export const andorraLandmarksV2: POI[] = [
       ro: ["Muzeul a fost inaugurat oficial pe 16 martie 2017.", "Este situat în istoricul Hostal Valira, construit în anul 1933.", "Expozițiile se schimbă anual pentru a prezenta diferite părți ale colecției.", "Muzeul a fost nominalizat de UNESCO pentru oferta sa educațională.", "Suprafața galeriilor este de aproximativ 250 de metri pătrați.", "Carmen Thyssen-Bornemisza este o fostă Miss Spania și o cunoscută mecena de artă."],
       en: ["The museum was officially inaugurated on March 16, 2017.", "It is located in the historic Hostal Valira, built in 1933.", "The exhibitions change annually to showcase different parts of the collection.", "The museum was nominated by UNESCO for its educational programs.", "The gallery space covers approximately 250 square meters.", "Carmen Thyssen-Bornemisza is a former Miss Spain and a renowned art patron."],
     },
+    image: "/poi-images/andorra-museu-thyssen-landmarks-v2.webp",
   },
   {
     id: "andorra-museu-moto-landmarks-v2",
@@ -384,6 +395,7 @@ export const andorraLandmarksV2: POI[] = [
       ro: ["Colecția cuprinde peste 100 de motociclete istorice și moderne.", "Cel mai vechi model expus datează din anul 1900.", "Mărci iconice precum Brough Superior și Norton sunt prezente.", "Muzeul prezintă, de asemenea, căști și echipamente ale unor piloți celebri.", "O secțiune este dedicată exclusiv motocicletelor de trial, foarte populare în Andorra.", "Clădirea este situată pe șoseaua principală din Canillo."],
       en: ["The collection includes over 100 historic and modern motorcycles.", "The oldest model on display dates back to the year 1900.", "Iconic brands such as Brough Superior and Norton are represented.", "The museum also displays helmets and equipment from famous racers.", "An area is exclusively dedicated to trial motorcycles, which are very popular in Andorra.", "The building is located on the main road in Canillo."],
     },
+    image: "/poi-images/andorra-museu-moto-landmarks-v2.webp",
   },
   {
     id: "andorra-caee-museum-landmarks-v2",
@@ -416,6 +428,7 @@ export const andorraLandmarksV2: POI[] = [
       ro: ["Clădirea a servit inițial ca școală și cinematograf.", "Colecția Viladomat cuprinde peste 100 de sculpturi din bronz și ipsos.", "Există aproximativ 30 de machete detaliate ale bisericilor romanice andorrane.", "Muzeul oferă intrare gratuită pentru majoritatea expozițiilor permanente.", "Se află situat în apropierea faimosului centru termal Caldea.", "CAEE a fost deschis în forma sa actuală în anul 2005."],
       en: ["The building originally served as a school and a cinema.", "The Viladomat collection includes more than 100 sculptures in bronze and plaster.", "There are about 30 detailed models of Andorran Romanesque churches.", "The museum offers free admission for most of its permanent exhibitions.", "It is located near the famous Caldea thermal spa.", "CAEE was opened in its current form in 2005."],
     },
+    image: "/poi-images/andorra-caee-museum-landmarks-v2.webp",
   },
   {
     id: "andorra-pont-sant-antoni-landmarks-v2",
@@ -448,6 +461,7 @@ export const andorraLandmarksV2: POI[] = [
       ro: ["Situat lângă La Massana pe râul Valira del Nord.", "Origine medievală, probabil din secolul al XIV-lea sau al XV-lea.", "Prezintă o structură cu un singur arc semicircular.", "Restaurat în 1943 datorită importanței sale istorice.", "Înălțimea arcului este de aproximativ 5 metri.", "Situat lângă capela Sant Antoni de la Grella."],
       en: ["Located near La Massana on the Valira del Nord river.", "Medieval origin, likely 14th or 15th century.", "Features a single semicircular arch structure.", "Restored in 1943 due to its historical importance.", "Height of the arch is roughly 5 meters.", "Located next to the Sant Antoni de la Grella chapel."],
     },
+    image: "/poi-images/andorra-pont-sant-antoni-landmarks-v2.webp",
   },
   {
     id: "andorra-pont-escalls-landmarks-v2",
@@ -480,6 +494,7 @@ export const andorraLandmarksV2: POI[] = [
       ro: ["Situat în parohia Escaldes-Engordany.", "Construit peste râul Valira d'Orient.", "Locul semnării Pariatges în 1278 și 1288.", "Clasificat ca monument al patrimoniului cultural.", "Construcție medievală din piatră cu un singur arc.", "Parte a drumului antic dintre parohii."],
       en: ["Located in the parish of Escaldes-Engordany.", "Built over the Valira d'Orient river.", "Site of the signing of the Pariatges in 1278 and 1288.", "Classified as a monument of cultural heritage.", "Medieval stone construction with a single arch.", "Part of the ancient road between parishes."],
     },
+    image: "/poi-images/andorra-pont-escalls-landmarks-v2.webp",
   },
   {
     id: "andorra-caldea-building-landmarks-v2",
@@ -512,6 +527,7 @@ export const andorraLandmarksV2: POI[] = [
       ro: ["Deschis în 1994 în Escaldes-Engordany.", "Proiectat de arhitectul francez Jean-Michel Ruols.", "Dispune de o turlă de sticlă iconică de 80 de metri înălțime.", "Suprafața totală depășește 30.000 de metri pătrați.", "Folosește ape termale naturale din izvoarele locale.", "Temperatura apei la sursă este de 68 de grade Celsius."],
       en: ["Opened in 1994 in Escaldes-Engordany.", "Designed by French architect Jean-Michel Ruols.", "Features an iconic 80-meter high glass spire.", "Total surface area exceeds 30,000 square meters.", "Uses natural thermal waters from local springs.", "Water temperature at the source is 68 degrees Celsius."],
     },
+    image: "/poi-images/andorra-caldea-building-landmarks-v2.webp",
   },
   {
     id: "andorra-consell-general-landmarks-v2",
@@ -544,5 +560,6 @@ export const andorraLandmarksV2: POI[] = [
       ro: ["Noua clădire a parlamentului inaugurată în 2011.", "Proiectată de arhitectul Juan Ramón de la Riva.", "Suprafața totală este de aproximativ 16.000 de metri pătrați.", "Situată în capitală, Andorra la Vella.", "Construită folosind piatră locală și panouri moderne de sticlă.", "A înlocuit istorica Casa de la Vall pentru sesiuni."],
       en: ["New parliament building inaugurated in 2011.", "Designed by the architect Juan Ramón de la Riva.", "Total floor area is approximately 16,000 square meters.", "Located in the capital city, Andorra la Vella.", "Built using local stone and modern glass panels.", "Replaced the historic Casa de la Vall for sessions."],
     },
+    image: "/poi-images/andorra-consell-general-landmarks-v2.webp",
   }
 ];

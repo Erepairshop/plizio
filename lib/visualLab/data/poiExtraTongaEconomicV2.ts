@@ -31,6 +31,7 @@ export const tongaEconomicV2: POI[] = [
       ro: ["Cel mai important port comercial internațional din Tonga.", "Numit după regina Salote Tupou III, inaugurat în 1967.", "Gestionează aproximativ 98% din comerțul exterior național.", "Dispune de terminale specializate pentru nave de croazieră.", "Un proiect major de modernizare a fost finalizat în 2018.", "Principalul punct de descărcare pentru combustibilul importat."],
       en: ["Tonga's primary port for international trade and cargo.", "Named after Queen Salote Tupou III and opened in 1967.", "Handles approximately 98% of the nation's foreign trade.", "Equipped with specialized terminals for large cruise vessels.", "A major modernization project was completed in 2018.", "The main entry point for all imported fuel into the country."],
     },
+    image: "/poi-images/tonga-queen-salote-wharf-economic-v2.webp",
   },
   {
     id: "tonga-talamahu-market-economic-v2",
@@ -62,6 +63,7 @@ export const tongaEconomicV2: POI[] = [
       ro: ["Cea mai mare piață publică din Regatul Tonga.", "Clădirea principală a fost construită în anii 1970.", "Locul principal pentru vânzarea țesăturilor tapa ceremoniale.", "Cel mai important nod comercial pentru igname și taro.", "Deține un etaj separat pentru artizanat tradițional.", "Sâmbăta este ziua cu cel mai mare aflux de vizitatori."],
       en: ["The largest public marketplace in the Kingdom of Tonga.", "The main building was originally established in the 1970s.", "The primary venue for selling ceremonial Tapa cloth.", "A central distribution point for staple crops like yams and taro.", "Features a dedicated floor for traditional Tongan handicrafts.", "Saturday is the busiest trading day of the week."],
     },
+    image: "/poi-images/tonga-talamahu-market-economic-v2.webp",
   },
   {
     id: "tonga-maama-mai-solar-farm-economic-v2",
@@ -93,6 +95,7 @@ export const tongaEconomicV2: POI[] = [
       ro: ["Punerea în funcțiune a avut loc în anul 2012.", "Putere totală instalată de aproximativ 1,3 megawați.", "Finanțare asigurată de Emiratele Arabe Unite.", "Reduce consumul de motorină cu peste 400.000 de litri anual.", "Este compus din peste 5.000 de module fotovoltaice.", "Parte a strategiei naționale pentru 50% energie regenerabilă."],
       en: ["Commissioned in 2012 as a landmark energy project.", "Total installed capacity of approximately 1.3 megawatts.", "Funded through a partnership with the United Arab Emirates.", "Saves over 400,000 liters of diesel fuel annually.", "Comprises more than 5,000 individual photovoltaic modules.", "A key part of Tonga's 50% renewable energy target."],
     },
+    image: "/poi-images/tonga-maama-mai-solar-farm-economic-v2.webp",
   },
   {
     id: "tonga-vava-u-pearl-farm-economic-v2",
@@ -124,6 +127,7 @@ export const tongaEconomicV2: POI[] = [
       ro: ["Specializată în cultura scoicii Pteria penguin.", "Produsul principal sunt perlele Mabe cu formă emisferică.", "Perioada de creștere a unei perle este de aproximativ 24 de luni.", "Sector important pentru exportul de bijuterii de lux locale.", "Promovează protejarea calității apelor marine în Vavaʻu.", "Oferă tururi ghidate pentru pasionații de ecoturism."],
       en: ["Specializes in the cultivation of the winged oyster (Pteria penguin).", "The primary output is the distinctive hemispherical Mabe pearl.", "Each pearl takes approximately 24 months to fully develop.", "A key contributor to Tonga's local luxury jewelry exports.", "Encourages the monitoring and protection of marine water quality.", "Offers informative guided tours for international eco-tourists."],
     },
+    image: "/poi-images/tonga-vava-u-pearl-farm-economic-v2.webp",
   },
   {
     id: "tonga-small-industries-centre-economic-v2",
@@ -155,6 +159,7 @@ export const tongaEconomicV2: POI[] = [
       ro: ["Fondat în 1980 ca primul parc industrial din Tonga", "Localizat în Ma'ufanga, pe insula principală Tongatapu", "Concentrat pe dezvoltarea IMM-urilor și meșteșugurilor", "Amplasare strategică lângă portul internațional", "Administrat de Ministerul Economiei din Tonga", "Găzduiește spații de închiriere pentru peste 30 de afaceri"],
       en: ["Established in 1980 as the first industrial estate", "Located in Ma'ufanga on the main island of Tongatapu", "Focused on the development of SMEs and crafts", "Strategic proximity to the international shipping port", "Managed by the Ministry of Economic Development", "Provides rental space for over 30 diverse businesses"],
     },
+    image: "/poi-images/tonga-small-industries-centre-economic-v2.webp",
   },
   {
     id: "tonga-vaini-agricultural-station-economic-v2",
@@ -186,6 +191,7 @@ export const tongaEconomicV2: POI[] = [
       ro: ["Centrul principal de cercetare al Ministerului Agriculturii", "Specializat în vanilie și legume rădăcinate precum taro", "Oferă servicii de analiză a solului pentru micii fermieri", "Colaborează cu Organizația pentru Alimentație și Agricultură (FAO)", "Dezvoltă metode de cultivare reziliente la climă", "Operează pepiniere pentru promovarea biodiversității"],
       en: ["Primary research hub for the Ministry of Agriculture", "Specialized in vanilla and root crops like taro", "Provides soil analysis services for local smallholders", "Collaborates with the UN Food and Agriculture Organization", "Develops climate-resilient farming techniques", "Operates nurseries to promote agricultural biodiversity"],
     },
+    image: "/poi-images/tonga-vaini-agricultural-station-economic-v2.webp",
   },
   {
     id: "tonga-tuimatamoana-fish-market-economic-v2",
@@ -217,6 +223,7 @@ export const tongaEconomicV2: POI[] = [
       ro: ["Cea mai importantă piață de pește din Nuku'alofa", "Modernizată prin asistență pentru dezvoltare din Japonia", "Dotată cu mașini de gheață industriale pentru răcire", "Centru pentru exportul de ton cu înotătoare galbene", "Susține peste 100 de mici afaceri de pescuit locale", "Controale de calitate periodice efectuate de Ministerul Pescuitului"],
       en: ["Primary fish market located in the capital, Nuku'alofa", "Modernized through Japanese development assistance", "Equipped with industrial ice machines for refrigeration", "Central hub for the export of premium yellowfin tuna", "Supports over 100 local small-scale fishing operations", "Regular quality inspections by the Ministry of Fisheries"],
     },
+    image: "/poi-images/tonga-tuimatamoana-fish-market-economic-v2.webp",
   },
   {
     id: "tonga-fuaamotu-cargo-terminal-economic-v2",
@@ -248,6 +255,7 @@ export const tongaEconomicV2: POI[] = [
       ro: ["Singurul hub internațional de marfă aeriană din țară", "Conexiune directă cu Aeroportul Fua'amotu (TBU)", "Facilități frigorifice speciale pentru exportul de pește", "Punct de tranzit pentru peste 90% din poșta aeriană", "Importanță strategică pentru importul de medicamente", "Standardele de securitate respectă certificarea ICAO"],
       en: ["Tonga's only international air cargo hub", "Directly connected to Fua'amotu International Airport (TBU)", "Specialized cold storage for fresh seafood exports", "Handles over 90% of the nation's international air mail", "Strategic importance for the importation of medical supplies", "Security standards compliant with ICAO certifications"],
     },
+    image: "/poi-images/tonga-fuaamotu-cargo-terminal-economic-v2.webp",
   },
   {
     id: "tonga-neiafu-port-economic-v2",
@@ -279,6 +287,7 @@ export const tongaEconomicV2: POI[] = [
       ro: ["Cel mai adânc port natural din Regatul Tonga", "Principalul punct de tranzit pentru recolta de vanilie din Vava'u", "Cea mai importantă bază pentru turismul cu iahturi din Pacific", "Dispune de un debarcader modernizat pentru nave de croazieră", "Baza pentru garda de coastă regională și salvare maritimă", "Conexiune regulată cu Nuku'alofa prin feriboturi de marfă"],
       en: ["Deepest natural harbor in the Kingdom of Tonga", "Main transit point for Vava'u's vanilla harvest", "Premier hub for South Pacific yachting tourism", "Features a modernized pier for large cruise ships", "Home base for regional Coast Guard and rescue services", "Regular freight ferry connections to Nuku'alofa"],
     },
+    image: "/poi-images/tonga-neiafu-port-economic-v2.webp",
   },
   {
     id: "tonga-pangai-port-economic-v2",
@@ -310,6 +319,7 @@ export const tongaEconomicV2: POI[] = [
       ro: ["Hub logistic central pentru arhipelagul Ha'apai", "Principalul punct de export pentru copra din regiune", "Loc de acostare pentru feribotul de stat inter-insule", "Diguri consolidate recent pentru protecția împotriva cicloanelor", "Singura stație de alimentare pentru nave din centrul Tonga", "Vital pentru transportul apei potabile în perioade de secetă"],
       en: ["Central logistics hub for the Ha'apai Island group", "Primary export point for copra in the central region", "Designated wharf for state-run inter-island ferries", "Recently reinforced breakwaters for cyclone protection", "Only refueling station for vessels in central Tonga", "Crucial for delivering emergency water supplies during droughts"],
     },
+    image: "/poi-images/tonga-pangai-port-economic-v2.webp",
   },
   {
     id: "tonga-popua-power-station-economic-v2",
@@ -341,6 +351,7 @@ export const tongaEconomicV2: POI[] = [
       ro: ["Principala centrală a companiei de stat Tonga Power Limited", "Furnizează peste 80% din energia pentru insula Tongatapu", "Combină generatoare diesel cu energie solară", "Găzduiește un centru modern de control al rețelei", "Construită pe teren desecat în estul orașului Nuku'alofa", "Proiect cheie pentru obiectivul '50% regenerabile până în 2030'"],
       en: ["Main power generation site for Tonga Power Limited", "Provides over 80% of electricity for Tongatapu island", "Utilizes a hybrid system of diesel and solar power", "Houses the national grid's central control room", "Built on reclaimed industrial land east of Nuku'alofa", "Critical to the '50% Renewable Energy by 2030' target"],
     },
+    image: "/poi-images/tonga-popua-power-station-economic-v2.webp",
   },
   {
     id: "tonga-eua-forestry-base-economic-v2",
@@ -372,6 +383,7 @@ export const tongaEconomicV2: POI[] = [
       ro: ["Centrul producției de lemn de santal din regat", "Gestionează cele mai mari suprafețe forestiere din Tonga", "Pepiniere stabilite pentru răsaduri de mahon", "Angajator major pe insula 'Eua", "Cercetare privind practicile durabile de exploatare forestieră", "Cooperare cu experți forestieri australieni (ACIAR)"],
       en: ["Central hub for sandalwood production in the kingdom", "Manages Tonga's largest commercial forestry reserves", "Established nursery for high-quality mahogany seedlings", "Major employer for the local population on 'Eua", "Leading site for research into sustainable logging", "Collaborates with Australian forestry experts (ACIAR)"],
     },
+    image: "/poi-images/tonga-eua-forestry-base-economic-v2.webp",
   },
   {
     id: "tonga-national-reserve-bank-economic-v2",
@@ -403,6 +415,7 @@ export const tongaEconomicV2: POI[] = [
       ro: ["Fondată pe 1 iulie 1989 prin lege", "Drept exclusiv de a emite Pa'anga (moneda)", "Gestionează rezervele de aur și valută ale Tonga", "Reglementează toate băncile comerciale care operează în țară", "Sediul într-o clădire distinctivă din centrul Nuku'alofa", "Membră a Fondului Monetar Internațional (FMI)"],
       en: ["Established on July 1, 1989, by legislative act", "Exclusive authority for issuing the Pa'anga currency", "Custodian of Tonga's gold and foreign exchange reserves", "Regulates all commercial banks operating in the country", "Located in a prominent building in central Nuku'alofa", "Member of the International Monetary Fund (IMF)"],
     },
+    image: "/poi-images/tonga-national-reserve-bank-economic-v2.webp",
   },
   {
     id: "tonga-mataki-eua-water-works-economic-v2",
@@ -434,6 +447,7 @@ export const tongaEconomicV2: POI[] = [
       ro: ["Principala facilitate de alimentare cu apă pentru Tongatapu", "Extragerea apei din lentile de apă dulce subterane", "Administrată de compania de stat Tonga Water Board", "Include peste 20 de foraje active de fântâni", "Alimentează aproximativ 35.000 de persoane cu apă potabilă", "Sisteme integrate de clorurare pentru dezinfecție"],
       en: ["Primary water supply facility for the island of Tongatapu", "Extracts water from subterranean freshwater lenses", "Managed by the government-owned Tonga Water Board", "Comprises over 20 active borehole pump stations", "Supplies potable water to approximately 35,000 residents", "Features integrated chlorination units for disinfection"],
     },
+    image: "/poi-images/tonga-mataki-eua-water-works-economic-v2.webp",
   },
   {
     id: "tonga-lapaha-vanilla-estates-economic-v2",
@@ -465,6 +479,7 @@ export const tongaEconomicV2: POI[] = [
       ro: ["Regiunea principală pentru cultivarea vaniliei Bourbon", "Polenizarea manuală a florilor între august și octombrie", "Produs de export pentru piețele gourmet din Europa și SUA", "Durata de fermentare a păstăilor este de aprox. 3-6 luni", "Contribuție majoră la Produsul Intern Brut (PIB)", "Utilizarea metodelor de uscare tradiționale și moderne"],
       en: ["Primary region for high-quality Bourbon vanilla cultivation", "Manual pollination of flowers occurs from August to October", "Export commodity for gourmet markets in Europe and the USA", "Curing and fermentation process lasts approximately 3 to 6 months", "Significant contributor to the national Gross Domestic Product", "Employs both traditional and modern drying techniques"],
     },
+    image: "/poi-images/tonga-lapaha-vanilla-estates-economic-v2.webp",
   },
   {
     id: "tonga-niuatoputapu-port-economic-v2",
@@ -496,6 +511,7 @@ export const tongaEconomicV2: POI[] = [
       ro: ["Cel mai nordic port maritim important al regatului", "Reconstrucția finalizată după tsunami-ul din 2009", "Punct de acostare pentru nava de aprovizionare lunară 'MV Niuvakai'", "Centru de export pentru rogojini 'Ta'ovala' lucrate manual", "Bază importantă pentru comerțul transfrontalier cu Samoa", "Dispune de depozite de combustibil pentru populația locală"],
       en: ["Northernmost major seaport in the Kingdom of Tonga", "Reconstructed and modernized following the 2009 tsunami", "Scheduled stop for the monthly supply vessel 'MV Niuvakai'", "Primary export hub for traditionally crafted 'Ta'ovala' mats", "Strategic point for cross-border trade and travel to Samoa", "Features essential fuel storage facilities for the islanders"],
     },
+    image: "/poi-images/tonga-niuatoputapu-port-economic-v2.webp",
   },
   {
     id: "tonga-fangaloto-industrial-estate-economic-v2",
@@ -527,6 +543,7 @@ export const tongaEconomicV2: POI[] = [
       ro: ["Cea mai importantă zonă comercială privată din Nuku'alofa", "Centru pentru comerțul cu materiale de construcții și logistică auto", "Situată pe drumul strategic important Taufa'ahau Road", "Găzduiește mai multe depozite mari de import-export", "Contribuție esențială la rata de ocupare a forței de muncă urbane", "Dotată cu infrastructură modernă de telecomunicații"],
       en: ["Premier private industrial zone in Nuku'alofa", "Primary hub for construction materials and vehicle logistics", "Situated along the strategically vital Taufa'ahau Road", "Home to several major international import-export warehouses", "Significant contributor to urban employment figures", "Equipped with modern high-speed telecommunications infrastructure"],
     },
+    image: "/poi-images/tonga-fangaloto-industrial-estate-economic-v2.webp",
   },
   {
     id: "tonga-tonga-power-popua-solar-economic-v2",
@@ -558,6 +575,7 @@ export const tongaEconomicV2: POI[] = [
       ro: ["Cea mai mare instalație fotovoltaică din Regatul Tonga", "Reduce consumul de motorină cu mii de litri anual", "Echipată cu sisteme moderne de stocare în baterii", "Finanțată prin programe internaționale pentru climă", "Monitorizare integrată de către Tonga Power Limited", "Parte a strategiei naționale de reducere a emisiilor de CO2"],
       en: ["Largest photovoltaic facility in the Kingdom of Tonga", "Displaces thousands of liters of diesel fuel annually", "Equipped with large-scale battery energy storage systems", "Funded through international climate resilience grants", "Operated and monitored by Tonga Power Limited", "Central to the national strategy for carbon footprint reduction"],
     },
+    image: "/poi-images/tonga-tonga-power-popua-solar-economic-v2.webp",
   },
   {
     id: "tonga-nukualofa-waterfront-commercial-economic-v2",
@@ -589,6 +607,7 @@ export const tongaEconomicV2: POI[] = [
       ro: ["Sistematizare cuprinzătoare conform standardelor internaționale", "Găzduiește Vuna Wharf pentru nave de croazieră mari", "Centrul gastronomiei rafinate din Tonga", "Locație importantă pentru bănci și asigurări", "Loc de desfășurare pentru festivități naționale și piețe", "Zone pietonale integrate pentru promovarea turismului"],
       en: ["Comprehensive redevelopment following international standards", "Site of the Vuna Wharf for large international cruise liners", "Central hub for fine dining and hospitality in Tonga", "Prime location for major banks and insurance firms", "Primary venue for national celebrations and public markets", "Features integrated pedestrian walkways to boost tourism"],
     },
+    image: "/poi-images/tonga-nukualofa-waterfront-commercial-economic-v2.webp",
   },
   {
     id: "tonga-hala-o-vave-manufacturing-economic-v2",
@@ -620,6 +639,7 @@ export const tongaEconomicV2: POI[] = [
       ro: ["Fondat ca parte a Schemei de Dezvoltare Industrială în anii 1970.", "Situat la mai puțin de 3 kilometri de portul internațional Queen Salote.", "Găzduiește peste 20 de mici fabrici și ateliere diferite.", "Modernizat în 1989 cu sprijinul Băncii Asiatice de Dezvoltare.", "Se concentrează pe producția de mobilier, textile și tablă ondulată.", "Contribuie anual în mod semnificativ la PIB-ul industrial al regatului Tonga."],
       en: ["Established as part of the Industrial Development Scheme in the 1970s.", "Located less than 3 kilometers from the Queen Salote international port.", "Houses over 20 different small factories and workshops.", "Modernized in 1989 with support from the Asian Development Bank.", "Primary focus is on manufacturing furniture, textiles, and corrugated iron.", "Contributes significantly to Tonga's industrial GDP annually."],
     },
+    image: "/poi-images/tonga-hala-o-vave-manufacturing-economic-v2.webp",
   },
   {
     id: "tonga-niuafoou-copra-centre-economic-v2",
@@ -651,6 +671,7 @@ export const tongaEconomicV2: POI[] = [
       ro: ["Niuafo'ou este cunoscută și sub numele de 'Tin Can Island' datorită istoriei sale poștale.", "Producția de copra a atins apogeul istoric în anii 1950.", "Centrul este administrat de către Tonga Copra Board.", "Erupțiile vulcanice din 1946 și 1985 au afectat grav recoltele.", "Copra este astăzi adesea procesată în ulei de cocos pentru uz local.", "Insula este situată la peste 600 de kilometri nord de insula principală Tongatapu."],
       en: ["Niuafo'ou is also known as 'Tin Can Island' due to its unique postal history.", "Copra production reached its historical peak during the 1950s.", "The centre is managed by the Tonga Copra Board.", "Volcanic eruptions in 1946 and 1985 severely impacted crop yields.", "Copra is now often further processed into coconut oil for local use.", "The island is located over 600 kilometers north of the main island, Tongatapu."],
     },
+    image: "/poi-images/tonga-niuafoou-copra-centre-economic-v2.webp",
   },
   {
     id: "tonga-hihifo-root-crop-station-economic-v2",
@@ -682,6 +703,7 @@ export const tongaEconomicV2: POI[] = [
       ro: ["Hihifo este cunoscută ca fiind cea mai importantă zonă de cultivare a ignamei din Tonga.", "Stația a fost fondată în anii 1960 pentru a promova exporturile agricole.", "Ignamele au o importanță culturală ridicată în Tonga în timpul festivalurilor.", "Exportă anual sute de tone de taro către Noua Zeelandă.", "Stația utilizează sisteme moderne de irigații în scopuri de cercetare.", "Situată în districtul fertil de vest al insulei Tongatapu."],
       en: ["Hihifo is known as Tonga's premier yam-growing region.", "The station was established in the 1960s to boost agricultural exports.", "Yams hold high cultural significance in Tonga during formal festivals.", "Exports hundreds of tons of taro to New Zealand annually.", "The station utilizes modern irrigation systems for research purposes.", "Located in the fertile western district of Tongatapu."],
     },
+    image: "/poi-images/tonga-hihifo-root-crop-station-economic-v2.webp",
   },
   {
     id: "tonga-tatakamotonga-handicraft-hub-economic-v2",
@@ -713,6 +735,7 @@ export const tongaEconomicV2: POI[] = [
       ro: ["Tatakamotonga este unul dintre cele mai mari sate de pe Tongatapu.", "Țesătura tapa este obținută din scoarța interioară a copacului Hiapo.", "Covorașele lucrate manual (Ta'ovala) sunt esențiale pentru vestimentația tongană.", "Centrul exportă artizanat până în Hawaii și California.", "Se utilizează coloranți naturali obținuți din scoarță de copac și rădăcini.", "Grupuri de femei (Kautaha) organizează producția și vânzarea."],
       en: ["Tatakamotonga is one of the largest villages on Tongatapu.", "Tapa cloth is made from the inner bark of the Hiapo tree.", "Handmade mats (Ta'ovala) are essential for traditional Tongan attire.", "The centre exports handicrafts to markets as far as Hawaii and California.", "Natural dyes sourced from earth barks and roots are used for painting.", "Women's groups known as Kautaha organize the production and sales."],
     },
+    image: "/poi-images/tonga-tatakamotonga-handicraft-hub-economic-v2.webp",
   },
   {
     id: "tonga-vavau-coconut-oil-mill-economic-v2",
@@ -744,6 +767,7 @@ export const tongaEconomicV2: POI[] = [
       ro: ["Vava'u produce o mare parte din uleiul de cocos din Tonga.", "Moara a fost modernizată pentru diversificarea industriei agricole.", "Uleiul de cocos presat la rece este exportat ca produs premium.", "Neiafu servește drept centru logistic pentru distribuție.", "Instalația procesează anual mii de tone de nuci de cocos.", "Oferă locuri de muncă directe și indirecte pentru peste 100 de persoane."],
       en: ["Vava'u produces a large portion of Tonga's coconut oil.", "The mill was modernized to diversify the agricultural industry.", "Cold-pressed coconut oil is exported as a premium health product.", "Neiafu serves as the logistical hub for the distribution of the oil.", "The facility processes thousands of tons of coconuts each year.", "Provides direct and indirect employment for over 100 people."],
     },
+    image: "/poi-images/tonga-vavau-coconut-oil-mill-economic-v2.webp",
   },
   {
     id: "tonga-haapai-fisheries-station-economic-v2",
@@ -775,6 +799,7 @@ export const tongaEconomicV2: POI[] = [
       ro: ["Ha'apai deține cele mai mari sisteme de recife de corali din Tonga.", "Stația a fost consolidată cu ajutor internațional pentru pregătirea în caz de dezastre.", "Este un punct frecvent de transbordare pentru snapper și ton.", "Situată în Pangai, centrul administrativ al Ha'apai.", "Efectuează cercetări privind creșterea scoicilor gigantice.", "Importantă pentru monitorizarea zonei economice exclusive."],
       en: ["Ha'apai possesses the largest coral reef systems in Tonga.", "The station was strengthened with international aid for disaster preparedness.", "It is a frequent transshipment point for snapper and tuna.", "Located in Pangai, the administrative center of the Ha'apai group.", "Conducts research on the cultivation of giant clams.", "Plays a vital role in monitoring the exclusive economic zone (EEZ)."],
     },
+    image: "/poi-images/tonga-haapai-fisheries-station-economic-v2.webp",
   },
   {
     id: "tonga-nukualofa-marina-economic-v2",
@@ -806,6 +831,7 @@ export const tongaEconomicV2: POI[] = [
       ro: ["Nuku'alofa este un port de intrare pentru toate navele internaționale.", "Marina este situată în imediata apropiere a Vuna Wharf.", "Sezonul de vârf pentru navigatori este din mai până în octombrie.", "Punct de plecare pentru tururile de observare a balenelor cu cocoașă.", "Oferă aprovizionare cu combustibil, apă și energie electrică pentru iahturi.", "A fost reparată complet după daunele cauzate de ciclon în 2018."],
       en: ["Nuku'alofa is an official Port of Entry for all international vessels.", "The marina is located in close proximity to the Vuna Wharf.", "The peak season for sailors runs from May to October.", "Starting point for tours to observe humpback whales.", "Provides fuel, water, and electricity supply for visiting yachts.", "Was extensively repaired following cyclone damage in 2018."],
     },
+    image: "/poi-images/tonga-nukualofa-marina-economic-v2.webp",
   },
   {
     id: "tonga-maufanga-oil-terminal-economic-v2",
@@ -837,6 +863,7 @@ export const tongaEconomicV2: POI[] = [
       ro: ["Ma'ufanga este cea mai importantă zonă industrială din apropierea orașului Nuku'alofa.", "Terminalul alimentează centralele electrice ale Tonga Power Limited.", "Capacitate de stocare de milioane de litri de combustibil pentru securitatea națională.", "Nave cisternă din Singapore și Fiji sosesc regulat în terminal.", "Include rezervoare specializate pentru combustibil de aviație (Jet A-1).", "A fost modernizat conform unor reglementări internaționale stricre de mediu."],
       en: ["Ma'ufanga is the primary industrial district near Nuku'alofa.", "The terminal supplies fuel to the power stations of Tonga Power Limited.", "Storage capacity holds millions of liters of fuel for national security.", "Tankers from Singapore and Fiji regularly offload supplies here.", "Features specialized storage tanks for aviation fuel (Jet A-1).", "Modernized in accordance with strict international environmental standards."],
     },
+    image: "/poi-images/tonga-maufanga-oil-terminal-economic-v2.webp",
   },
   {
     id: "tonga-tonga-communications-hq-economic-v2",
@@ -868,6 +895,7 @@ export const tongaEconomicV2: POI[] = [
       ro: ["TCC este cel mai mare furnizor de telecomunicații din Regatul Tonga.", "Sediul gestionează conexiunea la cablul submarin Southern Cross.", "TCC a fost înființată în 2001 din fosta autoritate de telecomunicații.", "Oferă servicii de internet pentru peste 170 de insule locuite și nelocuite.", "Clădirea a supraviețuit tsunami-ului de după erupția vulcanică din 2022.", "Angajează peste 300 de persoane la nivel național în diverse secoare."],
       en: ["TCC is the largest telecommunications provider in the Kingdom of Tonga.", "The HQ manages the connection to the Southern Cross undersea cable.", "TCC was established in 2001 from the former telecommunications department.", "Provides internet services covering over 170 islands of the archipelago.", "The building withstood the tsunami following the 2022 volcanic eruption.", "Employs over 300 staff nationwide across various technical sectors."],
     },
+    image: "/poi-images/tonga-tonga-communications-hq-economic-v2.webp",
   },
   {
     id: "tonga-digicel-square-economic-v2",
@@ -899,6 +927,7 @@ export const tongaEconomicV2: POI[] = [
       ro: ["Digicel este cel mai mare concurent privat al companiei de stat TCC.", "Piața este situată la intersecția străzilor Taufa'ahau Road și Salote Road.", "Construită ca un reper modern după tulburările din anul 2006.", "Dispune de Wi-Fi gratuit pentru vizitatori în anumite zone.", "Găzduiește cel mai mare centru de relații cu clienții al Digicel din Tonga.", "Locație frecventă pentru concerte live și evenimente de Crăciun."],
       en: ["Digicel is the primary private competitor to the state-owned TCC.", "The square is situated at the junction of Taufa'ahau Road and Salote Road.", "Built as a modern landmark following the reconstruction after 2006.", "Provides free Wi-Fi access for visitors in designated public areas.", "Houses the largest Digicel customer service center in Tonga.", "Frequently hosts live music performances and community Christmas events."],
     },
+    image: "/poi-images/tonga-digicel-square-economic-v2.webp",
   },
   {
     id: "tonga-bank-south-pacific-building-economic-v2",
@@ -930,5 +959,6 @@ export const tongaEconomicV2: POI[] = [
       ro: ["BSP este cea mai mare bancă comercială din regiunea Pacificului de Sud.", "Clădirea este situată în inima cartierului de afaceri din Nuku'alofa.", "Preluarea sucursalelor Westpac din Tonga a avut loc în anul 2015.", "Oferă singurul serviciu bancar de 24 de ore prin intermediul bancomatelor.", "Centru pentru procesarea remitențelor lucrătorilor sezonieri tongani.", "Clădirea este construită conform unor standarde stricte antiseismice."],
       en: ["BSP is the largest commercial bank operating in the South Pacific region.", "The building is located in the heart of Nuku'alofa's business district.", "Acquisition of Westpac's Tongan operations occurred in 2015.", "Provides the only 24-hour banking services through its ATM network.", "A vital hub for processing remittances from Tongan seasonal workers.", "The structure is built to rigorous earthquake-resistant standards."],
     },
+    image: "/poi-images/tonga-bank-south-pacific-building-economic-v2.webp",
   }
 ];

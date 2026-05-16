@@ -31,6 +31,7 @@ export const marshallislandsLandmarksV2: POI[] = [
       ro: ["Muzeul Alele a fost fondat în 1975, fiind cel mai vechi muzeu din țară.", "Colecția cuprinde peste 200 de hărți tradiționale cu bețe (Meto).", "Clădirea muzeului a fost extinsă în 1990.", "Deține aproximativ 1.500 de fotografii istorice din perioada colonială germană.", "Atrage anual în jur de 5.000 de vizitatori.", "Biblioteca sa conține peste 300 de manuscrise rare."],
       en: ["Alele Museum was established in 1975, making it the oldest museum in the Marshall Islands.", "Its collection includes over 200 traditional stick charts (Meto).", "The museum building was expanded in 1990 to accommodate growing exhibits.", "It houses approximately 1,500 historical photographs from the German colonial era.", "The museum attracts around 5,000 visitors annually.", "Its library contains more than 300 rare manuscripts and recordings."],
     },
+    image: "/poi-images/marshallislands-alele-museum-landmarks-v2.webp",
   },
   {
     id: "marshallislands-majuro-bridge-landmarks-v2",
@@ -62,6 +63,7 @@ export const marshallislandsLandmarksV2: POI[] = [
       ro: ["Podul Majuro are o lungime de 300 de metri.", "A fost inaugurat în 1970.", "Podul a fost renovat major în 2010.", "Leagă insulele Uliga și Delap.", "Costul construcției a fost de aproximativ 2 milioane USD.", "Este traversat zilnic de aproximativ 10.000 de vehicule."],
       en: ["The Majuro Bridge is 300 meters long.", "It was opened in 1970.", "The bridge underwent major renovation in 2010.", "It connects the islands of Uliga and Delap.", "Construction cost was approximately US$2 million.", "It carries about 10,000 vehicles daily."],
     },
+    image: "/poi-images/marshallislands-majuro-bridge-landmarks-v2.webp",
   },
   {
     id: "marshallislands-japanese-peace-park-landmarks-v2",
@@ -93,6 +95,7 @@ export const marshallislandsLandmarksV2: POI[] = [
       ro: ["Parcul Japonez al Păcii a fost inaugurat în 1970.", "Este situat în districtul Uliga din Majuro.", "Parcul conține o statuie a păcii înaltă de 3 metri.", "Ceremonia anuală de comemorare are loc pe 15 august.", "Suprafața parcului este de aproximativ 0,5 hectare.", "Există 6 pietre comemorative în parc."],
       en: ["The Japanese Peace Park was inaugurated in 1970.", "It is located in the Uliga district of Majuro.", "The park features a 3-meter-tall peace statue.", "Annual commemoration ceremony is held on August 15.", "The park covers an area of about 0.5 hectares.", "There are 6 commemorative stone monuments in the park."],
     },
+    image: "/poi-images/marshallislands-japanese-peace-park-landmarks-v2.webp",
   },
   {
     id: "marshallislands-assumption-cathedral-landmarks-v2",
@@ -124,6 +127,7 @@ export const marshallislandsLandmarksV2: POI[] = [
       ro: ["Catedrala a fost construită în 1964.", "Are o capacitate de 1.200 de credincioși.", "Turnul clopotniță are 25 de metri înălțime.", "Dieceza catolică a Insulelor Marshall a fost fondată în 1993.", "Catedrala este situată în cartierul Uliga din Majuro.", "Aproximativ 8% din populație este catolică."],
       en: ["The cathedral was built in 1964.", "It seats 1,200 worshippers.", "The bell tower is 25 meters tall.", "The Catholic Diocese of the Marshall Islands was established in 1993.", "The cathedral is located in the Uliga district of Majuro.", "About 8% of the population is Catholic."],
     },
+    image: "/poi-images/marshallislands-assumption-cathedral-landmarks-v2.webp",
   },
   {
     id: "marshallislands-capitol-building-landmarks-v2",
@@ -155,6 +159,7 @@ export const marshallislandsLandmarksV2: POI[] = [
       ro: ["Clădirea Capitoliului a fost finalizată în 1990.", "Are 33 de locuri pentru deputați.", "Este situată în cartierul Uliga din Majuro.", "Costul construcției a fost de 5 milioane USD.", "Fațada este din piatră de corali locală.", "Parlamentul se reunește anual din ianuarie până în mai."],
       en: ["The Capitol Building was completed in 1990.", "It houses 33 legislative seats.", "The building is located in the Uliga district of Majuro.", "Construction cost was US$5 million.", "The facade is made of local coral stone.", "Parliament meets annually from January to May."],
     },
+    image: "/poi-images/marshallislands-capitol-building-landmarks-v2.webp",
   },
   {
     id: "marshallislands-wotje-airfield-landmarks-v2",
@@ -186,6 +191,7 @@ export const marshallislandsLandmarksV2: POI[] = [
       ro: ["Aerodromul a fost construit în 1943 de japonezi.", "Pista are o lungime de 1.200 de metri.", "Ruinele includ 3 buncăre.", "Atolul Wotje se află la aproximativ 240 km nord de Majuro.", "Japonezii au staționat până la 500 de soldați pe atol.", "Aerodromul a fost cucerit de forțele americane în 1944."],
       en: ["The airfield was built in 1943 by the Japanese.", "The runway is 1,200 meters long.", "The ruins include 3 bunkers.", "Wotje Atoll is about 240 km north of Majuro.", "The Japanese stationed up to 500 soldiers on the atoll.", "The airfield was captured by US forces in 1944."],
     },
+    image: "/poi-images/marshallislands-wotje-airfield-landmarks-v2.webp",
   },
   {
     id: "marshallislands-jaluit-lighthouse-landmarks-v2",
@@ -217,6 +223,7 @@ export const marshallislandsLandmarksV2: POI[] = [
       ro: ["Farul a fost construit în jurul anului 1905.", "Are o înălțime de 15 metri.", "Materialul de construcție este piatra de corali.", "Atolul Jaluit se află la 250 km sud de Majuro.", "Farul a servit comerțului cu copra.", "Ruina este protejată ca sit istoric din 1972."],
       en: ["The lighthouse was built around 1905.", "It is 15 meters tall.", "Construction material is coral stone.", "Jaluit Atoll is 250 km south of Majuro.", "The lighthouse served the copra trade.", "The ruin has been a protected historic site since 1972."],
     },
+    image: "/poi-images/marshallislands-jaluit-lighthouse-landmarks-v2.webp",
   },
   {
     id: "marshallislands-eniwetok-memorial-landmarks-v2",
@@ -248,6 +255,7 @@ export const marshallislandsLandmarksV2: POI[] = [
       ro: ["Memorialul comemorează bătălia din februarie 1944.", "Este situat pe insula Engebi.", "Eniwetok a fost locul Operațiunii Ivy în 1952.", "Testul nuclear a eliberat o bombă cu hidrogen de 10 megatone.", "Atolul are o suprafață terestră de doar 5,85 km².", "Garnizoana japoneză număra aproximativ 2.500 de soldați."],
       en: ["The memorial commemorates the battle of February 1944.", "It is located on Engebi Island.", "Eniwetok was the site of Operation Ivy in 1952.", "The nuclear test released a 10-megaton hydrogen bomb.", "The atoll has a land area of only 5.85 km².", "The Japanese garrison numbered about 2,500 soldiers."],
     },
+    image: "/poi-images/marshallislands-eniwetok-memorial-landmarks-v2.webp",
   },
   {
     id: "marshallislands-mili-war-monument-landmarks-v2",
@@ -279,6 +287,7 @@ export const marshallislandsLandmarksV2: POI[] = [
       ro: ["Monumentul a fost ridicat în 1995.", "Constă dintr-o stelă de beton înaltă de 3 metri.", "Inscripțiile sunt în japoneză și marshalleză.", "Atolul Mili se află la 130 km sud-vest de Majuro.", "Garnizoana japoneză număra aproximativ 3.000 de oameni.", "Aerodromul Mili avea o pistă de 1.400 de metri."],
       en: ["The monument was erected in 1995.", "It consists of a 3-meter-tall concrete stele.", "Inscriptions are in Japanese and Marshallese.", "Mili Atoll is 130 km southwest of Majuro.", "The Japanese garrison numbered about 3,000 men.", "Mili airfield had a 1,400-meter-long runway."],
     },
+    image: "/poi-images/marshallislands-mili-war-monument-landmarks-v2.webp",
   },
   {
     id: "marshallislands-kwajalein-yokwe-memorial-landmarks-v2",
@@ -310,6 +319,7 @@ export const marshallislandsLandmarksV2: POI[] = [
       ro: ["Ridicat în memoria celor morți în bătălia din 1944", "'Yokwe' este salutul tradițional marshallez", "Centrul evenimentelor anuale de comemorare de pe bază", "Simbolizează prietenia dintre SUA și Insulele Marshall", "Situat în apropierea zonelor istorice de luptă", "Proiectat ca un loc de reculegere simplu și demn"],
       en: ["Erected to commemorate those killed in the 1944 battle", "'Yokwe' is the traditional Marshallese greeting and philosophy", "Center for annual memorial services on the garrison", "Symbolizes the friendship between the U.S. and the Marshall Islands", "Located in proximity to historical combat areas", "Designed as a simple and dignified place of reflection"],
     },
+    image: "/poi-images/marshallislands-kwajalein-yokwe-memorial-landmarks-v2.webp",
   },
   {
     id: "marshallislands-delap-dock-landmarks-v2",
@@ -341,6 +351,7 @@ export const marshallislandsLandmarksV2: POI[] = [
       ro: ["Portul principal pentru navele portcontainer din capitală", "Dispune de instalații specializate pentru manipularea combustibilului", "Cel mai important punct pentru exportul de copra", "Loc de acostare pentru flotele internaționale de pescuit", "Susține aprovizionarea atolilor îndepărtați", "Sediul central pentru Autoritatea Portuară a Insulelor Marshall"],
       en: ["Primary port for container ships in the capital city", "Features specialized facilities for fuel transshipment", "Most important hub for the export of copra", "Berthing site for international fishing fleets", "Facilitates the redistribution of supplies to outer atolls", "Central location for the Marshall Islands Ports Authority"],
     },
+    image: "/poi-images/marshallislands-delap-dock-landmarks-v2.webp",
   },
   {
     id: "marshallislands-laura-village-center-landmarks-v2",
@@ -372,6 +383,7 @@ export const marshallislandsLandmarksV2: POI[] = [
       ro: ["Laura se află în cel mai înalt punct al atolului Majuro (cca. 3 metri)", "Cea mai importantă zonă pentru cultura fructului de pâine și bananelor", "Găzduiește festivalul anual 'Laura Day'", "Locația uneia dintre puținele lentile de apă dulce ale atolului", "Centru pentru revitalizarea construcției tradiționale de canoe", "Cea mai mare suprafață terestră continuă din Majuro"],
       en: ["Laura is situated at the highest point of Majuro Atoll (approx. 3 meters)", "Main cultivation area for breadfruit, bananas, and papayas", "Hosts the annual 'Laura Day' community festival", "Site of one of the atoll's few freshwater lenses", "Center for the revival of traditional outrigger canoe building", "Largest continuous land area on Majuro Atoll"],
     },
+    image: "/poi-images/marshallislands-laura-village-center-landmarks-v2.webp",
   },
   {
     id: "marshallislands-uliga-protestant-church-landmarks-v2",
@@ -403,5 +415,6 @@ export const marshallislandsLandmarksV2: POI[] = [
       ro: ["Una dintre cele mai vechi și mari clădiri de biserică din Majuro", "Centrul Bisericii Creștine Congregaționale din Insulele Marshall", "Locație regulată pentru festivaluri corale religioase", "Punct important de orientare în centrul urban Uliga", "Fondată de misionari ai American Board (ABCFM)", "Dispune de o fațadă albă distinctivă"],
       en: ["One of the oldest and largest church buildings in Majuro", "Hub for the Marshall Islands Congregational Christian Church", "Regular venue for religious choral and music festivals", "Key navigational landmark within the Uliga urban area", "Established through missions of the American Board (ABCFM)", "Features a distinctive white facade recognizable from the coast"],
     },
+    image: "/poi-images/marshallislands-uliga-protestant-church-landmarks-v2.webp",
   }
 ];

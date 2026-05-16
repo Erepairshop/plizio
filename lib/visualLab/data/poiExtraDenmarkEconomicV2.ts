@@ -32,6 +32,7 @@ export const denmarkEconomicV2: POI[] = [
       ro: ["Fondată în anul 2000 prin divizarea din cadrul Novo Nordisk.", "Lider mondial în enzime industriale, cu o cotă de piață de circa 48%.", "A fuzionat în ianuarie 2024 cu Chr. Hansen, formând Novonesis.", "Deține un portofoliu de peste 6.500 de brevete active la nivel global.", "Sediul principal din Bagsværd găzduiește mii de cercetători și angajați.", "Alocă anual aproximativ 13% din cifra de afaceri pentru cercetare și dezvoltare."],
       en: ["Founded in 2000 as a spin-off from the pharmaceutical firm Novo Nordisk.", "Global leader in industrial enzymes with approximately 48% market share.", "Merged with Chr. Hansen in January 2024 to create Novonesis.", "Maintains a portfolio of over 6,500 active patents worldwide.", "The Bagsværd headquarters employs thousands of specialized staff.", "Invests roughly 13% of its annual revenue back into research and development."],
     },
+    image: "/poi-images/denmark-novozymes-bagsvaerd-economic-v2.webp",
   },
   {
     id: "denmark-danfoss-nordborg-economic-v2",
@@ -64,6 +65,7 @@ export const denmarkEconomicV2: POI[] = [
       ro: ["Fondată în 1933 de Mads Clausen în localitatea Nordborg.", "A inventat prima valvă termostatică pentru calorifer din lume în 1943.", "Are peste 40.000 de angajați la nivel global în peste 20 de țări.", "Găzduiește Universe Science Park în Nordborg, un centru educațional și turistic.", "A achiziționat divizia de hidraulică a Eaton în 2021 pentru 3,3 miliarde USD.", "Compania este deținută majoritar de Fundația Bitten & Mads Clausen."],
       en: ["Founded in 1933 by Mads Clausen in his hometown of Nordborg.", "Developed the world's first thermostatic radiator valve in 1943.", "Employs over 40,000 people globally across more than 20 countries.", "The Nordborg site is home to the Universe Science Park attraction.", "Acquired Eaton's hydraulics business in 2021 for 3.3 billion USD.", "The company remains majority-owned by the Bitten & Mads Clausen Foundation."],
     },
+    image: "/poi-images/denmark-danfoss-nordborg-economic-v2.webp",
   },
   {
     id: "denmark-vestas-aarhus-economic-v2",
@@ -96,6 +98,7 @@ export const denmarkEconomicV2: POI[] = [
       ro: ["Lider mondial în ceea ce privește capacitatea eoliană instalată.", "Fondată în 1945 sub numele de 'Vestjysk Stålteknik A/S' în Lem.", "A instalat prima turbină eoliană comercială în anul 1979.", "Are o capacitate totală instalată de peste 160 de gigawați la nivel global.", "Sediul din Aarhus-Skejby este proiectat ca o clădire cu consum de energie zero.", "Are peste 29.000 de angajați implicați în producție și mentenanță."],
       en: ["World leader in terms of total installed wind power capacity.", "Founded in 1945 as 'Vestjysk Stålteknik A/S' in the town of Lem.", "Installed its first commercial-grade wind turbine in 1979.", "Has a global installed capacity exceeding 160 gigawatts.", "The Aarhus-Skejby headquarters is designed as a zero-energy building.", "Employs more than 29,000 people in manufacturing and service operations."],
     },
+    image: "/poi-images/denmark-vestas-aarhus-economic-v2.webp",
   },
   {
     id: "denmark-grundfos-bjerringbro-economic-v2",
@@ -128,6 +131,7 @@ export const denmarkEconomicV2: POI[] = [
       ro: ["Cel mai mare producător de pompe de circulație de pe glob.", "Fondată în 1945 într-un subsol din Bjerringbro.", "Produce anual peste 16 milioane de unități de pompare.", "Este deținută în proporție de 87,6% de Fundația Poul Due Jensen.", "Centrul de Cercetare Poul Due Jensen a fost inaugurat în 2001.", "Compania are ca obiectiv atingerea emisiilor nete zero până în 2050."],
       en: ["The world's largest manufacturer of circulator pumps.", "Founded in 1945 in a basement in Bjerringbro.", "Produces more than 16 million pump units every year.", "Owned 87.6% by the Poul Due Jensen Foundation.", "The Poul Due Jensen Research Center opened in Bjerringbro in 2001.", "Aims to reach net-zero greenhouse gas emissions by 2050."],
     },
+    image: "/poi-images/denmark-grundfos-bjerringbro-economic-v2.webp",
   },
   {
     id: "denmark-port-hirtshals-economic-v2",
@@ -160,6 +164,7 @@ export const denmarkEconomicV2: POI[] = [
       ro: ["Cel mai important port danez pentru conexiunile cu Norvegia.", "Portul a fost construit între anii 1919 și 1931.", "Gestionează anual peste 2,5 milioane de tone de marfă.", "Transportă aproximativ 2,4 milioane de pasageri în fiecare an.", "Hirtshals este al doilea cel mai mare port de pescuit din Danemarca.", "Găzduiește Nordsøen Oceanarium, care are un rezervor de 4,5 milioane litri."],
       en: ["The most important Danish port for ferry connections to Norway.", "The harbor was constructed between 1919 and 1931.", "Handles over 2.5 million tons of cargo annually.", "Transports approximately 2.4 million passengers per year.", "Hirtshals is the second-largest fishing port in Denmark.", "Home to the Nordsøen Oceanarium, featuring 4.5 million liters of water."],
     },
+    image: "/poi-images/denmark-port-hirtshals-economic-v2.webp",
   },
   {
     id: "denmark-carlsberg-byen-economic-v2",
@@ -192,6 +197,7 @@ export const denmarkEconomicV2: POI[] = [
       ro: ["Sediul istoric al berăriei Carlsberg între 1847 și 2008.", "Întreaga zonă acoperă o suprafață de 33 de hectare.", "Celebrele turnuri cu elefanți au fost finalizate în 1901.", "Bohrs Tårn are o înălțime de 100 de metri, fiind o clădire rezidențială majoră.", "Campusul Carlsberg găzduiește aproximativ 10.000 de studenți.", "Cartierul include peste 20 de clădiri clasate ca monumente istorice."],
       en: ["Site of the Carlsberg brewery from 1847 until 2008.", "The entire district covers an area of 33 hectares.", "The famous Elephant Tower was completed in 1901.", "Bohrs Tårn is 100 meters tall, one of the city's highest residences.", "The Carlsberg Campus accommodates approximately 10,000 students.", "The district contains over 20 heritage-listed buildings."],
     },
+    image: "/poi-images/denmark-carlsberg-byen-economic-v2.webp",
   },
   {
     id: "denmark-danish-crown-randers-economic-v2",
@@ -224,6 +230,7 @@ export const denmarkEconomicV2: POI[] = [
       ro: ["Cel mai mare exportator de carne de porc la nivel mondial.", "Fondată în 1887 ca prima cooperativă de abatorizare pentru porci.", "Este deținută de aproximativ 6.000 de fermieri danezi.", "Exportă produse din carne în peste 130 de țări.", "Are aproximativ 26.000 de angajați la nivel global.", "Țintește o producție de carne neutră din punct de vedere climatic până în 2050."],
       en: ["The world's largest exporter of pork products.", "Founded in 1887 as the first cooperative swine slaughterhouse.", "Owned by approximately 6,000 Danish farmers.", "Exports meat products to more than 130 countries worldwide.", "Employs around 26,000 people across its global operations.", "Aims to achieve climate-neutral meat production by the year 2050."],
     },
+    image: "/poi-images/denmark-danish-crown-randers-economic-v2.webp",
   },
   {
     id: "denmark-billund-airport-economic-v2",
@@ -256,6 +263,7 @@ export const denmarkEconomicV2: POI[] = [
       ro: ["Fondat în 1964 de Godtfred Kirk Christiansen (LEGO).", "Al doilea cel mai mare aeroport din Danemarca după Copenhaga.", "Procesează aproximativ 3,7 milioane de pasageri (cifre pre-2020).", "Noul terminal principal a fost deschis în mai 2002.", "Cel mai mare centru de transport aerian de marfă din vestul țării.", "Pista aeroportului are o lungime de 3.100 de metri."],
       en: ["Founded in 1964 by Godtfred Kirk Christiansen, then-head of LEGO.", "Denmark's second-largest airport after Copenhagen Airport.", "Handles approximately 3.7 million passengers annually (pre-2020).", "The current main terminal building opened in May 2002.", "Largest air cargo hub in Western Denmark.", "The single runway has a length of 3,100 meters."],
     },
+    image: "/poi-images/denmark-billund-airport-economic-v2.webp",
   },
   {
     id: "denmark-aarhus-university-park-economic-v2",
@@ -288,6 +296,7 @@ export const denmarkEconomicV2: POI[] = [
       ro: ["Universitatea din Aarhus a fost fondată pe 11 septembrie 1928.", "Arhitectura se bazează aproape exclusiv pe utilizarea cărămizii galbene.", "Parcul a fost inclus în Canonul Cultural Danez în anul 2006.", "C.F. Møller a câștigat concursul de design pentru campus în 1931.", "Găzduiește Naturhistorisk Museum, al doilea cel mai mare de acest tip din țară.", "Competiția anuală Kapsejlads atrage peste 20.000 de spectatori la lacul central."],
       en: ["Aarhus University was officially founded on September 11, 1928.", "The campus architecture is famous for its consistent use of yellow bricks.", "The park was inducted into the Danish Culture Canon in 2006.", "Architect C.F. Møller won the design competition for the campus in 1931.", "Home to the Natural History Museum, Denmark's second-largest of its kind.", "The annual Kapsejlads rowing event attracts over 20,000 spectators."],
     },
+    image: "/poi-images/denmark-aarhus-university-park-economic-v2.webp",
   },
   {
     id: "denmark-kalundborg-symbiosis-economic-v2",
@@ -320,6 +329,7 @@ export const denmarkEconomicV2: POI[] = [
       ro: ["Primul proiect a început în 1972 cu o conductă de gaz.", "Include peste 25 de conexiuni diferite de fluxuri de resurse.", "Reduce emisiile de CO2 cu aproximativ 635.000 de tone anual.", "Economisește circa 3,6 milioane de metri cubi de apă pe an.", "Printre partenerii implicați se numără Novo Nordisk și Equinor.", "Deșeurile de gips de la desulfurare sunt transformate în plăci de gips-carton."],
       en: ["The first project began in 1972 with a simple gas pipeline.", "Features more than 25 different resource stream connections.", "Reduces CO2 emissions by approximately 635,000 tons per year.", "Saves around 3.6 million cubic meters of water annually.", "Key partners include Novo Nordisk, Novozymes, and Equinor.", "Gypsum waste from desulfurization is repurposed into plasterboard."],
     },
+    image: "/poi-images/denmark-kalundborg-symbiosis-economic-v2.webp",
   },
   {
     id: "denmark-arcon-sunmark-soenderborg-economic-v2",
@@ -352,6 +362,7 @@ export const denmarkEconomicV2: POI[] = [
       ro: ["Compania Arcon-Sunmark a fost formată prin fuziune în anul 2014.", "Sønderborg vizează neutralitatea emisiilor de CO2 până în 2029.", "Tehnologia solară termică este integrată în sistemul de termoficare.", "Rezervoarele sezoniere permit stocarea căldurii pe termen lung.", "Danemarca deține recorduri mondiale pentru dimensiunea câmpurilor solare.", "Proiectul atrage delegații internaționale interesate de energia verde."],
       en: ["Arcon-Sunmark was established through a corporate merger in 2014.", "The city of Sønderborg targets net-zero carbon emissions by 2029.", "Solar thermal fields here provide heat for thousands of households.", "Seasonal pit heat storage is a key component of the energy system.", "Denmark accounts for a major share of Europe's solar thermal capacity.", "The technology reduces annual CO2 emissions by thousands of tonnes."],
     },
+    image: "/poi-images/denmark-arcon-sunmark-soenderborg-economic-v2.webp",
   },
   {
     id: "denmark-frichs-aarhus-economic-v2",
@@ -384,6 +395,7 @@ export const denmarkEconomicV2: POI[] = [
       ro: ["Compania a fost înființată în 1854 ca o turnătorie de fontă.", "Frichs a produs prima locomotivă diesel din Danemarca.", "Complexul industrial a dominat economia orașului Aarhus timp de un secol.", "Motoarele Frichs au fost utilizate pe scară largă în flota comercială.", "Frichsparken este astăzi un hub modern pentru companii de IT și design.", "Exporturile companiei au ajuns în țări precum Thailanda și Brazilia."],
       en: ["Søren Frich established the foundry in Aarhus in 1854.", "The company was a global pioneer in diesel traction technology.", "At its peak, it was the largest private employer in Jutland.", "Frichs locomotives remained in service for over 50 years.", "The site has been repurposed into a creative and business hub.", "It currently focuses on specialized engine services and maintenance."],
     },
+    image: "/poi-images/denmark-frichs-aarhus-economic-v2.webp",
   },
   {
     id: "denmark-bramming-energy-economic-v2",
@@ -416,6 +428,7 @@ export const denmarkEconomicV2: POI[] = [
       ro: ["Bramming se află la o distanță de doar 20 km de portul strategic Esbjerg.", "Compania PolyTech este lider mondial în sisteme de protecție la trăsnet.", "Clusterul este specializat în producția de componente din compozit.", "Regiunea furnizează piese esențiale pentru giganții Vestas și Siemens.", "Investițiile în cercetare-dezvoltare sunt prioritare pentru firmele locale.", "Locația facilitează transportul componentelor agabaritice către port."],
       en: ["Bramming is situated just 20 kilometers east of the Port of Esbjerg.", "PolyTech, a key player in the cluster, is a leader in wind blade tech.", "The hub focuses on maximizing the lifespan of wind turbine components.", "It serves as a primary supply base for North Sea offshore projects.", "Specialized logistics companies handle the transport of turbine blades.", "The cluster benefits from a strong collaboration with local universities."],
     },
+    image: "/poi-images/denmark-bramming-energy-economic-v2.webp",
   },
   {
     id: "denmark-kolding-logistics-economic-v2",
@@ -448,6 +461,7 @@ export const denmarkEconomicV2: POI[] = [
       ro: ["Kolding este situat la intersecția rutelor europene majore E20 și E45.", "Regiunea Triunghiului este a doua cea mai mare zonă economică a țării.", "Companii precum Prime Cargo au depozite complet automatizate aici.", "Portul Kolding este specializat în mărfuri vrac și produse forestiere.", "Sectorul logistic reprezintă motorul principal de creștere al orașului.", "Peste 2.500 de camioane tranzitează zona în fiecare zi lucrătoare."],
       en: ["Kolding is the central junction for the E20 and E45 international motorways.", "The Triangle Region is Denmark's second-largest economic powerhouse.", "Major logistics firms like DSV have established Nordic hubs here.", "The Port of Kolding handles over 1 million tonnes of cargo annually.", "The logistics sector accounts for a significant portion of local GDP.", "Kolding is home to one of the largest dry ports in Northern Europe."],
     },
+    image: "/poi-images/denmark-kolding-logistics-economic-v2.webp",
   },
   {
     id: "denmark-novonordisk-hillerod-economic-v2",
@@ -480,6 +494,7 @@ export const denmarkEconomicV2: POI[] = [
       ro: ["Novo Nordisk este cea mai mare companie din Danemarca după capitalizare.", "Fabrica din Hillerød produce o parte semnificativă din necesarul global de insulină.", "Investițiile recente în Hillerød depășesc 5 miliarde de coroane daneze.", "Locația dispune de laboratoare avansate de control al calității.", "Compania urmărește să aibă un impact zero asupra mediului până în 2030.", "Hillerød găzduiește mii de angajați în sectorul de înaltă tehnologie."],
       en: ["Novo Nordisk is Denmark's largest company by market capitalization.", "The Hillerød site produces millions of pre-filled insulin injection pens.", "Recent investments in the facility amount to over 5 billion DKK.", "The plant is part of the prestigious Medicon Valley life science cluster.", "Novo Nordisk aims for zero environmental impact across its operations.", "Hillerød serves as a strategic production site for global markets."],
     },
+    image: "/poi-images/denmark-novonordisk-hillerod-economic-v2.webp",
   },
   {
     id: "denmark-esbjerg-energy-port-economic-v2",
@@ -512,6 +527,7 @@ export const denmarkEconomicV2: POI[] = [
       ro: ["Portul Esbjerg este cea mai importantă poartă a Danemarcei către Marea Nordului.", "Peste 4 GW de energie eoliană offshore au fost livrați prin acest port.", "A fost înființat în 1868 pentru a facilita exportul de carne și lactate.", "Esbjerg este centrul logistic pentru platformele petroliere daneze.", "Portul are terminale specializate pentru transporturi agabaritice.", "Sute de nave de service operează zilnic din terminalele portului."],
       en: ["Esbjerg is Denmark's largest North Sea port by land area.", "It has handled more offshore wind projects than any other port in the world.", "The port was established in 1868 to bypass the loss of Altona to Prussia.", "It serves as the main hub for Denmark's oil and gas operations.", "Recent expansions include the new East Port terminal for wind projects.", "The energy sector in the port employs over 10,000 people directly."],
     },
+    image: "/poi-images/denmark-esbjerg-energy-port-economic-v2.webp",
   },
   {
     id: "denmark-danisco-nakskov-economic-v2",
@@ -544,6 +560,7 @@ export const denmarkEconomicV2: POI[] = [
       ro: ["Fabrica de zahăr din Nakskov a fost pusă în funcțiune în 1882.", "Unitatea procesează sfeclă de zahăr de pe întreaga insulă Lolland.", "Nordic Sugar a fost achiziționată de grupul Nordzucker în 2009.", "Zahărul produs aici este utilizat pe scară largă în industria dulciurilor.", "Procesul de producție a fost modernizat pentru a reduce consumul de apă.", "Nakskov este centrul tradițional al agriculturii intensive din Danemarca."],
       en: ["The Nakskov sugar factory was established in 1882.", "Thousands of tonnes of sugar beets are processed daily during the campaign.", "Nordic Sugar is part of the Nordzucker Group, Europe's second-largest producer.", "The factory is a key driver of the local economy on Lolland island.", "Molasses and beet pulp are produced as valuable agricultural by-products.", "The site has undergone major upgrades to transition toward greener energy."],
     },
+    image: "/poi-images/denmark-danisco-nakskov-economic-v2.webp",
   },
   {
     id: "denmark-aarhus-tech-hub-economic-v2",
@@ -576,6 +593,7 @@ export const denmarkEconomicV2: POI[] = [
       ro: ["Aarhus găzduiește cel mai mare cluster de IT din regiunea Iutlanda.", "IT-Byen Katrinebjerg include departamente de top ale Universității Aarhus.", "Companii precum Uber au centre de inginerie strategică în acest hub.", "Software-ul pentru sistemele de sănătate daneze este dezvoltat în mare parte aici.", "Regiunea este un pionier în tehnologia 'Internet of Things' (IoT).", "Aarhus este sediul unor incubatoare de afaceri pentru startup-uri digitale."],
       en: ["Aarhus is home to more than 200 technology and software companies.", "IT-Byen Katrinebjerg is a dedicated district for digital innovation.", "Google's presence in Aarhus focuses on core web engine development.", "The city produces a high volume of computer science graduates annually.", "The hub is known for its strong emphasis on software quality and design.", "It is a key driver for Denmark's high ranking in global digital readiness."],
     },
+    image: "/poi-images/denmark-aarhus-tech-hub-economic-v2.webp",
   },
   {
     id: "denmark-odsherred-agri-economic-v2",
@@ -608,6 +626,7 @@ export const denmarkEconomicV2: POI[] = [
       ro: ["Lammefjord a fost desecat complet până în anul 1943.", "Terenul este situat sub nivelul mării, fiind protejat de diguri.", "Cartofii de Lammefjord sunt renumiți pentru coaja lor subțire și lucioasă.", "Agricultura de aici este intensivă și înalt tehnologizată.", "Regiunea găzduiește anual festivaluri dedicate recoltei de legume.", "Solul special previne atacul multor dăunători agricoli comuni."],
       en: ["Reclamation of Lammefjord began in 1873 as a major engineering project.", "The area is one of the lowest points in Denmark at -7 meters.", "Lammefjord carrots were awarded PGI status by the EU in 2004.", "The seabed soil is naturally rich in nutrients, requiring less fertilizer.", "It is a primary source of vegetables for Copenhagen's top restaurants.", "The unique microclimate of the area favors slow growth and high flavor."],
     },
+    image: "/poi-images/denmark-odsherred-agri-economic-v2.webp",
   },
   {
     id: "denmark-svendborg-shipyard-economic-v2",
@@ -640,6 +659,7 @@ export const denmarkEconomicV2: POI[] = [
       ro: ["Șantierul naval din Svendborg a fost un pionier în construcția de feriboturi.", "SIMAC este principalul furnizor de ofițeri pentru flota Maersk.", "Portul este protejat natural de insula Tåsinge.", "Sectorul maritim din Svendborg include peste 50 de companii specializate.", "Orașul găzduiește anual festivaluri de nave istorice cu pânze.", "Reparațiile navale rămân o activitate economică de bază în port."],
       en: ["Svendborg Værft was established in 1926 and specialized in steel ships.", "SIMAC academy is a leading institution for maritime education in Northern Europe.", "The Svendborg Sound provides a strategic and sheltered deep-water port.", "The maritime cluster accounts for a high percentage of local employment.", "Svendborg is a key hub for the maintenance of Denmark's domestic ferries.", "Innovative maritime startups in the city focus on autonomous shipping."],
     },
+    image: "/poi-images/denmark-svendborg-shipyard-economic-v2.webp",
   },
   {
     id: "denmark-bornholm-power-economic-v2",
@@ -672,6 +692,7 @@ export const denmarkEconomicV2: POI[] = [
       ro: ["Ținta de capacitate a proiectului este de 3 gigawați (GW) până în anul 2030.", "Hub-ul va furniza energie regenerabilă pentru aproximativ 3,3 milioane de locuințe.", "Turbinele eoliene offshore vor fi amplasate la cel puțin 15 kilometri sud de Bornholm.", "O stație de conversie HVDC de ultimă generație va fi construită direct pe insulă.", "Sistemul de cabluri submarine către Germania are o lungime de aproximativ 470 km.", "Proiectul susține obiectivul Danemarcei de reducere a emisiilor de CO2 cu 70% până în 2030."],
       en: ["The project target capacity is 3 gigawatts (GW) to be reached by the year 2030.", "The energy island will provide renewable power for approximately 3.3 million homes.", "Offshore wind turbines will be located at least 15 kilometers south of Bornholm.", "A new high-voltage direct current (HVDC) converter station will be built on the island.", "The project facilitates energy exports to Germany via a 470-kilometer cable system.", "It is a cornerstone of Denmark's plan to reduce CO2 emissions by 70% by 2030."],
     },
+    image: "/poi-images/denmark-bornholm-power-economic-v2.webp",
   },
   {
     id: "denmark-green-lab-skive-economic-v2",
@@ -704,6 +725,7 @@ export const denmarkEconomicV2: POI[] = [
       ro: ["Parcul industrial se întinde pe o suprafață totală de aproximativ 600.000 de metri pătrați.", "Conceptul de simbioză industrială permite schimbul direct de energie și subproduse.", "Locația găzduiește una dintre primele instalații Power-to-X la scară industrială din lume.", "Turbinele eoliene locale furnizează energie electrică verde direct întreprinderilor din parc.", "GreenLab Skive este desemnat oficial ca zonă de testare climatică pentru sectorul energetic.", "Inițiativa vizează atingerea neutralității complete a emisiilor de carbon până în 2030."],
       en: ["The industrial park covers an area of approximately 600,000 square meters (60 hectares).", "The concept of industrial symbiosis allows for the exchange of energy and waste products.", "The facility hosts one of the world's first industrial-scale Power-to-X plants.", "On-site wind turbines provide a direct supply of local green electricity to the businesses.", "GreenLab Skive has been officially designated as a Danish climate test zone for energy.", "The initiative aims to achieve full carbon neutrality for its participants by 2030."],
     },
+    image: "/poi-images/denmark-green-lab-skive-economic-v2.webp",
   },
   {
     id: "denmark-fredericia-port-economic-v2",
@@ -736,5 +758,6 @@ export const denmarkEconomicV2: POI[] = [
       ro: ["Portul Fredericia face parte din grupul ADP A/S (Associated Danish Ports).", "Este cel mai mare terminal de transport de containere din regiunea Jutlandia.", "Portul gestionează anual peste 15 milioane de tone de mărfuri diverse.", "Adâncimea apei în bazinele portuare ajunge până la 15 metri pentru nave mari.", "Terminalul feroviar conectează direct portul cu rețeaua transeuropeană de transport.", "Fredericia este punctul central al infrastructurii de transport a gazului și petrolului în Danemarca."],
       en: ["The Port of Fredericia is part of the ADP A/S (Associated Danish Ports) group.", "It is the largest container terminal in the Jutland region.", "The port handles more than 15 million tonnes of diverse cargo annually.", "Water depth in the harbor basins reaches up to 15 meters for large ocean-going vessels.", "The rail hub system directly connects the port to the trans-European transport network.", "Fredericia is the central hub for Denmark's oil and gas infrastructure."],
     },
+    image: "/poi-images/denmark-fredericia-port-economic-v2.webp",
   }
 ];

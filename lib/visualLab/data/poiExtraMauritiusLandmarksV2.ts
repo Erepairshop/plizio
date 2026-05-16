@@ -31,6 +31,7 @@ export const mauritiusLandmarksV2: POI[] = [
       ro: ["Fondat în anul 1842", "Locație: Strada Chaussée", "Cel mai vechi muzeu din Mauritius", "Atracție: Schelet de dodo", "Intrare: De regulă gratuită", "Teme: Biologie marină și ecologie"],
       en: ["Founded in 1842", "Location: Chaussée Street", "Oldest museum in Mauritius", "Highlight: Dodo skeleton", "Entrance: Usually free", "Themes: Marine biology & ecology"],
     },
+    image: "/poi-images/mauritius-natural-history-museum-landmarks-v2.webp",
   },
   {
     id: "mauritius-port-louis-theatre-landmarks-v2",
@@ -62,6 +63,7 @@ export const mauritiusLandmarksV2: POI[] = [
       ro: ["Anul construcției: 1822", "Stil: Neoclasic", "Prima piatră: Guvernatorul Farquhar", "Capacitate: aprox. 600 locuri", "Cel mai vechi teatru din sudul ecuatorului", "Picturi pe tavan de Vandermeesch"],
       en: ["Built in 1822", "Style: Neoclassical", "First stone: Governor Farquhar", "Capacity: Approx. 600 seats", "Oldest theatre in the Southern Hemisphere", "Ceiling paintings by Vandermeesch"],
     },
+    image: "/poi-images/mauritius-port-louis-theatre-landmarks-v2.webp",
   },
   {
     id: "mauritius-champ-de-mars-landmarks-v2",
@@ -93,6 +95,7 @@ export const mauritiusLandmarksV2: POI[] = [
       ro: ["Anul fondării: 1812", "Fondator: Sir Robert Farquhar", "Proclamarea independenței: 12 martie 1968", "Rang: A doua cea mai veche pistă din lume", "Locație: Port Louis", "Sezon: Din martie până în decembrie"],
       en: ["Founded in 1812", "Founder: Sir Robert Farquhar", "Independence Day: March 12, 1968", "Rank: Second oldest racecourse in the world", "Location: Port Louis", "Season: March to December"],
     },
+    image: "/poi-images/mauritius-champ-de-mars-landmarks-v2.webp",
   },
   {
     id: "mauritius-supreme-court-landmarks-v2",
@@ -124,6 +127,7 @@ export const mauritiusLandmarksV2: POI[] = [
       ro: ["Locație: Strada Pope Hennessy", "Autoritate judiciară centrală", "Stil: Arhitectură colonială", "Lângă Casa Guvernului", "Împărțită în divizii", "Parte a centrului istoric Port Louis"],
       en: ["Location: Pope Hennessy Street", "Central judicial authority", "Style: Colonial architecture", "Near the Government House", "Divided into various divisions", "Part of historic Port Louis"],
     },
+    image: "/poi-images/mauritius-supreme-court-landmarks-v2.webp",
   },
   {
     id: "mauritius-central-post-office-landmarks-v2",
@@ -155,6 +159,7 @@ export const mauritiusLandmarksV2: POI[] = [
       ro: ["Perioada construcției: 1864-1868", "Material: Blocuri mari de bazalt", "Stil arhitectural: Victorian", "Monument național al Mauritius", "Locație: Chiar lângă port", "Include Muzeul Poștal"],
       en: ["Built: 1864-1868", "Material: Large basalt stones", "Architectural style: Victorian", "National monument of Mauritius", "Location: Directly by the harbor", "Contains the Postal Museum"],
     },
+    image: "/poi-images/mauritius-central-post-office-landmarks-v2.webp",
   },
   {
     id: "mauritius-st-francois-assise-landmarks-v2",
@@ -186,6 +191,7 @@ export const mauritiusLandmarksV2: POI[] = [
       ro: ["Construită în anul 1756 în timpul perioadei coloniale franceze", "Cea mai veche biserică de piatră care a supraviețuit pe insulă", "Situată în districtul Pamplemousses", "Stilul arhitectural reflectă estetica colonială franceză", "Zidurile au fost ridicate din piatră de bazalt locală", "Se află direct vizavi de celebra grădină botanică"],
       en: ["Constructed in 1756 during the French colonial period", "Oldest surviving stone church on the island of Mauritius", "Located in the district of Pamplemousses", "Architectural style is typical of French colonial influence", "The church was built using local basalt stone", "Situated directly opposite the famous botanical garden"],
     },
+    image: "/poi-images/mauritius-st-francois-assise-landmarks-v2.webp",
   },
   {
     id: "mauritius-maison-eureka-landmarks-v2",
@@ -217,6 +223,7 @@ export const mauritiusLandmarksV2: POI[] = [
       ro: ["Casa a fost finalizată inițial în anul 1830", "Dispune de un total de 109 uși și ferestre", "Situată în localitatea Moka, în centrul insulei", "Deschisă publicului ca muzeu în anul 1986", "Structura este realizată aproape în întregime din lemn", "Proprietatea se află pe malul râului Moka"],
       en: ["The house was originally completed in the year 1830", "Features a total of 109 doors and windows", "Located in Moka in the central part of the island", "Opened as a museum to the public in 1986", "The structure is made almost entirely of wood", "The estate is situated on the banks of the Moka River"],
     },
+    image: "/poi-images/mauritius-maison-eureka-landmarks-v2.webp",
   },
   {
     id: "mauritius-fort-frederik-hendrik-landmarks-v2",
@@ -248,6 +255,7 @@ export const mauritiusLandmarksV2: POI[] = [
       ro: ["Prima așezare olandeză a fost fondată aici în 1638", "Numit după Prințul Frederik Hendrik de Orania", "Situat în zona istorică Vieux Grand Port", "Conține ruinele primei biserici din Mauritius (1708)", "A fost utilizat în continuare de francezi după 1721", "Un muzeu local expune artefacte din săpăturile arheologice"],
       en: ["The first Dutch settlement was founded here in 1638", "Named after Prince Frederik Hendrik of Orange", "Located in the historical Vieux Grand Port area", "Contains ruins of the first church in Mauritius (1708)", "The site was reused by the French after 1721", "An on-site museum displays findings from excavations"],
     },
+    image: "/poi-images/mauritius-fort-frederik-hendrik-landmarks-v2.webp",
   },
   {
     id: "mauritius-dutch-landing-monument-landmarks-v2",
@@ -279,6 +287,7 @@ export const mauritiusLandmarksV2: POI[] = [
       ro: ["Comemorează debarcarea flotei lui Wybrandt van Warwyck în 1598", "Inaugurat la 20 septembrie 1998, la a 400-a aniversare", "Situat pe coasta de sud-est, lângă localitatea Ferney", "Marchează tranziția insulei de la nelocuită la colonie", "Monumentul constă dintr-o placă comemorativă și sculpturi", "Debarcarea a fost neplanificată, cauzată de o furtună"],
       en: ["Commemorates the landing of Wybrandt van Warwyck's fleet in 1598", "Inaugurated on September 20, 1998, for the 400th anniversary", "Located on the southeast coast near Ferney", "Marks the transition of the island from uninhabited to colonial", "The monument consists of a commemorative plaque and sculptures", "The landing was unplanned, caused by a tropical storm"],
     },
+    image: "/poi-images/mauritius-dutch-landing-monument-landmarks-v2.webp",
   },
   {
     id: "mauritius-naval-museum-mahebourg-landmarks-v2",
@@ -310,6 +319,7 @@ export const mauritiusLandmarksV2: POI[] = [
       ro: ["Clădirea Château Robillard datează din anul 1771", "Găzduiește artefacte din bătălia navală de la Grand Port (1810)", "Include clopote și tunuri recuperate de pe nava HMS Sirius", "Expune obiecte legate de moartea navigatorului Pieter Both", "Casa a servit drept spital de campanie pentru căpitani în 1810", "Situat într-un parc vast la intrarea în localitatea Mahebourg"],
       en: ["The Château Robillard building dates back to 1771", "Houses artifacts from the Battle of Grand Port (1810)", "Includes bells and cannons recovered from the HMS Sirius", "Features exhibits on the death of navigator Pieter Both", "The house served as a hospital for wounded captains in 1810", "Located in a large park at the entrance of Mahebourg"],
     },
+    image: "/poi-images/mauritius-naval-museum-mahebourg-landmarks-v2.webp",
   },
   {
     id: "mauritius-notre-dame-auxiliatrice-landmarks-v2",
@@ -341,6 +351,7 @@ export const mauritiusLandmarksV2: POI[] = [
       ro: ["Capela a fost sfințită oficial în anul 1938", "Celebră pentru acoperișul său în două ape de un roșu aprins", "Situată în cel mai nordic punct al insulei Mauritius", "Numele înseamnă 'Sfânta Maria Ajutătoare'", "Vasul pentru apă sfințită este realizat dintr-o scoică gigant", "Construită în locul unde a avut loc invazia britanică din 1810"],
       en: ["The chapel was officially consecrated in the year 1938", "Famous for its vibrant red-painted gabled roof", "Located at the northernmost tip of Mauritius island", "The name translates to 'Our Lady, Help of Christians'", "The holy water font is made from a giant clam shell", "Built near the site of the British invasion of 1810"],
     },
+    image: "/poi-images/mauritius-notre-dame-auxiliatrice-landmarks-v2.webp",
   },
   {
     id: "mauritius-laventure-du-sucre-landmarks-v2",
@@ -372,6 +383,7 @@ export const mauritiusLandmarksV2: POI[] = [
       ro: ["Muzeul este situat în fosta fabrică de zahăr Beau Plan", "Deschis în anul 1999 după închiderea definitivă a fabricii", "Documentează istoria zahărului pe insulă începând cu 1639", "Expune o colecție vastă de utilaje industriale originale", "Oferă degustări pentru peste 12 tipuri diferite de zahăr", "Explică legătura istorică dintre zahăr și sclavie"],
       en: ["The museum is housed in the former Beau Plan sugar factory", "Opened in 1999 following the closure of the factory", "Documents the history of sugar in Mauritius since 1639", "Displays a massive collection of original industrial machinery", "Offers tastings of over 12 different types of special sugars", "Explains the historical link between sugar and slavery"],
     },
+    image: "/poi-images/mauritius-laventure-du-sucre-landmarks-v2.webp",
   },
   {
     id: "mauritius-photography-museum-landmarks-v2",
@@ -403,6 +415,7 @@ export const mauritiusLandmarksV2: POI[] = [
       ro: ["Fondat în anul 1966 de către Tristan Bréville", "Găzduiește peste un milion de negative și fotografii", "Include aparate de fotografiat din secolul al XIX-lea", "Deține unul dintre primele dagherotipuri realizate în Mauritius (1839)", "Situat pe strada Rue du Vieux Conseil din Port Louis", "Colecția documentează flora, fauna și arhitectura locală"],
       en: ["Founded in 1966 by collector Tristan Bréville", "Houses over one million negatives and photographs", "Contains cameras dating back to the 19th century", "Owns one of the first daguerreotypes produced in Mauritius (1839)", "Located on Rue du Vieux Conseil in Port Louis", "The collection documents local flora, fauna, and architecture"],
     },
+    image: "/poi-images/mauritius-photography-museum-landmarks-v2.webp",
   },
   {
     id: "mauritius-postal-museum-landmarks-v2",
@@ -434,6 +447,7 @@ export const mauritiusLandmarksV2: POI[] = [
       ro: ["Clădirea a fost construită între anii 1868 și 1870", "Declarată monument național în anul 1958", "Muzeul a fost deschis oficial în anul 1995", "Expune facsimile ale celebrelor timbre 'Post Office' din 1847", "Prezintă echipamente vechi de telegraf și telefonie", "Situat chiar lângă zona comercială Caudan Waterfront"],
       en: ["The building was constructed between 1868 and 1870", "It was declared a National Monument in 1958", "The museum was officially opened in 1995", "Displays facsimiles of the rare 1847 'Post Office' stamps", "Features exhibits of old telegraph and telephone equipment", "Located directly adjacent to the Caudan Waterfront area"],
     },
+    image: "/poi-images/mauritius-postal-museum-landmarks-v2.webp",
   },
   {
     id: "mauritius-ssr-statue-landmarks-v2",
@@ -465,6 +479,7 @@ export const mauritiusLandmarksV2: POI[] = [
       ro: ["Sir Seewoosagur Ramgoolam a fost primul prim-ministru (1968)", "Statuia a fost inaugurată în anul 1986", "Situată în Place d'Armes din Port Louis", "Ramgoolam a condus Mauritius spre independență în 1968", "Statuia este amplasată în fața clădirilor guvernamentale", "Este cunoscut universal în Mauritius sub porecla 'Chacha' (Unchiul)"],
       en: ["Sir Seewoosagur Ramgoolam was the first Prime Minister (1968)", "The statue was officially unveiled in 1986", "Located at the Place d'Armes in Port Louis", "Ramgoolam led Mauritius to independence in 1968", "The statue stands in front of the Government House", "He is universally revered in Mauritius as 'Chacha' (Uncle)"],
     },
+    image: "/poi-images/mauritius-ssr-statue-landmarks-v2.webp",
   },
   {
     id: "mauritius-slave-route-monument-landmarks-v2",
@@ -496,6 +511,7 @@ export const mauritiusLandmarksV2: POI[] = [
       ro: ["Inaugurat la 1 februarie 2009, de ziua abolirii sclaviei", "Situat la poalele muntelui Le Morne, sit UNESCO", "Include sculpturi realizate de artiști din Reunion, Madagascar și Mozambic", "Comemorează 'maronii', sclavii care s-au refugiat în munte", "Mauritius a fost un punct cheie în comerțul cu sclavi din Oceanul Indian", "Sclavia a fost abolită oficial în Mauritius în anul 1835"],
       en: ["Inaugurated on February 1, 2009, for the Abolition of Slavery Day", "Located at the base of the UNESCO-listed Le Morne Brabant", "Features sculptures by artists from Reunion, Madagascar, and Mozambique", "Commemorates the 'maroons' who sought refuge in the mountain", "Mauritius was a major hub in the Indian Ocean slave trade", "Slavery was officially abolished in Mauritius in 1835"],
     },
+    image: "/poi-images/mauritius-slave-route-monument-landmarks-v2.webp",
   },
   {
     id: "mauritius-domaine-aubineaux-landmarks-v2",
@@ -527,6 +543,7 @@ export const mauritiusLandmarksV2: POI[] = [
       ro: ["Conacul a fost construit în anul 1872", "Realizat aproape integral din lemn de tec de la epave vechi", "Situat în Curepipe, pe platoul central al insulei", "Prima casă de pe insulă care a avut electricitate (1881)", "Găzduiește un muzeu despre istoria ceaiului", "Parcul include o grădină cu arbori de camfor"],
       en: ["The manor house was constructed in the year 1872", "Built almost entirely from teak wood salvaged from shipwrecks", "Located in Curepipe on the central plateau", "Was the first house on the island to have electricity (1881)", "Houses a museum dedicated to the history of tea", "The grounds feature a garden with camphor trees"],
     },
+    image: "/poi-images/mauritius-domaine-aubineaux-landmarks-v2.webp",
   },
   {
     id: "mauritius-domaine-bois-cheri-landmarks-v2",
@@ -558,6 +575,7 @@ export const mauritiusLandmarksV2: POI[] = [
       ro: ["Prima plantație comercială de ceai de pe insulă, fondată în 1892", "Situată în sudul ploios al insulei, lângă Grand Bois", "Produce anual câteva sute de tone de ceai", "Vizita la fabrică prezintă utilaje istorice și moderne", "Restaurantul oferă o vedere panoramică asupra unui lac vulcanic", "Este renumit pentru ceaiul său special cu aromă de vanilie"],
       en: ["The island's first commercial tea plantation, founded in 1892", "Located in the rainy southern uplands near Grand Bois", "Produces several hundred tons of tea annually", "The factory tour showcases both historic and modern machinery", "The restaurant offers panoramic views of a volcanic crater lake", "Well-known for its signature vanilla-flavored tea"],
     },
+    image: "/poi-images/mauritius-domaine-bois-cheri-landmarks-v2.webp",
   },
   {
     id: "mauritius-domaine-saint-aubin-landmarks-v2",
@@ -589,6 +607,7 @@ export const mauritiusLandmarksV2: POI[] = [
       ro: ["Casa plantației a fost ridicată în anul 1819", "Situată lângă Rivière des Anguilles, în sud", "Găzduiește o distilerie de rom agricol", "Include o 'Casă a Vaniliei' (Maison de la Vanille)", "Casa originală a fost construită folosind scânduri de la nave", "Fabrica de prelucrare a zahărului a fost mutată în anii 1970"],
       en: ["The plantation house was constructed in the year 1819", "Located near Rivière des Anguilles in the south", "Houses a distillery for traditional agricultural rum", "Features a dedicated 'Vanilla House' (Maison de la Vanille)", "The original house was built using planks from ships", "The sugar processing factory was relocated in the 1970s"],
     },
+    image: "/poi-images/mauritius-domaine-saint-aubin-landmarks-v2.webp",
   },
   {
     id: "mauritius-robert-hart-museum-landmarks-v2",
@@ -620,6 +639,7 @@ export const mauritiusLandmarksV2: POI[] = [
       ro: ["Casa 'La Nef' este construită integral din blocuri de coral", "Robert Edward Hart a locuit aici până la moartea sa în 1954", "Muzeul a fost deschis publicului în anul 1967", "Situat în Souillac, pe coasta de sud a insulei", "Hart este considerat unul dintre cei mai importanți poeți din Oceanul Indian", "Proprietatea oferă o vedere panoramică spre ocean"],
       en: ["The house named 'La Nef' is built entirely of coral stones", "Robert Edward Hart lived here until his death in 1954", "The museum was officially opened in the year 1967", "Located in Souillac on the southern coast", "Hart is considered one of the leading poets of the Indian Ocean", "The grounds offer an expansive view of the southern sea"],
     },
+    image: "/poi-images/mauritius-robert-hart-museum-landmarks-v2.webp",
   },
   {
     id: "mauritius-pointe-du-diable-landmarks-v2",
@@ -651,6 +671,7 @@ export const mauritiusLandmarksV2: POI[] = [
       ro: ["Construită în cca. 1750", "Locație Vieux Grand Port", "Tunuri originale păstrate", "Arhitectură militară franceză", "Punct de observație costier", "Apărare împotriva britanicilor"],
       en: ["Built around 1750", "Located at Vieux Grand Port", "Original cannons present", "French military architecture", "Coastal defense site", "Strategic viewpoint"],
     },
+    image: "/poi-images/mauritius-pointe-du-diable-landmarks-v2.webp",
   },
   {
     id: "mauritius-ile-de-la-passe-landmarks-v2",
@@ -682,6 +703,7 @@ export const mauritiusLandmarksV2: POI[] = [
       ro: ["Bătălia navală din 1810", "Acces golful Grand Port", "Ruine de cazărmi", "Victorie napoleoniană", "Ocupație britanică ulterioră", "Monument istoric național"],
       en: ["Battle of Grand Port 1810", "Strategic bay entrance", "Napoleonic era site", "Ruins of military barracks", "French and British history", "National heritage site"],
     },
+    image: "/poi-images/mauritius-ile-de-la-passe-landmarks-v2.webp",
   },
   {
     id: "mauritius-ile-aux-fouquets-lighthouse-landmarks-v2",
@@ -713,6 +735,7 @@ export const mauritiusLandmarksV2: POI[] = [
       ro: ["Dat în folosință în 1864", "Înălțime cca. 26 metri", "Locație Grand Port", "Dezafectat în 1908", "Construit din piatră", "Ghidează traficul maritim"],
       en: ["Commissioned in 1864", "Height approx. 26 meters", "Located at Grand Port", "Decommissioned in 1908", "Built of volcanic stone", "Iconic maritime ruin"],
     },
+    image: "/poi-images/mauritius-ile-aux-fouquets-lighthouse-landmarks-v2.webp",
   },
   {
     id: "mauritius-st-gabriel-cathedral-landmarks-v2",
@@ -744,6 +767,7 @@ export const mauritiusLandmarksV2: POI[] = [
       ro: ["Construită 1936-1939", "Material calcar coralifer", "Insula Rodrigues", "Cea mai mare biserică locală", "Sediul Vicariatului", "Muncă comunitară"],
       en: ["Built 1836-1939", "Made of coral limestone", "Located on Rodrigues Island", "Largest local church", "Seat of Apostolic Vicariate", "Community-built project"],
     },
+    image: "/poi-images/mauritius-st-gabriel-cathedral-landmarks-v2.webp",
   },
   {
     id: "mauritius-maheswarnath-mandir-landmarks-v2",
@@ -775,6 +799,7 @@ export const mauritiusLandmarksV2: POI[] = [
       ro: ["Fondat în 1888", "Locație Triolet", "Cel mai vechi templu hindus", "Dedicat lui Shiva", "Sculpturi elaborate", "Centru de pelerinaj"],
       en: ["Founded in 1888", "Located in Triolet", "Oldest Hindu temple", "Dedicated to Lord Shiva", "Intricate deity sculptures", "Maha Shivaratri hub"],
     },
+    image: "/poi-images/mauritius-maheswarnath-mandir-landmarks-v2.webp",
   },
   {
     id: "mauritius-kaylasson-temple-landmarks-v2",
@@ -806,6 +831,7 @@ export const mauritiusLandmarksV2: POI[] = [
       ro: ["Construit în cca. 1868", "Locație Port Louis", "Arhitectură dravidiană", "Gopuram-uri colorate", "Centru tamil", "Monument protejat"],
       en: ["Built around 1868", "Located in Port Louis", "Dravidian style architecture", "Colorful gopuram towers", "Tamil religious hub", "National heritage site"],
     },
+    image: "/poi-images/mauritius-kaylasson-temple-landmarks-v2.webp",
   },
   {
     id: "mauritius-sagar-shiv-mandir-landmarks-v2",
@@ -837,6 +863,7 @@ export const mauritiusLandmarksV2: POI[] = [
       ro: ["Inaugurat în 2007", "Statuie Shiva de 33m", "Situat pe o insulă", "Coasta de est", "Acces prin pod", "Loc de pelerinaj modern"],
       en: ["Inaugurated in 2007", "33m high Shiva statue", "Located on an islet", "East coast location", "Bridge access provided", "Modern Hindu sanctuary"],
     },
+    image: "/poi-images/mauritius-sagar-shiv-mandir-landmarks-v2.webp",
   },
   {
     id: "mauritius-siv-soopramaniar-kovil-landmarks-v2",
@@ -868,6 +895,7 @@ export const mauritiusLandmarksV2: POI[] = [
       ro: ["Dedicat lui Murugan", "Arhitectură dravidiană", "Fresce interioare", "Sanctuar tamil", "Loc de rugăciune zilnică", "Măiestrie artizanală"],
       en: ["Dedicated to Lord Murugan", "Dravidian architecture", "Detailed frescoes", "Tamil sacred site", "Ritual festival center", "Spiritual sanctuary"],
     },
+    image: "/poi-images/mauritius-siv-soopramaniar-kovil-landmarks-v2.webp",
   },
   {
     id: "mauritius-st-therese-church-landmarks-v2",
@@ -899,6 +927,7 @@ export const mauritiusLandmarksV2: POI[] = [
       ro: ["Construită cca. 1868", "Stil neogotic", "Locație Curepipe", "Material bazalt local", "Platoul central", "Biserică catolică majoră"],
       en: ["Built around 1868", "Neo-Gothic style", "Located in Curepipe", "Local basalt stone", "Central plateau landmark", "Major Catholic parish"],
     },
+    image: "/poi-images/mauritius-st-therese-church-landmarks-v2.webp",
   },
   {
     id: "mauritius-glass-gallery-landmarks-v2",
@@ -930,6 +959,7 @@ export const mauritiusLandmarksV2: POI[] = [
       ro: ["Locație Phoenix", "Reciclarea sticlei", "Suflare sticlă live", "Artă sustenabilă", "Colecția Hands of Fame", "Fondată în 1991"],
       en: ["Located in Phoenix", "Glass recycling center", "Live glassblowing demos", "Sustainable art focus", "Hands of Fame exhibit", "Established in 1991"],
     },
+    image: "/poi-images/mauritius-glass-gallery-landmarks-v2.webp",
   },
   {
     id: "mauritius-queen-victoria-statue-landmarks-v2",
@@ -961,6 +991,7 @@ export const mauritiusLandmarksV2: POI[] = [
       ro: ["Dezvelită în 1897", "Material bronz", "Locație Port Louis", "Jubileul de Diamant", "Lângă clădirea Guvernului", "Istorie colonială britanică"],
       en: ["Unveiled in 1897", "Made of bronze", "Located in Port Louis", "Diamond Jubilee memorial", "Near Government House", "British colonial symbol"],
     },
+    image: "/poi-images/mauritius-queen-victoria-statue-landmarks-v2.webp",
   },
   {
     id: "mauritius-plaza-theatre-landmarks-v2",
@@ -992,6 +1023,7 @@ export const mauritiusLandmarksV2: POI[] = [
       ro: ["Deschis în 1929", "Locație Rose Hill", "Stil arhitectural italian", "Capacitate 1.500 locuri", "Monument național", "Inimă culturală"],
       en: ["Opened in 1929", "Located in Rose Hill", "Italianate architecture", "1,500 seat capacity", "National monument status", "Cultural performing hub"],
     },
+    image: "/poi-images/mauritius-plaza-theatre-landmarks-v2.webp",
   },
   {
     id: "mauritius-institute-landmarks-v2",
@@ -1023,6 +1055,7 @@ export const mauritiusLandmarksV2: POI[] = [
       ro: ["Fondat în 1880", "Locație Port Louis", "Muzeul de Istorie Naturală", "Schelet de dodo expus", "Arhitectură colonială", "Patrimoniu național"],
       en: ["Established in 1880", "Located in Port Louis", "Natural History Museum", "Dodo skeleton on display", "Colonial architecture", "Scientific research hub"],
     },
+    image: "/poi-images/mauritius-institute-landmarks-v2.webp",
   },
   {
     id: "mauritius-maconde-structure-landmarks-v2",
@@ -1054,5 +1087,6 @@ export const mauritiusLandmarksV2: POI[] = [
       ro: ["Locație Baie du Cap", "Panoramă de 360 grade", "Promontoriu stâncos", "Coasta de sud-vest", "Acces prin trepte", "Loc fotografic iconic"],
       en: ["Located near Baie du Cap", "360-degree panorama", "Rocky outcrop in sea", "Southwest coast site", "Staircase access", "Highly photographed spot"],
     },
+    image: "/poi-images/mauritius-maconde-structure-landmarks-v2.webp",
   }
 ];

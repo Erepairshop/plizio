@@ -31,6 +31,7 @@ export const palestineReliefV2: POI[] = [
       ro: ["Înălțime de 1.016 metri deasupra nivelului mării", "Cel mai înalt munte din întreaga Cisiordanie", "Situat la nord-est de Ramallah, lângă Silwad", "Ninsori frecvente în lunile de iarnă", "Compus în principal din roci din cretacicul superior", "Menționat în Biblie în legătură cu Absalom"],
       en: ["Elevation of 1,016 meters above sea level", "Highest mountain in the entire West Bank", "Located northeast of Ramallah near Silwad", "Frequent snowfall during winter months", "Composed mainly of Upper Cretaceous rocks", "Biblical mention in connection with Absalom"],
     },
+    image: "/poi-images/palestine-baal-hazor-relief-v2.webp",
   },
   {
     id: "palestine-dead-sea-basin-relief-v2",
@@ -62,6 +63,7 @@ export const palestineReliefV2: POI[] = [
       ro: ["Nivelul apei este la cca. 430 de metri sub nivelul mării", "Adâncimea maximă a bazinului atinge cca. 300 de metri", "Salinitatea apei este de aproximativ 34%", "Conține zăcăminte importante de potasă și magneziu", "Include peninsula Lisan pe partea estică", "Scăderea nivelului apei duce la formarea dolinelor"],
       en: ["Water level is approx. 430 meters below sea level", "Maximum basin depth reaches about 300 meters", "Water salinity is approximately 34 percent", "Contains significant deposits of potash and magnesium", "Includes the Lisan Peninsula on the eastern side", "Receding water levels lead to the formation of sinkholes"],
     },
+    image: "/poi-images/palestine-dead-sea-basin-relief-v2.webp",
   },
   {
     id: "palestine-mount-sartaba-relief-v2",
@@ -93,6 +95,7 @@ export const palestineReliefV2: POI[] = [
       ro: ["Se ridică la aproximativ 650 de metri deasupra Văii Iordanului", "Platoul somital găzduiește ruinele cetății Alexandrium", "Flancul vestic abrupt coboară aproape vertical", "Geologic face parte din zona de tranziție către Valea Riftului", "Oferă o vedere de 360 de grade până la Ierihon și Transjordania", "Conducte antice de apă încă vizibile pe versant"],
       en: ["Rises about 650 meters above the level of the Jordan Valley", "Summit plateau hosts the ruins of Alexandrium fortress", "Steep western flank drops almost vertically", "Geologically part of the transition zone to the Jordan Rift", "Provides 360-degree views to Jericho and Transjordan", "Ancient water conduits still visible on the slopes"],
     },
+    image: "/poi-images/palestine-mount-sartaba-relief-v2.webp",
   },
   {
     id: "palestine-samarian-highlands-relief-v2",
@@ -124,6 +127,7 @@ export const palestineReliefV2: POI[] = [
       ro: ["Altitudine medie între 700 și 900 de metri", "Caracterizat prin prezența a numeroase izvoare", "Conține bazine interioare fertile, cum ar fi Marj Sanur", "Formațiunile de calcar au dus la crearea multor peșteri", "Panta spre est, către Valea Iordanului, este foarte abruptă", "Cea mai importantă regiune de cultivare a măslinelor din țară"],
       en: ["Average elevation between 700 and 900 meters", "Characterized by the presence of numerous springs", "Contains fertile inland basins like Marj Sanur", "Limestone formations led to the creation of many caves", "Eastward slope towards the Jordan Valley is very steep", "Most important olive-growing region in the country"],
     },
+    image: "/poi-images/palestine-samarian-highlands-relief-v2.webp",
   },
   {
     id: "palestine-wadi-ghazza-relief-v2",
@@ -155,6 +159,7 @@ export const palestineReliefV2: POI[] = [
       ro: ["Lungimea totală a cursului de apă este de cca. 105 km", "Se varsă în Marea Mediterană la sud de orașul Gaza", "Bazinul hidrografic acoperă aproximativ 3.500 km pătrați", "Zonă importantă de popas pentru peste 250 specii de păsări", "Traversează Fâșia Gaza pe o lungime de 9 kilometri", "Desemnată ca rezervație naturală în anul 2000"],
       en: ["Total length of the watercourse is approx. 105 kilometers", "Empties into the Mediterranean south of Gaza City", "Drainage basin covers about 3,500 square kilometers", "Vital resting ground for over 250 migratory bird species", "Crosses the Gaza Strip for a length of 9 kilometers", "Designated as a nature reserve in 2000"],
     },
+    image: "/poi-images/palestine-wadi-ghazza-relief-v2.webp",
   },
   {
     id: "palestine-mount-muntar-relief-v2",
@@ -186,6 +191,7 @@ export const palestineReliefV2: POI[] = [
       ro: ["Înălțime de 524 de metri deasupra nivelului mării", "Cel mai înalt vârf din deșertul Iudeii de nord", "Locul istoric al ritualului țapului ispășitor (Azazel)", "Găzduiește ruinele unei mănăstiri bizantine", "Punct de observație important pentru monitorizarea deșertului", "Caracterizat geologic prin calcar dur și silex"],
       en: ["Elevation of 524 meters above sea level", "Highest peak in the northern Judean Desert", "Historical site of the scapegoat ritual (Azazel)", "Contains the ruins of a Byzantine monastery", "Important vantage point for monitoring the desert", "Geologically characterized by hard limestone and flint"],
     },
+    image: "/poi-images/palestine-mount-muntar-relief-v2.webp",
   },
   {
     id: "palestine-mount-tamun-relief-v2",
@@ -217,6 +223,7 @@ export const palestineReliefV2: POI[] = [
       ro: ["Se află în Guvernoratul Tubas din nord-estul Cisiordaniei.", "Altitudinea medie este de aproximativ 580 de metri deasupra mării.", "Oferă o vizibilitate strategică asupra Văii centrale a Iordanului.", "Este format în principal din depozite de calcar din perioada cretacică.", "Regiunea înconjurătoare este cunoscută istoric pentru cultura cerealelor.", "Climatul zonei este de tranziție între cel mediteranean și cel arid."],
       en: ["Located in the Tubas Governorate of the northeastern West Bank.", "The average elevation is approximately 580 meters above sea level.", "Provides a strategic vantage point over the central Jordan Valley.", "The geological structure consists primarily of Cretaceous limestone.", "The surrounding area has been used for grain farming since antiquity.", "The local climate features hot summers and mild, wet winters."],
     },
+    image: "/poi-images/palestine-mount-tamun-relief-v2.webp",
   },
   {
     id: "palestine-herodium-hill-relief-v2",
@@ -248,6 +255,7 @@ export const palestineReliefV2: POI[] = [
       ro: ["Construit de Irod cel Mare între anii 23 și 15 î.Hr.", "Vârful se află la o altitudine de 758 de metri peste nivelul mării.", "Găzduiește mormântul regelui Irod, descoperit în anul 2007.", "Include o baie monumentală construită în stil pur roman.", "A fost singura localitate denumită de Irod după propriul nume.", "A servit drept ultim refugiu pentru rebeli în timpul revoltelor iudaice."],
       en: ["Built by Herod the Great between 23 and 15 BCE.", "The summit reaches an elevation of 758 meters above sea level.", "Contains the tomb of King Herod, identified in 2007.", "Features a monumental bathhouse built in classical Roman style.", "It was the only city Herod named after himself.", "Served as a rebel stronghold during the Jewish-Roman wars."],
     },
+    image: "/poi-images/palestine-herodium-hill-relief-v2.webp",
   },
   {
     id: "palestine-mount-munidhra-relief-v2",
@@ -279,6 +287,7 @@ export const palestineReliefV2: POI[] = [
       ro: ["Este situat în Guvernoratul Nablus din centrul Cisiordaniei.", "Geologic, este compus preponderent din calcar dur și dolomit.", "Împrejurimile sunt marcate de culturi tradiționale de măslini.", "Regiunea prezintă o densitate mare de cisterne antice pentru apă.", "Zona face parte din cumpăna apelor între Mediterana și Valea Iordanului.", "Fragmentele ceramice indică o locuire continuă din Epoca Fierului."],
       en: ["Located in the Nablus Governorate of the central West Bank.", "Composed geologically of hard limestone and dolomite rocks.", "The surrounding area is dominated by traditional olive groves.", "The region features a high density of ancient water cisterns.", "Part of the drainage divide between the Mediterranean and Jordan Valley.", "Archaeological surface finds indicate habitation since the Iron Age."],
     },
+    image: "/poi-images/palestine-mount-munidhra-relief-v2.webp",
   },
   {
     id: "palestine-jenin-hills-relief-v2",
@@ -310,6 +319,7 @@ export const palestineReliefV2: POI[] = [
       ro: ["Reprezintă poarta de nord către ținutul muntos al Samariei.", "Altitudinea medie a dealurilor variază între 250 și 400 de metri.", "Zona primește mai multe precipitații decât regiunile montane din sud.", "Solurile sunt compuse în principal din terra rossa fertilă.", "Jenin este cunoscut din antichitate sub numele de 'Gannim' (Grădini).", "Găzduiesc situri arheologice importante, cum este Tell Jenin."],
       en: ["Represent the northern gateway to the highlands of Samaria.", "The average elevation of the hills ranges from 250 to 400 meters.", "The area receives higher rainfall than southern mountain regions.", "Soils consist primarily of fertile Terra Rossa clay.", "Jenin has been known since antiquity as 'Gannim' (Gardens).", "Home to important archaeological sites such as Tell Jenin."],
     },
+    image: "/poi-images/palestine-jenin-hills-relief-v2.webp",
   },
   {
     id: "palestine-mount-aziur-relief-v2",
@@ -341,6 +351,7 @@ export const palestineReliefV2: POI[] = [
       ro: ["Atinge o altitudine maximă de aproximativ 1020 de metri.", "Este unul dintre cele mai înalte vârfuri din Munții Iudeei.", "Situat în partea de nord-est a Guvernoratului Hebron.", "Iarna, pe vârful muntelui apar frecvent căderi de zăpadă.", "Structura geologică este dominată de calcar din cretacicul superior.", "Istoric, înălțimea a servit ca punct de observație și semnalizare."],
       en: ["Reaches a maximum elevation of approximately 1020 meters.", "Ranked among the highest peaks in the Judean Mountains.", "Located in the northeastern section of the Hebron Governorate.", "The summit regularly experiences snowfall during the winter months.", "The rock structure consists mainly of Upper Cretaceous limestone.", "Historically served as an important observation and signaling point."],
     },
+    image: "/poi-images/palestine-mount-aziur-relief-v2.webp",
   },
   {
     id: "palestine-mount-kanub-relief-v2",
@@ -372,6 +383,7 @@ export const palestineReliefV2: POI[] = [
       ro: ["Situat la est de orașul Sa'ir, în Guvernoratul Hebron.", "Altitudinea depășește 900 de metri deasupra nivelului mării.", "Marchează tranziția de la munții fertili la Deșertul Iudeei.", "Geologic, prezintă formațiuni carstice și straturi de calcar.", "Este utilizat tradițional ca pășune de către comunitățile de beduini.", "Pereții stâncoși adăpostesc numeroase peșteri naturale."],
       en: ["Located east of the town of Sa'ir in the Hebron Governorate.", "The elevation exceeds 900 meters above sea level.", "Marks the transition from fertile highlands to the Judean Desert.", "Geologically characterized by karst formations and limestone.", "Traditionally used as grazing land by Bedouin communities.", "Contains numerous natural caves within its rocky cliffs."],
     },
+    image: "/poi-images/palestine-mount-kanub-relief-v2.webp",
   },
   {
     id: "palestine-jebel-abu-ghneim-relief-v2",
@@ -403,6 +415,7 @@ export const palestineReliefV2: POI[] = [
       ro: ["Situat direct pe granița dintre Ierusalim și Betleem.", "Altitudinea maximă este de aproximativ 750 de metri.", "Înainte de anii 1990, era renumit pentru pădurea sa de pini.", "Descoperirile arheologice atestă o prezență bizantină pe sit.", "Dealul are o importanță strategică pentru controlul rutelor locale.", "În vecinătate se află cisterne antice și urme de cariere de piatră."],
       en: ["Located directly on the border between Jerusalem and Bethlehem.", "The maximum elevation is approximately 750 meters.", "Was known for its dense pine forest before the late 1990s.", "Archaeological finds confirm a Byzantine presence on the site.", "The hill is strategically significant for controlling local routes.", "Ancient cisterns and quarry remains are located in the vicinity."],
     },
+    image: "/poi-images/palestine-jebel-abu-ghneim-relief-v2.webp",
   },
   {
     id: "palestine-mount-gilo-relief-v2",
@@ -434,6 +447,7 @@ export const palestineReliefV2: POI[] = [
       ro: ["Atinge o altitudine de 923 de metri deasupra nivelului mării.", "Face parte din creasta centrală a Munților Iudeei.", "Cantitatea anuală de precipitații este printre cele mai mari din regiune.", "Găzduiește instalații importante de comunicații și radar.", "Oferă vizibilitate spre Marea Moartă și munții Moabului.", "Vegetația este compusă din tufișuri mediteraneene și pini."],
       en: ["Reaches an elevation of 923 meters above sea level.", "Forms part of the central ridge of the Judean Mountains.", "Annual rainfall amounts are among the highest in the region.", "Hosts important communication and radar installations.", "Provides line-of-sight to the Dead Sea and the Mountains of Moab.", "The vegetation consists of Mediterranean maquis and pine trees."],
     },
+    image: "/poi-images/palestine-mount-gilo-relief-v2.webp",
   },
   {
     id: "palestine-jebel-juhar-relief-v2",
@@ -465,6 +479,7 @@ export const palestineReliefV2: POI[] = [
       ro: ["Se află în zona urbană de sud a Hebronului.", "Situat la o altitudine medie de aproximativ 900 de metri.", "Terenul este marcat de străzi abrupte și scări.", "Aparține geologic structurii anticlinale a Hebronului.", "Regiunea a fost locuită încă din perioada calcolitică.", "Oferă o vedere panoramică asupra orașului vechi din Hebron."],
       en: ["Located within the southern urban limits of Hebron.", "Situated at an average elevation of about 900 meters.", "The terrain is characterized by steep alleys and stairs.", "Geologically part of the Hebron Anticline structure.", "The region has been inhabited since the Chalcolithic period.", "Offers a wide view over the Old City of Hebron."],
     },
+    image: "/poi-images/palestine-jebel-juhar-relief-v2.webp",
   },
   {
     id: "palestine-jebel-mukabbir-relief-v2",
@@ -496,6 +511,7 @@ export const palestineReliefV2: POI[] = [
       ro: ["Situat la sud-est de Orașul Vechi al Ierusalimului.", "Altitudinea este de aproximativ 790 de metri deasupra mării.", "Numele se traduce prin 'Dealul celui care îl slăvește' pe Dumnezeu.", "A găzduit Casa Guvernului în timpul Mandatului Britanic.", "Oferă vederi panoramice care ajung până la Marea Moartă.", "Descoperirile arheologice includ morminte din epoca celui de-al Doilea Templu."],
       en: ["Located southeast of the Old City of Jerusalem.", "The elevation is approximately 790 meters above sea level.", "The name translates to 'Hill of the One who Glorifies' (God).", "Hosted the Government House during the British Mandate period.", "Provides panoramic views extending down to the Dead Sea.", "Archaeological finds include tombs from the Second Temple period."],
     },
+    image: "/poi-images/palestine-jebel-mukabbir-relief-v2.webp",
   },
   {
     id: "palestine-mount-salman-relief-v2",
@@ -527,5 +543,6 @@ export const palestineReliefV2: POI[] = [
       ro: ["Situat în Guvernoratul Nablus, lângă satul Burin.", "Atinge o altitudine de aproximativ 800 de metri.", "Format preponderent din roci din perioada cretacică.", "Asociat în legendele locale cu diverse figuri religioase.", "Servește ca rezervor important pentru izvoarele locale.", "Versanții găzduiesc livezi de măslini foarte vechi."],
       en: ["Located in the Nablus Governorate near the village of Burin.", "Reaches an elevation of approximately 800 meters.", "Consists primarily of rocks from the Cretaceous formation.", "Associated with religious figures in local folk traditions.", "Serves as an important water catchment for local springs.", "The slopes are home to ancient olive groves."],
     },
+    image: "/poi-images/palestine-mount-salman-relief-v2.webp",
   }
 ];

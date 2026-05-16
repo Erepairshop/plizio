@@ -204,7 +204,8 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Egy kis állatpark Ruggell közelében, amely helyi alpesi állatokat mutat be.",
       ro: "Un mic parc de animale lângă Ruggell, care prezintă animale alpine locale.",
       en: "A small animal park near Ruggell showing local alpine animals."
-    }
+    },
+    image: "/poi-images/animal-habitat-ruggell-7-extra.webp",
   },
   {
     id: "animal-habitat-gamprin-8-extra",
@@ -263,7 +264,8 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Egy kis állatpark Schellenberg közelében, amely helyi alpesi állatokat mutat be.",
       ro: "Un mic parc de animale lângă Schellenberg, care prezintă animale alpine locale.",
       en: "A small animal park near Schellenberg showing local alpine animals."
-    }
+    },
+    image: "/poi-images/animal-habitat-schellenberg-9-extra.webp",
   },
   {
     id: "animal-habitat-planken-10-extra",
@@ -1276,7 +1278,8 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Modern ipartelep Vaduz területén, amely csúcstechnológiai cégeknek ad otthont.",
       ro: "Un parc industrial modern în Vaduz, care găzduiește companii de înaltă tehnologie.",
       en: "A modern industrial park in Vaduz hosting high-tech companies."
-    }
+    },
+    image: "/poi-images/industry-vaduz-11-extra.webp",
   },  {
     id: "port-schaan-1-extra",
     type: "port",
@@ -1305,7 +1308,8 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Fontos buszközlekedési csomópont Schaan területén.",
       ro: "Un important nod de transport pentru autobuze în Schaan.",
       en: "A major transport hub for buses in Schaan."
-    }
+    },
+    image: "/poi-images/port-schaan-1-extra.webp",
   },
   {
     id: "port-balzers-2-extra",
@@ -1451,7 +1455,8 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Fontos buszközlekedési csomópont Triesenberg területén.",
       ro: "Un important nod de transport pentru autobuze în Triesenberg.",
       en: "A major transport hub for buses in Triesenberg."
-    }
+    },
+    image: "/poi-images/port-triesenberg-6-extra.webp",
   },
   {
     id: "port-ruggell-7-extra",
@@ -1539,7 +1544,8 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Fontos buszközlekedési csomópont Schellenberg területén.",
       ro: "Un important nod de transport pentru autobuze în Schellenberg.",
       en: "A major transport hub for buses in Schellenberg."
-    }
+    },
+    image: "/poi-images/port-schellenberg-9-extra.webp",
   },
   {
     id: "port-planken-10-extra",
@@ -2206,7 +2212,8 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Egy csendes erdő Planken közelében.",
       ro: "O pădure liniștită lângă Planken.",
       en: "A quiet forest near Planken."
-    }
+    },
+    image: "/poi-images/landscape-planken-21-extra.webp",
   },
   {
     id: "landscape-vaduz-22-extra",
@@ -2265,7 +2272,8 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Gyönyörű hegyi kilátópont Schaan közelében, panorámás kilátással.",
       ro: "Un punct de belvedere minunat în munții de lângă Schaan, cu vedere panoramică.",
       en: "A beautiful viewpoint in the mountains near Schaan with panoramic views."
-    }
+    },
+    image: "/poi-images/landscape-schaan-23-extra.webp",
   },
   {
     id: "landscape-balzers-24-extra",
@@ -2295,7 +2303,8 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Egy csendes erdő Balzers közelében.",
       ro: "O pădure liniștită lângă Balzers.",
       en: "A quiet forest near Balzers."
-    }
+    },
+    image: "/poi-images/landscape-balzers-24-extra.webp",
   },
   {
     id: "landscape-triesen-25-extra",
@@ -2325,7 +2334,8 @@ export const poiExtraLiechtensteinOther: POI[] = [
       hu: "Egy kis alpesi tó Triesen területén.",
       ro: "Un mic lac alpin în Triesen.",
       en: "A small alpine lake in Triesen."
-    }
+    },
+    image: "/poi-images/landscape-triesen-25-extra.webp",
   },
   {
     id: "landscape-eschen-26-extra",

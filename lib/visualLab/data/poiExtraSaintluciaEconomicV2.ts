@@ -31,6 +31,7 @@ export const saintluciaEconomicV2: POI[] = [
       ro: ["Portul a fost fondat inițial în anul 1650 de către francezi.", "Adâncimea apei în bazinul principal este cuprinsă între 10 și 12 metri.", "Pointe Seraphine a fost deschis ca terminal de croazieră în anii 1980.", "Peste 200.000 de pasageri de croazieră sunt procesați anual în Port Castries.", "Un incendiu major în 1948 a distrus mari părți ale orașului portuar adiacent.", "Portul este punctul central de export pentru industria bananelor de pe insulă."],
       en: ["The port was originally founded in 1650 by the French.", "The water depth in the main basin ranges between 10 and 12 meters.", "Pointe Seraphine was opened as a cruise ship terminal in the 1980s.", "Annually, over 200,000 cruise passengers are processed in Port Castries.", "A major fire in 1948 destroyed large parts of the adjacent port city.", "The port serves as the central export point for the island's banana industry."],
     },
+    image: "/poi-images/saintlucia-port-castries-economic-v2.webp",
   },
   {
     id: "saintlucia-point-seraphine-economic-v2",
@@ -62,6 +63,7 @@ export const saintluciaEconomicV2: POI[] = [
       ro: ["Inaugurat oficial în anul 1986", "Centru comercial cu regim duty-free", "Două pontoane pentru nave de croazieră", "Localizat în portul capitalei Castries", "Administrat de autoritatea SLASPA", "Poartă principală de intrare a turiștilor"],
       en: ["Officially opened in 1986", "Major duty-free shopping destination", "Two piers for large cruise vessels", "Located in the Castries Harbour", "Managed by the SLASPA authority", "Primary gateway for maritime tourism"],
     },
+    image: "/poi-images/saintlucia-point-seraphine-economic-v2.webp",
   },
   {
     id: "saintlucia-hewanorra-airport-logistics-economic-v2",
@@ -93,6 +95,7 @@ export const saintluciaEconomicV2: POI[] = [
       ro: ["Codul IATA al aeroportului este UVF", "Pistă cu o lungime de 2.744 metri", "Fostă bază militară numită Beane Field", "Situat în extremitatea sudică a insulei", "Capabil să opereze avioane Boeing 747", "Principalul punct de import aerian"],
       en: ["IATA airport code is UVF", "Runway length of 2,744 meters", "Site of the former Beane Army Airfield", "Located at the southern tip of the island", "Capable of handling Boeing 747 aircraft", "Major hub for international tourism"],
     },
+    image: "/poi-images/saintlucia-hewanorra-airport-logistics-economic-v2.webp",
   },
   {
     id: "saintlucia-vieux-fort-industrial-estate-economic-v2",
@@ -124,6 +127,7 @@ export const saintluciaEconomicV2: POI[] = [
       ro: ["Cea mai mare zonă industrială din țară", "Administrată de Invest Saint Lucia", "Proximitate față de aeroportul UVF", "Sediul fabricii de bere Windward & Leeward", "Orientată către producția pentru export", "Infrastructură dedicată industriei ușoare"],
       en: ["Largest industrial estate in Saint Lucia", "Managed by Invest Saint Lucia", "Adjacent to Hewanorra International Airport", "Home to the Windward & Leeward Brewery", "Focus on export-oriented manufacturing", "Significant infrastructure for light industry"],
     },
+    image: "/poi-images/saintlucia-vieux-fort-industrial-estate-economic-v2.webp",
   },
   {
     id: "saintlucia-cul-de-sac-power-station-economic-v2",
@@ -155,6 +159,7 @@ export const saintluciaEconomicV2: POI[] = [
       ro: ["Principala unitate de producție LUCELEC", "Capacitate instalată de aprox. 86 MW", "Pusă în funcțiune în anul 1990", "Funcționează pe bază de motorină", "Asigură peste 90% din necesarul insulei", "Situată în valea Cul de Sac"],
       en: ["Main power generation hub for LUCELEC", "Installed capacity of approximately 86 MW", "Commissioned in the year 1990", "Uses heavy fuel oil and diesel", "Supplies over 90% of the island's power", "Located in the Cul de Sac Valley"],
     },
+    image: "/poi-images/saintlucia-cul-de-sac-power-station-economic-v2.webp",
   },
   {
     id: "saintlucia-st-lucia-distillers-economic-v2",
@@ -186,6 +191,7 @@ export const saintluciaEconomicV2: POI[] = [
       ro: ["Fondată în 1972 prin fuziune", "Sediul în Valea Roseau", "Producătorul romului Chairman's Reserve", "Singura distilerie de rom de pe insulă", "Produce peste 25 de varietăți de rom", "Exportator major de produse distilate"],
       en: ["Established in 1972 via merger", "Located in the Roseau Valley", "Producer of Chairman's Reserve rum", "Saint Lucia's only rum distillery", "Produces over 25 distinct rum varieties", "Major exporter of agricultural spirits"],
     },
+    image: "/poi-images/saintlucia-st-lucia-distillers-economic-v2.webp",
   },
   {
     id: "saintlucia-windward-leeward-brewery-economic-v2",
@@ -217,6 +223,7 @@ export const saintluciaEconomicV2: POI[] = [
       ro: ["Inaugurată în anul 1975", "Filială a grupului Heineken N.V.", "Producătorul berii Piton din 1992", "Situată în zona industrială Vieux Fort", "Peste 150 de angajați permanenți", "Certificată conform standardelor ISO 9001"],
       en: ["Opened in the year 1975", "Subsidiary of Heineken N.V.", "Producer of Piton Beer since 1992", "Located in the Vieux Fort industrial area", "Employs over 150 permanent staff", "Certified to ISO 9001 quality standards"],
     },
+    image: "/poi-images/saintlucia-windward-leeward-brewery-economic-v2.webp",
   },
   {
     id: "saintlucia-dennery-fishing-port-economic-v2",
@@ -248,6 +255,7 @@ export const saintluciaEconomicV2: POI[] = [
       ro: ["Cel mai important port pescăresc de est", "Modernizat prin asistență japoneză", "Dotat cu fabrici de gheață și depozite", "Bază pentru peste 200 de pescari", "Centru pentru ton și mahi-mahi", "Pilon economic major al regiunii"],
       en: ["Main fishing hub on the east coast", "Developed via Japanese grant aid", "Features ice plants and cold storage", "Home base for over 200 fishers", "Key landing site for tuna and mahi-mahi", "Major economic driver for the region"],
     },
+    image: "/poi-images/saintlucia-dennery-fishing-port-economic-v2.webp",
   },
   {
     id: "saintlucia-rodney-bay-marina-economic-v2",
@@ -279,6 +287,7 @@ export const saintluciaEconomicV2: POI[] = [
       ro: ["Punct final al regatei ARC din 1986", "Dispune de 253 de dane de acostare", "Include 32 de locuri pentru super-iahturi", "Servicii complete de întreținere navală", "Parte a grupului IGY Marinas", "Situată în districtul Gros Islet"],
       en: ["Finish line for the ARC since 1986", "Features 253 berthing slips", "Includes 32 dedicated superyacht berths", "Full-service boatyard and maintenance", "Managed by the IGY Marinas network", "Located in the Gros Islet district"],
     },
+    image: "/poi-images/saintlucia-rodney-bay-marina-economic-v2.webp",
   },
   {
     id: "saintlucia-vieux-fort-free-zone-economic-v2",
@@ -310,6 +319,7 @@ export const saintluciaEconomicV2: POI[] = [
       ro: ["Zonă Economică Specială (SEZ)", "Oferă scutiri de taxe pentru exportatori", "Centre de depozitare și logistică", "Poziție strategică lângă portul Vieux Fort", "Promovează dezvoltarea industrială", "Circulație duty-free a mărfurilor"],
       en: ["Special Economic Zone (SEZ) status", "Offers tax exemptions for exporters", "Warehousing and logistics infrastructure", "Strategic location near Vieux Fort seaport", "Promotes national industrial growth", "Duty-free movement of goods in the zone"],
     },
+    image: "/poi-images/saintlucia-vieux-fort-free-zone-economic-v2.webp",
   },
   {
     id: "saintlucia-baron-foods-factory-economic-v2",
@@ -341,6 +351,7 @@ export const saintluciaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1991", "Produce peste 150 de articole diferite", "Exportă în peste 25 de țări la nivel mondial", "Certificată conform standardelor ISO 22000", "Utilizează ardei și banane locale", "Câștigătoare a numeroase premii de business"],
       en: ["Founded in the year 1991", "Manufacturer of over 150 food products", "Exports to more than 25 countries", "ISO 22000 food safety certification", "Uses locally sourced peppers and bananas", "Recipient of numerous regional business awards"],
     },
+    image: "/poi-images/saintlucia-baron-foods-factory-economic-v2.webp",
   },
   {
     id: "saintlucia-mabouya-valley-agriculture-economic-v2",
@@ -372,6 +383,7 @@ export const saintluciaEconomicV2: POI[] = [
       ro: ["Soluri vulcanice extrem de fertile", "Centru tradițional de producție a bananelor", "Parte a unui proiect agricol guvernamental", "Situată în districtul Dennery", "Focus pe diversificarea culturilor (ex. cacao)", "Esențială pentru ocuparea forței de muncă rurale"],
       en: ["Highly fertile volcanic soils", "Traditional hub for banana production", "Site of a major government land project", "Located within the Dennery district", "Focus on crops like cocoa and vegetables", "Vital for rural employment and development"],
     },
+    image: "/poi-images/saintlucia-mabouya-valley-agriculture-economic-v2.webp",
   },
   {
     id: "saintlucia-roseau-valley-agriculture-economic-v2",
@@ -403,6 +415,7 @@ export const saintluciaEconomicV2: POI[] = [
       ro: ["Fost centru al industriei zahărului", "Principala regiune producătoare de banane", "Găzduiește distileria St. Lucia Distillers", "Sistem extins de drenaj agricol", "Localizată aproape de capitala Castries", "Destinație emergentă pentru agroturism"],
       en: ["Former center of the sugar industry", "Primary region for banana exports", "Location of the St. Lucia Distillers plant", "Features an extensive drainage network", "Situated near the capital city of Castries", "Important site for agro-tourism initiatives"],
     },
+    image: "/poi-images/saintlucia-roseau-valley-agriculture-economic-v2.webp",
   },
   {
     id: "saintlucia-fond-doux-estate-economic-v2",
@@ -434,6 +447,7 @@ export const saintluciaEconomicV2: POI[] = [
       ro: ["Plantație cu o vechime de peste 250 ani", "Situată în zona tampon UNESCO", "Producător de ciocolată artizanală", "Suprafață de aproximativ 135 de acri", "Destinație certificată de ecoturism", "Clădiri coloniale istorice conservate"],
       en: ["Over 250 years of continuous operation", "Located within a UNESCO buffer zone", "Produces artisanal estate chocolate", "Spans approximately 135 acres", "Certified sustainable eco-tourism site", "Preserves historic plantation architecture"],
     },
+    image: "/poi-images/saintlucia-fond-doux-estate-economic-v2.webp",
   },
   {
     id: "saintlucia-soufriere-geothermal-field-economic-v2",
@@ -465,6 +479,7 @@ export const saintluciaEconomicV2: POI[] = [
       ro: ["Potențial de până la 30 MW energie", "Origine vulcanică (Caldera Qualibou)", "Foraje de explorare din anii 1980", "Obiectiv: energie 100% regenerabilă", "Susținut de parteneri internaționali", "Reduce emisiile de carbon ale insulei"],
       en: ["Potential for up to 30 MW of power", "Volcanic origin within Qualibou Caldera", "Exploration drilling since the 1980s", "Goal of 100% renewable energy supply", "Supported by international funding agencies", "Will reduce national carbon emissions"],
     },
+    image: "/poi-images/saintlucia-soufriere-geothermal-field-economic-v2.webp",
   },
   {
     id: "saintlucia-choiseul-fishing-village-center-economic-v2",
@@ -496,6 +511,7 @@ export const saintluciaEconomicV2: POI[] = [
       ro: ["Centru al olăritului tradițional", "Cunoscut pentru cultura de „sea moss”", "Faimos pentru împletirea coșurilor", "Bază pentru pescuitul de coastă", "Numit după Ducele de Choiseul", "Punct focal al patrimoniului cultural"],
       en: ["Hub for traditional clay pottery", "Known for sea moss cultivation", "Famous for artisanal basket weaving", "Strategic base for coastal fishing", "Named after the Duc de Choiseul", "Crucial site for cultural heritage preservation"],
     },
+    image: "/poi-images/saintlucia-choiseul-fishing-village-center-economic-v2.webp",
   },
   {
     id: "saintlucia-bisee-commercial-zone-economic-v2",
@@ -527,6 +543,7 @@ export const saintluciaEconomicV2: POI[] = [
       ro: ["Situată strategic de-a lungul autostrăzii Castries-Gros Islet.", "Găzduiește sediile mai multor companii mari din Sfânta Lucia.", "Cuprinde depozite și facilități de producție pe mai multe hectare.", "Locație importantă pentru distribuția bunurilor de consum pe insulă.", "Dispune de o infrastructură bine dezvoltată pentru transportul greu.", "Sediul multor companii de servicii și ateliere tehnice."],
       en: ["Strategically located along the main Castries-Gros Islet Highway.", "Houses the headquarters of several major Saint Lucian companies.", "Includes warehouses and manufacturing plants across several acres.", "Key location for the distribution of consumer goods across the island.", "Features well-developed infrastructure for heavy transport vehicles.", "Home to various service providers and technical workshops."],
     },
+    image: "/poi-images/saintlucia-bisee-commercial-zone-economic-v2.webp",
   },
   {
     id: "saintlucia-union-agricultural-station-economic-v2",
@@ -558,6 +575,7 @@ export const saintluciaEconomicV2: POI[] = [
       ro: ["Operată de Ministerul Agriculturii, Pescuitului și Dezvoltării Rurale.", "Dispune de pepiniere pentru producția de puieți de fructe și legume.", "Efectuează analize de sol și studii privind controlul dăunătorilor.", "Oferă programe de formare pentru tehnici agricole moderne.", "Găzduiește colecții speciale de varietăți de plante tropicale.", "Sprijină diversificarea agriculturii de export din Sfânta Lucia."],
       en: ["Operated by the Ministry of Agriculture, Fisheries, and Rural Development.", "Features plant nurseries for the production of fruit and vegetable seedlings.", "Conducts soil analysis and pest control research studies.", "Offers training programs on modern agricultural techniques.", "Houses special collections of tropical plant varieties.", "Supports the diversification of Saint Lucian export agriculture."],
     },
+    image: "/poi-images/saintlucia-union-agricultural-station-economic-v2.webp",
   },
   {
     id: "saintlucia-buckeye-terminal-economic-v2",
@@ -589,6 +607,7 @@ export const saintluciaEconomicV2: POI[] = [
       ro: ["Dispune de o capacitate de stocare de aproximativ 10 milioane de barili.", "Operează dane de mare adâncime pentru petroliere mari.", "Construit inițial de Amerada Hess și ulterior achiziționat de Buckeye.", "Este unul dintre cei mai mari angajatori din sectorul industrial al insulei.", "Servește ca stație de transbordare a combustibilului pentru întreaga Caraibe.", "Include sisteme moderne de siguranță și protecție a mediului."],
       en: ["Has a storage capacity of approximately 10 million barrels.", "Operates deep-water berths for large oil tankers.", "Originally built by Amerada Hess and later acquired by Buckeye.", "One of the largest employers in the island's industrial sector.", "Serves as a transshipment point for fuel throughout the Caribbean.", "Includes modern safety and environmental protection systems."],
     },
+    image: "/poi-images/saintlucia-buckeye-terminal-economic-v2.webp",
   },
   {
     id: "saintlucia-baywalk-mall-economic-v2",
@@ -620,6 +639,7 @@ export const saintluciaEconomicV2: POI[] = [
       ro: ["A fost deschis oficial în anul 2011.", "Găzduiește peste 50 de magazine și restaurante diferite.", "Dispune de un cazinou propriu, numit 'Treasure Bay Casino'.", "Oferă cumpărături duty-free pentru turiștii internaționali.", "Cuprinde o suprafață totală de aproximativ 9.000 de metri pătrați.", "Este un punct de întâlnire central în centrul turistic Rodney Bay."],
       en: ["Officially opened in the year 2011.", "Houses over 50 different shops and restaurants.", "Features its own casino, the 'Treasure Bay Casino'.", "Offers duty-free shopping for international tourists.", "Covers a total area of approximately 9,000 square meters.", "Central meeting point in the tourist hub of Rodney Bay."],
     },
+    image: "/poi-images/saintlucia-baywalk-mall-economic-v2.webp",
   },
   {
     id: "saintlucia-jq-rodney-bay-mall-economic-v2",
@@ -651,6 +671,7 @@ export const saintluciaEconomicV2: POI[] = [
       ro: ["Aparține J.Q. Charles Group of Companies, o afacere locală de familie.", "Găzduiește unul dintre cele mai mari supermarketuri Massey Stores de pe insulă.", "Dispune de numeroase sucursale bancare și servicii poștale.", "Oferă o gamă largă de produse electronice și electrocasnice.", "A fost renovat extensiv pentru a concura cu mall-urile mai noi.", "Situat direct vizavi de Baywalk Shopping Mall."],
       en: ["Owned by the J.Q. Charles Group of Companies, a local family business.", "Houses one of the largest Massey Stores supermarkets on the island.", "Features numerous bank branches and postal services.", "Offers a wide range of electronic and household goods.", "Underwent extensive renovation to compete with newer malls.", "Located directly across from the Baywalk Shopping Mall."],
     },
+    image: "/poi-images/saintlucia-jq-rodney-bay-mall-economic-v2.webp",
   },
   {
     id: "saintlucia-vieux-fort-cargo-port-economic-v2",
@@ -682,6 +703,7 @@ export const saintluciaEconomicV2: POI[] = [
       ro: ["Administrat de Autoritatea Portuară Aeriană și Maritimă din Sfânta Lucia (SLASPA).", "Situat în imediata apropiere a Aeroportului Internațional Hewanorra.", "Dispune de facilități specializate pentru exportul de banane.", "Este un punct important de escală pentru navele cu livrări de combustibil.", "Oferă capacități extinse de depozitare pentru mărfurile de import.", "Joacă un rol cheie în lanțul de aprovizionare pentru sudul insulei."],
       en: ["Managed by the Saint Lucia Air and Sea Ports Authority (SLASPA).", "Located in close proximity to the Hewanorra International Airport.", "Features specialized facilities for the export of bananas.", "A major point of call for ships carrying fuel deliveries.", "Offers extensive storage capacities for imported goods.", "Plays a key role in the supply chain for the south of the island."],
     },
+    image: "/poi-images/saintlucia-vieux-fort-cargo-port-economic-v2.webp",
   },
   {
     id: "saintlucia-praslin-aquaculture-site-economic-v2",
@@ -713,6 +735,7 @@ export const saintluciaEconomicV2: POI[] = [
       ro: ["Operat de Asociația Fermierilor de Mușchi de Mare din Praslin.", "Mușchiul de mare este cultivat aici în ape de coastă protejate.", "Produsul este comercializat la nivel mondial ca superaliment și agent de îngroșare.", "Promovează participarea femeilor în economia locală.", "Sprijină conservarea ecosistemelor marine prin metode durabile.", "Recoltarea are loc de obicei la fiecare 6 până la 8 săptămâni."],
       en: ["Operated by the Praslin Seamoss Farmers Association.", "Sea moss is grown here in protected coastal waters.", "The product is marketed globally as a superfood and thickening agent.", "Promotes the involvement of women in the local economy.", "Supports the conservation of marine ecosystems through sustainable methods.", "Harvesting typically occurs every 6 to 8 weeks."],
     },
+    image: "/poi-images/saintlucia-praslin-aquaculture-site-economic-v2.webp",
   },
   {
     id: "saintlucia-anse-la-raye-fish-market-economic-v2",
@@ -744,6 +767,7 @@ export const saintluciaEconomicV2: POI[] = [
       ro: ["Faimoasă pentru evenimentul săptămânal 'Seafood Friday'.", "Modernizată cu sprijinul guvernului japonez.", "Dispune de facilități de refrigerare pentru conservarea capturii.", "Specializată în snapper, ton și mahi-mahi.", "Asigură veniturile a sute de familii din sat.", "Oferă acces direct pentru bărcile de pescuit printr-un debarcader."],
       en: ["Famous for the weekly 'Seafood Friday' event.", "Modernized with support from the Japanese government.", "Features cold storage facilities for preserving the fish catch.", "Specializes in snapper, tuna, and mahi-mahi.", "Secures the income of hundreds of families in the village.", "Provides direct access for fishing boats via a jetty."],
     },
+    image: "/poi-images/saintlucia-anse-la-raye-fish-market-economic-v2.webp",
   },
   {
     id: "saintlucia-marigot-bay-economic-zone-economic-v2",
@@ -775,6 +799,7 @@ export const saintluciaEconomicV2: POI[] = [
       ro: ["Găzduiește o marină cunoscută sub numele de 'Hurricane Hole'.", "Locația luxosului complex Zoëtry Marigot Bay St. Lucia.", "Punct important de escală pentru super-iahturi din întreaga lume.", "Dispune de facilități vamale și de imigrare pentru navigatori.", "A fost locația de filmare pentru mai multe producții internaționale.", "Oferă servicii specializate de întreținere pentru industria navigației."],
       en: ["Houses a marina known as a 'Hurricane Hole' for its protection.", "Home to the luxurious Zoëtry Marigot Bay St. Lucia resort.", "Major destination for superyachts from around the world.", "Features customs and immigration facilities for international sailors.", "Has been a filming location for several international movies.", "Offers specialized maintenance services for the sailing industry."],
     },
+    image: "/poi-images/saintlucia-marigot-bay-economic-zone-economic-v2.webp",
   },
   {
     id: "saintlucia-cap-estate-business-hub-economic-v2",
@@ -806,6 +831,7 @@ export const saintluciaEconomicV2: POI[] = [
       ro: ["Găzduiește singurul teren de golf de campionat cu 18 găuri de pe insulă.", "Centru pentru închirierea de vile de lux și vânzări imobiliare.", "Locația mai multor hoteluri tip boutique și complexuri exclusiviste.", "Oferă servicii pentru organizarea de nunți și evenimente.", "Zona a fost în trecut o vastă plantație de zahăr și animale.", "Piață importantă a forței de muncă pentru specialiștii în turism."],
       en: ["Home to the island's only 18-hole championship golf course.", "Center for luxury villa rentals and real estate sales.", "Location of several exclusive boutique hotels and resorts.", "Offers specialized services for wedding and event planning.", "The area was formerly a vast sugar and livestock plantation.", "Key labor market for specialized workers in the tourism industry."],
     },
+    image: "/poi-images/saintlucia-cap-estate-business-hub-economic-v2.webp",
   },
   {
     id: "saintlucia-george-fl-charles-logistics-economic-v2",
@@ -837,6 +863,7 @@ export const saintluciaEconomicV2: POI[] = [
       ro: ["Găzduiește facilități terminale pentru companii aeriene regionale precum LIAT.", "Locație importantă pentru servicii internaționale de curierat ca DHL și FedEx.", "Facilitează exportul rapid de produse agricole proaspete.", "Situat strategic chiar lângă centrul orașului Castries.", "Include facilități pentru aviația generală și avioane private.", "Servește ca hub pentru trimiterile poștale în interiorul Caraibelor."],
       en: ["Houses terminal facilities for regional airlines such as LIAT.", "Key location for international courier services like DHL and FedEx.", "Enables the rapid export of fresh agricultural products.", "Strategically located directly adjacent to Castries city center.", "Includes facilities for general aviation and private jets.", "Serves as a hub for postal shipments within the Caribbean."],
     },
+    image: "/poi-images/saintlucia-george-fl-charles-logistics-economic-v2.webp",
   },
   {
     id: "saintlucia-castries-central-market-economic-v2",
@@ -868,6 +895,7 @@ export const saintluciaEconomicV2: POI[] = [
       ro: ["A fost deschisă oficial în anul 1894.", "Clădirea distinctivă are un acoperiș metalic roșu caracteristic.", "Găzduiește peste 300 de vânzători permanenți și numeroși comercianți ambulanți.", "A fost listată de National Geographic drept una dintre cele mai bune piețe alimentare din lume.", "Este cea mai activă sâmbăta, când fermierii locali își aduc produsele.", "Oferă o selecție uriașă de condimente locale, cum ar fi nucșoara și cacao."],
       en: ["Officially opened in the year 1894.", "The distinctive building features a characteristic red metal roof.", "Houses over 300 regular vendors and numerous transient sellers.", "Listed by National Geographic as one of the best food markets in the world.", "Most active on Saturdays when local farmers bring their produce.", "Offers a vast selection of local spices such as nutmeg and cocoa."],
     },
+    image: "/poi-images/saintlucia-castries-central-market-economic-v2.webp",
   },
   {
     id: "saintlucia-slaspa-administrative-building-economic-v2",
@@ -899,6 +927,7 @@ export const saintluciaEconomicV2: POI[] = [
       ro: ["SLASPA este acronimul pentru Autoritatea Portuară Aeriană și Maritimă din Sfânta Lucia.", "Fondată prin fuziunea autorităților portuare și aeroportuare în 1983.", "Gestionează două aeroporturi și două porturi maritime ale insulei.", "Monitorizează conformitatea cu standardele maritime și de aviație internaționale.", "Găzduiește departamente pentru servicii maritime și securitate portuară.", "Coordonează procesarea traficului de croazieră și de marfă."],
       en: ["SLASPA stands for the Saint Lucia Air and Sea Ports Authority.", "Established by the merger of port and airport authorities in 1983.", "Manages two airports and two seaports on the island.", "Monitors compliance with international maritime and aviation standards.", "Houses departments for maritime services and port security.", "Coordinates the processing of cruise and cargo traffic."],
     },
+    image: "/poi-images/saintlucia-slaspa-administrative-building-economic-v2.webp",
   },
   {
     id: "saintlucia-choc-estate-commercial-park-economic-v2",
@@ -930,5 +959,6 @@ export const saintluciaEconomicV2: POI[] = [
       ro: ["Situat în apropierea plajei Choc și a mai multor complexuri hoteliere.", "Găzduiește mari magazine de bricolaj și construcții.", "Locația Consiliului de Trageri din Sfânta Lucia și a altor agenții administrative.", "Dispune de spații de birouri moderne pentru firme IT și de telecomunicații.", "Punct important pentru navetiștii între Castries și Gros Islet.", "Oferă o varietate de restaurante fast-food și servicii bancare."],
       en: ["Located near Choc Beach and several hotel complexes.", "Houses major construction and home improvement stores.", "Site of the Saint Lucia Shooting Board and other administrative offices.", "Features modern office spaces for IT and telecommunications firms.", "Key hub for commuters traveling between Castries and Gros Islet.", "Offers a variety of fast-food restaurants and banking services."],
     },
+    image: "/poi-images/saintlucia-choc-estate-commercial-park-economic-v2.webp",
   }
 ];

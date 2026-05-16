@@ -32,6 +32,7 @@ export const austriaNatureV2: POI[] = [
       ro: ["Altitudinea maximă a pasului este de 1.530 de metri deasupra nivelului mării.", "Regiunea de schi Nassfeld oferă aproximativ 110 kilometri de pârtii amenajate.", "Planta rară Wulfenia carinthiaca înflorește în zonă între lunile iunie și iulie.", "Drumul actual peste pas a fost construit în anul 1915 în scopuri militare.", "În vârful pasului se află punctul de trecere a frontierei între Austria și Italia.", "Millennium-Express este una dintre cele mai lungi telegondole din Munții Alpi."],
       en: ["The pass elevation is 1,530 meters above sea level.", "The Nassfeld ski area comprises approximately 110 kilometers of groomed slopes.", "The rare Wulfenia carinthiaca blooms at Nassfeld between June and July.", "The modern road over the pass was constructed in 1915 during World War I.", "The international border between Austria and Italy runs across the pass summit.", "The Millennium-Express is one of the longest cable cars in the Alps, serving the area."],
     },
+    image: "/poi-images/austria-nassfeld-pass-nature-v2.webp",
   },
   {
     id: "austria-gosausee-nature-v2",
@@ -64,6 +65,7 @@ export const austriaNatureV2: POI[] = [
       ro: ["Adâncimea maximă a lacului Vorderer Gosausee este de aproximativ 69 de metri.", "Lacul este situat la o altitudine de 933 de metri deasupra nivelului mării.", "Regiunea este parte a Patrimoniului Mondial UNESCO Hallstatt-Dachstein.", "Lacul Hinterer Gosausee este accesibil doar pe jos, printr-o drumeție de 1,5 ore.", "Apa lacului este potabilă și are un conținut foarte scăzut de nutrienți.", "Telecabina Gosaukammbahn transportă vizitatorii spre Zwieselalm, deasupra lacului."],
       en: ["The Vorderer Gosausee has a maximum depth of approximately 69 meters.", "The lake is located at an altitude of 933 meters above sea level.", "The region is part of the UNESCO World Heritage Hallstatt-Dachstein area.", "Hinterer Gosausee is only accessible on foot via a 1.5-hour hike.", "The water is of drinking-quality purity and is extremely nutrient-poor.", "The Gosaukammbahn cable car takes visitors to the Zwieselalm above the lake."],
     },
+    image: "/poi-images/austria-gosausee-nature-v2.webp",
   },
   {
     id: "austria-grosser-rieserferner-nature-v2",
@@ -96,6 +98,7 @@ export const austriaNatureV2: POI[] = [
       ro: ["Vârful Hochgall are o altitudine de 3.436 de metri, fiind cel mai înalt din grup.", "Parcul Natural Rieserferner-Ahrn a fost înființat în anul 1988.", "Regiunea este dominată geologic de roci cristaline precum tonalitul.", "Suprafața ghețarului s-a redus masiv în ultimii 30 de ani din cauza încălzirii globale.", "Prima ascensiune documentată a vârfului Hochgall a avut loc în 1868.", "Apele de topire alimentează în principal văile Ahrntal și Reintal."],
       en: ["Hochgall is the highest peak near the glacier, reaching 3,436 meters.", "The Rieserferner-Ahrn Nature Park was officially established in 1988.", "The Rieserferner massif is geologically composed of tonalite and gneiss.", "The glacier's surface area has decreased significantly over the last 30 years.", "The first successful ascent of the Hochgall peak took place in 1868.", "The meltwater primarily drains into the Ahrntal and Reintal valleys."],
     },
+    image: "/poi-images/austria-grosser-rieserferner-nature-v2.webp",
   },
   {
     id: "austria-oetscher-nature-v2",
@@ -128,6 +131,7 @@ export const austriaNatureV2: POI[] = [
       ro: ["Altitudinea maximă a vârfului Ötscher este de 1.893 de metri.", "Parcul Natural Ötscher-Tormäuer are 170 km², fiind cel mai mare din Austria Inferioară.", "Peștera cu stalactite Ötscher a fost deschisă publicului în anul 1926.", "Numele Ötscher provine dintr-un cuvânt slav care înseamnă 'tăticul'.", "Masivul este compus în principal din calcar Wetterstein din perioada triasică.", "Prima ascensiune documentată în scopuri botanice a avut loc în jurul anului 1570."],
       en: ["The summit height of the Ötscher is 1,893 meters.", "The Ötscher-Tormäuer Nature Park is the largest in Lower Austria at 170 km².", "The Ötscher Dripstone Cave was officially opened to the public in 1926.", "The name Ötscher is derived from a Slavic word meaning 'little father'.", "The mountain is geologically composed of Triassic Wetterstein limestone.", "The first recorded scientific ascent was made around 1570 by Carolus Clusius."],
     },
+    image: "/poi-images/austria-oetscher-nature-v2.webp",
   },
   {
     id: "austria-feistritz-river-nature-v2",
@@ -160,6 +164,7 @@ export const austriaNatureV2: POI[] = [
       ro: ["Lungimea totală a râului este de aproximativ 115 kilometri.", "Feistritz se varsă în râul Lafnitz în apropiere de Fürstenfeld.", "Calea ferată istorică Feistritztalbahn a fost inaugurată în anul 1911.", "De-a lungul râului sunt situate mai multe arii protejate Natura 2000.", "Râul traversează cheile Feistritzklamm, un monument al naturii.", "Bazinul hidrografic acoperă o suprafață de circa 1.000 km²."],
       en: ["The total length of the river is approximately 115 kilometers.", "The Feistritz flows into the Lafnitz river near Fürstenfeld.", "The historic Feistritztalbahn narrow-gauge railway was opened in 1911.", "Several Natura 2000 protected areas are located along the riverbanks.", "The river passes through the Feistritzklamm, a designated natural monument.", "The catchment area of the river covers roughly 1,000 km²."],
     },
+    image: "/poi-images/austria-feistritz-river-nature-v2.webp",
   },
   {
     id: "austria-luenersee-nature-v2",
@@ -192,6 +197,7 @@ export const austriaNatureV2: POI[] = [
       ro: ["Altitudinea oglinzii apei este de 1.970 de metri deasupra nivelului mării.", "Lacul are un volum maxim de stocare de 78 de milioane de metri cubi.", "Vârful Schesaplana domină lacul cu o înălțime de 2.965 de metri.", "Barajul lacului a fost finalizat în anul 1958.", "Telecabina Lünerseebahn urcă peste 400 de metri diferență de nivel în câteva minute.", "În anul 2019, Lünersee a fost votat drept cel mai frumos loc din Austria."],
       en: ["The lake's surface elevation is 1,970 meters above sea level.", "The reservoir has a maximum storage volume of 78 million cubic meters.", "Schesaplana towers over the lake at an altitude of 2,965 meters.", "The construction of the dam was completed in 1958.", "The Lünerseebahn cable car climbs over 400 meters of elevation in just a few minutes.", "In 2019, Lünersee was voted the most beautiful spot in Austria."],
     },
+    image: "/poi-images/austria-luenersee-nature-v2.webp",
   },
   {
     id: "austria-styrian-salza-nature-v2",
@@ -224,6 +230,7 @@ export const austriaNatureV2: POI[] = [
       ro: ["Lungimea totală a râului Salza este de aproximativ 88 de kilometri.", "Râul izvorăște în munții Göller/Traisenberg din Austria Inferioară.", "Salza alimentează a doua conductă de apă a Vienei încă din anul 1910.", "Vărsarea în râul Enns are loc în localitatea Großreifling.", "Este considerat cel mai lung râu sălbatic neamenajat din Europa Centrală.", "Temperatura apei depășește rar 12 grade Celsius, chiar și în timpul verii."],
       en: ["The total length of the Salza is approximately 88 kilometers.", "The river originates at Göller/Traisenberg in Lower Austria.", "The Salza has supplied the Second Vienna Mountain Spring Pipeline since 1910.", "The river confluence with the Enns is located at Großreifling.", "It is considered the longest unobstructed wild river in Central Europe.", "The water temperature rarely exceeds 12 degrees Celsius, even in summer."],
     },
+    image: "/poi-images/austria-styrian-salza-nature-v2.webp",
   },
   {
     id: "austria-hochkonig-nature-v2",
@@ -256,6 +263,7 @@ export const austriaNatureV2: POI[] = [
       ro: ["Vârful masivului Hochkönig are o altitudine de 2.941 de metri.", "Prima ascensiune reușită a fost realizată de Peter Carl Thurwieser în 1826.", "„Übergossene Alm” este singurul ghețar de platou din Alpii Calcaroși de Nord.", "Matrashaus de pe vârf este una dintre cele mai înalte cabane din Alpii Orientali.", "În Mühlbach s-a extras cupru pe o perioadă de peste 4.000 de ani.", "Traseul „Königstour” acoperă 6 vârfuri și 35 de kilometri de pârtii."],
       en: ["The summit height of the Hochkönig is 2,941 meters.", "The first successful ascent was made by Peter Carl Thurwieser in 1826.", "The 'Übergossene Alm' is the only plateau glacier in the Northern Limestone Alps.", "The Matrashaus on the summit is one of the highest alpine huts in the Eastern Alps.", "Copper was mined in the Mühlbach area for over 4,000 years.", "The 'Königstour' ski circuit covers 6 peaks and 35 kilometers of slopes."],
     },
+    image: "/poi-images/austria-hochkonig-nature-v2.webp",
   },
   {
     id: "austria-wilder-kaiser-nature-v2",
@@ -288,6 +296,7 @@ export const austriaNatureV2: POI[] = [
       ro: ["Vârful Ellmauer Halt este cel mai înalt, având 2.344 de metri.", "Munții Kaiser au fost declarați rezervație naturală în anul 1963.", "Masivul este compus în principal din calcar Wetterstein din perioada triasică.", "Nu există telecabine sau drumuri auto care să pătrundă în inima rezervației.", "Wilder Kaiser este locul unde se filmează popularul serial TV „Medicul de munte”.", "Prima ascensiune a vârfului Ellmauer Halt a fost documentată în 1869."],
       en: ["The Ellmauer Halt is the highest peak at 2,344 meters.", "The Kaiser Mountains were designated as a nature reserve in 1963.", "The massif consists mainly of Triassic Wetterstein limestone.", "No cable cars or roads lead into the heart of the protected area.", "The Wilder Kaiser is the setting for the popular TV series 'Der Bergdoktor'.", "The first recorded ascent of Ellmauer Halt took place in 1869."],
     },
+    image: "/poi-images/austria-wilder-kaiser-nature-v2.webp",
   },
   {
     id: "austria-tiroler-lech-nature-v2",
@@ -320,5 +329,6 @@ export const austriaNatureV2: POI[] = [
       ro: ["Lungimea secțiunii de râu aproape naturală este de aproximativ 60 km.", "Parcul Natural Tiroler Lech a fost înființat oficial în anul 2004.", "Găzduiește tamarixul german, o plantă alpină foarte rară.", "Albia de pietriș atinge în unele locuri o lățime de până la 100 de metri.", "Zonă importantă de cuibărit pentru peste 150 de specii de păsări.", "Lechweg este un traseu de drumeție certificat cu o lungime de 125 km."],
       en: ["The length of the near-natural river section is about 60 kilometers.", "The Tyrolean Lech Nature Park was officially established in 2004.", "Home to the German tamarisk, a rare alpine pioneer plant species.", "The gravel bed reaches a width of up to 100 meters in some places.", "Important breeding ground for over 150 different bird species.", "The Lechweg is a certified long-distance trail totaling 125 km."],
     },
+    image: "/poi-images/austria-tiroler-lech-nature-v2.webp",
   }
 ];

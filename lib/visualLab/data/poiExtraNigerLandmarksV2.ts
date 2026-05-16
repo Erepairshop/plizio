@@ -47,7 +47,8 @@ export const poiExtraNigerLandmarksV2: POI[] = [
         "Exhibits dinosaur fossils",
         "One of the best museums in West Africa"
       ]
-    }
+    },
+    image: "/poi-images/niamey-boubou-hama-museum-landmarks-v2.webp",
   },
   {
     "id": "niamey-grande-mosquee-landmarks-v2",
@@ -94,7 +95,8 @@ export const poiExtraNigerLandmarksV2: POI[] = [
         "Accommodates thousands of worshippers",
         "Important religious center of the capital"
       ]
-    }
+    },
+    image: "/poi-images/niamey-grande-mosquee-landmarks-v2.webp",
   },
   {
     "id": "niamey-kennedy-bridge-landmarks-v2",
@@ -141,7 +143,8 @@ export const poiExtraNigerLandmarksV2: POI[] = [
         "Named after John F. Kennedy",
         "Crucial for traffic in the country"
       ]
-    }
+    },
+    image: "/poi-images/niamey-kennedy-bridge-landmarks-v2.webp",
   },
   {
     "id": "niamey-palais-des-congres-landmarks-v2",
@@ -188,7 +191,8 @@ export const poiExtraNigerLandmarksV2: POI[] = [
         "Located near the river",
         "Distinctive modern architecture"
       ]
-    }
+    },
+    image: "/poi-images/niamey-palais-des-congres-landmarks-v2.webp",
   },
   {
     "id": "niamey-stade-seyni-kountche-landmarks-v2",
@@ -235,7 +239,8 @@ export const poiExtraNigerLandmarksV2: POI[] = [
         "Named after the former president",
         "Home ground of the national team"
       ]
-    }
+    },
+    image: "/poi-images/niamey-stade-seyni-kountche-landmarks-v2.webp",
   },
   {
     "id": "niamey-ccfn-jean-rouch-landmarks-v2",
@@ -282,7 +287,8 @@ export const poiExtraNigerLandmarksV2: POI[] = [
         "Important library for students",
         "Symbol of bilateral cooperation"
       ]
-    }
+    },
+    image: "/poi-images/niamey-ccfn-jean-rouch-landmarks-v2.webp",
   },
   {
     "id": "niamey-monument-martyrs-landmarks-v2",
@@ -329,7 +335,8 @@ export const poiExtraNigerLandmarksV2: POI[] = [
         "Site for official ceremonies",
         "Shapes the cityscape"
       ]
-    }
+    },
+    image: "/poi-images/niamey-monument-martyrs-landmarks-v2.webp",
   },
   {
     "id": "niamey-place-concertation-landmarks-v2",
@@ -376,7 +383,8 @@ export const poiExtraNigerLandmarksV2: POI[] = [
         "Opposite the parliament building",
         "Important meeting point for citizens"
       ]
-    }
+    },
+    image: "/poi-images/niamey-place-concertation-landmarks-v2.webp",
   },
   {
     "id": "niamey-gare-railway-landmarks-v2",
@@ -423,7 +431,8 @@ export const poiExtraNigerLandmarksV2: POI[] = [
         "Never fully operational",
         "Symbol of infrastructure plans"
       ]
-    }
+    },
+    image: "/poi-images/niamey-gare-railway-landmarks-v2.webp",
   },
   {
     "id": "niamey-hotel-de-ville-landmarks-v2",
@@ -470,7 +479,8 @@ export const poiExtraNigerLandmarksV2: POI[] = [
         "Prominent building complex",
         "Important point of contact for citizens"
       ]
-    }
+    },
+    image: "/poi-images/niamey-hotel-de-ville-landmarks-v2.webp",
   },
   {
     "id": "niamey-abdou-moumouni-university-landmarks-v2",
@@ -517,7 +527,8 @@ export const poiExtraNigerLandmarksV2: POI[] = [
         "Tens of thousands of students",
         "Most important research center of the country"
       ]
-    }
+    },
+    image: "/poi-images/niamey-abdou-moumouni-university-landmarks-v2.webp",
   },
   {
     "id": "niamey-china-niger-bridge-landmarks-v2",
@@ -564,7 +575,8 @@ export const poiExtraNigerLandmarksV2: POI[] = [
         "The city's second Niger crossing",
         "Massively improves logistics"
       ]
-    }
+    },
+    image: "/poi-images/niamey-china-niger-bridge-landmarks-v2.webp",
   },
   {
     "id": "niamey-diori-hamani-airport-landmarks-v2",
@@ -611,7 +623,8 @@ export const poiExtraNigerLandmarksV2: POI[] = [
         "Most important gateway to the world",
         "Named after Hamani Diori"
       ]
-    }
+    },
+    image: "/poi-images/niamey-diori-hamani-airport-landmarks-v2.webp",
   },
   {
     "id": "niamey-presidential-palace-landmarks-v2",
@@ -658,7 +671,8 @@ export const poiExtraNigerLandmarksV2: POI[] = [
         "Site of state receptions",
         "Architecturally impressive"
       ]
-    }
+    },
+    image: "/poi-images/niamey-presidential-palace-landmarks-v2.webp",
   },
   {
     "id": "niamey-maouretania-cathedral-landmarks-v2",
@@ -705,7 +719,8 @@ export const poiExtraNigerLandmarksV2: POI[] = [
         "Modern church architecture",
         "Important parish in West Africa"
       ]
-    }
+    },
+    image: "/poi-images/niamey-maouretania-cathedral-landmarks-v2.webp",
   },
   {
     "id": "niamey-yantala-mosque-landmarks-v2",
@@ -752,7 +767,8 @@ export const poiExtraNigerLandmarksV2: POI[] = [
         "Stands out with its minaret",
         "Very active during Friday prayers"
       ]
-    }
+    },
+    image: "/poi-images/niamey-yantala-mosque-landmarks-v2.webp",
   },
   {
     "id": "niamey-ortn-tower-landmarks-v2",
@@ -799,7 +815,8 @@ export const poiExtraNigerLandmarksV2: POI[] = [
         "Important communication infrastructure",
         "Part of the ORTN complex"
       ]
-    }
+    },
+    image: "/poi-images/niamey-ortn-tower-landmarks-v2.webp",
   },
   {
     "id": "niamey-bceao-tower-landmarks-v2",
@@ -846,7 +863,8 @@ export const poiExtraNigerLandmarksV2: POI[] = [
         "Manages the CFA franc currency",
         "Strictly secured"
       ]
-    }
+    },
+    image: "/poi-images/niamey-bceao-tower-landmarks-v2.webp",
   },
   {
     "id": "niamey-palais-des-sports-landmarks-v2",
@@ -893,7 +911,8 @@ export const poiExtraNigerLandmarksV2: POI[] = [
         "Center for indoor sports",
         "Popular for cultural events"
       ]
-    }
+    },
+    image: "/poi-images/niamey-palais-des-sports-landmarks-v2.webp",
   },
   {
     "id": "zinder-grande-mosquee-landmarks-v2",
@@ -940,7 +959,8 @@ export const poiExtraNigerLandmarksV2: POI[] = [
         "Located in the heart of the old town",
         "Historically significant gathering place"
       ]
-    }
+    },
+    image: "/poi-images/zinder-grande-mosquee-landmarks-v2.webp",
   },
   {
     "id": "zinder-fort-tringuier-landmarks-v2",
@@ -987,7 +1007,8 @@ export const poiExtraNigerLandmarksV2: POI[] = [
         "20th-century military architecture",
         "Today an important landmark"
       ]
-    }
+    },
+    image: "/poi-images/zinder-fort-tringuier-landmarks-v2.webp",
   },
   {
     "id": "zinder-artisanat-center-landmarks-v2",
@@ -1034,7 +1055,8 @@ export const poiExtraNigerLandmarksV2: POI[] = [
         "Popular tourist destination",
         "Keeps Hausa culture alive"
       ]
-    }
+    },
+    image: "/poi-images/zinder-artisanat-center-landmarks-v2.webp",
   },
   {
     "id": "dosso-djermakoye-palace-landmarks-v2",
@@ -1081,7 +1103,8 @@ export const poiExtraNigerLandmarksV2: POI[] = [
         "Residence of the Djermakoye",
         "Symbol of traditional power"
       ]
-    }
+    },
+    image: "/poi-images/dosso-djermakoye-palace-landmarks-v2.webp",
   },
   {
     "id": "tahoua-grande-mosquee-landmarks-v2",
@@ -1128,7 +1151,8 @@ export const poiExtraNigerLandmarksV2: POI[] = [
         "Centrally located in the market district",
         "Accommodates a large congregation"
       ]
-    }
+    },
+    image: "/poi-images/tahoua-grande-mosquee-landmarks-v2.webp",
   },
   {
     "id": "tahoua-artisan-market-landmarks-v2",
@@ -1175,7 +1199,8 @@ export const poiExtraNigerLandmarksV2: POI[] = [
         "Important economic factor",
         "Tourist magnet of the region"
       ]
-    }
+    },
+    image: "/poi-images/tahoua-artisan-market-landmarks-v2.webp",
   },
   {
     "id": "tahoua-chef-de-canton-palace-landmarks-v2",
@@ -1222,7 +1247,8 @@ export const poiExtraNigerLandmarksV2: POI[] = [
         "Reflects local architecture",
         "Important for conflict resolution"
       ]
-    }
+    },
+    image: "/poi-images/tahoua-chef-de-canton-palace-landmarks-v2.webp",
   },
   {
     "id": "maradi-grande-mosquee-landmarks-v2",
@@ -1269,7 +1295,8 @@ export const poiExtraNigerLandmarksV2: POI[] = [
         "Has been renovated several times",
         "Gathers thousands on holidays"
       ]
-    }
+    },
+    image: "/poi-images/maradi-grande-mosquee-landmarks-v2.webp",
   },
   {
     "id": "maradi-centre-artisanal-landmarks-v2",
@@ -1316,7 +1343,8 @@ export const poiExtraNigerLandmarksV2: POI[] = [
         "Supports local artists",
         "Exports to neighboring countries"
       ]
-    }
+    },
+    image: "/poi-images/maradi-centre-artisanal-landmarks-v2.webp",
   },
   {
     "id": "gaya-malanville-bridge-landmarks-v2",
@@ -1363,7 +1391,8 @@ export const poiExtraNigerLandmarksV2: POI[] = [
         "High traffic volume",
         "Crucial for imports from Cotonou"
       ]
-    }
+    },
+    image: "/poi-images/gaya-malanville-bridge-landmarks-v2.webp",
   },
   {
     "id": "dosso-grand-marche-landmarks-v2",
@@ -1410,7 +1439,8 @@ export const poiExtraNigerLandmarksV2: POI[] = [
         "Center of the local economy",
         "Colorful hustle and bustle"
       ]
-    }
+    },
+    image: "/poi-images/dosso-grand-marche-landmarks-v2.webp",
   }
 ];
 

@@ -31,6 +31,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Pușcașii marini au finalizat pista folosind echipamente japoneze capturate.", "Maiorul Lofton Henderson a fost primul pilot de marină ucis la Midway.", "Prima aterizare americană a avut loc la 13 zile după capturarea sitului.", "Aerodromul a fost bombardat de navele japoneze Kongo și Haruna în 1942.", "Grupul aerian 'Cactus' a operat în condiții de lipsă extremă de combustibil.", "Terminalul modern a fost construit cu asistență financiară japoneză în semn de pace."],
       en: ["The airfield was captured by the US 1st Marine Division during Operation Watchtower.", "Named after Major Lofton Henderson, the first Marine aviator killed at Midway.", "The first US aircraft to land was a PBY Catalina on August 12, 1942.", "The field survived a massive 14-inch shell bombardment by Japanese battleships.", "Engineers known as Seabees became famous for repairing the runway under fire.", "It was the first major airfield captured by the Allies in the South Pacific."],
     },
+    image: "/poi-images/solomonislands-henderson-field-history-v2.webp",
   },
   {
     id: "solomonislands-bloody-ridge-history-v2",
@@ -62,6 +63,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Creasta este situată la mai puțin de 2 km de pista aeroportului.", "Merritt A. Edson a primit Medalia de Onoare pentru eroismul său aici.", "Forțele japoneze au suferit pierderi de peste 800 de soldați în două nopți.", "Bătălia a dovedit eficacitatea artileriei americane în sprijinul infanteriei.", "Situl este acum un parc național dedicat reconcilierii și păcii.", "Monumentele de pe creastă onorează unitățile americane de elită 'Raiders'."],
       en: ["Located 1,000 yards south of the Lunga River and Henderson Field.", "Colonel Merritt Edson was awarded the Medal of Honor for his leadership here.", "General Kawaguchi’s forces suffered nearly 50% casualties during the assault.", "The ridge provided a natural defensive position overlooking the airfield.", "The site was declared a National Peace Park on the 75th anniversary of the battle.", "Artifacts and foxholes are still visible to visitors along the hiking paths."],
     },
+    image: "/poi-images/solomonislands-bloody-ridge-history-v2.webp",
   },
   {
     id: "solomonislands-mount-austen-history-v2",
@@ -93,6 +95,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Vârful are o înălțime de 410 metri, dominând împrejurimile capitalei.", "Punctul 'Gifu' a fost ultima mare redută japoneză din zonă.", "Luptele finale au durat aproape o lună în condiții de junglă densă.", "Monumentul Păcii Japonez simbolizează reconcilierea dintre foștii inamici.", "Topografia accidentată a obligat trupele să care proviziile manual.", "Situl oferă cea mai bună perspectivă vizuală asupra bătăliilor navale din larg."],
       en: ["The summit reaches an altitude of 410 meters above sea level.", "The 'Gifu' strongpoint was named after the home prefecture of many defenders.", "The final US assault was conducted by the 25th 'Tropic Lightning' Division.", "A major Japanese Peace Memorial was established here in the 1980s.", "Caves and remnants of Japanese fortifications are still tucked in the ridges.", "It serves as a primary site for World War II commemoration ceremonies."],
     },
+    image: "/poi-images/solomonislands-mount-austen-history-v2.webp",
   },
   {
     id: "solomonislands-ironbottom-sound-history-v2",
@@ -124,6 +127,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Peste 50 de nave și sute de avioane au fost pierdute în aceste ape.", "Savo Sound este recunoscut ca unul dintre cele mai mari cimitire navale din lume.", "Nava amiral japoneză Hiei a fost prima din clasa sa scufundată în război.", "Expedițiile de cercetare au identificat epavele la adâncimi de peste 500m.", "Fiecare epavă este considerată oficial un mormânt militar protejat.", "Bătăliile de aici au fost esențiale pentru stoparea 'Expreului de Tokyo'."],
       en: ["Over 50 major Allied and Japanese warships lie on the ocean floor.", "Notable sunken vessels include the USS Atlanta and the IJN Kirishima.", "Much of the sound exceeds depths of 600 meters (2,000 feet).", "The density of iron is high enough to cause magnetic anomalies.", "Dr. Robert Ballard explored and documented the sound in 1992.", "International law prohibits the removal of artifacts from these war graves."],
     },
+    image: "/poi-images/solomonislands-ironbottom-sound-history-v2.webp",
   },
   {
     id: "solomonislands-alligator-creek-history-v2",
@@ -155,6 +159,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Lupta este cunoscută în Japonia sub numele de Bătălia de la Râul Ilu.", "Colonelul Ichiki a condus atacul crezând că forțele americane sunt puține.", "Pușcașii marini au pierdut doar 34 de oameni, față de sute de japonezi.", "Tancurile ușoare americane au zdrobit ultimele puncte de rezistență pe plajă.", "Numele de 'Alligator' reflectă lipsa de cunoștințe zoologice a soldaților de atunci.", "Situl este marcat de o placă memorială japoneză în apropierea malului."],
       en: ["The battle is correctly identified as the Battle of the Ilu River in Japanese records.", "Colonel Ichiki's unit was an elite force that had fought in China.", "It was the first time US Marines utilized canister shot from anti-tank guns against infantry.", "Fewer than 130 of Ichiki's 900 men survived the engagement.", "The creek's mouth features a sandbar that shifts with the tides and seasons.", "A memorial to the Ichiki Detachment stands near the site today."],
     },
+    image: "/poi-images/solomonislands-alligator-creek-history-v2.webp",
   },
   {
     id: "solomonislands-matanikau-river-history-v2",
@@ -186,6 +191,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Râul a fost martorul unor lupte intense pentru fiecare metru de mal.", "Douglas Munro (US Coast Guard) a murit salvând pușcașii marini încercuiți aici.", "Japonezii au stabilit un perimetru defensiv puternic pe malul de vest.", "Acțiunile de la Matanikau au inclus primele lupte de tancuri din campanie.", "Inundațiile bruște ale râului au creat adesea probleme logistice trupelor.", "Astăzi, podul peste Matanikau este o arteră vitală a capitalei."],
       en: ["The river acted as the western boundary of the US perimeter for several months.", "Signalman Douglas Munro is the only Coast Guardsman to receive the Medal of Honor for his actions here.", "A major Japanese tank attack was repulsed at the river's mouth in October 1942.", "The upper reaches of the river feature deep limestone gorges and caves.", "The battle for the Matanikau crossings was essential for the eventual US breakout.", "Remnants of foxholes can still be found by hikers on the ridges overlooking the river."],
     },
+    image: "/poi-images/solomonislands-matanikau-river-history-v2.webp",
   },
   {
     id: "solomonislands-point-cruz-history-v2",
@@ -217,6 +223,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Numele provine de la crucea ridicată de spanioli în secolul al XVI-lea.", "Este singurul port de mare adâncime din Guadalcanal capabil să primească nave mari.", "Jacob Vouza a fost decorat cu 'George Cross' pentru eroismul său aici.", "Peninsula a fost teatrul unor lupte crâncene în octombrie 1942.", "Autoritatea Portuară a Insulelor Solomon își are sediul central aici.", "Multe dintre barăcile Quonset din timpul războiului au rămas în zonă ani de zile."],
       en: ["First named by Spanish explorers over 450 years ago.", "The site of the most significant deep-water port in the country.", "Home to the memorial of Sir Jacob Vouza, a renowned local scout.", "The waters off the point were a major combat zone for PT boats during the war.", "Point Cruz forms the central business district of Honiara today.", "The peninsula was used as a staging area for the final Allied offensives on the island."],
     },
+    image: "/poi-images/solomonislands-point-cruz-history-v2.webp",
   },
   {
     id: "solomonislands-vilu-war-museum-history-v2",
@@ -248,6 +255,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Situl este administrat de familia regretatului Anderson Dua.", "Avionul Wildcat expus și-a păstrat majoritatea componentelor structurale.", "Exponatele de artilerie includ tunuri de coastă și baterii antiaeriene.", "Există monumente dedicate marinarilor de pe HMAS Canberra.", "Muzeul este situat într-un decor natural, cu vegetație tropicală exuberantă.", "Relicvele sunt întreținute periodic pentru a încetini procesul de coroziune."],
       en: ["The collection was curated over several decades by the Dua family.", "Includes a Mitsubishi G4M 'Betty' bomber, a key aircraft of the Japanese Navy.", "The F4F Wildcat on site is one of the best-preserved examples in the Pacific.", "Memorials on the grounds honor American, Japanese, and Commonwealth troops.", "The site is located near the village of Vilu in the North West Guadalcanal region.", "Artifacts range from heavy artillery to smaller engine components and cockpits."],
     },
+    image: "/poi-images/solomonislands-vilu-war-museum-history-v2.webp",
   },
   {
     id: "solomonislands-bonegi-beach-history-v2",
@@ -279,6 +287,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Navele au fost scufundate în timpul ultimului mare efort de aprovizionare japonez.", "Kinugawa Maru poate fi explorată cu ușurință doar cu mască și tub.", "Adâncimea maximă la pupa epavei Bonegi 2 este de aproximativ 30 de metri.", "Reciful de corali de pe epave include specii rare de corali de tip evantai.", "Vizibilitatea apei la Bonegi atinge adesea peste 20 de metri.", "Situl este considerat un 'muzeu subacvatic' de către comunitatea de scufundări."],
       en: ["The Kinugawa Maru (Bonegi 1) lies at a depth of 0 to 27 meters.", "Both ships were part of a high-speed transport convoy of the 'Tokyo Express'.", "The Hirokawa Maru (Bonegi 2) is slightly larger and lies in deeper water.", "Artifacts like artillery shells and vehicle parts are still visible inside the hulls.", "The site is accessible from the shore without the need for a boat.", "The wrecks have been underwater for over 80 years, creating a unique ecosystem."],
     },
+    image: "/poi-images/solomonislands-bonegi-beach-history-v2.webp",
   },
   {
     id: "solomonislands-skyline-ridge-history-v2",
@@ -310,6 +319,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Capturarea crestei a avut loc în timpul ofensivei din ianuarie 1943.", "Altitudinea maximă a zonei este de aproximativ 150 de metri.", "Divizia 25 Infanterie americană a suferit pierderi semnificative în aceste lupte.", "Poziția oferea control vizual total asupra gurii de vărsare a râului Matanikau.", "Buncărele japoneze erau adesea interconectate prin tuneluri subterane.", "În prezent, zona găzduiește numeroase locuințe moderne ale elitei din Honiara."],
       en: ["The ridge was captured during the offensive operations of January 1943.", "It stands approximately 150 meters above sea level.", "The US 25th Infantry Division led the assault on the Japanese positions.", "Strategic views from the ridge encompass the entire Ironbottom Sound.", "Japanese forces used the coral terrain to create nearly impenetrable bunkers.", "The area is now a prominent residential district overlooking Honiara."],
     },
+    image: "/poi-images/solomonislands-skyline-ridge-history-v2.webp",
   },
   {
     id: "solomonislands-white-river-history-v2",
@@ -341,6 +351,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Râul marchează limita administrativă de vest a capitalei Honiara.", "Luptele decisive din acest sector s-au purtat la mijlocul lunii ianuarie 1943.", "Zona a fost utilizată de japonezi pentru a proteja evacuarea trupelor proprii.", "Numele 'White River' provine de la aspectul albiei calcaroase a râului.", "Cartierul actual este renumit pentru piețele sale locale de alimente.", "Râul a fost traversat de mii de soldați în timpul ofensivei finale."],
       en: ["The river currently defines the western boundary of the Honiara municipality.", "Heavy fighting occurred in this sector during mid-January 1943.", "It was a critical staging area for the Japanese evacuation known as Operation Ke.", "The name originates from the clear water flowing over white coral stones.", "White River district is now home to a diverse community from across the islands.", "The surrounding hills still contain remnants of Japanese foxholes and gun pits."],
     },
+    image: "/poi-images/solomonislands-white-river-history-v2.webp",
   },
   {
     id: "solomonislands-kokumbona-history-v2",
@@ -372,6 +383,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Până în ianuarie 1943, Kokumbona a fost sediul generalului japonez Harukichi Hyakutake.", "Localitatea a fost cucerită oficial pe 23 ianuarie 1943 de Divizia 25 americană.", "Aici a funcționat cel mai mare spital de campanie al forțelor imperiale.", "Epava unui tanc japonez tip 95 Ha-Go se află încă în apropierea coastei.", "Căderea Kokumbonei a deschis calea spre Cape Esperance pentru aliați.", "Zona a fost intens bombardată de aviația americană de pe Henderson Field."],
       en: ["Kokumbona served as the command post for General Harukichi Hyakutake until January 1943.", "US forces of the 25th Infantry Division captured the village on January 23, 1943.", "The site hosted the largest Japanese field hospital on the island of Guadalcanal.", "Several Japanese 'Daihatsu' landing barges remain submerged in the shallow waters.", "Its capture forced the Japanese into their final retreat towards Cape Esperance.", "The village was a primary target for Allied naval and aerial bombardments in 1942."],
     },
+    image: "/poi-images/solomonislands-kokumbona-history-v2.webp",
   },
   {
     id: "solomonislands-tetere-beach-history-v2",
@@ -403,6 +415,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Peste 20 de vehicule amfibii LVT sunt abandonate în vegetația de lângă plajă.", "Aerodromul de la Tetere a fost operațional începând cu anul 1943.", "Zona a fost un centru major de mentenanță pentru echipamentele grele ale US Navy.", "Plaja este largă și nisipoasă, fiind ideală pentru exerciții de debarcare.", "Majoritatea vehiculelor rămase sunt modelul LVT-4, utilizat pentru transportul trupelor.", "Tetere a servit drept punct de plecare pentru campania din New Georgia."],
       en: ["There are over 20 abandoned LVT amphibious vehicles scattered in the jungle.", "The US military airstrip at Tetere was officially designated as Fighter Strip No. 4.", "The beach was used as a training ground for amphibious assaults later in the war.", "It is situated near the mouth of the Metapona River on North Guadalcanal.", "Most of the remaining vehicles are LVT-4 models left behind in 1945.", "The site is considered one of the largest concentrations of WWII LVT wrecks in the world."],
     },
+    image: "/poi-images/solomonislands-tetere-beach-history-v2.webp",
   },
   {
     id: "solomonislands-lunga-point-history-v2",
@@ -434,6 +447,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Debarcarea din 7 august 1942 a fost prima ofensivă terestră majoră a SUA în război.", "Aerodromul a primit numele de Henderson Field în onoarea unui maior de marină.", "Bătălia de la Lunga Point a durat oficial până în februarie 1943.", "Zona a fost ținta celui mai mare bombardament naval japonez în octombrie 1942.", "În prezent, aici se află principalul punct de intrare în țară pentru turiști.", "Râul Lunga, care curge prin apropiere, a fost o barieră naturală în timpul luptelor."],
       en: ["The landing on August 7, 1942, was the first major US ground offensive of World War II.", "Henderson Field was named after Major Lofton Henderson, a pilot killed at Midway.", "The area was the site of the famous Battle of the Tenaru in August 1942.", "More than 100,000 personnel were stationed within the Lunga perimeter by 1943.", "The site is now home to Honiara International Airport, formerly Henderson Field.", "Occasional wartime discoveries still occur during construction projects in the area."],
     },
+    image: "/poi-images/solomonislands-lunga-point-history-v2.webp",
   },
   {
     id: "solomonislands-tulagi-island-history-v2",
@@ -465,6 +479,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Tulagi a deținut statutul de capitală a arhipelagului timp de aproape jumătate de secol.", "Reședința comisarului britanic oferea o vedere panoramică asupra portului.", "Luptele din august 1942 au implicat faimosul Batalion 1 Raider al pușcașilor marini.", "Portul Tulagi era considerat cel mai sigur adăpost naval din regiune.", "Nava HMNZS Moa a fost scufundată aici de aviația japoneză în 1943.", "În prezent, insula este un centru important pentru industria pescuitului local."],
       en: ["Tulagi was the national capital for nearly 50 years before the war.", "The British Resident Commissioner's house was located on the island's high ridge.", "The US 1st Marine Raider Battalion led the assault on August 7, 1942.", "The wreck of the HMNZS Moa is a popular dive site within the harbor.", "After 1945, the capital was moved to Honiara due to its superior airfield space.", "The island features a historic shipyard that is still operational today."],
     },
+    image: "/poi-images/solomonislands-tulagi-island-history-v2.webp",
   },
   {
     id: "solomonislands-gavutu-island-history-v2",
@@ -496,6 +511,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Gavutu este legată de insula Tanambogo printr-un dig de piatră construit manual.", "Invazia americană a început pe 7 august 1942, după un intens bombardament naval.", "Hidroavioanele japoneze utilizau rampa de beton de pe partea de est a insulei.", "Insula a fost centrul regional al plantațiilor de cocotieri înainte de 1942.", "Aproape întreaga garnizoană japoneză a luptat până la ultimul om.", "Pușcașii marini au fost nevoiți să asalteze direct peșterile din dealul central."],
       en: ["Gavutu is connected to Tanambogo by a man-made stone causeway.", "The US assault on the island commenced at noon on August 7, 1942.", "Japanese Kawanishi H6K 'Mavis' flying boats were based here in 1942.", "It was the headquarters for Lever's Pacific Plantations before the conflict.", "Japanese defenders turned the island's coral caves into deadly defensive nests.", "The seizure of Gavutu allowed the Allies to control the strategic deep-water harbor."],
     },
+    image: "/poi-images/solomonislands-gavutu-island-history-v2.webp",
   },
   {
     id: "solomonislands-tanambogo-island-history-v2",
@@ -527,6 +543,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Insula a fost declarată securizată pe data de 8 august 1942.", "Lunetiștii japonezi din peșterile dealului au provocat pierderi mari pușcașilor marini.", "Distrugătorul USS Buchanan a oferit foc de sprijin critic de la o distanță foarte mică.", "Digul de legătură a fost construit înainte de război de compania Lever Brothers.", "Tanambogo adăpostea depozite de combustibil pentru aviație în timpul ocupației.", "În prezent, situl este vizitat de scafandri datorită epavelor din apele învecinate."],
       en: ["The island was finally secured by US forces on August 8, 1942.", "Japanese snipers in the hill's caves presented a major threat to the invading Marines.", "The USS Buchanan destroyer provided direct fire support from very close range.", "The stone causeway connecting to Gavutu is roughly 150 meters in length.", "Before the war, Tanambogo housed senior staff for the regional copra industry.", "Visible shell craters from naval guns still pit the island's central hill."],
     },
+    image: "/poi-images/solomonislands-tanambogo-island-history-v2.webp",
   },
   {
     id: "solomonislands-blue-beach-history-v2",
@@ -558,6 +575,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Debarcarea în acest sector a fost executată la ora 08:00 în dimineața zilei de 7 august.", "Sectorul a fost desemnat pentru trupele de elită Marine Raiders.", "Plaja este flancată de recife de corali care au îngreunat accesul barjelor.", "Multe buncăre japoneze din dealurile adiacente plajei sunt încă accesibile.", "Blue Beach a fost considerată cea mai sigură zonă de acces către inima insulei.", "În prezent, zona este un punct de plecare popular pentru tururile istorice pe Tulagi."],
       en: ["The assault on Blue Beach began at 08:00 on August 7, 1942.", "It was the primary landing site for the 1st Marine Raider Battalion.", "The beach's name was part of a color-coded system for the invasion beaches.", "Japanese defenses in the cliffs above required several hours to neutralize.", "The narrow strip of sand allowed for only a limited number of landing craft at once.", "Memorial markers at the site commemorate the Allied forces who landed here."],
     },
+    image: "/poi-images/solomonislands-blue-beach-history-v2.webp",
   },
   {
     id: "solomonislands-kennedy-island-history-v2",
@@ -589,6 +607,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Insula este atât de mică încât poate fi parcursă integral în mai puțin de 10 minute.", "Kennedy a înotat trăgând după el un membru rănit al echipajului folosind dinții.", "Mesajul de pe nuca de cocos spunea: 'NAURO ISL... COMMANDER... NATIVE KNOWS POSIT...'.", "Insula se află la o distanță mică de portul orașului Gizo.", "Kasolo a fost redenumită oficial 'Kennedy Island' la scurt timp după război.", "Astăzi, un mic monument de pe insulă comemorează evenimentul din 1943."],
       en: ["The island is small enough to be circumnavigated on foot in under 10 minutes.", "Kennedy and his crew spent two days on the island surviving only on coconuts.", "The original coconut shell with Kennedy's message is preserved at the JFK Library.", "The native rescuers, Kumana and Gasa, were later invited to JFK's inauguration.", "Kennedy Island is located approximately 15 minutes by boat from Gizo Town.", "The island was a key filming location for documentaries about the PT-109 incident."],
     },
+    image: "/poi-images/solomonislands-kennedy-island-history-v2.webp",
   },
   {
     id: "solomonislands-gizo-town-history-v2",
@@ -620,6 +639,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Piața din Gizo este renumită pentru produsele proaspete aduse cu barca de localnici.", "Aeroportul care deservește orașul se află pe insula vecină, Nusatupe.", "Cutremurul din 2007 a avut o magnitudine de 8,1 pe scara Richter.", "Epava navei japoneze Toa Maru este una dintre cele mai mari din regiune.", "Gizo este celebru pentru arta sculpturii în lemn realizată de meșterii locali.", "Orașul are o populație diversă, incluzând comunități de micronezieni din Kiribati."],
       en: ["Gizo's waterfront market is one of the most vibrant in the South Pacific.", "The city's airport is located on the nearby islet of Nusatupe, requiring a boat transfer.", "The 2007 earthquake permanently raised parts of the island by up to 2 meters.", "The wreck of the 'Toa Maru', a 140-meter Japanese transport ship, lies nearby.", "Gizo is a hub for traditional Solomon Islands woodcarving and handicraft.", "The town features a diverse population, including I-Kiribati settlers moved here in the 1950s."],
     },
+    image: "/poi-images/solomonislands-gizo-town-history-v2.webp",
   },
   {
     id: "solomonislands-munda-airstrip-history-v2",
@@ -651,6 +671,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Japonezii au tăiat palmierii doar după ce pista a fost complet finalizată.", "Munda Point a fost cucerită oficial pe 5 august 1943 după lupte grele.", "Muzeul Peter Joseph din apropiere deține o colecție vastă de plăcuțe de identificare ale soldaților.", "Pista a fost recent asfaltată și extinsă pentru avioane de dimensiuni medii.", "Zona este înconjurată de lagune spectaculoase ideale pentru scufundări.", "În timpul războiului, aici au fost staționate sute de avioane americane."],
       en: ["The Japanese camouflaged the construction using wire nets and palm fronds.", "Munda Point was officially secured by US forces on August 5, 1943.", "The nearby Peter Joseph WWII Museum houses a vast collection of battlefield relics.", "The airstrip was upgraded in 2023 to accommodate larger commercial aircraft.", "The campaign for Munda was one of the longest land battles in the Solomon Islands.", "The site is a major hub for eco-tourism and diving in the Western Province."],
     },
+    image: "/poi-images/solomonislands-munda-airstrip-history-v2.webp",
   },
   {
     id: "solomonislands-seghe-airstrip-history-v2",
@@ -682,6 +703,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Inginerii americani au început construcția pe 30 iunie 1943.", "Donald Kennedy a fost un personaj legendar care a coordonat rezistența locală.", "Pista a permis avioanelor aliate să domine cerul deasupra New Georgia.", "Seghe este renumit pentru lungimea sa relativ scurtă și apropierea de apă.", "În apropiere se află resturile unei epave de avion din timpul războiului.", "Este principalul punct de acces către insulele Uepi și Seghe."],
       en: ["The Seabees completed the initial runway in just 10 days in June 1943.", "Coastwatcher Donald Kennedy maintained a private army of locals to protect the site.", "Seghe was the first permanent American foothold on New Georgia Island.", "The airstrip offers access to the Marovo Lagoon, a UNESCO World Heritage site candidate.", "Historically, it served as a key base for Marine Fighter Squadron VMF-124.", "The approach to the runway requires pilots to fly directly over the lagoon waters."],
     },
+    image: "/poi-images/solomonislands-seghe-airstrip-history-v2.webp",
   },
   {
     id: "solomonislands-viru-harbor-history-v2",
@@ -713,6 +735,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Pușcașii marini au parcurs peste 15 kilometri de junglă deasă pentru a ataca din spate.", "Intrarea în port este flancată de stânci abrupte de peste 30 de metri înălțime.", "Două tuneluri japoneze folosite pentru muniție sunt încă vizibile în stâncă.", "Capturarea portului a eliminat o amenințare majoră pentru navele de aprovizionare aliate.", "Populația locală este foarte primitoare și păstrează legende despre război.", "Apa din port este surprinzător de adâncă, atingând peste 20 de metri în unele locuri."],
       en: ["The US Marine Raiders trekked for three days through dense swamp and jungle to reach Viru.", "The harbor entrance is exceptionally narrow, flanked by high coral cliffs.", "Japanese 3-inch coastal guns were positioned at Tetemara Point to block the entrance.", "The harbor was officially secured on July 1, 1943.", "Viru Harbor is currently home to a small community focused on sustainable logging.", "The harbor's depth makes it one of the best natural anchorages on New Georgia."],
     },
+    image: "/poi-images/solomonislands-viru-harbor-history-v2.webp",
   },
   {
     id: "solomonislands-enogai-inlet-history-v2",
@@ -744,6 +767,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Tunurile de coastă japoneze de 140 mm de la Enogai sunt printre cele mai bine conservate.", "Controlul asupra Enogai a fost stabilit după șapte zile de marș și lupte.", "Aliații au capturat cantități mari de orez és munitie la baza japoneză.", "Zona a fost bombardată masiv de pe mare înainte de asaltul final.", "Enogai Inlet oferă un adăpost natural excelent împotriva vânturilor puternice.", "Multe dintre relicvele de aici sunt vizibile doar la reflux."],
       en: ["Four 140mm Japanese coastal defense guns remain at the site today.", "The inlet was officially captured by Allied forces on July 10, 1943.", "US troops faced severe dehydration and supply shortages during the overland trek.", "Enogai was a major hub for the 'Tokyo Express' barge traffic.", "The surrounding Dragon's Peninsula is known for its rugged and unforgiving terrain.", "Remnants of Japanese barracks and bunkers are still scattered in the forest."],
     },
+    image: "/poi-images/solomonislands-enogai-inlet-history-v2.webp",
   },
   {
     id: "solomonislands-bairoko-harbor-history-v2",
@@ -775,6 +799,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Bătălia de la Bairoko a avut loc pe 20 iulie 1943, în timpul campaniei din New Georgia.", "Regimentul 1 Marine Raiders a suferit aproximativ 200 de victime în timpul asaltului eșuat.", "Forțele japoneze erau alcătuite în principal din elemente ale Regimentului 13 Infanterie.", "Trupele americane au mărșăluit aproximativ 13 kilometri prin junglă de la Rice Anchorage până la port.", "Defensiva japoneză era centrată pe fortificații construite în peșteri de corali greu de detectat.", "Japonezii au evacuat complet portul Bairoko în noaptea de 24 august 1943."],
       en: ["The Battle of Bairoko took place on July 20, 1943, as part of the New Georgia campaign.", "The U.S. 1st Marine Raider Regiment suffered nearly 200 casualties during the unsuccessful assault.", "Japanese defenders were primarily drawn from the Imperial Army's 13th Infantry Regiment.", "American forces marched approximately 8 miles (13 km) through dense jungle from Rice Anchorage to reach the harbor.", "Japanese troops utilized natural coral caves to house machine gun nests and defensive bunkers.", "The Japanese finally evacuated the Bairoko area on August 24, 1943, following the fall of Munda."],
     },
+    image: "/poi-images/solomonislands-bairoko-harbor-history-v2.webp",
   },
   {
     id: "solomonislands-wickham-anchorage-history-v2",
@@ -806,6 +831,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Debarcarea la Wickham Anchorage a început în dimineața zilei de 30 iunie 1943.", "Batalionul 4 Marine Raiders a fost unitatea principală care a executat asaltul amfibiu.", "Garnizoana japoneză era formată din aproximativ 300 de soldați bine poziționați.", "Marea agitată a cauzat pierderea sau avarierea mai multor barje de debarcare pe recifele de corali.", "Locația a fost transformată într-o bază vitală pentru aprovizionarea trupelor din New Georgia.", "Victimele americane au fost relativ puține (12 morți), în timp ce defensiva japoneză a fost practic anihilată."],
       en: ["The landing at Wickham Anchorage commenced on June 30, 1943, at approximately 06:35.", "The U.S. 4th Marine Raider Battalion spearheaded the amphibious assault on Vangunu.", "The Japanese garrison consisted of about 300 troops who provided stiff resistance from the jungle.", "Severe weather and navigational errors caused many landing craft to miss their designated beaches.", "Following the battle, the anchorage became a key refueling and supply stop for Allied vessels.", "American casualties included 12 killed and 21 wounded, while over 250 Japanese were confirmed dead."],
     },
+    image: "/poi-images/solomonislands-wickham-anchorage-history-v2.webp",
   },
   {
     id: "solomonislands-pavuvu-island-history-v2",
@@ -837,6 +863,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Divizia 1 de Infanterie Marină a SUA a sosit pe Pavuvu în mai 1944 pentru recuperare.", "Insula fusese anterior o plantație majoră administrată de concernul Lever Brothers.", "Milioane de crabi de pământ constituiau o problemă constantă pentru igiena și somnul soldaților.", "Antrenamentele pentru invazia insulei Peleliu s-au desfășurat în plantațiile de pe Pavuvu.", "Soldații au poreclit insula „Insula Nucilor de Cocos Putrezite” din cauza mirosului specific.", "Infrastructura militară includea sute de barăci Quonset și zone de depozitare masive."],
       en: ["The U.S. 1st Marine Division arrived on Pavuvu in May 1944 for post-combat rehabilitation.", "Before WWII, the island was a major coconut plantation owned by the firm Lever Brothers.", "Marines frequently had to deal with land crabs crawling into their bedding and equipment at night.", "Pavuvu served as the primary staging area for the assault on Peleliu in September 1944.", "The lack of proper sanitation and the damp environment caused widespread fungal infections among troops.", "Most of the military structures were dismantled or abandoned following the end of hostilities in 1945."],
     },
+    image: "/poi-images/solomonislands-pavuvu-island-history-v2.webp",
   },
   {
     id: "solomonislands-banika-island-history-v2",
@@ -868,6 +895,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Operațiunea Cleanslate pentru securizarea insulei Banika a început pe 21 februarie 1943.", "Unitățile Seabees au construit două aerodromuri operaționale în timp record.", "Pista de pe Banika Field a fost construită din corali compactați și avea peste 1.800 de metri.", "Insula a servit ca bază principală de antrenament și sprijin pentru peste 20.000 de soldați.", "Banika a găzduit una dintre cele mai mari baze de bărci PT din teatrul de operațiuni Solomon.", "Depozitele de pe insulă alimentau întreaga flotă de invazie pentru campania din New Georgia."],
       en: ["Operation Cleanslate for the occupation of Banika began on February 21, 1943.", "U.S. Navy Seabees constructed two separate airfields on the island in just a few weeks.", "Banika Field featured a coral runway approximately 6,000 feet long.", "At its peak, the island was home to more than 20,000 Allied military personnel.", "The island’s harbors supported a major PT boat base and maintenance facilities.", "Massive naval hospitals were established on Banika to treat casualties from the northern front."],
     },
+    image: "/poi-images/solomonislands-banika-island-history-v2.webp",
   },
   {
     id: "solomonislands-nusatupe-island-history-v2",
@@ -899,6 +927,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Nusatupe a fost utilizată ca bază de hidroavioane de către japonezi până în 1943.", "Insula se află la o distanță de aproximativ 2 kilometri est de Gizo.", "Aerodromul actual de pe Nusatupe a fost construit pe locul fostelor instalații militare.", "Coastwatchers au operat de pe această insulă pentru a monitoriza traficul din strâmtoarea Blackett.", "Insula este compusă în principal din corali, ceea ce a oferit o fundație solidă pentru pistă.", "În timpul războiului, Nusatupe a fost vizată de raiduri aeriene aliate frecvente."],
       en: ["Nusatupe served as a Japanese seaplane base prior to the Allied liberation in 1943.", "The island is situated approximately 2 kilometers (1.2 miles) east of Gizo Town.", "The current Gizo Airport occupies the flat, cleared areas used during the war.", "Coastwatchers utilized Nusatupe to report on Japanese 'Tokyo Express' missions.", "The island's coral base provided a stable foundation for postwar aviation development.", "Nusatupe was a frequent target for Allied bombing raids during the occupation of Gizo."],
     },
+    image: "/poi-images/solomonislands-nusatupe-island-history-v2.webp",
   },
   {
     id: "solomonislands-ballalae-island-history-v2",
@@ -930,6 +959,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Cei 517 prizonieri britanici au fost aduși pe insulă în noiembrie 1942.", "Documentele de după război au confirmat că niciun prizonier britanic de pe Ballalae nu a supraviețuit.", "Aerodromul a fost o bază majoră pentru avioanele japoneze care atacau Guadalcanal.", "Epavele de bombardiere G4M 'Betty' de pe insulă sunt printre cele mai bine conservate din lume.", "Ballalae a fost destinația finală planificată pentru zborul Amiralului Yamamoto în 1943.", "În prezent, insula este locuită doar sezonier, fiind un sit istoric protejat."],
       en: ["517 British POWs were transported to Ballalae in November 1942 for airfield construction.", "Not a single British prisoner survived the ordeal on Ballalae Island.", "The airfield was a primary base for Japanese air units during the Solomon Islands campaign.", "Over a dozen Mitsubishi G4M 'Betty' bombers remain in various states of decay on the island.", "Admiral Isoroku Yamamoto was en route to Ballalae when his plane was intercepted and shot down in 1943.", "A memorial plaque was installed on the island to commemorate the British soldiers who died there."],
     },
+    image: "/poi-images/solomonislands-ballalae-island-history-v2.webp",
   },
   {
     id: "solomonislands-faisi-island-history-v2",
@@ -961,6 +991,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Faisi a fost ocupată de forțele japoneze la începutul anului 1942.", "Insula a găzduit Grupul Aerian 14 al Marinei Imperiale Japoneze.", "Avioanele de tip 'Rufe' (varianta hidroavion a Zero-ului) operau frecvent de aici.", "Locația strategică a permis monitorizarea eficientă a strâmtorii Bougainville.", "Raidurile aliate din 1943 au vizat în mod specific depozitele de combustibil și stațiile radio.", "Există mai multe epave de nave de transport japoneze în apele din jurul insulei Faisi."],
       en: ["Faisi was occupied by Japanese forces in early 1942 to secure the Shortland Islands.", "The island was a primary station for the 14th Air Group of the Imperial Japanese Navy.", "Numerous 'Rufe' seaplanes (A6M2-N) were based here for local defense and scouting.", "Faisi's location provided a commanding view over the Bougainville Strait.", "Allied air raids in 1943 successfully destroyed much of the island's fuel storage capacity.", "Several Japanese merchant ship wrecks are located in the harbor, casualties of air attacks."],
     },
+    image: "/poi-images/solomonislands-faisi-island-history-v2.webp",
   },
   {
     id: "solomonislands-stirling-island-history-v2",
@@ -992,6 +1023,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Operațiunea Goodtime a început pe 27 octombrie 1943 pentru eliberarea insulelor Treasury.", "Stirling a fost prima insulă recuperată de trupele neozeelandeze în timpul celui de-al Doilea Război Mondial.", "Aerodromul de pe Stirling a fost finalizat de Seabees în doar 26 de zile de muncă intensă.", "Pista avea o lungime de aproximativ 1.800 de metri și era pavată cu corali zdrobiți.", "Faimoasa escadrilă 'Black Sheep', condusă de Pappy Boyington, a operat de pe Stirling Field.", "După 1945, mari cantități de echipament militar au fost abandonate sau aruncate în oceanul din jur."],
       en: ["Operation Goodtime for the liberation of the Treasury Islands began on October 27, 1943.", "Stirling Island was the first territory recaptured by New Zealand forces during WWII.", "The airfield on Stirling was constructed by U.S. Navy Seabees in only 26 days.", "The runway was approximately 6,000 feet long and surfaced with crushed coral.", "The island hosted Pappy Boyington's famous 'Black Sheep' squadron (VMF-214).", "Significant amounts of wartime equipment were scuttled in the waters around Stirling after the war."],
     },
+    image: "/poi-images/solomonislands-stirling-island-history-v2.webp",
   },
   {
     id: "solomonislands-mono-island-history-v2",
@@ -1023,6 +1055,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Debarcarea pe insula Mono a fost esențială pentru succesul invaziei din Bougainville.", "Aproximativ 4.000 de soldați neozeelandezi și 1.900 americani au participat la asalt.", "Garnizoana japoneză de pe Mono era estimată la 225 de militari.", "Luptele principale s-au concentrat în jurul localității Falamai.", "Mono a fost locul unde trupele Māori au intrat pentru prima dată în luptă în Pacific.", "Buncărele japoneze și posturile de observație sunt încă vizibile pe înălțimile insulei."],
       en: ["The landing on Mono Island was a key stepping stone for the invasion of Bougainville.", "Roughly 4,000 New Zealand and 1,900 U.S. troops participated in Operation Goodtime.", "The Japanese garrison on Mono consisted of approximately 225 personnel.", "Fierce fighting occurred near the village of Falamai during the initial landing phase.", "Mono was the first location where Māori soldiers saw combat in the Pacific theater.", "Remnants of Japanese coastal guns and defensive positions can still be found on the island."],
     },
+    image: "/poi-images/solomonislands-mono-island-history-v2.webp",
   },
   {
     id: "solomonislands-vella-lavella-history-v2",
@@ -1054,6 +1087,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Debarcarea aliată la Barakoma a început pe 15 august 1943.", "Prima undă de atac a fost formată din aproximativ 4.600 de militari americani.", "Insula a fost declarată securizată pe data de 9 octombrie 1943.", "Distrugătorul american USS Chevalier a fost scufundat în timpul bătăliei navale.", "Japonezii au pierdut distrugătorul Yūgumo în noaptea de 6 octombrie.", "Aerodromul de la Barakoma a fost construit de Seabees în doar 10 zile."],
       en: ["The Allied landing at Barakoma took place on August 15, 1943.", "Approximately 4,600 U.S. troops landed in the initial wave on Vella Lavella.", "The island was officially declared secured on October 9, 1943.", "The U.S. destroyer USS Chevalier was lost during the naval battle of Vella Lavella.", "The Japanese destroyer Yūgumo was sunk during the engagement on October 6, 1943.", "The Barakoma airfield was constructed by Seabees in a record time of 10 days."],
     },
+    image: "/poi-images/solomonislands-vella-lavella-history-v2.webp",
   },
   {
     id: "solomonislands-barakoma-airfield-history-v2",
@@ -1085,6 +1119,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Construcția aerodromului a demarat pe 15 august 1943, simultan cu debarcarea.", "Pista inițială avea o lungime de 1.100 de metri și era realizată din corali compactați.", "Escadrila 15 a Forțelor Aeriene ale Noii Zeelande a operat de pe acest aerodrom.", "Barakoma a fost ținta frecventă a raidurilor aeriene japoneze dinspre Bougainville.", "Aerodromul a servit drept punct de salvare pentru piloții care nu mai puteau ajunge la Munda.", "Până în octombrie 1943, baza găzduia peste 100 de avioane de vânătoare simultan."],
       en: ["Construction of the airfield began on August 15, 1943, during the initial landings.", "The original runway was approximately 3,500 feet long and surfaced with coral.", "The Royal New Zealand Air Force’s No. 15 Squadron was based at Barakoma.", "The airfield faced nearly daily Japanese air raids during its first few weeks of operation.", "Barakoma served as a vital emergency landing strip for planes damaged over Kolombangara.", "Within two months, the facility was expanded to include over 100 aircraft revetments."],
     },
+    image: "/poi-images/solomonislands-barakoma-airfield-history-v2.webp",
   },
   {
     id: "solomonislands-vila-airfield-history-v2",
@@ -1116,6 +1151,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Vila a fost bombardată intens de distrugătoarele americane pe 5 martie 1943.", "Pista era construită din corali și era utilizată în principal de avioanele de vânătoare.", "Distrugătoarele japoneze Murasame și Minegumo au fost scufundate în apropierea bazei Vila.", "Peste 10.000 de soldați japonezi au fost dislocați pe Kolombangara pentru apărarea acestui punct.", "Informațiile furnizate de Coastwatchers au fost esențiale pentru precizia bombardamentelor aliate.", "Mai multe epave de avioane Zero sunt încă prezente în vegetația din jurul pistei."],
       en: ["Vila was subjected to a massive naval bombardment by U.S. destroyers on March 5, 1943.", "The airfield featured a coral-surfaced runway tailored for fighters and light bombers.", "The Japanese destroyers Murasame and Minegumo were sunk off Vila during a 1943 engagement.", "Approximately 10,000 Japanese troops were stationed on Kolombangara to defend the airfield.", "Allied Coastwatchers played a critical role in reporting aircraft movements from Vila.", "Wrecks of Mitsubishi A6M Zero fighters are still scattered in the forest near the airfield site."],
     },
+    image: "/poi-images/solomonislands-vila-airfield-history-v2.webp",
   },
   {
     id: "solomonislands-blackett-strait-history-v2",
@@ -1147,6 +1183,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Barca PT-109 a fost lovită de distrugătorul japonez Amagiri pe 2 august 1943.", "John F. Kennedy a înotat alături de supraviețuitori până la insula Plum Pudding.", "Bătălia din strâmtoarea Blackett a avut loc în noaptea de 5 martie 1943.", "Forțele americane au utilizat controlul prin radar pentru a intercepta navele japoneze.", "Două distrugătoare japoneze au fost scufundate în această strâmtoare într-o singură noapte.", "Curenții din strâmtoare sunt printre cei mai puternici din zona Western Province."],
       en: ["PT-109 was rammed and sunk by the Japanese destroyer Amagiri on August 2, 1943.", "Future President John F. Kennedy swam for miles to lead his crew to safety on nearby islands.", "The Battle of Blackett Strait occurred on March 5, 1943, as a night engagement.", "U.S. forces utilized superior radar technology to ambush the Japanese destroyers.", "The Japanese vessels Murasame and Minegumo were destroyed during the 1943 battle.", "The strait reaches depths of over 1,000 feet (300 meters) in certain sections."],
     },
+    image: "/poi-images/solomonislands-blackett-strait-history-v2.webp",
   },
   {
     id: "solomonislands-kula-gulf-history-v2",
@@ -1178,6 +1215,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Bătălia din Golful Kula a avut loc în noaptea de 5-6 iulie 1943.", "Crucișătorul USS Helena a fost scufundat după ce a fost lovit de trei torpile japoneze.", "Japonezii au pierdut distrugătoarele Niizuki și Nagatsuki în timpul confruntării.", "Contraamiralul japonez Teruo Akiyama a pierit la bordul navei amiral Niizuki.", "Operațiunile de salvare a echipajului de pe Helena au durat câteva zile în ape ostile.", "Golful Kula rămâne unul dintre cele mai dens populate cimitire navale din Insulele Solomon."],
       en: ["The Battle of Kula Gulf took place on the night of July 5-6, 1943.", "The U.S. light cruiser USS Helena was sunk by three Japanese Long Lance torpedoes.", "Japanese losses included the destroyers Niizuki and Nagatsuki.", "Rear Admiral Teruo Akiyama was killed when his flagship, the Niizuki, was destroyed.", "Over 160 survivors of the USS Helena were eventually rescued after landing on Vella Lavella.", "The gulf is characterized by its deep waters, with many wrecks lying at significant depths."],
     },
+    image: "/poi-images/solomonislands-kula-gulf-history-v2.webp",
   },
   {
     id: "solomonislands-rice-anchorage-history-v2",
@@ -1209,6 +1247,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Debarcarea la Rice Anchorage a început în noaptea de 5 iulie 1943.", "Aproximativ 2.600 de militari aliați au fost debarcați în faza inițială a operațiunii.", "Terenul dificil a făcut ca distanța de câțiva kilometri până la Enogai să fie parcursă în zile.", "Artileria japoneză de pe insula vecină Kolombangara a vizat navele de debarcare.", "Rice Anchorage a funcționat ca singura verigă de aprovizionare pentru trupele din junglă.", "Zona este în prezent nelocuită, fiind acoperită de o junglă tropicală primară deasă."],
       en: ["The landing at Rice Anchorage commenced in the early hours of July 5, 1943.", "Approximately 2,600 Allied troops were put ashore during the initial operation.", "The march from Rice Anchorage to Enogai was delayed by nearly impassable swamp terrain.", "Japanese coastal guns on Kolombangara occasionally shelled the landing area.", "Small craft were used to shuttle supplies into the anchorage to support the inland advance.", "Rice Anchorage remains one of the most isolated historical sites in the New Georgia group."],
     },
+    image: "/poi-images/solomonislands-rice-anchorage-history-v2.webp",
   },
   {
     id: "solomonislands-savo-island-history-v2",
@@ -1240,6 +1279,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Ultima erupție majoră a vulcanului de pe Savo a avut loc între 1840 și 1850.", "Insula are un diametru de aproximativ 6 kilometri și o suprafață de 31 km².", "În bătălia de la Insula Savo din 1942, Aliații au pierdut patru crucișătoare grele.", "Savo se află în Iron Bottom Sound, un cimitir pentru zeci de nave de război scufundate.", "Păsările megapode își depun ouăle în gropi de până la 90 cm adâncime în cenușa caldă.", "Insula găzduiește numeroase izvoare termale și bazine de noroi clocotit în interior."],
       en: ["The last major volcanic eruption on Savo occurred between 1840 and 1850.", "The island has a diameter of about 6 kilometers and a total area of 31 km².", "In the Battle of Savo Island in 1942, the Allies lost four heavy cruisers in one night.", "Savo is located in the Iron Bottom Sound, home to dozens of WWII shipwrecks.", "Megapode birds lay their eggs in burrows up to 90 cm deep in the volcanic ash.", "The island features several hot springs and boiling mud pools in its interior."],
     },
+    image: "/poi-images/solomonislands-savo-island-history-v2.webp",
   },
   {
     id: "solomonislands-rennell-island-history-v2",
@@ -1271,6 +1311,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Rennell are o lungime de aproximativ 86 km și o lățime medie de 15 km.", "Lacul Tegano acoperă circa 15.500 de hectare, fiind cel mai mare din Pacific.", "Insula a fost inclusă în UNESCO în 1998, dar este pe lista celor în pericol din 2013.", "Există 11 specii de păsări endemice pe Rennell, inclusiv evantaiul de Rennell.", "Locuitorii vorbesc rennelleza, o limbă polineziană păstrată în mijlocul Melaneziei.", "Faleza de corali a insulei se ridică până la 200 de metri deasupra nivelului mării."],
       en: ["Rennell is approximately 86 kilometers long and 15 kilometers wide on average.", "Lake Tegano covers about 15,500 hectares, making it the largest lake in the Pacific.", "The island was listed as a UNESCO site in 1998 and added to the Danger list in 2013.", "There are 11 endemic bird species on Rennell, including the Rennell Fantail.", "The residents speak Rennellese, a Polynesian outlier language in Melanesia.", "The island's coral limestone cliffs rise up to 200 meters above sea level."],
     },
+    image: "/poi-images/solomonislands-rennell-island-history-v2.webp",
   },
   {
     id: "solomonislands-graciosa-bay-history-v2",
@@ -1302,6 +1343,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Golful Graciosa a fost numit astfel de expediția lui Mendaña în 1595.", "Álvaro de Mendaña a murit aici de malarie la 18 octombrie 1595.", "Isabel Barreto a devenit prima femeie amiral după moartea soțului ei în golf.", "Arheologii au descoperit ceramică spaniolă din secolul XVI în apropierea golfului.", "Golful are o lungime de aproximativ 5 km și oferă un port natural adânc.", "Aeroportul modern Santa Cruz este situat imediat la est de golf."],
       en: ["Graciosa Bay was named by the Mendaña expedition in 1595.", "Álvaro de Mendaña died here of malaria on October 18, 1595.", "Isabel Barreto became the first female fleet commander after Mendaña's death.", "Archaeologists discovered 16th-century Spanish ceramics here in 1970.", "The bay is approximately 5 kilometers long and provides a deep natural harbor.", "The modern Santa Cruz Airport is located immediately to the east of the bay."],
     },
+    image: "/poi-images/solomonislands-graciosa-bay-history-v2.webp",
   },
   {
     id: "solomonislands-poha-cave-history-v2",
@@ -1333,6 +1375,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Peștera Poha este situată la aproximativ 10 kilometri vest de Honiara.", "Datarea cu radiocarbon atestă o locuire de cel puțin 6.000 de ani.", "Pereții peșterii prezintă peste 100 de motive gravate diferite.", "Descoperirile includ topoare de piatră șlefuite și fragmente de scoici prelucrate.", "Numele 'Vatuluma Posovi' se traduce prin 'Peștera cu Desene' în limba locală.", "Peștera a fost un loc de refugiu crucial în timpul campaniei din Guadalcanal."],
       en: ["Poha Cave is situated approximately 10 kilometers west of Honiara.", "Radiocarbon dating indicates human occupation from at least 6,000 years ago.", "The cave walls feature over 100 distinct engraved motifs and symbols.", "Archaeological finds include polished stone adzes and shell artifacts.", "The name 'Vatuluma Posovi' translates to 'Cave of Drawings' in the local dialect.", "The cave was a vital strategic hiding place during the Battle of Guadalcanal."],
     },
+    image: "/poi-images/solomonislands-poha-cave-history-v2.webp",
   },
   {
     id: "solomonislands-pamua-ruins-history-v2",
@@ -1364,6 +1407,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Ruinele Pamua sunt situate pe coasta de nord-est a insulei Makira.", "Nava 'Santa Isabel' a dispărut la 7 septembrie 1595 cu 182 de oameni la bord.", "Arheologii au descoperit peste 3.000 de fragmente de ceramică în sit.", "Zidurile de piatră sunt construite din calcar de corali și bazalt local.", "Unele piese ceramice au fost identificate ca fiind 'majolică' spaniolă.", "Situl a fost investigat sistematic pentru prima dată în anii 1970."],
       en: ["The Pamua Ruins are located on the northeast coast of Makira Island.", "The 'Santa Isabel' disappeared on September 7, 1595, with 182 people on board.", "Archaeologists recovered over 3,000 pottery sherds from the site.", "The stone walls are constructed from coral limestone and local basalt.", "Some ceramic pieces were identified as 16th-century Spanish 'majolica'.", "The site was first systematically investigated in the 1970s."],
     },
+    image: "/poi-images/solomonislands-pamua-ruins-history-v2.webp",
   },
   {
     id: "solomonislands-lambeti-history-v2",
@@ -1395,6 +1439,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Lambeti este situat direct lângă aerodromul actual din Munda.", "Căpeteniile Roviana își păstrau aici marile canoe de război 'Tomoko'.", "Misionarul John Frances Goldie a fondat misiunea din apropiere în 1902.", "Zona a fost eliberată de pușcașii marini americani în august 1943.", "Există un mic muzeu în Lambeti cu artefacte din perioada vânătorii de capete.", "Regiunea este celebră pentru 'moneda din scoici' utilizată în trecut."],
       en: ["Lambeti is located directly adjacent to the modern Munda airfield.", "Roviana chiefs once housed their massive 'Tomoko' war canoes here.", "Missionary John Frances Goldie established the nearby mission in 1902.", "The area was liberated by US Marines in August 1943 after fierce fighting.", "A small museum in Lambeti displays artifacts from the headhunting era.", "The region is famous for traditional shell money used in local customs."],
     },
+    image: "/poi-images/solomonislands-lambeti-history-v2.webp",
   },
   {
     id: "solomonislands-point-cruz-monument-history-v2",
@@ -1426,6 +1471,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Point Cruz este zona portuară naturală a capitalei Honiara.", "Mendaña a numit insulele după regele biblic Solomon.", "Crucea originală ridicată în 1568 nu mai există în prezent.", "Monumentul actual a fost ridicat la cea de-a 400-a aniversare a debarcării.", "Point Cruz a fost un punct vital de aprovizionare în al Doilea Război Mondial.", "În apropiere se află principalele clădiri guvernamentale din Insulele Solomon."],
       en: ["Point Cruz is the natural harbor area of the capital city, Honiara.", "Mendaña named the islands after the biblical King Solomon.", "The original wooden cross erected in 1568 no longer exists.", "The current monument was built to mark the 400th anniversary of the landing.", "Point Cruz served as a critical supply landing point during World War II.", "The landmark is situated near the Solomon Islands' government buildings."],
     },
+    image: "/poi-images/solomonislands-point-cruz-monument-history-v2.webp",
   },
   {
     id: "solomonislands-tikopia-ancient-history-v2",
@@ -1457,6 +1503,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Tikopia are o suprafață de doar 5 km², dar găzduiește aproximativ 1.200 de oameni.", "Cele patru clanuri conducătoare sunt Tafua, Kafika, Taumako și Fangarere.", "În centrul insulei se află lacul de crater numit Te Roto.", "Insula a fost grav devastată de ciclonul Zoe în anul 2002.", "Tradițional, Tikopia a fost aproape complet autosuficientă până în secolul XX.", "Limba tikopiană este o limbă polineziană, înrudită cu cea samoană."],
       en: ["Tikopia covers only 5 km² but supports a population of about 1,200 people.", "The four paramount chiefdoms are Tafua, Kafika, Taumako, and Fangarere.", "The center of the island features a large crater lake named Te Roto.", "The island was significantly devastated by Category 5 Cyclone Zoe in 2002.", "Historically, Tikopia remained almost entirely self-sufficient until the 1900s.", "The Tikopian language is a Polynesian outlier tongue related to Samoan."],
     },
+    image: "/poi-images/solomonislands-tikopia-ancient-history-v2.webp",
   },
   {
     id: "solomonislands-simbo-island-history-v2",
@@ -1488,6 +1535,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Simbo este compusă din conurile vulcanice South Hill și Patukio.", "Ultimul cutremur major a avut loc la data de 2 aprilie 2007.", "Observatorii de păsări apreciază Simbo pentru populațiile rare de megapode.", "Izvoarele termale de la Lacul Lovo sunt folosite pentru gătitul alimentelor.", "Simbo a fost un punct de sprijin important pentru balenieri în secolul XIX.", "Dansurile tradiționale din Simbo folosesc adesea tobe și fluiere din bambus."],
       en: ["Simbo is formed by the volcanic cones of South Hill and Patukio.", "The last catastrophic earthquake occurred on April 2, 2007.", "Birdwatchers value Simbo for its unique populations of megapode birds.", "Hot springs near Lake Lovo are traditionally used for cooking food.", "Simbo was a strategic resupply station for whalers during the 19th century.", "Traditional Simbo dances frequently incorporate drums and bamboo flutes."],
     },
+    image: "/poi-images/solomonislands-simbo-island-history-v2.webp",
   },
   {
     id: "solomonislands-langa-langa-lagoon-history-v2",
@@ -1519,6 +1567,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Laguna se întinde pe o lungime de aproximativ 21 de kilometri.", "Există peste 50 de insule artificiale în cadrul lagunei Langa Langa.", "Moneda din scoici este fabricată din carapacea scoicii Spondylus.", "Insula Sulufou este una dintre cele mai cunoscute insule artificiale.", "Un set de monedă din scoici poate valora câteva mii de dolari.", "În trecut, laguna a fost un refugiu în fața războaielor tribale din interior."],
       en: ["The lagoon stretches over a distance of approximately 21 kilometers.", "There are over 50 inhabited artificial islands within Langa Langa Lagoon.", "Traditional shell money is made from the shells of the Spondylus mollusk.", "Sulufou is among the most famous and oldest of the artificial islands.", "A full set of shell money can be valued at several thousand dollars.", "The lagoon provided a strategic sanctuary during historical inland tribal wars."],
     },
+    image: "/poi-images/solomonislands-langa-langa-lagoon-history-v2.webp",
   },
   {
     id: "solomonislands-kwaio-district-history-v2",
@@ -1550,6 +1599,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Kwaio este unul dintre puținele locuri unde religia strămoșilor este încă vie.", "Masacrul lui Bell a avut loc la data de 4 octombrie 1927 în Sinerata.", "Preoții sacrifică porci în locuri sacre pentru a îmbuna strămoșii (Adalo).", "Districtul găzduiește o biodiversitate excepțională în pădurile montane.", "Limba kwaio are mai multe dialecte, inclusiv kwaio de munte.", "Există reguli stricte de tabu privind separarea bărbaților de femei."],
       en: ["Kwaio is one of the few regions where ancestral religion is still actively practiced.", "The Bell Massacre took place on October 4, 1927, at Sinerata.", "Ritual priests sacrifice pigs at sacred shrines to appease ancestors (Adalo).", "The district contains significant biodiversity within its high-altitude forests.", "The Kwaio language consists of several dialects, including Highland Kwaio.", "Strict taboo laws govern the physical separation of men and women in villages."],
     },
+    image: "/poi-images/solomonislands-kwaio-district-history-v2.webp",
   },
   {
     id: "solomonislands-lunga-river-history-v2",
@@ -1581,6 +1631,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Râul Lunga izvorăște din munții din centrul insulei Guadalcanal.", "Lunga Point a fost locul primului sediu al pușcașilor marini americani.", "Bătălia de la râul Lunga a provocat sute de victime în rândul trupelor.", "Zona din jurul râului a fost ocupată de americani în august 1942.", "Râul produce inundații extreme în timpul cicloanelor tropicale.", "În apropierea gurii de vărsare se află astăzi o zonă industrială importantă."],
       en: ["The Lunga River originates in the mountains of central Guadalcanal.", "Lunga Point was the site of the first US Marine headquarters on the island.", "The battle near the river's mouth resulted in hundreds of casualties.", "The area around the river was secured by US forces in August 1942.", "The river is prone to extreme flash flooding during tropical storms.", "A major industrial zone for Honiara is now located near the river mouth."],
     },
+    image: "/poi-images/solomonislands-lunga-river-history-v2.webp",
   },
   {
     id: "solomonislands-point-cruz-lighthouse-history-v2",
@@ -1612,6 +1663,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Farul marchează intrarea în principalul port din Honiara.", "Point Cruz este o peninsulă extinsă artificial în centrul orașului.", "Semnalul luminos al turnului este vizibil de la câteva mile marine.", "În al Doilea Război Mondial, Point Cruz a fost locul unor lupte de infanterie.", "Farul este administrat de Autoritatea Maritimă a Insulelor Solomon.", "Șantierul naval adiacent este cel mai mare din întregul stat insular."],
       en: ["The lighthouse marks the primary approach to Honiara’s main wharf.", "Point Cruz is a partially reclaimed peninsula in the city center.", "The lighthouse beam is visible for several nautical miles out at sea.", "Point Cruz was the site of significant infantry clashes in late 1942.", "The facility is maintained by the Solomon Islands Maritime Authority.", "The adjacent port area handles over 90% of the nation's international trade."],
     },
+    image: "/poi-images/solomonislands-point-cruz-lighthouse-history-v2.webp",
   },
   {
     id: "solomonislands-kia-village-history-v2",
@@ -1643,6 +1695,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Kia este accesibil doar cu barca sau prin poteci foarte dificile.", "Locuitorii vorbesc dialectul Kia, parte a grupului lingvistic Zabana.", "Satul este renumit pentru dansurile sale de război numite 'Zaira'.", "În trecut, existau peșteri secrete de refugiu în stâncile din spatele satului.", "Kia se află în apropierea strâmtorii Manning, bogată în resurse piscicole.", "Biserica din sat este principalul loc de întâlnire pentru comunitate."],
       en: ["Kia is accessible primarily by boat due to its remote coastal location.", "The residents speak the Kia dialect, part of the Zabana language group.", "The village is celebrated for its traditional 'Zaira' warrior dances.", "Historically, secret limestone caves provided refuge during headhunting raids.", "Kia is situated near the Manning Strait, known for its high marine diversity.", "The local Anglican church serves as the spiritual and social heart of Kia."],
     },
+    image: "/poi-images/solomonislands-kia-village-history-v2.webp",
   },
   {
     id: "solomonislands-matanikau-falls-history-v2",
@@ -1674,6 +1727,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Cascada Matanikau este formată din două trepte care cad într-un bazin adânc.", "Peșterile Matanikau au adăpostit sute de soldați japonezi în timpul războiului.", "O drumeție până la cascadă durează aproximativ 3-4 ore din Honiara.", "Râul Matanikau împarte orașul Honiara într-o parte vestică și una estică.", "În peșteri au fost descoperite numeroase rămășițe osoase arheologice.", "Cascada oferă un spectacol natural impresionant mai ales după sezonul ploios."],
       en: ["The falls feature a dramatic double drop into a deep turquoise pool.", "The Matanikau Caves served as a primary Japanese headquarters during the war.", "Reaching the falls involves a challenging 3 to 4-hour trek from Honiara.", "The Matanikau River serves as a major geographic boundary in Honiara.", "Archaeological remains, including ancient bones, have been found in the caves.", "The falls reach their maximum volume during the tropical wet season."],
     },
+    image: "/poi-images/solomonislands-matanikau-falls-history-v2.webp",
   },
   {
     id: "solomonislands-tetere-convoy-history-v2",
@@ -1705,6 +1759,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Peste 200 de vehicule amfibii LVT au fost staționate și ulterior abandonate la Tetere.", "Abandonarea oficială a vehiculelor a avut loc în anul 1945, după capitularea Japoniei.", "Zona a fost sediul Batalionului 2 Tractoare Amfibii al Marinei Statelor Unite.", "Printre rămășițe se află modele rare de LVT-1, fabricate începând cu anul 1942.", "Situl arheologic industrial este situat la aproximativ 30 km est de Honiara.", "Coroziunea marină și vegetația au transformat vehiculele în structuri fragile în ultimele decenii."],
       en: ["More than 200 LVT amphibious vehicles were originally abandoned at the Tetere site.", "The decision to leave the equipment behind was made in 1945 due to excessive shipping costs.", "The area served as the headquarters for the US Marine Corps 2nd Amphibian Tractor Battalion.", "The remains include early LVT-1 models, which were first produced in 1942.", "The memorial is located approximately 30 kilometers east of the capital city, Honiara.", "Tropical weathering and saltwater spray have caused extensive corrosion to the steel hulls since WWII."],
     },
+    image: "/poi-images/solomonislands-tetere-convoy-history-v2.webp",
   },
   {
     id: "solomonislands-shortland-islands-history-v2",
@@ -1736,6 +1791,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Forțele japoneze au ocupat oficial Insulele Shortland la 30 martie 1942.", "Portul a servit drept punct de adunare pentru flota japoneză înaintea Bătăliei din Marea Coralilor.", "Insula Poporang a găzduit o bază importantă pentru hidroavioanele Kawanishi H6K.", "Forțele aeriene aliate au efectuat peste 100 de raiduri documentate asupra insulelor între 1943 și 1944.", "Arhipelagul nu a fost niciodată invadat prin debarcare terestră de către Aliați.", "Lagunele din jurul insulelor conțin numeroase epave de distrugătoare japoneze scufundate."],
       en: ["Japanese forces officially occupied the Shortland Islands on March 30, 1942.", "Shortland Harbor was a primary assembly point for the Japanese fleet before the Battle of the Coral Sea.", "Poporang Island was home to a major base for Kawanishi H6K flying boats.", "Allied air forces carried out over 100 documented bombing raids on the islands between 1943 and 1944.", "The islands were never taken by Allied ground forces, remaining in Japanese hands until the surrender.", "The surrounding waters contain the remains of several Japanese destroyers and merchant ships."],
     },
+    image: "/poi-images/solomonislands-shortland-islands-history-v2.webp",
   },
   {
     id: "solomonislands-reko-river-history-v2",
@@ -1767,6 +1823,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Luptele de la râul Reko au avut loc predominant în lunile ianuarie și februarie 1943.", "Râul este situat pe coasta de nord-est a insulei Guadalcanal.", "Unitățile japoneze au stabilit o zonă tampon aici pentru a proteja evacuarea trupelor.", "Armata SUA a utilizat baraje de artilerie intense în acest sector pentru a tăia calea inamicului.", "Se estimează că peste 70% dintre combatanții din această zonă erau afectați de boli tropicale.", "Zona Reko reprezintă unul dintre ultimele bastioane ale rezistenței japoneze de pe insulă."],
       en: ["The most intense fighting at Reko River occurred in January and February 1943.", "The river is situated on the northeastern coast of Guadalcanal, east of Henderson Field.", "Japanese units established a buffer zone here to cover the evacuation of 10,000 troops.", "The US Army utilized heavy artillery barrages to disrupt Japanese movements near the river.", "Historical reports suggest over 70% of the troops in this sector suffered from malaria or beriberi.", "The Reko River was one of the final defensive perimeters before the total Japanese withdrawal."],
     },
+    image: "/poi-images/solomonislands-reko-river-history-v2.webp",
   },
   {
     id: "solomonislands-honiara-cenotaph-history-v2",
@@ -1798,6 +1855,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Cenotaful este amplasat pe Bulevardul Mendana, aproape de malul mării în Honiara.", "Ceremonia oficială de Ziua ANZAC are loc aici în fiecare an pe 25 aprilie.", "Monumentul recunoaște oficial rolul Corpului de Muncă din Insulele Solomon.", "Plăcile comemorative includ numele militarilor din Commonwealth căzuți în lupte.", "Situl a fost renovat extensiv pentru a marca cea de-a 75-a aniversare a campaniei.", "Este considerat punctul central al diplomației de comemorare din Pacificul de Sud."],
       en: ["The Cenotaph is located on Mendana Avenue, near the waterfront in Honiara.", "Official ANZAC Day dawn services are held here annually on April 25th.", "The memorial specifically honors the Solomon Islands Labour Corps for their war effort.", "It features plaques listing members of the Commonwealth forces who died in the region.", "The site underwent significant restoration for the 75th anniversary of the Guadalcanal landing.", "It serves as a key location for reconciliation ceremonies between US and Japanese officials."],
     },
+    image: "/poi-images/solomonislands-honiara-cenotaph-history-v2.webp",
   },
   {
     id: "solomonislands-vella-gulf-history-v2",
@@ -1829,6 +1887,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Bătălia din Golful Vella a avut loc în noaptea de 6 august 1943.", "Trei distrugătoare japoneze (Hagikaze, Arashi, Kawakaze) au fost scufundate.", "Peste 1.000 de militari japonezi au pierit în urma exploziilor și scufundării navelor.", "Grupul de luptă american nu a suferit nicio pierdere umană sau materială.", "A fost prima victorie navală a SUA realizată exclusiv prin atacul cu torpile.", "Tehnologia radar a permis detectarea navelor japoneze la o distanță de peste 10 km."],
       en: ["The Battle of Vella Gulf took place on the night of August 6, 1943.", "Three Japanese destroyers (Hagikaze, Arashi, and Kawakaze) were sunk during the action.", "More than 1,000 Japanese sailors and soldiers were lost in the engagement.", "The U.S. task group suffered zero casualties and zero ship damage.", "It marked the first time U.S. destroyers operated independently to win a night action.", "Radar allowed the U.S. ships to track the Japanese at a distance of nearly 18,000 yards."],
     },
+    image: "/poi-images/solomonislands-vella-gulf-history-v2.webp",
   },
   {
     id: "solomonislands-marovo-lagoon-history-v2",
@@ -1860,6 +1919,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Laguna Marovo acoperă o suprafață de aproximativ 700 de kilometri pătrați.", "Donald Kennedy a menținut postul de observație de la Seghe pe parcursul anului 1942.", "Un aerodrom strategic a fost construit la Seghe în doar 10 zile în iunie 1943.", "Numeroase epave de hidroavioane PBY Catalina sunt vizibile în apele lagunei.", "Populația locală a format o forță de poliție armată pentru a sprijini Aliații.", "Situl este propus pentru includerea în Patrimoniul Mondial UNESCO."],
       en: ["Marovo Lagoon covers an area of approximately 700 square kilometers.", "Donald Kennedy operated the Coastwatcher post at Seghe throughout 1942 and 1943.", "A strategic airfield was rapidly constructed at Seghe in June 1943 to support the invasion.", "The lagoon contains several well-preserved wrecks of PBY Catalina flying boats.", "Local Solomon Islanders provided critical intelligence that led to the sinking of many Japanese barges.", "The site is currently on the UNESCO tentative list for World Heritage status."],
     },
+    image: "/poi-images/solomonislands-marovo-lagoon-history-v2.webp",
   },
   {
     id: "solomonislands-santa-isabel-landing-history-v2",
@@ -1891,6 +1951,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Santa Isabel este cea mai lungă insulă din arhipelagul Solomon.", "Japonezii au stabilit o bază de hidroavioane în Golful Rekata în 1942.", "Golful Rekata a fost ținta a zeci de atacuri cu bombardiere în picaj americane.", "Insula a funcționat ca o placă turnantă pentru sistemul japonez de aprovizionare cu barje.", "Misiunile de recunoaștere aliate au fost conduse adesea de ghizi locali din Santa Isabel.", "Ultimele forțe japoneze s-au retras de pe insulă spre sfârșitul anului 1943."],
       en: ["Santa Isabel is the longest island in the Solomon Islands chain.", "A major Japanese seaplane base was established at Rekata Bay on the northern coast.", "Allied Coastwatchers provided information that led to frequent SBD Dauntless strikes on Rekata.", "The island was a primary hub for the Japanese night-time barge supply network.", "Native scouts played a decisive role in identifying Japanese coastal positions.", "Most Japanese forces evacuated their main positions on the island by late 1943."],
     },
+    image: "/poi-images/solomonislands-santa-isabel-landing-history-v2.webp",
   },
   {
     id: "solomonislands-rendova-island-history-v2",
@@ -1922,6 +1983,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Debarcarea SUA pe Rendova a început la data de 30 iunie 1943.", "Aproximativ 6.000 de soldați americani au fost debarcați în prima zi.", "Tunuri grele de 155 mm, poreclite 'Long Toms', au fost instalate pentru a bombarda Munda.", "Un atac aerian japonez major pe 2 iulie 1943 a cauzat pierderi grele în rândul trupelor de pe plajă.", "Insula Lumbari din Golful Rendova a fost baza operativă pentru escadrila de vedete PT.", "Vârful vulcanic al insulei are o înălțime de 1.039 de metri."],
       en: ["The U.S. landing on Rendova commenced on June 30, 1943.", "Approximately 6,000 U.S. troops were landed on the first day of the operation.", "Heavy 155mm 'Long Tom' artillery pieces were deployed on the island to shell Munda Point.", "A devastating Japanese air raid on July 2, 1943, caused significant casualties among U.S. forces.", "Lumbari Island within Rendova Harbor served as a vital PT boat base.", "Mount Rendova, reaching 1,039 meters, provided a strategic observation post for the military."],
     },
+    image: "/poi-images/solomonislands-rendova-island-history-v2.webp",
   },
   {
     id: "solomonislands-blanche-channel-history-v2",
@@ -1953,6 +2015,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Canalul Blanche are o lățime de aproximativ 8 kilometri în punctul cel mai îngust.", "Prima flotă de invazie americană a traversat canalul pe 30 iunie 1943.", "Nava USS McCawley a fost scufundată în aceste ape în timpul operațiunilor din 1943.", "Bateriile de coastă japoneze de la Munda au hărțuit constant navele din canal.", "Vizibilitatea subacvatică în canal depășește frecvent 30 de metri.", "Canalul separă Insula Rendova de Insula New Georgia."],
       en: ["Blanche Channel is approximately 5 miles (8 km) wide at its narrowest point.", "The first wave of U.S. invasion forces crossed the channel on June 30, 1943.", "The flagship USS McCawley was lost in Blanche Channel following a series of attacks in 1943.", "Japanese coastal batteries at Munda Point frequently shelled Allied ships in the channel.", "The channel floor contains numerous aircraft remains, including SBD Dauntless bombers.", "It serves as the primary maritime route connecting Munda with the Southern Solomon islands."],
     },
+    image: "/poi-images/solomonislands-blanche-channel-history-v2.webp",
   },
   {
     id: "solomonislands-ferguson-passage-history-v2",
@@ -1984,6 +2047,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Coliziunea dintre PT-109 și Amagiri a avut loc în jurul orei 02:00 dimineața.", "Pasajul Ferguson separă insulele Gizo și Kolombangara.", "J.F. Kennedy a înotat câteva ore în pasaj, trăgând după el un marinar rănit.", "Curenții din strâmtoare pot fi extrem de puternici, făcând înotul epuizant.", "Mesajul salvator a fost scrijelit pe o coajă de nucă de cocos de către Kennedy.", "În 2002, o expediție condusă de Robert Ballard a localizat resturile epavei PT-109."],
       en: ["The collision between PT-109 and Amagiri occurred at approximately 2:00 AM.", "Ferguson Passage is located between the islands of Gizo and Kolombangara.", "John F. Kennedy swam for miles in the passage while towing an injured crewman.", "Tidal currents in the passage can exceed 3 knots, complicating night navigation.", "The coconut shell used to summon help was later kept as a paperweight by President Kennedy.", "The remains of PT-109 were discovered in the vicinity by Robert Ballard in May 2002."],
     },
+    image: "/poi-images/solomonislands-ferguson-passage-history-v2.webp",
   },
   {
     id: "solomonislands-choiseul-raid-memorial-history-v2",
@@ -2015,6 +2079,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Operațiunea Blissful a început pe data de 28 octombrie 1943.", "Locotenent-colonelul Victor Krulak a fost decorat cu Navy Cross pentru acest raid.", "Pușcașii marini au distrus aproximativ 180.000 de litri de combustibil inamic.", "Diversiunea a reușit să atragă trupe japoneze de pe Bougainville spre Choiseul.", "Forța americană a fost evacuată în siguranță pe 3 noiembrie 1943.", "Memorialul este situat în Provincia Choiseul, în apropiere de coasta de vest."],
       en: ["Operation Blissful commenced on October 28, 1943.", "Lt. Col. Victor Krulak was awarded the Navy Cross for his leadership during the raid.", "U.S. Marines destroyed approximately 48,000 gallons of Japanese fuel supplies.", "The diversion successfully convinced the Japanese that a full division had landed.", "A total of 10 Marines were killed during the week-long operation.", "The raid remains one of the most successful U.S. diversionary tactics of WWII."],
     },
+    image: "/poi-images/solomonislands-choiseul-raid-memorial-history-v2.webp",
   },
   {
     id: "solomonislands-vilu-p-38-wreck-history-v2",
@@ -2046,6 +2111,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Muzeul Vilu este situat la aproximativ 25 km vest de capitala Honiara.", "Avionul P-38 Lightning putea atinge o viteză de peste 660 km/h.", "Epava de la Vilu păstrează încă elemente din fuselajul original din duraluminiu.", "P-38 a fost singurul avion de vânătoare produs pe tot parcursul participării SUA la război.", "Tunul de 20 mm din botul avionului era capabil să distrugă nave mici și avioane.", "Situl muzeului găzduiește și resturi ale bombardierelor japoneze Mitsubishi G4M."],
       en: ["The Vilu War Museum is located about 25 kilometers west of Honiara.", "The P-38 Lightning featured a top speed of over 414 mph (660 km/h).", "The wreck at Vilu is a rare surviving example recovered from the Guadalcanal jungle.", "The P-38 was the primary aircraft used in the 1943 mission to shoot down Admiral Yamamoto.", "Its concentrated nose armament allowed for highly accurate and lethal fire.", "The museum site also contains several Japanese Type 96 25mm anti-aircraft guns."],
     },
+    image: "/poi-images/solomonislands-vilu-p-38-wreck-history-v2.webp",
   },
   {
     id: "solomonislands-vella-lavella-memorial-history-v2",
@@ -2077,6 +2143,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Debarcările pe Vella Lavella au început la 15 august 1943.", "Divizia a 3-a din Noua Zeelandă a condus asaltul final în septembrie 1943.", "Japonezii au evacuat cu succes 589 de soldați în noaptea de 6 octombrie 1943.", "A fost prima campanie majoră pentru trupele terestre neozeelandeze în Solomon.", "Memorialul este un simbol al legăturilor istorice dintre Noua Zeelandă și Insulele Solomon.", "După eliberare, insula a devenit o bază majoră pentru avioanele de vânătoare F4U Corsair."],
       en: ["Allied landings on Vella Lavella began on August 15, 1943.", "The 3rd New Zealand Division took over frontline duties in September 1943.", "The Japanese successfully evacuated 589 personnel during the naval battle off the coast.", "The campaign marked the first significant use of New Zealand ground forces in the Solomons.", "The memorial site was established to honor the fallen from the 14th and 35th Battalions.", "Following its capture, the island hosted a strategic airfield at Barakoma."],
     },
+    image: "/poi-images/solomonislands-vella-lavella-memorial-history-v2.webp",
   },
   {
     id: "solomonislands-treasure-islands-history-v2",
@@ -2108,6 +2175,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Operațiunea Goodtime a fost lansată pe 27 octombrie 1943.", "Forța de invazie a inclus 3.400 de neozeelandezi și 1.900 de americani.", "Aerodromul de pe insula Stirling a fost finalizat în noiembrie 1943.", "Mono a fost prima insulă eliberată exclusiv de forțe din Commonwealth în această zonă.", "Peste 200 de soldați japonezi au fost uciși în timpul luptelor pentru Mono.", "Situl este astăzi renumit pentru diversitatea coralilor și a vieții marine."],
       en: ["Operation Goodtime commenced on October 27, 1943.", "The landing force consisted of 3,400 New Zealanders and 1,900 Americans.", "The Stirling Island airfield was operational by early November 1943.", "Mono was the first island in the Solomon chain to be retaken by New Zealand forces.", "Approximately 200 Japanese soldiers were killed during the defense of the islands.", "The airfield on Stirling was a critical base for Allied strikes against the fortress at Rabaul."],
     },
+    image: "/poi-images/solomonislands-treasure-islands-history-v2.webp",
   },
   {
     id: "solomonislands-tulagi-blue-beach-monument-history-v2",
@@ -2139,6 +2207,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Debarcarea pe Plaja Blue a avut loc la ora 08:00 pe 7 august 1942.", "Tulagi a servit drept capitală a Protectoratului Britanic până la invazia japoneză.", "Pușcașii marini au fost conduși de colonelul Merritt A. Edson, un erou decorat.", "Peste 350 de apărători japonezi au pierit în timpul asediului de trei zile.", "Plaja Blue a fost aleasă pentru adâncimea apei și accesibilitatea la port.", "Există o rețea vastă de peșteri deasupra plajei care adăposteau baterii de tunuri."],
       en: ["Landings at Blue Beach commenced at 8:00 AM on August 7, 1942.", "Tulagi was the administrative capital of the British Solomons before 1942.", "The 1st Marine Raider Battalion was led by the legendary Colonel Merritt Edson.", "Out of 350 Japanese defenders on Tulagi, only three were taken prisoner.", "Blue Beach was one of the first locations in the world to experience a modern amphibious assault.", "The marker is located on the western side of the island, facing the Ironbottom Sound."],
     },
+    image: "/poi-images/solomonislands-tulagi-blue-beach-monument-history-v2.webp",
   },
   {
     id: "solomonislands-honiara-historical-museum-history-v2",
@@ -2170,6 +2239,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Muzeul a fost fondat în anul 1969 de către administrația colonială britanică.", "Deține o colecție de peste 3.000 de obiecte de inventar cultural și istoric.", "Este situat pe Bulevardul Mendana, principala arteră comercială din Honiara.", "Din anul 1978, este instituția centrală pentru identitatea națională a statului.", "Găzduiește replici ale unor case tradiționale din diverse provincii insulare.", "Include o expoziție în aer liber cu piese de artilerie din al Doilea Război Mondial."],
       en: ["The museum was officially opened to the public in 1969.", "It houses a collection of more than 3,000 significant cultural artifacts.", "Located on Mendana Avenue, it is easily accessible in central Honiara.", "The institution played a key role during the independence celebrations in 1978.", "Exhibits include traditional shell money used in the Temotu and Malaita provinces.", "The open-air section features Japanese and US military relics from 1942."],
     },
+    image: "/poi-images/solomonislands-honiara-historical-museum-history-v2.webp",
   },
   {
     id: "solomonislands-alligator-creek-memorial-history-v2",
@@ -2201,6 +2271,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Bătălia de la Tenaru a avut loc în data de 21 august 1942.", "Forțele japoneze au fost conduse de colonelul Kiyonao Ichiki.", "Aproximativ 900 de soldați japonezi au participat la asaltul inițial.", "Pierderile japoneze au fost estimate la peste 780 de militari uciși.", "Numele de 'Alligator Creek' a apărut dintr-o confuzie geografică a US Marines.", "Locația este esențială pentru înțelegerea apărării aeroportului Henderson Field."],
       en: ["The battle occurred on August 21, 1942, marking a major tactical shift.", "Approximately 900 Japanese soldiers were involved in the Ichiki Detachment.", "The river is geographically the Ilu River, not Alligator Creek.", "U.S. Marine losses were minimal compared to the nearly 800 Japanese fatalities.", "It was the first major counter-offensive by the Japanese on Guadalcanal.", "The memorial is located a short drive from modern-day Honiara International Airport."],
     },
+    image: "/poi-images/solomonislands-alligator-creek-memorial-history-v2.webp",
   },
   {
     id: "solomonislands-savo-island-wreck-history-v2",
@@ -2232,6 +2303,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Bătălia de la Insula Savo a avut loc pe data de 9 august 1942.", "Patru crucișătoare aliate au fost scufundate în urma atacului surpriză japonez.", "Zona a fost denumită 'Ironbottom Sound' din cauza numărului mare de epave.", "Epavele se află la adâncimi ce depășesc deseori 1.000 de metri.", "Pierderile de vieți omenești au depășit 1.000 de marinari aliați într-o singură noapte.", "Epavele au fost explorate cu sonar și roboți subacvatici în anul 1992."],
       en: ["The battle took place in the early hours of August 9, 1942.", "Four heavy cruisers were sunk by the Imperial Japanese Navy in this engagement.", "Ironbottom Sound contains dozens of ships and aircraft from both sides.", "The wrecks are located at depths between 2,000 and 4,000 feet.", "More than 1,077 Allied sailors were killed during the battle.", "The site is designated as a sovereign war grave for the United States and Australia."],
     },
+    image: "/poi-images/solomonislands-savo-island-wreck-history-v2.webp",
   },
   {
     id: "solomonislands-skyline-memorial-view-history-v2",
@@ -2263,6 +2335,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Muntele Austen are o altitudine de aproximativ 410 metri deasupra mării.", "Sectorul 'The Gifu' a fost numit după prefectura Gifu din Japonia, locul de origine al soldaților.", "Panorama cuprinde Insula Savo, unde au avut loc mari bătălii navale.", "Luptele finale pentru controlul crestei s-au încheiat pe 23 ianuarie 1943.", "Memorialul include plăci de granit care onorează diviziile americane implicate.", "Accesul la punctul de observație se face pe un drum sinuos prin junglă."],
       en: ["Mount Austen stands at an elevation of approximately 410 meters (1,345 feet).", "The Gifu stronghold was named after the Japanese home prefecture of its defenders.", "The view includes Henderson Field, which was the primary objective of the 1942 campaign.", "U.S. forces finally cleared the Japanese positions here in late January 1943.", "The site was dedicated as a permanent memorial in August 1992.", "It provides a unique 360-degree view of the northern Guadalcanal coastline."],
     },
+    image: "/poi-images/solomonislands-skyline-memorial-view-history-v2.webp",
   },
   {
     id: "solomonislands-lunga-point-scouts-history-v2",
@@ -2294,6 +2367,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Monumentul a fost inaugurat pe data de 7 august 2011.", "Sir Jacob Vouza a fost decorat cu Silver Star de către Statele Unite pentru eroism.", "Observatorii de coastă foloseau radiouri grele, transportate prin junglă de localnici.", "Informațiile lor au permis interceptarea avioanelor japoneze din Rabaul.", "Localnicii au ajutat la salvarea multor aviatori aliați doborâți în junglă.", "Lunga Point este chiar locul unde primele trupe americane au pus piciorul pe insulă."],
       en: ["The monument was officially unveiled on August 7, 2011.", "Sir Jacob Vouza was awarded the Silver Star and a knighthood for his service.", "Coastwatchers provided warnings that saved thousands of lives on Henderson Field.", "The memorial lists the names of many Solomon Islanders who served in the Defense Force.", "The site overlooks the very waters where the naval battles of 1942 were fought.", "Lunga Point served as the primary Allied logistics hub during the campaign."],
     },
+    image: "/poi-images/solomonislands-lunga-point-scouts-history-v2.webp",
   },
   {
     id: "solomonislands-point-cruz-market-history-v2",
@@ -2325,6 +2399,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Piața este deschisă zilnic, cu excepția duminicii, fiind cea mai aglomerată sâmbăta.", "Point Cruz este locul unde exploratorii spanioli au debarcat în 1568.", "Secțiunea de pește oferă varietăți de ton și snapper capturate în aceeași dimineață.", "Artizanii vând sculpturi celebre din lemn de abanos și trandafir.", "Piața este administrată de Consiliul Municipal din Honiara.", "Vânzarea nucilor de betel reprezintă o parte semnificativă din economia locală."],
       en: ["The market is most active on Saturday mornings when the widest variety of goods is available.", "Point Cruz is named after the cross planted by Spanish explorer Mendana in 1568.", "It is the best place in Honiara to buy authentic Solomon Islands shell money.", "Fresh produce is brought in daily from as far as Malaita and Central Provinces.", "The market underwent a significant renovation to improve hygiene and facilities in the 2010s.", "The waterfront area serves as a transport hub for inter-island trade boats."],
     },
+    image: "/poi-images/solomonislands-point-cruz-market-history-v2.webp",
   },
   {
     id: "solomonislands-rendova-peak-history-v2",
@@ -2356,6 +2431,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Vârful Rendova are o înălțime de 1.051 de metri deasupra nivelului mării.", "Debarcările americane din 1943 au fost susținute de unități de elită Marine Raiders.", "Tunurile instalate aici au fost esențiale pentru neutralizarea apărării de la Munda.", "Vulcanul nu a mai erupt de mii de ani, fiind considerat complet stins.", "Zona este un paradis pentru ornitologi datorită speciilor endemice.", "Traseul spre vârf trece prin sate tradiționale unde se păstrează cultura locală."],
       en: ["The peak reaches a height of 1,051 meters, making it a prominent regional landmark.", "U.S. forces established their main command post for the Munda offensive here in 1943.", "The Blanche Channel separating Rendova from New Georgia is roughly 15 kilometers wide.", "The mountain is covered in primary tropical rainforest that has never been logged.", "It is home to the Rendova White-eye, a bird species found nowhere else on Earth.", "The summit provides a clear line of sight to the Munda Point airfield and beyond."],
     },
+    image: "/poi-images/solomonislands-rendova-peak-history-v2.webp",
   },
   {
     id: "solomonislands-kasolo-monument-history-v2",
@@ -2387,6 +2463,7 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Insula Kasolo se află la aproximativ 15 minute de mers cu barca de orașul Gizo.", "Kennedy a înotat peste 5 kilometri pentru a ajunge pe această insulă.", "Localnicii Biuku Gasa și Eroni Kumana au riscat moartea trecând prin patrulele japoneze.", "Mesajul SOS a fost scris pe o coajă de nucă de cocos verde.", "Echipajul a supraviețuit mâncând nuci de cocos găsite pe insulele din apropiere.", "Locul este considerat un simbol al relațiilor diplomatice dintre SUA și Insulele Solomon."],
       en: ["The island is officially named Kasolo but was renamed locally in honor of JFK.", "Kennedy used a life jacket strap held in his teeth to tow an injured crewman to safety.", "The rescue message was delivered to a base on nearby Rendova Island.", "The island is surrounded by some of the best coral reefs in the Western Province.", "Two members of the PT-109 crew were killed instantly during the collision.", "Biuku Gasa and Eroni Kumana were invited to JFK's inauguration in 1961 but could not attend."],
     },
+    image: "/poi-images/solomonislands-kasolo-monument-history-v2.webp",
   },
   {
     id: "solomonislands-tetere-convoy-beach-history-v2",
@@ -2418,5 +2495,6 @@ export const solomonislandsHistoryV2: POI[] = [
       ro: ["Plaja Tetere găzduiește una dintre cele mai mari concentrații de vehicule LVT abandonate.", "Modelele prezente includ LVT-1 și LVT-2, folosite în asalturile amfibii.", "Multe vehicule au fost lăsate cu motoarele și transmisiile intacte în 1945.", "Nivelul mareei determină cât de mult din vehicule este vizibil în fiecare zi.", "Situl este considerat un muzeu în aer liber, fără taxă de intrare sau garduri.", "Accesul la plajă se face prin sate locale, necesitând adesea permisiunea șefilor de trib."],
       en: ["There are approximately 30 LVT wrecks scattered across Tetere Beach.", "The vehicles were essential for crossing the sharp coral reefs surrounding the islands.", "Most of the LVTs at Tetere were abandoned in place at the conclusion of hostilities.", "The beach was a primary staging area for the 1943-1944 offensives in the Solomons.", "Rust and erosion have created jagged edges on the vehicle hulls over 80 years.", "The site is located near the mouth of the Metapona River."],
     },
+    image: "/poi-images/solomonislands-tetere-convoy-beach-history-v2.webp",
   }
 ];

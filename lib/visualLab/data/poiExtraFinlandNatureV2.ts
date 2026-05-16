@@ -32,6 +32,7 @@ export const finlandNatureV2: POI[] = [
       ro: ["Situat în districtul Ii", "Zonă de cuibărit pentru cocori", "Sol bogat în turbă acidă", "Inclus în rețeaua Natura 2000", "Acces limitat în perioada de cuibărit", "Vegetație specifică tundrei de joasă altitudine"],
       en: ["Located in Northern Ostrobothnia", "Key nesting site for waterfowl", "Dominated by transition mires", "Protected under European bird directives", "Home to rare northern orchid species", "Significant peat accumulation area"],
     },
+    image: "/poi-images/finland-oidulampi-nature-v2.webp",
   },
   {
     id: "finland-pyhakoski-nature-v2",
@@ -64,6 +65,7 @@ export const finlandNatureV2: POI[] = [
       ro: ["Cădere totală de 32,4 metri", "Centrală finalizată în anul 1949", "Proiectată de arhitectul Aarne Ervi", "Capacitate de producție 147 MW", "Situată în localitatea Muhos", "Monument de arhitectură industrială"],
       en: ["Head of water is 32.4 meters", "Power plant operational since 1949", "Designed by architect Aarne Ervi", "Generation capacity of 147 MW", "Located in the Muhos municipality", "Key part of the Oulujoki river system"],
     },
+    image: "/poi-images/finland-pyhakoski-nature-v2.webp",
   },
   {
     id: "finland-aavasaksa-nature-v2",
@@ -96,6 +98,7 @@ export const finlandNatureV2: POI[] = [
       ro: ["Înălțime maximă de 242 metri", "Inclus în patrimoniul UNESCO în 2005", "Pavilion imperial construit în 1882", "Vedere panoramică asupra râului Torne", "Cel mai sudic punct cu soare de miezul nopții", "Stație geodezică istorică importantă"],
       en: ["Reaches 242 meters above sea level", "UNESCO World Heritage site since 2005", "Imperial Lodge built in 1882", "Overlooks the Torne River valley", "Southernmost point for midnight sun", "Visited by French scientists in 1736"],
     },
+    image: "/poi-images/finland-aavasaksa-nature-v2.webp",
   },
   {
     id: "finland-konnevesi-nature-v2",
@@ -128,6 +131,7 @@ export const finlandNatureV2: POI[] = [
       ro: ["Parc Național fondat în 2014", "Suprafața lacului este de 189 km²", "Habitat pentru păstrăvul brun", "Peste 650 de insule în arhipelag", "Adâncime maximă de 56 metri", "Zonă de protecție pentru vulturi pescari"],
       en: ["National Park status since 2014", "Lake surface area is 189 km²", "Native habitat of wild brown trout", "Contains over 650 diverse islands", "Maximum depth reaches 56 meters", "Prime breeding ground for ospreys"],
     },
+    image: "/poi-images/finland-konnevesi-nature-v2.webp",
   },
   {
     id: "finland-pallas-nature-v2",
@@ -160,6 +164,7 @@ export const finlandNatureV2: POI[] = [
       ro: ["Vârful Taivaskero are 807 metri", "Inclus în primul parc național (1938)", "Stație globală de monitorisare a aerului", "Masivul acoperă 563 km²", "Flacăra olimpică aprinsă aici în 1952", "Absența pădurilor peste 500m altitudine"],
       en: ["Highest peak Taivaskero is 807m", "Part of national park founded in 1938", "Global GAW air monitoring station", "Fell area covers 563 km²", "1952 Olympic flame was lit here", "Iconic treeless arctic fell vegetation"],
     },
+    image: "/poi-images/finland-pallas-nature-v2.webp",
   },
   {
     id: "finland-syote-nature-v2",
@@ -192,6 +197,7 @@ export const finlandNatureV2: POI[] = [
       ro: ["Suprafața parcului național: 301 kilometri pătrați", "Cel mai înalt punct: 300 de metri deasupra nivelului mării", "Lungimea traseelor de drumeție marcate: 150 de kilometri", "Număr de pârtii de schi: 10", "Anul fondării parcului național: 2000", "Număr de lacuri în parc: 50"],
       en: ["Area of national park: 301 square kilometers", "Highest point: 300 meters above sea level", "Length of marked hiking trails: 150 kilometers", "Number of ski slopes: 10", "Year national park established: 2000", "Number of lakes in the park: 50"],
     },
+    image: "/poi-images/finland-syote-nature-v2.webp",
   },
   {
     id: "finland-kemijoki-delta-nature-v2",
@@ -224,6 +230,7 @@ export const finlandNatureV2: POI[] = [
       ro: ["Gura de vărsare a râului de 550 km", "Localizată în nordul Golfului Botnic", "Port industrial major în orașul Kemi", "Fost cel mai bogat râu în somon", "Formațiuni de bancuri de nisip mobile", "Observator ornitologic de importanță locală"],
       en: ["Mouth of Finland's longest river (550km)", "Opens into the Bothnian Bay", "City of Kemi developed on its shores", "Historically famous for salmon runs", "Complex network of alluvial islands", "Strategic stopover for migratory geese"],
     },
+    image: "/poi-images/finland-kemijoki-delta-nature-v2.webp",
   },
   {
     id: "finland-saimaa-archipelago-nature-v2",
@@ -256,6 +263,7 @@ export const finlandNatureV2: POI[] = [
       ro: ["Cel mai mare lac din Finlanda (4400 km²)", "Peste 13.000 de insule în sistem", "Habitat exclusiv pentru foca inelată", "Populația de foci este de cca. 400", "Linie de țărm totală de 14.850 km", "Format prin ridicare post-glaciară"],
       en: ["Largest lake area in Finland (4400 km²)", "Contains over 13,000 unique islands", "Home to the rare Saimaa ringed seal", "Current seal population is roughly 400", "Total shoreline length of 14,850 km", "Formed by post-glacial land uplift"],
     },
+    image: "/poi-images/finland-saimaa-archipelago-nature-v2.webp",
   },
   {
     id: "finland-ulvinsalo-nature-v2",
@@ -288,6 +296,7 @@ export const finlandNatureV2: POI[] = [
       ro: ["Fondată în anul 1956", "Acoperă o suprafață de 25 km²", "Situată în regiunea Kainuu", "Păduri primordiale cu arbori seculari", "Zonă de habitat pentru urșii bruni", "Rezervație strictă (acces limitat)"],
       en: ["Established in 1956", "Covers approximately 25 km²", "Located in the Kainuu region", "Pristine old-growth taiga forests", "Crucial habitat for brown bears", "Strictly protected (permit required)"],
     },
+    image: "/poi-images/finland-ulvinsalo-nature-v2.webp",
   },
   {
     id: "finland-hiidenportti-nature-v2",
@@ -320,6 +329,7 @@ export const finlandNatureV2: POI[] = [
       ro: ["Suprafața parcului național: 45 de kilometri pătrați", "Cel mai înalt punct: 250 de metri deasupra nivelului mării", "Lungimea traseului circular: 10 kilometri", "Anul fondării: 1982", "Adâncimea cheii: 50 de metri", "Număr de specii de păsări: 100"],
       en: ["Area of national park: 45 square kilometers", "Highest point: 250 meters above sea level", "Length of circular trail: 10 kilometers", "Year established: 1982", "Gorge depth: 50 meters", "Number of bird species: 100"],
     },
+    image: "/poi-images/finland-hiidenportti-nature-v2.webp",
   },
   {
     id: "finland-kvarken-nature-v2",
@@ -352,6 +362,7 @@ export const finlandNatureV2: POI[] = [
       ro: ["Patrimoniul Mondial UNESCO din: 2006", "Număr de insule: 6.500", "Ridicare anuală a uscatului: 8 mm", "Suprafața sitului patrimoniului mondial: 1.500 de kilometri pătrați", "Cel mai înalt punct: 20 de metri deasupra nivelului mării", "Număr de specii de păsări: 200"],
       en: ["UNESCO World Heritage since: 2006", "Number of islands: 6,500", "Annual land uplift: 8 mm", "Area of World Heritage site: 1,500 square kilometers", "Highest point: 20 meters above sea level", "Number of bird species: 200"],
     },
+    image: "/poi-images/finland-kvarken-nature-v2.webp",
   },
   {
     id: "finland-oulanka-nature-v2",
@@ -384,6 +395,7 @@ export const finlandNatureV2: POI[] = [
       ro: ["Suprafață: 270 km²", "Anul înființării: 1956", "Cel mai înalt punct: 480 m", "Cădere de apă Kiutaköngäs: 12 m", "Lungimea traseului Karhunkierros: 82 km", "Număr de specii de plante: peste 500"],
       en: ["Area: 270 km²", "Established: 1956", "Highest point: 480 m above sea level", "Length of Oulankajoki River: 120 km", "Number of bird species: over 150", "Percentage of bogs: 20%"],
     },
+    image: "/poi-images/finland-oulanka-nature-v2.webp",
   },
   {
     id: "finland-repovesi-nature-v2",
@@ -416,6 +428,7 @@ export const finlandNatureV2: POI[] = [
       ro: ["Suprafață: 15 km²", "Anul înființării: 2003", "Cel mai înalt punct: Olhavanvuori, 190 m", "Lungimea traseelor de drumeție: peste 60 km", "Număr de rute de escaladă: peste 100", "Procentajul de apă: 40%"],
       en: ["Area: 15 km²", "Established: 2003", "Highest point: Olhavanvuori, 190 m", "Length of hiking trails: over 60 km", "Number of climbing routes: over 100", "Water coverage: 40%"],
     },
+    image: "/poi-images/finland-repovesi-nature-v2.webp",
   },
   {
     id: "finland-helvetinjarvi-nature-v2",
@@ -448,6 +461,7 @@ export const finlandNatureV2: POI[] = [
       ro: ["Suprafață: 49,8 km²", "Anul înființării: 1982", "Cădere de apă Helvetinkolu: 8 m", "Adâncimea maximă a lacului Helvetinjärvi: 50 m", "Vârsta celor mai bătrâni copaci: peste 200 de ani", "Populația de urși: estimată la 5-10 indivizi"],
       en: ["Area: 49.8 km²", "Established: 1982", "Helvetinkolu waterfall height: 8 m", "Max depth of Helvetinjärvi lake: 50 m", "Age of oldest trees: over 200 years", "Estimated bear population: 5-10 individuals"],
     },
+    image: "/poi-images/finland-helvetinjarvi-nature-v2.webp",
   },
   {
     id: "finland-torronsuo-nature-v2",
@@ -480,5 +494,6 @@ export const finlandNatureV2: POI[] = [
       ro: ["Suprafață: 30 km²", "Anul protejării: 1990", "Adâncimea maximă a turbei: 10 m", "Număr de specii de păsări: peste 100", "Stocarea carbonului: estimată la 5 milioane de tone", "Înălțimea turnului de observație: 15 m"],
       en: ["Area: 30 km²", "Protected since: 1990", "Maximum peat depth: 10 m", "Number of bird species: over 100", "Carbon storage: estimated 5 million tons", "Height of observation tower: 15 m"],
     },
+    image: "/poi-images/finland-torronsuo-nature-v2.webp",
   }
 ];

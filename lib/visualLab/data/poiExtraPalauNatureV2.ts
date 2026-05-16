@@ -31,6 +31,7 @@ export const palauNatureV2: POI[] = [
       ro: ["Regiunea a fost inclusă în patrimoniul mondial UNESCO în 2012", "Întreaga zonă protejată acoperă o suprafață de peste 1000 km²", "Există peste 50 de lacuri marine izolate pe aceste insule", "Insulele sunt compuse din calcar ridicat de origine vulcanică", "Zona găzduiește peste 380 de specii de corali și 1300 de specii de pești", "Situl arheologic atestă prezența umană de acum peste 3000 de ani"],
       en: ["The region was inscribed as a UNESCO World Heritage site in 2012", "The entire protected area covers over 1,000 square kilometers", "There are more than 50 isolated marine lakes within the islands", "The islands consist of uplifted limestone of volcanic origin", "Over 380 coral species and 1,300 fish species inhabit the area", "Archaeological sites show evidence of human occupation over 3,000 years ago"],
     },
+    image: "/poi-images/palau-rock-islands-nature-v2.webp",
   },
   {
     id: "palau-mount-ngerchelchuus-nature-v2",
@@ -62,6 +63,7 @@ export const palauNatureV2: POI[] = [
       ro: ["Înălțimea vârfului este de exact 242 de metri deasupra nivelului mării", "Muntele formează granița dintre statele Ngardmau și Ngaremlengui", "Un traseu de drumeție duce de la cascada Ngardmau până la vârf", "Pădurea de pe munte adăpostește specii rare de orhidee palauane", "Face parte din cea mai mare zonă de pădure tropicală continuă din Micronezia", "De pe vârf se pot vedea ambele coaste ale insulei Babeldaob în zilele senine"],
       en: ["The peak elevation is exactly 242 meters above sea level", "The mountain forms the boundary between Ngardmau and Ngaremlengui", "A hiking trail leads to the summit from the Ngardmau waterfall area", "The mountain forest hosts rare endemic Palauan orchid species", "It is part of the largest contiguous rainforest area in Micronesia", "Both coasts of Babeldaob are visible from the summit on clear days"],
     },
+    image: "/poi-images/palau-mount-ngerchelchuus-nature-v2.webp",
   },
   {
     id: "palau-lake-ngardok-nature-v2",
@@ -93,6 +95,7 @@ export const palauNatureV2: POI[] = [
       ro: ["Suprafața luciului de apă al lacului este de aproximativ 15 hectare", "Lacul a fost recunoscut în 2002 ca primul sit RAMSAR din Palau", "Aici trăiesc specii de păsări periclitate, cum ar fi porumbelul de fructe palauan", "Lacul este situat într-o depresiune înconjurată de dealuri", "Crocodilii de apă sărată se înmulțesc regulat în mlaștinile lacului", "Rezervația are rolul de a proteja calitatea apei pentru statul Melekeok"],
       en: ["The lake's open water surface area is approximately 15 hectares", "The lake was recognized as Palau's first RAMSAR site in 2002", "It is home to endangered bird species like the Palau fruit dove", "The lake is situated in a depression surrounded by rolling hills", "Saltwater crocodiles regularly breed in the lake's surrounding marshes", "The reserve protects the primary water source for Melekeok State"],
     },
+    image: "/poi-images/palau-lake-ngardok-nature-v2.webp",
   },
   {
     id: "palau-eil-malk-island-nature-v2",
@@ -124,6 +127,7 @@ export const palauNatureV2: POI[] = [
       ro: ["Insula acoperă o suprafață de aproximativ 19 kilometri pătrați", "Lacul Meduzelor are o vechime de aproximativ 12.000 de ani", "Scufundările cu tuburi de oxigen sunt strict interzise în Lacul Meduzelor", "Meduzele aurii urmează zilnic traiectoria soarelui în lac", "Insula Eil Malk aparține de statul Koror", "Insula prezintă numeroase tuneluri și peșteri în structura calcaroasă"],
       en: ["The island covers an area of approximately 19 square kilometers", "Jellyfish Lake is estimated to be around 12,000 years old", "Scuba diving is strictly prohibited in Jellyfish Lake to protect the ecosystem", "The golden jellyfish follow a daily migration pattern tied to the sun", "Eil Malk is part of the administrative state of Koror", "The island contains numerous marine tunnels and limestone caves"],
     },
+    image: "/poi-images/palau-eil-malk-island-nature-v2.webp",
   },
   {
     id: "palau-ngeruktabel-island-nature-v2",
@@ -155,6 +159,7 @@ export const palauNatureV2: POI[] = [
       ro: ["Insula are o suprafață de aproximativ 19,1 kilometri pătrați", "Cel mai înalt punct de pe insulă este la 210 metri deasupra mării", "Aici se află rămășițe ale pozițiilor japoneze din Al Doilea Război Mondial", "Faimosul golf 'Milky Way' este situat în apropierea insulei", "Vegetația constă în principal din pădure primară pe sol calcaros", "Ngeruktabel este un loc important de cuibărit pentru megapodul palauan"],
       en: ["The island has a total land area of approximately 19.1 square kilometers", "The highest peak on the island reaches 210 meters above sea level", "Remnants of Japanese military installations from WWII can be found here", "The famous 'Milky Way' cove is located adjacent to the island", "The vegetation consists primarily of undisturbed limestone forest", "Ngeruktabel is a significant breeding ground for the Palau megapode"],
     },
+    image: "/poi-images/palau-ngeruktabel-island-nature-v2.webp",
   },
   {
     id: "palau-peleliu-island-nature-v2",
@@ -186,6 +191,7 @@ export const palauNatureV2: POI[] = [
       ro: ["Bătălia de la Peleliu s-a desfășurat între septembrie și noiembrie 1944", "Kloulklubed este localitatea principală și centrul administrativ al insulei", "Insula are o suprafață terestră de aproximativ 13 kilometri pătrați", "Peste 10.000 de soldați japonezi au murit apărând insula", "Armata SUA a folosit insula ca bază aeriană după cucerirea ei", "Numeroase sisteme de peșteri au servit drept buncăre în timpul războiului"],
       en: ["The Battle of Peleliu took place from September to November 1944", "Kloulklubed is the main village and administrative center of the island", "The island covers a land area of approximately 13 square kilometers", "Over 10,000 Japanese soldiers died defending the island during WWII", "The US military utilized the island as an airbase after its capture", "Numerous cave systems served as underground bunkers during the conflict"],
     },
+    image: "/poi-images/palau-peleliu-island-nature-v2.webp",
   },
   {
     id: "palau-angaur-island-nature-v2",
@@ -217,6 +223,7 @@ export const palauNatureV2: POI[] = [
       ro: ["Minarea fosfaților a avut loc între anii 1909 și 1955", "Angaur este singurul loc din Palau unde japoneza este limbă oficială", "Insula are o suprafață de aproximativ 8,4 kilometri pătrați", "Macacii de pe insulă sunt originari din Asia de Sud-Est", "Nu există o lagună protectoare cu recif de barieră în jurul insulei", "În timpul celui de-al Doilea Război Mondial, insula a fost ocupată de SUA în 1944"],
       en: ["Phosphate mining activities took place between 1909 and 1955", "Angaur is the only place in Palau where Japanese is an official language", "The island covers a total land area of approximately 8.4 square kilometers", "The island's macaque monkeys were originally introduced from Southeast Asia", "Angaur lacks a protective barrier reef lagoon, exposing it to the open sea", "The island was captured by US forces in 1944 during World War II"],
     },
+    image: "/poi-images/palau-angaur-island-nature-v2.webp",
   },
   {
     id: "palau-helen-reef-nature-v2",
@@ -248,6 +255,7 @@ export const palauNatureV2: POI[] = [
       ro: ["Laguna atolului acoperă o suprafață de 103 km²", "Este desemnată ca Arie Marină Protejată (MPA) oficială", "O stație de rangeri este situată pe mica insulă Helen Island", "Reciful se află la peste 600 de kilometri sud de insula principală Koror", "Aici se află una dintre cele mai mari colonii de cuibărit pentru țestoase din Palau", "Biodiversitatea marină include peste 500 de specii de pești"],
       en: ["The atoll's lagoon covers an expansive area of 103 square kilometers", "It is designated as an official Marine Protected Area (MPA)", "A permanent ranger station is located on the small Helen Island", "The reef is situated over 600 kilometers south of the main island of Koror", "It hosts one of the largest green sea turtle nesting colonies in Palau", "The marine biodiversity includes over 500 documented fish species"],
     },
+    image: "/poi-images/palau-helen-reef-nature-v2.webp",
   },
   {
     id: "palau-sonsorol-island-nature-v2",
@@ -279,6 +287,7 @@ export const palauNatureV2: POI[] = [
       ro: ["Sonsorol a fost probabil descoperită de spaniolul Gonzalo Gómez de Sequeira în 1522", "Insula face parte din grupul Insulelor de Sud-Vest ale Palau", "Limba locală sonsoroleză este strâns legată de limbile microneziene", "Populația insulei este foarte mică, de obicei sub 50 de persoane", "Palmierii de cocos și arborii de pâine domină vegetația insulei", "Insula se află la aproximativ 300 de kilometri sud-vest de grupul principal din Palau"],
       en: ["Sonsorol was likely sighted by Spaniard Gonzalo Gómez de Sequeira in 1522", "The island is part of the Southwest Islands archipelago of Palau", "The local Sonsorolese language is closely related to Micronesian languages", "The island's population is very small, typically fewer than 50 people", "Coconut palms and breadfruit trees are the dominant plant species", "The island is located about 300 kilometers southwest of Palau's main islands"],
     },
+    image: "/poi-images/palau-sonsorol-island-nature-v2.webp",
   },
   {
     id: "palau-merir-island-nature-v2",
@@ -310,6 +319,7 @@ export const palauNatureV2: POI[] = [
       ro: ["Insula are o suprafață terestră de mai puțin de un kilometru pătrat", "Merir este un loc de reproducere major pentru țestoasa verde", "Insula găzduiește o populație foarte mare de crabi de uscat", "Istoric, a existat o mică așezare pe coasta de vest", "Insula este accesibilă doar cu barca închiriată din Koror", "Merir face parte din insulele exterioare de sud-vest ale Palau"],
       en: ["The island has a total land area of less than one square kilometer", "Merir is a major nesting ground for the green sea turtle", "The island is home to a very high density of land crab populations", "Historically, a small settlement existed on the western side of the island", "Access to the island is limited to chartered boats from Koror", "Merir is part of the remote Southwest Islands group of Palau"],
     },
+    image: "/poi-images/palau-merir-island-nature-v2.webp",
   },
   {
     id: "palau-pulo-anna-nature-v2",
@@ -341,6 +351,7 @@ export const palauNatureV2: POI[] = [
       ro: ["Suprafața insulei: aproximativ 0,5 km²", "Coordonate geografice: 4° 39' N, 131° 57' E", "Apartenență: statul Sonsorol", "Punctul maxim de altitudine: 6 metri", "Distanța față de Koror: circa 450 kilometri", "Populație: adesea sub 20 de locuitori"],
       en: ["Island area: approximately 0.5 km²", "Geographic coordinates: 4° 39' N, 131° 57' E", "Administrative unit: Sonsorol State", "Highest elevation: 6 meters above sea level", "Distance to Koror: roughly 450 kilometers", "Population: often fewer than 20 residents"],
     },
+    image: "/poi-images/palau-pulo-anna-nature-v2.webp",
   },
   {
     id: "palau-tobi-island-nature-v2",
@@ -372,6 +383,7 @@ export const palauNatureV2: POI[] = [
       ro: ["Suprafața insulei: 0,6 km²", "Unitate administrativă: statul Hatohobei", "Altitudine maximă: sub 3 metri", "Populație: aproximativ 25-40 locuitori", "Cea mai sudică zonă: reciful Helen aparține statului", "Distanța față de Noua Guinee: aproximativ 320 km"],
       en: ["Island area: 0.6 square kilometers", "Administrative unit: Hatohobei State", "Highest point: less than 3 meters", "Population: approximately 25 to 40 residents", "Southernmost territory: Helen Reef is part of the state", "Distance to New Guinea: about 320 kilometers"],
     },
+    image: "/poi-images/palau-tobi-island-nature-v2.webp",
   },
   {
     id: "palau-ngeruangel-reserve-nature-v2",
@@ -403,6 +415,7 @@ export const palauNatureV2: POI[] = [
       ro: ["Statut de protecție din: 1996", "Locație: sistemul de atoli Kayangel", "Suprafața atolului: cca. 15 km² (cu lagună)", "Distanța de Koror: aproximativ 110 km", "Importanță: loc de depunere a icrelor pentru pești", "Restricție: pescuitul este strict interzis"],
       en: ["Protection status since: 1996", "Location: Kayangel atoll system", "Atoll area: approx. 15 km² (including lagoon)", "Distance from Koror: about 110 kilometers", "Significance: spawning ground for groupers", "Restriction: fishing is strictly prohibited"],
     },
+    image: "/poi-images/palau-ngeruangel-reserve-nature-v2.webp",
   },
   {
     id: "palau-ngaremeduu-bay-nature-v2",
@@ -434,6 +447,7 @@ export const palauNatureV2: POI[] = [
       ro: ["Suprafața ariei protejate: cca. 50 km²", "Ecosisteme: mangrove, recife, zone umede", "Locație: între Aimeliik, Ngatpang și Ngaremlengui", "Statut: cel mai mare estuar din Micronezia", "Faună: habitat esențial pentru dugong", "Anul protecției: 1999 ca Arie de Conservare"],
       en: ["Conservation area size: approx. 50 km²", "Ecosystems: mangroves, reefs, wetlands", "Location: between Aimeliik, Ngatpang, and Ngaremlengui", "Status: largest estuary in Micronesia", "Wildlife: critical habitat for dugongs", "Protection year: 1999 as a Conservation Area"],
     },
+    image: "/poi-images/palau-ngaremeduu-bay-nature-v2.webp",
   },
   {
     id: "palau-babeldaob-mangroves-nature-v2",
@@ -465,5 +479,6 @@ export const palauNatureV2: POI[] = [
       ro: ["Acoperire: cca. 80% din coasta Babeldaob", "Diversitate: 18 specii de mangrove identificate", "Rol ecologic: protecție împotriva eroziunii costiere", "Faună: adăpost pentru crocodilul de Palau", "Localizare: densitate mare pe coasta de vest", "Economie: vitală pentru pescuitul local de crabi"],
       en: ["Coverage: approx. 80% of Babeldaob's coastline", "Species diversity: 18 identified mangrove species", "Ecological role: coastal erosion protection", "Fauna: home to the Palauan crocodile", "Occurrence: particularly dense on the west coast", "Economy: vital for local crab fishing"],
     },
+    image: "/poi-images/palau-babeldaob-mangroves-nature-v2.webp",
   }
 ];

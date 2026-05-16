@@ -31,6 +31,7 @@ export const cookislandsLandmarksV2: POI[] = [
       ro: ["Finalizată în 1853, piatra de temelie pusă în 1844.", "Înălțimea turnului: 28 de metri.", "Capacitate: 620 de persoane.", "Zidită din calcar coralier, mortar din var, nisip și albuș de ou.", "Vitralii din 1900 cu scene biblice.", "Clopotul a fost importat din Anglia în 1885."],
       en: ["Completed in 1853, foundation stone laid in 1844.", "Tower height: 28 meters.", "Seating capacity: 620 people.", "Built of coral limestone, mortared with lime, sand, and egg white mixture.", "Stained-glass windows from 1900 depict biblical scenes.", "Church bell imported from England in 1885."],
     },
+    image: "/poi-images/cookislands-avarua-cicc-landmarks-v2.webp",
   },
   {
     id: "cookislands-national-museum-landmarks-v2",
@@ -62,6 +63,7 @@ export const cookislandsLandmarksV2: POI[] = [
       ro: ["Fondat în 1978, deschis în fosta infirmerie.", "Colecție: peste 10.000 de obiecte.", "Cea mai mare canoe expusă: canoe lungă Pahi, lungime 10 metri.", "Conține o podoabă din pene tahitiană din secolul al XVIII-lea.", "Număr anual de vizitatori: aproximativ 20.000.", "Intrare: gratuită pentru localnici, redusă pentru turiști."],
       en: ["Founded in 1978, opened in the former hospital building.", "Collection: over 10,000 objects.", "Largest displayed canoe: Pahi long canoe, length 10 meters.", "Contains an 18th-century Tahitian feather ornament.", "Annual visitors: about 20,000.", "Admission: free for locals, discounted for tourists."],
     },
+    image: "/poi-images/cookislands-national-museum-landmarks-v2.webp",
   },
   {
     id: "cookislands-ss-maitai-wreck-landmarks-v2",
@@ -93,6 +95,7 @@ export const cookislandsLandmarksV2: POI[] = [
       ro: ["S-a scufundat la 2 octombrie 1907.", "Adâncimea epavei: 12–15 metri.", "Lungimea navei: 68 de metri.", "13 victime, 50 de supraviețuitori.", "SS Maitai era un cargobot al Union Steam Ship Company.", "Epava a fost măsurată oficial pentru prima dată ca loc de scufundări în 1970."],
       en: ["Sank on October 2, 1907.", "Wreck depth: 12–15 meters.", "Ship length: 68 meters.", "13 fatalities, 50 survivors.", "SS Maitai was a general cargo steamer of the Union Steam Ship Company.", "Wreck was first officially surveyed as a dive site in 1970."],
     },
+    image: "/poi-images/cookislands-ss-maitai-wreck-landmarks-v2.webp",
   },
   {
     id: "cookislands-seven-canoes-monument-landmarks-v2",
@@ -124,6 +127,7 @@ export const cookislandsLandmarksV2: POI[] = [
       ro: ["Ridicat în 1989.", "Material: oțel vopsit electrostatic.", "Înălțimea fiecărei canoe: aproximativ 3 metri.", "Locație: promenada de pe malul mării, vizavi de piața de pește.", "Parte a Proiectului Avarua Waterfront.", "Cost: 100.000 NZD."],
       en: ["Erected in 1989.", "Material: powder-coated steel.", "Height of each canoe: about 3 meters.", "Location: coastal promenade opposite the fish market.", "Part of the Avarua Waterfront Project.", "Cost: NZD 100,000."],
     },
+    image: "/poi-images/cookislands-seven-canoes-monument-landmarks-v2.webp",
   },
   {
     id: "cookislands-national-culture-centre-landmarks-v2",
@@ -155,6 +159,7 @@ export const cookislandsLandmarksV2: POI[] = [
       ro: ["Deschis în 1982.", "Suprafață totală: 1,2 hectare.", "Spațiu pentru evenimente pentru 500 de persoane.", "Conține Muzeul Național cu 10.000 de obiecte.", "Fond de bibliotecă: 30.000 de volume.", "Festivalul anual Te Maeva Nui din 1968, cu 700 de artiști participanți."],
       en: ["Opened in 1982.", "Total area: 1.2 hectares.", "Event space for 500 people.", "Houses the National Museum with 10,000 objects.", "Library collection: 30,000 volumes.", "Annual Te Maeva Nui Festival since 1968, participation of 700 performers."],
     },
+    image: "/poi-images/cookislands-national-culture-centre-landmarks-v2.webp",
   },
   {
     id: "cookislands-beachcomber-building-landmarks-v2",
@@ -186,6 +191,7 @@ export const cookislandsLandmarksV2: POI[] = [
       ro: ["Construit în 1920.", "Înălțime: 7 metri (două etaje).", "Folosit inițial ca depozit de copra.", "Renovat în 1994 pentru 500.000 NZD.", "Suprafață de vânzare: 400 m².", "Parter: comerț cu amănuntul, etaj: birouri."],
       en: ["Built in 1920.", "Height: 7 meters (two stories).", "Originally used as copra warehouse.", "Renovated in 1994 for NZD 500,000.", "Retail floor area: 400 m².", "Ground floor: retail, upper floor: offices."],
     },
+    image: "/poi-images/cookislands-beachcomber-building-landmarks-v2.webp",
   },
   {
     id: "cookislands-arutanga-church-landmarks-v2",
@@ -217,6 +223,7 @@ export const cookislandsLandmarksV2: POI[] = [
       ro: ["Construită în 1828.", "Lungimea bisericii: 30 de metri, lățime: 15 metri.", "Înălțimea turnului: 20 de metri.", "Capacitate: 500 de persoane.", "Clopot din 1850 importat din Anglia.", "Renovată în 2000 după pagube de furtună."],
       en: ["Built in 1828.", "Church length: 30 meters, width: 15 meters.", "Tower height: 20 meters.", "Seating capacity: 500.", "Bell from 1850 imported from England.", "Renovated in 2000 after storm damage."],
     },
+    image: "/poi-images/cookislands-arutanga-church-landmarks-v2.webp",
   },
   {
     id: "cookislands-maire-nui-gardens-landmarks-v2",
@@ -248,6 +255,7 @@ export const cookislandsLandmarksV2: POI[] = [
       ro: ["Fondată în 1975.", "Suprafață: 3 hectare.", "Conține peste 200 de specii de plante.", "Casă de orhidee cu 80 de specii de orhidee.", "Intrare: adulți 10 NZD, copii gratis.", "Program: L–Sâ 9–16."],
       en: ["Established in 1975.", "Area: 3 hectares.", "Contains over 200 plant species.", "Orchid house with 80 orchid species.", "Admission: adults NZD 10, children free.", "Opening hours: Mon–Sat 9 am–4 pm."],
     },
+    image: "/poi-images/cookislands-maire-nui-gardens-landmarks-v2.webp",
   },
   {
     id: "cookislands-library-museum-society-landmarks-v2",
@@ -279,6 +287,7 @@ export const cookislandsLandmarksV2: POI[] = [
       ro: ["Fondată în 1971.", "Fond de cărți: peste 15.000 de volume.", "Program: L–V 8–16, Sâ 9–12.", "Taxă de membru: 10 NZD pe an.", "Suprafața muzeului: 200 m².", "Conține o colecție de 500 de fotografii istorice."],
       en: ["Founded in 1971.", "Bookstock: over 15,000 volumes.", "Opening hours: Mon–Fri 8–4, Sat 9–12.", "Membership fee: NZD 10 per year.", "Museum area: 200 m².", "Contains a collection of 500 historical photographs."],
     },
+    image: "/poi-images/cookislands-library-museum-society-landmarks-v2.webp",
   },
   {
     id: "cookislands-pa-ariki-palace-landmarks-v2",
@@ -310,6 +319,7 @@ export const cookislandsLandmarksV2: POI[] = [
       ro: ["Pa Ariki este una dintre cele șase căpetenii tribale din Rarotonga.", "Zona marae are 0,5 hectare.", "Sala de adunare (Are Karioi) a fost construită în 1905.", "House of Ariki a fost fondată în 1966.", "Actualul Pa Ariki (din 2023) este Elizabeth Tairea.", "Terenul este situat în centrul Avarua, lângă sensul giratoriu Cooks."],
       en: ["Pa Ariki is one of the six tribal chiefs of Rarotonga.", "The marae area is 0.5 hectares.", "The meeting hall (Are Karioi) was built in 1905.", "House of Ariki was established in 1966.", "Current Pa Ariki (as of 2023) is Elizabeth Tairea.", "The grounds are located in central Avarua, near Cooks roundabout."],
     },
+    image: "/poi-images/cookislands-pa-ariki-palace-landmarks-v2.webp",
   },
   {
     id: "cookislands-te-vara-nui-landmarks-v2",
@@ -341,6 +351,7 @@ export const cookislandsLandmarksV2: POI[] = [
       ro: ["Deschis în 2006.", "Suprafață totală: 2,5 hectare.", "Capacitate: 350 de vizitatori per spectacol.", "Râul subteran are o lungime de 250 de metri.", "Înălțimea cascadei: 8 metri.", "Intrare: adulți 85 NZD, copii 45 NZD (inclusiv cina)."],
       en: ["Opened in 2006.", "Total area: 2.5 hectares.", "Capacity: 350 visitors per show.", "The underground river is 250 meters long.", "Waterfall height: 8 meters.", "Admission: adults NZD 85, children NZD 45 (includes dinner)."],
     },
+    image: "/poi-images/cookislands-te-vara-nui-landmarks-v2.webp",
   },
   {
     id: "cookislands-ngatangiia-church-landmarks-v2",
@@ -372,5 +383,6 @@ export const cookislandsLandmarksV2: POI[] = [
       ro: ["Construită inițial în 1835, clădirea actuală din 1900.", "Lungimea bisericii: 25 de metri, lățime: 12 metri.", "Înălțimea turnului: 18 metri.", "Capacitate: 350 de persoane.", "Vitraliu din 1910 înfățișându-l pe Iisus cu copii.", "Renovată în 1985 cu donații ale comunității."],
       en: ["Originally built in 1835, current building from 1900.", "Church length: 25 meters, width: 12 meters.", "Tower height: 18 meters.", "Seating capacity: 350.", "Stained glass from 1910 depicts Jesus with children.", "Renovated in 1985 with community donations."],
     },
+    image: "/poi-images/cookislands-ngatangiia-church-landmarks-v2.webp",
   }
 ];

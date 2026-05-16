@@ -32,6 +32,7 @@ export const cyprusCitiesV2: POI[] = [
       ro: ["Strovolos a fost constituit ca municipalitate independentă în anul 1986.", "Populația orașului depășește 70.000 de locuitori conform recensămintelor recente.", "Orașul ocupă o suprafață administrativă de aproximativ 25 km².", "Teatrul Municipal din Strovolos are o capacitate de peste 800 de locuri.", "Parcul Liniar Pedieos, care traversează orașul, este o zonă protejată pentru recreere.", "Sediul multor companii internaționale și bănci se află în cartierele sale comerciale."],
       en: ["Strovolos was officially established as a municipality in 1986.", "It is the second-largest municipality in Cyprus by population, with over 70,000 residents.", "The municipality covers a total area of approximately 25 square kilometers.", "The Pedieos Linear Park in Strovolos is the longest pedestrian path in Cyprus.", "The Municipal Cultural Centre is housed in a renovated historic manor from the 19th century.", "Strovolos is home to the headquarters of several major Cypriot financial institutions."],
     },
+    image: "/poi-images/cyprus-strovolos-cities-v2.webp",
   },
   {
     id: "cyprus-latsia-cities-v2",
@@ -64,6 +65,7 @@ export const cyprusCitiesV2: POI[] = [
       ro: ["Latsia a fost declarată municipalitate oficială în anul 1986.", "Stadionul GSP din localitate are o capacitate de 22.859 de locuri.", "Orașul este sediul administrativ al Universității Deschise din Cipru.", "Autostrada A1 trece prin Latsia, legând Nicosia de orașele de coastă.", "Populația orașului a crescut rapid după divizarea insulei în 1974.", "Localitatea găzduiește sediul Organizației Cipriote pentru Sport."],
       en: ["Latsia was officially established as a municipality in 1986.", "The GSP Stadium, located here, has a seating capacity of 22,859.", "It serves as the headquarters for the Open University of Cyprus.", "The A1 motorway provides a direct link between Latsia and Limassol.", "The area experienced rapid population growth following the events of 1974.", "Latsia is a key industrial center with several specialized business zones."],
     },
+    image: "/poi-images/cyprus-latsia-cities-v2.webp",
   },
   {
     id: "cyprus-kato-polemidia-cities-v2",
@@ -96,6 +98,7 @@ export const cyprusCitiesV2: POI[] = [
       ro: ["Kato Polemidia a dobândit statutul de municipalitate în anul 1986.", "Spitalul General din Limassol este situat în limitele acestui oraș.", "Municipalitatea se învecinează la sud cu baza militară britanică Akrotiri.", "Tradițional, economia locală se baza pe cultivarea roșcovilor.", "Orașul este un punct de acces major către autostrada A6 spre Paphos.", "Biserica Sfântul Nicolae reprezintă un reper istoric și religios local."],
       en: ["Kato Polemidia was officially established as a municipality in 1986.", "The Limassol General Hospital is located within this municipal area.", "The municipality shares a border with the British Sovereign Base Area of Akrotiri.", "Historically, carob production was the primary economic activity of the region.", "The A6 motorway links Kato Polemidia directly to the city of Paphos.", "The Church of Agios Nikolaos is one of the most significant religious sites."],
     },
+    image: "/poi-images/cyprus-kato-polemidia-cities-v2.webp",
   },
   {
     id: "cyprus-mesa-geitonia-cities-v2",
@@ -128,6 +131,7 @@ export const cyprusCitiesV2: POI[] = [
       ro: ["Mesa Geitonia a fost înființată ca municipalitate în anul 1986.", "Este una dintre cele mai dens populate zone din întregul district Limassol.", "Localitatea oferă acces imediat la drumul principal de centură al orașului.", "Numele său provine din limba greacă și se traduce ca 'Cartierul de Mijloc'.", "Zona este un centru important pentru sectorul de afaceri și servicii financiare.", "Municipalitatea administrează mai multe școli primare și secundare de stat."],
       en: ["Mesa Geitonia was officially established as a municipality in 1986.", "It is one of the most densely populated municipalities in Cyprus relative to its size.", "The area provides immediate access to the Limassol bypass and main highways.", "The name 'Mesa Geitonia' translates to 'Inner Neighborhood' in Greek.", "The municipality is a significant hub for international shipping and finance companies.", "It features several well-maintained urban parks despite its high building density."],
     },
+    image: "/poi-images/cyprus-mesa-geitonia-cities-v2.webp",
   },
   {
     id: "cyprus-agi-trimithia-cities-v2",
@@ -160,5 +164,6 @@ export const cyprusCitiesV2: POI[] = [
       ro: ["Satul este situat la o altitudine medie de 220 de metri deasupra nivelului mării.", "Biserica principală poartă hramul Sfinților Trimithias.", "Localitatea se află la o distanță de aproximativ 18 km de centrul Nicosiei.", "Economia tradițională a satului se bazează pe cultura cerealelor și a măslinilor.", "Populația satului a cunoscut o creștere constantă începând cu anii 2000.", "În apropierea satului se află facilități de emisie ale radiodifuziunii naționale."],
       en: ["The village is situated at an average altitude of 220 meters above sea level.", "The central church is dedicated to the local patron saints, the Agioi Trimithias.", "It is located approximately 18 kilometers west of Nicosia city center.", "Traditional agriculture in the area focuses heavily on olive and cereal production.", "The population has seen a significant increase due to suburbanization from Nicosia.", "Historical records mention the village as an important agricultural settlement in the Middle Ages."],
     },
+    image: "/poi-images/cyprus-agi-trimithia-cities-v2.webp",
   }
 ];

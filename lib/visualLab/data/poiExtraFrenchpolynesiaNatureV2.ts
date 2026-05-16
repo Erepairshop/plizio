@@ -31,6 +31,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
       ro: ["Înălțime: 2.241 m", "Insula: Tahiti", "Tip vulcan: vulcan scut", "Ultima erupție: acum peste 1 milion de ani", "Prima ascensiune: 1840", "Precipitații anuale: peste 8.000 mm"],
       en: ["Elevation: 2,241 m (7,352 ft)", "Location: Tahiti", "Volcano type: Shield volcano", "Last eruption: >1 million years ago", "First ascent: 1840", "Annual rainfall: >8,000 mm (315 in)"],
     },
+    image: "/poi-images/frenchpolynesia-mount-orohena-nature-v2.webp",
   },
   {
     id: "frenchpolynesia-mount-aorai-nature-v2",
@@ -62,6 +63,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
       ro: ["Înălțimea vârfului este de exact 2.066 de metri deasupra mării.", "Există două refugii pentru drumeți amplasate de-a lungul traseului.", "Traseul de drumeție începe în Pirae, la o altitudine de circa 600 de metri.", "Masivul Diadem este vizibil spre sud-vest de pe vârful muntelui.", "Norii acoperă adesea vârful încă de la primele ore ale amiezii.", "În zonele înalte cresc plante endemice rare, precum orhideea de Aorai."],
       en: ["The peak reaches an elevation of exactly 2,066 meters above sea level.", "Two shelters are available for hikers along the main climbing route.", "The trail begins in the Pirae district at approximately 600 meters elevation.", "The iconic Diadem massif is visible to the southwest from the summit.", "Cloud cover frequently envelops the peak by late morning.", "High-altitude zones support endemic flora, including the rare Aorai orchid."],
     },
+    image: "/poi-images/frenchpolynesia-mount-aorai-nature-v2.webp",
   },
   {
     id: "frenchpolynesia-fautaua-waterfall-nature-v2",
@@ -93,6 +95,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
       ro: ["Înălțime: 300 m", "Traseu: 4 km (dus)", "Debit mediu: 1,5 m³/s", "Vârsta stâncii: 500.000 de ani", "Alimentare apă: 30% din Papeete", "Prima documentare: 1850"],
       en: ["Height: 300 m (984 ft)", "Hike length: 4 km (2.5 mi) one way", "Average flow: 1.5 m³/s (53 ft³/s)", "Cliff age: 500,000 years", "Water supply: 30% of Papeete", "First documented: 1850"],
     },
+    image: "/poi-images/frenchpolynesia-fautaua-waterfall-nature-v2.webp",
   },
   {
     id: "frenchpolynesia-lake-vaihiria-nature-v2",
@@ -124,6 +127,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
       ro: ["Suprafață: 0,8 km²", "Adâncime maximă: 20 m", "Altitudine: 500 m", "Vârstă: 1,2 milioane de ani", "Pește endemic: guvid tahitian (Sicyopterus tahitiensis)", "Sit RAMSAR"],
       en: ["Area: 0.8 km² (0.31 sq mi)", "Max depth: 20 m (66 ft)", "Elevation: 500 m (1,640 ft)", "Age: 1.2 million years", "Endemic fish: Tahitian goby", "RAMSAR wetland site"],
     },
+    image: "/poi-images/frenchpolynesia-lake-vaihiria-nature-v2.webp",
   },
   {
     id: "frenchpolynesia-papenoo-valley-nature-v2",
@@ -155,6 +159,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
       ro: ["Lungime: 15 km", "Lungimea râului: 12 km", "Număr cascade: peste 20", "Arbore endemic: Fagraea papenooensis", "Număr marae: 5", "Precipitații anuale: 3.000 mm"],
       en: ["Length: 15 km (9.3 mi)", "River length: 12 km (7.5 mi)", "Waterfalls: over 20", "Endemic tree: Papenoo tree (Fagraea papenooensis)", "Number of marae: 5", "Annual rainfall: 3,000 mm (118 in)"],
     },
+    image: "/poi-images/frenchpolynesia-papenoo-valley-nature-v2.webp",
   },
   {
     id: "frenchpolynesia-teahupoo-coast-nature-v2",
@@ -186,6 +191,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
       ro: ["Înălțimea valurilor: până la 7 m", "Adâncimea apei la recif: 0,5 m la reflux", "Lățimea recifului: 200 m", "Populația satului: 1.500", "Primul surf: anii 1980", "Competiție anuală: Billabong Pro Tahiti"],
       en: ["Wave height: up to 7 m (23 ft)", "Reef depth: 0.5 m (1.6 ft) at low tide", "Reef width: 200 m (656 ft)", "Village population: 1,500", "First surfed: 1980s", "Annual event: Billabong Pro Tahiti"],
     },
+    image: "/poi-images/frenchpolynesia-teahupoo-coast-nature-v2.webp",
   },
   {
     id: "frenchpolynesia-maraa-grotto-nature-v2",
@@ -217,6 +223,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
       ro: ["Adâncime: 4 m", "Diametru: 30 m", "Temperatura apei: 24°C constantă", "Formare: prăbușirea unui tub de lavă", "Sursă apă: izvoare subterane", "Legenda regală"],
       en: ["Depth: 4 m (13 ft)", "Diameter: 30 m (98 ft)", "Water temperature: 24°C (75°F) constant", "Formation: collapsed lava tube", "Water source: underground springs", "Royal legend"],
     },
+    image: "/poi-images/frenchpolynesia-maraa-grotto-nature-v2.webp",
   },
   {
     id: "frenchpolynesia-mount-rotui-nature-v2",
@@ -248,6 +255,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
       ro: ["Înălțimea Muntelui Rotui este de 899 de metri.", "Este compus din trahit vechi, o rocă vulcanică foarte rezistentă.", "În mitologia locală, muntele este considerat un loc sacru al spiritelor.", "Formează o barieră naturală între cele două golfuri principale.", "Urcarea este considerată dificilă din cauza crestelor abrupte și expuse.", "Pe pantele sale inferioare se cultivă celebrul ananas de Moorea."],
       en: ["The summit of Mount Rotui reaches an elevation of 899 meters.", "The mountain is composed of ancient, erosion-resistant trachyte rock.", "In local mythology, the peak is revered as a sacred place for spirits.", "It serves as a massive natural partition between the two main bays.", "The hike to the top is considered strenuous due to steep, exposed ridges.", "Moorea's famous pineapples are grown on the mountain's lower slopes."],
     },
+    image: "/poi-images/frenchpolynesia-mount-rotui-nature-v2.webp",
   },
   {
     id: "frenchpolynesia-mount-tohivea-nature-v2",
@@ -279,6 +287,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
       ro: ["Înălțime: 1.207 m", "Insula: Moorea", "Diametru crater: 3 km", "Tip vulcan: vulcan scut", "Prima ascensiune: 1770", "Semnificație nume: vârf"],
       en: ["Elevation: 1,207 m (3,960 ft)", "Location: Moorea", "Crater diameter: 3 km (1.86 mi)", "Volcano type: shield volcano", "First ascent: 1770", "Name meaning: peak"],
     },
+    image: "/poi-images/frenchpolynesia-mount-tohivea-nature-v2.webp",
   },
   {
     id: "frenchpolynesia-opunohu-bay-nature-v2",
@@ -310,6 +319,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
       ro: ["James Cook a ancorat aici în 1777, deși golful vecin îi poartă numele.", "Golful are o lungime de aproximativ 3 kilometri și este foarte adânc.", "Valea Opunohu adăpostește numeroase situri arheologice de tip marae.", "Este un loc popular pentru observarea delfinilor rotitori.", "Munții înconjurători se ridică abrupt la peste 800 de metri înălțime.", "Apa golfului este mai rece decât cea a lagunei din cauza adâncimii mari."],
       en: ["James Cook actually anchored here in 1777, rather than in Cook's Bay.", "The bay extends approximately 3 kilometers inland and is notably deep.", "The Opunohu Valley contains many significant ancient marae sites.", "It is a frequent spotting location for pods of spinner dolphins.", "The surrounding mountains rise steeply to elevations over 800 meters.", "The bay's waters are cooler than the lagoon due to its great depth."],
     },
+    image: "/poi-images/frenchpolynesia-opunohu-bay-nature-v2.webp",
   },
   {
     id: "frenchpolynesia-cooks-bay-nature-v2",
@@ -341,6 +351,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
       ro: ["Golful este cunoscut local sub denumirea de 'Baie de Paopao'.", "Are o lungime de circa 3,5 kilometri și este protejat de recife.", "Satul Paopao se află la capătul sudic al golfului.", "Muntele Mouaputa (830 m) este cel mai vizibil punct de reper.", "Navele de croazieră și iahturile ancorează frecvent în aceste ape.", "Golful s-a format prin activitate vulcanică acum 1,5 milioane de ani."],
       en: ["The bay is locally referred to as 'Baie de Paopao'.", "It measures approximately 3.5 kilometers in length and is reef-protected.", "The village of Paopao is situated at the southern head of the bay.", "Mount Mouaputa (830 m) is its most iconic geographical landmark.", "Luxury cruise ships and private yachts frequently anchor in the bay.", "The bay was created by volcanic forces approximately 1.5 million years ago."],
     },
+    image: "/poi-images/frenchpolynesia-cooks-bay-nature-v2.webp",
   },
   {
     id: "frenchpolynesia-mount-otemanu-nature-v2",
@@ -372,6 +383,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
       ro: ["Înălțime: 727 m", "Vârstă: 3,5 milioane de ani", "Tip vulcan: vulcan scut", "Rocă: bazalt", "Volum estimat: 0,5 km³", "Drumeții nepermise"],
       en: ["Elevation: 727 m (2,385 ft)", "Age: 3.5 million years", "Volcano type: shield volcano", "Rock type: basalt", "Estimated volume: 0.5 km³", "No hiking allowed"],
     },
+    image: "/poi-images/frenchpolynesia-mount-otemanu-nature-v2.webp",
   },
   {
     id: "frenchpolynesia-mount-pahia-nature-v2",
@@ -403,6 +415,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
       ro: ["Înălțime de 661 de metri deasupra nivelului mării", "Al doilea cel mai înalt punct de pe insula Bora Bora", "Aparține geologic unui vulcan scut stins", "Urcarea durează aproximativ 4 până la 6 ore", "Vedere spre insulele vecine Maupiti și Tahaa", "Traseul necesită uneori cățărare cu ajutorul frânghiilor"],
       en: ["Elevation of 661 metres above sea level", "Second highest point on the island of Bora Bora", "Geologically part of an extinct shield volcano", "The ascent takes approximately 4 to 6 hours", "Views extend to Maupiti and Tahaa islands", "Trail involves sections requiring fixed ropes"],
     },
+    image: "/poi-images/frenchpolynesia-mount-pahia-nature-v2.webp",
   },
   {
     id: "frenchpolynesia-blue-lagoon-rangiroa-nature-v2",
@@ -434,6 +447,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
       ro: ["Laguna Albastră are o suprafață de aproximativ 1.446 de kilometri pătrați.", "Adâncimea maximă a lagunei este de 35 de metri.", "Vizibilitatea apei ajunge până la 40 de metri.", "Laguna găzduiește peste 500 de specii de pești.", "Temperatura medie a apei este de 27 de grade Celsius.", "Rangiroa face parte din arhipelagul Tuamotu, care cuprinde 78 de atoli."],
       en: ["The Blue Lagoon covers an area of approximately 1,446 square kilometers.", "The lagoon's maximum depth is 35 meters.", "Water visibility in the lagoon reaches up to 40 meters.", "Over 500 fish species inhabit the lagoon.", "The average water temperature is 27 degrees Celsius.", "Rangiroa is part of the Tuamotu Archipelago, consisting of 78 atolls."],
     },
+    image: "/poi-images/frenchpolynesia-blue-lagoon-rangiroa-nature-v2.webp",
   },
   {
     id: "frenchpolynesia-tiputa-pass-nature-v2",
@@ -465,6 +479,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
       ro: ["Pasajul Tiputa are o lățime de aproximativ 200 de metri.", "Adâncimea pasajului ajunge până la 30 de metri.", "Viteza curentului poate atinge 8 noduri.", "Razele manta pot avea o anvergură a aripilor de până la 5 metri.", "Coordonatele pasajului sunt 15° 7' S, 147° 38' V.", "Delfinii spinner pot fi observați în pasaj pe tot parcursul anului."],
       en: ["Tiputa Pass is approximately 200 meters wide.", "The pass has a maximum depth of 30 meters.", "Current speeds can reach up to 8 knots.", "Manta rays with wingspans up to 5 meters are common.", "The pass is located at coordinates 15° 7' S, 147° 38' W.", "Spinner dolphins are resident year-round in the pass."],
     },
+    image: "/poi-images/frenchpolynesia-tiputa-pass-nature-v2.webp",
   },
   {
     id: "frenchpolynesia-vaipo-waterfall-nature-v2",
@@ -496,6 +511,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
       ro: ["Cascada Vaipo are o înălțime de cădere de 350 de metri.", "Este situată în interiorul insulei Ua Pou.", "Cascada este alimentată de Muntele Oave.", "Insula Ua Pou are o suprafață de 105 kilometri pătrați.", "Cel mai înalt punct al insulei este Muntele Oave, cu 1.230 de metri.", "Cel mai bun sezon de vizitare este din mai până în octombrie."],
       en: ["Vaipo Waterfall has a drop height of 350 meters.", "It is located in the interior of Ua Pou Island.", "The waterfall is fed by Mount Oave.", "Ua Pou Island has an area of 105 square kilometers.", "The island's highest point is Mount Oave at 1,230 meters.", "The best time to visit is from May to October."],
     },
+    image: "/poi-images/frenchpolynesia-vaipo-waterfall-nature-v2.webp",
   },
   {
     id: "frenchpolynesia-hakaui-valley-nature-v2",
@@ -527,6 +543,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
       ro: ["Cascada Hakaui are o înălțime de cădere de 350 de metri.", "Valea este situată pe insula Nuku Hiva.", "Nuku Hiva este cea mai mare insulă din Marchize, cu 387 de kilometri pătrați.", "Valea găzduiește specii endemice de păsări, cum ar fi porumbelul marchizean.", "Precipitațiile medii anuale depășesc 2.000 de milimetri.", "Regiunea face parte din Rezervația Biosferei UNESCO-MAB."],
       en: ["Hakaui Waterfall has a drop height of 350 meters.", "The valley is located on Nuku Hiva Island.", "Nuku Hiva is the largest island in the Marquesas at 387 square kilometers.", "Endemic bird species such as the Marquesas fruit dove inhabit the valley.", "Average annual rainfall exceeds 2,000 millimeters.", "The area is part of the UNESCO-MAB Biosphere Reserve."],
     },
+    image: "/poi-images/frenchpolynesia-hakaui-valley-nature-v2.webp",
   },
   {
     id: "frenchpolynesia-taipivai-valley-nature-v2",
@@ -558,6 +575,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
       ro: ["Valea Taipivai este situată în estul insulei Nuku Hiva.", "Râul Taipivai are o lungime de aproximativ 10 kilometri.", "În vale există peste 20 de situri arheologice.", "Lățimea văii ajunge până la 2 kilometri.", "Temperatura medie este de 26 de grade Celsius.", "Populația văii este de aproximativ 500 de locuitori."],
       en: ["Taipivai Valley is located in eastern Nuku Hiva.", "The Taipivai River is about 10 kilometers long.", "Over 20 archaeological sites are found in the valley.", "The valley's width reaches up to 2 kilometers.", "Average temperature is 26 degrees Celsius.", "The valley population is approximately 500 people."],
     },
+    image: "/poi-images/frenchpolynesia-taipivai-valley-nature-v2.webp",
   },
   {
     id: "frenchpolynesia-mount-muake-nature-v2",
@@ -589,6 +607,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
       ro: ["Muntele Muake are o înălțime de 950 de metri.", "Este situat pe insula Nuku Hiva.", "Muntele este de origine vulcanică.", "Vârful oferă o vedere de 360 de grade.", "Drumeția până la vârf durează aproximativ 4 ore.", "Aici crește specia endemică de mirt marchizean."],
       en: ["Mount Muake is 950 meters high.", "It is located on Nuku Hiva Island.", "The mountain is of volcanic origin.", "The summit offers a 360-degree view.", "The hike to the summit takes about 4 hours.", "The endemic Marquesas myrtle grows here."],
     },
+    image: "/poi-images/frenchpolynesia-mount-muake-nature-v2.webp",
   },
   {
     id: "frenchpolynesia-bay-of-virgins-nature-v2",
@@ -620,6 +639,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
       ro: ["Golful Fecioarelor este situat pe insula Fatu Hiva.", "Fatu Hiva are o suprafață de 85 de kilometri pătrați.", "Cel mai înalt punct al insulei are 960 de metri.", "Golful are o lățime de aproximativ 500 de metri.", "Temperatura apei este de 27 de grade Celsius pe tot parcursul anului.", "Populația insulei Fatu Hiva este de aproape 500 de locuitori."],
       en: ["The Bay of Virgins is located on Fatu Hiva Island.", "Fatu Hiva has an area of 85 square kilometers.", "The island's highest point is 960 meters.", "The bay is about 500 meters wide.", "Water temperature is 27 degrees Celsius year-round.", "Fatu Hiva's population is just under 500 inhabitants."],
     },
+    image: "/poi-images/frenchpolynesia-bay-of-virgins-nature-v2.webp",
   },
   {
     id: "frenchpolynesia-mount-hiro-nature-v2",
@@ -651,6 +671,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
       ro: ["Muntele Hiro are 1.108 metri înălțime.", "Este situat pe insula Raiatea.", "Raiatea are o suprafață de 238 de kilometri pătrați.", "Muntele face parte dintr-un crater vulcanic.", "Urcarea durează aproximativ 2 ore.", "În apropiere se află situl sacru Taputapuatea."],
       en: ["Mount Hiro is 1,108 meters high.", "It is located on Raiatea Island.", "Raiatea has an area of 238 square kilometers.", "The mountain is part of a volcanic crater.", "Climbing takes about 2 hours.", "Nearby is the sacred site Taputapuatea."],
     },
+    image: "/poi-images/frenchpolynesia-mount-hiro-nature-v2.webp",
   },
   {
     id: "frenchpolynesia-mount-duff-nature-v2",
@@ -682,6 +703,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
       ro: ["Muntele Duff are 855 de metri înălțime.", "Este situat pe insula Ua Huka.", "Ua Huka are o suprafață de 83 de kilometri pătrați.", "Muntele este de origine vulcanică.", "Temperatura medie este de 25 de grade Celsius.", "Pe munte au fost înregistrate 10 specii endemice de orhidee."],
       en: ["Mount Duff is 855 meters high.", "It is located on Ua Huka Island.", "Ua Huka has an area of 83 square kilometers.", "The mountain is of volcanic origin.", "Average temperature is 25 degrees Celsius.", "10 endemic orchid species have been recorded on the mountain."],
     },
+    image: "/poi-images/frenchpolynesia-mount-duff-nature-v2.webp",
   },
   {
     id: "frenchpolynesia-mount-temehani-nature-v2",
@@ -713,6 +735,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
       ro: ["Muntele Temehani are 1.108 metri înălțime.", "Pe munte crește planta endemică Tiare Apetahi.", "Floarea înflorește doar o noapte pe an.", "Muntele face parte din vulcanul Raiatea.", "Temperatura medie pe vârf este de 20 de grade Celsius.", "Muntele este desemnat arie protejată."],
       en: ["Mount Temehani is 1,108 meters high.", "The endemic Tiare Apetahi grows on the mountain.", "The flower blooms only one night per year.", "The mountain is part of the Raiatea volcano.", "Average temperature at the summit is 20 degrees Celsius.", "The mountain is designated as a protected area."],
     },
+    image: "/poi-images/frenchpolynesia-mount-temehani-nature-v2.webp",
   },
   {
     id: "frenchpolynesia-faaroa-river-nature-v2",
@@ -744,6 +767,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
       ro: ["Râul Faaroa are o lungime de 8 kilometri.", "Este singurul râu navigabil din Polinezia Franceză.", "Râul se varsă în laguna Raiatea.", "Lățimea râului ajunge până la 15 metri.", "În râu trăiesc peste 20 de specii de pești.", "Plimbările cu canoe durează de obicei 2 ore."],
       en: ["The Faaroa River is 8 kilometers long.", "It is the only navigable river in French Polynesia.", "The river empties into Raiatea's lagoon.", "The river width reaches up to 15 meters.", "Over 20 fish species inhabit the river.", "Canoe trips typically last 2 hours."],
     },
+    image: "/poi-images/frenchpolynesia-faaroa-river-nature-v2.webp",
   },
   {
     id: "frenchpolynesia-garuae-pass-nature-v2",
@@ -775,6 +799,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
       ro: ["Pasajul Garuae are o lățime de 160 de metri.", "Adâncimea pasajului este de 60 de metri.", "Viteza curentului poate atinge 6 noduri.", "Peste 100 de rechini cenușii pot fi observați simultan.", "Coordonatele pasajului sunt 16° 20' S, 145° 40' V.", "Fakarava face parte din Rezervația Biosferei UNESCO."],
       en: ["Garuae Pass is 160 meters wide.", "The pass has a depth of 60 meters.", "Current speeds can reach 6 knots.", "Over 100 grey reef sharks can be seen at once.", "The pass is located at 16° 20' S, 145° 40' W.", "Fakarava is part of the UNESCO Biosphere Reserve."],
     },
+    image: "/poi-images/frenchpolynesia-garuae-pass-nature-v2.webp",
   },
   {
     id: "frenchpolynesia-tetamanu-pass-nature-v2",
@@ -806,6 +831,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
       ro: ["Pasajul Tetamanu are o lățime de aproximativ 100 de metri.", "Adâncimea ajunge până la 50 de metri.", "Razele manta sunt frecvente, cu o anvergură de 2 metri.", "Vizibilitatea subacvatică depășește 30 de metri.", "Pasajul este situat la capătul sudic al atolului.", "Temperatura apei este de 27 de grade Celsius."],
       en: ["Tetamanu Pass is about 100 meters wide.", "Depth reaches up to 50 meters.", "Manta rays with a wingspan of 2 meters are common.", "Underwater visibility exceeds 30 meters.", "The pass is at the southern end of the atoll.", "Water temperature is 27 degrees Celsius."],
     },
+    image: "/poi-images/frenchpolynesia-tetamanu-pass-nature-v2.webp",
   },
   {
     id: "frenchpolynesia-pink-sands-tikehau-nature-v2",
@@ -837,6 +863,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
       ro: ["Plajele cu nisip roz din Tikehau se întind pe 5 kilometri.", "Nisipul este format în proporție de 30% din fragmente de corali roșii.", "Laguna Tikehau are o suprafață de 400 de kilometri pătrați.", "Insula are aproximativ 500 de locuitori.", "Temperatura apei este de 28 de grade Celsius.", "Aproximativ 8.000 de turiști vizitează Tikehau anual."],
       en: ["The pink sand beaches of Tikehau stretch for 5 kilometers.", "The sand is 30% red coral fragments.", "Tikehau's lagoon covers an area of 400 square kilometers.", "The island has about 500 inhabitants.", "Water temperature is 28 degrees Celsius.", "Around 8,000 tourists visit Tikehau annually."],
     },
+    image: "/poi-images/frenchpolynesia-pink-sands-tikehau-nature-v2.webp",
   },
   {
     id: "frenchpolynesia-mount-perau-nature-v2",
@@ -868,6 +895,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
       ro: ["Muntele Perau are 1.107 metri înălțime.", "Este situat pe insula Moorea.", "Moorea are o suprafață de 134 de kilometri pătrați.", "Muntele este de origine vulcanică.", "Drumeția până la vârf durează 3-4 ore.", "De pe vârf se văd ambele golfuri."],
       en: ["Mount Perau is 1,107 meters high.", "It is located on Moorea Island.", "Moorea has an area of 134 square kilometers.", "The mountain is of volcanic origin.", "The hike to the summit takes 3-4 hours.", "From the summit, both bays are visible."],
     },
+    image: "/poi-images/frenchpolynesia-mount-perau-nature-v2.webp",
   },
   {
     id: "frenchpolynesia-arahoho-blowhole-nature-v2",
@@ -899,6 +927,7 @@ export const frenchpolynesiaNatureV2: POI[] = [
       ro: ["Gaura suflantă Arahoho stropește apa până la 10 metri înălțime.", "Este situată pe coasta de est a Tahiti Nui.", "Tahiti are o suprafață de 1.045 de kilometri pătrați.", "Formarea a avut loc prin eroziune costieră.", "Efectul este cel mai bine văzut în timpul valurilor mari.", "Locul este accesibil pe tot parcursul anului."],
       en: ["The Arahoho Blowhole sprays water up to 10 meters high.", "It is located on the east coast of Tahiti Nui.", "Tahiti has an area of 1,045 square kilometers.", "Formation occurred through coastal erosion.", "The effect is best seen during high swell.", "The site is accessible year-round."],
     },
+    image: "/poi-images/frenchpolynesia-arahoho-blowhole-nature-v2.webp",
   },
   {
     id: "frenchpolynesia-mount-tapioi-nature-v2",
@@ -930,5 +959,6 @@ export const frenchpolynesiaNatureV2: POI[] = [
       ro: ["Muntele Tapioi are 1.323 de metri înălțime.", "Este situat pe insula Tahiti.", "Tahiti Nui este partea mai mare a Tahiti.", "Muntele este de origine vulcanică.", "Drumeția până la vârf durează aproximativ 5 ore.", "Temperatura medie pe vârf este de 15 grade Celsius."],
       en: ["Mount Tapioi is 1,323 meters high.", "It is located on Tahiti Island.", "Tahiti Nui is the larger part of Tahiti.", "The mountain is of volcanic origin.", "The hike to the summit takes about 5 hours.", "Average temperature at the summit is 15 degrees Celsius."],
     },
+    image: "/poi-images/frenchpolynesia-mount-tapioi-nature-v2.webp",
   }
 ];

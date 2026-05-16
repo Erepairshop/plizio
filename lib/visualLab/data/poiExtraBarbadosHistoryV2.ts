@@ -31,6 +31,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Bridgetown a fost fondat în 1628.", "Situl UNESCO se întinde pe 100 de hectare.", "Clădirea Parlamentului a fost finalizată în 1870.", "Catedrala St. Michael a fost sfințită în 1789.", "Piața Națională a Eroilor poartă acest nume din 1999.", "Orașul a fost un centru major de comerț cu sclavi."],
       en: ["Bridgetown was founded in 1628.", "The UNESCO site covers 100 hectares.", "The Parliament Buildings were completed in 1870.", "St. Michael's Cathedral was consecrated in 1789.", "National Heroes Square was renamed in 1999.", "The city was a major slave-trading hub."],
     },
+    image: "/poi-images/barbados-historic-bridgetown-history-v2.webp",
   },
   {
     id: "barbados-st-anns-garrison-history-v2",
@@ -62,6 +63,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Garrison Savannah a fost deschis ca hipodrom în 1840.", "Garnizoana cuprinde 30 de clădiri.", "Construcția a durat din 1780 până în 1830.", "Cazărmile puteau găzdui 500 de soldați.", "Magazinele de pulbere puteau stoca 1.000 de butoaie de praf de pușcă.", "Clădirea principală de gardă datează din 1804."],
       en: ["Garrison Savannah opened as a racecourse in 1840.", "The garrison comprises 30 buildings.", "Construction spanned from 1780 to 1830.", "The barracks could accommodate 500 soldiers.", "Powder magazines held 1,000 barrels of gunpowder.", "The Main Guard House dates from 1804."],
     },
+    image: "/poi-images/barbados-st-anns-garrison-history-v2.webp",
   },
   {
     id: "barbados-morgan-lewis-windmill-history-v2",
@@ -93,6 +95,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Moara de vânt a fost construită în 1727.", "Are 15 metri înălțime.", "Anvergura elicelor este de 30 de metri.", "Piatra de moară are un diametru de 2 metri.", "Moara a funcționat până în 1947.", "A fost restaurată în 1995."],
       en: ["The windmill was built in 1727.", "It is 15 meters tall.", "The sail span is 30 meters.", "The millstone has a diameter of 2 meters.", "The mill operated until 1947.", "It was restored in 1995."],
     },
+    image: "/poi-images/barbados-morgan-lewis-windmill-history-v2.webp",
   },
   {
     id: "barbados-gun-hill-signal-station-history-v2",
@@ -124,6 +127,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Stația de semnalizare a fost construită în 1818.", "Se află la 200 de metri deasupra nivelului mării.", "Platforma de observare oferă o vedere de 360 de grade.", "Leul alb a fost sculptat în stâncă în 1868.", "Stația are două tunuri originale din secolul al XIX-lea.", "Era conectată cu alte 7 stații de pe insulă."],
       en: ["The signal station was built in 1818.", "It sits 200 meters above sea level.", "The viewing platform offers a 360-degree panorama.", "The white lion was carved into the rock in 1868.", "The station has two original 19th-century cannons.", "It was connected to 7 other stations on the island."],
     },
+    image: "/poi-images/barbados-gun-hill-signal-station-history-v2.webp",
   },
   {
     id: "barbados-codrington-college-history-v2",
@@ -155,6 +159,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Colegiul a fost fondat în 1745.", "Clădirile principale au fost construite în 1743.", "Biblioteca conține peste 20.000 de volume.", "Proprietatea se întinde pe 200 de hectare.", "Grădina botanică a fost înființată în 1775.", "Colegiul este unul dintre cele trei seminarii teologice din Caraibe."],
       en: ["The college was founded in 1745.", "The main buildings were completed in 1743.", "The library holds over 20,000 volumes.", "The estate covers 200 hectares.", "The botanical garden was established in 1775.", "It is one of three theological seminaries in the Caribbean."],
     },
+    image: "/poi-images/barbados-codrington-college-history-v2.webp",
   },
   {
     id: "barbados-george-washington-house-history-v2",
@@ -186,6 +191,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["George Washington a petrecut șase săptămâni aici în anul 1751.", "L-a însoțit pe fratele său bolnav, Lawrence, în vizita pe insulă.", "Clădirea era cunoscută anterior sub numele de Bush Hill House.", "Casa face parte din situl inclus în Patrimoniul Mondial UNESCO din Bridgetown.", "Proprietatea a fost restaurată și deschisă publicului în anul 2007.", "Se crede că Washington a contractat variola aici, devenind ulterior imun."],
       en: ["George Washington stayed at this location for six weeks in 1751.", "He accompanied his brother Lawrence, who was seeking a cure for tuberculosis.", "The building was historically known as the Bush Hill House.", "It is a key part of the UNESCO World Heritage site of Bridgetown.", "The house was officially reopened as a heritage museum in 2007.", "Washington contracted smallpox during this stay, granting him future immunity."],
     },
+    image: "/poi-images/barbados-george-washington-house-history-v2.webp",
   },
   {
     id: "barbados-nidhe-israel-synagogue-history-v2",
@@ -217,6 +223,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Construită în 1654", "Cea mai veche sinagogă din emisfera vestică", "Mikve din secolul al XVII-lea", "Descoperit în 2008", "Reconstruită în 1833", "Parte a patrimoniului UNESCO"],
       en: ["Built in 1654", "Oldest synagogue in the Western Hemisphere", "17th-century mikveh", "Discovered in 2008", "Rebuilt in 1833", "UNESCO World Heritage site component"],
     },
+    image: "/poi-images/barbados-nidhe-israel-synagogue-history-v2.webp",
   },
   {
     id: "barbados-parliament-buildings-history-v2",
@@ -248,6 +255,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Construit între 1870–1874", "Stil neogotic", "Adăpostește două camere", "Al treilea parlament permanent din lume (1639)", "Înălțime: 30 m", "Piatră din cariere locale"],
       en: ["Built 1870–1874", "Neo-Gothic style", "Houses two chambers", "Third continuous parliament in the world (1639)", "Height: 30 m", "Stone from local quarries"],
     },
+    image: "/poi-images/barbados-parliament-buildings-history-v2.webp",
   },
   {
     id: "barbados-farley-hill-national-park-history-v2",
@@ -279,6 +287,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Suprafață: 18 hectare", "Vizita regelui olandez în 1863", "Incendiu în 1957", "Altitudine: 150 m", "Numeroase specii de arbori tropicali", "Locație pentru concerte"],
       en: ["Area: 18 hectares", "Visit by Dutch king in 1863", "Fire in 1957", "Elevation: 150 m", "Numerous tropical tree species", "Concert venue"],
     },
+    image: "/poi-images/barbados-farley-hill-national-park-history-v2.webp",
   },
   {
     id: "barbados-sunbury-plantation-house-history-v2",
@@ -310,6 +319,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Construit în jurul anului 1660", "Unul dintre cele mai vechi conace", "Plantație de trestie de zahăr", "Colecție de trăsuri cu 20 de vehicule", "Muzeu din 1980", "Suprafața grădinii: 2 hectare"],
       en: ["Built around 1660", "One of the oldest great houses", "Sugar cane plantation", "Carriage collection with 20 vehicles", "Museum since 1980", "Garden area: 2 hectares"],
     },
+    image: "/poi-images/barbados-sunbury-plantation-house-history-v2.webp",
   },
   {
     id: "barbados-barbados-museum-history-v2",
@@ -341,6 +351,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Fondat în 1933", "Adăpostit într-o fostă închisoare din 1817", "Colecție: peste 500.000 de obiecte", "Suprafață expozițională: 1.200 m²", "Artefacte arawak din anul 500", "Parte a patrimoniului UNESCO Garrison"],
       en: ["Founded in 1933", "Housed in former prison from 1817", "Collection: over 500,000 objects", "Exhibition area: 1,200 m²", "Arawak artifacts from 500 CE", "Part of UNESCO Garrison World Heritage site"],
     },
+    image: "/poi-images/barbados-barbados-museum-history-v2.webp",
   },
   {
     id: "barbados-speightstown-historic-district-history-v2",
@@ -372,6 +383,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Fondat în secolul al XVII-lea", "Port important pentru exportul de zahăr", "Arhitectură georgiană", "Clădiri restaurate din 1650", "Suprafață: aprox. 10 hectare", "Populație: circa 3.000"],
       en: ["Founded in the 17th century", "Major sugar export port", "Georgian architecture", "Restored buildings from 1650", "Area: approx. 10 hectares", "Population: about 3,000"],
     },
+    image: "/poi-images/barbados-speightstown-historic-district-history-v2.webp",
   },
   {
     id: "barbados-holetown-monument-history-v2",
@@ -403,6 +415,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Ridicat în 1925", "Marchează debarcarea din 1625", "Obelisc din piatră de corali", "Înălțime: 6 m", "Locație: Holetown, coasta de vest", "300 de ani de la debarcare"],
       en: ["Erected in 1925", "Marks 1625 landing", "Coral stone obelisk", "Height: 6 m", "Location: Holetown, west coast", "300th anniversary"],
     },
+    image: "/poi-images/barbados-holetown-monument-history-v2.webp",
   },
   {
     id: "barbados-bussa-emancipation-statue-history-v2",
@@ -434,6 +447,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Dezvelită în 1985", "Statuie din bronz", "Înălțime: 3 m", "Îl onorează pe Bussa, liderul revoltei din 1816", "Locație: Heroes Square", "Reprezentat cu lanțuri rupte"],
       en: ["Unveiled in 1985", "Bronze statue", "Height: 3 m", "Honors Bussa, 1816 revolt leader", "Location: Heroes Square", "Depicted with broken chains"],
     },
+    image: "/poi-images/barbados-bussa-emancipation-statue-history-v2.webp",
   },
   {
     id: "barbados-sam-lords-castle-history-v2",
@@ -465,6 +479,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Construit în jurul anului 1820", "Stil georgian", "Legenda a 3 naufragii", "Hotel în anii 1970", "Uraganul Tomas 2010", "Înălțime: 2 etaje"],
       en: ["Built around 1820", "Georgian style", "Legend of 3 shipwrecks", "Converted to hotel in 1970s", "Hurricane Tomas 2010", "Two stories tall"],
     },
+    image: "/poi-images/barbados-sam-lords-castle-history-v2.webp",
   },
   {
     id: "barbados-st-johns-parish-church-history-v2",
@@ -496,6 +511,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Construită în 1836", "Distrusă de uragane (1675, 1780, 1831)", "Vitraliu cu 6 scene", "Înălțime: 20 m", "Altitudine: 80 m deasupra mării", "Vitraliu de Hardman & Co. (1848)"],
       en: ["Built in 1836", "Destroyed by hurricanes (1675, 1780, 1831)", "Stained glass window with 6 scenes", "Height: 20 m", "Elevation: 80 m above sea", "Stained glass by Hardman & Co. (1848)"],
     },
+    image: "/poi-images/barbados-st-johns-parish-church-history-v2.webp",
   },
   {
     id: "barbados-arlington-house-museum-history-v2",
@@ -527,6 +543,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Construit în secolul al XIX-lea", "Muzeu interactiv din 1996", "Model 3D al orașului", "Suprafață expozițională: 500 m²", "Focus pe industria zahărului", "30.000 de vizitatori anual"],
       en: ["Built in the 19th century", "Interactive museum since 1996", "3D model of the town", "Exhibition area: 500 m²", "Focus on sugar industry", "30,000 visitors annually"],
     },
+    image: "/poi-images/barbados-arlington-house-museum-history-v2.webp",
   },
   {
     id: "barbados-chamberlain-bridge-history-v2",
@@ -558,6 +575,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Original 1872", "Construcție nouă 2006", "Pod arc din oțel", "Lungime: 45 m", "Trafic pietonal și auto", "Leagă centrul orașului de port"],
       en: ["Original 1872", "New structure 2006", "Steel arch bridge", "Length: 45 m", "Pedestrian and vehicle traffic", "Connects city center to port"],
     },
+    image: "/poi-images/barbados-chamberlain-bridge-history-v2.webp",
   },
   {
     id: "barbados-cotton-tower-signal-station-history-v2",
@@ -589,6 +607,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Construit în secolul al XIX-lea", "Înălțime: 10 m", "Telegraf optic", "Locație: St. Philip", "Altitudine: 100 m", "Parte a rețelei de stații de semnalizare"],
       en: ["Built in the 19th century", "Height: 10 m", "Optical telegraph", "Location: St. Philip", "Elevation: 100 m", "Part of Signal Stations Network"],
     },
+    image: "/poi-images/barbados-cotton-tower-signal-station-history-v2.webp",
   },
   {
     id: "barbados-heroes-square-history-v2",
@@ -620,6 +639,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Redenumit în 1999", "Anterior Trafalgar Square", "Cenotaph ridicat în 1925", "Statuia Bussa din 1985", "Suprafață: 0,5 hectare", "Centrul Bridgetownului"],
       en: ["Renamed in 1999", "Formerly Trafalgar Square", "Cenotaph erected 1925", "Bussa statue 1985", "Area: 0.5 hectares", "Center of Bridgetown"],
     },
+    image: "/poi-images/barbados-heroes-square-history-v2.webp",
   },
   {
     id: "barbados-grenade-hall-signal-station-history-v2",
@@ -651,6 +671,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Construit în secolul al XIX-lea", "Înălțime: 8 m", "Construit din piatră de corali", "Parte a rețelei de stații de semnalizare", "Locație: St. Peter", "Înconjurat de rezervație naturală"],
       en: ["Built in the 19th century", "Height: 8 m", "Coral stone construction", "Part of Signal Stations Network", "Location: St. Peter", "Surrounded by nature reserve"],
     },
+    image: "/poi-images/barbados-grenade-hall-signal-station-history-v2.webp",
   },
   {
     id: "barbados-ragged-point-lighthouse-history-v2",
@@ -682,6 +703,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Construit în 1876", "Înălțime: 30 m", "Fontă", "Punctul cel mai estic", "Automatizat din anii 1970", "Luminează alb la fiecare 10 secunde"],
       en: ["Built in 1876", "Height: 30 m", "Cast iron", "Easternmost point", "Automated since 1970s", "White flash every 10 seconds"],
     },
+    image: "/poi-images/barbados-ragged-point-lighthouse-history-v2.webp",
   },
   {
     id: "barbados-south-point-lighthouse-history-v2",
@@ -713,6 +735,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Construit în 1852", "Înălțime: 27 m", "Calcar", "Punctul cel mai sudic", "Cel mai vechi far din Caraibe", "Inaccesibil publicului"],
       en: ["Built in 1852", "Height: 27 m", "Limestone", "Southernmost point", "Oldest lighthouse in the Caribbean", "Not open to public"],
     },
+    image: "/poi-images/barbados-south-point-lighthouse-history-v2.webp",
   },
   {
     id: "barbados-tyrol-cot-heritage-village-history-v2",
@@ -744,6 +767,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Deschis ca muzeu în 1962", "Suprafață: 2 hectare", "Case chattel din secolul al XVIII-lea", "Casa natală a lui Grantley Adams (1898)", "Expoziție permanentă de agricultură", "20.000 de vizitatori anual"],
       en: ["Opened as museum in 1962", "Area: 2 hectares", "Chattel houses from 18th century", "Birthplace of Grantley Adams (1898)", "Permanent agricultural exhibition", "20,000 visitors annually"],
     },
+    image: "/poi-images/barbados-tyrol-cot-heritage-village-history-v2.webp",
   },
   {
     id: "barbados-newton-slave-burial-ground-history-v2",
@@ -775,6 +799,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Peste 570 de morminte", "Descoperit în anii 1990", "Cel mai mare cimitir de sclavi din Caraibe", "Locație: Christ Church", "Săpături din 1997", "Date din perioada 1660–1820"],
       en: ["Over 570 graves", "Discovered in 1990s", "Largest slave cemetery in Caribbean", "Location: Christ Church", "Excavations since 1997", "Dated from 1660–1820"],
     },
+    image: "/poi-images/barbados-newton-slave-burial-ground-history-v2.webp",
   },
   {
     id: "barbados-main-guard-building-history-v2",
@@ -806,6 +831,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Construit în 1804", "Stil georgian", "Piatră de corali", "Parte a patrimoniului UNESCO", "Muzeu din 2008", "Suprafață: 400 m²"],
       en: ["Built in 1804", "Georgian style", "Coral stone", "Part of UNESCO World Heritage", "Museum since 2008", "Area: 400 m²"],
     },
+    image: "/poi-images/barbados-main-guard-building-history-v2.webp",
   },
   {
     id: "barbados-military-cemetery-history-v2",
@@ -837,6 +863,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Cimitirul a fost inaugurat în 1850.", "Peste 200 de morminte din secolul al XIX-lea sunt păstrate.", "Cele mai multe înmormântări au avut loc între 1900 și 1910.", "Suprafața medie a unui mormânt este de 2,5 metri pătrați.", "Cimitirul este administrat de Commonwealth War Graves Commission din 1945.", "Anual, aproximativ 50 de vizitatori vin aici."],
       en: ["The cemetery was inaugurated in 1850.", "Over 200 graves from the 19th century are preserved.", "The highest number of burials occurred between 1900 and 1910.", "The average grave area is 2.5 square metres.", "The cemetery has been managed by the Commonwealth War Graves Commission since 1945.", "Approximately 50 visitors come annually."],
     },
+    image: "/poi-images/barbados-military-cemetery-history-v2.webp",
   },
   {
     id: "barbados-rock-hall-free-village-history-v2",
@@ -868,6 +895,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Satul a fost fondat în 1835.", "Primele 50 de familii s-au stabilit aici.", "Fiecare familie a primit aproximativ 0,4 hectare de teren.", "Biserica a fost construită în 1840.", "Populația era de aproximativ 300 în 1850.", "Producția de trestie de zahăr a atins 20 de tone anual în 1900."],
       en: ["The village was founded in 1835.", "The first 50 families settled here.", "Each family received about 0.4 hectares of land.", "The church was built in 1840.", "The population was about 300 in 1850.", "Sugarcane production reached 20 tonnes annually by 1900."],
     },
+    image: "/poi-images/barbados-rock-hall-free-village-history-v2.webp",
   },
   {
     id: "barbados-st-georges-parish-church-history-v2",
@@ -899,6 +927,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Biserica a fost construită în 1630.", "Turnul are 30 de metri înălțime.", "Orga datează din 1765.", "Vitraliile au fost instalate în 1900.", "Cimitirul se întinde pe 0,5 hectare.", "Biserica poate găzdui 200 de credincioși."],
       en: ["The church was built in 1630.", "The tower is 30 metres tall.", "The organ dates from 1765.", "The stained glass was installed in 1900.", "The cemetery covers 0.5 hectares.", "The church can seat 200 worshippers."],
     },
+    image: "/poi-images/barbados-st-georges-parish-church-history-v2.webp",
   },
   {
     id: "barbados-harrison-point-lighthouse-history-v2",
@@ -930,6 +959,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Turnul a fost construit în 1925.", "Înălțimea este de 27 de metri.", "Raza de acțiune a luminii este de 18 mile marine.", "Farul a fost automatizat în 1975.", "Fundația are 3 metri adâncime.", "Culoarea turnului este albă."],
       en: ["The tower was built in 1925.", "The height is 27 metres.", "The light range is 18 nautical miles.", "The lighthouse was automated in 1975.", "The foundation is 3 metres deep.", "The tower colour is white."],
     },
+    image: "/poi-images/barbados-harrison-point-lighthouse-history-v2.webp",
   },
   {
     id: "barbados-christ-church-parish-history-v2",
@@ -961,6 +991,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Prima construcție a bisericii a avut loc în 1635.", "Reconstrucția după incendiu a fost finalizată în 1669.", "Turnul clopotniță a fost ridicat în 1780.", "Biserica are o capacitate de 300 de persoane.", "Tavanul din lemn datează din secolul al XVIII-lea.", "Cel mai vechi monument de marmură datează din 1710."],
       en: ["The first church building was in 1635.", "Rebuilding after the fire was completed in 1669.", "The bell tower was erected in 1780.", "The church seats 300 people.", "The wooden ceiling dates from the 18th century.", "The oldest marble monument dates from 1710."],
     },
+    image: "/poi-images/barbados-christ-church-parish-history-v2.webp",
   },
   {
     id: "barbados-oistins-historic-harbour-history-v2",
@@ -992,6 +1023,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Portul a fost menționat pentru prima dată în 1640.", "Tratatul de la Oistins a fost semnat în 1665.", "Piața de pește a fost deschisă în 1950.", "Cheiul a fost renovat în 1990.", "Anual sunt manipulates 500 de tone de pește.", "Adâncimea apei este de 4 metri."],
       en: ["The harbour was first mentioned in 1640.", "The Treaty of Oistins was signed in 1665.", "The fish market opened in 1950.", "The quay was renovated in 1990.", "500 tonnes of fish are handled annually.", "The water depth is 4 metres."],
     },
+    image: "/poi-images/barbados-oistins-historic-harbour-history-v2.webp",
   },
   {
     id: "barbados-st-peters-parish-church-history-v2",
@@ -1023,6 +1055,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Biserica a fost construită în 1628.", "Amvonul datează din 1690.", "Cristelnița este din 1650.", "Cimitirul se întinde pe 0,3 hectare.", "Biserica a fost reconstruită în 1831 după un uragan.", "Comunitatea numără 150 de membri."],
       en: ["The church was built in 1628.", "The pulpit dates from 1690.", "The baptismal font is from 1650.", "The cemetery covers 0.3 hectares.", "The church was rebuilt in 1831 after a hurricane.", "The congregation has 150 members."],
     },
+    image: "/poi-images/barbados-st-peters-parish-church-history-v2.webp",
   },
   {
     id: "barbados-st-lucys-parish-church-history-v2",
@@ -1054,6 +1087,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Biserica a fost construită în 1629.", "Extinderea a avut loc în 1845.", "Zidăria este din piatră calcaroasă de corali.", "Cimitirul are 50 de morminte.", "Biserica are 15 metri lungime.", "Comunitatea numără 80 de membri."],
       en: ["The church was built in 1629.", "The extension took place in 1845.", "The masonry is of coral limestone.", "The cemetery has 50 graves.", "The church is 15 metres long.", "The congregation has 80 members."],
     },
+    image: "/poi-images/barbados-st-lucys-parish-church-history-v2.webp",
   },
   {
     id: "barbados-st-philips-parish-church-history-v2",
@@ -1085,6 +1119,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Biserica a fost construită în 1640.", "Nava din lemn are 20 de metri lungime.", "Clopotul datează din 1750.", "Cimitirul se întinde pe 0,4 hectare.", "Biserica a fost reconstruită în 1854 după un cutremur.", "Comunitatea numără 200 de membri."],
       en: ["The church was built in 1640.", "The wooden nave is 20 metres long.", "The bell dates from 1750.", "The cemetery covers 0.4 hectares.", "The church was rebuilt in 1854 after an earthquake.", "The congregation has 200 members."],
     },
+    image: "/poi-images/barbados-st-philips-parish-church-history-v2.webp",
   },
   {
     id: "barbados-needhams-point-lighthouse-history-v2",
@@ -1116,6 +1151,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Farul a fost construit în 1855.", "Înălțimea este de 25 de metri.", "Raza de acțiune a luminii este de 20 de mile marine.", "Electrificarea a avut loc în 1930.", "Turnul este din fontă.", "Vopsirea roșu-alb a fost aplicată în 1920."],
       en: ["The lighthouse was built in 1855.", "The height is 25 metres.", "The light range is 20 nautical miles.", "Electrification occurred in 1930.", "The tower is made of cast iron.", "The red and white paint was applied in 1920."],
     },
+    image: "/poi-images/barbados-needhams-point-lighthouse-history-v2.webp",
   },
   {
     id: "barbados-bushy-park-great-house-history-v2",
@@ -1147,6 +1183,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Casa principală a fost construită în 1750.", "Moara de vânt datează din 1790.", "Proprietatea are 10 hectare.", "Restaurarea a avut loc în 1955.", "Muzeul a fost deschis în 1960.", "Anual vin 5.000 de vizitatori."],
       en: ["The main house was built in 1750.", "The windmill dates from 1790.", "The estate covers 10 hectares.", "The restoration took place in 1955.", "The museum opened in 1960.", "5,000 visitors come annually."],
     },
+    image: "/poi-images/barbados-bushy-park-great-house-history-v2.webp",
   },
   {
     id: "barbados-fisherpond-great-house-history-v2",
@@ -1178,6 +1215,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Casa a fost construită în 1680.", "Suprafața este de 300 de metri pătrați.", "Grădina are 2 hectare.", "Restaurarea a început în 1985.", "Evenimentele au loc din 1990.", "Iazul are 0,5 hectare."],
       en: ["The house was built in 1680.", "The floor area is 300 square metres.", "The garden covers 2 hectares.", "The restoration began in 1985.", "Events have been held since 1990.", "The pond is 0.5 hectares."],
     },
+    image: "/poi-images/barbados-fisherpond-great-house-history-v2.webp",
   },
   {
     id: "barbados-brighton-great-house-history-v2",
@@ -1209,6 +1247,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Casa a fost construită în jurul anului 1720.", "Înălțimea casei este de 12 metri.", "Terenul are 8 hectare.", "Ultima renovare a fost în 1890.", "Casa are 15 camere.", "A aparținut familiei Ince între 1800 și 1850."],
       en: ["The house was built around 1720.", "The height of the house is 12 metres.", "The estate covers 8 hectares.", "The last remodelling was in 1890.", "The house has 15 rooms.", "It was owned by the Ince family from 1800 to 1850."],
     },
+    image: "/poi-images/barbados-brighton-great-house-history-v2.webp",
   },
   {
     id: "barbados-malvern-great-house-history-v2",
@@ -1240,6 +1279,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Casa a fost construită în 1760.", "Suprafața este de 400 de metri pătrați.", "Grădina are 1,5 hectare.", "Restaurarea a avut loc în 1975.", "Familia Gay a deținut proprietatea între 1780 și 1920.", "Casa are 12 camere."],
       en: ["The house was built in 1760.", "The floor area is 400 square metres.", "The garden is 1.5 hectares.", "The restoration took place in 1975.", "The Gay family owned the estate from 1780 to 1920.", "The house has 12 rooms."],
     },
+    image: "/poi-images/barbados-malvern-great-house-history-v2.webp",
   },
   {
     id: "barbados-francia-plantation-house-history-v2",
@@ -1271,6 +1311,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Plantația a fost fondată în 1640.", "Casa principală are o suprafață de 350 de metri pătrați.", "Distileria a fost construită în 1700.", "Proprietatea are 12 hectare.", "Restaurarea s-a încheiat în 2008.", "Muzeul a fost deschis în 2010."],
       en: ["The plantation was founded in 1640.", "The main house has a floor area of 350 square metres.", "The distillery was built in 1700.", "The estate covers 12 hectares.", "The restoration was completed in 2008.", "The museum opened in 2010."],
     },
+    image: "/poi-images/barbados-francia-plantation-house-history-v2.webp",
   },
   {
     id: "barbados-drill-hall-garrison-history-v2",
@@ -1302,6 +1343,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Sala a fost construită în 1804.", "Lungimea este de 60 de metri.", "Lățimea este de 15 metri.", "Înălțimea până la coama acoperișului este de 8 metri.", "Muzeul a fost fondat în 1933.", "Renovarea acoperișului a costat 500.000 de dolari."],
       en: ["The hall was built in 1804.", "The length is 60 metres.", "The width is 15 metres.", "The height to the roof ridge is 8 metres.", "The museum was founded in 1933.", "The roof renovation cost $500,000."],
     },
+    image: "/poi-images/barbados-drill-hall-garrison-history-v2.webp",
   },
   {
     id: "barbados-st-thomas-parish-church-history-v2",
@@ -1333,6 +1375,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Biserica a fost construită în 1630.", "Turnul are 18 metri înălțime.", "Epitaful lui Sir William Tufton datează din 1640.", "Cimitirul are 1 hectar.", "Biserica a fost reconstruită în 1831 după un uragan.", "Comunitatea numără 250 de membri."],
       en: ["The church was built in 1630.", "The tower is 18 metres tall.", "The epitaph for Sir William Tufton dates from 1640.", "The cemetery is 1 hectare.", "The church was rebuilt in 1831 after a hurricane.", "The congregation has 250 members."],
     },
+    image: "/poi-images/barbados-st-thomas-parish-church-history-v2.webp",
   },
   {
     id: "barbados-st-joseph-parish-church-history-v2",
@@ -1364,6 +1407,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Biserica a fost construită în 1645.", "Lungimea este de 25 de metri.", "Acoperișul este din țiglă roșie.", "Galeria datează din 1700.", "Cimitirul are 0,2 hectare.", "Renovarea a costat 100.000 de dolari."],
       en: ["The church was built in 1645.", "The length is 25 metres.", "The roof is of red tiles.", "The gallery dates from 1700.", "The cemetery is 0.2 hectares.", "The renovation cost $100,000."],
     },
+    image: "/poi-images/barbados-st-joseph-parish-church-history-v2.webp",
   },
   {
     id: "barbados-welchman-hall-gully-history-v2",
@@ -1395,6 +1439,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Râpa are o lungime de 1,5 kilometri.", "Adâncimea ajunge până la 20 de metri.", "Deschiderea ca rezervație naturală a fost în 1965.", "Există peste 50 de specii de plante.", "Numărul anual de vizitatori este de 30.000.", "Prețul biletului este de 5 USD."],
       en: ["The gully is 1.5 kilometres long.", "The depth reaches up to 20 metres.", "It opened as a nature reserve in 1965.", "There are over 50 plant species.", "Annual visitor count is 30,000.", "The entrance fee is $5."],
     },
+    image: "/poi-images/barbados-welchman-hall-gully-history-v2.webp",
   },
   {
     id: "barbados-flower-forest-plantation-history-v2",
@@ -1426,6 +1471,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Plantația a fost deschisă în 1989.", "Suprafața este de 20 de hectare.", "Altitudinea este de 150 de metri deasupra nivelului mării.", "Există peste 200 de specii de plante.", "Prețul biletului este de 10 USD.", "Anual vin 40.000 de vizitatori."],
       en: ["The plantation opened in 1989.", "The area is 20 hectares.", "The elevation is 150 metres above sea level.", "There are over 200 plant species.", "The entry fee is $10.", "40,000 visitors come annually."],
     },
+    image: "/poi-images/barbados-flower-forest-plantation-history-v2.webp",
   },
   {
     id: "barbados-mount-hillaby-viewpoint-history-v2",
@@ -1457,6 +1503,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Altitudine: 340 m", "Situat în parohia Saint Andrew", "Distanță față de Bridgetown: 13,1 km NE", "Temperatura medie anuală: 26°C", "Precipitații anuale: ~1500 mm", "Aproximativ 200.000 de vizitatori pe an"],
       en: ["Elevation: 340 meters (1,115 ft)", "Located in Saint Andrew Parish, Scotland District", "Distance from Bridgetown: 13.1 km (8.1 mi) northeast", "Annual rainfall: ~1,500 mm (59 in)", "Average temperature: 26°C (79°F)", "Estimated visitors per year: 200,000"],
     },
+    image: "/poi-images/barbados-mount-hillaby-viewpoint-history-v2.webp",
   },
   {
     id: "barbados-animal-flower-cave-history-v2",
@@ -1488,6 +1535,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Localizare: St. Lucy, extremitatea nordică a insulei", "Vârstă: aproximativ 500.000 de ani", "Înălțimea tavanului: până la 3 metri", "Diferență de maree: până la 1,5 m", "Adâncimea bălților: până la 1 metru", "Vizitatori anual: peste 150.000"],
       en: ["Location: St. Lucy, northernmost point of Barbados", "Age: approximately 500,000 years", "Ceiling height: up to 3 meters (9.8 ft)", "Tidal range: up to 1.5 meters (4.9 ft)", "Pool depth: up to 1 meter (3.3 ft)", "Annual visitors: over 150,000"],
     },
+    image: "/poi-images/barbados-animal-flower-cave-history-v2.webp",
   },
   {
     id: "barbados-st-anns-fort-history-v2",
@@ -1519,6 +1567,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Anul construirii: 1704", "Suprafață: aproximativ 2 hectare", "Adâncimea șanțului: 3 metri", "Număr de tunuri: 42", "Înălțimea bastioanelor: 6 metri", "Utilizare militară continuă din 1705"],
       en: ["Year built: 1704", "Area: approximately 2 hectares (4.9 acres)", "Moat depth: 3 meters (9.8 ft)", "Number of cannons: 42", "Bastion height: 6 meters (19.7 ft)", "Continuous military use since 1705"],
     },
+    image: "/poi-images/barbados-st-anns-fort-history-v2.webp",
   },
   {
     id: "barbados-pavilion-court-history-v2",
@@ -1550,6 +1599,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Anul construcției: cca. 1780", "Stil arhitectural: georgian", "Număr de etaje: 3", "Restaurare: 1994", "Obloane: 24 sculptate manual", "Suprafața la sol: 240 m²"],
       en: ["Year built: circa 1780", "Architectural style: Georgian", "Number of floors: 3", "Year of restoration: 1994", "Number of hand-carved shutters: 24", "Ground floor area: 240 m² (2,583 sq ft)"],
     },
+    image: "/poi-images/barbados-pavilion-court-history-v2.webp",
   },
   {
     id: "barbados-st-nicholas-abbey-railway-history-v2",
@@ -1581,6 +1631,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Lungimea liniei: 1,6 km", "Deschidere: 2018", "Locomotivă: replică a unei locomotive cu abur 0-4-0", "Ecartament: 762 mm (îngust)", "Timp de călătorie: aprox. 20 minute", "Pasageri anual: peste 50.000"],
       en: ["Track length: 1.6 km (1 mile)", "Opened: 2018", "Locomotive: replica 0-4-0 steam engine", "Gauge: 762 mm (2 ft 6 in) narrow gauge", "Journey time: approximately 20 minutes", "Annual passengers: over 50,000"],
     },
+    image: "/poi-images/barbados-st-nicholas-abbey-railway-history-v2.webp",
   },
   {
     id: "barbados-cherry-tree-hill-history-v2",
@@ -1612,6 +1663,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Altitudine: 85 m deasupra nivelului mării", "Situat în parohia St. Peter", "Vârsta baobabilor: până la 300 de ani", "Diametrul trunchiurilor de baobab: până la 10 m", "Distanța față de Bridgetown: 22 km", "Temperatura medie anuală: 27°C"],
       en: ["Elevation: 85 meters (279 ft) above sea level", "Located in St. Peter Parish", "Age of baobab trees: up to 300 years", "Baobab trunk diameter: up to 10 meters (33 ft)", "Distance from Bridgetown: 22 km (14 mi)", "Average annual temperature: 27°C (81°F)"],
     },
+    image: "/poi-images/barbados-cherry-tree-hill-history-v2.webp",
   },
   {
     id: "barbados-careenage-waterfront-history-v2",
@@ -1643,6 +1695,7 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Lungimea promenadei: 1,2 km", "Adâncimea bazinului: până la 4 m", "Număr de pontoane: 12", "Anul construirii bazinului: 1650", "Mișcări navale anuale: cca. 500", "Temperatura apei: medie 27°C"],
       en: ["Promenade length: 1.2 km (0.75 mi)", "Careenage depth: up to 4 meters (13 ft)", "Number of docking berths: 12", "Construction of basin: 1650", "Annual vessel movements: approximately 500", "Average water temperature: 27°C (81°F)"],
     },
+    image: "/poi-images/barbados-careenage-waterfront-history-v2.webp",
   },
   {
     id: "barbados-blackmans-gully-bridge-history-v2",
@@ -1674,5 +1727,6 @@ export const barbadosHistoryV2: POI[] = [
       ro: ["Anul construcției: cca. 1750", "Lungime: 20 m", "Lățime: 4 m", "Înălțime deasupra canionului: 8 m", "Material: calcar coraligen", "Monument istoric protejat din 1990"],
       en: ["Year built: circa 1750", "Length: 20 meters (65.6 ft)", "Width: 4 meters (13.1 ft)", "Height above gully: 8 meters (26.2 ft)", "Material: coral limestone", "Protected heritage status since 1990"],
     },
+    image: "/poi-images/barbados-blackmans-gully-bridge-history-v2.webp",
   }
 ];

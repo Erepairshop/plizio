@@ -31,6 +31,7 @@ export const venezuelaNatureV2: POI[] = [
       ro: ["Înălțimea totală a cascadei este stabilită oficial la 979 de metri.", "Cea mai lungă cădere de apă neîntreruptă măsoară 807 metri.", "Cascada este de aproximativ 15 ori mai înaltă decât Cascada Niagara.", "Indigenii Pemon folosesc numele Kerepakupai Merú pentru această cascadă.", "Avionul lui Jimmie Angel, 'El Rio Caroni', a rămas pe Auyán-tepui timp de 33 de ani.", "Parcul Canaima, unde se află cascada, este la fel de mare ca suprafața Belgiei."],
       en: ["The total height of the waterfall is officially recorded as 979 meters.", "The single longest uninterrupted drop of water is 807 meters.", "The waterfall is approximately 15 times taller than Niagara Falls.", "The indigenous Pemon people call it Kerepakupai Merú.", "Jimmie Angel's aircraft, 'El Rio Caroni', remained on Auyán-tepui for 33 years.", "Canaima National Park, where it is located, is roughly the size of Belgium."],
     },
+    image: "/poi-images/venezuela-salto-angel-nature-v2.webp",
   },
   {
     id: "venezuela-pico-bolivar-nature-v2",
@@ -62,6 +63,7 @@ export const venezuelaNatureV2: POI[] = [
       ro: ["Altitudinea oficială a fost stabilită în anul 2002 la 4.978,40 metri.", "Muntele s-a numit inițial La Columna, înainte de a fi redenumit în 1925.", "Prima ascensiune reușită a avut loc pe data de 5 ianuarie 1935.", "Ghețarul principal de pe Pico Bolívar se numește Glaciar de los Timoncitos.", "Există un bust al lui Simón Bolívar amplasat chiar pe vârful muntelui.", "Telecabina din Mérida ajunge până la altitudinea de 4.765 metri pe Pico Espejo."],
       en: ["The official elevation was measured in 2002 as 4,978.40 meters.", "The mountain was originally called La Columna before being renamed in 1925.", "The first successful ascent was completed on January 5, 1935.", "The main glacier on Pico Bolívar is known as Glaciar de los Timoncitos.", "There is a bust of Simón Bolívar located directly at the mountain's summit.", "The Mérida cable car reaches an altitude of 4,765 meters at Pico Espejo."],
     },
+    image: "/poi-images/venezuela-pico-bolivar-nature-v2.webp",
   },
   {
     id: "venezuela-lago-de-maracaibo-nature-v2",
@@ -93,6 +95,7 @@ export const venezuelaNatureV2: POI[] = [
       ro: ["Vârsta estimată a lacului este de aproximativ 36 de milioane de ani.", "Podul General Rafael Urdaneta are o lungime totală de 8.678 de metri.", "Fenomenul fulgerelor Catatumbo apare în medie 160 de zile pe an.", "Adâncimea maximă a lacului este de aproximativ 60 de metri.", "Prima sondă comercială de petrol din Venezuela a fost forată aici în 1914.", "Aproximativ 135 de râuri se varsă în apele lacului Maracaibo."],
       en: ["The lake has an estimated age of about 36 million years.", "The General Rafael Urdaneta Bridge is 8,678 meters long.", "Catatumbo lightning occurs on up to 160 days per year.", "The lake reaches a maximum depth of approximately 60 meters.", "The first commercial oil well in Venezuela was drilled here in 1914.", "Approximately 135 rivers flow into Lake Maracaibo."],
     },
+    image: "/poi-images/venezuela-lago-de-maracaibo-nature-v2.webp",
   },
   {
     id: "venezuela-medanos-de-coro-nature-v2",
@@ -124,6 +127,7 @@ export const venezuelaNatureV2: POI[] = [
       ro: ["Parcul național a fost înființat oficial pe data de 6 februarie 1974.", "Dunele se deplasează constant spre vest din cauza vânturilor alizee.", "Parcul este situat la o altitudine medie de aproximativ 20 de metri.", "Temperatura anuală variază de obicei între 27 și 30 de grade Celsius.", "Aproape că nu există apă de suprafață în parc, precipitațiile fiind rare.", "Nisipul este compus în principal din cuarț și resturi organice calcaroase."],
       en: ["The national park was officially established on February 6, 1974.", "The dunes are constantly shifting westward due to the trade winds.", "The park is situated at an average elevation of about 20 meters above sea level.", "The annual temperature usually fluctuates between 27 and 30 degrees Celsius.", "There is almost no surface water in the park, as rainfall is very rare.", "The sand consists mainly of quartz and organic calcareous remains."],
     },
+    image: "/poi-images/venezuela-medanos-de-coro-nature-v2.webp",
   },
   {
     id: "venezuela-pico-humboldt-nature-v2",
@@ -155,6 +159,7 @@ export const venezuelaNatureV2: POI[] = [
       ro: ["Vârful se află la o altitudine de 4.940 de metri deasupra mării.", "Prima ascensiune a fost realizată de Alfredo Jahn la 16 ianuarie 1911.", "Glaciar de La Corona este al doilea cel mai mare ghețar din țară.", "Temperatura medie la nivelul vârfului este adesea sub zero grade Celsius.", "Muntele este protejat în cadrul Parcului Național Sierra Nevada din 1952.", "Cercetătorii estimează dispariția totală a ghețarului până în anul 2030."],
       en: ["The summit is located at 4,940 meters above sea level.", "The first climber, Alfredo Jahn, reached the summit on January 16, 1911.", "The Glaciar de La Corona is the second-largest glacier in Venezuela.", "The average temperature at the summit is frequently below freezing.", "The mountain is part of Sierra Nevada National Park, established in 1952.", "Scientists predict the complete disappearance of the glacier by 2030."],
     },
+    image: "/poi-images/venezuela-pico-humboldt-nature-v2.webp",
   },
   {
     id: "venezuela-parque-henry-pittier-nature-v2",
@@ -186,6 +191,7 @@ export const venezuelaNatureV2: POI[] = [
       ro: ["La înființarea sa în 1937, parcul s-a numit inițial Rancho Grande.", "Adăpostește peste 580 de specii de păsări, circa 40% din speciile din Venezuela.", "Cel mai înalt vârf din parc este Pico El Cenizo, având 2.436 de metri.", "Aproximativ 140 de specii diferite de mamifere trăiesc în zona parcului.", "În parc există nouă râuri principale care se varsă în Marea Caraibilor.", "Pasul Portachuelo este situat la o altitudine de 1.128 de metri."],
       en: ["The park was originally named Rancho Grande when established in 1937.", "It is home to over 580 bird species, about 40% of all species in Venezuela.", "The highest peak in the park is Pico El Cenizo at 2,436 meters.", "Approximately 140 different mammal species inhabit the park area.", "There are nine significant rivers in the park that flow into the Caribbean Sea.", "The Portachuelo Pass is located at an altitude of 1,128 meters."],
     },
+    image: "/poi-images/venezuela-parque-henry-pittier-nature-v2.webp",
   },
   {
     id: "venezuela-peninsula-de-paria-nature-v2",
@@ -217,6 +223,7 @@ export const venezuelaNatureV2: POI[] = [
       ro: ["Columb a debarcat aici pe data de 5 august 1498.", "Parcul național a fost înființat la 12 decembrie 1978.", "Cea mai mare altitudine este vârful Cerro El Humo, de 1.373 de metri.", "Peninsula se întinde pe o lungime de aproximativ 120 de kilometri.", "Circa 70% din suprafața peninsulei este acoperită de păduri dense.", "Regiunea este un loc important de depunere a ouălor pentru țestoasa luth."],
       en: ["Columbus landed here on August 5, 1498.", "The national park was established on December 12, 1978.", "The highest point is Cerro El Humo at 1,373 meters above sea level.", "The peninsula extends for a length of approximately 120 kilometers.", "About 70% of the peninsula is covered by dense forests.", "The region is a vital nesting site for the leatherback sea turtle."],
     },
+    image: "/poi-images/venezuela-peninsula-de-paria-nature-v2.webp",
   },
   {
     id: "venezuela-isla-margarita-nature-v2",
@@ -248,6 +255,7 @@ export const venezuelaNatureV2: POI[] = [
       ro: ["Insula are o suprafață de aproximativ 1.020 de kilometri pătrați.", "Cel mai înalt munte este Cerro El Copey, având 930 de metri.", "Isla Margarita a fost descoperită de Cristofor Columb în 1498.", "Linia de coastă a insulei măsoară aproximativ 168 de kilometri.", "Parcul Național La Restinga a fost înființat în anul 1974.", "Porlamar este cel mai mare oraș și centrul economic al insulei."],
       en: ["The island has a surface area of approximately 1,020 square kilometers.", "The highest mountain is Cerro El Copey at 930 meters high.", "Margarita was discovered by Christopher Columbus in 1498.", "The island possesses a coastline of about 168 kilometers.", "La Restinga National Park was officially established in 1974.", "Porlamar is the largest city and the economic heart of the island."],
     },
+    image: "/poi-images/venezuela-isla-margarita-nature-v2.webp",
   },
   {
     id: "venezuela-los-roques-nature-v2",
@@ -279,6 +287,7 @@ export const venezuelaNatureV2: POI[] = [
       ro: ["Parcul național a fost înființat la data de 8 august 1972.", "Arhipelagul acoperă o suprafață totală de 221.120 de hectare.", "Există peste 60 de specii diferite de corali în recifele de aici.", "Temperatura medie anuală este de aproximativ 27,3 grade Celsius.", "Los Roques este cel mai mare parc național marin din Marea Caraibilor.", "Aproximativ 92 de specii de păsări au fost documentate în arhipelag."],
       en: ["The national park was established on August 8, 1972.", "The archipelago covers a total area of 221,120 hectares.", "There are over 60 different species of coral found in the reefs.", "The annual average temperature is approximately 27.3 degrees Celsius.", "Los Roques is the largest marine national park in the Caribbean.", "About 92 species of birds have been documented in the archipelago."],
     },
+    image: "/poi-images/venezuela-los-roques-nature-v2.webp",
   },
   {
     id: "venezuela-llanos-nature-v2",
@@ -310,6 +319,7 @@ export const venezuelaNatureV2: POI[] = [
       ro: ["Regiunea se întinde pe aproximativ 375.000 de kilometri pătrați în Venezuela.", "Fluviul Orinoco este principala arteră care drenează bazinul Llanos.", "Altitudinea medie este de mai puțin de 200 de metri deasupra mării.", "În sezonul ploios, nivelul apei crește în multe locuri cu câțiva metri.", "Peste 350 de specii de păsări au fost numărate în zonele umede din Llanos.", "Orașul San Juan de los Morros este considerat „poarta către Llanos”."],
       en: ["The region covers approximately 375,000 square kilometers in Venezuela.", "The Orinoco is the primary river draining the Llanos basin.", "The average elevation is less than 200 meters above sea level.", "During the rainy season, the water level rises by several meters in many areas.", "Over 350 bird species have been recorded in the Llanos wetlands.", "The city of San Juan de los Morros is known as the 'Gateway to the Llanos'."],
     },
+    image: "/poi-images/venezuela-llanos-nature-v2.webp",
   },
   {
     id: "venezuela-rio-orinoco-nature-v2",
@@ -341,6 +351,7 @@ export const venezuelaNatureV2: POI[] = [
       ro: ["Lungime totală de aproximativ 2140 kilometri", "Bazin hidrografic de 880.000 kilometri pătrați", "Debit mediu la vărsare de 33.000 m³/s", "Conexiune naturală cu Amazonul prin canalul Casiquiare", "Explorat de Diego de Ordaz începând cu anul 1531", "Delta fluviului acoperă circa 22.500 km²"],
       en: ["Total length of approximately 2,140 kilometers", "Basin area covers 880,000 square kilometers", "Average discharge of 33,000 cubic meters per second", "Natural connection to the Amazon via Casiquiare canal", "First European navigation by Diego de Ordaz in 1531", "The delta covers an area of 22,500 square kilometers"],
     },
+    image: "/poi-images/venezuela-rio-orinoco-nature-v2.webp",
   },
   {
     id: "venezuela-pico-bonpland-nature-v2",
@@ -372,6 +383,7 @@ export const venezuelaNatureV2: POI[] = [
       ro: ["Altitudine de 4880 metri deasupra nivelului mării", "Parte integrantă a Sierra Nevada de Mérida", "Denumit după botanistul francez Aimé Bonpland", "Formează masivul La Corona împreună cu Pico Humboldt", "Structură geologică formată din gnais precambrian", "Ghețarul La Coromoto a dispărut aproape integral"],
       en: ["Elevation of 4,880 meters above sea level", "Part of the Sierra Nevada de Mérida range", "Named after the French botanist Aimé Bonpland", "Forms the La Corona massif with Pico Humboldt", "Composed primarily of Precambrian gneiss", "Home to the now-vanished La Coromoto glacier"],
     },
+    image: "/poi-images/venezuela-pico-bonpland-nature-v2.webp",
   },
   {
     id: "venezuela-pico-espejo-nature-v2",
@@ -403,6 +415,7 @@ export const venezuelaNatureV2: POI[] = [
       ro: ["Altitudine de 4765 metri deasupra nivelului mării", "Stația finală a telefericului Mukumbarí", "Găzduiește statuia Virgen de las Nieves din 1952", "Situat în interiorul Parcului Național Sierra Nevada", "Punct de observație principal pentru Pico Bolívar", "Structură predominantă din roci metamorfice"],
       en: ["Elevation of 4,765 meters", "Highest station of the Mukumbarí cable car", "Features the Virgin of the Snows statue since 1952", "Located within the Sierra Nevada National Park", "Offers a direct line of sight to Pico Bolívar", "Geological structure consists of metamorphic rocks"],
     },
+    image: "/poi-images/venezuela-pico-espejo-nature-v2.webp",
   },
   {
     id: "venezuela-parque-el-tamá-nature-v2",
@@ -434,6 +447,7 @@ export const venezuelaNatureV2: POI[] = [
       ro: ["Înființat la data de 12 decembrie 1978", "Suprafață totală de circa 139.000 hectare", "Situat în statele Táchira și Apure", "Protejează vârful Pico El Tamá (3320 m)", "Adiacent parcului național Tama din Columbia", "Habitat natural pentru ursul cu ochelari"],
       en: ["Founded on December 12, 1978", "Covers an area of 139,000 hectares", "Located in Táchira and Apure states", "Protects Pico El Tamá summit (3,320 m)", "Bordering the Colombian Tama Natural Park", "Habitat for the endangered spectacled bear"],
     },
+    image: "/poi-images/venezuela-parque-el-tamá-nature-v2.webp",
   },
   {
     id: "venezuela-pico-leon-nature-v2",
@@ -465,6 +479,7 @@ export const venezuelaNatureV2: POI[] = [
       ro: ["Altitudine de 4740 metri deasupra mării", "Unul dintre cei 'Cinci Vulturi Albi'", "Situat în masivul Sierra Nevada de Mérida", "Format predominant din granit și gnais", "Prezintă urme clare de morene glaciare", "Habitat pentru specii rare de plante de paramo"],
       en: ["Elevation of 4,740 meters above sea level", "One of the 'Five White Eagles' peaks", "Located in the Sierra Nevada de Mérida", "Composed of granite and gneiss rocks", "Features ancient glacial moraine deposits", "Home to unique high-altitude paramo flora"],
     },
+    image: "/poi-images/venezuela-pico-leon-nature-v2.webp",
   },
   {
     id: "venezuela-rio-apure-nature-v2",
@@ -496,6 +511,7 @@ export const venezuelaNatureV2: POI[] = [
       ro: ["Lungime totală de circa 820 kilometri", "Principal afluent al fluviului Orinoco", "Format din râurile Uribante și Sarare", "Navigabil pe aproape întreg cursul", "Traversează regiunea câmpiilor Llanos", "Habitat pentru delfinul roz de râu"],
       en: ["Total length of approximately 820 kilometers", "Major tributary of the Orinoco River", "Formed by Uribante and Sarare rivers", "Navigable for most of its 820 km course", "Flows through the vast Llanos region", "Habitat for the Amazon river dolphin"],
     },
+    image: "/poi-images/venezuela-rio-apure-nature-v2.webp",
   },
   {
     id: "venezuela-pico-toro-nature-v2",
@@ -527,6 +543,7 @@ export const venezuelaNatureV2: POI[] = [
       ro: ["Altitudine de 4755 metri deasupra mării", "Cel mai vestic vârf din lanțul de peste 4700 m", "Inclus în grupul 'Cinci Vulturi Albi'", "Situat în incinta Parcului Național Sierra Nevada", "Prima ascensiune documentată a avut loc în 1910", "Structură geologică din roci metamorfice vechi"],
       en: ["Elevation of 4,755 meters above sea level", "Westernmost peak of the 4,700m+ chain", "Part of the 'Five White Eagles' group", "Located within the Sierra Nevada National Park", "First documented ascent achieved in 1910", "Composed of ancient metamorphic rock formations"],
     },
+    image: "/poi-images/venezuela-pico-toro-nature-v2.webp",
   },
   {
     id: "venezuela-rio-ventuari-nature-v2",
@@ -558,6 +575,7 @@ export const venezuelaNatureV2: POI[] = [
       ro: ["Lungime totală de aproximativ 520 kilometri", "Afluent principal al Orinoco în statul Amazonas", "Izvorăște lângă masivul Jaua-Sarisariñama", "Apele sale sunt un mix de apă limpede și neagră", "Teritoriu ancestral al etniei Ye'kuana", "Navigația este limitată de numeroase praguri"],
       en: ["Total length of about 520 kilometers", "Major tributary of the Orinoco in Amazonas state", "Originates near the Jaua-Sarisariñama massif", "Consists of a mix of clearwater and blackwater", "Ancestral home to the Ye'kuana indigenous people", "Numerous rapids restrict commercial navigation"],
     },
+    image: "/poi-images/venezuela-rio-ventuari-nature-v2.webp",
   },
   {
     id: "venezuela-rio-caura-nature-v2",
@@ -589,6 +607,7 @@ export const venezuelaNatureV2: POI[] = [
       ro: ["Lungime totală de 725 kilometri", "Găzduiește cascada Salto Pará", "Inclus în Parcul Național Caura din 2017", "Bazin hidrografic de 45.336 km²", "Teritoriu tradițional al etniilor Ye'kuana și Sanema", "Zonă cu biodiversitate ridicată în Scutul Guayanian"],
       en: ["Total length of 725 kilometers", "Home to the massive Salto Pará waterfall", "Part of the Caura National Park since 2017", "Basin area covers 45,336 square kilometers", "Traditional territory of the Ye'kuana people", "High level of biodiversity within the Guiana Shield"],
     },
+    image: "/poi-images/venezuela-rio-caura-nature-v2.webp",
   },
   {
     id: "venezuela-pico-muertos-nature-v2",
@@ -620,5 +639,6 @@ export const venezuelaNatureV2: POI[] = [
       ro: ["Altitudine de aproximativ 4600 metri", "Situat în Parcul Național Sierra Nevada", "Constituit din roci precambriene vechi", "Modelat de procese de eroziune periglaciară", "Numele provine din legendele locale", "Habitat pentru plantele de tip frailejon"],
       en: ["Elevation of approximately 4,600 meters", "Located within the Sierra Nevada National Park", "Composed of ancient Precambrian rocks", "Shaped by periglacial erosion processes", "Name is derived from local mountain legends", "Habitat for resilient frailejones plants"],
     },
+    image: "/poi-images/venezuela-pico-muertos-nature-v2.webp",
   }
 ];

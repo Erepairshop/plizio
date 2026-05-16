@@ -31,6 +31,7 @@ export const republicofcongoCitiesV2: POI[] = [
       ro: ["Loandjili este al patrulea arondisment din Pointe-Noire.", "Găzduiește Spitalul General Loandjili, inaugurat în anul 1990.", "Districtul este situat în partea de nord a orașului, la Oceanul Atlantic.", "Locație importantă pentru companiile de servicii din industria petrolieră.", "Dispune de conexiuni rutiere cu drumul național N1.", "Zona a cunoscut o creștere demografică rapidă în ultimele două decenii."],
       en: ["Loandjili is the 4th arrondissement of Pointe-Noire.", "Home to the Loandjili General Hospital, which opened in 1990.", "The district is located in the northern part of the city by the Atlantic.", "Significant location for service companies in the oil industry.", "Features road connections to the N1 national highway.", "The area has experienced rapid population growth over the last two decades."],
     },
+    image: "/poi-images/republicofcongo-loandjili-cities-v2.webp",
   },
   {
     id: "republicofcongo-moussonia-cities-v2",
@@ -62,6 +63,7 @@ export const republicofcongoCitiesV2: POI[] = [
       ro: ["Aparține administrativ de orașul Nkayi din departamentul Bouenza.", "Nkayi a fost cunoscut inițial sub numele de Jacob, fiind fondat în 1887.", "Centrul economic se bazează pe producția de zahăr a Saris-Congo.", "Regiunea este considerată cel mai important centru agricol al țării.", "Se află pe linia feroviară strategică Chemin de fer Congo-Océan.", "Împrejurimile constau în principal din savane și câmpuri de trestie de zahăr."],
       en: ["Administratively part of the city of Nkayi in the Bouenza Department.", "Nkayi was originally known as Jacob and was founded in 1887.", "The economic focus is centered on Saris-Congo's sugar production.", "The region is regarded as the country's most vital agricultural hub.", "Located along the strategic Congo-Ocean Railway line.", "The surrounding area consists mainly of savannas and sugarcane fields."],
     },
+    image: "/poi-images/republicofcongo-moussonia-cities-v2.webp",
   },
   {
     id: "republicofcongo-makoua-nord-cities-v2",
@@ -93,6 +95,7 @@ export const republicofcongoCitiesV2: POI[] = [
       ro: ["Makoua este situat aproape exact pe Ecuator (latitudine 0°).", "Este reședința districtului omonim din departamentul Cuvette.", "Se află pe malul râului navigabil Likouala-Mossaka.", "Dispune de un aeroport regional situat în partea de nord a orașului.", "Punct de oprire important pe drumul național N2 către nord.", "Clima este una clasică de pădure tropicală umedă."],
       en: ["Makoua is located almost exactly on the Equator (0° latitude).", "It is the chief town of the district of the same name in Cuvette.", "Situated on the banks of the navigable Likouala-Mossaka River.", "Features a regional airport located to the north of the town.", "An important stopover on the N2 national highway heading north.", "The climate is a classic tropical rainforest climate."],
     },
+    image: "/poi-images/republicofcongo-makoua-nord-cities-v2.webp",
   },
   {
     id: "republicofcongo-panga-cities-v2",
@@ -124,6 +127,7 @@ export const republicofcongoCitiesV2: POI[] = [
       ro: ["Aparține de departamentul Niari din sud-vestul țării.", "Se află în imediata apropiere a districtului Loudima.", "Sursa principală de venit a populației este agricultura de subzistență.", "Zona este drenată de sistemul hidrografic al râului Niari.", "Clima este tropicală, cu un sezon uscat distinct.", "Așezarea este situată pe un platou cu o altitudine de 200-300 metri."],
       en: ["Part of the Niari Department in the southwest of the country.", "Located in close proximity to the Loudima district.", "The primary source of income for the population is subsistence farming.", "The area is drained by the Niari river system.", "The climate is tropical with a pronounced dry season.", "The settlement is situated on a plateau at an elevation of 200-300 meters."],
     },
+    image: "/poi-images/republicofcongo-panga-cities-v2.webp",
   },
   {
     id: "republicofcongo-kibangou-cities-v2",
@@ -155,6 +159,7 @@ export const republicofcongoCitiesV2: POI[] = [
       ro: ["Este reședința districtului Kibangou din departamentul Niari.", "Situat strategic pe drumul național N1.", "Centru important pentru exportul de lemn tropical.", "Amplasat într-un peisaj deluros cu păduri tropicale umede.", "Regiunea este bogată în resurse forestiere.", "Servește drept stație de aprovizionare pentru șoferii de cursă lungă pe ruta spre Pointe-Noire."],
       en: ["Chief town of the Kibangou District in the Niari Department.", "Strategically located along the N1 national highway.", "An important center for the export of tropical timber.", "Situated in a hilly landscape surrounded by tropical rainforest.", "The region is rich in forestry resources.", "Serves as a supply station for long-distance drivers on the route to Pointe-Noire."],
     },
+    image: "/poi-images/republicofcongo-kibangou-cities-v2.webp",
   },
   {
     id: "republicofcongo-dingo-cities-v2",
@@ -186,6 +191,7 @@ export const republicofcongoCitiesV2: POI[] = [
       ro: ["Situat în departamentul de coastă Kouilou din vestul țării.", "Se află în zona de influență a aglomerației urbane Pointe-Noire.", "Regiunea este cunoscută pentru zăcămintele de petrol off-shore.", "Vegetația de coastă domină împrejurimile imediate.", "Conexiune la rutele locale de transport către țărm.", "Clima este caldă și umedă pe tot parcursul anului datorită oceanului."],
       en: ["Located in the coastal Kouilou Department in the west of the country.", "Situated within the sphere of influence of the Pointe-Noire metro area.", "The region is known for its offshore oil deposits.", "Coastal vegetation dominates the immediate surroundings.", "Connected to local transport routes leading to the coast.", "The climate is humid and warm year-round due to ocean proximity."],
     },
+    image: "/poi-images/republicofcongo-dingo-cities-v2.webp",
   },
   {
     id: "republicofcongo-songo-cities-v2",
@@ -217,6 +223,7 @@ export const republicofcongoCitiesV2: POI[] = [
       ro: ["Aparține administrativ de departamentul Bouenza.", "Situat în valea râului Niari, inima agricolă a țării.", "Principalele produse cultivate sunt trestia de zahăr, maniocul și arahidele.", "Împrejurimile sunt caracterizate de soluri aluvionare fertile.", "Clima prezintă un sezon uscat marcat din iunie până în august.", "Regiunea este cunoscută pentru piețele sale tradiționale."],
       en: ["Administratively part of the Bouenza Department.", "Located in the Niari River valley, the agricultural heartland of the country.", "Primary crops include sugarcane, cassava, and peanuts.", "The surrounding area is characterized by fertile alluvial soils.", "The climate features a distinct dry season from June to August.", "The region is known for its traditional markets."],
     },
+    image: "/poi-images/republicofcongo-songo-cities-v2.webp",
   },
   {
     id: "republicofcongo-mouyoundzi-ville-cities-v2",
@@ -248,6 +255,7 @@ export const republicofcongoCitiesV2: POI[] = [
       ro: ["Este reședința districtului Mouyondzi din departamentul Bouenza.", "Centru major pentru cultivarea arahidelor în țară.", "Situat pe un platou la o altitudine de aproximativ 500 de metri.", "Cea mai importantă locație educațională din district, cu mai multe școli.", "Orașul servește drept punct de colectare pentru produsele agricole.", "Deține stații misionare istorice din perioada colonială."],
       en: ["Chief town of the Mouyondzi District in the Bouenza Department.", "Major center for peanut cultivation in the country.", "Located on a plateau at an elevation of approximately 500 meters.", "The district's most important educational hub with several schools.", "The town serves as a collection point for agricultural produce.", "Features historical mission stations dating from the colonial era."],
     },
+    image: "/poi-images/republicofcongo-mouyoundzi-ville-cities-v2.webp",
   },
   {
     id: "republicofcongo-madibou-cities-v2",
@@ -279,6 +287,7 @@ export const republicofcongoCitiesV2: POI[] = [
       ro: ["Madibou a fost creat ca al 8-lea arondisment din Brazzaville în 2011.", "Districtul se află la intrarea de sud-vest a capitalei.", "Cuprinde foste zone rurale, cum ar fi Goma Tsé-Tsé.", "Locație importantă pentru aprovizionarea orașului cu produse de piață.", "Zona este delimitată de râul Djoué.", "Înregistrează una dintre cele mai mari rate de urbanizare din Brazzaville."],
       en: ["Madibou was created as the 8th arrondissement of Brazzaville in 2011.", "The district is located at the southwestern entrance to the capital.", "It includes formerly rural areas such as Goma Tsé-Tsé.", "Important location for supplying the city with market garden produce.", "The area is bordered by the Djoué River.", "Features one of the highest urbanization rates in Brazzaville."],
     },
+    image: "/poi-images/republicofcongo-madibou-cities-v2.webp",
   },
   {
     id: "republicofcongo-kintélé-cities-v2",
@@ -310,6 +319,7 @@ export const republicofcongoCitiesV2: POI[] = [
       ro: ["Găzduiește Stade de l'Unité, inaugurat pentru Jocurile Africane din 2015.", "Sediul Universității Denis Sassou Nguesso, deschisă în 2021.", "Stadionul principal are o capacitate de peste 60.000 de spectatori.", "Se află la aproximativ 15 kilometri nord de centrul orașului Brazzaville.", "Nod rutier important pe drumul național N2.", "Zona a fost dezvoltată masiv în cadrul proiectului 'Marele Brazzaville'."],
       en: ["Home to the Stade de l'Unité, inaugurated for the 2015 African Games.", "Site of the Denis Sassou Nguesso University, which opened in 2021.", "The main stadium has a capacity of over 60,000 spectators.", "Located about 15 kilometers north of central Brazzaville.", "Major junction on the N2 national highway.", "The area was extensively developed as part of the 'Greater Brazzaville' project."],
     },
+    image: "/poi-images/republicofcongo-kintélé-cities-v2.webp",
   },
   {
     id: "republicofcongo-mfilou-cities-v2",
@@ -341,6 +351,7 @@ export const republicofcongoCitiesV2: POI[] = [
       ro: ["Mfilou este cunoscut ca fiind al 7-lea arondisment din Brazzaville.", "Districtul este traversat de râul Mfilou, un afluent al râului Djoué.", "Topografia este marcată de eroziune și pante abrupte.", "Cuprinde mai multe cartiere, precum Ngamaba și Moutabala.", "Zonă rezidențială importantă pentru clasa muncitoare din capitală.", "Dispune de conexiuni cu drumurile de ieșire din vestul orașului."],
       en: ["Mfilou is known as the 7th arrondissement of Brazzaville.", "The district is traversed by the Mfilou River, a tributary of the Djoué.", "The topography is characterized by erosion and steep slopes.", "Consists of several neighborhoods including Ngamaba and Moutabala.", "Key residential area for the capital's working-class population.", "Features connections to the city's western arterial roads."],
     },
+    image: "/poi-images/republicofcongo-mfilou-cities-v2.webp",
   },
   {
     id: "republicofcongo-talangaï-cities-v2",
@@ -372,6 +383,7 @@ export const republicofcongoCitiesV2: POI[] = [
       ro: ["Este oficial cel de-al 6-lea arondisment al orașului Brazzaville.", "Găzduiește importantul spital Hôpital de Talangaï.", "Districtul a fost grav afectat de exploziile depozitului de muniție din 2012.", "Cuprinde cartierul Mpila, încărcat de istorie.", "Este situat direct pe malul drept al fluviului Congo.", "Deține una dintre cele mai mari piețe din capitală."],
       en: ["Officially the 6th arrondissement of the city of Brazzaville.", "Home to the significant Talangaï Hospital (Hôpital de Talangaï).", "The district was severely impacted by the 2012 ammunition dump explosions.", "Includes the historically significant Mpila neighborhood.", "Located directly on the right bank of the Congo River.", "Features one of the largest markets in the capital."],
     },
+    image: "/poi-images/republicofcongo-talangaï-cities-v2.webp",
   },
   {
     id: "republicofcongo-ouenzé-cities-v2",
@@ -403,6 +415,7 @@ export const republicofcongoCitiesV2: POI[] = [
       ro: ["Ouenzé este înregistrat ca al 5-lea arondisment din Brazzaville.", "Marché de Ouenzé este una dintre cele mai vechi piețe din oraș.", "Districtul este situat între arondismentele Talangaï și Poto-Poto.", "Cuprinde artere importante, cum ar fi Avenue de la Paix.", "Este considerat un creuzet cultural cu o densitate mare a populației.", "Aici se află numeroase posturi de radio locale și case de presă."],
       en: ["Ouenzé is designated as the 5th arrondissement of Brazzaville.", "The Ouenzé Market is one of the oldest markets in the city.", "The district is situated between the Talangaï and Poto-Poto arrondissements.", "Includes major thoroughfares such as Avenue de la Paix.", "Regarded as a cultural melting pot with high population density.", "Home to numerous local radio stations and media houses."],
     },
+    image: "/poi-images/republicofcongo-ouenzé-cities-v2.webp",
   },
   {
     id: "republicofcongo-mouyoundzi-nord-cities-v2",
@@ -434,6 +447,7 @@ export const republicofcongoCitiesV2: POI[] = [
       ro: ["Aparține de partea de nord a districtului Mouyondzi.", "Zona este situată pe un platou fertil.", "Sursa principală de venit este producția de leguminoase.", "Regiunea este cunoscută pentru productivitatea sa agricolă ridicată.", "Clima este tropicală, cu un sezon uscat mai răcoros pe platou.", "Zona este conectată prin drumuri secundare de centrul comercial Mouyondzi."],
       en: ["Part of the northern sector of the Mouyondzi District.", "The area is situated on a fertile plateau.", "The primary source of income is the production of legumes.", "The region is known for its high agricultural productivity.", "The climate is tropical with a cooler dry season on the highland.", "The area is connected to the Mouyondzi commercial center via unpaved roads."],
     },
+    image: "/poi-images/republicofcongo-mouyoundzi-nord-cities-v2.webp",
   },
   {
     id: "republicofcongo-kinkala-sud-cities-v2",
@@ -465,6 +479,7 @@ export const republicofcongoCitiesV2: POI[] = [
       ro: ["Kinkala se află la o altitudine de aproximativ 430 de metri deasupra mării.", "Orașul este conectat direct de Brazzaville prin drumul național 1.", "Kinkala este sediul Diecezei de Kinkala, înființată în anul 1987.", "Regiunea a suferit daune grave în timpul războaielor civile din anii 1990.", "Piața locală este un loc important de tranzacționare pentru manioc și fructe.", "Populația orașului a fost estimată la peste 27.000 de locuitori în 2012."],
       en: ["Kinkala is situated at an elevation of about 430 meters above sea level.", "The city is directly connected to Brazzaville via the National Road 1.", "Kinkala is the seat of the Diocese of Kinkala, established in 1987.", "The region suffered significant damage during the civil wars of the 1990s.", "The local market is a major trading site for cassava and various fruits.", "The population of the town was estimated at over 27,000 in 2012."],
     },
+    image: "/poi-images/republicofcongo-kinkala-sud-cities-v2.webp",
   },
   {
     id: "republicofcongo-sibiti-nord-cities-v2",
@@ -496,6 +511,7 @@ export const republicofcongoCitiesV2: POI[] = [
       ro: ["Sibiti a fost fondat în anii 1920 ca post colonial francez.", "Orașul este situat la aproximativ 250 km vest de capitala Brazzaville.", "Aeroportul Sibiti (IATA: SIB) deservește regiunea cu zboruri interne.", "Sibiti este cunoscut pentru meșteșugul împletitului de coșuri și țesut.", "Regiunea primește precipitații anuale ridicate de peste 1.500 mm.", "Populația era de aproximativ 22.000 de persoane la recensământul din 2007."],
       en: ["Sibiti was founded in the 1920s as a French colonial outpost.", "The city is located about 250 kilometers west of the capital Brazzaville.", "Sibiti Airport (IATA: SIB) serves the region with domestic flights.", "Sibiti is known for its artisanal basketry and weaving crafts.", "The region receives high annual rainfall amounts exceeding 1,500 mm.", "The population was around 22,000 people during the 2007 census."],
     },
+    image: "/poi-images/republicofcongo-sibiti-nord-cities-v2.webp",
   },
   {
     id: "republicofcongo-djambala-nord-cities-v2",
@@ -527,6 +543,7 @@ export const republicofcongoCitiesV2: POI[] = [
       ro: ["Djambala se află la aproximativ 180 km nord de capitala Brazzaville.", "Orașul are un aerodrom pentru conexiuni regionale.", "Împrejurimile sunt dominate de peisajele de savană ale podișului Batéké.", "Djambala a găzduit festivitățile Zilei Independenței în anul 2013.", "Cultivarea tutunului are o lungă tradiție colonială în această regiune.", "Temperatura medie este de aproximativ 24 °C datorită altitudinii."],
       en: ["Djambala is located approximately 180 kilometers north of Brazzaville.", "The city has an airfield used for regional flight connections.", "The surrounding area is characterized by the Batéké Plateau savannas.", "Djambala hosted the independence day celebrations in 2013.", "Tobacco cultivation has a long colonial tradition in this region.", "The average temperature is about 24 °C due to the high elevation."],
     },
+    image: "/poi-images/republicofcongo-djambala-nord-cities-v2.webp",
   },
   {
     id: "republicofcongo-owando-est-cities-v2",
@@ -558,6 +575,7 @@ export const republicofcongoCitiesV2: POI[] = [
       ro: ["Owando s-a numit Fort-Rousset în timpul perioadei coloniale franceze.", "Orașul a fost redenumit Owando în 1977, după independență.", "Owando este sediul Arhiepiscopiei de Owando, înființată în 1950.", "Orașul este situat pe axa importantă Nord-Sud (Drumul Național 2).", "Pescuitul în râul Kouyou este o sursă importantă de subzistență.", "Owando are un aeroport modern (IATA: FTX) cu pistă asfaltată."],
       en: ["Owando was named Fort-Rousset during the French colonial era.", "The city was renamed Owando in 1977 following independence.", "Owando is the seat of the Archdiocese of Owando, established in 1950.", "The city is located on the major North-South axis (National Road 2).", "Fishing in the Kouyou River is a significant source of livelihood.", "Owando possesses a modern airport (IATA: FTX) with a paved runway."],
     },
+    image: "/poi-images/republicofcongo-owando-est-cities-v2.webp",
   },
   {
     id: "republicofcongo-ouesso-sud-cities-v2",
@@ -589,6 +607,7 @@ export const republicofcongoCitiesV2: POI[] = [
       ro: ["Ouesso este conectat de Brazzaville prin nave pe râul Sangha.", "Orașul este considerat poarta de intrare în Parcul Național Nouabalé-Ndoki.", "Silvicultura este de departe cel mai mare angajator din regiune.", "În Ouesso trăiesc comunități semnificative de pigmei indigeni.", "Orașul are propriul său aeroport (IATA: OUE).", "Temperatura medie este constantă la aproximativ 25 °C tot anul."],
       en: ["Ouesso is connected to Brazzaville by boat via the Sangha River.", "The city is considered the gateway to the Nouabalé-Ndoki National Park.", "Forestry is by far the largest employer in the entire region.", "Significant communities of indigenous Pygmies live in Ouesso.", "The city is equipped with its own airport (IATA: OUE).", "The average temperature is constant throughout the year at about 25 °C."],
     },
+    image: "/poi-images/republicofcongo-ouesso-sud-cities-v2.webp",
   },
   {
     id: "republicofcongo-impfondo-nord-cities-v2",
@@ -620,6 +639,7 @@ export const republicofcongoCitiesV2: POI[] = [
       ro: ["Oubangui este principala rută de transport pentru mărfuri către Brazzaville.", "Impfondo este sediul unei dieceze catolice, înființată în 2011.", "Regiunea Likouala găzduiește mulți refugiați din țările vecine.", "Impfondo este situat în una dintre cele mai ploioase zone ale țării.", "Aeroportul Impfondo (IATA: ION) are o pistă lungă de 2.050 de metri.", "Orașul este o bază importantă pentru protecția lacului Télé."],
       en: ["The Oubangui is the main transport route for goods to Brazzaville.", "Impfondo is the seat of a Catholic diocese, established in 2011.", "The Likouala region hosts many refugees from neighboring countries.", "Impfondo is located in one of the highest rainfall zones in the country.", "Impfondo Airport (IATA: ION) has a 2,050-meter long runway.", "The city is an important base for the protection of Lake Télé."],
     },
+    image: "/poi-images/republicofcongo-impfondo-nord-cities-v2.webp",
   },
   {
     id: "republicofcongo-madingou-nord-cities-v2",
@@ -651,6 +671,7 @@ export const republicofcongoCitiesV2: POI[] = [
       ro: ["Madingou se află aproximativ la jumătatea distanței între Brazzaville și Pointe-Noire.", "Orașul este o stație importantă a istoricei căi ferate Congo-Océan.", "În apropiere se află una dintre cele mai mari fabrici de zahăr din țară (SARIS).", "Regiunea Bouenza este considerată grânarul Republicii Congo.", "Madingou a fost modernizat în 2016 pentru a găzdui sărbătoarea națională.", "Solurile fertile sunt de origine vulcanică și sedimentară."],
       en: ["Madingou is located about halfway between Brazzaville and Pointe-Noire.", "The city is a major stop on the historic Congo-Océan Railway.", "One of the country's largest sugar factories (SARIS) is located nearby.", "The Bouenza region is considered the breadbasket of the Republic of the Congo.", "Madingou was modernized in 2016 to host the national festival.", "The fertile soils are of volcanic and sedimentary origin."],
     },
+    image: "/poi-images/republicofcongo-madingou-nord-cities-v2.webp",
   },
   {
     id: "republicofcongo-ewo-sud-cities-v2",
@@ -682,6 +703,7 @@ export const republicofcongoCitiesV2: POI[] = [
       ro: ["Ewo este situat pe râul Likouala-Mossaka în bazinul de nord-vest.", "Orașul dispune de un aeroport intern (IATA: EWO).", "Regiunea este cunoscută pentru practicile sale tradiționale de vindecare.", "Ewo este conectat de Makoua printr-un drum modernizat.", "Împrejurimile adăpostesc populații semnificative de gorile de câmpie vestice.", "Orașul are un climat de pădure tropicală, cu temperaturi ridicate."],
       en: ["Ewo is situated on the Likouala-Mossaka River in the northwestern basin.", "The city has a domestic airport with the IATA code EWO.", "The region is known for its traditional healing practices.", "Ewo is connected to Makoua via a modernized road.", "The surrounding area hosts significant populations of western lowland gorillas.", "The city has a tropical rainforest climate with high temperatures."],
     },
+    image: "/poi-images/republicofcongo-ewo-sud-cities-v2.webp",
   },
   {
     id: "republicofcongo-kelle-nord-cities-v2",
@@ -713,6 +735,7 @@ export const republicofcongoCitiesV2: POI[] = [
       ro: ["Kellé a fost locul unor focare de Ebola la începutul anilor 2000.", "Orașul este conectat de Ewo și Mbomo prin drumuri neasfaltate.", "Vânătoarea de animale sălbatice este o sursă importantă de proteine.", "Kellé se află în apropierea Parcului Național Odzala-Kokoua.", "Descoperirile de aur în râuri atrag ocazional căutători ilegali de aur.", "Infrastructura de sănătate a orașului este foarte rudimentară."],
       en: ["Kellé was the site of several Ebola outbreaks in the early 2000s.", "The town is connected to Ewo and Mbomo via unpaved tracks.", "Hunting for bushmeat is a major source of protein for residents.", "Kellé is located in close proximity to the Odzala-Kokoua National Park.", "Gold finds in local rivers occasionally attract illegal miners.", "The city's health infrastructure is very rudimentarily developed."],
     },
+    image: "/poi-images/republicofcongo-kelle-nord-cities-v2.webp",
   },
   {
     id: "republicofcongo-ntoum-nord-cities-v2",
@@ -744,6 +767,7 @@ export const republicofcongoCitiesV2: POI[] = [
       ro: ["Ntoum este situat pe calea ferată Trans-Gabon și pe drumul național 1.", "Orașul găzduiește una dintre cele mai mari fabrici de ciment din Africa Centrală.", "Produsele horticole din Ntoum aprovizionează marile orașe din apropiere.", "Regiunea are zăcăminte bogate de calcar pentru industrie.", "Ntoum servește ca un hub logistic important pentru traficul transfrontalier.", "Orașul are un climat ecuatorial umed și cald, cu două sezoane ploioase."],
       en: ["Ntoum is located on the Trans-Gabon Railway and the National Road 1.", "The city hosts one of the largest cement factories in Central Africa.", "Horticultural products from Ntoum supply nearby major cities.", "The region possesses rich limestone deposits for industrial use.", "Ntoum serves as an important logistics hub for cross-border traffic.", "The city has a hot and humid equatorial climate with two rainy seasons."],
     },
+    image: "/poi-images/republicofcongo-ntoum-nord-cities-v2.webp",
   },
   {
     id: "republicofcongo-mouyondzi-est-cities-v2",
@@ -775,6 +799,7 @@ export const republicofcongoCitiesV2: POI[] = [
       ro: ["Mouyondzi este considerat unul dintre cele mai importante centre pentru arahide.", "Orașul este situat la o altitudine de aproximativ 530 de metri.", "Mouyondzi este locul de naștere al primului președinte, Fulbert Youlou.", "Regiunea este locuită de grupul etnic Beembé.", "Piața locală are loc săptămânal și atrage comercianți de la distanță.", "Mouyondzi este conectat la linia ferată principală printr-un drum secundar."],
       en: ["Mouyondzi is considered one of the most important centers for peanut production.", "The city is situated at an elevation of approximately 530 meters.", "Mouyondzi is the birthplace of the first president, Fulbert Youlou.", "The region is primarily inhabited by the Beembé ethnic group.", "The local market is held weekly and attracts traders from afar.", "Mouyondzi is connected to the main railway line by a spur road."],
     },
+    image: "/poi-images/republicofcongo-mouyondzi-est-cities-v2.webp",
   },
   {
     id: "republicofcongo-panga-nord-cities-v2",
@@ -806,6 +831,7 @@ export const republicofcongoCitiesV2: POI[] = [
       ro: ["Panga este situat la poalele munților Mayombe.", "Regiunea este bogată în lemne prețioase, cum ar fi okoumé și limba.", "Creșterea animalelor este favorizată aici de zona fără muște tsetse.", "Panga este accesibil doar prin drumuri dificile din orașul principal Dolisie.", "Populația locală aparține în principal etniei Kunyi.", "În împrejurimi există mici zăcăminte de minereu de fier."],
       en: ["Panga is located in the foothills of the Mayombe Mountains.", "The region is rich in precious woods such as okoumé and limba.", "Livestock farming is favored here by the tsetse fly-free zone.", "Panga is accessible only via difficult tracks from the main town Dolisie.", "The local population predominantly belongs to the Kunyi ethnic group.", "Small deposits of iron ore are found in the surrounding area."],
     },
+    image: "/poi-images/republicofcongo-panga-nord-cities-v2.webp",
   },
   {
     id: "republicofcongo-kibangou-sud-cities-v2",
@@ -837,6 +863,7 @@ export const republicofcongoCitiesV2: POI[] = [
       ro: ["Kibangou este ultimul oraș congolez major înainte de granița cu Gabon.", "Orașul servește ca stație vamală pentru transporturile de camioane spre Libreville.", "Kibangou este situat pe râul Louessé, un afluent al râului Niari.", "Concesiunile forestiere din apropiere exportă lemn prin Pointe-Noire.", "Kibangou are un spital mic și mai multe școli.", "Precipitațiile ating valori de vârf în timpul sezonului ploios."],
       en: ["Kibangou is the last major Congolese town before the Gabonese border.", "The city serves as a customs station for truck transports to Libreville.", "Kibangou is situated on the Louessé River, a tributary of the Niari.", "Forestry concessions nearby export timber via the port of Pointe-Noire.", "Kibangou possesses a small hospital and several schools.", "Rainfall reaches peak levels during the wet season."],
     },
+    image: "/poi-images/republicofcongo-kibangou-sud-cities-v2.webp",
   },
   {
     id: "republicofcongo-dingo-nord-cities-v2",
@@ -868,6 +895,7 @@ export const republicofcongoCitiesV2: POI[] = [
       ro: ["Dingo se află în bazinul hidrografic al cursului inferior al fluviului Congo.", "Comerțul ilegal de frontieră joacă un rol în economia locală.", "Maniocul și porumbul sunt principalele culturi ale regiunii.", "Conectarea la rețeaua electrică națională nu a fost încă realizată.", "Dingo este accesibil prin drumuri în special în timpul sezonului uscat.", "Pescuitul se desfășoară în principal cu pirogi tradiționale."],
       en: ["Dingo is located in the drainage basin of the lower Congo River.", "Illegal cross-border trade plays a role in the local economy.", "Cassava and maize are the primary agricultural crops of the region.", "Connection to the national power grid has not yet been realized.", "Dingo is accessible via tracks mainly during the dry season.", "Fishing is mostly conducted using traditional dugout canoes."],
     },
+    image: "/poi-images/republicofcongo-dingo-nord-cities-v2.webp",
   },
   {
     id: "republicofcongo-songo-ouest-cities-v2",
@@ -899,6 +927,7 @@ export const republicofcongoCitiesV2: POI[] = [
       ro: ["Songo este situat într-o regiune cu relief carstic puternic și peșteri.", "Carierele de calcar din apropiere aprovizionează industria cimentului.", "Orașul este o piață importantă pentru uleiul de palmier și nuci.", "Temperaturile medii variază între 22 și 30 de grade Celsius.", "Songo este conectat la rețeaua din Dolisie prin drumuri regionale.", "În împrejurimi se practică cultivarea cacauei pe suprafețe mici."],
       en: ["Songo is located in a region with strong karst relief and caves.", "Limestone quarries in the vicinity supply the cement industry.", "The city is an important market for palm oil and various nuts.", "Average temperatures range between 22 and 30 degrees Celsius.", "Songo is connected to the Dolisie network via regional roads.", "Small-scale cocoa farming is practiced in the surrounding area."],
     },
+    image: "/poi-images/republicofcongo-songo-ouest-cities-v2.webp",
   },
   {
     id: "republicofcongo-loutete-nord-cities-v2",
@@ -930,6 +959,7 @@ export const republicofcongoCitiesV2: POI[] = [
       ro: ["Loutété-Nord face parte din departamentul Bouenza, în sudul țării.", "Orașul găzduiește fabrici importante de ciment, cum ar fi uzina SOCICO.", "Calea ferată Chemin de Fer Congo-Océan leagă localitatea de Brazzaville.", "Dezvoltarea industrială a luat avânt în această zonă în anii 1970.", "Regiunea Loutété deține depozite bogate de calcar pentru fabricarea cimentului.", "Localitatea funcționează ca un motor economic pentru întreaga regiune Bouenza."],
       en: ["Loutété-Nord is part of the Bouenza Department in the south of the country.", "The town hosts major cement plants, including the SOCICO factory.", "The Chemin de Fer Congo-Océan railway connects the town with Brazzaville.", "Industrial development in the area gained momentum during the 1970s.", "The Loutété region possesses rich limestone deposits for cement production.", "The town serves as an economic engine for the entire Bouenza region."],
     },
+    image: "/poi-images/republicofcongo-loutete-nord-cities-v2.webp",
   },
   {
     id: "republicofcongo-mfilou-est-cities-v2",
@@ -961,6 +991,7 @@ export const republicofcongoCitiesV2: POI[] = [
       ro: ["Mfilou a fost înființat oficial ca al șaptelea arondisment din Brazzaville în 1984.", "Numele provine de la râul Mfilou, care traversează această parte a orașului.", "Mfilou-Est cuprinde zone rezidențiale în creștere, cu o populație densă.", "Cartierul este situat în partea de vest a aglomerației Brazzaville.", "În Mfilou există numeroase piețe locale pentru aprovizionarea zilnică.", "Regiunea este cunoscută pentru solurile sale caracteristice de nisip roșu."],
       en: ["Mfilou was officially established as the seventh arrondissement of Brazzaville in 1984.", "The name originates from the Mfilou River, which flows through this part of the city.", "Mfilou-Est includes growing residential areas with dense population.", "The district is situated in the western part of the Brazzaville metropolitan area.", "There are numerous local markets in Mfilou for daily supplies.", "The region is known for its characteristic red sandy soils."],
     },
+    image: "/poi-images/republicofcongo-mfilou-est-cities-v2.webp",
   },
   {
     id: "republicofcongo-talangai-nord-cities-v2",
@@ -992,6 +1023,7 @@ export const republicofcongoCitiesV2: POI[] = [
       ro: ["Talangaï a fost recunoscut ca district oficial al Brazzaville în 1967.", "Numele înseamnă 'privește-mă' în limba lingala.", "Districtul găzduiește marele spital 'Hôpital de Talangaï'.", "Talangaï-Nord este cunoscut pentru piața aglomerată 'Marché Petit Chose'.", "Zona este situată direct pe malul maiestuosului fluviu Congo.", "Populația este formată dintr-un amestec divers de diferite grupuri etnice."],
       en: ["Talangaï was recognized as an official city district of Brazzaville in 1967.", "The name means 'look at me' in the Lingala language.", "The district houses the large 'Hôpital de Talangaï' hospital.", "Talangaï-Nord is known for the busy 'Marché Petit Chose' market.", "The area is located directly on the majestic Congo River.", "The population consists of a diverse mix of various ethnic groups."],
     },
+    image: "/poi-images/republicofcongo-talangai-nord-cities-v2.webp",
   },
   {
     id: "republicofcongo-ouenze-sud-cities-v2",
@@ -1023,6 +1055,7 @@ export const republicofcongoCitiesV2: POI[] = [
       ro: ["Ouenzé a fost înființat ca al cincilea arondisment din Brazzaville in 1959.", "Districtul se învecinează direct cu celebrul cartier Poto-Poto.", "Ouenzé-Sud găzduiește piața aglomerată 'Marché de Ouenzé'.", "În apropiere se află importanta Avenue de l'Intendance.", "Cartierul este considerat un creuzet cultural al capitalei.", "Multe clădiri din acest cartier datează încă din perioada colonială târzie."],
       en: ["Ouenzé was established as the fifth arrondissement of Brazzaville in 1959.", "The district directly borders the famous Poto-Poto neighborhood.", "Ouenzé-Sud houses the bustling 'Marché de Ouenzé' market.", "The important Avenue de l'Intendance is located nearby.", "The district is considered a cultural melting pot of the capital.", "Many buildings in this neighborhood date back to the late colonial period."],
     },
+    image: "/poi-images/republicofcongo-ouenze-sud-cities-v2.webp",
   },
   {
     id: "republicofcongo-mouyoundzi-ville-ouest-cities-v2",
@@ -1054,6 +1087,7 @@ export const republicofcongoCitiesV2: POI[] = [
       ro: ["Mouyondzi este situat în inima departamentului Bouenza.", "Regiunea este lider național în cultivarea arahidelor.", "Localitatea a fost un centru misionar important în perioada colonială.", "Mouyondzi-Ville-Ouest servește drept centru comercial pentru fermierii locali.", "Orașul este situat într-un peisaj colinar cu un climat ideal pentru agricultură.", "Populația aparține în principal grupului etnic Beembe."],
       en: ["Mouyondzi is located in the heart of the Bouenza Department.", "The region is a national leader in the cultivation of peanuts.", "The town was an important missionary center during the colonial period.", "Mouyondzi-Ville-Ouest serves as a trading hub for local farmers.", "The town is situated in a hilly landscape with an ideal climate for farming.", "The population primarily belongs to the Beembe ethnic group."],
     },
+    image: "/poi-images/republicofcongo-mouyoundzi-ville-ouest-cities-v2.webp",
   },
   {
     id: "republicofcongo-kindamba-nord-cities-v2",
@@ -1085,6 +1119,7 @@ export const republicofcongoCitiesV2: POI[] = [
       ro: ["Kindamba este situat în departamentul Pool, la nord-vest de Brazzaville.", "Misiunea catolică Saint-Théophile a fost fondată aici în anul 1924.", "Localitatea este cunoscută pentru cultivarea maniocului și a legumelor.", "Kindamba-Nord este situat într-un cadru pitoresc lângă râul Djoué.", "Regiunea a suferit în trecut din cauza tulburărilor politice, dar se recuperează constant.", "Economia locală se bazează aproape exclusiv pe agricultura de subzistență."],
       en: ["Kindamba is located in the Pool Department, northwest of Brazzaville.", "The Saint-Théophile Catholic mission was founded here in 1924.", "The town is known for the cultivation of cassava and vegetables.", "Kindamba-Nord is situated in a picturesque setting near the Djoué River.", "The region suffered from political unrest in the past but is steadily recovering.", "The local economy is based almost entirely on subsistence farming."],
     },
+    image: "/poi-images/republicofcongo-kindamba-nord-cities-v2.webp",
   },
   {
     id: "republicofcongo-madibou-est-cities-v2",
@@ -1116,6 +1151,7 @@ export const republicofcongoCitiesV2: POI[] = [
       ro: ["Madibou a fost desemnat al optulea arondisment din Brazzaville în 2011.", "Anterior, zona făcea parte din districtul Makélékélé.", "Cartierul este cunoscut pentru agricultura sa urbană și piscicultură.", "Madibou-Est este situat în apropierea fluviului Congo.", "În acest district se află multe proiecte noi de infrastructură ale capitalei.", "Regiunea servește ca o centură verde pentru metropola în creștere."],
       en: ["Madibou was designated as the eighth arrondissement of Brazzaville in 2011.", "Previously, the area was part of the Makélékélé district.", "The neighborhood is known for its urban agriculture and fish farming.", "Madibou-Est is located near the mighty Congo River.", "This district is home to many of the capital's new infrastructure projects.", "The region serves as a green belt for the growing metropolis."],
     },
+    image: "/poi-images/republicofcongo-madibou-est-cities-v2.webp",
   },
   {
     id: "republicofcongo-kintele-sud-cities-v2",
@@ -1147,6 +1183,7 @@ export const republicofcongoCitiesV2: POI[] = [
       ro: ["Kintélé găzduiește Stade Municipal de Kintélé, cu o capacitate de 60.000 de locuri.", "Stadionul a fost construit pentru Jocurile Africane din 2015.", "Universitatea Denis Sassou Nguesso a fost inaugurată aici în anul 2021.", "Localitatea se află administrativ în departamentul Pool, dar se învecinează direct cu Brazzaville.", "Kintélé-Sud este conectat la capitală printr-un sistem modern de autostrăzi.", "Regiunea a fost locul unor programe ample de extindere urbană."],
       en: ["Kintélé houses the 60,000-seat Stade Municipal de Kintélé stadium.", "The stadium was built for the 2015 African Games.", "The Denis Sassou Nguesso University was inaugurated here in 2021.", "The town is administratively in the Pool Department but borders Brazzaville directly.", "Kintélé-Sud is connected to the capital via a modern highway system.", "The region has been the site of extensive urban expansion programs."],
     },
+    image: "/poi-images/republicofcongo-kintele-sud-cities-v2.webp",
   },
   {
     id: "republicofcongo-mfilou-nord-cities-v2",
@@ -1178,6 +1215,7 @@ export const republicofcongoCitiesV2: POI[] = [
       ro: ["Arondismentul Mfilou a fost creat la mijlocul anilor 1980.", "Mfilou-Nord este situat într-o zonă cu activitate intensă de construcții.", "Topografia este caracterizată prin văi adânci și dealuri abrupte.", "Mulți navetiști care lucrează în centrul orașului locuiesc în acest cartier.", "În Mfilou-Nord există mai multe comunități catolice și evanghelice.", "Conexiunea cu centrul orașului se realizează în principal prin microbuze."],
       en: ["The Mfilou arrondissement was created in the mid-1980s.", "Mfilou-Nord is located in a zone with intense construction activity.", "The topography is characterized by deep valleys and steep hills.", "Many commuters working in the city center live in this neighborhood.", "There are several Catholic and Evangelical communities in Mfilou-Nord.", "Connection to the city center is mainly provided by minibuses."],
     },
+    image: "/poi-images/republicofcongo-mfilou-nord-cities-v2.webp",
   },
   {
     id: "republicofcongo-talangai-sud-cities-v2",
@@ -1209,6 +1247,7 @@ export const republicofcongoCitiesV2: POI[] = [
       ro: ["Talangaï-Sud este una dintre cele mai vechi părți populate ale acestui arondisment.", "Districtul este situat aproape de cartierul Mpila, care este industrial.", "Aici se află stații de autobuz importante pentru traficul regional.", "Structura socială este caracterizată printr-o puternică asistență comunitară.", "Talangaï-Sud a beneficiat de renovări extinse ale drumurilor după 2012.", "Cartierul este cunoscut pentru numeroasele sale tarabe cu mâncare și cafenele."],
       en: ["Talangaï-Sud is one of the oldest populated parts of this arrondissement.", "The district is located near the Mpila neighborhood, which is industrial.", "Important bus stations for interregional traffic are located here.", "The social structure is characterized by strong neighborhood support.", "Talangaï-Sud benefited from extensive road renovations after 2012.", "The neighborhood is known for its numerous food stalls and cafes."],
     },
+    image: "/poi-images/republicofcongo-talangai-sud-cities-v2.webp",
   },
   {
     id: "republicofcongo-ouenze-nord-cities-v2",
@@ -1240,6 +1279,7 @@ export const republicofcongoCitiesV2: POI[] = [
       ro: ["Ouenzé-Nord a fost fondat împreună cu restul districtului în anul 1959.", "În această parte se află cunoscuta Avenue de l'Intendance.", "Cartierul este considerat sigur și bine dezvoltat în cadrul Brazzaville.", "Ouenzé-Nord găzduiește mai multe școli de stat de renume.", "Majoritatea locuitorilor fac parte din clasa de mijloc a capitalei.", "Posturile de radio locale își au adesea sediul în acest cartier vibrant."],
       en: ["Ouenzé-Nord was founded along with the rest of the district in 1959.", "The well-known Avenue de l'Intendance is located in this part.", "The district is considered safe and well-developed within Brazzaville.", "Ouenzé-Nord is home to several renowned state schools.", "Most residents belong to the capital's middle class.", "Local radio stations often have their headquarters in this lively neighborhood."],
     },
+    image: "/poi-images/republicofcongo-ouenze-nord-cities-v2.webp",
   },
   {
     id: "republicofcongo-mouyondzi-sud-cities-v2",
@@ -1271,5 +1311,6 @@ export const republicofcongoCitiesV2: POI[] = [
       ro: ["Mouyondzi-Sud este situat în una dintre cele mai fertile zone din Republica Congo.", "Regiunea este renumită pentru calitatea recoltei sale de fasole.", "Piețele săptămânale atrag comercianți din întreaga regiune Bouenza.", "Infrastructura constă în principal din drumuri neasfaltate.", "Orașul este situat la aproximativ 200 de kilometri vest de Brazzaville.", "Mouyondzi-Sud găzduiește cooperative locale pentru sectorul micilor fermieri."],
       en: ["Mouyondzi-Sud is located in one of the most fertile zones of the Republic of the Congo.", "The region is famous for the quality of its bean harvest.", "Weekly markets attract traders from across the Bouenza region.", "The infrastructure consists mainly of unpaved roads.", "The town is located about 200 kilometers west of Brazzaville.", "Mouyondzi-Sud houses local cooperatives for the small-scale farming sector."],
     },
+    image: "/poi-images/republicofcongo-mouyondzi-sud-cities-v2.webp",
   }
 ];

@@ -977,6 +977,7 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Suprafața sitului: 39 hectare", "Fondat în secolul al II-lea î.Hr.", "Înălțimea valurilor era de cca. 5 m", "S-au descoperit monede celtice", "Populație estimată: 500-1000 persoane", "Două zone fortificate exterioare identificate"],
       en: ["Site area: 39 hectares", "Founded in the 2nd century BC", "Original rampart height approx. 5 m", "Celtic coins found on site", "Estimated population: 500-1000 people", "Two fortified outworks identified"],
     },
+    image: "/poi-images/czechrepublic-hrazany-oppidum-history-v2.webp",
   },
   {
     id: "czechrepublic-zlate-hory-mines-history-v2",
@@ -1009,6 +1010,7 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Inceputul mineritului cca. 1220", "Sfârșitul extracției industriale: 1993", "Gazdă a campionatelor de spălat aur", "Replici ale morilor medievale de minereu", "Peste 120 de tipuri de minerale identificate", "Galeria 'Zlatý chlum' are 100 m adâncime"],
       en: ["Mining began around 1220", "Industrial extraction ended in 1993", "Host of gold panning championships", "Replicas of medieval crushing mills", "120 types of minerals found here", "The 'Zlatý chlum' shaft is 100 m deep"],
     },
+    image: "/poi-images/czechrepublic-zlate-hory-mines-history-v2.webp",
   },
   {
     id: "czechrepublic-svihov-castle-history-v2",
@@ -1041,6 +1043,7 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Construit între 1480 și 1489", "Șanțuri alimentate de râul Úhlava", "Capela Adormirea Maicii Domnului (1489)", "Restaurare majoră după 1950", "Turn principal de 30 m înălțime", "Locație pentru filmul 'Cenușăreasa' (1973)"],
       en: ["Built between 1480 and 1489", "Moats fed by the Úhlava River", "Chapel of the Assumption (1489)", "Extensively restored after 1950", "Main tower height: 30 meters", "Filming site for 'Cinderella' (1973)"],
     },
+    image: "/poi-images/czechrepublic-svihov-castle-history-v2.webp",
   },
   {
     id: "czechrepublic-vratislavice-castle-history-v2",
@@ -1073,6 +1076,7 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Nucleu baroc din secolul al XVIII-lea", "Reconstruit în stil istoricist", "Fostă proprietate a familiei Gallas", "Locul de naștere al lui Ferdinand Porsche", "Face parte din districtul Liberec", "Parcul castelului este accesibil publicului"],
       en: ["Baroque core from the 18th century", "Rebuilt in historicist style", "Formerly owned by the Gallas family", "Birthplace of Ferdinand Porsche (1875)", "Now part of the Liberec district", "Adjoining castle park is open to the public"],
     },
+    image: "/poi-images/czechrepublic-vratislavice-castle-history-v2.webp",
   },
   {
     id: "czechrepublic-lipnice-castle-history-v2",
@@ -1105,6 +1109,7 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Castelul a fost ridicat în jurul anului 1310 de familia Lichtenburg.", "În 1436, fortăreața a fost un centru operațional major pentru husiți.", "Incendiul din 1869 a lăsat structura fără acoperiș timp de aproape 50 de ani.", "Capela castelului este una dintre cele mai mari structuri gotice de acest tip.", "Scriitorul Jaroslav Hašek a murit în satul de la picioarele castelului în 1923.", "Sistemul de pivnițe a fost sculptat direct în stânca de granit a dealului."],
       en: ["The castle was established around 1310 by the Lords of Lichtenburg.", "In 1436, the fortress served as a primary base for Hussite forces.", "A devastating fire in 1869 destroyed most of the castle's wooden structures.", "The castle chapel is among the largest Gothic religious spaces in Bohemia.", "Author Jaroslav Hašek is buried in the cemetery just below the castle.", "The multi-level cellar system was used for storage and as a prison."],
     },
+    image: "/poi-images/czechrepublic-lipnice-castle-history-v2.webp",
   },
   {
     id: "czechrepublic-valec-chateau-history-v2",
@@ -1137,6 +1142,7 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Castelul a fost transformat într-o reședință renascentistă în anul 1538.", "Reconstrucția barocă a fost inițiată în 1694 de Johann Christoph Kager.", "Parcul castelului găzduiește 28 de statui originale din atelierul lui Braun.", "La 2 aprilie 1976, un incendiu masiv a distrus interioarele clădirii principale.", "Domeniul include și o biserică barocă dedicată Sfintei Treimi.", "După 1945, clădirea a fost utilizată ca sanatoriu pentru copiii refugiați greci."],
       en: ["The castle was converted into a Renaissance residence in 1538.", "The Baroque redesign was started in 1694 under Johann Christoph Kager.", "The park contains 28 original statues created by the workshop of Matthias Braun.", "A major fire on April 2, 1976, caused extensive damage to the main structure.", "The site features a highly valued Baroque Church of the Holy Trinity.", "After 1945, the chateau functioned as a home for Greek refugee children."],
     },
+    image: "/poi-images/czechrepublic-valec-chateau-history-v2.webp",
   },
   {
     id: "czechrepublic-pribram-sve-hora-history-v2",
@@ -1169,6 +1175,7 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Capela originală a fost ridicată de mineri în jurul anului 1260.", "Marea reconstrucție barocă a iezuiților a început în anul 1647.", "Statuia Fecioarei Maria a fost încoronată oficial la 22 iunie 1732.", "Accesul la complex se poate face pe o scară monumentală cu 343 de trepte.", "Papa Pius al X-lea a acordat bisericii titlul de Basilica Minor în 1905.", "Altarul principal este realizat în mare parte din argint masiv."],
       en: ["The original chapel was established as early as the year 1260.", "The extensive Baroque reconstruction began in 1647 under Jesuit rule.", "The statue of the Virgin Mary was ceremonially crowned on June 22, 1732.", "A monumental covered staircase with 343 steps leads up to the site.", "Pope Pius X elevated the church to the status of Basilica Minor in 1905.", "The main altar is famously constructed almost entirely from solid silver."],
     },
+    image: "/poi-images/czechrepublic-pribram-sve-hora-history-v2.webp",
   },
   {
     id: "czechrepublic-hnev-castle-history-v2",
@@ -1201,6 +1208,7 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Castelul a fost fondat în secolul al XIII-lea de către familia Hrabišic.", "Alchimistul Edward Kelley a încercat să evadeze în 1591, rănindu-se grav în proces.", "Împăratul Ferdinand al III-lea a ordonat dărâmarea fortificației în 1651.", "Turnul de observație actual a fost inaugurat pentru public în anul 1900.", "Complexul găzduiește un observator astronomic popular dotat cu telescoape moderne.", "Hněvín este unul dintre puținele locuri cu o replică a unui atelier de alchimie medievală."],
       en: ["The castle was established in the 13th century by the Hrabišic noble family.", "The alchemist Edward Kelley tried to escape in 1591 but was seriously injured during the attempt.", "Emperor Ferdinand III ordered the complete demolition of the castle in 1651.", "The current lookout tower was officially opened to the public in the year 1900.", "The castle features a public astronomical observatory with modern equipment.", "Hněvín is one of the few sites containing a reconstructed medieval alchemy workshop."],
     },
+    image: "/poi-images/czechrepublic-hnev-castle-history-v2.webp",
   },
   {
     id: "czechrepublic-kunetice-castle-history-v2",
@@ -1233,6 +1241,7 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Castelul a fost reconstruit în 1421 de căpitanul husit Diviš Bořek de Miletínek.", "Vilém de Pernštejn a cumpărat proprietatea în 1491, extinzând fortificațiile.", "Trupele suedeze conduse de Torstenson au incendiat castelul în anul 1645.", "Arhitectul Dušan Jurkovič a coordonat restaurările între anii 1923 și 1928.", "Conul de bazalt pe care se află castelul s-a format acum circa 20 de milioane de ani.", "Capela castelului este dedicată Sfintei Ecaterina din Alexandria."],
       en: ["The castle was reconstructed in 1421 by the Hussite captain Diviš Bořek of Miletínek.", "Vilém of Pernštejn purchased the castle in 1491 and developed its massive ramparts.", "Swedish forces under General Torstenson captured and burned the castle in 1645.", "Architect Dušan Jurkovič led the restoration efforts from 1923 to 1928.", "The basalt cone supporting the castle was formed approximately 20 million years ago.", "The castle chapel is consecrated to Saint Catherine of Alexandria."],
     },
+    image: "/poi-images/czechrepublic-kunetice-castle-history-v2.webp",
   },
   {
     id: "czechrepublic-veve-castle-history-v2",
@@ -1265,6 +1274,7 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Prima mențiune documentară a castelului datează din anul 1213.", "Winston Churchill și-a petrecut aici o parte din luna de miere în 1908.", "Capela Maicii Domnului datează din secolul al XII-lea și are origini romanice.", "În 1645, castelul a rezistat cu succes asediului armatelor suedeze.", "Domeniul castelului include nouă turnuri construite în epoci diferite.", "Până în 1945, castelul a aparținut familiei de Forest-Bischoffsheim."],
       en: ["The first written mention of the castle dates back to the year 1213.", "Winston Churchill spent part of his honeymoon at the castle in 1908.", "The Chapel of the Mother of God dates to the 12th century and is Romanesque in style.", "In 1645, the castle successfully withstood a siege by Swedish forces.", "The castle complex features a total of nine towers from various historical periods.", "Until 1945, the castle was owned by the de Forest-Bischoffsheim family."],
     },
+    image: "/poi-images/czechrepublic-veve-castle-history-v2.webp",
   },
   {
     id: "czechrepublic-kokorin-castle-history-v2",
@@ -1297,6 +1307,7 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Castelul a fost fondat în jurul anului 1320 de Hynek Berka de Dubá.", "Împăratul Ferdinand al III-lea a declarat Kokořín 'castel blestemat' în secolul al XVII-lea.", "Reconstrucția inițiată de Václav Špaček a demarat în anul 1911.", "Turnul cilindric principal are o înălțime de 38 de metri.", "Kokořín a fost primul castel ceh restituit unei familii private după 1989.", "Poetul Karel Hynek Mácha a folosit ruinele castelului ca decor pentru operele sale."],
       en: ["The castle was established around 1320 by Hynek Berka of Dubá.", "Emperor Ferdinand III declared Kokořín a 'cursed castle' in the 17th century.", "The reconstruction by Václav Špaček began in the year 1911.", "The great cylindrical tower reaches a total height of 38 meters.", "Kokořín was the first Czech castle to be restituted to a private family after 1989.", "Poet Karel Hynek Mácha used the castle ruins as a setting for his literary works."],
     },
+    image: "/poi-images/czechrepublic-kokorin-castle-history-v2.webp",
   },
   {
     id: "czechrepublic-selmburk-castle-history-v2",
@@ -1329,6 +1340,7 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Prima menționare documentară a familiei Šelmberk datează din 1318.", "Turnul rotund de observație are o înălțime de 26 de metri.", "În secolul al XVI-lea, un palat renascentist a fost adăugat structurii gotice.", "Castelul a fost abandonat definitiv în secolul al XVII-lea.", "Domeniul găzduiește în prezent un centru pentru meșteșuguri istorice.", "Turnul a fost adaptat ca punct de observație încă din anul 1795."],
       en: ["The first written record of the Lords of Šelmberk dates back to 1318.", "The round lookout tower stands at a height of 26 meters.", "A Renaissance palace wing was added to the Gothic castle in the 16th century.", "The castle was permanently abandoned and fell into ruin during the 17th century.", "The site now houses a center for traditional historical crafts.", "The tower has been accessible as a lookout point since 1795."],
     },
+    image: "/poi-images/czechrepublic-selmburk-castle-history-v2.webp",
   },
   {
     id: "czechrepublic-drahlov-fortress-history-v2",
@@ -1361,6 +1373,7 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Fortăreața a fost menționată pentru prima dată în documente în anul 1381.", "Transformările renascentiste semnificative au avut loc în jurul anului 1560.", "Fragmente din fațada originală cu sgraffito s-au păstrat până în prezent.", "În secolele al XVIII-lea și al XIX-lea, clădirea a funcționat ca grânar nobiliar.", "Drahlov este situat în regiunea fertilă Haná din Moravia Centrală.", "Structura a făcut parte dintr-o rețea de puncte de apărare din jurul orașului Olomouc."],
       en: ["The fortress was first mentioned in written records in the year 1381.", "Major Renaissance reconstructions took place around the year 1560.", "Portions of the original sgraffito facade have survived to this day.", "The building was used as a manorial granary during the 18th and 19th centuries.", "Drahlov is located in the fertile Haná region of Central Moravia.", "The fortress was part of a defensive network of smaller sites around Olomouc."],
     },
+    image: "/poi-images/czechrepublic-drahlov-fortress-history-v2.webp",
   },
   {
     id: "czechrepublic-pribram-mines-history-v2",
@@ -1393,6 +1406,7 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Minele din Příbram au furnizat la un moment dat 90% din producția de argint a Imperiului Habsburgic.", "Puțul Adalbert a atins pragul de 1.000 de metri adâncime în 1875, o premieră mondială.", "Muzeul minier expune mașini de extracție cu abur din secolul al XIX-lea perfect funcționale.", "Districtul include peste 25 km de galerii miniere istorice accesibile publicului.", "Academia Minieră din Příbram a fost înființată în anul 1849.", "În 1892, puțul Maria a fost locul uneia dintre cele mai mari catastrofe miniere din regiune."],
       en: ["The Příbram mines once accounted for 90% of the silver production in the Habsburg Empire.", "In 1875, the Adalbert Shaft was the first in the world to reach a depth of 1,000 meters.", "The Mining Museum features fully operational 19th-century steam-powered hoisting engines.", "The district contains over 25 km of historical mine galleries open to the public.", "The Mining Academy in Příbram was officially established in 1849.", "A major mining disaster occurred in the Mary Shaft in 1892, one of the worst in the region's history."],
     },
+    image: "/poi-images/czechrepublic-pribram-mines-history-v2.webp",
   },
   {
     id: "czechrepublic-kralov-castle-history-v2",
@@ -1425,6 +1439,7 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Prima curte de vânătoare a fost construită în secolul al XIII-lea", "Transformarea în castel renascentist a avut loc în 1585", "Regele Wenceslaus al IV-lea a fost deținut aici în 1394", "Reconstrucția barocă a fost finalizată la sfârșitul secolului al XVII-lea", "Clădirea a fost grav afectată în timpul Războiului de Treizeci de Ani", "Găzduiește în prezent biblioteca municipală și primăria"],
       en: ["Original hunting court established in the 13th century", "Renaissance reconstruction initiated in 1585 by the Lobkowitz family", "King Wenceslaus IV was imprisoned here in 1394", "Baroque renovations were completed in the late 17th century", "The castle sustained heavy damage during the Thirty Years' War", "Currently serves as a municipal library and administrative center"],
     },
+    image: "/poi-images/czechrepublic-kralov-castle-history-v2.webp",
   },
   {
     id: "czechrepublic-hradiste-u-znojma-history-v2",
@@ -1457,6 +1472,7 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Situl ocupă o suprafață totală de 20 de hectare", "Perioada de glorie a fost în secolul al IX-lea sub Marea Moravie", "Peste 500 de morminte medievale timpurii au fost excavate", "Poziție strategică deasupra confluenței râului Dyje", "Urme de locuire continuă încă din neolitic", "Biserica Sfântul Hippolyt a devenit sediu de provost în secolul al XIII-lea"],
       en: ["The archaeological site covers an area of 20 hectares", "Reached its peak as a Great Moravian center in the 9th century", "More than 500 early medieval graves have been excavated", "Strategically located at the confluence of the Dyje and Granitz streams", "Settlement history dates back to the Neolithic period", "Home to the Provostry of St. Hippolytus since the 13th century"],
     },
+    image: "/poi-images/czechrepublic-hradiste-u-znojma-history-v2.webp",
   },
   {
     id: "czechrepublic-zruc-castle-history-v2",
@@ -1489,6 +1505,7 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Prima mențiune documentară a cetății datează din 1328", "Reconstrucția neogotică a avut loc între 1891 și 1909", "Parcul castelului se întinde pe 18 hectare cu specii rare", "Găzduiește un muzeu al păpușilor unic în regiune", "Turnul castelului are o înălțime de 33 de metri", "Ultima restaurare majoră a complexului a fost finalizată în 2010"],
       en: ["First written record of the castle dates to 1328", "Neo-Gothic reconstruction conducted between 1891 and 1909", "The chateau park spans 18 hectares with rare dendrological specimens", "Home to a unique museum of historical dolls", "The castle tower stands 33 meters tall and is open to the public", "Comprehensive restoration of the complex was completed in 2010"],
     },
+    image: "/poi-images/czechrepublic-zruc-castle-history-v2.webp",
   },
   {
     id: "czechrepublic-bilina-castle-history-v2",
@@ -1521,6 +1538,7 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Prima mențiune documentară apare în cronica lui Kosmas în 993", "Reconstrucția barocă a fost realizată între 1675 și 1682", "Proprietate a familiei Lobkowitz între 1452 și 1945", "A adăpostit o colecție celebră de minerale în secolul al XIX-lea", "Sala principală este decorată cu stucaturi baroce autentice", "Complexul a fost restituit familiei Lobkowitz după 1989"],
       en: ["First mentioned in the Kosmas Chronicle in the year 993", "Baroque reconstruction led by Antonio della Porta (1675–1682)", "Owned by the Lobkowitz family from 1452 until 1945", "Housed a world-famous mineral collection in the 19th century", "Features a grand ceremonial hall with period stucco decorations", "The estate was restituted to the Lobkowitz family after 1989"],
     },
+    image: "/poi-images/czechrepublic-bilina-castle-history-v2.webp",
   },
   {
     id: "czechrepublic-cesky-sternberk-history-v2",
@@ -1553,6 +1571,7 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Fondat în 1241 de Zdeslav din Divišov", "Aparține familiei Sternberg de aproape 800 de ani", "Decorațiuni baroce realizate de artistul Carlo Brentano", "Adăpostește peste 500 de gravuri în cupru din secolul al XVII-lea", "Castelul a fost cucerit în 1467 după un asediu de un an", "A fost restituit familiei Sternberg în anul 1992"],
       en: ["Founded by Zdeslav of Divišov in 1241", "Owned by the Sternberg family for nearly 800 years", "Features Baroque stuccoes by artist Carlo Brentano", "Houses a collection of over 500 copper engravings from the 17th century", "The castle was captured in 1467 after a long siege", "Restituted to the Sternberg family in 1992 following the Velvet Revolution"],
     },
+    image: "/poi-images/czechrepublic-cesky-sternberk-history-v2.webp",
   },
   {
     id: "czechrepublic-zbiroh-castle-history-v2",
@@ -1585,6 +1604,7 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Fondat în 1193 pe un afloriment de iaspis", "Are cea mai adâncă fântână de castel din Europa (163 metri)", "Alfons Mucha a locuit aici între anii 1910 și 1928", "A servit drept reședință pentru împărații Carol al IV-lea și Rudolf al II-lea", "Reconstruit în stil neorenascentist la sfârșitul secolului al XIX-lea", "A fost obiectiv militar secret până în anul 2004"],
       en: ["Founded in 1193 on a unique jasper rock base", "Home to Europe's deepest castle well at 163 meters", "Residence of Alfons Mucha from 1910 to 1928", "Favored home of Emperors Charles IV and Rudolf II", "Reconstructed in Neo-Renaissance style in the late 19th century", "Remained a top-secret military site until 2004"],
     },
+    image: "/poi-images/czechrepublic-zbiroh-castle-history-v2.webp",
   },
   {
     id: "czechrepublic-rabi-castle-history-v2",
@@ -1617,6 +1637,7 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Cea mai mare ruină de castel din Boemia, cu 3 km de ziduri", "Castelul a fost asediat de husiți în anul 1421", "Comandantul Jan Žižka și-a pierdut al doilea ochi aici", "Fortificațiile majore au fost construite în secolele XIV și XV", "Turnul principal (donjonul) are o înălțime de 26 de metri", "Declarat monument cultural național în anul 1978"],
       en: ["The largest castle ruin in Bohemia with 3 km of fortification walls", "Sieged by the Hussites in 1421", "Commander Jan Žižka lost his second eye during the 1421 siege", "Underwent major defensive expansion in the 14th and 15th centuries", "The central residential tower (keep) stands 26 meters tall", "Declared a National Cultural Monument in 1978"],
     },
+    image: "/poi-images/czechrepublic-rabi-castle-history-v2.webp",
   },
   {
     id: "czechrepublic-kralov-dvur-battlefield-history-v2",
@@ -1649,6 +1670,7 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Data bătăliei: 3 iulie 1866", "Peste 430.000 de soldați implicați în total", "Victorie prusacă sub comanda lui Helmuth von Moltke", "Utilizarea decisivă a puștii Dreyse cu percuție", "Există peste 400 de monumente pe câmpul de luptă", "Bătălia a durat mai puțin de o singură zi"],
       en: ["Date of the battle: July 3, 1866", "Total of over 430,000 soldiers participated", "Prussian victory led by General Helmuth von Moltke", "Decisive use of the technologically superior needle gun", "More than 400 memorials are scattered across the battlefield", "The entire battle lasted less than one full day"],
     },
+    image: "/poi-images/czechrepublic-kralov-dvur-battlefield-history-v2.webp",
   },
   {
     id: "czechrepublic-ostroh-castle-history-v2",
@@ -1681,6 +1703,7 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Castelul a fost fondat în stil romanic în jurul anului 1200", "Unul dintre puținele castele ministeriale conservate din regiune", "Restaurarea completă a avut loc între 1986 și 1990", "Găzduiește un muzeu de etnografie și artă decorativă", "Include o bucătărie istorică 'neagră' bine conservată", "Este situat pe un pinten stâncos deasupra pârâului Slatinný"],
       en: ["Founded in Romanesque style around the year 1200", "One of the few remaining ministerial castles in the Cheb region", "Underwent extensive restoration from 1986 to 1990", "Houses a museum dedicated to regional crafts and history", "Features a remarkably preserved historical 'black kitchen'", "Positioned on a rocky spur overlooking the Slatinný stream"],
     },
+    image: "/poi-images/czechrepublic-ostroh-castle-history-v2.webp",
   },
   {
     id: "czechrepublic-buchlovice-palace-history-v2",
@@ -1713,6 +1736,7 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Construcția a început în anul 1700 în stil baroc italian", "Proiectul este atribuit arhitectului Domenico Martinelli", "Locul de desfășurare a Acordului diplomatic de la Buchlau în 1908", "Parcul castelului se întinde pe o suprafață de 18 hectare", "Găzduiește o colecție celebră de fucsii cu peste 1200 de specii", "Complexul este format din 'Castelul de Jos' și 'Castelul de Sus'"],
       en: ["Construction in Italian Baroque style began around 1700", "Architectural design attributed to Domenico Martinelli", "Site of the secret Buchlau diplomatic conference in 1908", "The estate park spans 18 hectares with rare tree species", "Home to one of the largest fuchsia collections in Central Europe", "Consists of two main parts: the 'Lower' and 'Upper' chateau"],
     },
+    image: "/poi-images/czechrepublic-buchlovice-palace-history-v2.webp",
   },
   {
     id: "czechrepublic-hustopece-church-history-v2",
@@ -1745,6 +1769,7 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Vechea biserică s-a prăbușit parțial la data de 26 februarie 1961.", "Piatra de temelie a fost binecuvântată de Papa Ioan Paul al II-lea în 1990.", "Turnul principal al noii biserici are o înălțime de 52 de metri.", "Arhitectura a fost concepută de Ludvík Kolek sub forma unei spirale ascendente.", "Sfințirea noului lăcaș de cult a avut loc pe 25 septembrie 1994.", "Biserica poartă hramul Sfântului Venceslau și al Sfintei Agnes a Boemiei."],
       en: ["The original church structure suffered a major collapse on February 26, 1961.", "Pope John Paul II blessed the foundation stone for the new church in 1990.", "The height of the modern church tower reaches exactly 52 meters.", "The spiral-based design was created by the renowned architect Ludvík Kolek.", "Construction was officially completed and the church consecrated in September 1994.", "It is dedicated to St. Wenceslas and St. Agnes of Bohemia, national patrons."],
     },
+    image: "/poi-images/czechrepublic-hustopece-church-history-v2.webp",
   },
   {
     id: "czechrepublic-drinov-fortress-history-v2",
@@ -1777,6 +1802,7 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Prima mențiune documentară a fortăreței datează din anul 1353.", "În secolul al XVI-lea, structura a fost transformată într-un castel renascentist.", "Familia Walldorf a deținut domeniul începând cu sfârșitul secolului al XVII-lea.", "Trupele suedeze au ocupat și avariat complexul în timpul Războiului de Treizeci de Ani.", "Edificiul păstrează bolți istorice bine conservate la nivelul parterului.", "Fortăreața este situată în regiunea Zlín din estul Republicii Cehe."],
       en: ["The first written record of the fortress dates back to 1353.", "It was significantly reconstructed into a Renaissance manor during the 16th century.", "The Walldorf family acquired the estate in the late 17th century.", "Swedish troops occupied the fortress during the Thirty Years' War.", "The ground floor of the main building features well-preserved historical vaults.", "The site is located in the Zlín Region in the eastern part of the Czech Republic."],
     },
+    image: "/poi-images/czechrepublic-drinov-fortress-history-v2.webp",
   },
   {
     id: "czechrepublic-kolinec-castle-history-v2",
@@ -1809,6 +1835,7 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Prima mențiune documentară a fortăreței Kolinec datează din anul 1380.", "În secolul al XVI-lea, castelul a aparținut familiei Perglár von Perglas.", "Familia nobiliară Taaffe, de origine irlandeză, a cumpărat domeniul în 1837.", "Clădirea principală a castelului prezintă un plan caracteristic în formă de U.", "În interiorul castelului a existat o capelă dedicată Sfântului Ioan.", "Parcul adiacent castelului găzduiește arbori rari plantați în secolul al XIX-lea."],
       en: ["The first documentary mention of the Kolinec fortress occurred in 1380.", "During the 16th century, the castle was owned by the Perglár of Perglas family.", "The Taaffe family, of Irish-Bohemian nobility, purchased the estate in 1837.", "The castle building features a characteristic U-shaped ground plan.", "A chapel dedicated to St. John was once located within the castle's interior.", "The surrounding park contains several rare tree species dating from the 19th century."],
     },
+    image: "/poi-images/czechrepublic-kolinec-castle-history-v2.webp",
   },
   {
     id: "czechrepublic-tabor-fortifications-history-v2",
@@ -1841,6 +1868,7 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Anul începerii construcției: 1420", "Lungimea zidurilor: aprox. 1,5 km", "Număr de bastioane: 18", "Înălțimea turnului: 40 m", "Număr de porți: 3", "Grosimea zidurilor: până la 3 m"],
       en: ["Construction began: 1420", "Wall length: approx. 1.5 km", "Number of bastions: 18", "Tower height: 40 m", "Number of city gates: 3", "Wall thickness: up to 3 m"],
     },
+    image: "/poi-images/czechrepublic-tabor-fortifications-history-v2.webp",
   },
   {
     id: "czechrepublic-bechyne-castle-history-v2",
@@ -1873,6 +1901,7 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Regele Přemysl Otakar al II-lea a fondat cetatea în anul 1268.", "Peter Vok de Rosenberg s-a căsătorit aici cu Katharina de Ludanitz în 1580.", "Sala Nunții din castel păstrează fresce valoroase realizate în jurul anului 1585.", "În secolul al XVIII-lea a fost adăugată o manajă barocă impunătoare.", "Castelul are o legătură istorică strânsă cu tradiția producției de ceramică din oraș.", "Podul „Curcubeul” din apropiere este un monument tehnic celebru construit în 1928."],
       en: ["King Přemysl Otakar II established the original castle in 1268.", "Petr Vok of Rosenberg held his wedding to Kateřina of Ludanice here in 1580.", "The Wedding Hall features rare frescoes dating back to approximately 1585.", "A significant Baroque riding school was added to the complex in the 18th century.", "The chateau is closely linked to Bechyně's long-standing tradition of ceramics.", "The nearby Bechyně Rainbow Bridge is a landmark engineering structure from 1928."],
     },
+    image: "/poi-images/czechrepublic-bechyne-castle-history-v2.webp",
   },
   {
     id: "czechrepublic-svihov-fortress-history-v2",
@@ -1905,6 +1934,7 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Actualul castel a fost construit între anii 1480 și 1489.", "Sistemul hidraulic putea inunda trei șanțuri separate în mod independent.", "Se crede că celebrul arhitect Benedikt Ried a contribuit la proiectarea sa.", "În 1973, castelul a fost decorul principal pentru filmul „Trei alune pentru Cenușăreasa”.", "Capela castelului poartă hramul Adormirii Maicii Domnului.", "Švihov este considerată una dintre cele mai puternice cetăți de câmpie din Europa."],
       en: ["The core of the current castle was built between 1480 and 1489.", "The hydraulic system was capable of flooding three separate moats independently.", "Renowned architect Benedikt Ried is believed to have influenced the design.", "In 1973, the castle served as the main setting for the film 'Three Hazelnuts for Cinderella'.", "The castle chapel is dedicated to the Assumption of the Virgin Mary.", "Švihov is often cited as a prime example of late Gothic water-based defense."],
     },
+    image: "/poi-images/czechrepublic-svihov-fortress-history-v2.webp",
   },
   {
     id: "czechrepublic-trebon-fortifications-history-v2",
@@ -1937,6 +1967,7 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Primele ziduri de piatră au fost ridicate în jurul anului 1367.", "Poarta Budějovice a fost reconstruită în forma actuală în anul 1611.", "Baza zidurilor depășește în unele locuri grosimea de 2 metri.", "Orașul Třeboň a fost asediat cu succes în timpul Războiului de Treizeci de Ani.", "Poarta Svinenská este decorată cu sgraffito renascentist autentic.", "Fortificațiile sunt incluse în Rezervația Biosferei UNESCO Třeboňsko."],
       en: ["The construction of the first stone walls began around 1367.", "The Budějovice Gate was built in its current Renaissance form in 1611.", "The walls reach a thickness of over 2 meters at their base.", "Třeboň was a key strategic point successfully besieged during the Thirty Years' War.", "The Svinenská Gate features distinctive Renaissance sgraffito ornamentation.", "The fortifications are part of the protected UNESCO Třeboňsko Biosphere Reserve."],
     },
+    image: "/poi-images/czechrepublic-trebon-fortifications-history-v2.webp",
   },
   {
     id: "czechrepublic-vranov-castle-history-v2",
@@ -1969,6 +2000,7 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Castelul a fost menționat pentru prima dată în 1100 în Chronica Boemorum.", "Sala Strămoșilor a fost construită între anii 1687 și 1695.", "Interiorul găzduiește 15 statui monumentale ale membrilor familiei Althann.", "Capela Sfântul Andrei a fost, de asemenea, proiectată de Fischer von Erlach.", "În secolul al XIX-lea, castelul a fost deținut de familia poloneză Mniszek.", "Vranov nad Dyjí se află chiar la granița actuală cu Austria."],
       en: ["The fortress was first recorded in the year 1100 in the Chronica Boemorum.", "The monumental Ancestors' Hall was built between 1687 and 1695.", "The hall contains 15 over-life-sized statues of the Althann family members.", "The Chapel of St. Andrew was also a project of architect Fischer von Erlach.", "During the 19th century, the chateau was owned by the Polish Mniszek family.", "Vranov nad Dyjí is located in close proximity to the Austrian border."],
     },
+    image: "/poi-images/czechrepublic-vranov-castle-history-v2.webp",
   },
   {
     id: "czechrepublic-cheb-fortifications-history-v2",
@@ -2001,6 +2033,7 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Castelul Cheb a fost extins în secolul al XII-lea sub Frederic Barbarossa.", "Turnul Negru este construit din blocuri de bazalt aduse de la vulcanul Kammerbühl.", "Albrecht von Wallenstein a fost asasinat în Cheb, lângă fortificații, în 1634.", "În secolul al XVII-lea, orașul a fost declarat oficial fortăreață imperială.", "Unele dintre bastioanele baroce sunt astăzi deschise pentru vizitare.", "Lungimea totală a zidurilor medievale depășea inițial 2 kilometri."],
       en: ["Cheb Castle was significantly expanded in the 12th century by Frederick Barbarossa.", "The Black Tower is constructed from basalt stone sourced from the nearby Kammerbühl.", "Albrecht von Wallenstein was assassinated in Cheb near the fortifications in 1634.", "In the 17th century, the city was officially designated as an Imperial Fortress.", "Several of the Baroque bastions have been restored and are open to the public.", "The medieval city walls originally stretched over a total length of 2 kilometers."],
     },
+    image: "/poi-images/czechrepublic-cheb-fortifications-history-v2.webp",
   },
   {
     id: "czechrepublic-zbraslav-monastery-history-v2",
@@ -2033,6 +2066,7 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Regele Venceslau al II-lea este înmormântat în incinta mănăstirii Zbraslav.", "Celebra Cronică de la Zbraslav a fost redactată aici în secolul al XIV-lea.", "Reconstrucția barocă a complexului a început în anul 1709.", "Mănăstirea a fost închisă oficial prin decret imperial în anul 1785.", "Complexul include și biserica parohială Sfântul Iacob cel Mare.", "Secțiuni ale castelului au găzduit mult timp colecțiile de artă asiatică ale Galeriei Naționale."],
       en: ["King Wenceslas II is among the Czech monarchs buried at Zbraslav.", "The famous Zbraslav Chronicle was written within these walls in the 14th century.", "The extensive Baroque reconstruction of the site began in 1709.", "The monastery was officially closed under the reforms of Joseph II in 1785.", "The grounds include the significant Church of St. James the Greater.", "The premises long served as a venue for the National Gallery's Asian art collections."],
     },
+    image: "/poi-images/czechrepublic-zbraslav-monastery-history-v2.webp",
   },
   {
     id: "czechrepublic-svihov-palace-history-v2",
@@ -2065,6 +2099,7 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Construit între 1480 și 1489 de Půta Švihovský din Rýzmberk.", "Unul dintre cele mai bine conservate castele de apă gotice târzii din Europa.", "Dispune de un sistem defensiv notabil cu șanțuri inundabile.", "A rezistat cu succes asediilor suedeze în timpul Războiului de Treizeci de Ani.", "Împăratul Ferdinand al III-lea a ordonat demolarea fortăreței în 1655.", "Reutilizarea ca grânar a ajutat la conservarea structurii sale gotice."],
       en: ["Built between 1480 and 1489 by Půta Švihovský of Rýzmberk.", "One of the best-preserved late Gothic water castles in Europe.", "Features a significant defensive system with floodable moats.", "Successfully resisted Swedish sieges during the Thirty Years' War.", "Ordered to be demolished by Emperor Ferdinand III in 1655.", "Repurposed as a granary, which helped preserve its Gothic structure."],
     },
+    image: "/poi-images/czechrepublic-svihov-palace-history-v2.webp",
   },
   {
     id: "czechrepublic-prague-fortifications-history-v2",
@@ -2097,6 +2132,7 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Cele mai vechi fortificații datează din secolul al IX-lea.", "Zidul Foamei a fost construit de Carol al IV-lea între 1360 și 1362.", "Zidurile Orașului Nou au extins semnificativ zona protejată a orașului.", "Praga a fost o fortăreață barocă notabilă în secolele XVII și XVIII.", "Vyšehrad rămâne unul dintre cele mai bune exemple de arhitectură militară barocă.", "Majoritatea zidurilor au fost demontate la sfârșitul secolului al XIX-lea."],
       en: ["Earliest fortifications date back to the 9th century.", "The Hunger Wall was built by Charles IV between 1360 and 1362.", "The New Town walls expanded the city's protected area significantly.", "Prague was a notable Baroque fortress during the 17th and 18th centuries.", "Vyšehrad remains one of the best examples of Baroque military architecture.", "Most of the walls were dismantled in the late 19th century for urban growth."],
     },
+    image: "/poi-images/czechrepublic-prague-fortifications-history-v2.webp",
   },
   {
     id: "czechrepublic-kralov-dvur-palace-history-v2",
@@ -2129,6 +2165,7 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Fondat ca curte regală în secolul al XIV-lea.", "A servit ca castel de vânătoare pentru regi cehi precum Venceslav al II-lea.", "Reconstruit într-un castel renascentist în secolul al XVI-lea.", "Aspectul actual este în mare parte rezultatul modificărilor baroce.", "Deținut istoric de influenta familie Lobkowicz.", "Situat în orașul Králův Dvůr, lângă Beroun."],
       en: ["Founded as a royal court in the 14th century.", "Served as a hunting lodge for Czech kings like Wenceslaus II.", "Reconstructed into a Renaissance chateau in the 16th century.", "The current appearance is largely the result of Baroque modifications.", "Historically owned by the influential Lobkowicz family.", "Located in the town of Králův Dvůr near Beroun."],
     },
+    image: "/poi-images/czechrepublic-kralov-dvur-palace-history-v2.webp",
   },
   {
     id: "czechrepublic-plzen-fortifications-history-v2",
@@ -2161,6 +2198,7 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Stabilit în 1295, în timpul fondării orașului.", "Dezvoltat într-un sistem de apărare complex, stratificat.", "A jucat un rol crucial în rezistența împotriva asediilor husite.", "Porțiuni semnificative au fost înlocuite de parcuri publice în secolul al XIX-lea.", "Grădinile Smetana conțin secțiuni conservate ale zidurilor.", "Turnul de apă istoric rămâne un punct de reper proeminent."],
       en: ["Established in 1295 during the founding of the city.", "Developed into a complex multi-layered defense system.", "Played a crucial role in resisting Hussite sieges in the 15th century.", "Significant portions were replaced by public parks in the 19th century.", "The Smetana Woods (Smetanovy sady) contain preserved sections.", "The historical water tower remains a prominent landmark."],
     },
+    image: "/poi-images/czechrepublic-plzen-fortifications-history-v2.webp",
   },
   {
     id: "czechrepublic-znojmo-fortifications-history-v2",
@@ -2193,6 +2231,7 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Unul dintre cele mai bine conservate sisteme de fortificații medievale.", "Apărare strategică a frontierei împotriva incursiunilor austriece.", "Prezintă Rotonda romanică a Sfintei Ecaterina cu fresce notabile.", "Include un labirint subteran vast folosit pentru apărare.", "Turnul Primăriei este un punct de reper dominant, înalt de 80 de metri.", "Sistemul a fost consolidat semnificativ în secolele XV și XVI."],
       en: ["One of the best-preserved medieval fortification systems in Central Europe.", "Strategic border defense against Austrian incursions.", "Features the Romanesque Rotunda of St. Catherine with notable frescoes.", "Includes a vast underground labyrinth used for defense and storage.", "The Town Hall Tower is a dominant landmark at 80 meters high.", "The system was significantly reinforced during the 15th and 16th centuries."],
     },
+    image: "/poi-images/czechrepublic-znojmo-fortifications-history-v2.webp",
   },
   {
     id: "czechrepublic-kromeriz-fortifications-history-v2",
@@ -2225,6 +2264,7 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Fondat în secolul al XIII-lea de episcopul Bruno von Schauenburg.", "A protejat Palatul Arhiepiscopal și nucleul istoric al orașului.", "Poarta Morii (Mlýnská brána) este o poartă supraviețuitoare cheie.", "Grav testat în timpul asediului suedez din anii 1640.", "Situl Patrimoniului Mondial UNESCO include părți ale fostelor apărări.", "Integrat cu Grădina de Flori și Grădina Castelului de renume mondial."],
       en: ["Founded in the 13th century by Bishop Bruno von Schauenburg.", "Protected the Archbishop's Palace and the town's historic core.", "The Mill Gate (Mlýnská brána) is a key surviving gateway.", "Severely tested during the Swedish siege in the 1640s.", "UNESCO World Heritage site includes parts of the former defenses.", "Integrated with the world-renowned Flower Garden and Castle Garden."],
     },
+    image: "/poi-images/czechrepublic-kromeriz-fortifications-history-v2.webp",
   },
   {
     id: "czechrepublic-litomerice-fortifications-history-v2",
@@ -2257,6 +2297,7 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Unul dintre cele mai vechi și importante orașe regale din Boemia.", "Fortificațiile gotice au fost extinse semnificativ de Carol al IV-lea.", "Prezintă o incintă dublă de ziduri defensive bine conservate.", "Poziția strategică pe Elba a servit ca un hub comercial și defensiv.", "Mai multe turnuri și bastioane originale au fost conservate meticulos.", "Zona zidurilor include acum trasee plăcute de plimbare pentru turiști."],
       en: ["One of the oldest and most important royal cities in Bohemia.", "The Gothic fortifications were significantly expanded by Charles IV.", "Features a well-preserved double ring of defensive walls.", "Strategic location on the Elbe River served as a key trade and defense hub.", "Several original towers and bastions have been meticulously preserved.", "The wall area now includes pleasant walking paths for tourists."],
     },
+    image: "/poi-images/czechrepublic-litomerice-fortifications-history-v2.webp",
   },
   {
     id: "czechrepublic-beroun-fortifications-history-v2",
@@ -2289,5 +2330,6 @@ export const czechrepublicHistoryV2: POI[] = [
       ro: ["Fondat ca oraș regal fortificat la sfârșitul secolului al XIII-lea.", "Poziție strategică pe drumul principal dintre Praga și Plzeň.", "Prezintă două porți gotice bine conservate: Poarta Praga și Poarta Plzeň.", "Zidurile aveau o grosime de aproximativ 2 metri și o înălțime de 8 metri.", "Apărat cu succes în timpul diverselor conflicte medievale.", "Rămășițe semnificative ale zidurilor de piatră sunt încă vizibile."],
       en: ["Founded as a fortified royal town in the late 13th century.", "Strategic location on the main road between Prague and Pilsen.", "Features two well-preserved Gothic gateways: Prague Gate and Pilsen Gate.", "The walls were approximately 2 meters thick and 8 meters high.", "Successfully defended during various medieval conflicts.", "Significant remains of the stone walls and bastions are still visible."],
     },
+    image: "/poi-images/czechrepublic-beroun-fortifications-history-v2.webp",
   }
 ];

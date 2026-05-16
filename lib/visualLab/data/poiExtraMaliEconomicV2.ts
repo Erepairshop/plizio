@@ -43,7 +43,8 @@ export const poiExtraMaliEconomicV2: POI[] = [
         "Produces significant amounts of gold annually.",
         "Important economic employer."
       ]
-    }
+    },
+    image: "/poi-images/loulo-gold-mine-economic-v2.webp",
   },
   {
     "id": "gounkoto-gold-mine-economic-v2",
@@ -86,7 +87,8 @@ export const poiExtraMaliEconomicV2: POI[] = [
         "Open-pit gold mine.",
         "Contributes heavily to Mali's exports."
       ]
-    }
+    },
+    image: "/poi-images/gounkoto-gold-mine-economic-v2.webp",
   },
   {
     "id": "sadiola-gold-mine-economic-v2",
@@ -129,7 +131,8 @@ export const poiExtraMaliEconomicV2: POI[] = [
         "One of the oldest modern gold mines in the country.",
         "Utilizes large-scale open-pit mining techniques."
       ]
-    }
+    },
+    image: "/poi-images/sadiola-gold-mine-economic-v2.webp",
   },
   {
     "id": "syama-gold-mine-economic-v2",
@@ -172,7 +175,8 @@ export const poiExtraMaliEconomicV2: POI[] = [
         "Located in the Sikasso Region.",
         "Important source of foreign exchange."
       ]
-    }
+    },
+    image: "/poi-images/syama-gold-mine-economic-v2.webp",
   },
   {
     "id": "morila-gold-mine-economic-v2",
@@ -215,7 +219,8 @@ export const poiExtraMaliEconomicV2: POI[] = [
         "Known for exceptionally high ore grades.",
         "Being transitioned into an agricultural zone."
       ]
-    }
+    },
+    image: "/poi-images/morila-gold-mine-economic-v2.webp",
   },
   {
     "id": "fekola-gold-mine-economic-v2",
@@ -258,7 +263,8 @@ export const poiExtraMaliEconomicV2: POI[] = [
         "One of the country's most important revenue sources.",
         "Open-pit operation."
       ]
-    }
+    },
+    image: "/poi-images/fekola-gold-mine-economic-v2.webp",
   },
   {
     "id": "yatela-gold-mine-economic-v2",
@@ -301,7 +307,8 @@ export const poiExtraMaliEconomicV2: POI[] = [
         "Operations ceased due to reserve depletion.",
         "Focus is on environmental rehabilitation."
       ]
-    }
+    },
+    image: "/poi-images/yatela-gold-mine-economic-v2.webp",
   },
   {
     "id": "tabakoto-gold-mine-economic-v2",
@@ -344,7 +351,8 @@ export const poiExtraMaliEconomicV2: POI[] = [
         "Contributes to local economic development.",
         "Uses conventional processing methods."
       ]
-    }
+    },
+    image: "/poi-images/tabakoto-gold-mine-economic-v2.webp",
   },
   {
     "id": "taoudenni-salt-mines-economic-v2",
@@ -387,7 +395,8 @@ export const poiExtraMaliEconomicV2: POI[] = [
         "Important part of historic Trans-Saharan trade.",
         "Work is performed manually."
       ]
-    }
+    },
+    image: "/poi-images/taoudenni-salt-mines-economic-v2.webp",
   },
   {
     "id": "koulikoro-river-port-economic-v2",
@@ -430,7 +439,8 @@ export const poiExtraMaliEconomicV2: POI[] = [
         "Operated by the COMANAV shipping company.",
         "Important for the transport of goods."
       ]
-    }
+    },
+    image: "/poi-images/koulikoro-river-port-economic-v2.webp",
   },
   {
     "id": "mopti-river-port-economic-v2",
@@ -473,7 +483,8 @@ export const poiExtraMaliEconomicV2: POI[] = [
         "Often referred to as the 'Venice of Mali'.",
         "Important port of call for pinasses."
       ]
-    }
+    },
+    image: "/poi-images/mopti-river-port-economic-v2.webp",
   },
   {
     "id": "segou-river-port-economic-v2",
@@ -516,7 +527,8 @@ export const poiExtraMaliEconomicV2: POI[] = [
         "Facilitates regional trade.",
         "Features colonial-era port facilities."
       ]
-    }
+    },
+    image: "/poi-images/segou-river-port-economic-v2.webp",
   },
   {
     "id": "gao-river-port-economic-v2",
@@ -559,7 +571,8 @@ export const poiExtraMaliEconomicV2: POI[] = [
         "Economic center of the Gao Region.",
         "Trades in livestock and salt."
       ]
-    }
+    },
+    image: "/poi-images/gao-river-port-economic-v2.webp",
   },
   {
     "id": "koutiala-cotton-plant-economic-v2",
@@ -602,7 +615,8 @@ export const poiExtraMaliEconomicV2: POI[] = [
         "Operated by the Malian Company for Textile Development.",
         "Major employer in the city."
       ]
-    }
+    },
+    image: "/poi-images/koutiala-cotton-plant-economic-v2.webp",
   },
   {
     "id": "comatex-textile-factory-economic-v2",
@@ -645,7 +659,8 @@ export const poiExtraMaliEconomicV2: POI[] = [
         "Was established with Chinese support.",
         "A pillar of Mali's industrial value addition."
       ]
-    }
+    },
+    image: "/poi-images/comatex-textile-factory-economic-v2.webp",
   },
   {
     "id": "markala-sugar-refinery-economic-v2",
@@ -688,7 +703,8 @@ export const poiExtraMaliEconomicV2: POI[] = [
         "Produces domestic and industrial sugar.",
         "A Sino-Malian joint venture."
       ]
-    }
+    },
+    image: "/poi-images/markala-sugar-refinery-economic-v2.webp",
   },
   {
     "id": "dio-gare-cement-plant-economic-v2",
@@ -731,7 +747,8 @@ export const poiExtraMaliEconomicV2: POI[] = [
         "Utilizes local limestone deposits.",
         "Reduces dependence on imported cement."
       ]
-    }
+    },
+    image: "/poi-images/dio-gare-cement-plant-economic-v2.webp",
   },
   {
     "id": "manantali-dam-economic-v2",
@@ -774,7 +791,8 @@ export const poiExtraMaliEconomicV2: POI[] = [
         "Features a 200-megawatt power plant.",
         "Joint project of the OMVS countries."
       ]
-    }
+    },
+    image: "/poi-images/manantali-dam-economic-v2.webp",
   },
   {
     "id": "selingue-dam-economic-v2",
@@ -817,7 +835,8 @@ export const poiExtraMaliEconomicV2: POI[] = [
         "The reservoir promotes local fishing.",
         "Was completed in 1980."
       ]
-    }
+    },
+    image: "/poi-images/selingue-dam-economic-v2.webp",
   },
   {
     "id": "gouina-hydroelectric-plant-economic-v2",
@@ -860,7 +879,8 @@ export const poiExtraMaliEconomicV2: POI[] = [
         "Integrated part of the regional power grid.",
         "Another project of the OMVS."
       ]
-    }
+    },
+    image: "/poi-images/gouina-hydroelectric-plant-economic-v2.webp",
   },
   {
     "id": "felou-hydroelectric-plant-economic-v2",
@@ -903,7 +923,8 @@ export const poiExtraMaliEconomicV2: POI[] = [
         "Was completely completely renewed in 2014.",
         "Supplies electricity to three West African countries."
       ]
-    }
+    },
+    image: "/poi-images/felou-hydroelectric-plant-economic-v2.webp",
   },
   {
     "id": "sotuba-hydroelectric-plant-economic-v2",
@@ -946,7 +967,8 @@ export const poiExtraMaliEconomicV2: POI[] = [
         "Utilizes the natural rapids of the Niger River.",
         "One of the oldest power plants in the country."
       ]
-    }
+    },
+    image: "/poi-images/sotuba-hydroelectric-plant-economic-v2.webp",
   },
   {
     "id": "siribala-sugar-mill-economic-v2",
@@ -989,7 +1011,8 @@ export const poiExtraMaliEconomicV2: POI[] = [
         "Processes locally grown sugarcane.",
         "Creates thousands of direct and indirect jobs."
       ]
-    }
+    },
+    image: "/poi-images/siribala-sugar-mill-economic-v2.webp",
   },
   {
     "id": "bamako-industrial-zone-economic-v2",
@@ -1032,7 +1055,8 @@ export const poiExtraMaliEconomicV2: POI[] = [
         "Houses metalworking factories.",
         "Main driver for urban employment."
       ]
-    }
+    },
+    image: "/poi-images/bamako-industrial-zone-economic-v2.webp",
   },
   {
     "id": "kita-peanut-processing-economic-v2",
@@ -1075,7 +1099,8 @@ export const poiExtraMaliEconomicV2: POI[] = [
         "Produces peanut oil for the domestic market.",
         "Processes harvests from thousands of smallholder farmers."
       ]
-    }
+    },
+    image: "/poi-images/kita-peanut-processing-economic-v2.webp",
   },
   {
     "id": "yanfolila-gold-mine-economic-v2",
@@ -1118,7 +1143,8 @@ export const poiExtraMaliEconomicV2: POI[] = [
         "Places great emphasis on safe working conditions.",
         "Regional economic importance."
       ]
-    }
+    },
+    image: "/poi-images/yanfolila-gold-mine-economic-v2.webp",
   },
   {
     "id": "kalana-gold-mine-economic-v2",
@@ -1161,7 +1187,8 @@ export const poiExtraMaliEconomicV2: POI[] = [
         "Currently undergoing expansion.",
         "Important employer in the southwest of the Sikasso Region."
       ]
-    }
+    },
+    image: "/poi-images/kalana-gold-mine-economic-v2.webp",
   },
   {
     "id": "kodieran-gold-mine-economic-v2",
@@ -1204,7 +1231,8 @@ export const poiExtraMaliEconomicV2: POI[] = [
         "Utilizes modern processing methods.",
         "Located near Yanfolila."
       ]
-    }
+    },
+    image: "/poi-images/kodieran-gold-mine-economic-v2.webp",
   },
   {
     "id": "falea-uranium-project-economic-v2",
@@ -1247,7 +1275,8 @@ export const poiExtraMaliEconomicV2: POI[] = [
         "Located near the borders with Senegal and Guinea.",
         "Shows the diversification of Malian mineral resources."
       ]
-    }
+    },
+    image: "/poi-images/falea-uranium-project-economic-v2.webp",
   },
   {
     "id": "bougouni-lithium-project-economic-v2",
@@ -1290,6 +1319,7 @@ export const poiExtraMaliEconomicV2: POI[] = [
         "Located south of Bamako.",
         "One of the first lithium projects in West Africa."
       ]
-    }
+    },
+    image: "/poi-images/bougouni-lithium-project-economic-v2.webp",
   }
 ];

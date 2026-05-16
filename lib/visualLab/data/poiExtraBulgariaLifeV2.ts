@@ -32,6 +32,7 @@ export const bulgariaLifeV2: POI[] = [
       ro: ["Fondată la 1 mai 1888 prin decretul principelui Ferdinand I.", "Primul locuitor a fost un vultur negru din sălbăticia bulgară.", "S-a mutat în locația actuală din cartierul 'Lozenets' în anul 1984.", "Găzduiește peste 2.000 de animale din aproximativ 280 de specii diferite.", "Este membră a Asociației Europene a Grădinilor Zoologice și Acvariilor (EAZA) din 1993.", "Deține un acvariu și un terariu importante."],
       en: ["Established on May 1, 1888, by a decree from Prince Ferdinand I.", "The first inhabitant was a cinereous vulture from the Bulgarian wilderness.", "Moved to its current location in the 'Lozenets' district in 1984.", "Houses over 2,000 animals belonging to approximately 280 species.", "Has been a member of the European Association of Zoos and Aquaria (EAZA) since 1993.", "Features a significant aquarium and a large terrarium house."],
     },
+    image: "/poi-images/bulgaria-sofia-zoo-life-v2.webp",
   },
   {
     id: "bulgaria-balchik-botanical-garden-life-v2",
@@ -64,6 +65,7 @@ export const bulgariaLifeV2: POI[] = [
       ro: ["Fondată oficial la 27 iulie 1955 de către Universitatea din Sofia.", "Găzduiește a doua cea mai mare colecție de cactuși din Europa, după Monaco.", "Suprafața totală a grădinii botanice este de aproximativ 65.000 m².", "Conține peste 3.000 de specii de plante diferite de pe toate continentele.", "Grădinile terasate depășesc o diferență de înălțime de 50 m.", "Complexul include și o cramă istorică din perioada reginei."],
       en: ["Officially established on July 27, 1955, by Sofia University.", "Houses the second largest cactus collection in Europe after Monaco.", "The total area of the botanical garden is approximately 65,000 m².", "Contains over 3,000 different plant species from every continent.", "The terraced gardens span a vertical elevation difference of 50 meters.", "The grounds also feature a historic wine cellar from the Queen's era."],
     },
+    image: "/poi-images/bulgaria-balchik-botanical-garden-life-v2.webp",
   },
   {
     id: "bulgaria-srebarna-reserve-life-v2",
@@ -96,6 +98,7 @@ export const bulgariaLifeV2: POI[] = [
       ro: ["Declarată rezervație naturală de stat în anul 1948.", "Este un sit al Patrimoniului Mondial UNESCO din 1983.", "Găzduiește singura colonie de pelicani creți din Bulgaria.", "Lacul Srebarna are o adâncime medie de numai 1 până la 3 metri.", "În rezervație au fost identificate în total peste 220 de specii de păsări.", "Zona face parte din rețeaua europeană de arii protejate Natura 2000."],
       en: ["Declared a state nature reserve in 1948.", "Recognized as a UNESCO World Heritage site since 1983.", "Home to Bulgaria's only breeding colony of Dalmatian pelicans.", "Lake Srebarna has an average depth of only 1 to 3 meters.", "A total of over 220 bird species have been recorded within the reserve.", "The area is part of the European Natura 2000 ecological network."],
     },
+    image: "/poi-images/bulgaria-srebarna-reserve-life-v2.webp",
   },
   {
     id: "bulgaria-vitosha-nature-park-life-v2",
@@ -128,6 +131,7 @@ export const bulgariaLifeV2: POI[] = [
       ro: ["Declarat rezervație naturală la 27 octombrie 1934.", "Este primul parc natural din Bulgaria și din întreaga regiune a Balcanilor.", "Cel mai înalt vârf este Cerni Vrah, cu o înălțime de 2.290 m.", "Celebrele 'râuri de piatră' de la Zlatnite Mostove sunt un fenomen natural.", "Găzduiește peste 1.500 de specii de plante vasculare.", "În parc se află cea mai lungă peșteră din Bulgaria, Duhla (18 km)."],
       en: ["Declared a protected area on October 27, 1934.", "The first nature park established in Bulgaria and the entire Balkans.", "The highest peak is Cherni Vrah, standing at 2,290 meters above sea level.", "The famous 'stone rivers' at Zlatnite Mostove are a notable natural phenomenon.", "Home to more than 1,500 species of vascular plants.", "Contains the longest cave in Bulgaria, Duhla, which spans 18 km."],
     },
+    image: "/poi-images/bulgaria-vitosha-nature-park-life-v2.webp",
   },
   {
     id: "bulgaria-rusenski-lom-park-life-v2",
@@ -160,6 +164,7 @@ export const bulgariaLifeV2: POI[] = [
       ro: ["Parcul natural a fost înființat în 1970 pentru protejarea canioanelor.", "Suprafața totală a ariei protejate este de aproximativ 3.408 hectare.", "Găzduiește bisericile de piatră de la Ivanovo, sit UNESCO din 1979.", "În parc au fost identificate peste 900 de specii de plante vasculare.", "Este un loc important de cuibărit pentru vulturul egiptean, specie periclitată.", "Include ruinele orașului medieval fortificat Cherven, un centru regional major."],
       en: ["The nature park was established in 1970 to preserve the canyon landscape.", "The total area of the protected territory is approximately 3,408 hectares.", "Home to the UNESCO-listed Rock-hewn Churches of Ivanovo.", "Over 900 species of vascular plants are documented within the park.", "It is a vital breeding ground for the globally endangered Egyptian vulture.", "Contains the ruins of the medieval fortified town of Cherven."],
     },
+    image: "/poi-images/bulgaria-rusenski-lom-park-life-v2.webp",
   },
   {
     id: "bulgaria-silkosia-reserve-life-v2",
@@ -192,6 +197,7 @@ export const bulgariaLifeV2: POI[] = [
       ro: ["Data înființării este 29 iunie 1933, fiind prima rezervație din Bulgaria.", "Aria protejată acoperă o suprafață totală de aproximativ 396 de hectare.", "Adăpostește rododendronul de Strandja, o specie rară de relicvă terțiară.", "Pădurile sunt formate preponderent din gorun și fag oriental.", "Altitudinea rezervației variază între 100 și 250 de metri deasupra mării.", "Găzduiește peste 260 de specii diferite de plante vasculare."],
       en: ["Established on June 29, 1933, as the first reserve in Bulgaria.", "The protected area covers a total surface of approximately 396 hectares.", "Home to the rare Strandzha Rhododendron (Rhododendron ponticum).", "Forests are mainly composed of sessile oak and oriental beech.", "The elevation of the reserve ranges from 100 to 250 meters above sea level.", "It hosts over 260 different species of vascular plants."],
     },
+    image: "/poi-images/bulgaria-silkosia-reserve-life-v2.webp",
   },
   {
     id: "bulgaria-belitsa-bear-park-life-v2",
@@ -224,6 +230,7 @@ export const bulgariaLifeV2: POI[] = [
       ro: ["Înființat în anul 2000 de Vier Pfoten și Fundația Brigitte Bardot.", "Parcul se întinde pe o suprafață totală de 12 hectare.", "Situat la o altitudine între 1.200 și 1.345 de metri în Munții Rila.", "Adăpostește foști urși dansatori din Bulgaria, Serbia și Albania.", "Dispune de iazuri artificiale și peșteri naturale pentru hibernare.", "Parcul este împărțit în mai multe sectoare pentru gestionarea optimă a urșilor."],
       en: ["Established in 2000 by FOUR PAWS and the Brigitte Bardot Foundation.", "The park covers a total area of 12 hectares.", "Located at an altitude between 1,200 and 1,345 meters in the Rila Mountains.", "Provides a home for former dancing bears from Bulgaria, Serbia, and Albania.", "Features artificial ponds and natural caves for hibernation.", "The territory is divided into several sectors for better bear management."],
     },
+    image: "/poi-images/bulgaria-belitsa-bear-park-life-v2.webp",
   },
   {
     id: "bulgaria-vratza-karst-life-v2",
@@ -256,6 +263,7 @@ export const bulgariaLifeV2: POI[] = [
       ro: ["Parcul Natural Vrachanski Balkan a fost înființat în anul 1989.", "Suprafața totală a parcului este de aproximativ 28.844 de hectare.", "Găzduiește peste 500 de peșteri și avene documentate.", "Peștera Ledenika este una dintre cele mai vizitate atracții din parc.", "Defileul Vratsata are cei mai înalți pereți verticali de calcar din Balcani.", "Este o arie de protecție vitală pentru vulturul pleșuv sur reintrodus."],
       en: ["Vrachanski Balkan Nature Park was officially established in 1989.", "The park covers a total area of approximately 28,844 hectares.", "It contains more than 500 documented caves and potholes.", "Ledenika Cave is one of the most visited natural attractions in the park.", "Vratsata Gorge features the highest vertical limestone cliffs in the Balkans.", "A key conservation area for the reintroduced griffon vulture population."],
     },
+    image: "/poi-images/bulgaria-vratza-karst-life-v2.webp",
   },
   {
     id: "bulgaria-bulgarian-black-sea-coast-life-v2",
@@ -288,6 +296,7 @@ export const bulgariaLifeV2: POI[] = [
       ro: ["Regiunea de coastă face parte din Via Pontica, a doua cea mai mare rută de migrație din Europa.", "Capul Kaliakra este o rezervație arheologică și naturală de o importanță majoră.", "Râul Kamchiya găzduiește păduri inundabile rare (longoz) la gura sa de vărsare.", "Rezervația Ropotamo protejează formațiuni stâncoase unice și zone mlăștinoase.", "Include zone cu cele mai bine conservate dune de nisip din Bulgaria.", "Adăpostește specii amenințate, precum broasca țestoasă de uscat dobrogeană."],
       en: ["The coast is part of the Via Pontica, the second-largest bird migration route in Europe.", "Cape Kaliakra is a major archaeological and natural reserve on the northern coast.", "The Kamchiya River mouth hosts rare longoz-type floodplain forests.", "The Ropotamo Reserve protects unique rock formations and swamp ecosystems.", "It encompasses areas with the best-preserved sand dunes in Bulgaria.", "Home to endangered species like the spur-thighed tortoise."],
     },
+    image: "/poi-images/bulgaria-bulgarian-black-sea-coast-life-v2.webp",
   },
   {
     id: "bulgaria-kalofer-botanical-life-v2",
@@ -320,6 +329,7 @@ export const bulgariaLifeV2: POI[] = [
       ro: ["Kalofer se află la poalele Parcului Național Balcanii Centrali.", "Rezervația Dzhendema din apropiere este cea mai mare din Bulgaria.", "Peste 1.900 de specii de plante vasculare sunt documentate în regiune.", "Găzduiește specia rară de ceai balcanic (Sideritis scardica).", "Loc important pentru protejarea florii de colț în Munții Balcani.", "Regiunea include vârful Botev, cel mai înalt punct din Munții Balcani."],
       en: ["Kalofer is located at the foot of the Central Balkan National Park.", "The nearby Dzhendema Reserve is the largest in Bulgaria.", "Over 1,900 species of vascular plants are documented in the region.", "Home to the rare Balkan tea (Sideritis scardica).", "A key site for the protection of Edelweiss in the Balkan Mountains.", "The region includes Botev Peak, the highest point of the Balkan range."],
     },
+    image: "/poi-images/bulgaria-kalofer-botanical-life-v2.webp",
   },
   {
     id: "bulgaria-deliorman-forest-life-v2",
@@ -352,6 +362,7 @@ export const bulgariaLifeV2: POI[] = [
       ro: ["Deliorman este o regiune geografică în nord-estul Bulgariei.", "Numele înseamnă 'Pădurea Nebună' în limba turcă.", "Regiunea acoperă o suprafață de aproximativ 2.638 de kilometri pătrați.", "Cel mai înalt punct este lângă Samuil, având 485 de metri.", "Habitat important pentru cerbul comun, specie protejată la nivel mondial.", "Adăpostește mormântul tracic de la Sveshtari, sit UNESCO."],
       en: ["Deliorman is a geographical region in northeastern Bulgaria.", "The name translates to 'Crazy Forest' from Turkish.", "The region covers an area of approximately 2,638 square kilometers.", "The highest point is located near Samuil at 485 meters.", "A significant habitat for globally protected red deer populations.", "Home to the UNESCO World Heritage site of the Thracian Tomb of Sveshtari."],
     },
+    image: "/poi-images/bulgaria-deliorman-forest-life-v2.webp",
   },
   {
     id: "bulgaria-rosen-park-life-v2",
@@ -384,6 +395,7 @@ export const bulgariaLifeV2: POI[] = [
       ro: ["Bulgaria produce aproximativ 70% din uleiul de trandafir la nivel mondial.", "Trandafirul de Damasc a fost introdus din Persia în secolul al XVII-lea.", "Pentru un litru de ulei de trandafir sunt necesare circa 3.000-4.000 kg de petale.", "Muzeul Trandafirului din Kazanlak este singurul de acest tip din lume.", "Festivalul Trandafirilor este celebrat anual în iunie începând cu 1903.", "Uleiul de trandafir bulgăresc are certificat de indicație geografică protejată."],
       en: ["Bulgaria produces about 70% of the world's rose oil.", "The Rosa damascena was introduced from Persia in the 17th century.", "Approximately 3,000 to 4,000 kg of rose petals are needed for one liter of oil.", "The Rose Museum in Kazanlak is the only one of its kind in the world.", "The Rose Festival has been celebrated annually in June since 1903.", "Bulgarian rose oil is certified with a protected geographical indication."],
     },
+    image: "/poi-images/bulgaria-rosen-park-life-v2.webp",
   },
   {
     id: "bulgaria-pomorie-lake-life-v2",
@@ -416,6 +428,7 @@ export const bulgariaLifeV2: POI[] = [
       ro: ["Lacul acoperă o suprafață de aproximativ 8 kilometri pătrați.", "Concentrația de sare atinge până la 120 de grame pe litru.", "Depozitele de nămol terapeutic sunt utilizate medical din anii 1950.", "Anual se extrag aproximativ 40.000 de tone de sare marină.", "Adâncimea maximă este de numai 2 metri.", "Peste 250 de specii de păsări au fost înregistrate în zonă."],
       en: ["The lake covers an area of about 8 square kilometers.", "Salinity reaches up to 120 grams per liter.", "Therapeutic mud deposits have been used medically since the 1950s.", "Approximately 40,000 tons of sea salt are extracted annually.", "Maximum depth is only about 2 meters.", "Over 250 bird species have been recorded in the area."],
     },
+    image: "/poi-images/bulgaria-pomorie-lake-life-v2.webp",
   },
   {
     id: "bulgaria-kamchia-reserve-life-v2",
@@ -448,6 +461,7 @@ export const bulgariaLifeV2: POI[] = [
       ro: ["Rezervația se întinde pe o suprafață de aproximativ 10 kilometri pătrați.", "Pădurile de luncă sunt compuse în proporție de 70% din stejar pedunculat și arin negru.", "Peste 30.000 de păsări migratoare se opresc aici anual.", "Gura de vărsare a râului are o lățime de aproximativ 1 kilometru.", "Precipitațiile medii anuale sunt de 450 mm.", "Cel puțin 260 de specii de plante au fost identificate în rezervație."],
       en: ["The reserve covers an area of about 10 square kilometers.", "The floodplain forests consist of 70% pedunculate oak and black alder.", "Over 30,000 migratory birds stop here annually.", "The river mouth is approximately 1 kilometer wide.", "Average annual rainfall is 450 mm.", "At least 260 plant species have been identified in the reserve."],
     },
+    image: "/poi-images/bulgaria-kamchia-reserve-life-v2.webp",
   },
   {
     id: "bulgaria-bistritsa-forest-life-v2",
@@ -480,6 +494,7 @@ export const bulgariaLifeV2: POI[] = [
       ro: ["Înființată în 1934 ca una dintre primele rezervații din Bulgaria.", "Parte a programului UNESCO pentru Rezervații ale Biosferei din 1977.", "Cuprinde o suprafață totală protejată de 1061 de hectare.", "Cel mai înalt punct se află la 2277 de metri deasupra mării.", "Găzduiește arborete de molid cu vârste de până la 150 de ani.", "Faimoasă pentru 'râurile de piatră' geologice formate din sienit."],
       en: ["Established in 1934 as one of Bulgaria's first nature reserves.", "Included in the UNESCO Biosphere Reserve program since 1977.", "Covers a total protected area of 1061 hectares.", "Highest point reaches an altitude of 2277 meters above sea level.", "Home to spruce stands (Picea abies) up to 150 years old.", "Famous for geological 'stone rivers' made of syenite rock."],
     },
+    image: "/poi-images/bulgaria-bistritsa-forest-life-v2.webp",
   },
   {
     id: "bulgaria-shar-planina-nature-park-life-v2",
@@ -512,6 +527,7 @@ export const bulgariaLifeV2: POI[] = [
       ro: ["Titov Vrv este cel mai înalt vârf al masivului, având 2747 metri.", "Găzduiește 27 de lacuri glaciare limpezi, cunoscute sub numele de 'ochi de munte'.", "Munții se întind pe o suprafață totală de aproximativ 1600 km².", "Patria câinelui ciobănesc Sarplaninac, o rasă recunoscută internațional.", "Habitat pentru râsul balcanic, o specie extrem de rară și periclitată.", "Deține una dintre cele mai mari suprafețe de pajiști alpine din Europa."],
       en: ["Titov Vrv is the highest peak of the massif, reaching 2747 meters.", "Contains 27 crystal-clear glacial lakes known as 'mountain eyes.'", "The mountain range covers an area of approximately 1600 km².", "Home to the Sharplaninac, a world-renowned livestock guardian dog breed.", "Habitat for the extremely rare and endangered Balkan lynx.", "Features one of the largest contiguous alpine pasture areas in Europe."],
     },
+    image: "/poi-images/bulgaria-shar-planina-nature-park-life-v2.webp",
   },
   {
     id: "bulgaria-dyavolsko-garloto-life-v2",
@@ -544,6 +560,7 @@ export const bulgariaLifeV2: POI[] = [
       ro: ["Găzduiește cea mai înaltă cascadă subterană din Balcani (42 metri).", "'Sala Tunetului' are o lungime de 110 metri și o înălțime de 40 metri.", "Peste 300 de trepte abrupte conduc de la bază către ieșirea superioară.", "Loc important de iernare pentru peste 30.000 de lilieci cu aripi lungi.", "Râul Trigrad dispare în sifonul peșterii și reapare la 530 m distanță.", "Peștera este cadrul legendei antice despre Orfeu și Euridice."],
       en: ["Home to the highest underground waterfall in the Balkans (42 meters).", "The 'Hall of Thunder' is 110 meters long and 40 meters high.", "Over 300 steep steps lead from the bottom to the upper exit.", "Important wintering site for over 30,000 long-fingered bats.", "The Trigrad River disappears into a siphon and reappears 530m away.", "The cave is the legendary site of Orpheus's descent to the Underworld."],
     },
+    image: "/poi-images/bulgaria-dyavolsko-garloto-life-v2.webp",
   },
   {
     id: "bulgaria-yagodina-karst-life-v2",
@@ -576,6 +593,7 @@ export const bulgariaLifeV2: POI[] = [
       ro: ["Peștera Iagodina are o lungime de 8,5 kilometri.", "Temperatura din peșteră este constantă, în jur de 10 °C.", "În regiune au fost descoperite peste 40 de peșteri.", "Altitudinea medie a platourilor carstice este de 1.200 de metri.", "Precipitațiile medii anuale sunt de aproximativ 600 mm.", "Cel mai adânc chei atinge o adâncime de 200 de metri."],
       en: ["Yagodina Cave is 8.5 kilometers long.", "The cave temperature is constant at about 10 °C.", "Over 40 caves have been discovered in the region.", "Average elevation of the karst plateaus is 1,200 meters.", "Annual precipitation is about 600 mm.", "The deepest gorge reaches a depth of 200 meters."],
     },
+    image: "/poi-images/bulgaria-yagodina-karst-life-v2.webp",
   },
   {
     id: "bulgaria-zlatni-pyasatsi-park-life-v2",
@@ -608,6 +626,7 @@ export const bulgariaLifeV2: POI[] = [
       ro: ["Al doilea cel mai vechi parc natural din Bulgaria, fondat la 3 februarie 1943.", "Cuprinde o suprafață de 1320 de hectare de-a lungul coastei.", "Cel mai înalt punct al parcului se află la 269 de metri deasupra mării.", "Găzduiește mănăstirea Aladzha, un complex monahal bizantin în stâncă.", "Zonă protejată pentru peste 500 de specii diferite de plante vasculare.", "Habitat pentru 78 de specii de păsări, multe fiind sub protecție."],
       en: ["The second oldest nature park in Bulgaria, established on Feb 3, 1943.", "Covers an area of 1,320 hectares along the Black Sea coast.", "The highest point within the park reaches 269 meters above sea level.", "Home to Aladzha Monastery, a significant Byzantine rock monastery.", "Protects over 500 different species of vascular plants.", "Habitat for 78 species of birds, many of which are nationally protected."],
     },
+    image: "/poi-images/bulgaria-zlatni-pyasatsi-park-life-v2.webp",
   },
   {
     id: "bulgaria-stara-planina-ridge-life-v2",
@@ -640,6 +659,7 @@ export const bulgariaLifeV2: POI[] = [
       ro: ["Munții Balcani se întind pe o lungime de 530 de kilometri.", "Lățimea maximă este de aproximativ 50 de kilometri.", "Vârful Botev, cu 2.376 de metri, este cel mai înalt.", "Peste 800 de specii de plante sunt endemice în munți.", "Parcul Național acoperă o suprafață de 716 kilometri pătrați.", "Altitudinea medie a crestei este între 600 și 1.200 de metri."],
       en: ["The Balkan Mountains stretch 530 kilometers in length.", "Maximum width is about 50 kilometers.", "Botev Peak at 2,376 meters is the highest summit.", "Over 800 plant species are endemic to the mountains.", "The national park covers an area of 716 square kilometers.", "The average elevation of the ridge is between 600 and 1,200 meters."],
     },
+    image: "/poi-images/bulgaria-stara-planina-ridge-life-v2.webp",
   },
   {
     id: "bulgaria-maritsa-wetlands-life-v2",
@@ -672,6 +692,7 @@ export const bulgariaLifeV2: POI[] = [
       ro: ["Zonele umede acoperă o suprafață de aproximativ 30 de kilometri pătrați.", "Aproximativ 200 de specii de păsări au fost înregistrate aici.", "Adâncimea medie a apei este de 1-2 metri.", "Râul Marița are în acest punct o lățime de aproximativ 100 de metri.", "Precipitațiile medii anuale sunt de 500 mm.", "Cel puțin 15 specii de pești trăiesc în ape."],
       en: ["The wetlands cover an area of about 30 square kilometers.", "Around 200 bird species have been recorded here.", "Average water depth is 1-2 meters.", "The Maritsa River is about 100 meters wide at this point.", "Annual precipitation is 500 mm.", "At least 15 fish species inhabit the waters."],
     },
+    image: "/poi-images/bulgaria-maritsa-wetlands-life-v2.webp",
   },
   {
     id: "bulgaria-dobrudzha-steppe-life-v2",
@@ -704,5 +725,6 @@ export const bulgariaLifeV2: POI[] = [
       ro: ["Dobrogea se întinde pe o suprafață de aproximativ 7.500 de kilometri pătrați în Bulgaria.", "Solul negru atinge o grosime de până la 2 metri.", "Precipitațiile medii anuale sunt de 450 mm.", "Producția de grâu este de aproximativ 4 tone pe hectar.", "Populația de dropie din Bulgaria este estimată la 50-100 de indivizi.", "Cel mai înalt punct din Dobrogea are 245 de metri."],
       en: ["Dobrudzha covers an area of about 7,500 square kilometers in Bulgaria.", "The black soil reaches a thickness of up to 2 meters.", "Average annual rainfall is 450 mm.", "Wheat yields are about 4 tons per hectare.", "The great bustard population in Bulgaria is estimated at 50-100 individuals.", "The highest point in Dobrudzha is 245 meters."],
     },
+    image: "/poi-images/bulgaria-dobrudzha-steppe-life-v2.webp",
   }
 ];

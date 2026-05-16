@@ -31,6 +31,7 @@ export const micronesiaLifeV2: POI[] = [
       ro: ["Atolul este format din 13 insulițe mici (motus).", "Se află la aproximativ 18 kilometri vest de Pohnpei.", "Rezervația Biosferei UNESCO a fost stabilită în anul 2008.", "Este o zonă de reproducere crucială pentru rândunicile de mare.", "Apele atolului adăpostesc populații sănătoase de rechini de recif.", "Accesul este controlat strict pentru a proteja mediul natural fragil."],
       en: ["The atoll consists of 13 small islets known as motus.", "It is situated approximately 18 kilometers west of Pohnpei.", "The UNESCO Biosphere Reserve was established in 2008.", "It is a major breeding ground for the sooty tern.", "The waters support healthy populations of grey reef sharks.", "Access to the atoll is strictly managed to preserve its ecology."],
     },
+    image: "/poi-images/micronesia-ant-atoll-life-v2.webp",
   },
   {
     id: "micronesia-yela-ka-forest-life-v2",
@@ -62,6 +63,7 @@ export const micronesiaLifeV2: POI[] = [
       ro: ["Pădurea se întinde pe o suprafață de aproximativ 80 de hectare.", "Arborii Ka sunt endemici în regiunea vestică a Pacificului.", "Se estimează că unii arbori au o vechime de peste 150 de ani.", "Pădurea este gestionată printr-un acord de conservare privată.", "Este una dintre ultimele păduri de mlaștină intacte de acest tip.", "Accesul în zonă se face doar cu barca sau pe poteci pedestre."],
       en: ["The forest covers an area of approximately 80 hectares.", "Ka trees are endemic to the western Pacific region.", "Some trees in the forest are estimated to be over 150 years old.", "The forest is managed under a private conservation easement.", "It is one of the last intact swamp forests of its kind globally.", "The area is accessible only by boat or via a hiking trail."],
     },
+    image: "/poi-images/micronesia-yela-ka-forest-life-v2.webp",
   },
   {
     id: "micronesia-mount-finkol-life-v2",
@@ -93,6 +95,7 @@ export const micronesiaLifeV2: POI[] = [
       ro: ["Vârful are o altitudine de exact 634 de metri deasupra mării.", "Muntele este format în principal din roci vulcanice.", "La înălțime domină un microclimat mai răcoros și umed.", "Traseul până la vârf durează între 6 și 8 ore tur-retur.", "Găzduiește specii rare de ferigi și orhidee tropicale.", "De pe vârf se poate vedea insula Lelu în zilele senine."],
       en: ["The summit elevation is exactly 634 meters above sea level.", "The mountain is primarily composed of volcanic rock formations.", "The upper slopes feature a cooler and more humid microclimate.", "The hike to the summit takes approximately 6 to 8 hours.", "It is home to rare species of ferns and tropical orchids.", "On clear days, the islet of Lelu is visible from the peak."],
     },
+    image: "/poi-images/micronesia-mount-finkol-life-v2.webp",
   },
   {
     id: "micronesia-chuuk-lagoon-reefs-life-v2",
@@ -124,6 +127,7 @@ export const micronesiaLifeV2: POI[] = [
       ro: ["Laguna are un diametru de aproximativ 60 de kilometri.", "Peste 50 de epave majore de nave se află pe fundul lagunei.", "Au fost identificate peste 200 de specii de corali în zonă.", "Recifele adăpostesc țestoase marine și diverse specii de rechini.", "Vizibilitatea sub apă atinge adesea până la 30 de metri.", "Părți ale lagunei sunt declarate arii marine protejate."],
       en: ["The lagoon has a diameter of approximately 60 kilometers.", "There are over 50 major shipwrecks resting on the lagoon floor.", "More than 200 species of coral have been identified here.", "The reefs support sea turtles and various species of sharks.", "Underwater visibility often reaches up to 30 meters.", "Specific areas of the lagoon are designated as marine sanctuaries."],
     },
+    image: "/poi-images/micronesia-chuuk-lagoon-reefs-life-v2.webp",
   },
   {
     id: "micronesia-pohnpei-mangroves-life-v2",
@@ -155,6 +159,7 @@ export const micronesiaLifeV2: POI[] = [
       ro: ["Aproximativ 15% din suprafața insulei Pohnpei este acoperită de mangrove.", "Există cel puțin 10 specii diferite de arbori de mangrovă aici.", "Acestea protejează interiorul insulei de furtuni și taifunuri.", "Canoele sunt mijlocul tradițional de transport prin canale.", "Pădurile găzduiesc specii rare de păsări endemice.", "Crabii de mangrovă reprezintă o sursă importantă de hrană locală."],
       en: ["About 15% of Pohnpei's total land area is covered by mangroves.", "At least 10 different species of mangrove trees are found here.", "They protect the inland areas from storm surges and typhoons.", "Canoes are the traditional mode of transport within the channels.", "The forests are home to the endemic Pohnpei honeyeater bird.", "Mangrove crabs are a vital source of protein for the local diet."],
     },
+    image: "/poi-images/micronesia-pohnpei-mangroves-life-v2.webp",
   },
   {
     id: "micronesia-yap-manta-sanctuary-life-v2",
@@ -186,6 +191,7 @@ export const micronesiaLifeV2: POI[] = [
       ro: ["Sanctuarul a fost înființat oficial în cursul anului 2008.", "Acoperă o suprafață de peste 21.000 de mile pătrate.", "În Yap au fost identificate individual peste 100 de mante.", "Anvergura aripilor acestor pești poate atinge până la 7 metri.", "Canalul Milos este unul dintre cele mai faimoase puncte de observație.", "Exportul oricăror părți de manta este strict interzis în statul Yap."],
       en: ["The sanctuary was officially established in late 2008.", "It covers an expansive area of over 21,000 square miles.", "Yap has more than 100 individually identified manta rays.", "The rays can have a wingspan reaching up to 7 meters.", "Milos Channel is one of the most famous observation spots.", "The export of manta ray products is strictly prohibited in Yap."],
     },
+    image: "/poi-images/micronesia-yap-manta-sanctuary-life-v2.webp",
   },
   {
     id: "micronesia-mount-nahna-laud-life-v2",
@@ -217,6 +223,7 @@ export const micronesiaLifeV2: POI[] = [
       ro: ["Vârful are o altitudine de aproximativ 798 de metri.", "Este considerat unul dintre cele mai ploioase locuri de pe Pământ.", "Precipitațiile anuale depășesc adesea 8.000 mm.", "Muntele găzduiește specia endemică de pasăre Pohnpei flycatcher.", "Vegetația de pe vârf este formată în principal din păduri pitice.", "Este o componentă centrală a Rezervației Forestiere din Pohnpei."],
       en: ["The summit reaches approximately 798 meters above sea level.", "It is one of the wettest locations on the entire planet.", "Annual rainfall at the peak exceeds 8,000 mm.", "The mountain is home to the endemic Pohnpei flycatcher bird.", "The upper vegetation consists largely of stunted dwarf forests.", "It is a key part of the Pohnpei Watershed Forest Reserve."],
     },
+    image: "/poi-images/micronesia-mount-nahna-laud-life-v2.webp",
   },
   {
     id: "micronesia-kosrae-mangrove-reserve-life-v2",
@@ -248,6 +255,7 @@ export const micronesiaLifeV2: POI[] = [
       ro: ["Găzduiește 10 specii diferite de mangrove", "Copacii ating înălțimi de până la 30 de metri", "Protejează insula de valurile taifunurilor", "Habitat important pentru crabul de mangrovă", "Parte a unei rezervații mai mari a biosferei", "Acoperă părți extinse ale liniei de coastă din Kosrae"],
       en: ["Home to 10 different mangrove species", "Trees reach heights of up to 30 meters", "Protects the island from typhoon surges", "Important habitat for the mangrove crab", "Part of a larger biosphere reserve area", "Covers extensive parts of Kosrae's coastline"],
     },
+    image: "/poi-images/micronesia-kosrae-mangrove-reserve-life-v2.webp",
   },
   {
     id: "micronesia-oroluk-atoll-life-v2",
@@ -279,6 +287,7 @@ export const micronesiaLifeV2: POI[] = [
       ro: ["Suprafața lagunei este de aproximativ 420 km²", "Loc de cuibărit important pentru țestoasele verzi", "Aparține administrativ de statul Pohnpei", "Insula Oroluk este aproape nelocuită", "Include recife de corali cu biodiversitate ridicată", "A fost observat de navigatorii europeni în 1827"],
       en: ["Lagoon area is approximately 420 km²", "Major nesting site for green sea turtles", "Administratively part of Pohnpei State", "Oroluk Island is almost uninhabited", "Features coral reefs of high biodiversity", "Sighted by European navigators in 1827"],
     },
+    image: "/poi-images/micronesia-oroluk-atoll-life-v2.webp",
   },
   {
     id: "micronesia-kapingamarangi-marine-life-v2",
@@ -310,6 +319,7 @@ export const micronesiaLifeV2: POI[] = [
       ro: ["Cel mai sudic punct al Microneziei", "Cuprinde un total de 33 de insule mici", "Laguna are o adâncime de până la 80 de metri", "Locuitorii vorbesc o limbă polineziană", "Faimos pentru arta tradițională a sculpturii", "Distanța până la Pohnpei este de aprox. 740 km"],
       en: ["Southernmost point of Micronesia", "Comprises a total of 33 small islets", "The lagoon reaches depths of 80 meters", "Inhabitants speak a Polynesian language", "Famous for traditional wood carving arts", "Distance to Pohnpei is about 740 km"],
     },
+    image: "/poi-images/micronesia-kapingamarangi-marine-life-v2.webp",
   },
   {
     id: "micronesia-pakin-atoll-life-v2",
@@ -341,6 +351,7 @@ export const micronesiaLifeV2: POI[] = [
       ro: ["Format din 5 insule împădurite", "Situat la aprox. 30 km nord-vest de Pohnpei", "Cunoscut pentru stațiile de curățare a mantelor", "Câinii sunt interziși pe atol", "Practicile tradiționale de pescuit persistă", "Parte a grupului de insule Senyavin"],
       en: ["Consists of 5 forested islets", "Located approx. 30 km northwest of Pohnpei", "Known for manta ray cleaning stations", "Dogs are prohibited on the atoll", "Traditional fishing practices are still used", "Part of the Senyavin Islands group"],
     },
+    image: "/poi-images/micronesia-pakin-atoll-life-v2.webp",
   },
   {
     id: "micronesia-nanpil-river-life-v2",
@@ -372,6 +383,7 @@ export const micronesiaLifeV2: POI[] = [
       ro: ["Locul primei centrale hidroelectrice din Pohnpei", "Cea mai importantă sursă de apă a capitalei", "Găzduiește lorichetul endemic de Pohnpei", "Curge prin pădure tropicală primară intactă", "Cunoscut pentru cascada Liduduhniap", "Zona este de origine vulcanică"],
       en: ["Site of Pohnpei's first hydroelectric plant", "Main source of drinking water for the capital", "Habitat for the endemic Pohnpei Lorikeet", "Flows through pristine primary rainforest", "Known for the Liduduhniap Waterfall", "The area is of volcanic origin"],
     },
+    image: "/poi-images/micronesia-nanpil-river-life-v2.webp",
   },
   {
     id: "micronesia-ulithi-atoll-life-v2",
@@ -403,6 +415,7 @@ export const micronesiaLifeV2: POI[] = [
       ro: ["Al patrulea cel mai mare atol din lume după lagună", "A găzduit peste 600 de nave SUA în 1945", "Cel mai important loc de cuibărit din Yap", "Format din aproximativ 40 de insule mici", "Suprafața lagunei este de aprox. 548 km²", "Ierarhia socială tradițională este încă activă"],
       en: ["4th largest atoll in the world by lagoon area", "Hosted over 600 U.S. ships in 1945", "Most important turtle nesting site in Yap", "Comprises about 40 small islets", "Lagoon area is approximately 548 km²", "Traditional social hierarchy is still active"],
     },
+    image: "/poi-images/micronesia-ulithi-atoll-life-v2.webp",
   },
   {
     id: "micronesia-utwe-walung-park-life-v2",
@@ -434,6 +447,7 @@ export const micronesiaLifeV2: POI[] = [
       ro: ["Rezervație a biosferei UNESCO din 2005", "Protejează peste 15 kilometri pătrați", "Găzduiește ruinele sacre Menke", "Habitat pentru vulpea zburătoare de Kosrae", "Conține păduri de mangrove primare intacte", "Oferă tururi ghidate cu canoe prin canale"],
       en: ["UNESCO Biosphere Reserve since 2005", "Protects over 15 square kilometers of area", "Home to the sacred Menke ruins", "Habitat for the endemic Kosrae flying fox", "Contains intact primary mangrove forests", "Offers guided canoe tours through the channels"],
     },
+    image: "/poi-images/micronesia-utwe-walung-park-life-v2.webp",
   },
   {
     id: "micronesia-nukuoro-atoll-life-v2",
@@ -465,5 +479,6 @@ export const micronesiaLifeV2: POI[] = [
       ro: ["Format din 46 de insule mici", "Diametrul lagunei este de aprox. 6 km", "Cunoscut pentru figurile din lemn Tino Aitu", "Populația vorbește limba nukuoro", "Redescoperit de europeni în 1806", "Suprafața terestră totală este de doar 1,7 km²"],
       en: ["Consists of 46 small islets", "Lagoon diameter is approximately 6 km", "Famous for Tino Aitu wooden carvings", "Population speaks Nukuoro (Polynesian)", "Rediscovered by Europeans in 1806", "Total land area is only 1.7 km²"],
     },
+    image: "/poi-images/micronesia-nukuoro-atoll-life-v2.webp",
   }
 ];

@@ -31,6 +31,7 @@ export const barbadosNatureV2: POI[] = [
       ro: ["Lungime: 2,3 km", "Temperatura peșterii: 21 °C", "Deschisă: 1970", "Adâncime: 50 m", "Specii de lilieci: 3", "Precipitații anuale în bazin: 1500 mm"],
       en: ["Length: 2.3 km", "Cave temperature: 21 °C", "Opened: 1970", "Depth: 50 m", "Bat species: 3", "Annual rainfall in catchment: 1500 mm"],
     },
+    image: "/poi-images/barbados-harrisons-cave-nature-v2.webp",
   },
   {
     id: "barbados-mount-hillaby-nature-v2",
@@ -62,6 +63,7 @@ export const barbadosNatureV2: POI[] = [
       ro: ["Înălțime: 340 m", "Origine vulcanică", "Latitudine: 13,2° N", "Longitudine: 59,6° V", "Suprafață agricolă în jur: 500 hectare", "Număr de turnuri de telecomunicații: 3"],
       en: ["Height: 340 m", "Volcanic origin", "Latitude: 13.2° N", "Longitude: 59.6° W", "Agricultural area surrounding: 500 hectares", "Number of telecom towers: 3"],
     },
+    image: "/poi-images/barbados-mount-hillaby-nature-v2.webp",
   },
   {
     id: "barbados-bathsheba-beach-nature-v2",
@@ -93,6 +95,7 @@ export const barbadosNatureV2: POI[] = [
       ro: ["Lungime: 800 m", "Înălțimea valurilor: până la 5 m", "Temperatura apei: 25-27 °C", "Vizitatori pe zi: aprox. 200", "Număr de bolovani: peste 50", "Competiții de surf anuale: 2"],
       en: ["Length: 800 m", "Wave height: up to 5 m", "Water temperature: 25-27 °C", "Daily visitors: approx. 200", "Number of boulders: over 50", "Annual surf competitions: 2"],
     },
+    image: "/poi-images/barbados-bathsheba-beach-nature-v2.webp",
   },
   {
     id: "barbados-flower-forest-nature-v2",
@@ -124,6 +127,7 @@ export const barbadosNatureV2: POI[] = [
       ro: ["Suprafață: 10 hectare", "Deschidere: 1989", "Altitudine: 250 m", "Specii de plante: peste 300", "Dimensiunea lacului: 0,5 hectare", "Expoziții anuale: 2"],
       en: ["Area: 10 hectares", "Opened: 1989", "Elevation: 250 m", "Plant species: over 300", "Lake size: 0.5 hectares", "Annual shows: 2"],
     },
+    image: "/poi-images/barbados-flower-forest-nature-v2.webp",
   },
   {
     id: "barbados-huntes-gardens-nature-v2",
@@ -155,6 +159,7 @@ export const barbadosNatureV2: POI[] = [
       ro: ["Suprafață: 2 hectare", "Deschidere: 2005", "Altitudine: 200 m", "Dimensiunea iazului: 0,1 hectare", "Specii de plante: peste 200", "Vizitatori anuali: 30.000"],
       en: ["Area: 2 hectares", "Opened: 2005", "Elevation: 200 m", "Pond size: 0.1 hectares", "Plant species: over 200", "Annual visitors: 30,000"],
     },
+    image: "/poi-images/barbados-huntes-gardens-nature-v2.webp",
   },
   {
     id: "barbados-the-crane-beach-nature-v2",
@@ -186,6 +191,7 @@ export const barbadosNatureV2: POI[] = [
       ro: ["Lungime: 300 m", "Culoarea nisipului: roz-alb", "Adâncimea apei: 1-5 m", "Temperatura apei: 27 °C", "Număr șezlonguri: 100", "Camere hotel Crane Resort: 250"],
       en: ["Length: 300 m", "Sand color: pinkish-white", "Water depth: 1-5 m", "Water temperature: 27 °C", "Number of loungers: 100", "Hotel rooms at Crane Resort: 250"],
     },
+    image: "/poi-images/barbados-the-crane-beach-nature-v2.webp",
   },
   {
     id: "barbados-chalky-mount-nature-v2",
@@ -217,6 +223,7 @@ export const barbadosNatureV2: POI[] = [
       ro: ["Înălțime: 200 m", "Rocă: cretă și argilă", "Ateliere de olărit: 5", "Lungime traseu drumeție: 3 km", "Precipitații: 1200 mm/an", "Temperatura medie: 24 °C"],
       en: ["Height: 200 m", "Rock type: chalk and clay", "Pottery workshops: 5", "Hiking trail length: 3 km", "Rainfall: 1200 mm/year", "Average temperature: 24 °C"],
     },
+    image: "/poi-images/barbados-chalky-mount-nature-v2.webp",
   },
   {
     id: "barbados-hackletons-cliff-nature-v2",
@@ -248,6 +255,7 @@ export const barbadosNatureV2: POI[] = [
       ro: ["Înălțime: 100 m", "Straturi geologice: 4", "Lungime traseu drumeție: 1,5 km", "Specii de păsări: peste 20", "Distanța până la cea mai apropiată plajă: 500 m", "Vizitatori anuali: 5.000"],
       en: ["Height: 100 m", "Geological layers: 4", "Hiking trail length: 1.5 km", "Bird species: over 20", "Distance to nearest beach: 500 m", "Annual visitors: 5,000"],
     },
+    image: "/poi-images/barbados-hackletons-cliff-nature-v2.webp",
   },
   {
     id: "barbados-turners-hall-woods-nature-v2",
@@ -279,6 +287,7 @@ export const barbadosNatureV2: POI[] = [
       ro: ["Suprafață: 20 hectare", "Altitudine: 250 m", "Specii de arbori: peste 30", "Specii de animale: maimuțe, șopârle, păsări", "Precipitații anuale: 1500 mm", "Lungime traseu drumeție: 2 km"],
       en: ["Area: 20 hectares", "Elevation: 250 m", "Tree species: over 30", "Animal species: monkeys, lizards, birds", "Annual rainfall: 1500 mm", "Hiking trail length: 2 km"],
     },
+    image: "/poi-images/barbados-turners-hall-woods-nature-v2.webp",
   },
   {
     id: "barbados-archers-bay-nature-v2",
@@ -310,6 +319,7 @@ export const barbadosNatureV2: POI[] = [
       ro: ["Lățime: 200 m", "Adâncimea apei: 1-4 m", "Vizibilitate: 15 m", "Temperatura apei: 27 °C", "Număr vile: 10", "Distanța până la Speightstown: 3 km"],
       en: ["Width: 200 m", "Water depth: 1-4 m", "Visibility: 15 m", "Water temperature: 27 °C", "Number of villas: 10", "Distance to Speightstown: 3 km"],
     },
+    image: "/poi-images/barbados-archers-bay-nature-v2.webp",
   },
   {
     id: "barbados-river-bay-nature-v2",
@@ -341,6 +351,7 @@ export const barbadosNatureV2: POI[] = [
       ro: ["Lungime: 400 m", "Lungimea râului: 2 km", "Adâncimea apei: 2-6 m", "Viteza curentului: 2 noduri", "Pescari pe săptămână: 50", "Mese de picnic: 10"],
       en: ["Length: 400 m", "River length: 2 km", "Water depth: 2-6 m", "Current speed: 2 knots", "Anglers per week: 50", "Picnic tables: 10"],
     },
+    image: "/poi-images/barbados-river-bay-nature-v2.webp",
   },
   {
     id: "barbados-foul-bay-nature-v2",
@@ -372,6 +383,7 @@ export const barbadosNatureV2: POI[] = [
       ro: ["Lungime: 300 m", "Lățimea plajei: 10 m", "Înălțimea valurilor: până la 4 m", "Temperatura apei: 25 °C", "Vizitatori pe zi: sub 10", "Distanța până la Oistins: 5 km"],
       en: ["Length: 300 m", "Beach width: 10 m", "Wave height: up to 4 m", "Water temperature: 25 °C", "Visitors per day: under 10", "Distance to Oistins: 5 km"],
     },
+    image: "/poi-images/barbados-foul-bay-nature-v2.webp",
   },
   {
     id: "barbados-pebbles-beach-nature-v2",
@@ -403,6 +415,7 @@ export const barbadosNatureV2: POI[] = [
       ro: ["Lungime: aprox. 500 m", "Distanța de Bridgetown: 3 km", "Temperatura apei: medie 27°C", "Număr de pietricele pe m²: peste 500", "Statut: plajă publică", "Lună de vârf: februarie"],
       en: ["Length: approx. 500 m", "Distance from Bridgetown: 3 km", "Average water temperature: 27°C", "Pebble density: >500 per m²", "Status: public beach", "Peak month: February"],
     },
+    image: "/poi-images/barbados-pebbles-beach-nature-v2.webp",
   },
   {
     id: "barbados-joes-river-nature-v2",
@@ -434,6 +447,7 @@ export const barbadosNatureV2: POI[] = [
       ro: ["Lungime: aprox. 8 km", "Bazin hidrografic: 10 km²", "Debit: 0,5 m³/s", "Altitudinea izvorului: 150 m", "Altitudinea vărsării: 0 m", "Specii endemice de pești: 2"],
       en: ["Length: approx. 8 km", "Drainage basin: 10 km²", "Flow rate: 0.5 m³/s", "Source elevation: 150 m", "Mouth elevation: 0 m", "Endemic fish species: 2"],
     },
+    image: "/poi-images/barbados-joes-river-nature-v2.webp",
   },
   {
     id: "barbados-codrington-woods-nature-v2",
@@ -465,6 +479,7 @@ export const barbadosNatureV2: POI[] = [
       ro: ["Suprafață: 40 ha", "Altitudine maximă: 80 m", "Specii de păsări: peste 30", "Specii invazive: 5 documentate", "Vârsta pădurii: aprox. 500 ani", "Precipitații anuale: 1200 mm"],
       en: ["Area: 40 ha", "Highest point: 80 m", "Bird species: over 30", "Invasive species: 5 documented", "Forest age: approx. 500 years", "Annual rainfall: 1200 mm"],
     },
+    image: "/poi-images/barbados-codrington-woods-nature-v2.webp",
   },
   {
     id: "barbados-silver-sands-beach-nature-v2",
@@ -496,6 +511,7 @@ export const barbadosNatureV2: POI[] = [
       ro: ["Lungime: 1 km", "Viteza vântului: medie 25 km/h", "Temperatura apei: 26-28°C", "Număr competiții anuale: 3", "Înălțimea dunelor: până la 5 m", "Specii endemice de plante: 4"],
       en: ["Length: 1 km", "Average wind speed: 25 km/h", "Water temperature: 26-28°C", "Annual competitions: 3", "Dune height: up to 5 m", "Endemic plant species: 4"],
     },
+    image: "/poi-images/barbados-silver-sands-beach-nature-v2.webp",
   },
   {
     id: "barbados-mullins-bay-nature-v2",
@@ -527,6 +543,7 @@ export const barbadosNatureV2: POI[] = [
       ro: ["Lățime: 300 m", "Adâncime maximă: 5 m", "Temperatura apei: 27°C", "Număr de stațiuni: 3", "Populație estimată de țestoase: 20-30", "Distanța de Bridgetown: 12 km"],
       en: ["Width: 300 m", "Max depth: 5 m", "Water temperature: 27°C", "Number of resorts: 3", "Estimated turtle population: 20-30", "Distance from Bridgetown: 12 km"],
     },
+    image: "/poi-images/barbados-mullins-bay-nature-v2.webp",
   },
   {
     id: "barbados-gibbs-beach-nature-v2",
@@ -558,6 +575,7 @@ export const barbadosNatureV2: POI[] = [
       ro: ["Lungime: 800 m", "Temperatura apei: medie 27°C", "Număr mediu de vizitatori pe zi: 50", "Număr de baruri: 2", "Distanța de Speightstown: 1 km", "Înălțime maximă a valurilor: 0,5 m"],
       en: ["Length: 800 m", "Average water temperature: 27°C", "Average daily visitors: 50", "Number of bars: 2", "Distance from Speightstown: 1 km", "Maximum wave height: 0.5 m"],
     },
+    image: "/poi-images/barbados-gibbs-beach-nature-v2.webp",
   },
   {
     id: "barbados-shark-hole-nature-v2",
@@ -589,6 +607,7 @@ export const barbadosNatureV2: POI[] = [
       ro: ["Diametru: 20 m", "Adâncime: 10 m", "Salinitatea apei: 15-20 ppt", "Vârsta gropii: aprox. 10.000 ani", "Distanța de Oistins: 2 km", "Specii de pești documentate: 8"],
       en: ["Diameter: 20 m", "Depth: 10 m", "Water salinity: 15-20 ppt", "Age of hole: approx. 10,000 years", "Distance from Oistins: 2 km", "Documented fish species: 8"],
     },
+    image: "/poi-images/barbados-shark-hole-nature-v2.webp",
   },
   {
     id: "barbados-coles-cave-nature-v2",
@@ -620,5 +639,6 @@ export const barbadosNatureV2: POI[] = [
       ro: ["Lungime: 800 m", "Număr de camere: 6", "Înălțimea stalactitelor: până la 2 m", "Vârsta peșterii: aprox. 500.000 ani", "Populația de lilieci: estimată 500", "Temperatură constantă: 25°C"],
       en: ["Length: 800 m", "Number of chambers: 6", "Stalactite height: up to 2 m", "Age of cave: approx. 500,000 years", "Bat population: estimated 500", "Constant temperature: 25°C"],
     },
+    image: "/poi-images/barbados-coles-cave-nature-v2.webp",
   }
 ];

@@ -209,6 +209,7 @@ export const liechtensteinCulture: POI[] = [
       ro: ["Construcția nucleului castelului în secolul al XII-lea", "Reședința permanentă a familiei princiare din 1939", "Situat la aproximativ 120 de metri deasupra orașului Vaduz", "Turnul principal are ziduri cu o grosime de până la 4 metri", "Distrus parțial în Războiul Șvab din 1499", "Extins sub prințul Johann al II-lea între 1905 și 1912"],
       en: ["Construction of the core castle in the 12th century", "Permanent residence of the Princely Family since 1939", "Located approximately 120 meters above Vaduz", "The keep has walls up to 4 meters thick", "Partially destroyed during the Swabian War in 1499", "Expanded under Prince Johann II from 1905 to 1912"],
     },
+    image: "/poi-images/li-cult-vaduz-castle.webp",
   },
   {
     id: "li-cult-gutenberg-castle",
@@ -631,6 +632,7 @@ export const liechtensteinNature: POI[] = [
       ro: ["Cel mai înalt munte din Liechtenstein, cu 2599 m", "Face parte din grupul muntos Rätikon", "Situat pe granița dintre Liechtenstein și Elveția", "Compoziție geologică predominant din calcar", "Nu există trasee turistice marcate spre vârf", "Aparține grupului Schesaplana din Alpii Orientali"],
       en: ["Highest peak in Liechtenstein at 2,599 meters", "Part of the Rätikon mountain range", "Located on the border between Liechtenstein and Switzerland", "Geologically composed mainly of limestone", "No officially marked hiking trail to the summit", "Member of the Schesaplana group in the Eastern Alps"],
     },
+    image: "/poi-images/li-nat-grauspitz.webp",
   },
   {
     id: "li-nat-naafkopf",
@@ -916,6 +918,7 @@ export const liechtensteinNature: POI[] = [
       ro: ["Complexul a fost redeschis în forma sa actuală în anul 2011.", "Întreaga zonă de agrement ocupă o suprafață de circa 5000 mp.", "Lacul este utilizat și ca rezervor de apă pentru răcire industrială.", "Tratarea apei se realizează prin metode biologice, fără chimicale.", "Grossabunt este situat în comuna Gamprin din regiunea Unterland.", "Accesul în incinta complexului este gratuit pentru toți vizitatorii."],
       en: ["The facility was reopened in 2011 following a major redesign.", "The entire recreation area covers a surface of about 5000 square meters.", "The lake also serves as a cooling water reservoir for local industry.", "Water treatment is performed using natural biological processes.", "Grossabunt is located in the municipality of Gamprin.", "Admission to the leisure area is free of charge for all visitors."],
     },
+    image: "/poi-images/li-poi-gamprin-grossabunt.webp",
   }
 ];
 

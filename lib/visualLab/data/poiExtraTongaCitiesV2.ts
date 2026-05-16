@@ -31,6 +31,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Numele Nukuʻalofa se traduce prin 'reședința iubirii'.", "Palatul Regal din Tonga a fost construit aproape integral din lemn de kauri neozeelandez.", "Nukuʻalofa găzduiește aproximativ un sfert din populația totală a Tongăi.", "Orașul a fost declarat capitala oficială a regatului în anul 1845.", "Piața Talamahu este cel mai important centru comercial pentru alimente proaspete.", "Nukuʻalofa este situată la doar câțiva metri deasupra nivelului mediu al mării."],
       en: ["The name Nukuʻalofa translates to 'abode of love' in the local language.", "The Royal Palace of Tonga was built almost entirely from New Zealand kauri timber.", "Nukuʻalofa is home to about one-fourth of Tonga's total population.", "The town was declared the official capital of the kingdom in 1845.", "Talamahu Market is the primary commercial center for fresh produce.", "Nukuʻalofa is situated just a few meters above mean sea level."],
     },
+    image: "/poi-images/tonga-nukualofa-cities-v2.webp",
   },
   {
     id: "tonga-neiafu-cities-v2",
@@ -62,6 +63,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Port of Refuge a fost descoperit în 1781 de către exploratorul spaniol Mourelle.", "Neiafu este o escală populară pentru navigatorii care fac înconjurul lumii.", "În apele din jurul orașului Neiafu pot fi observate balene cu cocoașă din iulie până în octombrie.", "Orașul este situat pe insula principală a arhipelagului Vavaʻu.", "Neiafu posedă unul dintre puținele porturi de mare adâncime din regiune.", "Catedrala Sfântul Iosif este un reper marcant al profilului orașului Neiafu."],
       en: ["The Port of Refuge was discovered in 1781 by the Spanish explorer Mourelle.", "Neiafu is a popular stopover for circumnavigating sailors in the Pacific.", "Humpback whales can be observed in the waters around Neiafu from July to October.", "The town is located on the main island of the Vavaʻu archipelago.", "Neiafu has one of the few deep-water harbors in the entire region.", "St. Joseph's Catholic Church is a prominent landmark in the Neiafu skyline."],
     },
+    image: "/poi-images/tonga-neiafu-cities-v2.webp",
   },
   {
     id: "tonga-haveluloto-cities-v2",
@@ -93,6 +95,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Haveluloto se află la aproximativ 3 kilometri sud de centrul orașului Nukuʻalofa.", "Satul găzduiește Beulah College, o instituție de învățământ importantă.", "Este considerat inima industrială a insulei Tongatapu.", "Administrativ, localitatea face parte din districtul electoral Kolomotuʻa.", "Economia locală se bazează pe logistică, depozitare și industrie ușoară.", "Haveluloto este un loc de rezidență important pentru populația urbană în creștere."],
       en: ["Haveluloto is located approximately 3 kilometers south of Nukuʻalofa city center.", "The village is home to Beulah College, a significant educational institution.", "It is considered the industrial heart of Tongatapu island.", "Administratively, the locality is part of the Kolomotuʻa electoral district.", "The local economy relies heavily on logistics, warehousing, and light industry.", "Haveluloto is a key residential area for the growing urban population."],
     },
+    image: "/poi-images/tonga-haveluloto-cities-v2.webp",
   },
   {
     id: "tonga-vaini-cities-v2",
@@ -124,6 +127,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Vaini este casa Liahona High School, cea mai mare școală mormonă din Tonga.", "Satul este situat pe terenul aparținând nobilului Maʻafu.", "Este un centru important pentru cultivarea culturilor de export, precum dovleacul.", "Vaini se află strategic între Nukuʻalofa și aeroportul internațional.", "Populația satului este estimată la peste 3.000 de locuitori.", "Dansurile tradiționale și Lakalaka sunt păstrate cu sfințenie în comunitate."],
       en: ["Vaini is home to Liahona High School, the largest LDS school in Tonga.", "The village is situated on the estate of the noble Maʻafu.", "It is a key center for the cultivation of export crops like squash.", "Vaini is strategically located between Nukuʻalofa and the international airport.", "The population of the village is estimated to be over 3,000 residents.", "Traditional dances and Lakalaka are actively preserved in the community."],
     },
+    image: "/poi-images/tonga-vaini-cities-v2.webp",
   },
   {
     id: "tonga-tofoa-koloua-cities-v2",
@@ -155,6 +159,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Tofoa-Koloua găzduiește Spitalul Vaiola, cel mai important spital din Tonga.", "Localitatea este situată imediat la sud de districtul Kolomotuʻa.", "Are una dintre cele mai mari rate de creștere din zona metropolitană Nukuʻalofa.", "Aici se află sediul Ministerului Sănătății din Tonga.", "Zona este cunoscută pentru numeroasele sale biserici de diverse confesiuni.", "Tofoa-Koloua se află la o altitudine medie de aproximativ 5 metri peste nivelul mării."],
       en: ["Tofoa-Koloua is home to Vaiola Hospital, Tonga's primary hospital.", "The area is located immediately south of the Kolomotuʻa district.", "It has one of the highest growth rates in the Greater Nukuʻalofa area.", "The headquarters of the Tongan Ministry of Health are located here.", "The area is known for its numerous churches of various denominations.", "Tofoa-Koloua sits at an average elevation of about 5 meters above sea level."],
     },
+    image: "/poi-images/tonga-tofoa-koloua-cities-v2.webp",
   },
   {
     id: "tonga-tatakamotonga-cities-v2",
@@ -186,6 +191,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Tatakamotonga a fost sediul istoric al Tuʻi Haʻatakalaua.", "Satul este situat în districtul Muʻa, pe malul lagunei Fangaʻuta.", "Este un centru pentru dansul tradițional Lakalaka.", "Populația este stabilă la aproximativ 2.000 de persoane.", "Tatakamotonga se află aproape de mormintele regale antice din Lapaha.", "Tradițional, locul este strâns legat de titlul nobiliar Tungī."],
       en: ["Tatakamotonga was the historical seat of the Tuʻi Haʻatakalaua.", "The village is located in the Muʻa district by the Fangaʻuta Lagoon.", "It is a center for the traditional Lakalaka dance.", "The population is stable at around 2,000 people.", "Tatakamotonga is located near the ancient royal tombs of Lapaha.", "Traditionally, the place is closely linked to the noble title of Tungī."],
     },
+    image: "/poi-images/tonga-tatakamotonga-cities-v2.webp",
   },
   {
     id: "tonga-lapaha-cities-v2",
@@ -217,6 +223,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Lapaha a fost capitala Imperiului Tuʻi Tonga până în secolul al XIX-lea.", "Găzduiește 28 de monumente cunoscute sub numele de Langi (morminte regale).", "Unele blocuri de piatră ale mormintelor provin de pe alte insule.", "Localitatea este situată pe malul estic al lagunei Fangaʻuta.", "Lapaha este un centru important al Bisericii Catolice din Tonga.", "Descoperirile arheologice atestă o locuire continuă de peste 1.000 de ani."],
       en: ["Lapaha was the capital of the Tuʻi Tonga Empire until the 19th century.", "It is home to 28 known Langi (royal terraced tombs).", "Some of the stone blocks used in the tombs were brought from other islands.", "The village is located on the eastern shore of the Fangaʻuta Lagoon.", "Lapaha is a significant center for the Catholic Church in Tonga.", "Archaeological evidence proves continuous habitation for over 1,000 years."],
     },
+    image: "/poi-images/tonga-lapaha-cities-v2.webp",
   },
   {
     id: "tonga-pea-cities-v2",
@@ -248,6 +255,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Pea a fost locul ultimei mari bătălii pentru unificarea Tongăi în 1852.", "Satul se află la aproximativ 5 kilometri sud-vest de Nukuʻalofa.", "A găzduit cândva o fortăreață masivă (Kolo) cu șanțuri de apărare.", "Satul aparține domeniului tradițional al liniei nobiliare Lavaka.", "Populația localității Pea este de aproximativ 2.000 de persoane.", "Pea este cunoscut pentru participarea sa activă în competițiile naționale de rugby."],
       en: ["Pea was the site of the last major battle for Tonga's unification in 1852.", "The village is located about 5 kilometers southwest of Nukuʻalofa.", "It once housed a massive fortress (Kolo) with defensive trenches.", "The village belongs to the traditional domain of the Lavaka lineage.", "The population of Pea is approximately 2,000 people.", "Pea is known for its active participation in national rugby competitions."],
     },
+    image: "/poi-images/tonga-pea-cities-v2.webp",
   },
   {
     id: "tonga-haateiho-cities-v2",
@@ -279,6 +287,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Haʻateiho este sediul nobilului Tuʻi Haʻateiho.", "Satul este cunoscut pentru succesul său în dansul național Tauʻolunga.", "Se află în districtul electoral Tongatapu 4.", "Populația este de aproximativ 2.500 de persoane.", "Haʻateiho dispune de o școală primară modernă și un centru comunitar.", "Este un loc de rezidență important pentru membrii familiei regale."],
       en: ["Haʻateiho is the seat of the noble Tuʻi Haʻateiho.", "The village is known for its success in the national Tauʻolunga dance.", "It is located in the Tongatapu 4 electoral district.", "The population is approximately 2,500 people.", "Haʻateiho has a modern primary school and a community center.", "It is a key residential area for members of the royal family."],
     },
+    image: "/poi-images/tonga-haateiho-cities-v2.webp",
   },
   {
     id: "tonga-fuaamotu-cities-v2",
@@ -310,6 +319,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Fuaʻamotu găzduiește singurul aeroport internațional din Tonga.", "Satul se află la aproximativ 21 de kilometri de capitala Nukuʻalofa.", "Terenul este un 'Toʻafi' (moșie regală ereditară).", "Pista aeroportului a fost construită de SUA în timpul celui de-al Doilea Război Mondial.", "Este un centru important pentru exportul produselor agricole.", "Populația este de aproximativ 1.800 de persoane."],
       en: ["Fuaʻamotu is home to Tonga's only international airport.", "The village is located about 21 kilometers from the capital, Nukuʻalofa.", "The land is a 'Toʻafi' (royal hereditary estate).", "The airport runway was built by the USA during World War II.", "It is an important hub for the export of agricultural products.", "The population is approximately 1,800 people."],
     },
+    image: "/poi-images/tonga-fuaamotu-cities-v2.webp",
   },
   {
     id: "tonga-houma-tongatapu-cities-v2",
@@ -341,6 +351,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Mapu ʻa Vaea Blowholes se întind pe 5 kilometri de-a lungul coastei.", "Houma se află la aproximativ 12 kilometri sud-vest de Nukuʻalofa.", "Satul este sediul nobilului Lord Vaea.", "Numele 'Mapu ʻa Vaea' înseamnă 'Fluierul lui Vaea'.", "Este un loc important pentru fabricarea tapa (pânză din scoarță de copac).", "Blowholes sunt cel mai bine de observat în timpul valurilor puternice și al fluxului."],
       en: ["The Mapu ʻa Vaea Blowholes stretch for 5 kilometers along the coast.", "Houma is located about 12 kilometers southwest of Nukuʻalofa.", "The village is the seat of the noble Lord Vaea.", "The name 'Mapu ʻa Vaea' means 'Whistle of Vaea'.", "It is an important site for the production of tapa (bark cloth).", "The blowholes are best observed during strong swells and high tide."],
     },
+    image: "/poi-images/tonga-houma-tongatapu-cities-v2.webp",
   },
   {
     id: "tonga-nukunuku-cities-v2",
@@ -372,6 +383,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Nukunuku este sediul ancestral al liniei nobiliare Tuʻivakanō.", "Satul se află la aproximativ 10 kilometri vest de Nukuʻalofa.", "Este un centru important pentru cultivarea taro și a ignamelor.", "Comunitatea dispune de propriul centru de sănătate.", "Nukunuku aparține districtului electoral Tongatapu 5.", "Populația este de aproximativ 2.200 de persoane."],
       en: ["Nukunuku is the ancestral seat of the Tuʻivakanō noble lineage.", "The village is located about 10 kilometers west of Nukuʻalofa.", "It is a key center for the cultivation of taro and yams.", "The community has its own health center.", "Nukunuku is part of the Tongatapu 5 electoral district.", "The population is approximately 2,200 people."],
     },
+    image: "/poi-images/tonga-nukunuku-cities-v2.webp",
   },
   {
     id: "tonga-leimatua-cities-v2",
@@ -403,6 +415,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Leimatuʻa este cel mai populat sat din interiorul insulei Vavaʻu.", "Este un loc principal de producție pentru vanilie de înaltă calitate.", "Satul se află la aproximativ 8 kilometri nord de Neiafu.", "Leimatuʻa are propriul liceu pentru regiune.", "Localitatea este cunoscută pentru marile sale coruri bisericești.", "Populația este de aproximativ 2.500 de persoane."],
       en: ["Leimatuʻa is the most populous inland village on Vavaʻu.", "It is a primary production site for high-quality vanilla.", "The village is located about 8 kilometers north of Neiafu.", "Leimatuʻa has its own high school serving the region.", "The locality is known for its large church choirs.", "The population is approximately 2,500 people."],
     },
+    image: "/poi-images/tonga-leimatua-cities-v2.webp",
   },
   {
     id: "tonga-kolonga-cities-v2",
@@ -434,6 +447,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Kolonga este sediul nobilului Lord Nuku.", "Satul se află în punctul de nord-est al insulei Tongatapu.", "Peștera ʻAnahulu se află la doar câțiva kilometri distanță.", "Este un centru pentru cultivarea ignamelor utilizate în ceremoniile regale.", "Kolonga este cunoscut pentru plajele sale frumoase de pe coasta de nord.", "Populația este de aproximativ 1.200 de persoane."],
       en: ["Kolonga is the seat of the noble Lord Nuku.", "The village is located at the northeastern point of Tongatapu.", "The ʻAnahulu Cave is located just a few kilometers away.", "It is a center for cultivating yams used in royal ceremonies.", "Kolonga is known for its beautiful beaches on the northern coast.", "The population is approximately 1,200 people."],
     },
+    image: "/poi-images/tonga-kolonga-cities-v2.webp",
   },
   {
     id: "tonga-ohonua-cities-v2",
@@ -465,6 +479,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["ʻOhonua găzduiește singurul port de pe insula ʻEua.", "Este sediul administrației insulei și al guvernatorului de ʻEua.", "Călătoria cu feribotul către Nukuʻalofa durează aproximativ 2 până la 3 ore.", "Localitatea se află aproape de 'Rock's Lookout' cu vedere la ocean.", "ʻOhonua este cunoscut pentru producția sa de miere organică și cafea.", "Populația este de aproximativ 1.500 de persoane."],
       en: ["ʻOhonua is home to the only port on the island of ʻEua.", "It is the seat of the island administration and the Governor of ʻEua.", "The ferry to Nukuʻalofa takes approximately 2 to 3 hours.", "The town is located near 'Rock's Lookout' overlooking the ocean.", "ʻOhonua is known for its production of organic honey and coffee.", "The population is approximately 1,500 people."],
     },
+    image: "/poi-images/tonga-ohonua-cities-v2.webp",
   },
   {
     id: "tonga-pangai-haapai-cities-v2",
@@ -496,6 +511,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Pangai este centrul administrativ al districtului Haʻapai.", "Aici se află mormântul lui Shirley Waldemar Baker, un prim-ministru timpuriu.", "Orașul se află la aproximativ 160 de kilometri nord de Nukuʻalofa.", "Pangai dispune de un aerodrom care leagă Lifuka de Tongatapu.", "Locul a fost cel în care George Tupou I a fost proclamat rege în 1845.", "Populația este de aproximativ 1.600 de persoane."],
       en: ["Pangai is the administrative center of the Haʻapai district.", "It houses the grave of Shirley Waldemar Baker, an early Prime Minister.", "The town is located about 160 kilometers north of Nukuʻalofa.", "Pangai has an airfield connecting Lifuka with Tongatapu.", "The town was where George Tupou I was proclaimed king in 1845.", "The population is approximately 1,600 people."],
     },
+    image: "/poi-images/tonga-pangai-haapai-cities-v2.webp",
   },
   {
     id: "tonga-hihifo-haapai-cities-v2",
@@ -527,6 +543,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Hihifo înseamnă 'vest' în limba tongană.", "Satul se află imediat la sud de capitala Pangai.", "Găzduiește Spitalul Niuʻui, principalul spital din Haʻapai.", "Locuitorii din Hihifo sunt cunoscuți pentru covorașele lor fine țesute manual.", "Localitatea se află la doar aproximativ 3 kilometri de aeroportul Salote Pilolevu.", "Populația este de aproximativ 800 de locuitori."],
       en: ["Hihifo means 'west' in the Tongan language.", "The village is located immediately south of the capital, Pangai.", "It houses Niuʻui Hospital, the main hospital for the Haʻapai group.", "Residents of Hihifo are known for their fine hand-woven mats.", "The village is located just about 3 kilometers from Salote Pilolevu Airport.", "The population is approximately 800 residents."],
     },
+    image: "/poi-images/tonga-hihifo-haapai-cities-v2.webp",
   },
   {
     id: "tonga-veitongo-cities-v2",
@@ -558,6 +575,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Veitongo aparține administrativ de districtul Tu'ivakano de pe insula Tongatapu.", "Populația estimată a localității este de aproximativ 1.200 de locuitori.", "Satul este situat direct la sud de laguna Fanga'uta.", "Economia locală se bazează pe agricultură și pe naveta zilnică spre Nuku'alofa.", "Veitongo este sediul clubului de rugby de renume Lotoha'apai United.", "Confesiunile creștine, în special Biserica Liberă Wesleyană, joacă un rol central în viața socială."],
       en: ["Veitongo belongs administratively to the Tu'ivakano district on Tongatapu.", "The settlement has an estimated population of approximately 1,200 people.", "The village is situated directly south of the Fanga'uta Lagoon.", "The local economy is heavily based on agriculture and commuting to Nuku'alofa.", "Veitongo is the home of the well-known rugby club Lotoha'apai United.", "Christian denominations, particularly the Free Wesleyan Church, shape the community's social life."],
     },
+    image: "/poi-images/tonga-veitongo-cities-v2.webp",
   },
   {
     id: "tonga-holonga-tongatapu-cities-v2",
@@ -589,6 +607,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Holonga se află în districtul Lapaha, pe insula Tongatapu.", "Satul este situat la aproximativ 15 kilometri est de capitala Nuku'alofa.", "Agricultura, în special cultivarea maniocului, reprezintă principala sursă de venit.", "În sat există o școală primară care deservește copiii din așezările învecinate.", "Localitatea este cunoscută pentru implicarea în dansurile și ceremoniile tradiționale tongane.", "Numele 'Holonga' înseamnă, în limba tongană, 'rând' sau 'succesiune'."],
       en: ["Holonga is located in the Lapaha district on the island of Tongatapu.", "The village is situated approximately 15 kilometers east of the capital, Nuku'alofa.", "Agriculture, especially the cultivation of cassava, is the primary source of income.", "There is a primary school in the village that serves children from surrounding settlements.", "The village is known for its participation in traditional Tongan dances and ceremonies.", "The name 'Holonga' translates roughly to 'row' or 'sequence' in the Tongan language."],
     },
+    image: "/poi-images/tonga-holonga-tongatapu-cities-v2.webp",
   },
   {
     id: "tonga-malapo-cities-v2",
@@ -620,6 +639,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Malapo se află în districtul Vaini, pe insula principală Tongatapu.", "Satul reprezintă un punct de reper important la intersecția spre Fua'amotu.", "Populația localității Malapo este de aproximativ 600 de persoane.", "Satul este renumit pentru plantațiile sale productive de taro.", "Biserica Mormonă (LDS) are o comunitate semnificativă de adepți în sat.", "Distanța până la Aeroportul Internațional Fua'amotu este de doar aproximativ 10 kilometri."],
       en: ["Malapo is located in the Vaini district on the main island of Tongatapu.", "The village is a key landmark at the intersection leading to Fua'amotu.", "The population of Malapo is approximately 600 people.", "The village is known for its highly productive taro plantations.", "The Mormon Church (LDS) has a significant following within the community.", "The distance to Fua'amotu International Airport is only about 10 kilometers."],
     },
+    image: "/poi-images/tonga-malapo-cities-v2.webp",
   },
   {
     id: "tonga-pelehake-cities-v2",
@@ -651,6 +671,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Pelehake aparține administrativ de districtul Lapaha de pe insula Tongatapu.", "Titlul 'Tu'ipelehake' este unul dintre cele mai importante titluri nobiliare din Tonga.", "Satul este situat aproape de coasta de sud-est, la circa 20 km de Nuku'alofa.", "Populația localității Pelehake este de aproximativ 800 de locuitori.", "Tradițional, satul este un centru pentru riturile funerare regale.", "Economia locală este susținută de agricultura la scară mică și pescuit."],
       en: ["Pelehake belongs administratively to the Lapaha district on Tongatapu.", "The title 'Tu'ipelehake' is one of the most important noble titles in Tonga.", "The village is situated near the southeast coast, about 20 km from Nuku'alofa.", "The population of Pelehake is approximately 800 people.", "Traditionally, the village is a center for royal funeral rites.", "The local economy is driven by small-scale farming and fishing."],
     },
+    image: "/poi-images/tonga-pelehake-cities-v2.webp",
   },
   {
     id: "tonga-alaki-cities-v2",
@@ -682,6 +703,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Alaki aparține administrativ de districtul Lapaha de pe insula Tongatapu.", "Satul este situat direct pe un acces îngust către laguna Fanga'uta.", "Populația localității Alaki este de aproximativ 400 de locuitori.", "Meșteșugurile tradiționale, cum ar fi țesutul rogojinilor, sunt încă practicate aici.", "Satul se află la doar 2 kilometri de situl istoric Mu'a.", "Principalele surse de venit sunt agricultura de subzistență și pescuitul artizanal."],
       en: ["Alaki belongs administratively to the Lapaha district on Tongatapu.", "The village is situated directly on a narrow access point to the Fanga'uta Lagoon.", "The population of Alaki is approximately 400 people.", "Traditional crafts, such as mat weaving, are still practiced here.", "The village is located only about 2 kilometers from the historical site of Mu'a.", "The primary sources of income are subsistence farming and artisanal fishing."],
     },
+    image: "/poi-images/tonga-alaki-cities-v2.webp",
   },
   {
     id: "tonga-folaha-cities-v2",
@@ -713,6 +735,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Folaha aparține administrativ de districtul Vaini de pe insula Tongatapu.", "Satul este situat pe o peninsulă care înaintează adânc în laguna Fanga'uta.", "Populația localității Folaha este de aproximativ 1.000 de locuitori.", "Proiectele de conservare a mangrovelor sunt de mare importanță datorită locației satului.", "Satul dispune de propria școală primară și de mai multe clădiri bisericești.", "Pescuitul în lagună reprezintă baza tradițională de subzistență pentru majoritatea familiilor."],
       en: ["Folaha belongs administratively to the Vaini district on Tongatapu.", "The village is located on a peninsula that extends deep into the Fanga'uta Lagoon.", "The population of Folaha is approximately 1,000 people.", "Mangrove protection projects are of high importance due to the village's location.", "The village has its own primary school and several church buildings.", "Fishing within the lagoon is the traditional livelihood for most families."],
     },
+    image: "/poi-images/tonga-folaha-cities-v2.webp",
   },
   {
     id: "tonga-longoteme-cities-v2",
@@ -744,6 +767,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Longoteme se află în districtul Vaini, pe insula principală Tongatapu.", "Satul este situat la aproximativ 12 kilometri sud-est de capitala Nuku'alofa.", "Populația este formată din aproximativ 500 de locuitori.", "Agricultura reprezintă baza economică primară a populației din sat.", "Comunitatea este cunoscută pentru adunările sale tradiționale pentru consumul de kava.", "Longoteme este bine conectat cu restul insulei prin drumul Taufa'ahau."],
       en: ["Longoteme is located in the Vaini district on the main island of Tongatapu.", "The village is situated approximately 12 kilometers southeast of the capital, Nuku'alofa.", "The population consists of about 500 residents.", "Agriculture is the primary economic basis for the village's population.", "The community is known for its traditional kava gatherings.", "Longoteme is well-connected to the rest of the island via Taufa'ahau Road."],
     },
+    image: "/poi-images/tonga-longoteme-cities-v2.webp",
   },
   {
     id: "tonga-fatumu-cities-v2",
@@ -775,6 +799,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Fatumu aparține districtului Lapaha de pe insula Tongatapu.", "Satul este situat în imediata apropiere a Aeroportului Internațional Fua'amotu.", "Populația localității Fatumu este de aproximativ 500 de locuitori.", "Satul este cunoscut pentru cultivarea vaniliei de înaltă calitate pentru export.", "Plaja Fatumu este un loc popular pentru excursii locale și observarea naturii.", "Comunitatea menține relații strânse cu satele vecine Lavengatonga și Nakolo."],
       en: ["Fatumu belongs to the Lapaha district on the island of Tongatapu.", "The village is located in close proximity to Fua'amotu International Airport.", "The population of Fatumu is approximately 500 people.", "The village is known for cultivating high-quality vanilla for export.", "Fatumu Beach is a popular spot for local excursions and nature observation.", "The community maintains close ties with the neighboring villages of Lavengatonga and Nakolo."],
     },
+    image: "/poi-images/tonga-fatumu-cities-v2.webp",
   },
   {
     id: "tonga-lavengatonga-cities-v2",
@@ -806,6 +831,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Lavengatonga aparține districtului Lapaha de pe insula Tongatapu.", "Satul se află lângă peștera 'Anahulu, care adăpostește o piscină naturală cu apă dulce.", "Populația localității este de aproximativ 400 de persoane.", "Satul este cunoscut pentru locurile sale excelente de surfing de pe coasta de sud-est.", "Peștera 'Anahulu' este una dintre cele mai vizitate atracții naturale ale insulei.", "Satul este situat la circa 22 de kilometri de capitala Nuku'alofa."],
       en: ["Lavengatonga belongs to the Lapaha district on Tongatapu.", "The village is located near the 'Anahulu Cave, which features a natural freshwater pool.", "The population is approximately 400 people.", "The village is known for its world-class surfing spots on the southeast coast.", "The 'Anahulu Cave' is one of the most visited natural attractions on the island.", "The village is situated about 22 kilometers from the capital, Nuku'alofa."],
     },
+    image: "/poi-images/tonga-lavengatonga-cities-v2.webp",
   },
   {
     id: "tonga-haasini-cities-v2",
@@ -837,6 +863,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Ha'asini aparține administrativ de districtul Lapaha de pe insula Tongatapu.", "Satul are o populație de aproximativ 300 de locuitori.", "Ha'asini este strâns legat de satul vecin Hamula.", "Regiunea este cunoscută pentru cultivarea soiurilor fine de taro și ignama.", "Satul se află la numai 5 kilometri de Aeroportul Internațional Fua'amotu.", "Tradițional, satul se află sub protecția nobilului Tu'ipelehake."],
       en: ["Ha'asini belongs administratively to the Lapaha district on Tongatapu.", "The village has a population of approximately 300 residents.", "Ha'asini is closely linked with the neighboring village of Hamula.", "The region is known for producing high-quality taro and yams.", "The village is located only about 5 kilometers from Fua'amotu International Airport.", "Traditionally, the village falls under the protection of the Tu'ipelehake title."],
     },
+    image: "/poi-images/tonga-haasini-cities-v2.webp",
   },
   {
     id: "tonga-hamula-cities-v2",
@@ -868,6 +895,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Hamula aparține administrativ de districtul Lapaha de pe insula Tongatapu.", "Satul formează o unitate socială strâns legată cu localitatea Ha'asini.", "Populația localității Hamula este sub 300 de persoane.", "Tradițional, satul este cunoscut pentru calitatea înaltă a țesăturilor sale Tapa.", "Hamula se află pe drumul de legătură către aeroportul Fua'amotu.", "Locuitorii sunt în principal membri ai Bisericii Libere Wesleyane."],
       en: ["Hamula belongs administratively to the Lapaha district on Tongatapu.", "The village forms a closely linked social unit with Ha'asini.", "The population of Hamula is less than 300 people.", "Traditionally, the village is known for the high quality of its Tapa cloth.", "Hamula is located on the road connecting to Fua'amotu Airport.", "Residents are predominantly members of the Free Wesleyan Church."],
     },
+    image: "/poi-images/tonga-hamula-cities-v2.webp",
   },
   {
     id: "tonga-nakolo-cities-v2",
@@ -899,6 +927,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Nakolo aparține administrativ de districtul Lapaha de pe insula Tongatapu.", "Satul este situat la doar câțiva kilometri est de pistele aeroportului Fua'amotu.", "Populația localității Nakolo este de aproximativ 450 de locuitori.", "Economia locală se bazează în principal pe agricultura de subzistență.", "Nakolo este legat direct prin drumul principal de satele Fatumu și Lavengatonga.", "Satul dispune de o școală primară și diverse instituții bisericești."],
       en: ["Nakolo belongs administratively to the Lapaha district on Tongatapu.", "The village is situated just a few kilometers east of the Fua'amotu Airport runways.", "The population of Nakolo is approximately 450 people.", "The local economy is primarily based on subsistence farming.", "Nakolo is directly connected via the main road to the villages of Fatumu and Lavengatonga.", "The village features a primary school and various church institutions."],
     },
+    image: "/poi-images/tonga-nakolo-cities-v2.webp",
   },
   {
     id: "tonga-talafoou-cities-v2",
@@ -930,6 +959,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Talafo'ou aparține administrativ de districtul Lapaha de pe insula Tongatapu.", "Satul este situat imediat la nord de Navutoka, pe drumul de coastă.", "Populația localității este de aproximativ 400 de persoane.", "Talafo'ou este cunoscut pentru proiectele sale de succes de reîmpădurire a mangrovelor.", "Școala din sat, GPS Talafo'ou, se bucură de o reputație bună în regiune.", "Satul se află la circa 10 kilometri est de centrul orașului Nuku'alofa."],
       en: ["Talafo'ou belongs administratively to the Lapaha district on Tongatapu.", "The village is located directly north of Navutoka along the coastal road.", "The population is approximately 400 people.", "Talafo'ou is known for its successful mangrove reforestation projects.", "The village school, GPS Talafo'ou, holds a good reputation in the region.", "The village is situated about 10 kilometers east of Nuku'alofa's city center."],
     },
+    image: "/poi-images/tonga-talafoou-cities-v2.webp",
   },
   {
     id: "tonga-navutoka-cities-v2",
@@ -961,6 +991,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Navutoka aparține districtului Lapaha de pe insula Tongatapu.", "Satul se află între Talafo'ou și Manuka, pe coasta de nord-est.", "Populația localității Navutoka este de aproximativ 700 de locuitori.", "Pescuitul reprezintă cel mai important sector economic al satului.", "Satul este cunoscut pentru femeile sale meșteșugar iscusite.", "Navutoka dispune de propriul post de poliție și de o clinică medicală."],
       en: ["Navutoka belongs to the Lapaha district on the island of Tongatapu.", "The village is located between Talafo'ou and Manuka on the northeast coast.", "The population of Navutoka is approximately 700 people.", "Fishing is the most important economic sector of the village.", "The village is known for its talented handicraft artisans.", "Navutoka features its own police post and a medical clinic."],
     },
+    image: "/poi-images/tonga-navutoka-cities-v2.webp",
   },
   {
     id: "tonga-manuka-cities-v2",
@@ -992,6 +1023,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Manuka aparține administrativ de districtul Lapaha de pe insula Tongatapu.", "Satul este unul dintre cele mai mici de pe coasta de nord a insulei.", "Populația localității Manuka este de aproximativ 250 de locuitori.", "Agricultura reprezintă singura sursă de venit notabilă a locuitorilor.", "Satul se află la circa 15 kilometri nord-est de capitala Nuku'alofa.", "Manuka este cunoscut pentru vindecătorii săi tradiționali și cunoștințele lor despre plante medicinale."],
       en: ["Manuka belongs administratively to the Lapaha district on Tongatapu.", "The village is one of the smallest along the island's northern coast.", "The population of Manuka is approximately 250 people.", "Agriculture is the only significant source of income for the residents.", "The village is situated about 15 kilometers northeast of the capital, Nuku'alofa.", "Manuka is known for its traditional healers and their knowledge of medicinal plants."],
     },
+    image: "/poi-images/tonga-manuka-cities-v2.webp",
   },
   {
     id: "tonga-kolovai-cities-v2",
@@ -1023,6 +1055,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Adăpostește sute de vulpi zburătoare sacre", "Reședința istorică a liniei nobiliare Lakepa", "Situat în districtul vestic Hihifo", "La aproximativ 15 kilometri de capitală", "Vânătoarea liliecilor este strict interzisă", "Cunoscut pentru spectacolele de dans tradițional"],
       en: ["Home to hundreds of sacred flying foxes", "Historical seat of the Lakepa noble line", "Located in the western Hihifo district", "Approximately 15 kilometers from Nuku'alofa", "Strict prohibition on hunting local bats", "Famous for traditional Lakalaka performances"],
     },
+    image: "/poi-images/tonga-kolovai-cities-v2.webp",
   },
   {
     id: "tonga-haavakatolo-cities-v2",
@@ -1054,6 +1087,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Situat în partea de vest a insulei Tongatapu", "Vecin direct cu satul Kolovai", "Producție agricolă axată pe manioc", "Găzduiește mai multe biserici creștine", "Localizat aproape de locurile de surf din vest", "Face parte din regiunea istorică Hihifo"],
       en: ["Located in the western part of Tongatapu", "Direct neighbor to the village of Kolovai", "Agricultural production of cassava and coconut", "Features several Christian churches", "Situated near western coast surf spots", "Part of the historical Hihifo region"],
     },
+    image: "/poi-images/tonga-haavakatolo-cities-v2.webp",
   },
   {
     id: "tonga-foui-cities-v2",
@@ -1085,6 +1119,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Legătură cu titlul regal Tu'i Kanokupolu", "Situat pe peninsula îngustă Hihifo", "Centru pentru producția de copra", "Găzduiește o școală primară regională", "Agricultura tradițională ca ramură principală", "Loc important pentru adunări politice"],
       en: ["Connected to the royal Tu'i Kanokupolu title", "Located on the narrow Hihifo peninsula", "Center for the production of copra", "Hosts a regional primary school", "Traditional agriculture is the main industry", "Important site for historical political meetings"],
     },
+    image: "/poi-images/tonga-foui-cities-v2.webp",
   },
   {
     id: "tonga-teekiu-cities-v2",
@@ -1116,6 +1151,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Situat pe importantul drum principal Hihifo", "Centru al împletirii tradiționale de rogojini", "Focus agricol pe cultivarea bananelor", "Comunitate importantă a Bisericii Wesleyane", "Parte a istoriei așezărilor din vest", "Cunoscut pentru grădinile publice bine întreținute"],
       en: ["Located on the important Hihifo main road", "Center for traditional mat weaving", "Agricultural focus on banana cultivation", "Significant Wesleyan Church community", "Part of western settlement history", "Known for well-maintained public gardens"],
     },
+    image: "/poi-images/tonga-teekiu-cities-v2.webp",
   },
   {
     id: "tonga-masilamea-cities-v2",
@@ -1147,6 +1183,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Sat mic între Te'ekiu și Fo'ui", "Agricultură de subzistență primară", "Specializare în creșterea porcinelor locale", "Teren tipic plat de calcar coraligen", "Păstrarea modului de viață tradițional", "Parte a lanțului social din districtul Hihifo"],
       en: ["Small village between Te'ekiu and Fo'ui", "Primary agricultural subsistence economy", "Specialization in local pig farming", "Typical flat coral limestone terrain", "Preservation of traditional lifestyle", "Part of the social chain of Hihifo district"],
     },
+    image: "/poi-images/tonga-masilamea-cities-v2.webp",
   },
   {
     id: "tonga-fahefa-cities-v2",
@@ -1178,6 +1215,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Cunoscut pentru țesături de înaltă calitate", "Sol fertil pentru cultivare la scară largă", "Cooperare comunitară puternică", "Producător important de textile ceremoniale", "Legătură istorică cu căpeteniile locale", "Sistem de valori creștine tradiționale"],
       en: ["Known for high-quality weaving", "Fertile soil for large-scale cultivation", "Strong communal cooperation", "Important producer of ceremonial textiles", "Historical connection to local chiefs", "Traditional Christian value system"],
     },
+    image: "/poi-images/tonga-fahefa-cities-v2.webp",
   },
   {
     id: "tonga-kalaau-cities-v2",
@@ -1209,6 +1247,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Situat lângă celebra plajă Ha'atafu", "Specializare în pescuitul tradițional de recif", "Aproape de cel mai vestic punct din Tongatapu", "Punct strategic de apărare în istorie", "Formațiuni de coastă dramatice în apropiere", "Refugiu mic și liniștit pentru surferi"],
       en: ["Located near the famous Ha'atafu Beach", "Specialization in traditional reef fishing", "Near the westernmost point of Tongatapu", "Strategic defense point in history", "Dramatic coastal formations nearby", "Small, quiet retreat for surfers"],
     },
+    image: "/poi-images/tonga-kalaau-cities-v2.webp",
   },
   {
     id: "tonga-hautu-cities-v2",
@@ -1240,6 +1279,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Centru pentru cultivarea taro și igname", "Situat în interiorul peninsulei Hihifo", "Angajament puternic în conservarea culturii", "Exemplu de diviziune tradițională a terenurilor", "Atmosferă rezidențială rurală liniștită", "Comunitate bisericească strâns unită"],
       en: ["Center for taro and yam cultivation", "Located in the interior of the Hihifo peninsula", "Strong involvement in cultural preservation", "Example of traditional land division", "Quiet, rural residential atmosphere", "Closely networked church community"],
     },
+    image: "/poi-images/tonga-hautu-cities-v2.webp",
   },
   {
     id: "tonga-haalalo-cities-v2",
@@ -1271,6 +1311,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Producător important de pepeni verzi", "Nod de transport în sud-vest", "Centru pentru competiții sportive regionale", "Cultivarea kava pentru export", "Investiții în arhitectură rezistentă la cicloni", "Legătură istorică cu titlurile nobiliare locale"],
       en: ["Important producer of watermelons", "Transportation hub in the southwest", "Center for regional sports competitions", "Cultivation of kava for export", "Investments in cyclone-resistant architecture", "Historical connection to local noble titles"],
     },
+    image: "/poi-images/tonga-haalalo-cities-v2.webp",
   },
   {
     id: "tonga-utulau-cities-v2",
@@ -1302,6 +1343,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Faimos pentru stâncile de coastă spectaculoase", "Centru al producției locale de vanilie", "Cariere istorice de calcar pentru construcții", "Situat pe coasta de sud accidentată", "Atmosferă izolată și liniștită", "Grupuri de dans care păstrează miturile locale"],
       en: ["Famous for spectacular coastal cliffs", "Center of local vanilla production", "Historical limestone quarries for building", "Located on the rugged south coast", "Secluded and quiet atmosphere", "Traditional dance groups preserve local myths"],
     },
+    image: "/poi-images/tonga-utulau-cities-v2.webp",
   },
   {
     id: "tonga-tefisi-cities-v2",
@@ -1333,6 +1375,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Unul dintre cele mai mari sate din Vava'u", "Centru important pentru vanilie premium", "Situat pe un platou înalt și răcoros", "Rol cheie în istoria metodistă", "Dispune de un centru regional de sănătate", "Nivel ridicat de educație al populației"],
       en: ["One of the largest villages on Vava'u", "Important center for premium vanilla", "Located on a cool high plateau", "Key role in Methodist history", "Regional health center available", "High level of education among residents"],
     },
+    image: "/poi-images/tonga-tefisi-cities-v2.webp",
   },
   {
     id: "tonga-longomapu-cities-v2",
@@ -1364,6 +1407,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Considerat 'coșul de pâine' al Vava'u", "Vedere spectaculoasă asupra lacului Ano", "Producție de înaltă calitate de vanilie și kava", "Banchete tradiționale (umu) ca patrimoniu", "Situat pe o creastă panoramică", "Structură comunitară creștină puternică"],
       en: ["Regarded as the 'breadbasket' of Vava'u", "Spectacular view of Lake Ano", "High-quality vanilla and kava production", "Traditional feasts (umu) as cultural heritage", "Located on a panoramic ridge", "Strong Christian community structure"],
     },
+    image: "/poi-images/tonga-longomapu-cities-v2.webp",
   },
   {
     id: "tonga-tuanuku-cities-v2",
@@ -1395,6 +1439,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Locație unică pe malul lacului Ano", "Specializare în pescuitul de apă dulce", "Producător de tutun tradițional", "Poarta de acces către cel mai mare lac din Tonga", "Loc bogat în mituri cu izvoare sacre", "Dealuri fertile pentru cultivarea kava"],
       en: ["Unique location on the shores of Lake Ano", "Specialization in freshwater fishing", "Producer of traditional tobacco", "Gateway to Tonga's largest lake", "Myth-rich site with sacred springs", "Fertile hills for kava cultivation"],
     },
+    image: "/poi-images/tonga-tuanuku-cities-v2.webp",
   },
   {
     id: "tonga-taoa-cities-v2",
@@ -1426,6 +1471,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Centru pentru rogojini fine și țesături tapa", "Situat aproape de capitala Neiafu", "Furnizor important de taro și banane", "Respectarea strictă a protocoalelor tradiționale", "Peisaj deluros cu plantații de cocos", "Promovarea activă a educației tineretului"],
       en: ["Center for fine mats and tapa cloths", "Located near the capital Neiafu", "Important supplier of taro and bananas", "Strict adherence to traditional protocols", "Hilly landscape with coconut plantations", "Active promotion of local youth education"],
     },
+    image: "/poi-images/tonga-taoa-cities-v2.webp",
   },
   {
     id: "tonga-vaimalo-cities-v2",
@@ -1457,6 +1503,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Centru pentru construcția tradițională de bărci", "Situat într-un golf marin protejat", "Cunoscut pentru navigatori excelenți", "Port comercial istoric pentru insule mici", "Destinație populară pentru navigatori și ecoturiști", "Tradiție maritimă puternică în cântece"],
       en: ["Center for traditional boat building", "Located on a protected sea bay", "Known for excellent navigators", "Historical trading port for small islands", "Popular destination for sailors and ecotourists", "Strong seafaring tradition in local songs"],
     },
+    image: "/poi-images/tonga-vaimalo-cities-v2.webp",
   },
   {
     id: "tonga-haalaufuli-cities-v2",
@@ -1488,6 +1535,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Situat pe unul dintre cele mai înalte platouri din Vavaʻu.", "Centru important pentru producția de vanilie destinată exportului.", "Populația satului este de aproximativ 400 de persoane.", "Se află în apropierea faimoasei Grădini Botanice 'Ene'io.", "Găzduiește sedii importante ale Bisericii Wesleyane Libere.", "A servit istoric ca punct de observație pentru apărarea insulei."],
       en: ["Located on one of the highest plateaus in Vavaʻu.", "Major center for the cultivation of vanilla for export.", "Home to a population of approximately 400 residents.", "Proximity to the 'Ene'io Botanical Garden, Tonga's first.", "Key location for the Free Wesleyan Church of Tonga.", "Historically served as a strategic lookout point for the island."],
     },
+    image: "/poi-images/tonga-haalaufuli-cities-v2.webp",
   },
   {
     id: "tonga-feletoa-cities-v2",
@@ -1519,6 +1567,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Locația unei fortărețe istorice construite în anul 1808.", "A jucat un rol central în războaiele civile sub Finau ʻUlukalala II.", "Cunoscut pentru producția de țesături tapa de înaltă calitate.", "Situat în interiorul fertil al insulei principale Vavaʻu.", "Sit arheologic cu metereze de pământ încă vizibile.", "Comunitatea păstrează legături strânse cu nobilimea din Tonga."],
       en: ["Site of a historic fortification built in 1808.", "Played a central role in Tongan civil wars under Finau ʻUlukalala II.", "Known for the production of high-quality tapa cloth.", "Located in the fertile inland region of Vavaʻu island.", "Archaeological site featuring preserved earthwork fortifications.", "The community maintains strong ties to Tongan nobility."],
     },
+    image: "/poi-images/tonga-feletoa-cities-v2.webp",
   },
   {
     id: "tonga-koulo-cities-v2",
@@ -1550,6 +1599,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Situat chiar lângă Aeroportul Salote Pilolevu (HPA).", "Cea mai nordică așezare de pe insula Lifuka.", "Punct de tranzit crucial pentru turismul din Haʻapai.", "Pescuitul tradițional reprezintă principala sursă de subzistență.", "Cunoscut pentru recifele de corali vaste din largul coastei.", "Găzduiește o combinație de arhitectură tradițională și modernă."],
       en: ["Located directly adjacent to Salote Pilolevu Airport (HPA).", "The northernmost settlement on Lifuka Island.", "Crucial transit point for tourism in the Haʻapai group.", "Traditional fishing is the primary source of livelihood.", "Known for extensive coral reefs located just offshore.", "Features a mix of traditional fale and modern residential buildings."],
     },
+    image: "/poi-images/tonga-koulo-cities-v2.webp",
   },
   {
     id: "tonga-holopeka-cities-v2",
@@ -1581,6 +1631,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Situat pe drumul principal dintre Pangai și Koulo.", "Centru pentru țesutul tradițional de rogojini din pandanus.", "A jucat un rol istoric în misiunile creștine timpurii.", "Economie de subzistență bazată pe taro și igname.", "Găzduiește movile funerare antice ale căpeteniilor locale.", "Populația este recunoscută pentru spiritul comunitar puternic."],
       en: ["Located on the main road connecting Pangai and Koulo.", "A hub for traditional pandanus mat weaving.", "Played a historic role in early Christian missions in Haʻapai.", "Economy is based on subsistence farming of taro and yams.", "Contains ancient burial mounds of local chiefs.", "The residents are known for their strong communal values."],
     },
+    image: "/poi-images/tonga-holopeka-cities-v2.webp",
   },
   {
     id: "tonga-faleloa-cities-v2",
@@ -1612,6 +1663,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Cel mai nordic punct de pe insula Foa.", "Punctul terminus al drumului care vine dinspre Lifuka.", "Centru local important pentru producția de copră.", "Faimos pentru plajele sale cu nisip alb de corali.", "Punct de plecare pentru excursii către insule nelocuite.", "Găzduiește comunități tradiționale de pescari tongani."],
       en: ["The northernmost point on Foa Island.", "The terminus of the main road originating from Lifuka.", "A significant local hub for copra production.", "Famous for its pristine white coral sand beaches.", "Launch point for boat trips to uninhabited northern islands.", "Home to traditional Tongan fishing communities."],
     },
+    image: "/poi-images/tonga-faleloa-cities-v2.webp",
   },
   {
     id: "tonga-lotofoa-cities-v2",
@@ -1643,6 +1695,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Cea mai mare așezare de pe insula Foa.", "Găzduiește movile funerare antice de tip Langi.", "Centru pentru fabricarea rogojinilor ceremoniale.", "Dispune de o școală primară locală importantă.", "Economie dominată de cultivarea pe scară largă a taro.", "Punct de oprire major pe drumul principal din Haʻapai."],
       en: ["The largest settlement on Foa Island.", "Home to ancient Langi burial mounds for nobility.", "A center for the production of ceremonial mats.", "Features a significant local primary school.", "Economy is driven by large-scale taro cultivation.", "Key stop along the main road of the Haʻapai group."],
     },
+    image: "/poi-images/tonga-lotofoa-cities-v2.webp",
   },
   {
     id: "tonga-haano-cities-v2",
@@ -1674,6 +1727,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Principala așezare de pe insula izolată Haʻano.", "Reședință istorică a unor căpetenii locale importante.", "Accesibil doar cu barca de pe insula Lifuka.", "Centru pentru navigația tradițională polineziană.", "Biserica satului servește ca reper maritim crucial.", "Cunoscut pentru păstrarea obiceiurilor tongane puriste."],
       en: ["The main settlement on the remote island of Haʻano.", "Historic seat of prominent local Tongan chiefs.", "Accessible primarily by boat from Lifuka Island.", "A center for traditional Polynesian seafaring and navigation.", "The village church acts as a significant maritime landmark.", "Renowned for preserving authentic Tongan social customs."],
     },
+    image: "/poi-images/tonga-haano-cities-v2.webp",
   },
   {
     id: "tonga-fangaleounga-cities-v2",
@@ -1705,6 +1759,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Situat într-un golf protejat pe coasta de vest a insulei Foa.", "Numele se traduce prin „plaja de nisip a crabilor”.", "Loc important pentru colectarea fructelor de mare.", "Cunoscut pentru solurile fertile și agricultura diversificată.", "Cariere de calcar istorice se află în împrejurimi.", "Un centru pentru viața creștină comunitară."],
       en: ["Nestled in a sheltered bay on the western coast of Foa.", "The name translates to 'the sandy beach of crabs.'", "A key location for traditional shellfish gathering.", "Renowned for its fertile soil and diverse agriculture.", "Historic limestone quarries are located in the vicinity.", "A hub for communal Christian life and activities."],
     },
+    image: "/poi-images/tonga-fangaleounga-cities-v2.webp",
   },
   {
     id: "tonga-tufuvai-cities-v2",
@@ -1736,6 +1791,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Sat de coastă situat în vestul insulei ʻEua.", "Punct important de acces către Parcul Național ʻEua.", "Solurile vulcanice fertile favorizează cultivarea kava.", "Loc popular pentru observarea balenelor cu cocoașă.", "Parte geologică a celei mai vechi insule din regat.", "Cunoscut pentru apusurile spectaculoase peste Pacific."],
       en: ["A coastal village located on the western side of ʻEua.", "A key access point to the ʻEua National Park.", "Fertile volcanic soil supports extensive kava cultivation.", "Popular location for spotting migrating humpback whales.", "Geologically part of the oldest island in the kingdom.", "Renowned for spectacular sunsets over the Pacific Ocean."],
     },
+    image: "/poi-images/tonga-tufuvai-cities-v2.webp",
   },
   {
     id: "tonga-vaipoa-cities-v2",
@@ -1767,6 +1823,7 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Sat situat central pe insula Niuatoputapu.", "Cea mai importantă locație pentru cultivarea taro în interior.", "Centru pentru producția de copră de înaltă calitate.", "Găzduiește o comunitate izolată și foarte unită.", "Structurile sociale polineziene tradiționale sunt păstrate.", "Punct educațional important pentru copiii de pe insulă."],
       en: ["Centrally located village on Niuatoputapu Island.", "The most important site for inland taro cultivation.", "A hub for the production of high-quality copra.", "Home to a close-knit and isolated community.", "Maintains traditional Polynesian social structures.", "Key educational center for the island's children."],
     },
+    image: "/poi-images/tonga-vaipoa-cities-v2.webp",
   },
   {
     id: "tonga-falehau-cities-v2",
@@ -1798,5 +1855,6 @@ export const tongaCitiesV2: POI[] = [
       ro: ["Cel mai estic sat de pe insula Niuatoputapu.", "Cea mai importantă locație portuară pentru întreaga insulă.", "Centru logistic pentru navele de marfă și pasageri.", "Cunoscut pentru fabricarea rogojinilor fine de ceremonie.", "Principala sursă de venit este pescuitul artizanal.", "Servește ca punct de oprire pentru iahturile din Pacificul de Nord."],
       en: ["The easternmost village on Niuatoputapu Island.", "The primary port location for the entire island.", "Logistical hub for cargo and passenger maritime traffic.", "Famous for producing high-quality ceremonial fine mats.", "Primary income source is artisanal reef fishing.", "Serves as a vital stopover for trans-Pacific sailing yachts."],
     },
+    image: "/poi-images/tonga-falehau-cities-v2.webp",
   }
 ];

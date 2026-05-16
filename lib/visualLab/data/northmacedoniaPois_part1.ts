@@ -32,7 +32,8 @@ export const mkPoisPart1: POI[] = [
       hu: ["Híres a 'Sztrugai Költészeti Estek' eseményről.", "Itt folyik ki a Fekete-Drim az Ohridi-tóból.", "Az ókorban 'Enchalon' néven ismerték."],
       ro: ["Renumit pentru 'Serile de Poezie de la Struga'.", "Râul Drinul Negru izvorăște aici din Lacul Ohrid.", "În antichitate a fost numit 'Enchalon'."],
       en: ["Famous for the 'Struga Poetry Evenings'.", "The Black Drin river flows out of Lake Ohrid here.", "Known as 'Enchalon' in ancient times."]
-    }
+    },
+    image: "/poi-images/MK-001-struga-city.webp",
   },
   {
     id: "MK-001-black-drin",
@@ -63,7 +64,8 @@ export const mkPoisPart1: POI[] = [
       hu: ["Az Ohridi-tó fő lefolyása.", "Kristálytiszta vizéről ismert Sztrugánál.", "Fontos vízenergia-forrás."],
       ro: ["Principalul curs de apă care drenează Lacul Ohrid.", "Cunoscut pentru apele sale cristaline în Struga.", "Sursă importantă de energie hidroelectrică."],
       en: ["Main outlet of Lake Ohrid.", "Known for its crystal clear waters in Struga.", "Important source for hydroelectric power."]
-    }
+    },
+    image: "/poi-images/MK-001-black-drin.webp",
   },
   // MK-002: Centar župa
   {
@@ -95,7 +97,8 @@ export const mkPoisPart1: POI[] = [
       hu: ["Észak-Macedónia legnagyobb víztározója.", "A Špilje-gát megépítésével jött létre.", "Kiváló horgászati lehetőségeket kínál."],
       ro: ["Cel mai mare lac de acumulare din Macedonia de Nord.", "Creat prin construcția barajului Špilje.", "Oferă condiții excelente pentru pescuit."],
       en: ["Largest reservoir in North Macedonia.", "Created by the construction of the Špilje dam.", "Offers excellent conditions for fishing."]
-    }
+    },
+    image: "/poi-images/MK-002-debar-lake.webp",
   },
   {
     id: "MK-002-kodzadzik",
@@ -126,7 +129,8 @@ export const mkPoisPart1: POI[] = [
       hu: ["Ali Rıza Efendi szülőhelye.", "Atatürk családjának emlékháza található itt.", "Fontos helyszín a török turizmus számára."],
       ro: ["Satul natal al lui Ali Rıza Efendi.", "Există o casă memorială pentru familia Atatürk.", "Sit important pentru turismul turc."],
       en: ["Home village of Ali Rıza Efendi.", "Features a memorial house for the Atatürk family.", "Significant site for Turkish tourism."]
-    }
+    },
+    image: "/poi-images/MK-002-kodzadzik.webp",
   },
   // MK-003: Debar
   {
@@ -158,7 +162,8 @@ export const mkPoisPart1: POI[] = [
       hu: ["Gipsziparáról ismert.", "Történelmileg stratégiai helyen feküdt a Via Egnatia mentén.", "Híres a Banjishte gyógyfürdőről."],
       ro: ["Cunoscut pentru industria ghipsului.", "Istoric, a avut o poziție strategică pe Via Egnatia.", "Renumit pentru băile termale Banjishte."],
       en: ["Known for its gypsum industry.", "Historically had a strategic location on the Via Egnatia.", "Famous for the Banjishte thermal spa."]
-    }
+    },
+    image: "/poi-images/MK-003-debar-city.webp",
   },
   {
     id: "MK-003-st-george-monastery",
@@ -189,7 +194,8 @@ export const mkPoisPart1: POI[] = [
       hu: ["Szent György ereklyéit őrizik itt.", "A Bigorski-kolostor része.", "Püspöki süvegek (mitrák) készítéséről híres."],
       ro: ["Adăpostește moaștele Sfântului Gheorghe.", "Face parte din mănăstirea Bigorski.", "Cunoscută pentru fabricarea mitrelor pentru episcopi."],
       en: ["Houses relics of Saint George.", "Part of the Bigorski monastery complex.", "Known for making mitres for bishops."]
-    }
+    },
+    image: "/poi-images/MK-003-st-george-monastery.webp",
   },
   // MK-004: Mavrovo and Rostusa
   {
@@ -221,7 +227,8 @@ export const mkPoisPart1: POI[] = [
       hu: ["1020-ban alapították.", "Ikonosztáza a fafaragás mesterműve.", "A Radika-folyó völgyében található."],
       ro: ["Fondată în anul 1020.", "Iconostasul este o capodoperă a sculpturii în lemn.", "Situată în valea râului Radika."],
       en: ["Founded in the year 1020.", "The iconostasis is a masterpiece of woodcarving.", "Located in the Radika river valley."]
-    }
+    },
+    image: "/poi-images/MK-004-bigorski-monastery.webp",
   },
   {
     id: "MK-004-mavrovo-lake",
@@ -252,7 +259,8 @@ export const mkPoisPart1: POI[] = [
       hu: ["A félig elsüllyedt Szent Miklós-templom ismert fotótéma.", "A téli sportok és a túrázás központja.", "Az ország legnagyobb nemzeti parkjának része."],
       ro: ["Biserica Sfântul Nicolae, pe jumătate scufundată, este un motiv fotografic cunoscut.", "Centru pentru sporturi de iarnă și drumeții.", "Parte a celui mai mare parc național din țară."],
       en: ["The half-submerged St. Nicholas church is a famous photo spot.", "Center for winter sports and hiking.", "Part of the country's largest national park."]
-    }
+    },
+    image: "/poi-images/MK-004-mavrovo-lake.webp",
   },
   // MK-005: Gostivar
   {
@@ -284,7 +292,8 @@ export const mkPoisPart1: POI[] = [
       hu: ["Az óratorony (Saat Kula) a város jelképe.", "Fontos kereskedelmi csomópont.", "Híres a baklavájáról és hagyományos konyhájáról."],
       ro: ["Turnul cu ceas (Saat Kula) este un simbol al orașului.", "Important nod comercial.", "Cunoscut pentru baclava și bucătăria tradițională."],
       en: ["The clock tower (Saat Kula) is a landmark of the city.", "Important commercial hub.", "Known for its baklava and traditional cuisine."]
-    }
+    },
+    image: "/poi-images/MK-005-gostivar-city.webp",
   },
   {
     id: "MK-005-vrelo-vardar",
@@ -315,7 +324,8 @@ export const mkPoisPart1: POI[] = [
       hu: ["A Vardar Macedónia leghosszabb folyója.", "Vrutok a pisztrángtenyésztéséről ismert.", "Népszerű kirándulóhely a természetkedvelőknek."],
       ro: ["Vardar este cel mai lung râu din Macedonia.", "Vrutok este cunoscut pentru păstrăvăriile sale.", "Destinație populară pentru iubitorii de natură."],
       en: ["The Vardar is the longest river in Macedonia.", "Vrutok is known for its trout farms.", "Popular excursion site for nature lovers."]
-    }
+    },
+    image: "/poi-images/MK-005-vrelo-vardar.webp",
   },
   // MK-006: Vevčani
   {
@@ -347,7 +357,8 @@ export const mkPoisPart1: POI[] = [
       hu: ["A 'Vevčani Köztársaságról' (szimbolikus függetlenség) ismert.", "Híres éves karnevál helyszíne.", "A víz rendkívül tiszta és iható."],
       ro: ["Cunoscut pentru 'Republica Vevčani' (independență simbolică).", "Locul unui faimos carnaval anual.", "Apa este extrem de curată și potabilă."],
       en: ["Known for the 'Vevčani Republic' (symbolic independence).", "Site of a famous annual carnival.", "The water is extremely clean and drinkable."]
-    }
+    },
+    image: "/poi-images/MK-006-vevcani-springs.webp",
   },
   {
     id: "MK-006-vevcani-village",
@@ -378,7 +389,8 @@ export const mkPoisPart1: POI[] = [
       hu: ["Saját 'útlevéllel' és pénznemmel rendelkezik szuvenírként.", "Híres kőépítészetéről.", "Sok képzett kőfaragó hazája."],
       ro: ["Are propriul 'pașaport' și monedă ca suvenir.", "Renumit pentru arhitectura sa în piatră.", "Patria multor pietrari calificați."],
       en: ["Has its own 'passport' and currency as souvenirs.", "Famous for its stone architecture.", "Home to many skilled stonemasons."]
-    }
+    },
+    image: "/poi-images/MK-006-vevcani-village.webp",
   },
   // MK-007: Ohrid
   {
@@ -410,7 +422,8 @@ export const mkPoisPart1: POI[] = [
       hu: ["A 'Balkán Jeruzsálemeként' emlegetik.", "365 történelmi templomáról ismert.", "Antik színháznak ad otthont."],
       ro: ["Considerat 'Ierusalimul Balcanilor'.", "Cunoscut pentru cele 365 de biserici istorice.", "Găzduiește un teatru antic."],
       en: ["Known as the 'Jerusalem of the Balkans'.", "Famous for once having 365 churches.", "Home to an ancient theater."]
-    }
+    },
+    image: "/poi-images/MK-007-ohrid-old-town.webp",
   },
   {
     id: "MK-007-st-klement-panteleimon",
@@ -441,7 +454,8 @@ export const mkPoisPart1: POI[] = [
       hu: ["Ohridi Szent Kelemen otthona.", "A cirill írásbeliség fontos központja.", "Az újjáépített Szent Panteleimon-templom."],
       ro: ["Patria Sfântului Clement din Ohrid.", "Important centru al scrierii chirilice.", "Biserica Sfântul Panteleimon recent reconstruită."],
       en: ["Home of Saint Clement of Ohrid.", "Important center for Cyrillic literacy.", "Features the rebuilt church of St. Panteleimon."]
-    }
+    },
+    image: "/poi-images/MK-007-st-klement-panteleimon.webp",
   },
   // MK-008: Debarca
   {
@@ -473,7 +487,8 @@ export const mkPoisPart1: POI[] = [
       hu: ["Számos ritka madárfaj otthona.", "Fontos ökoszisztéma Debarca régiójában.", "Sini Virovi (Kék-tavak) néven is ismert."],
       ro: ["Patria multor specii rare de păsări.", "Ecosistem important în regiunea Debarca.", "Cunoscut sub numele de 'Sini Virovi' (Bălțile Albastre)."],
       en: ["Home to many rare bird species.", "Crucial ecosystem in the Debarca region.", "Known locally as 'Sini Virovi' (Blue Ponds)."]
-    }
+    },
+    image: "/poi-images/MK-008-belcista-wetland.webp",
   },
   {
     id: "MK-008-zleski-monastery",
@@ -504,7 +519,8 @@ export const mkPoisPart1: POI[] = [
       hu: ["Szent Miklósnak szentelve.", "Fontos régészeti ásatási terület.", "Festői vidéki környezetben fekszik."],
       ro: ["Dedicată Sfântului Nicolae.", "Important sit de săpături arheologice.", "Situată într-un cadru rural pitoresc."],
       en: ["Dedicated to Saint Nicholas.", "Significant archaeological excavation site.", "Located in a scenic rural setting."]
-    }
+    },
+    image: "/poi-images/MK-008-zleski-monastery.webp",
   },
   // MK-009: Resen
   {
@@ -536,7 +552,8 @@ export const mkPoisPart1: POI[] = [
       hu: ["Ahmed Niyazi Bey építtette a 20. század elején.", "Ma kerámiagaléria és múzeum működik benne.", "A régió egyik legpompásabb épülete."],
       ro: ["Construit de Ahmed Niyazi Bey la începutul secolului al XX-lea.", "Găzduiește astăzi o galerie de ceramică și un muzeu.", "Una dintre cele mai somptuoase clădiri din regiune."],
       en: ["Built by Ahmed Niyazi Bey in the early 20th century.", "Now houses a ceramics gallery and a museum.", "One of the most magnificent buildings in the region."]
-    }
+    },
+    image: "/poi-images/MK-009-saraj-resen.webp",
   },
   {
     id: "MK-009-golem-grad",
@@ -567,7 +584,8 @@ export const mkPoisPart1: POI[] = [
       hu: ["A Prespai-tóban található.", "Gazdag növény- és állatvilágáról ismert.", "Antik és középkori templomromokat őriz."],
       ro: ["Situată în Lacul Prespa.", "Cunoscută pentru flora și fauna sa bogată.", "Adăpostește ruine ale unor biserici antice și medievale."],
       en: ["Located in Lake Prespa.", "Known for its rich flora and fauna.", "Houses ruins of ancient and medieval churches."]
-    }
+    },
+    image: "/poi-images/MK-009-golem-grad.webp",
   },
   // MK-010: Novo Selo
   {
@@ -599,7 +617,8 @@ export const mkPoisPart1: POI[] = [
       hu: ["19 méteres magasságával az egyik legmagasabb az országban.", "A Baba-folyó hozza létre.", "Népszerű kirándulóhely."],
       ro: ["Cu 19 metri, este una dintre cele mai înalte din țară.", "Formată de râul Baba.", "O destinație populară pentru picnic."],
       en: ["At 19 meters, one of the highest in the country.", "Created by the Baba river.", "A popular picnic destination."]
-    }
+    },
+    image: "/poi-images/MK-010-kolesino-waterfall.webp",
   },
   {
     id: "MK-010-smolare-waterfall",
@@ -630,7 +649,8 @@ export const mkPoisPart1: POI[] = [
       hu: ["Mélyen a Belasica-hegységben található.", "Fa lépcsősoron keresztül érhető el.", "Egész évben van benne víz."],
       ro: ["Situată adânc în Munții Belasica.", "Accesibilă printr-un sistem de scări din lemn.", "Are un debit constant pe tot parcursul anului."],
       en: ["Located deep in the Belasica mountain range.", "Accessible via a wooden stairway.", "Flows throughout the entire year."]
-    }
+    },
+    image: "/poi-images/MK-010-smolare-waterfall.webp",
   }
 ];
 

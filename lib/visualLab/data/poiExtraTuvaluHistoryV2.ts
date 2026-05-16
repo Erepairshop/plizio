@@ -31,6 +31,7 @@ export const tuvaluHistoryV2: POI[] = [
       ro: ["Peșterile au fost descoperite în 1986 de scafandri locali", "Intrările în peșteri se află la o adâncime de circa 40 de metri", "Urmele de foc au fost datate între 6000 și 8000 de ani vechime", "Situează prezența umană înainte de creșterea nivelului mării post-glaciar", "Tavanul peșterii prezintă depuneri de carbon pe corali", "Cercetările subacvatice au fost realizate de echipe internaționale"],
       en: ["Discovery made in 1986 by divers exploring the coastal reef", "Cave entrances are located 40 meters below the ocean surface", "Charcoal remains dated between 6,000 and 8,000 years old", "Provides evidence of habitation during lower sea level periods", "Blackened coral indicates use of fire for warmth or light", "Key site for understanding early Austronesian migration patterns"],
     },
+    image: "/poi-images/tuvalu-nanumanga-caves-history-v2.webp",
   },
   {
     id: "tuvalu-davids-drill-history-v2",
@@ -62,6 +63,7 @@ export const tuvaluHistoryV2: POI[] = [
       ro: ["Forajele au avut loc în perioada 1896-1898", "Adâncimea maximă atinsă a fost de 340 de metri", "Expediția a fost condusă de profesorul Edgeworth David", "Proiectul a fost finanțat de Royal Society din Londra", "Rezultatele au confirmat teoria lui Darwin din 1842", "Probele sunt conservate la Muzeul Australian din Sydney"],
       en: ["Drilling operations spanned from 1896 to 1898", "Reached a final record depth of 340 meters (1,114 feet)", "Led by Professor Edgeworth David of the University of Sydney", "Funded by the Royal Society of London's Coral Reef Committee", "Successfully supported Charles Darwin's subsidence theory", "The site is a protected cultural monument in Tuvalu's capital"],
     },
+    image: "/poi-images/tuvalu-davids-drill-history-v2.webp",
   },
   {
     id: "tuvalu-nanumea-airfield-history-v2",
@@ -93,6 +95,7 @@ export const tuvaluHistoryV2: POI[] = [
       ro: ["Construcția pistei a început în august 1943", "Realizat de Batalionul 16 de Construcții Navale al SUA", "Lungimea inițială a pistei a fost de aproximativ 2100 metri", "A găzduit Grupul 11 de Bombardament (bombardiere grele)", "Circa 200.000 de cocotieri au fost defrișați pentru proiect", "Bază principală pentru misiunile aeriene asupra Tarawa"],
       en: ["Construction of the airfield commenced in August 1943", "Built by the 16th US Naval Construction Battalion (Seabees)", "The primary coral runway measured roughly 7,000 feet in length", "Deployed B-24 Liberators from the 11th Bombardment Group", "Approximately 200,000 coconut trees were removed during clearing", "Served as a launch point for air raids during the Gilbert Islands campaign"],
     },
+    image: "/poi-images/tuvalu-nanumea-airfield-history-v2.webp",
   },
   {
     id: "tuvalu-nukufetau-airfield-history-v2",
@@ -124,6 +127,7 @@ export const tuvaluHistoryV2: POI[] = [
       ro: ["Construit de Batalioanele 16 și 73 de Construcții Navale ale SUA", "Aerodromul a devenit operațional în septembrie 1943", "Pista principală avea o lungime de aproximativ 2000 de metri", "A găzduit escadrile de B-24 Liberator și PV-1 Ventura", "Motulalo a fost singura insulă din atol cu prezență militară", "A servit ca punct de realimentare pentru zborurile trans-Pacific"],
       en: ["Constructed by the 16th and 73rd US Naval Construction Battalions", "The airfield became operational in September 1943", "Featured a primary runway approximately 6,600 feet long", "Hosted B-24 Liberator bombers and PV-1 Ventura patrol planes", "Motulalo was the specific islet used for the entire base", "Decommissioned shortly after the war ended in 1945"],
     },
+    image: "/poi-images/tuvalu-nukufetau-airfield-history-v2.webp",
   },
   {
     id: "tuvalu-motufoua-school-history-v2",
@@ -155,6 +159,7 @@ export const tuvaluHistoryV2: POI[] = [
       ro: ["Fondată de Rev. A.W. Powell în anul 1905", "S-a mutat pe actualul amplasament în anul 1906", "Preluată oficial de guvern la 1 ianuarie 1975", "Singura școală secundară de stat cu regim de internat", "Reconstrucție majoră după incendiul devastator din anul 2000", "Capacitatea școlii este de aproximativ 500 de elevi"],
       en: ["Established by Reverend A.W. Powell in 1905", "Moved to its permanent Vaitupu site in 1906", "Transferred to government control on January 1, 1975", "The only government boarding school for secondary education", "Significant campus redevelopment took place after the year 2000", "Educates approximately 500 students from across the archipelago"],
     },
+    image: "/poi-images/tuvalu-motufoua-school-history-v2.webp",
   },
   {
     id: "tuvalu-funafuti-war-memorial-history-v2",
@@ -186,6 +191,7 @@ export const tuvaluHistoryV2: POI[] = [
       ro: ["Amplasat chiar lângă drumul principal din Vaiaku", "Comemorează primul raid aerian japonez din martie 1943", "Onorează pușcașii marini din Batalionul 5 de Apărare al SUA", "Monumentul a fost ridicat după declararea independenței", "Include numele localnicilor care au servit în unitățile auxiliare", "Punct central pentru ceremoniile din 23 aprilie"],
       en: ["Situated adjacent to the main road in Vaiaku village", "Commemorates the first Japanese air raid in March 1943", "Honors the US Marines of the 5th Defense Battalion", "The current memorial was established post-independence", "Lists names of Tuvaluans who served in civilian labor corps", "Serves as the focal point for Anzac Day and local remembrances"],
     },
+    image: "/poi-images/tuvalu-funafuti-war-memorial-history-v2.webp",
   },
   {
     id: "tuvalu-tepuka-bunker-history-v2",
@@ -217,6 +223,7 @@ export const tuvaluHistoryV2: POI[] = [
       ro: ["Anul construcției buncărului este 1943", "Materialul utilizat este beton armat cu oțel", "A servit ca stație radio și de criptare pentru US Navy", "Situat în partea de nord-vest a atolului Funafuti", "Buncărul este una dintre cele mai bine conservate relicve de război", "Accesibil doar cu barca din capitala Vaiaku"],
       en: ["Constructed in 1943 by US Naval construction units", "Built primarily from steel-reinforced concrete", "Functioned as a radio and encryption outpost for the US Navy", "Located on the northwestern rim of Funafuti Atoll", "One of the few structural military remains in the archipelago", "Accessible exclusively by boat from the main island of Fongafale"],
     },
+    image: "/poi-images/tuvalu-tepuka-bunker-history-v2.webp",
   },
   {
     id: "tuvalu-fongafale-hospital-history-v2",
@@ -248,6 +255,7 @@ export const tuvaluHistoryV2: POI[] = [
       ro: ["Înființat ca Spitalul de Bază al Marinei SUA Nr. 4 în 1943", "Tratarea a mii de soldați în timpul campaniei din Insulele Gilbert", "Peste 200 de cadre medicale au activat în acest sit", "Situat în zona rezidențială actuală a insulei Fongafale", "Clădirile erau parțial îngropate pentru protecție împotriva bombelor", "După 1945, ruinele au servit ca sursă de materiale de construcție"],
       en: ["Established as US Navy Base Hospital No. 4 in early 1943", "Treated thousands of Allied casualties during the Gilbert campaign", "Staffed by over 200 medical personnel at its peak", "Located within the modern residential district of Fongafale", "Structures were often semi-subterranean for blast protection", "Decommissioned in late 1944 as the front lines moved north"],
     },
+    image: "/poi-images/tuvalu-fongafale-hospital-history-v2.webp",
   },
   {
     id: "tuvalu-nukulaelae-altar-history-v2",
@@ -279,6 +287,7 @@ export const tuvaluHistoryV2: POI[] = [
       ro: ["Datarea structurii înainte de anul 1860", "Utilizarea unor plăci masive de piatră de coral (Faleatua)", "Situat pe insula Nukulaelae, primul atol creștinat", "Legat de credința tradițională în spiritele strămoșilor", "Plăcile cântăresc în medie câteva sute de kilograme fiecare", "Singura structură de acest tip păstrată la această scară"],
       en: ["Dated to the period prior to missionary contact in 1861", "Constructed using massive upright coral slabs (Faleatua style)", "Located on Nukulaelae, the site of the first Christian mission", "Served as a place of worship for ancestral and nature spirits", "Individual stones weigh several hundred kilograms", "Remains a key physical evidence of pre-colonial religious life"],
     },
+    image: "/poi-images/tuvalu-nukulaelae-altar-history-v2.webp",
   },
   {
     id: "tuvalu-vaitupu-colonial-building-history-v2",
@@ -310,6 +319,7 @@ export const tuvaluHistoryV2: POI[] = [
       ro: ["Construită în timpul administrației coloniale britanice (cca. 1910-1920)", "Utilizarea lemnului importat și a acoperișurilor din tablă ondulată", "Sediul oficialului districtual britanic pentru Insulele Ellice", "Situată în satul principal din Vaitupu (Asau)", "Una dintre puținele clădiri din piatră conservate din epoca colonială", "Clădirea a servit temporar și ca stație de telegraf"],
       en: ["Established during the British Protectorate era (circa 1910-1920)", "Constructed using imported hardwoods and corrugated iron roofing", "Served as the headquarters for the District Officer of the Ellice Islands", "Located in the village of Asau on the island of Vaitupu", "Represents some of the oldest surviving colonial architecture in Tuvalu", "Currently used as an office for the local kaupule (council)"],
     },
+    image: "/poi-images/tuvalu-vaitupu-colonial-building-history-v2.webp",
   },
   {
     id: "tuvalu-nanumea-church-history-v2",
@@ -341,6 +351,7 @@ export const tuvaluHistoryV2: POI[] = [
       ro: ["Reconstrucția bisericii a fost finalizată la sfârșitul anilor 1940", "Biserica aparține de Ekalesia Kelisiano Tuvalu (EKT)", "Utilizarea blocurilor de coral din carierele locale", "Turnul bisericii este unul dintre cele mai înalte puncte de pe atol", "Găzduiește anual o competiție tradițională de coruri", "Servește ca adăpost crucial pentru populație în timpul cicloanelor"],
       en: ["Reconstruction of the church was completed in the late 1940s", "Affiliated with the Ekalesia Kelisiano Tuvalu (EKT) denomination", "Built using hand-cut coral blocks sourced from local reefs", "The church steeple is the tallest man-made structure on the atoll", "Hosts the famous 'Fatele' celebrations and coral choir events", "Functions as a designated community shelter during severe storms"],
     },
+    image: "/poi-images/tuvalu-nanumea-church-history-v2.webp",
   },
   {
     id: "tuvalu-amatuku-school-history-v2",
@@ -372,6 +383,7 @@ export const tuvaluHistoryV2: POI[] = [
       ro: ["Fondarea TMTI a avut loc în anul 1978", "Finanțat prin sprijin de la Australia și Noua Zeelandă", "Acreditat conform convenției internaționale STCW", "Amatuku este o insulă separată în nord-estul atolului Funafuti", "Anual, între 60 și 100 de cadeți absolvă cursurile", "Facilitatea dispune de un sistem propriu de antrenament cu bărci de salvare"],
       en: ["Established as the Tuvalu Maritime Training Institute in 1978", "Funded significantly by Australian and New Zealand aid programs", "Certified under the International Convention on Standards of Training (STCW)", "The campus occupies the entire small islet of Amatuku", "Produces roughly 60 to 100 qualified mariners annually", "Vital source of foreign exchange for the Tuvaluan economy"],
     },
+    image: "/poi-images/tuvalu-amatuku-school-history-v2.webp",
   },
   {
     id: "tuvalu-nui-maneapa-history-v2",
@@ -403,6 +415,7 @@ export const tuvaluHistoryV2: POI[] = [
       ro: ["Stilul arhitectural reflectă influențe din cultura Insulelor Gilbert", "Acoperișul este refăcut tradițional la fiecare 10-15 ani", "Nu se folosesc cuie în construcția tradițională a structurii", "Ordinea așezării este determinată de apartenența la clan (Boti)", "Utilizată ca adăpost de urgență în caz de vreme extremă", "Centrul administrativ al consiliului local (Kaupule)"],
       en: ["Architectural design displays significant I-Kiribati cultural influences", "Roof is traditionally re-thatched every 10 to 15 years", "The skeleton of the building uses coconut fiber lashings instead of nails", "Seating is strictly organized by hereditary clan divisions known as Boti", "Serves as the primary assembly point for the island's elders", "Maintains the highest level of traditional law and social protocol"],
     },
+    image: "/poi-images/tuvalu-nui-maneapa-history-v2.webp",
   },
   {
     id: "tuvalu-funafuti-wrecks-history-v2",
@@ -434,6 +447,7 @@ export const tuvaluHistoryV2: POI[] = [
       ro: ["Mai multe epave de bombardiere B-24 Liberator în lagună", "Unele rămășițe se află la adâncimi de doar 2 până la 10 metri", "Vizibilitatea este optimă în perioada mai-octombrie", "Epavele au servit parțial ca sursă de metal după război", "Creșterea coralilor include specii de corali duri și moi", "Multe epave sunt localizate în apropierea satului Fongafale"],
       en: ["Includes several wreckage sites of B-24 Liberator heavy bombers", "Many remains are resting at depths of only 2 to 10 meters", "Best diving visibility occurs between May and October each year", "Relics have become integrated into the local marine biodiversity", "Some landing craft are visible from the surface at low tide", "Sites are protected under Tuvalu's historical preservation guidelines"],
     },
+    image: "/poi-images/tuvalu-funafuti-wrecks-history-v2.webp",
   },
   {
     id: "tuvalu-national-archives-history-v2",
@@ -465,5 +479,6 @@ export const tuvaluHistoryV2: POI[] = [
       ro: ["Fondat la 1 octombrie 1978, odată cu independența", "Găzduiește peste 100 de ani de istorie administrativă", "Situat în clădirea Bibliotecii Naționale din Vaiaku", "Proiectul de digitalizare este sprijinit de Australia", "Conține documentul original al independenței din 1978", "Fondul include înregistrări rare ale dansurilor tradiționale"],
       en: ["Inaugurated on October 1, 1978, the day of independence", "Preserves over a century of administrative and social records", "Integrated within the National Library building in Vaiaku", "Currently undergoing massive digitization via the Endangered Archives Programme", "Holds the master copies of the Tuvalu Independence Order 1978", "Primary source for land tenure and genealogical research"],
     },
+    image: "/poi-images/tuvalu-national-archives-history-v2.webp",
   }
 ];

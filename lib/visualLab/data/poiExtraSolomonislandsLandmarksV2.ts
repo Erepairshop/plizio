@@ -31,6 +31,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Clădirea a fost inaugurată în anul 1993, fiind o donație a poporului american.", "Arhitectura a fost concepută pentru a reflecta 'Spiritul Pacificului'.", "Parlamentul este unicameral și are o legislatură de 4 ani.", "Acoperișul este construit din panouri speciale care imită paiele tradiționale.", "Se află pe un deal numit Vavaya Ridge, oferind o briză naturală constantă.", "Multe dintre sculpturile interioare sunt realizate din lemn de 'Kauri'."],
       en: ["The building was formally opened in August 1993.", "It was designed by B&P Architects, based in Australia.", "The project was funded by a $5 million grant from the U.S. government.", "The chamber's ceiling is decorated with stars representing the country's provinces.", "The conical shape is a direct reference to the traditional 'spirit houses'.", "It is the venue for the swearing-in ceremonies of the Governor-General."],
     },
+    image: "/poi-images/solomonislands-parliament-building-landmarks-v2.webp",
   },
   {
     id: "solomonislands-national-museum-landmarks-v2",
@@ -62,6 +63,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Muzeul este una dintre cele mai vechi structuri publice din Honiara postbelică.", "Locația sa centrală îl face punctul de plecare pentru majoritatea tururilor de oraș.", "Fiecare pavilion găzduiește obiecte unice din provincii diferite.", "Canoele expuse sunt funcționale și reflectă măiestria maritimă locală.", "Muzeul este administrat de Ministerul Culturii și Turismului.", "Grădina Botanică a muzeului include specii de orhidee endemice."],
       en: ["The museum is the oldest state-run cultural institution in the country.", "It is situated in the main commercial and hotel district of Honiara.", "The pavilions showcase unique architectural features from the nine provinces.", "Traditional 'war canoes' are among the most photographed landmarks on site.", "The institution serves as a central hub for the preservation of oral histories.", "The grounds feature several monuments dedicated to colonial and post-colonial history."],
     },
+    image: "/poi-images/solomonislands-national-museum-landmarks-v2.webp",
   },
   {
     id: "solomonislands-us-war-memorial-landmarks-v2",
@@ -93,6 +95,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Monumentul a fost construit pe un teren donat de guvernul Insulelor Solomon.", "Pilonii centrali sunt orientați spre punctele cardinale principale.", "Inscripțiile includ cronologia exactă a capturării aeroportului Henderson Field.", "Memorialul onorează cei peste 7.000 de americani căzuți în campanie.", "Este situat la o altitudine care oferă o briză răcoroasă constantă.", "Situl este protejat și are pază permanentă pentru întreținere."],
       en: ["The memorial was dedicated exactly 50 years after the start of the campaign.", "The red granite used in construction was shipped specifically from the USA.", "It offers the best viewpoint to understand the naval geography of Ironbottom Sound.", "The site honors more than 7,100 U.S. personnel who died during the campaign.", "It is maintained by the American Battle Monuments Commission (ABMC).", "The bronze plaques feature maps of the island and military movement arrows."],
     },
+    image: "/poi-images/solomonislands-us-war-memorial-landmarks-v2.webp",
   },
   {
     id: "solomonislands-japanese-peace-memorial-landmarks-v2",
@@ -124,6 +127,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Memorialul a fost construit la 42 de ani după începerea bătăliei.", "Include o inscripție care îndeamnă la pace între toate națiunile lumii.", "Multe dintre materialele de construcție au fost aduse direct din Japonia.", "Situl este locul principal pentru ceremoniile japoneze de 'Obon' de pe insulă.", "Grădina este amenajată pentru a oferi umbră și răcoare vizitatorilor.", "Este considerat unul dintre cele mai sacre locuri pentru turiștii japonezi."],
       en: ["The memorial was officially dedicated in October 1984.", "It was established with the support of the All-Japan Federation of Management Organizations.", "The site is located near the former Japanese command headquarters on Mount Austen.", "The white concrete pillars represent a bridge between the living and the dead.", "It is a common destination for Japanese youth groups on educational tours.", "The memorial grounds offer a somber view of the valleys leading toward Henderson Field."],
     },
+    image: "/poi-images/solomonislands-japanese-peace-memorial-landmarks-v2.webp",
   },
   {
     id: "solomonislands-st-barnabas-cathedral-landmarks-v2",
@@ -155,6 +159,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Catedrala este sediul Arhiepiscopului de Melanezia.", "Arhitectura sa a fost premiată pentru utilizarea inovatoare a spațiului.", "Sculpturile de la altar sunt realizate din lemn de trandafir local.", "Găzduiește o bibliotecă teologică importantă pentru regiune.", "Ceremoniile de hirotonire a noilor episcopi au loc întotdeauna aici.", "Este situată strategic în apropierea zonei rezidențiale Kukum."],
       en: ["The cathedral serves as the mother church for Anglicans across several Pacific nations.", "Its canoe-shaped roof is a hallmark of modern Pacific architecture.", "The building was constructed to replace a previous wartime structure.", "It is famous for hosting large-scale choral festivals during the Easter season.", "The interior pillars represent the unity of the different island tribes.", "It is one of the largest enclosed religious structures in the Solomon Islands."],
     },
+    image: "/poi-images/solomonislands-st-barnabas-cathedral-landmarks-v2.webp",
   },
   {
     id: "solomonislands-holy-cross-cathedral-landmarks-v2",
@@ -186,6 +191,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Catedrala a fost sfințită în 1978, marcând o eră nouă pentru biserica locală.", "Este situată pe dealul Vavaya, oferind o panoramă de 180 de grade asupra golfului.", "Interiorul găzduiește moaștele unor martiri misionari timpurii.", "Ferestrele sunt concepute pentru a asigura o ventilație naturală optimă.", "Este punctul central pentru procesiunile de Paște din Honiara.", "Situl include și reședința oficială a Arhiepiscopului Catolic."],
       en: ["The cathedral was dedicated in 1978, the same year the nation achieved independence.", "It is located on a hill formerly known as the Catholic Mission Station.", "The interior features a unique blend of European and Melanesian religious art.", "The site offers a direct view of the spot where Spanish explorers first landed.", "It serves as the administrative center for Catholic education in the islands.", "The cathedral's choir is renowned for its traditional Pacific hymns."],
     },
+    image: "/poi-images/solomonislands-holy-cross-cathedral-landmarks-v2.webp",
   },
   {
     id: "solomonislands-bonegi-ii-wreck-landmarks-v2",
@@ -217,6 +223,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Nava a fost eșuată intenționat pe data de 15 noiembrie 1942.", "Lungimea totală a epavei este de 135 de metri.", "Adâncimea de scufundare variază de la suprafață până la 26 de metri.", "Vasul avea o greutate brută de 6.936 de tone înainte de distrugere.", "Locația se află la o distanță foarte mică de țărmul plajei Bonegi.", "Numele Kinugawa Maru provine de la un râu situat în Japonia."],
       en: ["The ship was intentionally beached on November 15, 1942.", "The total length of the vessel is 135 meters.", "Diving depths at the site range from 3 to 26 meters.", "The ship was a Japanese transport vessel weighing 6,936 tons.", "It is located only a few meters from the shore of Bonegi Beach.", "The vessel was named after the Kinugawa River in Japan."],
     },
+    image: "/poi-images/solomonislands-bonegi-ii-wreck-landmarks-v2.webp",
   },
   {
     id: "solomonislands-skull-island-landmarks-v2",
@@ -248,6 +255,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Insula este localizată în laguna Vonavona, lângă insula New Georgia.", "Adăpostește cranii ale șefilor de trib care datează de dinainte de 1920.", "Moneda tradițională din scoici găsită la altare se numește 'bakia'.", "Vizitarea necesită respectarea unui protocol tradițional numit 'Kastom'.", "Insula este extrem de mică, având o dimensiune de aproximativ 10-15 metri.", "Multe dintre cranii aparțin unor războinici celebri uciși în lupte tribale."],
       en: ["The island is located in the Vonavona Lagoon near New Georgia island.", "It contains skulls of chiefs dating back to the early 20th century.", "The traditional shell money displayed at the shrine is called 'bakia'.", "Visits must follow the 'Kastom' protocol to show proper respect.", "The island is very small, measuring only about 10 to 15 meters across.", "Many of the skulls belong to warriors who fell in ancient tribal conflicts."],
     },
+    image: "/poi-images/solomonislands-skull-island-landmarks-v2.webp",
   },
   {
     id: "solomonislands-kennedy-island-landmarks-v2",
@@ -279,6 +287,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Scufundarea navei PT-109 a avut loc în noaptea de 2 august 1943.", "Kennedy a înotat aproximativ 5 kilometri pentru a ajunge la insula Kasolo.", "Insula a fost redenumită oficial Insula Kennedy în onoarea președintelui.", "Doi cercetași locali au descoperit echipajul și au ajutat la salvarea lor.", "Mesajul către salvatori a fost zgâriat pe coaja unei nuci de cocos.", "Insula este situată în strâmtoarea Blackett, lângă laguna Gizo."],
       en: ["The sinking of PT-109 occurred on the night of August 2, 1943.", "Kennedy swam approximately 5 kilometers to reach Kasolo island.", "The island was officially renamed Kennedy Island in honor of the president.", "Two local scouts discovered the crew and facilitated their rescue.", "The message to rescuers was famously carved into a coconut shell.", "The island is located in the Blackett Strait near the Gizo Lagoon."],
     },
+    image: "/poi-images/solomonislands-kennedy-island-landmarks-v2.webp",
   },
   {
     id: "solomonislands-peter-joseph-museum-landmarks-v2",
@@ -310,6 +319,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Muzeul a fost creat în întregime prin eforturile lui Barney Paulsen.", "Numele provine de la prima plăcuță de identificare (dog tag) americană găsită.", "Colecția include peste 100 de tipuri diferite de mitraliere din epocă.", "Locul reflectă luptele crâncene din 1943 pentru aerodromul Munda.", "Vizitatorii pot vedea muniție originală și grenade recuperate din junglă.", "Muzeul este situat în imediata apropiere a aeroportului din Munda."],
       en: ["The museum was established entirely by local collector Barney Paulsen.", "It is named after the first US soldier's dog tag found in the area.", "The collection includes over 100 different types of machine guns.", "The site commemorates the 1943 battles for the strategic Munda airfield.", "Original ammunition and defused grenades are on display for visitors.", "The museum is conveniently located near the modern Munda airport."],
     },
+    image: "/poi-images/solomonislands-peter-joseph-museum-landmarks-v2.webp",
   },
   {
     id: "solomonislands-st-peters-cathedral-auki-landmarks-v2",
@@ -341,6 +351,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Auki este capitala provinciei Malaita și sediul diecezei catolice.", "Catedrala poartă numele Sfântului Apostol Petru.", "Este una dintre cele mai mari structuri religioase din provincia Malaita.", "Arhitectura clădirii utilizează ventilația naturală pentru răcire.", "Biserica este punctul focal al procesiunilor din Duminica Floriilor.", "Din proximitatea catedralei se pot observa insulele artificiale din lagună."],
       en: ["Auki is the capital of Malaita Province and the seat of the diocese.", "The cathedral is dedicated to Saint Peter the Apostle.", "It is one of the largest religious structures in Malaita Province.", "The architecture emphasizes natural ventilation for interior cooling.", "The church is the main venue for Palm Sunday celebrations in the town.", "The site offers views of the artificial islands in Langa Langa Lagoon."],
     },
+    image: "/poi-images/solomonislands-st-peters-cathedral-auki-landmarks-v2.webp",
   },
   {
     id: "solomonislands-langa-langa-artificial-islands-landmarks-v2",
@@ -372,6 +383,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Unele insule au o vechime de peste 400 de ani și sunt făcute din corali.", "Laguna se întinde pe o lungime totală de aproximativ 21 de kilometri.", "Banii din scoici sunt fabricați din diferite specii de scoici marine.", "Există peste 50 de insule artificiale locuite în interiorul lagunei.", "Construcția unei insule noi poate dura câteva decenii de muncă.", "Locuitorii folosesc canoe speciale pentru transportul între insule."],
       en: ["Some islands are over 400 years old and built entirely of coral stones.", "The Langa Langa Lagoon stretches for approximately 21 kilometers.", "Traditional shell money is made from specific types of sea shells.", "There are more than 50 inhabited artificial islands in the lagoon.", "Building a single artificial island can take decades to complete.", "Residents use specialized canoes for daily transport between islands."],
     },
+    image: "/poi-images/solomonislands-langa-langa-artificial-islands-landmarks-v2.webp",
   },
   {
     id: "solomonislands-henderson-field-monument-landmarks-v2",
@@ -403,6 +415,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Henderson Field a fost ocupat de pușcașii marini pe 7 august 1942.", "Aerodromul poartă numele lui Lofton Henderson, ucis la Midway în 1942.", "Cucerirea acestui loc a fost obiectivul principal al Operațiunii Watchtower.", "Forțele aeriene americane au folosit baza pentru celebra 'Cactus Air Force'.", "Monumentul este situat în apropierea actualului terminal internațional.", "Există pietre funerare simbolice pentru diverse divizii ale marinei americane."],
       en: ["Henderson Field was occupied by US Marines on August 7, 1942.", "It was named after Lofton Henderson, who died at Midway on June 4, 1942.", "The airfield's capture was the primary goal of Operation Watchtower.", "The US Air Force utilized the base for the famous 'Cactus Air Force'.", "The monument is located near the modern international terminal building.", "Commemorative stones honor various divisions of the US Marine Corps."],
     },
+    image: "/poi-images/solomonislands-henderson-field-monument-landmarks-v2.webp",
   },
   {
     id: "solomonislands-fatima-cathedral-gizo-landmarks-v2",
@@ -434,6 +447,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Cutremurul distructiv și tsunamiul au avut loc pe 2 aprilie 2007.", "Catedrala a fost reconstruită cu ajutorul unor donații internaționale.", "Este situată la doar câțiva metri de malul lagunei Gizo.", "Dieceza de Gizo acoperă 7 insule principale și numeroase atoluri mici.", "Designul acoperișului amintește de casele tradiționale pentru canoe.", "Slujbele religioase sunt oficiate adesea în limba Pijin și dialecte locale."],
       en: ["The devastating earthquake and tsunami occurred on April 2, 2007.", "The cathedral was rebuilt through the help of international donations.", "It is located just a few meters from the waterfront of Gizo Lagoon.", "The Gizo Diocese covers 7 main islands and many smaller atolls.", "The roof design incorporates elements of traditional canoe houses.", "Masses are frequently conducted in Pijin and various local dialects."],
     },
+    image: "/poi-images/solomonislands-fatima-cathedral-gizo-landmarks-v2.webp",
   },
   {
     id: "solomonislands-tulagi-wharf-landmarks-v2",
@@ -465,6 +479,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Tulagi a fost capitala Insulelor Solomon între anii 1893 și 1942.", "Portul a fost ocupat de forțele japoneze în mai 1942.", "Pușcașii marini americani au recucerit insula în august 1942.", "O epavă celebră din apropiere este distrugătorul USS Aaron Ward.", "Insula este situată în largul coastei insulei mai mari Florida (Nggela).", "Tulagi a găzduit cândva sediul companiei Levers Pacific Plantations."],
       en: ["Tulagi was the capital of the Solomon Islands from 1893 to 1942.", "The harbor was occupied by Japanese forces in May 1942.", "US Marines recaptured the island in August 1942 during Operation Watchtower.", "A famous nearby shipwreck is the destroyer USS Aaron Ward.", "The island is situated off the coast of the larger Florida (Nggela) island.", "Tulagi was once the headquarters for Levers Pacific Plantations Ltd."],
     },
+    image: "/poi-images/solomonislands-tulagi-wharf-landmarks-v2.webp",
   },
   {
     id: "solomonislands-tetere-beach-war-museum-landmarks-v2",
@@ -496,6 +511,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Există aproximativ 60-70 de vehicule Amtrac în incinta muzeului.", "Vehiculele au fost abandonate pe plajă imediat după anul 1945.", "Tetere Beach a servit ca bază logistică majoră pentru forțele SUA.", "Se pot găsi și epave ale unor bombardiere Douglas SBD Dauntless.", "Terenul este proprietate privată și este administrat de localnici.", "Vehiculele Amtrac au fost esențiale pentru traversarea recifelor la debarcare."],
       en: ["There are approximately 60 to 70 Amtracs located at the museum site.", "The vehicles were simply abandoned on the beach after 1945.", "Tetere Beach served as a major logistics base for the US military.", "Wrecks of Douglas SBD Dauntless dive bombers are also found here.", "The site is privately owned and maintained by local inhabitants.", "Amtracs were used to cross coral reefs during amphibious landings."],
     },
+    image: "/poi-images/solomonislands-tetere-beach-war-museum-landmarks-v2.webp",
   },
   {
     id: "solomonislands-all-saints-church-landmarks-v2",
@@ -527,6 +543,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Biserica este catedrala Diecezei de Melanezia Centrală.", "Reconstrucția a început după mutarea capitalei la Honiara.", "Adăpostește monumente dedicate misionarilor din Misiunea Melaneziană.", "Sculpturile în lemn din interior prezintă motive tradiționale insulare.", "Catedrala este cunoscută pentru acustica sa excelentă și muzica corală.", "Se află situată în cartierul Point Cruz din Honiara."],
       en: ["The church is the cathedral for the Diocese of Central Melanesia.", "Reconstruction began after the capital was moved to Honiara.", "It houses memorials for missionaries of the Melanesian Mission.", "The interior wood carvings feature traditional island motifs.", "The cathedral is renowned for its excellent acoustics and choral music.", "It is located in the Point Cruz district of Honiara."],
     },
+    image: "/poi-images/solomonislands-all-saints-church-landmarks-v2.webp",
   },
   {
     id: "solomonislands-lake-tengano-monument-landmarks-v2",
@@ -558,6 +575,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Lacul ocupă aproximativ 20% din suprafața totală a insulei Rennell.", "East Rennell a fost declarat Patrimoniu Mondial UNESCO în anul 1998.", "Apa lacului este salmastră, o combinație de apă dulce și sărată.", "Există aproximativ 200 de insule mici de corali în interiorul lacului.", "Șarpele de mare de Rennell (Laticauda crockeri) este endemic aici.", "Hidroavioanele americane Catalina au folosit lacul ca bază în timpul războiului."],
       en: ["The lake covers about 20% of the total land area of Rennell Island.", "East Rennell was inscribed as a UNESCO World Heritage site in 1998.", "The lake's water is brackish, a unique mix of fresh and salt water.", "There are approximately 200 small coral islets located within the lake.", "The Rennell water snake (Laticauda crockeri) is endemic to the lake.", "US Catalina flying boats utilized the lake as a base during WWII."],
     },
+    image: "/poi-images/solomonislands-lake-tengano-monument-landmarks-v2.webp",
   },
   {
     id: "solomonislands-point-cruz-yacht-club-landmarks-v2",
@@ -589,6 +607,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Clubul se află pe locul unde Alvaro de Mendaña a debarcat în 1568.", "Este unul dintre cele mai vechi cluburi sociale din Honiara.", "Numele Point Cruz se referă la crucea de lemn a exploratorilor spanioli.", "De la club se poate vedea direct celebrul 'Ironbottom Sound'.", "Yacht Club organizează regate de navigație regulate în golf.", "Este un loc popular pentru recepții diplomatice oficiale."],
       en: ["The club is located where Alvaro de Mendaña landed in 1568.", "It is one of the oldest social clubs in Honiara.", "The name Point Cruz refers to the wooden cross of the Spanish explorers.", "The clubhouse overlooks the famous 'Ironbottom Sound' battlefield.", "The Yacht Club hosts regular sailing regattas in the harbor.", "It is a preferred venue for official diplomatic functions and events."],
     },
+    image: "/poi-images/solomonislands-point-cruz-yacht-club-landmarks-v2.webp",
   },
   {
     id: "solomonislands-munda-airfield-monument-landmarks-v2",
@@ -620,6 +639,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Japonezii au construit pista în secret în doar 2 luni de zile.", "Atacul american asupra Munda a început pe 2 iulie 1943.", "Aerodromul a fost declarat oficial securizat pe 5 august 1943.", "Munda a fost cea mai importantă bază japoneză din provincia de Vest.", "Codul actual IATA al aeroportului din Munda este MUA.", "În apropiere se pot vedea buncăre de corali construite de japonezi."],
       en: ["The Japanese secretly built the runway in just under 2 months.", "US forces launched the offensive on Munda on July 2, 1943.", "The airfield was officially declared secure on August 5, 1943.", "Munda was the most vital Japanese air base in the Western Province.", "The modern IATA code for the airport serving the site is MUA.", "Coral-walled bunkers built by the Japanese are still visible nearby."],
     },
+    image: "/poi-images/solomonislands-munda-airfield-monument-landmarks-v2.webp",
   },
   {
     id: "solomonislands-honiara-city-council-landmarks-v2",
@@ -651,6 +671,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Honiara a fost înființat ca nouă capitală abia după război.", "HCC administrează singura regiune metropolitană din Insulele Solomon.", "Consiliul este responsabil pentru Piața Centrală din Honiara.", "Clădirea este situată aproape de Mendana Avenue, artera principală.", "Consiliul Orașului Honiara administrează și câteva școli municipale.", "Primarul este ales pentru un mandat de patru ani."],
       en: ["Honiara was established as the new capital only after World War II.", "The HCC manages the only metropolitan area in the Solomon Islands.", "The council is responsible for the large Honiara Central Market.", "The building is located near Mendana Avenue, the city's main street.", "Honiara City Council also oversees several municipal schools.", "The mayor is elected every four years by the councilors."],
     },
+    image: "/poi-images/solomonislands-honiara-city-council-landmarks-v2.webp",
   },
   {
     id: "solomonislands-ironbottom-sound-memorial-landmarks-v2",
@@ -682,6 +703,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Aproximativ 50 de nave de război mari sunt scufundate în această strâmtoare.", "Confruntările au avut loc în perioada campaniei din Guadalcanal (1942-1943).", "Epavele se află la adâncimi cuprinse între 600 și peste 1200 de metri.", "Numele a fost dat de marinarii aliați din cauza numărului mare de pierderi metalice.", "Exploratorul Robert Ballard a localizat cele mai importante epave în 1992.", "Locul este considerat unul dintre cele mai importante cimitire navale din lume."],
       en: ["Approximately 50 major warships rest on the floor of the sound.", "The naval battles occurred between August 1942 and February 1943.", "Wrecks are located at depths ranging from 600 to over 1,200 meters.", "The site was explored and mapped by Dr. Robert Ballard in 1992.", "Sunken vessels include the Japanese battleship Kirishima and USS Astoria.", "The area is officially designated as a protected underwater war grave."],
     },
+    image: "/poi-images/solomonislands-ironbottom-sound-memorial-landmarks-v2.webp",
   },
   {
     id: "solomonislands-red-beach-memorial-landmarks-v2",
@@ -713,6 +735,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Debarcarea a început la ora 09:10 pe data de 7 august 1942.", "Peste 11.000 de pușcași marini americani au debarcat în prima zi.", "Plaja este situată la aproximativ 10 kilometri est de orașul Honiara.", "Red Beach a fost numele de cod utilizat în planurile de invazie aliate.", "A fost prima ofensivă terestră majoră a Aliaților împotriva Japoniei.", "Monumentul onorează în mod specific Divizia 1 de Pușcași Marini."],
       en: ["The invasion began at 09:10 AM on August 7, 1942.", "Over 11,000 U.S. Marines landed at Red Beach on the first day.", "The site is located approximately 10 kilometers east of Honiara.", "Red Beach was the tactical code name for this landing zone.", "The operation marked the first major land offensive by Allied forces in the Pacific.", "The beach is situated near the mouth of what is now called the Tenaru River."],
     },
+    image: "/poi-images/solomonislands-red-beach-memorial-landmarks-v2.webp",
   },
   {
     id: "solomonislands-japanese-seaplane-base-tulagi-landmarks-v2",
@@ -744,6 +767,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Baza a fost operațională sub control japonez din mai până în august 1942.", "Găzduia hidroavioane de recunoaștere pe distanțe lungi de tip Kawanishi H6K.", "Insulele Gavutu și Tanambogo făceau parte integrantă din complexul bazei.", "Aproape toți cei 1.500 de apărători japonezi au murit în luptele din august 1942.", "Rampele de beton sunt încă utilizabile pentru bărci mici în prezent.", "Locația oferea control vizual direct asupra Strâmtorii Ironbottom."],
       en: ["The base became operational in May 1942 following the Japanese occupation.", "It primarily housed Kawanishi H6K 'Mavis' long-range flying boats.", "Gavutu and Tanambogo islands were connected by a causeway to support the base.", "The facility was seized by U.S. Marines during a three-day battle in August 1942.", "At least three 'Mavis' seaplane wrecks remain in the nearby shallow waters.", "The site provided the Japanese with a vital surveillance window into the Coral Sea."],
     },
+    image: "/poi-images/solomonislands-japanese-seaplane-base-tulagi-landmarks-v2.webp",
   },
   {
     id: "solomonislands-national-parliament-library-landmarks-v2",
@@ -775,6 +799,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Clădirea a fost inaugurată oficial la data de 7 noiembrie 1993.", "Guvernul SUA a donat 5 milioane de dolari pentru realizarea proiectului.", "Arhitectura a fost concepută de firma de arhitectură australiană 'Forbes and Fitzhardinge'.", "Biblioteca găzduiește toate legile adoptate de la independența din 1978.", "Acoperișul are o înălțime de aproximativ 15 metri în punctul central.", "Este situată pe un teren care a fost zonă de luptă în 1942."],
       en: ["The Parliament complex was officially inaugurated on November 7, 1993.", "The project was funded by a $5 million grant from the United States government.", "The conical roof design is inspired by traditional styles from Malaita and Guadalcanal.", "The library houses a complete collection of the nation's Hansard (parliamentary debates).", "It is located on Vavaya Ridge, offering a view of the Pacific Ocean.", "The building incorporates local motifs and traditional carvings in its interior design."],
     },
+    image: "/poi-images/solomonislands-national-parliament-library-landmarks-v2.webp",
   },
   {
     id: "solomonislands-gizo-central-market-landmarks-v2",
@@ -806,6 +831,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Piața din Gizo este cel mai mare centru comercial din afara capitalei Honiara.", "Artizanii locali folosesc adesea scoici de tip nautilus pentru inserțiile în lemn.", "Cele mai multe bărci de transport sosesc la piață în jurul orei 7 dimineața.", "Piața a fost reconstruită cu sprijin internațional după dezastrul din 2007.", "Se pot cumpăra varietăți rare de banane și rădăcinoase care nu se găsesc în Honiara.", "Gizo este situat pe mica insulă Ghizo, înconjurată de recife de corali."],
       en: ["Gizo is the second-largest commercial center in the Solomon Islands.", "The market is a primary source for world-famous Western Province wood carvings.", "Much of the produce comes from the volcanic island of Kolombangara across the water.", "The market area underwent significant renovation following the 2007 tsunami.", "Saturday is the busiest day, attracting hundreds of vendors from remote areas.", "The market's waterfront location allows for direct boat-to-stall delivery of seafood."],
     },
+    image: "/poi-images/solomonislands-gizo-central-market-landmarks-v2.webp",
   },
   {
     id: "solomonislands-marovo-lagoon-monuments-landmarks-v2",
@@ -837,6 +863,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Marovo este cea mai mare lagună de apă sărată de pe glob.", "Situl este renumit pentru „craniile sacre” păstrate în sanctuare de piatră.", "Bakia, moneda din scoici, era considerată un simbol al bogăției și puterii.", "Laguna are un sistem unic de recife barieră duble, rar întâlnit în lume.", "Exploratorul James Michener a descris laguna ca fiind a opta minune a lumii.", "Multe dintre insulele din lagună sunt conuri vulcanice stinse."],
       en: ["Marovo Lagoon is officially the world's largest saltwater lagoon.", "There are over 100 confirmed archaeological and cultural sites in the area.", "Shell money known as Bakia was crafted here from fossilized giant clam shells.", "The lagoon is a candidate for UNESCO World Heritage status.", "Local shrines often contain ancestral skulls and traditional artifacts.", "The area is famous for the exceptional woodcarving skills of the local people."],
     },
+    image: "/poi-images/solomonislands-marovo-lagoon-monuments-landmarks-v2.webp",
   },
   {
     id: "solomonislands-king-george-vi-school-landmarks-v2",
@@ -868,6 +895,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Școala a fost înființată în 1948 pe insula Malaita.", "Relocarea în Honiara în 1966 a fost necesară pentru extinderea capacității.", "Instituția este considerată „leagănul” liderilor Insulelor Solomon.", "Include atât forme de învățământ de zi, cât și regim de internat.", "Curriculumul este bazat pe sistemul educațional britanic și cel al Pacificului de Sud.", "Este situată pe drumul principal care leagă orașul de aeroportul internațional."],
       en: ["The school was first established in 1948 in Auki, Malaita Province.", "The current Honiara campus has been operational since 1966.", "It is widely regarded as the most prestigious public school in the country.", "Alumni include several Prime Ministers and high-ranking government officials.", "The school provides boarding facilities for students from remote islands.", "It is located in eastern Honiara, near the coastline."],
     },
+    image: "/poi-images/solomonislands-king-george-vi-school-landmarks-v2.webp",
   },
   {
     id: "solomonislands-savo-island-volcano-landmarks-v2",
@@ -899,6 +927,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Ultima erupție majoră a avut loc în perioada 1840-1850.", "Vârful vulcanului se află la o altitudine de 485 de metri.", "Păsările megapod se bazează pe căldura solului pentru a-și cloci ouăle.", "Insula este înconjurată de ape foarte adânci, formând un con vulcanic izolat.", "Există planuri internaționale de monitorizare seismică continuă a insulei.", "Savo este vizibilă clar din Honiara în zilele cu cer senin."],
       en: ["The last major eruption of Savo occurred between 1840 and 1850.", "The island's highest peak reaches an elevation of 485 meters.", "Local communities use geothermal steam vents for traditional pit cooking.", "Megapode birds dig burrows up to 3 feet deep in the warm volcanic sand.", "The island is famous for being the site of several major WWII naval battles nearby.", "Savo is classified as a high-risk volcano due to its proximity to Honiara."],
     },
+    image: "/poi-images/solomonislands-savo-island-volcano-landmarks-v2.webp",
   },
   {
     id: "solomonislands-pt-boat-base-sesapi-landmarks-v2",
@@ -930,6 +959,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Baza a fost construită de unitățile de geniu SeaBees în august 1942.", "Navele PT erau construite din lemn de mahon pentru a fi ușoare și rapide.", "John F. Kennedy a comandat nava PT-109 din baza de la Tulagi/Sesapi.", "Peste 50 de nave PT au operat din această locație în perioada de vârf.", "Depozitele de muniție erau ascunse în peșteri naturale de pe mal.", "Situl este accesibil doar cu barca dinspre Honiara sau Tulagi."],
       en: ["The base was constructed by the U.S. Navy Seabees in August 1942.", "John F. Kennedy was stationed at Tulagi and Sesapi in 1943.", "PT boats were famously nicknamed the 'Mosquito Fleet' due to their speed.", "The base utilized Purvis Bay for its naturally deep and sheltered anchorage.", "Several PT boat wrecks and parts are still located in the surrounding mangroves.", "The facility played a key role in the naval blockade of the central Solomon Islands."],
     },
+    image: "/poi-images/solomonislands-pt-boat-base-sesapi-landmarks-v2.webp",
   },
   {
     id: "solomonislands-mataniko-falls-landmark-landmarks-v2",
@@ -961,6 +991,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Cascada este renumită pentru sistemul său de peșteri cu mai multe niveluri.", "Aproape 600 de soldați japonezi s-au refugiat în aceste peșteri în 1943.", "Râul Mataniko se varsă în mare chiar în centrul orașului Honiara.", "Peșterile sunt iluminate doar de lumina naturală care pătrunde prin fisuri.", "Este considerată una dintre cele mai frumoase cascade din Pacificul de Sud.", "Traseul către cascadă trece prin sate tradiționale ale triburilor de munte."],
       en: ["The falls feature a dramatic double drop into a limestone gorge.", "The caves behind the falls served as a hospital for Japanese troops in 1942.", "Reaching the site requires a challenging hike through dense tropical jungle.", "The Mataniko River actually flows through the cave system itself.", "The area was a major battleground during the U.S. offensive in late 1942.", "It is a significant site for both geological study and WWII archaeology."],
     },
+    image: "/poi-images/solomonislands-mataniko-falls-landmark-landmarks-v2.webp",
   },
   {
     id: "solomonislands-tinakula-volcano-landmarks-v2",
@@ -992,6 +1023,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Vulcanul are o înălțime de 811 metri deasupra nivelului mării.", "Erupțiile sale sunt vizibile de la distanțe de zeci de kilometri pe mare.", "Insula este circulară, cu un diametru de aproximativ 3,5 km.", "A fost locuită intermitent până la dezastrul din 1971.", "Se află la aproximativ 100 km nord de insula Nendo.", "Cenușa vulcanică de pe Tinakula fertilizează solul insulelor vecine."],
       en: ["Tinakula reaches an elevation of 811 meters above sea level.", "The earliest European record of its eruption dates back to 1595.", "The island has been officially uninhabited since the 1971 eruption.", "It is located in Temotu Province, the most remote part of the Solomon Islands.", "A major landslide on the west side occurred during the 1971 event.", "The volcano's activity is monitored by satellites due to its remote location."],
     },
+    image: "/poi-images/solomonislands-tinakula-volcano-landmarks-v2.webp",
   },
   {
     id: "solomonislands-fanalei-traditional-village-landmarks-v2",
@@ -1023,6 +1055,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Dinții de delfin sunt folosiți pentru tranzacții importante și ceremonii.", "Satul este construit parțial pe o platformă de corali ridicată manual.", "Vânătoarea se bazează pe folosirea ecoului sunetelor produse de pietre.", "O singură mireasă poate costa până la 1.000 de dinți de delfin.", "Este una dintre puținele culturi din lume care păstrează această tradiție.", "Accesul în sat se face exclusiv cu canoe tradiționale sau bărci cu motor."],
       en: ["Dolphin teeth serve as a primary form of traditional currency in the village.", "The village is constructed on an artificial island made from piled coral stones.", "The dolphin hunt is conducted by clanging stones together to create sonar barriers.", "A traditional bride price often requires thousands of individual dolphin teeth.", "The community is actively engaged in discussions regarding climate-induced relocation.", "The residents are part of the Lau linguistic group, known for their seafaring skills."],
     },
+    image: "/poi-images/solomonislands-fanalei-traditional-village-landmarks-v2.webp",
   },
   {
     id: "solomonislands-hells-point-landmarks-v2",
@@ -1054,6 +1087,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Locația găzduiește sediul unității UXO a Poliției Regale a Insulelor Solomon.", "Hell's Point este considerat zona cu cea mai mare densitate de UXO din țară.", "Muniția găsită include bombe de aviație de 500 de livre și proiectile navale.", "Accesul este strict restricționat din cauza riscului ridicat de explozie.", "Operațiunile de curățare sunt finanțate parțial de Australia și SUA.", "Zona a fost afectată de incendii de vegetație care au provocat explozii accidentale."],
       en: ["Hell's Point is the primary headquarters for the nation's bomb disposal unit.", "The site contains ordnance from both U.S. and Japanese manufacturing.", "It is located strategically near the Henderson Field international airport.", "Clearance teams have recovered thousands of shells from the site annually.", "The area was once part of a vast logistics network supporting the Pacific theater.", "It is officially designated as a prohibited area for unauthorized civilians."],
     },
+    image: "/poi-images/solomonislands-hells-point-landmarks-v2.webp",
   },
   {
     id: "solomonislands-gifu-battlefield-landmarks-v2",
@@ -1085,6 +1119,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Poziția Gifu avea aproximativ 45 de buncăre individuale foarte bine camuflate.", "Bătălia finală a avut loc între 10 și 23 ianuarie 1943.", "A fost ultima barieră majoră în calea controlului total al insulei de către Aliați.", "Numele provine de la Regimentul 124 Infanterie din Japonia.", "Terenul este atât de abrupt încât proviziile au fost cărate manual de mii de soldați.", "Situl conține acum plăci memoriale ridicate de asociații de veterani japonezi."],
       en: ["The Gifu was defended by approximately 500 elite Japanese infantrymen.", "The battle for the stronghold lasted from January 10 to January 23, 1943.", "It was named after the Gifu Prefecture, the home of the defending troops.", "The fortifications were so strong they required direct tank support to breach.", "Mount Austen, where Gifu is located, rises to 460 meters above sea level.", "Remnants of foxholes and rusted war debris can still be found in the area."],
     },
+    image: "/poi-images/solomonislands-gifu-battlefield-landmarks-v2.webp",
   },
   {
     id: "solomonislands-bishop-brosnahan-memorial-landmarks-v2",
@@ -1116,6 +1151,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["James Brosnahan a fost numit episcop în anul 1978.", "Catedrala Holy Cross a fost construită pe locul unui fost punct de observație militar.", "Memorialul este construit din piatră albă și include o placă informativă.", "Episcopul a fost un susținător activ al independenței Insulelor Solomon.", "Situl este considerat unul dintre cele mai liniștite locuri din centrul capitalei.", "Brosnahan a servit comunitatea locală timp de peste trei decenii."],
       en: ["James Brosnahan was consecrated as the first Bishop of Honiara in 1978.", "The memorial is located at Holy Cross Cathedral on Vavaya Ridge.", "He is remembered for his dedication to expanding rural health clinics.", "The cathedral grounds were a site of strategic interest during WWII battles.", "The memorial is a key pilgrimage site for Solomon Islands Catholics.", "Brosnahan's leadership helped unify the church across different island provinces."],
     },
+    image: "/poi-images/solomonislands-bishop-brosnahan-memorial-landmarks-v2.webp",
   },
   {
     id: "solomonislands-buala-market-landmarks-v2",
@@ -1147,6 +1183,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Localizată pe malul mării în capitala provinciei Isabel", "Punct major de tranzacționare pentru pește și fructe de mare", "Accesibilă în principal prin bărci și canoe tradiționale", "Include secțiuni dedicate plantelor medicinale locale", "Structurile pieței au fost consolidate împotriva ciclonilor", "Reprezintă principala sursă de venit pentru familiile rurale"],
       en: ["Located on the waterfront of Buala, Isabel Province", "Primary hub for local trade and food distribution", "Accessible via sea, with many vendors arriving by canoe", "Specializes in traditional staples like taro and yams", "Serves as a collection point for provincial produce", "Recent infrastructure upgrades improve hygiene standards"],
     },
+    image: "/poi-images/solomonislands-buala-market-landmarks-v2.webp",
   },
   {
     id: "solomonislands-kirakira-port-landmarks-v2",
@@ -1178,6 +1215,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Principalul nod maritim al provinciei Makira-Ulawa", "Punct de export major pentru produsele din cacao", "Asigură legătura vitală cu orașul Honiara", "Singurul chei de dimensiuni mari de pe insula San Cristobal", "Esențial pentru livrarea proviziilor medicale în regiune", "Găzduiește nave cargo și feriboturi de pasageri"],
       en: ["Main maritime gateway for Makira-Ulawa Province", "Key export point for local cocoa and copra", "Primary link for passenger travel to Honiara", "Largest wharf facility on San Cristobal Island", "Crucial for the distribution of fuel and basic supplies", "Operates as the central logistics hub for the region"],
     },
+    image: "/poi-images/solomonislands-kirakira-port-landmarks-v2.webp",
   },
   {
     id: "solomonislands-auki-central-market-landmarks-v2",
@@ -1209,6 +1247,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Cea mai mare piață din provincia Malaita", "Centru principal pentru schimbul de bani din scoici", "Loc de întâlnire pentru locuitorii insulelor artificiale", "Infrastructură modernizată prin parteneriate internaționale", "Esidențială pentru securitatea alimentară a insulei", "Punct de colectare a produselor artizanale locale"],
       en: ["Largest market facility in Malaita Province", "Renowned hub for traditional shell money exchange", "Primary outlet for seafood from nearby artificial islands", "Modernized with support from international development agencies", "Key location for observing Malaitan cultural traditions", "Supports the livelihoods of thousands of rural farmers"],
     },
+    image: "/poi-images/solomonislands-auki-central-market-landmarks-v2.webp",
   },
   {
     id: "solomonislands-solomon-peace-memorial-park-landmarks-v2",
@@ -1240,6 +1279,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Situat pe muntele Austin, lângă capitala Honiara", "Dedicat militarilor japonezi căzuți în Guadalcanal", "Oferă o vedere panoramică asupra Iron Bottom Sound", "Inaugurat pentru a promova pacea și reconcilierea", "Găzduiește ceremonii oficiale de comemorare în fiecare an", "Include monumente masive din granit și piatră"],
       en: ["Located on Mount Austin with views of Honiara", "Dedicated to Japanese soldiers of the Guadalcanal Campaign", "Features monuments calling for global peace", "Provides vistas of historical WWII battlefields", "Funded by Japanese veterans and the government", "A key site for military history tourism in the Solomon Islands"],
     },
+    image: "/poi-images/solomonislands-solomon-peace-memorial-park-landmarks-v2.webp",
   },
   {
     id: "solomonislands-national-university-campus-landmarks-v2",
@@ -1271,6 +1311,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Înființată în 2013 prin fuziunea colegiilor existente", "Dispune de trei campusuri principale în capitală", "Campusul Ranadi este specializat în studii maritime", "Panatina este cel mai vechi centru de formare a profesorilor", "Oferă programe acreditate internațional în Pacific", "Pilon central pentru cercetarea în domeniul agriculturii"],
       en: ["Established in 2013 by an Act of Parliament", "Consists of three main campuses: Kukum, Panatina, Ranadi", "Panatina is the primary site for teacher education", "Offers specialized programs in tropical agriculture", "Host to the national school of nursing and health", "The largest higher education provider in the country"],
     },
+    image: "/poi-images/solomonislands-national-university-campus-landmarks-v2.webp",
   },
   {
     id: "solomonislands-tenaru-falls-landmark-landmarks-v2",
@@ -1302,6 +1343,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Înălțime aproximativă de 63 de metri", "Situată în interiorul muntos al insulei Guadalcanal", "Necesită parcurgerea unui traseu prin junglă și râu", "Bazinul de la bază este sigur pentru înot", "Administrată de proprietarii funciari locali", "Destinație majoră pentru turismul de aventură"],
       en: ["Approximately 63 meters in total height", "Located in the rugged interior of Guadalcanal", "Requires a trek involving multiple river crossings", "Features a deep pool suitable for freshwater swimming", "Surrounded by diverse tropical flora and fauna", "Accessed via guided tours from nearby villages"],
     },
+    image: "/poi-images/solomonislands-tenaru-falls-landmark-landmarks-v2.webp",
   },
   {
     id: "solomonislands-kavachi-submarine-volcano-landmarks-v2",
@@ -1333,6 +1375,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Unul dintre cei mai activi vulcani submarini din lume", "Localizat la sud de insula Vangunu", "Găzduiește rechini în apele acide ale craterului", "Creează periodic insule noi care dispar rapid", "Prima erupție înregistrată oficial a fost în 1939", "Monitorizat prin satelit pentru activitate termică"],
       en: ["Highly active submarine volcano in the Western Province", "Famous for marine life living inside the crater", "Creates temporary islands through frequent eruptions", "Located south of Vangunu Island in the New Georgia Group", "First recorded eruption occurred in 1939", "Subject of international biological and geological research"],
     },
+    image: "/poi-images/solomonislands-kavachi-submarine-volcano-landmarks-v2.webp",
   },
   {
     id: "solomonislands-mbokonavera-market-landmarks-v2",
@@ -1364,6 +1407,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["A doua piață ca importanță din Honiara", "Deservește suburbiile vestice ale capitalei", "Sursă principală pentru manioc și cartof dulce", "Susține economia micilor producători agricoli", "A beneficiat de renovări structurale recente", "Punct de referință pentru prețurile alimentelor locale"],
       en: ["Second largest market facility in Honiara", "Primary grocery source for western residential areas", "Known for fresh cassava, taro, and bananas", "Predominantly managed by local female entrepreneurs", "Less touristy than the Honiara Central Market", "Crucial for the daily food supply of the capital"],
     },
+    image: "/poi-images/solomonislands-mbokonavera-market-landmarks-v2.webp",
   },
   {
     id: "solomonislands-walande-island-ruins-landmarks-v2",
@@ -1395,6 +1439,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Fostă insulă artificială construită din corali", "Abandonată complet din cauza eroziunii costiere", "Exemplu global pentru fenomenul refugiaților climatici", "Comunitatea s-a mutat pe uscat în satul Fanalei", "Doar fundațiile de piatră mai sunt vizibile astăzi", "Locuitorii erau renumiți pentru vânătoarea de delfini"],
       en: ["An artificial island made of piled coral stone", "Abandoned due to rising sea levels and erosion", "A key case study for climate change in Melanesia", "The community relocated to the mainland of Malaita", "Remnants are a poignant reminder of lost habitats", "Historically a hub for traditional dolphin hunting"],
     },
+    image: "/poi-images/solomonislands-walande-island-ruins-landmarks-v2.webp",
   },
   {
     id: "solomonislands-honiara-public-library-landmarks-v2",
@@ -1426,6 +1471,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Inaugurată în 1968 printr-o donație britanică", "Cea mai mare bibliotecă publică din arhipelag", "Deține arhive istorice rare despre Melanezia", "Punct central pentru educația tineretului din Honiara", "Clădire emblematică din perioada colonială târzie", "Găzduiește singura secțiune de referință națională"],
       en: ["Opened in 1968 as a gift from the United Kingdom", "The primary public library in the Solomon Islands", "Contains a significant collection of Pacificana literature", "Serves as a vital quiet study space for local students", "Architectural landmark in central Honiara", "Recipient of international book donation programs"],
     },
+    image: "/poi-images/solomonislands-honiara-public-library-landmarks-v2.webp",
   },
   {
     id: "solomonislands-munda-wharf-landmarks-v2",
@@ -1457,6 +1503,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Principalul port comercial din insula New Georgia", "Punct de acces vital pentru laguna Roviana", "Situat la mică distanță de pista aeroportului Munda", "Construit pe fundații din epoca celui de-al Doilea Război Mondial", "Centru de colectare pentru exportul de copra", "Găzduiește ambarcațiuni de transport între insule"],
       en: ["Main maritime hub for New Georgia Island", "Primary logistics point for the Roviana Lagoon", "Strategically located near Munda Airport", "Constructed near historic WWII military sites", "Key terminal for cargo ships and passenger ferries", "Essential for the region's diving and eco-tourism industry"],
     },
+    image: "/poi-images/solomonislands-munda-wharf-landmarks-v2.webp",
   },
   {
     id: "solomonislands-gavutu-island-monuments-landmarks-v2",
@@ -1488,6 +1535,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Fostă bază de hidroavioane japoneză în timpul războiului", "Locul unor lupte crâncene desfășurate în august 1942", "Include plăci memoriale pentru ambele armate beligerante", "Conectată de insula Tanambogo printr-un dig istoric", "Sediul comercial al Lever Brothers înainte de 1942", "Sursă de artefacte militare pentru muzeele locale"],
       en: ["Strategic WWII seaplane base for the Japanese Empire", "Site of a major US Marine Corps assault in 1942", "Features memorials for both US and Japanese casualties", "Linked to Tanambogo Island by a prominent causeway", "Pre-war commercial hub for the regional coconut trade", "Surrounded by numerous sunken aircraft and war debris"],
     },
+    image: "/poi-images/solomonislands-gavutu-island-monuments-landmarks-v2.webp",
   },
   {
     id: "solomonislands-honiara-yacht-club-pier-landmarks-v2",
@@ -1519,6 +1567,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Punct principal de acostare pentru iahturi în Point Cruz", "Vedere directă către strâmtoarea istorică Iron Bottom Sound", "Centru social major pentru comunitatea internațională", "Loc de plecare pentru scufundări la epavele din WWII", "Găzduiește evenimente nautice și regate locale", "Situat lângă portul comercial principal al capitalei"],
       en: ["Primary docking facility for yachts at Point Cruz", "Overlooks the site of historic WWII naval battles", "Central social venue for expats and local residents", "Launch site for maritime tours and diving trips", "Host to annual sailing competitions and regattas", "Iconic part of Honiara's maritime and urban landscape"],
     },
+    image: "/poi-images/solomonislands-honiara-yacht-club-pier-landmarks-v2.webp",
   },
   {
     id: "solomonislands-choiseul-bay-monument-landmarks-v2",
@@ -1550,6 +1599,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Situat pe insula Taro, capitala provinciei Choiseul", "Dedicat observatorilor de coastă din cel de-al Doilea Război Mondial", "Comemorează raidurile de diversiune aliate din 1943", "Simbolizează rezistența și curajul populației locale", "Oferă vedere asupra recifelor din Golful Choiseul", "Punct focal pentru ceremoniile istorice din provincie"],
       en: ["Located on Taro Island, Choiseul Province", "Commemorates the Coastwatchers of World War II", "Marks the 1943 Allied diversionary operations", "A symbol of cooperation between locals and Allies", "Features panoramic views of the Choiseul Bay area", "A key historical landmark for the provincial government"],
     },
+    image: "/poi-images/solomonislands-choiseul-bay-monument-landmarks-v2.webp",
   },
   {
     id: "solomonislands-pt-boat-base-sesapi-remnants-landmarks-v2",
@@ -1581,6 +1631,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Fostă bază operativă pentru bărcile PT americane", "Locul unde a activat John F. Kennedy în timpul războiului", "Situată în provincia Centrală, în apropiere de Tulagi", "Păstrează fundații de beton și tancuri de combustibil", "Esențială în contracararea manevrelor 'Tokyo Express'", "Destinație majoră pentru turismul istoric militar"],
       en: ["Former US Navy base for Patrol Torpedo boats", "The wartime station of future US President John F. Kennedy", "Located near Tulagi in the Central Province", "Features abandoned concrete structures and equipment", "Instrumental in disrupting Japanese naval supply lines", "A primary site for World War II historical exploration"],
     },
+    image: "/poi-images/solomonislands-pt-boat-base-sesapi-remnants-landmarks-v2.webp",
   },
   {
     id: "solomonislands-honiara-heritage-park-landmarks-v2",
@@ -1612,6 +1663,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Locația fostei Case a Guvernului în perioada colonială britanică", "Clădirea istorică a fost distrusă prin incendiere în anul 2000", "Redeschis ca parc de patrimoniu și hotel de lux după reconstrucție", "Găzduiește grădini botanice cu specii de plante tropicale rare", "Punct focal pentru recepții oficiale și vizite de stat", "Situat pe linia țărmului în centrul orașului Honiara"],
       en: ["Original site of the British Protectorate's Government House", "The main colonial building was destroyed in the year 2000", "Transformed into a luxury heritage hotel complex after 2007", "Features extensive botanical gardens covering several hectares", "Primary venue for international diplomatic events in Honiara", "Located on the waterfront of Point Cruz in the capital city"],
     },
+    image: "/poi-images/solomonislands-honiara-heritage-park-landmarks-v2.webp",
   },
   {
     id: "solomonislands-santa-ana-spirit-houses-landmarks-v2",
@@ -1643,6 +1695,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Cunoscute local sub denumirea de Awa-awa", "Adăpostesc oasele strămoșilor și ale șefilor de trib decedați", "Motivele predominante sunt rechinii, simboluri ale puterii", "Sunt construite folosind tehnici de legare cu fibre naturale", "Accesul este restricționat prin legi locale de tip tabu", "Sunt situate pe insula Owaraha din provincia Makira-Ulawa"],
       en: ["Locally referred to as Awa-awa in the indigenous dialect", "Used as mortuary houses for the skeletal remains of chiefs", "Features intricate carvings of sharks as protector spirits", "Traditional construction relies on lashings instead of nails", "Served as the primary site for male initiation ceremonies", "Located on the island of Owaraha (Santa Ana)"],
     },
+    image: "/poi-images/solomonislands-santa-ana-spirit-houses-landmarks-v2.webp",
   },
   {
     id: "solomonislands-tulagi-colonial-cemetery-landmarks-v2",
@@ -1674,6 +1727,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Tulagi a fost capitala insulelor între 1893 și 1942", "Cimitirul conține mormintele funcționarilor coloniali britanici", "Multe pietre funerare au fost aduse din Marea Britanie", "Zona a fost afectată de bătăliile din Pacific în 1942", "Cele mai vechi morminte datează de la sfârșitul anilor 1890", "Este situat pe dealurile centrale ale insulei Tulagi"],
       en: ["Tulagi served as the capital from 1893 to 1942", "The cemetery holds the remains of British Protectorate officials", "Many headstones were imported from overseas manufacturers", "The site was a battlefield during World War II in August 1942", "Contains records of deaths from malaria and other tropical ailments", "Located on a scenic ridge overlooking the Tulagi harbor"],
     },
+    image: "/poi-images/solomonislands-tulagi-colonial-cemetery-landmarks-v2.webp",
   },
   {
     id: "solomonislands-henderson-field-control-tower-landmarks-v2",
@@ -1705,6 +1759,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Numit în onoarea maiorului Lofton Henderson, căzut în luptă", "Capturat de forțele americane la data de 7 august 1942", "Baza de operațiuni pentru celebra unitate 'Cactus Air Force'", "Punctul critic al Campaniei de la Guadalcanal în 1942", "Astăzi este locația Aeroportului Internațional Honiara", "A fost inițial un aerodrom japonez numit Lunga Point"],
       en: ["Named after Major Lofton Henderson, a pilot killed at Midway", "Captured by U.S. Marines during the initial landings in 1942", "Home of the 'Cactus Air Force' during the Guadalcanal campaign", "Strategic objective of major naval and land battles in 1942-43", "Currently integrated into the Honiara International Airport site", "The first airbase built by the Japanese on Guadalcanal"],
     },
+    image: "/poi-images/solomonislands-henderson-field-control-tower-landmarks-v2.webp",
   },
   {
     id: "solomonislands-vona-vona-lagoon-monuments-landmarks-v2",
@@ -1736,6 +1791,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Găzduiește celebra Insulă a Craniilor (Nusa Kunda)", "Sanctuarele conțin craniile foștilor șefi de trib Roviana", "Monumentele sunt decorate cu plăci ceremoniale de scoici", "Include ofrande istorice de monedă tradițională din scoici", "Accesul vizitatorilor este reglementat de șefii locali de clan", "Laguna este situată în apropierea orașului Munda"],
       en: ["Home to the famous Skull Island (Nusa Kunda)", "Contains the skeletal remains of powerful Roviana chiefs", "Adorned with intricate Zazahoe shell carvings", "Skull houses served as spiritual power centers for clans", "Access is strictly controlled by traditional guardians", "Located within a vast network of coral reefs in Western Province"],
     },
+    image: "/poi-images/solomonislands-vona-vona-lagoon-monuments-landmarks-v2.webp",
   },
   {
     id: "solomonislands-all-saints-school-landmarks-v2",
@@ -1767,6 +1823,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Fondată de Misiunea Melaneziană a Bisericii Anglicane", "Este una dintre cele mai vechi instituții școlare din Honiara", "A educat numeroși lideri politici de după independența din 1978", "Recunoscută pentru rigoarea academică și educația creștină", "Centru de unitate culturală pentru elevi din toate provinciile", "Adăpostește structuri arhitecturale din perioada timpurie a misiunii"],
       en: ["Founded by the Anglican Melanesian Mission in the early 20th century", "One of the first formal schools established in Honiara", "Educated several prominent politicians and prime ministers", "Known for its strong focus on Christian moral teachings", "A key site for the development of a national identity", "Maintains several historic colonial-era school structures"],
     },
+    image: "/poi-images/solomonislands-all-saints-school-landmarks-v2.webp",
   },
   {
     id: "solomonislands-marist-training-center-landmarks-v2",
@@ -1798,6 +1855,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Administrat de Ordinul Fraților Mariști ai Bisericii Catolice", "Oferă programe de formare profesională în tâmplărie și mecanică", "Situat în proximitatea locului bătăliei istorice de la Tenaru (1942)", "Misionarii de aici au ajutat forțele aliate în timpul războiului", "Promovează tehnici de agricultură tropicală sustenabilă", "Centru de educație vocațională esențial pentru tinerii din provincii"],
       en: ["Established and operated by the Catholic Marist Brothers", "Focuses on vocational skills like mechanics and agriculture", "Adjacent to the historic site of the 1942 Battle of the Tenaru", "The Marist mission provided vital support during WWII", "Aims to improve local self-sufficiency through technical education", "Located in the Tenaru region, east of the capital Honiara"],
     },
+    image: "/poi-images/solomonislands-marist-training-center-landmarks-v2.webp",
   },
   {
     id: "solomonislands-fatima-monument-gizo-landmarks-v2",
@@ -1829,6 +1887,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Amplasată pe un deal strategic deasupra orașului Gizo", "Dedicată Fecioarei Maria de la Fatima, simbol al protecției", "Ofertă vederi panoramice asupra Insulei Kennedy și a recifelor", "Loc de pelerinaj major pentru catolicii din Provincia de Vest", "A supraviețuit simbolic dezastrului provocat de tsunami în 2007", "Punct de orientare esențial pentru navigația locală și turiști"],
       en: ["Located on a scenic hill overlooking Gizo township", "Dedicated to Our Lady of Fatima by the Catholic mission", "Features a panoramic view of Gizo harbor and Blackett Strait", "A central site for local Catholic feast day celebrations", "Symbolizes community resilience after the 2007 natural disaster", "One of the most photographed viewpoints in Western Province"],
     },
+    image: "/poi-images/solomonislands-fatima-monument-gizo-landmarks-v2.webp",
   },
   {
     id: "solomonislands-custom-house-santa-ana-landmarks-v2",
@@ -1860,6 +1919,7 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Adăpostește canoele sacre utilizate pentru pescuitul de bonito", "Este un spațiu guvernat de legi tabu, accesibil tradițional bărbaților", "Sculpturile de pe stâlpi reprezintă genealogia și spiritele clanului", "Locul unde se păstrează obiectele rituale și monedele de scoici", "Construcția folosește tehnici de legare fără elemente metalice", "Reprezintă centrul autorității tradiționale în satele din Santa Ana"],
       en: ["Used as a sacred storage facility for bonito fishing canoes", "Entry is traditionally restricted to men under 'kastom' law", "Features intricate carvings of ancestral spirits and sea life", "Acts as a communal court for settling tribal disputes", "Constructed using traditional lashings and sago palm leaf thatch", "Central to the initiation ceremonies of young men on Owaraha"],
     },
+    image: "/poi-images/solomonislands-custom-house-santa-ana-landmarks-v2.webp",
   },
   {
     id: "solomonislands-point-cruz-yacht-club-monument-landmarks-v2",
@@ -1891,5 +1951,6 @@ export const solomonislandsLandmarksV2: POI[] = [
       ro: ["Comemorează debarcarea lui Álvaro de Mendaña din anul 1568", "Numele Point Cruz provine de la crucea ridicată de spanioli", "Locul unde s-a dat numele arhipelagului (Insulele Solomon)", "Situat în incinta clubului nautic din centrul capitalei Honiara", "Expediția spaniolă a plecat din Peru pentru a găsi aur", "Punctul este nodul central al navigației moderne în Insulele Solomon"],
       en: ["Commemorates the 1568 landing of Spanish explorer Mendaña", "Named after the cross (cruz) erected by the Spanish crew", "Marks the naming of the islands after King Solomon", "Located at Point Cruz, the primary maritime hub of Honiara", "The plaque provides details of the first European contact", "Point Cruz Yacht Club is a major social landmark in the city"],
     },
+    image: "/poi-images/solomonislands-point-cruz-yacht-club-monument-landmarks-v2.webp",
   }
 ];

@@ -31,6 +31,7 @@ export const liberiaReliefV2: POI[] = [
       ro: ["Muntele Wuteve are 1.440 m altitudine.", "Este cel mai înalt vârf din Liberia.", "Vârful se află la 8° N, 9° V.", "Temperatura medie pe vârf este de 18 °C.", "Precipitațiile anuale depășesc 2.000 mm.", "Muntele este compus în principal din granit."],
       en: ["Mount Wuteve is 1,440 m high.", "It is the highest peak in Liberia.", "Summit coordinates: 8° N, 9° W.", "Average summit temperature is 18 °C.", "Annual rainfall exceeds 2,000 mm.", "The mountain is primarily composed of granite."],
     },
+    image: "/poi-images/liberia-mount-wuteve-relief-v2.webp",
   },
   {
     id: "liberia-nimba-highlands-relief-v2",
@@ -62,6 +63,7 @@ export const liberiaReliefV2: POI[] = [
       ro: ["Podisul Nimba se întinde pe 150 km.", "Cel mai înalt punct este Muntele Nimba (1.752 m).", "Format din roci precambriene.", "Rezervele de minereu de fier sunt estimate la 1 miliard de tone.", "Precipitațiile anuale sunt de 2.500 mm.", "Este habitatul maimuței colobe Nimba."],
       en: ["The Nimba Highlands extend 150 km.", "Highest point is Mount Nimba at 1,752 m.", "Composed of Precambrian rocks.", "Iron ore reserves estimated at 1 billion tons.", "Annual rainfall is 2,500 mm.", "It is home to the Nimba colobus monkey."],
     },
+    image: "/poi-images/liberia-nimba-highlands-relief-v2.webp",
   },
   {
     id: "liberia-monrovia-lowlands-relief-v2",
@@ -93,6 +95,7 @@ export const liberiaReliefV2: POI[] = [
       ro: ["Câmpia Monrovia se întinde pe 80 km de-a lungul coastei.", "Altitudinea maximă este de 50 m.", "Monrovia are aproximativ 1,5 milioane de locuitori.", "Râul Mesurado are 80 km lungime.", "Precipitațiile anuale sunt de 4.000 mm.", "Suprafața câmpiei este de aproximativ 2.400 km²."],
       en: ["The Monrovia Lowlands extend 80 km along the coast.", "Maximum elevation is 50 m.", "Monrovia has about 1.5 million inhabitants.", "The Mesurado River is 80 km long.", "Annual rainfall is 4,000 mm.", "The area covers approximately 2,400 km²."],
     },
+    image: "/poi-images/liberia-monrovia-lowlands-relief-v2.webp",
   },
   {
     id: "liberia-grand-gedeh-plateau-relief-v2",
@@ -124,6 +127,7 @@ export const liberiaReliefV2: POI[] = [
       ro: ["Podisul Grand Gedeh are altitudini între 200 și 500 m.", "Se întinde pe aproximativ 10.000 km².", "Râul Cavalla are 515 km lungime.", "Densitatea populației este de aproximativ 15 locuitori/km².", "Capitala regiunii este Zwedru, cu 25.000 de locuitori.", "Precipitațiile anuale sunt de 1.800 mm."],
       en: ["The Grand Gedeh Plateau lies at 200-500 m elevation.", "It covers approximately 10,000 km².", "The Cavalla River is 515 km long.", "Population density is about 15 people per km².", "The regional capital is Zwedru with 25,000 inhabitants.", "Annual rainfall is 1,800 mm."],
     },
+    image: "/poi-images/liberia-grand-gedeh-plateau-relief-v2.webp",
   },
   {
     id: "liberia-dukli-hills-relief-v2",
@@ -155,6 +159,7 @@ export const liberiaReliefV2: POI[] = [
       ro: ["Dealurile Dukli ating 600 m altitudine.", "Se întind pe 30 km.", "Cel mai apropiat oraș este Voinjama (15.000 locuitori).", "Rezervele de minereu de fier sunt estimate la 200 milioane de tone.", "Precipitațiile anuale sunt de 2.200 mm.", "Densitatea populației este de 20 locuitori/km²."],
       en: ["The Dukli Hills reach 600 m elevation.", "They extend 30 km.", "Nearest town is Voinjama with 15,000 people.", "Iron ore reserves estimated at 200 million tons.", "Annual rainfall is 2,200 mm.", "Population density is 20 people per km²."],
     },
+    image: "/poi-images/liberia-dukli-hills-relief-v2.webp",
   },
   {
     id: "liberia-cavalla-river-valley-relief-v2",
@@ -186,6 +191,7 @@ export const liberiaReliefV2: POI[] = [
       ro: ["Râul Cavalla are 515 km lungime.", "Valea se întinde pe 200 km.", "Lățimea văii este de 10-30 km.", "Altitudinea variază între 100 și 400 m.", "Precipitațiile anuale sunt de 2.000 mm.", "Rezervele de aur sunt estimate la 50.000 de uncii."],
       en: ["The Cavalla River is 515 km long.", "The valley extends 200 km in length.", "Valley width is 10-30 km.", "Elevation ranges from 100 to 400 m.", "Annual rainfall is 2,000 mm.", "Gold reserves estimated at 50,000 ounces."],
     },
+    image: "/poi-images/liberia-cavalla-river-valley-relief-v2.webp",
   },
   {
     id: "liberia-putu-range-relief-v2",
@@ -217,6 +223,7 @@ export const liberiaReliefV2: POI[] = [
       ro: ["Lanțul Putu are 50 km lungime.", "Cel mai înalt vârf are 700 m.", "Rezervele de fier sunt de 2,4 miliarde de tone.", "Proiectul Putu acoperă 100 km².", "Precipitațiile anuale sunt de 2.300 mm.", "Densitatea populației este sub 5 locuitori/km²."],
       en: ["The Putu Range extends 50 km.", "Highest peak is 700 m.", "Iron ore reserves are 2.4 billion tons.", "The Putu project covers 100 km².", "Annual rainfall is 2,300 mm.", "Population density is under 5 people per km²."],
     },
+    image: "/poi-images/liberia-putu-range-relief-v2.webp",
   },
   {
     id: "liberia-mesurado-lagoon-relief-v2",
@@ -248,6 +255,7 @@ export const liberiaReliefV2: POI[] = [
       ro: ["Laguna Mesurado are 20 km lungime.", "Lățimea maximă este de 5 km.", "Adâncimea medie este de 2,5 m.", "Suprafața lagunei este de 80 km².", "Precipitațiile anuale în regiune sunt de 4.000 mm.", "Diferența de maree este de 1 m."],
       en: ["Mesurado Lagoon is 20 km long.", "Maximum width is 5 km.", "Average depth is 2.5 m.", "The lagoon covers 80 km².", "Annual rainfall in the region is 4,000 mm.", "Tidal range is 1 m."],
     },
+    image: "/poi-images/liberia-mesurado-lagoon-relief-v2.webp",
   },
   {
     id: "liberia-lofa-highlands-relief-v2",
@@ -279,6 +287,7 @@ export const liberiaReliefV2: POI[] = [
       ro: ["Podișul Lofa atinge 1.440 m altitudine.", "Se întinde pe 150 km.", "Râul Lofa are 250 km lungime.", "Precipitațiile anuale sunt de 2.500 mm.", "Densitatea populației este de 15 locuitori/km².", "Zona este bogată în aur și diamante."],
       en: ["The Lofa Highlands reach 1,440 m.", "They extend 150 km.", "The Lofa River is 250 km long.", "Annual rainfall is 2,500 mm.", "Population density is 15 people per km².", "The area is rich in gold and diamond deposits."],
     },
+    image: "/poi-images/liberia-lofa-highlands-relief-v2.webp",
   },
   {
     id: "liberia-st-paul-gorge-relief-v2",
@@ -310,6 +319,7 @@ export const liberiaReliefV2: POI[] = [
       ro: ["Cheile râului St. Paul au 200 m adâncime.", "Lățimea minimă este de 20 m.", "Cheile se întind pe 5 km.", "Pereții sunt din gresie și cuarțit.", "Înălțimea dealurilor din jur este de 300 m.", "Debitul râului în sezonul ploios este de 1.000 m³/s."],
       en: ["The St. Paul River Gorge is 200 m deep.", "Width at narrowest point is 20 m.", "The gorge extends 5 km.", "Walls are sandstone and quartzite.", "Surrounding hills rise to 300 m.", "River discharge during rainy season is 1,000 m³/s."],
     },
+    image: "/poi-images/liberia-st-paul-gorge-relief-v2.webp",
   },
   {
     id: "liberia-man-mountain-relief-v2",
@@ -341,6 +351,7 @@ export const liberiaReliefV2: POI[] = [
       ro: ["Muntele Man are 800 m altitudine.", "Râul Mano are 250 km lungime.", "Rezervele de minereu de fier sunt estimate la 500 milioane de tone.", "Precipitațiile anuale sunt de 2.800 mm.", "Densitatea populației este de 10 locuitori/km².", "Muntele face parte din zona Mano River Union."],
       en: ["Man Mountain is 800 m high.", "The Mano River is 250 km long.", "Iron ore reserves estimated at 500 million tons.", "Annual rainfall is 2,800 mm.", "Population density is 10 people per km².", "The mountain is part of the Mano River Union area."],
     },
+    image: "/poi-images/liberia-man-mountain-relief-v2.webp",
   },
   {
     id: "liberia-cesteos-lowlands-relief-v2",
@@ -372,6 +383,7 @@ export const liberiaReliefV2: POI[] = [
       ro: ["Câmpia Cestos se întinde pe 100 km de-a lungul coastei.", "Râul Cestos are 200 km lungime.", "Altitudinea maximă este de 50 m.", "Precipitațiile anuale sunt de 3.000 mm.", "Densitatea populației este de 25 locuitori/km².", "Plantațiile de palmier de ulei acoperă 500 km²."],
       en: ["The Cestos Lowlands extend 100 km along the coast.", "The Cestos River is 200 km long.", "Maximum elevation is 50 m.", "Annual rainfall is 3,000 mm.", "Population density is 25 people per km².", "Oil palm plantations cover 500 km²."],
     },
+    image: "/poi-images/liberia-cesteos-lowlands-relief-v2.webp",
   },
   {
     id: "liberia-kpo-range-relief-v2",
@@ -403,6 +415,7 @@ export const liberiaReliefV2: POI[] = [
       ro: ["Lanțul Kpo se întinde pe 40 km.", "Cel mai înalt vârf are 600 m.", "Precipitațiile anuale sunt de 2.400 mm.", "Densitatea populației este de 8 locuitori/km².", "Populația de hipopotami pigmei este estimată la 200 de exemplare.", "Gresia este exploatată pentru construcții."],
       en: ["The Kpo Range extends 40 km.", "Highest peak is 600 m.", "Annual rainfall is 2,400 mm.", "Population density is 8 people per km².", "Pygmy hippo population estimated at 200 individuals.", "Sandstone is quarried for construction."],
     },
+    image: "/poi-images/liberia-kpo-range-relief-v2.webp",
   },
   {
     id: "liberia-bomi-hills-relief-v2",
@@ -434,6 +447,7 @@ export const liberiaReliefV2: POI[] = [
       ro: ["Dealurile Bomi ating 400 m altitudine.", "Exploatarea minereului de fier a început în anii 1960.", "Mina producea 5 milioane de tone de minereu anual.", "Dealurile se întind pe 20 km.", "Densitatea populației este de 30 locuitori/km².", "Precipitațiile anuale sunt de 2.100 mm."],
       en: ["The Bomi Hills reach 400 m elevation.", "Iron ore mining began in the 1960s.", "The mine produced 5 million tons of ore annually.", "The hills extend 20 km.", "Population density is 30 people per km².", "Annual rainfall is 2,100 mm."],
     },
+    image: "/poi-images/liberia-bomi-hills-relief-v2.webp",
   },
   {
     id: "liberia-gola-forest-hills-relief-v2",
@@ -465,6 +479,7 @@ export const liberiaReliefV2: POI[] = [
       ro: ["Suprafață defrișată în anii 1960: 120 km²", "Producție de cauciuc: 500 tone/an (1965)", "Populație umană: 7.000 locuitori", "Culturi principale: manioc (40%), orez (30%)", "Mine de diamante active: 3", "Arii protejate propuse: 200 km²"],
       en: ["Watershed area: 380 km²", "Rivers originating: Mano, Lofa, Morro, Mafa", "Annual runoff: 2.5 billion m³", "Forest cover loss since 2000: 8%", "Community forests: 6", "Key timber species: Tiama, Sapele"],
     },
+    image: "/poi-images/liberia-gola-forest-hills-relief-v2.webp",
   },
   {
     id: "liberia-du-river-floodplain-relief-v2",
@@ -496,6 +511,7 @@ export const liberiaReliefV2: POI[] = [
       ro: ["Pondere teren inundat: 70%", "Canaluri de irigație: 45 km", "Producție de orez: 12.000 tone/an", "Pescuit anual: 300 tone", "Pierdere păduri riverane: 20%", "Proiecte de reîmpădurire: 3"],
       en: ["Rice production share: 15%", "Flood peak discharge: 500 m³/s", "Erosion rate: 0.5 cm/year", "Clay extraction: 5.000 tone/year", "Wetland area: 400 km²", "Annual rainfall: 2.800 mm"],
     },
+    image: "/poi-images/liberia-du-river-floodplain-relief-v2.webp",
   },
   {
     id: "liberia-krahn-bassa-hills-relief-v2",
@@ -527,6 +543,7 @@ export const liberiaReliefV2: POI[] = [
       ro: ["Aur extras anual: 50 kg", "Număr mineri artizanali: 2.000", "Plantații cauciuc: 30 km²", "Producție cauciuc: 400 tone/an", "Arie protejată propusă: 150 km²", "Acces rutier: 20 km asfalt"],
       en: ["Watershed area: 700 km²", "Primate species: 8", "Cassava yield: 5 t/ha", "Gold panning sites: 15", "Soil organic matter: 2%", "Shifting cultivation cycle: 10 years"],
     },
+    image: "/poi-images/liberia-krahn-bassa-hills-relief-v2.webp",
   },
   {
     id: "liberia-st-john-valley-relief-v2",
@@ -558,6 +575,7 @@ export const liberiaReliefV2: POI[] = [
       ro: ["Cafea liberica termelés: 2.000 tone/an", "Irigații: 100 km de canale", "Bărci de transport: 300", "Inundații pe an: 2-3", "Proiect de baraj: 15 MW", "Comerț istoric: sclavi (1700-1800)"],
       en: ["Cocoa production share: 20%", "Hydroelectric potential: 50 MW", "Iron ore grade: 40% Fe", "Ecotourist visits per year: 500", "Forest cover: 60%", "Annual runoff: 3 billion m³"],
     },
+    image: "/poi-images/liberia-st-john-valley-relief-v2.webp",
   },
   {
     id: "liberia-monrovia-peninsula-relief-v2",
@@ -589,6 +607,7 @@ export const liberiaReliefV2: POI[] = [
       ro: ["Anul fondării: 1822", "Port trafic: 10 milioane tone/an", "Ambasade: 25", "Inundații anuale: 5", "Drenaj: 50 km de canale", "Populație urbană: 1,1 milioane"],
       en: ["Port share of trade: 90%", "Storm surge height: 3 m", "Mangrove loss: 30% since 1990", "Coastal defenses: 5 km", "Migratory bird species: 60", "Sediment supply: 100.000 m³/year"],
     },
+    image: "/poi-images/liberia-monrovia-peninsula-relief-v2.webp",
   },
   {
     id: "liberia-voinjama-highlands-relief-v2",
@@ -620,6 +639,7 @@ export const liberiaReliefV2: POI[] = [
       ro: ["Aur extras anual: 100 kg", "Poluare cu mercur: 5 kg/an", "Tăieri ilegale: 2.000 ha/év", "Agricultură terasă: 50 km²", "Trasee de drumeție: 30 km", "Arii protejate: 0 km²"],
       en: ["Mount Wuteve height: 1.440 m", "Population density: 10/km²", "Hydropower potential: 30 MW", "Endemic plant species: 20", "Deforestation rate: 1%/year", "Orographic rainfall increase: 30%"],
     },
+    image: "/poi-images/liberia-voinjama-highlands-relief-v2.webp",
   },
   {
     id: "liberia-sapo-lowlands-relief-v2",
@@ -651,6 +671,7 @@ export const liberiaReliefV2: POI[] = [
       ro: ["Explorări petroliere: 3 foraje", "Plantații cauciuc propuse: 100 km²", "Inundații pe an: 6", "Râul Sinoe lungime: 150 km", "Sate: 20", "Drumuri asfaltate: 0 km"],
       en: ["Park established: 1983", "Carbon stock: 250 t/ha", "Illegal logging rate: 5% per year", "Annual visitors: 200", "Community projects: 4", "Rainfall intensity: 10.000 mm/year in some areas"],
     },
+    image: "/poi-images/liberia-sapo-lowlands-relief-v2.webp",
   },
   {
     id: "liberia-mamba-point-relief-v2",
@@ -682,6 +703,7 @@ export const liberiaReliefV2: POI[] = [
       ro: ["Bancnotă de 100 LRD", "Hoteluri: 5", "Restaurante: 10", "Port vedere: 2 km", "Evenimente culturale: 12/év", "Turisti pe an: 20.000"],
       en: ["Lighthouse built: 1920", "Fossil species: 15", "Cliff stabilization: 2 km", "Storm surge attenuation: 30%", "Photography spots: 5", "City elevation: 15 m"],
     },
+    image: "/poi-images/liberia-mamba-point-relief-v2.webp",
   },
   {
     id: "liberia-lofa-river-valley-relief-v2",
@@ -713,6 +735,7 @@ export const liberiaReliefV2: POI[] = [
       ro: ["Cafea robusta: 4.000 tone/an", "Orezării irigate: 120 km²", "Strămutați de război: 50.000", "Drumuri reconstruite: 100 km", "Proiecte rurale: 10", "Populație dependentă de agricultură: 90%"],
       en: ["Coffee production share: 30%", "Hydropower capacity: 5 MW", "Navigable length: 50 km", "Soil erosion rate: 15 t/ha/year", "Ethnic groups: 3 main", "Bopolu dam height: 15 m"],
     },
+    image: "/poi-images/liberia-lofa-river-valley-relief-v2.webp",
   },
   {
     id: "liberia-kakata-plains-relief-v2",
@@ -744,6 +767,7 @@ export const liberiaReliefV2: POI[] = [
       ro: ["Plantații cauciuc: 100 km²", "Cauciuc natural: 10.000 tone/an", "Drum principal: 50 km asfalt", "Bătălii civile: 3", "Irigații planificate: 50 km²", "Agricultură de subzistență: 80%"],
       en: ["Rubber plantation size: 120 km²", "CARI founded: 1965", "Soil pH: 4.8", "Dry season months: 4", "Rice yield: 2 t/ha", "Cassava yield: 8 t/ha"],
     },
+    image: "/poi-images/liberia-kakata-plains-relief-v2.webp",
   },
   {
     id: "liberia-mano-valley-relief-v2",
@@ -775,6 +799,7 @@ export const liberiaReliefV2: POI[] = [
       ro: ["Diamante de sânge (1990): 50.000 carate", "Kimberley reglementare: 2003", "Mineri artizanali: 5.000", "Hidro potential: 15 MW", "Graniță naturală: 150 km", "Pescuit: 3.000 tone/an"],
       en: ["Mano Dam capacity: 10 MW", "Rainfall: 3.200 mm/year", "Iron ore reserves: 500 Mt", "Illegal mining sites: 20", "Watershed area: 4.000 km²", "Border length: 150 km"],
     },
+    image: "/poi-images/liberia-mano-valley-relief-v2.webp",
   },
   {
     id: "liberia-piso-lake-basin-relief-v2",
@@ -806,6 +831,7 @@ export const liberiaReliefV2: POI[] = [
       ro: ["Pescuit sportiv: 200 turiști/an", "Ulei de palmier comerț: 100 tone/an (istoric)", "Transport pe lac: 50 bărci", "Calitate apă: turbiditate 20 NTU", "Parcul național propus: 200 km²", "Râul Lofa debit: 50 m³/s"],
       en: ["Fisheries output: 500 t/year", "Siltation rate: 2 cm/year", "Hydro potential: 2 MW", "Catchment area: 1.500 km²", "Bird species: 120", "African fish eagle sightings: frequent"],
     },
+    image: "/poi-images/liberia-piso-lake-basin-relief-v2.webp",
   },
   {
     id: "liberia-monrovia-coastal-plain-relief-v2",
@@ -837,5 +863,6 @@ export const liberiaReliefV2: POI[] = [
       ro: ["Port: 10 mil. tone/an", "Fabrici: 20", "Inundații anuale: 4", "Canale de drenaj: 30 km", "Mahalale: 50", "Proiecte zone umede: 3"],
       en: ["Metropolitan population: 1.5M", "Liquefaction risk: high", "Wetland area: 12 km²", "Migratory bird species: 40", "Industrial waste discharge: 5.000 m³/day", "Port expansion: 2 km²"],
     },
+    image: "/poi-images/liberia-monrovia-coastal-plain-relief-v2.webp",
   }
 ];

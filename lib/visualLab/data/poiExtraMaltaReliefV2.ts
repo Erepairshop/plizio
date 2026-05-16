@@ -32,6 +32,7 @@ export const maltaReliefV2: POI[] = [
       ro: ["Lungime: aprox. 5 km", "Înălțime: până la 150 m", "Rocă: calcar coralifer (miocen)", "Vegetație: macchie", "Arheologie: feniciană, romană", "Statut de protecție: Natura 2000"],
       en: ["Length: approx. 5 km", "Height: up to 150 m", "Rock: coral limestone (Miocene)", "Vegetation: maquis", "Archaeology: Phoenician, Roman", "Protected status: Natura 2000"],
     },
+    image: "/poi-images/malta-tal-balal-ridge-relief-v2.webp",
   },
   {
     id: "malta-wardija-highland-relief-v2",
@@ -64,6 +65,7 @@ export const maltaReliefV2: POI[] = [
       ro: ["Suprafață: aprox. 8 km²", "Înălțime: până la 120 m", "Roci: calcar, marnă", "Agricultură: livezi de măslini, terase", "Observarea păsărilor: populară", "Turnuri istorice: perioada cavalerilor"],
       en: ["Area: approx. 8 km²", "Height: up to 120 m", "Rock: limestone, marl", "Agriculture: olive groves, terraces", "Birdwatching: popular", "Historic towers: Knights period"],
     },
+    image: "/poi-images/malta-wardija-highland-relief-v2.webp",
   },
   {
     id: "malta-ta-cenc-plateau-relief-v2",
@@ -96,6 +98,7 @@ export const maltaReliefV2: POI[] = [
       ro: ["Suprafață: aprox. 3 km²", "Înălțime: până la 140 m", "Stânci: până la 100 m deasupra mării", "Rocă: calcar globigerinic", "Păsări: zonă de cuibărit pentru păsări marine", "Preistoric: ruine de temple"],
       en: ["Area: approx. 3 km²", "Height: up to 140 m", "Cliffs: up to 100 m above sea", "Rock: globigerina limestone", "Birds: breeding area for seabirds", "Prehistoric: temple remains"],
     },
+    image: "/poi-images/malta-ta-cenc-plateau-relief-v2.webp",
   },
   {
     id: "malta-il-qortin-ridge-relief-v2",
@@ -128,6 +131,7 @@ export const maltaReliefV2: POI[] = [
       ro: ["Lungime: aprox. 4 km", "Înălțime: până la 130 m", "Rocă: calcar coralifer", "Vegetație: macchie", "Priveliște: Golful Mellieħa", "Vila romană: ruine"],
       en: ["Length: approx. 4 km", "Height: up to 130 m", "Rock: coral limestone", "Vegetation: maquis", "View: Mellieħa Bay", "Roman villa: remains"],
     },
+    image: "/poi-images/malta-il-qortin-ridge-relief-v2.webp",
   },
   {
     id: "malta-ta-gordan-hill-relief-v2",
@@ -160,6 +164,7 @@ export const maltaReliefV2: POI[] = [
       ro: ["Înălțime de aproximativ 160 de metri", "Locația farului construit în 1851", "Domină peisajul regiunii Għarb", "Geologie calcaroasă specifică insulei Gozo"],
       en: ["Elevation approximately 160 meters", "Site of the lighthouse built in 1851", "Dominates the landscape of Għarb", "Limestone geology typical of Gozo"],
     },
+    image: "/poi-images/malta-ta-gordan-hill-relief-v2.webp",
   },
   {
     id: "malta-ix-xaghra-ta-l-iskorba-relief-v2",
@@ -192,6 +197,7 @@ export const maltaReliefV2: POI[] = [
       ro: ["Altitudine deasupra nivelului mării: aprox. 120 metri", "Suprafață: circa 0,5 kilometri pătrați", "Vârsta straturilor de rocă: 5-23 milioane de ani (Miocen)", "Număr de specii fosile documentate: peste 30", "Cod Natura 2000: MT0000012", "Distanța până la cea mai apropiată așezare: 2 kilometri"],
       en: ["Elevation above sea level: approximately 120 meters", "Area: about 0.5 square kilometers", "Age of rock layers: 5-23 million years (Miocene)", "Number of documented fossil species: over 30", "Natura 2000 code: MT0000012", "Distance to nearest settlement: 2 kilometers"],
     },
+    image: "/poi-images/malta-ix-xaghra-ta-l-iskorba-relief-v2.webp",
   },
   {
     id: "malta-ras-il-wahx-cliffs-relief-v2",
@@ -224,6 +230,7 @@ export const maltaReliefV2: POI[] = [
       ro: ["Înălțimea maximă a stâncilor: 80 de metri", "Vârsta rocii: aproximativ 28 de milioane de ani (Oligocen)", "Lungimea liniei de stâncă: circa 1,5 kilometri", "Număr de perechi cuibăritoare de pufin mediteranean: peste 200", "Rata medie de eroziune: 0,5 cm pe an", "Adâncimea apei direct în fața stâncilor: până la 30 de metri"],
       en: ["Maximum cliff height: 80 meters", "Rock age: approximately 28 million years (Oligocene)", "Length of cliff line: about 1.5 kilometers", "Number of breeding pairs of Mediterranean shearwater: over 200", "Average erosion rate: 0.5 cm per year", "Water depth directly in front of cliffs: up to 30 meters"],
     },
+    image: "/poi-images/malta-ras-il-wahx-cliffs-relief-v2.webp",
   },
   {
     id: "malta-il-bidnija-ridge-relief-v2",
@@ -256,6 +263,7 @@ export const maltaReliefV2: POI[] = [
       ro: ["Lungimea crestei: 4 kilometri", "Înălțime maximă: 150 de metri deasupra nivelului mării", "Lățimea crestei: 200-400 de metri", "Vârsta calcarului coralifer: 20-25 de milioane de ani", "Număr de terase agricole: peste 100", "Distanța până la golful Mellieħa: 3 kilometri"],
       en: ["Ridge length: 4 kilometers", "Maximum elevation: 150 meters above sea level", "Ridge width: 200-400 meters", "Age of coralline limestone: 20-25 million years", "Number of terraced fields: over 100", "Distance to Mellieħa Bay: 3 kilometers"],
     },
+    image: "/poi-images/malta-il-bidnija-ridge-relief-v2.webp",
   },
   {
     id: "malta-ta-cieda-hill-relief-v2",
@@ -288,6 +296,7 @@ export const maltaReliefV2: POI[] = [
       ro: ["Turn circular din epoca punică", "Diametrul exterior de 11 metri", "Cercetări arheologice din 1960", "Datat în secolul III î.Hr.", "Situat în localitatea San Gwann", "Blocuri masive de piatră locală"],
       en: ["Punic-Roman tower ruins", "11-meter diameter structure", "Excavated in the early 1960s", "Dates back to the 3rd century BC", "Located within San Gwann limits", "Strategic defensive observation post"],
     },
+    image: "/poi-images/malta-ta-cieda-hill-relief-v2.webp",
   },
   {
     id: "malta-il-ghazzenin-ridge-relief-v2",
@@ -320,6 +329,7 @@ export const maltaReliefV2: POI[] = [
       ro: ["Lungimea crestei: 2,8 kilometri", "Înălțime: 80-120 de metri", "Lățime: 50-150 de metri", "Precipitații anuale: 550 mm", "Număr de specii de plante endemice: 5", "Temperatura medie în august: 30°C"],
       en: ["Ridge length: 2.8 kilometers", "Height: 80-120 meters", "Width: 50-150 meters", "Annual rainfall: 550 mm", "Number of endemic plant species: 5", "Average temperature in August: 30°C"],
     },
+    image: "/poi-images/malta-il-ghazzenin-ridge-relief-v2.webp",
   },
   {
     id: "malta-ta-pinu-hill-relief-v2",
@@ -352,6 +362,7 @@ export const maltaReliefV2: POI[] = [
       ro: ["Sanctuar Național al Maicii Domnului", "Construcția bazilicii: 1920-1931", "Turnul clopotniță are 47 metri", "Vizitat de Papa Ioan Paul al II-lea", "Prima capelă atestată în 1534", "Situat în apropierea satului Gharb"],
       en: ["National Shrine of the Blessed Virgin", "Basilica built between 1920 and 1931", "47-meter high campanile", "Visited by Pope John Paul II in 1990", "Site of miraculous healing reports", "Located on the island of Gozo"],
     },
+    image: "/poi-images/malta-ta-pinu-hill-relief-v2.webp",
   },
   {
     id: "malta-il-ghallies-plateau-relief-v2",
@@ -384,6 +395,7 @@ export const maltaReliefV2: POI[] = [
       ro: ["Altitudine: 200 de metri deasupra nivelului mării", "Suprafață: 2,3 kilometri pătrați", "Număr de turbine eoliene: 4", "Puterea turbinelor eoliene: 8 MW total", "Adâncimea văilor uscate: până la 60 de metri", "Densitatea populației: 0 locuitori (ne locuit)"],
       en: ["Elevation: 200 meters above sea level", "Area: 2.3 square kilometers", "Number of wind turbines: 4", "Wind turbine capacity: 8 MW total", "Depth of dry valleys: up to 60 meters", "Population density: 0 (uninhabited)"],
     },
+    image: "/poi-images/malta-il-ghallies-plateau-relief-v2.webp",
   },
   {
     id: "malta-ta-cinc-hill-relief-v2",
@@ -416,6 +428,7 @@ export const maltaReliefV2: POI[] = [
       ro: ["Localizat în vestul insulei Gozo", "Structură din calcar coralifer", "Aproape de satul San Lawrenz", "Relief carstic reprezentativ", "Utilizat pentru păstoritul local", "Panoramă spre Marea Mediterană"],
       en: ["Located in western Gozo island", "Formed from Upper Coralline Limestone", "Near the village of San Lawrenz", "Exhibits karst topographical features", "Sparse Mediterranean scrub vegetation", "Overlooks the western coastline"],
     },
+    image: "/poi-images/malta-ta-cinc-hill-relief-v2.webp",
   },
   {
     id: "malta-il-mistra-ridge-relief-v2",
@@ -448,6 +461,7 @@ export const maltaReliefV2: POI[] = [
       ro: ["Lungime: 1,8 kilometri", "Înălțime maximă: 90 de metri", "Număr de doline: 7", "Distanța până la Comino: 2 kilometri (linie dreaptă)", "Suprafața carstică: 0,3 kilometri pătrați", "Anul construcției fortului: 1880"],
       en: ["Length: 1.8 kilometers", "Maximum height: 90 meters", "Number of sinkholes: 7", "Distance to Comino: 2 kilometers (as crow flies)", "Karst area: 0.3 square kilometers", "Year of fort construction: 1880"],
     },
+    image: "/poi-images/malta-il-mistra-ridge-relief-v2.webp",
   },
   {
     id: "malta-ras-il-pellegrin-relief-v2",
@@ -480,6 +494,7 @@ export const maltaReliefV2: POI[] = [
       ro: ["Suprafața platoului: 1,1 kilometri pătrați", "Înălțimea stâncilor: până la 60 de metri", "Număr de bazine de apă temporare: 12", "Altitudine deasupra nivelului mării: 80-100 de metri", "Distanța până la cel mai apropiat oraș (Mġarr): 5 kilometri", "Număr de turnuri de pază istorice: 2"],
       en: ["Plateau area: 1.1 square kilometers", "Cliff height: up to 60 meters", "Number of temporary water pools: 12", "Elevation above sea level: 80-100 meters", "Distance to nearest town (Mġarr): 5 kilometers", "Number of historical watchtowers: 2"],
     },
+    image: "/poi-images/malta-ras-il-pellegrin-relief-v2.webp",
   },
   {
     id: "malta-ta-l-aghara-hill-relief-v2",
@@ -512,6 +527,7 @@ export const maltaReliefV2: POI[] = [
       ro: ["Parte a peisajului deluros din Gozo", "Versanți terasați pentru conservarea solului", "Soluri predominant uscate și carstice", "Utilizat pentru agricultură locală"],
       en: ["Part of the characteristic Gozo landscape", "Terraced slopes for soil conservation", "Predominantly dry, karstic soils", "Used for local agricultural cultivation"],
     },
+    image: "/poi-images/malta-ta-l-aghara-hill-relief-v2.webp",
   },
   {
     id: "malta-il-ghaxaq-ridge-relief-v2",
@@ -544,6 +560,7 @@ export const maltaReliefV2: POI[] = [
       ro: ["Înălțime maximă: 50 de metri", "Lungime: 3,1 kilometri", "Recolta anuală de cartofi: aproximativ 5.000 de tone", "Lungimea totală a zidurilor de piatră: peste 50 de kilometri", "Dimensiunea medie a parcelei agricole: 0,2 hectare", "Populația localității Għaxaq: 4.800 (2021)"],
       en: ["Maximum height: 50 meters", "Length: 3.1 kilometers", "Annual potato harvest: approx. 5,000 tons", "Total length of stone walls: over 50 kilometers", "Average field size: 0.2 hectares", "Population of Għaxaq locality: 4,800 (2021)"],
     },
+    image: "/poi-images/malta-il-ghaxaq-ridge-relief-v2.webp",
   },
   {
     id: "malta-ta-duna-hill-relief-v2",
@@ -576,6 +593,7 @@ export const maltaReliefV2: POI[] = [
       ro: ["Situat pe platoul central maltez", "În vecinătatea orașului Rabat", "Aproape de linia Victoria Lines", "Sol fertil în zonele adiacente", "Punct de observație spre Mdina", "Formațiuni geologice de tip carst"],
       en: ["Located on the central Maltese plateau", "Situated in the vicinity of Rabat", "Near the historic Victoria Lines", "Surrounded by fertile agricultural land", "Strategic view over central Malta", "Composed of sedimentary limestone"],
     },
+    image: "/poi-images/malta-ta-duna-hill-relief-v2.webp",
   },
   {
     id: "malta-il-qlajja-hill-relief-v2",
@@ -608,6 +626,7 @@ export const maltaReliefV2: POI[] = [
       ro: ["Caracterizat geologic prin calcar globigerinic", "Culme modelată prin eroziune naturală", "Poziție topografică strategică", "Parte a peisajului carstic maltez"],
       en: ["Geologically defined by Globigerina limestone", "Summit shaped by natural erosion", "Strategically located elevation", "Component of the Maltese karst landscape"],
     },
+    image: "/poi-images/malta-il-qlajja-hill-relief-v2.webp",
   },
   {
     id: "malta-ta-randu-hill-relief-v2",
@@ -640,6 +659,7 @@ export const maltaReliefV2: POI[] = [
       ro: ["Ridicătură mică în zonă rurală", "Floră mediteraneană adaptată", "Peisaj terasat istoric", "Structură calcaroasă tipică insulei"],
       en: ["Small elevation in rural zone", "Adapted Mediterranean flora", "Historically terraced landscape", "Typical limestone base of the island"],
     },
+    image: "/poi-images/malta-ta-randu-hill-relief-v2.webp",
   },
   {
     id: "malta-il-ghollieqa-ridge-relief-v2",
@@ -672,5 +692,6 @@ export const maltaReliefV2: POI[] = [
       ro: ["Lungime: 5,2 kilometri", "Cel mai înalt punct: 130 de metri", "Număr de specii de păsări de pradă documentate: 15", "Precipitații anuale: 600 mm", "Suprafața de apariție a marnei: 0,8 kilometri pătrați", "Număr de pâraie temporare: 4"],
       en: ["Length: 5.2 kilometers", "Highest point: 130 meters", "Number of documented raptor species: 15", "Annual rainfall: 600 mm", "Area of marl outcrop: 0.8 square kilometers", "Number of temporary streams: 4"],
     },
+    image: "/poi-images/malta-il-ghollieqa-ridge-relief-v2.webp",
   }
 ];

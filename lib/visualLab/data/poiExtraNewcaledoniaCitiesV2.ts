@@ -31,6 +31,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["A fost fondat în 1854 sub numele de Port-de-France.", "A fost redenumit oficial Nouméa în anul 1866.", "Populația orașului depășește 94.000 de locuitori.", "Găzduiește sediul Secretariatului Comunității Pacificului.", "Include Centrul Cultural Tjibaou, proiectat de Renzo Piano.", "Deține un port strategic pentru industria minieră de nichel."],
       en: ["Founded in 1854 as Port-de-France.", "Renamed to Nouméa in 1866 to avoid confusion.", "The city's population exceeds 94,000 residents.", "Home to the headquarters of the Pacific Community.", "Features the Tjibaou Cultural Centre, designed by Renzo Piano.", "Hosts a major deep-water port for international trade."],
     },
+    image: "/poi-images/newcaledonia-noumea-cities-v2.webp",
   },
   {
     id: "newcaledonia-dumbea-cities-v2",
@@ -62,6 +63,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Este una dintre cele mai mari comune ca suprafață din teritoriu.", "Populația a crescut la peste 35.000 de locuitori până în 2019.", "Râul Dumbéa este o destinație populară pentru recreere.", "Primul baraj de pe râu a fost construit în anul 1892.", "Găzduiește Parcul Regional Dumbéa, cu numeroase trasee.", "Se află la aproximativ 15 kilometri nord-vest de Nouméa."],
       en: ["It is one of the largest municipalities by area in New Caledonia.", "The population increased to over 35,000 by 2019.", "The Dumbéa River is a popular spot for outdoor activities.", "The first dam in the area was constructed in 1892.", "Home to the Dumbea Regional Park with various hiking trails.", "Located approximately 15 kilometers northwest of Nouméa."],
     },
+    image: "/poi-images/newcaledonia-dumbea-cities-v2.webp",
   },
   {
     id: "newcaledonia-paita-cities-v2",
@@ -93,6 +95,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Găzduiește Aeroportul Internațional La Tontouta.", "Comuna a fost înființată oficial în anul 1870.", "Este celebră pentru festivalul anual al boului (Fête du Boeuf).", "Populația depășește în prezent 24.000 de locuitori.", "Situată la aproximativ 25 de kilometri nord-vest de Nouméa.", "A servit ca bază aeriană americană în timpul celui de-al Doilea Război Mondial."],
       en: ["Home to the La Tontouta International Airport.", "The municipality was officially established in 1870.", "Famous for the annual Beef Festival (Fête du Boeuf).", "The population has grown to over 24,000 residents.", "Located about 25 kilometers northwest of Nouméa.", "Served as a US air base during World War II."],
     },
+    image: "/poi-images/newcaledonia-paita-cities-v2.webp",
   },
   {
     id: "newcaledonia-kone-cities-v2",
@@ -124,6 +127,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Este reședința administrativă a Provinciei de Nord.", "Uzina Koniambo a început producția industrială în anul 2013.", "Orașul este situat pe coasta de vest a insulei Grande Terre.", "Găzduiește aeroportul Koné pentru zboruri interne.", "Se află în apropierea faimosului 'Inimă de la Voh'.", "Populația s-a dublat de la recensământul din 1990."],
       en: ["Served as the administrative capital of the North Province.", "The Koniambo plant started production in 2013.", "The city is located on the west coast of Grande Terre island.", "Home to the Koné Airport for domestic regional flights.", "Nearby is the famous 'Heart of Voh' mangrove formation.", "The population has more than doubled since 1990."],
     },
+    image: "/poi-images/newcaledonia-kone-cities-v2.webp",
   },
   {
     id: "newcaledonia-bourail-cities-v2",
@@ -155,6 +159,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["A doua cea mai mare comună agricolă din Noua Caledonie.", "Găzduiește un cimitir militar neozeelandez din al Doilea Război Mondial.", "Roche Percée este o formațiune stâncoasă emblematică de pe coastă.", "Domeniul Gouaro Deva se întinde pe mai mult de 8.000 de hectare.", "Găzduiește anual Târgul Agricol din Bourail, cel mai mare din țară.", "Plaja Turtle Bay este un loc de cuibărit pentru țestoasele marine."],
       en: ["Second largest agricultural municipality in New Caledonia.", "Home to a New Zealand war cemetery from World War II.", "Roche Percée is a distinctive rock formation on the coast.", "The Gouaro Deva domain covers over 8,000 hectares of nature.", "Hosts the annual Bourail Agricultural Fair, a major local event.", "Turtle Bay beach is a nesting site for sea turtles."],
     },
+    image: "/poi-images/newcaledonia-bourail-cities-v2.webp",
   },
   {
     id: "newcaledonia-koumac-cities-v2",
@@ -186,6 +191,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Peșterile Koumac se întind pe o lungime de 3,5 kilometri.", "A fost în trecut un centru important pentru mineritul de crom.", "Deține un port de agrement modern pe coasta de vest.", "Comuna are o suprafață de aproximativ 550 km².", "Găzduiește aerodromul Koumac pentru conexiuni regionale.", "Este un punct de plecare pentru explorarea recifelor din nord."],
       en: ["The Koumac caves extend over 3.5 kilometers in length.", "Formerly a major center for chrome and nickel mining.", "Features a significant marina on the west coast.", "The municipality covers an area of about 550 square kilometers.", "Home to the Koumac Airfield for regional connections.", "Serves as a gateway to exploring the northern reefs."],
     },
+    image: "/poi-images/newcaledonia-koumac-cities-v2.webp",
   },
   {
     id: "newcaledonia-poindimie-cities-v2",
@@ -217,6 +223,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Cea mai mare comună de pe coasta de est a insulei Grande Terre.", "Găzduiește cel mai mare liceu de pe coasta de est.", "O destinație populară pentru scufundări datorită recifelor Tiéti.", "Organizează anual 'Fête de la Mer' pentru a celebra marea.", "Situată la aproximativ 300 de kilometri nord-est de Nouméa.", "Comunitatea este formată din 28 de triburi Kanak distincte."],
       en: ["Largest municipality on the east coast of Grande Terre.", "Home to the largest secondary school (Lycée) on the east coast.", "A popular destination for scuba diving at the Tiéti reefs.", "Hosts the annual 'Fête de la Mer' celebrating maritime culture.", "Located approximately 300 kilometers northeast of Nouméa.", "The municipality comprises 28 different Kanak tribes."],
     },
+    image: "/poi-images/newcaledonia-poindimie-cities-v2.webp",
   },
   {
     id: "newcaledonia-houailou-cities-v2",
@@ -248,6 +255,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Găzduiește în fiecare decembrie festivalul litchiului.", "A fost unul dintre primele locuri de extracție a nichelului.", "Comuna se întinde pe o suprafață de 940 km².", "Găzduiește un liceu tehnic important pentru regiune.", "Cascada Ba este o atracție naturală locală renumită.", "Accesul se face prin pasul montan pitoresc 'Col des Roussettes'."],
       en: ["Hosts the annual Lychee Festival every December.", "One of the earliest sites for nickel mining in New Caledonia.", "The municipality covers an area of 940 square kilometers.", "Home to a significant technical vocational school.", "The Ba waterfall is a prominent local natural landmark.", "Accessible via the scenic and winding 'Col des Roussettes' pass."],
     },
+    image: "/poi-images/newcaledonia-houailou-cities-v2.webp",
   },
   {
     id: "newcaledonia-canala-cities-v2",
@@ -279,6 +287,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Comuna a fost numită inițial Napoléonville.", "Găzduiește izvoare termale în localitatea La Crouen.", "Cascada Ciu este una dintre cele mai înalte din insulă.", "Nichelul este extras aici încă de la sfârșitul secolului XIX.", "Regiunea este bogată în livezi de fructe tropicale.", "Este situată în capătul unui golf adânc, similar unui fiord."],
       en: ["The municipality was formerly named Napoléonville.", "Home to thermal springs in the village of La Crouen.", "The Ciu waterfall is one of the highest on the island.", "Nickel has been mined here since the late 19th century.", "The region is rich in tropical fruit orchards.", "Located at the head of a deep, fjord-like bay."],
     },
+    image: "/poi-images/newcaledonia-canala-cities-v2.webp",
   },
   {
     id: "newcaledonia-thio-cities-v2",
@@ -310,6 +319,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Primul sit de extracție a nichelului din teritoriu (1874).", "Găzduiește Muzeul de Istorie Minieră din Thio.", "Mina SLN Plateau este una dintre cele mai vechi active.", "A servit ca port major pentru exportul de minereu în sec. XIX.", "Comuna acoperă o suprafață de aproximativ 1.000 km².", "Un monument comemorează evenimentele politice din 1984."],
       en: ["First site for nickel mining in New Caledonia (1874).", "Home to the Museum of Mining History in Thio.", "The SLN Plateau mine is one of the oldest still in operation.", "Served as a major port for ore export in the 19th century.", "The municipality covers an area of about 1,000 square kilometers.", "A monument commemorates the political events of 1984."],
     },
+    image: "/poi-images/newcaledonia-thio-cities-v2.webp",
   },
   {
     id: "newcaledonia-hienghene-cities-v2",
@@ -341,6 +351,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Renumit pentru formațiunea stâncoasă 'Găina Clocitoare'.", "Locul de naștere al liderului Kanak Jean-Marie Tjibaou.", "Stâncile Lindéralique se înalță până la 60 de metri.", "Găzduiește Centrul Cultural Goa Ma Bwarhat.", "Recifele din regiune sunt incluse în Patrimoniul UNESCO.", "Situată pe coasta de nord-est a insulei Grande Terre."],
       en: ["Famous for 'The Brooding Hen' (La Poule Couveuse) rock.", "Birthplace of the Kanak leader Jean-Marie Tjibaou.", "The Lindéralique cliffs rise up to 60 meters high.", "Home to the Goa Ma Bwarhat Cultural Centre.", "The surrounding reefs are part of a UNESCO World Heritage site.", "Located on the northeast coast of Grande Terre."],
     },
+    image: "/poi-images/newcaledonia-hienghene-cities-v2.webp",
   },
   {
     id: "newcaledonia-la-foa-cities-v2",
@@ -372,6 +383,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Podul suspendat Passerelle Marguerite a fost construit în 1909.", "Găzduiește anual un festival internațional de film renumit.", "Este un centru pentru cultivarea cafelei și a cartofilor.", "Comuna se află la aproximativ 110 kilometri nord de Nouméa.", "Include un parc de sculpturi în centrul localității.", "A servit în trecut ca locație pentru o colonie penitenciară."],
       en: ["The Passerelle Marguerite suspension bridge was built in 1909.", "Hosts a well-known annual international film festival.", "A center for the cultivation of coffee and potatoes.", "Located approximately 110 kilometers north of Nouméa.", "Features a sculpture park in the town center.", "Historically served as a site for a penal colony."],
     },
+    image: "/poi-images/newcaledonia-la-foa-cities-v2.webp",
   },
   {
     id: "newcaledonia-voh-cities-v2",
@@ -403,6 +415,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Inima din Voh a fost fotografiată de Yann Arthus-Bertrand în 1990.", "Proiectul minier Koniambo a început producția industrială în anul 2013.", "Comuna se întinde pe o suprafață de aproximativ 805 kilometri pătrați.", "Muntele Voh atinge o altitudine maximă de 1.011 metri.", "Voh se află la circa 300 de kilometri nord-vest de capitala Nouméa.", "Regiunea adăpostește situri arheologice importante ale culturii Lapita."],
       en: ["The Heart of Voh was made famous by Yann Arthus-Bertrand's 1990 photo.", "The Koniambo nickel project began industrial production in 2013.", "The commune covers a land area of approximately 805 square kilometers.", "Mount Voh reaches a maximum elevation of 1,011 meters above sea level.", "Voh is located about 300 kilometers northwest of the capital, Nouméa.", "The area contains significant archaeological sites from the Lapita culture."],
     },
+    image: "/poi-images/newcaledonia-voh-cities-v2.webp",
   },
   {
     id: "newcaledonia-pouembout-cities-v2",
@@ -434,6 +447,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Pouembout a fost fondat oficial ca așezare în anul 1883.", "Comuna ocupă o suprafață terestră de 674 de kilometri pătrați.", "Aici se află sediul adunării provinciale a Provinciei de Nord.", "Orașul este situat pe malurile râului omonim, Pouembout.", "Climatul local este semiarid, cu o perioadă de secetă marcată.", "Populația localității s-a dublat aproape complet din anul 2000."],
       en: ["Pouembout was officially established as a settlement in 1883.", "The commune covers a land area of 674 square kilometers.", "It hosts the headquarters of the North Province Assembly.", "The town is situated on the banks of the Pouembout River.", "The climate is semi-arid with a distinct dry season period.", "The population has nearly doubled since the year 2000."],
     },
+    image: "/poi-images/newcaledonia-pouembout-cities-v2.webp",
   },
   {
     id: "newcaledonia-ouegoa-cities-v2",
@@ -465,6 +479,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Aurul a fost descoperit pentru prima dată în valea Diahot în 1863.", "Râul Diahot este cel mai lung din arhipelag, având 100 de kilometri.", "Mina de cupru 'Fernand' și-a încetat activitatea în anul 1927.", "Comuna se întinde pe o suprafață de 656 de kilometri pătrați.", "Ouégoa se află la aproximativ 40 de kilometri nord de orașul Koumac.", "Satul a fost un centru pentru imigranții minieri în secolul al XIX-lea."],
       en: ["Gold was first discovered in the Diahot Valley in 1863.", "The Diahot River is the archipelago's longest at 100 kilometers.", "The 'Fernand' copper mine ceased its operations in 1927.", "The commune covers an area of 656 square kilometers.", "Ouégoa is located about 40 kilometers north of the town of Koumac.", "The village was a hub for mining immigrants during the 19th century."],
     },
+    image: "/poi-images/newcaledonia-ouegoa-cities-v2.webp",
   },
   {
     id: "newcaledonia-puebo-cities-v2",
@@ -496,6 +511,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["James Cook a debarcat aici pe data de 4 septembrie 1774.", "Prima misiune catolică a fost înființată în anul 1843.", "Comuna se întinde pe o suprafață de 202 kilometri pătrați.", "Adăpostește cea mai veche biserică din Noua Caledonie, datând din 1860.", "Regiunea este renumită pentru cultivarea ignamelor și a taro-ului.", "Numeroase cascade, precum cascada Colnett, se află în apropiere."],
       en: ["James Cook landed at this location on September 4, 1774.", "The first Catholic mission was established here in 1843.", "The commune covers a land area of 202 square kilometers.", "It is home to New Caledonia's oldest church, built in 1860.", "The region is known for growing traditional yams and taro.", "Numerous waterfalls, such as the Colnett Fall, are located nearby."],
     },
+    image: "/poi-images/newcaledonia-puebo-cities-v2.webp",
   },
   {
     id: "newcaledonia-touho-cities-v2",
@@ -527,6 +543,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Aeroportul Touho are codul internațional IATA: TOH.", "Comuna se întinde pe o suprafață de 283 de kilometri pătrați.", "Populația este de aproximativ 2.300 de locuitori (conform 2019).", "Touho este situat la gura de vărsare a râului Tiwaka.", "Zona face parte din Patrimoniul Mondial UNESCO pentru lagune.", "Regiunea este cunoscută pentru meșteșugurile din frunze de pandanus."],
       en: ["Touho Airport carries the international IATA code TOH.", "The commune covers a land area of 283 square kilometers.", "The population is approximately 2,300 inhabitants (as of 2019).", "Touho is situated at the mouth of the Tiwaka River.", "The area is part of the UNESCO World Heritage lagoons site.", "The region is known for its handicrafts made from pandanus leaves."],
     },
+    image: "/poi-images/newcaledonia-touho-cities-v2.webp",
   },
   {
     id: "newcaledonia-ponerihouen-cities-v2",
@@ -558,6 +575,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Comuna se întinde pe o suprafață de 707 kilometri pătrați.", "Ponérihouen a fost fondat oficial în anul 1883.", "Râul Ponérihouen este unul dintre cele mai bogate în debit de pe insulă.", "Regiunea a fost cândva un producător major de cafea 'Arabica'.", "Aproximativ 3.000 de persoane locuiesc în comună (conform 2019).", "Satul găzduiește anual un cunoscut festival al portocalelor."],
       en: ["The commune covers a land area of 707 square kilometers.", "Ponérihouen was officially established in the year 1883.", "The Ponérihouen River is one of the island's most voluminous.", "The region was once a major producer of Arabica coffee.", "About 3,000 people live in the commune (as of 2019).", "The village hosts a well-known annual orange festival."],
     },
+    image: "/poi-images/newcaledonia-ponerihouen-cities-v2.webp",
   },
   {
     id: "newcaledonia-poya-cities-v2",
@@ -589,6 +607,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Poya este singura comună situată în două provincii diferite.", "Comuna se întinde pe o suprafață de 845 de kilometri pătrați.", "Localitatea minieră Népoui are propriul său aerodrom.", "Ceramici Lapita importante au fost descoperite aici în anii '70.", "Regiunea are un climat tropical uscat, specific coastei de vest.", "Creșterea vitelor se face pe ferme mari, numite 'stations'."],
       en: ["Poya is the only commune located across two provinces.", "The commune covers a land area of 845 square kilometers.", "The mining town of Népoui possesses its own airfield.", "Important Lapita potteries were discovered here in the 1970s.", "The region features a dry tropical savanna climate.", "Cattle ranching is practiced on large farms called 'stations'."],
     },
+    image: "/poi-images/newcaledonia-poya-cities-v2.webp",
   },
   {
     id: "newcaledonia-kaala-gomen-cities-v2",
@@ -620,6 +639,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Masivul Kaala atinge o altitudine de 1.083 de metri.", "Comuna se întinde pe o suprafață de 718 kilometri pătrați.", "Mineritul de nichel are loc aici de la sfârșitul secolului al XIX-lea.", "Satul este situat la gura de vărsare a râului Ouaco.", "Kaala-Gomen are aproximativ 1.800 de locuitori (conform 2019).", "Regiunea adăpostește plante endemice pe soluri ultramafice."],
       en: ["The Kaala Massif reaches an elevation of 1,083 meters.", "The commune covers a land area of 718 square kilometers.", "Nickel mining has taken place here since the late 19th century.", "The village is situated at the mouth of the Ouaco River.", "Kaala-Gomen has about 1,800 inhabitants (as of 2019).", "The region hosts endemic plants found on ultramafic soils."],
     },
+    image: "/poi-images/newcaledonia-kaala-gomen-cities-v2.webp",
   },
   {
     id: "newcaledonia-boulouparis-cities-v2",
@@ -651,6 +671,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Boulouparis a fost fondat oficial în anul 1868.", "Comuna se întinde pe o suprafață de 865 de kilometri pătrați.", "Găzduiește anual un cunoscut festival al cerbului și al creveților.", "Mina Ouinne din interior este cunoscută pentru extracția de nichel.", "Boulouparis se află la circa 70 de kilometri nord-vest de Nouméa.", "Regiunea găzduiește o parte din lacul de acumulare al barajului Yaté."],
       en: ["Boulouparis was officially established in the year 1868.", "The commune covers a land area of 865 square kilometers.", "It hosts a well-known annual deer and shrimp festival.", "The Ouinne mine in the hinterland is known for nickel extraction.", "Boulouparis is located about 70 kilometers northwest of Nouméa.", "The region contains part of the Yaté dam reservoir system."],
     },
+    image: "/poi-images/newcaledonia-boulouparis-cities-v2.webp",
   },
   {
     id: "newcaledonia-yate-cities-v2",
@@ -682,6 +703,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Comuna se întinde pe o suprafață de 1.338 de kilometri pătrați.", "Barajul Yaté a fost finalizat în anul 1959.", "Zidul barajului are 45 de metri înălțime și 641 de metri lungime.", "Parcul Rivière Bleue adăpostește celebrul arbore 'Grand Kaori'.", "Yaté este comuna cu cea mai mică densitate a populației de pe Grande Terre.", "Regiunea este un centru important pentru limba Kanak Numèè."],
       en: ["The commune covers a land area of 1,338 square kilometers.", "The Yaté Dam was completed in the year 1959.", "The dam wall is 45 meters high and 641 meters long.", "Blue River Park is home to the famous 'Grand Kaori' tree.", "Yaté is the least densely populated commune on Grande Terre.", "The region is an important center for the Numèè Kanak language."],
     },
+    image: "/poi-images/newcaledonia-yate-cities-v2.webp",
   },
   {
     id: "newcaledonia-sarramea-cities-v2",
@@ -713,6 +735,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Sarraméa ocupă o suprafață de doar 106 kilometri pătrați.", "Comuna a fost înființată oficial în anul 1881.", "Aici se află faimoasa piscină naturală 'Feuillet'.", "Sarraméa este renumită pentru cafeaua sa Arabica de calitate.", "Populația este de aproximativ 600 de locuitori (conform 2019).", "Regiunea este situată la poalele muntelui Dogny."],
       en: ["Sarraméa covers a land area of only 106 square kilometers.", "The commune was officially established in the year 1881.", "It is home to the famous 'Feuillet' natural swimming hole.", "Sarraméa is renowned for its high-quality Arabica coffee.", "The population is approximately 600 inhabitants (as of 2019).", "The region is located at the foot of Mount Dogny."],
     },
+    image: "/poi-images/newcaledonia-sarramea-cities-v2.webp",
   },
   {
     id: "newcaledonia-farino-cities-v2",
@@ -744,6 +767,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Farino are o suprafață de aproximativ 45 de kilometri pătrați.", "Populația este de circa 600 de locuitori (conform 2019).", "Comuna este situată la o altitudine medie de 250 de metri.", "Parcul Grandes Fougères a fost deschis în anul 2008.", "Găzduiește anual populara 'Piață din Farino'.", "Regiunea adăpostește rara pasăre Cagou."],
       en: ["Farino covers an area of approximately 45 square kilometers.", "The population is around 600 inhabitants (as of 2019).", "The commune is situated at an average elevation of 250 meters.", "The Parc des Grandes Fougères was opened in 2008.", "It hosts the popular annual 'Farino Market'.", "The region is home to the rare and endemic Cagou bird."],
     },
+    image: "/poi-images/newcaledonia-farino-cities-v2.webp",
   },
   {
     id: "newcaledonia-moindou-cities-v2",
@@ -775,6 +799,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Fort Téremba a fost construit în anul 1871.", "Comuna se întinde pe o suprafață de 321 de kilometri pătrați.", "Moindou a fost un centru al insurecției Kanak din 1878.", "Economia locală se bazează pe creșterea vitelor și turism.", "Satul se află la circa 120 de kilometri nord-vest de Nouméa.", "Găzduiește anual un cunoscut festival istoric."],
       en: ["Fort Téremba was originally constructed in the year 1871.", "The commune covers a land area of 321 square kilometers.", "Moindou was a focal point during the Kanak revolt of 1878.", "The economy is based on cattle ranching and tourism.", "The village is located about 120 kilometers northwest of Nouméa.", "It hosts a well-known annual historical festival."],
     },
+    image: "/poi-images/newcaledonia-moindou-cities-v2.webp",
   },
   {
     id: "newcaledonia-poum-cities-v2",
@@ -806,6 +831,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Poum a fost creat în 1977 prin separarea de comuna Koumac.", "Comuna se întinde pe o suprafață de 469 de kilometri pătrați.", "Mina Tiebaghi este una dintre cele mai mari de crom și nichel.", "Laguna din Poum este inclusă în Patrimoniul UNESCO din 2008.", "Regiunea cuprinde numeroase insule mici, precum insula Baaba.", "Poum se află la peste 400 de kilometri distanță de Nouméa."],
       en: ["Poum was created in 1977 by separating from Koumac.", "The commune covers a land area of 469 square kilometers.", "The Tiebaghi mine is one of the largest chromium and nickel mines.", "The Poum lagoon has been a UNESCO World Heritage site since 2008.", "The region includes numerous small islands like Baaba Island.", "Poum is located over 400 kilometers from the capital, Nouméa."],
     },
+    image: "/poi-images/newcaledonia-poum-cities-v2.webp",
   },
   {
     id: "newcaledonia-kouaoua-cities-v2",
@@ -837,6 +863,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Kouaoua a fost înființată ca comună independentă în 1995.", "Comuna se întinde pe o suprafață de 383 de kilometri pătrați.", "Banda transportoare 'Serpentine' are o lungime de peste 11 km.", "Nichelul este exploatat aici de la începutul secolului al XX-lea.", "Regiunea are un climat tropical foarte umed.", "Kouaoua este situată între comunele Canala și Houaïlou."],
       en: ["Kouaoua was established as an independent commune in 1995.", "The commune covers a land area of 383 square kilometers.", "The 'Serpentine' conveyor belt is over 11 kilometers long.", "Nickel has been mined here since the early 20th century.", "The region features a very humid tropical climate.", "Kouaoua is located between the communes of Canala and Houaïlou."],
     },
+    image: "/poi-images/newcaledonia-kouaoua-cities-v2.webp",
   },
   {
     id: "newcaledonia-lifou-cities-v2",
@@ -868,6 +895,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Suprafață de aproximativ 1.207 kilometri pătrați", "Populație de circa 9.200 de locuitori în 2019", "Wé este centrul administrativ al insulei", "Descoperită de europeni în anul 1827", "Punctul maxim se află la 104 metri deasupra mării", "Principalul produs de export este copra din nucă de cocos"],
       en: ["Total land area of approximately 1,207 square kilometers", "Population of about 9,200 residents as of 2019", "Wé is the main administrative center of the island", "First European contact occurred in the year 1827", "Highest point reaches 104 meters above sea level", "Main export product is copra derived from coconuts"],
     },
+    image: "/poi-images/newcaledonia-lifou-cities-v2.webp",
   },
   {
     id: "newcaledonia-mare-cities-v2",
@@ -899,6 +927,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Suprafața totală este de 641 kilometri pătrați", "Populația este de aproximativ 5.600 de persoane", "Aparține de Provincia Insulelor Loialității", "Cea mai mare altitudine atinge 138 de metri", "Cel mai important festival este cel al Avocadoului în mai", "Tadine este centrul administrativ al insulei"],
       en: ["Total surface area of 641 square kilometers", "Population is approximately 5,600 people", "Part of the Loyalty Islands Province", "Highest elevation reaches 138 meters", "Most important event is the Avocado Festival in May", "Tadine serves as the island's administrative center"],
     },
+    image: "/poi-images/newcaledonia-mare-cities-v2.webp",
   },
   {
     id: "newcaledonia-ouvea-cities-v2",
@@ -930,6 +959,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Suprafața terestră este de aproximativ 132 kilometri pătrați", "Circa 3.400 de locuitori trăiesc pe atol", "Fayaoué este principala localitate a insulei", "Laguna acoperă o suprafață de 850 km²", "Ouvéa a devenit cunoscută în 1988 prin tulburări politice", "Deține propriul aeroport numit Ouloup"],
       en: ["Land area of approximately 132 square kilometers", "About 3,400 residents live on the atoll", "Fayaoué is the island's primary settlement", "The lagoon covers an area of 850 square kilometers", "Ouvéa gained notoriety in 1988 due to political unrest", "Features its own airport named Ouloup"],
     },
+    image: "/poi-images/newcaledonia-ouvea-cities-v2.webp",
   },
   {
     id: "newcaledonia-ile-des-pins-cities-v2",
@@ -961,6 +991,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Suprafața cuprinde circa 152 kilometri pătrați", "Populația numără aproximativ 2.000 de locuitori", "James Cook a descoperit insula la 29 septembrie 1774", "Vao este singura localitate majoră de pe insulă", "A servit drept loc de deportare între 1872 și 1880", "Cea mai mare altitudine este Pic N'Ga la 262 de metri"],
       en: ["Land area covers about 152 square kilometers", "Population consists of approximately 2,000 residents", "James Cook discovered the island on September 29, 1774", "Vao is the island's only major settlement", "Served as a deportation site from 1872 to 1880", "Highest peak is Pic N'Ga at 262 meters"],
     },
+    image: "/poi-images/newcaledonia-ile-des-pins-cities-v2.webp",
   },
   {
     id: "newcaledonia-belep-cities-v2",
@@ -992,6 +1023,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Formată dintr-o singură comună numită Bélep", "Populația este de aproximativ 860 de persoane (2019)", "Localitatea principală a arhipelagului este Waala", "Distanța până la Nouméa este de circa 400 de kilometri", "A fost teritoriu de misiune catolică în secolul al XIX-lea", "A servit temporar drept stație de carantină pentru leproși"],
       en: ["Consists of a single commune named Bélep", "Population was approximately 860 people in 2019", "The main settlement of the group is Waala", "Distance to Nouméa is about 400 kilometers", "Was a Catholic mission territory in the 19th century", "Temporarily served as a quarantine station for leprosy patients"],
     },
+    image: "/poi-images/newcaledonia-belep-cities-v2.webp",
   },
   {
     id: "newcaledonia-tadine-cities-v2",
@@ -1023,6 +1055,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Sediul administrației comunale din Maré", "Portul este deservit regulat de feriboturi de pasageri", "Deține o biserică catolică din secolul al XIX-lea", "Piața oferă produse locale, cum ar fi vanilia", "Situat pe coasta de vest a insulei Maré", "Cel mai important punct de aprovizionare pentru localnici"],
       en: ["Seat of the municipal administration of Maré", "Port is regularly visited by passenger ferries", "Features a Catholic church dating from the 19th century", "The marketplace offers local products like vanilla", "Located on the western coast of Maré island", "Primary supply hub for the local population"],
     },
+    image: "/poi-images/newcaledonia-tadine-cities-v2.webp",
   },
   {
     id: "newcaledonia-fayaoue-cities-v2",
@@ -1054,6 +1087,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Localitatea principală a comunei Ouvéa", "Se întinde pe mai mulți kilometri de coastă", "Deține o biserică catolică proeminentă în centru", "Jandarmeria a fost scena evenimentelor din 1988", "Cea mai importantă piață pentru ulei de cocos și pește", "Situată direct lângă o plajă de nisip de 25 km lungime"],
       en: ["Main town of the Ouvéa municipality", "Extends over several kilometers of coastline", "Features a prominent Catholic church in the center", "The gendarmerie was the site of the 1988 events", "Major market for coconut oil and seafood", "Located directly adjacent to a 25 km long sandy beach"],
     },
+    image: "/poi-images/newcaledonia-fayaoue-cities-v2.webp",
   },
   {
     id: "newcaledonia-vao-cities-v2",
@@ -1085,6 +1119,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Centrul comunei Île des Pins", "Misiunea catolică a fost fondată în 1848", "Deține o biserică decorată cu sculpturi tradiționale", "În apropiere se află statuia Sfântului Mauriciu", "Piață săptămânală pentru artizanat local", "Reședința celor opt triburi tradiționale ale insulei"],
       en: ["Center of the Isle of Pines municipality", "The Catholic mission was established in 1848", "Features a church with traditional wood carvings", "The Statue of Saint Maurice is located nearby", "Weekly market for local handicrafts", "Seat of the island's eight traditional tribes"],
     },
+    image: "/poi-images/newcaledonia-vao-cities-v2.webp",
   },
   {
     id: "newcaledonia-tontouta-cities-v2",
@@ -1116,6 +1151,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Aeroportul La Tontouta (NOU) este cel mai mare din țară", "Aparține de comuna Païta", "Folosit ca bază militară în Al Doilea Război Mondial", "Situat la circa 50 km distanță de Nouméa", "Râul Tontouta este un rezervor important de apă dulce", "Nod strategic pentru mineritul din regiune"],
       en: ["La Tontouta Airport (NOU) is the country's largest", "Part of the municipality of Païta", "Used as a military base during World War II", "Located roughly 50 km from Nouméa", "The Tontouta River is a vital freshwater reservoir", "Strategic hub for mining activities in the region"],
     },
+    image: "/poi-images/newcaledonia-tontouta-cities-v2.webp",
   },
   {
     id: "newcaledonia-plum-cities-v2",
@@ -1147,6 +1183,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Cunoscut pentru izvorul 'Fontaine de Plum'", "Situat la aproximativ 30 de kilometri de Nouméa", "O tabără militară importantă se află în localitate", "Unul dintre puținele locuri cu propria unitate de îmbuteliere", "Regiunea face parte din masivul muntos Mont-Dore", "Punct de plecare popular pentru excursii în sud"],
       en: ["Famous for the 'Fontaine de Plum' spring", "Located about 30 kilometers from Nouméa", "An important military camp is situated in the town", "One of the few places with its own water bottling plant", "The region is part of the Mont-Dore mountain massif", "Popular starting point for excursions to the south"],
     },
+    image: "/poi-images/newcaledonia-plum-cities-v2.webp",
   },
   {
     id: "newcaledonia-prony-cities-v2",
@@ -1178,6 +1215,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Fondat în 1854 pentru industria forestieră", "Fost lagăr de prizonieri pentru comunarzii deportați", "Cunoscut pentru 'Aiguille de Prony', un ac subaquatic", "Situat în comuna Le Mont-Dore", "Punct regulat de observare a balenelor cu cocoașă (iulie-sept)", "Vestigiile istorice sunt parțial protejate prin lege"],
       en: ["Founded in 1854 for forestry purposes", "Former prisoner camp for deported Communards", "Famous for the 'Aiguille de Prony', an underwater needle", "Located in the municipality of Le Mont-Dore", "Regular observation point for humpback whales (July-Sept)", "Historical remains are partially protected as heritage sites"],
     },
+    image: "/poi-images/newcaledonia-prony-cities-v2.webp",
   },
   {
     id: "newcaledonia-goro-cities-v2",
@@ -1209,6 +1247,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Locația uriașei mine de nichel Goro", "Aparține de comuna Yaté", "Peisajul este marcat de 'Pământul Roșu' lateritic", "Uzina de procesare a costat câteva miliarde de dolari", "Situat în apropierea lacului Grand Lac Sud", "Regiunea deține o mare diversitate de plante endemice"],
       en: ["Site of the massive Goro Nickel mine", "Part of the Yaté municipality", "Landscape is dominated by lateritic 'Red Soil'", "The processing plant cost several billion dollars", "Located near the Grand Lac Sud", "Region possesses high endemic plant biodiversity"],
     },
+    image: "/poi-images/newcaledonia-goro-cities-v2.webp",
   },
   {
     id: "newcaledonia-chepenehe-cities-v2",
@@ -1240,6 +1279,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Cel mai important port pentru nave de croazieră pe Lifou", "Biserica Notre-Dame de Lourdes a fost construită în 1898", "Oferă vederi largi asupra golfului Santal", "Localitatea este cunoscută pentru plantațiile de vanilie din jur", "Sediul mai multor căpetenii tradiționale Kanak", "Situat în nordul insulei Lifou"],
       en: ["Main port for cruise ships on Lifou", "Notre-Dame de Lourdes was built in 1898", "Offers expansive views over Santal Bay", "The town is famous for nearby vanilla plantations", "Seat of several traditional Kanak chiefdoms", "Located in the northern part of Lifou island"],
     },
+    image: "/poi-images/newcaledonia-chepenehe-cities-v2.webp",
   },
   {
     id: "newcaledonia-mouli-cities-v2",
@@ -1271,6 +1311,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Celebrul pod Mouli a fost construit în 1982", "Face parte din zona patrimoniului mondial UNESCO", "Plaja din Mouli are o lungime de peste 20 km", "Apa cristalină permite observarea pisicilor de mare", "Situat în extremitatea sudică a atolului Ouvéa", "Principala destinație turistică a insulei Ouvéa"],
       en: ["The famous Mouli Bridge was built in 1982", "Part of the UNESCO World Heritage area", "Mouli beach is over 20 km long", "Crystal-clear water allows sightings of rays", "Located at the southern end of the Ouvéa atoll", "Most important tourist destination on Ouvéa island"],
     },
+    image: "/poi-images/newcaledonia-mouli-cities-v2.webp",
   },
   {
     id: "newcaledonia-la-roche-cities-v2",
@@ -1302,6 +1343,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Locația aeroportului Maré (GEE)", "Numit după monolitul de stâncă înalt de 60 de metri", "Deține resturile unei vechi fortificații", "Situat în districtul La Roche din nordul Maré", "Stânca servește ca loc de cuibărit pentru păsările marine", "Punct de plecare important pentru explorarea nordului insulei Maré"],
       en: ["Site of the Maré Airport (GEE)", "Named after a 60-meter high rock monolith", "Contains remains of an old fortification", "Located in the La Roche district in northern Maré", "The rock serves as a nesting site for seabirds", "Key starting point for exploring northern Maré"],
     },
+    image: "/poi-images/newcaledonia-la-roche-cities-v2.webp",
   },
   {
     id: "newcaledonia-eni-cities-v2",
@@ -1333,6 +1375,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Situat pe coasta sudică a insulei Maré", "Aparține administrativ de comuna Tadine", "Cunoscut pentru sanctuarul de broaște țestoase", "Arhitectura este dominată de colibe tradiționale kanak", "Golful Eni oferă vizibilitate subacvatică excelentă", "Destinație importantă pentru turismul sustenabil"],
       en: ["Located on the southern coast of Maré Island", "Part of the municipality of Tadine", "Known for its sea turtle nesting areas", "Features traditional Kanak hut architecture", "The waters of Eni Bay are exceptionally clear", "A key location for local community-based ecotourism"],
     },
+    image: "/poi-images/newcaledonia-eni-cities-v2.webp",
   },
   {
     id: "newcaledonia-anse-vata-cities-v2",
@@ -1364,6 +1407,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Cel mai sudic cartier de pe peninsula Nouméa", "Cea mai populară plajă din capitală", "Locație gazdă pentru competiții internaționale de windsurfing", "Situat în apropierea Acvariului Lagunelor", "Punct de plecare pentru taxiurile pe apă către insulițe", "Faleza are o lungime de aproximativ 2 kilometri"],
       en: ["Southernmost district of the Nouméa peninsula", "The most popular swimming beach in the capital", "Host site for international windsurfing competitions", "Located near the Aquarium des Lagons", "Departure point for water taxis to nearby islets", "The promenade stretches for approximately 2 kilometers"],
     },
+    image: "/poi-images/newcaledonia-anse-vata-cities-v2.webp",
   },
   {
     id: "newcaledonia-baie-des-citrons-cities-v2",
@@ -1395,6 +1439,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Situat imediat la vest de Anse Vata", "Golf protejat de vânturile alizee de sud-est", "Locație preferată pentru înotul în ape deschise", "Principalul centru al vieții de noapte din Nouméa", "Numele provine de la fostele plantații de lămâi", "Golful are o lățime de aproximativ 1 kilometru"],
       en: ["Located immediately west of Anse Vata", "Sheltered from the prevailing southeast trade winds", "Favorite training spot for open-water swimmers", "The main center of Nouméa's nightlife", "Named after former lemon plantations in the area", "The bay is approximately 1 kilometer wide"],
     },
+    image: "/poi-images/newcaledonia-baie-des-citrons-cities-v2.webp",
   },
   {
     id: "newcaledonia-ducos-cities-v2",
@@ -1426,6 +1471,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Cea mai mare zonă industrială din Noua Caledonie", "Găzduiește închisoarea Camp Est", "Centru pentru numeroase reprezentanțe auto și ateliere", "Fost loc de exil pentru comunarzii parizieni", "Locație strategică în apropierea portului", "Cuprinde mai multe parcuri de activități economice"],
       en: ["Largest industrial zone in New Caledonia", "Home to the Camp Est correctional facility", "Hub for numerous car dealerships and workshops", "Former place of exile for Paris Communards", "Strategically located near the main port", "Comprises several business and technology parks"],
     },
+    image: "/poi-images/newcaledonia-ducos-cities-v2.webp",
   },
   {
     id: "newcaledonia-magenta-cities-v2",
@@ -1457,6 +1503,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Locația principalului aeroport intern", "Găzduiește stadionul Numa-Daly", "Zonă rezidențială extinsă cu vedere la lagună", "Dispune de o plajă publică și un parc amenajat", "Bază pentru servicii de elicopter și intervenții de urgență", "Nod important în sistemul de transport public urban"],
       en: ["Location of the primary domestic airport", "Home to the Numa-Daly Stadium", "Extensive residential area with lagoon views", "Features a public beach and landscaped park", "Base for helicopter services and emergency operations", "A key junction for the city's bus network"],
     },
+    image: "/poi-images/newcaledonia-magenta-cities-v2.webp",
   },
   {
     id: "newcaledonia-riviere-salee-cities-v2",
@@ -1488,6 +1535,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Poarta de intrare nordică în orașul Nouméa", "Creat prin asanarea zonelor cu mangrove", "Deține o bibliotecă publică de cartier", "Centru important pentru locuințe sociale", "Acces facil la drumul expres VE2", "Include numeroase terenuri de sport și spații verzi"],
       en: ["Northern gateway to the city of Nouméa", "Created through land reclamation of mangrove areas", "Features its own municipal library", "Important center for social housing projects", "Directly connected to the VE2 expressway", "Contains numerous sports fields and community spaces"],
     },
+    image: "/poi-images/newcaledonia-riviere-salee-cities-v2.webp",
   },
   {
     id: "newcaledonia-vallee-des-colons-cities-v2",
@@ -1519,6 +1567,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Una dintre primele zone rezidențiale din afara centrului", "Găzduiește multe clădiri coloniale bine conservate", "Locație centrală pentru școli și clinici medicale", "Considerat un cartier rezidențial de clasă medie", "În trecut era dominat de grădini și mici ferme", "Face legătura între centru și cartierele de est"],
       en: ["One of the first residential areas outside the downtown", "Home to many well-preserved colonial-era buildings", "Central location for several schools and clinics", "Regarded as a middle-class residential district", "Formerly characterized by gardens and small farms", "Connects the city center with eastern neighborhoods"],
     },
+    image: "/poi-images/newcaledonia-vallee-des-colons-cities-v2.webp",
   },
   {
     id: "newcaledonia-koutio-cities-v2",
@@ -1550,6 +1599,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Locația complexului spitalicesc Médipôle", "Deține unul dintre cele mai mari centre comerciale din țară", "Nod vital pentru transportul public periurban", "Parte integrantă a aglomerației Marele Nouméa", "Include un centru nautic modern", "Sediu pentru diverse instituții administrative"],
       en: ["Site of the Médipôle hospital complex", "Features one of the largest shopping malls in the country", "Major hub for regional public transportation", "Integral part of the Greater Nouméa metropolitan area", "Home to a modern aquatic center", "Administrative center for several public services"],
     },
+    image: "/poi-images/newcaledonia-koutio-cities-v2.webp",
   },
   {
     id: "newcaledonia-yahoue-cities-v2",
@@ -1581,6 +1631,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Situat la poalele muntelui Mont Mou", "Cunoscut pentru climatul răcoros față de centrul orașului", "Traversat de râul Yahoué", "Zonă rezidențială preferată de iubitorii de natură", "Punct de acces pentru trasee montane", "Subdiviziune importantă a comunei Dumbéa"],
       en: ["Located at the base of Mont Mou", "Famous for its cooler climate compared to downtown", "Traversed by the Yahoué River", "Preferred residential area for nature enthusiasts", "Gateway to several mountain hiking paths", "Key part of the Dumbéa municipality"],
     },
+    image: "/poi-images/newcaledonia-yahoue-cities-v2.webp",
   },
   {
     id: "newcaledonia-robinson-cities-v2",
@@ -1612,6 +1663,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Cea mai nordică subdiviziune a comunei Mont-Dore", "Nod de transport vital către sudul insulei", "Găzduiește numeroase școli și baze sportive", "Conectat direct la rețeaua de autobuze din Nouméa", "Acces facil la zonele de coastă pentru sporturi nautice", "Centru economic important al municipalității"],
       en: ["Northernmost district of the Mont-Dore municipality", "Vital transport junction for southern travel", "Home to several schools and sports facilities", "Well-connected to the Nouméa bus network", "Nearby coastal areas are used for water sports", "A key economic hub for the local community"],
     },
+    image: "/poi-images/newcaledonia-robinson-cities-v2.webp",
   },
   {
     id: "newcaledonia-boulari-cities-v2",
@@ -1643,6 +1695,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Sediul administrației locale din Mont-Dore", "Locația Centrului Cultural Mont-Dore", "Dispune de un port de agrement (marina)", "Situat direct pe țărmul golfului Boulari", "Piață importantă pentru produsele locale", "Oferă vedere directă către vârful Mont-Dore"],
       en: ["Seat of the Mont-Dore municipal government", "Home to the Mont-Dore Cultural Center", "Features a leisure boat marina", "Located directly on the shores of Boulari Bay", "Important marketplace for local produce", "Offers clear views of the Mont-Dore peak"],
     },
+    image: "/poi-images/newcaledonia-boulari-cities-v2.webp",
   },
   {
     id: "newcaledonia-doniambo-cities-v2",
@@ -1674,6 +1727,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Găzduiește una dintre cele mai mari uzine de nichel din lume", "Principalul motor economic al capitalei", "Fabrica este în funcțiune din anul 1910", "Dispune de propriul port comercial de adâncime", "Domină panorama industrială a orașului Nouméa", "Centru major pentru producția de feronichel"],
       en: ["Location of one of the world's largest nickel plants", "The most significant economic driver in the capital", "The factory has been operational since 1910", "Features its own deep-water industrial port", "Defines the industrial skyline of Nouméa", "A major center for ferronickel production"],
     },
+    image: "/poi-images/newcaledonia-doniambo-cities-v2.webp",
   },
   {
     id: "newcaledonia-tina-cities-v2",
@@ -1705,6 +1759,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Locația terenului de golf Tina", "Dispune de piste extinse pentru mountain bike", "Se învecinează cu Centrul Cultural Tjibaou", "Cunoscut pentru traseele educaționale prin mangrove", "Cartier rezidențial liniștit, retras de centru", "Oferă panorame spectaculoase asupra coastei"],
       en: ["Home to the Tina Golf Course", "Features extensive mountain bike trails", "Adjacent to the Tjibaou Cultural Center", "Known for its mangrove discovery paths", "Quiet residential area away from the city center", "Offers views of the coastal landscapes"],
     },
+    image: "/poi-images/newcaledonia-tina-cities-v2.webp",
   },
   {
     id: "newcaledonia-normandia-cities-v2",
@@ -1736,6 +1791,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Zonă rezidențială în nordul capitalei", "Acces rapid la drumul expres VE2", "Dispune de piețe locale și unități școlare", "Considerat un cartier liniștit și sigur", "Situat în apropierea zonelor comerciale", "Parte a zonei de expansiune urbană a orașului"],
       en: ["Residential area in the north of the capital", "Direct access to the VE2 expressway", "Features local markets and primary schools", "Regarded as a quiet and safe neighborhood", "Located close to major commercial zones", "Part of the city's urban expansion area"],
     },
+    image: "/poi-images/newcaledonia-normandia-cities-v2.webp",
   },
   {
     id: "newcaledonia-port-boise-cities-v2",
@@ -1767,6 +1823,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Situat în punctul sudic al Noii Caledonii", "Fost port important pentru exportul de santal", "Locația unei renumite unități de cazare ecologice", "Înconjurat de Rezervația Botanică Cap N'Dua", "Cunoscut pentru observarea balenelor în sezonul de iarnă", "Parte integrantă a comunei Yaté"],
       en: ["Located at the southern tip of New Caledonia", "Former vital port for the sandalwood trade", "Site of a well-known eco-lodge", "Surrounded by the Cap N'Dua Botanical Reserve", "Famous for whale watching during the winter season", "Part of the Yaté municipality"],
     },
+    image: "/poi-images/newcaledonia-port-boise-cities-v2.webp",
   },
   {
     id: "newcaledonia-nessadiou-cities-v2",
@@ -1798,6 +1855,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Cimitirul neozeelandez conține 242 de morminte", "Cimitirul a fost inaugurat în anul 1943", "Se află la aproximativ 10 kilometri de Bourail", "Găzduiește o moschee construită în 1998", "Centru pentru descendenții deportaților algerieni", "Producție majoră de carne de vită și legume"],
       en: ["New Zealand cemetery holds 242 graves", "Cemetery was inaugurated in 1943", "Located approximately 10 kilometers from Bourail", "Features a mosque built in 1998", "Center for descendants of Algerian deportees", "Main production includes beef and vegetables"],
     },
+    image: "/poi-images/newcaledonia-nessadiou-cities-v2.webp",
   },
   {
     id: "newcaledonia-la-conception-cities-v2",
@@ -1829,6 +1887,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Misiunea maristă a fost fondată în 1855", "Biserica a fost finalizată în anul 1874", "Situat la marginea orașului Nouméa", "Cunoscut pentru pelerinajul anual din 15 august", "Cimitir istoric al misionarilor la fața locului", "Arhitectură realizată în stil neogotic"],
       en: ["Marist mission founded in 1855", "The church was completed in 1874", "Located on the edge of Nouméa city", "Known for the annual pilgrimage on August 15", "Site of a historical missionary cemetery", "Architecture built in neo-Gothic style"],
     },
+    image: "/poi-images/newcaledonia-la-conception-cities-v2.webp",
   },
   {
     id: "newcaledonia-port-laguerre-cities-v2",
@@ -1860,6 +1919,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Sediul școlii agricole din anul 1924", "Numit după exploratorul căpitan Laguerre", "Situat la circa 30 km nord-vest de Nouméa", "Centru de cercetare agronomică (IAC)", "Zone importante de mangrove la gura râului", "Stație istorică de creștere a animalelor din epoca colonială"],
       en: ["Home to the agricultural school since 1924", "Named after explorer Captain Laguerre", "Located about 30 km northwest of Nouméa", "Site of agronomic research center (IAC)", "Important mangrove areas at the river mouth", "Historical livestock station from colonial times"],
     },
+    image: "/poi-images/newcaledonia-port-laguerre-cities-v2.webp",
   },
   {
     id: "newcaledonia-gadji-cities-v2",
@@ -1891,6 +1951,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Situat în apropierea aeroportului La Tontouta", "Cunoscut pentru colibele tradiționale Kanak", "Acces important către laguna marină", "Găzduiește comunități locale de pescari", "Face parte din comuna Païta, Provincia Sud", "Bogat în floră și faună locală"],
       en: ["Located near La Tontouta Airport", "Known for traditional Kanak huts", "Provides important access to the marine lagoon", "Home to local fishing communities", "Part of the Païta commune in South Province", "Rich in local flora and fauna"],
     },
+    image: "/poi-images/newcaledonia-gadji-cities-v2.webp",
   },
   {
     id: "newcaledonia-yahoue-bridge-cities-v2",
@@ -1922,6 +1983,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Conectează districtele Nouméa și Dumbéa", "Traversează cursul râului Yahoué", "Nod de trafic important pentru navetiști", "Poartă de intrare către Valea Yahoué", "Infrastructură modernizată în secolul al XX-lea", "Înconjurat de zone cu păduri tropicale"],
       en: ["Connects Nouméa and Dumbéa districts", "Spans the Yahoué River", "Key traffic node for commuters", "Gateway to the Yahoué Valley", "Infrastructure modernized during the 20th century", "Surrounded by tropical forested areas"],
     },
+    image: "/poi-images/newcaledonia-yahoue-bridge-cities-v2.webp",
   },
   {
     id: "newcaledonia-tina-sur-mer-cities-v2",
@@ -1953,6 +2015,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Găzduiește terenul de golf Tina cu 18 găuri", "Aproape de Centrul Cultural Jean-Marie Tjibaou", "Dispune de 10 km de piste pentru biciclete", "Acces direct la zonele de mangrove de pe coastă", "Proiect modern de dezvoltare urbană din anii 1990", "Oferă vedere spre peninsula Magenta"],
       en: ["Home to the 18-hole Tina golf course", "Located near the Jean-Marie Tjibaou Cultural Centre", "Features 10 km of marked cycle paths", "Direct access to coastal mangrove forests", "Modern urban development project from the 1990s", "Overlooks the Magenta peninsula"],
     },
+    image: "/poi-images/newcaledonia-tina-sur-mer-cities-v2.webp",
   },
   {
     id: "newcaledonia-vallee-du-tir-cities-v2",
@@ -1984,6 +2047,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Numele provine de la un fost poligon de tragere", "Una dintre primele zone locuite din Nouméa", "Situat la poalele dealului Mont Montravel", "Legătură strânsă cu industria nichelului (SLN)", "Găzduiește cimitirul istoric din Nouméa", "Centru pentru proiecte de urbanism din 2010"],
       en: ["Name originates from an old shooting range", "One of the first settled areas of Nouméa", "Located at the foot of Mont Montravel", "Strong link to the nickel industry (SLN)", "Home to the historical cemetery of Nouméa", "Focus of urban renewal projects since 2010"],
     },
+    image: "/poi-images/newcaledonia-vallee-du-tir-cities-v2.webp",
   },
   {
     id: "newcaledonia-ouemo-cities-v2",
@@ -2015,6 +2079,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Peninsulă situată în estul orașului Nouméa", "Se învecinează direct cu golful Magenta", "Cunoscut pentru străzile rezidențiale liniștite", "Aproape de aeroportul domestic Magenta", "Dispune de o potecă publică de coastă", "Fost sit pentru baterii de apărare de coastă"],
       en: ["Peninsula located in the east of Nouméa city", "Directly borders Magenta Bay", "Known for its quiet residential streets", "Close to Magenta domestic airport", "Features a public coastal walking path", "Former site for coastal defense batteries"],
     },
+    image: "/poi-images/newcaledonia-ouemo-cities-v2.webp",
   },
   {
     id: "newcaledonia-normandie-cities-v2",
@@ -2046,6 +2111,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Situat de-a lungul râului Rivière Salée", "Centru comercial major în nordul Nouméa", "Nod strategic pe drumul expres", "Găzduiește mai multe supermarketuri mari", "Zone rezidențiale extinse în anii 1970", "Se învecinează cu comuna Dumbéa"],
       en: ["Located along the Rivière Salée river", "Major commercial hub in northern Nouméa", "Strategic junction on the expressway", "Home to several large supermarkets", "Residential areas expanded greatly in the 1970s", "Borders the commune of Dumbéa"],
     },
+    image: "/poi-images/newcaledonia-normandie-cities-v2.webp",
   },
   {
     id: "newcaledonia-port-laguerre-center-cities-v2",
@@ -2077,6 +2143,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Zona centrală a comunei Païta", "Centrul comunității agricole", "Situat pe drumul principal RT1", "Înconjurat de pășuni vaste", "Sediul unor cooperative agricole locale", "Loc important pentru piețele locale"],
       en: ["Core area of the Païta commune", "Center of the agricultural community", "Located on the RT1 main road", "Surrounded by extensive grazing lands", "Home to local farming cooperatives", "Important site for local produce markets"],
     },
+    image: "/poi-images/newcaledonia-port-laguerre-center-cities-v2.webp",
   },
   {
     id: "newcaledonia-pont-des-francais-cities-v2",
@@ -2108,6 +2175,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Marchează granița cu Mont-Dore", "Podul eponim traversează râul Coulée", "Acces important către Provincia Sud", "Locul unor companii industriale majore", "Nod de trafic intens circulat", "Semnificație istorică pentru coloniștii francezi"],
       en: ["Marks the boundary with Mont-Dore", "Eponymous bridge spans the Coulée river", "Major gateway to the South Province", "Site of significant industrial companies", "Highly frequented traffic junction", "Historical importance for French settlers"],
     },
+    image: "/poi-images/newcaledonia-pont-des-francais-cities-v2.webp",
   },
   {
     id: "newcaledonia-sainte-marie-cities-v2",
@@ -2139,6 +2207,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Golful mare Sainte-Marie în centru", "Faleză populară de 3 km lungime", "Locul bisericii Marie Reine de la Paix", "Vedere spre insula Îlot Sainte-Marie", "Cartier tradițional pentru posesorii de barcă", "Evenimente sportive anuale în golf"],
       en: ["Large Sainte-Marie Bay at its center", "Popular 3 km long waterfront promenade", "Site of the Marie Reine de la Paix church", "Overlooks the Îlot Sainte-Marie island", "Traditional district for boat owners", "Hosts annual sporting events by the bay"],
     },
+    image: "/poi-images/newcaledonia-sainte-marie-cities-v2.webp",
   },
   {
     id: "newcaledonia-ouemo-pointe-cities-v2",
@@ -2170,6 +2239,7 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Cel mai estic punct al peninsulei Ouémo", "Vedere panoramică spre Îlot Escande", "Situl unor fortificații de coastă istorice", "Loc popular pentru observarea apusului", "Acces la mici plaje stâncoase", "Zonă rezidențială cu trafic redus"],
       en: ["Easternmost point of the Ouémo peninsula", "Panoramic view of Îlot Escande", "Site of historical coastal fortifications", "Popular spot for sunset watching", "Access to small rocky beaches", "Residential area with low traffic density"],
     },
+    image: "/poi-images/newcaledonia-ouemo-pointe-cities-v2.webp",
   },
   {
     id: "newcaledonia-vallee-des-colons-east-cities-v2",
@@ -2201,5 +2271,6 @@ export const newcaledoniaCitiesV2: POI[] = [
       ro: ["Unul dintre cele mai vechi cartiere ale capitalei", "Numit după primii coloniști", "Găzduiește multe case coloniale bine conservate", "Centru educațional cu mai multe școli", "Anterior a fost o vale utilizată agricol", "Conectează centrul orașului cu cartierele de est"],
       en: ["One of the oldest districts in the capital", "Named after the first European colonists", "Contains many well-preserved colonial houses", "Educational hub with several schools", "Formerly an agricultural valley", "Connects the city center with eastern districts"],
     },
+    image: "/poi-images/newcaledonia-vallee-des-colons-east-cities-v2.webp",
   }
 ];

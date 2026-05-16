@@ -31,6 +31,7 @@ export const palestineLandmarksV2: POI[] = [
       ro: ["Construcția a început probabil sub califul Hisham sau Walid al II-lea în jurul anului 743.", "Domeniul cuprinde un palat, o moschee și o casă mare de băi.", "Un cutremur major a distrus palatul în anul 749, cu puțin timp înainte de finalizare.", "Suprafața de mozaic din camera băii depășește 825 de metri pătrați.", "Mozaicul 'Pomul Vieții' înfățișează două gazele și un leu sub un măr.", "O structură de protecție modernă a fost inaugurată în 2021 pentru a conserva mozaicurile."],
       en: ["Construction likely began under Caliph Hisham or Walid II around 743 CE.", "The complex includes a palace, a mosque, and an extensive bathhouse.", "A severe earthquake in 749 CE destroyed the palace shortly before its completion.", "The mosaic floor in the Great Bath covers over 825 square meters, one of the world's largest.", "The 'Tree of Life' mosaic depicts two gazelles and a lion beneath an apple tree.", "A state-of-the-art protective roof was inaugurated in 2021 to preserve the mosaics."],
     },
+    image: "/poi-images/palestine-hishams-palace-landmarks-v2.webp",
   },
   {
     id: "palestine-mount-of-temptation-landmarks-v2",
@@ -62,6 +63,7 @@ export const palestineLandmarksV2: POI[] = [
       ro: ["Situată la aproximativ 350 de metri deasupra nivelului mării", "Prima mănăstire a fost construită de bizantini în secolul VI", "Edificiul actual a fost finalizat în 1895 de Biserica Ortodoxă", "Accesibilă printr-o telecabină de 1.300 de metri din Ierihon", "Adăpostește o grotă unde se crede că Isus s-a rugat", "Muntele este cunoscut sub numele arab de Jebel Quruntul"],
       en: ["Located approximately 350 meters above sea level", "First monastery built by Byzantines in the 6th century", "Current building completed in 1895 by the Greek Orthodox Church", "Accessible via a 1,300-meter long cable car from Jericho", "Contains a grotto where Jesus is said to have prayed", "The mountain is known in Arabic as Jebel Quruntul"],
     },
+    image: "/poi-images/palestine-mount-of-temptation-landmarks-v2.webp",
   },
   {
     id: "palestine-ibrahimi-mosque-landmarks-v2",
@@ -93,6 +95,7 @@ export const palestineLandmarksV2: POI[] = [
       ro: ["Locul de înmormântare al lui Avraam, Isaac, Iacov și soțiilor lor", "Zidurile de incintă au o vechime de cca. 2.000 de ani", "Declarată sit al Patrimoniului Mondial UNESCO în 2017", "Situl este divizat într-o secțiune musulmană și una evreiască", "Considerată a patra cea mai sfântă locație din Islam", "Zidurile herodiene au o înălțime de până la 15 metri"],
       en: ["Burial site of Abraham, Isaac, Jacob, and their wives", "Enclosure walls are approx. 2,000 years old from Herodian era", "Declared a UNESCO World Heritage site in 2017", "Site is divided into a Muslim and a Jewish section", "Regarded as the fourth holiest site in Islam", "The walls reach a height of up to 15 meters"],
     },
+    image: "/poi-images/palestine-ibrahimi-mosque-landmarks-v2.webp",
   },
   {
     id: "palestine-st-georges-monastery-landmarks-v2",
@@ -124,6 +127,7 @@ export const palestineLandmarksV2: POI[] = [
       ro: ["Fondată în jurul anului 480 d.Hr. de Ioan din Teba", "Aspectul actual se datorează renovării începute în 1878", "Găzduiește moaștele Sfântului Gheorghe din Coziba", "Grota profetului Ilie se află în interiorul complexului", "Distrusă parțial de perși în anul 614 d.Hr.", "O potecă de cca. 20 de minute coboară de la drumul principal"],
       en: ["Founded around 480 AD by John of Thebes", "Current appearance shaped by renovation starting in 1878", "Houses the relics of Saint George of Choziba", "The grotto of the Prophet Elijah is located within the site", "Partially destroyed by the Persians in 614 AD", "A 20-minute walk down from the road is required to reach it"],
     },
+    image: "/poi-images/palestine-st-georges-monastery-landmarks-v2.webp",
   },
   {
     id: "palestine-jacobs-well-landmarks-v2",
@@ -155,6 +159,7 @@ export const palestineLandmarksV2: POI[] = [
       ro: ["Fântâna are o adâncime de aproximativ 35 de metri", "Situată în Biserica Sfânta Fotini", "Menționată încă din Vechiul Testament (Geneza)", "Apa este potabilă și constant rece", "Prima biserică pe acest loc a fost ridicată în secolul IV", "Biserica actuală a fost finalizată complet în 2008"],
       en: ["The well is approximately 35 meters deep", "Located inside the Church of St. Photini", "Mentioned in the Old Testament (Genesis)", "The water is considered potable and remains cool", "First church at this site was built in the 4th century", "The current church was fully completed only in 2008"],
     },
+    image: "/poi-images/palestine-jacobs-well-landmarks-v2.webp",
   },
   {
     id: "palestine-sebastia-ruins-landmarks-v2",
@@ -186,6 +191,7 @@ export const palestineLandmarksV2: POI[] = [
       ro: ["Fondat în secolul IX î.Hr. de regele Omri", "Redenumit de Irod cel Mare în onoarea lui Augustus", "Strada cu coloane avea inițial peste 800 de metri lungime", "Include ruinele unei basilici bizantine", "Locul tradițional al mormântului lui Ioan Botezătorul", "Teatrul roman avea o capacitate de cca. 3.000 de spectatori"],
       en: ["Founded in the 9th century BC by King Omri", "Renamed by Herod the Great in honor of Augustus", "The colonnaded street was originally over 800 meters long", "Includes the remains of a Byzantine basilica", "Traditional site of the tomb of John the Baptist", "The Roman theater could seat approximately 3,000 people"],
     },
+    image: "/poi-images/palestine-sebastia-ruins-landmarks-v2.webp",
   },
   {
     id: "palestine-pashas-palace-landmarks-v2",
@@ -217,6 +223,7 @@ export const palestineLandmarksV2: POI[] = [
       ro: ["Construit în timpul domniei sultanului Baibars (1260–1277)", "Napoleon Bonaparte a locuit aici în anul 1799", "A servit drept secție de poliție în timpul mandatului britanic", "Format din două clădiri principale cu o curte interioară", "Fațada prezintă motive arhitecturale mameluce distincte", "Renovat extensiv ca muzeu în anul 2010"],
       en: ["Built during the reign of Sultan Baibars (1260–1277)", "Napoleon Bonaparte stayed here in 1799", "Served as a police station during the British Mandate", "Consists of two main buildings with a central courtyard", "The facade features characteristic Mamluk architectural motifs", "Extensively renovated as a museum in 2010"],
     },
+    image: "/poi-images/palestine-pashas-palace-landmarks-v2.webp",
   },
   {
     id: "palestine-st-hilarion-monastery-landmarks-v2",
@@ -248,6 +255,7 @@ export const palestineLandmarksV2: POI[] = [
       ro: ["Fondată în jurul anului 329 d.Hr. de Sfântul Ilarion", "Complexul se întinde pe aproximativ 7.500 mp", "Inclusă pe lista Patrimoniului Mondial UNESCO în 2024", "Conține vestigiile a cinci biserici succesive", "Dispune de un sistem complex de drenaj și canalizare", "A fost un important centru de pelerinaj timp de peste 400 de ani"],
       en: ["Founded around 329 AD by Saint Hilarion", "The site covers approximately 7,500 square meters", "Inscribed on the UNESCO World Heritage List in 2024", "Contains remains of five successive churches", "Features a complex drainage and canalization system", "Served as a major pilgrimage center for over 400 years"],
     },
+    image: "/poi-images/palestine-st-hilarion-monastery-landmarks-v2.webp",
   },
   {
     id: "palestine-hamam-al-samra-landmarks-v2",
@@ -279,6 +287,7 @@ export const palestineLandmarksV2: POI[] = [
       ro: ["Datată probabil din epoca mamelucă (secolul XIV)", "Renovată extensiv în anul 1317", "Apa este încălzită cu un cuptor tradițional pe lemne", "Compusă dintr-o zonă de vestiar, cameră caldă și cameră fierbinte", "Singura baie turcească încă funcțională din Fâșia Gaza", "Numele se traduce prin Baia Samariteană"],
       en: ["Dated likely to the Mamluk era (14th century)", "Extensively renovated in the year 1317", "Water is heated using a traditional wood-fired furnace", "Consists of a changing area, warm room, and hot room", "The only functioning hamam in the Gaza Strip", "The name translates to the Samaritan Bath"],
     },
+    image: "/poi-images/palestine-hamam-al-samra-landmarks-v2.webp",
   },
   {
     id: "palestine-nebi-musa-landmarks-v2",
@@ -310,6 +319,7 @@ export const palestineLandmarksV2: POI[] = [
       ro: ["Construcția moscheii principale a început în 1269", "Complexul conține peste 120 de camere pentru oaspeți", "Extins cu clădiri suplimentare în secolul al XV-lea", "Centrul festivalului religios Nabi Musa (Mausim)", "Arhitectura se distinge prin numeroasele cupole albe", "Situat pe vechiul drum de caravane spre Mecca"],
       en: ["Construction of the main mosque began in 1269 under Sultan Baibars", "The complex contains over 120 guest rooms for pilgrims", "Expanded with additional buildings in the 15th century", "The focal point of the annual Nabi Musa festival (Mausim)", "The architecture is characterized by distinctive white domes", "Located on the old caravan route to Mecca"],
     },
+    image: "/poi-images/palestine-nebi-musa-landmarks-v2.webp",
   },
   {
     id: "palestine-arafat-museum-landmarks-v2",
@@ -341,6 +351,7 @@ export const palestineLandmarksV2: POI[] = [
       ro: ["Inaugurat în 2016, la 12 ani de la moartea lui Arafat", "Include camera originală unde a fost asediat (2002–2004)", "Suprafața expozițională este de aproximativ 2.600 mp", "Arhitectura a fost concepută de Jafar Tukan", "Expoziția permanentă cuprinde documente și obiecte personale", "Mausoleul lui Yasser Arafat se află imediat lângă clădire"],
       en: ["Opened in 2016 on the 12th anniversary of Arafat's death", "Includes the original room where he was besieged (2002–2004)", "Exhibition space covers approximately 2,600 square meters", "The building was designed by architect Jafar Tukan", "Permanent exhibition features documents, photos, and personal items", "The tomb of Yasser Arafat is located right next to the museum"],
     },
+    image: "/poi-images/palestine-arafat-museum-landmarks-v2.webp",
   },
   {
     id: "palestine-darwish-museum-landmarks-v2",
@@ -372,6 +383,7 @@ export const palestineLandmarksV2: POI[] = [
       ro: ["Inaugurat în anul 2012 în apropiere de Al-Muqata'a", "Găzduiește mormântul poetului Mahmoud Darwish", "Conține biroul său cu mobilier original și manuscrise", "Complexul include un teatru în aer liber pentru evenimente", "Premiat pentru designul său arhitectural modern", "Biblioteca deține o colecție vastă a operelor sale"],
       en: ["Opened in 2012 near the Al-Muqata'a headquarters", "Houses the tomb of the poet Mahmoud Darwish", "Contains his study with original furniture and manuscripts", "The complex includes an outdoor theater for events", "Recognized with prestigious architectural awards", "The library holds an extensive collection of his works"],
     },
+    image: "/poi-images/palestine-darwish-museum-landmarks-v2.webp",
   },
   {
     id: "palestine-palestinian-museum-landmarks-v2",
@@ -403,6 +415,7 @@ export const palestineLandmarksV2: POI[] = [
       ro: ["Inaugurarea oficială a avut loc în mai 2016", "Clădirea a fost proiectată de biroul Heneghan Peng", "Grădinile prezintă plante native specifice regiunii", "Câștigător al Premiului Aga Khan pentru Arhitectură în 2019", "Prima clădire publică din Palestina certificată LEED Gold", "Deține o vastă arhivă digitală a istoriei palestiniene"],
       en: ["The official opening took place in May 2016", "The building was designed by Heneghan Peng Architects", "The gardens feature native plants from the region", "Winner of the Aga Khan Award for Architecture in 2019", "First climate-aware public building in Palestine", "Features a comprehensive digital archive project"],
     },
+    image: "/poi-images/palestine-palestinian-museum-landmarks-v2.webp",
   },
   {
     id: "palestine-rawabi-amphitheater-landmarks-v2",
@@ -434,6 +447,7 @@ export const palestineLandmarksV2: POI[] = [
       ro: ["Capacitate de până la 15.000 de spectatori", "Construit integral din calcar extras local", "Inaugurat în anul 2014 cu un concert de amploare", "Acustica a fost optimizată conform modelelor antice", "Situat într-o depresiune naturală cu vedere la oraș", "Dotat cu tehnologie modernă de sunet și lumini"],
       en: ["Can accommodate up to 15,000 spectators", "Built entirely from locally quarried limestone", "Opened in 2014 with a grand concert", "Acoustics were optimized based on ancient models", "Situated in a natural depression with city views", "Equipped with state-of-the-art lighting and sound technology"],
     },
+    image: "/poi-images/palestine-rawabi-amphitheater-landmarks-v2.webp",
   },
   {
     id: "palestine-herodium-fortress-landmarks-v2",
@@ -465,6 +479,7 @@ export const palestineLandmarksV2: POI[] = [
       ro: ["Construit între anii 23 și 15 î.Hr.", "Dealul a fost înălțat artificial prin terasare", "Mormântul lui Irod a fost descoperit în 2007", "Conține cea mai veche baie în stil roman din regiune", "Citadela avea inițial o înălțime de peste 30 de metri", "A servit ca refugiu pentru rebeli în timpul revoltelor iudaice"],
       en: ["Built between 23 and 15 BC", "The hill was artificially raised through massive landfill", "Herod's tomb was discovered by archaeologists in 2007", "Contains the oldest known Roman-style bathhouse in the region", "The citadel was originally over 30 meters high", "Provided refuge for rebels during the Jewish revolts"],
     },
+    image: "/poi-images/palestine-herodium-fortress-landmarks-v2.webp",
   },
   {
     id: "palestine-solomons-pools-landmarks-v2",
@@ -496,6 +511,7 @@ export const palestineLandmarksV2: POI[] = [
       ro: ["Compuse din trei bazine situate la niveluri diferite", "Capacitate totală de aproximativ 160.000 mc de apă", "Fortăreața Murad a fost construită în 1617 pentru protecție", "Conectate la un sistem de apeducte către Ierusalim", "Numele face referire la Regele Solomon", "Cel mai mare bazin are o lungime de peste 170 de metri"],
       en: ["Consist of three pools at different elevation levels", "Total capacity is approximately 160,000 cubic meters of water", "Murad Castle (Ottoman) was built in 1617 for protection", "Connected to the Qanawat aqueduct system to Jerusalem", "The name refers to King Solomon (Song of Solomon)", "The lowest pool is over 170 meters long"],
     },
+    image: "/poi-images/palestine-solomons-pools-landmarks-v2.webp",
   },
   {
     id: "palestine-manger-square-landmarks-v2",
@@ -527,6 +543,7 @@ export const palestineLandmarksV2: POI[] = [
       ro: ["Renovată în 1998-1999 pentru noul mileniu", "Moscheea lui Omar a fost construită în 1860", "Centrul pentru Pace a fost inaugurat în 1999", "Ceremonia anuală de aprindere a pomului de Crăciun", "Suprafața pieței este de aproximativ 4.000 mp", "Altitudinea locației este de 775 metri"],
       en: ["Renovated in 1998-1999 for the new millennium", "Mosque of Omar built in 1860 on donated land", "The Peace Center was inaugurated in 1999", "Annual Christmas tree lighting ceremony site", "Square size is approximately 4,000 square meters", "Located at an elevation of 775 meters"],
     },
+    image: "/poi-images/palestine-manger-square-landmarks-v2.webp",
   },
   {
     id: "palestine-milk-grotto-landmarks-v2",
@@ -558,6 +575,7 @@ export const palestineLandmarksV2: POI[] = [
       ro: ["Structura actuală a fost finalizată în 1872", "Păstrează fragmente de mozaic din secolul al V-lea", "Loc de pelerinaj popular pentru cuplurile care doresc copii", "Situată la mică distanță de Biserica Nașterii Domnului", "Administrată de Custodia Locurilor Sfinte", "Grota este formată din calcar moale, alb"],
       en: ["Present structure was completed in 1872", "Contains 5th-century mosaic floor remains", "Popular pilgrimage site for couples seeking fertility", "Located a short walk from the Church of the Nativity", "Managed by the Custody of the Holy Land", "The grotto is made of soft, white limestone"],
     },
+    image: "/poi-images/palestine-milk-grotto-landmarks-v2.webp",
   },
   {
     id: "palestine-shepherds-field-landmarks-v2",
@@ -589,6 +607,7 @@ export const palestineLandmarksV2: POI[] = [
       ro: ["Arhitectul Antonio Barluzzi a proiectat capela în 1953", "Clădirea seamănă cu un cort de beduini", "Include trei statui de bronz ale păstorilor", "Sfințită pe data de 11 aprilie 1954", "Dovezile arheologice atestă locuirea din Epoca Bronzului", "Situată la aproximativ 2 km est de Betleem"],
       en: ["Architect Antonio Barluzzi designed the chapel in 1953", "The building resembles a Bedouin tent", "Features three bronze statues of shepherds", "Consecrated on April 11, 1954", "Archaeological evidence shows habitation since Bronze Age", "Located about 2 kilometers east of Bethlehem"],
     },
+    image: "/poi-images/palestine-shepherds-field-landmarks-v2.webp",
   },
   {
     id: "palestine-great-mosque-nablus-landmarks-v2",
@@ -620,6 +639,7 @@ export const palestineLandmarksV2: POI[] = [
       ro: ["Transformată în moschee în 1187 de către Saladin", "Minaretul datează de la sfârșitul secolului al XIII-lea", "Deteriorată grav de cutremurul din 1927", "Reconstrucția a fost finalizată în anul 1935", "Planul se bazează pe o bazilică cu trei nave", "Situată în centrul orașului vechi din Nablus"],
       en: ["Converted to a mosque in 1187 by Saladin", "The minaret dates to the late 13th century", "Severely damaged by the 1927 earthquake", "Reconstruction was completed in 1935", "Floor plan is based on a three-aisle basilica", "Located in the center of Nablus Old City"],
     },
+    image: "/poi-images/palestine-great-mosque-nablus-landmarks-v2.webp",
   },
   {
     id: "palestine-mount-gerizim-site-landmarks-v2",
@@ -651,6 +671,7 @@ export const palestineLandmarksV2: POI[] = [
       ro: ["Altitudinea maximă este de 881 metri", "Biserica bizantină a fost construită în 484 d.Hr.", "Rămășițe ale unui templu samaritean din sec. V î.Hr.", "Găzduiește o mică comunitate de samariteni", "Locul sacrificiului anual de Paște al samaritenilor", "Parcul arheologic a fost dezvoltat în anii 1990"],
       en: ["Summit elevation is 881 meters above sea level", "Byzantine church was built in 484 AD", "Remains of a Samaritan temple from 5th century BC", "Home to a small Samaritan community", "Site of the annual Samaritan Passover sacrifice", "Archaeological park opened in the 1990s"],
     },
+    image: "/poi-images/palestine-mount-gerizim-site-landmarks-v2.webp",
   },
   {
     id: "palestine-josephs-tomb-landmarks-v2",
@@ -682,6 +703,7 @@ export const palestineLandmarksV2: POI[] = [
       ro: ["Structura actuală a fost renovată în 1868", "Cupola albă este o trăsătură distinctivă", "Situat la poalele muntelui Ebal", "Straturile arheologice datează din Epoca Bronzului", "Menționat în Cartea lui Iosua ca loc de înmormântare", "Loc frecvent de pelerinaj religios"],
       en: ["Present structure was renovated in 1868 by Ottomans", "White dome is a prominent feature of the building", "Located at the foot of Mount Ebal", "Archaeological layers date back to the Bronze Age", "Mentioned in the Book of Joshua as a burial site", "Frequent site for religious pilgrimages"],
     },
+    image: "/poi-images/palestine-josephs-tomb-landmarks-v2.webp",
   },
   {
     id: "palestine-taybeh-old-city-landmarks-v2",
@@ -713,6 +735,7 @@ export const palestineLandmarksV2: POI[] = [
       ro: ["Ruinele bisericii Sf. Gheorghe datează din sec. IV", "Fabrica de bere Taybeh a fost fondată în 1994", "Situat la aproximativ 30 km de Ierusalim", "Una dintre puținele localități cu majoritate creștină", "Oktoberfest-ul anual atrage numeroși turiști", "Altitudinea localității este de circa 850 metri"],
       en: ["Ruins of St. George's Church date to the 4th century", "Taybeh Brewery was founded in 1994", "Located about 30 kilometers northeast of Jerusalem", "One of the few majority Christian villages", "Annual Oktoberfest attracts many visitors", "Elevation of approximately 850 meters above sea level"],
     },
+    image: "/poi-images/palestine-taybeh-old-city-landmarks-v2.webp",
   },
   {
     id: "palestine-saint-gerasimus-monastery-landmarks-v2",
@@ -744,6 +767,7 @@ export const palestineLandmarksV2: POI[] = [
       ro: ["Fondată în anul 455 d.Hr. de Sfântul Gherasim", "Clădirile actuale datează în mare parte din 1885", "Situată la aproximativ 250 metri sub nivelul mării", "Biserica este dedicată Sfântului Gherasim", "Deține o criptă considerată popasul Sfintei Familii", "Cunoscută pentru atelierele de mozaic și ceramică"],
       en: ["Founded in 455 AD by St. Gerasimus", "Current buildings mostly date from 1885", "Located approximately 250 meters below sea level", "Monastery church is dedicated to St. Gerasimus", "Contains a crypt where the Holy Family reportedly stayed", "Known for mosaic and ceramic production"],
     },
+    image: "/poi-images/palestine-saint-gerasimus-monastery-landmarks-v2.webp",
   },
   {
     id: "palestine-oak-of-mamre-landmarks-v2",
@@ -775,6 +799,7 @@ export const palestineLandmarksV2: POI[] = [
       ro: ["Mănăstirea rusă a achiziționat terenul în 1868", "Vârsta stejarului este estimată la 5000 de ani", "Trunchiul principal s-a uscat în anul 1996", "Lăstari noi au început să crească după 1990", "Situat la circa 2 km vest de centrul orașului", "Cunoscut și sub numele de 'Stejarul lui Avraam'"],
       en: ["Russian monastery acquired the site in 1868", "Estimated age of the oak is around 5,000 years", "The main trunk died in 1996", "New shoots have been growing since the late 1990s", "Located about 2 kilometers west of the city center", "Also known as the 'Oak of Abraham'"],
     },
+    image: "/poi-images/palestine-oak-of-mamre-landmarks-v2.webp",
   },
   {
     id: "palestine-old-city-hebron-landmarks-v2",
@@ -806,6 +831,7 @@ export const palestineLandmarksV2: POI[] = [
       ro: ["Înscris în lista patrimoniului UNESCO în 2017", "Adăpostește mormintele lui Avraam, Isaac și Iacob", "Arhitectura mamelucă domină peisajul urban", "Renumit pentru producția de sticlă și ceramică", "Situat în Munții Iudeii la 930 de metri altitudine", "Moscheea Ibrahimi este o structură fortificată"],
       en: ["Listed as a UNESCO World Heritage site in 2017", "Contains the tombs of Abraham, Isaac, and Jacob", "Mamluk architecture defines the current townscape", "Famous for glassblowing and ceramics production", "Located in the Judean Mountains at 930m altitude", "Ibrahimi Mosque is a fortified structure"],
     },
+    image: "/poi-images/palestine-old-city-hebron-landmarks-v2.webp",
   },
   {
     id: "palestine-hebron-glass-factory-landmarks-v2",
@@ -837,6 +863,7 @@ export const palestineLandmarksV2: POI[] = [
       ro: ["Tradiția datează încă din secolul al XIV-lea", "Cuptoarele sunt încălzite la peste 1000 grade Celsius", "Meșteșugarii folosesc adesea sticlă reciclată", "Renumit pentru sticla albastru închis caracteristică", "Designul fenician este o marcă a orașului", "Produs de export important pentru economia locală"],
       en: ["Tradition dates back to at least the 14th century", "Furnaces are heated to over 1,000 degrees Celsius", "Artisans often use recycled scrap glass", "Known for the signature deep blue colored glass", "Phoenician patterns are a trademark of Hebron", "Major export product for the local economy"],
     },
+    image: "/poi-images/palestine-hebron-glass-factory-landmarks-v2.webp",
   },
   {
     id: "palestine-al-qarara-museum-landmarks-v2",
@@ -868,6 +895,7 @@ export const palestineLandmarksV2: POI[] = [
       ro: ["Fondat în 2016 în Al-Qarara, lângă Khan Yunis", "Colecția cuprinde peste 3000 de piese", "Include monede din perioada bizantină și romană", "Expune costume tradiționale palestiniene", "Focus pe patrimoniul agricol al regiunii", "Inițiativă privată pentru păstrarea istoriei locale"],
       en: ["Founded in 2016 in Al-Qarara near Khan Yunis", "Collection includes over 3,000 artifacts", "Features Byzantine and Roman era coins", "Displays traditional Palestinian clothing", "Focuses on the region's agricultural heritage", "A private initiative for local history preservation"],
     },
+    image: "/poi-images/palestine-al-qarara-museum-landmarks-v2.webp",
   },
   {
     id: "palestine-khan-yunis-castle-landmarks-v2",
@@ -899,6 +927,7 @@ export const palestineLandmarksV2: POI[] = [
       ro: ["Construit în 1387 sub domnia sultanului Barquq", "A servit drept fortăreață și han (caravanserai)", "Zidurile exterioare aveau inițial 15 metri înălțime", "Include o moschee și turnuri de apărare", "Situat strategic pe drumul Cairo-Damasc", "Numele provine de la emirul Yunis al-Nuruzi"],
       en: ["Built in 1387 during the reign of Sultan Barquq", "Served as both a fortress and a caravanserai", "Outer walls were originally 15 meters high", "Contains a mosque and defensive towers", "Strategically located on the Cairo-Damascus road", "Named after Emir Yunis al-Nuruzi"],
     },
+    image: "/poi-images/palestine-khan-yunis-castle-landmarks-v2.webp",
   },
   {
     id: "palestine-kur-throne-village-landmarks-v2",
@@ -930,6 +959,7 @@ export const palestineLandmarksV2: POI[] = [
       ro: ["Unul dintre cele 24 de 'sate-tron' din Palestina", "Reședința clanului influent Jayyousi", "Palatele principale datează din secolul al XVIII-lea", "Satul este așezat strategic pe o colină", "Casele din piatră au ziduri groase de apărare", "Situat în regiunea Tulkarm"],
       en: ["One of the 24 'Throne Villages' in Palestine", "Ancestral seat of the influential Jayyousi clan", "Main palaces date back to the 18th century", "The village is strategically situated on a hilltop", "Stone houses often feature thick defensive walls", "Located in the Tulkarm governorate"],
     },
+    image: "/poi-images/palestine-kur-throne-village-landmarks-v2.webp",
   },
   {
     id: "palestine-birzeit-university-building-landmarks-v2",
@@ -961,6 +991,7 @@ export const palestineLandmarksV2: POI[] = [
       ro: ["Fondată în 1924 ca școală pentru fete", "A primit statutul de universitate în 1975", "Găzduiește în prezent peste 14.000 de studenți", "Campusul include numeroase facultăți și un muzeu", "Centru important pentru dezbaterile politice", "Situată în orașul Birzeit, lângă Ramallah"],
       en: ["Founded in 1924 as a girls' school", "Attained university status in 1975", "Now hosts more than 14,000 students", "Campus includes multiple faculties and a museum", "Important center for political discourse", "Located in the town of Birzeit near Ramallah"],
     },
+    image: "/poi-images/palestine-birzeit-university-building-landmarks-v2.webp",
   },
   {
     id: "palestine-rachels-tomb-landmarks-v2",
@@ -992,6 +1023,7 @@ export const palestineLandmarksV2: POI[] = [
       ro: ["Menționat în Geneza 35:19 ca loc de înmormântare al Rahelei", "Structura este înconjurată de bariera israeliană din anul 2002", "Sir Moses Montefiore a finanțat antecamera în anul 1841", "Locul este cunoscut și sub numele de Moscheea Bilal-bin-Rabah", "Istoric, mormântul a fost marcat de o cupolă pe patru stâlpi", "Se află la aproximativ 460 de metri sud de limita Ierusalimului"],
       en: ["Mentioned in Genesis 35:19 as the burial place of Rachel", "The site has been enclosed by the Israeli West Bank barrier since 2002", "Sir Moses Montefiore funded the addition of an anteroom in 1841", "The site is also referred to as the Bilal bin Rabah Mosque", "Historically, the tomb was marked by a dome supported by four pillars", "It is situated approximately 460 meters south of the Jerusalem city line"],
     },
+    image: "/poi-images/palestine-rachels-tomb-landmarks-v2.webp",
   },
   {
     id: "palestine-star-street-landmarks-v2",
@@ -1023,6 +1055,7 @@ export const palestineLandmarksV2: POI[] = [
       ro: ["Strada are o lungime de aproximativ 1 kilometru", "Inclusă în Patrimoniul Mondial UNESCO din anul 2012", "Ruta tradițională a patriarhilor creștini în timpul procesiunilor", "Majoritatea clădirilor sunt construite din piatră calcaroasă locală", "Proiectele de renovare au început la sfârșitul anilor 1990", "Găzduiește Centrul de Patrimoniu din Betleem"],
       en: ["The street spans approximately 1 kilometer in length", "Part of the UNESCO World Heritage site 'Birthplace of Jesus' since 2012", "Traditional route for Christian Patriarchs during religious processions", "Buildings are predominantly constructed from local limestone", "Major renovation projects began in the late 1990s", "Home to the Bethlehem Heritage Center cultural institution"],
     },
+    image: "/poi-images/palestine-star-street-landmarks-v2.webp",
   },
   {
     id: "palestine-walled-off-hotel-landmarks-v2",
@@ -1054,6 +1087,7 @@ export const palestineLandmarksV2: POI[] = [
       ro: ["Deschis la data de 3 martie 2017", "Camerele conțin lucrări de artă originale de Banksy", "Găzduiește o expoziție permanentă despre istoria zidului", "Hotelul dispune de un bar cu pian în stil colonial", "Oferă ateliere de graffiti pentru vizitatori", "Situat la doar câțiva metri de zidul de beton israelian"],
       en: ["Opened to the public on March 3, 2017", "Rooms feature original artwork by Banksy and other artists", "Contains a permanent museum dedicated to the wall's history", "Features a colonial-style piano bar inside the lobby", "Offers graffiti workshops for visitors interested in street art", "Located just a few meters from the Israeli concrete barrier"],
     },
+    image: "/poi-images/palestine-walled-off-hotel-landmarks-v2.webp",
   },
   {
     id: "palestine-russian-museum-jericho-landmarks-v2",
@@ -1085,6 +1119,7 @@ export const palestineLandmarksV2: POI[] = [
       ro: ["Inaugurat în ianuarie 2011 de președintele Dmitri Medvedev", "Terenul acoperă o suprafață de aproximativ 1,2 hectare", "Include rămășițele unei mănăstiri bizantine", "Prezintă mozaicuri din secolele V și VI", "Proiectat de arhitecți ruși moderni", "Situat în centrul orașului Ierihon"],
       en: ["Inaugurated in January 2011 by President Dmitry Medvedev", "The property covers an area of approximately 1.2 hectares", "Site includes the remains of a Byzantine monastic complex", "Features mosaics dating back to the 5th and 6th centuries", "The facility was designed by Russian architects", "Located in the heart of Jericho city center"],
     },
+    image: "/poi-images/palestine-russian-museum-jericho-landmarks-v2.webp",
   },
   {
     id: "palestine-zacchaeus-tree-landmarks-v2",
@@ -1116,6 +1151,7 @@ export const palestineLandmarksV2: POI[] = [
       ro: ["Referință în Evanghelia după Luca (19, 1-10)", "Copacul aparține mănăstirii greco-ortodoxe", "Specia botanică este Ficus sycomorus", "Situat la intersecția străzilor principale din Ierihon", "Vârsta este adesea estimată simbolic la 2000 de ani", "Destinație populară pentru grupurile de pelerini creștini"],
       en: ["Reference found in the Gospel of Luke (19:1-10)", "The tree is part of the Greek Orthodox monastery grounds", "Botanically, the species is a Ficus sycomorus", "Located near the intersection of Jericho's main streets", "Its age is often symbolically cited as 2,000 years", "A major stop for Christian pilgrimage tours in the area"],
     },
+    image: "/poi-images/palestine-zacchaeus-tree-landmarks-v2.webp",
   },
   {
     id: "palestine-jericho-synagogue-landmarks-v2",
@@ -1147,6 +1183,7 @@ export const palestineLandmarksV2: POI[] = [
       ro: ["Descoperită de arhitectul Dimitri Baramki în anul 1936", "Mozaicul măsoară aproximativ 10 pe 13 metri", "Înfățișează o menora, un șofar și un lulav", "Inscripția aramaică urează pace comunității", "Situată în prezent sub o casă privată", "Săpăturile au avut loc în perioada mandatului britanic"],
       en: ["Discovered by architect Dimitri Baramki in 1936", "The main mosaic floor measures about 10 by 13 meters", "Depicts a menorah, a shofar, and a lulav (palm branch)", "Features an Aramaic inscription blessing the community", "The site is currently located beneath a private residence", "Excavations were carried out during the British Mandate period"],
     },
+    image: "/poi-images/palestine-jericho-synagogue-landmarks-v2.webp",
   },
   {
     id: "palestine-old-city-ramallah-landmarks-v2",
@@ -1178,6 +1215,7 @@ export const palestineLandmarksV2: POI[] = [
       ro: ["Fondat în secolul al XVI-lea de familia Haddadin", "Găzduiește Dar al-Zahran, o casă veche de 250 de ani", "Cunoscut pentru complexele sale rezidențiale tradiționale 'Hosh'", "Arhitectura prezintă lucrări în piatră tipic levantine", "Centrul a numeroase festivaluri culturale de vară", "Renovările au fost coordonate de organizația RIWAQ"],
       en: ["Founded in the 16th century by the Haddadin family", "Home to Dar al-Zahran, a heritage house over 250 years old", "Famous for its traditional 'Hosh' courtyard housing complexes", "Architecture showcases distinctive Levantine stonework", "Center for many local cultural festivals during the summer", "Restoration efforts were led by the RIWAQ organization"],
     },
+    image: "/poi-images/palestine-old-city-ramallah-landmarks-v2.webp",
   },
   {
     id: "palestine-dar-al-karima-landmarks-v2",
@@ -1209,6 +1247,7 @@ export const palestineLandmarksV2: POI[] = [
       ro: ["Situată în apropiere de Piața Ieslei", "Face parte din eforturile de revitalizare a orașului vechi", "Oferă programe educaționale pentru tineretul local", "Clădirea a fost restaurată în mod cuprinzător", "Se concentrează pe meșteșugurile tradiționale și muzică", "Construită în stilul arhitectural tipic Betleemului din secolul XIX"],
       en: ["Located in close proximity to Manger Square", "Part of the ongoing efforts to revitalize the Old City", "Provides educational programs for local youth", "The building has undergone extensive restoration work", "Focuses on traditional handicrafts and musical heritage", "Built in the characteristic 19th-century Bethlehem style"],
     },
+    image: "/poi-images/palestine-dar-al-karima-landmarks-v2.webp",
   },
   {
     id: "palestine-mosque-of-omar-bethlehem-landmarks-v2",
@@ -1240,6 +1279,7 @@ export const palestineLandmarksV2: POI[] = [
       ro: ["Construită în 1860 pe un teren donat de biserică", "Renovată în anul 1955 sub administrația iordaniană", "Numită după al doilea calif islamic, Omar", "Simbol al coexistenței pașnice în Betleem", "Singura moschee situată direct în Piața Ieslei", "Minaretul oferă o vedere panoramică asupra orașului vechi"],
       en: ["Constructed in 1860 on land donated by the Greek Orthodox Church", "Extensively renovated in 1955 during Jordanian rule", "Named after Omar ibn al-Khattab, the second Islamic Caliph", "Serves as a symbol of religious coexistence in Bethlehem", "The only mosque located directly on Manger Square", "The minaret is a distinctive architectural landmark of the area"],
     },
+    image: "/poi-images/palestine-mosque-of-omar-bethlehem-landmarks-v2.webp",
   },
   {
     id: "palestine-pales-museum-birzeit-landmarks-v2",
@@ -1271,6 +1311,7 @@ export const palestineLandmarksV2: POI[] = [
       ro: ["Deschis la data de 18 mai 2016", "Proiectat de biroul de arhitectură Heneghan Peng", "Construcția a costat aproximativ 24 de milioane de dolari", "Dispune de 3.500 de metri pătrați de spațiu expozițional", "Grădinile prezintă flora regiunii din diferite epoci", "Primul muzeu neutru din punct de vedere climatic din Orientul Mijlociu"],
       en: ["Opened to the public on May 18, 2016", "Designed by the architectural firm Heneghan Peng", "The construction cost approximately 24 million USD", "Features over 3,500 square meters of exhibition space", "The surrounding gardens showcase regional flora through various eras", "Recognized as the first climate-neutral museum in the Middle East"],
     },
+    image: "/poi-images/palestine-pales-museum-birzeit-landmarks-v2.webp",
   },
   {
     id: "palestine-arraba-throne-village-landmarks-v2",
@@ -1302,6 +1343,7 @@ export const palestineLandmarksV2: POI[] = [
       ro: ["Unul dintre cele 24 de sate de tron istorice", "Sediul familiei Abd al-Hadi în secolul al XIX-lea", "Conține șapte complexe palatiale mari (Qasrs)", "Restaurat integral de organizația RIWAQ", "Palatele au servit drept centre administrative fortificate", "Situat în apropierea orașului Jenin"],
       en: ["One of 24 historic 'throne villages' in Palestine", "Served as the main seat of the Abd al-Hadi clan in the 19th century", "Features seven distinct large palace complexes known as Qasrs", "Extensively restored by the RIWAQ architectural organization", "The palaces functioned as fortified tax-collecting and administrative hubs", "Located in the northern West Bank near the city of Jenin"],
     },
+    image: "/poi-images/palestine-arraba-throne-village-landmarks-v2.webp",
   },
   {
     id: "palestine-jaba-throne-village-landmarks-v2",
@@ -1333,6 +1375,7 @@ export const palestineLandmarksV2: POI[] = [
       ro: ["Face parte din rețeaua satelor de tron palestiniene", "Cunoscut pentru legătura sa cu familia Jarrar", "Arhitectura include turnuri defensive masive", "Construit pe un deal pentru o mai bună apărare", "Centru important pentru producția de ulei de măsline", "Documentat în cadrul proiectelor de conservare a patrimoniului"],
       en: ["Part of the recognized network of Palestinian throne villages", "Known for its historical association with the Jarrar family", "Architecture includes massive defensive towers and thick stone walls", "Strategically built on a hilltop for defense and surveillance", "A historical center for olive oil production in the district", "Target of several heritage documentation and preservation efforts"],
     },
+    image: "/poi-images/palestine-jaba-throne-village-landmarks-v2.webp",
   },
   {
     id: "palestine-al-nasr-mosque-nablus-landmarks-v2",
@@ -1364,6 +1407,7 @@ export const palestineLandmarksV2: POI[] = [
       ro: ["Reconstruită după cutremurul din 1927", "Transformată inițial de cruciați în secolul al XII-lea", "Cupola verde este unul dintre simbolurile orașului Nablus", "Adăpostește morminte ale unor lideri religioși locali", "Situată în centrul bazarului vibrant din orașul vechi", "Are capacitatea de a găzdui sute de credincioși"],
       en: ["Rebuilt in its current form following the 1927 earthquake", "Originally transformed from a Crusader structure in the 12th century", "The large green dome is a key icon of the Nablus skyline", "Contains the tombs of several local religious figures", "Located at the heart of the Old City's bustling marketplace", "Capable of accommodating hundreds of worshipers at once"],
     },
+    image: "/poi-images/palestine-al-nasr-mosque-nablus-landmarks-v2.webp",
   },
   {
     id: "palestine-rafah-crossing-landmarks-v2",
@@ -1395,6 +1439,7 @@ export const palestineLandmarksV2: POI[] = [
       ro: ["Singura trecere terestră a Gazei către un stat arab vecin", "Situat pe așa-numitul Coridor Philadelphi", "Reglementat prin acordul de trecere a frontierei din 2005", "Reorganizat după retragerea israeliană din Gaza", "Cel mai important punct pentru evacuările medicale", "Subiectul unor perioade lungi de așteptare și controale de securitate"],
       en: ["Gaza's only land exit to an Arab neighbor nation", "Positioned along the strategic Philadelphi Corridor", "Governed by the 2005 Agreement on Movement and Access", "Restructured following the Israeli disengagement from Gaza", "Critical point for medical evacuations and humanitarian missions", "Operations are frequently halted or restricted due to security concerns"],
     },
+    image: "/poi-images/palestine-rafah-crossing-landmarks-v2.webp",
   },
   {
     id: "palestine-khan-el-zeit-landmarks-v2",
@@ -1426,5 +1471,6 @@ export const palestineLandmarksV2: POI[] = [
       ro: ["Urmează traseul anticului Cardo roman", "Calea principală de acces pentru pelerini spre Biserica Sfântului Mormânt", "Loc istoric pentru vânzarea uleiului de măsline și a săpunului", "Include stațiuni ale drumului crucii (Via Dolorosa)", "Arhitectura datează parțial din perioadele mamelucă și otomană", "Una dintre cele mai importante secțiuni economice ale bazarului"],
       en: ["Follows the alignment of the ancient Roman Cardo Maximus", "A major access route for pilgrims heading to the Church of the Holy Sepulchre", "Historically the main center for olive oil and soap distribution", "Contains several stations along the Via Dolorosa", "Features architecture from the Mamluk and Ottoman periods", "One of the most economically vital sectors of the Old City's souq"],
     },
+    image: "/poi-images/palestine-khan-el-zeit-landmarks-v2.webp",
   }
 ];

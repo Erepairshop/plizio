@@ -485,7 +485,8 @@ export const canadaCities: POI[] = [
       en: []
     },
     facts: { de: ["Einzige Wikingersiedlung in NA", "UNESCO Weltkulturerbe", "500 Jahre vor Kolumbus", "Bauten aus Grassoden"], hu: ["Az egyetlen viking település Észak-Amerikában", "UNESCO Világörökség", "500 évvel Kolumbusz előtt", "Gyeptéglából épült házak"], ro: ["Singura așezare vikingă din NA", "Patrimoniu Mondial UNESCO", "Cu 500 de ani înainte de Columb", "Clădiri din brazde de iarbă"], en: ["Only authenticated Norse site in NA", "UNESCO World Heritage Site", "Dated to circa 1000 AD", "Features sod-walled buildings"] },
-    historyYear: 1000, historyPeriod: "Viking Age"
+    historyYear: 1000, historyPeriod: "Viking Age",
+    image: "/poi-images/ca-anse-meadows.webp",
   },
   ];
 
@@ -542,6 +543,7 @@ export const canadaCities: POI[] = [
       ro: ["Înălțime totală de 553,33 metri", "Construcție finalizată în anul 1976", "Podea de sticlă la 342 metri înălțime", "Restaurantul se rotește complet în 72 minute", "Lovite de fulger de circa 75 ori pe an", "Durata construcției a fost de 40 de luni"],
       en: ["Stands 553.33 meters tall", "Completed in 1976 after 40 months", "Glass floor located at 342 meters high", "360 Restaurant rotates every 72 minutes", "Struck by lightning about 75 times a year", "Was world's tallest until 2007"],
     },
+    image: "/poi-images/can_cntower.webp",
   },
   {
     id: "can_jasper",    name: { de: "Jasper National Park", hu: "Jasper Nemzeti Park", ro: "Parcul Național Jasper", en: "Jasper National Park" },
@@ -973,7 +975,8 @@ export const canadaCities: POI[] = [
       ro: [],
       en: []
     },
-    facts: { de: ["Brotkammer Kanadas", "Riesige Prärie-Flächen", "Wichtigster Exporteur", "Goldener Horizont"], hu: ["Kanada magtára", "Hatalmas préri területek", "Meghatározó exportcikk", "Aranyló láthatár"], ro: ["Grânarul Canadei", "Suprafețe vaste de prerie", "Exportator major", "Orizont auriu"], en: ["Breadbasket of Canada", "Vast prairie landscapes", "Leading global wheat exporter", "Iconic golden horizons"] }
+    facts: { de: ["Brotkammer Kanadas", "Riesige Prärie-Flächen", "Wichtigster Exporteur", "Goldener Horizont"], hu: ["Kanada magtára", "Hatalmas préri területek", "Meghatározó exportcikk", "Aranyló láthatár"], ro: ["Grânarul Canadei", "Suprafețe vaste de prerie", "Exportator major", "Orizont auriu"], en: ["Breadbasket of Canada", "Vast prairie landscapes", "Leading global wheat exporter", "Iconic golden horizons"] },
+    image: "/poi-images/ca-saskatchewan-wheat.webp",
   },
   {
     id: "ca-okanagan-wine",

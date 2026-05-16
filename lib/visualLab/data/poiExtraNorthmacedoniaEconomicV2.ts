@@ -32,6 +32,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       ro: ["Zona industrială se întinde pe 150 de hectare.", "Peste 50 de companii sunt localizate aici.", "A fost deschisă în 1962.", "Angajează aproximativ 5.000 de muncitori.", "Distanța până la granița greacă este de 15 km.", "Producția anuală valorează 200 de milioane de euro."],
       en: ["The zone covers 150 hectares.", "Over 50 companies are located here.", "Opened in 1962.", "Employs about 5,000 workers.", "Distance to Greek border is 15 km.", "Annual production value is €200 million."],
     },
+    image: "/poi-images/northmacedonia-bitola-industrial-zone-economic-v2.webp",
   },
   {
     id: "northmacedonia-vardar-hydro-plant-economic-v2",
@@ -64,6 +65,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       ro: ["Punerea în funcțiune: 1956.", "Capacitate instalată: 15 MW.", "Producție anuală: 60 GWh.", "Cădere de apă: 20 m.", "Suprafața lacului: 1,2 km².", "Două turbine Francis."],
       en: ["Commissioned in 1956.", "Installed capacity: 15 MW.", "Annual generation: 60 GWh.", "Head height: 20 m.", "Reservoir area: 1.2 km².", "Two Francis turbines."],
     },
+    image: "/poi-images/northmacedonia-vardar-hydro-plant-economic-v2.webp",
   },
   {
     id: "northmacedonia-tikves-viticulture-center-economic-v2",
@@ -96,6 +98,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       ro: ["Suprafața viticolă: aproximativ 10.000 ha.", "Producție anuală de vin: peste 100 milioane litri.", "Soiuri principale: Vranec, Kratoshija.", "Prima cramă a fost înființată în 1885.", "Viticultura are peste 2000 de ani de tradiție.", "Institutul de cercetare a fost deschis în 1960."],
       en: ["Vineyard area: about 10,000 ha.", "Annual wine production: over 100 million liters.", "Main grape varieties: Vranec, Kratoshija.", "First winery established in 1885.", "Viticulture tradition spans over 2000 years.", "Research institute opened in 1960."],
     },
+    image: "/poi-images/northmacedonia-tikves-viticulture-center-economic-v2.webp",
   },
   {
     id: "northmacedonia-prilep-tobacco-processing-economic-v2",
@@ -128,6 +131,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       ro: ["Se procesează 15.000 de tone de tutun anual.", "Cercetarea tutunului a început în 1950.", "Industria angajează 3.000 de muncitori.", "Valoarea exportului depășește 30 de milioane de euro anual.", "Prilep produce tutun oriental.", "Prima fabrică a fost deschisă în 1925."],
       en: ["15,000 tons of tobacco processed annually.", "Tobacco research started in 1950.", "Industry employs 3,000 workers.", "Annual export value exceeds €30 million.", "Prilep grows Oriental tobacco.", "First factory opened in 1925."],
     },
+    image: "/poi-images/northmacedonia-prilep-tobacco-processing-economic-v2.webp",
   },
   {
     id: "northmacedonia-skopje-technological-park-economic-v2",
@@ -160,6 +164,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       ro: ["Înființare: 2014.", "Spațiu de birouri: 5.000 m².", "Peste 30 de companii.", "Aproximativ 500 de locuri de muncă calificate.", "Buget anual: 2 milioane de euro.", "Parte a programului UE pentru competitivitate."],
       en: ["Established in 2014.", "Office space: 5,000 m².", "Over 30 companies.", "About 500 high-skilled jobs.", "Annual budget: €2 million.", "Part of EU competitiveness program."],
     },
+    image: "/poi-images/northmacedonia-skopje-technological-park-economic-v2.webp",
   },
   {
     id: "northmacedonia-stip-textile-district-economic-v2",
@@ -192,6 +197,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       ro: ["Peste 100 de companii textile.", "8.000 de angajați în sector.", "Valoarea producției anuale: peste 150 de milioane de euro.", "Prima fabrică modernă a fost deschisă în 1923.", "Exportul reprezintă 80% din producție.", "Mărimea medie a unei fabrici: 80 de angajați."],
       en: ["Over 100 textile companies.", "8,000 employees in the sector.", "Annual production value: over €150 million.", "First modern factory opened in 1923.", "Export share: 80% of production.", "Average factory size: 80 employees."],
     },
+    image: "/poi-images/northmacedonia-stip-textile-district-economic-v2.webp",
   },
   {
     id: "northmacedonia-ohrid-tourism-economy-v2",
@@ -224,6 +230,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       ro: ["Peste 500.000 de turiști anual.", "1 milion de nopți de cazare pe an.", "Turismul reprezintă 70% din economie.", "Lacul Ohrid are 30 km lungime și 288 m adâncime.", "Patrimoniu UNESCO din 1980.", "Peste 150 de hoteluri și stațiuni."],
       en: ["Over 500,000 tourists annually.", "1 million overnight stays per year.", "Tourism accounts for 70% of economy.", "Ohrid Lake is 30 km long and 288 m deep.", "UNESCO World Heritage since 1980.", "Over 150 hotels and resorts."],
     },
+    image: "/poi-images/northmacedonia-ohrid-tourism-economy-v2.webp",
   },
   {
     id: "northmacedonia-kocani-rice-processing-economic-v2",
@@ -256,6 +263,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       ro: ["Producție anuală de orez: 20.000 de tone.", "5.000 de hectare de orezării.", "Prima moară de orez construită în 1947.", "1.200 de angajați în industrie.", "Export către UE.", "Soi principal: Japonica."],
       en: ["Annual rice production: 20,000 tons.", "5,000 hectares of rice paddies.", "First rice mill built in 1947.", "1,200 employees in the industry.", "Export to the EU.", "Main variety: Japonica."],
     },
+    image: "/poi-images/northmacedonia-kocani-rice-processing-economic-v2.webp",
   },
   {
     id: "northmacedonia-tetovo-trade-hub-economic-v2",
@@ -288,6 +296,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       ro: ["Tetovo se află la 10 km de granița cu Kosovo.", "Piața angro are peste 500 de magazine.", "Volumul anual de comerț: 200 de milioane de euro.", "10.000 de angajați în comerț.", "Orașul este centrul economic al minorității albaneze.", "Există 15 sucursale bancare în oraș."],
       en: ["Tetovo is 10 km from the Kosovo border.", "Wholesale market has over 500 shops.", "Annual trade volume: €200 million.", "10,000 employees in trade.", "City is economic center of Albanian minority.", "15 bank branches in the city."],
     },
+    image: "/poi-images/northmacedonia-tetovo-trade-hub-economic-v2.webp",
   },
   {
     id: "northmacedonia-bitola-food-industry-economic-v2",
@@ -320,6 +329,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       ro: ["Peste 50 de unități de procesare a alimentelor.", "Prelucrare anuală: 100.000 de tone de produse agricole.", "4.000 de angajați.", "Cifra de afaceri anuală: peste 150 de milioane de euro.", "Fabrica de bere din Bitola a fost fondată în 1922.", "Cârnatul de Bitola este un brand protejat."],
       en: ["Over 50 food processing facilities.", "Annual processing: 100,000 tons of agricultural products.", "4,000 employees.", "Annual turnover: over €150 million.", "Bitola Brewery founded in 1922.", "Bitola sausage is a protected brand."],
     },
+    image: "/poi-images/northmacedonia-bitola-food-industry-economic-v2.webp",
   },
   {
     id: "northmacedonia-kavadarci-wineries-economic-v2",
@@ -352,6 +362,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       ro: ["Producție anuală de vin: 60 milioane litri.", "Crama Tikveș are o capacitate de 50 milioane litri.", "15 crame în regiune.", "Vranec reprezintă 40% din producție.", "Export în 20 de țări.", "50.000 de turiști vinicoli anual."],
       en: ["Annual wine production: 60 million liters.", "Tikveš winery capacity: 50 million liters.", "15 wineries in the region.", "Vranec accounts for 40% of production.", "Exports to 20 countries.", "50,000 wine tourists annually."],
     },
+    image: "/poi-images/northmacedonia-kavadarci-wineries-economic-v2.webp",
   },
   {
     id: "northmacedonia-gostivar-trade-center-economic-v2",
@@ -384,6 +395,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       ro: ["Suprafața pieței: 10 hectare.", "Peste 1.000 de tarabe.", "Cifra de afaceri anuală cu amănuntul: 100 milioane euro.", "5.000 de angajați în comerț.", "Populația orașului Gostivar: 35.000 de locuitori.", "Altitudinea: 520 m."],
       en: ["Market area: 10 hectares.", "Over 1,000 stalls.", "Annual retail turnover: €100 million.", "5,000 employees in trade.", "Population: 35,000.", "Elevation: 520 m."],
     },
+    image: "/poi-images/northmacedonia-gostivar-trade-center-economic-v2.webp",
   },
   {
     id: "northmacedonia-kumanovo-manufacturing-economic-v2",
@@ -416,6 +428,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       ro: ["Zona industrială: 200 de hectare.", "80 de fabrici în zonă.", "Fabrica de tractoare produce 5.000 de unități anual.", "Valoarea exporturilor: 300 de milioane de euro pe an.", "Populația orașului Kumanovo: 70.000 de locuitori.", "Orașul se află la 10 km de granița cu Serbia."],
       en: ["Industrial zone: 200 hectares.", "80 factories in the zone.", "Tractor factory produces 5,000 units annually.", "Export value: €300 million per year.", "Population: 70,000.", "City is 10 km from Serbian border."],
     },
+    image: "/poi-images/northmacedonia-kumanovo-manufacturing-economic-v2.webp",
   },
   {
     id: "northmacedonia-negotino-orchard-region-economic-v2",
@@ -480,6 +493,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       ro: ["Producția de argint în secolul al XIV-lea: 10 tone anual.", "Exploatarea minieră s-a încheiat în anii 1960.", "Rezerve estimate rămase: 500.000 de tone de minereu.", "Minele au fost deschise de sași în secolul al XIII-lea.", "Șase turnuri ale proprietarilor de mine mai există.", "Muzeul mineritului a fost deschis în 1975."],
       en: ["Silver production in 14th century: 10 tons annually.", "Mining ended in the 1960s.", "Estimated remaining reserves: 500,000 tons of ore.", "Mines were opened by Saxons in the 13th century.", "Six towers of mine owners still stand.", "Mining museum opened in 1975."],
     },
+    image: "/poi-images/northmacedonia-kratovo-mining-heritage-economic-v2.webp",
   },
   {
     id: "northmacedonia-stobi-archaeological-tourism-economic-v2",
@@ -512,6 +526,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       ro: ["Stobi a fost fondat în secolul al III-lea î.Hr.", "Teatrul avea o capacitate de aproximativ 7.000 de spectatori.", "Orașul a fost distrus de goți în anul 388 d.Hr.", "Parcul arheologic se întinde pe 30 de hectare.", "Aproximativ 50.000 de vizitatori vin anual.", "Biletul de intrare costă 100 de denari macedoneni."],
       en: ["Stobi was founded in the 3rd century BC.", "The theater could seat about 7,000 spectators.", "The city was destroyed by the Visigoths in 388 AD.", "The archaeological park covers 30 hectares.", "Around 50,000 tourists visit annually.", "Entrance fee is 100 Macedonian Denars."],
     },
+    image: "/poi-images/northmacedonia-stobi-archaeological-tourism-economic-v2.webp",
   },
   {
     id: "northmacedonia-vinica-wood-industry-economic-v2",
@@ -544,6 +559,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       ro: ["Vinica are aproximativ 10.000 de locuitori.", "Industria lemnului reprezintă 30% din economia locală.", "Se prelucrează 100.000 de metri cubi de lemn anual.", "Există 15 gatere în regiune.", "70% din producție este exportată.", "Orașul este situat la 460 m altitudine."],
       en: ["Vinica has a population of about 10,000.", "The wood industry contributes 30% to the local economy.", "100,000 cubic meters of wood are processed annually.", "There are 15 sawmills in the region.", "70% of production is exported.", "The town is located at 460 meters above sea level."],
     },
+    image: "/poi-images/northmacedonia-vinica-wood-industry-economic-v2.webp",
   },
   {
     id: "northmacedonia-demir-kapija-wine-tour-economic-v2",
@@ -576,6 +592,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       ro: ["Demir Kapija are 5.000 de locuitori.", "Producția anuală de vin este de 20.000 de hectolitri.", "30.000 de turiști vizitează cramele anual.", "Regiunea Tikveš are 10.000 de hectare de podgorii.", "Vranec este cel mai cultivat soi roșu.", "Orașul este situat pe râul Vardar."],
       en: ["Demir Kapija has a population of 5,000.", "Annual wine production is 20,000 hectoliters.", "30,000 tourists visit wineries per year.", "The Tikveš region has 10,000 hectares of vineyards.", "Vranec is the most planted red grape variety.", "The town is on the Vardar River."],
     },
+    image: "/poi-images/northmacedonia-demir-kapija-wine-tour-economic-v2.webp",
   },
   {
     id: "northmacedonia-gazi-baba-industrial-zone-economic-v2",
@@ -608,6 +625,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       ro: ["Zona se întinde pe 400 de hectare.", "Peste 200 de companii sunt localizate aici.", "Oferă 10.000 de locuri de muncă.", "Zona a fost creată în 1965.", "Cifra de afaceri anuală medie este de 500 de milioane de euro.", "Distanța până la Aeroportul Skopje este de 5 km."],
       en: ["The zone covers 400 hectares.", "Over 200 companies are located here.", "It provides 10,000 jobs.", "The zone was established in 1965.", "Average annual turnover is 500 million euros.", "Distance to Skopje Airport is 5 km."],
     },
+    image: "/poi-images/northmacedonia-gazi-baba-industrial-zone-economic-v2.webp",
   },
   {
     id: "northmacedonia-zrnovci-river-economy-economic-v2",
@@ -640,6 +658,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       ro: ["Comuna Zrnovci are 3.000 de locuitori.", "Râul Zrnovska are o lungime de 45 km.", "Există 3 microcentrale hidroelectrice.", "Capacitatea instalată este de 5 MW.", "Suprafața agricolă este de 1.200 de hectare.", "Precipitațiile medii anuale sunt de 600 mm."],
       en: ["Zrnovci municipality has 3,000 inhabitants.", "The Zrnovska River is 45 km long.", "There are 3 small hydropower plants.", "Installed capacity is 5 MW.", "Agricultural area is 1,200 hectares.", "Average annual precipitation is 600 mm."],
     },
+    image: "/poi-images/northmacedonia-zrnovci-river-economy-economic-v2.webp",
   },
   {
     id: "northmacedonia-vasilevo-farming-economy-economic-v2",
@@ -672,6 +691,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       ro: ["Comuna Vasilevo are 12.000 de locuitori.", "Suprafața agricolă este de 8.000 de hectare.", "Recolta anuală de grâu este de 15.000 de tone.", "Există 5.000 de vite în comună.", "Producția de lapte este de 20.000 de litri pe zi.", "Altitudinea variază între 200 și 500 de metri."],
       en: ["Vasilevo municipality has 12,000 inhabitants.", "Agricultural area is 8,000 hectares.", "Annual wheat harvest is 15,000 tons.", "There are 5,000 cattle in the municipality.", "Milk production is 20,000 liters per day.", "Altitude ranges from 200 to 500 meters."],
     },
+    image: "/poi-images/northmacedonia-vasilevo-farming-economy-economic-v2.webp",
   },
   {
     id: "northmacedonia-konce-mining-economy-economic-v2",
@@ -704,6 +724,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       ro: ["Mina Konce produce 100.000 de tone de minereu anual.", "Comuna are 3.500 de locuitori.", "Rezervele de minereu sunt estimate la 5 milioane de tone.", "Conținutul de plumb este de 3%!", "Banda transportoare are 2 km lungime.", "Mina angajează 500 de muncitori."],
       en: ["Konce mine produces 100,000 tons of ore annually.", "The municipality has 3,500 inhabitants.", "Ore reserves are estimated at 5 million tons.", "Lead content in the ore is 3%!", "The conveyor belt is 2 km long.", "The mine employs 500 workers."],
     },
+    image: "/poi-images/northmacedonia-konce-mining-economy-economic-v2.webp",
   },
   {
     id: "northmacedonia-mantovo-lake-tourism-economic-v2",
@@ -736,6 +757,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       ro: ["Lacul Mantovo a fost construit în 1978.", "Suprafața apei este de 150 de hectare.", "Lungimea de 2 km, lățimea de 1 km.", "Adâncimea maximă este de 15 m.", "Barajul are 30 m înălțime.", "Capacitatea de stocare este de 10 milioane de metri cubi."],
       en: ["Lake Mantovo was built in 1978.", "Water surface area is 150 hectares.", "The lake is 2 km long and 1 km wide.", "Maximum depth is 15 m.", "The dam is 30 m high.", "Storage capacity is 10 million cubic meters."],
     },
+    image: "/poi-images/northmacedonia-mantovo-lake-tourism-economic-v2.webp",
   },
   {
     id: "northmacedonia-plasnica-processing-economic-v2",
@@ -768,6 +790,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       ro: ["Plasnica are 4.000 de locuitori.", "Industria prelucrătoare reprezintă 60% din economia locală.", "Există 10 fabrici textile.", "Capacitatea de procesare a laptelui este de 5.000 de litri pe zi.", "40% din producție este exportată.", "Comuna este situată la 700 m altitudine."],
       en: ["Plasnica has 4,000 inhabitants.", "Processing industry accounts for 60% of local economy.", "There are 10 textile factories.", "Milk processing capacity is 5,000 liters per day.", "40% of production is exported.", "The municipality is at 700 m altitude."],
     },
+    image: "/poi-images/northmacedonia-plasnica-processing-economic-v2.webp",
   },
   {
     id: "northmacedonia-drenovo-orchards-economic-v2",
@@ -800,6 +823,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       ro: ["Satul Drenovo are 500 de locuitori.", "Livezile se întind pe 500 de hectare.", "Recolta anuală de mere este de 4.000 de tone.", "Se cultivă 20 de soiuri de mere.", "Fabrica de conserve procesează 1.000 de tone de fructe pe an.", "Altitudinea este de 300 de metri."],
       en: ["The village of Drenovo has 500 inhabitants.", "Orchards cover 500 hectares.", "Annual apple harvest is 4,000 tons.", "20 different apple varieties are grown.", "The canning factory processes 1,000 tons of fruit per year.", "Altitude is 300 meters."],
     },
+    image: "/poi-images/northmacedonia-drenovo-orchards-economic-v2.webp",
   },
   {
     id: "northmacedonia-gradsko-trade-node-economic-v2",
@@ -832,6 +856,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       ro: ["Gradsko are 3.000 de locuitori.", "Piața de vite se ține săptămânal.", "Autostrada A1 este la 1 km distanță.", "Gara este traversată zilnic de 20 de trenuri.", "Există 50 de companii de logistică.", "Orașul este situat la 150 m altitudine."],
       en: ["Gradsko has 3,000 inhabitants.", "The livestock market is held weekly.", "The A1 highway is 1 km away.", "The railway station is passed by 20 trains daily.", "There are 50 logistics companies.", "The town lies at 150 m altitude."],
     },
+    image: "/poi-images/northmacedonia-gradsko-trade-node-economic-v2.webp",
   },
   {
     id: "northmacedonia-rozden-mining-exploration-economic-v2",
@@ -864,6 +889,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       ro: ["Rozden are 200 de locuitori.", "Forajele de explorare au atins 500 m adâncime.", "Rezervele estimate sunt de 2 milioane de tone de minereu.", "Conținutul mediu de plumb este de 4%!", "Explorarea a început în 2005.", "Suprafața concesiunii este de 10 km²."],
       en: ["Rozden has 200 inhabitants.", "Exploration drilling reached 500 m depth.", "Estimated reserves are 2 million tons of ore.", "Average lead grade is 4%!", "Exploration started in 2005.", "The concession area covers 10 km²."],
     },
+    image: "/poi-images/northmacedonia-rozden-mining-exploration-economic-v2.webp",
   },
   {
     id: "northmacedonia-bosilovo-agribusiness-economic-v2",
@@ -896,5 +922,6 @@ export const northmacedoniaEconomicV2: POI[] = [
       ro: ["Bosilovo are 10.000 de locuitori.", "Suprafața agricolă este de 15.000 de hectare.", "Producția anuală de orez este de 8.000 de tone.", "Fabrica de lactate procesează 30.000 de litri de lapte pe zi.", "Fabrica de ulei produce 2.000 de tone de ulei pe an.", "Comuna este situată la 200 m altitudine."],
       en: ["Bosilovo has 10,000 inhabitants.", "Agricultural area is 15,000 hectares.", "Annual rice production is 8,000 tons.", "The dairy processes 30,000 liters of milk per day.", "The oil mill produces 2,000 tons of oil per year.", "The municipality is at 200 m altitude."],
     },
+    image: "/poi-images/northmacedonia-bosilovo-agribusiness-economic-v2.webp",
   }
 ];

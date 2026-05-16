@@ -31,6 +31,7 @@ export const hongkongLifeV2: POI[] = [
       ro: ["Suprafață: 1.500 hectare", "Desemnat rezervație în 1980", "Sit Ramsar din 1995", "Mangrove, noroi, iazuri de pește", "Specie amenințată: lopătarul", "Administrat de WWF Hong Kong"],
       en: ["Area: 1,500 hectares", "Designated reserve in 1980", "Ramsar site since 1995", "Mangroves, mudflats, fish ponds", "Endangered black-faced spoonbill", "Managed by WWF Hong Kong"],
     },
+    image: "/poi-images/hongkong-mai-po-nature-reserve-life-v2.webp",
   },
   {
     id: "hongkong-wetland-park-life-v2",
@@ -62,6 +63,7 @@ export const hongkongLifeV2: POI[] = [
       ro: ["Suprafață: 61 hectare", "Deschis în 2006", "Peste 200 specii de păsări", "Centru de vizitare cu expoziții interactive", "Turn de observație", "Mlaștină de mangrove"],
       en: ["Area: 61 hectares", "Opened in 2006", "Over 200 bird species", "Interactive exhibits at visitor centre", "Observation tower", "Mangrove swamp"],
     },
+    image: "/poi-images/hongkong-wetland-park-life-v2.webp",
   },
   {
     id: "hongkong-lantau-south-country-park-life-v2",
@@ -93,6 +95,7 @@ export const hongkongLifeV2: POI[] = [
       ro: ["Suprafață: 5.640 hectare", "Înființat în 1998", "Cel mai mare parc natural din Hong Kong", "Cel mai înalt vârf: Sunset Peak (869 m)", "Include plaje și păduri", "Protejează delfinul alb chinezesc"],
       en: ["Area: 5,640 hectares", "Established in 1998", "Largest country park in Hong Kong", "Highest peak: Sunset Peak (869 m)", "Includes beaches and forests", "Protects Chinese white dolphin"],
     },
+    image: "/poi-images/hongkong-lantau-south-country-park-life-v2.webp",
   },
   {
     id: "hongkong-sai-kung-east-country-park-life-v2",
@@ -124,6 +127,7 @@ export const hongkongLifeV2: POI[] = [
       ro: ["Suprafață: 4.470 hectare", "Înființat în 1978", "Vârful Sharp: 468 m", "Formațiunile stâncoase Tsing Yi", "Peste 60 de specii de orhidee", "Hotspot de geoturism"],
       en: ["Area: 4,470 hectares", "Established in 1978", "Sharp Peak: 468 m", "Tsing Yi rock formations", "Over 60 orchid species", "Geotourism hotspot"],
     },
+    image: "/poi-images/hongkong-sai-kung-east-country-park-life-v2.webp",
   },
   {
     id: "hongkong-zoological-botanical-gardens-life-v2",
@@ -155,6 +159,7 @@ export const hongkongLifeV2: POI[] = [
       ro: ["Fondat în 1860", "Suprafață: 5,6 hectare", "Peste 900 de specii de plante", "Colecție de animale: primate, păsări", "Peisagistică victoriană", "Intrare gratuită"],
       en: ["Founded in 1860", "Area: 5.6 hectares", "Over 900 plant species", "Animals: primates, birds", "Victorian landscape design", "Free admission"],
     },
+    image: "/poi-images/hongkong-zoological-botanical-gardens-life-v2.webp",
   },
   {
     id: "hongkong-kadoorie-farm-botanic-garden-life-v2",
@@ -186,6 +191,7 @@ export const hongkongLifeV2: POI[] = [
       ro: ["Fondată în 1956", "Suprafață: 148 hectare", "Locație: Tai Mo Shan", "Grădină botanică", "Peste 100 de specii de mamifere", "Programe de reîmpădurire"],
       en: ["Founded in 1956", "Area: 148 hectares", "Location: Tai Mo Shan", "Botanic garden", "Over 100 mammal species", "Reforestation programmes"],
     },
+    image: "/poi-images/hongkong-kadoorie-farm-botanic-garden-life-v2.webp",
   },
   {
     id: "hongkong-hoi-ha-wan-marine-park-life-v2",
@@ -217,6 +223,7 @@ export const hongkongLifeV2: POI[] = [
       ro: ["Înființat în 1996", "Suprafață: 260 hectare", "Peste 60 de specii de corali", "Pajiști de iarbă marină", "Snorkeling și scufundări", "Aleea pentru vizitatori"],
       en: ["Established in 1996", "Area: 260 hectares", "Over 60 coral species", "Seagrass beds", "Snorkeling and diving", "Visitor boardwalk"],
     },
+    image: "/poi-images/hongkong-hoi-ha-wan-marine-park-life-v2.webp",
   },
   {
     id: "hongkong-tai-po-kau-nature-reserve-life-v2",
@@ -248,6 +255,7 @@ export const hongkongLifeV2: POI[] = [
       ro: ["Suprafață: 460 hectare", "Desemnat rezervație în 1977", "Peste 100 de specii de păsări", "Pădure secundară", "Arbori de camfor și bambus", "Cercetare și educație"],
       en: ["Area: 460 hectares", "Designated reserve in 1977", "Over 100 bird species", "Secondary forest", "Camphor trees and bamboo", "Research and education"],
     },
+    image: "/poi-images/hongkong-tai-po-kau-nature-reserve-life-v2.webp",
   },
   {
     id: "hongkong-plover-cove-country-park-life-v2",
@@ -279,6 +287,7 @@ export const hongkongLifeV2: POI[] = [
       ro: ["Suprafață: 4.590 hectare", "Înființat în 1979", "Rezervorul Plover Cove", "Cascada Bride's Pool", "Arbori de camfor și rododendroni", "Protejarea bazinului hidrografic"],
       en: ["Area: 4,590 hectares", "Established in 1979", "Plover Cove Reservoir", "Bride's Pool waterfall", "Camphor trees and rhododendrons", "Watershed protection"],
     },
+    image: "/poi-images/hongkong-plover-cove-country-park-life-v2.webp",
   },
   {
     id: "hongkong-shing-mun-country-park-life-v2",
@@ -310,6 +319,7 @@ export const hongkongLifeV2: POI[] = [
       ro: ["Suprafață: 1.400 hectare", "Înființat în 1977", "Rezervorul Shing Mun", "Vegetație: pini și eucalipți", "Observarea păsărilor", "Punct de belvedere"],
       en: ["Area: 1,400 hectares", "Established in 1977", "Shing Mun Reservoir", "Pine and eucalyptus vegetation", "Birdwatching", "Viewpoint"],
     },
+    image: "/poi-images/hongkong-shing-mun-country-park-life-v2.webp",
   },
   {
     id: "hongkong-lion-rock-country-park-life-v2",
@@ -341,6 +351,7 @@ export const hongkongLifeV2: POI[] = [
       ro: ["Suprafață: 557 hectare", "Înființat în 1977", "Înălțime Lion Rock: 495 m", "Tuf vulcanic", "Vedere spre Kowloon și insula Hong Kong", "Populație de maimuțe"],
       en: ["Area: 557 hectares", "Established in 1977", "Lion Rock height: 495 m", "Volcanic tuff", "Views of Kowloon and Hong Kong Island", "Monkey population"],
     },
+    image: "/poi-images/hongkong-lion-rock-country-park-life-v2.webp",
   },
   {
     id: "hongkong-kam-shan-country-park-life-v2",
@@ -372,6 +383,7 @@ export const hongkongLifeV2: POI[] = [
       ro: ["Suprafață: 339 hectare", "Înființat în 1977", "Populație de macaci", "Golden Hill: 369 m", "Pădure secundară", "Rezervor"],
       en: ["Area: 339 hectares", "Established in 1977", "Macaque population", "Golden Hill: 369 m", "Secondary forest", "Reservoir"],
     },
+    image: "/poi-images/hongkong-kam-shan-country-park-life-v2.webp",
   },
   {
     id: "hongkong-aberdeen-country-park-life-v2",
@@ -403,6 +415,7 @@ export const hongkongLifeV2: POI[] = [
       ro: ["Suprafață: 423 hectare", "Înființat în 1977", "Rezervorul Aberdeen", "High West", "Arbori de dafin și camfor", "Viața păsărilor"],
       en: ["Area: 423 hectares", "Established in 1977", "Aberdeen Reservoir", "High West", "Laurel and camphor trees", "Birdlife"],
     },
+    image: "/poi-images/hongkong-aberdeen-country-park-life-v2.webp",
   },
   {
     id: "hongkong-pok-fu-lam-country-park-life-v2",
@@ -434,6 +447,7 @@ export const hongkongLifeV2: POI[] = [
       ro: ["Suprafață: 270 hectare", "Înființat în 1977", "Rezervorul Pok Fu Lam", "Aproape de Vârful Victoria", "Poteca Hong Kong", "Zonă de protecție a apei"],
       en: ["Area: 270 hectares", "Established in 1977", "Pok Fu Lam Reservoir", "Near Victoria Peak", "Hong Kong Trail", "Water protection area"],
     },
+    image: "/poi-images/hongkong-pok-fu-lam-country-park-life-v2.webp",
   },
   {
     id: "hongkong-victoria-peak-garden-life-v2",
@@ -465,6 +479,7 @@ export const hongkongLifeV2: POI[] = [
       ro: ["Altitudine: 454 m deasupra nivelului mării", "Suprafață: 5 hectare", "Anul deschiderii: 1972", "Adăpostește o colecție de 100+ specii de plante", "Include un foișor japonez construit în 2006", "Accesibil pe jos prin traseul circular de 2,8 km"],
       en: ["Elevation: 454 m (1,490 ft) above sea level", "Area: 5 hectares (12 acres)", "Opened to public: 1972", "Contains over 100 plant species including rare orchids", "Originally a military signal station established in 1841", "Peak tram station at the base provides access since 1888"],
     },
+    image: "/poi-images/hongkong-victoria-peak-garden-life-v2.webp",
   },
   {
     id: "hongkong-nan-lian-garden-life-v2",
@@ -496,6 +511,7 @@ export const hongkongLifeV2: POI[] = [
       ro: ["Suprafață: 3,5 hectare", "An deschidere: 2006", "Stil arhitectural: Dinastia Tang (618–907)", "Conține peste 60 de bonsai", "Lacul cu lotus are 9 niveluri", "Adăpostește 30.000 de pești koi"],
       en: ["Area: 3.5 hectares (8.6 acres)", "Opened: November 2006", "Design style: Tang Dynasty (618–907 AD)", "Bonsai collection: over 60 specimens", "Pagoda height: 9 stories (approximately 30 m)", "Adjacent to Chi Lin Nunnery built in 1934"],
     },
+    image: "/poi-images/hongkong-nan-lian-garden-life-v2.webp",
   },
   {
     id: "hongkong-park-life-v2",
@@ -527,6 +543,7 @@ export const hongkongLifeV2: POI[] = [
       ro: ["Suprafață: 8 hectare", "An deschidere: 1991", "Voliera adăpostește peste 300 de păsări", "Muzeul Ceaiului datează din 1846", "Lac artificial: 4.000 m²", "Număr de specii de plante: peste 200"],
       en: ["Area: 8 hectares (20 acres)", "Opened: May 1991", "Edward Youde Aviary houses over 300 birds of 80 species", "Flagstaff House built in 1846, oldest colonial building in Hong Kong", "Artificial lake: 0.5 hectares (1.2 acres)", "Annual visitors: approximately 5 million"],
     },
+    image: "/poi-images/hongkong-park-life-v2.webp",
   },
   {
     id: "hongkong-kowloon-park-life-v2",
@@ -558,6 +575,7 @@ export const hongkongLifeV2: POI[] = [
       ro: ["Suprafață: 13,3 hectare", "An deschidere: 1970", "Complex piscine: 4 bazine", "Grădina de sculpturi: 30 de lucrări", "Lac cu păsări: peste 200 de exemplare", "Teatru în aer liber: 900 de locuri"],
       en: ["Area: 13.3 hectares (33 acres)", "Opened: 1970", "Swimming pool complex: 4 pools including Olympic-size", "Sculpture garden: over 30 pieces", "Bird lake: hosts over 200 birds of 50 species", "Annual flower show: 300,000 visitors"],
     },
+    image: "/poi-images/hongkong-kowloon-park-life-v2.webp",
   },
   {
     id: "hongkong-edward-youde-aviary-life-v2",
@@ -589,6 +607,7 @@ export const hongkongLifeV2: POI[] = [
       ro: ["Înălțime: 30 m", "Suprafață: 3.000 m²", "An deschidere: 1992", "Păsări: peste 300", "Specii: 80", "Costul construcției: 20 milioane HKD"],
       en: ["Height: 30 m (98 ft)", "Area: 3,000 m² (32,000 sq ft)", "Opened: 1992", "Birds: over 300 specimens", "Species: 80", "Construction cost: HK$20 million"],
     },
+    image: "/poi-images/hongkong-edward-youde-aviary-life-v2.webp",
   },
   {
     id: "hongkong-ma-wan-park-life-v2",
@@ -620,6 +639,7 @@ export const hongkongLifeV2: POI[] = [
       ro: ["Suprafață: 11,6 hectare", "An deschidere: 2010", "Arca lui Noe: 137 m lungime", "Plajă: 200 m", "Capacitate camping: 50 de locuri", "Cost de construcție: 1 miliard HKD"],
       en: ["Area: 11.6 hectares (28.7 acres)", "Opened: 2010", "Noah's Ark replica: 137 m (449 ft) long", "Beach length: 200 m (656 ft)", "Camping sites: 50", "Total cost: HK$1 billion"],
     },
+    image: "/poi-images/hongkong-ma-wan-park-life-v2.webp",
   },
   {
     id: "hongkong-nam-sang-wai-life-v2",
@@ -651,6 +671,7 @@ export const hongkongLifeV2: POI[] = [
       ro: ["Suprafață: aproximativ 100 ha", "Specii de păsări observate: peste 200", "Face parte din Ruta de migrație est-asiatic-australiană", "Număr de iazuri: peste 50", "Altitudine: 0-5 m", "Desemnat zonă importantă pentru păsări (IBA)"],
       en: ["Area: approximately 100 hectares (247 acres)", "Location: New Territories, near Shenzhen border", "Bird species recorded: over 200", "Part of the East Asian-Australasian Flyway", "Fish ponds: over 50 units", "Designated as an Important Bird Area (IBA)"],
     },
+    image: "/poi-images/hongkong-nam-sang-wai-life-v2.webp",
   },
   {
     id: "hongkong-long-valley-life-v2",
@@ -682,6 +703,7 @@ export const hongkongLifeV2: POI[] = [
       ro: ["Suprafață: aproximativ 100 ha", "Culturi de orez: 30 ha", "Specii de păsări: peste 200", "Statut de protecție: rezervație naturală din 2004", "Altitudine maximă: 10 m", "Utilizat de peste 20 de fermieri locali"],
       en: ["Area: approximately 100 hectares (247 acres)", "Rice paddy area: 30 hectares (74 acres)", "Bird species recorded: over 200", "Protected as a conservation area since 2004", "Maximum elevation: 10 m (33 ft)", "Number of active farms: over 20"],
     },
+    image: "/poi-images/hongkong-long-valley-life-v2.webp",
   },
   {
     id: "hongkong-cape-daguilar-marine-reserve-life-v2",
@@ -713,6 +735,7 @@ export const hongkongLifeV2: POI[] = [
       ro: ["Suprafață: 20 ha marine", "An desemnare: 1996", "Far: înalt de 12 m, construit în 1875", "Specii de corali: peste 50", "Temperatura apei: 16-28 °C", "Stația de cercetare marină înființată în 1990"],
       en: ["Area: 20 hectares (49 acres) of sea", "Designated: 1996", "Lighthouse: 12 m (39 ft) tall, built 1875", "Coral species: over 50", "Water temperature range: 16–28 °C (61–82 °F)", "Research station: Swire Institute of Marine Science (est. 1990)"],
     },
+    image: "/poi-images/hongkong-cape-daguilar-marine-reserve-life-v2.webp",
   },
   {
     id: "hongkong-sha-chau-lung-kwu-chau-marine-park-life-v2",
@@ -744,6 +767,7 @@ export const hongkongLifeV2: POI[] = [
       ro: ["Suprafață: 120 ha", "An desemnare: 1996", "Populație de delfini albi chinezi: ~200", "Număr insule: 2", "Adâncime maximă: 15 m", "Specii de pești: peste 100"],
       en: ["Area: 120 hectares (296 acres)", "Designated: 1996", "Chinese white dolphin population: approximately 200", "Number of islands: 2", "Maximum water depth: 15 m (49 ft)", "Fish species: over 100"],
     },
+    image: "/poi-images/hongkong-sha-chau-lung-kwu-chau-marine-park-life-v2.webp",
   },
   {
     id: "hongkong-yan-chau-tong-marine-park-life-v2",
@@ -775,6 +799,7 @@ export const hongkongLifeV2: POI[] = [
       ro: ["Suprafață: 100 ha", "An desemnare: 2002", "Specii de corali: peste 60", "Adâncime: 5-20 m", "Specii de pești: peste 150", "Curent de maree: până la 2 noduri"],
       en: ["Area: 100 hectares (247 acres)", "Designated: 2002", "Coral species: over 60", "Water depth: 5–20 m (16–66 ft)", "Fish species: over 150", "Tidal current speed: up to 2 knots"],
     },
+    image: "/poi-images/hongkong-yan-chau-tong-marine-park-life-v2.webp",
   },
   {
     id: "hongkong-tung-lung-chau-special-area-life-v2",
@@ -806,6 +831,7 @@ export const hongkongLifeV2: POI[] = [
       ro: ["Suprafață: 10 ha", "An desemnare: 1979", "Petroglife: din Epoca Bronzului (cca. 1000 î.Hr.)", "Fortăreață construită în 1725", "Altitudine maximă: 100 m", "Trasee de cățărare: peste 50"],
       en: ["Area: 10 hectares (24.7 acres)", "Designated: 1979", "Rock carvings: Bronze Age (approx. 1000 BC)", "Fort built: 1725, restored 1988", "Highest point: 100 m (328 ft)", "Climbing routes: over 50"],
     },
+    image: "/poi-images/hongkong-tung-lung-chau-special-area-life-v2.webp",
   },
   {
     id: "hongkong-lung-fu-shan-country-park-life-v2",
@@ -837,6 +863,7 @@ export const hongkongLifeV2: POI[] = [
       ro: ["Suprafață: 113 ha", "An desemnare: 1998", "Altitudine maximă: 150 m", "Specii de fluturi: peste 100", "Păsări cuibăritoare: 40 de specii", "Lungimea traseelor: 5 km"],
       en: ["Area: 113 hectares (279 acres)", "Designated: 1998", "Highest point: 150 m (492 ft)", "Butterfly species: over 100", "Breeding bird species: 40", "Trail length: 5 km (3.1 mi)"],
     },
+    image: "/poi-images/hongkong-lung-fu-shan-country-park-life-v2.webp",
   },
   {
     id: "hongkong-shek-o-country-park-life-v2",
@@ -868,6 +895,7 @@ export const hongkongLifeV2: POI[] = [
       ro: ["Suprafață: 100 ha", "An desemnare: 1979", "Lungimea plajei: 300 m", "Altitudine maximă: 200 m (Dragon's Back)", "Număr trasee: 3", "Temperatura apei: 18-30 °C"],
       en: ["Area: 100 hectares (247 acres)", "Designated: 1979", "Beach length: 300 m (984 ft)", "Highest point: 200 m (656 ft) at Dragon's Back", "Number of hiking trails: 3", "Water temperature range: 18–30 °C (64–86 °F)"],
     },
+    image: "/poi-images/hongkong-shek-o-country-park-life-v2.webp",
   },
   {
     id: "hongkong-tai-tam-country-park-life-v2",
@@ -899,6 +927,7 @@ export const hongkongLifeV2: POI[] = [
       ro: ["Suprafață: 750 ha", "An desemnare: 1979", "Număr rezervoare: 5", "Construirea rezervoarelor: 1883-1917", "Altitudine maximă: 400 m (Mount Parker)", "Specii de păsări: peste 100"],
       en: ["Area: 750 hectares (1,853 acres)", "Designated: 1979", "Number of reservoirs: 5", "Construction period: 1883–1917", "Highest point: 400 m (1,312 ft) at Mount Parker", "Bird species: over 100"],
     },
+    image: "/poi-images/hongkong-tai-tam-country-park-life-v2.webp",
   },
   {
     id: "hongkong-clear-water-bay-country-park-life-v2",
@@ -930,5 +959,6 @@ export const hongkongLifeV2: POI[] = [
       ro: ["Suprafață: 600 ha", "An desemnare: 1979", "Lungimea plajei: 400 m", "Altitudine maximă: 300 m (High Junk Peak)", "Calitatea apei: excelentă (Steag Albastru)", "Restaurante cu fructe de mare: peste 20"],
       en: ["Area: 600 hectares (1,483 acres)", "Designated: 1979", "Beach length: 400 m (1,312 ft)", "Highest point: 300 m (984 ft) at High Junk Peak", "Water quality: excellent (Blue Flag status)", "Seafood restaurants in the area: over 20"],
     },
+    image: "/poi-images/hongkong-clear-water-bay-country-park-life-v2.webp",
   }
 ];

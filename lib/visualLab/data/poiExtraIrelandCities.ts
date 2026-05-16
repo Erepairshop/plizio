@@ -168,6 +168,7 @@ export const poiExtraIrelandCities: POI[] = [
       "The town's population has surged to over 40,000 due to its location near Dublin Airport.",
       "Fingal County Council, the local authority, has its modern headquarters situated in the town."
     ],
-    }
+    },
+    image: "/poi-images/city-swords-extra.webp",
   }
 ];

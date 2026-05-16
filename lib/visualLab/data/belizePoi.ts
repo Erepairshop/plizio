@@ -359,7 +359,8 @@ export const belizeLandmarks: POI[] = [
       en: ["El Castillo is the second tallest man-made structure in Belize.", "The pyramid is adorned with intricate stucco friezes depicting Maya deities.", "Access to the site requires crossing the Mopan River on a hand-cranked ferry."]
     },
     historyYear: 600,
-    historyPeriod: "Classical"
+    historyPeriod: "Classical",
+    image: "/poi-images/bz-xunantunich.webp",
   },
   { 
     id: "bz-altunha", 
@@ -700,7 +701,8 @@ export const belizeLandmarks: POI[] = [
       en: ["The city was founded around 400 BC and abandoned around 400 AD.", "It features some of the earliest known examples of divine kingship architecture.", "Reaching the site typically requires a scenic boat ride across the bay from Corozal."]
     },
     historyYear: -400,
-    historyPeriod: "Classical"
+    historyPeriod: "Classical",
+    image: "/poi-images/bz-cerros.webp",
   }
 ];
 

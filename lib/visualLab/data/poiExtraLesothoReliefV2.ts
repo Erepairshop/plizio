@@ -31,6 +31,7 @@ export const lesothoReliefV2: POI[] = [
       ro: ["Muntele Machache are 2.092 m altitudine.", "Este situat la 30 km sud-vest de Maseru.", "Coordonate: 29°32' S, 27°29' E.", "Face parte dintr-un lanț care separă câmpiile de podiș.", "Precipitațiile medii anuale sunt de 800 mm.", "Densitatea populației în satele din jur este de aproximativ 50 locuitori/km²."],
       en: ["Machache Mountain elevation is 2,092 m (6,864 ft).", "It is located 30 km (19 mi) southwest of Maseru.", "Coordinates: 29°32' S, 27°29' E.", "The mountain is part of a ridge separating lowlands from highlands.", "Average annual rainfall is about 800 mm (31.5 in).", "Population density of surrounding villages is about 50 people per km²."],
     },
+    image: "/poi-images/lesotho-machache-mountain-relief-v2.webp",
   },
   {
     id: "lesotho-moteng-pass-relief-v2",
@@ -62,6 +63,7 @@ export const lesothoReliefV2: POI[] = [
       ro: ["Pasul Moteng are o altitudine de 2.740 m.", "Se află la jumătatea drumului între Butha-Buthe și Mokhotlong.", "Drumul a fost asfaltat în anii 1980.", "Pasul face parte din șoseaua A1.", "Temperatura medie în ianuarie este de 15°C, iar în iulie de 5°C.", "Precipitațiile medii anuale sunt de 700 mm."],
       en: ["Moteng Pass elevation is 2,740 m (8,990 ft).", "It is located halfway between Butha-Buthe and Mokhotlong.", "The road was paved in the 1980s.", "The pass is part of the A1 highway.", "Average temperature in January is 15°C (59°F); in July, 5°C (41°F).", "Average annual precipitation is 700 mm (27.6 in)."],
     },
+    image: "/poi-images/lesotho-moteng-pass-relief-v2.webp",
   },
   {
     id: "lesotho-thabana-morena-relief-v2",
@@ -93,6 +95,7 @@ export const lesothoReliefV2: POI[] = [
       ro: ["Thabana Morena are 1.982 m altitudine.", "Este situat la 20 km sud-est de Maseru.", "Numele înseamnă 'muntele șefului' în sesotho.", "Coordonate: 29°25' S, 27°40' E.", "Altitudinea medie a zonei înconjurătoare este de aproximativ 1.600 m.", "Densitatea populației în zona adiacentă este de aproximativ 100 locuitori/km²."],
       en: ["Thabana Morena is 1,982 m (6,503 ft) high.", "It is located 20 km (12 mi) southeast of Maseru.", "The name means 'Mountain of the Chief' in Sesotho.", "Coordinates: 29°25' S, 27°40' E.", "The surrounding area averages about 1,600 m (5,249 ft) elevation.", "Population density in adjacent area is about 100 people per km²."],
     },
+    image: "/poi-images/lesotho-thabana-morena-relief-v2.webp",
   },
   {
     id: "lesotho-mount-makheke-relief-v2",
@@ -124,6 +127,7 @@ export const lesothoReliefV2: POI[] = [
       ro: ["Muntele Makheke are 2.560 m altitudine.", "Este situat lângă granița cu KwaZulu-Natal.", "Face parte din Munții Drakensberg.", "Coordonate: 29°05' S, 29°10' E.", "Precipitațiile medii anuale sunt de 1.200 mm.", "Cel mai apropiat oraș este Mokhotlong, la aproximativ 40 km."],
       en: ["Mount Makheke elevation is 2,560 m (8,399 ft).", "It is located near the border with KwaZulu-Natal.", "The peak is part of the Drakensberg range.", "Coordinates: 29°05' S, 29°10' E.", "Average annual rainfall is 1,200 mm (47.2 in).", "Nearest town is Mokhotlong, about 40 km (25 mi) away."],
     },
+    image: "/poi-images/lesotho-mount-makheke-relief-v2.webp",
   },
   {
     id: "lesotho-thaba-li-mpe-relief-v2",
@@ -155,6 +159,7 @@ export const lesothoReliefV2: POI[] = [
       ro: ["Thaba-Li-Mpe are 2.150 m altitudine.", "Este situat la sud de Maseru.", "Numele înseamnă 'muntele spiritului rău' în sesotho.", "Coordonate: 29°40' S, 27°30' E.", "Câmpurile din jur sunt la aproximativ 1.800 m altitudine.", "Cea mai apropiată așezare este satul Ribaneng, la aproximativ 10 km."],
       en: ["Thaba-Li-Mpe is 2,150 m (7,054 ft) high.", "It is located south of Maseru.", "The name means 'Mountain of the Evil Spirit' in Sesotho.", "Coordinates: 29°40' S, 27°30' E.", "Surrounding fields are at about 1,800 m (5,906 ft) elevation.", "Nearest settlement is the village of Ribaneng, about 10 km (6.2 mi) away."],
     },
+    image: "/poi-images/lesotho-thaba-li-mpe-relief-v2.webp",
   },
   {
     id: "lesotho-likhoele-mountain-relief-v2",
@@ -186,6 +191,7 @@ export const lesothoReliefV2: POI[] = [
       ro: ["Muntele Likhoele are 2.100 m altitudine.", "Este situat lângă orașul Quthing.", "Coordonate: 30°08' S, 27°44' E.", "Precipitațiile medii anuale sunt de 900 mm.", "Orașul Quthing are aproximativ 15.000 de locuitori.", "Formațiunile stâncoase sunt în principal din gresie."],
       en: ["Likhoele Mountain is 2,100 m (6,890 ft) high.", "It is located near the town of Quthing.", "Coordinates: 30°08' S, 27°44' E.", "Average annual rainfall is 900 mm (35.4 in).", "The town of Quthing has approximately 15,000 inhabitants.", "Rock formations are primarily composed of sandstone."],
     },
+    image: "/poi-images/lesotho-likhoele-mountain-relief-v2.webp",
   },
   {
     id: "lesotho-western-lowlands-relief-v2",
@@ -217,6 +223,7 @@ export const lesothoReliefV2: POI[] = [
       ro: ["Câmpiile Vestice au altitudini între 1.500 și 1.800 m.", "Regiunea acoperă aproximativ 25% din suprafața Lesothoului.", "Densitatea populației depășește 100 locuitori/km².", "Maseru, capitala, este situată în câmpii și are aproximativ 330.000 de locuitori.", "Temperatura medie anuală este de 15°C.", "Precipitațiile anuale sunt între 600 și 800 mm."],
       en: ["Western Lowlands elevation ranges from 1,500 to 1,800 m.", "The region covers about 25% of Lesotho's land area.", "Population density exceeds 100 people per km².", "Maseru, the capital, is located in the Lowlands with ~330,000 inhabitants.", "Average annual temperature is 15°C (59°F).", "Annual rainfall ranges from 600 to 800 mm (23.6–31.5 in)."],
     },
+    image: "/poi-images/lesotho-western-lowlands-relief-v2.webp",
   },
   {
     id: "lesotho-maloti-foothills-relief-v2",
@@ -248,6 +255,7 @@ export const lesothoReliefV2: POI[] = [
       ro: ["Podișurile Maloti au altitudini între 1.800 și 2.200 m.", "Regiunea se întinde pe aproximativ 100 km lungime.", "Butha-Buthe este situat la aproximativ 1.730 m altitudine.", "Râul Little Caledon este un afluent al Vaal-ului.", "Precipitațiile medii anuale sunt de 800 mm.", "Densitatea populației este de aproximativ 80 locuitori/km²."],
       en: ["Maloti Foothills elevation range: 1,800–2,200 m.", "The region extends about 100 km (62 mi) in length.", "Butha-Buthe is at about 1,730 m (5,676 ft) elevation.", "The Little Caledon River is a tributary of the Vaal.", "Average annual rainfall is 800 mm (31.5 in).", "Population density is about 80 people per km²."],
     },
+    image: "/poi-images/lesotho-maloti-foothills-relief-v2.webp",
   },
   {
     id: "lesotho-senqu-river-canyon-relief-v2",
@@ -279,6 +287,7 @@ export const lesothoReliefV2: POI[] = [
       ro: ["Canionul Senqu are peste 100 km lungime.", "Adâncimea maximă este de 800 m.", "Râul Senqu devine mai târziu Râul Orange.", "Canionul este format din bazalt și gresie.", "Râul izvorăște în nord-estul Lesothoului.", "Lățimea canionului variază între 100 și 500 m."],
       en: ["Senqu River Canyon is over 100 km (62 mi) long.", "Maximum depth is 800 m (2,625 ft).", "The Senqu River becomes the Orange River downstream.", "Canyon walls are made of basalt and sandstone.", "The river originates in northeastern Lesotho.", "Width of the canyon ranges from 100 to 500 m (330–1,640 ft)."],
     },
+    image: "/poi-images/lesotho-senqu-river-canyon-relief-v2.webp",
   },
   {
     id: "lesotho-mamoheli-mountain-relief-v2",
@@ -310,6 +319,7 @@ export const lesothoReliefV2: POI[] = [
       ro: ["Muntele Mamoheli are 2.480 m altitudine.", "Este situat lângă Mokhotlong.", "Coordonate: 29°15' S, 29°00' E.", "Temperatura medie vara este de 18°C, iarna de 2°C.", "Precipitațiile anuale sunt de 900 mm.", "Cea mai apropiată așezare este satul Mapholaneng, la aproximativ 15 km."],
       en: ["Mount Mamoheli is 2,480 m (8,136 ft) high.", "It is located near Mokhotlong.", "Coordinates: 29°15' S, 29°00' E.", "Average summer temperature is 18°C (64°F); winter 2°C (36°F).", "Annual precipitation is 900 mm (35.4 in).", "Nearest settlement is Mapholaneng village, about 15 km (9.3 mi) away."],
     },
+    image: "/poi-images/lesotho-mamoheli-mountain-relief-v2.webp",
   },
   {
     id: "lesotho-tlaeeng-pass-relief-v2",
@@ -341,6 +351,7 @@ export const lesothoReliefV2: POI[] = [
       ro: ["Pasul Tlaeeng are o altitudine de 2.950 m.", "Este situat lângă granița cu Africa de Sud.", "Drumul a fost modernizat în anii 1990.", "Pasul face parte din șoseaua A1.", "Temperatura medie în ianuarie este de 12°C, iar în iulie de -2°C.", "Precipitațiile anuale sunt de 600 mm."],
       en: ["Tlaeeng Pass elevation is 2,950 m (9,678 ft).", "It is located near the South African border.", "The road was upgraded in the 1990s.", "The pass is part of the A1 highway.", "Average temperature in January is 12°C (54°F); in July, -2°C (28°F).", "Annual precipitation is 600 mm (23.6 in)."],
     },
+    image: "/poi-images/lesotho-tlaeeng-pass-relief-v2.webp",
   },
   {
     id: "lesotho-black-mountain-pass-relief-v2",
@@ -372,6 +383,7 @@ export const lesothoReliefV2: POI[] = [
       ro: ["Pasul Black Mountain are 2.600 m altitudine.", "Este situat lângă granița cu KwaZulu-Natal.", "Drumul este nepavat și are aproximativ 15 km lungime.", "Panta maximă este de 20%.", "Precipitațiile medii anuale sunt de 1.100 mm.", "Pasul este adesea închis între iunie și august."],
       en: ["Black Mountain Pass elevation is 2,600 m (8,530 ft).", "It is located near the border with KwaZulu-Natal.", "The road is unpaved and about 15 km (9.3 mi) long.", "Maximum gradient is 20%.", "Average annual precipitation is 1,100 mm (43.3 in).", "The pass is often closed from June to August."],
     },
+    image: "/poi-images/lesotho-black-mountain-pass-relief-v2.webp",
   },
   {
     id: "lesotho-mokhoabong-pass-relief-v2",
@@ -403,6 +415,7 @@ export const lesothoReliefV2: POI[] = [
       ro: ["Pasul Mokhoabong are 2.400 m altitudine.", "Este situat lângă Parcul Național Sehlabathebe.", "Lungimea pasului este de aproximativ 10 km.", "Temperatura medie vara este de 16°C, iarna de 0°C.", "Precipitațiile anuale sunt de 1.000 mm.", "Cel mai apropiat oraș este Quthing, la aproximativ 60 km."],
       en: ["Mokhoabong Pass elevation is 2,400 m (7,874 ft).", "It is located near Sehlabathebe National Park.", "The pass is about 10 km (6.2 mi) long.", "Average summer temperature is 16°C (61°F); winter 0°C (32°F).", "Annual precipitation is 1,000 mm (39.4 in).", "Nearest town is Quthing, about 60 km (37 mi) away."],
     },
+    image: "/poi-images/lesotho-mokhoabong-pass-relief-v2.webp",
   },
   {
     id: "lesotho-bushmans-pass-relief-v2",
@@ -434,6 +447,7 @@ export const lesothoReliefV2: POI[] = [
       ro: ["Pasul Bushmans are 2.300 m altitudine.", "Poteca are aproximativ 20 km lungime.", "A fost folosit de poporul San.", "În zonă există peste 100 de situri cu picturi rupestre.", "Pasul face parte din Patrimoniul Mondial Drakensberg.", "Drumeția durează de obicei 2 zile."],
       en: ["Bushmans Pass elevation is 2,300 m (7,546 ft).", "The trail is about 20 km (12.4 mi) long.", "It was used by the San (Bushmen) people.", "The area has over 100 rock art sites.", "The pass is within the Drakensberg World Heritage Site.", "The hike typically takes 2 days."],
     },
+    image: "/poi-images/lesotho-bushmans-pass-relief-v2.webp",
   },
   {
     id: "lesotho-cheche-pass-relief-v2",
@@ -465,6 +479,7 @@ export const lesothoReliefV2: POI[] = [
       ro: ["Pasul Cheche are o altitudine de 1.900 m.", "Este situat lângă Mafeteng.", "Lungimea pasului este de aproximativ 3 km.", "Panta maximă este de 15%.", "Orașul Mafeteng are aproximativ 30.000 de locuitori.", "Râul Caledon curge la aproximativ 5 km distanță."],
       en: ["Cheche Pass elevation is 1,900 m (6,234 ft).", "It is located near Mafeteng.", "The pass is about 3 km (1.9 mi) long.", "Maximum gradient is 15%.", "Mafeteng town has approximately 30,000 inhabitants.", "The Caledon River flows about 5 km (3.1 mi) away."],
     },
+    image: "/poi-images/lesotho-cheche-pass-relief-v2.webp",
   },
   {
     id: "lesotho-sentinel-peak-relief-v2",
@@ -496,6 +511,7 @@ export const lesothoReliefV2: POI[] = [
       ro: ["Altitudinea este de 3.165 metri", "Marchează intrarea în Amfiteatru", "Format din bazalt vulcanic", "Faimos pentru scările metalice verticale", "Oferă vedere spre cascada Tugela", "Parte a patrimoniului Maloti-Drakensberg"],
       en: ["Elevation of 3,165 meters", "Marks the gateway to the Amphitheatre", "Composed of volcanic basalt rock", "Famous for the vertical chain ladders", "Provides views of the Tugela Falls", "Part of the Maloti-Drakensberg World Heritage site"],
     },
+    image: "/poi-images/lesotho-sentinel-peak-relief-v2.webp",
   },
   {
     id: "lesotho-nteko-plateau-relief-v2",
@@ -527,6 +543,7 @@ export const lesothoReliefV2: POI[] = [
       ro: ["Altitudine medie de peste 2.500 metri", "Parte a lanțului muntos Maloti", "Zonă de pășunat vitală pentru localnici", "Compus din roci bazaltice jurasice", "Precipitații abundente în timpul verii", "Zăpada este frecventă în timpul iernii"],
       en: ["Average elevation exceeds 2,500 meters", "Part of the Maloti mountain range", "Crucial grazing land for pastoralists", "Composed of Jurassic basalt rock", "Receives high rainfall during summer", "Snowfall is common during winter months"],
     },
+    image: "/poi-images/lesotho-nteko-plateau-relief-v2.webp",
   },
   {
     id: "lesotho-makhomalong-range-relief-v2",
@@ -558,6 +575,7 @@ export const lesothoReliefV2: POI[] = [
       ro: ["Altitudinea maximă a lanțului Makhomalong este de 3.214 m.", "Lungimea totală a lanțului este de aproximativ 45 km.", "Bazaltul jurasic are o vechime de circa 180 de milioane de ani.", "Precipitațiile medii anuale depășesc 1.000 mm în zona înaltă.", "Râul Senqu, cu o lungime de 355 km, izvorăște din acest lanț.", "În sezonul de iarnă, stratul de zăpadă poate atinge 50 cm."],
       en: ["The highest peak in the Makhomalong Range reaches 3,214 meters (10,545 feet) above sea level.", "The range extends for approximately 45 kilometers (28 miles) from north to south.", "The basalt formations are part of the Karoo-Ferrar Large Igneous Province, dated to the Early Jurassic (about 183 million years ago).", "Annual precipitation ranges from 800 mm in the lower slopes to over 1,200 mm on the highest ridges.", "The range is the source of the Senqu River, which flows for 355 km before joining the Orange River.", "The vegetation includes alpine tundra above 3,000 m, with species such as the Lesotho alpine rose (Erica ceraria)."],
     },
+    image: "/poi-images/lesotho-makhomalong-range-relief-v2.webp",
   },
   {
     id: "lesotho-thaba-tele-mountain-relief-v2",
@@ -589,5 +607,6 @@ export const lesothoReliefV2: POI[] = [
       ro: ["Înălțimea muntelui Thaba-Tele este de 3.122 m.", "Muntele are o proeminență de 823 m față de platoul înconjurător.", "Temperatura medie anuală pe vârf este de 5°C.", "Zăpada persistă în medie 120 de zile pe an.", "Bazinul hidrografic al muntelui alimentează râurile Senqu și Orange.", "Este unul dintre cele mai izolate vârfuri din Lesotho, la 40 km de cel mai apropiat oraș."],
       en: ["Elevation: 3,122 meters (10,243 feet) above sea level.", "Prominence: approximately 823 meters (2,700 feet) from the surrounding plateau.", "The mountain is located 40 km (25 miles) northeast of Quthing town.", "Annual snowfall averages 30 days, with snow patches sometimes lasting into summer.", "Thaba-Tele is a key site for the Lesotho Highlands Water Project, which transfers water to South Africa.", "The first recorded ascent was by a British survey team in 1903."],
     },
+    image: "/poi-images/lesotho-thaba-tele-mountain-relief-v2.webp",
   }
 ];

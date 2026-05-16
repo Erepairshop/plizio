@@ -31,6 +31,7 @@ export const palauReliefV2: POI[] = [
       ro: ["Cea mai mare altitudine: Muntele Ngerchelchuus (242 m)", "Geologie: rocă vulcanică (bazalt și andezit)", "Proporția teritoriului: cca. 70% din suprafața țării", "Vegetație: amestec de junglă și pajiști", "Importanță: sursa principală de apă dulce din Palau", "Curiozitate: sit al teraselor antice de piatră"],
       en: ["Highest elevation: Mount Ngerchelchuus (242 m)", "Geology: volcanic rock (basalt and andesite)", "Territorial share: approx. 70% of Palau's land area", "Vegetation: mix of rainforest and grassland", "Significance: Palau's main source of freshwater", "Feature: site of ancient stone terraces"],
     },
+    image: "/poi-images/palau-babeldaob-highlands-relief-v2.webp",
   },
   {
     id: "palau-rock-islands-relief-v2",
@@ -62,6 +63,7 @@ export const palauReliefV2: POI[] = [
       ro: ["Patrimoniu UNESCO din: 2012", "Numărul insulelor: între 200 și 300", "Altitudine maximă: cca. 200 metri", "Caracteristică: formă de ciupercă prin eroziune biologică", "Lacuri marine: peste 50 de lacuri sărate izolate", "Locație: la sud de Koror, în laguna principală"],
       en: ["UNESCO World Heritage since: 2012", "Number of islands: between 200 and 300", "Highest point: approximately 200 meters", "Feature: mushroom shape due to biological erosion", "Marine lakes: over 50 isolated saltwater lakes", "Location: south of Koror in the main lagoon"],
     },
+    image: "/poi-images/palau-rock-islands-relief-v2.webp",
   },
   {
     id: "palau-bloody-nose-ridge-relief-v2",
@@ -93,6 +95,7 @@ export const palauReliefV2: POI[] = [
       ro: ["Data bătăliei: septembrie - noiembrie 1944", "Locație: Insula Peleliu", "Înălțime: cca. 75 metri peste nivelul mării", "Caracteristică: sute de peșteri fortificate", "Monumente: atât americane, cât și japoneze", "Echipament: epave de tancuri și tunuri vizibile"],
       en: ["Battle date: September to November 1944", "Location: Peleliu Island", "Elevation: approx. 75 meters above sea level", "Feature: hundreds of fortified caves", "Monuments: both U.S. and Japanese markers", "War relics: tank wrecks and artillery still present"],
     },
+    image: "/poi-images/palau-bloody-nose-ridge-relief-v2.webp",
   },
   {
     id: "palau-ngerekebesang-hill-relief-v2",
@@ -124,6 +127,7 @@ export const palauReliefV2: POI[] = [
       ro: ["Locație: Insula Ngerekebesang, Koror", "Înălțime: cca. 100 metri", "Utilizare istorică: sediu japonez (al doilea război mondial)", "Infrastructură: locația unor turnuri de transmisie", "Acces: potecă de drumeție către vârf", "Vizibilitate: vedere spre Meyuns și Malakal"],
       en: ["Location: Ngerekebesang Island, Koror", "Elevation: approx. 100 meters", "Historical use: Japanese headquarters (WWII)", "Infrastructure: site of transmission towers", "Access: hiking trail leads to the summit", "Visibility: view of Meyuns and Malakal"],
     },
+    image: "/poi-images/palau-ngerekebesang-hill-relief-v2.webp",
   },
   {
     id: "palau-malakal-peak-relief-v2",
@@ -155,6 +159,7 @@ export const palauReliefV2: POI[] = [
       ro: ["Înălțime: cca. 124 metri", "Locație: Insula Malakal, Koror", "Funcție: locația unor turnuri radio și GSM", "Cadru: situat direct deasupra portului principal", "Geologie: parte a zonei vulcanice din Koror", "Acces: drum parțial asfaltat către vârf"],
       en: ["Elevation: approx. 124 meters", "Location: Malakal Island, Koror", "Function: site of mobile and radio towers", "Surroundings: directly above Palau's main port", "Geology: part of the Koror volcanic zone", "Access: road leads partially to the top"],
     },
+    image: "/poi-images/palau-malakal-peak-relief-v2.webp",
   },
   {
     id: "palau-angaur-hills-relief-v2",
@@ -186,6 +191,7 @@ export const palauReliefV2: POI[] = [
       ro: ["Resursa principală: fosfat (minat până în 1955)", "Faună: habitat pentru macaci javanezi", "Istorie: Bătălia de la Angaur (septembrie 1944)", "Înălțime: cca. 40-60 metri", "Infrastructură: numeroase tuneluri miniere abandonate", "Geologie: formațiune de calcar coraligen"],
       en: ["Main resource: phosphate (mined until 1955)", "Wildlife: habitat for crab-eating macaques", "History: Battle of Angaur (September 1944)", "Elevation: approx. 40 to 60 meters", "Infrastructure: numerous abandoned mine shafts", "Geology: coral limestone formation"],
     },
+    image: "/poi-images/palau-angaur-hills-relief-v2.webp",
   },
   {
     id: "palau-ngardok-basin-relief-v2",
@@ -217,6 +223,7 @@ export const palauReliefV2: POI[] = [
       ro: ["Suprafața ariei protejate: cca. 7 km²", "Corp de apă: Lacul Ngardok (cel mai mare din Micronezia)", "Altitudine: cca. 30 metri peste nivelul mării", "Faună: prezența crocodilului de apă sărată", "Ornitologie: zonă importantă pentru evantaiul de Palau", "Statut: sit RAMSAR recunoscut internațional"],
       en: ["Conservation area size: approx. 7 km²", "Water body: Lake Ngardok (largest lake in Micronesia)", "Elevation: approx. 30 meters above sea level", "Wildlife: population of saltwater crocodiles", "Birds: Important area for the Palau Fantail", "Status: internationally recognized RAMSAR site"],
     },
+    image: "/poi-images/palau-ngardok-basin-relief-v2.webp",
   },
   {
     id: "palau-ngerukewid-cliffs-relief-v2",
@@ -248,5 +255,6 @@ export const palauReliefV2: POI[] = [
       ro: ["Statut: rezervație naturală strictă", "Restricție: accesul pe insule este strict interzis", "Număr de insule: cca. 70 de formațiuni calcaroase", "Înființare: primul parc național din Palau (1956)", "Ecologie: loc de cuibărit pentru furtunarul de mare", "Vizibilitate: de obicei observabile doar din aer"],
       en: ["Status: Strict Nature Reserve (Seventy Islands)", "Restriction: landing on the islands is strictly forbidden", "Number of islands: approx. 70 small limestone formations", "Established: Palau's first national park (1956)", "Ecology: nesting site for the Wedge-tailed Shearwater", "Visibility: mostly viewed only from the air"],
     },
+    image: "/poi-images/palau-ngerukewid-cliffs-relief-v2.webp",
   }
 ];

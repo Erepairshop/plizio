@@ -31,6 +31,7 @@ export const micronesiaHistoryV2: POI[] = [
       ro: ["Nan Madol a fost desemnat sit UNESCO în anul 2016.", "Orașul a fost construit între anii 1200 și 1500 d.Hr.", "Este adesea numit Veneția Pacificului datorită rețelei sale de canale.", "Unele pietre de bazalt folosite în construcție cântăresc până la 50 de tone.", "Situl se întinde pe o suprafață de aproximativ 18 kilometri pătrați.", "Nan Douwas este cea mai proeminentă structură, servind ca morp de regal."],
       en: ["Nan Madol was designated a UNESCO World Heritage site in 2016.", "The city was constructed between 1200 and 1500 AD.", "It is often referred to as the Venice of the Pacific due to its network of canals.", "Some basalt stones used in construction weigh up to 50 tons.", "The site covers an area of approximately 18 square kilometers.", "Nan Douwas is the most prominent structure, serving as a royal mortuary."],
     },
+    image: "/poi-images/micronesia-nan-madol-history-v2.webp",
   },
   {
     id: "micronesia-lelu-ruins-history-v2",
@@ -62,6 +63,7 @@ export const micronesiaHistoryV2: POI[] = [
       ro: ["Lelu a fost reședința Tokosra, conducătorul suprem al Kosrae.", "Orașul a fost construit pe insula Lelu, care era separată de insula principală.", "Zidurile din Lelu ating înălțimi de până la 6 metri în unele locuri.", "Exploratorii europeni au documentat prima dată ruinele la începutul secolului XIX.", "Situl include morminte regale, cartiere de locuit și zone sacre.", "A intrat în declin după contactul cu bolile occidentale la mijlocul anilor 1800."],
       en: ["Lelu was the residence of the Tokosra, the supreme ruler of Kosrae.", "The city was built on Lelu Island, which was originally separated from the main island.", "Walls in Lelu reach heights of up to 6 meters in some places.", "European explorers first documented the ruins in the early 19th century.", "The site includes royal tombs, living quarters, and sacred areas.", "It fell into decline following contact with Western diseases in the mid-1800s."],
     },
+    image: "/poi-images/micronesia-lelu-ruins-history-v2.webp",
   },
   {
     id: "micronesia-spanish-wall-history-v2",
@@ -93,6 +95,7 @@ export const micronesiaHistoryV2: POI[] = [
       ro: ["Construit în anul 1887.", "Parte a fostului Fort Alphonso XIII.", "S-au folosit blocuri de corali ca material.", "Înălțime originală de peste 2 metri.", "Proteja reședința guvernatorului spaniol.", "Situat în centrul orașului Kolonia."],
       en: ["Constructed in the year 1887.", "Part of the former Fort Alphonso XIII.", "Used coral blocks as building material.", "Originally over 2 meters high.", "Protected the Spanish governor's residence.", "Located in the town center of Kolonia."],
     },
+    image: "/poi-images/micronesia-spanish-wall-history-v2.webp",
   },
   {
     id: "micronesia-chuuk-lagoon-wrecks-history-v2",
@@ -124,6 +127,7 @@ export const micronesiaHistoryV2: POI[] = [
       ro: ["Scufundate pe 17 și 18 februarie 1944.", "Peste 50 de nave japoneze au fost distruse.", "Include celebra epavă a navei Fujikawa Maru.", "Operațiunea Hailstone a fost un atac aerian al SUA.", "Adâncimile variază între 5 și 60 de metri.", "Considerat cimitir de război oficial japonez."],
       en: ["Sunk on February 17 and 18, 1944.", "Over 50 Japanese ships were destroyed.", "Includes the famous wreck of the Fujikawa Maru.", "Operation Hailstone was a US aerial assault.", "Water depths vary from 5 to 60 meters.", "Recognized as an official Japanese war grave."],
     },
+    image: "/poi-images/micronesia-chuuk-lagoon-wrecks-history-v2.webp",
   },
   {
     id: "micronesia-yap-stone-money-banks-history-v2",
@@ -155,6 +159,7 @@ export const micronesiaHistoryV2: POI[] = [
       ro: ["Pietrele sunt din aragonit sau calcit.", "Cele mai mari au 4 metri în diametru.", "Băncile sunt adesea lângă casele bărbaților.", "Proprietatea se schimbă fără a mișca piatra.", "Au fost folosite până la începutul secolului XX.", "Există peste 6.000 de pietre înregistrate în Yap."],
       en: ["The stones are made of aragonite or calcite.", "Largest stones reach 4 meters in diameter.", "Banks are often located near village men's houses.", "Ownership changes without moving the stone.", "Used as primary currency until the early 20th century.", "There are over 6,000 registered stones on Yap."],
     },
+    image: "/poi-images/micronesia-yap-stone-money-banks-history-v2.webp",
   },
   {
     id: "micronesia-sokehs-rock-history-v2",
@@ -186,6 +191,7 @@ export const micronesiaHistoryV2: POI[] = [
       ro: ["Înălțimea maximă este de 191 de metri.", "Formată din rocă bazaltică vulcanică.", "Rebeliunea Sokehs a început în octombrie 1910.", "Vârful găzduiește artilerie japoneză din al Doilea Război Mondial.", "Traseul duce la fortificații istorice.", "Punct de reper iconic al insulei Pohnpei."],
       en: ["Maximum height is 191 meters.", "Composed of volcanic basalt rock.", "The Sokehs Rebellion began in October 1910.", "Summit houses Japanese WWII artillery pieces.", "Hiking trail leads to historical fortifications.", "Iconic landmark of Pohnpei island."],
     },
+    image: "/poi-images/micronesia-sokehs-rock-history-v2.webp",
   },
   {
     id: "micronesia-menke-ruins-history-v2",
@@ -217,6 +223,7 @@ export const micronesiaHistoryV2: POI[] = [
       ro: ["Situat în Valea Menke din Kosrae.", "Centrul venerării zeiței Sinlaku.", "Construcția folosește rocă bazaltică masivă.", "Cultul a fost abandonat în jurul anului 1850.", "Ruinele sunt situate în junglă densă.", "Loc important pentru medicina tradițională."],
       en: ["Located in the Menke Valley on Kosrae.", "Center of worship for the goddess Sinlaku.", "Construction utilizes massive basalt stones.", "The cult was abandoned around 1850.", "Ruins are situated in dense jungle terrain.", "Important site for traditional herbal medicine."],
     },
+    image: "/poi-images/micronesia-menke-ruins-history-v2.webp",
   },
   {
     id: "micronesia-japanese-radio-station-history-v2",
@@ -248,6 +255,7 @@ export const micronesiaHistoryV2: POI[] = [
       ro: ["Construită la începutul anilor 1940.", "S-a folosit beton armat extrem de gros.", "Centru pentru servicii radio și telegrafice.", "Atacată de bombardierele americane în 1944.", "Situată în districtul Madolenihmw.", "Structurile prezintă încă urme de impact."],
       en: ["Constructed in the early 1940s.", "Utilized extremely thick reinforced concrete.", "Center for radio and telegraph services.", "Targeted by US bombers in 1944.", "Located in the Madolenihmw district.", "Structures still show shell impact marks."],
     },
+    image: "/poi-images/micronesia-japanese-radio-station-history-v2.webp",
   },
   {
     id: "micronesia-bechiyal-cultural-village-history-v2",
@@ -279,6 +287,7 @@ export const micronesiaHistoryV2: POI[] = [
       ro: ["Situat pe insula Maap.", "Găzduiește o casă istorică a bărbaților (Faluw).", "Construit folosind tehnici tradiționale de legare.", "Nu s-au folosit cuie în construcție.", "Sunt expuși și bani de piatră (Rai).", "Considerat unul dintre cele mai vechi sate din regiune."],
       en: ["Located on Maap Island.", "Features a historic men's house (Faluw).", "Built using traditional lashing techniques.", "No nails were used in the construction.", "Stone money (Rai) is displayed here.", "Considered one of the oldest villages in the region."],
     },
+    image: "/poi-images/micronesia-bechiyal-cultural-village-history-v2.webp",
   },
   {
     id: "micronesia-tamilyog-stone-money-bank-history-v2",
@@ -310,6 +319,7 @@ export const micronesiaHistoryV2: POI[] = [
       ro: ["Situat în municipalitatea Rull.", "Unele pietre au o vechime de sute de ani.", "Pietrele au fost transportate din Palau.", "Banca este situată lângă o potecă de piatră.", "Pietrele Rai servesc ca monedă ceremonială.", "Folosit adesea pentru tranzacții între clanuri."],
       en: ["Located in the Rull municipality.", "Some stones are several hundred years old.", "Stones were transported from Palau.", "The bank is situated along a stone path.", "Rai stones serve as ceremonial currency.", "Frequently used for clan-level transactions."],
     },
+    image: "/poi-images/micronesia-tamilyog-stone-money-bank-history-v2.webp",
   },
   {
     id: "micronesia-wiir-ruins-history-v2",
@@ -341,6 +351,7 @@ export const micronesiaHistoryV2: POI[] = [
       ro: ["Situat pe insula Tonoas.", "Format din platforme masive de bazalt.", "A fost reședința unor șefi de rang înalt din Chuuk.", "Datat în perioada precolonială.", "Insula a fost numită Dublon sub stăpânire japoneză.", "Locul oferă o vedere panoramică asupra lagunei."],
       en: ["Located on Tonoas Island.", "Composed of massive basalt platforms.", "Former residence of high Chuukese chiefs.", "Dates back to the pre-colonial era.", "The island was named Dublon during Japanese rule.", "Site offers a strategic view over the lagoon."],
     },
+    image: "/poi-images/micronesia-wiir-ruins-history-v2.webp",
   },
   {
     id: "micronesia-sapwuahfik-massacre-site-history-v2",
@@ -372,6 +383,7 @@ export const micronesiaHistoryV2: POI[] = [
       ro: ["Masacrul a avut loc în iulie 1837.", "Atolul era cunoscut atunci sub numele de Ngatik.", "Atacatorii au sosit pe nava Lamino.", "Căpitanul C.H. Hart a condus atacul.", "Scopul a fost jefuirea de carapace de țestoasă.", "A dus la repopularea cu oameni din Pohnpei."],
       en: ["The massacre occurred in July 1837.", "The atoll was then known as Ngatik.", "Attackers arrived on the vessel Lamino.", "Captain C.H. Hart directed the assault.", "Goal was to seize turtle shells (tortoiseshell).", "Led to resettlement by Pohnpeian people."],
     },
+    image: "/poi-images/micronesia-sapwuahfik-massacre-site-history-v2.webp",
   },
   {
     id: "micronesia-nantaku-communication-center-history-v2",
@@ -403,6 +415,7 @@ export const micronesiaHistoryV2: POI[] = [
       ro: ["Situat pe Muntele Sapuk (Weno).", "Construit în anii 1930.", "Include buncăre și un far.", "A servit la monitorizarea Pasajului de Nord.", "Tunuri japoneze sunt încă prezente la fața locului.", "O țintă majoră a bombardamentelor aliate."],
       en: ["Located on Mount Sapuk, Weno Island.", "Constructed in the 1930s.", "Features bunkers and a lighthouse.", "Used for monitoring the North Passage.", "Japanese coastal guns are still on-site.", "Major target for Allied bombing missions."],
     },
+    image: "/poi-images/micronesia-nantaku-communication-center-history-v2.webp",
   },
   {
     id: "micronesia-paliikir-historical-base-history-v2",
@@ -434,5 +447,6 @@ export const micronesiaHistoryV2: POI[] = [
       ro: ["Construită ca aeroport militar japonez.", "A găzduit numeroase avioane de vânătoare.", "Neutralizată de atacurile SUA în 1944.", "În apropiere se află tancuri scufundate.", "Centrul guvernamental a fost deschis aici în 1989.", "Ruine de bazalt sunt încă parțial vizibile."],
       en: ["Built as a Japanese military airfield.", "Housed numerous fighter aircraft.", "Neutralized by US attacks in 1944.", "Sunken tanks are located in the vicinity.", "Government center was established here in 1989.", "Some basalt ruins remain visible today."],
     },
+    image: "/poi-images/micronesia-paliikir-historical-base-history-v2.webp",
   }
 ];

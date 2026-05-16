@@ -31,6 +31,7 @@ export const tuvaluReliefV2: POI[] = [
       ro: ["Altitudinea oficială este menționată de obicei ca fiind de 4,6 metri (15 picioare).", "Tuvalu are al doilea cel mai jos „cel mai înalt punct” dintre toate statele suverane din lume.", "Punctul este situat în centrul zonei împădurite a insulei Niulakita.", "Constă în principal din depozite de corali fosili și humus.", "Niulakita este singura insulă din Tuvalu care atinge această „altitudine”.", "Măsurătorile nivelului mării sunt analizate în raport cu această constantă topografică."],
       en: ["The official elevation is recorded as approximately 4.6 meters (15 feet) above sea level.", "Tuvalu has the second-lowest 'highest point' of any sovereign nation in the world.", "The point is located within the central forested interior of Niulakita island.", "The terrain consists primarily of fossilized coral debris and accumulated organic matter.", "Niulakita is the only island in the country that reaches this specific elevation.", "Sea-level rise projections are often modeled against this topographical reference point."],
     },
+    image: "/poi-images/tuvalu-niulakita-high-point-relief-v2.webp",
   },
   {
     id: "tuvalu-funafuti-atoll-relief-v2",
@@ -62,6 +63,7 @@ export const tuvaluReliefV2: POI[] = [
       ro: ["Suprafața terestră este de doar 2,4 km²", "Laguna Te Namo are o lungime de 18 km", "Baza militară americană a fost construită în 1942", "Punctul maxim de altitudine este de 5 metri", "Găzduiește peste 6.000 de locuitori", "Descoperit de Arent de Peyster în 1819"],
       en: ["Total land area is only 2.4 km²", "Te Namo lagoon is 18 km long", "U.S. military base was established in 1942", "Highest point is just 5 meters above sea level", "Home to over 6,000 residents", "Discovered by Arent de Peyster in 1819"],
     },
+    image: "/poi-images/tuvalu-funafuti-atoll-relief-v2.webp",
   },
   {
     id: "tuvalu-vaitupu-island-relief-v2",
@@ -93,6 +95,7 @@ export const tuvaluReliefV2: POI[] = [
       ro: ["Cea mai mare insulă din Tuvalu cu 5,6 km²", "Școala Motufoua a fost fondată în 1905", "Laguna centrală este aproape complet închisă", "Populația este de aproximativ 1.550 de locuitori", "Prima observare europeană de către balenieri în 1825", "Cunoscută pentru exportul de copra de calitate"],
       en: ["Largest island in Tuvalu with 5.6 km²", "Motufoua School was founded in 1905", "The central lagoon is almost entirely landlocked", "Population is approximately 1,550", "First European sighting by whalers in 1825", "Known for high-quality copra exports"],
     },
+    image: "/poi-images/tuvalu-vaitupu-island-relief-v2.webp",
   },
   {
     id: "tuvalu-nanumanga-island-relief-v2",
@@ -124,6 +127,7 @@ export const tuvaluReliefV2: POI[] = [
       ro: ["Peșterile subacvatice se află la 40m adâncime", "Descoperirea peșterilor a avut loc în 1986", "Suprafața terestră este de aproximativ 3,01 km²", "Satele principale sunt Togau și Matagi", "Nu are lagună, fiind o insulă de recif", "Importantă istoric pentru gropile de taro"],
       en: ["Underwater caves are located at 40m depth", "Discovery of the caves occurred in 1986", "Total land area is about 3.01 km²", "Main villages are Togau and Matagi", "No lagoon, as it is a reef island", "Historically significant for taro cultivation pits"],
     },
+    image: "/poi-images/tuvalu-nanumanga-island-relief-v2.webp",
   },
   {
     id: "tuvalu-nanumea-atoll-relief-v2",
@@ -155,6 +159,7 @@ export const tuvaluReliefV2: POI[] = [
       ro: ["Cel mai nordic atol din Tuvalu", "Pista americană a fost finalizată în 1943", "Format din 5 insule principale", "Suprafața terestră este de aproximativ 3,87 km²", "Ziua comemorativă 'Te Po o Tefolaha' pe 8 ianuarie", "Important loc de cuibărit pentru păsările marine"],
       en: ["Northernmost atoll of Tuvalu", "U.S. airstrip was completed in 1943", "Consists of 5 main islands", "Total land area is about 3.87 km²", "Commemorative day 'Te Po o Tefolaha' on Jan 8th", "Major nesting site for seabirds"],
     },
+    image: "/poi-images/tuvalu-nanumea-atoll-relief-v2.webp",
   },
   {
     id: "tuvalu-niutao-island-relief-v2",
@@ -186,6 +191,7 @@ export const tuvaluReliefV2: POI[] = [
       ro: ["Suprafața terestră este de aproximativ 2,53 km²", "Prezintă două lacuri interioare", "Descoperire europeană în anul 1825", "Altitudinea maximă este de aproximativ 6 metri", "Cunoscută pentru sculpturile tradiționale", "Nu are o lagună navigabilă"],
       en: ["Total land area is about 2.53 km²", "Features two internal ponds", "European discovery occurred in 1825", "Highest elevation is about 6 meters", "Renowned for traditional carvings", "No navigable lagoon available"],
     },
+    image: "/poi-images/tuvalu-niutao-island-relief-v2.webp",
   },
   {
     id: "tuvalu-nui-atoll-relief-v2",
@@ -217,6 +223,7 @@ export const tuvaluReliefV2: POI[] = [
       ro: ["Singurul atol cu limbă microneziană", "Descoperit de Alvaro de Mendana în 1568", "Format din aproximativ 21 de insulițe", "Suprafața terestră este de circa 2,83 km²", "Daune grave provocate de ciclonul Pam în 2015", "Insula principală este Fenua Tapu"],
       en: ["Only atoll where Micronesian language is spoken", "Discovered by Alvaro de Mendana in 1568", "Consists of approximately 21 islets", "Total land area is about 2.83 km²", "Severe damage from Cyclone Pam in 2015", "The main inhabited island is Fenua Tapu"],
     },
+    image: "/poi-images/tuvalu-nui-atoll-relief-v2.webp",
   },
   {
     id: "tuvalu-nukufetau-atoll-relief-v2",
@@ -248,6 +255,7 @@ export const tuvaluReliefV2: POI[] = [
       ro: ["Cel mai adânc canal navigabil din Tuvalu", "Pistă americană pe Motulalo în 1943", "Format din aproximativ 33 de insulițe", "Suprafața terestră este de circa 2,99 km²", "Savave este centrul administrativ", "Cunoscut pentru rezervele mari de castraveți de mare"],
       en: ["Deepest navigable passage in Tuvalu", "U.S. airstrip on Motulalo built in 1943", "Consists of approximately 33 islets", "Total land area is about 2.99 km²", "Savave is the administrative center", "Known for large populations of sea cucumbers"],
     },
+    image: "/poi-images/tuvalu-nukufetau-atoll-relief-v2.webp",
   },
   {
     id: "tuvalu-nukulaelae-atoll-relief-v2",
@@ -279,5 +287,6 @@ export const tuvaluReliefV2: POI[] = [
       ro: ["Cel mai sudic atol din Tuvalu", "Sosirea creștinismului în anul 1861", "Format din 19 insulițe", "Suprafața terestră este de aproximativ 1,82 km²", "Pierderi masive de populație prin sclavie în 1863", "Nu are acces navigabil în lagună"],
       en: ["Southernmost atoll of Tuvalu", "Arrival of Christianity occurred in 1861", "Consists of 19 islets", "Total land area is about 1.82 km²", "Heavy population loss due to slavery in 1863", "No navigable entrance to the lagoon"],
     },
+    image: "/poi-images/tuvalu-nukulaelae-atoll-relief-v2.webp",
   }
 ];

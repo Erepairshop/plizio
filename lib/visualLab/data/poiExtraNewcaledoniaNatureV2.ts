@@ -31,6 +31,7 @@ export const newcaledoniaNatureV2: POI[] = [
       ro: ["Cel mai înalt punct al teritoriului, având 1.628 de metri.", "Găzduiește arborele kauri endemic Agathis montana.", "Face parte dintr-o rezervație naturală încă din 1950.", "Precipitațiile anuale pot atinge 10.000 mm.", "Habitat important pentru gekko uriaș cu creastă.", "Ascensiunea necesită permisiunea triburilor locale."],
       en: ["Highest point in the territory at 1,628 meters.", "Home to the endemic kauri tree Agathis montana.", "Part of a nature reserve established in 1950.", "Annual rainfall can reach up to 10,000 mm.", "Crucial habitat for the New Caledonian Giant Gecko.", "Climbing requires permission from local Kanak tribes."],
     },
+    image: "/poi-images/newcaledonia-mont-panie-nature-v2.webp",
   },
   {
     id: "newcaledonia-mont-humboldt-nature-v2",
@@ -62,6 +63,7 @@ export const newcaledoniaNatureV2: POI[] = [
       ro: ["Al doilea cel mai înalt munte din Noua Caledonie (1.618 m).", "Se află în inima rezervației naturale Mont Humboldt.", "Cunoscut pentru populațiile sale dense de araucaria.", "Masivul este compus în principal din rocă peridotit.", "Habitat important pentru pasărea endemică Kagu.", "Traseul de drumeție către vârf este considerat unul dintre cele mai dificile."],
       en: ["Second highest mountain in New Caledonia at 1,618 meters.", "Located in the heart of the Mont Humboldt Nature Reserve.", "Known for its dense stands of Araucaria pines.", "The massif consists mainly of peridotite rock.", "Essential habitat for the endemic flightless Kagu bird.", "The hiking trail to the summit is considered one of the toughest."],
     },
+    image: "/poi-images/newcaledonia-mont-humboldt-nature-v2.webp",
   },
   {
     id: "newcaledonia-riviere-bleue-nature-v2",
@@ -93,6 +95,7 @@ export const newcaledoniaNatureV2: POI[] = [
       ro: ["Parcul provincial acoperă o suprafață de 9.000 de hectare.", "Găzduiește 'Grand Kaori', un arbore vechi de peste 1.000 de ani.", "Pădurea scufundată s-a format prin construcția barajului Yaté.", "Cea mai mare populație de pasăre Kagu, care nu poate zbura.", "Apa are o colorație albăstruie caracteristică datorită mineralelor.", "Zonă populară pentru caiac prin pădurea scufundată."],
       en: ["The provincial park covers an area of 9,000 hectares.", "Home to the 'Grand Kaori', a tree over 1,000 years old.", "The drowned forest was created by the Yaté dam construction.", "Largest population of the flightless national bird, the Kagu.", "The water has a distinct bluish tint due to minerals.", "Popular location for kayaking through the submerged forest."],
     },
+    image: "/poi-images/newcaledonia-riviere-bleue-nature-v2.webp",
   },
   {
     id: "newcaledonia-lac-en-huit-nature-v2",
@@ -124,6 +127,7 @@ export const newcaledoniaNatureV2: POI[] = [
       ro: ["Format din două bazine conectate printr-un canal îngust.", "Se află lângă Plaine des Lacs în Provincia Sud.", "Apa este săracă în nutrienți, dar bogată în metale dizolvate.", "Înconjurat de vegetație de maquis din Noua Caledonie.", "Loc important de odihnă pentru păsările de apă native.", "Culoarea roșie a țărmului provine de la conținutul ridicat de fier (laterit)."],
       en: ["Consists of two basins connected by a narrow channel.", "Located near the Plaine des Lacs in the South Province.", "Water is nutrient-poor but rich in dissolved metals.", "Surrounded by New Caledonian maquis scrubland.", "Important resting site for native waterfowl.", "The red color of the shores comes from high iron content (laterite)."],
     },
+    image: "/poi-images/newcaledonia-lac-en-huit-nature-v2.webp",
   },
   {
     id: "newcaledonia-chutes-madeleine-nature-v2",
@@ -155,6 +159,7 @@ export const newcaledoniaNatureV2: POI[] = [
       ro: ["Cascadele au o înălțime de aproximativ 5 metri.", "Se întind pe o lățime de aproape 30 de metri.", "Roca este formată din peridotit ultrabazic.", "Situată în inima parcului provincial Blue River.", "Zona înconjurătoare găzduiește 7 specii de conifere.", "Destinație populară pentru fotografia de natură și drumeții scurte."],
       en: ["The waterfalls have a drop height of about 5 meters.", "They span a width of nearly 30 meters.", "The rock consists of ultrabasic peridotite.", "Located within the heart of the Blue River Provincial Park.", "The surrounding area hosts 7 unique species of conifers.", "A popular destination for nature photography and short hikes."],
     },
+    image: "/poi-images/newcaledonia-chutes-madeleine-nature-v2.webp",
   },
   {
     id: "newcaledonia-baie-upi-nature-v2",
@@ -186,6 +191,7 @@ export const newcaledoniaNatureV2: POI[] = [
       ro: ["Faimos pentru stâncile de corali în formă de ciupercă din apă.", "Deseori numit 'micul golf Halong al Pacificului'.", "Accesibil doar cu pirogi polineziene tradiționale.", "Observări frecvente de țestoase marine și pisici de mare.", "Golful este înconjurat de păduri dese de araucaria.", "Situat pe partea de nord-est a insulei Île des Pins."],
       en: ["Famous for mushroom-shaped coral rocks in the water.", "Often referred to as the 'mini Halong Bay of the Pacific'.", "Accessible primarily via traditional Melanesian outrigger canoes.", "Frequent sightings of sea turtles and rays in the lagoon.", "Surrounded by dense forests of New Caledonian columnar pines.", "Located on the northeastern side of the Isle of Pines."],
     },
+    image: "/poi-images/newcaledonia-baie-upi-nature-v2.webp",
   },
   {
     id: "newcaledonia-baie-kanumera-nature-v2",
@@ -217,6 +223,7 @@ export const newcaledoniaNatureV2: POI[] = [
       ro: ["Rocher de Kanumera este o stâncă de calcar coraligen.", "Escaladarea stâncii sacre este strict interzisă.", "Golful se află imediat lângă Baie de Kuto.", "Loc excelent pentru snorkeling cu mulți pești de corali colorați.", "Mărginit de cocotieri și pini din Noua Caledonie.", "Apa este aici deosebit de calmă și protejată."],
       en: ["The Rocher de Kanumera is a coral limestone formation.", "Climbing the sacred rock is prohibited by local custom.", "The bay is located right next to Kuto Bay.", "Excellent snorkeling spot with diverse coral fish species.", "Fringed by coconut palms and New Caledonian columnar pines.", "The water is exceptionally calm and protected from currents."],
     },
+    image: "/poi-images/newcaledonia-baie-kanumera-nature-v2.webp",
   },
   {
     id: "newcaledonia-grottes-adio-nature-v2",
@@ -248,6 +255,7 @@ export const newcaledoniaNatureV2: POI[] = [
       ro: ["Se află la aproximativ 15 kilometri de satul Poya.", "Sistemul de peșteri include mai multe camere mari.", "Găzduiește colonii de lilieci nativi.", "Accesul se face printr-o potecă prin pădurea tropicală.", "Sait arheologic important cu urme de așezări timpurii.", "În timpul sezonului ploios, peșterile pot fi inundate."],
       en: ["Located approximately 15 kilometers from the village of Poya.", "The cave system consists of several large chambers.", "Home to colonies of endemic bent-wing bats.", "Access is via a trail through the primary rainforest.", "Significant archaeological site with traces of early habitation.", "The caves can be prone to flooding during the rainy season."],
     },
+    image: "/poi-images/newcaledonia-grottes-adio-nature-v2.webp",
   },
   {
     id: "newcaledonia-coeur-de-voh-nature-v2",
@@ -279,6 +287,7 @@ export const newcaledoniaNatureV2: POI[] = [
       ro: ["Situat pe coasta de nord-vest, lângă orașul Voh.", "Formațiunea are o lățime de peste 400 de metri.", "Descoperit și popularizat de Yann Arthus-Bertrand.", "Compus din două tipuri de vegetație de mangrove.", "Zonele mai deschise la culoare sunt mlaștini sărate fără vegetație.", "Emblema atrage anual mii de turiști care survolează zona."],
       en: ["Located on the northwest coast near the town of Voh.", "The heart formation is over 400 meters wide.", "Discovered and popularized by photographer Yann Arthus-Bertrand.", "Consists of distinct zones of mangrove species and bare salt pan.", "The lighter interior area is a hypersaline 'tanne' zone.", "The landmark attracts thousands of aerial tourists annually."],
     },
+    image: "/poi-images/newcaledonia-coeur-de-voh-nature-v2.webp",
   },
   {
     id: "newcaledonia-falaises-jokin-nature-v2",
@@ -310,6 +319,7 @@ export const newcaledoniaNatureV2: POI[] = [
       ro: ["Înălțime de aproximativ 40 de metri", "Formate din calcar coralifer fosilizat", "Situate pe coasta de nord a insulei Lifou", "Aparțin districtului tradițional Wet", "Vizibilitate subacvatică de până la 30 de metri", "Punct strategic pentru observarea balenelor în sezon"],
       en: ["Height of approximately 40 meters above sea level", "Composed of fossilized coral limestone", "Located on the northern coast of Lifou Island", "Part of the traditional Wet district", "Underwater visibility can reach up to 30 meters", "Significant site for local community tourism"],
     },
+    image: "/poi-images/newcaledonia-falaises-jokin-nature-v2.webp",
   },
   {
     id: "newcaledonia-baie-ouvea-nature-v2",
@@ -341,6 +351,7 @@ export const newcaledoniaNatureV2: POI[] = [
       ro: ["Lungime de 25 de kilometri de plajă continuă", "Înscris în Patrimoniul UNESCO din anul 2008", "Situat pe atolul Ouvéa din Insulele Loialității", "Adâncimea maximă a lagunei este de 30 de metri", "Găzduiește peste 1.000 de specii de pești", "Fayaoué este principala așezare de-a lungul golfului"],
       en: ["Length of 25 kilometers of continuous beach", "UNESCO World Heritage site since 2008", "Located on the Ouvéa Atoll", "Maximum lagoon depth is around 30 meters", "Home to over 1,000 species of fish", "Fayaoué is the main village along the bay"],
     },
+    image: "/poi-images/newcaledonia-baie-ouvea-nature-v2.webp",
   },
   {
     id: "newcaledonia-trou-bleu-hanawa-nature-v2",
@@ -372,6 +383,7 @@ export const newcaledoniaNatureV2: POI[] = [
       ro: ["Gaură albastră naturală pe insula Ouvéa", "Conectată subteran cu marea liberă", "Nivelul apei variază cu fluxul și refluxul", "Situată în apropierea satului Hanawa", "Diametru de aproximativ 30 de metri", "Adăpostește specii adaptate la apa sărată"],
       en: ["Natural blue hole located on Ouvéa", "Connected to the sea through underground passages", "Water level changes according to the tides", "Situated near the village of Hanawa", "Diameter of approximately 30 meters", "The water is saline due to marine connectivity"],
     },
+    image: "/poi-images/newcaledonia-trou-bleu-hanawa-nature-v2.webp",
   },
   {
     id: "newcaledonia-grotte-troisieme-nature-v2",
@@ -403,6 +415,7 @@ export const newcaledoniaNatureV2: POI[] = [
       ro: ["Localizată în municipalitatea Païta", "Include un lac subteran cu apă dulce", "Formată în depozite de calcar carstic", "Găzduiește colonii de lilieci endemici", "Accesibilă printr-o potecă marcată", "Temperatură constantă a apei de 20-22°C"],
       en: ["Located in the municipality of Païta", "Features a subterranean freshwater lake", "Formed within karst limestone deposits", "Home to several colonies of bats", "Accessible via a marked hiking trail", "Average water temperature is about 20-22°C"],
     },
+    image: "/poi-images/newcaledonia-grotte-troisieme-nature-v2.webp",
   },
   {
     id: "newcaledonia-plateau-dogny-nature-v2",
@@ -434,6 +447,7 @@ export const newcaledoniaNatureV2: POI[] = [
       ro: ["Altitudine de circa 1.050 de metri", "Situat în municipalitatea Sarraméa", "Parte a lanțului muntos Chaîne Centrale", "Renumit pentru pădurile de ferigi gigant", "Vizibilitate spre coasta de est și de vest", "Zonă protejată pentru flora endemică"],
       en: ["Elevation of about 1,050 meters", "Located in the Sarraméa municipality", "Part of the Central Range (Chaîne Centrale)", "Famous for its giant tree fern forests", "Offers views of both east and west coasts", "Important habitat for endemic bird species"],
     },
+    image: "/poi-images/newcaledonia-plateau-dogny-nature-v2.webp",
   },
   {
     id: "newcaledonia-massif-koniambo-nature-v2",
@@ -465,6 +479,7 @@ export const newcaledoniaNatureV2: POI[] = [
       ro: ["Altitudine maximă de 900 de metri", "Unul dintre cele mai mari zăcăminte de nichel", "Situat în Provincia de Nord, lângă Koné", "Compus în principal din rocă peridotit", "Găzduiește complexul industrial Koniambo Nickel", "Vegetație endemică de tip 'maquis minier'"],
       en: ["Maximum elevation of 900 meters", "One of the world's largest nickel deposits", "Located in the North Province near Koné", "Composed mainly of peridotite rock", "Site of the Koniambo Nickel smelting plant", "Home to rare metallophytic plant species"],
     },
+    image: "/poi-images/newcaledonia-massif-koniambo-nature-v2.webp",
   },
   {
     id: "newcaledonia-roche-percee-nature-v2",
@@ -496,6 +511,7 @@ export const newcaledoniaNatureV2: POI[] = [
       ro: ["Formată din rocă de cuarțit metamorfic", "Situată la gura de vărsare a râului Néra", "Include monolitul 'Bonhomme de Bourail'", "Zonă de cuibărit pentru țestoasa verde", "Singura plajă cu valuri de surf de pe insulă", "Structura arcadei este afectată de eroziune"],
       en: ["Composed of metamorphic quartzite rock", "Located at the mouth of the Néra River", "Home to the 'Bonhomme de Bourail' stack", "Nesting site for Green sea turtles", "Only surfing beach on the main island", "Erosion has significantly altered the arch"],
     },
+    image: "/poi-images/newcaledonia-roche-percee-nature-v2.webp",
   },
   {
     id: "newcaledonia-mont-mou-nature-v2",
@@ -527,6 +543,7 @@ export const newcaledoniaNatureV2: POI[] = [
       ro: ["Înălțime maximă de 1.211 metri", "Situat în municipalitatea Païta", "Posedă o pădure de mușchi spectaculoasă", "Habitat pentru planta carnivoră Nepenthes", "Inclus într-o rezervație naturală protejată", "Oferă panoramă asupra peninsulei Nouméa"],
       en: ["Summit elevation of 1,211 meters", "Located in the Païta district", "Famous for dense moss forests at the top", "Home to carnivorous Nepenthes vieillardii", "Part of a protected nature reserve", "Offers views over the Nouméa peninsula"],
     },
+    image: "/poi-images/newcaledonia-mont-mou-nature-v2.webp",
   },
   {
     id: "newcaledonia-baie-prony-nature-v2",
@@ -558,6 +575,7 @@ export const newcaledoniaNatureV2: POI[] = [
       ro: ["Situat în regiunea Grand Sud", "Cunoscut pentru solurile roșii lateritice", "Punct de observare a balenelor (iulie-sept)", "Găzduiește ruinele unui sat din 1867", "Parte a zonei tampon UNESCO", "Punct de vărsare a mai multor râuri"],
       en: ["Located in the Great South (Grand Sud)", "Known for its lateritic red soils", "Key spot for whale watching (July-Sept)", "Home to ruins of a village founded in 1867", "Part of a UNESCO buffer zone", "Mouth of several freshwater rivers"],
     },
+    image: "/poi-images/newcaledonia-baie-prony-nature-v2.webp",
   },
   {
     id: "newcaledonia-aiguilles-prony-nature-v2",
@@ -589,6 +607,7 @@ export const newcaledoniaNatureV2: POI[] = [
       ro: ["Hornuri submarine din calcar", "Înălțime de cca. 20 m de la fundul mării", "Formate prin activitate hidrotermală", "Situate în interiorul Golfului Prony", "Vârstă estimată la câteva mii de ani", "Loc de scufundări unic pentru biodiversitate"],
       en: ["Underwater limestone chimneys", "Rise about 20 meters from the seabed", "Formed by hydrothermal spring activity", "Located within Prony Bay", "Estimated to be several thousand years old", "Popular dive site for biological studies"],
     },
+    image: "/poi-images/newcaledonia-aiguilles-prony-nature-v2.webp",
   },
   {
     id: "newcaledonia-ilot-maitre-nature-v2",
@@ -620,6 +639,7 @@ export const newcaledoniaNatureV2: POI[] = [
       ro: ["Suprafață de cca. 200 de hectare de rezervație", "Distanță de Nouméa: aproximativ 4 km", "Loc recunoscut pentru țestoasele verzi", "Posedă pajiști vaste de iarbă de mare", "Integrată într-un parc marin protejat", "Loc de cuibărit pentru păsări marine"],
       en: ["Area of approx. 200 hectares of reserve", "Distance from Nouméa: about 4 kilometers", "Renowned for sightings of green sea turtles", "Features extensive seagrass meadows", "Part of a strictly protected marine park", "Nesting site for Wedge-tailed shearwaters"],
     },
+    image: "/poi-images/newcaledonia-ilot-maitre-nature-v2.webp",
   },
   {
     id: "newcaledonia-ilot-canard-nature-v2",
@@ -651,6 +671,7 @@ export const newcaledoniaNatureV2: POI[] = [
       ro: ["Situată în fața golfului Anse Vata", "Rezervație marină din anul 1989", "Dotată cu un traseu subacvatic marcat", "Accesibilă în 5 minute cu taxiul pe apă", "Adăpostește peste 100 specii de corali", "Centru activ pentru educație ecologică"],
       en: ["Located off Anse Vata bay", "Protected marine area since 1989", "Features an underwater educational trail", "Accessible in 5 minutes by water taxi", "Home to over 100 species of coral", "Important site for environmental education"],
     },
+    image: "/poi-images/newcaledonia-ilot-canard-nature-v2.webp",
   },
   {
     id: "newcaledonia-plage-luengoni-nature-v2",
@@ -682,6 +703,7 @@ export const newcaledoniaNatureV2: POI[] = [
       ro: ["Situată pe coasta de est a insulei Lifou", "Nisip coralifer alb extrem de fin", "Observări frecvente ale țestoaselor verzi", "Renumită pentru insulițele de corali", "Peșteri adiacente cu bazine de apă dulce", "Teritoriul tradițional al tribului Luengöni"],
       en: ["Located on the east coast of Lifou", "Extremely fine white coral sand", "Green turtle sightings are common", "Known for its offshore coral islets", "Nearby caves feature freshwater pools", "Traditional territory of the Luengöni tribe"],
     },
+    image: "/poi-images/newcaledonia-plage-luengoni-nature-v2.webp",
   },
   {
     id: "newcaledonia-baie-jinek-nature-v2",
@@ -713,6 +735,7 @@ export const newcaledoniaNatureV2: POI[] = [
       ro: ["Cunoscut drept 'acvariu natural'", "Găzduiește peste 2.000 de specii de pești", "Adâncimea apei variază între 2 și 6 metri", "Situat în apropierea satului Easo", "Cote stricte de vizitatori pentru protecție", "Include panouri informative subacvatice"],
       en: ["Referred to as a 'natural aquarium'", "Home to over 2,000 species of fish", "Water depth ranges from 2 to 6 meters", "Located near the village of Easo", "Strict visitor quotas for conservation", "Features marked underwater information"],
     },
+    image: "/poi-images/newcaledonia-baie-jinek-nature-v2.webp",
   },
   {
     id: "newcaledonia-pic-grand-kaori-nature-v2",
@@ -744,6 +767,7 @@ export const newcaledoniaNatureV2: POI[] = [
       ro: ["Situat în Parcul Provincial Rivière Bleue", "Găzduiește un arbore Kaori de 1.000 de ani", "Circumferința arborelui gigant: cca. 9 m", "Habitat crucial pentru pasărea endemică Cagou", "Soluri bogate în fier și mangan (lateritice)", "Înălțimea arborelui Kaori gigant este de 40 m"],
       en: ["Located in the Blue River Provincial Park", "Home to a 1,000-year-old Kaori tree", "Trunk circumference of giant tree: approx. 9m", "Crucial habitat for the endemic Cagou bird", "Soils are rich in iron and manganese", "The giant Kaori stands about 40 meters tall"],
     },
+    image: "/poi-images/newcaledonia-pic-grand-kaori-nature-v2.webp",
   },
   {
     id: "newcaledonia-cascade-tao-nature-v2",
@@ -775,6 +799,7 @@ export const newcaledoniaNatureV2: POI[] = [
       ro: ["Înălțime de aproximativ 100 de metri", "Situată la baza masivului Mont Panié", "Acces prin intermediul bacului Ouaième", "Face parte din Provincia de Nord", "Înconjurată de pădure tropicală primară", "Localizată în apropiere de Hienghène"],
       en: ["Height of approximately 100 meters", "Located at the Mont Panié massif", "Accessed via the Ouaième ferry", "Part of the North Province", "Surrounded by primary rainforest", "Situated near Hienghène"],
     },
+    image: "/poi-images/newcaledonia-cascade-tao-nature-v2.webp",
   },
   {
     id: "newcaledonia-recif-astrolabe-nature-v2",
@@ -806,6 +831,7 @@ export const newcaledoniaNatureV2: POI[] = [
       ro: ["Descoperite în anul 1827", "Numite după nava Astrolabe", "Situate la nord-vest de Ouvéa", "Parte a Insulelor Loialității", "Lungime de aproximativ 30 de kilometri", "Habitat pentru diverse specii de rechini"],
       en: ["Discovered in the year 1827", "Named after the ship Astrolabe", "Located northwest of Ouvéa", "Part of the Loyalty Islands", "Approximately 30 kilometers long", "Habitat for various shark species"],
     },
+    image: "/poi-images/newcaledonia-recif-astrolabe-nature-v2.webp",
   },
   {
     id: "newcaledonia-parc-riviere-bleue-nature-v2",
@@ -837,6 +863,7 @@ export const newcaledoniaNatureV2: POI[] = [
       ro: ["Înființat în anul 1980", "Suprafață de 9000 de hectare", "Habitat al păsării Cagou", "Găzduiește arborele Grand Kaori", "Pădurea scufundată creată în 1958", "Situat în Provincia de Sud"],
       en: ["Established in the year 1980", "Area of 9,000 hectares", "Home to the Cagou bird", "Location of the Grand Kaori tree", "Drowned forest formed in 1958", "Located in the South Province"],
     },
+    image: "/poi-images/newcaledonia-parc-riviere-bleue-nature-v2.webp",
   },
   {
     id: "newcaledonia-chutes-tao-nature-v2",
@@ -868,6 +895,7 @@ export const newcaledoniaNatureV2: POI[] = [
       ro: ["Formă de cascadă în mai multe trepte", "Bază geologică de granit", "Se varsă în lagună", "Înălțime de peste 100 de metri", "Parte a rezervației Mont Panié", "Lângă gura de vărsare a râului Ouaième"],
       en: ["Multi-tiered cascade form", "Granite geological base", "Flows into the lagoon", "Height of over 100 meters", "Part of the Mont Panié reserve", "Near the mouth of the Ouaième"],
     },
+    image: "/poi-images/newcaledonia-chutes-tao-nature-v2.webp",
   },
   {
     id: "newcaledonia-falaises-lekini-nature-v2",
@@ -899,5 +927,6 @@ export const newcaledoniaNatureV2: POI[] = [
       ro: ["Compuse din calcar coralifer fosil", "Înălțime de până la 30 de metri", "Situate pe insula Ouvéa", "Loc sacru pentru Kanak", "Cunoscute pentru numeroase peșteri", "Situate lângă podul Mouli"],
       en: ["Composed of fossil coral limestone", "Height of up to 30 meters", "Located on Ouvéa Island", "Sacred site for the Kanak", "Known for numerous sea caves", "Situated near the Mouli bridge"],
     },
+    image: "/poi-images/newcaledonia-falaises-lekini-nature-v2.webp",
   }
 ];

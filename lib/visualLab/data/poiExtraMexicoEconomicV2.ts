@@ -31,6 +31,7 @@ export const mexicoEconomicV2: POI[] = [
       ro: ["Portul a fost înființat în anul 1974.", "Zona portuară acoperă peste 1.500 de hectare.", "Adâncime maximă de 18 metri în canalul principal.", "Manipulează peste 1,2 milioane TEU anual.", "Dispune de terminale dedicate pentru cărbune și minereu de fier.", "Conectat direct la rețeaua feroviară Kansas City Southern de México."],
       en: ["Established in 1974.", "The port area covers over 1,500 hectares.", "Maximum depth of 18 meters in the main channel.", "Handles over 1.2 million TEUs annually.", "Dedicated terminals for specialized cargo like coal and iron ore.", "Connected to the Kansas City Southern de México railroad network."],
     },
+    image: "/poi-images/mexico-lazaro-cardenas-port-economic-v2.webp",
   },
   {
     id: "mexico-altamira-industrial-port-economic-v2",
@@ -62,6 +63,7 @@ export const mexicoEconomicV2: POI[] = [
       ro: ["Fondat în anul 1985.", "Include 3.500 de hectare destinate utilizării industriale.", "Dispune de 28 de terminale maritime.", "Manipulează peste 20 de milioane de tone de marfă pe an.", "Locația celui mai mare terminal GNL din Golful Mexic.", "Conexiuni cu 125 de porturi din întreaga lume."],
       en: ["Founded in 1985.", "Area of 3,500 hectares for industrial use.", "Features 28 maritime terminals.", "Handles more than 20 million tons of cargo per year.", "Location of the largest LNG terminal in the Gulf of Mexico.", "Direct connection to 125 ports worldwide."],
     },
+    image: "/poi-images/mexico-altamira-industrial-port-economic-v2.webp",
   },
   {
     id: "mexico-fresnillo-silver-mine-economic-v2",
@@ -93,6 +95,7 @@ export const mexicoEconomicV2: POI[] = [
       ro: ["Activitățile miniere sunt înregistrate din 1554.", "Deținută și operată de Fresnillo plc.", "Produce peste 12 milioane de uncii de argint anual.", "Adâncimea subterană depășește 1.000 de metri.", "Angajează peste 2.000 de lucrători direcți.", "Capacitatea instalației de procesare este de 8.000 de tone pe zi."],
       en: ["Mining activities recorded since 1554.", "Owned and operated by Fresnillo plc.", "Produces over 12 million ounces of silver annually.", "Underground depth exceeds 1,000 meters.", "Employment of over 2,000 direct workers.", "Processing plant capacity of 8,000 tonnes per day."],
     },
+    image: "/poi-images/mexico-fresnillo-silver-mine-economic-v2.webp",
   },
   {
     id: "mexico-cananea-copper-mine-economic-v2",
@@ -124,6 +127,7 @@ export const mexicoEconomicV2: POI[] = [
       ro: ["Rezervele sunt estimate la 26 de milioane de tone de cupru.", "Capacitate de producție de peste 400.000 de tone pe an.", "Operațiunile datează din anul 1899.", "Cariera are o lungime de aproximativ 3 kilometri.", "Deținută de Grupo México din 1990.", "Locul primei mișcări muncitorești majore din Mexicul secolului XX."],
       en: ["Reserves estimated at 26 million tonnes of copper.", "Production capacity of over 400,000 tonnes per year.", "Operations date back to 1899.", "The pit is approximately 3 kilometers long.", "Owned by Grupo México since 1990.", "Site of the first major labor movement in 20th-century Mexico."],
     },
+    image: "/poi-images/mexico-cananea-copper-mine-economic-v2.webp",
   },
   {
     id: "mexico-santa-fe-district-economic-v2",
@@ -155,6 +159,7 @@ export const mexicoEconomicV2: POI[] = [
       ro: ["Dezvoltarea urbană a început în anii 1990.", "Găzduiește sediile unor firme majore precum Ford și Microsoft.", "Include Centro Santa Fe, care acoperă 450.000 de metri pătrați.", "Dispune de Parque La Mexicana, un parc urban de 28 de hectare.", "Conectat prin trenul de navetiști Toluca–Ciudad de México.", "Altitudine de aproximativ 2.600 de metri deasupra nivelului mării."],
       en: ["Urban development began in the 1990s.", "Home to the headquarters of major firms like Ford and Microsoft.", "Includes the Centro Santa Fe, covering 450,000 square meters.", "Features the Parque La Mexicana, a 28-hectare urban park.", "Connected by the Toluca–Mexico City commuter rail.", "Altitude of approximately 2,600 meters above sea level."],
     },
+    image: "/poi-images/mexico-santa-fe-district-economic-v2.webp",
   },
   {
     id: "mexico-cantarell-oil-field-economic-v2",
@@ -186,6 +191,7 @@ export const mexicoEconomicV2: POI[] = [
       ro: ["Descoperit de Rudesindo Cantarell în 1971.", "Producția a atins vârful de 2,1 milioane de barili pe zi în 2004.", "Injecția de azot a început în 2000 pentru a menține presiunea.", "Adâncimea apei la sit este de aproximativ 40 până la 50 de metri.", "Producția cumulată depășește 13 miliarde de barili.", "Face parte din provincia petrolieră mai mare Campeche Sound."],
       en: ["Discovered by Rudesindo Cantarell in 1971.", "Production peaked at 2.1 million barrels per day in 2004.", "Nitrogen injection started in 2000 to maintain pressure.", "Water depth at the site is approximately 40 to 50 meters.", "Cumulative production exceeds 13 billion barrels.", "Part of the larger Campeche Sound oil province."],
     },
+    image: "/poi-images/mexico-cantarell-oil-field-economic-v2.webp",
   },
   {
     id: "mexico-dos-bocas-refinery-economic-v2",
@@ -217,6 +223,7 @@ export const mexicoEconomicV2: POI[] = [
       ro: ["Inaugurată în iulie 2022.", "Capacitate de procesare de 340.000 de barili pe zi.", "Acoperă o suprafață de aproximativ 580 de hectare.", "Constă în 17 instalații de procesare.", "Investiția totală este estimată la 16 miliarde USD.", "Proiectată pentru a produce 170.000 de barili de benzină zilnic."],
       en: ["Inaugurated in July 2022.", "Processing capacity of 340,000 barrels per day.", "Covers an area of approximately 580 hectares.", "Consists of 17 processing plants.", "Total investment estimated at 16 billion USD.", "Designed to produce 170,000 barrels of gasoline daily."],
     },
+    image: "/poi-images/mexico-dos-bocas-refinery-economic-v2.webp",
   },
   {
     id: "mexico-reforma-financial-zone-economic-v2",
@@ -248,6 +255,7 @@ export const mexicoEconomicV2: POI[] = [
       ro: ["Modelat după Champs-Élysées din Paris.", "Găzduiește Bolsa Mexicana de Valores (BMV).", "Include Torre Mayor, care a fost cea mai înaltă clădire din regiune până în 2010.", "Lungimea bulevardului este de aproximativ 14,7 kilometri.", "Locul primului hotel internațional din Mexic, Reforma.", "Intersecția cu Avenida de los Insurgentes, un nod major de tranzit."],
       en: ["Modeled after the Champs-Élysées in Paris.", "Home to the Bolsa Mexicana de Valores (BMV).", "Features the Torre Mayor, which was the tallest in LATAM until 2010.", "Avenue length is approximately 14.7 kilometers.", "Site of the first international hotel in Mexico, the Reforma.", "Intersection with Avenida de los Insurgentes, a major transit hub."],
     },
+    image: "/poi-images/mexico-reforma-financial-zone-economic-v2.webp",
   },
   {
     id: "mexico-silao-automotive-cluster-economic-v2",
@@ -279,6 +287,7 @@ export const mexicoEconomicV2: POI[] = [
       ro: ["Fabrica General Motors a fost deschisă în 1994.", "Găzduiește Puerto Interior, cel mai mare port uscat din Mexic.", "Volkswagen operează o fabrică de motoare în vecinătate.", "Produce peste 300.000 de vehicule anual.", "Angajează peste 100.000 de persoane în acest sector.", "Proximitate față de Aeroportul Internațional Bajío."],
       en: ["General Motors plant opened in 1994.", "Home to the Puerto Interior, the largest dry port in Mexico.", "Volkswagen operates an engine plant in the vicinity.", "Produces over 300,000 vehicles annually.", "Employment of more than 100,000 people in the sector.", "Close proximity to the Bajío International Airport."],
     },
+    image: "/poi-images/mexico-silao-automotive-cluster-economic-v2.webp",
   },
   {
     id: "mexico-central-de-abasto-economic-v2",
@@ -310,6 +319,7 @@ export const mexicoEconomicV2: POI[] = [
       ro: ["Deschisă în 1982 pentru a înlocui piața La Merced.", "Ocupă un sit de 327 de hectare.", "Volumul zilnic de tranzacționare depășește 30.000 de tone de produse.", "Primește peste 500.000 de vizitatori în fiecare zi.", "Valoarea comercială anuală este estimată la 9 miliarde USD.", "Angajează peste 70.000 de lucrători permanenți."],
       en: ["Opened in 1982 to replace the La Merced market.", "Occupies a site of 327 hectares.", "Daily trade volume exceeds 30,000 tons of products.", "Receives more than 500,000 visitors every day.", "Annual commercial value estimated at 9 billion USD.", "Employs over 70,000 permanent workers."],
     },
+    image: "/poi-images/mexico-central-de-abasto-economic-v2.webp",
   },
   {
     id: "mexico-penasquito-gold-mine-economic-v2",
@@ -341,6 +351,7 @@ export const mexicoEconomicV2: POI[] = [
       ro: ["Producția comercială a început în anul 2010.", "Deținută de Newmont Corporation din 2019.", "Producția anuală de aur este în medie de 500.000 de uncii.", "Constă în două cariere: Peñasco și Chile Colorado.", "Utilizează o instalație de procesare de 50.000 de tone pe zi.", "Durata de viață a minei este estimată să se extindă după 2030."],
       en: ["Commercial production began in 2010.", "Owned by Newmont Corporation since 2019.", "Annual gold production averages 500,000 ounces.", "Consists of two pits: Peñasco and Chile Colorado.", "Uses a 50,000-tonne-per-day processing facility.", "Life of mine expected to extend beyond 2030."],
     },
+    image: "/poi-images/mexico-penasquito-gold-mine-economic-v2.webp",
   },
   {
     id: "mexico-salina-cruz-port-economic-v2",
@@ -372,6 +383,7 @@ export const mexicoEconomicV2: POI[] = [
       ro: ["Infrastructura portuară modernă a fost stabilită în anii 1970.", "Locația rafinăriei Antonio Dovalí Jaime.", "Manipulează peste 15 milioane de tone de marfă anual.", "Pescaj de apă adâncă de până la 14 metri.", "Parte a unei conexiuni feroviare de 300 km către Coatzacoalcos.", "Punct strategic pentru aprovizionarea cu petrol a coastei Pacificului."],
       en: ["Modern port infrastructure established in the 1970s.", "Location of the Antonio Dovalí Jaime refinery.", "Handles over 15 million tons of cargo annually.", "Deep-water draft of up to 14 meters.", "Part of a 300-kilometer railway connection to Coatzacoalcos.", "Strategic point for oil supply to the Mexican Pacific coast."],
     },
+    image: "/poi-images/mexico-salina-cruz-port-economic-v2.webp",
   },
   {
     id: "mexico-guaymas-port-economic-v2",
@@ -403,6 +415,7 @@ export const mexicoEconomicV2: POI[] = [
       ro: ["Unul dintre cele mai vechi porturi de la Pacificul mexican.", "Hub major pentru exportul de concentrat de cupru.", "Capacitatea de stocare a cerealelor depășește 60.000 de tone.", "Manipulează aproximativ 6 milioane de tone de marfă pe an.", "Pescaj natural de 12 metri în canalul principal.", "Conectat la sistemul feroviar Sonora-Baja California."],
       en: ["One of the oldest ports on the Mexican Pacific coast.", "Major hub for the export of copper concentrate.", "Grain storage capacity exceeds 60,000 tons.", "Handles approximately 6 million tons of cargo per year.", "Natural draft of 12 meters in the main channel.", "Connected to the Sonora-Baja California railway system."],
     },
+    image: "/poi-images/mexico-guaymas-port-economic-v2.webp",
   },
   {
     id: "mexico-progreso-port-economic-v2",
@@ -434,6 +447,7 @@ export const mexicoEconomicV2: POI[] = [
       ro: ["Lungimea digului este de aproximativ 6,5 kilometri.", "Terminalul modern a fost deschis în anul 1989.", "Manipulează peste 100.000 TEU de marfă anual.", "Crucial pentru importul de combustibili și cereale în Yucatán.", "Situat la 36 de kilometri de orașul Mérida.", "Desemnat ca Zonă Economică Strategică (EEZ)."],
       en: ["Pier length is approximately 6.5 kilometers.", "Modern terminal opened in 1989.", "Handles over 100,000 TEUs of container cargo annually.", "Crucial for the import of fuels and grain to Yucatán.", "Located 36 kilometers from the city of Mérida.", "Designated as a Strategic Economic Zone (EEZ)."],
     },
+    image: "/poi-images/mexico-progreso-port-economic-v2.webp",
   },
   {
     id: "mexico-tuxpan-port-economic-v2",
@@ -465,6 +479,7 @@ export const mexicoEconomicV2: POI[] = [
       ro: ["Situat la doar 290 de kilometri de Ciudad de México.", "Portul principal pentru importul de benzină și motorină pentru capitală.", "Dispune de un terminal dedicat Tuxpan Port Terminal (TPT).", "Adâncime navigabilă de 15 metri în canalul de acces.", "Manipularea anuală a mărfurilor depășește 15 milioane de tone.", "Conexiune facilă prin autostrada Tuxpan-Ciudad de México."],
       en: ["Located only 290 kilometers from Mexico City.", "Main port for importing gasoline and diesel for the capital.", "Features a dedicated terminal for Tuxpan Port Terminal (TPT).", "Navigable depth of 15 meters in the access channel.", "Annual cargo handling exceeds 15 million tons.", "Fast connection via the Tuxpan-Mexico City highway."],
     },
+    image: "/poi-images/mexico-tuxpan-port-economic-v2.webp",
   },
   {
     id: "mexico-santa-catarina-industrial-economic-v2",
@@ -496,6 +511,7 @@ export const mexicoEconomicV2: POI[] = [
       ro: ["Santa Catarina face parte din zona metropolitană Monterrey, în statul Nuevo León.", "Zona cuprinde peste 10 parcuri industriale majore cu participare internațională.", "Locația a fost selectată ca destinație pentru viitoarea Gigafactory Tesla din Mexic.", "Orașul este situat strategic pe autostrada care leagă Monterrey de Saltillo.", "Companii tehnologice de top, precum Quanta Computer și Foxconn, au facilități aici.", "Zona industrială beneficiază de acces rapid la Aeroportul Internațional Monterrey."],
       en: ["Santa Catarina is part of the Monterrey metropolitan area in the state of Nuevo León.", "The zone hosts over 10 major industrial parks with international corporate presence.", "The location was selected as the site for the proposed Tesla Gigafactory Mexico.", "The city is strategically positioned along the Monterrey-Saltillo highway.", "Leading tech firms such as Quanta Computer and Foxconn have established operations here.", "The industrial zone benefits from its proximity to Monterrey International Airport."],
     },
+    image: "/poi-images/mexico-santa-catarina-industrial-economic-v2.webp",
   },
   {
     id: "mexico-pesqueria-industrial-hub-economic-v2",
@@ -527,6 +543,7 @@ export const mexicoEconomicV2: POI[] = [
       ro: ["Kia Motors a deschis uzina din Pesquería în 2016, în urma unei investiții masive.", "Capacitatea de producție a fabricii auto este de aproximativ 400.000 de vehicule pe an.", "Ternium operează aici un centru avansat pentru procesarea industrială a oțelului.", "Regiunea a înregistrat o creștere demografică extremă datorită dezvoltării industriale.", "Centrala electrică din Pesquería asigură energia necesară industriei grele locale.", "Locația se află la aproximativ 30 de kilometri nord-est de centrul orașului Monterrey."],
       en: ["Kia Motors opened its Pesquería plant in 2016 following a massive investment.", "The automobile plant has an annual production capacity of approximately 400,000 vehicles.", "Ternium operates a highly advanced industrial steel processing center at this site.", "The region experienced extreme population growth due to industrial settlement.", "The Pesquería power plant secures the energy supply for surrounding heavy industry.", "The hub is located about 30 kilometers northeast of Monterrey city center."],
     },
+    image: "/poi-images/mexico-pesqueria-industrial-hub-economic-v2.webp",
   },
   {
     id: "mexico-san-jose-chiapa-audi-economic-v2",
@@ -558,6 +575,7 @@ export const mexicoEconomicV2: POI[] = [
       ro: ["Uzina a fost pusă oficial în funcțiune la data de 30 septembrie 2016.", "Este fabrica situată la cea mai mare altitudine din rețeaua Audi (2.400 m).", "La San José Chiapa se produce modelul Audi Q5 pentru întreaga piață mondială.", "Fabrica operează complet neutru din punct de vedere al emisiilor de CO2 din 2020.", "Pe terenul uzinei se află un centru de instruire propriu pentru formarea specialiștilor.", "Locația a fost aleasă datorită proximității față de porturile Veracruz și Lázaro Cárdenas."],
       en: ["The plant was officially commissioned on September 30, 2016.", "It is the highest-altitude factory in the entire Audi production network (2,400 m).", "Audi Q5 models for the entire global market are produced in San José Chiapa.", "The factory has operated completely CO2-neutral in production since 2020.", "A dedicated training center for professional education is located on the premises.", "The site was chosen for its proximity to the ports of Veracruz and Lázaro Cárdenas."],
     },
+    image: "/poi-images/mexico-san-jose-chiapa-audi-economic-v2.webp",
   },
   {
     id: "mexico-derramadero-hub-economic-v2",
@@ -589,6 +607,7 @@ export const mexicoEconomicV2: POI[] = [
       ro: ["Derramadero face parte din clusterul auto din Coahuila, unul dintre cele mai mari din țară.", "Stellantis produce aici, printre altele, modelul de pickup Ram pentru export.", "Daimler operează în Derramadero o uzină pentru marca Freightliner.", "Zona industrială se află la aproximativ 25 de kilometri de centrul orașului Saltillo.", "Numeroși furnizori de rangul 1 s-au stabilit în imediata apropiere a uzinelor producătoare.", "Regiunea este un centru important pentru fabricarea motoarelor diesel."],
       en: ["Derramadero is part of the Coahuila automotive cluster, one of the largest in Mexico.", "Stellantis produces the Ram pickup truck here for international export.", "Daimler operates a plant for the Freightliner brand in Derramadero.", "The zone is located approximately 25 kilometers from the city center of Saltillo.", "Numerous Tier-1 suppliers have settled in immediate proximity to the OEM plants.", "The region is a key location for the manufacturing of diesel engines."],
     },
+    image: "/poi-images/mexico-derramadero-hub-economic-v2.webp",
   },
   {
     id: "mexico-valle-del-yaqui-agriculture-economic-v2",
@@ -620,6 +639,7 @@ export const mexicoEconomicV2: POI[] = [
       ro: ["Valea cuprinde aproximativ 450.000 de hectare de teren agricol irigat.", "Ciudad Obregón este centrul economic și hub-ul logistic al regiunii.", "Revoluția Verde a început aici în anii 1940 și 1950.", "Pe lângă grâu, în Valea Yaqui se cultivă porumb, bumbac și legume.", "Sistemul de irigații este alimentat în principal de barajul Álvaro Obregón.", "Peste 50% din producția de grâu a Mexicului provine din această zonă."],
       en: ["The valley encompasses around 450,000 hectares of irrigated farmland.", "Ciudad Obregón serves as the economic center and logistical hub of the region.", "The Green Revolution began here during the 1940s and 1950s.", "In addition to wheat, corn, cotton, and vegetables are grown in the Yaqui Valley.", "The irrigation system is primarily fed by the Álvaro Obregón Dam.", "Over 50% of Mexican wheat production originates from this area."],
     },
+    image: "/poi-images/mexico-valle-del-yaqui-agriculture-economic-v2.webp",
   },
   {
     id: "mexico-la-laguna-dairy-region-economic-v2",
@@ -651,6 +671,7 @@ export const mexicoEconomicV2: POI[] = [
       ro: ["La Laguna produce aproximativ 25% din cantitatea totală de lapte din Mexic.", "Principalele orașe din regiune sunt Torreón, Gómez Palacio și Lerdo.", "Regiunea a fost un centru major al cultivării bumbacului la sfârșitul secolului al XIX-lea.", "Peste 400.000 de vaci cu lapte sunt crescute în fermele specializate.", "Apa pentru agricultură provine în mare parte din barajele Lázaro Cárdenas și Francisco Zarco.", "La Laguna dispune de un lanț logistic extrem de dezvoltat pentru alimente refrigerate."],
       en: ["La Laguna produces approximately 25% of Mexico's total milk supply.", "The key cities in the region are Torreón, Gómez Palacio, and Lerdo.", "The region was a significant center for cotton cultivation in the late 19th century.", "Over 400,000 dairy cows are kept in specialized farming operations.", "Water for agriculture primarily comes from the Lázaro Cárdenas and Francisco Zarco dams.", "La Laguna features a highly developed logistics chain for refrigerated food products."],
     },
+    image: "/poi-images/mexico-la-laguna-dairy-region-economic-v2.webp",
   },
   {
     id: "mexico-minatitlan-refinery-economic-v2",
@@ -682,6 +703,7 @@ export const mexicoEconomicV2: POI[] = [
       ro: ["Rafinăria are o capacitate instalată de aproximativ 285.000 de barili pe zi.", "A fost prima rafinărie din America Latină care a utilizat procese moderne de cracare.", "Minatitlán este situată strategic pe malul râului Coatzacoalcos.", "Complexul include peste 25 de unități de procesare diferite.", "Pe lângă benzină și motorină, uzina produce diverse materii prime petrochimice.", "Rafinăria este o componentă esențială a Coridorului Interoceanic."],
       en: ["The refinery has an installed capacity of approximately 285,000 barrels per day.", "It was the first refinery in Latin America to employ modern cracking processes.", "Minatitlán is strategically located on the banks of the Coatzacoalcos River.", "The complex comprises over 25 different processing plants.", "In addition to gasoline and diesel, the plant produces various petrochemical feedstocks.", "The refinery is a key component of the Interoceanic Corridor project."],
     },
+    image: "/poi-images/mexico-minatitlan-refinery-economic-v2.webp",
   },
   {
     id: "mexico-cadereyta-refinery-economic-v2",
@@ -713,6 +735,7 @@ export const mexicoEconomicV2: POI[] = [
       ro: ["Rafinăria a fost inaugurată oficial în anul 1979.", "Capacitatea de procesare este de aproximativ 275.000 de barili de țiței pe zi.", "Aprovizionează cu combustibil statele Nuevo León, Coahuila și Tamaulipas.", "Rafinăria este conectată prin conducte direct cu câmpurile petroliere din sud-est.", "Complexul dispune de o unitate proprie pentru recuperarea sulfului.", "Cadereyta este una dintre cele mai mari rafinării operate de Pemex în țară."],
       en: ["The refinery was officially inaugurated in 1979.", "The processing capacity is approximately 275,000 barrels of crude oil per day.", "It supplies fuels to the states of Nuevo León, Coahuila, and Tamaulipas.", "The refinery is directly connected to southeastern oil fields via pipelines.", "The complex features its own sulfur recovery unit.", "Cadereyta is one of the largest refineries operated by Pemex in the country."],
     },
+    image: "/poi-images/mexico-cadereyta-refinery-economic-v2.webp",
   },
   {
     id: "mexico-piedras-negras-coal-economic-v2",
@@ -744,6 +767,7 @@ export const mexicoEconomicV2: POI[] = [
       ro: ["Zăcămintele de cărbune din regiune sunt printre cele mai mari din țară.", "Mineritul se realizează atât în cariere de suprafață, cât și în subteran.", "Centralele Carbón I și II acoperă o parte considerabilă din cererea de electricitate a Mexicului.", "Minele sunt operate în principal de companii precum Micare.", "Piedras Negras este situat chiar la granița cu Eagle Pass, Texas.", "Transportul cărbunelui se face predominant printr-o rețea feroviară specializată."],
       en: ["The coal reserves in the region are among the largest in the country.", "Mining is conducted through both open-pit and underground methods.", "The Carbón I and II power plants supply a significant portion of Mexico's electricity needs.", "The mines are primarily operated by companies such as Micare.", "Piedras Negras is located directly on the border with Eagle Pass, Texas.", "Coal transport is predominantly handled via a specialized rail network."],
     },
+    image: "/poi-images/mexico-piedras-negras-coal-economic-v2.webp",
   },
   {
     id: "mexico-san-luis-rio-colorado-trade-economic-v2",
@@ -775,6 +799,7 @@ export const mexicoEconomicV2: POI[] = [
       ro: ["Orașul este cunoscut pentru exportul de sparanghel și curmale de înaltă calitate.", "Punctul de trecere a frontierei San Luis I este unul dintre cele mai utilizate din regiune.", "Regiunea utilizează apa din râul Colorado pentru irigații.", "San Luis Río Colorado a fost fondat oficial ca municipalitate în 1917.", "Economia locală este consolidată de numeroase maquiladoras (uzine de asamblare).", "Climatul este extrem de arid, cu temperaturi de vară care depășesc adesea 45 de grade Celsius."],
       en: ["The city is well-known for the export of high-quality asparagus and dates.", "The San Luis I border crossing is one of the most utilized in the region.", "The area utilizes water from the Colorado River for its irrigation systems.", "San Luis Río Colorado was officially established as a municipality in 1917.", "The local economy is bolstered by numerous maquiladora assembly plants.", "The climate is extremely arid, with summer temperatures often exceeding 45 degrees Celsius."],
     },
+    image: "/poi-images/mexico-san-luis-rio-colorado-trade-economic-v2.webp",
   },
   {
     id: "mexico-caborca-gold-district-economic-v2",
@@ -806,6 +831,7 @@ export const mexicoEconomicV2: POI[] = [
       ro: ["Mina La Herradura este operată de Fresnillo plc, un lider mondial în producția de argint.", "Exploatarea aurului la scară largă în regiune a început intens în anii 1990.", "Pe lângă aur, în district se extrag și cantități semnificative de argint.", "Extracția aurului se realizează în principal prin procesul de lixiviere în stive.", "Caborca este, de asemenea, un centru important pentru cultivarea strugurilor și măslinelor.", "Mineritul oferă locuri de muncă directe pentru mii de oameni din regiune."],
       en: ["The La Herradura mine is operated by Fresnillo plc, a global leader in silver production.", "Large-scale gold mining in the region began intensively during the 1990s.", "In addition to gold, significant quantities of silver are also extracted in the district.", "Gold recovery is primarily achieved through the heap leaching process.", "Caborca is also a major center for the cultivation of grapes and olives.", "The mining industry provides direct employment for thousands of people in the region."],
     },
+    image: "/poi-images/mexico-caborca-gold-district-economic-v2.webp",
   },
   {
     id: "mexico-navojoa-agro-industry-economic-v2",
@@ -837,6 +863,7 @@ export const mexicoEconomicV2: POI[] = [
       ro: ["Navojoa este situat în inima fertilei Văi Mayo.", "Orașul este un nod feroviar important pentru exportul de bunuri agricole.", "Aici se află mari unități de morărit și facilități de procesare a alimentelor.", "Regiunea este unul dintre principalii exportatori de năut către Europa și Asia.", "Navojoa a fost ridicat oficial la rangul de oraș în anul 1923.", "Agricultura este susținută de barajul Adolfo Ruiz Cortines (Mocúzari)."],
       en: ["Navojoa is located in the heart of the fertile Mayo Valley.", "The city serves as a major railway junction for the export of agricultural goods.", "Large-scale milling operations and food processing plants are located here.", "The region is a leading exporter of chickpeas to Europe and Asia.", "Navojoa was officially granted city status in 1923.", "Agriculture is supported by the Adolfo Ruiz Cortines (Mocúzari) Dam."],
     },
+    image: "/poi-images/mexico-navojoa-agro-industry-economic-v2.webp",
   },
   {
     id: "mexico-intermodal-terminal-queretaro-economic-v2",
@@ -868,6 +895,7 @@ export const mexicoEconomicV2: POI[] = [
       ro: ["Terminalul este situat strategic în coridorul industrial El Bajío.", "Oferă servicii specializate pentru transbordarea containerelor.", "Facilitatea are conexiuni directe cu autostrada 57 (Autostrada NAFTA).", "Aici sunt manipulate anual zeci de mii de unități de containere (TEU).", "Terminalul susține sistemul Just-in-Time al industriei auto regionale.", "Face parte dintr-un parc logistic vast situat lângă Aeroportul Querétaro."],
       en: ["The terminal is conveniently located within the El Bajío industrial corridor.", "It offers specialized services for the handling and transshipment of containers.", "The facility has direct connections to Highway 57, also known as the NAFTA Highway.", "Tens of thousands of twenty-foot equivalent units (TEUs) are handled here annually.", "The terminal supports the Just-in-Time systems of the regional automotive industry.", "It is part of a large-scale logistics park near the Querétaro International Airport."],
     },
+    image: "/poi-images/mexico-intermodal-terminal-queretaro-economic-v2.webp",
   },
   {
     id: "mexico-cactus-gas-plant-economic-v2",
@@ -899,6 +927,7 @@ export const mexicoEconomicV2: POI[] = [
       ro: ["Cactus face parte din cel mai mare complex de procesare a gazelor din întreg Mexicul.", "Instalația și-a început operațiunile în anii 1970.", "Zilnic, aici sunt procesate sute de milioane de picioare cubice de gaz natural.", "Pe lângă gazul natural, se obțin sulf și gaze lichide precum propanul și butanul.", "Complexul este conectat prin conducte de gaz cu centrul țării.", "Cactus joacă un rol cheie în reducerea arderii gazelor la faclă."],
       en: ["Cactus is part of the largest gas processing complex in all of Mexico.", "The facility began its operations during the 1970s.", "Hundreds of millions of cubic feet of natural gas are processed here daily.", "In addition to natural gas, sulfur and liquid gases such as propane and butane are recovered.", "The complex is connected to the center of the country via a network of gas pipelines.", "Cactus plays a key role in reducing gas flaring in the region."],
     },
+    image: "/poi-images/mexico-cactus-gas-plant-economic-v2.webp",
   },
   {
     id: "mexico-seybaplaya-port-economic-v2",
@@ -930,5 +959,6 @@ export const mexicoEconomicV2: POI[] = [
       ro: ["Seybaplaya este situat la aproximativ 30 de kilometri sud-vest de orașul Campeche.", "Portul dispune de un terminal modern pentru manipularea mărfurilor în vrac.", "Este un punct logistic important pentru construcția proiectului Tren Maya.", "Moloale au fost consolidate pentru a primi nave cu pescaj mai mare.", "Portul susține activitățile Pemex în regiunea marină a Campeche.", "În anul 2019, a fost inaugurat primul terminal de croazieră din port."],
       en: ["Seybaplaya is located about 30 kilometers southwest of the city of Campeche.", "The port features a modern terminal for the handling of bulk cargo.", "It serves as a key logistics point for the construction of the Tren Maya project.", "The quays have been reinforced to accommodate vessels with deeper drafts.", "The port supports Pemex operations in the Campeche Sound region.", "The first cruise ship terminal in the port was inaugurated in 2019."],
     },
+    image: "/poi-images/mexico-seybaplaya-port-economic-v2.webp",
   }
 ];

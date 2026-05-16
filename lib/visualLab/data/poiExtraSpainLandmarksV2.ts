@@ -850,5 +850,6 @@ imageHint: "Roman Bridge of Cordoba at sunset with the cathedral in the backgrou
       ro: ["Construcție finalizată în anul 1328 de Alfonso XI", "Fost sediu al Tribunalului Inchiziției Spaniole", "Grădinile ocupă o suprafață de 55.000 mp", "Adăpostește un sarcofag roman din secolul III", "Turnul Inchiziției este cel mai impunător", "Inclus în patrimoniul UNESCO din anul 1994"],
       en: ["Built in 1328 on the site of a Visigoth castle", "Served as a primary residence for Catholic Monarchs", "Location of Columbus's 1486 royal audience", "UNESCO World Heritage site status since 1994", "Features 55,000 square meters of lush gardens", "Contains well-preserved Roman mosaics and baths"],
     },
+    image: "/poi-images/spain-alcazar-de-los-reyes-cristianos-landmarks-v2.webp",
   }
 ];

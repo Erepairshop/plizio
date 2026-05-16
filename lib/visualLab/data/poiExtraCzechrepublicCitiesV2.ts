@@ -2379,6 +2379,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Fondat în secolul al XI-lea", "Castelul Konopiště se află la doar 2 km de centru", "Conectat la rețeaua feroviară în anul 1871", "Biserica Sfântul Nicolae datează inițial din secolul al XIII-lea", "Găzduiește ruinele unei mănăstiri minorite din 1247", "Nod de transport strategic la sud de Praga"],
       en: ["Founded in the 11th century", "Konopiště Castle is located only 2 km from the center", "Connected to the railway network in 1871", "The Church of Saint Nicholas dates back to the 13th century", "Features ruins of a Minorite monastery founded in 1247", "Important transport hub south of Prague"],
     },
+    image: "/poi-images/czechrepublic-benesov-cities-v2.webp",
   },
   {
     id: "czechrepublic-valasske-klobouky-cities-v2",
@@ -2411,6 +2412,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Menționat pentru prima dată în 1341", "Situat în aria protejată a Carpaților Albi", "Faimos pentru Târgul tradițional de Sfântul Nicolae", "Găzduiește un muzeu dedicat istoriei postăvăritului", "A primit statutul de oraș în 1356", "Biserica parohială este dedicată Înălțării Sfintei Cruci"],
       en: ["First mentioned in the year 1341", "Located in the White Carpathians Protected Landscape Area", "Famous for its traditional Saint Nicholas Fair", "Home to a museum on the history of cloth-making", "Granted town status in 1356", "The parish church is dedicated to the Holy Cross"],
     },
+    image: "/poi-images/czechrepublic-valasske-klobouky-cities-v2.webp",
   },
   {
     id: "czechrepublic-jesenik-cities-v2",
@@ -2443,6 +2445,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Fondat în secolul al XIII-lea", "Primul institut de hidroterapie din lume (1822)", "Locul de origine al lui Vincenz Prießnitz (1799–1851)", "Deține o cetate de apă medievală unică", "Cel mai înalt vârf din apropiere este Praděd (1491 m)", "Statut de oraș obținut în anul 1267"],
       en: ["Founded in the 13th century", "Site of the world's first hydrotherapy institute (1822)", "Home of Vincenz Prießnitz (1799–1851)", "Features a unique medieval Water Fortress", "Highest nearby peak is Praděd at 1,491 m", "Granted town status in the year 1267"],
     },
+    image: "/poi-images/czechrepublic-jesenik-cities-v2.webp",
   },
   {
     id: "czechrepublic-novy-jicin-cities-v2",
@@ -2475,6 +2478,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Fondat la începutul secolului al XIV-lea", "Găzduiește singurul muzeu specializat în pălării din lume", "Centrul istoric este rezervație de monumente urbane", "Compania Tonak produce pălării aici din 1799", "Piața centrală are o formă pătrată exactă", "Castelul Žerotín datează din jurul anului 1500"],
       en: ["Founded in the early 14th century", "Home to the world's only specialized hat museum", "Historic center is a designated urban monument reservation", "The Tonak company has produced hats here since 1799", "The main square is a perfect square in layout", "The Žerotín Chateau dates from around 1500"],
     },
+    image: "/poi-images/czechrepublic-novy-jicin-cities-v2.webp",
   },
   {
     id: "czechrepublic-hronov-cities-v2",
@@ -2507,6 +2511,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Locul de naștere al lui Alois Jirásek (1851–1930)", "Găzduiește cel mai vechi festival de teatru de amatori din Europa", "Turnul clopotniță din lemn datează din anul 1610", "Faimos pentru izvoarele minerale Hronovka și Regnerka", "Situat în regiunea turistică Kladské pomezí", "Statut de oraș obținut în secolul al XIV-lea"],
       en: ["Birthplace of Alois Jirásek (1851–1930)", "Home to Europe's oldest amateur theater festival (since 1931)", "Wooden bell tower of All Saints Church dates to 1610", "Famous for the Hronovka and Regnerka mineral springs", "Located in the Kladské pomezí tourist region", "Granted town status in the 14th century"],
     },
+    image: "/poi-images/czechrepublic-hronov-cities-v2.webp",
   },
   {
     id: "czechrepublic-roznove-pod-radhostem-cities-v2",
@@ -2539,6 +2544,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Fondarea orașului de către episcopul Bruno von Schauenburg în 1267", "Inaugurarea Muzeului Satului Valah ca primul de acest tip în 1925", "Construcția capelei de pe muntele Radhošť în anul 1898", "Localitatea este situată la o altitudine medie de 378 de metri", "Dezvoltarea unei industrii electronice masive prin compania Tesla în secolul XX", "Suprafața totală administrată de oraș este de aproximativ 39 km pătrați"],
       en: ["Foundation of the town by Bishop Bruno von Schauenburg in 1267", "Opening of the Wallachian Open-Air Museum as the first in the region in 1925", "Consecration of the Saints Cyril and Methodius Chapel on Mount Radhošť in 1898", "The town is located at an average elevation of 378 meters above sea level", "Establishment of a large-scale electronics industry by Tesla in the 20th century", "The municipal area covers a total of approximately 39 square kilometers"],
     },
+    image: "/poi-images/czechrepublic-roznove-pod-radhostem-cities-v2.webp",
   },
   {
     id: "czechrepublic-frydlant-cities-v2",
@@ -2571,6 +2577,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Prima mențiune documentară a așezării datează din anul 1278", "Albrecht von Wallenstein a transformat orașul în centrul ducatului său Friedland", "Clădirea monumentală a primăriei a fost ridicată între 1893 și 1896", "Castelul a fost deschis publicului larg încă din anul 1801", "Râul Smědá traversează chiar zona centrală a orașului", "Populația actuală a orașului este de aproximativ 7.500 de locuitori"],
       en: ["First written mention of the settlement dates back to 1278", "Albrecht von Wallenstein established the center of his Duchy of Friedland here", "The monumental town hall was constructed between 1893 and 1896", "The castle complex was opened to the general public as early as 1801", "The Smědá River flows directly through the heart of the town", "The population of the town remains stable at approximately 7,500 residents"],
     },
+    image: "/poi-images/czechrepublic-frydlant-cities-v2.webp",
   },
   {
     id: "czechrepublic-turnov-cities-v2",
@@ -2603,6 +2610,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Fondarea orașului în jurul anului 1250 de către nobilii Wallenstein", "Găzduiește cea mai veche școală de bijuterie din Europa, fondată în 1884", "Centru tradițional de prelucrare a granatului boem de mai multe secole", "Turnov reprezintă centrul geografic al Geoparcului UNESCO Paradisul Boem", "Castelul Hrubý Rohozec datează inițial din secolul al XIV-lea", "Orașul deține Muzeul Paradisului Boem cu o colecție impresionantă de pietre prețioase"],
       en: ["Foundation of the town around 1250 by the Lords of Wallenstein", "Home to the oldest jewelry vocational school in Europe, founded in 1884", "Centuries-old center for the processing of famous Bohemian garnets", "Turnov serves as the geographical center of the UNESCO Bohemian Paradise Geopark", "Hrubý Rohozec Chateau originally dates back to the 14th century", "The town hosts the Museum of the Bohemian Paradise with a vast gemstone collection"],
     },
+    image: "/poi-images/czechrepublic-turnov-cities-v2.webp",
   },
   {
     id: "czechrepublic-usti-nad-orlici-cities-v2",
@@ -2635,6 +2643,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Fondarea orașului de către Wilhelm de Drnholec în jurul anului 1285", "Deschiderea liniei ferate strategice în anul 1845", "Teatrul funcționalist Roškot a fost construit între 1935 și 1936", "Orașul a fost principalul centru al industriei textile din estul Boemiei", "Altitudinea medie a localității este de aproximativ 340 de metri", "Centrul istoric a fost declarat zonă protejată de monumente în anul 1991"],
       en: ["Foundation of the town by Wilhelm of Drnholec around 1285", "Opening of the strategically important railway line in 1845", "The functionalist Roškot Theater was constructed between 1935 and 1936", "The town was a leading center of the textile industry in Eastern Bohemia", "The elevation of the town is approximately 340 meters above sea level", "The historic center was designated a municipal monument zone in 1991"],
     },
+    image: "/poi-images/czechrepublic-usti-nad-orlici-cities-v2.webp",
   },
   {
     id: "czechrepublic-dvur-kralove-nad-labem-cities-v2",
@@ -2667,6 +2676,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Prima mențiune documentară a orașului datează din anul 1270", "Descoperirea Manuscrisului de la Dvůr Králové în biserica locală în 1817", "Fondarea Grădinii Zoologice Dvůr Králové în anul 1946", "Orașul este un centru tradițional pentru fabricarea ornamentelor de Crăciun", "Barajul Les Království din apropiere este considerat unul dintre cele mai frumoase din Cehia", "Distanța până la granița ceho-polonă este de aproximativ 20 de kilometri"],
       en: ["First documentary mention of the town occurred in 1270", "Discovery of the Dvůr Králové Manuscript in the local church in 1817", "Foundation of the Dvůr Králové Zoo in the post-war year of 1946", "The town is a traditional hub for the production of glass Christmas decorations", "The nearby Les Království Dam is often cited as the most beautiful in the country", "The distance to the Czech-Polish border is approximately 20 kilometers"],
     },
+    image: "/poi-images/czechrepublic-dvur-kralove-nad-labem-cities-v2.webp",
   },
   {
     id: "czechrepublic-semily-cities-v2",
@@ -2699,6 +2709,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Prima mențiune scrisă a orașului Semily datează din anul 1352", "Locul de naștere al influentului politician ceh František Ladislav Rieger (1818)", "Traseul Rieger prin valea râului Jizera a fost inaugurat în anul 1909", "Biserica neoromanică Sfinții Petru și Pavel a fost finalizată în 1911", "Semily a fost un centru major al industriei textile în secolul al XIX-lea", "Orașul este situat în partea de nord-est a Geoparcului Paradisul Boem"],
       en: ["First written mention of Semily dates back to the year 1352", "Birthplace of the influential Czech politician František Ladislav Rieger in 1818", "The Rieger Trail through the Jizera Valley was opened in 1909", "The Neo-Romanesque Church of St. Peter and Paul was completed in 1911", "Semily served as a major textile industry hub during the 19th century", "The town is located in the northeastern section of the Bohemian Paradise Geopark"],
     },
+    image: "/poi-images/czechrepublic-semily-cities-v2.webp",
   },
   {
     id: "czechrepublic-benatky-nad-jizerou-cities-v2",
@@ -2731,6 +2742,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Acordarea drepturilor de oraș așezării în anul 1346", "Tycho Brahe a locuit și a lucrat în castel între 1599 și 1600", "Bedřich Smetana a activat în castel ca profesor pentru familia Thun", "Castelul găzduiește cel mai mare muzeu al jucăriilor din Republica Cehă", "Podgoriile din Benátky sunt printre cele mai vechi din nordul Boemiei", "Orașul este împărțit în districtele Benátky Vechi și Benátky Noi"],
       en: ["Granting of town rights to the settlement occurred in 1346", "Tycho Brahe lived and conducted research in the chateau from 1599 to 1600", "Bedřich Smetana worked at the chateau as a music teacher for the Thuns", "The chateau is home to the largest toy museum in the Czech Republic", "The vineyards of Benátky are among the oldest in Northern Bohemia", "The town is administratively divided into Old Benátky and New Benátky"],
     },
+    image: "/poi-images/czechrepublic-benatky-nad-jizerou-cities-v2.webp",
   },
   {
     id: "czechrepublic-rumburk-cities-v2",
@@ -2763,6 +2775,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Prima mențiune documentară a orașului Rumburk în anul 1298", "Complexul Loreta a fost construit între 1704 și 1709 după planurile lui Hildebrandt", "Revolta soldaților de la Rumburk a avut loc în mai 1918", "Rumburk a fost un centru principal al producției de in din nordul Boemiei", "Orașul este situat chiar pe granița de stat cu Germania", "Monumentul revoltei din 1918 îi onorează pe soldații executați atunci"],
       en: ["First documentary mention of Rumburk dates back to 1298", "The Loreta complex was built between 1704 and 1709 by Johann Lucas von Hildebrandt", "The Rumburk Rebellion of Czech soldiers took place in May 1918", "Rumburk was a primary hub for linen production in Northern Bohemia", "The town is situated directly on the national border with Germany", "The 1918 Rebellion Memorial commemorates the soldiers executed during the uprising"],
     },
+    image: "/poi-images/czechrepublic-rumburk-cities-v2.webp",
   },
   {
     id: "czechrepublic-kralupy-nad-vltavou-cities-v2",
@@ -2795,6 +2808,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Prima mențiune documentară a localității în anul 1253", "Deschiderea liniei ferate strategice către Dresda în anul 1851", "Centru principal al rafinării petrolului și industriei chimice cehe", "Distrugerea masivă în urma bombardamentului aerian din 22 martie 1945", "Orașul este situat la o altitudine de aproximativ 174 de metri", "Râul Vltava desparte orașul în două sectoare distincte"],
       en: ["First written mention of the settlement occurred in 1253", "Opening of the strategic railway line to Dresden in 1851", "A major center for Czech oil refining and the chemical industry", "Heavy destruction occurred during an air raid on March 22, 1945", "The town is situated at an elevation of approximately 174 meters", "The Vltava River divides the town into two distinct sections"],
     },
+    image: "/poi-images/czechrepublic-kralupy-nad-vltavou-cities-v2.webp",
   },
   {
     id: "czechrepublic-velke-mezirici-cities-v2",
@@ -2827,6 +2841,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Prima mențiune scrisă a orașului Velké Meziříčí în anul 1236", "Podul Vysočina a fost finalizat în anul 1978", "Castelul deține colecții valoroase privind istoria regională", "Biserica parohială Sfântul Nicolae are un turn înalt de 64 de metri", "Orașul este situat pe ruta strategică a autostrăzii D1", "Clădirea istorică a primăriei datează inițial din secolul al XV-lea"],
       en: ["First written mention of Velké Meziříčí dates back to 1236", "The Vysočina Bridge was completed in 1978", "The chateau houses significant collections related to regional history", "The Church of St. Nicholas features a prominent 64-meter tower", "The town is strategically located on the D1 highway route", "The historic town hall originally dates back to the 15th century"],
     },
+    image: "/poi-images/czechrepublic-velke-mezirici-cities-v2.webp",
   },
   {
     id: "czechrepublic-cesky-brod-cities-v2",
@@ -2859,6 +2874,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Orașul a fost menționat documentar prima dată în 1150", "A primit statutul de oraș regal în anul 1437", "Biserica Sf. Gothard a fost reconstruită în stil gotic în 1350", "Turnul clopotniță separat a fost finalizat în anul 1580", "Sistemul subteran datează în mare parte din secolul al XIV-lea", "Populația orașului este de aproximativ 7.400 de locuitori"],
       en: ["Founded in the 12th century by the Prague bishops", "Granted full town rights by King John of Bohemia in 1334", "The Gothic bell tower stands 40 meters tall", "The town features one of the oldest school buildings in Bohemia", "Battle of Lipany (1434) occurred 5 km from the town center", "Connected to the railway network in the year 1845"],
     },
+    image: "/poi-images/czechrepublic-cesky-brod-cities-v2.webp",
   },
   {
     id: "czechrepublic-velvary-cities-v2",
@@ -2891,6 +2907,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Menționat pentru prima dată în documente în 1282", "Statutul de oraș a fost acordat în anul 1482", "Poarta Pragăi a fost reconstruită în 1580", "Biserica Sf. Ecaterina a fost renovată baroc în secolul XVIII", "Orașul este situat la o altitudine de 188 metri", "Populația actuală este de circa 3.000 de locuitori"],
       en: ["First historical mention dates back to 1282", "Became a royal town in the year 1482", "The Prague Gate is a Late Gothic structure", "Home to the oldest voluntary fire brigade in Bohemia (1864)", "St. Catherine's Church features a 15th-century font", "Located in the Kladno District of Central Bohemia"],
     },
+    image: "/poi-images/czechrepublic-velvary-cities-v2.webp",
   },
   {
     id: "czechrepublic-zdice-cities-v2",
@@ -2923,6 +2940,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Prima atestare documentară în anul 1147", "A devenit oraș în mod oficial în anul 1994", "Biserica barocă actuală a fost construită între 1747 și 1749", "Calea ferată a ajuns în oraș în anul 1862", "Populația orașului este de aproximativ 4.100 de locuitori", "Se află la 40 km sud-vest de Praga"],
       en: ["Documented since 1147 in historical records", "Promoted to town status in 1994", "Church of the Nativity of the Virgin Mary was built in 1749", "Became a major railway junction in the 1860s", "Located on the banks of the Litavka river", "Current population is around 4,100 inhabitants"],
     },
+    image: "/poi-images/czechrepublic-zdice-cities-v2.webp",
   },
   {
     id: "czechrepublic-frydlant-nad-ostravici-cities-v2",
@@ -2955,6 +2973,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Menționat documentar prima dată în anul 1391", "Forjele de fier au fost înființate în 1775", "Biserica Sf. Bartolomeu a fost construită între 1672-1690", "A primit statutul de oraș în anul 1948", "Este situat la o altitudine de 357 metri", "Populația este de aproximativ 9.900 de locuitori"],
       en: ["First mentioned in records in the year 1391", "Ironworks were established by the Olomouc bishops in 1775", "Promoted to town status in 1948", "Located at an elevation of 357 meters", "St. Bartholomew's Church features Baroque interior", "Known for the traditional Beskydy artistic cast iron"],
     },
+    image: "/poi-images/czechrepublic-frydlant-nad-ostravici-cities-v2.webp",
   },
   {
     id: "czechrepublic-sobotka-cities-v2",
@@ -2987,6 +3006,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Prima atestare documentară datează din 1318", "Castelul Humprecht are o înălțime de 27 de metri", "Biserica Sf. Maria Magdalena a fost finalizată în 1596", "Festivalul Šrámkova Sobotka se desfășoară din 1957", "Orașul este situat la 15 km de Jičín", "Populația este de aproximativ 2.400 de locuitori"],
       en: ["Founded in the early 14th century", "Humprecht Castle was built for Jan Humprecht Černín", "The town features unique timbered houses from the 18th century", "Home to the Šrámkova Sobotka festival since 1957", "St. Mary Magdalene Church is a Late Gothic monument", "Known as the southern gateway to Bohemian Paradise"],
     },
+    image: "/poi-images/czechrepublic-sobotka-cities-v2.webp",
   },
   {
     id: "czechrepublic-vyssi-brod-cities-v2",
@@ -3019,6 +3039,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Mănăstirea a fost fondată în anul 1259", "Orașul a primit drepturi de oraș în 1870", "Biblioteca mănăstirii conține peste 70.000 de volume", "Cea mai sudică localitate din Republica Cehă", "Biserica Sf. Bartolomeu datează din secolul al XIV-lea", "Muzeul Poștei este unic în Republica Cehă"],
       en: ["Monastery founded in 1259 by the House of Rosenberg", "Granted town status in the year 1870", "The monastery library holds over 70,000 volumes", "Traditional starting point for Vltava river trips", "Home to the Postal Museum since 1976", "Contains the southernmost point of the Czech Republic"],
     },
+    image: "/poi-images/czechrepublic-vyssi-brod-cities-v2.webp",
   },
   {
     id: "czechrepublic-horice-cities-v2",
@@ -3051,6 +3072,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Școala de sculptură a fost înființată în 1884", "Rulourile de Hořice sunt protejate în UE din 2007", "Cursa „300 de curbe” se desfășoară din anul 1961", "Biserica barocă actuală datează din anii 1741-1748", "Dealul Gothard are o altitudine de 353 metri", "Populația orașului este de circa 8.200 de locuitori"],
       en: ["The stonemasonry school was founded in 1884", "Hořice rolls received EU PGI status in 2007", "The first motorcycle race was held here in 1936", "The Baroque church was designed by Kilian Ignaz Dientzenhofer", "First written mention of the town was in 1143", "Features an extensive open-air sculpture gallery"],
     },
+    image: "/poi-images/czechrepublic-horice-cities-v2.webp",
   },
   {
     id: "czechrepublic-hustopece-cities-v2",
@@ -3083,6 +3105,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Prima mențiune documentară în anul 1247", "Plantația de migdali are peste 1.200 de arbori", "Biserica Sf. Venceslav a fost sfințită în 1994", "A primit statutul de oraș în 1572", "Populația este de aproximativ 6.000 de locuitori", "Gazda Festivalului Migdalelor în fiecare martie"],
       en: ["First mentioned in historical records in 1247", "The almond orchard contains over 1,200 trees", "The modern church was completed in the year 1994", "Granted town rights in 1572", "Located in the heart of the Velké Pavlovice wine region", "Features a Renaissance town hall built in 1906"],
     },
+    image: "/poi-images/czechrepublic-hustopece-cities-v2.webp",
   },
   {
     id: "czechrepublic-kadan-cities-v2",
@@ -3115,6 +3138,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Prima atestare documentară în anul 1186", "Ulița Călăului are o lățime minimă de 66 cm", "Mănăstirea Franciscană a fost fondată în 1473", "Castelul Kadaň datează din secolul al XIII-lea", "Turnul primăriei are o înălțime de 53,7 metri", "Populația este de aproximativ 18.000 de locuitori"],
       en: ["First documented in historical records in 1186", "Executioner's Alley measures just 66 cm at its narrowest", "The Franciscan Monastery was established in 1473", "Became a royal town under Ottokar II in the 1250s", "The Town Hall tower was completed in the 16th century", "Known for the historic Maxipes Fík connection"],
     },
+    image: "/poi-images/czechrepublic-kadan-cities-v2.webp",
   },
   {
     id: "czechrepublic-pacov-cities-v2",
@@ -3147,6 +3171,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Prima atestare documentară în anul 1316", "FIM a fost fondată aici la 21 decembrie 1904", "Orașul este traversat de meridianul 15 est", "Castelul Pacov a fost sediul unui ordin monahal", "Biserica Sf. Remigius datează parțial din secolul XIII", "Populația este de aproximativ 4.700 de locuitori"],
       en: ["First mentioned in records in the year 1316", "The FIM was established here in 1904", "The 15th meridian east passes through the town square", "The chateau once served as a Carmelite monastery", "St. Remigius Church is one of the town's oldest buildings", "Located at an altitude of 615 meters above sea level"],
     },
+    image: "/poi-images/czechrepublic-pacov-cities-v2.webp",
   },
   {
     id: "czechrepublic-hranice-na-morave-cities-v2",
@@ -3179,6 +3204,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Prima mențiune documentară a orașului Hranice datează din anul 1169.", "Abisul Hranice este cea mai adâncă peșteră inundată din lume, depășind 450 de metri.", "Castelul din oraș a fost reconstruit în stil renascentist în secolul al XVI-lea.", "Orașul este situat în Poarta Moravă, o depresiune geografică strategică.", "Hranice găzduiește o fabrică importantă de pompe cu o tradiție de peste 100 de ani.", "Populația orașului este de aproximativ 18.000 de locuitori."],
       en: ["The town was first mentioned in a written document in 1169.", "The Hranice Abyss is the world's deepest underwater cave, exceeding 450 meters in depth.", "Hranice's Renaissance chateau features a unique glass-covered courtyard.", "The town lies within the Moravian Gate, a crucial European geological corridor.", "The local pumping equipment manufacturer, Sigma, has operated here since 1883.", "The current population of Hranice is approximately 18,000 residents."],
     },
+    image: "/poi-images/czechrepublic-hranice-na-morave-cities-v2.webp",
   },
   {
     id: "czechrepublic-zamberk-cities-v2",
@@ -3211,6 +3237,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Orașul Žamberk a fost menționat pentru prima dată în documente în anul 1332.", "Prokop Diviš, inventatorul paratrăsnetului, s-a născut aici în anul 1698.", "Castelul local este înconjurat de un parc englezesc extins pe o suprafață de 20 de hectare.", "Râul Divoká Orlice străbate orașul de la nord la sud.", "Muzeul municipal găzduiește o expoziție rară despre istoria tehnicii și a meșteșugurilor.", "Žamberk are o populație de aproximativ 6.000 de locuitori."],
       en: ["The first written mention of Žamberk dates back to 1332.", "Prokop Diviš, the inventor of the lightning rod, was born in Žamberk in 1698.", "The town's Baroque chateau is surrounded by a 20-hectare English-style landscape park.", "Žamberk is located at an altitude of 465 meters in the Divoká Orlice valley.", "The town is a starting point for the 'Orlické hory' mountain range tourism.", "A Jewish cemetery from the 17th century remains a protected historical site in the town."],
     },
+    image: "/poi-images/czechrepublic-zamberk-cities-v2.webp",
   },
   {
     id: "czechrepublic-klimkovice-cities-v2",
@@ -3243,6 +3270,7 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Klimkovice a fost menționat pentru prima dată în documente în anul 1373.", "Sanatoriul Klimkovice a fost inaugurat în anul 1994.", "Apa minerală folosită în băi este extrasă de la o adâncime de peste 400 de metri.", "Castelul orașului a fost construit pe locul unei fortărețe gotice din secolul al XIV-lea.", "Biserica Sfânta Ecaterina este cel mai vechi monument religios din oraș.", "Populația orașului Klimkovice este de aproximativ 4.500 de locuitori."],
       en: ["The town was first documented in the year 1373.", "The Sanatorium Klimkovice was officially opened in 1994.", "The local iodine-bromine brine is extracted from depths of 400 to 500 meters.", "The Renaissance chateau was extensively rebuilt between 1578 and 1579.", "Klimkovice is located approximately 10 kilometers west of Ostrava.", "The town's historic square features a protected Marian column from the early 18th century."],
     },
+    image: "/poi-images/czechrepublic-klimkovice-cities-v2.webp",
   },
   {
     id: "czechrepublic-pribor-cities-v2",
@@ -3275,5 +3303,6 @@ export const czechrepublicCitiesV2: POI[] = [
       ro: ["Příbor a fost fondat în anul 1251, fiind unul dintre cele mai vechi orașe din regiune.", "Sigmund Freud s-a născut aici la data de 6 mai 1856.", "Centrul istoric a fost declarat zonă protejată prin lege în anul 1989.", "Biserica Sfântul Valentin găzduiește relicve valoroase și altare baroce.", "Colegiul Piarist din Příbor a fost un centru educațional major începând cu 1694.", "Orașul este situat la o altitudine de 290 de metri deasupra nivelului mării."],
       en: ["The town of Příbor was officially founded in 1251.", "Sigmund Freud, the father of psychoanalysis, was born here on May 6, 1856.", "The town center was designated a municipal monument zone in 1989.", "The Church of St. Valentine was built in the 14th century and later Baroque-styled.", "The Piarist College in Příbor was established in 1694 to provide higher education.", "Příbor is part of the Lašsko region, known for its unique folklore and dialect."],
     },
+    image: "/poi-images/czechrepublic-pribor-cities-v2.webp",
   }
 ];

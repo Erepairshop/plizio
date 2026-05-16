@@ -129,6 +129,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Orașul este situat la o adâncime de 2 până la 5 metri sub nivelul mării.", "Prima locuință a fost finalizată recent, în anul 1976.", "Este al optulea oraș ca mărime din Țările de Jos în prezent.", "Dispune de o rețea de peste 440 km de piste de biciclete separate.", "A găzduit expoziția internațională de horticultură Floriade în 2022.", "Centrul orașului a fost proiectat de celebrul arhitect Rem Koolhaas."],
       en: ["The city is built on reclaimed land 2 to 5 meters below sea level.", "Construction of the first residential house was completed in 1976.", "Almere is currently the eighth-largest city in the Netherlands.", "The city features over 440 kilometers of dedicated cycling paths.", "Host city of the Floriade 2022 international horticultural expo.", "The city center's master plan was designed by Rem Koolhaas's OMA."],
     },
+    image: "/poi-images/nl-almere.webp",
   },
   { id: "nl-amersfoort", parent: "NL-UT", coords: [5.408885, 52.16377], name: "Amersfoort", theme: "historic",
     description: {
@@ -155,6 +156,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Orașul a primit drepturile oficiale în anul 1259.", "Onze Lieve Vrouwetoren este al treilea cel mai înalt turn de biserică din țară.", "Koppelpoort este singura poartă medievală de acest tip rămasă în Olanda.", "Pictorul Piet Mondrian s-a născut aici în anul 1872.", "Grădina Zoologică din Amersfoort primește peste 800.000 de vizitatori anual.", "Orașul este considerat punctul central al sistemului de coordonate olandez."],
       en: ["The city was granted official city rights in the year 1259.", "Onze Lieve Vrouwetoren is the third-tallest church tower in the country.", "The Koppelpoort is the only remaining gate of its kind in the Netherlands.", "Piet Mondrian was born in Amersfoort in 1872.", "Amersfoort Zoo attracts over 800,000 visitors every year.", "The city marks the geographic center for the Dutch national grid system."],
     },
+    image: "/poi-images/nl-amersfoort.webp",
   },
   { id: "nl-amstelveen", parent: "NL-NH", coords: [4.859684, 52.302821], name: "Amstelveen", theme: "suburb",
     description: {
@@ -181,6 +183,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Pădurea Amsterdamse Bos a fost amenajată în anii 1930 ca proiect public.", "Muzeul Cobra a fost inaugurat în centrul orașului în anul 1995.", "Amstelveen are una dintre cele mai mari comunități japoneze din Europa.", "Până în anul 1964, municipalitatea s-a numit oficial Nieuwer-Amstel.", "Sediul central global al companiei aeriene KLM se află în Amstelveen.", "Orașul a fost desemnat de mai multe ori ca fiind cel mai sigur din Olanda."],
       en: ["The Amsterdamse Bos was created as a public works project in the 1930s.", "The Cobra Museum was opened in the city center in 1995.", "Amstelveen hosts one of the largest Japanese expat communities in Europe.", "The municipality was officially named Nieuwer-Amstel until 1964.", "The global headquarters of KLM Royal Dutch Airlines is located here.", "Amstelveen has been frequently ranked as the safest large city in the Netherlands."],
     },
+    image: "/poi-images/nl-amstelveen.webp",
   },
   { id: "nl-apeldoorn", parent: "NL-GE", coords: [5.930078, 52.179574], name: "Apeldoorn", theme: "royal",
     description: {
@@ -207,6 +210,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Paleis Het Loo a fost reședință de vară a familiei regale până în 1975.", "Parcul de primate Apenheul a fost deschis pentru public în anul 1971.", "Apeldoorn a primit drepturi formale de oraș abia în anul 1811.", "Muzeul CODA deține o colecție importantă de bijuterii contemporane.", "Orașul este un centru major pentru industria de asigurări din Olanda.", "Canalul Apeldoorn a fost deschis pentru navigație în anul 1829."],
       en: ["Paleis Het Loo served as a royal summer residence until 1975.", "Apenheul Primate Park was the first of its kind when it opened in 1971.", "Apeldoorn was officially granted city rights only in the year 1811.", "The CODA Museum houses a world-class collection of modern jewelry.", "The city is a major center for the Dutch insurance and tax sectors.", "The Apeldoorn Canal was fully opened for commercial traffic in 1829."],
     },
+    image: "/poi-images/nl-apeldoorn.webp",
   },
   { id: "nl-assen", parent: "NL-DR", coords: [6.560498, 52.995227], name: "Assen", theme: "capital",
     description: {
@@ -233,6 +237,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Assen a primit drepturile de oraș în 1806 de la fratele lui Napoleon.", "Circuitul TT Assen este singurul prezent anual în calendarul MotoGP din 1949.", "Muzeul Drents expune cea mai veche barcă din lume, canoea din Pesse.", "Localitatea s-a dezvoltat în jurul unei mănăstiri din secolul al XIII-lea.", "Statuia lui Bartje a fost victima mai multor răpiri de-a lungul timpului.", "Orașul deține o gară ultramodernă inaugurată oficial în anul 2020."],
       en: ["Assen was granted city rights in 1806 by King Louis Bonaparte.", "The TT Circuit Assen is the only track to have hosted a MotoGP race every year since 1949.", "The Drents Museum houses the Pesse canoe, the world's oldest known boat.", "The city's urban layout evolved directly from a medieval Cistercian monastery.", "The statue of Bartje is a local landmark and has been stolen multiple times.", "Assen opened a major award-winning modern railway station in 2020."],
     },
+    image: "/poi-images/nl-assen.webp",
   },
   { id: "nl-aalsmeer", parent: "NL-NH", coords: [4.749338, 52.266944], name: "Aalsmeer", theme: "flower",
     description: {
@@ -259,6 +264,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Clădirea Royal FloraHolland este cea mai mare structură comercială din lume.", "Aproximativ 20 de milioane de flori sunt vândute aici în fiecare zi.", "Numele orașului provine probabil de la cuvintele pentru 'anghilă' și 'lac'.", "Lacul Westeinderplassen conține aproximativ 50 de insule mici.", "Orașul găzduiește unele dintre cele mai mari studiouri de televiziune din Olanda.", "Florile tranzacționate aici ajung la destinație în toată lumea în 24 de ore."],
       en: ["Royal FloraHolland in Aalsmeer is the largest flower auction building in the world.", "Approximately 20 million flowers are sold through the auction every day.", "The name Aalsmeer likely derives from the Dutch words for 'eel' and 'lake'.", "The Westeinderplassen lake system features around 50 small islands.", "Aalsmeer is home to one of the largest television production studios in the country.", "Flowers sold here can reach any florist in Europe within 24 hours of harvest."],
     },
+    image: "/poi-images/nl-aalsmeer.webp",
   },
   { id: "nl-bergen-op-zoom", parent: "NL-NB", coords: [4.287154, 51.494476], name: "Bergen op Zoom", theme: "fortified",
     description: {
@@ -285,6 +291,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Bergen op Zoom a primit drepturile de oraș în anul 1212.", "Palatul Markiezenhof a fost construit în secolul al XV-lea.", "Orașul a rezistat mai multor asedii spaniole și franceze de-a lungul istoriei.", "Gevangenpoort este singura poartă medievală a orașului care mai există.", "Biserica Sfânta Gertrudis are un turn poreclit 'Peperbus' (Râșnița de piper).", "Orașul este renumit pentru sărbătoarea de carnaval cu tradiții unice."],
       en: ["The city was officially granted city rights in 1212.", "Markiezenhof is considered one of the finest late-Gothic palaces in Europe.", "Nicknamed 'La Pucelle' for its success in resisting numerous military sieges.", "The Gevangenpoort is the city's only surviving medieval gatehouse.", "The Grote Markt features the St. Gertrudis Church with its 'Peperbus' tower.", "The town hosts one of the oldest and most traditional carnivals in the Netherlands."],
     },
+    image: "/poi-images/nl-bergen-op-zoom.webp",
   },
   { id: "nl-beverwijk", parent: "NL-NH", coords: [4.67284, 52.47879], name: "Beverwijk", theme: "market",
     description: {
@@ -311,6 +318,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Beverwijk a primit dreptul de piață în anul 1298.", "De Bazaar conține peste 2.000 de standuri și magazine diverse.", "Centrul pentru arși din oraș este unul dintre cele mai avansate din Europa.", "Orașul era odinioară principalul furnizor de căpșuni pentru Amsterdam.", "Fortul Velsen din apropiere este protejat de UNESCO.", "Numele orașului sugerează o așezare veche de origine medievală."],
       en: ["Beverwijk was officially granted market rights in 1298.", "De Bazaar features over 2,000 stalls and shops covering a huge area.", "The specialized burns unit in Beverwijk is among the top-rated in Europe.", "The town was historically known as the 'Strawberry City' of the Netherlands.", "Fort Velsen, located nearby, is a UNESCO World Heritage site.", "The town's market tradition dates back over 700 years."],
     },
+    image: "/poi-images/nl-beverwijk.webp",
   },
   { id: "nl-biddinghuizen", parent: "NL-FL", coords: [5.69216, 52.455222], name: "Biddinghuizen", theme: "events",
     description: {
@@ -337,6 +345,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Primii locuitori s-au mutat în sat la data de 10 octombrie 1963.", "Walibi Holland deține 'Untamed', un roller-coaster hibrid premiat.", "Festivalul Lowlands atrage anual aproximativ 60.000 de participanți.", "Biddinghuizen se află la o altitudine de 4 metri sub nivelul mării.", "Regiunea este un centru major pentru cultivarea cartofilor și a cerealelor.", "Baza de evenimente de aici a găzduit și Jamboree-ul Mondial Scout în 1995."],
       en: ["The first residents moved into the village on October 10, 1963.", "Walibi Holland is home to 'Untamed,' a world-class hybrid roller coaster.", "The Lowlands Festival attracts roughly 60,000 visitors every year.", "Biddinghuizen is situated approximately 4 meters below sea level.", "The surrounding farmland is among the most fertile in the Netherlands.", "The village hosted the 18th World Scout Jamboree in 1995."],
     },
+    image: "/poi-images/nl-biddinghuizen.webp",
   },
   { id: "nl-bolsward", parent: "NL-FR", coords: [5.522896, 53.062018], name: "Bolsward", theme: "historic",
     description: {
@@ -363,6 +372,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Bolsward a primit oficial drepturile de oraș în anul 1455.", "Clădirea primăriei a fost construită între anii 1613 și 1617.", "Biserica Sfântul Martin datează din 1446 și este construită pe o colină.", "Orașul reprezintă a șasea oprire în cadrul maratonului Elfstedentocht.", "Distileria Sonnema Berenburg a fost fondată aici în anul 1860.", "Localitatea se află la aproximativ 10 kilometri est de digul Afsluitdijk."],
       en: ["Bolsward was granted official city rights in the year 1455.", "The Town Hall was constructed between 1613 and 1617.", "The Saint Martin Church dates back to 1446 and stands on a terp.", "The city is the sixth stop in the famous Elfstedentocht marathon.", "The Sonnema Berenburg distillery was established here in 1860.", "Bolsward is located approximately 10 kilometers east of the Afsluitdijk."],
     },
+    image: "/poi-images/nl-bolsward.webp",
   },
   { id: "nl-barneveld", parent: "NL-GE", coords: [5.645439, 52.171507], name: "Barneveld", theme: "nature",
     description: {
@@ -389,6 +399,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Rasa de găini Barnevelder a fost recunoscută oficial în jurul anului 1910.", "Castelul De Schaffelaar a fost finalizat în anul 1852.", "Biserica Veche din Barneveld a fost construită în secolul al XV-lea.", "Muzeul Olandez al Păsărilor de Curte a fost deschis în anul 1985.", "Municipalitatea Barneveld ocupă o suprafață de circa 176 km pătrați.", "Barneveld este situat la intersecția autostrăzilor A1 și A30."],
       en: ["The Barnevelder chicken breed was officially recognized around 1910.", "De Schaffelaar Castle was completed in the year 1852.", "The Old Church in Barneveld was built during the 15th century.", "The Dutch Poultry Museum was opened to the public in 1985.", "The municipality of Barneveld covers an area of about 176 square kilometers.", "Barneveld is located directly adjacent to the A1 and A30 motorways."],
     },
+    image: "/poi-images/nl-barneveld.webp",
   },
   { id: "nl-culemborg", parent: "NL-GE", coords: [5.225304, 51.95735], name: "Culemborg", theme: "fortified",
     description: {
@@ -415,6 +426,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Culemborg a primit drepturi de oraș la 6 decembrie 1318 de la Jan van Beusichem.", "Primăria în stil gotic târziu a fost finalizată în anul 1534.", "Poarta Binnenpoort datează inițial din secolul al XIV-lea.", "Culemborg a fost un comitat independent până în anul 1795.", "Orfelinatul Elisabeth a fost primul orfelinat construit special în acest scop în 1560.", "Podul feroviar peste Lek era cel mai lung din Europa la inaugurarea sa în 1868."],
       en: ["Culemborg was granted city rights on December 6, 1318, by John of Beusichem.", "The late Gothic Town Hall was completed in the year 1534.", "The Binnenpoort city gate originally dates from the 14th century.", "Culemborg remained an independent county until the year 1795.", "The Elisabeth Orphanage was the first purpose-built orphanage in the Netherlands (1560).", "The railway bridge over the Lek was the longest in Europe when opened in 1868."],
     },
+    image: "/poi-images/nl-culemborg.webp",
   },
   { id: "nl-dokkum", parent: "NL-FR", coords: [5.999231, 53.324351], name: "Dokkum", theme: "fortified",
     description: {
@@ -441,6 +453,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Misionarul Bonifaciu a fost ucis în apropiere de Dokkum în anul 754 d.Hr.", "Dokkum a primit drepturile oficiale de oraș în anul 1298.", "Amiralitatea din Friesland a fost înființată la Dokkum în anul 1596.", "Zidurile cetății în formă de stea au fost ridicate între 1582 și 1591.", "Moara de vânt Zeldenrust datează din anul 1862.", "Dokkum este în mod tradițional punctul de întoarcere al maratonului Elfstedentocht."],
       en: ["The missionary Saint Boniface was killed near Dokkum in 754 AD.", "Dokkum was granted official city rights in the year 1298.", "The Admiralty of Friesland was established in Dokkum in 1596.", "The star-shaped city walls were constructed between 1582 and 1591.", "The Zeldenrust windmill dates back to the year 1862.", "Dokkum is traditionally the turning point of the Elfstedentocht marathon."],
     },
+    image: "/poi-images/nl-dokkum.webp",
   },
   { id: "nl-doesburg", parent: "NL-GE", coords: [6.151558, 52.018751], name: "Doesburg", theme: "historic",
     description: {
@@ -467,6 +480,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Doesburg a primit oficial drepturile de oraș în anul 1237.", "Turnul bisericii Martinikerk are 94 de metri, fiind unul dintre cele mai înalte din țară.", "Fabrica de muștar din Doesburg a fost menționată documentar prima dată în 1457.", "Menno van Coehoorn a proiectat liniile de apărare în secolul al XVII-lea.", "Primăria istorică din Doesburg datează din secolul al XV-lea.", "Doesburg a devenit membru al Ligii Hanseatice în anul 1447."],
       en: ["Doesburg was officially granted city rights in the year 1237.", "The tower of the Martinikerk is 94 meters high, one of the country's tallest.", "The mustard factory in Doesburg was first mentioned in documents in 1457.", "Menno van Coehoorn designed the city's defensive fortifications in the 17th century.", "The historic Town Hall of Doesburg dates back to the 15th century.", "Doesburg became a member of the Hanseatic League in 1447."],
     },
+    image: "/poi-images/nl-doesburg.webp",
   },
   { id: "nl-dronten", parent: "NL-FL", coords: [5.716038, 52.523661], name: "Dronten", theme: "polder",
     description: {
@@ -493,6 +507,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Polderul Oostelijk Flevoland a fost desecat oficial în anul 1957.", "Primii locuitori s-au mutat în Dronten la 26 aprilie 1962.", "Centrul cultural De Meerpaal a fost inaugurat în anul 1967.", "Municipalitatea Dronten a fost înființată oficial la 1 ianuarie 1972.", "Dronten găzduiește Universitatea de Științe Aplicate Aeres.", "Suprafața totală a municipalității este de aproximativ 423 km pătrați."],
       en: ["The Oostelijk Flevoland polder was officially drained in 1957.", "The first residents moved to Dronten on April 26, 1962.", "The De Meerpaal cultural center was opened in the year 1967.", "The municipality of Dronten was officially established on January 1, 1972.", "Dronten is home to the Aeres University of Applied Sciences.", "The total area of the municipality is approximately 423 square kilometers."],
     },
+    image: "/poi-images/nl-dronten.webp",
   },
   { id: "nl-ede", parent: "NL-GE", coords: [5.745511, 52.071683], name: "Ede", theme: "nature",
     description: {
@@ -519,6 +534,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Biserica Veche (Oude Kerk) din Ede a fost construită inițial în secolul al XV-lea.", "Ede se află la marginea Veluwe, cea mai mare zonă forestieră continuă din Țările de Jos.", "În septembrie 1944, parașutiștii au aterizat pe Ginkelse Heide în timpul Operațiunii Market Garden.", "Muzeul Kröller-Müller este situat la circa 10 kilometri est de centrul orașului.", "Ede găzduiește Universitatea Creștină de Științe Aplicate (CHE).", "Municipalitatea Ede acoperă o suprafață de aproximativ 318 km pătrați."],
       en: ["The Oude Kerk in Ede was originally constructed in the 15th century.", "Ede is located on the edge of the Veluwe, the largest continuous forest area in the Netherlands.", "In September 1944, paratroopers landed on the Ginkelse Heide as part of Operation Market Garden.", "The Kröller-Müller Museum is located about 10 kilometers east of the town center.", "Ede is home to the Christian University of Applied Sciences (CHE).", "The municipality of Ede covers an area of approximately 318 square kilometers."],
     },
+    image: "/poi-images/nl-ede.webp",
   },
   { id: "nl-edam", parent: "NL-NH", coords: [5.056285, 52.511912], name: "Edam", theme: "historic",
     description: {
@@ -545,6 +561,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Edam a primit drepturi de oraș la 15 mai 1357 de la contele Willem al V-lea.", "Biserica Grote Kerk (Sf. Nicolae) a fost construită în secolul al XV-lea.", "În 1573, Willem de Orania a acordat orașului Edam dreptul de cântar public.", "Turnul Speeltoren datează inițial din anul 1561.", "Edam găzduia peste 33 de șantiere navale simultan în secolul al XVI-lea.", "Piața de brânză din Edam a fost reluată ca atracție turistică în anul 1989."],
       en: ["Edam was granted city rights on May 15, 1357, by Count William V.", "The Grote Kerk (St. Nicholas) was constructed during the 15th century.", "In 1573, William of Orange granted the right of the weighing scales to Edam.", "The Speeltoren bell tower originally dates back to 1561.", "During the 16th century, Edam had more than 33 shipyards at once.", "The Edam cheese market was revived as a tourist attraction in 1989."],
     },
+    image: "/poi-images/nl-edam.webp",
   },
   { id: "nl-elburg", parent: "NL-GE", coords: [5.841322, 52.415659], name: "Elburg", theme: "fortified",
     description: {
@@ -571,6 +588,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Elburg a fost mutat în locația sa actuală între anii 1392 și 1396.", "Planul orașului măsoară aproximativ 250 pe 350 de metri.", "Poarta Vischpoort a fost transformată în poartă defensivă în anul 1592.", "Elburg a aderat la Liga Hanseatică în anul 1367.", "Biserica Sfântul Nicolae a fost construită în secolul al XIV-lea.", "Orașul adăpostește peste 250 de clădiri declarate monumente istorice."],
       en: ["Elburg was relocated to its current position between 1392 and 1396.", "The town's layout measures approximately 250 by 350 meters.", "The Vischpoort city gate was converted into a defensive gate in 1592.", "Elburg joined the Hanseatic League in the year 1367.", "The Saint Nicholas Church was constructed during the 14th century.", "There are more than 250 listed heritage buildings within the town."],
     },
+    image: "/poi-images/nl-elburg.webp",
   },
   { id: "nl-emmen", parent: "NL-DR", coords: [6.952514, 52.752866], name: "Emmen", theme: "nature",
     description: {
@@ -597,6 +615,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["În municipalitatea Emmen se află un total de 10 morminte megalitice (hunebedden).", "Wildlands Adventure Zoo a fost inaugurat în luna martie 2016.", "Parcul de afaceri Emmer-Compascuum este una dintre cele mai mari zone industriale din regiune.", "Emmen a început să dezvolte o structură urbană semnificativă abia în secolul al XIX-lea.", "Locația actualului Rensenpark a găzduit vechea grădină zoologică până în 2015.", "Orașul deține unul dintre cele mai mari centre comerciale acoperite din Țările de Jos."],
       en: ["There are a total of 10 megalithic tombs (hunebedden) within the municipality of Emmen.", "The Wildlands Adventure Zoo was opened to the public in March 2016.", "The Emmer-Compascuum business park is one of the region's largest industrial areas.", "Emmen only began to develop a significant urban structure in the 19th century.", "The Rensenpark site was the location of the former zoo until 2015.", "The city features one of the largest continuous shopping centers in the Netherlands."],
     },
+    image: "/poi-images/nl-emmen.webp",
   },
   { id: "nl-emmeloord", parent: "NL-FL", coords: [5.746637, 52.708745], name: "Emmeloord", theme: "polder",
     description: {
@@ -623,6 +642,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Emmeloord a fost fondat în 1943 în timpul colonizării polderului Noordoostpolder.", "Orașul se află la o altitudine de aproximativ 4 metri sub nivelul mării.", "Poldertoren are o înălțime de 65,3 metri și a fost finalizat în anul 1959.", "Polderul Noordoostpolder a fost drenat oficial la data de 9 septembrie 1942.", "Planul orașului a fost conceput pentru a optimiza accesul la satele satelit.", "Emmeloord găzduiește sediul administrativ al unei zone de peste 46.000 de hectare."],
       en: ["Emmeloord was founded in 1943 as a planned hub for the Noordoostpolder.", "The city is situated approximately 4 meters below mean sea level.", "The Poldertoren water tower stands 65.3 meters tall and was finished in 1959.", "The Noordoostpolder project reclaimed nearly 48,000 hectares of seabed.", "The city layout follows a hexagonal planning model for service efficiency.", "Emmeloord is the administrative seat for a municipality of 26,000 residents."],
     },
+    image: "/poi-images/nl-emmeloord.webp",
   },
   { id: "nl-enkhuizen", parent: "NL-NH", coords: [5.320694, 52.75772], name: "Enkhuizen", theme: "port",
     description: {
@@ -649,6 +669,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Enkhuizen a primit statutul de oraș în anul 1355.", "În secolul XVII, orașul a fost unul dintre cele șase sedii ale VOC.", "Turnul Drommedaris a fost construit în 1540 ca parte a fortificațiilor.", "Muzeul Zuiderzee a fost deschis în 1948 și ocupă o suprafață extinsă.", "Orașul este sediul multor companii multinaționale de semințe agricole.", "Biserica Westerkerk datează din secolul al XV-lea și este un monument național."],
       en: ["Enkhuizen was officially granted city rights in the year 1355.", "It served as one of the six chambers of the Dutch East India Company (VOC).", "The Drommedaris tower was constructed in 1540 to protect the harbor.", "The Zuiderzee Museum features a large outdoor area with 140 historic buildings.", "The city is a central hub for 'Seed Valley', a global agricultural cluster.", "The 17th-century wealth supported a population of over 25,000 at its peak."],
     },
+    image: "/poi-images/nl-enkhuizen.webp",
   },
   { id: "nl-etten-leur", parent: "NL-NB", coords: [4.636081, 51.569206], name: "Etten-Leur", theme: "industrial",
     description: {
@@ -675,6 +696,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Etten-Leur a fost înființat oficial ca unitate unitară în 1968.", "Vincent van Gogh a avut primul său atelier aici, în casa parohială, în 1881.", "Moeierboom este un tei istoric plantat în jurul anului 1675.", "Biserica Sfântul Lambert a fost proiectată de arhitectul P.J. van Genk.", "Orașul a fost sediul primei fabrici de zahăr din regiune în secolul XIX.", "Turnul de apă din Etten-Leur a fost finalizat în anul 1924."],
       en: ["Etten-Leur was officially established as a single municipality in 1968.", "Vincent van Gogh produced over 100 drawings during his time here in 1881.", "The Moeierboom lime tree dates back to approximately 1675.", "The neogothic St. Lambertus Church was completed in 1877.", "Leur functioned as a significant inland port for the sugar beet trade.", "The town's population grew rapidly in the late 20th century to 44,000."],
     },
+    image: "/poi-images/nl-etten-leur.webp",
   },
   { id: "nl-franeker", parent: "NL-FR", coords: [5.540965, 53.188051], name: "Franeker", theme: "university",
     description: {
@@ -701,6 +723,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Franeker a primit drepturi de oraș în anul 1374.", "Universitatea din Franeker a funcționat timp de peste două secole (1585-1811).", "Planetariul Eise Eisinga a fost inclus în patrimoniul UNESCO în 2023.", "Primăria orașului, construită în 1591, este un exemplu rar de stil renascentist.", "Turneul de kaatsen PC are loc anual pe terenul Sjûkelân din 1853.", "Muzeul Martena găzduiește o colecție vastă despre istoria universității."],
       en: ["Franeker was officially granted city rights in 1374.", "The University of Franeker was the second founded in the Netherlands (1585).", "The Royal Eisinga Planetarium was completed in 1781 after seven years of work.", "The historic town hall dates back to 1591 and features a distinctive tower.", "The PC Kaatsen tournament is the oldest organized sports event in the country.", "The city population remains modest at around 12,000 residents."],
     },
+    image: "/poi-images/nl-franeker.webp",
   },
   { id: "nl-gorinchem", parent: "NL-ZH", coords: [4.973874, 51.829613], name: "Gorinchem", theme: "fortified",
     description: {
@@ -727,6 +750,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Gorinchem a obținut statutul de oraș în anul 1382.", "Zidurile cetății sunt cele mai bine conservate fortificații din Țările de Jos.", "Execuția celor 19 martiri a avut loc la Brielle, după capturarea lor în Gorcum.", "Turnul bisericii Grote Kerk datează din secolul al XV-lea.", "Orașul a făcut parte din provincia Olanda începând cu anul 1417.", "Muzeul Gorcums este situat în vechea primărie din secolul al XIX-lea."],
       en: ["Gorinchem was officially granted city rights in 1382.", "The city's ramparts represent the largest authentic fortress in the country.", "The Martyrs of Gorcum were 19 Catholic priests and friars executed in 1572.", "The Grote Kerk tower stands 67 meters tall and has a noticeable lean.", "The town was a key fortress in the New Dutch Waterline defense system.", "The population of Gorinchem is approximately 37,500 as of 2023."],
     },
+    image: "/poi-images/nl-gorinchem.webp",
   },
   { id: "nl-harderwijk", parent: "NL-GE", coords: [5.618933, 52.349069], name: "Harderwijk", theme: "historic",
     description: {
@@ -753,6 +777,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Harderwijk a primit statutul de oraș în anul 1231.", "Universitatea din Harderwijk a fost activă între 1648 și 1811.", "Carl Linnaeus a susținut teza de doctorat aici în anul 1735.", "Dolfinarium Harderwijk a fost deschis publicului în anul 1965.", "Poarta Vischpoort datează din secolul al XIV-lea.", "Orașul a fost un membru activ al Ligii Hanseatice încă din secolul XIII."],
       en: ["Harderwijk was granted city rights in 1231 by Count Otto II.", "The University of Harderwijk operated for over 160 years until 1811.", "Carl Linnaeus received his MD degree here in 1735 after a short stay.", "The Dolfinarium marine park attracted its first visitors in 1965.", "The city wall originally had a length of about 2 kilometers.", "The Vischpoort was the only gate that connected the city directly to the sea."],
     },
+    image: "/poi-images/nl-harderwijk.webp",
   },
   { id: "nl-heerenveen", parent: "NL-FR", coords: [5.923149, 52.998474], name: "Heerenveen", theme: "sports",
     description: {
@@ -779,6 +804,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Heerenveen a fost fondat oficial la 22 iulie 1551.", "Arena Thialf a fost inaugurată în 1967 și acoperită integral în 1986.", "Conacul Crackstate datează din anul 1648 și este înconjurat de un șanț cu apă.", "SC Heerenveen a câștigat Cupa Olandei în sezonul 2008-2009.", "Numele orașului provine de la cei trei 'Heeren': van Dekema, van Cuyck și van Ruytenburgh.", "Localitatea este situată pe canalul principal Heerenloot."],
       en: ["Heerenveen was officially founded on July 22, 1551.", "Thialf is the world's most famous temple of speed skating, opened in 1967.", "The Crackstate manor house was completed in 1648 during the Golden Age.", "SC Heerenveen plays its home matches at the Abe Lenstra Stadium.", "The town was the first large-scale peat colony in the Netherlands.", "The municipality covers an area of approximately 198 square kilometers."],
     },
+    image: "/poi-images/nl-heerenveen.webp",
   },
   { id: "nl-heerlen", parent: "NL-LI", coords: [5.981507, 50.877524], name: "Heerlen", theme: "industrial",
     description: {
@@ -805,6 +831,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Heerlen a fost unul dintre cele mai importante centre romane din regiune.", "Băile romane din Heerlen datează de peste 1.900 de ani.", "Anul 1965 este cunoscut local ca 'Anul Negru' din cauza închiderii minelor.", "Clădirea Glaspaleis a fost finalizată în 1935 și are o structură inovatoare.", "Cea mai adâncă mină din regiune a ajuns la peste 800 de metri sub pământ.", "Orașul găzduiește sediul central al Statisticilor Olandeze (CBS)."],
       en: ["Heerlen was known as Coriovallum during the Roman era.", "The Roman bathhouse remains are the largest archaeological site in the country.", "The city grew from 5,000 to 80,000 residents during the mining boom.", "Glaspaleis (Glass Palace) was recognized as an architectural marvel in 1935.", "The last coal mine in the region closed its doors in 1974.", "Heerlen is home to one of the largest clusters of street art in Europe."],
     },
+    image: "/poi-images/nl-heerlen.webp",
   },
   { id: "nl-helmond", parent: "NL-NB", coords: [5.655769, 51.479096], name: "Helmond", theme: "industrial",
     description: {
@@ -831,6 +858,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Helmond a obținut drepturi de oraș în anul 1232.", "Castelul Helmond este un monument național protejat din secolul XIV.", "Compania Vlisco este singurul producător de 'wax prints' din Europa.", "Primele case cubice ale lui Piet Blom au fost construite în Helmond în 1974.", "Muzeul de Artă din Helmond este situat parțial în vechiul castel.", "Orașul este un punct cheie pe harta industriei de transport olandeze."],
       en: ["Helmond was officially granted city rights in the year 1232.", "Helmond Castle dates back to 1350 and features four corner towers.", "The textile firm Vlisco was founded in Helmond in 1846.", "The town's Cube Houses were completed in 1975, preceding the Rotterdam ones.", "The Zuid-Willemsvaart canal was a major catalyst for the city's industry.", "Helmond serves as a major hub for automotive technology research."],
     },
+    image: "/poi-images/nl-helmond.webp",
   },
   { id: "nl-hengelo", parent: "NL-OV", coords: [6.795526, 52.252319], name: "Hengelo", theme: "industrial",
     description: {
@@ -857,6 +885,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Hengelo a început să se dezvolte accelerat după anul 1860.", "Cartierul Tuindorp 't Lansink a fost proiectat de arhitectul Karel Muller.", "Orașul a fost eliberat de trupele canadiene în aprilie 1945.", "Primăria din Hengelo a fost finalizată în 1963 și are un turn de 60 de metri.", "Hengelo găzduiește sediul central al diviziei olandeze a grupului Thales.", "Canalul Twente, finalizat în 1936, leagă orașul de rețeaua națională de căi navigabile."],
       en: ["Hengelo emerged as a dominant industrial center after 1868.", "The Stork factory produced steam engines that powered Dutch industry.", "Tuindorp 't Lansink is considered one of the finest garden villages in Europe.", "Over 70% of the city center was destroyed during World War II bombings.", "Hengelo is home to the world-renowned Thales Netherlands defense company.", "The city's central railway station was rebuilt in a modernist style in 1951."],
     },
+    image: "/poi-images/nl-hengelo.webp",
   },
   { id: "nl-hoorn", parent: "NL-NH", coords: [5.07358, 52.653272], name: "Hoorn", theme: "port",
     description: {
@@ -883,6 +912,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Orașul Hoorn a primit oficial drepturile de cetate în anul 1357.", "Capul Horn a fost numit în 1616 după oraș de către navigatorii Schouten și Le Maire.", "Turnul Hoofdtoren de lângă port a fost construit în 1532 pentru apărarea golfului.", "Hoorn a fost unul dintre cele șase orașe fondatoare ale Companiei Indiilor de Est.", "Trenul cu aburi Hoorn-Medemblik utilizează vagoane istorice din secolul al XIX-lea.", "Westfries Museum găzduiește o colecție vastă de peste 30.000 de piese istorice."],
       en: ["The city of Hoorn officially received its municipal rights in the year 1357.", "Cape Horn was named in 1616 by Hoorn-born navigators Willem Schouten and Jacob Le Maire.", "The iconic Hoofdtoren at the harbor was constructed in 1532 to defend the bay.", "Hoorn served as one of the six founding chambers of the Dutch East India Company.", "The Hoorn-Medemblik steam tram operates historic trains dating back to the late 1800s.", "The Westfries Museum contains more than 30,000 objects related to the city's golden age."],
     },
+    image: "/poi-images/nl-hoorn.webp",
   },
   { id: "nl-huizen", parent: "NL-NH", coords: [5.256721, 52.295812], name: "Huizen", theme: "coastal",
     description: {
@@ -909,6 +939,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Prima atestare documentară a localității Huizen datează din anul 1382.", "Cuptoarele istorice de var de lângă port au fost construite între 1918 și 1920.", "Huizen a fost prima localitate din regiune care a deținut o flotă proprie de pescuit.", "Costumul tradițional din Huizen a fost purtat frecvent până la mijlocul secolului XX.", "După anul 1932, orașul s-a industrializat rapid prin venirea companiei Philips.", "Lacul Gooimeer, pe malul căruia se află orașul, are o adâncime medie de 3-4 metri."],
       en: ["The first written record of Huizen dates back to a document from 1382.", "The historic lime kilns located at the harbor were built between 1918 and 1920.", "Huizen was the first village in the Gooi region to have its own fishing fleet.", "Traditional Huizen dress was commonly worn by residents until the mid-20th century.", "The arrival of major industries like Philips in the 1950s transformed the town's economy.", "The town is now a major hub for leisure boating on the Gooimeer lake."],
     },
+    image: "/poi-images/nl-huizen.webp",
   },
   { id: "nl-kampen", parent: "NL-OV", coords: [5.90333, 52.555948], name: "Kampen", theme: "historic",
     description: {
@@ -935,6 +966,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Kampen a primit drepturile oficiale de oraș încă din anul 1236.", "Orașul a aderat oficial la Liga Hanseatică în anul 1441.", "Trei porți monumentale din secolele XIV și XV sunt încă vizibile în Kampen.", "Replica navei Kamper Kogge a fost construită pe baza unei epave din 1336.", "Centrul istoric al orașului găzduiește peste 500 de monumente naționale.", "În secolul al XV-lea, Kampen era al doilea oraș ca mărime din Țările de Jos."],
       en: ["The city of Kampen was granted its municipal rights as early as 1236.", "Kampen officially joined the influential Hanseatic League in the year 1441.", "Three monumental city gates from the 14th and 15th centuries remain in Kampen.", "The Kamper Kogge is a replica based on a merchant ship wreck from 1336.", "There are more than 500 nationally protected monuments in the city center.", "In the 15th century, Kampen was the second largest city in the Netherlands."],
     },
+    image: "/poi-images/nl-kampen.webp",
   },
   { id: "nl-katwijk", parent: "NL-ZH", coords: [4.414558, 52.189855], name: "Katwijk", theme: "coastal",
     description: {
@@ -961,6 +993,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Katwijk a fost cel mai nordic punct al Limesului roman de-a lungul Rinului.", "Farul Vuurbaak a fost construit în 1605 și are o înălțime de 12 metri.", "Parcarea subterană din dune a câștigat premiul 'Clădirea Anului' în 2016.", "În secolul al XIX-lea, peste 1000 de artiști au vizitat colonia din Katwijk.", "Biserica Andreaskerk din secolul XV se afla inițial în centrul satului, nu pe plajă.", "Stațiunea este situată la gura de vărsare a brațului Oude Rijn în Marea Nordului."],
       en: ["In Roman times, Katwijk was a key northern point of the Rhine Limes border.", "The Vuurbaak lighthouse was built in 1605 and stands 12 meters tall.", "The underground parking garage in the dunes won the 'Building of the Year' award in 2016.", "Over 1,000 different artists visited the Katwijk painting colony in the 19th century.", "The 15th-century St. Andrew's Church was originally landlocked but is now seaside.", "Katwijk consists of several districts, including Katwijk aan Zee and aan den Rijn."],
     },
+    image: "/poi-images/nl-katwijk.webp",
   },
   { id: "nl-kerkrade", parent: "NL-LI", coords: [6.059385, 50.874909], name: "Kerkrade", theme: "border",
     description: {
@@ -987,6 +1020,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Abadia Rolduc a fost fondată în 1104 și este cel mai mare complex de acest tip.", "Kerkrade a fost centrul industriei miniere din Olanda până la închiderea minelor.", "World Music Contest (WMC) se desfășoară în Kerkrade la fiecare patru ani din 1951.", "Granița cu Germania trece chiar prin centrul străzii Nieuwstraat din Kerkrade.", "GaiaZOO a fost votată de mai multe ori drept cea mai frumoasă grădină zoologică.", "Orașul face parte din Eurode, primul proiect de cooperare transfrontalieră europeană."],
       en: ["Rolduc Abbey was founded in 1104 and is the largest abbey complex in the country.", "Kerkrade was home to the Willem-Sophia mine, once a pillar of Dutch coal industry.", "The World Music Contest (WMC) has been held in Kerkrade every four years since 1951.", "The international border with Germany runs down the middle of a city street.", "GaiaZOO has been repeatedly voted the best zoo in the Benelux region.", "Kerkrade and Herzogenrath established 'Eurode,' the first cross-border municipality."],
     },
+    image: "/poi-images/nl-kerkrade.webp",
   },
   { id: "nl-leeuwarden", parent: "NL-FR", coords: [5.791855, 53.200594], name: "Leeuwarden", theme: "capital",
     description: {
@@ -1013,6 +1047,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Leeuwarden a primit drepturile oficiale de oraș în anul 1435.", "Turnul Oldehove este mai înclinat decât faimosul turn din Pisa.", "Mata Hari s-a născut în Leeuwarden în 1876, sub numele de Margaretha Zelle.", "Fries Museum este cel mai mare muzeu provincial din Țările de Jos.", "Elfstedentocht este un maraton de patinaj pe gheață de 200 de kilometri.", "Orașul a servit drept Capitală Europeană a Culturii în anul 2018."],
       en: ["The city of Leeuwarden was officially granted municipal rights in 1435.", "The Oldehove tower leans even more significantly than the Leaning Tower of Pisa.", "Mata Hari was born in Leeuwarden in 1876 as Margaretha Geertruida Zelle.", "The Fries Museum is the largest provincial museum in the Netherlands.", "Leeuwarden is the central hub for the Elfstedentocht, a 200km ice skating race.", "The city served as the European Capital of Culture throughout 2018."],
     },
+    image: "/poi-images/nl-leeuwarden.webp",
   },
   { id: "nl-lelystad", parent: "NL-FL", coords: [5.361044, 52.536681], name: "Lelystad", theme: "capital",
     description: {
@@ -1039,6 +1074,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Lelystad a fost fondat oficial ca municipalitate la 1 ianuarie 1967.", "Întregul oraș se află la o altitudine medie de 3 metri sub nivelul mării.", "Provincia Flevoland, cu capitala la Lelystad, a fost înființată abia în 1986.", "Replica navei Batavia a fost construită în șantierul naval local între 1985 și 1995.", "Rezervația Oostvaardersplassen acoperă o suprafață de aproximativ 56 km pătrați.", "Aeroportul Lelystad este cel mai mare aeroport pentru aviația generală din țară."],
       en: ["Lelystad was officially established as a municipality on January 1, 1967.", "The entire city is situated an average of 3 meters below sea level.", "Flevoland, with Lelystad as its capital, became a province in 1986.", "The reconstruction of the ship Batavia took place between 1985 and 1995.", "The nearby Oostvaardersplassen nature reserve spans about 56 square kilometers.", "Lelystad is home to the Aviodrome, the national aerospace museum of the Netherlands."],
     },
+    image: "/poi-images/nl-lelystad.webp",
   },
   { id: "nl-lisse", parent: "NL-ZH", coords: [4.563033, 52.25761], name: "Lisse", theme: "flower",
     description: {
@@ -1065,6 +1101,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Grădina Keukenhof a fost înființată în 1949 ca expoziție pentru cultivatori.", "Castelul Keukenhof a fost construit în anul 1641 în stil clasicist.", "Anual, în Keukenhof sunt plantați manual circa 7 milioane de bulbi de flori.", "Lisse se află în centrul regiunii Bollenstreek, celebră pentru solul său nisipos.", "Muzeul De Zwarte Tulp a fost deschis în 1985 într-o fostă fabrică de bulbi.", "Parada Florilor (Bloemencorso) atrage anual peste un milion de spectatori în regiune."],
       en: ["Keukenhof was established in 1949 as an exhibition space for bulb growers.", "Keukenhof Castle was originally built in 1641 as a stately home.", "Approximately 7 million flower bulbs are planted by hand in Keukenhof every year.", "Lisse is the primary trade center for the global flower bulb industry.", "The Museum De Zwarte Tulp showcases 500 years of bulb cultivation history.", "Lisse is a key stop on the route of the annual Bloemencorso Bollenstreek parade."],
     },
+    image: "/poi-images/nl-lisse.webp",
   },
   { id: "nl-maassluis", parent: "NL-ZH", coords: [4.244001, 51.926667], name: "Maassluis", theme: "port",
     description: {
@@ -1091,6 +1128,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Maassluis a fost declarat oraș în anul 1811 de către Napoleon Bonaparte.", "Biserica Groote Kerk a fost construită între anii 1629 și 1639.", "Muzeul Național de Remorcare a fost inaugurat în anul 1980.", "Maassluis este prima localitate situată pe brațul navigabil Nieuwe Waterweg.", "Remorcherul istoric 'Furie' a fost construit în 1916 și este încă funcțional.", "Orașul a servit drept bază principală pentru flota de pescuit hering în secolul XVII."],
       en: ["Maassluis was officially granted city rights by Napoleon Bonaparte in 1811.", "The Groote Kerk (Great Church) was constructed between 1629 and 1639.", "The National Towage Museum, established in 1980, is unique to Maassluis.", "Maassluis is the first town encountered when sailing inland on the Nieuwe Waterweg.", "The historic steam tugboat 'Furie,' built in 1916, is a key attraction in the port.", "The city played a major role in the Dutch herring industry during the 17th century."],
     },
+    image: "/poi-images/nl-maassluis.webp",
   },
   { id: "nl-medemblik", parent: "NL-NH", coords: [5.168623, 52.790714], name: "Medemblik", theme: "historic",
     description: {
@@ -1117,6 +1155,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Medemblik a primit drepturile de oraș în 1289, fiind cel mai vechi din regiune.", "Castelul Radboud a fost construit la sfârșitul secolului al XIII-lea de Floris al V-lea.", "Muzeul Mașinilor cu Aburi funcționează în stația de pompare 'Vier Noorder Koggen'.", "Orașul a fost un port crucial pentru importul de lemn din Scandinavia în secolul XVII.", "Medemblik găzduiește Regata Delta Lloyd, un eveniment major de navigație mondială.", "Gara din Medemblik servește drept capăt de linie pentru trenul cu aburi istoric."],
       en: ["Medemblik was the first city in West Friesland to receive municipal rights in 1289.", "Radboud Castle was commissioned by Count Floris V in the late 13th century.", "The Steam Engine Museum is located in the historic 1869 pumping station.", "In the 17th century, the city was a vital center for the Scandinavian timber trade.", "Medemblik is a premier location for the international Delta Lloyd Sailing Regatta.", "The Medemblik railway station is the final stop for the Hoorn steam tram route."],
     },
+    image: "/poi-images/nl-medemblik.webp",
   },
   { id: "nl-middelburg", parent: "NL-ZE", coords: [3.613737, 51.499678], name: "Middelburg", theme: "capital",
     description: {
@@ -1143,6 +1182,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Middelburg a primit drepturi de oraș în anul 1217.", "Turnul Lange Jan are o înălțime de 90,5 metri și 207 trepte.", "Primăria a fost construită în 1452 și este un exemplu de gotic flamand.", "În secolul al XVII-lea, aici se afla a doua cea mai mare cameră a VOC.", "Orașul deține peste 1100 de monumente istorice protejate prin lege.", "Bombardamentul din 17 mai 1940 a afectat grav centrul istoric."],
       en: ["Middelburg was granted city rights in 1217 by Count William I.", "The Lange Jan tower stands 90.5 meters tall with 207 steps to the top.", "Construction of the late-Gothic town hall began in 1452.", "In the 17th century, Middelburg was the VOC's second most vital center.", "The city preserves more than 1,100 national monuments within its limits.", "The Nazi bombing on May 17, 1940, destroyed most of the historic core."],
     },
+    image: "/poi-images/nl-middelburg.webp",
   },
   { id: "nl-naarden", parent: "NL-NH", coords: [5.163364, 52.295763], name: "Naarden", theme: "fortified",
     description: {
@@ -1169,6 +1209,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Naarden are șase bastioane care formează conturul său stelat.", "Masacrul din 1572 a dus la uciderea aproape a întregii populații.", "Biserica Sfântul Vitus are un tavan din lemn pictat datând din 1541.", "Orașul a primit drepturi oficiale de oraș în anul 1300.", "Muzeul Fortificațiilor este situat în bastionul numit Turfpoort.", "Naarden este singura fortificație cu șanț dublu din Țările de Jos."],
       en: ["Naarden features six bastions that create its iconic star silhouette.", "The Spanish massacre of Naarden occurred on November 22, 1572.", "The Grote Kerk was constructed between 1380 and 1440.", "Naarden was officially granted city rights in the year 1300.", "The Fortress Museum is integrated into the Turfpoort bastion.", "Naarden served as a key stronghold in the New Dutch Waterline defensive system."],
     },
+    image: "/poi-images/nl-naarden.webp",
   },
   { id: "nl-nieuwegein", parent: "NL-UT", coords: [5.092933, 52.02987], name: "Nieuwegein", theme: "new-town",
     description: {
@@ -1195,6 +1236,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Nieuwegein a fost fondat prin decret la data de 1 iulie 1971.", "Populația actuală a orașului este de aproximativ 65.000 de locuitori.", "Castelul Rijnhuizen a fost reconstruit în forma actuală în 1640.", "Ecluza istorică din Vreeswijk datează din anul 1824.", "Orașul este situat strategic pe malul Canalului Amsterdam-Rhin.", "Centrul comercial Cityplaza a fost renovat major între 2011 și 2014."],
       en: ["Nieuwegein was officially established on July 1, 1971.", "The city has a population of approximately 65,000 residents.", "Castle Rijnhuizen in Jutphaas was completed in its current form in 1640.", "The historic Oude Sluis in Vreeswijk dates back to 1824.", "Nieuwegein is located at the intersection of the Amsterdam-Rhine Canal and the Lek.", "The modern theater and arts center DE KOM was opened in 2012."],
     },
+    image: "/poi-images/nl-nieuwegein.webp",
   },
   { id: "nl-noordwijk", parent: "NL-ZH", coords: [4.446197, 52.241086], name: "Noordwijk", theme: "coastal",
     description: {
@@ -1221,6 +1263,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Noordwijk are o plajă cu nisip fin lungă de 13 kilometri.", "Centrul ESA-ESTEC este cea mai mare locație a Agenției Spațiale Europene.", "Space Expo a fost inaugurat în 1990 de către prințul Willem-Alexander.", "Orașul a devenit o destinație turistică balneară oficială în anul 1866.", "Noordwijk se află în centrul regiunii florale Bollenstreek.", "Biserica Sfântul Ieronim (Sint-Jeroenskerk) datează din secolul al XV-lea."],
       en: ["Noordwijk boasts a continuous sandy coastline of 13 kilometers.", "ESA-ESTEC is the European Space Agency's largest technical site.", "The Space Expo museum was opened in 1990 as a permanent space exhibition.", "Noordwijk's history as a seaside resort began officially in 1866.", "The town is a key part of the Bollenstreek, famous for its spring flower bulb fields.", "The Gothic St. Jeroen's Church was constructed during the 15th century."],
     },
+    image: "/poi-images/nl-noordwijk.webp",
   },
   { id: "nl-oisterwijk", parent: "NL-NB", coords: [5.198645, 51.566108], name: "Oisterwijk", theme: "nature",
     description: {
@@ -1247,6 +1290,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Oisterwijk a primit drepturi de oraș în anul 1212.", "Rezervația naturală locală conține peste 80 de lacuri mici de tip „ven”.", "Biserica Sfântul Petru a fost finalizată în anul 1897.", "În piața De Lind se află un tei vechi de aproximativ 600 de ani.", "Suprafața totală a municipalității este de circa 65 km².", "În trecut, orașul a fost un centru important al industriei pielăriei."],
       en: ["Oisterwijk was officially granted city rights in 1212.", "The surrounding nature reserve contains more than 80 scenic fens.", "The St. Petrus'-Banden Church was completed in 1897.", "The historic lime tree on De Lind square is estimated to be 600 years old.", "The municipality covers an area of approximately 65 square kilometers.", "Historically, Oisterwijk was a prominent center for the leather tanning industry."],
     },
+    image: "/poi-images/nl-oisterwijk.webp",
   },
   { id: "nl-oss", parent: "NL-NB", coords: [5.532084, 51.778354], name: "Oss", theme: "industrial",
     description: {
@@ -1273,6 +1317,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Mormântul Prințului (Vorstengraf) datează din aproximativ 800 î.Hr.", "Industria margarinei a început în Oss în anul 1871.", "Compania farmaceutică Organon a fost înființată aici în anul 1923.", "Orașul a primit drepturi oficiale de cetate în anul 1399.", "Muzeul Jan Cunen prezintă o colecție vastă de artă din secolul al XIX-lea.", "Oss este situat pe linia ferată principală dintre Tilburg și Nijmegen."],
       en: ["The Prince's Grave (Vorstengraf) dates back to approximately 800 BC.", "The Jurgens margarine factory was founded in Oss in 1871.", "Organon, a global pharmaceutical leader, was founded here in 1923.", "Oss was officially granted city rights in the year 1399.", "The Jan Cunen Museum is housed in the historic Villa Constance (1888).", "The nearby Maashorst reserve covers approximately 3,500 hectares."],
     },
+    image: "/poi-images/nl-oss.webp",
   },
   { id: "nl-oudewater", parent: "NL-UT", coords: [4.87013, 52.022606], name: "Oudewater", theme: "historic",
     description: {
@@ -1299,6 +1344,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Oudewater a primit drepturi de oraș la 15 aprilie 1265.", "Cântarul Vrăjitoarelor a fost construit inițial în anul 1482.", "Împăratul Carol Quintul a acordat privilegiul de cântărire în 1545.", "În secolul XVII, orașul era principalul furnizor de frânghii pentru nave.", "Primăria actuală a fost construită în stil renascentist în anul 1588.", "Oudewater a fost asediat și parțial distrus de trupele spaniole în 1575."],
       en: ["Oudewater was officially granted city rights on April 15, 1265.", "The Heksenwaag was originally built as a weighhouse in 1482.", "Emperor Charles V granted the weighing privilege in 1545.", "The town was the primary rope supplier for the Dutch fleet in the 17th century.", "The Renaissance-style town hall was completed in 1588.", "In 1575, the town was significantly damaged during a Spanish siege."],
     },
+    image: "/poi-images/nl-oudewater.webp",
   },
   { id: "nl-purmerend", parent: "NL-NH", coords: [4.961483, 52.502479], name: "Purmerend", theme: "market",
     description: {
@@ -1325,6 +1371,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Purmerend a primit drepturi oficiale de oraș în anul 1410.", "Populația orașului a crescut de la 10.000 în 1960 la peste 80.000 astăzi.", "Piața istorică de vite Koemarkt s-a închis definitiv în 2001.", "Muzeul local este situat în vechea primărie construită în 1912.", "Orașul este cunoscut pentru ceramica „Purmerender plateel” din anii 1900.", "Purmerend este legat de Amsterdam printr-o rețea densă de transport feroviar."],
       en: ["Purmerend was granted city rights in 1410.", "The town's population has grown to over 80,000 residents.", "The Koemarkt hosted its last cattle market in the year 2001.", "The Purmerend Museum is famous for its collection of Art Nouveau pottery.", "In the 1960s, Purmerend was officially designated as a growth hub.", "The city is adjacent to the UNESCO-listed Beemster Polder."],
     },
+    image: "/poi-images/nl-purmerend.webp",
   },
   { id: "nl-rhenen", parent: "NL-UT", coords: [5.57222, 51.960876], name: "Rhenen", theme: "historic",
     description: {
@@ -1351,6 +1398,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Turnul bisericii Cunerakerk are 82 de metri și a fost terminat în 1492.", "Grădina zoologică Ouwehands a fost deschisă publicului în 1932.", "Bătălia de la Grebbeberg din 1940 a durat trei zile intense.", "Orașul a primit drepturi de cetate în anul 1258.", "Cimitirul de pe Grebbeberg adăpostește peste 800 de soldați olandezi.", "Rhenen este situat pe versantul sudic al dealului Utrechtse Heuvelrug."],
       en: ["The Cunerakerk tower stands 82 meters tall and was finished in 1492.", "Ouwehands Dierenpark was established in 1932 by Cor Ouwehand.", "The Battle of the Grebbeberg took place between May 11 and 13, 1940.", "Rhenen was officially granted city rights in the year 1258.", "The Grebbeberg National Field of Honour contains over 800 war graves.", "Rhenen is located at the intersection of the Rhine river and the glacial ridge."],
     },
+    image: "/poi-images/nl-rhenen.webp",
   },
   { id: "nl-roermond", parent: "NL-LI", coords: [5.988265, 51.19339], name: "Roermond", theme: "shopping",
     description: {
@@ -1377,6 +1425,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Biserica Munsterkerk a fost sfințită în anul 1220.", "Designer Outlet Roermond este cel mai mare din Europa de Nord.", "Orașul a primit drepturi de cetate în anul 1231.", "Zona Maasplassen are o suprafață de apă de aproximativ 3000 de hectare.", "Catedrala Sfântul Cristofor a fost finalizată în secolul al XVI-lea.", "Roermond este sediul unei episcopii catolice încă din 1559."],
       en: ["The Munsterkerk was constructed between 1218 and 1220.", "Designer Outlet Roermond opened in 2001 and hosts millions of visitors.", "Roermond was granted city rights in the year 1231.", "The Maasplassen water sports area covers roughly 3,000 hectares.", "Construction of St. Christopher's Cathedral began in 1410.", "Roermond was historically one of the four capitals of the Duchy of Guelders."],
     },
+    image: "/poi-images/nl-roermond.webp",
   },
   { id: "nl-schagen", parent: "NL-NH", coords: [4.741357, 52.788221], name: "Schagen", theme: "market",
     description: {
@@ -1403,6 +1452,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Schagen a primit drepturile oficiale de oraș în anul 1415.", "Piața folclorică din Frisia de Vest are loc anual din 1953.", "Castelul Schagen a fost construit inițial în jurul anului 1440.", "Biserica reformată din piața centrală datează din anul 1897.", "Orașul are o populație de aproximativ 19.000 de locuitori.", "Conexiunea feroviară către Amsterdam a fost inaugurată în 1865."],
       en: ["Schagen was granted its official city rights in the year 1415.", "The West Frisian folklore market has been held annually since 1953.", "Schagen Castle was originally constructed around the year 1440.", "The Reformed Church on the market square was completed in 1897.", "The town has a population of approximately 19,000 residents.", "The railway connection to Amsterdam was first opened in 1865."],
     },
+    image: "/poi-images/nl-schagen.webp",
   },
   { id: "nl-schiedam", parent: "NL-ZH", coords: [4.386451, 51.930045], name: "Schiedam", theme: "industrial",
     description: {
@@ -1429,6 +1479,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Schiedam găzduiește cele mai înalte mori de vânt din lume, de până la 44 metri.", "Orașul a primit drepturile oficiale de cetate în anul 1275.", "În secolul al XIX-lea, în oraș funcționau peste 200 de distilerii active.", "Moara 'De Noord' este cea mai înaltă dintre morile istorice conservate.", "Muzeul Național al Jeneverului este situat într-o fostă distilerie veche.", "Schiedam se află pe râul Schie, care a dat și numele localității."],
       en: ["Schiedam is home to the world's tallest windmills, reaching up to 44 meters.", "The city was officially granted its city rights in the year 1275.", "In the 19th century, there were over 200 active distilleries in the city.", "The 'De Noord' windmill is the tallest among the historic structures.", "The National Jenever Museum is housed in a former distilling complex.", "Schiedam is situated on the river Schie, which gives the city its name."],
     },
+    image: "/poi-images/nl-schiedam.webp",
   },
   { id: "nl-sittard", parent: "NL-LI", coords: [5.866663, 50.997423], name: "Sittard", theme: "historic",
     description: {
@@ -1455,6 +1506,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Sittard a primit drepturile oficiale de oraș în anul 1243.", "Basilica Maicii Domnului a fost prima basilică declarată în Țările de Jos.", "Zidurile de fortificație datează inițial din secolul al XIII-lea.", "Sfânta Rosa din Lima a fost numită patroana orașului în anul 1667.", "Sittard se află în cel mai îngust punct al țării (doar 4,8 km lățime).", "Piața mare din Sittard este una dintre cele mai întinse din sudul țării."],
       en: ["Sittard was officially granted city rights in the year 1243.", "The Basilica of Our Lady was the first basilica in the Netherlands.", "The city walls originally date back to the 13th century.", "Saint Rosa of Lima was declared the patron saint of the city in 1667.", "Sittard is located at the narrowest point of the Netherlands (4.8 km wide).", "The market square of Sittard is among the largest in the south of the country."],
     },
+    image: "/poi-images/nl-sittard.webp",
   },
   { id: "nl-sneek", parent: "NL-FR", coords: [5.661103, 53.033548], name: "Sneek", theme: "water",
     description: {
@@ -1481,6 +1533,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Celebra poartă Waterpoort a fost construită în anul 1613.", "Sneek a primit drepturile oficiale de oraș în anul 1456.", "Evenimentul Sneekweek începe tradițional în prima sâmbătă din august.", "În Sneek se află Weduwe Joustra, producător de Beerenburg din 1864.", "Orașul are o populație de aproximativ 34.000 de locuitori.", "Biserica Sfântul Martin a fost ridicată în secolul al XV-lea în stil gotic târziu."],
       en: ["The famous Waterpoort (Water Gate) was constructed in 1613.", "Sneek was officially granted city rights in the year 1456.", "Sneekweek traditionally begins on the first Saturday of August.", "Sneek is home to Weduwe Joustra, producers of Beerenburg since 1864.", "The city has a population of approximately 34,000 residents.", "St. Martin's Church was built in the 15th century in Late Gothic style."],
     },
+    image: "/poi-images/nl-sneek.webp",
   },
   { id: "nl-steenwijk", parent: "NL-OV", coords: [6.121048, 52.78955], name: "Steenwijk", theme: "fortified",
     description: {
@@ -1507,6 +1560,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Steenwijk a primit drepturile oficiale de oraș în anul 1327.", "Turnul Bisericii Sfântul Clement are o înălțime de 87 de metri.", "Celebrul asediu al orașului Steenwijk a avut loc între 1580 și 1581.", "Fortificațiile orașului au fost extinse masiv în secolul al XVI-lea.", "Steenwijk este situat în imediata apropiere a satului Giethoorn.", "Orașul are o populație de aproximativ 17.500 de locuitori."],
       en: ["Steenwijk was officially granted city rights in the year 1327.", "The tower of St. Clement's Church stands 87 meters tall.", "The famous Siege of Steenwijk took place during 1580-1581.", "The city fortifications were significantly expanded in the 16th century.", "Steenwijk is located in close proximity to the village of Giethoorn.", "The town has a population of approximately 17,500 residents."],
     },
+    image: "/poi-images/nl-steenwijk.webp",
   },
   { id: "nl-terneuzen", parent: "NL-ZE", coords: [3.842204, 51.298843], name: "Terneuzen", theme: "port",
     description: {
@@ -1533,6 +1587,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Canalul Gent-Terneuzen a fost inaugurat oficial în anul 1827.", "Terneuzen a primit drepturile oficiale de oraș în anul 1584.", "Orașul face parte din North Sea Port, alături de Gent și Vlissingen.", "Tunelul Westerschelde are 6,6 km, fiind unul dintre cele mai lungi din țară.", "Legenda Olandezului Zburător este promovată turistic în acest oraș.", "Orașul are o populație de aproximativ 25.000 de locuitori."],
       en: ["The Ghent-Terneuzen Canal was officially opened in the year 1827.", "Terneuzen was granted its official city rights in 1584.", "The city forms the North Sea Port alliance along with Ghent and Vlissingen.", "The Westerschelde Tunnel is 6.6 km long, one of the longest in the country.", "The legend of the Flying Dutchman is a prominent theme in local tourism.", "The city has a population of approximately 25,000 residents."],
     },
+    image: "/poi-images/nl-terneuzen.webp",
   },
   { id: "nl-tiel", parent: "NL-GE", coords: [5.437268, 51.887433], name: "Tiel", theme: "fruit",
     description: {
@@ -1559,6 +1614,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Tiel a primit drepturi de piață încă din secolul al XI-lea.", "Personajul Flipje a fost creat în anul 1935.", "Evenimentul Fruitcorso din Tiel are loc anual începând cu 1961.", "Orașul a fost un membru important al Hansei în secolul al XIV-lea.", "Poarta istorică a Apei datează inițial din secolul al XVII-lea.", "Orașul are o populație de aproximativ 42.000 de locuitori."],
       en: ["Tiel was granted market rights as early as the 11th century.", "The character Flipje was created in the year 1935.", "The Tiel Fruitcorso has been held annually since 1961.", "The city was a prominent member of the Hanseatic League in the 14th century.", "The historic Water Gate originally dates from the 17th century.", "The city has a population of approximately 42,000 residents."],
     },
+    image: "/poi-images/nl-tiel.webp",
   },
   { id: "nl-uithoorn", parent: "NL-NH", coords: [4.828161, 52.244003], name: "Uithoorn", theme: "water",
     description: {
@@ -1585,6 +1641,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Uithoorn a fost menționat documentar pentru prima dată în anul 1391.", "Fortul de la Drecht face parte din situl UNESCO Stelling van Amsterdam.", "Numele Uithoorn se traduce prin 'unghiul colțului exterior'.", "Orașul are o populație de aproximativ 30.000 de locuitori.", "Uithoorn a fost odată o stație importantă pe liniile ferate Haarlemmermeer.", "Biserica Thamerkerk de pe malul Amstelului datează din anul 1835."],
       en: ["Uithoorn was first mentioned in historical records in the year 1391.", "The Fort at the Drecht is part of the UNESCO-protected Defense Line of Amsterdam.", "The name Uithoorn translates to 'angle of the outer corner'.", "The town has a population of approximately 30,000 residents.", "Uithoorn was once a major station on the Haarlemmermeer railway lines.", "The Thamerkerk on the banks of the Amstel dates back to 1835."],
     },
+    image: "/poi-images/nl-uithoorn.webp",
   },
   { id: "nl-urk", parent: "NL-FL", coords: [5.598789, 52.665452], name: "Urk", theme: "island",
     description: {
@@ -1611,6 +1668,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Urk și-a pierdut statutul de insulă în anul 1942.", "Farul din Urk a fost construit în anul 1844.", "Comunitatea are una dintre cele mai mari rate ale natalității din țară.", "Urk găzduiește cea mai mare licitație de pește din Țările de Jos.", "Dialectul local 'Urkers' este dificil de înțeles pentru străini.", "Populația localității Urk este de aproximativ 21.000 de locuitori."],
       en: ["Urk officially lost its island status in the year 1942.", "The Urk lighthouse was constructed in the year 1844.", "The community has one of the highest birth rates in the Netherlands.", "Urk is home to the largest fish auction in the country.", "The local dialect, known as 'Urkers', is distinct and hard for outsiders.", "The population of Urk is approximately 21,000 residents."],
     },
+    image: "/poi-images/nl-urk.webp",
   },
   { id: "nl-valkenburg", parent: "NL-LI", coords: [5.831252, 50.864753], name: "Valkenburg", theme: "tourism",
     description: {
@@ -1637,6 +1695,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Valkenburg a fost menționat documentar pentru prima dată în anul 1041.", "Ruinele castelului datează inițial din secolul al XI-lea.", "Dealul Cauberg are o pantă maximă de aproximativ 12%.", "Peșterile de marnă au o lungime totală de peste 200 de kilometri.", "Valkenburg a găzduit Campionatele Mondiale de Ciclism în 1948 și 1998.", "Orașul are o populație de aproximativ 16.500 de locuitori."],
       en: ["Valkenburg was first recorded in historical documents in the year 1041.", "The castle ruins originally date back to the 11th century.", "The Cauberg hill has a maximum gradient of approximately 12%.", "The marl caves have a total combined length of over 200 kilometers.", "Valkenburg hosted the Road World Cycling Championships in 1948 and 1998.", "The town has a population of approximately 16,500 residents."],
     },
+    image: "/poi-images/nl-valkenburg.webp",
   },
   { id: "nl-veere", parent: "NL-ZE", coords: [3.577269, 51.556404], name: "Veere", theme: "historic",
     description: {
@@ -1663,6 +1722,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["În 1541 Veere a fost desemnat port de depozitare pentru lâna scoțiană", "Primăria din Veere a fost construită între anii 1470 și 1474", "Grote Kerk are o înălțime de 42 de metri și datează din anul 1405", "Turnul Campvere a făcut parte din fortificațiile orașului din secolul XV", "Orașul are astăzi mai puțin de 1.700 de locuitori permanenți", "Veere a pierdut accesul direct la Marea Nordului în 1961 prin barajul Veerse Gatdam"],
       en: ["In 1541 Veere was appointed as the staple port for Scottish wool", "The Town Hall of Veere was constructed between 1470 and 1474", "The Grote Kerk is 42 meters high and dates back to 1405", "The Campvere Tower was part of the 15th-century city fortifications", "The town currently has fewer than 1,700 permanent residents", "Veere lost its direct North Sea access in 1961 due to the Veerse Gatdam construction"],
     },
+    image: "/poi-images/nl-veere.webp",
   },
   { id: "nl-venlo", parent: "NL-LI", coords: [6.151172, 51.392449], name: "Venlo", theme: "border",
     description: {
@@ -1689,6 +1749,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Venlo a primit drepturile oficiale de oraș în anul 1343", "Primăria a fost construită între 1597 și 1601 în stil renascentist", "Orașul a fost membru al Ligii Hanseatice în Evul Mediu", "Venlo se află la doar aproximativ 5 kilometri de granița cu Germania", "Greenport Venlo este una dintre cele mai mari zone logistice din Olanda", "În anul 2012, Venlo a găzduit expoziția mondială de horticultură Floriade"],
       en: ["Venlo was officially granted city rights in the year 1343", "The Town Hall was built between 1597 and 1601 in Renaissance style", "The city was a member of the Hanseatic League during the Middle Ages", "Venlo is located only about 5 kilometers from the German border", "Greenport Venlo is one of the largest logistics areas in the Netherlands", "In 2012, Venlo hosted the Floriade international horticultural exhibition"],
     },
+    image: "/poi-images/nl-venlo.webp",
   },
   { id: "nl-vlissingen", parent: "NL-ZE", coords: [3.415006, 51.494339], name: "Vlissingen", theme: "port",
     description: {
@@ -1715,6 +1776,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Vlissingen a primit drepturile de oraș în anul 1315", "Michiel de Ruyter, unul dintre cei mai mari amirali olandezi, s-a născut aici în 1607", "Bulevardul din Vlissingen are o lungime de aproximativ 2,2 kilometri", "Orașul a fost eliberat în noiembrie 1944 în timpul Bătăliei de pe Schelde", "Vlissingen-Oost este a treia cea mai mare zonă portuară din Olanda", "Gevangentoren este singura rămășiță a porților vestice ale orașului din secolul XV"],
       en: ["Vlissingen was granted city rights in the year 1315", "Michiel de Ruyter, one of the greatest Dutch admirals, was born here in 1607", "The Boulevard of Vlissingen is approximately 2.2 kilometers long", "The city was liberated in November 1944 during the Battle of the Scheldt", "Vlissingen-Oost is the third largest port area in the Netherlands", "The Gevangentoren is the only remaining part of the 15th-century western city gates"],
     },
+    image: "/poi-images/nl-vlissingen.webp",
   },
   { id: "nl-wageningen", parent: "NL-GE", coords: [5.668298, 51.968582], name: "Wageningen", theme: "university",
     description: {
@@ -1741,6 +1803,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Wageningen a primit drepturile de oraș în anul 1263", "Capitularea germanilor a fost semnată la 5 mai 1945 în Hotel de Wereld", "Universitatea Wageningen a fost fondată oficial în anul 1918", "Arboretum Belmonte se întinde pe o suprafață de aproximativ 11 hectare", "Wageningen a fost aproape complet evacuat în timpul celui de-al Doilea Război Mondial", "Zidul orașului Wageningen avea inițial o lungime de aproximativ 1,5 kilometri"],
       en: ["Wageningen was granted city rights in the year 1263", "The German surrender was signed on May 5, 1945, at Hotel de Wereld", "Wageningen University was officially established in the year 1918", "The Arboretum Belmonte covers an area of approximately 11 hectares", "Wageningen was almost entirely evacuated during World War II", "The city wall of Wageningen was originally about 1.5 kilometers long"],
     },
+    image: "/poi-images/nl-wageningen.webp",
   },
   { id: "nl-weert", parent: "NL-LI", coords: [5.70508, 51.235583], name: "Weert", theme: "historic",
     description: {
@@ -1767,6 +1830,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Weert a primit drepturile de oraș în anul 1414", "Turnul bisericii St. Martinuskerk are o înălțime de 78 de metri", "În 2014, Weert a fost premiat ca fiind cea mai verde regiune din lume", "Mănăstirea Birgittinessen funcționează în oraș din anul 1843", "Parcul Kasteelpark Nijenborgh conține ruinele fostului castel al conților de Horn", "Weert se află la punctul de întâlnire al provinciilor Limburg, Brabantul de Nord și granița cu Belgia"],
       en: ["Weert was granted city rights in the year 1414", "The tower of the St. Martinuskerk is 78 meters high", "In 2014, Weert was awarded the title of the greenest region in the world", "The Birgittinessen monastery has been present in the city since 1843", "Kasteelpark Nijenborgh contains the ruins of the former castle of the Counts of Horn", "Weert is located at the meeting point of Limburg, North Brabant, and the Belgian border"],
     },
+    image: "/poi-images/nl-weert.webp",
   },
   { id: "nl-woerden", parent: "NL-UT", coords: [4.883294, 52.085926], name: "Woerden", theme: "cheese",
     description: {
@@ -1793,6 +1857,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Woerden a primit drepturile de oraș în anul 1372", "Numele roman al localității a fost Castellum Laurium", "Piața tradițională de brânzeturi are loc în fiecare sâmbătă din 1885", "Castelul din Woerden a fost construit în anul 1410", "Muzeul orașului este adăpostit în vechea primărie din anul 1501", "Biserica Petruskerk datează inițial din secolul al XIII-lea"],
       en: ["Woerden was granted city rights in the year 1372", "The Roman name of the settlement was Castellum Laurium", "The traditional cheese market has been held every Saturday since 1885", "The Castle of Woerden was constructed in the year 1410", "The city museum is housed in the old town hall from 1501", "The Petruskerk originally dates from the 13th century"],
     },
+    image: "/poi-images/nl-woerden.webp",
   },
   { id: "nl-yerseke", parent: "NL-ZE", coords: [4.04525, 51.493579], name: "Yerseke", theme: "seafood",
     description: {
@@ -1819,6 +1884,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Yerseke găzduiește singura bursă de scoici din lume", "Inundația Sfântul Felix din 1530 a distrus aproape complet polderele din jur", "Cultura stridiilor în Yerseke a început în anul 1870", "Muzeul Oosterschelde este adăpostit în fosta primărie", "Aproximativ 50.000 de oameni vizitează anual tradiționalul Mosseldag", "Biserica din Yerseke datează inițial din secolul al XII-lea"],
       en: ["Yerseke is home to the world's only mussel auction exchange", "The St. Felix's Flood of 1530 almost completely destroyed the surrounding polders", "Oyster farming in Yerseke began in the year 1870", "The Oosterschelde Museum is housed in the former town hall", "Approximately 50,000 people visit the traditional Mosseldag annually", "The church of Yerseke originally dates back to the 12th century"],
     },
+    image: "/poi-images/nl-yerseke.webp",
   },
   { id: "nl-zeist", parent: "NL-UT", coords: [5.227631, 52.089283], name: "Zeist", theme: "royal",
     description: {
@@ -1845,6 +1911,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Slot Zeist a fost construit între anii 1677 și 1686", "Comunitatea Herrnhuter s-a stabilit în Zeist în anul 1746", "Sediul central al Federației Olandeze de Fotbal (KNVB) se află aici", "Zeist este situat pe Utrechtse Heuvelrug, un deal format din morene", "Municipalitatea are o suprafață de aproximativ 48 de kilometri pătrați", "Centrul istoric este protejat ca ansamblu de monumente de stat"],
       en: ["Slot Zeist was constructed between 1677 and 1686", "The Moravian Church community settled in Zeist in the year 1746", "The headquarters of the Royal Dutch Football Association (KNVB) is located here", "Zeist is situated on the Utrechtse Heuvelrug, a glacial moraine ridge", "The municipality covers an area of approximately 48 square kilometers", "The historic center is protected as a national heritage site"],
     },
+    image: "/poi-images/nl-zeist.webp",
   },
   { id: "nl-zierikzee", parent: "NL-ZE", coords: [3.920837, 51.649769], name: "Zierikzee", theme: "historic",
     description: {
@@ -1871,6 +1938,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Zierikzee a primit drepturile de oraș în anul 1248", "Dikke Toren are 62 de metri înălțime și datează din anul 1454", "Există exact 568 de monumente naționale înregistrate în oraș", "Nobelpoort este una dintre cele trei porți ale orașului rămase din secolul XIV", "Orașul a fost un centru pentru comerțul cu roibă (plantă tinctorială) în Evul Mediu", "Portul din Zierikzee a fost extins considerabil în anul 1318"],
       en: ["Zierikzee was granted city rights in the year 1248", "The Dikke Toren is 62 meters high and dates back to 1454", "There are exactly 568 registered national monuments in the city", "The Nobelpoort is one of the three remaining city gates from the 14th century", "The city was a center for the trade of madder (dye plant) in the Middle Ages", "The harbor of Zierikzee was significantly expanded in the year 1318"],
     },
+    image: "/poi-images/nl-zierikzee.webp",
   },
   { id: "nl-zeewolde", parent: "NL-FL", coords: [5.543031, 52.331111], name: "Zeewolde", theme: "polder",
     description: {
@@ -1897,6 +1965,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Zeewolde a devenit municipalitate independentă la 1 ianuarie 1984", "Horsterwold este cea mai mare pădure de foioase din Europa de Vest, cu 3.700 hectare", "Municipalitatea se află la aproximativ 5 metri sub nivelul mării", "Zeewolde nu are un centru istoric, fiind construit în întregime pe polder", "Sediul mondial al Spyker Cars se află în această municipalitate", "Zona de recreere Tulpeneyland este o insulă artificială în formă de lalea"],
       en: ["Zeewolde became an independent municipality on January 1, 1984", "The Horsterwold is Western Europe's largest deciduous forest at 3,700 hectares", "The municipality is situated approximately 5 meters below sea level", "Zeewolde has no historic old town as it was built entirely on a polder", "The global headquarters of Spyker Cars is located in this municipality", "The Tulpeneyland recreation area is a man-made island shaped like a tulip"],
     },
+    image: "/poi-images/nl-zeewolde.webp",
   },
   { id: "nl-zutphen", parent: "NL-GE", coords: [6.194772, 52.139693], name: "Zutphen", theme: "historic",
     description: {
@@ -1923,6 +1992,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Zutphen a primit oficial drepturile de oraș în anul 1190 de la contele Otto I de Gelre.", "Librije din Walburgiskerk este una dintre cele doar trei biblioteci cu lanțuri rămase în Europa.", "Drogenapstoren a fost construit în 1444 ca poartă a orașului și a servit ulterior ca turn de apă.", "În anul 1572, orașul a fost cucerit de trupele spaniole în timpul Războiului de Optzeci de Ani.", "Zutphen este supranumit 'Orașul Turnurilor' datorită numeroaselor sale turnuri din centrul istoric.", "Berkelpoort este un exemplu rar de poartă de apă medievală construită peste râul Berkel."],
       en: ["Zutphen officially received its city rights in 1190 from Count Otto I of Guelders.", "The Librije in the Walburgiskerk is one of only three remaining chained libraries in Europe.", "The Drogenapstoren was built in 1444 as a city gate and later served as a water tower.", "In 1572, the city was captured by Spanish troops during the Eighty Years' War.", "Zutphen is nicknamed the 'Tower City' due to the many historic towers in its center.", "The Berkelpoort is a rare example of a medieval water gate spanning the Berkel river."],
     },
+    image: "/poi-images/nl-zutphen.webp",
   },
   { id: "nl-wijk-bij-duurstede", parent: "NL-UT", coords: [5.337435, 51.975186], name: "Wijk bij Duurstede", theme: "historic",
     description: {
@@ -1949,6 +2019,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Dorestad a fost cel mai important port din imperiul lui Carol cel Mare în secolul al VIII-lea.", "Wijk bij Duurstede a primit drepturi de oraș în anul 1300 de la Gijsbrecht van Abcoude.", "Castelul Duurstede a fost un centru politic major al regiunii în secolul al XV-lea.", "Moara 'Rijn en Lek' datează din 1863 și este ridicată pe structura porții 'Leuterpoort'.", "Biserica Sfântul Ioan Botezătorul are un turn masiv care nu a fost niciodată finalizat cu turlă.", "Excavațiile arheologice din anii 1960 au scos la lumină părți extinse din vechiul Dorestad."],
       en: ["Dorestad was the most important harbor in Charlemagne's empire during the 8th century.", "Wijk bij Duurstede was granted city rights in 1300 by Gijsbrecht van Abcoude.", "Duurstede Castle served as a major political hub for the region in the 15th century.", "The 'Rijn en Lek' mill dates from 1863 and stands on the foundations of the 'Leuterpoort'.", "The St. John the Baptist church features a massive tower that lacks a traditional spire.", "Archaeological excavations in the 1960s uncovered large sections of the ancient Dorestad settlement."],
     },
+    image: "/poi-images/nl-wijk-bij-duurstede.webp",
   },
   { id: "nl-goirle", parent: "NL-NB", coords: [5.033774, 51.505627], name: "Goirle", theme: "nature",
     description: {
@@ -1975,6 +2046,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Goirle a fost menționat pentru prima dată în documente istorice în anul 1312.", "Comuna include și satul de frontieră Riel, care aparține de Goirle din 1997.", "Fabrica de textile Van Puijenbroek a fost cel mai mare angajator din localitate timp de decenii.", "Domeniul Gorp en Roovert adăpostește specii rare de păsări și cabane de vânătoare istorice.", "În timpul celui de-al Doilea Război Mondial, Goirle s-a aflat pe o rută importantă pentru trupele aliate.", "Moara de vânt 'De Wilde' este o moară de cereale funcțională datând din anul 1898."],
       en: ["Goirle was first mentioned in historical records in the year 1312.", "The municipality includes the border village of Riel, which joined Goirle in 1997.", "The Van Puijenbroek textile factory was the town's largest employer for many decades.", "The Gorp en Roovert estate is home to rare bird species and historic hunting lodges.", "During World War II, Goirle was located on a key route for Allied liberation forces.", "The 'De Wilde' windmill is a fully functional grain mill constructed in 1898."],
     },
+    image: "/poi-images/nl-goirle.webp",
   },
   { id: "nl-houten", parent: "NL-UT", coords: [5.162064, 52.027143], name: "Houten", theme: "new-town",
     description: {
@@ -2001,6 +2073,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Houten a fost ales cel mai prietenos oraș pentru biciclete din Olanda în 2008 și 2018.", "Teritoriul orașului cuprinde două gări: Houten și Houten Castellum.", "Majoritatea caselor sunt accesibile cu mașina doar prin intermediul unei șosele de centură.", "Arhitectura din cartierul Castellum a fost inspirată de fortificațiile romane antice.", "Comuna Houten are o populație de peste 50.000 de locuitori.", "Castelul Heemstede este un domeniu nobiliar splendid din secolul al XVII-lea situat la marginea orașului."],
       en: ["Houten was voted the most bicycle-friendly city in the Netherlands in 2008 and 2018.", "The urban area is served by two railway stations: Houten and Houten Castellum.", "Most residential areas are only accessible by car via an external ring road system.", "The architecture in the Castellum district was modeled after ancient Roman fortifications.", "The municipality of Houten has a population exceeding 50,000 residents.", "Heemstede Castle is a magnificent 17th-century estate located on the outskirts of the city."],
     },
+    image: "/poi-images/nl-houten.webp",
   },
   { id: "nl-ijsselstein", parent: "NL-UT", coords: [5.028686, 52.026205], name: "IJsselstein", theme: "historic",
     description: {
@@ -2027,6 +2100,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["IJsselstein a primit oficial drepturile de oraș în anul 1310.", "Turnul Gerbrandy este cea mai înaltă structură din Țările de Jos, având 366,8 metri.", "Bazilica Sfântul Nicolae adăpostește morminte importante ale lorzilor de IJsselstein.", "Turnul castelului servește astăzi ca muzeu pentru istoria locală și macheta castelului.", "În timpul Crăciunului, peste 120 de lămpi LED luminează Turnul Gerbrandy ca un brad gigantic.", "Primăria istorică a fost construită între anii 1558 și 1568 în stil renascentist."],
       en: ["IJsselstein officially received its city rights in the year 1310.", "The Gerbrandy Tower is the tallest structure in the Netherlands at 366.8 meters.", "The St. Nicholas Basilica houses significant tombs of the Lords of IJsselstein.", "The castle tower now functions as a museum for local history and castle models.", "During the Christmas season, over 120 LED lights glow on the Gerbrandy Tower as a light tree.", "The historic town hall was constructed between 1558 and 1568 in Renaissance style."],
     },
+    image: "/poi-images/nl-ijsselstein.webp",
   },
   { id: "nl-lochem", parent: "NL-GE", coords: [6.343658, 52.171513], name: "Lochem", theme: "nature",
     description: {
@@ -2053,6 +2127,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Lochem a primit oficial drepturile de oraș în anul 1233.", "Lochemse Berg este un rest al unei morene glaciare din perioada glaciațiunii Saale.", "Primăria istorică din Lochem a fost finalizată în anul 1640.", "Biserica Sfânta Gudula deține fresce din secolul al XV-lea în bolta corului.", "Lochem a fost faimos pentru moara sa 'Wittenstein', care a servit odinioară ca fabrică de hârtie.", "Domeniul Ampsen acoperă o suprafață de peste 700 de hectare de pădure și pajiști."],
       en: ["Lochem officially received its city rights in the year 1233.", "The Lochemse Berg is a remnant of a push moraine from the Saale glaciation.", "The historic town hall of Lochem was completed in the year 1640.", "St. Gudula Church features 15th-century frescoes in the vault of its choir.", "Lochem was famous for its 'Wittenstein' mill, which once served as a major paper factory.", "The Ampsen estate encompasses over 700 hectares of forest and meadows."],
     },
+    image: "/poi-images/nl-lochem.webp",
   },
   { id: "nl-nijkerk", parent: "NL-GE", coords: [5.478146, 52.214854], name: "Nijkerk", theme: "market",
     description: {
@@ -2079,6 +2154,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Nijkerk a primit oficial drepturile de oraș în anul 1413.", "Turnul Grote Kerk are o înălțime de 60 de metri și a fost renovat în stil rococo în 1776.", "În secolul al XVIII-lea, Nijkerk a fost centrul cultivării tutunului în Țările de Jos.", "Clădirea Callenbach este un monument industrial din perioada de glorie a tipografiilor.", "Nijkerk a fost locul a numeroase conflicte de frontieră între Gelre și Utrecht în Evul Mediu.", "Ferma-muzeu 'De Bovenstreek' prezintă viața tradițională a fermierilor din regiune."],
       en: ["Nijkerk officially received its city rights in the year 1413.", "The tower of the Grote Kerk is 60 meters high and was renovated in Rococo style in 1776.", "During the 18th century, Nijkerk was the epicenter of Dutch tobacco cultivation.", "The Callenbach building is an industrial monument from the golden age of the printing industry.", "Nijkerk was the site of numerous border conflicts between Guelders and Utrecht in the Middle Ages.", "The 'De Bovenstreek' museum farm showcases traditional rural life in the region."],
     },
+    image: "/poi-images/nl-nijkerk.webp",
   },
   { id: "nl-oldebroek", parent: "NL-GE", coords: [5.951864, 52.456736], name: "Oldebroek", theme: "nature",
     description: {
@@ -2105,6 +2181,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Oldebroek este menționat pentru prima dată în anul 1300 sub numele de 'Holdebroic'.", "Comuna găzduiește poligonul de artilerie 'Legerplaats bij Oldebroek'.", "Muzeul fermei 'De Bovenstreek' este situat într-o fermă construită în 1753.", "Biserica reformată din Oldebroek datează parțial din secolul al XV-lea.", "În trecut, pescuitul în Zuiderzee era o sursă importantă de venit pentru regiune.", "Pomicultura, în special merele și perele, joacă un rol semnificativ în Oldebroek."],
       en: ["Oldebroek was first mentioned in the year 1300 under the name 'Holdebroic'.", "The municipality is home to the 'Legerplaats bij Oldebroek' artillery firing range.", "The 'De Bovenstreek' Farm Museum is housed in a farmhouse dating from 1753.", "The Reformed Church in Oldebroek contains architectural elements from the 15th century.", "Fishery on the Zuiderzee was historically a major source of income for the region.", "Fruit cultivation, especially apples and pears, remains an important economic sector in Oldebroek."],
     },
+    image: "/poi-images/nl-oldebroek.webp",
   },
   { id: "nl-rijswijk", parent: "NL-ZH", coords: [4.322503, 52.037393], name: "Rijswijk", theme: "suburb",
     description: {
@@ -2131,6 +2208,7 @@ const settlementRows: SettlementRow[] = [
       ro: ["Semnarea Păcii de la Rijswijk a pus capăt Războiului de Nouă Ani în anul 1697.", "Monumentul 'De Naald' amintește astăzi de locul unde se afla odinioară castelul Huis ter Nieuwburg.", "Muzeul Rijswijk este găzduit într-o clădire de la sfârșitul secolului al XVIII-lea.", "Rijswijk a fost unul dintre primele orașe din Țările de Jos care a avut un tramvai tras de cai.", "Plaspoelpolder este unul dintre cele mai mari și mai vechi parcuri industriale din țară.", "Nucleul Bisericii Vechi din Rijswijk datează din secolul al XV-lea."],
       en: ["The signing of the Treaty of Ryswick ended the Nine Years' War in 1697.", "The 'De Naald' monument marks the spot where the Huis ter Nieuwburg palace once stood.", "Museum Rijswijk is located in a building dating from the late 18th century.", "Rijswijk was among the first Dutch towns to implement a horse-drawn tram system.", "The Plaspoelpolder is one of the oldest and largest business parks in the Netherlands.", "The Oude Kerk (Old Church) of Rijswijk fundamentally dates back to the 15th century."],
     },
+    image: "/poi-images/nl-rijswijk.webp",
   },
 ];
 

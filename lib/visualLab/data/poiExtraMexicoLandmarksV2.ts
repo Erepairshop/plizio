@@ -31,6 +31,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Construcția a început în 1573 la ordinul regelui Filip al II-lea.", "Finalizarea oficială a lucrărilor a avut loc în anul 1813.", "Cele două turnuri clopotniță adăpostesc un număr de 25 de clopote.", "Cupola centrală a fost proiectată de arhitectul Manuel Tolsá.", "Catedrala măsoară 110 metri în lungime și 54 metri în lățime.", "Găzduiește 'Altarul Regilor', o capodoperă a stilului churrigueresc."],
       en: ["Construction began in 1573 by order of King Philip II of Spain.", "The cathedral was officially completed and inaugurated in 1813.", "It features two bell towers containing a total of 25 bells.", "The main dome was designed by the architect Manuel Tolsá.", "The building is 110 meters long and 54 meters wide.", "It contains the Altar of the Kings, a masterpiece of Baroque art."],
     },
+    image: "/poi-images/mexico-metropolitan-cathedral-landmarks-v2.webp",
   },
   {
     id: "mexico-angel-of-independence-landmarks-v2",
@@ -62,6 +63,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Inaugurat la 16 septembrie 1910 de către președintele Porfirio Díaz.", "Înălțimea totală a monumentului este de 45 de metri.", "Statuia de bronz este acoperită cu foiță de aur de 24 de carate.", "Adăpostește un mausoleu cu rămășițele a 14 eroi naționali.", "A fost grav avariată în timpul cutremurului din anul 1957.", "Statuia cântărește aproximativ 7 tone și ține o coroană de lauri."],
       en: ["Inaugurated on September 16, 1910, by President Porfirio Díaz.", "The total height of the monument is 45 meters.", "The bronze statue is covered with 24-karat gold leaf.", "It houses a mausoleum with the remains of 14 national heroes.", "The statue fell to the ground during the 1957 earthquake.", "The statue weighs approximately 7 tons and holds a laurel wreath."],
     },
+    image: "/poi-images/mexico-angel-of-independence-landmarks-v2.webp",
   },
   {
     id: "mexico-soumaya-museum-landmarks-v2",
@@ -93,6 +95,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Clădirea din Polanco a fost inaugurată în anul 2011.", "Fațada este compusă din 16.000 de hexagoane strălucitoare din aluminiu.", "Găzduiește cea mai mare colecție de sculpturi Rodin din afara Franței.", "Muzeul este dispus pe șase etaje, ocupând 17.000 m².", "Intrarea în muzeu este permanent gratuită pentru toți vizitatorii.", "Structura acoperișului este susținută de 28 de coloane verticale de oțel."],
       en: ["The building in Polanco was opened to the public in 2011.", "The facade consists of 16,000 glittering aluminum hexagons.", "It houses the largest collection of Rodin sculptures outside of France.", "The museum spans six floors covering 17,000 square meters.", "Admission to the museum is permanently free for all visitors.", "The roof structure is supported by 28 vertical steel columns."],
     },
+    image: "/poi-images/mexico-soumaya-museum-landmarks-v2.webp",
   },
   {
     id: "mexico-guadalupe-basilica-landmarks-v2",
@@ -124,6 +127,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Atrage anual aproximativ 20 de milioane de pelerini și vizitatori.", "Noua bazilică a fost finalizată și sfințită în anul 1976.", "Are o structură circulară cu un diametru de 100 de metri.", "Poate găzdui până la 10.000 de credincioși în interior.", "Adăpostește tilma (mantia) cu imaginea Fecioarei Maria.", "Vechea bazilică a fost închisă din cauza tasării inegale a solului."],
       en: ["Attracts approximately 20 million pilgrims and visitors annually.", "The new basilica was completed and consecrated in 1976.", "It features a circular floor plan with a diameter of 100 meters.", "The interior can accommodate up to 10,000 worshippers.", "It houses the original tilma (cloak) bearing the Virgin's image.", "The Old Basilica was closed for years due to sinking into the soil."],
     },
+    image: "/poi-images/mexico-guadalupe-basilica-landmarks-v2.webp",
   },
   {
     id: "mexico-postal-palace-landmarks-v2",
@@ -155,6 +159,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["A fost inaugurat pe 17 februarie 1907 de președintele Porfirio Díaz.", "Clădirea a fost proiectată de arhitectul italian Adamo Boari.", "Scările principale sunt realizate din marmură de Carrara din Italia.", "Elementele ornamentale din fier au fost turnate în Florența.", "A supraviețuit aproape intact cutremurului devastator din 1985.", "Găzduiește un mic muzeu poștal situat la etajul al doilea."],
       en: ["Inaugurated on February 17, 1907, by President Porfirio Díaz.", "The building was designed by Italian architect Adamo Boari.", "The main staircase is made of Carrara marble from Italy.", "The intricate ironwork was manufactured in Florence, Italy.", "It survived the devastating 1985 earthquake almost undamaged.", "The second floor houses a small postal museum."],
     },
+    image: "/poi-images/mexico-postal-palace-landmarks-v2.webp",
   },
   {
     id: "mexico-temple-of-kukulcan-landmarks-v2",
@@ -186,6 +191,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["A fost construită aproximativ între anii 800 și 900 d.Hr.", "Piramida are un total de 365 de trepte, una pentru fiecare zi a anului.", "Înălțimea este de 24 de metri, plus 6 metri pentru templul superior.", "A fost aleasă în 2007 ca una dintre Noile Șapte Minuni ale Lumii.", "În interior se află o piramidă mai veche cu un tron de jad în formă de jaguar.", "Fenomenul 'șarpelui cu pene' are loc de două ori pe an."],
       en: ["Built approximately between 800 and 900 AD.", "The pyramid has a total of 365 steps, one for each day of the year.", "The height is 24 meters, plus 6 meters for the upper temple.", "Voted as one of the New Seven Wonders of the World in 2007.", "Inside, there is an older pyramid containing a red jaguar throne.", "The 'feathered serpent' shadow effect occurs twice a year."],
     },
+    image: "/poi-images/mexico-temple-of-kukulcan-landmarks-v2.webp",
   },
   {
     id: "mexico-pyramid-of-the-sun-landmarks-v2",
@@ -217,6 +223,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Baza măsoară 225 x 225 metri, fiind aproape egală cu cea a Marii Piramide.", "Înălțimea actuală a structurii este de aproximativ 65 de metri.", "A fost construită din aproximativ 1,1 milioane de metri cubi de material.", "Sub piramidă a fost descoperită o peșteră artificială sacră.", "Teotihuacán înseamnă în limba nahuatl 'locul unde oamenii devin zei'.", "Se crede că a fost dedicată zeului ploii sau unei zeițe a pământului."],
       en: ["The base measures 225 by 225 meters, similar to the Great Pyramid of Giza.", "The current height of the pyramid is approximately 65 meters.", "It consists of an estimated 1.1 million cubic meters of material.", "An artificial cave system was discovered beneath the pyramid.", "Teotihuacán means 'the place where men become gods' in Nahuatl.", "It was likely dedicated to a rain god or a fertility goddess."],
     },
+    image: "/poi-images/mexico-pyramid-of-the-sun-landmarks-v2.webp",
   },
   {
     id: "mexico-pyramid-of-the-moon-landmarks-v2",
@@ -248,6 +255,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["A atins forma finală în jurul anului 450 d.Hr.", "Înălțimea piramidei este de aproximativ 43 de metri.", "A servit ca punct central pentru ritualurile dedicate zeiței apei.", "În interior au fost descoperite morminte cu ofrande prețioase.", "Platforma sa oferă o vedere panoramică asupra întregului oraș antic.", "Structura a fost construită în șapte etape succesive de extindere."],
       en: ["The pyramid reached its final form around 450 AD.", "The height of the structure is approximately 43 meters.", "It served as a ritual center for the worship of the water goddess.", "Tombs containing valuable offerings were discovered inside.", "The platform offers a panoramic view over the entire ancient city.", "It was built in seven consecutive construction phases."],
     },
+    image: "/poi-images/mexico-pyramid-of-the-moon-landmarks-v2.webp",
   },
   {
     id: "mexico-temple-of-inscriptions-landmarks-v2",
@@ -279,6 +287,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Construcția a început în anul 675 d.Hr. sub Pakal cel Mare.", "Camera funerară a lui Pakal a fost descoperită abia în 1952.", "Sarcofagul monolit al lui Pakal cântărește aproximativ 7 tone.", "Cele trei panouri cu inscripții conțin 617 hieroglife.", "Piramida este compusă din opt niveluri terasate.", "Un canal secret de piatră leagă mormântul de templul superior."],
       en: ["Construction began in 675 AD during the reign of Pakal the Great.", "The burial chamber of Pakal was not discovered until 1952.", "Pakal's carved stone sarcophagus weighs about 7 tons.", "The three inscribed panels contain 617 hieroglyphs.", "The pyramid structure consists of eight terraced levels.", "A secret stone duct (psychoduct) connects the tomb to the temple."],
     },
+    image: "/poi-images/mexico-temple-of-inscriptions-landmarks-v2.webp",
   },
   {
     id: "mexico-baluarte-bridge-landmarks-v2",
@@ -310,6 +319,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["A fost inaugurat oficial pe data de 5 ianuarie 2012.", "Calea de rulare se află la 403 metri deasupra albiei râului.", "Lungimea totală a podului este de 1.124 de metri.", "Deschiderea principală între piloni măsoară 520 de metri.", "Dispune de un număr de 152 de cabluri de oțel de susținere.", "Face parte din autostrada Durango-Mazatlán, care are peste 60 de tuneluri."],
       en: ["Officially inaugurated on January 5, 2012.", "The bridge deck is located 403 meters above the river bed.", "The total length of the bridge is 1,124 meters.", "The central span between the main pylons is 520 meters long.", "It features 152 steel cables supporting the structure.", "Part of the Durango-Mazatlán highway, which includes over 60 tunnels."],
     },
+    image: "/poi-images/mexico-baluarte-bridge-landmarks-v2.webp",
   },
   {
     id: "mexico-expiatory-temple-guadalajara-landmarks-v2",
@@ -341,6 +351,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Piatra de temelie a fost pusă pe 15 august 1897.", "Proiectul a fost realizat de arhitectul italian Adamo Boari.", "Lucrările de construcție au fost finalizate abia în anul 1972.", "Fațada este realizată aproape în întregime din piatră cioplită manual.", "Ceasul din turn cântă 25 de melodii și are figurine mobile.", "Vitraliile au fost realizate în faimoasele ateliere Franz Mayer din Munchen."],
       en: ["The first stone was laid on August 15, 1897.", "Designed by the Italian architect Adamo Boari.", "The construction was not fully completed until 1972.", "The facade is made almost entirely of hand-carved stone.", "The clock tower plays 25 religious tunes and features moving figures.", "The stained-glass windows were made in the Franz Mayer workshop in Munich."],
     },
+    image: "/poi-images/mexico-expiatory-temple-guadalajara-landmarks-v2.webp",
   },
   {
     id: "mexico-queretaro-aqueduct-landmarks-v2",
@@ -372,6 +383,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Construit între 1726 și 1738 sub conducerea lui Juan Antonio de Urrutia.", "Structura cuprinde un număr total de 74 de arcade monumentale.", "Înălțimea maximă a arcadelor este de aproximativ 28,5 metri.", "Lungimea totală a apeductului este de 1.280 de metri.", "A fost finanțat prin donații private de către Marchizul de Villadel Villar.", "Face parte din Patrimoniul Mondial UNESCO din anul 1996."],
       en: ["Built between 1726 and 1738 under the direction of Juan Antonio de Urrutia.", "The structure consists of a total of 74 monumental arches.", "The maximum height of the arches is approximately 28.5 meters.", "The total length of the aqueduct is 1,280 meters.", "It was financed by private donations from the Marquis of Villadel Villar.", "Included in the UNESCO World Heritage list since 1996."],
     },
+    image: "/poi-images/mexico-queretaro-aqueduct-landmarks-v2.webp",
   },
   {
     id: "mexico-degollado-theater-landmarks-v2",
@@ -403,6 +415,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Piatra de temelie a fost pusă în anul 1856.", "Inaugurat oficial pe 13 septembrie 1866 cu opera 'Lucia di Lammermoor'.", "Fresca de pe tavan a fost realizată de Gerardo Suárez și Jacobo Gálvez.", "Sala în formă de potcoavă poate găzdui până la 1.015 spectatori.", "Pe frontonul fațadei se află o reprezentare a lui Apollo și a celor nouă muze.", "Este sediul permanent al Orchestrei Filarmonice din Jalisco."],
       en: ["The foundation stone was laid in 1856.", "Opened officially on September 13, 1866, with the opera 'Lucia di Lammermoor'.", "The ceiling fresco was painted by Gerardo Suárez and Jacobo Gálvez.", "The horseshoe-shaped hall can accommodate up to 1,015 spectators.", "The facade features a marble relief of Apollo and the nine Muses.", "It is the home of the Jalisco Philharmonic Orchestra."],
     },
+    image: "/poi-images/mexico-degollado-theater-landmarks-v2.webp",
   },
   {
     id: "mexico-morelia-aqueduct-landmarks-v2",
@@ -434,6 +447,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Construit între 1785 și 1789 la inițiativa episcopului Fray Antonio de San Miguel.", "Structura este compusă dintr-un total de 253 de arcade.", "Înălțimea maximă a arcadelor este de aproximativ 9,24 metri.", "Lungimea totală a apeductului este de 1.700 de metri.", "A funcționat pentru alimentarea cu apă a orașului până în anul 1910.", "A fost ridicat din piatră roz (cantera), specifică regiunii Michoacán."],
       en: ["Built between 1785 and 1789 at the initiative of Bishop Fray Antonio de San Miguel.", "The structure consists of a total of 253 arches.", "The highest point of the aqueduct reaches approximately 9.24 meters.", "The total length of the monument is 1,700 meters.", "It served as the city's main water supply system until 1910.", "Constructed using the characteristic pink stone (cantera) of the region."],
     },
+    image: "/poi-images/mexico-morelia-aqueduct-landmarks-v2.webp",
   },
   {
     id: "mexico-guanajuato-mummies-museum-landmarks-v2",
@@ -465,6 +479,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Colecția cuprinde peste 100 de corpuri mumificate.", "Prima mumie, Remigio Leroy, a fost exhumată în anul 1865.", "Este un proces de mumificare naturală, fără nicio îmbălsămare artificială.", "Corpurile datează din perioada cuprinsă între anii 1850 și 1950.", "Muzeul a fost inaugurat în forma sa actuală în anul 1970.", "Găzduiește cea mai mică mumie din lume, un fetus."],
       en: ["The collection includes over 100 mummified bodies.", "The first mummy, Remigio Leroy, was exhumed in 1865.", "The mummification is entirely natural, without artificial embalming.", "The bodies date from between the years 1850 and 1950.", "The museum was officially established in its current form in 1970.", "It contains the world's smallest mummy, a fetus."],
     },
+    image: "/poi-images/mexico-guanajuato-mummies-museum-landmarks-v2.webp",
   },
   {
     id: "mexico-juarez-theater-landmarks-v2",
@@ -496,6 +511,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Inaugurat la 27 octombrie 1903 de președintele Porfirio Díaz.", "Proiectat de arhitecții José Noriega și Antonio Rivas Mercado.", "Interiorul este decorat în stil maur, cu detalii aurite.", "Fațada prezintă 12 coloane monumentale în stil doric.", "Clădirea a servit inițial ca loc pentru spectacole de operă.", "Statuile muzelor au fost turnate în bronz la Paris."],
       en: ["Inaugurated on October 27, 1903, by President Porfirio Díaz.", "Designed by architects José Noriega and Antonio Rivas Mercado.", "The interior is decorated in Moorish style with gilded details.", "The facade features 12 monumental columns in Doric style.", "The building originally served as a venue for opera performances.", "The bronze statues of the muses were cast in Paris."],
     },
+    image: "/poi-images/mexico-juarez-theater-landmarks-v2.webp",
   },
   {
     id: "mexico-alhondiga-granaditas-landmarks-v2",
@@ -527,6 +543,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Construcția a început sub intendentul spaniol Juan Antonio de Riaño.", "La 28 septembrie 1810 a avut loc aici primul atac al insurgenților.", "Minerul El Pípila a dat foc porții de lemn a clădirii.", "Capetele lui Hidalgo și Allende au fost expuse aici între 1811 și 1821.", "Clădirea a servit periodic drept închisoare în secolul al XIX-lea.", "A fost inaugurată ca muzeu regional în anul 1958."],
       en: ["Construction began under the Spanish intendant Juan Antonio de Riaño.", "On September 28, 1810, the first insurgent attack took place here.", "The miner El Pipila burned down the wooden gate of the building.", "The heads of Hidalgo and Allende were hung here from 1811 to 1821.", "The building served as a prison for a time during the 19th century.", "It was opened as a regional museum of Guanajuato in 1958."],
     },
+    image: "/poi-images/mexico-alhondiga-granaditas-landmarks-v2.webp",
   },
   {
     id: "mexico-pipila-monument-landmarks-v2",
@@ -558,6 +575,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Monumentul a fost creat de sculptorul Juan Fernando Olaguíbel.", "A fost construit din piatră roz caracteristică (cantera rosa).", "Juan José de los Reyes Martínez purta porecla de 'El Pípila'.", "Statuia are 26 de metri înălțime și stă pe un piedestal masiv.", "Există un acces în spatele statuii către un punct de observație superior.", "Monumentul a fost inaugurat la 16 septembrie 1939."],
       en: ["The monument was created by sculptor Juan Fernando Olaguíbel.", "It was built from characteristic pink limestone (cantera rosa).", "Juan José de los Reyes Martínez was nicknamed 'El Pipila'.", "The statue is 26 meters high and stands on a massive pedestal.", "There is an entrance at the back to access the viewpoint at the top.", "The monument was inaugurated on September 16, 1939."],
     },
+    image: "/poi-images/mexico-pipila-monument-landmarks-v2.webp",
   },
   {
     id: "mexico-guadalajara-cathedral-landmarks-v2",
@@ -589,6 +607,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Construcția a început în 1561 la ordinul regelui Filip al II-lea al Spaniei.", "Turnurile actuale au fost proiectate în 1854 de arhitectul Manuel Gómez Ibarra.", "Catedrala adăpostește moaștele Sfintei Inocencia.", "În criptă se află rămășițele pământești ale numeroșilor episcopi.", "Clădirea are unsprezece altare realizate din argint și aur.", "Cea mai mare orgă din Mexic (de fabricație franceză) se află aici."],
       en: ["Construction began in 1561 by order of King Philip II of Spain.", "The current towers were designed in 1854 by architect Manuel Gómez Ibarra.", "The cathedral houses the relics of Saint Inocencia.", "The remains of numerous bishops rest in the crypt.", "The building features eleven silver and gold altars.", "The largest organ in Mexico (French-made) is located here."],
     },
+    image: "/poi-images/mexico-guadalajara-cathedral-landmarks-v2.webp",
   },
   {
     id: "mexico-morelia-cathedral-landmarks-v2",
@@ -620,6 +639,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Clădirea a fost proiectată de arhitectul italian Vicencio Barroso.", "Turnurile ating o înălțime precisă de 66,8 metri.", "Orga monumentală are 4.600 de tuburi fabricate în Germania.", "O cristelniță de argint din secolul al XVIII-lea se află în interior.", "Sâmbăta are loc un spectacol de lumini și sunet la catedrală.", "Construcția a durat în total 84 de ani până la finalizare."],
       en: ["The building was designed by the Italian architect Vicencio Barroso.", "The towers reach a precise height of 66.8 meters.", "The monumental organ has 4,600 pipes imported from Germany.", "An 18th-century silver baptismal font is located inside.", "A light and sound show takes place at the cathedral every Saturday.", "Construction took a total of 84 years to complete."],
     },
+    image: "/poi-images/mexico-morelia-cathedral-landmarks-v2.webp",
   },
   {
     id: "mexico-chihuahua-cathedral-landmarks-v2",
@@ -651,6 +671,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Piatra de temelie a fost pusă la 21 iunie 1725.", "Fațada prezintă sculpturi ale celor doisprezece apostoli.", "Turnurile au o înălțime de aproximativ 40 de metri.", "Naosul monumental găzduiește o orgă din anul 1796.", "Construcția a fost finanțată în principal din taxe pe minele de argint.", "Catedrala a fost ridicată la rangul de sediu episcopal abia în 1891."],
       en: ["The foundation stone was laid on June 21, 1725.", "The facade features sculptures of the twelve apostles.", "The towers have a height of approximately 40 meters.", "The monumental nave houses an organ dating back to 1796.", "Construction was largely funded by taxes on silver mines.", "The cathedral was elevated to a bishop's seat only in 1891."],
     },
+    image: "/poi-images/mexico-chihuahua-cathedral-landmarks-v2.webp",
   },
   {
     id: "mexico-merida-cathedral-landmarks-v2",
@@ -682,6 +703,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["În catedrală se află 'Cristo de la Unidad', un crucifix înalt de 8 metri.", "A fost sfințită solemn la 26 ianuarie 1598.", "Fațada prezintă stema regelui Filip al II-lea al Spaniei.", "Relicva 'Cristo de las Ampollas' este venerată aici.", "Biserica are două turnuri asimetrice în stil renascentist.", "În secolul al XVI-lea, a servit și ca adăpost împotriva atacurilor."],
       en: ["Inside the cathedral is the 'Cristo de la Unidad', an 8-meter-tall crucifix.", "It was solemnly consecrated on January 26, 1598.", "The facade features the coat of arms of King Philip II of Spain.", "The relic of 'Cristo de las Ampollas' (Christ of the Blisters) is venerated here.", "The church has two asymmetrical Renaissance-style towers.", "In the 16th century, it also served as a refuge against attacks."],
     },
+    image: "/poi-images/mexico-merida-cathedral-landmarks-v2.webp",
   },
   {
     id: "mexico-great-pyramid-cholula-landmarks-v2",
@@ -713,6 +735,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Volumul total este estimat la 4,45 milioane de metri cubi.", "Este de aproximativ patru ori mai mare decât piramida lui Keops din Egipt.", "Piramida a fost dedicată zeului Quetzalcoatl.", "Peste 8 kilometri de tuneluri au fost săpați pentru studii arheologice.", "Biserica de pe vârf a fost construită în anul 1594.", "Fazele de construcție au început în secolul III î.Hr. și au durat până în 900 d.Hr."],
       en: ["The total volume is estimated at 4.45 million cubic meters.", "It is approximately four times larger than the Great Pyramid of Giza.", "The pyramid was dedicated to the god Quetzalcoatl.", "Over 8 kilometers of tunnels have been excavated for archaeological study.", "The church on top was constructed in 1594.", "Construction phases began in the 3rd century BC and lasted until 900 AD."],
     },
+    image: "/poi-images/mexico-great-pyramid-cholula-landmarks-v2.webp",
   },
   {
     id: "mexico-frida-kahlo-museum-landmarks-v2",
@@ -744,6 +767,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Frida Kahlo s-a născut în această casă în 1907 și a murit acolo în 1954.", "Clădirea a fost construită inițial în anul 1904.", "Diego Rivera a donat casa și conținutul acesteia poporului mexican.", "Cenușa Fridei Kahlo se află într-o urnă pe patul ei.", "Muzeul expune lucrări celebre precum 'Viva la Vida'.", "Pereții de culoarea albastru cobalt au fost proiectați de Frida și Diego."],
       en: ["Frida Kahlo was born in this house in 1907 and died there in 1954.", "The building was originally constructed in 1904.", "Diego Rivera donated the house and its contents to the Mexican people.", "Frida Kahlo's ashes rest in an urn placed on her bed.", "The museum displays famous works such as 'Viva la Vida'.", "The cobalt blue walls were designed by Frida and Diego."],
     },
+    image: "/poi-images/mexico-frida-kahlo-museum-landmarks-v2.webp",
   },
   {
     id: "mexico-torre-latinoamericana-landmarks-v2",
@@ -775,6 +799,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Clădirea are 44 de etaje și trei niveluri subterane.", "A fost proiectată de arhitectul Augusto H. Álvarez.", "Construcția se sprijină pe 361 de piloni de beton adânci de 34 de metri.", "A supraviețuit cutremurului major din 1985 fără daune structurale.", "Clădirea găzduiește un muzeu dedicat istoriei orașului.", "A fost primul zgârie-nori din lume cu fațadă integrală din sticlă și aluminiu."],
       en: ["The building has 44 floors and three basement levels.", "It was designed by the architect Augusto H. Álvarez.", "The structure rests on 361 concrete piles driven 34 meters deep.", "It survived the severe 1985 earthquake without any structural damage.", "The building houses a museum dedicated to the city's history.", "It was the first skyscraper in the world with a glass and aluminum facade."],
     },
+    image: "/poi-images/mexico-torre-latinoamericana-landmarks-v2.webp",
   },
   {
     id: "mexico-house-of-tiles-landmarks-v2",
@@ -806,6 +831,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Clădirea a fost decorată cu plăcile caracteristice în anul 1737.", "În casa scării se află pictura murală 'Omniscience' de José Clemente Orozco.", "A fost declarată monument național al Mexicului în 1931.", "Interiorul prezintă o curte interioară acoperită spectaculoasă.", "Lanțul Sanborns a preluat clădirea în anul 1917.", "Plăcile de ceramică simbolizau bogăția imensă a familiei proprietare."],
       en: ["The building was decorated with its characteristic tiles in 1737.", "The mural 'Omniscience' by José Clemente Orozco is located in the stairwell.", "It was declared a National Monument of Mexico in 1931.", "The interior features a spectacular covered courtyard.", "The Sanborns chain took over the building in 1917.", "The tiles symbolized the immense wealth of the owning family."],
     },
+    image: "/poi-images/mexico-house-of-tiles-landmarks-v2.webp",
   },
   {
     id: "mexico-templo-mayor-landmarks-v2",
@@ -837,6 +863,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Construcția a început în jurul anului 1325 și a avut șapte faze de extindere.", "Descoperirea pietrei Coyolxauhqui în 1978 a declanșat excavațiile.", "Pe vârf se aflau două sanctuare separate pentru război și ploaie.", "Peste 7.000 de ofrande rituale au fost găsite în sit.", "Piramida atingea inițial o înălțime de aproximativ 45-60 de metri.", "Situl face parte din Patrimoniul Mondial UNESCO din 1987."],
       en: ["Construction began around 1325 and was expanded in seven phases.", "The discovery of the Coyolxauhqui stone in 1978 triggered the excavations.", "Two separate shrines for war and rain stood at the top.", "Over 7,000 ritual offerings have been found at the site.", "The pyramid originally reached a height of about 45-60 meters.", "The site has been a UNESCO World Heritage site since 1987."],
     },
+    image: "/poi-images/mexico-templo-mayor-landmarks-v2.webp",
   },
   {
     id: "mexico-san-antonio-padua-convent-landmarks-v2",
@@ -868,6 +895,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Mănăstirea a fost construită între anii 1549 și 1561.", "A fost ridicată pe piramida Maya numită Pap-Hol-Chac.", "Atriumul are 75 de arcade pe o suprafață de 7.806 metri pătrați.", "Papa Ioan Paul al II-lea a vizitat mănăstirea în anul 1993.", "Adăpostește statuia 'Fecioarei din Izamal', patroana Yucatánului.", "Arhitectul a fost fratele franciscan Juan de Mérida."],
       en: ["The convent was built between 1549 and 1561.", "It was constructed on top of the Maya pyramid Pap-Hol-Chac.", "The atrium features 75 arcades covering an area of 7,806 square meters.", "Pope John Paul II visited the convent in 1993.", "It houses the statue of the 'Virgin of Izamal', the patron saint of Yucatan.", "The architect was the Franciscan friar Juan de Mérida."],
     },
+    image: "/poi-images/mexico-san-antonio-padua-convent-landmarks-v2.webp",
   },
   {
     id: "mexico-padre-tembleque-aqueduct-landmarks-v2",
@@ -899,6 +927,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Construcția a durat 17 ani, din 1553 până în 1570.", "A fost inițiat de călugărul franciscan Francisco de Tembleque.", "Cel mai înalt arc atinge o înălțime impresionantă de 38,75 metri.", "Întregul sistem se întinde pe o lungime de 48,39 kilometri.", "A fost inclus în lista Patrimoniului Mondial UNESCO în 2015.", "Pentru mortar s-a folosit un amestec de var și sevă de cactus."],
       en: ["Construction took 17 years, from 1553 to 1570.", "It was initiated by the Franciscan friar Francisco de Tembleque.", "The highest arch reaches an impressive height of 38.75 meters.", "The entire system stretches over a length of 48.39 kilometers.", "It was added to the UNESCO World Heritage list in 2015.", "A mixture of lime and cactus sap was used for the mortar."],
     },
+    image: "/poi-images/mexico-padre-tembleque-aqueduct-landmarks-v2.webp",
   },
   {
     id: "mexico-santa-prisca-church-landmarks-v2",
@@ -930,6 +959,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Construcția a fost finalizată în doar șapte ani (1751–1758).", "Turnurile au o înălțime impresionantă de aproximativ 95 de metri.", "José de la Borda a spus: 'Dumnezeu îi dă lui de la Borda, de la Borda îi dă lui Dumnezeu'.", "Biserica a fost proiectată de arhitecții Diego Durán și Juan Caballero.", "Altarele au fost create de artistul Isidoro de la Borda.", "Este considerată unul dintre cele mai bine conservate exemple de artă churriguerescă."],
       en: ["Construction was completed in just seven years (1751–1758).", "The towers have an impressive height of approximately 95 meters.", "José de la Borda famously said: 'God gives to de la Borda, de la Borda gives to God'.", "The church was designed by architects Diego Durán and Juan Caballero.", "The altarpieces were created by the artist Isidoro de la Borda.", "It is considered one of the best-preserved examples of Churrigueresque art in Mexico."],
     },
+    image: "/poi-images/mexico-santa-prisca-church-landmarks-v2.webp",
   },
   {
     id: "mexico-tijuana-arch-landmarks-v2",
@@ -961,6 +991,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Inaugurat la 11 iulie 2000", "Înălțimea totală este de aproximativ 60 de metri", "Proiectat de arhitectul Raymundo Parra", "Costurile de construcție au fost de 1,3 milioane de dolari", "Situat în centrul istoric al orașului Tijuana", "Servește ca simbol pentru turismul de la frontieră"],
       en: ["Inaugurated on July 11, 2000", "Total height is approximately 60 meters", "Designed by architect Raymundo Parra", "Construction costs reached 1.3 million dollars", "Located in the historic center of Tijuana", "Serves as a symbol for tourism at the border"],
     },
+    image: "/poi-images/mexico-tijuana-arch-landmarks-v2.webp",
   },
   {
     id: "mexico-matute-remus-bridge-landmarks-v2",
@@ -992,6 +1023,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Deschis în ianuarie 2011", "Lungimea totală a structurii este de 930 de metri", "Secțiunea suspendată măsoară 165 de metri", "Investiție de construcție de circa 555 milioane pesos", "Numit după inginerul Jorge Matute Remus", "Parte dintr-un sistem de trafic inovator în Jalisco"],
       en: ["Opened in January 2011", "Total length of the structure is 930 meters", "The suspended section measures 165 meters", "Construction investment of about 555 million pesos", "Named after engineer Jorge Matute Remus", "Part of an innovative traffic system in Jalisco"],
     },
+    image: "/poi-images/mexico-matute-remus-bridge-landmarks-v2.webp",
   },
   {
     id: "mexico-uxmal-governors-palace-landmarks-v2",
@@ -1023,6 +1055,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Construit în jurul secolului al X-lea d.Hr.", "Fațada are o lungime de aproape 100 de metri", "Format din trei clădiri principale pe o platformă", "Conține peste 20.000 de pietre sculptate individual", "Aliniat cu orbita planetei Venus la orizont", "Parte din Patrimoniul Mondial UNESCO din 1996"],
       en: ["Built around the 10th century AD", "The facade is nearly 100 meters long", "Consists of three main buildings on one platform", "Contains over 20,000 individually carved stones", "Aligned with the orbit of Venus on the horizon", "Part of the UNESCO World Heritage since 1996"],
     },
+    image: "/poi-images/mexico-uxmal-governors-palace-landmarks-v2.webp",
   },
   {
     id: "mexico-uxmal-magician-house-landmarks-v2",
@@ -1054,6 +1087,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Piramida are o înălțime de aproximativ 35 metri", "Dispune de două scări foarte abrupte", "Scara vestică are o înclinație de 60 de grade", "A patra fază de construcție include o fațadă Chenes", "Construită între secolele al VI-lea și al X-lea", "Ultima clădire este Templul V din vârf"],
       en: ["The pyramid is approximately 35 meters tall", "Features two steep staircases for ascent", "The western staircase has a 60-degree incline", "The fourth construction phase features a Chenes facade", "Built between the 6th and 10th centuries", "The topmost structure is Temple V"],
     },
+    image: "/poi-images/mexico-uxmal-magician-house-landmarks-v2.webp",
   },
   {
     id: "mexico-calakmul-great-pyramid-landmarks-v2",
@@ -1085,6 +1119,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Piramida atinge o înălțime de 45 de metri", "Baza măsoară aproximativ 140 pe 140 de metri", "Capitala regatului Kaan (Cap de Șarpe)", "Au fost găsite 9 stele la baza structurii", "Conține camere funerare ale unor conducători mayași", "Patrimoniu Mondial UNESCO din 2002"],
       en: ["The pyramid reaches a height of 45 meters", "The base measures about 140 by 140 meters", "Capital city of the Kaan (Snake Head) kingdom", "9 stelae were found at the base of the structure", "Contains burial chambers of important Maya rulers", "UNESCO World Heritage site since 2002"],
     },
+    image: "/poi-images/mexico-calakmul-great-pyramid-landmarks-v2.webp",
   },
   {
     id: "mexico-kohunlich-masks-temple-landmarks-v2",
@@ -1116,6 +1151,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Construit în jurul anului 500 d.Hr.", "Inițial existau opt măști de mari dimensiuni", "Astăzi, cinci măști sunt încă bine conservate", "Măștile au o înălțime de aproximativ 2 metri fiecare", "Redescoperit în 1912 de către Raymond Merwin", "Săpăturile principale au început în anul 1968"],
       en: ["Built around the year 500 AD", "Originally, there were eight large masks", "Today, five masks remain well-preserved", "The masks are each about 2 meters tall", "Rediscovered in 1912 by Raymond Merwin", "Major excavations began in the year 1968"],
     },
+    image: "/poi-images/mexico-kohunlich-masks-temple-landmarks-v2.webp",
   },
   {
     id: "mexico-san-diego-fort-landmarks-v2",
@@ -1147,6 +1183,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Prima construcție a avut loc între 1615 și 1617", "Planul are forma unei stele cu cinci colțuri", "Distrus de un cutremur în anul 1776", "Reconstrucția a fost finalizată în anul 1783", "Muzeul Istoric s-a deschis în anul 1986", "Post important pentru Galeonul de Manila"],
       en: ["First construction occurred between 1615 and 1617", "The layout has the shape of a pentagonal star", "Destroyed by an earthquake in the year 1776", "Reconstruction was completed in the year 1783", "The Historical Museum opened in 1986", "Key post for the Manila Galleon trade route"],
     },
+    image: "/poi-images/mexico-san-diego-fort-landmarks-v2.webp",
   },
   {
     id: "mexico-monterrey-cathedral-landmarks-v2",
@@ -1178,6 +1215,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Construcția a început oficial în anul 1705", "Catedrala a fost sfințită abia în anul 1891", "Fațada prezintă elemente baroce tipice", "Dispune de un clopot turnat în anul 1791", "Situată lângă moderna piață Macroplaza", "Sediul Arhidiecezei Romano-Catolice"],
       en: ["Construction officially began in the year 1705", "The cathedral was not consecrated until 1891", "The facade shows typical Baroque elements", "Features a bell dating back to the year 1791", "Located next to the modern Macroplaza", "Seat of the Roman Catholic Archdiocese"],
     },
+    image: "/poi-images/mexico-monterrey-cathedral-landmarks-v2.webp",
   },
   {
     id: "mexico-san-luis-potosi-cathedral-landmarks-v2",
@@ -1209,6 +1247,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Construită între anii 1670 și 1730", "Fațada barocă este realizată din piatră roz", "Turnurile au fost finalizate abia în anul 1894", "Găzduiește 12 statui de apostoli din Italia", "Proiectată de arhitectul Nicolás Sánchez", "Ridicată la rangul de catedrală în anul 1854"],
       en: ["Built between 1670 and 1730", "The Baroque facade is made of pink stone", "The towers were only completed in the year 1894", "Houses 12 apostle statues brought from Italy", "Designed by the architect Nicolás Sánchez", "Elevated to cathedral status in the year 1854"],
     },
+    image: "/poi-images/mexico-san-luis-potosi-cathedral-landmarks-v2.webp",
   },
   {
     id: "mexico-mazatlan-cathedral-landmarks-v2",
@@ -1240,6 +1279,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Piatra de temelie a fost pusă în 1856", "Lucrările de construcție s-au încheiat în 1899", "Deține 14 altare superbe din marmură", "Orga a fost construită la Paris, în Franța", "Două turnuri se ridică la 28 de metri înălțime", "Are un candelabru de cristal magnific în interior"],
       en: ["The first stone was laid in 1856", "Construction work ended in the year 1899", "Features 14 beautiful marble altars", "The organ was built in Paris, France", "Two towers rise 28 meters into the air", "Possesses a magnificent crystal chandelier"],
     },
+    image: "/poi-images/mexico-mazatlan-cathedral-landmarks-v2.webp",
   },
   {
     id: "mexico-hermosillo-cathedral-landmarks-v2",
@@ -1271,6 +1311,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Construcția structurii actuale a început în 1877", "Finalizarea a avut loc în anul 1908", "Cupola principală are circa 30 de metri înălțime", "Găzduiește clopote aduse din Statele Unite", "Centrul vieții catolice din statul Sonora", "Dispune de vitralii impresionante în interior"],
       en: ["Construction of the current structure began in 1877", "Completion took place in the year 1908", "The main dome is approximately 30 meters high", "Houses bells imported from the United States", "Center of Catholic life in the state of Sonora", "Features impressive stained glass windows"],
     },
+    image: "/poi-images/mexico-hermosillo-cathedral-landmarks-v2.webp",
   },
   {
     id: "mexico-culiacan-cathedral-landmarks-v2",
@@ -1302,6 +1343,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Lucrările de construcție au durat din 1842 până în 1885", "Proiectată de arhitectul Juan Jacobo de la Torre", "Turnurile au vârfuri din fier forjat", "Fațada prezintă o statuie a Fecioarei Rozariului", "Materialul principal este piatra roz de carieră", "Interiorul este amenajat în stil neoclasic"],
       en: ["Construction lasted from 1842 to 1885", "Designed by the architect Juan Jacobo de la Torre", "The towers feature wrought iron spires", "The facade displays a statue of the Virgin Mary", "The primary building material is pink stone", "The interior is designed in the Neoclassical style"],
     },
+    image: "/poi-images/mexico-culiacan-cathedral-landmarks-v2.webp",
   },
   {
     id: "mexico-saltillo-cathedral-landmarks-v2",
@@ -1333,6 +1375,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Construcția a început în 1745 și s-a încheiat în 1800", "Turnul clopotniță are o înălțime de 81 de metri", "Unul dintre cele mai înalte turnuri de biserică din Mexic", "Dispune de 12 clopote acordate armonios", "Patronul principal este Apostolul Santiago", "Fațada prezintă lucrări fine de sculptură în piatră"],
       en: ["Construction began in 1745 and ended in 1800", "The bell tower is 81 meters high", "One of the tallest church towers in Mexico", "Features 12 harmoniously tuned bells", "The main patron is the Apostle Saint James", "The facade shows fine stone carving work"],
     },
+    image: "/poi-images/mexico-saltillo-cathedral-landmarks-v2.webp",
   },
   {
     id: "mexico-la-paz-cathedral-landmarks-v2",
@@ -1364,6 +1407,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Construită între anii 1861 și 1865", "Situată pe locul misiunii din anul 1720", "Turnurile au vârfuri în formă de piramidă", "Găzduiește altare în stil neogotic", "Sediul Diecezei de La Paz", "Cel mai important centru religios din Baja California Sur"],
       en: ["Built between 1861 and 1865", "Stands on the site of the 1720 mission", "The towers have pyramid-shaped spires", "Houses altars in the Neo-Gothic style", "Seat of the Diocese of La Paz", "Most important religious center in Baja California Sur"],
     },
+    image: "/poi-images/mexico-la-paz-cathedral-landmarks-v2.webp",
   },
   {
     id: "mexico-puebla-cathedral-landmarks-v2",
@@ -1395,6 +1439,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Construcția a început în anul 1575", "Sfințirea a avut loc în anul 1649", "Turnurile ating o înălțime de 73 de metri", "Proiectată de arhitectul Francisco Becerra", "Găzduiește monumentalul Altar al Regilor", "Patrimoniu Mondial UNESCO din anul 1987"],
       en: ["Construction began in the year 1575", "Consecration took place in the year 1649", "The towers reach a height of 73 meters", "Designed by the architect Francisco Becerra", "Houses the monumental Altar of the Kings", "UNESCO World Heritage site since the year 1987"],
     },
+    image: "/poi-images/mexico-puebla-cathedral-landmarks-v2.webp",
   },
   {
     id: "mexico-monument-to-the-homeland-landmarks-v2",
@@ -1426,6 +1471,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Construcția monumentului a durat în total 11 ani până la inaugurarea sa în 1956.", "Este singurul monument din lume care prezintă istoria unei națiuni sculptată integral în piatră.", "Sculptorul Rómulo Rozo a trăit și a lucrat în Mérida până la moartea sa.", "Structura include simboluri ale culturii Maya și reprezentări ale întemeierii Tenochtitlanului.", "Se află situat la capătul nordic al prestigiosului bulevard Paseo de Montejo.", "Designul semicircular servește ca punct central pentru diverse evenimente culturale."],
       en: ["Construction of the monument took a total of 11 years until its completion in 1956.", "It is the only monument in the world that shows the history of a country carved in stone.", "Sculptor Romulo Rozo lived and worked in Merida until his death.", "The structure contains symbols of Maya culture and depictions of the founding of Tenochtitlan.", "It is located at the northern end of the magnificent Paseo de Montejo avenue.", "The semi-circular design serves as a central point for major cultural events."],
     },
+    image: "/poi-images/mexico-monument-to-the-homeland-landmarks-v2.webp",
   },
   {
     id: "mexico-oaxaca-cathedral-landmarks-v2",
@@ -1457,6 +1503,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Catedrala actuală a fost ridicată între anii 1702 și 1733 după mai multe seisme.", "Fațada prezintă sculpturi complexe realizate din piatră 'cantera' verde locală.", "În interiorul bisericii se află o colecție importantă de picturi din epoca colonială.", "Turnurile cu clopot au fost reconstruite în secolul al XIX-lea după un cutremur major.", "Portalul principal prezintă o reprezentare a Adormirii Maicii Domnului.", "Catedrala face parte din Centrul Istoric din Oaxaca, inclus în patrimoniul UNESCO."],
       en: ["The current cathedral was built between 1702 and 1733 following several earthquakes.", "The facade features intricate carvings made from local green 'cantera' stone.", "Inside the church is a significant collection of paintings from the colonial period.", "The bell towers were reconstructed in the 19th century after a major quake.", "The main portal features a depiction of the Assumption of the Virgin Mary.", "The cathedral is part of the UNESCO World Heritage Site of Oaxaca's historic center."],
     },
+    image: "/poi-images/mexico-oaxaca-cathedral-landmarks-v2.webp",
   },
   {
     id: "mexico-santo-domingo-church-oaxaca-landmarks-v2",
@@ -1488,6 +1535,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Complexul include o fostă mănăstire care găzduiește astăzi Muzeul Culturilor din Oaxaca.", "Capela Rozariului din interior este considerată una dintre cele mai frumoase lucrări baroce.", "Arborele genealogic al Sfântului Dominic este reprezentat pe tavanul de la intrare.", "Biserica a servit drept cazarmă militară în timpul Războiului de Reformă din secolul XIX.", "Peste 60.000 de foițe de aur de 24 de carate au fost folosite pentru decorațiuni.", "Grădina botanică a mănăstirii prezintă exclusiv plante native din statul Oaxaca."],
       en: ["The complex includes a former convent that now houses the Museum of Cultures of Oaxaca.", "The Rosary Chapel inside is considered one of the finest Baroque works in Mexico.", "The family tree of Saint Dominic is depicted on the ceiling of the church entrance.", "The church served as a military barracks during the 19th-century Reform War.", "Over 60,000 sheets of 24-karat gold leaf were used for the interior decorations.", "The convent's botanical garden features plants exclusively native to the state of Oaxaca."],
     },
+    image: "/poi-images/mexico-santo-domingo-church-oaxaca-landmarks-v2.webp",
   },
   {
     id: "mexico-colima-cathedral-landmarks-v2",
@@ -1519,6 +1567,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Papa Ioan Paul al II-lea a acordat catedralei titlul de Basilica Minor în anul 1998.", "Clădirea a suferit daune semnificative în timpul cutremurelor din 1941 și 2003.", "Fațada se remarcă prin cele două turnuri distinctive și o cupolă centrală.", "În interior se află un altar realizat din marmură de Carrara importată din Italia.", "Prima capelă pe acest amplasament a fost construită încă din anul 1525.", "Catedrala adăpostește o statuie venerată a Fecioarei de Guadalupe."],
       en: ["Pope John Paul II granted the cathedral the title of Basilica Minor in 1998.", "The building suffered significant damage during the 1941 and 2003 earthquakes.", "The facade is characterized by two distinctive towers and a central dome.", "The interior features an altar made of Carrara marble imported from Italy.", "The first chapel on this site was established as early as 1525.", "The cathedral houses a revered statue of the Virgin of Guadalupe."],
     },
+    image: "/poi-images/mexico-colima-cathedral-landmarks-v2.webp",
   },
   {
     id: "mexico-queretaro-convent-landmarks-v2",
@@ -1550,6 +1599,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["În grădină cresc copaci cu spini în formă de cruce, fenomen considerat un miracol.", "Mănăstirea a fost punctul terminus al primului apeduct din Querétaro, finalizat în 1738.", "Împăratul Maximilian I al Mexicului a fost încarcerat aici înainte de execuția sa în 1867.", "Biserica adăpostește o replică a crucii care ar fi apărut în timpul bătăliei din 1531.", "A fost primul colegiu de misionari din America (Propaganda Fide).", "Clădirea a servit și ca închisoare militară în timpul Revoluției Mexicane."],
       en: ["Trees with cross-shaped thorns grow in the garden, which is considered a miracle.", "The convent was the terminus of Queretaro's first aqueduct, completed in 1738.", "Emperor Maximilian I of Mexico was imprisoned here before his execution in 1867.", "The church houses a replica of the cross that reportedly appeared during the 1531 battle.", "It was the first missionary training college in the Americas (Propaganda Fide).", "The building also served as a military prison during the Mexican Revolution."],
     },
+    image: "/poi-images/mexico-queretaro-convent-landmarks-v2.webp",
   },
   {
     id: "mexico-toluca-cosmovitral-landmarks-v2",
@@ -1581,6 +1631,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Proiectul a fost conceput de artistul mexican Leopoldo Flores.", "Instalația este compusă din aproximativ 500.000 de piese individuale de sticlă în 28 de culori.", "Motivul central 'Omul Soare' (Hombre Sol) a devenit emblema orașului Toluca.", "Grădina botanică găzduiește peste 400 de specii de plante din întreaga lume.", "Clădirea a fost construită inițial în 1910 ca piață pentru centenarul independenței.", "Finalizarea vitraliilor a durat trei ani, între 1978 și 1980."],
       en: ["The project was designed by the Mexican artist Leopoldo Flores.", "The installation consists of approximately 500,000 individual glass pieces in 28 colors.", "The central motif 'The Sun Man' (Hombre Sol) has become the symbol of Toluca.", "The botanical garden houses over 400 species of plants from all over the world.", "The building was originally constructed in 1910 as a market for the independence centennial.", "The completion of the stained glass took three years, from 1978 to 1980."],
     },
+    image: "/poi-images/mexico-toluca-cosmovitral-landmarks-v2.webp",
   },
   {
     id: "mexico-tequila-express-landmarks-v2",
@@ -1612,6 +1663,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Tequila Express a fost lansat în 1997 pentru a promova turismul în statul Jalisco.", "Traseul trece prin regiunea protejată de UNESCO ca peisaj cultural al agavelor.", "Destinația călătoriei este adesea Hacienda San José del Refugio din Amatitán.", "La bordul trenului, grupuri tradiționale de mariachi susțin spectacole live.", "Tequila a fost prima denumire de origine protejată din Mexic, în 1974.", "Stația utilizează porțiuni din rețeaua feroviară istorică a Ferrocarriles Nacionales."],
       en: ["The Tequila Express was launched in 1997 to promote tourism in Jalisco.", "The route passes through the region protected by UNESCO as an agave landscape.", "The journey's destination is often the Hacienda San Jose del Refugio in Amatitan.", "Traditional mariachi groups perform live music on board the train.", "Tequila was the first Mexican denomination of origin to be protected, in 1974.", "The station uses parts of the historical Ferrocarriles Nacionales rail network."],
     },
+    image: "/poi-images/mexico-tequila-express-landmarks-v2.webp",
   },
   {
     id: "mexico-zacatecas-cable-car-landmarks-v2",
@@ -1643,6 +1695,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Telecabina a fost prima de acest fel din Mexic la inaugurarea sa în 1979.", "Traseul are o lungime de aproximativ 650 de metri deasupra centrului orașului.", "Cabinele se deplasează la o înălțime maximă de 85 de metri față de sol.", "Sistemul a fost complet modernizat în 2018 și dotat cu cabine noi.", "Una dintre cabine are podea de sticlă pentru o vedere directă spre adâncime.", "Călătoria durează aproximativ șapte-opt minute, în funcție de condițiile de vânt."],
       en: ["The cable car was the first of its kind in Mexico when it opened in 1979.", "The route spans approximately 650 meters across the historic city center.", "The cabins reach a maximum height of 85 meters above the ground.", "In 2018, the system was completely modernized and equipped with new cabins.", "One of the cabins features a glass floor for a direct view downwards.", "The journey takes about seven to eight minutes depending on wind conditions."],
     },
+    image: "/poi-images/mexico-zacatecas-cable-car-landmarks-v2.webp",
   },
   {
     id: "mexico-tampico-customs-building-landmarks-v2",
@@ -1674,6 +1727,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Clădirea a fost inaugurată în anul 1902 din ordinul președintelui Porfirio Díaz.", "Cărămizile au fost aduse din Anglia, iar structurile metalice din Franța.", "Stilul arhitectural este o fuziune între neoclasic și elemente de design englezesc.", "Este situată direct pe malul râului Pánuco, aproape de gura de vărsare.", "Astăzi, clădirea găzduiește un muzeu dedicat istoriei vămii și a portului.", "Coloanele și balcoanele din fier forjat sunt elemente originale bine conservate."],
       en: ["The building was inaugurated in 1902 by order of President Porfirio Diaz.", "The bricks were imported from England and the iron structures from France.", "The architectural style is a blend of Neoclassicism and English design.", "It is located directly on the banks of the Panuco River near the mouth.", "Today, the building houses a museum dedicated to the history of customs and the port.", "The wrought-iron columns and balconies are original elements preserved to this day."],
     },
+    image: "/poi-images/mexico-tampico-customs-building-landmarks-v2.webp",
   },
   {
     id: "mexico-villahermosa-cathedral-landmarks-v2",
@@ -1705,6 +1759,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Cele două turnuri cu clopot ale catedralei ating o înălțime de 80 de metri.", "Construcția structurii actuale a început în 1945 și a durat câteva decenii.", "Papa Ioan Paul al II-lea a binecuvântat catedrala în timpul vizitei sale din 1990.", "Fațada prezintă o combinație între stilul modern și cel neoclasic.", "Interiorul adăpostește imaginea venerată a 'Domnului din Tila'.", "Biserica originală din secolul XVIII a fost distrusă în timpul persecuției religioase."],
       en: ["The cathedral's two bell towers reach a height of 80 meters.", "Construction of the current structure began in 1945 and lasted several decades.", "Pope John Paul II blessed the cathedral during his visit in 1990.", "The facade shows a mixture of modern and Neoclassical architectural styles.", "The interior houses the revered image of the 'Lord of Tila'.", "The original 18th-century church was destroyed during a period of religious persecution."],
     },
+    image: "/poi-images/mexico-villahermosa-cathedral-landmarks-v2.webp",
   },
   {
     id: "mexico-veracruz-cathedral-landmarks-v2",
@@ -1736,6 +1791,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Lucrările de construcție la catedrala actuală au fost finalizate în anul 1734.", "Biserica are o cupolă distinctivă decorată cu plăci ceramice albastre de Puebla.", "În secolul XIX, clădirea a fost avariată în timpul diverselor intervenții și asedii.", "Interiorul este proiectat în stil neoclasic, având coloane corintice.", "Turnurile cu clopot ale catedralei au fost finalizate abia în anul 1860.", "Clădirea adăpostește mai multe statui de sfinți valoroase din epoca colonială."],
       en: ["Construction work on the current cathedral was completed in 1734.", "The church features a distinctive dome decorated with blue tiles from Puebla.", "In the 19th century, the building was damaged during various interventions and sieges.", "The interior is designed in Neoclassical style with Corinthian columns.", "The cathedral's bell towers were not completed until 1860.", "The building houses several valuable religious statues from the colonial period."],
     },
+    image: "/poi-images/mexico-veracruz-cathedral-landmarks-v2.webp",
   },
   {
     id: "mexico-pachuca-clock-tower-landmarks-v2",
@@ -1767,6 +1823,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Mecanismul ceasului este identic cu cel al celebrului Big Ben din Londra.", "Turnul a fost construit din piatră albă locală cunoscută sub numele de 'cantera'.", "Cele patru statui reprezintă Independența, Libertatea, Constituția și Reforma.", "Mecanismul ceasului a fost fabricat de renumita companie Dent din Anglia.", "Clopotele turnului cântă imnul național al Mexicului la ocazii speciale.", "Monumentul are patru niveluri și o înălțime totală de 40 de metri."],
       en: ["The clock mechanism is the same as that of Big Ben in London.", "The tower was built from local white stone known as 'cantera blanca'.", "The four statues represent Independence, Liberty, Constitution, and Reform.", "The clockwork was manufactured by the famous Dent company in England.", "The tower's bells play the Mexican national anthem on special occasions.", "The monument consists of four levels and stands 40 meters tall."],
     },
+    image: "/poi-images/mexico-pachuca-clock-tower-landmarks-v2.webp",
   },
   {
     id: "mexico-guadalupe-island-lighthouse-landmarks-v2",
@@ -1798,6 +1855,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Farul este amplasat pe cea mai înaltă stâncă din partea de nord a insulei.", "Guadalupe este unul dintre cele mai bune locuri din lume pentru observarea marilor rechini albi.", "Insula a fost declarată rezervație a biosferei în 1928 pentru protejarea elefanților de mare.", "Farul este administrat și operat de Marina Mexicană (SEMAR).", "Insula are origine vulcanică și atinge înălțimi de peste 1.200 de metri.", "Accesul pe insulă este strict reglementat și necesită permise speciale."],
       en: ["The lighthouse is situated on the highest cliff in the northern part of the island.", "Guadalupe is one of the world's premier locations for great white shark watching.", "The island was declared a biosphere reserve in 1928 to protect northern elephant seals.", "The lighthouse is operated and maintained by the Mexican Navy (SEMAR).", "The island is of volcanic origin and reaches elevations of over 1,200 meters.", "Access to the island is strictly regulated and requires special government permits."],
     },
+    image: "/poi-images/mexico-guadalupe-island-lighthouse-landmarks-v2.webp",
   },
   {
     id: "mexico-monumento-a-la-patria-v2",
@@ -1829,6 +1887,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Monumentul prezintă episoade importante precum întemeierea Tenochtitlanului.", "Este decorat cu hieroglife Maya și reprezentări ale zeităților prehispanice.", "Sculptura include scene ale cuceririi și ale independenței Mexicului.", "Monumentul este iluminat noaptea și reprezintă un punct de întâlnire pentru turiști.", "În centrul monumentului arde o flacără eternă în memoria eroilor neamului.", "Lucrările de sculptură în piatră au fost realizate exclusiv cu dălți și ciocane."],
       en: ["The monument depicts important episodes such as the founding of Tenochtitlan.", "It is decorated with Maya hieroglyphics and pre-Hispanic deities.", "The sculpture group includes scenes of the Conquest and Mexican Independence.", "The monument is illuminated at night and is a popular meeting point for tourists.", "An eternal flame burns in the center of the monument in memory of the heroes.", "The stone carving work was carried out exclusively using hand chisels and hammers."],
     },
+    image: "/poi-images/mexico-monumento-a-la-patria-v2.webp",
   },
   {
     id: "mexico-convent-san-gabriel-cholula-landmarks-v2",
@@ -1860,6 +1919,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Capilla Real dispune de 49 de cupole și este inspirată de arhitectura arabă.", "Mănăstirea a fost folosită de franciscani pentru evanghelizarea populației indigene.", "Biserica principală are o boltă pe nervuri impresionantă în stil gotic.", "În interior s-au păstrat picturi murale valoroase din secolul al XVI-lea.", "Mănăstirea găzduiește o bibliotecă istorică importantă (Biblioteca Franciscana).", "Datorită zidurilor sale masive, complexul a servit și ca fortăreață."],
       en: ["The Royal Chapel (Capilla Real) features 49 domes and is inspired by Arabic architecture.", "The convent was used by the Franciscans for the evangelization of the indigenous people.", "The main church boasts an impressive Gothic-style ribbed vault.", "Inside, valuable murals from the 16th century have been preserved.", "The convent houses a significant historical library (Biblioteca Franciscana).", "The complex also served as a fortress due to its massive, thick walls."],
     },
+    image: "/poi-images/mexico-convent-san-gabriel-cholula-landmarks-v2.webp",
   },
   {
     id: "mexico-teatro-macedonio-alcala-landmarks-v2",
@@ -1891,6 +1951,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Teatrul a fost inaugurat oficial pe 5 septembrie 1909.", "A fost conceput inițial ca un cazinou și teatru de operă.", "Fațada este realizată din piatră verde (cantera verde) locală.", "Clădirea a fost restaurată complet după cutremurul din 1999.", "Sala principală este decorată în stil Empire francez.", "Capacitatea totală a teatrului este de aproximativ 800 de locuri."],
       en: ["The theater was officially inaugurated on September 5, 1909.", "It was originally designed as both a casino and a theater.", "The facade is constructed using local green quarry stone.", "The building underwent a major restoration after the 1999 earthquake.", "The interior hall features Empire-style decorative elements.", "The venue has a seating capacity for approximately 800 people."],
     },
+    image: "/poi-images/mexico-teatro-macedonio-alcala-landmarks-v2.webp",
   },
   {
     id: "mexico-guadalupe-shrine-san-luis-potosi-landmarks-v2",
@@ -1922,6 +1983,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Construcția a început în 1772 sub îndrumarea lui Felipe Cleere.", "Biserica a fost sfințită pe data de 11 februarie 1800.", "Calzada de Guadalupe are o lungime de peste 3 kilometri.", "Turnurile clopotniță au fost finalizate abia în anul 1855.", "Clădirea a servit drept cazarmă în timpul intervenției franceze.", "Bazilica adăpostește o copie a imaginii Fecioarei de Guadalupe."],
       en: ["Construction began in 1772 under the direction of Felipe Cleere.", "The church was consecrated on February 11, 1800.", "The Calzada de Guadalupe spans over 3 kilometers in length.", "The bell towers were not completed until the year 1855.", "The building served as a barracks during the French intervention.", "The basilica houses a replica of the image of the Virgin of Guadalupe."],
     },
+    image: "/poi-images/mexico-guadalupe-shrine-san-luis-potosi-landmarks-v2.webp",
   },
   {
     id: "mexico-aguascalientes-cathedral-landmarks-v2",
@@ -1953,6 +2015,7 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Construcția structurii actuale a început în anul 1704.", "Catedrala a fost finalizată oficial în anul 1738.", "Orga datează din secolul al XVII-lea și a fost fabricată în Spania.", "Clădirea dispune de două turnuri distincte în stil neoclasic.", "Capela principală adăpostește imaginea patroanei spirituale a orașului.", "Catedrala a fost ridicată la rangul de Basilica Minor în 1946."],
       en: ["Construction of the current structure began in the year 1704.", "The cathedral was officially completed in the year 1738.", "The organ dates back to the 17th century and was made in Spain.", "The building features two prominent towers in Neoclassical style.", "The main chapel houses the image of the city's patron saint.", "The cathedral was elevated to the rank of Basilica Minor in 1946."],
     },
+    image: "/poi-images/mexico-aguascalientes-cathedral-landmarks-v2.webp",
   },
   {
     id: "mexico-san-antonio-church-aguascalientes-landmarks-v2",
@@ -1984,5 +2047,6 @@ export const mexicoLandmarksV2: POI[] = [
       ro: ["Construcția a fost începută în 1895 de către ordinul franciscan.", "Inaugurarea a avut loc pe data de 8 decembrie 1908.", "Arhitectul Refugio Reyes Rivas nu a avut studii formale în domeniu.", "Biserica are o cupolă impresionantă decorată cu fresce.", "Structura este realizată din trei culori diferite de piatră locală.", "Altarul a fost fabricat din marmură de Carrara adusă din Italia."],
       en: ["Construction was started in 1895 by the Franciscan Order.", "The inauguration took place on December 8, 1908.", "The architect, Refugio Reyes Rivas, had no formal academic training.", "The church features an impressive dome decorated with frescoes.", "It is constructed using three different colors of regional stone.", "The altar was crafted from Carrara marble imported from Italy."],
     },
+    image: "/poi-images/mexico-san-antonio-church-aguascalientes-landmarks-v2.webp",
   }
 ];

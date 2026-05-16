@@ -31,6 +31,7 @@ export const nauruNatureV2: POI[] = [
       ro: ["Golful se întinde pe o lungime de aproximativ 2 kilometri.", "Aici se află cel mai important port pentru bărcile mici de pescuit.", "Reciful Anibare este o destinație populară pentru scafandri.", "Plaja este considerată cel mai bun loc de scăldat de pe întreaga insulă.", "Golful a fost format prin prăbușirea versantului vulcanic.", "Golful Anibare este situat în districtul cu același nume, Anibare."],
       en: ["The bay stretches along a length of approximately 2 kilometers.", "It hosts the most significant harbor for small fishing boats.", "The Anibare reef is a popular destination for divers.", "The beach is considered the best swimming spot on the entire island.", "The bay was formed by the collapse of the volcanic slope.", "Anibare Bay is located within the district of Anibare."],
     },
+    image: "/poi-images/nauru-anibare-bay-nature-v2.webp",
   },
   {
     id: "nauru-anibare-pinnacles-nature-v2",
@@ -62,6 +63,7 @@ export const nauruNatureV2: POI[] = [
       ro: ["Pinnacles sunt formate din recife de corali fosilizate.", "Ele pot atinge o înălțime de până la 5 sau 10 metri.", "Formațiunile sunt extrem de ascuțite și greu de parcurs.", "Sunt situate pe platoul numit local 'Topside'.", "Eroziunea oferă turnurilor o culoare gri spre neagră.", "Zona prezintă starea insulei înainte de recultivare."],
       en: ["The pinnacles are composed of fossilized coral reefs.", "They can reach heights of up to 5 to 10 meters.", "The formations are extremely sharp and difficult to navigate on foot.", "They are located on the plateau known locally as 'Topside'.", "Weathering gives the towers a gray to black coloration.", "The area demonstrates the state of the island prior to reclamation."],
     },
+    image: "/poi-images/nauru-anibare-pinnacles-nature-v2.webp",
   },
   {
     id: "nauru-moqua-caves-nature-v2",
@@ -93,6 +95,7 @@ export const nauruNatureV2: POI[] = [
       ro: ["Moqua Well are o adâncime de aproximativ 5 metri.", "Temperatura apei rămâne constantă pe tot parcursul anului.", "Peștera este formată din rocă calcaroasă poroasă.", "A servit drept ascunzătoare în timpul celui de-al Doilea Război Mondial.", "Lacul este conectat la pânza freatică a insulei.", "Accesul se face printr-o potecă abruptă în districtul Yaren."],
       en: ["Moqua Well is approximately 5 meters deep.", "The water temperature remains constant throughout the year.", "The cave is formed from porous limestone rock.", "It served as a hiding place during World War II.", "The lake is connected to the island's primary water table.", "Access is via a steep path located in the Yaren District."],
     },
+    image: "/poi-images/nauru-moqua-caves-nature-v2.webp",
   },
   {
     id: "nauru-ijuw-coastline-nature-v2",
@@ -124,6 +127,7 @@ export const nauruNatureV2: POI[] = [
       ro: ["Ijuw este unul dintre cele mai mici districte după numărul de locuitori.", "Capul Ijuw este adesea expus vânturilor alizee puternice.", "În stânci se găsesc fosile de corali.", "Drumul de coastă face aici o curbă proeminentă.", "Zona este cunoscută pentru colectarea melcilor de mare.", "Nu există facilități turistice majore în această zonă."],
       en: ["Ijuw is one of the smallest districts by population.", "The Cape of Ijuw is often exposed to strong trade winds.", "Fossilized corals can be found embedded in the rocks.", "The coastal ring road makes a prominent curve at this location.", "The area is well-known for the collection of sea snails.", "There are no major tourist facilities located in this area."],
     },
+    image: "/poi-images/nauru-ijuw-coastline-nature-v2.webp",
   },
   {
     id: "nauru-anabar-lagoon-nature-v2",
@@ -155,6 +159,7 @@ export const nauruNatureV2: POI[] = [
       ro: ["Anabar este situat în nord-estul insulei Nauru.", "Lagunele sunt un loc de popas important pentru păsările migratoare.", "Apa are o salinitate fluctuantă.", "În apropiere se află locuri de înmormântare istorice.", "Suprafața lagunelor individuale este destul de mică.", "Ele fac parte din proprietatea tradițională a pământului triburilor din Anabar."],
       en: ["Anabar is located in the northeast of Nauru island.", "The lagoons are a significant resting spot for migratory birds.", "The water exhibits a fluctuating level of salinity.", "Historical burial sites are located in the vicinity.", "The surface area of the individual lagoons is relatively small.", "They are part of the traditional land ownership of Anabar clans."],
     },
+    image: "/poi-images/nauru-anabar-lagoon-nature-v2.webp",
   },
   {
     id: "nauru-meneng-beach-nature-v2",
@@ -186,6 +191,7 @@ export const nauruNatureV2: POI[] = [
       ro: ["Hotelul Meneng a fost cândva cel mai mare hotel de pe insulă.", "La reflux, se poate merge mult pe platforma recifului.", "Nisipul constă în principal din corali sfărâmați.", "Meneng este cel mai mare district din Nauru ca suprafață.", "În apropiere se află resturi de buncăre din timpul războiului.", "Plaja este o zonă de cuibărit pentru câteva specii de păsări marine."],
       en: ["The Meneng Hotel was once the largest hotel on the island.", "At low tide, one can walk far out onto the reef flat.", "The sand is primarily composed of crushed coral fragments.", "Meneng is the largest district in Nauru by surface area.", "Remnants of wartime bunkers can be found in the vicinity.", "The beach serves as a nesting ground for some seabird species."],
     },
+    image: "/poi-images/nauru-meneng-beach-nature-v2.webp",
   },
   {
     id: "nauru-ewa-reef-nature-v2",
@@ -217,6 +223,7 @@ export const nauruNatureV2: POI[] = [
       ro: ["Reciful înconjoară întreaga insulă ca un recif de bordură.", "În Ewa există un canal îngust pentru bărci.", "Peste 50 de specii de corali au fost identificate aici.", "Reciful sparge până la 90% din energia valurilor.", "Ewa este situat direct la est de districtul Denigomodu.", "Scafandrii pot observa adesea țestoase marine aici."],
       en: ["The reef encircles the entire island as a fringing reef.", "A narrow channel for boats is maintained in Ewa.", "Over 50 different coral species have been identified here.", "The reef dissipates up to 90% of incoming wave energy.", "Ewa is located directly east of the Denigomodu district.", "Divers can frequently observe sea turtles in these waters."],
     },
+    image: "/poi-images/nauru-ewa-reef-nature-v2.webp",
   },
   {
     id: "nauru-yangor-cliffs-nature-v2",
@@ -248,6 +255,7 @@ export const nauruNatureV2: POI[] = [
       ro: ["Stâncile se ridică până la 30 de metri deasupra mării.", "În apropiere se află vechi instalații de încărcare a fosfaților.", "Yangor este un nume tradițional de zonă în Aiwo.", "Stâncile servesc ca loc de cuibărit pentru rândunele de mare.", "De aici se pot observa apusurile de soare.", "Eroziunea modelează continuu aspectul stâncilor."],
       en: ["The cliffs rise up to 30 meters above sea level.", "Old phosphate loading facilities are located nearby.", "Yangor is a traditional place name within the Aiwo district.", "The rocks serve as nesting sites for various tern species.", "The location provides an excellent vantage point for sunsets.", "Erosion processes continuously reshape the cliff faces."],
     },
+    image: "/poi-images/nauru-yangor-cliffs-nature-v2.webp",
   },
   {
     id: "nauru-boe-coral-belt-nature-v2",
@@ -279,6 +287,7 @@ export const nauruNatureV2: POI[] = [
       ro: ["Lățimea platformei recifale este de 100-300 metri", "Protejează districtul Boe de eroziunea costieră", "Găzduiește peste 50 de specii de corali", "Zonă importantă pentru pescuitul local", "Vulnerabilă la creșterea nivelului mării", "Compusă în principal din structuri calcaroase"],
       en: ["Reef flat width ranges from 100 to 300 meters", "Protects Boe district from coastal erosion", "Home to over 50 species of coral", "Important traditional fishing ground", "Highly sensitive to rising sea levels", "Composed primarily of limestone coral structures"],
     },
+    image: "/poi-images/nauru-boe-coral-belt-nature-v2.webp",
   },
   {
     id: "nauru-nibok-palms-nature-v2",
@@ -310,6 +319,7 @@ export const nauruNatureV2: POI[] = [
       ro: ["Palmierii de cocos ating înălțimi de până la 30 metri", "Frunzele de Pandanus sunt folosite pentru țesut", "Sursă principală de copra în trecut", "Solul este format din calcar coraligen nisipos", "Oferă protecție împotriva vânturilor alizee", "Utilizarea nucilor de cocos ca rezervă de apă potabilă"],
       en: ["Coconut palms reach heights of up to 30 meters", "Pandanus leaves are used for traditional weaving", "Historically a major source of copra", "Soil consists of sandy coral limestone", "Provides shelter from prevailing trade winds", "Coconuts used as a strategic freshwater reserve"],
     },
+    image: "/poi-images/nauru-nibok-palms-nature-v2.webp",
   },
   {
     id: "nauru-denigomodu-coast-nature-v2",
@@ -341,6 +351,7 @@ export const nauruNatureV2: POI[] = [
       ro: ["Locația marilor macarale de încărcare a fosfaților", "Cea mai mare densitate a populației în zona rezidențială", "Drumul costier leagă portul de zona de nord", "Reciful de corali este deosebit de îngust aici", "Diferența de maree este de aproximativ 1-2 metri", "Punct important de ancorare pentru navele de marfă"],
       en: ["Site of the massive phosphate cantilever loaders", "Highest population density in the adjacent housing", "Coastal road links the port to northern districts", "The coral reef flat is notably narrow here", "Tidal range averages between 1 and 2 meters", "Major mooring point for international cargo ships"],
     },
+    image: "/poi-images/nauru-denigomodu-coast-nature-v2.webp",
   },
   {
     id: "nauru-aiwo-pinnacles-nature-v2",
@@ -372,6 +383,7 @@ export const nauruNatureV2: POI[] = [
       ro: ["Înălțimea coloanelor de calcar de până la 15 metri", "Formate prin milenii de procese carstice", "Expuse în timpul boom-ului fosfaților din 1906", "Compuse aproape în întregime din carbonat de calciu", "Oferă locuri de cuibărit pentru păsările marine", "Teren greu accesibil din cauza marginilor ascuțite"],
       en: ["Limestone pillars reach heights up to 15 meters", "Formed by millennia of karstic weathering", "Exposed during the phosphate mining boom since 1906", "Composed almost entirely of calcium carbonate", "Provide nesting sites for various seabirds", "The terrain is rugged and difficult to navigate"],
     },
+    image: "/poi-images/nauru-aiwo-pinnacles-nature-v2.webp",
   },
   {
     id: "nauru-buada-pandanus-groves-nature-v2",
@@ -403,6 +415,7 @@ export const nauruNatureV2: POI[] = [
       ro: ["Situat în singurul district interior al Nauru", "Fructele de Pandanus sunt comestibile și bogate în vitamine", "Tehnicile tradiționale de țesut folosesc fibrele frunzelor", "Solul este mai bogat în humus decât cel de pe coastă", "Înconjoară laguna Buada cu apă salmastră", "A supraviețuit extracției pe scară largă a fosfaților"],
       en: ["Located in Nauru's only landlocked district", "Pandanus fruits are edible and rich in vitamins", "Traditional weaving utilizes the leaf fibers", "Soil is richer in humus than coastal areas", "Surrounds the brackish Buada Lagoon", "One of the few areas spared from open-cast mining"],
     },
+    image: "/poi-images/nauru-buada-pandanus-groves-nature-v2.webp",
   },
   {
     id: "nauru-anibare-forest-nature-v2",
@@ -434,6 +447,7 @@ export const nauruNatureV2: POI[] = [
       ro: ["Cel mai important habitat pentru Nauru reed warbler", "Conține exemplare de arbori indigeni Calophyllum", "Condiții microclimatice favorabile datorită brizelor", "Substratul este format din calcar coraligen alterat", "Zonă importantă pentru conservarea naturii pe insulă", "Cea mai densă pădure din afara bazinului Buada"],
       en: ["Critical habitat for the endemic Nauru reed warbler", "Contains stands of indigenous Calophyllum trees", "Ocean breezes create favorable microclimatic conditions", "Substrate consists of weathered coral limestone", "Major focus area for island conservation efforts", "Densest forest cover outside of the Buada Basin"],
     },
+    image: "/poi-images/nauru-anibare-forest-nature-v2.webp",
   },
   {
     id: "nauru-north-cape-nature-v2",
@@ -465,6 +479,7 @@ export const nauruNatureV2: POI[] = [
       ro: ["Latitudine geografică de aproximativ 0° 30' Sud", "Punct de graniță între districtele Ewa și Anetan", "Reciful de corali se extinde mult în ocean", "Loc tradițional pentru vânătoarea de păsări fregate", "Valuri puternice în timpul vânturilor de nord-vest", "Zonă de țărm stâncoasă, fără plaje cu nisip"],
       en: ["Geographic latitude of approximately 0° 30' South", "Border point between Ewa and Anetan districts", "The coral reef flat extends far into the ocean", "Traditional site for frigatebird catching", "Heavy surf occurs during northwesterly winds", "Rocky shoreline with a lack of sandy beaches"],
     },
+    image: "/poi-images/nauru-north-cape-nature-v2.webp",
   },
   {
     id: "nauru-south-point-nature-v2",
@@ -496,5 +511,6 @@ export const nauruNatureV2: POI[] = [
       ro: ["Cel mai sudic punct al districtului Meneng", "Proximitatea de clădirea guvernului și Hotelul Meneng", "Coasta este protejată de eroziune prin ziduri de beton", "Scădere bruscă a fundului mării direct după recif", "Locație frecventă pentru ceremonii de stat", "Oferă vedere spre rutele maritime sudice"],
       en: ["Southernmost point of the Meneng district", "Proximity to the State House and Meneng Hotel", "Coastline is protected by concrete sea walls", "The seabed drops off sharply just beyond the reef", "Frequent location for official state ceremonies", "Provides views of the southern international shipping lanes"],
     },
+    image: "/poi-images/nauru-south-point-nature-v2.webp",
   }
 ];

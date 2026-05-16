@@ -31,6 +31,7 @@ export const kuwaitNatureV2: POI[] = [
       ro: ["Suprafață: 890 km²", "Lungime: 40 km", "Lățime: 24 km", "Altitudine maximă: 5 m deasupra nivelului mării", "Specii de păsări: 150 specii cuibăritoare", "Populație: sub 100 de locuitori"],
       en: ["Area: 890 km²", "Length: 40 km", "Width: 24 km", "Highest point: 5 m above sea level", "Bird species: 150 breeding bird species", "Population: under 100"],
     },
+    image: "/poi-images/kuwait-bubiyan-island-nature-v2.webp",
   },
   {
     id: "kuwait-warbah-island-nature-v2",
@@ -62,6 +63,7 @@ export const kuwaitNatureV2: POI[] = [
       ro: ["Suprafață: 37 km²", "Lungime: 15 km", "Lățime: 5 km", "Altitudine maximă: 3 m deasupra nivelului mării", "Specii de păsări migratoare: 200", "Statut de protecție: din 1992"],
       en: ["Area: 37 km²", "Length: 15 km", "Width: 5 km", "Highest point: 3 m above sea level", "Migratory bird species: 200", "Protected since: 1992"],
     },
+    image: "/poi-images/kuwait-warbah-island-nature-v2.webp",
   },
   {
     id: "kuwait-kubbar-island-nature-v2",
@@ -93,6 +95,7 @@ export const kuwaitNatureV2: POI[] = [
       ro: ["Suprafață: 0,3 km²", "Distanța de coastă: 30 km", "Suprafață recifală: 1 km²", "Altitudine maximă: 8 m deasupra nivelului mării", "Specii de păsări cuibăritoare: 5", "Statut de protecție: din 1990"],
       en: ["Area: 0.3 km²", "Distance to coast: 30 km", "Coral reef area: 1 km²", "Highest point: 8 m above sea level", "Breeding bird species: 5", "Protected since: 1990"],
     },
+    image: "/poi-images/kuwait-kubbar-island-nature-v2.webp",
   },
   {
     id: "kuwait-qaruh-island-nature-v2",
@@ -124,6 +127,7 @@ export const kuwaitNatureV2: POI[] = [
       ro: ["Suprafață: 0,5 km²", "Altitudine maximă: 10 m deasupra nivelului mării", "Descoperirea petrolului: 1930", "Specii de păsări migratoare: 45", "Suprafață recifală: 2 km²", "Statut de protecție: din 1987"],
       en: ["Area: 0.5 km²", "Highest point: 10 m above sea level", "Oil discovery: 1930", "Migratory bird species: 45", "Coral reef area: 2 km²", "Protected since: 1987"],
     },
+    image: "/poi-images/kuwait-qaruh-island-nature-v2.webp",
   },
   {
     id: "kuwait-umm-al-maradim-nature-v2",
@@ -155,6 +159,7 @@ export const kuwaitNatureV2: POI[] = [
       ro: ["Suprafață: 0,3 km²", "Distanța de continent: 40 km", "Suprafață recifală: 1,5 km²", "Specii de țestoase marine: 2", "Specii de păsări: 30", "Statut de protecție: din 1990"],
       en: ["Area: 0.3 km²", "Distance to mainland: 40 km", "Coral reef area: 1.5 km²", "Sea turtle species: 2", "Bird species: 30", "Protected since: 1990"],
     },
+    image: "/poi-images/kuwait-umm-al-maradim-nature-v2.webp",
   },
   {
     id: "kuwait-miskan-island-nature-v2",
@@ -186,6 +191,7 @@ export const kuwaitNatureV2: POI[] = [
       ro: ["Suprafață: 0,2 km²", "Distanța de coastă: 20 km", "Suprafața mangrove: 0,1 km²", "Specii de păsări cuibăritoare: 10", "Altitudine maximă: 5 m deasupra nivelului mării", "Statut de protecție: din 1995"],
       en: ["Area: 0.2 km²", "Distance to coast: 20 km", "Mangrove area: 0.1 km²", "Breeding bird species: 10", "Highest point: 5 m above sea level", "Protected since: 1995"],
     },
+    image: "/poi-images/kuwait-miskan-island-nature-v2.webp",
   },
   {
     id: "kuwait-auha-island-nature-v2",
@@ -217,6 +223,7 @@ export const kuwaitNatureV2: POI[] = [
       ro: ["Suprafață: 0,1 km²", "Distanța de coastă: 15 km", "Altitudine maximă: 3 m deasupra nivelului mării", "Specii de păsări migratoare: 25", "Temperatura apei: 20-30 °C", "Vizitatori pe an: 500"],
       en: ["Area: 0.1 km²", "Distance to coast: 15 km", "Highest point: 3 m above sea level", "Migratory bird species: 25", "Water temperature: 20-30 °C", "Annual visitors: 500"],
     },
+    image: "/poi-images/kuwait-auha-island-nature-v2.webp",
   },
   {
     id: "kuwait-umm-al-namil-nature-v2",
@@ -248,6 +255,7 @@ export const kuwaitNatureV2: POI[] = [
       ro: ["Suprafață: 0,2 km²", "Distanța de coastă: 5 km", "Suprafața mangrove: 0,05 km²", "Specii de păsări cuibăritoare: 8", "Altitudine maximă: 2 m deasupra nivelului mării", "Statut de protecție: din 1998"],
       en: ["Area: 0.2 km²", "Distance to coast: 5 km", "Mangrove area: 0.05 km²", "Breeding bird species: 8", "Highest point: 2 m above sea level", "Protected since: 1998"],
     },
+    image: "/poi-images/kuwait-umm-al-namil-nature-v2.webp",
   },
   {
     id: "kuwait-jal-az-zor-national-park-nature-v2",
@@ -279,6 +287,7 @@ export const kuwaitNatureV2: POI[] = [
       ro: ["Suprafață: 100 km²", "Altitudine maximă: 145 m deasupra nivelului mării", "Lungimea coastei: 20 km", "Specii de fosile: peste 50", "Specii de mamifere: 20", "Parc național din: 1995"],
       en: ["Area: 100 km²", "Highest point: 145 m above sea level", "Coastline length: 20 km", "Fossil species: over 50", "Mammal species: 20", "National park since: 1995"],
     },
+    image: "/poi-images/kuwait-jal-az-zor-national-park-nature-v2.webp",
   },
   {
     id: "kuwait-jal-az-zor-escarpment-nature-v2",
@@ -310,6 +319,7 @@ export const kuwaitNatureV2: POI[] = [
       ro: ["Lungime: 30 km", "Înălțime: 145 m deasupra câmpiei", "Vârsta geologică: Miocen (23-5 milioane de ani)", "Tipuri de roci: calcar, gresie", "Situri fosile: 10", "Statut de protecție: parte a parcului național"],
       en: ["Length: 30 km", "Height: 145 m above the plain", "Geological age: Miocene (23-5 million years)", "Rock types: limestone, sandstone", "Fossil sites: 10", "Protection status: part of the national park"],
     },
+    image: "/poi-images/kuwait-jal-az-zor-escarpment-nature-v2.webp",
   },
   {
     id: "kuwait-wadi-al-batin-nature-v2",
@@ -341,6 +351,7 @@ export const kuwaitNatureV2: POI[] = [
       ro: ["Lungime: aproximativ 100 km", "Lățime maximă: 15 km", "Altitudine maximă: 200 m", "Precipitații medii anuale: sub 100 mm", "Număr situri arheologice din epoca bronzului: peste 20", "Distanța până la Kuwait City: 80 km"],
       en: ["Length: approximately 100 km", "Maximum width: 15 km", "Highest elevation: 200 m above sea level", "Average annual rainfall: less than 100 mm", "Bronze Age archaeological sites: over 20", "Distance from Kuwait City: 80 km"],
     },
+    image: "/poi-images/kuwait-wadi-al-batin-nature-v2.webp",
   },
   {
     id: "kuwait-khor-al-subiya-nature-v2",
@@ -372,6 +383,7 @@ export const kuwaitNatureV2: POI[] = [
       ro: ["Lungimea golfului: aproximativ 30 km", "Lățime maximă: 10 km", "Adâncime maximă: 5 m", "Specii de păsări observate: peste 100", "Vârsta sitului arheologic: cca. 7000 de ani (perioada Ubaid)", "Distanța până la granița cu Irakul: 20 km"],
       en: ["Bay length: approximately 30 km", "Maximum width: 10 km", "Maximum depth: about 5 m", "Bird species recorded: over 100", "Age of archaeological site: c. 7000 years (Ubaid period)", "Distance to Iraqi border: 20 km"],
     },
+    image: "/poi-images/kuwait-khor-al-subiya-nature-v2.webp",
   },
   {
     id: "kuwait-ras-al-zour-coast-nature-v2",
@@ -403,6 +415,7 @@ export const kuwaitNatureV2: POI[] = [
       ro: ["Lungimea coastei: aproximativ 15 km", "Temperatura medie a apei: 25°C iarna, 32°C vara", "Număr de specii de corali: aproximativ 30", "Adâncimea recifelor: până la 10 m", "Distanța până la granița cu Arabia Saudită: 5 km", "Vizitatori anuali: estimativ 50.000"],
       en: ["Coastline length: approximately 15 km", "Average water temperature: 25°C winter, 32°C summer", "Number of coral species: about 30", "Reef depth: up to 10 m", "Distance to Saudi Arabia border: 5 km", "Annual visitors: estimated 50,000"],
     },
+    image: "/poi-images/kuwait-ras-al-zour-coast-nature-v2.webp",
   },
   {
     id: "kuwait-ras-al-ardh-nature-v2",
@@ -434,6 +447,7 @@ export const kuwaitNatureV2: POI[] = [
       ro: ["Lungimea promontoriului: aproximativ 2 km", "Altitudine maximă: 15 m", "Număr de specii de fosile: peste 30", "Adâncimea apei în fața capului: până la 5 m", "Precipitații anuale: sub 100 mm", "Distanța până la cel mai apropiat oraș (Fahaheel): 15 km"],
       en: ["Cape length: approximately 2 km", "Maximum elevation: 15 m above sea level", "Number of fossil species: over 30", "Water depth offshore: up to 5 m", "Annual rainfall: under 100 mm", "Distance to nearest city (Fahaheel): 15 km"],
     },
+    image: "/poi-images/kuwait-ras-al-ardh-nature-v2.webp",
   },
   {
     id: "kuwait-umm-ar-rimam-nature-v2",
@@ -465,6 +479,7 @@ export const kuwaitNatureV2: POI[] = [
       ro: ["Suprafața lagunei: aproximativ 2 km²", "Adâncime maximă: aproximativ 2 m", "Salinitate: până la 40 ppt", "Acoperire cu mangrove: aproximativ 1 km²", "Specii de păsări: peste 60", "Temperatura apei: 20°C până la 34°C"],
       en: ["Lagoon area: approximately 2 km²", "Maximum depth: about 2 m", "Salinity: up to 40 ppt", "Mangrove cover: about 1 km²", "Number of bird species: over 60", "Water temperature range: 20°C to 34°C"],
     },
+    image: "/poi-images/kuwait-umm-ar-rimam-nature-v2.webp",
   },
   {
     id: "kuwait-kabd-protected-area-nature-v2",
@@ -496,6 +511,7 @@ export const kuwaitNatureV2: POI[] = [
       ro: ["Suprafață: 100 km²", "Anul înființării: 1992", "Număr de oryx reintroduși: peste 50", "Precipitații anuale: aproximativ 90 mm", "Temperatura medie de vară: 45°C", "Altitudine: 150-200 m"],
       en: ["Area: 100 km²", "Established: 1992", "Reintroduced oryx count: over 50", "Annual rainfall: approx 90 mm", "Average summer temperature: 45°C", "Elevation: 150-200 m"],
     },
+    image: "/poi-images/kuwait-kabd-protected-area-nature-v2.webp",
   },
   {
     id: "kuwait-khiran-lagoons-nature-v2",
@@ -527,6 +543,7 @@ export const kuwaitNatureV2: POI[] = [
       ro: ["Lungimea totală a lagunelor: aproximativ 20 km", "Adâncime maximă: 3 m", "Număr de insule în lagune: 5", "Suprafața mangrovelor: aproximativ 2 km²", "Vizitatori anuali: aproximativ 200.000", "Distanța până la Kuwait City: 90 km"],
       en: ["Total lagoon length: approximately 20 km", "Maximum depth: 3 m", "Number of islands within lagoons: 5", "Mangrove area: about 2 km²", "Annual visitors: about 200,000", "Distance to Kuwait City: 90 km"],
     },
+    image: "/poi-images/kuwait-khiran-lagoons-nature-v2.webp",
   },
   {
     id: "kuwait-messila-coast-nature-v2",
@@ -558,6 +575,7 @@ export const kuwaitNatureV2: POI[] = [
       ro: ["Lungimea plajei: aproximativ 10 km", "Adâncimea medie a apei: 1,5 m", "Temperatura apei vara: 32°C", "Număr de stațiuni: peste 5", "Ore anuale de soare: aproximativ 3000", "Distanța de la Kuwait City: 70 km"],
       en: ["Beach length: approximately 10 km", "Average water depth: 1.5 m", "Summer water temperature: 32°C", "Number of resorts: over 5", "Annual sunshine hours: about 3000", "Distance from Kuwait City: 70 km"],
     },
+    image: "/poi-images/kuwait-messila-coast-nature-v2.webp",
   },
   {
     id: "kuwait-nuwaiseeb-coast-nature-v2",
@@ -589,6 +607,7 @@ export const kuwaitNatureV2: POI[] = [
       ro: ["Lungime: aproximativ 8 km", "Adâncimea medie a apei: 2 m", "Număr de locuri de cuibărit pentru țestoase marine: aproximativ 10", "Distanța până la granița saudită: 2 km", "Precipitații anuale: 80 mm", "Temperatura apei iarna: 20°C"],
       en: ["Length: approximately 8 km", "Average water depth: 2 m", "Number of sea turtle nesting sites: about 10", "Distance to Saudi border: 2 km", "Annual rainfall: 80 mm", "Winter water temperature: 20°C"],
     },
+    image: "/poi-images/kuwait-nuwaiseeb-coast-nature-v2.webp",
   },
   {
     id: "kuwait-subiya-mudflats-nature-v2",
@@ -620,6 +639,7 @@ export const kuwaitNatureV2: POI[] = [
       ro: ["Suprafață: aproximativ 50 km²", "Grosimea sedimentelor: până la 10 m", "Amplitudinea mareelor: aproximativ 3 m", "Specii de păsări: peste 80", "Depunere anuală de sedimente: aproximativ 1 cm", "Distanța până la granița irakiană: 15 km"],
       en: ["Area: approximately 50 km²", "Sediment thickness: up to 10 m", "Tidal range: about 3 m", "Number of bird species: over 80", "Annual sediment deposition: about 1 cm", "Distance to Iraqi border: 15 km"],
     },
+    image: "/poi-images/kuwait-subiya-mudflats-nature-v2.webp",
   },
   {
     id: "kuwait-rawdatain-desert-area-nature-v2",
@@ -651,6 +671,7 @@ export const kuwaitNatureV2: POI[] = [
       ro: ["Izvoarele sunt alimentate de acviferul din Cretacic.", "În zonă trăiesc 200 de gazele arabe.", "Suprafața protejată este de 2.000 de hectare.", "Apa izvoarelor are un debit de 30 m³/h.", "Altitudinea maximă este de 120 de metri.", "Temperatura apei este constantă la 21°C."],
       en: ["Rawdatain covers an area of 10 square kilometers.", "The springs provide water to nearby farms for irrigation.", "Archaeological finds include Stone Age tools from 8000 BCE.", "The area receives less than 100 mm of rainfall annually.", "It is home to the Arabian oryx and sand gazelle.", "The oasis has been used by Bedouins for centuries as a watering hole."],
     },
+    image: "/poi-images/kuwait-rawdatain-desert-area-nature-v2.webp",
   },
   {
     id: "kuwait-minagish-desert-dunes-nature-v2",
@@ -682,6 +703,7 @@ export const kuwaitNatureV2: POI[] = [
       ro: ["Suprafață: aproximativ 40 km²", "Înălțimea maximă a dunelor: 30 m", "Granulația nisipului: 0,1-0,5 mm", "Număr de specii de plante: aproximativ 20", "Viteza anuală a vântului: 15 km/h", "Distanța până la granița saudită: 30 km"],
       en: ["Area: approximately 40 km²", "Maximum dune height: 30 m", "Sand grain size: 0.1-0.5 mm", "Number of plant species: about 20", "Annual wind speed: 15 km/h", "Distance to Saudi border: 30 km"],
     },
+    image: "/poi-images/kuwait-minagish-desert-dunes-nature-v2.webp",
   },
   {
     id: "kuwait-burgan-sands-nature-v2",
@@ -713,6 +735,7 @@ export const kuwaitNatureV2: POI[] = [
       ro: ["Suprafață: aproximativ 100 km²", "Suprafața câmpului petrolier: 1000 km²", "Producția anuală de petrol: aproximativ 1,5 miliarde de barili", "Număr de sonde: peste 1000", "Anul descoperirii câmpului petrolier: 1938", "Adâncimea medie a rezervoarelor: 1200 m"],
       en: ["Area: approximately 100 km²", "Oil field area: 1000 km²", "Annual oil production: about 1.5 billion barrels", "Number of wells: over 1000", "Year of oil field discovery: 1938", "Average reservoir depth: 1200 m"],
     },
+    image: "/poi-images/kuwait-burgan-sands-nature-v2.webp",
   },
   {
     id: "kuwait-wafra-desert-strip-nature-v2",
@@ -744,6 +767,7 @@ export const kuwaitNatureV2: POI[] = [
       ro: ["Lungimea fâșiei: aproximativ 20 km", "Lățime: aproximativ 5 km", "Număr de ferme: peste 100", "Extracție anuală de apă freatică: 10 milioane m³", "Adâncimea medie a puțurilor: 100 m", "Distanța până la Kuwait City: 120 km"],
       en: ["Strip length: approximately 20 km", "Width: about 5 km", "Number of farms: over 100", "Annual groundwater extraction: 10 million m³", "Average well depth: 100 m", "Distance to Kuwait City: 120 km"],
     },
+    image: "/poi-images/kuwait-wafra-desert-strip-nature-v2.webp",
   },
   {
     id: "kuwait-abdali-desert-region-nature-v2",
@@ -775,6 +799,7 @@ export const kuwaitNatureV2: POI[] = [
       ro: ["Suprafață: aproximativ 200 km²", "Altitudine: 50-100 m", "Număr de ferme: aproximativ 50", "Extracție anuală de apă freatică: 5 milioane m³", "Temperatura medie în iulie: 46°C", "Distanța până la granița irakiană: 5 km"],
       en: ["Area: approximately 200 km²", "Elevation: 50-100 m", "Number of farms: about 50", "Annual groundwater extraction: 5 million m³", "Average July temperature: 46°C", "Distance to Iraqi border: 5 km"],
     },
+    image: "/poi-images/kuwait-abdali-desert-region-nature-v2.webp",
   },
   {
     id: "kuwait-anjafa-beach-nature-v2",
@@ -806,6 +831,7 @@ export const kuwaitNatureV2: POI[] = [
       ro: ["Lungime: aproximativ 5 km", "Adâncimea apei: 1-3 m", "Temperatura apei: 20-34°C", "Număr de cafenele pe plajă: 3", "Distanța până la Kuwait City: 80 km", "Vizitatori anuali: aproximativ 30.000"],
       en: ["Length: approximately 5 km", "Water depth: 1-3 m", "Water temperature: 20-34°C", "Number of beach cafes: 3", "Distance to Kuwait City: 80 km", "Annual visitors: about 30,000"],
     },
+    image: "/poi-images/kuwait-anjafa-beach-nature-v2.webp",
   },
   {
     id: "kuwait-ras-ajuza-nature-v2",
@@ -837,6 +863,7 @@ export const kuwaitNatureV2: POI[] = [
       ro: ["Lungimea promontoriului: aproximativ 1,5 km", "Altitudine: 12 m", "Număr de specii de fosile: peste 40", "Număr de perechi de păsări cuibăritoare: aproximativ 50", "Distanța până la Kuwait City: 50 km", "Suprafață protejată: 0,5 km²"],
       en: ["Promontory length: approximately 1.5 km", "Elevation: 12 m above sea level", "Number of fossil species: over 40", "Number of nesting bird pairs: about 50", "Distance to Kuwait City: 50 km", "Protected area: 0.5 km²"],
     },
+    image: "/poi-images/kuwait-ras-ajuza-nature-v2.webp",
   },
   {
     id: "kuwait-bnaider-coast-nature-v2",
@@ -868,6 +895,7 @@ export const kuwaitNatureV2: POI[] = [
       ro: ["Lungime: aproximativ 7 km", "Adâncimea apei: 0,5-2 m", "Temperatura apei: 22-33°C", "Număr de case de vacanță: aproximativ 20", "Distanța până la Kuwait City: 90 km", "Vizitatori anuali: aproximativ 40.000"],
       en: ["Length: approximately 7 km", "Water depth: 0.5-2 m", "Water temperature: 22-33°C", "Number of holiday homes: about 20", "Distance to Kuwait City: 90 km", "Annual visitors: about 40,000"],
     },
+    image: "/poi-images/kuwait-bnaider-coast-nature-v2.webp",
   },
   {
     id: "kuwait-dubayeiyah-coast-nature-v2",
@@ -899,6 +927,7 @@ export const kuwaitNatureV2: POI[] = [
       ro: ["Lungime: aproximativ 10 km", "Înălțimea stâncilor: până la 20 m", "Adâncimea apei: 1-5 m", "Specii de păsări: peste 70", "Distanța până la Kuwait City: 100 km", "Nopți de camping anual: aproximativ 5.000"],
       en: ["Length: approximately 10 km", "Cliff height: up to 20 m", "Water depth: 1-5 m", "Number of bird species: over 70", "Distance to Kuwait City: 100 km", "Annual camping nights: about 5,000"],
     },
+    image: "/poi-images/kuwait-dubayeiyah-coast-nature-v2.webp",
   },
   {
     id: "kuwait-khiran-creek-nature-area-nature-v2",
@@ -930,5 +959,6 @@ export const kuwaitNatureV2: POI[] = [
       ro: ["Lungimea pârâului: aproximativ 8 km", "Suprafața mangrovelor: 1,5 km²", "Număr de specii de pești: peste 30", "Amplitudinea mareelor: aproximativ 3 m", "Suprafața protejată: 5 km²", "Distanța până la Kuwait City: 95 km"],
       en: ["Creek length: approximately 8 km", "Mangrove area: 1.5 km²", "Number of fish species: over 30", "Tidal range: about 3 m", "Protected area size: 5 km²", "Distance to Kuwait City: 95 km"],
     },
+    image: "/poi-images/kuwait-khiran-creek-nature-area-nature-v2.webp",
   }
 ];

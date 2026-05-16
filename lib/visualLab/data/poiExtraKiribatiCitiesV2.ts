@@ -31,6 +31,7 @@ export const kiribatiCitiesV2: POI[] = [
       ro: ["Populație: circa 50.000 (2020)", "Suprafață: aproximativ 15 km²", "Altitudine maximă: 3 m deasupra nivelului mării", "Precipitații anuale: 1.500 mm", "Înființare: 1979 (independența Kiribati)", "Număr de insule locuite: 4"],
       en: ["Population: approx. 50,000 (2020)", "Area: about 15 km²", "Highest elevation: 3 m above sea level", "Annual rainfall: 1,500 mm", "Founded: 1979 (Kiribati independence)", "Number of inhabited islets: 4"],
     },
+    image: "/poi-images/kiribati-south-tarawa-cities-v2.webp",
   },
   {
     id: "kiribati-betio-cities-v2",
@@ -62,6 +63,7 @@ export const kiribatiCitiesV2: POI[] = [
       ro: ["Populație: 22.000 (2020)", "Suprafață: 1,8 km²", "Densitatea populației: 12.222/km²", "Port: 5 locuri de acostare pentru nave de marfă", "Bătălia de la Tarawa: noiembrie 1943", "Altitudine maximă: 2 m"],
       en: ["Population: 22,000 (2020)", "Area: 1.8 km²", "Population density: 12,222/km²", "Port: 5 berths for cargo vessels", "Battle of Tarawa: November 1943", "Maximum elevation: 2 m"],
     },
+    image: "/poi-images/kiribati-betio-cities-v2.webp",
   },
   {
     id: "kiribati-bikenibeu-cities-v2",
@@ -93,6 +95,7 @@ export const kiribatiCitiesV2: POI[] = [
       ro: ["Populație: 7.000 (2020)", "Distanța față de Bairiki: 5 km", "Număr de instituții de învățământ: 3", "Suprafață: circa 1 km²", "Altitudine maximă: 2 m", "Înființare: anii 1950"],
       en: ["Population: 7,000 (2020)", "Distance to Bairiki: 5 km", "Number of educational institutions: 3", "Area: about 1 km²", "Highest point: 2 m", "Established: 1950s"],
     },
+    image: "/poi-images/kiribati-bikenibeu-cities-v2.webp",
   },
   {
     id: "kiribati-teaoraereke-cities-v2",
@@ -124,6 +127,7 @@ export const kiribatiCitiesV2: POI[] = [
       ro: ["Populație: 5.000 (2020)", "Suprafață: 0,8 km²", "Număr de plantații mari de cocos: 2", "Temperatura medie: 28°C", "Precipitații anuale: 1.800 mm", "Distanța până la aeroport: 10 km"],
       en: ["Population: 5,000 (2020)", "Area: 0.8 km²", "Number of large coconut plantations: 2", "Average temperature: 28°C", "Annual rainfall: 1,800 mm", "Distance to airport: 10 km"],
     },
+    image: "/poi-images/kiribati-teaoraereke-cities-v2.webp",
   },
   {
     id: "kiribati-bairiki-cities-v2",
@@ -155,6 +159,7 @@ export const kiribatiCitiesV2: POI[] = [
       ro: ["Populație: 3.500 (2020)", "Suprafață: 0,5 km²", "Număr de clădiri guvernamentale: 10", "Altitudine maximă: 2 m", "Anul independenței: 1979", "Sediul parlamentului: Maneaba ni Maungatabu"],
       en: ["Population: 3,500 (2020)", "Area: 0.5 km²", "Number of government buildings: 10", "Highest point: 2 m", "Independence year: 1979", "Parliament building: Maneaba ni Maungatabu"],
     },
+    image: "/poi-images/kiribati-bairiki-cities-v2.webp",
   },
   {
     id: "kiribati-tabwakea-cities-v2",
@@ -186,6 +191,7 @@ export const kiribatiCitiesV2: POI[] = [
       ro: ["Populație: 3.000 (2020)", "Suprafața atolului: 388 km²", "Producția de copra: 200 tone/an", "Distanța până la Hawaii: 2.200 km", "Precipitații: 800 mm/an", "Înființare: anii 1930"],
       en: ["Population: 3,000 (2020)", "Atoll area: 388 km²", "Copra production: 200 tons/year", "Distance to Hawaii: 2,200 km", "Rainfall: 800 mm/year", "Established: 1930s"],
     },
+    image: "/poi-images/kiribati-tabwakea-cities-v2.webp",
   },
   {
     id: "kiribati-banana-cities-v2",
@@ -217,6 +223,7 @@ export const kiribatiCitiesV2: POI[] = [
       ro: ["Populație: 1.500 (2020)", "Producția de banane: 50 tone/an", "Suprafață: 0,3 km²", "Temperatura medie: 27°C", "Precipitații: 900 mm/an", "Distanța până la Tabwakea: 15 km"],
       en: ["Population: 1,500 (2020)", "Banana production: 50 tons/year", "Area: 0.3 km²", "Average temperature: 27°C", "Rainfall: 900 mm/year", "Distance to Tabwakea: 15 km"],
     },
+    image: "/poi-images/kiribati-banana-cities-v2.webp",
   },
   {
     id: "kiribati-eita-cities-v2",
@@ -248,6 +255,7 @@ export const kiribatiCitiesV2: POI[] = [
       ro: ["Populație: 3.000 (2020)", "Suprafață: 0,5 km²", "Număr de școli: 1", "Lungimea coastei cu mangrove: 2 km", "Distanța până la capitală: 2 km", "Altitudine maximă: 2 m"],
       en: ["Population: 3,000 (2020)", "Area: 0.5 km²", "Number of schools: 1", "Length of mangrove coastline: 2 km", "Distance to capital: 2 km", "Highest point: 2 m"],
     },
+    image: "/poi-images/kiribati-eita-cities-v2.webp",
   },
   {
     id: "kiribati-temwaiku-cities-v2",
@@ -279,6 +287,7 @@ export const kiribatiCitiesV2: POI[] = [
       ro: ["Populație: 2.500 (2020)", "Suprafață: 0,4 km²", "Număr de ferme agricole: 20", "Distanța până în centrul Bairiki: 6 km", "Precipitații: 1.600 mm/an", "Temperatura medie: 28°C"],
       en: ["Population: 2,500 (2020)", "Area: 0.4 km²", "Number of small farms: 20", "Distance to Bairiki center: 6 km", "Rainfall: 1,600 mm/year", "Average temperature: 28°C"],
     },
+    image: "/poi-images/kiribati-temwaiku-cities-v2.webp",
   },
   {
     id: "kiribati-bonriki-cities-v2",
@@ -310,6 +319,7 @@ export const kiribatiCitiesV2: POI[] = [
       ro: ["Populație: 1.000 (2020)", "Cod IATA al aeroportului: TRW", "Lungimea pistei: 2.011 m", "Pasageri anuali: 100.000 (2019)", "Distanța până în centrul orașului: 5 km", "Altitudine deasupra nivelului mării: 2 m"],
       en: ["Population: 1,000 (2020)", "Airport IATA code: TRW", "Runway length: 2,011 m", "Annual passengers: 100,000 (2019)", "Distance to city center: 5 km", "Elevation above sea level: 2 m"],
     },
+    image: "/poi-images/kiribati-bonriki-cities-v2.webp",
   },
   {
     id: "kiribati-poland-cities-v2",
@@ -341,6 +351,7 @@ export const kiribatiCitiesV2: POI[] = [
       ro: ["Populație: 400 (2020)", "Înființare: anii 1940", "Suprafață: 0,2 km²", "Distanța până la Tabwakea: 30 km", "Număr de case: 80", "Temperatura medie: 27°C"],
       en: ["Population: 400 (2020)", "Founded: 1940s", "Area: 0.2 km²", "Distance to Tabwakea: 30 km", "Number of houses: 80", "Average temperature: 27°C"],
     },
+    image: "/poi-images/kiribati-poland-cities-v2.webp",
   },
   {
     id: "kiribati-rawannawi-cities-v2",
@@ -372,6 +383,7 @@ export const kiribatiCitiesV2: POI[] = [
       ro: ["Populație: 1.200 (2020)", "Suprafața Marakei: 13,5 km²", "Producția de copra: 80 tone/an", "Număr de școli: 1", "Altitudine maximă: 3 m", "Distanța până la Tarawa: 200 km"],
       en: ["Population: 1,200 (2020)", "Marakei area: 13.5 km²", "Copra production: 80 tons/year", "Number of schools: 1", "Highest point: 3 m", "Distance to Tarawa: 200 km"],
     },
+    image: "/poi-images/kiribati-rawannawi-cities-v2.webp",
   },
   {
     id: "kiribati-rungata-cities-v2",
@@ -403,5 +415,6 @@ export const kiribatiCitiesV2: POI[] = [
       ro: ["Populație: 1.000 (2020)", "Suprafața Tabuaeran: 33 km²", "Producția de alge marine: 50 tone/an", "Lungimea pistei: 1.200 m", "Distanța până la Kiritimati: 200 km", "Stație de cablu: construită în 1902"],
       en: ["Population: 1,000 (2020)", "Tabuaeran area: 33 km²", "Seaweed production: 50 tons/year", "Airstrip length: 1,200 m", "Distance to Kiritimati: 200 km", "Cable station: built in 1902"],
     },
+    image: "/poi-images/kiribati-rungata-cities-v2.webp",
   }
 ];

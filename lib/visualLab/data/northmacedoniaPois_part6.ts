@@ -32,7 +32,8 @@ export const mkPoisPart6: POI[] = [
       hu: ["2540 méter magas.", "Tiszta napokon állítólag Szalonikiig is el lehet látni.", "A tapasztalt hegymászók kedvelt célpontja."],
       ro: ["Altitudine de 2.540 de metri.", "În zilele senine, se spune că se poate vedea până la Salonic.", "O destinație populară pentru alpiniștii experimentați."],
       en: ["Elevation of 2,540 meters.", "On clear days, it's said one can see as far as Thessaloniki.", "A popular destination for experienced alpinists."]
-    }
+    },
+    image: "/poi-images/MK-051-solunska-glava.webp",
   },
   {
     id: "MK-051-babuna-river-source",
@@ -63,7 +64,8 @@ export const mkPoisPart6: POI[] = [
       hu: ["Természeti szépségéről ismert.", "A közelben lenyűgöző barlangok találhatók.", "A víz jéghideg és tiszta."],
       ro: ["Cunoscut pentru frumusețea sa naturală.", "Există peșteri impresionante în apropiere.", "Apa este rece ca gheața și limpede."],
       en: ["Known for its natural beauty.", "Features impressive caves nearby.", "The water is ice-cold and clear."]
-    }
+    },
+    image: "/poi-images/MK-051-babuna-river-source.webp",
   },
   // MK-052: Rosoman
   {
@@ -95,7 +97,8 @@ export const mkPoisPart6: POI[] = [
       hu: ["Macedonia Salutaris római provincia fővárosa volt.", "Jól megőrzött mozaikjairól és amfiteátrumáról ismert.", "Az Erigon és Axius (Crna és Vardar) folyók találkozásánál fekszik."],
       ro: ["Capitala provinciei romane Macedonia Salutaris.", "Cunoscut pentru mozaicurile sale bine conservate și amfiteatru.", "Situat la confluența râurilor Erigon și Axius (Crna și Vardar)."],
       en: ["Capital of the Roman province Macedonia Salutaris.", "Famous for its well-preserved mosaics and amphitheater.", "Located at the confluence of the Erigon and Axius (Crna and Vardar) rivers."]
-    }
+    },
+    image: "/poi-images/MK-052-stobi-archaeological-site.webp",
   },
   {
     id: "MK-052-rosoman-orchards",
@@ -126,7 +129,8 @@ export const mkPoisPart6: POI[] = [
       hu: ["A gyümölcsök kiváló minőségéről ismert.", "A tájképet hatalmas ültetvények határozzák meg.", "A község fontos gazdasági tényezője."],
       ro: ["Cunoscute pentru calitatea ridicată a fructelor.", "Modelează peisajul prin plantații vaste.", "Factor economic important pentru municipalitate."],
       en: ["Known for the high quality of the fruit.", "Shapes the landscape with vast plantations.", "Key economic factor for the municipality."]
-    }
+    },
+    image: "/poi-images/MK-052-rosoman-orchards.webp",
   },
   // MK-053: Negotino
   {
@@ -158,7 +162,8 @@ export const mkPoisPart6: POI[] = [
       hu: ["A város legismertebb jelképe.", "Eredetileg őrtoronyként szolgált.", "Egy tűzvész után restaurálták."],
       ro: ["Cel mai cunoscut simbol al orașului.", "A servit inițial ca turn de pază.", "A fost restaurat după un incendiu."],
       en: ["The most famous landmark of the city.", "Originally served as a watchtower.", "Restored after a fire."]
-    }
+    },
+    image: "/poi-images/MK-053-negotino-clock-tower.webp",
   },
   {
     id: "MK-053-antigona-archaeological-site",
@@ -189,7 +194,8 @@ export const mkPoisPart6: POI[] = [
       hu: ["Fontos erőd volt a délre vezető úton.", "A régészeti leletek gazdag történelmet bizonyítanak.", "A modern Negotino közelében található."],
       ro: ["A fost o fortăreață importantă pe drumul spre sud.", "Descoperirile arheologice atestă o istorie bogată.", "Situat în apropierea orașului modern Negotino."],
       en: ["Was an important fortress on the road to the south.", "Archaeological finds prove a rich history.", "Located near modern Negotino."]
-    }
+    },
+    image: "/poi-images/MK-053-antigona-archaeological-site.webp",
   },
   // MK-054: Drugovo
   {
@@ -221,7 +227,8 @@ export const mkPoisPart6: POI[] = [
       hu: ["Többször elpusztult és újjáépült.", "Egy csodatevő ikont őriznek itt.", "Vallási gyülekezetek központja."],
       ro: ["A fost distrusă și reconstruită de mai multe ori.", "Adăpostește o icoană făcătoare de minuni.", "Un centru pentru adunări religioase."],
       en: ["Destroyed and rebuilt multiple times.", "Houses a miraculous icon.", "A center for religious gatherings."]
-    }
+    },
+    image: "/poi-images/MK-054-monastery-kicevo-annunciation.webp",
   },
   {
     id: "MK-054-treska-river-canyon",
@@ -252,7 +259,8 @@ export const mkPoisPart6: POI[] = [
       hu: ["Népszerű a természetfotósok körében.", "Csendes helyeket kínál az elmélkedéshez.", "Gazdag helyi flórában."],
       ro: ["Popular pentru fotografia de natură.", "Oferă locuri liniștite pentru reflecție.", "Bogat în floră locală."],
       en: ["Popular for nature photography.", "Offers quiet spots for reflection.", "Rich in local flora."]
-    }
+    },
+    image: "/poi-images/MK-054-treska-river-canyon.webp",
   },
   // MK-055: Gazi Baba
   {
@@ -284,7 +292,8 @@ export const mkPoisPart6: POI[] = [
       hu: ["Kocogók és kerékpárosok kedvelt célpontja.", "Menedéket nyújt a városi zaj elől.", "Fontos Szkopje levegőminősége szempontjából."],
       ro: ["O destinație populară pentru joggeri și bicicliști.", "Oferă un refugiu de zgomotul urban.", "Important pentru calitatea aerului din Skopje."],
       en: ["A popular destination for joggers and cyclists.", "Offers a retreat from urban noise.", "Crucial for the air quality in Skopje."]
-    }
+    },
+    image: "/poi-images/MK-055-gazi-baba-park.webp",
   },
   {
     id: "MK-055-skopje-fair",
@@ -315,7 +324,8 @@ export const mkPoisPart6: POI[] = [
       hu: ["Számos nemzetközi esemény helyszíne.", "Fontos találkozóhely az üzleti élet szereplői számára.", "Hozzájárul a gazdasági fejlődéshez."],
       ro: ["Locul a numeroase evenimente internaționale.", "Un punct de întâlnire important pentru oamenii de afaceri.", "Contribuie la dezvoltarea economică."],
       en: ["Venue for numerous international events.", "Important meeting point for business people.", "Contributes to economic development."]
-    }
+    },
+    image: "/poi-images/MK-055-skopje-fair.webp",
   },
   // MK-056: Kruševo
   {
@@ -347,7 +357,8 @@ export const mkPoisPart6: POI[] = [
       hu: ["Futurisztikus építészete világszerte ismert.", "A macedón szabadságharcnak szentelve.", "Kilátást nyújt a Balkán legmagasabban fekvő városára."],
       ro: ["Arhitectura sa futuristă este cunoscută în întreaga lume.", "Dedicat luptei macedonene pentru libertate.", "Oferă o vedere asupra celui mai înalt oraș din Balcani."],
       en: ["Its futuristic architecture is world-renowned.", "Dedicated to the Macedonian struggle for freedom.", "Overlooks the highest town in the Balkans."]
-    }
+    },
+    image: "/poi-images/MK-056-makedonium.webp",
   },
   {
     id: "MK-056-tose-proeski-memorial",
@@ -378,7 +389,8 @@ export const mkPoisPart6: POI[] = [
       hu: ["Toše Proeskit a 'Balkán Elvisének' tartották.", "Az emlékhely az egész régióból vonzza a rajongókat.", "Személyes tárgyakat és kitüntetéseket őriznek itt."],
       ro: ["Toše Proeski a fost considerat 'Elvis al Balcanilor'.", "Casa memorială atrage fani din întreaga regiune.", "Adăpostește obiecte personale și premii."],
       en: ["Toše Proeski was regarded as the 'Elvis of the Balkans'.", "The memorial attracts fans from the entire region.", "Houses personal items and awards."]
-    }
+    },
+    image: "/poi-images/MK-056-tose-proeski-memorial.webp",
   },
   // MK-057: Demir Hisar
   {
@@ -410,7 +422,8 @@ export const mkPoisPart6: POI[] = [
       hu: ["Középkori irodalmi iskolájáról ismert.", "A macedón kultúra megőrzésének fontos központja.", "Nyugalmat és lelki felfrissülést kínál."],
       ro: ["Cunoscută pentru școala sa literară din evul mediu.", "Centru important pentru păstrarea culturii macedonene.", "Oferă liniște și reînnoire spirituală."],
       en: ["Known for its literary school in the Middle Ages.", "Significant center for the preservation of Macedonian culture.", "Offers peace and spiritual renewal."]
-    }
+    },
+    image: "/poi-images/MK-057-monastery-slepce.webp",
   },
   {
     id: "MK-057-zeleznicka-monastery",
@@ -441,7 +454,8 @@ export const mkPoisPart6: POI[] = [
       hu: ["A Crna-folyó forrásának közelében található.", "Érintetlen természet veszi körül.", "Gazdag történelemmel rendelkező hely."],
       ro: ["Situată în apropierea izvorului râului Crna.", "Înconjurată de natură virgină.", "Un loc cu o istorie bogată."],
       en: ["Located near the source of the Crna river.", "Surrounded by untouched nature.", "A place with a rich history."]
-    }
+    },
+    image: "/poi-images/MK-057-zeleznicka-monastery.webp",
   },
   // MK-058: Aerodrom
   {
@@ -473,7 +487,8 @@ export const mkPoisPart6: POI[] = [
       hu: ["Számos nemzetközi kézilabda-mérkőzés helyszíne.", "Aerodrom község sportéletének központja.", "Kiváló létesítményeket kínál a sportolók számára."],
       ro: ["Locul de desfășurare a multor meciuri internaționale de handbal.", "Centrul sportului în municipalitatea Aerodrom.", "Oferă facilități excelente pentru sportivi."],
       en: ["Venue for many international handball matches.", "Center of sports in the Aerodrom municipality.", "Provides excellent facilities for athletes."]
-    }
+    },
+    image: "/poi-images/MK-058-jane-sandanski-arena.webp",
   },
   {
     id: "MK-058-park-of-airplanes",
@@ -504,7 +519,8 @@ export const mkPoisPart6: POI[] = [
       hu: ["A helyiek népszerű találkozóhelye.", "A község nevét szimbolizálja (Aerodrom = repülőtér).", "Zöld területeket kínál a kikapcsolódáshoz."],
       ro: ["Un loc de întâlnire popular pentru localnici.", "Simbolizează numele municipalității (Aerodrom = aeroport).", "Oferă spații verzi pentru relaxare."],
       en: ["A popular meeting spot for residents.", "Symbolizes the municipality's name (Aerodrom = airfield).", "Provides green spaces for relaxation."]
-    }
+    },
+    image: "/poi-images/MK-058-park-of-airplanes.webp",
   },
   // MK-059: Studeničani
   {
@@ -536,7 +552,8 @@ export const mkPoisPart6: POI[] = [
       hu: ["Kilátást nyújt a folyóvölgyre.", "Ideális rövid természetjáró sétákhoz.", "Meghatározza a település karakterét."],
       ro: ["Oferă o vedere asupra văii râului.", "Ideal pentru scurte plimbări în natură.", "Definește caracterul localității."],
       en: ["Provides a view of the river valley.", "Ideal for short nature walks.", "Shapes the character of the settlement."]
-    }
+    },
+    image: "/poi-images/MK-059-marjan-mountain.webp",
   },
   {
     id: "MK-059-kadina-river-valley",
@@ -567,7 +584,8 @@ export const mkPoisPart6: POI[] = [
       hu: ["Népszerű a horgászok és a kempingezők körében.", "Tiszta vizet és friss levegőt kínál.", "Nyugodt hely távol a várostól."],
       ro: ["Populară printre pescari și excursioniști.", "Oferă apă limpede și aer curat.", "Un loc de liniște departe de oraș."],
       en: ["Popular among anglers and campers.", "Offers clear water and fresh air.", "A place of tranquility away from the city."]
-    }
+    },
+    image: "/poi-images/MK-059-kadina-river-valley.webp",
   },
   // MK-060: Kisela Voda
   {
@@ -599,7 +617,8 @@ export const mkPoisPart6: POI[] = [
       hu: ["A víz magas ásványianyag-tartalmáról ismert.", "A helyi lakosság régóta használja.", "A negyed egyik jelképe."],
       ro: ["Cunoscut pentru conținutul ridicat de minerale al apei.", "Utilizat de mult timp de populația locală.", "Un simbol al cartierului."],
       en: ["Known for the high mineral content of the water.", "Long used by the local population.", "A landmark of the neighborhood."]
-    }
+    },
+    image: "/poi-images/MK-060-mineral-water-spring.webp",
   },
   {
     id: "MK-060-st-george-monastery-kisela-voda",
@@ -630,7 +649,8 @@ export const mkPoisPart6: POI[] = [
       hu: ["Az elmélkedés helyszíne a közösség számára.", "Nyugodt légköréről ismert.", "Hagyományos vallási ünnepek helyszíne."],
       ro: ["Oferă un loc de reflecție pentru comunitate.", "Cunoscută pentru atmosfera sa liniștită.", "Locul unor sărbători religioase tradiționale."],
       en: ["Provides a place of reflection for the community.", "Known for its peaceful atmosphere.", "Venue for traditional religious celebrations."]
-    }
+    },
+    image: "/poi-images/MK-060-st-george-monastery-kisela-voda.webp",
   }
 ];
 

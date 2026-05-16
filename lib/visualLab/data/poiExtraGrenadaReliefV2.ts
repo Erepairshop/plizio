@@ -31,6 +31,7 @@ export const grenadaReliefV2: POI[] = [
       ro: ["Înălțimea dealului: 200 de metri.", "Suprafața zonei de conservare: 1500 de hectare.", "Distanța până în centrul orașului St. George's: 3 km.", "Precipitații anuale: 1800 mm.", "Lungimea totală a traseelor de drumeție: 5 km.", "Plantația a fost fondată în secolul al XVIII-lea."],
       en: ["Height: 200 meters above sea level.", "Grand Etang Forest Reserve area: 1,500 hectares.", "Distance to St. George's city center: 3 km.", "Annual precipitation: 1,800 mm.", "Total hiking trail length: 5 km.", "Original plantation established in the 18th century."],
     },
+    image: "/poi-images/grenada-mount-granby-relief-v2.webp",
   },
   {
     id: "grenada-mount-qua-qua-relief-v2",
@@ -62,6 +63,7 @@ export const grenadaReliefV2: POI[] = [
       ro: ["Înălțimea muntelui: 700 de metri.", "Parcul Național Grand Etang a fost înființat în 1990.", "Suprafața parcului: 1500 de hectare.", "Lungimea traseului de drumeție: 3 km.", "Diferența de nivel: 300 de metri.", "Temperatura medie pe vârf: 20 °C."],
       en: ["Elevation: 700 meters above sea level.", "Grand Etang National Park established in 1990.", "Park area: 1,500 hectares.", "Hiking trail length: 3 km.", "Elevation gain: 300 meters.", "Average summit temperature: 20°C."],
     },
+    image: "/poi-images/grenada-mount-qua-qua-relief-v2.webp",
   },
   {
     id: "grenada-fedons-camp-relief-v2",
@@ -93,6 +95,7 @@ export const grenadaReliefV2: POI[] = [
       ro: ["Altitudinea sitului: 600 de metri.", "Revolta Fedon a durat din 1795 până în 1796.", "Monumentul a fost ridicat în 1995.", "Distanța până la lacul Grand Etang: 2 km.", "Traseul de drumeție: 4 km.", "Forțele rebele erau formate din aproximativ 100 de oameni."],
       en: ["Elevation: 600 meters.", "Fedon Rebellion lasted from 1795 to 1796.", "Monument erected in 1995.", "Distance to Grand Etang Lake: 2 km.", "Hiking trail length: 4 km.", "Rebel force consisted of about 100 men."],
     },
+    image: "/poi-images/grenada-fedons-camp-relief-v2.webp",
   },
   {
     id: "grenada-mount-lebanon-relief-v2",
@@ -124,6 +127,7 @@ export const grenadaReliefV2: POI[] = [
       ro: ["Altitudinea muntelui: 400 de metri.", "Suprafața zonei de conservare: 800 de hectare.", "3 cascade în zonă.", "Plantațiile de cacao acoperă 50 de hectare.", "Distanța până la coastă: 5 km.", "Situat la 10 km nord de Grenville."],
       en: ["Elevation: 400 meters.", "Forest reserve area: 800 hectares.", "3 waterfalls in the vicinity.", "Cacao plantations cover 50 hectares.", "Distance to coast: 5 km.", "Located 10 km north of Grenville."],
     },
+    image: "/poi-images/grenada-mount-lebanon-relief-v2.webp",
   },
   {
     id: "grenada-high-north-relief-v2",
@@ -155,6 +159,7 @@ export const grenadaReliefV2: POI[] = [
       ro: ["Altitudinea: 200-300 de metri.", "Suprafața regiunii: aproximativ 50 km².", "Producția de banane: 5000 de tone pe an.", "Numărul fermelor agricole: 200.", "Densitatea populației: 30 locuitori/km².", "Precipitații anuale medii: 2000 mm."],
       en: ["Elevation range: 200-300 meters.", "Region area: approximately 50 km².", "Annual banana production: 5,000 tons.", "Number of farms: 200.", "Population density: 30 inhabitants per km².", "Average annual rainfall: 2,000 mm."],
     },
+    image: "/poi-images/grenada-high-north-relief-v2.webp",
   },
   {
     id: "grenada-levera-hill-relief-v2",
@@ -186,6 +191,7 @@ export const grenadaReliefV2: POI[] = [
       ro: ["Înălțimea dealului: 100 de metri.", "Lungimea traseului de drumeție: 1 km.", "De pe vârf se văd 5 insule.", "Suprafața parcului: 450 de hectare.", "Distanța până la cea mai apropiată plajă: 500 m.", "30 de specii de păsări au fost înregistrate pe deal."],
       en: ["Elevation: 100 meters.", "Hiking trail length: 1 km.", "5 islands visible from summit.", "Park area: 450 hectares.", "Distance to nearest beach: 500 meters.", "30 bird species recorded on the hill."],
     },
+    image: "/poi-images/grenada-levera-hill-relief-v2.webp",
   },
   {
     id: "grenada-south-east-mountain-relief-v2",
@@ -217,6 +223,7 @@ export const grenadaReliefV2: POI[] = [
       ro: ["Înălțimea muntelui: 300 de metri.", "Plantațiile de cocos acoperă 100 de hectare.", "Distanța până la St. David's: 3 km.", "Temperatura medie anuală: 25 °C.", "Precipitații anuale: 2000 mm.", "Trasee de drumeție marcate: 10 km."],
       en: ["Elevation: 300 meters.", "Coconut plantations cover 100 hectares.", "Distance to St. David's: 3 km.", "Average annual temperature: 25°C.", "Annual rainfall: 2,000 mm.", "Marked hiking trails: 10 km."],
     },
+    image: "/poi-images/grenada-south-east-mountain-relief-v2.webp",
   },
   {
     id: "grenada-morne-fendue-relief-v2",
@@ -248,5 +255,6 @@ export const grenadaReliefV2: POI[] = [
       ro: ["Construită în anul 1908", "Realizată din pietre de râu selecționate manual", "Fosta reședință a lui Betty Mascoll", "Situată în apropierea orașului Sauteurs", "Renumită pentru preparatul tradițional 'Oil Down'", "Clădirea a supraviețuit mai multor uragane majore"],
       en: ["Built in 1908", "Constructed using hand-cut river stones", "Former home of the late Betty Mascoll", "Located near the town of Sauteurs", "Famous for serving the national dish 'Oil Down'", "The structure has survived several major hurricanes"],
     },
+    image: "/poi-images/grenada-morne-fendue-relief-v2.webp",
   }
 ];

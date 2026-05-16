@@ -31,6 +31,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["populație: aprox. 1,2 milioane", "anul înființării: 1958", "distanța până la coastă: 4 km", "aeroport: Nouakchott–Oumtounsy (deschis în 2016)", "port: Port de l'Amitié (construit în 1986)", "suprafață: cca. 1.000 km²"],
       en: ["population: approx. 1.2 million", "founded: 1958", "distance to coast: 4 km", "airport: Nouakchott–Oumtounsy (opened 2016)", "port: Port de l'Amitié (built 1986)", "area: approx. 1,000 km²"],
     },
+    image: "/poi-images/mauritania-nouakchott-cities-v2.webp",
   },
   {
     id: "mauritania-nouadhibou-cities-v2",
@@ -62,6 +63,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["populație: aprox. 130.000", "port: Port de Nouadhibou", "cale ferată spre Zouérat (650 km)", "cimitir de nave: peste 300 epave", "aeroport: Nouadhibou International", "principalul export: minereu de fier"],
       en: ["population: approx. 130,000", "port: Port de Nouadhibou", "railway to Zouérat (650 km)", "ship graveyard: over 300 wrecks", "airport: Nouadhibou International", "main export: iron ore"],
     },
+    image: "/poi-images/mauritania-nouadhibou-cities-v2.webp",
   },
   {
     id: "mauritania-kiffa-cities-v2",
@@ -93,6 +95,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["populație: aprox. 60.000", "regiunea: Assaba", "altitudine: cca. 150 m", "aeroport: Aeroportul Kiffa", "produse principale: mei, sorg, animale", "distanța până la Nouakchott: aprox. 500 km"],
       en: ["population: approx. 60,000", "region: Assaba", "elevation: approx. 150 m", "airport: Kiffa Airport", "main products: millet, sorghum, livestock", "distance to Nouakchott: approx. 500 km"],
     },
+    image: "/poi-images/mauritania-kiffa-cities-v2.webp",
   },
   {
     id: "mauritania-kaedi-cities-v2",
@@ -124,6 +127,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["populație: aprox. 50.000", "regiunea: Gorgol", "locație: pe râul Senegal", "aeroport: Aeroportul Kaédi", "universitate: Université de Gorgol", "distanța până la coastă: aprox. 100 km"],
       en: ["population: approx. 50,000", "region: Gorgol", "location: on Senegal River", "airport: Kaédi Airport", "university: Université de Gorgol", "distance to coast: approx. 100 km"],
     },
+    image: "/poi-images/mauritania-kaedi-cities-v2.webp",
   },
   {
     id: "mauritania-rosso-cities-v2",
@@ -155,6 +159,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["populație: aprox. 50.000", "regiunea: Trarza", "punct de trecere a frontierei cu Senegal", "legătură cu feribotul către Senegal", "aeroport: Aeroportul Rosso", "altitudine: cca. 10 m"],
       en: ["population: approx. 50,000", "region: Trarza", "border crossing to Senegal", "ferry connection to Senegal", "airport: Rosso Airport", "elevation: approx. 10 m"],
     },
+    image: "/poi-images/mauritania-rosso-cities-v2.webp",
   },
   {
     id: "mauritania-zouerat-cities-v2",
@@ -186,6 +191,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["populație: aprox. 40.000", "cale ferată către Nouadhibou: 650 km", "producția anuală de fier: cca. 12 milioane tone", "compania minieră: SNIM", "altitudine: cca. 350 m", "distanța până la Nouakchott: 650 km"],
       en: ["population: approx. 40,000", "railway to Nouadhibou: 650 km", "annual iron production: approx. 12 million tons", "mining company: SNIM", "elevation: approx. 350 m", "distance to Nouakchott: 650 km"],
     },
+    image: "/poi-images/mauritania-zouerat-cities-v2.webp",
   },
   {
     id: "mauritania-atâr-cities-v2",
@@ -217,6 +223,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["populație: aprox. 25.000", "regiunea: Adrar", "altitudine: cca. 300 m", "aeroport: Aeroportul Internațional Atar", "distanța până la Chinguetti: aprox. 40 km", "producția de curmale: semnificativă"],
       en: ["population: approx. 25,000", "region: Adrar", "elevation: approx. 300 m", "airport: Atar International Airport", "distance to Chinguetti: approx. 40 km", "date production: significant"],
     },
+    image: "/poi-images/mauritania-atâr-cities-v2.webp",
   },
   {
     id: "mauritania-selibaby-cities-v2",
@@ -248,6 +255,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["populație: aprox. 15.000", "regiunea: Guidimaka", "râul: Karakoro", "aeroport: Aeroportul Sélibaby", "altitudine: cca. 100 m", "distanța până la Nouakchott: aprox. 600 km"],
       en: ["population: approx. 15,000", "region: Guidimaka", "river: Karakoro", "airport: Sélibaby Airport", "elevation: approx. 100 m", "distance to Nouakchott: approx. 600 km"],
     },
+    image: "/poi-images/mauritania-selibaby-cities-v2.webp",
   },
   {
     id: "mauritania-tidjikja-cities-v2",
@@ -279,6 +287,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["populație: aprox. 10.000", "regiunea: Tagant", "altitudine: cca. 350 m", "aeroport: Aeroportul Tidjikja", "producția de curmale: semnificativă", "distanța până la Nouakchott: aprox. 500 km"],
       en: ["population: approx. 10,000", "region: Tagant", "elevation: approx. 350 m", "airport: Tidjikja Airport", "date production: significant", "distance to Nouakchott: approx. 500 km"],
     },
+    image: "/poi-images/mauritania-tidjikja-cities-v2.webp",
   },
   {
     id: "mauritania-tintane-cities-v2",
@@ -310,6 +319,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["populație: aprox. 10.000", "regiunea: Hodh El Gharbi", "altitudine: cca. 200 m", "distanța până la Mali: aproape", "principala activitate economică: creșterea animalelor", "alimentare cu apă: limitată"],
       en: ["population: approx. 10,000", "region: Hodh El Gharbi", "elevation: approx. 200 m", "distance to Mali: near", "main economy: livestock", "water supply: limited"],
     },
+    image: "/poi-images/mauritania-tintane-cities-v2.webp",
   },
   {
     id: "mauritania-akjoujt-cities-v2",
@@ -341,6 +351,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["populație: aprox. 8.000", "regiunea: Inchiri", "minerit: cupru", "aeroport: Aeroportul Akjoujt", "altitudine: cca. 200 m", "distanța până la Nouakchott: aprox. 250 km"],
       en: ["population: approx. 8,000", "region: Inchiri", "mining: copper", "airport: Akjoujt Airport", "elevation: approx. 200 m", "distance to Nouakchott: approx. 250 km"],
     },
+    image: "/poi-images/mauritania-akjoujt-cities-v2.webp",
   },
   {
     id: "mauritania-nema-cities-v2",
@@ -372,6 +383,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["populație: aprox. 15.000", "regiunea: Hodh El Chargui", "granița cu Mali: aproape", "aeroport: Aeroportul Néma", "altitudine: cca. 300 m", "distanța până la Nouakchott: aprox. 800 km"],
       en: ["population: approx. 15,000", "region: Hodh El Chargui", "border with Mali: near", "airport: Néma Airport", "elevation: approx. 300 m", "distance to Nouakchott: approx. 800 km"],
     },
+    image: "/poi-images/mauritania-nema-cities-v2.webp",
   },
   {
     id: "mauritania-boghe-cities-v2",
@@ -403,6 +415,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["populație: aprox. 20.000", "regiunea: Brakna", "locație: pe râul Senegal", "port: port fluvial mic", "altitudine: cca. 10 m", "culturi: orez, trestie de zahăr"],
       en: ["population: approx. 20,000", "region: Brakna", "location: on Senegal River", "port: small river port", "elevation: approx. 10 m", "crops: rice, sugar cane"],
     },
+    image: "/poi-images/mauritania-boghe-cities-v2.webp",
   },
   {
     id: "mauritania-ouadane-cities-v2",
@@ -434,6 +447,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["Ouadane a fost fondat în secolul al XI-lea.", "Populația estimată în 2020: 3.800 de locuitori.", "Suprafața orașului este de aproximativ 2,5 km².", "Altitudinea medie: 380 m deasupra nivelului mării.", "Numărul mediu de zile cu precipitații pe an: sub 30.", "Distanța până la capitala Nouakchott: circa 600 km."],
       en: ["Founded in 1050, Ouadane is one of the oldest cities in Mauritania.", "The town covers an area of approximately 3 km².", "Its elevation is about 380 m above sea level.", "The population in 2013 was 3,400 inhabitants.", "Ouadane has an average annual temperature of 28°C.", "The Richat Structure, a geological dome, lies 5 km northwest."],
     },
+    image: "/poi-images/mauritania-ouadane-cities-v2.webp",
   },
   {
     id: "mauritania-chinguetti-cities-v2",
@@ -465,6 +479,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["Chinguetti a fost fondat în secolul al XIII-lea.", "Populația estimativă: 4.500 locuitori.", "Orașul are 5 biblioteci principale cu manuscrise.", "Moscheea veche are un minaret de 15 m înălțime.", "Altitudinea medie: 450 m deasupra nivelului mării.", "Precipitații medii anuale: sub 100 mm."],
       en: ["Chinguetti was founded in the 13th century (around 1220).", "It holds over 5,000 manuscripts across multiple libraries.", "The old mosque dates to 1260 CE.", "Population: approximately 4,500 (2013 census).", "Average annual rainfall: less than 100 mm.", "Elevation: 450 m above sea level."],
     },
+    image: "/poi-images/mauritania-chinguetti-cities-v2.webp",
   },
   {
     id: "mauritania-fderik-cities-v2",
@@ -496,6 +511,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["Populația orașului: 15.000 locuitori (estimare 2020).", "Altitudine: 300 m deasupra nivelului mării.", "Anul fondării: 1952.", "Producția anuală de minereu de fier: peste 12 milioane de tone.", "Temperatura medie anuală: 29°C.", "Distanța până la Zouérat: 30 km."],
       en: ["Founded in 1952 as a mining settlement.", "Population: approximately 15,000.", "Elevation: 300 m above sea level.", "Annual rainfall: less than 50 mm.", "Operated by SNIM, the national mining company.", "Distance to Zouérat: 30 km."],
     },
+    image: "/poi-images/mauritania-fderik-cities-v2.webp",
   },
   {
     id: "mauritania-aoun-cities-v2",
@@ -527,6 +543,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["Populația: aprox. 20.000 locuitori.", "Altitudine: 250 m deasupra nivelului mării.", "Anul fondării: 1972.", "Precipitații medii anuale: 300 mm.", "Temperatura medie anuală: 28°C.", "Distanța până la Nouakchott: 700 km."],
       en: ["Founded in the early 1970s.", "Population: approximately 20,000.", "Elevation: 250 m above sea level.", "Annual rainfall: 300 mm.", "Capital of Hodh El Gharbi region since 1975.", "Distance from Nouakchott: 700 km."],
     },
+    image: "/poi-images/mauritania-aoun-cities-v2.webp",
   },
   {
     id: "mauritania-barkeol-cities-v2",
@@ -558,6 +575,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["Populația: 12.000 locuitori (est. 2020).", "Altitudine: 100 m deasupra nivelului mării.", "Precipitații medii anuale: 450 mm.", "Temperatura medie anuală: 27°C.", "Distanța până la Kiffa: 60 km.", "Număr de școli primare: 3."],
       en: ["Population: approximately 12,000.", "Elevation: 100 m above sea level.", "Annual rainfall: 450 mm.", "Distance from Kiffa: 60 km.", "Agricultural crops: millet and sorghum.", "Founded in the early 1900s."],
     },
+    image: "/poi-images/mauritania-barkeol-cities-v2.webp",
   },
   {
     id: "mauritania-boutilimit-cities-v2",
@@ -589,6 +607,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["Populația: 30.000 locuitori (est. 2020).", "Altitudine: 70 m deasupra nivelului mării.", "Anul înființării: aproximativ 1750.", "Precipitații medii anuale: 150 mm.", "Temperatura medie anuală: 28°C.", "Institutul Islamic înființat în 1973."],
       en: ["Founded around 1750.", "Population: approximately 30,000.", "Elevation: 70 m above sea level.", "Annual rainfall: 150 mm.", "Islamic Institute established in 1973.", "Distance from Nouakchott: 200 km."],
     },
+    image: "/poi-images/mauritania-boutilimit-cities-v2.webp",
   },
   {
     id: "mauritania-maghama-cities-v2",
@@ -620,6 +639,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["Populația: 10.000 locuitori (est. 2020).", "Altitudine: 10 m deasupra nivelului mării.", "Precipitații medii anuale: 800 mm.", "Temperatura medie anuală: 30°C.", "Distanța până la Kaédi: 30 km.", "Principalul punct de trecere a frontierei cu Senegalul."],
       en: ["Population: approximately 10,000.", "Elevation: 10 m above sea level.", "Annual rainfall: 800 mm.", "Border crossing to Senegal.", "Distance to Kaédi: 30 km.", "Port on the Senegal River."],
     },
+    image: "/poi-images/mauritania-maghama-cities-v2.webp",
   },
   {
     id: "mauritania-gouraye-cities-v2",
@@ -651,6 +671,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["Populația: 8.000 locuitori (est. 2020).", "Altitudine: 10 m deasupra nivelului mării.", "Precipitații medii anuale: 700 mm.", "Temperatura medie anuală: 29°C.", "Distanța până la Kaédi: 40 km.", "Port fluvial activ."],
       en: ["Population: approximately 8,000.", "Elevation: 10 m above sea level.", "Annual rainfall: 700 mm.", "Distance from Kaédi: 40 km.", "River port for cargo.", "Main crops: rice and maize."],
     },
+    image: "/poi-images/mauritania-gouraye-cities-v2.webp",
   },
   {
     id: "mauritania-kaedi-suburb-cities-v2",
@@ -682,6 +703,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["Populația: circa 5.000 locuitori.", "Altitudine: 20 m deasupra nivelului mării.", "Precipitații medii anuale: 600 mm.", "Aeroportul Kaédi se află în Gorgol.", "Culturile principale: orez și bumbac.", "Suburbie urbană."],
       en: ["Suburb of Kaédi.", "Population: approximately 5,000.", "Elevation: 20 m above sea level.", "Annual rainfall: 600 mm.", "Home to Kaédi Airport.", "Agricultural zone for rice and cotton."],
     },
+    image: "/poi-images/mauritania-kaedi-suburb-cities-v2.webp",
   },
   {
     id: "mauritania-wompou-cities-v2",
@@ -713,6 +735,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["Populația: 6.000 locuitori (est. 2020).", "Altitudine: 150 m deasupra nivelului mării.", "Precipitații medii anuale: 450 mm.", "Temperatura medie anuală: 28°C.", "Distanța până la Sélibaby: 50 km.", "Culturile principale: mei și arahide."],
       en: ["Population: approximately 6,000.", "Elevation: 150 m above sea level.", "Annual rainfall: 450 mm.", "Distance to Sélibaby: 50 km.", "Main crops: millet and peanuts.", "Located near the Mali border."],
     },
+    image: "/poi-images/mauritania-wompou-cities-v2.webp",
   },
   {
     id: "mauritania-bababe-cities-v2",
@@ -744,6 +767,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["Populația: 15.000 locuitori (est. 2020).", "Altitudine: 10 m deasupra nivelului mării.", "Precipitații medii anuale: 650 mm.", "Temperatura medie anuală: 29°C.", "Distanța până la Rosso: 30 km.", "Principalele culturi: orez și legume."],
       en: ["Population: approximately 15,000.", "Elevation: 10 m above sea level.", "Annual rainfall: 650 mm.", "Distance to Rosso: 30 km.", "Main crops: rice and vegetables.", "Weekly market attracts regional traders."],
     },
+    image: "/poi-images/mauritania-bababe-cities-v2.webp",
   },
   {
     id: "mauritania-tichitt-cities-v2",
@@ -775,6 +799,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["Anul fondării: secolul V î.Hr.", "Populația: 2.500 locuitori (est. 2020).", "Altitudine: 400 m deasupra nivelului mării.", "Precipitații medii anuale: < 100 mm.", "Patrimoniu UNESCO din 1996.", "Distanta până la Néma: 200 km."],
       en: ["Founded in the 5th century BCE.", "Population: approximately 2,500.", "Elevation: 400 m above sea level.", "Annual rainfall: less than 100 mm.", "UNESCO World Heritage site since 1996.", "Distance to Néma: 200 km."],
     },
+    image: "/poi-images/mauritania-tichitt-cities-v2.webp",
   },
   {
     id: "mauritania-moudjeria-cities-v2",
@@ -806,6 +831,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["Populația: 8.000 locuitori (est. 2020).", "Altitudine: 300 m deasupra nivelului mării.", "Precipitații medii anuale: 150 mm.", "Temperatura medie anuală: 30°C.", "Distanța până la Tidjikja: 80 km.", "Meșteșuguri tradiționale: piele și țesături."],
       en: ["Population: approximately 8,000.", "Elevation: 300 m above sea level.", "Annual rainfall: 150 mm.", "Distance to Tidjikja: 80 km.", "Key products: dates and leather crafts.", "Weekly market attracts nomads."],
     },
+    image: "/poi-images/mauritania-moudjeria-cities-v2.webp",
   },
   {
     id: "mauritania-oualata-cities-v2",
@@ -837,6 +863,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["Anul fondării: secolul al XI-lea.", "Populația: 3.000 locuitori (est. 2020).", "Altitudine: 350 m deasupra nivelului mării.", "Precipitații medii anuale: < 80 mm.", "Patrimoniu UNESCO din 1996.", "Distanța până la Néma: 150 km."],
       en: ["Founded in the 11th century.", "Population: approximately 3,000.", "Elevation: 350 m above sea level.", "Annual rainfall: less than 80 mm.", "UNESCO World Heritage site since 1996.", "Distance to Néma: 150 km."],
     },
+    image: "/poi-images/mauritania-oualata-cities-v2.webp",
   },
   {
     id: "mauritania-nouamghar-cities-v2",
@@ -868,6 +895,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["Populația: 8.000 locuitori (est. 2020).", "Altitudine: 5 m deasupra nivelului mării.", "Precipitații medii anuale: < 50 mm.", "Port pescăresc principal.", "Distanța până la Nouadhibou: 60 km.", "Saline naturale."],
       en: ["Population: approximately 8,000.", "Elevation: 5 m above sea level.", "Annual rainfall: less than 50 mm.", "Major fishing port.", "Distance to Nouadhibou: 60 km.", "Salt pans nearby."],
     },
+    image: "/poi-images/mauritania-nouamghar-cities-v2.webp",
   },
   {
     id: "mauritania-mbagne-cities-v2",
@@ -899,6 +927,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["Populația: 12.000 locuitori (est. 2020).", "Altitudine: 30 m deasupra nivelului mării.", "Precipitații medii anuale: 500 mm.", "Temperatura medie anuală: 28°C.", "Distanța până la Aleg: 40 km.", "Culturile principale: orez și mei."],
       en: ["Population: approximately 12,000.", "Elevation: 30 m above sea level.", "Annual rainfall: 500 mm.", "Distance to Aleg: 40 km.", "Main crops: rice and millet.", "Weekly market serves surrounding areas."],
     },
+    image: "/poi-images/mauritania-mbagne-cities-v2.webp",
   },
   {
     id: "mauritania-kankossa-cities-v2",
@@ -930,6 +959,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["Populația: 10.000 locuitori (est. 2020).", "Altitudine: 200 m deasupra nivelului mării.", "Precipitații medii anuale: 400 mm.", "Temperatura medie anuală: 29°C.", "Distanța până la Kiffa: 60 km.", "Culturile principale: mei și arahide."],
       en: ["Population: approximately 10,000.", "Elevation: 200 m above sea level.", "Annual rainfall: 400 mm.", "Distance to Kiffa: 60 km.", "Main crops: millet and peanuts.", "Weekly market day."],
     },
+    image: "/poi-images/mauritania-kankossa-cities-v2.webp",
   },
   {
     id: "mauritania-djedjeb-cities-v2",
@@ -961,6 +991,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["Populația: 5.000 locuitori (est. 2020).", "Altitudine: 350 m deasupra nivelului mării.", "Precipitații medii anuale: < 200 mm.", "Temperatura medie anuală: 30°C.", "Distanța până la Néma: 100 km.", "Culturile principale: curmale și mei."],
       en: ["Population: approximately 5,000.", "Elevation: 350 m above sea level.", "Annual rainfall: less than 200 mm.", "Distance to Néma: 100 km.", "Main crops: dates and millet.", "School and mosque only."],
     },
+    image: "/poi-images/mauritania-djedjeb-cities-v2.webp",
   },
   {
     id: "mauritania-mouit-cities-v2",
@@ -992,6 +1023,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["Populația: 3.000 locuitori (est. 2020).", "Altitudine: 100 m deasupra nivelului mării.", "Precipitații medii anuale: < 100 mm.", "Temperatura medie anuală: 29°C.", "Distanța până la Akjoujt: 50 km.", "Activități economice: creșterea animalelor."],
       en: ["Population: approximately 3,000.", "Elevation: 100 m above sea level.", "Annual rainfall: less than 100 mm.", "Distance to Akjoujt: 50 km.", "Economy: livestock herding.", "Only basic infrastructure."],
     },
+    image: "/poi-images/mauritania-mouit-cities-v2.webp",
   },
   {
     id: "mauritania-oualata-suburb-cities-v2",
@@ -1023,6 +1055,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["Populația: 1.000 locuitori (est. 2020).", "Altitudine: 350 m deasupra nivelului mării.", "Precipitații medii anuale: < 80 mm.", "Distanța față de Oualata: 2 km.", "Economia: agricultură și turism.", "Școală primară și moschee."],
       en: ["Population: approximately 1,000.", "Elevation: 350 m above sea level.", "Annual rainfall: less than 80 mm.", "Located 2 km east of Oualata.", "Economy: agriculture and tourism.", "Basic facilities: school and mosque."],
     },
+    image: "/poi-images/mauritania-oualata-suburb-cities-v2.webp",
   },
   {
     id: "mauritania-kiffa-suburb-cities-v2",
@@ -1054,6 +1087,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["Altitudine 250 m", "Populație 7.800 locuitori", "Suprafață 12 km²", "Distanța până la centrul Kiffei 4 km", "Numărul de fântâni arteziene 2", "Anul conectării la rețeaua electrică 2005"],
       en: ["Population: 12,000 (2022 estimate)", "Area: 18 km²", "Founded: 1976", "Average annual rainfall: 250 mm", "Number of primary schools: 2", "Distance to Kiffa airport: 8 km"],
     },
+    image: "/poi-images/mauritania-kiffa-suburb-cities-v2.webp",
   },
   {
     id: "mauritania-atâr-suburb-cities-v2",
@@ -1085,6 +1119,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["Populație: 5.800 locuitori", "Altitudine: 240 m", "Numărul de fântâni arteziene: 5", "Suprafața oazei: 2 km²", "Distanța până la aeroport: 3 km", "Anul înființării pieței: 1890"],
       en: ["Population: 7,000 (2023 estimate)", "Area: 3 km²", "Elevation: 230 m", "Number of date palms: 20,000", "Year of French fort construction: 1910", "Average high temperature in July: 44°C"],
     },
+    image: "/poi-images/mauritania-atâr-suburb-cities-v2.webp",
   },
   {
     id: "mauritania-rosso-est-cities-v2",
@@ -1116,6 +1151,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["Populație: 19.500 locuitori", "Suprafață: 9 km²", "Distanța până la ocean: 200 km", "Numărul de fântâni: 10", "Anul construcției portului: 1965", "Lungimea cheiului: 500 m"],
       en: ["Population: 22,000 (2023 estimate)", "Elevation: 10 m", "Annual river cargo tonnage: 200,000 tons", "Number of border crossings: 1", "Founded: 1960", "Distance to Nouakchott: 220 km"],
     },
+    image: "/poi-images/mauritania-rosso-est-cities-v2.webp",
   },
   {
     id: "mauritania-kaedi-nord-cities-v2",
@@ -1147,6 +1183,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["Populație: 15.800 locuitori", "Suprafață: 18 km²", "Altitudine: 18 m", "Numărul de canale de irigație: 8", "Anul înființării clinicii mobile: 2005", "Distanța până la aeroport: 5 km"],
       en: ["Population: 17,000 (2022 estimate)", "Area: 22 km²", "Elevation: 15 m", "Annual rice production: 10,000 tons", "Number of schools: 4", "Founded: 1972"],
     },
+    image: "/poi-images/mauritania-kaedi-nord-cities-v2.webp",
   },
   {
     id: "mauritania-nema-nord-cities-v2",
@@ -1178,6 +1215,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["Populație: 5.200 locuitori", "Altitudine: 275 m", "Numărul de fântâni: 4", "Distanța până la frontieră: 55 km", "Anul forării puțului principal: 1995", "Suprafața: 20 km²"],
       en: ["Population: 6,500 (2023 estimate)", "Elevation: 280 m", "Annual camel trade: 10,000 heads", "Distance to Mali border: 50 km", "Number of schools: 1", "Founded: 1990"],
     },
+    image: "/poi-images/mauritania-nema-nord-cities-v2.webp",
   },
   {
     id: "mauritania-akjoujt-nord-cities-v2",
@@ -1209,6 +1247,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["Populație: 8.200 locuitori", "Suprafață: 10 km²", "Altitudine: 105 m", "Anul deschiderii minei: 1971", "Numărul de puțuri de apă: 3", "Producția anuală de cupru: 35.000 tone"],
       en: ["Population: 10,500 (2023 estimate)", "Elevation: 100 m", "Copper production: 40,000 tons per year", "Gold production: 2.5 tons per year", "Number of company houses: 500", "Distance to Nouakchott: 250 km"],
     },
+    image: "/poi-images/mauritania-akjoujt-nord-cities-v2.webp",
   },
   {
     id: "mauritania-zouerat-nord-cities-v2",
@@ -1240,6 +1279,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["Populație: 15.500 locuitori", "Suprafață: 10 km²", "Altitudine: 390 m", "Producție anuală de fier: 13 milioane tone", "Numărul de școli: 4", "Anul construirii spitalului: 2010"],
       en: ["Population: 17,000 (2022 estimate)", "Elevation: 380 m", "Year founded: 1965", "Iron ore production: 14 million tons per year", "Number of SNIM houses: 1,000", "Distance to airport: 4 km"],
     },
+    image: "/poi-images/mauritania-zouerat-nord-cities-v2.webp",
   },
   {
     id: "mauritania-boghe-nord-cities-v2",
@@ -1271,6 +1311,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["Populație: 7.800 locuitori", "Suprafață: 15 km²", "Altitudine: 8 m", "Numărul de livezi: 20", "Anul înființării școlii: 1975", "Distanța până la granița cu Senegal: 3 km"],
       en: ["Population: 8,500 (2023 estimate)", "Elevation: 10 m", "Annual rice production: 6,000 tons", "Number of fishing boats: 100", "Founded: 1972", "Distance to Bogué center: 2 km"],
     },
+    image: "/poi-images/mauritania-boghe-nord-cities-v2.webp",
   },
   {
     id: "mauritania-tintane-nord-cities-v2",
@@ -1302,6 +1343,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["Populație: 4.800 locuitori", "Suprafață: 8 km²", "Altitudine: 205 m", "Numărul de fântâni: 2", "Anul înființării pieței: 1988", "Distanța până la granița cu Mali: 30 km"],
       en: ["Population: 5,200 (2022 estimate)", "Elevation: 200 m", "Number of livestock traders: 30", "Annual market days: 52", "Founded: 1983", "Distance to Tintane center: 1.5 km"],
     },
+    image: "/poi-images/mauritania-tintane-nord-cities-v2.webp",
   },
   {
     id: "mauritania-selibaby-est-cities-v2",
@@ -1333,6 +1375,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["Populație: 12.000 locuitori", "Suprafață: 18 km²", "Altitudine: 32 m", "Numărul de paturi în spital: 200", "Anul construcției spitalului: 1962", "Distanța până la frontieră: 10 km"],
       en: ["Population: 13,000 (2023 estimate)", "Elevation: 30 m", "Area: 20 km²", "Number of schools: 4", "Hospital bed capacity: 180", "Founded: 1958"],
     },
+    image: "/poi-images/mauritania-selibaby-est-cities-v2.webp",
   },
   {
     id: "mauritania-maghama-est-cities-v2",
@@ -1364,6 +1407,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["Populație: 6.800 locuitori", "Suprafață: 10 km²", "Altitudine: 6 m", "Numărul de canale de irigație: 5", "Anul înființării dispensarului: 1980", "Distanța până la râu: 0,5 km"],
       en: ["Population: 7,500 (2022 estimate)", "Elevation: 5 m", "Irrigated area: 2,000 ha", "Rice mill capacity: 250 tons per day", "Number of schools: 2", "Founded: 1970"],
     },
+    image: "/poi-images/mauritania-maghama-est-cities-v2.webp",
   },
   {
     id: "mauritania-gouraye-nord-cities-v2",
@@ -1395,6 +1439,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["Populație: 3.200 locuitori", "Suprafață: 6 km²", "Altitudine: 5 m", "Numărul de bărci de pescuit: 100", "Anul construcției debarcaderului: 2000", "Distanța până la frontieră: 1 km"],
       en: ["Population: 4,000 (2023 estimate)", "Elevation: 5 m", "Number of fishing boats: 120", "Year bridge built: 1995", "Area: 10 km²", "Distance to river: 0.5 km"],
     },
+    image: "/poi-images/mauritania-gouraye-nord-cities-v2.webp",
   },
   {
     id: "mauritania-bababe-nord-cities-v2",
@@ -1426,6 +1471,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["Populație: 2.000 locuitori", "Suprafață: 25 km²", "Altitudine: 55 m", "Numărul de fântâni: 1", "Anul forării puțului: 1985", "Distanța până la Bababé: 2 km"],
       en: ["Population: 2,800 (2022 estimate)", "Elevation: 50 m", "Area: 35 km²", "Cattle population: 5,000 head", "Number of wells: 1", "Founded: 1980"],
     },
+    image: "/poi-images/mauritania-bababe-nord-cities-v2.webp",
   },
   {
     id: "mauritania-tichitt-est-cities-v2",
@@ -1457,6 +1503,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["Populație: 1.000 locuitori", "Suprafață: 4 km²", "Altitudine: 305 m", "Numărul de palmieri: 6.000", "Anul înființării școlii: 1950", "Distanța până la centru: 1 km"],
       en: ["Population: 1,200 (2023 estimate)", "Elevation: 300 m", "Area: 6 km²", "Number of date palms: 5,000", "Oldest structure: 12th century", "UNESCO site: yes"],
     },
+    image: "/poi-images/mauritania-tichitt-est-cities-v2.webp",
   },
   {
     id: "mauritania-moudjeria-nord-cities-v2",
@@ -1488,6 +1535,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["Populație: 2.500 locuitori", "Suprafață: 12 km²", "Altitudine: 255 m", "Capacitatea parcului eolian: 5 MW", "Numărul de turbine: 10", "Anul instalării: 2015"],
       en: ["Population: 3,200 (2023 estimate)", "Elevation: 250 m", "Wind farm capacity: 5 MW", "Number of turbines: 10", "Area: 15 km²", "Founded: 1970"],
     },
+    image: "/poi-images/mauritania-moudjeria-nord-cities-v2.webp",
   },
   {
     id: "mauritania-nouamghar-nord-cities-v2",
@@ -1519,6 +1567,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["Populație: 1.500 locuitori", "Suprafață: 3 km²", "Altitudine: 5 m", "Numărul de bărci de pescuit: 60", "Anul înființării portului: 1980", "Distanța până la ocean: 0 km"],
       en: ["Population: 1,800 (2023 estimate)", "Elevation: 5 m", "Number of fishing boats: 60", "Annual fish catch: 1,200 tons", "Area: 4 km²", "Ethnic majority: Imraguen"],
     },
+    image: "/poi-images/mauritania-nouamghar-nord-cities-v2.webp",
   },
   {
     id: "mauritania-mbagne-nord-cities-v2",
@@ -1550,6 +1599,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["Populație: 4.000 locuitori", "Suprafață: 20 km²", "Altitudine: 22 m", "Numărul de fântâni: 3", "Anul instalării panourilor solare: 2018", "Distanța până la râu: 5 km"],
       en: ["Population: 4,800 (2023 estimate)", "Elevation: 20 m", "Area: 22 km²", "Solar mini-grid capacity: 50 kW", "Number of schools: 2", "Founded: 1975"],
     },
+    image: "/poi-images/mauritania-mbagne-nord-cities-v2.webp",
   },
   {
     id: "mauritania-kankossa-nord-cities-v2",
@@ -1581,6 +1631,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["Populație: 3.000 locuitori", "Suprafață: 18 km²", "Altitudine: 155 m", "Capacitatea barajului: 2 milioane m³", "Anul construcției: 1985", "Distanța până la oraș: 1 km"],
       en: ["Population: 3,800 (2023 estimate)", "Elevation: 150 m", "Area: 25 km²", "Dam capacity: 2.5 million m³", "Number of schools: 1", "Founded: 1978"],
     },
+    image: "/poi-images/mauritania-kankossa-nord-cities-v2.webp",
   },
   {
     id: "mauritania-bous-nord-cities-v2",
@@ -1612,6 +1663,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["Populație: 500 locuitori", "Suprafață: 1,5 km²", "Altitudine: 405 m", "Numărul de petroglife: 200", "Anul descoperirii: 1950", "Distanța până la centru: 0,5 km"],
       en: ["Population: 600 (2023 estimate)", "Elevation: 400 m", "Area: 2 km²", "Number of rock art sites: 50", "Oldest petroglyph: 3000 BC", "Founded: prehistoric"],
     },
+    image: "/poi-images/mauritania-bous-nord-cities-v2.webp",
   },
   {
     id: "mauritania-djedjeb-nord-cities-v2",
@@ -1643,6 +1695,7 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["Populație: 3.000 locuitori", "Suprafață: 8 km²", "Altitudine: 205 m", "Numărul de magazine: 100", "Anul înființării pieței: 1980", "Distanța până la frontieră: 5 km"],
       en: ["Population: 3,800 (2023 estimate)", "Elevation: 200 m", "Area: 12 km²", "Number of shops: 120", "Market days: Tuesday, Thursday", "Distance to Mali border: 5 km"],
     },
+    image: "/poi-images/mauritania-djedjeb-nord-cities-v2.webp",
   },
   {
     id: "mauritania-mouit-nord-cities-v2",
@@ -1674,5 +1727,6 @@ export const mauritaniaCitiesV2: POI[] = [
       ro: ["Fondată în 1975", "Populație estimată: 2.800 locuitori (2020)", "Altitudine: 350 m", "Distanța până la Zouérat: 10 km nord-vest", "Numărul de clădiri rezidențiale: aproximativ 600", "Consum de apă pe locuitor: 40 litri/zi"],
       en: ["Founded in 1975 as a dormitory town for Zouérat mine workers", "Estimated population: 2,800 (2020)", "Elevation: 350 meters above sea level", "Distance to Zouérat: 10 km northwest", "Number of residential buildings: approximately 600", "Daily water consumption per capita: 40 liters"],
     },
+    image: "/poi-images/mauritania-mouit-nord-cities-v2.webp",
   }
 ];

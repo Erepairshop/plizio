@@ -32,6 +32,7 @@ export const sanmarinoHistoryV2: POI[] = [
       ro: ["Construit în secolul al XVI-lea.", "Fațadă renascentistă cu elemente gotice.", "Fresce din secolul al XVII-lea.", "Bibliotecă cu peste 5.000 de volume.", "Costul restaurării: 2 milioane de euro.", "Astăzi găzduiește arhiva de stat."],
       en: ["Built in the 16th century.", "Renaissance facade with Gothic elements.", "17th-century frescoes.", "Library with over 5,000 volumes.", "Restoration cost: 2 million euros.", "Today houses the state archive."],
     },
+    image: "/poi-images/sanmarino-palazzo-valloni-history-v2.webp",
   },
   {
     id: "sanmarino-teatro-titano-history-v2",
@@ -64,6 +65,7 @@ export const sanmarinoHistoryV2: POI[] = [
       ro: ["Construit în 1758 în stil baroc.", "300 de locuri.", "Reconstruit după incendiul din 1825.", "Redeschis în 1830.", "Candelabru din sticlă Murano.", "50 de spectacole pe an."],
       en: ["Built in 1758 in Baroque style.", "300 seats.", "Rebuilt after 1825 fire.", "Reopened in 1830.", "Murano glass chandelier.", "50 performances per year."],
     },
+    image: "/poi-images/sanmarino-teatro-titano-history-v2.webp",
   },
   {
     id: "sanmarino-monumento-garibaldi-history-v2",
@@ -96,6 +98,7 @@ export const sanmarinoHistoryV2: POI[] = [
       ro: ["Ridicat în 1882.", "Statuie de marmură de 4 metri.", "Soclul din piatră istriană.", "Amplasare: Piazza Garibaldi.", "Garibaldi a vizitat San Marino în 1849.", "Sculptor: Stefano Galletti."],
       en: ["Erected in 1882.", "4-meter tall marble statue.", "Base made of Istrian stone.", "Location: Piazza Garibaldi.", "Garibaldi visited San Marino in 1849.", "Sculptor: Stefano Galletti."],
     },
+    image: "/poi-images/sanmarino-monumento-garibaldi-history-v2.webp",
   },
   {
     id: "sanmarino-chiesa-san-pietro-history-v2",
@@ -128,6 +131,7 @@ export const sanmarinoHistoryV2: POI[] = [
       ro: ["Construită în secolul al XII-lea.", "Stil romanic.", "Fresce din secolul al XIV-lea.", "Relicvă a Sfântului Petru.", "Barocizată în secolul al XVIII-lea.", "Protejată din 1925."],
       en: ["Built in the 12th century.", "Romanesque style.", "14th-century frescoes.", "Relic of Saint Peter.", "Baroqueized in the 18th century.", "Protected monument since 1925."],
     },
+    image: "/poi-images/sanmarino-chiesa-san-pietro-history-v2.webp",
   },
   {
     id: "sanmarino-ex-convento-san-francesco-history-v2",
@@ -160,6 +164,7 @@ export const sanmarinoHistoryV2: POI[] = [
       ro: ["Fondată în 1361.", "Secularizare în 1805.", "Crucifix de lemn din secolul al XV-lea.", "Fresce din secolul al XVI-lea în claustru.", "Bibliotecă cu 3.000 de volume.", "Astăzi muzeu de artă sacră."],
       en: ["Founded in 1361.", "Secularized in 1805.", "Wooden crucifix from the 15th century.", "16th-century frescoes in the cloister.", "Library of 3,000 volumes.", "Today a museum of sacred art."],
     },
+    image: "/poi-images/sanmarino-ex-convento-san-francesco-history-v2.webp",
   },
   {
     id: "sanmarino-porto-franco-storico-history-v2",
@@ -192,6 +197,7 @@ export const sanmarinoHistoryV2: POI[] = [
       ro: ["Construită în secolul al XVI-lea.", "Prima mențiune în 1597.", "Înălțime: 8 metri.", "Lățime: 4 metri.", "Restaurată în 1925.", "Parte a zidului cetății."],
       en: ["Built in the 16th century.", "First mentioned in 1597.", "Height: 8 meters.", "Width: 4 meters.", "Restored in 1925.", "Part of the city walls."],
     },
+    image: "/poi-images/sanmarino-porto-franco-storico-history-v2.webp",
   },
   {
     id: "sanmarino-piazza-titano-history-v2",
@@ -224,5 +230,6 @@ export const sanmarinoHistoryV2: POI[] = [
       ro: ["Altitudine: 675 de metri deasupra nivelului mării.", "Suprafață: 500 de metri pătrați.", "Amenajată în secolul al XIII-lea.", "Fântână din secolul al XIX-lea.", "Pavaj din piatră de bazalt.", "Sărbătorile de 3 septembrie."],
       en: ["Altitude: 675 meters above sea level.", "Area: 500 square meters.", "Laid out in the 13th century.", "19th-century fountain.", "Paved with basalt stones.", "Celebrations on September 3rd."],
     },
+    image: "/poi-images/sanmarino-piazza-titano-history-v2.webp",
   }
 ];

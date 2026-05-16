@@ -32,6 +32,7 @@ export const andorraEconomicV2: POI[] = [
       ro: ["Pusă în funcțiune în anul 1934", "Folosește apa din lacul Engolasters situat la 1616 m", "Asigură între 15% și 20% din necesarul național", "Găzduiește muzeul MW Museu de l'Electricitat", "Construcție monumentală realizată din granit local", "A finanțat construcția primelor drumuri moderne în țară"],
       en: ["Commenced operations in the year 1934", "Source water from Lake Engolasters at 1,616m elevation", "Generates 15-20% of Andorra's annual electricity", "Home to the MW Electricity Museum since 2002", "Built with traditional granite masonry architecture", "Linked to the creation of the first national road network"],
     },
+    image: "/poi-images/andorra-feda-power-economic-v2.webp",
   },
   {
     id: "andorra-telecom-hq-economic-v2",
@@ -64,6 +65,7 @@ export const andorraEconomicV2: POI[] = [
       ro: ["Acoperire de 100% cu fibră optică din anul 2016", "Situat în cartierul Santa Coloma din capitală", "Cunoscută anterior ca STA (serviciul de stat)", "Gestionează întreaga rețea de televiziune digitală", "A eliminat complet rețeaua de cupru în anul 2014", "Unic furnizor de telefonie mobilă și internet în țară"],
       en: ["Achieved 100% fiber-optic coverage nationwide in 2016", "Located in the Santa Coloma district of Andorra la Vella", "Formerly known as Servei de Telecomunicacions d'Andorra", "Manages the national digital terrestrial television system", "Completed the copper network shutdown in 2014", "Provides high-security cloud services for the principality"],
     },
+    image: "/poi-images/andorra-telecom-hq-economic-v2.webp",
   },
   {
     id: "andorra-epizen-mall-economic-v2",
@@ -96,6 +98,7 @@ export const andorraEconomicV2: POI[] = [
       ro: ["Inaugurat oficial în anul 2022", "Suprafață utilă de peste 27.000 de metri pătrați", "Construit pe locul vechiului magazin Punt de Trobada", "Situat în Sant Julià de Lòria, lângă frontiera spaniolă", "Design bazat pe sustenabilitate și eficiență energetică", "Găzduiește un hypermarket Carrefour de mari dimensiuni"],
       en: ["Opened to the public in the year 2022", "Total commercial area exceeds 27,000 square meters", "Built on the site of the former Punt de Trobada", "Located near the Spanish border in Sant Julià de Lòria", "Features solar panels for renewable energy production", "Home to a massive Carrefour hypermarket and flagship stores"],
     },
+    image: "/poi-images/andorra-epizen-mall-economic-v2.webp",
   },
   {
     id: "andorra-pyrenees-store-economic-v2",
@@ -128,6 +131,7 @@ export const andorraEconomicV2: POI[] = [
       ro: ["Fondat în anul 1946 de către familia Pérez", "Situat pe principala arteră comercială Avinguda Meritxell", "Cel mai mare magazin universal din Andorra", "Găzduiește branduri internaționale de lux și modă", "Renumit pentru raionul de gastronomie și delicatese", "Un motor economic pentru turismul de shopping din capitală"],
       en: ["Established in 1946 by the Pérez family", "Located on the central Avinguda Meritxell axis", "The largest and oldest department store in the country", "Features high-end luxury brands and perfumeries", "Renowned for its extensive gourmet food section", "A landmark destination for international shoppers for decades"],
     },
+    image: "/poi-images/andorra-pyrenees-store-economic-v2.webp",
   },
   {
     id: "andorra-iron-route-mine-economic-v2",
@@ -160,6 +164,7 @@ export const andorraEconomicV2: POI[] = [
       ro: ["Activitate minieră intensă în secolul al XIX-lea", "Parte integrantă din traseul cultural Ruta del Ferro", "Galerie vizitabilă cu o lungime de 30 de metri", "Situată în satul Llorts, aparținând de parohia Ordino", "Fierul a fost principalul produs de export al Andorrei", "Situl este inclus în rutele culturale ale Consiliului Europei"],
       en: ["Mainly operational during the 19th century", "Key stop on the national Iron Route (Ruta del Ferro)", "Features a 30-meter-long accessible mining gallery", "Located in the village of Llorts in the Ordino parish", "Iron was Andorra's primary export until the late 1800s", "Part of the UNESCO-linked Iron Route of the Pyrenees"],
     },
+    image: "/poi-images/andorra-iron-route-mine-economic-v2.webp",
   },
   {
     id: "andorra-river-mall-economic-v2",
@@ -192,6 +197,7 @@ export const andorraEconomicV2: POI[] = [
       ro: ["Suprafață comercială de peste 12.000 de metri pătrați", "Parte din holdingul familial Grup River", "Amplasat strategic la frontiera de sud cu Spania", "Găzduiește unul dintre cele mai mari supermarketuri din țară", "Include un centru de afaceri cu birouri moderne", "Destinație majoră pentru cumpărăturile transfrontaliere"],
       en: ["Total area of approximately 12,000 square meters", "Owned by the local family-run business, River Group", "Ideally located near the Spanish border crossing", "Features one of the most extensive supermarkets in Andorra", "Houses a business center with various professional services", "Significant contributor to employment in Sant Julià de Lòria"],
     },
+    image: "/poi-images/andorra-river-mall-economic-v2.webp",
   },
   {
     id: "andorra-franco-customs-economic-v2",
@@ -224,6 +230,7 @@ export const andorraEconomicV2: POI[] = [
       ro: ["Cea mai înaltă stație vamală între Andorra și Franța", "Situată la peste 2.000 m altitudine în Pas de la Casa", "Conexiune rutieră principală către regiunea Toulouse", "Monitorizează cotele de produse duty-free exportate", "Asigură tranzitul către tunelul Envalira", "Punct strategic pentru aprovizionarea națională din UE"],
       en: ["Highest border crossing between Andorra and France", "Located at over 2,000 meters above sea level", "Primary transit route for goods from Toulouse", "Enforces quotas on duty-free tobacco and alcohol", "Key access point near the Envalira Tunnel entrance", "Essential for the cross-border tourism economy of Pas de la Casa"],
     },
+    image: "/poi-images/andorra-franco-customs-economic-v2.webp",
   },
   {
     id: "andorra-reig-factory-economic-v2",
@@ -256,6 +263,7 @@ export const andorraEconomicV2: POI[] = [
       ro: ["Construcția a fost finalizată în anul 1909", "Găzduiește Muzeul Tutunului (Museu del Tabac) din 2003", "Aparține familiei Reig, pionieri ai economiei locale", "Tutunul a fost motorul economic al Andorrei timp de decenii", "Prezintă mașinării originale de la începutul secolului XX", "Situată în parohia sudică Sant Julià de Lòria"],
       en: ["Original factory building completed in the year 1909", "Home to the Tobacco Museum (Museu del Tabac) since 2003", "Owned by the Reig family, a key economic dynasty", "Tobacco was the main pillar of the economy until the 1950s", "Showcases original machinery and hand-rolling techniques", "Located in the heart of Sant Julià de Lòria parish"],
     },
+    image: "/poi-images/andorra-reig-factory-economic-v2.webp",
   },
   {
     id: "andorra-prat-creu-finance-economic-v2",
@@ -288,6 +296,7 @@ export const andorraEconomicV2: POI[] = [
       ro: ["Găzduiește Clădirea Administrativă a Guvernului Andorrei", "Sediu pentru marile bănci naționale (MoraBanc, Crèdit Andorrà)", "Centrul vital al serviciilor financiare reglementate", "Situat în inima capitalei Andorra la Vella", "Hub administrativ pentru instituțiile publice centrale", "Punct de acces principal către Stadionul Național"],
       en: ["Home to the Government Administrative Building", "Headquarters for major banks like Crèdit Andorrà and MoraBanc", "Primary hub for national and international financial services", "Located in the central valley of Andorra la Vella", "Nerve center for public administration and state policy", "Adjacent to the National Stadium and sports facilities"],
     },
+    image: "/poi-images/andorra-prat-creu-finance-economic-v2.webp",
   },
   {
     id: "andorra-escaldes-cogeneration-economic-v2",
@@ -320,6 +329,7 @@ export const andorraEconomicV2: POI[] = [
       ro: ["Instalația este operată de compania FEDA Ecoterm.", "Alimentează rețeaua de încălzire urbană din Escaldes-Engordany.", "Sistemul utilizează cogenerarea pentru creșterea eficienței.", "Tehnologia reduce amprenta de CO2 a sectorului clădirilor.", "Face parte din strategia andorrană de tranziție energetică.", "Centrala utilizează filtre moderne pentru controlul emisiilor."],
       en: ["The plant is operated by the company FEDA Ecoterm.", "It supplies the district heating network of Escaldes-Engordany.", "The system uses cogeneration to maximize energy efficiency.", "The technology reduces the CO2 footprint of the building sector.", "It is part of Andorra's national energy transition strategy.", "The facility uses advanced filters for emission control."],
     },
+    image: "/poi-images/andorra-escaldes-cogeneration-economic-v2.webp",
   },
   {
     id: "andorra-congress-center-economic-v2",
@@ -352,6 +362,7 @@ export const andorraEconomicV2: POI[] = [
       ro: ["Centrul este situat în inima orașului Andorra la Vella.", "Auditoriul principal are o capacitate de circa 900 de persoane.", "Dispune de o suprafață totală de 4.200 de metri pătrați.", "Facilitatea este specializată în turismul de tip MICE.", "Oferă echipamente moderne pentru traducere simultană.", "Centrul este utilizat pentru adunări politice naționale."],
       en: ["The center is located in the heart of Andorra la Vella.", "The main auditorium has a capacity for about 900 people.", "It features a total floor area of 4,200 square meters.", "The facility specializes in the MICE tourism sector.", "It offers modern simultaneous interpretation equipment.", "The center is used for major national political assemblies."],
     },
+    image: "/poi-images/andorra-congress-center-economic-v2.webp",
   },
   {
     id: "andorra-galland-factory-economic-v2",
@@ -384,6 +395,7 @@ export const andorraEconomicV2: POI[] = [
       ro: ["Tutunul a fost cel mai important produs de export al Andorrei în sec. XX.", "Fabrica Galland este situată în parohia Sant Julià de Lòria.", "Clădirea utilizează construcția tradițională din granit andorran.", "Industria tutunului a finanțat extinderea timpurie a infrastructurii.", "Andorra a menținut mult timp un monopol asupra cultivării tutunului.", "Astăzi, clădirea găzduiește adesea expoziții culturale."],
       en: ["Tobacco was Andorra's primary export during the 20th century.", "The Galland factory is located in Sant Julià de Lòria.", "The building utilizes traditional Andorran granite construction.", "The tobacco industry funded the early expansion of infrastructure.", "Andorra maintained a monopoly on tobacco cultivation for a long time.", "Today, the building often hosts various cultural exhibitions."],
     },
+    image: "/poi-images/andorra-galland-factory-economic-v2.webp",
   },
   {
     id: "andorra-textile-mill-economic-v2",
@@ -416,6 +428,7 @@ export const andorraEconomicV2: POI[] = [
       ro: ["Fabrica utiliza energia hidraulică a râului Valira d'Orient.", "Escaldes a fost în trecut centrul industriei textile andorrane.", "Lâna provenea în principal de la crescătorii locali de oi.", "Izvoarele termale erau utilizate pentru spălarea lânii.", "Unitatea a fost activă până târziu în secolul al XX-lea.", "Clădirea este un exemplu de arhitectură industrială timpurie."],
       en: ["The factory utilized the hydraulic power of the Valira d'Orient river.", "Escaldes was previously the center of the Andorran textile industry.", "The wool was primarily sourced from local sheep farmers.", "Thermal springs were utilized for washing the raw wool.", "The mill remained active well into the mid-20th century.", "The building is an example of early industrial architecture."],
     },
+    image: "/poi-images/andorra-textile-mill-economic-v2.webp",
   },
   {
     id: "andorra-sant-julia-logistics-economic-v2",
@@ -448,6 +461,7 @@ export const andorraEconomicV2: POI[] = [
       ro: ["Centrul este situat direct pe drumul principal CG-1 spre Spania.", "Este cel mai important punct de transbordare pentru importurile Andorrei.", "Vama La Farga de Moles se află la doar câțiva kilometri distanță.", "Sant Julià de Lòria este centrul logistic al țării.", "Numeroase case de expediții internaționale își au sediul aici.", "Zona include depozite frigorifice specializate pentru alimente."],
       en: ["The hub is located directly on the CG-1 main road to Spain.", "It is the most important transshipment point for Andorran imports.", "The La Farga de Moles customs post is only a few kilometers away.", "Sant Julià de Lòria serves as the country's logistics center.", "Numerous international freight forwarders are based in this area.", "The zone includes specialized cold storage facilities for food."],
     },
+    image: "/poi-images/andorra-sant-julia-logistics-economic-v2.webp",
   },
   {
     id: "andorra-engolasters-infra-economic-v2",
@@ -480,5 +494,6 @@ export const andorraEconomicV2: POI[] = [
       ro: ["Lacul de acumulare este situat la o altitudine de 1.616 metri.", "Construcția a fost finalizată în 1934 de către compania FHASA.", "Apa antrenează turbinele centralei electrice din Encamp.", "Este cel mai important rezervor de apă pentru producerea energiei.", "Barajul este construit ca un baraj de greutate.", "Sistemul colectează apă din valea Madriu-Perafita-Claror."],
       en: ["The reservoir is located at an elevation of 1,616 meters.", "Construction was completed in 1934 by the FHASA company.", "The water drives the turbines of the power plant in Encamp.", "It is the primary water reservoir for national power generation.", "The dam is constructed as a solid gravity dam structure.", "The system draws water from the Madriu-Perafita-Claror valley."],
     },
+    image: "/poi-images/andorra-engolasters-infra-economic-v2.webp",
   }
 ];

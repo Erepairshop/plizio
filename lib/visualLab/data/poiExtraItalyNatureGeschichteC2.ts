@@ -31,6 +31,7 @@ export const poiExtraItalyNatureGeschichteC2: POI[] = [
       hu: ["Az Etna komplex történettel rendelkezik, több mint 200 kráterrel és mellékkráterrel.", "Télen a látogatók síelhetnek az Etna lejtőin, miközben élvezik a tengerre nyíló kilátást.", "A szőlőtermesztés 'sapee' technikája széles körben elterjedt az Etna vulkáni talajain.", "A vulkán fontos helyszín a vulkanológia számára, mivel évezredek óta szinte folyamatosan aktív.", "A görög mitológia Héphaisztosz, a tűz istenének műhelyét az Etna alá helyezte."],
       ro: ["Muntele Etna are o istorie complexă cu peste 200 de cratere și cratere secundare.", "Iarna, vizitatorii pot schia pe versanții Muntelui Etna, bucurându-se în același timp de vederea la mare.", "Tehnica de viticultură 'sapee' este larg răspândită pe solurile vulcanice ale Muntelui Etna.", "Vulcanul este un loc important pentru vulcanologie, deoarece a fost activ aproape continuu timp de milenii.", "Mitologia greacă a plasat atelierul lui Hefaistos, zeul focului, sub Muntele Etna."],
       en: ["Mount Etna has a complex history with more than 200 craters and secondary craters.", "In winter, visitors can ski on the slopes of Mount Etna while enjoying views of the sea.", "The 'sapee' technique of viticulture is widely used on the volcanic soils of Mount Etna.", "The volcano is an important site for volcanology as it has been active almost continuously for millennia.", "Greek mythology placed the forge of Hephaestus, the god of fire, beneath Mount Etna."]
-    }
+    },
+    image: "/poi-images/it-etna.webp",
   }
 ];

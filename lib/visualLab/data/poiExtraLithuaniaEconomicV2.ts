@@ -1077,6 +1077,7 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Trafic: Peste 40 mil. tone anual", "Adâncime: Până la 15,5 metri", "Caracteristică: Fără gheață tot anul", "Terminal: Terminal GNL 'Independence'"],
       en: ["Turnover: Over 40 million tons annually", "Depth: Up to 15.5 meters", "Feature: Ice-free year-round", "Terminal: LNG terminal 'Independence'"],
     },
+    image: "/poi-images/lithuania-klaipeda-seaport-economic-v2.webp",
   },
   {
     id: "lithuania-panevezys-industrial-hub-economic-v2",
@@ -1109,6 +1110,7 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Peste 3500 de companii înregistrate", "Nod rutier crucial pe ruta Varșovia-Riga", "Gazduiește cea mai mare fabrică de sticlă", "Zonă Economică Liberă înființată în 2013", "Centru de excelență în mecatronică", "Peste 20% din PIB-ul regional provine din industrie"],
       en: ["5th largest city in Lithuania", "Key location on the Via Baltica highway", "Home to the Panevėžys Free Economic Zone", "Strong focus on electronics and cabling", "Central hub for food processing companies", "Host to the Cido Arena industrial events"],
     },
+    image: "/poi-images/lithuania-panevezys-industrial-hub-economic-v2.webp",
   },
   {
     id: "lithuania-siauliai-technological-park-economic-v2",
@@ -1141,5 +1143,6 @@ export const lithuaniaEconomicV2: POI[] = [
       ro: ["Sprijină peste 50 de startup-uri active", "Suprafață de laboratoare de 1200 mp", "Parteneriat strategic cu mediul academic", "Focus pe automatizări și robotică", "Sediul central inaugurat în clădire modernă", "Acces la rețeaua de fibră optică de mare viteză"],
       en: ["Focuses on R&D and high-tech startups", "Collaborates with Šiauliai University", "Over 5,000 sqm of modern office space", "Incubates approximately 40 companies", "Key player in the city's digital strategy", "Located near the international airport"],
     },
+    image: "/poi-images/lithuania-siauliai-technological-park-economic-v2.webp",
   }
 ];

@@ -31,6 +31,7 @@ export const bahrainReliefV2: POI[] = [
       ro: ["Altitudinea maximă este de 134 de metri deasupra nivelului mării.", "Se află în Guvernoratul de Sud al insulei principale Bahrain.", "Dealul este înconjurat de câmpuri petroliere și puțuri de gaze naturale.", "Prima sondă de petrol din Bahrain a fost forată în apropiere în 1932.", "Zona este o destinație populară pentru camping în timpul iernii.", "Structura muntoasă face parte dintr-o formațiune geologică din eocen."],
       en: ["The maximum elevation is 134 meters above sea level.", "It is located in the Southern Governorate of the main island.", "The hill is surrounded by significant oil fields and gas wells.", "The first oil well in Bahrain was discovered near its base in 1932.", "The surrounding desert is a popular location for seasonal camping.", "Several small caves are situated within the mountain's limestone flanks."],
     },
+    image: "/poi-images/bahrain-jabal-al-dukhan-relief-v2.webp",
   },
   {
     id: "bahrain-sakhrat-al-khabiyah-relief-v2",
@@ -62,6 +63,7 @@ export const bahrainReliefV2: POI[] = [
       ro: ["Formațiunea stâncoasă este situată în apropierea câmpurilor petroliere centrale.", "Eroziunea eoliană și hidrică a creat silueta distinctivă a stâncii.", "Situl se află la mică distanță de vârful Jabal al-Dukhan.", "Formațiunea face parte din platoul de calcar al insulei principale.", "Servește ca punct de orientare istoric pentru călătorii din deșert.", "Din punct de vedere geologic, roca datează din era terțiară."],
       en: ["The rock formation is located near the central oil fields of Bahrain.", "Wind and water erosion shaped the distinctive profile of the rock.", "The site is situated not far from the peak of Jabal al-Dukhan.", "The formation is part of the limestone plateau of the main island.", "It has long served as a landmark for travelers in the desert region.", "Geologically, the rock dates back to the Tertiary period."],
     },
+    image: "/poi-images/bahrain-sakhrat-al-khabiyah-relief-v2.webp",
   },
   {
     id: "bahrain-al-wasmiya-relief-v2",
@@ -93,6 +95,7 @@ export const bahrainReliefV2: POI[] = [
       ro: ["Suprafața depresiunii: 3 km².", "Altitudine: 15 m sub nivelul mării.", "Concentrația sării în sol: până la 100 ppt.", "Există 15 specii de păsări care poposesc aici.", "Descoperirile arheologice datează din mileniul III î.Hr.", "Zona se află la 8 km vest de Manama."],
       en: ["Depression area: 3 km².", "Elevation: 15 m below sea level.", "Soil salinity: up to 100 ppt.", "15 bird species stop here.", "Archaeological finds date to the 3rd millennium BC.", "The area is located 8 km west of Manama."],
     },
+    image: "/poi-images/bahrain-al-wasmiya-relief-v2.webp",
   },
   {
     id: "bahrain-ras-al-barr-relief-v2",
@@ -124,6 +127,7 @@ export const bahrainReliefV2: POI[] = [
       ro: ["Linia de coastă: 2 km.", "Lățimea plajei: până la 50 m.", "Adâncimea apei: sub 2 m până la 500 m de țărm.", "Număr anual de vizitatori: peste 50.000.", "Promontoriul se află la 5 km nord-est de Manama.", "Există 2 plaje principale."],
       en: ["Coastline: 2 km.", "Beach width: up to 50 m.", "Water depth: under 2 m up to 500 m offshore.", "Annual visitors: over 50,000.", "The headland is located 5 km northeast of Manama.", "There are 2 main beaches."],
     },
+    image: "/poi-images/bahrain-ras-al-barr-relief-v2.webp",
   },
   {
     id: "bahrain-ras-hayyan-relief-v2",
@@ -155,6 +159,7 @@ export const bahrainReliefV2: POI[] = [
       ro: ["Linia de coastă: 1,5 km.", "Înălțimea stâncilor: până la 10 m.", "Vestigiile așezării datează din mileniul III î.Hr.", "Au fost găsite 50 de artefacte arheologice.", "Capul se află la 3 km nord-vest de Budaiya.", "Număr anual de vizitatori: aproximativ 5.000."],
       en: ["Coastline: 1.5 km.", "Cliff height: up to 10 m.", "Settlement remains date to the 3rd millennium BC.", "50 archaeological artifacts were found.", "The headland is located 3 km northwest of Budaiya.", "Annual visitors: about 5,000."],
     },
+    image: "/poi-images/bahrain-ras-hayyan-relief-v2.webp",
   },
   {
     id: "bahrain-ras-al-jazayir-relief-v2",
@@ -186,6 +191,7 @@ export const bahrainReliefV2: POI[] = [
       ro: ["Număr de specii de pești: peste 100", "Adâncimea medie a apei: 5 m", "Anul înființării stației de cercetare: 1998", "Suprafața zonei protejate: 12 km²", "Fortificații din epoca bronzului descoperite în 1960", "Distanța față de capitala Manama: 18 km"],
       en: ["Coordinates: 26°20'N, 50°38'E", "Area of surrounding fishing grounds: 8 km²", "Lighthouse height: 15 m", "Lighthouse range: 27 km", "Average tidal range: 1.5 m", "Distance from Manama: approx. 15 km"],
     },
+    image: "/poi-images/bahrain-ras-al-jazayir-relief-v2.webp",
   },
   {
     id: "bahrain-umm-al-nassan-relief-v2",
@@ -217,6 +223,7 @@ export const bahrainReliefV2: POI[] = [
       ro: ["Distanța de la coastă: 4 km", "Suprafața insulei: 0,7 km²", "Eroziune costieră: 0,5 ha/deceniu", "Adâncimea maximă a apei: 5 m", "Populație sezonieră: până la 50 de pescari", "Guvernorat: Nord"],
       en: ["Length: 1.2 km", "Width: 0.6 km", "Area: 0.7 km²", "Highest elevation: 1 m", "Distance from mainland: 4 km", "Nesting bird population: approx. 500 pairs"],
     },
+    image: "/poi-images/bahrain-umm-al-nassan-relief-v2.webp",
   },
   {
     id: "bahrain-jidda-relief-v2",
@@ -248,6 +255,7 @@ export const bahrainReliefV2: POI[] = [
       ro: ["Suprafață: 0,3 km²", "Altitudine maximă: 5 m", "Vizibilitate subacvatică: până la 15 m", "Distanță de la coastă: 3 km", "Număr de specii de păsări: 20", "Guvernorat: Capitală"],
       en: ["Area: 0.3 km²", "Fort construction: 1560", "Fort wall height: 4 m", "Distance from mainland: 3 km", "Tourist visits per year: approx. 8,000", "Highest point: 5 m"],
     },
+    image: "/poi-images/bahrain-jidda-relief-v2.webp",
   },
   {
     id: "bahrain-hawar-relief-v2",
@@ -279,6 +287,7 @@ export const bahrainReliefV2: POI[] = [
       ro: ["Suprafață: 41 km²", "Lungime: 18 km", "Altitudine maximă: 5 m", "Precipitații medii anuale: 60 mm", "Adâncimea medie a apei: 3 m", "Guvernorat: Sud"],
       en: ["Area: 41 km²", "Highest elevation: 5 m", "Number of cormorant pairs: >100,000", "Distance from mainland: 20 km", "Year of ICJ ruling: 2001", "Length of airstrip: 1.2 km"],
     },
+    image: "/poi-images/bahrain-hawar-relief-v2.webp",
   },
   {
     id: "bahrain-suwad-al-janubiyah-relief-v2",
@@ -310,6 +319,7 @@ export const bahrainReliefV2: POI[] = [
       ro: ["Suprafață: 0,2 km²", "Lungime: 0,5 km", "Lățime: 0,3 km", "Adâncimea apei: 1,5 m", "Specii de păsări: 10", "Guvernorat: Sud"],
       en: ["Area: 0.2 km²", "Length: 0.5 km", "Width: 0.3 km", "Max elevation: 2 m", "Distance from Hawar: 2 km", "Nesting terns: approx. 300 pairs"],
     },
+    image: "/poi-images/bahrain-suwad-al-janubiyah-relief-v2.webp",
   },
   {
     id: "bahrain-suwad-al-shamaliyah-relief-v2",
@@ -341,6 +351,7 @@ export const bahrainReliefV2: POI[] = [
       ro: ["Suprafață: 0,15 km²", "Altitudine maximă: 3 m", "Adâncimea apei: 2 m", "Viteza vântului iarna: 30 km/h", "Număr de specii: 8", "Guvernorat: Sud"],
       en: ["Area: 0.15 km²", "Length: 0.4 km", "Max elevation: 3 m", "Distance from Suwad al-Janubiyah: 0.5 km", "Green turtle nests annually: approx. 20", "Part of Hawar Islands Reserve since: 1997"],
     },
+    image: "/poi-images/bahrain-suwad-al-shamaliyah-relief-v2.webp",
   },
   {
     id: "bahrain-rubud-al-sharqiyah-relief-v2",
@@ -372,6 +383,7 @@ export const bahrainReliefV2: POI[] = [
       ro: ["Suprafață: 0,1 km²", "Diametru: 300 m", "Adâncimea medie: 1 m", "Specii de păsări: 7", "Guvernorat: Sud", "Distanța de la Hawar: 3 km"],
       en: ["Area: 0.1 km²", "Diameter: 300 m", "Max elevation: 2 m", "Average depth: 0.8 m", "Nesting gull pairs: approx. 100", "Distance from Rubud al-Gharbiyah: 0.3 km"],
     },
+    image: "/poi-images/bahrain-rubud-al-sharqiyah-relief-v2.webp",
   },
   {
     id: "bahrain-rubud-al-gharbiyah-relief-v2",
@@ -403,6 +415,7 @@ export const bahrainReliefV2: POI[] = [
       ro: ["Suprafață: 0,12 km²", "Altitudine maximă: 2,5 m", "Adâncimea apei: 1,2 m", "Viteza vântului: 35 km/h", "Număr de specii de păsări: 9", "Guvernorat: Sud"],
       en: ["Area: 0.12 km²", "Length: 0.35 km", "Max elevation: 2.5 m", "Distance from Rubud al-Sharqiyah: 0.3 km", "Bridled tern nests: approx. 150", "Average wind speed: 20 km/h"],
     },
+    image: "/poi-images/bahrain-rubud-al-gharbiyah-relief-v2.webp",
   },
   {
     id: "bahrain-ajirah-relief-v2",
@@ -434,6 +447,7 @@ export const bahrainReliefV2: POI[] = [
       ro: ["Suprafață: 0,08 km²", "Altitudine maximă: 3 m", "Adâncimea apei: 5 m", "Viteza curenților: 2 noduri", "Număr de cormorani: 500", "Guvernorat: Sud"],
       en: ["Area: 0.08 km²", "Max elevation: 3 m", "Length: 0.2 km", "Max depth: 5 m", "Socotra cormorant nests: approx. 400", "Distance from Hawar: 5 km"],
     },
+    image: "/poi-images/bahrain-ajirah-relief-v2.webp",
   },
   {
     id: "bahrain-fasht-al-azm-relief-v2",
@@ -465,6 +479,7 @@ export const bahrainReliefV2: POI[] = [
       ro: ["Suprafață: 0,5 km²", "Adâncimea medie: 2 m", "Specii de corali: 15", "Specii de țestoase: 2", "Distanța de la coastă: 2 km", "Guvernorat: Sud"],
       en: ["Area: 0.5 km²", "Average depth: 2 m", "Exposed at low tide: 1 m high", "Coral species: 15", "Sea turtle species: 2", "Distance from Hawar: 2 km"],
     },
+    image: "/poi-images/bahrain-fasht-al-azm-relief-v2.webp",
   },
   {
     id: "bahrain-jaradah-relief-v2",
@@ -496,6 +511,7 @@ export const bahrainReliefV2: POI[] = [
       ro: ["Suprafață: 0,05 km²", "Altitudine maximă: 1 m", "Adâncimea apei: 0,5 m", "Specii de păsări: 6", "Guvernorat: Sud", "Distanța de la Hawar: 4 km"],
       en: ["Area: 0.05 km²", "Max elevation: 1 m", "Diameter: 200 m", "Average depth: 0.5 m", "Bird species: 6", "Distance from Hawar: 4 km"],
     },
+    image: "/poi-images/bahrain-jaradah-relief-v2.webp",
   },
   {
     id: "bahrain-al-hamalah-relief-v2",
@@ -527,6 +543,7 @@ export const bahrainReliefV2: POI[] = [
       ro: ["Suprafață: 0,2 km²", "Altitudine maximă: 4 m", "Lungime: 0,6 km", "Distanța de la coastă: 0,5 km", "Guvernorat: Capitală", "Anul construirii digului: 1980"],
       en: ["Area: 0.2 km²", "Max elevation: 4 m", "Length: 0.6 km", "Causeway length: 0.5 km", "Year causeway built: 1980", "Visitors per weekend: approx. 1,500"],
     },
+    image: "/poi-images/bahrain-al-hamalah-relief-v2.webp",
   },
   {
     id: "bahrain-ras-abu-jarjur-relief-v2",
@@ -558,6 +575,7 @@ export const bahrainReliefV2: POI[] = [
       ro: ["Lungime: 2 km", "Suprafață: 0,5 km²", "Adâncimea apei: 1 m", "Specii de păsări: 20", "Guvernorat: Capitală", "Distanța de la Al-Hadd: 1 km"],
       en: ["Length: 2 km", "Area: 0.5 km²", "Max elevation: 1 m", "Distance from Al-Hadd: 1 km", "Bird species: 20", "Pottery fragments found: >100"],
     },
+    image: "/poi-images/bahrain-ras-abu-jarjur-relief-v2.webp",
   },
   {
     id: "bahrain-ras-mumalah-relief-v2",
@@ -589,6 +607,7 @@ export const bahrainReliefV2: POI[] = [
       ro: ["Lungime: 1,5 km", "Suprafață: 0,3 km²", "Adâncimea apei: 2 m", "Guvernorat: Capitală", "Distanța de la Manama: 5 km", "Specii de păsări: 10"],
       en: ["Length: 1.5 km", "Area: 0.3 km²", "Max elevation: 2 m", "Distance from Manama: 5 km", "Salt production ended: 1950", "Industrial plants nearby: 3"],
     },
+    image: "/poi-images/bahrain-ras-mumalah-relief-v2.webp",
   },
   {
     id: "bahrain-ras-al-qurayn-relief-v2",
@@ -620,6 +639,7 @@ export const bahrainReliefV2: POI[] = [
       ro: ["Lungime: 1 km", "Suprafață: 0,2 km²", "Adâncimea apei: 2 m", "Guvernorat: Capitală", "Distanța de la Al-Hadd: 2 km", "Specii de mangrove: 2"],
       en: ["Length: 1 km", "Area: 0.2 km²", "Max elevation: 3 m", "Mangrove area: 0.1 km²", "Number of rocky outcrops: 2", "Distance from Al-Hadd: 2 km"],
     },
+    image: "/poi-images/bahrain-ras-al-qurayn-relief-v2.webp",
   },
   {
     id: "bahrain-umm-jidr-relief-v2",
@@ -651,6 +671,7 @@ export const bahrainReliefV2: POI[] = [
       ro: ["Suprafață: 0,15 km²", "Altitudine maximă: 2 m", "Adâncimea apei: 1 m", "Guvernorat: Capitală", "Distanța de la Manama: 3 km", "Anul construirii digului: 1995"],
       en: ["Area: 0.15 km²", "Max elevation: 2 m", "Length: 0.4 km", "Causeway built: 1995", "Distance from Manama: 3 km", "Pottery artifacts found: >50"],
     },
+    image: "/poi-images/bahrain-umm-jidr-relief-v2.webp",
   },
   {
     id: "bahrain-al-markh-relief-v2",
@@ -682,6 +703,7 @@ export const bahrainReliefV2: POI[] = [
       ro: ["Suprafață: 0,3 km²", "Altitudine maximă: 3 m", "Adâncimea apei: 4 m", "Guvernorat: Sud", "Specii de păsări: 12", "Distanța de la Hawar: 2 km"],
       en: ["Area: 0.3 km²", "Max elevation: 3 m", "Length: 0.6 km", "Max depth: 4 m", "Peregrine falcon nests: 3", "Distance from Hawar: 2 km"],
     },
+    image: "/poi-images/bahrain-al-markh-relief-v2.webp",
   },
   {
     id: "bahrain-wadi-al-rammam-relief-v2",
@@ -713,6 +735,7 @@ export const bahrainReliefV2: POI[] = [
       ro: ["Lungime: 5 km", "Suprafață: 2 km²", "Altitudine: 10 m", "Specii de reptile: 8", "Guvernorat: Sud", "Precipitații anuale: 50 mm"],
       en: ["Length: 5 km", "Area: 2 km²", "Average elevation: 10 m", "Annual rainfall: 50 mm", "Reptile species: 8", "Temporary pools after rain: 3"],
     },
+    image: "/poi-images/bahrain-wadi-al-rammam-relief-v2.webp",
   },
   {
     id: "bahrain-ras-al-ghat-relief-v2",
@@ -744,6 +767,7 @@ export const bahrainReliefV2: POI[] = [
       ro: ["Lungime: 1 km", "Suprafață: 0,5 km²", "Adâncimea apei: 3 m", "Guvernorat: Nord", "Distanța de la Al-Budaiya: 1 km", "Specii de păsări: 8"],
       en: ["Length: 1 km", "Area: 0.5 km²", "Max elevation: 2 m", "Number of palm trees: 500", "Distance from Al-Budaiya: 1 km", "Houses built: 20"],
     },
+    image: "/poi-images/bahrain-ras-al-ghat-relief-v2.webp",
   },
   {
     id: "bahrain-al-jasayrah-relief-v2",
@@ -775,6 +799,7 @@ export const bahrainReliefV2: POI[] = [
       ro: ["Suprafață: 0,1 km²", "Altitudine maximă: 1 m", "Adâncimea apei: 0,5 m", "Guvernorat: Capitală", "Distanța de la Manama: 4 km", "Specii de păsări: 15"],
       en: ["Area: 0.1 km²", "Max elevation: 1 m", "Length: 0.3 m", "Average depth at high tide: 0.5 m", "Bird species recorded: 15", "Distance from Manama: 4 km"],
     },
+    image: "/poi-images/bahrain-al-jasayrah-relief-v2.webp",
   },
   {
     id: "bahrain-jazirat-mashtan-relief-v2",
@@ -806,6 +831,7 @@ export const bahrainReliefV2: POI[] = [
       ro: ["Suprafață: 0,3 km²", "Altitudine maximă: 4 m deasupra nivelului mării", "Distanța față de insula Sitra: 2 km est", "Formațiune geologică: calcar și depozite nisipoase holocene", "Descoperiri arheologice: ceramică din perioada Dilmun (cca. 2000 î.Hr.)", "Statut: parte dintr-o arie marină protejată"],
       en: ["Area: 0.3 km²", "Maximum elevation: 4 m above sea level", "Distance from Sitra Island: 2 km east", "Geological formation: Holocene limestone and sand deposits", "Archaeological finds: Dilmun-era pottery (c. 2000 BC)", "Protected status: part of a marine conservation area"],
     },
+    image: "/poi-images/bahrain-jazirat-mashtan-relief-v2.webp",
   },
   {
     id: "bahrain-al-hajiyat-relief-v2",
@@ -837,5 +863,6 @@ export const bahrainReliefV2: POI[] = [
       ro: ["Populație: circa 2.000 de locuitori", "Distanța față de orașul Muharraq: 5 km nord-est", "Epoca de aur a pescuitului de perle: secolul al XIX-lea", "Numărul de case cu turnuri eoliene restaurate: aproximativ 10", "Suprafața mangrovei: circa 0,5 km² de-a lungul coastei", "Festivalul Perlelor: organizat anual începând cu 2004"],
       en: ["Population: approximately 2,000", "Distance from Muharraq City: 5 km northeast", "Pearl fishing peak: 19th century", "Restored wind-tower houses: about 10", "Mangrove area: roughly 0.5 km² along the coast", "Pearl Festival: established in 2004"],
     },
+    image: "/poi-images/bahrain-al-hajiyat-relief-v2.webp",
   }
 ];

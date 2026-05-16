@@ -32,7 +32,8 @@ export const mkPoisPart9: POI[] = [
       hu: ["Számos endemikus növényfaj otthona.", "Az ornitológusok paradicsoma.", "Fontos a Sztrumica-régió ökológiai egyensúlya szempontjából."],
       ro: ["Patria multor specii de plante endemice.", "Un paradis pentru ornitologi.", "Important pentru echilibrul ecologic al regiunii Strumica."],
       en: ["Home to many endemic plant species.", "A paradise for ornithologists.", "Crucial for the ecological balance of the Strumica region."]
-    }
+    },
+    image: "/poi-images/MK-081-monowheel-wetland.webp",
   },
   {
     id: "MK-081-st-elijah-bosilovo",
@@ -63,7 +64,8 @@ export const mkPoisPart9: POI[] = [
       hu: ["A község vallási központja.", "Helyi ünnepeiről ismert.", "Hagyományos ikonokkal rendelkezik."],
       ro: ["Centrul religios al municipalității.", "Cunoscută pentru sărbătorile locale.", "Deține icoane tradiționale."],
       en: ["Religious center of the municipality.", "Known for its local festivals.", "Features traditional icons."]
-    }
+    },
+    image: "/poi-images/MK-081-st-elijah-bosilovo.webp",
   },
   // MK-082: Radoviš
   {
@@ -95,7 +97,8 @@ export const mkPoisPart9: POI[] = [
       hu: ["A 21. század elején épült.", "A Balkán egyik legszebb új temploma.", "Belsejét arany és márvány díszíti bőséggel."],
       ro: ["Construită la începutul secolului al XXI-lea.", "Una dintre cele mai frumoase biserici noi din Balcani.", "Interiorul este decorat cu mult aur și marmură."],
       en: ["Built in the early 21st century.", "One of the most beautiful new churches in the Balkans.", "Adorned with plenty of gold and marble inside."]
-    }
+    },
+    image: "/poi-images/MK-082-holy-trinity-church.webp",
   },
   {
     id: "MK-082-konce-monastery",
@@ -126,7 +129,8 @@ export const mkPoisPart9: POI[] = [
       hu: ["A 14. században alapították.", "Értékes, az alapítás korából származó freskókkal rendelkezik.", "A régió jelentős kulturális műemléke."],
       ro: ["Fondată în secolul al XIV-lea.", "Deține fresce valoroase din perioada fondării.", "Un monument cultural important al regiunii."],
       en: ["Founded in the 14th century.", "Features valuable frescoes from the time of its creation.", "A significant cultural monument of the region."]
-    }
+    },
+    image: "/poi-images/MK-082-konce-monastery.webp",
   },
   // MK-083: Vasilevo
   {
@@ -158,7 +162,8 @@ export const mkPoisPart9: POI[] = [
       hu: ["A korai zöldségfélék termesztéséről ismert.", "Fontos a regionális gazdaság számára.", "Meghatározza a zöld tájképet."],
       ro: ["Cunoscute pentru producția de legume timpurii.", "Importante pentru economia regională.", "Modelează peisajul verde."],
       en: ["Known for the production of early vegetables.", "Significant for the regional economy.", "Shapes the green landscape."]
-    }
+    },
+    image: "/poi-images/MK-083-vasilevo-fields.webp",
   },
   {
     id: "MK-083-st-mother-of-god-vasilevo",
@@ -189,7 +194,8 @@ export const mkPoisPart9: POI[] = [
       hu: ["Vallási gyülekezetek helyszíne.", "Vonzó építészettel rendelkezik.", "A helyi egyházközség központja."],
       ro: ["Un loc pentru adunări religioase.", "Are o arhitectură atractivă.", "Centrul parohiei locale."],
       en: ["A site for religious gatherings.", "Features appealing architecture.", "Center of the local parish."]
-    }
+    },
+    image: "/poi-images/MK-083-st-mother-of-god-vasilevo.webp",
   },
   // MK-084: Konče
   {
@@ -221,7 +227,8 @@ export const mkPoisPart9: POI[] = [
       hu: ["Kiváló feltételeket kínál horgászathoz és kempingezéshez.", "Érdekes sziklaképződmények veszik körül.", "Rejtett hely a kikapcsolódásra."],
       ro: ["Oferă condiții excelente pentru pescuit și camping.", "Înconjurat de formațiuni stâncoase interesante.", "Un loc ascuns pentru recreere."],
       en: ["Offers excellent conditions for fishing and camping.", "Surrounded by interesting rock formations.", "A hidden gem for relaxation."]
-    }
+    },
+    image: "/poi-images/MK-084-mantovo-lake.webp",
   },
   {
     id: "MK-084-st-stephen-church-konce",
@@ -252,7 +259,8 @@ export const mkPoisPart9: POI[] = [
       hu: ["Eredeti középkori freskókat őriz.", "Jellegzetes keresztkupolás szerkezettel rendelkezik.", "Nagy történelmi jelentőségű hely."],
       ro: ["Păstrează fresce medievale originale.", "Are o structură caracteristică cu cupolă în cruce.", "Un loc de o mare importanță istorică."],
       en: ["Preserves original medieval frescoes.", "Features a characteristic cross-in-square structure.", "A site of great historical importance."]
-    }
+    },
+    image: "/poi-images/MK-084-st-stephen-church-konce.webp",
   }
 ];
 

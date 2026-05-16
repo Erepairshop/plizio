@@ -29,7 +29,8 @@ export const serbiaPoiExtraCities = ([
       hu: ["Európa egyik legrégebbi, folyamatosan lakott városa.", "A belgrádi erőd jelentős történelmi nevezetesség.", "A város híres nyüzsgő éjszakai életéről."],
       ro: ["Este unul dintre cele mai vechi orașe locuite continuu din Europa.", "Fortăreața Belgrad este un important punct de reper istoric.", "Orașul este cunoscut pentru viața sa de noapte vibrantă."],
       en: ["It is one of the oldest continuously inhabited cities in Europe.", "The Belgrade Fortress is a major historical landmark.", "It is known for its vibrant nightlife."]
-    }
+    },
+    image: "/poi-images/city-belgrade.webp",
   },
   {
     id: "city-novi-sad",

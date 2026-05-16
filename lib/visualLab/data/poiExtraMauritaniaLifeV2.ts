@@ -31,6 +31,7 @@ export const mauritaniaLifeV2: POI[] = [
       ro: ["Suprafața parcului este de 13.000 ha.", "A fost înființat în 1991.", "Peste 250 de specii de păsări sunt înregistrate.", "Atrage 8.000 de vizitatori pe an.", "Altitudinea medie este de 2 m.", "Este sit Ramsar din 2000."],
       en: ["The park was established in 1991.", "It spans 13,000 hectares.", "More than 300 bird species have been recorded.", "Annual visitor numbers exceed 7,000.", "The park is a Ramsar site since 2000.", "It lies at an average elevation of 1.5 m."],
     },
+    image: "/poi-images/mauritania-diawling-park-life-v2.webp",
   },
   {
     id: "mauritania-banc-d-arguin-life-v2",
@@ -62,6 +63,7 @@ export const mauritaniaLifeV2: POI[] = [
       ro: ["Suprafața: 12.000 km².", "Anul înființării: 1976.", "UNESCO din 1989.", "Peste 2 milioane de păsări migratoare.", "Adâncimea maximă: 5 m.", "300 de specii de pești."],
       en: ["The park covers 12,000 km².", "It was designated a UNESCO site in 1989.", "Established in 1976.", "2 million+ migratory birds winter here.", "Maximum depth: 5 m.", "Home to 250 fish species."],
     },
+    image: "/poi-images/mauritania-banc-d-arguin-life-v2.webp",
   },
   {
     id: "mauritania-mahe-reserve-life-v2",
@@ -93,6 +95,7 @@ export const mauritaniaLifeV2: POI[] = [
       ro: ["Anul înființării: 1995.", "Suprafața: 50.000 ha.", "Precipitațiile anuale: 250 mm.", "30 de specii de antilope.", "20 de puncte de apă permanente.", "Altitudinea maximă: 150 m."],
       en: ["Established in 1995.", "Covers 50,000 hectares.", "Annual rainfall: 250 mm.", "Home to 30 antelope species.", "20 permanent water points.", "Highest elevation: 150 m."],
     },
+    image: "/poi-images/mauritania-mahe-reserve-life-v2.webp",
   },
   {
     id: "mauritania-azefal-wildlife-life-v2",
@@ -124,6 +127,7 @@ export const mauritaniaLifeV2: POI[] = [
       ro: ["Anul înființării: 2001.", "Suprafața: 200.000 ha.", "Precipitații anuale: 80 mm.", "10 specii de mamifere.", "Altitudine maximă: 450 m.", "5 oaze permanente."],
       en: ["Established in 2001.", "Area: 200,000 hectares.", "Annual rainfall: 80 mm.", "Hosts 10 mammal species.", "Highest point: 450 m.", "Contains 5 permanent oases."],
     },
+    image: "/poi-images/mauritania-azefal-wildlife-life-v2.webp",
   },
   {
     id: "mauritania-el-mouhoub-life-v2",
@@ -155,6 +159,7 @@ export const mauritaniaLifeV2: POI[] = [
       ro: ["Protejat din 2005.", "Suprafața maximă: 10.000 ha.", "Peste 50 de specii de păsări clocesc aici.", "Adâncimea maximă: 2 m.", "Altitudine: 50 m.", "Sezonul ploios: iulie-octombrie."],
       en: ["Protected since 2005.", "Maximum area: 10,000 ha.", "Over 50 bird species breed here.", "Max depth: 2 m.", "Elevation: 50 m.", "Rainy season: July-October."],
     },
+    image: "/poi-images/mauritania-el-mouhoub-life-v2.webp",
   },
   {
     id: "mauritania-oase-chinguetti-life-v2",
@@ -186,6 +191,7 @@ export const mauritaniaLifeV2: POI[] = [
       ro: ["Altitudine: 700 m.", "30.000 de palmieri de curmale.", "Sistemul de irigații datând din secolul al XIII-lea.", "Precipitații anuale: 30 mm.", "Populație: 5.000 de locuitori.", "Temperatura medie de vară: 40°C."],
       en: ["Elevation: 700 m.", "Contains 30,000 date palms.", "Irrigation system from the 13th century.", "Annual rainfall: 30 mm.", "Population served: 5,000.", "Average summer temperature: 40°C."],
     },
+    image: "/poi-images/mauritania-oase-chinguetti-life-v2.webp",
   },
   {
     id: "mauritania-tagant-plateau-life-v2",
@@ -217,6 +223,7 @@ export const mauritaniaLifeV2: POI[] = [
       ro: ["Altitudine: 500 m.", "Suprafață: 100.000 km².", "50 de situri arheologice.", "Cel mai înalt punct: 700 m.", "Precipitații anuale: 100 mm.", "20 de specii de mamifere."],
       en: ["Average elevation: 500 m.", "Area: 100,000 km².", "50+ archaeological sites.", "Highest point: 700 m.", "Annual rainfall: 100 mm.", "20 mammal species."],
     },
+    image: "/poi-images/mauritania-tagant-plateau-life-v2.webp",
   },
   {
     id: "mauritania-keur-macene-life-v2",
@@ -248,6 +255,7 @@ export const mauritaniaLifeV2: POI[] = [
       ro: ["Suprafață variabilă: 5.000-15.000 ha.", "Fără protecție oficială.", "Sezon ploios: iulie-septembrie.", "30 de specii de păsări.", "Populație: 2.000 de nomazi."],
       en: ["Variable area: 5,000-15,000 ha.", "No official protection.", "Rainy season: July-September.", "30 bird species.", "2,000 nomadic users."],
     },
+    image: "/poi-images/mauritania-keur-macene-life-v2.webp",
   },
   {
     id: "mauritania-aouker-life-v2",
@@ -279,6 +287,7 @@ export const mauritaniaLifeV2: POI[] = [
       ro: ["Suprafața: 30.000 km².", "Precipitații anuale: 30 mm.", "Lacuri sărate: 500 km².", "50.000 de flamingo clocesc aici.", "Altitudine: -200 m.", "Producție de sare: 10.000 t/an."],
       en: ["Area: 30,000 km².", "Annual rainfall: 30 mm.", "Salt lakes: 500 km².", "50,000 flamingos breed here.", "Elevation: -200 m.", "Salt production: 10,000 tons/year."],
     },
+    image: "/poi-images/mauritania-aouker-life-v2.webp",
   },
   {
     id: "mauritania-oase-tidjikja-life-v2",
@@ -310,6 +319,7 @@ export const mauritaniaLifeV2: POI[] = [
       ro: ["Altitudine: 400 m.", "20.000 de palmieri.", "Populație: 10.000 de locuitori.", "Sistem de irigații vechi de 500 de ani.", "Precipitații: 50 mm anual.", "Temperatura medie de vară: 38°C."],
       en: ["Elevation: 400 m.", "20,000 date palms.", "Population: 10,000.", "Irrigation system: 500 years old.", "Annual rainfall: 50 mm.", "Average summer temperature: 38°C."],
     },
+    image: "/poi-images/mauritania-oase-tidjikja-life-v2.webp",
   },
   {
     id: "mauritania-arkin-wildlife-life-v2",
@@ -341,6 +351,7 @@ export const mauritaniaLifeV2: POI[] = [
       ro: ["Anul înființării: 1986.", "Suprafața: 100 km².", "500 de cuiburi de țestoase pe an.", "20 de specii de păsări.", "Plajă de 30 km."],
       en: ["Established in 1986.", "Area: 100 km².", "500 turtle nests annually.", "20 bird species nest here.", "30 km of beach."],
     },
+    image: "/poi-images/mauritania-arkin-wildlife-life-v2.webp",
   },
   {
     id: "mauritania-guelta-de-matmata-life-v2",
@@ -372,6 +383,7 @@ export const mauritaniaLifeV2: POI[] = [
       ro: ["Apă permanentă.", "Adâncime: 1-3 m.", "Altitudine: 600 m.", "Picturi rupestre de 7.000 de ani.", "30 de specii de păsări.", "Canyon lung de 500 m."],
       en: ["Permanent waterhole.", "Depth: 1-3 m.", "Elevation: 600 m.", "Rock art: 7,000 years old.", "30 bird species.", "Canyon length: 500 m."],
     },
+    image: "/poi-images/mauritania-guelta-de-matmata-life-v2.webp",
   },
   {
     id: "mauritania-kiffa-wildlife-life-v2",
@@ -403,6 +415,7 @@ export const mauritaniaLifeV2: POI[] = [
       ro: ["Anul: 1995.", "Suprafața: 80.000 ha.", "Precipitații: 400 mm.", "10 specii de antilope.", "Altitudine maximă: 200 m.", "15 sate în zona tampon."],
       en: ["Established in 1995.", "Area: 80,000 ha.", "Annual rainfall: 400 mm.", "10 antelope species.", "Highest elevation: 200 m.", "15 villages in buffer zone."],
     },
+    image: "/poi-images/mauritania-kiffa-wildlife-life-v2.webp",
   },
   {
     id: "mauritania-oase-atart-life-v2",
@@ -434,6 +447,7 @@ export const mauritaniaLifeV2: POI[] = [
       ro: ["Suprafața: 1.000 ha.", "Populație: 40.000.", "100.000 de palmieri.", "Aeroport construit în 1962.", "Precipitații: 40 mm.", "Canale de irigații: 20 km."],
       en: ["Area: 1,000 ha.", "City population: 40,000.", "100,000 date palms.", "Airport built in 1962.", "Annual rainfall: 40 mm.", "Irrigation canals: 20 km."],
     },
+    image: "/poi-images/mauritania-oase-atart-life-v2.webp",
   },
   {
     id: "mauritania-guelta-archei-life-v2",
@@ -465,6 +479,7 @@ export const mauritaniaLifeV2: POI[] = [
       ro: ["50 de crocodili.", "Adâncime: 2-4 m.", "Altitudine: 500 m.", "Stânci de 200 m.", "Temperatura apei: 28°C.", "Distanță: 100 km de cel mai apropiat oraș."],
       en: ["50 crocodiles reside here.", "Depth: 2-4 m.", "Elevation: 500 m.", "Cliff height: 200 m.", "Water temperature: 28°C.", "Distance to nearest town: 100 km."],
     },
+    image: "/poi-images/mauritania-guelta-archei-life-v2.webp",
   },
   {
     id: "mauritania-oase-ouadane-life-v2",
@@ -496,6 +511,7 @@ export const mauritaniaLifeV2: POI[] = [
       ro: ["Fondat în secolul al XI-lea.", "Altitudine: 300 m.", "Populație: 3.000.", "10.000 de palmieri.", "Sistem de irigații medieval.", "Precipitații: 20 mm."],
       en: ["Founded in the 11th century.", "Elevation: 300 m.", "Population: 3,000.", "10,000 date palms.", "Medieval irrigation system.", "Annual rainfall: 20 mm."],
     },
+    image: "/poi-images/mauritania-oase-ouadane-life-v2.webp",
   },
   {
     id: "mauritania-taoudenni-life-v2",
@@ -527,6 +543,7 @@ export const mauritaniaLifeV2: POI[] = [
       ro: ["Mine de sare din secolul al XIV-lea.", "Producție anuală: 200 de tone.", "Adâncimea minei: 20 m.", "Temperatură: 50°C.", "Altitudine: 200 m.", "Fără populație permanentă."],
       en: ["Salt mines from the 14th century.", "Annual production: 200 tons.", "Mine depth: 20 m.", "Temperature: 50°C.", "Elevation: 200 m.", "No permanent population."],
     },
+    image: "/poi-images/mauritania-taoudenni-life-v2.webp",
   },
   {
     id: "mauritania-oase-tidra-life-v2",
@@ -558,6 +575,7 @@ export const mauritaniaLifeV2: POI[] = [
       ro: ["Suprafața: 5 km².", "Distanță de coastă: 100 m.", "50.000 de păsări marine cuibăresc.", "Altitudine maximă: 10 m.", "Parte a parcului național din 1976.", "Temperatura apei: 25°C."],
       en: ["Area: 5 km².", "Distance from shore: 100 m.", "50,000 seabirds nest here.", "Max elevation: 10 m.", "Part of national park since 1976.", "Water temperature: 25°C."],
     },
+    image: "/poi-images/mauritania-oase-tidra-life-v2.webp",
   },
   {
     id: "mauritania-diouk-life-v2",
@@ -589,6 +607,7 @@ export const mauritaniaLifeV2: POI[] = [
       ro: ["Anul înființării: 1985.", "Suprafața: 50 km².", "100 de specii de păsări.", "Arbori de până la 20 m.", "Precipitații: 500 mm.", "Distanță de fluviul Senegal: 2 km."],
       en: ["Established in 1985.", "Area: 50 km².", "100 bird species.", "Trees up to 20 m tall.", "Annual rainfall: 500 mm.", "Distance from Senegal River: 2 km."],
     },
+    image: "/poi-images/mauritania-diouk-life-v2.webp",
   },
   {
     id: "mauritania-oase-moudjeria-life-v2",
@@ -620,6 +639,7 @@ export const mauritaniaLifeV2: POI[] = [
       ro: ["Situată în regiunea Tagant", "Trecătoare strategică pe drumul spre Tidjikja", "Fondată în epoca colonială, în jurul anului 1934", "Înconjurată de stânci înalte de până la 100 metri", "Loc important pentru comerțul regional cu curmale", "Cunoscută pentru climatul deșertic arid"],
       en: ["Located in the Tagant Region", "Strategic pass on the road to Tidjikja", "Founded during the colonial era around 1934", "Surrounded by cliffs up to 100 meters high", "Important site for regional date trade", "Known for its dry desert climate"],
     },
+    image: "/poi-images/mauritania-oase-moudjeria-life-v2.webp",
   },
   {
     id: "mauritania-banc-d-arguin-lagune-life-v2",
@@ -651,6 +671,7 @@ export const mauritaniaLifeV2: POI[] = [
       ro: ["Parte a Patrimoniului Mondial UNESCO din 1989", "Loc de iernare pentru 2 milioane de păsări", "Căminul pescarilor din poporul Imraguen", "Cea mai mare arie marină protejată din Africa de Vest", "Cunoscut pentru prezența focilor monah rare", "Ape extrem de puțin adânci (sub 5 metri)"],
       en: ["Part of UNESCO World Heritage since 1989", "Wintering site for 2 million migratory birds", "Home to the Imraguen fishing people", "Largest marine protected area in West Africa", "Known for rare monk seal occurrences", "Extremely shallow waters (mostly under 5 meters)"],
     },
+    image: "/poi-images/mauritania-banc-d-arguin-lagune-life-v2.webp",
   },
   {
     id: "mauritania-oase-terjit-nord-life-v2",
@@ -682,6 +703,7 @@ export const mauritaniaLifeV2: POI[] = [
       ro: ["Situată la aproximativ 45 km sud de Atar", "Dispune de izvoare calde și reci", "Temperatura apei este constantă la 15-20°C", "Loc istoric de încoronare a emirilor mauritani", "Vegetație densă de palmiere și salcâmi", "Locație populară pentru filmări internaționale"],
       en: ["Located about 45 km south of Atar", "Features both warm and cold springs", "Water temperature is constant at 15-20°C", "Historical coronation site for Mauritanian emirs", "Dense vegetation of palms and acacias", "Popular filming location for international movies"],
     },
+    image: "/poi-images/mauritania-oase-terjit-nord-life-v2.webp",
   },
   {
     id: "mauritania-delta-senegal-life-v2",
@@ -713,6 +735,7 @@ export const mauritaniaLifeV2: POI[] = [
       ro: ["Găzduiește Parcul Național Diawling (16.000 ha)", "Fondat în 1991 pentru protecția deltei", "Peste 220 de specii de păsări identificate", "Zonă de cuibărit pentru pelicani și flamingo", "Se învecinează direct cu fluviul Senegal", "Înregistrată ca zonă umedă de tip Ramsar"],
       en: ["Home to Diawling National Park (16,000 ha)", "Founded in 1991 to protect the delta", "Over 220 different bird species recorded", "Important breeding ground for pelicans and flamingos", "Borders directly on the Senegal River", "Listed as a Ramsar wetland site"],
     },
+    image: "/poi-images/mauritania-delta-senegal-life-v2.webp",
   },
   {
     id: "mauritania-oase-tichitt-life-v2",
@@ -744,6 +767,7 @@ export const mauritaniaLifeV2: POI[] = [
       ro: ["Fondat în secolul al XII-lea (circa 1150)", "Patrimoniu Mondial UNESCO din anul 1996", "Faimos pentru casele din piatră verde și roșie", "Fost centru de erudiție islamică", "Situat la marginea unei depresiuni saline vaste", "Găzduiește manuscrise antice valoroase"],
       en: ["Founded in the 12th century (around 1150)", "UNESCO World Heritage site since 1996", "Famous for houses built of green and red stone", "Former center for Islamic scholarship", "Located at the edge of a massive salt pan", "Home to valuable ancient manuscripts"],
     },
+    image: "/poi-images/mauritania-oase-tichitt-life-v2.webp",
   },
   {
     id: "mauritania-oase-vallen-life-v2",
@@ -775,6 +799,7 @@ export const mauritaniaLifeV2: POI[] = [
       ro: ["Parte a ecosistemului podișului Adrar", "Utilizează reținerea apei de ploaie în ueduri", "Cultivarea sorgului și porumbului este posibilă", "Loc important de întâlnire pentru triburile nomade", "Vegetația este alimentată de pânza freatică", "Arhitectură tradițională din chirpici"],
       en: ["Part of the Adrar highland ecosystem", "Uses rainwater retention in wadis", "Cultivation of sorghum and maize is possible", "Important meeting point for nomadic tribes", "Vegetation is fed by groundwater", "Traditional mud-brick architecture in settlements"],
     },
+    image: "/poi-images/mauritania-oase-vallen-life-v2.webp",
   },
   {
     id: "mauritania-oase-aoulef-life-v2",
@@ -806,6 +831,7 @@ export const mauritaniaLifeV2: POI[] = [
       ro: ["Cunoscută pentru sistemul de canale foggara", "Curmalii formează un coronament protector", "Cultivarea grâului și orzului în timpul iernii", "Nod important pentru rutele caravanelor", "Așezare construită din cărămizi uscate la soare", "Temperaturi extreme vara, de peste 45°C"],
       en: ["Famous for the foggara canal system", "Date palms provide a protective canopy", "Cultivation of wheat and barley in winter", "Important junction for caravan routes", "Settlement built with sun-dried bricks", "Extremely hot summer temperatures over 45°C"],
     },
+    image: "/poi-images/mauritania-oase-aoulef-life-v2.webp",
   },
   {
     id: "mauritania-guelta-de-la-kedia-life-v2",
@@ -837,5 +863,6 @@ export const mauritaniaLifeV2: POI[] = [
       ro: ["Situată în masivul Kedia d'Idjil (915 m)", "Cel mai înalt punct din toată Mauritania", "Roca feroasă influențează acele magnetice", "Sursă de apă sezonieră după ploi", "Habitat istoric pentru crocodilii de deșert", "Loc de popas important pentru păsări"],
       en: ["Located at Kedia d'Idjil mountain (915 m)", "Highest point in all of Mauritania", "Iron-rich rock affects magnetic needles", "Seasonal water source after rainfalls", "Historical habitat for desert crocodiles", "Important rest stop for migratory birds"],
     },
+    image: "/poi-images/mauritania-guelta-de-la-kedia-life-v2.webp",
   }
 ];

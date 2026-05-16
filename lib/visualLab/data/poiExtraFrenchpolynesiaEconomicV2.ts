@@ -31,6 +31,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
       ro: ["Portul Papeete are o lungime a cheiului de 1.200 de metri.", "Volumul anual de marfă depășește 1,5 milioane de tone.", "Portul angajează aproximativ 500 de persoane.", "Adâncimea apei în bazinul portului este de până la 12 metri.", "Există locuri de acostare pentru până la 4 nave de croazieră simultan.", "Portul a fost extins în 1960."],
       en: ["The Port of Papeete has a quay length of 1,200 meters.", "Annual cargo volume exceeds 1.5 million tons.", "The port employs around 500 people.", "Water depth in the harbor basin is up to 12 meters.", "There are berths for up to 4 cruise ships simultaneously.", "The port was expanded in 1960."],
     },
+    image: "/poi-images/frenchpolynesia-papeete-port-economic-v2.webp",
   },
   {
     id: "frenchpolynesia-faaa-airport-economic-v2",
@@ -62,6 +63,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
       ro: ["Aeroportul Faaa are o pistă lungă de 3.420 de metri.", "Traficul de pasageri depășește 1,2 milioane anual.", "Capacitatea de marfă este de aproximativ 10.000 de tone anual.", "Aeroportul a fost deschis în 1960.", "Se află la 5 km de Papeete.", "Există zboruri directe către Los Angeles, Tokyo și Paris."],
       en: ["Faaa Airport has a runway length of 3,420 meters.", "Passenger traffic exceeds 1.2 million per year.", "Cargo capacity is about 10,000 tons annually.", "The airport was opened in 1960.", "It is located 5 km from Papeete.", "There are direct flights to Los Angeles, Tokyo, and Paris."],
     },
+    image: "/poi-images/frenchpolynesia-faaa-airport-economic-v2.webp",
   },
   {
     id: "frenchpolynesia-punaruu-industrial-zone-economic-v2",
@@ -93,6 +95,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
       ro: ["Zona industrială Punaruu se întinde pe 100 de hectare.", "Există aproximativ 2.000 de locuri de muncă.", "Producția de ciment este de 100.000 de tone pe an.", "Zona a fost dezvoltată în anii 1980.", "Se află la 10 km de Papeete.", "Există 50 de companii pe amplasament."],
       en: ["Punaruu Industrial Zone covers 100 hectares.", "There are about 2,000 jobs.", "Cement production is 100,000 tons per year.", "The zone was developed in the 1980s.", "It is 10 km from Papeete.", "There are 50 companies on site."],
     },
+    image: "/poi-images/frenchpolynesia-punaruu-industrial-zone-economic-v2.webp",
   },
   {
     id: "frenchpolynesia-taravao-plateau-agriculture-economic-v2",
@@ -124,6 +127,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
       ro: ["Podisul Taravao se află la 50 km de Papeete.", "Suprafața cultivată este de aproximativ 500 de hectare.", "Există aproximativ 200 de fermieri.", "Producția anuală de ananas este de 2.000 de tone.", "Altitudinea podișului este între 200 și 400 de metri.", "Apa de irigație este furnizată de râul Vaihiria."],
       en: ["Taravao Plateau is 50 km from Papeete.", "Cultivated area is around 500 hectares.", "There are about 200 farmers.", "Annual pineapple production is 2,000 tons.", "The plateau altitude is between 200 and 400 meters.", "Irrigation water is supplied by the Vaihiria River."],
     },
+    image: "/poi-images/frenchpolynesia-taravao-plateau-agriculture-economic-v2.webp",
   },
   {
     id: "frenchpolynesia-manihi-pearl-farms-economic-v2",
@@ -155,6 +159,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
       ro: ["Anual, 200.000 de perle sunt recoltate pe Manihi.", "Fermele de perle angajează 100 de persoane.", "Temperatura apei este de aproximativ 27°C pe tot parcursul anului.", "Prima fermă de perle a fost înființată în 1975.", "Perlele au un diametru de 8 până la 15 mm.", "Fermele se întind pe 50 de hectare de lagună."],
       en: ["200,000 pearls are harvested annually on Manihi.", "Pearl farms employ 100 people.", "Water temperature is about 27°C year-round.", "The first pearl farm was established in 1975.", "Pearls have a diameter of 8 to 15 mm.", "Farms cover 50 hectares of lagoon."],
     },
+    image: "/poi-images/frenchpolynesia-manihi-pearl-farms-economic-v2.webp",
   },
   {
     id: "frenchpolynesia-moorea-juice-factory-economic-v2",
@@ -186,6 +191,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
       ro: ["Fabrica produce 500.000 de litri de suc pe an.", "Angajează 30 de angajați.", "A fost fondată în 1998.", "Livrările de ananas sunt de 200 de tone anual.", "Fabrica procesează 5 tipuri diferite de fructe.", "Suprafața de producție este de 1.000 de metri pătrați."],
       en: ["The factory produces 500,000 liters of juice per year.", "It employs 30 staff.", "Foundation year is 1998.", "Pineapple deliveries amount to 200 tons annually.", "The factory processes 5 different fruit types.", "Production area is 1,000 square meters."],
     },
+    image: "/poi-images/frenchpolynesia-moorea-juice-factory-economic-v2.webp",
   },
   {
     id: "frenchpolynesia-rangiroa-vineyard-economic-v2",
@@ -217,6 +223,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
       ro: ["Podgoria a fost fondată în anii 1990 de către Dominique Auroy.", "Soiurile principale cultivate sunt Carignan, Grenache și Muscat.", "Datorită climatului tropical, se realizează două recolte pe an.", "Este situată pe un motu lângă Avatoru, în mijlocul unei păduri de cocotieri.", "Solul este compus integral din fragmente de coral și calcar marin.", "Irigarea se face prin puțuri care extrag apa dintr-o lentilă de apă dulce."],
       en: ["The vineyard was established in the early 1990s by Dominique Auroy.", "Key grape varieties grown include Carignan, Grenache, and Italia.", "The tropical climate allows for two harvests per year, in May and November.", "The estate is located near the village of Avatoru on Rangiroa.", "The soil consists entirely of crushed coral and marine limestone.", "Irrigation is managed by tapping into fresh water lenses beneath the atoll."],
     },
+    image: "/poi-images/frenchpolynesia-rangiroa-vineyard-economic-v2.webp",
   },
   {
     id: "frenchpolynesia-huahine-vanilla-farms-economic-v2",
@@ -248,6 +255,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
       ro: ["Anual se produc 2 tone de vanilie.", "Fermele acoperă 10 hectare.", "Prima plantație a fost înființată în 1995.", "Există 20 de întreprinderi familiale.", "Vanilia se maturează timp de 6 luni.", "Prețul de vânzare este de 200 € per kilogram."],
       en: ["2 tons of vanilla are produced annually.", "Farms cover 10 hectares.", "First plantation was established in 1995.", "There are 20 family farms.", "Vanilla is cured for 6 months.", "Sale price is €200 per kilogram."],
     },
+    image: "/poi-images/frenchpolynesia-huahine-vanilla-farms-economic-v2.webp",
   },
   {
     id: "frenchpolynesia-tahaa-vanilla-valley-economic-v2",
@@ -279,6 +287,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
       ro: ["Producția anuală este de 3 tone.", "Valea are 15 hectare de teren cultivat.", "Sunt 30 de fermieri de vanilie.", "Polenizarea se face manual și durează 3 secunde.", "Vanilia se maturează 9 luni după polenizare.", "Păstăile au 15–20 cm lungime."],
       en: ["Annual production is 3 tons.", "Valley covers 15 hectares of cultivated land.", "There are 30 vanilla farmers.", "Pollination is done by hand and takes 3 seconds.", "Vanilla matures 9 months after pollination.", "Pods are 15–20 cm long."],
     },
+    image: "/poi-images/frenchpolynesia-tahaa-vanilla-valley-economic-v2.webp",
   },
   {
     id: "frenchpolynesia-makatea-phosphate-mine-economic-v2",
@@ -310,6 +319,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
       ro: ["Mina a extras 11 milioane de tone de fosfat.", "Exploatarea a durat între 1917 și 1964.", "Populația insulei este acum de 80 de locuitori.", "Producția maximă anuală a fost de 500.000 de tone.", "Mina a angajat 1.000 de muncitori.", "Adâncimea craterului principal este de 50 de metri."],
       en: ["The mine extracted 11 million tons of phosphate.", "Operations lasted from 1917 to 1964.", "Island population is now 80 people.", "Maximum annual extraction was 500,000 tons.", "The mine employed 1,000 workers.", "Depth of the main crater is 50 meters."],
     },
+    image: "/poi-images/frenchpolynesia-makatea-phosphate-mine-economic-v2.webp",
   },
   {
     id: "frenchpolynesia-uturoa-port-economic-v2",
@@ -341,6 +351,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
       ro: ["Portul Uturoa manipulează 200.000 de tone de marfă anual.", "Există 2 dane pentru nave de marfă.", "Adâncimea apei este de 8 metri.", "Modernizarea a avut loc în 1995.", "Lungimea cheiului este de 300 de metri.", "50.000 de pasageri sunt procesați anual."],
       en: ["Uturoa Port handles 200,000 tons of cargo annually.", "There are 2 cargo ship berths.", "Water depth is 8 meters.", "Modernization occurred in 1995.", "Quay length is 300 meters.", "50,000 passengers are processed annually."],
     },
+    image: "/poi-images/frenchpolynesia-uturoa-port-economic-v2.webp",
   },
   {
     id: "frenchpolynesia-papeete-market-economic-v2",
@@ -372,6 +383,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
       ro: ["Piața are peste 100 de standuri.", "Este deschisă zilnic între 7 și 17.", "Suprafața pieței este de 2.000 de metri pătrați.", "Se vând 50 de tone de pește pe săptămână.", "Piața a fost fondată în 1880.", "În weekend, 10.000 de oameni vizitează piața."],
       en: ["The market has over 100 stalls.", "It is open daily from 7 am to 5 pm.", "Market area is 2,000 square meters.", "50 tons of fish are sold per week.", "The market was founded in 1880.", "Weekends see 10,000 visitors."],
     },
+    image: "/poi-images/frenchpolynesia-papeete-market-economic-v2.webp",
   },
   {
     id: "frenchpolynesia-rikitea-pearl-center-economic-v2",
@@ -403,6 +415,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
       ro: ["Centrul produce 100.000 de perle pe an.", "A fost fondat în 1990.", "Temperatura apei este de 26°C.", "Angajează 50 de angajați.", "Perlele au un diametru de 10–20 mm.", "Fermele se întind pe 200 de hectare de lagună."],
       en: ["The center produces 100,000 pearls per year.", "It was founded in 1990.", "Water temperature is 26°C.", "It employs 50 staff.", "Pearls have a diameter of 10–20 mm.", "Farms cover 200 hectares of lagoon."],
     },
+    image: "/poi-images/frenchpolynesia-rikitea-pearl-center-economic-v2.webp",
   },
   {
     id: "frenchpolynesia-tubuai-agriculture-economic-v2",
@@ -434,6 +447,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
       ro: ["Producția anuală de legume este de 1.000 de tone.", "200 de familii sunt implicate în agricultură.", "Suprafața agricolă este de 4,5 km².", "Insula exportă 80% din produse în Tahiti.", "Recolta de portocale este de 300 de tone pe an.", "Precipitațiile medii anuale sunt de 1.500 mm."],
       en: ["Annual vegetable production is 1,000 tons.", "200 families are engaged in agriculture.", "Agricultural area is 4.5 km².", "The island exports 80% of produce to Tahiti.", "Orange harvest is 300 tons per year.", "Average annual rainfall is 1,500 mm."],
     },
+    image: "/poi-images/frenchpolynesia-tubuai-agriculture-economic-v2.webp",
   },
   {
     id: "frenchpolynesia-taiohae-fishing-port-economic-v2",
@@ -465,6 +479,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
       ro: ["Portul capturează 3.000 de tone de ton anual.", "Taiohae are 2.000 de locuitori.", "Flota este formată din 30 de bărci.", "Capacitatea depozitului frigorific este de 500 de tone.", "Portul a fost extins în 2005.", "Adâncimea apei la cheu este de 6 metri."],
       en: ["The port catches 3,000 tons of tuna annually.", "Taiohae has 2,000 inhabitants.", "The fleet consists of 30 boats.", "Cold storage capacity is 500 tons.", "The port was expanded in 2005.", "Water depth at quay is 6 meters."],
     },
+    image: "/poi-images/frenchpolynesia-taiohae-fishing-port-economic-v2.webp",
   },
   {
     id: "frenchpolynesia-arue-commercial-zone-economic-v2",
@@ -496,6 +511,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
       ro: ["Zona se întinde pe 50 de hectare.", "Există peste 200 de magazine.", "1.500 de persoane sunt angajate.", "Dezvoltarea a început în 1995.", "Hypermarketul Carrefour are 10.000 m² de suprafață de vânzare.", "Zilnic, 5.000 de clienți sunt înregistrați."],
       en: ["The zone covers 50 hectares.", "There are over 200 shops.", "1,500 people are employed.", "Development began in 1995.", "The Carrefour hypermarket has 10,000 m² of sales area.", "Daily, 5,000 customers are recorded."],
     },
+    image: "/poi-images/frenchpolynesia-arue-commercial-zone-economic-v2.webp",
   },
   {
     id: "frenchpolynesia-punaauia-business-center-economic-v2",
@@ -527,6 +543,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
       ro: ["Suprafața de birouri este de 100.000 m².", "3.000 de oameni lucrează aici.", "Centrul a fost dezvoltat în 2002.", "Există 50 de clădiri.", "Zona se întinde pe 20 de hectare.", "Găzduiește 200 de companii."],
       en: ["Office space is 100,000 m².", "3,000 people work here.", "The center was developed in 2002.", "There are 50 buildings.", "The area covers 20 hectares.", "It hosts 200 companies."],
     },
+    image: "/poi-images/frenchpolynesia-punaauia-business-center-economic-v2.webp",
   },
   {
     id: "frenchpolynesia-hitiaa-energy-complex-economic-v2",
@@ -558,6 +575,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
       ro: ["Energia hidroelectrică furnizează aproximativ 30% din consumul insulei Tahiti.", "Complexul este situat în valea Vaitamanu de pe coasta de est.", "Construcția principalelor baraje a început în cursul anilor 1980.", "Sistemul cuprinde mai multe centrale electrice amplasate în cascadă.", "Barajele servesc și la controlul viiturilor în timpul sezonului ploios.", "Este administrat de compania EDT (Électricité de Tahiti)."],
       en: ["Hydroelectric power provides about 30% of Tahiti's total electricity needs.", "The complex is situated in the Vaitamanu Valley on the east coast.", "Construction of the major dams began in the early 1980s.", "The system utilizes a series of turbines placed at different elevations.", "It significantly reduces the island's dependence on imported diesel fuel.", "The facilities are operated by EDT (Électricité de Tahiti)."],
     },
+    image: "/poi-images/frenchpolynesia-hitiaa-energy-complex-economic-v2.webp",
   },
   {
     id: "frenchpolynesia-raivavae-taro-fields-economic-v2",
@@ -589,6 +607,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
       ro: ["Suprafața cultivată cu taro este de 200 de hectare.", "Randamentul mediu este de 8 tone per hectar pe an.", "Precipitațiile anuale sunt de 2.500-3.000 mm.", "Solurile au un pH între 5,5 și 6,5.", "În ultimii 10 ani, suprafața s-a redus cu 15%.", "Rața sălbatică este un dăunător frecvent, cauzând pagube de până la 10%."],
       en: ["Taro has been cultivated on Raivavae for over 1,000 years.", "The 'Raivavae Red' variety has a deep purple color due to anthocyanins.", "Annual taro production is approximately 1,500 metric tons.", "Women traditionally pound taro for poi, a process taking 2-3 hours.", "A festival called 'Tarofest' is held every August since 2005.", "Youth participation in farming has declined by 40% since 2000."],
     },
+    image: "/poi-images/frenchpolynesia-raivavae-taro-fields-economic-v2.webp",
   },
   {
     id: "frenchpolynesia-rurutu-copra-production-economic-v2",
@@ -620,6 +639,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
       ro: ["Producția anuală de copra este de 300 de tone.", "Conținutul de ulei al coprei este de 65%.", "Temperatura medie anuală este de 26°C.", "Precipitațiile anuale sunt de 1.800 mm.", "Suprafața cultivată a scăzut cu 10% în ultimii 5 ani.", "Copra reprezintă 3% din exporturile insulei."],
       en: ["Copra production on Rurutu started in the 1860s under French colonial rule.", "The average age of copra farmers is 55 years.", "The cooperative was founded in 1985 to stabilize prices.", "Production volume halved from 600 tons in the 1980s to 300 tons today.", "Organic copra from Rurutu sells at a 20% premium.", "Fair trade certification efforts began in 2015."],
     },
+    image: "/poi-images/frenchpolynesia-rurutu-copra-production-economic-v2.webp",
   },
   {
     id: "frenchpolynesia-fakarava-pearl-farms-economic-v2",
@@ -651,6 +671,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
       ro: ["Adâncimea medie a lagunei este de 30 m.", "Temperatura apei variază între 25-30°C.", "Rata de succes a implantării este de 80%.", "O stridie produce până la 3 perle în viață.", "Exportul din 2022 a fost de 12 milioane USD.", "30% din perle sunt de calitate gemologică."],
       en: ["Fakarava is a UNESCO Biosphere Reserve since 2006.", "Maximum 120 oysters per line allowed by law.", "Tahitian Pearl Classification System established in 1991.", "Pearl prices dropped 30% since 2015.", "Annual pearl auctions include Fakarava pearls.", "Farming uses rotating culture areas."],
     },
+    image: "/poi-images/frenchpolynesia-fakarava-pearl-farms-economic-v2.webp",
   },
   {
     id: "frenchpolynesia-maupiti-fishing-harbor-economic-v2",
@@ -682,6 +703,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
       ro: ["Temperatura medie a apei este de 27°C.", "Portul are capacitate pentru 30 de ambarcațiuni.", "50 de pescari profesioniști lucrează permanent.", "Captura anuală totală este de 200 de tone.", "Peștele este transportat la Tahiti de două ori pe săptămână.", "Digul este construit din blocuri de coral."],
       en: ["Harbor constructed in the 1970s with French aid.", "Fishing cooperative founded in 1985.", "Cargo ships dock weekly for inter-island trade.", "Recommended dredging in a 2022 study.", "Milkfish aquaculture pens produce 10 tons annually.", "Women process fish through smoking and drying."],
     },
+    image: "/poi-images/frenchpolynesia-maupiti-fishing-harbor-economic-v2.webp",
   },
   {
     id: "frenchpolynesia-tikehau-trade-center-economic-v2",
@@ -713,6 +735,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
       ro: ["Centrul comercial angajează 10 persoane.", "Panourile solare generează 50 kW.", "Aprovizionarea săptămânală cu șalupa.", "Suvenirurile reprezintă 15% din vânzări.", "O nouă clădire a fost construită în 2021.", "Apa potabilă este distribuită cu cisterna."],
       en: ["Only fuel station on the atoll.", "Bakery produces bread daily since 2010.", "Internet connectivity established in 2018.", "Weekly farmers' market held at the center.", "Building designed to withstand cyclones (wind speed up to 250 km/h).", "Expansion plans include a fish market."],
     },
+    image: "/poi-images/frenchpolynesia-tikehau-trade-center-economic-v2.webp",
   },
   {
     id: "frenchpolynesia-atuona-economic-hub-economic-v2",
@@ -744,6 +767,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
       ro: ["Populația este de aproape 2.000 de locuitori.", "Pista aeroportului are 1.500 m.", "Portul poate primi nave de 150 m lungime.", "Centrală hibridă în construcție (solar + diesel).", "Fabrică de ulei de cocos închisă în 2015.", "Eroziunea costieră amenință infrastructura portuară."],
       en: ["Atuona was a whaling station in the 19th century.", "Main road paved in 2008.", "Local radio station broadcasts since 1980.", "50% solar energy target by 2025.", "Takau Island pearl farms produce 20,000 pearls annually.", "Industrial zone includes boat repair facilities."],
     },
+    image: "/poi-images/frenchpolynesia-atuona-economic-hub-economic-v2.webp",
   },
   {
     id: "frenchpolynesia-vaitape-harbor-economic-v2",
@@ -775,6 +799,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
       ro: ["Digul principal are 200 m lungime.", "Adâncimea la chei: 6-8 m.", "150 de nave de croazieră în 2019 cu 250.000 de pasageri.", "Feribotul către Tahiti durează 5 ore.", "Portul are stație de alimentare cu apă și electricitate.", "Proiect de extindere pentru terminal de containere."],
       en: ["Harbor built in 1940s as US seaplane base.", "Fuel dock supplies 500,000 liters daily.", "2020 strike caused 40% drop in tourist arrivals.", "CCTV surveillance installed in 2015.", "Marina expansion approved in 2023 for superyachts.", "Scientific vessels use harbor for coral reef studies."],
     },
+    image: "/poi-images/frenchpolynesia-vaitape-harbor-economic-v2.webp",
   },
   {
     id: "frenchpolynesia-fare-port-economic-v2",
@@ -806,6 +831,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
       ro: [],
       en: [],
     },
+    image: "/poi-images/frenchpolynesia-fare-port-economic-v2.webp",
   },
   {
     id: "frenchpolynesia-afareaitu-pineapples-economic-v2",
@@ -837,6 +863,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
       ro: ["Suprafața cultivată: 50 ha.", "Precipitații anuale: 2.000 mm.", "Conținutul de zahăr: 15-18%.", "Greutatea medie a fructului: 1-2 kg.", "Suprafața a crescut cu 10% în ultimii 5 ani.", "Exportul organic către Japonia a crescut cu 15% în 2022."],
       en: ["Chinese immigrants introduced pineapple in early 1900s.", "Cooperative formed in 1995.", "Leaves used as mulch for soil conservation.", "Agro-tourism tours started in 2005.", "Government subsidy covers 50% of irrigation costs.", "Urbanization reduced farmland by 5% since 2010."],
     },
+    image: "/poi-images/frenchpolynesia-afareaitu-pineapples-economic-v2.webp",
   },
   {
     id: "frenchpolynesia-papara-agriculture-economic-v2",
@@ -868,6 +895,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
       ro: ["Soluri andosoluri cu pH 5,5-6,5.", "Producția de roșii în 2021: 2.000 tone.", "Piață agricolă locală de 2 ori pe săptămână.", "Eroziunea solului pe terenurile în pantă.", "Rotația culturilor practicată pe 80% din terenuri.", "Reciclarea deșeurilor agricole este încurajată de 2018."],
       en: ["Cooperative supplies seeds to 200 farmers.", "Plan Agricole 2025 targets 20% production increase.", "Average farmer age is 55 years.", "Training programs started in 2016.", "Noni and vanilla exported in small quantities.", "Agritourism farms attract 5,000 visitors yearly."],
     },
+    image: "/poi-images/frenchpolynesia-papara-agriculture-economic-v2.webp",
   },
   {
     id: "frenchpolynesia-tahiti-iti-coffee-economic-v2",
@@ -899,6 +927,7 @@ export const frenchpolynesiaEconomicV2: POI[] = [
       ro: ["Altitudinea culturii: 300-600 m.", "Producția anuală: 5 tone.", "Recoltarea între mai și august.", "Fabrică de prăjire deschisă în 2015.", "Premii internaționale în 2018 și 2020.", "Exporturi limitate din cauza producției mici."],
       en: ["Shade-grown under mango trees.", "Organic methods used on 100% of farms.", "Barista training programs since 2016.", "Brand name: 'Tahiti Iti Arabica'.", "2021 study: feasible to expand to 20 ha.", "Cupping sessions organized monthly."],
     },
+    image: "/poi-images/frenchpolynesia-tahiti-iti-coffee-economic-v2.webp",
   },
   {
     id: "frenchpolynesia-makemo-energy-economic-v2",
@@ -930,5 +959,6 @@ export const frenchpolynesiaEconomicV2: POI[] = [
       ro: ["Centrala solară: 1 MW, 4.000 de panouri.", "Sistem de stocare: 500 kWh litiu-ion.", "Economie de motorină: 300.000 litri/an.", "Investiție: 2 miliarde CFP.", "Reducere CO2: 800 tone/an.", "Factor de capacitate: 25%."],
       en: ["Bifacial panels increase efficiency by 10%.", "Electricity costs reduced by 30% since 2019.", "Won Pacific Energy Leaders Award in 2021.", "Expansion planned to 2 MW by 2025.", "Smart grid management system installed.", "Local team of 10 trained for maintenance."],
     },
+    image: "/poi-images/frenchpolynesia-makemo-energy-economic-v2.webp",
   }
 ];

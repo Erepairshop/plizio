@@ -31,6 +31,7 @@ export const malawiLifeV2: POI[] = [
       ro: ["Fondat în 1973", "Suprafață: 580 km²", "Populație de elefanți: 800", "Hipopotami: 2.000", "Specii de păsări: 400", "Lungimea râului Shire în parc: 55 km"],
       en: ["Established 1973", "Area: 580 km²", "Elephant population: 800", "Hippo population: 2,000", "Bird species: 400", "Shire River length: 48 km within park"],
     },
+    image: "/poi-images/malawi-liwonde-national-park-life-v2.webp",
   },
   {
     id: "malawi-nyika-national-park-life-v2",
@@ -62,6 +63,7 @@ export const malawiLifeV2: POI[] = [
       ro: ["Fondat în 1965", "Suprafață: 3.130 km²", "Altitudine maximă: 2.600 m", "Zebre: 3.000", "Specii de orhidee: 200", "Specii de păsări: 420"],
       en: ["Established 1965", "Area: 3,130 km²", "Highest point: 2,605 m", "Zebra population: 3,000", "Orchid species: 200 (120 endemic)", "Bird species: 420"],
     },
+    image: "/poi-images/malawi-nyika-national-park-life-v2.webp",
   },
   {
     id: "malawi-kasungu-national-park-life-v2",
@@ -93,6 +95,7 @@ export const malawiLifeV2: POI[] = [
       ro: ["Fondat în 1970", "Suprafață: 2.316 km²", "Elefanți: 200", "Antilope sable: 400", "Specii de păsări: 300", "Acoperire de pădure: 70%"],
       en: ["Established 1970", "Area: 2,316 km²", "Elephant population: 200", "Sable antelope: 500", "Bird species: 300", "Miombo cover: 75%"],
     },
+    image: "/poi-images/malawi-kasungu-national-park-life-v2.webp",
   },
   {
     id: "malawi-lengwe-national-park-life-v2",
@@ -124,6 +127,7 @@ export const malawiLifeV2: POI[] = [
       ro: ["Fondat în 1970", "Suprafață: 887 km²", "Nyala: 1.000", "Specii de păsări: 250", "Altitudine medie: 180 m", "Vegetație: 80% tufărișuri"],
       en: ["Established 1970", "Area: 887 km²", "Nyala population: 1,000", "Nyala endemic to Malawi: only in Lengwe", "Bird species: 250", "Elevation: 100-200 m"],
     },
+    image: "/poi-images/malawi-lengwe-national-park-life-v2.webp",
   },
   {
     id: "malawi-lake-malawi-national-park-life-v2",
@@ -155,6 +159,7 @@ export const malawiLifeV2: POI[] = [
       ro: ["Fondat în 1980", "Patrimoniu UNESCO din 1984", "Specii de ciclide: 1.000", "Adâncimea lacului: până la 700 m", "Insule protejate: 5", "Specii de păsări: 200"],
       en: ["Established 1980", "UNESCO World Heritage since 1984", "Cichlid species: 1,000+ (99% endemic)", "Lake area: 29,600 km²", "Maximum depth: 700 m", "Park covers 94 km²"],
     },
+    image: "/poi-images/malawi-lake-malawi-national-park-life-v2.webp",
   },
   {
     id: "malawi-majete-wildlife-reserve-life-v2",
@@ -186,6 +191,7 @@ export const malawiLifeV2: POI[] = [
       ro: ["Fondată în 1973", "Suprafață: 700 km²", "Elefanți: 400", "Rinoceri negri: 10", "Lei: 12", "Bufali: 600"],
       en: ["Established 1973", "Area: 700 km²", "Elephants: 400", "Black rhinos: 10", "Lions: 12", "Reintroduced species: 7"],
     },
+    image: "/poi-images/malawi-majete-wildlife-reserve-life-v2.webp",
   },
   {
     id: "malawi-mwabvi-wildlife-reserve-life-v2",
@@ -217,6 +223,7 @@ export const malawiLifeV2: POI[] = [
       ro: ["Fondată în 1977", "Suprafață: 135 km²", "Antilope sable: 50", "Specii de păsări: 200", "Altitudine maximă: 800 m", "Vizitatori anual: 600"],
       en: ["Established 1977", "Area: 135 km²", "Sable antelope: 50", "Bird species: 200", "Highest point: 780 m", "Annual visitors: <1,000"],
     },
+    image: "/poi-images/malawi-mwabvi-wildlife-reserve-life-v2.webp",
   },
   {
     id: "malawi-nkhotakota-wildlife-reserve-life-v2",
@@ -248,6 +255,7 @@ export const malawiLifeV2: POI[] = [
       ro: ["Fondată în 1955", "Suprafață: 1.800 km²", "Elefanți: 500", "Bufali: 300", "Specii de păsări: 350", "Lungimea litoralului: 20 km"],
       en: ["Established 1955", "Area: 1,800 km²", "Elephants: 500 (after translocation)", "Buffalo: 300", "Bird species: 350", "Lake shoreline: 20 km"],
     },
+    image: "/poi-images/malawi-nkhotakota-wildlife-reserve-life-v2.webp",
   },
   {
     id: "malawi-vwaza-marsh-wildlife-reserve-life-v2",
@@ -279,6 +287,7 @@ export const malawiLifeV2: POI[] = [
       ro: ["Fondată în 1975", "Suprafață: 1.000 km²", "Hipopotami: 1.000", "Elefanți: 500", "Crocodili: 300", "Specii de păsări: 400"],
       en: ["Established 1975", "Area: 1,000 km²", "Hippos: 1,000", "Elephants: 500", "Crocodiles: 300", "Bird species: 400"],
     },
+    image: "/poi-images/malawi-vwaza-marsh-wildlife-reserve-life-v2.webp",
   },
   {
     id: "malawi-lilongwe-wildlife-centre-life-v2",
@@ -310,6 +319,7 @@ export const malawiLifeV2: POI[] = [
       ro: ["Înființat în 2004", "Suprafață: 180 hectare", "Peste 100 de specii", "50.000 de vizitatori pe an", "40 de angajați permanenți", "Programe educaționale pentru 10.000 de copii anual"],
       en: ["Established 2004", "Area 180 hectares", "Houses 100+ species", "Annual visitors 50,000", "Staff of 40 full-time", "Educates 10,000 school children yearly"],
     },
+    image: "/poi-images/malawi-lilongwe-wildlife-centre-life-v2.webp",
   },
   {
     id: "malawi-mulanje-mountain-forest-reserve-life-v2",
@@ -341,6 +351,7 @@ export const malawiLifeV2: POI[] = [
       ro: ["Înființată în 1927", "Suprafață 650 km²", "Altitudine maximă 3002 m", "Cedru Mulanje endemic", "Peste 1200 de specii de plante", "10.000 de drumeți anual"],
       en: ["Established 1927", "Area 650 km²", "Highest peak 3,002 m", "Endemic Mulanje cedar", "Over 1,200 plant species", "10,000 hikers annually"],
     },
+    image: "/poi-images/malawi-mulanje-mountain-forest-reserve-life-v2.webp",
   },
   {
     id: "malawi-zomba-plateau-forest-reserve-life-v2",
@@ -372,6 +383,7 @@ export const malawiLifeV2: POI[] = [
       ro: ["Înființată în 1913", "Suprafață 13.000 ha", "Altitudine maximă 2.087 m", "Punct de belvedere Queen's View", "Păduri de conifere și foioase", "5.000 de vizitatori anual"],
       en: ["Established 1913", "Area 13,000 ha", "Highest point 2,087 m", "Queen's View lookout", "Mixed coniferous and broadleaf forests", "5,000 visitors annually"],
     },
+    image: "/poi-images/malawi-zomba-plateau-forest-reserve-life-v2.webp",
   },
   {
     id: "malawi-dzalanyama-forest-reserve-life-v2",
@@ -403,6 +415,7 @@ export const malawiLifeV2: POI[] = [
       ro: ["Înființată în 1920", "Suprafață 1.700 km²", "Păduri de miombo", "Peste 200 de specii de păsări", "Bazin hidrografic pentru râul Lilongwe", "Management comunitar din 1995"],
       en: ["Established 1920", "Area 1,700 km²", "Miombo woodland dominant", "Over 200 bird species", "Water catchment for Lilongwe River", "Community management since 1995"],
     },
+    image: "/poi-images/malawi-dzalanyama-forest-reserve-life-v2.webp",
   },
   {
     id: "malawi-ntchisi-forest-reserve-life-v2",
@@ -434,6 +447,7 @@ export const malawiLifeV2: POI[] = [
       ro: ["Înființată în 1922", "Suprafață 2.000 ha", "Peste 100 de specii de păsări", "Orhidee endemice", "Bazin hidrografic pentru sate", "Exploatare forestieră controlată"],
       en: ["Established 1922", "Area 2,000 ha", "Over 100 bird species", "Endemic orchids", "Water catchment for villages", "Regulated timber extraction"],
     },
+    image: "/poi-images/malawi-ntchisi-forest-reserve-life-v2.webp",
   },
   {
     id: "malawi-misuku-hills-forest-reserve-life-v2",
@@ -465,6 +479,7 @@ export const malawiLifeV2: POI[] = [
       ro: ["Înființată în 1938", "Suprafață 5.000 ha", "Altitudine până la 1.800 m", "Precipitații anuale >1.500 mm", "Broască Misuku endemică", "Acces dificil"],
       en: ["Established 1938", "Area 5,000 ha", "Elevation up to 1,800 m", "Annual rainfall >1,500 mm", "Endemic Misuku frog", "Remote location"],
     },
+    image: "/poi-images/malawi-misuku-hills-forest-reserve-life-v2.webp",
   },
   {
     id: "malawi-elephant-marsh-life-v2",
@@ -496,6 +511,7 @@ export const malawiLifeV2: POI[] = [
       ro: ["Sit Ramsar din 2016", "Suprafață 1.200 km²", "Peste 100 de specii de păsări", "Zonă de reproducere a peștilor", "Agricultură pe 500 km²", "Controlul inundațiilor"],
       en: ["Ramsar designated 2016", "Area 1,200 km²", "Over 100 bird species", "Fish breeding ground", "500 km² used for agriculture", "Flood regulation service"],
     },
+    image: "/poi-images/malawi-elephant-marsh-life-v2.webp",
   },
   {
     id: "malawi-lake-chilwa-wetland-life-v2",
@@ -527,6 +543,7 @@ export const malawiLifeV2: POI[] = [
       ro: ["Rezervație UNESCO 2018", "Suprafață lac 1.500 km²", "Fluctuații sezoniere", "Peste 160 de specii de păsări", "20.000 de tone de pește anual", "Recoltarea stufului"],
       en: ["UNESCO Biosphere 2018", "Lake area 1,500 km²", "Seasonal water level changes", "Over 160 bird species", "Annual fish catch 20,000 tonnes", "Reed harvesting for roofing"],
     },
+    image: "/poi-images/malawi-lake-chilwa-wetland-life-v2.webp",
   },
   {
     id: "malawi-kuti-wildlife-reserve-life-v2",
@@ -558,6 +575,7 @@ export const malawiLifeV2: POI[] = [
       ro: ["Fondată în 2015", "Suprafață 5.000 ha", "Peste 20 de specii de mamifere", "Zebră și girafă", "Rezervație privată", "Tururi safari"],
       en: ["Established 2015", "Area 5,000 ha", "Over 20 mammal species", "Zebra and giraffe present", "Private reserve", "Safari tours offered"],
     },
+    image: "/poi-images/malawi-kuti-wildlife-reserve-life-v2.webp",
   },
   {
     id: "malawi-thuma-forest-reserve-life-v2",
@@ -589,6 +607,7 @@ export const malawiLifeV2: POI[] = [
       ro: ["Înființată în 1920", "Suprafață 3.000 ha", "Coridor pentru elefanți", "Pădure de miombo", "Management comunitar", "Specii de antilope"],
       en: ["Established 1920", "Area 3,000 ha", "Elephant corridor", "Miombo woodland", "Community management", "Antelope species present"],
     },
+    image: "/poi-images/malawi-thuma-forest-reserve-life-v2.webp",
   },
   {
     id: "malawi-michiru-mountain-conservation-area-life-v2",
@@ -620,6 +639,7 @@ export const malawiLifeV2: POI[] = [
       ro: ["Înființată în 1970", "Suprafață 2.500 ha", "Altitudine 1.500 m", "Peste 150 de specii de păsări", "Zonă de protecție a apei", "20.000 de vizitatori anual"],
       en: ["Established 1970", "Area 2,500 ha", "Elevation 1,500 m", "Over 150 bird species", "Water protection area", "20,000 visitors annually"],
     },
+    image: "/poi-images/malawi-michiru-mountain-conservation-area-life-v2.webp",
   },
   {
     id: "malawi-thyolo-mountain-forest-reserve-life-v2",
@@ -651,6 +671,7 @@ export const malawiLifeV2: POI[] = [
       ro: ["Înființată în 1924", "Suprafață 2.500 ha", "Altitudine 1.400 m", "Aport de apă pentru ceai", "Cedru Thyolo endemic", "Peste 50 de specii de păsări"],
       en: ["Established 1924", "Area 2,500 ha", "Elevation 1,400 m", "Water supply for tea estates", "Endemic Thyolo cedar", "Over 50 bird species"],
     },
+    image: "/poi-images/malawi-thyolo-mountain-forest-reserve-life-v2.webp",
   },
   {
     id: "malawi-kaningina-forest-reserve-life-v2",
@@ -682,6 +703,7 @@ export const malawiLifeV2: POI[] = [
       ro: ["Înființată în 1935", "Suprafață 1.500 ha", "Altitudine 1.100 m", "Pădure de miombo", "Maimuțe albastre", "Exploatare durabilă a lemnului"],
       en: ["Established 1935", "Area 1,500 ha", "Elevation 1,100 m", "Miombo woodland", "Blue monkeys present", "Sustainable timber production"],
     },
+    image: "/poi-images/malawi-kaningina-forest-reserve-life-v2.webp",
   },
   {
     id: "malawi-senga-bay-biodiversity-area-life-v2",
@@ -713,6 +735,7 @@ export const malawiLifeV2: POI[] = [
       ro: ["Litoral 10 km", "Peste 200 de specii de ciclide", "Loc de reproducere pentru vulturul pescar", "Snorkeling", "Specii endemice", "Arie protejată din 2000"],
       en: ["Coastline 10 km", "Over 200 cichlid species", "Osprey breeding site", "Snorkeling activities", "Endemic species", "Protected since 2000"],
     },
+    image: "/poi-images/malawi-senga-bay-biodiversity-area-life-v2.webp",
   },
   {
     id: "malawi-cape-maclear-nature-reserve-life-v2",
@@ -744,6 +767,7 @@ export const malawiLifeV2: POI[] = [
       ro: ["Patrimoniu UNESCO", "Suprafață 2.300 ha", "Înființată în 1965", "Peste 50 de specii de mamifere", "Babuini și elefanți", "30.000 de vizitatori anual"],
       en: ["UNESCO World Heritage", "Area 2,300 ha", "Established 1965", "Over 50 mammal species", "Baboons and elephants", "30,000 visitors annually"],
     },
+    image: "/poi-images/malawi-cape-maclear-nature-reserve-life-v2.webp",
   },
   {
     id: "malawi-domwe-island-reserve-life-v2",
@@ -775,6 +799,7 @@ export const malawiLifeV2: POI[] = [
       ro: ["Suprafață 2 km²", "Nelocuită", "Loc de cuibărit vultur pescar", "Colonii de cormorani", "Habitat protejat", "Excursii de o zi din Cape Maclear"],
       en: ["Area 2 km²", "Uninhabited", "Fish eagle breeding site", "Cormorant colonies", "Protected habitat", "Day trips from Cape Maclear"],
     },
+    image: "/poi-images/malawi-domwe-island-reserve-life-v2.webp",
   },
   {
     id: "malawi-mumbo-island-reserve-life-v2",
@@ -806,6 +831,7 @@ export const malawiLifeV2: POI[] = [
       ro: ["Suprafață 0,5 km²", "Distanță 2,5 km de mal", "Apă cristalină", "Peste 50 de specii de ciclide", "Corturi de lux", "Loc de popas pentru păsări"],
       en: ["Area 0.5 km²", "Distance 2.5 km from shore", "Crystal-clear water", "Over 50 cichlid species", "Luxury tents", "Bird stopover site"],
     },
+    image: "/poi-images/malawi-mumbo-island-reserve-life-v2.webp",
   },
   {
     id: "malawi-nkhata-bay-aquatic-area-life-v2",
@@ -837,6 +863,7 @@ export const malawiLifeV2: POI[] = [
       ro: ["Suprafață 5 km²", "Peste 100 de specii de ciclide", "Zonă de depunere a icrelor", "Scufundări populare", "Pescuitul ca principală ocupație", "Proiecte de sustenabilitate"],
       en: ["Area 5 km²", "Over 100 cichlid species", "Breeding ground", "Snorkeling popular", "Fishing main livelihood", "Sustainability projects"],
     },
+    image: "/poi-images/malawi-nkhata-bay-aquatic-area-life-v2.webp",
   },
   {
     id: "malawi-likoma-island-habitat-life-v2",
@@ -868,6 +895,7 @@ export const malawiLifeV2: POI[] = [
       ro: ["Suprafață 20 km²", "Colonizată din 1910", "Păsări endemice", "Specii de ciclide", "Locuri de scufundare", "Biserici istorice"],
       en: ["Area 20 km²", "Settled since 1910", "Endemic birds", "Cichlid species", "Diving sites", "Historic churches"],
     },
+    image: "/poi-images/malawi-likoma-island-habitat-life-v2.webp",
   },
   {
     id: "malawi-bua-river-sanctuary-life-v2",
@@ -899,6 +927,7 @@ export const malawiLifeV2: POI[] = [
       ro: ["Fondat în 2008", "Suprafață 500 ha", "Populație de hipopotami", "Specii de vidre", "Plimbări cu canoe", "Administrat de o ONG"],
       en: ["Established 2008", "Area 500 ha", "Hippo population", "Otter species", "Canoe safaris", "Managed by NGO"],
     },
+    image: "/poi-images/malawi-bua-river-sanctuary-life-v2.webp",
   },
   {
     id: "malawi-lilongwe-nature-sanctuary-life-v2",
@@ -930,5 +959,6 @@ export const malawiLifeV2: POI[] = [
       ro: ["Rezervația se întinde pe 180 de hectare.", "A fost deschisă oficial în anul 1994.", "Râul Lilongwe curge pe mai mult de 4 km prin parc.", "Peste 200 de specii de păsări au fost înregistrate în rezervație.", "Altitudinea terenului variază între 1.050 și 1.150 de metri deasupra nivelului mării.", "Aproximativ 50.000 de vizitatori vin anual la rezervație."],
       en: ["The sanctuary covers an area of 180 hectares.", "It was officially opened in 1994.", "The Lilongwe River flows over 4 km through the park.", "Over 200 bird species have been recorded in the sanctuary.", "The elevation ranges from 1,050 to 1,150 meters above sea level.", "Approximately 50,000 visitors come to the sanctuary each year."],
     },
+    image: "/poi-images/malawi-lilongwe-nature-sanctuary-life-v2.webp",
   }
 ];

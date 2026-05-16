@@ -32,6 +32,7 @@ export const andorraNatureV2: POI[] = [
       ro: ["Altitudinea vârfului de 2.740 metri deasupra mării.", "Compus în principal din calcar din perioada devoniană.", "Constă din trei vârfuri: Sud, Mijloc și Nord.", "Situat pe creasta care separă Ordino de Canillo.", "Oferă o vedere panoramică la 360 de grade asupra Pirineilor.", "Muntele prezintă trasee de drumeție relativ accesibile."],
       en: ["Peak elevation of 2,740 meters above sea level.", "Composed primarily of limestone from the Devonian period.", "Consists of three summits: South, Middle, and North.", "Located on the ridge separating Ordino and Canillo.", "Offers a 360-degree panoramic view of the Pyrenees.", "The mountain features relatively accessible hiking trails."],
     },
+    image: "/poi-images/andorra-pic-de-casamanya-nature-v2.webp",
   },
   {
     id: "andorra-estany-de-jucla-nature-v2",
@@ -64,6 +65,7 @@ export const andorraNatureV2: POI[] = [
       ro: ["Cel mai mare lac din Principatul Andorra.", "Suprafața totală este de aproximativ 21,3 hectare.", "Situat la o altitudine de 2.295 de metri.", "Situat în Valea Incles din parohia Canillo.", "Dispune de un baraj construit pentru a regla fluxul de apă.", "Adâncimea maximă a lacului atinge 52 de metri."],
       en: ["Largest lake in the Principality of Andorra.", "Total surface area is approximately 21.3 hectares.", "Situated at an altitude of 2,295 meters.", "Located in the Incles Valley in the parish of Canillo.", "Features a dam built to regulate water flow.", "The maximum depth of the lake reaches 52 meters."],
     },
+    image: "/poi-images/andorra-estany-de-jucla-nature-v2.webp",
   },
   {
     id: "andorra-cirque-de-pessons-nature-v2",
@@ -96,6 +98,7 @@ export const andorraNatureV2: POI[] = [
       ro: ["Mare circ glaciar situat în parohia Encamp.", "Format în principal din rocă de granit din Carbonifer.", "Conține o serie de peste 15 lacuri conectate.", "Cel mai înalt vârf din circ este Pic de Pessons la 2.864 m.", "Zona aparține sectorului Grau Roig din Grandvalira.", "Habitat cheie pentru fauna pirineeană de munte înalt."],
       en: ["Large glacial cirque located in the parish of Encamp.", "Formed primarily of granite rock from the Carboniferous.", "Contains a series of more than 15 connected lakes.", "Highest peak in the cirque is Pic de Pessons at 2,864m.", "Area belongs to the Grau Roig sector of Grandvalira.", "Key habitat for high-mountain Pyrenean fauna."],
     },
+    image: "/poi-images/andorra-cirque-de-pessons-nature-v2.webp",
   },
   {
     id: "andorra-pic-de-l-estanyo-nature-v2",
@@ -128,6 +131,7 @@ export const andorraNatureV2: POI[] = [
       ro: ["Altitudine de 2.915 metri, al doilea cel mai înalt din Andorra.", "Situat în Parcul Natural Valea Sorteny.", "Vârful oferă priveliști ale lacului Estanyó de mai jos.", "Geologia este caracterizată de roci de șist metamorfic.", "Cunoscut pentru prezența speciilor de plante alpine rare.", "Parte a crestei axiale principale a Pirineilor."],
       en: ["Elevation of 2,915 meters, the second highest in Andorra.", "Located in the Sorteny Valley Natural Park.", "The summit offers views of the Estanyó lake below.", "Geology is characterized by metamorphic schist rocks.", "Known for the presence of rare alpine plant species.", "Part of the main Pyrenean axial ridge."],
     },
+    image: "/poi-images/andorra-pic-de-l-estanyo-nature-v2.webp",
   },
   {
     id: "andorra-pic-de-font-blanca-nature-v2",
@@ -160,6 +164,7 @@ export const andorraNatureV2: POI[] = [
       ro: ["Altitudinea vârfului atinge 2.903 metri.", "Situat la granița dintre Andorra și Franța.", "Accesibil din zona Arcalís din parohia Ordino.", "Prezintă o creastă stâncoasă abruptă cunoscută sub numele de creasta Rialb.", "Compoziția geologică este în principal micasist și gnais.", "Unul dintre vârfurile clasice pentru schi de tură în timpul iernii."],
       en: ["Summit elevation reaches 2,903 meters.", "Situated on the border between Andorra and France.", "Accessible from the Arcalís area in the Ordino parish.", "Features a steep rocky ridge known as the Rialb ridge.", "Geological composition is mainly mica-schist and gneiss.", "One of the classic summits for ski mountaineering in winter."],
     },
+    image: "/poi-images/andorra-pic-de-font-blanca-nature-v2.webp",
   },
   {
     id: "andorra-estany-de-les-abelletes-nature-v2",
@@ -192,6 +197,7 @@ export const andorraNatureV2: POI[] = [
       ro: ["Lac de munte situat la 2.258 de metri altitudine.", "Situat la granița dintre Andorra și Franța.", "Considerat sursa primară a râului Ariège.", "Suprafața acoperă aproximativ 2 hectare.", "Loc foarte popular pentru pescuit în lunile de vară.", "Situat lângă orașul Pas de la Casa din Encamp."],
       en: ["High mountain lake located at 2,258 meters altitude.", "Situated on the border between Andorra and France.", "Considered the primary source of the Ariège river.", "Surface area covers approximately 2 hectares.", "Very popular spot for fishing during the summer months.", "Located near the town of Pas de la Casa in Encamp."],
     },
+    image: "/poi-images/andorra-estany-de-les-abelletes-nature-v2.webp",
   },
   {
     id: "andorra-bosc-de-la-devesa-nature-v2",
@@ -224,6 +230,7 @@ export const andorraNatureV2: POI[] = [
       ro: ["Pădurea este situată la o altitudine medie de aproximativ 1.750 de metri.", "Specia predominantă este pinul negru, adaptat la condițiile de îngheț prelungit.", "Bosc de la Devesa face parte din bazinul hidrografic al râului Valira d'Orient.", "Rododendronul feruginos este arbustul cel mai răspândit în stratul de subarboret.", "Zona este monitorizată pentru protejarea cocoșului de munte, o specie rară în Pirinei.", "Traseele montane din zonă fac legătura între pădure și Valea Incles."],
       en: ["The forest is situated at an average elevation of approximately 1,750 meters above sea level.", "The mountain pine (Pinus uncinata) is the dominant tree species in this subalpine zone.", "Bosc de la Devesa is part of the Valira d'Orient river basin in eastern Andorra.", "The rusty-leaved alpine rose is a common shrub found throughout the forest floor.", "It serves as a critical habitat for the capercaillie, a strictly protected bird species.", "Multiple hiking paths connect the forest area to the scenic Incles Valley nearby."],
     },
+    image: "/poi-images/andorra-bosc-de-la-devesa-nature-v2.webp",
   },
   {
     id: "andorra-pic-de-la-portelleta-nature-v2",
@@ -256,6 +263,7 @@ export const andorraNatureV2: POI[] = [
       ro: ["Cu o înălțime de 2.905 metri, este printre cele mai înalte șapte vârfuri din Andorra.", "Vârful este situat exact pe linia de frontieră dintre Andorra și Spania.", "Face parte integrantă din situl UNESCO Valea Madriu-Perafita-Claror.", "Compoziția sa geologică este dominată de roci granitice rezistente la eroziune.", "Numele alternativ 'Tosseta de l'Esquena d'Asne' se traduce prin 'Spatele Măgarului'.", "Traseul principal de acces trece pe lângă refugiul montan l'Illa, situat la 2.488 metri."],
       en: ["At 2,905 meters, it is one of the seven highest peaks in the Principality of Andorra.", "The summit is located precisely on the international border between Andorra and Spain.", "It is situated within the boundaries of the UNESCO World Heritage Madriu-Perafita-Claror Valley.", "The mountain's geological structure is predominantly composed of ancient granite.", "The local name 'Tosseta de l'Esquena d'Asne' translates to 'Donkey's Back Top'.", "The primary climbing route typically starts from the Refugi de l'Illa at 2,488 meters."],
     },
+    image: "/poi-images/andorra-pic-de-la-portelleta-nature-v2.webp",
   },
   {
     id: "andorra-estanys-de-la-vall-del-riu-nature-v2",
@@ -288,6 +296,7 @@ export const andorraNatureV2: POI[] = [
       ro: ["Lacul principal este situat la o altitudine de 2.530 de metri.", "Geneza lacurilor este glaciară, datând din perioada retragerii ultimilor ghețari.", "Acestea sunt localizate în parohia Canillo, în extremitatea nord-estică a țării.", "Populațiile de păstrăv indigen sunt monitorizate pentru menținerea biodiversității.", "Zona periglaciară este frecventată de capra neagră pirineană (izard).", "Punctul de plecare pentru majoritatea drumețiilor către lacuri este valea Ransol."],
       en: ["The primary lake is positioned at an altitude of 2,530 meters above sea level.", "These lakes were formed by glacial activity approximately 10,000 years ago.", "They are located deep within the Vall del Riu in the northeast of Andorra.", "The lakes support brown trout (Salmo trutta), which thrive in the cold, clear water.", "The area is a known habitat for the rare Pyrenean desman, a semi-aquatic mammal.", "The hiking trail to the lakes typically commences from the village of Ransol."],
     },
+    image: "/poi-images/andorra-estanys-de-la-vall-del-riu-nature-v2.webp",
   },
   {
     id: "andorra-pic-negre-de-claror-nature-v2",
@@ -320,6 +329,7 @@ export const andorraNatureV2: POI[] = [
       ro: ["Vârful are o altitudine de 2.644 de metri deasupra nivelului mării.", "Numele său reflectă compoziția geologică de șisturi de culoare închisă.", "Este situat în interiorul perimetrului protejat UNESCO al Văii Madriu-Perafita-Claror.", "Reprezintă un punct de convergență între bazinele hidrografice Claror și Perafita.", "Zona înconjurătoare păstrează urme ale exploatării miniere din secolele trecute.", "Oferă o perspectivă vizuală extinsă asupra regiunii spaniole Cerdanya."],
       en: ["The peak stands at an elevation of 2,644 meters above sea level.", "Its name originates from the dark-colored metamorphic rocks at its summit.", "It is located within the UNESCO World Heritage Madriu-Perafita-Claror Valley.", "The mountain acts as a watershed divide for the Claror and Perafita streams.", "Nearby areas contain historical remains of traditional stone shepherd huts.", "The summit provides a wide panoramic view of the Spanish Cerdanya basin."],
     },
+    image: "/poi-images/andorra-pic-negre-de-claror-nature-v2.webp",
   },
   {
     id: "andorra-estany-de-cabana-sorda-nature-v2",
@@ -352,6 +362,7 @@ export const andorraNatureV2: POI[] = [
       ro: ["Lacul este poziționat la o altitudine de 2.295 de metri.", "Refugiul Cabana Sorda de pe mal are o capacitate de 20 de locuri.", "Este considerat unul dintre cele mai accesibile lacuri glaciare din Andorra.", "Formarea sa este rezultatul eroziunii glaciare din perioada cuaternară.", "Lacul este o locație populară pentru observarea florei de munte.", "Traseul de acces pornește din Valea Incles și are o dificultate medie."],
       en: ["The lake is located at an altitude of 2,295 meters above sea level.", "The Refugi de Cabana Sorda on its shore offers space for 20 people.", "It is one of the most frequently visited lakes in northeastern Andorra.", "The lake basin was formed by glacial erosion during the Quaternary period.", "The waters are home to a healthy population of brown trout.", "The ascent from the Incles Valley typically takes between 1.5 and 2 hours."],
     },
+    image: "/poi-images/andorra-estany-de-cabana-sorda-nature-v2.webp",
   },
   {
     id: "andorra-pic-de-medacorba-nature-v2",
@@ -384,6 +395,7 @@ export const andorraNatureV2: POI[] = [
       ro: ["Cu 2.914 metri, este al treilea cel mai înalt vârf din Principat.", "Reprezintă punctul de frontieră triplu între Andorra, Spania și Franța.", "Vârful este inclus în limitele Parcului Natural Comapedrosa.", "Structura sa geologică include șisturi cristaline și intruziuni de granit.", "Este un punct de reper pe traseul montan de mare distanță GR11.", "Accesul se face de obicei plecând din stațiunea montană Arinsal."],
       en: ["At 2,914 meters, it is the third highest peak in the country of Andorra.", "It serves as the international tripoint for Andorra, Spain, and France.", "The summit is located within the Comapedrosa Natural Park boundaries.", "Geologically, the mountain consists of a mix of granite and schist.", "It is a key landmark along the trans-Pyrenean GR11 hiking trail.", "The climb is often integrated with a trek to the nearby Pic de Comapedrosa."],
     },
+    image: "/poi-images/andorra-pic-de-medacorba-nature-v2.webp",
   },
   {
     id: "andorra-pic-de-sanfonts-nature-v2",
@@ -416,5 +428,6 @@ export const andorraNatureV2: POI[] = [
       ro: ["Înălțimea sa de 2.888 de metri îl plasează în elita vârfurilor andorrane.", "Vârful marchează granița dintre Andorra și regiunea spaniolă Pallars Sobirà.", "Este inclus în aria protejată a Parcului Natural Comapedrosa.", "Compoziția dominantă a masivului este formată din șisturi metamorfice.", "Traseul de drumeție trece pe lângă lacurile glaciare Estanys de Baiau.", "De pe vârf se poate vedea în profunzime valea spaniolă Ferrera."],
       en: ["At 2,888 meters, it is among the highest elevations in the Principality.", "The summit sits directly on the border between Andorra and the Spanish region of Pallars Sobirà.", "It is part of the protected Comapedrosa Natural Park.", "The mountain is primarily composed of metamorphic schist rocks.", "The hiking route often passes by the scenic Estanys de Baiau lakes.", "The summit offers clear views into the Spanish Vall Ferrera."],
     },
+    image: "/poi-images/andorra-pic-de-sanfonts-nature-v2.webp",
   }
 ];

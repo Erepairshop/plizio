@@ -32,6 +32,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ro: ["Altitudine: 2.764 m.", "Roci: calcar și dolomit mezozoice.", "Prima ascensiune documentată: 1926, expediție italiană.", "Vârful se află pe granița nord-macedoneană-albaneză.", "Zonă seismică activă; cutremurul din 1963 de la Skopje a avut epicentrul aici.", "Precipitații anuale: peste 1.500 mm."],
       en: ["Elevation: 2,764 m (9,068 ft).", "Geology: Mesozoic limestone and dolomite.", "First recorded ascent: 1926 by an Italian expedition.", "Peak lies on the border of North Macedonia and Albania.", "Seismically active region; epicenter of the 1963 Skopje earthquake.", "Annual precipitation exceeds 1,500 mm."],
     },
+    image: "/poi-images/northmacedonia-korab-peak-relief-v2.webp",
   },
   {
     id: "northmacedonia-titov-vrv-relief-v2",
@@ -64,6 +65,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ro: ["Înălțime: 2748 m", "Denumit în 1953 după Josip Broz Tito", "Nume istoric: Golem Vrv", "Situat în Munții Šar", "Prima ascensiune turistică în anii 1930", "Format din șisturi paleozoice și granite"],
       en: ["Elevation: 2748 m", "Named in 1953 after Josip Broz Tito", "Historical name: Golem Vrv", "Located in the Šar Mountains", "First tourist ascent in the 1930s", "Composed of Paleozoic schists and granites"],
     },
+    image: "/poi-images/northmacedonia-titov-vrv-relief-v2.webp",
   },
   {
     id: "northmacedonia-pelister-peak-relief-v2",
@@ -96,6 +98,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ro: ["Înălțime: 2601 m", "Cel mai înalt vârf din Munții Baba", "Parcul național fondat în 1948", "Pin endemic Molika (Pinus peuce)", "Format din gnais și șisturi micacee", "Bazin hidrografic important pentru Câmpia Pelagonia"],
       en: ["Elevation: 2601 m", "Highest peak of the Baba Mountains", "National park established in 1948", "Endemic Molika pine (Pinus peuce)", "Composed of gneiss and mica schist", "Important watershed for the Pelagonia Plain"],
     },
+    image: "/poi-images/northmacedonia-pelister-peak-relief-v2.webp",
   },
   {
     id: "northmacedonia-golem-korab-plateau-relief-v2",
@@ -128,6 +131,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ro: ["Altitudinea podișului: aprox. 2400-2764 m", "Vârful Golem Korab: 2764 m", "Cel mai înalt punct al Macedoniei de Nord", "Formațiuni carstice predominante", "Populație rară", "Pajiști alpine și păduri de conifere"],
       en: ["Plateau elevation: approx. 2400-2764 m", "Golem Korab peak: 2764 m", "Highest point in North Macedonia", "Karst formations dominate", "Sparse population", "Alpine meadows and coniferous forests"],
     },
+    image: "/poi-images/northmacedonia-golem-korab-plateau-relief-v2.webp",
   },
   {
     id: "northmacedonia-jakupica-massif-relief-v2",
@@ -160,6 +164,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ro: ["Lungime: 70 km", "Cel mai înalt vârf: Solunska Glava (2540 m)", "Compus din șisturi cristaline și marmură", "Izvoare carstice și râul Treska", "Rezervor important de apă potabilă pentru Skopje", "Păduri de fag și stejar"],
       en: ["Length: 70 km", "Highest peak: Solunska Glava (2540 m)", "Composed of crystalline schists and marble", "Karst springs and Treska River", "Important drinking water reservoir for Skopje", "Beech and oak forests"],
     },
+    image: "/poi-images/northmacedonia-jakupica-massif-relief-v2.webp",
   },
   {
     id: "northmacedonia-desat-mountain-relief-v2",
@@ -192,6 +197,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf: Golem Brsjak (2373 m)", "Format din calcar și dolomit", "Parte a Parcului Național Mavrovo", "Fenomene carstice (peșteri, doline)", "Floră endemică: stejar macedonean", "Habitat pentru râsul balcanic"],
       en: ["Highest peak: Golem Brsjak (2373 m)", "Composed of limestone and dolomite", "Part of Mavrovo National Park", "Karst features (caves, sinkholes)", "Endemic flora: Macedonian oak", "Habitat for Balkan lynx"],
     },
+    image: "/poi-images/northmacedonia-desat-mountain-relief-v2.webp",
   },
   {
     id: "northmacedonia-baba-mountain-range-relief-v2",
@@ -224,6 +230,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ro: ["Lungime: 30 km", "Cel mai înalt vârf: Pelister (2601 m)", "Parte a Parcului Național Pelister", "Roci metamorfice: gnais și șisturi", "Izvoare termale lângă Bitola", "Cumpăna apelor între Marea Adriatică și Marea Egee"],
       en: ["Length: 30 km", "Highest peak: Pelister (2601 m)", "Part of Pelister National Park", "Metamorphic rocks: gneiss and schist", "Thermal springs near Bitola", "Watershed between Adriatic and Aegean Seas"],
     },
+    image: "/poi-images/northmacedonia-baba-mountain-range-relief-v2.webp",
   },
   {
     id: "northmacedonia-sar-planina-relief-v2",
@@ -256,6 +263,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ro: ["Lungime: 80 km", "Cel mai înalt vârf: Titov Vrv (2748 m)", "Format din șisturi paleozoice", "Urme glaciare pleistocene", "Peste 2000 de specii de plante", "Slab populat, sate albaneze"],
       en: ["Length: 80 km", "Highest peak: Titov Vrv (2748 m)", "Composed of Paleozoic schists", "Pleistocene glacial traces", "Over 2000 plant species", "Sparsely populated, Albanian villages"],
     },
+    image: "/poi-images/northmacedonia-sar-planina-relief-v2.webp",
   },
   {
     id: "northmacedonia-galicica-mountain-relief-v2",
@@ -288,6 +296,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ro: ["Lungime: 30 km", "Cel mai înalt vârf: Magaro (2255 m)", "Format din calcar și dolomit", "Bogat în peșteri carstice", "Parte a Parcului Național Galičica (1958)", "Crin endemic Prespa (Lilium albanicum)"],
       en: ["Length: 30 km", "Highest peak: Magaro (2255 m)", "Composed of limestone and dolomite", "Rich in karst caves", "Part of Galičica National Park (1958)", "Endemic Prespa lily (Lilium albanicum)"],
     },
+    image: "/poi-images/northmacedonia-galicica-mountain-relief-v2.webp",
   },
   {
     id: "northmacedonia-plackovica-range-relief-v2",
@@ -320,6 +329,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ro: ["Lungime: aprox. 40 km", "Cel mai înalt punct: Lisec (1754 m)", "Format din roci metamorfice și granit", "Păduri de foioase (stejar, fag)", "Cultivarea tutunului și fructelor", "Multe sate părăsite"],
       en: ["Length: approx. 40 km", "Highest point: Lisec (1754 m)", "Composed of metamorphic rocks and granite", "Deciduous forests (oak, beech)", "Tobacco and fruit cultivation", "Many abandoned villages"],
     },
+    image: "/poi-images/northmacedonia-plackovica-range-relief-v2.webp",
   },
   {
     id: "northmacedonia-belasica-mountains-relief-v2",
@@ -352,6 +362,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf: Radomir (2029 m)", "Situat la granița cu Grecia și Bulgaria", "Format din roci metamorfice și granit", "Parte a Rezervației Naturale Belasica", "Păduri de foioase (fag, stejar, arțar)", "Cunoscut pentru izvoare termale și viticultură"],
       en: ["Highest peak: Radomir (2029 m)", "Located on border with Greece and Bulgaria", "Composed of metamorphic rocks and granite", "Part of Belasica Nature Reserve", "Deciduous forests (beech, oak, maple)", "Known for thermal springs and wine production"],
     },
+    image: "/poi-images/northmacedonia-belasica-mountains-relief-v2.webp",
   },
   {
     id: "northmacedonia-kozjak-mountain-relief-v2",
@@ -384,6 +395,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ro: ["Înălțime: 1626 m", "Format preponderent din calcar", "Peisaje carstice", "Lacul de acumulare Kozjak (2004)", "Volumul lacului: 380 milioane m³", "Utilizare: irigații și energie electrică"],
       en: ["Height: 1626 m", "Mainly composed of limestone", "Karst landscapes", "Kozjak Reservoir (completed 2004)", "Reservoir volume: 380 million m³", "Used for irrigation and hydroelectric power"],
     },
+    image: "/poi-images/northmacedonia-kozjak-mountain-relief-v2.webp",
   },
   {
     id: "northmacedonia-pcinja-valley-relief-v2",
@@ -416,6 +428,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ro: ["Lungimea râului: 128 km (85 km în Macedonia de Nord)", "Vale îngustă cu versanți stâncoși", "Mănăstirea Pčinja (sec. XI)", "Pomicultură și viticultură", "Densitate scăzută a populației", "Aproape de granița cu Serbia"],
       en: ["River length: 128 km (85 km in North Macedonia)", "Narrow valley with rocky slopes", "Pčinja Monastery (11th century)", "Fruit and wine production", "Low population density", "Near the Serbian border"],
     },
+    image: "/poi-images/northmacedonia-pcinja-valley-relief-v2.webp",
   },
   {
     id: "northmacedonia-vardar-valley-relief-v2",
@@ -448,6 +461,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ro: ["Lungimea râului Vardar: 388 km (301 km în Macedonia de Nord)", "Traversează țara de la NV la SE", "Agricultură intensivă (cereale, fructe, legume)", "Cel mai important oraș: Skopje", "Coridor de transport cu A1 și calea ferată", "Densitate relativ ridicată a populației"],
       en: ["Vardar River length: 388 km (301 km in North Macedonia)", "Traverses country from NW to SE", "Intensive agriculture (grains, fruits, vegetables)", "Major city: Skopje", "Transport corridor with A1 and railway", "Relatively high population density"],
     },
+    image: "/poi-images/northmacedonia-vardar-valley-relief-v2.webp",
   },
   {
     id: "northmacedonia-pelagonia-plain-relief-v2",
@@ -480,6 +494,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ro: ["Lungime: aprox. 100 km", "Cea mai mare câmpie a Macedoniei de Nord", "Agricultură: grâu, porumb, tutun, bumbac", "Cel mai mare oraș: Bitola", "Altitudine: aprox. 600 m", "Climă continentală"],
       en: ["Length: approx. 100 km", "Largest plain in North Macedonia", "Agriculture: wheat, corn, tobacco, cotton", "Largest city: Bitola", "Elevation: approx. 600 m", "Continental climate"],
     },
+    image: "/poi-images/northmacedonia-pelagonia-plain-relief-v2.webp",
   },
   {
     id: "northmacedonia-ovce-pole-relief-v2",
@@ -512,6 +527,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ro: ["Altitudine: aprox. 250 m", "Cunoscut pentru creșterea oilor", "Agricultură: cereale și floarea-soarelui", "Cel mai important oraș: Sveti Nikole", "Bătălii istorice din Primul Război Mondial", "Climă temperat-continentală, veri uscate"],
       en: ["Elevation: approx. 250 m", "Known for sheep farming", "Agriculture: grains and sunflowers", "Main town: Sveti Nikole", "Historical World War I battles", "Temperate continental climate, dry summers"],
     },
+    image: "/poi-images/northmacedonia-ovce-pole-relief-v2.webp",
   },
   {
     id: "northmacedonia-babuna-valley-relief-v2",
@@ -544,6 +560,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ro: ["Râul Babuna se varsă în Vardar", "Înconjurată de dealuri și munți joși", "Vii și livezi", "Cea mai mare așezare: Čaška", "Mănăstirea Babuna (sec. XIV)", "Populație preponderent macedoneană"],
       en: ["Babuna River flows into Vardar", "Surrounded by hills and low mountains", "Vineyards and orchards", "Largest settlement: Čaška", "Babuna Monastery (14th century)", "Predominantly Macedonian population"],
     },
+    image: "/poi-images/northmacedonia-babuna-valley-relief-v2.webp",
   },
   {
     id: "northmacedonia-treska-canyon-relief-v2",
@@ -576,6 +593,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ro: ["Lungime: aprox. 20 km", "Adâncime: până la 100 m", "Format din calcar", "Peștera Vrelo: adâncime 230 m", "Vegetație mediteraneană (maquis)", "Popular pentru drumeții și caiac"],
       en: ["Length: approx. 20 km", "Depth: up to 100 m", "Composed of limestone", "Vrelo Cave: depth 230 m", "Mediterranean vegetation (maquis)", "Popular for hiking and kayaking"],
     },
+    image: "/poi-images/northmacedonia-treska-canyon-relief-v2.webp",
   },
   {
     id: "northmacedonia-demir-kapija-canyon-relief-v2",
@@ -608,6 +626,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ro: ["Lungime: aprox. 6 km", "Adâncime: până la 300 m", "Trecătoare între Kožuf și Dren", "Nume din turcă (Poarta de Fier)", "Cunoscut pentru podgorii", "Nod important de transport (A1, cale ferată)"],
       en: ["Length: approx. 6 km", "Depth: up to 300 m", "Gorge between Kožuf and Dren", "Name from Turkish (Iron Gate)", "Known for vineyards", "Major transport hub (A1, railway)"],
     },
+    image: "/poi-images/northmacedonia-demir-kapija-canyon-relief-v2.webp",
   },
   {
     id: "northmacedonia-kajmakcalan-relief-v2",
@@ -640,6 +659,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ro: ["Înălțime: 2528 m", "În Munții Nidže la granița cu Grecia", "Locul luptelor grele din 1916", "Format din calcar", "Parte a Parcului Național Pelister", "Monument al soldaților sârbi pe vârf"],
       en: ["Height: 2528 m", "In Nidže Mountains on Greek border", "Site of heavy fighting in 1916", "Composed of limestone", "Part of Pelister National Park", "Serbian soldier monument on summit"],
     },
+    image: "/poi-images/northmacedonia-kajmakcalan-relief-v2.webp",
   },
   {
     id: "northmacedonia-crn-vrv-relief-v2",
@@ -672,6 +692,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ro: ["Înălțime: 2585 m", "Cel mai înalt vârf al Munților Nidže", "La granița cu Grecia", "Format din roci metamorfice", "Pin endemic macedonean (Pinus peuce)", "Parte a Parcului Național Pelister"],
       en: ["Height: 2585 m", "Highest peak of Nidže Mountains", "On the border with Greece", "Composed of metamorphic rocks", "Endemic Macedonian pine (Pinus peuce)", "Part of Pelister National Park"],
     },
+    image: "/poi-images/northmacedonia-crn-vrv-relief-v2.webp",
   },
   {
     id: "northmacedonia-krvavi-vrv-relief-v2",
@@ -704,6 +725,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ro: ["Altitudine: 2.533 m.", "Face parte din Munții Šar, care au o lungime de aproximativ 80 km.", "Parcul Național Šar Planina are o suprafață de peste 100.000 ha.", "Temperatura medie anuală la altitudini mari este sub 0°C.", "Populația locală păstorește oi în zonele joase.", "Traseul de drumeție durează aproximativ 4-5 ore."],
       en: ["Elevation: 2,533 m (8,310 ft).", "Coordinates: 42°06′N 20°59′E.", "Part of the Dinaric Alps range.", "The peak is composed primarily of limestone and dolomite.", "Snow cover lasts from November to May.", "The nearest major settlement is Tetovo, population ~70,000."],
     },
+    image: "/poi-images/northmacedonia-krvavi-vrv-relief-v2.webp",
   },
   {
     id: "northmacedonia-busova-peak-relief-v2",
@@ -736,6 +758,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ro: ["Altitudine: 2.386 m.", "Parte a Masivului Jakupica, care se întinde pe 80 km.", "Parcul Național Jakupica acoperă 80.000 ha.", "Râul Babuna izvorăște de pe versanții săi.", "Temperatura medie anuală: 4°C la baza muntelui.", "Poteca de drumeție are o lungime de 6 km și o diferență de nivel de 800 m."],
       en: ["Elevation: 2,386 m (7,828 ft).", "Coordinates: 41°40′N 21°20′E.", "Part of the Jakupica group, with 15 peaks above 2,000 m.", "The mountain is composed of Paleozoic schist and limestone.", "Snow cover typically lasts from December to April.", "The nearest village is Bogomila, population ~500."],
     },
+    image: "/poi-images/northmacedonia-busova-peak-relief-v2.webp",
   },
   {
     id: "northmacedonia-plackovica-peak-relief-v2",
@@ -768,6 +791,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ro: ["Altitudine: 1.754 m.", "Masivul Plackovica se întinde pe 30 km lungime.", "Zăcămintele de plumb și zinc au fost exploatate între 1880 și 1910.", "Orașul Štip are o populație de 43.000 de locuitori.", "Pădurea de stejar acoperă 60% din suprafață.", "Traseul turistic marcat are o lungime de 8 km."],
       en: ["Elevation: 1,754 m (5,755 ft).", "Coordinates: 41°45′N 22°15′E.", "The Plackovica range is 30 km long and 10 km wide.", "The mountain's mining history dates back to the Roman era.", "Annual precipitation: 600-800 mm.", "The peak offers views of three major river valleys."],
     },
+    image: "/poi-images/northmacedonia-plackovica-peak-relief-v2.webp",
   },
   {
     id: "northmacedonia-osogovo-peak-relief-v2",
@@ -800,6 +824,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ro: ["Altitudine: 2.252 m.", "Munții Osogovo se întind pe 50 km lungime.", "Rezervația Biosferei acoperă 120.000 ha.", "Exploatarea aurului a început în epoca romană.", "Temperatura medie anuală la 2.000 m: 1°C.", "Pe vârf există o stație meteo funcțională."],
       en: ["Elevation: 2,252 m (7,388 ft).", "Coordinates: 42°10′N 22°30′E.", "The Osogovo range spans 50 km west-east.", "Biosphere Reserve established in 2019, area 120,000 ha.", "Oldest rocks date to 1.5 billion years ago.", "The mountain hosts brown bear and Balkan lynx populations."],
     },
+    image: "/poi-images/northmacedonia-osogovo-peak-relief-v2.webp",
   },
   {
     id: "northmacedonia-belasica-peak-relief-v2",
@@ -832,6 +857,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ro: ["Altitudine: 1.879 m.", "Punctul de frontieră triplă se află la 2 km de vârf.", "Lacul Dojran are o suprafață de 43 km².", "Aria protejată Belasica se întinde pe 12.000 ha.", "Temperatura medie în iulie: 22°C la poale.", "Traseul de drumeție spre vârf are 6 km."],
       en: ["Elevation: 1,879 m (6,165 ft).", "Coordinates: 41°20′N 22°55′E.", "The Belasica range is 30 km long and 10 km wide.", "Lake Dojran lies at 148 m above sea level.", "The area is a Natura 2000 site.", "Annual precipitation averages 800-1,000 mm."],
     },
+    image: "/poi-images/northmacedonia-belasica-peak-relief-v2.webp",
   },
   {
     id: "northmacedonia-jablanica-peak-relief-v2",
@@ -864,6 +890,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ro: ["Altitudine: 2.257 m.", "Parcul Național Pelister are o suprafață de 17.150 ha.", "Lacul Ohrid are o adâncime maximă de 288 m.", "Pinul molika poate atinge vârsta de 500 de ani.", "Pe vârf sunt prezente formațiuni de gheață perenă.", "Traseul de alpinism are gradul IV de dificultate."],
       en: ["Elevation: 2,257 m (7,405 ft).", "Coordinates: 41°15′N 20°40′E.", "Pelister National Park: established 1948, area 17,150 ha.", "Lake Ohrid is a UNESCO World Heritage site.", "The molika pine is a Tertiary relict species.", "Annual snowfall exceeds 3 m on the peak."],
     },
+    image: "/poi-images/northmacedonia-jablanica-peak-relief-v2.webp",
   },
   {
     id: "northmacedonia-galicica-peak-relief-v2",
@@ -896,6 +923,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ro: ["Altitudine: 2.255 m.", "Parcul Național Galicica se întinde pe 22.000 ha.", "Lacul Ohrid are 358 km², iar Lacul Prespa 273 km².", "Pe vârf se află un turn de observație de 10 m.", "Specii endemice: 20 de plante vasculare.", "Traseul principal are 15 km și o diferență de nivel de 1.000 m."],
       en: ["Elevation: 2,255 m (7,398 ft).", "Coordinates: 40°55′N 20°50′E.", "Galicica National Park: established 1958, area 22,000 ha.", "The park hosts over 1,000 plant species.", "Lakes Ohrid and Prespa are separated by 10 km.", "The summit observation tower was built in 2010."],
     },
+    image: "/poi-images/northmacedonia-galicica-peak-relief-v2.webp",
   },
   {
     id: "northmacedonia-stogovo-peak-relief-v2",
@@ -928,6 +956,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ro: ["Altitudine: 2.194 m.", "Munții Stogovo se întind pe 20 km.", "Orașul Debar are 15.000 de locuitori.", "Râul Radika are o lungime de 60 km.", "Pădurea de fag acoperă 70% din suprafață.", "Stratul de zăpadă atinge 1,5 m iarna."],
       en: ["Elevation: 2,194 m (7,198 ft).", "Coordinates: 41°35′N 20°35′E.", "The Stogovo range is 20 km long and 8 km wide.", "Nearest town: Debar, population ~15,000.", "The Radika River is 60 km long.", "Snow cover persists for 5 months annually."],
     },
+    image: "/poi-images/northmacedonia-stogovo-peak-relief-v2.webp",
   },
   {
     id: "northmacedonia-baba-peak-relief-v2",
@@ -960,6 +989,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ro: ["Altitudine: 2.601 m.", "Parcul Național Pelister are 17.150 ha.", "Lacul Mare (unul din Ochii Pelisterului) are 5 ha.", "Pinul molika atinge 40 m înălțime.", "Stațiunea de schi are 4 teleschiuri.", "Temperatura medie în ianuarie: -5°C pe vârf."],
       en: ["Elevation: 2,601 m (8,533 ft).", "Coordinates: 41°00′N 21°15′E.", "Pelister National Park: established 1948, area 17,150 ha.", "The 'Pelister Eyes' are two glacial lakes at 2,200 m.", "The molika pine (Pinus peuce) can live up to 500 years.", "Baba Mountain range is 25 km long."],
     },
+    image: "/poi-images/northmacedonia-baba-peak-relief-v2.webp",
   },
   {
     id: "northmacedonia-desat-peak-relief-v2",
@@ -992,6 +1022,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ro: ["Altitudine: 2.375 m.", "Munții Desat se întind pe 15 km lungime.", "Calcarul datează din Cretacic (acum 100 mil. ani).", "Populația de capră neagră: 200 de exemplare.", "Lacul Shkodër are 368 km².", "Satul Bistrica se află la 10 km distanță."],
       en: ["Elevation: 2,375 m (7,792 ft).", "Coordinates: 41°25′N 20°35′E.", "The Desat range is 15 km long and 5 km wide.", "Limestone rocks are Cretaceous in age (~100 mya).", "Balkan chamois population: approximately 200 individuals.", "Lake Shkodër covers 368 km²."],
     },
+    image: "/poi-images/northmacedonia-desat-peak-relief-v2.webp",
   },
   {
     id: "northmacedonia-ograzden-peak-relief-v2",
@@ -1024,6 +1055,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ro: ["Altitudine: 1.744 m.", "Munții Ograzden se întind pe 20 km.", "Orașul Strumica are 35.000 de locuitori.", "Cultura tutunului acoperă 5.000 ha.", "Populația de bufniță: 20 de perechi.", "Traseul de drumeție are 3 km și 300 m diferență de nivel."],
       en: ["Elevation: 1,744 m (5,722 ft).", "Coordinates: 41°35′N 22°45′E.", "The Ograzden range is 20 km long and 10 km wide.", "Nearest city: Strumica, population ~35,000.", "Tobacco is grown on 5,000 ha in the region.", "The Eurasian eagle-owl nests on the mountain cliffs."],
     },
+    image: "/poi-images/northmacedonia-ograzden-peak-relief-v2.webp",
   },
   {
     id: "northmacedonia-koprivnica-plateau-relief-v2",
@@ -1056,6 +1088,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ro: ["Altitudine: aproximativ 2.000 m.", "Suprafață: 10 km².", "Parte a Parcului Național Šar Planina.", "Râul Radika are 60 km lungime.", "Pășunat de vară: până la 5.000 de oi.", "Temperatura medie în iulie: 10°C."],
       en: ["Elevation: ~2,000 m (6,562 ft).", "Area: approximately 10 km².", "Part of Šar Planina National Park.", "The Radika River originates from this area.", "Summer grazing supports up to 5,000 sheep.", "Average July temperature: 10°C (50°F)."],
     },
+    image: "/poi-images/northmacedonia-koprivnica-plateau-relief-v2.webp",
   },
   {
     id: "northmacedonia-kozjak-plateau-relief-v2",
@@ -1088,6 +1121,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ro: ["Altitudine: aproximativ 1.500 m.", "Distanța până la Tetovo: 10 km.", "Tetovo are 70.000 de locuitori.", "Traseul de schi fond: 15 km.", "Producția anuală de brânză de oaie: 20 de tone.", "Peste 100 de specii de păsări observate."],
       en: ["Elevation: ~1,500 m (4,921 ft).", "Distance from Tetovo: 10 km (6 mi).", "Tetovo population: ~70,000.", "Cross-country ski trail: 15 km (9 mi).", "Annual sheep cheese production: 20 tons.", "Bird species recorded: over 100."],
     },
+    image: "/poi-images/northmacedonia-kozjak-plateau-relief-v2.webp",
   },
   {
     id: "northmacedonia-kriva-reka-canyon-relief-v2",
@@ -1120,5 +1154,6 @@ export const northmacedoniaReliefV2: POI[] = [
       ro: ["Adâncime: până la 100 m.", "Lungimea canionului: 5 km.", "Râul Kriva Reka are 30 km lungime.", "Orașul Kriva Palanka are 14.000 de locuitori.", "Traseu de rafting: 4 km, grad de dificultate III-IV.", "Cea mai înaltă cascadă: 15 m."],
       en: ["Depth: up to 100 m (328 ft).", "Length of canyon: 5 km (3 mi).", "Kriva Reka River: 30 km long (19 mi).", "Town of Kriva Palanka: population ~14,000.", "Rafting section: 4 km, class III-IV rapids.", "Tallest waterfall: 15 m (49 ft) drop."],
     },
+    image: "/poi-images/northmacedonia-kriva-reka-canyon-relief-v2.webp",
   }
 ];

@@ -272,6 +272,7 @@ export const poiExtraAustriaNature: POI[] = [
         "The lake's popularity exploded after actor Ashton Kutcher posted about it online.",
         "Although diving is now prohibited, the flooded landscape offers a breathtaking view from the shore."
       ]
-    }
+    },
+    image: "/poi-images/lake-grüner-see-extra.webp",
   }
 ];

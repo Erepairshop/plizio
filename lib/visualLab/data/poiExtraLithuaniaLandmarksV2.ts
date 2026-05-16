@@ -876,6 +876,7 @@ imageHint: "Raudondvaris Castle manor and red brick tower",
       ro: ["An construcție: 1903", "Stil: Neomaur", "Arhitect: Dāvids Rozentāls", "Supraviețuire: Singura din peste 100", "Locație: Orașul Vechi Vilnius", "Funcție: Singura sinagogă activă"],
       en: ["Inaugurated: September 1903", "Architect: Dāvids Rozentāls", "Style: Moorish-Romanesque", "Survivor: Only synagogue left in Vilnius", "Location: Pylimo Street", "Community: Litvak religious center"],
     },
+    image: "/poi-images/lithuania-choral-synagogue-vilnius-landmarks-v2.webp",
   },
   {
     id: "lithuania-sugihara-house-landmarks-v2",
@@ -1125,5 +1126,6 @@ imageHint: "Raudondvaris Castle manor and red brick tower",
       ro: ["Construit între 1930 și 1932", "Arhitect: Feliksas Vizbaras", "Dispune de un turn cu 8 etaje", "Monument cultural național al Lituaniei"],
       en: ["Built between 1930 and 1932", "Architect: Feliksas Vizbaras", "Features a prominent 8-storey tower", "National cultural monument of Lithuania"],
     },
+    image: "/poi-images/lithuania-kaunas-central-post-office-landmarks-v2.webp",
   }
 ];

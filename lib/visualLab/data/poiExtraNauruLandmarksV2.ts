@@ -31,6 +31,7 @@ export const nauruLandmarksV2: POI[] = [
       ro: ["Situată în districtul Yaren", "Sediul Parlamentului din Nauru", "Locul legislaturii naționale", "Simbol al suveranității din 1968", "Arhitectură guvernamentală modernă", "Aproape de aeroportul internațional"],
       en: ["Located in the Yaren District", "Seat of the Nauruan Parliament", "Site of national lawmaking", "Symbol of sovereignty since 1968", "Modern government architecture", "Proximity to the international airport"],
     },
+    image: "/poi-images/nauru-parliament-house-landmarks-v2.webp",
   },
   {
     id: "nauru-museum-landmarks-v2",
@@ -62,6 +63,7 @@ export const nauruLandmarksV2: POI[] = [
       ro: ["Situat în districtul Yaren", "Dedicat moștenirii nauruane", "Prezintă exponate din al Doilea Război", "Expune istoria minelor de fosfat", "Afișează artefacte tradiționale", "Centru cultural și educațional important"],
       en: ["Located in the Yaren District", "Dedicated to Nauruan heritage", "Features WWII historical exhibits", "Showcases phosphate mining history", "Displays traditional island artifacts", "Important educational cultural center"],
     },
+    image: "/poi-images/nauru-museum-landmarks-v2.webp",
   },
   {
     id: "nauru-command-ridge-landmarks-v2",
@@ -93,6 +95,7 @@ export const nauruLandmarksV2: POI[] = [
       ro: ["Cel mai înalt punct, 71 de metri", "Post militar japonez din al Doilea Război", "Punct strategic de observație", "Conține tunuri antiaeriene ruginite", "Situat în districtul Aiwo", "Vedere panoramică asupra insulei"],
       en: ["Highest point at 71 meters", "WWII Japanese military post", "Strategic observation viewpoint", "Contains rusted anti-aircraft guns", "Located in the Aiwo District", "Panoramic views of the island"],
     },
+    image: "/poi-images/nauru-command-ridge-landmarks-v2.webp",
   },
   {
     id: "nauru-phosphate-cantilever-landmarks-v2",
@@ -124,6 +127,7 @@ export const nauruLandmarksV2: POI[] = [
       ro: ["Sistem masiv de încărcare pentru nave", "Situat pe linia de coastă din Aiwo", "Simbol al industriei de fosfat", "Soluție inginerească pentru ape adânci", "Operațional de la începutul anilor 1900", "Reper dominant al insulei"],
       en: ["Massive loading system for ships", "Located on the Aiwo coastline", "Symbol of the phosphate industry", "Engineering solution for deep water", "Operational since the early 1900s", "Dominant landmark of the island"],
     },
+    image: "/poi-images/nauru-phosphate-cantilever-landmarks-v2.webp",
   },
   {
     id: "nauru-civic-centre-landmarks-v2",
@@ -155,6 +159,7 @@ export const nauruLandmarksV2: POI[] = [
       ro: ["Situat în districtul Aiwo", "Hub pentru servicii comunitare", "Găzduiește biblioteca publică națională", "Loc pentru întâlniri guvernamentale", "Centru administrativ și social", "Facilitate publică accesibilă"],
       en: ["Located in the Aiwo District", "Hub for community services", "Houses the national public library", "Venue for local government meetings", "Administrative and social center", "Accessible public facility"],
     },
+    image: "/poi-images/nauru-civic-centre-landmarks-v2.webp",
   },
   {
     id: "nauru-yaren-police-station-landmarks-v2",
@@ -186,6 +191,7 @@ export const nauruLandmarksV2: POI[] = [
       ro: ["Sediul principal al poliției", "Situat în districtul Yaren", "Centru pentru siguranța publică", "Coordonează răspunsurile de urgență", "Aproape de birourile guvernamentale", "Responsabil pentru ordinea judiciară"],
       en: ["Main law enforcement headquarters", "Located in the Yaren District", "Center for island-wide public safety", "Coordinates emergency responses", "Close to other government offices", "Responsible for judicial maintenance"],
     },
+    image: "/poi-images/nauru-yaren-police-station-landmarks-v2.webp",
   },
   {
     id: "nauru-menen-hotel-landmarks-v2",
@@ -217,6 +223,7 @@ export const nauruLandmarksV2: POI[] = [
       ro: ["Cel mai mare hotel de pe insulă", "Situat în districtul Meneng", "Unitate de cazare deținută de stat", "Dispune de peste 100 de camere", "Vedere spre Golful Anibare", "Locul principal pentru oaspeți străini"],
       en: ["Largest hotel on the island", "Located in the Meneng District", "State-owned accommodation", "Features more than 100 rooms", "Views overlooking Anibare Bay", "Primary venue for international guests"],
     },
+    image: "/poi-images/nauru-menen-hotel-landmarks-v2.webp",
   },
   {
     id: "nauru-airport-terminal-landmarks-v2",
@@ -248,6 +255,7 @@ export const nauruLandmarksV2: POI[] = [
       ro: ["Singurul aeroport internațional", "Situat în districtul Yaren", "Baza pentru Nauru Airlines", "Pistă construită în al Doilea Război", "Modernizat pentru avioane comerciale", "Legătură vitală pentru conectivitate"],
       en: ["Sole international airport in Nauru", "Located in the Yaren District", "Base for Nauru Airlines", "Runway built during World War II", "Upgraded for commercial jet aircraft", "Vital link for island connectivity"],
     },
+    image: "/poi-images/nauru-airport-terminal-landmarks-v2.webp",
   },
   {
     id: "nauru-moqua-well-landmarks-v2",
@@ -279,6 +287,7 @@ export const nauruLandmarksV2: POI[] = [
       ro: ["Localizat în districtul Yaren", "Parte a sistemului de peșteri Moqua", "Diametru de aproximativ 5 metri", "Sursă naturală de apă dulce", "Utilizat intens în perioada 1942-1945", "Formațiune geologică de calcar"],
       en: ["Located in Yaren District", "Part of the Moqua Caves system", "Approximately 5 meters in diameter", "Natural freshwater reservoir", "Critical supply during World War II", "Geological limestone formation"],
     },
+    image: "/poi-images/nauru-moqua-well-landmarks-v2.webp",
   },
   {
     id: "nauru-japanese-prison-ruins-landmarks-v2",
@@ -310,6 +319,7 @@ export const nauruLandmarksV2: POI[] = [
       ro: ["Construită între anii 1942 și 1945", "Structură din beton armat", "Situată în interiorul insulei", "Resturi vizibile de celule și ziduri", "Parte a complexului militar japonez", "Monument al perioadei de ocupație"],
       en: ["Built during the 1942-1945 occupation", "Constructed of reinforced concrete", "Located in the island's interior", "Remnants of prison cells visible", "Part of the Japanese defense network", "Evidence of forced labor on Nauru"],
     },
+    image: "/poi-images/nauru-japanese-prison-ruins-landmarks-v2.webp",
   },
   {
     id: "nauru-state-house-landmarks-v2",
@@ -341,6 +351,7 @@ export const nauruLandmarksV2: POI[] = [
       ro: ["Reședința oficială a președintelui", "Situată în districtul Meneng", "Distrusă de incendiu în 2003", "Gazdă pentru ceremonii de stat", "Reconstruită după evenimentele politice", "Aproape de coasta sudică a insulei"],
       en: ["Official residence of the President", "Located in the Meneng District", "Original building burned down in 2003", "Venue for state ceremonies", "Rebuilt following political unrest", "Situated near the southern coast"],
     },
+    image: "/poi-images/nauru-state-house-landmarks-v2.webp",
   },
   {
     id: "nauru-general-hospital-landmarks-v2",
@@ -372,6 +383,7 @@ export const nauruLandmarksV2: POI[] = [
       ro: ["Localizat în districtul Denigomodu", "Rezultat din fuziunea a două spitale", "Principalul centru medical din țară", "Include servicii de urgență", "Administrat de Ministerul Sănătății", "Deservește aproximativ 11.000 de locuitori"],
       en: ["Primary hospital in Denigomodu District", "Formed by the merger of two facilities", "Central hub for healthcare in Nauru", "Provides emergency and specialist care", "Government-operated institution", "Serves a population of about 11,000"],
     },
+    image: "/poi-images/nauru-general-hospital-landmarks-v2.webp",
   },
   {
     id: "nauru-central-pacific-bank-landmarks-v2",
@@ -403,6 +415,7 @@ export const nauruLandmarksV2: POI[] = [
       ro: ["Sediul central în districtul Aiwo", "Principala instituție bancară din Nauru", "Gestionează fondurile guvernamentale", "Centru economic important al insulei", "Fondată în perioada post-independență", "Rol cheie în stabilitatea monetară"],
       en: ["Headquartered in Aiwo District", "Nauru's primary financial institution", "Manages government transactions", "Commercial hub of the island", "Established in the post-independence era", "Key entity in the local banking sector"],
     },
+    image: "/poi-images/nauru-central-pacific-bank-landmarks-v2.webp",
   },
   {
     id: "nauru-post-office-landmarks-v2",
@@ -434,6 +447,7 @@ export const nauruLandmarksV2: POI[] = [
       ro: ["Situat în districtul Aiwo", "Fondat în anul 1908", "Centru pentru logistica poștală", "Emitent al timbrelor nauruene", "Punct de interes pentru filateliști", "Legătură cu rețeaua internațională"],
       en: ["Located in Aiwo District", "Established in 1908", "Hub for postal logistics", "Issuer of Nauruan postage stamps", "Renowned among global philatelists", "Vital link for international mail"],
     },
+    image: "/poi-images/nauru-post-office-landmarks-v2.webp",
   },
   {
     id: "nauru-cantilever-two-landmarks-v2",
@@ -465,5 +479,6 @@ export const nauruLandmarksV2: POI[] = [
       ro: ["Structură metalică în districtul Aiwo", "Construită pentru exportul de fosfat", "Permite încărcarea peste recif", "Simbol al erei miniere din Nauru", "Operată de Nauru Phosphate Corporation", "Monument industrial de mari dimensiuni"],
       en: ["Steel structure in Aiwo District", "Built for phosphate shipping", "Allows loading beyond the coral reef", "Icon of Nauru's industrial era", "Operated by Nauru Phosphate Corporation", "Monumental engineering landmark"],
     },
+    image: "/poi-images/nauru-cantilever-two-landmarks-v2.webp",
   }
 ];

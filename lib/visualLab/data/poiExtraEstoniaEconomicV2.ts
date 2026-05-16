@@ -32,6 +32,7 @@ export const estoniaEconomicV2: POI[] = [
       ro: ["Pescaj maxim de 16,5 metri", "Deschis traficului comercial în 2005", "Cel mai mare port privat din Baltica", "Zonă economică liberă de taxe vamale"],
       en: ["Maximum draft of 16.5 meters", "Opened for commercial traffic in 2005", "Largest private port in the Baltics", "Free economic zone status"],
     },
+    image: "/poi-images/estonia-sillamae-port-economic-v2.webp",
   },
   {
     id: "estonia-kohtla-jarve-chemical-v2",
@@ -64,6 +65,7 @@ export const estoniaEconomicV2: POI[] = [
       ro: ["Sediul grupului Viru Keemia (VKG)", "Specializat în rafinarea șisturilor", "Fondat în perioada interbelică", "Peste 1500 de angajați la locație"],
       en: ["Headquarters of Viru Keemia Grupp", "Focus on oil shale refining", "Founded during the interwar period", "Employs over 1,500 people locally"],
     },
+    image: "/poi-images/estonia-kohtla-jarve-chemical-v2.webp",
   },
   {
     id: "estonia-eesti-energia-data-v2",
@@ -96,6 +98,7 @@ export const estoniaEconomicV2: POI[] = [
       ro: ["Companie de stat a Estoniei", "Cel mai mare producător de șist din lume", "Investiții masive în parcuri eoliene", "Dezvoltă soluții de rețea inteligentă"],
       en: ["State-owned energy company", "World's largest oil shale producer", "Massive investment in wind farms", "Developer of smart grid solutions"],
     },
+    image: "/poi-images/estonia-eesti-energia-data-v2.webp",
   },
   {
     id: "estonia-maardu-logistics-v2",
@@ -128,6 +131,7 @@ export const estoniaEconomicV2: POI[] = [
       ro: ["Fost centru de chimie a fosfaților", "Legătură feroviară directă cu Muuga", "Găzduiește numeroase depozite mari", "Punct de tranzit feroviar important"],
       en: ["Former phosphate chemistry center", "Direct rail link to Muuga Port", "Home to numerous large warehouses", "Major railway transit junction"],
     },
+    image: "/poi-images/estonia-maardu-logistics-v2.webp",
   },
   {
     id: "estonia-asker-bo-factory-v2",
@@ -160,6 +164,7 @@ export const estoniaEconomicV2: POI[] = [
       ro: ["Complexul a fost inaugurat oficial în 2001", "Produce peste 400 de structuri prefabricate anual", "Exporturile generează 15 milioane de euro anual", "Utilizează lemn din pădurile certificate FSC", "Hala principală are o suprafață de 7.500 metri pătrați", "Linia de asamblare funcționează cu 110 angajați"],
       en: ["Facility established operations in early 2000", "Manufactures up to 600 modular units per year", "Exports account for 88 percent of total revenue", "Consumes 15,000 cubic meters of local timber annually", "Employs 135 workers from surrounding municipalities", "Indoor manufacturing space covers 10,000 square meters"],
     },
+    image: "/poi-images/estonia-asker-bo-factory-v2.webp",
   },
   {
     id: "estonia-voru-furniture-v2",
@@ -192,6 +197,7 @@ export const estoniaEconomicV2: POI[] = [
       ro: ["Tradiția prelucrării lemnului datează din anii 1940", "Peste 20.000 de metri cubi de lemn procesați anual", "Sectorul angajează aproximativ 350 de lucrători locali", "Valoarea exporturilor depășește 25 milioane de euro", "Utilizează 60% lemn de mesteacăn din pădurile estoniene", "Suprafața totală a fabricilor este de 12.000 metri pătrați"],
       en: ["Furniture manufacturing began industrializing in 1955", "Processes 28,000 cubic meters of solid wood annually", "Sector provides employment for over 400 residents", "Generates 35 million euros in annual export revenue", "Shipments reach 20 different international markets", "Combined factory floor space totals 18,000 square meters"],
     },
+    image: "/poi-images/estonia-voru-furniture-v2.webp",
   },
   {
     id: "estonia-tehnopol-science-v2",
@@ -224,6 +230,7 @@ export const estoniaEconomicV2: POI[] = [
       ro: ["Fondat în 2003.", "Adăpostește peste 200 de companii.", "Angajează peste 2.000 de persoane.", "Suprafața de 14 hectare.", "Include centrul de cercetare Skype.", "Incubează peste 30 de startup-uri anual."],
       en: ["Founded in 2003.", "Hosts over 200 companies.", "Employs more than 2,000 people.", "Covers an area of 14 hectares.", "Houses the Skype research center.", "Incubates over 30 startups annually."],
     },
+    image: "/poi-images/estonia-tehnopol-science-v2.webp",
   },
   {
     id: "estonia-kunda-cement-v2",
@@ -256,6 +263,7 @@ export const estoniaEconomicV2: POI[] = [
       ro: ["Operată de Kunda Nordic Tsement", "Producție de ciment din 1870", "Port industrial propriu la Golful Finic", "Utilizează calcar extras local"],
       en: ["Operated by Kunda Nordic Tsement", "Cement production since 1870", "Private industrial port on the Gulf", "Uses locally quarried limestone"],
     },
+    image: "/poi-images/estonia-kunda-cement-v2.webp",
   },
   {
     id: "estonia-parnu-food-v2",
@@ -288,6 +296,7 @@ export const estoniaEconomicV2: POI[] = [
       ro: ["Centrul pescuitului estonian", "Găzduiește fabrici mari de lactate", "Focus pe exportul către piața UE", "Angajator major în sud-vestul țării"],
       en: ["Hub of Estonian fishing industry", "Home to major dairy facilities", "Strong export focus to EU markets", "Key employer in Southwest Estonia"],
     },
+    image: "/poi-images/estonia-parnu-food-v2.webp",
   },
   {
     id: "estonia-valga-logistics-v2",
@@ -320,6 +329,7 @@ export const estoniaEconomicV2: POI[] = [
       ro: ["Stația feroviară a fost deschisă oficial în 1889", "Complexul feroviar se întinde pe 14 kilometri de șine", "Gestionează anual peste 1,8 milioane tone de marfă", "Tranzitată zilnic de 30 de garnituri de marfă", "Terminalul de containere are o capacitate de 5.000 TEU", "Clădirea principală a fost modernizată în 2015"],
       en: ["Railway station complex initially constructed in 1889", "Marshalling yard features 16 operational tracks", "Processes approximately 2.2 million tons of cargo yearly", "Handles an average of 38 freight trains every 24 hours", "Storage and transfer facilities span 12,000 square meters", "Passenger terminal handled 150,000 travelers in 2019"],
     },
+    image: "/poi-images/estonia-valga-logistics-v2.webp",
   },
   {
     id: "estonia-tartu-science-park-v2",
@@ -352,6 +362,7 @@ export const estoniaEconomicV2: POI[] = [
       ro: ["Fondat în 2000.", "Peste 100 de companii.", "Aproximativ 1.500 de angajați.", "Suprafața de 15 hectare.", "Include Universitatea din Tartu.", "Laborator BSL-2 disponibil."],
       en: ["Founded in 2000.", "Hosts over 100 companies.", "Employs approximately 1,500 people.", "Covers 15 hectares.", "Includes University of Tartu facilities.", "Operates a BSL-2 laboratory."],
     },
+    image: "/poi-images/estonia-tartu-science-park-v2.webp",
   },
   {
     id: "estonia-paldiski-energy-v2",
@@ -384,6 +395,7 @@ export const estoniaEconomicV2: POI[] = [
       ro: ["Construcția parcului eolian a fost finalizată în 2012", "Capacitatea totală de producție este de 18,4 MW", "Include 8 turbine eoliene de mare putere", "Înălțimea turnului fiecărei turbine este de 85 de metri", "Generează 48 GWh de energie electrică anual", "Investiția inițială a fost de 25 milioane de euro"],
       en: ["Wind farm operations officially commenced in 2012", "Features a total installed capacity of 18.4 MW", "Comprises 8 individual Enercon wind turbines", "Turbine rotor diameter measures 82 meters", "Generates approximately 50 GWh of electricity annually", "Powers the equivalent of 18,000 average homes"],
     },
+    image: "/poi-images/estonia-paldiski-energy-v2.webp",
   },
   {
     id: "estonia-johvi-business-v2",
@@ -416,6 +428,7 @@ export const estoniaEconomicV2: POI[] = [
       ro: ["Parcul de afaceri a fost înființat în anul 2015", "Pune la dispoziție 14.000 de metri pătrați de spații", "Găzduiește 38 de companii din sectorul terțiar", "A generat 280 de locuri de muncă pentru specialiști IT", "Conectivitate prin fibră optică de 10 Gbps", "Investiții private de 8 milioane de euro în 2019"],
       en: ["Business area redevelopment initiated in 2015", "Provides 15,000 square meters of modern office space", "Currently hosts 45 digital and service sector firms", "Supports over 350 high-value tech industry jobs", "Includes a 2,000 square meter coding school facility", "Received 15 million euros in regional transition funds"],
     },
+    image: "/poi-images/estonia-johvi-business-v2.webp",
   },
   {
     id: "estonia-rakvere-meat-v2",
@@ -448,6 +461,7 @@ export const estoniaEconomicV2: POI[] = [
       ro: ["Istoria fabricii a început în anul 1890", "Complexul modern a fost inaugurat în 1990", "Procesează aproximativ 48.000 de tone de carne pe an", "Asigură locuri de muncă pentru 820 de persoane", "Exporturile reprezintă 25% din producția totală", "Spațiul de producție are o suprafață de 40.000 de metri pătrați"],
       en: ["Industrial meat processing origins date back to 1890", "Current modern plant was constructed in 1990", "Annual production capacity exceeds 50,000 tons", "Directly employs roughly 800 local residents", "Supplies over 250 distinct meat products to retail", "Factory footprint covers 42,000 square meters"],
     },
+    image: "/poi-images/estonia-rakvere-meat-v2.webp",
   },
   {
     id: "estonia-polva-dairy-v2",
@@ -480,6 +494,7 @@ export const estoniaEconomicV2: POI[] = [
       ro: ["Locația principală a firmei Tere AS", "Specializată în export de lapte praf", "Facilități de procesare moderne", "Bază pentru cooperativele agricole"],
       en: ["Main facility of Tere AS company", "Specializes in milk powder export", "State-of-the-art processing units", "Base for regional farm cooperatives"],
     },
+    image: "/poi-images/estonia-polva-dairy-v2.webp",
   },
   {
     id: "estonia-haapsalu-textile-v2",
@@ -512,6 +527,7 @@ export const estoniaEconomicV2: POI[] = [
       ro: ["Tradiția dantelei din Haapsalu a început în secolul 19", "Liniile moderne produc 480.000 de articole anual", "Exporturile către Finlanda însumează 60% din total", "Sectorul are 230 de angajați calificați", "Se consumă 140 de tone de materie primă textilă pe an", "Sistemele de tăiere cu laser au fost adăugate în 2015"],
       en: ["Local textile craftsmanship origins recognized since 1800s", "Modern facilities manufacture 500,000 garments annually", "Exports to Scandinavian markets comprise 70 percent of sales", "Industry employs approximately 240 specialized workers", "Processes over 150 tons of organic cotton thread yearly", "Automated pattern-cutting technology implemented in 2014"],
     },
+    image: "/poi-images/estonia-haapsalu-textile-v2.webp",
   },
   {
     id: "estonia-narva-logistics-v2",
@@ -544,6 +560,7 @@ export const estoniaEconomicV2: POI[] = [
       ro: ["Cel mai estic punct de frontieră UE", "Sediul parcului industrial Balti ES", "Punct major de trecere feroviară", "Specializare în prelucrarea metalelor"],
       en: ["Easternmost border point of the EU", "Home to Balti ES Industrial Park", "Major railway border crossing", "Specialization in metalworking"],
     },
+    image: "/poi-images/estonia-narva-logistics-v2.webp",
   },
   {
     id: "estonia-muuga-terminal-v2",
@@ -576,6 +593,7 @@ export const estoniaEconomicV2: POI[] = [
       ro: ["Portul a fost dat în folosință în anul 1986", "Adâncimea apei ajunge la un maxim de 18 metri", "Manipulează anual aproximativ 21 milioane tone de marfă", "Are 29 de dane cu o lungime totală de 5.900 metri", "Terminalul de cereale are o capacitate de 300.000 tone", "Suprafața terestră a portului este de 524 hectare"],
       en: ["Port operations officially commenced in 1986", "Features a maximum berth depth of 18 meters", "Handles an annual cargo volume of 20 million tons", "Equipped with 29 commercial berths totaling 5.9 kilometers", "Liquid bulk terminal stores up to 1.5 million cubic meters", "Port territory spans 524 hectares of industrial land"],
     },
+    image: "/poi-images/estonia-muuga-terminal-v2.webp",
   },
   {
     id: "estonia-kardla-port-v2",
@@ -608,6 +626,7 @@ export const estoniaEconomicV2: POI[] = [
       ro: ["Docurile istorice au fost construite în 1845", "Reconstrucția modernă a fost finalizată în 2014", "Marina oferă 60 de locuri de acostare pentru ambarcațiuni", "Adâncimea maximă de navigare este de 3,5 metri", "Peste 14.000 de pasageri tranzitează portul anual", "Procesează anual 400 de tone de pește proaspăt"],
       en: ["Original harbor facilities date back to 1845", "Comprehensive modernization was completed in 2014", "Marina section provides 60 berths for visiting yachts", "Maximum harbor draft is maintained at 3.5 meters", "Facilitates maritime transit for 15,000 visitors annually", "Commercial fishing fleet lands 500 tons of catch yearly"],
     },
+    image: "/poi-images/estonia-kardla-port-v2.webp",
   },
   {
     id: "estonia-saue-business-v2",
@@ -640,6 +659,7 @@ export const estoniaEconomicV2: POI[] = [
       ro: ["Dezvoltarea parcului a început în anul 2002", "Se întinde pe o suprafață de 40 de hectare", "Găzduiește operațiunile a 48 de firme diferite", "Numărul total de angajați depășește 1.150", "Spațiile logistice însumează 48.000 metri pătrați", "Situat la doar 15 kilometri distanță de Tallinn"],
       en: ["Industrial zone development initiated in 2002", "Spans a total land area of 40 hectares", "Accommodates operations for over 50 tenant companies", "Workforce within the park exceeds 1,200 individuals", "Offers 50,000 square meters of modern warehouse space", "Positioned exactly 15 kilometers from Tallinn city center"],
     },
+    image: "/poi-images/estonia-saue-business-v2.webp",
   },
   {
     id: "estonia-sindi-industry-v2",
@@ -672,5 +692,6 @@ export const estoniaEconomicV2: POI[] = [
       ro: ["Fabrică textilă fondată în 1833", "Utilizează energia râului Pärnu", "Focus pe textile și construcții din lemn", "Monument important de cultură industrială"],
       en: ["Textile factory founded in 1833", "Uses hydropower from Pärnu River", "Focus on textiles and wood prefab", "Significant industrial heritage site"],
     },
+    image: "/poi-images/estonia-sindi-industry-v2.webp",
   }
 ];

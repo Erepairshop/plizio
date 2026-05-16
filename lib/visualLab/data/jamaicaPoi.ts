@@ -387,7 +387,8 @@ export const jamaicaLandmarks: POI[] = [
       ro: ["Clădirea a supraviețuit unei tentative de asasinat asupra lui Bob Marley în 1976", "Vizitatorii pot vedea dormitorul personal al lui Marley în starea originală", "Magazinul muzeului vinde articole exclusive de tip merchandising Tuff Gong"],
       en: ["Bullet holes from the 1976 assassination attempt are still visible in the walls", "The property houses the Tuff Gong studio where Marley recorded several hits", "The onsite theatre showcases documentary films about Marley's global impact"]
     },
-    historyYear: 1986
+    historyYear: 1986,
+    image: "/poi-images/jm-bobmarley.webp",
   },
   {
     id: "jm-dunns",
@@ -912,7 +913,8 @@ export const jamaicaLandmarks: POI[] = [
       en: ["The park's 1,000-meter bobsled track was installed by helicopter to minimize damage to the trees", "The 'Sky Explorer' chairlift provides a silent and scenic 700-foot ascent over the canopy", "It includes a museum dedicated to Jamaica's sports history and the 1988 Olympic bobsled team"]
     },
     elevation: 215,
-    length: 1000
+    length: 1000,
+    image: "/poi-images/jm-mysticmountain.webp",
   }
 ];
 

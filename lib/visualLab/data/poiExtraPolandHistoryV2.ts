@@ -958,6 +958,7 @@ export const polandHistoryV2: POI[] = [
       ro: ["Rezervația a fost deschisă în 1980.", "Așezarea datează din secolul al X-lea.", "Suprafața rezervației este de 2 ha.", "Peste 5.000 de artefacte au fost descoperite.", "Turnul de observație are 15 m.", "Kalisz menționat pentru prima dată în 1121."],
       en: ["The reserve opened in 1980.", "The settlement dates from the 10th century.", "The reserve area is 2 ha.", "Over 5,000 artifacts have been found.", "The lookout tower is 15 m high.", "Kalisz first mentioned in 1121."],
     },
+    image: "/poi-images/poland-kalisz-archaeological-reserve-history-v2.webp",
   },
   {
     id: "poland-kruszwica-mouse-tower-history-v2",
@@ -990,6 +991,7 @@ export const polandHistoryV2: POI[] = [
       ro: ["Turnul a fost construit în secolul al XIV-lea.", "Înălțimea este de 32 m.", "Turnul se află pe o insulă cu diametrul de 50 m.", "Lacul Gopło are o suprafață de 21,8 km².", "Castelul a fost construit în secolul al XIII-lea.", "Legenda regelui Popiel datează din secolul al XII-lea."],
       en: ["The tower was built in the 14th century.", "Height is 32 m.", "The tower stands on an island 50 m in diameter.", "Lake Gopło covers 21.8 km².", "The castle was built in the 13th century.", "The legend of King Popiel dates from the 12th century."],
     },
+    image: "/poi-images/poland-kruszwica-mouse-tower-history-v2.webp",
   },
   {
     id: "poland-kwidzyn-cathedral-complex-history-v2",
@@ -1022,6 +1024,7 @@ export const polandHistoryV2: POI[] = [
       ro: ["Catedrala a fost construită în secolul al XIV-lea.", "Turnul castelului are 60 m înălțime.", "Construcția castelului a început în 1325.", "Catedrala are 80 m lungime.", "Dieceza de Pomesania a fost fondată în 1243.", "Complexul este în mâini poloneze din 1945."],
       en: ["The cathedral was built in the 14th century.", "The castle tower is 60 m high.", "Construction of the castle began in 1325.", "The cathedral is 80 m long.", "The Diocese of Pomesania was founded in 1243.", "The complex has been in Polish hands since 1945."],
     },
+    image: "/poi-images/poland-kwidzyn-cathedral-complex-history-v2.webp",
   },
   {
     id: "poland-piotrkow-trybunalski-old-town-history-v2",
@@ -1054,6 +1057,7 @@ export const polandHistoryV2: POI[] = [
       ro: ["Orașul a primit drepturi în 1304", "Suprafața orașului vechi: 0,5 km²", "Altitudine: 200 m", "Populație: 72.000 (2022)", "Număr de diete găzduite: 23", "Piața centrală: 100 m × 80 m"],
       en: ["City rights granted in 1304 (Magdeburg Law)", "Old town area: approx. 0.5 km²", "Elevation: 200 m above sea level", "Population of Piotrków Trybunalski: 72,000 (2022)", "Hosted 23 sessions of the Polish parliament between 1400 and 1600", "Main square dimensions: 100 m by 80 m"],
     },
+    image: "/poi-images/poland-piotrkow-trybunalski-old-town-history-v2.webp",
   },
   {
     id: "poland-chelmno-defensive-walls-history-v2",
@@ -1086,6 +1090,7 @@ export const polandHistoryV2: POI[] = [
       ro: ["Perioada de construcție: secolul al XIII-lea", "Lungimea originală: 1.500 m", "Număr de turnuri: 23", "Număr de porți: 3", "Înălțimea păstrată: până la 7 m", "Fondarea orașului: 1233"],
       en: ["Construction period: 13th century", "Original length: 1,500 meters", "Number of towers: 23", "Number of gates: 3", "Preserved height: up to 7 meters", "Town founded: 1233"],
     },
+    image: "/poi-images/poland-chelmno-defensive-walls-history-v2.webp",
   },
   {
     id: "poland-rogow-arboretum-history-v2",
@@ -1118,6 +1123,7 @@ export const polandHistoryV2: POI[] = [
       ro: ["Anul înființării: 1925", "Suprafață: 40 ha", "Număr de taxoni: peste 4.500", "Vizitatori anuali: aprox. 50.000", "Aparține de: Universitatea de Științe ale Vieții din Varșovia", "Altitudine: 200 m"],
       en: ["Year established: 1925", "Area: 40 hectares", "Number of taxa: over 4,500", "Annual visitors: approximately 50,000", "Affiliated with: Warsaw University of Life Sciences", "Elevation: 200 m above sea level"],
     },
+    image: "/poi-images/poland-rogow-arboretum-history-v2.webp",
   },
   {
     id: "poland-nieborow-palace-history-v2",
@@ -1150,6 +1156,7 @@ export const polandHistoryV2: POI[] = [
       ro: ["Construcție: 1690–1697", "Arhitect: Tylman van Gameren", "Număr de camere: peste 50", "Suprafața parcului: 30 ha", "Colecția de artă: peste 1.000 de obiecte", "Muzeu de stat din: 1945"],
       en: ["Built: 1690–1697", "Architect: Tylman van Gameren", "Number of rooms: over 50", "Park area: 30 hectares", "Art collection: over 1,000 objects", "State museum since: 1945"],
     },
+    image: "/poi-images/poland-nieborow-palace-history-v2.webp",
   },
   {
     id: "poland-arkadia-park-history-v2",
@@ -1182,6 +1189,7 @@ export const polandHistoryV2: POI[] = [
       ro: ["Înființare: 1778", "Suprafață: 28 ha", "Creat de: Helena Radziwiłł", "Număr de structuri: 6", "Începutul restaurării: anii 1960", "Parte a muzeului Nieborów: din 1945"],
       en: ["Established: 1778", "Area: 28 hectares", "Creator: Helena Radziwiłł", "Number of structures: 6", "Restoration began: 1960s", "Part of Nieborów Museum since: 1945"],
     },
+    image: "/poi-images/poland-arkadia-park-history-v2.webp",
   },
   {
     id: "poland-brzeg-castle-history-v2",
@@ -1214,6 +1222,7 @@ export const polandHistoryV2: POI[] = [
       ro: ["Prima mențiune: 1311", "Reconstrucție renascentistă: 1540–1560", "Ducele: Frederic al II-lea de Liegnitz", "Muzeu din: 1979", "Număr de săli de expoziție: 14", "Înălțimea turnului principal: 42 m"],
       en: ["First mentioned: 1311", "Renaissance reconstruction: 1540–1560", "Duke: Frederick II of Legnica", "Museum since: 1979", "Number of exhibition rooms: 14", "Main tower height: 42 m"],
     },
+    image: "/poi-images/poland-brzeg-castle-history-v2.webp",
   },
   {
     id: "poland-koscian-old-town-history-v2",
@@ -1246,6 +1255,7 @@ export const polandHistoryV2: POI[] = [
       ro: ["Drepturi de oraș: 1286", "Dimensiunea pieței: 80 × 60 m", "Populație: aprox. 24.000 (2022)", "Altitudine: 75 m", "Biserica Sf. Nicolae: construită în 1450", "Primărie: menționată prima dată în 1570"],
       en: ["Town rights: 1286", "Market square dimensions: 80 m by 60 m", "Population: approx. 24,000 (2022)", "Elevation: 75 m above sea level", "St. Nicholas Church: built 1450", "Town hall: first mentioned 1570"],
     },
+    image: "/poi-images/poland-koscian-old-town-history-v2.webp",
   },
   {
     id: "poland-krakow-tours-castle-history-v2",
@@ -1278,6 +1288,7 @@ export const polandHistoryV2: POI[] = [
       ro: ["Înființarea mănăstirii: 1044", "Înălțimea stâncii: 35 m deasupra Vistulei", "Lungimea bisericii: 60 m", "Reconstrucție barocă: secolul al XVII-lea", "Reînființare: 1939", "Număr de călugări (2023): 12"],
       en: ["Abbey founded: 1044", "Cliff height: 35 m above Vistula", "Church length: 60 m", "Baroque remodeling: 17th century", "Revived: 1939", "Monks (2023): 12"],
     },
+    image: "/poi-images/poland-krakow-tours-castle-history-v2.webp",
   },
   {
     id: "poland-leczyca-royal-castle-history-v2",
@@ -1310,6 +1321,7 @@ export const polandHistoryV2: POI[] = [
       ro: ["Construit de: Cazimir cel Mare", "Perioada construcției: 1350–1360", "Înălțimea turnului: 30 m", "Muzeu din: 1970", "Lățimea șanțului: 10 m", "Extindere: secolul al XV-lea"],
       en: ["Built by: Casimir the Great", "Construction period: 1350–1360", "Tower height: 30 m", "Museum since: 1970", "Moat width: 10 m", "Expansion: 15th century"],
     },
+    image: "/poi-images/poland-leczyca-royal-castle-history-v2.webp",
   },
   {
     id: "poland-plock-cathedral-history-v2",
@@ -1342,6 +1354,7 @@ export const polandHistoryV2: POI[] = [
       ro: ["Construcție: 1130–1140", "Lungime: 65 m", "Înălțimea turnului principal: 60 m", "Poarta de bronz: secolul al XII-lea, 2,7 m × 3,5 m", "Morminte: 2 domnitori", "Restaurare: 1903"],
       en: ["Built: 1130–1140", "Length: 65 m", "Main tower height: 60 m", "Bronze door: 12th century, 2.7 m by 3.5 m", "Tombs: 2 rulers", "Restoration: 1903"],
     },
+    image: "/poi-images/poland-plock-cathedral-history-v2.webp",
   },
   {
     id: "poland-strzegom-basilica-history-v2",
@@ -1374,6 +1387,7 @@ export const polandHistoryV2: POI[] = [
       ro: ["Începutul construcției: 1250", "Înălțimea bolții: 25 m", "Lungimea prezbiteriului: 30 m", "Basilica minor din: 2002", "Altare: 3 baroce", "Amvon: gotic, secolul al XV-lea"],
       en: ["Construction started: 1250", "Vault height: 25 m", "Presbytery length: 30 m", "Minor basilica since: 2002", "Altars: 3 Baroque", "Pulpit: Gothic, 15th century"],
     },
+    image: "/poi-images/poland-strzegom-basilica-history-v2.webp",
   },
   {
     id: "poland-gniezno-archiepiscopal-palace-history-v2",
@@ -1406,6 +1420,7 @@ export const polandHistoryV2: POI[] = [
       ro: ["Construcție: 1740–1760", "Arhitect: Ephraim Schröger", "Număr de camere: 40", "Suprafața parcului: 5 ha", "Restaurare: anii 1950", "Sediu al primatului din: 1821"],
       en: ["Built: 1740–1760", "Architect: Ephraim Schröger", "Number of rooms: 40", "Park area: 5 ha", "Restoration: 1950s", "Seat of Primate since: 1821"],
     },
+    image: "/poi-images/poland-gniezno-archiepiscopal-palace-history-v2.webp",
   },
   {
     id: "poland-koscian-basilica-history-v2",
@@ -1438,6 +1453,7 @@ export const polandHistoryV2: POI[] = [
       ro: ["Construcție: 1450–1500", "Barocizare: 1720", "Orgă: 1670, 28 de registre", "Basilica minor: 1998", "Înălțimea turnului: 50 m", "Pictura altarului: secolul al XVIII-lea"],
       en: ["Built: 1450–1500", "Baroque remodeling: 1720", "Organ: 1670, 28 stops", "Minor basilica: 1998", "Tower height: 50 m", "Altarpiece: 18th century"],
     },
+    image: "/poi-images/poland-koscian-basilica-history-v2.webp",
   },
   {
     id: "poland-krasiczyn-park-history-v2",
@@ -1470,6 +1486,7 @@ export const polandHistoryV2: POI[] = [
       ro: ["Înființarea parcului: secolul al XIX-lea", "Suprafață: 20 ha", "Număr de iazuri: 3", "Cel mai bătrân stejar: 400 de ani", "Începutul restaurării: 1992", "Parte a ansamblului castelului"],
       en: ["Park established: 19th century", "Area: 20 ha", "Number of ponds: 3", "Oldest oak: 400 years old", "Restoration began: 1992", "Part of castle ensemble"],
     },
+    image: "/poi-images/poland-krasiczyn-park-history-v2.webp",
   },
   {
     id: "poland-tarnobrzeg-castle-history-v2",
@@ -1502,6 +1519,7 @@ export const polandHistoryV2: POI[] = [
       ro: ["Construcție: 1560–1590", "Înălțime deasupra râului: 50 m", "Camere: 60", "Suprafața parcului: 15 ha", "Hotel din: 1995", "Muzeu din: 2000"],
       en: ["Built: 1560–1590", "Height above river: 50 m", "Rooms: 60", "Park area: 15 ha", "Hotel since: 1995", "Museum since: 2000"],
     },
+    image: "/poi-images/poland-tarnobrzeg-castle-history-v2.webp",
   },
   {
     id: "poland-wieliczka-historical-salt-works-history-v2",
@@ -1534,6 +1552,7 @@ export const polandHistoryV2: POI[] = [
       ro: ["Începutul exploatării: secolul al XIII-lea", "Adâncime maximă: 327 m", "Număr de niveluri: 9", "Capele: peste 20", "Patrimoniu UNESCO: 1978", "Vizitatori anuali: 1,2 milioane"],
       en: ["Mining began: 13th century", "Maximum depth: 327 m", "Number of levels: 9", "Chapels: over 20", "UNESCO World Heritage: 1978", "Annual visitors: 1.2 million"],
     },
+    image: "/poi-images/poland-wieliczka-historical-salt-works-history-v2.webp",
   },
   {
     id: "poland-chojnice-old-town-history-v2",
@@ -1566,6 +1585,7 @@ export const polandHistoryV2: POI[] = [
       ro: ["Drepturi de oraș: 1321", "Zid păstrat: 1.200 m", "Turnuri păstrate: 7", "Piața: 90 × 70 m", "Înălțimea turnului bisericii: 60 m", "Membru al Ligii Hanseatice: secolul al XV-lea"],
       en: ["Town rights: 1321", "Preserved wall length: 1,200 m", "Surviving towers: 7", "Market square: 90 m by 70 m", "Church tower height: 60 m", "Hanseatic membership: 15th century"],
     },
+    image: "/poi-images/poland-chojnice-old-town-history-v2.webp",
   },
   {
     id: "poland-kolo-castle-history-v2",
@@ -1598,6 +1618,7 @@ export const polandHistoryV2: POI[] = [
       ro: ["Construcție: 1350–1370", "Suprafața insulei: 2 ha", "Grosimea zidurilor: 2 m", "Înălțimea turnului: 25 m", "Muzeu din: 1980", "Distrugere: 1655"],
       en: ["Built: 1350–1370", "Island area: 2 ha", "Wall thickness: 2 m", "Tower height: 25 m", "Museum since: 1980", "Destruction: 1655"],
     },
+    image: "/poi-images/poland-kolo-castle-history-v2.webp",
   },
   {
     id: "poland-glogow-castle-history-v2",
@@ -1630,6 +1651,7 @@ export const polandHistoryV2: POI[] = [
       ro: ["Prima mențiune: 1250", "Reconstrucție renascentistă: 1540–1560", "Înălțimea corpului principal: 15 m", "Suprafața muzeului: 2.000 m²", "Reconstrucție: anii 1960", "Centru cultural din: 1990"],
       en: ["First mentioned: 1250", "Renaissance remodeling: 1540–1560", "Main building height: 15 m", "Museum area: 2,000 m²", "Rebuilt: 1960s", "Cultural center since: 1990"],
     },
+    image: "/poi-images/poland-glogow-castle-history-v2.webp",
   },
   {
     id: "poland-krosno-old-town-history-v2",
@@ -1662,6 +1684,7 @@ export const polandHistoryV2: POI[] = [
       ro: ["Drepturi de oraș: 1342", "Piața: 100 × 80 m", "Populație: aprox. 46.000 (2022)", "Altitudine: 280 m", "Biserica parohială: secolul al XIV-lea", "Primăria: secolul al XVI-lea"],
       en: ["Town rights: 1342", "Market square: 100 m by 80 m", "Population: approx. 46,000 (2022)", "Elevation: 280 m above sea level", "Parish church: 14th century", "Town hall: 16th century"],
     },
+    image: "/poi-images/poland-krosno-old-town-history-v2.webp",
   },
   {
     id: "poland-czersk-castle-history-v2",
@@ -1694,6 +1717,7 @@ export const polandHistoryV2: POI[] = [
       ro: ["Construit în secolul al XIV-lea, prima mențiune în 1388.", "Înălțimea turnurilor principale: 28 de metri.", "Suprafața castelului: aproximativ 2,3 hectare.", "Distrus în 1656 în timpul invaziei suedeze.", "Lucrările de restaurare au început în 1960.", "Diametrul șanțului: 12 metri."],
       en: ["Built in the 14th century, first mentioned in 1388.", "Height of main towers: 28 meters.", "Castle area: approx. 2.3 hectares.", "Destroyed in 1656 during the Swedish invasion.", "Restoration works began in 1960.", "Diameter of the moat: 12 meters."],
     },
+    image: "/poi-images/poland-czersk-castle-history-v2.webp",
   },
   {
     id: "poland-nysa-old-town-history-v2",
@@ -1726,6 +1750,7 @@ export const polandHistoryV2: POI[] = [
       ro: ["Prima mențiune documentară: 1223.", "Populație (2020): aproximativ 44.000.", "Înălțimea turnului primăriei: 63 de metri.", "Numărul bisericilor istorice: 16.", "Suprafața orașului vechi: 0,8 km².", "Anul distrugerii: 1945 (sfârșitul războiului)."],
       en: ["First documented mention: 1223.", "Population (2020): approx. 44,000.", "Height of town hall tower: 63 meters.", "Number of historic churches: 16.", "Area of old town: 0.8 km².", "Year of destruction: 1945 (end of war)."],
     },
+    image: "/poi-images/poland-nysa-old-town-history-v2.webp",
   },
   {
     id: "poland-legnica-old-town-history-v2",
@@ -1758,6 +1783,7 @@ export const polandHistoryV2: POI[] = [
       ro: ["Drepturi de oraș: 1264.", "Populație (2020): aproximativ 100.000.", "Dimensiunea pieței: 120 x 80 metri.", "Primăria gotică construită în 1507.", "Lungimea Catedralei Sf. Petru și Pavel: 72 de metri.", "Bătălia de la Liegnitz: 9 aprilie 1241."],
       en: ["Town rights granted: 1264.", "Population (2020): approx. 100,000.", "Market square dimensions: 120 x 80 meters.", "Gothic town hall built in 1507.", "Length of St. Peter and Paul Cathedral: 72 meters.", "Battle of Legnica: April 9, 1241."],
     },
+    image: "/poi-images/poland-legnica-old-town-history-v2.webp",
   },
   {
     id: "poland-kalisz-cathedral-history-v2",
@@ -1790,6 +1816,7 @@ export const polandHistoryV2: POI[] = [
       ro: ["Prima mențiune a bisericii: 1106.", "Înălțimea turnului principal: 72 de metri.", "Lungimea navei: 58 de metri.", "Icoana Sfintei Familii: secolul al XV-lea.", "Numărul capelelor: 12.", "Reconstrucția după 1945 finalizată în 1970."],
       en: ["First mention of the church: 1106.", "Height of main tower: 72 meters.", "Length of nave: 58 meters.", "Miraculous image of Holy Family: 15th century.", "Number of chapels: 12.", "Post-1945 reconstruction completed in 1970."],
     },
+    image: "/poi-images/poland-kalisz-cathedral-history-v2.webp",
   },
   {
     id: "poland-slupsk-castle-history-v2",
@@ -1822,6 +1849,7 @@ export const polandHistoryV2: POI[] = [
       ro: ["Perioada de construcție: 1507-1525.", "Înălțimea turnului principal: 32 de metri.", "Suprafața muzeului: 2.500 m².", "Numărul sălilor de expoziție: 25.", "Prima mențiune a unei fortificații anterioare: 1265.", "Colecția istorică: peste 20.000 de exponate."],
       en: ["Construction period: 1507-1525.", "Height of main tower: 32 meters.", "Museum area: 2,500 m².", "Number of exhibition rooms: 25.", "First mention of a predecessor stronghold: 1265.", "Historical collection: over 20,000 exhibits."],
     },
+    image: "/poi-images/poland-slupsk-castle-history-v2.webp",
   },
   {
     id: "poland-tykocin-castle-history-v2",
@@ -1854,6 +1882,7 @@ export const polandHistoryV2: POI[] = [
       ro: ["Reconstrucție din 2002, finalizată în 2008.", "Suprafața insulei: 1,5 hectare.", "Înălțimea clădirii principale: 15 metri.", "Numărul camerelor din castel: 30.", "Construit pe o insulă artificială.", "Vizitatori anuali la muzeu: aproximativ 50.000."],
       en: ["Reconstruction from 2002, completed in 2008.", "Island area: 1.5 hectares.", "Height of main building: 15 meters.", "Number of rooms in the castle: 30.", "Built on an artificial island.", "Annual museum visitors: approx. 50,000."],
     },
+    image: "/poi-images/poland-tykocin-castle-history-v2.webp",
   },
   {
     id: "poland-kedzierzyn-old-town-history-v2",
@@ -1886,6 +1915,7 @@ export const polandHistoryV2: POI[] = [
       ro: ["Drepturile de oraș: 1280.", "Populația Kędzierzyn (2010): aproximativ 13.000.", "Dimensiunea pieței: 90 x 70 de metri.", "Înălțimea Bisericii Sf. Nicolae: 45 de metri.", "Prima mențiune a așezării: 1223.", "Portul Oder: trafic anual de 500.000 de tone."],
       en: ["Town rights: 1280.", "Population of Kędzierzyn (2010): approx. 13,000.", "Market square dimensions: 90 x 70 meters.", "Height of St. Nicholas Church: 45 meters.", "First mention of settlement: 1223.", "Oder port: annual turnover 500,000 tons."],
     },
+    image: "/poi-images/poland-kedzierzyn-old-town-history-v2.webp",
   },
   {
     id: "poland-cieszyn-castle-hill-history-v2",
@@ -1918,6 +1948,7 @@ export const polandHistoryV2: POI[] = [
       ro: ["Rotonda Sf. Nicolae: construită în 1050.", "Turnul Piast: înălțime 25 de metri.", "Înălțimea dealului castelului: 45 de metri deasupra râului Olza.", "Prima mențiune istorică: 1155.", "Săpături arheologice din 1960.", "Vizitatori anuali: aproximativ 100.000."],
       en: ["Rotunda of St. Nicholas: built 1050.", "Piast Tower: height 25 meters.", "Castle Hill elevation: 45 meters above Olza River.", "First historical mention: 1155.", "Excavations since 1960.", "Annual visitors: approx. 100,000."],
     },
+    image: "/poi-images/poland-cieszyn-castle-hill-history-v2.webp",
   },
   {
     id: "poland-krakow-barbican-history-v2",
@@ -1950,6 +1981,7 @@ export const polandHistoryV2: POI[] = [
       ro: ["Perioada de construcție: 1498-1499.", "Diametrul exterior: 24,4 metri.", "Înălțime: 10 metri.", "Numărul turnurilor: 7.", "Ambrazuri: 130.", "Vizitatori ai muzeului în 2019: 250.000."],
       en: ["Construction period: 1498-1499.", "External diameter: 24.4 meters.", "Height: 10 meters.", "Number of towers: 7.", "Loopholes: 130.", "Museum visitors 2019: 250,000."],
     },
+    image: "/poi-images/poland-krakow-barbican-history-v2.webp",
   },
   {
     id: "poland-gniezno-cathedral-complex-history-v2",
@@ -1982,6 +2014,7 @@ export const polandHistoryV2: POI[] = [
       ro: ["Catedrala construită 1342-1390.", "Ușile de bronz de la Gniezno: circa 1175.", "Înălțimea turnurilor: 62 de metri.", "Lungimea navei: 70 de metri.", "Încoronări regale: 5 în secolele XIII-XIV.", "Reconstrucție după incendiu 1945-1956."],
       en: ["Cathedral built 1342-1390.", "Gniezno Doors: circa 1175.", "Height of towers: 62 meters.", "Length of nave: 70 meters.", "Royal coronations: 5 in 13th-14th c.", "Rebuilt after fire 1945-1956."],
     },
+    image: "/poi-images/poland-gniezno-cathedral-complex-history-v2.webp",
   },
   {
     id: "poland-bytom-old-town-history-v2",
@@ -2014,6 +2047,7 @@ export const polandHistoryV2: POI[] = [
       ro: ["Drepturi de oraș: 1254.", "Populația Bytom (2020): aproximativ 170.000.", "Înălțimea bisericii Sf. Maria: 58 de metri.", "Suprafața pieței: 0,5 hectare.", "Anul primei mențiuni: 1136.", "Numărul caselor burgheze istorice: 45."],
       en: ["Town rights: 1254.", "Population of Bytom (2020): approx. 170,000.", "Height of St. Mary's Church: 58 meters.", "Market square area: 0.5 hectares.", "Year of first mention: 1136.", "Number of historic burgher houses: 45."],
     },
+    image: "/poi-images/poland-bytom-old-town-history-v2.webp",
   },
   {
     id: "poland-kalisz-basilica-history-v2",
@@ -2046,6 +2080,7 @@ export const polandHistoryV2: POI[] = [
       ro: ["Perioada de construcție: 1682-1700.", "Diametrul cupolei: 16 metri.", "Înălțimea turnului principal: 48 de metri.", "Frescele lui Karl Dankwart: 1705-1708.", "Basilică minoră din 1934.", "Orga din 1760."],
       en: ["Construction period: 1682-1700.", "Dome diameter: 16 meters.", "Height of main tower: 48 meters.", "Frescoes by Karl Dankwart: 1705-1708.", "Minor basilica since 1934.", "Organ from 1760."],
     },
+    image: "/poi-images/poland-kalisz-basilica-history-v2.webp",
   },
   {
     id: "poland-tarnow-cathedral-history-v2",
@@ -2078,6 +2113,7 @@ export const polandHistoryV2: POI[] = [
       ro: ["Perioada de construcție: 1400-1440.", "Construcția turnului finalizată în 1853.", "Înălțimea turnului: 72 de metri.", "Lungimea navei: 55 de metri.", "Retabloul: 1520-1530.", "Dieceza de Tarnów fondată: 1786."],
       en: ["Construction period: 1400-1440.", "Tower completed in 1853.", "Tower height: 72 meters.", "Length of nave: 55 meters.", "Winged altarpiece: 1520-1530.", "Diocese of Tarnów established: 1786."],
     },
+    image: "/poi-images/poland-tarnow-cathedral-history-v2.webp",
   },
   {
     id: "poland-nysa-fortifications-history-v2",
@@ -2110,6 +2146,7 @@ export const polandHistoryV2: POI[] = [
       ro: ["Construcția primelor bastioane: 1630.", "Lungimea zidurilor păstrate: 2,5 km.", "Înălțimea Bastionului Sf. Hedwiga: 12 metri.", "Asediul din 1741 a durat 3 săptămâni.", "Fortăreața abandonată în 1810.", "Numărul porților păstrate: 2."],
       en: ["Construction of first bastions: 1630.", "Length of preserved walls: 2.5 km.", "Height of St. Hedwig Bastion: 12 meters.", "Siege of 1741 lasted 3 weeks.", "Fortress abandoned in 1810.", "Number of preserved gates: 2."],
     },
+    image: "/poi-images/poland-nysa-fortifications-history-v2.webp",
   },
   {
     id: "poland-gniezno-old-town-history-v2",
@@ -2142,6 +2179,7 @@ export const polandHistoryV2: POI[] = [
       ro: ["Fondarea orașului: secolul al VIII-lea.", "Arhiepiscopia fondată: 1000.", "Primăria construită 1550.", "Dimensiunea pieței: 100 x 100 metri.", "Populație Gniezno (2020): 68.000.", "Restaurarea orașului vechi: 1950-1970."],
       en: ["City founded: 8th century.", "Archbishopric established: 1000.", "Town hall built 1550.", "Market square dimensions: 100 x 100 meters.", "Population of Gniezno (2020): 68,000.", "Old town reconstruction: 1950-1970."],
     },
+    image: "/poi-images/poland-gniezno-old-town-history-v2.webp",
   },
   {
     id: "poland-kwidzyn-old-town-history-v2",
@@ -2174,6 +2212,7 @@ export const polandHistoryV2: POI[] = [
       ro: ["Fondarea orașului: 1233 (castel al ordinului).", "Construcția primăriei: 1380.", "Lungimea Dansker: 45 de metri.", "Înălțimea bisericii Sf. Ioan: 58 de metri.", "Populația Kwidzyn (2020): 39.000.", "Anul secularizării: 1772."],
       en: ["Town foundation: 1233 (Order castle).", "Town hall built: 1380.", "Dansker length: 45 meters.", "Height of St. John's Church: 58 meters.", "Population of Kwidzyn (2020): 39,000.", "Year of secularization: 1772."],
     },
+    image: "/poi-images/poland-kwidzyn-old-town-history-v2.webp",
   },
   {
     id: "poland-bydgoszcz-old-town-history-v2",
@@ -2206,6 +2245,7 @@ export const polandHistoryV2: POI[] = [
       ro: ["Drepturi de oraș: 1346.", "Primăria construită 1625.", "Înălțimea bisericii Sf. Nicolae: 55 de metri.", "Lungimea promenadei Brda: 1,2 km.", "Populația Bydgoszcz (2020): 346.000.", "Numărul grânarelor istorice: 8."],
       en: ["Town rights: 1346.", "Town hall built 1625.", "Height of St. Nicholas Church: 55 meters.", "Length of Brda promenade: 1.2 km.", "Population of Bydgoszcz (2020): 346,000.", "Number of historic granaries: 8."],
     },
+    image: "/poi-images/poland-bydgoszcz-old-town-history-v2.webp",
   },
   {
     id: "poland-kedzierzyn-kozle-fortress-history-v2",
@@ -2238,6 +2278,7 @@ export const polandHistoryV2: POI[] = [
       ro: ["Perioada de construcție: 1834-1850.", "Numărul forturilor: 4.", "Înălțimea valurilor: 8 metri.", "Asediul din 1807 a durat 30 de zile.", "Folosită ca lagăr din 1939.", "Suprafața fortăreței: 120 de hectare."],
       en: ["Construction period: 1834-1850.", "Number of forts: 4.", "Height of ramparts: 8 meters.", "Siege of 1807 lasted 30 days.", "Used as camp from 1939.", "Fortress area: 120 hectares."],
     },
+    image: "/poi-images/poland-kedzierzyn-kozle-fortress-history-v2.webp",
   },
   {
     id: "poland-cieszyn-old-town-history-v2",
@@ -2270,6 +2311,7 @@ export const polandHistoryV2: POI[] = [
       ro: ["Drepturi de oraș: 1155 (prima mențiune).", "Primăria construită în 1496.", "Altitudinea pieței primăriei: 30 de metri deasupra râului Olza.", "Populația Cieszyn (2020): 35.000.", "Numărul caselor istorice de pe Rynek: 22.", "Trecere de frontieră către Cehia: pod pietonal."],
       en: ["Town rights: 1155 (first mentioned).", "Town hall built in 1496.", "Elevation of town hall square: 30 meters above Olza.", "Population of Cieszyn (2020): 35,000.", "Number of historic houses on Rynek: 22.", "Border crossing to Czech Republic: footbridge."],
     },
+    image: "/poi-images/poland-cieszyn-old-town-history-v2.webp",
   },
   {
     id: "poland-tykocin-old-town-history-v2",
@@ -2302,6 +2344,7 @@ export const polandHistoryV2: POI[] = [
       ro: ["Prima mențiune a așezării: 1420.", "Drepturi de oraș: 1608.", "Înălțimea turnului primăriei: 25 de metri.", "Marea Sinagogă construită în 1642.", "Populația Tykocin (2020): 1.900.", "Numărul caselor din lemn: 15."],
       en: ["First mention of settlement: 1420.", "Town rights: 1608.", "Height of town hall tower: 25 meters.", "Great Synagogue built 1642.", "Population of Tykocin (2020): 1,900.", "Number of wooden houses: 15."],
     },
+    image: "/poi-images/poland-tykocin-old-town-history-v2.webp",
   },
   {
     id: "poland-strzegom-old-town-history-v2",
@@ -2334,5 +2377,6 @@ export const polandHistoryV2: POI[] = [
       ro: ["Strzegom a primit dreptul de oraș în 1248 de la Henric al III-lea al Sileziei.", "Primăria a fost construită în 1399 în stil gotic și renovată în 1548 în stil renascentist.", "Biserica Sfinții Petru și Pavel are o lungime de 62 m și un turn de 76 m.", "Zidurile medievale aveau o lungime de 1,2 km și 24 de turnuri de apărare.", "Populația orașului era de aproximativ 2.500 în secolul al XV-lea.", "Breasla țesătorilor a primit privilegii în 1354."],
       en: ["Strzegom was granted town rights in 1248 by Duke Henry III of Silesia.", "The Gothic Town Hall was built in 1399 and rebuilt in Renaissance style after a 1548 fire.", "The Church of Saints Peter and Paul is 62 meters long with a 76-meter tower completed in 1340.", "The medieval defensive walls originally stretched 1.2 km with 24 towers.", "In the 15th century, the population was around 2,500 inhabitants.", "The weavers' guild received its charter in 1354."],
     },
+    image: "/poi-images/poland-strzegom-old-town-history-v2.webp",
   }
 ];

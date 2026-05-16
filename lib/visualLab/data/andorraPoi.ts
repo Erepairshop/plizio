@@ -473,8 +473,8 @@ export const andorraLandmarks: POI[] = [
       hu: ["1580-ban épült a Busquets család kúriájaként.", "1702-től 2011-ig a Nagytanács székhelye volt.", "Történelmi tárgyalótermet és konyhát is magában foglal.", "Az 'Armari de les set claus' (A hét kulcs szekrénye) fontos dokumentumokat őrzött.", "A vezetett túrák bepillantást engednek az andorrai történelembe."],
       ro: ["Construită în 1580 ca o casă nobiliară pentru familia Busquets.", "A servit ca sediu al Consiliului General din 1702 până în 2011.", "Găzduiește o sală de judecată istorică și o bucătărie.", "\\\"Armari de les set claus\\\" (Dulapul celor șapte chei) păstra documente importante.", "Tururile ghidate oferă o perspectivă asupra istoriei andorrane."],
       en: ["Built in 1580 as a manor for the Busquets family.", "Served as the seat of the General Council from 1702 to 2011.", "Houses a historical courtroom and kitchen.", "The 'Armari de les set claus' (Cabinet of the Seven Keys) stored important documents.", "Guided tours offer insights into Andorran history."]
-    }
-   
+    },
+    image: "/poi-images/landmark-casa-de-la-vall.webp",
   },
   {
     id: "landmark-sant-joan-caselles",
@@ -574,7 +574,8 @@ export const andorraNature: POI[] = [
       hu: ["A csúcs megmászása körülbelül 4-5 órát vesz igénybe.", "A Coma Pedrosa-völgyek Natúrpark része.", "A csúcson egy kis menedékház található.", "A név jelentése 'köves völgy'.", "Panorámás kilátást nyújt a Pireneusokra."],
       ro: ["Ascensiunea durează aproximativ 4-5 ore.", "Parte a Parcului Natural Văile Coma Pedrosa.", "Pe vârf se află un mic refugiu.", "Numele înseamnă 'vale pietroasă'.", "Oferă vederi panoramice ale Pirineilor."],
       en: ["The ascent takes approximately 4-5 hours.", "Part of the Coma Pedrosa Valleys Natural Park.", "A small refuge hut is located near the summit.", "The name means 'stony valley'.", "Offers panoramic views across the Pyrenees."]
-    }
+    },
+    image: "/poi-images/nature-coma-pedrosa.webp",
   },
   {
     id: "nature-tristaina",

@@ -31,6 +31,7 @@ export const hongkongLandmarksV2: POI[] = [
       ro: ["Mănăstirea a fost fondată în 1924 de călugării Tun Chi și Yun Fan.", "Statuia Tian Tan Buddha are 34 de metri înălțime și cântărește 250 de tone.", "Statuia a fost finalizată în 1993, după cinci ani de construcție.", "Costul construcției a depășit 100 de milioane de dolari HK.", "Există 268 de trepte pentru a ajunge la statuie.", "Mănăstirea primește anual aproximativ 5 milioane de vizitatori."],
       en: ["Po Lin Monastery was founded in 1924 by monks Tun Chi and Yun Fan.", "The Tian Tan Buddha statue is 34 meters tall and weighs 250 tons.", "The Buddha was completed in 1993 after five years of construction.", "The total cost was over HKD 100 million.", "A climb of 268 steps leads to the base of the statue.", "The monastery attracts about 5 million visitors each year."],
     },
+    image: "/poi-images/hongkong-po-lin-monastery-landmarks-v2.webp",
   },
   {
     id: "hongkong-victoria-peak-tower-landmarks-v2",
@@ -62,6 +63,7 @@ export const hongkongLandmarksV2: POI[] = [
       ro: ["Peak Tower a fost deschis în 1997.", "A fost proiectat de arhitectul britanic Terry Farrell.", "Înălțimea este de 396 de metri deasupra nivelului mării.", "Peak Tram funcționează din 1888.", "Funicularul are o lungime de 1,4 kilometri.", "Aproximativ 7 milioane de vizitatori vin anual."],
       en: ["Peak Tower opened in 1997.", "It was designed by British architect Terry Farrell.", "The height is 396 meters above sea level.", "The Peak Tram has been operating since 1888.", "The funicular railway is 1.4 kilometers long.", "Over 7 million visitors come to Peak Tower annually."],
     },
+    image: "/poi-images/hongkong-victoria-peak-tower-landmarks-v2.webp",
   },
   {
     id: "hongkong-tsim-sha-tsui-clock-tower-landmarks-v2",
@@ -93,6 +95,7 @@ export const hongkongLandmarksV2: POI[] = [
       ro: ["Turnul cu ceas a fost construit în 1915.", "Are o înălțime de 44 de metri.", "Mecanismul ceasului a fost adus din Anglia în 1920.", "Turnul este din cărămidă roșie și granit.", "Gara originală a fost demolată în 1978.", "Este monument istoric din 1990."],
       en: ["The Clock Tower was built in 1915.", "It stands 44 meters tall.", "The clock mechanism was imported from England in 1920.", "It is built of red brick and granite.", "The original railway terminus was demolished in 1978.", "It has been a declared monument since 1990."],
     },
+    image: "/poi-images/hongkong-tsim-sha-tsui-clock-tower-landmarks-v2.webp",
   },
   {
     id: "hongkong-convention-exhibition-centre-landmarks-v2",
@@ -124,6 +127,7 @@ export const hongkongLandmarksV2: POI[] = [
       ro: ["HKCEC a fost deschis în 1988 și extins în 1997.", "Suprafața totală este de 91.500 de metri pătrați.", "Capacitatea este de până la 10.000 de vizitatori.", "Acoperișul ondulat are 50 de metri înălțime.", "A fost locul ceremoniei de predare din 1997.", "Este situat pe malul portului Victoria."],
       en: ["HKCEC opened in 1988 and expanded in 1997.", "It covers 91,500 square meters.", "Capacity is up to 10,000 visitors.", "The wave-shaped roof is 50 meters high.", "It hosted the 1997 handover ceremony.", "It is located on Victoria Harbour."],
     },
+    image: "/poi-images/hongkong-convention-exhibition-centre-landmarks-v2.webp",
   },
   {
     id: "hongkong-observation-wheel-landmarks-v2",
@@ -155,6 +159,7 @@ export const hongkongLandmarksV2: POI[] = [
       ro: ["Roata are 60 de metri înălțime.", "A fost deschisă în decembrie 2014.", "Are 42 de cabine cu aer condiționat.", "O cabină poate găzdui 8 persoane.", "O rotație durează 15-20 de minute.", "Peste 1 milion de vizitatori anual."],
       en: ["The wheel is 60 meters tall.", "It opened in December 2014.", "It has 42 air-conditioned cabins.", "Each cabin holds up to 8 people.", "A full rotation takes 15-20 minutes.", "Over 1 million visitors annually."],
     },
+    image: "/poi-images/hongkong-observation-wheel-landmarks-v2.webp",
   },
   {
     id: "hongkong-statue-square-landmarks-v2",
@@ -186,6 +191,7 @@ export const hongkongLandmarksV2: POI[] = [
       ro: ["Piața Statuilor a fost amenajată în anii 1960.", "Este înconjurată de clădirea Consiliului Legislativ și fosta Curte Supremă.", "Statuia lui Sir Thomas Jackson a fost dezvelită în 1906.", "Piața are 6.000 de metri pătrați.", "Se află lângă debarcaderul Star Ferry.", "Duminica se adună până la 100.000 de lucrători casnici."],
       en: ["Statue Square was laid out in the 1960s.", "It is surrounded by the Legislative Council Building and the Old Supreme Court.", "Sir Thomas Jackson's statue was unveiled in 1906.", "The square covers 6,000 square meters.", "It is located near the Star Ferry Pier.", "Up to 100,000 domestic helpers gather there on Sundays."],
     },
+    image: "/poi-images/hongkong-statue-square-landmarks-v2.webp",
   },
   {
     id: "hongkong-cenotaph-landmarks-v2",
@@ -217,6 +223,7 @@ export const hongkongLandmarksV2: POI[] = [
       ro: ["Cenotaphul a fost construit în 1923.", "Este o copie a Cenotaphului din Londra.", "Înălțimea este de 12 metri.", "Este din granit.", "Inscripțiile sunt în chineză și engleză.", "Este monument istoric din 1996."],
       en: ["The Cenotaph was erected in 1923.", "It is a replica of the Cenotaph in London.", "It stands 12 meters tall.", "It is made of granite.", "Inscriptions are in Chinese and English.", "It has been a declared monument since 1996."],
     },
+    image: "/poi-images/hongkong-cenotaph-landmarks-v2.webp",
   },
   {
     id: "hongkong-court-of-final-appeal-building-landmarks-v2",
@@ -248,6 +255,7 @@ export const hongkongLandmarksV2: POI[] = [
       ro: ["Clădirea a fost construită în 1912.", "A fost proiectată de Aston Webb.", "Este în stil neoclasic.", "A găzduit Curtea Supremă până în 1997.", "Coloanele sunt ionice.", "Din 1997 găzduiește Curtea de Apel Final."],
       en: ["The building was built in 1912.", "It was designed by Aston Webb.", "It is neoclassical in style.", "It housed the Supreme Court until 1997.", "The columns are Ionic.", "Since 1997 it has housed the Court of Final Appeal."],
     },
+    image: "/poi-images/hongkong-court-of-final-appeal-building-landmarks-v2.webp",
   },
   {
     id: "hongkong-st-johns-cathedral-landmarks-v2",
@@ -279,6 +287,7 @@ export const hongkongLandmarksV2: POI[] = [
       ro: ["Catedrala Sf. Ioan a fost sfințită în 1849.", "Este cea mai veche biserică anglicană din Hong Kong.", "Turnul clopotniță are 33 de metri înălțime.", "În al Doilea Război Mondial a fost centru de administrație civilă.", "Biserica este în stil gotic.", "Este monument istoric din 1996."],
       en: ["St. John's Cathedral was consecrated in 1849.", "It is the oldest Anglican church in Hong Kong.", "The bell tower is 33 meters high.", "It served as a civil administration centre during WWII.", "The church is built in Gothic style.", "It has been a declared monument since 1996."],
     },
+    image: "/poi-images/hongkong-st-johns-cathedral-landmarks-v2.webp",
   },
   {
     id: "hongkong-museum-of-art-landmarks-v2",
@@ -310,6 +319,7 @@ export const hongkongLandmarksV2: POI[] = [
       ro: ["Muzeul a fost fondat în 1962.", "S-a mutat în clădirea actuală în 1991.", "Colecția cuprinde peste 17.000 de opere.", "Expoziții de pictură chinezească, caligrafie și artă contemporană.", "Suprafața expozițională este de 7.500 de metri pătrați.", "Este situat în complexul Centrului Cultural Tsim Sha Tsui."],
       en: ["The museum was founded in 1962.", "It moved to its current building in 1991.", "The collection includes over 17,000 artworks.", "It features Chinese painting, calligraphy, and contemporary art.", "Exhibition space is 7,500 square meters.", "It is located in the Tsim Sha Tsui Cultural Centre Complex."],
     },
+    image: "/poi-images/hongkong-museum-of-art-landmarks-v2.webp",
   },
   {
     id: "hongkong-museum-of-history-landmarks-v2",
@@ -341,6 +351,7 @@ export const hongkongLandmarksV2: POI[] = [
       ro: ["Fondat în anul 1975 în districtul Tsim Sha Tsui", "Mutat în actualul sediu în cursul anului 1998", "Expoziția permanentă are 8 galerii pe 2 etaje", "Suprafața totală este de aproximativ 17.500 mp", "Găzduiește peste 90.000 de obiecte istorice", "Acoperă geologia, etnografia și istoria colonială"],
       en: ["Established in 1975 in Tsim Sha Tsui", "Moved to the current purpose-built site in 1998", "The main exhibition spans 8 galleries on 2 floors", "Total floor area is approximately 17,500 sqm", "Holds a collection of over 90,000 historical items", "Covers geology, folk culture, and colonial history"],
     },
+    image: "/poi-images/hongkong-museum-of-history-landmarks-v2.webp",
   },
   {
     id: "hongkong-science-museum-landmarks-v2",
@@ -372,6 +383,7 @@ export const hongkongLandmarksV2: POI[] = [
       ro: ["Muzeul a fost deschis în 1991.", "Are peste 500 de exponate.", "Aproximativ 70% dintre exponate sunt interactive.", "Are 18 galerii.", "Energy Machine are 20 de metri înălțime.", "Este situat în Tsim Sha Tsui."],
       en: ["The museum opened in 1991.", "It has over 500 exhibits.", "About 70% of exhibits are interactive.", "It has 18 galleries.", "The Energy Machine is 20 meters tall.", "It is located in Tsim Sha Tsui."],
     },
+    image: "/poi-images/hongkong-science-museum-landmarks-v2.webp",
   },
   {
     id: "hongkong-space-museum-landmarks-v2",
@@ -403,6 +415,7 @@ export const hongkongLandmarksV2: POI[] = [
       ro: ["Muzeul a fost deschis în 1980.", "Cupola are 23 de metri diametru.", "Are două săli de expoziție.", "Planetariul are 316 locuri.", "Proiectorul de stele a fost fabricat de Carl Zeiss.", "Este situat în Tsim Sha Tsui."],
       en: ["The museum opened in 1980.", "The dome has a diameter of 23 meters.", "It has two exhibition halls.", "The planetarium has 316 seats.", "The star projector was made by Carl Zeiss.", "It is located in Tsim Sha Tsui."],
     },
+    image: "/poi-images/hongkong-space-museum-landmarks-v2.webp",
   },
   {
     id: "hongkong-m-plus-museum-landmarks-v2",
@@ -434,6 +447,7 @@ export const hongkongLandmarksV2: POI[] = [
       ro: ["Muzeul M+ a fost deschis în noiembrie 2021.", "Suprafața totală este de 65.000 de metri pătrați.", "Clădirea a fost proiectată de Herzog & de Meuron.", "Are 33 de galerii.", "Colecția cuprinde peste 8.000 de lucrări.", "Este situat în Districtul Cultural West Kowloon."],
       en: ["M+ Museum opened in November 2021.", "It has a total area of 65,000 square meters.", "The building was designed by Herzog & de Meuron.", "It has 33 galleries.", "The collection includes over 8,000 works.", "It is located in the West Kowloon Cultural District."],
     },
+    image: "/poi-images/hongkong-m-plus-museum-landmarks-v2.webp",
   },
   {
     id: "hongkong-palace-museum-landmarks-v2",
@@ -465,6 +479,7 @@ export const hongkongLandmarksV2: POI[] = [
       ro: ["Muzeul a fost deschis în iulie 2022.", "Prezintă peste 900 de opere de artă.", "Are nouă galerii.", "Exponatele provin din Orașul Interzis.", "Clădirea a fost proiectată de Rocco Design Architects.", "Este situat în Districtul Cultural West Kowloon."],
       en: ["The museum opened in July 2022.", "It displays over 900 artworks.", "It has nine galleries.", "The exhibits are from the Forbidden City.", "The building was designed by Rocco Design Architects.", "It is located in the West Kowloon Cultural District."],
     },
+    image: "/poi-images/hongkong-palace-museum-landmarks-v2.webp",
   },
   {
     id: "hongkong-tsing-ma-bridge-landmarks-v2",
@@ -496,6 +511,7 @@ export const hongkongLandmarksV2: POI[] = [
       ro: ["Podul a fost deschis pe 27 aprilie 1997.", "Deschiderea principală este de 1.377 de metri.", "Are o lățime de 41 de metri.", "Transportă atât trafic rutier, cât și feroviar.", "Face parte din Lantau Link.", "Lungimea totală este de 2.160 de metri."],
       en: ["The bridge opened on 27 April 1997.", "Main span is 1,377 meters.", "Width is 41 meters.", "It carries both road and rail traffic.", "It is part of the Lantau Link.", "Total length is 2,160 meters."],
     },
+    image: "/poi-images/hongkong-tsing-ma-bridge-landmarks-v2.webp",
   },
   {
     id: "hongkong-stonecutters-bridge-landmarks-v2",
@@ -527,6 +543,7 @@ export const hongkongLandmarksV2: POI[] = [
       ro: ["Podul a fost deschis pe 20 decembrie 2009.", "Deschiderea principală este de 1.018 metri.", "Lățimea este de 53 de metri.", "Pilonii au 298 de metri înălțime.", "Este al doilea cel mai lung pod cu hobane din lume.", "Face parte din ruta 8."],
       en: ["The bridge opened on 20 December 2009.", "Main span is 1,018 meters.", "Width is 53 meters.", "Towers are 298 meters tall.", "It is the second longest cable-stayed bridge in the world.", "It is part of Route 8."],
     },
+    image: "/poi-images/hongkong-stonecutters-bridge-landmarks-v2.webp",
   },
   {
     id: "hongkong-legislative-council-complex-landmarks-v2",
@@ -558,6 +575,7 @@ export const hongkongLandmarksV2: POI[] = [
       ro: ["Clădirea a fost deschisă în 2011.", "Camera principală are 70 de locuri.", "A înlocuit Complexul Guvernamental Central.", "Clădirea are o fațadă de sticlă.", "Este situată în districtul Central.", "Este sediul Consiliului Legislativ."],
       en: ["The building opened in 2011.", "The main chamber has 70 seats.", "It replaced the Central Government Complex.", "The building has a glass facade.", "It is located in Central district.", "It is the seat of the Legislative Council."],
     },
+    image: "/poi-images/hongkong-legislative-council-complex-landmarks-v2.webp",
   },
   {
     id: "hongkong-ten-thousand-buddhas-monastery-landmarks-v2",
@@ -589,6 +607,7 @@ export const hongkongLandmarksV2: POI[] = [
       ro: ["Mănăstirea a fost fondată în 1957.", "Există peste 12.800 de statui ale lui Buddha.", "Aleea are 431 de trepte.", "Statuile sunt din aur și rășină.", "Mumia fondatorului este păstrată în turnul clopotniță.", "Este situată în Sha Tin."],
       en: ["The monastery was founded in 1957.", "There are over 12,800 Buddha statues.", "The staircase has 431 steps.", "The statues are made of gold and resin.", "The mummy of the founder is kept in the bell tower.", "It is located in Sha Tin."],
     },
+    image: "/poi-images/hongkong-ten-thousand-buddhas-monastery-landmarks-v2.webp",
   },
   {
     id: "hongkong-chi-lin-nunnery-landmarks-v2",
@@ -620,6 +639,7 @@ export const hongkongLandmarksV2: POI[] = [
       ro: ["Mănăstirea a fost fondată în anii 1930.", "Reconstrucția a avut loc între 1995 și 1998.", "Construită din lemn fără cuie.", "Sala Marelui Erou are 33 de metri înălțime.", "Există un coridor lung de 100 de metri.", "Este situată în Wong Tai Sin."],
       en: ["The nunnery was founded in the 1930s.", "Rebuilding took place between 1995 and 1998.", "It is built of wood without nails.", "The Hall of Great Hero is 33 meters high.", "There is a 100-meter-long corridor.", "It is located in Wong Tai Sin."],
     },
+    image: "/poi-images/hongkong-chi-lin-nunnery-landmarks-v2.webp",
   },
   {
     id: "hongkong-nan-lian-garden-pavilion-landmarks-v2",
@@ -651,6 +671,7 @@ export const hongkongLandmarksV2: POI[] = [
       ro: ["Grădina s-a deschis în 2006 și acoperă 3,5 hectare.", "Pavilionul central are 12 metri înălțime și este construit fără cuie.", "Există peste 100 de specii de plante, inclusiv pini și bambus.", "Lacul artificial conține aproximativ 500 de pești koi.", "Grădina atrage anual peste 1 milion de vizitatori.", "Costul total al proiectului a fost de 240 milioane HKD."],
       en: ["Nan Lian Garden opened in 2006 and spans 3.5 hectares.", "The main pavilion stands 12 meters tall and uses no nails in its construction.", "The garden features over 100 plant species, including 500-year-old bonsai.", "The artificial pond houses approximately 500 koi fish.", "Annual visitor count exceeds 1.2 million.", "Total construction cost was 240 million Hong Kong dollars."],
     },
+    image: "/poi-images/hongkong-nan-lian-garden-pavilion-landmarks-v2.webp",
   },
   {
     id: "hongkong-central-mid-levels-escalator-landmarks-v2",
@@ -682,6 +703,7 @@ export const hongkongLandmarksV2: POI[] = [
       ro: ["Inaugurat pe 15 octombrie 1993.", "Lungime totală de 800 de metri.", "20 de scări rulante și 3 benzi de transport.", "Diferența de nivel este de 135 de metri.", "Aproximativ 78.000 de persoane o folosesc zilnic.", "Costul construcției a fost de 240 milioane HKD."],
       en: ["Opened on October 15, 1993.", "Total length is 800 meters.", "Comprises 20 escalators and 3 travelators.", "Elevation gain is 135 meters.", "Daily ridership is approximately 78,000.", "Construction cost was 240 million HKD."],
     },
+    image: "/poi-images/hongkong-central-mid-levels-escalator-landmarks-v2.webp",
   },
   {
     id: "hongkong-aberdeen-floating-village-landmarks-v2",
@@ -713,6 +735,7 @@ export const hongkongLandmarksV2: POI[] = [
       ro: [],
       en: [],
     },
+    image: "/poi-images/hongkong-aberdeen-floating-village-landmarks-v2.webp",
   },
   {
     id: "hongkong-repulse-bay-tin-hau-temple-landmarks-v2",
@@ -744,6 +767,7 @@ export const hongkongLandmarksV2: POI[] = [
       ro: ["Templul a fost construit inițial în 1767.", "Este clasificat ca monument istoric de gradul I.", "Statuia principală a lui Tin Hau are 1,5 metri înălțime.", "Aproximativ 200.000 de persoane îl vizitează anual.", "Ziua de naștere a lui Tin Hau este în a 23-a zi a celei de-a 3-a luni lunare.", "Templul se află la 20 de metri de mare."],
       en: ["The temple was originally built in 1767.", "It is classified as a Grade I historic building.", "The main statue of Tin Hau is 1.5 meters tall.", "Approximately 200,000 people visit annually.", "Tin Hau's birthday falls on the 23rd day of the 3rd lunar month.", "The temple is located 20 meters from the sea."],
     },
+    image: "/poi-images/hongkong-repulse-bay-tin-hau-temple-landmarks-v2.webp",
   },
   {
     id: "hongkong-university-hall-hku-landmarks-v2",
@@ -775,6 +799,7 @@ export const hongkongLandmarksV2: POI[] = [
       ro: ["Clădirea a fost construită în 1861.", "Este monument istoric de gradul II.", "Turnul are o înălțime de 25 de metri.", "Clădirea are 50 de camere.", "Se află la 10 kilometri de centrul orașului.", "Costul renovării din 2000 a fost de 10 milioane HKD."],
       en: ["Built in 1861.", "Grade II historic building.", "Tower height is 25 meters.", "Contains 50 rooms.", "Located 10 km from city center.", "Renovation cost in 2000 was 10 million HKD."],
     },
+    image: "/poi-images/hongkong-university-hall-hku-landmarks-v2.webp",
   },
   {
     id: "hongkong-cultural-centre-landmarks-v2",
@@ -806,6 +831,7 @@ export const hongkongLandmarksV2: POI[] = [
       ro: ["Inaugurat pe 8 noiembrie 1989.", "Sala de concerte are 2.019 locuri.", "Marele teatru are 1.734 locuri.", "Teatrul studio are 534 locuri.", "Înălțimea clădirii este de 30 de metri.", "Costul construcției a fost de 600 milioane HKD."],
       en: ["Opened on November 8, 1989.", "Concert Hall seats 2,019.", "Grand Theatre seats 1,734.", "Studio Theatre seats 534.", "Building height is 30 meters.", "Construction cost was 600 million HKD."],
     },
+    image: "/poi-images/hongkong-cultural-centre-landmarks-v2.webp",
   },
   {
     id: "hongkong-city-hall-landmarks-v2",
@@ -837,6 +863,7 @@ export const hongkongLandmarksV2: POI[] = [
       ro: ["Inaugurat pe 2 martie 1962.", "Clădirea principală are 25 de metri înălțime.", "Sala de concerte are 1.434 de locuri.", "Biblioteca conține peste 1 milion de volume.", "Anual au loc peste 500 de evenimente.", "Costul construcției a fost de 20 de milioane HKD."],
       en: ["Opened on March 2, 1962.", "Main building height is 25 meters.", "Concert hall seats 1,434.", "Library holds over 1 million volumes.", "Over 500 events are held annually.", "Construction cost was 20 million HKD."],
     },
+    image: "/poi-images/hongkong-city-hall-landmarks-v2.webp",
   },
   {
     id: "hongkong-sun-yat-sen-museum-landmarks-v2",
@@ -868,6 +895,7 @@ export const hongkongLandmarksV2: POI[] = [
       ro: ["Muzeul s-a deschis pe 12 noiembrie 2006.", "Clădirea a fost construită în 1914 ca reședință privată.", "Spațiul expozițional este de 1.500 de metri pătrați.", "Sunt expuse peste 470 de obiecte.", "Sun Yat-sen a locuit la Hong Kong între 1887 și 1892.", "Prețul biletului este de 10 HKD."],
       en: ["Museum opened on November 12, 2006.", "Building constructed in 1914 as a private residence.", "Exhibition area is 1,500 square meters.", "Over 470 exhibits on display.", "Sun Yat-sen lived in Hong Kong from 1887 to 1892.", "Admission fee is 10 HKD."],
     },
+    image: "/poi-images/hongkong-sun-yat-sen-museum-landmarks-v2.webp",
   },
   {
     id: "hongkong-railway-museum-tai-po-landmarks-v2",
@@ -899,6 +927,7 @@ export const hongkongLandmarksV2: POI[] = [
       ro: ["Muzeul s-a deschis pe 20 decembrie 1985.", "Clădirea gării a fost construită în 1913.", "Cea mai veche locomotivă datează din 1924.", "Muzeul se întinde pe 2.000 de metri pătrați.", "Aproximativ 100.000 de persoane îl vizitează anual.", "Intrarea este gratuită."],
       en: ["Museum opened on December 20, 1985.", "Station building constructed in 1913.", "Oldest locomotive dates from 1924.", "Museum covers 2,000 square meters.", "Approximately 100,000 visitors annually.", "Admission is free."],
     },
+    image: "/poi-images/hongkong-railway-museum-tai-po-landmarks-v2.webp",
   },
   {
     id: "hongkong-hopewell-centre-landmarks-v2",
@@ -930,6 +959,7 @@ export const hongkongLandmarksV2: POI[] = [
       ro: ["Clădirea are 216 metri înălțime.", "Are 64 de etaje.", "Finalizată în 1980.", "Platforma de observație se află la etajul 62.", "A fost prima clădire din Hong Kong cu heliport.", "Costul construcției a fost de 500 milioane HKD."],
       en: ["Building height is 216 meters.", "Has 64 stories.", "Completed in 1980.", "Observation deck is on the 62nd floor.", "First building in Hong Kong with a helipad.", "Construction cost was 500 million HKD."],
     },
+    image: "/poi-images/hongkong-hopewell-centre-landmarks-v2.webp",
   },
   {
     id: "hongkong-central-plaza-landmarks-v2",
@@ -961,6 +991,7 @@ export const hongkongLandmarksV2: POI[] = [
       ro: ["Clădirea are 374 de metri înălțime.", "Are 78 de etaje.", "Finalizată în 1992.", "Platforma de observație este la etajul 46.", "A fost cea mai înaltă clădire din Asia la finalizare.", "Costul construcției a fost de 1,5 miliarde HKD."],
       en: ["Building height is 374 meters.", "Has 78 stories.", "Completed in 1992.", "Observation deck is on the 46th floor.", "Tallest building in Asia upon completion.", "Construction cost was 1.5 billion HKD."],
     },
+    image: "/poi-images/hongkong-central-plaza-landmarks-v2.webp",
   },
   {
     id: "hongkong-the-center-landmarks-v2",
@@ -992,6 +1023,7 @@ export const hongkongLandmarksV2: POI[] = [
       ro: ["Clădirea are 346 de metri înălțime.", "Are 73 de etaje.", "Finalizată în 1998.", "Iluminarea cu neon constă din 15.000 de LED-uri.", "Costul construcției a fost de 1,2 miliarde HKD.", "Clădirea găzduiește aproximativ 10.000 de locuri de muncă."],
       en: ["Building height is 346 meters.", "Has 73 stories.", "Completed in 1998.", "Neon lighting consists of 15,000 LEDs.", "Construction cost was 1.2 billion HKD.", "Building houses approximately 10,000 jobs."],
     },
+    image: "/poi-images/hongkong-the-center-landmarks-v2.webp",
   },
   {
     id: "hongkong-nina-tower-landmarks-v2",
@@ -1023,6 +1055,7 @@ export const hongkongLandmarksV2: POI[] = [
       ro: ["Clădirea are 320 de metri înălțime.", "Are 80 de etaje.", "Finalizată în 2006.", "Hotelul Royal Plaza ocupă etajele 42-78.", "Clădirea are 1.600 de camere de hotel.", "Costul construcției a fost de 2 miliarde HKD."],
       en: ["Building height is 320 meters.", "Has 80 stories.", "Completed in 2006.", "Royal Plaza Hotel occupies floors 42-78.", "Building has 1,600 hotel rooms.", "Construction cost was 2 billion HKD."],
     },
+    image: "/poi-images/hongkong-nina-tower-landmarks-v2.webp",
   },
   {
     id: "hongkong-langham-place-office-tower-landmarks-v2",
@@ -1054,6 +1087,7 @@ export const hongkongLandmarksV2: POI[] = [
       ro: ["Clădirea are 255 de metri înălțime.", "Are 59 de etaje.", "Finalizată în 2004.", "Centrul comercial asociat are 200 de magazine.", "Costul construcției a fost de 1,8 miliarde HKD.", "Clădirea este conectată direct la stația de metrou Mong Kok."],
       en: ["Building height is 255 meters.", "Has 59 stories.", "Completed in 2004.", "Adjacent shopping mall has 200 stores.", "Construction cost was 1.8 billion HKD.", "Building is directly connected to Mong Kok MTR station."],
     },
+    image: "/poi-images/hongkong-langham-place-office-tower-landmarks-v2.webp",
   },
   {
     id: "hongkong-citygate-outlets-tung-chung-landmarks-v2",
@@ -1085,6 +1119,7 @@ export const hongkongLandmarksV2: POI[] = [
       ro: ["Centrul comercial s-a deschis în 2006.", "Găzduiește peste 80 de magazine.", "Suprafața de retail este de 46.000 de metri pătrați.", "Reducerile sunt între 30% și 70%.", "Peste 10 milioane de persoane îl vizitează anual.", "Este conectat direct cu Airport Express."],
       en: ["Mall opened in 2006.", "Houses over 80 stores.", "Retail area is 46,000 square meters.", "Discounts range from 30% to 70%.", "Over 10 million visitors annually.", "Directly connected to Airport Express."],
     },
+    image: "/poi-images/hongkong-citygate-outlets-tung-chung-landmarks-v2.webp",
   },
   {
     id: "hongkong-elements-mall-west-kowloon-landmarks-v2",
@@ -1116,6 +1151,7 @@ export const hongkongLandmarksV2: POI[] = [
       ro: ["Centrul comercial s-a deschis în 2007.", "Include peste 120 de magazine.", "Suprafața de vânzare este de 80.000 de metri pătrați.", "Construcția a durat 3 ani.", "Un hotel de 1.000 de camere este atașat.", "Este conectat la terminalul de mare viteză."],
       en: ["Mall opened in 2007.", "Features over 120 stores.", "Retail space is 80,000 square meters.", "Construction took 3 years.", "A 1,000-room hotel is attached.", "Connected to high-speed rail terminus."],
     },
+    image: "/poi-images/hongkong-elements-mall-west-kowloon-landmarks-v2.webp",
   },
   {
     id: "hongkong-harbour-city-tsim-sha-tsui-landmarks-v2",
@@ -1147,6 +1183,7 @@ export const hongkongLandmarksV2: POI[] = [
       ro: ["Centrul comercial s-a deschis în 1966.", "Găzduiește peste 700 de magazine.", "Suprafața totală este de 370.000 de metri pătrați.", "Include 3 hoteluri cu 1.500 de camere în total.", "Peste 30 de milioane de vizitatori anual.", "Oferă 2.000 de locuri de parcare."],
       en: ["Mall opened in 1966.", "Houses over 700 stores.", "Total area is 370,000 square meters.", "Includes 3 hotels with 1,500 rooms in total.", "Over 30 million visitors annually.", "Provides 2,000 parking spaces."],
     },
+    image: "/poi-images/hongkong-harbour-city-tsim-sha-tsui-landmarks-v2.webp",
   },
   {
     id: "hongkong-ocean-park-summit-landmarks-v2",
@@ -1178,6 +1215,7 @@ export const hongkongLandmarksV2: POI[] = [
       ro: ["Parcul Ocean Park s-a deschis în 1977.", "Summit-ul este accesibil cu o telecabină de 1,5 km.", "Marele Acvariu conține 5.000 de pești.", "Montagne rusă Hair Raiser atinge viteze de 80 km/h.", "Ocean Express transportă 4.000 de persoane pe oră.", "Parcul primește peste 7 milioane de vizitatori anual."],
       en: ["Ocean Park opened in 1977.", "Summit accessible via a 1.5 km cable car.", "Grand Aquarium holds 5,000 fish.", "Hair Raiser roller coaster reaches 80 km/h.", "Ocean Express carries 4,000 persons per hour.", "Park receives over 7 million visitors annually."],
     },
+    image: "/poi-images/hongkong-ocean-park-summit-landmarks-v2.webp",
   },
   {
     id: "hongkong-disneyland-sleeping-beauty-castle-landmarks-v2",
@@ -1209,6 +1247,7 @@ export const hongkongLandmarksV2: POI[] = [
       ro: ["Castelul s-a redeschis în 2020 după renovare.", "Are 21 de metri înălțime.", "Are 13 turnulețe pentru cele 13 prințese.", "Castelul original din 2005 avea 20 de metri înălțime.", "Renovarea a costat 1 miliard HKD.", "Spectacolul zilnic de artificii durează 20 de minute."],
       en: ["Castle reopened in 2020 after renovation.", "Height is 21 meters.", "Features 13 turrets for the 13 princesses.", "Original 2005 castle was 20 meters tall.", "Renovation cost 1 billion HKD.", "Daily fireworks show lasts 20 minutes."],
     },
+    image: "/poi-images/hongkong-disneyland-sleeping-beauty-castle-landmarks-v2.webp",
   },
   {
     id: "hongkong-wun-chuen-sin-koon-landmarks-v2",
@@ -1240,6 +1279,7 @@ export const hongkongLandmarksV2: POI[] = [
       ro: ["Templul a fost construit în 1973.", "Este dedicat celor Trei Puri (Sānqīng).", "Altarul principal are o înălțime de 8 metri.", "Biblioteca conține peste 5.000 de cărți.", "Festivalul anual de Anul Nou atrage 3.000 de vizitatori.", "Templul se află la 200 de metri de mare."],
       en: ["Temple built in 1973.", "Dedicated to the Three Pure Ones (Sānqīng).", "Main shrine height is 8 meters.", "Library holds over 5,000 books.", "Annual New Year festival attracts 3,000 visitors.", "Temple is 200 meters from the sea."],
     },
+    image: "/poi-images/hongkong-wun-chuen-sin-koon-landmarks-v2.webp",
   },
   {
     id: "hongkong-maclehose-trail-marker-landmarks-v2",
@@ -1271,6 +1311,7 @@ export const hongkongLandmarksV2: POI[] = [
       ro: ["Lungime: 100 km", "Deschis în 1979", "10 secțiuni", "Cel mai înalt punct: Tai Mo Shan 957 m", "Start: Pak Tam Chung, sfârșit: Tuen Mun", "Timp de parcurs: 4-5 zile"],
       en: ["Length: 100 km", "Opened in 1979", "Divided into 10 sections", "Highest point: Tai Mo Shan 957 m", "Start at Pak Tam Chung, end at Tuen Mun", "Full hike takes 4-5 days"],
     },
+    image: "/poi-images/hongkong-maclehose-trail-marker-landmarks-v2.webp",
   },
   {
     id: "hongkong-kwun-tong-promenade-landmarks-v2",
@@ -1302,6 +1343,7 @@ export const hongkongLandmarksV2: POI[] = [
       ro: ["Lungime: 1,2 km", "Deschisă în 2010", "Leagă debarcaderul Kwun Tong de Parcul Kai Tak Runway", "Include pistă de biciclete", "Vedere spre Victoria Harbour", "Elemente de design industrial"],
       en: ["Length: 1.2 km", "Opened in 2010", "Connects Kwun Tong Pier to Kai Tak Runway Park", "Features a cycling path", "Offers views of Victoria Harbour", "Industrial design elements"],
     },
+    image: "/poi-images/hongkong-kwun-tong-promenade-landmarks-v2.webp",
   },
   {
     id: "hongkong-tai-o-heritage-hotel-landmarks-v2",
@@ -1333,6 +1375,7 @@ export const hongkongLandmarksV2: POI[] = [
       ro: ["Deschis în 2012", "Fostă secție de poliție din 1902", "9 camere", "1 restaurant", "Monument istoric", "Situat în Tai O, insula Lantau"],
       en: ["Opened in 2012", "Originally a 1902 police station", "9 rooms", "1 restaurant", "Declared monument", "Located in Tai O, Lantau Island"],
     },
+    image: "/poi-images/hongkong-tai-o-heritage-hotel-landmarks-v2.webp",
   },
   {
     id: "hongkong-ping-shan-heritage-trail-hall-landmarks-v2",
@@ -1364,6 +1407,7 @@ export const hongkongLandmarksV2: POI[] = [
       ro: ["Construit în secolul al XIII-lea", "Parte a Traseului Patrimoniului Ping Shan", "Construit din granit și cărămidă", "Decorațiuni din lemn sculptat", "Include un turn și o bibliotecă", "Arhitectura dinastiilor Ming și Qing"],
       en: ["Built in the 13th century", "Part of Ping Shan Heritage Trail", "Constructed of granite and brick", "Features wood carvings", "Includes a tower and library", "Ming and Qing dynasty architecture"],
     },
+    image: "/poi-images/hongkong-ping-shan-heritage-trail-hall-landmarks-v2.webp",
   },
   {
     id: "hongkong-university-museum-art-gallery-landmarks-v2",
@@ -1395,6 +1439,7 @@ export const hongkongLandmarksV2: POI[] = [
       ro: ["Fondat în 1953", "Colecție: ceramică chineză, pictură, caligrafie", "Peste 1.000 de piese", "Expoziții temporare", "Grădină de sculptură", "Parte a Universității din Hong Kong"],
       en: ["Founded in 1953", "Collection: Chinese ceramics, paintings, calligraphy", "Over 1,000 pieces", "Rotating exhibitions", "Sculpture garden", "Part of University of Hong Kong"],
     },
+    image: "/poi-images/hongkong-university-museum-art-gallery-landmarks-v2.webp",
   },
   {
     id: "hongkong-tai-kwun-prison-yard-landmarks-v2",
@@ -1426,5 +1471,6 @@ export const hongkongLandmarksV2: POI[] = [
       ro: ["Construit în 1841", "Închis în 2006", "Redeschis în 2018", "Include celule și curți", "Arhitectură victoriană", "Centru cultural cu galerii și teatru"],
       en: ["Built in 1841", "Closed in 2006", "Reopened in 2018", "Includes cells and exercise yards", "Victorian architecture", "Cultural centre with galleries and theatre"],
     },
+    image: "/poi-images/hongkong-tai-kwun-prison-yard-landmarks-v2.webp",
   }
 ];

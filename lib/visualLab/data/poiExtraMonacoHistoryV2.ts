@@ -32,6 +32,7 @@ export const monacoHistoryV2: POI[] = [
       ro: ["An construcție primărie: 1878", "Stil arhitectural: neoclasic", "Suprafața pieței: 1.500 m²", "Înălțime statuie: 3 m", "Evenimente anuale: 50", "Stație de autobuz: da"],
       en: ["Town hall built: 1878", "Architectural style: Neoclassical", "Square area: 1,500 m²", "Statue height: 3 m", "Annual events: 50", "Bus stop: yes"],
     },
+    image: "/poi-images/monaco-place-de-la-mairie-history-v2.webp",
   },
   {
     id: "monaco-rue-basse-history-v2",
@@ -64,6 +65,7 @@ export const monacoHistoryV2: POI[] = [
       ro: ["Vechime: secolul XIII", "Lungime: 200 m", "Lățime: 5 m", "Pavaj: piatră", "Număr magazine: 30", "Zonă pietonală din: 1990"],
       en: ["Age: 13th century", "Length: 200 m", "Width: 5 m", "Cobbled: yes", "Number of shops: 30", "Pedestrianized since: 1990"],
     },
+    image: "/poi-images/monaco-rue-basse-history-v2.webp",
   },
   {
     id: "monaco-bataille-de-1641-memorial-v2",
@@ -96,6 +98,7 @@ export const monacoHistoryV2: POI[] = [
       ro: ["An construcție: 1941", "Material: marmură și bronz", "Înălțime: 5 m", "Anul bătăliei: 1641", "Motiv: 300 de ani", "Locație: promenada portului"],
       en: ["Erected: 1941", "Material: marble and bronze", "Height: 5 m", "Battle year: 1641", "Occasion: 300th anniversary", "Location: port promenade"],
     },
+    image: "/poi-images/monaco-bataille-de-1641-memorial-v2.webp",
   },
   {
     id: "monaco-porte-de-france-history-v2",
@@ -128,6 +131,7 @@ export const monacoHistoryV2: POI[] = [
       ro: ["An construcție: secolul XVII", "Înălțime: 6 m", "Material: piatră", "Stemă: Grimaldi", "Renovat: secolul XIX", "Protejat: da"],
       en: ["Built: 17th century", "Height: 6 m", "Material: stone", "Coat of arms: Grimaldi", "Renovated: 19th century", "Listed monument: yes"],
     },
+    image: "/poi-images/monaco-porte-de-france-history-v2.webp",
   },
   {
     id: "monaco-remparts-historiques-v2",
@@ -160,6 +164,7 @@ export const monacoHistoryV2: POI[] = [
       ro: ["Perioadă construcție: sec. XIII-XVII", "Înălțime: până la 10 m", "Material: calcar", "Constructor: genovezi", "Turnuri: 5", "Protejate din: 1921"],
       en: ["Construction period: 13th-17th century", "Height: up to 10 m", "Material: limestone", "Builders: Genoese", "Towers: 5", "Listed since: 1921"],
     },
+    image: "/poi-images/monaco-remparts-historiques-v2.webp",
   },
   {
     id: "monaco-place-saint-nicolas-history-v2",
@@ -192,6 +197,7 @@ export const monacoHistoryV2: POI[] = [
       ro: ["Biserica construită: secolul XIII", "Renovare: secolul XIX", "Suprafața pieței: 500 m²", "Zile de piață: miercuri și sâmbătă", "Vedere la golf: da", "Stație autobuz: Saint-Nicolas"],
       en: ["Church built: 13th century", "Renovation: 19th century", "Square area: 500 m²", "Market days: Wednesday and Saturday", "Bay view: yes", "Bus stop: Saint-Nicolas"],
     },
+    image: "/poi-images/monaco-place-saint-nicolas-history-v2.webp",
   },
   {
     id: "monaco-maison-du-gouverneur-v2",
@@ -224,6 +230,7 @@ export const monacoHistoryV2: POI[] = [
       ro: ["An construcție: secolul XVI", "Stil: renascentist", "Curte interioară: da", "Muzeu din: 1950", "Număr camere: 15", "Picturi pe tavan: sec. XVII"],
       en: ["Built: 16th century", "Style: Renaissance", "Courtyard: yes", "Museum since: 1950", "Number of rooms: 15", "Ceiling paintings: 17th century"],
     },
+    image: "/poi-images/monaco-maison-du-gouverneur-v2.webp",
   },
   {
     id: "monaco-rue-mille-v2",
@@ -256,6 +263,7 @@ export const monacoHistoryV2: POI[] = [
       ro: ["Lungime: 500 m", "Lățime: 12 m", "Numit după: contele Félix Gastaldi", "Ambasade: 5", "Construită: secolul XIX", "Număr magazine: 80"],
       en: ["Length: 500 m", "Width: 12 m", "Named after: Count Félix Gastaldi", "Number of embassies: 5", "Built: 19th century", "Number of shops: 80"],
     },
+    image: "/poi-images/monaco-rue-mille-v2.webp",
   },
   {
     id: "monaco-place-du-palais-viewpoint-v2",
@@ -288,6 +296,7 @@ export const monacoHistoryV2: POI[] = [
       ro: ["Amenajată: secolul XIII", "Suprafață: 2.000 m²", "Altitudine: 60 m", "Schimbarea gărzii: zilnic la 11:55", "Concerte anuale: 20", "Vedere: port și mare"],
       en: ["Laid out: 13th century", "Area: 2,000 m²", "Elevation: 60 m", "Changing of the guard: daily at 11:55", "Annual concerts: 20", "View: port and sea"],
     },
+    image: "/poi-images/monaco-place-du-palais-viewpoint-v2.webp",
   },
   {
     id: "monaco-ancienne-prison-v2",
@@ -320,6 +329,7 @@ export const monacoHistoryV2: POI[] = [
       ro: ["An construcție: secolul XVIII", "Închisă: 1950", "Număr celule: 6", "Material: piatră", "Centru cultural din: 1960", "Tururi ghidate: da"],
       en: ["Built: 18th century", "Closed: 1950", "Number of cells: 6", "Material: stone", "Cultural center since: 1960", "Guided tours: yes"],
     },
+    image: "/poi-images/monaco-ancienne-prison-v2.webp",
   },
   {
     id: "monaco-place-de-la-visitation-v2",
@@ -352,6 +362,7 @@ export const monacoHistoryV2: POI[] = [
       ro: ["Biserică construită: sec. XVII", "Stil: baroc", "Fântână: sec. XIX", "Grădină: 200 m²", "Orgă: sec. XVIII", "Lucrări de artă: 10"],
       en: ["Church built: 17th century", "Style: Baroque", "Fountain: 19th century", "Garden area: 200 m²", "Organ: 18th century", "Artworks: 10"],
     },
+    image: "/poi-images/monaco-place-de-la-visitation-v2.webp",
   },
   {
     id: "monaco-rue-du-campanile-v2",
@@ -384,6 +395,7 @@ export const monacoHistoryV2: POI[] = [
       ro: ["Lățime: 4 m", "Lungime: 100 m", "Pietonală: da", "Culori: pastel", "Magazine: 10", "Denumită după: campanilul catedralei"],
       en: ["Width: 4 m", "Length: 100 m", "Pedestrianized: yes", "Building colors: pastel", "Number of shops: 10", "Named after: cathedral campanile"],
     },
+    image: "/poi-images/monaco-rue-du-campanile-v2.webp",
   },
   {
     id: "monaco-place-de-la-mairie-fountain-v2",
@@ -416,6 +428,7 @@ export const monacoHistoryV2: POI[] = [
       ro: ["An construcție: 1880", "Material: marmură și bronz", "Restaurare: 2005", "Duze: 6", "Înălțime: 3 m", "Simbol: sirene și delfini"],
       en: ["Built: 1880", "Material: marble and bronze", "Restored: 2005", "Jets: 6", "Height: 3 m", "Symbol: mermaids and dolphins"],
     },
+    image: "/poi-images/monaco-place-de-la-mairie-fountain-v2.webp",
   },
   {
     id: "monaco-rue-de-la-poste-v2",
@@ -448,6 +461,7 @@ export const monacoHistoryV2: POI[] = [
       ro: ["Lungime: 200 m", "Poșta construită: 1910", "Stil: Belle Époque", "Protejat: da", "Magazine: 25", "Piețe: săptămânale"],
       en: ["Length: 200 m", "Post office built: 1910", "Style: Belle Époque", "Listed: yes", "Number of shops: 25", "Markets: weekly"],
     },
+    image: "/poi-images/monaco-rue-de-la-poste-v2.webp",
   },
   {
     id: "monaco-place-de-la-sainte-devote-history-v2",
@@ -480,6 +494,7 @@ export const monacoHistoryV2: POI[] = [
       ro: ["Piața este menționată pentru prima dată în secolul al XI-lea.", "Procesiunea anuală din 27 ianuarie datează din 1070.", "Biserica Sainte-Dévote a fost reconstruită în 1871.", "Piața măsoară aproximativ 30 pe 20 de metri.", "Un altar de piatră din secolul al XII-lea este păstrat.", "Arderea bărcii a devenit ceremonie oficială în 1924."],
       en: ["The square was first documented in the 11th century.", "Annual procession on January 27 has been held since 1070.", "Sainte-Dévote Church was rebuilt in 1871.", "The square measures approximately 30 by 20 meters.", "A 12th-century stone altar is preserved.", "Boat burning became an official ceremony in 1924."],
     },
+    image: "/poi-images/monaco-place-de-la-sainte-devote-history-v2.webp",
   },
   {
     id: "monaco-remparts-nord-v2",
@@ -512,6 +527,7 @@ export const monacoHistoryV2: POI[] = [
       ro: ["Construit în 1215 de genovezi.", "Lungimea inițială de aproximativ 500 de metri.", "Turnul Notre-Dame are 15 metri înălțime.", "Zidurile au fost întărite în 1529 sub Augustin Grimaldi.", "Include o platformă de tunuri din secolul al XVII-lea.", "Parțial demolat în secolul al XIX-lea pentru construcția drumurilor."],
       en: ["Built in 1215 by the Genoese.", "Original length approximately 500 meters.", "Tour de la Notre-Dame is 15 meters tall.", "Walls reinforced in 1529 under Augustin Grimaldi.", "Contains a 17th-century cannon platform.", "Partially demolished in the 19th century for road construction."],
     },
+    image: "/poi-images/monaco-remparts-nord-v2.webp",
   },
   {
     id: "monaco-vieille-maison-v2",
@@ -544,6 +560,7 @@ export const monacoHistoryV2: POI[] = [
       ro: ["Construită în jurul anului 1650.", "Înălțime: 12 metri.", "Lățimea fațadei: 6 metri.", "Conține grinzi originale de lemn din secolul al XVII-lea.", "Renovată în 1885 și 1972.", "Are un subsol cu o cisternă din secolul al XVIII-lea."],
       en: ["Built around 1650.", "Height: 12 meters.", "Facade width: 6 meters.", "Contains original 17th-century wooden beams.", "Renovated in 1885 and 1972.", "Has a basement with 18th-century cistern."],
     },
+    image: "/poi-images/monaco-vieille-maison-v2.webp",
   },
   {
     id: "monaco-rue-de-la-visitation-v2",
@@ -576,6 +593,7 @@ export const monacoHistoryV2: POI[] = [
       ro: ["Lungimea străzii: 180 de metri.", "Mănăstirea a fost construită în 1630.", "Lățime: 4 metri.", "Pavajul datează din secolul al XVIII-lea.", "Cea mai înaltă clădire: 14 metri.", "Folosirea ca stradă de piață documentată din 1750."],
       en: ["Street length: 180 meters.", "Monastery built in 1630.", "Width: 4 meters.", "Cobblestone paving dates from the 18th century.", "Tallest building: 14 meters.", "Use as market street documented from 1750."],
     },
+    image: "/poi-images/monaco-rue-de-la-visitation-v2.webp",
   },
   {
     id: "monaco-place-de-la-mairie-pavilion-v2",
@@ -608,6 +626,7 @@ export const monacoHistoryV2: POI[] = [
       ro: ["Construit în 1885.", "Înălțime: 8 metri.", "Patru coloane ionice.", "Restaurat în 2000.", "A servit ca birou turistic între 1920 și 1980.", "Suprafață: 25 de metri pătrați."],
       en: ["Built in 1885.", "Height: 8 meters.", "Four Ionic columns.", "Restored in 2000.", "Served as tourist office from 1920 to 1980.", "Floor area: 25 square meters."],
     },
+    image: "/poi-images/monaco-place-de-la-mairie-pavilion-v2.webp",
   },
   {
     id: "monaco-remparts-sud-v2",
@@ -640,6 +659,7 @@ export const monacoHistoryV2: POI[] = [
       ro: ["Construit în 1215.", "Lungime: aproximativ 400 de metri.", "Înălțime: până la 10 metri.", "Turnul de Veghe are 18 metri înălțime.", "Baterie de tunuri din secolul al XVI-lea: 6 tunuri.", "Podul mobil a fost îndepărtat în secolul al XIX-lea."],
       en: ["Built in 1215.", "Length: approximately 400 meters.", "Height: up to 10 meters.", "Watchtower is 18 meters high.", "16th-century cannon battery: 6 cannons.", "Drawbridge removed in the 19th century."],
     },
+    image: "/poi-images/monaco-remparts-sud-v2.webp",
   },
   {
     id: "monaco-place-du-palais-stone-v2",
@@ -672,6 +692,7 @@ export const monacoHistoryV2: POI[] = [
       ro: ["Pavaj așezat în jurul anului 1750.", "Suprafață: 2.500 de metri pătrați.", "Grosimea pietrei: 10 centimetri.", "Carieră: La Couronne, Provence.", "Urme de ghiulele: 5 impacturi păstrate.", "Reînnoire în 1882."],
       en: ["Paving laid around 1750.", "Area: 2,500 square meters.", "Stone thickness: 10 centimeters.", "Quarry: La Couronne, Provence.", "Cannonball marks: 5 impacts preserved.", "Renewal in 1882."],
     },
+    image: "/poi-images/monaco-place-du-palais-stone-v2.webp",
   },
   {
     id: "monaco-rue-basse-facade-v2",
@@ -704,6 +725,7 @@ export const monacoHistoryV2: POI[] = [
       ro: ["Construită în 1652.", "Înălțime: 12 metri.", "Lățime: 8 metri.", "Restaurată în 1985.", "Ușă sculptată din secolul al XVII-lea.", "Brutăria a funcționat din 1700 până în 1920."],
       en: ["Built in 1652.", "Height: 12 meters.", "Width: 8 meters.", "Restored in 1985.", "Door carved in the 17th century.", "Bakery operated from 1700 to 1920."],
     },
+    image: "/poi-images/monaco-rue-basse-facade-v2.webp",
   },
   {
     id: "monaco-porte-de-france-relic-v2",
@@ -736,6 +758,7 @@ export const monacoHistoryV2: POI[] = [
       ro: ["Construit în 1215.", "Înălțime: 4 metri.", "Lățime: 3 metri.", "Material: gresie roz din regiune.", "Renovat în 1560.", "Redescoperit în 1920."],
       en: ["Built in 1215.", "Height: 4 meters.", "Width: 3 meters.", "Material: pink sandstone from the region.", "Renovated in 1560.", "Rediscovered in 1920."],
     },
+    image: "/poi-images/monaco-porte-de-france-relic-v2.webp",
   },
   {
     id: "monaco-place-saint-nicolas-stone-v2",
@@ -768,5 +791,6 @@ export const monacoHistoryV2: POI[] = [
       ro: ["Construită în jurul anului 1550.", "Prima mențiune în 1589.", "Grosimea pereților: 70 de centimetri.", "Suprînălțare în 1750.", "Ancadrament de piatră cu anul 1589.", "Suprafață: 150 de metri pătrați."],
       en: ["Built around 1550.", "First mentioned in 1589.", "Wall thickness: 70 centimeters.", "Floor added in 1750.", "Stone lintel with date 1589.", "Area: 150 square meters."],
     },
+    image: "/poi-images/monaco-place-saint-nicolas-stone-v2.webp",
   }
 ];

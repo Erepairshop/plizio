@@ -31,6 +31,7 @@ export const grenadaCitiesV2: POI[] = [
       ro: ["Orașul a fost fondat în 1705 de francezi.", "Populația este de aproximativ 37.000 de locuitori.", "Portul este situat într-un crater vulcanic.", "Fort George a fost construit în 1705.", "Orașul a fost scena unei revoluții în 1974.", "Aeroportul Maurice Bishop se află la 8 kilometri distanță."],
       en: ["The city was founded in 1705 by the French.", "The population is about 37,000.", "The harbor lies in a volcanic crater.", "Fort George was built in 1705.", "The city was the scene of a revolution in 1974.", "Maurice Bishop International Airport is 8 km away."],
     },
+    image: "/poi-images/grenada-st-georges-cities-v2.webp",
   },
   {
     id: "grenada-grenville-cities-v2",
@@ -62,6 +63,7 @@ export const grenadaCitiesV2: POI[] = [
       ro: ["Orașul a fost fondat în secolul al XVIII-lea.", "Populația este de aproximativ 12.000 de locuitori.", "Portul are o adâncime de 6 metri.", "Uraganul Ivan din 2004 a distrus 90% din clădiri.", "Orașul se află la 10 metri deasupra nivelului mării.", "Distanța până la St. George's este de 30 de kilometri."],
       en: ["The city was founded in the 18th century.", "The population is about 12,000.", "The harbor has a depth of 6 meters.", "Hurricane Ivan in 2004 destroyed 90% of buildings.", "The city lies at 10 meters above sea level.", "Distance to St. George's is 30 km."],
     },
+    image: "/poi-images/grenada-grenville-cities-v2.webp",
   },
   {
     id: "grenada-gouyave-cities-v2",
@@ -93,6 +95,7 @@ export const grenadaCitiesV2: POI[] = [
       ro: ["Orașul a fost fondat în secolul al XVIII-lea.", "Populația este de aproximativ 5.000 de locuitori.", "Piața de pește are loc în fiecare vineri.", "Biserica St. John a fost construită în 1850.", "Altitudinea este de 5 metri deasupra nivelului mării.", "Distanța până la St. George's este de 20 de kilometri."],
       en: ["The town was founded in the 18th century.", "The population is about 5,000.", "The fish market is held every Friday.", "St. John's Church was built in 1850.", "Elevation is 5 meters above sea level.", "Distance to St. George's is 20 km."],
     },
+    image: "/poi-images/grenada-gouyave-cities-v2.webp",
   },
   {
     id: "grenada-sauteurs-cities-v2",
@@ -124,6 +127,7 @@ export const grenadaCitiesV2: POI[] = [
       ro: ["Saltul Caraibilor a avut loc în 1650.", "Stâncile au o înălțime de 40 de metri.", "Populația este de aproximativ 4.000 de locuitori.", "Farul din Sauteurs a fost construit în 1903.", "Localitatea se află la 10 metri deasupra nivelului mării.", "Distanța până la St. George's este de 35 de kilometri."],
       en: ["The Carib's Leap occurred in 1650.", "The cliffs are 40 meters high.", "The population is about 4,000.", "Sauteurs lighthouse was built in 1903.", "The town lies at 10 meters above sea level.", "Distance to St. George's is 35 km."],
     },
+    image: "/poi-images/grenada-sauteurs-cities-v2.webp",
   },
   {
     id: "grenada-hillsborough-cities-v2",
@@ -155,6 +159,7 @@ export const grenadaCitiesV2: POI[] = [
       ro: ["Cel mai mare oraș de pe insula Carriacou", "Terminal principal de feribot pentru rutele spre St. George's", "Sediul administrației pentru Carriacou și Petite Martinique", "Golful Hillsborough oferă un port natural protejat", "Muzeul Carriacou este situat într-o clădire istorică", "Orașul este situat pe coasta de vest a insulei"],
       en: ["Largest town on the island of Carriacou", "Main ferry terminal for connections to St. George's", "Seat of administration for Carriacou and Petite Martinique", "Hillsborough Bay provides a protected natural harbor", "The Carriacou Museum is located in a historic building", "Situated directly on the western coast of the island"],
     },
+    image: "/poi-images/grenada-hillsborough-cities-v2.webp",
   },
   {
     id: "grenada-saint-davids-cities-v2",
@@ -186,6 +191,7 @@ export const grenadaCitiesV2: POI[] = [
       ro: ["Singura parohie din Grenada fără un oraș cu același nume", "Supranumită „Parohia Virgină” datorită naturii intacte", "Găzduiește distileria Westerhall Rum Estate", "Satul Megrin a fost centrul istoric al regiunii", "Cunoscută pentru cultivarea mirodeniilor, în special nucșoara", "Coasta oferă numeroase golfuri izolate"],
       en: ["Only parish in Grenada without a capital of the same name", "Nicknamed the 'Virgin Parish' for its unspoiled nature", "Home to the Westerhall Rum Estate", "The village of Megrin was the historic center", "Famous for spice cultivation, particularly nutmeg", "The coastline features numerous secluded bays"],
     },
+    image: "/poi-images/grenada-saint-davids-cities-v2.webp",
   },
   {
     id: "grenada-grand-anse-cities-v2",
@@ -217,6 +223,7 @@ export const grenadaCitiesV2: POI[] = [
       ro: ["Contribuția la PIB-ul Grenadei: 2%", "Număr de angajați în comerț: 300", "Venituri din taxe de parcare: 1 milion USD", "Costul mediu al unei nopți de cazare: 150 USD", "Număr de magazine: 40", "Investiții anuale în infrastructură: 5 milioane USD"],
       en: ["Length: 2.2 kilometers", "Width: 30 meters", "Sand composition: 70% coral, 30% shell fragments", "Water clarity: visibility up to 20 meters", "Wave height average: 0.5 meters", "Number of sun loungers available: 800"],
     },
+    image: "/poi-images/grenada-grand-anse-cities-v2.webp",
   },
   {
     id: "grenada-marquis-cities-v2",
@@ -248,6 +255,7 @@ export const grenadaCitiesV2: POI[] = [
       ro: ["Populație: 500 locuitori", "Distanța față de St. George's: 8 km", "Lungimea râului Marquis: 15 km", "Precipitații anuale: 2000 mm", "Număr de ferme: 30", "Altitudine: 50 m"],
       en: ["Population: 500", "Distance from St. George's: 8 km", "Marquis River length: 15 km", "Annual rainfall: 2,000 mm", "Number of farms: 30", "Elevation: 50 m"],
     },
+    image: "/poi-images/grenada-marquis-cities-v2.webp",
   },
   {
     id: "grenada-calivigny-cities-v2",
@@ -279,6 +287,7 @@ export const grenadaCitiesV2: POI[] = [
       ro: ["Populație: 1.000 locuitori", "Distanță față de St. George's: 5 km", "Lungimea litoralului: 2 km", "Altitudine: 20 m", "Număr de ferme: 20", "Temperatura medie: 28 °C"],
       en: ["Population: 1,000", "Distance from St. George's: 5 km", "Coastline length: 2 km", "Elevation: 20 m", "Number of farms: 20", "Average temperature: 28 °C"],
     },
+    image: "/poi-images/grenada-calivigny-cities-v2.webp",
   },
   {
     id: "grenada-lance-aux-epines-cities-v2",
@@ -310,6 +319,7 @@ export const grenadaCitiesV2: POI[] = [
       ro: ["Populație: 800 locuitori", "Număr de vile: 150", "Lungimea terenului de golf: 6.000 m", "Locuri de acostare: 50", "Prețul mediu al imobilelor: 2 milioane USD", "Distanța față de aeroport: 3 km"],
       en: ["Population: 800", "Number of villas: 150", "Golf course length: 6,000 meters", "Marina berths: 50", "Average property price: $2 million", "Distance to airport: 3 km"],
     },
+    image: "/poi-images/grenada-lance-aux-epines-cities-v2.webp",
   },
   {
     id: "grenada-crochu-cities-v2",
@@ -341,6 +351,7 @@ export const grenadaCitiesV2: POI[] = [
       ro: ["Populație: 300 locuitori", "Număr de bărci de pescuit: 20", "Captură anuală de pește: 50 tone", "Lungimea plajei: 500 m", "Altitudine: 10 m", "Distanță până la cel mai apropiat oraș: 15 km"],
       en: ["Population: 300", "Fishing boats: 20", "Annual fish catch: 50 tons", "Beach length: 500 m", "Elevation: 10 m", "Distance to nearest town: 15 km"],
     },
+    image: "/poi-images/grenada-crochu-cities-v2.webp",
   },
   {
     id: "grenada-tivoli-cities-v2",
@@ -372,6 +383,7 @@ export const grenadaCitiesV2: POI[] = [
       ro: ["Populație: 600 locuitori", "Distanța față de aeroport: 2 km", "Altitudine: 20 m", "Număr de plantații: 10", "Producție anuală de nucșoară: 5 tone", "Lungimea plajei: 300 m"],
       en: ["Population: 600", "Distance to airport: 2 km", "Elevation: 20 m", "Number of plantations: 10", "Annual nutmeg production: 5 tons", "Beach length: 300 m"],
     },
+    image: "/poi-images/grenada-tivoli-cities-v2.webp",
   },
   {
     id: "grenada-harvey-vale-cities-v2",
@@ -403,5 +415,6 @@ export const grenadaCitiesV2: POI[] = [
       ro: ["Populație: 400 locuitori", "Altitudine: 200 m", "Precipitații anuale: 2500 mm", "Număr de ferme: 25", "Distanță până la Grand Etang: 5 km", "Temperatura medie: 24 °C"],
       en: ["Population: 400", "Elevation: 200 m", "Annual rainfall: 2,500 mm", "Number of farms: 25", "Distance to Grand Etang: 5 km", "Average temperature: 24 °C"],
     },
+    image: "/poi-images/grenada-harvey-vale-cities-v2.webp",
   }
 ];

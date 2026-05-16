@@ -31,6 +31,7 @@ export const nauruHistoryV2: POI[] = [
       ro: ["Cel mai înalt punct (65 metri)", "Două tunuri japoneze păstrate", "Staționate între 1942-1945", "Parte a bateriei antiaeriene", "Rămășițele unui buncăr de comunicații", "Situat în districtul Aiwo"],
       en: ["Highest point at 65 meters", "Two Japanese guns preserved", "Stationed between 1942-1945", "Part of an anti-aircraft battery", "Remnants of a communications bunker", "Located in Aiwo District"],
     },
+    image: "/poi-images/nauru-command-ridge-guns-history-v2.webp",
   },
   {
     id: "nauru-old-cantilever-history-v2",
@@ -62,6 +63,7 @@ export const nauruHistoryV2: POI[] = [
       ro: ["Construit la sfârșitul anilor 1920", "Bombardat de nave germane în 1940", "Situat în districtul Aiwo", "Înlocuit de instalații moderne", "Monument industrial important", "Simbol al erei BPC"],
       en: ["Built in the late 1920s", "Shelled by German ships in 1940", "Located in Aiwo District", "Replaced by modern facilities", "Important industrial monument", "Former symbol of the BPC era"],
     },
+    image: "/poi-images/nauru-old-cantilever-history-v2.webp",
   },
   {
     id: "nauru-pow-memorial-history-v2",
@@ -93,6 +95,7 @@ export const nauruHistoryV2: POI[] = [
       ro: ["Amintește de execuțiile din 1943", "Comemorează oficialii australieni", "Onoare rezistenței nauruane", "Loc pentru comemorări anuale", "Situat în districtul Aiwo", "Monument împotriva crimelor de război"],
       en: ["Commemorates 1943 executions", "Honors Australian officials", "Tribute to Nauruan resistors", "Site for annual memorial services", "Located in Aiwo District", "Memorial against war crimes"],
     },
+    image: "/poi-images/nauru-pow-memorial-history-v2.webp",
   },
   {
     id: "nauru-naoero-museum-history-v2",
@@ -124,6 +127,7 @@ export const nauruHistoryV2: POI[] = [
       ro: ["Păstrează artefacte nauruane", "Documentează istoria minieră", "Colecție de fotografii istorice", "Focus pe meșteșugurile locale", "Situat în districtul Aiwo", "Centru pentru educație culturală"],
       en: ["Preserves Nauruan artifacts", "Documents the mining history", "Collection of historical photos", "Focus on local craftsmanship", "Located in Aiwo District", "Hub for cultural education"],
     },
+    image: "/poi-images/nauru-naoero-museum-history-v2.webp",
   },
   {
     id: "nauru-anabar-caves-history-v2",
@@ -155,6 +159,7 @@ export const nauruHistoryV2: POI[] = [
       ro: ["Peșteri naturale de calcar", "Conțin lagune cu apă salmastră", "Situate în districtul Anabar", "Fostă rezervă strategică de apă", "Parte a folclorului local", "Unice geologic în Nauru"],
       en: ["Natural limestone cave system", "Contain brackish water lagoons", "Located in Anabar District", "Former strategic water reserve", "Part of local folklore", "Geologically unique on Nauru"],
     },
+    image: "/poi-images/nauru-anabar-caves-history-v2.webp",
   },
   {
     id: "nauru-buada-settlement-site-history-v2",
@@ -186,6 +191,7 @@ export const nauruHistoryV2: POI[] = [
       ro: ["Centrul districtului Buada", "Cea mai fertilă zonă a insulei", "Cresterea tradițională a peștilor", "Singura lagună interioară", "Cruțată de minerit direct", "Nucleu istoric de așezare"],
       en: ["Center of the Buada District", "Most fertile area on the island", "Traditional milkfish farming", "Only inland lagoon in Nauru", "Spared from direct mining", "Historic settlement core"],
     },
+    image: "/poi-images/nauru-buada-settlement-site-history-v2.webp",
   },
   {
     id: "nauru-phosphate-discovery-site-history-v2",
@@ -217,6 +223,7 @@ export const nauruHistoryV2: POI[] = [
       ro: ["Descoperit de Albert Ellis în 1900", "Începutul boom-ului minier", "Piatră memorială la fața locului", "Punct de cotitură în istorie", "Situat în districtul Aiwo", "A dus la înființarea BPC"],
       en: ["Discovered by Albert Ellis in 1900", "Start of the mining boom", "Memorial stone at the site", "Turning point in island history", "Located in Aiwo District", "Led to the formation of BPC"],
     },
+    image: "/poi-images/nauru-phosphate-discovery-site-history-v2.webp",
   },
   {
     id: "nauru-state-house-history-v2",
@@ -248,6 +255,7 @@ export const nauruHistoryV2: POI[] = [
       ro: ["Distrusă prin incendiere în 2001", "Situată în districtul Meneng", "Fosta reședință oficială prezidențială", "Simbol al independenței statului Nauru", "Locul unor proteste politice majore", "Ruinele rămân ca sit istoric"],
       en: ["Destroyed by arson in 2001", "Located in the Meneng District", "Former official presidential residence", "Symbol of Nauruan independence", "Site of major political protests", "Ruins remain as a historical site"],
     },
+    image: "/poi-images/nauru-state-house-history-v2.webp",
   },
   {
     id: "nauru-japanese-hospital-ruins-history-v2",
@@ -279,6 +287,7 @@ export const nauruHistoryV2: POI[] = [
       ro: ["Construit în timpul celui de-al Doilea Război Mondial", "Edificat de forțele imperiale japoneze", "Situat în interiorul insulei", "Folosit ca facilitate medicală militară", "Rămășițe de beton din timpul ocupației", "Acoperit de vegetație tropicală"],
       en: ["Built during World War II", "Constructed by Imperial Japanese forces", "Located in the island's interior", "Used as a military medical facility", "Concrete remains of the occupation", "Overgrown by tropical vegetation"],
     },
+    image: "/poi-images/nauru-japanese-hospital-ruins-history-v2.webp",
   },
   {
     id: "nauru-bpc-office-history-v2",
@@ -310,6 +319,7 @@ export const nauruHistoryV2: POI[] = [
       ro: ["Înființat în 1920 de către BPC", "Situat în districtul Aiwo", "A gestionat operațiunile miniere de fosfat", "Exemplu de arhitectură în stil colonial", "Centru administrativ timp de decenii", "Simbol al istoriei industriale din Nauru"],
       en: ["Established in 1920 by the BPC", "Located in the Aiwo District", "Managed phosphate mining operations", "Example of colonial-style architecture", "Administrative center for decades", "Symbol of Nauru's industrial history"],
     },
+    image: "/poi-images/nauru-bpc-office-history-v2.webp",
   },
   {
     id: "nauru-anibare-landing-site-history-v2",
@@ -341,6 +351,7 @@ export const nauruHistoryV2: POI[] = [
       ro: ["Situat pe coasta de est", "Amplasat în Golful Anibare", "Punct tradițional de acces pentru pescari", "Cel mai adânc punct de acces din insulă", "Modernizat ca port în anul 2000", "Critic pentru transportul maritim local"],
       en: ["Located on the eastern coast", "Situated within Anibare Bay", "Traditional fishing access point", "Deepest water access on the island", "Upgraded to a harbor in 2000", "Critical for local maritime transport"],
     },
+    image: "/poi-images/nauru-anibare-landing-site-history-v2.webp",
   },
   {
     id: "nauru-aiwo-church-history-v2",
@@ -372,6 +383,7 @@ export const nauruHistoryV2: POI[] = [
       ro: ["Înființată la sfârșitul secolului XIX", "Situată în districtul Aiwo", "Fondată de misionari protestanți", "Distrusă în timpul celui de-al Doilea Război Mondial", "Reconstruită după încheierea conflictului", "Una dintre cele mai vechi biserici din Nauru"],
       en: ["Established in the late 19th century", "Located in the Aiwo District", "Founded by Protestant missionaries", "Destroyed during World War II", "Rebuilt after the conflict", "One of the oldest churches on Nauru"],
     },
+    image: "/poi-images/nauru-aiwo-church-history-v2.webp",
   },
   {
     id: "nauru-civil-administration-ruins-history-v2",
@@ -403,6 +415,7 @@ export const nauruHistoryV2: POI[] = [
       ro: ["Datează din epoca colonială", "Folosit în primii ani de independență", "Centru administrativ guvernamental", "Deteriorat în timp de crizele economice", "Situat în apropierea coastei", "Dovadă a vechilor structuri de guvernare"],
       en: ["Dating from the colonial era", "Used during early independence", "Administrative hub for government", "Damaged over time by economic shifts", "Located near the coast", "Evidence of past governance structures"],
     },
+    image: "/poi-images/nauru-civil-administration-ruins-history-v2.webp",
   },
   {
     id: "nauru-centenary-complex-history-v2",
@@ -434,5 +447,6 @@ export const nauruHistoryV2: POI[] = [
       ro: ["Construit în 1988 pentru centenar", "Situat în districtul Denigomodu", "Include un stadion acoperit mare", "Gazdă pentru evenimente sportive naționale", "Loc de desfășurare a celebrărilor oficiale", "Reper cultural pentru comunitate"],
       en: ["Built in 1988 for the centenary", "Located in the Denigomodu District", "Includes a large indoor stadium", "Host for national sports events", "Venue for official celebrations", "Cultural landmark for the community"],
     },
+    image: "/poi-images/nauru-centenary-complex-history-v2.webp",
   }
 ];

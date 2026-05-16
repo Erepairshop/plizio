@@ -32,7 +32,8 @@ export const mkPoisPart2: POI[] = [
       hu: ["Híres a kormoránokkal való halászatról.", "Vize gyógyhatású.", "Fontos helyszín volt a szaloniki fronton az első világháborúban."],
       ro: ["Cunoscut pentru pescuitul cu cormorani.", "Apa are proprietăți curative.", "Un loc important pe frontul din Salonic în Primul Război Mondial."],
       en: ["Known for fishing with cormorants.", "The water has medicinal properties.", "Significant site on the Salonika Front in WWI."]
-    }
+    },
+    image: "/poi-images/MK-011-dojran-lake.webp",
   },
   {
     id: "MK-011-st-elijah-church",
@@ -63,7 +64,8 @@ export const mkPoisPart2: POI[] = [
       hu: ["Súlyosan megsérült az első világháború alatt.", "Kilátást nyújt a tóra.", "A város pusztulásának szimbóluma."],
       ro: ["A fost grav avariată în timpul Primului Război Mondial.", "Oferă o vedere asupra lacului.", "Un simbol al distrugerii orașului."],
       en: ["Heavily damaged during World War I.", "Offers a view of the lake.", "A symbol of the town's destruction."]
-    }
+    },
+    image: "/poi-images/MK-011-st-elijah-church.webp",
   },
   // MK-012: Valandovo
   {
@@ -95,7 +97,8 @@ export const mkPoisPart2: POI[] = [
       hu: ["Fontos város volt az antik Paeoniában.", "Számos műtárgyat, például érméket és kerámiákat találtak itt.", "A vaskortól a késő antik korig tartó folytonosságot mutat."],
       ro: ["A fost un oraș important în antica Paeonia.", "Au fost găsite numeroase artefacte, precum monede și ceramică.", "Prezintă o continuitate din epoca fierului până în antichitatea târzie."],
       en: ["An important city in ancient Paeonia.", "Numerous artifacts like coins and ceramics were found.", "Shows continuity from the Iron Age to Late Antiquity."]
-    }
+    },
+    image: "/poi-images/MK-012-isari-marvinci.webp",
   },
   {
     id: "MK-012-pluzana-waterfall",
@@ -126,7 +129,8 @@ export const mkPoisPart2: POI[] = [
       hu: ["Érintetlen természet veszi körül.", "A helyi túrázók kedvelt célpontja.", "Tavasszal különösen bővizű."],
       ro: ["Înconjurată de natură virgină.", "O destinație populară pentru drumeții locali.", "Deosebit de bogată în apă primăvara."],
       en: ["Surrounded by untouched nature.", "A favorite destination for local hikers.", "Particularly abundant in water during spring."]
-    }
+    },
+    image: "/poi-images/MK-012-pluzana-waterfall.webp",
   },
   // MK-013: Strumitsa
   {
@@ -158,7 +162,8 @@ export const mkPoisPart2: POI[] = [
       hu: ["Panorámás kilátást nyújt a Sztrumica-völgyre.", "Az ókortól a középkorig használták.", "A régió fontos védelmi létesítménye volt."],
       ro: ["Oferă o vedere panoramică asupra văii Strumica.", "Utilizată din antichitate până în evul mediu.", "O fortificație importantă în regiune."],
       en: ["Offers a panoramic view over the Strumica valley.", "Used from antiquity through the Middle Ages.", "Significant defensive structure in the region."]
-    }
+    },
+    image: "/poi-images/MK-013-carevi-kuli.webp",
   },
   {
     id: "MK-013-monastery-veljusa",
@@ -189,7 +194,8 @@ export const mkPoisPart2: POI[] = [
       hu: ["Eredeti freskóiról és mozaikpadlóiról ismert.", "A középkori építészet remekműve.", "Veljusa faluban található, Sztrumica közelében."],
       ro: ["Cunoscută pentru frescele sale originale și pardoselile din mozaic.", "O capodoperă a arhitecturii medievale.", "Situată în satul Veljusa, lângă Strumica."],
       en: ["Known for its original frescoes and mosaic floors.", "A masterpiece of medieval architecture.", "Located in the village of Veljusa near Strumica."]
-    }
+    },
+    image: "/poi-images/MK-013-monastery-veljusa.webp",
   },
   // MK-014: Bogdanci
   {
@@ -221,7 +227,8 @@ export const mkPoisPart2: POI[] = [
       hu: ["16 szélturbinából áll.", "Jelentősen hozzájárul az áramellátáshoz.", "A Bogdanci körüli dombokon található."],
       ro: ["Format din 16 turbine eoliene.", "Contribuie semnificativ la alimentarea cu energie electrică.", "Situat pe dealurile din jurul orașului Bogdanci."],
       en: ["Consists of 16 wind turbines.", "Contributes significantly to the electricity supply.", "Located on the hills surrounding Bogdanci."]
-    }
+    },
+    image: "/poi-images/MK-014-bogdanci-wind-park.webp",
   },
   {
     id: "MK-014-st-athanasius-church",
@@ -259,7 +266,8 @@ export const mkPoisPart2: POI[] = [
       hu: ["A város hitéletének központja.", "Ikonjairól ismert.", "Rendszeresen tartanak benne istentiszteleteket."],
       ro: ["Centrul vieții religioase din oraș.", "Cunoscută pentru icoanele sale.", "Utilizată regulat pentru servicii religioase."],
       en: ["Center of religious life in the town.", "Known for its icons.", "Regularly used for worship services."]
-    }
+    },
+    image: "/poi-images/MK-014-st-athanasius-church.webp",
   },
   // MK-015: Gevgelija
   {
@@ -291,7 +299,8 @@ export const mkPoisPart2: POI[] = [
       hu: ["Stratégiai fekvés a Vardar folyó mentén.", "A leletek a hellenisztikus korból származnak.", "Fontos a régió történelmének megértéséhez."],
       ro: ["Poziție strategică pe râul Vardar.", "Descoperirile datează din perioada elenistică.", "Important pentru înțelegerea istoriei regiunii."],
       en: ["Strategic location on the Vardar river.", "Finds date back to the Hellenistic period.", "Key to understanding the region's history."]
-    }
+    },
+    image: "/poi-images/MK-015-vardarski-rid.webp",
   },
   {
     id: "MK-015-smrdliva-voda",
@@ -322,7 +331,8 @@ export const mkPoisPart2: POI[] = [
       hu: ["A név 'büdös vizet' jelent a kénszag miatt.", "Pihenést kínál sűrű erdei környezetben.", "A vizet gyógyászati célokra használják."],
       ro: ["Numele înseamnă 'apă urât mirositoare' din cauza mirosului de sulf.", "Oferă relaxare într-un mediu forestier dens.", "Apa este folosită în scopuri terapeutice."],
       en: ["The name means 'stinking water' due to the sulfur smell.", "Offers relaxation in a dense forest environment.", "The water is used for healing purposes."]
-    }
+    },
+    image: "/poi-images/MK-015-smrdliva-voda.webp",
   },
   // MK-016: Kavadartsi
   {
@@ -354,7 +364,8 @@ export const mkPoisPart2: POI[] = [
       hu: ["Fontos madárvédelmi terület.", "A környező szőlőültetvények öntözésére használják.", "Népszerű a vízi sportok és a horgászat körében."],
       ro: ["O zonă importantă de protecție a păsărilor.", "Utilizat pentru irigarea podgoriilor din jur.", "Popular pentru sporturi nautice și pescuit."],
       en: ["An important bird sanctuary.", "Used for irrigating the surrounding vineyards.", "Popular for water sports and fishing."]
-    }
+    },
+    image: "/poi-images/MK-016-tikves-lake.webp",
   },
   {
     id: "MK-016-kavadarci-wine",
@@ -385,7 +396,8 @@ export const mkPoisPart2: POI[] = [
       hu: ["Világhírű borokat termel, mint például a Vranec.", "A macedón borvidék szíve.", "Kóstolókat és pincetúrákat kínál."],
       ro: ["Produce vinuri renumite la nivel mondial, precum Vranec.", "Inima regiunii viticole macedonene.", "Oferă degustări și tururi în cramă."],
       en: ["Produces world-famous wines like Vranec.", "Heart of the Macedonian wine region.", "Offers tastings and cellar tours."]
-    }
+    },
+    image: "/poi-images/MK-016-kavadarci-wine.webp",
   },
   // MK-017: Novaci
   {
@@ -417,7 +429,8 @@ export const mkPoisPart2: POI[] = [
       hu: ["Itt található egy kápolna Archibald Reiss szívével.", "A Nidzse-hegység része.", "Fontos történelmi emlékhely."],
       ro: ["Găzduiește o capelă care conține inima lui Archibald Reiss.", "Parte a munților Nidže.", "Un sit istoric de comemorare important."],
       en: ["Houses a chapel containing the heart of Archibald Reiss.", "Part of the Nidže mountain range.", "Significant historical memorial site."]
-    }
+    },
+    image: "/poi-images/MK-017-kajmakcalan.webp",
   },
   {
     id: "MK-017-suvodol-monastery",
@@ -448,7 +461,8 @@ export const mkPoisPart2: POI[] = [
       hu: ["Mária születésének szentelve.", "Szép vidéki táj veszi körül.", "A nyugalom és az ima helye."],
       ro: ["Dedicată Nașterii Maicii Domnului.", "Înconjurată de un peisaj rural frumos.", "Un loc de liniște și rugăciune."],
       en: ["Dedicated to the Nativity of the Mother of God.", "Surrounded by beautiful rural landscape.", "A place of peace and prayer."]
-    }
+    },
+    image: "/poi-images/MK-017-suvodol-monastery.webp",
   },
   // MK-018: Prilep
   {
@@ -480,7 +494,8 @@ export const mkPoisPart2: POI[] = [
       hu: ["Prilep legismertebb jelképe.", "Jellegzetes gránitsziklákon fekszik.", "Szerepel az UNESCO világörökségi javaslati listáján."],
       ro: ["Simbolul orașului Prilep.", "Situat pe stânci de granit distinctive.", "Parte a patrimoniului cultural de pe lista tentativă UNESCO."],
       en: ["The landmark of Prilep.", "Located on distinctive granite rocks.", "Part of the cultural heritage on the UNESCO tentative list."]
-    }
+    },
+    image: "/poi-images/MK-018-markos-towers.webp",
   },
   {
     id: "MK-018-monastery-treskavec",
@@ -511,7 +526,8 @@ export const mkPoisPart2: POI[] = [
       hu: ["A 12. században alapították.", "Kiváló akusztikájáról ismert.", "Több tűzvész után restaurálták."],
       ro: ["Fondată în secolul al XII-lea.", "Cunoscută pentru acustica sa excelentă.", "A fost restaurată după mai multe incendii."],
       en: ["Founded in the 12th century.", "Known for its excellent acoustics.", "Restored after several fires."]
-    }
+    },
+    image: "/poi-images/MK-018-monastery-treskavec.webp",
   },
   // MK-019: Bitola
   {
@@ -543,7 +559,8 @@ export const mkPoisPart2: POI[] = [
       hu: ["Híres a jól megőrzött mozaikjairól.", "Római színháznak ad otthont.", "Fontos állomás volt a Via Egnatia mentén."],
       ro: ["Faimos pentru mozaicurile sale bine conservate.", "Găzduiește un teatru roman.", "Stație importantă pe Via Egnatia."],
       en: ["Famous for its well-preserved mosaics.", "Houses a Roman theater.", "Important stop on the Via Egnatia."]
-    }
+    },
+    image: "/poi-images/MK-019-heraclea-lyncestis.webp",
   },
   {
     id: "MK-019-sirok-sokak",
@@ -574,7 +591,8 @@ export const mkPoisPart2: POI[] = [
       hu: ["A város társadalmi életének szíve.", "Neoklasszicista épületek szegélyezik.", "A 'konzulátusok utcájaként' is ismerik."],
       ro: ["Inima vieții sociale a orașului.", "Mărginită de clădiri neoclasice.", "Cunoscută sub numele de 'Strada Consulatelor'."],
       en: ["Heart of the city's social life.", "Lined with Neoclassical buildings.", "Known as the 'Street of the Consulates'."]
-    }
+    },
+    image: "/poi-images/MK-019-sirok-sokak.webp",
   },
   // MK-020: Lipkovo
   {
@@ -606,7 +624,8 @@ export const mkPoisPart2: POI[] = [
       hu: ["Vízellátást és öntözést szolgál.", "Gát megépítésével jött létre.", "Népszerű a természetbe vágyók körében."],
       ro: ["Servește pentru alimentarea cu apă și irigații.", "Creat prin construcția unui baraj.", "Popular pentru excursii în natură."],
       en: ["Serves for water supply and irrigation.", "Created by the construction of a dam.", "Popular for nature excursions."]
-    }
+    },
+    image: "/poi-images/MK-020-lipkovo-lake.webp",
   },
   {
     id: "MK-020-matejce-monastery",
@@ -637,7 +656,8 @@ export const mkPoisPart2: POI[] = [
       hu: ["Mária elszenderülésének szentelve.", "A 14. században alapították.", "Monumentális méreteiről ismert."],
       ro: ["Dedicată Adormirii Maicii Domnului.", "Fondată în secolul al XIV-lea.", "Cunoscută pentru dimensiunile sale monumentale."],
       en: ["Dedicated to the Dormition of the Mother of God.", "Founded in the 14th century.", "Known for its monumental size."]
-    }
+    },
+    image: "/poi-images/MK-020-matejce-monastery.webp",
   }
 ];
 

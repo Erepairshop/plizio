@@ -31,6 +31,7 @@ export const bangladeshEconomicV2: POI[] = [
       ro: ["Suprafață: 1,5 km²", "Adâncime: 8,5 m", "Număr de cheiuri: 10", "Anul deschiderii: 1954", "Capacitate de depozitare: 200.000 t", "Trafic anual: 5 milioane tone"],
       en: ["Opened: 1954", "Annual cargo: 5 million tons", "Berths: 8", "Water depth: 8.5 m", "Container handling: 200,000 TEU", "Warehouse capacity: 200,000 tons"],
     },
+    image: "/poi-images/bangladesh-mongla-port-economic-v2.webp",
   },
   {
     id: "bangladesh-payra-port-economic-v2",
@@ -62,6 +63,7 @@ export const bangladeshEconomicV2: POI[] = [
       ro: ["Suprafață: 2 km²", "Adâncime: 10 m", "Anul deschiderii: 2016", "Capacitate anuală: 3 milioane tone", "Număr de macarale: 4", "Lungimea cheiului: 600 m"],
       en: ["Construction started: 2013", "Operational: 2016", "Depth: 10 m", "Annual capacity: 3 million tons", "Quay length: 600 m", "Container capacity: 500,000 TEU"],
     },
+    image: "/poi-images/bangladesh-payra-port-economic-v2.webp",
   },
   {
     id: "bangladesh-pangaon-terminal-economic-v2",
@@ -93,6 +95,7 @@ export const bangladeshEconomicV2: POI[] = [
       ro: ["Suprafață: 10 ha", "Capacitate anuală: 100.000 TEU", "Adâncime: 4,5 m", "Număr de macarale: 2", "Anul deschiderii: 2016", "Distanța până la Dhaka: 20 km"],
       en: ["Opened: 2016", "Annual capacity: 100,000 TEU", "Area: 10 hectares", "Cranes: 2", "Water depth: 4.5 m", "Distance to Dhaka: 20 km"],
     },
+    image: "/poi-images/bangladesh-pangaon-terminal-economic-v2.webp",
   },
   {
     id: "bangladesh-adamjee-epz-economic-v2",
@@ -124,6 +127,7 @@ export const bangladeshEconomicV2: POI[] = [
       ro: ["Suprafață: 160 ha", "Anul înființării: 1993", "Număr de fabrici: 50", "Angajați: 50.000", "Valoarea exporturilor: 1 miliard USD", "Investiții totale: 500 milioane USD"],
       en: ["Established: 1993", "Area: 160 hectares", "Number of factories: 50", "Workforce: 50,000", "Annual export value: $1 billion", "Total investment: $500 million"],
     },
+    image: "/poi-images/bangladesh-adamjee-epz-economic-v2.webp",
   },
   {
     id: "bangladesh-shilpa-nagar-economic-v2",
@@ -155,6 +159,7 @@ export const bangladeshEconomicV2: POI[] = [
       ro: ["Suprafață: 33.000 ha", "Anul înființării: 2015", "Locuri de muncă planificate: 3 milioane", "Număr de parcele: 1.500", "Capacitate electrică: 2.000 MW", "Investiții: 10 miliarde USD"],
       en: ["Established: 2015", "Area: 33,000 hectares", "Planned employment: 3 million", "Number of plots: 1,500", "Power capacity: 2,000 MW", "Investment: $10 billion"],
     },
+    image: "/poi-images/bangladesh-shilpa-nagar-economic-v2.webp",
   },
   {
     id: "bangladesh-matarbari-port-economic-v2",
@@ -186,6 +191,7 @@ export const bangladeshEconomicV2: POI[] = [
       ro: ["Adâncime: 15 m", "Capacitate anuală: 5 milioane TEU", "Cost: 2 miliarde USD", "Anul finalizării: 2027", "Lungimea cheiului: 1,5 km", "Centrală electrică: 1.200 MW"],
       en: ["Construction start: 2021", "Expected completion: 2027", "Depth: 15 m", "Annual capacity: 5 million TEU", "Cost: $2 billion", "Power plant capacity: 1,200 MW"],
     },
+    image: "/poi-images/bangladesh-matarbari-port-economic-v2.webp",
   },
   {
     id: "bangladesh-rooppur-nuclear-economic-v2",
@@ -217,6 +223,7 @@ export const bangladeshEconomicV2: POI[] = [
       ro: ["Tip reactor: VVER-1200", "Capacitate: 2.400 MW", "Nr. reactoare: 2", "Anul începerii construcției: 2017", "Anul punerii în funcțiune: 2024", "Cost: 12 miliarde USD"],
       en: ["Construction started: 2017", "Reactor type: VVER-1200", "Capacity: 2,400 MW", "Number of reactors: 2", "Expected commissioning: 2024", "Project cost: $12 billion"],
     },
+    image: "/poi-images/bangladesh-rooppur-nuclear-economic-v2.webp",
   },
   {
     id: "bangladesh-barapukuria-coal-economic-v2",
@@ -248,6 +255,7 @@ export const bangladeshEconomicV2: POI[] = [
       ro: ["Anul deschiderii: 2005", "Producție anuală: 1 milion tone", "Rezerve: 300 milioane tone", "Adâncime: 400 m", "Angajați: 2.000", "Tip cărbune: bituminos"],
       en: ["Opened: 2005", "Annual production: 1 million tons", "Estimated reserves: 300 million tons", "Depth: 400 m", "Workforce: 2,000", "Coal type: bituminous"],
     },
+    image: "/poi-images/bangladesh-barapukuria-coal-economic-v2.webp",
   },
   {
     id: "bangladesh-madhyapara-mine-economic-v2",
@@ -279,6 +287,7 @@ export const bangladeshEconomicV2: POI[] = [
       ro: ["Mina produce anual aproximativ 1,5 milioane de tone de rocă.", "Rezervele estimate depășesc 60 de milioane de tone.", "Adâncimea de exploatare este între 100 și 300 de metri.", "Mina se întinde pe aproximativ 10 km².", "Operațiunile au început în 1999.", "Aproximativ 1.500 de muncitori sunt angajați în mină."],
       en: ["Annual production is about 1.5 million tons of hard rock.", "Estimated reserves exceed 60 million tons.", "Mining depth ranges from 100 to 300 meters.", "The mine spans approximately 10 square kilometers.", "Operations started in 1999.", "Approximately 1,500 workers are employed."],
     },
+    image: "/poi-images/bangladesh-madhyapara-mine-economic-v2.webp",
   },
   {
     id: "bangladesh-titas-gas-economic-v2",
@@ -310,6 +319,7 @@ export const bangladeshEconomicV2: POI[] = [
       ro: ["Descoperit în 1962, producția a început în 1968.", "Rezerve inițiale de peste 5 TCF.", "Suprafață de aproximativ 25 km².", "Gaze extrase de la 2.500-3.500 m adâncime.", "Asigură circa 20% din producția națională de gaze.", "Declin anual al producției: 5-10%."],
       en: ["Discovered in 1962, production began in 1968.", "Initial reserves over 5 trillion cubic feet (TCF).", "Covers approximately 25 square kilometers.", "Gas extracted from depths of 2,500-3,500 meters.", "Supplies about 20% of national gas production.", "Annual production decline of 5-10%."],
     },
+    image: "/poi-images/bangladesh-titas-gas-economic-v2.webp",
   },
   {
     id: "bangladesh-bibiyana-gas-economic-v2",
@@ -341,6 +351,7 @@ export const bangladeshEconomicV2: POI[] = [
       ro: ["Descoperit în 1998, producția a început în 2007.", "Rezerve inițiale de aproximativ 2,7 TCF.", "Suprafață de circa 15 km².", "Gaze extrase de la 2.200-3.500 m.", "Asigură circa 40% din producția națională.", "Producție zilnică de circa 1,2 miliarde de picioare cubice."],
       en: ["Discovered in 1998, production began in 2007.", "Initial reserves about 2.7 TCF.", "Spans approximately 15 square kilometers.", "Gas extracted from depths of 2,200-3,500 meters.", "Supplies around 40% of national gas production.", "Daily production about 1.2 billion cubic feet."],
     },
+    image: "/poi-images/bangladesh-bibiyana-gas-economic-v2.webp",
   },
   {
     id: "bangladesh-ashuganj-power-economic-v2",
@@ -372,6 +383,7 @@ export const bangladeshEconomicV2: POI[] = [
       ro: ["Intrat în funcțiune în 1978.", "Capacitate inițială: 120 MW.", "Capacitate instalată actuală: aproximativ 580 MW.", "Are unități cu abur și turbine cu gaz.", "Operat de Bangladesh Power Development Board.", "Combustibil principal: gaze naturale."],
       en: ["Commissioned in 1978.", "Initial capacity 120 MW.", "Current installed capacity about 580 MW.", "Comprises multiple steam and gas turbine units.", "Operated by Bangladesh Power Development Board.", "Primary fuel is natural gas."],
     },
+    image: "/poi-images/bangladesh-ashuganj-power-economic-v2.webp",
   },
   {
     id: "bangladesh-karwan-bazar-economic-v2",
@@ -403,6 +415,7 @@ export const bangladeshEconomicV2: POI[] = [
       ro: ["Cea mai mare piață angro de alimente din Dhaka.", "Cifra de afaceri zilnică de milioane de taki.", "Se întinde pe mai multe hectare.", "Are stație de autobuz și legătură cu metroul.", "Comercializează și textile și electronice.", "Situat în centrul orașului."],
       en: ["Largest wholesale food market in Dhaka.", "Daily turnover in millions of taka.", "Spans several hectares.", "Has a bus terminal and metro station.", "Also trades textiles and electronics.", "Located in the heart of the city."],
     },
+    image: "/poi-images/bangladesh-karwan-bazar-economic-v2.webp",
   },
   {
     id: "bangladesh-khatunganj-market-economic-v2",
@@ -434,6 +447,7 @@ export const bangladeshEconomicV2: POI[] = [
       ro: ["Volum zilnic de tranzacționare de mii de tone.", "Situat pe malul râului Karnaphuli în Chittagong.", "Existent din perioada colonială britanică.", "Comerciază orez, grâu, leguminoase, condimente și ceai.", "Unul dintre cele mai mari piețe agricole angro din Bangladesh.", "Angajează mii de muncitori."],
       en: ["Daily trade volume in thousands of tons.", "Located on the Karnaphuli River in Chittagong.", "Dates back to British colonial era.", "Trades rice, wheat, pulses, spices, and tea.", "One of Bangladesh's largest agricultural wholesale markets.", "Employs thousands of workers."],
     },
+    image: "/poi-images/bangladesh-khatunganj-market-economic-v2.webp",
   },
   {
     id: "bangladesh-ghorashal-power-economic-v2",
@@ -465,6 +479,7 @@ export const bangladeshEconomicV2: POI[] = [
       ro: ["Construit în 1970.", "Capacitate instalată de aproximativ 950 MW.", "La aproximativ 50 km nord-est de Dhaka.", "Are unități cu ciclu combinat.", "Combustibil principal: gaze din câmpurile Titas și Bakhrabad.", "Operat de Bangladesh Power Development Board."],
       en: ["Commissioned in 1970.", "Installed capacity about 950 MW.", "Located about 50 km northeast of Dhaka.", "Features combined-cycle units.", "Primary fuel: natural gas from Titas and Bakhrabad.", "Operated by Bangladesh Power Development Board."],
     },
+    image: "/poi-images/bangladesh-ghorashal-power-economic-v2.webp",
   },
   {
     id: "bangladesh-shahjibazar-power-economic-v2",
@@ -496,6 +511,7 @@ export const bangladeshEconomicV2: POI[] = [
       ro: ["Pus în funcțiune în 1978.", "Capacitatea instalată: aproximativ 600 MW.", "Ciclu combinat cu turbine cu gaz și abur.", "Operat de Bangladesh Power Development Board.", "Combustibil parțial din câmpul Shahjibazar.", "Situat în districtul Habiganj."],
       en: ["Commissioned in 1978.", "Installed capacity about 600 MW.", "Combined cycle gas and steam turbines.", "Operated by Bangladesh Power Development Board.", "Fuel partly from Shahjibazar gas field.", "Located in Habiganj district."],
     },
+    image: "/poi-images/bangladesh-shahjibazar-power-economic-v2.webp",
   },
   {
     id: "bangladesh-jalalabad-gas-economic-v2",
@@ -527,6 +543,7 @@ export const bangladeshEconomicV2: POI[] = [
       ro: ["Descoperit în 1959.", "Rezerve inițiale de circa 0,8 TCF.", "Producția a început în 1966.", "Gaze extrase de la 2.000-3.000 m.", "Situat în districtul Sylhet.", "Operat de Petrobangla."],
       en: ["Discovered in 1959.", "Initial reserves about 0.8 TCF.", "Production began in 1966.", "Gas extracted from depths of 2,000-3,000 meters.", "Located in Sylhet district.", "Operated by Petrobangla."],
     },
+    image: "/poi-images/bangladesh-jalalabad-gas-economic-v2.webp",
   },
   {
     id: "bangladesh-haripur-power-economic-v2",
@@ -558,6 +575,7 @@ export const bangladeshEconomicV2: POI[] = [
       ro: ["Pus în funcțiune în 1985.", "Capacitate instalată de aproximativ 100 MW.", "Centrală cu turbine pe gaz.", "Operat de Bangladesh Power Development Board.", "Combustibil din câmpurile Jalalabad și Kailashtila.", "Alimentează regiunea Sylhet."],
       en: ["Commissioned in 1985.", "Installed capacity about 100 MW.", "Gas turbine power plant.", "Operated by Bangladesh Power Development Board.", "Fuel from Jalalabad and Kailashtila fields.", "Supplies the Sylhet region."],
     },
+    image: "/poi-images/bangladesh-haripur-power-economic-v2.webp",
   },
   {
     id: "bangladesh-nasirabad-industrial-economic-v2",
@@ -589,6 +607,7 @@ export const bangladeshEconomicV2: POI[] = [
       ro: ["Fondată în anii 1960.", "Suprafață de aproximativ 2 km².", "Găzduiește fabrici textile, confecții, chimice și utilaje.", "Oferă mii de locuri de muncă.", "Situat în Chittagong.", "Aproape de port și aeroport."],
       en: ["Established in the 1960s.", "Spans about 2 square kilometers.", "Hosts textile, garment, chemical, and machinery factories.", "Provides thousands of jobs.", "Located in Chittagong.", "Near port and airport."],
     },
+    image: "/poi-images/bangladesh-nasirabad-industrial-economic-v2.webp",
   },
   {
     id: "bangladesh-kalurghat-industrial-economic-v2",
@@ -620,6 +639,7 @@ export const bangladeshEconomicV2: POI[] = [
       ro: ["Dezvoltată în anii 1970.", "Suprafață de aproximativ 3 km².", "Industrie grea: oțelării, șantiere navale, ciment.", "Pe malul râului Karnaphuli în Chittagong.", "Conexiuni bune cu portul și calea ferată.", "Găzduiește și multe IMM-uri."],
       en: ["Developed in the 1970s.", "Spans about 3 square kilometers.", "Heavy industry focus: steel, shipyards, cement.", "On Karnaphuli River in Chittagong.", "Good connectivity to port and railway.", "Also hosts many SMEs."],
     },
+    image: "/poi-images/bangladesh-kalurghat-industrial-economic-v2.webp",
   },
   {
     id: "bangladesh-sagorika-industrial-economic-v2",
@@ -651,6 +671,7 @@ export const bangladeshEconomicV2: POI[] = [
       ro: ["Fondată în anii 1980.", "Suprafață de aproximativ 1,5 km².", "Concentrare pe industria textilă și de confecții.", "Lângă portul Chittagong.", "Zeci de fabrici produc pentru export.", "Creează multe locuri de muncă, în special pentru femei."],
       en: ["Founded in the 1980s.", "Spans about 1.5 square kilometers.", "Focus on garment and textile industry.", "Near Chittagong port.", "Dozens of factories producing for export.", "Creates many jobs, especially for women."],
     },
+    image: "/poi-images/bangladesh-sagorika-industrial-economic-v2.webp",
   },
   {
     id: "bangladesh-faujdarhat-industrial-economic-v2",
@@ -682,6 +703,7 @@ export const bangladeshEconomicV2: POI[] = [
       ro: ["Dezvoltată în anii 2000.", "Suprafață de aproximativ 2 km².", "Amestec de industrie ușoară și grea.", "Situată în Chittagong, lângă port și aeroport.", "Infrastructură modernă.", "Oferă stimulente fiscale investitorilor."],
       en: ["Developed in the 2000s.", "Spans about 2 square kilometers.", "Mix of light and heavy industries.", "Located in Chittagong near port and airport.", "Modern infrastructure.", "Offers tax incentives for investors."],
     },
+    image: "/poi-images/bangladesh-faujdarhat-industrial-economic-v2.webp",
   },
   {
     id: "bangladesh-hemayetpur-leather-economic-v2",
@@ -713,6 +735,7 @@ export const bangladeshEconomicV2: POI[] = [
       ro: ["Deschis în 2003.", "Suprafață de aproximativ 500 de hectare.", "Peste 100 de tăbăcării și fabrici de piele.", "Stație centrală de tratare a apelor uzate.", "Prelucrează piei crude pentru export.", "Oferă mii de locuri de muncă."],
       en: ["Opened in 2003.", "Covers about 500 hectares.", "Over 100 tanneries and leather factories.", "Central effluent treatment plant.", "Processes raw hides into export products.", "Provides thousands of jobs."],
     },
+    image: "/poi-images/bangladesh-hemayetpur-leather-economic-v2.webp",
   },
   {
     id: "bangladesh-kutubdia-wind-farm-economic-v2",
@@ -744,6 +767,7 @@ export const bangladeshEconomicV2: POI[] = [
       ro: ["Pus în funcțiune în 2005.", "50 de turbine eoliene cu o capacitate totală de 0,9 MW.", "Turbine furnizate de Vestas (Danemarca).", "Primul parc eolian comercial din Bangladesh.", "Ulterior închis din cauza problemelor tehnice.", "Situat pe insula Kutubdia în Golful Bengal."],
       en: ["Commissioned in 2005.", "50 wind turbines with 0.9 MW total capacity.", "Turbines supplied by Vestas (Denmark).", "First commercial wind farm in Bangladesh.", "Later decommissioned due to technical issues.", "Located on Kutubdia Island in the Bay of Bengal."],
     },
+    image: "/poi-images/bangladesh-kutubdia-wind-farm-economic-v2.webp",
   },
   {
     id: "bangladesh-moheshkhali-lng-economic-v2",
@@ -775,6 +799,7 @@ export const bangladeshEconomicV2: POI[] = [
       ro: ["Pus în funcțiune în 2018.", "Capacitate: 3,75 milioane de tone de LNG pe an.", "Aproximativ 500 de milioane de picioare cubice de gaz pe zi.", "Navă plutitoare de stocare și regazeificare (FSRU).", "Import de LNG din Qatar și Oman.", "O a doua instalație planificată."],
       en: ["Commissioned in 2018.", "Capacity: 3.75 million tonnes of LNG per year.", "About 500 million cubic feet of gas per day.", "Floating storage and regasification unit (FSRU).", "LNG imported from Qatar and Oman.", "A second facility is planned."],
     },
+    image: "/poi-images/bangladesh-moheshkhali-lng-economic-v2.webp",
   },
   {
     id: "bangladesh-kaliakair-hitech-economic-v2",
@@ -806,6 +831,7 @@ export const bangladeshEconomicV2: POI[] = [
       ro: ["Fondată în 2010.", "Suprafață de aproximativ 800 de hectare.", "La 40 km nord de Dhaka.", "Proiectat pentru industria IT și electronică.", "Găzduiește companii locale și străine.", "Oferă stimulente fiscale și importuri fără taxe."],
       en: ["Founded in 2010.", "Spans about 800 hectares.", "40 km north of Dhaka.", "Designed for IT and electronics industries.", "Hosts local and foreign companies.", "Offers tax incentives and duty-free imports."],
     },
+    image: "/poi-images/bangladesh-kaliakair-hitech-economic-v2.webp",
   },
   {
     id: "bangladesh-chatak-cement-economic-v2",
@@ -837,6 +863,7 @@ export const bangladeshEconomicV2: POI[] = [
       ro: ["Fondată în 1940 de o companie britanică.", "Naționalizată în 1990.", "Capacitate anuală: aproximativ 150.000 de tone.", "Calcar importat din Meghalaya.", "Angajează aproximativ 500 de muncitori.", "Instalație învechită, funcționează sub capacitate."],
       en: ["Founded in 1940 by a British company.", "Nationalized in 1990.", "Annual capacity: about 150,000 tonnes of cement.", "Imported limestone from Meghalaya.", "Employs around 500 workers.", "Outdated plant operating below capacity."],
     },
+    image: "/poi-images/bangladesh-chatak-cement-economic-v2.webp",
   },
   {
     id: "bangladesh-fenchuganj-fertilizer-economic-v2",
@@ -868,6 +895,7 @@ export const bangladeshEconomicV2: POI[] = [
       ro: ["Fabrica a fost dată în exploatare oficial în anul 1961.", "A fost prima fabrică de uree din Pakistanul de Est de la acea vreme.", "Construcția unității a fost realizată cu asistență tehnică din Japonia.", "Utilizează gazul natural local ca materie primă principală.", "O nouă unitate modernă a fost planificată pentru a înlocui vechea fabrică în 2010.", "Locația pe malul râului facilitează distribuția produselor prin transport fluvial."],
       en: ["The factory was officially commissioned for operation in 1961.", "It was the first urea fertilizer plant in the then East Pakistan.", "The facility was constructed with technical assistance from Japan.", "Natural gas serves as the primary raw material for its production.", "A new modern plant was commissioned in the 2010s to replace old units.", "The plant is strategically located on the riverbank for easy transport."],
     },
+    image: "/poi-images/bangladesh-fenchuganj-fertilizer-economic-v2.webp",
   },
   {
     id: "bangladesh-kafco-plant-economic-v2",
@@ -899,6 +927,7 @@ export const bangladeshEconomicV2: POI[] = [
       ro: ["Producție anuală: 1,6 milioane tone uree", "Anul inaugurării: 1995", "Număr angajați: aproximativ 3.000", "Parteneri: Guvernul Bangladeshului, Japonia (Mitsui), Germania (Klockner)", "Localizare: Chittagong, lângă port", "Investiție: 2 miliarde USD"],
       en: ["Annual output: 1.6 million metric tons of urea", "Commissioned: 1995", "Workforce: ~3,000 employees", "Joint venture: Bangladesh Government, Mitsui (Japan), Klockner (Germany)", "Location: Chittagong, adjacent to port", "Total investment: approx. $2 billion"],
     },
+    image: "/poi-images/bangladesh-kafco-plant-economic-v2.webp",
   },
   {
     id: "bangladesh-cufl-plant-economic-v2",
@@ -930,5 +959,6 @@ export const bangladeshEconomicV2: POI[] = [
       ro: ["Capacitate anuală: 1,1 milioane tone uree", "Anul deschiderii: 1998", "Parteneriat: Guvernul Bangladeshului și companie chineză", "Gaz natural: sursă locală", "Locație: Fenchuganj, Sylhet", "Angajați: aproximativ 2.500"],
       en: ["Annual capacity: 1.1 million metric tons of urea", "Commissioned: 1998", "Joint venture: Bangladesh government and Chinese firm", "Feedstock: natural gas from local fields", "Location: Fenchuganj, Sylhet Division", "Employment: ~2,500 direct and indirect"],
     },
+    image: "/poi-images/bangladesh-cufl-plant-economic-v2.webp",
   }
 ];

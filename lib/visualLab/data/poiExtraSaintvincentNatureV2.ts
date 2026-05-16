@@ -31,6 +31,7 @@ export const saintvincentNatureV2: POI[] = [
       ro: ["Cel mai înalt munte din Saint Vincent și Grenadine (1.234 m).", "Cea mai recentă erupție majoră a început pe 9 aprilie 2021.", "Numele „La Soufrière” înseamnă „ieșire de sulf” în limba franceză.", "Lacul din crater a fost complet distrus în timpul erupției din 1979.", "Adăpostește un dom de lavă format în timpul erupțiilor anterioare.", "Singurul vulcan activ de pe insula Saint Vincent."],
       en: ["Highest mountain in Saint Vincent and the Grenadines (1,234 m).", "Latest major explosive eruption began on April 9, 2021.", "The name 'La Soufrière' means 'sulfur outlet' in French.", "The crater lake was completely destroyed during the 1979 eruption.", "Features a lava dome formed during previous eruptive phases.", "The only active volcano located on the island of Saint Vincent."],
     },
+    image: "/poi-images/saintvincent-la-soufriere-nature-v2.webp",
   },
   {
     id: "saintvincent-falls-of-baleine-nature-v2",
@@ -62,6 +63,7 @@ export const saintvincentNatureV2: POI[] = [
       ro: ["Situată în cel mai nordic punct al insulei Saint Vincent.", "Înălțimea căderii de apă este de aproximativ 18 metri (60 picioare).", "Accesibilă exclusiv pe mare, cu barca.", "Izvorăște de pe pantele vulcanului La Soufrière.", "Închisă temporar în 1992 din cauza unei alunecări masive de teren.", "Bazinul de apă de la bază are o adâncime de până la 3 metri."],
       en: ["Located at the northernmost point of mainland St. Vincent.", "The height of the waterfall is approximately 18 meters (60 feet).", "Accessible only by sea via boat trips.", "Originates from the slopes of the La Soufrière volcano.", "Temporarily closed in 1992 due to a massive landslide.", "The plunge pool at the base is up to 3 meters deep."],
     },
+    image: "/poi-images/saintvincent-falls-of-baleine-nature-v2.webp",
   },
   {
     id: "saintvincent-dark-view-falls-nature-v2",
@@ -93,6 +95,7 @@ export const saintvincentNatureV2: POI[] = [
       ro: ["Formată din două cascade separate la înălțimi diferite.", "Accesul se face printr-un pod tradițional de bambus.", "Cascada inferioară are o înălțime de aproximativ 25 de metri.", "Situată pe terenul unei foste plantații de nucă de cocos.", "Apa provine direct din masivul vulcanului La Soufrière.", "Considerată una dintre cele mai bine amenajate cascade din St. Vincent."],
       en: ["Comprises two distinct waterfalls at different elevations.", "Access involves crossing a traditional bamboo footbridge.", "The lower waterfall stands approximately 25 meters high.", "Located on the site of a former coconut plantation.", "The water originates directly from the La Soufrière mountain range.", "Recognized as one of the most accessible waterfalls in St. Vincent."],
     },
+    image: "/poi-images/saintvincent-dark-view-falls-nature-v2.webp",
   },
   {
     id: "saintvincent-trinity-falls-nature-v2",
@@ -124,6 +127,7 @@ export const saintvincentNatureV2: POI[] = [
       ro: ["Căderea de apă se desfășoară în trei trepte consecutive.", "Situată în pădurea tropicală densă din valea râului Wallilabou.", "Drumeția până la cascadă durează aproximativ 45-60 de minute.", "Împrejurimile reprezintă un habitat important pentru papagalul de St. Vincent.", "Bazinul de la bază este adesea periculos din cauza curenților puternici.", "Cascada este modelată de depozite de cenușă vulcanică."],
       en: ["Features a spectacular three-tiered cascading drop.", "Located within the dense rainforest of the Wallilabou River valley.", "The hike to reach the falls takes approximately 45 to 60 minutes.", "The area is a critical habitat for the endangered St. Vincent Parrot.", "The plunge pool is often dangerous for swimming due to strong currents.", "Formed by ancient volcanic ash and lava deposits."],
     },
+    image: "/poi-images/saintvincent-trinity-falls-nature-v2.webp",
   },
   {
     id: "saintvincent-owia-salt-pond-nature-v2",
@@ -155,6 +159,7 @@ export const saintvincentNatureV2: POI[] = [
       ro: ["Bazin natural cu apă de mare pe coasta Atlanticului.", "Format de fluxurile de lavă solidificată ale vulcanului La Soufrière.", "Valurile Atlanticului umplu constant bazinul cu apă proaspătă.", "Loc sigur pentru înot în ciuda valurilor periculoase din exterior.", "Găzduiește numeroase creaturi marine mici în bazinele de maree.", "Situat în apropierea celor mai nordice așezări de pe insulă."],
       en: ["A natural seawater pool located on the Atlantic coast.", "Formed by solidified lava flows from the La Soufrière volcano.", "Atlantic waves constantly replenish the basin with fresh water.", "Provides a safe swimming area despite dangerous offshore swells.", "Home to a variety of small marine life in surrounding tide pools.", "Located near some of the northernmost settlements on the island."],
     },
+    image: "/poi-images/saintvincent-owia-salt-pond-nature-v2.webp",
   },
   {
     id: "saintvincent-mesopotamia-valley-nature-v2",
@@ -186,6 +191,7 @@ export const saintvincentNatureV2: POI[] = [
       ro: ["Formată de râurile Yambou și Marriaqua.", "Datorită fertilității sale, este adesea comparată cu Mesopotamia antică.", "Solurile constau în straturi adânci de cenușă vulcanică.", "Înconjurată de creste muntoase precum Grand Bonhomme.", "Principalul bazin hidrografic pentru sud-estul insulei.", "Găzduiește o varietate enormă de plante tropicale utile."],
       en: ["Carved out by the Yambou and Marriaqua rivers over millennia.", "Often compared to ancient Mesopotamia due to its extreme fertility.", "The soil is composed of deep layers of volcanic ash and minerals.", "Surrounded by high mountain ridges including Grand Bonhomme.", "A vital watershed area for the southeastern portion of the island.", "Supports a vast array of tropical fruits, vegetables, and spices."],
     },
+    image: "/poi-images/saintvincent-mesopotamia-valley-nature-v2.webp",
   },
   {
     id: "saintvincent-botanical-gardens-nature-v2",
@@ -217,6 +223,7 @@ export const saintvincentNatureV2: POI[] = [
       ro: ["Fondată în 1765 de generalul Robert Melville.", "Cea mai veche grădină botanică din emisfera vestică.", "Găzduiește un descendent al arborilor de fructe de pâine aduși de Bligh.", "Sediul unui program de conservare pentru papagalul de St. Vincent.", "Se întinde pe o suprafață de aproximativ 8 hectare (20 de acri).", "Destinată inițial cultivării plantelor medicinale pentru armată."],
       en: ["Founded in 1765 by General Robert Melville.", "The oldest botanical garden established in the Western Hemisphere.", "Home to a descendant of the original breadfruit plants brought by Bligh.", "Site of a captive breeding program for the endemic St. Vincent Parrot.", "Covers a total land area of approximately 20 acres.", "Originally used to grow medicinal plants for the British military."],
     },
+    image: "/poi-images/saintvincent-botanical-gardens-nature-v2.webp",
   },
   {
     id: "saintvincent-mount-st-andrew-nature-v2",
@@ -248,6 +255,7 @@ export const saintvincentNatureV2: POI[] = [
       ro: ["Cel mai înalt vârf din imediata apropiere a capitalei Kingstown.", "Are o înălțime de aproximativ 735 de metri deasupra nivelului mării.", "Habitat important pentru papagalul endemic de St. Vincent.", "Face parte din secțiunea sudică a insulei, mai veche geologic.", "Vârful oferă vederi spre insulele Bequia și Mustique.", "Funcționează ca un rezervor natural de apă pentru sudul insulei."],
       en: ["The highest peak in the immediate vicinity of Kingstown.", "Stands at an elevation of approximately 735 meters (2,411 feet).", "Crucial habitat for the endemic and endangered St. Vincent Parrot.", "Part of the geologically older southern mountain massif.", "The summit provides views of the islands of Bequia and Mustique.", "Acts as a primary natural water catchment area for southern St. Vincent."],
     },
+    image: "/poi-images/saintvincent-mount-st-andrew-nature-v2.webp",
   },
   {
     id: "saintvincent-grand-bonhomme-nature-v2",
@@ -279,6 +287,7 @@ export const saintvincentNatureV2: POI[] = [
       ro: ["Al doilea cel mai înalt vârf de pe insula Saint Vincent.", "Atinge o înălțime maximă de aproximativ 970 de metri.", "Face parte din lanțul muntos central care divide insula.", "Loc de cuibărit important pentru papagalul Amazon de St. Vincent.", "Găzduiește păduri de nori rare în zonele superioare.", "Alimentează bazinele hidrografice ale mai multor râuri mari."],
       en: ["The second-highest peak on the island of Saint Vincent.", "Reaches a maximum elevation of approximately 970 meters (3,182 feet).", "Part of the central mountain spine dividing the island's coasts.", "A major nesting site for the endangered St. Vincent Parrot.", "Features rare elfin and cloud forest ecosystems at high altitudes.", "Feeds the headwaters of several of the island's major river systems."],
     },
+    image: "/poi-images/saintvincent-grand-bonhomme-nature-v2.webp",
   },
   {
     id: "saintvincent-kings-hill-forest-reserve-nature-v2",
@@ -310,6 +319,7 @@ export const saintvincentNatureV2: POI[] = [
       ro: ["Stabilită printr-o ordonanță guvernamentală în 1791.", "Una dintre cele mai vechi rezervații forestiere din America de Nord și Caraibe.", "Acoperă o suprafață de aproximativ 24 de hectare (60 de acri).", "Creată pentru a proteja microclimatul și regimul precipitațiilor.", "Găzduiește o populație mare de broaște fluierătoare.", "Oferă vederi panoramice asupra Văii Mesopotamia."],
       en: ["Established by a government ordinance in 1791.", "One of the oldest forest reserves in the Western Hemisphere.", "Covers an area of approximately 60 acres (24 hectares).", "Founded to protect the local microclimate and essential rainfall.", "Home to a significant population of endemic whistling frogs.", "Provides panoramic views of the fertile Mesopotamia Valley."],
     },
+    image: "/poi-images/saintvincent-kings-hill-forest-reserve-nature-v2.webp",
   },
   {
     id: "saintvincent-wallilabou-bay-nature-v2",
@@ -341,6 +351,7 @@ export const saintvincentNatureV2: POI[] = [
       ro: ["Locație celebră de filmare pentru „Pirații din Caraibe” (2003).", "Situat pe coasta de vest protejată (Leeward Coast).", "Dispune de o cascadă mică chiar pe malul mării.", "Nisipul din golf este de origine vulcanică și are o culoare închisă.", "Loc de ancorare popular pentru iahturile care merg spre Grenadine.", "Stâncile sunt formate din rocă vulcanică bazaltică."],
       en: ["Famous as the main filming set for 'Pirates of the Caribbean' (2003).", "Located on the sheltered western leeward coast of the island.", "Features a small, scenic waterfall within walking distance of the shore.", "The beach is composed of distinctive dark volcanic sand.", "A popular anchorage for yachts sailing through the Caribbean.", "The surrounding cliffs are made of ancient basaltic lava."],
     },
+    image: "/poi-images/saintvincent-wallilabou-bay-nature-v2.webp",
   },
   {
     id: "saintvincent-cumberland-bay-nature-v2",
@@ -372,6 +383,7 @@ export const saintvincentNatureV2: POI[] = [
       ro: ["Unul dintre cele mai adânci porturi naturale de pe insulă.", "Înconjurat de flancuri muntoase înalte de aproape 300 de metri.", "Are o plajă distinctivă cu nisip vulcanic negru.", "Loc preferat pentru ancorarea iahturilor cu pupa la mal.", "Oferă condiții excelente pentru snorkeling la marginile golfului.", "Folosit istoric pentru exportul de maranta (arrowroot)."],
       en: ["One of the deepest natural harbors on the island of St. Vincent.", "Surrounded by mountain flanks rising nearly 300 meters high.", "Features a distinctive beach made of fine black volcanic sand.", "Popular for 'stern-to' mooring among visiting sailing yachts.", "Offers exceptional snorkeling conditions along its rocky perimeters.", "Historically served as a shipping point for the island's arrowroot crop."],
     },
+    image: "/poi-images/saintvincent-cumberland-bay-nature-v2.webp",
   },
   {
     id: "saintvincent-byahaut-bay-nature-v2",
@@ -403,6 +415,7 @@ export const saintvincentNatureV2: POI[] = [
       ro: ["Accesibil doar cu barca sau caiacul.", "Găzduiește un recif de corali protejat și neatins.", "Celebrul pentru prezența căluților de mare și a crustaceelor rare.", "Adâncimea apei crește brusc chiar lângă țărm.", "Fără așezări umane permanente sau infrastructură.", "Loc de cuibărit important pentru păsările marine în stânci."],
       en: ["Accessible exclusively by boat or kayak from the sea.", "Home to some of the most pristine coral reef formations in SVG.", "Renowned for sightings of seahorses and rare crustacean species.", "The seabed drops off steeply very close to the shoreline.", "Contains no permanent human settlements or built infrastructure.", "Provides critical nesting sites for seabirds in the coastal cliffs."],
     },
+    image: "/poi-images/saintvincent-byahaut-bay-nature-v2.webp",
   },
   {
     id: "saintvincent-buccament-valley-nature-v2",
@@ -434,6 +447,7 @@ export const saintvincentNatureV2: POI[] = [
       ro: ["Valea este situată pe partea de sud-vest a insulei Saint Vincent.", "Găzduiește papagalul endemic de Saint Vincent, pasărea națională.", "Conține petroglife precolumbiene lăsate de primii locuitori amerindieni.", "Istoric, a susținut plantații de aronut și banane la scară largă.", "Râul Buccament curge prin vale către Marea Caraibilor.", "Servește ca locație principală pentru conservarea pădurii tropicale și ecoturism."],
       en: ["Located on the southwestern side of Saint Vincent island.", "Home to the endemic Saint Vincent Parrot, the national bird.", "Contains pre-Columbian petroglyphs left by early Amerindian inhabitants.", "Historically supported large-scale arrowroot and banana plantations.", "The Buccament River flows through the valley into the Caribbean Sea.", "Serves as a primary location for rainforest conservation and eco-tourism."],
     },
+    image: "/poi-images/saintvincent-buccament-valley-nature-v2.webp",
   },
   {
     id: "saintvincent-richmond-peak-nature-v2",
@@ -465,6 +479,7 @@ export const saintvincentNatureV2: POI[] = [
       ro: ["Atinge o altitudine de 1.077 metri (3.533 picioare) deasupra nivelului mării.", "Formează o parte proeminentă a lanțului muntos central din Saint Vincent.", "Compus din rocă vulcanică datând din epoca Pleistocenului.", "Acoperit cu pădure tropicală montană primară la altitudini mari.", "Servește ca bazin hidrografic critic pentru râurile care curg spre coasta de vest.", "Accesibil prin trasee de drumeție provocatoare prin Valea Richmond."],
       en: ["Reaches an elevation of 1,077 meters (3,533 feet) above sea level.", "Forms a prominent part of the Central Mountain Range on Saint Vincent.", "Composed of volcanic rock dating back to the Pleistocene epoch.", "Covered in primary montane rainforest and elfin woodland at higher altitudes.", "Serves as a critical watershed for rivers flowing to the western coast.", "Accessible via challenging hiking trails through the Richmond Valley."],
     },
+    image: "/poi-images/saintvincent-richmond-peak-nature-v2.webp",
   },
   {
     id: "saintvincent-colonarie-river-nature-v2",
@@ -496,6 +511,7 @@ export const saintvincentNatureV2: POI[] = [
       ro: ["Este considerat cel mai lung râu de pe insula Saint Vincent.", "Izvorăște din masivul muntos Morne Garu din centrul insulei.", "Curge spre est și se varsă în Oceanul Atlantic lângă așezarea Colonarie.", "Găzduiește centrale hidroelectrice care funcționează din anii 1950.", "Drenează cea mai productivă vale agricolă de pe coasta de vânt.", "Este cunoscut pentru cheile și cascadele sale dramatice din cursul superior."],
       en: ["Considered the longest river on the island of Saint Vincent.", "Originates in the Morne Garu mountain massif in the island's center.", "Flows eastward and empties into the Atlantic Ocean near Colonarie settlement.", "Hosts hydroelectric power stations that have operated since the 1950s.", "Drains the windward coast's most productive agricultural valley.", "Known for its dramatic gorges and cascades in the upper reaches."],
     },
+    image: "/poi-images/saintvincent-colonarie-river-nature-v2.webp",
   },
   {
     id: "saintvincent-layou-river-nature-v2",
@@ -527,6 +543,7 @@ export const saintvincentNatureV2: POI[] = [
       ro: ["Este unul dintre cele mai mari râuri de pe coasta de vest a insulei Saint Vincent.", "Găzduiește Parcul de Petroglife Layou cu sculpturi datând din anul 600 d.Hr.", "Izvorăște lângă Muntele St. Andrew în zonele montane centrale.", "Râul este cunoscut pentru cheile și bazinele sale vulcanice adânci.", "Se varsă în Marea Caraibilor lângă orașul istoric Layou.", "Servește ca sursă importantă de apă pentru agricultura din Valea Layou."],
       en: ["One of the largest rivers on the western (leeward) coast of Saint Vincent.", "Home to the Layou Petroglyph Park, with carvings dating back to 600 AD.", "Originates near Mount St. Andrew in the central highlands.", "The river is known for its deep volcanic gorges and basins.", "Empties into the Caribbean Sea at the historic town of Layou.", "Serves as a major water source for agriculture in the Layou Valley."],
     },
+    image: "/poi-images/saintvincent-layou-river-nature-v2.webp",
   },
   {
     id: "saintvincent-indian-bay-beach-nature-v2",
@@ -558,5 +575,6 @@ export const saintvincentNatureV2: POI[] = [
       ro: ["Situată pe coasta de sud a insulei Saint Vincent, în parohia Saint George.", "Prezintă un amestec de nisip vulcanic (negru) și nisip alb de corali.", "Protejată de valurile puternice de un recif de corali mare în larg.", "Considerată unul dintre cele mai bune locuri de pe insulă pentru snorkeling.", "Oferă o vedere clară spre Bequia și alte insule din Grenadine.", "Poartă numele în referință la popoarele indigene Carib."],
       en: ["Located on the south coast of Saint Vincent in the Parish of Saint George.", "Features a mixture of volcanic (black) and white coral sand.", "Protected from strong waves by a large offshore coral reef.", "Considered one of the island's best spots for snorkeling from the shore.", "Offers a clear view of Bequia and other Grenadines islands.", "Named in reference to the indigenous Carib peoples."],
     },
+    image: "/poi-images/saintvincent-indian-bay-beach-nature-v2.webp",
   }
 ];

@@ -32,6 +32,7 @@ export const latviaLandmarksV2: POI[] = [
       ro: ["Prima atestare documentară în 1209", "Înălțimea totală a turnului: 123 metri", "Platformă de observație la 72 metri", "Arhitectură în stil gotic baltic", "Arsă aproape complet în iunie 1941", "Reconstrucția structurii metalice în 1973"],
       en: ["First mentioned in chronicles in 1209", "Total tower height is 123.25 meters", "Observation deck located at 72 meters", "Three-aisled basilica construction", "Severely damaged during WWII in 1941", "Metal spire restoration completed in 1973"],
     },
+    image: "/poi-images/latvia-st-peters-church-landmarks-v2.webp",
   },
   {
     id: "latvia-jelgava-history-museum-landmarks-v2",
@@ -64,6 +65,7 @@ export const latviaLandmarksV2: POI[] = [
       ro: ["Fondată în 1775", "Arhitectură barocă", "Istoria Zemgale", "Colecția Eliass"],
       en: ["Founded in 1775", "Baroque architecture", "Zemgale history focus", "Eliass art collection"],
     },
+    image: "/poi-images/latvia-jelgava-history-museum-landmarks-v2.webp",
   },
   {
     id: "latvia-riga-nativity-cathedral-landmarks-v2",
@@ -96,6 +98,7 @@ export const latviaLandmarksV2: POI[] = [
       ro: ["Construită între anii 1876 și 1883", "Proiectată de arhitectul Robert Pflug", "Donată parțial de Țarul Alexandru al II-lea", "Transformata în planetariu în 1963", "Restaurată complet după anul 1991", "Picturi interioare de mare valoare"],
       en: ["Construction period: 1876-1883", "Designed by architect Robert Pflug", "Bell set donated by Tsar Alexander II", "Functioned as a planetarium from 1963", "Fully restored as a cathedral in 1991", "Features five neo-Byzantine domes"],
     },
+    image: "/poi-images/latvia-riga-nativity-cathedral-landmarks-v2.webp",
   },
   {
     id: "latvia-latvian-war-museum-landmarks-v2",
@@ -128,6 +131,7 @@ export const latviaLandmarksV2: POI[] = [
       ro: ["Locație Turnul Pulberii", "25.000 de piese", "Fondat în 1916", "Bază medievală"],
       en: ["Powder Tower location", "25,000 exhibits", "Founded in 1916", "Medieval foundations"],
     },
+    image: "/poi-images/latvia-latvian-war-museum-landmarks-v2.webp",
   },
   {
     id: "latvia-ventas-rumba-waterfall-landmarks-v2",
@@ -160,6 +164,7 @@ export const latviaLandmarksV2: POI[] = [
       ro: ["Lățimea variază între 249 și 270 metri", "Înălțimea căderii: 1,8 - 2 metri", "Formată pe un prag de dolomită devoniană", "Faimoasă pentru migrația somonilor", "Situată în orașul istoric Kuldīga", "Monument natural protejat prin lege"],
       en: ["Width ranges from 249 to 270 meters", "Drop height is approximately 1.8-2 meters", "Formed on Devonian dolomite rock", "Visible jumping fish in spring and autumn", "Located next to the historic brick bridge", "Widest waterfall in all of Europe"],
     },
+    image: "/poi-images/latvia-ventas-rumba-waterfall-landmarks-v2.webp",
   },
   {
     id: "latvia-st-jacobs-cathedral-landmarks-v2",
@@ -192,6 +197,7 @@ export const latviaLandmarksV2: POI[] = [
       ro: ["Anul construcției: aproximativ 1225", "Sediul Arhiepiscopului Romano-Catolic", "Înălțimea turnului: 80 de metri", "Stil gotic din cărămidă roșie", "Deține un clopot instalat la exterior", "Confiscată de luterani în secolul XVI"],
       en: ["Founded around the year 1225", "Seat of the Catholic Archbishop", "Tower stands 80 meters tall", "Rare example of a square church tower", "External bell used to ring for executions", "Returned to the Catholic Church in 1923"],
     },
+    image: "/poi-images/latvia-st-jacobs-cathedral-landmarks-v2.webp",
   },
   {
     id: "latvia-riga-three-brothers-landmarks-v2",
@@ -224,6 +230,7 @@ export const latviaLandmarksV2: POI[] = [
       ro: ["Cea mai veche casă (nr. 17) datează din 1490", "Casa nr. 19 are influențe olandeze", "Casa nr. 21 datează din secolul al XVIII-lea", "Găzduiește Muzeul Arhitecturii Letone", "Restaurate în perioada 1955-1957", "Situate pe strada Maza Pils"],
       en: ["Oldest house (No. 17) dates back to late 1400s", "Middle brother (No. 19) built in 1646", "Youngest house (No. 21) is from late 1700s", "Currently houses the Latvian Museum of Architecture", "Restored during the Soviet period in the 1950s", "Interiors feature original stone carvings"],
     },
+    image: "/poi-images/latvia-riga-three-brothers-landmarks-v2.webp",
   },
   {
     id: "latvia-jurmala-city-museum-landmarks-v2",
@@ -256,6 +263,7 @@ export const latviaLandmarksV2: POI[] = [
       ro: ["Fondat în 1962", "50.000 de obiecte", "Istoria stațiunii", "Arhiva costumelor"],
       en: ["Founded in 1962", "50,000 objects", "Resort history focus", "Coastal culture"],
     },
+    image: "/poi-images/latvia-jurmala-city-museum-landmarks-v2.webp",
   },
   {
     id: "latvia-sigulda-new-castle-landmarks-v2",
@@ -288,6 +296,7 @@ export const latviaLandmarksV2: POI[] = [
       ro: ["Construit în 1878", "Stil neogotic", "Reședința Kropotkin", "Vedere spre Gauja"],
       en: ["Built in 1878, Neo-Gothic style, Kropotkin residence, Gauja Valley location"],
     },
+    image: "/poi-images/latvia-sigulda-new-castle-landmarks-v2.webp",
   },
   {
     id: "latvia-riga-small-guild-hall-landmarks-v2",
@@ -320,6 +329,7 @@ export const latviaLandmarksV2: POI[] = [
       ro: ["Construită 1864-1866", "Arhitect Johann Felsko", "Stil neogotic", "Bresla meșterilor"],
       en: ["Built 1864-1866, Architect Johann Felsko, Neo-Gothic style, Craftsmen Guild"],
     },
+    image: "/poi-images/latvia-riga-small-guild-hall-landmarks-v2.webp",
   },
   {
     id: "latvia-riga-large-guild-hall-landmarks-v2",
@@ -352,6 +362,7 @@ export const latviaLandmarksV2: POI[] = [
       ro: ["Construită 1854-1859", "Origini gotice", "Sală de concerte", "Bresla neguțătorilor"],
       en: ["Built 1854-1859, Gothic origins, Concert hall, Merchant Guild"],
     },
+    image: "/poi-images/latvia-riga-large-guild-hall-landmarks-v2.webp",
   },
   {
     id: "latvia-cernavoda-bridge-landmarks-v2",
@@ -384,6 +395,7 @@ export const latviaLandmarksV2: POI[] = [
       ro: ["Deschis în 1914", "10 arcuri de oțel", "Peste râul Daugava", "Lungime aprox. 600m"],
       en: ["Opened in 1914, 10 steel arches, Over Daugava River, Length approx. 600m"],
     },
+    image: "/poi-images/latvia-cernavoda-bridge-landmarks-v2.webp",
   },
   {
     id: "latvia-art-nouveau-museum-landmarks-v2",
@@ -416,6 +428,7 @@ export const latviaLandmarksV2: POI[] = [
       ro: ["Construit în 1903", "Arhitect Pēkšēns", "Centru Art Nouveau", "Alberta iela 12"],
       en: ["Built in 1903, Architect Pēkšēns, Art Nouveau center, Alberta iela 12"],
     },
+    image: "/poi-images/latvia-art-nouveau-museum-landmarks-v2.webp",
   },
   {
     id: "latvia-daugavpils-lead-shot-tower-landmarks-v2",
@@ -448,6 +461,7 @@ export const latviaLandmarksV2: POI[] = [
       ro: ["Fondată în anul 1885", "Înălțimea turnului de cărămidă: 37 metri", "Puțul de răcire are 19 metri adâncime", "Ultima fabrică funcțională de acest tip", "Proces bazat pe gravitație și tensiune superficială", "Monument de importanță națională"],
       en: ["Established in the year 1885", "Brick tower height is 37 meters", "Cooling shaft extends 19 meters deep", "Oldest lead shot factory in Northern Europe", "Uses gravity to form perfect lead spheres", "Located near the historic Daugavpils Fortress"],
     },
+    image: "/poi-images/latvia-daugavpils-lead-shot-tower-landmarks-v2.webp",
   },
   {
     id: "latvia-riga-dom-square-landmarks-v2",
@@ -480,6 +494,7 @@ export const latviaLandmarksV2: POI[] = [
       ro: ["Cea mai mare piață", "Centru istoric", "Creată în anii 1860", "Locația catedralei"],
       en: ["Largest square in Riga, Old Town center, Formed around 1860, Cathedral site"],
     },
+    image: "/poi-images/latvia-riga-dom-square-landmarks-v2.webp",
   },
   {
     id: "latvia-jelgava-tower-church-landmarks-v2",
@@ -512,6 +527,7 @@ export const latviaLandmarksV2: POI[] = [
       ro: ["Construit în 1574", "Înălțime 50m", "Cea mai veche clădire", "Muzeu interactiv"],
       en: ["Built in 1574, 50m height, Oldest stone building, Interactive museum"],
     },
+    image: "/poi-images/latvia-jelgava-tower-church-landmarks-v2.webp",
   },
   {
     id: "latvia-riga-bastejkalns-park-landmarks-v2",
@@ -544,6 +560,7 @@ export const latviaLandmarksV2: POI[] = [
       ro: ["Fondat în 1859", "Fost bastion defensiv", "Canale și poduri", "Grădină cu sculpturi"],
       en: ["Founded in 1859, Former city ramparts, Canal bridges, Sculpture garden"],
     },
+    image: "/poi-images/latvia-riga-bastejkalns-park-landmarks-v2.webp",
   },
   {
     id: "latvia-cesis-new-castle-landmarks-v2",
@@ -576,6 +593,7 @@ export const latviaLandmarksV2: POI[] = [
       ro: ["Construit în 1777", "Familia Sievers", "Turnul Lademaher", "Muzeu de istorie"],
       en: ["Built in 1777, Sievers family home, Lademaher Tower, History museum"],
     },
+    image: "/poi-images/latvia-cesis-new-castle-landmarks-v2.webp",
   },
   {
     id: "latvia-riga-central-library-landmarks-v2",
@@ -608,6 +626,7 @@ export const latviaLandmarksV2: POI[] = [
       ro: ["Deschisă în 2014", "Arhitect Birkerts", "Înălțime 68m", "4 milioane volume"],
       en: ["Opened in 2014, Architect Birkerts, 68m height, 4 million volumes"],
     },
+    image: "/poi-images/latvia-riga-central-library-landmarks-v2.webp",
   },
   {
     id: "latvia-riga-national-theatre-landmarks-v2",
@@ -640,6 +659,7 @@ export const latviaLandmarksV2: POI[] = [
       ro: ["Construit între anii 1899 și 1902", "Arhitect principal: Augusts Reinbergs", "Locul proclamării independenței în 1918", "Capacitate de peste 700 de locuri", "Fațadă bogat ornamentată cu statui", "Renovat complet la începutul secolului XXI"],
       en: ["Construction period: 1899-1902", "Designed by architect Augusts Reinbergs", "Independence proclaimed here in 1918", "Large hall seats 750 spectators", "Blend of Eclecticism and Baroque styles", "Situated on the banks of the Riga Canal"],
     },
+    image: "/poi-images/latvia-riga-national-theatre-landmarks-v2.webp",
   },
   {
     id: "latvia-riga-academy-of-art-landmarks-v2",
@@ -672,6 +692,7 @@ export const latviaLandmarksV2: POI[] = [
       ro: ["Construită între 1902 și 1905", "Arhitect: Wilhelm Bockslaff", "Inițial a fost o școală comercială", "Stil neogotic pur din cărămidă roșie", "Academia a fost fondată în 1919", "Fațadă cu elemente decorative din piatră"],
       en: ["Built between 1902 and 1905", "Designed by architect Wilhelm Bockslaff", "Originally served as a stock exchange school", "Striking neo-Gothic brick facade", "The Academy was established in 1919", "Interior features Art Nouveau murals"],
     },
+    image: "/poi-images/latvia-riga-academy-of-art-landmarks-v2.webp",
   },
   {
     id: "latvia-riga-university-building-landmarks-v2",
@@ -704,6 +725,7 @@ export const latviaLandmarksV2: POI[] = [
       ro: ["Construită 1866-1869", "Arhitect Hilbig", "Stil eclectic", "Sediul principal"],
       en: ["Built 1866-1869, Architect Hilbig, Eclectic style, Main university hub"],
     },
+    image: "/poi-images/latvia-riga-university-building-landmarks-v2.webp",
   },
   {
     id: "latvia-riga-congress-centre-landmarks-v2",
@@ -736,6 +758,7 @@ export const latviaLandmarksV2: POI[] = [
       ro: ["Inaugurat în anul 1982", "Construit ca sediu pentru educație politică", "Sala principală are 1142 de locuri", "Fațadă placată cu piatră de dolomită", "Amplasat în inima parcului Kronvalds", "Găzduiește festivaluri de film și teatru"],
       en: ["Opened in the year 1982", "Built as a political education center", "Main auditorium seats 1,142 people", "Modernist design with dolomite cladding", "Located within the scenic Kronvalds Park", "Host venue for the Riga Film Festival"],
     },
+    image: "/poi-images/latvia-riga-congress-centre-landmarks-v2.webp",
   },
   {
     id: "latvia-daugavpils-theatre-landmarks-v2",
@@ -768,6 +791,7 @@ export const latviaLandmarksV2: POI[] = [
       ro: ["Fondat în 1856", "Cel mai vechi teatru", "Piese multilingve", "Regiunea Latgale"],
       en: ["Founded in 1856, Oldest pro theatre, Multilingual plays, Latgale region"],
     },
+    image: "/poi-images/latvia-daugavpils-theatre-landmarks-v2.webp",
   },
   {
     id: "latvia-liepaja-amber-clock-landmarks-v2",
@@ -800,6 +824,7 @@ export const latviaLandmarksV2: POI[] = [
       ro: ["Inaugurat în 2003", "50 litri chihlimbar", "Promenada Liepāja", "Donații cetățenești"],
       en: ["Unveiled in 2003, 50 liters of amber, Liepāja Promenade, Citizen donations"],
     },
+    image: "/poi-images/latvia-liepaja-amber-clock-landmarks-v2.webp",
   },
   {
     id: "latvia-riga-freedom-bridge-landmarks-v2",
@@ -832,6 +857,7 @@ export const latviaLandmarksV2: POI[] = [
       ro: ["Traversarea canalului", "Amplasare în Bastejkalns", "Simbol romantic", "Construit în secolul XIX"],
       en: ["Canal crossing", "Bastejkalns Park site", "Romantic landmark", "Built in 19th century"],
     },
+    image: "/poi-images/latvia-riga-freedom-bridge-landmarks-v2.webp",
   },
   {
     id: "latvia-riga-blackheads-square-landmarks-v2",
@@ -864,6 +890,7 @@ export const latviaLandmarksV2: POI[] = [
       ro: ["Casa Capetelor Negre datează din 1334", "Reconstrucție finalizată în anul 1999", "Locul primului brad de Crăciun (1510)", "Sediul breslei negustorilor celibatari", "Statuia Sfântului Roland în centrul pieței", "Distrusă de bombardamente în iunie 1941"],
       en: ["Original house built in the year 1334", "Full reconstruction completed in 1999", "Site of the world's first Christmas tree (1510)", "Former guild for unmarried merchants", "Features a statue of Roland in the center", "Severely damaged during WWII in 1941"],
     },
+    image: "/poi-images/latvia-riga-blackheads-square-landmarks-v2.webp",
   },
   {
     id: "latvia-riga-cathedral-square-landmarks-v2",
@@ -896,6 +923,7 @@ export const latviaLandmarksV2: POI[] = [
       ro: ["Sistematizată începând cu anul 1860", "Găzduiește Domul din Riga, fondat în 1211", "Sediul Radioului Național Leton", "Locul principal pentru târgurile de Crăciun", "Zonă protejată prin patrimoniul UNESCO", "Înconjurată de clădiri eclectice și baroce"],
       en: ["Formed by demolitions starting in 1860", "Home to the Riga Dome Cathedral (1211)", "Location of the Latvian Radio building", "Main venue for the city's Christmas markets", "Seven streets converge into the square", "Part of the UNESCO World Heritage site"],
     },
+    image: "/poi-images/latvia-riga-cathedral-square-landmarks-v2.webp",
   },
   {
     id: "latvia-riga-monument-to-barons-landmarks-v2",
@@ -928,6 +956,7 @@ export const latviaLandmarksV2: POI[] = [
       ro: ["Grădina Vērmanes", "Lea Davidova-Medene", "Sculptură în granit", "Finalizat în 1985"],
       en: ["Vērmanes Garden site", "Lea Davidova-Medene", "Granite sculpture", "Completed in 1985"],
     },
+    image: "/poi-images/latvia-riga-monument-to-barons-landmarks-v2.webp",
   },
   {
     id: "latvia-cesis-old-brewery-landmarks-v2",
@@ -960,6 +989,7 @@ export const latviaLandmarksV2: POI[] = [
       ro: ["Tradiție de fabricare a berii din 1590", "Clădirile actuale datează din secolul XVIII", "Deținută de familia nobilă von Sievers", "Producția industrială s-a oprit în 2001", "Găzduiește Centrul de Artă și Știință", "Situată lângă castelul medieval Cēsis"],
       en: ["Brewing traditions date back to 1590", "Current complex dates from 18th-19th centuries", "Once owned by Count Emmanuel von Sievers", "Industrial production ceased here in 2001", "Now serves as a contemporary art venue", "Located adjacent to the Cēsis Medieval Castle"],
     },
+    image: "/poi-images/latvia-cesis-old-brewery-landmarks-v2.webp",
   },
   {
     id: "latvia-riga-radio-tower-landmarks-v2",
@@ -992,5 +1022,6 @@ export const latviaLandmarksV2: POI[] = [
       ro: ["Înălțime: 368,5 metri", "Structură beton-oțel", "Insula Zaķusala", "Vizibilitate: 50 km"],
       en: ["Height: 368.5 meters", "Concrete-steel build", "Zaķusala Island", "50 km visibility range"],
     },
+    image: "/poi-images/latvia-riga-radio-tower-landmarks-v2.webp",
   }
 ];

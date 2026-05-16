@@ -481,7 +481,8 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: ["Construcțiile sunt în mare parte din calcar globigerina specific Maltei.", "Biserica parohială este, prin tradiție, centrul vieții comunitare.", "Străduțe înguste și piațete mici definesc nucleul istoric.", "Sărbătorile locale (festas) au loc vara și atrag mulți vizitatori.", "Malteza și engleza sunt prezente deopotrivă în viața de zi cu zi.", "Legătura cu Valletta se face prin rețeaua publică de autobuze.", "Multe case păstrează balcoanele de lemn colorate, tipic malteze."],
       en: ["Most buildings are made of Malta's typical Globigerina limestone.", "The parish church traditionally serves as the heart of community life.", "Narrow lanes and small squares define the historic core.", "Local festas take place during the summer and draw many visitors.", "Maltese and English are equally present in everyday life.", "The town is connected to Valletta by the public bus network.", "Many houses still feature the iconic colourful wooden balconies."]
-    }
+    },
+    image: "/poi-images/city-senglea-isla-extra.webp",
   },
   {
     id: "city-cospicua-bormla-extra",
@@ -512,7 +513,8 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: ["Construcțiile sunt în mare parte din calcar globigerina specific Maltei.", "Biserica parohială este, prin tradiție, centrul vieții comunitare.", "Străduțe înguste și piațete mici definesc nucleul istoric.", "Sărbătorile locale (festas) au loc vara și atrag mulți vizitatori.", "Malteza și engleza sunt prezente deopotrivă în viața de zi cu zi.", "Legătura cu Valletta se face prin rețeaua publică de autobuze.", "Multe case păstrează balcoanele de lemn colorate, tipic malteze."],
       en: ["Most buildings are made of Malta's typical Globigerina limestone.", "The parish church traditionally serves as the heart of community life.", "Narrow lanes and small squares define the historic core.", "Local festas take place during the summer and draw many visitors.", "Maltese and English are equally present in everyday life.", "The town is connected to Valletta by the public bus network.", "Many houses still feature the iconic colourful wooden balconies."]
-    }
+    },
+    image: "/poi-images/city-cospicua-bormla-extra.webp",
   },
   {
     id: "city-fgura-extra",
@@ -753,7 +755,8 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: ["Construcțiile sunt în mare parte din calcar globigerina specific Maltei.", "Biserica parohială este, prin tradiție, centrul vieții comunitare.", "Străduțe înguste și piațete mici definesc nucleul istoric.", "Sărbătorile locale (festas) au loc vara și atrag mulți vizitatori.", "Malteza și engleza sunt prezente deopotrivă în viața de zi cu zi.", "Legătura cu Valletta se face prin rețeaua publică de autobuze.", "Multe case păstrează balcoanele de lemn colorate, tipic malteze."],
       en: ["Most buildings are made of Malta's typical Globigerina limestone.", "The parish church traditionally serves as the heart of community life.", "Narrow lanes and small squares define the historic core.", "Local festas take place during the summer and draw many visitors.", "Maltese and English are equally present in everyday life.", "The town is connected to Valletta by the public bus network.", "Many houses still feature the iconic colourful wooden balconies."]
-    }
+    },
+    image: "/poi-images/city-marsaskala-extra.webp",
   },
   {
     id: "city-marsaxlokk-extra",
@@ -1084,7 +1087,8 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: ["Construcțiile sunt în mare parte din calcar globigerina specific Maltei.", "Biserica parohială este, prin tradiție, centrul vieții comunitare.", "Străduțe înguste și piațete mici definesc nucleul istoric.", "Sărbătorile locale (festas) au loc vara și atrag mulți vizitatori.", "Malteza și engleza sunt prezente deopotrivă în viața de zi cu zi.", "Legătura cu Valletta se face prin rețeaua publică de autobuze.", "Multe case păstrează balcoanele de lemn colorate, tipic malteze."],
       en: ["Most buildings are made of Malta's typical Globigerina limestone.", "The parish church traditionally serves as the heart of community life.", "Narrow lanes and small squares define the historic core.", "Local festas take place during the summer and draw many visitors.", "Maltese and English are equally present in everyday life.", "The town is connected to Valletta by the public bus network.", "Many houses still feature the iconic colourful wooden balconies."]
-    }
+    },
+    image: "/poi-images/city-siggiewi-extra.webp",
   },
   {
     id: "city-zebbug-malta-extra",
@@ -1115,7 +1119,8 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: ["Construcțiile sunt în mare parte din calcar globigerina specific Maltei.", "Biserica parohială este, prin tradiție, centrul vieții comunitare.", "Străduțe înguste și piațete mici definesc nucleul istoric.", "Sărbătorile locale (festas) au loc vara și atrag mulți vizitatori.", "Malteza și engleza sunt prezente deopotrivă în viața de zi cu zi.", "Legătura cu Valletta se face prin rețeaua publică de autobuze.", "Multe case păstrează balcoanele de lemn colorate, tipic malteze."],
       en: ["Most buildings are made of Malta's typical Globigerina limestone.", "The parish church traditionally serves as the heart of community life.", "Narrow lanes and small squares define the historic core.", "Local festas take place during the summer and draw many visitors.", "Maltese and English are equally present in everyday life.", "The town is connected to Valletta by the public bus network.", "Many houses still feature the iconic colourful wooden balconies."]
-    }
+    },
+    image: "/poi-images/city-zebbug-malta-extra.webp",
   },
   {
     id: "city-qormi-extra",
@@ -1146,7 +1151,8 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: ["Construcțiile sunt în mare parte din calcar globigerina specific Maltei.", "Biserica parohială este, prin tradiție, centrul vieții comunitare.", "Străduțe înguste și piațete mici definesc nucleul istoric.", "Sărbătorile locale (festas) au loc vara și atrag mulți vizitatori.", "Malteza și engleza sunt prezente deopotrivă în viața de zi cu zi.", "Legătura cu Valletta se face prin rețeaua publică de autobuze.", "Multe case păstrează balcoanele de lemn colorate, tipic malteze."],
       en: ["Most buildings are made of Malta's typical Globigerina limestone.", "The parish church traditionally serves as the heart of community life.", "Narrow lanes and small squares define the historic core.", "Local festas take place during the summer and draw many visitors.", "Maltese and English are equally present in everyday life.", "The town is connected to Valletta by the public bus network.", "Many houses still feature the iconic colourful wooden balconies."]
-    }
+    },
+    image: "/poi-images/city-qormi-extra.webp",
   },
   {
     id: "city-rabat-malta-extra",
@@ -1177,7 +1183,8 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: ["Construcțiile sunt în mare parte din calcar globigerina specific Maltei.", "Biserica parohială este, prin tradiție, centrul vieții comunitare.", "Străduțe înguste și piațete mici definesc nucleul istoric.", "Sărbătorile locale (festas) au loc vara și atrag mulți vizitatori.", "Malteza și engleza sunt prezente deopotrivă în viața de zi cu zi.", "Legătura cu Valletta se face prin rețeaua publică de autobuze.", "Multe case păstrează balcoanele de lemn colorate, tipic malteze."],
       en: ["Most buildings are made of Malta's typical Globigerina limestone.", "The parish church traditionally serves as the heart of community life.", "Narrow lanes and small squares define the historic core.", "Local festas take place during the summer and draw many visitors.", "Maltese and English are equally present in everyday life.", "The town is connected to Valletta by the public bus network.", "Many houses still feature the iconic colourful wooden balconies."]
-    }
+    },
+    image: "/poi-images/city-rabat-malta-extra.webp",
   },
   {
     id: "city-dingli-extra",
@@ -1598,7 +1605,8 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: ["Construcțiile sunt în mare parte din calcar globigerina specific Maltei.", "Biserica parohială este, prin tradiție, centrul vieții comunitare.", "Străduțe înguste și piațete mici definesc nucleul istoric.", "Sărbătorile locale (festas) au loc vara și atrag mulți vizitatori.", "Malteza și engleza sunt prezente deopotrivă în viața de zi cu zi.", "Legătura cu Valletta se face prin rețeaua publică de autobuze.", "Multe case păstrează balcoanele de lemn colorate, tipic malteze."],
       en: ["Most buildings are made of Malta's typical Globigerina limestone.", "The parish church traditionally serves as the heart of community life.", "Narrow lanes and small squares define the historic core.", "Local festas take place during the summer and draw many visitors.", "Maltese and English are equally present in everyday life.", "The town is connected to Valletta by the public bus network.", "Many houses still feature the iconic colourful wooden balconies."]
-    }
+    },
+    image: "/poi-images/city-victoria-rabat-gozo-extra.webp",
   },
   {
     id: "city-xewkija-extra",
@@ -2079,7 +2087,8 @@ export const poiExtraMaltaCities: POI[] = [
       hu: ["Málta területe és elhelyezkedése egyedi a földközi-tengeri térségben.", "A szigetek történelme több mint 7000 évre nyúlik vissza.", "A lovagrendek hagyatéka ma is minden városban tetten érhető.", "Az éghajlat egész évben kedvező a turizmus számára.", "A szigetország infrastruktúrája folyamatosan fejlődik.", "Málta közlekedése és hajózása évszázadok óta meghatározó.", "A helyi kultúra keveredik a mediterrán és európai elemekkel."],
       ro: ["Construcțiile sunt în mare parte din calcar globigerina specific Maltei.", "Biserica parohială este, prin tradiție, centrul vieții comunitare.", "Străduțe înguste și piațete mici definesc nucleul istoric.", "Sărbătorile locale (festas) au loc vara și atrag mulți vizitatori.", "Malteza și engleza sunt prezente deopotrivă în viața de zi cu zi.", "Legătura cu Valletta se face prin rețeaua publică de autobuze.", "Multe case păstrează balcoanele de lemn colorate, tipic malteze."],
       en: ["Most buildings are made of Malta's typical Globigerina limestone.", "The parish church traditionally serves as the heart of community life.", "Narrow lanes and small squares define the historic core.", "Local festas take place during the summer and draw many visitors.", "Maltese and English are equally present in everyday life.", "The town is connected to Valletta by the public bus network.", "Many houses still feature the iconic colourful wooden balconies."]
-    }
+    },
+    image: "/poi-images/city-mtarfa-extra.webp",
   }
 ];
 

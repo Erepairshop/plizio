@@ -31,6 +31,7 @@ export const liberiaEconomicV2: POI[] = [
       ro: ["Portul Liber din Monrovia a fost construit de armata americană în 1948 ca parte a eforturilor de reconstrucție postbelică.", "Are 7 dane cu o adâncime maximă de 14 metri.", "Gestionază peste 1 milion de tone de marfă anual, inclusiv minereu de fier și cauciuc.", "A fost grav avariat în 1990 în timpul războiului civil, fiind reconstruit abia după 2005.", "Costul total al reabilitării postbelice este estimat la 150 de milioane de dolari.", "Portul oferă angajare directă pentru aproximativ 5.000 de persoane."],
       en: ["Built in 1948 by the United States Army Corps of Engineers.", "Total quay length: 1,600 meters with seven berths.", "Water depth at berths: 10 to 14 meters.", "Annual cargo throughput: around 1 million tons (2022 estimate).", "Managed by the Liberia Port Authority (LPA), established in 1971.", "Major rehabilitation cost $75 million between 2016 and 2020."],
     },
+    image: "/poi-images/liberia-freeport-monrovia-economic-v2.webp",
   },
   {
     id: "liberia-buchanan-port-economic-v2",
@@ -62,6 +63,7 @@ export const liberiaEconomicV2: POI[] = [
       ro: ["Construit în 1963 de compania LAMCO (Liberian-American-Swedish Mining Company).", "Lungimea cheiurilor: 800 de metri, adâncimea de 12 metri.", "Exporturile principale în 2020: cauciuc (35%), lemn (20%), ulei de palmier (15%).", "Portul a fost redeschis în 2010 după reconstrucție.", "Numărul de nave care au acostat în 2021: 89.", "În 2019, portul a generat 12 milioane de dolari în taxe vamale."],
       en: ["Construction completed in 1963 for iron ore exports.", "Quay length: 800 meters, with two berths.", "Maximum vessel draft: 12 meters.", "Annual cargo throughput: approximately 500,000 tons (2021).", "Rehabilitation cost from 2007 to 2010: $30 million.", "Supports a fishing fleet of about 200 boats."],
     },
+    image: "/poi-images/liberia-buchanan-port-economic-v2.webp",
   },
   {
     id: "liberia-yekepa-mine-economic-v2",
@@ -93,6 +95,7 @@ export const liberiaEconomicV2: POI[] = [
       ro: ["Rezerve: 600 de milioane de tone de minereu de fier, cu un conținut de 62% Fe.", "Producție anuală: aproximativ 5 milioane de tone (2020).", "Mina ocupă o suprafață de 4 km².", "Calea ferată spre Buchanan: 250 km, construită în 1963.", "Număr de angajați: 3.000 direct, plus 10.000 indirect.", "Costul total al investiției ArcelorMittal: 1,5 miliarde de dolari."],
       en: ["Estimated reserves: 600 million tons of iron ore at 62% Fe.", "Annual production: 5 million tons (2020).", "Open-pit mine area: 4 square kilometers.", "Railway to Port of Buchanan: 250 km long, built in 1963.", "Workforce: 3,000 direct employees.", "ArcelorMittal's total investment: $1.5 billion."],
     },
+    image: "/poi-images/liberia-yekepa-mine-economic-v2.webp",
   },
   {
     id: "liberia-greenville-port-economic-v2",
@@ -124,6 +127,7 @@ export const liberiaEconomicV2: POI[] = [
       ro: ["Construit în 1965, cu finanțare americană.", "Lungimea cheiurilor: 400 de metri, adâncimea: 6 metri.", "Trafic anual: aproximativ 100.000 de tone.", "Reconstrucția postbelică a costat 15 milioane de dolari, fonduri chinezești.", "Portul exportă în principal lemn de abanos și mahon.", "Pescuitul local aduce 500 de tone de pește anual."],
       en: ["Built in 1965 as a fishing port.", "Quay length: 400 meters, depth: 6 meters.", "Annual cargo throughput: about 100,000 tons.", "Main exports: tropical timber, rubber, palm oil.", "Rehabilitation cost (2015-2017): $15 million from Chinese government.", "Annual dredging removes 200,000 cubic meters of silt."],
     },
+    image: "/poi-images/liberia-greenville-port-economic-v2.webp",
   },
   {
     id: "liberia-harbel-plantations-economic-v2",
@@ -155,6 +159,7 @@ export const liberiaEconomicV2: POI[] = [
       ro: ["Suprafața totală: 273.000 de hectare (echivalentul a 3.800 de terenuri de fotbal).", "Producție anuală: peste 80.000 de tone de cauciuc natural.", "Număr de angajați: 8.000 permanenți, 2.000 temporari.", "Contractul de concesiune: 99 de ani începând din 1926.", "Fabrica de procesare are o capacitate de 100.000 de tone pe an.", "Spitalul companiei deservește 50.000 de persoane din comunitate."],
       en: ["Founded in 1926 under a 99-year lease agreement.", "Current cultivated area: 273,000 hectares.", "Annual production: over 80,000 tons of natural rubber.", "Permanent workforce: 8,000 employees.", "Processing plant capacity: 100,000 tons per year.", "Company hospital: 120 beds serving the community."],
     },
+    image: "/poi-images/liberia-harbel-plantations-economic-v2.webp",
   },
   {
     id: "liberia-roberts-international-airport-economic-v2",
@@ -186,6 +191,7 @@ export const liberiaEconomicV2: POI[] = [
       ro: ["Construit în 1941 de armata americană, numit după locotenentul Robert H. Roberts.", "Lungimea pistei: 3.350 de metri, lățimea: 45 de metri.", "Pasageri anual: aproximativ 100.000 (2019).", "Costul modernizării: 50 de milioane de dolari (USAID).", "Aeroportul are o singură pistă principală.", "Numărul de zboruri săptămânale în 2022: 35."],
       en: ["Built in 1941 as a U.S. military airfield named Roberts Field.", "Runway length: 3,350 meters, width: 45 meters.", "Annual passengers: approximately 100,000 (2019).", "Renovation cost (2017-2022): $50 million funded by USAID.", "Elevation: 10 meters above sea level.", "Equipped with VOR/DME navigation and night lighting."],
     },
+    image: "/poi-images/liberia-roberts-international-airport-economic-v2.webp",
   },
   {
     id: "liberia-boni-mountain-iron-ore-v2",
@@ -217,6 +223,7 @@ export const liberiaEconomicV2: POI[] = [
       ro: ["Deschisă în 1965, cu o producție de vârf de 20 de milioane de tone anual.", "Rezerve: 300 de milioane de tone, conținut de fier de 65%.", "Cale ferată de 120 km către Monrovia.", "Achiziționată de China Union în 2008 pentru 1,2 miliarde de dolari.", "Angajează 4.000 de muncitori.", "Suprafața minei: 30 km²."],
       en: ["Opened in 1965, peak production of 20 million tons per year.", "Estimated reserves: 300 million tons at 65% iron.", "Railway to Monrovia: 120 km long.", "Acquired by China Union in 2008 for $1.2 billion.", "Workforce: 4,000 employees (2021).", "Mine area: 30 square kilometers."],
     },
+    image: "/poi-images/liberia-boni-mountain-iron-ore-v2.webp",
   },
   {
     id: "liberia-cavalla-river-hydro-v2",
@@ -248,6 +255,7 @@ export const liberiaEconomicV2: POI[] = [
       ro: ["Lungimea râului: 515 km.", "Potențial hidroelectric estimat: 1.050 MW.", "Înălțimea căderii Cavalla: 20 de metri.", "Bazinul hidrografic: 30.000 km².", "Debit mediu: 500 m³/s.", "Capacitatea planificată a barajului: 400 MW."],
       en: ["River length: 515 km.", "Estimated hydropower potential: 1,050 MW.", "Height of Cavalla Falls: 20 meters.", "Catchment area: 30,000 square kilometers.", "Average discharge: 500 cubic meters per second.", "Planned dam capacity: 400 MW (Cavalla Dam)."],
     },
+    image: "/poi-images/liberia-cavalla-river-hydro-v2.webp",
   },
   {
     id: "liberia-monrovia-industrial-park-v2",
@@ -279,6 +287,7 @@ export const liberiaEconomicV2: POI[] = [
       ro: ["Suprafață: 200 de hectare.", "Investiție totală: 100 de milioane de dolari.", "Număr de companii: 20 (2023).", "Locuri de muncă estimate: 10.000.", "Capacitate electrică instalată: 10 MW.", "Venituri fiscale anuale așteptate: 5 milioane de dolari."],
       en: ["Established in 2018, total area: 200 hectares.", "Total investment: $100 million.", "Number of businesses: 20 (as of 2023).", "Projected job creation: 10,000.", "Installed power capacity: 10 MW.", "Expected annual tax revenue: $5 million."],
     },
+    image: "/poi-images/liberia-monrovia-industrial-park-v2.webp",
   },
   {
     id: "liberia-grand-cassa-fishery-v2",
@@ -310,6 +319,7 @@ export const liberiaEconomicV2: POI[] = [
       ro: ["Captură anuală: 5.000 de tone.", "Principalele specii: ton (40%), macrou (30%), creveți (10%).", "Numărul ambarcațiunilor: 100, majoritatea canoe.", "Capacitate de procesare: 500 de tone/an.", "Contribuție economică: 2 milioane de dolari anual.", "Proiecte de acvacultură: 10 iazuri (2 ha)."],
       en: ["Annual catch: approximately 5,000 tons.", "Main species: tuna (40%), mackerel (30%), shrimp (10%).", "Number of fishing vessels: about 100, mostly canoes.", "Processing capacity: 500 tons per year.", "Local economic contribution: $2 million annually.", "Aquaculture projects: 10 ponds covering 2 hectares (2023)."],
     },
+    image: "/poi-images/liberia-grand-cassa-fishery-v2.webp",
   },
   {
     id: "liberia-zwedru-market-v2",
@@ -341,6 +351,7 @@ export const liberiaEconomicV2: POI[] = [
       ro: ["Număr de tarabe: peste 500.", "Produse principale: manioc (30%), orez (25%), legume (15%).", "Rază de deservire: 100 km.", "Zile de piață: miercuri și sâmbătă.", "Cifra de afaceri zilnică estimată: 50.000 de dolari.", "Populația orașului Zwedru: 30.000 de locuitori."],
       en: ["Number of stalls: over 500.", "Top products: cassava (30%), rice (25%), vegetables (15%).", "Catchment area: approximately 100 km radius.", "Market days: Wednesday and Saturday.", "Estimated daily turnover: $50,000.", "Population of Zwedru: about 30,000."],
     },
+    image: "/poi-images/liberia-zwedru-market-v2.webp",
   },
   {
     id: "liberia-tapeta-timber-site-v2",
@@ -372,6 +383,7 @@ export const liberiaEconomicV2: POI[] = [
       ro: ["Capacitate anuală: 50.000 de metri cubi de lemn.", "Operațional din 2012.", "Angajați: 500.", "Produse principale: cherestea (40%), placaj (30%), mobilă (20%).", "Export: China (60%), Europa (25%).", "Investiție chineză: 30 de milioane de dolari."],
       en: ["Annual processing capacity: 50,000 cubic meters.", "Commissioned: 2012.", "Workforce: 500 employees.", "Main products: lumber (40%), plywood (30%), furniture parts (20%).", "Export destinations: China (60%), Europe (25%).", "Chinese investment: $30 million."],
     },
+    image: "/poi-images/liberia-tapeta-timber-site-v2.webp",
   },
   {
     id: "liberia-nimba-mining-hub-v2",
@@ -403,6 +415,7 @@ export const liberiaEconomicV2: POI[] = [
       ro: ["Rezerve de minereu de fier: peste 1 miliard de tone.", "Aur: 5 tone confirmate.", "Diamante: estimate la 2 milioane de carate.", "Suprafața districtului: 1.500 km².", "Număr de mine active: 3 (2023).", "Producție anuală de fier: 10 milioane de tone."],
       en: ["Estimated iron ore reserves: over 1 billion tons.", "Gold resources: 5 tons confirmed (2022).", "Diamond resources: estimated 2 million carats.", "District area: 1,500 square kilometers.", "Active mines: 3 (as of 2023).", "Annual iron ore production: 10 million tons."],
     },
+    image: "/poi-images/liberia-nimba-mining-hub-v2.webp",
   },
   {
     id: "liberia-gbarnga-trade-center-v2",
@@ -434,6 +447,7 @@ export const liberiaEconomicV2: POI[] = [
       ro: ["Distanță de Monrovia: 180 km.", "Populație Gbarnga: 50.000.", "Produse principale: orez (30%), manioc (25%), ulei de palmier (15%).", "Număr de tarabe: 400.", "Cifra de afaceri anuală: 20 de milioane de dolari.", "Costul noii clădiri a pieței: 5 milioane de dolari."],
       en: ["Distance from Monrovia: 180 km.", "Population of Gbarnga: 50,000.", "Key products: rice (30%), cassava (25%), palm oil (15%).", "Number of market stalls: 400.", "Annual trade volume: $20 million.", "New market building cost: $5 million, funded by EU."],
     },
+    image: "/poi-images/liberia-gbarnga-trade-center-v2.webp",
   },
   {
     id: "liberia-kakata-commerce-zone-v2",
@@ -465,6 +479,7 @@ export const liberiaEconomicV2: POI[] = [
       ro: ["Distanța de Monrovia: 50 km.", "Populație: 35.000.", "Număr de tarabe: 300.", "Produse principale: ulei de palmier (30%), orez (25%), manioc (20%).", "Cifra de afaceri anuală: 15 milioane de dolari.", "Noua piață construită în 2021: cost de 2 milioane de dolari."],
       en: ["Distance from Monrovia: 50 km.", "Population: 35,000.", "Number of market stalls: 300.", "Top traded goods: palm oil (30%), rice (25%), cassava (20%).", "Annual trade value: $15 million.", "New market square built in 2021: cost $2 million."],
     },
+    image: "/poi-images/liberia-kakata-commerce-zone-v2.webp",
   },
   {
     id: "liberia-voinjama-cross-border-trade-v2",
@@ -496,6 +511,7 @@ export const liberiaEconomicV2: POI[] = [
       ro: ["Distanța până la granița cu Guineea: 10 km.", "Populația Voinjama: 25.000.", "Produse principale: orez (35%), animale (20%), cafea (15%).", "Valoarea anuală a comerțului transfrontalier: 10 milioane de dolari.", "Număr de tarabe: 200.", "Punct de frontieră: Foya-Kourémalé."],
       en: ["Distance to Guinean border: 10 km.", "Population of Voinjama: 25,000.", "Key trade goods: rice (35%), livestock (20%), coffee (15%).", "Estimated annual cross-border trade value: $10 million.", "Number of market stalls: 200.", "Border crossing: Foya-Kourémalé."],
     },
+    image: "/poi-images/liberia-voinjama-cross-border-trade-v2.webp",
   },
   {
     id: "liberia-cincinatti-plantations-v2",
@@ -527,6 +543,7 @@ export const liberiaEconomicV2: POI[] = [
       ro: ["Suprafață: 10.000 de hectare.", "Producție anuală: 20.000 t ulei de palmier, 5.000 t cauciuc.", "Investiție: 50 de milioane de dolari (olandeză).", "Angajați: 1.200.", "Certificare RSPO din 2018.", "Capacitatea morii de ulei: 30 t/h."],
       en: ["Cultivated area: 10,000 hectares.", "Annual production: 20,000 tons palm oil, 5,000 tons rubber.", "Investment: $50 million (Dutch).", "Workforce: 1,200 employees.", "RSPO certification since 2018.", "Palm oil mill capacity: 30 tons per hour."],
     },
+    image: "/poi-images/liberia-cincinatti-plantations-v2.webp",
   },
   {
     id: "liberia-webo-trade-hub-v2",
@@ -558,6 +575,7 @@ export const liberiaEconomicV2: POI[] = [
       ro: ["Populația Webo: 10.000.", "Distanța până la granița cu Coasta de Fildeș: 15 km.", "Principalele mărfuri: manioc (40%), orez (25%), carne (15%).", "Valoarea anuală a comerțului: 5 milioane de dolari.", "Număr de tarabe: 150.", "Noua piață planificată: cost de 1 milion de dolari."],
       en: ["Population of Webo: 10,000.", "Distance to Ivorian border: 15 km.", "Key trade goods: cassava (40%), rice (25%), meat (15%).", "Estimated annual trade value: $5 million.", "Number of market stalls: 150.", "Planned new market cost: $1 million."],
     },
+    image: "/poi-images/liberia-webo-trade-hub-v2.webp",
   },
   {
     id: "liberia-harper-port-v2",
@@ -589,6 +607,7 @@ export const liberiaEconomicV2: POI[] = [
       ro: ["Fondat la Cape Palmas.", "Modernizarea portului a avut loc în 1960.", "Punct important de export pentru cauciuc natural.", "Al doilea cel mai important port din sud-estul Liberiei.", "Reședința comitatului Maryland.", "Aproape de granița cu Coasta de Fildeș."],
       en: ["Founded at Cape Palmas.", "Modernization of the port occurred in 1960.", "Key export point for natural rubber.", "Second most important port in southeast Liberia.", "Administrative seat of Maryland County.", "Close proximity to the Ivory Coast border."],
     },
+    image: "/poi-images/liberia-harper-port-v2.webp",
   },
   {
     id: "liberia-saniquellie-trade-v2",
@@ -620,6 +639,7 @@ export const liberiaEconomicV2: POI[] = [
       ro: ["Capitala comitatului Nimba.", "Locul de fondare al OUA la 19 iulie 1959.", "Piață pentru cafea, cacao și orez.", "Situat lângă muntele Nimba.", "Există o legătură feroviară către portul Buchanan.", "Poziție strategică la punctul de întâlnire a trei țări."],
       en: ["Capital of Nimba County.", "Birthplace of the OAU on July 19, 1959.", "Trade hub for coffee, cocoa, and rice.", "Located near Mount Nimba.", "Railway connection to the Port of Buchanan exists.", "Strategic location near the tri-border area."],
     },
+    image: "/poi-images/liberia-saniquellie-trade-v2.webp",
   },
   {
     id: "liberia-tubmanburg-mining-support-v2",
@@ -651,6 +671,7 @@ export const liberiaEconomicV2: POI[] = [
       ro: ["Rezervele de minereu de fier sunt estimate la 100 de milioane de tone.", "Exploatarea a început în 1951 de către Liberia Mining Company.", "Calea ferată minieră avea o lungime de 64 km.", "Productia anuală maximă a fost de 5 milioane de tone.", "Orașul Tubmanburg are o populație de 13.000 de locuitori.", "Mina a fost închisă în 1990 din cauza războiului civil."],
       en: ["The Tubmanburg mine operated from 1951 to 1990.", "Peak annual production was 5 million tons of iron ore.", "Ore grade averaged 60% iron content.", "The site includes a 64 km railway to the port of Monrovia.", "Estimated remaining reserves exceed 100 million tons.", "The mine employed up to 4,000 workers in its heyday."],
     },
+    image: "/poi-images/liberia-tubmanburg-mining-support-v2.webp",
   },
   {
     id: "liberia-marshall-fishery-center-v2",
@@ -682,6 +703,7 @@ export const liberiaEconomicV2: POI[] = [
       ro: ["Centrul a fost construit în 1976 cu ajutor chinezesc.", "Capacitatea zilnică de procesare este de 10 tone.", "Depozitele frigorifice au o capacitate totală de 500 de tone.", "Dana poate găzdui 30 de ambarcațiuni.", "Centrul angajează aproximativ 500 de persoane.", "Suprafața totală a facilității este de 2 hectare."],
       en: ["Marshall Fishery Center opened in 1976.", "Daily processing capacity is 10 tons of fish.", "Cold storage capacity totals 500 tons.", "The jetty accommodates 30 fishing boats.", "It provides 500 direct jobs.", "The facility covers 2 hectares of land."],
     },
+    image: "/poi-images/liberia-marshall-fishery-center-v2.webp",
   },
   {
     id: "liberia-pleebo-trading-post-v2",
@@ -713,6 +735,7 @@ export const liberiaEconomicV2: POI[] = [
       ro: ["Piața funcționează în fiecare sâmbătă.", "Orașul Pleebo are aproximativ 25.000 de locuitori.", "Volumul comercial lunar este estimat la 500 de tone de produse agricole.", "Granița cu Coasta de Fildeș se află la 5 km distanță.", "Există peste 200 de tarabe permanente.", "Piața există de la începutul anilor 1950."],
       en: ["Pleebo market is held every Saturday.", "Pleebo's population is around 25,000.", "Monthly trade volume is estimated at 500 tons of agricultural goods.", "The border with Côte d'Ivoire is 5 km away.", "Over 200 permanent stalls are on site.", "The market has operated since the 1950s."],
     },
+    image: "/poi-images/liberia-pleebo-trading-post-v2.webp",
   },
   {
     id: "liberia-douala-river-transport-v2",
@@ -744,6 +767,7 @@ export const liberiaEconomicV2: POI[] = [
       ro: ["Râul Douala are o lungime de 120 km.", "Portul manipulează anual 10.000 de tone de marfă.", "Adâncimea apei în sezonul secetos este de 1,5 metri.", "Există 5 pontoane.", "Portul a fost construit în anii 1960.", "Zona deservită are o populație de 200.000 de locuitori."],
       en: ["The Douala River is 120 km long.", "Annual cargo throughput is 10,000 tons.", "Water depth ranges from 1.5 to 3 meters.", "There are 5 docking points.", "The port was built in the 1960s.", "It serves a region of 200,000 people."],
     },
+    image: "/poi-images/liberia-douala-river-transport-v2.webp",
   },
   {
     id: "liberia-bolahun-market-v2",
@@ -775,6 +799,7 @@ export const liberiaEconomicV2: POI[] = [
       ro: ["Piața se ține în fiecare miercuri.", "Bolahun are aproximativ 10.000 de locuitori.", "Piața atrage până la 3.000 de vizitatori.", "Orașul se află la 30 km de granița cu Guineea.", "Volumul comercial anual este estimat la 300 de tone.", "Piața funcționează din anii 1920."],
       en: ["Bolahun market is held every Wednesday.", "Bolahun's population is approximately 10,000.", "The market attracts up to 3,000 visitors.", "It is 30 km from the Guinea border.", "Annual trade volume is estimated at 300 tons.", "The market has been operating since the 1920s."],
     },
+    image: "/poi-images/liberia-bolahun-market-v2.webp",
   },
   {
     id: "liberia-ganta-trade-v2",
@@ -806,6 +831,7 @@ export const liberiaEconomicV2: POI[] = [
       ro: ["Ganta are aproximativ 60.000 de locuitori.", "Terminalul a fost renovat în 2008.", "Suprafața pieței este de 10 hectare.", "Zilnic, 500 de camioane tranzitează terminalul.", "Distanța până la granița cu Guineea este de 80 km.", "Volumul comercial anual este estimat la 200 de milioane de dolari."],
       en: ["Ganta has a population of 60,000.", "The terminal was renovated in 2008.", "Market area covers 10 hectares.", "500 trucks use the terminal daily.", "It is 80 km from the Guinea border.", "Annual trade volume is estimated at $200 million."],
     },
+    image: "/poi-images/liberia-ganta-trade-v2.webp",
   },
   {
     id: "liberia-fish-town-economic-zone-v2",
@@ -837,6 +863,7 @@ export const liberiaEconomicV2: POI[] = [
       ro: ["Zona se întinde pe 100 de hectare.", "Proiectul a fost lansat în 2015.", "Investițiile planificate sunt de 50 de milioane de dolari.", "Fish Town are aproximativ 8.000 de locuitori.", "Zona se află la 10 km de granița cu Coasta de Fildeș.", "Se estimează crearea a 2.000 de locuri de muncă."],
       en: ["The zone spans 100 hectares.", "The project was launched in 2015.", "Planned investments total $50 million.", "Fish Town's population is about 8,000.", "It is 10 km from the Ivorian border.", "An estimated 2,000 jobs will be created."],
     },
+    image: "/poi-images/liberia-fish-town-economic-zone-v2.webp",
   },
   {
     id: "liberia-salala-farm-center-v2",
@@ -868,6 +895,7 @@ export const liberiaEconomicV2: POI[] = [
       ro: ["Centrul a fost fondat în 1965.", "Are 50 de hectare de câmpuri experimentale.", "Producția anuală de orez este de 200 de tone.", "500 de fermieri sunt instruiți anual.", "Centrul dispune de 10 depozite.", "Efectivele de animale includ 100 de vaci și 200 de capre."],
       en: ["The center was founded in 1965.", "It has 50 hectares of experimental fields.", "Annual rice production is 200 tons.", "500 farmers are trained per year.", "There are 10 storage facilities.", "Livestock includes 100 cattle and 200 goats."],
     },
+    image: "/poi-images/liberia-salala-farm-center-v2.webp",
   },
   {
     id: "liberia-konia-trade-v2",
@@ -899,5 +927,6 @@ export const liberiaEconomicV2: POI[] = [
       ro: ["Piața funcționează marțea și vinerea.", "Konia are aproximativ 5.000 de locuitori.", "Granița cu Sierra Leone se află la 10 km.", "Volumul comercial anual este de 500 de tone de cafea și cacao.", "Piața există din 1970.", "Sunt 150 de tarabe permanente."],
       en: ["Market days are Tuesday and Friday.", "Konia's population is about 5,000.", "The Sierra Leone border is 10 km away.", "Annual trade volume is 500 tons of coffee and cocoa.", "The market has operated since 1970.", "There are 150 permanent stalls."],
     },
+    image: "/poi-images/liberia-konia-trade-v2.webp",
   }
 ];

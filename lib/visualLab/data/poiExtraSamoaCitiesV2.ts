@@ -31,6 +31,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Servește ca capitală și cel mai mare oraș al Statului Independent Samoa.", "Situat pe coasta central-nordică a insulei Upolu.", "Fondat ca așezare modernă în anii 1840 de către comercianții europeni.", "Găzduiește Muzeul Robert Louis Stevenson la fostul său domeniu, Vailima.", "Portul orașului este principala poartă pentru comerțul internațional al Samoei.", "Prezintă Catedrala Mulivai, distinctivă, reconstruită în 2014."],
       en: ["Serves as the capital and largest city of the Independent State of Samoa.", "Located on the central northern coast of Upolu Island.", "Established as a modern settlement in the 1840s by European traders.", "Home to the Robert Louis Stevenson Museum at his former estate, Vailima.", "The city's port is the primary gateway for Samoa's international trade.", "Features the distinctive Mulivai Catholic Cathedral, rebuilt in 2014."],
     },
+    image: "/poi-images/samoa-apia-cities-v2.webp",
   },
   {
     id: "samoa-vaitele-cities-v2",
@@ -62,6 +63,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Considerată cea mai mare zonă industrială din Statul Independent Samoa.", "Situată în districtul Tuamasaga, la vest de centrul orașului Apia.", "Găzduiește berăria Vailima, care produce berea națională a Samoei.", "A înregistrat una dintre cele mai rapide creșteri ale populației în ultimii 20 de ani.", "Reprezintă o locație importantă pentru centrele de vânzare cu ridicata și distribuție.", "Așezarea este situată direct pe drumul principal către Aeroportul Internațional Faleolo."],
       en: ["Considered the largest industrial area in the Independent State of Samoa.", "Located in the Tuamasaga district, west of central Apia.", "Home to the Vailima Brewery, which produces Samoa's national beer.", "Recorded some of the fastest population growth in the last 20 years.", "A major hub for wholesale and distribution centers.", "The settlement is situated directly on the main road to Faleolo International Airport."],
     },
+    image: "/poi-images/samoa-vaitele-cities-v2.webp",
   },
   {
     id: "samoa-faleasiu-cities-v2",
@@ -93,6 +95,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Situat în districtul politic A'ana de pe insula Upolu.", "Face parte din cele mai populate sate tradiționale din Samoa.", "Constă din sub-sate precum Sapulu, Levaula și Moamoa.", "Deține o biserică istorică LMS cu o fațadă albă distinctivă.", "Se află la aproximativ 15 kilometri vest de capitala Apia.", "Economia locală se bazează în mare parte pe agricultură și pescuit."],
       en: ["Located in the political district of A'ana on Upolu Island.", "One of the most populous traditional villages in Samoa.", "Consists of sub-villages such as Sapulu, Levaula, and Moamoa.", "Features a historic LMS church with a prominent white facade.", "Situated approximately 15 kilometers west of the capital, Apia.", "The local economy is heavily based on agriculture and fishing."],
     },
+    image: "/poi-images/samoa-faleasiu-cities-v2.webp",
   },
   {
     id: "samoa-vailele-cities-v2",
@@ -124,6 +127,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["A fost locul unor bătălii majore în Războaiele Samoane din 1889 și 1899.", "Găzduiește o stațiune experimentală de stat pentru culturile de cocos și cacao.", "Situat în districtul Vaimauga East, imediat la est de Apia.", "Regiunea a fost istoric un centru pentru plantațiile germane de cocos.", "Deține movile funerare samoane antice (Mounds) în împrejurimi.", "Cunoscut pentru echipele sale de rugby și sport de succes la nivel național."],
       en: ["Site of major battles during the Samoan Wars in 1889 and 1899.", "Hosts a government experimental station for coconut and cocoa crops.", "Located in the Vaimauga East district, immediately east of Apia.", "The region was historically a center for German coconut plantations.", "Features ancient Samoan earth burial mounds (mounds) in the vicinity.", "Known for its successful rugby and sports teams at the national level."],
     },
+    image: "/poi-images/samoa-vailele-cities-v2.webp",
   },
   {
     id: "samoa-leauvaa-cities-v2",
@@ -155,6 +159,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Situat pe coasta de nord-vest a insulei Upolu din Samoa.", "Fondat de refugiați din Savai'i după erupția Matavanu (1905–1911).", "Numele se traduce prin 'oamenii de pe barcă' sau 'echipajul bărcii'.", "Menține legături politice cu districtul Gaga'emauga, în ciuda locației pe Upolu.", "Cunoscut pentru biserica sa catolică mare și proeminentă din centrul satului.", "Zonele de așezare au soluri vulcanice fertile pentru cultivarea taro."],
       en: ["Located on the northwestern coast of Upolu Island in Samoa.", "Founded by refugees from Savai'i following the 1905-1911 Matavanu eruption.", "The village name literally translates to 'the people from the boat.'", "Maintains strong cultural and administrative ties to its original Savai'i districts.", "Known for its large and prominent Catholic church within the community.", "The settlement area is characterized by fertile volcanic soils used for farming."],
     },
+    image: "/poi-images/samoa-leauvaa-cities-v2.webp",
   },
   {
     id: "samoa-faleula-cities-v2",
@@ -186,6 +191,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Faleula se află pe insula Upolu, în cadrul districtului Tuamasaga.", "Localitatea este parte a circumscripției electorale Sagaga Le Falefa.", "Este situată la o distanță de aproximativ 5 kilometri vest de Apia.", "Satul găzduiește o biserică metodistă impunătoare, punct de reper local.", "Populația satului a crescut semnificativ datorită proximității de capitală.", "Se află pe ruta principală Main West Coast Road, care leagă Apia de aeroport."],
       en: ["Faleula is located in the Tuamasaga district on Upolu island.", "The settlement is part of the Sagaga Le Falefa electoral district.", "It is situated approximately 5 kilometers west of the capital, Apia.", "The village features a prominent Methodist Church of Samoa complex.", "Population growth is driven by its role in the Apia urban area.", "Faleula is positioned directly on the Main West Coast Road highway."],
     },
+    image: "/poi-images/samoa-faleula-cities-v2.webp",
   },
   {
     id: "samoa-siusega-cities-v2",
@@ -217,6 +223,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Siusega face parte din aria metropolitană a orașului Apia.", "Localitatea este situată administrativ în districtul Tuamasaga.", "Centrul Tehnic Don Bosco este o instituție de învățământ de renume din zonă.", "Găzduiește o catedrală catolică impunătoare care servește comunitatea locală.", "Se află la mică distanță de complexul sportiv Tuanaimato.", "Populația a cunoscut o creștere explozivă începând cu anii 2000."],
       en: ["Siusega is part of the greater Apia urban area on Upolu.", "It is administratively located within the Tuamasaga district.", "The Don Bosco Technical Centre is a major educational landmark in Siusega.", "The area is home to a significant Catholic cathedral complex.", "Siusega is located adjacent to the Tuanaimato Sports Complex.", "The population has increased sharply since 2000 due to residential development."],
     },
+    image: "/poi-images/samoa-siusega-cities-v2.webp",
   },
   {
     id: "samoa-malie-cities-v2",
@@ -248,6 +255,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Malie este satul principal administrativ al circumscripției Sagaga le Falefa.", "Se află la o distanță de circa 10 kilometri vest de capitala Apia.", "Este cunoscut ca fiind sediul tradițional pentru titlul nobiliar Malietoa.", "Satul este situat direct pe malul Oceanului Pacific, pe coasta de nord a Upolu.", "Găzduiește una dintre cele mai mari piețe ceremoniale (Malae) din regiune.", "Agricultura locală se concentrează pe cultivarea de taro și cacao."],
       en: ["Malie serves as the main administrative village for the Sagaga le Falefa district.", "It is located approximately 10 kilometers west of the capital city, Apia.", "The village is traditionally associated with the high-ranking Malietoa title.", "It is situated directly on the Pacific coast of northern Upolu island.", "Malie features one of the region's largest ceremonial meeting grounds (Malae).", "Local economic activity includes the cultivation of taro and cocoa crops."],
     },
+    image: "/poi-images/samoa-malie-cities-v2.webp",
   },
   {
     id: "samoa-fasitoo-uta-cities-v2",
@@ -279,6 +287,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Fasito'o Uta este situat în districtul Aana de pe insula Upolu.", "Localitatea se află aproximativ la jumătatea distanței dintre Apia și Aeroportul Faleolo.", "Se învecinează cu centrul istoric important Leulumoega.", "Satul este renumit pentru arhitectura sa religioasă monumentală.", "Agricultura locală este specializată în producția de taro și copra pentru export.", "Joacă un rol semnificativ în procesele electorale din regiunea Aana."],
       en: ["Fasito'o Uta is located in the Aana district on the island of Upolu.", "The village is situated roughly midway between Apia and Faleolo Airport.", "It is in close proximity to the historic center of Leulumoega.", "The settlement is known for its magnificent church buildings of various denominations.", "Local farming focuses heavily on the production of taro and copra.", "Fasito'o Uta is a key player in the political dynamics of the Aana region."],
     },
+    image: "/poi-images/samoa-fasitoo-uta-cities-v2.webp",
   },
   {
     id: "samoa-vaiusu-cities-v2",
@@ -310,6 +319,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Vaiusu este situat pe malul golfului cu același nume, la vest de Apia.", "Satul se învecinează cu una dintre cele mai mari zone de mangrove din Samoa.", "Administrativ, localitatea aparține districtului Tuamasaga.", "Este un centru recunoscut pentru construcția tradițională de canoe.", "Localitatea găzduiește o parohie catolică activă și influentă.", "Planurile pentru construcția unui nou port comercial în golful Vaiusu sunt subiect de interes național."],
       en: ["Vaiusu is situated on the shores of Vaiusu Bay, directly west of Apia.", "The village is adjacent to one of the largest mangrove ecosystems in Samoa.", "It is administratively part of the Tuamasaga district.", "Vaiusu is a local hub for traditional canoe building and craftsmanship.", "The settlement features a prominent and active Catholic parish.", "Proposed plans for a major commercial port in Vaiusu Bay have been a long-standing national topic."],
     },
+    image: "/poi-images/samoa-vaiusu-cities-v2.webp",
   },
   {
     id: "samoa-afega-cities-v2",
@@ -341,6 +351,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Afega este satul principal al districtului electoral Sagaga le Falefa.", "Localitatea se află la aproximativ 9 kilometri nord-vest de Apia.", "Din punct de vedere istoric, Afega a fost un centru activ al mișcării Mau.", "Satul găzduiește sediul administrației raionale și instanțe locale.", "În localitate funcționează un colegiu prestigios aparținând bisericii LDS.", "Linia de coastă a satului este protejată de o barieră naturală de corali."],
       en: ["Afega serves as the principal village for the Sagaga le Falefa district.", "It is located approximately 9 kilometers northwest of Apia.", "Historically, Afega was an important center for the Mau resistance movement.", "The village houses the district administration and local judiciary offices.", "Afega is home to a well-known LDS Church college.", "The coastline of Afega is naturally protected by an offshore coral reef system."],
     },
+    image: "/poi-images/samoa-afega-cities-v2.webp",
   },
   {
     id: "samoa-nuu-cities-v2",
@@ -372,6 +383,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Nuu este situat în interior, la sud de drumul principal Main West Coast Road.", "Găzduiește Centrul de Cercetare Agricolă din Samoa (Samoa Agriculture Research Center).", "A fost conceput ca zonă rezidențială modernă pentru a descongestiona capitala Apia.", "Se află în imediata vecinătate a zonei industriale Vaitele.", "Localitatea este situată la o altitudine de aproximativ 50-100 de metri.", "Nuu beneficiază de una dintre cele mai moderne rețele de alimentare cu apă de pe insulă."],
       en: ["Nuu is located inland, south of the Main West Coast Road highway.", "The settlement is home to the Samoa Agriculture Research Center facility.", "Nuu was developed as a modern residential hub to reduce congestion in Apia.", "It is situated near the major Vaitele Industrial area.", "The elevation of Nuu ranges between 50 and 100 meters above sea level.", "Nuu features some of the most modern water management infrastructure on Upolu."],
     },
+    image: "/poi-images/samoa-nuu-cities-v2.webp",
   },
   {
     id: "samoa-solosolo-cities-v2",
@@ -403,6 +415,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Solosolo se află la aproximativ 15 kilometri est de Apia, în districtul Atua.", "Satul este renumit pentru plaja sa cu nisip negru de origine vulcanică.", "Locul de surf din Solosolo atrage sportivi internaționali în regiune.", "Râul Namo traversează satul și se varsă în golful local.", "În dealurile de deasupra satului se găsesc mai multe bazine naturale cu apă dulce.", "Localitatea deține una dintre cele mai impunătoare biserici congregaționale de pe insulă."],
       en: ["Solosolo is located about 15 kilometers east of Apia in the Atua district.", "The village is famous for its black sand beach of volcanic origin.", "The Solosolo surf break is a known spot for international water sports enthusiasts.", "The Namo River flows through the village and empties into the local bay.", "Natural freshwater pools can be found in the hills surrounding Solosolo.", "The settlement features one of the most distinctive Congregational churches on Upolu."],
     },
+    image: "/poi-images/samoa-solosolo-cities-v2.webp",
   },
   {
     id: "samoa-lufilufi-cities-v2",
@@ -434,6 +447,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Lufilufi este centrul politic tradițional al districtului Atua.", "Localitatea se află la aproximativ 25 de kilometri est de capitala Apia.", "Găzduiește situl istoric memorial Mulinu'u.", "Colegiul Teologic Piula este situat în imediata vecinătate a satului.", "Satul este renumit pentru catedrala sa catolică impunătoare.", "Joacă un rol central în procesiunea de acordare a titlurilor nobiliare înalte."],
       en: ["Lufilufi is the traditional political heart of the Atua district.", "The village is situated approximately 25 kilometers east of Apia.", "It is home to the significant historical Mulinu'u memorial site.", "The Piula Theological College is located very close to the village boundaries.", "The settlement features a large and architecturally significant Catholic cathedral.", "Lufilufi plays a central role in the selection and hosting of high paramount titles."],
     },
+    image: "/poi-images/samoa-lufilufi-cities-v2.webp",
   },
   {
     id: "samoa-falefa-cities-v2",
@@ -465,6 +479,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Falefa este situat la gura de vărsare a râului Falefa, în districtul Atua.", "Cascadele Falefa reprezintă o atracție naturală celebră aflată chiar în sat.", "Localitatea a fost istoric un punct defensiv esențial pentru regiunea Atua.", "Biserica Creștină Congregațională din Samoa este un punct de reper local.", "Falefa este renumit pentru solurile fertile din Valea Falefa.", "Drumul de coastă traversează un pod istoric situat chiar lângă căderea de apă."],
       en: ["Falefa is positioned at the mouth of the Falefa River in the Atua district.", "The Falefa Falls are a well-known natural attraction located within the village.", "Historically, the village served as a key defensive point for the Atua region.", "The local Congregational Christian Church is a significant architectural landmark.", "Falefa is celebrated for the highly fertile lands of the surrounding valley.", "The main coastal road passes over a historic bridge right next to the waterfall."],
     },
+    image: "/poi-images/samoa-falefa-cities-v2.webp",
   },
   {
     id: "samoa-luatuanuu-cities-v2",
@@ -496,6 +511,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Luatuanu'u se află la aproximativ 12 kilometri est de capitala Apia.", "Satul a fost locul unor bătălii importante în timpul războiului civil samoan din 1889.", "Munții din spatele satului ating înălțimi de peste 400 de metri.", "Drumul de coastă este deosebit de vulnerabil aici la eroziune și acțiunea valurilor.", "În Luatuanu'u există o sală de adunări importantă pentru șefii Matai.", "Pescarii locali utilizează mici porturi naturale formate între recife."],
       en: ["Luatuanu'u is located approximately 12 kilometers east of Apia.", "The village was the site of significant battles during the Samoan Civil War in 1889.", "The mountains rising behind the village reach elevations over 400 meters.", "The coastal road here is notably susceptible to erosion and tidal action.", "Luatuanu'u features a major ceremonial meeting hall for village chiefs.", "Local fishermen utilize small natural inlets between the coral reefs."],
     },
+    image: "/poi-images/samoa-luatuanuu-cities-v2.webp",
   },
   {
     id: "samoa-saleimoa-cities-v2",
@@ -527,6 +543,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Saleimoa se află la aproximativ 15 kilometri vest de Apia.", "Localitatea include subdiviziuni precum Levi, Alamutu și Nonoa.", "Saleimoa este un centru important pentru creșterea păsărilor în Samoa.", "Drumul principal Main West Coast Road traversează întreaga așezare.", "În Saleimoa funcționează mai multe școli primare care deservesc regiunea.", "Coasta din dreptul Saleimoa este cunoscută pentru lagunele sale puțin adânci."],
       en: ["Saleimoa is located approximately 15 kilometers west of Apia.", "The settlement includes sub-villages such as Levi, Alamutu, and Nonoa.", "Saleimoa is a major center for poultry farming within Samoa.", "The Main West Coast Road highway runs through the entire length of the settlement.", "Saleimoa is home to several primary schools serving the local region.", "The coastline near Saleimoa is noted for its shallow and calm lagoons."],
     },
+    image: "/poi-images/samoa-saleimoa-cities-v2.webp",
   },
   {
     id: "samoa-samatau-cities-v2",
@@ -558,6 +575,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Samatau este situat în extremitatea sud-vestică a insulei Upolu.", "Localitatea aparține circumscripției electorale Aana Alofi Nr. 3.", "Samatau este renumit pentru rogojinile 'Ie Toga' de înaltă calitate, țesute manual.", "Satul se află în apropierea golfului pitoresc Falelatai.", "Populația trăiește preponderent din agricultura de subzistență.", "Samatau deține un debarcader istoric folosit de ambarcațiunile de pescuit."],
       en: ["Samatau is located at the far southwestern edge of Upolu island.", "The settlement is part of the Aana Alofi No. 3 electoral constituency.", "Samatau is famous for its high-quality hand-woven 'Ie Toga' mats.", "The village is situated near the scenic Falelatai Bay area.", "The population relies primarily on subsistence farming and fishing.", "Samatau maintains a historic landing site for local fishing boats."],
     },
+    image: "/poi-images/samoa-samatau-cities-v2.webp",
   },
   {
     id: "samoa-mulifanua-cities-v2",
@@ -589,6 +607,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Mulifanua găzduiește terminalul de feribot către insula Savai'i.", "În bazinul portuar au fost descoperite fragmente ceramice importante ale culturii Lapita.", "Localitatea se află la aproximativ 5 kilometri de Aeroportul Internațional Faleolo.", "În Mulifanua este situat complexul Sheraton Samoa Beach Resort.", "Istoric, Mulifanua a făcut parte din vastele plantații coloniale 'DHPG'.", "Satul este situat direct pe malul strâmtorii Apolima."],
       en: ["Mulifanua is home to the main ferry terminal for travel to Savai'i island.", "Significant Lapita culture pottery shards were discovered in the harbor area.", "The village is located roughly 5 kilometers from Faleolo International Airport.", "Mulifanua hosts the prominent Sheraton Samoa Beach Resort.", "Historically, the area was a key component of the massive 'DHPG' plantations.", "The settlement is positioned directly on the Apolima Strait coastline."],
     },
+    image: "/poi-images/samoa-mulifanua-cities-v2.webp",
   },
   {
     id: "samoa-salelologa-cities-v2",
@@ -620,6 +639,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Salelologa este cea mai mare așezare de pe insula Savai'i.", "Găzduiește singurul terminal mare de feribot de pe insulă.", "Piața Salelologa este cel mai important centru comercial pentru Savai'i.", "Aici se află capătul de linie pentru toate rutele de autobuz de pe insulă.", "În Salelologa funcționează singura filială a Curții Supreme de pe insula Savai'i.", "Orașul este situat în estul insulei, lângă o lagună naturală vastă."],
       en: ["Salelologa is the largest settlement on the island of Savai'i.", "It hosts the island's only major roll-on/roll-off ferry terminal.", "The Salelologa Market is the primary trade and commerce hub for Savai'i residents.", "It serves as the central terminus for all public bus routes on the island.", "Salelologa contains the only branch of the Supreme Court of Samoa on Savai'i.", "The town is positioned on the eastern coast adjacent to a large natural lagoon."],
     },
+    image: "/poi-images/samoa-salelologa-cities-v2.webp",
   },
   {
     id: "samoa-safotulafai-cities-v2",
@@ -651,6 +671,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Safotulafai este locul de naștere al mișcării de rezistență Mau împotriva puterii coloniale.", "Satul este centrul politic tradițional al districtului Fa'asaleleaga.", "Este una dintre cele șase locații 'Pule' de pe Savai'i, cu autoritate oratorică ridicată.", "Lauaki Namulau'ulu Mamoe, un orator celebru, provenea din acest sat.", "Așezarea este situată strategic în apropierea terminalului de feribot din Salelologa.", "Economia locală se bazează în mare măsură pe cultivarea de taro și nuci de cocos."],
       en: ["Safotulafai is the birthplace of the Mau resistance movement against colonial rule.", "The village serves as the traditional political center of the Fa'asaleleaga district.", "It is one of the six 'Pule' sites on Savai'i, holding significant oratorical authority.", "Lauaki Namulau'ulu Mamoe, a famous Samoan orator, was from this village.", "The settlement is strategically located near the Salelologa ferry terminal.", "Local subsistence is primarily based on the cultivation of taro and coconuts."],
     },
+    image: "/poi-images/samoa-safotulafai-cities-v2.webp",
   },
   {
     id: "samoa-sapapalii-cities-v2",
@@ -682,6 +703,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["John Williams a debarcat la Sapapali'i pe 24 august 1830.", "Satul a fost sediul lui Malietoa Vainu'upo, conducătorul de la acea vreme.", "Un monument mare de piatră din sat comemorează sosirea creștinismului.", "Sapapali'i aparține districtului tradițional Fa'asaleleaga.", "Prima biserică creștină din Samoa a fost stabilită în această zonă.", "Satul celebrează anual data de 24 august ca o zi importantă de comemorare."],
       en: ["John Williams landed at Sapapali'i on August 24, 1830.", "The village was the seat of Malietoa Vainu'upo, the paramount chief of the time.", "A large stone monument in the village commemorates the arrival of Christianity.", "Sapapali'i is part of the traditional Fa'asaleleaga district.", "The first Christian mission in Samoa was established in this vicinity.", "The village celebrates August 24 annually as a major commemorative event."],
     },
+    image: "/poi-images/samoa-sapapalii-cities-v2.webp",
   },
   {
     id: "samoa-puapua-cities-v2",
@@ -713,6 +735,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Pu'apu'a este situat la aproximativ 15 kilometri nord de localitatea principală Salelologa.", "Satul este cunoscut pentru ecosistemele sale de coastă bine conservate.", "Agricultura este sursa primară de venit pentru familiile locale.", "Arta tradițională a țesutului, în special 'Ie Toga', este încă practicată aici.", "Comunitatea aparține circumscripției electorale Fa'asaleleaga 4.", "Satul are acces la surse naturale de apă dulce în munții din apropiere."],
       en: ["Pu'apu'a is located approximately 15 kilometers north of the main town Salelologa.", "The village is known for its well-preserved coastal ecosystems.", "Agriculture is the primary source of income for local families.", "Traditional weaving, especially 'Ie Toga', is still practiced here.", "The community is part of the Fa'asaleleaga 4 electoral constituency.", "The village has access to natural freshwater springs in the nearby mountains."],
     },
+    image: "/poi-images/samoa-puapua-cities-v2.webp",
   },
   {
     id: "samoa-asau-cities-v2",
@@ -744,6 +767,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Portul din Asau a fost adâncit artificial pentru a primi nave mari.", "Asau a fost al doilea cel mai important port din Samoa în anii 1970.", "Regiunea este cunoscută pentru cultivarea de cacao și cafea de înaltă calitate.", "Aeroportul Asau oferă conexiuni pentru zboruri charter mici.", "În apropiere se află rampele istorice pentru canoe din Vaisigano.", "Satul este situat într-o zonă cu activitate geotermală ridicată."],
       en: ["The harbor of Asau was artificially deepened to accommodate large vessels.", "Asau was Samoa's second most important port during the 1970s.", "The region is renowned for the production of high-quality cocoa and coffee.", "Asau Airport provides connections for small charter flights.", "Nearby are the historic canoe ramps of the Vaisigano district.", "The village is situated in a zone with significant geothermal activity."],
     },
+    image: "/poi-images/samoa-asau-cities-v2.webp",
   },
   {
     id: "samoa-safotu-cities-v2",
@@ -775,6 +799,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Safotu este una dintre cele mai mari localități din districtul Gaga'ifomauga.", "Satul găzduiește clinica spitalului districtual Safotu.", "Este un centru educațional important, incluzând Școala Primară Safotu.", "Coasta este cunoscută pentru bazinele naturale cu apă de mare.", "În Safotu există situri arheologice semnificative ale unor vechi așezări.", "Satul este un centru pentru exportul de copra în regiune."],
       en: ["Safotu is one of the largest settlements in the Gaga'ifomauga district.", "The village is home to the Safotu District Hospital clinic.", "It serves as a significant educational hub with Safotu Primary School.", "The coast is famous for its natural saltwater swimming pools.", "Safotu contains important archaeological sites of ancient settlements.", "The village is a focal point for copra production and export in the region."],
     },
+    image: "/poi-images/samoa-safotu-cities-v2.webp",
   },
   {
     id: "samoa-fagamalo-cities-v2",
@@ -806,6 +831,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Fagamalo a fost sediul administratorului insulei germane între 1900 și 1914.", "Satul are un oficiu poștal istoric din perioada colonială.", "Este situat direct la marginea fluxurilor de lavă ale muntelui Matavanu.", "În Fagamalo se află un centru cunoscut pentru protecția țestoaselor.", "Reciful din fața localității Fagamalo este una dintre cele mai bune zone de scufundări din Savai'i.", "Satul este o bază importantă pentru poliția samoană de pe insulă."],
       en: ["Fagamalo served as the seat of the German island administrator from 1900 to 1914.", "The village features a historic post office dating back to the colonial era.", "It is situated directly at the edge of the Mt. Matavanu lava flows.", "Fagamalo is home to a well-known turtle conservation and sanctuary center.", "The reef in front of Fagamalo is considered one of Savai'i's top diving spots.", "The village serves as a strategic base for the Samoan police force on the island."],
     },
+    image: "/poi-images/samoa-fagamalo-cities-v2.webp",
   },
   {
     id: "samoa-satoalepai-cities-v2",
@@ -837,6 +863,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Sato'alepai este renumit pentru posibilitatea de a înota cu țestoasele verzi.", "Proiectul pentru țestoase este administrat direct de comunitatea satului.", "Satul este situat în apropierea câmpurilor de lavă istorice din Sale'aula.", "Există aici mlaștini de mangrove extinse, care sunt valoroase din punct de vedere ecologic.", "Nopți tradiționale Fiafia sunt adesea organizate pentru vizitatori.", "Satul își obține apa din izvoare subterane naturale."],
       en: ["Sato'alepai is famous for offering the experience of swimming with green sea turtles.", "The turtle conservation project is managed directly by the village community.", "The village is situated near the historic Sale'aula lava fields.", "It features extensive mangrove wetlands that are ecologically significant.", "Traditional Fiafia nights are frequently organized for visitors by the locals.", "The village draws its water supply from natural underground freshwater springs."],
     },
+    image: "/poi-images/samoa-satoalepai-cities-v2.webp",
   },
   {
     id: "samoa-manase-cities-v2",
@@ -868,6 +895,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Manase este cunoscut pentru densitatea sa mare de „beach fales” tradiționale.", "Reciful din fața localității Manase găzduiește o varietate de pești de recif colorați.", "Satul se află la aproximativ 45 de minute de mers cu mașina de terminalul de feribot Salelologa.", "Odihna de duminică este respectată cu strictețe în sat pentru a păstra tradițiile.", "Multe stațiuni din Manase utilizează energie solară durabilă.", "Satul este un punct de plecare popular pentru tururile insulei Savai'i."],
       en: ["Manase is renowned for its high concentration of traditional beach 'fales'.", "The reef off Manase is home to a diverse array of vibrant tropical fish.", "The village is located approximately 45 minutes by car from the Salelologa ferry wharf.", "Sunday 'Sā' (sacred rest) is strictly observed in the village to maintain tradition.", "Several resorts in Manase have implemented sustainable solar energy systems.", "The village serves as a popular base for exploring the northern coast of Savai'i."],
     },
+    image: "/poi-images/samoa-manase-cities-v2.webp",
   },
   {
     id: "samoa-saleaula-cities-v2",
@@ -899,6 +927,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Erupțiile muntelui Matavanu au durat neîntrerupt timp de șase ani.", "Biserica de Lavă a aparținut inițial Societății Misionare din Londra.", "„Mormântul Fecioarei” este unul dintre cele mai fotografiate situri din Savai'i.", "Sale'aula este situat pe drumul principal de coastă din nordul insulei.", "Lava solidificată prezintă structuri fascinante de tip „frânghie” (Pahoehoe).", "Taxele de intrare la câmpurile de lavă sunt direcționate către proiecte sociale ale satului."],
       en: ["The Mt. Matavanu eruptions lasted continuously for a period of six years.", "The Lava Church was originally an LMS (London Missionary Society) structure.", "The 'Virgin's Grave' is one of the most iconic and photographed sites on Savai'i.", "Sale'aula is positioned along the main coastal highway of northern Savai'i.", "The solidified lava exhibits intricate 'Pahoehoe' (ropy) textures in many areas.", "Entry fees to the lava fields directly support local village social services."],
     },
+    image: "/poi-images/samoa-saleaula-cities-v2.webp",
   },
   {
     id: "samoa-samalaeulu-cities-v2",
@@ -930,6 +959,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Samalae'ulu este unul dintre cele mai mari sate ca suprafață de pe Savai'i.", "Râul Maliolio este unul dintre puținele râuri permanente de pe insulă.", "Satul se află în apropierea trecerii către districtul Gaga'emauga.", "Poteci istorice duc de aici adânc în interiorul nelocuit al insulei.", "Samalae'ulu are o producție semnificativă de rogojini țesute manual.", "Fluxurile de lavă din 1905 au schimbat cursul râului local."],
       en: ["Samalae'ulu is one of the largest villages on Savai'i by land area.", "The Maliolio River is one of the island's few permanent flowing watercourses.", "The village is situated near the boundary of the Gaga'emauga district.", "Historic inland tracks lead from here into the uninhabited interior of Savai'i.", "Samalae'ulu is a notable center for the production of traditional woven mats.", "The 1905 lava flows effectively diverted the original course of the local river."],
     },
+    image: "/poi-images/samoa-samalaeulu-cities-v2.webp",
   },
   {
     id: "samoa-gataivai-cities-v2",
@@ -961,6 +991,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Cascadele Afu Aau se află la doar o scurtă distanță de centrul satului.", "Gataivai face parte din districtul Palauli, situat în sudul insulei.", "Localitatea este cunoscută pentru bazinele sale naturale cu apă dulce.", "Pescuitul tradițional se mai practică aici cu plase în lagune.", "Satul este situat într-o zonă cu plantații semnificative de taro.", "Gataivai are trasee de drumeție care duc la peșteri ascunse."],
       en: ["Afu Aau Falls are located just a short drive from the heart of the village.", "Gataivai is situated within the Palauli district on the southern coast.", "The area is famous for its refreshing natural freshwater swimming holes.", "Traditional lagoon fishing with hand-cast nets is still practiced here.", "The village is positioned in a region noted for extensive taro cultivation.", "Several jungle trails starting in Gataivai lead to ancient, hidden caves."],
     },
+    image: "/poi-images/samoa-gataivai-cities-v2.webp",
   },
   {
     id: "samoa-taga-cities-v2",
@@ -992,6 +1023,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Găurile de suflare Alofaaga pot arunca jeturi de apă până la 30 de metri înălțime.", "Satul Taga administrează accesul la blowholes ca sursă de venit.", "Linia de coastă de la Taga este formată din roci vulcanice ascuțite.", "În apropiere se află resturi arheologice ale unor vechi fortificații.", "Satul este cunoscut pentru producția sa de copra de înaltă calitate.", "Taga este unul dintre cele mai vestice puncte ale insulei Savai'i."],
       en: ["The Alofaaga Blowholes can propel seawater jets up to 30 meters high.", "The village of Taga manages access to the blowholes as a community revenue source.", "The coastline near Taga consists of extremely sharp and rugged volcanic rock.", "Archeological remains of ancient fortifications are located in the vicinity.", "The village is a significant producer of high-grade copra in the region.", "Taga is among the westernmost settlements on the island of Savai'i."],
     },
+    image: "/poi-images/samoa-taga-cities-v2.webp",
   },
   {
     id: "samoa-sagone-cities-v2",
@@ -1023,6 +1055,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Sagone are una dintre cele mai lungi deschideri la coastă din districtul Salega.", "Satul este cunoscut pentru participarea sa la turneele regionale de cricket.", "Aici sunt produse unele dintre cele mai fine rogojini țesute manual din Samoa.", "Satul este situat în apropierea unor peșteri de coastă naturale.", "Școala primară locală deservește mai multe așezări mici din jur.", "Sagone este un loc important pentru producția locală de cacao."],
       en: ["Sagone possesses one of the longest continuous coastlines in the Salega district.", "The village is well-known for its active participation in regional cricket tournaments.", "It is a renowned production site for some of Samoa's finest hand-woven mats.", "The village is located near several significant natural coastal caves.", "The local primary school serves multiple smaller surrounding settlements.", "Sagone is a key location for high-quality cocoa bean production in Savai'i."],
     },
+    image: "/poi-images/samoa-sagone-cities-v2.webp",
   },
   {
     id: "samoa-vaisala-cities-v2",
@@ -1054,6 +1087,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Hotelul Vaisala a fost fondat încă din anii 1970.", "Satul se află în districtul Vaisigano, în vârful de nord-vest.", "Golful Vaisala oferă condiții excelente pentru caiac.", "În apropiere se află ruine istorice din perioada precolonială.", "Satul este cunoscut pentru sculptorii săi în lemn talentați.", "Vaisala a fost în trecut un punct important de transbordare pentru bunuri agricole."],
       en: ["The Vaisala Hotel was established as early as the 1970s.", "The village is located within the Vaisigano district at the northwestern tip.", "Vaisala Bay offers exceptional conditions for coastal kayaking.", "Significant pre-colonial archaeological ruins are located near the village.", "The community is recognized for its skilled traditional woodcarvers.", "Vaisala previously served as a major regional collection point for agricultural produce."],
     },
+    image: "/poi-images/samoa-vaisala-cities-v2.webp",
   },
   {
     id: "samoa-siumu-cities-v2",
@@ -1085,6 +1119,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Siumu este o locație cunoscută pentru stațiunile de lux de pe coasta de sud.", "Locul de surf „Siumu” este renumit pentru valurile sale puternice.", "Satul găzduiește una dintre cele mai mari biserici ale comunității metodiste.", "Siumu este conectat direct de capitala Apia printr-un drum montan.", "În apropiere se află Parcul Cascadei Togitogiga.", "Satul joacă un rol central în festivalurile anuale Teuila."],
       en: ["Siumu is home to several of Samoa's most prestigious luxury resorts.", "The 'Siumu' surf break is famous among professionals for its heavy, hollow waves.", "The village features one of the largest Methodist churches in the country.", "A direct cross-island road links Siumu with the capital city of Apia.", "The nearby Togitogiga Waterfall Park is a popular local recreational area.", "Siumu is a significant participant in the cultural events of the annual Teuila Festival."],
     },
+    image: "/poi-images/samoa-siumu-cities-v2.webp",
   },
   {
     id: "samoa-poutasi-cities-v2",
@@ -1116,6 +1151,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Centrul administrativ al districtului Falealili", "Grav afectat de tsunami-ul din 29 septembrie 2009", "Situat la aproximativ 30 km sud de capitala Apia", "Centru pentru producția de artizanat în regiune", "Găzduiește o școală primară și una secundară importantă", "Structurile tradiționale Matai reglementează proprietatea funciară"],
       en: ["Administrative center of the Falealili district", "Severely damaged by the tsunami on September 29, 2009", "Located approximately 30 km south of the capital Apia", "Center for handicraft production in the region", "Hosts a significant primary and secondary school", "Traditional Matai structures govern communal land use"],
     },
+    image: "/poi-images/samoa-poutasi-cities-v2.webp",
   },
   {
     id: "samoa-lalomanu-cities-v2",
@@ -1147,6 +1183,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Face parte din circumscripția electorală Aleipata Itupa-i-Lalo", "Plaja Lalomanu este o zonă marină protejată", "A fost lovit masiv de tsunami-ul din 29 septembrie 2009", "Oferă acces către insulele Aleipata prin intermediul barcilor", "Situat la aproximativ 1,5 ore de mers cu mașina de Apia", "Renumit pentru colibele tradiționale 'Beach Fales' pentru turiști"],
       en: ["Part of the Aleipata Itupa-i-Lalo electoral district", "Lalomanu Beach is a protected marine area", "Heavily impacted by the tsunami on September 29, 2009", "Provides access to the Aleipata Islands via boat", "Located about a 1.5-hour drive from Apia", "Famous for its traditional 'beach fales' accommodation"],
     },
+    image: "/poi-images/samoa-lalomanu-cities-v2.webp",
   },
   {
     id: "samoa-lotofaga-cities-v2",
@@ -1178,6 +1215,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Găzduiește faimosul To-Sua Ocean Trench", "Reședința ancestrală a familiei de șefi Fiame", "Situat în circumscripția Lotofaga pe coasta de sud", "Posedă faleze de lavă spectaculoase și bazine de maree", "Loc important pentru mișcarea de independență a Samonei", "Oferă trasee de drumeție prin pădurea tropicală virgină"],
       en: ["Home to the famous To-Sua Ocean Trench", "Ancestral home of the Fiame paramount chief family", "Located in the Lotofaga electoral district on the south coast", "Features spectacular lava cliffs and tidal pools", "Important site for the Samoan independence movement", "Offers hiking trails through primary rainforest"],
     },
+    image: "/poi-images/samoa-lotofaga-cities-v2.webp",
   },
   {
     id: "samoa-lepa-cities-v2",
@@ -1209,6 +1247,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Locul de origine al fostului prim-ministru Tuila'epa Sa'ilele Malielegaoi", "Centrul administrativ al districtului Lepa", "Relocat parțial spre interior după tsunami-ul din 2009", "Cunoscut pentru biserica sa tradițională bine conservată", "Situat într-o regiune cu precipitații ridicate și vegetație densă", "Comunitatea este cunoscută pentru legăturile sale bisericești puternice"],
       en: ["Home village of former Prime Minister Tuila'epa Sa'ilele Malielegaoi", "Administrative center of the Lepa district", "Partially relocated inland following the 2009 tsunami", "Known for its well-preserved traditional village church", "Located in a region with high rainfall and dense vegetation", "The community is noted for its strong ecclesiastical ties"],
     },
+    image: "/poi-images/samoa-lepa-cities-v2.webp",
   },
   {
     id: "samoa-satitoa-cities-v2",
@@ -1240,6 +1279,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Punct principal de îmbarcare pentru bărcile către insula Namua", "Situat în partea cea mai estică a insulei Upolu, în districtul Aleipata", "Dispune de zone semnificative de mangrove la coastă", "Deteriorat de tsunami-ul din 2009 și ulterior modernizat", "Centru pentru construcția tradițională de bărci în regiune", "Loc important pentru comerțul local cu fructe de mare"],
       en: ["Main boarding point for boats to Namua Island", "Located in the easternmost part of Upolu in the Aleipata district", "Features significant mangrove areas along the coast", "Damaged in the 2009 tsunami and subsequently modernized", "A center for traditional boat building in the region", "Key site for local seafood trade and exchange"],
     },
+    image: "/poi-images/samoa-satitoa-cities-v2.webp",
   },
   {
     id: "samoa-tiavea-cities-v2",
@@ -1271,6 +1311,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Renumit pentru locurile de surf provocatoare de pe coasta de nord-est", "Situat în districtul Vaa-o-Fonoti, într-un golf adânc", "Loc important pentru conservarea metodelor tradiționale de pescuit samoane", "Accesibil doar printr-un drum abrupt și sinuos", "Găzduiește specii de păsări rare în pădurile învecinate", "Cunoscut istoric ca un post de apărare natural"],
       en: ["Famous for challenging surf breaks on the northeast coast", "Located in the Vaa-o-Fonoti district in a deep bay", "Key site for preserving traditional Samoan fishing techniques", "Accessible only via a steep and winding road", "Hosts rare bird species in the surrounding forests", "Historically known as a natural defensive outpost"],
     },
+    image: "/poi-images/samoa-tiavea-cities-v2.webp",
   },
   {
     id: "samoa-amaile-cities-v2",
@@ -1302,6 +1343,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Parte a circumscripției electorale Aleipata Itupa-i-Lalo", "Posedă un recif bine protejat pentru pescuitul local", "Centru important pentru producția de ulei de cocos", "Cunoscut pentru ospitalitatea tradițională samoană", "Situat aproape de cea mai estică limbă de pământ a Upolu", "Oferă vederi către insulele din largul coastelor Aleipata"],
       en: ["Part of the Aleipata Itupa-i-Lalo electoral district", "Features a well-protected reef used for local fishing", "An important center for coconut oil production", "Known for traditional Samoan hospitality and customs", "Located near the easternmost point of Upolu island", "Provides clear views of the offshore Aleipata islands"],
     },
+    image: "/poi-images/samoa-amaile-cities-v2.webp",
   },
   {
     id: "samoa-samamea-cities-v2",
@@ -1333,6 +1375,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Inclus în lista tentativă UNESCO (Fagaloa Bay - Uafato Area)", "Situat în districtul Vaa-o-Fonoti", "Cunoscut pentru cultivarea de kava de înaltă calitate", "Înconjurat de munți cu înălțimi de peste 600 de metri", "Loc important pentru protecția speciilor de păsări endemice", "Renumit pentru arta tradițională a sculpturii în lemn (stilul Uafato)"],
       en: ["Part of the UNESCO World Heritage tentative list (Fagaloa Bay area)", "Located within the Vaa-o-Fonoti district", "Known for the cultivation of high-quality kava", "Enclosed by mountains rising over 600 meters high", "Crucial site for the protection of endemic bird species", "Famous for traditional woodworking and carving (Uafato style)"],
     },
+    image: "/poi-images/samoa-samamea-cities-v2.webp",
   },
   {
     id: "samoa-taelefaga-cities-v2",
@@ -1364,6 +1407,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Centrul administrativ al districtului Vaa-o-Fonoti", "Locația centralei hidroelectrice Taelefaga", "Cel mai mare sat din golful Fagaloa", "Legat istoric de canoea legendară 'Vaa-o-Fonoti'", "Înconjurat de munți abrupți cu numeroase cascade", "Hub important pentru comerțul din nord-estul insulei Upolu"],
       en: ["Administrative center of the Vaa-o-Fonoti district", "Site of a major national hydroelectric power station", "The largest village within the Fagaloa Bay area", "Historically linked to the legendary 'Vaa-o-Fonoti' war canoe", "Surrounded by steep mountains featuring numerous waterfalls", "Key hub for trade and services in northeast Upolu"],
     },
+    image: "/poi-images/samoa-taelefaga-cities-v2.webp",
   },
   {
     id: "samoa-aufaga-cities-v2",
@@ -1395,6 +1439,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Face parte din circumscripția Lotofaga de pe coasta de sud", "Posedă zone marine protejate semnificative în lagună", "Centru pentru cultivarea locală a cacaoului de calitate", "Reconstruit prin efort comunitar după tsunami-ul din 2009", "Cunoscut pentru adunările sale tradiționale de sat (Fono)", "Situat într-o zonă geologic stabilă a câmpiei de coastă"],
       en: ["Part of the Lotofaga electoral district on the south coast", "Features significant marine protected areas within its lagoon", "A local center for high-quality cocoa cultivation", "Rebuilt through community cooperation after the 2009 tsunami", "Known for its traditional village council meetings (Fono)", "Situated on a geologically stable section of the coastal plain"],
     },
+    image: "/poi-images/samoa-aufaga-cities-v2.webp",
   },
   {
     id: "samoa-vavau-cities-v2",
@@ -1426,6 +1471,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Cunoscut pentru plaja Vavau Beach administrată de familii", "Situat la granița dintre districtele Lotofaga și Lepa", "Dispune de ecosisteme rare de mangrove", "Destinație importantă pentru turismul ecologic", "Restaurat ecologic pe scară largă după 2009", "Oferă unele dintre cele mai bune locuri de snorkeling de pe coasta de sud"],
       en: ["Famous for the family-run Vavau Beach resort area", "Located on the border between the Lotofaga and Lepa districts", "Features rare and protected mangrove ecosystems", "A key destination for community-based ecotourism", "Underwent extensive ecological restoration after 2009", "Offers some of the best snorkeling spots on Upolu's south coast"],
     },
+    image: "/poi-images/samoa-vavau-cities-v2.webp",
   },
   {
     id: "samoa-saleapaga-cities-v2",
@@ -1457,6 +1503,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Relocat pe un platou deasupra coastei după tsunami-ul din 2009", "Face parte din circumscripția Aleipata Itupa-i-Lalo", "Cunoscut pentru numeroasele sale fales de plajă pentru turiști", "Oferă o vedere panoramică asupra insulelor din sud-est", "Situat direct pe drumul principal de coastă (Main South Coast Road)", "Centru pentru dansul tradițional samoan în regiune"],
       en: ["Relocated to a plateau above the coast following the 2009 tsunami", "Part of the Aleipata Itupa-i-Lalo electoral district", "Known for its extensive array of tourist beach fales", "Provides panoramic views of the southeastern offshore islands", "Located directly on the Main South Coast Road", "A regional center for traditional Samoan dance and performance"],
     },
+    image: "/poi-images/samoa-saleapaga-cities-v2.webp",
   },
   {
     id: "samoa-matatufu-cities-v2",
@@ -1488,6 +1535,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Situat în circumscripția Lotofaga de pe coasta de sud", "Cunoscut pentru condiții excelente de surf (Matatufu Lefts)", "Loc important pentru cultivarea legumelor rădăcină tradiționale", "Posedă un canal natural adânc în reciful de corali", "Afectat moderat de tsunami-ul din 2009", "Centru pentru artizanatul local din frunze de Pandanus"],
       en: ["Located in the Lotofaga electoral district on the south coast", "Renowned for excellent surfing conditions (Matatufu Lefts)", "A significant site for traditional root crop cultivation", "Features a deep natural channel through the coral reef", "Moderately impacted and recovered from the 2009 tsunami", "A center for local weaving and crafts using Pandanus leaves"],
     },
+    image: "/poi-images/samoa-matatufu-cities-v2.webp",
   },
   {
     id: "samoa-salani-cities-v2",
@@ -1519,6 +1567,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Situat la gura de vărsare a râului Salani în districtul Falealili", "Găzduiește complexul Salani Surf Resort, cunoscut internațional", "Renumit pentru locul de surf 'Salani Right'", "Dispune de terenuri agricole fertile în valea râului", "Modernizat pe scară largă după tsunami-ul din 2009", "Loc important pentru drepturile tradiționale de pescuit la recif"],
       en: ["Located at the mouth of the Salani River in Falealili district", "Home to the internationally recognized Salani Surf Resort", "Famous for the consistent 'Salani Right' surf break", "Features exceptionally fertile agricultural land in the river valley", "Underwent significant modernization following the 2009 tsunami", "Key site for traditional reef fishing rights and stewardship"],
     },
+    image: "/poi-images/samoa-salani-cities-v2.webp",
   },
   {
     id: "samoa-sapoe-cities-v2",
@@ -1550,6 +1599,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Face parte din circumscripția Falealili de pe coasta de sud", "Posedă una dintre cele mai liniștite lagune din regiune", "Centru pentru cultivarea tradițională a taro", "Cunoscut pentru locurile sale ceremoniale antice bine conservate", "Consolidat după 2009 cu accent pe reziliența de coastă", "Situat la aproximativ 35 km sud-est de capitala Apia"],
       en: ["Part of the Falealili electoral district on the south coast", "Features one of the calmest lagoons in the southeastern region", "A local center for traditional taro and root crop farming", "Known for its well-maintained ancient ceremonial sites (malae)", "Enhanced coastal resilience infrastructure implemented after 2009", "Located approximately 35 km southeast of the capital city, Apia"],
     },
+    image: "/poi-images/samoa-sapoe-cities-v2.webp",
   },
   {
     id: "samoa-salamumu-cities-v2",
@@ -1581,6 +1631,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Fondat în urma erupției vulcanului Matavanu între 1905 și 1911", "Situat pe coasta sudică a insulei principale Upolu", "Locuitorii sunt originari din satul Sale'aula de pe insula Savai'i", "Dispune de o școală primară proprie pentru comunitatea locală", "Zonă importantă pentru practicarea pescuitului tradițional de coastă", "Face parte din districtul administrativ Lefaga și Falease'ela"],
       en: ["Founded following the Mt. Matavanu eruption (1905–1911)", "Located on the southern coast of Upolu Island", "Inhabitants are descendants of refugees from Sale'aula, Savai'i", "Features its own primary school for the local community", "Key area for traditional artisanal and subsistence fishing", "Administratively part of the Lefaga and Falease'ela district"],
     },
+    image: "/poi-images/samoa-salamumu-cities-v2.webp",
   },
   {
     id: "samoa-lona-cities-v2",
@@ -1612,6 +1663,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Situat în districtul Va'a-o-Fonoti pe insula Upolu", "Parte a golfului Fagaloa, inclus pe lista tentativă UNESCO", "Așezat între munți vulcanici înalți și ocean", "Agricultura și pescuitul reprezintă principalele activități", "Structura tradițională de conducere 'matai' este respectată", "Cunoscut pentru producția de cacao de înaltă calitate"],
       en: ["Located in the Va'a-o-Fonoti district on Upolu", "Part of the Fagaloa Bay UNESCO tentative world heritage site", "Nestled between high volcanic mountains and the sea", "Primary economic activities are farming and fishing", "Traditional 'matai' social structure is strictly maintained", "Known for the cultivation of high-quality local cocoa"],
     },
+    image: "/poi-images/samoa-lona-cities-v2.webp",
   },
   {
     id: "samoa-musumusu-cities-v2",
@@ -1643,6 +1695,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Aparține administrativ de districtul Va'a-o-Fonoti", "Situat pe malul pitorescului golf Fagaloa", "Plantațiile tradiționale de taro asigură subzistența", "Înconjurat de păduri tropicale virgine", "Cascadele din apropiere sunt atracții locale importante", "Inclus în lista tentativă UNESCO pentru peisaje culturale"],
       en: ["Part of the Va'a-o-Fonoti administrative district", "Located on the shores of the scenic Fagaloa Bay", "Traditional taro plantations provide local subsistence", "Surrounded by pristine tropical rainforests", "Nearby waterfalls are notable local landmarks", "Included in the UNESCO tentative list for cultural landscapes"],
     },
+    image: "/poi-images/samoa-musumusu-cities-v2.webp",
   },
   {
     id: "samoa-maasina-cities-v2",
@@ -1674,6 +1727,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Situat pe coasta de nord-est a insulei Upolu", "Parte a districtului istoric Va'a-o-Fonoti", "Structura satului se bazează pe sistemul 'matai'", "Taro și cacao sunt principalele produse de export", "Integrat în peisajul cultural UNESCO Fagaloa", "Loc important pentru protecția speciilor de păsări endemice"],
       en: ["Located on the northeastern coast of Upolu", "Part of the historic Va'a-o-Fonoti district", "Village structure is based on the 'matai' system", "Taro and cocoa are the primary export commodities", "Integrated into the Fagaloa UNESCO cultural landscape", "Significant site for the protection of endemic bird species"],
     },
+    image: "/poi-images/samoa-maasina-cities-v2.webp",
   },
   {
     id: "samoa-fasitoo-tai-cities-v2",
@@ -1705,6 +1759,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Situat în districtul A'ana, pe coasta de nord-vest", "Centru important al activității misionare creștine", "Cunoscut pentru bisericile sale mari și magnifice", "Dispune de un acces strategic la lagunele de coastă", "Agricultura și pescuitul sunt principalele ocupații", "Găzduiește numeroase titluri nobiliare 'matai' importante"],
       en: ["Located in the A'ana district on the northwest coast", "Major center for early Christian missionary work", "Known for its large and grand church structures", "Possesses strategic access to coastal lagoons", "Agriculture and fishing are the primary livelihoods", "Home to many significant high-ranking 'matai' titles"],
     },
+    image: "/poi-images/samoa-fasitoo-tai-cities-v2.webp",
   },
   {
     id: "samoa-faleula-tai-cities-v2",
@@ -1736,6 +1791,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Situat la vest de capitala Apia", "Face parte din districtul Sagaga le Falefa", "Numele înseamnă 'Casa Roșie' sau 'Casa de Adunare'", "Regiune de coastă cu acces direct la lagună", "Populație rezidențială în creștere datorită proximității urbane", "Loc important pentru competițiile tradiționale de canoe"],
       en: ["Located west of the capital city, Apia", "Part of the Sagaga le Falefa district", "Name means 'Red House' or 'House of Assembly'", "Coastal region with direct access to the lagoon", "Growing residential population due to urban proximity", "Significant venue for traditional canoe racing events"],
     },
+    image: "/poi-images/samoa-faleula-tai-cities-v2.webp",
   },
   {
     id: "samoa-vausu-tai-cities-v2",
@@ -1767,6 +1823,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Găzduiește una dintre cele mai mari zone de mangrove din Samoa", "Situat în districtul Tuamasaga, lângă Apia", "Centru pentru pescuitul artizanal local", "Sanctuar important pentru biodiversitatea marină", "Loc semnificativ din punct de vedere istoric pentru adunări politice", "Strâns legat de dezvoltarea urbană a orașului Apia"],
       en: ["Home to one of the largest mangrove areas in Samoa", "Located in the Tuamasaga district near Apia", "A hub for local artisanal and subsistence fishing", "Crucial sanctuary for marine biodiversity and breeding", "Historically significant site for political deliberations", "Closely integrated with the urban development of Apia"],
     },
+    image: "/poi-images/samoa-vausu-tai-cities-v2.webp",
   },
   {
     id: "samoa-malua-cities-v2",
@@ -1798,6 +1855,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Sediul Colegiului Teologic Malua (fondat în 1844)", "Sediul central al Bisericii Creștine Congregaționale din Samoa", "Locul de desfășurare a adunării anuale 'Fono Tele'", "Situat în districtul Sagaga le Falefa de pe insula Upolu", "Găzduiește o arhivă teologică de mare importanță", "Renumit pentru instituțiile sale de învățământ de elită"],
       en: ["Home to Malua Theological College (est. 1844)", "Headquarters of the Congregational Christian Church Samoa", "Venue for the annual Fono Tele general assembly", "Located in the Sagaga le Falefa district on Upolu", "Houses a significant historical and theological archive", "Renowned for its commitment to academic and religious education"],
     },
+    image: "/poi-images/samoa-malua-cities-v2.webp",
   },
   {
     id: "samoa-afiamalu-cities-v2",
@@ -1829,6 +1887,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Una dintre cele mai înalte localități locuite de pe Upolu", "Locația unei stații radio americane în Al Doilea Război Mondial", "Cunoscută pentru nivelul extrem de ridicat de precipitații", "Zonă agricolă importantă pentru legume și flori", "Bazin hidrografic central pentru alimentarea orașului Apia", "Destinație populară pentru drumeții și observarea naturii"],
       en: ["One of the highest inhabited areas on Upolu island", "Site of a US communication station during WWII", "Known for having some of the highest rainfall in Samoa", "Major agricultural area for temperate vegetables and flowers", "Primary water catchment zone for the capital city, Apia", "Popular destination for hiking and ecological tourism"],
     },
+    image: "/poi-images/samoa-afiamalu-cities-v2.webp",
   },
   {
     id: "samoa-safata-cities-v2",
@@ -1860,6 +1919,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Găzduiește o arie protejată marină de importanță majoră", "District cheie pentru conservarea naturii în Samoa", "Centru istoric al luptelor pentru putere politică", "Cunoscut pentru golful său larg și plajele cu nisip", "Centru al producției agricole de taro din regiune", "Compus dintr-o multitudine de sate mici de coastă"],
       en: ["Home to a major community Marine Protected Area", "Key district for environmental conservation in Samoa", "Historical center for regional political power and titles", "Known for its expansive sandy bays and reef systems", "A major hub for agricultural taro production", "Comprises a network of several traditional coastal villages"],
     },
+    image: "/poi-images/samoa-safata-cities-v2.webp",
   },
   {
     id: "samoa-salamumu-tai-cities-v2",
@@ -1891,6 +1951,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Secțiunea de coastă a satului Salamumu", "Caracterizat prin stânci de lavă neagră proeminente", "Locație importantă pentru protecția zonei costiere", "Laguna face parte dintr-o rezervă marină", "Arhitectură tradițională de tip 'beach fale'", "Oferă condiții excelente pentru snorkeling"],
       en: ["The coastal-facing portion of Salamumu village", "Defined by striking black volcanic lava rocks", "Key site for coastal conservation and monitoring", "The lagoon is part of a community marine reserve", "Features traditional beachfront 'fale' architecture", "Provides excellent conditions for snorkeling and diving"],
     },
+    image: "/poi-images/samoa-salamumu-tai-cities-v2.webp",
   },
   {
     id: "samoa-lepua-cities-v2",
@@ -1922,6 +1983,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Situat în districtul Vaimauga, lângă Apia", "Servește ca loc de reședință pentru navetiștii din capitală", "Păstrează valorile tradiționale Fa'asamoa", "Centru pentru evenimente comunitare locale", "Amestec de arhitectură tradițională și modernă", "Acces direct la șoseaua principală din Upolu"],
       en: ["Located in the Vaimauga district near Apia", "Primary residential area for commuters to the capital", "Preserves traditional 'Fa'asamoa' cultural values", "Center for local community and church events", "Mix of traditional Samoan and modern architecture", "Provides direct access to Upolu's main coastal road"],
     },
+    image: "/poi-images/samoa-lepua-cities-v2.webp",
   },
   {
     id: "samoa-moataa-cities-v2",
@@ -1953,6 +2015,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Găzduiește Proiectul de Restaurare a Mangrovelor Moata'a", "Include zona turistică populară Taumeasina", "Loc important pentru sportul național rugby", "Situat direct la granița de est a orașului Apia", "Centru pentru educație ecologică în Samoa", "Rol activ al comitetelor de femei în administrare"],
       en: ["Home to the Moata'a Mangrove Restoration Project", "Encompasses the popular Taumeasina tourist area", "Significant contributor to national rugby talent", "Located on the eastern urban fringe of Apia", "A center for environmental and ecological education", "Women's committees play an active role in village governance"],
     },
+    image: "/poi-images/samoa-moataa-cities-v2.webp",
   },
   {
     id: "samoa-vaiala-cities-v2",
@@ -1984,6 +2047,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Găzduiește Rezervația Marină Palolo Deep", "Sediul celebrului club de rugby Vaiala", "Găzduiește mai multe misiuni diplomatice", "Situat direct pe coastă, la est de Apia", "Renumit pentru importanța sa istorică", "Oferă oportunități de snorkeling de clasă mondială"],
       en: ["Home to the Palolo Deep Marine Reserve", "Base of the prestigious Vaiala Rugby Club", "Location for numerous diplomatic missions and residences", "Situated on the coast directly east of Apia", "Renowned for its historical and cultural significance", "Offers world-class snorkeling and diving sites"],
     },
+    image: "/poi-images/samoa-vaiala-cities-v2.webp",
   },
   {
     id: "samoa-fogapoa-cities-v2",
@@ -2015,6 +2079,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Situat în districtul Fa'asaleleaga de pe insula Savai'i", "Agricultura tradițională este principala sursă de venit", "Cunoscut pentru casele sale tradiționale 'fale' bine conservate", "Face parte din cea mai mare insulă a arhipelagului samoan", "Legătură socială strânsă cu districtul Tuasivi", "Loc important pentru cultivarea taro și a arborelui de cacao"],
       en: ["Located in the Fa'asaleleaga district on Savai'i island", "Subsistence agriculture is the primary economic driver", "Known for its well-maintained traditional village 'fale'", "Situated on the largest island in the Samoan archipelago", "Closely linked to the administrative center of Tuasivi", "A significant area for the cultivation of taro and cocoa"],
     },
+    image: "/poi-images/samoa-fogapoa-cities-v2.webp",
   },
   {
     id: "samoa-eva-cities-v2",
@@ -2046,6 +2111,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Satul Eva este situat în districtul Atua, în partea de est a insulei Upolu.", "Distanța rutieră până la capitala Apia este de aproximativ 25 de kilometri.", "Regiunea a făcut parte din colonia Samoa Germană între anii 1900 și 1914.", "Structura socială locală este guvernată de șefii de familie tradiționali, numiți Matai.", "Principalele produse agricole de export ale zonei sunt taro și copra.", "Localitatea este conectată la rețeaua națională prin șoseaua de coastă de nord-est."],
       en: ["Eva is located in the Atua district on the eastern side of Upolu island.", "The village is approximately 25 kilometers by road from the capital, Apia.", "The area was part of the German Samoa colony between 1900 and 1914.", "Social governance is managed through the traditional Matai title system.", "Agriculture, specifically copra and taro production, is central to the local economy.", "The village sits along the northeastern coastal road, a key transport link."],
     },
+    image: "/poi-images/samoa-eva-cities-v2.webp",
   },
   {
     id: "samoa-falelatai-cities-v2",
@@ -2077,6 +2143,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Falelatai se află în districtul politic A'ana, pe coasta sud-vestică a insulei Upolu.", "Numele localității face referire la casele mari 'Fale' destinate adunărilor.", "Istoric, a servit drept reședință pentru căpeteniile de rang înalt din districtul A'ana.", "Laguna Falelatai este cunoscută pentru biodiversitatea sa și resursele de pește.", "Localitatea a fost un punct cheie pentru Societatea de Misionari din Londra în secolul XIX.", "Călătoria rutieră până la Apia durează aproximativ 60-90 de minute."],
       en: ["Falelatai is situated in the A'ana district on the southwest coast of Upolu.", "The name refers to the large 'Fale' or houses used for traditional meetings.", "Historically, it served as a seat of power for the high chiefs of the A'ana district.", "The Falelatai lagoon is one of the largest and most productive for local fishing.", "The village was a significant site for the London Missionary Society in the 19th century.", "It is located approximately 60 to 90 minutes' drive from the capital city, Apia."],
     },
+    image: "/poi-images/samoa-falelatai-cities-v2.webp",
   },
   {
     id: "samoa-lotofaga-tai-cities-v2",
@@ -2108,6 +2175,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Lotofaga Tai este situat în districtul Atua, pe coasta de sud a insulei Upolu.", "Faimoasa formațiune naturală To-Sua Ocean Trench se află în această zonă.", "Comunitatea este locul de origine al liniei de căpetenii Fiame, foarte influentă în Samoa.", "Câmpurile de lavă vulcanică din regiune oferă un sol extrem de fertil pentru culturi.", "Siturile arheologice din apropiere indică o prezență umană de peste 2.000 de ani.", "Regiunea reprezintă un punct focal pentru ecoturismul sustenabil din Pacific."],
       en: ["Lotofaga Tai is located in the Atua district on the southern coast of Upolu.", "The famous To-Sua Ocean Trench, a 30-meter deep natural swimming hole, is nearby.", "The village is the ancestral home of the high-ranking Fiame chiefly lineage.", "Volcanic lava fields in the area provide exceptionally fertile soil for farming.", "Nearby archaeological evidence suggests human habitation for over 2,000 years.", "The region is a major hub for eco-tourism and sustainable travel in Samoa."],
     },
+    image: "/poi-images/samoa-lotofaga-tai-cities-v2.webp",
   },
   {
     id: "samoa-vaiala-tai-cities-v2",
@@ -2139,6 +2207,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Vaiala Tai se află în districtul Vaimauga, chiar la est de capitala Apia.", "Rezervația Marină Palolo Deep, o destinație celebră pentru scufundări, se află aici.", "În secolul XIX, Vaiala a fost un punct strategic pentru primii coloniști europeni.", "Clubul de rugby Vaiala este una dintre cele mai titrate echipe din Samoa.", "Zona de coastă din Vaiala adăpostește o mare diversitate de specii marine tropicale.", "Comunitatea îmbină facilitățile urbane moderne cu legile tradiționale ale satului."],
       en: ["Vaiala Tai is located in the Vaimauga district, directly east of Apia city center.", "The Palolo Deep Marine Reserve is a major natural attraction within the village boundaries.", "Historically, Vaiala was a significant residential area for early European settlers.", "The local Vaiala Rugby Club is one of the most successful and famous in the country.", "The coastline of Vaiala is home to a vast array of protected tropical marine life.", "The village maintains a unique position as an urbanized suburb with deep traditional roots."],
     },
+    image: "/poi-images/samoa-vaiala-tai-cities-v2.webp",
   },
   {
     id: "samoa-siumu-tai-cities-v2",
@@ -2170,6 +2239,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Siumu Tai se află în districtul Tuamasaga, pe coasta de sud a insulei Upolu.", "Satul reprezintă punctul terminus sudic al drumului strategic Cross Island Road.", "Siumu este renumit la nivel național pentru dansatorii săi de Siva Afi (cuțit de foc).", "Regiunea găzduiește unele dintre cele mai exclusiviste resorturi de pe plajă din Samoa.", "Reciful din largul coastei Siumu oferă condiții excelente pentru surfing.", "Cascada Papapapaitai, aflată în apropiere, are o cădere de peste 100 de metri."],
       en: ["Siumu Tai is located in the Tuamasaga district on Upolu's southern coast.", "The village marks the southern end of the Cross Island Road from Apia.", "Siumu is famous for its fire-knife dancers who compete at international levels.", "The area is home to some of Samoa's premier high-end beach resorts.", "The breaks at Siumu are well-regarded by the international surfing community.", "Nearby Papapapaitai Falls is one of the tallest and most scenic waterfalls in Samoa."],
     },
+    image: "/poi-images/samoa-siumu-tai-cities-v2.webp",
   },
   {
     id: "samoa-vailima-cities-v2",
@@ -2201,6 +2271,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Vailima a fost reședința lui Robert Louis Stevenson între 1890 și 1894.", "Muzeul Vailima expune obiecte personale și mobilierul original al scriitorului.", "Numele Vailima s-ar putea referi la cele cinci pârâuri care traversează zona.", "Conacul a fost în trecut sediul guvernatorului general al Samoei.", "Mormântul lui Stevenson este situat pe vârful Muntelui Vaea, aflat în vecinătate.", "Localitatea găzduiește, de asemenea, Grădina Botanică Națională din Samoa."],
       en: ["Vailima served as the home of Robert Louis Stevenson from 1890 until 1894.", "The Vailima Museum showcases personal artifacts and furniture of the author.", "The name Vailima means 'water in the hand' in the Samoan language.", "The estate was formerly the official residence of the Head of State of Samoa.", "Stevenson's tomb is located atop the 472-meter summit of Mount Vaea.", "Vailima is the location of the Samoa Botanical Garden and Nature Reserve."],
     },
+    image: "/poi-images/samoa-vailima-cities-v2.webp",
   },
   {
     id: "samoa-samalaeulu-uta-cities-v2",
@@ -2232,6 +2303,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Samalae'ulu Uta se află în districtul Gaga'emauga de pe insula Savai'i.", "Așezarea originală a fost distrusă de erupția vulcanului Matavanu în 1905.", "Termenul 'Uta' înseamnă 'spre interiorul insulei' în limba samoană.", "Satul este un centru major pentru producția de cacao de înaltă calitate.", "Regiunea este renumită pentru tuburile de lavă și peșterile subterane.", "Râul Maliolio, unul dintre cele mai lungi din Savai'i, trece prin apropiere."],
       en: ["Samalae'ulu Uta is situated in the Gaga'emauga district on Savai'i island.", "The original village was buried by the Mount Matavanu lava flows in 1905.", "The suffix 'Uta' translates to 'inland' in the Samoan language.", "The village is a significant producer of premium cocoa beans in Samoa.", "The surrounding area features extensive lava tubes and volcanic caves.", "The nearby Maliolio River is one of the largest river systems on Savai'i."],
     },
+    image: "/poi-images/samoa-samalaeulu-uta-cities-v2.webp",
   },
   {
     id: "samoa-safotu-tai-cities-v2",
@@ -2263,6 +2335,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Safotu Tai se află în districtul politic Gagaifomauga de pe insula Savai'i.", "Satul are unul dintre puținele porturi naturale de pe coasta de nord.", "Societatea de Misionari din Londra a stabilit o bază aici în secolul al XIX-lea.", "Safotu este un centru vital pentru cultivarea plantei kava.", "Sistemul Matai din Safotu este considerat unul dintre cele mai tradiționaliste din Samoa.", "Localitatea este renumită pentru casele de adunare decorate cu măiestrie."],
       en: ["Safotu Tai is located in the Gagaifomauga district on the island of Savai'i.", "The village possesses one of the few natural harbors on the north coast.", "The London Missionary Society established a presence here in the 1800s.", "Safotu is a key hub for the traditional cultivation and processing of kava.", "The Matai hierarchy in Safotu is known for its adherence to ancient protocols.", "The village is distinguished by its large and architecturally unique churches."],
     },
+    image: "/poi-images/samoa-safotu-tai-cities-v2.webp",
   },
   {
     id: "samoa-fagamalo-tai-cities-v2",
@@ -2294,6 +2367,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Fagamalo Tai a fost centrul administrativ al insulei Savai'i sub dominație germană.", "Satul este situat într-un golf care oferă protecție împotriva oceanului deschis.", "La începutul secolului XX, a fost un punct de oprire important pentru navele internaționale.", "Celebrele câmpuri de lavă Saleaula sunt situate la doar câțiva kilometri distanță.", "Fagamalo găzduiește unele dintre cele mai vechi hanuri de pe insula Savai'i.", "Regiunea este cunoscută pentru biodiversitatea marină bogată din reciful de corali."],
       en: ["Fagamalo Tai was the administrative center of Savai'i during German rule.", "The village is located on a bay that provides natural shelter from the open ocean.", "In the early 20th century, it was a major port of call for international shipping.", "The famous Saleaula lava fields are located just a few kilometers away.", "Fagamalo is home to some of the oldest guesthouses on the island of Savai'i.", "The area is renowned for its vibrant marine life within the protective reef."],
     },
+    image: "/poi-images/samoa-fagamalo-tai-cities-v2.webp",
   },
   {
     id: "samoa-taga-tai-cities-v2",
@@ -2325,6 +2399,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Taga Tai găzduiește Alofaaga Blowholes, una dintre principalele atracții din Samoa.", "Satul este situat în cea mai sud-vestică parte a insulei Savai'i.", "Formațiunile stâncoase vulcanice de pe coastă atestă erupțiile din trecut.", "Locuitorii demonstrează adesea turiștilor cum sunt aruncate nucile de cocos de jeturile de apă.", "Taga este cunoscută pentru obiectele tradiționale țesute din frunze de pandanus.", "Regiunea este marcată de curenți oceanici puternici și de un surf violent."],
       en: ["Taga Tai is home to the Alofaaga Blowholes, a major natural landmark of Samoa.", "The village is located on the remote southwestern coast of Savai'i island.", "The volcanic rock formations along the shore were created by ancient lava flows.", "Locals often demonstrate the power of the blowholes by throwing coconuts into them.", "Taga is well-regarded for its traditional weaving using local pandanus leaves.", "The coastline here is defined by powerful ocean swells and dramatic scenery."],
     },
+    image: "/poi-images/samoa-taga-tai-cities-v2.webp",
   },
   {
     id: "samoa-sagone-tai-cities-v2",
@@ -2356,6 +2431,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Sagone Tai este situat în districtul politic Salega, în sud-vestul insulei Savai'i.", "Satul este cunoscut pentru covoarele sale tradiționale țesute manual (Ie Toga).", "Regiunea are un climat tropical umed, cu precipitații abundente.", "Sagone se află pe șoseaua principală care deservește coasta de vest a insulei Savai'i.", "Școala locală servește drept centru educațional pentru mai multe sate vecine.", "În pădurile din jur cresc specii rare de arbori tropicali cu lemn de esență tare."],
       en: ["Sagone Tai is located in the Salega district on the southwest of Savai'i island.", "The village is well-known for producing high-quality traditional fine mats (Ie Toga).", "The region experiences a humid tropical climate with significant annual rainfall.", "Sagone is positioned along the main road connecting the western villages of Savai'i.", "The local primary school acts as an educational hub for several nearby communities.", "The surrounding forests are home to rare indigenous tropical hardwood species."],
     },
+    image: "/poi-images/samoa-sagone-tai-cities-v2.webp",
   },
   {
     id: "samoa-vaisala-tai-cities-v2",
@@ -2387,6 +2463,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Vaisala Tai se află în districtul Vaisigano, în extremul nord-vest al insulei Savai'i.", "Satul are un hotel renumit, considerat unul dintre cele mai vechi de pe insulă.", "Golful Vaisala este cunoscut pentru apele sale calme și extrem de limpezi.", "Istoric, localitatea a fost un centru pentru extracția lemnului de santal.", "Regiunea este celebră pentru legendele sale tradiționale despre zeul Moso.", "În Vaisala se află una dintre cele mai importante școli secundare din vest."],
       en: ["Vaisala Tai is located in the Vaisigano district on the far northwest of Savai'i.", "The village is home to a historic hotel, one of the first established on the island.", "Vaisala Bay is prized for its calm, crystal-clear waters and white sand.", "Historically, the area was a center for the harvesting of sandalwood.", "The region is rich in local folklore, including legends of the giant Moso.", "Vaisala serves as a key educational center with a prominent secondary school."],
     },
+    image: "/poi-images/samoa-vaisala-tai-cities-v2.webp",
   },
   {
     id: "samoa-salelologa-tai-cities-v2",
@@ -2418,6 +2495,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Salelologa Tai găzduiește singurul terminal de feribot care leagă Savai'i de Upolu.", "Piața din Salelologa este cel mai mare centru comercial de pe insula Savai'i.", "Orașul este sediul principalelor autorități guvernamentale pentru insula Savai'i.", "Geografic, Salelologa este situat în extremitatea sud-estică a insulei.", "În oraș se află sediile principale ale băncilor samoane care operează în Savai'i.", "Salelologa servește drept autogară centrală pentru sistemul de transport public al insulei."],
       en: ["Salelologa Tai is the location of the only ferry terminal connecting Savai'i to Upolu.", "The Salelologa Market is the largest and busiest trading post on Savai'i island.", "The town acts as the administrative headquarters for most government services on Savai'i.", "Geographically, Salelologa is positioned at the southeastern tip of the island.", "Most of Samoa's major banks have their primary Savai'i branches located here.", "Salelologa serves as the central hub for the island's public bus and taxi network."],
     },
+    image: "/poi-images/samoa-salelologa-tai-cities-v2.webp",
   },
   {
     id: "samoa-safotulafai-tai-cities-v2",
@@ -2449,6 +2527,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Safotulafai Tai este locul de naștere al mișcării Mau împotriva stăpânirii coloniale.", "Satul este recunoscut ca centrul politic tradițional al insulei Savai'i.", "Găzduiește reședința influentului titlu de căpetenie Letufuga.", "Safotulafai este format din mai multe subdiviziuni tradiționale sătești.", "Regiunea de coastă este cunoscută pentru pădurile sale extinse de mangrove.", "În secolul XIX, localitatea a fost un centru pentru educația creștină timpurie."],
       en: ["Safotulafai Tai is the birthplace of the Mau movement against colonial rule.", "The village is historically recognized as the traditional capital of Savai'i island.", "It is the seat of the powerful and high-ranking Letufuga chiefly title.", "Safotulafai is comprised of several distinct traditional village sub-sections.", "The coastal area of the village features significant mangrove ecosystems.", "The village was a major hub for early missionary schools in the 19th century."],
     },
+    image: "/poi-images/samoa-safotulafai-tai-cities-v2.webp",
   },
   {
     id: "samoa-sapapalii-tai-cities-v2",
@@ -2480,6 +2559,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["În Sapapali'i a debarcat John Williams pe 24 august 1830 cu nava 'Messenger of Peace'.", "Satul este reședința puternicei linii de căpetenii Malietoa.", "Un monument din sat comemorează sosirea creștinismului în Samoa.", "Sapapali'i se află la aproximativ 10 kilometri nord de portul Salelologa.", "Biserica din Sapapali'i este unul dintre cele mai vizitate situri istorice din Samoa.", "Tradițional, Sapapali'i este centrul educației religioase pe insula Savai'i."],
       en: ["John Williams landed at Sapapali'i on August 24, 1830, aboard the 'Messenger of Peace'.", "The village is the official seat of the paramount Malietoa chiefly title.", "A dedicated monument in the village marks the spot where Christianity first arrived.", "Sapapali'i is located approximately 10 kilometers north of the Salelologa ferry terminal.", "The local church is a major pilgrimage site and a key landmark in Samoan history.", "Sapapali'i remains a central hub for religious and cultural events on Savai'i."],
     },
+    image: "/poi-images/samoa-sapapalii-tai-cities-v2.webp",
   },
   {
     id: "samoa-puapua-tai-cities-v2",
@@ -2511,6 +2591,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Satul se află în districtul Fa'asaleleaga din Savai'i.", "Pescuitul la recif este vital pentru economia locală.", "A fost reconstruit parțial după ciclonul din 2012.", "Sistemul Matai guvernează viața socială a satului.", "Arhitectura combină stilul fale cu materiale moderne.", "Este o destinație populară pentru turismul ecologic."],
       en: ["Located in the Fa'asaleleaga district on Savai'i.", "Heavily impacted by Cyclone Evan in December 2012.", "Traditional fishing is the primary economic activity.", "Governance is led by the local Matai (chiefly) council.", "The village is a focal point for regional eco-tourism.", "Taro and coconut plantations surround the settlement."],
     },
+    image: "/poi-images/samoa-puapua-tai-cities-v2.webp",
   },
   {
     id: "samoa-asau-tai-cities-v2",
@@ -2542,6 +2623,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Centrul administrativ al districtului Vaisigano.", "A găzduit fabrica de cherestea Potlatch în anii '60.", "Deține unul dintre puținele porturi naturale din Samoa.", "Canalul de acces în port suferă de colmatare severă.", "Economia locală s-a bazat istoric pe exportul de lemn.", "Este punctul principal de acces în nord-vestul Savai'i."],
       en: ["Administrative hub for the Vaisigano district.", "Former center of the national timber industry (1960s).", "Home to a strategic deep-water harbor on Savai'i.", "Port access is limited due to entrance channel siltation.", "Shifted from industrial logging to local agriculture.", "Key service center for northwest Savai'i communities."],
     },
+    image: "/poi-images/samoa-asau-tai-cities-v2.webp",
   },
   {
     id: "samoa-siumu-uta-cities-v2",
@@ -2573,6 +2655,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Situat pe drumul principal care traversează insula Upolu.", "Regiune majoră pentru producția de cacao și taro.", "Sufixul 'Uta' indică locația spre interiorul insulei.", "Solul vulcanic permite recolte bogate tot anul.", "Punct de legătură între sudul insulei și capitala Apia.", "Viața satului este centrată pe agricultura de subzistență."],
       en: ["Located along the main cross-island road on Upolu.", "Major producer of cocoa, taro, and coconuts.", "'Uta' designates the inland settlement area.", "Features rich volcanic soil ideal for intensive farming.", "Strategic link for transporting goods to Apia markets.", "Maintains a traditional Samoan agricultural lifestyle."],
     },
+    image: "/poi-images/samoa-siumu-uta-cities-v2.webp",
   },
   {
     id: "samoa-lalomanu-uta-cities-v2",
@@ -2604,6 +2687,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Zonă rezidențială dezvoltată după tsunami-ul din 2009.", "Situat la extremitatea sud-estică a insulei Upolu.", "Oferă protecție naturală datorită altitudinii ridicate.", "Găzduiește școlile și bisericile principale din zonă.", "Punct strategic pentru gestionarea turismului local.", "Acces facil către insulele nelocuite din larg."],
       en: ["Main residential hub following the 2012 relocation.", "Located at the southeastern extremity of Upolu island.", "Positioned on higher ground for natural disaster safety.", "Serves as the administrative heart of Lalomanu.", "Surrounded by steep volcanic cliffs and rainforest.", "Close to the Aleipata Marine Protected Area."],
     },
+    image: "/poi-images/samoa-lalomanu-uta-cities-v2.webp",
   },
   {
     id: "samoa-lotofaga-uta-cities-v2",
@@ -2635,6 +2719,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Fieful ancestral al influentei familii nobiliare Fiame.", "Situat deasupra monumentului natural To-Sua Ocean Trench.", "Locul de origine al primului prim-ministru al Samoei.", "Centru important pentru arta tatuajului tradițional.", "Economia se bazează pe exportul de taro și turism.", "Găzduiește facilități administrative regionale majore."],
       en: ["Ancestral home of the influential Fiame chiefly line.", "Located inland from the iconic To-Sua Ocean Trench.", "Birthplace of Samoa's first Prime Minister.", "A major center for traditional Samoan tattooing (tatau).", "Agricultural hub specializing in high-quality taro.", "Key administrative center for the southern Upolu coast."],
     },
+    image: "/poi-images/samoa-lotofaga-uta-cities-v2.webp",
   },
   {
     id: "samoa-poutasi-tai-cities-v2",
@@ -2666,6 +2751,7 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Model internațional de reziliență după tsunami-ul din 2009.", "Găzduiește un centru de arte și meșteșuguri tradiționale.", "Lider în proiecte de grădinărit comunitar durabil.", "Situat pe coasta sudică, în districtul Falealili.", "Recunoscut pentru arhitectura sa rezistentă la dezastre.", "Centru regional pentru evenimente sportive și culturale."],
       en: ["Globally recognized for post-2009 tsunami recovery.", "Home to a dedicated arts and crafts learning center.", "Pioneer in community-based organic gardening.", "Located in the scenic Falealili district of Upolu.", "Led by high chief and visionary Tuatagaloa Joe Annandale.", "Features disaster-resilient infrastructure and buildings."],
     },
+    image: "/poi-images/samoa-poutasi-tai-cities-v2.webp",
   },
   {
     id: "samoa-falealili-cities-v2",
@@ -2697,5 +2783,6 @@ export const samoaCitiesV2: POI[] = [
       ro: ["Unul dintre cele mai influente districte politice din Upolu.", "Include numeroase sate cu o structură socială strânsă.", "Principal furnizor de produse agricole pentru capitală.", "Regiune celebră pentru legendele și istoria sa orală.", "Găzduiește consilii tradiționale de mare importanță.", "Relieful variază de la lagune la munți vulcanici."],
       en: ["One of the most politically significant districts on Upolu.", "Consists of multiple coastal and inland sub-villages.", "A primary agricultural hub for taro and coconut crops.", "Famed for its extensive oral history and ancient legends.", "Plays a central role in national chiefly (Matai) councils.", "Features diverse ecosystems from lagoons to rainforests."],
     },
+    image: "/poi-images/samoa-falealili-cities-v2.webp",
   }
 ];

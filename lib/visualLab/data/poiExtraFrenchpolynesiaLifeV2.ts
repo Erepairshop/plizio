@@ -31,6 +31,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
       ro: ["Fondată în 1960", "Suprafață: 10 hectare", "Specii de plante: 500", "Orhidee: 100 de specii", "Vizitatori pe an: 30.000", "Iazuri: 3"],
       en: ["Founded in 1960", "Area: 10 hectares", "Plant species: 500", "Orchid species: 100", "Annual visitors: 30,000", "Ponds: 3"],
     },
+    image: "/poi-images/frenchpolynesia-harrison-smith-garden-life-v2.webp",
   },
   {
     id: "frenchpolynesia-fakarava-biosphere-life-v2",
@@ -62,6 +63,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
       ro: ["Recunoscută în 2006", "Suprafață: 2.000 de kilometri pătrați", "Lagună: 1.200 de kilometri pătrați", "Populație: 800 de locuitori", "Specii de corali: 150", "Specii de pești: 500"],
       en: ["Recognized in 2006", "Area: 2,000 square kilometers", "Lagoon area: 1,200 square kilometers", "Population: 800", "Coral species: 150", "Fish species: 500"],
     },
+    image: "/poi-images/frenchpolynesia-fakarava-biosphere-life-v2.webp",
   },
   {
     id: "frenchpolynesia-te-faaiti-park-life-v2",
@@ -93,6 +95,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
       ro: ["Deschis în 1980", "Suprafață: 3 hectare", "Copaci: 200", "Lac: 0,5 hectare", "Locuri de joacă: 2", "Mese de picnic: 40"],
       en: ["Opened in 1980", "Area: 3 hectares", "Trees: 200", "Pond: 0.5 hectares", "Playgrounds: 2", "Picnic tables: 40"],
     },
+    image: "/poi-images/frenchpolynesia-te-faaiti-park-life-v2.webp",
   },
   {
     id: "frenchpolynesia-tetiaroa-birds-life-v2",
@@ -124,6 +127,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
       ro: ["Atolul este format din 13 motus.", "Tetiaroa este situat la 53 km nord de Tahiti.", "Suprafața terestră este de aproximativ 2 km².", "Rezervația a fost înființată în 1991.", "Laguna găzduiește peste 50 de specii de pești.", "Universitatea din California operează o stație de cercetare aici."],
       en: ["The atoll comprises 13 motus.", "Tetiaroa is located 53 km north of Tahiti.", "The land area is about 2 km².", "The sanctuary was established in 1991.", "The lagoon hosts over 50 fish species.", "The University of California operates a research station there."],
     },
+    image: "/poi-images/frenchpolynesia-tetiaroa-birds-life-v2.webp",
   },
   {
     id: "frenchpolynesia-rimatara-ura-life-v2",
@@ -155,6 +159,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
       ro: ["Rimatara are o suprafață de 8 km².", "Rezervația a fost înființată în 1993.", "Suprafața protejată este de 4 km².", "Populația de Ura este estimată la 1000 de indivizi.", "Insula are aproximativ 800 de locuitori.", "Specia endemică de stârc de Rimatara este Acrocephalus rimatarae."],
       en: ["Rimatara covers 8 km².", "The reserve was established in 1993.", "Protected area is 4 km².", "Ura population is estimated at 1000 individuals.", "The island has about 800 inhabitants.", "Endemic Rimatara reed warbler species is Acrocephalus rimatarae."],
     },
+    image: "/poi-images/frenchpolynesia-rimatara-ura-life-v2.webp",
   },
   {
     id: "frenchpolynesia-ua-huka-garden-life-v2",
@@ -186,6 +191,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
       ro: ["Grădina se întinde pe 4 hectare.", "A fost înființată în 1995.", "Insula Ua Huka are o suprafață de 83 km².", "Populația este de aproximativ 600 de locuitori.", "Grădina găzduiește peste 200 de specii de plante.", "Insula are cinci insulițe mici."],
       en: ["The garden spans 4 hectares.", "It was established in 1995.", "Ua Huka island covers 83 km².", "Population is about 600.", "The garden hosts over 200 plant species.", "The island has five small islets."],
     },
+    image: "/poi-images/frenchpolynesia-ua-huka-garden-life-v2.webp",
   },
   {
     id: "frenchpolynesia-eiao-reserve-life-v2",
@@ -217,6 +223,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
       ro: ["Suprafața rezervației este de 43 km².", "Rezervația a fost înființată în 1991.", "Stâncile ating 300 m înălțime.", "Eiao este nelocuit.", "Pufinul marchizian cuibărește aici.", "Pandanusul de Eiao este o specie endemică."],
       en: ["Reserve area is 43 km².", "The reserve was established in 1991.", "Cliffs are up to 300 m high.", "Eiao is uninhabited.", "Marquesan shearwater breeds here.", "Eiao crocodile tree is an endemic species."],
     },
+    image: "/poi-images/frenchpolynesia-eiao-reserve-life-v2.webp",
   },
   {
     id: "frenchpolynesia-mohotani-reserve-life-v2",
@@ -248,6 +255,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
       ro: ["Suprafața rezervației este de 12 km².", "Rezervația a fost înființată în 1991.", "Stâncile au peste 200 m înălțime.", "Mohotani este nelocuit.", "Porumbelul marchizian cuibărește aici.", "Feriga arborească de Mohotani este o specie endemică."],
       en: ["Reserve area is 12 km².", "The reserve was established in 1991.", "Cliffs are over 200 m high.", "Mohotani is uninhabited.", "Marquesan fruit dove breeds here.", "Mohotani tree fern is an endemic species."],
     },
+    image: "/poi-images/frenchpolynesia-mohotani-reserve-life-v2.webp",
   },
   {
     id: "frenchpolynesia-hatutu-reserve-life-v2",
@@ -279,6 +287,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
       ro: ["Suprafața rezervației este de 6,5 km².", "Rezervația a fost înființată în 1991.", "Stâncile sunt de până la 200 m înălțime.", "Hatutu este nelocuit.", "Petrelul de Hatutu cuibărește aici.", "Arbustul endemic Sida hatutu crește pe insulă."],
       en: ["Reserve area is 6.5 km².", "The reserve was established in 1991.", "Cliffs are up to 200 m high.", "Hatutu is uninhabited.", "Hatutu petrel breeds here.", "Endemic shrub Sida hatutu grows on the island."],
     },
+    image: "/poi-images/frenchpolynesia-hatutu-reserve-life-v2.webp",
   },
   {
     id: "frenchpolynesia-fataua-valley-life-v2",
@@ -310,6 +319,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
       ro: ["Zona protejată are 400 de hectare.", "A fost desemnată în 2005.", "Altitudinea atinge 600 m.", "Monarhul tahitian trăiește aici.", "Valea este străbătută de mai multe pâraie.", "Face parte dintr-o arie protejată mai mare."],
       en: ["Protected area covers 400 hectares.", "It was designated in 2005.", "Elevation reaches 600 m.", "Tahiti monarch lives here.", "The valley is traversed by several streams.", "It is part of a larger protected area."],
     },
+    image: "/poi-images/frenchpolynesia-fataua-valley-life-v2.webp",
   },
   {
     id: "frenchpolynesia-papenoo-valley-life-v2",
@@ -341,6 +351,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
       ro: ["Valea are 50 km².", "Zona protejată a fost înființată în 1987.", "Râul Papenoo are 22 km lungime.", "Cel mai înalt punct este la 700 m.", "Stârcul tahitian și ochiul cenușiu se găsesc aici.", "Râul se varsă în golful Papenoo."],
       en: ["The valley covers 50 km².", "The reserve was established in 1987.", "The Papenoo River is 22 km long.", "Highest point is at 700 m.", "Tahiti reed warbler and silvereye are found here.", "The river flows into Papenoo Bay."],
     },
+    image: "/poi-images/frenchpolynesia-papenoo-valley-life-v2.webp",
   },
   {
     id: "frenchpolynesia-opunohu-valley-life-v2",
@@ -372,6 +383,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
       ro: ["Valea are 20 km².", "Zona protejată a fost înființată în 1995.", "Altitudinea atinge 800 m.", "Există mai multe marae în vale.", "Râul Opunohu formează cascade.", "Porumbelul de fructe de Moorea trăiește aici."],
       en: ["The valley covers 20 km².", "The protected area was established in 1995.", "Elevation reaches 800 m.", "There are several marae in the valley.", "The Opunohu River forms waterfalls.", "The Moorea fruit dove lives here."],
     },
+    image: "/poi-images/frenchpolynesia-opunohu-valley-life-v2.webp",
   },
   {
     id: "frenchpolynesia-faaroa-reserve-life-v2",
@@ -403,6 +415,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
       ro: ["Rezervația are 15 km².", "A fost înființată în 1990.", "Râul Faaroa are 10 km lungime.", "Este singurul râu navigabil din Polinezia Franceză.", "Cel mai înalt punct este la 600 m.", "Porumbelul de fructe de Raiatica trăiește aici."],
       en: ["The reserve covers 15 km².", "It was established in 1990.", "The Faaroa River is 10 km long.", "It is the only navigable river in French Polynesia.", "The highest point is 600 m.", "The Raiatea fruit dove lives here."],
     },
+    image: "/poi-images/frenchpolynesia-faaroa-reserve-life-v2.webp",
   },
   {
     id: "frenchpolynesia-rangiroa-lagoon-life-v2",
@@ -434,6 +447,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
       ro: ["Laguna are 1.440 km².", "Este a doua ca mărime din lume.", "Atolul are aproximativ 240 de motus.", "Adâncimea atinge 35 m.", "Peste 500 de specii de pești trăiesc aici.", "Sanctuarul a fost înființat în 1998."],
       en: ["The lagoon covers 1,440 km².", "It is the second largest in the world.", "The atoll has about 240 motus.", "Depth reaches up to 35 m.", "Over 500 fish species live here.", "The sanctuary was established in 1998."],
     },
+    image: "/poi-images/frenchpolynesia-rangiroa-lagoon-life-v2.webp",
   },
   {
     id: "frenchpolynesia-moorea-lagoonarium-life-v2",
@@ -465,6 +479,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
       ro: ["Laguna are 4 hectare.", "Adâncimea atinge 5 m.", "Lagoonariumul s-a deschis în 2005.", "Adăpostește rechini de recif cu vârf negru.", "Temperatura apei este 26-29°C.", "Zona face parte dintr-o arie protejată mai mare."],
       en: ["The lagoon covers 4 hectares.", "Depth reaches 5 m.", "The Lagoonarium opened in 2005.", "It hosts blacktip reef sharks.", "Water temperature is 26-29°C.", "The area is part of a larger protected area."],
     },
+    image: "/poi-images/frenchpolynesia-moorea-lagoonarium-life-v2.webp",
   },
   {
     id: "frenchpolynesia-bora-bora-turtles-life-v2",
@@ -496,6 +511,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
       ro: ["Centrul a fost fondat în 2010.", "A tratat peste 300 de animale.", "Adăpostește țestoase verzi și hawksbill.", "Dispune de mai multe bazine.", "Țestoasele sunt eliberate după recuperare.", "Colaborează cu pescarii locali."],
       en: ["The center was founded in 2010.", "It has treated over 300 animals.", "It houses green and hawksbill turtles.", "It features several pools.", "Turtles are released after recovery.", "It works with local fishermen."],
     },
+    image: "/poi-images/frenchpolynesia-bora-bora-turtles-life-v2.webp",
   },
   {
     id: "frenchpolynesia-toau-wildlife-life-v2",
@@ -527,6 +543,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
       ro: ["Laguna are 300 km².", "Zona este protejată din 1995.", "Există aproximativ 20 de motus.", "Sula cu picioare roșii și fregata mare sunt prezente.", "Laguna este bogată în ton.", "Este un loc important de cuibărit pentru țestoasa verde."],
       en: ["The lagoon covers 300 km².", "The area has been protected since 1995.", "There are about 20 motus.", "Red-footed booby and great frigatebird occur.", "The lagoon is rich in tuna.", "It is an important nesting site for green turtles."],
     },
+    image: "/poi-images/frenchpolynesia-toau-wildlife-life-v2.webp",
   },
   {
     id: "frenchpolynesia-makatea-birds-life-v2",
@@ -558,6 +575,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
       ro: ["Makatea are 24 km².", "Insula a fost sit de minerit de fosfați între 1924-1966.", "Înălțimea atinge 80 m.", "Petrelul de Makatea cuibărește aici.", "Zona protejată a fost înființată în 1998.", "Există șopârle endemice."],
       en: ["Makatea covers 24 km².", "The island was a phosphate mining site from 1924-1966.", "Elevation reaches 80 m.", "The Makatea petrel breeds here.", "The protected area was established in 1998.", "Endemic geckos are present."],
     },
+    image: "/poi-images/frenchpolynesia-makatea-birds-life-v2.webp",
   },
   {
     id: "frenchpolynesia-tahiti-lagoonarium-life-v2",
@@ -589,6 +607,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
       ro: ["Laguna are 3 hectare.", "Adâncimea atinge 4 m.", "Lagoonariumul s-a deschis în 2007.", "Adăpostește pești tropicali și raze.", "Temperatura apei este 27-30°C.", "Face parte dintr-o arie protejată mai mare."],
       en: ["The lagoon covers 3 hectares.", "Depth reaches 4 m.", "The Lagoonarium opened in 2007.", "It hosts tropical fish and rays.", "Water temperature is 27-30°C.", "It is part of a larger protected area."],
     },
+    image: "/poi-images/frenchpolynesia-tahiti-lagoonarium-life-v2.webp",
   },
   {
     id: "frenchpolynesia-vaiare-trail-life-v2",
@@ -620,6 +639,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
       ro: ["Traseul are 8 km lungime.", "A fost construit în 2002.", "Leagă satele Vaiare și Paopao.", "Altitudinea atinge 150 m.", "Porumbelul de fructe de Moorea se găsește aici.", "Face parte din rețeaua de ecoturism Moorea."],
       en: ["The trail is 8 km long.", "It was built in 2002.", "It connects Vaiare and Paopao.", "Elevation reaches 150 m.", "The Moorea fruit dove is found here.", "It is part of the ecotourism network."],
     },
+    image: "/poi-images/frenchpolynesia-vaiare-trail-life-v2.webp",
   },
   {
     id: "frenchpolynesia-mount-rotui-life-v2",
@@ -651,6 +671,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
       ro: ["Aici trăiesc melci tereștri rari din genul Partula, specifici Polineziei.", "Regiunea găzduiește peste 20 de specii diferite de ferigi.", "Păsări tropicale, precum pescărușul tahitian, pot fi observate aici.", "Umiditatea în zonele de vârf depășește adesea pragul de 90%.", "Nu există prădători invazivi în straturile superioare ale pădurii.", "Oamenii de știință studiază zona pentru a monitoriza schimbările climatice."],
       en: ["The area is home to rare Polynesian land snails of the genus Partula.", "More than 20 distinct species of ferns are found within the reserve.", "Tropical birds, such as the Tahitian kingfisher, can be spotted here.", "Humidity levels near the mountain peaks frequently exceed 90%.", "Higher forest elevations remain free from invasive predatory mammals.", "Researchers utilize the area to study the impacts of climate change."],
     },
+    image: "/poi-images/frenchpolynesia-mount-rotui-life-v2.webp",
   },
   {
     id: "frenchpolynesia-moorea-tropical-garden-life-v2",
@@ -682,6 +703,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
       ro: ["Orhideele de vanilie din această grădină trebuie polenizate manual.", "Sunt cultivate peste 15 varietăți diferite de fructe exotice.", "Dulcețurile de casă din flori de Tiare sunt o specialitate locală.", "Grădina este amplasată pe un versant abrupt cu vedere la Golful Opunohu.", "Situl utilizează metode de agricultură ecologică, fără pesticide chimice.", "O potecă îngustă duce către o cascadă situată în jungla din apropiere."],
       en: ["The vanilla orchids in the garden must be pollinated by hand.", "Over 15 distinct varieties of exotic fruits are grown on-site.", "Homemade jams infused with Tiare flowers are a signature local product.", "The garden is perched on a steep slope overlooking Opunohu Bay.", "The facility employs organic farming practices without chemical pesticides.", "A small trail from the garden leads to a nearby jungle waterfall."],
     },
+    image: "/poi-images/frenchpolynesia-moorea-tropical-garden-life-v2.webp",
   },
   {
     id: "frenchpolynesia-te-pari-cliffs-life-v2",
@@ -713,6 +735,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
       ro: ["Stâncile fac parte din structura vulcanică a peninsulei Tahiti Iti.", "Nu există drumuri asfaltate care să ducă în această zonă.", "'Grotte de Vaitomoana' este o faimoasă peșteră marină situată în stânci.", "Drumeții trebuie să traverseze adesea râuri pentru a ajunge la baza stâncilor.", "Regiunea este cunoscută pentru valurile masive care se sparg de țărm.", "Numeroase păsări marine își fac cuibul în fisurile inaccesibile ale rocii."],
       en: ["The cliffs are a prominent feature of the Tahiti Iti volcanic shield.", "There are no roads providing vehicular access to this remote area.", "The 'Grotte de Vaitomoana' is a famous sea cave embedded in the cliffs.", "Hikers must often ford rivers to reach the coastal cliff sections.", "The region is renowned for its powerful, crashing oceanic swells.", "Numerous seabirds nest within the inaccessible crevices of the rock face."],
     },
+    image: "/poi-images/frenchpolynesia-te-pari-cliffs-life-v2.webp",
   },
   {
     id: "frenchpolynesia-vaipo-nature-life-v2",
@@ -744,6 +767,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
       ro: ["Înălțimea cascadei: 350 m", "Insula Nuku Hiva, arhipelagul Marquesas", "Rezervație UNESCO din 2017", "Acces pe jos, traseu de 4 km", "Specie endemică de pasăre: porumbelul Marquesas (Ducula galeata)", "Precipitații anuale: peste 2500 mm"],
       en: ["Height: 350 m (1,148 ft)", "Flow rate: 3 m³/s average", "Part of Marquesas UNESCO Biosphere Reserve", "First recorded by Europeans in 1791", "Basalt cliff formation dating to 2.5 million years ago", "Catchment area: 15 km²"],
     },
+    image: "/poi-images/frenchpolynesia-vaipo-nature-life-v2.webp",
   },
   {
     id: "frenchpolynesia-rurutu-whales-life-v2",
@@ -775,6 +799,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
       ro: ["Suprafață: 200 km²", "Specie: balenă cu cocoașă", "Perioadă: iulie-octombrie", "Înființat: 2002", "Lungime medie adult: 14-17 m", "Vizitatori anual: aproximativ 3000"],
       en: ["Area: 200 km² (77 sq mi)", "Species: Humpback whale (Megaptera novaeangliae)", "Migration season: July to October", "Established: 2002", "Adult length: 14-17 m (46-56 ft)", "Annual tourist visits: 3,000-5,000"],
     },
+    image: "/poi-images/frenchpolynesia-rurutu-whales-life-v2.webp",
   },
   {
     id: "frenchpolynesia-tahaa-coral-life-v2",
@@ -806,6 +831,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
       ro: ["Specii de corali: peste 100", "Specii de pești: peste 500", "Suprafața lagunei: 80 km²", "Adâncime medie: 5 m", "Acoperire coral: 40%", "Protejat din 2019"],
       en: ["Coral species: over 100", "Fish species: over 500", "Lagoon area: 80 km² (31 sq mi)", "Average depth: 5 m (16 ft)", "Coral cover: 40%", "Protected marine area since 2019"],
     },
+    image: "/poi-images/frenchpolynesia-tahaa-coral-life-v2.webp",
   },
   {
     id: "frenchpolynesia-bora-bora-rays-life-v2",
@@ -837,6 +863,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
       ro: ["Adâncime: 10 m", "Specie: raza leopard (Aetobatus narinari)", "Arie protejată din 2010", "Vizibilitate medie: 30 m", "Număr maxim de raze: 50", "Temperatură apă: 27°C"],
       en: ["Depth: 10 m (33 ft)", "Species: Spotted eagle ray (Aetobatus narinari)", "Protected since 2010", "Visibility: up to 40 m (131 ft)", "Maximum rays observed: 50", "Water temperature: 27°C (80.6°F)"],
     },
+    image: "/poi-images/frenchpolynesia-bora-bora-rays-life-v2.webp",
   },
   {
     id: "frenchpolynesia-maupiti-mantas-life-v2",
@@ -868,6 +895,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
       ro: ["Adâncime: 2-5 m", "Specie: manta de recif (Manta alfredi)", "Arie protejată din 2015", "Anvergură maximă: 4 m", "Număr maxim simultan: 20", "Acces doar cu barca"],
       en: ["Depth: 2-5 m (6.6-16.4 ft)", "Species: Reef manta (Manta alfredi)", "Protected since 2015", "Max wingspan: 4 m (13 ft)", "Max rays at once: 20", "Boat access only"],
     },
+    image: "/poi-images/frenchpolynesia-maupiti-mantas-life-v2.webp",
   },
   {
     id: "frenchpolynesia-tetiaroa-lagoon-life-v2",
@@ -899,6 +927,7 @@ export const frenchpolynesiaLifeV2: POI[] = [
       ro: ["Suprafața lagunei: 30 km²", "Adâncime medie: 3 m", "Număr motu: 12", "Protejat din 2014", "Specii de pești: peste 200", "Specii de păsări: 18"],
       en: ["Lagoon area: 30 km² (11.6 sq mi)", "Average depth: 3 m (9.8 ft)", "Number of motu: 12", "Protected since 2014", "Fish species: over 200", "Bird species: 18"],
     },
+    image: "/poi-images/frenchpolynesia-tetiaroa-lagoon-life-v2.webp",
   },
   {
     id: "frenchpolynesia-ahe-oysters-life-v2",
@@ -930,5 +959,6 @@ export const frenchpolynesiaLifeV2: POI[] = [
       ro: ["Suprafața lagunei: 150 km²", "Adâncime medie: 10 m", "Specie: Pinctada margaritifera", "Temperatură apă: 28°C", "Număr ferme de perle: 15", "Începutul culturii: anii 1970"],
       en: ["Lagoon area: 150 km² (58 sq mi)", "Average depth: 10 m (33 ft)", "Oyster species: Pinctada margaritifera", "Water temperature: 28°C (82.4°F)", "Pearl farms: 15", "Pearl farming started: 1970s"],
     },
+    image: "/poi-images/frenchpolynesia-ahe-oysters-life-v2.webp",
   }
 ];

@@ -1028,6 +1028,7 @@ imageHint: "Chocske vrchy mountains forest",
       ro: ["Număr de creste: 13", "Altitudine maximă: Magurka, 1232 m", "Suprafață: 200 km²", "Lungimea crestei principale: 25 km", "Populația satului Zuberec: 1000 (2021)", "Număr de trasee de drumeție: 60 km"],
       en: ["Number of ridges: 13", "Highest peak: Magurka, 1232 m", "Area: 200 km²", "Length of main ridge: 25 km", "Population of Zuberec village: 1,000 (2021)", "Hiking trail length: 60 km"],
     },
+    image: "/poi-images/slovakia-trinast-horskych-pasem-relief-v2.webp",
   },
   {
     id: "slovakia-juhoslovenska-kotlina-relief-v2",
@@ -1060,5 +1061,6 @@ imageHint: "Chocske vrchy mountains forest",
       ro: ["Altitudini joase între 150 și 280 metri", "Subdiviziuni: Bazinele Ipeľ, Lučenec și Rimava", "Climat temperat-continental cald", "Soluri fertile de tip cernoziom și luviosol", "Râul Rimava este principala arteră hidrografică", "Regiune importantă pentru viticultură și cereale"],
       en: ["Located along the southern border with Hungary", "Average altitude: 150-250 meters", "Formed by Neogene tectonic depressions", "Major rivers: Ipeľ, Rimava, and Slaná", "Critical area for Slovak food production", "Rich deposits of lignite and ceramic clays"],
     },
+    image: "/poi-images/slovakia-juhoslovenska-kotlina-relief-v2.webp",
   }
 ];

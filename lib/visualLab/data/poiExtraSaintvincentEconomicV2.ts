@@ -31,6 +31,7 @@ export const saintvincentEconomicV2: POI[] = [
       ro: ["Portul de mare adâncime a fost deschis în 1964", "Adâncimea apei variază între 9 și 12 metri", "Punct principal de export pentru banane și rădăcinoase", "Dispune de un terminal modern pentru nave de croazieră", "Singurul port din țară dotat pentru containere mari", "Situat în partea de sud-vest a capitalei Kingstown"],
       en: ["Deep water harbour was commissioned in 1964", "Water depth ranges between 9 and 12 metres", "Primary export point for bananas and agricultural goods", "Features a dedicated terminal for cruise ship passengers", "Only port in the country capable of handling large containers", "Located in the southwestern section of Kingstown"],
     },
+    image: "/poi-images/saintvincent-kingstown-port-economic-v2.webp",
   },
   {
     id: "saintvincent-argyle-airport-economic-v2",
@@ -62,6 +63,7 @@ export const saintvincentEconomicV2: POI[] = [
       ro: ["Inaugurarea oficială a avut loc pe 14 februarie 2017", "Lungimea pistei de aterizare este de 2.744 metri", "Costul total a fost de aproximativ 260 milioane USD", "Poate gestiona aeronave de dimensiunea Boeing 747", "A înlocuit vechiul aeroport E. T. Joshua din Arnos Vale", "Terminalul are o suprafață de 11.000 de metri pătrați"],
       en: ["Official opening took place on February 14, 2017", "Runway length measures 2,744 metres", "Total construction cost was approximately 260 million USD", "Capable of handling aircraft the size of a Boeing 747", "Replaced the smaller E. T. Joshua Airport at Arnos Vale", "The passenger terminal covers 11,000 square metres"],
     },
+    image: "/poi-images/saintvincent-argyle-airport-economic-v2.webp",
   },
   {
     id: "saintvincent-camden-park-industrial-v2",
@@ -93,6 +95,7 @@ export const saintvincentEconomicV2: POI[] = [
       ro: ["Cea mai mare zonă industrială de pe insula Saint Vincent", "Sediul companiei East Caribbean Bottlers Limited", "Găzduiește unități de prelucrare a metalelor", "Dispune de un debarcader propriu pentru marfă", "Angajator major pentru regiunea de la vest de capitală", "Dezvoltat pentru a diversifica economia locală"],
       en: ["Largest industrial zone on the island of Saint Vincent", "Home to East Caribbean Bottlers Limited", "Hosts metal fabrication and processing companies", "Features its own shipping pier for cargo handling", "Major employer for the region west of the capital", "Developed to diversify the local economy"],
     },
+    image: "/poi-images/saintvincent-camden-park-industrial-v2.webp",
   },
   {
     id: "saintvincent-diamond-industrial-v2",
@@ -124,6 +127,7 @@ export const saintvincentEconomicV2: POI[] = [
       ro: ["Situat strategic la sud de Aeroportul Argyle", "Găzduiește fabrica Diamond Glass and Aluminum", "Parte a strategiei naționale de descentralizare", "Conectat direct la autostrada Windward Highway", "Concentrat pe industrie ușoară și logistică de depozitare", "Oferă spații subvenționate pentru start-up-uri locale"],
       en: ["Strategically located south of Argyle International Airport", "Home to the Diamond Glass and Aluminum factory", "Part of the national decentralization strategy", "Connected directly to the main Windward Highway", "Focuses on light manufacturing and warehousing", "Provides subsidized space for local startup businesses"],
     },
+    image: "/poi-images/saintvincent-diamond-industrial-v2.webp",
   },
   {
     id: "saintvincent-lowmans-bay-power-v2",
@@ -155,6 +159,7 @@ export const saintvincentEconomicV2: POI[] = [
       ro: ["Cea mai mare centrală electrică pe combustibili fosili din țară", "Prima etapă a fost pusă în funcțiune în anul 2006", "A doua etapă de extindere a fost finalizată în 2010", "Are o capacitate totală de peste 20 de megawați", "Operată de St. Vincent Electricity Services Limited", "Situată într-un golf protejat la nord de Kingstown"],
       en: ["Largest fossil-fuel power plant in the country", "The first stage was commissioned in 2006", "Second expansion phase was completed in 2010", "Total generation capacity exceeds 20 megawatts", "Operated by St. Vincent Electricity Services Limited", "Located in a protected bay north of Kingstown"],
     },
+    image: "/poi-images/saintvincent-lowmans-bay-power-v2.webp",
   },
   {
     id: "saintvincent-ottley-hall-shipyard-v2",
@@ -186,6 +191,7 @@ export const saintvincentEconomicV2: POI[] = [
       ro: ["Dispune de un doc uscat complet operațional", "Locație strategică în golful protejat Ottley Hall", "Poate găzdui nave cu pescaj considerabil", "Inițiat ca proiect major în anii 1990", "Element important al infrastructurii maritime naționale", "Oferă spații de depozitare în timpul sezonului de uragane"],
       en: ["Features a fully operational dry dock facility", "Strategically located in the sheltered Ottley Hall Bay", "Capable of accommodating vessels with significant draft", "Initiated as a major project in the 1990s", "Important component of national maritime infrastructure", "Provides storage for yachts during the hurricane season"],
     },
+    image: "/poi-images/saintvincent-ottley-hall-shipyard-v2.webp",
   },
   {
     id: "saintvincent-mesopotamia-agriculture-v2",
@@ -217,6 +223,7 @@ export const saintvincentEconomicV2: POI[] = [
       ro: ["Considerată cea mai fertilă vale de pe întreaga insulă", "Principala zonă de cultivare pentru banane și arroroot", "Cea mai mare densitate de mici fermieri din țară", "Solurile vulcanice oferă o bogăție naturală de nutrienți", "Înconjurată de vârfurile masivului Grand Bonhomme", "Centrul producției agricole tradiționale"],
       en: ["Considered the most fertile valley on the entire island", "Main cultivation area for bananas and arrowroot", "Highest density of smallholder farmers in the country", "Volcanic soils provide natural nutrient richness", "Surrounded by the peaks of Grand Bonhomme", "Hub of traditional agricultural production"],
     },
+    image: "/poi-images/saintvincent-mesopotamia-agriculture-v2.webp",
   },
   {
     id: "saintvincent-kingstown-market-economic-v2",
@@ -248,6 +255,7 @@ export const saintvincentEconomicV2: POI[] = [
       ro: ["Modernizarea centrală a fost finalizată în anul 2000", "Dispune de secțiuni separate pentru pește și carne", "Locația principală pentru vânzarea făinii de arroroot", "Cel mai bun loc pentru cumpărarea condimentelor autentice", "Cea mai mare afluență este vineri și sâmbătă dimineața", "Loc de întâlnire tradițional pentru fermierii din provincie"],
       en: ["Major modernization was completed in the year 2000", "Features separate sections for fish and meat products", "Primary location for purchasing local arrowroot flour", "Best place to buy authentic Caribbean spices", "Peak business hours are Friday and Saturday mornings", "Traditional meeting point for rural farmers"],
     },
+    image: "/poi-images/saintvincent-kingstown-market-economic-v2.webp",
   },
   {
     id: "saintvincent-barrouallie-fisheries-v2",
@@ -279,6 +287,7 @@ export const saintvincentEconomicV2: POI[] = [
       ro: ["Barrouallie este faimos pentru vânătoarea de Blackfish", "Complexul a fost modernizat cu sprijin din Japonia", "Asigură subzistența pentru peste 100 de pescari", "Include mașini de gheață și depozite frigorifice moderne", "Cel mai important centru de pescuit de pe coasta de vest", "Uleiul de Blackfish este extras aici în mod tradițional"],
       en: ["Barrouallie is famous for hunting blackfish (pilot whales)", "The complex was upgraded with assistance from Japan", "Provides livelihoods for over 100 local fishermen", "Features modern ice machines and cold storage units", "Most important fishing hub on the leeward coast", "Blackfish oil is traditionally extracted at this site"],
     },
+    image: "/poi-images/saintvincent-barrouallie-fisheries-v2.webp",
   },
   {
     id: "saintvincent-richmond-quarry-economic-v2",
@@ -310,5 +319,6 @@ export const saintvincentEconomicV2: POI[] = [
       ro: ["Principalul furnizor de piatră de bazalt din Saint Vincent", "A furnizat materiale pentru construcția Aeroportului Argyle", "Situat la poalele vulcanului La Soufrière", "Cantități mari sunt transportate cu barje maritime", "Angajator major în partea de nord a insulei", "Procesează rocă vulcanică magmatică extrem de dură"],
       en: ["Primary supplier of basalt aggregate in Saint Vincent", "Provided materials for the construction of Argyle Airport", "Located at the base of the La Soufrière volcano", "Large quantities are transported away by sea barges", "Major employer in the northern region of the island", "Processes extremely hard volcanic igneous rock"],
     },
+    image: "/poi-images/saintvincent-richmond-quarry-economic-v2.webp",
   }
 ];

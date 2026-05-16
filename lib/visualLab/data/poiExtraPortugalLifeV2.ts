@@ -32,6 +32,7 @@ export const portugalLifeV2: POI[] = [
       ro: ["Rezervația acoperă aproximativ 2.000 de hectare.", "Peste 200 de specii de păsări au fost înregistrate.", "Producția anuală de sare din saline este de circa 5.000 de tone.", "Populația de flamingo atinge până la 1.000 de indivizi iarna.", "Zona se află la granița cu Spania.", "Temperatura medie este de 17°C în ianuarie și 28°C în iulie."],
       en: ["The reserve covers approximately 2,000 hectares.", "Over 200 bird species have been recorded.", "Annual salt production from the pans is about 5,000 tons.", "Flamingo population reaches up to 1,000 individuals in winter.", "The area lies on the border with Spain.", "Average temperature is 17°C in January and 28°C in July."],
     },
+    image: "/poi-images/portugal-sapal-de-castro-marim-life-v2.webp",
   },
   {
     id: "portugal-parque-natural-do-litoral-norte-life-v2",
@@ -64,6 +65,7 @@ export const portugalLifeV2: POI[] = [
       ro: ["Înființat în noiembrie 1987", "Extindere pe 16 kilometri", "Suprafață de 440 hectare", "Protejează recifele fosile", "Habitat pentru prundăraș", "Situat în districtul Braga"],
       en: ["Established in 1987", "16 km of Atlantic coastline", "Total area of 440 hectares", "Includes marine reefs", "140 bird species recorded", "Protects mobile dune systems"],
     },
+    image: "/poi-images/portugal-parque-natural-do-litoral-norte-life-v2.webp",
   },
   {
     id: "portugal-jardim-botanico-da-ajuda-life-v2",
@@ -96,6 +98,7 @@ export const portugalLifeV2: POI[] = [
       ro: ["Grădina a fost fondată în 1768, având peste 250 de ani.", "Se află la aproximativ 4 km vest de centrul Lisabonei.", "Suprafața este de 3,5 hectare.", "Arboretumul conține peste 200 de specii de arbori.", "Sera adăpostește plante tropicale din Brazilia și Africa.", "Grădina atrage anual circa 30.000 de vizitatori."],
       en: ["The garden was founded in 1768, over 250 years ago.", "It is located about 4 km west of Lisbon's center.", "The area is 3.5 hectares.", "The arboretum contains over 200 tree species.", "The greenhouse houses tropical plants from Brazil and Africa.", "The garden attracts about 30,000 visitors annually."],
     },
+    image: "/poi-images/portugal-jardim-botanico-da-ajuda-life-v2.webp",
   },
   {
     id: "portugal-parque-biologico-de-gaia-life-v2",
@@ -128,6 +131,7 @@ export const portugalLifeV2: POI[] = [
       ro: ["Deschis publicului în 1983", "Suprafață de 35 hectare", "Traseu pietonal de 3 km", "Râul Febros traversează parcul", "Centru de recuperare a faunei", "Case rurale tradiționale"],
       en: ["Opened in 1983", "35 hectares of valley land", "3 km interpretive trail", "Febros river location", "Wildlife rehabilitation center", "40 native tree species"],
     },
+    image: "/poi-images/portugal-parque-biologico-de-gaia-life-v2.webp",
   },
   {
     id: "portugal-tapada-das-necessidades-life-v2",
@@ -160,6 +164,7 @@ export const portugalLifeV2: POI[] = [
       ro: ["Parcul a fost creat în 1747.", "Se întinde pe aproximativ 10 hectare.", "Palatul Necessidades a fost construit în 1742.", "În parc există peste 500 de copaci, inclusiv 30 de specii exotice.", "Lacul are o suprafață de 0,5 hectare.", "Parcul este deschis zilnic între 7:00 și 21:00."],
       en: ["The park was created in 1747.", "It covers an area of about 10 hectares.", "The Necessidades Palace was built in 1742.", "The park has over 500 trees, including 30 exotic species.", "The lake covers 0.5 hectares.", "The park is open daily from 7:00 AM to 9:00 PM."],
     },
+    image: "/poi-images/portugal-tapada-das-necessidades-life-v2.webp",
   },
   {
     id: "portugal-reserva-natural-do-sapal-de-vougela-life-v2",
@@ -192,6 +197,7 @@ export const portugalLifeV2: POI[] = [
       ro: ["Rezervația acoperă 1.500 de hectare.", "Au fost înregistrate 150 de specii de păsări.", "Stufărișurile acoperă 300 de hectare.", "Precipitațiile anuale sunt de 800 mm.", "Adâncimea apei în canale variază între 0,5 și 2 metri.", "Zona este habitat pentru vidra."],
       en: ["The reserve covers 1,500 hectares.", "150 bird species have been recorded.", "Reed beds cover 300 hectares.", "Annual precipitation is 800 mm.", "Water depth in channels varies from 0.5 to 2 meters.", "The area is a habitat for the otter."],
     },
+    image: "/poi-images/portugal-reserva-natural-do-sapal-de-vougela-life-v2.webp",
   },
   {
     id: "portugal-parque-da-paz-almada-life-v2",
@@ -224,6 +230,7 @@ export const portugalLifeV2: POI[] = [
       ro: ["Suprafață totală de 60 hectare", "Inaugurat oficial în 1996", "Arhitect peisagist Sidónio Pardal", "Lac central de mari dimensiuni", "Peste 114 specii de arbori", "Situat în orașul Almada"],
       en: ["60 hectares of urban park", "Inaugurated in 1996", "Designed by Sidónio Pardal", "Large artificial central lake", "Hosts 114 species of trees", "Located in the heart of Almada"],
     },
+    image: "/poi-images/portugal-parque-da-paz-almada-life-v2.webp",
   },
   {
     id: "portugal-jardim-botanico-tropical-life-v2",
@@ -256,6 +263,7 @@ export const portugalLifeV2: POI[] = [
       ro: ["Grădina a fost fondată în 1906.", "Se întinde pe 4 hectare.", "Colecția include 1.500 de specii de plante.", "Sera de palmieri adăpostește 50 de specii de palmieri.", "Temperatura medie anuală este de 18°C.", "Grădina atrage anual aproximativ 40.000 de vizitatori."],
       en: ["The garden was founded in 1906.", "It covers an area of 4 hectares.", "The collection includes 1,500 plant species.", "The palm house contains 50 palm species.", "The average annual temperature is 18°C.", "The garden attracts about 40,000 visitors annually."],
     },
+    image: "/poi-images/portugal-jardim-botanico-tropical-life-v2.webp",
   },
   {
     id: "portugal-reserva-natural-do-estuario-do-tejo-life-v2",
@@ -288,6 +296,7 @@ export const portugalLifeV2: POI[] = [
       ro: ["Suprafață de 14.000 hectare", "Înființată în anul 1976", "50.000 de păsări iernătoare", "Sit RAMSAR internațional", "Estuarul râului Tejo", "Observator de flamingi roz"],
       en: ["14,000 hectares total area", "Established in 1976", "Up to 50,000 wintering birds", "Designated RAMSAR site", "120 km of estuarine shoreline", "Host to Greater Flamingos"],
     },
+    image: "/poi-images/portugal-reserva-natural-do-estuario-do-tejo-life-v2.webp",
   },
   {
     id: "portugal-jardim-botanico-do-porto-life-v2",
@@ -320,6 +329,7 @@ export const portugalLifeV2: POI[] = [
       ro: ["Suprafață de 4 hectare", "Achiziționat de stat în 1951", "Quinta do Campo Alegre", "Parte a Universității Porto", "3 sere istorice principale", "Colecție vastă de camelii"],
       en: ["4 hectares in size", "State property since 1951", "Located at Quinta do Campo Alegre", "University of Porto ownership", "Contains 3 major greenhouses", "Famous for camellia collection"],
     },
+    image: "/poi-images/portugal-jardim-botanico-do-porto-life-v2.webp",
   },
   {
     id: "portugal-reserva-natural-do-estuario-do-sado-life-v2",
@@ -352,6 +362,7 @@ export const portugalLifeV2: POI[] = [
       ro: ["Rezervația acoperă 23.000 de hectare.", "Populația de delfini este de aproximativ 30 de indivizi.", "Peste 250 de specii de păsări au fost înregistrate.", "Adâncimea maximă a apei este de 15 metri.", "Câmpurile de orez acoperă 1.000 de hectare.", "Producția anuală de stridii este de 50 de tone."],
       en: ["The reserve covers 23,000 hectares.", "The dolphin population consists of about 30 individuals.", "Over 250 bird species have been recorded.", "The maximum water depth is 15 meters.", "Rice fields cover 1,000 hectares.", "Annual oyster production is 50 tons."],
     },
+    image: "/poi-images/portugal-reserva-natural-do-estuario-do-sado-life-v2.webp",
   },
   {
     id: "portugal-parque-da-cidade-do-porto-life-v2",
@@ -384,6 +395,7 @@ export const portugalLifeV2: POI[] = [
       ro: ["Parcul se întinde pe 83 de hectare.", "A fost inaugurat în 1993.", "Lacul artificial are o suprafață de 8,5 hectare.", "Există peste 10 km de poteci.", "Peste 50 de specii de păsări trăiesc aici.", "Aproximativ 3 milioane de vizitatori anual."],
       en: ["The park covers 83 hectares.", "It was officially opened in 1993.", "The artificial lake covers 8.5 hectares.", "There are over 10 km of walking trails.", "The park hosts more than 50 bird species.", "Around 3 million people visit annually."],
     },
+    image: "/poi-images/portugal-parque-da-cidade-do-porto-life-v2.webp",
   },
   {
     id: "portugal-jardim-botanico-de-coimbra-life-v2",
@@ -416,6 +428,7 @@ export const portugalLifeV2: POI[] = [
       ro: ["Fondată în anul 1772", "Suprafață de 13 hectare", "Ctitorită de Marchizul de Pombal", "Universitatea din Coimbra", "Seră din fontă din 1859", "Colecție de specii tropicale"],
       en: ["Founded in 1772", "13 hectares total area", "Marquis of Pombal founder", "University of Coimbra site", "1859 iron greenhouse", "Notable bamboo forest"],
     },
+    image: "/poi-images/portugal-jardim-botanico-de-coimbra-life-v2.webp",
   },
   {
     id: "portugal-parque-de-monterreo-life-v2",
@@ -448,5 +461,6 @@ export const portugalLifeV2: POI[] = [
       ro: ["Parcul are 40 de hectare.", "Inaugurat pe 15 mai 2008.", "Lacul acoperă 2,5 hectare.", "Există 5 km de piste pentru biciclete.", "Amfiteatrul are o capacitate de 2.000 de persoane.", "Peste 1.000 de copaci au fost plantați."],
       en: ["The park covers 40 hectares.", "Opened on May 15, 2008.", "The lake covers 2.5 hectares.", "There are 5 km of bike paths.", "The amphitheater seats 2,000 people.", "Over 1,000 trees were planted."],
     },
+    image: "/poi-images/portugal-parque-de-monterreo-life-v2.webp",
   }
 ];

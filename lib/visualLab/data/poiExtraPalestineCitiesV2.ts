@@ -31,6 +31,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Orașul Vechi: patrimoniu UNESCO din 1981", "Moschee majoră: Al-Aqsa (al treilea loc sfânt)", "Poartă istorică: Poarta Damascului (intrarea principală)", "Locație: la est de Linia Verde din 1949", "Centru cultural: Orient House (închis în 2001)", "Punct de interes: Muntele Măslinilor"],
       en: ["Old City: UNESCO World Heritage site since 1981", "Major mosque: Al-Aqsa (third holiest site)", "Historic gate: Damascus Gate is the main entrance", "Location: east of the 1949 Green Line", "Cultural hub: Orient House (closed in 2001)", "Landmark: Mount of Olives with panoramic views"],
     },
+    image: "/poi-images/palestine-east-jerusalem-cities-v2.webp",
   },
   {
     id: "palestine-gaza-city-cities-v2",
@@ -62,6 +63,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Istorie: locuit cel puțin din anul 1500 î.Hr.", "Situl religios: Marea Moschee Omari (fostă biserică)", "Densitate: una dintre cele mai mari din lume", "Infrastructură: sediul Universității Al-Azhar", "Economie: renumit istoric pentru olărit", "Port: acces strategic la Mediterană din antichitate"],
       en: ["History: inhabited since at least 1500 BCE", "Religious site: Great Omari Mosque (formerly a church)", "Density: among the highest in the world", "Infrastructure: home to Al-Azhar University", "Economy: historically famous for pottery", "Port: strategic Mediterranean gateway since antiquity"],
     },
+    image: "/poi-images/palestine-gaza-city-cities-v2.webp",
   },
   {
     id: "palestine-hebron-cities-v2",
@@ -93,6 +95,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Locuit continuu de peste 5000 de ani", "Patrimoniu Mondial UNESCO din anul 2017", "Găzduiește Moscheea Ibrahimi (Peștera Patriarhilor)", "Situat la o altitudine de aproximativ 930 metri", "Populația depășește 200.000 de locuitori", "Divizat în sectoarele H1 și H2 din anul 1997"],
       en: ["Inhabited for over 5,000 years", "UNESCO World Heritage site since 2017", "Home to the Ibrahimi Mosque (Cave of the Patriarchs)", "Elevation is approximately 930 meters above sea level", "Population exceeds 200,000 residents", "Divided into sectors H1 and H2 since 1997"],
     },
+    image: "/poi-images/palestine-hebron-cities-v2.webp",
   },
   {
     id: "palestine-nablus-cities-v2",
@@ -124,6 +127,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Fondat în anul 72 d.Hr. de împăratul Vespasian", "Situat între munții Ebal și Gerizim", "Căminul comunității samaritene de pe muntele Gerizim", "Sediul Universității Naționale An-Najah (1918)", "Cunoscut pentru producția de săpun din ulei de măsline", "Considerat capitala gastronomică a desertului Kanafeh"],
       en: ["Founded in 72 AD by Emperor Vespasian", "Located between Mount Ebal and Mount Gerizim", "Home to the Samaritan community on Mount Gerizim", "Site of An-Najah National University, founded in 1918", "Famous for its traditional olive oil soap production", "Known as the culinary capital for Kanafeh pastry"],
     },
+    image: "/poi-images/palestine-nablus-cities-v2.webp",
   },
   {
     id: "palestine-khan-yunis-cities-v2",
@@ -155,6 +159,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Fondat în anul 1387 de emirul Yunus al-Nozi", "Găzduiește un caravanserai din perioada mamelucă", "Al doilea cel mai populat oraș din Fâșia Gaza", "Centru major pentru producția de citrice și migdale", "Situat la aproximativ 4 kilometri de coasta Mediteranei", "Punct istoric de oprire pe ruta comercială spre Egipt"],
       en: ["Established in 1387 by Emir Yunus al-Nozi", "Features a 14th-century Mamluk caravanserai", "Second largest city in the Gaza Strip", "Major center for citrus and almond production", "Located 4 kilometers from the Mediterranean coast", "Historic transit point on the trade route to Egypt"],
     },
+    image: "/poi-images/palestine-khan-yunis-cities-v2.webp",
   },
   {
     id: "palestine-jabalia-cities-v2",
@@ -186,6 +191,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Găzduiește cea mai mare tabără de refugiați din Palestina", "Ruinele unei biserici bizantine din secolul al V-lea", "Locul de unde a început Prima Intifadă în 1987", "Situată în Guvernoratul Gaza de Nord", "Proximitate directă față de punctul de trecere Erez", "Populația este formată majoritar din refugiați"],
       en: ["Home to the largest refugee camp in Palestine", "Ruins of a 5th-century Byzantine church on site", "Starting point of the First Intifada in 1987", "Located within the North Gaza Governorate", "Immediate proximity to the Erez border crossing", "Population consists largely of registered refugees"],
     },
+    image: "/poi-images/palestine-jabalia-cities-v2.webp",
   },
   {
     id: "palestine-rafah-cities-v2",
@@ -217,6 +223,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Cel mai sudic oraș din Fâșia Gaza la granița cu Egiptul", "Locația punctului strategic de trecere Rafah", "Locul bătăliei de la Raphia din anul 217 î.Hr.", "Cunoscut istoric sub numele de Sharuhen de către egipteni", "Divizat în două părți în 1982 la stabilirea graniței", "Centru important pentru cultivarea garoafelor și căpșunilor"],
       en: ["Southernmost city of the Gaza Strip on the border", "Site of the strategic Rafah Border Crossing", "Location of the Battle of Raphia in 217 BC", "Historically known to Ancient Egyptians as Sharuhen", "Divided into two parts in 1982 after the border treaty", "Major production area for carnations and strawberries"],
     },
+    image: "/poi-images/palestine-rafah-cities-v2.webp",
   },
   {
     id: "palestine-tulkarm-cities-v2",
@@ -248,6 +255,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Nod feroviar important în timpul mandatului britanic", "Sediul Universității Kadoorie, fondată în 1930", "Situat la marginea vestică a dealurilor Samariei", "Cunoscut pentru solul fertil și livezile de citrice", "Proximitate imediată față de orașul israelian Netanya", "Punct istoric de schimb comercial între coastă și interior"],
       en: ["Major railway junction during the British Mandate era", "Home to Kadoorie University, established in 1930", "Located on the western edge of the Samaritan highlands", "Renowned for its fertile land and citrus groves", "Immediate proximity to the Israeli city of Netanya", "Historic trading post between the coast and the interior"],
     },
+    image: "/poi-images/palestine-tulkarm-cities-v2.webp",
   },
   {
     id: "palestine-qalqilya-cities-v2",
@@ -279,6 +287,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Aproape complet încercuit de bariera de separare", "Găzduiește singura grădină zoologică din Cisiordania", "Centru principal pentru cultivarea guavelor în Palestina", "Situat la doar 14 kilometri de Marea Mediterană", "Densitate a populației foarte ridicată pe o suprafață mică", "Centru agrar istoric important al regiunii"],
       en: ["Almost entirely encircled by the separation barrier", "Home to the only zoo in the West Bank", "Leading center for guava production in Palestine", "Located only about 14 kilometers from the Mediterranean Sea", "One of the most densely populated cities in the West Bank", "Historically significant agricultural hub of the region"],
     },
+    image: "/poi-images/palestine-qalqilya-cities-v2.webp",
   },
   {
     id: "palestine-jenin-cities-v2",
@@ -310,6 +319,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Identificat cu localitatea biblică En-Ganim", "Situat la marginea câmpiei fertile Marj Ibn Amer", "Găzduiește Biserica Burqin din secolul al IV-lea", "Piață majoră pentru produsele agricole din nord", "Tabăra de refugiați Jenin a fost înființată în 1953", "Punct istoric de legătură între Galileea și Samaria"],
       en: ["Identified with the biblical site of En-Ganim", "Located on the edge of the fertile Marj Ibn Amer plain", "Home to the 4th-century Burqin Church", "Major market for agricultural products in the north", "Jenin refugee camp was established in 1953", "Historic transit point between Galilee and Samaria"],
     },
+    image: "/poi-images/palestine-jenin-cities-v2.webp",
   },
   {
     id: "palestine-beit-hanoun-cities-v2",
@@ -341,6 +351,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Numit după vechiul rege filistean Hanun", "Moscheea Al-Nasr datează din anul 1239", "Cel mai nordic oraș din Fâșia Gaza", "Centru important pentru cultivarea portocalilor", "Situat în imediata apropiere a terminalului Erez", "Cunoscut istoric pentru livezile și fântânile sale"],
       en: ["Named after the ancient Philistine King Hanun", "The Al-Nasr Mosque dates back to 1239", "Northernmost city within the Gaza Strip", "Significant center for orange production", "Located in immediate proximity to the Erez terminal", "Historically famous for its orchards and wells"],
     },
+    image: "/poi-images/palestine-beit-hanoun-cities-v2.webp",
   },
   {
     id: "palestine-beit-lahiya-cities-v2",
@@ -372,6 +383,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Faimos pentru exportul de căpșuni de calitate superioară", "Găzduiește pavaje de mozaic bizantin din secolul al V-lea", "Înconjurat de dune de nisip extinse în partea de nord", "Situat direct pe coasta Mării Mediterane", "Producător major de fructe de pădure și citrice", "Numele se traduce prin Casa trândăviei sau a odihnei"],
       en: ["Famous for exporting premium quality strawberries", "Home to 5th-century Byzantine mosaic floors", "Surrounded by extensive sand dunes to the north", "Located directly on the Mediterranean coast", "Key producer of berries and citrus fruits", "The name translates to House of Leisure or Rest"],
     },
+    image: "/poi-images/palestine-beit-lahiya-cities-v2.webp",
   },
   {
     id: "palestine-deir-al-balah-cities-v2",
@@ -403,6 +415,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Numele se traduce prin Mănăstirea Curmalelor", "Locația mănăstirii Sfântului Ilarion (sec. IV)", "Cel mai important centru de producție a curmalelor din Gaza", "Situl descoperirii unor sarcofage feniciene antropoide", "Unul dintre cele mai vechi orașe locuite continuu din Gaza", "Situat la jumătatea distanței între Gaza și Khan Yunis"],
       en: ["The name translates to Monastery of the Dates", "Site of the Monastery of St. Hilarion (4th century)", "Main center for date production in the Gaza Strip", "Location of discovered Phoenician anthropoid sarcophagi", "One of the oldest continuously inhabited cities in Gaza", "Located halfway between Gaza City and Khan Yunis"],
     },
+    image: "/poi-images/palestine-deir-al-balah-cities-v2.webp",
   },
   {
     id: "palestine-jericho-cities-v2",
@@ -434,6 +447,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Cel mai vechi oraș locuit continuu din lume (9000 î.Hr.)", "Situat la 258 de metri sub nivelul mării", "Găzduiește cel mai vechi turn din lume la Tel es-Sultan", "Locația Palatului lui Hisham din secolul al VIII-lea", "Cunoscut ca Orașul Palmierilor în textele biblice", "Muntele Ispitirii este situat imediat la vest de oraș"],
       en: ["Oldest continuously inhabited city in the world (9000 BC)", "Situated 258 meters below sea level", "Home to the world's oldest tower at Tel es-Sultan", "Site of the 8th-century Umayyad Hisham's Palace", "Known as the City of Palm Trees in biblical texts", "The Mount of Temptation is located just west of the city"],
     },
+    image: "/poi-images/palestine-jericho-cities-v2.webp",
   },
   {
     id: "palestine-beit-jala-cities-v2",
@@ -465,6 +479,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Locuit istoric de o majoritate creștină", "Faimos pentru uleiul de măsline de primă clasă", "Găzduiește Mănăstirea și Vinăria Cremisan", "Situat la o altitudine de aproximativ 825 metri", "Centru tradițional pentru meșteșugul tăierii pietrei", "Numele provine probabil din aramaicul Casa Ierbii"],
       en: ["Historically inhabited by a Christian majority", "Famous for its premium quality olive oil", "Home to the Cremisan Monastery and Winery", "Elevation is approximately 825 meters above sea level", "Traditional center for stone-cutting industries", "The name likely derives from Aramaic for House of Grass"],
     },
+    image: "/poi-images/palestine-beit-jala-cities-v2.webp",
   },
   {
     id: "palestine-beit-sahour-cities-v2",
@@ -496,6 +511,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Identificat ca locația biblicului Câmp al Păstorilor", "Centru istoric al sculpturii în lemn de măslin", "Posedă un centru vechi cu arhitectură otomană", "Situat în imediata apropiere a locului nașterii lui Iisus", "Căminul multor industrii de tăiere a pietrei", "Numele înseamnă Casa Vigilentilor sau a Pazei de Noapte"],
       en: ["Identified as the site of the biblical Shepherds' Field", "Historic center for traditional olive wood carving", "Features a well-preserved Old City with Ottoman architecture", "Located in immediate proximity to Bethlehem", "Home to many stone-quarrying and cutting industries", "The name translates to House of the Night Watch"],
     },
+    image: "/poi-images/palestine-beit-sahour-cities-v2.webp",
   },
   {
     id: "palestine-ramallah-cities-v2",
@@ -527,6 +543,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Servește ca centru administrativ de facto al Palestinei", "Situat la o altitudine de aproximativ 880 metri", "Fondat ca localitate modernă în secolul al XVI-lea", "Locația mausoleului lui Yasser Arafat", "Piața Al-Manara este punctul central al orașului", "Principalul nod economic din Cisiordania"],
       en: ["Serves as the de facto administrative capital of Palestine", "Elevation is 880 meters above sea level", "Established as a modern town in the 16th century", "Home to the burial site of Yasser Arafat", "Al-Manara Square is the central landmark of the city", "Major economic and cultural hub of the West Bank"],
     },
+    image: "/poi-images/palestine-ramallah-cities-v2.webp",
   },
   {
     id: "palestine-al-bireh-cities-v2",
@@ -558,6 +575,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Situat la o altitudine de aprox. 860 de metri.", "Se învecinează direct cu orașul Ramallah.", "Populația zonei urbane este de aproximativ 45.000 de locuitori.", "Găzduiește sedii ale multor instituții palestiniene.", "Situl arheologic istoric Beitin se află în apropiere.", "Nod de transport major în regiunea muntoasă centrală."],
       en: ["Situated at an elevation of approx. 860 meters.", "Directly adjacent to the city of Ramallah.", "Home to about 45,000 residents in the urban area.", "Host to numerous Palestinian governmental institutions.", "The historical site of Beitin is located nearby.", "Significant transportation hub in the central highlands."],
     },
+    image: "/poi-images/palestine-al-bireh-cities-v2.webp",
   },
   {
     id: "palestine-salfit-cities-v2",
@@ -589,6 +607,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Sediul administrativ al guvernoratului Salfit.", "Populație de aproximativ 11.000 de locuitori în oraș.", "Renumit pentru producția de ulei de măsline de calitate.", "Situat la o altitudine medie de 510 metri.", "Găzduiește un campus al Universității Deschise Al-Quds.", "Centru important pentru industria textilă și a lemnului."],
       en: ["Administrative seat of the Salfit Governorate.", "Population of approximately 11,000 in the town center.", "Famous for high-quality olive oil production.", "Located at an average elevation of 510 meters.", "Home to a campus of the Al-Quds Open University.", "Major hub for the textile and wood industries."],
     },
+    image: "/poi-images/palestine-salfit-cities-v2.webp",
   },
   {
     id: "palestine-tubas-cities-v2",
@@ -620,6 +639,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Centrul guvernoratului Tubas din nord-est.", "Populație de aproximativ 16.000 de locuitori.", "Producător major de cereale pentru întreaga regiune.", "Identificat cu orașul biblic Thebez.", "Situat pe versanții de deasupra Văii Iordanului.", "Centru comercial pentru produse agricole."],
       en: ["Center of the Tubas Governorate in the northeast.", "Population of approximately 16,000 residents.", "Major producer of grain for the surrounding region.", "Identified with the biblical city of Thebez.", "Positioned on slopes overlooking the Jordan Valley.", "Trade hub for agricultural commodities."],
     },
+    image: "/poi-images/palestine-tubas-cities-v2.webp",
   },
   {
     id: "palestine-halhul-cities-v2",
@@ -651,6 +671,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Cel mai înalt punct din Palestina, la 1030 metri.", "Adăpostește mormântul profetului Nabi Yunis.", "Populație de aproximativ 27.000 de locuitori.", "Cel mai mare producător de struguri de masă din zonă.", "Așezare cu importanță istorică din antichitate.", "Situat chiar pe șoseaua Hebron-Ierusalim."],
       en: ["Highest point in Palestine at 1,030 meters.", "Home to the tomb of Prophet Nabi Yunis (Jonah).", "Population of approximately 27,000 residents.", "Largest producer of table grapes in the region.", "Historically significant settlement since antiquity.", "Located directly on the Hebron-Jerusalem road."],
     },
+    image: "/poi-images/palestine-halhul-cities-v2.webp",
   },
   {
     id: "palestine-dura-cities-v2",
@@ -682,6 +703,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Situat la sud-vest de Hebron la 840 de metri.", "Identificat cu orașul canaanit Adoraim.", "Populație de aproximativ 28.000 de locuitori.", "Centru pentru producția de cereale și făină.", "Găzduiește mai multe moschei și sanctuare istorice.", "Locație importantă pentru instituțiile locale de învățământ."],
       en: ["Located southwest of Hebron at 840 meters.", "Identified with the Canaanite city of Adoraim.", "Population of approximately 28,000 people.", "Center for the production of grain and flour.", "Home to several historical mosques and shrines.", "Important site for local educational institutions."],
     },
+    image: "/poi-images/palestine-dura-cities-v2.webp",
   },
   {
     id: "palestine-yatta-cities-v2",
@@ -713,6 +735,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Cel mai populat oraș din districtul de sud al Hebronului.", "Identificat cu orașul preoțesc biblic Juttah.", "Centru major al industriei pietrei din Palestina.", "Populație de aproximativ 64.000 de locuitori.", "Cunoscut pentru meșteșugurile tradiționale și broderie.", "Numeroase mozaicuri bizantine descoperite în zonă."],
       en: ["Most populous city in the southern Hebron district.", "Identified with the biblical priestly city of Juttah.", "Major center of the Palestinian stone industry.", "Population of approximately 64,000 residents.", "Known for traditional handicrafts and embroidery.", "Numerous Byzantine mosaics found in the vicinity."],
     },
+    image: "/poi-images/palestine-yatta-cities-v2.webp",
   },
   {
     id: "palestine-bani-naim-cities-v2",
@@ -744,6 +767,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Adăpostește mormântul profetului biblic Lot.", "Situat la o altitudine de aproximativ 950 de metri.", "Populație de aproximativ 24.000 de locuitori.", "Cunoscut istoric sub numele de Kaphar Barucha.", "Oferă vederi panoramice către Marea Moartă.", "Centru pentru agricultură și comerțul cu măsline."],
       en: ["Home to the tomb of the biblical Prophet Lot.", "Situated at an elevation of approx. 950 meters.", "Population of approximately 24,000 residents.", "Historically known as Kaphar Barucha.", "Offers panoramic views toward the Dead Sea.", "Center for agriculture and olive trade."],
     },
+    image: "/poi-images/palestine-bani-naim-cities-v2.webp",
   },
   {
     id: "palestine-ad-dhahiriya-cities-v2",
@@ -775,6 +799,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Cel mai sudic oraș din Cisiordania palestiniană.", "Punct strategic pe ruta către Beer Sheva.", "Centru istoric bine conservat din perioada otomană.", "Populație de aproximativ 35.000 de locuitori.", "Descoperiri arheologice din epoca fierului la Khirbet Duma.", "Poartă importantă pentru comerțul cu regiunea Negev."],
       en: ["Southernmost city of the Palestinian West Bank.", "Strategic point on the route to Beer Sheva.", "Well-preserved historical center from the Ottoman era.", "Population of approximately 35,000 residents.", "Iron Age archaeological finds at Khirbet Duma.", "Important gateway for trade with the Negev region."],
     },
+    image: "/poi-images/palestine-ad-dhahiriya-cities-v2.webp",
   },
   {
     id: "palestine-beit-ummar-cities-v2",
@@ -806,6 +831,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Situat pe axa strategică de transport Hebron-Ierusalim.", "Altitudine de aproximativ 900 de metri.", "Faimos pentru producția de migdale și prune.", "Populație de aproximativ 17.000 de locuitori.", "Găzduiește sanctuarul lui Nabi Matta (Matei).", "Centru agricol vital în nordul guvernoratului Hebron."],
       en: ["Located on the strategic Hebron-Jerusalem road.", "Elevation of approx. 900 meters above sea level.", "Famous for the production of almonds and plums.", "Population of approximately 17,000 residents.", "Home to the shrine of Nabi Matta (Matthew).", "Major agricultural hub in northern Hebron district."],
     },
+    image: "/poi-images/palestine-beit-ummar-cities-v2.webp",
   },
   {
     id: "palestine-surif-cities-v2",
@@ -837,6 +863,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Situat în dealurile vestice ale districtului Hebron.", "Populație de aproximativ 17.000 de locuitori.", "Cunoscut pentru livezile sale vechi de măslini.", "Vestigii arheologice din perioada bizantină.", "Centru important pentru artizanatul local.", "Arhitectură tradițională palestiniană în piatră în centru."],
       en: ["Nestled in the western hills of the Hebron district.", "Population of approximately 17,000 residents.", "Known for its ancient olive groves.", "Archaeological remains from the Byzantine period.", "Major producer of local traditional handicrafts.", "Traditional Palestinian stone architecture in the center."],
     },
+    image: "/poi-images/palestine-surif-cities-v2.webp",
   },
   {
     id: "palestine-sair-cities-v2",
@@ -868,6 +895,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Locul tradițional al mormântului lui Esau (Nabi 'Ais).", "Situat într-o vale muntoasă pitorească.", "Populație de aproximativ 20.000 de locuitori.", "Faimos pentru calitatea lucrărilor sale în piatră.", "Importanță istorică datorită sistemelor antice de apă.", "Centru pentru comerțul cu legume în estul districtului."],
       en: ["Traditional site of the tomb of Esau (Nabi 'Ais).", "Situated in a scenic mountain valley.", "Population of approximately 20,000 residents.", "Famous for the quality of its stone masonry works.", "Historically significant due to ancient water systems.", "Hub for vegetable trade in the eastern district."],
     },
+    image: "/poi-images/palestine-sair-cities-v2.webp",
   },
   {
     id: "palestine-ash-shuyukh-cities-v2",
@@ -899,6 +927,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Centru major pentru carierele de calcar palestinian.", "Situat pe un platou la 950 de metri altitudine.", "Populație de aproximativ 10.000 de locuitori.", "Fondarea localității este legată de lideri religioși (Shuyukh).", "Legături economice strânse cu orașul vecin Sa'ir.", "Locație tradițională pentru creșterea oilor în regiune."],
       en: ["Major center for Palestinian limestone quarries.", "Located on a plateau 950 meters above sea level.", "Population of approximately 10,000 residents.", "Town foundation is linked to religious leaders (Shuyukh).", "Strong economic ties with the neighboring city of Sa'ir.", "Traditional location for sheep herding in the region."],
     },
+    image: "/poi-images/palestine-ash-shuyukh-cities-v2.webp",
   },
   {
     id: "palestine-idhna-cities-v2",
@@ -930,6 +959,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Situat în vestul Hebronului, lângă Linia Verde.", "Centru regional pentru reciclarea metalelor.", "Populație de aproximativ 25.000 de locuitori.", "Locuit istoric încă din epoca canaanită.", "Găzduiește peșteri funerare antice romane și bizantine.", "Locație importantă pentru micile întreprinderi meșteșugărești."],
       en: ["Located in western Hebron near the Green Line.", "Regional hub for metal recycling and scrap trade.", "Population of approximately 25,000 residents.", "Inhabited historically since the Canaanite era.", "Home to ancient Roman and Byzantine burial caves.", "Major site for small-scale industrial workshops."],
     },
+    image: "/poi-images/palestine-idhna-cities-v2.webp",
   },
   {
     id: "palestine-tarqumiya-cities-v2",
@@ -961,6 +991,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Găzduiește unul dintre cele mai importante puncte de trecere.", "Nod strategic pentru sectorul transporturilor.", "Populație de aproximativ 19.000 de locuitori.", "Locuit istoric încă din epoca romană.", "Producător important de măsline și grâu.", "Centru pentru companii de logistică și servicii."],
       en: ["Home to one of the most vital goods checkpoints.", "Strategic hub for the transport and shipping sector.", "Population of approximately 19,000 residents.", "Historically inhabited since the Roman era.", "Significant producer of olives and wheat.", "Center for logistics and service providers."],
     },
+    image: "/poi-images/palestine-tarqumiya-cities-v2.webp",
   },
   {
     id: "palestine-kharas-cities-v2",
@@ -992,6 +1023,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Situat la nord-vest de Hebron într-o zonă colinară.", "Renumit pentru producția de ulei de măsline pur.", "Populație de aproximativ 9.000 de locuitori.", "Caracterizat prin terase agricole antice.", "Descoperiri importante din epoca bizantină.", "Centru pentru cultivarea tradițională a măslinelor."],
       en: ["Located northwest of Hebron in a hilly setting.", "Famous for the production of pure olive oil.", "Population of approximately 9,000 residents.", "Characterized by ancient terraced agricultural lands.", "Significant finds from the Byzantine epoch.", "Hub for traditional olive farming in the region."],
     },
+    image: "/poi-images/palestine-kharas-cities-v2.webp",
   },
   {
     id: "palestine-nuba-cities-v2",
@@ -1023,6 +1055,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Situat în Guvernoratul Hebron", "La 11 km nord-vest de Hebron", "Altitudine de aproximativ 550 metri", "Ruine antice din perioada bizantină", "Economie bazată pe cultivarea măslinelor", "Se află în Cisiordania"],
       en: ["Located in Hebron Governorate", "11 km northwest of Hebron", "Elevation of approx. 550 meters", "Ancient ruins from Byzantine period", "Economy based on olive cultivation", "Situated in the West Bank"],
     },
+    image: "/poi-images/palestine-nuba-cities-v2.webp",
   },
   {
     id: "palestine-beit-kahel-cities-v2",
@@ -1054,6 +1087,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Aparține de Guvernoratul Hebron", "Situat la 7 km nord-vest de Hebron", "Locuit încă din Epoca Fierului", "Cunoscut pentru carierele de calcar", "Altitudine de cca. 850 metri", "Focus agricol pe măsline"],
       en: ["Belongs to Hebron Governorate", "Located 7 km northwest of Hebron", "Inhabited since the Iron Age", "Famous for limestone quarries", "Elevation approx. 850 meters", "Agricultural focus on olives"],
     },
+    image: "/poi-images/palestine-beit-kahel-cities-v2.webp",
   },
   {
     id: "palestine-tafpuh-cities-v2",
@@ -1085,6 +1119,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Numele înseamnă măr în canaanită", "Situat la 8 km vest de Hebron", "Veche zonă de așezare canaanită", "Moschee istorică în centrul orașului", "Peste 800 de metri peste nivelul mării", "Centru pentru struguri și smochine"],
       en: ["Name means apple in Canaanite", "Located 8 km west of Hebron", "Ancient Canaanite settlement area", "Historic mosque in the town center", "Over 800 meters above sea level", "Center for grapes and figs"],
     },
+    image: "/poi-images/palestine-tafpuh-cities-v2.webp",
   },
   {
     id: "palestine-as-samu-cities-v2",
@@ -1116,6 +1151,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Identificat ca biblicul Estemoa", "Ruinele unei sinagogi din sec. IV", "Situat la 12 km sud de Hebron", "Cunoscut pentru covoare țesute manual", "Vestigii ale arhitecturii bizantine", "Se află în Cisiordania"],
       en: ["Identified as biblical Eshtemoa", "Ruins of a 4th-century synagogue", "Located 12 km south of Hebron", "Known for hand-woven carpets", "Remains of Byzantine architecture", "Situated in the West Bank"],
     },
+    image: "/poi-images/palestine-as-samu-cities-v2.webp",
   },
   {
     id: "palestine-al-eizariya-cities-v2",
@@ -1147,6 +1183,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Numele derivă de la Lazăr", "Găzduiește mormântul lui Lazăr", "Situat la 2 km est de Ierusalim", "Mozaicuri bisericești bizantine", "Important loc de pelerinaj creștin", "Aparține de Guvernoratul Ierusalim"],
       en: ["Name derives from Lazarus", "Houses the Tomb of Lazarus", "Located 2 km east of Jerusalem", "Byzantine church mosaics present", "Important Christian pilgrimage site", "Part of Jerusalem Governorate"],
     },
+    image: "/poi-images/palestine-al-eizariya-cities-v2.webp",
   },
   {
     id: "palestine-abu-dis-cities-v2",
@@ -1178,6 +1215,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Sediul Universității Al-Quds", "Adiacent Ierusalimului de Est", "Important centru educațional", "Situat în Cisiordania", "Topografie deluroasă", "Centru de cercetare academică"],
       en: ["Seat of Al-Quds University", "Adjacent to East Jerusalem", "Important educational hub", "Situated in the West Bank", "Hilly topography", "Center of academic research"],
     },
+    image: "/poi-images/palestine-abu-dis-cities-v2.webp",
   },
   {
     id: "palestine-al-ram-cities-v2",
@@ -1209,6 +1247,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Identificat cu biblicul Rama", "8 km nord-est de Ierusalim", "Important centru comercial", "Situat pe ruta spre Ramallah", "Zonă urbană densă", "Deține un nucleu istoric"],
       en: ["Identified with biblical Ramah", "8 km northeast of Jerusalem", "Important commercial center", "Located on the route to Ramallah", "Dense urban settlement area", "Historic core present"],
     },
+    image: "/poi-images/palestine-al-ram-cities-v2.webp",
   },
   {
     id: "palestine-anata-cities-v2",
@@ -1240,6 +1279,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Locul de naștere al profetului Ieremia", "4 km nord-est de Ierusalim", "Ruinele antice din Anatot", "Altitudine de aproximativ 700 metri", "Rămășițe ale mănăstirii bizantine", "Face parte din Guvernoratul Ierusalim"],
       en: ["Birthplace of the prophet Jeremiah", "4 km northeast of Jerusalem", "Ancient ruins of Anathoth", "Elevation of approx. 700 meters", "Byzantine monastery remains", "Part of the Jerusalem Governorate"],
     },
+    image: "/poi-images/palestine-anata-cities-v2.webp",
   },
   {
     id: "palestine-birzeit-cities-v2",
@@ -1271,6 +1311,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Sediul Universității Birzeit", "10 km nord de Ramallah", "Centru vechi otoman restaurat", "Găzduiește Muzeul Palestinian", "Locație importantă pentru firme IT", "Altitudine de 800 metri"],
       en: ["Home to Birzeit University", "10 km north of Ramallah", "Restored Ottoman old town core", "Houses the Palestinian Museum", "Important location for IT firms", "Elevation of 800 meters"],
     },
+    image: "/poi-images/palestine-birzeit-cities-v2.webp",
   },
   {
     id: "palestine-beitunia-cities-v2",
@@ -1302,6 +1343,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Al treilea oraș ca mărime din guvernorat", "Situat la vest de Ramallah", "Zonă industrială semnificativă", "Ruine antice în centrul orașului", "Situat în Cisiordania", "Peste 800 de metri peste nivelul mării"],
       en: ["Third largest city in the governorate", "Located west of Ramallah", "Significant industrial area", "Ancient ruins in the town center", "Situated in the West Bank", "Over 800 meters above sea level"],
     },
+    image: "/poi-images/palestine-beitunia-cities-v2.webp",
   },
   {
     id: "palestine-silwad-cities-v2",
@@ -1333,6 +1375,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["12 km nord-est de Ramallah", "Cunoscut pentru producția de ulei de măsline", "Topografie deluroasă", "Se află în Cisiordania", "Peste 850 de metri peste nivelul mării", "Legături puternice cu diaspora"],
       en: ["12 km northeast of Ramallah", "Known for olive oil production", "Hilly topography", "Situated in the West Bank", "Over 850 meters above sea level", "Strong diaspora ties"],
     },
+    image: "/poi-images/palestine-silwad-cities-v2.webp",
   },
   {
     id: "palestine-al-mazraa-ash-sharqiya-cities-v2",
@@ -1364,6 +1407,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Situat la nord-est de Ramallah", "Cunoscut pentru vile moderne", "Altitudine de aproximativ 900 metri", "Bogat în ruine bizantine", "Economie consolidată de diasporă", "Aparține de Cisiordania"],
       en: ["Located northeast of Ramallah", "Known for modern villas", "Elevation of approx. 900 meters", "Rich in Byzantine ruins", "Economy boosted by diaspora", "Part of the West Bank"],
     },
+    image: "/poi-images/palestine-al-mazraa-ash-sharqiya-cities-v2.webp",
   },
   {
     id: "palestine-turmus-ayya-cities-v2",
@@ -1395,6 +1439,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Situat pe drumul Ramallah-Nablus", "Cunoscut ca oraș al vilelor", "Club de echitație tradițional", "Peste 700 de metri peste nivelul mării", "Mulți locuitori cu cetățenie americană", "Înconjurat de livezi de măslini"],
       en: ["Located on the Ramallah-Nablus road", "Known as a city of villas", "Traditional riding club on site", "Over 700 meters above sea level", "Many residents hold US citizenship", "Surrounded by olive groves"],
     },
+    image: "/poi-images/palestine-turmus-ayya-cities-v2.webp",
   },
   {
     id: "palestine-sinjil-cities-v2",
@@ -1426,6 +1471,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Numit după Raymond de Saint-Gilles", "Biserică cruciată transformată în moschee", "21 km nord de Ramallah", "Altitudine de aproximativ 800 metri", "Nucleu istoric cu arcade din piatră", "Cunoscut pentru câmpii fertile"],
       en: ["Named after Raymond de Saint-Gilles", "Crusader church converted to mosque", "21 km north of Ramallah", "Elevation of approx. 800 meters", "Historic core with stone arches", "Known for fertile plains"],
     },
+    image: "/poi-images/palestine-sinjil-cities-v2.webp",
   },
   {
     id: "palestine-jalazone-cities-v2",
@@ -1457,6 +1503,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Fondată în anul 1949", "Situată la nord de Ramallah", "Adiacentă anticului Betel", "Zonă dens populată", "Sunt prezente școli UNRWA", "Se află în Cisiordania"],
       en: ["Established in 1949", "Located north of Ramallah", "Adjacent to ancient Bethel", "Densely populated area", "UNRWA schools present", "Situated in the West Bank"],
     },
+    image: "/poi-images/palestine-jalazone-cities-v2.webp",
   },
   {
     id: "palestine-azzun-cities-v2",
@@ -1488,6 +1535,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Azzun este situat la o altitudine medie de aproximativ 280 de metri deasupra nivelului mării.", "Orașul are o populație estimată la circa 9.000 de locuitori.", "Se află la aproximativ 9 kilometri est de orașul Qalqilya.", "Descoperirile arheologice atestă locuirea zonei încă din perioadele romană și bizantină.", "Teritoriul municipal cuprinde o suprafață de aproximativ 9.172 de dunami.", "Localitatea este cunoscută pentru presele sale tradiționale de ulei de măsline."],
       en: ["Azzun is situated at an average elevation of approximately 280 meters above sea level.", "The town has an estimated population of around 9,000 residents.", "It is located about 9 kilometers east of the city of Qalqilya.", "Archaeological evidence points to settlement since the Roman and Byzantine eras.", "The municipal area covers approximately 9,172 dunams of land.", "The town is noted for its traditional olive oil production facilities."],
     },
+    image: "/poi-images/palestine-azzun-cities-v2.webp",
   },
   {
     id: "palestine-hableh-cities-v2",
@@ -1519,6 +1567,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Hableh se află la aproximativ 1,5 kilometri sud-est de orașul Qalqilya.", "Populația localității este estimată la aproximativ 7.000 de locuitori.", "Pe teritoriul orașului se găsesc cisterne antice și complexe funerare.", "Agricultura se concentrează pe cultivarea legumelor în sere.", "Orașul a intrat sub administrație israeliană în 1967, în timpul Războiului de Șase Zile.", "Un tunel rutier face legătura între Hableh și orașul vecin Qalqilya."],
       en: ["Hableh is located approximately 1.5 kilometers southeast of the city of Qalqilya.", "The town's population is estimated to be around 7,000 people.", "Ancient cisterns and burial sites have been discovered within the town limits.", "Agriculture focuses on greenhouse vegetable production in the fertile soil.", "The town came under Israeli administration following the 1967 Six-Day War.", "A tunnel connects Hableh with the nearby city of Qalqilya."],
     },
+    image: "/poi-images/palestine-hableh-cities-v2.webp",
   },
   {
     id: "palestine-jayyous-cities-v2",
@@ -1550,6 +1599,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Jayyous este situat la aproximativ 10 kilometri nord-est de Qalqilya.", "Populația satului este de aproximativ 3.500 de locuitori.", "Localitatea dispune de șase fântâni arteziene utilizate pentru irigații.", "Suprafața agricolă utilizată cuprinde circa 12.500 de dunami.", "Satul se află la o altitudine de aproximativ 350 de metri deasupra mării.", "Uleiul de măsline reprezintă principalul produs de export al comunității locale."],
       en: ["Jayyous is located about 10 kilometers northeast of Qalqilya.", "The population of the village is approximately 3,500 residents.", "The town possesses six artesian wells used for irrigation purposes.", "The agricultural land area covers roughly 12,500 dunams.", "The village sits at an elevation of about 350 meters above sea level.", "Olive oil is the primary export product of the local community."],
     },
+    image: "/poi-images/palestine-jayyous-cities-v2.webp",
   },
   {
     id: "palestine-kafr-thulth-cities-v2",
@@ -1581,6 +1631,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Kafr Thulth are o populație de aproximativ 4.000 de locuitori.", "Orașul este situat la o altitudine de circa 270 de metri.", "În împrejurimi au fost descoperite resturi de mozaicuri bizantine.", "Teritoriul municipal se întinde pe o suprafață de aproximativ 24.000 de dunami.", "Circa 80% din locuitori sunt implicați în sectorul agricol.", "Localitatea a fost ridicată oficial la rangul de municipalitate în anul 1997."],
       en: ["Kafr Thulth has a population of approximately 4,000 residents.", "The town is situated at an elevation of about 270 meters.", "Remains of Byzantine mosaics have been discovered in the surrounding area.", "The municipal area extends over roughly 24,000 dunams of land.", "About 80% of the population is employed in the agricultural sector.", "The town was officially designated as a municipality in the year 1997."],
     },
+    image: "/poi-images/palestine-kafr-thulth-cities-v2.webp",
   },
   {
     id: "palestine-yabad-cities-v2",
@@ -1612,6 +1663,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Ya'bad se află la aproximativ 18 kilometri vest de orașul Jenin.", "Populația orașului este de aproximativ 16.000 de locuitori.", "Orașul este situat pe o colină, la o altitudine de circa 360 de metri.", "În 1935, Izz ad-Din al-Qassam a murit aici în lupta împotriva trupelor britanice.", "Ya'bad este unul dintre puținele centre de producție a cărbunelui din Palestina.", "Teritoriul municipal cuprinde o suprafață totală de aproximativ 37.000 de dunami."],
       en: ["Ya'bad is located approximately 18 kilometers west of the city of Jenin.", "The population is estimated to be around 16,000 people.", "The town sits on a hill at an elevation of roughly 360 meters.", "In 1935, Izz ad-Din al-Qassam was killed here during a battle with British forces.", "Ya'bad is one of the few centers for traditional charcoal production in Palestine.", "The municipal boundary covers a total area of approximately 37,000 dunams."],
     },
+    image: "/poi-images/palestine-yabad-cities-v2.webp",
   },
   {
     id: "palestine-arraba-cities-v2",
@@ -1643,6 +1695,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Arraba are o populație de aproximativ 11.000 de locuitori.", "Orașul este situat la o altitudine de circa 350 de metri deasupra nivelului mării.", "Palatele istorice ale familiei Abd al-Hadi datează din epoca otomană.", "Se află la aproximativ 13 kilometri sud-vest de Jenin.", "Agricultura se concentrează pe cereale, măsline și migdale.", "În antichitate, localitatea era cunoscută sub numele de Arubboth."],
       en: ["Arraba has a population of approximately 11,000 residents.", "The town is situated at an elevation of about 350 meters above sea level.", "The historic palaces of the Abd al-Hadi family date back to the Ottoman era.", "It is located about 13 kilometers southwest of the city of Jenin.", "Agriculture focuses on the production of grain, olives, and almonds.", "In ancient times, the site was known as Arubboth."],
     },
+    image: "/poi-images/palestine-arraba-cities-v2.webp",
   },
   {
     id: "palestine-qabatiya-cities-v2",
@@ -1674,6 +1727,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Qabatiya are o populație de peste 24.000 de locuitori.", "Orașul este situat la aproximativ 6 kilometri sud de Jenin.", "Peste 50 de cariere de piatră se află în imediata vecinătate a orașului.", "Suprafața agricolă cuprinde aproximativ 50.000 de dunami.", "Descoperirile arheologice indică o locuire încă din epoca timpurie a bronzului.", "Qabatiya este cunoscută pentru producția de ulei de măsline și migdale."],
       en: ["Qabatiya has a population exceeding 24,000 residents.", "The town is located approximately 6 kilometers south of the city of Jenin.", "More than 50 stone quarries are situated in the immediate vicinity of the town.", "The agricultural land area totals about 50,000 dunams.", "Archaeological finds suggest settlement dating back to the Early Bronze Age.", "Qabatiya is famous for its production of olive oil and almonds."],
     },
+    image: "/poi-images/palestine-qabatiya-cities-v2.webp",
   },
   {
     id: "palestine-jaba-cities-v2",
@@ -1705,6 +1759,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Jaba' este situat la o altitudine de aproximativ 550 de metri deasupra mării.", "Populația localității este estimată la circa 9.000 de persoane.", "Se află la 15 kilometri sud-vest de orașul Jenin.", "Istoric, localitatea este identificată cu situl biblic Geba.", "Agricultura se concentrează în principal pe producția de ulei de măsline.", "În oraș se găsesc mai multe moschei istorice din diferite epoci."],
       en: ["Jaba' is situated at an elevation of approximately 550 meters above sea level.", "The population is estimated to be around 9,000 residents.", "The town is located 15 kilometers southwest of the city of Jenin.", "Historically, the site is identified with the biblical location of Geba.", "Agriculture focuses primarily on traditional olive oil production.", "The town features several historic mosques dating from various eras."],
     },
+    image: "/poi-images/palestine-jaba-cities-v2.webp",
   },
   {
     id: "palestine-silat-ad-dhahr-cities-v2",
@@ -1736,6 +1791,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Silat ad-Dhahr este situat la o altitudine de aproximativ 400 de metri.", "Populația orașului este de circa 7.000 de locuitori.", "Se află la aproximativ 22 kilometri sud-vest de orașul Jenin.", "Linia de cale ferată Haifa-Deraa trecea în trecut pe lângă oraș.", "Numele se referă la poziționarea sa pe „spatele” muntelui.", "În oraș funcționează mai multe școli primare și secundare."],
       en: ["Silat ad-Dhahr sits at an elevation of approximately 400 meters.", "The town has a population of around 7,000 residents.", "It is located about 22 kilometers southwest of the city of Jenin.", "The Haifa-Deraa railway line used to pass near the town.", "The name refers to its location on the 'back' or ridge of the mountain.", "The town is home to several primary and secondary educational institutions."],
     },
+    image: "/poi-images/palestine-silat-ad-dhahr-cities-v2.webp",
   },
   {
     id: "palestine-burqin-cities-v2",
@@ -1767,6 +1823,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Biserica Sfântul Gheorghe din Burqin datează parțial din secolul al IV-lea.", "Orașul are o populație de aproximativ 7.000 de locuitori.", "Se află la doar 5 kilometri vest de orașul Jenin.", "Burqin este renumit pentru produsele sale de ulei de măsline de calitate.", "Teritoriul municipal include circa 12.000 de dunami de teren agricol.", "Biserica este considerată a treia cea mai veche biserică creștină din lume."],
       en: ["St. George's Church in Burqin dates back in part to the 4th century.", "The town has a population of approximately 7,000 residents.", "It is located just 5 kilometers west of the city of Jenin.", "Burqin is well-known for its high-quality olive oil products.", "The municipal area includes about 12,000 dunams of agricultural land.", "The church is recognized as the third oldest Christian church in the world."],
     },
+    image: "/poi-images/palestine-burqin-cities-v2.webp",
   },
   {
     id: "palestine-tamun-cities-v2",
@@ -1798,6 +1855,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Tamun are o populație estimată la circa 13.000 de locuitori.", "Orașul este situat la o altitudine de aproximativ 340 de metri deasupra mării.", "Teritoriul municipal se întinde pe o suprafață de circa 98.000 de dunami.", "O mare parte din teren este utilizată pentru cultivarea cerealelor și legumelor.", "Localitatea a fost declarată municipalitate oficială în anul 1997.", "Tamun este cunoscut pentru creșterea oilor și a caprelor."],
       en: ["Tamun has an estimated population of approximately 13,000 residents.", "The town is located at an elevation of about 340 meters above sea level.", "The municipal area spans a total of roughly 98,000 dunams of land.", "A significant portion of the area is used for growing grain and vegetables.", "The town was officially designated as a municipality in 1997.", "Tamun is well-known for its sheep and goat farming traditions."],
     },
+    image: "/poi-images/palestine-tamun-cities-v2.webp",
   },
   {
     id: "palestine-al-yamun-cities-v2",
@@ -1829,6 +1887,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Al-Yamun are o populație de aproximativ 20.000 de locuitori.", "Orașul este situat la o altitudine de circa 300-350 de metri.", "Se află la aproximativ 9 kilometri nord-vest de orașul Jenin.", "Descoperirile istorice din perioada canaanită atestă locuirea sa îndelungată.", "Teritoriul municipal cuprinde aproximativ 20.000 de dunami de teren.", "Agricultura include, pe lângă măsline, și culturi de cereale și leguminoase."],
       en: ["Al-Yamun has a population of around 20,000 residents.", "The town is situated at an elevation of approximately 300-350 meters.", "It is located about 9 kilometers northwest of the city of Jenin.", "Historical finds from the Canaanite period attest to its long-term settlement.", "The municipal area covers roughly 20,000 dunams of land.", "Agriculture includes olives as well as grain and pulse crops."],
     },
+    image: "/poi-images/palestine-al-yamun-cities-v2.webp",
   },
   {
     id: "palestine-bani-suheila-cities-v2",
@@ -1860,6 +1919,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Bani Suheila are o populație de peste 40.000 de locuitori.", "Orașul este situat la o altitudine medie de aproximativ 80 de metri.", "Teritoriul orașului cuprinde o suprafață de circa 11.000 de dunami.", "Se află la doar aproximativ 2 kilometri est de Khan Yunis.", "Agricultura se concentrează pe migdale, măsline și citrice.", "Bani Suheila este una dintre cele mai vechi așezări din regiunea Khan Yunis."],
       en: ["Bani Suheila has a population of over 40.000 residents.", "The city sits at an average elevation of approximately 80 meters above sea level.", "The municipal area covers roughly 11,000 dunams of land.", "It is located only about 2 kilometers east of Khan Yunis.", "Agriculture focuses on the production of almonds, olives, and citrus fruits.", "Bani Suheila is one of the oldest settlements in the Khan Yunis region."],
     },
+    image: "/poi-images/palestine-bani-suheila-cities-v2.webp",
   },
   {
     id: "palestine-abasan-al-kabira-cities-v2",
@@ -1891,6 +1951,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Abasan al-Kabira are o populație de aproximativ 26.000 de locuitori.", "Orașul este situat la o altitudine de circa 75 de metri deasupra mării.", "Se află la sud-est de orașul Khan Yunis.", "Teritoriul municipal cuprinde o suprafață de aproximativ 14.000 de dunami.", "Regiunea este cunoscută pentru culturile de măslini și pepeni verzi.", "Aici au fost descoperite vestigii arheologice ale arhitecturii bizantine."],
       en: ["Abasan al-Kabira has a population of approximately 26,000 residents.", "The town is situated at an elevation of about 75 meters above sea level.", "It is located southeast of the city of Khan Yunis.", "The municipal area covers approximately 14,000 dunams of land.", "The region is known for growing olives and watermelons.", "Archaeological remains of Byzantine architecture have been discovered here."],
     },
+    image: "/poi-images/palestine-abasan-al-kabira-cities-v2.webp",
   },
   {
     id: "palestine-al-zawayda-cities-v2",
@@ -1922,6 +1983,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Al-Zawayda are o populație de aproximativ 20.000 de locuitori.", "Orașul este situat direct pe coasta Mării Mediterane.", "Agricultura se concentrează pe citrice și culturi în sere.", "Se află la nord de orașul Deir al-Balah.", "Localitatea se întinde pe o suprafață de circa 3.800 de dunami.", "Al-Zawayda este cunoscut pentru plajele sale de nisip și grădinile de coastă."],
       en: ["Al-Zawayda has a population of approximately 20,000 residents.", "The town is situated directly on the Mediterranean coast.", "Agriculture focuses on citrus fruits and greenhouse farming.", "It is located to the north of the city of Deir al-Balah.", "The municipal area covers roughly 3,800 dunams of land.", "Al-Zawayda is known for its sandy beaches and coastal gardens."],
     },
+    image: "/poi-images/palestine-al-zawayda-cities-v2.webp",
   },
   {
     id: "palestine-al-nuseirat-cities-v2",
@@ -1953,6 +2015,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Fondată în 1948 în urma războiului arabo-israelian", "Situată în guvernoratul Deir al-Balah", "Numele provine de la tribul beduin Nuseirat", "Găzduiește zeci de mii de refugiați înregistrați", "Dispune de numeroase școli UNRWA și centre de sănătate", "Economia se bazează pe comerțul local și agricultură"],
       en: ["Founded in 1948 following the Arab-Israeli War", "Located in the Deir al-Balah Governorate", "Named after the Bedouin Nuseirat tribe", "Houses tens of thousands of registered refugees", "Contains numerous UNRWA schools and health centers", "Economy is partly based on local trade and agriculture"],
     },
+    image: "/poi-images/palestine-al-nuseirat-cities-v2.webp",
   },
   {
     id: "palestine-al-bureij-cities-v2",
@@ -1984,6 +2047,7 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Înființată în anul 1949", "Situată în apropiere de Wadi Gaza", "Creată pe situl unei foste tabere militare britanice", "Suprafața este de aproximativ 0,5 kilometri pătrați", "Administrată de UNRWA pentru servicii de bază", "Găzduiește aproximativ 45.000 de refugiați înregistrați"],
       en: ["Established in the year 1949", "Located near the Wadi Gaza area", "Built on the site of a former British military camp", "Area covers approximately 0.5 square kilometers", "Administered by UNRWA for basic services", "Houses roughly 45,000 registered refugees"],
     },
+    image: "/poi-images/palestine-al-bureij-cities-v2.webp",
   },
   {
     id: "palestine-al-maghazi-cities-v2",
@@ -2015,5 +2079,6 @@ export const palestineCitiesV2: POI[] = [
       ro: ["Înființată în anul 1949", "Suprafața cuprinde mai puțin de 0,6 kilometri pătrați", "Situată central în Gaza, în guvernoratul Deir al-Balah", "Majoritatea refugiaților au venit din satele din sud", "Cunoscută pentru producția agricolă din împrejurimi", "Dispune de propriul comitet local de administrare"],
       en: ["Founded in the year 1949", "Area covers less than 0.6 square kilometers", "Located centrally in Gaza in Deir al-Balah Governorate", "Most refugees arrived from villages in the south", "Known for agricultural production in its surroundings", "Has its own local committee for administration"],
     },
+    image: "/poi-images/palestine-al-maghazi-cities-v2.webp",
   }
 ];

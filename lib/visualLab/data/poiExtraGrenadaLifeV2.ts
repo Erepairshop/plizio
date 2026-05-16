@@ -31,6 +31,7 @@ export const grenadaLifeV2: POI[] = [
       ro: ["Parcul a fost fondat în 1992.", "Suprafața este de 8,2 km².", "Lacul are o adâncime de 22 de metri.", "Există 6 trasee de drumeție.", "Altitudinea maximă este de 540 de metri.", "Parcul adăpostește 40 de specii de păsări."],
       en: ["The park was established in 1992.", "It covers 8 square kilometers.", "The lake is 20 meters deep at its center.", "There are 5 marked hiking trails.", "Highest elevation in park is 530 meters.", "Wildlife includes Mona monkeys and iguanas."],
     },
+    image: "/poi-images/grenada-grand-etang-national-park-life-v2.webp",
   },
   {
     id: "grenada-levera-national-park-life-v2",
@@ -62,6 +63,7 @@ export const grenadaLifeV2: POI[] = [
       ro: ["Parcul a fost înființat în 2002.", "Suprafața este de 5,2 km².", "Plajele se întind pe 3,2 km.", "Aproximativ 600 de țestoase cuibăresc anual.", "Sunt 35 de specii de păsări.", "Lacul are o adâncime de 2,5 metri."],
       en: ["The park was established in 2002.", "It covers 5 square kilometers.", "The beach length is 3 kilometers.", "Around 500 turtles nest annually.", "Over 30 bird species are recorded.", "The salt lake is 2 meters deep."],
     },
+    image: "/poi-images/grenada-levera-national-park-life-v2.webp",
   },
   {
     id: "grenada-mt-hartman-dove-sanctuary-life-v2",
@@ -93,6 +95,7 @@ export const grenadaLifeV2: POI[] = [
       ro: ["Sanctuarul a fost înființat în 1994.", "Suprafața este de 32 de hectare.", "Populația porumbelului Grenadei este de aproximativ 150 de exemplare.", "Pădurea uscată conține 18 specii de arbori.", "Există 3 puncte de observare.", "Este administrat de o organizație non-guvernamentală."],
       en: ["The sanctuary was established in 1994.", "It covers 30 hectares.", "The Grenada dove population is around 100-150 individuals.", "Dry forest hosts 18 tree species.", "There are 2 viewing platforms.", "Managed by the Grenada Dove Conservation Society."],
     },
+    image: "/poi-images/grenada-mt-hartman-dove-sanctuary-life-v2.webp",
   },
   {
     id: "grenada-annandale-falls-life-v2",
@@ -124,6 +127,7 @@ export const grenadaLifeV2: POI[] = [
       ro: ["Înălțime: 9 metri", "Temperatura apei: 24°C în medie", "Distanța de la St. George's: 4 km nord", "Alimentat de râul Annandale", "Vizitatori anual: aproximativ 50.000", "Arie protejată din 1991"],
       en: ["Height: 9 meters (30 feet)", "Average water temperature: 24°C (75°F)", "Distance from St. George's: 4 km north", "Fed by the Annandale River", "Annual visitors: approximately 50,000", "Protected area since 1991"],
     },
+    image: "/poi-images/grenada-annandale-falls-life-v2.webp",
   },
   {
     id: "grenada-concord-falls-life-v2",
@@ -155,6 +159,7 @@ export const grenadaLifeV2: POI[] = [
       ro: ["Treapta cea mai înaltă: 20 metri", "Treapta mijlocie: 10 metri", "Treapta inferioară: 5 metri", "Temperatura apei: 22°C", "Timp de drumeție până la cascada superioară: 30 minute", "Distanța de la St. George's: 12 km"],
       en: ["Highest tier: 20 meters (66 feet)", "Middle tier: 10 meters (33 feet)", "Lower tier: 5 meters (16 feet)", "Average water temperature: 22°C (72°F)", "Hiking time to upper fall: 30 minutes", "Distance from St. George's: 12 km (7.5 miles)"],
     },
+    image: "/poi-images/grenada-concord-falls-life-v2.webp",
   },
   {
     id: "grenada-palm-tree-gardens-life-v2",
@@ -186,6 +191,7 @@ export const grenadaLifeV2: POI[] = [
       ro: ["Suprafață: 2 hectare", "Număr de specii de palmieri: peste 60", "Anul deschiderii: 1995", "Preț bilet: 10 USD", "Altitudine: 150 m deasupra nivelului mării", "Precipitații anuale: 1.500 mm"],
       en: ["Area: 2 hectares (5 acres)", "Number of palm species: over 60", "Year opened: 1995", "Admission fee: 10 USD", "Elevation: 150 meters (492 feet) above sea level", "Annual rainfall: 1,500 mm (59 inches)"],
     },
+    image: "/poi-images/grenada-palm-tree-gardens-life-v2.webp",
   },
   {
     id: "grenada-la-sagesse-nature-center-life-v2",
@@ -217,6 +223,7 @@ export const grenadaLifeV2: POI[] = [
       ro: ["Suprafață: 15 hectare", "Anul înființării: 1996", "Specii de mangrove: roșie și neagră", "Precipitații anuale: 1.200 mm", "Distanța de la St. George's: 10 km", "Specii de păsări migratoare: peste 30"],
       en: ["Area: 15 hectares (37 acres)", "Founded: 1996", "Mangrove species: red and black", "Annual rainfall: 1,200 mm (47 inches)", "Distance from St. George's: 10 km (6 miles)", "Migratory bird species: over 30"],
     },
+    image: "/poi-images/grenada-la-sagesse-nature-center-life-v2.webp",
   },
   {
     id: "grenada-bay-gardens-life-v2",
@@ -248,6 +255,7 @@ export const grenadaLifeV2: POI[] = [
       ro: ["Suprafață: 1 hectar", "Anul înființării: 2004", "Specii de plante: peste 200", "Preț bilet: 8 USD", "Program: zilnic 9-17", "Precipitații anuale: 1.800 mm"],
       en: ["Area: 1 hectare (2.5 acres)", "Year established: 2004", "Plant species: over 200", "Admission: $8 USD", "Opening hours: daily 9 AM - 5 PM", "Annual rainfall: 1,800 mm (71 inches)"],
     },
+    image: "/poi-images/grenada-bay-gardens-life-v2.webp",
   },
   {
     id: "grenada-lake-antoine-national-park-life-v2",
@@ -279,6 +287,7 @@ export const grenadaLifeV2: POI[] = [
       ro: ["Suprafața lacului: 2 hectare", "Adâncime maximă: 8 metri", "Înființarea parcului: 1995", "Vârsta lacului: aprox. 10.000 de ani", "Lungime traseu: 1 km", "Specii de păsări: peste 40"],
       en: ["Lake area: 2 hectares (5 acres)", "Maximum depth: 8 meters (26 feet)", "Park established: 1995", "Lake age: approximately 10,000 years", "Trail length: 1 km (0.6 miles)", "Bird species: over 40"],
     },
+    image: "/poi-images/grenada-lake-antoine-national-park-life-v2.webp",
   },
   {
     id: "grenada-sunnyside-garden-life-v2",
@@ -310,6 +319,7 @@ export const grenadaLifeV2: POI[] = [
       ro: ["Suprafață: 0,5 hectare", "Anul înființării: 1980", "Specii de plante: peste 300", "Preț bilet: 5 USD", "Altitudine: 100 m", "Limită grup: 20 de persoane"],
       en: ["Area: 0.5 hectares (1.2 acres)", "Year established: 1980", "Plant species: over 300", "Admission: $5 USD", "Elevation: 100 meters (328 feet)", "Group size limit: 20 persons"],
     },
+    image: "/poi-images/grenada-sunnyside-garden-life-v2.webp",
   },
   {
     id: "grenada-jessamine-eden-life-v2",
@@ -341,6 +351,7 @@ export const grenadaLifeV2: POI[] = [
       ro: ["Suprafață: 0,8 hectare", "Anul înființării: 1995", "Specii de plante: peste 100", "Precipitații anuale: 2.000 mm", "Program: doar pe bază de programare", "Număr de ateliere pe lună: 4"],
       en: ["Area: 0.8 hectares (2 acres)", "Year established: 1995", "Plant species: over 100", "Annual rainfall: 2,000 mm (79 inches)", "Open by appointment only", "Workshops per month: 4"],
     },
+    image: "/poi-images/grenada-jessamine-eden-life-v2.webp",
   },
   {
     id: "grenada-smithys-garden-life-v2",
@@ -372,6 +383,7 @@ export const grenadaLifeV2: POI[] = [
       ro: ["Suprafață: 0,3 hectare", "Anul înființării: 1992", "Arbori de nucșoară: peste 20", "Preț bilet: 3 USD", "Durata turului: 45 minute", "Altitudine: 50 m"],
       en: ["Area: 0.3 hectares (0.75 acres)", "Year established: 1992", "Nutmeg trees: over 20", "Admission: $3 USD", "Tour duration: 45 minutes", "Elevation: 50 meters (164 feet)"],
     },
+    image: "/poi-images/grenada-smithys-garden-life-v2.webp",
   },
   {
     id: "grenada-beausejour-river-life-v2",
@@ -403,6 +415,7 @@ export const grenadaLifeV2: POI[] = [
       ro: ["Lungime: 5 km", "Bazin hidrografic: 12 km²", "Lățime medie: 3 m", "Debit: 0,5 m³/s", "Se varsă în Marea Caraibilor", "Istoric: plantație de zahăr"],
       en: ["Length: 5 km (3.1 miles)", "Watershed area: 12 km² (4.6 sq mi)", "Average width: 3 meters (10 feet)", "Discharge: 0.5 m³/s (18 cfs)", "Mouth: Caribbean Sea", "Historical use: sugar plantation"],
     },
+    image: "/poi-images/grenada-beausejour-river-life-v2.webp",
   },
   {
     id: "grenada-quarantine-point-park-life-v2",
@@ -434,6 +447,7 @@ export const grenadaLifeV2: POI[] = [
       ro: ["Suprafață: 3 hectare", "Anul deschiderii: 2000", "Vizitatori anuali: 10.000", "Precipitații: 1.600 mm", "Utilizare istorică: stație de carantină (sec. XIX)", "Tip de plajă: nisip negru"],
       en: ["Area: 3 hectares (7.4 acres)", "Opened: 2000", "Annual visitors: 10,000", "Annual rainfall: 1,600 mm (63 inches)", "Historical use: quarantine station (19th century)", "Beach type: black sand"],
     },
+    image: "/poi-images/grenada-quarantine-point-park-life-v2.webp",
   },
   {
     id: "grenada-royal-mt-carmel-waterfalls-life-v2",
@@ -465,5 +479,6 @@ export const grenadaLifeV2: POI[] = [
       ro: ["Cele mai înalte cascade de pe insula Grenada", "Înălțimea totală a cascadei principale este de cca. 21 metri", "Situate la aproximativ 3 kilometri sud de Grenville", "Compuse din două trepte distincte de cădere a apei", "Traseul trece prin plantații private de cacao și mirodenii", "Cunoscute local și sub numele de 'Marquis Falls'"],
       en: ["Highest waterfalls on the island of Grenada", "Total height of the main cascade is approximately 70 feet", "Located about 2 miles south of the town of Grenville", "Consist of two distinct cascading sections", "The trail passes through private cocoa and spice farms", "Commonly referred to as the 'Marquis Falls'"],
     },
+    image: "/poi-images/grenada-royal-mt-carmel-waterfalls-life-v2.webp",
   }
 ];

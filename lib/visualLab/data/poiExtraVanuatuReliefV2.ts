@@ -31,6 +31,7 @@ export const vanuatuReliefV2: POI[] = [
       ro: ["Muntele Tukosmera este cel mai înalt punct din Tanna, cu 1084 de metri.", "Muntele este un vulcan stins datând din perioada Pleistocenului.", "Este situat în partea cea mai sudică a insulei Tanna.", "Ascensiunea durează aproximativ 6-8 ore din cauza terenului abrupt.", "Muntele face parte din sistemul de credințe al mișcării John Frum.", "Găzduiește specii rare de orhidee care cresc doar la această altitudine."],
       en: ["Mount Tukosmera is the highest point on Tanna Island at 1,084 meters.", "The mountain is an extinct volcano dating back to the Pleistocene era.", "It is located in the southernmost part of Tanna Island.", "Climbing the peak takes approximately 6 to 8 hours due to steep terrain.", "The mountain is integrated into the belief system of the John Frum movement.", "It hosts rare orchid species that thrive only at high elevations."],
     },
+    image: "/poi-images/vanuatu-tukosmera-relief-v2.webp",
   },
   {
     id: "vanuatu-lombenben-relief-v2",
@@ -62,6 +63,7 @@ export const vanuatuReliefV2: POI[] = [
       ro: ["Muntele Lombenben atinge o înălțime de 1496 de metri deasupra mării.", "Vulcanul este un vulcan scut cu un diametru de aproximativ 38 de kilometri.", "În craterul de la vârf se află trei lacuri: Voui, Manaro Ngoru și Lakua.", "Întreaga populație a insulei a trebuit evacuată în 2017 și 2018.", "Vulcanul este cunoscut pentru exploziile freatice din lacul Voui.", "Ambae a devenit faimoasă sub numele de Bali Ha'i în literatura de specialitate."],
       en: ["Mount Lombenben reaches a height of 1,496 meters above sea level.", "The volcano is a shield volcano with a diameter of about 38 kilometers.", "There are three lakes in the summit crater: Lake Voui, Manaro Ngoru, and Lakua.", "The entire island population had to be evacuated in 2017 and 2018.", "The volcano is known for frequent phreatic explosions within Lake Voui.", "Ambae gained international fame as the inspiration for Michener's Bali Ha'i."],
     },
+    image: "/poi-images/vanuatu-lombenben-relief-v2.webp",
   },
   {
     id: "vanuatu-mcdonald-relief-v2",
@@ -93,6 +95,7 @@ export const vanuatuReliefV2: POI[] = [
       ro: ["Muntele McDonald este cel mai înalt punct din Erromango, cu 937 de metri.", "Insula Erromango a fost centrul comerțului cu lemn de santal în secolul al XIX-lea.", "Muntele face parte dintr-un complex vulcanic stins.", "Erromango este a patra insulă ca mărime din arhipelagul Vanuatu.", "Rezervația Kauri de pe insulă găzduiește arbori cu o vechime de peste 1000 de ani.", "Densitatea populației în regiunea din jurul muntelui este extrem de scăzută."],
       en: ["Mount McDonald is the highest point on Erromango at 937 meters.", "Erromango Island was the global hub of the sandalwood trade in the 19th century.", "The mountain is part of an ancient, extinct volcanic complex.", "Erromango is the fourth largest island in the Vanuatu archipelago.", "The island's Kauri reserve hosts trees that are over 1,000 years old.", "The population density in the region surrounding the mountain is extremely low."],
     },
+    image: "/poi-images/vanuatu-mcdonald-relief-v2.webp",
   },
   {
     id: "vanuatu-gharat-relief-v2",
@@ -124,6 +127,7 @@ export const vanuatuReliefV2: POI[] = [
       ro: ["Muntele Gharat are 797 de metri înălțime și este un stratovulcan activ.", "Vulcanul a erupt ultima dată în mod semnificativ în anul 2011.", "Este situat în centrul insulei Gaua din provincia Torba.", "Craterul vulcanului are un diametru de aproximativ 500 de metri.", "Erupțiile cauzează adesea ploi acide care afectează culturile agricole.", "Vulcanul se află în interiorul unei caldere mari în formă de semilună."],
       en: ["Mount Gharat stands at 797 meters and is an active stratovolcano.", "The volcano last experienced a significant eruption in 2011.", "It is located in the center of Gaua Island in Torba Province.", "The main crater of the volcano has a diameter of about 500 meters.", "Eruptions frequently cause acid rain that damages local subsistence crops.", "The volcano is situated within a large, crescent-shaped caldera."],
     },
+    image: "/poi-images/vanuatu-gharat-relief-v2.webp",
   },
   {
     id: "vanuatu-lopevi-relief-v2",
@@ -155,6 +159,7 @@ export const vanuatuReliefV2: POI[] = [
       ro: ["Înălțime de 1.413 metri deasupra nivelului mării", "Ultima așezare permanentă a fost abandonată în 1960", "Stratovulcan simetric cu diametrul de 7 km", "Parte a arcului insular Noile Hebride", "Peste 20 de erupții înregistrate din anul 1863", "Compus în principal din bazalt și andezit"],
       en: ["Elevation of 1,413 meters above sea level", "Last permanent settlement ended in 1960", "Symmetrical stratovolcano with a 7 km diameter", "Part of the New Hebrides island arc", "Over 20 eruptions recorded since the year 1863", "Primarily composed of basalt and andesite"],
     },
+    image: "/poi-images/vanuatu-lopevi-relief-v2.webp",
   },
   {
     id: "vanuatu-cumberland-peninsula-relief-v2",
@@ -186,6 +191,7 @@ export const vanuatuReliefV2: POI[] = [
       ro: ["Cel mai nordic punct al insulei Espiritu Santo", "Cele mai înalte vârfuri depășesc 1.500 de metri", "Habitatul păsării endemice Myzomela adansoni", "Cea mai densă pădure tropicală virgină din Vanuatu", "Formată din calcar vechi și bazalt", "Infrastructură rutieră aproape inexistentă"],
       en: ["Northernmost point of Espiritu Santo island", "Highest peaks exceed 1,500 meters", "Home to the endemic Mountain Myzomela bird", "Densest pristine rainforest in Vanuatu", "Composed of geologically old limestone and basalt", "Virtually no road infrastructure exists"],
     },
+    image: "/poi-images/vanuatu-cumberland-peninsula-relief-v2.webp",
   },
   {
     id: "vanuatu-santop-relief-v2",
@@ -217,6 +223,7 @@ export const vanuatuReliefV2: POI[] = [
       ro: ["Înălțimea estimată a vârfului este de 1.704 metri", "Al doilea cel mai înalt munte de pe insula Espiritu Santo", "Înconjurat de pădure tropicală primară de nori", "Sursă importantă de apă pentru râurile insulei", "Origine tectonică din perioada Pleistocenului", "Loc sacru în tradiția locală kastom"],
       en: ["Estimated summit elevation of 1,704 meters", "Second highest peak on Espiritu Santo island", "Surrounded by primary tropical cloud forest", "Critical watershed for the island's rivers", "Tectonic origin dating to the Pleistocene", "Sacred site in local kastom traditions"],
     },
+    image: "/poi-images/vanuatu-santop-relief-v2.webp",
   },
   {
     id: "vanuatu-napiuan-relief-v2",
@@ -248,6 +255,7 @@ export const vanuatuReliefV2: POI[] = [
       ro: ["Cel mai înalt punct al insulei Erromango (886 m)", "Format prin activitate vulcanică în Pliocen", "Zona centrală a extracției istorice de lemn de santal", "Habitat vital pentru specia endemică Myzomela", "Regiunea vârfului este aproape permanent în nori", "Parte a unui complex vulcanic stins"],
       en: ["Highest point of Erromango island at 886 m", "Formed by volcanic activity during the Pliocene", "Core area of historical sandalwood extraction", "Vital habitat for the Erromango honeyeater", "Summit region is almost constantly shrouded in clouds", "Part of an extinct volcanic complex"],
     },
+    image: "/poi-images/vanuatu-napiuan-relief-v2.webp",
   },
   {
     id: "vanuatu-inrerow-atanainyong-relief-v2",
@@ -279,6 +287,7 @@ export const vanuatuReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf din Aneityum (852 metri)", "Parte a unui complex vulcanic stins", "Habitat pentru ferigi arborescente endemice rare", "Precipitații anuale de peste 3.000 mm la vârf", "Formațiuni stâncoase din perioada Pliocenului", "Cel mai important reper de navigație din sudul Vanuatu"],
       en: ["Highest peak of Aneityum at 852 meters", "Part of an extinct volcanic complex", "Location of rare endemic tree ferns", "Annual rainfall exceeds 3,000 mm at the summit", "Rock formations date back to the Pliocene", "Most important navigational landmark in southern Vanuatu"],
     },
+    image: "/poi-images/vanuatu-inrerow-atanainyong-relief-v2.webp",
   },
   {
     id: "vanuatu-vulmat-relief-v2",
@@ -310,6 +319,7 @@ export const vanuatuReliefV2: POI[] = [
       ro: ["Înălțime de aprox. 1.496 de metri pe insula Ambae", "Parte a complexului vulcanic activ Manaro", "Solul este compus din cenușă vulcanică fertilă", "Regiunea a fost evacuată total în anul 2018", "Habitat critic pentru pasărea endemică Monarhul de Ambae", "Găzduiește lacuri de crater spectaculoase în apropiere"],
       en: ["Elevation of approx. 1,496 meters on Ambae island", "Part of the active Manaro volcanic complex", "Soil consists of extremely fertile volcanic ash", "Site of a total island evacuation in 2018", "Vital habitat for the endemic Ambae monarch bird", "Houses spectacular crater lakes in its vicinity"],
     },
+    image: "/poi-images/vanuatu-vulmat-relief-v2.webp",
   },
   {
     id: "vanuatu-tawenun-relief-v2",
@@ -341,6 +351,7 @@ export const vanuatuReliefV2: POI[] = [
       ro: ["Cel mai înalt punct din Pentecost (947 metri)", "Cumpănă de ape vitală pentru întreaga insulă", "Amestec geologic de calcar și bazalt", "Centrul satelor tradiționale kastom", "Habitat pentru specii endemice de orhidee", "Esențial pentru captarea apei din nori de către păduri"],
       en: ["Highest point of Pentecost at 947 meters", "Vital watershed for the entire island", "Geological mixture of limestone and basalt", "Center of traditional kastom villages", "Home to endemic orchid species", "Crucial for cloud-water harvesting by the forests"],
     },
+    image: "/poi-images/vanuatu-tawenun-relief-v2.webp",
   },
   {
     id: "vanuatu-sereama-relief-v2",
@@ -372,6 +383,7 @@ export const vanuatuReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf de pe insula Maewo (811 m)", "Sursă a numeroase cascade spectaculoase", "Regiunea vârfului primește peste 4.000 mm de ploaie anual", "Vital pentru agricultura prin irigații a insulei", "Roci vulcanice datând din Miocen", "Habitat pentru multe specii de ferigi endemice"],
       en: ["Highest peak of Maewo island at 811 m", "Source of numerous spectacular waterfalls", "Summit region receives over 4,000 mm of rain annually", "Critical for local irrigation-based agriculture", "Volcanic rock dating back to the Miocene", "Home to many endemic fern species"],
     },
+    image: "/poi-images/vanuatu-sereama-relief-v2.webp",
   },
   {
     id: "vanuatu-taniar-relief-v2",
@@ -403,6 +415,7 @@ export const vanuatuReliefV2: POI[] = [
       ro: ["Înălțime de aprox. 800 de metri pe Malakula", "Parte a cumpenei de ape centrale a insulei", "Adiacent teritoriilor populațiilor Big Nambas", "Compus din roci vulcanice și calcar", "Habitat pentru specia endemică Myzomela de Malakula", "Loc important pentru ceremoniile tradiționale kastom"],
       en: ["Elevation of approx. 800 meters on Malakula", "Part of the island's central watershed", "Adjacent to Big Nambas tribal territories", "Composed of volcanic rock and limestone", "Habitat for the endemic Malakula honeyeater", "Significant site for traditional kastom ceremonies"],
     },
+    image: "/poi-images/vanuatu-taniar-relief-v2.webp",
   },
   {
     id: "vanuatu-efate-plateau-relief-v2",
@@ -434,6 +447,7 @@ export const vanuatuReliefV2: POI[] = [
       ro: ["Altitudini de până la 600 de metri deasupra mării", "Format în principal din calcar coraligen ridicat", "Cea mai importantă rezervă de apă pentru Port Vila", "Situl unor instalații militare din al Doilea Război Mondial", "Habitat pentru palmieri endemici din Vanuatu", "Centrul silviculturii comerciale de pe insula Efate"],
       en: ["Elevations up to 600 meters above sea level", "Primarily composed of uplifted coral limestone", "Main water catchment for Port Vila", "Site of historical WWII military installations", "Home to endemic Vanuatuan palm species", "Center of commercial forestry on Efate island"],
     },
+    image: "/poi-images/vanuatu-efate-plateau-relief-v2.webp",
   },
   {
     id: "vanuatu-south-santo-highlands-relief-v2",
@@ -465,6 +479,7 @@ export const vanuatuReliefV2: POI[] = [
       ro: ["Cuprinde înălțimi de peste 1.200 de metri", "Găzduiește cel mai mare sistem de peșteri din Vanuatu", "Zonă centrală pentru speciile de păsări montane endemice", "Precipitații anuale de peste 4.500 mm", "Teritoriu kastom important în interiorul insulei", "Format din straturi de calcar geologic tinere"],
       en: ["Encompasses summit heights exceeding 1,200 meters", "Home to the largest cave system in Vanuatu", "Core area for endemic mountain bird species", "Annual rainfall often exceeds 4,500 mm", "Significant kastom territory in the island's interior", "Composed of geologically young limestone layers"],
     },
+    image: "/poi-images/vanuatu-south-santo-highlands-relief-v2.webp",
   },
   {
     id: "vanuatu-malakula-central-range-relief-v2",
@@ -496,6 +511,7 @@ export const vanuatuReliefV2: POI[] = [
       ro: ["Cea mai înaltă altitudine atinge 879 de metri", "Se întinde pe 90 km de-a lungul insulei Malakula", "Format din roci vulcanice terțiare", "Barieră importantă pentru vânturile alizee de SE", "Teritoriul central al culturii Small Nambas", "Habitat pentru vulpi zburătoare și păsări endemice"],
       en: ["Highest elevation reaches 879 meters", "Extends for 90 km through Malakula island", "Composed of Tertiary volcanic rocks", "Major barrier for SE trade winds", "Heartland of the Small Nambas culture", "Home to endemic flying foxes and birds"],
     },
+    image: "/poi-images/vanuatu-malakula-central-range-relief-v2.webp",
   },
   {
     id: "vanuatu-rentabao-valley-relief-v2",
@@ -527,6 +543,7 @@ export const vanuatuReliefV2: POI[] = [
       ro: ["Traversată de râul Rentabao, lung de aprox. 12 km", "Cea mai importantă zonă de creștere a vitelor din Efate", "Locul celebrelor poduri 'Rentabao Bridges'", "Formată din sedimente aluvionare fertile", "Găzduiește cascade turistice populare", "Bazinul hidrografic acoperă aprox. 40 km²"],
       en: ["Traversed by the approx. 12 km long Rentabao River", "Main cattle ranching area on Efate island", "Location of the well-known 'Rentabao Bridges'", "Composed of fertile alluvial sediments", "Home to popular tourist waterfalls", "Watershed covers approximately 40 km²"],
     },
+    image: "/poi-images/vanuatu-rentabao-valley-relief-v2.webp",
   },
   {
     id: "vanuatu-lemon-relief-v2",
@@ -558,6 +575,7 @@ export const vanuatuReliefV2: POI[] = [
       ro: ["Înălțime de aprox. 1.100 de metri pe Ambrym", "Situat pe una dintre cele mai active insule din Vanuatu", "Compus din lavă bazaltică și tefra", "Înconjurat de câmpuri vaste de cenușă vulcanică", "Parte a Inelului de Foc al Pacificului", "Loc important în tradiția locală a magiei"],
       en: ["Elevation of approx. 1,100 meters on Ambrym", "Located on one of the most active islands in Vanuatu", "Composed of basaltic lava and tephra", "Surrounded by extensive volcanic ash fields", "Part of the Pacific Ring of Fire", "Significant site in local magical traditions"],
     },
+    image: "/poi-images/vanuatu-lemon-relief-v2.webp",
   },
   {
     id: "vanuatu-zeila-relief-v2",
@@ -589,6 +607,7 @@ export const vanuatuReliefV2: POI[] = [
       ro: ["Cel mai înalt punct din Vanua Lava (921 m)", "Parte a unui complex vulcanic bogat în sulf", "Situat în grupul de insule Banks", "Înconjurat de pădure tropicală primară", "Prezența izvoarelor fierbinți și solfatarelor în apropiere", "Habitat critic pentru porumbelul imperial de Banks"],
       en: ["Highest point of Vanua Lava at 921 m", "Part of a sulfur-rich volcanic complex", "Located in the Banks Islands group", "Surrounded by primary tropical rainforest", "Nearby hot springs and solfataras exist", "Vital habitat for the Banks Imperial Pigeon"],
     },
+    image: "/poi-images/vanuatu-zeila-relief-v2.webp",
   },
   {
     id: "vanuatu-melen-relief-v2",
@@ -620,6 +639,7 @@ export const vanuatuReliefV2: POI[] = [
       ro: ["Vârful are o înălțime de 1879 metri, fiind cel mai înalt din Vanuatu.", "Muntele se află pe insula Espiritu Santo, cea mai mare din arhipelag.", "Precipitațiile anuale pe versanți pot depăși pragul de 5000 mm.", "Ecosistemul său include specii de orhidee și ferigi arboricole unice.", "Face parte din punct de vedere geologic din Peninsula Cumberland.", "Din cauza izolării, muntele nu are drumuri de acces sau facilități turistice."],
       en: ["At 1,879 meters, it is the highest elevation in the entire Vanuatu archipelago.", "The peak is located on Espiritu Santo, the largest island by land area in the country.", "Annual rainfall on its slopes frequently exceeds 5,000 mm (200 inches).", "It supports high-altitude cloud forests with many endemic plant species.", "The mountain is situated within the rugged Cumberland Peninsula region.", "There are no permanent human settlements above the 1,000-meter mark."],
     },
+    image: "/poi-images/vanuatu-melen-relief-v2.webp",
   },
   {
     id: "vanuatu-gaua-highlands-relief-v2",
@@ -651,6 +671,7 @@ export const vanuatuReliefV2: POI[] = [
       ro: ["Lacul Letas este cea mai mare întindere de apă dulce din Vanuatu (19 km2).", "Muntele Gharat atinge o altitudine de 797 metri și este un vulcan activ.", "Cascada Siri are o cădere verticală de 120 de metri, fiind celebră în regiune.", "Caldera principală a podișului măsoară aproximativ 6 pe 9 kilometri.", "Ecosistemul local este influențat de emisiile constante de dioxid de sulf.", "Cea mai recentă perioadă de activitate vulcanică intensă a început în 2009."],
       en: ["Lake Letas is the largest freshwater lake in Vanuatu, spanning 19 sq km.", "Mount Gharat is an active stratovolcano reaching a height of 797 meters.", "The Siri Waterfall features a 120-meter (394-foot) vertical drop.", "The central caldera of the highlands measures roughly 6 by 9 kilometers.", "The water in Lake Letas is slightly acidic due to nearby volcanic activity.", "A major eruption in 2009 led to the temporary evacuation of nearby villages."],
     },
+    image: "/poi-images/vanuatu-gaua-highlands-relief-v2.webp",
   },
   {
     id: "vanuatu-paama-highlands-relief-v2",
@@ -682,6 +703,7 @@ export const vanuatuReliefV2: POI[] = [
       ro: ["Altitudinea maximă în podișul Paama este de aproximativ 550 de metri.", "Insula se află la o distanță de doar 2,5 km de vulcanul activ Lopevi.", "Compoziția solului este dominată de bazalt și depuneri de cenușă vulcanică.", "Regiunea este renumită pentru sistemele sale tradiționale de grădinărit pe pantă.", "Nu există râuri permanente în zonă din cauza porozității ridicate a solului.", "Podișul servește ca zonă de refugiu pentru populație în caz de cutremure marine."],
       en: ["The maximum elevation in the Paama Highlands is approximately 550 meters.", "The island is located only 2.5 kilometers from the highly active Lopevi volcano.", "The soil composition is primarily basaltic rock and layers of volcanic ash.", "Highland gardens are the main source of food, specializing in taro and yams.", "Surface water is scarce because the volcanic terrain is extremely porous.", "The steep interior ridges provide natural protection against regional tsunamis."],
     },
+    image: "/poi-images/vanuatu-paama-highlands-relief-v2.webp",
   },
   {
     id: "vanuatu-futuna-highlands-relief-v2",
@@ -713,6 +735,7 @@ export const vanuatuReliefV2: POI[] = [
       ro: ["Vârful principal, Muntele Herald, are o înălțime de 666 metri.", "Insula Futuna reprezintă cel mai estic punct locuit al arhipelagului.", "Podișul este compus din depozite de calcar de origine coraliferă.", "Suprafața totală a insulei Futuna este de aproximativ 11 kilometri pătrați.", "Accesul la podiș este dificil din cauza lipsei porturilor naturale pe insulă.", "Flora locală include specii adaptate la vânturile alizee persistente."],
       en: ["Mount Herald is the highest peak in the highlands at 666 meters.", "Futuna is the easternmost inhabited island in the Vanuatu archipelago.", "The highlands are partially composed of uplifted fossilized coral reefs.", "The island covers a total land area of only about 11 square kilometers.", "A lack of natural harbors makes accessing the highlands extremely difficult.", "The local vegetation is highly adapted to salt-laden Pacific trade winds."],
     },
+    image: "/poi-images/vanuatu-futuna-highlands-relief-v2.webp",
   },
   {
     id: "vanuatu-maewo-central-range-relief-v2",
@@ -744,6 +767,7 @@ export const vanuatuReliefV2: POI[] = [
       ro: ["Vârful Tawet este cea mai înaltă cotă a lanțului, având circa 811 metri.", "Insula Maewo are cea mai mare densitate de cascade din întreg arhipelagul.", "Precipitațiile medii anuale în zona înaltă depășesc 4000 mm.", "Lanțul muntos susține sistemul de irigații taro, unic în regiunea Pacificului.", "Geologia este dominată de roci vulcanice datând din perioada miocenă.", "Munții adăpostesc numeroase peșteri folosite istoric pentru ritualuri locale."],
       en: ["Mount Tawet is the highest elevation in the range at approximately 811 meters.", "Maewo has the highest concentration of waterfalls of any island in Vanuatu.", "Annual rainfall in the high-altitude zones exceeds 4,000 mm (157 inches).", "The range supplies water to the largest traditional taro irrigation systems.", "Geologically, the range is composed primarily of Miocene volcanic rocks.", "The mountains contain numerous cave systems of high cultural significance."],
     },
+    image: "/poi-images/vanuatu-maewo-central-range-relief-v2.webp",
   },
   {
     id: "vanuatu-pentecost-central-range-relief-v2",
@@ -775,6 +799,7 @@ export const vanuatuReliefV2: POI[] = [
       ro: ["Muntele Vulmat este vârful suprem, având o înălțime de 947 de metri.", "Lanțul muntos are o lungime de 60 km, traversând întreaga insulă.", "Turnurile pentru ritualul Nagol sunt construite pe pantele vestice ale munților.", "Geologia zonei este formată din bazalt și straturi de calcar miocen.", "Munții acționează ca un scut împotriva vânturilor alizee din sud-est.", "Plantația de kava de aici este considerată cea mai valoroasă din Vanuatu."],
       en: ["Mount Vulmat is the highest peak on the island at approximately 947 meters.", "The mountain range is about 60 kilometers long but only a few kilometers wide.", "Nagol diving towers are traditionally built on the western slopes of the range.", "The geology is dominated by basalt and Miocene limestone formations.", "The range acts as a significant barrier against southeast trade winds.", "Pentecost is famous for the high-quality kava grown in these highland soils."],
     },
+    image: "/poi-images/vanuatu-pentecost-central-range-relief-v2.webp",
   },
   {
     id: "vanuatu-malo-peak-relief-v2",
@@ -806,5 +831,6 @@ export const vanuatuReliefV2: POI[] = [
       ro: ["Altitudinea maximă a vârfului este de aproximativ 326 metri.", "Insula Malo este separată de Espiritu Santo prin doar 3 km de apă.", "Vârful reprezintă singura formațiune de origine vulcanică vizibilă pe insulă.", "Situl este asociat cu descoperiri arheologice importante din perioada Lapita.", "De pe vârf se poate monitoriza traficul maritim prin Canalul Segond.", "Pădurea de pe munte adăpostește specii rare de păsări de pădure tropicală."],
       en: ["The peak reaches an elevation of approximately 326 meters above sea level.", "Malo Island lies just 3 kilometers south of the larger Espiritu Santo.", "Geologically, the peak is the volcanic core of an otherwise limestone island.", "The area around Malo Peak is famous for its ancient Lapita pottery finds.", "The summit offers a strategic view over the busy Segond Channel.", "The mountain is covered in dense forest that is home to several rare pigeon species."],
     },
+    image: "/poi-images/vanuatu-malo-peak-relief-v2.webp",
   }
 ];

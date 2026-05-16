@@ -32,6 +32,7 @@ export const estoniaCitiesV2: POI[] = [
       ro: ["Populația numără aproximativ 10.050 locuitori", "Acoperă o suprafață de 11,25 km²", "Biserica Sf. Mihail datează din secolul XIII", "Stația de cale ferată funcționează din 1870", "Atestat documentar din 1241", "Declarat oraș în anul 1938"],
       en: ["Located 25 kilometers west of Tallinn", "Covers an area of 11.25 km²", "Population stands at roughly 10,000", "First mentioned in the 1241 Danish Census", "Town status acquired on May 1, 1938", "Features a 13th-century stone church"],
     },
+    image: "/poi-images/estonia-keila-cities-v2.webp",
   },
   {
     id: "estonia-kohila-cities-v2",
@@ -64,6 +65,7 @@ export const estoniaCitiesV2: POI[] = [
       ro: ["Așezată pe malurile râului Keila", "Populația locală este de 3.300 persoane", "Fabrica de hârtie a fost fondată în 1893", "Stația de tren inaugurată în 1901", "Găzduiește un conac din secolul XIX", "Centru administrativ al parohiei cu același nume"],
       en: ["Located in Rapla County", "Population is approximately 3,300", "Kohila Manor dates to the 19th century", "Paper mill established in 1893", "Railway station opened in 1901", "Situated along the Keila River"],
     },
+    image: "/poi-images/estonia-kohila-cities-v2.webp",
   },
   {
     id: "estonia-saue-cities-v2",
@@ -96,6 +98,7 @@ export const estoniaCitiesV2: POI[] = [
       ro: ["Suprafața totală măsoară 3,5 km²", "A devenit oraș independent în 1993", "Populația este de aproximativ 5.800 de locuitori", "Conacul a fost construit în anul 1792", "Situat la 18 km de capitala Tallinn", "Aparține administrativ de comitatul Harju"],
       en: ["Granted official town rights in 1993", "Land area covers precisely 3.5 km²", "Population is around 5,800 residents", "Located 18 kilometers from Tallinn", "Saue Manor features early classicism", "Main manor building completed in 1792"],
     },
+    image: "/poi-images/estonia-saue-cities-v2.webp",
   },
   {
     id: "estonia-sindi-cities-v2",
@@ -128,6 +131,7 @@ export const estoniaCitiesV2: POI[] = [
       ro: ["Populația numără 3.800 de locuitori", "Acoperă o suprafață de 5,01 km²", "Fabrica de pânză a fost deschisă în 1833", "A dobândit statut de oraș în 1938", "Situat pe malul stâng al râului Pärnu", "Barajul vechi a fost demolat în 2018-2019"],
       en: ["Situated 14 kilometers from Pärnu", "Textile factory established in 1833 by Wöhrmann", "Town status was granted in 1938", "Total land area is 5.01 km²", "Home to roughly 3,800 residents", "The 19th-century river dam was dismantled in 2019"],
     },
+    image: "/poi-images/estonia-sindi-cities-v2.webp",
   },
   {
     id: "estonia-kunda-cities-v2",
@@ -160,5 +164,6 @@ export const estoniaCitiesV2: POI[] = [
       ro: ["Localitatea a primit statutul oficial de oraș în anul 1938.", "Portul Kunda procesează anual peste 1,5 milioane de tone de mărfuri.", "Fabrica de ciment din oraș a fost înființată în anul 1870.", "Cultura mezolitică Kunda datează din perioada 8500–5000 î.Hr."],
       en: ["Kunda was officially granted city rights in 1938.", "The Port of Kunda handles more than 1.5 million tons of cargo per year.", "The city's prominent cement factory was established in 1870.", "Archaeological finds from the Kunda culture date back to 8500–5000 BC."],
     },
+    image: "/poi-images/estonia-kunda-cities-v2.webp",
   }
 ];

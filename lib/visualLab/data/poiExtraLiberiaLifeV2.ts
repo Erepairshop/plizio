@@ -31,6 +31,7 @@ export const liberiaLifeV2: POI[] = [
       ro: ["Parcul a fost înființat în 1983.", "Se întinde pe 1.804 km².", "Peste 500 de specii de păsări.", "Altitudinea variază între 100 și 500 de metri.", "Adăpostește 25 de grupuri de cimpanzei.", "Precipitațiile anuale depășesc 3.000 mm."],
       en: ["Established in 1983.", "Area: 1,804 km².", "Over 500 bird species recorded.", "Altitude range: 100-500 m.", "Home to 25 chimpanzee groups.", "Annual rainfall exceeds 3,000 mm."],
     },
+    image: "/poi-images/liberia-sapo-national-park-life-v2.webp",
   },
   {
     id: "liberia-marshall-wetlands-life-v2",
@@ -62,6 +63,7 @@ export const liberiaLifeV2: POI[] = [
       ro: ["Zona umedă se întinde pe 50 km².", "Adăpostește 150 de specii de păsări, inclusiv 20 migratoare.", "Mangrovele acoperă 10 km².", "Zona susține 5.000 de oameni.", "Adâncimea apei atinge 2 metri.", "A fost propusă ca sit Ramsar în 2010."],
       en: ["Wetland area: 50 km².", "150 bird species, including 20 migratory.", "Mangrove cover: 10 km².", "Supports 5,000 people for livelihood.", "Water depth up to 2 meters.", "Proposed as a Ramsar site in 2010."],
     },
+    image: "/poi-images/liberia-marshall-wetlands-life-v2.webp",
   },
   {
     id: "liberia-east-nimba-nature-reserve-life-v2",
@@ -93,6 +95,7 @@ export const liberiaLifeV2: POI[] = [
       ro: ["Înființată în anul 2003.", "Suprafață de aproximativ 13.500 de hectare.", "Parte a Patrimoniului Mondial UNESCO.", "Habitat al broaștei vivipare de Nimba.", "Lângă cele mai înalte cote din Liberia.", "Zonă protejată pentru cimpanzeii vest-africani."],
       en: ["Established in 2003.", "Covers approximately 13,500 hectares.", "Part of the UNESCO World Heritage Site.", "Home to the viviparous Nimba toad.", "Near the highest peaks in Liberia.", "Protected area for West African chimpanzees."],
     },
+    image: "/poi-images/liberia-east-nimba-nature-reserve-life-v2.webp",
   },
   {
     id: "liberia-lake-piso-reserve-life-v2",
@@ -124,6 +127,7 @@ export const liberiaLifeV2: POI[] = [
       ro: ["Lacul Piso are 100 km².", "Rezervația a fost înființată în 1992.", "200 de specii de păsări.", "Adâncimea maximă a apei este de 6 metri.", "Lacul se află la 10 km de coasta Atlanticului.", "Populația de hipopotami estimată la 50."],
       en: ["Lake Piso covers 100 km².", "Reserve established in 1992.", "200 bird species recorded.", "Maximum water depth 6 m.", "Lake is 10 km from the Atlantic coast.", "Hippopotamus population estimated at 50."],
     },
+    image: "/poi-images/liberia-lake-piso-reserve-life-v2.webp",
   },
   {
     id: "liberia-gola-forest-national-park-life-v2",
@@ -155,6 +159,7 @@ export const liberiaLifeV2: POI[] = [
       ro: ["Parcul a fost înființat în 2016.", "Suprafața: 720 km².", "330 de specii de păsări.", "Înălțimea coronamentului atinge 50 m.", "Adăpostește 20 de elefanți de pădure.", "Precipitații anuale de 3.500 mm."],
       en: ["Established in 2016.", "Area: 720 km².", "330 bird species recorded.", "Canopy height reaches 50 m.", "Home to 20 forest elephants.", "Annual rainfall: 3,500 mm."],
     },
+    image: "/poi-images/liberia-gola-forest-national-park-life-v2.webp",
   },
   {
     id: "liberia-wologizi-mountains-life-v2",
@@ -186,6 +191,7 @@ export const liberiaLifeV2: POI[] = [
       ro: ["Altitudinea maximă: 1.400 m deasupra nivelului mării.", "Lungimea masivului: aproximativ 35 km.", "Specii endemice de amfibieni: 3 descrise din 2012.", "Precipitații anuale: peste 3.000 mm.", "Suprafața păduroasă: circa 1.200 km².", "Satul Wologizi este situat pe versantul sudic."],
       en: ["Highest elevation: 1,400 m above sea level.", "Mountain range length: approximately 35 km.", "Endemic amphibian species: 3 newly described since 2012.", "Annual rainfall: over 3,000 mm.", "Forest area: about 1,200 km².", "Wologizi village lies on the southern slope."],
     },
+    image: "/poi-images/liberia-wologizi-mountains-life-v2.webp",
   },
   {
     id: "liberia-kpo-mountains-life-v2",
@@ -217,6 +223,7 @@ export const liberiaLifeV2: POI[] = [
       ro: ["Altitudine maximă: 1.200 m.", "Precipitații anuale: până la 4.000 mm.", "Interval de temperatură: 24–27 °C.", "Floră: peste 200 de specii de copaci documentate.", "Faună: populația de elefanți de pădure este de aproximativ 50 de indivizi.", "Distanța de la capitala Monrovia: aproximativ 150 km."],
       en: ["Maximum elevation: 1,200 m.", "Annual rainfall: up to 4,000 mm.", "Temperature range: 24–27 °C.", "Flora: over 200 tree species documented.", "Fauna: forest elephant population of about 50 individuals.", "Distance from capital Monrovia: approximately 150 km."],
     },
+    image: "/poi-images/liberia-kpo-mountains-life-v2.webp",
   },
   {
     id: "liberia-cestos-river-valley-life-v2",
@@ -248,6 +255,7 @@ export const liberiaLifeV2: POI[] = [
       ro: ["Lungimea văii: peste 200 km.", "Bazin hidrografic: aproximativ 15.000 km².", "Precipitații anuale: 2.500–3.500 mm.", "Agricultură: 40 % din suprafață este utilizată pentru orezării.", "Populația de manatee: estimată la 200–300 de indivizi.", "Amenințare: defrișarea afectează 15 % din pădurile de luncă pe deceniu."],
       en: ["Valley length: over 200 km.", "Catchment area: approximately 15,000 km².", "Annual rainfall: 2,500–3,500 mm.", "Agriculture: 40% of area used for rice paddies.", "Manatee population: estimated 200–300 individuals.", "Threat: deforestation affects 15% of floodplain forests per decade."],
     },
+    image: "/poi-images/liberia-cestos-river-valley-life-v2.webp",
   },
   {
     id: "liberia-monrovia-botanical-garden-life-v2",
@@ -279,6 +287,7 @@ export const liberiaLifeV2: POI[] = [
       ro: ["Anul înființării: 1963.", "Suprafață: 12 hectare.", "Specii de plante: peste 300.", "Restaurare: din 2006, costuri de 2,5 milioane USD.", "Vizitatori anuali: aproximativ 50.000.", "Instituție parteneră: Royal Botanic Gardens, Kew."],
       en: ["Established: 1963.", "Area: 12 hectares.", "Plant species: over 300.", "Restoration: from 2006, cost $2.5 million.", "Annual visitors: about 50,000.", "Partner institution: Royal Botanic Gardens, Kew."],
     },
+    image: "/poi-images/liberia-monrovia-botanical-garden-life-v2.webp",
   },
   {
     id: "liberia-du-river-estuary-life-v2",
@@ -310,6 +319,7 @@ export const liberiaLifeV2: POI[] = [
       ro: ["Lungimea râului: 100 km.", "Lățimea estuarelor: până la 5 km.", "Suprafața mangrovei: aproximativ 15 km².", "Amplitudinea mareei: până la 2 m.", "Captură anuală de pește: estimată la 500 de tone.", "Încărcare cu mercur: până la 0,5 µg/L în sedimente."],
       en: ["River length: 100 km.", "Estuary width: up to 5 km.", "Mangrove area: approximately 15 km².", "Tidal range: up to 2 m.", "Annual fish catch: estimated 500 tons.", "Mercury levels: up to 0.5 µg/L in sediments."],
     },
+    image: "/poi-images/liberia-du-river-estuary-life-v2.webp",
   },
   {
     id: "liberia-cavalla-river-wildlife-corridor-life-v2",
@@ -341,6 +351,7 @@ export const liberiaLifeV2: POI[] = [
       ro: ["Lungimea coridorului: 70 km.", "Conectează: Parcul Național Sapo și Parcul Național Taï.", "Desemnare: 2010.", "Specii de mamifere: 60 documentate.", "Specii de păsări: 300 înregistrate.", "Susținut de: Programul UE pentru Biodiversitate."],
       en: ["Corridor length: 70 km.", "Connects: Sapo NP and Taï NP.", "Designation: 2010.", "Mammal species: 60 documented.", "Bird species: 300 recorded.", "Supported by: EU Biodiversity Program."],
     },
+    image: "/poi-images/liberia-cavalla-river-wildlife-corridor-life-v2.webp",
   },
   {
     id: "liberia-mount-nimba-reserve-life-v2",
@@ -372,6 +383,7 @@ export const liberiaLifeV2: POI[] = [
       ro: ["Suprafață: 17.540 hectare.", "Altitudine maximă: 1.752 m.", "Specii endemice: peste 500.", "Precipitații anuale: 3.000–3.500 mm.", "Amenințare: minerit de fier de către ArcelorMittal.", "Patrimoniu UNESCO din 1981."],
       en: ["Area: 17,540 hectares.", "Highest point: 1,752 m.", "Endemic species: over 500.", "Annual rainfall: 3,000–3,500 mm.", "Threat: iron ore mining by ArcelorMittal.", "UNESCO World Heritage since 1981."],
     },
+    image: "/poi-images/liberia-mount-nimba-reserve-life-v2.webp",
   },
   {
     id: "liberia-mesurado-wetlands-life-v2",
@@ -403,6 +415,7 @@ export const liberiaLifeV2: POI[] = [
       ro: ["Suprafață: 200 km².", "Desemnare Ramsar: 2003.", "Specii de păsări: 150.", "Specii de pești: 30.", "Pierdere de mangrove: 20% din 2000.", "Încărcare cu nutrienți: fosfor până la 0,8 mg/L."],
       en: ["Area: 200 km².", "Ramsar designation: 2003.", "Bird species: 150.", "Fish species: 30.", "Mangrove loss: 20% since 2000.", "Nutrient loading: phosphorus up to 0.8 mg/L."],
     },
+    image: "/poi-images/liberia-mesurado-wetlands-life-v2.webp",
   },
   {
     id: "liberia-st-john-river-forest-life-v2",
@@ -434,6 +447,7 @@ export const liberiaLifeV2: POI[] = [
       ro: ["Suprafața pădurii: aproximativ 500 km².", "Lungimea râului: 300 km.", "Precipitații anuale: 2.500 mm.", "Suprafață protejată: 150 km² rezervație forestieră.", "Utilizare: transport de cherestea și cauciuc.", "Densitatea populației: sub 10 locuitori/km²."],
       en: ["Forest area: approximately 500 km².", "River length: 300 km.", "Annual rainfall: 2,500 mm.", "Protected area: 150 km² forest reserve.", "Use: transport of timber and rubber.", "Population density: below 10 inhabitants/km²."],
     },
+    image: "/poi-images/liberia-st-john-river-forest-life-v2.webp",
   },
   {
     id: "liberia-moa-river-valley-life-v2",
@@ -465,6 +479,7 @@ export const liberiaLifeV2: POI[] = [
       ro: ["Lungimea văii: 120 km.", "Lungimea râului: 320 km.", "Densitatea populației: până la 50 locuitori/km².", "Culturi principale: orez, manioc, cafea.", "Producția de aur: aproximativ 1,5 tone pe an (artizanal).", "Încărcare cu mercur: până la 1,2 µg/L în ape."],
       en: ["Valley length: 120 km.", "River length: 320 km.", "Population density: up to 50 inhabitants/km².", "Main crops: rice, cassava, coffee.", "Gold production: about 1.5 tons per year (artisanal).", "Mercury contamination: up to 1.2 µg/L in waters."],
     },
+    image: "/poi-images/liberia-moa-river-valley-life-v2.webp",
   },
   {
     id: "liberia-piso-lake-wetlands-life-v2",
@@ -496,6 +511,7 @@ export const liberiaLifeV2: POI[] = [
       ro: ["Suprafață: 100 km².", "Adâncime maximă: 5 m.", "Adâncime medie: 3 m.", "Captură anuală de pește: 1.000 de tone.", "Acoperire cu zambile de apă: 30% din suprafață.", "Specii de păsări: peste 200."],
       en: ["Area: 100 km².", "Maximum depth: 5 m.", "Mean depth: 3 m.", "Fish catch: 1,000 tons per year.", "Water hyacinth cover: 30% of surface.", "Bird species: over 200."],
     },
+    image: "/poi-images/liberia-piso-lake-wetlands-life-v2.webp",
   },
   {
     id: "liberia-gbi-forest-reserve-life-v2",
@@ -527,6 +543,7 @@ export const liberiaLifeV2: POI[] = [
       ro: ["Suprafață: 1.100 km².", "Anul înființării: 1966.", "Precipitații: 2.800 mm anual.", "Specii de arbori: peste 200.", "Specii de păsări: peste 350.", "Reducerea braconajului: 30% din 2015."],
       en: ["Area: 1,100 km².", "Year established: 1966.", "Rainfall: 2,800 mm annually.", "Tree species: over 200.", "Bird species: over 350.", "Poaching reduction: 30% since 2015."],
     },
+    image: "/poi-images/liberia-gbi-forest-reserve-life-v2.webp",
   },
   {
     id: "liberia-putu-range-forest-life-v2",
@@ -558,6 +575,7 @@ export const liberiaLifeV2: POI[] = [
       ro: ["Altitudinea maximă: 600 m.", "Precipitații anuale: 3.200 mm.", "Rezerve de minereu de fier: estimate la 4 miliarde de tone.", "Specie endemică de pasăre: pitulicea Putu (Phylloscopus putuensis).", "Suprafața pădurii comunitare: 200 km².", "Amenințare: minerit de suprafață planificat pentru fier."],
       en: ["Maximum elevation: 600 m.", "Annual rainfall: 3,200 mm.", "Iron ore reserves: estimated 4 billion tons.", "Endemic bird species: Putu warbler (Phylloscopus putuensis).", "Community forest area: 200 km².", "Threat: planned open-pit iron ore mining."],
     },
+    image: "/poi-images/liberia-putu-range-forest-life-v2.webp",
   },
   {
     id: "liberia-savannah-transition-zone-life-v2",
@@ -589,6 +607,7 @@ export const liberiaLifeV2: POI[] = [
       ro: ["Lățimea zonei: aproximativ 50 km.", "Precipitații: 1.500–2.000 mm pe an.", "Sezon uscat: noiembrie–martie (5 luni).", "Densitatea populației: 30–50 locuitori/km².", "Culturi principale: arahide și mei.", "Amenințare: pășunat excesiv și incendii de savană."],
       en: ["Zone width: about 50 km.", "Rainfall: 1,500–2,000 mm per year.", "Dry season: November–March (5 months).", "Population density: 30–50 inhabitants/km².", "Main crops: groundnuts and sorghum.", "Threat: overgrazing and bushfires."],
     },
+    image: "/poi-images/liberia-savannah-transition-zone-life-v2.webp",
   },
   {
     id: "liberia-bomi-hills-forest-life-v2",
@@ -620,6 +639,7 @@ export const liberiaLifeV2: POI[] = [
       ro: ["Altitudinea dealurilor: până la 400 m.", "Activitate minieră: anii 1960–1990.", "Conținut de fier în sol: peste 10.000 ppm în unele zone.", "Refacere forestieră: plantare de Terminalia ivorensis.", "Importanță: bazin hidrografic al râului Lofa.", "Fragmentare: 30% din pădure sunt fragmente izolate."],
       en: ["Hill elevation: up to 400 m.", "Mining activity: 1960s–1990s.", "Soil iron content: over 10,000 ppm in some areas.", "Reforestation: planting of Terminalia ivorensis.", "Significance: watershed for Lofa River.", "Fragmentation: 30% of forest is isolated fragments."],
     },
+    image: "/poi-images/liberia-bomi-hills-forest-life-v2.webp",
   },
   {
     id: "liberia-lowland-rainforest-zone-life-v2",
@@ -651,6 +671,7 @@ export const liberiaLifeV2: POI[] = [
       ro: ["Altitudine: sub 500 m.", "Precipitații: 2.500–4.000 mm anual.", "Sezon ploios: aprilie–octombrie.", "Înălțimea coronamentului: 30–50 m.", "Stocare de carbon: estimată la 2,5 miliarde de tone.", "Pierdere de pădure: 30% din 2000."],
       en: ["Elevation: below 500 m.", "Rainfall: 2,500–4,000 mm annually.", "Rainy season: April–October.", "Canopy height: 30–50 m.", "Carbon storage: estimated 2.5 billion tons.", "Forest loss: 30% since 2000."],
     },
+    image: "/poi-images/liberia-lowland-rainforest-zone-life-v2.webp",
   },
   {
     id: "liberia-robertsport-coastal-reserve-life-v2",
@@ -682,6 +703,7 @@ export const liberiaLifeV2: POI[] = [
       ro: ["Lungimea coastei: 50 km.", "Cuiburi de țestoase: în medie 200 pe sezon.", "Specii de pești: peste 100.", "Specii de corali: 50.", "Anul înființării: 2010.", "Principala amenințare: pescuitul excesiv și deșeurile din plastic."],
       en: ["Coastline length: 50 km.", "Turtle nests: average 200 per season.", "Fish species: over 100.", "Coral species: 50.", "Established: 2010.", "Main threats: overfishing and plastic waste."],
     },
+    image: "/poi-images/liberia-robertsport-coastal-reserve-life-v2.webp",
   },
   {
     id: "liberia-farmington-river-corridor-life-v2",
@@ -713,6 +735,7 @@ export const liberiaLifeV2: POI[] = [
       ro: ["Lungime: 80 km.", "Pierdere de pădure: 70% înlocuită de plantații.", "Încărcare cu fosfați: niveluri crescute din cauza îngrășămintelor.", "Specii de păsări: 250 de-a lungul râului.", "Captură anuală de pește: 200 de tone.", "Programul REDD+: proiecte de reîmpădurire."],
       en: ["Length: 80 km.", "Forest loss: 70% replaced by plantations.", "Phosphate levels: elevated due to fertilizers.", "Bird species: 250 along the river.", "Fish catch: 200 tons per year.", "REDD+ program: reforestation projects."],
     },
+    image: "/poi-images/liberia-farmington-river-corridor-life-v2.webp",
   },
   {
     id: "liberia-nimba-highlands-forest-life-v2",
@@ -744,6 +767,7 @@ export const liberiaLifeV2: POI[] = [
       ro: ["Altitudini de peste 1.300 m.", "Parte a zonei pădurilor din Guineea Superioară.", "Prezența a peste 2.000 de specii de plante vasculare.", "Habitat pentru hipopotamul pitic, specie periclitată.", "Foste situri de extracție a minereului de fier în apropiere.", "Coridor important pentru speciile migratoare."],
       en: ["Altitudes exceeding 1,300 meters.", "Part of the Upper Guinea Forest zone.", "Occurrence of over 2,000 vascular plant species.", "Habitat for the endangered pygmy hippopotamus.", "Former iron ore mining sites nearby.", "Important corridor for migratory animal species."],
     },
+    image: "/poi-images/liberia-nimba-highlands-forest-life-v2.webp",
   },
   {
     id: "liberia-manoj-river-reserve-life-v2",
@@ -775,6 +799,7 @@ export const liberiaLifeV2: POI[] = [
       ro: ["Râu de frontieră între Liberia și Sierra Leone.", "Protejează pădurile galerii.", "Prezența crocodililor de Nil.", "Parte importantă a Uniunii Râului Mano.", "Reglează regimul hidrologic al câmpiei de coastă.", "Zonă de cuibărit pentru specii rare de pescăruș albastru."],
       en: ["Border river between Liberia and Sierra Leone.", "Protects gallery forests.", "Home to Nile crocodiles.", "Important part of the Mano River Union.", "Regulates the water balance of the coastal plain.", "Breeding ground for rare kingfisher species."],
     },
+    image: "/poi-images/liberia-manoj-river-reserve-life-v2.webp",
   },
   {
     id: "liberia-voinjama-forest-patch-life-v2",
@@ -806,6 +831,7 @@ export const liberiaLifeV2: POI[] = [
       ro: ["Suprafață: 45 km²", "Altitudine: 500–800 m", "Specii de păsări: 95", "Populația de papagali cenușii: 200", "Anul înființării ariei protejate: 1985", "Soluri: lateritice"],
       en: ["Area: 45 km²", "Elevation: 500–800 m", "Western chimpanzee population: 150", "Annual rainfall: 2,500 mm", "Distance from Voinjama: 5 km", "Tree density: 450 per hectare"],
     },
+    image: "/poi-images/liberia-voinjama-forest-patch-life-v2.webp",
   },
   {
     id: "liberia-sinoe-river-basin-life-v2",
@@ -837,6 +863,7 @@ export const liberiaLifeV2: POI[] = [
       ro: ["Suprafața bazinului: 1.500 km²", "Lungimea râului: 220 km", "Debit mediu: 150 m³/s", "Specii de pești: 45", "Anul creării rezervației: 2003", "Concentrația de mercur: 0,5 µg/L"],
       en: ["Basin area: 1,500 km²", "River length: 220 km", "Pygmy hippo population: 50", "Annual rainfall: 4,000 mm", "Greenville population: 16,000", "Forest cover: 85%"],
     },
+    image: "/poi-images/liberia-sinoe-river-basin-life-v2.webp",
   },
   {
     id: "liberia-zuo-mountain-forest-life-v2",
@@ -868,6 +895,7 @@ export const liberiaLifeV2: POI[] = [
       ro: ["Altitudine maximă: 1.200 m", "Suprafață: 80 km²", "Specii de amfibieni: 18", "Specii de păsări: 200", "Anul primei expediții științifice: 1978", "Temperatura medie: 22°C"],
       en: ["Highest point: 1,200 m", "Area: 80 km²", "Chimpanzee population: 80", "Bird species: 210", "Forest elephant sightings per year: 15", "Distance from Voinjama: 20 km"],
     },
+    image: "/poi-images/liberia-zuo-mountain-forest-life-v2.webp",
   },
   {
     id: "liberia-kakata-forest-refuge-life-v2",
@@ -899,5 +927,6 @@ export const liberiaLifeV2: POI[] = [
       ro: ["Suprafață: 120 km²", "Populația de lamantini: 30", "Specii de arbori: 80", "Altitudine medie: 150 m", "Anul înființării: 1990", "Distanța până la Monrovia: 60 km"],
       en: ["Area: 120 km²", "Western gorilla population: 12", "Annual rainfall: 3,500 mm", "Distance from Kakata: 8 km", "Bird species: 150", "Rattan harvest quota: 500 tons/year"],
     },
+    image: "/poi-images/liberia-kakata-forest-refuge-life-v2.webp",
   }
 ];

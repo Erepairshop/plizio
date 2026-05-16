@@ -617,6 +617,7 @@ export const poiExtraDe1: POI[] = [
       ro: ["În Münster există circa 500.000 de biciclete la aproximativ 310.000 de locuitori.", "Orașul a fost întemeiat oficial în anul 793.", "Pacea Westfalică a fost semnată în 1648 după cinci ani de negocieri.", "Universitatea din Münster are peste 45.000 de studenți.", "Circa 91% din centrul vechi a fost distrus în al Doilea Război Mondial.", "Piața Prinzipalmarkt este formată din 48 de case cu fronton."],
       en: ["In Münster, there are about 500,000 bicycles for 310,000 residents.", "The city was officially founded in the year 793.", "The Peace of Westphalia was signed in 1648 after five years of negotiation.", "Münster University has over 45,000 enrolled students.", "Around 91 percent of the Old Town was destroyed in World War II.", "The Prinzipalmarkt consists of a total of 48 gabled houses."],
     },
+    image: "/poi-images/city-muenster-extra.webp",
   },
 
   {
@@ -1009,6 +1010,7 @@ export const poiExtraDe1: POI[] = [
       ro: ["Populație de cca. 5,1 milioane de locuitori", "Cuprinde 53 de orașe și municipalități", "Suprafață de aproximativ 4.435 km²", "Cea mai mare densitate de universități din Germania", "Vârful producției de cărbune a fost în 1956", "Capitală Europeană a Culturii în anul 2010"],
       en: ["Population of approx. 5.1 million people", "Comprises 53 cities and municipalities", "Total area of about 4,435 square kilometers", "Highest density of universities in Germany", "Peak coal production reached in 1956", "European Capital of Culture in 2010"],
     },
+    image: "/poi-images/industry-ruhrgebiet-extra.webp",
   },
 
   {
@@ -1179,6 +1181,7 @@ export const poiExtraDe1: POI[] = [
       ro: ["Cel mai înalt turn de biserică din lume (161,53 m)", "Locul de naștere al lui Albert Einstein (1879)", "Piatra de temelie a catedralei pusă în 1377", "Deține cel mai înclinat hotel din lume", "768 de trepte duc spre vârful turnului", "Sărbătoarea tradițională Schwörmontag din sec. XIV"],
       en: ["World's tallest church spire (161.53 m)", "Birthplace of Albert Einstein in 1879", "Foundation stone of the Minster laid in 1377", "Home to the world's most crooked hotel", "768 steps lead to the top of the tower", "Traditional 'Oath Monday' festival since the 14th century"],
     },
+    image: "/poi-images/city-ulm-extra.webp",
   },
 
   {

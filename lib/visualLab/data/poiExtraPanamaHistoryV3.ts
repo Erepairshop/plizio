@@ -249,6 +249,7 @@ export const poiExtraPanamaHistoryV3: POI[] = [
       ro: ["Sediul Ministerului Afacerilor Externe din Panama", "A găzduit Congresul de la Panama în 1826", "Clădirea a fost inițial o mănăstire franciscană", "Declarat Patrimoniu Mondial UNESCO în anul 2003", "Conține actele originale ale congresului din 1826", "Fațada a fost renovată la începutul secolului XX"],
       en: ["Headquarters of the Ministry of Foreign Affairs of Panama", "Hosted the historic Panama Congress in 1826", "The building was originally a Franciscan convent", "Declared a UNESCO World Heritage site in 2003", "Contains the original minutes of the 1826 congress", "The facade was renovated in the early 20th century"],
     },
+    image: "/poi-images/panama-palacio-bolivar-history-v2.webp",
   },
   {
     id: "panama-san-francisco-asis-history-v2",
@@ -559,6 +560,7 @@ export const poiExtraPanamaHistoryV3: POI[] = [
       ro: ["Situat în centrul istoric al orașului Penonomé", "Expune ceramică a culturii Gran Coclé", "Găzduiește artă religioasă din secolul XVIII", "Penonomé a fost odată capitala Panamei", "Clădirea păstrează arhitectura tradițională", "Prezintă descoperiri de la Sitio Conte din apropiere"],
       en: ["Located in the historic center of Penonomé", "Displays ceramics from the Gran Coclé culture", "Houses religious art from the 18th century", "Penonomé was once the capital of Panama", "The building preserves traditional architecture", "Features finds from nearby Sitio Conte"],
     },
+    image: "/poi-images/panama-museo-penonome-history-v2.webp",
   },
     {
     id: "panama-paseo-bovedas-history-v2",
@@ -838,6 +840,7 @@ export const poiExtraPanamaHistoryV3: POI[] = [
       ro: ["Fondată în jurul anului 1558", "Biserica Santo Domingo de Guzmán terminată în 1774", "Structură urbană tradițională în stil colonial spaniol", "Situat în provincia Herrera", "Desemnat ca Sit Istoric Național", "Una dintre cele mai vechi așezări din regiune"],
       en: ["Settlement founded around the year 1558", "Santo Domingo de Guzmán church completed in 1774", "Features a traditional Spanish colonial grid layout", "Located in the Herrera Province", "Designated as a National Historic Site", "One of the oldest continuously inhabited towns"],
     },
+    image: "/poi-images/panama-parita-centro-history-v2.webp",
   },
   {
     id: "panama-san-francisco-veraguas-village-history-v2",
@@ -900,6 +903,7 @@ export const poiExtraPanamaHistoryV3: POI[] = [
       ro: ["Fortul a fost construit în anul 1760", "Rol de apărare împotriva piraților în secolul XVIII", "Poziție strategică la confluența a două râuri mari", "Situat în localitatea Yaviza, provincia Darién", "Construcție realizată din zidărie de piatră masivă", "Rămășițe de tunuri vechi încă vizibile la fața locului"],
       en: ["The fort was constructed in the year 1760", "Defense against pirate attacks in the 18th century", "Strategic location at the meeting of two rivers", "Located in Yaviza, Darién Province", "Built using durable stone masonry construction", "Remnants of old cannons are still visible on site"],
     },
+    image: "/poi-images/panama-fuerte-yaviza-history-v2.webp",
   }
 ];
 

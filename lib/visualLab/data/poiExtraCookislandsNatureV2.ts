@@ -31,6 +31,7 @@ export const cookislandsNatureV2: POI[] = [
       ro: ["Suprafața: 67 km².", "Altitudine maximă: 652 m (Te Manga).", "Populație: 13.000 locuitori.", "Densitate: 194 locuitori/km².", "Temperatura medie: 25°C.", "Lungimea șoselei de coastă: 31 km."],
       en: ["Area: 67 km².", "Highest point: 652 m (Te Manga).", "Population: 13,000.", "Density: 194/km².", "Average temperature: 25°C.", "Coastal road length: 31 km."],
     },
+    image: "/poi-images/cookislands-rarotonga-island-nature-v2.webp",
   },
   {
     id: "cookislands-aitutaki-lagoon-nature-v2",
@@ -62,6 +63,7 @@ export const cookislandsNatureV2: POI[] = [
       ro: ["Suprafața: 70 km².", "Adâncimea medie: 1,5 m.", "Număr de motu: 15.", "Temperatura apei: 26–30°C.", "Specii de corali: peste 50.", "Turisti anual: 30.000."],
       en: ["Area: 70 km².", "Average depth: 1.5 m.", "Number of motu: 15.", "Water temperature: 26–30°C.", "Coral species: over 50.", "Annual tourists: 30,000."],
     },
+    image: "/poi-images/cookislands-aitutaki-lagoon-nature-v2.webp",
   },
   {
     id: "cookislands-te-manga-peak-nature-v2",
@@ -93,6 +95,7 @@ export const cookislandsNatureV2: POI[] = [
       ro: ["Înălțime: 652 m.", "Timp de ascensiune: 3–4 ore.", "Geologie: bazalt vulcanic.", "Ascensiuni anuale: 5.000.", "Temperatura medie pe vârf: 18°C.", "Ultima erupție: acum 1,2 milioane de ani."],
       en: ["Height: 652 m.", "Hike duration: 3–4 hours.", "Geology: volcanic basalt.", "Annual ascents: 5,000.", "Summit temperature avg: 18°C.", "Last eruption: 1.2 million years ago."],
     },
+    image: "/poi-images/cookislands-te-manga-peak-nature-v2.webp",
   },
   {
     id: "cookislands-atiu-island-nature-v2",
@@ -124,6 +127,7 @@ export const cookislandsNatureV2: POI[] = [
       ro: ["Suprafața: 26,9 km².", "Populație: 400 de locuitori.", "Altitudine maximă: 71 m.", "Număr de peșteri: 12.", "Temperatură: 26°C.", "Aeroport: 1."],
       en: ["Area: 26.9 km².", "Population: 400.", "Highest point: 71 m.", "Number of caves: 12.", "Temperature: 26°C.", "Airport: 1."],
     },
+    image: "/poi-images/cookislands-atiu-island-nature-v2.webp",
   },
   {
     id: "cookislands-mangaia-island-nature-v2",
@@ -155,6 +159,7 @@ export const cookislandsNatureV2: POI[] = [
       ro: ["Suprafața: 51,8 km².", "Vârstă: 18 milioane de ani.", "Populație: 500 de locuitori.", "Altitudine maximă: 169 m (Rangimotia).", "Număr de doline: peste 100.", "Lungimea coastei: 32 km."],
       en: ["Area: 51.8 km².", "Age: 18 million years.", "Population: 500.", "Highest point: 169 m (Rangimotia).", "Number of sinkholes: over 100.", "Coastline length: 32 km."],
     },
+    image: "/poi-images/cookislands-mangaia-island-nature-v2.webp",
   },
   {
     id: "cookislands-suwarrow-atoll-nature-v2",
@@ -186,6 +191,7 @@ export const cookislandsNatureV2: POI[] = [
       ro: ["Parcul național din 1978.", "Suprafața lagunei: 16 km².", "Număr de motu: 18.", "Drepnea neagră: 100.000 perechi.", "Populație crabi de cocos: 10.000.", "Altitudine maximă: 3 m."],
       en: ["National park since 1978.", "Lagoon area: 16 km².", "Number of motu: 18.", "Sooty tern pairs: 100,000.", "Coconut crab population: 10,000.", "Maximum elevation: 3 m."],
     },
+    image: "/poi-images/cookislands-suwarrow-atoll-nature-v2.webp",
   },
   {
     id: "cookislands-muri-lagoon-nature-v2",
@@ -217,6 +223,7 @@ export const cookislandsNatureV2: POI[] = [
       ro: ["Lungime: 2 km.", "Lățime: 500 m.", "Adâncime medie: 1 m.", "Număr de motu: 4.", "Temperatura apei: 27°C.", "Vizitatori anual: 100.000."],
       en: ["Length: 2 km.", "Width: 500 m.", "Average depth: 1 m.", "Number of motu: 4.", "Water temperature: 27°C.", "Annual visitors: 100,000."],
     },
+    image: "/poi-images/cookislands-muri-lagoon-nature-v2.webp",
   },
   {
     id: "cookislands-te-rua-manga-peak-nature-v2",
@@ -248,6 +255,7 @@ export const cookislandsNatureV2: POI[] = [
       ro: ["Înălțime: 380 m.", "Geologie: bazalt vulcanic.", "Timp de ascensiune: 2–3 ore.", "Traseu: 2,5 km.", "Diferență de nivel: 380 m.", "Ascensiuni anuale: 8.000."],
       en: ["Height: 380 m.", "Geology: volcanic basalt.", "Hike duration: 2–3 hours.", "Trail length: 2.5 km.", "Elevation gain: 380 m.", "Annual ascents: 8,000."],
     },
+    image: "/poi-images/cookislands-te-rua-manga-peak-nature-v2.webp",
   },
   {
     id: "cookislands-mitiaro-island-nature-v2",
@@ -279,6 +287,7 @@ export const cookislandsNatureV2: POI[] = [
       ro: ["Suprafața: 22,3 km².", "Populație: 200 de locuitori.", "Altitudine maximă: 6 m.", "Lacuri: 2 (Tixotopo, Rotoatu).", "Număr de peșteri cu apă dulce: 5.", "Pistă de aterizare: 1 (neamenajată)."],
       en: ["Area: 22.3 km².", "Population: 200.", "Highest point: 6 m.", "Lakes: 2 (Tixotopo, Rotoatu).", "Number of freshwater caves: 5.", "Airstrip: 1 (unpaved)."],
     },
+    image: "/poi-images/cookislands-mitiaro-island-nature-v2.webp",
   },
   {
     id: "cookislands-mauke-island-nature-v2",
@@ -310,6 +319,7 @@ export const cookislandsNatureV2: POI[] = [
       ro: ["Suprafață: 18 km²", "Altitudine maximă: 30 m", "Populație: circa 300", "Descoperire: 1823 de John Williams", "Sat principal: Kimiangatau", "Precipitații anuale: 2000 mm"],
       en: ["Area: 18 km²", "Highest point: 30 m", "Population: approx. 300", "Discovery: 1823 by John Williams", "Main village: Kimiangatau", "Annual rainfall: 2000 mm"],
     },
+    image: "/poi-images/cookislands-mauke-island-nature-v2.webp",
   },
   {
     id: "cookislands-takutea-island-nature-v2",
@@ -341,6 +351,7 @@ export const cookislandsNatureV2: POI[] = [
       ro: ["Suprafață: 1,2 km²", "Altitudine maximă: 15 m", "Distanță față de Atiu: 18 km", "Descoperire: 1777 de James Cook", "Statut protejat: rezervație naturală din 1996", "Pasăre predominantă: pasărea tropică cu coadă roșie"],
       en: ["Area: 1.2 km²", "Highest point: 15 m", "Distance from Atiu: 18 km", "Discovery: 1777 by James Cook", "Protected status: Nature reserve since 1996", "Key seabird: Red-tailed tropicbird"],
     },
+    image: "/poi-images/cookislands-takutea-island-nature-v2.webp",
   },
   {
     id: "cookislands-penrhyn-atoll-nature-v2",
@@ -372,6 +383,7 @@ export const cookislandsNatureV2: POI[] = [
       ro: ["Suprafață totală: 120 km²", "Suprafață uscat: 9 km²", "Lagună: 111 km²", "Populație: circa 200", "Sat principal: Omoka", "Descoperire: 1788 de William Sever"],
       en: ["Total area: 120 km²", "Land area: 9 km²", "Lagoon area: 111 km²", "Population: approx. 200", "Main village: Omoka", "Discovery: 1788 by William Sever"],
     },
+    image: "/poi-images/cookislands-penrhyn-atoll-nature-v2.webp",
   },
   {
     id: "cookislands-manihiki-atoll-nature-v2",
@@ -403,6 +415,7 @@ export const cookislandsNatureV2: POI[] = [
       ro: ["Suprafața lagunei: 19 km²", "Număr de motuuri: 12", "Populație: circa 400", "Economie: cultura perlelor (90% din venituri)", "Sat principal: Tauhunu", "Descoperire: 1822 de Patrickson"],
       en: ["Lagoon area: 19 km²", "Number of motus: 12", "Population: approx. 400", "Economy: pearl farming (90% of revenue)", "Main village: Tauhunu", "Discovery: 1822 by Patrickson"],
     },
+    image: "/poi-images/cookislands-manihiki-atoll-nature-v2.webp",
   },
   {
     id: "cookislands-manuae-atoll-nature-v2",
@@ -434,6 +447,7 @@ export const cookislandsNatureV2: POI[] = [
       ro: ["Suprafață: 6,2 km²", "Număr de insule: 2", "Altitudine maximă: 5 m", "Descoperire: 1777 de James Cook", "Specii de țestoase: țestoasa verde, țestoasa hawksbill", "Statut protejat: rezervație de păsări"],
       en: ["Area: 6.2 km²", "Number of islands: 2", "Highest point: 5 m", "Discovery: 1777 by James Cook", "Turtle species: Green turtle, Hawksbill turtle", "Protected status: Bird sanctuary"],
     },
+    image: "/poi-images/cookislands-manuae-atoll-nature-v2.webp",
   },
   {
     id: "cookislands-palmerston-atoll-nature-v2",
@@ -465,6 +479,7 @@ export const cookislandsNatureV2: POI[] = [
       ro: ["Număr de motuuri: 6", "Populație: circa 60", "Fondator: William Marsters (1863)", "Motu principal: Home", "Economie: pescuit, copra", "Altitudine maximă: 3 m"],
       en: ["Number of motus: 6", "Population: approx. 60", "Founder: William Marsters (1863)", "Main motu: Home", "Economy: fishing, copra", "Highest point: 3 m"],
     },
+    image: "/poi-images/cookislands-palmerston-atoll-nature-v2.webp",
   },
   {
     id: "cookislands-lake-tiriara-nature-v2",
@@ -496,6 +511,7 @@ export const cookislandsNatureV2: POI[] = [
       ro: ["Suprafață: 0,3 km²", "Adâncime: max. 15 m", "Altitudine: 30 m", "Insulă: Mangaia", "Specii de păsări: peste 20 de păsări acvatice", "Formare: lac carstic"],
       en: ["Area: 0.3 km²", "Depth: max. 15 m", "Elevation: 30 m", "Island: Mangaia", "Bird species: over 20 waterbird species", "Formation: karst lake"],
     },
+    image: "/poi-images/cookislands-lake-tiriara-nature-v2.webp",
   },
   {
     id: "cookislands-avana-valley-nature-v2",
@@ -527,6 +543,7 @@ export const cookislandsNatureV2: POI[] = [
       ro: ["Lungime: aprox. 4 km", "Fruct principal: mango", "Altitudine: 0-200 m", "Lungimea pârâului: 3,5 km", "Marae istorice: 3", "Densitatea populației: scăzută"],
       en: ["Length: approx. 4 km", "Primary fruit: mango", "Elevation: 0-200 m", "Stream length: 3.5 km", "Historical marae: 3", "Population density: low"],
     },
+    image: "/poi-images/cookislands-avana-valley-nature-v2.webp",
   },
   {
     id: "cookislands-pukapuka-atoll-nature-v2",
@@ -558,6 +575,7 @@ export const cookislandsNatureV2: POI[] = [
       ro: ["Suprafață uscat: 3 km²", "Număr motuuri: 3", "Populație: circa 450", "Descoperire: 1765 de John Byron", "Limbă: pukapukana", "Economie principală: pescuit"],
       en: ["Land area: 3 km²", "Number of motus: 3", "Population: approx. 450", "Discovery: 1765 by John Byron", "Language: Pukapukan", "Primary economy: fishing"],
     },
+    image: "/poi-images/cookislands-pukapuka-atoll-nature-v2.webp",
   },
   {
     id: "cookislands-rakahanga-atoll-nature-v2",
@@ -589,5 +607,6 @@ export const cookislandsNatureV2: POI[] = [
       ro: ["Suprafață uscat: 4 km²", "Număr insule principale: 2", "Populație: circa 80", "Sate: Matara, Puapua", "Descoperire: 1823 de James Williams", "Distanță față de Rarotonga: 1100 km"],
       en: ["Land area: 4 km²", "Number of main islands: 2", "Population: approx. 80", "Villages: Matara, Puapua", "Discovery: 1823 by James Williams", "Distance from Rarotonga: 1100 km"],
     },
+    image: "/poi-images/cookislands-rakahanga-atoll-nature-v2.webp",
   }
 ];

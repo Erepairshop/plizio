@@ -31,6 +31,7 @@ export const vanuatuNatureV2: POI[] = [
       ro: ["Altitudinea maximă este de 1879 metri deasupra nivelului mării.", "Muntele este situat în lanțul muntos vestic al insulei Espiritu Santo.", "Vârful este compus din două culmi gemene, cea sudică fiind mai înaltă.", "Ascensiunea durează între 2 și 3 zile pornind din satul Kerepua.", "Pădurile de ceață găzduiesc peste 50 de specii de orhidee endemice.", "Satul istoric Tabwemasana era situat pe pantele muntelui în trecut."],
       en: ["The peak stands at exactly 1,879 meters above sea level.", "It is located in the western mountain ranges of Espiritu Santo.", "The mountain features twin peaks, with the southern one being higher.", "The trek from Kerepua village typically takes 2 to 3 days.", "Over 50 endemic orchid species are found in the cloud forests.", "A village named Tabwemasana once existed on the mountain slopes."],
     },
+    image: "/poi-images/vanuatu-mount-tabwemasana-nature-v2.webp",
   },
   {
     id: "vanuatu-mount-yasur-nature-v2",
@@ -62,6 +63,7 @@ export const vanuatuNatureV2: POI[] = [
       ro: ["Vulcanul este activ în mod continuu de cel puțin 800 de ani.", "Altitudinea vârfului este de aproximativ 361 metri.", "James Cook a observat vulcanul pe 5 august 1774.", "Diametrul craterului este de aproximativ 400 de metri.", "Există trei guri de emisie active în interiorul craterului principal.", "Sistemul de alertă vulcanică utilizează 5 niveluri, de la 0 la 4."],
       en: ["The volcano has been continuously active for at least 800 years.", "The summit stands at an elevation of approximately 361 meters.", "Captain James Cook sighted the volcano on August 5, 1774.", "The crater diameter is approximately 400 meters wide.", "There are three distinct active vents within the main crater.", "The volcanic alert system uses 5 levels, ranging from 0 to 4."],
     },
+    image: "/poi-images/vanuatu-mount-yasur-nature-v2.webp",
   },
   {
     id: "vanuatu-lake-letas-nature-v2",
@@ -93,6 +95,7 @@ export const vanuatuNatureV2: POI[] = [
       ro: ["Lacul ocupă o suprafață de aproximativ 19 kilometri pătrați.", "Adâncimea maximă a apei este de 119 metri.", "Lacul se află la o altitudine de 418 metri deasupra mării.", "Este cel mai mare lac din insulele Pacificului, exceptând Noua Guinee.", "Temperatura apei este constantă, între 22 și 23 de grade Celsius.", "Sit-ul a fost nominalizat pentru patrimoniul UNESCO în anul 2004."],
       en: ["The lake covers an area of approximately 19 square kilometers.", "The maximum water depth is 119 meters.", "It is situated at an elevation of 418 meters above sea level.", "It is the largest lake in the Pacific islands outside of New Guinea.", "The water temperature remains constant at around 22 to 23 degrees Celsius.", "The lake was nominated for UNESCO World Heritage status in 2004."],
     },
+    image: "/poi-images/vanuatu-lake-letas-nature-v2.webp",
   },
   {
     id: "vanuatu-siri-falls-nature-v2",
@@ -124,6 +127,7 @@ export const vanuatuNatureV2: POI[] = [
       ro: ["Înălțimea căderii de apă este de aproximativ 120 de metri.", "Cascada este alimentată în totalitate de lacul Letas.", "Este situată în partea de est a insulei Gaua.", "Râul Mbe Solomul este cel care transportă apa către cascadă.", "Zona este inclusă în propunerea pentru patrimoniul mondial UNESCO.", "Accesul este posibil doar pe jos, după o drumeție de câteva ore."],
       en: ["The waterfall has a total height of approximately 120 meters.", "It is fed exclusively by the outflow from Lake Letas.", "The falls are located on the eastern side of Gaua island.", "The Mbe Solomul River carries the water from the lake to the falls.", "The area is part of a nominated UNESCO World Heritage site.", "The falls are only accessible via a multi-hour trek through the jungle."],
     },
+    image: "/poi-images/vanuatu-siri-falls-nature-v2.webp",
   },
   {
     id: "vanuatu-mele-cascades-nature-v2",
@@ -155,6 +159,7 @@ export const vanuatuNatureV2: POI[] = [
       ro: ["Înălțimea cascadei principale este de aproximativ 35 de metri.", "Structurile sunt formate din travertin natural.", "Locația se află la circa 10 kilometri nord-vest de Port Vila.", "Traseul de urcare până la vârf durează între 20 și 30 de minute.", "Apa menține o temperatură răcoroasă pe tot parcursul anului.", "Destinația este administrată prin implicarea comunității locale."],
       en: ["The main waterfall drops approximately 35 meters.", "The cascades are composed of natural travertine limestone.", "It is located about 10 kilometers northwest of Port Vila.", "The walking trail to the top takes about 20 to 30 minutes.", "The water remains refreshingly cool throughout the year.", "The site is managed in partnership with the local community."],
     },
+    image: "/poi-images/vanuatu-mele-cascades-nature-v2.webp",
   },
   {
     id: "vanuatu-champagne-beach-nature-v2",
@@ -186,6 +191,7 @@ export const vanuatuNatureV2: POI[] = [
       ro: ["Nisipul este compus aproape exclusiv din praf fin de coral.", "Gazele vulcanice provoacă efervescența apei la reflux.", "Plaja este situată pe coasta de nord-est a insulei Espiritu Santo.", "Este inclusă frecvent în topurile celor mai frumoase plaje din lume.", "Golful este protejat de valuri mari de un recif de corali.", "Comunitatea locală din Hog Harbour administrează accesul."],
       en: ["The sand is composed almost entirely of fine coral dust.", "Volcanic gases cause the water to bubble during low tide.", "The beach is located on the northeast coast of Espiritu Santo.", "It is frequently ranked among the top 10 beaches in the world.", "The bay is protected from heavy surf by a fringing coral reef.", "The beach is managed by the local community of Hog Harbour."],
     },
+    image: "/poi-images/vanuatu-champagne-beach-nature-v2.webp",
   },
   {
     id: "vanuatu-mount-marum-nature-v2",
@@ -217,6 +223,7 @@ export const vanuatuNatureV2: POI[] = [
       ro: ["Craterul Marum are o adâncime de câteva sute de metri.", "Găzduiește unul dintre puținele lacuri de lavă permanente din lume.", "Caldera Ambrym are un diametru de aproximativ 12 km.", "Ploile acide cauzate de gaze limitează vegetația pe vârf.", "Expedițiile necesită adesea coborârea în rapel în interiorul craterului.", "Vulcanul este situat aproape de centrul geografic al insulei Ambrym."],
       en: ["The Marum crater is several hundred meters deep.", "It hosts one of the world's few persistent lava lakes.", "The Ambrym caldera measures approximately 12 km in diameter.", "Acid rain from gas emissions prevents vegetation on the summit.", "Expeditions often involve rappelling into the crater to reach the vents.", "The volcano is located near the geographic center of Ambrym island."],
     },
+    image: "/poi-images/vanuatu-mount-marum-nature-v2.webp",
   },
   {
     id: "vanuatu-mount-benbow-nature-v2",
@@ -248,6 +255,7 @@ export const vanuatuNatureV2: POI[] = [
       ro: ["Muntele Benbow are o altitudine de aproximativ 1159 de metri.", "Este situat în aceeași calderă de 12 km lățime ca și Muntele Marum.", "Emisiile de gaze de pe Benbow pot provoca ploi acide pe întreaga insulă.", "Ascensiunea se face pe pante abrupte de cenușă, fără poteci marcate.", "Benbow a găzduit lacuri de lavă active de mai multe ori în ultimele decenii.", "Caldera s-a format în urmă cu aproximativ 2000 de ani într-o erupție masivă."],
       en: ["Mount Benbow stands at an elevation of approximately 1,159 meters.", "It shares the 12 km wide caldera floor with Mount Marum.", "Gas emissions from Benbow can cause acid rain across the island.", "The climb involves navigating steep ash slopes without established trails.", "Benbow has formed active lava lakes several times in recent decades.", "The caldera was created approximately 2,000 years ago during a massive eruption."],
     },
+    image: "/poi-images/vanuatu-mount-benbow-nature-v2.webp",
   },
   {
     id: "vanuatu-manaro-voui-nature-v2",
@@ -279,6 +287,7 @@ export const vanuatuNatureV2: POI[] = [
       ro: ["Vulcanul a forțat evacuarea a peste 11.000 de persoane în 2017.", "Vârful se află la aproximativ 1496 de metri deasupra mării.", "Caldera conține trei lacuri: Voui, Manaro Ngoru și Manaro Lakua.", "Lacul Voui conținea circa 50 de milioane de metri cubi de apă în 2017.", "Vulcanul este de tip scut, cu o bază extrem de extinsă.", "Norii de cenușă au atins înălțimi de peste 9 kilometri în 2018."],
       en: ["The volcano forced the evacuation of over 11,000 people in 2017.", "The summit rises to approximately 1,496 meters above sea level.", "There are three crater lakes in the caldera: Voui, Manaro Ngoru, and Manaro Lakua.", "Lake Voui held approximately 50 million cubic meters of water in 2017.", "The volcano is a broad shield volcano with a massive footprint.", "Ash plumes reached altitudes of over 9 kilometers during the 2018 eruption."],
     },
+    image: "/poi-images/vanuatu-manaro-voui-nature-v2.webp",
   },
   {
     id: "vanuatu-erakor-lagoon-nature-v2",
@@ -310,6 +319,7 @@ export const vanuatuNatureV2: POI[] = [
       ro: ["Arheologii au descoperit ceramică Lapita datând din anul 1000 î.Hr.", "Laguna adăpostește o insulă interioară numită Erakor Island.", "Pădurile de mangrove ocupă o parte semnificativă din maluri.", "Adâncimea medie a apei este de doar 2 până la 4 metri.", "Laguna este un habitat cheie pentru speciile dependente de iarba de mare.", "Există situri misionare istorice din secolul al XIX-lea în vecinătate."],
       en: ["Archaeologists discovered Lapita pottery dating to 1000 BCE here.", "The lagoon features an inner islet known as Erakor Island.", "Mangrove forests line a significant portion of the lagoon's perimeter.", "The average depth of the lagoon is only 2 to 4 meters.", "It is a vital habitat for species residing in seagrass meadows.", "Historical 19th-century mission sites are located nearby."],
     },
+    image: "/poi-images/vanuatu-erakor-lagoon-nature-v2.webp",
   },
   {
     id: "vanuatu-shark-bay-nature-v2",
@@ -341,6 +351,7 @@ export const vanuatuNatureV2: POI[] = [
       ro: ["Rechinii de recif cu vârful negru sunt observați frecvent aici.", "Golful este situat la nord de Turtle Bay pe insula Espiritu Santo.", "Formațiunile de corali oferă adăpost peștilor mici.", "Temperatura apei are o medie de 27 de grade Celsius.", "Accesul se face adesea folosind canoe tradiționale.", "Zona face parte dintr-un coridor marin mai extins."],
       en: ["Blacktip reef sharks are frequently spotted in groups here.", "The bay is located north of Turtle Bay on Espiritu Santo.", "Coral formations provide nursery protection for small fish.", "The water temperature averages around 27 degrees Celsius.", "Access is often gained via traditional outrigger canoes.", "The area is part of a larger ecological marine corridor."],
     },
+    image: "/poi-images/vanuatu-shark-bay-nature-v2.webp",
   },
   {
     id: "vanuatu-cooks-bay-nature-v2",
@@ -372,6 +383,7 @@ export const vanuatuNatureV2: POI[] = [
       ro: ["James Cook a debarcat aici pe 4 august 1774 în a doua sa călătorie.", "Erromango este cunoscută drept 'Insula Martirilor' din cauza istoriei sale.", "Golful oferă protecție împotriva vânturilor alizee de sud-est.", "În apropiere se află rezerve de lemn de santal, importante în secolul XIX.", "Adâncimea golfului permite ancorarea navelor de talie mică.", "Rocile vulcanice domină geologia zonei de coastă."],
       en: ["James Cook landed here on August 4, 1774, during his second voyage.", "Erromango is known as the 'Martyr's Island' due to its history.", "The bay provides shelter from the prevailing southeast trade winds.", "Nearby sandalwood stands were a major economic resource in the 19th century.", "The bay's depth is suitable for anchoring smaller sea vessels.", "Volcanic rock formations dominate the coastal geology."],
     },
+    image: "/poi-images/vanuatu-cooks-bay-nature-v2.webp",
   },
   {
     id: "vanuatu-mystery-island-nature-v2",
@@ -403,6 +415,7 @@ export const vanuatuNatureV2: POI[] = [
       ro: ["Insula este atât de mică încât poate fi parcursă la pas în 15 minute.", "Pista de aterizare a fost construită în timpul celui de-al Doilea Război Mondial.", "Nu există locuitori permanenți pe insulă.", "Apele din jurul insulei formează o rezervație marină protejată.", "Legile tradiționale 'Tabu' interzic pescuitul în zonele de recif.", "Insula este situată la extremitatea sudică a arhipelagului Vanuatu."],
       en: ["The island is small enough to walk around in about 15 minutes.", "The grass airstrip was originally cleared during World War II.", "There are no permanent residents living on the island.", "The surrounding waters are a designated marine protected area.", "Traditional 'Tabu' laws prohibit hunting in the surrounding reefs.", "The island is located at the southernmost tip of the Vanuatu archipelago."],
     },
+    image: "/poi-images/vanuatu-mystery-island-nature-v2.webp",
   },
   {
     id: "vanuatu-lopevi-volcano-nature-v2",
@@ -434,6 +447,7 @@ export const vanuatuNatureV2: POI[] = [
       ro: ["Vârful vulcanului are o altitudine de 1413 metri.", "Ultima evacuare majoră a avut loc în anul 1960.", "Este un stratovulcan clasic cu o formă simetrică.", "Lopevi este situat în provincia Malampa din Vanuatu.", "Erupțiile pot trimite fluxuri piroclastice direct în ocean.", "Insula are un diametru de aproximativ 7 kilometri."],
       en: ["The volcano rises to an altitude of 1,413 meters.", "The last major evacuation of the island occurred in 1960.", "It is a classic stratovolcano with a symmetrical cone.", "Lopevi is located within the Malampa Province of Vanuatu.", "Eruptions can send pyroclastic flows directly into the sea.", "The island has a diameter of approximately 7 kilometers."],
     },
+    image: "/poi-images/vanuatu-lopevi-volcano-nature-v2.webp",
   },
   {
     id: "vanuatu-port-orly-nature-v2",
@@ -465,6 +479,7 @@ export const vanuatuNatureV2: POI[] = [
       ro: ["Port Orly este cel mai mare sat din provincia Sanma, cu 3000 de locuitori.", "Misiunea catolică a fost fondată oficial acolo în anul 1887.", "Localitatea se află la aproximativ 40 de kilometri nord de orașul Luganville.", "Agricultura se concentrează pe peste 500 de hectare de plantații de cocos.", "Majoritatea populației vorbește franceza ca primă limbă străină.", "În largul coastei se află insulele nelocuite Lath-hi și Elephant Island."],
       en: ["Port Orly is the largest village in Sanma Province with 3,000 residents.", "The Catholic mission was officially established there in 1887.", "The settlement is located roughly 40 kilometers north of Luganville.", "Agriculture focuses on over 500 hectares of coconut plantations.", "The majority of the population speaks French as their primary foreign language.", "The uninhabited Lath-hi and Elephant Islands are located offshore."],
     },
+    image: "/poi-images/vanuatu-port-orly-nature-v2.webp",
   },
   {
     id: "vanuatu-mount-garet-nature-v2",
@@ -496,6 +511,7 @@ export const vanuatuNatureV2: POI[] = [
       ro: ["Muntele Garet atinge o înălțime maximă de 797 de metri.", "Vulcanul se află în interiorul unei caldere de 6 pe 9 kilometri.", "Lacul Letas, care înconjoară vulcanul, are o adâncime de până la 119 metri.", "Între 2009 și 2010, sute de locuitori au fost evacuați din cauza cenușii.", "Vulcanul este compus în principal din roci bazaltice și andezitice.", "Cascada Siri drenează apa lacului către ocean."],
       en: ["Mount Garet reaches a maximum elevation of 797 meters.", "The volcano sits within a caldera measuring 6 by 9 kilometers.", "Lake Letas, surrounding the volcano, has a depth of up to 119 meters.", "Between 2009 and 2010, hundreds of residents were evacuated due to ash.", "The volcano is primarily composed of basaltic and andesitic rock.", "The Siri Waterfall drains the lake's water towards the sea."],
     },
+    image: "/poi-images/vanuatu-mount-garet-nature-v2.webp",
   },
   {
     id: "vanuatu-hideaway-island-nature-v2",
@@ -527,6 +543,7 @@ export const vanuatuNatureV2: POI[] = [
       ro: ["Oficiul poștal subacvatic se află la o adâncime de 3 metri.", "Insula este situată la doar 100 de metri de coasta principală a insulei Efate.", "Rezervația marină a fost înființată încă din anii 1990.", "Vizitatorii pot ajunge pe insulă pe jos, pe un banc de nisip, în timpul refluxului.", "Peste 400 de specii diferite de pești au fost catalogate în recife.", "Deschiderea oficială a oficiului poștal subacvatic a avut loc în mai 2003."],
       en: ["The underwater post office is located at a depth of 3 meters.", "The island is situated only 100 meters from the main Efate coastline.", "The marine sanctuary was established as early as the 1990s.", "Visitors can reach the island on foot via a sandbar during low tide.", "Over 400 distinct species of fish have been cataloged in the reefs.", "The official opening of the underwater post office took place in May 2003."],
     },
+    image: "/poi-images/vanuatu-hideaway-island-nature-v2.webp",
   },
   {
     id: "vanuatu-pele-island-nature-v2",
@@ -558,6 +575,7 @@ export const vanuatuNatureV2: POI[] = [
       ro: ["Insula Pele are o suprafață totală de aproximativ 1,7 kilometri pătrați.", "Rezervația marină Nguna-Pele a fost fondată oficial în anul 2003.", "Cel mai înalt punct al insulei se află la aproximativ 200 de metri altitudine.", "Pe insulă există patru sate principale, inclusiv Taloa și Wiana.", "Insula face parte din provincia Shefa a statului Vanuatu.", "Nu există râuri permanente pe insula Pele."],
       en: ["Pele Island has a total surface area of approximately 1.7 square kilometers.", "The Nguna-Pele marine sanctuary was officially established in 2003.", "The highest point on the island is roughly 200 meters above sea level.", "There are four main villages on the island, including Taloa and Wiana.", "The island is part of the Shefa Province of Vanuatu.", "There are no permanent rivers on Pele Island."],
     },
+    image: "/poi-images/vanuatu-pele-island-nature-v2.webp",
   },
   {
     id: "vanuatu-nguna-island-nature-v2",
@@ -589,6 +607,7 @@ export const vanuatuNatureV2: POI[] = [
       ro: ["Muntele Taputoara este cel mai înalt punct de pe Nguna, având 593 de metri.", "Insula este locuită de aproximativ 13 sate tradiționale.", "Rezervația marină acoperă o suprafață de peste 3000 de hectare.", "Nguna se află la aproximativ 6 kilometri nord de insula Efate.", "Primii misionari presbiterieni au sosit pe insulă în jurul anului 1870.", "Insula are o lungime de aproximativ 8 kilometri de la nord la sud."],
       en: ["Mount Taputoara is the highest elevation on Nguna at 593 meters.", "The island is inhabited by approximately 13 traditional villages.", "The marine protected area covers a surface of over 3,000 hectares.", "Nguna is situated about 6 kilometers north of Efate island.", "The first Presbyterian missionaries arrived on the island around 1870.", "The island has a north-south extent of approximately 8 kilometers."],
     },
+    image: "/poi-images/vanuatu-nguna-island-nature-v2.webp",
   },
   {
     id: "vanuatu-moso-island-nature-v2",
@@ -620,6 +639,7 @@ export const vanuatuNatureV2: POI[] = [
       ro: ["Insula Moso are o lungime de circa 11 kilometri și o lățime de până la 2 kilometri.", "Havannah Harbour a servit ca bază pentru Marina SUA în al Doilea Război Mondial.", "În Tasiriki, sute de țestoase Hawksbill sunt marcate și eliberate anual.", "Insula este separată de Efate doar printr-un canal îngust.", "Nu există mașini sau drumuri asfaltate pe insula Moso.", "Majoritatea locuitorilor trăiesc în cele două sate principale, Tasiriki și Moso."],
       en: ["Moso Island is approximately 11 kilometers long and up to 2 kilometers wide.", "Havannah Harbour served as a major base for the US Navy in WWII.", "Hundreds of Hawksbill turtles are tagged and released in Tasiriki annually.", "The island is separated from Efate by only a narrow channel.", "There are no cars or paved roads on Moso Island.", "Most residents live in the two main villages of Tasiriki and Moso."],
     },
+    image: "/poi-images/vanuatu-moso-island-nature-v2.webp",
   },
   {
     id: "vanuatu-lelepa-island-nature-v2",
@@ -651,6 +671,7 @@ export const vanuatuNatureV2: POI[] = [
       ro: ["Insula Lelepa a fost recunoscută ca sit UNESCO în anul 2008.", "Peștera Fels are o înălțime de circa 22 de metri și o adâncime de 50 de metri.", "Șeful Roi Mata ar fi trăit în jurul anului 1600 d.Hr., conform tradiției.", "Insula a devenit cunoscută în 2005 ca locație de filmare pentru 'Survivor'.", "Există peste 50 de situri arheologice identificate pe insulă.", "Populația trăiește aproape exclusiv în satul Lelepa de pe coasta de vest."],
       en: ["Lelepa Island was recognized as part of a UNESCO World Heritage site in 2008.", "Fels Cave stands approximately 22 meters high and 50 meters deep.", "Chief Roi Mata is said to have lived around 1600 AD according to oral tradition.", "The island gained fame in 2005 as a filming location for the TV show 'Survivor'.", "There are over 50 identified archaeological sites across the island.", "The population lives almost exclusively in Lelepa village on the west coast."],
     },
+    image: "/poi-images/vanuatu-lelepa-island-nature-v2.webp",
   },
   {
     id: "vanuatu-rentapao-river-nature-v2",
@@ -682,6 +703,7 @@ export const vanuatuNatureV2: POI[] = [
       ro: ["Râul Rentapao se varsă în Golful Teouma, în sud-estul insulei Efate.", "Pe malurile sale se află unele dintre cele mai vechi plantații de pe insulă.", "Râul este cunoscut pentru terasele sale caracteristice de calcar.", "În apropierea râului a fost planificată o mică hidrocentrală în anii 1970.", "Podul peste Rentapao este un punct important al drumului circular din Efate.", "Râul are debit constant pe tot parcursul anului, inclusiv în sezonul uscat."],
       en: ["The Rentapao River empties into Teouma Bay in southeastern Efate.", "Some of the island's oldest plantations are located along its banks.", "The river is famous for its distinct limestone terraced formations.", "A small hydroelectric plant was proposed near the river in the 1970s.", "The bridge over the Rentapao is a key point on the Efate ring road.", "The river maintains a consistent flow throughout the year, even in dry seasons."],
     },
+    image: "/poi-images/vanuatu-rentapao-river-nature-v2.webp",
   },
   {
     id: "vanuatu-teouma-river-nature-v2",
@@ -713,6 +735,7 @@ export const vanuatuNatureV2: POI[] = [
       ro: ["Situl Lapita de la Teouma a fost descoperit accidental în anul 2003.", "Cercetătorii au găsit peste 60 de morminte cu ceramică Lapita caracteristică.", "Cimitirul este datat între anii 1200 și 1000 î.Hr.", "Câmpia Teouma este principala zonă legumicolă pentru capitala Port Vila.", "Râul își are izvoarele în munții centrali ai insulei Efate.", "Analizele ADN ale scheletelor de la Teouma au schimbat înțelegerea migrației în Pacific."],
       en: ["The Lapita site at Teouma was discovered by accident in 2003.", "Researchers unearthed over 60 burials featuring distinctive Lapita pottery.", "The cemetery is dated to approximately 1200–1000 BC.", "The Teouma plain is the primary vegetable-growing region for Port Vila.", "The river originates in the central mountainous interior of Efate.", "DNA analysis of Teouma skeletons revolutionized the understanding of Pacific migration."],
     },
+    image: "/poi-images/vanuatu-teouma-river-nature-v2.webp",
   },
   {
     id: "vanuatu-big-bay-nature-v2",
@@ -744,6 +767,7 @@ export const vanuatuNatureV2: POI[] = [
       ro: ["Big Bay se întinde pe o lățime de aproximativ 12 kilometri.", "Pedro Fernandes de Queirós a numit țara 'La Austrialia del Espiritu Santo'.", "Râul Jordan este cel mai lung râu de pe insula Espiritu Santo.", "Rezervația Vatthe protejează cea mai mare pădure tropicală de joasă altitudine.", "Peste 85% din păsările endemice din Vanuatu se găsesc în această regiune.", "Așezarea spaniolă a durat doar câteva săptămâni în anul 1606."],
       en: ["Big Bay extends across a width of approximately 12 kilometers.", "Queirós named the land 'La Austrialia del Espiritu Santo' in 1606.", "The Jordan River is the longest river on the island of Espiritu Santo.", "The Vatthe Conservation Area protects the country's largest lowland rainforest.", "Over 85% of Vanuatu's endemic bird species can be found in this region.", "The Spanish settlement lasted only a few weeks during the year 1606."],
     },
+    image: "/poi-images/vanuatu-big-bay-nature-v2.webp",
   },
   {
     id: "vanuatu-south-west-bay-nature-v2",
@@ -775,5 +799,6 @@ export const vanuatuNatureV2: POI[] = [
       ro: ["În South West Bay se vorbesc peste 10 limbi locale diferite.", "Regiunea dispune de propriul aerodrom mic (cod SWB).", "Pădurile de mangrove acoperă o suprafață de câteva sute de hectare.", "Festivalul anual 'Nalawan' este un punct culminant cultural al regiunii.", "Malakula este a doua insulă ca mărime din Vanuatu.", "Laguna oferă protecție împotriva cicloanelor puternice din Pacific."],
       en: ["Over 10 distinct local languages are spoken within the South West Bay area.", "The region is served by its own small domestic airstrip (SWB).", "The mangrove forests cover an area of several hundred hectares.", "The annual 'Nalawan Festival' is a major cultural highlight of the region.", "Malakula is the second largest island in the Vanuatu archipelago.", "The lagoon provides critical shelter from powerful Pacific cyclones."],
     },
+    image: "/poi-images/vanuatu-south-west-bay-nature-v2.webp",
   }
 ];

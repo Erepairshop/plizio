@@ -32,6 +32,7 @@ export const bulgariaReliefV2: POI[] = [
       ro: ["Lungimea crestei centrale a Balcanilor este de aproximativ 100 de kilometri.", "Înălțimea maximă a crestei este de 2.376 de metri pe Vârful Botev.", "Creasta este compusă în proporție de 60% din granit.", "Precipitațiile medii anuale sunt de 800 mm.", "Pasul Shipka se află la o altitudine de 1.190 de metri.", "În zonă există peste 50 de lacuri montane."],
       en: ["The length of the Central Balkan Ridge is about 100 kilometers.", "The maximum height of the ridge is 2,376 meters at Botev Peak.", "The ridge is composed of 60% granite.", "Average annual precipitation is 800 mm.", "Shipka Pass lies at 1,190 meters altitude.", "There are over 50 mountain lakes in the area."],
     },
+    image: "/poi-images/bulgaria-central-stara-planina-ridge-relief-v2.webp",
   },
   {
     id: "bulgaria-tracian-lowland-relief-v2",
@@ -64,6 +65,7 @@ export const bulgariaReliefV2: POI[] = [
       ro: ["Câmpia Traciei se întinde pe o suprafață de aproximativ 6.000 de kilometri pătrați.", "Altitudinea medie este de 168 de metri deasupra nivelului mării.", "Cel mai înalt punct al câmpiei este de 300 de metri.", "Precipitațiile medii anuale sunt de 550 mm.", "40% din producția de grâu a Bulgariei provine din această câmpie.", "Densitatea populației este de aproximativ 80 de locuitori pe kilometru pătrat."],
       en: ["The Thracian Lowland covers about 6,000 square kilometers.", "Average elevation is 168 meters above sea level.", "The highest point of the plain is 300 meters.", "Annual rainfall is 550 mm.", "40% of Bulgaria's wheat production is grown in the plain.", "Population density is about 80 inhabitants per square kilometer."],
     },
+    image: "/poi-images/bulgaria-tracian-lowland-relief-v2.webp",
   },
   {
     id: "bulgaria-pirin-mountains-ridge-relief-v2",
@@ -96,6 +98,7 @@ export const bulgariaReliefV2: POI[] = [
       ro: ["Creasta Munților Pirin are o lungime de 80 de kilometri.", "Cel mai înalt vârf, Vihren, are 2.914 metri.", "Există peste 100 de lacuri glaciare în munți.", "Parcul Național Pirin a fost înființat în 1962 și are o suprafață de 403 kilometri pătrați.", "Temperatura medie anuală la 2.000 de metri este de 2 °C.", "În parc au fost înregistrate peste 1.300 de specii de plante."],
       en: ["The Pirin Mountain Ridge is 80 kilometers long.", "The highest peak, Vihren, measures 2,914 meters.", "There are over 100 glacial lakes in the mountains.", "Pirin National Park was established in 1962 and covers 403 square kilometers.", "Average annual temperature at 2,000 meters is 2 °C.", "Over 1,300 plant species have been recorded in the park."],
     },
+    image: "/poi-images/bulgaria-pirin-mountains-ridge-relief-v2.webp",
   },
   {
     id: "bulgaria-danubian-plain-relief-v2",
@@ -128,6 +131,7 @@ export const bulgariaReliefV2: POI[] = [
       ro: ["Câmpia Dunării se întinde pe o lungime de 500 de kilometri.", "Lățimea este cuprinsă între 30 și 100 de kilometri.", "Altitudinea maximă a câmpiei este de 200 de metri.", "Precipitațiile medii anuale sunt de 500-600 mm.", "În regiune se produce 50% din uleiul de floarea-soarelui al Bulgariei.", "Dunărea delimitează câmpia la nord pe o lungime de 470 de kilometri."],
       en: ["The Danubian Plain extends over a length of 500 kilometers.", "Width ranges between 30 and 100 kilometers.", "The maximum height of the plain is 200 meters.", "Annual precipitation is 500-600 mm.", "50% of Bulgaria's sunflower oil is produced in the region.", "The Danube borders the plain to the north for 470 kilometers."],
     },
+    image: "/poi-images/bulgaria-danubian-plain-relief-v2.webp",
   },
   {
     id: "bulgaria-rhodope-mountains-massif-relief-v2",
@@ -160,6 +164,7 @@ export const bulgariaReliefV2: POI[] = [
       ro: ["Aproximativ 83% din suprafața totală a Masivului Rodopi se află în Bulgaria.", "Vârful Golyam Perelik este cel mai înalt punct, având 2191 de metri.", "Cheile Trigrad au pereți verticali care ating înălțimi de până la 350 de metri.", "Peste 2.000 de tumuli traci au fost documentați pe teritoriul munților.", "Peștera Gâtul Diavolului găzduiește una dintre cele mai mari cascade subterane din Europa.", "Regiunea furnizează circa 70% din capacitatea hidroelectrică a Bulgariei."],
       en: ["Approximately 83% of the total Rhodope area is located within Bulgaria.", "Golyam Perelik is the highest peak of the range at 2191 meters.", "The Trigrad Gorge features vertical limestone cliffs up to 350 meters high.", "Over 2,000 Thracian burial mounds have been documented in the Rhodopes.", "The Devil's Throat Cave contains one of the highest underground waterfalls in Europe.", "The region accounts for nearly 70% of Bulgaria's total hydropower capacity."],
     },
+    image: "/poi-images/bulgaria-rhodope-mountains-massif-relief-v2.webp",
   },
   {
     id: "bulgaria-belogradchik-rocks-relief-v2",
@@ -192,6 +197,7 @@ export const bulgariaReliefV2: POI[] = [
       ro: ["Formațiunile stâncoase au o lățime cuprinsă între 3 și 5 kilometri.", "Sedimentele datează de acum aproximativ 230 de milioane de ani.", "Anumite coloane de stâncă ating o înălțime verticală de peste 200 de metri.", "Cetatea Belogradcik ocupă o suprafață totală de 10.210 metri pătrați.", "Zona a fost declarată oficial monument al naturii în anul 1949.", "Stâncile au servit drept refugiu în timpul răscoalelor locale din secolul al XIX-lea."],
       en: ["The rock formations span a width of 3 to 5 kilometers.", "The sedimentary deposits date back approximately 230 million years.", "Individual rock pinnacles reach vertical heights exceeding 200 meters.", "The Belogradchik Fortress covers a total area of 10,210 square meters.", "The site was officially designated as a natural landmark in 1949.", "The rocks served as a primary refuge during local uprisings in the 19th century."],
     },
+    image: "/poi-images/bulgaria-belogradchik-rocks-relief-v2.webp",
   },
   {
     id: "bulgaria-vitosa-mountain-relief-v2",
@@ -224,6 +230,7 @@ export const bulgariaReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf, Cerni Vrah, are o altitudine de 2290 de metri.", "Parcul Natural Vitoșa a fost fondat la data de 27 octombrie 1934.", "Masivul muntos acoperă o suprafață de aproximativ 310 kilometri pătrați.", "Râurile de piatră de la Zlatnite Mostove sunt cele mai cunoscute morene.", "Există zece vârfuri în cadrul masivului care depășesc înălțimea de 2000 de metri.", "Vitoșa este sursa mai multor râuri, inclusiv râul Vladayska, afluent al Iskarului."],
       en: ["The highest peak, Cherni Vrah, stands at an elevation of 2290 meters.", "Vitosha Nature Park was officially established on October 27, 1934.", "The mountain range covers an area of approximately 310 square kilometers.", "The stone rivers at Zlatnite Mostove are the mountain's most famous moraines.", "There are ten individual peaks within the range that exceed 2000 meters in height.", "Vitosha is the source of several rivers, including the Vladayska, an Iskar tributary."],
     },
+    image: "/poi-images/bulgaria-vitosa-mountain-relief-v2.webp",
   },
   {
     id: "bulgaria-strumski-canyon-relief-v2",
@@ -256,6 +263,7 @@ export const bulgariaReliefV2: POI[] = [
       ro: ["Lungimea cheilor: aproximativ 20 km.", "Înălțimea maximă a pereților: 300 m.", "Lățimea minimă: 50 m.", "Altitudinea drumului E79: 250 m.", "Numărul de tuneluri feroviare: 15.", "Precipitații anuale: 600 mm."],
       en: ["Length of Kresna Gorge: about 20 km.", "Maximum cliff height: over 300 m.", "Narrowest width: approximately 50 m.", "Elevation of road E79: 250 m above sea level.", "Number of railway tunnels: 15.", "Annual precipitation in the area: 600 mm."],
     },
+    image: "/poi-images/bulgaria-strumski-canyon-relief-v2.webp",
   },
   {
     id: "bulgaria-sakar-mountains-relief-v2",
@@ -288,6 +296,7 @@ export const bulgariaReliefV2: POI[] = [
       ro: ["Vârful Vișegrad este cel mai înalt punct din Sakar, având 856 de metri.", "Peste 100 de dolmene megalitice au fost identificate în această regiune.", "Sakar găzduiește una dintre cele mai mari populații de acvilă de câmp din Bulgaria.", "Munții sunt mărginiți la est de cursul râului Tundja.", "În regiune au fost documentate 75 de specii diferite de păsări de pradă.", "Viticultura în Sakar are o tradiție care datează de peste 2000 de ani."],
       en: ["Vishegrad is the highest point of the Sakar Mountains at 856 meters.", "Over 100 megalithic dolmens have been identified throughout the region.", "Sakar holds one of the largest populations of Eastern Imperial Eagles in Bulgaria.", "The mountain range is bounded to the east by the Tundzha River.", "A total of 75 different species of birds of prey have been documented in the area.", "Wine production in Sakar has a continuous tradition spanning over 2,000 years."],
     },
+    image: "/poi-images/bulgaria-sakar-mountains-relief-v2.webp",
   },
   {
     id: "bulgaria-strandzha-plateau-relief-v2",
@@ -320,6 +329,7 @@ export const bulgariaReliefV2: POI[] = [
       ro: ["Suprafața podișului: circa 1.000 km².", "Altitudine maximă: 700 m.", "Număr de specii endemice de plante: peste 80.", "Precipitații anuale: 700–900 mm.", "Lungimea râului Resovska: 30 km.", "Populație: aproximativ 10.000 locuitori."],
       en: ["Area of the plateau: about 1,000 km².", "Highest elevation: 700 m.", "Number of endemic plant species: over 80.", "Annual precipitation: 700–900 mm.", "Length of Resovska River: 30 km.", "Population of the region: around 10,000."],
     },
+    image: "/poi-images/bulgaria-strandzha-plateau-relief-v2.webp",
   },
   {
     id: "bulgaria-osogovo-ridge-relief-v2",
@@ -352,6 +362,7 @@ export const bulgariaReliefV2: POI[] = [
       ro: ["Vârful Ruen este cea mai înaltă cotă din Osogovo, având 2251 de metri.", "Munții se întind pe o lungime de aproximativ 25 de kilometri în Bulgaria.", "Kyustendil, situat la poalele masivului, este una dintre cele mai vechi stațiuni balneare.", "Exploatarea argintului și plumbului a fost documentată încă din perioada romană.", "Osogovo este sursa pentru trei bazine hidrografice principale din regiune.", "Masivul face parte din Centura Verde Europeană, o rețea de conservare a naturii."],
       en: ["Ruen peak is the highest elevation in the Osogovo range at 2251 meters.", "The mountain range extends for about 25 kilometers within Bulgarian territory.", "Kyustendil at the mountain's foot is one of the region's oldest spa resorts.", "Silver and lead mining in the area has been documented since Roman times.", "Osogovo serves as the source for three major river basins in the region.", "The range is a constituent of the European Green Belt conservation network."],
     },
+    image: "/poi-images/bulgaria-osogovo-ridge-relief-v2.webp",
   },
   {
     id: "bulgaria-balkan-north-slopes-relief-v2",
@@ -384,6 +395,7 @@ export const bulgariaReliefV2: POI[] = [
       ro: ["Prebalcanii se întind pe o lungime de aproximativ 400 de kilometri.", "Altitudinea medie a dealurilor variază între 100 și 500 de metri.", "Din punct de vedere geologic, versanții sunt compuși în principal din calcar și gresie.", "Defileul Iskar este cea mai importantă vale fluvială din această zonă.", "Regiunea găzduiește Monumentul Șipka, situat în pasul montan omonim.", "În văi se practică intensiv pomicultura, în special cultivarea merelor și prunelor."],
       en: ["The Fore-Balkan stretches for a total length of approximately 400 kilometers.", "The average elevation of the hills ranges between 100 and 500 meters.", "Geologically, the slopes consist mainly of limestone and sandstone deposits.", "The Iskar Gorge is the most significant river valley cutting through this area.", "The region is home to the Shipka Monument, located on the strategic Shipka Pass.", "Agriculture in the valleys is focused on fruit production, notably apples and plums."],
     },
+    image: "/poi-images/bulgaria-balkan-north-slopes-relief-v2.webp",
   },
   {
     id: "bulgaria-vracha-karst-plateau-relief-v2",
@@ -416,6 +428,7 @@ export const bulgariaReliefV2: POI[] = [
       ro: ["Pereții de stâncă ai Defileului Vratsata ating o înălțime de 400 de metri.", "Peste 500 de peșteri au fost documentate științific pe acest podiș.", "Peștera Ledenika are o lungime totală de 320 de metri.", "Parcul Natural Vrachanski Balkan a fost înființat în anul 1989.", "Altitudinea podișului variază între 200 și 1482 de metri peste nivelul mării.", "În această zonă cresc peste 950 de specii diferite de plante vasculare."],
       en: ["The cliffs of the Vratsata Gorge reach a vertical height of 400 meters.", "Scientists have documented over 500 individual caves on the plateau.", "The Ledenika Cave features a total traversable length of 320 meters.", "Vrachanski Balkan Nature Park was officially established in 1989.", "Plateau elevations range from 200 meters to 1482 meters above sea level.", "The area is home to more than 950 distinct species of vascular plants."],
     },
+    image: "/poi-images/bulgaria-vracha-karst-plateau-relief-v2.webp",
   },
   {
     id: "bulgaria-maritsa-valley-relief-v2",
@@ -448,6 +461,7 @@ export const bulgariaReliefV2: POI[] = [
       ro: ["Câmpia ocupă o suprafață de aproximativ 6.000 de kilometri pătrați.", "Râul Marița are o lungime totală de 480 de kilometri.", "Altitudinea medie a câmpiei este cuprinsă între 100 și 200 de metri.", "Plovdiv, cel mai mare oraș din regiune, a fost fondat acum peste 6.000 de ani.", "Valea produce aproximativ 90% din recolta de orez a Bulgariei.", "Regiunea înregistrează temperaturi de peste 40 de grade Celsius în timpul verii."],
       en: ["The plain covers an area of approximately 6,000 square kilometers.", "The Maritsa River has a total length of 480 kilometers.", "The average elevation of the plain is between 100 and 200 meters.", "Plovdiv, the region's largest city, was founded over 6,000 years ago.", "The valley produces about 90% of the Bulgarian rice crop.", "The region records temperatures exceeding 40 degrees Celsius in summer."],
     },
+    image: "/poi-images/bulgaria-maritsa-valley-relief-v2.webp",
   },
   {
     id: "bulgaria-rhodope-meander-relief-v2",
@@ -480,6 +494,7 @@ export const bulgariaReliefV2: POI[] = [
       ro: ["Râul Arda are o lungime totală de 290 de kilometri.", "Barajul Kardzhali are unul dintre cele mai înalte baraje în arc din Balcani.", "Formațiunile stâncoase s-au format acum aproximativ 30-35 de milioane de ani.", "În regiune cuibăresc peste 70 de perechi de vulturi pleșuvi suri rari.", "Cel mai cunoscut meandru se află lângă satul Star Chital.", "Adâncimea medie a cheilor atinge în unele locuri 150 de metri."],
       en: ["The Arda River has a total length of 290 kilometers.", "The Kardzhali Dam features one of the highest arch dams in the Balkans.", "The rock formations were created approximately 30 to 35 million years ago.", "Over 70 pairs of rare griffon vultures nest in the region.", "The most famous meander is located near the village of Star Chital.", "The average depth of the gorges reaches 150 meters in some places."],
     },
+    image: "/poi-images/bulgaria-rhodope-meander-relief-v2.webp",
   },
   {
     id: "bulgaria-central-balkan-plateau-relief-v2",
@@ -512,6 +527,7 @@ export const bulgariaReliefV2: POI[] = [
       ro: ["Vârful Botev s-a numit Vârful Ferdinand până în 1950.", "Parcul Național Balcanii Centrali a fost fondat în anul 1991.", "Cascada Raysko Praskalo cade de la o înălțime de 124,5 metri.", "Regiunea găzduiește aproximativ o treime din întreaga floră bulgară.", "Platoul cuprinde nouă rezervații naturale de stat.", "Temperatura medie pe vârf este de -8,9 grade Celsius în luna ianuarie."],
       en: ["Botev Peak was named Ferdinand Peak until 1950.", "The Central Balkan National Park was established in 1991.", "The Raysko Praskalo waterfall drops from a height of 124.5 meters.", "The region hosts approximately one-third of the total Bulgarian flora.", "The plateau encompasses nine state nature reserves.", "The average temperature at the summit in January is -8.9 degrees Celsius."],
     },
+    image: "/poi-images/bulgaria-central-balkan-plateau-relief-v2.webp",
   },
   {
     id: "bulgaria-yantra-valley-relief-v2",
@@ -544,6 +560,7 @@ export const bulgariaReliefV2: POI[] = [
       ro: ["Râul Iantra are o lungime totală de 285 de kilometri.", "Veliko Târnovo a fost capitala Bulgariei între 1185 și 1393.", "Numele Iantra provine probabil din cuvântul tracic 'Iatrus'.", "Râul izvorăște la poalele muntelui Hadzhi Dimitar.", "În defileul Iantrei se află peste 50 de specii de păsări protejate.", "Podul de la Byala peste Iantra este o capodoperă a lui Kolyu Ficheto din anul 1867."],
       en: ["The Yantra River has a total length of 285 kilometers.", "Veliko Tarnovo served as the capital of Bulgaria between 1185 and 1393.", "The name Yantra likely originates from the Thracian word 'Iatrus'.", "The river originates at the foot of Hadzhi Dimitar Peak.", "The Yantra gorge is home to over 50 protected bird species.", "The Bridge at Byala over the Yantra is a masterpiece by Kolyu Ficheto from 1867."],
     },
+    image: "/poi-images/bulgaria-yantra-valley-relief-v2.webp",
   },
   {
     id: "bulgaria-pirin-granite-peak-zone-relief-v2",
@@ -576,6 +593,7 @@ export const bulgariaReliefV2: POI[] = [
       ro: ["Muntele Vihren este cel mai înalt vârf din Pirin, având 2.914 metri.", "Parcul Național Pirin a fost inclus pe lista UNESCO în 1983.", "Cel mai adânc lac din Pirin este lacul Popovo, cu o adâncime de 29,5 metri.", "Pinul Baikushev are o circumferință a trunchiului de aproximativ 7,8 metri.", "Stâncile de granit din Pirinul de Nord s-au format acum aproximativ 30 de milioane de ani.", "În Pirin există peste 1.300 de specii de plante vasculare, multe dintre ele endemice."],
       en: ["Vihren Peak is the highest summit in Pirin at 2,914 meters.", "Pirin National Park was added to the UNESCO list in 1983.", "The deepest lake in Pirin is Popovo Lake, reaching a depth of 29.5 meters.", "The Baikushev Pine has a trunk circumference of approximately 7.8 meters.", "The granite rocks in North Pirin were formed about 30 million years ago.", "Pirin is home to over 1,300 vascular plant species, many of which are endemic."],
     },
+    image: "/poi-images/bulgaria-pirin-granite-peak-zone-relief-v2.webp",
   },
   {
     id: "bulgaria-struma-valley-relief-v2",
@@ -608,6 +626,7 @@ export const bulgariaReliefV2: POI[] = [
       ro: ["Struma are o lungime totală de 415 kilometri, dintre care 290 în Bulgaria.", "Defileul Kresna are o lungime de aproximativ 18 kilometri.", "Cutremurul din 1904 din valea Struma a fost unul dintre cele mai puternice din Europa.", "Sandanski este considerat cel mai însorit loc din Bulgaria.", "Regiunea găzduiește peste 3.000 de specii de plante.", "În apropiere de Melnik se află faimoasele piramide de gresie."],
       en: ["The Struma River has a total length of 415 kilometers, 290 of which are in Bulgaria.", "The Kresna Gorge is approximately 18 kilometers long.", "The 1904 earthquake in the Struma valley was one of the strongest in Europe.", "Sandanski is considered the sunniest place in Bulgaria.", "The region is home to over 3,000 plant species.", "The famous sandstone pyramids are located near Melnik."],
     },
+    image: "/poi-images/bulgaria-struma-valley-relief-v2.webp",
   },
   {
     id: "bulgaria-rodopes-western-ridge-relief-v2",
@@ -640,6 +659,7 @@ export const bulgariaReliefV2: POI[] = [
       ro: ["Rodopii de Vest acoperă o suprafață de aproximativ 8.700 de kilometri pătrați.", "Peștera Yagodinska este una dintre cele mai lungi din țară, având 10,5 kilometri.", "Lacul de acumulare Dospat este situat la o altitudine de 1.200 de metri.", "Cheile Trigrad au pereți stâncoși care ating până la 350 de metri înălțime.", "Pamporovo este una dintre cele mai cunoscute stațiuni de schi din Rodopii de Vest.", "În regiune există peste 2.000 de kilometri de trasee montane marcate."],
       en: ["The Western Rhodopes cover an area of approximately 8,700 square kilometers.", "Yagodinska Cave is one of the longest in the country at 10.5 kilometers.", "The Dospat reservoir is situated at an elevation of 1,200 meters.", "The Trigrad Gorge features rock walls rising up to 350 meters.", "Pamporovo is one of the most famous ski resorts in the Western Rhodopes.", "The region offers over 2,000 kilometers of marked hiking trails."],
     },
+    image: "/poi-images/bulgaria-rodopes-western-ridge-relief-v2.webp",
   },
   {
     id: "bulgaria-balkan-karst-relief-v2",
@@ -672,6 +692,7 @@ export const bulgariaReliefV2: POI[] = [
       ro: ["În Bulgaria există peste 5.400 de peșteri înregistrate.", "Peștera Magura este cunoscută pentru picturile realizate din guano de liliac.", "Parcul Natural Vrachanski Balkan cuprinde peste 30.000 de hectare.", "Defileul Iskar este cel mai lung din țară, având 84 de kilometri.", "Unele izvoare carstice debitează până la 200 de litri de apă pe secundă.", "Peștera Ledenika a fost declarată monument al naturii încă din 1961."],
       en: ["There are over 5,400 registered caves in Bulgaria.", "Magura Cave is famous for paintings made from bat guano.", "Vrachanski Balkan Nature Park covers over 30,000 hectares.", "The Iskar Gorge is the longest in the country at 84 kilometers.", "Some karst springs yield up to 200 liters of water per second.", "Ledenika Cave was declared a natural monument as early as 1961."],
     },
+    image: "/poi-images/bulgaria-balkan-karst-relief-v2.webp",
   },
   {
     id: "bulgaria-mesta-valley-relief-v2",
@@ -704,6 +725,7 @@ export const bulgariaReliefV2: POI[] = [
       ro: ["Mesta are o lungime totală de 273 de kilometri, dintre care 126 în Bulgaria.", "Bazinul Razlog se află la o altitudine medie de 800 de metri.", "Râul formează granița între parcurile naturale Rila și Pirin.", "Gotse Delchev este centrul economic din partea de sud a văii.", "Regiunea înregistrează adesea inversiuni termice în timpul iernii.", "Orașul antic Nicopolis ad Nestum este situat în valea Mestei."],
       en: ["The Mesta River has a total length of 273 kilometers, 126 of which are in Bulgaria.", "The Razlog basin sits at an average elevation of 800 meters.", "The river serves as the boundary between the Rila and Pirin nature parks.", "Gotse Delchev is the economic hub of the valley's southern section.", "The region frequently experiences temperature inversions during winter.", "The ancient site of Nicopolis ad Nestum is located in the Mesta Valley."],
     },
+    image: "/poi-images/bulgaria-mesta-valley-relief-v2.webp",
   },
   {
     id: "bulgaria-tundzha-valley-relief-v2",
@@ -736,6 +758,7 @@ export const bulgariaReliefV2: POI[] = [
       ro: ["Râul Tundja are o lungime totală de 390 de kilometri.", "Aproximativ 70% din uleiul de trandafir din lume provine din această regiune.", "Mormântul tracic de la Kazanlak face parte din Patrimoniul Mondial UNESCO.", "Recoltarea trandafirilor se face tradițional manual, în lunile mai și iunie.", "Kazanlak găzduiește singurul muzeu al trandafirului din lume.", "Pentru un litru de ulei de trandafir sunt necesare aproximativ 3.000 - 3.500 de kilograme de petale."],
       en: ["The Tundzha River has a total length of 390 kilometers.", "Approximately 70% of the world's rose oil originates from this region.", "The Thracian Tomb of Kazanlak is a UNESCO World Heritage site.", "Rose harvesting traditionally takes place by hand in May and June.", "Kazanlak is home to the only Rose Museum in the world.", "About 3,000 to 3,500 kilograms of petals are needed for one liter of rose oil."],
     },
+    image: "/poi-images/bulgaria-tundzha-valley-relief-v2.webp",
   },
   {
     id: "bulgaria-pirin-foothills-relief-v2",
@@ -768,6 +791,7 @@ export const bulgariaReliefV2: POI[] = [
       ro: ["Piramidele de la Melnik ating înălțimi de până la 100 de metri.", "Regiunea se află într-o zonă cu o puternică influență climatică mediteraneană.", "Altitudinea medie a piemontului este de aproximativ 600 de metri.", "Viticultura în regiunea Melnik este documentată încă din secolul al XIV-lea.", "Din punct de vedere geologic, piramidele sunt formate din straturi de gresie pliocenă.", "Zona servește drept coridor biologic pentru speciile de animale migratoare."],
       en: ["The Melnik earth pyramids reach heights of up to 100 meters.", "The region is located in a zone with significant Mediterranean climatic influence.", "The average elevation of the foothills is approximately 600 meters.", "Wine production in the Melnik region has been documented since the 14th century.", "Geologically, the pyramids are composed of Pliocene sandstone layers.", "The area functions as a biological corridor for various migratory species."],
     },
+    image: "/poi-images/bulgaria-pirin-foothills-relief-v2.webp",
   },
   {
     id: "bulgaria-rhodope-plateau-relief-v2",
@@ -800,6 +824,7 @@ export const bulgariaReliefV2: POI[] = [
       ro: ["Cheile Trigradului au pereți stâncoși cu o înălțime de până la 250 de metri.", "Lacul de acumulare Batak este situat la o altitudine de 1030 de metri.", "Platoul găzduiește peștera Gâtul Diavolului, faimoasă pentru cascada sa de 42 m.", "Pamporovo este una dintre cele mai sudice stațiuni de schi din Europa.", "Regiunea are una dintre cele mai mari concentrații de rezervații ale biosferei din Bulgaria.", "Cel mai înalt vârf din Rodopii de Vest, Golyam Perelik, atinge 2191 de metri."],
       en: ["The Trigrad Gorge features rock walls reaching heights of up to 250 meters.", "The Batak Reservoir is situated at an elevation of 1,030 meters above sea level.", "The plateau is home to the Devil's Throat Cave, featuring a 42-meter underground waterfall.", "Pamporovo is among the southernmost major ski resorts in Europe.", "The region contains one of the highest concentrations of biosphere reserves in Bulgaria.", "The highest peak of the Western Rhodopes, Golyam Perelik, reaches 2,191 meters."],
     },
+    image: "/poi-images/bulgaria-rhodope-plateau-relief-v2.webp",
   },
   {
     id: "bulgaria-balkan-foothills-relief-v2",
@@ -832,6 +857,7 @@ export const bulgariaReliefV2: POI[] = [
       ro: ["Regiunea ocupă aproximativ 13% din suprafața totală a Bulgariei.", "Stâncile de calcar de la Belogradchik sunt situate în Prebalcanii de Vest.", "Orașul Veliko Tarnovo a fost construit pe dealurile abrupte ale Prebalcanilor.", "Cel mai înalt punct din Prebalcani este vârful Vasilyov, cu 1490 de metri.", "Numeroase peșteri carstice, cum ar fi peștera Magura, se află în această zonă.", "Regiunea formează o barieră pentru masele de aer rece din nord."],
       en: ["The Fore-Balkan region covers approximately 13% of Bulgaria's total territory.", "The iconic Belogradchik Rocks are located within the western Fore-Balkan.", "The historic city of Veliko Tarnovo is built upon the steep hills of this region.", "The highest point of the Fore-Balkan is Vasilyov peak at 1,490 meters.", "Numerous karst caves, such as the Magura Cave, are situated in this area.", "The region acts as a climatic barrier against cold air masses from the north."],
     },
+    image: "/poi-images/bulgaria-balkan-foothills-relief-v2.webp",
   },
   {
     id: "bulgaria-strumski-plain-relief-v2",
@@ -864,6 +890,7 @@ export const bulgariaReliefV2: POI[] = [
       ro: ["Orașul Sandanski înregistrează cea mai mare durată anuală de strălucire a soarelui din Bulgaria.", "Râul Struma are o lungime totală de 415 kilometri.", "Câmpia este situată la o altitudine medie de numai 100 până la 200 de metri.", "Muntele Kozhuh a fost declarat monument al naturii în anul 1962.", "Regiunea este principala zonă de cultivare pentru soiul de struguri 'Viță de Melnik cu frunze late'.", "Ruinele antice ale orașului Heraclea Sintica se află la marginea câmpiei."],
       en: ["The town of Sandanski boasts the highest annual duration of sunshine in Bulgaria.", "The Struma River flows for a total length of 415 kilometers.", "The plain lies at an average elevation of only 100 to 200 meters above sea level.", "Kozhuh Hill was officially designated as a natural monument in 1962.", "The region is the primary cultivation area for the 'Broad-leaved Melnik Vine'.", "The ancient ruins of Heraclea Sintica are located at the edge of the plain."],
     },
+    image: "/poi-images/bulgaria-strumski-plain-relief-v2.webp",
   },
   {
     id: "bulgaria-sredna-gora-ridge-relief-v2",
@@ -896,6 +923,7 @@ export const bulgariaReliefV2: POI[] = [
       ro: ["Lungimea Sredna Gora: aprox. 200 km", "Vârf principal: Golyam Bogdan (1577 m)", "Altitudine medie: 800-1000 m", "Suprafață: 4.500 km²", "Cea mai mare așezare: Panagyurishte (populație ~20.000)", "Resurse minerale: peste 100 de situri miniere antice"],
       en: ["Length of Sredna Gora: approx. 200 km", "Highest peak: Golyam Bogdan (1577 m)", "Average elevation: 800-1000 m", "Area: 4,500 km²", "Largest town: Panagyurishte (population ~20,000)", "Number of thermal springs: over 30"],
     },
+    image: "/poi-images/bulgaria-sredna-gora-ridge-relief-v2.webp",
   },
   {
     id: "bulgaria-strandzha-ridge-relief-v2",
@@ -928,6 +956,7 @@ export const bulgariaReliefV2: POI[] = [
       ro: ["Parcul Natural Strandzha acoperă o suprafață de 1161 de kilometri pătrați.", "Rododendronul de Strandzha înflorește de obicei în luna mai.", "Satul Balgari este centrul tradiției Nestinarstvo.", "Regiunea găzduiește peste 50% din speciile de plante vasculare din Bulgaria.", "Altitudinea medie a munților este de aproximativ 300 până la 400 de metri.", "Sanctuarul tracic Mishkova Niva datează din secolul al V-lea î.Hr."],
       en: ["Strandzha Natural Park covers an area of 1,161 square kilometers.", "The Rhododendron ponticum typically blooms in this region during May.", "The village of Balgari is the primary center for the Nestinarstvo tradition.", "The region is home to over 50% of Bulgaria's vascular plant species.", "The average elevation of the range is between 300 and 400 meters.", "The Thracian sanctuary of Mishkova Niva dates back to the 5th century BC."],
     },
+    image: "/poi-images/bulgaria-strandzha-ridge-relief-v2.webp",
   },
   {
     id: "bulgaria-osogovo-valley-relief-v2",
@@ -960,6 +989,7 @@ export const bulgariaReliefV2: POI[] = [
       ro: ["Kyustendil este unul dintre cele mai vechi orașe din Bulgaria.", "Izvoarele termale din Kyustendil au un conținut ridicat de sulf.", "Valea este situată la o altitudine de aproximativ 500 de metri.", "Sărbătoarea Cireșelor are loc anual în iunie la Kyustendil.", "Cetatea antică Hisarlaka domină orașul și valea.", "Peste 30 de soiuri diferite de fructe sunt cultivate comercial în vale."],
       en: ["Kyustendil is among the oldest continuously inhabited cities in Bulgaria.", "The thermal springs of Kyustendil are characterized by a high sulfur content.", "The valley is situated at an average elevation of approximately 500 meters.", "The annual Cherry Festival is held in Kyustendil every June.", "The ancient Hisarlaka fortress overlooks the city and the entire basin.", "Over 30 different varieties of fruit are commercially grown in the valley."],
     },
+    image: "/poi-images/bulgaria-osogovo-valley-relief-v2.webp",
   },
   {
     id: "bulgaria-balkan-gorge-relief-v2",
@@ -992,6 +1022,7 @@ export const bulgariaReliefV2: POI[] = [
       ro: ["Defileul Iskar este singura vale care traversează în întregime Munții Balcani.", "Stâncile Lakatnik se ridică la 250 de metri deasupra râului Iskar.", "Prin Valea Iskar trece una dintre cele mai pitorești linii de cale ferată din Bulgaria.", "Mănăstirea Cherepish a fost fondată în secolul al XIV-lea.", "În pereții de stâncă ai defileului se află peste 100 de peșteri.", "Defileul a fost declarat în 1989 parte a Parcului Natural Vrachanski Balkan."],
       en: ["The Iskar Gorge is the only valley that completely transects the Balkan Mountains.", "The Lakatnik Rocks rise 250 meters directly above the Iskar River.", "One of Bulgaria's most scenic railway lines runs through the Iskar Valley.", "The Cherepish Monastery was established during the 14th century.", "More than 100 caves have been identified within the cliffs of the gorge.", "The gorge was designated as part of the Vrachanski Balkan Natural Park in 1989."],
     },
+    image: "/poi-images/bulgaria-balkan-gorge-relief-v2.webp",
   },
   {
     id: "bulgaria-rhodope-foothills-relief-v2",
@@ -1024,6 +1055,7 @@ export const bulgariaReliefV2: POI[] = [
       ro: ["Cetatea Asenovgrad este situată pe o stâncă abruptă în piemont.", "Orașul Asenovgrad este adesea numit 'Micul Ierusalim' datorită numeroaselor sale biserici.", "În regiune este cultivat faimosul soi de struguri 'Mavrud'.", "Temperatura medie este una dintre cele mai ridicate din Bulgaria.", "Numeroase morminte tracice au fost descoperite în dealuri.", "Regiunea este un centru al creșterii viermilor de mătase în Bulgaria."],
       en: ["Asen's Fortress is strategically perched on a steep rock within the foothills.", "The city of Asenovgrad is nicknamed 'Little Jerusalem' due to its many churches.", "The region is the traditional home of the famous 'Mavrud' grape variety.", "The average annual temperature here is among the highest in Bulgaria.", "Numerous Thracian tombs have been excavated within the surrounding hills.", "The region remains a historic center for Bulgarian sericulture (silk farming)."],
     },
+    image: "/poi-images/bulgaria-rhodope-foothills-relief-v2.webp",
   },
   {
     id: "bulgaria-stara-planina-plateau-relief-v2",
@@ -1056,6 +1088,7 @@ export const bulgariaReliefV2: POI[] = [
       ro: ["Vârful Botev este cel mai înalt punct al platoului, având 2376 de metri.", "Parcul Național Balkan Central face parte din Patrimoniul Mondial UNESCO.", "Cele mai înalte cascade din Bulgaria, precum Raisko Praskalo, își au originea aici.", "Platoul găzduiește una dintre cele mai mari populații de capre negre din Bulgaria.", "Vânturile de pe platou pot atinge viteze de peste 100 km/h.", "Temperatura medie chiar și vara este adesea sub 15 grade Celsius."],
       en: ["Botev Peak is the highest point of the plateau at 2,376 meters.", "The Central Balkan National Park is a designated UNESCO World Heritage site.", "Bulgaria's highest waterfalls, such as Raisko Praskalo, originate on this plateau.", "The plateau supports one of the largest populations of Balkan chamois.", "Winds across the plateau can frequently exceed speeds of 100 km/h.", "The average summer temperature often remains below 15 degrees Celsius."],
     },
+    image: "/poi-images/bulgaria-stara-planina-plateau-relief-v2.webp",
   },
   {
     id: "bulgaria-pirin-valleys-relief-v2",
@@ -1088,6 +1121,7 @@ export const bulgariaReliefV2: POI[] = [
       ro: ["Munții Pirin adăpostesc peste 186 de lacuri glaciare în văile lor înalte.", "Văile au fost modelate masiv în timpul erei glaciare Würm, acum aproximativ 20.000 de ani.", "Unele văi glaciare din Pirin ating o lungime de peste 10 kilometri.", "În aceste văi se găsește pinul de munte Bosniac, care poate depăși vârsta de 1300 de ani.", "Adâncimea medie a inciziunilor glaciare depășește adesea 500 de metri.", "Văile fac parte din primul parc național bulgar, înființat în anul 1962."],
       en: ["The Pirin Mountains host over 186 glacial lakes within their high-altitude valleys.", "The valleys were massively shaped during the Würm glaciation about 20,000 years ago.", "Some trough valleys in the Pirin range reach lengths exceeding 10 kilometers.", "These valleys are home to the Baikushev's pine, estimated to be over 1,300 years old.", "The average depth of the glacial carvings often exceeds 500 meters from the ridges.", "The valleys are protected within the national park established originally in 1962."],
     },
+    image: "/poi-images/bulgaria-pirin-valleys-relief-v2.webp",
   },
   {
     id: "bulgaria-strumski-canyon-narrow-relief-v2",
@@ -1120,6 +1154,7 @@ export const bulgariaReliefV2: POI[] = [
       ro: ["Defileul a fost zguduit de cutremurul de la Kresna din 1904, cu o magnitudine de 7,8.", "Lățimea medie a fundului văii în cele mai înguste puncte este de doar câțiva metri.", "Aici trăiesc peste 3500 de specii de animale și plante, multe de origine mediteraneană.", "Râul Struma parcurge o diferență considerabilă de altitudine în interiorul defileului.", "Drumul strategic prin defileu urmează vechile rute comerciale romane.", "Defileul Kresna este o zonă importantă de iernare pentru păsările migratoare."],
       en: ["The gorge was struck by the 1904 Kresna earthquake, measuring a magnitude of 7.8.", "The width of the valley floor at its narrowest points is only a few dozen meters.", "Over 3,500 species of flora and fauna inhabit the gorge, including Mediterranean endemics.", "The Struma River descends significantly in altitude throughout this 17-km stretch.", "The modern road through the gorge follows ancient Roman trade routes (Via Aristotelis).", "The Kresna Gorge serves as a critical stopover and wintering site for migratory birds."],
     },
+    image: "/poi-images/bulgaria-strumski-canyon-narrow-relief-v2.webp",
   },
   {
     id: "bulgaria-rhodope-ridge-relief-v2",
@@ -1152,6 +1187,7 @@ export const bulgariaReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf al crestei este Golyam Perelik, cu o înălțime de 2191 de metri.", "Munții Rodopi acoperă aproximativ o șeime din suprafața totală a Bulgariei.", "În regiune au fost documentate peste 1222 de peșteri, multe în zone carstice.", "Creasta găzduiește cea mai mare populație de Haberlea rhodopensis, o plantă 'înviată'.", "Observatorul Astronomic Rozhen este situat pe unul dintre vârfurile acestei creste.", "Sanctuarul trac Perperikon se află la poalele acestui lanț muntos."],
       en: ["The highest peak of the ridge is Golyam Perelik, reaching an elevation of 2,191 meters.", "The Rhodope Mountains cover approximately one-seventh of Bulgaria's total territory.", "Over 1,222 caves have been documented in the region, many within karst formations.", "The ridge is the primary habitat for Haberlea rhodopensis, a rare pre-glacial relict plant.", "The Rozhen National Astronomical Observatory is located on one of the ridge's peaks.", "The ancient Thracian city and cult site of Perperikon is situated in the eastern foothills."],
     },
+    image: "/poi-images/bulgaria-rhodope-ridge-relief-v2.webp",
   },
   {
     id: "bulgaria-balkan-valleys-relief-v2",
@@ -1184,6 +1220,7 @@ export const bulgariaReliefV2: POI[] = [
       ro: ["Bazinul Kazanlak furnizează aproximativ 70% din producția mondială de ulei de trandafir.", "Văile se întind pe o lungime totală de aproximativ 300 de kilometri.", "Bazinul Sofiei este cel mai înalt din lanț (în medie 550 m).", "Regiunea găzduiește 'Valea Regilor Traci', cu peste 1500 de tumuli.", "Aici trece cea mai importantă linie de cale ferată între Sofia și Marea Neagră.", "Văile sunt separate între ele prin dealuri transversale, numite 'praguri'."],
       en: ["The Kazanlak Basin produces approximately 70% of the world's rose oil supply.", "The chain of valleys stretches across a total length of about 300 kilometers.", "The Sofia Basin is the highest in the chain, with an average elevation of 550 meters.", "The region contains the 'Valley of the Thracian Kings' with over 1,500 burial mounds.", "The primary sub-Balkan railway connecting Sofia to the Black Sea runs through here.", "The basins are separated by transverse sills or 'thresholds' like the Koznitsa ridge."],
     },
+    image: "/poi-images/bulgaria-balkan-valleys-relief-v2.webp",
   },
   {
     id: "bulgaria-pirin-plateau-relief-v2",
@@ -1216,6 +1253,7 @@ export const bulgariaReliefV2: POI[] = [
       ro: ["Platoul este format din marmură cu o vechime de peste 500 de milioane de ani.", "Aici se află cele mai adânci abisuri din zonele carstice ale Bulgariei.", "Vihren, cel mai înalt vârf de marmură din Balcani (2914 m), domină acest platou.", "Nu există râuri sau lacuri permanente aici din cauza drenajului carstic.", "Platoul găzduiește floarea-de-colț, simbolul alpinismului bulgar.", "Câmpurile de zăpadă din dolinele carstice adânci persistă adesea tot anul."],
       en: ["The plateau consists of marble estimated to be over 500 million years old.", "It contains some of the deepest vertical karst shafts in Bulgaria.", "Vihren, the highest marble peak in the Balkans (2,914m), is part of this massif.", "There are no permanent surface streams or lakes due to rapid karst infiltration.", "The plateau is a primary habitat for the Leontopodium alpinum (Edelweiss).", "Perennial snow patches are found in the deep karst funnels even during summer."],
     },
+    image: "/poi-images/bulgaria-pirin-plateau-relief-v2.webp",
   },
   {
     id: "bulgaria-rodope-gorge-relief-v2",
@@ -1248,6 +1286,7 @@ export const bulgariaReliefV2: POI[] = [
       ro: ["Defileul Trigrad are pereți care se ridică vertical la aproape 350 de metri.", "În peștera 'Gâtul Diavolului' se află cea mai înaltă cascadă subterană din Balcani (42 m).", "Defileul Buynovo este cel mai lung defileu din Bulgaria, având 10 km.", "„Săritura Lupului” este un loc în defileu unde lățimea este de doar câțiva metri.", "Aici crește Haberlea rhodopensis, o plantă care poate supraviețui ani de zile fără apă.", "Defileele s-au format în perioada terțiară prin ridicarea masivului Rodopi."],
       en: ["The vertical walls of the Trigrad Gorge reach a maximum height of 350 meters.", "The Devil's Throat cave hosts the highest underground waterfall in the Balkans (42m).", "At 10 kilometers in length, the Buynovo Gorge is the longest in Bulgaria.", "The 'Wolf's Leap' is a famous spot where the canyon walls are only a few meters apart.", "The gorges are a key habitat for the endemic pre-glacial relict Haberlea rhodopensis.", "These canyons were formed during the Neogene period due to rapid tectonic uplift."],
     },
+    image: "/poi-images/bulgaria-rodope-gorge-relief-v2.webp",
   },
   {
     id: "bulgaria-stara-planina-ridge-relief-v2",
@@ -1280,6 +1319,7 @@ export const bulgariaReliefV2: POI[] = [
       ro: ["Munții Stara Planina au dat numele întregii Peninsule Balcanice.", "Creasta este cel mai lung lanț muntos continuu din Bulgaria.", "Vârful Botev (2376 m) este cel mai înalt punct din întregul lanț al Balcanilor.", "Creasta găzduiește cea mai mare rezervație de pădure de fag din Europa.", "Există peste 20 de trecători care leagă nordul de sudul țării.", "Traseul de drumeție Kom-Emine urmează întreaga creastă până la mare."],
       en: ["The Stara Planina gave its name to the entire Balkan Peninsula.", "It is the longest continuous mountain chain within Bulgaria's borders.", "Mount Botev (2,376 m) is the highest peak of the entire Balkan range.", "The ridge contains the largest UNESCO-listed beech forest massif in Europe.", "There are over 20 mountain passes connecting Northern and Southern Bulgaria.", "The Kom-Emine hiking trail follows the entire 530 km ridge to the Black Sea."],
     },
+    image: "/poi-images/bulgaria-stara-planina-ridge-relief-v2.webp",
   },
   {
     id: "bulgaria-osogovo-ridge-high-relief-v2",
@@ -1312,6 +1352,7 @@ export const bulgariaReliefV2: POI[] = [
       ro: ["Vârful Ruen (2251 m) este unul dintre cele mai înalte cinci vârfuri din Bulgaria.", "Muntele găzduiește unul dintre cele mai importante zăcăminte de plumb și zinc din Balcani.", "Osogovo este al treilea munte ca înălțime din grupul Osogovo-Belasitsa.", "O mare parte a crestei este desemnată ca zonă protejată NATURA 2000.", "Vârful Ruen este situat exact pe granița de stat dintre Bulgaria și Macedonia.", "În Evul Mediu, muntele a fost un centru al mineritului săsesc în regiune."],
       en: ["Ruen Peak (2,251 m) is among the highest peaks in Bulgaria outside the main Rila/Pirin massifs.", "The mountain contains some of the Balkan Peninsula's most significant lead-zinc deposits.", "Osogovo is the highest part of the Osogovo-Belasitsa mountain group.", "Large sections of the ridge are protected under the European NATURA 2000 network.", "The summit of Ruen Peak lies precisely on the international border with North Macedonia.", "During the Middle Ages, the mountain was a center for 'Saxon' mining activity in the region."],
     },
+    image: "/poi-images/bulgaria-osogovo-ridge-high-relief-v2.webp",
   },
   {
     id: "bulgaria-struma-basin-relief-v2",
@@ -1344,6 +1385,7 @@ export const bulgariaReliefV2: POI[] = [
       ro: ["Bazinul Struma găzduiește Sandanski, orașul cu cele mai multe ore de soare din Bulgaria.", "Râul Struma are o lungime totală de 415 km, dintre care 290 km pe teritoriul Bulgariei.", "Regiunea este cunoscută pentru cultivarea soiului de struguri endemic 'Melnik timpuriu'.", "Dealul vulcanic Kozhuh s-a format acum aproximativ un milion de ani.", "Aici se află unele dintre cele mai importante izvoare termale, cu apă de până la 80°C.", "Bazinul servește ca rută principală pentru traficul european de lungă distanță către Grecia."],
       en: ["The Struma Basin contains Sandanski, the city with the highest annual sunshine in Bulgaria.", "The Struma River flows for 290 km through Bulgaria before entering Greece.", "The region is the exclusive producer of the 'Broad-leaved Melnik Vine' grape variety.", "The volcanic hill of Kozhuh is the last remnant of volcanic activity in Bulgaria (1 million years ago).", "The basin hosts thermal springs with temperatures reaching up to 80 degrees Celsius.", "It is the primary transit corridor for the E79 international road connecting Europe to Athens."],
     },
+    image: "/poi-images/bulgaria-struma-basin-relief-v2.webp",
   },
   {
     id: "bulgaria-balkan-plateau-high-relief-v2",
@@ -1376,6 +1418,7 @@ export const bulgariaReliefV2: POI[] = [
       ro: ["Platoul din Balcanii Centrali este situat în medie la peste 2000 de metri altitudine.", "Aici se află Raysko Praskalo, cea mai înaltă cascadă din Bulgaria, cu 124,5 m.", "Suprafețele înalte adăpostesc peste 1900 de specii de plante vasculare.", "Platoul face parte din una dintre cele mai mari arii protejate continue din Europa.", "Aici se găsesc cele mai mari populații naturale de floare-de-colț din Munții Balcani.", "În regiune există peste 30 de vârfuri care depășesc înălțimea de 2000 de metri."],
       en: ["The high plateaus of the Central Balkans sit at an average elevation of over 2,000 meters.", "It is home to Raysko Praskalo, the highest waterfall in Bulgaria at 124.5 meters.", "The plateau region hosts over 1,900 species of vascular plants, many endemic.", "The area is part of the Central Balkan National Park, established in 1991.", "The plateau contains the highest concentration of alpine meadows in the range.", "More than 30 peaks exceeding 2,000 meters are clustered along this high relief section."],
     },
+    image: "/poi-images/bulgaria-balkan-plateau-high-relief-v2.webp",
   },
   {
     id: "bulgaria-rhodope-valleys-low-relief-v2",
@@ -1408,6 +1451,7 @@ export const bulgariaReliefV2: POI[] = [
       ro: ["Situl arheologic Perperikon este situat la o altitudine de aproximativ 470 de metri.", "Barajul Kardzhali a fost finalizat în 1963 și are o înălțime de 103,5 metri.", "Formațiunea Nunta de Piatră conține roci colorate natural în nuanțe de roz și alb.", "Râul Arda parcurge 241 de kilometri pe teritoriul Bulgariei înainte de a intra în Grecia.", "Regiunea beneficiază de peste 2000 de ore de strălucire a soarelui pe an.", "Tutunul de tip Basma cultivat aici este considerat unul dintre cele mai fine din lume."],
       en: ["Perperikon is one of the largest megalithic sanctuaries in the entire Balkan Peninsula.", "The Kardzhali Dam is 103.5 meters high and was completed in the early 1960s.", "The Stone Mushrooms rock formation is located near the village of Beli Plast.", "The Arda River flows for 272 kilometers, mostly within Bulgarian territory.", "Volcanic activity millions of years ago formed the unique rhyolite rocks in the area.", "The region's climate is transitional Mediterranean, allowing for diverse agriculture."],
     },
+    image: "/poi-images/bulgaria-rhodope-valleys-low-relief-v2.webp",
   },
   {
     id: "bulgaria-stara-planina-valleys-relief-v2",
@@ -1440,6 +1484,7 @@ export const bulgariaReliefV2: POI[] = [
       ro: ["Bulgaria este lider mondial în producția de ulei de trandafir de peste 300 de ani.", "Mormântul trac de la Kazanlak a fost descoperit accidental în anul 1944.", "Festivalul Trandafirilor este celebrat anual din 1903 în orașul Kazanlak.", "Karlovo găzduiește un muzeu național dedicat eroului revoluționar Vasil Levski.", "Tunelul Koznitsa, cel mai lung tunel feroviar din Bulgaria, leagă două dintre aceste văi.", "În regiune se cultivă peste 30 de soiuri diferite de trandafiri și lavandă."],
       en: ["The Rose Valley produces about 1.5 to 2 tons of rose oil annually.", "The Thracian Tomb of Kazanlak is a UNESCO World Heritage site since 1979.", "Karlovo and Kazanlak are the two main administrative and economic centers of the area.", "The valley's microclimate is unique due to the surrounding mountain barriers.", "Ancient Seuthopolis, the capital of the Odrysian Kingdom, lies beneath the Koprinka reservoir.", "Rose harvest typically occurs between May and June, starting at dawn for best quality."],
     },
+    image: "/poi-images/bulgaria-stara-planina-valleys-relief-v2.webp",
   },
   {
     id: "bulgaria-pirin-ridge-low-relief-v2",
@@ -1472,5 +1517,6 @@ export const bulgariaReliefV2: POI[] = [
       ro: ["Vârful Vihren este cu doar 11 metri mai mic decât vârful Musala din Rila.", "Pinul lui Baikușev a fost descoperit în anul 1897 de silvicultorul Kostadin Baikușev.", "Lacul Okoto este cel mai adânc lac de circ din Pirin, având o adâncime de 7 metri.", "Munții Pirin fac parte din masivul muntois Rila-Rhodope.", "Diferența de nivel între Bansko și vârful Vihren este de peste 2000 de metri.", "Creasta Koncheto are o lungime de aproximativ 400 de metri în zona critică."],
       en: ["Vihren is the second highest peak in Bulgaria, after Musala in the Rila Mountains.", "The Pirin National Park was established in 1962 to protect the unique alpine nature.", "The Baykushev Pine is 26 meters tall and is a specimen of Pinus heldreichii.", "The name Pirin originates from Perun, the highest god of the Slavic pantheon.", "Glacial lakes in Pirin are often called 'The Eyes of the Mountain' by locals.", "Bansko hosted multiple FIS Alpine Ski World Cup events in the last decade."],
     },
+    image: "/poi-images/bulgaria-pirin-ridge-low-relief-v2.webp",
   }
 ];

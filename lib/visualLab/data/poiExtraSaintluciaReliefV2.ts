@@ -31,6 +31,7 @@ export const saintluciaReliefV2: POI[] = [
       ro: ["Înălțimea vârfului este de aproximativ 678 metri", "Se află în interiorul Zonei de Management Pitons", "Numele se referă la cultivarea istorică a tutunului", "Oferă o vedere directă spre vârful Gros Piton", "Pantele sunt acoperite cu pădure tropicală uscată", "Loc important de cuibărit pentru uliul cu aripi late"],
       en: ["The peak reaches an elevation of about 678 meters", "Located within the Pitons Management Area UNESCO site", "The name refers to historical tobacco cultivation", "Offers a direct line of sight to Gros Piton", "Slopes are covered with tropical dry forest vegetation", "Important nesting site for birds of prey like hawks"],
     },
+    image: "/poi-images/saintlucia-mount-tabac-relief-v2.webp",
   },
   {
     id: "saintlucia-mount-grand-magazin-relief-v2",
@@ -62,6 +63,7 @@ export const saintluciaReliefV2: POI[] = [
       ro: ["Atinge o înălțime maximă de 645 metri", "Face parte din Rezervația Naturală Mount Grand Magazin", "Găzduiește specia rară de papagal amazonian de Sfânta Lucia", "Terenul este marcat de creste abrupte și râpe", "Sursă importantă pentru râurile Vieux Fort și Troumasse", "Precipitațiile sunt printre cele mai mari de pe insulă"],
       en: ["Reaches a maximum elevation of 645 meters", "Part of the Mount Grand Magazin Nature Reserve", "Home to the rare Saint Lucia parrot (Amazona versicolor)", "The terrain is marked by steep ridges and ravines", "Key source for the Vieux Fort and Troumasse rivers", "Rainfall levels are among the highest on the island"],
     },
+    image: "/poi-images/saintlucia-mount-grand-magazin-relief-v2.webp",
   },
   {
     id: "saintlucia-mount-parasol-relief-v2",
@@ -93,6 +95,7 @@ export const saintluciaReliefV2: POI[] = [
       ro: ["Înălțimea vârfului este de aproximativ 580 metri", "Înconjurat de o pădure de nori densă", "Oferă habitat pentru specii de orhidee endemice", "Componentă importantă a Rezervației Forestiere Centrale", "Solul este compus din rocă vulcanică alterată", "Accesibil doar prin poteci neoficiale pentru experți"],
       en: ["The peak reaches an elevation of about 580 meters", "Surrounded by dense montane cloud forest", "Provides habitat for endemic orchid species", "Important component of the Central Forest Reserve", "Soil consists of weathered volcanic parent material", "Accessible only via unofficial trails for experts"],
     },
+    image: "/poi-images/saintlucia-mount-parasol-relief-v2.webp",
   },
   {
     id: "saintlucia-piton-canarie-relief-v2",
@@ -124,6 +127,7 @@ export const saintluciaReliefV2: POI[] = [
       ro: ["Atinge o înălțime de 603 metri", "Aparține geologic de centrul vulcanic Canaries", "Utilizat istoric ca punct de reper pentru navigatori", "Vegetația include pădure montană și pădure pitică", "Habitat important pentru șarpele de Sfânta Lucia", "Stâncile abrupte oferă locuri de cuibărit pentru păsări"],
       en: ["Reaches an elevation of 603 meters", "Geologically part of the Canaries volcanic center", "Historically used as a landmark for sailors", "Vegetation includes montane forest and elfin woodland", "Important habitat for the Saint Lucia racer snake", "Steep cliffs provide nesting sites for seabirds"],
     },
+    image: "/poi-images/saintlucia-piton-canarie-relief-v2.webp",
   },
   {
     id: "saintlucia-mount-du-chazeau-relief-v2",
@@ -155,6 +159,7 @@ export const saintluciaReliefV2: POI[] = [
       ro: ["Înălțimea este de aproximativ 350 metri", "Locație importantă pentru piloni de telecomunicații", "Considerat poarta către Rezervația Babonneau", "Solurile sunt foarte fertile și de origine vulcanică", "Loc popular pentru observarea păsărilor lângă așezări", "Istoric, a făcut parte din mari domenii franceze"],
       en: ["The elevation is approximately 350 meters", "Important site for telecommunications towers", "Considered a gateway to the Babonneau Forest Reserve", "Soils are highly fertile and of volcanic origin", "Popular birdwatching location near residential areas", "Historically part of large French land estates"],
     },
+    image: "/poi-images/saintlucia-mount-du-chazeau-relief-v2.webp",
   },
   {
     id: "saintlucia-barre-de-lisle-ridge-relief-v2",
@@ -186,6 +191,7 @@ export const saintluciaReliefV2: POI[] = [
       ro: ["Cea mai mare înălțime de pe traseu este de 440 metri", "Separă bazinele hidrografice ale Atlanticului și Caraibilor", "Traseul de drumeție are o lungime de circa 2 kilometri", "Loc frecvent de observare pentru papagalul de Sfânta Lucia", "Ruta traversează drumul principal Castries-Dennery", "Include un punct de observație asupra râului Cul de Sac"],
       en: ["The highest point on the trail is 440 meters", "Separates the Atlantic and Caribbean watersheds", "The hiking trail is approximately 2 kilometers long", "Frequent sighting location for the Saint Lucia parrot", "The route intersects the main Castries-Dennery road", "Features a lookout point over the Cul de Sac River"],
     },
+    image: "/poi-images/saintlucia-barre-de-lisle-ridge-relief-v2.webp",
   },
   {
     id: "saintlucia-mabouya-valley-relief-v2",
@@ -217,6 +223,7 @@ export const saintluciaReliefV2: POI[] = [
       ro: ["Una dintre cele mai mari văi de pe partea expusă vântului", "Drenată de râul Dennery și afluenții săi", "Istoric, a fost locul mai multor plantații de zahăr", "Găzduiește comunitatea Dennery în zona de vărsare", "Centru pentru inițiative de agroturism pe insulă", "Oferă condiții ideale pentru cultivarea cacauei"],
       en: ["One of the largest valleys on the windward side", "Drained by the Dennery River and its tributaries", "Historically the site of several large sugar estates", "Home to the Dennery community in the coastal area", "Hub for agro-tourism initiatives on the island", "Provides ideal conditions for cocoa cultivation"],
     },
+    image: "/poi-images/saintlucia-mabouya-valley-relief-v2.webp",
   },
   {
     id: "saintlucia-roseau-valley-relief-v2",
@@ -248,6 +255,7 @@ export const saintluciaReliefV2: POI[] = [
       ro: ["Găzduiește cea mai mare distilerie de pe insulă", "Râul Roseau este cel mai voluminos râu de pe coasta de vest", "Fost centru al industriei locale a zahărului", "Include un parc eolian semnificativ pentru energie", "Valea este marcată de soluri aluvionare vulcanice", "Locație importantă pentru cercetarea agricolă"],
       en: ["Home to the island's largest distillery (St. Lucia Distillers)", "The Roseau River is the most voluminous river on the west coast", "Once the epicenter of the local sugar industry", "Contains a significant wind farm for energy production", "The valley is characterized by volcanic alluvial soils", "Important site for agricultural research and development"],
     },
+    image: "/poi-images/saintlucia-roseau-valley-relief-v2.webp",
   },
   {
     id: "saintlucia-soufriere-volcanic-basin-relief-v2",
@@ -279,6 +287,7 @@ export const saintluciaReliefV2: POI[] = [
       ro: ["Face parte din caldera Qualibou de 5 x 6,5 km", "Găzduiește peste 20 de izvoare termale active", "Temperaturile apei ating adesea 170 de grade Celsius", "Ultimele erupții freatice au avut loc în 1766", "Inclus în situl UNESCO Pitons din anul 2004", "Gazele vulcanice sunt compuse în principal din hidrogen sulfurat"],
       en: ["Part of the 5 x 6.5 km Qualibou caldera", "Home to more than 20 active thermal springs", "Water temperatures often reach 170 degrees Celsius", "The last phreatic eruptions occurred in 1766", "Included in the Pitons UNESCO World Heritage site since 2004", "Volcanic gases consist primarily of hydrogen sulfide"],
     },
+    image: "/poi-images/saintlucia-soufriere-volcanic-basin-relief-v2.webp",
   },
   {
     id: "saintlucia-mount-bellevue-relief-v2",
@@ -310,6 +319,7 @@ export const saintluciaReliefV2: POI[] = [
       ro: ["Atinge o înălțime de aproximativ 450 de metri", "Format din roci de andezit și bazalt", "Rezervor important de apă pentru comunitățile sudice", "Oferă habitat pentru specii de păsări endemice", "Parte a axei vulcanice a Antilelor Mici", "Precipitațiile depășesc adesea 2500 mm pe an"],
       en: ["Reaches an elevation of approximately 450 meters", "Composed of andesite and basaltic rock", "Important water catchment for southern communities", "Provides habitat for endemic bird species", "Part of the volcanic axis of the Lesser Antilles", "Annual rainfall often exceeds 2,500 mm"],
     },
+    image: "/poi-images/saintlucia-mount-bellevue-relief-v2.webp",
   },
   {
     id: "saintlucia-vigie-promontory-relief-v2",
@@ -341,6 +351,7 @@ export const saintluciaReliefV2: POI[] = [
       ro: ["Locația farului Vigie, construit în 1883", "Scena a numeroase bătălii între britanici și francezi", "Găzduiește istorica Casă a Guvernului", "Peninsula are o lungime de aproximativ 2 kilometri", "Punctul maxim este la circa 60 de metri deasupra mării", "Depozite de calcar suprapuse pe fundația vulcanică"],
       en: ["Site of the Vigie Lighthouse, built in 1883", "Scene of numerous battles between British and French forces", "Houses the historic Government House", "The peninsula is approximately 2 kilometers long", "Highest point is about 60 meters above sea level", "Limestone deposits overlie the volcanic foundation"],
     },
+    image: "/poi-images/saintlucia-vigie-promontory-relief-v2.webp",
   },
   {
     id: "saintlucia-mount-pimard-relief-v2",
@@ -372,6 +383,7 @@ export const saintluciaReliefV2: POI[] = [
       ro: ["Atinge o înălțime maximă de 154 de metri", "Format din roci piroclastice și brecii", "Traseele de drumeție se întind pe circa 3 kilometri", "Fost sit pentru posturi de observație militară", "Regiune de tranziție între teren vulcanic și coraligen", "Găzduiește specii rare de șopârle din genul Anolis"],
       en: ["Reaches a maximum elevation of 154 meters", "Composed of pyroclastic rocks and breccias", "Hiking trails extend for approximately 3 kilometers", "Former site of military observation posts", "Border region between volcanic and coralline terrain", "Home to rare lizard species of the genus Anolis"],
     },
+    image: "/poi-images/saintlucia-mount-pimard-relief-v2.webp",
   },
   {
     id: "saintlucia-moule-a-chique-relief-v2",
@@ -403,6 +415,7 @@ export const saintluciaReliefV2: POI[] = [
       ro: ["Punctul maxim este la 226 de metri altitudine", "Farul a fost construit în anul 1912", "Al doilea cel mai înalt far din lume ca poziție geografică", "Punct strategic în timpul celui de-al Doilea Război Mondial", "Compus din roci vulcanice bazaltice", "Punct de reper vital pentru navigația în sectorul sudic"],
       en: ["Highest point is 226 meters above sea level", "The lighthouse was constructed in 1912", "World's second highest lighthouse by elevation", "Strategic location during World War II", "Composed of basaltic volcanic rock", "Vital landmark for maritime navigation in the southern sector"],
     },
+    image: "/poi-images/saintlucia-moule-a-chique-relief-v2.webp",
   },
   {
     id: "saintlucia-dennery-highlands-relief-v2",
@@ -434,6 +447,7 @@ export const saintluciaReliefV2: POI[] = [
       ro: ["Altitudinea medie este de aproximativ 300 de metri", "Include porțiuni ale cascadei Dennery", "Solurile vulcanice favorizează cultivarea bananelor", "Coridor important pentru papagalul endemic de Sfânta Lucia", "Formațiunile geologice datează din epoca miocenului", "Precipitațiile anuale ating până la 3000 mm"],
       en: ["Average elevation is approximately 300 meters", "Includes sections of the Dennery Waterfall", "Volcanic soils support extensive banana cultivation", "Important corridor for the endemic Saint Lucia parrot", "Geological formations date back to the Miocene epoch", "Annual rainfall reaches up to 3,000 mm"],
     },
+    image: "/poi-images/saintlucia-dennery-highlands-relief-v2.webp",
   },
   {
     id: "saintlucia-choiseul-plateau-relief-v2",
@@ -465,6 +479,7 @@ export const saintluciaReliefV2: POI[] = [
       ro: ["Compus în principal din depozite de piatră ponce deschisă", "Centru al prelucrării artizanale a argilei de generații", "Altitudinea variază între 50 și 150 de metri", "Situl multor artefacte precolumbiene descoperite", "Zonă importantă pentru cultura maniocului și a cartofilor dulci", "Stâncile marginale coboară abrupt spre Marea Caraibilor"],
       en: ["Primarily composed of light-colored pumice deposits", "Center for artisanal clay work for generations", "Elevation varies between 50 and 150 meters", "Site of numerous pre-Columbian artifact finds", "Important area for cassava and sweet potato cultivation", "The marginal cliffs drop steeply to the Caribbean Sea"],
     },
+    image: "/poi-images/saintlucia-choiseul-plateau-relief-v2.webp",
   },
   {
     id: "saintlucia-laborie-hills-relief-v2",
@@ -496,6 +511,7 @@ export const saintluciaReliefV2: POI[] = [
       ro: ["Ating înălțimi de până la 200 de metri", "Formate din material vulcanic alterat", "Locația unor foste plantații istorice de trestie de zahăr", "Adăpostesc resturi ale unor construcții coloniale din piatră", "Habitat important pentru mangustele de sol din Sfânta Lucia", "Protejează golful Laborie de vânturile din nord"],
       en: ["Reach elevations of up to 200 meters", "Composed of weathered volcanic material", "Site of historic sugarcane plantations", "Home to remains of colonial-era stone structures", "Important habitat for Saint Lucian ground wildlife", "Provide shelter for Laborie Bay from northern winds"],
     },
+    image: "/poi-images/saintlucia-laborie-hills-relief-v2.webp",
   },
   {
     id: "saintlucia-marigot-bay-ridge-relief-v2",
@@ -527,6 +543,7 @@ export const saintluciaReliefV2: POI[] = [
       ro: ["Punctul maxim al crestei este de circa 120 de metri", "Scena unor bătălii navale anglo-franceze în sec. XVIII", "Format din formațiuni masive de andezit", "Oferă o vedere de 360 de grade asupra coastei de vest", "Dens împădurit cu palmieri și esențe tropicale tari", "Cunoscut ca locație de filmare pentru filme precum 'Dr. Dolittle'"],
       en: ["Highest point of the ridge is approximately 120 meters", "Scene of British-French naval skirmishes in the 18th century", "Composed of massive andesite formations", "Offers 360-degree views over the western coastline", "Densely forested with palms and tropical hardwoods", "Famous as a filming location for movies like 'Dr. Dolittle'"],
     },
+    image: "/poi-images/saintlucia-marigot-bay-ridge-relief-v2.webp",
   },
   {
     id: "saintlucia-cap-estate-plateau-relief-v2",
@@ -558,6 +575,7 @@ export const saintluciaReliefV2: POI[] = [
       ro: ["Cuprinde o suprafață de aproximativ 1.500 de hectare", "Găzduiește singurul teren de golf de campionat cu 18 găuri", "Locația ruinelor istorice de la Mount Fortune", "Are cele mai scăzute rate de precipitații de pe insulă", "Oferă vedere spre Martinica în condiții de cer senin", "Caracterizat geologic prin calcare de corali ridicate"],
       en: ["Covers an area of approximately 1,500 acres", "Home to the island's only 18-hole championship golf course", "Site of the historic ruins of Mount Fortune", "Has the lowest rainfall rates on the entire island", "Offers views of Martinique on clear days", "Geologically characterized by uplifted coral limestones"],
     },
+    image: "/poi-images/saintlucia-cap-estate-plateau-relief-v2.webp",
   },
   {
     id: "saintlucia-mount-mortier-relief-v2",
@@ -589,6 +607,7 @@ export const saintluciaReliefV2: POI[] = [
       ro: ["Atinge o înălțime de aproximativ 580 de metri", "Sursă importantă pentru sistemul fluvial Troumassée", "Compus din fluxuri de lavă dacitică și andezitică", "Găzduiește specii rare de orhidee și ferigi", "Parte a zonei centrale de protecție a pădurilor", "Aparține formațiunilor geologice mai vechi din sud"],
       en: ["Reaches an elevation of around 580 meters", "Important source for the Troumassée river system", "Composed of dacitic and andesitic lava flows", "Home to rare orchid species and ferns", "Part of Saint Lucia's central forest reserve zone", "Belongs to the geologically older formations in the south"],
     },
+    image: "/poi-images/saintlucia-mount-mortier-relief-v2.webp",
   },
   {
     id: "saintlucia-grand-riviere-valley-relief-v2",
@@ -620,6 +639,7 @@ export const saintluciaReliefV2: POI[] = [
       ro: ["Una dintre cele mai mari văi fluviale ale insulei", "Râul Grand Rivière izvorăște din podișul central", "Zonă principală de cultivare pentru banana Cavendish", "Conține sisteme de irigații importante pentru agricultură", "Caracterizată geologic prin depozite cuaternare", "Locație importantă pentru așezările rurale din nord"],
       en: ["One of the largest river valleys on the island", "The Grand Rivière river originates in the central highlands", "Primary cultivation area for the Cavendish banana", "Contains significant irrigation systems for agriculture", "Geologically characterized by Quaternary deposits", "Important location for rural settlements in the north"],
     },
+    image: "/poi-images/saintlucia-grand-riviere-valley-relief-v2.webp",
   },
   {
     id: "saintlucia-troumassee-river-basin-relief-v2",
@@ -651,6 +671,7 @@ export const saintluciaReliefV2: POI[] = [
       ro: ["Troumassée este unul dintre cele mai lungi râuri de pe insulă", "Bazinul hidrografic acoperă circa 30 de kilometri pătrați", "Sursă vitală pentru apă potabilă și irigații", "Găzduiește cascada Troumassée", "Zona de estuar formează o lagună valoroasă ecologic", "Vulnerabil la eroziunea solului în timpul ploilor torențiale"],
       en: ["The Troumassée is one of the island's longest rivers", "The catchment area covers approximately 30 square kilometers", "Vital source for drinking water and irrigation", "Home to the Troumassée waterfall", "The estuary area forms an ecologically valuable lagoon", "Prone to soil erosion during heavy rainfall events"],
     },
+    image: "/poi-images/saintlucia-troumassee-river-basin-relief-v2.webp",
   },
   {
     id: "saintlucia-fond-d-or-bay-cliffs-relief-v2",
@@ -682,6 +703,7 @@ export const saintluciaReliefV2: POI[] = [
       ro: ["Parte a Parcului de Patrimoniu Fond d'Or", "Locația unor grămezi de deșeuri preistorice (middens)", "Stâncile ating înălțimi de până la 40 de metri", "Loc de cuibărit important pentru păsările marine", "Vestigii ale unei foste fabrici de zahăr din sec. XIX", "Golful nu este recomandat pentru înot din cauza curenților"],
       en: ["Part of the Fond d'Or Heritage Park", "Site of prehistoric shell middens", "Cliffs reach elevations of up to 40 meters", "Important nesting ground for seabirds", "Features remains of a 19th-century sugar mill", "The bay is unsuitable for swimming due to strong currents"],
     },
+    image: "/poi-images/saintlucia-fond-d-or-bay-cliffs-relief-v2.webp",
   },
   {
     id: "saintlucia-mount-sion-relief-v2",
@@ -713,6 +735,7 @@ export const saintluciaReliefV2: POI[] = [
       ro: ["Înălțimea este de aproximativ 320 de metri", "Format în principal din roci andezitice", "Oferă o vedere excelentă spre Muntele Gimie", "Centru pentru agricultura la scară mică pe versanți", "Punct important pentru colectarea apei de ploaie", "Găzduiește diverse specii de păsări colibri"],
       en: ["Elevation is approximately 320 meters above sea level", "Composed primarily of andesitic rock", "Offers an excellent view of Mount Gimie", "Center for small-scale farming on its slopes", "Important point for local rainwater catchment", "Home to various species of hummingbirds"],
     },
+    image: "/poi-images/saintlucia-mount-sion-relief-v2.webp",
   },
   {
     id: "saintlucia-petit-piton-waterfall-relief-v2",
@@ -744,6 +767,7 @@ export const saintluciaReliefV2: POI[] = [
       ro: ["Se află în sud-vestul insulei Saint Lucia, lângă orașul Soufrière.", "Apa cascadei este încălzită natural de activitatea vulcanică subterană.", "Vârful Petit Piton are o înălțime de 743 de metri deasupra nivelului mării.", "Situl face parte din zona protejată Pitons, inclusă în UNESCO din 2004.", "Apa conține o concentrație ridicată de minerale vulcanice terapeutice.", "Vegetația înconjurătoare este compusă din pădure tropicală umedă."],
       en: ["Located near the town of Soufrière in southwestern Saint Lucia.", "The water is naturally heated by underlying volcanic activity.", "The adjacent Petit Piton peak rises to an elevation of 743 meters.", "Part of the Pitons Management Area, a UNESCO World Heritage site since 2004.", "The waterfall is fed by thermal springs rich in magnesium and sulfur.", "Surrounding terrain consists of lush, primary tropical rainforest."],
     },
+    image: "/poi-images/saintlucia-petit-piton-waterfall-relief-v2.webp",
   },
   {
     id: "saintlucia-morne-coubaril-plateau-relief-v2",
@@ -775,5 +799,6 @@ export const saintluciaReliefV2: POI[] = [
       ro: ["Domeniul a fost fondat inițial în anul 1713 de coloniști francezi.", "Platoul se află pe o terasă ridicată deasupra golfului Soufrière.", "Plantația cuprinde aproximativ 250 de hectare de teren agricol activ.", "Adăpostește o moară de manioc funcțională datând din perioada colonială.", "Regiunea servește drept punct de acces pentru traseele montane spre Pitons.", "Fertilitatea solului este menținută de depunerile străvechi de cenușă vulcanică."],
       en: ["The estate was originally established in 1713 by French settlers.", "Located on an elevated terrace overlooking Soufrière Bay.", "The plantation covers approximately 250 acres of agricultural land.", "Features a working manioc mill dating back to the colonial era.", "The plateau serves as a primary access point for Piton hiking trails.", "Volcanic ash deposits provide exceptionally high soil fertility for crops."],
     },
+    image: "/poi-images/saintlucia-morne-coubaril-plateau-relief-v2.webp",
   }
 ];

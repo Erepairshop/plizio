@@ -31,6 +31,7 @@ export const lesothoEconomicV2: POI[] = [
       ro: ["Producția anuală depășește 100.000 de carate.", "Redeschiderea minei în 2009.", "În 2018, a fost recuperat un diamant de 108 carate.", "Mina este situată la o altitudine de 2.500 de metri.", "Conducta de kimberlit are o suprafață de 5,7 hectare.", "Mina angajează aproximativ 500 de muncitori."],
       en: ["Annual production exceeds 100,000 carats.", "Mine reopened in 2009.", "A 108-carat diamond was recovered in 2018.", "Mine is located at an altitude of 2,500 meters.", "Kimberlite pipe covers an area of 5.7 hectares.", "The mine employs approximately 500 workers."],
     },
+    image: "/poi-images/lesotho-kao-diamond-mine-economic-v2.webp",
   },
   {
     id: "lesotho-liqhobong-mine-economic-v2",
@@ -62,6 +63,7 @@ export const lesothoEconomicV2: POI[] = [
       ro: ["Producție de 45.000 de carate în 2017.", "Mina a început operațiunile în 2005.", "Conținutul mediu al conductei de kimberlit: 2,5 carate pe tonă.", "Mina angajează aproximativ 400 de muncitori.", "Guvernul deține o participație de 30%.", "Cel mai adânc nivel subteran este de 200 de metri."],
       en: ["Production of 45,000 carats in 2017.", "Mine started operations in 2005.", "Average kimberlite grade: 2.5 carats per ton.", "Mine employs approximately 400 workers.", "Government holds a 30% stake.", "Deepest underground level is 200 meters."],
     },
+    image: "/poi-images/lesotho-liqhobong-mine-economic-v2.webp",
   },
   {
     id: "lesotho-mothae-mine-economic-v2",
@@ -93,6 +95,7 @@ export const lesothoEconomicV2: POI[] = [
       ro: ["Producție de 38.000 de carate în 2019.", "Mina deschisă în 2013.", "Rezerve estimate: 6,5 milioane de carate.", "Conducta de kimberlit are 12 hectare.", "Conținut mediu de diamante: peste 5 carate pe tonă.", "Mina angajează aproximativ 350 de muncitori."],
       en: ["Production of 38,000 carats in 2019.", "Mine opened in 2013.", "Estimated reserves: 6.5 million carats.", "Kimberlite pipe covers 12 hectares.", "Average diamond grade: over 5 carats per ton.", "Mine employs approximately 350 workers."],
     },
+    image: "/poi-images/lesotho-mothae-mine-economic-v2.webp",
   },
   {
     id: "lesotho-kolo-mine-economic-v2",
@@ -124,6 +127,7 @@ export const lesothoEconomicV2: POI[] = [
       ro: ["Producția anuală de aproximativ 10.000 de carate.", "Mina a început operațiunile în 2017.", "Zăcământ aluvial pe 8 hectare.", "Mina angajează 120 de muncitori.", "Conținut mediu de diamante: 1,5 carate pe tonă.", "Durata de viață estimată a minei: 10 ani."],
       en: ["Annual production of about 10,000 carats.", "Mine started operations in 2017.", "Alluvial deposit covering 8 hectares.", "Mine employs 120 workers.", "Average diamond grade: 1.5 carats per ton.", "Estimated mine life: 10 years."],
     },
+    image: "/poi-images/lesotho-kolo-mine-economic-v2.webp",
   },
   {
     id: "lesotho-muela-hydropower-economic-v2",
@@ -155,6 +159,7 @@ export const lesothoEconomicV2: POI[] = [
       ro: ["Capacitate instalată: 72 MW.", "Punere în funcțiune: 1999.", "Volum rezervor: 75 milioane de metri cubi.", "Costuri de construcție: 100 milioane USD.", "Producție anuală de energie: 300 GWh.", "Înălțimea barajului: 55 de metri."],
       en: ["Installed capacity: 72 MW.", "Commissioned in 1999.", "Reservoir volume: 75 million cubic meters.", "Construction cost: USD 100 million.", "Annual energy output: 300 GWh.", "Dam height: 55 meters."],
     },
+    image: "/poi-images/lesotho-muela-hydropower-economic-v2.webp",
   },
   {
     id: "lesotho-tikoe-industrial-economic-v2",
@@ -186,6 +191,7 @@ export const lesothoEconomicV2: POI[] = [
       ro: ["Suprafață de 50 de hectare.", "Dezvoltat în anii 1990.", "Adăpostește peste 30 de companii.", "Creează aproximativ 5.000 de locuri de muncă.", "Distanță până la aeroportul Maseru: 5 km.", "Valoare anuală a exporturilor: 100 milioane USD."],
       en: ["Area of 50 hectares.", "Developed in the 1990s.", "Hosts over 30 companies.", "Creates about 5,000 jobs.", "Distance to Maseru airport: 5 km.", "Annual export value: USD 100 million."],
     },
+    image: "/poi-images/lesotho-tikoe-industrial-economic-v2.webp",
   },
   {
     id: "lesotho-thetsane-area-economic-v2",
@@ -217,6 +223,7 @@ export const lesothoEconomicV2: POI[] = [
       ro: ["Suprafață de 80 de hectare.", "Dezvoltat în anii 2000.", "Adăpostește aproximativ 20 de fabrici textile.", "Angajează aproximativ 8.000 de muncitori.", "Valoare anuală a exporturilor: 150 milioane USD.", "Scutire de taxe pentru primii 5 ani."],
       en: ["Area of 80 hectares.", "Developed in the 2000s.", "Hosts around 20 textile factories.", "Employs about 8,000 workers.", "Annual export value: USD 150 million.", "Tax exemption for first 5 years."],
     },
+    image: "/poi-images/lesotho-thetsane-area-economic-v2.webp",
   },
   {
     id: "lesotho-sani-pass-border-economic-v2",
@@ -248,6 +255,7 @@ export const lesothoEconomicV2: POI[] = [
       ro: ["Altitudine: 2.874 de metri deasupra nivelului mării.", "Construit în 1950.", "Lungimea pasului: 33 de kilometri.", "Număr de viraje în ac de păr: peste 60.", "Trafic zilnic: aproximativ 200 de vehicule.", "Număr de turiști: peste 50.000 pe an."],
       en: ["Altitude: 2,874 meters above sea level.", "Built in 1950.", "Pass length: 33 kilometers.", "Number of hairpin turns: over 60.", "Daily traffic: about 200 vehicles.", "Tourist numbers: over 50,000 per year."],
     },
+    image: "/poi-images/lesotho-sani-pass-border-economic-v2.webp",
   },
   {
     id: "lesotho-caledonspoort-gate-economic-v2",
@@ -279,6 +287,7 @@ export const lesothoEconomicV2: POI[] = [
       ro: ["Construit în anii 1960.", "Medie de 100 de vehicule pe zi.", "Distanță până la Butha-Buthe: 15 km.", "Altitudine: 1.800 de metri.", "Capacitate pentru 50 de camioane pe zi.", "Volum comercial anual: 10 milioane USD."],
       en: ["Built in the 1960s.", "Average 100 vehicles per day.", "Distance to Butha-Buthe: 15 km.", "Altitude: 1,800 meters.", "Capacity for 50 trucks per day.", "Annual trade volume: USD 10 million."],
     },
+    image: "/poi-images/lesotho-caledonspoort-gate-economic-v2.webp",
   },
   {
     id: "lesotho-van-rooyens-gate-economic-v2",
@@ -310,6 +319,7 @@ export const lesothoEconomicV2: POI[] = [
       ro: ["Construit în anii 1950.", "Medie de 50 de vehicule pe zi.", "Distanță până la Quthing: 20 km.", "Altitudine: 1.900 de metri.", "Capacitate pentru 20 de camioane pe zi.", "Volum comercial anual: 5 milioane USD."],
       en: ["Built in the 1950s.", "Average 50 vehicles per day.", "Distance to Quthing: 20 km.", "Altitude: 1,900 meters.", "Capacity for 20 trucks per day.", "Annual trade volume: USD 5 million."],
     },
+    image: "/poi-images/lesotho-van-rooyens-gate-economic-v2.webp",
   },
   {
     id: "lesotho-ramatselisos-gate-economic-v2",
@@ -341,6 +351,7 @@ export const lesothoEconomicV2: POI[] = [
       ro: ["Construit în anii 1970.", "Medie de 80 de vehicule pe zi.", "Distanță până la Qacha's Nek: 10 km.", "Altitudine: 1.600 de metri.", "Capacitate pentru 30 de camioane pe zi.", "Volum comercial anual: 8 milioane USD."],
       en: ["Built in the 1970s.", "Average 80 vehicles per day.", "Distance to Qacha's Nek: 10 km.", "Altitude: 1,600 meters.", "Capacity for 30 trucks per day.", "Annual trade volume: USD 8 million."],
     },
+    image: "/poi-images/lesotho-ramatselisos-gate-economic-v2.webp",
   },
   {
     id: "lesotho-sepapus-gate-economic-v2",
@@ -372,6 +383,7 @@ export const lesothoEconomicV2: POI[] = [
       ro: ["Construit în anii 1980.", "Medie de 60 de vehicule pe zi.", "Distanță până la Mafeteng: 12 km.", "Altitudine: 1.700 de metri.", "Capacitate pentru 25 de camioane pe zi.", "Volum comercial anual: 6 milioane USD."],
       en: ["Built in the 1980s.", "Average 60 vehicles per day.", "Distance to Mafeteng: 12 km.", "Altitude: 1,700 meters.", "Capacity for 25 trucks per day.", "Annual trade volume: USD 6 million."],
     },
+    image: "/poi-images/lesotho-sepapus-gate-economic-v2.webp",
   },
   {
     id: "lesotho-ha-nyenye-estate-economic-v2",
@@ -403,6 +415,7 @@ export const lesothoEconomicV2: POI[] = [
       ro: ["Dezvoltat în anii 2000.", "Suprafața terenului: 10 hectare.", "Număr de unități locative: 150.", "Preț mediu pe metru pătrat: 1.500 USD.", "Angajați în comerț: aproximativ 500.", "Volumul investițiilor: 20 milioane USD."],
       en: ["Developed in the 2000s.", "Land area: 10 hectares.", "Number of residential units: 150.", "Average price per square meter: USD 1,500.", "Commercial employees: about 500.", "Investment volume: USD 20 million."],
     },
+    image: "/poi-images/lesotho-ha-nyenye-estate-economic-v2.webp",
   },
   {
     id: "lesotho-polihali-reservoir-economic-v2",
@@ -434,6 +447,7 @@ export const lesothoEconomicV2: POI[] = [
       ro: ["Construcția a început în 2017, finalizare prevăzută în 2025.", "Înălțimea barajului: 145 de metri.", "Capacitate de stocare: 2,3 miliarde de metri cubi.", "Livrare anuală de apă: 2.022 milioane de metri cubi.", "Costuri de construcție: 1,2 miliarde USD.", "Capacitate de generare electrică: 40 MW."],
       en: ["Construction started in 2017, completion expected 2025.", "Dam height: 145 meters.", "Storage capacity: 2.3 billion cubic meters.", "Annual water delivery: 2,022 million cubic meters.", "Construction cost: USD 1.2 billion.", "Power generation capacity: 40 MW."],
     },
+    image: "/poi-images/lesotho-polihali-reservoir-economic-v2.webp",
   },
   {
     id: "lesotho-loti-brick-economic-v2",
@@ -465,6 +479,7 @@ export const lesothoEconomicV2: POI[] = [
       ro: ["Fondată în 1995.", "Producție anuală: 10 milioane de cărămizi.", "Număr de angajați: 200.", "Venit anual: 5 milioane USD.", "Ponderea exporturilor: 20% din venituri.", "Consum de energie: 5 kWh la 1.000 de cărămizi."],
       en: ["Founded in 1995.", "Annual production: 10 million bricks.", "Number of employees: 200.", "Annual revenue: USD 5 million.", "Export share: 20% of revenue.", "Energy consumption: 5 kWh per 1,000 bricks."],
     },
+    image: "/poi-images/lesotho-loti-brick-economic-v2.webp",
   },
   {
     id: "lesotho-ngoajane-bridge-economic-v2",
@@ -496,6 +511,7 @@ export const lesothoEconomicV2: POI[] = [
       ro: ["Lungime: 150 de metri.", "Lățime: 10 metri.", "Inaugurare: 2015.", "Costuri de construcție: 8 milioane USD.", "Finanțat prin ajutor chinez.", "Vehicule zilnice: aproximativ 500."],
       en: ["Length: 150 meters.", "Width: 10 meters.", "Opened: 2015.", "Construction cost: USD 8 million.", "Financed by Chinese aid.", "Daily vehicles: about 500."],
     },
+    image: "/poi-images/lesotho-ngoajane-bridge-economic-v2.webp",
   },
   {
     id: "lesotho-maluti-brewery-economic-v2",
@@ -527,6 +543,7 @@ export const lesothoEconomicV2: POI[] = [
       ro: ["Fondată în 1999.", "Capacitate anuală: 500.000 de hectolitri.", "Număr de mărci de bere: 5.", "Angajați: 300.", "Venit anual: 30 milioane USD.", "Export în 3 țări."],
       en: ["Founded in 1999.", "Annual capacity: 500,000 hectoliters.", "Number of beer brands: 5.", "Employees: 300.", "Annual revenue: USD 30 million.", "Exports to 3 countries."],
     },
+    image: "/poi-images/lesotho-maluti-brewery-economic-v2.webp",
   },
   {
     id: "lesotho-moshoeshoe-airport-economic-v2",
@@ -558,6 +575,7 @@ export const lesothoEconomicV2: POI[] = [
       ro: ["Deschis în 1985.", "Lungimea pistei: 3.200 de metri.", "Capacitate de pasageri: 500.000 pe an.", "Trafic anual de zboruri: 10.000 de zboruri.", "Număr de companii aeriene: 3.", "Renovarea terminalului: 2019."],
       en: ["Opened in 1985.", "Runway length: 3,200 meters.", "Passenger capacity: 500,000 per year.", "Annual flight traffic: 10,000 flights.", "Number of airlines: 3.", "Terminal renovation: 2019."],
     },
+    image: "/poi-images/lesotho-moshoeshoe-airport-economic-v2.webp",
   },
   {
     id: "lesotho-national-abattoir-economic-v2",
@@ -589,6 +607,7 @@ export const lesothoEconomicV2: POI[] = [
       ro: ["Localizat în capitala Maseru", "Cel mai important abator din țară", "Procesează în principal bovine și ovine", "Respectă normele internaționale sanitare", "Sprijină sectorul cărnii din anul 1985", "Parte a strategiei agricole de stat"],
       en: ["Located in the capital city, Maseru", "Most important abattoir in the country", "Primarily processes cattle and sheep", "Complies with international health standards", "Has supported the meat sector since 1985", "Part of the national agricultural strategy"],
     },
+    image: "/poi-images/lesotho-national-abattoir-economic-v2.webp",
   },
   {
     id: "lesotho-ha-rambanta-solar-economic-v2",
@@ -620,6 +639,7 @@ export const lesothoEconomicV2: POI[] = [
       ro: ["Situat în districtul Mafeteng", "Parte a inițiativei solare de 20 MW", "Reduce emisiile de CO2 în Lesotho", "Utilizează tehnologie fotovoltaică modernă", "Finanțat prin investiții internaționale", "Crește independența energetică națională"],
       en: ["Located in the Mafeteng district", "Part of a 20 MW solar initiative", "Reduces carbon emissions in Lesotho", "Utilizes modern photovoltaic technology", "Developed through international investment", "Increases national energy self-sufficiency"],
     },
+    image: "/poi-images/lesotho-ha-rambanta-solar-economic-v2.webp",
   },
   {
     id: "lesotho-monontsa-pass-economic-v2",
@@ -651,6 +671,7 @@ export const lesothoEconomicV2: POI[] = [
       ro: ["Altitudine: 3.050 m deasupra nivelului mării", "Lungimea drumului de trecere: 47 km", "Anul construirii: 1974", "Panta maximă: 14%", "Trafic anual de camioane: aprox. 1.200", "Grosimea medie a zăpezii iarna: 0,8 m"],
       en: ["Elevation: 3,050 meters above sea level", "Pass road length: 47 km", "Year built: 1974", "Maximum gradient: 14%", "Annual truck traffic: approx. 1,200", "Average winter snow depth: 0.8 meters"],
     },
+    image: "/poi-images/lesotho-monontsa-pass-economic-v2.webp",
   },
   {
     id: "lesotho-ongeluksnek-pass-economic-v2",
@@ -682,6 +703,7 @@ export const lesothoEconomicV2: POI[] = [
       ro: ["Altitudine: 2.740 m", "Lungimea drumului: 32 km", "Anul construirii: 1956", "Trafic zilnic mediu: 150 vehicule", "Procent asfaltat: 40% (din 2018)", "Număr anual de camioane care traversează frontiera: aprox. 3.000"],
       en: ["Elevation: 2,740 meters", "Road length: 32 km", "Year built: 1956", "Average daily traffic: 150 vehicles", "Paved portion: 40% (since 2018)", "Annual border crossings by trucks: approx. 3,000"],
     },
+    image: "/poi-images/lesotho-ongeluksnek-pass-economic-v2.webp",
   },
   {
     id: "lesotho-bushmans-nek-economic-v2",
@@ -713,6 +735,7 @@ export const lesothoEconomicV2: POI[] = [
       ro: ["Altitudine: 2.600 m", "Lungimea drumului: 28 km", "Anul construirii: 1950", "Mișcări anuale de animale: 4.000 capete", "Număr anual de turiști: 2.500 (2019)", "Distanța până la cel mai apropiat punct de frontieră: 5 km"],
       en: ["Elevation: 2,600 meters", "Road length: 28 km", "Year built: 1950", "Annual livestock movements: 4,000 head", "Annual tourists: 2,500 (2019)", "Distance to nearest border post: 5 km"],
     },
+    image: "/poi-images/lesotho-bushmans-nek-economic-v2.webp",
   },
   {
     id: "lesotho-namahali-pass-economic-v2",
@@ -744,6 +767,7 @@ export const lesothoEconomicV2: POI[] = [
       ro: ["Altitudine: 2.850 m", "Lungimea drumului: 35 km", "Anul construirii: 1964", "Grosimea maximă a zăpezii iarna: 1,2 m", "Transport anual de mărfuri: 8.000 tone", "Temperatura medie în ianuarie: 12 °C"],
       en: ["Elevation: 2,850 meters", "Road length: 35 km", "Year built: 1964", "Maximum winter snow depth: 1.2 meters", "Annual freight traffic: 8,000 tons", "Average temperature in January: 12 °C"],
     },
+    image: "/poi-images/lesotho-namahali-pass-economic-v2.webp",
   },
   {
     id: "lesotho-matebeng-pass-economic-v2",
@@ -775,6 +799,7 @@ export const lesothoEconomicV2: POI[] = [
       ro: ["Altitudine: 2.400 m", "Lungimea drumului: 25 km", "Anul construirii: 1960", "Precipitații medii anuale: 800 mm", "Număr de gospodării în zona de influență: 1.200", "Temperatura maximă înregistrată: 32 °C"],
       en: ["Elevation: 2,400 meters", "Road length: 25 km", "Year built: 1960", "Average annual rainfall: 800 mm", "Households in the catchment area: 1,200", "Highest recorded temperature: 32 °C"],
     },
+    image: "/poi-images/lesotho-matebeng-pass-economic-v2.webp",
   },
   {
     id: "lesotho-khabane-mine-economic-v2",
@@ -806,6 +831,7 @@ export const lesothoEconomicV2: POI[] = [
       ro: ["Anul deschiderii: 2011", "Producție anuală: 50.000 de carate", "Număr de angajați: 500", "Suprafața corpului de kimberlit: 12 hectare", "Costuri de investiție: 120 milioane USD", "Valoarea medie a diamantelor: 200 USD/carat"],
       en: ["Year opened: 2011", "Annual production: 50,000 carats", "Number of employees: 500", "Kimberlite pipe area: 12 hectares", "Investment cost: $120 million", "Average diamond value: $200 per carat"],
     },
+    image: "/poi-images/lesotho-khabane-mine-economic-v2.webp",
   },
   {
     id: "lesotho-lemphane-mine-economic-v2",
@@ -837,6 +863,7 @@ export const lesothoEconomicV2: POI[] = [
       ro: ["Începerea exploatării: 2012", "Producție anuală: 40.000 de carate", "Număr de angajați: 400", "Suprafața zăcământului: 15 hectare", "Mărimea medie a diamantelor: 1,2 carate", "Suma investiției: 90 milioane USD"],
       en: ["Start of operations: 2012", "Annual production: 40,000 carats", "Number of employees: 400", "Deposit area: 15 hectares", "Average diamond size: 1.2 carats", "Investment amount: $90 million"],
     },
+    image: "/poi-images/lesotho-lemphane-mine-economic-v2.webp",
   },
   {
     id: "lesotho-ha-tsilo-farm-economic-v2",
@@ -868,6 +895,7 @@ export const lesothoEconomicV2: POI[] = [
       ro: ["Suprafață cultivată: 500 de hectare", "Culturi: porumb, grâu, legume", "Număr de muncitori sezonieri: 100", "Suprafață irigată: 200 de hectare", "Producție anuală de cereale: 1.500 de tone", "Efectiv de animale: 300 de bovine"],
       en: ["Farm area: 500 hectares", "Crops: maize, wheat, vegetables", "Seasonal workers: 100", "Irrigated area: 200 hectares", "Annual grain production: 1,500 tons", "Livestock: 300 cattle"],
     },
+    image: "/poi-images/lesotho-ha-tsilo-farm-economic-v2.webp",
   },
   {
     id: "lesotho-borata-industrial-economic-v2",
@@ -899,6 +927,7 @@ export const lesothoEconomicV2: POI[] = [
       ro: ["Anul înființării: 2005", "Suprafață: 50 de hectare", "Număr de fabrici: 15", "Angajați: 2.000", "Valoarea exporturilor anuale: 30 milioane USD", "Scutire de impozit: 5 ani"],
       en: ["Year established: 2005", "Area: 50 hectares", "Number of factories: 15", "Employees: 2,000", "Annual export value: $30 million", "Tax exemption: 5 years"],
     },
+    image: "/poi-images/lesotho-borata-industrial-economic-v2.webp",
   },
   {
     id: "lesotho-ha-soai-hydropower-economic-v2",
@@ -930,5 +959,6 @@ export const lesothoEconomicV2: POI[] = [
       ro: ["Punerea în funcțiune: 2018", "Putere: 5 MW", "Gospodării alimentate: 10.000", "Cost de construcție: 15 milioane USD", "Cădere de apă: 120 m", "Producție anuală de energie electrică: 35 GWh"],
       en: ["Commissioning: 2018", "Capacity: 5 MW", "Households served: 10,000", "Construction cost: $15 million", "Water head: 120 m", "Annual generation: 35 GWh"],
     },
+    image: "/poi-images/lesotho-ha-soai-hydropower-economic-v2.webp",
   }
 ];

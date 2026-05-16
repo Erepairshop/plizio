@@ -31,6 +31,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["populație: 26.000 (2017)", "suprafață: 17,6 km²", "anul fondării: 1818", "port: 3 danuri", "distanța până la aeroport: 5 km", "precipitații anuale: 1700 mm"],
       en: ["population: 26,000 (2017)", "area: 17.6 km²", "founded: 1818", "harbour depth: 10 m", "annual rainfall: 1,700 mm", "number of cruise ships per year: 200"],
     },
+    image: "/poi-images/frenchpolynesia-papeete-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-faaa-cities-v2",
@@ -62,6 +63,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["populație: 29.000 (2017)", "suprafață: 34 km²", "aeroport: Tahiti-Faaa (PPT)", "capacitate stadion: 11.700", "distanță față de Papeete: 3 km", "altitudine medie: 5 m"],
       en: ["population: 29,000 (2017)", "area: 34 km²", "airport passengers: 1.2 million/year", "stadium capacity: 11,700", "distance from Papeete: 3 km", "number of hotels: 15"],
     },
+    image: "/poi-images/frenchpolynesia-faaa-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-punaauia-cities-v2",
@@ -93,6 +95,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["populație: 28.000 (2017)", "suprafață: 76 km²", "plaje cu nisip negru: 3", "muzeu: Muzeul Tahiti", "distanță de Papeete: 10 km", "număr de hoteluri: 12"],
       en: ["population: 28,000 (2017)", "area: 76 km²", "length of coastline: 5 km", "museum exhibits: 30,000", "distance from Papeete: 10 km", "surf breaks: 3"],
     },
+    image: "/poi-images/frenchpolynesia-punaauia-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-pirae-cities-v2",
@@ -124,6 +127,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["populație: 14.000 (2017)", "suprafață: 35 km²", "universitate: înființată în 1999", "spital: 250 de paturi", "port de agrement: Marina Taina", "distanță față de Papeete: 2 km"],
       en: ["population: 14,000 (2017)", "area: 35 km²", "university founded: 1999", "hospital beds: 250", "marina capacity: 200 yachts", "distance from Papeete: 2 km"],
     },
+    image: "/poi-images/frenchpolynesia-pirae-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-mahina-cities-v2",
@@ -155,6 +159,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["populație: 14.000 (2017)", "suprafață: 51 km²", "farul Pointe Vénus: construit în 1867", "observația lui Cook: 1769", "Fort Taravao: 1844", "altitudine maximă: 2066 m"],
       en: ["population: 14,000 (2017)", "area: 51 km²", "lighthouse built: 1867", "Cook observation: 1769", "fort built: 1844", "highest elevation: 2,066 m (Mount Aorai)"],
     },
+    image: "/poi-images/frenchpolynesia-mahina-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-paea-cities-v2",
@@ -186,6 +191,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["populație: 12.000 (2017)", "suprafață: 64 km²", "înălțimea valului Teahupoo: 7 m", "competiție de surf: anuală", "producție vanilie: 5 tone/an", "lungime coastă: 15 km"],
       en: ["population: 12,000 (2017)", "area: 64 km²", "Teahupoo wave height: up to 7 m", "surf contest since: 2000", "vanilla production: 5 tons/year", "coastline length: 15 km"],
     },
+    image: "/poi-images/frenchpolynesia-paea-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-papara-cities-v2",
@@ -217,6 +223,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["populație: 11.000 (2017)", "suprafață: 93 km²", "Marae Arahurahu: restaurat în 1950", "producție copra: 200 tone/an", "lungime lagună: 10 km", "râu Papara: 8 km"],
       en: ["population: 11,000 (2017)", "area: 93 km²", "Marae Arahurahu restored: 1950", "copra production: 200 tons/year", "lagoon length: 10 km", "river length: 8 km"],
     },
+    image: "/poi-images/frenchpolynesia-papara-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-arue-cities-v2",
@@ -248,6 +255,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["populație: 9.000 (2017)", "suprafață: 21 km²", "hotel: InterContinental, 230 de camere", "port istoric: vânătoare de balene", "Muntele Fareura: 350 m", "distanță față de Papeete: 5 km"],
       en: ["population: 9,000 (2017)", "area: 21 km²", "hotel rooms: 230", "whaling port: 19th century", "Mount Fareura: 350 m", "distance from Papeete: 5 km"],
     },
+    image: "/poi-images/frenchpolynesia-arue-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-taravao-cities-v2",
@@ -279,6 +287,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["populație: 4.000 (2017)", "suprafață: 16 km²", "feribot Moorea: 30 minute", "grădină botanică: 3 ha", "far: 25 m", "distanță Papeete: 60 km"],
       en: ["population: 4,000 (2017)", "area: 16 km²", "ferry to Moorea: 30 min", "botanical garden: 3 ha", "lighthouse height: 25 m", "distance from Papeete: 60 km"],
     },
+    image: "/poi-images/frenchpolynesia-taravao-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-afareaitu-cities-v2",
@@ -310,6 +319,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["populație: 3.000 (2017)", "suprafață: 14 km²", "feribot Papeete: 30 minute", "producție ananas: 500 tone/an", "golful Opunohu: 2 km", "piață deschisă zilnic"],
       en: ["population: 3,000 (2017)", "area: 14 km²", "ferry to Papeete: 30 min", "pineapple production: 500 tons/year", "Opunohu Bay length: 2 km", "market: daily"],
     },
+    image: "/poi-images/frenchpolynesia-afareaitu-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-vaitape-cities-v2",
@@ -341,6 +351,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["populație: 5.000 (2017)", "suprafață: 15 km²", "aeroport: Bora Bora (BOB)", "nave de croazieră: 100/an", "suprafața lagunei: 40 km²", "Muntele Otemanu: 727 m"],
       en: ["population: 5,000 (2017)", "area: 15 km²", "airport code: BOB", "cruise ships per year: 100", "lagoon area: 40 km²", "Mount Otemanu: 727 m"],
     },
+    image: "/poi-images/frenchpolynesia-vaitape-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-uturoa-cities-v2",
@@ -372,6 +383,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["populație: 4.000 (2017)", "suprafață: 16 km²", "aeroport: Raiatea (RFP)", "producție vanilie: 10 tone/an", "Marae Taputapuatea: UNESCO din 2017", "adâncime port: 10 m"],
       en: ["population: 4,000 (2017)", "area: 16 km²", "airport code: RFP", "vanilla production: 10 tons/year", "Marae Taputapuatea: UNESCO 2017", "harbor depth: 10 m"],
     },
+    image: "/poi-images/frenchpolynesia-uturoa-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-fare-cities-v2",
@@ -403,6 +415,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["populație: 1.500 (2017)", "suprafață: 20 km²", "aeroport: Huahine (HUH)", "producție pepene: 100 tone/an", "situri arheologice: 10 marae", "suprafața lagunei: 30 km²"],
       en: ["population: 1,500 (2017)", "area: 20 km²", "airport code: HUH", "watermelon production: 100 tons/year", "archaeological sites: 10 marae", "lagoon area: 30 km²"],
     },
+    image: "/poi-images/frenchpolynesia-fare-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-taiohae-cities-v2",
@@ -434,6 +447,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["populație: 2.500 (2017)", "suprafață: 30 km²", "aeroport: Nuku Hiva (NHV)", "producție copra: 50 tone/an", "catedrală: construită în 1977", "număr cascade: 3"],
       en: ["population: 2,500 (2017)", "area: 30 km²", "airport code: NHV", "copra production: 50 tons/year", "cathedral built: 1977", "waterfalls: 3"],
     },
+    image: "/poi-images/frenchpolynesia-taiohae-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-atuona-cities-v2",
@@ -465,6 +479,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["populație: 2.000 (2017)", "suprafață: 25 km²", "aeroport: Hiva Oa (HIX)", "mormântul Gauguin: 1903", "producție copra: 30 tone/an", "statui tiki: 5"],
       en: ["population: 2,000 (2017)", "area: 25 km²", "airport code: HIX", "Gauguin's grave: since 1903", "copra production: 30 tons/year", "tiki statues: 5"],
     },
+    image: "/poi-images/frenchpolynesia-atuona-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-rikitea-cities-v2",
@@ -496,6 +511,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Populație: 511 locuitori (recensământ 2017)", "Suprafața insulei Mangareva: 15,4 km²", "Anul construirii bisericii Sf. Michel: 1839", "Altitudinea maximă: Mont Duff, 441 m", "Distanța până la Tahiti: 1.650 km", "Numărul de școli primare: 1"],
       en: ["Population: 511 (2017 census)", "Land area of Rikitea commune: 31 km²", "St. Michael's Cathedral built: 1839", "Average annual rainfall: 2,500 mm", "Lagoon surface area: 450 km²", "Number of pearl farms: approximately 20"],
     },
+    image: "/poi-images/frenchpolynesia-rikitea-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-avatoru-cities-v2",
@@ -527,6 +543,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Populație: 1.447 locuitori (2017)", "Suprafața uscată a atolului: 79 km²", "Adâncimea maximă a lagunei: 35 m", "Numărul de pasaje: 2 (Tiputa și Avatoru)", "Anul deschiderii aeroportului: 1965", "Distanța până la Tahiti: 350 km"],
       en: ["Population: 1,447 (2017 census)", "Land area of Rangiroa: 79 km²", "Lagoon area: 1,446 km²", "Number of pearl farms: over 30", "Average water depth in lagoon: 25 m", "Distance from Tahiti: 350 km"],
     },
+    image: "/poi-images/frenchpolynesia-avatoru-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-rotoava-cities-v2",
@@ -558,6 +575,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Populație: 461 locuitori (2017)", "Suprafața uscată a atolului: 20 km²", "Adâncimea maximă a lagunei: 30 m", "Numărul de pasaje: 2 (Garuai și Tumakohua)", "Anul înființării aeroportului: 1980", "Distanța până la Tahiti: 450 km"],
       en: ["Population: 461 (2017 census)", "Land area of Fakarava: 20 km²", "Lagoon area: 1,112 km²", "UNESCO designation year: 2017", "Average visibility for diving: 30 m", "Number of pearl farms: approximately 15"],
     },
+    image: "/poi-images/frenchpolynesia-rotoava-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-mataura-cities-v2",
@@ -589,6 +607,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Populație: 483 locuitori (2017)", "Suprafața insulei Tubuai: 45 km²", "Altitudinea maximă: 422 m", "Anul construirii bisericii: 1842", "Distanța până la Tahiti: 640 km", "Numărul de școli: 1"],
       en: ["Population: 483 (2017 census)", "Land area of Tubuai: 45 km²", "Highest point: Mont Taita, 422 m", "Church built: 1842", "Distance from Tahiti: 640 km", "Average annual rainfall: 2,000 mm"],
     },
+    image: "/poi-images/frenchpolynesia-mataura-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-moerai-cities-v2",
@@ -620,6 +639,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Populație: 477 locuitori (2017)", "Suprafața insulei Rurutu: 36 km²", "Altitudinea maximă: 389 m", "Anul construirii bisericii: 1876", "Distanța până la Tahiti: 570 km", "Numărul de peșteri principale: 3"],
       en: ["Population: 477 (2017 census)", "Land area of Rurutu: 36 km²", "Highest point: 389 m", "Church built: 1876", "Distance from Tahiti: 570 km", "Number of recognized caves: 5"],
     },
+    image: "/poi-images/frenchpolynesia-moerai-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-ahurei-cities-v2",
@@ -651,6 +671,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Populație: 492 locuitori (2017)", "Suprafața insulei Raivavae: 16 km²", "Altitudinea maximă: 437 m", "Anul construirii bisericii: 1850", "Distanța până la Tahiti: 740 km", "Numărul de statui de piatră: 4"],
       en: ["Population: 492 (2017 census)", "Land area of Raivavae: 16 km²", "Highest point: 437 m", "Church built: 1850", "Distance from Tahiti: 740 km", "Number of archaeological sites: 6"],
     },
+    image: "/poi-images/frenchpolynesia-ahurei-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-hakahau-cities-v2",
@@ -682,6 +703,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Populație: 517 locuitori (2017)", "Suprafața insulei Ua Pou: 105 km²", "Altitudinea maximă: 1.232 m", "Anul construirii bisericii: 1856", "Distanța până la Tahiti: 1.400 km", "Numărul de situri arheologice: 10"],
       en: ["Population: 517 (2017 census)", "Land area of Ua Pou: 105 km²", "Highest point: Mont Oave, 1,232 m", "Church built: 1856", "Distance from Tahiti: 1,400 km", "Number of recorded tiki statues: 15"],
     },
+    image: "/poi-images/frenchpolynesia-hakahau-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-patio-cities-v2",
@@ -713,6 +735,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Populație: 496 locuitori (2017)", "Suprafața insulei Hiva Oa: 320 km²", "Altitudinea maximă: 1.213 m", "Anul construirii bisericii: 1845", "Distanța până la Tahiti: 1.500 km", "Numărul de tiki mari: 5"],
       en: ["Population: 496 (2017 census)", "Land area of Hiva Oa: 320 km²", "Highest point: Mount Temetiu, 1,213 m", "Church built: 1845", "Distance from Tahiti: 1,500 km", "Number of major archaeological sites: 4"],
     },
+    image: "/poi-images/frenchpolynesia-patio-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-mataiea-cities-v2",
@@ -744,6 +767,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Populație: 1.054 locuitori (2017)", "Suprafața localității: 12 km²", "Anul construirii bisericii: 1850", "Distanța până la Papeete: 45 km", "Numărul de plaje: 3", "Altitudinea maximă în zonă: 800 m"],
       en: ["Population: 1,054 (2017 census)", "Land area: 12 km²", "St. Michel church built: 1850", "Distance from Papeete: 45 km", "Number of black sand beaches: 3", "Average annual temperature: 27°C"],
     },
+    image: "/poi-images/frenchpolynesia-mataiea-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-papeari-cities-v2",
@@ -775,6 +799,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Populație: 987 locuitori (2017)", "Anul deschiderii muzeului: 1965", "Suprafața grădinii botanice: 2 ha", "Anul construirii bisericii: 1870", "Distanța până la Papeete: 50 km", "Numărul de specii de plante în grădină: 500"],
       en: ["Population: 987 (2017 census)", "Paul Gauguin Museum opened: 1965", "Botanical garden area: 2 hectares", "Church built: 1870", "Distance from Papeete: 50 km", "Number of waterfall sites: 4"],
     },
+    image: "/poi-images/frenchpolynesia-papeari-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-hitiaa-cities-v2",
@@ -806,6 +831,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Populație: 512 locuitori (2017)", "Suprafața comunei: 10 km²", "Anul construirii bisericii: 1860", "Distanța până la Papeete: 60 km", "Numărul de plaje: 2", "Altitudinea maximă: 600 m"],
       en: ["Population: 512 (2017 census)", "Land area: 10 km²", "Church built: 1860", "Distance from Papeete: 60 km", "Number of beaches: 2", "Annual rainfall: 3,000 mm"],
     },
+    image: "/poi-images/frenchpolynesia-hitiaa-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-papenoo-cities-v2",
@@ -837,6 +863,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Populație: 1.478 locuitori (2017)", "Altitudinea maximă: 2.241 m", "Lungimea râului Papenoo: 20 km", "Anul construirii bisericii: 1855", "Distanța până la Papeete: 40 km", "Numărul de trasee de drumeție: 3"],
       en: ["Population: 1,478 (2017 census)", "Mount Orohena elevation: 2,241 m", "Papenoo River length: 20 km", "Church built: 1855", "Distance from Papeete: 40 km", "Number of rafting companies: 2"],
     },
+    image: "/poi-images/frenchpolynesia-papenoo-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-tiarei-cities-v2",
@@ -868,6 +895,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Populație: 1.032 locuitori (2017)", "Suprafața comunei: 14 km²", "Anul construirii bisericii: 1875", "Distanța până la Papeete: 55 km", "Numărul de golfuri: 3", "Altitudinea medie: 100 m"],
       en: ["Population: 1,032 (2017 census)", "Land area: 14 km²", "Church built: 1875", "Distance from Papeete: 55 km", "Number of bays: 3", "Annual banana production: 300 tons"],
     },
+    image: "/poi-images/frenchpolynesia-tiarei-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-mahaena-cities-v2",
@@ -899,6 +927,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Populație: 482 locuitori (2017)", "Suprafața localității: 8 km²", "Anul construirii bisericii: 1880", "Producția anuală de vanilie: 2 tone", "Distanța până la Papeete: 65 km", "Numărul de plaje: 2"],
       en: ["Population: 482 (2017 census)", "Land area: 8 km²", "Church built: 1880", "Annual vanilla production: 2 tons", "Distance from Papeete: 65 km", "Number of beaches: 2"],
     },
+    image: "/poi-images/frenchpolynesia-mahaena-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-vairao-cities-v2",
@@ -930,6 +959,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Populație: 1.045 locuitori (2017)", "Suprafața comunei: 12 km²", "Anul construirii bisericii: 1852", "Distanța până la Papeete: 70 km", "Lungimea golfului: 1,5 km", "Numărul de debarcadere: 2"],
       en: ["Population: 1,045 (2017 census)", "Land area: 12 km²", "Church built: 1852", "Distance from Papeete: 70 km", "Bay length: 1.5 km", "Number of yacht moorings: 20"],
     },
+    image: "/poi-images/frenchpolynesia-vairao-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-teahupoo-cities-v2",
@@ -961,6 +991,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Populație: 483 locuitori (2017)", "Înălțimea valului: până la 7 m", "Anul construirii bisericii: 1860", "Prima competiție Billabong Pro: 1998", "Adâncimea apei la break: 1 m", "Distanța până la Papeete: 80 km"],
       en: ["Population: 483 (2017 census)", "Wave height: up to 7 m", "Church built: 1860", "Billabong Pro started: 1998", "Water depth at break: 1 m", "Distance from Papeete: 80 km"],
     },
+    image: "/poi-images/frenchpolynesia-teahupoo-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-toahotu-cities-v2",
@@ -992,6 +1023,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Populație: 487 locuitori (2017)", "Suprafața localității: 9 km²", "Anul construirii bisericii: 1870", "Producția anuală de vanilie: 1,5 tone", "Distanța până la Papeete: 75 km", "Numărul de plaje: 2"],
       en: ["Population: 487 (2017 census)", "Land area: 9 km²", "Church built: 1870", "Annual vanilla production: 1.5 tons", "Distance from Papeete: 75 km", "Number of schools: 1"],
     },
+    image: "/poi-images/frenchpolynesia-toahotu-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-afaahiti-cities-v2",
@@ -1023,6 +1055,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Populație: 1.021 locuitori (2017)", "Suprafața comunei: 11 km²", "Anul construirii bisericii: 1865", "Lungimea golfului: 2 km", "Distanța până la Papeete: 72 km", "Numărul de școli: 1"],
       en: ["Population: 1,021 (2017 census)", "Land area: 11 km²", "Church built: 1865", "Bay length: 2 km", "Distance from Papeete: 72 km", "Number of piers: 2"],
     },
+    image: "/poi-images/frenchpolynesia-afaahiti-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-pueu-cities-v2",
@@ -1054,6 +1087,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Populație: 812 locuitori (2017)", "Suprafața comunei: 10 km²", "Anul construirii bisericii: 1872", "Lungimea plajelor: 3 km", "Distanța până la Papeete: 68 km", "Numărul de trasee de drumeție: 2"],
       en: ["Population: 812 (2017 census)", "Land area: 10 km²", "Church built: 1872", "Beach length: 3 km", "Distance from Papeete: 68 km", "Number of snorkeling spots: 3"],
     },
+    image: "/poi-images/frenchpolynesia-pueu-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-tautira-cities-v2",
@@ -1085,6 +1119,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Populație: 796 locuitori (2017)", "Suprafața comunei: 12 km²", "Anul construirii bisericii: 1858", "Lungimea golfului: 2,5 km", "Distanța până la Papeete: 75 km", "Numărul de cascade: 3"],
       en: ["Population: 796 (2017 census)", "Land area: 12 km²", "Church built: 1858", "Bay length: 2.5 km", "Distance from Papeete: 75 km", "Number of waterfalls: 3"],
     },
+    image: "/poi-images/frenchpolynesia-tautira-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-paopao-cities-v2",
@@ -1116,6 +1151,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Golful are aproximativ 2,5 km adâncime și 1 km lățime.", "James Cook a vizitat golful în 1769, în prima sa călătorie în Pacificul de Sud.", "Cel mai înalt vârf din apropiere este Mont Tohivea, cu 1207 m.", "Producția de ananas pe Moorea este de aproximativ 4.000 de tone anual.", "Temperatura apei în lagună variază între 24°C și 28°C.", "Satul Paopao are aproximativ 1.500 de locuitori permanenți."],
       en: ["The bay is about 2.5 km deep and 1 km wide.", "James Cook visited the bay in 1769 during his first South Seas voyage.", "The highest nearby peak is Mont Tohivea at 1207 m.", "Pineapple production on Moorea is around 4,000 tons annually.", "Lagoon water temperature ranges between 24°C and 28°C.", "Paopao village has approximately 1,500 permanent residents."],
     },
+    image: "/poi-images/frenchpolynesia-paopao-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-papetoai-cities-v2",
@@ -1147,6 +1183,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Marae Papetoai a fost construit în anul 1750.", "Golful Papetoai are o suprafață de aproximativ 3 km².", "Adâncimea medie a lagunei este de 5 metri.", "Papetoai are 823 de locuitori (recensământ 2017).", "Producția de nuci de cocos pe Moorea este de 1.200 de tone anual.", "Temperatura apei este constantă de 26°C pe tot parcursul anului."],
       en: ["The Marae Papetoai was built in 1750.", "Papetoai Bay covers an area of about 3 km².", "The average depth of the lagoon is 5 meters.", "Papetoai has 823 inhabitants (2017 census).", "Coconut production on Moorea is 1,200 tons annually.", "Water temperature is a constant 26°C year-round."],
     },
+    image: "/poi-images/frenchpolynesia-papetoai-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-haapiti-cities-v2",
@@ -1178,6 +1215,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Mont Tohivea este cel mai înalt punct al Moorea, cu 1207 m.", "Coasta Haapiti are o lungime de aproximativ 8 km.", "Plajele cu nisip negru sunt formate din nisip bazaltic.", "Biserica protestantă din Haapiti a fost construită în 1842.", "Producția de vanilie pe Moorea este de 2 tone anual.", "Populația este de 2.042 de locuitori (recensământ 2017)."],
       en: ["Mont Tohivea is the highest point on Moorea at 1207 m.", "Haapiti's coastline is about 8 km long.", "The black sand beaches are composed of basaltic sand.", "The Protestant church of Haapiti was built in 1842.", "Vanilla production on Moorea is 2 tons annually.", "The population is 2,042 (2017 census)."],
     },
+    image: "/poi-images/frenchpolynesia-haapiti-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-teavaro-cities-v2",
@@ -1209,6 +1247,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Plaja Teavaro Beach se întinde pe 1,5 km.", "Recolta de vanilie pe Moorea are loc între mai și august.", "Teavaro se află la 10 km de Aeroportul Moorea.", "Populația este de 512 locuitori (recensământ 2017).", "Precipitațiile medii anuale sunt de 2.500 mm.", "Plantațiile de cocotieri acoperă 30% din suprafața agricolă."],
       en: ["Teavaro Beach stretches over 1.5 km.", "The vanilla harvest on Moorea occurs between May and August.", "Teavaro is located 10 km from Moorea Airport.", "The population is 512 (2017 census).", "Average annual rainfall is 2,500 mm.", "Coconut plantations cover 30% of the agricultural area."],
     },
+    image: "/poi-images/frenchpolynesia-teavaro-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-vaiare-cities-v2",
@@ -1240,6 +1279,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Portul Vaiare a fost deschis în 1965.", "Zilnic pleacă 8 feriboturi din Vaiare către Tahiti.", "Traversarea către Tahiti durează aproximativ 30 de minute.", "Plaja Vaiare Beach are 500 m lungime.", "Populația este de 398 de locuitori (recensământ 2017).", "Adâncimea apei în port este de 4 metri."],
       en: ["The port of Vaiare opened in 1965.", "8 ferries depart daily from Vaiare to Tahiti.", "The crossing to Tahiti takes about 30 minutes.", "Vaiare Beach is 500 m long.", "The population is 398 (2017 census).", "Water depth at the port is 4 meters."],
     },
+    image: "/poi-images/frenchpolynesia-vaiare-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-avera-cities-v2",
@@ -1271,6 +1311,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Raivavae are o suprafață totală de 16 km².", "Laguna Avera are o adâncime de până la 15 m.", "Biserica din Avera a fost construită în 1860 din piatră de corali.", "Populația din Avera este de 312 locuitori (recensământ 2017).", "Insula a fost zărită de exploratorii europeni în 1819.", "Temperatura medie anuală este de 24°C."],
       en: ["Raivavae has a total area of 16 km².", "The lagoon of Avera is up to 15 m deep.", "The church of Avera was built in 1860 from coral stone.", "The population of Avera is 312 (2017 census).", "The island was sighted by European explorers in 1819.", "Average annual temperature is 24°C."],
     },
+    image: "/poi-images/frenchpolynesia-avera-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-opoa-cities-v2",
@@ -1302,6 +1343,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Opoa este situat la 23° latitudine sudică.", "Insula Raivavae are 1.000 de locuitori în total.", "Biserica din Opoa a fost sfințită în 1865.", "Opoa are aproximativ 250 de locuitori.", "Producția de tapa se practică de 500 de ani.", "Recolta de vanilie este de 500 kg anual."],
       en: ["Opoa lies at 23° south latitude.", "Raivavae island has 1,000 inhabitants total.", "The church of Opoa was consecrated in 1865.", "Opoa has about 250 inhabitants.", "Tapa making has been practiced for 500 years.", "Vanilla harvest amounts to 500 kg annually."],
     },
+    image: "/poi-images/frenchpolynesia-opoa-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-tevaitoa-cities-v2",
@@ -1333,6 +1375,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Plaja Tevaitoa are 3 km lungime.", "Producția de nuci de cocos pe Raivavae este de 500 de tone anual.", "Muzeul din Tevaitoa a fost construit în 1880.", "Populația din Tevaitoa este de 280 de locuitori (recensământ 2017).", "Laguna are o adâncime medie de 3 metri.", "Raivavae are 15 specii endemice de păsări."],
       en: ["Tevaitoa beach is 3 km long.", "Coconut production on Raivavae is 500 tons annually.", "The museum of Tevaitoa was built in 1880.", "Tevaitoa's population is 280 (2017 census).", "The lagoon has an average depth of 3 meters.", "Raivavae has 15 endemic bird species."],
     },
+    image: "/poi-images/frenchpolynesia-tevaitoa-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-vaiaau-cities-v2",
@@ -1364,6 +1407,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Raiatea are o suprafață de 238 km².", "Marae Taputapuatea a fost construit în secolul al XII-lea.", "Vaiaau se află la 5 km sud de Uturoa.", "Populația este de 512 locuitori (recensământ 2017).", "Temperatura medie a apei este de 27°C.", "Construcția canoei folosește lemn din insulă."],
       en: ["Raiatea has an area of 238 km².", "Marae Taputapuatea was built in the 12th century.", "Vaiaau lies 5 km south of Uturoa.", "The population is 512 (2017 census).", "Average water temperature is 27°C.", "Canoe building uses wood from the island itself."],
     },
+    image: "/poi-images/frenchpolynesia-vaiaau-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-haamene-cities-v2",
@@ -1395,6 +1439,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Plaja cu nisip negru are 800 m lungime.", "Producția de vanilie pe Raiatea este de 1 tonă anual.", "Haamene are 298 de locuitori (recensământ 2017).", "Festivalul are loc în iulie.", "Adâncimea apei în fața plajei este de 2 metri.", "Plantațiile de cafea acoperă 10 hectare."],
       en: ["The black sand beach is 800 m long.", "Vanilla production on Raiatea is 1 ton annually.", "Haamene has 298 inhabitants (2017 census).", "The festival takes place in July.", "Water depth in front of the beach is 2 meters.", "Coffee plantations cover 10 hectares."],
     },
+    image: "/poi-images/frenchpolynesia-haamene-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-vaitoare-cities-v2",
@@ -1426,6 +1471,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Taha'a are o suprafață de 88 km².", "Producția de vanilie pe Taha'a este de 5 tone anual.", "Vaitoare are 412 locuitori (recensământ 2017).", "Festivalul Vaniliei are loc în august.", "Laguna are o adâncime maximă de 3 metri.", "Fermele de perle produc 100.000 de perle pe an."],
       en: ["Taha'a has an area of 88 km².", "Vanilla production on Taha'a is 5 tons annually.", "Vaitoare has 412 inhabitants (2017 census).", "The Vanilla Festival takes place in August.", "The lagoon is at most 3 meters deep.", "Pearl farms produce 100,000 pearls per year."],
     },
+    image: "/poi-images/frenchpolynesia-vaitoare-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-faaaha-cities-v2",
@@ -1457,6 +1503,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Plaja Faaaha are 1,2 km lungime.", "Biserica din Faaaha a fost construită în 1856.", "Faaaha are 310 locuitori (recensământ 2017).", "Laguna găzduiește aproximativ 50 de țestoase marine.", "Recolta de vanilie în regiune este de 2 tone.", "Festivalul țestoaselor are loc în noiembrie."],
       en: ["Faaaha beach is 1.2 km long.", "The church of Faaaha was built in 1856.", "Faaaha has 310 inhabitants (2017 census).", "The lagoon hosts about 50 sea turtles.", "Vanilla harvest in the region is 2 tons.", "The turtle festival takes place in November."],
     },
+    image: "/poi-images/frenchpolynesia-faaaha-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-maeva-cities-v2",
@@ -1488,6 +1535,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Huahine are o suprafață de 75 km².", "Marae de la Maeva datează din secolul al XVI-lea.", "Maeva are 612 locuitori (recensământ 2017).", "Biserica a fost construită în 1845.", "Laguna are o adâncime de până la 10 metri.", "Festivalul Huahine are loc în octombrie."],
       en: ["Huahine has an area of 75 km².", "The marae of Maeva dates from the 16th century.", "Maeva has 612 inhabitants (2017 census).", "The church was built in 1845.", "The lagoon is up to 10 meters deep.", "The Huahine Festival takes place in October."],
     },
+    image: "/poi-images/frenchpolynesia-maeva-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-parea-cities-v2",
@@ -1519,6 +1567,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Plaja Parea are 2 km lungime.", "Parea are 210 locuitori (recensământ 2017).", "Biserica a fost construită în 1852.", "În lagună trăiesc peste 200 de raze spintecate.", "Producția de vanilie este de 300 kg anual.", "Festivalul Razelor are loc în septembrie."],
       en: ["Parea beach is 2 km long.", "Parea has 210 inhabitants (2017 census).", "The church was built in 1852.", "Over 200 stingrays live in the lagoon.", "Vanilla production is 300 kg annually.", "The Stingray Festival takes place in September."],
     },
+    image: "/poi-images/frenchpolynesia-parea-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-fitii-cities-v2",
@@ -1550,6 +1599,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Fitii este situat pe Huahine Nui, cea mai mare dintre cele două insule Huahine.", "Satul se află la sud de Fare, centrul administrativ al insulei.", "Golful Fitii este o trăsătură geografică distinctivă a acestei regiuni.", "Există situri arheologice importante cu structuri marae în apropierea satului.", "Economia locală se bazează pe pescuit și cultivarea vaniliei și a taro-ului.", "Accesul se face pe drumul de coastă care înconjoară insula principală."],
       en: ["Fitii is located on Huahine Nui, the northern island of the Huahine group.", "The village is situated just south of Fare, the island's main administrative center.", "Fitii Bay is a major geographical feature providing a natural harbor.", "Several ancient marae (stone temples) are located in the hills around Fitii.", "Agriculture, including vanilla and banana farming, is the primary local activity.", "The village is connected to the island's airport by a scenic coastal road."],
     },
+    image: "/poi-images/frenchpolynesia-fitii-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-faanui-cities-v2",
@@ -1581,6 +1631,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["În 1942, armata SUA a stabilit aici o bază militară prin Operațiunea 'Bobcat'.", "Marae Fare Opu, situat lângă apă, prezintă petroglife cu broaște țestoase.", "Faanui a fost centrul puterii pentru vechile căpetenii din Bora Bora.", "Golful Faanui este unul dintre cele mai protejate puncte de ancorare de pe insulă.", "Biserica protestantă din sat este celebră pentru culoarea sa roz distinctivă.", "Resturi de tunuri antiaeriene americane pot fi vizitate pe dealurile din jur."],
       en: ["Operation Bobcat established a major US military base here in 1942.", "The Marae Fare Opu near the water features ancient turtle petroglyphs.", "Faanui was historically the seat of power for Bora Bora's ruling families.", "The Bay of Faanui is deep and sheltered, ideal for large vessels.", "The village is famous for its bright pink-painted Protestant church.", "Several World War II American cannon sites remain on the hillsides nearby."],
     },
+    image: "/poi-images/frenchpolynesia-faanui-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-anau-cities-v2",
@@ -1612,6 +1663,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Anau oferă una dintre cele mai frumoase perspective asupra Muntelui Otemanu.", "Apele din fața satului sunt un loc protejat pentru diavolii de mare (manta).", "Satul este mult mai tradițional și mai puțin comercial decât Vaitape.", "Drumul de coastă care trece prin Anau este îngust și foarte pitoresc.", "Regiunea este renumită pentru grădinile sale de corali intacte.", "Populația satului numără doar câteva sute de locuitori permanenți."],
       en: ["Anau provides one of the best viewpoints for observing Mount Otemanu.", "The waters off Anau are a renowned sanctuary for manta rays.", "The village is significantly less developed for tourism than Vaitape.", "It is connected to the rest of Bora Bora by a single coastal road.", "Several high-end luxury resorts are located on the nearby motus (islets).", "The community is known for its strong ties to traditional Polynesian music."],
     },
+    image: "/poi-images/frenchpolynesia-anau-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-tiputa-cities-v2",
@@ -1643,6 +1695,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Tiputa este accesibil doar cu barca din satul vecin, Avatoru.", "Delfinii cu bot gros pot fi văzuți frecvent sărind în valurile Pasului Tiputa.", "Satul găzduiește sediul administrativ (primăria) al atolului Rangiroa.", "Biserica catolică locală este o clădire emblematică a comunității.", "Scafandrii vin aici special pentru 'scufundările în curent' din canal.", "Străzile satului sunt acoperite cu nisip alb și fragmente de coral."],
       en: ["Tiputa is accessible only by boat from the neighboring village of Avatoru.", "Bottlenose dolphins are often seen playing in the waves of the Tiputa Pass.", "The village houses the main administrative offices for the Rangiroa atoll.", "The local Catholic church is a central landmark in the community.", "The pass is famous for drift diving, often referred to as 'shooting the pass'.", "There are very few motor vehicles in Tiputa; bicycles are the main transport."],
     },
+    image: "/poi-images/frenchpolynesia-tiputa-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-otepa-cities-v2",
@@ -1674,6 +1727,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Prima fermă comercială de perle negre a fost înființată aici în 1968.", "Satul se află la mică distanță de aeroportul local de pe atol.", "Otepa are o populație de aproximativ 400 de locuitori.", "Laguna este celebră pentru diversitatea speciilor de pești tropicali.", "Cultivarea perlei negre (Pinctada margaritifera) este principala sursă de venit.", "Casele din sat sunt adesea decorate cu scoici și elemente marine."],
       en: ["The first commercial black pearl farm was established in Manihi in 1968.", "The village is situated very close to the Manihi regional airport.", "Otepa has a permanent population of approximately 400 people.", "The Manihi lagoon is famous for its exceptional underwater visibility.", "The majority of residents are employed in the pearl cultivation industry.", "It is located about 500 kilometers northeast of the island of Tahiti."],
     },
+    image: "/poi-images/frenchpolynesia-otepa-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-tuherahera-cities-v2",
@@ -1705,6 +1759,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Tikehau înseamnă 'sosirea păcii' în limba locală polineziană.", "Satul se află în imediata apropiere a aeroportului din Tikehau.", "Jacques Cousteau a declarat această lagună ca fiind cea mai bogată în pești.", "Nisipul roz este format din micro-fragmente de corali roșii.", "Populația satului Tuherahera este de aproximativ 500 de persoane.", "Copra (miezul de nucă de cocos uscat) este un produs important de export."],
       en: ["Tikehau means 'peaceful arrival' in the local Tahitian language.", "The village is conveniently located near the Tikehau Airport (ZTH).", "Jacques Cousteau described the lagoon as the richest in fish on Earth.", "The pink hue of the beaches comes from crushed red organ-pipe coral.", "The population of Tuherahera is approximately 500 residents.", "Fishing and copra production are the pillars of the local economy."],
     },
+    image: "/poi-images/frenchpolynesia-tuherahera-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-vaiuru-cities-v2",
@@ -1736,6 +1791,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Populația localității Vaiuru: aproximativ 200 (estimare 2020)", "Altitudine: 5 m deasupra nivelului mării", "Anul construirii bisericii: 1872", "Distanța până la capitala insulei Uturoa: 15 km", "Precipitații anuale: 2500 mm", "Suprafața cultivată cu vanilie: 10 hectare"],
       en: ["Population of Vaiuru: approx. 200 (2020 estimate)", "Elevation: 5 meters above sea level", "Year the church was built: 1872", "Distance to island capital Uturoa: 15 km", "Annual rainfall: 2,500 mm", "Vanilla plantation area: 10 hectares"],
     },
+    image: "/poi-images/frenchpolynesia-vaiuru-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-teruore-cities-v2",
@@ -1767,6 +1823,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Populația din Teruore: aproximativ 150 (estimare 2020)", "Numărul fermelor de perle: 5", "Producția anuală de perle: circa 10.000", "Distanța până la cel mai apropiat oraș (Uturoa): 20 km", "Temperatura medie: 26°C", "Suprafața satului: 0,3 km²"],
       en: ["Population of Teruore: approx. 150 (2020 estimate)", "Number of pearl farms: 5", "Annual pearl production: approx. 10,000", "Distance to nearest town (Uturoa): 20 km", "Average temperature: 26°C", "Village area: 0.3 km²"],
     },
+    image: "/poi-images/frenchpolynesia-teruore-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-vaipaee-cities-v2",
@@ -1798,6 +1855,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Populația din Vaipaee: aproximativ 100 (estimare 2020)", "Numărul siturilor cu petroglife: 3", "Cel mai înalt punct din apropiere: 1.200 m (Muntele Temetiu)", "Anul primei biserici: 1853", "Precipitații medii anuale: 1.800 mm", "Distanța până la capitala insulei Atuona: 15 km"],
       en: ["Population of Vaipaee: approx. 100 (2020 estimate)", "Number of petroglyph sites: 3", "Highest nearby elevation: 1,200 m (Mount Temetiu)", "Year first church was built: 1853", "Average annual rainfall: 1,800 mm", "Distance to island capital Atuona: 15 km"],
     },
+    image: "/poi-images/frenchpolynesia-vaipaee-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-vaitahu-cities-v2",
@@ -1829,6 +1887,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Populația din Vaitahu: aproximativ 200 (estimare 2020)", "Prima vedere de către europeni: 1595 (expediția spaniolă a lui Mendaña)", "Suprafața plantațiilor de vanilie: 15 hectare", "Înălțimea stâncilor de coastă: până la 300 m", "Număr anual de vizitatori: aproximativ 500 (turism de croazieră)", "Distanța până la insula vecină Hiva Oa: 4 km"],
       en: ["Population of Vaitahu: approx. 200 (2020 estimate)", "First European sighting: 1595 (Spanish expedition under Mendaña)", "Area of vanilla plantations: 15 hectares", "Coastal cliff height: up to 300 m", "Annual visitor count: approx. 500 (cruise tourists)", "Distance to neighboring island Hiva Oa: 4 km"],
     },
+    image: "/poi-images/frenchpolynesia-vaitahu-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-omoa-cities-v2",
@@ -1860,6 +1919,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Populația din Omoa: aproximativ 200 (estimare 2020)", "Cel mai înalt munte al insulei: 960 m (Muntele Touaoua)", "Numărul atelierelor de artizanat: 10", "Producția anuală de cafea: 5 tone", "Anul înființării misiunii protestante: 1897", "Distanța până la capitala insulei: 0 km (Omoa este localitatea principală)"],
       en: ["Population of Omoa: approx. 200 (2020 estimate)", "Highest peak on the island: 960 m (Mount Touaoua)", "Number of handicraft workshops: 10", "Annual coffee production: 5 tons", "Year of Protestant mission establishment: 1897", "Distance to island capital: 0 km (Omoa is the main settlement)"],
     },
+    image: "/poi-images/frenchpolynesia-omoa-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-hurepiti-cities-v2",
@@ -1891,6 +1951,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Populația din Hurepiti: aproximativ 150 (estimare 2020)", "Numărul fermelor de vanilie: 8", "Producția anuală de copra: 20 tone", "Suprafața plantațiilor de nucă de cocos: 30 hectare", "Anul construcției bisericii: 1885", "Temperatura medie a apei: 27°C"],
       en: ["Population of Hurepiti: approx. 150 (2020 estimate)", "Number of vanilla farms: 8", "Annual copra production: 20 tons", "Area of coconut plantations: 30 hectares", "Year church was built: 1885", "Average water temperature: 27°C"],
     },
+    image: "/poi-images/frenchpolynesia-hurepiti-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-haamene-alt-cities-v2",
@@ -1922,6 +1983,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Populația din Hipu: aproximativ 180 (estimare 2020)", "Numărul fermelor de perle: 6", "Producția anuală de perle: 12.000", "Distanța până la Raiatea: 2 km (apă)", "Altitudine: 3 m deasupra nivelului mării", "Temperatura medie anuală: 26,5°C"],
       en: ["Population of Hipu: approx. 180 (2020 estimate)", "Number of pearl farms: 6", "Annual pearl production: 12,000", "Distance to Raiatea: 2 km (water)", "Elevation: 3 meters above sea level", "Average annual temperature: 26.5°C"],
     },
+    image: "/poi-images/frenchpolynesia-haamene-alt-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-tiva-cities-v2",
@@ -1953,6 +2015,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Populația din Tiva: aproximativ 100 (estimare 2020)", "Suprafața plantațiilor de fructe: 20 hectare", "Lungimea plajei cu nisip negru: 500 m", "Numărul structurilor de piatră conservate: 3", "Distanța până la cea mai apropiată așezare mai mare (Patio): 5 km", "Umiditatea medie: 80%"],
       en: ["Population of Tiva: approx. 100 (2020 estimate)", "Area of fruit plantations: 20 hectares", "Length of black sand beach: 500 m", "Number of preserved stone structures: 3", "Distance to nearest larger settlement (Patio): 5 km", "Average humidity: 80%"],
     },
+    image: "/poi-images/frenchpolynesia-tiva-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-tapuamu-cities-v2",
@@ -1984,6 +2047,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Populația din Tapuamu: aproximativ 120 (estimare 2020)", "Numărul câmpurilor de vanilie: 12", "Producția anuală de copra: 15 tone", "Anul înființării bisericii protestante: 1901", "Suprafața lagunei: 2 km²", "Adâncimea medie a lagunei: 5 m"],
       en: ["Population of Tapuamu: approx. 120 (2020 estimate)", "Number of vanilla fields: 12", "Annual copra production: 15 tons", "Year of Protestant church founding: 1901", "Lagoon area: 2 km²", "Average lagoon depth: 5 m"],
     },
+    image: "/poi-images/frenchpolynesia-tapuamu-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-fetuna-cities-v2",
@@ -2015,6 +2079,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Populația din Fetuna: aproximativ 80 (estimare 2020)", "Numărul fermelor de perle: 4", "Producția anuală de ulei de cocos: 5.000 de litri", "Înălțimea dealurilor din jur: până la 200 m", "Distanța până la cel mai apropiat sat (Tiva): 3 km", "Temperatura medie a apei: 26°C"],
       en: ["Population of Fetuna: approx. 80 (2020 estimate)", "Number of pearl farms: 4", "Annual coconut oil production: 5,000 liters", "Height of surrounding hills: up to 200 m", "Distance to nearest village (Tiva): 3 km", "Average water temperature: 26°C"],
     },
+    image: "/poi-images/frenchpolynesia-fetuna-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-hine-cities-v2",
@@ -2046,6 +2111,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Populația din Niua: aproximativ 90 (estimare 2020)", "Suprafața plantațiilor de cafea: 5 hectare", "Producția anuală de cafea: 2 tone", "Anul construirii bisericii: 1925", "Lungimea drumului neasfaltat de acces: 2 km", "Precipitații medii anuale: 2.200 mm"],
       en: ["Population of Niua: approx. 90 (2020 estimate)", "Area of coffee plantations: 5 hectares", "Annual coffee production: 2 tons", "Year church was built: 1925", "Length of unpaved access road: 2 km", "Average annual rainfall: 2,200 mm"],
     },
+    image: "/poi-images/frenchpolynesia-hine-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-haapu-cities-v2",
@@ -2077,6 +2143,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Populația din Haapu: aproximativ 130 (estimare 2020)", "Numărul caselor tradiționale: 25", "Distanța până la cea mai apropiată școală: 0 km (local)", "Suprafața lagunei: 1,5 km²", "Vizibilitatea medie sub apă: 15 m", "Număr anual de vizitatori: aproximativ 200"],
       en: ["Population of Haapu: approx. 130 (2020 estimate)", "Number of traditional houses: 25", "Distance to nearest school: 0 km (local)", "Lagoon area: 1.5 km²", "Average underwater visibility: 15 m", "Annual visitor count: approx. 200"],
     },
+    image: "/poi-images/frenchpolynesia-haapu-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-maroe-cities-v2",
@@ -2108,6 +2175,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Populația din Maroe: aproximativ 1.500 (estimare 2020)", "Numărul hotelurilor și pensiunilor: 5", "Lungimea străzii principale: 1,5 km", "Distanța până la aeroportul Huahine: 5 km", "Sosiri anuale de turiști: aproximativ 15.000", "Suprafața plantațiilor de vanilie: 20 hectare"],
       en: ["Population of Maroe: approx. 1,500 (2020 estimate)", "Number of hotels and guesthouses: 5", "Length of main street: 1.5 km", "Distance to Huahine Airport: 5 km", "Annual tourist arrivals: approx. 15,000", "Area of vanilla plantations: 20 hectares"],
     },
+    image: "/poi-images/frenchpolynesia-maroe-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-faie-cities-v2",
@@ -2139,6 +2207,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Populația din Faie: aproximativ 300 (estimare 2020)", "Numărul magazinelor de perle: 8", "Numărul locurilor de acostare în marina: 20", "Lungimea podului către Huahine Nui: 150 m", "Vizitatori anuali la piața de artizanat: 5.000", "Temperatura medie: 26°C"],
       en: ["Population of Faie: approx. 300 (2020 estimate)", "Number of pearl shops: 8", "Number of berths in the marina: 20", "Length of bridge to Huahine Nui: 150 m", "Annual visitors to handicraft market: 5,000", "Average temperature: 26°C"],
     },
+    image: "/poi-images/frenchpolynesia-faie-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-tefarerii-cities-v2",
@@ -2170,6 +2239,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Populația din Tefarerii: aproximativ 200 (estimare 2020)", "Numărul izvoarelor termale: 3", "Temperatura apei izvoarelor termale: 38°C", "Suprafața pădurilor din jur: 5 km²", "Numărul traseelor de drumeție: 4", "Distanța până la cel mai apropiat oraș (Maroe): 10 km"],
       en: ["Population of Tefarerii: approx. 200 (2020 estimate)", "Number of hot springs: 3", "Hot spring water temperature: 38°C", "Area of surrounding forests: 5 km²", "Number of hiking trails: 4", "Distance to nearest town (Maroe): 10 km"],
     },
+    image: "/poi-images/frenchpolynesia-tefarerii-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-hane-cities-v2",
@@ -2201,6 +2271,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Populația din Hane: aproximativ 200 (estimare 2020)", "Lungimea pistei aeroportului: 1.100 m", "Numărul de cai pe insulă: 200", "Numărul siturilor arheologice: 10", "Anul primei biserici: 1856", "Cel mai înalt punct din Ua Huka: 857 m"],
       en: ["Population of Hane: approx. 200 (2020 estimate)", "Length of airport runway: 1,100 m", "Number of horses on the island: 200", "Number of archaeological sites: 10", "Year of first church: 1856", "Highest point on Ua Huka: 857 m"],
     },
+    image: "/poi-images/frenchpolynesia-hane-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-vaitahu-alt-cities-v2",
@@ -2232,6 +2303,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Populația din Hapatoni: aproximativ 150 (estimare 2020)", "Numărul ușilor sculptate din lemn: 20", "Lungimea plajei cu nisip negru: 300 m", "Numărul siturilor de înmormântare arheologice: 5", "Anul construirii bisericii: 1878", "Distanța până la Vaitahu: 3 km"],
       en: ["Population of Hapatoni: approx. 150 (2020 estimate)", "Number of carved wooden doors: 20", "Length of black sand beach: 300 m", "Number of archaeological burial sites: 5", "Year church was built: 1878", "Distance to Vaitahu: 3 km"],
     },
+    image: "/poi-images/frenchpolynesia-vaitahu-alt-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-hanavave-cities-v2",
@@ -2263,6 +2335,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Populația din Hanavave: aproximativ 200 (estimare 2020)", "Înălțimea stâncilor de bazalt: până la 300 m", "Numărul anual de vizite ale navelor de croazieră: 10", "Lungimea plajei cu nisip din golf: 200 m", "Anul înființării bisericii: 1905", "Precipitații medii anuale: 2.000 mm"],
       en: ["Population of Hanavave: approx. 200 (2020 estimate)", "Height of basalt cliffs: up to 300 m", "Annual cruise ship visits: 10", "Length of sandy beach in the bay: 200 m", "Year church was founded: 1905", "Average annual rainfall: 2,000 mm"],
     },
+    image: "/poi-images/frenchpolynesia-hanavave-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-ahu-cities-v2",
@@ -2294,6 +2367,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Populația din Puamau: aproximativ 150 (estimare 2020)", "Înălțimea celui mai mare Tiki din Iipona: 2,5 m", "Numărul statuilor Tiki din Iipona: 6", "Anul înființării școlii: 1950", "Distanța până la capitala insulei Atuona: 25 km", "Suprafața parcului arheologic Iipona: 2 hectare"],
       en: ["Population of Puamau: approx. 150 (2020 estimate)", "Height of the largest Tiki at Iipona: 2.5 m", "Number of Tiki statues at Iipona: 6", "Year school was founded: 1950", "Distance to island capital Atuona: 25 km", "Area of Iipona archaeological park: 2 hectares"],
     },
+    image: "/poi-images/frenchpolynesia-ahu-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-hanaiapa-cities-v2",
@@ -2325,6 +2399,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Populația din Hanaiapa: aproximativ 100 (estimare 2020)", "Înălțimea celei mai mari cascade din apropiere: 50 m", "Numărul plantațiilor de banane: 8", "Distanța până la cea mai apropiată așezare mai mare (Atuona): 20 km", "Anul construirii capelei: 1930", "Panta medie a văilor: 15 grade"],
       en: ["Population of Hanaiapa: approx. 100 (2020 estimate)", "Height of the nearest large waterfall: 50 m", "Number of banana plantations: 8", "Distance to nearest larger settlement (Atuona): 20 km", "Year the chapel was built: 1930", "Average slope of the valleys: 15 degrees"],
     },
+    image: "/poi-images/frenchpolynesia-hanaiapa-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-garumaoa-cities-v2",
@@ -2356,6 +2431,7 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Garumaoa are aproximativ 200 de locuitori.", "Așezarea se află la 15 km de Papeete.", "Altitudinea deasupra nivelului mării este de aproximativ 10 metri.", "Temperatura medie anuală este de 26°C.", "Așezarea a fost fondată în secolul al XIX-lea.", "Există un debarcader pentru bărci."],
       en: ["Garumaoa has a population of about 200.", "The settlement is 15 km from Papeete.", "Elevation above sea level is approximately 10 meters.", "Average annual temperature is 26°C.", "The settlement was founded in the 19th century.", "There is a boat landing dock."],
     },
+    image: "/poi-images/frenchpolynesia-garumaoa-cities-v2.webp",
   },
   {
     id: "frenchpolynesia-tetamanu-cities-v2",
@@ -2387,5 +2463,6 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ro: ["Tetamanu are aproximativ 100 de locuitori.", "Satul se află pe atolul Fakarava.", "Producția de copra este de aproximativ 50 de tone pe an.", "Adâncimea apei la Pasul Sudic este de până la 40 de metri.", "Școala are aproximativ 20 de elevi.", "Biserica a fost construită în anii 1930."],
       en: ["Tetamanu has a population of about 100.", "The village is located on Fakarava Atoll.", "Copra production amounts to about 50 tons per year.", "Water depth at the South Pass reaches up to 40 meters.", "The school has about 20 students.", "The church was built in the 1930s."],
     },
+    image: "/poi-images/frenchpolynesia-tetamanu-cities-v2.webp",
   }
 ];

@@ -31,6 +31,7 @@ export const marshallislandsHistoryV2: POI[] = [
       ro: ["Locul a 23 de teste nucleare în decurs de 12 ani", "Inclus în lista patrimoniului mondial UNESCO în anul 2010", "Evacuarea celor 167 de locuitori în februarie 1946", "Operațiunea Crossroads a marcat începutul testelor în 1946", "Laguna găzduiește o flotă fantomă de nave de război scufundate", "Nivelurile de radiații împiedică și astăzi recolonizarea permanentă"],
       en: ["Site of 23 nuclear weapons tests over 12 years", "Inscribed as a UNESCO World Heritage site in 2010", "Evacuation of 167 residents in February 1946", "Operation Crossroads marked the start of testing in 1946", "The lagoon hosts a ghost fleet of sunken warships", "Radiation levels still prevent permanent resettlement today"],
     },
+    image: "/poi-images/marshallislands-bikini-atoll-history-v2.webp",
   },
   {
     id: "marshallislands-kwajalein-battlefield-history-v2",
@@ -62,6 +63,7 @@ export const marshallislandsHistoryV2: POI[] = [
       ro: ["Bătălia a durat 4 zile, din 31 ianuarie până în 3 februarie 1944.", "Peste 8.000 de soldați japonezi erau staționați pe Kwajalein.", "Pierderile americane au fost de 372 morți și 1.582 răniți.", "Aproximativ 7.000 de apărători japonezi au murit.", "Atolul are o suprafață terestră de 16,39 km².", "Buncărele de pe insula Kwajalein au pereți de beton groși de până la 3 m."],
       en: ["The battle lasted 4 days, from Jan 31 to Feb 3, 1944.", "Over 8,000 Japanese soldiers were stationed on Kwajalein.", "US casualties were 372 killed and 1,582 wounded.", "Around 7,000 Japanese defenders died.", "The atoll has a land area of 16.39 km².", "Bunkers on Kwajalein Island have concrete walls up to 3 m thick."],
     },
+    image: "/poi-images/marshallislands-kwajalein-battlefield-history-v2.webp",
   },
   {
     id: "marshallislands-jaluit-jabor-history-v2",
@@ -93,6 +95,7 @@ export const marshallislandsHistoryV2: POI[] = [
       ro: ["Administrația germană a fost stabilită pe Jaluit în 1885.", "Atolul Jaluit are o suprafață terestră de 11 km².", "Fosta clădire administrativă a fost construită în 1906.", "Populația din Jabor este de aproximativ 500 locuitori (2021).", "Exporturile de copra din Jaluit au atins 2.000 de tone în 1910.", "Garnizoana japoneză număra aproximativ 1.000 de oameni în 1943."],
       en: ["German administration was established on Jaluit in 1885.", "Jaluit Atoll has a land area of 11 km².", "The former administration building was built in 1906.", "Jabor's population is approximately 500 (as of 2021).", "Copra exports from Jaluit reached 2,000 tons in 1910.", "The Japanese garrison numbered about 1,000 men in 1943."],
     },
+    image: "/poi-images/marshallislands-jaluit-jabor-history-v2.webp",
   },
   {
     id: "marshallislands-enewetak-atoll-history-v2",
@@ -124,6 +127,7 @@ export const marshallislandsHistoryV2: POI[] = [
       ro: ["Primul test american cu bombă cu hidrogen (Mike) a avut loc la 1 noiembrie 1952.", "Puterea explozivă a lui Mike a fost de 10,4 megatone TNT.", "Insula Elugelab a fost complet distrusă de explozie.", "În total, 43 de teste au fost efectuate pe Enewetak.", "Populația înainte de evacuare era de aproximativ 140 de persoane.", "Costurile de curățare au depășit 100 de milioane USD."],
       en: ["The first US hydrogen bomb test (Mike) took place on November 1, 1952.", "Mike's explosive yield was 10.4 megatons of TNT.", "Elugelab Island was completely destroyed by the explosion.", "A total of 43 tests were conducted on Enewetak.", "The pre-evacuation population was about 140 people.", "Cleanup costs exceeded 100 million USD."],
     },
+    image: "/poi-images/marshallislands-enewetak-atoll-history-v2.webp",
   },
   {
     id: "marshallislands-wotje-japanese-base-history-v2",
@@ -155,6 +159,7 @@ export const marshallislandsHistoryV2: POI[] = [
       ro: ["Construcția bazei a început în 1941.", "Atolul Wotje are o suprafață terestră de 4,3 km².", "Garnizoana japoneză număra aproximativ 1.500 de soldați.", "Existau două piste de aterizare, fiecare cu o lungime de 1.200 m.", "Bateriile de coastă constau din tunuri de 15 cm.", "După război, 300 de soldați japonezi au fost luați prizonieri."],
       en: ["Construction of the base began in 1941.", "Wotje Atoll has a land area of 4.3 km².", "The Japanese garrison numbered about 1,500 soldiers.", "There were two runways, each 1,200 m long.", "Coastal batteries consisted of 15 cm guns.", "After the war, 300 Japanese soldiers were captured."],
     },
+    image: "/poi-images/marshallislands-wotje-japanese-base-history-v2.webp",
   },
   {
     id: "marshallislands-maloelap-taroa-airfield-history-v2",
@@ -186,6 +191,7 @@ export const marshallislandsHistoryV2: POI[] = [
       ro: ["Construcția a început în 1939.", "Aerodromul avea două piste de aterizare a câte 1.400 m lungime.", "Bombardamentele americane au început în 1943 și au durat până în 1945.", "Cel puțin 50 de avioane japoneze erau staționate pe Taroa.", "Atolul Maloelap are o suprafață terestră de 7,1 km².", "După război, 200 de soldați japonezi au fost internați pe Taroa."],
       en: ["Construction began in 1939.", "The airfield had two runways each 1,400 m long.", "US bombing raids began in 1943 and continued until 1945.", "At least 50 Japanese aircraft were stationed at Taroa.", "Maloelap Atoll has a land area of 7.1 km².", "After the war, 200 Japanese soldiers were interned on Taroa."],
     },
+    image: "/poi-images/marshallislands-maloelap-taroa-airfield-history-v2.webp",
   },
   {
     id: "marshallislands-mili-atoll-garrison-history-v2",
@@ -217,6 +223,7 @@ export const marshallislandsHistoryV2: POI[] = [
       ro: ["Garnizoana japoneză de pe Mili număra aproximativ 2.500 de soldați.", "Construcția fortificațiilor a început în 1942.", "Atolul are o suprafață terestră de 14,9 km².", "Existau cel puțin trei aerodromuri pe atol.", "Garnizoana a pierdut 1.000 de oameni din cauza bolilor în 1944.", "Capitularea a avut loc la 3 septembrie 1945."],
       en: ["The Japanese garrison on Mili consisted of about 2,500 soldiers.", "Construction of fortifications began in 1942.", "The atoll has a land area of 14.9 km².", "There were at least three airfields on the atoll.", "The garrison lost 1,000 men to disease in 1944.", "Surrender occurred on September 3, 1945."],
     },
+    image: "/poi-images/marshallislands-mili-atoll-garrison-history-v2.webp",
   },
   {
     id: "marshallislands-debrum-house-history-v2",
@@ -248,6 +255,7 @@ export const marshallislandsHistoryV2: POI[] = [
       ro: ["Construcția casei a început în 1880.", "Atolul Likiep are o suprafață terestră de 10,4 km².", "Populația din Likiep este de aproximativ 450 locuitori (2021).", "Casa are 12 camere.", "José de Brum s-a născut în 1843 în Portugalia.", "Casa a fost restaurată în 2015."],
       en: ["Construction of the house began in 1880.", "Likiep Atoll has a land area of 10.4 km².", "Likiep's population is about 450 (2021).", "The house has 12 rooms.", "José de Brum was born in 1843 in Portugal.", "The house was restored in 2015."],
     },
+    image: "/poi-images/marshallislands-debrum-house-history-v2.webp",
   },
   {
     id: "marshallislands-bravo-crater-history-v2",
@@ -279,6 +287,7 @@ export const marshallislandsHistoryV2: POI[] = [
       ro: ["Diametrul craterului este de aproximativ 2 kilometri", "Adâncimea craterului este de circa 75 de metri", "Puterea exploziei a fost de 1.000 de ori mai mare decât la Hiroshima", "A provocat căderi radioactive pe atolii locuiți precum Rongelap", "Situat în nord-vestul arhipelagului, în cadrul atolului Bikini", "Explozia a vaporizat complet trei insule mici"],
       en: ["Diameter of the crater is approximately 2 kilometers", "Depth of the crater is about 75 meters", "Explosive yield was 1,000 times stronger than the Hiroshima bomb", "Caused radioactive fallout on inhabited atolls like Rongelap", "Located within Bikini Atoll in the northwest of the archipelago", "The explosion completely vaporized three small islands"],
     },
+    image: "/poi-images/marshallislands-bravo-crater-history-v2.webp",
   },
   {
     id: "marshallislands-meck-island-missile-site-history-v2",
@@ -310,6 +319,7 @@ export const marshallislandsHistoryV2: POI[] = [
       ro: ["Insula Meck are o suprafață de 0,18 km².", "Baza a fost construită în 1960.", "Există 4 rampe de lansare pe insulă.", "Primele teste au avut loc în 1962.", "Personalul numără aproximativ 200 de persoane.", "Instalația este operată de Comandamentul pentru Apărare Spațială și Antirachetă al Armatei SUA."],
       en: ["Meck Island has an area of 0.18 km².", "The base was built in 1960.", "There are 4 launch pads on the island.", "The first tests were conducted in 1962.", "Personnel number about 200.", "The facility is operated by the US Army Space and Missile Defense Command."],
     },
+    image: "/poi-images/marshallislands-meck-island-missile-site-history-v2.webp",
   },
   {
     id: "marshallislands-ebey-island-battery-history-v2",
@@ -341,6 +351,7 @@ export const marshallislandsHistoryV2: POI[] = [
       ro: ["Bateria a fost construită de japonezi în 1942.", "Era echipată cu patru mortiere de 12 cm.", "Forțele americane au atacat bateria pe 31 ianuarie 1944.", "Luptele pentru insula Ebey au durat 2 zile.", "Bateria se află pe o insulă de 0,2 km².", "Astăzi, două dintre pozițiile de tunuri sunt intacte."],
       en: ["The battery was built by the Japanese in 1942.", "It was equipped with four 12 cm spigot mortars.", "US forces attacked the battery on January 31, 1944.", "Fighting on Ebey Island lasted 2 days.", "The battery is located on an island of 0.2 km².", "Today, two of the gun positions are intact."],
     },
+    image: "/poi-images/marshallislands-ebey-island-battery-history-v2.webp",
   },
   {
     id: "marshallislands-majuro-wwii-memorial-history-v2",
@@ -372,6 +383,7 @@ export const marshallislandsHistoryV2: POI[] = [
       ro: ["Memorialul a fost inaugurat în 1994.", "Listează 374 de soldați aliați și 7.000 de soldați japonezi căzuți.", "Ceremonia anuală are loc pe 1 februarie.", "Locația este lângă clădirea guvernului din Majuro.", "Placa de piatră cântărește aproximativ 2 tone.", "Parcul acoperă o suprafață de 0,5 hectare."],
       en: ["The memorial was unveiled in 1994.", "It lists 374 Allied and 7,000 Japanese fallen soldiers.", "The annual ceremony takes place on February 1.", "The site is near the Majuro government building.", "The stone plaque weighs about 2 tons.", "The park covers an area of 0.5 hectares."],
     },
+    image: "/poi-images/marshallislands-majuro-wwii-memorial-history-v2.webp",
   },
   {
     id: "marshallislands-runit-dome-history-v2",
@@ -403,6 +415,7 @@ export const marshallislandsHistoryV2: POI[] = [
       ro: ["Format din 358 de plăci de beton cu grosimea de 45 cm", "Găzduiește aproximativ 73.000 de metri cubi de material radioactiv", "Construit peste craterul creat de testul nuclear Cactus", "Perioada de construcție a fost între 1977 și 1980", "Costul ecologizării s-a ridicat la aproximativ 218 milioane USD", "Nu există nicio căptușeală protectoare la baza craterului"],
       en: ["Consists of 358 concrete panels, each 18 inches thick", "Contains approximately 73,000 cubic meters of radioactive waste", "Built over a crater created by the Cactus nuclear test", "Construction period lasted from 1977 to 1980", "The cleanup project cost approximately $218 million", "There is no protective lining at the bottom of the crater"],
     },
+    image: "/poi-images/marshallislands-runit-dome-history-v2.webp",
   },
   {
     id: "marshallislands-utirik-atoll-fallout-history-v2",
@@ -434,6 +447,7 @@ export const marshallislandsHistoryV2: POI[] = [
       ro: ["Căderile radioactive au ajuns la atol după circa 22 de ore", "Evacuarea celor 159 de locuitori a avut loc abia după trei zile", "Reîntoarcerea populației a fost autorizată încă din 1954", "Incidență ridicată a afecțiunilor tiroidiene în perioada următoare", "Parte a programului de monitorizare medicală al SUA", "Plățile compensatorii au fost reglementate prin Compact of Free Association"],
       en: ["Fallout reached the atoll approximately 22 hours after detonation", "Evacuation of the 159 residents occurred three days later", "Resettlement was permitted as early as late 1954", "High incidence of thyroid conditions reported in subsequent years", "Part of the ongoing U.S. medical monitoring program", "Compensation was established under the Compact of Free Association"],
     },
+    image: "/poi-images/marshallislands-utirik-atoll-fallout-history-v2.webp",
   },
   {
     id: "marshallislands-roi-namur-ruins-history-v2",
@@ -465,5 +479,6 @@ export const marshallislandsHistoryV2: POI[] = [
       ro: ["Locul bătăliei pentru Kwajalein în februarie 1944", "Inițial două insule separate, unite de către japonezi", "Găzduiește resturile unui aerodrom japonez", "Multe buncăre prezintă și astăzi urme de gloanțe", "Bază strategică a Marinei Imperiale Japoneze", "Astăzi face parte din baza militară americană de pe Kwajalein"],
       en: ["Site of the Battle of Kwajalein in February 1944", "Originally two separate islands, joined by the Japanese", "Contains remains of a Japanese imperial airfield", "Many bunkers still display visible bullet holes today", "Strategic base for the Imperial Japanese Navy", "Currently part of the U.S. Army Garrison-Kwajalein Atoll"],
     },
+    image: "/poi-images/marshallislands-roi-namur-ruins-history-v2.webp",
   }
 ];

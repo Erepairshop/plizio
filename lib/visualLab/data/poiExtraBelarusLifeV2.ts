@@ -995,6 +995,7 @@ export const belarusLifeV2: POI[] = [
       ro: ["Lunca Pripyat este protejată prin Convenția Ramsar privind zonele umede.", "Nivelul apei poate crește cu până la 5 metri în timpul viiturilor de primăvară.", "Peste 1,5 milioane de păsări migratoare poposesc anual în aceste zone.", "Zona găzduiește unele dintre cele mai mari colonii de berze albe din țară.", "Albia râului Pripyat în acest sector este complet naturală, nefiind îndiguită.", "Cuprinde vaste suprafețe de plante acvatice rare și păduri de mlaștină."],
       en: ["The Pripyat Floodplain is protected as an international Ramsar wetland.", "Water levels can rise by up to 5 meters during the peak spring flood.", "Over 1.5 million migratory birds use the area as a vital stopover annually.", "It supports some of the largest white stork colonies in Belarus.", "The Pripyat River remains largely unchannelized and natural in this area.", "The floodplain contains vast populations of rare aquatic and marsh plants."],
     },
+    image: "/poi-images/belarus-pripyatsky-floodplain-life-v2.webp",
   },
   {
     id: "belarus-skryhalev-reserve-life-v2",
@@ -1027,6 +1028,7 @@ export const belarusLifeV2: POI[] = [
       ro: ["Rezervația Skryhaleva este situată în regiunea administrativă Gomel.", "A fost creată pentru protejarea unor specii botanice deosebit de rare.", "Peisajul este dominat de păduri de pin și păduri mixte de foioase.", "Zona funcționează ca un coridor ecologic pentru migrația faunei sălbatice.", "În interiorul rezervației au fost identificate mai multe specii de orhidee sălbatice.", "Face parte integrantă din rețeaua ecologică regională a zonei Polesia."],
       en: ["The Skryhaleva reserve is located within the Gomel Region.", "It was established to protect rare and endangered botanical species.", "The terrain mainly consists of pine forests and mixed woodlands.", "The area serves as a vital corridor for migrating wildlife species.", "Several protected orchid species have been documented in the reserve.", "It is an essential component of the regional ecological network in Polesia."],
     },
+    image: "/poi-images/belarus-skryhalev-reserve-life-v2.webp",
   },
   {
     id: "belarus-dnieper-sozh-wetlands-life-v2",
@@ -1059,5 +1061,6 @@ export const belarusLifeV2: POI[] = [
       ro: ["Zona umedă se află la punctul de joncțiune dintre Nipru și Sozh.", "Este desemnată ca sit Ramsar de importanță internațională.", "Peste 140 de specii de păsări au fost inventariate în acest perimetru.", "Reprezintă unul dintre principalele locuri de depunere a icrelor din bazin.", "Luncile sunt fertilizate natural prin depunerile aluvionare anuale.", "Situl este esențial pentru protecția cristelului de câmp (Crex crex)."],
       en: ["The wetlands are situated at the confluence of the Dnieper and Sozh rivers.", "The area is designated as an international Ramsar Wetland of Significance.", "More than 140 different bird species have been recorded in the area.", "It serves as a primary spawning ground for fish in the Dnieper basin.", "The floodplain meadows are naturally fertilized by annual river silt deposits.", "The site is a major conservation priority for the threatened corn crake."],
     },
+    image: "/poi-images/belarus-dnieper-sozh-wetlands-life-v2.webp",
   }
 ];

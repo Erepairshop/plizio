@@ -32,6 +32,7 @@ export const austriaLifeV2: POI[] = [
       ro: ["Parcul Național a fost fondat oficial la 26 octombrie 2002.", "Suprafața totală protejată este de circa 11.050 de hectare.", "Cel mai înalt vârf este Hochtor, atingând 2.369 de metri.", "Pădurile ocupă aproximativ 50% din teritoriul parcului.", "Râul Enns are o diferență de nivel de 150 m în interiorul parcului.", "Rețeaua de trasee marcate însumează peste 500 de kilometri."],
       en: ["The national park was officially established on October 26, 2002.", "The total protected area covers about 11,050 hectares.", "The highest peak, Hochtor, reaches an elevation of 2,369 meters.", "Approximately 50% of the park's territory is covered by forest.", "The Enns River drops 150 meters in altitude within the park boundaries.", "There are over 500 kilometers of marked hiking trails available."],
     },
+    image: "/poi-images/austria-nationalpark-gesaeuse-life-v2.webp",
   },
   {
     id: "austria-wildpark-schwarzenberg-life-v2",
@@ -64,6 +65,7 @@ export const austriaLifeV2: POI[] = [
       ro: ["Accesul public în parc a fost permis începând cu anii 1970.", "Suprafața totală a parcului este de aproximativ 80 de hectare.", "Locația se află în interiorul Rezervației Biosferei Wienerwald.", "Terenul a fost proprietatea istorică a familiei nobiliare Schwarzenberg.", "Găzduiește patru specii principale de vânat mare european.", "Intrarea în parc este situată în apropiere de Mauerbach."],
       en: ["The park was opened to the public during the 1970s.", "The total area of the wildlife park is around 80 hectares.", "It is situated within the Vienna Woods Biosphere Reserve.", "The land historically belonged to the Schwarzenberg princely family.", "Four major wildlife species (red deer, fallow deer, mouflon, wild boar) are featured.", "The park is accessible daily from dawn until dusk."],
     },
+    image: "/poi-images/austria-wildpark-schwarzenberg-life-v2.webp",
   },
   {
     id: "austria-botanischer-garten-linz-life-v2",
@@ -96,6 +98,7 @@ export const austriaLifeV2: POI[] = [
       ro: ["Grădina găzduiește o varietate de peste 10.000 de specii de plante.", "Inaugurarea oficială pe dealul Gugl a avut loc în anul 1952.", "Colecția de cactuși cuprinde circa 1.100 de specii diferite.", "Suprafața totală a complexului botanic este de 4,2 hectare.", "Există cinci sere mari dedicate florei din zonele climatice calde.", "Instituția este administrată de departamentul de spații verzi al orașului Linz."],
       en: ["The garden is home to more than 10,000 different plant species.", "It was officially opened at its current site in 1952.", "The cactus collection, with 1,100 species, is among Europe's largest.", "The total area of the botanical garden is approximately 42,000 m².", "Five large greenhouses are dedicated to exotic and tropical plants.", "The facility hosts over 50 cultural events annually."],
     },
+    image: "/poi-images/austria-botanischer-garten-linz-life-v2.webp",
   },
   {
     id: "austria-wildpark-tirol-life-v2",
@@ -128,6 +131,7 @@ export const austriaLifeV2: POI[] = [
       ro: ["Parcul este situat la o altitudine de 1.100 de metri.", "Suprafața totală a parcului este de aproximativ 40 de hectare.", "Găzduiește peste 200 de exemplare de animale montane.", "Hrănirea principală a animalelor are loc zilnic la ora 14:30.", "Locația a fost folosită pentru filmările serialului 'Schlosshotel Orth'.", "Include exemplare rare de iaci tibetani și cerbi albi."],
       en: ["The park is situated at an elevation of 1,100 meters.", "The total area of the wildlife park is approximately 40 hectares.", "It is home to over 200 animals from various mountain regions.", "Main wildlife feeding occurs daily at 2:30 PM.", "The park served as a filming location for the series 'Schlosshotel Orth'.", "It features a special section for yaks originating from Tibet."],
     },
+    image: "/poi-images/austria-wildpark-tirol-life-v2.webp",
   },
   {
     id: "austria-zoologischer-garten-salzburg-life-v2",
@@ -160,6 +164,7 @@ export const austriaLifeV2: POI[] = [
       ro: ["Terenul a servit ca țarc de vânătoare arhiepiscopal încă din 1612.", "Actuala grădină zoologică a fost deschisă oficial în anul 1961.", "Complexul ocupă o suprafață de aproximativ 14 hectare la muntele Hellbrunn.", "Sunt găzduite aproximativ 140 de specii de animale cu un total de 1500 de exemplare.", "Grădina este cunoscută la nivel internațional pentru reproducerea rinocerilor albi.", "Incintele sunt construite direct lângă un perete stâncos natural și abrupt."],
       en: ["The grounds served as an archiepiscopal hunting enclosure since 1612.", "The modern zoo was officially opened in the year 1961.", "The facility covers an area of approximately 14 hectares at Hellbrunn Mountain.", "Around 140 different animal species with 1,500 animals are kept here.", "The zoo is internationally famous for the breeding of white rhinoceroses.", "The enclosures are built directly against a natural, steep rock face."],
     },
+    image: "/poi-images/austria-zoologischer-garten-salzburg-life-v2.webp",
   },
   {
     id: "austria-nationalpark-hohe-tauern-neukirchen-life-v2",
@@ -192,6 +197,7 @@ export const austriaLifeV2: POI[] = [
       ro: ["Centrul pentru vizitatori din Mittersill a fost deschis în anul 2007.", "Suprafața expozițională cuprinde peste 1.800 de metri pătrați.", "Un punct culminant este cinematograful panoramic 360° cu diametrul de 16 metri.", "Parcul Național Hohe Tauern este cel mai mare din Alpi, având 1.856 km².", "Expoziția prezintă zece lumi tematice alpine diferite.", "În parcul național se află 266 de vârfuri cu o înălțime de peste 3.000 de metri."],
       en: ["The visitor centre in Mittersill was opened in the year 2007.", "The exhibition area covers more than 1,800 square metres.", "A major highlight is the 360-degree panoramic cinema with a 16-metre diameter.", "Hohe Tauern National Park is the largest in the Alps at 1,856 km².", "The exhibition showcases ten different alpine adventure worlds.", "There are 266 peaks over 3,000 metres high within the national park."],
     },
+    image: "/poi-images/austria-nationalpark-hohe-tauern-neukirchen-life-v2.webp",
   },
   {
     id: "austria-naturpark-sölktäler-life-v2",
@@ -224,6 +230,7 @@ export const austriaLifeV2: POI[] = [
       ro: ["Parcul natural a fost fondat oficial în anul 1983.", "Suprafața totală a ariei protejate este de 227 de kilometri pătrați.", "În parcul natural se află peste 30 de lacuri montane cristaline.", "Pasul Sölk este situat la o altitudine de 1.788 de metri.", "Cel mai înalt vârf din regiune este Großer Knallstein, cu 2.599 de metri.", "Casa parcului natural se află în castelul istoric Großsölk."],
       en: ["The nature park was officially established in the year 1983.", "The total area of the protected territory is 227 square kilometres.", "There are over 30 crystal-clear mountain lakes within the park.", "The Sölk Pass is located at an elevation of 1,788 metres above sea level.", "The highest peak in the region is the Großer Knallstein at 2,599 metres.", "The nature park house is located in the historic Großsölk Castle."],
     },
+    image: "/poi-images/austria-naturpark-sölktäler-life-v2.webp",
   },
   {
     id: "austria-botanischer-garten-wien-life-v2",
@@ -256,6 +263,7 @@ export const austriaLifeV2: POI[] = [
       ro: ["Grădina a fost fondată în anul 1754 la ordinul Mariei Tereza.", "Complexul cuprinde o suprafață totală de aproximativ opt hectare.", "Sunt cultivate circa 11.500 de specii diferite de plante.", "Colecția de orhidee este printre cele mai importante din lume.", "Grădina se află în districtul 3 al Vienei, Landstraße.", "Intrarea în grădina științifică este gratuită pentru vizitatori."],
       en: ["The garden was founded in 1754 by order of Empress Maria Theresa.", "The facility covers a total area of approximately eight hectares.", "About 11,500 different plant species are cultivated here.", "The orchid collection is among the most significant in the world.", "The garden is located in Vienna's 3rd district, Landstraße.", "Entrance to the scientific garden is free of charge for visitors."],
     },
+    image: "/poi-images/austria-botanischer-garten-wien-life-v2.webp",
   },
   {
     id: "austria-naturpark-tiroler-lech-life-v2",
@@ -288,6 +296,7 @@ export const austriaLifeV2: POI[] = [
       ro: ["Parcul Natural Tiroler Lech a fost fondat oficial în anul 2004.", "Aria protejată cuprinde o suprafață de aproximativ 41 de kilometri pătrați.", "Lech este ultimul râu sălbatic din Alpii Nordici cu dinamică liberă.", "Peste 1.100 de plante cu flori diferite au fost identificate în zonă.", "Parcul găzduiește cea mai mare populație de tamarisca germană.", "Centrul modern pentru vizitatori se află în localitatea Weißenbach."],
       en: ["The Tiroler Lech Nature Park was officially established in 2004.", "The protected area covers an area of approximately 41 square kilometres.", "The Lech is the last wild river in the Northern Alps with free dynamics.", "Over 1,100 different flowering plants have been identified in the area.", "The park is home to the largest population of the German tamarisk.", "The modern visitor centre is located in the municipality of Weißenbach."],
     },
+    image: "/poi-images/austria-naturpark-tiroler-lech-life-v2.webp",
   },
   {
     id: "austria-wildpark-glaschütte-life-v2",
@@ -320,6 +329,7 @@ export const austriaLifeV2: POI[] = [
       ro: ["Parcul de animale este situat în regiunea Almenland la circa 1.000 m altitudine.", "Fondarea parcului a avut loc în anii 1970.", "Vizitatorii pot vedea cerbi, mufloni și capre negre de aproape.", "Un traseu panoramic oferă vederi peste regiunea Almenland din Styria.", "Parcul dispune de o grădină zoologică cu animale de mângâiat pentru copii.", "Complexul este accesibil vizitatorilor pe tot parcursul anului."],
       en: ["The wildlife park is located in the Almenland region at about 1,000m altitude.", "The park was established during the 1970s.", "Visitors can see deer, mouflons, and ibexes at close range.", "A panoramic trail offers views over the Styrian Almenland.", "The park features a petting zoo for children.", "The facility is accessible to visitors throughout the year."],
     },
+    image: "/poi-images/austria-wildpark-glaschütte-life-v2.webp",
   },
   {
     id: "austria-botanischer-garten-klagenfurt-life-v2",
@@ -352,6 +362,7 @@ export const austriaLifeV2: POI[] = [
       ro: ["Fondarea grădinii a avut loc deja în anul 1862.", "Complexul este situat pe terenul unei foste cariere de piatră.", "Grădina cuprinde o suprafață de aproximativ 1,2 hectare.", "Este o grădină specializată pe flora regiunii Alpe-Adria.", "Grădina este administrată ca filială a Muzeului Regional din Carintia.", "În complex este integrată o colecție geologică cu roci din Carintia."],
       en: ["The garden was established as early as 1862.", "The facility is located on the site of a former stone quarry.", "The garden covers an area of approximately 1.2 hectares.", "It is a specialized garden for the flora of the Alps-Adriatic region.", "The garden is managed as a branch of the Carinthian State Museum.", "A geological collection featuring Carinthian rocks is integrated into the site."],
     },
+    image: "/poi-images/austria-botanischer-garten-klagenfurt-life-v2.webp",
   },
   {
     id: "austria-naturpark-oetztal-life-v2",
@@ -384,6 +395,7 @@ export const austriaLifeV2: POI[] = [
       ro: ["Parcul natural a fost fondat oficial în anul 2006.", "Suprafața totală a parcului este de aproximativ 510 kilometri pătrați.", "În cadrul parcului se află un total de 67 de ghețari.", "Wildspitze (3.768 m) este cel mai înalt punct al parcului natural.", "Aproximativ 35 la sută din suprafața totală a văii Ötztal este protejată.", "Parcul găzduiește pădurea protejată de zâmbru din Obergurgl."],
       en: ["The nature park was officially established in the year 2006.", "The total area of the park is approximately 510 square kilometres.", "There are a total of 67 glaciers located within the park.", "The Wildspitze (3,768 m) is the highest point of the nature park.", "Around 35 percent of the total area of the Ötztal valley is protected.", "The park houses the protected Obergurgl stone pine forest."],
     },
+    image: "/poi-images/austria-naturpark-oetztal-life-v2.webp",
   },
   {
     id: "austria-wildpark-ernstbrunn-life-v2",
@@ -416,6 +428,7 @@ export const austriaLifeV2: POI[] = [
       ro: ["Parcul de animale sălbatice a fost fondat în anul 1975.", "Suprafața totală a parcului este de aproximativ 40 de hectare.", "Wolf Science Center (WSC) se află în incintă din anul 2009.", "Parcul este situat în munții Leiser Berge din Weinviertel, Austria Inferioară.", "Sunt deținute trei haite de lupi diferite în incinte mari.", "Complexul face parte din grădina castelului familiei princiare Reuss."],
       en: ["The wildlife park was established in the year 1975.", "The total area of the park is approximately 40 hectares.", "The Wolf Science Center (WSC) has been located on the grounds since 2009.", "The park is situated in the Leiser Berge in the Lower Austrian Weinviertel.", "Three different wolf packs are kept in large enclosures.", "The facility is part of the palace gardens of the princely Reuss family."],
     },
+    image: "/poi-images/austria-wildpark-ernstbrunn-life-v2.webp",
   },
   {
     id: "austria-naturpark-geschriebenstein-life-v2",
@@ -448,6 +461,7 @@ export const austriaLifeV2: POI[] = [
       ro: ["Parcul natural a fost fondat în anul 1996 ca proiect transfrontalier.", "Geschriebenstein este cea mai înaltă cota din Burgenland, cu 884 de metri.", "Turnul de observație de pe vârf se află exact pe granița de stat cu Ungaria.", "Rețeaua de trasee de drumeție cuprinde în total peste 500 de kilometri.", "Un punct culminant este traseul prin coronamentul arborilor din Althodis.", "Zona găzduiește specii rare de plante panonice și insecte."],
       en: ["The nature park was established in 1996 as a cross-border project.", "The Geschriebenstein is the highest point in Burgenland at 884 metres.", "The observation tower on the summit stands exactly on the border with Hungary.", "The hiking trail network covers a total of more than 500 kilometres.", "A major highlight is the barrier-free treetop trail in Althodis.", "The area is home to rare Pannonian plant species and insects."],
     },
+    image: "/poi-images/austria-naturpark-geschriebenstein-life-v2.webp",
   },
   {
     id: "austria-alpenzoo-innsbruck-life-v2",
@@ -480,6 +494,7 @@ export const austriaLifeV2: POI[] = [
       ro: ["Situată la o altitudine de 750 de metri peste nivelul mării.", "Fondată în anul 1962 de către zoologul Hans Psenner.", "Găzduiește aproximativ 2000 de animale din 150 de specii.", "Deține singurul acvariu de apă rece cu pești alpini din lume.", "Peste 100 de zăgani au fost reintroduși în natură din 1980.", "Suprafața totală a facilității este de circa 5 hectare."],
       en: ["Located at an elevation of 750 metres above sea level.", "Founded in 1962 by the zoologist Hans Psenner.", "Home to roughly 2,000 animals from 150 Alpine species.", "Features the world's only cold-water aquarium for Alpine fish.", "Successfully released over 100 bearded vultures since 1980.", "The total area of the zoo covers approximately 5 hectares."],
     },
+    image: "/poi-images/austria-alpenzoo-innsbruck-life-v2.webp",
   },
   {
     id: "austria-naturpark-karwendel-life-v2",
@@ -512,6 +527,7 @@ export const austriaLifeV2: POI[] = [
       ro: ["Suprafață totală de cca. 727 km², cel mai mare din Austria.", "Vârful Birkkarspitze este cel mai înalt punct, la 2749 m.", "Primele zone protejate au fost stabilite în anul 1928.", "Găzduiește una dintre cele mai mari densități de acvile de munte.", "Peste 350 de izvoare se află în perimetrul parcului.", "Großer Ahornboden include peste 2000 de arbori de arțar montan."],
       en: ["Total area of approx. 727 km², Austria's largest nature park.", "The highest point is the Birkkarspitze at 2,749 metres.", "The first protected areas were established in 1928.", "Home to one of the highest densities of golden eagles in the Alps.", "Over 350 springs originate within the park boundaries.", "Großer Ahornboden contains more than 2,000 sycamore maple trees."],
     },
+    image: "/poi-images/austria-naturpark-karwendel-life-v2.webp",
   },
   {
     id: "austria-wildpark-grünau-life-v2",
@@ -544,6 +560,7 @@ export const austriaLifeV2: POI[] = [
       ro: ["Suprafața totală a parcului este de aproximativ 60 de hectare.", "Fondat în anul 1971 în localitatea Grünau din Austria Superioară.", "Adăpostește circa 500 de animale din 80 de specii.", "Sediul faimoasei stații de cercetare Konrad Lorenz.", "Stație importantă de reproducere pentru ibisul pleșov nordic.", "Traversat de râul alpin Alm, cu o calitate înaltă a apei."],
       en: ["The total area of the park is approximately 60 hectares.", "Founded in 1971 in Grünau im Almtal, Upper Austria.", "Home to about 500 animals from roughly 80 different species.", "Host to the world-renowned Konrad Lorenz Research Station.", "Key breeding station for the endangered northern bald ibis.", "Flowed through by the Alm River, known for its water purity."],
     },
+    image: "/poi-images/austria-wildpark-grünau-life-v2.webp",
   },
   {
     id: "austria-botanischer-garten-graz-life-v2",
@@ -576,6 +593,7 @@ export const austriaLifeV2: POI[] = [
       ro: ["Găzduiește circa 5800 de specii de plante din toată lumea.", "Fondată la locația actuală în anul 1888.", "Serele moderne au fost finalizate în anul 1995.", "Prezintă patru zone climatice (între 8°C și 24°C).", "Aparține de Universitatea Karl-Franzens din Graz.", "Suprafața totală a grădinii este de aproximativ 2 hectare."],
       en: ["Houses approximately 5,800 different plant species.", "Founded at its current location in 1888.", "The modern greenhouses were completed in 1995.", "Features four climatic zones (ranging from 8°C to 24°C).", "Part of the Karl Franzens University of Graz.", "The garden covers a total area of about 2 hectares."],
     },
+    image: "/poi-images/austria-botanischer-garten-graz-life-v2.webp",
   },
   {
     id: "austria-naturpark-leiser-berge-life-v2",
@@ -608,5 +626,6 @@ export const austriaLifeV2: POI[] = [
       ro: ["Suprafața totală a parcului este de cca. 4500 de hectare.", "Buschberg este cel mai înalt punct, având 491 m.", "Găzduiește Wolf Science Center (WSC) în Ernstbrunn.", "Oberleiser Berg a fost locuit încă de acum 6000 de ani.", "Adăpostește orhidee rare precum papucul doamnei.", "Naturpark-Express circulă ca tren nostalgic de experiență."],
       en: ["The total area of the nature park is approx. 4,500 hectares.", "Buschberg is the highest elevation at 491 metres.", "Home to the Wolf Science Center (WSC) in Ernstbrunn.", "Oberleiser Berg has been inhabited for 6,000 years.", "Supports rare orchids such as the lady's slipper.", "The Nature Park Express operates as a nostalgic tourist train."],
     },
+    image: "/poi-images/austria-naturpark-leiser-berge-life-v2.webp",
   }
 ];

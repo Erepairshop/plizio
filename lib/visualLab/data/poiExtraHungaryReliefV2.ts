@@ -32,6 +32,7 @@ export const hungaryReliefV2: POI[] = [
       ro: ["Bazinul se află la 150-200 m altitudine.", "Temperatura medie anuală este de 9,5°C.", "Precipitații anuale: aprox. 550 mm.", "Drenajul este asigurat de râul Tarna.", "Suprafața este de aproximativ 150 km².", "Agricultură: viță de vie, grâu, porumb."],
       en: ["The basin lies at 150-200 m elevation.", "Average annual temperature is 9.5°C.", "Annual precipitation: approx. 550 mm.", "Drainage by the Tarna River.", "Area is approximately 150 km².", "Agriculture: wine, wheat, corn."],
     },
+    image: "/poi-images/hungary-haromszegi-medence-relief-v2.webp",
   },
   {
     id: "hungary-cserehati-dombsag-relief-v2",
@@ -64,6 +65,7 @@ export const hungaryReliefV2: POI[] = [
       ro: ["Dealurile acoperă 800 km².", "Altitudini: 200-300 m.", "Acoperire forestieră: doar 20%.", "Densitatea populației: 40 loc/km².", "Culturi de floarea-soarelui și cereale.", "Faimoase pentru livezile sălbatice."],
       en: ["The hills cover 800 km².", "Elevations: 200-300 m.", "Forest cover: only 20%.", "Population density: 40 per km².", "Sunflower and cereal cultivation.", "Famous for wild fruit orchards."],
     },
+    image: "/poi-images/hungary-cserehati-dombsag-relief-v2.webp",
   },
   {
     id: "hungary-szaraz-domb-relief-v2",
@@ -96,5 +98,6 @@ export const hungaryReliefV2: POI[] = [
       ro: ["Altitudine: 262 m.", "Roci: calcar și dolomit.", "Parte a Ariei Protejate Buda.", "Are un turn de observație.", "Vegetație: păduri de stejar și fag.", "Situat în sectorul III."],
       en: ["Height: 262 m.", "Rock: limestone and dolomite.", "Part of Buda Landscape Protection Area.", "Has a lookout tower.", "Vegetation: oak and beech forests.", "Located in district III."],
     },
+    image: "/poi-images/hungary-szaraz-domb-relief-v2.webp",
   }
 ];

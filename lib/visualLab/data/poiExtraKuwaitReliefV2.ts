@@ -31,6 +31,7 @@ export const kuwaitReliefV2: POI[] = [
       ro: ["Lungimea escarpmentului: aprox. 80 km", "Înălțimea maximă: 145 m deasupra nivelului mării", "Suprafața protejată: 120 km² ca rezervație naturală", "Specii de păsări observate: peste 40 de specii migratoare", "Vârsta rocilor: Miocen (23–5 milioane de ani)", "Precipitații anuale în zonă: mai puțin de 100 mm"],
       en: ["Escarpment height: 145 m (476 ft) above sea level at its highest point", "Length: 80 km (50 mi) along the northeastern coast", "Age: Miocene epoch, approximately 23–5 million years old", "Distance from Kuwait City: 60 km (37 mi) northeast", "Annual rainfall: less than 100 mm (3.9 in)", "Oil fields nearby: Burgan field, one of the world's largest, located 20 km southwest"],
     },
+    image: "/poi-images/kuwait-jal-al-zor-relief-v2.webp",
   },
   {
     id: "kuwait-ash-shaqaya-relief-v2",
@@ -62,6 +63,7 @@ export const kuwaitReliefV2: POI[] = [
       ro: ["Altitudine: 100–150 m deasupra nivelului mării", "Suprafață: aprox. 500 km²", "Precipitații anuale: sub 100 mm", "Numărul de zone umede temporare: 5–7 în funcție de an", "Specii de păsări observate: peste 30 de specii migratoare", "Adâncimea acviferului local: 50–100 m"],
       en: ["Elevation: 100–150 m (330–490 ft) above sea level", "Area: approximately 500 km² (193 sq mi)", "Geological age: Pliocene-Pleistocene (5–2 million years ago)", "Annual rainfall: less than 100 mm (3.9 in)", "Distance to Iraq border: 30 km (19 mi) west", "Groundwater recharge rate: approximately 20 million m³ annually"],
     },
+    image: "/poi-images/kuwait-ash-shaqaya-relief-v2.webp",
   },
   {
     id: "kuwait-umm-al-rimam-relief-v2",
@@ -93,6 +95,7 @@ export const kuwaitReliefV2: POI[] = [
       ro: ["Lungime: 10 km", "Lățime: 5 km", "Altitudine: 50 m deasupra nivelului mării", "Suprafață: 50 km²", "Salinitatea solului: 10–15 g/l", "Specii de plante halofite: 12 specii identificate"],
       en: ["Length: 10 km (6.2 mi)", "Width: 5 km (3.1 mi)", "Elevation: 50 m (164 ft) above sea level", "Area: 50 km² (19 sq mi)", "Annual evaporation: over 2000 mm (78.7 in)", "Rainwater harvesting potential: 500,000 m³ per year"],
     },
+    image: "/poi-images/kuwait-umm-al-rimam-relief-v2.webp",
   },
   {
     id: "kuwait-al-dibdibba-relief-v2",
@@ -124,6 +127,7 @@ export const kuwaitReliefV2: POI[] = [
       ro: ["Altitudine: 100–200 m deasupra nivelului mării", "Suprafață totală: 10.000 km² (1.500 km² în Kuweit)", "Debitul acviferului: 100 milioane m³/an", "Grosimea stratului de pietriș: 20–50 m", "Numărul de ferme solare: 3 operaționale", "Temperatura medie anuală: 25°C"],
       en: ["Elevation: 100–200 m (330–660 ft) above sea level", "Area in Kuwait: 1,500 km² (579 sq mi)", "Aquifer capacity: 100 million m³ per year", "Farmland under irrigation: 50 km² (19 sq mi)", "Solar irradiance: 5.5 kWh/m²/day", "Oryx population: reintroduced, about 100 individuals"],
     },
+    image: "/poi-images/kuwait-al-dibdibba-relief-v2.webp",
   },
   {
     id: "kuwait-umm-al-aish-relief-v2",
@@ -155,6 +159,7 @@ export const kuwaitReliefV2: POI[] = [
       ro: ["Altitudine: 60 m deasupra nivelului mării", "Suprafață: 30 km²", "Salinitate: 40 g/kg", "Lacul sezonier: suprafață maximă 5 km²", "Temperatura solului vara: până la 60°C", "Producția de sare istorică: 100 tone/an"],
       en: ["Elevation: 60 m (197 ft) above sea level", "Area: 30 km² (11.6 sq mi)", "Soil salinity: 40 g/kg (4%)", "Seasonal lake area: up to 5 km² (1.9 sq mi)", "Historical salt yield: 100 tons per year", "Salicornia yield: 2 tons per hectare experimentally"],
     },
+    image: "/poi-images/kuwait-umm-al-aish-relief-v2.webp",
   },
   {
     id: "kuwait-khabrat-al-awazim-relief-v2",
@@ -186,6 +191,7 @@ export const kuwaitReliefV2: POI[] = [
       ro: ["Altitudine: 40 m deasupra nivelului mării", "Suprafață: 10 km²", "Adâncimea apei: max. 0,5 m", "Volumul de apă colectat: 1 milion m³ pe an", "Specii de amfibieni: 3 specii", "Distanța până la frontieră: 15 km"],
       en: ["Elevation: 40 m (131 ft) above sea level", "Area: 10 km² (3.9 sq mi)", "Water depth during floods: up to 0.5 m (1.6 ft)", "Annual collected water: 1 million m³", "Number of archaeological artifacts: 200+", "Distance from Iraq border: 15 km (9.3 mi)"],
     },
+    image: "/poi-images/kuwait-khabrat-al-awazim-relief-v2.webp",
   },
   {
     id: "kuwait-al-kuwaisat-relief-v2",
@@ -217,6 +223,7 @@ export const kuwaitReliefV2: POI[] = [
       ro: ["Altitudine: 80 m deasupra nivelului mării", "Suprafață: 200 km²", "Capacitatea centralei solare: 10 MW", "Radiație solară anuală: 2200 kWh/m²", "Viteza vântului medie: 5 m/s", "Număr de specii vegetale: 30"],
       en: ["Elevation: 80 m (262 ft) above sea level", "Area: 200 km² (77 sq mi)", "Solar plant capacity: 10 MW", "Annual solar radiation: 2200 kWh/m²", "Average wind speed: 5 m/s (11 mph)", "Planned wind farm capacity: 50 MW"],
     },
+    image: "/poi-images/kuwait-al-kuwaisat-relief-v2.webp",
   },
   {
     id: "kuwait-wadi-al-rimam-relief-v2",
@@ -248,6 +255,7 @@ export const kuwaitReliefV2: POI[] = [
       ro: ["Lungime: 30 km", "Adâncime: 10 m", "Lățimea albiei: 50 m", "Suprafața bazinului: 100 km²", "Debit maxim: 500 m³/s", "Vegetație: Tamarix, Acacia"],
       en: ["Length: 30 km (18.6 mi)", "Depth: up to 10 m (33 ft)", "Width: 20–50 m (66–164 ft)", "Catchment area: 100 km² (38.6 sq mi)", "Peak discharge: 500 m³/s (17,650 cfs)", "Number of ancient wells: 15"],
     },
+    image: "/poi-images/kuwait-wadi-al-rimam-relief-v2.webp",
   },
   {
     id: "kuwait-al-liyah-relief-v2",
@@ -279,6 +287,7 @@ export const kuwaitReliefV2: POI[] = [
       ro: ["Altitudine: 90 m deasupra nivelului mării", "Suprafață: 300 km²", "Temperatura maximă: 50°C", "Populația de oryx: 30 de exemplare", "Vârsta rocilor: Eocen (50 Ma)", "Poluare luminoasă: extrem de redusă"],
       en: ["Elevation: 90 m (295 ft) above sea level", "Area: 300 km² (115.8 sq mi)", "Average summer temperature: 45°C (113°F)", "Oryx population: 30 individuals", "Observatory elevation: 90 m", "Dark sky rating: Bortle class 1"],
     },
+    image: "/poi-images/kuwait-al-liyah-relief-v2.webp",
   },
   {
     id: "kuwait-al-abaliq-relief-v2",
@@ -310,6 +319,7 @@ export const kuwaitReliefV2: POI[] = [
       ro: ["Altitudine maximă: 120 m", "Lungime: 15 km", "Lățime: 5 km", "Număr de coline: 10", "Uraniu în noduli: 50 ppm", "Distanța până la Al-Jahra: 50 km"],
       en: ["Maximum elevation: 120 m (394 ft)", "Length: 15 km (9.3 mi)", "Width: 5 km (3.1 mi)", "Uranium concentration: up to 50 ppm in nodules", "Distance to Al-Jahra: 50 km (31 mi)", "Number of trails: 3 marked hiking paths"],
     },
+    image: "/poi-images/kuwait-al-abaliq-relief-v2.webp",
   },
   {
     id: "kuwait-ad-dira-relief-v2",
@@ -341,6 +351,7 @@ export const kuwaitReliefV2: POI[] = [
       ro: ["Altitudine: 30 m deasupra nivelului mării", "Suprafață: 100 km²", "Salinitatea apei freatice: 7 g/l", "Producția de tilapia: 500 tone/an", "Capacitatea instalației de desalinizare: 1000 m³/zi", "Suprafața iazurilor: 20 ha"],
       en: ["Elevation: 30 m (98 ft) above sea level", "Area: 100 km² (38.6 sq mi)", "Groundwater salinity: 7 g/l (0.7%)", "Aquaculture production: 500 tons/year", "Desalination capacity: 1,000 m³/day", "Number of ponds: 20 hectares (49 acres)"],
     },
+    image: "/poi-images/kuwait-ad-dira-relief-v2.webp",
   },
   {
     id: "kuwait-jabal-al-maseilah-relief-v2",
@@ -372,6 +383,7 @@ export const kuwaitReliefV2: POI[] = [
       ro: ["Altitudine: 135 m deasupra nivelului mării", "Înălțime relativă: 80 m", "Vârsta rocilor: Miocen (15 Ma)", "Fosile: 20 de specii", "Traseu turistic: 3 km", "Distanța până la frontieră: 10 km"],
       en: ["Elevation: 135 m (443 ft) above sea level", "Height above plain: 80 m (262 ft)", "Age: Miocene (15 million years old)", "Military installations: 2 radar bases", "Distance to Iraq border: 10 km (6.2 mi)", "Telecommunication towers: 3"],
     },
+    image: "/poi-images/kuwait-jabal-al-maseilah-relief-v2.webp",
   },
   {
     id: "kuwait-al-hujayjah-relief-v2",
@@ -403,6 +415,7 @@ export const kuwaitReliefV2: POI[] = [
       ro: ["Lungime: 20 km", "Înălțime maximă: 100 m", "Lățime: 2 km", "Fosile de mamifere găsite: 10 specii", "Anul descoperirii fosilelor: 2005", "Suprafață protejată: 10 km²"],
       en: ["Length: 20 km (12.4 mi)", "Height: up to 100 m (328 ft)", "Width: 2 km (1.2 mi)", "Fossil mammal species: 10 identified", "First major excavation: 2005", "Protected area: 10 km² (3.9 sq mi)"],
     },
+    image: "/poi-images/kuwait-al-hujayjah-relief-v2.webp",
   },
   {
     id: "kuwait-wadi-al-shagaya-relief-v2",
@@ -434,6 +447,7 @@ export const kuwaitReliefV2: POI[] = [
       ro: ["Lungime: 25 km", "Adâncime: 8 m", "Suprafața bazinului: 150 km²", "Debitul de reîncărcare: 10 milioane m³/an", "Număr de baraje: 2", "Specii de plante: 30"],
       en: ["Length: 25 km (15.5 mi)", "Depth: up to 8 m (26 ft)", "Catchment area: 150 km² (57.9 sq mi)", "Recharge rate: 10 million m³/year", "Number of recharge dams: 2", "Average flow during floods: 200 m³/s (7,060 cfs)"],
     },
+    image: "/poi-images/kuwait-wadi-al-shagaya-relief-v2.webp",
   },
   {
     id: "kuwait-ras-al-barshah-relief-v2",
@@ -465,6 +479,7 @@ export const kuwaitReliefV2: POI[] = [
       ro: ["Înălțimea stâncii: 10 m", "Lungimea promontoriului: 2 km", "Adâncimea apei: 5 m", "Suprafața mangrovei: 0,5 km²", "Specii de pești: 30", "Distanța până la Subiyah: 15 km"],
       en: ["Cliff height: 10 m (33 ft) above sea level", "Length of headland: 2 km (1.2 mi)", "Water depth: 5 m (16 ft)", "Mangrove area: 0.5 km² (0.19 sq mi)", "Fish species: 30", "Distance to Subiyah: 15 km (9.3 mi)"],
     },
+    image: "/poi-images/kuwait-ras-al-barshah-relief-v2.webp",
   },
   {
     id: "kuwait-umm-al-madafe-relief-v2",
@@ -496,6 +511,7 @@ export const kuwaitReliefV2: POI[] = [
       ro: ["Diametru: 2 km", "Adâncime: 5 m", "Suprafață: 3 km²", "Adâncimea apei temporare: 0,5 m", "Fragmente ceramice: peste 50", "Distanța până la drum: 5 km"],
       en: ["Diameter: 2 km (1.2 mi)", "Depth: 5 m (16 ft)", "Area: 3 km² (1.2 sq mi)", "Water depth during rain: up to 0.5 m", "Artifacts collected: 50+ pottery sherds", "Distance to main road: 5 km (3.1 mi)"],
     },
+    image: "/poi-images/kuwait-umm-al-madafe-relief-v2.webp",
   },
   {
     id: "kuwait-khabrat-al-faras-relief-v2",
@@ -527,6 +543,7 @@ export const kuwaitReliefV2: POI[] = [
       ro: ["Lungime: 3 km", "Lățime: 1,5 km", "Altitudine: 70 m", "Suprafață: 4,5 km²", "Adâncimea apei: 0,3 m", "Distanța până la granița saudită: 30 km"],
       en: ["Length: 3 km (1.9 mi)", "Width: 1.5 km (0.93 mi)", "Elevation: 70 m (230 ft)", "Area: 4.5 km² (1.74 sq mi)", "Test track area: 2 km² (0.77 sq mi)", "Distance to Saudi border: 30 km (18.6 mi)"],
     },
+    image: "/poi-images/kuwait-khabrat-al-faras-relief-v2.webp",
   },
   {
     id: "kuwait-umm-negga-relief-v2",
@@ -558,6 +575,7 @@ export const kuwaitReliefV2: POI[] = [
       ro: ["Altitudine: 30 m", "Suprafață: 500 km²", "Viteza vântului: 15 km/h", "Zile cu furtuni de nisip: 15 pe an", "Număr de instalații petroliere: 3", "Distanța până la Al-Salmi: 40 km"],
       en: ["Elevation: 30 m (98 ft) above sea level", "Area: 500 km² (193 sq mi)", "Protected reserve size: 100 km² (38.6 sq mi)", "Oryx population: 50 individuals", "Poaching incidents: 0 in last 5 years", "Distance to Al-Salmi: 40 km (24.9 mi)"],
     },
+    image: "/poi-images/kuwait-umm-negga-relief-v2.webp",
   },
   {
     id: "kuwait-khabrat-umm-al-hashani-relief-v2",
@@ -589,6 +607,7 @@ export const kuwaitReliefV2: POI[] = [
       ro: ["Lungime: 2 km", "Lățime: 1 km", "Altitudine: 75 m", "Suprafață: 2 km²", "Adâncimea apei: 0,4 m", "Specii de păsări: 15"],
       en: ["Length: 2 km (1.2 mi)", "Width: 1 km (0.62 mi)", "Elevation: 75 m (246 ft)", "Area: 2 km² (0.77 sq mi)", "Water depth: up to 0.4 m (1.3 ft)", "Declining bird species: 3 since 2000"],
     },
+    image: "/poi-images/kuwait-khabrat-umm-al-hashani-relief-v2.webp",
   },
   {
     id: "kuwait-wadi-umm-al-khilsan-relief-v2",
@@ -620,6 +639,7 @@ export const kuwaitReliefV2: POI[] = [
       ro: ["Lungime: 15 km", "Adâncime: 6 m", "Lățime: 40 m", "Suprafața bazinului: 80 km²", "Debit maxim: 100 m³/s", "Specii de reptile: 8"],
       en: ["Length: 15 km (9.3 mi)", "Depth: 6 m (20 ft)", "Width: 40 m (131 ft)", "Catchment area: 80 km² (30.9 sq mi)", "Peak discharge: 100 m³/s (3,530 cfs)", "Gypsum production historical: 500 tons/year"],
     },
+    image: "/poi-images/kuwait-wadi-umm-al-khilsan-relief-v2.webp",
   },
   {
     id: "kuwait-ad-dahad-relief-v2",
@@ -651,6 +671,7 @@ export const kuwaitReliefV2: POI[] = [
       ro: ["Altitudine maximă: 145 m deasupra nivelului mării", "Lungime: aproximativ 15 km", "Formațiune geologică: Miocen-Pliocen (23-2,6 milioane de ani)", "Lățime medie: 3-5 km", "Precipitații anuale: sub 100 mm", "Roci predominante: gresie și calcar"],
       en: ["Maximum elevation: 145 m above sea level", "Length: approximately 15 km", "Geological age: Miocene-Pliocene (23-2.6 million years)", "Average width: 3-5 km", "Annual precipitation: less than 100 mm", "Dominant rock types: sandstone and limestone"],
     },
+    image: "/poi-images/kuwait-ad-dahad-relief-v2.webp",
   },
   {
     id: "kuwait-khabrat-al-malha-relief-v2",
@@ -682,6 +703,7 @@ export const kuwaitReliefV2: POI[] = [
       ro: ["Suprafață: aproximativ 10 km²", "Altitudine: aproximativ 20 m sub nivelul mării", "Grosimea crustei de sare: până la 30 cm", "Precipitații anuale: sub 80 mm", "Vegetație: predominant Salsola și Suaeda", "Temperatură maximă de vară: peste 50°C"],
       en: ["Area: approximately 10 km²", "Elevation: about 20 m below sea level", "Salt crust thickness: up to 30 cm", "Annual precipitation: less than 80 mm", "Dominant vegetation: Salsola imbricata and Suaeda aegyptiaca", "Maximum summer temperature: over 50°C"],
     },
+    image: "/poi-images/kuwait-khabrat-al-malha-relief-v2.webp",
   },
   {
     id: "kuwait-al-kabrit-plain-relief-v2",
@@ -713,6 +735,7 @@ export const kuwaitReliefV2: POI[] = [
       ro: ["Suprafață: aproximativ 2.000 km²", "Altitudine medie: 50 m deasupra nivelului mării", "Substrat geologic: calcar cretacic (145-66 milioane ani)", "Acoperire de sol: pietriș și nisip", "Precipitații anuale: sub 100 mm", "Număr de wadi-uri majore: 4"],
       en: ["Area: approximately 2,000 km²", "Average elevation: 50 m above sea level", "Geological bedrock: Cretaceous limestone (145-66 million years)", "Soil cover: gravel and sand", "Annual precipitation: less than 100 mm", "Number of major wadis: 4"],
     },
+    image: "/poi-images/kuwait-al-kabrit-plain-relief-v2.webp",
   },
   {
     id: "kuwait-umm-ruaba-relief-v2",
@@ -744,6 +767,7 @@ export const kuwaitReliefV2: POI[] = [
       ro: ["Suprafață: aproximativ 30 km²", "Înălțime maximă a dunei: 25 m", "Rată anuală de migrare: 5-10 m", "Vânt dominant: nord-vest (Shamal)", "Compoziția nisipului: cuarț, fragmente de cochilii", "Număr de dune: peste 100"],
       en: ["Area: approximately 30 km²", "Maximum dune height: 25 m", "Annual migration rate: 5-10 m", "Prevailing wind: northwest (Shamal)", "Sand composition: quartz with shell fragments", "Number of dunes: over 100"],
     },
+    image: "/poi-images/kuwait-umm-ruaba-relief-v2.webp",
   },
   {
     id: "kuwait-wadi-umm-al-hayman-relief-v2",
@@ -775,6 +799,7 @@ export const kuwaitReliefV2: POI[] = [
       ro: ["Lungime: 18 km", "Adâncime: până la 10 m", "Bazin hidrografic: 50 km²", "Formațiuni geologice: calcar terțiar, gresie", "Vegetație: tamarix, salcâm", "Situri arheologice: 5"],
       en: ["Length: 18 km", "Depth: up to 10 m", "Catchment area: 50 km²", "Geological formations: Tertiary limestone and sandstone", "Dominant tree species: Tamarix aphylla and Acacia tortilis", "Archaeological sites: 5"],
     },
+    image: "/poi-images/kuwait-wadi-umm-al-hayman-relief-v2.webp",
   },
   {
     id: "kuwait-al-khishman-ridge-relief-v2",
@@ -806,6 +831,7 @@ export const kuwaitReliefV2: POI[] = [
       ro: ["Lungime: 12 km", "Altitudine maximă: 165 m deasupra nivelului mării", "Epocă geologică: Cretacic superior (100-66 milioane ani)", "Rocă predominantă: calcar", "Fosile frecvente: rudiști, echinide", "Statut de protecție: arie naturală protejată"],
       en: ["Length: 12 km", "Maximum elevation: 165 m above sea level", "Geological epoch: Upper Cretaceous (100-66 million years)", "Rock type: limestone", "Common fossils: rudist bivalves and echinoids", "Conservation status: nature reserve"],
     },
+    image: "/poi-images/kuwait-al-khishman-ridge-relief-v2.webp",
   },
   {
     id: "kuwait-jabal-maqab-relief-v2",
@@ -837,6 +863,7 @@ export const kuwaitReliefV2: POI[] = [
       ro: ["Altitudine: 130 m deasupra nivelului mării", "Formațiune geologică: Eocen (56-33,9 milioane ani)", "Roci: calcar și marnă", "Fosilă caracteristică: Nummulites", "Diametru: aproximativ 1 km", "Utilizare: excursii geologice, teren militar"],
       en: ["Elevation: 130 m above sea level", "Geological formation: Eocene (56-33.9 million years)", "Rock types: limestone and marl", "Characteristic fossil: Nummulites", "Hill diameter: approx. 1 km", "Current use: geological field trips, military training area"],
     },
+    image: "/poi-images/kuwait-jabal-maqab-relief-v2.webp",
   },
   {
     id: "kuwait-khabrat-al-ushaysh-relief-v2",
@@ -868,6 +895,7 @@ export const kuwaitReliefV2: POI[] = [
       ro: ["Diametru: aproximativ 2 km", "Reținerea apei: câteva săptămâni", "Adâncime la umplere: până la 1,5 m", "Calitatea apei: dulce (salinitate sub 1.000 ppm)", "Pasăre frecventă: dropie mică (Tetrax tetrax)", "Tip de sol: nisip argilos"],
       en: ["Diameter: approx. 2 km", "Water retention: several weeks", "Maximum depth when full: 1.5 m", "Water quality: fresh (salinity < 1,000 ppm)", "Common bird species: little bustard (Tetrax tetrax)", "Soil type: clayey sand"],
     },
+    image: "/poi-images/kuwait-khabrat-al-ushaysh-relief-v2.webp",
   },
   {
     id: "kuwait-at-tawil-ridge-relief-v2",
@@ -899,5 +927,6 @@ export const kuwaitReliefV2: POI[] = [
       ro: ["Lungime: 8 km", "Altitudine maximă: 80 m deasupra nivelului mării", "Formațiune geologică: Miocen (23-5,3 milioane ani)", "Roci: gresie și calcar", "Distanță până la câmpul petrolier Burgan: aproximativ 10 km", "Plantă frecventă: Artemisia sieberi"],
       en: ["Length: 8 km", "Maximum elevation: 80 m above sea level", "Geological formation: Miocene (23-5.3 million years)", "Rock types: sandstone and limestone", "Distance to Burgan oil field: approx. 10 km", "Dominant plant: Artemisia sieberi"],
     },
+    image: "/poi-images/kuwait-at-tawil-ridge-relief-v2.webp",
   }
 ];

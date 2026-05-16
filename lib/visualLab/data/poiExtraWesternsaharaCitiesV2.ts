@@ -31,6 +31,7 @@ export const westernsaharaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1885 de către Șeicul Ma al-Aynayn.", "Singurul oraș important din Sahara Occidentală cu rădăcini precoloniale.", "Centru al rezistenței împotriva trupelor franceze și spaniole la începutul secolului XX.", "Găzduiește ruinele unei universități islamice importante (zawiya).", "Situat pe malurile râului intermitent Oued Selwan.", "Bază administrativă importantă în actuala provincie Es-Semara."],
       en: ["Founded in 1885 by Sheikh Ma al-Aynayn.", "The only major city in Western Sahara with pre-colonial roots.", "Center of resistance against French and Spanish troops in the early 20th century.", "Home to the ruins of a significant Islamic university (zawiya).", "Located on the banks of the intermittent river Oued Selwan.", "Important administrative base in the current Es-Semara Province."],
     },
+    image: "/poi-images/westernsahara-smara-cities-v2.webp",
   },
   {
     id: "westernsahara-guelta-zemmur-cities-v2",
@@ -62,6 +63,7 @@ export const westernsaharaCitiesV2: POI[] = [
       ro: ["Numele înseamnă 'bazinul lui Zemmur' în limba berberă.", "Situat în podișul central al Saharei Occidentale, la aproximativ 250 km de coastă.", "Bază importantă de-a lungul zidului de apărare marocan (Berm).", "Scena unei bătălii semnificative în anul 1981.", "Guelta permanentă este alimentată de izvoare subterane.", "Împrejurimile conțin gravuri rupestre neolitice cu animale sălbatice."],
       en: ["The name means 'Pool of Zemmur' in the Berber language.", "Located in the central highlands of Western Sahara, about 250 km from the coast.", "Important base along the Moroccan defensive wall (Berm).", "Site of a significant battle in 1981.", "The permanent guelta is fed by underground springs.", "Surrounding area contains Neolithic rock engravings of wild animals."],
     },
+    image: "/poi-images/westernsahara-guelta-zemmur-cities-v2.webp",
   },
   {
     id: "westernsahara-bir-mogrein-cities-v2",
@@ -93,6 +95,7 @@ export const westernsaharaCitiesV2: POI[] = [
       ro: ["Cunoscut anterior sub numele de Fort Trinquet în timpul dominației coloniale franceze.", "Situat în regiunea Tiris Zemmour din nordul Mauritaniei.", "Punct strategic important în apropierea graniței cu Sahara Occidentală.", "Servește ca stație de aprovizionare pentru rutele comerciale trans-sahariene.", "Climatul este marcat de ariditate extremă și vânturi puternice.", "Orașul dispune de un mic aerodrom pentru scopuri militare și civile."],
       en: ["Formerly known as Fort Trinquet during French colonial rule.", "Located in the Tiris Zemmour region of northern Mauritania.", "Important strategic point near the border with Western Sahara.", "Serves as a supply station for trans-Saharan trade routes.", "Climate is characterized by extreme aridity and strong winds.", "The town has a small airfield for military and civilian purposes."],
     },
+    image: "/poi-images/westernsahara-bir-mogrein-cities-v2.webp",
   },
   {
     id: "westernsahara-tifariti-cities-v2",
@@ -124,6 +127,7 @@ export const westernsaharaCitiesV2: POI[] = [
       ro: ["Capitala de facto a SADR în teritoriile eliberate.", "Găzduiește Universitatea din Tifariti, fondată în anul 2013.", "Locul de desfășurare a festivalului internațional de artă ARTifariti.", "Gravuri rupestre neolitice extinse în imediata vecinătate.", "A fost aproape complet distrus în 1991, chiar înainte de încetarea focului.", "Sediul Consiliului Național Sahrawi în timpul anumitor pericade de sesiune."],
       en: ["De facto capital of the SADR in the liberated territories.", "Home to the University of Tifariti, founded in 2013.", "Site of the annual international art festival ARTifariti.", "Extensive Neolithic rock carvings in the immediate vicinity.", "Almost completely destroyed in 1991, just before the ceasefire.", "Seat of the Sahrawi National Council during certain session periods."],
     },
+    image: "/poi-images/westernsahara-tifariti-cities-v2.webp",
   },
   {
     id: "westernsahara-ausserd-cities-v2",
@@ -155,5 +159,6 @@ export const westernsaharaCitiesV2: POI[] = [
       ro: ["Centru tradițional al triburilor nomade Reguibat.", "Eponim pentru una dintre cele mari provincii de refugiați sahrawi (wilayas).", "Situat în regiunea Tiris, cunoscută pentru câmpiile sale vaste de deșert.", "Climatul este unul dintre cele mai uscate și mai fierbinți din întreaga Sahară.", "Împrejurimile sunt marcate de formațiuni geologice izolate, numite galis.", "Punct de monitorizare important de-a lungul zidului marocan."],
       en: ["Traditional center of the Reguibat nomad tribes.", "Namesake for one of the five large Sahrawi refugee provinces (wilayas).", "Located in the Tiris region, known for its vast desert plains.", "Climate is one of the driest and hottest in the entire Sahara.", "Surroundings are characterized by isolated geological formations called galis.", "Important surveillance point along the Moroccan wall."],
     },
+    image: "/poi-images/westernsahara-ausserd-cities-v2.webp",
   }
 ];

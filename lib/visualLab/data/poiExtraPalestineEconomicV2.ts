@@ -31,6 +31,7 @@ export const palestineEconomicV2: POI[] = [
       ro: ["Peste 200 de fabrici și ateliere funcționează în Hebron", "Sectorul contribuie semnificativ la PIB-ul Cisiordaniei", "Prelucrarea tradițională a pielii are rădăcini de secole", "Încălțămintea este exportată în țările arabe vecine", "Industria a atins apogeul în anii 1980", "Milioane de perechi de încălțăminte sunt produse anual"],
       en: ["Over 200 factories and workshops operate in Hebron", "The sector contributes significantly to the West Bank's GDP", "Traditional leather crafting has roots going back centuries", "Shoes are exported to neighboring Arab countries", "The industry reached its peak in the 1980s", "Millions of pairs of shoes are produced annually"],
     },
+    image: "/poi-images/palestine-hebron-shoe-industry-economic-v2.webp",
   },
   {
     id: "palestine-nablus-soap-factories-economic-v2",
@@ -62,6 +63,7 @@ export const palestineEconomicV2: POI[] = [
       ro: ["Ingredientele principale sunt uleiul de măsline, apa și soda", "Fabrica Tuqan este una dintre cele mai cunoscute unități active", "Săpunul este stivuit în turnuri înalte caracteristice", "Producția tradițională durează aproximativ o lună pe lot", "Istoric, a fost exportat până în Europa și Egipt", "Clădirile fabricilor sunt adesea monumente otomane"],
       en: ["Main ingredients are olive oil, water, and soda", "The Tuqan factory is one of the most famous active sites", "Soap is stacked in characteristic high towers for drying", "Traditional production takes about one month per batch", "Historically exported as far as Europe and Egypt", "Factory buildings are often Ottoman-era architectural monuments"],
     },
+    image: "/poi-images/palestine-nablus-soap-factories-economic-v2.webp",
   },
   {
     id: "palestine-securities-exchange-economic-v2",
@@ -93,6 +95,7 @@ export const palestineEconomicV2: POI[] = [
       ro: ["Fondată în 1995 la Nablus", "Prima zi de tranzacționare a fost 18 februarie 1997", "Înființată ca o companie privată", "Indicele Al-Quds este principalul indice bursier", "Platformă de tranzacționare complet electronică de la început", "Supravegheată de Autoritatea Pieței de Capital din Palestina"],
       en: ["Founded in 1995 in the city of Nablus", "First trading day was February 18, 1997", "Established as a private shareholding company", "The Al-Quds Index is the main stock market index", "Fully electronic trading platform since its inception", "Regulated by the Palestine Capital Market Authority"],
     },
+    image: "/poi-images/palestine-securities-exchange-economic-v2.webp",
   },
   {
     id: "palestine-jericho-date-plantations-economic-v2",
@@ -124,6 +127,7 @@ export const palestineEconomicV2: POI[] = [
       ro: ["Ierihon este considerat unul dintre cele mai vechi orașe", "Zonă principală de cultivare pentru curmalele 'Medjool'", "Recoltarea are loc de obicei în septembrie și octombrie", "Produsele sunt exportate în peste 20 de țări din lume", "Plantațiile sunt adesea irigate din izvoare locale", "Industria curmalelor este un furnizor important de valută"],
       en: ["Jericho is considered one of the oldest cities in the world", "Primary cultivation area for the 'Medjool' date variety", "Harvesting typically takes place in September and October", "Products are exported to over 20 countries worldwide", "Often fed by irrigation from local natural springs", "The date industry is a major source of foreign currency"],
     },
+    image: "/poi-images/palestine-jericho-date-plantations-economic-v2.webp",
   },
   {
     id: "palestine-hebron-stone-quarries-economic-v2",
@@ -155,6 +159,7 @@ export const palestineEconomicV2: POI[] = [
       ro: ["Deseori numită 'aurul alb' al Palestinei", "Industria contribuie cu cca. 4-5% la PIB-ul total", "Exporturi către SUA, Europa și statele din Golf", "Hebron găzduiește sute de unități de tăiere a pietrei", "Calcarul s-a format în perioada Cretacicului superior", "Peste 15.000 de oameni lucrează direct în acest sector"],
       en: ["Often referred to as the 'White Gold' of Palestine", "The industry contributes about 4-5% to the total GDP", "Exports reach the USA, Europe, and Gulf nations", "Hebron houses hundreds of stone-cutting facilities", "The limestone originated in the Upper Cretaceous period", "Over 15,000 people are employed directly in this sector"],
     },
+    image: "/poi-images/palestine-hebron-stone-quarries-economic-v2.webp",
   },
   {
     id: "palestine-gaza-fishing-port-economic-v2",
@@ -186,6 +191,7 @@ export const palestineEconomicV2: POI[] = [
       ro: ["Aproximativ 4.000 de pescari înregistrați lucrează în port", "Sardinele reprezintă majoritatea capturii anuale", "Portul este situat în partea de vest a orașului Gaza", "Zonele de pescuit variază adesea între 6 și 15 mile", "Portul servește și ca zonă de recreere pentru localnici", "Economic, aproximativ 30.000 de oameni depind indirect de el"],
       en: ["Roughly 4,000 registered fishermen work out of the port", "Sardines make up the majority of the annual catch", "The port is located in the western part of Gaza City", "Fishing zones often vary between 6 and 15 nautical miles", "The port also serves as a recreational area for residents", "Economically, about 30,000 people depend indirectly on it"],
     },
+    image: "/poi-images/palestine-gaza-fishing-port-economic-v2.webp",
   },
   {
     id: "palestine-jenin-agro-industrial-park-economic-v2",
@@ -217,6 +223,7 @@ export const palestineEconomicV2: POI[] = [
       ro: ["Dezvoltat cu sprijinul semnificativ al Turciei", "Situat lângă orașul Jenin, în partea de nord", "Accentul este pus pe industria alimentară și logistică", "Vizează crearea a mii de locuri de muncă în regiune", "Parte a unei inițiative pentru comerț transfrontalier", "Utilizează materiile prime din zonele fertile învecinate"],
       en: ["Developed with significant assistance from Turkey", "Located near the city of Jenin in the north", "Focuses on food processing and logistics", "Aims to create thousands of jobs in the region", "Part of a wider initiative for cross-border trade", "Utilizes raw materials from the surrounding fertile plains"],
     },
+    image: "/poi-images/palestine-jenin-agro-industrial-park-economic-v2.webp",
   },
   {
     id: "palestine-rawabi-tech-hub-economic-v2",
@@ -248,6 +255,7 @@ export const palestineEconomicV2: POI[] = [
       ro: ["Rawabi este cel mai mare proiect privat din Palestina", "Hub-ul tehnologic se numește oficial 'Rawabi Tech Hub'", "Dispune de cea mai rapidă conexiune la internet din regiune", "Găzduiește numeroase startup-uri IT și firme de outsourcing", "Situat la nord de Ramallah, în zonele deluroase", "Planificarea urbană include și un amfiteatru"],
       en: ["Rawabi is the largest private construction project in Palestine", "The technology center is officially called 'Rawabi Tech Hub'", "Features the fastest internet connectivity in the region", "Home to many IT startups and outsourcing firms", "Located north of Ramallah in the rolling hills", "The integrated urban planning includes a large amphitheater"],
     },
+    image: "/poi-images/palestine-rawabi-tech-hub-economic-v2.webp",
   },
   {
     id: "palestine-bethlehem-handicraft-workshops-economic-v2",
@@ -279,6 +287,7 @@ export const palestineEconomicV2: POI[] = [
       ro: ["Sculptura în lemn de măsline a început în perioada bizantină", "Sideful a fost introdus de franciscani în secolul al XIV-lea", "Meseria este practicată adesea de comunitățile creștine", "Se folosește lemn de la măslinii toaletați", "Produsele sunt vândute în magazine de suveniruri din lume", "Sectorul depinde în mare măsură de numărul pelerinilor"],
       en: ["Olive wood carving began as early as the Byzantine era", "Mother-of-pearl work was introduced by Franciscans in the 14th century", "Often practiced by local Christian communities", "Uses wood primarily from pruned olive trees", "Products are sold in souvenir shops globally", "The industry is highly dependent on pilgrimage numbers"],
     },
+    image: "/poi-images/palestine-bethlehem-handicraft-workshops-economic-v2.webp",
   },
   {
     id: "palestine-qalqilya-greenhouses-economic-v2",
@@ -310,6 +319,7 @@ export const palestineEconomicV2: POI[] = [
       ro: ["Qalqilya este faimoasă pentru producția de guava", "Orașul este situat direct pe Linia Verde", "Serele reduc consumul de apă în agricultură", "Agricultura este principalul angajator din oraș", "Fructele sunt adesea exportate în statele din Golf", "Regiunea este considerată livada Cisiordaniei"],
       en: ["Qalqilya is famous for its guava production", "The city is located directly on the Green Line", "Greenhouses help in reducing water consumption", "Agriculture is the city's primary employer", "Fruits are often exported to Gulf Arab countries", "The region is regarded as the orchard of the West Bank"],
     },
+    image: "/poi-images/palestine-qalqilya-greenhouses-economic-v2.webp",
   },
   {
     id: "palestine-gaza-power-plant-economic-v2",
@@ -341,6 +351,7 @@ export const palestineEconomicV2: POI[] = [
       ro: ["Construcția a fost finalizată în anul 2002", "Operată de Gaza Power Generating Company", "Capacitatea nominală este de aproximativ 140 megawați", "Combustibilul este livrat prin punctul de trecere Kerem Shalom", "A fost grav avariată de mai multe ori în timpul conflictelor", "Capacitatea de aprovizionare acoperă doar o parte din necesar"],
       en: ["Construction was completed in the year 2002", "Operated by the Gaza Power Generating Company", "Nominal capacity is approximately 140 Megawatts", "Fuel is typically delivered via the Kerem Shalom crossing", "Has been heavily damaged multiple times during conflicts", "Supply capacity covers only a fraction of total demand"],
     },
+    image: "/poi-images/palestine-gaza-power-plant-economic-v2.webp",
   },
   {
     id: "palestine-nablus-furniture-industry-economic-v2",
@@ -372,6 +383,7 @@ export const palestineEconomicV2: POI[] = [
       ro: ["Peste 600 de ateliere sunt active în fabricarea mobilei", "Nablus este considerat 'capitala mobilei' în Palestina", "Arta tradițională a sculpturii este adesea integrată", "Anual are loc un mare târg de mobilă în oraș", "Sectorul exportă din ce în ce mai mult în țările vecine", "Creează locuri de muncă pentru mii de meșteșugari calificați"],
       en: ["Over 600 workshops are active in furniture making", "Nablus is regarded as the 'Furniture Capital' of Palestine", "Traditional carving techniques are often integrated", "A major annual furniture fair is held in the city", "The industry increasingly exports to neighboring countries", "Provides employment for thousands of skilled craftsmen"],
     },
+    image: "/poi-images/palestine-nablus-furniture-industry-economic-v2.webp",
   },
   {
     id: "palestine-tulkarm-industrial-zone-economic-v2",
@@ -403,6 +415,7 @@ export const palestineEconomicV2: POI[] = [
       ro: ["Înființată pentru a promova dezvoltarea economică locală.", "Se concentrează pe industria ușoară și meșteșuguri.", "Angajează sute de lucrători locali.", "Proximitatea de granița israeliană favorizează logistica.", "Găzduiește mai multe companii de export.", "Factor important pentru PIB-ul regiunii Tulkarm."],
       en: ["Established to promote local economic development.", "Focuses on light industry and manufacturing.", "Employs hundreds of local workers.", "Proximity to the border facilitates logistics.", "Home to several export-oriented companies.", "Significant contributor to the Tulkarm region's GDP."],
     },
+    image: "/poi-images/palestine-tulkarm-industrial-zone-economic-v2.webp",
   },
   {
     id: "palestine-halhul-vineyards-economic-v2",
@@ -434,6 +447,7 @@ export const palestineEconomicV2: POI[] = [
       ro: ["Cea mai mare zonă de producție de struguri din Palestina.", "Peste 40 de soiuri de struguri sunt cultivate aici.", "Festivalurile anuale ale strugurilor atrag vizitatori.", "Export de produse proaspete către țările vecine.", "Metode tradiționale de cultivare de generații.", "Altitudinea de cca. 900-1000 metri este ideală."],
       en: ["Largest grape production area in Palestine.", "Over 40 different varieties of grapes are grown here.", "Annual grape festivals attract regional visitors.", "Exports fresh produce to neighboring countries.", "Traditional farming methods used for generations.", "High altitude (900-1000m) is ideal for vine growth."],
     },
+    image: "/poi-images/palestine-halhul-vineyards-economic-v2.webp",
   },
   {
     id: "palestine-bethlehem-industrial-park-economic-v2",
@@ -465,6 +479,7 @@ export const palestineEconomicV2: POI[] = [
       ro: ["Inaugurare oficială în anul 2010.", "Suprafața cuprinde aproximativ 20 de hectare.", "Primul parc industrial 'verde' din Palestina.", "Susținut de Agenția Franceză de Dezvoltare (AFD).", "Crearea a cca. 1000 de locuri de muncă directe.", "Infrastructura include stații moderne de epurare."],
       en: ["Official opening held in 2010.", "Covers an area of approximately 20 hectares.", "First 'green' industrial park in Palestine.", "Supported by the French Development Agency (AFD).", "Aims to create around 1,000 direct jobs.", "Infrastructure includes modern water treatment plants."],
     },
+    image: "/poi-images/palestine-bethlehem-industrial-park-economic-v2.webp",
   },
   {
     id: "palestine-gaza-industrial-estate-economic-v2",
@@ -496,6 +511,7 @@ export const palestineEconomicV2: POI[] = [
       ro: ["Înființată în anul 1996.", "Suprafață de aproximativ 48 de hectare.", "Locație strategică la punctul de trecere Karni.", "A angajat odinioară peste 5000 de lucrători.", "Include antrepozite vamale și clădiri administrative.", "Cel mai important nod de export pentru mărfuri din Gaza."],
       en: ["Founded in 1996.", "Covers an area of about 48 hectares.", "Strategically located at the Karni crossing.", "Once employed over 5,000 workers.", "Features bonded warehouses and administrative buildings.", "Primary export hub for goods produced in Gaza."],
     },
+    image: "/poi-images/palestine-gaza-industrial-estate-economic-v2.webp",
   },
   {
     id: "palestine-birzeit-pharmaceuticals-economic-v2",
@@ -527,6 +543,7 @@ export const palestineEconomicV2: POI[] = [
       ro: ["Fondată în anul 1974.", "Primul producător palestinian de medicamente.", "Produce peste 300 de medicamente diferite.", "Exportă în numeroase țări din regiunea MENA.", "Listată la Bursa de Valori din Palestina.", "Certificată ISO 9001 și ISO 14001."],
       en: ["Established in 1974.", "First Palestinian pharmaceutical manufacturer.", "Produces over 300 different therapeutic agents.", "Exports to multiple countries in the MENA region.", "Publicly traded on the Palestine Securities Exchange.", "Certified under ISO 9001 and ISO 14001 standards."],
     },
+    image: "/poi-images/palestine-birzeit-pharmaceuticals-economic-v2.webp",
   },
   {
     id: "palestine-salfit-olive-oil-presses-economic-v2",
@@ -558,6 +575,7 @@ export const palestineEconomicV2: POI[] = [
       ro: ["Regiunea cu cea mai mare densitate de măslini.", "Salfit este numit adesea 'capitala măslinelor'.", "Presele folosesc tehnologie centrifugă modernă.", "Perioada de recoltare între octombrie și noiembrie.", "Uleiul de măsline este principalul produs agricol.", "Cooperativele locale sprijină comercializarea."],
       en: ["Region with the highest density of olive trees.", "Salfit is often called the 'Olive Capital'.", "Oil presses utilize modern centrifugal technology.", "Harvest season occurs between October and November.", "Olive oil is the primary agricultural product of Salfit.", "Local cooperatives assist in marketing and sales."],
     },
+    image: "/poi-images/palestine-salfit-olive-oil-presses-economic-v2.webp",
   },
   {
     id: "palestine-jericho-agro-industrial-park-economic-v2",
@@ -589,6 +607,7 @@ export const palestineEconomicV2: POI[] = [
       ro: ["Principalul susținător este guvernul japonez.", "Fondat în 2007 ca parte a inițiativei de pace.", "Specializat în ambalarea și procesarea fructelor.", "Situat sub nivelul mării în Valea Iordanului.", "Oferă soluții logistice pentru exportul către Iordania.", "Include laboratoare pentru controlul calității alimentelor."],
       en: ["Mainly supported by the Government of Japan.", "Established in 2007 as part of a peace initiative.", "Specializes in food packaging and agro-processing.", "Located below sea level in the Jordan Valley.", "Provides logistics for exports via Jordan.", "Features laboratories for food quality control."],
     },
+    image: "/poi-images/palestine-jericho-agro-industrial-park-economic-v2.webp",
   },
   {
     id: "palestine-tubas-agriculture-economic-v2",
@@ -620,6 +639,7 @@ export const palestineEconomicV2: POI[] = [
       ro: ["Centru pentru cultivarea roșiilor în seră.", "Găzduiește numeroase ferme de plante medicinale.", "Rol important în exportul culturilor de câmp.", "Utilizarea resurselor de apă subterană pentru irigații.", "Tubas este considerat grânarul nordului.", "Târguri agricole regulate pentru promovarea tehnologiei."],
       en: ["Hub for greenhouse tomato cultivation.", "Home to numerous medicinal herb farms.", "Plays a key role in exporting field crops.", "Utilizes groundwater resources for irrigation.", "Often called the breadbasket of the northern West Bank.", "Hosts regular agricultural fairs for new technology."],
     },
+    image: "/poi-images/palestine-tubas-agriculture-economic-v2.webp",
   },
   {
     id: "palestine-deir-al-balah-dates-economic-v2",
@@ -651,6 +671,7 @@ export const palestineEconomicV2: POI[] = [
       ro: ["Numele derivă de la numărul mare de palmieri.", "Specializat în soiul de curmale roșii Hayani.", "Recoltarea are loc anual în septembrie/octombrie.", "Curmalele sunt vândute proaspete și uscate.", "Materie primă importantă pentru industria de dulciuri.", "Țesutul tradițional din palmier ca industrie secundară."],
       en: ["Named after the abundance of date palms.", "Specializes in the red Hayani date variety.", "Harvest takes place annually in September and October.", "Dates are sold both fresh and dried.", "Major raw material for the local sweets industry.", "Traditional palm weaving is a local craft industry."],
     },
+    image: "/poi-images/palestine-deir-al-balah-dates-economic-v2.webp",
   },
   {
     id: "palestine-hebron-glass-ceramics-economic-v2",
@@ -682,6 +703,7 @@ export const palestineEconomicV2: POI[] = [
       ro: ["Tradiția datează din perioada feniciană.", "Utilizarea sticlei reciclate ca materie primă.", "Culoarea albastră caracteristică prin oxid de cobalt.", "Ceramică pictată manual cu motive tradiționale.", "Export către magazine de lux din întreaga lume.", "Atelierele sunt în mare parte afaceri de familie."],
       en: ["Tradition dates back to the Phoenician era.", "Uses recycled glass as a primary raw material.", "Characteristic blue color is achieved using cobalt oxide.", "Hand-painted ceramics feature traditional motifs.", "Products are exported to luxury stores worldwide.", "Workshops are mostly multi-generational family businesses."],
     },
+    image: "/poi-images/palestine-hebron-glass-ceramics-economic-v2.webp",
   },
   {
     id: "palestine-khan-yunis-trade-center-economic-v2",
@@ -713,6 +735,7 @@ export const palestineEconomicV2: POI[] = [
       ro: ["Nod istoric pe drumul caravanelor.", "Cea mai importantă piață din sudul Gazei.", "Comerț cu ridicata de fructe și legume locale.", "Sediul a numeroase companii comerciale locale.", "Piața de miercuri atrage mii de vizitatori.", "Sector în creștere pentru servicii și retail."],
       en: ["Historic crossroads on the ancient caravan route.", "Primary market for the southern Gaza Strip.", "Wholesale hub for regional fruits and vegetables.", "Home to many local trading companies.", "The Wednesday Market attracts thousands of visitors.", "Growing sector for services and retail trade."],
     },
+    image: "/poi-images/palestine-khan-yunis-trade-center-economic-v2.webp",
   },
   {
     id: "palestine-rafah-commercial-crossing-economic-v2",
@@ -744,6 +767,7 @@ export const palestineEconomicV2: POI[] = [
       ro: ["Singura trecere de frontieră către Egipt.", "Reglementează importul bunurilor esențiale.", "Factor de venit important prin taxe vamale.", "Infrastructura a fost modernizată de mai multe ori.", "Punct critic în timpul tensiunilor politice.", "Rol central pentru livrările de ajutor umanitar."],
       en: ["Only border crossing point into Egypt.", "Regulates the import of essential commodities.", "Significant revenue source through customs duties.", "Infrastructure has been modernized multiple times.", "Often a bottleneck during political tensions.", "Plays a central role in humanitarian aid delivery."],
     },
+    image: "/poi-images/palestine-rafah-commercial-crossing-economic-v2.webp",
   },
   {
     id: "palestine-beit-jala-cremisan-winery-economic-v2",
@@ -775,6 +799,7 @@ export const palestineEconomicV2: POI[] = [
       ro: ["Fondată în anul 1885.", "Utilizarea soiurilor locale precum Hamdani.", "Produce și ulei de măsline de înaltă calitate.", "Veniturile susțin proiecte sociale.", "Cramele sunt situate în clădiri istorice.", "Cunoscută pentru vinul 'Star of Bethlehem'."],
       en: ["Founded in 1885 by Salesian missionaries.", "Uses indigenous grape varieties like Hamdani.", "Also produces high-quality olive oil.", "Revenues support local social projects.", "Cellars are located in historic buildings.", "Famous for its 'Star of Bethlehem' wine label."],
     },
+    image: "/poi-images/palestine-beit-jala-cremisan-winery-economic-v2.webp",
   },
   {
     id: "palestine-dhahiriya-livestock-market-economic-v2",
@@ -806,6 +831,7 @@ export const palestineEconomicV2: POI[] = [
       ro: ["Cea mai mare piață de animale din guvernoratul Hebron.", "Ziua principală de piață este de obicei sâmbăta.", "Comerț cu mii de animale pe săptămână.", "Sursă importantă pentru aprovizionarea cu carne.", "Metode tradiționale de negociere prin strângere de mână.", "Sprijină numeroși furnizori de servicii conexe."],
       en: ["Largest livestock market in the Hebron Governorate.", "Saturday is typically the main trading day.", "Handles thousands of animals every week.", "Primary source for the region's meat supply.", "Traditional negotiation methods by handshake.", "Supports many ancillary service providers."],
     },
+    image: "/poi-images/palestine-dhahiriya-livestock-market-economic-v2.webp",
   },
   {
     id: "palestine-gaza-textile-sector-economic-v2",
@@ -837,6 +863,7 @@ export const palestineEconomicV2: POI[] = [
       ro: ["A angajat odinioară peste 30.000 de lucrători.", "Specializare în îmbrăcăminte gata de purtat.", "Orientare spre export către Israel și UE.", "Multe unități sunt mici afaceri de familie.", "Utilizarea tehnologiei moderne de cusut.", "Sector important pentru formarea tinerilor."],
       en: ["Once employed over 30,000 workers.", "Specializes in ready-to-wear garments.", "Primarily export-oriented towards Israel and the EU.", "Many facilities are small-scale family businesses.", "Utilizes modern sewing and embroidery technology.", "Critical sector for vocational training of youth."],
     },
+    image: "/poi-images/palestine-gaza-textile-sector-economic-v2.webp",
   },
   {
     id: "palestine-nablus-stone-processing-economic-v2",
@@ -868,6 +895,7 @@ export const palestineEconomicV2: POI[] = [
       ro: ["Industria pietrei generează aproximativ 25% din veniturile industriale ale Palestinei.", "Nablus și Hebron sunt centrele primare ale acestui sector economic.", "Peste 1.000 de fabrici de prelucrare a pietrei operează în regiune.", "Produsele sunt exportate în peste 70 de țări din întreaga lume.", "Calcarul 'Jerusalem Gold' este o varietate deosebit de populară.", "Sectorul oferă locuri de muncă directe pentru 15.000-20.000 de persoane."],
       en: ["The stone industry accounts for approximately 25% of Palestine's industrial revenue.", "Nablus and Hebron are the primary hubs for this economic sector.", "Over 1,000 factories are involved in stone processing in the region.", "Products are exported to more than 70 countries worldwide.", "The 'Jerusalem Gold' limestone is a particularly popular variety.", "The sector directly employs between 15,000 and 20,000 people."],
     },
+    image: "/poi-images/palestine-nablus-stone-processing-economic-v2.webp",
   },
   {
     id: "palestine-paltel-headquarters-economic-v2",
@@ -899,5 +927,6 @@ export const palestineEconomicV2: POI[] = [
       ro: ["Paltel a fost fondată în anul 1995 ca societate pe acțiuni.", "Compania este listată la Bursa de Valori din Palestina (PEX).", "Sediul central se află în orașul Nablus din Cisiordania.", "Paltel operează prima rețea de telefonie mobilă sub marca Jawwal.", "Este compania cu cele mai mari venituri din sectorul privat palestinian.", "Firma investește masiv în tehnologia fibrei optice pentru țară."],
       en: ["Paltel was founded in 1995 as a public shareholding company.", "The company is listed on the Palestine Exchange (PEX).", "The main headquarters is located in Nablus in the West Bank.", "Paltel operates the first mobile network under the Jawwal brand.", "It is the highest-revenue company in the Palestinian private sector.", "The corporation invests heavily in fiber optic technology for the nation."],
     },
+    image: "/poi-images/palestine-paltel-headquarters-economic-v2.webp",
   }
 ];

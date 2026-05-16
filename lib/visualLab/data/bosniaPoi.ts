@@ -96,7 +96,8 @@ export const bosniaPois: POI[] = [
         "The city's name originates from the Turkish words 'saray' (palace) and 'ovası' (field).",
         "A local legend says that anyone who drinks water from the Sebilj fountain is certain to return to Sarajevo."
       ]
-    }
+    },
+    image: "/poi-images/ba-sarajevo.webp",
   },
   {
     id: "ba-banjaluka",
@@ -290,6 +291,7 @@ export const bosniaPois: POI[] = [
       ro: ["Cascada Pliva din centrul orașului are o înălțime de aproximativ 22 de metri.", "Orașul a fost ultima reședință a regilor Bosniei înainte de căderea din 1463.", "Cetatea Jajce a fost construită inițial în secolul al XIV-lea pe culmea dealului.", "Catacombele din Jajce au fost sculptate în stâncă în jurul anului 1400.", "Sesiunea istorică a AVNOJ a avut loc în oraș la data de 29 noiembrie 1943.", "Complexul de mori de apă de pe lacul Pliva datează din perioada otomană."],
       en: ["The Pliva waterfall in the town center drops approximately 22 meters high.", "Jajce was the last capital of the Bosnian Kingdom in the mid-15th century.", "The fortress of Jajce was originally commissioned in the 14th century.", "The mysterious underground catacombs were carved into rock around 1400.", "The second session of AVNOJ was held in Jajce on November 29, 1943.", "A collection of 20 small wooden watermills from the Ottoman era sits nearby."],
     },
+    image: "/poi-images/ba-jajce.webp",
   },
   {
     id: "ba-travnik",
@@ -939,6 +941,7 @@ export const bosniaPois: POI[] = [
       ro: ["Cetatea a fost menționată documentar pentru prima dată într-o cartă din 1408.", "Este situată pe o stâncă abruptă chiar pe malul râului Bosna.", "În anul 1697, cetatea a fost asediată în timpul Marelui Război Turcesc.", "Ansamblul găzduiește celebrul 'Sahat-kula' (turnul cu ceas) cu formă pătrată.", "În 2005, a fost declarată monument național al Bosniei și Herțegovinei.", "Fortificația este compusă din cinci turnuri și ziduri de legătură masive."],
       en: ["The fortress was first mentioned in a royal charter in 1408.", "It is situated on a steep rock directly on the banks of the Bosna River.", "In 1697, the fortress was besieged during the Great Turkish War.", "The complex includes the distinctive square Sahat-kula (clock tower).", "In 2005, it was designated as a national monument of Bosnia and Herzegovina.", "The fortress consists of five towers and massive connecting walls."],
     },
+    image: "/poi-images/ba-maglaj.webp",
   },
   {
     id: "ba-orasje",
@@ -1036,6 +1039,7 @@ export const bosniaPois: POI[] = [
       ro: ["Durata construcției primăriei a fost de doar doi ani, între 1890 și 1892.", "Arhitectul Alexander Wittek a proiectat și primăria din Sarajevo.", "Clădirea a fost ridicată în stilul pseudo-maur (orientalist).", "În anul 2004, Vijećnica a fost declarată monument național.", "Fațada prezintă straturi orizontale tipice de culori roșu și galben.", "Astăzi, aici se află sediul primarului Districtului Brčko."],
       en: ["The construction of the City Hall took only two years, from 1890 to 1892.", "Architect Alexander Wittek also designed the City Hall in Sarajevo.", "The building was constructed in the pseudo-Moorish (Orientalist) style.", "In 2004, the Vijećnica was designated as a national monument.", "The facade features characteristic horizontal red and yellow color bands.", "Today, it serves as the seat of the Mayor of the Brčko District."],
     },
+    image: "/poi-images/ba-vijecnica-brcko.webp",
   },
   {
     id: "ba-bijeljina",
@@ -1229,6 +1233,7 @@ export const bosniaPois: POI[] = [
       ro: ["Nume: Podul Radoslav Koso", "Caracteristică de război: 'Podul de sub pod'", "Scop: Protecție contra lunetiștilor (1992-95)", "Râu: Drina", "Material: Beton armat (reconstruit)", "Semnificație: Conexiune strategică"],
       en: ["Name: Radoslav Koso Bridge", "Wartime feature: 'Bridge under the bridge'", "Purpose: Sniper protection (1992-95)", "River: Drina", "Material: Reinforced concrete (rebuilt)", "Significance: Strategic connection"],
     },
+    image: "/poi-images/ba-gorazde-bridge.webp",
   }
 ];
 

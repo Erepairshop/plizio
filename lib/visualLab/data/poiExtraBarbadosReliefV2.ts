@@ -31,6 +31,7 @@ export const barbadosReliefV2: POI[] = [
       ro: ["Înălțime: 30 m", "Lățimea stâncii: 100 m", "Vârsta stâncii: aprox. 1 milion de ani", "Specii de păsări marine cuibăritoare: 3", "Viteza medie a vântului: 30 km/h", "Distanța până la cea mai apropiată așezare: 5 km"],
       en: ["Height: 30 m", "Width of cliff: 100 m", "Age of cliff: approx. 1 million years", "Nesting seabird species: 3", "Average wind speed: 30 km/h", "Distance to nearest settlement: 5 km"],
     },
+    image: "/poi-images/barbados-hackletons-cliff-relief-v2.webp",
   },
   {
     id: "barbados-bissex-hill-relief-v2",
@@ -62,6 +63,7 @@ export const barbadosReliefV2: POI[] = [
       ro: ["Altitudine: 150 m", "Suprafață: 2 km²", "Temperatură medie: 25°C", "Precipitații anuale: 1500 mm", "Tip de sol: calcaros", "Specii endemice de plante: 3"],
       en: ["Height: 150 m", "Area: 2 km²", "Average temperature: 25°C", "Annual rainfall: 1500 mm", "Soil type: calcareous", "Endemic plant species: 3"],
     },
+    image: "/poi-images/barbados-bissex-hill-relief-v2.webp",
   },
   {
     id: "barbados-pico-teneriffe-relief-v2",
@@ -93,6 +95,7 @@ export const barbadosReliefV2: POI[] = [
       ro: ["Altitudine: 200 m", "Pantă: 20°", "Fosile: peste 10 specii", "Floră: 50 de specii de plante", "Distanța până la coastă: 1 km", "Utilizare: observarea păsărilor"],
       en: ["Height: 200 m", "Slope: 20°", "Fossils: over 10 species", "Flora: 50 plant species", "Distance to coast: 1 km", "Usage: birdwatching"],
     },
+    image: "/poi-images/barbados-pico-teneriffe-relief-v2.webp",
   },
   {
     id: "barbados-mount-misery-relief-v2",
@@ -124,6 +127,7 @@ export const barbadosReliefV2: POI[] = [
       ro: ["Altitudine: 340 m", "Temperatură medie: 20°C", "Precipitații anuale: 2000 mm", "Număr de plante endemice: 7", "Suprafața vârfului: 500 m²", "Prima ascensiune: anii 1600 (de coloniști)"],
       en: ["Height: 340 m", "Average temperature: 20°C", "Annual rainfall: 2000 mm", "Endemic plants: 7", "Summit area: 500 m²", "First ascent: 1600s (by settlers)"],
     },
+    image: "/poi-images/barbados-mount-misery-relief-v2.webp",
   },
   {
     id: "barbados-farley-hill-relief-v2",
@@ -155,6 +159,7 @@ export const barbadosReliefV2: POI[] = [
       ro: ["Altitudine: 100 m", "Anul construcției casei: 1860", "Suprafața parcului: 10 ha", "Număr de specii de plante de grădină: 100", "Vizitatori anuali: 20.000", "Filme: 3 (de ex. 'The Horse Whisperer')"],
       en: ["Height: 100 m", "Year house built: 1860", "Park area: 10 ha", "Garden plant species: 100", "Annual visitors: 20,000", "Films: 3 (e.g., 'The Horse Whisperer')"],
     },
+    image: "/poi-images/barbados-farley-hill-relief-v2.webp",
   },
   {
     id: "barbados-gun-hill-relief-v2",
@@ -186,6 +191,7 @@ export const barbadosReliefV2: POI[] = [
       ro: ["Altitudine: 150 m", "Anul construcției stației: 1810", "Înălțimea leului de piatră: 3 m", "Număr de tunuri expuse: 2", "Suprafața muzeului: 500 m²", "Vizitatori anuali: 15.000"],
       en: ["Height: 150 m", "Year station built: 1810", "Height of stone lion: 3 m", "Cannons on display: 2", "Museum area: 500 m²", "Annual visitors: 15,000"],
     },
+    image: "/poi-images/barbados-gun-hill-relief-v2.webp",
   },
   {
     id: "barbados-moncrieffe-hill-relief-v2",
@@ -217,6 +223,7 @@ export const barbadosReliefV2: POI[] = [
       ro: ["Altitudine: 120 m", "Suprafață: 3 km²", "Temperatură medie: 24°C", "Specii de păsări: 20", "Rată de eroziune: 2 mm/an", "Distanța până la coastă: 2 km"],
       en: ["Height: 120 m", "Area: 3 km²", "Average temperature: 24°C", "Bird species: 20", "Erosion rate: 2 mm/year", "Distance to coast: 2 km"],
     },
+    image: "/poi-images/barbados-moncrieffe-hill-relief-v2.webp",
   },
   {
     id: "barbados-castle-grant-relief-v2",
@@ -248,6 +255,7 @@ export const barbadosReliefV2: POI[] = [
       ro: ["Înălțimea colinei: 80 m", "Anul construcției casei: 1750", "Număr de camere: 20", "Suprafața grădinii: 5 ha", "Evenimente anuale: 30", "Statut de monument: din 1980"],
       en: ["Hill height: 80 m", "Year house built: 1750", "Number of rooms: 20", "Garden area: 5 ha", "Annual events: 30", "Heritage status: since 1980"],
     },
+    image: "/poi-images/barbados-castle-grant-relief-v2.webp",
   },
   {
     id: "barbados-north-point-cliffs-relief-v2",
@@ -279,6 +287,7 @@ export const barbadosReliefV2: POI[] = [
       ro: ["Înălțime: până la 50 m", "Lungimea stâncilor: 2 km", "Înălțimea medie a valurilor: 3 m", "Specii de păsări marine cuibăritoare: 5", "Observări anuale de balene: 50", "Număr de vizitatori: 10.000 anual"],
       en: ["Height: up to 50 m", "Cliff length: 2 km", "Average wave height: 3 m", "Nesting seabird species: 5", "Annual whale sightings: 50", "Visitor count: 10,000 annually"],
     },
+    image: "/poi-images/barbados-north-point-cliffs-relief-v2.webp",
   },
   {
     id: "barbados-south-point-relief-v2",
@@ -310,6 +319,7 @@ export const barbadosReliefV2: POI[] = [
       ro: ["Înălțimea farului: 27 m", "Anul construcției: 1852", "Distanța până la aeroport: 2 km", "Amplitudinea mareei: 0,5 m", "Număr de specii de pești pescuite: 10", "Vizitatori anuali: 25.000"],
       en: ["Lighthouse height: 27 m", "Year built: 1852", "Distance to airport: 2 km", "Tidal range: 0.5 m", "Fish species caught: 10", "Annual visitors: 25,000"],
     },
+    image: "/poi-images/barbados-south-point-relief-v2.webp",
   },
   {
     id: "barbados-ragged-point-relief-v2",
@@ -341,6 +351,7 @@ export const barbadosReliefV2: POI[] = [
       ro: ["Înălțimea stâncilor: până la 40 m", "Lungimea capului: 1 km", "Număr de foci: 15-20", "Vârsta geologică: 1,5 milioane de ani", "Vizitatori pe an: 8.000", "Distanța până la cel mai apropiat drum: 3 km"],
       en: ["Cliff height: up to 40 m", "Cape length: 1 km", "Seal population: 15-20", "Geological age: 1.5 million years", "Visitors per year: 8,000", "Distance to nearest road: 3 km"],
     },
+    image: "/poi-images/barbados-ragged-point-relief-v2.webp",
   },
   {
     id: "barbados-harrisons-cave-relief-v2",
@@ -372,6 +383,7 @@ export const barbadosReliefV2: POI[] = [
       ro: ["Lungime: 2,3 km", "Descoperire: 1970", "Deschidere public: 1976", "Număr de lacuri subterane: 4", "Vizitatori anuali: 120.000", "Temperatura în peșteră: 27°C"],
       en: ["Length: 2.3 km", "Discovery: 1970", "Opened to public: 1976", "Number of underground lakes: 4", "Annual visitors: 120,000", "Cave temperature: 27°C"],
     },
+    image: "/poi-images/barbados-harrisons-cave-relief-v2.webp",
   },
   {
     id: "barbados-bathsheba-rocks-relief-v2",
@@ -403,6 +415,7 @@ export const barbadosReliefV2: POI[] = [
       ro: ["Înălțimea maximă a stâncilor: 15 m", "Vârsta formațiunii: 125.000 de ani (Pleistocen)", "Suprafața zonei protejate: 2 hectare", "Numărul mediu de vizitatori pe an: 50.000", "Temperatura apei: 26-28°C", "Specii de păsări observate: peste 40"],
       en: ["Maximum rock height: 15 m above sea level", "Geological age: 125,000 years (Pleistocene)", "Protected area size: 2 hectares", "Annual visitor count: ~50,000", "Average water temperature: 26-28°C", "Nesting hawksbill turtles per season: ~30 females"],
     },
+    image: "/poi-images/barbados-bathsheba-rocks-relief-v2.webp",
   },
   {
     id: "barbados-culpepper-island-relief-v2",
@@ -434,6 +447,7 @@ export const barbadosReliefV2: POI[] = [
       ro: ["Distanța de coastă: 1,5 km", "Altitudinea maximă: 20 m", "Suprafață: 0,05 km²", "Populația de păsări tropicale cu cioc roșu: 2000 de perechi", "Vârsta geologică: Miocen (23-5 milioane ani)", "Acces: exclusiv cu barca"],
       en: ["Distance from mainland: 1.5 km", "Highest elevation: 20 m above sea level", "Area: 0.05 km²", "Breeding pairs of red-billed tropicbird: ~2,000", "Geological age: Miocene (23-5 million years ago)", "Annual visitor numbers: <500"],
     },
+    image: "/poi-images/barbados-culpepper-island-relief-v2.webp",
   },
   {
     id: "barbados-bottom-bay-cliffs-relief-v2",
@@ -465,6 +479,7 @@ export const barbadosReliefV2: POI[] = [
       ro: ["Înălțimea stâncilor: 30 m", "Vârsta geologică: 125.000 ani (Pleistocen)", "Lungimea plajei: 100 m", "Vizitatori pe an: 30.000", "Adâncimea apei la baza stâncilor: 5-10 m", "Număr de peșteri marine: 3"],
       en: ["Cliff height: up to 30 m", "Geological age: 125,000 years (Pleistocene)", "Beach length: 100 m", "Annual visitors: ~30,000", "Water depth at cliff base: 5-10 m", "Number of sea caves: 3"],
     },
+    image: "/poi-images/barbados-bottom-bay-cliffs-relief-v2.webp",
   },
   {
     id: "barbados-st-georges-valley-relief-v2",
@@ -496,6 +511,7 @@ export const barbadosReliefV2: POI[] = [
       ro: ["Lungimea văii: 8 km", "Producția de trestie de zahăr: 30% din total național", "Altitudine: 50-150 m", "Precipitații anuale: 1.500 mm", "Densitatea populației: 100 locuitori/km²", "Număr de case de plantații istorice: 5"],
       en: ["Valley length: 8 km", "Sugarcane production share: 30% of national total", "Elevation range: 50-150 m", "Annual rainfall: 1,500 mm", "Population density: 100 people/km²", "Historic plantation houses: 5"],
     },
+    image: "/poi-images/barbados-st-georges-valley-relief-v2.webp",
   },
   {
     id: "barbados-scotland-district-relief-v2",
@@ -527,6 +543,7 @@ export const barbadosReliefV2: POI[] = [
       ro: ["Suprafață: 60 km²", "Vârsta geologică: Eocen (56-34 milioane ani)", "Cel mai înalt punct: Mount Hillaby, 240 m", "Eroziunea solului: 50 t/ha/an", "Densitatea populației: <50 locuitori/km²", "Număr de ravene adânci: peste 10"],
       en: ["Area: 60 km²", "Geological age: Eocene (56-34 million years)", "Highest point: Mount Hillaby, 240 m", "Average soil erosion: 50 t/ha/year", "Population density: <50 people/km²", "Deep gullies count: >10"],
     },
+    image: "/poi-images/barbados-scotland-district-relief-v2.webp",
   },
   {
     id: "barbados-horse-hill-relief-v2",
@@ -558,6 +575,7 @@ export const barbadosReliefV2: POI[] = [
       ro: ["Altitudine maximă: 200 m", "Suprafață: 5 km²", "Precipitații anuale: 1.200 mm", "Temperatura medie: 26°C", "Număr terenuri de golf: 2", "Prețul mediu al proprietății: peste 1 milion USD"],
       en: ["Highest elevation: 200 m", "Area: 5 km²", "Annual rainfall: 1,200 mm", "Average temperature: 26°C", "Number of golf courses: 2", "Average property price: >$1 million USD"],
     },
+    image: "/poi-images/barbados-horse-hill-relief-v2.webp",
   },
   {
     id: "barbados-mount-wilton-relief-v2",
@@ -589,6 +607,7 @@ export const barbadosReliefV2: POI[] = [
       ro: ["Altitudine: 150 m", "Anul construcției casei plantației: 1720", "Suprafață: 1 km²", "Distanța până la coastă: 3 km", "Precipitații anuale: 1.300 mm", "Tip sol: argilă roșie și calcar"],
       en: ["Elevation: 150 m", "Plantation house built: 1720", "Area: 1 km²", "Distance from coast: 3 km", "Annual rainfall: 1,300 mm", "Soil type: red clay and limestone"],
     },
+    image: "/poi-images/barbados-mount-wilton-relief-v2.webp",
   },
   {
     id: "barbados-turners-hall-ridge-relief-v2",
@@ -620,6 +639,7 @@ export const barbadosReliefV2: POI[] = [
       ro: ["Cel mai înalt punct: 210 m", "Lungime: 5 km", "Specii de plante endemice: peste 20", "Precipitații anuale: 1.000 mm", "Traseu de drumeție: 8 km", "Habitat pentru gecko de Barbados"],
       en: ["Highest point: 210 m", "Length: 5 km", "Endemic plant species: >20", "Annual rainfall: 1,000 mm", "Hiking trail length: 8 km", "Habitat for Barbados leaf-toed gecko"],
     },
+    image: "/poi-images/barbados-turners-hall-ridge-relief-v2.webp",
   },
   {
     id: "barbados-foul-bay-cliffs-relief-v2",
@@ -651,6 +671,7 @@ export const barbadosReliefV2: POI[] = [
       ro: ["Înălțime: 25 m", "Lungimea stâncilor: 1,5 km", "Rata de eroziune: 0,5 m/secol", "Lungimea plajei: 400 m", "Vizitatori pe an: 20.000", "Păsări cuibăritoare: pelican brun și fregate"],
       en: ["Cliff height: 25 m", "Cliff length: 1.5 km", "Erosion rate: 0.5 m/century", "Beach length: 400 m", "Annual visitors: 20,000", "Breeding birds: brown pelican and frigatebird"],
     },
+    image: "/poi-images/barbados-foul-bay-cliffs-relief-v2.webp",
   },
   {
     id: "barbados-mount-stepney-relief-v2",
@@ -682,6 +703,7 @@ export const barbadosReliefV2: POI[] = [
       ro: ["Altitudine: 120 m", "Anul construirii morii de vânt: 1740", "Suprafață: 0,8 km²", "Randament trestie de zahăr: 60 t/ha", "Densitatea populației: 150 locuitori/km²", "Statut de protecție: patrimoniu"],
       en: ["Elevation: 120 m", "Windmill built: 1740", "Area: 0.8 km²", "Sugarcane yield: 60 t/ha", "Population density: 150 people/km²", "Protected heritage status"],
     },
+    image: "/poi-images/barbados-mount-stepney-relief-v2.webp",
   },
   {
     id: "barbados-animal-flower-cave-cliffs-relief-v2",
@@ -713,6 +735,7 @@ export const barbadosReliefV2: POI[] = [
       ro: ["Înălțimea stâncilor: 20 m", "Adâncimea peșterilor: 15 m", "Înălțimea celei mai mari peșteri: 10 m", "Vizitatori pe an: 40.000", "Vârsta peșterilor: Holocen, 6.000 ani", "Specia de anemone marine: Phymanthus crucifer"],
       en: ["Cliff height: 20 m", "Cave depth: 15 m", "Largest cave ceiling height: 10 m", "Annual visitors: 40,000", "Cave age: Holocene, 6,000 years", "Sea anemone species: Phymanthus crucifer"],
     },
+    image: "/poi-images/barbados-animal-flower-cave-cliffs-relief-v2.webp",
   },
   {
     id: "barbados-codrington-college-hill-relief-v2",
@@ -744,5 +767,6 @@ export const barbadosReliefV2: POI[] = [
       ro: ["Anul înființării: 1745", "Înălțimea dealului: 60 m", "Dimensiunea domeniului: 50 ha", "Volume în bibliotecă: peste 10.000", "Teren donat: 500 de acri (cca 202 ha)", "Număr de sclavi în moștenire: 20"],
       en: ["Foundation year: 1745", "Hill elevation: 60 m", "Estate size: 50 hectares", "Library volumes: >10,000", "Endowed land: 500 acres", "Inherited slaves: 20"],
     },
+    image: "/poi-images/barbados-codrington-college-hill-relief-v2.webp",
   }
 ];

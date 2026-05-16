@@ -31,6 +31,7 @@ export const marshallislandsReliefV2: POI[] = [
       ro: ["altitudinea maximă: 10 m deasupra nivelului mării", "număr de insule: 63", "suprafața terestră: 10,26 km²", "populație: aprox. 500", "suprafața lagunei: 424 km²", "lungimea atolului: 35 km"],
       en: ["highest elevation: 10 m above sea level", "number of islands: 63", "land area: 10.26 km²", "population: approx. 500", "lagoon area: 424 km²", "atoll length: 35 km"],
     },
+    image: "/poi-images/marshallislands-likiep-highest-point-relief-v2.webp",
   },
   {
     id: "marshallislands-kwajalein-lagoon-relief-v2",
@@ -62,6 +63,7 @@ export const marshallislandsReliefV2: POI[] = [
       ro: ["suprafața lagunei: 2.174 km²", "lungimea lagunei: 120 km", "număr de insule: 97", "suprafața terestră: 16,4 km²", "adâncimea maximă: cca. 37 m (conform unor surse)", "utilizare: bază de testare rachete a SUA"],
       en: ["lagoon area: 2,174 km²", "lagoon length: 120 km", "number of islands: 97", "land area: 16.4 km²", "maximum depth: approx. 37 m (varies)", "use: US missile testing range"],
     },
+    image: "/poi-images/marshallislands-kwajalein-lagoon-relief-v2.webp",
   },
   {
     id: "marshallislands-ratak-chain-relief-v2",
@@ -93,6 +95,7 @@ export const marshallislandsReliefV2: POI[] = [
       ro: ["lungimea lanțului: aprox. 1.300 km", "număr de atoli: 16", "insule izolate: 2", "punctul cel mai înalt: sub 5 m", "capitala: Majuro", "lanț estic"],
       en: ["chain length: approx. 1,300 km", "number of atolls: 16", "isolated islands: 2", "highest point: below 5 m", "capital: Majuro", "eastern chain"],
     },
+    image: "/poi-images/marshallislands-ratak-chain-relief-v2.webp",
   },
   {
     id: "marshallislands-ralik-chain-relief-v2",
@@ -124,5 +127,6 @@ export const marshallislandsReliefV2: POI[] = [
       ro: ["lungimea lanțului: aprox. 1.300 km", "număr de atoli: 15", "insule izolate: 3", "punctul cel mai înalt: sub 3 m", "cea mai mare lagună: Kwajalein", "lanț vestic"],
       en: ["chain length: approx. 1,300 km", "number of atolls: 15", "isolated islands: 3", "highest point: below 3 m", "largest lagoon: Kwajalein", "western chain"],
     },
+    image: "/poi-images/marshallislands-ralik-chain-relief-v2.webp",
   }
 ];

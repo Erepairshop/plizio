@@ -172,6 +172,7 @@ export const moldovaPoi: POI[] = [
       ro: ["Fondată în anul 1897", "Producție de 20 milioane sticle/an", "Peste 2.000 hectare de podgorii", "Deține distilate vechi de 60 ani", "Numele este un acronim rusesc", "Câștigătoare a sute de medalii de aur"],
       en: ["Founded in 1897", "Produces 20 million bottles yearly", "Owns 2,000 hectares of vineyards", "Ages spirits for up to 60 years", "Acronym for Tiraspol spirits", "Winner of over 200 gold medals"],
     },
+    image: "/poi-images/MD-030-kvint-distillery.webp",
   },
   {
     id: "MD-031-chisinau-city",
@@ -325,6 +326,7 @@ export const moldovaPoi: POI[] = [
       ro: ["Mănăstirea a fost fondată în jurul anului 1693 pe malul Nistrului.", "Este singura mănăstire din Moldova care a funcționat continuu în perioada sovietică.", "Complexul include o biserică rupestră săpată în stâncă de calcar.", "Biserica principală a fost reconstruită în secolul al XIX-lea în stil neoclasic.", "Adăpostește mai multe izvoare cu apă minerală considerate tămăduitoare.", "Se află la o distanță de aproximativ 160 kilometri de Chișinău."],
       en: ["Founded around 1693 on the banks of the Dniester River.", "The only monastery in Moldova never closed during the Soviet period.", "Includes an ancient cave church carved into limestone cliffs.", "The main church was rebuilt in the 19th century in Neoclassical style.", "Home to several holy springs known for their mineral content.", "Located approximately 10 kilometers south of the town of Camenca."],
     },
+    image: "/poi-images/MD-034-japca-monastery.webp",
   },
   {
     id: "MD-035-tipova-monastery",

@@ -31,6 +31,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1650 sub numele de Carenage.", "Găzduiește sediul Guvernului din Sfânta Lucia.", "Portul este o oprire majoră pentru navele de croazieră.", "Piața Derek Walcott onorează laureatul Premiului Nobel.", "A fost aproape distrus de un incendiu masiv în 1948.", "Populația aglomerației este de aproximativ 70.000 locuitori."],
       en: ["Founded in 1650 originally as Carenage.", "Home to the seat of the Government of Saint Lucia.", "The port is a major destination for Caribbean cruise ships.", "Derek Walcott Square honors the local Nobel laureate.", "Nearly destroyed by a devastating fire in 1948.", "The urban population is approximately 70,000 residents."],
     },
+    image: "/poi-images/saintlucia-castries-cities-v2.webp",
   },
   {
     id: "saintlucia-vieux-fort-cities-v2",
@@ -62,6 +63,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Găzduiește Aeroportul Internațional Hewanorra.", "Numit după o veche fortificație franceză.", "Cel mai important port de containere din sudul insulei.", "Centru al industriei zahărului în secolul al XVIII-lea.", "Situat lângă farul de la Cape Moule à Chique.", "A servit ca bază militară americană în Al Doilea Război Mondial."],
       en: ["Home to the Hewanorra International Airport.", "Named after an old French fortification on the site.", "The island's primary southern container shipping port.", "Center of the sugar cane industry during the 1700s.", "Located near the scenic Cape Moule à Chique lighthouse.", "Served as a US military base during World War II."],
     },
+    image: "/poi-images/saintlucia-vieux-fort-cities-v2.webp",
   },
   {
     id: "saintlucia-soufriere-cities-v2",
@@ -93,6 +95,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["A fost capitala insulei până în anul 1766.", "Fondat de francezi în anul 1746.", "Situat lângă vârfurile Pitons, sit UNESCO.", "Găzduiește faimoasele izvoare termale Sulphur Springs.", "Centru istoric al producției de cacao pe insulă.", "Numele provine de la mirosul de sulf al vulcanului."],
       en: ["Served as the island's capital until 1766.", "Founded by the French settlers in 1746.", "Located adjacent to the UNESCO-listed Pitons.", "Home to the famous Sulphur Springs geothermal site.", "The historical center of the island's cocoa production.", "Its name refers to the sulfurous smell of the volcano."],
     },
+    image: "/poi-images/saintlucia-soufriere-cities-v2.webp",
   },
   {
     id: "saintlucia-gros-islet-cities-v2",
@@ -124,6 +127,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Inițial un sat de pescari, acum centru turistic.", "Cunoscut pentru 'Friday Night Street Party', eveniment săptămânal.", "Găzduiește portul de iahturi Rodney Bay Marina.", "În apropiere se află Parcul Național Pigeon Island.", "A primit oficial statutul de oraș în anul 1985.", "Oferă condiții excelente pentru sporturile nautice."],
       en: ["Originally a fishing village, now a tourism hub.", "Famous for its weekly Friday Night Street Party.", "Home to the prestigious Rodney Bay Marina.", "Located near the historic Pigeon Island National Park.", "Officially elevated to town status in 1985.", "Offers world-class conditions for yachting and sailing."],
     },
+    image: "/poi-images/saintlucia-gros-islet-cities-v2.webp",
   },
   {
     id: "saintlucia-micoud-cities-v2",
@@ -155,6 +159,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Numit după Baronul de Micoud, guvernator francez.", "Cea mai mare localitate de pe coasta atlantică a insulei.", "Producția de banane este principala activitate economică.", "Situat în cel mai mare district administrativ al țării.", "Coasta este marcată de curenți oceanici puternici.", "Găzduiește numeroase ferme mici și plantații."],
       en: ["Named after Baron de Micoud, a French governor.", "The largest settlement on the island's Atlantic coast.", "Banana production is the primary economic driver.", "Located in the nation's largest administrative district.", "The coastline is characterized by strong ocean currents.", "Home to numerous small-scale farms and plantations."],
     },
+    image: "/poi-images/saintlucia-micoud-cities-v2.webp",
   },
   {
     id: "saintlucia-dennery-cities-v2",
@@ -186,6 +191,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Numele original al localității a fost 'Le Mabouya'.", "Cunoscut pentru evenimentul săptămânal 'Saturday Fish Fry'.", "Producător important de rădăcinoase și fructe.", "Găzduiește o flotă pescărească semnificativă.", "Regiunea dispune de mai multe cascade spectaculoase.", "Numit după Contele d'Ennery."],
       en: ["The original name of the settlement was 'Le Mabouya'.", "Famous for the weekly 'Saturday Fish Fry' event.", "A key producer of root crops and tropical fruits.", "Home to a significant local fishing fleet.", "The surrounding region features several large waterfalls.", "Named in honor of the Count d'Ennery."],
     },
+    image: "/poi-images/saintlucia-dennery-cities-v2.webp",
   },
   {
     id: "saintlucia-laborie-cities-v2",
@@ -217,6 +223,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Numit după Baronul de Laborie, fost guvernator.", "Fondat în secolul al XVIII-lea de coloniști francezi.", "Biserica locală este un reper arhitectural important.", "Regiunea este cunoscută pentru meșteșugurile tradiționale.", "A servit anterior ca port mic pentru exportul de zahăr.", "Situat într-un golf protejat de la Marea Caraibilor."],
       en: ["Named after Baron de Laborie, a former governor.", "Founded in the 18th century by French settlers.", "The local church is a prominent landmark of the village.", "The region is known for its traditional handicrafts.", "Formerly served as a small port for sugar exports.", "Situated in a sheltered bay on the Caribbean coast."],
     },
+    image: "/poi-images/saintlucia-laborie-cities-v2.webp",
   },
   {
     id: "saintlucia-anse-la-raye-cities-v2",
@@ -248,6 +255,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Situat pe coasta de vest a insulei", "Centrul districtului Anse La Raye", "Faimos pentru evenimentul Friday Night Fish Fry", "Deține o biserică romano-catolică din 1907", "Pescuitul tradițional este sursa principală de venit", "Populația este de aproximativ 1250 de persoane"],
       en: ["Located on the western coast of the island", "Administrative center of Anse La Raye District", "Famous for the weekly Friday Night Fish Fry", "Features a Roman Catholic church built in 1907", "Traditional fishing is the primary source of income", "Population is approximately 1,250 people"],
     },
+    image: "/poi-images/saintlucia-anse-la-raye-cities-v2.webp",
   },
   {
     id: "saintlucia-choiseul-cities-v2",
@@ -279,6 +287,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Oraș de coastă în sud-vestul insulei", "Reședința districtului Choiseul", "Centrul meșteșugurilor locale", "Fondat în jurul anului 1763", "Găzduiește Centrul de Arte și Meșteșuguri Choiseul", "În apropierea satului se află petroglife istorice"],
       en: ["Southwestern coastal town on the island", "Main town of the Choiseul District", "Hub for local arts and traditional crafts", "Founded around the year 1763", "Home to the Choiseul Arts and Craft Center", "Historic petroglyphs are located near the village"],
     },
+    image: "/poi-images/saintlucia-choiseul-cities-v2.webp",
   },
   {
     id: "saintlucia-canaries-cities-v2",
@@ -310,6 +319,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Pe coasta de vest, între Anse La Raye și Soufrière", "Reședința celui mai mic district din Sfânta Lucia", "Numele provine de la oalele indigene de lut", "Economia se bazează pe pescuit și agricultură", "Are o plajă cu nisip negru", "Infrastructura a fost grav afectată de uraganul Tomas în 2010"],
       en: ["Located on the west coast between Anse La Raye and Soufrière", "Administrative center of Saint Lucia's smallest district", "Name originates from Amerindian clay cooking pots", "Economy relies on fishing and agriculture", "Features a distinctive black sand beach", "Infrastructure was heavily damaged by Hurricane Tomas in 2010"],
     },
+    image: "/poi-images/saintlucia-canaries-cities-v2.webp",
   },
   {
     id: "saintlucia-babonneau-cities-v2",
@@ -341,6 +351,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Comunitate interioară în nord-estul insulei", "Face parte din districtul Castries", "Centru pentru cultivarea bananelor și a rădăcinoaselor", "Găzduiește parcul Rainforest Adventures", "Cunoscut pentru traseul montan Chassin", "Punct de plecare important pentru ecoturism"],
       en: ["Inland community located in the northeastern part of the island", "Part of the larger Castries District", "Major producer of bananas and root crops", "Home to the Rainforest Adventures ecological park", "Known for the scenic Chassin mountain hiking trail", "Key gateway for ecotourism activities on the island"],
     },
+    image: "/poi-images/saintlucia-babonneau-cities-v2.webp",
   },
   {
     id: "saintlucia-bexon-cities-v2",
@@ -372,6 +383,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Situat în valea Cul-de-Sac, la sud de Castries", "Centru de producție agricolă în regiune", "Traversat de râul Bexon", "Aparține administrativ de districtul Castries", "Vulnerabil la inundații sezoniere rapide", "Locație importantă pentru plantațiile de banane"],
       en: ["Located in the Cul-de-Sac Valley south of Castries", "Main center for agricultural production in the local area", "The Bexon River flows through the settlement", "Administratively part of the Castries District", "Highly susceptible to seasonal flash flooding", "Major site for commercial banana plantations"],
     },
+    image: "/poi-images/saintlucia-bexon-cities-v2.webp",
   },
   {
     id: "saintlucia-ciceron-cities-v2",
@@ -403,6 +415,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Suburbie sudică a capitalei Castries", "Oferă vedere spre Marea Caraibilor", "Zonă rezidențială dens populată", "Găzduiește Școala Secundară Ciceron", "Fostă locație pentru cariere de calcar", "Situat în apropiere de Morne Fortune"],
       en: ["Southern suburb of the capital city, Castries", "Offers scenic views of the Caribbean Sea", "Densely populated residential area", "Home to the Ciceron Secondary School", "Formerly a site for limestone quarrying", "Located in close proximity to Morne Fortune"],
     },
+    image: "/poi-images/saintlucia-ciceron-cities-v2.webp",
   },
   {
     id: "saintlucia-rodney-bay-cities-v2",
@@ -434,6 +447,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Cel mai mare port de iahturi din Sfânta Lucia", "Găzduiește populara plajă Reduit", "Fostă bază militară în secolul al XVIII-lea", "Portul de sosire pentru Atlantic Rally for Cruisers (ARC)", "Centrul vieții de noapte de pe insulă", "Deține două centre comerciale mari"],
       en: ["Largest man-made marina in Saint Lucia", "Home to the island's popular Reduit Beach", "Strategic military site during the 18th century", "Official finish line for the Atlantic Rally for Cruisers (ARC)", "Main center for nightlife and entertainment", "Features two large modern shopping malls"],
     },
+    image: "/poi-images/saintlucia-rodney-bay-cities-v2.webp",
   },
   {
     id: "saintlucia-cap-estate-cities-v2",
@@ -465,6 +479,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Cel mai nordic punct al insulei Sfânta Lucia", "Fostă plantație de zahăr de 1500 de acri", "Locația singurului teren de golf cu 18 găuri de pe insulă", "Oferă vedere spre Martinica în zilele senine", "Găzduiește mai multe hoteluri de lux", "Cunoscut pentru plaja Cas en Bas"],
       en: ["The northernmost point of mainland Saint Lucia", "Former 1,500-acre sugar cane estate", "Site of the island's only 18-hole championship golf course", "Offers views of neighboring Martinique on clear days", "Home to several of the island's high-end resorts", "Famous for the windsurfing at Cas en Bas Beach"],
     },
+    image: "/poi-images/saintlucia-cap-estate-cities-v2.webp",
   },
   {
     id: "saintlucia-monchy-cities-v2",
@@ -496,6 +511,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Comunitate interioară în districtul Gros Islet", "Cunoscută pentru atmosfera sa liniștită", "Zonă rezidențială pentru cei care fac naveta în Rodney Bay", "Teren colinar cu vedere spre mare", "A crescut puternic prin noi ansambluri rezidențiale", "Deține propria capelă catolică"],
       en: ["Inland community located within the Gros Islet District", "Well-known for its peaceful and quiet atmosphere", "Primary residential area for commuters to Rodney Bay", "Hilly terrain offering views of the ocean", "Has expanded rapidly with new housing developments", "Features its own local Catholic chapel"],
     },
+    image: "/poi-images/saintlucia-monchy-cities-v2.webp",
   },
   {
     id: "saintlucia-augier-cities-v2",
@@ -527,6 +543,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Aparține de districtul Vieux Fort", "Aproape de Aeroportul Internațional Hewanorra", "Loc de reședință pentru mulți lucrători industriali", "Deține o școală primară importantă (Augier Combined)", "Teren relativ plat comparativ cu nordul insulei", "Nod important de transport local"],
       en: ["Part of the larger Vieux Fort District", "Located near Hewanorra International Airport", "Residential hub for many industrial workers", "Home to the Augier Combined School", "Features relatively flat terrain compared to the north", "Key local transportation junction in the south"],
     },
+    image: "/poi-images/saintlucia-augier-cities-v2.webp",
   },
   {
     id: "saintlucia-desruisseaux-cities-v2",
@@ -558,6 +575,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Cea mai mare comunitate interioară din districtul Micoud", "Centru agricol important", "Sediul Școlii Combinate Desruisseaux", "Cunoscută pentru festivalurile comunitare", "Principal producător de banane din regiune", "Infrastructura include un centru de sănătate propriu"],
       en: ["Largest inland community within the Micoud District", "Major hub for local agricultural production", "Home to the Desruisseaux Combined School", "Renowned for its vibrant community festivals", "Primary producer of bananas in the southeastern area", "Infrastructure includes a dedicated local health center"],
     },
+    image: "/poi-images/saintlucia-desruisseaux-cities-v2.webp",
   },
   {
     id: "saintlucia-saltibus-cities-v2",
@@ -589,6 +607,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Comunitate montană în districtul Choiseul", "Locația celor cinci cascade Saltibus", "Centru pentru cultivarea ghimbirului și curcumei", "Punct de plecare pentru trasee prin pădurea tropicală", "Cunoscută pentru aerul muntos răcoros", "Economia se bazează pe agricultura de subzistență"],
       en: ["Mountain community located in the Choiseul District", "Home to the scenic five-tiered Saltibus Waterfalls", "Key area for the cultivation of ginger and turmeric", "Major starting point for rainforest trekking tours", "Known for its refreshingly cool mountain climate", "Economy is predominantly based on subsistence farming"],
     },
+    image: "/poi-images/saintlucia-saltibus-cities-v2.webp",
   },
   {
     id: "saintlucia-ti-rocher-micoud-cities-v2",
@@ -620,6 +639,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Face parte din districtul administrativ Micoud", "Numele derivă din franceză, însemnând mică stâncă", "Caracterizat economic de plantațiile de banane", "Găzduiește Școala Combinată Ti Rocher (Micoud)", "Parte a fâșiei de coastă fertile din sud-est", "Cunoscut pentru comunitatea sa locală unită"],
       en: ["Located within the Micoud administrative district", "Name is derived from the French term for 'little rock'", "Economically dominated by banana plantations", "Home to the Ti Rocher (Micoud) Combined School", "Part of the fertile southeastern coastal region", "Known for its resilient and tight-knit community"],
     },
+    image: "/poi-images/saintlucia-ti-rocher-micoud-cities-v2.webp",
   },
   {
     id: "saintlucia-ti-rocher-castries-cities-v2",
@@ -651,6 +671,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Situat pe dealurile de deasupra orașului Castries", "Sediul Școlii Combinate Ti Rocher (Castries)", "Cunoscut pentru microclimatul său mai răcoros", "Loc de reședință pentru mulți angajați din capitală", "Oferă o panoramă asupra portului Castries", "Punct de plecare frecvent pentru tururi în interiorul insulei"],
       en: ["Located in the hills overlooking the city of Castries", "Home to the Ti Rocher (Castries) Combined School", "Well-known for its pleasantly cool microclimate", "Residential choice for many working in the capital", "Offers a panoramic view of Castries Harbor", "Frequent starting point for tours into the island's interior"],
     },
+    image: "/poi-images/saintlucia-ti-rocher-castries-cities-v2.webp",
   },
   {
     id: "saintlucia-mongiraud-cities-v2",
@@ -682,6 +703,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Aparține de districtul Gros Islet", "Zonă rezidențială preferată de clasa medie și superioară", "Topografie colinară cu vedere la mare", "Acces facil la Marina Rodney Bay", "Locație pentru vile și complexe rezidențiale moderne", "Prețuri imobiliare relativ ridicate în regiune"],
       en: ["Situated within the Gros Islet District", "Preferred residential area for middle and upper classes", "Hilly topography offering scenic ocean views", "Provides easy access to the Rodney Bay Marina", "Site of many modern villas and gated developments", "Features relatively high real estate values for the area"],
     },
+    image: "/poi-images/saintlucia-mongiraud-cities-v2.webp",
   },
   {
     id: "saintlucia-marisule-cities-v2",
@@ -713,6 +735,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Situat în districtul Gros Islet", "Localizat la nord de capitala Castries", "Acces direct la coasta Mării Caraibilor", "Situat pe ruta principală Castries-Gros Islet", "Zonă rezidențială pentru navetiștii spre capitală", "Proximitate față de zona turistică Rodney Bay"],
       en: ["Located in the Gros Islet Quarter", "Situated north of the capital Castries", "Direct access to the Caribbean coastline", "Positioned on the main Castries-Gros Islet highway", "Residential area for commuters to the capital", "Proximity to the Rodney Bay tourist region"],
     },
+    image: "/poi-images/saintlucia-marisule-cities-v2.webp",
   },
   {
     id: "saintlucia-choc-cities-v2",
@@ -744,6 +767,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Locația cimitirului Choc", "Plajă lungă cu nisip în Golful Choc", "Găzduiește centre comerciale mari", "Limita nordică a capitalei Castries", "Nod important de transport în nord", "Găzduiește mai multe resorturi all-inclusive"],
       en: ["Location of the Choc Cemetery", "Long sandy beach on Choc Bay", "Home to major shopping centers", "Northern boundary of the capital Castries", "Major transportation junction in the north", "Hosts several all-inclusive resorts"],
     },
+    image: "/poi-images/saintlucia-choc-cities-v2.webp",
   },
   {
     id: "saintlucia-union-cities-v2",
@@ -775,6 +799,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Sediul Departamentului Silvic", "Găzduiește o mini-grădină zoologică cu papagali nativi", "Locația unor grădini botanice", "Punct de plecare pentru trasee ecologice", "Centru de educație ecologică", "Situat în interiorul insulei, lângă Castries"],
       en: ["Headquarters of the Forestry Department", "Houses a mini-zoo with Saint Lucia Amazons", "Location of botanical gardens", "Starting point for nature trails", "Center for environmental education", "Located in the hinterland of Castries"],
     },
+    image: "/poi-images/saintlucia-union-cities-v2.webp",
   },
   {
     id: "saintlucia-balata-cities-v2",
@@ -806,6 +831,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Zonă rezidențială la nord-est de Castries", "Poziție elevată în zona colinară", "Climat mai răcoros decât pe coastă", "Caracterizată în principal prin case unifamiliale", "Conexiune cu drumul spre Babonneau", "Infrastructură în creștere în ultimele decenii"],
       en: ["Residential area northeast of Castries", "Elevated position in the hill range", "Cooler climate compared to the coast", "Primarily characterized by single-family homes", "Connection to the road leading to Babonneau", "Expanding infrastructure over recent decades"],
     },
+    image: "/poi-images/saintlucia-balata-cities-v2.webp",
   },
   {
     id: "saintlucia-giraud-cities-v2",
@@ -837,6 +863,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Aparține de districtul Gros Islet", "Structură de așezare rurală", "Orientată economic spre agricultură", "Situat în apropierea coastei de nord", "Parte a regiunii colinare din nord", "Densitate scăzută a populației"],
       en: ["Belongs to the Gros Islet district", "Rural settlement structure", "Economically oriented towards agriculture", "Located near the northern coast", "Part of the hilly northern region", "Low population density"],
     },
+    image: "/poi-images/saintlucia-giraud-cities-v2.webp",
   },
   {
     id: "saintlucia-monier-cities-v2",
@@ -868,6 +895,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Situat în nordul colinar din Gros Islet", "Cunoscut pentru vederi panoramice la mare", "Tranziție de la agricultură la rezidențial", "Precipitații frecvente datorită altitudinii", "Cartier rezidențial popular pentru profesioniști", "Conexiune la rețeaua rutieră din Babonneau"],
       en: ["Located in the hilly north of Gros Islet", "Known for panoramic sea views", "Transition from agriculture to residential", "Frequent rainfall due to elevation", "Popular residential area for professionals", "Connected to the Babonneau road network"],
     },
+    image: "/poi-images/saintlucia-monier-cities-v2.webp",
   },
   {
     id: "saintlucia-fond-st-jacques-cities-v2",
@@ -899,6 +927,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Centru agricol lângă Soufrière", "Zonă principală pentru cacao și cafea", "Situat la marginea Rezervației Forestiere Centrale", "Cunoscut pentru tradiția 'Koudmen' (ajutor reciproc)", "Ploile frecvente favorizează vegetația", "Una dintre cele mai ploioase zone ale insulei"],
       en: ["Agricultural hub near Soufrière", "Main cultivation area for cocoa and coffee", "Located at the edge of the Central Forest Reserve", "Known for traditional 'Koudmen' (community help)", "Frequent rains favor lush vegetation", "One of the island's wettest areas"],
     },
+    image: "/poi-images/saintlucia-fond-st-jacques-cities-v2.webp",
   },
   {
     id: "saintlucia-piaye-cities-v2",
@@ -930,6 +959,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Situat în districtul Laborie", "Vărsarea râului Piaye în Marea Caraibilor", "Locația unei școli secundare de stat", "Legătură istorică cu domeniul Balembouche", "Drumul de coastă din sud traversează localitatea", "Cunoscut pentru pescuit și agricultură"],
       en: ["Located in the Laborie district", "Mouth of the Piaye River into the Caribbean", "Location of a state secondary school", "Historical link to the Balembouche Estate", "The southern coastal road passes through", "Known for fishing and agriculture"],
     },
+    image: "/poi-images/saintlucia-piaye-cities-v2.webp",
   },
   {
     id: "saintlucia-balembouche-cities-v2",
@@ -961,6 +991,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Locația domeniului istoric Balembouche", "Ruinele unei mori de zahăr din secolul XVIII", "Găzduiește o rezervație naturală de 70 de hectare", "Fostă plantație de zahăr importantă pe insulă", "Situat între Laborie și Vieux Fort", "Cunoscut pentru turism ecologic"],
       en: ["Location of the historic Balembouche Estate", "Ruins of an 18th-century sugar mill", "Houses a 70-acre nature reserve", "Former major sugar plantation on the island", "Located between Laborie and Vieux Fort", "Known for ecological tourism"],
     },
+    image: "/poi-images/saintlucia-balembouche-cities-v2.webp",
   },
   {
     id: "saintlucia-praslin-cities-v2",
@@ -992,6 +1023,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Situat în Golful Praslin", "Acces la Rezervația Naturală Fregate Island", "Centru pentru recoltarea algelor marine (Sea Moss)", "Cunoscut pentru construcția tradițională de bărci", "Aparține de districtul Micoud", "Golf protejat de recife de corali"],
       en: ["Located on Praslin Bay", "Access to the Fregate Island Nature Reserve", "Center for Sea Moss harvesting", "Known for traditional boat building", "Part of the Micoud district", "Protected bay due to offshore reefs"],
     },
+    image: "/poi-images/saintlucia-praslin-cities-v2.webp",
   },
   {
     id: "saintlucia-mon-repos-cities-v2",
@@ -1023,6 +1055,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Situat pe drumul de pe coasta de est", "Zonă importantă de cultivare a bananelor", "Sediul unei cooperative agricole", "Cunoscut pentru piețele locale comunitare", "Aparține de districtul Micoud", "Oferă vederi spre Oceanul Atlantic"],
       en: ["Located on the east coast road", "Major banana cultivation area", "Site of an agricultural cooperative", "Known for local community markets", "Part of the Micoud district", "Offers views of the Atlantic Ocean"],
     },
+    image: "/poi-images/saintlucia-mon-repos-cities-v2.webp",
   },
   {
     id: "saintlucia-patience-cities-v2",
@@ -1054,6 +1087,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Aparține de districtul Micoud", "Situat la nord de Mon Repos", "Adiacent Golfului Patience", "Caracterizat economic prin culturi agricole", "Vegetație tipică pentru coasta de est", "Număr mic de locuitori"],
       en: ["Part of the Micoud district", "Located north of Mon Repos", "Adjacent to Patience Bay", "Economically characterized by farming", "Typical east coast vegetation", "Small population size"],
     },
+    image: "/poi-images/saintlucia-patience-cities-v2.webp",
   },
   {
     id: "saintlucia-boguis-cities-v2",
@@ -1085,6 +1119,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Aparține de districtul Babonneau", "Cunoscut pentru cultivarea ignamelor și a cartofilor dulci", "Structuri agricole tradiționale", "Poziție elevată în interiorul insulei", "Coeziune puternică a comunității sătești", "Parte a nord-estului fertil"],
       en: ["Part of the Babonneau district", "Known for cultivating yams and sweet potatoes", "Traditional agricultural structures", "Elevated inland position", "Strong community cohesion", "Part of the fertile northeast"],
     },
+    image: "/poi-images/saintlucia-boguis-cities-v2.webp",
   },
   {
     id: "saintlucia-garrand-cities-v2",
@@ -1116,6 +1151,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Cel mai cunoscut punct de belvedere din Babonneau", "Vedere spre Cas en Bas și Oceanul Atlantic", "Altitudinea favorizează pomicultura", "Așezare rezidențială rurală", "Locație importantă pentru fotografii de natură", "Conexiune la drumurile montane din nord-est"],
       en: ["Most famous viewpoint in Babonneau", "Views of Cas en Bas and the Atlantic", "Elevation favors fruit cultivation", "Rural residential settlement", "Important spot for nature photographers", "Connected to northeastern mountain roads"],
     },
+    image: "/poi-images/saintlucia-garrand-cities-v2.webp",
   },
   {
     id: "saintlucia-ravine-poisson-cities-v2",
@@ -1147,6 +1183,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Locul dezastrului din 1938", "Memorial pentru victimele alunecării de teren", "Situat în Valea Cul de Sac", "Poziție geografică abruptă", "Înconjurat de pădure tropicală", "Centru pentru agricultura montană locală"],
       en: ["Site of the 1938 disaster", "Memorial for mudslide victims", "Located in the Cul de Sac Valley", "Steep geographical setting", "Surrounded by tropical rainforest", "Center for local mountain agriculture"],
     },
+    image: "/poi-images/saintlucia-ravine-poisson-cities-v2.webp",
   },
   {
     id: "saintlucia-vanard-cities-v2",
@@ -1178,6 +1215,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Aparține districtului Castries din vestul insulei.", "Este situat în valea fertilă Roseau.", "Centru important pentru cultivarea bananelor în Sfânta Lucia.", "Se află la aproximativ 10 kilometri sud de capitală.", "Regiunea este caracterizată de un climat tropical umed.", "Servește ca locuință pentru mulți lucrători agricoli."],
       en: ["Part of the Castries District in the west of the island.", "Located within the fertile Roseau Valley region.", "Significant hub for banana cultivation in Saint Lucia.", "Situated approximately 10 kilometers south of the capital.", "The region is characterized by a tropical rainforest climate.", "Serves as a residential area for many agricultural workers."],
     },
+    image: "/poi-images/saintlucia-vanard-cities-v2.webp",
   },
   {
     id: "saintlucia-millet-cities-v2",
@@ -1209,6 +1247,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Găzduiește cunoscuta rezervație de păsări Millet.", "Peste 30 de specii diferite de păsări pot fi observate aici.", "Situat în bazinul hidrografic al barajului John Compton.", "Adăpostește specii rare, cum ar fi papagalul de Sfânta Lucia.", "Altitudinea oferă temperaturi mai scăzute decât pe coastă.", "Locație importantă pentru ecoturism în interiorul insulei."],
       en: ["Home to the well-known Millet Bird Sanctuary.", "Over 30 different bird species can be observed here.", "Located in the catchment area of the John Compton Dam.", "Habitat for rare species like the St. Lucia Parrot.", "The altitude provides cooler temperatures than the coast.", "Significant site for ecotourism in the island's interior."],
     },
+    image: "/poi-images/saintlucia-millet-cities-v2.webp",
   },
   {
     id: "saintlucia-roseau-cities-v2",
@@ -1240,6 +1279,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Sediul grupului St. Lucia Distillers.", "Fostul amplasament al unei mari fabrici de zahăr (Roseau Sugar Factory).", "Produce sortimente de rom cunoscute, precum Chairman's Reserve.", "Valea a fost convertită de la zahăr la banane în anii 1960.", "Situat la sud de capitala Castries, pe coasta de vest.", "Factor economic important pentru regiunea Anse la Raye."],
       en: ["Headquarters of the St. Lucia Distillers Group.", "Former site of a major sugar factory (Roseau Sugar Factory).", "Produces well-known rums such as Chairman's Reserve.", "The valley transitioned from sugar to bananas in the 1960s.", "Located south of the capital Castries on the west coast.", "Key economic driver for the Anse la Raye region."],
     },
+    image: "/poi-images/saintlucia-roseau-cities-v2.webp",
   },
   {
     id: "saintlucia-marigot-bay-cities-v2",
@@ -1271,6 +1311,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Port natural de protecție împotriva uraganelor pentru nave.", "Locul de filmare pentru filmul 'Doctor Dolittle' din 1967.", "Amiralul Rodney și-a ascuns navele aici în 1778.", "Găzduiește o marină modernă pentru iahturi de mari dimensiuni.", "Golful este protejat de o fâșie îngustă de pământ.", "Dispune de ecosisteme rare de mangrove pe mal."],
       en: ["Natural hurricane hole providing safe shelter for ships.", "Filming location for the 1967 movie 'Doctor Dolittle'.", "Admiral Rodney hid his ships here in 1778.", "Home to a high-end marina for mega yachts.", "The bay is protected by a narrow sand spit.", "Features rare mangrove ecosystems along its shores."],
     },
+    image: "/poi-images/saintlucia-marigot-bay-cities-v2.webp",
   },
   {
     id: "saintlucia-la-croix-maingot-cities-v2",
@@ -1302,6 +1343,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Aparține administrativ de districtul Castries.", "Situat pe drumul de legătură către Marigot Bay.", "Altitudinea oferă vederi panoramice ale coastei de vest.", "În apropiere se află plantații importante de banane.", "Populația este formată preponderent din familii locale.", "Nod important pentru traficul regional de microbuze."],
       en: ["Administratively falls under the Castries District.", "Located on the connecting road to Marigot Bay.", "Elevated position offers panoramic views of the west coast.", "Significant banana plantations are located nearby.", "The population consists mainly of local families.", "Important hub for regional minibus transportation."],
     },
+    image: "/poi-images/saintlucia-la-croix-maingot-cities-v2.webp",
   },
   {
     id: "saintlucia-vigie-cities-v2",
@@ -1333,6 +1375,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Locația aeroportului George F. L. Charles (SLU).", "Sediul multor ambasade străine din Sfânta Lucia.", "Farul Vigie a fost construit în anul 1883.", "A fost locul bătăliei de la Vigie în 1778.", "Plaja Vigie se întinde pe o lungime de doi kilometri.", "Găzduiește vechi cazărmi militare din epoca britanică."],
       en: ["Site of the George F. L. Charles Airport (SLU).", "Location of many foreign embassies in Saint Lucia.", "The Vigie Lighthouse was constructed in 1883.", "Site of the Battle of Vigie in 1778.", "Vigie Beach extends for over two kilometers.", "Home to old military barracks from the British era."],
     },
+    image: "/poi-images/saintlucia-vigie-cities-v2.webp",
   },
   {
     id: "saintlucia-morne-fortune-cities-v2",
@@ -1364,6 +1407,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Construcția Fortului Charlotte a fost începută de francezi în 1764.", "Oferă cea mai bună vedere panoramică asupra portului Castries.", "Găzduiește Sir Arthur Lewis Community College.", "Locația monumentului dedicat Regimentului 27 Inniskilling.", "Sediul Government House, reședința Guvernatorului General.", "Situat la o altitudine de aproximativ 260 de metri deasupra mării."],
       en: ["Construction of Fort Charlotte began in 1764 by the French.", "Offers the best panoramic view of Castries harbor.", "Home to the Sir Arthur Lewis Community College.", "Site of the monument for the 27th Inniskilling Regiment.", "Location of Government House, the Governor General's residence.", "Situated at an altitude of about 260 meters above sea level."],
     },
+    image: "/poi-images/saintlucia-morne-fortune-cities-v2.webp",
   },
   {
     id: "saintlucia-marchand-cities-v2",
@@ -1395,6 +1439,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Marchand Grounds este un teren de sport local bine cunoscut.", "Servește ca loc de desfășurare pentru evenimente comunitare.", "Locație importantă pentru învățământul primar în Castries.", "Regiunea are o densitate ridicată a populației.", "Situat la distanță de mers pe jos de centrul orașului Castries.", "Joacă un rol central în peisajul politic al insulei."],
       en: ["Marchand Grounds is a well-known local sports field.", "Serves as a venue for community events and festivals.", "Important site for primary education in Castries.", "The region has a high population density.", "Located within walking distance of Castries city center.", "Plays a central role in the island's political landscape."],
     },
+    image: "/poi-images/saintlucia-marchand-cities-v2.webp",
   },
   {
     id: "saintlucia-entrepot-cities-v2",
@@ -1426,6 +1471,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Găzduiește școala secundară Entrepot.", "Zonă rezidențială pentru venituri medii în Castries.", "Situat pe principala arteră rutieră către interiorul insulei.", "Dispune de centre medicale locale pentru comunitate.", "S-a dezvoltat semnificativ în a doua jumătate a secolului XX.", "Oferă vederi spre dealurile verzi din spatele capitalei."],
       en: ["Home to the Entrepot Secondary School.", "Residential area for middle-income earners in Castries.", "Located on the main road artery towards the island's interior.", "Features local health centers for the community.", "Developed significantly during the second half of the 20th century.", "Offers views of the lush green hills behind the capital."],
     },
+    image: "/poi-images/saintlucia-entrepot-cities-v2.webp",
   },
   {
     id: "saintlucia-carellie-cities-v2",
@@ -1457,6 +1503,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Cartier rezidențial preferat pentru profesioniști în Castries.", "Cunoscut pentru structura sa de așezare planificată.", "Situat la nord-est de centrul orașului Castries.", "Oferă o conexiune bună la autostrada Choc.", "Zona este caracterizată de case unifamiliale.", "Altitudinea oferă un climat de ventilație naturală."],
       en: ["Preferred residential neighborhood for professionals in Castries.", "Known for its planned settlement structure.", "Located northeast of Castries city center.", "Provides good access to the Choc Highway.", "The area is characterized by single-family homes.", "Hillside location provides a natural cooling climate."],
     },
+    image: "/poi-images/saintlucia-carellie-cities-v2.webp",
   },
   {
     id: "saintlucia-chase-gardens-cities-v2",
@@ -1488,6 +1535,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Situat imediat la est de centrul orașului Castries.", "Servește ca un coridor de tranzit important pentru navetiști.", "Găzduiește diverse instituții religioase.", "Așezarea s-a intensificat începând cu anii 1970.", "Amestec de arhitectură tradițională și modernă.", "Punct central pentru traficul urban de autobuze."],
       en: ["Located immediately east of Castries city center.", "Serves as a major transit corridor for commuters.", "Home to various religious institutions.", "Settlement intensified during the 1970s.", "Features a mix of traditional and modern architecture.", "A central point for urban bus transportation."],
     },
+    image: "/poi-images/saintlucia-chase-gardens-cities-v2.webp",
   },
   {
     id: "saintlucia-la-clery-cities-v2",
@@ -1519,6 +1567,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Situat la nord de râul Castries.", "Găzduiește biserica romano-catolică Sfântul Iosif.", "Loc de reședință important pentru angajații aeroportului.", "Dispune de propriul centru de sănătate comunitar.", "Unul dintre cele mai bine dezvoltate cartiere urbane.", "Se află direct pe drumul către zona turistică Rodney Bay."],
       en: ["Located north of the Castries River.", "Home to the St. Joseph the Worker Roman Catholic Church.", "Major residential area for airport employees.", "Features its own community health center.", "One of the most well-serviced neighborhoods in the capital.", "Situated directly on the path to the Rodney Bay resort area."],
     },
+    image: "/poi-images/saintlucia-la-clery-cities-v2.webp",
   },
   {
     id: "saintlucia-vide-bouteille-cities-v2",
@@ -1550,6 +1599,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Locația școlii secundare Sir Ira Simmons.", "Centru important pentru dealeri auto și ateliere de reparații.", "Mărginit de Marea Caraibilor la vest.", "Numele este de origine franceză.", "Găzduiește complexe comerciale moderne, cum ar fi Gablewoods Mall.", "Secțiune centrală a rețelei de autostrăzi din nord."],
       en: ["Site of the Sir Ira Simmons Secondary School.", "Major location for car dealerships and auto repair shops.", "Bordered by the Caribbean Sea to the west.", "The name is of French origin, meaning 'Empty Bottle'.", "Home to modern commercial complexes like Gablewoods Mall.", "Central section of the northern highway network."],
     },
+    image: "/poi-images/saintlucia-vide-bouteille-cities-v2.webp",
   },
   {
     id: "saintlucia-bissee-cities-v2",
@@ -1581,6 +1631,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Centrul zonei industriale Bissee Industrial Estate.", "Locație pentru procesarea cerealelor și fabricarea mobilei.", "Situat în valea de la nord-est de Castries.", "Angajator important pentru populația locală.", "Găzduiește biroul Biroului de Standarde din Sfânta Lucia.", "Conectat la rețeaua municipală de apă și electricitate."],
       en: ["Heart of the Bissee Industrial Estate.", "Location for grain processing and furniture manufacturing.", "Situated in the valley basin northeast of Castries.", "Major employer for the local population.", "Houses the office of the St. Lucia Bureau of Standards.", "Well-connected to the municipal water and power grid."],
     },
+    image: "/poi-images/saintlucia-bissee-cities-v2.webp",
   },
   {
     id: "saintlucia-sunny-acres-cities-v2",
@@ -1612,6 +1663,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Zonă rezidențială stabilită pentru clasa medie superioară.", "Oferă vedere spre golful Choc.", "Situat între Castries și Gros Islet.", "A devenit cunoscut în principal ca un cartier de vile în anii 1980.", "Supermarketuri mari se află în imediata apropiere.", "Topografia protejează împotriva furtunilor de coastă directe."],
       en: ["Established residential area for the upper-middle class.", "Offers expansive views of Choc Bay.", "Located between Castries and Gros Islet.", "Became known primarily as a villa neighborhood in the 1980s.", "Large supermarkets are located nearby.", "The topography provides protection from direct coastal storms."],
     },
+    image: "/poi-images/saintlucia-sunny-acres-cities-v2.webp",
   },
   {
     id: "saintlucia-beausejour-cities-v2",
@@ -1643,6 +1695,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Găzduiește terenul de cricket Daren Sammy", "Situat în districtul Gros Islet", "Numit după o plantație istorică", "Locație pentru Cupa Mondială de Cricket din 2007", "Dispune de facilități moderne pentru tenis", "Zonă importantă de expansiune rezidențială"],
       en: ["Home to the Daren Sammy Cricket Ground", "Located within the Gros Islet Quarter", "Named after a historic plantation estate", "Venue for the 2007 Cricket World Cup", "Features modern tennis facilities", "Major residential expansion area"],
     },
+    image: "/poi-images/saintlucia-beausejour-cities-v2.webp",
   },
   {
     id: "saintlucia-bonne-terre-cities-v2",
@@ -1674,6 +1727,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Poziție elevată în nordul insulei", "Vedere spre portul de agrement Rodney Bay", "Zonă rezidențială predominant de lux", "Compusă din vile și proprietăți private", "Aproape de terenul de cricket Beausejour", "Numele înseamnă 'Pământ bun' în franceză"],
       en: ["Elevated location in northern Saint Lucia", "Overlooks the Rodney Bay Marina", "Primarily an upscale residential area", "Consists of private villas and estates", "Close proximity to Beausejour Cricket Ground", "Name translates to 'Good Earth' in French"],
     },
+    image: "/poi-images/saintlucia-bonne-terre-cities-v2.webp",
   },
   {
     id: "saintlucia-rodney-heights-cities-v2",
@@ -1705,6 +1759,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Situat în districtul Gros Islet", "Poziționat deasupra Golfului Rodney", "Găzduiește facilități medicale", "Locație importantă pentru sectorul serviciilor", "Vedere spre Insula Pigeon", "Aproape de centrul comercial Baywalk"],
       en: ["Located in the Gros Islet district", "Positioned above Rodney Bay", "Home to several medical facilities", "Key location for the service sector", "Views of Pigeon Island Landmark", "Close to Baywalk Shopping Mall"],
     },
+    image: "/poi-images/saintlucia-rodney-heights-cities-v2.webp",
   },
   {
     id: "saintlucia-mon-repos-east-cities-v2",
@@ -1736,6 +1791,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Situat în districtul Micoud", "Poziționat pe coasta atlantică", "Zonă importantă pentru cultura bananelor", "Format din mai multe cătune rurale", "Lângă Grădinile Botanice Mamiku", "Numele francez înseamnă 'Odihna mea'"],
       en: ["Located in the Micoud Quarter", "Situated on the Atlantic coast", "Major area for banana cultivation", "Comprises several rural hamlets", "Near Mamiku Botanical Gardens", "French name means 'My Rest'"],
     },
+    image: "/poi-images/saintlucia-mon-repos-east-cities-v2.webp",
   },
   {
     id: "saintlucia-balata-east-cities-v2",
@@ -1767,6 +1823,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Suburbie a orașului Castries", "Situat pe drumul spre Babonneau", "Zonă rezidențială cu densitate medie", "Vedere spre portul Castries", "Poziție elevată deasupra nivelului mării", "Centru important pentru navetiști"],
       en: ["Suburb of the capital city, Castries", "Located on the road to Babonneau", "Medium-density residential area", "Views of the Castries Harbor", "Elevated position above sea level", "Important commuter hub"],
     },
+    image: "/poi-images/saintlucia-balata-east-cities-v2.webp",
   },
   {
     id: "saintlucia-union-west-cities-v2",
@@ -1798,6 +1855,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Locația zonei industriale Union", "Găzduiește Departamentul Forestier Union", "Situat lângă magistrala nord-sud", "Sediu pentru numeroase agenții guvernamentale", "Dispune de facilități sportive", "Zonă comercială importantă"],
       en: ["Site of the Union Industrial Estate", "Home to the Union Forestry Department", "Located near the main north-south highway", "Seat of several government agencies", "Features recreational sports grounds", "Key commercial and industrial zone"],
     },
+    image: "/poi-images/saintlucia-union-west-cities-v2.webp",
   },
   {
     id: "saintlucia-marisule-beach-cities-v2",
@@ -1829,6 +1887,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Situată între Castries și Gros Islet", "Golf cu nisip vulcanic închis la culoare", "Aproape de zona rezidențială Marisule", "Punct de acces pentru sporturi nautice", "Vedere spre Oceanul Caraibilor", "La est se află râul Choc"],
       en: ["Located between Castries and Gros Islet", "Features dark volcanic sand", "Adjacent to the Marisule residential area", "Access point for water sports", "Views of the Caribbean Ocean", "Located west of the Choc River"],
     },
+    image: "/poi-images/saintlucia-marisule-beach-cities-v2.webp",
   },
   {
     id: "saintlucia-choc-commercial-cities-v2",
@@ -1860,6 +1919,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Locația centrului comercial Gablewoods", "Situat în Golful Choc", "Centru comercial major al insulei", "Aproape de aeroportul Vigie", "Nod de trafic pentru zona de nord", "Găzduiește supermarketuri mari"],
       en: ["Home to the Gablewoods Mall", "Located along Choc Bay", "Primary commercial hub of the island", "Near George F.L. Charles Airport", "Traffic junction for northern travel", "Hosts large wholesale supermarkets"],
     },
+    image: "/poi-images/saintlucia-choc-commercial-cities-v2.webp",
   },
   {
     id: "saintlucia-desruisseaux-west-cities-v2",
@@ -1891,6 +1951,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Situat în interiorul districtului Micoud", "Comunitate agricolă importantă", "Sediul unei biblioteci regionale", "Centru pentru producția de banane", "Cultură tradițională creolă", "Regiune muntoasă din sud-est"],
       en: ["Located in the Micoud hinterland", "Significant agricultural community", "Home to a regional library", "Hub for banana cultivation", "Preserves traditional Creole culture", "Part of the southeastern highlands"],
     },
+    image: "/poi-images/saintlucia-desruisseaux-west-cities-v2.webp",
   },
   {
     id: "saintlucia-augier-south-cities-v2",
@@ -1922,6 +1983,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Situat în districtul Vieux Fort", "Lângă Aeroportul Hewanorra", "Zonă rezidențială importantă în sud", "Teren agricol tradițional", "Poziție elevată deasupra coastei de sud", "Cale de legătură spre Laborie"],
       en: ["Located in the Vieux Fort Quarter", "Near Hewanorra International Airport", "Significant southern residential area", "Traditionally an agricultural site", "Elevated position above the south coast", "Connects Vieux Fort to Laborie"],
     },
+    image: "/poi-images/saintlucia-augier-south-cities-v2.webp",
   },
   {
     id: "saintlucia-laborie-north-cities-v2",
@@ -1953,6 +2015,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Aparține districtului Laborie", "Situat în munții din sud", "Vedere spre satul Laborie", "Bogat în floră locală", "Zonă rezidențială cu farmec rural", "Cultură tradițională de cacao"],
       en: ["Part of the Laborie district", "Located in the southern foothills", "Overlooks the village of Laborie", "Rich in indigenous flora", "Residential area with rural charm", "Traditional cocoa farming area"],
     },
+    image: "/poi-images/saintlucia-laborie-north-cities-v2.webp",
   },
   {
     id: "saintlucia-soufriere-hills-cities-v2",
@@ -1984,6 +2047,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Vedere spre Pitons (UNESCO)", "Lângă Izvoarele de Sulf", "Terren cu relief vulcanic", "Poziție elevată deasupra Soufrière", "Pădure tropicală luxuriantă", "Locație importantă pentru ecoturism"],
       en: ["Views of the Pitons (UNESCO)", "Near the Sulphur Springs Park", "Volcanic terrain and soil", "Elevated position above Soufrière", "Lush tropical rainforest cover", "Key location for ecotourism"],
     },
+    image: "/poi-images/saintlucia-soufriere-hills-cities-v2.webp",
   },
   {
     id: "saintlucia-anse-la-raye-inland-cities-v2",
@@ -2015,6 +2079,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Situat în districtul Anse La Raye", "Irigat de râul Roseau", "Centru pentru cultura rădăcinoaselor", "Lângă cascadele Anse La Raye", "Bogat în pomi fructiferi tropicali", "Relief muntos în valea superioară"],
       en: ["Located in Anse La Raye district", "Watered by the Roseau River basin", "Center for root crop production", "Near the Anse La Raye Falls", "Rich in tropical fruit orchards", "Mountainous upper valley terrain"],
     },
+    image: "/poi-images/saintlucia-anse-la-raye-inland-cities-v2.webp",
   },
   {
     id: "saintlucia-canaries-north-cities-v2",
@@ -2046,6 +2111,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Situat în districtul Canaries", "Poziționat pe drumul coastei de vest", "Caracterizat de vegetație de pădure", "Vedere spre golfuri izolate", "Regiune cu precipitații ridicate", "Zonă forestieră puțin populată"],
       en: ["Located in the Canaries Quarter", "Situated along the West Coast Road", "Dominated by rainforest vegetation", "Overlooks secluded coastal coves", "Region with high annual rainfall", "Sparsely populated forested area"],
     },
+    image: "/poi-images/saintlucia-canaries-north-cities-v2.webp",
   },
   {
     id: "saintlucia-choiseul-east-cities-v2",
@@ -2077,6 +2143,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Centru al meșteșugurilor locale", "Situat în districtul Choiseul", "Cunoscut pentru olăritul manual", "Vedere sudică spre Gros Piton", "Compus din sate rurale", "Locație istorică a triburilor Carib"],
       en: ["Hub of local arts and crafts", "Located in the Choiseul district", "Famous for handmade clay pottery", "Southern viewpoint of Gros Piton", "Comprises several rural villages", "Historical site of Carib settlements"],
     },
+    image: "/poi-images/saintlucia-choiseul-east-cities-v2.webp",
   },
   {
     id: "saintlucia-vieux-fort-north-cities-v2",
@@ -2108,6 +2175,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Districtul ocupă o suprafață de aproximativ 38 de kilometri pătrați.", "La recensământul din 2010, în regiune au fost înregistrați 2.047 de locuitori.", "Localitatea Grace servește ca principal centru agricol al districtului.", "Vieux Fort North a fost stabilit ca circumscripție electorală separată în 2001.", "Regiunea se învecinează direct cu perimetrul Aeroportului Internațional Hewanorra.", "Muntele Tourney reprezintă una dintre cele mai proeminente culmi din district."],
       en: ["The district covers an area of approximately 38 square kilometers.", "During the 2010 census, 2,047 residents were registered in the region.", "The community of Grace serves as the district's primary agricultural hub.", "Vieux Fort North was established as a separate electoral constituency in 2001.", "The region directly borders the grounds of the Hewanorra International Airport.", "Mount Tourney represents one of the most prominent elevations in the district."],
     },
+    image: "/poi-images/saintlucia-vieux-fort-north-cities-v2.webp",
   },
   {
     id: "saintlucia-micoud-north-cities-v2",
@@ -2139,6 +2207,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Populația circumscripției era de aproximativ 7.039 de persoane în anul 2010.", "Mon Repos este cea mai mare așezare din cadrul acestui district administrativ.", "Regiunea a fost definită oficial ca district electoral în anul 1961.", "Șoseaua de pe coasta de est leagă districtul de capitala Castries.", "Agricultura se concentrează în principal pe producția de banane.", "Micoud North este expus direct vânturilor alizee dinspre Oceanul Atlantic."],
       en: ["The population of the constituency stood at approximately 7,039 in 2010.", "Mon Repos is the largest settlement within this administrative district.", "The region was officially defined as an electoral district in 1961.", "The East Coast Highway connects the district with the capital, Castries.", "Agriculture focuses predominantly on the production of bananas.", "Micoud North is directly exposed to the trade winds of the Atlantic Ocean."],
     },
+    image: "/poi-images/saintlucia-micoud-north-cities-v2.webp",
   },
   {
     id: "saintlucia-dennery-south-cities-v2",
@@ -2170,6 +2239,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Regiunea a înregistrat o populație de aproximativ 5.402 locuitori în anul 2010.", "Dennery South a fost înființat ca district electoral separat în 1961.", "Districtul găzduiește terenuri agricole importante, precum domeniul Errard Estate.", "Cascada Sault, una dintre cele mai înalte de pe insulă, se află în apropiere.", "Cooperativa de pescuit din Dennery este una dintre cele mai active din Sfânta Lucia.", "În fiecare an are loc aici un festival al peștelui renumit care atrage vizitatori."],
       en: ["The region recorded a population of around 5,402 inhabitants in 2010.", "Dennery South was established as a separate electoral district in 1961.", "The district is home to significant agricultural lands such as the Errard Estate.", "Sault Falls, one of the island's tallest waterfalls, is located nearby.", "The Dennery Fishing Cooperative is one of the most active in Saint Lucia.", "A well-known fish festival is held here annually, attracting many visitors."],
     },
+    image: "/poi-images/saintlucia-dennery-south-cities-v2.webp",
   },
   {
     id: "saintlucia-babonneau-central-cities-v2",
@@ -2201,6 +2271,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Regiunea este utilizată în principal pentru cultivarea legumelor și a rădăcinoaselor.", "Babonneau este cunoscut pentru conservarea dansurilor și muzicii populare tradiționale.", "Districtul este situat la o altitudine medie de peste 200 de metri.", "Populația este estimată la câteva mii de persoane repartizate în diverse cătune.", "Legături regulate de autobuz conectează centrul cu capitala Castries.", "Zona se caracterizează printr-o densitate mare de ferigi și plante epifite."],
       en: ["The region is primarily used for the cultivation of vegetables and root crops.", "Babonneau is renowned for the preservation of traditional folk dances and music.", "The district is situated at an average elevation of over 200 meters above sea level.", "The population is estimated to be several thousand people across various hamlets.", "Regular bus services connect the central area with the capital city, Castries.", "The area is characterized by a high density of ferns and epiphytic plants."],
     },
+    image: "/poi-images/saintlucia-babonneau-central-cities-v2.webp",
   },
   {
     id: "saintlucia-gros-islet-north-cities-v2",
@@ -2232,6 +2303,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Districtul include domeniul Cap Estate de 1.500 de acri, o fostă plantație de zahăr.", "Populația din Gros Islet North era de aproximativ 7.200 de persoane în 2010.", "Regiunea găzduiește singurul teren de golf de campionat cu 18 găuri de pe insulă.", "Golful Cas en Bas este un loc renumit pentru kitesurfing pe coasta Atlanticului.", "Pigeon Island National Landmark este rapid accesibil din acest district.", "Districtul a fost dezvoltat masiv pentru turism la sfârșitul secolului al XX-lea."],
       en: ["The district includes the 1,500-acre Cap Estate, a former sugar plantation.", "The population of Gros Islet North was approximately 7,200 people in 2010.", "The region hosts the island's only 18-hole championship golf course.", "Cas en Bas beach is a well-known spot for kitesurfing on the Atlantic coast.", "Pigeon Island National Landmark is quickly accessible from this district.", "The district was heavily developed for tourism during the late 20th century."],
     },
+    image: "/poi-images/saintlucia-gros-islet-north-cities-v2.webp",
   },
   {
     id: "saintlucia-castries-south-cities-v2",
@@ -2263,6 +2335,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Populația districtului a fost raportată la 9.244 de persoane în anul 2010.", "Pe Morne Fortune se află clădiri guvernamentale și instituții de învățământ.", "Regiunea a fost stabilită oficial ca circumscripție electorală separată în 1961.", "Ciceron este una dintre cele mai mari așezări rezidențiale din acest district.", "Fortificații militare istorice din secolul al XVIII-lea s-au păstrat aici.", "Districtul oferă o vedere directă asupra intrării în portul Castries."],
       en: ["The district's population was recorded at 9,244 individuals in 2010.", "Morne Fortune houses government buildings and various educational institutions.", "The region was officially established as a separate electoral constituency in 1961.", "Ciceron is one of the largest residential settlements within this district.", "Historical military fortifications from the 18th century are preserved here.", "The district provides a direct view of the entrance to Castries Harbor."],
     },
+    image: "/poi-images/saintlucia-castries-south-cities-v2.webp",
   },
   {
     id: "saintlucia-soufriere-town-cities-v2",
@@ -2294,6 +2367,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Orașul a fost fondat în anul 1746 de către coloniștii francezi.", "Soufrière a servit drept capitală a Sfintei Lucia până în anul 1780.", "Orașul a fost aproape complet distrus de un incendiu devastator în 1955.", "Vârfurile Pitons din apropiere au fost incluse în patrimoniul UNESCO în 2004.", "Sulphur Springs este considerat singurul vulcan 'drive-in' din lume.", "Populația orașului propriu-zis este de aproximativ 3.000 de persoane."],
       en: ["The town was founded in 1746 by French settlers.", "Soufrière served as the capital of Saint Lucia until 1780.", "The town was almost entirely destroyed by a devastating fire in 1955.", "The nearby Pitons were designated as a UNESCO World Heritage site in 2004.", "Sulphur Springs is known as the world's only 'drive-in' volcano.", "The population of the town itself is approximately 3,000 individuals."],
     },
+    image: "/poi-images/saintlucia-soufriere-town-cities-v2.webp",
   },
   {
     id: "saintlucia-laborie-village-cities-v2",
@@ -2325,6 +2399,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Satul a fost fondat oficial la mijlocul secolului al XVIII-lea.", "A fost numit în 1784 după guvernatorul francez Baron de Laborie.", "Biserica catolică din sat a fost construită în anul 1914.", "Laborie a fost istoric un centru important pentru producția de zahăr.", "Golful este protejat de valurile puternice de un recif din apropiere.", "În sat trăiesc aproximativ 1.100 de locuitori conform datelor recente."],
       en: ["The village was officially established in the mid-18th century.", "It was named after the French governor Baron de Laborie in 1784.", "The village's Catholic church was constructed in 1914.", "Laborie was historically a significant center for sugar production.", "The bay is protected from heavy swells by an offshore reef.", "The village has about 1,100 inhabitants according to records from the last decade."],
     },
+    image: "/poi-images/saintlucia-laborie-village-cities-v2.webp",
   },
   {
     id: "saintlucia-micoud-village-cities-v2",
@@ -2356,6 +2431,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Localitatea a fost numită după guvernatorul francez Baron de Micoud (1763).", "În anul 2010, aproximativ 2.700 de persoane locuiau în vatra satului.", "Biserica Sfânta Lucia din sat este un edificiu religios proeminent.", "Satul a fost un port principal pentru expedierea bananelor în secolul al XX-lea.", "În 2010, uraganul Tomas a provocat pagube severe în comunitate.", "Un dig masiv protejează așezarea de mareele puternice ale Atlanticului."],
       en: ["The settlement was named after the French Governor Baron de Micoud (1763).", "In 2010, approximately 2,700 people lived in the main village area.", "St. Lucy's Church in the village is a prominent religious landmark.", "The site was a major port for banana shipments during the 20th century.", "Hurricane Tomas caused severe damage to the community in 2010.", "A massive sea wall protects the settlement from Atlantic tides."],
     },
+    image: "/poi-images/saintlucia-micoud-village-cities-v2.webp",
   },
   {
     id: "saintlucia-dennery-village-cities-v2",
@@ -2387,6 +2463,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Inițial, locul se numea Anse Canot înainte de a fi redenumit în secolul al XVIII-lea.", "Populația satului este estimată la aproximativ 3.000 de persoane.", "Festivalul Peștelui din Dennery a fost inițiat în anii 1990 pentru turism.", "Biserica Catolică Sfântul Petru este centrul religios al comunității.", "Localitatea dispune de o unitate modernă de procesare a peștelui finanțată de Japonia.", "Dennery servește ca punct important de tranzit pentru bunurile agricole din est."],
       en: ["The site was originally named Anse Canot before being renamed in the 18th century.", "The village's population is estimated to be approximately 3,000 individuals.", "The Dennery Fish Festival was initiated in the 1990s to boost tourism.", "St. Peter's Catholic Church serves as the primary religious center for the community.", "The village possesses a modern fish processing facility funded by Japan.", "Dennery serves as a key transit point for agricultural goods in the east."],
     },
+    image: "/poi-images/saintlucia-dennery-village-cities-v2.webp",
   },
   {
     id: "saintlucia-anse-la-raye-village-cities-v2",
@@ -2418,6 +2495,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Satul a fost fondat oficial în anul 1765 de către coloniștii francezi.", "Biserica romano-catolică din localitate datează, în forma actuală, din 1907.", "Festivalul Seafood Friday a fost creat în anii 1990.", "Numele satului derivă de la pisicile de mare care se găsesc în golf.", "În sat locuiesc aproximativ 1.400 de persoane în zona centrală.", "Cascada Anse La Raye este o atracție din apropiere care atrage turiștii."],
       en: ["The village was officially founded in 1765 by French settlers.", "The local Roman Catholic church dates back to 1907 in its current form.", "The Seafood Friday festival was established during the 1990s.", "The village's name is derived from the rays found in the bay.", "Approximately 1,400 residents live in the core settlement of the village.", "Anse La Raye Falls is a nearby waterfall that attracts tourists."],
     },
+    image: "/poi-images/saintlucia-anse-la-raye-village-cities-v2.webp",
   },
   {
     id: "saintlucia-choiseul-village-cities-v2",
@@ -2449,6 +2527,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Localitatea a fost numită în 1761 după ducele francez de Choiseul.", "Biserica Neprihănitei Zămisliri a fost finalizată în anul 1846.", "Regiunea este principalul producător al 'oalelor de cărbune' tradiționale din lut.", "Choiseul găzduiește aproximativ 1.700 de locuitori în zona satului propriu-zis.", "În apropiere se află petroglife antice din epoca precolumbiană.", "Localitatea era cunoscută anterior sub numele de Anse Citron."],
       en: ["The site was named after the French Duke of Choiseul in 1761.", "The Church of the Immaculate Conception was completed in 1846.", "The region is the primary producer of traditional clay 'coal pots'.", "Choiseul houses approximately 1,700 residents in the immediate village area.", "Ancient petroglyphs from the pre-Columbian era are located nearby.", "The settlement was previously known by the name Anse Citron."],
     },
+    image: "/poi-images/saintlucia-choiseul-village-cities-v2.webp",
   },
   {
     id: "saintlucia-canaries-village-cities-v2",
@@ -2480,6 +2559,7 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Numele 'Canaries' provine din cuvântul amerindian pentru oale de lut.", "Așezarea a fost ridicată oficial la rangul de parohie în anul 1836.", "Până în anii 1960, nu a existat nicio legătură rutieră cu restul insulei.", "Populația este de aproximativ 1.300 de persoane conform recensământului din 2010.", "Râul Canaries se varsă în mare în partea de nord a satului.", "Economia locală se bazează aproape exclusiv pe pescuitul de subzistență."],
       en: ["The name 'Canaries' is derived from the Amerindian word for clay pots.", "The settlement was officially elevated to parish status in 1836.", "There was no road connection to the rest of the island until the 1960s.", "The population stood at approximately 1,300 people according to the 2010 census.", "The Canaries River empties into the sea at the northern end of the village.", "The local economy is based almost entirely on subsistence fishing."],
     },
+    image: "/poi-images/saintlucia-canaries-village-cities-v2.webp",
   },
   {
     id: "saintlucia-babonneau-village-cities-v2",
@@ -2511,5 +2591,6 @@ export const saintluciaCitiesV2: POI[] = [
       ro: ["Babonneau a fost menționat ca așezare încă de la începutul secolului al XIX-lea.", "Școala primară locală a fost construită în forma actuală în jurul anului 1960.", "Populația satului propriu-zis este de aproximativ 2.500 de persoane.", "Regiunea este lider în cultivarea condimentelor și a fructelor tropicale.", "Babonneau servește ca punct de plecare pentru excursii în rezervația forestieră.", "Un festival anual al comunității celebrează recoltele agricole locale."],
       en: ["Babonneau was mentioned as a settlement as early as the beginning of the 19th century.", "The local primary school was constructed in its current form around 1960.", "The population of the village itself is approximately 2,500 individuals.", "The region is a leader in the cultivation of spices and tropical fruits.", "Babonneau serves as a starting point for tours into the island's forest reserve.", "An annual community festival celebrates local agricultural yields."],
     },
+    image: "/poi-images/saintlucia-babonneau-village-cities-v2.webp",
   }
 ];

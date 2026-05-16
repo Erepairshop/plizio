@@ -27,7 +27,8 @@ export const montenegroCitiesExtra = ([
       hu: ["A várost 1946 és 1992 között Titogradnak hívták.", "Az ország gazdasági és kulturális központja.", "A Millennium híd a város egyik jelképe."],
       ro: ["Orașul s-a numit Titograd între 1946 și 1992.", "Este centrul economic și cultural al țării.", "Podul Mileniului este un simbol al orașului."],
       en: ["The city was named Titograd from 1946 to 1992.", "It is the economic and cultural center of the country.", "The Millennium Bridge is a landmark of the city."]
-    }
+    },
+    image: "/poi-images/me-podgorica.webp",
   },
   {
     id: "me-kotor",
@@ -54,7 +55,8 @@ export const montenegroCitiesExtra = ([
       hu: ["A Kotori-öblöt gyakran Európa legdélebbi fjordjának nevezik.", "Az óváros az UNESCO Világörökség része.", "A városfal 4,5 kilométer hosszan húzódik fel a hegyre."],
       ro: ["Golful Kotor este adesea numit cel mai sudic fiord din Europa.", "Orașul vechi este inclus în Patrimoniul Mondial UNESCO.", "Zidurile orașului se întind pe 4,5 kilometri pe munte."],
       en: ["The Bay of Kotor is often called the southernmost fjord in Europe.", "The old town is a UNESCO World Heritage Site.", "The city walls stretch for 4.5 kilometers up the mountain."]
-    }
+    },
+    image: "/poi-images/me-kotor.webp",
   },
   {
     id: "me-budva",
@@ -81,7 +83,8 @@ export const montenegroCitiesExtra = ([
       hu: ["A Budvai Riviéra híres homokos strandjairól és éjszakai életéről.", "Budva óvárosa több mint 2500 éves.", "A közelben található a luxus sziget, Sveti Stefan."],
       ro: ["Riviera Budva este renumită pentru plajele sale cu nisip și viața de noapte.", "Orașul vechi din Budva are o vechime de peste 2.500 de ani.", "În apropiere se află insula de lux Sveti Stefan."],
       en: ["The Budva Riviera is famous for its sandy beaches and nightlife.", "The old town of Budva is over 2,500 years old.", "Nearby is the luxury island of Sveti Stefan."]
-    }
+    },
+    image: "/poi-images/me-budva.webp",
   },
   {
     id: "me-cetinje",
@@ -108,7 +111,8 @@ export const montenegroCitiesExtra = ([
       hu: ["A város egy karsztfennsíkon fekszik a Lovćen-hegy lábánál.", "A montenegrói oszmánok elleni ellenállás központja volt.", "Cetinje számos múzeumnak és régi nagykövetségi épületnek ad otthont."],
       ro: ["Orașul este situat pe un platou carstic la poalele muntelui Lovćen.", "A fost centrul rezistenței muntenegrene împotriva Imperiului Otoman.", "Cetinje găzduiește multe muzee și clădiri vechi de ambasade."],
       en: ["The city is located on a karst plain at the foot of Mount Lovćen.", "It was the center of Montenegrin resistance against the Ottoman Empire.", "Cetinje is home to many museums and old embassy buildings."]
-    }
+    },
+    image: "/poi-images/me-cetinje.webp",
   },
   {
     id: "me-niksic",
@@ -135,7 +139,8 @@ export const montenegroCitiesExtra = ([
       hu: ["A város híres Trebjesa (Nikšićko pivo) söréről.", "Itt található a monumentális Saborni Hram templom.", "A közelben találhatók a Krupac és Slano mesterséges tavak."],
       ro: ["Orașul este renumit pentru berea sa Trebjesa (Nikšićko pivo).", "Aici se află biserica monumentală Saborni Hram.", "În apropiere sunt lacurile artificiale Krupac și Slano."],
       en: ["The city is famous for its Trebjesa beer (Nikšićko pivo).", "It is home to the monumental Saborni Hram church.", "Nearby are the artificial lakes Krupac and Slano."]
-    }
+    },
+    image: "/poi-images/me-niksic.webp",
   },
   {
     id: "me-bar",
@@ -162,7 +167,8 @@ export const montenegroCitiesExtra = ([
       hu: ["Stari Bar (Ó-Bar) egy lenyűgöző elhagyatott romváros.", "Barban található a világ egyik legrégebbi olajfája, a Stara Maslina.", "A városból rendszeres kompjáratok indulnak Olaszországba."],
       ro: ["Stari Bar (Vechiul Bar) este un oraș fascinant în ruină și părăsit.", "În Bar se află unul dintre cei mai vechi măslini din lume, Stara Maslina.", "Orașul are legături regulate de feribot către Italia."],
       en: ["Stari Bar (Old Bar) is a fascinating abandoned ruined city.", "Bar is home to one of the oldest olive trees in the world, the Stara Maslina.", "The city has regular ferry connections to Italy."]
-    }
+    },
+    image: "/poi-images/me-bar.webp",
   },
   {
     id: "me-herceg-novi",
@@ -216,7 +222,8 @@ export const montenegroCitiesExtra = ([
       hu: ["A tivati Porto Montenegro egy luxus kikötő szuperjachtok számára.", "A város egy kis tengerészeti arzenálból fejlődött ki.", "Tivat napsütéses strandjairól és sétányairól ismert."],
       ro: ["Porto Montenegro din Tivat este un port de agrement de lux pentru superyachturi.", "Orașul s-a dezvoltat dintr-un mic arsenal naval.", "Tivat este cunoscut pentru plajele și promenadele sale însorite."],
       en: ["Porto Montenegro in Tivat is a luxury marina for superyachts.", "The town developed from a small naval arsenal.", "Tivat is known for its sunny beaches and promenades."]
-    }
+    },
+    image: "/poi-images/me-tivat.webp",
   },
   {
     id: "me-zabljak",
@@ -243,7 +250,8 @@ export const montenegroCitiesExtra = ([
       hu: ["A város 1456 méteres tengerszint feletti magasságban helyezkedik el.", "A Durmitor Nemzeti Park szívében található.", "A környéken 18 látványos gleccsertó (hegyi szem) található."],
       ro: ["Orașul este situat la o altitudine de 1456 de metri deasupra nivelului mării.", "Se află în inima Parcului Național Durmitor.", "În împrejurimi există 18 lacuri glaciare spectaculoase."],
       en: ["The town sits at an elevation of 1,456 meters above sea level.", "It is located in the heart of Durmitor National Park.", "There are 18 spectacular glacial lakes in the surrounding area."]
-    }
+    },
+    image: "/poi-images/me-zabljak.webp",
   },
   {
     id: "me-ulcinj",

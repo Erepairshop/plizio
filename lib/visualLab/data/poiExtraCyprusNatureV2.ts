@@ -32,6 +32,7 @@ export const cyprusNatureV2: POI[] = [
       ro: ["Compusă în principal din roci sedimentare calcaroase", "Situată strategic între orașele Limassol și Larnaca", "Locație importantă pentru studiul eroziunii marine", "Localitatea Zygi din apropiere este centrul gastronomic pescăresc al insulei", "Oferă locuri de cuibărit pentru diverse specii de păsări marine", "Stâncile ating înălțimi considerabile în anumite puncte"],
       en: ["Composed primarily of calcareous sedimentary rocks", "Strategically located between the cities of Limassol and Larnaca", "Important site for the study of marine erosion processes", "Nearby Zygi is the gastronomic fish capital of the island", "Provides nesting sites for various species of seabirds", "The cliffs reach significant heights at several points"],
     },
+    image: "/poi-images/cyprus-zygi-coastal-cliff-nature-v2.webp",
   },
   {
     id: "cyprus-paphos-forest-gorge-nature-v2",
@@ -64,6 +65,7 @@ export const cyprusNatureV2: POI[] = [
       ro: ["Face parte dintr-o zonă forestieră de stat de cca. 60.000 de hectare", "Cea mai importantă zonă de refugiu pentru muflonul endemic", "Caracterizată geologic de masivul ofiolitic Troodos", "Găzduiește păsări de pradă rare, precum acvila porumbacă", "Zona face parte din sistemul european de protecție Natura 2000", "Traseele de drumeție trec prin altitudini de până la 1.000 de metri"],
       en: ["Part of a state forest area covering approx. 60,000 hectares", "Most important sanctuary for the endemic Cyprus Mouflon", "Geologically characterized by the Troodos ophiolite complex", "Home to rare birds of prey such as Bonelli's eagle", "The area is included in the European Natura 2000 network", "Hiking trails traverse elevations of up to 1,000 meters"],
     },
+    image: "/poi-images/cyprus-paphos-forest-gorge-nature-v2.webp",
   },
   {
     id: "cyprus-xyliatos-forest-lake-nature-v2",
@@ -96,6 +98,7 @@ export const cyprusNatureV2: POI[] = [
       ro: ["Finalizarea barajului a avut loc în anul 1982", "Dispune de o potecă naturală bine marcată de 3,8 km", "Utilizat în principal pentru irigarea câmpurilor din jur", "Înconjurat de o populație densă de pini și măslini", "Habitat important pentru broasca cipriotă (Pelophylax cypriensis)", "Situat la o altitudine de aproximativ 500-600 de metri"],
       en: ["The dam structure was completed in the year 1982", "Features a well-marked 3.8 km circular nature trail", "Primarily used for the irrigation of surrounding farmlands", "Circled by a dense growth of pine and wild olive trees", "Significant habitat for the Cyprus frog (Pelophylax cypriensis)", "Located at an elevation of roughly 500 to 600 meters"],
     },
+    image: "/poi-images/cyprus-xyliatos-forest-lake-nature-v2.webp",
   },
   {
     id: "cyprus-limnitis-river-valley-nature-v2",
@@ -128,6 +131,7 @@ export const cyprusNatureV2: POI[] = [
       ro: ["Râul Limnitis izvorăște în Munții Troodos", "Renumită pentru cultivarea bananelor și a citricelor", "Se varsă în Golful Chrysochou în partea de nord-vest", "Locație importantă în apropierea orașului antic Soli", "Debitul de apă este constant tot anul, lucru rar în Cipru", "Oferă habitat pentru specii de apă dulce pe cale de dispariție"],
       en: ["The Limnitis River has its source in the Troodos Mountains", "Famous for the large-scale cultivation of bananas and citrus", "Empties into the Chrysochou Bay in the northwest", "Strategic location situated near the ancient city of Soli", "One of the few rivers in Cyprus that flows year-round", "Provides a vital habitat for endangered freshwater species"],
     },
+    image: "/poi-images/cyprus-limnitis-river-valley-nature-v2.webp",
   },
   {
     id: "cyprus-stravros-tis-psokas-forest-nature-v2",
@@ -160,6 +164,7 @@ export const cyprusNatureV2: POI[] = [
       ro: ["Cel mai important centru pentru protecția muflonului endemic", "Găzduiește celebra Vale a Cedrilor (Cedar Valley) în apropiere", "Situată în zonele înalte ale Pădurii Paphos", "Stația forestieră a fost înființată în perioada colonială britanică", "Punct de plecare pentru drumeții spre vârful Tripylos (1.100 m)", "Habitat pentru păsări endemice rare, precum silvia cipriotă"],
       en: ["The primary conservation center for the endemic Cyprus Mouflon", "Located near the famous Cedar Valley", "Situated in the high elevations of the Paphos Forest", "The forestry station was established during the British colonial era", "Starting point for hikes to the 1,100-meter-high Tripylos peak", "Habitat for rare endemic birds including the Cyprus Warbler"],
     },
+    image: "/poi-images/cyprus-stravros-tis-psokas-forest-nature-v2.webp",
   },
   {
     id: "cyprus-akrotiri-peninsula-coast-nature-v2",
@@ -192,6 +197,7 @@ export const cyprusNatureV2: POI[] = [
       ro: ["Suprafața lacului sărat: aproximativ 10,65 km²", "Cel mai vechi sit arheologic: Akrotiri Aetokremnos (10.000 î.Hr.)", "Statut: Parte a Zonei Bazelor Suverane Britanice din 1960", "Peste 10.000 de flamingo pot ierna în această zonă", "Linia de coastă include proeminența Capului Zevgari", "Mănăstirea a fost atestată tradițional în secolul al IV-lea"],
       en: ["Salt lake area: approximately 10.65 square kilometers", "Earliest site: Akrotiri Aetokremnos dates to 10,000 BC", "Status: Part of the British Sovereign Base Areas since 1960", "Supports up to 10,000 wintering flamingos annually", "Coastline features the prominent limestone Cape Zevgari", "St. Nicholas Monastery founded in the 4th century AD"],
     },
+    image: "/poi-images/cyprus-akrotiri-peninsula-coast-nature-v2.webp",
   },
   {
     id: "cyprus-marathasa-valley-nature-v2",
@@ -224,6 +230,7 @@ export const cyprusNatureV2: POI[] = [
       ro: ["Altitudinea satelor: între 700 și 1100 de metri", "Biserica Panagia tou Moutoulla a fost construită în 1280", "Principalul produs agricol al văii sunt cireșele", "Satul Kalopanayiotis este renumit pentru izvoarele termale", "Mănăstirea Agios Ioannis Lampadistis este sit UNESCO", "Arhitectura locală include acoperișuri de lemn foarte înclinate"],
       en: ["Village elevations: 700 to 1100 meters above sea level", "Panagia tou Moutoulla church dates back to 1280", "Primary agricultural output: high-quality cherries", "Kalopanayiotis is famous for its sulfurous springs", "Houses the UNESCO-listed Lampadistis Monastery", "Features distinctive steep-pitched timber-roof architecture"],
     },
+    image: "/poi-images/cyprus-marathasa-valley-nature-v2.webp",
   },
   {
     id: "cyprus-lefkara-hills-nature-v2",
@@ -256,6 +263,7 @@ export const cyprusNatureV2: POI[] = [
       ro: ["Altitudinea medie a dealurilor: 600 de metri", "Baza geologică: Formațiunea de calcar alb Lefkara", "Dantela Lefkaritika este inclusă în patrimoniul UNESCO", "Vizita legendară a lui Leonardo da Vinci: anul 1481", "Culturi predominante: măslini și roșcovi", "Centru tradițional pentru meșteșugul argintului cipriot"],
       en: ["Average elevation of the hills: 600 meters", "Geological foundation: White Lefkara limestone formation", "Lefkaritika lace is part of UNESCO Intangible Heritage", "Legendary visit by Leonardo da Vinci occurred in 1481", "Primary crops: olives and carob trees", "Famous for traditional handmade silver filigree"],
     },
+    image: "/poi-images/cyprus-lefkara-hills-nature-v2.webp",
   },
   {
     id: "cyprus-kouris-delta-nature-v2",
@@ -288,6 +296,7 @@ export const cyprusNatureV2: POI[] = [
       ro: ["Lungimea râului Kouris: aproximativ 38 km", "Vărsarea are loc în Golful Episkopi", "Barajul Kouris (finalizat în 1988) este cel mai mare din Cipru", "Câmpie fertilă utilizată pentru citrice și viticultură", "Situat lângă situl arheologic al orașului antic Kourion", "Zona este un refugiu critic pentru păsările migratoare"],
       en: ["Length of the Kouris River: approx. 38 kilometers", "Discharges into the Episkopi Bay", "Kouris Dam (completed 1988) is the island's largest", "Fertile deltaic plain supports citrus and grape farming", "Adjacent to the ancient city-kingdom of Kourion", "Important stopover for migratory waterfowl"],
     },
+    image: "/poi-images/cyprus-kouris-delta-nature-v2.webp",
   },
   {
     id: "cyprus-pentakomo-coastal-caves-nature-v2",
@@ -320,5 +329,6 @@ export const cyprusNatureV2: POI[] = [
       ro: ["Tip de rocă: Calcar cretos alb și marnă", "Apartenență geologică: Formațiunea Lefkara", "Locație: La est de Limassol, lângă Governor's Beach", "Peșterile au fost formate prin abraziune marină", "Nisipul închis la culoare contrastează cu stâncile albe", "Apele limpezi sunt ideale pentru activități de snorkeling"],
       en: ["Rock composition: White chalky limestone and marl", "Geological grouping: Part of the Lefkara Formation", "Location: East of Limassol near Governor's Beach", "Caves formed by ongoing marine abrasion", "Dark volcanic sand contrasts with white cliffs", "Clear coastal waters are ideal for snorkeling"],
     },
+    image: "/poi-images/cyprus-pentakomo-coastal-caves-nature-v2.webp",
   }
 ];

@@ -31,6 +31,7 @@ export const marshallislandsEconomicV2: POI[] = [
       ro: ["Principalul port maritim al națiunii", "Centru pentru flotele de pescuit de ton", "Dispune de terminale de combustibil", "Punct major de export pentru uleiul de copra", "Administrat de RMIPA", "Ancoraj adânc în lagună"],
       en: ["Nation's primary commercial seaport", "Hub for international tuna fleets", "Features specialized fuel terminals", "Major export point for copra oil", "Managed by the RMIPA authority", "Deep-water anchorage inside lagoon"],
     },
+    image: "/poi-images/marshallislands-port-of-majuro-economic-v2.webp",
   },
   {
     id: "marshallislands-tobolar-processing-plant-economic-v2",
@@ -62,6 +63,7 @@ export const marshallislandsEconomicV2: POI[] = [
       ro: ["Sediul în Delap, Majuro", "Fondată în anul 1947", "Monopol de stat asupra coprei", "Produce ulei brut și alimentar", "Cumpărător principal pentru insulele exterioare", "Exportă ulei pe piața mondială"],
       en: ["Based in Delap, Majuro", "Established in 1947", "State-owned copra monopoly", "Produces crude and edible oils", "Main buyer for outer islanders", "Exports oil to global markets"],
     },
+    image: "/poi-images/marshallislands-tobolar-processing-plant-economic-v2.webp",
   },
   {
     id: "marshallislands-kwajalein-tech-center-economic-v2",
@@ -93,6 +95,7 @@ export const marshallislandsEconomicV2: POI[] = [
       ro: ["Face parte din situl de testare Ronald Reagan din anii 1960", "Susține monitorizarea obiectelor de pe orbita joasă a Pământului", "Cel mai important angajator pentru specialiști de pe atolul Kwajalein", "Dispune de conexiuni prin fibră optică spre Guam și Hawaii", "Găzduiește sisteme radar cu o rază de mii de kilometri", "Centru de coordonare pentru testele de apărare antirachetă din Pacific"],
       en: ["Part of the Ronald Reagan Test Site since the 1960s", "Supports monitoring of objects in low Earth orbit", "Primary employer for technical professionals on Kwajalein Atoll", "Connected via fiber-optic cables to Guam and Hawaii", "Hosts radar systems with ranges exceeding several thousand kilometers", "Coordination hub for missile defense testing in the Pacific"],
     },
+    image: "/poi-images/marshallislands-kwajalein-tech-center-economic-v2.webp",
   },
   {
     id: "marshallislands-delap-business-district-economic-v2",
@@ -124,6 +127,7 @@ export const marshallislandsEconomicV2: POI[] = [
       ro: ["Sediul Nitijela, parlamentul Insulelor Marshall", "Găzduiește sucursala principală a Băncii Insulelor Marshall", "Locația clădirii Capitoliului, finalizată în 1994", "Centrul infrastructurii locale de telecomunicații", "Cea mai mare densitate de spații de birouri din republică", "Cel mai important nod pentru comerțul cu amănuntul intern"],
       en: ["Seat of the Nitijela, the Marshall Islands Parliament", "Houses the main branch of the Bank of Marshall Islands", "Site of the Capital Building, completed in 1994", "Hub for local telecommunications infrastructure", "Highest density of office space in the entire republic", "Primary node for domestic retail commerce"],
     },
+    image: "/poi-images/marshallislands-delap-business-district-economic-v2.webp",
   },
   {
     id: "marshallislands-ship-registry-hq-economic-v2",
@@ -155,6 +159,7 @@ export const marshallislandsEconomicV2: POI[] = [
       ro: ["Al treilea cel mai mare registru naval din lume după tonaj", "Gestionează peste 5.000 de nave sub pavilionul Insulelor Marshall", "Centrele operative sunt în Majuro și Virginia, SUA", "Contribuitor major la Produsul Intern Brut al țării", "Deține statutul de 'Lista Albă' la controalele portuare internaționale", "Fondat în 1988 pentru a stimula economia maritimă"],
       en: ["Third largest ship registry in the world by tonnage", "Manages over 5,000 vessels under the Marshallese flag", "Operational headquarters located in Majuro and Virginia, USA", "Major contributor to the country's Gross Domestic Product", "Maintains 'White List' status with international port state controls", "Established in 1988 to promote the maritime economy"],
     },
+    image: "/poi-images/marshallislands-ship-registry-hq-economic-v2.webp",
   },
   {
     id: "marshallislands-laura-agriculture-center-economic-v2",
@@ -186,6 +191,7 @@ export const marshallislandsEconomicV2: POI[] = [
       ro: ["Centrul Agricol Laura a fost înființat în 2003.", "Are o suprafață cultivată de aproximativ 10 hectare.", "Produce anual peste 50.000 de răsaduri.", "Precipitațiile medii anuale în Laura sunt de 3.500 mm.", "Aproximativ 80% dintre participanții la cursuri sunt femei.", "Centrul colaborează cu Universitatea din Pacificul de Sud."],
       en: ["The Laura Agriculture Center was established in 2003.", "It covers about 10 hectares of cultivated land.", "Annually, it produces over 50,000 seedlings.", "Average annual rainfall in Laura is 3,500 mm.", "About 80% of course participants are women.", "The center collaborates with the University of the South Pacific."],
     },
+    image: "/poi-images/marshallislands-laura-agriculture-center-economic-v2.webp",
   },
   {
     id: "marshallislands-wotje-trade-post-economic-v2",
@@ -217,6 +223,7 @@ export const marshallislandsEconomicV2: POI[] = [
       ro: ["Postul a fost înființat în 1888 de comercianți germani.", "Atolul Wotje are o suprafață terestră de aproximativ 4,3 km².", "Populația insulei Wotje este de circa 1.000 locuitori (2021).", "Copra reprezenta istoric peste 70% din exporturi.", "Cooperativa angajează aproximativ 20 de localnici.", "Depozitul are o capacitate de 500 m²."],
       en: ["The trade post was established in 1888 by German traders.", "Wotje Atoll has a land area of about 4.3 km².", "The population of Wotje is around 1,000 (as of 2021).", "Copra historically made up over 70% of exports.", "The cooperative employs about 20 local workers.", "The warehouse capacity is 500 m²."],
     },
+    image: "/poi-images/marshallislands-wotje-trade-post-economic-v2.webp",
   },
   {
     id: "marshallislands-ebeye-economic-hub-economic-v2",
@@ -248,6 +255,7 @@ export const marshallislandsEconomicV2: POI[] = [
       ro: ["Densitatea populației pe Ebeye este de peste 41.000 locuitori pe km².", "Insula are o suprafață de doar 0,36 km².", "Aproximativ 60% dintre angajați lucrează pentru baza militară americană.", "Venitul mediu anual este de aproximativ 12.000 USD.", "Există trei supermarketuri și o piață săptămânală a fermierilor.", "Alimentarea cu energie electrică se face prin generatoare diesel, costând 2 milioane USD anual."],
       en: ["Ebeye's population density exceeds 41,000 people per km².", "The island covers only 0.36 km².", "About 60% of employed residents work for the U.S. military base.", "Average annual income is around 12,000 USD.", "There are three supermarkets and a weekly farmer's market.", "Electricity is supplied by diesel generators, costing 2 million USD annually."],
     },
+    image: "/poi-images/marshallislands-ebeye-economic-hub-economic-v2.webp",
   },
   {
     id: "marshallislands-majuro-fishing-port-economic-v2",
@@ -279,6 +287,7 @@ export const marshallislandsEconomicV2: POI[] = [
       ro: ["Portul are o capacitate anuală de manipulare de 50.000 de tone de ton.", "Capacitatea de depozitare frigorifică este de 3.000 de tone.", "Fabrica de gheață poate produce 100 de tone de gheață pe zi.", "Portul are 5 dană pentru nave de până la 150 m lungime.", "Costurile de modernizare s-au ridicat la 8 milioane USD.", "În 2022, s-au exportat produse din ton în valoare de 25 milioane USD."],
       en: ["The port has an annual handling capacity of 50,000 tons of tuna.", "Cold storage capacity is 3,000 tons.", "The ice plant can produce 100 tons of ice per day.", "The port has 5 berths for vessels up to 150 m length.", "Modernization costs amounted to 8 million USD.", "In 2022, tuna products worth 25 million USD were exported."],
     },
+    image: "/poi-images/marshallislands-majuro-fishing-port-economic-v2.webp",
   },
   {
     id: "marshallislands-majuro-central-market-economic-v2",
@@ -310,5 +319,6 @@ export const marshallislandsEconomicV2: POI[] = [
       ro: ["Piața are o suprafață de aproximativ 2.500 m².", "Peste 150 de comercianți își vând produsele zilnic.", "Zilnic se vând aproximativ 500 kg de pește.", "Piața a fost renovată și extinsă în 2010.", "Aproximativ 40% din fructe provin din atolurile exterioare.", "Piața atrage zilnic aproximativ 2.000 de vizitatori."],
       en: ["The market covers an area of about 2,500 m².", "Over 150 vendors sell their products daily.", "Approximately 500 kg of fish are sold daily.", "The market was renovated and expanded in 2010.", "About 40% of fruits offered come from outer atolls.", "The market attracts an estimated 2,000 visitors daily."],
     },
+    image: "/poi-images/marshallislands-majuro-central-market-economic-v2.webp",
   }
 ];

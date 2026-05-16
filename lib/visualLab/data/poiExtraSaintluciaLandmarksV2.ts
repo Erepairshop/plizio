@@ -31,6 +31,7 @@ export const saintluciaLandmarksV2: POI[] = [
       ro: ["Construit în anul 1883", "Situat la o înălțime de aproximativ 222 metri", "Al doilea cel mai înalt far din Caraibe ca elevație", "Oferă vizibilitate până la insula Sfântul Vincent", "Funcționa inițial cu petrol", "Situat pe un promontoriu vulcanic"],
       en: ["Built in the year 1883", "Situated at an elevation of about 222 meters", "Second highest lighthouse in the Caribbean", "Offers views of the island of Saint Vincent", "Originally operated with oil lamps", "Located on a volcanic headland"],
     },
+    image: "/poi-images/saintlucia-vieux-fort-lighthouse-landmarks-v2.webp",
   },
   {
     id: "saintlucia-soufriere-church-landmarks-v2",
@@ -62,6 +63,7 @@ export const saintluciaLandmarksV2: POI[] = [
       ro: ["Reconstruită după incendiul din 1906", "Fațadă distinctivă în culori bleu și alb", "Situată în piața centrală din Soufrière", "Poartă hramul Adormirii Maicii Domnului", "Conține plăci comemorative pentru cetățeni iluștri", "Stil arhitectural ce îmbină elemente gotice și coloniale"],
       en: ["Rebuilt after the major fire of 1906", "Distinctive light blue and white facade", "Located at the central square of Soufrière", "Named after the Assumption of Mary", "Contains memorial plaques for notable citizens", "Architectural style blends Gothic and colonial elements"],
     },
+    image: "/poi-images/saintlucia-soufriere-church-landmarks-v2.webp",
   },
   {
     id: "saintlucia-pigeon-island-museum-landmarks-v2",
@@ -93,6 +95,7 @@ export const saintluciaLandmarksV2: POI[] = [
       ro: ["Clădirea a fost finalizată în anul 1808", "Fostă popotă a ofițerilor armatei britanice", "Expune artefacte din epoca precolumbiană", "Documentează victoria amiralului Rodney din 1782", "Administrat de Saint Lucia National Trust", "Conține machete ale navelor de război istorice"],
       en: ["The building was completed in 1808", "Former officers' mess for the British Army", "Displays artifacts from the pre-Columbian era", "Documents Admiral Rodney's 1782 victory", "Managed by the Saint Lucia National Trust", "Contains models of historical warships"],
     },
+    image: "/poi-images/saintlucia-pigeon-island-museum-landmarks-v2.webp",
   },
   {
     id: "saintlucia-marigot-bay-bridge-landmarks-v2",
@@ -124,6 +127,7 @@ export const saintluciaLandmarksV2: POI[] = [
       ro: ["Golful Marigot este considerat un port sigur în caz de uragan", "Loc de filmare pentru pelicula 'Dr. Dolittle' din 1967", "Locul unor manevre navale strategice în secolul al XVIII-lea", "Înconjurat de dealuri abrupte și împădurite", "Punct important de tranzit pentru taxiurile pe apă", "Parte a unei zone cu biodiversitate bogată"],
       en: ["Marigot Bay is considered a hurricane-safe haven", "Filming location for the 1967 movie 'Dr. Dolittle'", "Site of strategic naval maneuvers in the 18th century", "Surrounded by steep, forested hills", "Important hub for local water taxis", "Part of an area with rich coastal biodiversity"],
     },
+    image: "/poi-images/saintlucia-marigot-bay-bridge-landmarks-v2.webp",
   },
   {
     id: "saintlucia-morne-coubaril-estate-house-landmarks-v2",
@@ -155,6 +159,7 @@ export const saintluciaLandmarksV2: POI[] = [
       ro: ["Fondată în anul 1713", "Cea mai veche plantație cultivată continuu", "Demonstrații cu mori trase de boi pentru trestie", "Reconstrucția unui sat istoric al sclavilor", "Cultivarea cacauei pentru producția de ciocolată", "Situată în imediata apropiere a Pitonilor"],
       en: ["Established in the year 1713", "Oldest continuously operated plantation on the island", "Demonstrations of ox-driven mills for sugar cane", "Reconstruction of a historical slave village", "Grows cocoa for artisanal chocolate production", "Located in close proximity to the Pitons"],
     },
+    image: "/poi-images/saintlucia-morne-coubaril-estate-house-landmarks-v2.webp",
   },
   {
     id: "saintlucia-fond-doux-heritage-site-landmarks-v2",
@@ -186,6 +191,7 @@ export const saintluciaLandmarksV2: POI[] = [
       ro: ["Fondată în jurul anului 1745", "Cuprinde o suprafață de 135 de acri", "Parte a Zonei de Management a Pitonilor UNESCO", "Uscarea tradițională a boabelor de cacao", "Adăpostește numeroase specii de plante endemice", "Premiată pentru turism durabil"],
       en: ["Established around the year 1745", "Spans an area of 135 acres", "Part of the UNESCO Pitons Management Area", "Traditional sun-drying of cocoa beans practiced", "Home to many endemic plant species", "Recognized with awards for sustainable tourism"],
     },
+    image: "/poi-images/saintlucia-fond-doux-heritage-site-landmarks-v2.webp",
   },
   {
     id: "saintlucia-balenbouche-estate-ruins-landmarks-v2",
@@ -217,6 +223,7 @@ export const saintluciaLandmarksV2: POI[] = [
       ro: ["Fostă plantație de zahăr din secolul al XVIII-lea", "Se întinde pe aproximativ 60 de acri de teren", "Roată de apă din fontă bine conservată", "Loc de descoperire a artefactelor precolumbiene", "Fost amplasament al unui cuptor de var", "Situată în apropierea localității Laborie"],
       en: ["Former 18th-century sugar plantation", "Spans approximately 60 acres of land", "Well-preserved cast-iron water wheel", "Site of pre-Columbian artifact discoveries", "Former site of a lime kiln", "Located near the village of Laborie"],
     },
+    image: "/poi-images/saintlucia-balenbouche-estate-ruins-landmarks-v2.webp",
   },
   {
     id: "saintlucia-choiseul-arts-centre-landmarks-v2",
@@ -248,6 +255,7 @@ export const saintluciaLandmarksV2: POI[] = [
       ro: ["Renumit pentru vasele de lut lucrate manual", "Utilizarea argilei roșii locale", "Tradiția împletitului cu iarbă vetiver", "Promovarea economiei creative locale", "Centru pentru tehnici de țesut indigene", "Punct important pe ruta patrimoniului meșteșugăresc"],
       en: ["Famous for handmade clay pottery", "Utilizes local red clay for production", "Tradition of vetiver grass weaving", "Supports the local creative economy", "Center for indigenous weaving techniques", "Key stop on the 'Craft Heritage' route"],
     },
+    image: "/poi-images/saintlucia-choiseul-arts-centre-landmarks-v2.webp",
   },
   {
     id: "saintlucia-sir-arthur-lewis-college-landmarks-v2",
@@ -279,6 +287,7 @@ export const saintluciaLandmarksV2: POI[] = [
       ro: ["Numit după Sir Arthur Lewis (Premiul Nobel 1979)", "Foste cazărmi ale infanteriei britanice", "Deschis ca colegiu comunitar în anul 1985", "Arhitectură din piatră vulcanică locală", "Situat pe locul unui câmp de luptă istoric", "Oferă vedere spre portul Castries"],
       en: ["Named after Sir Arthur Lewis (1979 Nobel Prize)", "Formerly British infantry barracks", "Opened as a community college in 1985", "Architecture features local volcanic stone", "Located on a historical battlefield site", "Offers commanding views of Castries harbor"],
     },
+    image: "/poi-images/saintlucia-sir-arthur-lewis-college-landmarks-v2.webp",
   },
   {
     id: "saintlucia-roseau-sugar-factory-chimney-landmarks-v2",
@@ -310,6 +319,7 @@ export const saintluciaLandmarksV2: POI[] = [
       ro: ["Ultima relicvă a Fabricii de Zahăr Roseau", "Fabrica și-a încetat activitatea în anii 1960", "Situat în cea mai mare zonă de cultivare a bananelor", "Construcție realizată din cărămidă roșie", "Punct de reper pentru călătorii din valea Roseau", "Mărturie a istoriei coloniale industriale"],
       en: ["Last relic of the Roseau Sugar Factory", "The factory ceased operations in the 1960s", "Located in the island's largest banana-growing area", "Construction made of distinctive red brick", "Landmark for travelers in the Roseau Valley", "Evidence of industrial colonial history"],
     },
+    image: "/poi-images/saintlucia-roseau-sugar-factory-chimney-landmarks-v2.webp",
   },
   {
     id: "saintlucia-canaries-bridge-landmarks-v2",
@@ -341,6 +351,7 @@ export const saintluciaLandmarksV2: POI[] = [
       ro: ["Podul este situat în districtul Canaries de pe coasta de vest.", "Traversează râul Canaries chiar înainte de vărsarea acestuia.", "Construcția face parte din drumul principal de pe coasta de vest.", "Satul pescăresc Canaries a fost fondat la mijlocul secolului al XVIII-lea.", "Podul este un punct vital pentru traficul între Castries și Soufrière.", "În sezonul ploios, râul transportă volume mari de apă sub pod."],
       en: ["The bridge is located in the Canaries District on the west coast.", "It spans the Canaries River near its mouth into the sea.", "The structure is a vital part of the West Coast Road.", "The fishing village of Canaries was founded in the mid-18th century.", "The bridge facilitates traffic between Castries and Soufrière.", "During the rainy season, the river carries significant water volumes below the bridge."],
     },
+    image: "/poi-images/saintlucia-canaries-bridge-landmarks-v2.webp",
   },
   {
     id: "saintlucia-anse-la-raye-church-landmarks-v2",
@@ -372,6 +383,7 @@ export const saintluciaLandmarksV2: POI[] = [
       ro: ["Biserica este dedicată Nașterii Maicii Domnului.", "Clădirea actuală a fost finalizată în jurul anului 1907.", "Biserici anterioare din lemn au existat pe acest site încă din secolul al XVIII-lea.", "Interiorul adăpostește picturi murale realizate de artiști locali.", "Biserica se află la doar câțiva metri de malul golfului Anse La Raye.", "Parohia a fost înființată în timpul perioadei coloniale franceze."],
       en: ["The church is dedicated to the Nativity of the Blessed Virgin Mary.", "The present structure was completed around 1907.", "Earlier wooden churches on this site date back to the 18th century.", "The interior features murals painted by local Saint Lucian artists.", "It is located just a short distance from the Anse La Raye waterfront.", "The parish was established during the French colonial era."],
     },
+    image: "/poi-images/saintlucia-anse-la-raye-church-landmarks-v2.webp",
   },
   {
     id: "saintlucia-laborie-square-fountain-landmarks-v2",
@@ -403,6 +415,7 @@ export const saintluciaLandmarksV2: POI[] = [
       ro: ["Fântâna este situată în piața Rudy John Beach Park.", "Laborie a fost fondat inițial de francezi sub numele de L'Islet à Caret.", "Piața este un centru pentru festivalul anual de jazz din Laborie.", "Clădirile din jur prezintă arhitectură colonială tipic caraibiană.", "Fântâna este un loc popular pentru fotografii în rândul turiștilor.", "În apropiere se află statuia lui Sir Emmanuel Neville Cenac."],
       en: ["The fountain is situated in the Rudy John Beach Park square.", "Laborie was originally settled by the French as L'Islet à Caret.", "The square is a hub for the annual Laborie Jazz Festival.", "Surrounding buildings display classic Caribbean colonial timber architecture.", "The fountain is a popular landmark for tourists visiting the south.", "A statue of Sir Emmanuel Neville Cenac is located nearby."],
     },
+    image: "/poi-images/saintlucia-laborie-square-fountain-landmarks-v2.webp",
   },
   {
     id: "saintlucia-laborie-church-purification-landmarks-v2",
@@ -434,6 +447,7 @@ export const saintluciaLandmarksV2: POI[] = [
       ro: ["Biserica actuală a fost sfințită la 2 februarie 1914.", "Este dedicată Purificării Fecioarei Maria.", "Construcția a fost realizată sub conducerea părintelui Etienne Etienne.", "Clădirea a fost construită din piatră locală și ciment importat.", "Biserica a supraviețuit mai multor uragane majore fără daune structurale.", "Se află direct vizavi de piața principală din Laborie."],
       en: ["The current church was consecrated on February 2, 1914.", "It is dedicated to the Purification of the Virgin Mary.", "Construction was overseen by the parish priest, Father Etienne Etienne.", "The building was constructed using local stone and imported cement.", "The church has survived several major hurricanes with minimal damage.", "It is located directly across from the main square of Laborie village."],
     },
+    image: "/poi-images/saintlucia-laborie-church-purification-landmarks-v2.webp",
   },
   {
     id: "saintlucia-maria-islands-interpretive-centre-landmarks-v2",
@@ -465,6 +479,7 @@ export const saintluciaLandmarksV2: POI[] = [
       ro: ["Centrul este administrat de Saint Lucia National Trust.", "Oferă informații despre Insulele Maria, declarate rezervație naturală în 1982.", "Adăpostește informații despre șopârla whiptail, una dintre cele mai rare din lume.", "Insulele Maria constau în două insule mici: Maria Major și Maria Minor.", "Centrul organizează tururi ghidate către insule în timpul sezonului uscat.", "Este situat în cel mai sudic punct al insulei Sfânta Lucia."],
       en: ["The centre is managed by the Saint Lucia National Trust.", "It provides education on the Maria Islands, declared a nature reserve in 1982.", "The islands are home to the Saint Lucia racer, once the world's rarest snake.", "Maria Islands consists of two small islets: Maria Major and Maria Minor.", "Landing on the islands is only permitted with a licensed guide from the centre.", "It is situated at the southernmost tip of Saint Lucia at Moule à Chique."],
     },
+    image: "/poi-images/saintlucia-maria-islands-interpretive-centre-landmarks-v2.webp",
   },
   {
     id: "saintlucia-micoud-parish-church-landmarks-v2",
@@ -496,6 +511,7 @@ export const saintluciaLandmarksV2: POI[] = [
       ro: ["Parohia Micoud a fost înființată încă din secolul al XVIII-lea.", "Biserica poartă numele Sfintei Lucia din Siracuza.", "Clădirea actuală din piatră a fost reconstruită după distrugerile provocate de furtuni.", "Micoud a fost numit după un fost guvernator francez al insulei.", "Biserica este un loc important pentru sărbătorirea Zilei Naționale.", "Este situată în centrul satului Micoud, pe coasta Atlanticului."],
       en: ["The parish of Micoud was established as early as the 18th century.", "The church is named after Saint Lucy of Syracuse.", "The current stone structure was rebuilt following damage from historic storms.", "Micoud was named after Baron de Micoud, a French Governor of the island.", "The church is a focal point for Saint Lucia's National Day celebrations on Dec 13.", "It is positioned in the center of Micoud village on the windward coast."],
     },
+    image: "/poi-images/saintlucia-micoud-parish-church-landmarks-v2.webp",
   },
   {
     id: "saintlucia-dennery-fish-market-landmarks-v2",
@@ -527,6 +543,7 @@ export const saintluciaLandmarksV2: POI[] = [
       ro: ["Dennery este unul dintre cele mai productive sate de pescari de pe coasta de est.", "Piața a fost modernizată pentru a oferi facilități mai bune de răcire și igienă.", "Sâmbăta, piața este deosebit de animată de activitățile locale.", "Festivalul anual al peștelui din Dennery celebrează importanța pescuitului.", "Pescarii locali folosesc bărci tradiționale (pirogue) pentru pescuitul în Atlantic.", "Piața este situată direct pe malul golfului Dennery."],
       en: ["Dennery is one of the most productive fishing communities on the windward coast.", "The market facility was upgraded with cold storage and hygienic processing areas.", "Saturdays are peak days for market activity and local trade.", "The village hosts the annual Dennery Fish Festival to honor the industry.", "Traditional wooden pirogues are still widely used by local Atlantic fishers.", "The market is located directly on the waterfront of Dennery Bay."],
     },
+    image: "/poi-images/saintlucia-dennery-fish-market-landmarks-v2.webp",
   },
   {
     id: "saintlucia-castries-city-hall-landmarks-v2",
@@ -558,6 +575,7 @@ export const saintluciaLandmarksV2: POI[] = [
       ro: ["Primăria este situată la intersecția străzilor Peynier și Louis Isaac.", "Consiliul Municipal din Castries gestionează serviciile urbane ale capitalei.", "Castries a fost numit după ministrul francez al marinei, Charles Eugène Gabriel de La Croix de Castries.", "Clădirea este folosită pentru ceremonii oficiale și recepții.", "Se află în imediata apropiere a pieței Derek Walcott.", "Clădirea actuală face parte din eforturile de reconstrucție de după marele incendiu din 1948."],
       en: ["City Hall is located at the corner of Peynier Street and Louis Isaac Street.", "The Castries Constituency Council (CCC) is headquartered here.", "Castries was named after the Marquis de Castries, a French Minister of Marine.", "The building hosts civic receptions and international diplomatic visits.", "It is situated within walking distance of the historic Derek Walcott Square.", "The current structure post-dates the devastating Great Fire of Castries in 1948."],
     },
+    image: "/poi-images/saintlucia-castries-city-hall-landmarks-v2.webp",
   },
   {
     id: "saintlucia-diamond-estate-mill-ruins-landmarks-v2",
@@ -589,6 +607,7 @@ export const saintluciaLandmarksV2: POI[] = [
       ro: ["Proprietatea Diamond a fost acordată inițial în 1713 de regele francez Ludovic al XIV-lea.", "Roata de apă distinctivă a fost instalată în 1865 pentru a furniza energie morii.", "Pe teren au fost procesate în trecut trestie de zahăr, cacao și nuci de cocos.", "Moara utiliza puterea apei de la râul din apropiere.", "Proprietatea găzduiește, de asemenea, faimoasele Cascade Diamond și băile minerale.", "Este considerat unul dintre cele mai vechi și mai bine conservate situri istorice de pe insulă."],
       en: ["The Diamond Estate was originally granted in 1713 by King Louis XIV of France.", "The prominent waterwheel was installed in 1865 to power the estate's mill.", "The mill was historically used for crushing sugar cane and processing cocoa.", "Hydraulic power for the wheel was diverted from the Soufrière River.", "The estate is also home to the Diamond Falls and historic Mineral Baths built in 1784.", "It remains one of the few examples of a complete colonial-era agro-industrial complex."],
     },
+    image: "/poi-images/saintlucia-diamond-estate-mill-ruins-landmarks-v2.webp",
   },
   {
     id: "saintlucia-soufriere-town-hall-landmarks-v2",
@@ -620,6 +639,7 @@ export const saintluciaLandmarksV2: POI[] = [
       ro: ["Soufrière a fost capitala insulei Sfânta Lucia între 1746 și 1792.", "Primăria găzduiește birouri ale Fundației de Dezvoltare Regională Soufrière.", "Se află pe Front Street, chiar lângă port.", "Clădirea este folosită frecvent pentru întâlniri comunitare și celebrări publice.", "Orașul Soufrière a fost fondat oficial de francezi în 1746.", "Clădirea se află la mică distanță de faimoasele vârfuri Pitons."],
       en: ["Soufrière served as the capital of Saint Lucia during the French rule from 1746 to 1792.", "The Town Hall houses the offices for the Soufrière Regional Development Foundation.", "It is located on Bay Street, providing easy access to the town's main pier.", "The venue is frequently used for town hall meetings and local government forums.", "The town itself was officially founded by French settlers in 1746.", "From its location, the iconic Petit Piton is clearly visible to the south."],
     },
+    image: "/poi-images/saintlucia-soufriere-town-hall-landmarks-v2.webp",
   },
   {
     id: "saintlucia-gros-islet-waterfront-landmarks-v2",
@@ -651,6 +671,7 @@ export const saintluciaLandmarksV2: POI[] = [
       ro: ["Gros Islet este unul dintre cele mai vechi sate din Sfânta Lucia, apărând pe hărți din 1717.", "Celebra petrecere de stradă Friday Night Jump Up are loc în străzile de lângă țărm.", "De pe țărm se poate vedea direct monumentul național Pigeon Island.", "Zona este un punct de acostare important pentru bărcile mici de pescuit.", "Aici se află unele dintre cele mai bune restaurante cu fructe de mare de pe insulă.", "Apa din golf este de obicei calmă și ideală pentru înot."],
       en: ["Gros Islet is one of the island's oldest settlements, first appearing on maps in 1717.", "The world-renowned Friday Night Jump Up street party centers on the waterfront streets.", "The waterfront offers a panoramic view of Pigeon Island National Landmark.", "Local fishers still launch traditional wooden boats from these shores daily.", "It is home to the historic St. Joseph the Worker Catholic Church, founded in 1749.", "The area was a primary base for the US Navy during World War II."],
     },
+    image: "/poi-images/saintlucia-gros-islet-waterfront-landmarks-v2.webp",
   },
   {
     id: "saintlucia-rodney-bay-marina-pier-landmarks-v2",
@@ -682,6 +703,7 @@ export const saintluciaLandmarksV2: POI[] = [
       ro: ["Marina a fost construită în anii 1980 și modernizată complet în 2007.", "Este punctul de sosire pentru ARC, care pornește în fiecare an din Las Palmas.", "Marina dispune de 253 de dane pentru iahturi de diferite dimensiuni.", "Aici pot acosta super-iahturi cu o lungime de până la 85 de metri.", "Incinta găzduiește un șantier naval dotat cu un lift de 75 de tone.", "Este situată într-o lagună artificială care oferă protecție împotriva furtunilor."],
       en: ["The marina was originally constructed in the 1980s and extensively renovated in 2007.", "It is the Caribbean home for the Atlantic Rally for Cruisers (ARC) since 1990.", "The facility offers 253 slips, including 32 for superyachts up to 280 feet.", "It features a full-service boatyard with a 75-ton travel lift.", "The lagoon is man-made, created by dredging the area between the mainland and Pigeon Island.", "The marina is designated as a port of entry with on-site customs and immigration."],
     },
+    image: "/poi-images/saintlucia-rodney-bay-marina-pier-landmarks-v2.webp",
   },
   {
     id: "saintlucia-pigeon-island-quarters-ruins-landmarks-v2",
@@ -713,6 +735,7 @@ export const saintluciaLandmarksV2: POI[] = [
       ro: ["Clădirile au fost ridicate în principal între anii 1778 și 1812.", "Amiralul Rodney a folosit Insula Pigeon ca bază pentru Bătălia de la Les Saintes (1782).", "Cartierele au fost construite din piatră pentru a rezista uraganelor și incendiilor.", "Insula Pigeon a fost conectată la uscat printr-un dig artificial abia în 1972.", "Ruinele sunt astăzi un decor popular pentru evenimente culturale.", "Saint Lucia National Trust administrează întregul sit istoric."],
       en: ["The primary construction of these military quarters occurred between 1778 and 1812.", "Admiral George Rodney monitored the French fleet from here before the Battle of the Saintes.", "The buildings were constructed using local stone and ballast bricks from ships.", "Pigeon Island was joined to the mainland by a man-made causeway in 1972.", "The ruins provide the main stage for the annual Saint Lucia Jazz & Arts Festival.", "The site was designated a National Landmark in 1982 by the Saint Lucia National Trust."],
     },
+    image: "/poi-images/saintlucia-pigeon-island-quarters-ruins-landmarks-v2.webp",
   },
   {
     id: "saintlucia-morne-fortune-cemetery-landmarks-v2",
@@ -744,6 +767,7 @@ export const saintluciaLandmarksV2: POI[] = [
       ro: ["Morne Fortune înseamnă 'Dealul Norocului', deși a fost scena unor lupte sângeroase.", "Cimitirul adăpostește morminte de la sfârșitul secolului al XVIII-lea și din secolul al XIX-lea.", "Printre cei îngropați aici se numără și guvernatorul Sir John Moore.", "Situl oferă o vedere panoramică asupra portului Castries.", "Cimitirul se află lângă Government House, reședința Guvernatorului General.", "Este întreținut de National Trust ca parte a ansamblului istoric."],
       en: ["The name Morne Fortune translates to 'Hill of Good Luck,' ironically given its violent past.", "The cemetery contains burials dating from the late 1700s through the mid-1800s.", "It includes a memorial to the Royal Inniskilling Fusiliers who captured the hill in 1796.", "The site offers a strategic vantage point overlooking the Castries harbor and northern coast.", "The cemetery is situated near the official residence of the Governor General.", "Many headstones mark deaths from yellow fever, which devastated European troops."],
     },
+    image: "/poi-images/saintlucia-morne-fortune-cemetery-landmarks-v2.webp",
   },
   {
     id: "saintlucia-castries-waterfront-obelisk-landmarks-v2",
@@ -775,6 +799,7 @@ export const saintluciaLandmarksV2: POI[] = [
       ro: ["Obeliscul este situat în apropierea terminalului pentru nave de croazieră.", "A fost ridicat în cinstea marinei comerciale și a forțelor armate.", "Monumentul este realizat din piatră și poartă inscripții istorice.", "Este un punct central pentru paradele de Ziua Comemorării.", "Zona din jurul obeliscului oferă o vedere spre navele care intră în port.", "Monumentul a fost ridicat ca parte a înfrumusețării orașului în secolul al XX-lea."],
       en: ["The obelisk is situated along the Northern Wharf near the Pointe Seraphine entrance.", "It serves as a memorial to the merchant seamen and soldiers who served in the World Wars.", "The monument is a key location for the annual Remembrance Day wreath-laying ceremonies.", "It was constructed using durable stone to withstand the coastal environment.", "The obelisk is located near the site of the former US military base during WWII.", "The surrounding area was extensively redeveloped as part of the Castries waterfront project."],
     },
+    image: "/poi-images/saintlucia-castries-waterfront-obelisk-landmarks-v2.webp",
   },
   {
     id: "saintlucia-eudovic-art-studio-landmarks-v2",
@@ -806,6 +831,7 @@ export const saintluciaLandmarksV2: POI[] = [
       ro: ["Fondat în anii 1970", "Utilizează lemn local precum Laurier Canelle", "Situat în districtul Goodlands", "Creat de maestrul Vincent Joseph Eudovic", "Oferă tururi în zona de lucru", "Expune sculpturi premiate internațional"],
       en: ["Founded in the 1970s", "Uses local woods like Laurier Canelle", "Located in the Goodlands area", "Established by Vincent Joseph Eudovic", "Features live carving demonstrations", "Showcases internationally exhibited art"],
     },
+    image: "/poi-images/saintlucia-eudovic-art-studio-landmarks-v2.webp",
   },
   {
     id: "saintlucia-praslin-bay-bridge-landmarks-v2",
@@ -837,6 +863,7 @@ export const saintluciaLandmarksV2: POI[] = [
       ro: ["Traversează râul Praslin", "Face parte din East Coast Main Road", "Situat în districtul Micoud", "Lângă satul de pescari Praslin", "Esențial pentru transportul regional", "Acces spre insula Praslin"],
       en: ["Spans the Praslin River", "Part of the East Coast Main Road", "Located in Micoud District", "Near Praslin fishing village", "Crucial for regional logistics", "Close to Praslin Island protected area"],
     },
+    image: "/poi-images/saintlucia-praslin-bay-bridge-landmarks-v2.webp",
   },
   {
     id: "saintlucia-vieux-fort-town-hall-landmarks-v2",
@@ -868,6 +895,7 @@ export const saintluciaLandmarksV2: POI[] = [
       ro: ["Sediul Consiliului Vieux Fort South", "Situat în sudul insulei", "Centru de administrare locală", "Aproape de Aeroportul Hewanorra", "Gazdă pentru întâlniri publice", "Punct cheie în urbanismul local"],
       en: ["Home to Vieux Fort South Council", "Located in the south of Saint Lucia", "Central administrative facility", "Near Hewanorra International Airport", "Venue for community gatherings", "Key to local urban planning"],
     },
+    image: "/poi-images/saintlucia-vieux-fort-town-hall-landmarks-v2.webp",
   },
   {
     id: "saintlucia-cul-de-sac-bridge-landmarks-v2",
@@ -899,6 +927,7 @@ export const saintluciaLandmarksV2: POI[] = [
       ro: ["Traversează râul Cul de Sac", "Legătură principală spre Soufrière", "Situat în districtul Castries", "Modernizat după anul 2010", "Esențial pentru exportul de banane", "Punct central pentru traficul greu"],
       en: ["Spans the Cul de Sac River", "Main route towards Soufrière", "Located in Castries District", "Upgraded after 2010 floods", "Crucial for banana transportation", "Heavy traffic load capacity"],
     },
+    image: "/poi-images/saintlucia-cul-de-sac-bridge-landmarks-v2.webp",
   },
   {
     id: "saintlucia-millet-visitor-centre-landmarks-v2",
@@ -930,6 +959,7 @@ export const saintluciaLandmarksV2: POI[] = [
       ro: ["Poarta către Rezervația Millet", "Găzduiește peste 30 specii de păsări", "Sanctuar pentru papagalul Sfânta Lucia", "Dispune de un traseu de 3 km", "Situat în zona muntoasă centrală", "Administrat de departamentul forestier"],
       en: ["Entry point to Millet Bird Sanctuary", "Home to over 30 bird species", "Sanctuary for the Saint Lucia Parrot", "Features a 2-mile loop trail", "Located in the central highlands", "Managed by the Forestry Department"],
     },
+    image: "/poi-images/saintlucia-millet-visitor-centre-landmarks-v2.webp",
   },
   {
     id: "saintlucia-saltibus-waterfall-bridge-landmarks-v2",
@@ -961,6 +991,7 @@ export const saintluciaLandmarksV2: POI[] = [
       ro: ["Situat în districtul Choiseul", "Acces spre cinci cascade succesive", "Înconjurat de pădure tropicală", "Cea mai înaltă cascadă are cca. 15m", "Destinație pentru drumeții montane", "Lângă comunitatea Saltibus"],
       en: ["Located in the Choiseul District", "Provides access to five waterfalls", "Surrounded by tropical rainforest", "Highest cascade is approx. 50 feet", "Popular for ecological trekking", "Near the Saltibus community"],
     },
+    image: "/poi-images/saintlucia-saltibus-waterfall-bridge-landmarks-v2.webp",
   },
   {
     id: "saintlucia-mabouya-valley-landmark-landmarks-v2",
@@ -992,6 +1023,7 @@ export const saintluciaLandmarksV2: POI[] = [
       ro: ["Fost centru al industriei zahărului", "Astăzi zonă de cultivare a bananelor", "Situată în apropiere de Dennery", "Numele provine din limba caribă", "Vitală pentru economia rurală locală", "Bogată în vestigii din epoca colonială"],
       en: ["Former center of the sugar industry", "Currently a major banana-growing area", "Located in the vicinity of Dennery", "Named after the Carib word 'Mabouya'", "Crucial for local subsistence farming", "Home to various colonial-era ruins"],
     },
+    image: "/poi-images/saintlucia-mabouya-valley-landmark-landmarks-v2.webp",
   },
   {
     id: "saintlucia-dennery-catholic-church-landmarks-v2",
@@ -1023,6 +1055,7 @@ export const saintluciaLandmarksV2: POI[] = [
       ro: ["Dedicată Sfântului Petru", "Situată în satul de pescari Dennery", "Vedere spre coasta Atlanticului", "Centrul Sărbătorii Pescarilor (Fête Pêche)", "Clădire cheie în regiunea Micoud", "Aproape de piața din Dennery"],
       en: ["Dedicated to Saint Peter", "Located in Dennery fishing village", "Overlooks the Atlantic coast", "Center for fisherman festivals (Fête Pêche)", "Major landmark in Micoud district", "Situated near the Dennery market"],
     },
+    image: "/poi-images/saintlucia-dennery-catholic-church-landmarks-v2.webp",
   },
   {
     id: "saintlucia-monchy-chapel-landmarks-v2",
@@ -1054,6 +1087,7 @@ export const saintluciaLandmarksV2: POI[] = [
       ro: ["Situată în districtul Gros Islet", "Deservește comunitatea Monchy", "Arhitectură simplă specifică zonei", "Loc de întâlnire pentru evenimente", "Amplasată într-un cadru deluros", "Centru religios în zona de nord"],
       en: ["Located in Gros Islet District", "Serves the Monchy community", "Simple Caribbean church architecture", "Venue for local community events", "Set within a hilly landscape", "Religious focal point in the north"],
     },
+    image: "/poi-images/saintlucia-monchy-chapel-landmarks-v2.webp",
   },
   {
     id: "saintlucia-babonneau-church-landmarks-v2",
@@ -1085,6 +1119,7 @@ export const saintluciaLandmarksV2: POI[] = [
       ro: ["Nume oficial: Biserica Bunului Păstor", "Situată în hinterlandul Castries", "Centrul unei vaste comunități rurale", "Oferă vederi spre valea verde", "Cunoscută pentru programe culturale", "Punct de coeziune socială"],
       en: ["Named Church of the Good Shepherd", "Located in the Castries interior", "Center of a large rural community", "Overlooks a lush green valley", "Known for youth cultural programs", "Vital for local social cohesion"],
     },
+    image: "/poi-images/saintlucia-babonneau-church-landmarks-v2.webp",
   },
   {
     id: "saintlucia-desruisseaux-community-centre-landmarks-v2",
@@ -1116,6 +1151,7 @@ export const saintluciaLandmarksV2: POI[] = [
       ro: ["Gazdă pentru cursuri educaționale", "Situat în districtul Micoud", "Centru pentru adunări sătești", "Susține proiecte de asistență socială", "Esențial pentru dezvoltarea rurală", "Locație pentru procesele electorale"],
       en: ["Host for local educational courses", "Located in the Micoud District", "Hub for village-wide meetings", "Supports social welfare projects", "Crucial for rural development", "Acts as a polling station for elections"],
     },
+    image: "/poi-images/saintlucia-desruisseaux-community-centre-landmarks-v2.webp",
   },
   {
     id: "saintlucia-piaye-bridge-landmarks-v2",
@@ -1147,6 +1183,7 @@ export const saintluciaLandmarksV2: POI[] = [
       ro: ["Traversează râul Piaye", "Conectează Choiseul de Laborie", "Parte a magistralei rutiere de sud", "Aproape de Golful Piaye", "Important pentru agroturism", "Reconstruit după daunele cauzate de uragan"],
       en: ["Spans the Piaye River", "Links Choiseul and Laborie districts", "Part of the southern main highway", "Close to Piaye Bay", "Important for agro-tourism traffic", "Reconstructed after hurricane damage"],
     },
+    image: "/poi-images/saintlucia-piaye-bridge-landmarks-v2.webp",
   },
   {
     id: "saintlucia-black-bay-ruins-landmarks-v2",
@@ -1178,6 +1215,7 @@ export const saintluciaLandmarksV2: POI[] = [
       ro: ["Ruinele unei mori de zahăr", "Datate din secolul al XVIII-lea", "Situate lângă Vieux Fort și Augier", "Parte a infrastructurii coloniale", "Accesibile prin trasee de drumeție", "Monument istoric al insulei"],
       en: ["Ruins of an 18th-century sugar mill", "Dates back to the 1700s", "Located near Vieux Fort and Augier", "Part of the colonial plantation system", "Accessible via local walking trails", "Registered historical site in Saint Lucia"],
     },
+    image: "/poi-images/saintlucia-black-bay-ruins-landmarks-v2.webp",
   },
   {
     id: "saintlucia-fond-st-jacques-church-landmarks-v2",
@@ -1209,6 +1247,7 @@ export const saintluciaLandmarksV2: POI[] = [
       ro: ["Situată în districtul Soufrière", "Centrul unei comunități montane", "Cunoscută pentru festivalurile recoltei", "Arhitectură cu elemente neogotice", "Cea mai înaltă parohie din regiune", "Importantă pentru cultivatorii de cacao"],
       en: ["Located in the Soufrière District", "Center of a highland forest community", "Known for harvest thanksgiving festivals", "Features Neo-Gothic architectural elements", "One of the highest parishes on the island", "Focal point for local cocoa farmers"],
     },
+    image: "/poi-images/saintlucia-fond-st-jacques-church-landmarks-v2.webp",
   },
   {
     id: "saintlucia-belle-vue-windmill-landmarks-v2",
@@ -1240,6 +1279,7 @@ export const saintluciaLandmarksV2: POI[] = [
       ro: ["Fostă moară de vânt pentru trestie", "Situată în districtul Vieux Fort", "Construcție masivă din piatră", "Vedere spre Oceanul Atlantic", "Patrimoniu industrial important", "Datată din secolele XVIII-XIX"],
       en: ["Former sugarcane crushing windmill", "Located in the Vieux Fort District", "Built with massive stonework", "Overlooks the Atlantic Ocean", "Significant industrial heritage site", "Dates from the 18th or 19th century"],
     },
+    image: "/poi-images/saintlucia-belle-vue-windmill-landmarks-v2.webp",
   },
   {
     id: "saintlucia-pointe-seraphine-terminal-landmarks-v2",
@@ -1271,5 +1311,6 @@ export const saintluciaLandmarksV2: POI[] = [
       ro: ["Terminalul a fost inaugurat în 1986", "Situat în capitala Castries", "Dispune de două dane principale pentru nave", "Găzduiește peste 30 de magazine duty-free", "Oferă vedere spre portul Castries", "Punct central pentru excursiile locale la țărm"],
       en: ["Terminal opened in 1984", "Located in the capital city of Castries", "Features two main berths for cruise ships", "Houses over 30 duty-free retail outlets", "Provides views over the Castries harbor", "Hub for organized local shore excursions"],
     },
+    image: "/poi-images/saintlucia-pointe-seraphine-terminal-landmarks-v2.webp",
   }
 ];

@@ -32,6 +32,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Altitudinea totală ajunge la exact 172,54 metri.", "Baza naturală măsoară 170,77 metri deasupra mării.", "Găzduiește trei tumuli datând din Epoca Bronzului.", "Relieful a fost format de ghețari în glaciațiunea Weichsel.", "Este situat în partea de est a Peninsulei Iutlanda.", "Aparține de teritoriul administrativ Horsens Kommune."],
       en: ["Reaches a total elevation of exactly 172.54 meters.", "The natural terrain elevation is 170.77 meters.", "Features three distinct burial mounds from the Bronze Age.", "Formed by glacial deposits during the Weichselian glaciation.", "Located within the administrative borders of Horsens.", "Part of the prominent East Jutland ridge system."],
     },
+    image: "/poi-images/denmark-yding-skovhoj-relief-v2.webp",
   },
   {
     id: "denmark-ejer-bavnehoj-relief-v2",
@@ -64,6 +65,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Altitudinea naturală a reliefului este de 170,89 metri.", "Pe vârf se află un turn de cărămidă de 13 metri înălțime.", "Construcția turnului a fost finalizată în anul 1924.", "Comemorează reunificarea cu Iutlanda de Sud din 1920.", "Este al treilea cel mai înalt punct natural danez.", "Relieful este dominat de sedimente glaciare masive."],
       en: ["The natural elevation reaches precisely 170.89 meters.", "A 13-meter tall memorial tower stands on the summit.", "The brick observation tower was completed in 1924.", "Commemorates the 1920 reunification of Southern Jutland.", "Formed from thick layers of Weichselian glacial till.", "Situated in Skanderborg Municipality in eastern Jutland."],
     },
+    image: "/poi-images/denmark-ejer-bavnehoj-relief-v2.webp",
   },
   {
     id: "denmark-rind-bakkekam-relief-v2",
@@ -96,6 +98,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Înălțime: 95 m deasupra nivelului mării", "Lungimea crestei: aproximativ 3 km", "Distanța până la Herning: 5 km", "Rezervația Rind Banke: 150 ha", "Trasee de drumeție: 15 km de trasee marcate", "Vegetație: predominant pădure de conifere și peisaj de mlaștină"],
       en: ["Height: 95 m above sea level", "Ridge length: approx. 3 km", "Distance to Herning: 5 km", "Rind Banke reserve: 150 ha", "Hiking trails: 15 km of marked routes", "Vegetation: predominantly coniferous forest and heathland"],
     },
+    image: "/poi-images/denmark-rind-bakkekam-relief-v2.webp",
   },
   {
     id: "denmark-syv-hoje-relief-v2",
@@ -128,6 +131,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Numele formațiunii se traduce prin Cele Șapte Movile.", "Movilele au fost create în Epoca Bronzului nordic.", "Platoul se ridică la 100 de metri deasupra mării.", "Solul conține argilă glaciară și nisip stratificat.", "A funcționat ca loc de înmormântare preistoric.", "Eroziunea postglaciară a modelat marginile platoului."],
       en: ["The site's name directly translates to Seven Barrows.", "The mounds originate from the Nordic Bronze Age.", "Situated on a plateau reaching 100 meters in elevation.", "Composed of layered glacial sand, gravel, and clay.", "Served as an important prehistoric ritual landscape.", "Shaped extensively by late-glacial meltwater processes."],
     },
+    image: "/poi-images/denmark-syv-hoje-relief-v2.webp",
   },
   {
     id: "denmark-skamlingsbanken-relief-v2",
@@ -160,6 +164,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Vârful are o altitudine maximă de 113 metri.", "Este cea mai înaltă cotă naturală din Iutlanda de Sud.", "A găzduit adunări populare majore între 1843 și 1844.", "Este situat între Kolding și așezarea Christiansfeld.", "Un obelisc înalt de 16 metri a fost ridicat în 1863.", "Format din sedimentele terminale ale ghețarului Micul Belt."],
       en: ["The peak reaches a maximum elevation of 113 meters.", "Recognized as the highest point in Southern Jutland.", "Hosted massive democratic assemblies from 1843 to 1844.", "Located geographically between Kolding and Christiansfeld.", "Features a 16-meter granite obelisk erected in 1863.", "Formed by the terminal moraine of the Little Belt glacier."],
     },
+    image: "/poi-images/denmark-skamlingsbanken-relief-v2.webp",
   },
   {
     id: "denmark-knudshoved-odde-relief-v2",
@@ -192,6 +197,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Lungimea peninsulei: aproximativ 3 km", "Suprafața rezervației: 200 ha", "Cea mai înaltă dună: 10 m", "Specii de păsări: peste 150 înregistrate", "Amplitudinea mareelor: până la 0,5 m", "Distanța până la Nyborg: 8 km"],
       en: ["Peninsula length: approx. 3 km", "Reserve area: 200 ha", "Highest dune: 10 m", "Bird species: over 150 recorded", "Tidal range: up to 0.5 m", "Distance to Nyborg: 8 km"],
     },
+    image: "/poi-images/denmark-knudshoved-odde-relief-v2.webp",
   },
   {
     id: "denmark-helgenaes-relief-v2",
@@ -224,6 +230,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Lungimea peninsulei: 10 km", "Cel mai înalt punct: 80 m deasupra nivelului mării", "Suprafață: aproximativ 40 km²", "Lungimea coastei: 25 km", "Specii de păsări: peste 200 înregistrate", "Depozite de calcar: aproximativ 10% din suprafață"],
       en: ["Peninsula length: 10 km", "Highest point: 80 m above sea level", "Area: approx. 40 km²", "Coastline length: 25 km", "Bird species: over 200 recorded", "Limestone deposits: about 10% of surface"],
     },
+    image: "/poi-images/denmark-helgenaes-relief-v2.webp",
   },
   {
     id: "denmark-agard-strand-relief-v2",
@@ -256,6 +263,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Lungimea plajei: 2 km", "Înălțimea dunelor: până la 15 m", "Distanța până la Fjerritslev: 3 km", "Temperatura apei în august: aproximativ 18°C", "Număr de campinguri: 2", "Extracția turbei: efectuată până în 1950"],
       en: ["Beach length: 2 km", "Dune height: up to 15 m", "Distance to Fjerritslev: 3 km", "Water temperature in August: approx. 18°C", "Number of campsites: 2", "Peat extraction: operated until 1950"],
     },
+    image: "/poi-images/denmark-agard-strand-relief-v2.webp",
   },
   {
     id: "denmark-vogns-hoje-relief-v2",
@@ -288,6 +296,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Vârful principal atinge aproximativ 55 de metri.", "Este localizat în regiunea nordică Vendsyssel.", "Format predominant din nisipuri și pietrișuri glaciare.", "Conține vestigii arheologice din Epoca Fierului nordic.", "Este supus eroziunii constante a vânturilor atlantice.", "Vegetația este dominată de plantații de conifere."],
       en: ["The highest crest reaches approximately 55 meters.", "Located in the northern Danish region of Vendsyssel.", "Composed primarily of coarse glacial sand deposits.", "Contains archaeological traces of Iron Age settlements.", "Exposed to significant erosion from Atlantic wind patterns.", "Covered largely by managed coniferous forest plantations."],
     },
+    image: "/poi-images/denmark-vogns-hoje-relief-v2.webp",
   },
   {
     id: "denmark-mols-kyst-relief-v2",
@@ -320,6 +329,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Lungimea coastei: aproximativ 15 km", "Suprafața parcului național: 180 km²", "Înălțimea maximă a falezei: 50 m", "Anul înființării parcului național: 2009", "Specii de plante: peste 300", "Specii de pești în golf: 40"],
       en: ["Coastline length: approx. 15 km", "National park area: 180 km²", "Highest cliff: 50 m", "National park established: 2009", "Plant species: over 300", "Fish species in the bay: 40"],
     },
+    image: "/poi-images/denmark-mols-kyst-relief-v2.webp",
   },
   {
     id: "denmark-kragelund-bakke-relief-v2",
@@ -352,6 +362,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Înălțime aprox. 80 m", "Districtul lacurilor Silkeborg", "Origine glaciară", "Sol predominant nisipos"],
       en: ["Approx. 80m elevation", "Silkeborg Lake District", "Glacial moraine formation", "Sandy soil composition"],
     },
+    image: "/poi-images/denmark-kragelund-bakke-relief-v2.webp",
   },
   {
     id: "denmark-fakse-kalkbrud-relief-v2",
@@ -384,6 +395,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Adâncime: 100 m", "Diametru: 1,5 km", "Perioada de funcționare: 1854-1980", "Înălțimea stâncilor: până la 40 m", "Fosile: Danian, vechi de aproximativ 65 de milioane de ani", "Suprafața lacului: aproximativ 0,2 km²"],
       en: ["Depth: 100 m", "Diameter: 1.5 km", "Operation period: 1854-1980", "Cliff height: up to 40 m", "Fossils: Danian, about 65 million years old", "Lake area: approx. 0.2 km²"],
     },
+    image: "/poi-images/denmark-fakse-kalkbrud-relief-v2.webp",
   },
   {
     id: "denmark-stendyssen-relief-v2",
@@ -416,6 +428,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Construit în cca. 3500 î.Hr.", "Structură megalitică", "Monument neolitic", "Sit funerar ritualic"],
       en: ["Built around 3500 BC", "Megalithic stone circle", "Neolithic monument", "Ritual burial site"],
     },
+    image: "/poi-images/denmark-stendyssen-relief-v2.webp",
   },
   {
     id: "denmark-jyske-as-relief-v2",
@@ -448,6 +461,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Se întinde pe o lungime totală de aproape 40 de kilometri.", "Vârful maxim Knøsen măsoară exact 136 de metri.", "S-a format ca o morenă de margine în glaciațiunea Weichsel.", "Acționează ca o cumpănă a apelor în nordul Iutlandei.", "Lățimea formațiunii variază între 2 și 5 kilometri.", "Este fragmentat de văi adânci create de apele de topire."],
       en: ["The ridge extends for a total length of nearly 40 kilometers.", "Its highest point, Knøsen, measures exactly 136 meters.", "Originated as a massive terminal moraine during the Ice Age.", "Serves as the primary drainage divide in North Jutland.", "The width of the ridge varies between 2 and 5 kilometers.", "Characterized by beech forests and deep meltwater valleys."],
     },
+    image: "/poi-images/denmark-jyske-as-relief-v2.webp",
   },
   {
     id: "denmark-knudshoved-relief-v2",
@@ -480,6 +494,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Lungimea capului: 2 km", "Far construit: 1902", "Înălțimea focală: 13 m", "Specie de focă: focă comună (Phoca vitulina)", "Distanța până la Nyborg: 5 km", "Adâncimea apei: până la 20 m"],
       en: ["Headland length: 2 km", "Lighthouse built: 1902", "Focal height: 13 m", "Seal species: harbor seal (Phoca vitulina)", "Distance to Nyborg: 5 km", "Water depth: up to 20 m"],
     },
+    image: "/poi-images/denmark-knudshoved-relief-v2.webp",
   },
   {
     id: "denmark-borre-bakkekam-relief-v2",
@@ -512,6 +527,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Aparține sistemului geologic asociat cu insula Møn.", "Substratul este format din cretă veche de 70 de milioane de ani.", "Altitudinile maxime din zonă ajung la 143 de metri.", "Straturile au fost cutate de forța masivă a ghețarilor.", "Solul calcaros permite creșterea unor specii rare de orhidee.", "Pantele coboară abrupt spre țărmul Mării Baltice."],
       en: ["Geologically linked to the chalk formations of Møn island.", "The bedrock consists of 70-million-year-old Cretaceous chalk.", "Local peaks in the region reach elevations up to 143 meters.", "The strata were folded upward by massive glacial pressure.", "The highly calcareous soils support rare terrestrial orchids.", "The eastern flanks slope steeply toward the Baltic Sea."],
     },
+    image: "/poi-images/denmark-borre-bakkekam-relief-v2.webp",
   },
   {
     id: "denmark-aars-hoje-relief-v2",
@@ -544,6 +560,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Tumuli din epoca bronzului", "Regiunea Iutlanda de Nord", "Săpături arheologice", "Structuri funerare multiple"],
       en: ["Bronze Age mounds", "North Jutland region", "Archaeological site", "Multiple burial structures"],
     },
+    image: "/poi-images/denmark-aars-hoje-relief-v2.webp",
   },
   {
     id: "denmark-fur-bakke-relief-v2",
@@ -576,6 +593,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Vechime 55 mil. ani", "Straturi de cenușă vulcanică", "Argilă tip Moler", "Locație în Limfjord"],
       en: ["55 million years old", "Volcanic ash layers", "Mo-clay (moler)", "Limfjord location"],
     },
+    image: "/poi-images/denmark-fur-bakke-relief-v2.webp",
   },
   {
     id: "denmark-dovre-hoje-relief-v2",
@@ -608,6 +626,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Vârfurile ating altitudini cuprinse între 40 și 60 de metri.", "Formate de fluxurile de apă de topire de sub calota glaciară.", "Solul este permeabil și sărac în substanțe nutritive.", "Prezintă caracteristicile unui peisaj glaciar de tip kame.", "Unele sectoare sunt exploatate pentru extracția pietrișului.", "Vegetația naturală primară este dominată de iarbă neagră."],
       en: ["The hilltops range in elevation between 40 and 60 meters.", "Formed by subglacial meltwater carrying heavy sediment loads.", "The soil structure is highly drained and nutrient-poor.", "Exhibits characteristics typical of esker or kame topography.", "Selected areas are currently utilized for gravel extraction.", "The natural land cover consists primarily of heather scrub."],
     },
+    image: "/poi-images/denmark-dovre-hoje-relief-v2.webp",
   },
   {
     id: "denmark-boserup-relief-v2",
@@ -640,6 +659,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Suprafață: 300 ha", "Cel mai înalt punct: 60 m deasupra nivelului mării", "Specii de copaci: fag (70%), stejar (20%)", "Faună: căprioară, cerb lopătar, vulpe", "Distanța până la Roskilde: 3 km", "Trasee de drumeție: 15 km"],
       en: ["Area: 300 ha", "Highest point: 60 m above sea level", "Tree species: beech (70%), oak (20%)", "Wildlife: fallow deer, roe deer, fox", "Distance to Roskilde: 3 km", "Hiking trails: 15 km"],
     },
+    image: "/poi-images/denmark-boserup-relief-v2.webp",
   },
   {
     id: "denmark-skovbjerg-relief-v2",
@@ -672,6 +692,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Acoperă o suprafață totală de aproape 1500 de kilometri pătrați.", "Cota sa maximă se ridică la aproximativ 90 de metri.", "Nu a fost acoperită de gheață în timpul ultimei glaciațiuni Weichsel.", "Are soluri argiloase puternic erodate și spălate.", "Este înconjurată de câmpii de nisip mai tinere.", "S-a format acum mai bine de 130.000 de ani în glaciațiunea Saale."],
       en: ["Covers an extensive total area of nearly 1,500 square kilometers.", "The highest terrain reaches an elevation of 90 meters.", "Remained ice-free during the most recent Weichselian glaciation.", "Characterized by deeply weathered, clay-rich podzol soils.", "Surrounded entirely by younger, flatter meltwater sand plains.", "Formed over 130,000 years ago during the older Saale Ice Age."],
     },
+    image: "/poi-images/denmark-skovbjerg-relief-v2.webp",
   },
   {
     id: "denmark-harboore-relief-v2",
@@ -704,6 +725,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Lungime: 20 km", "Lățime minimă: 200 m", "Înălțimea maximă a dunelor: 20 m", "Specii de păsări: peste 100 de specii cuibăritoare", "Populația Harboøre: aproximativ 1.500", "Drum: Ruta 181"],
       en: ["Length: 20 km", "Minimum width: 200 m", "Maximum dune height: 20 m", "Bird species: over 100 breeding species", "Harboøre population: approx. 1,500", "Road: Route 181"],
     },
+    image: "/poi-images/denmark-harboore-relief-v2.webp",
   },
   {
     id: "denmark-frøbjerg-relief-v2",
@@ -736,6 +758,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Înălțime 131 m", "Insula Funen", "Deal de semnalizare", "Sit memorial pe vârf"],
       en: ["131m elevation", "Funen island", "Historical beacon hill", "Memorial site at peak"],
     },
+    image: "/poi-images/denmark-frøbjerg-relief-v2.webp",
   },
   {
     id: "denmark-tvilum-relief-v2",
@@ -768,6 +791,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Valea râului Gudenå", "Apă de topire glaciară", "Pante abrupte", "Iutlanda Centrală"],
       en: ["Gudenå river valley", "Glacial meltwater origin", "Steep terrain", "Central Jutland"],
     },
+    image: "/poi-images/denmark-tvilum-relief-v2.webp",
   },
   {
     id: "denmark-skjold-relief-v2",
@@ -800,6 +824,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Crestele dealurilor depășesc altitudinea de 50 de metri.", "Este situat în zona suburbană vestică a orașului Aarhus.", "S-a format ca o vale tunel sub calota glaciară.", "Valea este marcată de depresiuni lăsate de blocurile de gheață moartă.", "Sectorul Skjoldhøjkilen servește drept coridor ecologic verde.", "Versanții prezintă o stratificare complexă de nisip și argilă."],
       en: ["The ridge crests reach elevations exceeding 50 meters.", "Located in the western suburban outskirts of Aarhus municipality.", "Formed dynamically as a subglacial tunnel valley under the ice sheet.", "The valley floor is dotted with kettle holes from dead ice.", "The Skjoldhøjkilen area functions as a vital urban greenbelt.", "The slopes exhibit complex stratification of glacial clay and sand."],
     },
+    image: "/poi-images/denmark-skjold-relief-v2.webp",
   },
   {
     id: "denmark-vognserup-relief-v2",
@@ -832,6 +857,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Suprafață: 600 ha", "Suprafața lacului: 20 ha", "Cel mai înalt punct: 80 m deasupra nivelului mării", "Specii de copaci: stejar (40%), fag (30%)", "Faună: căprioară, mistreț", "Trasee de drumeție: 20 km"],
       en: ["Area: 600 ha", "Lake area: 20 ha", "Highest point: 80 m above sea level", "Tree species: oak (40%), beech (30%)", "Wildlife: roe deer, wild boar", "Hiking trails: 20 km"],
     },
+    image: "/poi-images/denmark-vognserup-relief-v2.webp",
   },
   {
     id: "denmark-mols-bjerge-relief-v2",
@@ -864,6 +890,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Cel mai înalt punct: Agri Bavnehøj (137 m)", "Suprafața parcului național: 180 km²", "Formare: acum aproximativ 12.000 de ani", "Specii de plante: peste 400", "Trasee de drumeție: 100 km", "Vizitatori anual: aproximativ 1,5 milioane"],
       en: ["Highest point: Agri Bavnehøj (137 m)", "National park area: 180 km²", "Formation: about 12,000 years ago", "Plant species: over 400", "Hiking trails: 100 km", "Annual visitors: approx. 1.5 million"],
     },
+    image: "/poi-images/denmark-mols-bjerge-relief-v2.webp",
   },
   {
     id: "denmark-knuds-hoje-relief-v2",
@@ -896,6 +923,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Morminte din epoca vikingă", "Punct de observație", "Regiunea Iutlanda", "Monument arheologic"],
       en: ["Viking Age burials", "Panoramic viewpoint", "Jutland region", "Archaeological monument"],
     },
+    image: "/poi-images/denmark-knuds-hoje-relief-v2.webp",
   },
   {
     id: "denmark-aal-bakke-relief-v2",
@@ -928,6 +956,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Creasta se ridică la aproximativ 35 de metri deasupra mării.", "Este situată în zona coastei vestice nisipoase a Iutlandei.", "Compusă din nisipuri depuse de apele de topire glaciare.", "Suprafața este adesea acoperită de dune continentale migratoare.", "Este stabilizată cu iarbă de plajă și plantații de pin.", "Păstrează urme severe de eroziune istorică eoliană."],
       en: ["The ridge rises approximately 35 meters above sea level.", "Situated in the catchment of Jutland's sandy western coastline.", "Constructed purely from Ice Age meltwater sand deposits.", "The surface is frequently overlaid by migrating inland dunes.", "Stabilized currently by marram grass and pine plantations.", "Exhibits severe historical scarring from windblown sand erosion."],
     },
+    image: "/poi-images/denmark-aal-bakke-relief-v2.webp",
   },
   {
     id: "denmark-bindslev-relief-v2",
@@ -960,6 +989,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Iutlanda de Nord", "Râul Uggerby Å", "Ridicare postglaciară", "Depozite de nisip"],
       en: ["North Jutland", "Uggerby Å river", "Post-glacial rebound", "Sand dune deposits"],
     },
+    image: "/poi-images/denmark-bindslev-relief-v2.webp",
   },
   {
     id: "denmark-gribskov-bakke-relief-v2",
@@ -992,6 +1022,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Pădurea Gribskov", "Insula Sealand", "Lângă sit UNESCO", "Relief de morenă"],
       en: ["Gribskov forest", "Zealand island", "Near UNESCO site", "Moraine landscape"],
     },
+    image: "/poi-images/denmark-gribskov-bakke-relief-v2.webp",
   },
   {
     id: "denmark-fureso-bakke-relief-v2",
@@ -1024,6 +1055,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Adâncime Furesø: 37 m", "Sistem de văi glaciare", "Sealand de Nord", "Morenă împădurită"],
       en: ["Furesø depth: 37m", "Tunnel valley system", "North Zealand", "Forested moraine"],
     },
+    image: "/poi-images/denmark-fureso-bakke-relief-v2.webp",
   },
   {
     id: "denmark-bronshoj-relief-v2",
@@ -1056,6 +1088,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Cartier din Copenhaga", "Morenă terminală", "Tabăra Carlstad 1658", "Punct înalt urban"],
       en: ["Copenhagen district", "Terminal moraine", "Carlstad camp 1658", "Urban high point"],
     },
+    image: "/poi-images/denmark-bronshoj-relief-v2.webp",
   },
   {
     id: "denmark-slagelse-bakke-relief-v2",
@@ -1088,6 +1121,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Vârfurile dealurilor ating altitudini de 40 până la 70 de metri.", "Se află în partea de vest a marii insule Zeelanda.", "Substratul este format dintr-un strat gros de argilă glaciară.", "Solurile generează randamente agricole extrem de ridicate.", "A fost modelat de curentul glaciar Baelthav în perioada Weichsel.", "Relieful este ușor ondulat, cu depresiuni fără scurgere."],
       en: ["The rolling hilltops reach elevations of 40 to 70 meters.", "Located in the western agricultural district of Zealand island.", "The subsoil consists of a thick, nutrient-rich till layer.", "The soils yield some of the highest crop volumes in the country.", "Modeled by the Baelthav ice stream during the Weichselian period.", "The terrain features gentle undulations with closed depressions."],
     },
+    image: "/poi-images/denmark-slagelse-bakke-relief-v2.webp",
   },
   {
     id: "denmark-soro-bakke-relief-v2",
@@ -1120,6 +1154,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Cea mai înaltă cotă din jurul orașului Sorø atinge 80 de metri.", "Dealurile încadrează Lacul Sorø, cu o suprafață de 2,1 km².", "Peisajul este traversat de șanțuri subglaciare adânci.", "Pădurile dense de foioase (ex. Sorø Sønderskov) acoperă pantele.", "S-a format prin topirea blocurilor de gheață la finalul glaciațiunii Weichsel.", "Malurile abrupte sunt constituite din argilă glaciară compactată."],
       en: ["The highest elevation around Sorø reaches approximately 80 meters.", "The hills completely encircle the 2.1-square-kilometer Sorø Lake.", "The landscape is intersected by deep subglacial tunnel valleys.", "Dense deciduous forests, like Sorø Sønderskov, cover the slopes.", "Formed by melting dead ice at the end of the Weichselian glaciation.", "The steep shoreline slopes consist of highly compacted glacial till."],
     },
+    image: "/poi-images/denmark-soro-bakke-relief-v2.webp",
   },
   {
     id: "denmark-roskilde-bakke-relief-v2",
@@ -1152,6 +1187,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Dealurile se înalță până la 60 de metri deasupra nivelului fiordului.", "Fiordul reprezintă o vale subglaciară inundată de mare.", "Relieful a apărut în ultima fază a glaciațiunii Weichsel.", "Solurile argiloase domină platourile din jurul orașului Roskilde.", "Există faleze costiere abrupte pe marginile fiordului (ex. Bognæs).", "Peisajul prezintă numeroase ochiuri de apă formate din gheață moartă."],
       en: ["The surrounding hills reach elevations up to 60 meters above the fjord.", "The fjord landscape is actually a flooded subglacial meltwater trench.", "The terrain was formed during the very final phase of the Weichselian ice age.", "Heavy clay soils dominate the elevated plateaus around Roskilde.", "Steep erosional coastal cliffs are visible along the fjord margins.", "The landscape contains numerous kettle holes left by melting dead ice."],
     },
+    image: "/poi-images/denmark-roskilde-bakke-relief-v2.webp",
   },
   {
     id: "denmark-koge-bakke-relief-v2",
@@ -1184,6 +1220,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Esker glaciar (ås)", "Depozite de pietriș", "Regiunea Køge", "Origine glaciară"],
       en: ["Glacial esker (ås)", "Gravel deposits", "Køge area", "Ice age origin"],
     },
+    image: "/poi-images/denmark-koge-bakke-relief-v2.webp",
   },
   {
     id: "denmark-nordsjaelland-bakke-relief-v2",
@@ -1216,6 +1253,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Cel mai înalt punct din nordul Zeelandei este Maglebjerg, la 91 de metri.", "O mare parte din dealuri se află în Parcul Național Kongernes Nordsjælland.", "Substratul prezintă straturi groase de nisip aduse de apele de topire.", "Dealurile Muldbjerge de lângă Arresø ating aproximativ 50 de metri.", "Creasta deluroasă blochează drenajul, formând cel mai mare lac danez, Arresø.", "Relieful este puternic marcat de depresiuni glaciare tip kettle."],
       en: ["The highest point in North Zealand is Maglebjerg, reaching 91 meters.", "Much of the elevated terrain falls within Kongernes Nordsjælland National Park.", "The subsoil contains massive sand layers deposited by glacial meltwater.", "The Muldbjerge hills near Lake Arresø reach an elevation of 50 meters.", "This hill ridge naturally dams Arresø, Denmark's largest freshwater lake.", "The topography is heavily punctuated by glacial kettle hole depressions."],
     },
+    image: "/poi-images/denmark-nordsjaelland-bakke-relief-v2.webp",
   },
   {
     id: "denmark-kalundborg-bakke-relief-v2",
@@ -1248,6 +1286,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Peninsulele înaintează adânc în Marele Belt sub formă de morene terminale.", "Cel mai înalt punct de pe Røsnæs (Vågehøj) are 62 de metri.", "Falezele costiere coboară abrupt pe o distanță de 30 de metri în unele locuri.", "Microclimatul foarte uscat susține chiar și viticultura locală.", "Straturile de argilă plastică declanșează frecvent alunecări de teren costiere.", "S-a format în Pleistocenul târziu prin presiune glaciară extremă."],
       en: ["The peninsulas jut deeply into the Great Belt as distinct terminal moraines.", "The highest point on the Røsnæs peninsula (Vågehøj) reaches 62 meters.", "The coastal cliffs drop precipitously up to 30 meters in several locations.", "The uniquely dry microclimate currently supports local commercial vineyards.", "Layers of underlying plastic clay cause frequent, dynamic coastal landslides.", "Formed during the late Pleistocene epoch through massive glacier thrusting."],
     },
+    image: "/poi-images/denmark-kalundborg-bakke-relief-v2.webp",
   },
   {
     id: "denmark-odsherred-bakke-relief-v2",
@@ -1280,6 +1319,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Geoparc UNESCO", "Arcurile Odsherred", "Morenă terminală", "Coasta de vest Sealand"],
       en: ["UNESCO Geopark", "Odsherred Arches", "Terminal moraine", "West Zealand coast"],
     },
+    image: "/poi-images/denmark-odsherred-bakke-relief-v2.webp",
   },
   {
     id: "denmark-naestved-bakke-relief-v2",
@@ -1312,6 +1352,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Mogenstrup Ås", "Lungime 10 km", "Resurse de pietriș", "Sealand de Sud"],
       en: ["Mogenstrup Ås", "10km length", "Gravel resources", "South Zealand"],
     },
+    image: "/poi-images/denmark-naestved-bakke-relief-v2.webp",
   },
   {
     id: "denmark-vordingborg-relief-v2",
@@ -1344,6 +1385,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Turnul Gâștei", "Secolul XIV", "Regele Valdemar IV", "Locație strategică"],
       en: ["Goose Tower", "14th century", "King Valdemar IV", "Strategic coastal site"],
     },
+    image: "/poi-images/denmark-vordingborg-relief-v2.webp",
   },
   {
     id: "denmark-falster-bakke-relief-v2",
@@ -1376,6 +1418,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Cel mai înalt punct de pe Falster este Bavnehøj, cu doar 44 de metri.", "Insula este formată predominant dintr-un platou plat de morenă de bază.", "Coasta de est prezintă sectoare cu eroziune activă a falezelor.", "Solul argilos este extrem de fertil pentru cultivarea sfeclei de zahăr.", "Pădurea Halskov Vænge conține numeroase morminte megalitice din Epoca Pietrei.", "Pădurile de coastă se extind adesea până pe plaja Mării Baltice."],
       en: ["The highest point on Falster island is Bavnehøj at merely 44 meters.", "The island consists primarily of a remarkably flat ground moraine plateau.", "The eastern coastline features localized areas of active cliff erosion.", "The heavy clay soil is exceptionally fertile for sugar beet cultivation.", "Halskov Vænge forest contains numerous Stone Age megalithic tombs.", "The coastal deciduous forests frequently extend directly to the Baltic shore."],
     },
+    image: "/poi-images/denmark-falster-bakke-relief-v2.webp",
   },
   {
     id: "denmark-lolland-bakke-relief-v2",
@@ -1408,6 +1451,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Ravnsby Bakker", "Insula Lolland", "Relief de gheață moartă", "Înălțime 30 m"],
       en: ["Ravnsby Bakker", "Lolland island", "Dead-ice landscape", "30m elevation"],
     },
+    image: "/poi-images/denmark-lolland-bakke-relief-v2.webp",
   },
   {
     id: "denmark-bornholm-bakke-relief-v2",
@@ -1440,6 +1484,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Rytterknægten este cel mai înalt punct al insulei, măsurând 162 de metri.", "Substratul este format din granit solid cu o vechime de 1,4 miliarde de ani.", "Coasta nordică coboară abrupt în mare formând faleze stâncoase.", "Spre deosebire de restul Danemarcei, nu are sedimente glaciare groase.", "Pădurea Almindingen acoperă zonele stâncoase cele mai înalte.", "Relieful prezintă văi de falie tectonică adânci (de exemplu, Ekkodalen)."],
       en: ["Rytterknægten stands as the island's highest point at exactly 162 meters.", "The bedrock consists of solid granite over 1.4 billion years old.", "The northern coastline drops precipitously into the sea as rocky cliffs.", "Lacks the thick glacial sediment cover found throughout the rest of Denmark.", "The Almindingen forest broadly covers the highest rocky elevations.", "The terrain is fractured by deep tectonic rift valleys like Ekkodalen."],
     },
+    image: "/poi-images/denmark-bornholm-bakke-relief-v2.webp",
   },
   {
     id: "denmark-alssund-relief-v2",
@@ -1472,6 +1517,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Dybbøl Banke", "Războiul din 1864", "Strâmtoarea Alssund", "Fortificații strategice"],
       en: ["Dybbøl Banke", "1864 war", "Alssund strait", "Strategic redoubts"],
     },
+    image: "/poi-images/denmark-alssund-relief-v2.webp",
   },
   {
     id: "denmark-aero-bakke-relief-v2",
@@ -1504,6 +1550,7 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Cel mai înalt punct al insulei este Synneshøj, măsurând 68 de metri.", "Faleza Voderup Klint este o coastă terasată unică formată prin alunecări.", "Falezele de argilă se prăbușesc 30 de metri direct în Marea Baltică.", "Relieful glaciar este dominat de sedimente din lacuri de baraj glaciar.", "Aceste înălțimi protejează orașele-port din nord de furtunile marine.", "Peisajul morenic a fost intens spălat și modelat de apele de topire."],
       en: ["The island's highest geographical point is Synneshøj at 68 meters.", "The famous Voderup Klint features uniquely terraced coastal landslides.", "The southern clay cliffs drop more than 30 meters into the Baltic Sea.", "The glacial terrain is heavily influenced by ice-dammed lake deposits.", "These central elevations protect the northern harbor towns from storms.", "The underlying moraine landscape was heavily scoured by meltwater."],
     },
+    image: "/poi-images/denmark-aero-bakke-relief-v2.webp",
   },
   {
     id: "denmark-lango-bakke-relief-v2",
@@ -1536,5 +1583,6 @@ export const denmarkReliefV2: POI[] = [
       ro: ["Insula Langø", "Morenă de coastă", "Protecție la furtuni", "Vedere panoramică"],
       en: ["Langø island", "Coastal moraine", "Storm surge protection", "Panoramic view"],
     },
+    image: "/poi-images/denmark-lango-bakke-relief-v2.webp",
   }
 ];

@@ -32,6 +32,7 @@ export const estoniaNatureV2: POI[] = [
       ro: ["Suprafață: aprox. 3500 ha", "Traseu: 900 m lungime", "Protejat din anul 1999", "Parte din Tuhu-Kalli"],
       en: ["Area: approx. 3500 ha", "Boardwalk: 900 m long", "Protected since 1999", "Part of Tuhu-Kalli"],
     },
+    image: "/poi-images/estonia-tuhu-bog-nature-v2.webp",
   },
   {
     id: "estonia-keila-waterfall-nature-v2",
@@ -64,6 +65,7 @@ export const estoniaNatureV2: POI[] = [
       ro: ["Înălțime de cădere: 6,1 m", "Lățime: aprox. 70 m", "Centrală din anul 1928", "Conacul Keila-Joa adiacent"],
       en: ["Drop height: 6.1 m", "Width: up to 70 m", "Power plant built in 1928", "Adjacent to Keila-Joa manor"],
     },
+    image: "/poi-images/estonia-keila-waterfall-nature-v2.webp",
   },
   {
     id: "estonia-valgejarv-lake-nature-v2",
@@ -96,6 +98,7 @@ export const estoniaNatureV2: POI[] = [
       ro: ["Altitudinea oglinzii apei: 52 metri", "Rezervația a fost înființată în 1981", "Solul din jur este bogat în turbă", "Acces interzis cu ambarcațiuni cu motor", "Ecosistem fragil de tip taiga", "Temperatură medie a apei vara: 18 grade"],
       en: ["Total area spans 65.3 hectares", "Average depth is roughly 1.5 meters", "Located in Saue Parish, Harju County", "Nature reserve founded in early 1980s", "Home to the rare Isoetes echinospora", "Circular hiking trail length: 6.5 km"],
     },
+    image: "/poi-images/estonia-valgejarv-lake-nature-v2.webp",
   },
   {
     id: "estonia-piusa-sandstone-nature-v2",
@@ -128,6 +131,7 @@ export const estoniaNatureV2: POI[] = [
       ro: ["Suprafața complexului depășește 40 hectare", "Piloni de susținere din gresie naturală", "Rezervație naturală protejată din 1981", "Situat în apropierea râului Piusa", "Adâncimea maximă a galeriilor: 10 metri", "Cel mai mare sit de hibernare din Baltica"],
       en: ["Caves cover an area of 46 hectares", "Mining ceased completely in 1970", "Sandstone layers are 350 million years old", "Home to the Pond Bat and Brandt's Bat", "Museum displays local glass industry history", "Over 200 separate cavern rooms identified"],
     },
+    image: "/poi-images/estonia-piusa-sandstone-nature-v2.webp",
   },
   {
     id: "estonia-nava-river-nature-v2",
@@ -160,6 +164,7 @@ export const estoniaNatureV2: POI[] = [
       ro: ["Lungime: aprox. 45 km", "Rezervația Naturală Endla", "Conectează două lacuri", "Fenomene carstice prezente"],
       en: ["Length: approx. 45 km", "Endla Nature Reserve", "Connects two major lakes", "Karst phenomena present"],
     },
+    image: "/poi-images/estonia-nava-river-nature-v2.webp",
   },
   {
     id: "estonia-parnu-river-nature-v2",
@@ -192,6 +197,7 @@ export const estoniaNatureV2: POI[] = [
       ro: ["Lungime: 144 km", "Bazin: 6920 kmp", "Cea mai lungă scară de pești", "Drenează 16% din țară"],
       en: ["Length: 144 km", "Basin: 6920 sqkm", "Longest fish passage in Baltics", "Drains 16% of Estonia"],
     },
+    image: "/poi-images/estonia-parnu-river-nature-v2.webp",
   },
   {
     id: "estonia-endla-mire-nature-v2",
@@ -224,6 +230,7 @@ export const estoniaNatureV2: POI[] = [
       ro: ["Suprafață totală: 101,1 kmp", "Înființată în 1985", "Sit Ramsar din anul 1997", "8 masive de mlaștină"],
       en: ["Total area: 101.1 sqkm", "Established: 1985", "Ramsar site since 1997", "8 separate bog massifs"],
     },
+    image: "/poi-images/estonia-endla-mire-nature-v2.webp",
   },
   {
     id: "estonia-haanja-upland-nature-v2",
@@ -256,6 +263,7 @@ export const estoniaNatureV2: POI[] = [
       ro: ["Altitudine max: 318 m", "Număr de lacuri: 170+", "Cel mai adânc lac: 38 m", "Morenă glaciară terminală"],
       en: ["Highest point: 318 m", "Number of lakes: 170+", "Deepest lake: 38 m deep", "Glacial moraine formation"],
     },
+    image: "/poi-images/estonia-haanja-upland-nature-v2.webp",
   },
   {
     id: "estonia-kollase-lake-nature-v2",
@@ -288,6 +296,7 @@ export const estoniaNatureV2: POI[] = [
       ro: ["Rezervația Alam-Pedja", "Caracteristică: Ape feroase", "Habitat: Pădure aluvionară", "Zonă de cuibărit păsări"],
       en: ["Alam-Pedja Nature Reserve", "Feature: Iron-rich water", "Habitat: Alluvial forest", "Key bird nesting area"],
     },
+    image: "/poi-images/estonia-kollase-lake-nature-v2.webp",
   },
   {
     id: "estonia-vohandu-river-nature-v2",
@@ -320,6 +329,7 @@ export const estoniaNatureV2: POI[] = [
       ro: ["Lungime totală: 162 km", "38 aflorimente de gresie", "Eveniment: Maratonul Võhandu", "Nume: Pühajõgi (Râul Sfânt)"],
       en: ["Total length: 162 km", "38 sandstone outcrops", "Event: Võhandu Marathon", "Alias: Pühajõgi (Holy River)"],
     },
+    image: "/poi-images/estonia-vohandu-river-nature-v2.webp",
   },
   {
     id: "estonia-laeva-bog-nature-v2",
@@ -352,6 +362,7 @@ export const estoniaNatureV2: POI[] = [
       ro: ["Parte din Alam-Pedja", "Habitat acvila țipătoare", "Tip: mlaștină de tranziție", "Avifaună diversificată"],
       en: ["Part of Alam-Pedja reserve", "Spotted Eagle habitat", "Type: transition mire", "Diverse bird population"],
     },
+    image: "/poi-images/estonia-laeva-bog-nature-v2.webp",
   },
   {
     id: "estonia-jagal-river-nature-v2",
@@ -384,6 +395,7 @@ export const estoniaNatureV2: POI[] = [
       ro: ["Debit mediu de apă: 12,8 m³/s", "Cursul superior trece prin mlaștini", "Cascada Jägala este numită 'Niagara Estoniei'", "Pe mal se află un fort antic din epoca fierului", "Pod suspendat situat în apropierea gurii de vărsare", "Râul alimentează rezervorul de apă din Tallinn"],
       en: ["River basin covers 1,570 square km", "Waterfall drop is exactly 8.1 meters", "Located 25 km east of Tallinn city center", "Upper course originates in Pandivere Upland", "Hydroelectric plant restored in 2002", "Popular site for ice climbing in February"],
     },
+    image: "/poi-images/estonia-jagal-river-nature-v2.webp",
   },
   {
     id: "estonia-sirgala-forest-nature-v2",
@@ -416,6 +428,7 @@ export const estoniaNatureV2: POI[] = [
       ro: ["Județ: Ida-Viru", "Peisaj post-minier", "Populații de lupi și urși", "Zonă forestieră vastă"],
       en: ["Region: Ida-Viru County", "Post-mining landscape", "Wolf and bear populations", "Extensive forest area"],
     },
+    image: "/poi-images/estonia-sirgala-forest-nature-v2.webp",
   },
   {
     id: "estonia-kuresoo-bog-nature-v2",
@@ -448,5 +461,6 @@ export const estoniaNatureV2: POI[] = [
       ro: ["Include peste 100 de ochiuri de apă (lacuri)", "Altitudinea maximă a domului: 33 metri", "Casă pentru urși bruni și lupi", "Traseu educativ pe scânduri de 2,5 km", "Retenție masivă de CO2 în sedimente", "Temperaturile iarna pot scădea sub -30°C"],
       en: ["Total bog area covers 11,000 hectares", "Peat accumulation started 10,000 years ago", "Deepest peat layer measured at 7.5 meters", "Home to Golden Eagles and Cloudberries", "Part of Soomaa National Park since 1993", "Bog pools support unique dragonfly species"],
     },
+    image: "/poi-images/estonia-kuresoo-bog-nature-v2.webp",
   }
 ];

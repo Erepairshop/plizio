@@ -447,7 +447,8 @@ export const canadaAllPoi: POI[] = [
       ro: ["Este singura așezare vikingă din America de Nord.", "Este sit inclus în Patrimoniul Mondial UNESCO.", "Dovada că au ajuns aici cu 500 de ani înaintea lui Columb.", "Au rămas ruinele caselor construite din brazde de iarbă.", "A fost descoperit de Helge Ingstad în 1960.", "Au fost găsite urme care sugerează prelucrarea fierului."],
       en: []
     },
-    historyYear: 1000, historyPeriod: "Viking Age"
+    historyYear: 1000, historyPeriod: "Viking Age",
+    image: "/poi-images/ca-anse-meadows.webp",
   }
 ];
 

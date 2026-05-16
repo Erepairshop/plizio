@@ -32,7 +32,8 @@ export const mkPoisPart8: POI[] = [
       hu: ["Fontos központ az antik Via Egnatia mentén.", "Színházáról és bazilikáiról ismert.", "A világ minden tájáról vonzza a kutatókat."],
       ro: ["Un centru important pe antica Via Egnatia.", "Cunoscut pentru teatrul și bazilicile sale.", "Atrage cercetători din întreaga lume."],
       en: ["A major center on the ancient Via Egnatia.", "Famous for its theater and basilicas.", "Attracts researchers from around the world."]
-    }
+    },
+    image: "/poi-images/MK-071-stobi-gradsko.webp",
   },
   {
     id: "MK-071-vardar-gradsko",
@@ -63,7 +64,8 @@ export const mkPoisPart8: POI[] = [
       hu: ["Fontos a regionális bortermelés számára.", "Csendes folyóparti séták helyszíne.", "Termékeny talajt biztosít a mezőgazdaságnak."],
       ro: ["Important pentru viticultura regională.", "Un loc pentru plimbări liniștite pe mal.", "Oferă soluri fertile pentru agricultură."],
       en: ["Crucial for regional viticulture.", "A place for quiet walks along the banks.", "Provides fertile soils for agriculture."]
-    }
+    },
+    image: "/poi-images/MK-071-vardar-gradsko.webp",
   },
   // MK-072: Kratovo
   {
@@ -95,7 +97,8 @@ export const mkPoisPart8: POI[] = [
       hu: ["Számos jól megőrzött oszmán kori híd található itt.", "A 'Radin'-híd a legismertebb közülük.", "A múlt mérnöki tudományának jelképei."],
       ro: ["Există mai multe poduri bine conservate din perioada otomană.", "Podul 'Radin' este cel mai cunoscut dintre ele.", "Un simbol al ingineriei din trecut."],
       en: ["There are several well-preserved bridges from the Ottoman period.", "The 'Radin' bridge is the most famous among them.", "A symbol of past engineering skills."]
-    }
+    },
+    image: "/poi-images/MK-072-kratovo-bridges.webp",
   },
   {
     id: "MK-072-kratovo-towers",
@@ -126,7 +129,8 @@ export const mkPoisPart8: POI[] = [
       hu: ["Az egykori tizenkét toronyból hat maradt fenn.", "Egyedülálló építészetükről ismertek.", "Lakó- és védelmi épületként szolgáltak."],
       ro: ["Șase din cele douăsprezece turnuri de altădată sunt încă păstrate.", "Cunoscute pentru arhitectura lor unică.", "Au servit drept locuințe și structuri de apărare."],
       en: ["Six of the former twelve towers are still preserved.", "Known for their unique architecture.", "Served as residential and defensive structures."]
-    }
+    },
+    image: "/poi-images/MK-072-kratovo-towers.webp",
   },
   // MK-073: Ilinden
   {
@@ -158,7 +162,8 @@ export const mkPoisPart8: POI[] = [
       hu: ["Az ország légiközlekedésének fő csomópontja.", "A 'Szkopje 2014' projekt keretében nevezték el.", "Modern létesítményeket kínál az utazóknak."],
       ro: ["Principalul nod pentru traficul aerian al țării.", "Numit în cadrul proiectului 'Skopje 2014'.", "Oferă facilități moderne pentru călători."],
       en: ["The main hub for air traffic in the country.", "Named as part of the 'Skopje 2014' project.", "Provides modern facilities for travelers."]
-    }
+    },
+    image: "/poi-images/MK-073-skopje-airport.webp",
   },
   {
     id: "MK-073-ilinden-monument",
@@ -189,7 +194,8 @@ export const mkPoisPart8: POI[] = [
       hu: ["Helyi megemlékezések helyszíne.", "A szabadságharcot szimbolizálja.", "A közigazgatási központban található."],
       ro: ["Loc pentru ceremonii comemorative locale.", "Simbolizează lupta pentru libertate.", "Situat în centrul administrativ."],
       en: ["Site for local commemorative ceremonies.", "Symbolizes the struggle for freedom.", "Located in the administrative center."]
-    }
+    },
+    image: "/poi-images/MK-073-ilinden-monument.webp",
   },
   // MK-074: Karbinci
   {
@@ -221,7 +227,8 @@ export const mkPoisPart8: POI[] = [
       hu: ["Jól megőrzött bazilikákkal rendelkezik.", "Az i. sz. 4. században alapították.", "Építészeti részleteiről ismert."],
       ro: ["Deține bazilici bine conservate.", "Fondat în secolul al IV-lea d.Hr.", "Cunoscut pentru detaliile sale arhitecturale."],
       en: ["Features well-preserved basilicas.", "Founded in the 4th century AD.", "Known for its architectural details."]
-    }
+    },
+    image: "/poi-images/MK-074-bargala-archaeological-site.webp",
   },
   {
     id: "MK-074-st-george-kozjak",
@@ -252,7 +259,8 @@ export const mkPoisPart8: POI[] = [
       hu: ["A 9. vagy 10. századból származik.", "Értékes középkori freskókat őriz.", "Kiemelkedő jelentőségű műemlék."],
       ro: ["Datează din secolul al IX-lea sau al X-lea.", "Deține fresce medievale valoroase.", "Un monument de o importanță excepțională."],
       en: ["Dates from the 9th or 10th century.", "Houses valuable medieval frescoes.", "A monument of exceptional significance."]
-    }
+    },
+    image: "/poi-images/MK-074-st-george-kozjak.webp",
   },
   // MK-075: Štip
   {
@@ -284,7 +292,8 @@ export const mkPoisPart8: POI[] = [
       hu: ["Csodás kilátást nyújt a Bregalnica folyóra.", "Az ókor óta stratégiai pont.", "Štip történelmi fejlődésének központja."],
       ro: ["Oferă o vedere superbă asupra râului Bregalnica.", "Punct strategic încă din antichitate.", "Centrul dezvoltării istorice a orașului Štip."],
       en: ["Offers a splendid view of the Bregalnica river.", "Strategic point since antiquity.", "Center of Štip's historical development."]
-    }
+    },
+    image: "/poi-images/MK-075-isari-fortress.webp",
   },
   {
     id: "MK-075-st-nicholas-stip",
@@ -315,7 +324,8 @@ export const mkPoisPart8: POI[] = [
       hu: ["A 19. században épült.", "Ikonokból álló galériának ad otthont.", "A Bregalnicai egyházmegye székhelye."],
       ro: ["Construită în secolul al XIX-lea.", "Găzduiește o galerie de icoane.", "Sediul eparhiei Bregalnica."],
       en: ["Built in the 19th century.", "Houses a gallery of icons.", "Seat of the Bregalnica diocese."]
-    }
+    },
+    image: "/poi-images/MK-075-st-nicholas-stip.webp",
   },
   // MK-076: Kočani
   {
@@ -347,7 +357,8 @@ export const mkPoisPart8: POI[] = [
       hu: ["A meleg vizet üvegházak fűtésére használják.", "Lehetőséget nyújt a gyógyturizmus számára.", "A régió egyedülálló geológiai jellemzője."],
       ro: ["Apa fierbinte este folosită pentru încălzirea serelor.", "Oferă potențial pentru turismul balnear.", "Caracteristică geologică unică a regiunii."],
       en: ["The hot water is used for heating greenhouses.", "Provides potential for spa tourism.", "Unique geological feature of the region."]
-    }
+    },
+    image: "/poi-images/MK-076-kocani-geothermal.webp",
   },
   {
     id: "MK-076-medieval-towers-kocani",
@@ -378,7 +389,8 @@ export const mkPoisPart8: POI[] = [
       hu: ["Védelmi és lakóhelyi célokat szolgáltak.", "Nyugati és keleti toronyként ismertek.", "A város fontos történelmi műemlékei."],
       ro: ["Au servit pentru protecție și ca reședință.", "Cunoscute sub numele de turnul 'estic' și cel 'vestic'.", "Importante monumente istorice ale orașului."],
       en: ["Served for protection and as residences.", "Known as the 'western' and 'eastern' towers.", "Important historical monuments of the city."]
-    }
+    },
+    image: "/poi-images/MK-076-medieval-towers-kocani.webp",
   },
   // MK-077: Zrnovci
   {
@@ -410,7 +422,8 @@ export const mkPoisPart8: POI[] = [
       hu: ["Csodás túraútvonalakat kínál az erdőn át.", "Tiszta hegyi levegőjéről ismert.", "Ideális természetmegfigyelésre."],
       ro: ["Oferă trasee de drumeție frumoase prin pădure.", "Cunoscut pentru aerul montan curat.", "Ideal pentru observarea naturii."],
       en: ["Offers beautiful hiking trails through the forest.", "Known for its pure mountain air.", "Ideal for nature observation."]
-    }
+    },
+    image: "/poi-images/MK-077-plackovica-zrnovci.webp",
   },
   {
     id: "MK-077-zrnovska-river",
@@ -441,7 +454,8 @@ export const mkPoisPart8: POI[] = [
       hu: ["Felfrissülést kínál a nyári melegben.", "Fontos a helyi vízellátás szempontjából.", "Meghatározza a falu festői hangulatát."],
       ro: ["Oferă răcoare în timpul verii.", "Important pentru alimentarea locală cu apă.", "Modelează atmosfera pitorească a satului."],
       en: ["Provides refreshment during summer.", "Crucial for the local water supply.", "Shapes the village's picturesque atmosphere."]
-    }
+    },
+    image: "/poi-images/MK-077-zrnovska-river.webp",
   },
   // MK-078: Veles
   {
@@ -473,7 +487,8 @@ export const mkPoisPart8: POI[] = [
       hu: ["Egyedülálló építkezési mód a sziklákon.", "Jellegzetes fehér homlokzatokkal rendelkezik.", "Tükrözi a város gazdag kereskedelmi múltját."],
       ro: ["Stil constructiv unic pe stânci.", "Are fațade albe distinctive.", "Reflectă istoria comercială bogată a orașului."],
       en: ["Unique construction style on the cliffs.", "Features striking white facades.", "Reflects the city's rich trading history."]
-    }
+    },
+    image: "/poi-images/MK-078-veles-old-architecture.webp",
   },
   {
     id: "MK-078-st-pantaleon-veles",
@@ -504,7 +519,8 @@ export const mkPoisPart8: POI[] = [
       hu: ["Andrej Damjanov építette a 19. században.", "Rendkívüli akusztikával rendelkezik.", "Jelentős kulturális műemlék."],
       ro: ["Construită de Andrei Damianov în secolul al XIX-lea.", "Are o acustică extraordinară.", "Un monument cultural important."],
       en: ["Built by Andrej Damjanov in the 19th century.", "Features extraordinary acoustics.", "A major cultural monument."]
-    }
+    },
+    image: "/poi-images/MK-078-st-pantaleon-veles.webp",
   },
   // MK-079: Demir Kapija
   {
@@ -536,7 +552,8 @@ export const mkPoisPart8: POI[] = [
       hu: ["Neve törökül 'vaskaput' jelent.", "A sziklamászók és természetbúvárok paradicsoma.", "Ritka ragadozó madárfajoknak ad otthont."],
       ro: ["Numele înseamnă 'Poarta de Fier' în limba turcă.", "Un paradis pentru alpiniști și naturaliști.", "Găzduiește specii rare de păsări de pradă."],
       en: ["The name means 'Iron Gate' in Turkish.", "A paradise for rock climbers and naturalists.", "Home to rare species of birds of prey."]
-    }
+    },
+    image: "/poi-images/MK-079-iron-gate-canyon.webp",
   },
   {
     id: "MK-079-demir-kapija-wine",
@@ -567,7 +584,8 @@ export const mkPoisPart8: POI[] = [
       hu: ["A 'Stanushina' fajtára specializálódott.", "Borturizmust és szállást kínál.", "Festői borvidéken található."],
       ro: ["Specializată în soiul 'Stanushina'.", "Oferă turism viticol și cazare.", "Situată într-o regiune viticolă pitorească."],
       en: ["Specializes in the 'Stanushina' variety.", "Offers wine tourism and accommodation.", "Located in a scenic wine-growing region."]
-    }
+    },
+    image: "/poi-images/MK-079-demir-kapija-wine.webp",
   },
   // MK-080: Vinica
   {
@@ -599,7 +617,8 @@ export const mkPoisPart8: POI[] = [
       hu: ["Világszerte egyedülálló kora keresztény terrakotta domborművek lelőhelye.", "Az ókortól a középkorig erődként szolgált.", "Kilátást nyújt a Kocsanói-völgyre."],
       ro: ["Locul descoperirii unor reliefuri de teracotă paleocreștine unice în lume.", "A servit drept cetate din antichitate până în evul mediu.", "Oferă o vedere asupra văii Kočani."],
       en: ["Site of discovery for globally unique early Christian terracotta reliefs.", "Served as a fortress from antiquity through the Middle Ages.", "Overlooks the Kočani valley."]
-    }
+    },
+    image: "/poi-images/MK-080-vinica-fortress.webp",
   },
   {
     id: "MK-080-vinica-museum",
@@ -630,7 +649,8 @@ export const mkPoisPart8: POI[] = [
       hu: ["Itt őrzik az erődből származó eredeti terrakotta ikonokat.", "Dokumentálja Vinica történelmét.", "Fontos kulturális központ keleten."],
       ro: ["Adăpostește originalele icoanelor de teracotă de la cetate.", "Documentează istoria orașului Vinica.", "Un centru cultural important în est."],
       en: ["Houses the original terracotta icons from the Kale.", "Documents the history of Vinica.", "A key cultural center in the east."]
-    }
+    },
+    image: "/poi-images/MK-080-vinica-museum.webp",
   }
 ];
 

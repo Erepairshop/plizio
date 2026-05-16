@@ -32,6 +32,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Fondat în 1868", "Populație: 66.000 loc.", "Suprafață: 1.469 km²", "Centrul Alvar Aalto", "Festivalul de Tango", "Nod feroviar important"],
       en: ["Founded: 1868", "Population: ~66,000", "Area: 1,469 sq km", "Aalto Cultural Center", "Tangomarkkinat festival", "Major rail junction"],
     },
+    image: "/poi-images/finland-seinajoki-cities-v2.webp",
   },
   {
     id: "finland-hameenlinna-cities-v2",
@@ -64,6 +65,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Oraș din 1639", "Populație: 68.000 loc.", "Castelul Häme (sec. 13)", "Casa lui Sibelius", "Parcul Aulanko", "Lângă lacul Vanajavesi"],
       en: ["Chartered in 1639", "Population: ~68,000", "Häme Castle (13th c.)", "Sibelius' birthplace", "Aulanko Nature Park", "On Lake Vanajavesi"],
     },
+    image: "/poi-images/finland-hameenlinna-cities-v2.webp",
   },
   {
     id: "finland-hyvinkaa-cities-v2",
@@ -96,6 +98,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Fondat în 1917", "Populație: 47.000 loc.", "Muzeul Căilor Ferate", "Altitudine: 130 m", "Sediu Konecranes", "Parcul Sveitsi"],
       en: ["Founded: 1917", "Population: ~47,000", "Finnish Railway Museum", "Elevation: 130m", "Konecranes headquarters", "Sveitsi nature area"],
     },
+    image: "/poi-images/finland-hyvinkaa-cities-v2.webp",
   },
   {
     id: "finland-jarvenpaa-cities-v2",
@@ -128,6 +131,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Oraș din 1967", "Populație: 46.000 loc.", "Muzeul Ainola", "Lacul Tuusula", "Comunitate de artiști", "Districtul Uusimaa"],
       en: ["Chartered in 1967", "Population: ~46,000", "Ainola (home of Sibelius)", "Lake Tuusula", "Artist community hub", "37km from Helsinki"],
     },
+    image: "/poi-images/finland-jarvenpaa-cities-v2.webp",
   },
   {
     id: "finland-kokkola-cities-v2",
@@ -160,6 +164,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Fondat în anul 1620", "Cartierul istoric Neristan", "Portul Ykspihlaja", "Centru de prelucrare a zincului"],
       en: ["Founded in 1620", "Neristan wooden house district", "Ykspihlaja deep-water port", "Major zinc production center"],
     },
+    image: "/poi-images/finland-kokkola-cities-v2.webp",
   },
   {
     id: "finland-kajaani-cities-v2",
@@ -192,6 +197,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Statut de oraș din 1651", "Ruinele castelului din 1604", "Industrie forestieră dezvoltată", "Legătura cu Elias Lönnrot"],
       en: ["Town status since 1651", "Castle ruins from 1604", "Paper industry heritage", "Home of Elias Lönnrot"],
     },
+    image: "/poi-images/finland-kajaani-cities-v2.webp",
   },
   {
     id: "finland-kerava-cities-v2",
@@ -224,6 +230,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Oraș din 1970", "Populație: 38.000 loc.", "Festivalul Usturoiului", "Muzeul Kerava", "Berăria Sinebrychoff", "30 km de Helsinki"],
       en: ["Chartered in 1970", "Population: ~38,000", "Garlic Festival", "Kerava Art Museum", "Sinebrychoff Brewery", "Major railway hub"],
     },
+    image: "/poi-images/finland-kerava-cities-v2.webp",
   },
   {
     id: "finland-karkkila-cities-v2",
@@ -256,6 +263,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Turnătoria Högfors (1820)", "Oraș din anul 1977", "Muzeul Turnătoriei Senno", "Suprafață de 255 km²"],
       en: ["Högfors ironworks (1820)", "City status since 1977", "Senno Foundry Museum", "Area of 255 square km"],
     },
+    image: "/poi-images/finland-karkkila-cities-v2.webp",
   },
   {
     id: "finland-kauhava-cities-v2",
@@ -288,6 +296,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Fondat în 1867", "Populație: 15.000 loc.", "PowerPark", "Industria puukko", "Lacul de crater Lappajärvi", "Bază aeriană istorică"],
       en: ["Founded: 1867", "Population: ~15,000", "PowerPark Resort", "Puukko knife tradition", "Lappajärvi crater lake", "Kauhava Airfield"],
     },
+    image: "/poi-images/finland-kauhava-cities-v2.webp",
   },
   {
     id: "finland-kemijarvi-cities-v2",
@@ -320,6 +329,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Cel mai nordic oraș finlandez", "Fondat în anul 1973", "Podul peste lacul Pöyliöjärvi", "Acces spre parcul Pyhä-Luosto"],
       en: ["Northernmost city in Finland", "Chartered in 1973", "Pöyliöjärvi lake bridge", "Gateway to Pyhä-Luosto Park"],
     },
+    image: "/poi-images/finland-kemijarvi-cities-v2.webp",
   },
   {
     id: "finland-kemi-cities-v2",
@@ -352,6 +362,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Fondat în 1869", "Populație: 20.000 loc.", "Castelul de Zăpadă", "Spărgătorul Sampo", "Port la Golful Botnic", "Regiunea Laponia"],
       en: ["Founded: 1869", "Population: ~20,000", "Kemi SnowCastle", "Icebreaker Sampo", "Gulf of Bothnia coast", "Industrial paper mills"],
     },
+    image: "/poi-images/finland-kemi-cities-v2.webp",
   },
   {
     id: "finland-kitee-cities-v2",
@@ -384,6 +395,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Oraș din anul 1992", "Locul natal al Nightwish", "Grădina Zoologică Kitee", "Centru de procesare a lemnului"],
       en: ["City status since 1992", "Birthplace of Nightwish", "Kitee Zoo (Finland's 4th)", "Wood industry hub"],
     },
+    image: "/poi-images/finland-kitee-cities-v2.webp",
   },
   {
     id: "finland-kurikka-cities-v2",
@@ -416,6 +428,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Fondat în 1868", "Populație: 20.000 loc.", "Râul Kyrönjoki", "Centru de mobilă", "Juha Mieto (atlet)", "Regiunea Ostrobotnia de Sud"],
       en: ["Founded: 1868", "Population: ~20,000", "Kyrönjoki River", "Furniture industry hub", "Home of Juha Mieto", "South Ostrobothnia"],
     },
+    image: "/poi-images/finland-kurikka-cities-v2.webp",
   },
   {
     id: "finland-laitila-cities-v2",
@@ -448,6 +461,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Capitala ouălor din Finlanda", "Oraș din anul 1986", "Fabrica de băuturi Laitila", "Suprafață de 545 km²"],
       en: ["Egg capital of Finland", "City status since 1986", "Laitila beverage factory", "Area of 545 square km"],
     },
+    image: "/poi-images/finland-laitila-cities-v2.webp",
   },
   {
     id: "finland-lapua-cities-v2",
@@ -480,6 +494,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Oraș din anul 1977", "Fabrica de muniții Lapua", "Catedrala Lapua (C.L. Engel)", "Centrul cultural Vanha Paukku"],
       en: ["City status since 1977", "Lapua ammunition factory", "Lapua Cathedral (by Engel)", "Vanha Paukku cultural center"],
     },
+    image: "/poi-images/finland-lapua-cities-v2.webp",
   },
   {
     id: "finland-lieksa-cities-v2",
@@ -512,6 +527,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Oraș din 1973", "Populație: 10.000 loc.", "Parcul Național Koli", "Lacul Pielinen", "Muzeul Pielinen", "Regiunea Karelia de Nord"],
       en: ["Chartered in 1973", "Population: ~10,000", "Koli National Park", "Lake Pielinen", "Pielinen Museum", "North Karelian culture"],
     },
+    image: "/poi-images/finland-lieksa-cities-v2.webp",
   },
   {
     id: "finland-loimaa-cities-v2",
@@ -544,6 +560,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Oraș din 1969", "Populație: 15.000 loc.", "Muzeul Agriculturii Sarka", "Râul Loimijoki", "Centru cereale", "Parcul de artă Alpo Jaakola"],
       en: ["Chartered in 1969", "Population: ~15,000", "Sarka Agriculture Museum", "Loimijoki River", "Grain production hub", "Alpo Jaakola Art Park"],
     },
+    image: "/poi-images/finland-loimaa-cities-v2.webp",
   },
   {
     id: "finland-loviisa-cities-v2",
@@ -576,6 +593,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Fondat în 1745", "Populație: 15.000 loc.", "Fortăreața Svartholm", "Centrala Nucleară Loviisa", "Cartier istoric lemn", "Oraș bilingv"],
       en: ["Founded: 1745", "Population: ~15,000", "Svartholm Sea Fortress", "Loviisa Nuclear Power Plant", "Wooden house district", "Bilingual municipality"],
     },
+    image: "/poi-images/finland-loviisa-cities-v2.webp",
   },
   {
     id: "finland-mantta-vilppula-cities-v2",
@@ -608,6 +626,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Fuziune: 2009", "Populație: 9.500 loc.", "Muzeul Serlachius Gösta", "Muzeul Serlachius Gustaf", "Festivalul de Artă", "Patrimoniu industrial"],
       en: ["Merged: 2009", "Population: ~9,500", "Serlachius Museum Gösta", "Serlachius Museum Gustaf", "Mänttä Art Festival", "Paper mill history"],
     },
+    image: "/poi-images/finland-mantta-vilppula-cities-v2.webp",
   },
   {
     id: "finland-nivala-cities-v2",
@@ -640,6 +659,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Oraș din anul 1992", "Muzeul Kyösti Kallio", "Centru industrial metalurgic", "Suprafață de 536 km²"],
       en: ["City status since 1992", "Kyösti Kallio Museum", "Metal industry hub", "Area of 536 square km"],
     },
+    image: "/poi-images/finland-nivala-cities-v2.webp",
   },
   {
     id: "finland-nokkia-cities-v2",
@@ -672,6 +692,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Oraș din 1977", "Populație: 35.000 loc.", "Originea Nokia Corp.", "Sediu Nokian Tyres", "Spa Eden", "Râul Nokianvirta"],
       en: ["Chartered in 1977", "Population: ~35,000", "Origin of Nokia Corp.", "Nokian Tyres HQ", "Eden Spa Resort", "Nokianvirta River"],
     },
+    image: "/poi-images/finland-nokkia-cities-v2.webp",
   },
   {
     id: "finland-orimattila-cities-v2",
@@ -704,6 +725,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Oraș din anul 1992", "Arhitectura Villa Ervi", "Muzeul de Artă Orimattila", "Suprafață de 814 km²"],
       en: ["City status since 1992", "Villa Ervi architecture", "Orimattila Art Museum", "Area of 814 square km"],
     },
+    image: "/poi-images/finland-orimattila-cities-v2.webp",
   },
   {
     id: "finland-otepaa-cities-v2",
@@ -736,6 +758,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Fondat în 1869", "Populație: 9.000 loc.", "Centrul de artă Purnu", "Nod feroviar", "Lacul Längelmävesi", "Expoziția Leporanta"],
       en: ["Founded: 1869", "Population: ~9,000", "Purnu Art Center", "Major rail crossroads", "Lake Längelmävesi", "Leporanta exhibition"],
     },
+    image: "/poi-images/finland-otepaa-cities-v2.webp",
   },
   {
     id: "finland-paimio-cities-v2",
@@ -768,6 +791,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Sanatoriul Alvar Aalto", "Oraș din anul 1997", "Muzeul Electricității", "Valea râului Paimionjoki"],
       en: ["Alvar Aalto Sanatorium", "City status since 1997", "Museum of Electricity", "Paimionjoki river valley"],
     },
+    image: "/poi-images/finland-paimio-cities-v2.webp",
   },
   {
     id: "finland-parainen-cities-v2",
@@ -800,6 +824,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Cea mai mare carieră de calcar", "Oraș din anul 1977", "Capitala Arhipelagului", "Comunitate bilingvă"],
       en: ["Largest limestone quarry in Nordics", "City status since 1977", "Heart of the Archipelago", "Bilingual municipality"],
     },
+    image: "/poi-images/finland-parainen-cities-v2.webp",
   },
   {
     id: "finland-parkano-cities-v2",
@@ -832,6 +857,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Oraș din 1977", "Populație: 6.300 loc.", "Parcul Național Seitseminen", "Muzeul Feroviar Parkano", "Industria lemnului", "Râul Viinikanjoki"],
       en: ["Chartered in 1977", "Population: ~6,300", "Seitseminen National Park", "Parkano Railway Museum", "Timber and metal industry", "Viinikanjoki River"],
     },
+    image: "/poi-images/finland-parkano-cities-v2.webp",
   },
   {
     id: "finland-pieksamaki-cities-v2",
@@ -864,6 +890,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Oraș din 1962", "Populație: 17.000 loc.", "Centrul Cultural Poleeni", "Nod feroviar Savo", "Lacul Pieksänjärvi", "Arhitectură modernă"],
       en: ["Chartered in 1962", "Population: ~17,000", "Poleeni Cultural Center", "Strategic rail hub", "Lake Pieksänjärvi", "Savonia heartland"],
     },
+    image: "/poi-images/finland-pieksamaki-cities-v2.webp",
   },
   {
     id: "finland-pietarsaari-cities-v2",
@@ -896,6 +923,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Fondat în anul 1652", "Cartierul istoric Skata", "Șantierul naval Nautor's Swan", "Grădina botanică Skolparken"],
       en: ["Founded in 1652", "Skata wooden house district", "Nautor's Swan yacht factory", "Skolparken Botanic Garden"],
     },
+    image: "/poi-images/finland-pietarsaari-cities-v2.webp",
   },
   {
     id: "finland-pudasjarvi-cities-v2",
@@ -928,6 +956,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Iso-Syöte (cel mai sudic fjäll)", "Oraș din anul 2004", "Centru de construcții din bârne", "Suprafață administrativă vastă"],
       en: ["Iso-Syöte fell location", "City status since 2004", "Log house industry hub", "Vast administrative area"],
     },
+    image: "/poi-images/finland-pudasjarvi-cities-v2.webp",
   },
   {
     id: "finland-pyhajarvi-cities-v2",
@@ -960,6 +989,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Mina Pyhäsalmi (1444 m)", "Oraș din anul 1993", "Centrul geografic al Finlandei", "Situat pe lacul Pyhäjärvi"],
       en: ["Pyhäsalmi Mine (1,444m deep)", "City status since 1993", "Geographical center of Finland", "On the shore of Lake Pyhäjärvi"],
     },
+    image: "/poi-images/finland-pyhajarvi-cities-v2.webp",
   },
   {
     id: "finland-raahe-cities-v2",
@@ -992,6 +1022,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Fondat în anul 1649", "Portul SSAB Raahe", "Orașul vechi din lemn", "Cel mai vechi costum de scafandru"],
       en: ["Founded in 1649", "Raahe port (SSAB steel)", "Historic wooden town center", "World's oldest diving suit"],
     },
+    image: "/poi-images/finland-raahe-cities-v2.webp",
   },
   {
     id: "finland-raisio-cities-v2",
@@ -1024,6 +1055,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Sediul Raisio Group", "Oraș din anul 1974", "Biserică medievală din piatră", "Lângă portul Naantali"],
       en: ["Raisio Group headquarters", "City status since 1974", "Medieval stone church", "Proximity to Naantali port"],
     },
+    image: "/poi-images/finland-raisio-cities-v2.webp",
   },
   {
     id: "finland-raasepori-cities-v2",
@@ -1056,6 +1088,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Castelul Raseborg (sec. XIV)", "Fondat în 2009 (fuziune)", "Centrul vechi Ekenäs", "Satul artizanal Fiskars"],
       en: ["Raseborg Castle (14th century)", "Established 2009 (merger)", "Ekenäs wooden old town", "Fiskars artisan village"],
     },
+    image: "/poi-images/finland-raasepori-cities-v2.webp",
   },
   {
     id: "finland-saarijarvi-cities-v2",
@@ -1088,6 +1121,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Fondat în 1866", "Populație: 9.000 loc.", "Satul epocii pietrei", "Lacul Saarijärvi", "Monumentul Runeberg", "Parcul Pyhä-Häkki"],
       en: ["Founded: 1866", "Population: ~9,000", "Stone Age Village museum", "Lake Saarijärvi", "Runeberg heritage", "Pyhä-Häkki National Park"],
     },
+    image: "/poi-images/finland-saarijarvi-cities-v2.webp",
   },
   {
     id: "finland-salo-cities-v2",
@@ -1120,6 +1154,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Oraș din 1960", "Populație: 51.000 loc.", "Fost centru Nokia", "Muzeul de Artă Veturitalli", "Râul Salo", "Situat pe autostrada E18"],
       en: ["Chartered in 1960", "Population: ~51,000", "Former Nokia hub", "Veturitalli Art Museum", "Salo River", "On E18 highway"],
     },
+    image: "/poi-images/finland-salo-cities-v2.webp",
   },
   {
     id: "finland-sastamala-cities-v2",
@@ -1152,6 +1187,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Fuziune: 2009", "Populație: 24.000 loc.", "Biserica Sf. Olaf", "Muzeul Cărții Pukstaavi", "Râul Kokemäenjoki", "Peisaj cultural Pirkanmaa"],
       en: ["Merged: 2009", "Population: ~24,000", "St. Olaf's Church", "Pukstaavi Book Museum", "Kokemäenjoki River", "Finnish Book Capital"],
     },
+    image: "/poi-images/finland-sastamala-cities-v2.webp",
   },
   {
     id: "finland-somero-cities-v2",
@@ -1184,6 +1220,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Oraș din anul 1993", "Centrul de dans Esakallio", "Muzeul Unto Mononen", "Suprafață de 454 km²"],
       en: ["City status since 1993", "Esakallio dance hall hub", "Unto Mononen Museum", "Area of 454 square km"],
     },
+    image: "/poi-images/finland-somero-cities-v2.webp",
   },
   {
     id: "finland-suonenjoki-cities-v2",
@@ -1216,6 +1253,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Capitala căpșunilor", "Oraș din anul 1977", "Carnavalul din 1970", "Cercetare în pomicultură"],
       en: ["Strawberry capital of Finland", "City status since 1977", "Carnival started in 1970", "Berry research center"],
     },
+    image: "/poi-images/finland-suonenjoki-cities-v2.webp",
   },
   {
     id: "finland-taival-cities-v2",
@@ -1248,6 +1286,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Locul lui Kalle Päätalo", "Muzeul Kallioniemi", "Fabrica de cherestea Pölkky", "Pe malul râului Iijoki"],
       en: ["Home of Kalle Päätalo", "Kallioniemi Museum", "Pölkky Oy sawmill", "Located on Iijoki river"],
     },
+    image: "/poi-images/finland-taival-cities-v2.webp",
   },
   {
     id: "finland-tampere-v2-cities-v2",
@@ -1280,6 +1319,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Regiunea Pirkanmaa", "Lempäälä: Centrul Ideapark", "Pirkkala: Aeroport internațional", "Creștere demografică rapidă", "Malul lacului Pyhäjärvi", "Zona metropolitană Tampere"],
       en: ["Region: Pirkanmaa", "Lempäälä: Ideapark mall", "Pirkkala: Tampere Airport", "High growth rate", "Pyhäjärvi lakeside", "Tampere metro area"],
     },
+    image: "/poi-images/finland-tampere-v2-cities-v2.webp",
   },
   {
     id: "finland-tornio-cities-v2",
@@ -1312,6 +1352,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Oraș din 1621", "Populație: 21.000 loc.", "Oraș gemen cu Haparanda", "Râul Tornionjoki", "Muzeul de Artă Aine", "Teren de golf transfrontalier"],
       en: ["Chartered in 1621", "Population: ~21,000", "Twin city with Haparanda", "Tornionjoki salmon river", "Aine Art Museum", "Cross-border golf course"],
     },
+    image: "/poi-images/finland-tornio-cities-v2.webp",
   },
   {
     id: "finland-tuusula-cities-v2",
@@ -1344,6 +1385,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Fondat în 1643", "Populație: 40.000 loc.", "Muzeul Halosenniemi", "Muzeul Lotta Svärd", "Drumul istoric al artiștilor", "Regiunea Uusimaa"],
       en: ["Founded: 1643", "Population: ~40,000", "Halosenniemi art museum", "Lotta Svärd Museum", "Lake Tuusula artist road", "Close to Helsinki"],
     },
+    image: "/poi-images/finland-tuusula-cities-v2.webp",
   },
   {
     id: "finland-ulvila-cities-v2",
@@ -1376,6 +1418,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Fondat în anul 1365", "Biserica Sfântul Olaf", "Al treilea oraș ca vechime", "Tradiție în industria pielăriei"],
       en: ["Chartered in 1365", "Medieval St. Olaf's Church", "3rd oldest city in Finland", "Leather industry history"],
     },
+    image: "/poi-images/finland-ulvila-cities-v2.webp",
   },
   {
     id: "finland-urjala-cities-v2",
@@ -1408,6 +1451,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Satul de sticlă Nuutajärvi", "Locul natal al lui Väinö Linna", "Centru de artă în sticlă", "Suprafață de 505 km²"],
       en: ["Nuutajärvi Glass Village (1793)", "Birthplace of Väinö Linna", "Glass art hub", "Area of 505 square km"],
     },
+    image: "/poi-images/finland-urjala-cities-v2.webp",
   },
   {
     id: "finland-uusikaarlepyy-cities-v2",
@@ -1440,6 +1484,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Fondat în anul 1620", "Casa lui Zachris Topelius", "Muzeul Kuddnäs", "Centrul cultural Juthbacka"],
       en: ["Founded in 1620", "Birthplace of Zachris Topelius", "Kuddnäs Museum", "Juthbacka Cultural Center"],
     },
+    image: "/poi-images/finland-uusikaarlepyy-cities-v2.webp",
   },
   {
     id: "finland-uusikaupunki-cities-v2",
@@ -1472,6 +1517,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Fondat în 1617", "Populație: 15.000 loc.", "Tratatul de la Nystad", "Fabrica Valmet Automotive", "Muzeul Bonk", "Arhipelagul Uusikaupunki"],
       en: ["Founded: 1617", "Population: ~15,000", "Treaty of Nystad (1721)", "Valmet Automotive plant", "Bonk Museum", "Coastal archipelago"],
     },
+    image: "/poi-images/finland-uusikaupunki-cities-v2.webp",
   },
   {
     id: "finland-vesilahti-cities-v2",
@@ -1504,6 +1550,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Fondat în 1869 (parohie 1346)", "Populație: 4.500 loc.", "Conacul Laukko", "Săpături arheologice", "Țărmul lacului Pyhäjärvi", "Istorie medievală"],
       en: ["Founded: 1869 (parish 1346)", "Population: ~4,500", "Laukko Manor", "Iron Age burial sites", "Pyhäjärvi lakeside", "Close to Tampere"],
     },
+    image: "/poi-images/finland-vesilahti-cities-v2.webp",
   },
   {
     id: "finland-viitasaari-cities-v2",
@@ -1536,6 +1583,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Oraș din anul 1996", "Râurile Keihärinkoski", "Inima regiunii lacurilor", "Tradiție în pescuit"],
       en: ["City status since 1996", "Keihärinkoski rapids", "Heart of Lake Finland", "Fishing heritage"],
     },
+    image: "/poi-images/finland-viitasaari-cities-v2.webp",
   },
   {
     id: "finland-vimpeli-cities-v2",
@@ -1568,6 +1616,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Fondat în 1866", "Populație: 2.700 loc.", "Stadionul Saarikenttä", "Lacul de crater Lappajärvi", "Biserica rotundă", "Centru sportiv național"],
       en: ["Founded: 1866", "Population: ~2,700", "Saarikenttä Baseball Stadium", "Lappajärvi Crater Lake", "Vimpeli Circular Church", "Pesäpallo heartland"],
     },
+    image: "/poi-images/finland-vimpeli-cities-v2.webp",
   },
   {
     id: "finland-virrat-cities-v2",
@@ -1600,6 +1649,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Oraș din 1977", "Populație: 6.400 loc.", "Ruta vaporului Tarjanne", "Satul patrimoniului Virrat", "Lacurile Toriseva", "Regiunea Pirkanmaa"],
       en: ["Chartered in 1977", "Population: ~6,400", "Steamship Tarjanne route", "Virrat Heritage Village", "Toriseva gorge lakes", "Key inland tourism hub"],
     },
+    image: "/poi-images/finland-virrat-cities-v2.webp",
   },
   {
     id: "finland-ylojarvi-cities-v2",
@@ -1632,6 +1682,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Oraș din 2004", "Populație: 33.500 loc.", "Opera Tree Mountain", "Hipodromul Teivo", "Fosta mină de aur Haveri", "Lângă Tampere"],
       en: ["Chartered in 2004", "Population: ~33,500", "Tree Mountain Art Site", "Teivo harness racing track", "Haveri former gold mine", "Suburban city of Tampere"],
     },
+    image: "/poi-images/finland-ylojarvi-cities-v2.webp",
   },
   {
     id: "finland-aanekoski-cities-v2",
@@ -1664,6 +1715,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Oraș din 1973", "Populație: 18.000 loc.", "Fabrica Metsä Group", "Lacul Keitele", "Lacul Kuhnamo", "Canalul Keitele"],
       en: ["Chartered in 1973", "Population: ~18,000", "Metsä Group Bioproduct Mill", "Lake Keitele", "Lake Kuhnamo", "Strategic wood logistics"],
     },
+    image: "/poi-images/finland-aanekoski-cities-v2.webp",
   },
   {
     id: "finland-aksaa-cities-v2",
@@ -1696,6 +1748,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Fuziune: 2007", "Populație: 16.000 loc.", "Capitala mierii", "Nod feroviar Toijala", "Muzeul de Tapet", "Regiunea Pirkanmaa"],
       en: ["Merged: 2007", "Population: ~16,000", "Honey Capital of Finland", "Toijala rail junction", "Finnish Wallpaper Museum", "Central logistics hub"],
     },
+    image: "/poi-images/finland-aksaa-cities-v2.webp",
   },
   {
     id: "finland-alajärvi-cities-v2",
@@ -1728,6 +1781,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Traseul arhitectural Aalto", "Oraș din anul 1986", "Muzeul de Artă Nelimarkka", "Suprafață de 1056 km²"],
       en: ["Alvar Aalto architectural site", "City status since 1986", "Nelimarkka Art Museum", "Area of 1,056 square km"],
     },
+    image: "/poi-images/finland-alajärvi-cities-v2.webp",
   },
   {
     id: "finland-alavus-cities-v2",
@@ -1760,6 +1814,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Satul comercial Tuuri", "Oraș din anul 1977", "Lacul Alavudenjärvi", "Biserică din lemn din 1914"],
       en: ["Tuuri shopping village", "City status since 1977", "Lake Alavudenjärvi", "Wooden church from 1914"],
     },
+    image: "/poi-images/finland-alavus-cities-v2.webp",
   },
   {
     id: "finland-brande-cities-v2",
@@ -1792,6 +1847,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Peste 1200 de insule", "Parte a regiunii Åland", "Limba oficială: suedeza", "Conexiune feribot cu Kustavi"],
       en: ["Over 1,200 islands", "Part of Åland Islands", "Swedish is the official language", "Ferry link to Kustavi"],
     },
+    image: "/poi-images/finland-brande-cities-v2.webp",
   },
   {
     id: "finland-eckerö-cities-v2",
@@ -1824,6 +1880,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Fondat în 1867", "Populație: 950 loc.", "Clădirea Poștei (Engel)", "Port de feribot spre Suedia", "Arhipelagul Åland", "Cel mai vestic punct al țării"],
       en: ["Founded: 1867", "Population: ~950", "Post and Customs House", "Ferry link to Sweden", "Åland Islands", "Westernmost point of Finland"],
     },
+    image: "/poi-images/finland-eckerö-cities-v2.webp",
   },
   {
     id: "finland-enn-cities-v2",
@@ -1856,6 +1913,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Vârful Halti (1324 m)", "Centru al culturii Sami", "Granița triplă (FIN-SWE-NOR)", "Parcul Pallas-Yllästunturi"],
       en: ["Halti fell (1,324m)", "Center for Sami culture", "Three-country cairn (FIN-SWE-NOR)", "Pallas-Yllästunturi Park"],
     },
+    image: "/poi-images/finland-enn-cities-v2.webp",
   },
   {
     id: "finland-finström-cities-v2",
@@ -1888,6 +1946,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Biserica Sf. Mihail (sec. XII)", "Satul principal: Godby", "Centru pomicol (mere)", "Parte a arhipelagului Åland"],
       en: ["St. Michael's Church (12th c.)", "Godby is the main village", "Apple production center", "Part of Åland Islands"],
     },
+    image: "/poi-images/finland-finström-cities-v2.webp",
   },
   {
     id: "finland-föglö-cities-v2",
@@ -1920,6 +1979,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Suprafața terestră este de circa 134 km²", "Populația numără aproximativ 500 de locuitori", "Biserica Sf. Maria datează din secolul al XIV-lea", "Degerby a fost un post vamal major până în 1918", "Legătura cu restul insulelor se face prin feribot", "Comuna include peste 500 de insule și ostroave"],
       en: ["Total land area is approximately 134.77 km²", "Population is around 500 inhabitants", "Degerby served as a key customs post until 1918", "The medieval stone church dates back to the 1300s", "Accessible via ferry from Svinö in Lumparland", "Economy relies on maritime services and farming"],
     },
+    image: "/poi-images/finland-föglö-cities-v2.webp",
   },
   {
     id: "finland-geta-cities-v2",
@@ -1952,6 +2012,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Altitudinea maximă este de 98 de metri", "Populația este de aproximativ 500 de persoane", "Biserica Sf. Gheorghe a fost ridicată în 1460", "Geta este o destinație majoră pentru bouldering", "Regiunea este cunoscută pentru livezile de meri", "Peștera Djupviksgrottan este o atracție locală"],
       en: ["Highest point is Getabergen at 98 meters", "Total population is approximately 500", "St. George's Church dates back to around 1460", "Famous for the Djupviksgrottan cave system", "Major apple-growing region in the archipelago", "The area is a premier Nordic bouldering spot"],
     },
+    image: "/poi-images/finland-geta-cities-v2.webp",
   },
   {
     id: "finland-haapajärvi-cities-v2",
@@ -1984,6 +2045,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["A primit statutul de oraș în anul 1977", "Populația numără aproximativ 6.700 de locuitori", "Suprafața totală este de 789 km²", "Este un nod vital pe linia ferată Iisalmi-Ylivieska", "Muzeul local este găzduit de un fost hambar", "Economia se bazează pe servicii și agricultură"],
       en: ["Granted town status in the year 1977", "Population is approximately 6,700 people", "Major junction on the Iisalmi–Ylivieska railway", "Total area covers 789.12 square kilometers", "Features a museum in a 19th-century granary", "Located in the Northern Ostrobothnia region"],
     },
+    image: "/poi-images/finland-haapajärvi-cities-v2.webp",
   },
   {
     id: "finland-haapavesi-cities-v2",
@@ -2016,6 +2078,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Oraș din anul 1996", "Festivalul Folk Haapavesi", "Exploatare de turbă", "Suprafață de 1086 km²"],
       en: ["City status since 1996", "Haapavesi Folk Music Festival", "Major peat production site", "Area of 1,086 square km"],
     },
+    image: "/poi-images/finland-haapavesi-cities-v2.webp",
   },
   {
     id: "finland-halsua-cities-v2",
@@ -2048,6 +2111,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Populația este de circa 1.100 de locuitori", "Suprafața terestră este de 413 km²", "Biserica de lemn a fost finalizată în 1826", "Regiunea este un centru pentru extracția turbei", "Lacul Halsuanjärvi atrage numeroși ornitologi", "Face parte din regiunea Ostrobotnia Centrală"],
       en: ["Population is approximately 1,100 inhabitants", "Total land area is 413 square kilometers", "The wooden church was completed in 1826", "Economic focus on forestry and peat production", "Lake Halsuanjärvi is a key local landmark", "Situated in the Central Ostrobothnia region"],
     },
+    image: "/poi-images/finland-halsua-cities-v2.webp",
   },
   {
     id: "finland-hammarland-cities-v2",
@@ -2080,6 +2144,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Populația numără circa 1.600 de locuitori", "Biserica Sf. Ecaterina datează din secolul XIV", "Suprafața este de aproximativ 138 km²", "A găzduit ruta poștală istorică spre Suedia", "Cel mai înalt punct este dealul Kasberget", "Comuna deține o parte din insula Märket"],
       en: ["Population is approximately 1,600 inhabitants", "St. Catharine's Church dates to the 14th century", "Covers a total area of 138.35 km²", "Part of the historic postal route to Sweden", "Highest elevation is the Kasberget hill", "Includes a portion of the Märket lighthouse island"],
     },
+    image: "/poi-images/finland-hammarland-cities-v2.webp",
   },
   {
     id: "finland-hartola-cities-v2",
@@ -2112,6 +2177,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Anul înființării: 1784", "Vizitatori la târg: cca. 30.000 anual", "Statut: Singura parohie regală", "Suprafață totală: 675 km²"],
       en: ["Year established: 1784", "Annual fair visitors: ~30,000", "Status: Only Royal Parish in Finland", "Total area: 675 km²"],
     },
+    image: "/poi-images/finland-hartola-cities-v2.webp",
   },
   {
     id: "finland-hattula-cities-v2",
@@ -2144,6 +2210,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Construcția bisericii: 1472–1490", "Piese în muzeu: peste 50 vehicule", "Populație: cca. 9.400 locuitori", "Oraș vecin: Hämeenlinna"],
       en: ["Church construction: 1472–1490", "Museum exhibits: >50 vehicles", "Population: ~9,400", "Nearby city: Hämeenlinna"],
     },
+    image: "/poi-images/finland-hattula-cities-v2.webp",
   },
   {
     id: "finland-haukipudas-cities-v2",
@@ -2176,6 +2243,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Fuziune cu Oulu: 1 ianuarie 2013", "Anul bisericii: 1762", "Lungime râu: 170 km", "Artist pictor: Mikael Toppelius"],
       en: ["Merged into Oulu: Jan 1, 2013", "Church built: 1762", "River Kiiminkijoki: 170 km long", "Mural artist: Mikael Toppelius"],
     },
+    image: "/poi-images/finland-haukipudas-cities-v2.webp",
   },
   {
     id: "finland-hausjarvi-cities-v2",
@@ -2208,6 +2276,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Populația este de aproximativ 8.100 de persoane", "Centrul administrativ se află la Oitti", "Suprafața totală este de 398 km²", "Înființată ca municipalitate în anul 1868", "Deservită de gările din Oitti și Ryttylä", "Situată în apropierea orașului Riihimäki"],
       en: ["Current population is around 8,100 people", "The village of Oitti is the local center", "Total land area covers 398 square kilometers", "Established as a municipality in 1868", "Connected via Oitti and Ryttylä train stations", "Part of the historical Häme province"],
     },
+    image: "/poi-images/finland-hausjarvi-cities-v2.webp",
   },
   {
     id: "finland-heinola-v2-cities-v2",
@@ -2240,6 +2309,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Sanctuar păsări: fondat 1927", "Start industrie lemn: 1931", "Distanța de Lahti: cca. 35 km", "Lacul Ruotsalainen: 74 km²"],
       en: ["Bird sanctuary: est. 1927", "Industry start: 1931", "Distance to Lahti: ~35 km", "Lake Ruotsalainen: 74 km²"],
     },
+    image: "/poi-images/finland-heinola-v2-cities-v2.webp",
   },
   {
     id: "finland-helsinki-vorort-cities-v2",
@@ -2272,6 +2342,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Cuprinde orașele Espoo, Vantaa și Kauniainen", "Găzduiește Aeroportul Internațional Helsinki-Vantaa", "Populația metropolei depășește 1,2 milioane", "Parcul Național Nuuksio este situat în Espoo", "Include centre comerciale majore precum Jumbo", "Este centrul educațional și de cercetare al țării"],
       en: ["Consists of Espoo, Vantaa, and Kauniainen", "Home to the Helsinki-Vantaa International Airport", "Metropolitan population exceeds 1.2 million", "Features the Nuuksio National Park in Espoo", "Primary transport hub for the entire country", "Hosts the headquarters of many global corporations"],
     },
+    image: "/poi-images/finland-helsinki-vorort-cities-v2.webp",
   },
   {
     id: "finland-hirvensalmi-cities-v2",
@@ -2304,6 +2375,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Adâncime max. lac: 92 m", "Anul înființării: 1867", "Populație: cca. 2.100 locuitori", "Regiune: Savonia de Sud"],
       en: ["Max lake depth: 92 m", "Year established: 1867", "Population: ~2,100", "Region: Southern Savonia"],
     },
+    image: "/poi-images/finland-hirvensalmi-cities-v2.webp",
   },
   {
     id: "finland-hollola-cities-v2",
@@ -2336,6 +2408,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Populația este de circa 23.000 de locuitori", "Biserica medievală a fost ridicată în jur de 1480", "Găzduiește vârful Tiirismaa (223 m altitudine)", "Stațiunea Messilä este celebră pentru schi", "Suprafața municipalității este de 531 km²", "Situată pe malul lacului Vesijärvi"],
       en: ["Population is approximately 23,000 inhabitants", "Medieval stone church built around 1480", "Includes the highest point in S. Finland (223m)", "Messilä is a premier regional winter sports hub", "Total area is 531.84 square kilometers", "Bordered by the scenic Lake Vesijärvi"],
     },
+    image: "/poi-images/finland-hollola-cities-v2.webp",
   },
   {
     id: "finland-humppila-cities-v2",
@@ -2368,6 +2441,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Lungime cale ferată: 14 km", "Industrie sticlă din: anii '50", "Intersecție: Autostrăzile 2 și 9", "Ecartament: 750 mm"],
       en: ["Railway length: 14 km", "Glass industry since: 1950s", "Road junction: Highways 2 & 9", "Track gauge: 750 mm"],
     },
+    image: "/poi-images/finland-humppila-cities-v2.webp",
   },
   {
     id: "finland-hyrynsalmi-cities-v2",
@@ -2400,6 +2474,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Start fotbal mlaștină: 1998", "Înălțime cascadă: 7 m", "Acoperire păduri: >80%", "Regiune: Kainuu"],
       en: ["Swamp soccer start: 1998", "Waterfall height: 7 m", "Forest coverage: >80%", "Region: Kainuu"],
     },
+    image: "/poi-images/finland-hyrynsalmi-cities-v2.webp",
   },
   {
     id: "finland-iitti-cities-v2",
@@ -2432,6 +2507,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Populația este de aproximativ 6.600 de locuitori", "KymiRing este primul circuit MotoGP din Finlanda", "Biserica din lemn a fost construită în 1693", "Suprafața totală este de 687 km²", "Comuna este traversată de râul Kymijoki", "Satul parohial Iitti a fost ales 'cel mai frumos'"],
       en: ["Population counts about 6,600 inhabitants", "Home to the 4.6 km long KymiRing circuit", "The parish wooden church dates from 1693", "Covers a total area of 687 square kilometers", "Located at the border of Kymenlaakso and Häme", "Close proximity to the Verla UNESCO site"],
     },
+    image: "/poi-images/finland-iitti-cities-v2.webp",
   },
   {
     id: "finland-ilomantsi-cities-v2",
@@ -2464,6 +2540,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Găzduiește punctul cel mai estic al UE", "Populația este de circa 4.600 de locuitori", "Suprafața totală este de 3.172 km²", "Biserica Sf. Ilie este cea mai mare ortodoxă din lemn", "Regiunea este celebră pentru vinul de mure", "Parcul Național Petkeljärvi se află aici"],
       en: ["Hosts the easternmost point of the mainland EU", "Current population is around 4,600 people", "Total area spans 3,172 square kilometers", "Home to the largest wooden Orthodox church in Finland", "Center for Karelian 'Kantele' music and runic poetry", "Includes the beautiful Petkeljärvi National Park"],
     },
+    image: "/poi-images/finland-ilomantsi-cities-v2.webp",
   },
   {
     id: "finland-inari-cities-v2",
@@ -2496,6 +2573,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Găzduiește Parlamentul Sámi al Finlandei", "Muzeul Siida este dedicat culturii lapone", "Situată pe malul lacului Inari (1.040 km²)", "Populația locală este de circa 600 de persoane", "Centru major pentru creșterea renilor", "Punct strategic pe autostrada arctică E75"],
       en: ["Seat of the Sámi Parliament of Finland (Sajos)", "Siida is a world-class Sámi museum and nature center", "Situated on the shores of Lake Inari (1,040 km²)", "The settlement population is around 600 people", "Primary hub for reindeer husbandry and Sámi crafts", "Located along the main E75 Arctic highway"],
     },
+    image: "/poi-images/finland-inari-cities-v2.webp",
   },
   {
     id: "finland-iso-cities-v2",
@@ -2528,6 +2606,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Populația numără circa 1.800 de locuitori", "Vârful Lauhanvuori (231 m) este cel mai înalt din vest", "Regiunea este un mare producător de cartofi", "Face parte din rețeaua UNESCO Global Geoparks", "Suprafața terestră este de 647 km²", "Râul Isojoki este apreciat de pescari"],
       en: ["Population is approximately 1,800 inhabitants", "Lauhanvuori peak at 231m is the highest in W. Finland", "Major potato production area for the country", "Member of the Lauhanvuori-Hämeenkangas UNESCO Geopark", "Total land area is 647 square kilometers", "The Isojoki River is a noted trout-fishing destination"],
     },
+    image: "/poi-images/finland-iso-cities-v2.webp",
   },
   {
     id: "finland-janakkala-cities-v2",
@@ -2560,6 +2639,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Fabrică de hârtie din: 1818", "Vârstă biserică: >500 ani", "Populație Turenki: 7.500 loc.", "Distanța de Helsinki: 95 km"],
       en: ["Paper mill since: 1818", "Church age: >500 years", "Turenki population: ~7,500", "Distance to Helsinki: 95 km"],
     },
+    image: "/poi-images/finland-janakkala-cities-v2.webp",
   },
   {
     id: "finland-jokioinen-cities-v2",
@@ -2592,6 +2672,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Conac construit în: 1794", "Personal cercetare: >1.000", "Ecartament tren: 750 mm", "Suprafață: 181 km²"],
       en: ["Manor built: 1794", "Research staff: >1,000", "Railway gauge: 750 mm", "Total area: 181 km²"],
     },
+    image: "/poi-images/finland-jokioinen-cities-v2.webp",
   },
   {
     id: "finland-joutsa-cities-v2",
@@ -2624,6 +2705,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Suprafață parc: 29 km²", "Anul înființării: 1860", "Lungime pistă: 1,1 km", "Vârf maxim: 241 m (Tammimäki)"],
       en: ["National park area: 29 km²", "Year established: 1860", "Racing track: 1.1 km long", "Highest peak: Tammimäki (241 m)"],
     },
+    image: "/poi-images/finland-joutsa-cities-v2.webp",
   },
   {
     id: "finland-juuka-cities-v2",
@@ -2656,6 +2738,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Export steatit: >40 țări", "Companie principală: Tulikivi", "Suprafață: 1.846 km²", "Vechime sat: din sec. XVI"],
       en: ["Soapstone export: >40 countries", "Main company: Tulikivi", "Total area: 1,846 km²", "Village dates from: 1500s"],
     },
+    image: "/poi-images/finland-juuka-cities-v2.webp",
   },
   {
     id: "finland-juva-cities-v2",
@@ -2688,6 +2771,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Fondată ca parohie în anul 1442", "Populația este de aproximativ 5.800 de locuitori", "Biserica monumentală de granit a fost gata în 1863", "Un pionier în agricultura ecologică din Finlanda", "Suprafața totală este de 1.345 km²", "Traversată de drumul național 5 (Valtatie 5)"],
       en: ["Established as a parish in the year 1442", "Current population is around 5,800 people", "The stone church of Juva was completed in 1863", "Leading area for organic farming in Finland", "Total area spans 1,345 square kilometers", "Home to over 200 lakes within its borders"],
     },
+    image: "/poi-images/finland-juva-cities-v2.webp",
   },
   {
     id: "finland-jylhama-cities-v2",
@@ -2720,6 +2804,7 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Hidrocentrala a fost inaugurată în 1951", "Diferența de nivel a apei este de 11-14 metri", "Face parte din punct de vedere administrativ din Vaala", "Este prima centrală pe cursul râului Oulujoki", "Proiectată de arhitectul modernist Aarne Ervi", "Reglează fluxul de apă din lacul Oulujärvi"],
       en: ["The hydroelectric plant began operation in 1951", "Features a water head (fall) of 11 to 14 meters", "Located within the municipality of Vaala", "First power station in the Oulujoki river cascade", "Designed by renowned architect Aarne Ervi", "Critical for regulating the water level of Lake Oulujärvi"],
     },
+    image: "/poi-images/finland-jylhama-cities-v2.webp",
   },
   {
     id: "finland-jyvaskylan-maaseutu-cities-v2",
@@ -2752,5 +2837,6 @@ export const finlandCitiesV2: POI[] = [
       ro: ["Avioane în muzeu: peste 30", "Adâncime lac: 95 m (Päijänne)", "Biserică UNESCO la: 10 km", "Sediul aviației din: anii '40"],
       en: ["Museum aircraft: >30 planes", "Lake Päijänne depth: 95 m", "UNESCO church distance: 10 km", "Air Force HQ since: 1940s"],
     },
+    image: "/poi-images/finland-jyvaskylan-maaseutu-cities-v2.webp",
   }
 ];

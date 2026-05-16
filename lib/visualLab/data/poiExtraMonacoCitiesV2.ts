@@ -32,6 +32,7 @@ export const monacoCitiesV2: POI[] = [
       ro: ["Situat la granița cu Beausoleil", "Subdiviziune a Jardin Exotique", "Predomină ansamblurile rezidențiale", "Dezvoltare majoră în anii 1970", "Axă vizuală spre Port Hercule", "Poziție înaltă deasupra coastei"],
       en: ["Located on the border of Beausoleil", "Part of the Jardin Exotique ward", "Modern residential apartment blocks", "Main development in the 1970s era", "Clear sightlines to Port Hercule", "Elevated position above sea level"],
     },
+    image: "/poi-images/monaco-jardin-val-thore-cities-v2.webp",
   },
   {
     id: "monaco-les-revoires-cities-v2",
@@ -64,6 +65,7 @@ export const monacoCitiesV2: POI[] = [
       ro: ["Cel mai înalt punct din Monaco, 161 m", "Suprafața totală este de 0,075 km²", "Cea mai abruptă zonă a principatului", "Găzduiește Jardin Exotique", "Populație de aproximativ 2.500 loc.", "Locația unor reședințe de lux"],
       en: ["Highest point in Monaco at 161m", "Total land area is 0.075 km2", "Steepest incline in the Principality", "Home to the famous Exotic Garden", "Population approx 2,500 residents", "Site of multiple luxury residences"],
     },
+    image: "/poi-images/monaco-les-revoires-cities-v2.webp",
   },
   {
     id: "monaco-moneghetti-cities-v2",
@@ -96,5 +98,6 @@ export const monacoCitiesV2: POI[] = [
       ro: ["Poziționat în zona nord-centrală", "Biserica Sacré-Cœur ridicată în 1913", "Suprafață de circa 0,10 km²", "Se învecinează cu riviera franceză", "Cartier în stil Belle Époque", "Apropierea de gara Monte Carlo"],
       en: ["Located in the north-central area", "Sacred Heart Church built in 1913", "Total area approx 0.10 km2", "Borders the French Riviera directly", "Belle Époque architectural style", "Proximity to Monte Carlo station"],
     },
+    image: "/poi-images/monaco-moneghetti-cities-v2.webp",
   }
 ];

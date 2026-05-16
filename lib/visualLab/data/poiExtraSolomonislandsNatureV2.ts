@@ -31,6 +31,7 @@ export const solomonislandsNatureV2: POI[] = [
       ro: ["La 2335 de metri, este cel mai înalt vârf dintre toate insulele din Pacificul de Sud la est de Noua Guinee.", "Muntele este situat în provincia Guadalcanal, în zonele muntoase centrale.", "Temperatura medie la vârf poate scădea sub 10 grade Celsius în timpul nopții.", "Este compus în principal din roci vulcanice bazaltice și andezitice.", "Pădurile de nori de pe versanți adăpostesc rara pasăre mâncătoare de miere de Guadalcanal.", "Expedițiile științifice către vârf au avut loc abia la sfârșitul secolului al XX-lea."],
       en: ["At 2,335 meters, it is the highest peak in the South Pacific islands east of New Guinea.", "The mountain is located within the central highlands of Guadalcanal Province.", "Ambient temperatures near the summit can drop below 10 degrees Celsius at night.", "The geological structure consists mainly of basaltic and andesitic volcanic rocks.", "The montane cloud forests are the primary habitat for the rare Guadalcanal honeyeater.", "Formal scientific biological surveys of the summit were not conducted until late in the 20th century."],
     },
+    image: "/poi-images/solomonislands-mount-popomanaseu-nature-v2.webp",
   },
   {
     id: "solomonislands-lake-te-nggano-nature-v2",
@@ -62,6 +63,7 @@ export const solomonislandsNatureV2: POI[] = [
       ro: ["Lacul ocupă aproximativ 20% din întreaga suprafață terestră a insulei Rennell.", "Cu o lungime de 29 de kilometri, este cel mai mare lac din Oceania.", "UNESCO a declarat zona sit al Patrimoniului Mondial în anul 1998.", "Șarpele de mare de Rennell (Laticauda crockeri) trăiește exclusiv în acest lac.", "În lac se află numeroase insule calcaroase mici, care sunt locuri de cuibărit pentru păsări.", "Adâncimea apei atinge în unele locuri până la 40 de metri."],
       en: ["The lake occupies about 20 percent of the total land area of Rennell Island.", "Measuring 29 kilometers in length, it is the largest lake in the insular Pacific.", "UNESCO designated the area as a World Heritage site in 1998.", "The Rennell sea snake (Laticauda crockeri) is endemic and found nowhere else on Earth.", "The lake contains numerous small limestone islets that serve as critical bird rookeries.", "The average water depth reaches up to 40 meters in certain sections of the lake."],
     },
+    image: "/poi-images/solomonislands-lake-te-nggano-nature-v2.webp",
   },
   {
     id: "solomonislands-kolombangara-nature-v2",
@@ -93,6 +95,7 @@ export const solomonislandsNatureV2: POI[] = [
       ro: ["Diametrul insulei, aproape perfect rotunde, este de aproximativ 30 de kilometri.", "Muntele Veve este, la 1770 de metri, cel mai înalt vulcan stins din Insulele Solomon.", "Există peste 80 de râuri și pârâuri pe insulă.", "Insula face parte din grupul Insulelor New Georgia.", "În al Doilea Război Mondial, japonezii au construit aici un aerodrom important lângă Vila.", "Fundația pentru Conservarea Insulei Kolombangara (KICF) administrează zonele protejate."],
       en: ["The diameter of this nearly perfectly circular island is approximately 30 kilometers.", "Mount Veve is the highest extinct volcano in the Solomon Islands at 1,770 meters.", "The island features more than 80 distinct rivers and streams.", "It is part of the New Georgia Group of islands in the Western Province.", "During World War II, the Imperial Japanese Army constructed a significant airstrip at Vila.", "The Kolombangara Island Conservation Foundation (KICF) manages the island's vast protected areas."],
     },
+    image: "/poi-images/solomonislands-kolombangara-nature-v2.webp",
   },
   {
     id: "solomonislands-kavachi-volcano-nature-v2",
@@ -124,6 +127,7 @@ export const solomonislandsNatureV2: POI[] = [
       ro: ["Prima înregistrare oficială a unei erupții datează din anul 1939.", "Vulcanul se află la aproximativ 30 de kilometri sud de insula Vangunu.", "Vârful vulcanului se află de obicei la aproximativ 20 de metri sub suprafața mării.", "În 2015, rechini vii au fost filmați în craterul vulcanului activ.", "Erupțiile creează adesea insule plutitoare de piatră ponce.", "Numele Kavachi provine de la un zeu al mării al locuitorilor Insulelor New Georgia."],
       en: ["The first scientifically documented eruption of Kavachi occurred in 1939.", "The volcano is situated roughly 30 kilometers south of Vangunu Island.", "The summit typically rests approximately 20 meters below the surface of the ocean.", "In 2015, National Geographic researchers filmed sharks thriving inside the active crater.", "Eruptions often produce large rafts of floating pumice that drift across the Pacific.", "Kavachi is named after a sea god of the New Georgia Island indigenous people."],
     },
+    image: "/poi-images/solomonislands-kavachi-volcano-nature-v2.webp",
   },
   {
     id: "solomonislands-lau-lagoon-nature-v2",
@@ -155,6 +159,7 @@ export const solomonislandsNatureV2: POI[] = [
       ro: ["În lagună există peste 60 de insule create artificial.", "Laguna se întinde pe o lungime de aproximativ 35 de kilometri.", "Banii din scoici din Laguna Lau sunt folosiți și astăzi pentru plata prețului miresei.", "Casele de pe insulele artificiale sunt adesea construite pe piloni.", "Locuitorii aparțin grupului etnolingvistic Lau.", "Tradițional, societatea din lagună este organizată strict patriliniar."],
       en: ["There are more than 60 man-made artificial islands scattered within the lagoon.", "The lagoon spans a total length of approximately 35 kilometers along Malaita's coast.", "Traditional shell money produced here is still utilized for dowries and ceremonial fines.", "Homes on the artificial islands are frequently elevated on stilts for flood protection.", "The indigenous population belongs to the Lau ethnolinguistic group.", "The social structure of the lagoon dwellers is traditionally and strictly patrilineal."],
     },
+    image: "/poi-images/solomonislands-lau-lagoon-nature-v2.webp",
   },
   {
     id: "solomonislands-mount-makarakomburu-nature-v2",
@@ -186,6 +191,7 @@ export const solomonislandsNatureV2: POI[] = [
       ro: ["Înălțimea oficială este menționată de obicei ca fiind de 2310 metri.", "Muntele se află la doar câțiva kilometri sud de Muntele Popomanaseu.", "Face parte din lanțul muntos central al insulei Guadalcanal.", "Flora cuprinde numeroase specii rare de mușchi și ferigi de munte.", "Terenul este caracterizat de defilee adânci și creste ascuțite.", "Cantitatea anuală de precipitații din această regiune este printre cele mai mari din Insulele Solomon."],
       en: ["The official elevation of Mount Makarakomburu is established at 2,310 meters.", "The mountain is located just a few kilometers south of Mount Popomanaseu.", "It forms a core part of the central mountain range of Guadalcanal.", "The local flora includes several species of rare montane mosses and tree ferns.", "The topography is defined by sharp ridgelines and extremely deep ravines.", "The area receives some of the highest annual rainfall levels in the entire archipelago."],
     },
+    image: "/poi-images/solomonislands-mount-makarakomburu-nature-v2.webp",
   },
   {
     id: "solomonislands-bauro-highlands-nature-v2",
@@ -217,6 +223,7 @@ export const solomonislandsNatureV2: POI[] = [
       ro: ["Makira este cea mai estică dintre insulele mari ale Arhipelagului Solomon.", "Bauro Highlands găzduiesc peste 10 specii de păsări endemice.", "Cele mai înalte vârfuri din zonele muntoase ating aproximativ 1000 de metri deasupra nivelului mării.", "Dialectul Bauro este una dintre limbile principale ale regiunii.", "Solurile sunt compuse în principal din pământ vulcanic fertil și calcar.", "Există demersuri pentru a desemna părți din zonele înalte ca rezervație naturală oficială."],
       en: ["Makira is the easternmost of the major islands in the Solomon Islands archipelago.", "The Bauro Highlands are home to more than 10 bird species endemic to the island.", "The highest elevations in the highlands reach approximately 1,000 meters above sea level.", "The Bauro dialect is one of the primary languages spoken in this mountainous region.", "The geology consists of a complex mix of fertile volcanic soils and limestone outcrops.", "Local and international efforts are underway to establish a formal protected area in the highlands."],
     },
+    image: "/poi-images/solomonislands-bauro-highlands-nature-v2.webp",
   },
   {
     id: "solomonislands-ghizo-island-nature-v2",
@@ -248,6 +255,7 @@ export const solomonislandsNatureV2: POI[] = [
       ro: ["Gizo este al doilea oraș ca mărime din Insulele Solomon.", "Insula are o lungime de numai aproximativ 11 kilometri și o lățime de 5 kilometri.", "Tsunami-ul din 2007 a atins o înălțime de peste 5 metri pe coasta insulei Ghizo.", "Epava Toa Maru se află la o adâncime cuprinsă între 7 și 37 de metri.", "Piața din Gizo este faimoasă pentru peștele proaspăt și artizanatul tradițional.", "Aeroportul intern este situat pe insula vecină Nusatupe."],
       en: ["Gizo is the second-largest urban center in the Solomon Islands.", "The island measures approximately 11 kilometers in length and 5 kilometers in width.", "The 2007 tsunami reached heights of over 5 meters along the Ghizo coastline.", "The Toa Maru wreck is a 140-meter long ship resting between 7 and 37 meters deep.", "The Gizo market is a regional hub for fresh seafood and traditional wood carvings.", "The island's airstrip is located on the adjacent coral islet of Nusatupe."],
     },
+    image: "/poi-images/solomonislands-ghizo-island-nature-v2.webp",
   },
   {
     id: "solomonislands-uepi-island-nature-v2",
@@ -279,6 +287,7 @@ export const solomonislandsNatureV2: POI[] = [
       ro: ["Uepi se află la aproximativ 25 de minute de zbor de orașul Seghe.", "Insula este mărginită pe o parte de pasajul 'The Slot', adânc de 600 de metri.", "Laguna Marovo se află pe lista indicativă pentru patrimoniul mondial UNESCO.", "Temperatura apei este constantă între 28 și 30 de grade pe tot parcursul anului.", "Nu există locuitori permanenți în afară de personalul complexului turistic.", "Rechinii de recif și baracudele sunt observate regulat direct de pe ponton."],
       en: ["Uepi is located approximately 25 minutes by light aircraft from Seghe.", "The island is flanked on one side by 'The Slot,' a 600-meter deep oceanic trench.", "Marovo Lagoon is currently on the tentative list for UNESCO World Heritage status.", "Water temperatures remain exceptionally stable between 28 and 30 degrees Celsius year-round.", "The island has no permanent local population other than the eco-resort staff.", "Reef sharks and schools of barracuda are frequently sighted directly from the main jetty."],
     },
+    image: "/poi-images/solomonislands-uepi-island-nature-v2.webp",
   },
   {
     id: "solomonislands-manning-strait-nature-v2",
@@ -310,6 +319,7 @@ export const solomonislandsNatureV2: POI[] = [
       ro: ["Strâmtoarea are o lățime de aproximativ 10 kilometri în cel mai îngust punct.", "Conectează Marea Solomon cu Oceanul Pacific deschis.", "Numeroase epave de nave și avioane din al Doilea Război Mondial se află în regiune.", "Strâmtoarea Manning găzduiește una dintre cele mai mari zone de iarbă de mare din Insulele Solomon.", "Curenții de maree puternici pot atinge viteze de câțiva noduri.", "Regiunea este o destinație importantă pentru monitorizarea dugongilor."],
       en: ["The strait measures approximately 10 kilometers across at its narrowest point.", "It provides a maritime link between the Solomon Sea and the open Pacific Ocean.", "The area is a graveyard for numerous sunken ships and aircraft from World War II.", "Manning Strait contains some of the most extensive seagrass habitats in the country.", "Powerful tidal currents in the strait can frequently exceed several knots.", "The strait is a key site for regional conservation monitoring of the vulnerable dugong."],
     },
+    image: "/poi-images/solomonislands-manning-strait-nature-v2.webp",
   },
   {
     id: "solomonislands-indispensable-strait-nature-v2",
@@ -341,6 +351,7 @@ export const solomonislandsNatureV2: POI[] = [
       ro: ["Strâmtoarea are o lungime de aproximativ 200 de kilometri și o lățime de până la 50 de kilometri.", "A fost cartografiată oficial pentru lumea occidentală în anul 1790.", "Adâncimea apei în mijlocul strâmtorii depășește adesea 1000 de metri.", "Pasajul este cunoscut pentru vânturile puternice din sud-est din mai până în octombrie.", "În al Doilea Război Mondial, a făcut parte din ruta 'Tokyo Express'.", "Porturi importante precum Honiara și Auki sunt conectate prin această strâmtoare."],
       en: ["The Indispensable Strait spans roughly 200 kilometers in length and 50 kilometers in width.", "It was formally charted for Western navigation by William Sharp in the year 1790.", "Oceanic depths within the center of the strait frequently exceed 1,000 meters.", "The passage is prone to heavy swells and strong southeasterly winds from May to October.", "During World War II, the strait was a strategic component of the 'Tokyo Express' supply route.", "The maritime traffic between major ports like Honiara and Auki relies on this strait."],
     },
+    image: "/poi-images/solomonislands-indispensable-strait-nature-v2.webp",
   },
   {
     id: "solomonislands-florida-islands-nature-v2",
@@ -372,5 +383,6 @@ export const solomonislandsNatureV2: POI[] = [
       ro: ["Tulagi a fost capitala Insulelor Solomon între 1893 și 1942.", "Arhipelagul aparține administrativ de Provincia Centrală.", "Nggela Sule este cea mai mare insulă din acest grup.", "Regiunea se învecinează cu strâmtoarea strategică Ironbottom Sound.", "Apele din jur conțin numeroase epave de nave din anul 1942.", "Solurile insulelor sunt bogate în fier datorită originilor vulcanice."],
       en: ["Tulagi served as the capital of the Solomon Islands from 1893 to 1942.", "The island group belongs to the Central Province of the country.", "Nggela Sule is the largest island in terms of land area in the group.", "The islands border the strategically important Ironbottom Sound.", "The surrounding waters contain numerous shipwrecks dating from 1942.", "The islands' soil is highly ferruginous due to their volcanic origins."],
     },
+    image: "/poi-images/solomonislands-florida-islands-nature-v2.webp",
   }
 ];

@@ -31,6 +31,7 @@ export const republicofcongoNatureV2: POI[] = [
       ro: ["Râul are o lungime totală de aproximativ 560 de kilometri.", "Gura de vărsare este situată în apropiere de Pointe-Noire.", "Este navigabil în cursul său inferior.", "Râul formează chei adânci în masivul Mayombe.", "Există planuri pentru hidrocentrale mari pe acest râu.", "Kouilou este bogat în specii de somn și biban."],
       en: ["The river has a total length of approximately 560 kilometers.", "The estuary is located near the city of Pointe-Noire.", "The lower course is navigable for significant distances.", "The river carves deep gorges through the Mayombe massif.", "Plans exist for major hydroelectric projects on the river.", "The Kouilou is rich in catfish and perch species."],
     },
+    image: "/poi-images/republicofcongo-kouilou-river-nature-v2.webp",
   },
   {
     id: "republicofcongo-djoukou-plateau-nature-v2",
@@ -62,6 +63,7 @@ export const republicofcongoNatureV2: POI[] = [
       ro: ["Platoul se află la o altitudine de 400 până la 600 de metri.", "Solurile sunt extrem de permeabile pentru apa de ploaie.", "Predomină o vegetație tipică de pajiști.", "Regiunea este foarte slab populată.", "Aici se găsesc mușuroaie de termite caracteristice.", "Climatul este marcat de diferențe mari de temperatură zi-noapte."],
       en: ["The plateau sits at an elevation of 400 to 600 meters.", "The soils are extremely permeable to rainwater.", "Typical grassland vegetation dominates the landscape.", "The region is very sparsely populated.", "Characteristic giant termite mounds are found here.", "The climate is marked by significant day-night temperature shifts."],
     },
+    image: "/poi-images/republicofcongo-djoukou-plateau-nature-v2.webp",
   },
   {
     id: "republicofcongo-djouan-falls-nature-v2",
@@ -93,6 +95,7 @@ export const republicofcongoNatureV2: POI[] = [
       ro: ["Cascada are o înălțime de aproximativ 30 de metri.", "Este situată în regiunea Pool.", "Vaporii de apă sunt vizibili de la kilometri distanță.", "Stâncile sunt formate în principal din gresie.", "Debitul de apă este maxim în timpul sezonului ploios.", "În apropiere cresc orhidee endemice."],
       en: ["The waterfall has a height of approximately 30 meters.", "It is located in the Pool region.", "The spray is visible from kilometers away.", "The rocks consist primarily of sandstone.", "Water flow is at its peak during the rainy season.", "Endemic orchid species grow in the vicinity."],
     },
+    image: "/poi-images/republicofcongo-djouan-falls-nature-v2.webp",
   },
   {
     id: "republicofcongo-lifoula-river-nature-v2",
@@ -124,6 +127,7 @@ export const republicofcongoNatureV2: POI[] = [
       ro: ["Râul este situat la nord de Brazzaville.", "Este un loc important de reproducere pentru tilapia.", "Curentul este liniștit pe tot parcursul anului.", "Cursul râului are o lungime de aproximativ 80 km.", "Pe maluri se află numeroase mici plantații de banane.", "Canoele mici sunt folosite pentru comerțul local."],
       en: ["The river is located north of Brazzaville.", "It is a significant breeding ground for tilapia fish.", "The current remains calm throughout the year.", "The river's course is approximately 80 kilometers long.", "Numerous small banana plantations line its banks.", "Small canoes are used for local trade along the river."],
     },
+    image: "/poi-images/republicofcongo-lifoula-river-nature-v2.webp",
   },
   {
     id: "republicofcongo-lakou-lake-nature-v2",
@@ -155,6 +159,7 @@ export const republicofcongoNatureV2: POI[] = [
       ro: ["Lacul este situat pe platoul Likouala.", "Servește ca rezervor natural pentru apa de ploaie.", "Regiunea este cunoscută pentru precipitațiile foarte mari.", "Pescarii folosesc plase din fibre vegetale.", "Lacul este habitatul peștelui cu plămâni.", "Împrejurimile sunt aproape nelocuite."],
       en: ["The lake is located on the Likouala plateau.", "It serves as a natural reservoir for rainwater.", "The region is known for extremely high rainfall levels.", "Fishers use nets made from natural plant fibers.", "The lake is home to the African lungfish.", "The surrounding area is almost entirely uninhabited."],
     },
+    image: "/poi-images/republicofcongo-lakou-lake-nature-v2.webp",
   },
   {
     id: "republicofcongo-divenie-river-nature-v2",
@@ -186,6 +191,7 @@ export const republicofcongoNatureV2: POI[] = [
       ro: ["Afluent al râului Niari în sud-vest", "Traversează departamentul Niari", "Situat aproape de granița cu Gabon", "Înconjurat de păduri tropicale", "Definește hidrografia locală", "Face parte din bazinul Atlanticului"],
       en: ["Tributary of the Niari River", "Located in the Niari Department", "Situated near the Gabon border", "Surrounded by tropical rainforest", "Shapes the local drainage basin", "Part of the Atlantic drainage system"],
     },
+    image: "/poi-images/republicofcongo-divenie-river-nature-v2.webp",
   },
   {
     id: "republicofcongo-djoumouna-river-nature-v2",
@@ -217,6 +223,7 @@ export const republicofcongoNatureV2: POI[] = [
       ro: ["Situat lângă orașul Brazzaville", "Destinație populară pentru recreere", "Cunoscut pentru apele sale limpezi", "Se varsă în sistemul râului Congo", "Oferă habitat pentru specii locale de pești", "Loc important pentru educația ecologică"],
       en: ["Located near the city of Brazzaville", "Popular destination for local recreation", "Known for its clear river water", "Flows into the Congo River system", "Provides habitat for local fish species", "Important site for environmental awareness"],
     },
+    image: "/poi-images/republicofcongo-djoumouna-river-nature-v2.webp",
   },
   {
     id: "republicofcongo-leketi-nature-v2",
@@ -248,6 +255,7 @@ export const republicofcongoNatureV2: POI[] = [
       ro: ["Situată în departamentul Plateaux", "Parte a sistemului Podișului Batéké", "Caracterizată de savane întinse", "Râul Leketi este vital pentru regiune", "Altitudinea depășește adesea 400 de metri", "Marcată de structuri de sol nisipos"],
       en: ["Located in the Plateaux Department", "Part of the Batéké Plateau system", "Characterized by extensive savannas", "Leketi River is the primary water source", "Elevation often exceeds 400 meters", "Defined by sandy soil structures"],
     },
+    image: "/poi-images/republicofcongo-leketi-nature-v2.webp",
   },
   {
     id: "republicofcongo-nkeni-river-nature-v2",
@@ -279,6 +287,7 @@ export const republicofcongoNatureV2: POI[] = [
       ro: ["Afluent de dreapta al fluviului Congo", "Izvorăște din Podișul Batéké", "Trece prin orașul Gamboma", "Cale navigabilă importantă pentru transport", "Curge prin departamentul Plateaux", "Vărsarea este la sud de Makotimpoko"],
       en: ["Right-bank tributary of the Congo River", "Originates on the Batéké Plateau", "Passes through the town of Gamboma", "Important waterway for transport", "Flows through the Plateaux Department", "Confluence is south of Makotimpoko"],
     },
+    image: "/poi-images/republicofcongo-nkeni-river-nature-v2.webp",
   },
   {
     id: "republicofcongo-loulou-falls-nature-v2",
@@ -310,6 +319,7 @@ export const republicofcongoNatureV2: POI[] = [
       ro: ["Situate în sudul Republicii Congo", "Localizate în apropierea orașului Boko", "Înconjurate de floră tropicală", "Parte a peisajului fluvial cu cataracte", "Debit impresionant în timpul sezonului ploios", "Punct important pentru ecoturismul local"],
       en: ["Located in southern Congo", "Situated near the town of Boko", "Surrounded by tropical flora", "Part of the rapid-rich river landscape", "High water volume during the rainy season", "Significant site for local ecotourism"],
     },
+    image: "/poi-images/republicofcongo-loulou-falls-nature-v2.webp",
   },
   {
     id: "republicofcongo-lekoumou-river-nature-v2",
@@ -341,6 +351,7 @@ export const republicofcongoNatureV2: POI[] = [
       ro: ["Dă numele departamentului Lékoumou", "Curge prin sud-vestul țării", "Înconjurat de pădure tropicală primară", "Sursă importantă pentru comunitățile locale", "Se varsă în râul Kouilou-Niari", "Susține o faună acvatică diversă"],
       en: ["Eponym for the Lékoumou Department", "Flows through the southwestern part of the country", "Surrounded by primary rainforest", "Vital resource for local communities", "Discharges into the Kouilou-Niari River", "Supports a diverse aquatic fauna"],
     },
+    image: "/poi-images/republicofcongo-lekoumou-river-nature-v2.webp",
   },
   {
     id: "republicofcongo-mpouya-forest-nature-v2",
@@ -372,6 +383,7 @@ export const republicofcongoNatureV2: POI[] = [
       ro: ["Situată pe malul drept al fluviului Congo", "Parte a departamentului Plateaux", "Combinație de pădure și zone umede", "Habitat important pentru primate", "Localizată lângă orașul Mpouya", "Protejează malurile împotriva eroziunii"],
       en: ["Located on the right bank of the Congo", "Part of the Plateaux Department", "Combination of forest and wetlands", "Crucial habitat for primates", "Situated near the town of Mpouya", "Protects riverbanks from erosion"],
     },
+    image: "/poi-images/republicofcongo-mpouya-forest-nature-v2.webp",
   },
   {
     id: "republicofcongo-niari-valley-nature-v2",
@@ -403,6 +415,7 @@ export const republicofcongoNatureV2: POI[] = [
       ro: ["Centrul agricol al țării", "Principala zonă de cultivare a trestiei de zahăr", "Traversată de râul Niari-Kouilou", "Caracterizată de soluri aluvionare fertile", "Coridor de transport important către Pointe-Noire", "Găzduiește mari ferme de creștere a bovinelor"],
       en: ["Agricultural heartland of the country", "Main sugarcane production area", "Traversed by the Niari-Kouilou River", "Characterized by fertile alluvial soils", "Major transport axis to Pointe-Noire", "Home to significant cattle ranching"],
     },
+    image: "/poi-images/republicofcongo-niari-valley-nature-v2.webp",
   },
   {
     id: "republicofcongo-ouesso-river-nature-v2",
@@ -434,6 +447,7 @@ export const republicofcongoNatureV2: POI[] = [
       ro: ["Parte a sistemului râului Sangha", "Ouesso este un port fluvial important", "Aproape de granița cu Camerun", "Rută de transport pentru lemn tropical", "Bogat în specii de somn și cichlidae", "Se varsă în fluviul Congo mai la sud"],
       en: ["Part of the Sangha River system", "Ouesso is a significant river port", "Located near the Cameroon border", "Transport route for valuable tropical timber", "Rich in catfish and cichlid species", "Merges with the Congo River further south"],
     },
+    image: "/poi-images/republicofcongo-ouesso-river-nature-v2.webp",
   },
   {
     id: "republicofcongo-djoum-river-nature-v2",
@@ -465,6 +479,7 @@ export const republicofcongoNatureV2: POI[] = [
       ro: ["Curge prin nordul bazinului Congo", "Înconjurat de pădure primară densă", "Parte a bazinului hidrografic Sangha", "Coridor important pentru fauna sălbatică", "Puțin explorat și virgin", "Susține ecosistemele locale"],
       en: ["Flows through the northern Congo Basin", "Surrounded by dense primary forest", "Part of the Sangha drainage basin", "Important corridor for wildlife", "Little developed and pristine", "Supports local ecosystems"],
     },
+    image: "/poi-images/republicofcongo-djoum-river-nature-v2.webp",
   },
   {
     id: "republicofcongo-lenge-lake-nature-v2",
@@ -496,6 +511,7 @@ export const republicofcongoNatureV2: POI[] = [
       ro: ["Lac de apă dulce în bazinul Congo", "Habitat pentru numeroase păsări migratoare", "Prezintă fluctuații sezoniere de nivel", "Înconjurat de vegetație de mlaștină", "Sursă importantă de proteine prin pescuit", "Adesea accesibil doar cu barca"],
       en: ["Freshwater lake in the Congo Basin", "Habitat for numerous migratory birds", "Subject to seasonal level fluctuations", "Surrounded by swamp vegetation", "Major protein source through fishing", "Often accessible only by boat"],
     },
+    image: "/poi-images/republicofcongo-lenge-lake-nature-v2.webp",
   },
   {
     id: "republicofcongo-kibangou-forest-nature-v2",
@@ -527,6 +543,7 @@ export const republicofcongoNatureV2: POI[] = [
       ro: ["Parte a masivului forestier Mayombe", "Situată în departamentul Niari", "Cunoscută pentru specii de arbori valoroși", "Adăpostește elefanți de pădure rari", "Topografia deluroasă definește peisajul", "Bazin hidrografic important"],
       en: ["Part of the Mayombe forest massif", "Located in the Niari Department", "Known for valuable timber species", "Home to rare forest elephants", "Hilly topography defines the area", "Important water catchment zone"],
     },
+    image: "/poi-images/republicofcongo-kibangou-forest-nature-v2.webp",
   },
   {
     id: "republicofcongo-sese-river-nature-v2",
@@ -558,6 +575,7 @@ export const republicofcongoNatureV2: POI[] = [
       ro: ["Curge peste Podișul Batéké", "Caracterizat de ape limpezi", "Se varsă în afluenți mai mari ai Congoului", "Regiunile riverane sunt diverse biologic", "Important pentru irigațiile locale", "Parte a sistemului fluvial central african"],
       en: ["Flows across the Batéké Plateau", "Characterized by clear water", "Merges into larger Congo tributaries", "Riparian zones are biologically diverse", "Important for local irrigation", "Part of the Central African river system"],
     },
+    image: "/poi-images/republicofcongo-sese-river-nature-v2.webp",
   },
   {
     id: "republicofcongo-loni-lake-nature-v2",
@@ -589,6 +607,7 @@ export const republicofcongoNatureV2: POI[] = [
       ro: ["Ecosistem de apă dulce în interiorul țării", "Înconjurat de junglă densă", "Sursă pentru pescuitul local", "Găzduiește diverse specii de reptile", "Loc important de odihnă pentru păsări", "Susține microclimatul local"],
       en: ["Inland freshwater ecosystem", "Surrounded by dense jungle", "Source for local fishing", "Home to various reptile species", "Important resting site for birds", "Supports the local microclimate"],
     },
+    image: "/poi-images/republicofcongo-loni-lake-nature-v2.webp",
   },
   {
     id: "republicofcongo-mpama-river-nature-v2",
@@ -620,5 +639,6 @@ export const republicofcongoNatureV2: POI[] = [
       ro: ["Curge prin departamentul Cuvette", "Afluent al sistemului fluviului Congo", "Traversează păduri mlăștinoase întinse", "Habitat pentru hipopotami și crocodili", "Important pentru transportul fluvial regional", "Susține o biodiversitate acvatică bogată"],
       en: ["Flows through the Cuvette Department", "Tributary of the Congo River system", "Traverses extensive swamp forests", "Habitat for hippos and crocodiles", "Crucial for regional water transport", "Supports rich aquatic biodiversity"],
     },
+    image: "/poi-images/republicofcongo-mpama-river-nature-v2.webp",
   }
 ];

@@ -31,6 +31,7 @@ export const micronesiaReliefV2: POI[] = [
       ro: ["Cel mai înalt punct din Yap, având 178 de metri", "Locație pentru foste poziții antiaeriene japoneze", "Vârful oferă vedere spre cele patru municipalități", "Flora include orhidee rare și ferigi endemice", "Drumeția până la vârf durează aproximativ 45 de minute", "Găzduiește facilități importante de comunicații"],
       en: ["Highest point on Yap, rising 178 meters above sea level", "Site of former Japanese anti-aircraft installations", "The summit provides views of Yap's four municipalities", "Flora includes rare orchids and tropical ferns", "The hike to the summit takes approximately 45 minutes", "Host to critical local radio and communication towers"],
     },
+    image: "/poi-images/micronesia-mount-tabiwol-relief-v2.webp",
   },
   {
     id: "micronesia-mount-ngihnen-relief-v2",
@@ -62,6 +63,7 @@ export const micronesiaReliefV2: POI[] = [
       ro: ["Considerat unul dintre cele mai umede locuri de pe Glob", "Zona de vârf găzduiește palmierul endemic de Pohnpei", "Format din roci masive de bazalt vulcanic", "Parte a lanțului muntos central de pe insulă", "Sursă vitală de apă pentru râurile din Pohnpei", "Ascensiunea este dificilă din cauza umidității constante"],
       en: ["Considered one of the wettest locations on Earth", "The summit area hosts the endemic Pohnpei palm tree", "Formed from massive volcanic basalt rock formations", "Part of the rugged central mountain range of Pohnpei", "A vital watershed for the island's many rivers", "Climbing is challenging due to constant wet conditions"],
     },
+    image: "/poi-images/micronesia-mount-ngihnen-relief-v2.webp",
   },
   {
     id: "micronesia-sleeping-lady-relief-v2",
@@ -93,6 +95,7 @@ export const micronesiaReliefV2: POI[] = [
       ro: ["Formațiunea include muntele Mutunte de 589 de metri", "Simbol al insulei, reprezentat frecvent în artă", "Silueta este vizibilă cel mai clar din zona Lelu", "Formată din roci vulcanice în ultimele milioane de ani", "Păduri tropicale dense acoperă întreaga siluetă", "Cel mai important punct de reper cultural pentru localnici"],
       en: ["The formation includes Mount Mutunte, rising 589 meters", "Central symbol of the island featured in local art", "The silhouette is most distinct when viewed from Lelu", "Formed by volcanic activity millions of years ago", "Dense rainforests cover the entire mountain profile", "Primary landmark for the cultural identity of Kosrae"],
     },
+    image: "/poi-images/micronesia-sleeping-lady-relief-v2.webp",
   },
   {
     id: "micronesia-mount-teroken-relief-v2",
@@ -124,6 +127,7 @@ export const micronesiaReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf din Weno, având circa 364 metri", "Adăpostește numeroase tuneluri japoneze din 1944", "Oferă o panoramă de 360 de grade asupra lagunei", "Traseul pornește de obicei din apropierea satului Sapuk", "Origine vulcanică cu formațiuni de bazalt vizibile", "Locație strategică pentru antene de telecomunicații"],
       en: ["Highest peak on Weno island, at approx. 364 meters", "Contains numerous Japanese tunnels built in 1944", "Provides a 360-degree view over the Chuuk Lagoon", "The hiking trail often begins near Sapuk village", "Volcanic in origin with prominent basalt formations", "Strategically located for telecommunication towers"],
     },
+    image: "/poi-images/micronesia-mount-teroken-relief-v2.webp",
   },
   {
     id: "micronesia-mount-oma-relief-v2",
@@ -155,6 +159,7 @@ export const micronesiaReliefV2: POI[] = [
       ro: ["Atinge o altitudine de 476 de metri deasupra mării", "Traseele de drumeție traversează pădurea virgină", "Ruinele Menke se află în imediata sa apropiere", "Găzduiește multe specii de păsări endemice din Kosrae", "Format din materiale vulcanice vechi din punct de vedere geologic", "Parte esențială a bazinului hidrografic al insulei"],
       en: ["Reaches an elevation of 476 meters above sea level", "Hiking trails traverse through pristine rainforest", "Located near the significant ancient Menke Ruins", "Habitat for many of Kosrae's endemic bird species", "Composed of geologically ancient volcanic material", "Forms a crucial part of the island's watershed system"],
     },
+    image: "/poi-images/micronesia-mount-oma-relief-v2.webp",
   },
   {
     id: "micronesia-dolohmwar-relief-v2",
@@ -186,5 +191,6 @@ export const micronesiaReliefV2: POI[] = [
       ro: ["Cel mai înalt punct din țară, având 791 de metri", "Precipitațiile anuale depășesc adesea 8000 mm", "Numele înseamnă 'Muntele Mare' în limba locală", "Format din structuri masive de rocă vulcanică", "Zona centrală a unei importante rezervații hidrologice", "Accesibil doar prin poteci dificile și noroioase"],
       en: ["Highest point in the FSM, rising to 791 meters", "Annual rainfall often exceeds 8,000 millimeters", "The name translates to 'Great Mountain' in Pohnpeian", "Formed from massive volcanic rock structures", "The core zone of a major watershed forest reserve", "Accessible only via strenuous and often muddy trails"],
     },
+    image: "/poi-images/micronesia-dolohmwar-relief-v2.webp",
   }
 ];

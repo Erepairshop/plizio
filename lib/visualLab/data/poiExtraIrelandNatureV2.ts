@@ -32,6 +32,7 @@ export const irelandNatureV2: POI[] = [
       ro: ["Cel mai înalt punct este Keeper Hill la 694 m.", "Activitatea minieră a început în secolul al IX-lea.", "A fost o sursă majoră de zinc până în anul 1982.", "Satul Silvermines este situat la baza sa nordică."],
       en: ["Highest point is Keeper Hill at 694 meters.", "Mining activities date back to the 9th century.", "It was a major source of zinc in Europe until 1982.", "The village of Silvermines sits at its northern base."],
     },
+    image: "/poi-images/ireland-silvermines-mountains-nature-v2.webp",
   },
   {
     id: "ireland-lough-gowna-nature-v2",
@@ -64,6 +65,7 @@ export const irelandNatureV2: POI[] = [
       ro: ["Suprafața lacului este de circa 13 km pătrați.", "Lacul este sursa oficială a râului Erne.", "Găzduiește ruinele unei biserici vechi pe Inchmore.", "Este o destinație celebră pentru pescuitul de știucă."],
       en: ["Surface area covers approximately 13 sq km.", "The lake is the official source of the River Erne.", "Contains the ruins of an ancient church on Inchmore.", "Renowned destination for pike and trout fishing."],
     },
+    image: "/poi-images/ireland-lough-gowna-nature-v2.webp",
   },
   {
     id: "ireland-river-suir-nature-v2",
@@ -96,6 +98,7 @@ export const irelandNatureV2: POI[] = [
       ro: ["Lungimea totală a râului este de 185 kilometri.", "Bazinul hidrografic acoperă circa 3.610 km pătrați.", "Influența mareei ajunge până la Carrick-on-Suir.", "Este renumit pentru populația de păstrăv indigen."],
       en: ["Total length of the river is 185 kilometers.", "The catchment area covers about 3,610 sq km.", "Tidal influence extends up to Carrick-on-Suir.", "Famous for its large population of wild brown trout."],
     },
+    image: "/poi-images/ireland-river-suir-nature-v2.webp",
   },
   {
     id: "ireland-slieve-anierin-nature-v2",
@@ -128,6 +131,7 @@ export const irelandNatureV2: POI[] = [
       ro: ["Vârful se află la 585 metri deasupra mării.", "Muntele este format din gresie și șisturi.", "S-a extras fier de aici între secolele XVII și XIX.", "Oferă panorame spre 7 comitate diferite de pe vârf."],
       en: ["Summit elevation is 585 meters above sea level.", "Formed primarily from sandstone and shale.", "Iron was mined here between the 17th and 19th centuries.", "Offers views of 7 different counties from the top."],
     },
+    image: "/poi-images/ireland-slieve-anierin-nature-v2.webp",
   },
   {
     id: "ireland-galtee-mountains-nature-v2",
@@ -160,6 +164,7 @@ export const irelandNatureV2: POI[] = [
       ro: ["Vârful Galtymore atinge o înălțime de 919 metri.", "Munții se întind pe o distanță de 20 kilometri.", "Relieful este compus în principal din gresie roșie.", "Există cinci lacuri glaciare majore în masiv.", "Pantele nordice sunt marcate de stânci abrupte.", "Lanțul muntos este cel mai înalt din interiorul insulei."],
       en: ["Galtymore is the highest peak at 919 meters.", "The range extends for approximately 20 kilometers.", "It consists primarily of Old Red Sandstone rocks.", "Five glacial corrie lakes are located in the range.", "The mountains formed during the Variscan orogeny.", "Mitchelstown Caves are located at the southern base."],
     },
+    image: "/poi-images/ireland-galtee-mountains-nature-v2.webp",
   },
   {
     id: "ireland-river-lagan-nature-v2",
@@ -192,6 +197,7 @@ export const irelandNatureV2: POI[] = [
       ro: ["Râul are o lungime totală de 60 de kilometri.", "Izvorul se află pe muntele Slieve Croob din Down.", "Se varsă în mare prin estuarul Belfast Lough.", "Canalul Lagan Navigation a fost finalizat în 1763.", "Barajul Lagan Weir a fost construit în anul 1994.", "Râul separă comitatele Antrim și Down în Belfast."],
       en: ["The river flows for a total of 60 kilometers.", "The source is at Slieve Croob in County Down.", "It reaches the sea at the Belfast Lough estuary.", "The Lagan Navigation was constructed from 1763.", "The Lagan Weir was completed in 1994 to control flow.", "It drains a catchment area of 609 square kilometers."],
     },
+    image: "/poi-images/ireland-river-lagan-nature-v2.webp",
   },
   {
     id: "ireland-lough-ergne-nature-v2",
@@ -224,6 +230,7 @@ export const irelandNatureV2: POI[] = [
       ro: ["Lower Lough Erne conține 134 de insule individuale.", "Suprafața lacului inferior este de circa 110 km pătrați.", "Pe insula Devenish există un turn rotund din sec. XII.", "Este al doilea cel mai mare lac din Irlanda de Nord."],
       en: ["Lower Lough Erne contains 134 individual islands.", "The lower lake surface area is about 110 sq km.", "Devenish Island hosts a 12th-century round tower.", "It is the second largest lake system in Northern Ireland."],
     },
+    image: "/poi-images/ireland-lough-ergne-nature-v2.webp",
   },
   {
     id: "ireland-macgillycuddy-reeks-nature-v2",
@@ -256,5 +263,6 @@ export const irelandNatureV2: POI[] = [
       ro: ["Carrauntoohil este cel mai înalt vârf, având 1038 m.", "Include singurele trei vârfuri de peste 1000 m din Irlanda.", "Masivul este format din gresie veche de 400 milioane ani.", "Numele provine de la clanul local Mac Giolla Mo Chuda.", "Se întinde pe o suprafață de circa 100 km pătrați.", "Vârful Beenkeragh are o înălțime de 1010 metri."],
       en: ["Carrauntoohil is Ireland's highest peak at 1038m.", "The range contains all three Irish peaks over 1000m.", "It spans a distance of 19 kilometers in County Kerry.", "The mountains are made of Devonian Old Red Sandstone.", "The name translates as 'The MacGillycuddy's Trenches'.", "Caher is the third highest peak at 1001 meters."],
     },
+    image: "/poi-images/ireland-macgillycuddy-reeks-nature-v2.webp",
   }
 ];

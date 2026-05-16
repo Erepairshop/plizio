@@ -31,6 +31,7 @@ export const palauLifeV2: POI[] = [
       ro: ["Inclus în Patrimoniul UNESCO începând cu anul 2012.", "Cuprinde aproximativ 445 de insule calcaroase.", "Găzduiește cea mai mare concentrație de lacuri marine.", "Adăpostește peste 380 de specii diferite de corali.", "Urme de locuire umană datând din anul 3100 î.Hr.", "Cunoscut pentru aspectul de „ciupercă” al insulelor."],
       en: ["Inscribed as a UNESCO World Heritage site in 2012.", "Comprises approximately 445 individual limestone islands.", "Contains the highest concentration of marine lakes globally.", "Home to over 380 distinct species of coral.", "Human settlement traces date back to 3100 BC.", "Famous for the unique 'mushroom' shape of the islands."],
     },
+    image: "/poi-images/palau-rock-islands-life-v2.webp",
   },
   {
     id: "palau-jellyfish-lake-life-v2",
@@ -62,6 +63,7 @@ export const palauLifeV2: POI[] = [
       ro: ["Adăpostește meduza aurie endemică (Mastigias papua).", "Vârsta lacului este estimată la aproximativ 12.000 de ani.", "Conectat la ocean doar prin fisuri mici în stâncă.", "Snorkelingul este permis, dar scufundările scuba sunt interzise.", "Populația de meduze variază în funcție de condițiile climatice.", "Stratul inferior al lacului este anoxic și toxic."],
       en: ["Home to the endemic golden jellyfish (Mastigias papua).", "The lake is estimated to be around 12,000 years old.", "Connected to the ocean only via tiny rock fissures.", "Snorkeling is permitted, but scuba diving is strictly banned.", "Jellyfish numbers fluctuate based on El Niño cycles.", "The lower layer of the lake is anoxic and hydrogen sulfide-rich."],
     },
+    image: "/poi-images/palau-jellyfish-lake-life-v2.webp",
   },
   {
     id: "palau-lake-ngardok-life-v2",
@@ -93,6 +95,7 @@ export const palauLifeV2: POI[] = [
       ro: ["Suprafața totală a rezervației este de 493 de hectare.", "Principalul rezervor de apă dulce pentru regiune.", "Habitat esențial pentru crocodilul de Palau, o specie rară.", "Adăpostește pasărea endemică evantaiul de Palau.", "Recunoscut ca sit Ramsar de importanță internațională.", "Declarat rezervație naturală în anul 1997."],
       en: ["Covers approximately 493 hectares of protected land.", "The most significant freshwater reservoir in the region.", "Primary habitat for the rare Palauan crocodile.", "Home to the endemic Palau Fantail bird species.", "Recognized as a Ramsar site of international importance.", "Officially established as a nature reserve in 1997."],
     },
+    image: "/poi-images/palau-lake-ngardok-life-v2.webp",
   },
   {
     id: "palau-ngardmau-falls-life-v2",
@@ -124,6 +127,7 @@ export const palauLifeV2: POI[] = [
       ro: ["Înălțimea de cădere este de aproximativ 30 de metri.", "Lățimea cascadei depinde de volumul precipitațiilor.", "Poteca urmează șinele unei vechi mine de bauxită.", "Populară pentru „hidroterapie” sub căderea apei.", "Cel mai înalt punct din Palau se află în apropiere.", "Parte dintr-un proiect de ecoturism al statului Ngardmau."],
       en: ["Total drop height is approximately 30 meters.", "The width of the falls expands significantly during rains.", "The trail follows the tracks of an old bauxite mine.", "Commonly used for natural 'hydrotherapy' by swimmers.", "Located near Mount Ngerchelchuus, Palau's highest peak.", "Managed as part of an eco-tourism initiative by Ngardmau State."],
     },
+    image: "/poi-images/palau-ngardmau-falls-life-v2.webp",
   },
   {
     id: "palau-kayangel-atoll-life-v2",
@@ -155,6 +159,7 @@ export const palauLifeV2: POI[] = [
       ro: ["Singurul atol adevărat din arhipelagul Palau.", "Format din insulele Kayangel, Ngeriungs, Ngerebelas și Orak.", "Automobilele sunt interzise pe insula principală.", "Renumit pentru abundența peștilor comestibili în lagună.", "Grav afectat de taifunul Haiyan în anul 2013.", "Energia electrică este produsă preponderent prin panouri solare."],
       en: ["Palau's only true coral atoll state.", "Comprises the islands of Kayangel, Ngeriungs, Ngerebelas, and Orak.", "Motorized vehicles are prohibited on the main island.", "Famous for its bountiful fishing grounds.", "Suffered significant damage from Typhoon Haiyan in 2013.", "Mainly powered by sustainable solar energy systems."],
     },
+    image: "/poi-images/palau-kayangel-atoll-life-v2.webp",
   },
   {
     id: "palau-blue-corner-life-v2",
@@ -186,6 +191,7 @@ export const palauLifeV2: POI[] = [
       ro: ["Prezență constantă a rechinilor de recif și a celor ciocan.", "Adâncimea platoului este de aproximativ 15-20 de metri.", "Locul unde a fost pionierat cârligul de recif.", "Bancuri imense de baracude și macrouri tropicali.", "Temperatura apei rămâne constantă la 27-29 °C.", "Parte integrantă a ariei protejate Insulele Rock."],
       en: ["Consistent presence of reef sharks and hammerheads.", "The plateau sits at a depth of 15 to 20 meters.", "Famous for the specialized use of reef hooks.", "Massive schools of barracuda and jacks are common.", "Water temperatures remain steady at 27-29 °C.", "Located within the Rock Islands Southern Lagoon protected area."],
     },
+    image: "/poi-images/palau-blue-corner-life-v2.webp",
   },
   {
     id: "palau-helen-reef-life-v2",
@@ -217,6 +223,7 @@ export const palauLifeV2: POI[] = [
       ro: ["Peste 500 de specii de pești au fost documentate aici.", "Cel mai important loc de cuibărit pentru țestoasele verzi.", "Include o lagună de aproximativ 100 de kilometri pătrați.", "Găzduiește una dintre cele mai mari populații de scoici gigant.", "Păzit permanent de rangerii statului Hatohobei.", "Situat mai aproape de Indonezia decât de orașul Koror."],
       en: ["Over 500 fish species have been documented here.", "Palau's most critical nesting site for green sea turtles.", "Features a large lagoon covering about 100 square kilometers.", "Inhabited by one of the world's densest giant clam populations.", "Monitored year-round by Hatohobei State rangers.", "Geographically closer to Indonesia than to Koror."],
     },
+    image: "/poi-images/palau-helen-reef-life-v2.webp",
   },
   {
     id: "palau-ngerukewid-islands-life-v2",
@@ -248,6 +255,7 @@ export const palauLifeV2: POI[] = [
       ro: ["Înființată ca rezervație naturală în anul 1956.", "Accesul turiștilor este strict interzis prin lege.", "Imagine emblematică pentru promovarea turistică a Palau.", "Adăpostește specii rare de țestoase de pământ palauane.", "Refugiu critic pentru pasărea megapodiul de Palau.", "Inclusă în situl Patrimoniului Mondial UNESCO."],
       en: ["Established as a wildlife preserve in 1956.", "Landing on the islands is strictly forbidden by law.", "The most iconic aerial image used in Palau's tourism.", "Home to rare endemic Palauan ground turtles.", "Crucial sanctuary for the endangered Palau Megapode.", "A core component of the UNESCO World Heritage site."],
     },
+    image: "/poi-images/palau-ngerukewid-islands-life-v2.webp",
   },
   {
     id: "palau-angaur-forest-life-v2",
@@ -279,6 +287,7 @@ export const palauLifeV2: POI[] = [
       ro: ["Singurul loc din Palau cu o populație de maimuțe sălbatice.", "Adăpostește pasărea endemică ochi-albi de Palau.", "Pădurea se regenerează pe locurile fostelor mine de fosfat.", "Prezența crabilor de cocotier uriași este documentată aici.", "Habitat vital pentru porumbelul de fructe de Palau.", "Conține specii rare de ferigi și orhidee tropicale."],
       en: ["The only location in Palau with a wild monkey population.", "Home to the endemic Palau White-eye bird.", "Forest is regenerating over former phosphate mining sites.", "Supports a healthy population of giant coconut crabs.", "Critical habitat for the native Palau Fruit Dove.", "Features various rare tropical ferns and orchid species."],
     },
+    image: "/poi-images/palau-angaur-forest-life-v2.webp",
   },
   {
     id: "palau-ngaremeduu-area-life-v2",
@@ -310,6 +319,7 @@ export const palauLifeV2: POI[] = [
       ro: ["Aria protejată a fost stabilită oficial în anul 1999", "Cuprinde porțiuni din statele Aimeliik, Ngatpang și Ngaremlengui", "Suprafața totală este de aproximativ 5000 de hectare", "Adăpostește cel mai mare bazin hidrografic din Palau", "Zona are cea mai mare densitate de crocodili de apă sărată din țară", "Este un loc esențial de reproducere pentru numeroase specii de pești"],
       en: ["The conservation area was officially established in 1999", "It spans across the states of Aimeliik, Ngatpang, and Ngaremlengui", "The total protected area is approximately 5,000 hectares", "It contains the largest watershed basin in Palau", "The area hosts the highest density of saltwater crocodiles in the country", "It is a vital nursery ground for many species of reef fish"],
     },
+    image: "/poi-images/palau-ngaremeduu-area-life-v2.webp",
   },
   {
     id: "palau-ulong-island-life-v2",
@@ -341,6 +351,7 @@ export const palauLifeV2: POI[] = [
       ro: ["Picturile rupestre de pe stânci au o vechime de peste 2000 de ani", "Căpitanul Henry Wilson a eșuat aici în 1783 cu nava HMS Antelope", "Insula face parte din grupul Rock Islands", "Canalul Ulong este faimos pentru populațiile sale de rechini", "Descoperirile arheologice atestă o locuire timpurie a insulei", "Ulong are una dintre puținele plaje cu nisip din regiune"],
       en: ["The rock paintings on the cliffs are over 2,000 years old", "Captain Henry Wilson was stranded here in 1783 with the HMS Antelope", "The island is part of the Rock Islands archipelago", "The Ulong Channel is famous for its large shark populations", "Archaeological finds confirm early human settlement on the island", "Ulong features one of the few sandy beaches in the limestone area"],
     },
+    image: "/poi-images/palau-ulong-island-life-v2.webp",
   },
   {
     id: "palau-ngermid-bay-life-v2",
@@ -372,6 +383,7 @@ export const palauLifeV2: POI[] = [
       ro: ["Golful este situat imediat la est de orașul Koror", "Nivelul pH-ului apei este semnificativ mai scăzut decât în zonele învecinate", "Oamenii de știință studiază aici albirea coraliilor de mai mulți ani", "Temperaturile apei din golf sunt adesea mai ridicate decât în ocean", "Există o densitate mare de organisme marine endemice în zonă", "Golful este aproape complet închis de insule calcaroase"],
       en: ["The bay is located directly to the east of Koror town", "The pH level of the water is significantly lower than surrounding areas", "Scientists have studied coral bleaching patterns here for years", "Water temperatures in the bay are often higher than in the open ocean", "There is a high density of endemic marine organisms in the area", "The bay is nearly completely enclosed by limestone islands"],
     },
+    image: "/poi-images/palau-ngermid-bay-life-v2.webp",
   },
   {
     id: "palau-ngerumekaol-life-v2",
@@ -403,6 +415,7 @@ export const palauLifeV2: POI[] = [
       ro: ["Canalul este adesea numit la nivel internațional 'Ulong Channel'", "Mai mult de 50 de specii diferite de bibani de mare depun icre aici", "Curenții de maree din canal pot fi extrem de puternici", "Ngerumekaol a fost declarat oficial zonă protejată în 1976", "Adâncimea canalului variază între 5 și 13 metri", "Rechinii gri de recif patrulează regulat la intrările în canal"],
       en: ["The channel is often internationally referred to as 'Ulong Channel'", "Over 50 different species of groupers spawn at this location", "Tidal currents in the channel can be extremely powerful", "Ngerumekaol was officially declared a protected area in 1976", "The depth of the channel varies between 5 and 13 meters", "Grey reef sharks regularly patrol the entrances of the channel"],
     },
+    image: "/poi-images/palau-ngerumekaol-life-v2.webp",
   },
   {
     id: "palau-carp-island-life-v2",
@@ -434,5 +447,6 @@ export const palauLifeV2: POI[] = [
       ro: ["Insula se află la aproximativ 45 de minute cu barca la sud-vest de Koror", "Ngercheu are o geografie distinctivă în formă de stea", "Pe insulă se află un complex privat pentru scufundări", "În apropiere se află faimoasele locuri de scufundări Blue Hole și Blue Corner", "Reciful înconjurător este cunoscut pentru coraliile sale evantai mari", "Insula face parte din patrimoniul mondial UNESCO Rock Islands"],
       en: ["The island is located about 45 minutes by boat southwest of Koror", "Ngercheu has a distinctive star-shaped geographical form", "A private diving resort is situated on the island", "Famous dive sites Blue Hole and Blue Corner are located nearby", "The surrounding reef is known for its large sea fan corals", "The island is part of the UNESCO World Heritage Rock Islands area"],
     },
+    image: "/poi-images/palau-carp-island-life-v2.webp",
   }
 ];

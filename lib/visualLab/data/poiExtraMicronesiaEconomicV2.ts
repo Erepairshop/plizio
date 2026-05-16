@@ -31,6 +31,7 @@ export const micronesiaEconomicV2: POI[] = [
       ro: ["Portul este administrat de Autoritatea Portuară Pohnpei (PPA).", "Este situat pe insula Dekehtik, lângă Aeroportul Internațional Pohnpei.", "Un drum de 1,5 kilometri leagă zona portuară de insula principală Pohnpei.", "Portul gestionează aproximativ 90% din bunurile importate ale statului.", "Servește ca centru de transbordare pentru industria regională a tonului.", "Modernizările recente includ extinderea spațiului de chei."],
       en: ["The port is managed by the Pohnpei Port Authority (PPA).", "It is situated on Dekehtik Island, near the Pohnpei International Airport.", "A 1.5-kilometer causeway links the port area to the main island of Pohnpei.", "The harbor handles approximately 90% of the state's imported goods.", "It serves as a transshipment hub for the regional tuna fishing industry.", "Recent upgrades include expanded dock space and improved cargo handling equipment."],
     },
+    image: "/poi-images/micronesia-pohnpei-port-economic-v2.webp",
   },
   {
     id: "micronesia-weno-port-economic-v2",
@@ -62,6 +63,7 @@ export const micronesiaEconomicV2: POI[] = [
       ro: ["Este cel mai aglomerat port din rețeaua maritimă a statului Chuuk.", "Portul gestionează importurile de combustibil necesare pentru energie.", "Este situat lângă centrul administrativ din Chuuk, în Weno.", "Facilitatea include o dană de adâncime pentru nave comerciale mari.", "Servește ca o legătură vitală pentru transportul de copra și produse marine.", "Autoritatea Portuară a Statului Chuuk este responsabilă de gestionarea sa."],
       en: ["It is the busiest port in the Chuuk State maritime network.", "The port handles fuel imports necessary for the state's power generation.", "It is located near the administrative center of Chuuk in Weno.", "The facility includes a deep-water berth for large commercial vessels.", "It serves as a vital link for the transportation of copra and marine products.", "The Chuuk State Port Authority is responsible for its management and maintenance."],
     },
+    image: "/poi-images/micronesia-weno-port-economic-v2.webp",
   },
   {
     id: "micronesia-yap-state-port-economic-v2",
@@ -93,6 +95,7 @@ export const micronesiaEconomicV2: POI[] = [
       ro: ["Portul este situat în Tomil Harbor, un golf protejat natural.", "Este administrat de Yap State Public Service Corporation.", "Moll-ul principal poate găzdui nave de marfă și pasageri de mărime medie.", "Facilitățile de depozitare a combustibilului sunt situate lângă port.", "Este principalul punct de intrare pentru liniile maritime internaționale.", "Portul joacă un rol cheie în exportul de nucă de betel."],
       en: ["The port is situated in Tomil Harbor, a naturally protected bay.", "It is managed by the Yap State Public Service Corporation or designated port authority.", "The main wharf can accommodate medium-sized cargo and passenger vessels.", "Fuel storage facilities are located adjacent to the port area.", "It is the primary point of entry for international shipping lines serving Yap.", "The port plays a key role in the export of betel nut and other local agricultural products."],
     },
+    image: "/poi-images/micronesia-yap-state-port-economic-v2.webp",
   },
   {
     id: "micronesia-kosrae-port-economic-v2",
@@ -124,6 +127,7 @@ export const micronesiaEconomicV2: POI[] = [
       ro: ["Este situat pe partea de est a Kosrae, lângă insula istorică Lelu.", "Portul oferă acces în ape adânci pentru navele de marfă internaționale.", "Eforturile de modernizare au îmbunătățit capacitatea de manipulare.", "Servește ca bază pentru flota de pescuit comercial din Kosrae.", "Portul este vital pentru livrarea produselor petroliere pentru energie.", "Infrastructura include un doc principal și birouri administrative."],
       en: ["It is located on the eastern side of Kosrae, adjacent to the historic Lelu Island.", "The harbor offers deep-water access for international cargo ships.", "Modernization efforts have improved the container storage and handling capacity.", "It serves as a base for the small-scale commercial fishing fleet of Kosrae.", "The port is vital for the delivery of petroleum products for the island's energy needs.", "Infrastructure includes a main dock and administrative offices for customs and quarantine."],
     },
+    image: "/poi-images/micronesia-kosrae-port-economic-v2.webp",
   },
   {
     id: "micronesia-pohnpei-coconut-economic-v2",
@@ -155,6 +159,7 @@ export const micronesiaEconomicV2: POI[] = [
       ro: ["Fabrica este adesea administrată de Pohnpei Coconut Products Authority.", "Produce ulei de cocos virgin (VCO) de înaltă calitate pentru export.", "Alte produse includ săpunuri, loțiuni și hrană pentru animale.", "Facilitatea ajută la reducerea dependenței de uleiurile de gătit importate.", "Oferă locuri de muncă pentru zeci de lucrători locali în sectorul de procesare.", "Nuca de cocos rămâne una dintre puținele culturi comerciale importante."],
       en: ["The plant is often managed by the Pohnpei Coconut Products Authority (PCPA).", "It produces high-quality virgin coconut oil (VCO) for international markets.", "Other products include soaps, lotions, and animal feed from coconut meal.", "The facility helps reduce the state's dependence on imported cooking oils.", "It provides employment for dozens of local workers in the processing sector.", "Coconut remains one of the few significant cash crops in Micronesia."],
     },
+    image: "/poi-images/micronesia-pohnpei-coconut-economic-v2.webp",
   },
   {
     id: "micronesia-kolonia-commerce-economic-v2",
@@ -186,6 +191,7 @@ export const micronesiaEconomicV2: POI[] = [
       ro: ["Kolonia a fost capitala națională a Microneziei până în 1989.", "Districtul conține sediul central al Băncii FSM și alte instituții financiare.", "Este caracterizat de un amestec de clădiri moderne și rămășițe coloniale.", "Strada principală, Kaselehlie Street, este centrul activității comerciale.", "Numeroase supermarketuri sunt situate în această zonă urbană.", "Oferă cea mai mare concentrație de locuri de muncă neguvernamentale."],
       en: ["Kolonia was the national capital of Micronesia until 1989.", "The district contains the headquarters of the Bank of the FSM and other financial institutions.", "It is characterized by a mix of modern buildings and colonial-era remains.", "The main street, Kaselehlie Street, is the center of commercial activity.", "Numerous supermarkets and hardware stores are located within this urban area.", "It provides the highest concentration of non-government jobs in the state."],
     },
+    image: "/poi-images/micronesia-kolonia-commerce-economic-v2.webp",
   },
   {
     id: "micronesia-national-fisheries-economic-v2",
@@ -217,6 +223,7 @@ export const micronesiaEconomicV2: POI[] = [
       ro: ["NFC a fost înființată de guvernul național al FSM în 1984.", "Supraveghează operarea vaselor de pescuit cu paragate pentru ton.", "Corporația gestionează facilități la țărm pentru procesarea peștelui.", "Sediul său central este situat în Kolonia, Pohnpei.", "Tonul este cea mai valoroasă marfă de export pentru Micronezia.", "NFC lucrează pentru a crește participarea localnicilor în sectorul maritim."],
       en: ["NFC was established by the FSM national government in 1984.", "It oversees the operation of longline fishing vessels targeting tuna.", "The corporation manages shore-based facilities for fish processing and export.", "Its headquarters are located in Kolonia, Pohnpei.", "Tuna is the single most valuable export commodity for Micronesia.", "NFC works to increase the participation of local citizens in the maritime workforce."],
     },
+    image: "/poi-images/micronesia-national-fisheries-economic-v2.webp",
   },
   {
     id: "micronesia-colonia-commerce-yap-economic-v2",
@@ -248,6 +255,7 @@ export const micronesiaEconomicV2: POI[] = [
       ro: ["Colonia este capitala statului și singurul centru urban din Yap.", "Zona este situată pe malul de est al insulei principale Yap.", "Include zona Chamorro Bay, cunoscută pentru afaceri mici și restaurante.", "Mai multe case de întâlnire tradiționale (faluw) se află lângă zona comercială.", "Este locația principală pentru serviciile bancare și de telecomunicații.", "Districtul găzduiește Legislatura Statului Yap și biroul Guvernatorului."],
       en: ["Colonia is the state capital and only urban center of Yap.", "The area is located on the eastern shore of Yap Proper island.", "It includes the Chamorro Bay area, known for its small businesses and eateries.", "Several traditional meeting houses (faluw) are located near the commercial zone.", "It is the primary location for the state's banking and telecommunications services.", "The district is home to the Yap State Legislature and Governor's office."],
     },
+    image: "/poi-images/micronesia-colonia-commerce-yap-economic-v2.webp",
   },
   {
     id: "micronesia-weno-commerce-economic-v2",
@@ -279,6 +287,7 @@ export const micronesiaEconomicV2: POI[] = [
       ro: ["Weno este cel mai mare oraș și capitala administrativă a statului Chuuk.", "Centrul de afaceri este situat pe partea de nord-vest a insulei Weno.", "Conține sucursala principală a Băncii Guam din Chuuk.", "Zona servește ca punct de distribuție pentru bunurile importate către insule.", "Mai multe hoteluri pentru industria de scufundări sunt situate în apropiere.", "Este centrul pentru utilitățile publice și infrastructura de comunicații."],
       en: ["Weno is the largest city and administrative capital of Chuuk State.", "The business center is located on the northwestern side of Weno Island.", "It contains the main branch of the Bank of Guam in Chuuk.", "The area serves as the primary distribution point for imported goods to outer islands.", "Several hotels catering to the scuba diving industry are located nearby.", "It is the hub for the state's public utilities and communication infrastructure."],
     },
+    image: "/poi-images/micronesia-weno-commerce-economic-v2.webp",
   },
   {
     id: "micronesia-tofol-center-economic-v2",
@@ -310,5 +319,6 @@ export const micronesiaEconomicV2: POI[] = [
       ro: ["Tofol este situat în municipalitatea Lelu, pe coasta de est a Kosrae.", "Găzduiește Legislatura Statului Kosrae și biroul Guvernatorului.", "Spitalul Statului Kosrae, principala unitate medicală, se află aici.", "Servește ca locație pentru oficiul poștal principal și stația telecom.", "Tofol a fost stabilit ca centru guvernamental în epoca Trust Territory.", "Nodul este conectat printr-un drum asfaltat de aeroport și alte sate."],
       en: ["Tofol is located in the Lelu municipality on the eastern coast of Kosrae.", "It houses the Kosrae State Legislature and the Governor's office.", "The Kosrae State Hospital, the island's main medical facility, is situated here.", "It serves as the location for the state's main post office and telecommunications station.", "Tofol was established as the center of government during the Trust Territory era.", "The hub is connected by a paved road to the airport and other villages."],
     },
+    image: "/poi-images/micronesia-tofol-center-economic-v2.webp",
   }
 ];

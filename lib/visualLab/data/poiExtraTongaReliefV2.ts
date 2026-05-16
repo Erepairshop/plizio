@@ -31,6 +31,7 @@ export const tongaReliefV2: POI[] = [
       ro: ["Vârful Kao se află la 1.030 de metri deasupra nivelului mării.", "Kao este situată la 19,67° latitudine sudică și 175,02° longitudine vestică.", "Insula acoperă o suprafață de aproximativ 11,6 kilometri pătrați.", "Căpitanul James Cook a zărit insula Kao în anul 1774.", "Înclinarea flancurilor vulcanice depășește în unele locuri 35 de grade.", "Kao și Tofua formează împreună un sistem vulcanic strâns legat geologic."],
       en: ["The summit of Kao stands at 1,030 meters above sea level.", "Kao is located at 19.67° south latitude and 175.02° west longitude.", "The island covers an area of approximately 11.6 square kilometers.", "Captain James Cook sighted the island of Kao in 1774.", "The slope of the volcanic flanks exceeds 35 degrees in some places.", "Kao and Tofua together form a geologically closely linked volcanic system."],
     },
+    image: "/poi-images/tonga-kao-relief-v2.webp",
   },
   {
     id: "tonga-tofua-relief-v2",
@@ -62,6 +63,7 @@ export const tongaReliefV2: POI[] = [
       ro: ["Cel mai înalt punct de pe Tofua este la 506 metri deasupra nivelului mării.", "Tofua se află la 19,75° S și 175,07° V.", "Caldera are un diametru de aproximativ 5 kilometri.", "Lacul de crater Lofia este unul dintre cele mai adânci lacuri din Tonga.", "În 1789, aici a fost ucis John Norton, un membru al echipajului lui Bligh.", "Insula acoperă o suprafață totală de aproximativ 55,6 kilometri pătrați."],
       en: ["The highest point on Tofua is 506 meters above sea level.", "Tofua is located at 19.75° S and 175.07° W.", "The caldera has a diameter of approximately 5 kilometers.", "Lofia crater lake is one of the deepest lakes in Tonga.", "In 1789, John Norton, a member of Bligh's crew, was killed here.", "The island covers a total area of approximately 55.6 square kilometers."],
     },
+    image: "/poi-images/tonga-tofua-relief-v2.webp",
   },
   {
     id: "tonga-late-relief-v2",
@@ -81,6 +83,7 @@ export const tongaReliefV2: POI[] = [
       en: ["Elevation of 540 meters", "Uninhabited volcanic island", "Crater 400 meters in diameter", "Located west of the Vava'u group"],
     },
     imageHint: "Late island volcano Tonga",
+    image: "/poi-images/tonga-late-relief-v2.webp",
   },
   {
     id: "tonga-fonualei-relief-v2",
@@ -100,6 +103,7 @@ export const tongaReliefV2: POI[] = [
       en: ["Elevation of 180 meters", "Active stratovolcano", "Destructive eruption in 1846", "Important seabird nesting site"],
     },
     imageHint: "Fonualei volcano island Tonga",
+    image: "/poi-images/tonga-fonualei-relief-v2.webp",
   },
   {
     id: "tonga-niuafoou-relief-v2",
@@ -119,6 +123,7 @@ export const tongaReliefV2: POI[] = [
       en: ["Active shield volcano", "Known as Tin Can Island", "Central crater lake Vai Lahi", "Frequent volcanic activity"],
     },
     imageHint: "Niuafo'ou island aerial lake",
+    image: "/poi-images/tonga-niuafoou-relief-v2.webp",
   },
   {
     id: "tonga-niuatoputapu-relief-v2",
@@ -138,6 +143,7 @@ export const tongaReliefV2: POI[] = [
       en: ["Volcanic origin", "Central mountain ridge", "Elevation of 157 meters", "Surrounded by a barrier reef"],
     },
     imageHint: "Niuatoputapu island ridge Tonga",
+    image: "/poi-images/tonga-niuatoputapu-relief-v2.webp",
   },
   {
     id: "tonga-tafahi-relief-v2",
@@ -157,6 +163,7 @@ export const tongaReliefV2: POI[] = [
       en: ["Elevation of 560 meters", "Classic cone shape", "Extinct volcano", "Northeast-most inhabited island"],
     },
     imageHint: "Tafahi volcano cone Tonga",
+    image: "/poi-images/tonga-tafahi-relief-v2.webp",
   },
   {
     id: "tonga-eua-cliffs-relief-v2",
@@ -176,6 +183,7 @@ export const tongaReliefV2: POI[] = [
       en: ["Over 100 meters high", "Uplifted coral structure", "Oldest geology in Tonga", "Popular whale watching site"],
     },
     imageHint: "Eua island cliffs Tonga coast",
+    image: "/poi-images/tonga-eua-cliffs-relief-v2.webp",
   },
   {
     id: "tonga-mount-talau-relief-v2",
@@ -195,6 +203,7 @@ export const tongaReliefV2: POI[] = [
       en: ["Elevation of 131 meters", "Distinctive flat top", "National park area", "Overlooks Neiafu Harbor"],
     },
     imageHint: "Mount Talau Vava'u Tonga",
+    image: "/poi-images/tonga-mount-talau-relief-v2.webp",
   },
   {
     id: "tonga-sia-ko-veiongo-relief-v2",
@@ -226,6 +235,7 @@ export const tongaReliefV2: POI[] = [
       ro: ["Sia Ko Veiongo se află în Neiafu, pe insula principală din Vava'u.", "Dealul atinge o înălțime modestă de aproximativ 100 de metri.", "Găzduiește un monument în onoarea Regelui George Tupou I.", "În 1831, aici a fost înființată una dintre primele stațiuni misionare.", "Terenul este utilizat astăzi ca cimitir regal exclusiv.", "Din punct de vedere geologic, fundația este formată din calcar terțiar."],
       en: ["Sia Ko Veiongo is located in Neiafu on the main island of Vava'u.", "The hill reaches a modest height of approximately 100 meters.", "It houses a memorial in honor of King George Tupou I.", "In 1831, one of the first mission stations was established here.", "The site is currently used as an exclusive royal burial ground.", "Geologically, its foundation consists of tertiary coral limestone."],
     },
+    image: "/poi-images/tonga-sia-ko-veiongo-relief-v2.webp",
   },
   {
     id: "tonga-mount-lahi-relief-v2",
@@ -257,6 +267,7 @@ export const tongaReliefV2: POI[] = [
       ro: ["Muntele Lahi este vârful celui mai activ vulcan de pe Niuafo'ou.", "Insula este numită 'Insula Cutiei de Conserve' datorită livrării poștei.", "Înălțimea maximă a muntelui este de 260 de metri deasupra mării.", "În 1946, o erupție a forțat evacuarea locuitorilor insulei.", "Lacul de crater Vai Lahi se află chiar sub vârful muntelui.", "Insula este situată în extremul nord al Regatului Tonga."],
       en: ["Mount Lahi is the peak of Niuafo'ou's most active volcano.", "The island is nicknamed 'Tin Can Island' due to its mail delivery.", "The maximum elevation of the mountain is 260 meters above sea level.", "An eruption in 1946 forced the evacuation of the island's population.", "The Vai Lahi crater lake is located directly below the summit.", "The island is situated in the far north of the Kingdom of Tonga."],
     },
+    image: "/poi-images/tonga-mount-lahi-relief-v2.webp",
   },
   {
     id: "tonga-hunga-tonga-relief-v2",
@@ -288,6 +299,7 @@ export const tongaReliefV2: POI[] = [
       ro: ["Erupția din 15 ianuarie 2022 a fost una dintre cele mai puternice din 1883.", "Norul de cenușă a atins o înălțime record de 58 de kilometri.", "Vulcanul se află la aproximativ 65 de kilometri nord de Nuku'alofa.", "Unda de șoc a exploziei a înconjurat Pământul de mai multe ori.", "Erupția a distrus legătura terestră dintre Hunga Tonga și Hunga Ha'apai.", "Oamenii de știință clasifică evenimentul ca VEI-5 sau VEI-6."],
       en: ["The eruption on January 15, 2022, was one of the strongest since 1883.", "The ash plume reached a record height of 58 kilometers.", "The volcano is located about 65 kilometers north of Nuku'alofa.", "The shockwave from the explosion circled the Earth multiple times.", "The eruption destroyed the land bridge between Hunga Tonga and Hunga Ha'apai.", "Scientists classify the event as a VEI-5 or VEI-6 eruption."],
     },
+    image: "/poi-images/tonga-hunga-tonga-relief-v2.webp",
   },
   {
     id: "tonga-lateiki-relief-v2",
@@ -319,6 +331,7 @@ export const tongaReliefV2: POI[] = [
       ro: ["Lateiki s-a numit anterior Metis Shoal și este un vulcan submarin activ.", "În 1995, o erupție a creat o insulă de scurtă durată.", "O nouă erupție în octombrie 2019 a creat o nouă masă de uscat.", "Vulcanul este situat geografic între insulele Kao și Late.", "Materialul erupției constă în principal din andezit bazaltic.", "Formarea de insule în acest loc a fost documentată încă din secolul al XIX-lea."],
       en: ["Lateiki was formerly known as Metis Shoal and is an active submarine volcano.", "In 1995, an eruption created a short-lived island.", "A subsequent eruption in October 2019 created a new landmass.", "The volcano is geographically located between the islands of Kao and Late.", "The eruptive material consists primarily of basaltic andesite.", "Island formations at this site were documented as early as the 19th century."],
     },
+    image: "/poi-images/tonga-lateiki-relief-v2.webp",
   },
   {
     id: "tonga-home-reef-relief-v2",
@@ -350,6 +363,7 @@ export const tongaReliefV2: POI[] = [
       ro: ["Home Reef este o insulă efemeră care apare după erupții.", "Erupția din 2006 a generat plute uriașe de piatră ponce în Pacific.", "În septembrie 2022, o nouă insulă s-a format în decurs de 11 zile.", "Baza vulcanului se află la aproximativ 400 de metri sub nivelul mării.", "Vulcanul aparține arcului activ din punct de vedere geologic Tonga-Kermadec.", "Primele rapoarte despre formarea unei insule datează din anul 1852."],
       en: ["Home Reef is an ephemeral island that appears after eruptions.", "The 2006 eruption produced massive pumice rafts in the Pacific.", "In September 2022, a new island formed within 11 days.", "The volcano's base is approximately 400 meters below sea level.", "The volcano belongs to the geologically active Tonga-Kermadec arc.", "First reports of island formation at this site date back to 1852."],
     },
+    image: "/poi-images/tonga-home-reef-relief-v2.webp",
   },
   {
     id: "tonga-curacoa-reef-relief-v2",
@@ -381,6 +395,7 @@ export const tongaReliefV2: POI[] = [
       ro: ["Reciful a fost explorat în 1865 de nava HMS Curacoa.", "Vulcanul posedă mai multe guri active pe fundul mării.", "Erupții violente au avut loc în anii 1973 și 1979.", "Adâncimea minimă a apei deasupra recifului este de aproximativ 33 de metri.", "Se află în nordul Tonga, între Vava'u și Niuatoputapu.", "Reciful face parte din arcul vulcanic activ Tofua."],
       en: ["The reef was surveyed in 1865 by the HMS Curacoa.", "The volcano has several active vents on the seafloor.", "Violent eruptions occurred in the years 1973 and 1979.", "The minimum water depth over the reef is approximately 33 meters.", "It is located in northern Tonga between Vava'u and Niuatoputapu.", "The reef is part of the magmatically active Tofua volcanic arc."],
     },
+    image: "/poi-images/tonga-curacoa-reef-relief-v2.webp",
   },
   {
     id: "tonga-tonga-trench-relief-v2",
@@ -412,6 +427,7 @@ export const tongaReliefV2: POI[] = [
       ro: ["Adâncimea maximă a Gropii Tonga este de 10.882 de metri.", "Este cea mai adâncă groapă din emisfera sudică.", "Placa Pacificului se subduce aici sub placa Tonga.", "Groapa se întinde pe o lungime de aproximativ 2.500 de kilometri.", "Activitatea seismică provoacă frecvent tsunami-uri în regiune.", "Aceasta rulează paralel cu creasta vulcanică Tonga."],
       en: ["The maximum depth of the Tonga Trench is 10,882 meters.", "It is the deepest oceanic trench in the Southern Hemisphere.", "The Pacific Plate subducts here beneath the Tonga Plate.", "The trench extends over a length of approximately 2,500 kilometers.", "Seismic activity often leads to tsunamis in the region.", "It runs parallel to the volcanically active Tonga Ridge."],
     },
+    image: "/poi-images/tonga-tonga-trench-relief-v2.webp",
   },
   {
     id: "tonga-horizon-deep-relief-v2",
@@ -443,6 +459,7 @@ export const tongaReliefV2: POI[] = [
       ro: ["Horizon Deep este cel mai adânc punct al Gropii Tonga (10.811 m).", "Este numit după nava de cercetare RV Horizon.", "Descoperirea a avut loc în timpul unei expediții în anul 1952.", "Victor Vescovo a ajuns la fundul acestuia în anul 2019.", "Presiunea apei la această adâncime este de peste 1.000 de bari.", "Se află în partea de sud a sistemului de gropi."],
       en: ["Horizon Deep is the deepest point of the Tonga Trench (10,811 m).", "It is named after the research vessel RV Horizon.", "The discovery was made during an expedition in 1952.", "Victor Vescovo reached the bottom of the deep in 2019.", "The water pressure at this depth is over 1,000 bars.", "It is located in the southern part of the trench system."],
     },
+    image: "/poi-images/tonga-horizon-deep-relief-v2.webp",
   },
   {
     id: "tonga-mount-holopeka-relief-v2",
@@ -474,6 +491,7 @@ export const tongaReliefV2: POI[] = [
       ro: ["Muntele Holopeka este cel mai înalt punct natural de pe insula Lifuka.", "Înălțimea este de numai aproximativ 15 metri peste nivelul mării.", "Dealul a servit în trecut ca punct de observație militar.", "Lifuka este reședința districtului administrativ Ha'apai.", "Insula este formată geologic din calcar coraligen ridicat.", "În apropiere se află morminte istorice ale căpeteniilor locale."],
       en: ["Mount Holopeka is the highest natural point on the island of Lifuka.", "Its elevation is only about 15 meters above sea level.", "The hill formerly served as a military lookout point.", "Lifuka is the main settlement of the administrative Ha'apai district.", "The island geologically consists of raised coral limestone.", "Historical burial sites of local chiefs are located nearby."],
     },
+    image: "/poi-images/tonga-mount-holopeka-relief-v2.webp",
   },
   {
     id: "tonga-mount-moungafau-relief-v2",
@@ -505,6 +523,7 @@ export const tongaReliefV2: POI[] = [
       ro: ["Muntele Mo'ungafau este cea mai înaltă ridicătură din Tongatapu (65 m).", "Dealul se află în sudul insulei, lângă localitatea Fua'amotu.", "Din punct de vedere geologic, face parte dintr-o placă de calcar înclinată spre nord.", "Este format din calcar coraligen terțiar și cuaternar.", "De pe vârf se pot observa câmpiile fertile ale insulei principale.", "Reprezintă un contrast izbitor cu insulele vulcanice din nord."],
       en: ["Mount Mo'ungafau is the highest point on Tongatapu at 65 meters.", "The hill is located in the south of the island near Fua'amotu.", "Geologically, it is part of a limestone plate tilted to the north.", "It consists of tertiary and quaternary coral limestone.", "The summit offers a view over the fertile plains of the main island.", "It provides a stark contrast to the steep volcanic islands to the north."],
     },
+    image: "/poi-images/tonga-mount-moungafau-relief-v2.webp",
   },
   {
     id: "tonga-lokupo-cliffs-relief-v2",
@@ -536,6 +555,7 @@ export const tongaReliefV2: POI[] = [
       ro: ["Stâncile Lokupo sunt situate pe coasta de est a insulei 'Eua.", "Acestea se ridică vertical din ocean până la 200 de metri.", "Roca constă din calcar care datează din perioada Jurasicului.", "Zona aparține Parcului Național protejat 'Eua.", "Păsările tropicale cu coadă albă cuibăresc în pereții de stâncă.", "Stâncile prezintă urme clare de eroziune marină și formare de peșteri."],
       en: ["The Lokupo Cliffs are situated on the eastern coast of 'Eua island.", "They rise vertically from the ocean up to 200 meters in height.", "The rock consists of limestone dating back to the Jurassic period.", "The area is part of the protected 'Eua National Park.", "Rare white-tailed tropicbirds nest in the cliff faces.", "The cliffs show clear evidence of marine erosion and cave formation."],
     },
+    image: "/poi-images/tonga-lokupo-cliffs-relief-v2.webp",
   },
   {
     id: "tonga-hikutamole-relief-v2",
@@ -567,6 +587,7 @@ export const tongaReliefV2: POI[] = [
       ro: ["Hikutamole este una dintre cele mai înalte ridicături de pe insula Vava'u.", "Dealul atinge o înălțime de 131 de metri deasupra nivelului mării.", "Aici s-a aflat odinioară o fortăreață tongană importantă (pa).", "Regele George Tupou I a utilizat strategic locul pentru unificarea Tonga.", "Dealul se află în nordul Vava'u, lângă așezarea Feletoa.", "Pe vârf sunt instalate astăzi turnuri de telecomunicații."],
       en: ["Hikutamole is one of the highest elevations on the island of Vava'u.", "The hill reaches a height of 131 meters above sea level.", "It was once the site of a significant Tongan fortress (pa).", "King George Tupou I used the location strategically to unify Tonga.", "The hill is located in northern Vava'u near the settlement of Feletoa.", "Telecommunications masts are currently installed on its summit."],
     },
+    image: "/poi-images/tonga-hikutamole-relief-v2.webp",
   },
   {
     id: "tonga-haapai-trough-relief-v2",
@@ -598,6 +619,7 @@ export const tongaReliefV2: POI[] = [
       ro: ["Depresiunea Ha'apai este un bazin tectonic în centrul Tonga.", "Adâncimea apei în depresiune depășește adesea 1.000 de metri.", "Se află în regiunea forearc a sistemului de subducție Tonga.", "Aici se depun sedimente de la insulele de corali învecinate.", "Formarea sa se datorează extensiei scoarței în zona forearc.", "Depresiunea separă insulele Ha'apai de Groapa adâncă Tonga."],
       en: ["The Ha'apai Trough is a tectonic basin in central Tonga.", "The water depth in the trough often exceeds 1,000 meters.", "It is located in the forearc region of the Tonga subduction system.", "Sediments from surrounding coral islands accumulate here.", "Its formation is attributed to crustal extension in the forearc.", "The trough separates the Ha'apai islands from the deep Tonga Trench."],
     },
+    image: "/poi-images/tonga-haapai-trough-relief-v2.webp",
   },
   {
     id: "tonga-vavau-plateau-relief-v2",
@@ -629,6 +651,7 @@ export const tongaReliefV2: POI[] = [
       ro: ["Platoul este fundamentul geologic al grupului de insule Vava'u.", "Constă în principal din calcar ridicat pe o bază vulcanică.", "Suprafața este ușor înclinată spre nord.", "Platoul coboară brusc la margini spre marele abis.", "Ridicarea tectonică a modelat fiordurile caracteristice din Vava'u.", "Este situat la extremitatea nordică a crestei submarine Tonga."],
       en: ["The plateau is the geological foundation of the Vava'u island group.", "It consists primarily of raised limestone on a volcanic base.", "The surface is slightly tilted towards the north.", "The plateau drops steeply into the deep sea at its edges.", "Tectonic uplift shaped the characteristic fjords of Vava'u.", "It is located at the northern end of the submarine Tonga Ridge."],
     },
+    image: "/poi-images/tonga-vavau-plateau-relief-v2.webp",
   },
   {
     id: "tonga-tongatapu-terrace-relief-v2",
@@ -660,6 +683,7 @@ export const tongaReliefV2: POI[] = [
       ro: ["Terasa este situată la sud-est de insula principală Tongatapu.", "Adâncimile apei variază aici de la 500 la 2.000 de metri.", "Formează o treaptă geologică pe panta crestei Tonga.", "Terasa funcționează ca zonă tampon către Groapa adâncă Tonga.", "Aparține complexului tectonic forearc al arcului insular.", "Profilurile seismice atestă depunerea unor straturi groase de sedimente."],
       en: ["The terrace is located southeast of the main island of Tongatapu.", "Water depths here range from 500 to 2,000 meters.", "It forms a geological step on the slope of the Tonga Ridge.", "The terrace acts as a buffer zone towards the deep Tonga Trench.", "It belongs to the tectonic forearc complex of the island arc.", "Seismic profiles confirm the deposition of massive sediment layers."],
     },
+    image: "/poi-images/tonga-tongatapu-terrace-relief-v2.webp",
   },
   {
     id: "tonga-vai-lahi-lake-relief-v2",
@@ -691,6 +715,7 @@ export const tongaReliefV2: POI[] = [
       ro: ["Adâncimea maximă a lacului este de 121 metri", "Suprafața totală a luciului de apă este de 13,6 km²", "Lacul este situat la 23 metri deasupra nivelului mării", "Lacul se află într-o calderă cu diametrul de 8 km", "Cea mai mare insulă din interiorul lacului este Motu Lahi", "Ultima evacuare majoră a insulei a avut loc în 1946"],
       en: ["The maximum depth of the lake is 121 meters", "Total surface area of the water is 13.6 square kilometers", "The lake surface sits 23 meters above sea level", "The lake is located within an 8-kilometer-wide caldera", "The largest island within the lake is Motu Lahi", "The last major island-wide evacuation occurred in 1946"],
     },
+    image: "/poi-images/tonga-vai-lahi-lake-relief-v2.webp",
   },
   {
     id: "tonga-niua-plateau-relief-v2",
@@ -722,6 +747,7 @@ export const tongaReliefV2: POI[] = [
       ro: ["Tafahi este cel mai înalt punct al podișului, având 560 de metri", "Regiunea este situată direct la vest de Fosa Tonga", "Rocile vulcanice formează fundamentul geologic al podișului", "Distanța față de capitala Nuku'alofa este de peste 600 km", "Podișul a fost observat în 1616 de către Le Maire și Schouten", "Activitățile seismice regulate depășesc adesea magnitudinea 5.0"],
       en: ["Tafahi is the highest point on the plateau at 560 meters", "The region is located directly west of the deep Tonga Trench", "Volcanic rock forms the geological foundation of the plateau", "Distance to the capital Nuku'alofa is over 600 kilometers", "The plateau was sighted in 1616 by Le Maire and Schouten", "Regular seismic activities often measure over magnitude 5.0"],
     },
+    image: "/poi-images/tonga-niua-plateau-relief-v2.webp",
   },
   {
     id: "tonga-niuafoou-caldera-relief-v2",
@@ -753,6 +779,7 @@ export const tongaReliefV2: POI[] = [
       ro: ["Diametrul calderei este de aproximativ 8 kilometri", "Cel mai înalt punct al marginii craterului este la 260 de metri", "Lacul principal Vai Lahi ocupă cea mai mare parte a calderei", "Erupția din 1946 a dus la evacuarea totală a insulei", "Habitat al păsării rare Megapodius pritchardii", "Niuafo'ou este cea mai nordică insulă a arhipelagului Tonga"],
       en: ["The caldera diameter is approximately 8 kilometers", "The highest point of the rim reaches 260 meters", "The main lake, Vai Lahi, fills most of the caldera", "The 1946 eruption led to the complete evacuation of the island", "Habitat for the rare endemic Niuafo'ou megapode", "Niuafo'ou is the northernmost island in the Tonga archipelago"],
     },
+    image: "/poi-images/tonga-niuafoou-caldera-relief-v2.webp",
   },
   {
     id: "tonga-eua-uplands-relief-v2",
@@ -784,6 +811,7 @@ export const tongaReliefV2: POI[] = [
       ro: ["Muntele Panauw este cel mai înalt punct, având 312 metri", "Vârsta geologică a insulei este de peste 40 de milioane de ani", "Găzduiește cel mai mare parc național din Tonga", "Coasta de est este marcată de stânci înalte de peste 100 de metri", "Regiunea este renumită pentru arcada de piatră Li'angahuo 'a Maui", "'Eua se află la doar 18 kilometri sud-est de Tongatapu"],
       en: ["Mount Panauw is the highest peak at 312 meters", "The island's geological age exceeds 40 million years", "It contains the largest national park in Tonga", "The eastern coast features cliffs over 100 meters high", "The region is home to the Li'angahuo 'a Maui stone arch", "'Eua is located only 18 kilometers southeast of Tongatapu"],
     },
+    image: "/poi-images/tonga-eua-uplands-relief-v2.webp",
   },
   {
     id: "tonga-vavau-north-cliffs-relief-v2",
@@ -815,5 +843,6 @@ export const tongaReliefV2: POI[] = [
       ro: ["Stâncile ating înălțimi de peste 100 de metri", "Din punct de vedere geologic, este un atol de corali ridicat", "'Utula'aina Point este cel mai faimos punct de belvedere", "Coasta de nord are o lungime de aproximativ 15 kilometri", "Numeroase peșteri marine au fost formate prin eroziune", "Habitat important pentru fregata mare (Fregata minor)"],
       en: ["The cliffs reach heights of over 100 meters", "Geologically, it is an uplifted coral atoll", "'Utula'aina Point is the most famous lookout spot", "The northern coastline is approximately 15 kilometers long", "Numerous sea caves have been formed by erosion", "Important habitat for the Great Frigatebird"],
     },
+    image: "/poi-images/tonga-vavau-north-cliffs-relief-v2.webp",
   }
 ];

@@ -31,6 +31,7 @@ export const republicofcongoReliefV2: POI[] = [
       ro: ["Punctele cele mai înalte din secțiunea congoleză ating aproximativ 900 metri", "Format în principal din granit și gnais precambrian", "Găzduiește o parte a Parcului Național Ogoué-Leketi", "Sursă importantă pentru râul Louessé", "Regiunea este cunoscută pentru rata ridicată de endemism a plantelor", "Cartografiat pentru prima dată de exploratorii europeni în secolul al XIX-lea"],
       en: ["Highest peaks in the Congolese section reach about 900 meters", "Primarily composed of Precambrian granite and gneiss", "Home to parts of the Ogoué-Leketi National Park", "Major source for the Louessé River", "Region is known for its high rate of plant endemism", "First mapped by European explorers in the 19th century"],
     },
+    image: "/poi-images/republicofcongo-chaillu-mountains-relief-v2.webp",
   },
   {
     id: "republicofcongo-mayombe-hills-relief-v2",
@@ -62,6 +63,7 @@ export const republicofcongoReliefV2: POI[] = [
       ro: ["Altitudinea medie variază între 400 și 600 de metri", "Parte a lanțului Mayombe mai mare care se întinde până în Angola", "Adăpostește Rezervația Biosferei Dimonika de 62.000 de hectare", "Geologic, este dominat de șisturi și cuarțite", "Regiune vitală pentru exploatarea lemnului de okoumé", "Precipitațiile anuale pot depăși 1.500 mm"],
       en: ["Average elevation ranges between 400 and 600 meters", "Part of the larger Mayombe range extending into Angola", "Hosts the 62,000-hectare Dimonika Biosphere Reserve", "Geologically characterized by schists and quartzites", "Vital region for Okoumé timber extraction", "Annual rainfall can exceed 1,500 mm"],
     },
+    image: "/poi-images/republicofcongo-mayombe-hills-relief-v2.webp",
   },
   {
     id: "republicofcongo-congo-basin-lowland-relief-v2",
@@ -93,6 +95,7 @@ export const republicofcongoReliefV2: POI[] = [
       ro: ["Adăpostește cele mai mari turbării tropicale din lume", "Suprafața zonelor cu turbă din bazin este de aproximativ 145.500 km²", "Altitudinea medie este sub 400 de metri", "Se estimează că stochează 30 de miliarde de tone de carbon", "Habitat crucial pentru elefanții de pădure și gorilele de câmpie", "Precipitațiile anuale depășesc adesea 1.700 mm"],
       en: ["Home to the world's largest tropical peatland complex", "Peatland area in the basin covers approximately 145,500 km²", "Average elevation remains below 400 meters", "Estimated to store 30 billion tons of carbon", "Crucial habitat for forest elephants and lowland gorillas", "Annual rainfall often exceeds 1,700 mm"],
     },
+    image: "/poi-images/republicofcongo-congo-basin-lowland-relief-v2.webp",
   },
   {
     id: "republicofcongo-mont-kama-relief-v2",
@@ -124,6 +127,7 @@ export const republicofcongoReliefV2: POI[] = [
       ro: ["Situat în regiunea Lékoumou", "Face parte din masivul cristalin Chaillu", "Altitudinea depășește 800 de metri deasupra nivelului mării", "Înconjurat de pădure tropicală primară", "Unul dintre punctele înalte din sud-vestul țării", "Punct important pentru biodiversitatea locală"],
       en: ["Located in the Lékoumou region", "Part of the crystalline Chaillu massif", "Elevation exceeds 800 meters above sea level", "Surrounded by primary equatorial rainforest", "One of the higher points in the southwest of the country", "Important site for local biodiversity"],
     },
+    image: "/poi-images/republicofcongo-mont-kama-relief-v2.webp",
   },
   {
     id: "republicofcongo-kibangou-plateau-relief-v2",
@@ -155,6 +159,7 @@ export const republicofcongoReliefV2: POI[] = [
       ro: ["Situat în departamentul Niari", "Altitudine medie de aproximativ 450-600 de metri", "Caracterizat prin soluri lateritice", "Regiune importantă pentru cultivarea maniocului și porumbului", "Include ecosisteme semnificative de savană", "Drenat de râul Niari și afluenții săi"],
       en: ["Located in the Niari Department", "Average elevation of approximately 450 to 600 meters", "Characterized by lateritic soils", "Important region for cassava and maize cultivation", "Contains significant savanna ecosystems", "Drained by the Niari River and its tributaries"],
     },
+    image: "/poi-images/republicofcongo-kibangou-plateau-relief-v2.webp",
   },
   {
     id: "republicofcongo-mont-mbe-relief-v2",
@@ -186,6 +191,7 @@ export const republicofcongoReliefV2: POI[] = [
       ro: ["Parte a sistemului podișului Batéké", "Situat în departamentul Pool", "Compus în principal din gresii terțiare", "Regiunea este cunoscută pentru 'pseudo-stepele' sale", "Zonă importantă pentru conservarea naturii în sudul Congoului", "Altitudinea este de aproximativ 600-700 de metri"],
       en: ["Part of the Batéké Plateau system", "Located in the Pool Department", "Composed mainly of Tertiary sandstones", "Region is known for its 'pseudo-steppes'", "Important area for nature conservation in southern Congo", "Elevation is around 600-700 meters"],
     },
+    image: "/poi-images/republicofcongo-mont-mbe-relief-v2.webp",
   },
   {
     id: "republicofcongo-kouilou-river-valley-relief-v2",
@@ -217,6 +223,7 @@ export const republicofcongoReliefV2: POI[] = [
       ro: ["Kouilou este cel mai important râu din țară care se varsă direct în Atlantic", "Valea adăpostește situri arheologice semnificative", "Regiune importantă pentru cultivarea palmierilor de ulei", "Râul este cunoscut pentru numeroasele sale repezișuri", "Include părți ale Parcului Național Conkouati-Douli", "Zona estuarului este importantă pentru țestoasele marine"],
       en: ["The Kouilou is the country's most important river flowing directly into the Atlantic", "The valley hosts significant archaeological sites", "Important region for oil palm cultivation", "The river is known for its numerous rapids", "Includes parts of the Conkouati-Douli National Park", "The estuary area is vital for sea turtles"],
     },
+    image: "/poi-images/republicofcongo-kouilou-river-valley-relief-v2.webp",
   },
   {
     id: "republicofcongo-mont-dimonika-relief-v2",
@@ -248,6 +255,7 @@ export const republicofcongoReliefV2: POI[] = [
       ro: ["Centrul Rezervației Biosferei Dimonika, înființată în 1988", "Situat în lanțul muntos Mayombe", "Regiunea adăpostește peste 100 de specii de mamifere", "Temperatura medie anuală este de 25 de grade Celsius", "Geologia include vene de cuarț aurifer", "Cea mai ploioasă regiune din sud-vestul Congoului"],
       en: ["Center of the Dimonika Biosphere Reserve, established in 1988", "Located within the Mayombe mountain range", "The region hosts over 100 species of mammals", "Average annual temperature is around 25 degrees Celsius", "Geology includes gold-bearing quartz veins", "Rainiest region in southwestern Congo"],
     },
+    image: "/poi-images/republicofcongo-mont-dimonika-relief-v2.webp",
   },
   {
     id: "republicofcongo-mont-kongo-relief-v2",
@@ -279,6 +287,7 @@ export const republicofcongoReliefV2: POI[] = [
       ro: ["Situat în apropierea departamentului Pool", "Parte a zonei deluroase marginale a bazinului Congo", "Vegetația constă în păduri secundare și savane cu iarbă", "Punct important pentru populația rurală locală", "Altitudinea este estimată la aproximativ 550 de metri", "Caracterizat geologic prin gresie și conglomerate"],
       en: ["Located near the Pool Department", "Part of the hilly fringe zone of the Congo Basin", "Vegetation consists of secondary forests and grass savannas", "Important site for the local rural population", "Elevation is estimated at around 550 meters", "Geologically characterized by sandstone and conglomerates"],
     },
+    image: "/poi-images/republicofcongo-mont-kongo-relief-v2.webp",
   },
   {
     id: "republicofcongo-loango-coast-relief-v2",
@@ -310,6 +319,7 @@ export const republicofcongoReliefV2: POI[] = [
       ro: ["A fost centrul istoric al Regatului Loango", "Include păduri de mangrove semnificative", "Regiunea este cunoscută pentru sistemele sale de lagune, cum ar fi laguna Cayo", "Locație importantă pentru extracția petrolului offshore", "Pointe-Noire este cel mai mare oraș din această zonă de coastă", "Coasta se întinde pe aproximativ 170 de kilometri"],
       en: ["Was the heartland of the historical Kingdom of Loango", "Contains significant mangrove forests", "Region is known for lagoon systems like the Cayo Lagoon", "Major location for offshore oil extraction", "Pointe-Noire is the largest city in this coastal zone", "The coastline stretches for about 170 kilometers"],
     },
+    image: "/poi-images/republicofcongo-loango-coast-relief-v2.webp",
   },
   {
     id: "republicofcongo-mont-bambama-relief-v2",
@@ -341,6 +351,7 @@ export const republicofcongoReliefV2: POI[] = [
       ro: ["Aparține sistemului muntos Chaillu", "Situat în departamentul Lékoumou", "Altitudinea atinge peste 850 de metri", "Împrejurimile sunt bogate în specii endemice de orhidee", "Cumpănă de ape importantă pentru pârâurile locale", "Format în principal din gnais și granit"],
       en: ["Belongs to the Chaillu mountain system", "Located in the Lékoumou Department", "Elevation reaches over 850 meters", "Surroundings are rich in endemic orchid species", "Important watershed for local streams", "Composed mainly of gneiss and granite"],
     },
+    image: "/poi-images/republicofcongo-mont-bambama-relief-v2.webp",
   },
   {
     id: "republicofcongo-alima-river-basin-relief-v2",
@@ -372,6 +383,7 @@ export const republicofcongoReliefV2: POI[] = [
       ro: ["Alima este un afluent de dreapta al fluviului Congo", "Bazinul cuprinde părți ale departamentului Cuvette", "Râul are o lungime totală de aproximativ 500 de kilometri", "Regiunea este cunoscută pentru producția sa piscicolă", "Orașe importante precum Oyo sunt situate în bazin", "Peisajul este marcat de savane și păduri-galerie"],
       en: ["The Alima is a right-bank tributary of the Congo River", "Drainage basin includes parts of the Cuvette Department", "The river has a total length of about 500 kilometers", "Region is known for its fishery production", "Important towns like Oyo are located in the basin", "Landscape is characterized by savannas and gallery forests"],
     },
+    image: "/poi-images/republicofcongo-alima-river-basin-relief-v2.webp",
   },
   {
     id: "republicofcongo-mont-pala-relief-v2",
@@ -403,6 +415,7 @@ export const republicofcongoReliefV2: POI[] = [
       ro: ["Situat în departamentul Sangha", "Împrejurimile fac parte din zona de conservare TRIDOM", "Refugiu important pentru gorila de câmpie vestică", "Altitudinea este estimată la aproximativ 700-800 de metri", "Aparține unității geologice a bazinului Ivindo", "Regiunea primește peste 1.600 mm de precipitații pe an"],
       en: ["Located in the Sangha Department", "Surroundings are part of the TRIDOM conservation area", "Important refuge for the Western Lowland Gorilla", "Elevation is estimated at about 700-800 meters", "Belongs to the Ivindo Basin geological unit", "Region receives over 1,600 mm of rainfall per year"],
     },
+    image: "/poi-images/republicofcongo-mont-pala-relief-v2.webp",
   },
   {
     id: "republicofcongo-likouala-lowlands-relief-v2",
@@ -434,6 +447,7 @@ export const republicofcongoReliefV2: POI[] = [
       ro: ["Găzduiește Parcul Național Nouabalé-Ndoki", "Conține cea mai mare populație de gorile de câmpie din lume", "Regiunea este în mare parte lipsită de drumuri, fiind accesibilă cu barca", "Caracterizată prin inundații sezoniere", "Altitudinea medie este sub 350 de metri", "Parte importantă a rețelei de zone protejate RAMSAR"],
       en: ["Home to the Nouabalé-Ndoki National Park", "Contains the largest population of lowland gorillas in the world", "Region is largely roadless and accessible primarily by boat", "Characterized by seasonal flooding", "Mean elevation is below 350 meters", "Important part of the RAMSAR network of protected areas"],
     },
+    image: "/poi-images/republicofcongo-likouala-lowlands-relief-v2.webp",
   },
   {
     id: "republicofcongo-mont-kibali-relief-v2",
@@ -465,6 +479,7 @@ export const republicofcongoReliefV2: POI[] = [
       ro: ["Situat în partea de vest a munților Chaillu", "Altitudinea este de aproximativ 750-850 de metri", "Înconjurat de pădure tropicală virgină", "Format din formațiuni precambriene", "Zonă importantă de izvorâre pentru afluenții râului Ogoué", "Regiunea este cunoscută pentru avifauna sa bogată"],
       en: ["Located in the western part of the Chaillu Mountains", "Elevation is around 750-850 meters", "Surrounded by untouched tropical rainforest", "Composed of Precambrian formations", "Important source area for tributaries of the Ogoué", "Region is known for its rich birdlife"],
     },
+    image: "/poi-images/republicofcongo-mont-kibali-relief-v2.webp",
   },
   {
     id: "republicofcongo-sanga-basin-relief-v2",
@@ -496,6 +511,7 @@ export const republicofcongoReliefV2: POI[] = [
       ro: ["Râul Sangha are o lungime totală de aproximativ 790 km.", "Inclus în Patrimoniul Mondial UNESCO din anul 2012.", "Adăpostește populații semnificative de gorile de câmpie.", "Precipitațiile anuale depășesc frecvent pragul de 1600 mm.", "Face parte din al doilea cel mai mare sistem forestier tropical.", "Cuprinde Parcul Național Nouabalé-Ndoki pe teritoriul Congo."],
       en: ["The Sangha River has a total length of about 790 km.", "Part of the Sangha Trinational UNESCO World Heritage site since 2012.", "Home to significant populations of Western lowland gorillas.", "Annual rainfall in the basin often exceeds 1,600 mm.", "Belongs to the world's second-largest tropical rainforest system.", "Includes the Nouabalé-Ndoki National Park within Congo."],
     },
+    image: "/poi-images/republicofcongo-sanga-basin-relief-v2.webp",
   },
   {
     id: "republicofcongo-mont-tsikama-relief-v2",
@@ -527,6 +543,7 @@ export const republicofcongoReliefV2: POI[] = [
       ro: ["Face parte din lanțul muntos precambrian Mayombe.", "Situat în regiunea Niari, importantă din punct de vedere geografic.", "Altitudinea vârfului variază între 500 și 800 de metri.", "Este compus în principal din roci metamorfice vechi.", "Temperatura medie anuală este de aproximativ 24 °C.", "Acționează ca o cumpănă a apelor pentru râurile locale."],
       en: ["Part of the Precambrian Mayombe mountain range.", "Located within the geographically important Niari region.", "The summit height ranges between 500 and 800 meters.", "Composed primarily of ancient metamorphic rock formations.", "The average annual temperature is approximately 24 °C.", "Acts as a drainage divide for local river systems."],
     },
+    image: "/poi-images/republicofcongo-mont-tsikama-relief-v2.webp",
   },
   {
     id: "republicofcongo-mont-nkeni-relief-v2",
@@ -558,6 +575,7 @@ export const republicofcongoReliefV2: POI[] = [
       ro: ["Apartine sistemului geologic al platourilor Batéké.", "Localizat la nord de capitala țării, Brazzaville.", "Regiunea este compusă predominant din soluri nisipoase.", "Apele sale se scurg în sistemul râului Alima.", "Altitudinea atinge aproximativ 600 de metri peste nivelul mării.", "Zona are un climat tropical de savană umedă."],
       en: ["Belongs to the geological system of the Batéké Plateaus.", "Located north of the capital city, Brazzaville.", "The region is predominantly composed of sandy soils.", "Drains into the Alima River water system.", "Elevation reaches approximately 600 meters above sea level.", "The area features a tropical wet savanna climate."],
     },
+    image: "/poi-images/republicofcongo-mont-nkeni-relief-v2.webp",
   },
   {
     id: "republicofcongo-mont-lekoumou-relief-v2",
@@ -589,6 +607,7 @@ export const republicofcongoReliefV2: POI[] = [
       ro: ["Face parte din Masivul cristalin Chaillu.", "Departamentul Lékoumou este numit după râul local.", "Altitudinea medie a regiunii este de 500-700 metri.", "Solurile sunt în mare parte ferallitice și adânci.", "Centru important pentru exploatarea lemnului tropical.", "Precipitațiile anuale sunt de aproximativ 1700 mm."],
       en: ["Part of the crystalline Chaillu Massif.", "The Lékoumou Department is named after the local river.", "Average elevation of the region is 500-700 meters.", "Soils are mostly ferrallitic and very deep.", "Important location for tropical timber production.", "Annual rainfall is approximately 1,700 mm."],
     },
+    image: "/poi-images/republicofcongo-mont-lekoumou-relief-v2.webp",
   },
   {
     id: "republicofcongo-mont-mouyondzi-relief-v2",
@@ -620,6 +639,7 @@ export const republicofcongoReliefV2: POI[] = [
       ro: ["Situat în cea mai productivă zonă agricolă din Congo.", "Aparține bazinului geologic al râului Niari.", "Altitudinea variază între 400 și 600 de metri.", "Zăcămintele de calcar sunt frecvente în această regiune.", "Mouyondzi este un centru regional administrativ important.", "Zona a făcut parte istoric din Regatul Loango."],
       en: ["Located in Congo's most productive agricultural zone.", "Part of the geological basin of the Niari River.", "Elevation varies between 400 and 600 meters.", "Limestone deposits are common in this specific region.", "Mouyondzi is a significant regional administrative center.", "The area was historically part of the Loango Kingdom."],
     },
+    image: "/poi-images/republicofcongo-mont-mouyondzi-relief-v2.webp",
   },
   {
     id: "republicofcongo-mont-sibiti-relief-v2",
@@ -651,6 +671,7 @@ export const republicofcongoReliefV2: POI[] = [
       ro: ["Sibiti este reședința departamentului Lékoumou.", "Altitudinea orașului este de aproximativ 530 de metri.", "Regiunea este cunoscută pentru exploatarea minereurilor.", "Climatul este tropical umed cu un scurt sezon uscat.", "Se află la marginea pădurii tropicale Chaillu.", "Zona este bogată în cursuri de apă de mici dimensiuni."],
       en: ["Sibiti is the capital of the Lékoumou Department.", "The town's elevation is approximately 530 meters.", "The region is known for the extraction of ores.", "Climate is tropical wet with a short dry season.", "Situated at the edge of the Chaillu rainforest.", "The area is rich in small perennial watercourses."],
     },
+    image: "/poi-images/republicofcongo-mont-sibiti-relief-v2.webp",
   },
   {
     id: "republicofcongo-mont-odzala-relief-v2",
@@ -682,6 +703,7 @@ export const republicofcongoReliefV2: POI[] = [
       ro: ["Parcul Național a fost înființat încă din 1935.", "Suprafața parcului este de aproximativ 13.500 km².", "Adăpostește una dintre cele mai mari populații de gorile.", "Cunoscut pentru 'salines' (poieni bogate în minerale).", "Regiunea face parte din bazinul fluviului Congo.", "Altitudinile din cadrul parcului ating până la 500 metri."],
       en: ["The National Park was established as early as 1935.", "The park covers an area of about 13,500 km².", "Home to one of the largest populations of gorillas.", "Famous for its 'salines' (mineral-rich forest clearings).", "The region is part of the Congo River drainage basin.", "Elevations within the park reach up to 500 meters."],
     },
+    image: "/poi-images/republicofcongo-mont-odzala-relief-v2.webp",
   },
   {
     id: "republicofcongo-mont-kelle-relief-v2",
@@ -713,5 +735,6 @@ export const republicofcongoReliefV2: POI[] = [
       ro: ["Situat în nord-vestul izolat al Republicii Congo.", "Kéllé este reședința districtului cu același nume.", "Regiunea este celebră pentru fauna sa de primate.", "Aparține sistemului geologic al bazinului Cuvette.", "Temperatura medie anuală este de circa 25 °C.", "Pădurea este considerată un rezervor important de carbon."],
       en: ["Located in the remote northwest of the Republic of Congo.", "Kéllé serves as the capital of the district of the same name.", "The region is renowned for its rich primate fauna.", "Part of the geological system of the Cuvette Basin.", "The mean annual temperature is around 25 °C.", "The forest is a vital reservoir for global carbon storage."],
     },
+    image: "/poi-images/republicofcongo-mont-kelle-relief-v2.webp",
   }
 ];

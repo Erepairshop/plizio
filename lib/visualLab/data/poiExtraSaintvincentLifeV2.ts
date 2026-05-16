@@ -31,6 +31,7 @@ export const saintvincentLifeV2: POI[] = [
       ro: ["Traseul are o lungime totală de aproximativ 3,2 kilometri.", "Adăpostește populații sălbatice de papagali endemici Amazona guildingii.", "Este situat în Rezervația Forestieră Vermont din centrul insulei.", "Poteca include secțiuni cu trepte de lemn și puncte de belvedere.", "Pădurea acționează ca un filtru natural pentru sursele de apă potabilă.", "Cele mai bune momente pentru observarea păsărilor sunt răsăritul și apusul."],
       en: ["The trail is a 2-mile (3.2 km) loop through tropical rainforest.", "Home to the endangered and endemic St. Vincent Parrot.", "The area is a significant watershed providing water to local villages.", "Features lookouts that provide views of the entire Vermont Valley.", "Managed by the Forestry Department of St. Vincent and the Grenadines.", "The path is shaded by a canopy of giant tree ferns and tropical hardwoods."],
     },
+    image: "/poi-images/saintvincent-vermont-nature-trail-life-v2.webp",
   },
   {
     id: "saintvincent-montreal-gardens-life-v2",
@@ -62,6 +63,7 @@ export const saintvincentLifeV2: POI[] = [
       ro: ["Grădinile sunt situate la aproximativ 450 de metri deasupra mării.", "Beneficiază de precipitațiile bogate din regiunea centrală a insulei.", "Colecția include specii rare de ferigi și flori tropicale colorate.", "Este o proprietate privată deschisă publicului pentru vizitare.", "Oferă o perspectivă unică asupra versanților vulcanului La Soufrière.", "Aleile sunt proiectate pentru a oferi intimitate și relaxare vizitatorilor."],
       en: ["Located at an elevation of 1,500 feet in the Mesopotamia Valley.", "Features a vast collection of exotic plants like ginger and heliconia.", "Offers scenic views of the island's rugged mountainous interior.", "The gardens are privately owned but open to the general public.", "Home to numerous species of hummingbirds and tropical butterflies.", "Built on fertile volcanic soil that allows for rapid plant growth."],
     },
+    image: "/poi-images/saintvincent-montreal-gardens-life-v2.webp",
   },
   {
     id: "saintvincent-tobago-cays-marine-park-life-v2",
@@ -93,6 +95,7 @@ export const saintvincentLifeV2: POI[] = [
       ro: ["Cuprinde insulele Petit Rameau, Petit Bateau, Baradal, Petit Tabac și Jamesby.", "Horseshoe Reef are o lungime de peste 4 kilometri.", "Este administrat de Tobago Cays Marine Park Authority din 1998.", "Petit Tabac este insula unde Jack Sparrow a fost abandonat în film.", "Sanctuarul de țestoase permite înotul supravegheat cu speciile protejate.", "Zona este un punct cheie pentru conservarea recifelor de corali din Caraibe."],
       en: ["Includes five uninhabited islands protected by the Horseshoe Reef.", "The Baradal Turtle Sanctuary is a designated area for sea turtle protection.", "Petit Tabac was used as a filming location for 'Pirates of the Caribbean'.", "The park is a government-managed marine protected area (MPA).", "It is a world-renowned destination for yachting and catamaran tours.", "Fishing is strictly prohibited within the park boundaries to preserve stocks."],
     },
+    image: "/poi-images/saintvincent-tobago-cays-marine-park-life-v2.webp",
   },
   {
     id: "saintvincent-union-island-gecko-reserve-life-v2",
@@ -124,6 +127,7 @@ export const saintvincentLifeV2: POI[] = [
       ro: ["Protejează specia endemică Gonatodes daudini, descoperită în 2005.", "Specia este inclusă pe lista roșie a IUCN ca fiind critic periclitată.", "Rezervația este monitorizată de gardieni locali pentru a opri braconajul.", "Habitatul se limitează la o zonă de pădure uscată pe insula Union.", "Populația este estimată la câteva mii de exemplare în această zonă restrânsă.", "Geko-ul este renumit pentru culorile sale spectaculoase, asemănătoare pietrelor prețioase."],
       en: ["Dedicated solely to the protection of the endemic Union Island Gecko.", "The species was first described by scientists in 2005.", "It is listed as Critically Endangered due to its extremely small range.", "The reserve covers a specific forested area on the slopes of Union Island.", "Strict anti-poaching measures are in effect to prevent illegal collection.", "The gecko's habitat is sensitive to changes in humidity and leaf litter."],
     },
+    image: "/poi-images/saintvincent-union-island-gecko-reserve-life-v2.webp",
   },
   {
     id: "saintvincent-ashton-lagoon-life-v2",
@@ -155,6 +159,7 @@ export const saintvincentLifeV2: POI[] = [
       ro: ["Este cea mai întinsă zonă de mangrove din arhipelagul Grenadinelor.", "Restaurarea ecologică a fost finalizată oficial în anul 2015.", "Zona este vitală pentru supraviețuirea broaștelor țestoase marine.", "Include trei tipuri principale de mangrove: roșu, negru și alb.", "Canalele de apă au fost redeschise pentru a permite fluxul mareic.", "Reprezintă o destinație majoră pentru observarea păsărilor migratoare."],
       en: ["The largest mangrove forest and lagoon complex in the Grenadines.", "Damaged by a marina project in 1994 and restored starting in 2007.", "Designated as an Important Bird Area (IBA) by BirdLife International.", "Home to a 1.5-mile interpretive trail with wooden boardwalks.", "Acts as a natural nursery for lobster, conch, and various reef fish.", "Essential for protecting Union Island from storm surges and erosion."],
     },
+    image: "/poi-images/saintvincent-ashton-lagoon-life-v2.webp",
   },
   {
     id: "saintvincent-petit-canouan-wildlife-reserve-life-v2",
@@ -186,6 +191,7 @@ export const saintvincentLifeV2: POI[] = [
       ro: ["Insula este declarată oficial rezervație de faună sălbatică.", "Găzduiește colonii mari de păsări din specia Sula leucogaster.", "Accesul uman este restricționat pentru a proteja habitatele fragile.", "Este situată la nord-est de insula Canouan, în largul mării.", "Situl este monitorizat pentru studiul schimbărilor climatice globale.", "Vegetația este adaptată la condiții de salinitate ridicată și vânt."],
       en: ["An uninhabited 15-hectare wildlife reserve in the Grenadines.", "Key nesting site for the Magnificent Frigatebird and Brown Booby.", "Established as a reserve to prevent the introduction of invasive species.", "Landing is restricted to minimize disturbance to nesting colonies.", "The surrounding waters are part of a broader marine management plan.", "Crucial for maintaining regional seabird biodiversity in the Caribbean."],
     },
+    image: "/poi-images/saintvincent-petit-canouan-wildlife-reserve-life-v2.webp",
   },
   {
     id: "saintvincent-mustique-turtle-sanctuary-life-v2",
@@ -217,6 +223,7 @@ export const saintvincentLifeV2: POI[] = [
       ro: ["Monitorizează plajele Macaroni și Pasture, locuri cheie de nidificare.", "Folosește tehnologia GPS pentru a urmări migrația țestoaselor adulte.", "Include un program de voluntariat pentru rezidenții insulei.", "Rata de succes a eclozării a crescut semnificativ datorită protecției.", "Sanctuarul face parte dintr-o rețea regională de conservare a marinei.", "Vizitatorii pot vedea procesul de eclozare în perioadele specifice ale anului."],
       en: ["Protects the nesting grounds of the Hawksbill and Green sea turtles.", "Implements a successful 'Dark Skies' policy to aid hatchling survival.", "Managed by the Mustique Company's Environmental Department.", "Provides a rescue and rehabilitation center for sick or injured turtles.", "Collects vital data on sea turtle populations for regional databases.", "Educates tourists on how to interact safely with marine wildlife."],
     },
+    image: "/poi-images/saintvincent-mustique-turtle-sanctuary-life-v2.webp",
   },
   {
     id: "saintvincent-palm-island-bird-sanctuary-life-v2",
@@ -248,6 +255,7 @@ export const saintvincentLifeV2: POI[] = [
       ro: ["Adăpostește peste 150 de specii, inclusiv păsări acvatice și de uscat.", "A fost transformată în sanctuar în anii 1960 de către John Caldwell.", "Insula este înconjurată de cinci plaje cu nisip alb, habitate pentru păsări.", "Este un punct major de observație pentru specia Bananaquit.", "Include zone de mangrove restaurate special pentru biodiversitate.", "Ecoturismul este activitatea principală, susținând eforturile de conservare."],
       en: ["Home to more than 150 species of resident and migratory birds.", "Originally named Prune Island before its ecological transformation.", "Over 8,000 coconut palms were hand-planted to create the sanctuary.", "Serves as a vital wintering ground for North American migrants.", "Features a dedicated nature trail through various micro-ecosystems.", "The entire island operates under a sustainable environmental policy."],
     },
+    image: "/poi-images/saintvincent-palm-island-bird-sanctuary-life-v2.webp",
   },
   {
     id: "saintvincent-richmond-vale-nature-park-life-v2",
@@ -279,6 +287,7 @@ export const saintvincentLifeV2: POI[] = [
       ro: ["Găzduiește programe internaționale de educație ecologică din 2002.", "Promovează tehnici de agricultură fără pesticide și îngrășăminte chimice.", "Accesul la cascadele Richmond este unul dintre punctele forte ale vizitei.", "Zona a fost afectată de erupția din 2021, fiind în plină regenerare.", "Parcul include grădini demonstrative de permacultură.", "Este un punct de plecare popular pentru ascensiunile pe vulcanul Soufrière."],
       en: ["Home to the Richmond Vale Academy, a global climate center.", "Located near the base of the active La Soufrière volcano.", "Utilizes sustainable energy and organic farming practices.", "Features trails leading to the impressive Richmond Waterfall.", "Plays a key role in regional climate adaptation and education.", "Focuses on reforestation and restoring biodiversity after volcanic events."],
     },
+    image: "/poi-images/saintvincent-richmond-vale-nature-park-life-v2.webp",
   },
   {
     id: "saintvincent-cumberland-nature-trail-life-v2",
@@ -310,6 +319,7 @@ export const saintvincentLifeV2: POI[] = [
       ro: ["Traseul traversează una dintre cele mai fertile văi ale insulei.", "Este o locație preferată pentru ornitologii amatori și profesioniști.", "Pădurea de aici ajută la prevenirea eroziunii solului în zonele abrupte.", "Include secțiuni cu trepte naturale din rădăcini de arbori.", "Valea Cumberland este cunoscută pentru hidroenergia produsă local.", "Vegetația include specii de orhidee sălbatice și bromelii."],
       en: ["Located in the lush Cumberland Valley, a key agricultural area.", "A premier spot for observing the island's diverse avian species.", "The trail highlights the importance of rainforests as watersheds.", "Managed and preserved by the local Forestry Department.", "Offers a mix of gentle slopes and more challenging uphill sections.", "Surrounded by some of the island's tallest tropical tree species."],
     },
+    image: "/poi-images/saintvincent-cumberland-nature-trail-life-v2.webp",
   },
   {
     id: "saintvincent-wallilabou-nature-park-life-v2",
@@ -341,6 +351,7 @@ export const saintvincentLifeV2: POI[] = [
       ro: ["A găzduit echipa de filmare a producției 'Pirații din Caraibe' timp de luni de zile.", "Cascada Wallilabou este renumită pentru apele sale terapeutice locale.", "Decorurile de piatră din film au fost păstrate pentru turiști.", "Este situat în Golful Wallilabou, o zonă istorică de comerț maritim.", "Include facilități moderne pentru vizitatori și zone de odihnă.", "Râul care traversează parcul se varsă direct în Marea Caraibelor."],
       en: ["Primary filming location for Disney's 'Pirates of the Caribbean' (2003).", "Features a scenic waterfall and a river suitable for swimming.", "An on-site photo gallery showcases images of the movie cast and sets.", "Wallilabou Bay has a long history as a center for the arrowroot trade.", "The park is a popular stop for yacht excursions along the west coast.", "Ruins of an 18th-century sugar mill can be found in the vicinity."],
     },
+    image: "/poi-images/saintvincent-wallilabou-nature-park-life-v2.webp",
   },
   {
     id: "saintvincent-dark-view-nature-area-life-v2",
@@ -372,6 +383,7 @@ export const saintvincentLifeV2: POI[] = [
       ro: ["Cascadele sunt formate pe cursul unui afluent al râului Richmond.", "Podul de bambus este reconstruit periodic folosind metode tradiționale.", "Prima cascadă este accesibilă în aproximativ 15 minute de mers.", "Bazinul natural de la bază are o adâncime sigură pentru înot.", "Este o zonă protejată gestionată de autoritățile parcurilor naționale.", "Flora include specii rare de Heliconia și arbori de mahon."],
       en: ["Features two distinct waterfalls cascading down volcanic cliffs.", "Access requires crossing a unique and scenic bamboo footbridge.", "The first waterfall drops roughly 75 feet into a swimmable pool.", "Surrounded by a dense forest of giant bamboo and tropical ferns.", "The site includes picnic huts and well-maintained visitor amenities.", "Located at the foot of the mountains in the northern part of the island."],
     },
+    image: "/poi-images/saintvincent-dark-view-nature-area-life-v2.webp",
   },
   {
     id: "saintvincent-owia-salt-pond-park-life-v2",
@@ -403,6 +415,7 @@ export const saintvincentLifeV2: POI[] = [
       ro: ["Situat în satul Owia, locuit de descendenții populației Garifuna.", "Dispune de poteci amenajate și pavilioane pentru vizitatori.", "Reprezintă centrul social pentru evenimentele din nordul insulei.", "Oferă o perspectivă asupra practicilor tradiționale de pescuit.", "Afectat temporar de erupția vulcanului La Soufrière din 2021.", "Protejează patrimoniul cultural și istoric al caribilor negri."],
       en: ["Located in Owia village, home to descendants of the Garifuna.", "Features established paths and gazebos for public use.", "The primary social venue for community festivals in North SVG.", "Provides insights into traditional local fishing practices.", "Temporarily affected by the 2021 La Soufrière eruption.", "Serves as a protected site for indigenous cultural heritage."],
     },
+    image: "/poi-images/saintvincent-owia-salt-pond-park-life-v2.webp",
   },
   {
     id: "saintvincent-mesopotamia-valley-nature-reserve-life-v2",
@@ -434,5 +447,6 @@ export const saintvincentLifeV2: POI[] = [
       ro: ["Cea mai productivă regiune agricolă din Saint Vincent.", "Furnizează cea mai mare parte a apei potabile pentru capitală.", "Bananele sunt principalul produs de export al acestei regiuni.", "Formată dintr-un sistem complex de creste vulcanice și văi.", "Utilizarea agricolă intensivă a început în secolul al XVIII-lea.", "Găzduiește numeroase mici ferme familiale."],
       en: ["Known as the most productive agricultural region in St. Vincent.", "Supplies the majority of the fresh water for the capital, Kingstown.", "Bananas are the primary export crop produced in this area.", "Comprised of a complex system of volcanic ridges and valleys.", "Intensive agricultural development began in the 18th century.", "Home to numerous small-scale family farming operations."],
     },
+    image: "/poi-images/saintvincent-mesopotamia-valley-nature-reserve-life-v2.webp",
   }
 ];

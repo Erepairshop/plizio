@@ -32,6 +32,7 @@ export const austriaHistoryV2: POI[] = [
       ro: ["Castelul a fost menționat documentar pentru prima dată în anul 1145.", "Din anul 1730, castelul se află în posesia familiei Khevenhüller-Metsch.", "În anul 1888 a început reconstrucția pe scară largă sub prințul Johann Carl.", "Ansamblul castelului dispune de un total de cinci porți și numeroase turnuri.", "Capela castelului a fost remodelată în stil gotic în secolul al XIV-lea.", "Hardegg este situat direct pe râul Thaya, care marchează aici granița de stat."],
       en: ["The castle was first mentioned in a document in the year 1145.", "Since 1730, the castle has been owned by the Khevenhüller-Metsch family.", "The large-scale reconstruction began in 1888 under Prince Johann Carl.", "The castle complex features a total of five gates and numerous defensive towers.", "The castle chapel was redesigned in the Gothic style during the 14th century.", "Hardegg is located directly on the Thaya River, which marks the state border here."],
     },
+    image: "/poi-images/austria-burg-hardegg-history-v2.webp",
   },
   {
     id: "austria-schloss-parz-history-v2",
@@ -64,6 +65,7 @@ export const austriaHistoryV2: POI[] = [
       ro: ["Celebrele fresce de pe fațadă au fost finalizate în anul 1580.", "Suprafața pictată cuprinde în total aproximativ 400 de metri pătrați pe peretele exterior.", "Castelul pe apă Parz a fost menționat documentar încă din secolul al XIV-lea.", "În anul 1987, orașul Grieskirchen a achiziționat ansamblul castelului.", "Frescele prezintă, printre altele, scene din viața împăratului Carol al V-lea.", "Restaurarea picturilor a durat din 1984 până în anul 1987."],
       en: ["The famous facade frescoes were completed in the year 1580.", "The painted area covers a total of about 400 square meters on the outer wall.", "Parz Moated Castle was already mentioned in documents in the 14th century.", "In 1987, the city of Grieskirchen acquired the castle complex.", "The frescoes depict, among other things, scenes from the life of Emperor Charles V.", "The restoration of the paintings lasted from 1984 until the year 1987."],
     },
+    image: "/poi-images/austria-schloss-parz-history-v2.webp",
   },
   {
     id: "austria-burg-finstergruen-history-v2",
@@ -96,6 +98,7 @@ export const austriaHistoryV2: POI[] = [
       ro: ["Castelul a fost menționat pentru prima dată în 1138 sub numele de 'Burgruine an der Gren'.", "În anul 1841, un incendiu de pădure devastator a distrus mari părți din vechea ruină.", "Reconstrucția realizată de familia Szápáry a început în anul 1901.", "Castelul are un turn principal cu o înălțime de 25 de metri.", "Din anul 1945, castelul este utilizat ca centru internațional pentru tineret.", "Finstergrün este situat la o altitudine de 1.087 metri deasupra nivelului mării."],
       en: ["The castle was first mentioned in 1138 as 'Burgruine an der Gren'.", "In 1841, a devastating forest fire destroyed large parts of the old ruins.", "The reconstruction by the Szápáry family began in the year 1901.", "The castle features a keep with a height of 25 meters.", "Since 1945, the castle has been used as an international youth center.", "Finstergrün is located at an altitude of 1,087 meters above sea level."],
     },
+    image: "/poi-images/austria-burg-finstergruen-history-v2.webp",
   },
   {
     id: "austria-schloss-greinburg-history-v2",
@@ -128,6 +131,7 @@ export const austriaHistoryV2: POI[] = [
       ro: ["Castelul a fost construit în jurul anului 1491 ca structură defensivă și reședință.", "Mozaicurile din pietriș din Sala Terrena sunt formate din aproximativ 1,5 milioane de pietre.", "Casa de Saxa-Coburg și Gotha a achiziționat ansamblul în anul 1823.", "Bolta diamant din capela castelului a fost finalizată în anul 1493.", "Curtea cu arcade este considerată unul dintre cele mai frumoase exemple de Renaștere din Austria.", "Castelul este situat pe o stâncă la aproximativ 20 de metri deasupra nivelului Dunării."],
       en: ["The castle was built around 1491 as a defensive structure and residence.", "The pebble mosaics in the Sala Terrena consist of around 1.5 million stones.", "The House of Saxe-Coburg and Gotha acquired the property in the year 1823.", "The Diamond Vault in the castle chapel was completed in the year 1493.", "The arcaded courtyard is considered one of the finest examples of Renaissance in Austria.", "The castle sits on a rock about 20 meters above the level of the Danube."],
     },
+    image: "/poi-images/austria-schloss-greinburg-history-v2.webp",
   },
   {
     id: "austria-burg-lockenhaus-history-v2",
@@ -160,6 +164,7 @@ export const austriaHistoryV2: POI[] = [
       ro: ["Castelul a fost menționat documentar pentru prima dată în 1242 sub numele 'Leuca'.", "Familia Esterházy a deținut castelul din anul 1676 până în anul 1968.", "Sala de cult subterană are o înălțime a boltei de aproximativ 11 metri.", "Festivalul internațional de muzică de cameră a fost fondat în 1981 de Gidon Kremer.", "În podurile castelului trăiesc pe timpul verii până la 1.000 de lilieci din specii rare.", "Castelul este situat la poalele Geschriebenstein, cel mai înalt munte din Burgenland."],
       en: ["The castle was first mentioned in the year 1242 under the name 'Leuca'.", "The Esterházy family owned the castle from 1676 until the year 1968.", "The underground cult room has a vault height of approximately 11 meters.", "The international chamber music festival was founded in 1981 by Gidon Kremer.", "Up to 1,000 bats of a rare species live in the attics during the summer months.", "The castle is located at the foot of the Geschriebenstein, the highest mountain in Burgenland."],
     },
+    image: "/poi-images/austria-burg-lockenhaus-history-v2.webp",
   },
   {
     id: "austria-burg-tiefenbach-history-v2",
@@ -192,6 +197,7 @@ export const austriaHistoryV2: POI[] = [
       ro: ["Castelul Tiefenbach a fost menționat documentar pentru prima dată în jurul anului 1250.", "Familia nobilă a cavalerilor de Tiefenbach s-a stins în secolul al XVII-lea.", "Ansamblul a fost abandonat definitiv de către locuitorii săi în jurul anului 1650.", "Ruina este situată pe o colină la aproximativ 700 de metri deasupra nivelului mării.", "Primele lucrări de consolidare a zidurilor au avut loc la sfârșitul secolului al XX-lea.", "Nucleul castelului acoperă o suprafață de aproximativ 1.200 de metri pătrați pe stâncă."],
       en: ["Tiefenbach Castle was first mentioned in a document around the year 1250.", "The lineage of the Knights of Tiefenbach became extinct in the 17th century.", "The complex was finally abandoned by its inhabitants around the year 1650.", "The ruins are located on a hill about 700 meters above sea level.", "Initial securing works on the walls took place in the late 20th century.", "The core castle covers an area of approximately 1,200 square meters on the rock."],
     },
+    image: "/poi-images/austria-burg-tiefenbach-history-v2.webp",
   },
   {
     id: "austria-burg-griesstein-history-v2",
@@ -224,6 +230,7 @@ export const austriaHistoryV2: POI[] = [
       ro: ["Castelul Griesstein a fost construit la începutul secolului al XII-lea de familia Zinzendorf.", "Familia Zinzendorf a locuit în acest ansamblu până în Evul Mediu târziu.", "În secolul al XVI-lea, castelul și-a pierdut importanța militară și a fost abandonat.", "Fortificația este situată la o altitudine de aproximativ 580 de metri în Mostviertel.", "Astăzi mai sunt vizibile resturi ale turnului principal pătrat și ale zidului de incintă.", "Ruina se află în proprietate privată, dar este parțial accesibilă drumeților."],
       en: ["Griesstein Castle was built in the early 12th century by the Zinzendorfs.", "The Zinzendorf family inhabited the complex until the late Middle Ages.", "In the 16th century, the castle lost its military significance and was abandoned.", "The fortification is located at an altitude of about 580 meters in the Mostviertel.", "Today, remains of the square keep and the curtain wall are still visible.", "The ruins are privately owned but are partially accessible to hikers."],
     },
+    image: "/poi-images/austria-burg-griesstein-history-v2.webp",
   },
   {
     id: "austria-burg-raabs-an-der-thaya-history-v2",
@@ -256,6 +263,7 @@ export const austriaHistoryV2: POI[] = [
       ro: ["Prima menționare documentară a castelului datează din anul 1100.", "Este situat la confluența râurilor Thaya Germană și Thaya Moravă.", "Castelul a fost reședința ancestrală a conților de Raabs.", "În secolul al XVI-lea, complexul a fost reconstruit în stil renascentist.", "Capela castelului conține fresce gotice de o mare valoare artistică.", "Fortificația include un turn principal impresionant, lat de 12 metri."],
       en: ["The first documentary mention of the castle occurred in the year 1100.", "It is located at the confluence of the German and Moravian Thaya rivers.", "The castle was the ancestral seat of the Counts of Raabs.", "In the 16th century, the site was converted into a Renaissance palace.", "The castle chapel features valuable Gothic frescoes.", "The complex includes a prominent keep that is 12 meters wide."],
     },
+    image: "/poi-images/austria-burg-raabs-an-der-thaya-history-v2.webp",
   },
   {
     id: "austria-burg-ruine-durnstein-history-v2",
@@ -288,6 +296,7 @@ export const austriaHistoryV2: POI[] = [
       ro: ["Richard Inimă de Leu a fost întemnițat aici între 1192 și 1193.", "Castelul a fost construit în jurul anilor 1140/1145 de familia Kuenringer.", "În anul 1645, trupele suedeze au distrus fortăreața prin explozie.", "Pentru eliberarea lui Richard s-a plătit o răscumpărare de 100.000 mărci de argint.", "Ruinele sunt situate la o altitudine de 312 metri deasupra nivelului mării.", "Din anul 1902, zidurile castelului beneficiază de măsuri regulate de conservare."],
       en: ["Richard the Lionheart was imprisoned here from 1192 to 1193.", "The castle was built around 1140/1145 by the Kuenringers.", "In 1645, Swedish troops destroyed the fortress with explosives.", "A ransom of 100,000 marks of silver was paid for Richard's release.", "The ruins are located at an elevation of 312 meters above sea level.", "Since 1902, regular conservation measures have been carried out on the walls."],
     },
+    image: "/poi-images/austria-burg-ruine-durnstein-history-v2.webp",
   },
   {
     id: "austria-burg-scharfeneck-history-v2",
@@ -320,6 +329,7 @@ export const austriaHistoryV2: POI[] = [
       ro: ["Castelul a fost construit probabil în jurul anului 1390 de familia Wolfstein.", "Împăratul Frederic al III-lea a achiziționat complexul în anul 1445.", "Distrugerea de către trupele otomane a avut loc în anul 1529.", "Turnul de locuit pătrat avea o lungime a laturii de aproximativ 10 metri.", "Ruinele se află în incinta parcului natural Die Wüste Mannersdorf.", "Din anii 1990, structura este restaurată prin eforturile unor voluntari."],
       en: ["The castle was likely built around 1390 by the Wolfstein family.", "Emperor Frederick III acquired the complex in 1445.", "The destruction by Ottoman troops occurred in 1529.", "The square residential tower had a side length of about 10 meters.", "The ruins are located within the Mannersdorf Desert Nature Park.", "Since the 1990s, the site has been restored by volunteers."],
     },
+    image: "/poi-images/austria-burg-scharfeneck-history-v2.webp",
   },
   {
     id: "austria-burg-aggstein-history-v2",
@@ -352,6 +362,7 @@ export const austriaHistoryV2: POI[] = [
       ro: ["Prima mențiune documentară a castelului datează din jurul anului 1113.", "Lungimea totală a complexului cetății este de 150 de metri.", "Jörg Scheck von Wald a reconstruit castelul între 1429 și 1436.", "Ruinele Aggstein primesc anual aproximativ 50.000 de vizitatori.", "Faimoasa legendă a „Grădinii de trandafiri” provine din secolul al XV-lea.", "Din anul 2003, castelul aparține Fundației Familiei Starhemberg."],
       en: ["The castle was first documented around 1113.", "The total length of the castle complex is an impressive 150 meters.", "Jörg Scheck von Wald rebuilt the castle between 1429 and 1436.", "The Aggstein ruins receive about 50,000 visitors annually.", "The famous legend of the 'Rosengärtlein' dates back to the 15th century.", "Since 2003, the castle has belonged to the Starhemberg family foundation."],
     },
+    image: "/poi-images/austria-burg-aggstein-history-v2.webp",
   },
   {
     id: "austria-schloss-pottenbrunn-history-v2",
@@ -384,6 +395,7 @@ export const austriaHistoryV2: POI[] = [
       ro: ["Castelul a fost construit între 1580 și 1590 în stil renascentist.", "Șanțul de apă distinctiv este alimentat de râul Traisen.", "Un incendiu devastator a distrus în 1945 mari părți din acoperiș.", "Turnul cu cupolă de ceapă este un simbol al regiunii St. Pölten.", "Muzeul castelului a găzduit cândva cea mai mare colecție de figurine din cositor.", "Complexul dispune de o grădină peisajistică englezească bine întreținută."],
       en: ["The castle was built between 1580 and 1590 in the Renaissance style.", "The distinctive moat is fed by the Traisen River.", "A devastating fire in 1945 destroyed large parts of the roof structure.", "The onion dome tower is a landmark of the St. Pölten region.", "The castle museum formerly housed the world's largest pewter figure collection.", "The complex features a well-preserved English landscape garden."],
     },
+    image: "/poi-images/austria-schloss-pottenbrunn-history-v2.webp",
   },
   {
     id: "austria-burg-steinegg-history-v2",
@@ -416,6 +428,7 @@ export const austriaHistoryV2: POI[] = [
       ro: ["Prima menționare a lorzilor de Steinegg a avut loc în anul 1133.", "Castelul este situat la aproximativ 100 de metri deasupra râului Kamp.", "Regele Matei Corvin a ocupat castelul în anul 1480.", "Zidul de incintă are în unele locuri o grosime de peste 2 metri.", "În secolul al XVII-lea, complexul era deja descris ca fiind pustiu.", "Ruina face parte din rețeaua vastă de trasee de drumeție din valea Kamp."],
       en: ["The first mention of the Lords of Steinegg occurred in 1133.", "The castle lies about 100 meters above the water level of the Kamp.", "King Matthias Corvinus occupied the castle in 1480.", "The curtain wall has a thickness of over 2 meters in some places.", "In the 17th century, the site was already described as deserted.", "The ruins are part of the extensive hiking trail network in the Kamp Valley."],
     },
+    image: "/poi-images/austria-burg-steinegg-history-v2.webp",
   },
   {
     id: "austria-burg-oedenburg-history-v2",
@@ -448,6 +461,7 @@ export const austriaHistoryV2: POI[] = [
       ro: ["Castelul a fost construit probabil în jurul anului 1130.", "Inițial, a servit drept punct de sprijin pentru episcopii de Passau.", "Numele Oedenburg este menționat pentru prima dată în anul 1251.", "Fundațiile turnului principal romanic au o grosime de 1,8 metri.", "Ruinele sunt situate pe o creastă stâncoasă înaltă de 300 de metri.", "Zidăria este realizată în principal din piatră de carieră regională."],
       en: ["The castle was likely built around the year 1130.", "It originally served as a base for the Bishops of Passau.", "The name Oedenburg is first mentioned in 1251.", "The foundations of the Romanesque keep are 1.8 meters thick.", "The ruins are situated on a 300-meter-high rocky ridge.", "The masonry consists mainly of regional quarry stone."],
     },
+    image: "/poi-images/austria-burg-oedenburg-history-v2.webp",
   },
   {
     id: "austria-burg-rothenstein-history-v2",
@@ -480,6 +494,7 @@ export const austriaHistoryV2: POI[] = [
       ro: ["Castelul a fost menționat pentru prima dată în jurul anului 1180.", "Numele provine de la roca de gnais roșiatică a locului de construcție.", "Complexul este situat pe un pinten stâncos abrupt, la 420 de metri altitudine.", "În secolul al XIV-lea, castelul a aparținut lorzilor de Wallsee.", "Ruina este accesibilă astăzi doar prin poteci înguste de pădure.", "Turnul principal pătrat avea o grosime a zidului de 2,5 metri."],
       en: ["The castle was first mentioned around the year 1180.", "The name is derived from the reddish gneiss rock of the construction site.", "The site is located on a rugged rocky spur at an altitude of 420 meters.", "In the 14th century, the castle belonged to the Lords of Wallsee.", "The ruins are currently accessible only via narrow forest paths.", "The square keep had a wall thickness of 2.5 meters."],
     },
+    image: "/poi-images/austria-burg-rothenstein-history-v2.webp",
   },
   {
     id: "austria-schloss-falkenstein-history-v2",
@@ -512,6 +527,7 @@ export const austriaHistoryV2: POI[] = [
       ro: ["Castelul a fost fondat în jurul anului 1050 sub împăratul Henric al III-lea.", "Falkenstein a fost un sediu important al tribunalului regional.", "În anul 1645, trupele suedeze au asediat și ocupat castelul.", "Complexul găzduiește o roată de călcat din lemn, fidelă originalului medieval.", "Stânca de calcar pe care stă castelul este cunoscută ca un reper geografic.", "Din 1992, au loc lucrări ample de revitalizare și conservare."],
       en: ["The castle was founded around 1050 under Emperor Henry III.", "Falkenstein was a significant stronghold for the regional court.", "In 1645, Swedish troops besieged and occupied the castle.", "The site houses an authentic wooden treadmill from the Middle Ages.", "The limestone cliff on which the castle stands is a well-known landmark.", "Extensive revitalization work has been taking place since 1992."],
     },
+    image: "/poi-images/austria-schloss-falkenstein-history-v2.webp",
   },
   {
     id: "austria-burg-hard-history-v2",
@@ -544,6 +560,7 @@ export const austriaHistoryV2: POI[] = [
       ro: ["Castelul Hard a fost construit în jurul anului 1140.", "Complexul a servit la securizarea frontierei cu Moravia.", "Castelul a fost menționat ca fiind în stare de degradare încă din anul 1400.", "Ruinele aparțin astăzi abației Altenburg.", "În apropiere se află satul medieval abandonat Hard, de mare importanță arheologică.", "Fragmentul de turn pătrat se păstrează pe o înălțime de aproximativ 4 metri."],
       en: ["Hard Castle was built around the year 1140.", "The site served to secure the border with Moravia.", "The castle was already mentioned as dilapidated around 1400.", "The ruins now belong to the Altenburg Abbey.", "Nearby is the archaeologically significant deserted village of Hard.", "The square tower stump is still preserved to a height of about 4 meters."],
     },
+    image: "/poi-images/austria-burg-hard-history-v2.webp",
   },
   {
     id: "austria-schloss-staatz-history-v2",
@@ -576,6 +593,7 @@ export const austriaHistoryV2: POI[] = [
       ro: ["Ruina se află pe muntele Staatz, care are o înălțime de 332 de metri.", "Distrugerea de către suedezi a avut loc la 24 aprilie 1645.", "În 1045, împăratul Henric al III-lea l-a învins aici pe ducele Bretislav I.", "Familia Kuenring a deținut castelul în secolul al XII-lea.", "Scena în aer liber Staatz are o capacitate de aproximativ 1.200 de spectatori.", "Din 1953, pe ruină se desfășoară regulat măsuri de conservare."],
       en: ["The ruins sit atop the 332-meter-high Staatz Mountain.", "The destruction by the Swedes occurred on April 24, 1645.", "In 1045, Emperor Henry III defeated Duke Bretislav I at this site.", "The Kuenringer family owned the castle during the 12th century.", "The Staatz rock stage can accommodate around 1,200 spectators.", "Conservation measures have been regularly carried out on the ruins since 1953."],
     },
+    image: "/poi-images/austria-schloss-staatz-history-v2.webp",
   },
   {
     id: "austria-burg-peilstein-history-v2",
@@ -608,6 +626,7 @@ export const austriaHistoryV2: POI[] = [
       ro: ["Conții de Peilstein proveneau din familia Sieghardinger.", "Prima menționare documentară datează din jurul anului 1140.", "În anul 1218, familia Peilstein s-a stins pe linie masculină.", "Ruina castelului se află pe o creastă de deal împădurită.", "S-au păstrat resturi ale turnului de veghe pătrat.", "Complexul a fost poziționat strategic deasupra văii Melk."],
       en: ["The Counts of Peilstein were descendants of the Sieghardingers.", "The first documentary mention dates to around the year 1140.", "In 1218, the Peilstein noble line became extinct in the male line.", "The castle ruins are situated on a forested ridge.", "Remnants of the square keep are still preserved.", "The complex was strategically positioned above the Melk valley."],
     },
+    image: "/poi-images/austria-burg-peilstein-history-v2.webp",
   },
   {
     id: "austria-burg-grub-history-v2",
@@ -640,6 +659,7 @@ export const austriaHistoryV2: POI[] = [
       ro: ["Prima menționare a avut loc în anul 1104.", "Lorzii de Grub au fost strâns legați de abația Altenburg.", "Complexul dispune de un turn de veghe detașat, proeminent.", "În anul 1425, castelul a fost atacat de husiți.", "Ruina este astăzi în proprietatea privată a familiei Hoyos.", "Săpături arheologice au avut loc la sfârșitul secolului XX."],
       en: ["The first mention occurred in the year 1104.", "The Lords of Grub were closely connected to Altenburg Abbey.", "The site features a prominent, free-standing keep.", "In 1425, the castle was attacked by the Hussites.", "The ruins are currently privately owned by the Hoyos family.", "Archaeological excavations were conducted in the late 20th century."],
     },
+    image: "/poi-images/austria-burg-grub-history-v2.webp",
   },
   {
     id: "austria-schloss-ebersdorf-history-v2",
@@ -672,6 +692,7 @@ export const austriaHistoryV2: POI[] = [
       ro: ["Prima menționare documentară a localității a fost în anul 1108.", "Sigismund de Ebersdorf a fost un ministerial important al secolului al XV-lea.", "Castelul posedă o curte cu arcade remarcabilă.", "În anul 1809, castelul a fost ocupat de trupele franceze.", "Fațada actuală datează în cea mai mare parte din jurul anului 1720.", "Capela castelului adăpostește opere de artă valoroase din perioada goticului târziu."],
       en: ["The first documentary mention of the site was in 1108.", "Sigismund of Ebersdorf was a prominent 15th-century ministerial.", "The castle features a notable arcaded courtyard.", "In 1809, the castle was occupied by French troops.", "The current facade dates largely from around 1720.", "The castle chapel houses valuable late Gothic artworks."],
     },
+    image: "/poi-images/austria-schloss-ebersdorf-history-v2.webp",
   },
   {
     id: "austria-burg-neudegg-history-v2",
@@ -704,6 +725,7 @@ export const austriaHistoryV2: POI[] = [
       ro: ["Fondarea castelului a fost realizată de Wichard de Neudegg.", "Primele mențiuni se găsesc în documentele abației Geras.", "Complexul este situat pe o creastă stâncoasă îngustă deasupra râului Pulkau.", "O parte a ruinei a fost dărâmată în secolul al XIX-lea.", "Turnul de veghe avea inițial o înălțime de peste 20 de metri.", "Castelul făcea parte dintr-un sistem de securitate în lanț de-a lungul graniței."],
       en: ["The castle was founded by Wichard of Neudegg.", "The first mentions are found in the documents of Geras Abbey.", "The site is located on a narrow rocky ridge above the Pulkau river.", "Part of the ruins were removed in the 19th century.", "The keep originally stood at a height of over 20 meters.", "The castle was part of a chain of defensive sites along the border."],
     },
+    image: "/poi-images/austria-burg-neudegg-history-v2.webp",
   },
   {
     id: "austria-burg-gansbach-history-v2",
@@ -736,6 +758,7 @@ export const austriaHistoryV2: POI[] = [
       ro: ["Prima menționare documentară a fost în jurul anului 1130.", "Lorzii de Gansbach au fost adepți ai familiei Babenberg.", "Castelul era situat la marginea pădurii Dunkelsteinerwald.", "În secolul al XV-lea, complexul era deja parțial șubred.", "Pietrele castelului au fost folosite pentru construcția bisericii din Gansbach.", "Astăzi, zona este protejată ca monument arheologic."],
       en: ["The first documentary mention occurred around 1130.", "The Lords of Gansbach were followers of the Babenberg dynasty.", "The castle was situated on the edge of the Dunkelsteinerwald.", "By the 15th century, the site was already partially dilapidated.", "Stones from the castle were used to build the church in Gansbach.", "Today, the area is protected as an archaeological site."],
     },
+    image: "/poi-images/austria-burg-gansbach-history-v2.webp",
   },
   {
     id: "austria-schloss-vitis-history-v2",
@@ -768,6 +791,7 @@ export const austriaHistoryV2: POI[] = [
       ro: ["Domeniul Vitis a fost menționat pentru prima dată în 1150.", "Castelul posedă patru turnuri de colț proeminente.", "În secolul al XVI-lea, castelul aparținea familiei von Greiss.", "Clădirea a fost folosită în secolul al XIX-lea ca șlefuitorie de sticlă.", "Capela castelului este dedicată Sfântului Florian.", "În fațadă sunt încă vizibile resturi de sgraffito din perioada Renașterii."],
       en: ["The Vitis lordship was first mentioned in 1150.", "The castle features four prominent corner towers.", "In the 16th century, the castle belonged to the von Greiss family.", "The building was used as a glass grinding workshop in the 19th century.", "The castle chapel is dedicated to Saint Florian.", "Remnants of Renaissance sgraffito are still visible on the facade."],
     },
+    image: "/poi-images/austria-schloss-vitis-history-v2.webp",
   },
   {
     id: "austria-burg-ruine-weitra-history-v2",
@@ -800,6 +824,7 @@ export const austriaHistoryV2: POI[] = [
       ro: ["Fondarea orașului și a castelului a avut loc în jurul anului 1201.", "Familia Fürstenberg se află în posesia castelului din 1607.", "Castelul posedă un teatru baroc din anul 1885.", "Bastioanele au o înălțime de până la 25 de metri.", "În curtea castelului se află o construcție mobilă de acoperiș pentru evenimente.", "Tradiția berăritului este atestată documentar din 1321."],
       en: ["The town and castle were founded around the year 1201.", "The Fürstenberg family has owned the castle since 1607.", "The castle features a Baroque theater dating from 1885.", "The bastions stand up to 25 meters high.", "A mobile roof structure is installed in the courtyard for events.", "The brewing tradition has been documented since 1321."],
     },
+    image: "/poi-images/austria-burg-ruine-weitra-history-v2.webp",
   },
   {
     id: "austria-burg-drosendorf-history-v2",
@@ -832,6 +857,7 @@ export const austriaHistoryV2: POI[] = [
       ro: ["Zidul orașului Drosendorf are o lungime de 1,7 km și este accesibil.", "În anul 1153, castelul a fost menționat documentar pentru prima dată.", "Conții de Lamberg au deținut castelul din 1694.", "Castelul găzduiește o capelă gotică.", "Drosendorf este singurul oraș din Austria cu un zid complet păstrat.", "Ordinul de Malta a preluat complexul în anul 1822."],
       en: ["The Drosendorf town wall is 1.7 km long and can be walked upon.", "The castle was first mentioned in documents in 1153.", "The Counts of Lamberg owned the castle starting in 1694.", "The castle houses a Gothic castle chapel.", "Drosendorf is the only Austrian town with a completely preserved wall.", "The Order of Malta took over the site in 1822."],
     },
+    image: "/poi-images/austria-burg-drosendorf-history-v2.webp",
   },
   {
     id: "austria-schloss-grafenegg-history-v2",
@@ -864,6 +890,7 @@ export const austriaHistoryV2: POI[] = [
       ro: ["Castelul a fost reconstruit în stil Tudor între 1840 și 1873.", "Wolkenturm oferă spațiu pentru peste 1.700 de spectatori.", "În parc se află aproximativ 300 de specii diferite de arbori.", "Castelul se află în posesia familiei Metternich-Sándor din 1945.", "Sala Cavalerilor posedă un tavan casetat somptuos.", "Leopold Ernst a fost și meșter constructor al Catedralei Sf. Ștefan din Viena."],
       en: ["The castle was remodeled in the Tudor style between 1840 and 1873.", "The Wolkenturm can accommodate over 1,700 spectators.", "The park contains approximately 300 different tree species.", "The castle has been owned by the Metternich-Sándor family since 1945.", "The Knights' Hall features a magnificent coffered ceiling.", "Leopold Ernst was also the master builder of St. Stephen's Cathedral in Vienna."],
     },
+    image: "/poi-images/austria-schloss-grafenegg-history-v2.webp",
   },
   {
     id: "austria-burg-ruine-kollmitz-history-v2",
@@ -896,6 +923,7 @@ export const austriaHistoryV2: POI[] = [
       ro: ["Prima mențiune documentară în anul 1135.", "Suprafața totală cuprinde aproximativ 13,5 hectare.", "Turnul Foamei datează din secolul al XIV-lea.", "Abandonarea administrării în anul 1708.", "Proprietate a baronilor de Hofkirchen din 1450.", "Restaurare extinsă începând cu anul 1974."],
       en: ["First documented mention in the year 1135.", "Total area covers approximately 13.5 hectares.", "The Hunger Tower dates from the 14th century.", "Abandonment of management in the year 1708.", "Owned by the Barons of Hofkirchen from 1450.", "Extensive restoration began in the year 1974."],
     },
+    image: "/poi-images/austria-burg-ruine-kollmitz-history-v2.webp",
   },
   {
     id: "austria-schloss-wolkersdorf-history-v2",
@@ -928,6 +956,7 @@ export const austriaHistoryV2: POI[] = [
       ro: ["Construirea cetății de apă inițiale în jurul anului 1186.", "Napoleon Bonaparte a rezidat aici în anul 1809.", "Reconstrucție majoră sub Maria Terezia în 1776.", "Achiziționarea de către municipalitate în anul 1971.", "Utilizarea ca spital militar în timpul Primului Război Mondial.", "Astăzi sediu al școlii de muzică și al galeriei."],
       en: ["Construction of the original moated castle around 1186.", "Napoleon Bonaparte resided here in the year 1809.", "Major renovation under Maria Theresa around 1776.", "Purchase by the municipality in the year 1971.", "Used as a military hospital during World War I.", "Today home to the regional music school and gallery."],
     },
+    image: "/poi-images/austria-schloss-wolkersdorf-history-v2.webp",
   },
   {
     id: "austria-burg-ruine-hartberg-history-v2",
@@ -960,6 +989,7 @@ export const austriaHistoryV2: POI[] = [
       ro: ["Fondat de Konrad von Graez în anul 1147.", "Transformare în castel renascentist între 1572 și 1584.", "Curtea cu arcade pe trei niveluri datează din sec. XVI.", "Din 1981 în proprietatea municipalității Hartberg.", "Includerea în zidul orașului pentru apărare.", "Stucaturi baroce în Sala Cavalerilor din cca. 1620."],
       en: ["Founded by Konrad von Graez in the year 1147.", "Conversion to Renaissance castle between 1572 and 1584.", "The three-story arcaded courtyard dates from the 16th c.", "Owned by the municipality of Hartberg since 1981.", "Integrated into the city wall for defense purposes.", "Baroque stucco work in the Knight's Hall from approx. 1620."],
     },
+    image: "/poi-images/austria-burg-ruine-hartberg-history-v2.webp",
   },
   {
     id: "austria-schloss-fischau-history-v2",
@@ -992,6 +1022,7 @@ export const austriaHistoryV2: POI[] = [
       ro: ["Prima mențiune a complexului în anul 1140.", "Transformare în edificiu renascentist între 1561 și 1577.", "Utilizarea ca unitate de cavalerie începând cu anul 1817.", "Proprietate a familiei Heussenstein timp de două secole.", "Castelul are un plan la sol de formă pătrată.", "Renovare completă de către municipalitate din 1999."],
       en: ["First mention of the complex in the year 1140.", "Conversion to Renaissance building between 1561 and 1577.", "Used as a cavalry barracks starting in the year 1817.", "Owned by the Heussenstein family for two centuries.", "The castle has a square ground plan layout.", "Extensive renovation by the market town from 1999."],
     },
+    image: "/poi-images/austria-schloss-fischau-history-v2.webp",
   },
   {
     id: "austria-burg-ruine-scharfstein-history-v2",
@@ -1024,6 +1055,7 @@ export const austriaHistoryV2: POI[] = [
       ro: ["Construit de familia Kuenringer în secolul XII.", "Prima mențiune documentară în anul 1180.", "Distrugerea în timpul luptelor nobiliare din 1460.", "Ruina este situată la o altitudine de cca. 450 metri.", "Resturi ale turnului principal se păstrează și azi.", "Funcție importantă de control pentru zona Dunării."],
       en: ["Built by the Kuenringers in the 12th century.", "First documented mention in the year 1180.", "Destruction during noble feuds around the year 1460.", "The ruin is located at an altitude of approx. 450m.", "Remains of the keep are preserved to this day.", "Important control function for the Danube region."],
     },
+    image: "/poi-images/austria-burg-ruine-scharfstein-history-v2.webp",
   },
   {
     id: "austria-burg-ruine-wartenstein-history-v2",
@@ -1056,6 +1088,7 @@ export const austriaHistoryV2: POI[] = [
       ro: ["Prima mențiune documentară în anul 1190.", "Distrugerea de către turci în anii 1529 și 1683.", "Reconstrucție parțială în stil istoricist din 1870.", "Proprietate a abației Gloggnitz în secolul al XVII-lea.", "Loc de întâlnire pentru oameni de știință în anii 1950.", "Situat pe un con stâncos deasupra văii Schwarzatal."],
       en: ["First documented mention in the year 1190.", "Destruction by the Turks in 1529 and 1683.", "Partial reconstruction in historicist style from 1870.", "Owned by Gloggnitz Abbey in the 17th century.", "Meeting place for scientists in the 1950s.", "Located on a rocky cone above the Schwarza Valley."],
     },
+    image: "/poi-images/austria-burg-ruine-wartenstein-history-v2.webp",
   },
   {
     id: "austria-schloss-muthmannsdorf-history-v2",
@@ -1088,6 +1121,7 @@ export const austriaHistoryV2: POI[] = [
       ro: ["Construirea castelului inițial în secolul al XII-lea.", "Extindere de către familia Teufel în secolul al XV-lea.", "Avarii grave cauzate de turci în anul 1683.", "Proprietate a familiei Starhemberg din secolul XVIII.", "Turnul principal este cea mai bine păstrată parte.", "Situat la marginea de nord a Steinfeld lângă Winzendorf."],
       en: ["Construction of the original castle in the 12th century.", "Expansion by the Teufel family in the 15th century.", "Severe damage caused by the Turks in the year 1683.", "Owned by the Starhemberg family since the 18th century.", "The keep is the best-preserved structural component.", "Located on the northern edge of the Steinfeld near Winzendorf."],
     },
+    image: "/poi-images/austria-schloss-muthmannsdorf-history-v2.webp",
   },
   {
     id: "austria-burg-ruine-sebenstein-history-v2",
@@ -1120,6 +1154,7 @@ export const austriaHistoryV2: POI[] = [
       ro: ["Fondarea castelului în jurul anului 1180.", "Extindere ca fortăreață mare în secolul al XV-lea.", "Achiziționare de către prințul Johann I în 1824.", "Turnul principal are o înălțime de 30 de metri.", "Găzduiește o colecție importantă de artă gotică târzie.", "Apărare împotriva maghiarilor la sfârșitul sec. XV."],
       en: ["Foundation of the castle around the year 1180.", "Expansion into a large fortress in the 15th century.", "Purchased by Prince Johann I of Liechtenstein in 1824.", "The keep has a height of 30 meters.", "Houses a significant late Gothic art collection.", "Defense against Hungarians in the late 15th century."],
     },
+    image: "/poi-images/austria-burg-ruine-sebenstein-history-v2.webp",
   },
   {
     id: "austria-burg-ruine-schwarzenbach-history-v2",
@@ -1152,5 +1187,6 @@ export const austriaHistoryV2: POI[] = [
       ro: ["Prima mențiune documentară în anul 1170.", "Achiziționare de către familia Esterházy în anul 1589.", "Apărare reușită împotriva turcilor în anul 1683.", "Situat pe un deal cu înălțimea de 500 de metri.", "Locul unei fortificații celtice importante.", "Săpături arheologice extinse începând cu 1990."],
       en: ["First documented mention in the year 1170.", "Acquired by the Esterházy family in the year 1589.", "Successful defense against the Turks in the year 1683.", "Located on a 500-meter high hill.", "Site of a significant Celtic hillfort fortification.", "Extensive archaeological excavations since 1990."],
     },
+    image: "/poi-images/austria-burg-ruine-schwarzenbach-history-v2.webp",
   }
 ];

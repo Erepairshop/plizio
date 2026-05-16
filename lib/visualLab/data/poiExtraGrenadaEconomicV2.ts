@@ -31,6 +31,7 @@ export const grenadaEconomicV2: POI[] = [
       ro: ["Trafic containere: 100.000 TEU anual", "Pasageri croazieră: 300.000 anual", "Număr de cheiuri: 5", "Adâncimea apei: 12 m", "Volum export: 500.000 tone", "Construit: secolul al XVIII-lea"],
       en: ["Container throughput: 100,000 TEU annually", "Cruise passengers: 300,000 per year", "Number of piers: 5", "Water depth: 12 meters", "Export volume: 500,000 tons", "Built: 18th century"],
     },
+    image: "/poi-images/grenada-st-georges-port-economic-v2.webp",
   },
   {
     id: "grenada-gouyave-nutmeg-station-economic-v2",
@@ -62,6 +63,7 @@ export const grenadaEconomicV2: POI[] = [
       ro: ["Procesare anuală: 500 tone", "Angajați: 50", "Producție de ulei de nucșoară: 10.000 litri", "Anul înființării: 1960", "Procent export: 90%", "Vizitatori anual: 20.000"],
       en: ["Annual processing: 500 tons", "Employees: 50", "Nutmeg oil production: 10,000 liters", "Founded: 1960", "Export share: 90%", "Annual visitors: 20,000"],
     },
+    image: "/poi-images/grenada-gouyave-nutmeg-station-economic-v2.webp",
   },
   {
     id: "grenada-maurice-bishop-airport-economic-v2",
@@ -93,6 +95,7 @@ export const grenadaEconomicV2: POI[] = [
       ro: ["Lungimea pistei: 2.900 m", "Pasageri: 500.000 anual", "Număr de companii aeriene: 8", "Construit: 1985", "Altitudine: 5 m", "Porți de îmbarcare: 6"],
       en: ["Runway length: 2,900 meters", "Passenger traffic: 500,000 per year", "Number of airlines: 8", "Year built: 1985", "Elevation: 5 m", "Gates: 6"],
     },
+    image: "/poi-images/grenada-maurice-bishop-airport-economic-v2.webp",
   },
   {
     id: "grenada-river-antoine-distillery-economic-v2",
@@ -124,6 +127,7 @@ export const grenadaEconomicV2: POI[] = [
       ro: ["Anul fondării: 1785", "Conținut de alcool: 69%", "Producție anuală: 50.000 litri", "Moara cu apă: 200 CP", "Suprafață trestie: 40 ha", "Vizitatori anual: 30.000"],
       en: ["Founded: 1785", "Alcohol content: 69%", "Annual production: 50,000 liters", "Water wheel power: 200 hp", "Sugarcane area: 40 hectares", "Annual visitors: 30,000"],
     },
+    image: "/poi-images/grenada-river-antoine-distillery-economic-v2.webp",
   },
   {
     id: "grenada-grenville-port-economic-v2",
@@ -155,6 +159,7 @@ export const grenadaEconomicV2: POI[] = [
       ro: ["Tonaj anual: 100.000 tone", "Lungime chei: 150 m", "Adâncime: 10 m", "Valoare export: 20 milioane USD", "Locuri de muncă: 200", "Construit: 1950"],
       en: ["Annual throughput: 100,000 tons", "Pier length: 150 m", "Water depth: 10 m", "Export value: $20 million", "Jobs: 200", "Built: 1950"],
     },
+    image: "/poi-images/grenada-grenville-port-economic-v2.webp",
   },
   {
     id: "grenada-belmont-estate-economic-v2",
@@ -186,6 +191,7 @@ export const grenadaEconomicV2: POI[] = [
       ro: ["Fondată: secolul al XVII-lea", "Suprafață: 100 ha", "Producție anuală de cacao: 20 tone", "Angajați: 40", "Vizitatori anual: 50.000", "Certificare: organic"],
       en: ["Founded: 17th century", "Area: 100 hectares", "Annual cocoa production: 20 tons", "Employees: 40", "Annual visitors: 50,000", "Certification: organic"],
     },
+    image: "/poi-images/grenada-belmont-estate-economic-v2.webp",
   },
   {
     id: "grenada-westerhall-estate-economic-v2",
@@ -217,6 +223,7 @@ export const grenadaEconomicV2: POI[] = [
       ro: ["Fondată: 1997", "Soiuri de rom: 6", "Producție anuală: 100.000 sticle", "Maturare: minim 3 ani", "Suprafață: 50 ha", "Vizitatori anual: 10.000"],
       en: ["Distillery founded: 1997", "Rum varieties: 6", "Annual production: 100,000 bottles", "Aging: minimum 3 years", "Area: 50 hectares", "Annual visitors: 10,000"],
     },
+    image: "/poi-images/grenada-westerhall-estate-economic-v2.webp",
   },
   {
     id: "grenada-grand-anse-business-district-economic-v2",
@@ -248,6 +255,7 @@ export const grenadaEconomicV2: POI[] = [
       ro: ["Număr de magazine: 100", "Vânzări anuale cu amănuntul: 50 milioane USD", "Număr de hoteluri: 20", "Locuri de muncă: 1.000", "Suprafață: 0,5 km²", "Vizitatori zilnici: 2.000"],
       en: ["Number of stores: 100", "Annual retail sales: $50 million", "Number of hotels: 20", "Jobs: 1,000", "Area: 0.5 sq km", "Daily visitors: 2,000"],
     },
+    image: "/poi-images/grenada-grand-anse-business-district-economic-v2.webp",
   },
   {
     id: "grenada-hillsborough-port-economic-v2",
@@ -279,6 +287,7 @@ export const grenadaEconomicV2: POI[] = [
       ro: ["Conexiuni ferry: 3 pe săptămână", "Tonaj anual: 20.000 tone", "Lungime chei: 100 m", "Adâncime: 6 m", "Populația Hillsborough: 1.000", "Tarif portuar: 10 USD/tonă"],
       en: ["Ferry connections: 3 per week", "Annual cargo throughput: 20,000 tons", "Pier length: 100 m", "Water depth: 6 m", "Hillsborough population: 1,000", "Port fee: $10 per ton"],
     },
+    image: "/poi-images/grenada-hillsborough-port-economic-v2.webp",
   },
   {
     id: "grenada-woodlands-sugar-factory-economic-v2",
@@ -310,5 +319,6 @@ export const grenadaEconomicV2: POI[] = [
       ro: ["Construit: 1850", "Închis: 1985", "Suprafață muzeu: 2.000 m²", "Vizitatori anual: 5.000", "Prelucrare zilnică: 10 tone trestie", "Motor cu abur: 100 CP"],
       en: ["Built: 1850", "Closed: 1985", "Museum area: 2,000 sq m", "Annual visitors: 5,000", "Daily sugarcane processing: 10 tons", "Steam engine: 100 hp"],
     },
+    image: "/poi-images/grenada-woodlands-sugar-factory-economic-v2.webp",
   }
 ];

@@ -47,6 +47,7 @@ export const spainHistoryExtra: POI[] = [
         "The complex spans approximately 35 acres (142,000 square meters) and is surrounded by 2,000 meters of protective walls."
       ]
     },
+    image: "/poi-images/ES-ALH.webp",
   }
 ];
 export default spainHistoryExtra;

@@ -81,6 +81,7 @@ export const monacoDistricts: POI[] = [
       ro: ["Cartierul este situat pe o stâncă înaltă de 62 de metri.", "Găzduiește palatul familiei Grimaldi încă din secolul al XIII-lea.", "Populația cartierului este de aproximativ 1.000 de persoane.", "Include Muzeul Oceanografic, amplasat pe marginea stâncii.", "Catedrala Sfântul Nicolae a fost construită în 1875 în stil neoromanic.", "Este administrat oficial ca un district urban (Quartier)."],
       en: ["The district is situated on a 62-meter high rock formation.", "Home to the Palace of the Grimaldi family since the 13th century.", "The population is approximately 1,000 residents.", "Features the Oceanographic Museum perched on the cliffside.", "Saint Nicholas Cathedral was built in 1875 in Neo-Romanesque style.", "Is officially designated as an administrative ward (Quartier)."],
     },
+    image: "/poi-images/district-monaco-ville.webp",
   },
   {
     id: "district-monte-carlo",
@@ -208,6 +209,7 @@ export const monacoLandmarks: POI[] = [
       ro: ["Proiectat de Charles Garnier, arhitectul Operei din Paris.", "Deschis oficial în 1863 pentru a salva finanțele statului.", "Cetățenilor din Monaco le este interzis prin lege să joace în cazinou.", "Clădirea găzduiește, de asemenea, Opera din Monte-Carlo.", "A servit drept decor pentru mai multe filme din seria James Bond.", "Este deținut de compania Société des Bains de Mer (SBM)."],
       en: ["Designed by Charles Garnier, the architect of the Paris Opera.", "Officially opened in 1863 to save the state's finances.", "Citizens of Monaco are forbidden by law from gambling in the casino.", "The building also houses the Opéra de Monte-Carlo.", "Served as a filming location for several James Bond movies.", "Owned by the Société des Bains de Mer (SBM)."],
     },
+    image: "/poi-images/landmark-casino-monte-carlo.webp",
   },
   {
     id: "landmark-oceanographic-museum",
@@ -301,6 +303,7 @@ export const monacoLandmarks: POI[] = [
       ro: ["Este singura plajă accesibilă publicului din principat.", "Reproiectarea de către Renzo Piano a fost finalizată în 2021.", "Plaja este protejată împotriva meduzelor prin plase speciale.", "Situată de-a lungul Avenue Princesse Grace.", "Dispune de o zonă specială Handiplage pentru persoanele cu dizabilități.", "Promenada adiacentă găzduiește numeroase restaurante și cafenele."],
       en: ["It is the only publicly accessible beach in the principality.", "The redesign by Renzo Piano was completed in 2021.", "The beach is protected against jellyfish by specialized nets.", "Located along the Avenue Princesse Grace.", "Features a dedicated 'Handiplage' area for people with disabilities.", "The adjacent promenade hosts numerous restaurants and cafes."],
     },
+    image: "/poi-images/landmark-larvotto-beach.webp",
   },
   {
     id: "landmark-japanese-garden",
@@ -580,6 +583,7 @@ export const monacoLandmarks: POI[] = [
       ro: ["Noua clădire a clubului a fost inaugurată în iunie 2014.", "Clubul are peste 2.500 de membri din 73 de națiuni.", "Organizator al evenimentului anual Monaco Classic Week.", "Clădirea are o suprafață utilă de 26.000 mp.", "Găzduiește școala de navigație 'La Belle Classe'.", "Președintele clubului este, din 1984, Prințul Albert al II-lea."],
       en: ["The new clubhouse was inaugurated in June 2014.", "The club has over 2,500 members from 73 different nations.", "Host of the biennial Monaco Classic Week event.", "The building features 26,000 square meters of floor space.", "Home to 'La Belle Classe' sailing school.", "Prince Albert II has been the club's president since 1984."],
     },
+    image: "/poi-images/landmark-yacht-club.webp",
   },
   {
     id: "landmark-saint-martin-gardens",
@@ -611,6 +615,7 @@ export const monacoLandmarks: POI[] = [
       ro: ["Amenajarea a început în anul 1816, în timpul unei foamete.", "A fost prima grădină publică din Principat.", "O statuie a Prințului Albert I privește spre mare.", "Grădinile sunt situate între Muzeul Oceanografic și Catedrală.", "Aici cresc specii rare, precum pinii de Alep și stejarii de piatră.", "Numeroase descoperiri arheologice au fost făcute pe acest teren."],
       en: ["Work on the gardens began in 1816 during a period of famine.", "It was the first public garden established in the Principality.", "A statue of Prince Albert I stands overlooking the sea.", "The gardens are located between the Oceanographic Museum and the Cathedral.", "Home to rare species such as Aleppo pines and holm oaks.", "Numerous archaeological artifacts were discovered on this site."],
     },
+    image: "/poi-images/landmark-saint-martin-gardens.webp",
   },
   {
     id: "landmark-champions-promenade",
@@ -704,6 +709,7 @@ export const monacoLandmarks: POI[] = [
       ro: ["Piața a fost creată în secolul al XIX-lea ca parte a dezvoltării urbane.", "Punct central pe traseul de Formula 1 din Monaco.", "Găzduiește sculptura 'Sky Mirror' realizată de Anish Kapoor.", "Grădinile au fost modernizate extensiv în anul 2020.", "Aici se află faimoasa fântână arteziană circulară.", "Numeroase mărci de lux au magazine emblematice aici."],
       en: ["The square was created in the 19th century during urban expansion.", "A central point on the Monaco Formula 1 Grand Prix circuit.", "Features the 'Sky Mirror' sculpture by artist Anish Kapoor.", "The gardens underwent extensive modernization in 2020.", "Home to the famous circular fountain at the center.", "Numerous luxury brands have their flagship stores around the square."],
     },
+    image: "/poi-images/landmark-place-du-casino.webp",
   },
   {
     id: "landmark-f1-hairpin",
@@ -735,6 +741,7 @@ export const monacoLandmarks: POI[] = [
       ro: ["Mașinile de curse circulă aici cu aproximativ 45-50 km/h.", "În trecut, era cunoscută sub numele de Station sau Loews Hairpin.", "Cea mai strânsă curbă din întregul calendar de Formula 1.", "Înclinația drumului face abordarea tehnic dificilă.", "În timpul cursei, este un punct critic pentru manevre de depășire.", "Curba este circulabilă ca drum public în restul anului."],
       en: ["Racing cars navigate this turn at approximately 45 to 50 km/h.", "Previously known as the Station or Loews Hairpin.", "The tightest corner on the entire Formula 1 racing calendar.", "The road's incline makes the approach technically challenging.", "A frequent hotspot for overtaking maneuvers during the race.", "The curve remains open to regular traffic throughout the year."],
     },
+    image: "/poi-images/landmark-f1-hairpin.webp",
   },
   {
     id: "landmark-stade-nautique",
@@ -974,6 +981,7 @@ export const monacoRegionsPoi: POI[] = [
       ro: ["Inaugurată oficial la 9 noiembrie 1883 de Prințul Charles al III-lea.", "Stilul arhitectural predominant este cel neorenascentist.", "Biserica deține 19 vitralii spectaculoase lucrate manual.", "Edificiul a fost construit pe locul unei capele mai vechi.", "Adăpostește o orgă de mare valoare marca Cavaillé-Coll.", "Fațada este decorată cu mozaicuri și sculpturi fine în piatră."],
       en: ["Inaugurated on November 9, 1883, by Prince Charles III.", "The architectural style follows the Neo-Renaissance movement.", "The church features 19 magnificent stained-glass windows.", "It was built on the site of a former smaller chapel.", "Houses a valuable pipe organ crafted by Cavaillé-Coll.", "The facade is decorated with mosaics and intricate stone carvings."],
     },
+    image: "/poi-images/MC-001-st-charles-church.webp",
   }
 ];
 

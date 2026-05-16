@@ -32,6 +32,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Altitudine: 150 m", "Înălțimea turnului de observație: 10 m", "Distanța până la Rõuge: 5 km", "Numărul de lacuri din jur: 10", "Anul declarării monument natural: 1992", "Vizitatori anual: 5000"],
       en: ["Elevation: 150 m above sea level", "Height of observation tower: 10 m", "Distance to Rõuge: 5 km", "Number of nearby lakes: 10", "Year of protected status: 1992", "Annual visitors: 5,000"],
     },
+    image: "/poi-images/estonia-torni-hill-relief-v2.webp",
   },
   {
     id: "estonia-kuhjavere-plateau-relief-v2",
@@ -64,6 +65,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Altitudine medie: 100 m", "Suprafață: 200 km²", "Distanța până la Suure-Jaani: 10 km", "Populația totală a platoului: 1,000", "Anul desemnării: nu este protejat", "Roci predominante: calcar"],
       en: ["Average elevation: 100 m above sea level", "Area: approximately 200 km²", "Distance to Suure-Jaani: 10 km", "Agricultural land: 70%", "Forest cover: 20%", "Population of plateau: about 1,000"],
     },
+    image: "/poi-images/estonia-kuhjavere-plateau-relief-v2.webp",
   },
   {
     id: "estonia-vaike-munamagi-peak-relief-v2",
@@ -96,6 +98,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Înălțime maximă de 207,5 metri", "Situat la 2 km sud de orașul Otepää", "Pârtii de schi de până la 450 metri", "Face parte din Parcul Natural Otepää"],
       en: ["Peak elevation of 207.5 meters", "Located 2 km south of Otepää town", "Features ski runs up to 450m long", "Protected area within Otepää Nature Park"],
     },
+    image: "/poi-images/estonia-vaike-munamagi-peak-relief-v2.webp",
   },
   {
     id: "estonia-kellamagi-rise-relief-v2",
@@ -128,6 +131,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Altitudine: 110 m", "Piatra de sacrificiu: 2 m lungime", "Distanța până la Rõuge: 4 km", "Vârsta pietrei: epoca fierului", "Numărul de lacuri din jur: 4", "Vizitatori anual: 3,000"],
       en: ["Elevation: 110 m above sea level", "Size of sacrificial stone: 2 m x 1.5 m", "Distance to Rõuge: 4 km", "Age of stone: Iron Age", "Number of nearby lakes: 4", "Annual visitors: 3,000"],
     },
+    image: "/poi-images/estonia-kellamagi-rise-relief-v2.webp",
   },
   {
     id: "estonia-harjumagi-slope-relief-v2",
@@ -160,6 +164,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Altitudine: 50 m", "Lungimea pantei: 1 km", "Distanța până în centrul Tallinnului: 10 km", "Numărul de puncte de belvedere: 2", "Tipul de pădure: pin", "Vizitatori anual: 50 000"],
       en: ["Elevation: 50 m above sea level", "Length of slope: 1 km", "Distance to Tallinn city center: 10 km", "Number of viewpoints: 2", "Forest type: Scots pine", "Annual visitors: 50,000"],
     },
+    image: "/poi-images/estonia-harjumagi-slope-relief-v2.webp",
   },
   {
     id: "estonia-kuremagi-ridge-relief-v2",
@@ -192,6 +197,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Altitudine maximă: 82 m", "Lungime: 3,5 km", "Suprafața lacului Kurejärv: 5,2 ha", "Vârstă: ~12.000 ani (morenă terminală)", "Acoperire forestieră: 90% pin și mesteacăn", "Distanța până la Jõhvi: 12 km"],
       en: ["Maximum elevation: 82 m (269 ft)", "Length: 3.5 km (2.2 mi)", "Kurejärv lake area: 5.2 ha (12.8 acres)", "Formed: ~12,000 years ago (Weichsel glaciation)", "Forest cover: 90% pine and birch", "Nearest town: Jõhvi, 12 km (7.5 mi) away"],
     },
+    image: "/poi-images/estonia-kuremagi-ridge-relief-v2.webp",
   },
   {
     id: "estonia-siimu-magi-hill-relief-v2",
@@ -224,6 +230,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Altitudine: 117 m", "Distanța până la Võru: 3 km", "Rocă: gresie devoniană", "Arie protejată: Rezervația Naturală Otepää", "Suprafața rezervației: 224 km²", "Cel mai înalt punct: 166 m"],
       en: ["Elevation: 117 m (384 ft)", "Distance to Võru: 3 km (1.9 mi)", "Geology: Devonian sandstone", "Protected area: Otepää Nature Reserve", "Reserve area: 224 km² (86.5 sq mi)", "Highest point in reserve: 166 m (545 ft)"],
     },
+    image: "/poi-images/estonia-siimu-magi-hill-relief-v2.webp",
   },
   {
     id: "estonia-laane-valja-relief-v2",
@@ -256,6 +263,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Suprafață: 8 km²", "Altitudine medie: -5 m", "Lungimea canalelor: 15 km", "Exploatarea turbei: 1920-1960", "Specii de păsări: peste 100", "Distanța până la Haapsalu: 6 km"],
       en: ["Area: 8 km² (3.1 sq mi)", "Average elevation: -5 m (-16 ft)", "Drainage canals: 15 km (9.3 mi) total length", "Peat extraction period: 1920-1960", "Bird species recorded: >100", "Distance to Haapsalu: 6 km (3.7 mi)"],
     },
+    image: "/poi-images/estonia-laane-valja-relief-v2.webp",
   },
   {
     id: "estonia-vahi-magi-hill-relief-v2",
@@ -288,6 +296,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Altitudine: 68 m", "Distanța până la Tartu: 2 km", "Anul monumentului: 1899", "Geologie: depozite fluvioglaciare", "Vedere asupra văii Emajõgi (10 km)", "Vizitatori anuali: ~8.000"],
       en: ["Elevation: 68 m (223 ft)", "Distance to Tartu: 2 km (1.2 mi)", "Monument built: 1899", "Geology: fluvioglacial deposits", "View of Emajõgi valley (10 km stretch)", "Annual visitors: approx. 8,000"],
     },
+    image: "/poi-images/estonia-vahi-magi-hill-relief-v2.webp",
   },
   {
     id: "estonia-koolimagi-rise-relief-v2",
@@ -320,6 +329,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Altitudine: 32 m", "Distanța până la Pärnu: 1,5 km", "Școala activă: 1850-1920", "Sol: nisip și pietriș", "Arbori: 70% stejar, 30% arțar", "Populația zonei: ~2.000"],
       en: ["Elevation: 32 m (105 ft)", "Distance to Pärnu: 1.5 km (0.9 mi)", "School active: 1850-1920", "Soil: sand and gravel", "Tree cover: 70% oak, 30% maple", "Local population: approx. 2,000"],
     },
+    image: "/poi-images/estonia-koolimagi-rise-relief-v2.webp",
   },
   {
     id: "estonia-nime-magi-hill-relief-v2",
@@ -352,6 +362,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Altitudine: 54 m", "Distanța până la Rakvere: 5 km", "Rocă: calcar", "Izvoare carstice: 3 într-un radius de 1 km", "Agricultură: 80% teren arabil", "Studenți la geologie anual: ~200"],
       en: ["Elevation: 54 m (177 ft)", "Distance to Rakvere: 5 km (3.1 mi)", "Rock type: limestone", "Karst springs: 3 within 1 km radius", "Agricultural land: 80% arable", "Geology students visiting annually: ~200"],
     },
+    image: "/poi-images/estonia-nime-magi-hill-relief-v2.webp",
   },
   {
     id: "estonia-tuuliku-magi-hill-relief-v2",
@@ -384,6 +395,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Altitudine: 23 m", "Insulă: Saaremaa", "Moara de vânt construită: 1850", "Muzeu din: 1965", "Pădure de ienupăr: 30 ha", "Distanța până la Kuressaare: 18 km"],
       en: ["Elevation: 23 m (75 ft)", "Island: Saaremaa", "Windmill built: 1850", "Museum opened: 1965", "Juniper heath area: 30 ha (74 acres)", "Distance to Kuressaare: 18 km (11 mi)"],
     },
+    image: "/poi-images/estonia-tuuliku-magi-hill-relief-v2.webp",
   },
   {
     id: "estonia-oruvalla-ridge-relief-v2",
@@ -416,6 +428,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Lungime: 2 km", "Altitudine maximă: 102 m", "Formare: os glaciar", "Temperatura izvorului: 6 °C", "Specii de arbori: 85% molid", "Trasee de mountain bike: 12 km"],
       en: ["Length: 2 km (1.2 mi)", "Maximum elevation: 102 m (335 ft)", "Formation: glacial esker", "Spring temperature: 6 °C (43 °F)", "Tree species: 85% spruce", "Mountain bike trails: 12 km (7.5 mi)"],
     },
+    image: "/poi-images/estonia-oruvalla-ridge-relief-v2.webp",
   },
   {
     id: "estonia-suure-oja-depression-relief-v2",
@@ -448,6 +461,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Lungime: 4 km", "Adâncime: 3 m sub terenul înconjurător", "Lungimea râului: 18 km", "Parcul Național Matsalu fondat: 1957", "Plantă: roua-cerului (Drosera)", "Specii de păsări în parc: peste 200"],
       en: ["Length: 4 km (2.5 mi)", "Depth: 3 m (10 ft) below surroundings", "River length: 18 km (11.2 mi)", "Matsalu National Park founded: 1957", "Plant species: sundew (Drosera)", "Bird species in park: over 200"],
     },
+    image: "/poi-images/estonia-suure-oja-depression-relief-v2.webp",
   },
   {
     id: "estonia-kivi-magi-peak-relief-v2",
@@ -480,6 +494,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Altitudinea de 281 de metri îl plasează în topul culmilor estoniene.", "Structura geologică este compusă din depozite cuaternare glaciare.", "Face parte integrantă din Parcul Natural Otepää, creat în 1957.", "Pantele sale sunt acoperite de o densă pădure de foioase și conifere.", "Regiunea primește o cantitate ridicată de zăpadă în timpul iernii.", "Este un reper important pentru măsurătorile geodezice din zonă."],
       en: ["The peak reaches a height of 281 meters (922 feet) above sea level.", "It is situated within the expansive Otepää Nature Park boundaries.", "The hill was sculpted by the last Scandinavian ice sheet movements.", "Local flora includes rare species of mosses and boreal vegetation.", "The summit provides a strategic vantage point over the Valga County.", "Its geology features significant layers of till and glacial gravel."],
     },
+    image: "/poi-images/estonia-kivi-magi-peak-relief-v2.webp",
   },
   {
     id: "estonia-silla-magi-hill-relief-v2",
@@ -512,6 +527,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Altitudine: 72 m", "Distanța până la Valga: 3 km", "Pod istoric: secolul XVII", "Cel mai bătrân stejar: ~250 ani", "Râul Pedeli: 30 km lungime", "Locuri de picnic: 5"],
       en: ["Elevation: 72 m (236 ft)", "Distance to Valga: 3 km (1.9 mi)", "Historic bridge: 17th century", "Oldest oak: approx. 250 years", "Pedeli River: 30 km (18.6 mi) long", "Picnic sites: 5"],
     },
+    image: "/poi-images/estonia-silla-magi-hill-relief-v2.webp",
   },
   {
     id: "estonia-palu-magi-hill-relief-v2",
@@ -544,6 +560,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Altitudine: 45 m", "Distanța până la Tallinn: 8 km", "Turn de veghe construit: 1780", "Geologie: argilă cambriană", "Specii de arbori: frasin, ulm", "Vizitatori anuali: ~20.000"],
       en: ["Elevation: 45 m (148 ft)", "Distance to Tallinn: 8 km (5 mi)", "Watchtower built: 1780", "Geology: Cambrian claystone", "Tree species: ash, elm", "Annual visitors: approx. 20,000"],
     },
+    image: "/poi-images/estonia-palu-magi-hill-relief-v2.webp",
   },
   {
     id: "estonia-linna-magi-hill-relief-v2",
@@ -576,6 +593,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Altitudine: 38 m", "Distanța până la Narva: 2 km", "Cetate: secolul XIII, distrusă 1704", "Cruce de piatră: 2,5 m înălțime", "Bătălia de la Narva: 1700", "Monument cultural protejat din 1995"],
       en: ["Elevation: 38 m (125 ft)", "Distance to Narva: 2 km (1.2 mi)", "Fortress: 13th century, destroyed 1704", "Stone cross: 2.5 m (8.2 ft) tall", "Battle of Narva: 1700", "Protected cultural monument since 1995"],
     },
+    image: "/poi-images/estonia-linna-magi-hill-relief-v2.webp",
   },
   {
     id: "estonia-must-magi-hill-relief-v2",
@@ -608,6 +626,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Altitudine: 87 m", "Distanța până la Võru: 5 km", "Must-Järv: 1,8 ha", "Sol: bogat în humus, închis", "Blocuri de granit: diametru până la 1 m", "Pădure: 70% mesteacăn, 30% plop"],
       en: ["Elevation: 87 m (285 ft)", "Distance to Võru: 5 km (3.1 mi)", "Must-Järv lake area: 1.8 ha (4.4 acres)", "Soil: humus-rich, dark", "Granite boulders: up to 1 m (3.3 ft) diameter", "Forest composition: 70% birch, 30% aspen"],
     },
+    image: "/poi-images/estonia-must-magi-hill-relief-v2.webp",
   },
   {
     id: "estonia-poti-magi-rise-relief-v2",
@@ -640,6 +659,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Altitudine: 28 m", "Distanța până la Jõgeva: 4 km", "Grosimea stratului de turbă: până la 3 m", "Sanctuar avifaunistic din: 1998", "Pârâul Poti: 6 km lungime", "Pod: 12 m lungime"],
       en: ["Elevation: 28 m (92 ft)", "Distance to Jõgeva: 4 km (2.5 mi)", "Peat layer thickness: up to 3 m (10 ft)", "Bird sanctuary established: 1998", "Poti stream: 6 km (3.7 mi) long", "Footbridge length: 12 m (39 ft)"],
     },
+    image: "/poi-images/estonia-poti-magi-rise-relief-v2.webp",
   },
   {
     id: "estonia-lepa-magi-hill-relief-v2",
@@ -672,6 +692,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Altitudine: 31 m", "Distanța până la Keila: 2 km", "Mina de cupru: 1650-1680", "Geologie: calcar paleozoic", "Arbori: 60% arin, 40% pin", "Suprafața pădurii-parc: 150 ha"],
       en: ["Elevation: 31 m (102 ft)", "Distance to Keila: 2 km (1.2 mi)", "Copper mine active: 1650-1680", "Geology: Paleozoic limestone", "Tree cover: 60% alder, 40% pine", "Forest park area: 150 ha (371 acres)"],
     },
+    image: "/poi-images/estonia-lepa-magi-hill-relief-v2.webp",
   },
   {
     id: "estonia-kruusa-magi-hill-relief-v2",
@@ -704,6 +725,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Altitudine: 52 m", "Distanța până la Tartu: 6 km", "Geologie: kame", "Înălțimea arborilor: până la 25 m", "Trasee de drumeție: 8 km lungime totală", "Camping: 30 de locuri"],
       en: ["Elevation: 52 m (171 ft)", "Distance to Tartu: 6 km (3.7 mi)", "Geology: kame", "Tree height: up to 25 m (82 ft)", "Hiking trails: 8 km (5 mi) total", "Campsite: 30 pitches"],
     },
+    image: "/poi-images/estonia-kruusa-magi-hill-relief-v2.webp",
   },
   {
     id: "estonia-vana-magi-hill-relief-v2",
@@ -736,6 +758,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Altitudine: 18 m", "Distanța până la Haapsalu: 3 km", "Vârstă: Precambrian (peste 1 miliard ani)", "Vârsta granitului: 1,8 miliarde ani", "Sit arheologic: 500 î.Hr.", "Specii de licheni: 12"],
       en: ["Elevation: 18 m (59 ft)", "Distance to Haapsalu: 3 km (1.9 mi)", "Age: Precambrian (over 1 billion years)", "Granite age: 1.8 billion years", "Archaeological site: 500 BC", "Lichen species: 12"],
     },
+    image: "/poi-images/estonia-vana-magi-hill-relief-v2.webp",
   },
   {
     id: "estonia-liiva-magi-ridge-relief-v2",
@@ -768,6 +791,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Lungime: 2,5 km", "Altitudine maximă: 64 m", "Formare: dună glaciară târzie", "Liiva-Järv: 3 ha", "Curse pe nisip: din 1985", "Vegetație: 80% pin, 20% erică"],
       en: ["Length: 2.5 km (1.6 mi)", "Maximum elevation: 64 m (210 ft)", "Formation: late-glacial dune", "Liiva-Järv lake: 3 ha (7.4 acres)", "Sand racing since: 1985", "Vegetation: 80% pine, 20% heather"],
     },
+    image: "/poi-images/estonia-liiva-magi-ridge-relief-v2.webp",
   },
   {
     id: "estonia-kadaka-magi-hill-relief-v2",
@@ -800,6 +824,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Altitudine: 15 m", "Distanța până la Pärnu: 4 km", "Moara de vânt construită: 1930", "Geologie: depozite ale mării Littorina", "Acoperire cu ienupăr: 50%", "Distanța până la plajă: 2 km până la Marea Baltică"],
       en: ["Elevation: 15 m (49 ft)", "Distance to Pärnu: 4 km (2.5 mi)", "Wind pump built: 1930", "Geology: Littorina Sea deposits", "Juniper cover: 50%", "Distance to beach: 2 km (1.2 mi) to Baltic Sea"],
     },
+    image: "/poi-images/estonia-kadaka-magi-hill-relief-v2.webp",
   },
   {
     id: "estonia-suure-magi-peak-relief-v2",
@@ -832,6 +857,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Altitudine exactă de 271,4 metri", "Situat în regiunea podișului Haanja", "Al 5-lea cel mai înalt vârf din Estonia", "Localizat administrativ în județul Võru"],
       en: ["Elevation of 271.4 meters", "Located in the Haanja Upland region", "Estonia's 5th highest mountain peak", "Situated within the borders of Võru County"],
     },
+    image: "/poi-images/estonia-suure-magi-peak-relief-v2.webp",
   },
   {
     id: "estonia-kool-magi-hill-relief-v2",
@@ -864,6 +890,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Altitudine: 41 m", "Distanța până la Rakvere: 7 km", "Școala: 1860-1965", "Sol: argilă glaciară", "Meri: 50 de pomi", "Piatra comemorativă: 1970"],
       en: ["Elevation: 41 m (135 ft)", "Distance to Rakvere: 7 km (4.3 mi)", "School operating: 1860-1965", "Soil: glacial clay", "Apple trees: 50", "Commemorative stone erected: 1970"],
     },
+    image: "/poi-images/estonia-kool-magi-hill-relief-v2.webp",
   },
   {
     id: "estonia-pae-magi-hill-relief-v2",
@@ -896,6 +923,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Înălțime: 120 m deasupra nivelului mării", "Formare: ultima glaciațiune, acum aproximativ 12.000 de ani", "Geologie: morenă și gresie", "Suprafața colinei: aprox. 0,5 km²", "Distanța până la cel mai apropiat lac: 1,2 km", "Panta medie: 8 grade"],
       en: ["Elevation: 120 meters above sea level", "Formation: Last Ice Age, approximately 12,000 years ago", "Geology: Glacial till and sandstone", "Hill area: approximately 0.5 km²", "Distance to nearest lake: 1.2 km", "Average slope: 8 degrees"],
     },
+    image: "/poi-images/estonia-pae-magi-hill-relief-v2.webp",
   },
   {
     id: "estonia-oja-magi-hill-relief-v2",
@@ -928,6 +956,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Altitudine: 95 m deasupra nivelului mării", "Lungime: aprox. 600 m", "Material: nisip fin și pietriș", "Formare: glaciațiune târzie, acum aproximativ 11.000 de ani", "Număr de pietre de hotar: 5", "Lățime medie: 80 m"],
       en: ["Elevation: 95 meters above sea level", "Length: approximately 600 meters", "Material: fine sand and gravel", "Formation period: Late Glacial, about 11,000 years ago", "Number of boundary stones: 5", "Average width: 80 meters"],
     },
+    image: "/poi-images/estonia-oja-magi-hill-relief-v2.webp",
   },
   {
     id: "estonia-kruusa-rida-ridge-relief-v2",
@@ -960,6 +989,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Lungime: 2 km", "Înălțime maximă: 108 m", "Lățime: în medie 30 m", "Vârstă: format acum aproximativ 10.500 de ani", "Rezerve de pietriș: estimate la 500.000 m³", "Distanța până la granița letonă: 4 km"],
       en: ["Length: 2 km", "Maximum height: 108 m", "Width: average 30 m", "Age: formed about 10,500 years ago", "Gravel reserves: estimated 500,000 m³", "Distance to Latvian border: 4 km"],
     },
+    image: "/poi-images/estonia-kruusa-rida-ridge-relief-v2.webp",
   },
   {
     id: "estonia-aasa-magi-hill-relief-v2",
@@ -992,6 +1022,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Altitudine: 112 m", "Diametru: aprox. 300 m", "Material: argilă și nămol", "Formare: acum aproximativ 15.000 de ani", "Acoperire forestieră: 80% din suprafață", "Număr de ferme istorice: 3"],
       en: ["Elevation: 112 m", "Diameter: approximately 300 m", "Material: clay and silt", "Formation: about 15,000 years ago", "Forest cover: 80% of area", "Number of historical farmsteads: 3"],
     },
+    image: "/poi-images/estonia-aasa-magi-hill-relief-v2.webp",
   },
   {
     id: "estonia-valge-magi-hill-relief-v2",
@@ -1024,6 +1055,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Altitudine: 105 m", "Rezerve de nisip: aproximativ 200.000 de tone de nisip de cuarț", "Perioada de exploatare: 1920-1960", "Specii de licheni: 12 specii rare documentate", "Acoperire forestieră: 60% pin", "Temperatura medie în iulie: 17°C"],
       en: ["Elevation: 105 m", "Sand reserves: estimated 200,000 tons of quartz sand", "Mining period: 1920-1960", "Lichen species: 12 rare species documented", "Forest cover: 60% pine", "Average July temperature: 17°C"],
     },
+    image: "/poi-images/estonia-valge-magi-hill-relief-v2.webp",
   },
   {
     id: "estonia-kruusa-org-valley-relief-v2",
@@ -1056,6 +1088,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Lungime: 1,5 km", "Adâncime: 30 m", "Lățimea fundului văii: aprox. 100 m", "Formare: acum aproximativ 12.000 de ani", "Specii de păsări: 45 specii documentate", "Număr de izvoare: 3"],
       en: ["Length: 1.5 km", "Depth: 30 m", "Valley floor width: approx. 100 m", "Formation: about 12,000 years ago", "Bird species: 45 documented species", "Number of springs: 3"],
     },
+    image: "/poi-images/estonia-kruusa-org-valley-relief-v2.webp",
   },
   {
     id: "estonia-piiri-magi-hill-relief-v2",
@@ -1088,6 +1121,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Altitudine: 118 m", "Amplasare: direct pe graniță", "Acoperire forestieră: 90% densă", "Fortificații istorice: 4 buncăre păstrate", "Pietre de hotar: 8 pe vârf", "Distanța până la cel mai apropiat sat: 2 km"],
       en: ["Elevation: 118 m", "Location: directly on the border", "Forest cover: 90% dense", "Historical fortifications: 4 bunkers preserved", "Boundary stones: 8 on the summit", "Distance to nearest village: 2 km"],
     },
+    image: "/poi-images/estonia-piiri-magi-hill-relief-v2.webp",
   },
   {
     id: "estonia-metsa-magi-hill-relief-v2",
@@ -1120,6 +1154,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Altitudine: 98 m", "Acoperire forestieră: 100%", "Specii de arbori: 70% pin, 30% molid", "Vârsta pădurii: peste 100 de ani", "Exploatare forestieră: 50 m³/an", "Populație de căprioare: estimat 5/km²"],
       en: ["Elevation: 98 m", "Forest cover: 100%", "Tree species: 70% pine, 30% spruce", "Forest age: over 100 years", "Forestry use: 50 m³ annual logging", "Deer population: estimated 5 per km²"],
     },
+    image: "/poi-images/estonia-metsa-magi-hill-relief-v2.webp",
   },
   {
     id: "estonia-kruusa-nukk-rise-relief-v2",
@@ -1152,6 +1187,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Altitudine: 87 m", "Suprafață: aprox. 0,2 km²", "Material: nisip și pietriș", "Formare: acum aproximativ 11.000 de ani", "Distanța până la satul Kruusa: 0,5 km", "Diametru: aprox. 150 m"],
       en: ["Elevation: 87 m", "Area: approx. 0.2 km²", "Material: sand and gravel", "Formation: about 11,000 years ago", "Distance to Kruusa village: 0.5 km", "Diameter: approx. 150 m"],
     },
+    image: "/poi-images/estonia-kruusa-nukk-rise-relief-v2.webp",
   },
   {
     id: "estonia-veski-magi-hill-relief-v2",
@@ -1184,6 +1220,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Altitudine: 103 m", "Construirea morii: 1850", "Starea morii: ruină", "Suprafață agricolă: 70%", "Tip de sol: lut nisipos", "Distanța până la cel mai apropiat drum: 0,3 km"],
       en: ["Elevation: 103 m", "Mill construction: 1850", "Mill condition: ruins", "Agricultural land: 70% of area", "Soil type: sandy loam", "Distance to nearest road: 0.3 km"],
     },
+    image: "/poi-images/estonia-veski-magi-hill-relief-v2.webp",
   },
   {
     id: "estonia-ranna-magi-hill-relief-v2",
@@ -1216,6 +1253,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Altitudine: 92 m", "Altitudinea lacului: 65 m deasupra nivelului mării", "Suprafața lacului: 0,8 km²", "Adâncimea apei: max. 12 m", "Lungimea traseului de drumeție: 2,5 km în jurul lacului", "Temperatura apei în iulie: 19°C"],
       en: ["Elevation: 92 m", "Lake elevation: 65 m above sea level", "Lake area: 0.8 km²", "Water depth: max 12 m", "Hiking trail length: 2.5 km around lake", "Water temperature in July: 19°C"],
     },
+    image: "/poi-images/estonia-ranna-magi-hill-relief-v2.webp",
   },
   {
     id: "estonia-metsa-org-valley-relief-v2",
@@ -1248,6 +1286,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Lungime: 800 m", "Adâncime: 20 m", "Lățime: în medie 50 m", "Lungimea pârâului: 1,2 km", "Specii de amfibieni: 5 documentate", "Acoperire cu mușchi: 80%"],
       en: ["Length: 800 m", "Depth: 20 m", "Width: average 50 m", "Stream length: 1.2 km", "Amphibian species: 5 documented", "Moss cover: 80%"],
     },
+    image: "/poi-images/estonia-metsa-org-valley-relief-v2.webp",
   },
   {
     id: "estonia-kruusa-hari-ridge-relief-v2",
@@ -1280,6 +1319,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Lungime: 1,2 km", "Înălțime: 110 m", "Rocă: cuarțit", "Vârsta rocii: aproximativ 500 de milioane de ani", "Exploatare în carieră: 1920-1950", "Specii de licheni: 8 specii rare"],
       en: ["Length: 1.2 km", "Height: 110 m", "Rock: quartzite", "Rock age: approximately 500 million years", "Quarry operation: 1920-1950", "Lichen species: 8 rare species"],
     },
+    image: "/poi-images/estonia-kruusa-hari-ridge-relief-v2.webp",
   },
   {
     id: "estonia-linna-nukk-rise-relief-v2",
@@ -1312,6 +1352,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Altitudine: 95 m", "Construcția castelului: secolul al XIII-lea", "Vestigii de zid: înălțime de 3 m", "Distanța până în centrul orașului: 1,5 km", "Suprafața parcului: 2 ha", "Vizitatori pe an: estimat 10.000"],
       en: ["Elevation: 95 m", "Castle construction: 13th century", "Remaining wall height: 3 m", "Distance to city center: 1.5 km", "Park area: 2 ha", "Annual visitors: estimated 10,000"],
     },
+    image: "/poi-images/estonia-linna-nukk-rise-relief-v2.webp",
   },
   {
     id: "estonia-piiri-org-valley-relief-v2",
@@ -1344,6 +1385,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Lungime: 1 km", "Adâncime: 25 m", "Lățime: în medie 40 m", "Lungimea râului: 3 km", "Specii de arbori: 60% mesteacăn, 40% arin", "Lățime coridor faunistic: 100 m"],
       en: ["Length: 1 km", "Depth: 25 m", "Width: average 40 m", "River length: 3 km", "Tree species: 60% birch, 40% alder", "Wildlife corridor width: 100 m"],
     },
+    image: "/poi-images/estonia-piiri-org-valley-relief-v2.webp",
   },
   {
     id: "estonia-tuuliku-nukk-rise-relief-v2",
@@ -1376,6 +1418,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Altitudine: 82 m", "Viteza medie a vântului: 5,5 m/s", "Vegetație: 90% iarbă de câmp", "Adâncimea nisipului: până la 5 m", "Utilizare: măsurători eoliene din 1995", "Suprafață: 0,1 km²"],
       en: ["Elevation: 82 m", "Average wind speed: 5.5 m/s", "Vegetation: 90% heather", "Sand depth: up to 5 m", "Usage: wind energy measurements since 1995", "Area: 0.1 km²"],
     },
+    image: "/poi-images/estonia-tuuliku-nukk-rise-relief-v2.webp",
   },
   {
     id: "estonia-vana-nukk-rise-relief-v2",
@@ -1408,6 +1451,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Altitudine: 100 m", "Descoperiri arheologice: 15 artefacte din Epoca Fierului", "Număr de stejari: 30", "Vârsta stejarilor: până la 300 de ani", "Loc de cult: utilizat până în secolul al XIII-lea", "Suprafață: 0,3 km²"],
       en: ["Elevation: 100 m", "Archaeological finds: 15 Iron Age artifacts", "Oak trees: 30", "Oak age: up to 300 years", "Cult site: used until 13th century", "Area: 0.3 km²"],
     },
+    image: "/poi-images/estonia-vana-nukk-rise-relief-v2.webp",
   },
   {
     id: "estonia-liiva-nukk-rise-relief-v2",
@@ -1440,6 +1484,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Altitudine: 88 m", "Conținut de nisip: 95%", "Rata de eroziune: 0,5 m³ pe an", "Specii de insecte: 20 specii de albine de nisip documentate", "Distanța până la râu: 0,2 km", "Suprafață: 0,15 km²"],
       en: ["Elevation: 88 m", "Sand content: 95%", "Erosion rate: 0.5 m³ per year", "Insect species: 20 documented sand bee species", "Distance to river: 0.2 km", "Area: 0.15 km²"],
     },
+    image: "/poi-images/estonia-liiva-nukk-rise-relief-v2.webp",
   },
   {
     id: "estonia-kadaka-nukk-rise-relief-v2",
@@ -1472,6 +1517,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Altitudine: 90 m", "Densitate ienupăr: 200 de tufe/100 m²", "pH sol: 7,2", "Specii de plante: 40 documentate", "Suprafață pășune: 5 ha", "Vârsta ienupărului: până la 80 de ani"],
       en: ["Elevation: 90 m", "Juniper density: 200 bushes per 100 m²", "Soil pH: 7.2", "Plant species: 40 documented", "Pasture area: 5 ha", "Juniper age: up to 80 years"],
     },
+    image: "/poi-images/estonia-kadaka-nukk-rise-relief-v2.webp",
   },
   {
     id: "estonia-suure-nukk-rise-relief-v2",
@@ -1504,6 +1550,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Înălțime: 142 m.", "Parte a masivului Pandivere.", "Suprafața rezervației: 500 ha.", "Temperatura maximă: 35 °C.", "15 izvoare pe versanți.", "10 specii de orhidee."],
       en: ["Height: 142 m.", "Part of Pandivere Uplands.", "Protected area: 500 ha.", "Maximum temperature: 35 °C.", "15 springs on the slopes.", "10 orchid species."],
     },
+    image: "/poi-images/estonia-suure-nukk-rise-relief-v2.webp",
   },
   {
     id: "estonia-kool-nukk-rise-relief-v2",
@@ -1536,6 +1583,7 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Altitudine: 118 metri", "Suprafața protejată: 200 de hectare", "Numărul de lacuri glaciare din apropiere: 6", "Distanța până la Marea Baltică: 60 km", "Populația din raza de 10 km: mai puțin de 500 de locuitori", "Vârsta geologică: aproximativ 12.000 de ani"],
       en: ["Elevation: 120 meters above sea level", "Length: 1.5 km, width: 300 meters", "Part of the Pandivere Upland, covering 2,400 km²", "Annual precipitation: 650 mm", "Nearest town: Rakvere, 30 km away", "Formed during the Weichselian glaciation, 20,000 years ago"],
     },
+    image: "/poi-images/estonia-kool-nukk-rise-relief-v2.webp",
   },
   {
     id: "estonia-pae-nukk-rise-relief-v2",
@@ -1568,5 +1616,6 @@ export const estoniaReliefV2: POI[] = [
       ro: ["Altitudine: 115 metri", "Suprafața: 80 de hectare", "Numărul de specii de fluturi: 45", "Distanța până la Tallinn: 100 km", "Populația din comună: 1.200 de locuitori", "Vârsta rocilor: 450 milioane de ani"],
       en: ["Elevation: 115 meters", "Composition: Ordovician limestone and marl", "Area: 0.8 km²", "Annual sunshine: 1,800 hours", "Nearest town: Rakvere, 25 km", "Protected orchid species: 8"],
     },
+    image: "/poi-images/estonia-pae-nukk-rise-relief-v2.webp",
   }
 ];

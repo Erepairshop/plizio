@@ -62,7 +62,8 @@ export const poiExtraBhutanEconomicV2: POI[] = [
       hu: ["Bhután első nagy vízerőmű-projektje", "A Wang Chhu folyón található", "Az építési idő majdnem 10 évig tartott", "Teljes egészében India finanszírozta", "A gát 40 méter magas", "Erősen fellendítette a helyi gazdaságot", "Képzési helyszínként szolgált bhutáni mérnökök számára", "Az áram nagy részét Nyugat-Bengálba exportálják"],
       ro: ["Primul mare proiect hidroenergetic din Bhutan", "Situat pe râul Wang Chhu", "Perioada de construcție a fost de aproape 10 ani", "A fost finanțat integral de India", "Barajul are o înălțime de 40 de metri", "A stimulat puternic economia locală", "A servit ca centru de instruire pentru inginerii bhutanezi", "O mare parte din electricitate este exportată în Bengalul de Vest"],
       en: ["First major hydropower project in Bhutan", "Located on the Wang Chhu River", "The construction period was almost 10 years", "Was fully funded by India", "The dam is 40 meters high", "Greatly boosted the local economy", "Served as a training ground for Bhutanese engineers", "A large part of the electricity is exported to West Bengal"]
-    }
+    },
+    image: "/poi-images/chukha-hydropower-plant-economic-v2.webp",
   },
   {
     id: "kurichhu-hydropower-plant-economic-v2",
@@ -157,6 +158,7 @@ export const poiExtraBhutanEconomicV2: POI[] = [
       ro: "Proiectul hidroelectric Punatsangchhu este o investiție majoră în Bhutan, situată pe râul Punatsangchhu din districtul Wangdue Phodrang. Este compus din două baraje, Punatsangchhu I și II, cu o capacitate totală planificată de 2.400 de megawați. Proiectul este o inițiativă comună între Bhutan și India pentru a produce energie curată și a stimula dezvoltarea economică. Construcția a început în 2008, dar a fost afectată de instabilitate geologică și întârzieri. Punatsangchhu I va avea o capacitate instalată de 1.200 MW, iar Punatsangchhu II va adăuga încă 1.000 MW. Centrala va genera anual peste 6.000 GWh de electricitate, majoritatea fiind exportată în India. Proiectul creează locuri de muncă și îmbunătățește infrastructura, dar ridică probleme de mediu și de relocare a comunităților.",
       en: "The Punatsangchhu Hydropower Project is a large infrastructure endeavor in Bhutan, located on the Punatsangchhu River in Wangdue Phodrang District. It comprises two dams, Punatsangchhu I and II, with a combined planned capacity of 2,400 megawatts. The project is a joint venture between Bhutan and India to generate clean energy and foster economic growth. Construction began in 2008 but has faced delays due to geological instability. Punatsangchhu I will have an installed capacity of 1,200 MW, while Punatsangchhu II will add another 1,000 MW. The plant is expected to produce over 6,000 GWh annually, with most electricity exported to India. The project creates jobs and improves infrastructure, though environmental concerns and community resettlement remain challenges.",
     },
+    image: "/poi-images/punatsangchhu-hydropower-economic-v2.webp",
   },
   {
     id: "basochhu-hydropower-plant-economic-v2",
@@ -188,7 +190,8 @@ export const poiExtraBhutanEconomicV2: POI[] = [
       hu: ["Ausztriával együttműködésben fejlesztették ki", "Főként a belföldi kereslet kielégítését szolgálja", "Egy felső és egy alsó szakaszból áll (Felső-Basochhu és Alsó-Basochhu)", "Segít csökkenteni az áramimportot a száraz évszakban", "Több mint 700 méteres magas természetes esést használ ki", "A projektet időben és a költségvetésen belül fejezték be", "Elősegíti Bhután energiafüggetlenségét", "A Druk Green Power Corporation üzemelteti"],
       ro: ["Dezvoltat în cooperare cu Austria", "Servește în principal pentru a satisface cererea internă", "Constă dintr-o treaptă superioară și una inferioară (Basochhu Superior și Basochhu Inferior)", "Ajută la reducerea importurilor de energie electrică în timpul sezonului secetos", "Utilizează o cădere naturală mare de peste 700 de metri", "Proiectul a fost finalizat la timp și în limita bugetului", "Promovează independența energetică a Bhutanului", "Operat de Druk Green Power Corporation"],
       en: ["Developed in cooperation with Austria", "Serves mainly to meet domestic demand", "Consists of an upper and a lower stage (Upper Basochhu and Lower Basochhu)", "Helps reduce electricity imports during the dry season", "Utilizes a high natural head of over 700 meters", "The project was completed on schedule and within budget", "Promotes Bhutan's energy independence", "Operated by the Druk Green Power Corporation"]
-    }
+    },
+    image: "/poi-images/basochhu-hydropower-plant-economic-v2.webp",
   },
   {
     id: "dagachhu-hydropower-plant-economic-v2",
@@ -220,7 +223,8 @@ export const poiExtraBhutanEconomicV2: POI[] = [
       hu: ["Az első PPP infrastrukturális projekt Bhutánban", "Szén-dioxid-krediteket generál a CDM mechanizmus keretében", "Az áramot Indiának adják el a Tata Power Company-nak", "A Druk Green Power Corp és az indiai Tata Power közös vállalkozása", "Az építkezést részben az Ázsiai Fejlesztési Bank finanszírozta", "A projekt a Dagachhu folyó vizét használja", "Növelte Bhután vonzerejét a külföldi befektetők számára", "Az innovatív, környezetbarát finanszírozás iránti elkötelezettséget mutatja"],
       ro: ["Primul proiect de infrastructură PPP din Bhutan", "Generează credite de carbon în cadrul mecanismului CDM", "Energia electrică este vândută în India companiei Tata Power", "Un joint-venture între Druk Green Power Corp și compania indiană Tata Power", "Construcția a fost parțial finanțată de Banca Asiatică de Dezvoltare", "Proiectul utilizează apa râului Dagachhu", "A sporit atractivitatea Bhutanului pentru investitorii străini", "Demonstrează angajamentul față de finanțarea inovatoare și ecologică"],
       en: ["First PPP infrastructure project in Bhutan", "Generates carbon credits under the CDM mechanism", "Power is sold to India to Tata Power Company", "A joint venture of Druk Green Power Corp and India's Tata Power", "Construction was partly financed by the Asian Development Bank", "The project utilizes the water of the Dagachhu river", "Increased Bhutan's attractiveness to foreign investors", "Shows commitment to innovative, green financing"]
-    }
+    },
+    image: "/poi-images/dagachhu-hydropower-plant-economic-v2.webp",
   },
   {
     id: "pasakha-industrial-estate-economic-v2",
@@ -407,7 +411,8 @@ export const poiExtraBhutanEconomicV2: POI[] = [
       hu: ["Bhután első cementgyára, 1974-ben alapították", "A termelés 1981-ben kezdődött", "Fontos beszállító a vízerőművek gátjainak építéséhez", "Száraz eljárású technológián alapul", "A Druk Holding and Investments (az állami befektetési ág) tulajdonában van", "Évente mintegy 300 000 tonna termelési kapacitással rendelkezik", "Döntő szerepet játszik a cement importhelyettesítésében", "Fontos munkaadó Gomtu távoli városában"],
       ro: ["Prima fabrică de ciment din Bhutan, înființată în 1974", "Producția a început în 1981", "Furnizor cheie pentru construcția barajelor hidroenergetice", "Bazată pe tehnologia procesului uscat", "Deținută de Druk Holding and Investments (brațul de investiții al statului)", "Are o capacitate de producție de aproximativ 300.000 de tone pe an", "Joacă un rol crucial în substituirea importurilor de ciment", "Angajator important în orașul îndepărtat Gomtu"],
       en: ["Bhutan's first cement plant, established in 1974", "Production began in 1981", "Key supplier for the construction of hydropower dams", "Based on the dry process technology", "Owned by Druk Holding and Investments (the state's investment arm)", "Has a production capacity of around 300,000 tons per year", "Plays a crucial role in import substitution for cement", "Major employer in the remote town of Gomtu"]
-    }
+    },
+    image: "/poi-images/penden-cement-authority-economic-v2.webp",
   },
   {
     id: "dungsam-cement-corporation-economic-v2",
@@ -470,7 +475,8 @@ export const poiExtraBhutanEconomicV2: POI[] = [
       hu: ["Bhután, a tengerparttal nem rendelkező ország legfontosabb kereskedelmi csomópontja", "Megkönnyíti az importot és exportot az indiai Kolkata kikötőn keresztül", "Vámkezelési, raktározási és árufuvarozási létesítményeket foglal magában", "A Világbank támogatásával fejlesztették ki", "Jelentősen csökkenti a torlódásokat és a logisztikai költségeket", "Javítja a bhutáni ellátási lánc hatékonyságát", "Modellként szolgál más tervezett szárazkikötők számára az országban", "Bhután harmadik országbeli kereskedelmének nagy részét bonyolítja"],
       ro: ["Cel mai important nod comercial pentru Bhutan, o țară fără ieșire la mare", "Facilitează importurile și exporturile prin portul indian Kolkata", "Include facilități pentru vămuire, depozitare și manipulare a mărfurilor", "Dezvoltat cu sprijinul Băncii Mondiale", "Reduce semnificativ congestia și costurile logistice", "Îmbunătățește eficiența lanțului de aprovizionare al Bhutanului", "Un model pentru alte porturi uscate planificate în țară", "Gestionează majoritatea comerțului Bhutanului cu țări terțe"],
       en: ["Most important trade hub for landlocked Bhutan", "Facilitates import and export via the Indian port of Kolkata", "Includes facilities for customs clearance, warehousing, and freight handling", "Developed with assistance from the World Bank", "Significantly reduces congestion and logistics costs", "Improves the efficiency of Bhutan's supply chain", "A model for other planned dry ports in the country", "Manages the majority of Bhutan's third-country trade"]
-    }
+    },
+    image: "/poi-images/phuentsholing-mini-dry-port-economic-v2.webp",
   },
   {
     id: "gelephu-dry-port-economic-v2",
@@ -626,6 +632,7 @@ export const poiExtraBhutanEconomicV2: POI[] = [
       hu: ["Bhután egyik legkorábbi nehézipari vállalata", "Ferroszilícium gyártására szakosodott", "A Chukha és Tala vízerőművekből származó áram egyik fő fogyasztója", "Több mint 20 országba exportál, fontos devizabevételi forrás", "A Pasakha ipari parkban található, Bhután ipari szívében", "Az országból származó kiváló minőségű kvarcitlerakódásokat használ", "ISO 9001 minőségirányítási rendszerek szerint tanúsított", "Jelentős mértékben hozzájárul Bhután gazdasági diverzifikációjához"],
       ro: ["Una dintre cele mai vechi industrii grele din Bhutan", "Specializată în producția de ferosiliciu", "Consumator major de energie electrică de la hidrocentralele Chukha și Tala", "Exportă în peste 20 de țări, un important generator de valută", "Situată în zona industrială Pasakha, inima industrială a Bhutanului", "Utilizează zăcăminte de cuarțit de înaltă calitate din întreaga țară", "Certificată ISO 9001 pentru sistemele de management al calității", "O contribuție semnificativă la diversificarea economică a Bhutanului"],
       en: ["One of the earliest heavy industries in Bhutan", "Specializes in the production of ferrosilicon", "Major consumer of electricity from the Chukha and Tala hydropower plants", "Exports to over 20 countries, a major foreign exchange earner", "Located in the Pasakha Industrial Estate, Bhutan's industrial heartland", "Uses high-grade quartzite deposits from around the country", "Certified ISO 9001 for quality management systems", "A significant contributor to Bhutan's economic diversification"]
-    }
+    },
+    image: "/poi-images/bhutan-ferro-alloys-economic-v2.webp",
   }
 ];

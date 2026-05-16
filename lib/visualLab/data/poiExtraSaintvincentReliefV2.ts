@@ -31,6 +31,7 @@ export const saintvincentReliefV2: POI[] = [
       ro: ["Atinge o înălțime maximă de aproximativ 747 metri (2.451 picioare).", "Situat în partea central-sudică a insulei principale Saint Vincent.", "Formează o pereche de vârfuri împreună cu Grand Bonhomme (970 m).", "Compus geologic din rocă vulcanică erodată și cenușă.", "Reprezintă un habitat important pentru papagalul de Saint Vincent.", "Traseele spre vârf sunt considerate extrem de alunecoase din cauza umidității."],
       en: ["Reaches a maximum height of approximately 747 meters (2,451 feet).", "Located in the south-central part of the main island of Saint Vincent.", "Forms a pair of peaks together with Grand Bonhomme (970 m).", "Geologically composed of weathered volcanic rock and ash.", "A vital habitat for the endangered Saint Vincent Parrot.", "Trails to the summit are considered extremely slippery due to moisture."],
     },
+    image: "/poi-images/saintvincent-petit-bonhomme-relief-v2.webp",
   },
   {
     id: "saintvincent-morne-garu-relief-v2",
@@ -62,6 +63,7 @@ export const saintvincentReliefV2: POI[] = [
       ro: ["Situat între vulcanul La Soufrière și Muntele St. Andrew.", "Richmond Peak este cel mai înalt punct al lanțului, cu 1.077 metri.", "Compus din formațiuni vulcanice mai vechi decât La Soufrière.", "Reprezintă un bazin hidrografic primar pentru râurile Colonarie și Richmond.", "Considerat unul dintre cele mai inaccesibile locuri de pe insula Saint Vincent.", "Oferă un habitat critic pentru papagalul de Saint Vincent, aflat în pericol."],
       en: ["Located between the La Soufrière volcano and Mount St. Andrew.", "Richmond Peak is the highest point of the range at 1,077 meters.", "Composed of volcanic formations older than La Soufrière.", "Primary watershed for the Colonarie and Richmond rivers.", "Considered one of the most inaccessible places on the island of Saint Vincent.", "Provides critical habitat for the endangered Saint Vincent Parrot."],
     },
+    image: "/poi-images/saintvincent-morne-garu-relief-v2.webp",
   },
   {
     id: "saintvincent-cumberland-valley-relief-v2",
@@ -93,6 +95,7 @@ export const saintvincentReliefV2: POI[] = [
       ro: ["Valea găzduiește trei centrale hidroelectrice pentru generarea de energie.", "Traseul natural Cumberland este cunoscut pentru observarea papagalului de Saint Vincent.", "Se întinde de la Munții Leeward până la Marea Caraibilor.", "Golful de la gură servește ca loc de ancorare protejat pentru barcă.", "Valea a fost folosită intens pentru cultivarea cacaoului în perioada colonială.", "Râul Cumberland prezintă numeroase bazine naturale și mici cascade."],
       en: ["The valley hosts three hydroelectric power plants for electricity generation.", "The Cumberland Nature Trail is known for sightings of the Saint Vincent Parrot.", "It extends from the Leeward Mountains down to the Caribbean Sea.", "The bay at the mouth serves as a sheltered anchorage for boats.", "The valley was heavily used for cocoa cultivation during the colonial era.", "The Cumberland River features numerous natural pools and small waterfalls."],
     },
+    image: "/poi-images/saintvincent-cumberland-valley-relief-v2.webp",
   },
   {
     id: "saintvincent-vermont-valley-relief-v2",
@@ -124,6 +127,7 @@ export const saintvincentReliefV2: POI[] = [
       ro: ["Găzduiește traseul natural Vermont, unul dintre cele mai populare trasee de drumeție.", "Este habitatul principal pentru papagalul endemic Amazona guildingii.", "Valea se află la aproximativ 5 mile distanță de capitala Kingstown.", "Altitudinea variază în interiorul văii între 150 și 600 de metri.", "Primește peste 3.800 mm de precipitații anual, hrănind pădurea tropicală.", "A fost anterior un centru semnificativ pentru cultivarea aronutului."],
       en: ["Home to the Vermont Nature Trail, one of the island's most popular hiking routes.", "The primary habitat for the endemic Amazona guildingii (St. Vincent Parrot).", "The valley is located approximately 5 miles from the capital, Kingstown.", "Elevation varies within the valley between 150 and 600 meters.", "Receives over 3,800 mm of rainfall annually, feeding the rainforest.", "Was formerly a significant center for the cultivation of arrowroot."],
     },
+    image: "/poi-images/saintvincent-vermont-valley-relief-v2.webp",
   },
   {
     id: "saintvincent-colonarie-valley-relief-v2",
@@ -155,5 +159,6 @@ export const saintvincentReliefV2: POI[] = [
       ro: ["Cea mai extinsă vale fluvială de pe coasta de vânt a insulei.", "Drenată de râul Colonarie, care izvorăște în Morne Garu.", "Considerată cea mai productivă zonă pentru exportul de banane din Saint Vincent.", "Găzduiește centrala hidroelectrică Colonarie, o sursă importantă de energie.", "A fost un centru strategic în timpul Războaielor Caribiene din secolul al XVIII-lea.", "Solurile constau în depozite aluvionare de origine vulcanică."],
       en: ["The most extensive river valley on the island's windward coast.", "Drained by the Colonarie River, which originates in Morne Garu.", "Considered the most productive area for Saint Vincent's banana exports.", "Hosts the Colonarie Hydroelectric Plant, a vital energy source.", "Was a strategic center during the Carib Wars in the 18th century.", "The soils consist of alluvial deposits of volcanic origin."],
     },
+    image: "/poi-images/saintvincent-colonarie-valley-relief-v2.webp",
   }
 ];

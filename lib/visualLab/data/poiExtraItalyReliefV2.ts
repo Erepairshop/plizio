@@ -32,6 +32,7 @@ export const italyReliefV2: POI[] = [
       ro: ["Înălțime: 4478 metri", "Prima ascensiune: 14 iulie 1865", "Localizare: Alpii Pennini", "Formă: Piramidă cu patru fețe"],
       en: ["Elevation: 4,478 meters", "First ascent: July 14, 1865", "Range: Pennine Alps", "Prominence: 1,042 meters"],
     },
+    image: "/poi-images/italy-monte-cervino-relief-v2.webp",
   },
   {
     id: "italy-monte-viso-relief-v2",
@@ -64,6 +65,7 @@ export const italyReliefV2: POI[] = [
       ro: ["Altitudine: 3841 metri", "Prima ascensiune: 30 august 1861", "Masiv: Alpii Cottici", "Sursă de apă: Izvorul râului Po"],
       en: ["Elevation: 3,841 meters", "First ascent: August 30, 1861", "Range: Cottian Alps", "Source: Origin of the Po River"],
     },
+    image: "/poi-images/italy-monte-viso-relief-v2.webp",
   },
   {
     id: "italy-pianura-padana-relief-v2",
@@ -96,6 +98,7 @@ export const italyReliefV2: POI[] = [
       ro: ["Suprafață: 46.000 km².", "Lungimea Po: 652 km.", "Dens populată și industrializată.", "Produse agricole: orez, grâu.", "Orașe mari: Milano, Torino, Bologna.", "Climă continentală cu ceață iarna."],
       en: ["Area: 46,000 km².", "Po River length: 652 km.", "Densely populated and industrialized.", "Agricultural products: rice, wheat.", "Major cities: Milan, Turin, Bologna.", "Continental climate with winter fog."],
     },
+    image: "/poi-images/italy-pianura-padana-relief-v2.webp",
   },
   {
     id: "italy-massiccio-del-gran-paradiso-relief-v2",
@@ -128,6 +131,7 @@ export const italyReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf: 4.061 m.", "Parcul național înființat în 1922.", "Suprafața parcului: 70.000 ha.", "Prima ascensiune: 1860.", "Habitat pentru ibex alpin.", "În Alpii Graieni."],
       en: ["Highest peak: 4,061 m.", "National park established in 1922.", "Park area: 70,000 hectares.", "First ascent in 1860.", "Home to Alpine ibex.", "In the Graian Alps."],
     },
+    image: "/poi-images/italy-massiccio-del-gran-paradiso-relief-v2.webp",
   },
   {
     id: "italy-monte-amiata-relief-v2",
@@ -160,6 +164,7 @@ export const italyReliefV2: POI[] = [
       ro: ["Altitudine: 1.738 m.", "Vulcan stins.", "Ultima erupție: acum 300.000 de ani.", "Păduri de castani.", "Stațiune de schi iarna.", "Izvoare termale."],
       en: ["Height: 1,738 m.", "Extinct volcano.", "Last eruption 300,000 years ago.", "Chestnut forests.", "Ski resort in winter.", "Thermal springs."],
     },
+    image: "/poi-images/italy-monte-amiata-relief-v2.webp",
   },
   {
     id: "italy-altopiano-delle-murge-relief-v2",
@@ -192,6 +197,7 @@ export const italyReliefV2: POI[] = [
       ro: ["Suprafață: 4.000 km².", "Altitudine medie: 400 m.", "Podig carstic.", "Trulli în Alberobello (UNESCO).", "Produse: măsline, migdale.", "Altamura: faimos pentru pâine și urme de dinozauri."],
       en: ["Area: 4,000 km².", "Average elevation: 400 m.", "Karst plateau.", "Trulli in Alberobello (UNESCO).", "Main products: olives, almonds.", "Altamura: known for bread and dinosaur footprints."],
     },
+    image: "/poi-images/italy-altopiano-delle-murge-relief-v2.webp",
   },
   {
     id: "italy-monte-ciminio-relief-v2",
@@ -224,6 +230,7 @@ export const italyReliefV2: POI[] = [
       ro: ["Altitudine: 1.046 m.", "Origine vulcanică.", "Păduri de fag.", "Vârf: ruine de fortăreață și mănăstire.", "Parte a Parcului Natural Monte Cimino.", "Vedere spre Lacul Bolsena."],
       en: ["Elevation: 1,046 m.", "Volcanic origin.", "Beech forests.", "Summit: ruins of fortress and monastery.", "Part of Monte Cimino Nature Reserve.", "View of Lake Bolsena."],
     },
+    image: "/poi-images/italy-monte-ciminio-relief-v2.webp",
   },
   {
     id: "italy-pianura-di-catania-relief-v2",
@@ -256,6 +263,7 @@ export const italyReliefV2: POI[] = [
       ro: ["Câmpia Catania are o suprafață de aproximativ 430 km².", "Lățimea maximă a câmpiei este de aproximativ 30 km.", "Precipitațiile medii anuale sunt de 500–600 mm.", "Altitudinea câmpiei este cuprinsă între 0 și 200 m deasupra nivelului mării.", "Catania, cel mai mare oraș din câmpie, are aproximativ 311.000 de locuitori (2023).", "Râul Simeto este cel mai important curs de apă, cu o lungime de aproximativ 113 km."],
       en: ["The Catania Plain covers an area of approximately 430 km².", "The plain's maximum width is about 30 km.", "Average annual rainfall is 500–600 mm.", "The plain lies mostly at altitudes between 0 and 200 m above sea level.", "Catania, the largest city on the plain, has about 311,000 inhabitants (2023).", "The Simeto River is the main watercourse, with a length of about 113 km."],
     },
+    image: "/poi-images/italy-pianura-di-catania-relief-v2.webp",
   },
   {
     id: "italy-monte-sirino-relief-v2",
@@ -288,6 +296,7 @@ export const italyReliefV2: POI[] = [
       ro: ["Monte Sirino are o înălțime de 2.005 m deasupra nivelului mării.", "Se află în Parcul Național Pollino, care se întinde pe o suprafață de 1.925 km².", "Cel mai înalt vârf al masivului Sirino este Monte Sirino Grande, cu 2.005 m.", "Temperatura medie anuală pe vârf este de aproximativ 5 °C.", "Domeniul schiabil Sellata-Pierfaone este situat între 1.400 și 1.800 m altitudine.", "Comuna Latronico are aproximativ 4.000 de locuitori (2023)."],
       en: ["Monte Sirino has an elevation of 2,005 m above sea level.", "It is located within the Pollino National Park, which covers an area of 1,925 km².", "The highest peak of the Sirino massif is Monte Sirino Grande at 2,005 m.", "The average annual temperature on the summit is about 5 °C.", "The Sellata-Pierfaone ski resort is situated between 1,400 and 1,800 m altitude.", "The municipality of Latronico has about 4,000 inhabitants (2023)."],
     },
+    image: "/poi-images/italy-monte-sirino-relief-v2.webp",
   },
   {
     id: "italy-massiccio-del-pollino-relief-v2",
@@ -320,6 +329,7 @@ export const italyReliefV2: POI[] = [
       ro: ["Masivul Pollino se întinde pe o suprafață de aproximativ 1.925 km².", "Cel mai înalt vârf, Serra Dolcedorme, atinge 2.267 m.", "Monte Pollino are o înălțime de 2.248 m.", "În masiv există peste 50 de peșteri, inclusiv Grotta del Peschino.", "Pinul Loricato poate atinge vârste de peste 1.000 de ani.", "Parcul Național Pollino a fost înființat în 1993."],
       en: ["The Pollino Massif covers an area of approximately 1,925 km².", "The highest peak, Serra Dolcedorme, reaches 2,267 m.", "Monte Pollino is 2,248 m high.", "There are over 50 caves in the massif, including Grotta del Peschino.", "The Loricato pine can live to over 1,000 years.", "Pollino National Park was established in 1993."],
     },
+    image: "/poi-images/italy-massiccio-del-pollino-relief-v2.webp",
   },
   {
     id: "italy-monte-subasio-relief-v2",
@@ -352,6 +362,7 @@ export const italyReliefV2: POI[] = [
       ro: ["Monte Subasio are 1.290 m înălțime.", "Se ridică la est de Assisi, în regiunea Umbria.", "Parcul Regional Monte Subasio acoperă o suprafață de 7.400 de hectare.", "Schitul Eremo delle Carceri se află la aproximativ 750 m altitudine.", "Pe vârf se află o cruce ridicată în 1933.", "Muntele face parte din situl Natura 2000 IT5210028."],
       en: ["Monte Subasio is 1,290 m high.", "It rises east of Assisi in the Umbria region.", "The Monte Subasio Regional Park covers an area of 7,400 hectares.", "The hermitage Eremo delle Carceri is located at about 750 m elevation.", "A cross erected in 1933 stands on the summit.", "The mountain is part of the Natura 2000 site IT5210028."],
     },
+    image: "/poi-images/italy-monte-subasio-relief-v2.webp",
   },
   {
     id: "italy-altopiano-di-asiago-relief-v2",
@@ -384,6 +395,7 @@ export const italyReliefV2: POI[] = [
       ro: ["Podul Asiago se întinde pe o suprafață de aproximativ 550 km².", "Altitudinea medie a platoului este de aproximativ 1.000 m.", "Cel mai înalt punct este Monte Zebio, cu 1.903 m.", "Orașul Asiago este situat la 1.001 m altitudine și are aproximativ 6.300 de locuitori (2023).", "Cele Șapte Comune (Sette Comuni) acoperă o suprafață de aproximativ 500 km².", "Platoul a fost scena a peste 100 de bătălii în Primul Război Mondial."],
       en: ["The Asiago Plateau covers an area of about 550 km².", "The average elevation of the plateau is about 1,000 m.", "The highest point is Monte Zebio at 1,903 m.", "The town of Asiago lies at 1,001 m elevation and has about 6,300 inhabitants (2023).", "The Seven Municipalities (Sette Comuni) encompass an area of about 500 km².", "The plateau was the site of over 100 battles during World War I."],
     },
+    image: "/poi-images/italy-altopiano-di-asiago-relief-v2.webp",
   },
   {
     id: "italy-monte-cinto-relief-v2",
@@ -416,6 +428,7 @@ export const italyReliefV2: POI[] = [
       ro: ["Monte Cinto are 2.706 m înălțime.", "Este cel mai înalt munte din Corsica.", "Muntele se află în Parcul Natural Regional Corsica, care acoperă 3.500 km².", "Lac de Cinto este situat la 2.200 m altitudine.", "Prima ascensiune a Monte Cinto a avut loc în 1882, de către alpinistul francez Édouard Rochat.", "Temperatura medie anuală pe vârf este de aproximativ 2 °C."],
       en: ["Monte Cinto is 2,706 m high.", "It is the highest mountain on Corsica.", "The mountain is in the Corsica Regional Natural Park, which covers 3,500 km².", "Lac de Cinto lies at 2,200 m elevation.", "The first ascent of Monte Cinto was in 1882 by French alpinist Édouard Rochat.", "The average annual temperature on the summit is about 2 °C."],
     },
+    image: "/poi-images/italy-monte-cinto-relief-v2.webp",
   },
   {
     id: "italy-monte-falterona-relief-v2",
@@ -448,6 +461,7 @@ export const italyReliefV2: POI[] = [
       ro: ["Altitudine: 1.654 m", "Lacul Idoli la 1.380 m", "Vestigii etrusce din sec. IV î.Hr.", "Traseu de drumeții de 8 km", "Păduri de fag de la 1.200 m", "Izvoare termale la 38°C"],
       en: ["Elevation: 1,654 m", "Lago degli Idoli at 1,380 m", "Etruscan artifacts from 4th century BC", "Hiking trail length approx. 8 km", "Beech forest above 1,200 m", "Thermal springs at 38°C"],
     },
+    image: "/poi-images/italy-monte-falterona-relief-v2.webp",
   },
   {
     id: "italy-monte-nerone-relief-v2",
@@ -480,6 +494,7 @@ export const italyReliefV2: POI[] = [
       ro: ["Monte Nerone are o înălțime de 1.525 m.", "Se află în provincia Pesaro și Urbino, în Marche.", "În calcarul jurasic au fost identificate peste 500 de specii de fosile.", "Comuna Piobbico este situată la 340 m altitudine.", "Trufa albă (Tuber magnatum) este recoltată în regiune.", "Parcul natural regional Monte Nerone se întinde pe 2.600 de hectare."],
       en: ["Monte Nerone has an elevation of 1,525 m.", "It is located in the province of Pesaro and Urbino in Marche.", "Over 500 fossil species have been identified in the Jurassic limestone.", "The municipality of Piobbico lies at 340 m altitude.", "White truffle (Tuber magnatum) is harvested in the region.", "The Monte Nerone regional natural park covers 2,600 hectares."],
     },
+    image: "/poi-images/italy-monte-nerone-relief-v2.webp",
   },
   {
     id: "italy-monte-cucuzzo-relief-v2",
@@ -512,6 +527,7 @@ export const italyReliefV2: POI[] = [
       ro: ["Monte Cucuzzo are 1.512 m înălțime.", "Se află în Munții Peloritani, în nord-estul Siciliei.", "Comuna Montalbano Elicona este situată la 600 m altitudine.", "Muntele face parte din situl Natura 2000 ITA030028.", "Temperatura medie anuală în regiune este de aproximativ 15 °C.", "Distanța până la Etna este de aproximativ 70 km."],
       en: ["Monte Cucuzzo is 1,512 m high.", "It is located in the Peloritani Mountains in northeastern Sicily.", "The municipality of Montalbano Elicona lies at 600 m altitude.", "The mountain is part of the Natura 2000 site ITA030028.", "Average annual temperature in the region is about 15 °C.", "Distance to Mount Etna is about 70 km."],
     },
+    image: "/poi-images/italy-monte-cucuzzo-relief-v2.webp",
   },
   {
     id: "italy-monte-vettore-relief-v2",
@@ -544,6 +560,7 @@ export const italyReliefV2: POI[] = [
       ro: ["Monte Vettore are 2.476 m înălțime.", "Este cel mai înalt vârf al Munților Sibillini.", "Lacurile Laghi di Pilato sunt situate la 1.940 m altitudine.", "Parcul Național Monti Sibillini se întinde pe 71.000 de hectare.", "Cutremurul din august 2016 a avut magnitudinea 6,2 Mw.", "Capra neagră (Rupicapra pyrenaica) este nativă în parc."],
       en: ["Monte Vettore is 2,476 m high.", "It is the highest peak of the Monti Sibillini.", "The Laghi di Pilato lakes lie at 1,940 m elevation.", "The Monti Sibillini National Park covers 71,000 hectares.", "The August 2016 earthquake had a magnitude of 6.2 Mw.", "The chamois (Rupicapra pyrenaica) is native to the park."],
     },
+    image: "/poi-images/italy-monte-vettore-relief-v2.webp",
   },
   {
     id: "italy-monte-meta-relief-v2",
@@ -576,6 +593,7 @@ export const italyReliefV2: POI[] = [
       ro: ["Monte Meta are 2.242 m înălțime.", "Se află în Parcul Național Abruzzo, Lazio și Molise, care se întinde pe 50.000 de hectare.", "Populația de urs brun marsican din parc este de aproximativ 50–60 de exemplare (2023).", "Peștera Grotta di Pastena este situată în apropiere și are o lungime de 1,5 km.", "Comuna Picinisco este situată la 700 m altitudine.", "Râul Melfa are o lungime de aproximativ 50 km."],
       en: ["Monte Meta is 2,242 m high.", "It is located in the Abruzzo, Lazio and Molise National Park, covering 50,000 hectares.", "The Marsican brown bear population in the park is about 50–60 individuals (2023).", "The Grotta di Pastena cave is nearby, with a length of 1.5 km.", "The municipality of Picinisco lies at 700 m altitude.", "The Melfa River is about 50 km long."],
     },
+    image: "/poi-images/italy-monte-meta-relief-v2.webp",
   },
   {
     id: "italy-altopiano-della-sila-relief-v2",
@@ -608,6 +626,7 @@ export const italyReliefV2: POI[] = [
       ro: ["Podul Sila se întinde pe aproximativ 1.500 km².", "Monte Botte Donato este cel mai înalt vârf, cu 1.928 m.", "Parcul Național Sila a fost înființat în 1997 și acoperă 73.695 de hectare.", "Lacul Lago Arvo are o suprafață de 8,5 km².", "Pinul negru calabrez acoperă aproximativ 60% din suprafața împădurită.", "Precipitațiile medii anuale sunt de 1.200–1.400 mm."],
       en: ["The Sila Plateau covers about 1,500 km².", "Monte Botte Donato is the highest peak at 1,928 m.", "The Sila National Park was established in 1997 and covers 73,695 hectares.", "Lago Arvo has a surface area of 8.5 km².", "Calabrian black pine covers about 60% of the forest area.", "Average annual precipitation is 1,200–1,400 mm."],
     },
+    image: "/poi-images/italy-altopiano-della-sila-relief-v2.webp",
   },
   {
     id: "italy-monte-terminillo-relief-v2",
@@ -640,6 +659,7 @@ export const italyReliefV2: POI[] = [
       ro: ["Altitudine: 2.217 m", "Pârtii de schi până la 1.500 m", "Sezon: decembrie-aprilie", "Distanță de Roma: 100 km", "Număr de vârfuri principale: 3", "Stația de jos la 1.200 m"],
       en: ["Elevation: 2,217 m", "Ski slopes up to 1,500 m long", "Season December to April", "Distance from Rome 100 km", "Three main peaks", "Base station at 1,200 m"],
     },
+    image: "/poi-images/italy-monte-terminillo-relief-v2.webp",
   },
   {
     id: "italy-monte-marsicano-relief-v2",
@@ -672,6 +692,7 @@ export const italyReliefV2: POI[] = [
       ro: ["Altitudine: 2.245 m", "Parcul Național înființat în 1923", "Populație de urs brun marsican: circa 50", "Acoperire forestieră peste 80%", "Număr de trasee de drumeții: 12", "Crucea de pe vârf din 1950"],
       en: ["Elevation: 2,245 m", "National park established 1923", "Marsican brown bear population approx. 50", "Forest cover over 80%", "Number of hiking trails: 12", "Summit cross from 1950"],
     },
+    image: "/poi-images/italy-monte-marsicano-relief-v2.webp",
   },
   {
     id: "italy-monte-catria-relief-v2",
@@ -704,6 +725,7 @@ export const italyReliefV2: POI[] = [
       ro: ["Altitudine: 1.701 m", "Capela de pe vârf din 1937", "Fosile din Jurasic", "Număr de trasee de cățărare: 15", "Mănăstirea Fonte Avellana fondată în 980", "Traseu de drumeții de 10 km"],
       en: ["Elevation: 1,701 m", "Summit chapel from 1937", "Jurassic fossils present", "Number of climbing routes: 15", "Fonte Avellana Abbey founded 980", "Hiking trail length approx. 10 km"],
     },
+    image: "/poi-images/italy-monte-catria-relief-v2.webp",
   },
   {
     id: "italy-monte-la-nuda-relief-v2",
@@ -736,6 +758,7 @@ export const italyReliefV2: POI[] = [
       ro: ["Altitudine: 1.895 m", "Vârf de calcar", "Parcul Național Casentinesi înființat 1993", "Diferență de altitudine de 600 m", "Timp de drumeție aprox. 3 ore", "Punct trigonometric la 1.895 m"],
       en: ["Elevation: 1,895 m", "Limestone summit", "Casentinesi National Park established 1993", "Elevation gain from trailhead 600 m", "Hiking time approx. 3 hours", "Triangulation point at 1,895 m"],
     },
+    image: "/poi-images/italy-monte-la-nuda-relief-v2.webp",
   },
   {
     id: "italy-monte-carpegna-relief-v2",
@@ -768,6 +791,7 @@ export const italyReliefV2: POI[] = [
       ro: ["Altitudine: 1.415 m", "Parcul Natural Sasso Simone e Simoncello (1973)", "Monumentul lui Marco Pantani la 1.415 m", "Brânză Pecorino di Carpegna DOP din 1996", "Lungimea pârtiilor de schi fond: 20 km", "Distanță până la Marea Adriatică: 30 km"],
       en: ["Elevation: 1,415 m", "Sasso Simone e Simoncello Natural Park (1973)", "Marco Pantani monument at 1,415 m", "Pecorino di Carpegna DOP cheese since 1996", "Cross-country ski trails length 20 km", "Distance to Adriatic Sea 30 km"],
     },
+    image: "/poi-images/italy-monte-carpegna-relief-v2.webp",
   },
   {
     id: "italy-monte-camicia-relief-v2",
@@ -800,6 +824,7 @@ export const italyReliefV2: POI[] = [
       ro: ["Altitudine: 2.564 m", "Parcul Național Gran Sasso înființat 1991", "Munte de calcar", "Dificultatea ascensiunii: grad III", "Cabana la 2.450 m", "Floarea de colț de la 2.000 m"],
       en: ["Elevation: 2,564 m", "Gran Sasso National Park established 1991", "Limestone mountain", "Climbing difficulty: grade III", "Mountain hut at 2,450 m", "Edelweiss above 2,000 m"],
     },
+    image: "/poi-images/italy-monte-camicia-relief-v2.webp",
   },
   {
     id: "italy-monte-brencola-relief-v2",
@@ -832,6 +857,7 @@ export const italyReliefV2: POI[] = [
       ro: ["Altitudine: 2.077 m", "Distanță de Monte Camicia: 3 km", "Peretele nordic înalt de 200 m", "Cuiburi de acvilă de stâncă: circa 2", "Traseu de drumeții de 6 km", "Diferență de nivel 900 m"],
       en: ["Elevation: 2,077 m", "Distance from Monte Camicia 3 km", "North face rock wall height 200 m", "Golden eagle breeding pairs: approx. 2", "Hiking trail length approx. 6 km", "Elevation gain 900 m"],
     },
+    image: "/poi-images/italy-monte-brencola-relief-v2.webp",
   },
   {
     id: "italy-cime-di-lavaredo-relief-v2",
@@ -864,6 +890,7 @@ export const italyReliefV2: POI[] = [
       ro: ["Cima Grande are 2999 m altitudine.", "Cima Ovest are 2973 m.", "Cima Piccola are 2857 m.", "Prima ascensiune a avut loc în 1869.", "Suprafața masivului este de aproximativ 10 km².", "Traseul circular are 10 km."],
       en: ["Cima Grande is 2,999 m high.", "Cima Ovest is 2,973 m high.", "Cima Piccola is 2,857 m high.", "First ascent in 1869 by Paul Grohmann.", "Area of the massif is about 10 km².", "The circular trail is 10 km long."],
     },
+    image: "/poi-images/italy-cime-di-lavaredo-relief-v2.webp",
   },
   {
     id: "italy-monte-cusna-relief-v2",
@@ -896,6 +923,7 @@ export const italyReliefV2: POI[] = [
       ro: ["Altitudine: 2.121 m", "Regiune: Emilia-Romagna", "Parcul Național: Apeninii Tosco-Emiliani", "Roci: gresii și marne", "Suprafața parcului: ~22.000 ha", "Traseu popular: Sentiero Matto"],
       en: ["Elevation: 2,121 m", "Location: Emilia-Romagna, Italy", "Part of: National Park of the Tuscan-Emilian Apennines", "Rock type: sandstone and marl", "Park area: 22,000 ha", "First ascent: unknown"],
     },
+    image: "/poi-images/italy-monte-cusna-relief-v2.webp",
   },
   {
     id: "italy-monte-cimone-relief-v2",
@@ -928,6 +956,7 @@ export const italyReliefV2: POI[] = [
       ro: ["Altitudine: 2.165 m", "Provincie: Modena", "Pârtii: 50 km", "Parcul Regional: Frignano", "Roci: calcar și dolomit", "Vedere: Alpi și Marea Adriatică"],
       en: ["Elevation: 2,165 m", "Province: Modena", "Ski slopes: 50 km", "Protected area: Frignano Regional Park", "Rock type: limestone and dolomite", "Views: Alps and Adriatic Sea"],
     },
+    image: "/poi-images/italy-monte-cimone-relief-v2.webp",
   },
   {
     id: "italy-monte-giovo-relief-v2",
@@ -960,6 +989,7 @@ export const italyReliefV2: POI[] = [
       ro: ["Altitudine: 1.119 m", "Provincie: Reggio Emilia", "Parcul Regional: Gigante", "Graniță istorică: Ducatul Modena-Statele Papale", "Vegetație: fag și castan", "Râu: Secchia"],
       en: ["Elevation: 1,119 m", "Province: Reggio Emilia", "Regional park: Gigante", "Historical border: Duchy of Modena vs. Papal States", "Tree species: beech and chestnut", "River: Secchia"],
     },
+    image: "/poi-images/italy-monte-giovo-relief-v2.webp",
   },
   {
     id: "italy-monte-penna-relief-v2",
@@ -992,6 +1022,7 @@ export const italyReliefV2: POI[] = [
       ro: ["Altitudine: 1.735 m", "Provincie: Parma", "Parcul Național: Apeninii Tosco-Emiliani", "Capelă: construită în 1936", "Păduri: fag", "Faună: lup, acvilă de munte"],
       en: ["Elevation: 1,735 m", "Province: Parma", "National park: Tuscan-Emilian Apennines", "Summit chapel: built 1936", "Forest type: beech", "Notable wildlife: wolf, golden eagle"],
     },
+    image: "/poi-images/italy-monte-penna-relief-v2.webp",
   },
   {
     id: "italy-monte-beigua-relief-v2",
@@ -1024,6 +1055,7 @@ export const italyReliefV2: POI[] = [
       ro: ["Altitudine: 1.287 m", "Provincie: Savona", "Parcul Regional: Beigua", "Roci: serpentinit, gabbro, ofiolit", "UNESCO: petroglife din epoca bronzului", "Vedere: Marea Ligurică, Alpi"],
       en: ["Elevation: 1,287 m", "Province: Savona", "Regional park: Beigua", "Rock types: serpentinite, gabbro, ophiolite", "UNESCO: Bronze Age rock engravings", "Views: Ligurian Sea, Alps"],
     },
+    image: "/poi-images/italy-monte-beigua-relief-v2.webp",
   },
   {
     id: "italy-monte-antola-relief-v2",
@@ -1056,6 +1088,7 @@ export const italyReliefV2: POI[] = [
       ro: ["Altitudine: 1.597 m", "Provincie: Genova", "Parcul Regional: Antola (1995)", "Râuri: Scrivia, Trebbia", "Vegetație: castan, orhidee", "Refugiu: Rifugio Monte Antola"],
       en: ["Elevation: 1,597 m", "Province: Genoa", "Regional park: Antola (1995)", "Rivers: Scrivia, Trebbia", "Vegetation: chestnut, orchids", "Summit hut: Rifugio Monte Antola"],
     },
+    image: "/poi-images/italy-monte-antola-relief-v2.webp",
   },
   {
     id: "italy-monte-tobbio-relief-v2",
@@ -1088,6 +1121,7 @@ export const italyReliefV2: POI[] = [
       ro: ["Altitudine: 1.092 m", "Provincie: Alessandria", "Parcul Regional: Capanne di Marcarolo", "Ruine castel: medieval", "Plantă endemică: violeta Tobbio", "Punct de plecare: Sanctuarul Nostra Signora della Guardia"],
       en: ["Elevation: 1,092 m", "Province: Alessandria", "Regional park: Capanne di Marcarolo", "Castle ruins: medieval", "Endemic plant: Tobbio violet", "Starting point: Sanctuary of Nostra Signora della Guardia"],
     },
+    image: "/poi-images/italy-monte-tobbio-relief-v2.webp",
   },
   {
     id: "italy-monte-matto-relief-v2",
@@ -1120,6 +1154,7 @@ export const italyReliefV2: POI[] = [
       ro: ["Altitudine: 1.614 m", "Provincie: Genova", "Parcul Regional: Aveto", "Cruce pe vârf: 1988", "Arbori: brad argintiu, fag", "Plecare: Passo del Bocco"],
       en: ["Elevation: 1,614 m", "Province: Genoa", "Regional park: Aveto", "Summit cross: installed 1988", "Trees: silver fir, beech", "Starting point: Passo del Bocco"],
     },
+    image: "/poi-images/italy-monte-matto-relief-v2.webp",
   },
   {
     id: "italy-pizzo-d-uccello-relief-v2",
@@ -1152,6 +1187,7 @@ export const italyReliefV2: POI[] = [
       ro: ["Altitudine: 1.636 m", "Munți: Alpii Apuani", "Rocă: marmură de Carrara", "Exploatare marmură: din epoca romană", "Peșteră: Grotta del Vento", "Escaladă: tehnică"],
       en: ["Elevation: 1,636 m", "Mountain range: Apuan Alps", "Rock type: Carrara marble", "Marble quarrying: since Roman times", "Cave: Grotta del Vento", "Climbing grade: technical"],
     },
+    image: "/poi-images/italy-pizzo-d-uccello-relief-v2.webp",
   },
   {
     id: "italy-monte-sagro-relief-v2",
@@ -1184,6 +1220,7 @@ export const italyReliefV2: POI[] = [
       ro: ["Altitudine: 1.749 m", "Munți: Alpii Apuani", "Provincie: Massa-Carrara", "Exploatare marmură: din Renascentism", "Parcul Regional: Alpii Apuani", "Plantă endemică: Campanula apuana"],
       en: ["Elevation: 1,749 m", "Mountain range: Apuan Alps", "Province: Massa-Carrara", "Marble quarrying: since Renaissance", "Regional park: Apuan Alps", "Endemic plant: Campanula apuana"],
     },
+    image: "/poi-images/italy-monte-sagro-relief-v2.webp",
   },
   {
     id: "italy-monte-altissimo-relief-v2",
@@ -1216,6 +1253,7 @@ export const italyReliefV2: POI[] = [
       ro: ["Altitudine: 1.580 m", "Munți: Alpii Apuani", "Marmură: folosită de Michelangelo", "Peșteră: Buca del Diavolo", "Refugiu: Rifugio Aronte", "Vedere: Garfagnana, Valea Serchio"],
       en: ["Elevation: 1,580 m", "Mountain range: Apuan Alps", "Marble used by Michelangelo", "Cave: Buca del Diavolo", "Summit hut: Rifugio Aronte", "Views: Garfagnana, Serchio Valley"],
     },
+    image: "/poi-images/italy-monte-altissimo-relief-v2.webp",
   },
   {
     id: "italy-monte-cristallo-relief-v2",
@@ -1248,6 +1286,7 @@ export const italyReliefV2: POI[] = [
       ro: ["Altitudine: 1.575 m", "Munți: Alpii Apuani", "Provincie: Massa-Carrara", "Semnificație nume: Muntele de Cristal", "Plantă endemică: Saxifraga capraria", "Vedere: Marea Tireniană, Insula Elba"],
       en: ["Elevation: 1,575 m", "Mountain range: Apuan Alps", "Province: Massa-Carrara", "Name meaning: Crystal Mountain", "Endemic plant: Saxifraga capraria", "Views: Tyrrhenian Sea, Elba"],
     },
+    image: "/poi-images/italy-monte-cristallo-relief-v2.webp",
   },
   {
     id: "italy-monte-soratte-relief-v2",
@@ -1280,6 +1319,7 @@ export const italyReliefV2: POI[] = [
       ro: ["Altitudine: 691 m", "Regiune: Lazio", "Provincie: Roma", "Peșteră carstică: Grotta del Mastro", "Al Doilea Război Mondial: cartier general german", "Astăzi: parc regional"],
       en: ["Elevation: 691 m", "Region: Lazio", "Province: Rome", "Karst cave: Grotta del Mastro", "WWII: German headquarters bunker", "Current status: regional park"],
     },
+    image: "/poi-images/italy-monte-soratte-relief-v2.webp",
   },
   {
     id: "italy-monte-gargano-relief-v2",
@@ -1312,6 +1352,7 @@ export const italyReliefV2: POI[] = [
       ro: ["Altitudine: 1.055 m", "Peninsulă: Gargano", "Parcul Național: Gargano (118.000 ha)", "Statuie pe vârf: Arhanghelul Mihail", "UNESCO: Monte Sant'Angelo", "Păsări: șoim călător"],
       en: ["Elevation: 1,055 m", "Peninsula: Gargano", "National park: Gargano (118,000 ha)", "Summit statue: Archangel Michael", "UNESCO site: Monte Sant'Angelo", "Raptors: peregrine falcon"],
     },
+    image: "/poi-images/italy-monte-gargano-relief-v2.webp",
   },
   {
     id: "italy-altopiano-della-sila-grande-relief-v2",
@@ -1344,6 +1385,7 @@ export const italyReliefV2: POI[] = [
       ro: ["Altitudine medie: 1.300 m", "Parcul Național: Sila (73.000 ha, 2002)", "Arbori: pin negru de Calabria, fag", "Lacuri: Cecita, Ampollino", "Faună: lup, acvilă de munte", "Activități: schi, drumeții"],
       en: ["Average elevation: 1,300 m", "National park: Sila (73,000 ha, 2002)", "Trees: Calabrian black pine, beech", "Lakes: Cecita, Ampollino", "Wildlife: wolf, golden eagle", "Activities: skiing, hiking"],
     },
+    image: "/poi-images/italy-altopiano-della-sila-grande-relief-v2.webp",
   },
   {
     id: "italy-monte-tancia-relief-v2",
@@ -1376,6 +1418,7 @@ export const italyReliefV2: POI[] = [
       ro: ["Altitudine: 1.282 m", "Regiune: Lazio", "Provincie: Rieti", "Munți: Sabini", "Ruine cetate: secolul al X-lea", "Produs: ulei de măsline"],
       en: ["Elevation: 1,282 m", "Region: Lazio", "Province: Rieti", "Mountain range: Sabine Hills", "Fortress ruins: 10th century", "Local product: olive oil"],
     },
+    image: "/poi-images/italy-monte-tancia-relief-v2.webp",
   },
   {
     id: "italy-monte-simbruini-relief-v2",
@@ -1408,6 +1451,7 @@ export const italyReliefV2: POI[] = [
       ro: ["Altitudine: 1.816 m", "Regiune: Lazio", "Parcul Regional: Monti Simbruini (30.000 ha)", "Mănăstire: Subiaco (benedictină)", "Râu: Aniene", "Specie protejată: urs brun"],
       en: ["Elevation: 1,816 m", "Region: Lazio", "Regional park: Monti Simbruini (30,000 ha)", "Monastery: Subiaco (Benedictine)", "River: Aniene", "Protected species: Marsican brown bear"],
     },
+    image: "/poi-images/italy-monte-simbruini-relief-v2.webp",
   },
   {
     id: "italy-monte-lerno-relief-v2",
@@ -1440,5 +1484,6 @@ export const italyReliefV2: POI[] = [
       ro: ["Altitudine: 1.003 m", "Insulă: Sardinia", "Parcul Național: Golful Orosei și Gennargentu (1998)", "Rocă: granit", "Faună: muflon, cerb sard", "Vedere: Golful Orosei"],
       en: ["Elevation: 1,003 m", "Island: Sardinia", "National park: Gulf of Orosei and Gennargentu (1998)", "Rock type: granite", "Wildlife: mouflon, Sardinian deer", "Views: Gulf of Orosei"],
     },
+    image: "/poi-images/italy-monte-lerno-relief-v2.webp",
   }
 ];

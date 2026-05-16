@@ -32,6 +32,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: 47.000 (2011)", "Altitudine: 315 m", "Suprafață: 55 km²", "Adâncimea salinei: 120 m", "Construcția bisericii catolice: 1504", "Prima atestare documentară: 1075"],
       en: ["Population: 47,000 (2011)", "Elevation: 315 m", "Area: 55 km²", "Salt mine depth: 120 m", "Construction of Catholic church: 1504", "First documentary mention: 1075"],
     },
+    image: "/poi-images/romania-turda-cities-v2.webp",
   },
   {
     id: "romania-resita-cities-v2",
@@ -64,6 +65,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: 73.000 (2011)", "Altitudine: 280 m", "Înființarea oțelăriei: 1771", "Producție anuală de oțel: 1,5 milioane tone", "Suprafața orașului: 132 km²", "Cel mai lung pod: 200 m"],
       en: ["Population: 73,000 (2011)", "Elevation: 280 m", "Steelworks founded: 1771", "Annual steel production: 1.5 million tons", "City area: 132 km²", "Longest bridge: 200 m"],
     },
+    image: "/poi-images/romania-resita-cities-v2.webp",
   },
   {
     id: "romania-medias-cities-v2",
@@ -96,6 +98,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: 47.000 (2011)", "Altitudine: 320 m", "Construcția Bisericii Sf. Margareta: 1480", "Lungimea zidurilor fortificate: 2,5 km", "Prima extracție de gaze: 1917", "Suprafața orașului: 63 km²"],
       en: ["Population: 47,000 (2011)", "Elevation: 320 m", "Construction of St. Margaret's Church: 1480", "Length of fortress walls: 2.5 km", "First gas extraction: 1917", "City area: 63 km²"],
     },
+    image: "/poi-images/romania-medias-cities-v2.webp",
   },
   {
     id: "romania-targu-jiu-cities-v2",
@@ -128,6 +131,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 80.000 (2021)", "Altitudine: 165 m", "Râu: Jiu", "Anul realizării ansamblului Brâncuși: 1938", "Înălțimea Coloanei fără sfârșit: 29,33 m", "Județ: Gorj"],
       en: ["Population: approx. 80,000 (2021)", "Elevation: 165 m (541 ft)", "River: Jiu", "Brâncuși ensemble completed: 1938", "Height of Endless Column: 29.33 m (96.2 ft)", "County: Gorj"],
     },
+    image: "/poi-images/romania-targu-jiu-cities-v2.webp",
   },
   {
     id: "romania-deva-cities-v2",
@@ -160,6 +164,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: aprox. 56.000 (2021)", "Altitudine: 187 m", "Râu: Mureș", "Construcția cetății: secolul XIII", "Înălțimea conului vulcanic: 378 m", "Județ: Hunedoara"],
       en: ["Population: approx. 56,000 (2021)", "Elevation: 187 m (614 ft)", "River: Mureș", "Fortress built: 13th century", "Height of volcanic cone: 378 m (1,240 ft)", "County: Hunedoara"],
     },
+    image: "/poi-images/romania-deva-cities-v2.webp",
   },
   {
     id: "romania-ramnicu-valcea-cities-v2",
@@ -192,6 +197,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: apr. 92.000 (2021)", "Altitudine: 200 m", "Râu: Olt", "Biserica Sfântul Nicolae construită: secolul XVII", "Temperatura izvoarelor termale: 35-40°C", "Județ: Vâlcea"],
       en: ["Population: approx. 92,000 (2021)", "Elevation: 200 m (656 ft)", "River: Olt", "St. Nicholas Church built: 17th century", "Thermal spring temperature: 35-40°C (95-104°F)", "County: Vâlcea"],
     },
+    image: "/poi-images/romania-ramnicu-valcea-cities-v2.webp",
   },
   {
     id: "romania-codlea-cities-v2",
@@ -224,6 +230,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: aprox. 21.000 (2021)", "Altitudine: 550 m", "Distanță până la Brașov: 20 km", "Biserica construită: secolul XIII", "Statut de oraș din: 1950", "Densitate: 180 loc./km²"],
       en: ["Population: approx. 21,000 (2021)", "Elevation: 550 m (1,804 ft)", "Distance to Brașov: 20 km (12 mi)", "Church built: 13th century", "Town status since: 1950", "Population density: 180/km² (466/sq mi)"],
     },
+    image: "/poi-images/romania-codlea-cities-v2.webp",
   },
   {
     id: "romania-lupeni-cities-v2",
@@ -256,6 +263,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: aprox. 23.000 (2021)", "Altitudine: 680 m", "Fondarea așezării miniere: secolul XIX", "Greva de la Lupeni: 1929", "Număr de mine (fost): 5", "Temperatura medie în ianuarie: -3°C"],
       en: ["Population: approx. 23,000 (2021)", "Elevation: 680 m (2,231 ft)", "Mining settlement founded: 19th century", "Lupeni strike: 1929", "Number of mines (former): 5", "Average January temperature: -3°C (27°F)"],
     },
+    image: "/poi-images/romania-lupeni-cities-v2.webp",
   },
   {
     id: "romania-toplita-cities-v2",
@@ -288,6 +296,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: 13.000 locuitori (2011)", "Altitudine: 650 m", "Stațiune balneară atestată din 1908", "Exploatare de sare activă din secolul XVI", "Arie protejată: Parcul Național Călimani", "Număr izvoare termale: 5"],
       en: ["Population: 13,000 (2011 census)", "Elevation: 650 m", "Area: 79.83 km²", "Distance from Târgu Mureș: 70 km", "Thermal water temperature: 40°C", "Number of hotels: 8"],
     },
+    image: "/poi-images/romania-toplita-cities-v2.webp",
   },
   {
     id: "romania-ovidiu-cities-v2",
@@ -320,6 +329,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: 12.000 locuitori (2011)", "Altitudine: 10 m", "Suprafață: 22,5 km²", "Lacul Siutghiol: suprafață 20 km²", "Anul atestării: 1895", "Număr biserici ortodoxe: 2"],
       en: ["Population: 12,000 (2011 census)", "Elevation: 10 m", "Distance to Constanța: 10 km", "Lake Siutghiol area: 20 km²", "Town status: 1989", "Number of parks: 2"],
     },
+    image: "/poi-images/romania-ovidiu-cities-v2.webp",
   },
   {
     id: "romania-cisnadie-cities-v2",
@@ -352,6 +362,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: 8.000 locuitori (2011)", "Altitudine: 450 m", "Suprafață: 130 km²", "Fondare: secolul XII", "Biserica evanghelică: secolul XIII", "Număr de olari activi: 10"],
       en: ["Population: 8,000 (2011 census)", "Elevation: 450 m", "Distance to Sibiu: 10 km", "Town status: 1948", "Number of pottery workshops: 5", "Evangelical church built: 13th century"],
     },
+    image: "/poi-images/romania-cisnadie-cities-v2.webp",
   },
   {
     id: "romania-pangrati-cities-v2",
@@ -384,6 +395,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: 500 locuitori (2011)", "Altitudine: 400 m", "Biserica de lemn: secolul XVIII", "Anul înscrierii ca monument: 1960", "Distanța față de Bistrița: 15 km", "Număr de gospodării: 150"],
       en: ["Population: 500 (2011 census)", "Elevation: 400 m", "Wooden church built: 1750", "Protected monument since: 1960", "Distance to Bistrița: 15 km", "Main economic activity: agriculture"],
     },
+    image: "/poi-images/romania-pangrati-cities-v2.webp",
   },
   {
     id: "romania-techirghiol-cities-v2",
@@ -416,6 +428,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: 7.000 locuitori (2011)", "Suprafața lacului: 10 km²", "Adâncimea maximă a lacului: 4 m", "Anul atestării orașului: 1968", "Număr unități de cazare: 20", "Temperatura nămolului: 40°C"],
       en: ["Population: 7,000 (2011 census)", "Lake area: 10 km²", "Salt concentration: 50 g/L", "Spa status since: 1928", "Distance to Constanța: 15 km", "Number of sanatoriums: 5"],
     },
+    image: "/poi-images/romania-techirghiol-cities-v2.webp",
   },
   {
     id: "romania-balan-cities-v2",
@@ -448,6 +461,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: 6.000 locuitori (2011)", "Altitudine: 850 m", "Anul închiderii minei: 2006", "Suprafață: 80 km²", "Distanța față de Miercurea Ciuc: 30 km", "Număr de biserici: 3"],
       en: ["Population: 6,000 (2011 census)", "Elevation: 850 m", "Copper mine opened: 17th century", "Mine closed: 2006", "Area: 80 km²", "Distance to Miercurea Ciuc: 30 km"],
     },
+    image: "/poi-images/romania-balan-cities-v2.webp",
   },
   {
     id: "romania-ghimbav-cities-v2",
@@ -480,6 +494,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: 5.000 locuitori (2011)", "Altitudine: 600 m", "Suprafață: 50 km²", "Anul atestării: 1241", "Biserica fortificată: secolul XIII", "Număr de unități industriale: 10"],
       en: ["Population: 5,000 (2011 census)", "Elevation: 600 m", "Distance to Brașov: 10 km", "Town status: 2002", "Fortified church built: 1241", "Rope-making tradition: historical"],
     },
+    image: "/poi-images/romania-ghimbav-cities-v2.webp",
   },
   {
     id: "romania-valenii-de-munte-cities-v2",
@@ -512,6 +527,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: 13.000 locuitori (2011)", "Altitudine: 500 m", "Suprafață: 70 km²", "Anul muzeului Iorga: 1925", "Distanța față de Ploiești: 30 km", "Număr de pensiuni: 10"],
       en: ["Population: 13,000 (2011 census)", "Elevation: 500 m", "Distance to Ploiești: 30 km", "Area: 70 km²", "Museum founded: 1925", "Town status: 1968"],
     },
+    image: "/poi-images/romania-valenii-de-munte-cities-v2.webp",
   },
   {
     id: "romania-mizil-cities-v2",
@@ -544,6 +560,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: 14.000 locuitori (2011)", "Altitudine: 150 m", "Suprafață: 100 km²", "Anul rafinăriei: 1900", "Distanța față de Ploiești: 25 km", "Număr biserici: 3"],
       en: ["Population: 14,000 (2011 census)", "Elevation: 150 m", "Oil refinery founded: 1900", "First documented: 1585", "Area: 100 km²", "Distance to Ploiești: 25 km"],
     },
+    image: "/poi-images/romania-mizil-cities-v2.webp",
   },
   {
     id: "romania-campina-cities-v2",
@@ -576,6 +593,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: 32.000 locuitori (2011)", "Altitudine: 400 m", "Prima rafinărie: 1856", "Muzeul Ciprian Porumbescu: 1953", "Suprafață: 70 km²", "Distanța față de Ploiești: 20 km"],
       en: ["Population: 32,000 (2011 census)", "Elevation: 400 m", "First oil refinery: 1856", "Birthplace of Ciprian Porumbescu (1853)", "Area: 70 km²", "Distance to Ploiești: 20 km"],
     },
+    image: "/poi-images/romania-campina-cities-v2.webp",
   },
   {
     id: "romania-baicoi-cities-v2",
@@ -608,6 +626,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: 20.000 locuitori (2011)", "Altitudine: 250 m", "Suprafață: 50 km²", "Anul primei mențiuni: 1556", "Distanța față de Ploiești: 15 km", "Număr de sonde petroliere: 200"],
       en: ["Population: 20,000 (2011 census)", "Elevation: 250 m", "Distance to Ploiești: 15 km", "First documented: 1556", "Oil extraction since: 1850", "Area: 50 km²"],
     },
+    image: "/poi-images/romania-baicoi-cities-v2.webp",
   },
   {
     id: "romania-breaza-cities-v2",
@@ -640,6 +659,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: 15.000 locuitori (2011)", "Altitudine: 500 m", "Suprafață: 50 km²", "Stațiune climaterică atestată: 1928", "Distanța față de Ploiești: 30 km", "Număr de pensiuni: 15"],
       en: ["Population: 15,000 (2011 census)", "Elevation: 500 m", "Spa status: 1928", "Distance to Ploiești: 30 km", "Area: 50 km²", "Number of furniture factories: 5"],
     },
+    image: "/poi-images/romania-breaza-cities-v2.webp",
   },
   {
     id: "romania-boldesti-scaeni-cities-v2",
@@ -672,6 +692,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: 11.000 locuitori (2011)", "Altitudine: 200 m", "Suprafață: 30 km²", "Anul unirii: 1968", "Distanța față de Ploiești: 10 km", "Număr de sonde: 150"],
       en: ["Population: 11,000 (2011 census)", "Elevation: 200 m", "Distance to Ploiești: 10 km", "Town status: 1968", "Area: 30 km²", "Oil wells: 150"],
     },
+    image: "/poi-images/romania-boldesti-scaeni-cities-v2.webp",
   },
   {
     id: "romania-urlati-cities-v2",
@@ -704,6 +725,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: 11.000 locuitori (2011)", "Altitudine: 200 m", "Suprafață podgorii: 1500 ha", "Anul atestării: 1503", "Distanța față de Ploiești: 20 km", "Număr de crame: 10"],
       en: ["Population: 11,000 (2011 census)", "Elevation: 200 m", "Vineyards area: 1500 ha", "First documented: 1503", "Distance to Ploiești: 20 km", "Number of wineries: 10"],
     },
+    image: "/poi-images/romania-urlati-cities-v2.webp",
   },
   {
     id: "romania-slanic-cities-v2",
@@ -736,6 +758,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: 6.000 locuitori (2011)", "Altitudine: 500 m", "Mina de sare: adâncime 200 m", "Suprafață: 50 km²", "Distanța față de Ploiești: 40 km", "Număr de izvoare termale: 3"],
       en: ["Population: 6,000 (2011 census)", "Elevation: 500 m", "Salt mine depth: 200 m", "Mine opened: 1933", "Distance to Ploiești: 40 km", "Therapeutic salt mine since: 1950"],
     },
+    image: "/poi-images/romania-slanic-cities-v2.webp",
   },
   {
     id: "romania-azuga-cities-v2",
@@ -768,6 +791,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: 4.000 locuitori (2011)", "Altitudine: 900 m", "Suprafață: 30 km²", "Fabrica de bere: 1892", "Distanța față de Brașov: 40 km", "Număr de pârtii: 3"],
       en: ["Population: 4,000 (2011 census)", "Elevation: 900 m", "Brewery founded: 1892", "Ski slopes: 3", "Distance to Brașov: 40 km", "Area: 30 km²"],
     },
+    image: "/poi-images/romania-azuga-cities-v2.webp",
   },
   {
     id: "romania-busteni-cities-v2",
@@ -800,6 +824,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: 10.000 locuitori (2011)", "Altitudine: 850 m", "Castelul Cantacuzino: 1911", "Suprafață: 70 km²", "Distanța față de Brașov: 25 km", "Număr de hoteluri: 20"],
       en: ["Population: 10,000 (2011 census)", "Elevation: 850 m", "Cantacuzino Castle built: 1911", "Distance to Brașov: 25 km", "Area: 70 km²", "Number of hiking trails: 10"],
     },
+    image: "/poi-images/romania-busteni-cities-v2.webp",
   },
   {
     id: "romania-sinaia-cities-v2",
@@ -832,6 +857,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: 10.000 locuitori (2011)", "Altitudine: 800 m", "Castelul Peleș: 1914", "Suprafață: 70 km²", "Distanța față de Brașov: 50 km", "Număr de hoteluri: 30"],
       en: ["Population: 10,000 (2011 census)", "Elevation: 800 m", "Peleș Castle completed: 1914", "Number of ski lifts: 5", "Distance to Brașov: 50 km", "Area: 70 km²"],
     },
+    image: "/poi-images/romania-sinaia-cities-v2.webp",
   },
   {
     id: "romania-plopeni-cities-v2",
@@ -864,6 +890,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: 7.000 locuitori (2011)", "Altitudine: 200 m", "Suprafață: 20 km²", "Anul atestării: 1890", "Distanța față de Ploiești: 10 km", "Număr de sonde: 100"],
       en: ["Population: 7,000 (2011 census)", "Elevation: 200 m", "Distance to Ploiești: 10 km", "Town status: 1968", "Area: 20 km²", "Oil refinery since: 1900"],
     },
+    image: "/poi-images/romania-plopeni-cities-v2.webp",
   },
   {
     id: "romania-cornu-cities-v2",
@@ -896,6 +923,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: 4.000 locuitori (2011)", "Altitudine: 400 m", "Suprafață: 30 km²", "Distanța față de Ploiești: 20 km", "Număr de gospodării: 1.200", "Cultură de pomi: 30% din teren"],
       en: ["Population: 4,000 (2011 census)", "Elevation: 400 m", "Distance to Ploiești: 20 km", "Area: 30 km²", "Number of villages: 2", "Main crops: apples, plums"],
     },
+    image: "/poi-images/romania-cornu-cities-v2.webp",
   },
   {
     id: "romania-banesti-cities-v2",
@@ -928,6 +956,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 5.400 locuitori (recensământ 2021)", "Suprafața: 47,6 km²", "Prima atestare documentară: 1583", "Altitudine: 180 m", "Distanța față de Ploiești: 12 km", "Numărul de sate din comună: 5"],
       en: ["Population: approximately 5,400 (2021 census)", "Area: 47.6 km²", "First documented: 1583", "Elevation: 180 m", "Distance to Ploiești: 12 km", "Number of villages in the commune: 5"],
     },
+    image: "/poi-images/romania-banesti-cities-v2.webp",
   },
   {
     id: "romania-posesti-cities-v2",
@@ -960,6 +989,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 2.800 locuitori (2021)", "Suprafața: 31,2 km²", "Prima atestare documentară: 1508", "Altitudine medie: 280 m", "Distanța față de Ploiești: 30 km", "Numărul de sate: 4"],
       en: ["Population: approx. 2,800 (2021)", "Area: 31.2 km²", "First documented: 1508", "Average elevation: 280 m", "Distance to Ploiești: 30 km", "Number of villages: 4"],
     },
+    image: "/poi-images/romania-posesti-cities-v2.webp",
   },
   {
     id: "romania-drajna-cities-v2",
@@ -992,6 +1022,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 2.200 locuitori (2021)", "Suprafața: 28,5 km²", "Prima atestare documentară: 1531", "Altitudine: 200 m", "Distanța față de Ploiești: 20 km", "Numărul de sate: 3"],
       en: ["Population: approx. 2,200 (2021)", "Area: 28.5 km²", "First documented: 1531", "Elevation: 200 m", "Distance to Ploiești: 20 km", "Number of villages: 3"],
     },
+    image: "/poi-images/romania-drajna-cities-v2.webp",
   },
   {
     id: "romania-stefesti-cities-v2",
@@ -1024,6 +1055,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 3.100 locuitori (2021)", "Suprafața: 42,1 km²", "Prima atestare documentară: 1593", "Altitudine medie: 190 m", "Distanța față de Ploiești: 15 km", "Numărul de sate: 4"],
       en: ["Population: approx. 3,100 (2021)", "Area: 42.1 km²", "First documented: 1593", "Average elevation: 190 m", "Distance to Ploiești: 15 km", "Number of villages: 4"],
     },
+    image: "/poi-images/romania-stefesti-cities-v2.webp",
   },
   {
     id: "romania-teisani-cities-v2",
@@ -1056,6 +1088,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 2.400 locuitori (2021)", "Suprafața: 35,8 km²", "Prima atestare documentară: 1536", "Altitudine medie: 350 m", "Distanța față de Ploiești: 40 km", "Numărul de sate: 3"],
       en: ["Population: approx. 2,400 (2021)", "Area: 35.8 km²", "First documented: 1536", "Average elevation: 350 m", "Distance to Ploiești: 40 km", "Number of villages: 3"],
     },
+    image: "/poi-images/romania-teisani-cities-v2.webp",
   },
   {
     id: "romania-aricestii-rahtivani-cities-v2",
@@ -1088,6 +1121,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 6.200 locuitori (2021)", "Suprafața: 24,8 km²", "Prima atestare documentară: 1485", "Altitudine: 170 m", "Distanța față de Ploiești: 8 km", "Numărul de sate: 3"],
       en: ["Population: approx. 6,200 (2021)", "Area: 24.8 km²", "First documented: 1485", "Elevation: 170 m", "Distance to Ploiești: 8 km", "Number of villages: 3"],
     },
+    image: "/poi-images/romania-aricestii-rahtivani-cities-v2.webp",
   },
   {
     id: "romania-barcanesti-cities-v2",
@@ -1120,6 +1154,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 8.500 locuitori (2021)", "Suprafața: 19,3 km²", "Prima atestare documentară: 1620", "Altitudine: 160 m", "Distanța față de Ploiești: 3 km", "Numărul de sate: 2"],
       en: ["Population: approx. 8,500 (2021)", "Area: 19.3 km²", "First documented: 1620", "Elevation: 160 m", "Distance to Ploiești: 3 km", "Number of villages: 2"],
     },
+    image: "/poi-images/romania-barcanesti-cities-v2.webp",
   },
   {
     id: "romania-targsoru-vechi-cities-v2",
@@ -1152,6 +1187,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 7.200 locuitori (2021)", "Suprafața: 28,4 km²", "Prima atestare documentară: 1447", "Altitudine: 165 m", "Distanța față de Ploiești: 6 km", "Numărul de sate: 3"],
       en: ["Population: approx. 7,200 (2021)", "Area: 28.4 km²", "First documented: 1447", "Elevation: 165 m", "Distance to Ploiești: 6 km", "Number of villages: 3"],
     },
+    image: "/poi-images/romania-targsoru-vechi-cities-v2.webp",
   },
   {
     id: "romania-filipestii-de-padure-cities-v2",
@@ -1184,6 +1220,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 4.800 locuitori (2021)", "Suprafața: 33,5 km²", "Prima atestare documentară: 1520", "Altitudine medie: 220 m", "Distanța față de Ploiești: 25 km", "Numărul de sate: 4"],
       en: ["Population: approx. 4,800 (2021)", "Area: 33.5 km²", "First documented: 1520", "Average elevation: 220 m", "Distance to Ploiești: 25 km", "Number of villages: 4"],
     },
+    image: "/poi-images/romania-filipestii-de-padure-cities-v2.webp",
   },
   {
     id: "romania-brazi-cities-v2",
@@ -1216,6 +1253,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 5.600 locuitori (2021)", "Suprafața: 22,4 km²", "Prima atestare documentară: 1583", "Altitudine: 170 m", "Distanța față de Ploiești: 6 km", "Numărul de sate: 4"],
       en: ["Population: approx. 5,600 (2021)", "Area: 22.4 km²", "First documented: 1583", "Elevation: 170 m", "Distance to Ploiești: 6 km", "Number of villages: 4"],
     },
+    image: "/poi-images/romania-brazi-cities-v2.webp",
   },
   {
     id: "romania-bucov-cities-v2",
@@ -1248,6 +1286,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 3.900 locuitori (2021)", "Suprafața: 26,8 km²", "Prima atestare documentară: 1518", "Altitudine: 175 m", "Distanța față de Ploiești: 10 km", "Numărul de sate: 3"],
       en: ["Population: approx. 3,900 (2021)", "Area: 26.8 km²", "First documented: 1518", "Elevation: 175 m", "Distance to Ploiești: 10 km", "Number of villages: 3"],
     },
+    image: "/poi-images/romania-bucov-cities-v2.webp",
   },
   {
     id: "romania-valcanesti-cities-v2",
@@ -1280,6 +1319,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 2.900 locuitori (2021)", "Suprafața: 30,1 km²", "Prima atestare documentară: 1570", "Altitudine: 210 m", "Distanța față de Ploiești: 22 km", "Numărul de sate: 4"],
       en: ["Population: approx. 2,900 (2021)", "Area: 30.1 km²", "First documented: 1570", "Elevation: 210 m", "Distance to Ploiești: 22 km", "Number of villages: 4"],
     },
+    image: "/poi-images/romania-valcanesti-cities-v2.webp",
   },
   {
     id: "romania-puchenii-mari-cities-v2",
@@ -1312,6 +1352,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 5.100 locuitori (2021)", "Suprafața: 32,7 km²", "Prima atestare documentară: 1495", "Altitudine: 150 m", "Distanța față de Ploiești: 15 km", "Numărul de sate: 5"],
       en: ["Population: approx. 5,100 (2021)", "Area: 32.7 km²", "First documented: 1495", "Elevation: 150 m", "Distance to Ploiești: 15 km", "Number of villages: 5"],
     },
+    image: "/poi-images/romania-puchenii-mari-cities-v2.webp",
   },
   {
     id: "romania-blejoi-cities-v2",
@@ -1344,6 +1385,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 6.800 locuitori (2021)", "Suprafața: 18,5 km²", "Prima atestare documentară: 1523", "Altitudine: 165 m", "Distanța față de Ploiești: 4 km", "Numărul de sate: 2"],
       en: ["Population: approx. 6,800 (2021)", "Area: 18.5 km²", "First documented: 1523", "Elevation: 165 m", "Distance to Ploiești: 4 km", "Number of villages: 2"],
     },
+    image: "/poi-images/romania-blejoi-cities-v2.webp",
   },
   {
     id: "romania-dumbravesti-cities-v2",
@@ -1376,6 +1418,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 3.200 locuitori (2021)", "Suprafața: 29,4 km²", "Prima atestare documentară: 1540", "Altitudine: 230 m", "Distanța față de Ploiești: 28 km", "Numărul de sate: 3"],
       en: ["Population: approx. 3,200 (2021)", "Area: 29.4 km²", "First documented: 1540", "Elevation: 230 m", "Distance to Ploiești: 28 km", "Number of villages: 3"],
     },
+    image: "/poi-images/romania-dumbravesti-cities-v2.webp",
   },
   {
     id: "romania-gura-vitioarei-cities-v2",
@@ -1408,6 +1451,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 2.700 locuitori (2021)", "Suprafața: 27,3 km²", "Prima atestare documentară: 1585", "Altitudine: 185 m", "Distanța față de Ploiești: 18 km", "Numărul de sate: 3"],
       en: ["Population: approx. 2,700 (2021)", "Area: 27.3 km²", "First documented: 1585", "Elevation: 185 m", "Distance to Ploiești: 18 km", "Number of villages: 3"],
     },
+    image: "/poi-images/romania-gura-vitioarei-cities-v2.webp",
   },
   {
     id: "romania-cocorastii-colt-cities-v2",
@@ -1440,6 +1484,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 3.400 locuitori (2021)", "Suprafața: 25,6 km²", "Prima atestare documentară: 1453", "Altitudine: 140 m", "Distanța față de Ploiești: 12 km", "Numărul de sate: 4"],
       en: ["Population: approx. 3,400 (2021)", "Area: 25.6 km²", "First documented: 1453", "Elevation: 140 m", "Distance to Ploiești: 12 km", "Number of villages: 4"],
     },
+    image: "/poi-images/romania-cocorastii-colt-cities-v2.webp",
   },
   {
     id: "romania-colceag-cities-v2",
@@ -1472,6 +1517,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 2.500 locuitori (2021)", "Suprafața: 23,8 km²", "Prima atestare documentară: 1542", "Altitudine: 155 m", "Distanța față de Ploiești: 20 km", "Numărul de sate: 3"],
       en: ["Population: approx. 2,500 (2021)", "Area: 23.8 km²", "First documented: 1542", "Elevation: 155 m", "Distance to Ploiești: 20 km", "Number of villages: 3"],
     },
+    image: "/poi-images/romania-colceag-cities-v2.webp",
   },
   {
     id: "romania-tomstesti-cities-v2",
@@ -1504,6 +1550,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 2.100 locuitori (2021)", "Suprafața: 22,9 km²", "Prima atestare documentară: 1595", "Altitudine: 195 m", "Distanța față de Ploiești: 24 km", "Numărul de sate: 4"],
       en: ["Population: approx. 2,100 (2021)", "Area: 22.9 km²", "First documented: 1595", "Elevation: 195 m", "Distance to Ploiești: 24 km", "Number of villages: 4"],
     },
+    image: "/poi-images/romania-tomstesti-cities-v2.webp",
   },
   {
     id: "romania-filipeștii-de-târg-cities-v2",
@@ -1536,6 +1583,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 4.200 locuitori (2021)", "Suprafața: 30,5 km²", "Prima atestare documentară: 1498", "Altitudine: 160 m", "Distanța față de Ploiești: 14 km", "Numărul de sate: 4"],
       en: ["Population: approx. 4,200 (2021)", "Area: 30.5 km²", "First documented: 1498", "Elevation: 160 m", "Distance to Ploiești: 14 km", "Number of villages: 4"],
     },
+    image: "/poi-images/romania-filipeștii-de-târg-cities-v2.webp",
   },
   {
     id: "romania-magurele-cities-v2",
@@ -1568,6 +1616,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populația orașului Măgurele este de 11.041 locuitori (2021).", "Suprafața localității este de 33,6 km².", "Altitudinea medie este de 75 m.", "Prima atestare documentară: 1505.", "ELI-NP a fost inaugurat în 2019.", "Distanța față de centrul Bucureștiului este de 10 km."],
       en: ["Population: 11,041 (2021 census).", "Area: 33.6 km².", "Elevation: 75 m (246 ft).", "First documented: 1505.", "ELI-NP laser system achieves 10 petawatts.", "Distance to Bucharest city center: 10 km."],
     },
+    image: "/poi-images/romania-magurele-cities-v2.webp",
   },
   {
     id: "romania-buftea-cities-v2",
@@ -1600,6 +1649,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populația orașului Buftea este de 22.054 locuitori (2021).", "Suprafața orașului: 22,6 km².", "Prima atestare documentară: 1623.", "Studiourile Buftea au fost înființate în 1975.", "Altitudinea medie: 90 m.", "Distanța față de București: 20 km."],
       en: ["Population: 22,054 (2021 census).", "Area: 22.6 km².", "First documented: 1623.", "Buftea Studios founded: 1975.", "Elevation: 90 m (295 ft).", "Distance to Bucharest: 20 km."],
     },
+    image: "/poi-images/romania-buftea-cities-v2.webp",
   },
   {
     id: "romania-otopeni-cities-v2",
@@ -1632,6 +1682,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populația orașului Otopeni: 13.128 (2021).", "Suprafața: 29,8 km².", "Prima atestare documentară: 1565.", "Aeroportul Henri Coandă a fost inaugurat în 1969.", "Altitudinea: 96 m.", "Numărul anual de pasageri: peste 14 milioane."],
       en: ["Population: 13,128 (2021).", "Area: 29.8 km².", "First documented: 1565.", "Airport opened: 1969.", "Elevation: 96 m.", "Annual airport passengers: >14 million."],
     },
+    image: "/poi-images/romania-otopeni-cities-v2.webp",
   },
   {
     id: "romania-pantelimon-cities-v2",
@@ -1664,6 +1715,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: 25.189 (2021).", "Suprafață: 34,5 km².", "Lacul Pantelimon: 260 ha.", "Prima atestare: 1595.", "Altitudine: 75 m.", "Distanța față de centrul Bucureștiului: 12 km."],
       en: ["Population: 25,189 (2021).", "Area: 34.5 km².", "Lake Pantelimon area: 260 ha.", "First documented: 1595.", "Elevation: 75 m.", "Distance to Bucharest center: 12 km."],
     },
+    image: "/poi-images/romania-pantelimon-cities-v2.webp",
   },
   {
     id: "romania-popesti-leordeni-cities-v2",
@@ -1696,6 +1748,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: 22.181 (2021).", "Suprafață: 17,5 km².", "Anul înființării: 1996.", "Altitudine: 70 m.", "Distanța față de centrul Bucureștiului: 10 km.", "Lungimea DN4 în oraș: aproximativ 3 km."],
       en: ["Population: 22,181 (2021).", "Area: 17.5 km².", "Founded: 1996.", "Elevation: 70 m.", "Distance to Bucharest center: 10 km.", "DN4 road length within town: approx. 3 km."],
     },
+    image: "/poi-images/romania-popesti-leordeni-cities-v2.webp",
   },
   {
     id: "romania-voluntari-cities-v2",
@@ -1728,6 +1781,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: 44.189 (2021).", "Suprafață: 21,5 km².", "Prima atestare: 1587.", "Altitudine: 90 m.", "Numărul de firme cu sediul în Voluntari: peste 10.000.", "Distanța față de centrul Bucureștiului: 8 km."],
       en: ["Population: 44,189 (2021).", "Area: 21.5 km².", "First documented: 1587.", "Elevation: 90 m.", "Companies registered: over 10,000.", "Distance to Bucharest center: 8 km."],
     },
+    image: "/poi-images/romania-voluntari-cities-v2.webp",
   },
   {
     id: "romania-bragadiru-cities-v2",
@@ -1760,6 +1814,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: 18.146 (2021).", "Suprafață: 12,4 km².", "Prima atestare: 1510.", "Fabrica de bere a fost fondată în 1867.", "Altitudine: 75 m.", "Distanța față de București: 15 km."],
       en: ["Population: 18,146 (2021).", "Area: 12.4 km².", "First documented: 1510.", "Brewery founded: 1867.", "Elevation: 75 m.", "Distance to Bucharest: 15 km."],
     },
+    image: "/poi-images/romania-bragadiru-cities-v2.webp",
   },
   {
     id: "romania-chitila-cities-v2",
@@ -1792,6 +1847,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: 14.058 (2021).", "Suprafață: 12,4 km².", "Prima atestare: 1553.", "Altitudine: 80 m.", "Lungimea A1 în oraș: 3 km.", "Distanța față de București: 10 km."],
       en: ["Population: 14,058 (2021).", "Area: 12.4 km².", "First documented: 1553.", "Elevation: 80 m.", "A1 motorway length in town: 3 km.", "Distance to Bucharest: 10 km."],
     },
+    image: "/poi-images/romania-chitila-cities-v2.webp",
   },
   {
     id: "romania-darasti-ilfov-cities-v2",
@@ -1824,6 +1880,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: 3.578 (2021).", "Suprafață: 21,2 km².", "Prima atestare: 1740.", "Altitudine: 70 m.", "Suprafață agricolă: 75% din teritoriul comunei.", "Distanța față de București: 18 km."],
       en: ["Population: 3,578 (2021).", "Area: 21.2 km².", "First documented: 1740.", "Elevation: 70 m.", "Agricultural land: 75% of commune area.", "Distance to Bucharest: 18 km."],
     },
+    image: "/poi-images/romania-darasti-ilfov-cities-v2.webp",
   },
   {
     id: "romania-copaceni-cities-v2",
@@ -1856,6 +1913,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: 5.102 (2021).", "Suprafață: 25,3 km².", "Prima atestare: 1454.", "Altitudine: 60 m.", "Numărul de ferme agricole: 120.", "Distanța față de București: 25 km."],
       en: ["Population: 5,102 (2021).", "Area: 25.3 km².", "First documented: 1454.", "Elevation: 60 m.", "Number of farms: 120.", "Distance to Bucharest: 25 km."],
     },
+    image: "/poi-images/romania-copaceni-cities-v2.webp",
   },
   {
     id: "romania-1-decembrie-cities-v2",
@@ -1888,6 +1946,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: 8.214 (2021).", "Suprafață: 24,3 km².", "Prima atestare: 1525.", "Altitudine: 75 m.", "Numărul de biserici: 3.", "Distanța față de București: 20 km."],
       en: ["Population: 8,214 (2021).", "Area: 24.3 km².", "First documented: 1525.", "Elevation: 75 m.", "Number of churches: 3.", "Distance to Bucharest: 20 km."],
     },
+    image: "/poi-images/romania-1-decembrie-cities-v2.webp",
   },
   {
     id: "romania-vidra-cities-v2",
@@ -1920,6 +1979,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: 6.248 (2021).", "Suprafață: 30,2 km².", "Prima atestare: 1511.", "Altitudine: 70 m.", "Suprafața lacului: 50 ha.", "Distanța față de București: 15 km."],
       en: ["Population: 6,248 (2021).", "Area: 30.2 km².", "First documented: 1511.", "Elevation: 70 m.", "Lake area: 50 ha.", "Distance to Bucharest: 15 km."],
     },
+    image: "/poi-images/romania-vidra-cities-v2.webp",
   },
   {
     id: "romania-sindrilita-cities-v2",
@@ -1952,6 +2012,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: 1.523 (2021).", "Suprafața satului: aproximativ 8 km².", "Prima atestare: 1835.", "Altitudine: 80 m.", "Distanța față de București: 20 km.", "Numărul de ferme: 40."],
       en: ["Population: 1,523 (2021).", "Village area: approx. 8 km².", "First documented: 1835.", "Elevation: 80 m.", "Distance to Bucharest: 20 km.", "Number of farms: 40."],
     },
+    image: "/poi-images/romania-sindrilita-cities-v2.webp",
   },
   {
     id: "romania-gagu-cities-v2",
@@ -1984,6 +2045,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: 1.012 (2021).", "Suprafața satului: aproximativ 6 km².", "Prima atestare: 1840.", "Altitudine: 85 m.", "Distanța față de București: 25 km.", "Numărul de gospodării: 320."],
       en: ["Population: 1,012 (2021).", "Village area: approx. 6 km².", "First documented: 1840.", "Elevation: 85 m.", "Distance to Bucharest: 25 km.", "Number of households: 320."],
     },
+    image: "/poi-images/romania-gagu-cities-v2.webp",
   },
   {
     id: "romania-dascalu-cities-v2",
@@ -2016,6 +2078,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: 3.087 (2021).", "Suprafață: 44,5 km².", "Prima atestare: 1587.", "Altitudine: 90 m.", "Numărul de sate: 2.", "Distanța față de București: 22 km."],
       en: ["Population: 3,087 (2021).", "Area: 44.5 km².", "First documented: 1587.", "Elevation: 90 m.", "Number of villages: 2.", "Distance to Bucharest: 22 km."],
     },
+    image: "/poi-images/romania-dascalu-cities-v2.webp",
   },
   {
     id: "romania-mogosoaia-cities-v2",
@@ -2048,6 +2111,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: 8.234 (2021).", "Suprafață: 22,3 km².", "Construcția palatului a început în 1698.", "Parcul are 12 ha.", "Altitudine: 90 m.", "Distanța față de București: 10 km."],
       en: ["Population: 8,234 (2021).", "Area: 22.3 km².", "Palace construction began: 1698.", "Park area: 12 ha.", "Elevation: 90 m.", "Distance to Bucharest: 10 km."],
     },
+    image: "/poi-images/romania-mogosoaia-cities-v2.webp",
   },
   {
     id: "romania-peris-cities-v2",
@@ -2080,6 +2144,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: 3.186 (2021).", "Suprafață: 52,8 km².", "Prima atestare: 1553.", "Altitudine: 120 m.", "Suprafața lacului de acumulare: 1,2 km².", "Distanța față de București: 30 km."],
       en: ["Population: 3,186 (2021).", "Area: 52.8 km².", "First documented: 1553.", "Elevation: 120 m.", "Reservoir area: 1.2 km².", "Distance to Bucharest: 30 km."],
     },
+    image: "/poi-images/romania-peris-cities-v2.webp",
   },
   {
     id: "romania-snagov-cities-v2",
@@ -2112,6 +2177,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: 7.345 (2021).", "Suprafață: 72,8 km².", "Suprafața lacului: 5,75 km².", "Prima atestare a mănăstirii: 1408.", "Altitudine: 90 m.", "Distanța față de București: 30 km."],
       en: ["Population: 7,345 (2021).", "Area: 72.8 km².", "Lake area: 5.75 km².", "Monastery first documented: 1408.", "Elevation: 90 m.", "Distance to Bucharest: 30 km."],
     },
+    image: "/poi-images/romania-snagov-cities-v2.webp",
   },
   {
     id: "romania-găneasa-cities-v2",
@@ -2144,6 +2210,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: 5.204 (2021).", "Suprafață: 44,1 km².", "Prima atestare: 1820.", "Altitudine: 80 m.", "Numărul de sate: 3.", "Distanța față de București: 20 km."],
       en: ["Population: 5,204 (2021).", "Area: 44.1 km².", "First documented: 1820.", "Elevation: 80 m.", "Number of villages: 3.", "Distance to Bucharest: 20 km."],
     },
+    image: "/poi-images/romania-găneasa-cities-v2.webp",
   },
   {
     id: "romania-afumati-cities-v2",
@@ -2176,6 +2243,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Populație: 8.179 (2021).", "Suprafață: 32,6 km².", "Prima atestare: 1596.", "Altitudine: 70 m.", "Lungimea autostrăzii A3 pe teritoriul comunei: 4 km.", "Distanța față de București: 15 km."],
       en: ["Population: 8,179 (2021).", "Area: 32.6 km².", "First documented: 1596.", "Elevation: 70 m.", "A3 motorway length in commune: 4 km.", "Distance to Bucharest: 15 km."],
     },
+    image: "/poi-images/romania-afumati-cities-v2.webp",
   },
   {
     id: "romania-stefanestii-de-jos-cities-v2",
@@ -2208,6 +2276,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Suprafață: 30,1 km²", "Populație: circa 5.800 locuitori (2021)", "Atestare documentară: 1583", "Altitudine medie: 85 m", "Distanța față de București: 15 km", "Număr de sate: 1"],
       en: ["Area: 30.1 km²", "Population: approx. 5,800 (2021)", "First documented: 1583", "Elevation: 85 m above sea level", "Distance from Bucharest: 15 km", "Number of villages: 1"],
     },
+    image: "/poi-images/romania-stefanestii-de-jos-cities-v2.webp",
   },
   {
     id: "romania-tunari-cities-v2",
@@ -2240,6 +2309,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Suprafață: 17,4 km²", "Populație: cca 6.500 (2021)", "Prima atestare: 1728", "Distanță până la aeroport: 5 km", "Gară construită: 1900", "Biserica Sf. Nicolae: 1834"],
       en: ["Area: 17.4 km²", "Population: approx. 6,500 (2021)", "First documented: 1728", "Distance to airport: 5 km", "Railway station established: 1900", "Saint Nicholas Church built: 1834"],
     },
+    image: "/poi-images/romania-tunari-cities-v2.webp",
   },
   {
     id: "romania-corbeanca-cities-v2",
@@ -2272,6 +2342,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Suprafață: 20,5 km²", "Populație: cca 5.000 (2021)", "Prima atestare: 1518", "Distanța până la lacul Snagov: 3 km", "Creștere populație 2002-2021: +66%", "Număr de biserici: 1"],
       en: ["Area: 20.5 km²", "Population: approx. 5,000 (2021)", "First documented: 1518", "Distance to Lake Snagov: 3 km", "Population growth 2002-2021: 66%", "Number of churches: 1"],
     },
+    image: "/poi-images/romania-corbeanca-cities-v2.webp",
   },
   {
     id: "romania-balotesti-cities-v2",
@@ -2304,6 +2375,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Suprafață: 33,9 km²", "Populație: cca 8.200 (2021)", "Prima atestare: 1453", "Construire aeroport: 1970", "Biserica Sf. Nicolae: 1780", "Altitudine: 95 m"],
       en: ["Area: 33.9 km²", "Population: approx. 8,200 (2021)", "First documented: 1453", "Airport construction: 1970", "Saint Nicholas Church: 1780", "Elevation: 95 m"],
     },
+    image: "/poi-images/romania-balotesti-cities-v2.webp",
   },
   {
     id: "romania-gradistea-cities-v2",
@@ -2336,6 +2408,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Suprafață: 30,7 km²", "Populație: cca 3.200 (2021)", "Prima atestare: 1493", "Biserica Sfinții Voievozi: 1824", "Altitudine: 60 m", "Distanța față de București: 25 km"],
       en: ["Area: 30.7 km²", "Population: approx. 3,200 (2021)", "First documented: 1493", "Church built: 1824", "Elevation: 60 m", "Distance from Bucharest: 25 km"],
     },
+    image: "/poi-images/romania-gradistea-cities-v2.webp",
   },
   {
     id: "romania-nuci-cities-v2",
@@ -2368,6 +2441,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Suprafață: 45,2 km²", "Populație: cca 2.800 (2021)", "Prima atestare: 1534", "Număr de sate: 2", "Biserica: 1842", "Altitudine: 80 m"],
       en: ["Area: 45.2 km²", "Population: approx. 2,800 (2021)", "First documented: 1534", "Number of villages: 2", "Church built: 1842", "Elevation: 80 m"],
     },
+    image: "/poi-images/romania-nuci-cities-v2.webp",
   },
   {
     id: "romania-petrachioaia-cities-v2",
@@ -2400,6 +2474,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Suprafață: 37,8 km²", "Populație: cca 3.100 (2021)", "Prima atestare: 1639", "Număr de sate: 2", "Biserica Sf. Nicolae: 1850", "Distanța până la A2: 2 km"],
       en: ["Area: 37.8 km²", "Population: approx. 3,100 (2021)", "First documented: 1639", "Number of villages: 2", "Saint Nicholas Church built: 1850", "Distance to A2 motorway: 2 km"],
     },
+    image: "/poi-images/romania-petrachioaia-cities-v2.webp",
   },
   {
     id: "romania-ciolpani-cities-v2",
@@ -2432,6 +2507,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Suprafață: 25,2 km²", "Populație: cca 3.500 (2021)", "Prima atestare: 1583", "Conacul: secolul al XIX-lea", "Suprafață pădure: cca 500 ha", "Altitudine: 90 m"],
       en: ["Area: 25.2 km²", "Population: approx. 3,500 (2021)", "First documented: 1583", "Manor house: 19th century", "Forest area: about 500 ha", "Elevation: 90 m"],
     },
+    image: "/poi-images/romania-ciolpani-cities-v2.webp",
   },
   {
     id: "romania-domnesti-cities-v2",
@@ -2464,6 +2540,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Suprafață: 30,8 km²", "Populație: cca 10.000 (2021)", "Prima atestare: 1513", "Biserica Sf. Gheorghe: 1815", "Distanța până la A1: 1 km", "Număr școli: 3"],
       en: ["Area: 30.8 km²", "Population: approx. 10,000 (2021)", "First documented: 1513", "Saint George Church built: 1815", "Distance to A1 motorway: 1 km", "Number of schools: 3"],
     },
+    image: "/poi-images/romania-domnesti-cities-v2.webp",
   },
   {
     id: "romania-clinceni-cities-v2",
@@ -2496,6 +2573,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Suprafață: 24,6 km²", "Populație: cca 6.500 (2021)", "Prima atestare: 1512", "Mănăstirea Clinceni: secolul al XVII-lea", "Altitudine: 65 m", "Distanța față de București: 12 km"],
       en: ["Area: 24.6 km²", "Population: approx. 6,500 (2021)", "First documented: 1512", "Clinceni Monastery: 17th century", "Elevation: 65 m", "Distance from Bucharest: 12 km"],
     },
+    image: "/poi-images/romania-clinceni-cities-v2.webp",
   },
   {
     id: "romania-cornetu-cities-v2",
@@ -2528,6 +2606,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Suprafață: 19,9 km²", "Populație: cca 5.200 (2021)", "Prima atestare: 1534", "Biserica: 1830", "Altitudine: 60 m", "Distanța până la Argeș: 1 km"],
       en: ["Area: 19.9 km²", "Population: approx. 5,200 (2021)", "First documented: 1534", "Church built: 1830", "Elevation: 60 m", "Distance to Argeș River: 1 km"],
     },
+    image: "/poi-images/romania-cornetu-cities-v2.webp",
   },
   {
     id: "romania-cernica-cities-v2",
@@ -2560,6 +2639,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Suprafață: 35,4 km²", "Populație: cca 4.000 (2021)", "Prima atestare: 1482", "Mănăstirea Cernica: 1650", "Suprafața lacului: 3 km²", "Altitudine: 70 m"],
       en: ["Area: 35.4 km²", "Population: approx. 4,000 (2021)", "First documented: 1482", "Cernica Monastery built: 1650", "Lake area: 3 km²", "Elevation: 70 m"],
     },
+    image: "/poi-images/romania-cernica-cities-v2.webp",
   },
   {
     id: "romania-glina-cities-v2",
@@ -2592,6 +2672,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Suprafață: 28,6 km²", "Populație: cca 8.500 (2021)", "Prima atestare: 1553", "Biserica: 1840", "Altitudine: 60 m", "Distanța față de București: 10 km"],
       en: ["Area: 28.6 km²", "Population: approx. 8,500 (2021)", "First documented: 1553", "Church built: 1840", "Elevation: 60 m", "Distance from Bucharest: 10 km"],
     },
+    image: "/poi-images/romania-glina-cities-v2.webp",
   },
   {
     id: "romania-berceni-cities-v2",
@@ -2624,6 +2705,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Suprafață: 18,2 km²", "Populație: cca 6.000 (2021)", "Prima atestare: 1515", "Biserica Sf. Nicolae: 1855", "Altitudine: 70 m", "Număr parcuri: 3"],
       en: ["Area: 18.2 km²", "Population: approx. 6,000 (2021)", "First documented: 1515", "Saint Nicholas Church built: 1855", "Elevation: 70 m", "Number of parks: 3"],
     },
+    image: "/poi-images/romania-berceni-cities-v2.webp",
   },
   {
     id: "romania-dragomiresti-vale-cities-v2",
@@ -2656,6 +2738,7 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Suprafață: 22,3 km²", "Populație: cca 4.500 (2021)", "Prima atestare: 1518", "Biserica: 1840", "Altitudine: 85 m", "Suprafață viticolă: cca 200 ha"],
       en: ["Area: 22.3 km²", "Population: approx. 4,500 (2021)", "First documented: 1518", "Church built: 1840", "Elevation: 85 m", "Vineyard area: about 200 ha"],
     },
+    image: "/poi-images/romania-dragomiresti-vale-cities-v2.webp",
   },
   {
     id: "romania-crevedia-cities-v2",
@@ -2688,5 +2771,6 @@ export const romaniaCitiesV2: POI[] = [
       ro: ["Suprafață: 41,2 km²", "Populație: cca 6.500 (2021)", "Prima atestare: 1585", "Biserica: 1860", "Altitudine: 80 m", "Suprafață parc industrial: 50 ha"],
       en: ["Area: 41.2 km²", "Population: approx. 6,500 (2021)", "First documented: 1585", "Church built: 1860", "Elevation: 80 m", "Industrial park area: 50 ha"],
     },
+    image: "/poi-images/romania-crevedia-cities-v2.webp",
   }
 ];

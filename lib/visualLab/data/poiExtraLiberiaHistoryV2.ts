@@ -31,6 +31,7 @@ export const liberiaHistoryV2: POI[] = [
       ro: ["Insula are 2 hectare.", "Debarcarea a avut loc pe 8 ianuarie 1822.", "Memorialul a fost ridicat în 1962.", "Insula se află la 3 km de centrul Monroviei.", "10.000 de turiști o vizitează anual.", "Muzeul a fost deschis în 2000."],
       en: ["The island covers 2 hectares.", "Landing date: January 8, 1822.", "The memorial was erected in 1962.", "It is 3 km from central Monrovia.", "10,000 tourists visit annually.", "The museum opened in 2000."],
     },
+    image: "/poi-images/liberia-providence-island-history-v2.webp",
   },
   {
     id: "liberia-centennial-pavilion-history-v2",
@@ -62,6 +63,7 @@ export const liberiaHistoryV2: POI[] = [
       ro: ["Pavilionul a fost construit în 1947.", "Are o capacitate de 5.000 de spectatori.", "Scena are 30 de metri lățime.", "Renovarea din 2010 a costat 2 milioane de dolari.", "Clădirea are 1.500 m².", "Coloanele au 12 metri înălțime."],
       en: ["The pavilion was built in 1947.", "It seats 5,000 spectators.", "The stage is 30 meters wide.", "The 2010 renovation cost $2 million.", "The building covers 1,500 m².", "Column height is 12 meters."],
     },
+    image: "/poi-images/liberia-centennial-pavilion-history-v2.webp",
   },
   {
     id: "liberia-matilda-newport-statue-history-v2",
@@ -93,5 +95,6 @@ export const liberiaHistoryV2: POI[] = [
       ro: ["Statuia a fost dezvelită în 1926.", "Are o înălțime de 3 metri.", "Realizată din bronz.", "Soclul are 1,5 metri.", "Tunul este o replică.", "Statuia a fost restaurată în 2005."],
       en: ["The statue was unveiled in 1926.", "It stands 3 meters tall.", "Made of bronze.", "The pedestal is 1.5 meters high.", "The cannon is a replica.", "It was restored in 2005."],
     },
+    image: "/poi-images/liberia-matilda-newport-statue-history-v2.webp",
   }
 ];

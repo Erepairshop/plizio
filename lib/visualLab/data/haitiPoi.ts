@@ -423,7 +423,8 @@ export const haitiLandmarks: POI[] = [
       en: ["The fortress houses a collection of over 300 cannons from various nations", "Some sections of the exterior walls reach a height of 40 meters", "It is estimated that up to 20,000 workers were involved in its massive construction"]
     },
     historyYear: 1805,
-    elevation: 900
+    elevation: 900,
+    image: "/poi-images/ht-citadelle.webp",
   },
   {
     id: "ht-sanssouci",
@@ -948,7 +949,8 @@ export const haitiLandmarks: POI[] = [
       hu: ["Itt áll a híres 'Le Marron Inconnu' (Az ismeretlen rabszolga) szobor", "A tér a 2010-es földrengés után hatalmas sátortáborként szolgált a hajléktalanoknak", "Ez az éves Nemzeti Karnevál epicentruma"],
       ro: ["Aici se află faimoasa statuie 'Le Marron Inconnu' (Sclavul necunoscut)", "Piața a servit drept tabără uriașă de corturi pentru persoanele rămase fără adăpost după cutremurul din 2010", "Este epicentrul Carnavalului Național anual"],
       en: ["The plaza is home to 'Le Marron Inconnu,' the definitive statue representing Haitian freedom", "Following the 2010 quake, it briefly became the world's most famous internally displaced persons camp", "The square's name, meaning 'Field of Mars,' reflects its history as a military parade ground"]
-    }
+    },
+    image: "/poi-images/ht-champdemars.webp",
   },
   ...poiExtraHaitiLandmarksV2
 ];

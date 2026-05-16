@@ -155,6 +155,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       ro: ["Cartier central în Vaduz", "Aproape de clădirea guvernului", "Se învecinează cu Peter-Kaiser-Platz", "Locația unor companii de servicii importante", "Acces facil prin căi pietonale", "Fost teren agricol"],
       en: ["Central district in Vaduz", "Proximity to the government building", "Borders Peter-Kaiser-Platz", "Location of important service businesses", "Well connected by footpaths", "Former agricultural field"],
     },
+    image: "/poi-images/city-haberfeld-extra.webp",
   },
   {
     id: "city-letten-vaduz-extra",
@@ -279,6 +280,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       ro: ["Cea mai sudică parte a comunei Vaduz", "Se învecinează direct cu Triesen", "Locația diverselor terenuri sportive", "Suprafețe agricole mari", "Locație plană în valea Rinului", "Legătură rutieră importantă spre sud"],
       en: ["Southernmost part of the municipality of Vaduz", "Borders directly on Triesen", "Location of various sports fields", "Large agricultural areas", "Flat location in the Rhine Valley", "Important transport link to the south"],
     },
+    image: "/poi-images/city-au-vaduz-extra.webp",
   },
   {
     id: "city-dux-extra",
@@ -496,6 +498,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       ro: ["Fermă agricolă tradițională", "Situată în comuna Mauren", "Conservarea structurilor vechi", "Focus pe creșterea animalelor și agricultură", "Înconjurat de câmpuri întinse", "Importanță regională ca producător"],
       en: ["Traditional agricultural business", "Located in the municipality of Mauren", "Preservation of old building structures", "Focus on livestock and arable farming", "Surrounded by wide fields", "Regional importance as a producer"],
     },
+    image: "/poi-images/city-birkahof-extra.webp",
   },
   {
     id: "city-bardella-extra",
@@ -558,6 +561,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       ro: ["Situat la o altitudine medie de aproximativ 450 de metri.", "Istoric, a fost o așezare agricolă independentă.", "Se află în apropierea canalului artificial Binnenkanal.", "Numele Matschils are rădăcini lingvistice retoromane.", "Aparține administrativ de a treia cea mai mare comună din țară.", "Semnificativ din punct de vedere istoric pentru creșterea animalelor."],
       en: ["Located at an average elevation of approximately 450 meters.", "Historically an independent agricultural settlement before merging.", "Situated near the artificially created Binnenkanal (canal).", "The name Matschils has Rhaeto-Romanic linguistic roots.", "Administratively part of the third-largest municipality in the country.", "Historically significant for the local livestock farming in the region."],
     },
+    image: "/poi-images/city-matschils-extra.webp",
   },
   {
     id: "city-meierhof-extra",
@@ -651,6 +655,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       ro: ["Cea mai sudică zonă rezidențială compactă a comunei Triesen.", "Numele provine din cuvântul retoroman pentru „pajiște mică”.", "Situat la o altitudine de aproximativ 460 de metri.", "Acces direct la traseele de drumeție în direcția Balzers.", "Face parte dintr-o zonă cu agricultură intensivă din punct de vedere istoric.", "Situat în imediata apropiere a bazelor sportive din Triesen."],
       en: ["Southernmost compact residential area of the municipality of Triesen.", "The name originates from the Rhaeto-Romanic word for 'small meadow'.", "Located at an altitude of approximately 460 meters above sea level.", "Direct access to the hiking trails leading towards Balzers.", "Part of an area with historically intensive agriculture.", "Located in close proximity to the Triesen sports facilities."],
     },
+    image: "/poi-images/city-maschlina-extra.webp",
   },
   {
     id: "city-sand-triesen-extra",
@@ -713,6 +718,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       ro: ["Situat deasupra drumului principal, pe coastele masivului Drei Schwestern.", "Numele indică utilizarea istorică drept teren pentru grădinărit.", "Zona a fost construită intensiv abia în a doua jumătate a secolului XX.", "Se află la trecerea spre pădurea alpină de protecție a comunei Triesen.", "Cunoscut pentru durata mare de strălucire a soarelui față de vale.", "Conexiune directă cu traseele de drumeție spre valea Lawena."],
       en: ["Located above the main road on the flanks of the Drei Schwestern massif.", "The name points to its historical use as garden land.", "The area was only intensively developed in the late 20th century.", "Situated at the transition to Triesen's Alpine protective forest.", "Known for its high number of sunshine hours compared to the valley.", "Direct connection to hiking trails leading to the Lawena Valley."],
     },
+    image: "/poi-images/city-gartnetsch-extra.webp",
   },
   {
     id: "city-saega-extra",
@@ -899,6 +905,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       ro: ["Numele Palduz are origini retoromane (Paludes înseamnă mlaștini).", "Situat în partea de est a zonei locuite din comuna Balzers.", "Se află în una dintre cele mai însorite zone ale principatului.", "Terenul urcă moderat în direcția pășunilor alpine.", "Desemnat în principal ca zonă rezidențială liniștită, fără industrie.", "La mică distanță de mers pe jos de centrul comunei și de sala Balzerner Saal."],
       en: ["The name Palduz has Rhaeto-Romanic origins (Paludes meaning marshes).", "Located in the eastern settlement part of the Balzers municipality.", "Situated in one of the sunniest zones of the principality.", "The terrain rises moderately towards the Alpine pastures.", "Designated primarily as a quiet residential zone without industry.", "Within walking distance of the community center and Balzerner Saal."],
     },
+    image: "/poi-images/city-palduz-extra.webp",
   },
   {
     id: "city-junkerau-extra",
@@ -930,6 +937,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       ro: ["Numele derivă de la fosta proprietate a unor nobili (Junker).", "Situat în zona de expansiune nordică a centrului localității Balzers.", "Găzduiește blocuri moderne și proiecte rezidențiale noi.", "Imediat adiacent bazei sportive Rheinau.", "Altitudinea este constantă aici, în jur de 470 de metri.", "Conexiune la rețeaua regională de piste de biciclete spre Schaan și Chur."],
       en: ["Name derives from former noble land ownership (Junker).", "Located in the northern expansion area of the Balzers settlement core.", "Home to modern multi-family houses and residential projects.", "Immediately adjacent to the Rheinau sports complex.", "The elevation here is constant at around 470 meters.", "Connection to the regional cycle path network towards Schaan and Chur."],
     },
+    image: "/poi-images/city-junkerau-extra.webp",
   },
   {
     id: "city-hoefle-balzers-extra",
@@ -961,6 +969,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       ro: ["Numele „Höfle” înseamnă „curte mică” în dialectul local.", "Cea mai sudică zonă locuită a comunei înainte de granița de stat.", "Punct istoric important pe ruta de tranzit către sud.", "Caracterizat prin viticultură istorică pe pantele abrupte însorite.", "Situat la poalele impunătorului vârf Mittagspitze.", "Găzduiește unele dintre cele mai vechi construcții din lemn păstrate în regiune."],
       en: ["The name 'Höfle' means 'small yard' in the local dialect.", "Southernmost settlement point of the municipality before the border.", "Historically important post on the transit route to the south.", "Characterized by historical viticulture on the sunny steep slopes.", "Located at the foot of the mighty Mittagspitze mountain.", "Home to some of the oldest preserved wooden buildings in the region."],
     },
+    image: "/poi-images/city-hoefle-balzers-extra.webp",
   },
   {
     id: "city-unterm-schloss-extra",
@@ -1271,6 +1280,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       ro: ["Situat la o altitudine de aproximativ 1100 de metri", "Așezare dispersată tipică imigranților Walser", "Cunoscut pentru traseul panoramic care trece prin localitate", "Locație din apropiere a rezervorului de apă din Triesenberg", "Zonă utilizată în trecut exclusiv pentru agricultură", "Habitat important pentru cocoșul de munte în pădurile adiacente"],
       en: ["Located at an altitude of around 1,100 meters", "Typical scattered settlement of the Walser immigrants", "Known for the panoramic path that runs through the village", "Nearby location of the Triesenberg water reservoir", "Formerly a purely agricultural area", "Important habitat for capercaillie in the adjacent forests"],
     },
+    image: "/poi-images/city-rizlina-extra.webp",
   },
   {
     id: "city-suecka-extra",
@@ -1302,6 +1312,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       ro: ["Se află la o altitudine de 1400 de metri", "Fost punct important pe drumul de munte peste Kulm", "Găzduiește un han montan cu o lungă tradiție", "Punctul de plecare al pistei de săniuș naturale de 1,5 km spre Steg", "Centrul economiei alpine de vară cu propria lăptărie", "Utilizare documentată istoric ca pășune montană încă din Evul Mediu"],
       en: ["Located at an altitude of 1,400 meters", "Once an important staging point on the mule track over the Kulm", "Home to a mountain inn with a long-standing tradition", "Start of the 1.5 km long natural sledding run to Steg", "Center of summer alpine farming with its own dairy", "Historically documented use as a seasonal pasture since the Middle Ages"],
     },
+    image: "/poi-images/city-suecka-extra.webp",
   },
   {
     id: "city-guflina-extra",
@@ -1488,6 +1499,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       ro: ["Aparține comunei Eschen din nordul Liechtensteinului.", "Situat pe o colină deasupra centrului localității Eschen.", "Nucleu istoric de așezare cu structuri tradiționale de curte.", "Oferă o vedere panoramică asupra lanțului Alpilor elvețieni.", "Parte a rețelei de trasee de drumeție din Unterland.", "Se află în imediata apropiere a capelei Rofenberg."],
       en: ["Belongs to the municipality of Eschen in northern Liechtenstein.", "Situated on a hill above the main village of Eschen.", "Historical settlement core with traditional farm structures.", "Offers panoramic views of the Swiss Alpine range.", "Part of the Unterland hiking trail network.", "Located in close proximity to the Rofenberg Chapel."],
     },
+    image: "/poi-images/city-rofenberg-extra.webp",
   },
   {
     id: "city-bruehl-eschen-extra",
@@ -1581,6 +1593,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       ro: ["Stradă rezidențială și cartier în comuna Eschen.", "Deschide versanții sudici ai muntelui Eschnerberg.", "Numele provine de la poziționarea pe o pantă (Halde).", "Diferența de nivel oferă o vedere largă până în Sarganserland.", "Punct de plecare pentru plimbări către Rofenberg.", "Caracterizat prin case unifamiliale construite pe pantă."],
       en: ["Residential street and neighborhood in the municipality of Eschen.", "Develops the southern slopes of the Eschnerberg.", "The name is derived from its location on a slope (Halde).", "Elevation difference offers wide views as far as Sarganserland.", "Starting point for walks towards Rofenberg.", "Characterized by single-family houses built on the slope."],
     },
+    image: "/poi-images/city-haldengass-extra.webp",
   },
   {
     id: "city-presta-extra",
@@ -1736,6 +1749,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       ro: ["Subdiviziune centrală a comunei Mauren.", "Găzduiește infrastructură socială importantă a comunei.", "S-a dezvoltat de-a lungul axelor principale de legătură.", "Distanță scurtă până la casa de cultură Rössle.", "Aspect tipic al unei comune rurale moderne.", "Conexiune la rețeaua densă de piste de biciclete din Unterland."],
       en: ["Central district of the municipality of Mauren.", "Houses important social infrastructure of the municipality.", "Developed along the main connection axes.", "Short distance to the Rössle Cultural House.", "Typical appearance of a modern rural municipality.", "Connection to the dense cycling network of the Unterland."],
     },
+    image: "/poi-images/city-freiendorf-extra.webp",
   },
   {
     id: "city-maurerberg-extra",
@@ -1829,6 +1843,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       ro: ["Stradă dezvoltată istoric în comuna Mauren.", "Conectează centrul satului cu cartierele exterioare sudice.", "În trecut, un drum important pentru agricultura locală.", "Astăzi, zonă cu trafic restricționat și calitate ridicată a locuirii.", "Situată la o altitudine de aproximativ 470 m.", "Parte a ansamblului de arhitectură veche de pe Valea Rinului."],
       en: ["Historically developed lane in the municipality of Mauren.", "Connects the village core with the southern outer neighborhoods.", "Formerly an important route for local agriculture.", "Today a traffic-calmed zone with high residential quality.", "Located at an altitude of approximately 470 meters.", "Part of the ensemble of old Rhine Valley architecture."],
     },
+    image: "/poi-images/city-fallsgass-extra.webp",
   },
   {
     id: "city-gaensbach-extra",
@@ -2046,6 +2061,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       ro: ["Altitudinea este de aproximativ 800 de metri", "Parte a celei mai mici comune din Liechtenstein", "Numele indică o defrișare istorică a pădurii", "Se învecinează cu zone forestiere vaste la est", "Zonă importantă pentru agricultura montană", "Accesibil prin drumul montan din Schaan"],
       en: ["Elevation is approximately 800 meters", "Part of Liechtenstein's smallest municipality", "The name indicates a historical forest clearing", "Borders extensive forest areas to the east", "Important area for mountain farming", "Accessed via the mountain road from Schaan"],
     },
+    image: "/poi-images/city-ruetti-planken-extra.webp",
   },
   {
     id: "city-wes-planken-extra",
@@ -2170,6 +2186,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       ro: ["Se află pe partea de est a satului", "Forma terenului favorizează un microclimat blând", "Fosta locație pentru cultivarea legumelor la altitudine", "Solurile sunt bogate în substanțe organice", "Altitudinea este de aproximativ 810 metri", "Menționat deja în hărțile din secolul al XVIII-lea"],
       en: ["Located on the east side of the village", "Terrain shape favors a mild microclimate", "Former site for high-altitude vegetable cultivation", "Soils are rich in organic matter", "Elevation is approximately 810 meters", "Mentioned in 18th-century maps"],
     },
+    image: "/poi-images/city-nuella-planken-extra.webp",
   },
   {
     id: "city-gsperr-extra",
@@ -2201,6 +2218,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       ro: ["Numele înseamnă 'blocaj' în dialectul local", "Situat pe ruta către pășunile din Triesenberg", "Zonă geologică de afloriment pentru straturi calcaroase", "Conține izvoare pentru alimentarea locală cu apă", "Fostă poziție defensivă pentru vale", "Panta abruptă necesită condiție fizică bună pentru drumeți"],
       en: ["Name means 'obstruction' in local dialect", "Located on the route to the Triesenberg pastures", "Geological outcrop area for limestone layers", "Contains springs for local water supply", "Former defensive position for the valley", "Steep incline requires good fitness from hikers"],
     },
+    image: "/poi-images/city-gsperr-extra.webp",
   },
   {
     id: "city-ruettistein-extra",
@@ -2232,6 +2250,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       ro: ["Marchează granițele istorice ale pășunilor", "Numele derivă din 'Rütti' (defrișare)", "Parte a subgrupului geologic Rätikon", "Vizibil din valea Rinului pe vreme senină", "Înconjurat de floră alpină rară", "Subiect fotografic popular pentru alpiniști"],
       en: ["Marks historical pasture boundaries", "Name derives from 'Rütti' (clearing)", "Part of the Rätikon geological sub-group", "Visible from the Rhine Valley in clear weather", "Surrounded by rare alpine flora", "Popular photo motif for mountaineers"],
     },
+    image: "/poi-images/city-ruettistein-extra.webp",
   },
   {
     id: "city-hinterschellenberg-extra",
@@ -2294,6 +2313,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       ro: ["Cetatea de Sus a fost construită în jurul anului 1200", "Ansamblul a fost conservat în anii 1960", "Locație pe marginea vestică a platoului Schellenberg", "Locul săpăturilor arheologice din secolul XX", "Oferă vedere panoramică asupra văii elvețiene a Rinului", "Parte a traseului istoric Eschnerberg"],
       en: ["Upper Castle was built around 1200 AD", "The complex was conserved in the 1960s", "Located on the western edge of the Schellenberg plateau", "Site of archeological excavations in the 20th century", "Offers panoramic views over the Swiss Rhine Valley", "Part of the Historical Eschnerberg Trail"],
     },
+    image: "/poi-images/city-vorderschellenberg-extra.webp",
   },
   {
     id: "city-stgeorg-schellenberg-extra",
@@ -2387,6 +2407,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       ro: ["Aparține celei mai joase comune din Liechtenstein", "Situat pe platoul Eschnerberg", "Conectat prin linia de autobuz regională 33", "Agricultura tradițională este încă activă aici", "Proximitate față de ruinele istorice ale cetăților", "Altitudinea este de aproximativ 610 până la 630 de metri"],
       en: ["Part of the lowest-lying municipality in Liechtenstein", "Situated on the Eschnerberg plateau", "Connected by regional bus line 33", "Traditional livestock farming is still active here", "Proximity to historical castle ruins", "Elevation is approximately 610 to 630 meters"],
     },
+    image: "/poi-images/city-mittelschellenberg-extra.webp",
   },
   {
     id: "city-gantenstein-extra",
@@ -2418,6 +2439,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       ro: ["Cel mai înalt punct din zona Schellenberg", "Pădure densă de fagi și molizi", "Habitat important pentru cerbii locali", "Parte a rețelei de trasee de drumeție din Liechtenstein", "Formațiuni geologice din perioada terțiară", "Se învecinează direct cu teritoriul austriac"],
       en: ["Highest point in the Schellenberg area", "Dense forest cover with beech and spruce", "Important habitat for local red deer", "Part of the Liechtenstein hiking trail network", "Geological formations dating to the Tertiary period", "Directly borders Austrian national territory"],
     },
+    image: "/poi-images/city-gantenstein-extra.webp",
   },
   {
     id: "city-loch-schellenberg-extra",
@@ -2542,6 +2564,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       ro: ["Stânci de calcar proeminente pe versant", "Prezența unor specii rare de orhidee", "Cădere abruptă spre Valea Rinului", "Aparține teritoriului comunei Schellenberg", "Punct de observație important pentru măsurători", "Parte a rețelei de biotopuri din Liechtenstein"],
       en: ["Prominent limestone rocks on the slope", "Occurrence of rare orchid species", "Steep drop-off towards the Rhine Valley", "Belongs to the municipality of Schellenberg", "Important lookout point for surveying", "Part of the Liechtenstein biotope network"],
     },
+    image: "/poi-images/city-limsenegg-extra.webp",
   },
   {
     id: "city-fofel-extra",
@@ -2697,6 +2720,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       ro: ["Cea mai mare suprafață agricolă continuă din Ruggell", "Numit după satul austriac Bangs", "Locație pentru logistică industrială modernă", "Utilizare intensivă pentru cultivarea porumbului", "Caracterizat prin mari suprafețe de ameliorare", "Proximitate directă față de canalul interior al Rinului"],
       en: ["Largest continuous field in Ruggell", "Named after the Austrian village of Bangs", "Site for modern industrial logistics", "Intensive use for maize cultivation", "Characterized by large melioration areas", "Direct proximity to the Rhine inland canal"],
     },
+    image: "/poi-images/city-bangserfeld-extra.webp",
   },
   {
     id: "city-rheinau-ruggell-extra",
@@ -2821,6 +2845,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       ro: ["Deschis în anul 2011", "Suprafață totală de aproximativ 45.000 m²", "Lac de înot cu purificare biologică a apei", "Include skatepark și perete de bouldering", "Accesibil publicului fără taxă de intrare", "Câștigător al mai multor premii de arhitectură"],
       en: ["Opened in the year 2011", "Total area of approximately 45,000 m²", "Swimming lake with biological water purification", "Includes a skate park and bouldering wall", "Publicly accessible with no entrance fee", "Winner of several architectural awards"],
     },
+    image: "/poi-images/city-grossabuent-extra.webp",
   },
   {
     id: "city-kratzera-extra",
@@ -2852,6 +2877,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       ro: ["Cartier rezidențial pe versantul din Gamprin", "Vedere spre Valea Rinului din St. Gallen", "Trasee de drumeție în apropiere spre Eschnerberg", "Construcții predominant de case unifamiliale", "Zonă liniștită, fără trafic de tranzit", "Dezvoltare realizată în mai multe etape de construcție"],
       en: ["Residential quarter on the hillside of Gamprin", "View of the St. Gallen Rhine Valley", "Nearby hiking trails to the Eschnerberg", "Predominantly single-family housing", "Quiet traffic situation with no through traffic", "Developed in several construction phases"],
     },
+    image: "/poi-images/city-kratzera-extra.webp",
   },
   {
     id: "city-under-au-extra",
@@ -3007,6 +3033,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       ro: ["Parte a comunei Gamprin", "Caracterizat prin agricultură și locuințe", "Situat aproape de granița cu Elveția", "Acces prin strada Lutzfeldstrasse", "Structură de așezare tipică pentru Unterland", "Topografie plată în câmpia Rinului"],
       en: ["Part of the Gamprin municipality", "Characterized by agriculture and housing", "Located near the Swiss border", "Accessed via Lutzfeldstrasse", "Typical settlement structure of Unterland", "Flat topography of the Rhine plain"],
     },
+    image: "/poi-images/city-lutzfeld-extra.webp",
   },
   {
     id: "city-oberau-gamprin-extra",
@@ -3131,6 +3158,7 @@ export const poiExtraLiechtensteinCities: POI[] = [
       ro: ["Zonă rezidențială nouă în Gamprin", "Situată în zona de câmpie a văii", "Infrastructură și arhitectură modernă", "Design de cartier pentru familii", "Conexiune bună cu centrul satului", "Accesibil prin zona Neufeld"],
       en: ["Newer residential area in Gamprin", "Located in the valley plain", "Modern infrastructure and architecture", "Family-friendly neighborhood design", "Good connection to the village center", "Accessed via the Neufeld area"],
     },
+    image: "/poi-images/city-neufeld-gamprin-extra.webp",
   }
 ];
 

@@ -32,6 +32,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Orașul este situat la o altitudine de minus 2 până la 5 metri.", "Prima casă a fost finalizată pe 30 noiembrie 1976.", "Populația a crescut de la zero la peste 220.000 în mai puțin de 50 de ani.", "Almere are peste 440 de kilometri de piste separate pentru biciclete.", "Găzduiește anual triatlonul Challenge Almere-Amsterdam, al doilea cel mai vechi.", "Suprafața totală a municipalității este de 248,77 km pătrați."],
       en: ["The city is situated 2 to 5 meters below average sea level.", "Construction of the first residential buildings began in 1976.", "Current population exceeds 223,000 residents as of 2024.", "Features an extensive network of 440 kilometers of cycling paths.", "Host of the Floriade Expo 2022 international horticultural exhibition.", "Land area covers approximately 129 square kilometers of the polder."],
     },
+    image: "/poi-images/netherlands-almere-cities-v2.webp",
   },
   {
     id: "netherlands-apeldoorn-cities-v2",
@@ -64,6 +65,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Găzduiește Palatul Het Loo, fosta reședință de vară a familiei regale.", "Grădina zoologică Apenheul a fost prima din lume cu maimuțe libere.", "Populația orașului depășește 165.000 de locuitori în prezent.", "Orașul a fost menționat pentru prima dată în documente în anul 792.", "Este un centru major pentru industria hârtiei și a asigurărilor.", "Aproape 40% din suprafața orașului este acoperită de vegetație forestieră."],
       en: ["Home to Paleis Het Loo, a former royal palace and national museum.", "The Apenheul Primate Park was the first zoo where monkeys roam free.", "Municipality covers an area of over 341 square kilometers.", "First mentioned as 'Appoldro' in a historical document from 792.", "Major hub for the Dutch tax administration and insurance sector.", "Located at the edge of the Veluwe, the largest forest area in the country."],
     },
+    image: "/poi-images/netherlands-apeldoorn-cities-v2.webp",
   },
   {
     id: "netherlands-amersfoort-cities-v2",
@@ -96,6 +98,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: [],
       en: [],
     },
+    image: "/poi-images/netherlands-amersfoort-cities-v2.webp",
   },
   {
     id: "netherlands-zoetermeer-cities-v2",
@@ -128,6 +131,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Numele orașului se traduce literal prin 'Lacul Dulce'.", "A fost desemnat 'oraș nou' în 1962 pentru a absorbi creșterea Hagei.", "Găzduiește SnowWorld, cel mai mare parc de schi indoor din Europa.", "Populația a explodat de la 6.392 în 1950 la peste 125.000 în 2024.", "Dispune de un parc de inovație dedicat securității cibernetice.", "Lacul Zoetermeerse Plas este un centru popular pentru sporturi nautice."],
       en: ["Literal translation of the name is 'Sweet Lake'.", "Designated as a 'growth center' in 1962 to relieve housing pressure in The Hague.", "Home to SnowWorld, featuring one of the world's largest indoor ski slopes.", "Host to the Dutch Innovation Park, focusing on ICT and tech sectors.", "Population surged from 10,000 in 1966 to over 125,000 today.", "The historic Dorpsstraat remains the only part of the original village."],
     },
+    image: "/poi-images/netherlands-zoetermeer-cities-v2.webp",
   },
   {
     id: "netherlands-zaanstad-cities-v2",
@@ -160,6 +164,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Zaanse Schans atrage anual peste 2 milioane de turiști cu morile sale de vânt.", "Hotelul Inntel din Zaandam are o fațadă unică formată din 70 de case stivuite.", "Țarul Petru cel Mare a locuit aici în 1697 pentru a învăța construcția de nave.", "Prima locație a gigantului Albert Heijn a fost deschisă în Zaandam în 1887.", "Municipalitatea a fost formată în 1974 prin fuzionarea a 7 orașe.", "Regiunea procesează aproximativ 20% din producția mondială de cacao."],
       en: ["Zaanse Schans is a world-famous open-air museum with historic windmills.", "The Inntel Hotel in Zaandam features a unique facade of 70 stacked houses.", "Tsar Peter the Great stayed in a small house here in 1697 to study shipbuilding.", "Birthplace of the Albert Heijn supermarket chain, founded in 1887.", "The Zaan region was once powered by over 600 windmills simultaneously.", "Major hub for the global food industry, especially cocoa processing."],
     },
+    image: "/poi-images/netherlands-zaanstad-cities-v2.webp",
   },
   {
     id: "netherlands-hoofddorp-cities-v2",
@@ -192,6 +197,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: [],
       en: [],
     },
+    image: "/poi-images/netherlands-hoofddorp-cities-v2.webp",
   },
   {
     id: "netherlands-ede-cities-v2",
@@ -224,6 +230,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: [],
       en: [],
     },
+    image: "/poi-images/netherlands-ede-cities-v2.webp",
   },
   {
     id: "netherlands-leeuwarden-cities-v2",
@@ -256,6 +263,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Turnul Oldehove este mai înclinat decât Turnul din Pisa, deși neterminat.", "Orașul a fost Capitală Europeană a Culturii în anul 2018.", "Mata Hari, celebra dansatoare și spioană, s-a născut aici în 1876.", "Găzduiește Muzeul Frizian, cel mai mare muzeu regional din Olanda.", "Este punctul tradițional de start și sosire pentru turul celor 11 orașe.", "Centrul istoric numără peste 600 de monumente naționale protejate."],
       en: ["The Oldehove is a leaning, unfinished church tower from the 16th century.", "Designated as the European Capital of Culture in 2018.", "Birthplace of the famous exotic dancer and spy Mata Hari.", "Home to the Princessehof National Museum of Ceramics.", "The city serves as the heart of Frisian language and culture.", "Features over 600 national heritage sites within its historic center."],
     },
+    image: "/poi-images/netherlands-leeuwarden-cities-v2.webp",
   },
   {
     id: "netherlands-alphen-aan-den-rijn-cities-v2",
@@ -288,6 +296,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: [],
       en: [],
     },
+    image: "/poi-images/netherlands-alphen-aan-den-rijn-cities-v2.webp",
   },
   {
     id: "netherlands-venlo-cities-v2",
@@ -320,6 +329,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: [],
       en: [],
     },
+    image: "/poi-images/netherlands-venlo-cities-v2.webp",
   },
   {
     id: "netherlands-hilversum-cities-v2",
@@ -352,6 +362,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: [],
       en: [],
     },
+    image: "/poi-images/netherlands-hilversum-cities-v2.webp",
   },
   {
     id: "netherlands-hengelo-cities-v2",
@@ -384,6 +395,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Compania Stork a transformat satul într-un centru industrial în 1868.", "Centrul orașului a fost bombardat masiv în 1944 din cauza nodului feroviar.", "Turnul primăriei este inspirat de turnul din Piața del Campo din Siena.", "Găzduiește sediul multinaționalei Thales Group în Olanda.", "Evenimentul sportiv anual FBK Games este un concurs de elită în atletism.", "Populația actuală este de aproximativ 81.000 de locuitori."],
       en: ["Developed rapidly as an industrial hub thanks to the Stork engineering works.", "The city hall tower was inspired by the Palazzo Pubblico in Siena, Italy.", "Strategic railway junction on the main line between Amsterdam and Berlin.", "Home to the Oyfo Technology Museum, showcasing regional industrial history.", "The city center was largely rebuilt in a modern style after 1944 air raids.", "Hosts the FBK Games, a prestigious annual international athletics meeting."],
     },
+    image: "/poi-images/netherlands-hengelo-cities-v2.webp",
   },
   {
     id: "netherlands-purmerend-cities-v2",
@@ -416,6 +428,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Purmerend a primit drepturi de oraș în anul 1410.", "A fost supranumit 'Orașul Piețelor' datorită comerțului intens cu animale.", "Koemarkt a fost transformat din piață de vite în piață de divertisment în 2009.", "Se află în inima regiunii Waterland, renumită pentru managementul apei.", "Populația a crescut rapid de la 10.000 în 1960 la peste 80.000 în prezent.", "Muzeul orașului deține o colecție importantă de ceramică Art Nouveau."],
       en: ["Granted city rights in 1410 by Willem VI of Holland.", "Historically famous for its vast livestock markets, earning the nickname 'Market Town'.", "The Koemarkt square was renovated in 2009 to become a vibrant dining district.", "Located adjacent to the UNESCO World Heritage site of the Beemster Polder.", "Designated as a primary growth center for the Amsterdam region in the 1960s.", "The Purmerends Museum showcases a unique collection of local Art Nouveau pottery."],
     },
+    image: "/poi-images/netherlands-purmerend-cities-v2.webp",
   },
   {
     id: "netherlands-roosendaal-cities-v2",
@@ -448,6 +461,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Gara din Roosendaal a fost deschisă în 1854 ca punct de frontieră.", "Orașul a fost menționat prima dată sub numele Rosendaele în 1268.", "Găzduiește un centru comercial de tip outlet foarte popular în regiune.", "Este sediul primului centru de skydiving indoor din țările Benelux.", "Populația orașului depășește în prezent 77.000 de locuitori.", "Biserica Sfântul Ioan Botezătorul este un punct de reper arhitectural major."],
       en: ["Roosendaal station has been a vital link to Antwerp and Brussels since 1854.", "The city was first recorded in historical documents in 1268.", "Home to the Designer Outlet Roosendaal, a major shopping destination.", "During Carnival, the city is known by the local name 'Tullepetaonestad'.", "Features the first indoor skydive tunnel established in the Benelux region.", "The city was a significant center for cigar manufacturing in the 19th century."],
     },
+    image: "/poi-images/netherlands-roosendaal-cities-v2.webp",
   },
   {
     id: "netherlands-oss-cities-v2",
@@ -480,6 +494,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Compania Organon, pionier în contraceptive, a fost fondată aici în 1923.", "Mormântul 'Prințului din Oss' conține o sabie de aur din anul 700 î.Hr.", "Orașul a primit drepturi municipale oficiale în anul 1399.", "Oss este legat de fluviul Maas printr-un canal și un port industrial.", "Populația municipalității este de aproximativ 93.000 de locuitori.", "Muzeul Jan Cunen este situat într-o vilă istorică neoclasică."],
       en: ["Birthplace of Organon, the company that co-developed the contraceptive pill.", "The 'Prince of Oss' burial mound yielded a famous Iron Age gold-inlaid sword.", "Rose to prominence in the 19th century through margarine and meat processing.", "Granted city rights in 1399 by Duchess Johanna of Brabant.", "Home to the Museum Jan Cunen, housed in a grand 19th-century villa.", "Connected to the river Maas via the Burgemeester Delenkanaal and its port."],
     },
+    image: "/poi-images/netherlands-oss-cities-v2.webp",
   },
   {
     id: "netherlands-schiedam-cities-v2",
@@ -512,6 +527,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: [],
       en: [],
     },
+    image: "/poi-images/netherlands-schiedam-cities-v2.webp",
   },
   {
     id: "netherlands-lelystad-cities-v2",
@@ -544,6 +560,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Întregul oraș se află la aproximativ 5 metri sub nivelul mării.", "Găzduiește o replică funcțională a navei Batavia din secolul al XVII-lea.", "Rezervația Oostvaardersplassen de lângă oraș este un paradis pentru cai sălbatici.", "Orașul a fost inaugurat oficial pentru locuire în septembrie 1967.", "Batavia Stad a fost primul outlet mall deschis în Olanda, în 2001.", "Lelystad este cea mai mare municipalitate din Olanda ca suprafață totală (inclusiv apă)."],
       en: ["The entire city is situated roughly 5 meters below average sea level.", "Home to the Batavia shipyard, featuring a reconstruction of a 17th-century ship.", "The Oostvaardersplassen nature reserve, famous for wild horses, is located nearby.", "The first residents only moved into the newly built city in 1967.", "Hosts Batavialand, a museum dedicated to Dutch polder history and water management.", "Batavia Stad, located here, was the first fashion outlet center in the Netherlands."],
     },
+    image: "/poi-images/netherlands-lelystad-cities-v2.webp",
   },
   {
     id: "netherlands-spijkenisse-cities-v2",
@@ -576,6 +593,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: [],
       en: [],
     },
+    image: "/poi-images/netherlands-spijkenisse-cities-v2.webp",
   },
   {
     id: "netherlands-almelo-cities-v2",
@@ -608,6 +626,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: [],
       en: [],
     },
+    image: "/poi-images/netherlands-almelo-cities-v2.webp",
   },
   {
     id: "netherlands-vlaardingen-cities-v2",
@@ -640,6 +659,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Orașul a primit drepturi municipale în 1273 de la contele Floris al V-lea.", "A fost cel mai important port pentru pescuitul de hering din Europa.", "Bătălia de la Vlaardingen din 1018 este un moment cheie în istoria olandeză.", "Găzduiește Monumentul Pescarului, simbolizând legătura orașului cu marea.", "Muzeul Vlaardingen este situat într-o fostă casă de armator de pe malul apei.", "Populația actuală depășește 75.000 de locuitori."],
       en: ["Granted city rights as early as 1273 by Count Floris V of Holland.", "For centuries, it served as the primary home port for the Dutch herring fleet.", "Site of the Battle of Vlaardingen in 1018, a major medieval conflict.", "The historic 'Visbank' (fish market) building dates back to 1792.", "Locals are traditionally nicknamed 'Haringkoppen' (Herring Heads).", "Features the Oranjepark, one of the oldest public urban parks in the country."],
     },
+    image: "/poi-images/netherlands-vlaardingen-cities-v2.webp",
   },
   {
     id: "netherlands-helmond-cities-v2",
@@ -672,6 +692,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Castelul Helmond datează din 1325 și este cel mai mare castel de apă din țară.", "Orașul are propriile 'case cubice', similare cu cele celebre din Rotterdam.", "Este sediul companiei Vlisco, faimoasă pentru textilele de tip batik african.", "Canalul Zuid-Willemsvaart traversează inima orașului din 1826.", "Populația actuală este de peste 95.000 de locuitori.", "Biserica Sfântul Lambert este o capodoperă a arhitecturii neogotice."],
       en: ["Castle Helmond is the largest square moated castle in the Netherlands.", "Features a set of unique 'Cube Houses' designed by architect Piet Blom.", "Famous for the Vlisco factory, producing world-renowned Dutch Wax textiles.", "Granted city rights in 1232 by Duke Hendrik I of Brabant.", "The city center is divided by the historic Zuid-Willemsvaart canal.", "Home to the EDAH Museum, focusing on the history of grocery distribution."],
     },
+    image: "/poi-images/netherlands-helmond-cities-v2.webp",
   },
   {
     id: "netherlands-assen-cities-v2",
@@ -704,6 +725,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: [],
       en: [],
     },
+    image: "/poi-images/netherlands-assen-cities-v2.webp",
   },
   {
     id: "netherlands-bergen-op-zoom-cities-v2",
@@ -736,6 +758,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Palatul Markiezenhof este un exemplu rar de arhitectură gotică târzie din 1485.", "Gevangenpoort este o poartă a orașului din secolul al XIV-lea, fosta închisoare.", "Orașul a rezistat numeroaselor asedii spaniole și franceze în secolele XVI-XVII.", "Biserica Sfânta Gertrudis are un turn poreclit 'Peperbus' (Râșnița de piper).", "Găzduiește cel mai vechi hotel din Olanda, Hotel de Draak, atestat în 1397.", "Este situat pe Brabantse Wal, o pantă geologică naturală rară."],
       en: ["The Markiezenhof is one of the oldest late-Gothic city palaces in Europe.", "Gevangenpoort is the city's only remaining 14th-century gate and former prison.", "Nicknamed 'La Pucelle' (The Maiden) because it was never captured in sieges.", "The St. Gertrudis Church tower is locally known as the 'Peperbus'.", "Home to Hotel De Draak, officially the oldest hotel in the Netherlands.", "Located on the Brabantse Wal, a unique geological step in the landscape."],
     },
+    image: "/poi-images/netherlands-bergen-op-zoom-cities-v2.webp",
   },
   {
     id: "netherlands-capelle-aan-den-ijssel-cities-v2",
@@ -768,6 +791,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: [],
       en: [],
     },
+    image: "/poi-images/netherlands-capelle-aan-den-ijssel-cities-v2.webp",
   },
   {
     id: "netherlands-veenendaal-cities-v2",
@@ -800,6 +824,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Fondat oficial în 1546 pentru exploatarea zăcămintelor de turbă.", "A fost un centru faimos pentru industria lânii în secolul al XIX-lea.", "A fost votat de mai multe ori ca 'Orașul Bicicletelor' în Olanda.", "Populația orașului depășește în prezent 68.000 de locuitori.", "Găzduiește 'De Cultuurfabriek', o bibliotecă și centru cultural modern.", "Este situat strategic pe axa feroviară Utrecht-Arnhem."],
       en: ["Officially founded in 1546 as a colony for peat extraction.", "Renowned for its wool and textile industry throughout the 19th century.", "Consistently ranked as one of the most bicycle-friendly cities in the country.", "Located at the southeastern edge of the Utrechtse Heuvelrug National Park.", "Home to the 'De Lampegiet' theater, a prominent regional cultural venue.", "The name 'Veen' literally refers to the peat bogs from which it originated."],
     },
+    image: "/poi-images/netherlands-veenendaal-cities-v2.webp",
   },
   {
     id: "netherlands-katwijk-cities-v2",
@@ -832,6 +857,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: [],
       en: [],
     },
+    image: "/poi-images/netherlands-katwijk-cities-v2.webp",
   },
   {
     id: "netherlands-zeist-cities-v2",
@@ -864,6 +890,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Castelul Slot Zeist a fost construit între 1677 și 1686.", "Găzduiește sediul Federației Olandeze de Fotbal (KNVB).", "Comunitatea fraților moravi s-a stabilit aici în secolul al XVIII-lea.", "Este înconjurat de pădurile din Parcul Național Utrechtse Heuvelrug.", "Populația este de aproximativ 66.000 de locuitori.", "Arhitectura centrului este puternic influențată de stilul baroc."],
       en: ["Slot Zeist was built in the 17th century as a lavish country house.", "Headquarters of the Royal Dutch Football Association (KNVB).", "The Moravian Church community has been central to Zeist since 1746.", "Situated within the lush forests of the Utrechtse Heuvelrug National Park.", "Home to the KNVB Campus, the national elite training center for soccer.", "Features numerous 19th-century estates and large landscaped gardens."],
     },
+    image: "/poi-images/netherlands-zeist-cities-v2.webp",
   },
   {
     id: "netherlands-nieuwegein-cities-v2",
@@ -896,6 +923,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Orașul a fost proiectat pentru a acomoda creșterea populației din Utrecht.", "Districtul Vreeswijk păstrează farmecul unui vechi sat de pescari de pe Lek.", "Găzduiește 'De Kom', un teatru și centru de arte spectaculos și modern.", "Este un nod vital pentru transportul fluvial, prin canalul Merwede.", "Populația a ajuns la peste 65.000 de locuitori de la fondarea în 1971.", "Castelul Rijnhuizen a servit mult timp ca institut de cercetare a fizicii plasmei."],
       en: ["Designated as a 'growth center' in the 1970s to accommodate Utrecht's expansion.", "The Vreeswijk district features historic locks and a traditional harbor on the Lek.", "Strategically located at the intersection of several major Dutch canals.", "Home to the 17th-century Rijnhuizen Castle, a listed national monument.", "Connected to Utrecht via a dedicated high-speed light rail system.", "Features Cityplaza, one of the largest indoor shopping malls in the province."],
     },
+    image: "/poi-images/netherlands-nieuwegein-cities-v2.webp",
   },
   {
     id: "netherlands-hardenberg-cities-v2",
@@ -928,6 +956,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: [],
       en: [],
     },
+    image: "/poi-images/netherlands-hardenberg-cities-v2.webp",
   },
   {
     id: "netherlands-den-helder-cities-v2",
@@ -960,6 +989,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Este sediul central al Marinei Regale Olandeze încă din secolul al XIX-lea.", "Fortul Kijkduin a fost numit de Napoleon 'Gibraltarul Nordului'.", "Willemsoord este un fost șantier naval regal transformat în centru cultural.", "Găzduiește Muzeul Naval, unde vizitatorii pot explora submarinul Tonijn.", "Este orașul cu cele mai multe ore de soare pe an din Olanda.", "Populația este de aproximativ 56.000 de locuitori."],
       en: ["Home to the main naval base and headquarters of the Royal Netherlands Navy.", "Fort Kijkduin was commissioned by Napoleon and once called the 'Gibraltar of the North'.", "The Navy Museum features the preserved submarine 'Tonijn', open to the public.", "Main port for the ferry service to the UNESCO-listed Wadden island of Texel.", "Den Helder officially boasts the highest number of annual sunshine hours in NL.", "The historic Willemsoord district was formerly a royal naval shipyard."],
     },
+    image: "/poi-images/netherlands-den-helder-cities-v2.webp",
   },
   {
     id: "netherlands-zutphen-cities-v2",
@@ -992,6 +1022,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: [],
       en: [],
     },
+    image: "/poi-images/netherlands-zutphen-cities-v2.webp",
   },
   {
     id: "netherlands-harderwijk-cities-v2",
@@ -1024,6 +1055,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: [],
       en: [],
     },
+    image: "/poi-images/netherlands-harderwijk-cities-v2.webp",
   },
   {
     id: "netherlands-kampen-cities-v2",
@@ -1056,6 +1088,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Kampen a primit drepturi de oraș în 1236.", "Turnul Bisericii Bovenkerk are 75 de metri înălțime.", "Populația orașului în 2021 era de aproximativ 52.000 de locuitori.", "Kampen a fost membru al Ligii Hanseatice între 1441 și 1795.", "Centrul vechi cuprinde peste 400 de clădiri protejate.", "Podul IJssel din Kampen a fost deschis în 1960."],
       en: ["Kampen received city rights in 1236.", "The Bovenkerk tower is 75 meters high.", "The city had about 52,000 inhabitants in 2021.", "Kampen was a member of the Hanseatic League from 1441 to 1795.", "The old town contains over 400 listed buildings.", "The IJssel Bridge in Kampen opened in 1960."],
     },
+    image: "/poi-images/netherlands-kampen-cities-v2.webp",
   },
   {
     id: "netherlands-sneek-cities-v2",
@@ -1088,6 +1121,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Sneek a primit drepturi de oraș în 1456.", "Poarta de Apă a fost construită în 1613.", "Orașul are aproximativ 33.000 de locuitori.", "Sneekweek are loc anual începând din 1934.", "Sneek este situat pe malul lacului Sneekermeer, cu o suprafață de 5 km².", "Orașul găzduiește Universitatea Tehnică din Frizia."],
       en: ["Sneek received city rights in 1456.", "The Water Gate was built in 1613.", "The city has about 33,000 inhabitants.", "Sneekweek has been held annually since 1934.", "Sneek lies on the Sneekermeer lake, covering 5 km².", "The city hosts the Technical University of Friesland."],
     },
+    image: "/poi-images/netherlands-sneek-cities-v2.webp",
   },
   {
     id: "netherlands-doetinchem-cities-v2",
@@ -1120,6 +1154,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Doetinchem a primit drepturi de oraș în 1236.", "Castelul Huis Bergh datează din secolul al XII-lea.", "Orașul are aproximativ 30.000 de locuitori.", "Râul Oude IJssel are o lungime de 80 km.", "Biserica Sf. Ecaterina a fost construită în secolul al XV-lea.", "Doetinchem are 11 școli primare și 4 școli secundare."],
       en: ["Doetinchem was granted city rights in 1236.", "Huis Bergh castle dates from the 12th century.", "The city has about 30,000 inhabitants.", "The Oude IJssel river is 80 km long.", "St. Catharinakerk was built in the 15th century.", "Doetinchem has 11 primary schools and 4 secondary schools."],
     },
+    image: "/poi-images/netherlands-doetinchem-cities-v2.webp",
   },
   {
     id: "netherlands-terneuzen-cities-v2",
@@ -1152,6 +1187,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Terneuzen a primit drepturi de oraș în 1584.", "Canalul Gent-Terneuzen are 32 km lungime.", "Orașul are aproximativ 55.000 de locuitori.", "Portul Terneuzen a manipulat peste 20 de milioane de tone de marfă în 2020.", "Waterdunen se întinde pe 300 de hectare.", "Cel mai înalt pod din Zeeland, Sluiskilbrug, are 55 m înălțime."],
       en: ["Terneuzen received city rights in 1584.", "The Ghent-Terneuzen Canal is 32 km long.", "The city has about 55,000 inhabitants.", "Terneuzen's port handled over 20 million tonnes of cargo in 2020.", "Waterdunen covers 300 hectares.", "The highest bridge in Zeeland, Sluiskilbrug, is 55 m tall."],
     },
+    image: "/poi-images/netherlands-terneuzen-cities-v2.webp",
   }
 ,
   {
@@ -1185,6 +1221,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Drachten a crescut de la un sat la un centru industrial datorită fabricii Philips.", "Găzduiește Muzeul Dr8888, faimos pentru colecțiile de artă De Stijl și Dada.", "Este locul unde a fost testat conceptul de trafic 'Shared Space' (fără semafoare).", "Cartierul Papegaaienbuurt prezintă fațade colorate concepute de Theo van Doesburg.", "Teatrul De Lawei este unul dintre cele mai mari centre culturale din nord.", "Populația orașului este de aproximativ 45.000 de locuitori."],
       en: ["Drachten is the second-largest urban area in Friesland, despite lacking formal city rights.", "Home to the Papegaaienbuurt, featuring houses styled by the De Stijl movement.", "The establishment of a major Philips factory in 1950 fueled its modern expansion.", "Pioneered the 'Shared Space' traffic management concept in its city center.", "Museum Dr8888 holds a significant collection of avant-garde and Dadaist art.", "Features De Lawei, one of the most prominent regional theaters in the North."],
     },
+    image: "/poi-images/netherlands-drachten-cities-v2.webp",
   },
   {
     id: "netherlands-waalwijk-cities-v2",
@@ -1217,6 +1254,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Waalwijk a primit drepturi de oraș în 1420.", "Industria de pielărie angaja peste 5.000 de muncitori în 1900.", "Orașul are aproximativ 46.000 de locuitori.", "Parcul Efteling a fost deschis în 1952, la 10 km distanță.", "Primăria a fost construită în secolul al XVIII-lea.", "Waalwijk găzduiește sediul companiei de logistică Van der Wal."],
       en: ["Waalwijk received city rights in 1420.", "The leather industry employed over 5,000 workers in 1900.", "The city has about 46,000 inhabitants.", "Efteling opened in 1952 and is 10 km away.", "The town hall was built in the 18th century.", "Waalwijk is home to the logistics company Van der Wal."],
     },
+    image: "/poi-images/netherlands-waalwijk-cities-v2.webp",
   },
   {
     id: "netherlands-hoogeveen-cities-v2",
@@ -1249,6 +1287,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["A fost fondat oficial în anul 1625 de către Roelof van Echten.", "Hoofdstraat este renumită ca fiind una dintre cele mai largi străzi comerciale.", "Orașul a fost un centru major de producție de conserve în secolul XX.", "Populația municipalității este de aproximativ 56.000 de locuitori.", "Dispune de un aeroport local utilizat pentru parașutism și aviație generală.", "A primit titlul de 'Cel mai verde oraș din Europa' în anul 1974."],
       en: ["Founded in 1625 by Roelof van Echten as a peat-harvesting settlement.", "Features the Hoofdstraat, known as one of the longest shopping streets in NL.", "Vincent van Gogh stayed in Hoogeveen briefly in 1883 during his Drenthe period.", "Awarded the title of 'Greenest City in Europe' in 1974.", "Home to a significant manufacturing facility for aerospace giant Fokker.", "The city was originally built around a grid of canals, most now filled in."],
     },
+    image: "/poi-images/netherlands-hoogeveen-cities-v2.webp",
   },
   {
     id: "netherlands-wageningen-cities-v2",
@@ -1281,6 +1320,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Capitularea germană în Olanda a fost semnată aici, la Hotel de Wereld, în 1945.", "Universitatea din Wageningen este lider global în științele agricole.", "Orașul a primit drepturi municipale oficiale în anul 1263.", "Găzduiește anual Festivalul Eliberării pe data de 5 mai, atrăgând mii de oameni.", "Grădina Botanică Belmonte deține una dintre cele mai mari colecții de rododendroni.", "Populația este formată într-o proporție foarte mare din studenți internaționali."],
       en: ["Site where the German surrender in the Netherlands was signed in May 1945.", "Wageningen University & Research is consistently ranked #1 in agriculture globally.", "The city was granted its municipal charter in 1263.", "Home to the Belmonte Arboretum, offering panoramic views over the Rhine valley.", "Hosts the national Liberation Day parade and festival every year on May 5th.", "The historic Hotel de Wereld serves as a permanent symbol of Dutch freedom."],
     },
+    image: "/poi-images/netherlands-wageningen-cities-v2.webp",
   },
   {
     id: "netherlands-tiel-cities-v2",
@@ -1313,6 +1353,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Tiel a primit drepturi de oraș în 1250.", "Orașul a fost distrus 80% în 1945.", "Populația este de aproximativ 42.000 de locuitori.", "Canalul Apeldoorner leagă Tiel de Veluwe.", "Cireșele de Tiel sunt o denumire de origine protejată din 1990.", "Muzeul Istoric Tiel prezintă artefacte romane."],
       en: ["Tiel received city rights in 1250.", "The city was 80% destroyed in 1945.", "Population is about 42,000.", "The Apeldoorner Canal connects Tiel to the Veluwe.", "Tiel cherries have been a protected designation of origin since 1990.", "The Historical Museum Tiel displays Roman-era artifacts."],
     },
+    image: "/poi-images/netherlands-tiel-cities-v2.webp",
   },
   {
     id: "netherlands-winterswijk-cities-v2",
@@ -1345,6 +1386,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Găzduiește singura carieră de calcar din Olanda unde se pot găsi fosile.", "Pictorul abstract Piet Mondrian a locuit aici în tinerețe (muzeul Villa Mondriaan).", "Regiunea din jur este declarată 'Peisaj Național' datorită biodiversității.", "Orașul a fost un nod feroviar important pentru transportul cărbunelui din Germania.", "Piața centrală (Markt) găzduiește una dintre cele mai mari piețe săptămânale.", "Populația este de aproximativ 29.000 de locuitori."],
       en: ["Home to the only limestone quarry in the Netherlands, rich in Triassic fossils.", "Childhood home of Piet Mondrian, celebrated at the Villa Mondriaan museum.", "The surrounding area is designated as a 'National Landscape' area.", "A major textile manufacturing center during the 19th and 20th centuries.", "Located directly on the border with Germany, fostering strong cross-border ties.", "The 16th-century Jacobskerk is the most prominent landmark in the town center."],
     },
+    image: "/poi-images/netherlands-winterswijk-cities-v2.webp",
   },
   {
     id: "netherlands-hardinxveld-giessendam-cities-v2",
@@ -1377,6 +1419,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Este recunoscut ca unul dintre cele mai vechi sate din regiunea Alblasserwaard.", "Găzduiește șantiere navale de renume mondial pentru nave de dragaj.", "Muzeul De Koperen Knop prezintă viața rurală din secolul al XVII-lea.", "Municipalitatea a fost formată prin fuziunea celor două sate în 1957.", "Este situat pe traseul feroviar Betuweroute, dedicat mărfurilor.", "Populația locală este de aproximativ 18.000 de locuitori."],
       en: ["One of the oldest recorded settlements in the Alblasserwaard region.", "Consists of two distinct historical districts: Hardinxveld and Giessendam.", "A global center for the construction of specialized dredging vessels.", "Home to the De Koperen Knop Museum, set in a farmhouse dating from 1644.", "Strategically positioned along the Merwede, a major Dutch shipping artery.", "The municipality was officially unified in its current form in 1957."],
     },
+    image: "/poi-images/netherlands-hardinxveld-giessendam-cities-v2.webp",
   },
   {
     id: "netherlands-soest-cities-v2",
@@ -1409,6 +1452,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Soester Duinen este o rezervație naturală unică cu dune de nisip mișcătoare.", "Palatul Soestdijk, fosta casă a reginei Juliana, se află la marginea orașului.", "Găzduiește Muzeul Militar Național pe locul fostei baze aeriene Soesterberg.", "Localitatea a fost menționată pentru prima dată într-un document din 1028.", "Moara de vânt De Windhond a fost reconstruită în 2008 pe fundații vechi.", "Populația orașului depășește în prezent 47.000 de locuitori."],
       en: ["The 'Soester Duinen' are large areas of spectacular shifting sand dunes.", "Located adjacent to Soestdijk Palace, the former residence of Queen Juliana.", "The National Military Museum is situated on the former Soesterberg airbase nearby.", "The town's history dates back to at least 1028, according to records.", "Features the 'De Windhond' windmill, a prominent local landmark.", "Offers a diverse landscape ranging from river meadows to forested hills."],
     },
+    image: "/poi-images/netherlands-soest-cities-v2.webp",
   },
   {
     id: "netherlands-wierden-cities-v2",
@@ -1441,6 +1485,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Wierden a primit drepturi de oraș în 1854.", "Wierdense Veld este o rezervație naturală de 500 ha.", "Orașul are aproximativ 24.000 de locuitori.", "Fabrica textilă din Wierden angaja peste 1.000 de muncitori în 1900.", "Primăria a fost construită în 1928 în stil neoclasic.", "Wierden se află la 10 km est de Almelo."],
       en: ["Wierden received city rights in 1854.", "Wierdense Veld is a 500 ha nature reserve.", "The town has about 24,000 inhabitants.", "The Wierden textile factory employed over 1,000 workers in 1900.", "The town hall was built in 1928 in neoclassical style.", "Wierden is located 10 km east of Almelo."],
     },
+    image: "/poi-images/netherlands-wierden-cities-v2.webp",
   },
   {
     id: "netherlands-ijsselstein-cities-v2",
@@ -1473,6 +1518,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["IJsselstein a primit drepturi de oraș în 1335.", "Turnul bisericii IJsselsteinse are 62 m înălțime.", "Castelul IJsselstein a fost menționat pentru prima dată în 1395.", "Orașul are aproximativ 34.000 de locuitori.", "Distanța până la Utrecht este de 15 km.", "Gara IJsselstein a fost deschisă în 1865."],
       en: ["IJsselstein received city rights in 1335.", "The IJsselsteinse Kerk tower is 62 m high.", "IJsselstein Castle was first mentioned in 1395.", "The city has about 34,000 inhabitants.", "Distance to Utrecht is 15 km.", "IJsselstein railway station opened in 1865."],
     },
+    image: "/poi-images/netherlands-ijsselstein-cities-v2.webp",
   },
   {
     id: "netherlands-boxmeer-cities-v2",
@@ -1505,6 +1551,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Castelul Boxmeer găzduiește astăzi un muzeu și o comunitate religioasă.", "Maasheggen este cel mai vechi peisaj agricol din țară, protejat de UNESCO.", "Procesiunea 'Vaart' este una dintre cele mai vechi tradiții religioase active.", "Găzduiește 'Daags na de Tour', prima cursă de ciclism după Turul Franței.", "Orașul a fost o enclavă catolică independentă în timpul Republicii Olandeze.", "Populația localității principale este de aproximativ 12.000 de locuitori."],
       en: ["Boxmeer Castle is situated on a former island in an old branch of the Maas.", "Famous for the 'Vaart van Boxmeer', a religious procession held since 1400.", "The Maasheggen landscape is the only UNESCO Biosphere Reserve in NL.", "Historically, Boxmeer was an independent Lordship with its own sovereignty.", "Hosts the 'Daags na de Tour', a major pro-cycling criterium after the Tour de France.", "Home to the Basilica of St. Peter, featuring a notable historic organ."],
     },
+    image: "/poi-images/netherlands-boxmeer-cities-v2.webp",
   },
   {
     id: "netherlands-ommen-cities-v2",
@@ -1537,6 +1584,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Ommen a primit drepturi de oraș în 1248.", "Castelul Eerde datează din 1615.", "Orașul are aproximativ 12.000 de locuitori.", "Râul Vecht are o lungime de 167 km la Ommen.", "Parcul Național Sallandse Heuvelrug se întinde pe 2.700 de hectare.", "Ommerlanden este o rezervație naturală de 1.000 ha."],
       en: ["Ommen received city rights in 1248.", "Eerde Castle dates from 1615.", "The city has about 12,000 inhabitants.", "The Vecht River is 167 km long at Ommen.", "Sallandse Heuvelrug National Park covers 2,700 hectares.", "Ommerlanden is a 1,000 ha nature reserve."],
     },
+    image: "/poi-images/netherlands-ommen-cities-v2.webp",
   },
   {
     id: "netherlands-heerenveen-cities-v2",
@@ -1569,6 +1617,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Heerenveen a primit drepturi de oraș în 1551.", "Thialf a fost deschis în 1967, având 12.500 de locuri.", "Orașul are aproximativ 50.000 de locuitori.", "Galeria Het Depot a fost deschisă în 2003.", "Heerenveen este situat pe canalul Schoterlandse Compagnonsvaart.", "Gara Heerenveen a fost deschisă în 1868."],
       en: ["Heerenveen received city rights in 1551.", "Thialf opened in 1967 with 12,500 seats.", "The city has about 50,000 inhabitants.", "The Beeldengalerij Het Depot opened in 2003.", "Heerenveen lies on the Schoterlandse Compagnonsvaart canal.", "Heerenveen railway station opened in 1868."],
     },
+    image: "/poi-images/netherlands-heerenveen-cities-v2.webp",
   },
   {
     id: "netherlands-bodegraven-cities-v2",
@@ -1601,6 +1650,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Este un nod central pentru distribuția brânzeturilor Gouda și Leiden.", "Râul Oude Rijn, care traversează orașul, a fost granița Imperiului Roman.", "Găzduiește Muzeul Brânzei, ilustrând tradiția locală de secole.", "Berăria De Molen, situată într-o moară istorică, este celebră internațional.", "Orașul a fost distrus aproape complet de trupele franceze în 1672.", "Populația actuală este de aproximativ 20.000 de locuitori."],
       en: ["A major global logistics hub for the storage and trade of Gouda cheese.", "Positioned on the Oude Rijn river, the former northern border of the Roman Empire.", "Home to the Kaasmuseum, showcasing the history of regional dairy farming.", "The world-renowned 'De Molen' craft brewery is based in a local windmill.", "Nearly entirely destroyed by French forces during the 'Disaster Year' of 1672.", "Strategically located between the four largest cities of the Randstad."],
     },
+    image: "/poi-images/netherlands-bodegraven-cities-v2.webp",
   },
   {
     id: "netherlands-lochem-cities-v2",
@@ -1633,6 +1683,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Lochem a primit drepturi de oraș în 1233.", "Biserica Grote of Sint-Gudulakerk a fost construită în secolul al XIII-lea.", "Orașul are aproximativ 27.000 de locuitori.", "Râul Berkel are 114 km lungime.", "Castelul Ampsen datează din secolul al XIV-lea.", "Lochem se află la 15 km sud-est de Zutphen."],
       en: ["Lochem received city rights in 1233.", "The Grote of Sint-Gudulakerk was built in the 13th century.", "The city has about 27,000 inhabitants.", "The Berkel River is 114 km long.", "Ampsen Castle dates from the 14th century.", "Lochem is 15 km southeast of Zutphen."],
     },
+    image: "/poi-images/netherlands-lochem-cities-v2.webp",
   },
   {
     id: "netherlands-apeldoorn-north-cities-v2",
@@ -1665,6 +1716,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Vaassen este menționat pentru prima dată în 1247.", "Castelul Cannenburch a fost construit în 1540.", "Populația este de aproximativ 10.000 de locuitori.", "Moara de hârtie De Schoolmeester datează din secolul al XVII-lea.", "Vaassen se află la 5 km vest de Apeldoorn.", "Veluwe se întinde pe 1.100 km²."],
       en: ["Vaassen was first mentioned in 1247.", "Cannenburch Castle was built in 1540.", "Population is about 10,000.", "The De Schoolmeester paper mill dates from the 17th century.", "Vaassen is 5 km west of Apeldoorn.", "The Veluwe covers 1,100 km²."],
     },
+    image: "/poi-images/netherlands-apeldoorn-north-cities-v2.webp",
   },
   {
     id: "netherlands-ridderkerk-cities-v2",
@@ -1697,6 +1749,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Ridderkerk a primit drepturi de oraș în 1854.", "Orașul are aproximativ 45.000 de locuitori.", "Portul Ridderkerk a manipulat peste 5 milioane de tone în 2020.", "Primăria a fost construită în 1902 în stil neoclasic.", "Ridderkerk este situat pe râul Noord.", "Șantierul naval Damen Shipyards are o locație în Ridderkerk."],
       en: ["Ridderkerk received city rights in 1854.", "The city has about 45,000 inhabitants.", "The port of Ridderkerk handled over 5 million tonnes in 2020.", "The town hall was built in 1902 in neoclassical style.", "Ridderkerk lies on the Noord River.", "Damen Shipyards has a location in Ridderkerk."],
     },
+    image: "/poi-images/netherlands-ridderkerk-cities-v2.webp",
   },
   {
     id: "netherlands-coevorden-cities-v2",
@@ -1729,6 +1782,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Găzduiește singurul castel medieval din provincia Drenthe, datând din secolul XI.", "Planul orașului în formă de stea cu șapte brațe este încă vizibil astăzi.", "Numele se traduce prin 'vadul vacilor', indicând un punct de trecere istoric.", "Orașul Vancouver din Canada este numit după George Vancouver, originar de aici.", "A fost eliberat spectaculos de sub ocupația münstereză în 1672.", "Este un centru major pentru industria prelucrării cartofilor și logisticii."],
       en: ["Features the only castle in the province of Drenthe, rebuilt in the 15th century.", "The city layout was redesigned into a perfect seven-pointed star fortress in 1605.", "The name originates from 'Cow Ford', a crossing point for cattle through marshes.", "The city of Vancouver, Canada, shares its name with a noble family from here.", "Strategically vital during the 80 Years' War as the 'Gateway to Drenthe'.", "Home to the Stedelijk Museum Coevorden, located in the historic arsenal."],
     },
+    image: "/poi-images/netherlands-coevorden-cities-v2.webp",
   },
   {
     id: "netherlands-steenwijk-cities-v2",
@@ -1761,6 +1815,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 17.000 locuitori", "Drepturi de oraș primite în 1327", "Turnul Bisericii Sf. Clement are 87 m", "Situat în provincia Overijssel", "Fost punct strategic în Războiul de 80 de ani", "Cunoscut pentru zidurile de apărare stelate"],
       en: ["Population: around 17,000 residents", "City rights granted in 1327", "St. Clemens Church tower is 87m high", "Key site during the Eighty Years' War", "Located in the province of Overijssel", "Features preserved 16th-century ramparts"],
     },
+    image: "/poi-images/netherlands-steenwijk-cities-v2.webp",
   },
   {
     id: "netherlands-oosterhout-cities-v2",
@@ -1793,6 +1848,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Oosterhout a primit drepturi de oraș în 1809.", "Bazilica Sint-Jan a fost construită în secolul al XV-lea.", "Orașul are aproximativ 55.000 de locuitori.", "Piața din Oosterhout este una dintre cele mai mari din Brabantul de Nord.", "Fabrica textilă Oosterhout angaja peste 2.000 de muncitori în 1900.", "Oosterhout se află la 10 km nord-est de Breda."],
       en: ["Oosterhout received city rights in 1809.", "The Sint-Jansbasiliek was built in the 15th century.", "The city has about 55,000 inhabitants.", "Oosterhout's market square is one of the largest in North Brabant.", "The Oosterhout textile factory employed over 2,000 workers in 1900.", "Oosterhout is 10 km northeast of Breda."],
     },
+    image: "/poi-images/netherlands-oosterhout-cities-v2.webp",
   },
   {
     id: "netherlands-valkenswaard-cities-v2",
@@ -1825,6 +1881,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Valkenswaard a primit drepturi de oraș în 1810.", "Industria de țigări angaja peste 3.000 de muncitori în 1900.", "Orașul are aproximativ 30.000 de locuitori.", "Râul Dommel are 146 km lungime.", "Valkenhorst se întinde pe 400 de hectare.", "Valkenswaard se află la 5 km de granița belgiană."],
       en: ["Valkenswaard received city rights in 1810.", "The cigar industry employed over 3,000 workers in 1900.", "The city has about 30,000 inhabitants.", "The Dommel River is 146 km long.", "Valkenhorst covers 400 hectares.", "Valkenswaard is 5 km from the Belgian border."],
     },
+    image: "/poi-images/netherlands-valkenswaard-cities-v2.webp",
   },
   {
     id: "netherlands-staphorst-cities-v2",
@@ -1857,6 +1914,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Comuna Staphorst are aproximativ 17.000 de locuitori.", "Portul popular tradițional este încă purtat de aproximativ 10% din populație.", "Comuna acoperă 87 km².", "Biserica din Staphorst a fost construită în secolul al XIII-lea.", "Cel mai înalt punct este la 2 metri deasupra nivelului mării.", "Staphorst se află la 15 km nord de Zwolle."],
       en: ["Staphorst municipality has about 17,000 inhabitants.", "Traditional costume is still worn by about 10% of the population.", "The municipality covers 87 km².", "The church in Staphorst was built in the 13th century.", "The highest point is 2 meters above sea level.", "Staphorst is 15 km north of Zwolle."],
     },
+    image: "/poi-images/netherlands-staphorst-cities-v2.webp",
   },
   {
     id: "netherlands-krimpen-aan-den-ijssel-cities-v2",
@@ -1889,6 +1947,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Krimpen aan den IJssel a primit drepturi de oraș în 1854.", "Orașul are aproximativ 29.000 de locuitori.", "Krimpenerwaard este o zonă de polder de 3.000 ha.", "Râul IJssel are aici o lățime de 200 de metri.", "Podul peste IJssel a fost construit în 1954.", "Distanța până la Rotterdam este de 10 km."],
       en: ["Krimpen aan den IJssel received city rights in 1854.", "The city has about 29,000 inhabitants.", "Krimpenerwaard is a 3,000 ha polder area.", "The IJssel River is 200 meters wide here.", "The bridge over the IJssel was built in 1954.", "Distance to Rotterdam is 10 km."],
     },
+    image: "/poi-images/netherlands-krimpen-aan-den-ijssel-cities-v2.webp",
   },
   {
     id: "netherlands-heemskerk-cities-v2",
@@ -1921,6 +1980,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Heemskerk a primit drepturi de oraș în 1854.", "Biserica H. Cyriacus en Franciscuskerk datează din secolul al XIV-lea.", "Orașul are aproximativ 39.000 de locuitori.", "Castelul Marquette a fost menționat pentru prima dată în 1270.", "Heemskerk se află la 5 km nord-vest de Haarlem.", "Gara Heemskerk a fost deschisă în 1901."],
       en: ["Heemskerk received city rights in 1854.", "The H. Cyriacus en Franciscuskerk dates from the 14th century.", "The city has about 39,000 inhabitants.", "Marquette Castle was first mentioned in 1270.", "Heemskerk is 5 km northwest of Haarlem.", "Heemskerk railway station opened in 1901."],
     },
+    image: "/poi-images/netherlands-heemskerk-cities-v2.webp",
   },
   {
     id: "netherlands-wieringermeer-cities-v2",
@@ -1953,6 +2013,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Middenmeer a fost fondat în 1934.", "Polderul Wieringermeer a fost desecat în 1930.", "Populația este de aproximativ 4.000 de locuitori.", "Comuna Wieringermeer are o suprafață de 307 km².", "Middenmeer se află la 5 m sub nivelul mării.", "Localitatea are un supermarket și o școală primară."],
       en: ["Middenmeer was founded in 1934.", "The Wieringermeerpolder was drained in 1930.", "Population is about 4,000.", "The municipality of Wieringermeer has an area of 307 km².", "Middenmeer is 5 m below sea level.", "The village has a supermarket and a primary school."],
     },
+    image: "/poi-images/netherlands-wieringermeer-cities-v2.webp",
   },
   {
     id: "netherlands-berkel-en-rodenrijs-cities-v2",
@@ -1985,6 +2046,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Face parte din comuna Lansingerland", "Populație: peste 32.000 locuitori", "Situat în provincia Olanda de Sud", "Centru major pentru horticultura în sere", "Legătură directă prin RandstadRail", "Format prin fuziunea a două sate vechi"],
       en: ["Part of Lansingerland municipality", "Population exceeds 32,000 people", "Located in the South Holland province", "Major hub for greenhouse horticulture", "Connected via RandstadRail light rail", "Historical peat harvesting region"],
     },
+    image: "/poi-images/netherlands-berkel-en-rodenrijs-cities-v2.webp",
   },
   {
     id: "netherlands-sassenheim-cities-v2",
@@ -2017,6 +2079,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Localitate în comuna Teylingen", "Găzduiește ruinele Castelului Teilingen", "Centru vital pentru industria bulbilor", "Populație: circa 15.500 locuitori", "Provincia Olanda de Sud", "Punct cheie pe traseul Bloemencorso"],
       en: ["Located in Teylingen municipality", "Features 13th-century Teilingen ruins", "Heart of the Dutch flower bulb belt", "Population: approximately 15,500", "Part of the South Holland province", "Hosts the annual Flower Parade (Bloemencorso)"],
     },
+    image: "/poi-images/netherlands-sassenheim-cities-v2.webp",
   },
   {
     id: "netherlands-leerdam-cities-v2",
@@ -2049,6 +2112,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Leerdam a primit drepturi de oraș în 1254.", "Fabrica de cristal Leerdam a fost fondată în 1786.", "Orașul are aproximativ 21.000 de locuitori.", "Biserica Grote of Sint-Janskerk datează din secolul al XV-lea.", "Râul Linge are 100 km lungime.", "Leerdam se află la 10 km est de Gorinchem."],
       en: ["Leerdam received city rights in 1254.", "The Leerdam Crystal factory was founded in 1786.", "The city has about 21,000 inhabitants.", "The Grote of Sint-Janskerk dates from the 15th century.", "The Linge River is 100 km long.", "Leerdam is 10 km east of Gorinchem."],
     },
+    image: "/poi-images/netherlands-leerdam-cities-v2.webp",
   },
   {
     id: "netherlands-epe-cities-v2",
@@ -2081,6 +2145,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Suprafața comunei: 157 km²", "Situat în provincia Gelderland", "Populație: aproximativ 15.600 (oraș)", "Acces direct la parcul natural Veluwe", "Zonă renumită pentru observarea faunei", "Centru de recreere istoric"],
       en: ["Municipality area: 157 sq km", "Located in Gelderland province", "Town population: approx. 15,600", "Known for deer and boar sightings", "Surrounded by vast heathlands", "Major eco-tourism destination"],
     },
+    image: "/poi-images/netherlands-epe-cities-v2.webp",
   },
   {
     id: "netherlands-drunen-cities-v2",
@@ -2113,6 +2178,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Drunen are aproximativ 18.000 de locuitori (2023).", "Biserica Sfântul Lambertus a fost construită în 1892, în stil neogotic.", "Suprafața localității este de aproximativ 14 km².", "Autostrada A59 trece la 5 km nord de Drunen.", "Industria de încălțăminte a dominat între 1850 și 1920.", "Heusden a fost format în 1997 prin fuziunea a trei foste comune."],
       en: ["Population of Drunen: ~18,000 (2023 estimate).", "St. Lambertus Church was built in 1892 in neo-Gothic style.", "Drunen covers an area of 14 square kilometers.", "The A59 motorway runs 5 km north of Drunen.", "Shoe manufacturing peaked between 1850 and 1920.", "Drunen became part of the municipality of Heusden in 1997."],
     },
+    image: "/poi-images/netherlands-drunen-cities-v2.webp",
   },
   {
     id: "netherlands-borculo-cities-v2",
@@ -2145,6 +2211,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Drepturi de oraș din 1375", "Lovirea de ciclon: 10 august 1925", "Găzduiește un muzeu al cristalelor", "Situat pe râul Berkel", "Provincia Gelderland", "Moară de apă istorică restaurată"],
       en: ["City rights granted in 1375", "Devastating cyclone on Aug 10, 1925", "Home to a unique Crystal Museum", "Located on the Berkel River", "Part of the Gelderland province", "Features a historic watermill"],
     },
+    image: "/poi-images/netherlands-borculo-cities-v2.webp",
   },
   {
     id: "netherlands-holten-cities-v2",
@@ -2177,6 +2244,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Cimitirul Canadian: 1.394 morminte", "Altitudinea Holterberg: 60 m", "Situat în provincia Overijssel", "Parte a comunei Rijssen-Holten", "Acces la Parcul Național Sallandse", "Gazda unui triatlon internațional"],
       en: ["Canadian Cemetery: 1,394 graves", "Holterberg elevation: 60 meters", "Located in Overijssel province", "Part of Rijssen-Holten municipality", "Gateway to Sallandse Heuvelrug Park", "Famous for international triathlon"],
     },
+    image: "/poi-images/netherlands-holten-cities-v2.webp",
   },
   {
     id: "netherlands-edam-cities-v2",
@@ -2209,6 +2277,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Piață de brânză tradițională (vară)", "Drepturi de oraș din 1357", "Situat în provincia Olanda de Nord", "Grote Kerk datează din sec. XV", "Fost centru major de șantiere navale", "Parte a comunei Edam-Volendam"],
       en: ["Famous weekly summer cheese market", "City rights granted in 1357", "Located in North Holland province", "Grote Kerk dates to the 15th century", "Historic center for shipbuilding", "Part of the Edam-Volendam municipality"],
     },
+    image: "/poi-images/netherlands-edam-cities-v2.webp",
   },
   {
     id: "netherlands-genemuiden-cities-v2",
@@ -2241,6 +2310,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Genemuiden a primit drepturi de oraș în 1275.", "Biserica Grote Kerk datează din secolul al XV-lea.", "Populația este de aproximativ 10.000 de locuitori (2023).", "Orașul este situat la confluența râului Zwartewater cu Zwarte Meer.", "Industria de covoare angajează circa 1.500 de persoane (2020).", "Portul are o adâncime de 2,5 metri."],
       en: ["Genemuiden received city rights in 1275.", "The Grote Kerk was built in the 15th century.", "Population: about 10,000 (2023 estimate).", "Genemuiden lies at the mouth of the Zwartewater river.", "The carpet industry employs roughly 1,500 workers (2020).", "The port has a depth of 2.5 meters."],
     },
+    image: "/poi-images/netherlands-genemuiden-cities-v2.webp",
   },
   {
     id: "netherlands-wieringen-cities-v2",
@@ -2273,6 +2343,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Hippolytushoef are aproximativ 4.500 de locuitori (2023).", "Digul Afsluitdijk a fost finalizat în 1932, conectând Wieringen la continent.", "Biserica Grote Kerk datează din secolul al XV-lea, stil gotic.", "Turnul bisericii are o înălțime de 55 de metri.", "Suprafața agricolă este de aproximativ 2.000 de hectare.", "Portul de agrement are 300 de locuri de acostare."],
       en: ["Hippolytushoef population: ~4,500 (2023 estimate).", "The Afsluitdijk was completed in 1932, linking Wieringen to the mainland.", "The Grote Kerk was built in the 15th century in Gothic style.", "Church tower height: 55 meters.", "Agricultural land covers about 2,000 hectares.", "The marina has 300 berths."],
     },
+    image: "/poi-images/netherlands-wieringen-cities-v2.webp",
   },
   {
     id: "netherlands-driebergen-rijsenburg-cities-v2",
@@ -2305,6 +2376,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Fuziunea localităților în 1931", "Situat în provincia Utrecht", "Centru pentru Frații Moravi", "Comuna Utrechtse Heuvelrug", "Populație: aproximativ 18.500", "Castelul Sparrendaal din sec. XVIII"],
       en: ["Merged into one town in 1931", "Located in the Utrecht province", "Home to the Moravian Brethren", "Part of Utrechtse Heuvelrug municipality", "Population: approx. 18,500 residents", "Features historic Sparrendaal estate"],
     },
+    image: "/poi-images/netherlands-driebergen-rijsenburg-cities-v2.webp",
   },
   {
     id: "netherlands-raalte-cities-v2",
@@ -2337,6 +2409,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Centrul regiunii Salland", "Festivalul Stöppelhaene din 1951", "Găzduiește un muzeu moto american", "Bazilica Înălțarea Sfintei Cruci", "Populație: aproximativ 20.000", "Situat în provincia Overijssel"],
       en: ["Heart of the Salland region", "Stöppelhaene festival since 1951", "Home to the American Motorcycle Museum", "Features the Basilica of the Holy Cross", "Population: around 20,000 residents", "Located in Overijssel province"],
     },
+    image: "/poi-images/netherlands-raalte-cities-v2.webp",
   },
   {
     id: "netherlands-waddinxveen-cities-v2",
@@ -2369,6 +2442,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Waddinxveen are aproximativ 28.500 de locuitori (2023).", "Biserica Oude Kerk a fost construită în secolul al XVI-lea.", "Waddinxveen este situat la aproximativ 5 metri sub nivelul mării.", "Suprafața municipalității este de 30 km².", "Gara Waddinxveen a fost deschisă în 1870.", "Rezervația naturală 't Weegje are 40 de hectare."],
       en: ["Waddinxveen population: ~28,500 (2023 estimate).", "Oude Kerk was built in the 16th century.", "Waddinxveen lies about 5 meters below sea level.", "Municipality area: 30 km².", "Waddinxveen railway station opened in 1870.", "'t Weegje nature reserve covers 40 hectares."],
     },
+    image: "/poi-images/netherlands-waddinxveen-cities-v2.webp",
   },
   {
     id: "netherlands-oegstgeest-cities-v2",
@@ -2401,6 +2475,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Gazda muzeului interactiv Corpus", "Una dintre cele mai bogate comune", "Atestat documentar din sec. X", "Situat în provincia Olanda de Sud", "Populație: peste 25.000 locuitori", "Castelul Oud-Poelgeest din sec. XVII"],
       en: ["Site of the Corpus Museum", "Consistently ranked as a top wealthy town", "Mentioned as early as the 10th century", "Located in South Holland province", "Population: approx. 25,000 people", "Home to Castle Oud-Poelgeest"],
     },
+    image: "/poi-images/netherlands-oegstgeest-cities-v2.webp",
   },
   {
     id: "netherlands-druten-cities-v2",
@@ -2433,6 +2508,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Situat pe malul râului Waal", "Centrul zonei Maas en Waal", "Biserica Sf. Ewalden (stil Cuypers)", "Populație: aproximativ 12.500", "Găzduiește festivalul Dickens Day", "Situat în provincia Gelderland"],
       en: ["Located on the Waal River", "Regional hub of Maas en Waal", "Features St. Ewalden Church (by Cuypers)", "Town population: approx. 12,500", "Known for the annual Dickens Day", "Part of the Gelderland province"],
     },
+    image: "/poi-images/netherlands-druten-cities-v2.webp",
   },
   {
     id: "netherlands-renkum-cities-v2",
@@ -2465,6 +2541,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Situat pe cursul Nederrijn", "Centru istoric al industriei hârtiei", "Sit major al Operațiunii Market Garden", "Populație: aproximativ 9.200 (oraș)", "Parte a comunei Renkum", "Provincia Gelderland"],
       en: ["Located on the Lower Rhine", "Historical center for paper industry", "Major landing site for Operation Market Garden", "Town population: around 9,200", "Part of Renkum municipality", "Situated in Gelderland province"],
     },
+    image: "/poi-images/netherlands-renkum-cities-v2.webp",
   },
   {
     id: "netherlands-lemmer-cities-v2",
@@ -2497,6 +2574,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Stația Wouda (Patrimoniu UNESCO)", "Port principal la IJsselmeer", "Situat în provincia Frizia", "Populație: circa 10.300 locuitori", "Comuna De Fryske Marren", "Faimos pentru turismul nautic"],
       en: ["Wouda Steam Pumping Station (UNESCO)", "Key gateway to the Frisian Lakes", "Located in Friesland province", "Population: approx. 10,300", "Part of De Fryske Marren municipality", "Former prominent fishing village"],
     },
+    image: "/poi-images/netherlands-lemmer-cities-v2.webp",
   },
   {
     id: "netherlands-delfzijl-cities-v2",
@@ -2529,6 +2607,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Al 5-lea port maritim al țării", "Situat la gura de vărsare a Ems", "Populație: aproximativ 15.300", "Centru major pentru aluminiu și chimie", "Provincia Groningen", "Parte a comunei Eemsdelta"],
       en: ["Fifth largest seaport in the country", "Located on the Ems estuary", "Town population: around 15,300", "Major chemical and aluminum industry", "Part of the Groningen province", "Member of Eemsdelta municipality"],
     },
+    image: "/poi-images/netherlands-delfzijl-cities-v2.webp",
   },
   {
     id: "netherlands-heilo-cities-v2",
@@ -2561,6 +2640,7 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Numele tradus: 'Pădurea Sfântă'", "Sanctuarul Onze Lieve Vrouw ter Nood", "Situat în provincia Olanda de Nord", "Populație: aproximativ 24.000", "Acces feroviar Alkmaar-Haarlem", "Găzduiește domeniul istoric Nijenburg"],
       en: ["Name translates to 'Holy Forest'", "Major shrine: Our Lady of Ter Nood", "Located in North Holland province", "Population: approx. 24,000 residents", "Strategic stop on Alkmaar-Haarlem rail", "Features the Nijenburg estate"],
     },
+    image: "/poi-images/netherlands-heilo-cities-v2.webp",
   },
   {
     id: "netherlands-oldenzaal-cities-v2",
@@ -2593,5 +2673,6 @@ export const netherlandsCitiesV2: POI[] = [
       ro: ["Cel mai vechi oraș din Twente", "Bazilica Sf. Plechelmus din sec. XII", "Capitala carnavalului din estul țării", "Drepturi de oraș din 1249", "Populație: peste 31.800 locuitori", "Situat în provincia Overijssel"],
       en: ["Oldest city in the Twente region", "St. Plechelmus Basilica dates to 1150", "Known as the Carnival city of the East", "City rights granted in 1249", "Population: approx. 31,800 residents", "Located in the Overijssel province"],
     },
+    image: "/poi-images/netherlands-oldenzaal-cities-v2.webp",
   }
 ];

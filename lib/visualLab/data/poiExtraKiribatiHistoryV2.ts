@@ -31,6 +31,7 @@ export const kiribatiHistoryV2: POI[] = [
       ro: ["An construcție: 1942", "Material: beton armat", "Funcție: centru de comandă și comunicații", "Bătălia de la Tarawa: noiembrie 1943", "Stare actuală: degradată, dar accesibilă", "Parte a rețelei de fortificații japoneze"],
       en: ["Built in 1942", "Material: reinforced concrete", "Function: communications and command center", "Battle of Tarawa: November 1943", "Current condition: deteriorating but accessible", "Part of Japanese fortification network"],
     },
+    image: "/poi-images/kiribati-betio-command-post-history-v2.webp",
   },
   {
     id: "kiribati-red-beach-tarawa-history-v2",
@@ -62,6 +63,7 @@ export const kiribatiHistoryV2: POI[] = [
       ro: ["Data debarcării: 20 noiembrie 1943", "Victime în prima zi: peste 1.000 de soldați americani", "Locație: vestul Betio, Tarawa", "Apărare japoneză: buncăre, câmpuri minate", "Nume provine din codul militar", "Astăzi: sit comemorativ"],
       en: ["Landing date: 20 November 1943", "First day casualties: over 1,000 US soldiers", "Location: western Betio, Tarawa", "Japanese defenses: bunkers, minefields", "Name from military code", "Today: memorial site"],
     },
+    image: "/poi-images/kiribati-red-beach-tarawa-history-v2.webp",
   },
   {
     id: "kiribati-coast-watchers-memorial-history-v2",
@@ -93,6 +95,7 @@ export const kiribatiHistoryV2: POI[] = [
       ro: ["Anul ridicării: 1992", "Locație: Betio, Tarawa", "Material: stelă de piatră cu placă metalică", "Omagiați: observatori de coastă civili și militari", "Rol: informații în războiul din Pacific", "Risc: operațiuni în spatele liniilor inamice"],
       en: ["Erected in 1992", "Location: Betio, Tarawa", "Material: stone stele with metal plaque", "Honorees: civilian and military coast watchers", "Role: intelligence gathering in Pacific War", "Risk: operations behind enemy lines"],
     },
+    image: "/poi-images/kiribati-coast-watchers-memorial-history-v2.webp",
   },
   {
     id: "kiribati-makin-battlefield-history-v2",
@@ -124,6 +127,7 @@ export const kiribatiHistoryV2: POI[] = [
       ro: ["Bătălia: 20-23 noiembrie 1943", "Locație: Butaritari, atolul Makin", "Unități americane: Divizia 27 Infanterie", "Garnizoana japoneză: aproximativ 800 de oameni", "Victime: sute de morți", "Astăzi: rămășițe de buncăre și tunuri"],
       en: ["Battle: 20-23 November 1943", "Location: Butaritari, Makin Atoll", "US unit: 27th Infantry Division", "Japanese garrison: approx. 800 troops", "Casualties: hundreds killed", "Today: remnants of bunkers, guns"],
     },
+    image: "/poi-images/kiribati-makin-battlefield-history-v2.webp",
   },
   {
     id: "kiribati-banaba-mining-ruins-history-v2",
@@ -155,6 +159,7 @@ export const kiribatiHistoryV2: POI[] = [
       ro: ["Începutul exploatării: 1900", "Operator: British Phosphate Commission", "Sfârșitul exploatării: anii 1970", "Consecințe: strămutarea banabanilor pe insula Rabi, Fiji", "Astăzi: instalații industriale abandonate, șine, mașini", "Daune ecologice: distrugerea completă a solului"],
       en: ["Mining began: 1900", "Operator: British Phosphate Commission", "Mining ended: 1970s", "Consequence: Banaban relocation to Rabi, Fiji", "Today: abandoned industrial ruins, rails, machinery", "Environmental damage: complete topsoil removal"],
     },
+    image: "/poi-images/kiribati-banaba-mining-ruins-history-v2.webp",
   },
   {
     id: "kiribati-nikumaroro-settlement-history-v2",
@@ -186,6 +191,7 @@ export const kiribatiHistoryV2: POI[] = [
       ro: ["Fondare: anii 1890", "Scop: producție de copră", "Locuitori: muncitori gilbertezi", "Abandonare: după al Doilea Război Mondial", "Ruine: case, cimitir, biserică", "Faimă: posibil loc al prăbușirii lui Amelia Earhart (1937)"],
       en: ["Founded: 1890s", "Purpose: copra production", "Inhabitants: Gilbertese laborers", "Abandoned: after WWII", "Ruins: houses, cemetery, church", "Notoriety: possible crash site of Amelia Earhart (1937)"],
     },
+    image: "/poi-images/kiribati-nikumaroro-settlement-history-v2.webp",
   },
   {
     id: "kiribati-abemama-occupation-site-history-v2",
@@ -217,6 +223,7 @@ export const kiribatiHistoryV2: POI[] = [
       ro: ["Debarcarea japoneză: decembrie 1941", "Cucerirea americană: 1942", "Fortificații: buncăre, platforme de tunuri", "Locație: atolul Abemama", "Rol: bază pentru operațiunile din arhipelagul Gilbert", "Astăzi: rămășițe vizibile"],
       en: ["Japanese landing: December 1941", "US capture: 1942", "Fortifications: bunkers, gun emplacements", "Location: Abemama Atoll", "Role: base for Gilbert operations", "Today: remains visible"],
     },
+    image: "/poi-images/kiribati-abemama-occupation-site-history-v2.webp",
   },
   {
     id: "kiribati-tarawa-war-cemetery-history-v2",
@@ -248,6 +255,7 @@ export const kiribatiHistoryV2: POI[] = [
       ro: ["Număr de morminte: aproximativ 1.000", "Înființat: 1944", "Întreținere: Commonwealth War Graves Commission", "Locație: Betio, lângă Red Beach", "Căzuți: din Bătălia de la Tarawa (noiembrie 1943)", "Acces: public"],
       en: ["Number of graves: approximately 1,000", "Established: 1944", "Maintained by: Commonwealth War Graves Commission", "Location: Betio, near Red Beach", "Fallen from: Battle of Tarawa (Nov 1943)", "Open to public: yes"],
     },
+    image: "/poi-images/kiribati-tarawa-war-cemetery-history-v2.webp",
   },
   {
     id: "kiribati-cook-landing-kiritimati-history-v2",
@@ -279,6 +287,7 @@ export const kiribatiHistoryV2: POI[] = [
       ro: ["Data debarcării: 24 decembrie 1777", "Explorator: căpitanul James Cook", "Numele insulei: Insula Crăciunului (Christmas Island)", "Călătorie: a treia expediție în Pacific", "Ședere: câteva zile", "Astăzi: placă comemorativă"],
       en: ["Landing date: 24 December 1777", "Explorer: Captain James Cook", "Island name: Christmas Island", "Voyage: third Pacific voyage", "Stay: several days", "Today: commemorative plaque"],
     },
+    image: "/poi-images/kiribati-cook-landing-kiritimati-history-v2.webp",
   },
   {
     id: "kiribati-fanning-cable-station-history-v2",
@@ -310,6 +319,7 @@ export const kiribatiHistoryV2: POI[] = [
       ro: ["An construcție: 1902", "Operator: Pacific Cable Company", "Conexiune: Vancouver - Australia/Noua Zeelandă", "Închidere: 1963", "Componente: clădire tehnică, locuințe", "Stare: ruine degradate"],
       en: ["Built: 1902", "Operator: Pacific Cable Company", "Connection: Vancouver to Australia/New Zealand", "Closed: 1963", "Components: equipment building, staff houses", "Condition: ruined"],
     },
+    image: "/poi-images/kiribati-fanning-cable-station-history-v2.webp",
   },
   {
     id: "kiribati-butaritari-seaplane-base-history-v2",
@@ -341,6 +351,7 @@ export const kiribatiHistoryV2: POI[] = [
       ro: ["An construcție: 1942", "Utilizare: marina japoneză", "Funcție: recunoaștere, patrulare", "Cucerire americană: noiembrie 1943", "Rămășițe: platforme de beton, puncte de ancorare", "Locație: atolul Butaritari"],
       en: ["Built: 1942", "Used by: Japanese navy", "Function: reconnaissance, patrol", "US capture: November 1943", "Remnants: concrete platforms, anchor points", "Location: Butaritari Atoll"],
     },
+    image: "/poi-images/kiribati-butaritari-seaplane-base-history-v2.webp",
   },
   {
     id: "kiribati-arorae-navigational-stones-history-v2",
@@ -372,6 +383,7 @@ export const kiribatiHistoryV2: POI[] = [
       ro: ["Vârstă: câteva sute de ani (estimată)", "Funcție: ajutor de navigație", "Aranjament: în rânduri, indicând punctele cardinale", "Locație: atolul Arorae", "Cultură: navigație polineziană", "Statut: patrimoniu cultural protejat"],
       en: ["Age: several hundred years (estimated)", "Function: navigational aid", "Arrangement: rows indicating cardinal directions", "Location: Arorae Atoll", "Culture: Polynesian navigation", "Status: protected cultural heritage"],
     },
+    image: "/poi-images/kiribati-arorae-navigational-stones-history-v2.webp",
   },
   {
     id: "kiribati-bairiki-independence-site-history-v2",
@@ -403,6 +415,7 @@ export const kiribatiHistoryV2: POI[] = [
       ro: ["Data: 12 iulie 1979", "Eveniment: declararea independenței", "Locație: Bairiki, Tarawa", "Fosta putere colonială: Marea Britanie", "Utilizare actuală: terenul parlamentului", "Anual: festivități de Ziua Independenței"],
       en: ["Date: 12 July 1979", "Event: Independence declaration", "Location: Bairiki, Tarawa", "Former colonial power: United Kingdom", "Current use: parliament grounds", "Annual: Independence Day celebrations"],
     },
+    image: "/poi-images/kiribati-bairiki-independence-site-history-v2.webp",
   },
   {
     id: "kiribati-beru-traditional-maneaba-history-v2",
@@ -434,6 +447,7 @@ export const kiribatiHistoryV2: POI[] = [
       ro: ["Locație: atolul Beru", "Material: lemn, frunze de palmier, sfori naturale", "Utilizare: adunări, sărbători, dezbateri", "Semnificație culturală: centru social și politic", "Stil de construcție: tradițional, fără materiale moderne", "Stare de conservare: activ utilizat, se urmărește păstrarea"],
       en: ["Location: Beru Atoll", "Material: wood, palm leaves, natural cordage", "Usage: meetings, festivals, discussions", "Cultural significance: social and political center", "Construction: traditional, no modern materials", "Preservation status: actively used, preservation efforts ongoing"],
     },
+    image: "/poi-images/kiribati-beru-traditional-maneaba-history-v2.webp",
   },
   {
     id: "kiribati-te-animane-maneaba-history-v2",
@@ -465,5 +479,6 @@ export const kiribatiHistoryV2: POI[] = [
       ro: ["Clădirea poate găzdui până la 200 de persoane.", "Acoperișul este din frunze de pandanus.", "Suprafața de 400 m².", "Nu are pereți, doar părți laterale deschise.", "Înălțimea acoperișului este de 10 m.", "Maneaba este folosită de peste 100 de ani."],
       en: ["Capacity: up to 200 people.", "Roof made of pandanus leaves.", "Floor area: 400 m².", "No walls, only open sides.", "Roof height: 10 meters.", "Has been in use for over 100 years."],
     },
+    image: "/poi-images/kiribati-te-animane-maneaba-history-v2.webp",
   }
 ];

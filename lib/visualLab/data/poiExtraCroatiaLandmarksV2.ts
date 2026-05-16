@@ -704,6 +704,7 @@ imageHint: "Mimara Museum Zagreb exterior",
       ro: ["Construit în secolul al XIII-lea", "Deținut de familia Frankopan", "Situat pe un deal peste râul Kupa", "Trei turnuri rotunde și unul pătrat", "Restaurare majoră în 1896", "Găzduiește Muzeul Municipal"],
       en: ["Built in the 13th century", "Owned by the Frankopan family", "Set on a hill above the Kupa River", "Features three round and one square tower", "Restored in 1896", "Houses the City Museum"],
     },
+    image: "/poi-images/croatia-dubovac-castle-landmarks-v2.webp",
   },
   {
     id: "croatia-st-anastasia-cathedral-landmarks-v2",
@@ -922,6 +923,7 @@ imageHint: "Mimara Museum Zagreb exterior",
       ro: ["Inspirată de arhitectura celebrei piețe San Marco din Veneția.", "Construcția a fost demarată în 1859 de către primarul vizionar Antonio Bajamonti.", "Clădirile care înconjoară piața pe trei laturi sunt vopsite într-un roșu distinctiv.", "Găzduiește anual Festivalul de Muzică Ușoară din Split, începând cu 1960.", "Piața este deschisă spre sud, oferind acces direct către Riva și mare.", "Este considerată cea mai frumoasă piață din perioada secolului al XIX-lea din Croația."],
       en: ["Modeled after Saint Mark's Square in Venice, featuring similar arcades.", "Initiated in 1859 by Antonio Bajamonti, one of Split's most influential mayors.", "The northern side was the first part of the complex to be completed.", "Home to the renowned Split Summer Festival and the Split Music Festival.", "Characterized by its Neo-Renaissance style and distinct terracotta-red color.", "Located just west of Diocletian's Palace, connecting the old town to the waterfront."],
     },
+    image: "/poi-images/croatia-prokurative-split-landmarks-v2.webp",
   },
   {
     id: "croatia-st-stephen-cathedral-hvar-landmarks-v2",
@@ -985,5 +987,6 @@ imageHint: "Mimara Museum Zagreb exterior",
       ro: ["Construită în 1438 de arhitectul napolitan Onofrio della Cava.", "Este punctul final al unui sistem de apeducte lung de 12 kilometri.", "Dispune de 16 măști de piatră sculptate prin care curge apa potabilă.", "Cupola originală a fost distrusă în marele cutremur din anul 1667.", "Situată chiar lângă Poarta Pile, principala intrare în centrul istoric.", "Dubrovnik a fost printre primele orașe europene cu un astfel de sistem de apă."],
       en: ["Constructed in 1438 by Onofrio della Cava from Naples.", "Connected to a 12-kilometer long aqueduct bringing water from the Šumet spring.", "Features 16 distinct stone masks (maskeroni) that serve as water spouts.", "Much of its original elaborate ornamentation was lost in the earthquake of 1667.", "Located at the western end of the Stradun, opposite the St. Saviour Church.", "The water from the fountain is still potable and safe for visitors to drink."],
     },
+    image: "/poi-images/croatia-onofrios-fountain-landmarks-v2.webp",
   }
 ];

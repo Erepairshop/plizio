@@ -47,6 +47,7 @@ export const spainOtherExtra: POI[] = [
         "The volcano is currently dormant, with its last historic eruption occurring in 1909 from the El Chinyero vent."
       ]
     },
+    image: "/poi-images/ES-TEI.webp",
   }
 ];
 export default spainOtherExtra;

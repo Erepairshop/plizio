@@ -32,6 +32,7 @@ export const bulgariaNatureV2: POI[] = [
       ro: ["Fondat în anul 1991 pentru protecția masivului Balcanii Centrali.", "Patrimoniul mondial UNESCO al pădurilor de fag cuprinde 11.000 ha în parc.", "Găzduiește cascada Raysko Praskalo, cu o înălțime de 124,5 metri.", "Nouă rezervații integrate protejează zone de natură strict virgină.", "Peste 70% din suprafața parcului este acoperită de păduri, preponderent fag.", "Habitat pentru o treime din întreaga floră a Bulgariei."],
       en: ["Established in 1991 to protect the central part of the Balkan range.", "UNESCO World Heritage beech forests cover 11,000 hectares within the park.", "Home to Raysko Praskalo, the highest waterfall in the Balkans (124.5 m).", "Includes nine strictly protected reserves within its boundaries.", "Over 70% of the park's territory is covered by forests, mainly beech.", "Provides a habitat for one-third of all Bulgarian plant species."],
     },
+    image: "/poi-images/bulgaria-central-balkan-nature-v2.webp",
   },
   {
     id: "bulgaria-strandzha-nature-v2",
@@ -64,6 +65,7 @@ export const bulgariaNatureV2: POI[] = [
       ro: ["Parcul natural a fost înființat în 1995 și acoperă 1.161 de kilometri pătrați.", "Cel mai înalt punct din parc este vârful Gradishte, cu 709 metri.", "Există peste 1.500 de specii de plante în parc.", "Precipitațiile medii anuale sunt de aproximativ 700 mm.", "35 de specii de mamifere au fost înregistrate în parc.", "Temperatura medie de vară este de 22 °C."],
       en: ["The nature park was established in 1995 and covers 1,161 square kilometers.", "The highest point in the park is Gradishte peak at 709 meters.", "There are over 1,500 plant species in the park.", "Average annual rainfall is about 700 mm.", "35 mammal species have been recorded in the park.", "Average summer temperature is 22 °C."],
     },
+    image: "/poi-images/bulgaria-strandzha-nature-v2.webp",
   },
   {
     id: "bulgaria-devetashka-cave-nature-v2",
@@ -96,6 +98,7 @@ export const bulgariaNatureV2: POI[] = [
       ro: ["Peștera are o lungime de aproximativ 2.000 de metri.", "Cea mai mare cameră are 200 de metri lungime, 50 de metri lățime și 30 de metri înălțime.", "Peștera are o deschidere naturală în tavan cu un diametru de 70 de metri.", "Au fost identificate 15 specii de lilieci în peșteră.", "Temperatura din peșteră este constantă de 14 °C.", "Umiditatea este în medie de 90%."],
       en: ["The cave is about 2,000 meters long.", "The largest chamber is 200 meters long, 50 meters wide, and 30 meters high.", "The cave has a natural ceiling opening with a diameter of 70 meters.", "15 bat species have been recorded in the cave.", "The cave temperature is constant at 14 °C.", "Humidity averages 90%."],
     },
+    image: "/poi-images/bulgaria-devetashka-cave-nature-v2.webp",
   },
   {
     id: "bulgaria-osam-river-nature-v2",
@@ -128,6 +131,7 @@ export const bulgariaNatureV2: POI[] = [
       ro: ["Râul are o lungime de 314 km, fiind al șaselea cel mai lung râu din Bulgaria.", "Bazinul hidrografic al Osămului se învecinează cu bazinele râurilor Vit și Iantra.", "Debitul mediu multianual al râului la vărsare este de aproximativ 16,4 m³/s.", "Orașul Loveci, situat pe ambele maluri, este cel mai mare centru urban traversat de Osăm.", "Râul a fost numit 'Assamus' de către romani în perioada antichității.", "Confluența cu Dunărea are loc la o altitudine de doar 22 de metri deasupra nivelului mării."],
       en: ["The Osam River reaches a total length of 314 kilometers from its mountain source to the Danube.", "It is formed by the Black Osam and White Osam rivers in the central Balkan Mountains.", "The river's drainage basin encompasses 2,824 square kilometers of Bulgarian territory.", "The average annual discharge of the Osam near its mouth is approximately 16 cubic meters per second.", "The river meanders through the Danubian Plain, creating fertile soil for regional farming.", "Historically, the river was an important strategic boundary for the Roman province of Moesia."],
     },
+    image: "/poi-images/bulgaria-osam-river-nature-v2.webp",
   },
   {
     id: "bulgaria-yantra-river-nature-v2",
@@ -160,6 +164,7 @@ export const bulgariaNatureV2: POI[] = [
       ro: ["Iantra are o lungime totală de 285 km, fiind unul dintre principalele râuri din nordul țării.", "Bazinul hidrografic al râului Iantra reprezintă aproximativ 7% din suprafața Bulgariei.", "Râul traversează orașul Gabrovo, cunoscut drept capitala umorului și a satirei.", "Debitul maxim înregistrat al râului a provocat inundații istorice în secolul al XX-lea.", "Meandrele râului la Veliko Tărnovo sunt considerate un monument natural de o frumusețe rară.", "Iantra este alimentată în principal de topirea zăpezilor din Munții Balcani în timpul primăverii."],
       en: ["The Yantra River flows for 285 kilometers from the Balkan Mountains to the Danube.", "Its drainage basin covers 7,862 square kilometers, making it a significant hydrological feature.", "The river's name is derived from the ancient Thracian and Roman name 'Iatrus'.", "The river creates a unique microclimate in the deep gorges it carves through the landscape.", "Yantra is a key source of water for the industrial and agricultural sectors of North-Central Bulgaria.", "The confluence with the Danube is located at an altitude of 18 meters above sea level."],
     },
+    image: "/poi-images/bulgaria-yantra-river-nature-v2.webp",
   },
   {
     id: "bulgaria-batak-dam-nature-v2",
@@ -192,6 +197,7 @@ export const bulgariaNatureV2: POI[] = [
       ro: ["Lacul Batak este al șaselea cel mai mare lac de acumulare din Bulgaria după volum.", "Barajul are o înălțime considerabilă și este construit din materiale locale și beton.", "Altitudinea de 1.100 m face ca apa lacului să rămână rece chiar și în timpul verii.", "Zona este protejată pentru conservarea speciilor de conifere rare din jurul lacului.", "Resursa de pește este regenerată anual prin programe de repopulare controlată.", "În timpul iernii, suprafața lacului îngheață adesea, permițând activități specifice."],
       en: ["The Batak Reservoir was inaugurated in 1959 to serve the national power grid.", "It covers 22 square kilometers and holds up to 309 million cubic meters of water.", "The reservoir is situated at a high altitude of 1,107 meters in the Rhodopes.", "It provides irrigation water for the fertile Plovdiv and Pazardzhik plains.", "The surrounding 'Zhigov Chark' area is a major hub for mountain tourism in Bulgaria.", "The lake is fed by several mountain streams and the waters of the Mutnitsa River."],
     },
+    image: "/poi-images/bulgaria-batak-dam-nature-v2.webp",
   },
   {
     id: "bulgaria-kamchia-river-nature-v2",
@@ -224,6 +230,7 @@ export const bulgariaNatureV2: POI[] = [
       ro: ["Râul Kamchia are un bazin hidrografic ce acoperă o suprafață de 5.358 km².", "Rezervația UNESCO Kamchia protejează cea mai mare pădure inundabilă de la Marea Neagră.", "Sunt înregistrate peste 1.100 de specii de plante în ecosistemul râului Kamchia.", "Râul este o cale importantă de migrație pentru păsările de pe ruta Via Pontica.", "Delta râului se află la aproximativ 25 km sud de orașul port Varna.", "În apele râului trăiesc specii rare de țestoase de apă și vidre."],
       en: ["The Kamchia River spans 244 kilometers from the Balkan Mountains to the Black Sea.", "The Kamchia Biosphere Reserve was officially established in 1951 by the Bulgarian government.", "The river's 'longoz' forests are unique to the Balkan Peninsula's temperate climate.", "More than 250 bird species use the river delta as a nesting or migration stopover.", "The river basin is a primary source for the massive Ticha and Kamchia reservoirs.", "The mouth of the river features some of the widest natural beaches in Bulgaria."],
     },
+    image: "/poi-images/bulgaria-kamchia-river-nature-v2.webp",
   },
   {
     id: "bulgaria-iskar-gorge-nature-v2",
@@ -256,6 +263,7 @@ export const bulgariaNatureV2: POI[] = [
       ro: ["Defileul Iskar are o lungime de 155 km și traversează masivul muntos Stara Planina.", "Stâncile Lakatnik sunt declarate monument al naturii încă din anul 1949.", "În interiorul defileului se află Peștera Temnata Dupka, una dintre cele mai lungi din Bulgaria.", "Linia de cale ferată Sofia-Varna trece prin acest defileu, fiind o capodoperă a ingineriei.", "Mănăstirea Cerepiș a fost vizitată de celebrul scriitor bulgar Ivan Vazov, care a scris aici.", "Defileul oferă o secțiune geologică completă a depozitelor sedimentare din era Mezozoică."],
       en: ["The Iskar Gorge spans 155 kilometers, making it the longest gorge in the Balkan Peninsula.", "The river Iskar is the only one in Bulgaria that does not originate in the Balkan Mountains but crosses them.", "The Lakatnik Rocks feature vertical cliffs rising up to 250 meters above the river.", "The railway line through the gorge was a massive project completed at the end of the 19th century.", "More than 100 caves have been documented and explored within the limestone walls of the gorge.", "The area is a key part of the Vrachanski Balkan Nature Park, protecting local biodiversity."],
     },
+    image: "/poi-images/bulgaria-iskar-gorge-nature-v2.webp",
   },
   {
     id: "bulgaria-vracha-karst-nature-v2",
@@ -288,6 +296,7 @@ export const bulgariaNatureV2: POI[] = [
       ro: ["Pereții de calcar din zona Vrațata au o înălțime verticală de peste 400 de metri.", "Peștera Ledenika este prima peșteră din Bulgaria deschisă pentru turismul de masă în 1961.", "Rezervația găzduiește floarea-reginei (edelweiss) pe versanții săi cei mai abrupți.", "Peste 500 de peșteri fac din acest carst unul dintre cele mai dens explorate din țară.", "Cascada Skaklya din apropiere are o cădere liberă de 141 de metri, fiind activă primăvara.", "Regiunea este inclusă în rețeaua europeană Natura 2000 pentru protecția biodiversității."],
       en: ["The 'Vratsata' pass rocks reach a height of 400 meters, the highest in the Balkans.", "Ledenika Cave features a unique concert hall chamber with exceptional acoustics.", "The Vrachanski Balkan Nature Park protects over 1,000 vascular plant species.", "The area offers over 400 climbing routes, attracting international athletes every year.", "The karst terrain is responsible for supplying the largest karst spring in Bulgaria, Glavna.", "The rocks here were formed from the accumulation of marine organisms 150 million years ago."],
     },
+    image: "/poi-images/bulgaria-vracha-karst-nature-v2.webp",
   },
   {
     id: "bulgaria-rosen-mountain-nature-v2",
@@ -320,6 +329,7 @@ export const bulgariaNatureV2: POI[] = [
       ro: ["Vârful Rossen, la 367 m, este cea mai înaltă cotă a acestui lanț muntos de coastă.", "Minele de cupru din Rosen au fost printre cele mai mari din Bulgaria în secolul XX.", "Zona oferă o vizibilitate excelentă asupra întregului port Burgas și a rafinăriei Neftochim.", "Rossen Bair este considerat un punct strategic de observație încă din perioada otomană.", "Pantele sudice sunt acoperite de podgorii care beneficiază de influența marină.", "În regiune au fost identificate situri funerare thrace sub formă de tumuli."],
       en: ["The highest elevation in the range is Mount Rosen at 367 meters above sea level.", "Copper mining in the Rosen area dates back to the late Bronze Age (around 1500 BC).", "The ridge serves as a natural barrier between the coastal lowlands and the interior.", "The geological formation consists primarily of ancient volcanic and sedimentary rocks.", "The Rosen Mountains are a significant stopover for migratory birds on the Via Pontica route.", "The area is home to the 'Rossen' mining village, which was vital for the local economy."],
     },
+    image: "/poi-images/bulgaria-rosen-mountain-nature-v2.webp",
   },
   {
     id: "bulgaria-tundzha-river-nature-v2",
@@ -352,6 +362,7 @@ export const bulgariaNatureV2: POI[] = [
       ro: ["Tundja este al patrulea cel mai lung râu din Bulgaria după Dunăre, Iskar și Marița.", "Bazinul hidrografic al râului acoperă părți din Bulgaria și Turcia.", "Debitul mediu al râului crește semnificativ după confluența cu afluentul Mociaurița.", "Rezervația naturală 'Gorna Topciia' protejează pădurile de luncă de pe malul Tundjei.", "În apropierea râului se află orașul antic Cabyle, un centru important al Thraciei.", "Tundja alimentează lacul de acumulare Jrebcevo, important pentru rețeaua energetică."],
       en: ["The Tundzha River reaches a total length of 390 kilometers, with 350 km in Bulgaria.", "It starts its journey at an altitude of 2,083 meters near the highest peak of the Balkans.", "The river's average discharge near the Turkish border is about 39 cubic meters per second.", "The city of Yambol is the largest urban center located directly on the Tundzha.", "Large-scale irrigation systems built in the 20th century depend on Tundzha's water.", "The river is a major habitat for the European otter and several rare fish species."],
     },
+    image: "/poi-images/bulgaria-tundzha-river-nature-v2.webp",
   },
   {
     id: "bulgaria-mesta-river-nature-v2",
@@ -384,6 +395,7 @@ export const bulgariaNatureV2: POI[] = [
       ro: ["Mesta are cel mai mare bazin hidrografic dintre râurile care izvorăsc din Rila și curg spre sud.", "În Grecia, râul Nestos este renumit pentru canionul său spectaculos.", "Altitudinea medie a bazinului râului Mesta este de 1.318 metri.", "Râul este alimentat de peste 25 de afluenți mici pe teritoriul Bulgariei.", "Valea Mestei găzduiește numeroase izvoare minerale termale, precum cele de la Bania.", "Sectorul Momina Klisura oferă unele dintre cele mai dificile secțiuni de rafting din țară."],
       en: ["The Mesta River covers 126 kilometers in Bulgaria before entering Greece.", "Its source is located at an elevation of 2,240 meters in the high Rila Mountains.", "The river is the primary hydrological feature of the Razlog and Gotse Delchev valleys.", "The Mesta valley is a vital corridor for bird migration between Europe and Africa.", "Historically, the river was the border between several ancient administrative regions.", "The river basin includes parts of the Pirin National Park, a UNESCO World Heritage site."],
     },
+    image: "/poi-images/bulgaria-mesta-river-nature-v2.webp",
   },
   {
     id: "bulgaria-armin-river-nature-v2",
@@ -416,6 +428,7 @@ export const bulgariaNatureV2: POI[] = [
       ro: ["Lungimea totală a râului este de 290 de kilometri.", "Secțiunea bulgară a cursului măsoară 241 de kilometri.", "Izvorul se află la o altitudine de 1455 de metri în Munții Rodopi.", "Râul alimentează trei mari baraje hidroelectrice în Bulgaria.", "Podul Diavolului de lângă Ardino a fost finalizat în anul 1515.", "Arda se varsă în râul Marița pe teritoriul Turciei, lângă Edirne."],
       en: ["The total length of the Arda River is 290 kilometers.", "Approximately 241 kilometers of the river flow within Bulgaria.", "The river originates at an altitude of 1,455 meters above sea level.", "It features a system of three major hydroelectric reservoirs.", "The medieval Devil's Bridge was constructed in 1515.", "The river merges with the Maritsa River near the city of Edirne."],
     },
+    image: "/poi-images/bulgaria-armin-river-nature-v2.webp",
   },
   {
     id: "bulgaria-vitosha-peak-nature-v2",
@@ -448,6 +461,7 @@ export const bulgariaNatureV2: POI[] = [
       ro: ["Cherni Vrah are o altitudine de 2.290 de metri.", "Stația meteorologică a fost construită în 1935.", "Parcul Natural Vitosha a fost înființat în 1934, fiind cel mai vechi din Bulgaria.", "Temperatura medie pe vârf este de -1 °C în ianuarie și 10 °C în iulie.", "Precipitațiile medii anuale pe vârf sunt de aproximativ 1.000 mm.", "Traseele marcate către vârf au o lungime totală de peste 20 de kilometri."],
       en: ["Cherni Vrah is 2,290 meters high.", "The meteorological station was built in 1935.", "Vitosha Nature Park was established in 1934, the oldest in Bulgaria.", "Average temperature on the summit is -1 °C in January and 10 °C in July.", "Annual precipitation on the summit is about 1,000 mm.", "Marked hiking trails to the summit total over 20 kilometers in length."],
     },
+    image: "/poi-images/bulgaria-vitosha-peak-nature-v2.webp",
   },
   {
     id: "bulgaria-pirin-peaks-nature-v2",
@@ -480,6 +494,7 @@ export const bulgariaNatureV2: POI[] = [
       ro: ["Vârful Vihren este al doilea cel mai înalt din Bulgaria, având 2914 metri.", "Parcul Național Pirin a fost inclus în patrimoniul UNESCO în 1983.", "Există 186 de lacuri glaciare distribuite pe tot masivul.", "Pinul lui Baikușev are o înălțime de 26 de metri și peste 1300 de ani.", "Creasta Koncheto este protejată cu cabluri metalice pentru siguranța turiștilor.", "Peste 60 de vârfuri din acest masiv depășesc altitudinea de 2500 de metri."],
       en: ["Vihren Peak is the highest in Pirin at 2,914 meters above sea level.", "Pirin National Park was designated a UNESCO World Heritage site in 1983.", "The mountain range contains a total of 186 glacial lakes.", "Baykushev's Pine is the oldest coniferous tree in Bulgaria at 1,300 years.", "The Koncheto ridge is just 50 centimeters wide at its narrowest point.", "More than 60 peaks in the Pirin range exceed 2,500 meters in height."],
     },
+    image: "/poi-images/bulgaria-pirin-peaks-nature-v2.webp",
   },
   {
     id: "bulgaria-maritsa-river-nature-v2",
@@ -512,6 +527,7 @@ export const bulgariaNatureV2: POI[] = [
       ro: ["Marița are o lungime totală de 480 de kilometri.", "Izvorul râului se află la o altitudine de 2378 de metri în Rila.", "Pe teritoriul Bulgariei, râul parcurge 322 de kilometri.", "Numele antic al râului era Hebros, fiind menționat de Herodot.", "Marița se varsă în Marea Egee formând o deltă întinsă.", "Bazinul hidrografic al râului acoperă o suprafață de 53.000 km²."],
       en: ["The Maritsa River flows for a total of 480 kilometers.", "It originates at an elevation of 2,378 meters in the Rila Mountains.", "A stretch of 322 kilometers of the river is within Bulgarian borders.", "In ancient times, the river was famously known as the Hebrus.", "The river flows into the Aegean Sea near the Turkish town of Enez.", "The total drainage basin of the Maritsa covers 53,000 square kilometers."],
     },
+    image: "/poi-images/bulgaria-maritsa-river-nature-v2.webp",
   },
   {
     id: "bulgaria-struma-river-nature-v2",
@@ -544,6 +560,7 @@ export const bulgariaNatureV2: POI[] = [
       ro: ["Lungimea totală a râului Struma este de 415 kilometri.", "Izvorul se află la o altitudine de 2180 de metri în masivul Vitosha.", "Pe teritoriul Bulgariei, râul parcurge aproximativ 290 de kilometri.", "Defileul Kresna are o lungime de peste 17 kilometri.", "Râul se varsă în Marea Egee, în Golful Strymonic.", "Bazinul Struma este principala zonă de cultivare a tutunului din regiune."],
       en: ["The total length of the Struma River is 415 kilometers.", "The river originates at 2,180 meters on the slopes of Vitosha.", "Approximately 290 kilometers of its course are located in Bulgaria.", "The Kresna Gorge is a protected area over 17 kilometers long.", "The Struma flows into the Strymonic Gulf near Amphipolis.", "It provides irrigation for some of the most fertile lands in Bulgaria."],
     },
+    image: "/poi-images/bulgaria-struma-river-nature-v2.webp",
   },
   {
     id: "bulgaria-krushuna-waterfalls-nature-v2",
@@ -576,6 +593,7 @@ export const bulgariaNatureV2: POI[] = [
       ro: ["Cea mai înaltă cascadă are 15 metri înălțime.", "Temperatura apei este constantă pe tot parcursul anului, în jur de 8-10 °C.", "Cascadele sunt formate din 8 trepte în total.", "Numărul anual de vizitatori depășește 100.000.", "Pădurile din jur adăpostesc peste 200 de specii de plante.", "Peșterile din apropiere au o temperatură constantă de 12 °C."],
       en: ["The highest cascade is 15 meters tall.", "Water temperature is around 8-10 °C year-round.", "The waterfalls consist of 8 steps in total.", "Annual visitor numbers exceed 100,000.", "The surrounding forests host over 200 plant species.", "Nearby caves have a constant temperature of 12 °C."],
     },
+    image: "/poi-images/bulgaria-krushuna-waterfalls-nature-v2.webp",
   },
   {
     id: "bulgaria-devin-springs-nature-v2",
@@ -608,5 +626,6 @@ export const bulgariaNatureV2: POI[] = [
       ro: ["Temperatura apei izvoarelor este cuprinsă între 34 °C și 40 °C.", "Debitul zilnic este de aproximativ 2 milioane de litri.", "Conținutul de minerale este de aproximativ 3 grame pe litru.", "Devin este situat la o altitudine de 700 de metri deasupra nivelului mării.", "Orașul are aproximativ 6.500 de locuitori.", "Balneoterapia la Devin a început în anii 1950."],
       en: ["The water temperature of the springs ranges from 34°C to 40°C.", "Daily discharge is about 2 million liters.", "Mineral content is approximately 3 grams per liter.", "Devin is situated at an altitude of 700 meters above sea level.", "The town has about 6,500 inhabitants.", "Balneotherapy in Devin began in the 1950s."],
     },
+    image: "/poi-images/bulgaria-devin-springs-nature-v2.webp",
   }
 ];

@@ -31,6 +31,7 @@ export const malawiEconomicV2: POI[] = [
       ro: ["Deschisă: 2009", "Producție anuală: 1.500 tone U3O8", "Angajați: 1.000", "Închisă: 2014", "Licență valabilă până: 2029", "Investiție totală: 250 milioane USD"],
       en: ["Opened: 2009", "Peak annual production: 1,500 tonnes U3O8", "Closed: 2014", "Workforce: 1,000", "Investment: US$250 million", "Mining licence expiry: 2029"],
     },
+    image: "/poi-images/malawi-kayelekera-mine-economic-v2.webp",
   },
   {
     id: "malawi-mchenga-coal-mine-economic-v2",
@@ -62,6 +63,7 @@ export const malawiEconomicV2: POI[] = [
       ro: ["Producție anuală: 100.000 tone", "Rezerve: 15 milioane tone", "Angajați: 300", "Adâncimea puțurilor: 100 m", "Putere calorică: 25 MJ/kg", "Deschisă: 1983"],
       en: ["Annual production: 100,000 tonnes", "Proven reserves: 15 million tonnes", "Workforce: 300", "Mining depth: 100 metres", "Calorific value: 25 MJ/kg", "Opened: 1980s"],
     },
+    image: "/poi-images/malawi-mchenga-coal-mine-economic-v2.webp",
   },
   {
     id: "malawi-nchalo-sugar-estate-economic-v2",
@@ -93,6 +95,7 @@ export const malawiEconomicV2: POI[] = [
       ro: ["Suprafața: 6.000 ha", "Producție anuală: 150.000 tone", "Fondată: 1965", "Angajați sezonieri: 5.000", "Irigație prin inundare", "Proprietar: Illovo Sugar Malawi"],
       en: ["Area: 6,000 hectares", "Annual sugar production: 150,000 tonnes", "Founded: 1965", "Seasonal workers: 5,000", "Irrigation: flood from Shire River", "Owner: Illovo Sugar Malawi"],
     },
+    image: "/poi-images/malawi-nchalo-sugar-estate-economic-v2.webp",
   },
   {
     id: "malawi-dwangwa-sugar-estate-economic-v2",
@@ -124,6 +127,7 @@ export const malawiEconomicV2: POI[] = [
       ro: ["Suprafața: 5.000 ha", "Producție anuală: 120.000 tone", "Fondată: 1977", "Angajați sezonieri: 3.500", "Rafinărie proprie", "Export în UE"],
       en: ["Area: 5,000 hectares", "Annual production: 120,000 tonnes", "Founded: 1977", "Seasonal workers: 3,500", "Refinery capacity: 150,000 tonnes/year", "Export markets: European Union"],
     },
+    image: "/poi-images/malawi-dwangwa-sugar-estate-economic-v2.webp",
   },
   {
     id: "malawi-satemwa-tea-estate-economic-v2",
@@ -155,6 +159,7 @@ export const malawiEconomicV2: POI[] = [
       ro: ["Fondată: 1922", "Suprafața: 1.000 ha", "Producție anuală: 2.500 tone", "Altitudine: 1.000 m", "Angajați: 1.500", "Certificare organică: parțială"],
       en: ["Founded: 1922", "Area: 1,000 hectares", "Annual production: 2,500 tonnes", "Elevation: 1,000 metres", "Workforce: 1,500", "Organic certification: since 2010"],
     },
+    image: "/poi-images/malawi-satemwa-tea-estate-economic-v2.webp",
   },
   {
     id: "malawi-lujeri-tea-estate-economic-v2",
@@ -186,6 +191,7 @@ export const malawiEconomicV2: POI[] = [
       ro: ["Fondată în jurul anului 1904.", "Situată în districtul Mulanje.", "Procesează anual peste 8.000 de tone de ceai.", "Folosește energia hidroelectrică pentru electricitate.", "Angajează mii de lucrători locali.", "Malawi este al doilea producător de ceai din Africa."],
       en: ["Founded around 1904.", "Located in the Mulanje District.", "Processes over 8,000 tonnes of tea annually.", "Uses hydroelectric power for energy.", "Employs thousands of local workers.", "Malawi is Africa's second-largest tea producer."],
     },
+    image: "/poi-images/malawi-lujeri-tea-estate-economic-v2.webp",
   },
   {
     id: "malawi-makata-industrial-area-economic-v2",
@@ -217,6 +223,7 @@ export const malawiEconomicV2: POI[] = [
       ro: ["Dezvoltată în: 1960", "Numărul fabricilor: peste 50", "Angajați: aproximativ 10.000", "Suprafață: 5 km²", "Sector principal: textile", "Drumuri interioare: 20 km"],
       en: ["Developed: 1960s", "Number of factories: over 50", "Employment: ~10,000", "Area: 5 km²", "Key industries: textiles, beverages", "Location: northern Blantyre"],
     },
+    image: "/poi-images/malawi-makata-industrial-area-economic-v2.webp",
   },
   {
     id: "malawi-kanengo-industrial-area-economic-v2",
@@ -248,6 +255,7 @@ export const malawiEconomicV2: POI[] = [
       ro: ["Dezvoltat în: anii 1970", "Suprafață: 3 km²", "Licitații de tutun: 50 milioane kg anual", "Angajați: 5.000", "Industria principală: tutunul", "Fabrici de îngrășăminte: 1"],
       en: ["Developed: 1970s", "Area: 3 km²", "Tobacco auction volume: 50 million kg/year", "Employment: 5,000", "Main sector: tobacco processing", "Fertilizer plant: capacity 100,000 tonnes"],
     },
+    image: "/poi-images/malawi-kanengo-industrial-area-economic-v2.webp",
   },
   {
     id: "malawi-mapeto-textile-mill-economic-v2",
@@ -279,6 +287,7 @@ export const malawiEconomicV2: POI[] = [
       ro: ["Fondată: 1984", "Capacitate: 10 milioane metri/an", "Angajați: 1.200", "Rata de utilizare: 60%", "Consum de bumbac: 5.000 tone/an", "Export: țări din Africa de Sud"],
       en: ["Founded: 1984", "Annual capacity: 10 million metres", "Workforce: 1,200", "Capacity utilisation: 60%", "Cotton sourcing: 80% local", "Export markets: South Africa, Mozambique"],
     },
+    image: "/poi-images/malawi-mapeto-textile-mill-economic-v2.webp",
   },
   {
     id: "malawi-castel-brewery-economic-v2",
@@ -310,6 +319,7 @@ export const malawiEconomicV2: POI[] = [
       ro: ["Fondată: 1968", "Producție anuală: 1 milion hectolitri", "Angajați: 500", "Cota de piață: 80%", "Mărci: Carlsberg, Castel, Malawi", "Locație: Blantyre"],
       en: ["Founded: 1968", "Annual production: 1 million hectolitres", "Employees: 500", "Market share: 80%", "Brands: Carlsberg, Castel Lager, Malawi Lager", "Owned by: Castel Group"],
     },
+    image: "/poi-images/malawi-castel-brewery-economic-v2.webp",
   },
   {
     id: "malawi-nkula-falls-power-station-economic-v2",
@@ -341,6 +351,7 @@ export const malawiEconomicV2: POI[] = [
       ro: ["Punere în funcțiune: 1966", "Capacitate: 132 MW", "Nkula A: 24 MW", "Nkula B: 108 MW", "Operator: EGENCO", "Cădere: 100 m"],
       en: ["Commissioned: 1966", "Capacity: 132 MW", "Nkula A: 24 MW (1966)", "Nkula B: 108 MW (1982)", "Operator: EGENCO", "River drop: 100 metres"],
     },
+    image: "/poi-images/malawi-nkula-falls-power-station-economic-v2.webp",
   },
   {
     id: "malawi-tedzani-power-station-economic-v2",
@@ -372,6 +383,7 @@ export const malawiEconomicV2: POI[] = [
       ro: ["Punere în funcțiune: 1973", "Capacitate: 100 MW", "Tedzani I: 20 MW", "Tedzani II: 40 MW", "Tedzani III: 40 MW", "Operator: EGENCO"],
       en: ["Commissioned: 1973", "Capacity: 100 MW", "Unit I: 20 MW (1973)", "Unit II: 40 MW (1977)", "Unit III: 40 MW (1995)", "Operator: EGENCO"],
     },
+    image: "/poi-images/malawi-tedzani-power-station-economic-v2.webp",
   },
   {
     id: "malawi-kapichira-power-station-economic-v2",
@@ -403,6 +415,7 @@ export const malawiEconomicV2: POI[] = [
       ro: ["Punere în funcțiune: 2000", "Capacitate: 128 MW", "Turbine: 2 Francis", "Cost: 150 milioane USD", "Finanțare: Banca Mondială", "Locație: 20 km aval de Tedzani"],
       en: ["Commissioned: 2000", "Capacity: 128 MW", "Turbines: 2 Francis", "Construction cost: US$150 million", "Funding: World Bank", "Location: 20 km downstream of Tedzani"],
     },
+    image: "/poi-images/malawi-kapichira-power-station-economic-v2.webp",
   },
   {
     id: "malawi-chipoka-port-economic-v2",
@@ -434,6 +447,7 @@ export const malawiEconomicV2: POI[] = [
       ro: ["Construit: anii 1950", "Marfă anuală: 100.000 tone", "Lungime dig: 120 m", "Pescaj maxim: 4 m", "Operator: Malawi Ports Authority", "Locație: districtul Salima"],
       en: ["Built: 1950s", "Annual cargo volume: 100,000 tonnes", "Pier length: 120 metres", "Max draught: 4 metres", "Operator: Malawi Ports Authority", "Location: Salima District"],
     },
+    image: "/poi-images/malawi-chipoka-port-economic-v2.webp",
   },
   {
     id: "malawi-monkey-bay-shipyard-economic-v2",
@@ -465,6 +479,7 @@ export const malawiEconomicV2: POI[] = [
       ro: ["Construit: anii 1960", "Doc uscat: până la 100 m", "Angajați: 200", "Feribot principal: MV Ilala", "Operator: Forțele de Apărare ale Malawiului", "Locație: Monkey Bay"],
       en: ["Built: 1960s", "Dry dock capacity: 100 metres", "Workforce: 200", "Notable vessel: MV Ilala", "Operator: Malawi Defence Force", "Location: Monkey Bay, Mangochi District"],
     },
+    image: "/poi-images/malawi-monkey-bay-shipyard-economic-v2.webp",
   },
   {
     id: "malawi-salima-solar-plant-economic-v2",
@@ -496,6 +511,7 @@ export const malawiEconomicV2: POI[] = [
       ro: ["Punere în funcțiune: 2021", "Capacitate: 20 MW", "Suprafață: 80 ha", "Panouri: 60.000", "Operator: JCM Power", "Cost: 30 milioane USD"],
       en: ["Commissioned: 2021", "Capacity: 20 MW", "Area: 80 hectares", "Panels: 60,000", "Developer: JCM Power", "Investment: US$30 million"],
     },
+    image: "/poi-images/malawi-salima-solar-plant-economic-v2.webp",
   },
   {
     id: "malawi-ahl-tobacco-auction-floors-economic-v2",
@@ -527,6 +543,7 @@ export const malawiEconomicV2: POI[] = [
       ro: ["Suprafața totală a platformei este de 25 de hectare.", "Volumul anual licitat depășește 140.000 de tone.", "Prețul mediu pe kilogram a fost de 1,80 USD în 2021.", "Aproximativ 60% din tutun provine de la fermieri mici.", "Licitațiile sunt deschise zilnic între 8:00 și 16:00.", "Sistemul electronic de licitație a fost introdus în 2010."],
       en: ["Annual tobacco auction volume exceeds 150 million kilograms.", "The auction floors process over 3,000 bales per hour.", "Average price per kilogram in 2023 was $2.20.", "Tobacco exports earn Malawi approximately $400 million annually.", "The facility has 12 auction halls with a total capacity of 100,000 bales.", "First auction held in 1971; current site expanded in 2005."],
     },
+    image: "/poi-images/malawi-ahl-tobacco-auction-floors-economic-v2.webp",
   },
   {
     id: "malawi-limbe-leaf-factory-economic-v2",
@@ -558,6 +575,7 @@ export const malawiEconomicV2: POI[] = [
       ro: ["Procesează 35.000 de tone de tutun pe an.", "Suprafața fabricii este de 15 hectare.", "Număr de angajați: 2.000 permanent și 500 sezonier.", "Tutunul este exportat în peste 40 de țări.", "Fermentarea tutunului durează 3 săptămâni.", "Fabrica are 8 linii de sortare automate."],
       en: ["Annual processing capacity: 40,000 tons.", "Founded in 1962 by the Limbe Leaf Tobacco Company.", "Employs 2,200 people, 70% of whom are seasonal.", "Processes 90% of Malawi's Burley tobacco.", "The plant covers 12 hectares with 15 curing barns.", "Generated $120 million in export revenue in 2022."],
     },
+    image: "/poi-images/malawi-limbe-leaf-factory-economic-v2.webp",
   },
   {
     id: "malawi-muloza-border-post-economic-v2",
@@ -589,6 +607,7 @@ export const malawiEconomicV2: POI[] = [
       ro: ["Distanța până la orașul Mulanje: 25 km.", "Volum zilnic: 180 de camioane și 300 de autoturisme.", "Timp mediu de vămuire: 1,5 ore.", "Punctul a fost modernizat în 2019 cu fonduri UE.", "Valoarea comerțului anual: 150 milioane USD.", "Personal vamal: 80 de angajați."],
       en: ["Processes over 50,000 vehicles annually.", "Daily truck capacity: 200 units.", "Customs revenue: $12 million per year.", "Distance to nearest town: 25 km from Mulanje.", "Equipped with two X-ray scanners (installed 2018).", "Operating hours: 24/7 with 3 shifts."],
     },
+    image: "/poi-images/malawi-muloza-border-post-economic-v2.webp",
   },
   {
     id: "malawi-songwe-border-post-economic-v2",
@@ -620,6 +639,7 @@ export const malawiEconomicV2: POI[] = [
       ro: ["Volum zilnic: 300 de camioane și 200 de autoturisme.", "Investiție în modernizare: 10 milioane USD (2020).", "Timpul mediu de vămuire: 2 ore după modernizare.", "Personal: 120 de angajați vamali și de securitate.", "Distanța până la Karonga: 40 km.", "Postul gestionează 60% din comerțul Malawi-Tanzania."],
       en: ["Processes over 300 trucks and 200 cars daily.", "Upgrade cost: $10 million completed in 2020.", "Annual customs revenue exceeds $20 million.", "Distance to Karonga town: 40 km.", "One-stop border post concept implemented in 2021.", "Handles 70% of Malawi's trade with Tanzania."],
     },
+    image: "/poi-images/malawi-songwe-border-post-economic-v2.webp",
   },
   {
     id: "malawi-dedza-border-post-economic-v2",
@@ -651,6 +671,7 @@ export const malawiEconomicV2: POI[] = [
       ro: ["Volum zilnic: 50 de camioane și 30 de autoturisme.", "Venit vamal anual: 3 milioane USD.", "Program: 06:00-18:00.", "Distanța până la Dedza: 15 km.", "Modernizare în 2019: drum asfaltat pe 5 km.", "Număr de angajați vamali: 15."],
       en: ["Daily traffic: 50 trucks and 30 cars.", "Annual customs revenue: $3 million.", "Operating hours: 06:00-18:00.", "Distance to Dedza: 15 km.", "Processed 18,000 vehicles in 2021.", "Main commodities: maize, tobacco, groundnuts."],
     },
+    image: "/poi-images/malawi-dedza-border-post-economic-v2.webp",
   },
   {
     id: "malawi-mwanza-border-post-economic-v2",
@@ -682,6 +703,7 @@ export const malawiEconomicV2: POI[] = [
       ro: ["Volum zilnic: 150 de camioane și 100 de mașini.", "Venit vamal anual: 25 milioane USD.", "Program: 24 de ore din 24.", "Distanța până la Mwanza: 10 km.", "Modernizare 2017: 5 milioane USD.", "Echipat cu cântar electronic și scanner."],
       en: ["Daily truck traffic: 150 units.", "Annual customs revenue: $25 million.", "Operating hours: 24/7.", "Distance to Mwanza: 10 km.", "Upgraded in 2017 at a cost of $5 million.", "Processes over 50,000 vehicles annually."],
     },
+    image: "/poi-images/malawi-mwanza-border-post-economic-v2.webp",
   },
   {
     id: "malawi-bakhresa-milling-economic-v2",
@@ -713,6 +735,7 @@ export const malawiEconomicV2: POI[] = [
       ro: ["Capacitate zilnică: 450 de tone.", "Anul înființării: 2008.", "Număr angajați: 350.", "Produse: făină de grâu, mălai, nutreț.", "Exportă în Zambia, Mozambic și Zimbabwe.", "Silo de cereale cu capacitate de 15.000 de tone."],
       en: ["Daily milling capacity: 500 tons.", "Founded in 2008.", "Employs 350 staff.", "Produces 5 types of flour and feed.", "Exports to 4 countries.", "Storage silos hold 20,000 tons of grain."],
     },
+    image: "/poi-images/malawi-bakhresa-milling-economic-v2.webp",
   },
   {
     id: "malawi-lilongwe-dairy-economic-v2",
@@ -744,6 +767,7 @@ export const malawiEconomicV2: POI[] = [
       ro: ["Capacitate zilnică: 90.000 de litri.", "Fondată în 1985.", "Fermieri aprovizionatori: 2.000.", "Produse: 4 sortimente (lapte, iaurt, unt, brânză).", "Laborator de control al calității acreditat în 2019.", "Exportă în Zambia de la 2020."],
       en: ["Daily processing capacity: 100,000 liters.", "Founded: 1985.", "Number of supplier farmers: 2,000+.", "Product range: 4 main categories.", "Refrigerated transport fleet: 15 trucks.", "Annual revenue: $6 million (2022)."],
     },
+    image: "/poi-images/malawi-lilongwe-dairy-economic-v2.webp",
   },
   {
     id: "malawi-matindi-oil-depot-economic-v2",
@@ -775,6 +799,7 @@ export const malawiEconomicV2: POI[] = [
       ro: ["Capacitate: 50 milioane de litri.", "An deschidere: 1978.", "Volum anual manipulat: 400 milioane litri.", "Aprovizionează 60% din sudul Malawi.", "Conductă de 300 km din Mozambic.", "Număr de rezervoare: 15."],
       en: ["Storage capacity: 50 million liters.", "Operational since 1978.", "Annual throughput: 400 million liters.", "Supplies 60% of southern regions.", "Connected to Beira pipeline (300 km).", "Has 15 storage tanks with individual capacities."],
     },
+    image: "/poi-images/malawi-matindi-oil-depot-economic-v2.webp",
   },
   {
     id: "malawi-kaziwiziwi-coal-mine-economic-v2",
@@ -806,6 +831,7 @@ export const malawiEconomicV2: POI[] = [
       ro: ["Producție anuală: 45.000 de tone.", "An deschidere: 1990.", "Rezerve estimate: 2 milioane de tone.", "Angajați: 300.", "Tip: cărbune bituminos.", "Exploatare în carieră deschisă."],
       en: ["Annual production: 50,000 tons.", "Opened: 1990.", "Reserves: 2 million tons.", "Employees: 300.", "Coal type: bituminous.", "Mining method: open-pit."],
     },
+    image: "/poi-images/malawi-kaziwiziwi-coal-mine-economic-v2.webp",
   },
   {
     id: "malawi-sunbird-business-centre-economic-v2",
@@ -837,6 +863,7 @@ export const malawiEconomicV2: POI[] = [
       ro: ["Deschis în 2015.", "10 săli de conferințe.", "Auditoriu cu 500 de locuri.", "Internet fibră optică (100 Mbps).", "Servicii de catering și secretariat.", "Parte a lanțului Sunbird Hotels."],
       en: ["Opened in 2015.", "10 meeting rooms.", "500-seat auditorium.", "Fiber optic internet (100 Mbps).", "Video conferencing facilities.", "Part of Sunbird Hotels & Resorts."],
     },
+    image: "/poi-images/malawi-sunbird-business-centre-economic-v2.webp",
   },
   {
     id: "malawi-illovo-sugar-limbe-economic-v2",
@@ -868,6 +895,7 @@ export const malawiEconomicV2: POI[] = [
       ro: ["Producție anuală de zahăr: 120.000 de tone.", "Fondată în 1965.", "Angajați: 1.500.", "Capacitate de procesare a trestiei: 1,5 milioane tone.", "Producție de melasă: 30.000 de tone.", "Exportă în 6 țări COMESA."],
       en: ["Annual sugar production: 120,000 tons.", "Founded in 1965.", "Employment: 1,500.", "Sugarcane processing: 1.5 million tons.", "Molasses output: 30,000 tons.", "Exports to 6 countries including EU."],
     },
+    image: "/poi-images/malawi-illovo-sugar-limbe-economic-v2.webp",
   },
   {
     id: "malawi-press-corporation-hq-economic-v2",
@@ -899,6 +927,7 @@ export const malawiEconomicV2: POI[] = [
       ro: ["Înălțime: 12 etaje.", "Construit în 1990.", "Capitalizare de piață: 500 milioane USD.", "Fondată în 1969.", "Angajați la sediu: 500.", "Deține participații în 8 filiale."],
       en: ["Height: 12 stories.", "Built in 1990.", "Market capitalization: $500 million.", "Founded in 1969.", "Employs 500 people at HQ.", "Listed on Malawi Stock Exchange since 1996."],
     },
+    image: "/poi-images/malawi-press-corporation-hq-economic-v2.webp",
   },
   {
     id: "malawi-liwonde-dry-port-economic-v2",
@@ -930,5 +959,6 @@ export const malawiEconomicV2: POI[] = [
       ro: ["Capacitate anuală: 10.000 TEU.", "Deschis în 2010.", "Suprafață: 5 hectare.", "Conexiune feroviară la Beira.", "100 de angajați.", "Manipulează 50.000 de tone de marfă pe an."],
       en: ["Annual capacity: 10,000 TEUs.", "Opened in 2010.", "Area: 5 hectares.", "Rail link to Beira port.", "100 employees.", "Handles 50,000 tons of cargo annually."],
     },
+    image: "/poi-images/malawi-liwonde-dry-port-economic-v2.webp",
   }
 ];

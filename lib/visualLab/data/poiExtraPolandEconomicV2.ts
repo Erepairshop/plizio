@@ -1060,6 +1060,7 @@ export const polandEconomicV2: POI[] = [
       ro: ["Blocul 9 are o capacitate de 910 MW.", "Construcția blocului 9 a început în 2014.", "Centrala produce anual aproximativ 6 TWh.", "Capacitatea totală depășește 2.000 MW.", "Cel mai vechi bloc datează din 1974.", "Coșurile de fum au 200 m înălțime."],
       en: ["Block 9 has a capacity of 910 MW.", "Construction of Block 9 started in 2014.", "The plant produces about 6 TWh annually.", "Total capacity exceeds 2,000 MW.", "The oldest unit dates from 1974.", "The smokestacks are 200 m high."],
     },
+    image: "/poi-images/poland-jaworzno-coal-power-economic-v2.webp",
   },
   {
     id: "poland-krosno-glass-industry-economic-v2",
@@ -1092,5 +1093,6 @@ export const polandEconomicV2: POI[] = [
       ro: ["Fabrica de sticlă a fost fondată în 1923.", "Produce peste 100 de milioane de articole anual.", "Angajează aproximativ 3.000 de persoane.", "Suprafața de producție este de 150.000 m².", "Exportă în peste 60 de țări.", "Muzeul Sticlei are peste 5.000 de exponate."],
       en: ["The glassworks was founded in 1923.", "Annual production exceeds 100 million items.", "It employs about 3,000 people.", "Production area is 150,000 m².", "Exports to over 60 countries.", "The glass museum houses over 5,000 exhibits."],
     },
+    image: "/poi-images/poland-krosno-glass-industry-economic-v2.webp",
   }
 ];

@@ -1950,6 +1950,7 @@ export const belarusCitiesV2: POI[] = [
       ro: ["Braslau a fost menționat documentar pentru prima dată în anul 1065.", "Orașul este situat pe malul lacului Drivyaty, al cincilea ca mărime din țară.", "Dealul Castelului găzduia în perioada medievală o fortificație de lemn.", "Parcul Național Lacurile Braslau a fost înființat oficial în 1995.", "Biserica Catolică locală a fost construită în anul 1897 în stil neogotic.", "Regiunea este cunoscută pentru numeroasele sale monumente arheologice slave."],
       en: ["Braslau was first mentioned in historical documents in 1065.", "The town is located on the shores of Lake Drivyaty.", "Castle Hill was the site of a major wooden fortress in the Middle Ages.", "The Braslau Lakes National Park was established in 1995.", "The Catholic Church of the Nativity was completed in 1897.", "Viking-era artifacts have been discovered in the surrounding area."],
     },
+    image: "/poi-images/belarus-braslau-cities-v2.webp",
   },
   {
     id: "belarus-chashniki-cities-v2",
@@ -1982,6 +1983,7 @@ export const belarusCitiesV2: POI[] = [
       ro: ["Chashniki a fost menționat documentar pentru prima dată în 1504.", "Bătălia istorică de la Chashniki a avut loc pe 26 ianuarie 1564.", "Orașul este traversat de râul Ulla, afluent al Northern Dvina.", "Centrala Lukoml din apropiere este cea mai mare din Belarus.", "În secolul al XIX-lea, era un centru important pentru comerțul cu in.", "Localitatea a fost declarată oficial oraș în anul 1966."],
       en: ["The town was first mentioned in historical documents in 1504.", "The Battle of Chashniki took place on January 26, 1564.", "Chashniki is located on the Ulla River, a tributary of the Dvina.", "The Lukoml power station nearby produces over 2,800 MW of electricity.", "In the 1800s, the town was a major center for flax and grain trade.", "Chashniki was officially granted town status in 1966."],
     },
+    image: "/poi-images/belarus-chashniki-cities-v2.webp",
   },
   {
     id: "belarus-dawhildawn-cities-v2",
@@ -2014,6 +2016,7 @@ export const belarusCitiesV2: POI[] = [
       ro: ["Dalhinava a fost menționat pentru prima dată în documente în 1443.", "Înainte de 1941, localitatea era un 'shtetl' evreiesc proeminent.", "Biserica Catolică Sfântul Stanislav a fost finalizată în 1853.", "Satul se află la intersecția vechilor rute comerciale spre Vilnius.", "Peste 3.000 de evrei au fost uciși în masacrul din 1942.", "Localitatea păstrează numeroase case tradiționale belaruse din lemn."],
       en: ["Dalhinava was first recorded in historical annals in 1443.", "The village was a major Jewish commercial center before World War II.", "The Catholic Church of St. Stanislaus was built in 1853.", "It is located on historical trade routes leading to Vilnius.", "More than 3,000 Jewish residents were murdered here in 1942.", "The settlement is known for its well-preserved 19th-century layout."],
     },
+    image: "/poi-images/belarus-dawhildawn-cities-v2.webp",
   },
   {
     id: "belarus-drahichyn-cities-v2",
@@ -2046,6 +2049,7 @@ export const belarusCitiesV2: POI[] = [
       ro: ["Drahichyn a fost atestat documentar pentru prima dată în 1452.", "Orașul se află pe ruta feroviară strategică Brest-Pinsk.", "Biserica Ortodoxă Sretenskaya datează din anul 1862.", "Numele original al localității a fost Dovechyorovichi.", "Populația actuală este de aproximativ 14.800 de locuitori.", "Economia locală include o fabrică importantă de piese pentru tractoare."],
       en: ["The town was first mentioned in historical records in 1452.", "Drahichyn is a key station on the Brest-Pinsk railway line.", "The Sretenskaya Orthodox Church was constructed in 1862.", "The settlement was known as Dovechyorovichi until the 17th century.", "The population is approximately 14,800 residents.", "The town is a center for the production of agricultural machinery parts."],
     },
+    image: "/poi-images/belarus-drahichyn-cities-v2.webp",
   },
   {
     id: "belarus-dyatlava-cities-v2",
@@ -2078,6 +2082,7 @@ export const belarusCitiesV2: POI[] = [
       ro: ["Dzyatlava a fost atestat documentar la 22 februarie 1498.", "Palatul familiei Radziwiłł a fost finalizat în anul 1751.", "Biserica Catolică locală datează din anul 1646.", "În 1705, Petru cel Mare a vizitat orașul în timpul Marelui Război al Nordului.", "Populația orașului este de aproximativ 7.500 de locuitori.", "Stațiunea curativă 'Radon' din apropiere atrage turiști din toată țara."],
       en: ["The town was first recorded in history on February 22, 1498.", "The Baroque Radziwiłł Palace was constructed in 1751.", "The Catholic Church of the Assumption was founded in 1646.", "Peter the Great visited Dzyatlava in 1705 during the Great Northern War.", "The town has a population of approximately 7,500 people.", "The local 'Radon' sanatorium is a major center for mineral water therapy."],
     },
+    image: "/poi-images/belarus-dyatlava-cities-v2.webp",
   },
   {
     id: "belarus-elshany-cities-v2",
@@ -2110,6 +2115,7 @@ export const belarusCitiesV2: POI[] = [
       ro: ["Yelsk a fost menționat prima dată în 1564 sub numele Korolin.", "Biserica de lemn Sfânta Treime a fost ridicată în anul 1770.", "Localitatea a primit statutul oficial de oraș în 1962.", "Este situat pe calea ferată ce leagă Kalinkavichy de Ovruch.", "Populația orașului este de aproximativ 8.800 de locuitori.", "Industria locală de mobilier este recunoscută în întreaga regiune."],
       en: ["Yelsk was first recorded in 1564 as the settlement of Korolin.", "The wooden Trinity Church was built in 1770.", "Yelsk was officially granted town status in 1962.", "The town is located on the Kalinkavichy-Ovruch railway line.", "The current population is approximately 8,800 residents.", "The town is a notable center for furniture and timber production."],
     },
+    image: "/poi-images/belarus-elshany-cities-v2.webp",
   },
   {
     id: "belarus-glusk-cities-v2",
@@ -2142,6 +2148,7 @@ export const belarusCitiesV2: POI[] = [
       ro: ["Hlusk a fost menționat pentru prima dată în a doua jumătate a secolului al XIV-lea.", "Ruinele cetății Hlusk din secolul al XVII-lea sunt protejate ca monument istoric.", "Așezarea este situată pe râul Ptich, afluent al râului Pripyat.", "În anul 1655, cetatea a fost asediată și distrusă parțial în timpul războiului.", "Hlusk servește drept centru administrativ al raionului omonim.", "Populația localității este de aproximativ 7.200 de locuitori."],
       en: ["Hlusk was first mentioned in historical annals in the late 14th century.", "The 17th-century earthwork bastions of Hlusk Castle are a local landmark.", "The settlement is located on the Ptich River, a tributary of the Pripyat.", "In 1655, the town and its fortress were heavily damaged during war.", "Hlusk is the administrative center of the Hlusk District.", "The population of the settlement is about 7,200 people."],
     },
+    image: "/poi-images/belarus-glusk-cities-v2.webp",
   },
   {
     id: "belarus-ivye-cities-v2",
@@ -2174,6 +2181,7 @@ export const belarusCitiesV2: POI[] = [
       ro: ["Ivye a primit drepturile de Magdeburg în anul 1598", "Moscheea de lemn a fost construită în 1882 din donații locale", "Monumentul celor patru religii a fost inaugurat în anul 2012", "Biserica Sfântul Petru și Pavel datează inițial din anul 1444", "Orașul este centrul spiritual al tătarilor din Belarus de secole", "Înainte de 1941, comunitatea evreiască număra circa 3.000 de persoane"],
       en: ["Ivye was granted Magdeburg city rights in the year 1598", "The wooden mosque was built in 1882 using community funds", "The monument to the four religions was unveiled in 2012", "The Church of St. Peter and Paul dates back to 1444", "Ivye is the primary center for the Tatar community in Belarus", "Before WWII, the Jewish population of the town was about 3,000"],
     },
+    image: "/poi-images/belarus-ivye-cities-v2.webp",
   },
   {
     id: "belarus-kletsk-cities-v2",
@@ -2206,6 +2214,7 @@ export const belarusCitiesV2: POI[] = [
       ro: ["Kletsk este menționat în cronici începând cu anul 1127", "Bătălia de la Kletsk împotriva tătarilor a avut loc în august 1506", "Familia Radziwill a preluat controlul orașului în anul 1558", "Mănăstirea dominicană locală a fost înființată în anul 1683", "În secolul al XIX-lea, orașul găzduia o celebră academie talmudică", "Orașul a fost eliberat de sub ocupație germană în iulie 1944"],
       en: ["Kletsk was first mentioned in historical chronicles in 1127", "The Battle of Kletsk took place on August 5, 1506", "The town became a Radziwill family property in the year 1558", "The Dominican monastery was established in the town in 1683", "In the 19th century, Kletsk was a renowned center for Jewish education", "The city was liberated from German forces in the summer of 1944"],
     },
+    image: "/poi-images/belarus-kletsk-cities-v2.webp",
   },
   {
     id: "belarus-klimavichy-cities-v2",
@@ -2238,6 +2247,7 @@ export const belarusCitiesV2: POI[] = [
       ro: ["Klimavichy este menționat în documente începând cu anul 1581", "Emblema cu albina de aur a fost acordată oficial în anul 1781", "Fabrica de spirtoase din oraș funcționează încă din anul 1897", "Festivalul 'Albina de Aur' a fost lansat internațional în anul 1996", "Orașul este situat la confluența râurilor Lobzhanka și Oster", "Populația orașului depășește în prezent 16.000 de locuitori"],
       en: ["Klimavichy was first mentioned in official documents in 1581", "The coat of arms featuring a bee was granted in the year 1781", "The local Klimavichy distillery was founded in 1897", "The 'Golden Bee' international festival has been held since 1996", "The town is situated at the junction of the Lobzhanka and Oster rivers", "Klimavichy became an important railway hub in the late 19th century"],
     },
+    image: "/poi-images/belarus-klimavichy-cities-v2.webp",
   },
   {
     id: "belarus-lyakhavichy-cities-v2",
@@ -2270,6 +2280,7 @@ export const belarusCitiesV2: POI[] = [
       ro: ["Lyakhavichy a fost atestat documentar pentru prima dată în anul 1492", "Cetatea a rezistat asediului a 30.000 de soldați ruși în anul 1660", "Emblema orașului înfățișează fosta cetate pe un fundal albastru", "Fortificația a fost modernizată de Jan Karlo Chodkiewicz în anul 1572", "Orașul este traversat de râul Vedzma în nord-estul regiunii Brest", "În prezent, industria alimentară domină economia locală"],
       en: ["Lyakhavichy was first mentioned in historical records in 1492", "The fortress resisted a siege by 30,000 Russian troops in 1660", "The town's coat of arms depicts the historic castle on a blue field", "Magnate Jan Karlo Chodkiewicz expanded the fortress in 1572", "The town is situated on the Vedzma River in the Brest Region", "During the 19th century, it was a prominent center for linen production"],
     },
+    image: "/poi-images/belarus-lyakhavichy-cities-v2.webp",
   },
   {
     id: "belarus-malaryta-cities-v2",
@@ -2302,6 +2313,7 @@ export const belarusCitiesV2: POI[] = [
       ro: ["Malaryta a fost menționată prima dată ca sat în anul 1566", "Tehnica de țesut Malaryta este patrimoniu național protejat", "Biserica Sfântul Nicolae a fost finalizată în anul 1908", "Maratonul internațional Malaryta are loc anual din 1982", "Lângă oraș se află 'Stejarul Țarului', cu o vârstă de peste 800 de ani", "Orașul este un centru major pentru producția de conserve din fructe"],
       en: ["Malaryta was first mentioned as a village in the year 1566", "The Malaryta weaving technique is part of the national cultural heritage", "The Church of St. Nicholas was constructed in 1908", "The international Malaryta Marathon has been held since 1982", "The nearby 'Tsar-Oak' is estimated to be over 800 years old", "The town is a key producer of baby food and fruit juices in Belarus"],
     },
+    image: "/poi-images/belarus-malaryta-cities-v2.webp",
   },
   {
     id: "belarus-myadzyel-cities-v2",
@@ -2334,6 +2346,7 @@ export const belarusCitiesV2: POI[] = [
       ro: ["Myadzyel este atestat documentar pentru prima dată în anul 1324", "Biserica barocă Sfântul Stanislav a fost ridicată în anul 1754", "Orașul este poarta de intrare în Parcul Național Narochansky", "Vechiul castel din secolul al XVI-lea era situat pe o insulă", "Regiunea Myadzyel cuprinde peste 50 de lacuri de origine glaciară", "Localitatea a primit drepturile de Magdeburg în anul 1762"],
       en: ["Myadzyel was first mentioned in official records in 1324", "The Baroque Church of St. Stanislaus was built in 1754", "The town is the administrative hub of Narochansky National Park", "The medieval Myadzyel castle was located on a lake island", "There are over 50 glacial lakes in the surrounding district", "Myadzyel was granted Magdeburg city rights in the year 1762"],
     },
+    image: "/poi-images/belarus-myadzyel-cities-v2.webp",
   },
   {
     id: "belarus-narawlya-cities-v2",
@@ -2366,6 +2379,7 @@ export const belarusCitiesV2: POI[] = [
       ro: ["Narawlya a fost atestat documentar pentru prima dată în anul 1775", "Palatul familiei Horwatt a fost construit în anii 1850", "Orașul este situat pe malul drept al râului Pripyat", "O mare parte din raion a fost evacuată după accidentul din 1986", "Fabrica de produse zaharoase locală datează din anul 1913", "Localitatea a fost declarată oficial oraș în anul 1971"],
       en: ["Narawlya was first mentioned in historical documents in 1775", "The Horwatt palace was constructed during the 1850s", "The town is located on the right bank of the Pripyat River", "Narawlya was heavily impacted by the 1986 Chernobyl disaster", "The town's confectionery plant was established in 1913", "Narawlya officially received its city status in the year 1971"],
     },
+    image: "/poi-images/belarus-narawlya-cities-v2.webp",
   },
   {
     id: "belarus-nesvizh-cities-v2",
@@ -2398,6 +2412,7 @@ export const belarusCitiesV2: POI[] = [
       ro: ["Castelul Nesvizh a fost inclus în lista UNESCO în anul 2005", "Construcția fortificației a fost inițiată în anul 1583", "Biserica Corpus Christi a fost finalizată de Maria Bernardoni în 1593", "Orașul a fost sediul primei tipografii belaruse în secolul al XVI-lea", "Cripta familiei Radziwill conține 72 de sarcofage istorice", "Primăria din Nesvizh este cea mai veche clădire de acest tip din Belarus"],
       en: ["Nesvizh Castle was designated a UNESCO World Heritage site in 2005", "The construction of the castle officially began in the year 1583", "The Corpus Christi Church was designed by Italian architect Maria Bernardoni", "Nesvizh hosted the first Belarusian printing press in the 16th century", "The Radziwill family crypt holds the remains of 72 dynasty members", "The Nesvizh Town Hall is the oldest surviving town hall in Belarus"],
     },
+    image: "/poi-images/belarus-nesvizh-cities-v2.webp",
   },
   {
     id: "belarus-petrykaw-cities-v2",
@@ -2430,6 +2445,7 @@ export const belarusCitiesV2: POI[] = [
       ro: ["Petrykaw a fost menționat documentar prima dată în anul 1501", "Orașul este un port important pe cursul navigabil al Pripyatului", "Biserica Sfântul Nicolae a fost ridicată în stil clasicist în anul 1812", "Noul complex minier de potasă a fost inaugurat oficial în anul 2021", "În oraș se află un monument dedicat legendarului partizan 'Bunicul Talash'", "Populația orașului este de aproximativ 10.000 de locuitori"],
       en: ["Petrykaw was first mentioned in historical chronicles in 1501", "The town is situated on the navigable stretch of the Pripyat River", "The Church of St. Nicholas was built in 1812 in Classicist style", "A massive new potash mining complex was commissioned in 2021", "The town features a monument to the famous partisan hero 'Grandfather Talash'", "In the 16th century, it was owned by the Olelkovich noble family"],
     },
+    image: "/poi-images/belarus-petrykaw-cities-v2.webp",
   },
   {
     id: "belarus-rosony-cities-v2",
@@ -2462,6 +2478,7 @@ export const belarusCitiesV2: POI[] = [
       ro: ["Rossony a fost atestat documentar pentru prima dată în anul 1552", "Orașul este un simbol național al rezistenței partizanilor belaruși", "Biserica Înălțarea Domnului a fost ridicată din piatră în anul 1879", "Localitatea își trage numele de la lacul Rossony din apropiere", "Rezervația naturală Sinsha protejează peste 12.000 de hectare de pădure", "Orașul se află la o distanță de aproximativ 20 km de granița cu Rusia"],
       en: ["Rossony was first mentioned in historical documents in 1552", "The town is a celebrated center of the Belarusian partisan movement", "The Church of the Ascension was constructed of stone in 1879", "The town takes its name from the nearby Lake Rossony", "The Sinsha Nature Reserve covers over 12,000 hectares of forest", "Rossony is located less than 30 kilometers from the Russian border"],
     },
+    image: "/poi-images/belarus-rosony-cities-v2.webp",
   },
   {
     id: "belarus-schuchyn-cities-v2",
@@ -2494,6 +2511,7 @@ export const belarusCitiesV2: POI[] = [
       ro: ["Prima mențiune documentară a localității datează din anul 1436.", "Palatul familiei Scipio a fost construit după modelul Petit Trianon din Franța.", "Biserica Romano-Catolică Sfânta Tereza a fost finalizată în anul 1826.", "Orașul a găzduit o bază aeriană militară importantă până în anii 1990.", "Localitatea a primit statutul oficial de oraș în anul 1962.", "Shchuchyn se află la o distanță de aproximativ 57 km de orașul Grodno."],
       en: ["The first written record of the settlement dates back to 1436.", "The Scipio Palace was architecturally inspired by the Petit Trianon in Versailles.", "The Roman Catholic Church of Saint Theresa was constructed in 1826.", "A major Soviet military airfield operated here until the early 1990s.", "Shchuchyn was officially granted city status in 1962.", "The city is located approximately 57 kilometers east of Grodno."],
     },
+    image: "/poi-images/belarus-schuchyn-cities-v2.webp",
   },
   {
     id: "belarus-slawharad-cities-v2",
@@ -2526,6 +2544,7 @@ export const belarusCitiesV2: POI[] = [
       ro: ["Prima mențiune scrisă a localității datează din anul 1136.", "Bătălia de la Lesnaya a avut loc în apropiere în anul 1708.", "Numele orașului a fost schimbat din Propoisk în Slauharad în 1945.", "Biserica Nașterea Maicii Domnului a fost ridicată în anul 1793.", "Izvorul Golubaya Krinitsa este cel mai mare izvor din Câmpia Europei de Est.", "Orașul este situat strategic la confluența râurilor Soj și Pronia."],
       en: ["The city was first mentioned in historical documents in 1136.", "The Battle of Lesnaya occurred in the town's vicinity in 1708.", "The town was renamed from Propoysk to Slauharad in 1945.", "The Church of the Nativity of the Virgin Mary was built in 1793.", "The nearby Blue Spring is the largest spring in the East European Plain.", "Slauharad is positioned at the confluence of the Sozh and Pronya rivers."],
     },
+    image: "/poi-images/belarus-slawharad-cities-v2.webp",
   },
   {
     id: "belarus-stolin-cities-v2",
@@ -2558,6 +2577,7 @@ export const belarusCitiesV2: POI[] = [
       ro: ["Prima mențiune documentară a orașului Stolin datează din anul 1555.", "Parcul Mankovici a fost înființat în 1885 de către familia Radziwill.", "Orașul este amplasat pe malul râului Horîn, un afluent al râmului Pripiaat.", "Comunitatea evreiască reprezenta majoritatea populației înainte de 1941.", "Parcul Mankovici are o suprafață protejată de aproximativ 30 de hectare.", "Stolin este centrul administrativ al celui mai mare district din regiunea Brest."],
       en: ["Stolin was first mentioned in historical records in 1555.", "Mankovichi Park was established by the Radziwill family in 1885.", "The town is situated on the Horyn River, a tributary of the Pripyat.", "The Jewish community formed a significant majority of the population before 1941.", "The historical Mankovichi Park covers an area of approximately 30 hectares.", "Stolin serves as the center of the largest administrative district in the Brest Region."],
     },
+    image: "/poi-images/belarus-stolin-cities-v2.webp",
   },
   {
     id: "belarus-talachyn-cities-v2",
@@ -2590,6 +2610,7 @@ export const belarusCitiesV2: POI[] = [
       ro: ["Talachyn a fost menționat pentru prima dată în documente în anul 1433.", "Mănăstirea Acoperământul Maicii Domnului a fost înființată în anul 1604.", "Napoleon Bonaparte s-a oprit în oraș în timpul retragerii din 1812.", "Calea ferată Moscova-Brest a fost construită prin localitate în secolul al XIX-lea.", "Orașul a devenit parte a Imperiului Rus după a doua împărțire a Poloniei din 1793.", "Talachyn este un nod logistic important pe autostrada M1."],
       en: ["The first written mention of Talachyn dates to the year 1433.", "The Intercession Monastery was established in 1604.", "Napoleon Bonaparte reportedly stayed in the town during his 1812 retreat.", "The Moscow-Brest railway line reached Talachyn in the mid-19th century.", "The town was part of the Polish-Lithuanian Commonwealth until 1793.", "Talachyn is located on the M1 highway, a major European transport corridor."],
     },
+    image: "/poi-images/belarus-talachyn-cities-v2.webp",
   },
   {
     id: "belarus-turov-cities-v2",
@@ -2622,6 +2643,7 @@ export const belarusCitiesV2: POI[] = [
       ro: ["Orașul a fost menționat pentru prima dată în Cronica lui Nestor în anul 980.", "Turau a servit drept capitală a unui cnezat independent în secolele XI-XII.", "Sfântul Chiril de Turau, faimos teolog, a murit și a fost înmormântat aici în 1182.", "Catedrala din secolul al XII-lea a fost dărâmată de un cutremur puternic în 1230.", "Crucile de piatră din Turau sunt considerate unice în lumea ortodoxă.", "Episcopia de Turau a fost înființată în anul 1005, fiind una dintre cele mai vechi."],
       en: ["The city was first recorded in the Primary Chronicle in the year 980.", "Turau was the capital of a major sovereign principality during the 11th and 12th centuries.", "Saint Cyril of Turau, a renowned religious figure, died here in 1182.", "The great 12th-century cathedral was destroyed by a rare earthquake in 1230.", "The 'growing' stone crosses of Turau are a unique object of local veneration.", "A Christian bishopric was established in Turau as early as 1005."],
     },
+    image: "/poi-images/belarus-turov-cities-v2.webp",
   },
   {
     id: "belarus-usda-cities-v2",
@@ -2654,6 +2676,7 @@ export const belarusCitiesV2: POI[] = [
       ro: ["Localitatea Uzda a fost atestată documentar pentru prima dată în 1450.", "Capela în formă de piramidă a familiei Zawisza datează din jurul anului 1800.", "Orașul a avut o comunitate tătară activă timp de mai multe secole.", "Biserica Ortodoxă Sfinții Petru și Pavel a fost construită în 1840.", "Uzda este situată în apropierea zonei unde izvorăște râul Neman.", "Statutul oficial de oraș i-a fost acordat localității Uzda în anul 1999."],
       en: ["The settlement of Uzda was first mentioned in 1450.", "The unique pyramid-shaped Zawisza chapel was built around 1800.", "The town maintained a vibrant Tatar community for several centuries.", "The Orthodox Church of Saints Peter and Paul was completed in 1840.", "Uzda is located near the source of one of Belarus's major rivers, the Neman.", "Uzda was officially granted the status of a city in 1999."],
     },
+    image: "/poi-images/belarus-usda-cities-v2.webp",
   },
   {
     id: "belarus-verhnyadzvinsk-cities-v2",
@@ -2686,6 +2709,7 @@ export const belarusCitiesV2: POI[] = [
       ro: ["Orașul a fost menționat prima dată sub numele de Drissa în 1386.", "În 1812, orașul a găzduit lagărul militar fortificat Drissa împotriva lui Napoleon.", "Localitatea a fost redenumită Verhnyadzvinsk la 25 decembrie 1962.", "Biserica Romano-Catolică Nașterea Maicii Domnului datează din 1840.", "Orașul este situat la confluența râurilor Drissa și Dvina de Vest.", "Fabrica de brânzeturi din localitate este una dintre cele mai mari din nordul țării."],
       en: ["The city was first recorded as Drissa in the year 1386.", "The strategic Drissa Camp was established here in 1812 to oppose Napoleon.", "The town was renamed Verhnyadzvinsk on December 25, 1962.", "The Roman Catholic Church of the Nativity of the Virgin Mary was built in 1840.", "The town is uniquely situated at the confluence of two major rivers.", "The local cheese factory is a prominent enterprise, operating for decades."],
     },
+    image: "/poi-images/belarus-verhnyadzvinsk-cities-v2.webp",
   },
   {
     id: "belarus-vjetka-cities-v2",
@@ -2718,6 +2742,7 @@ export const belarusCitiesV2: POI[] = [
       ro: ["Vetka a fost fondat în 1685 de lipovenii ruși pe o insulă a râului Soj.", "Orașul a fost un faimos centru de tipărire a cărților religioase în secolul XVIII.", "Muzeul Vetka a fost deschis în 1978 și deține o colecție de peste 10.000 de obiecte.", "Așezarea a fost distrusă de două ori de trupele imperiale ruse (1735 și 1764).", "Școala de pictură de icoane din Vetka este cunoscută pentru utilizarea foiței de aur.", "Vetka se află la o distanță de aproximativ 22 km de orașul Gomel."],
       en: ["Vetka was founded in 1685 by Old Believers on an island in the Sozh River.", "The town was a leading center for Old Believer book printing in the 18th century.", "The Vetka Museum opened in 1978 and contains more than 10,000 artifacts.", "The settlement was forcibly suppressed by Tsarist troops in 1735 and 1764.", "Local icon painting is famous for its elaborate use of gold leaf and floral motifs.", "The city is located 22 kilometers northeast of the regional center, Gomel."],
     },
+    image: "/poi-images/belarus-vjetka-cities-v2.webp",
   },
   {
     id: "belarus-volozhyn-cities-v2",
@@ -2750,6 +2775,7 @@ export const belarusCitiesV2: POI[] = [
       ro: ["Ieșiva din Valozhin a fost fondată în 1803 și era numită „Mama Ieșivelor”.", "Palatul Tyszkiewicz a fost finalizat în anul 1806 în stil neoclasic.", "Biserica Romano-Catolică Sfântul Iosif a fost construită în 1816.", "Orașul este situat în apropierea masivului forestier Naliboki.", "Valozhin a primit statutul de oraș în cadrul Uniunii Polono-Lituaniene în secolul XVI.", "Clădirea ieșivei istorice a fost restaurată parțial ca monument istoric."],
       en: ["The Volozhin Yeshiva, established in 1803, was a global center for Jewish learning.", "The Tyszkiewicz Palace was completed in 1806 in the Neoclassical style.", "The Roman Catholic Church of Saint Joseph was built in 1816.", "Volozhin is located on the Volozhinka River near the vast Naliboki Forest.", "The town became part of the Russian Empire following the partitions of Poland.", "The historic yeshiva building remains one of the town's most significant cultural assets."],
     },
+    image: "/poi-images/belarus-volozhyn-cities-v2.webp",
   },
   {
     id: "belarus-voranava-cities-v2",
@@ -2782,6 +2808,7 @@ export const belarusCitiesV2: POI[] = [
       ro: ["Voranava a fost menționat pentru prima dată în secolul XVI ca Boloniki.", "Numele actual al orașului provine de la familia nobiliară Werenowski.", "Calea ferată Vilna-Lida a fost inaugurată prin localitate în anul 1884.", "Orașul se află la o distanță de doar 12 km de frontiera cu Lituania.", "Casa fortificată din satul vecin Gaityunishki datează din anul 1612.", "Voranava a primit propria stemă heraldică oficială în anul 2007."],
       en: ["Voranava was first recorded in historical documents in the 16th century as Boloniki.", "The current name of the town honors its former owners, the Werenowski family.", "The railway connecting Vilnius and Lida was built through the town in 1884.", "The city is located approximately 12 kilometers from the border with Lithuania.", "The fortified house in nearby Gaityunishki is a rare monument from 1612.", "Voranava was officially granted its current coat of arms in 2007."],
     },
+    image: "/poi-images/belarus-voranava-cities-v2.webp",
   },
   {
     id: "belarus-zaslawye-cities-v2",
@@ -2814,6 +2841,7 @@ export const belarusCitiesV2: POI[] = [
       ro: ["Fondat în anul 985 de către Vladimir cel Mare.", "Situat la 27 de kilometri nord-vest de capitala Minsk.", "Găzduiește Biserica Schimbarea la Față din secolul al XVI-lea.", "Situl arheologic Zamechak datează din secolul al X-lea.", "Fost centru al Reformei în Marele Ducat al Lituaniei.", "Deține statutul de rezervație istorică și culturală de stat."],
       en: ["Founded in 985 by Prince Vladimir the Great.", "Located 27 kilometers northwest of the capital city, Minsk.", "Home to the 16th-century Savior Transfiguration Church.", "The Zamechak archaeological site dates back to the 10th century.", "Former center of the Reformation in the Grand Duchy of Lithuania.", "Holds the status of a state historical and cultural reserve."],
     },
+    image: "/poi-images/belarus-zaslawye-cities-v2.webp",
   },
   {
     id: "belarus-zelva-cities-v2",
@@ -2846,6 +2874,7 @@ export const belarusCitiesV2: POI[] = [
       ro: ["Menționat pentru prima dată în scris în anul 1258.", "Gazda Târgului Annenskaya, fondat în anul 1721.", "Proprietatea familiei nobiliare Sapieha timp de mai multe secole.", "Rezervorul Zelva acoperă o suprafață de 1190 de hectare.", "Biserica neogotică Sfânta Treime a fost construită în 1913.", "Un centru important pentru comerțul cu cai în secolul al XVIII-lea."],
       en: ["First mentioned in written records in 1258.", "Home to the Annenskaya Fair, established in 1721.", "A possession of the noble Sapieha family for several centuries.", "The Zelva Reservoir covers an area of 1,190 hectares.", "The Neo-Gothic Trinity Church was completed in 1913.", "A key center for horse trading in the 18th century."],
     },
+    image: "/poi-images/belarus-zelva-cities-v2.webp",
   },
   {
     id: "belarus-zhabinka-cities-v2",
@@ -2878,6 +2907,7 @@ export const belarusCitiesV2: POI[] = [
       ro: ["Dezvoltarea urbană a început cu construcția căii ferate în 1871.", "Fabrica de zahăr din Zhabinka a fost deschisă în 1963.", "Situat pe râul Mukhavets, la 22 de kilometri de Brest.", "Considerat unul dintre cei mai mari producători de zahăr din Europa de Est.", "Are o populație de aproximativ 13.000 de locuitori (date 2020).", "Servește ca un nod important pentru transportul feroviar de marfă."],
       en: ["Urban development began with the railway construction in 1871.", "The Zhabinka Sugar Refinery was opened in 1963.", "Located on the Mukhavets River, 22 kilometers from Brest.", "Considered one of the largest sugar producers in Eastern Europe.", "Has a population of approximately 13,000 residents (2020 data).", "Serves as a major hub for international rail freight transport."],
     },
+    image: "/poi-images/belarus-zhabinka-cities-v2.webp",
   },
   {
     id: "belarus-zhyrovichy-cities-v2",
@@ -2910,5 +2940,6 @@ export const belarusCitiesV2: POI[] = [
       ro: ["Apariția icoanei Fecioarei Maria este datată în anul 1470.", "Mănăstirea Adormirea Maicii Domnului are statut de stavropighie.", "Catedrala Adormirii Maicii Domnului a fost construită între 1613 și 1650.", "Găzduiește Seminarul Teologic din Minsk.", "Icoana de la Zhirovichi este cea mai mică dintre icoanele Fecioarei Maria venerate.", "Mănăstirea a fost un centru al Bisericii Unite în secolele XVII și XVIII."],
       en: ["The appearance of the miraculous icon is dated to 1470.", "The Holy Dormition Monastery holds the prestigious Stavropegic status.", "The main cathedral was constructed between 1613 and 1650.", "Home to the influential Minsk Theological Seminary.", "The Zhirovichi Icon is the smallest of the highly venerated Marian icons.", "The monastery served as a major Uniate center during the 17th and 18th centuries."],
     },
+    image: "/poi-images/belarus-zhyrovichy-cities-v2.webp",
   }
 ];

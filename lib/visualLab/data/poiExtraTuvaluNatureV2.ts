@@ -31,6 +31,7 @@ export const tuvaluNatureV2: POI[] = [
       ro: ["Cea mai mare lagună a atolului Funafuti", "Loc important de ancorare pentru nave", "Sediu al unei baze SUA în al Doilea Război Mondial", "Adăpostește epave de hidroavioane istorice", "Sursa principală de hrană pentru localnici", "Centru pentru competițiile tradiționale de canoe"],
       en: ["Largest lagoon in the Funafuti Atoll", "Principal anchorage for national supply ships", "Strategic US Navy base during World War II", "Contains several submerged historical aircraft wrecks", "Primary source of seafood for the capital city", "Host to traditional outrigger canoe regattas"],
     },
+    image: "/poi-images/tuvalu-te-namo-lagoon-nature-v2.webp",
   },
   {
     id: "tuvalu-nanumea-lagoon-nature-v2",
@@ -62,6 +63,7 @@ export const tuvaluNatureV2: POI[] = [
       ro: ["Cea mai nordică lagună locuită din Tuvalu", "Formată din două insule principale și motu-uri", "Locul operațiunilor amfibii în al Doilea Război Mondial", "Bogată în pisici de mare și rechini de recif", "Semnificație culturală majoră în dansurile 'Fatele'", "Protejată prin legile locale 'Kaupule'"],
       en: ["Northernmost inhabited lagoon in Tuvalu", "Comprises two main islands and several islets", "Site of US amphibious operations in WWII", "Abundant in stingrays and juvenile reef sharks", "Centrally featured in traditional 'Fatele' dances", "Managed under strict local customary laws"],
     },
+    image: "/poi-images/tuvalu-nanumea-lagoon-nature-v2.webp",
   },
   {
     id: "tuvalu-nui-atoll-reefs-nature-v2",
@@ -93,6 +95,7 @@ export const tuvaluNatureV2: POI[] = [
       ro: ["Atolul Nui a fost descoperit în anul 1568 de exploratorul spaniol Álvaro de Mendaña de Neira.", "Suprafața terestră a atolului este de aproximativ 2,83 kilometri pătrați, cu o lungime de 10 km.", "Locuitorii vorbesc o variantă a limbii kiribati, fiind singura insulă din Tuvalu cu această trăsătură.", "Sistemul de recife înconjoară o lagună care nu posedă pasaje adânci pentru nave mari.", "În anul 1892, Nui a fost inclus în protectoratul britanic al Insulelor Gilbert și Ellice.", "Cea mai mare altitudine a insulelor de pe atoll este de aproximativ 4-5 metri peste nivelul mării."],
       en: ["Nui Atoll was first sighted by Spanish explorer Álvaro de Mendaña de Neira in 1568.", "The land area of the atoll totals approximately 2.83 square kilometers spread across 21 islets.", "Residents speak a dialect of Gilbertese and Tuvaluan, a unique linguistic feature in the country.", "The reef system encloses a lagoon that lacks deep-water navigable passes for large vessels.", "Nui became part of the British protectorate of the Gilbert and Ellice Islands in 1892.", "The maximum elevation of the islets remains below 5 meters above mean sea level."],
     },
+    image: "/poi-images/tuvalu-nui-atoll-reefs-nature-v2.webp",
   },
   {
     id: "tuvalu-nukufetau-lagoon-nature-v2",
@@ -124,6 +127,7 @@ export const tuvaluNatureV2: POI[] = [
       ro: ["Laguna Nukufetau are o lungime de aproximativ 14 kilometri și o lățime de 10 kilometri.", "Canalul Te Pua Pua reprezintă singura cale navigabilă de acces în lagună pentru navele de mari dimensiuni.", "În anul 1943, trupele americane au construit pe Motulalo o pistă pentru bombardierele B-24.", "Inelul coraligen al atolului este format din 33 de motu-uri individuale care delimitează laguna.", "Laguna găzduiește populații semnificative de scoici gigantice (Tridacna gigas).", "Nukufetau a fost descoperit pentru lumea occidentală în 1819 de către căpitanul american Arent Schuyler de Peyster."],
       en: ["Nukufetau Lagoon measures approximately 14 kilometers in length and 10 kilometers in width.", "The Te Pua Pua channel is the only navigable entrance to the lagoon for larger ocean-going vessels.", "In 1943, U.S. Marines constructed an airfield on Motulalo islet for B-24 bombers.", "There are 33 distinct islets (motus) that form the perimeter of the lagoon and define the atoll.", "The lagoon is home to significant populations of giant clams (Tridacna gigas).", "Nukufetau was sighted by Westerners in 1819 by American Captain Arent Schuyler de Peyster."],
     },
+    image: "/poi-images/tuvalu-nukufetau-lagoon-nature-v2.webp",
   },
   {
     id: "tuvalu-vaitupu-mangroves-nature-v2",
@@ -155,6 +159,7 @@ export const tuvaluNatureV2: POI[] = [
       ro: ["Vaitupu este cea mai mare masă terestră individuală din Tuvalu, cu o suprafață de 5,6 km pătrați.", "Pădurile de mangrove înconjoară părți din cele două lagune ale insulei, Te Loto și Te Namo.", "Specia Rhizophora stylosa este specia dominantă de mangrove în acest ecosistem specific.", "Mangrovele oferă habitat pentru celebrul crab al nucilor de cocos (Birgus latro), prezent aici.", "Canalele mareice permit schimbul de apă între mlaștinile cu mangrove și Oceanul Pacific.", "Vaitupu găzduiește din 1905 Școala Secundară Motufoua, cea mai veche instituție de învățământ din țară."],
       en: ["Vaitupu is the largest single landmass in Tuvalu, covering an area of 5.6 square kilometers.", "The mangrove forests fringe parts of Vaitupu's two lagoons, Te Loto and Te Namo.", "Rhizophora stylosa is the dominant mangrove species found in this specific ecosystem.", "The mangroves provide a habitat for the famous coconut crab (Birgus latro) found on the island.", "Tidal channels facilitate water exchange between the mangrove swamps and the Pacific Ocean.", "Vaitupu has been home to Motufoua Secondary School, the nation's oldest school, since 1905."],
     },
+    image: "/poi-images/tuvalu-vaitupu-mangroves-nature-v2.webp",
   },
   {
     id: "tuvalu-niutao-salt-lake-nature-v2",
@@ -186,6 +191,7 @@ export const tuvaluNatureV2: POI[] = [
       ro: ["Niutao este o insulă de recif cu o suprafață totală de aproximativ 2,53 kilometri pătrați.", "Lacul sărat se află într-o depresiune înconjurată de păduri dense de pandanus și cocotieri.", "Spre deosebire de Funafuti, Niutao nu are o lagună navigabilă, ceea ce face accesul dificil.", "Insula a fost descoperită în 1791 de căpitanul britanic Edwards în timpul căutării navei Bounty.", "Salinitatea lacului variază considerabil în funcție de nivelul precipitațiilor și de evaporare.", "Niutao are una dintre cele mai mari densități ale populației dintre insulele exterioare din Tuvalu."],
       en: ["Niutao is a reef island with a total land area of approximately 2.53 square kilometers.", "The salt lake is located in a depression surrounded by dense forest and vegetation.", "Niutao lacks a navigable lagoon, making ship access to the island notoriously difficult.", "The island was sighted in 1791 by British Captain Edwards while searching for the Bounty mutineers.", "The lake's salinity levels vary significantly depending on seasonal rainfall and evaporation.", "Niutao has one of the highest population densities among the outer islands of Tuvalu."],
     },
+    image: "/poi-images/tuvalu-niutao-salt-lake-nature-v2.webp",
   },
   {
     id: "tuvalu-nukulaelae-islets-nature-v2",
@@ -217,6 +223,7 @@ export const tuvaluNatureV2: POI[] = [
       ro: ["Nukulaelae are o suprafață terestră totală de numai aproximativ 1,82 kilometri pătrați.", "Atolul este format din două insule locuite și 13 insule nelocuite.", "Eleazar, un misionar creștin din Insulele Cook, a introdus creștinismul pe insulă în 1861.", "În 1863, sute de locuitori au fost răpiți de comercianții de sclavi peruani.", "Laguna din Nukulaelae nu este accesibilă navelor mari prin canale adânci, spre deosebire de Funafuti.", "Insulele reprezintă un habitat crucial pentru țestoasa verde, o specie pe cale de dispariție."],
       en: ["Nukulaelae has a total land area of only about 1.82 square kilometers.", "The atoll consists of two inhabited and 13 uninhabited smaller islets.", "Eleazar, a Christian missionary from the Cook Islands, introduced Christianity here in 1861.", "In 1863, hundreds of inhabitants were kidnapped by Peruvian slave traders (blackbirding).", "The lagoon at Nukulaelae lacks deep-water passes for ships, unlike the capital Funafuti.", "The islets serve as a vital nesting ground for the endangered green sea turtle."],
     },
+    image: "/poi-images/tuvalu-nukulaelae-islets-nature-v2.webp",
   },
   {
     id: "tuvalu-niulakita-coastline-nature-v2",
@@ -248,6 +255,7 @@ export const tuvaluNatureV2: POI[] = [
       ro: ["Niulakita este cea mai mică insulă locuită din Tuvalu, având doar 0,4 kilometri pătrați.", "Insula a fost descoperită în 1595 de exploratorul spaniol Álvaro de Mendaña de Neira.", "Nu există o lagună centrală; insula este complet înconjurată de un recif de barieră.", "Coasta este cunoscută pentru zonele periculoase de surf care fac ancorarea dificilă.", "Niulakita era cunoscută sub numele de 'Independence Island' în secolul al XIX-lea.", "Cel mai înalt punct al insulei se află la aproximativ 4,6 metri deasupra nivelului mării."],
       en: ["Niulakita is the smallest inhabited island in Tuvalu, covering only 0.4 square kilometers.", "The island was first sighted in 1595 by Spanish explorer Álvaro de Mendaña de Neira.", "There is no central lagoon; the island is entirely surrounded by a fringing reef.", "The coast is notorious for dangerous surf zones that make landing very difficult.", "In the 19th century, Niulakita was known to Westerners as 'Independence Island'.", "The island's highest point reaches approximately 4.6 meters above sea level."],
     },
+    image: "/poi-images/tuvalu-niulakita-coastline-nature-v2.webp",
   },
   {
     id: "tuvalu-tepuka-islet-nature-v2",
@@ -279,6 +287,7 @@ export const tuvaluNatureV2: POI[] = [
       ro: ["Tepuka se află la aproximativ 10 kilometri vest de insula principală Fongafale.", "Insula este o componentă centrală a Zonei de Conservare Funafuti, care se întinde pe 33 km pătrați.", "În timpul Celui de-al Doilea Război Mondial, Tepuka a fost utilizată temporar ca punct de observație de trupele americane.", "Nu există surse permanente de apă dulce pe insulă, ceea ce a împiedicat colonizarea sa.", "Recifele de corali din jurul Tepuka găzduiesc peste 100 de specii diferite de pești.", "Cercetătorii folosesc Tepuka ca punct de referință pentru ecosistemele insulare neatinse din Tuvalu."],
       en: ["Tepuka is located approximately 10 kilometers west of the main island, Fongafale.", "The islet is a key component of the 33-square-kilometer Funafuti Conservation Area.", "During World War II, Tepuka was occasionally used by U.S. troops as a lookout point.", "There are no permanent freshwater sources on the islet, which discouraged permanent settlement.", "The coral reefs surrounding Tepuka are home to over 100 documented species of fish.", "Scientists use Tepuka as a benchmark for pristine island ecosystems in the Tuvaluan archipelago."],
     },
+    image: "/poi-images/tuvalu-tepuka-islet-nature-v2.webp",
   },
   {
     id: "tuvalu-funafala-islet-nature-v2",
@@ -310,6 +319,7 @@ export const tuvaluNatureV2: POI[] = [
       ro: ["Funafala se află la aproximativ 12 kilometri sud de capitala Fongafale.", "Insula este locuită de o comunitate foarte mică, de mai puțin de 50 de persoane.", "Funafala este accesibilă doar cu barca dinspre Fongafale.", "În timpul Războiului din Pacific, sute de refugiați au căutat adăpost aici împotriva atacurilor aeriene.", "Nu există drumuri asfaltate pe insulă, ceea ce păstrează starea sa originală.", "Insula găzduiește gropi tradiționale de pulaka, esențiale pentru securitatea alimentară locală."],
       en: ["Funafala is located approximately 12 kilometers south of the capital, Fongafale.", "The islet is inhabited by a very small community of fewer than 50 people.", "Funafala is only accessible by boat from the main island of Fongafale.", "During the Pacific War, hundreds of refugees sought shelter here from aerial bombings.", "There are no paved roads on the islet, maintaining its pristine and natural state.", "The islet hosts traditional pulaka pits, which are vital for local food security."],
     },
+    image: "/poi-images/tuvalu-funafala-islet-nature-v2.webp",
   },
   {
     id: "tuvalu-amatuku-islet-nature-v2",
@@ -341,6 +351,7 @@ export const tuvaluNatureV2: POI[] = [
       ro: ["Amatuku găzduiește Institutul de Formare Maritimă din Tuvalu (TMTI), fondat în 1978.", "Insula este situată în nordul atolului Funafuti, la aproximativ 15 minute cu barca de Fongafale.", "TMTI instruiește anual între 120 și 150 de cadeți.", "Pe insulă se află o biserică misionară istorică, una dintre cele mai vechi de pe atol.", "Institutul este susținut prin parteneriate internaționale, inclusiv cu Australia.", "Accesul pe insulă este limitat la personalul institutului, studenți și vizitatori autorizați."],
       en: ["Amatuku is home to the Tuvalu Maritime Training Institute (TMTI), established in 1978.", "The islet is located in the north of Funafuti Atoll, about a 15-minute boat ride from Fongafale.", "TMTI trains approximately 120 to 150 cadets annually for international sea service.", "The islet features a historic mission church, which is among the oldest in the atoll.", "The institute is supported through international partnerships, notably with Australia.", "Access to the islet is generally restricted to TMTI staff, students, and authorized visitors."],
     },
+    image: "/poi-images/tuvalu-amatuku-islet-nature-v2.webp",
   },
   {
     id: "tuvalu-fatato-islet-nature-v2",
@@ -372,6 +383,7 @@ export const tuvaluNatureV2: POI[] = [
       ro: ["Fatato este unul dintre cele mai intens studiate motu-uri în ceea ce privește geomorfologia atolilor.", "Insula este situată imediat la sud de Funafala, în cercul de recif estic al Funafuti.", "Pe Fatato se află stații de măsurare pentru monitorizarea ratelor de eroziune.", "În 2003, insula a fost selectată pentru un studiu detaliat privind transportul sedimentelor.", "Vegetația constă în principal din Scaevola taccada și arbori Pandanus.", "Insula are o suprafață terestră de mai puțin de 0,1 kilometri pătrați."],
       en: ["Fatato is one of the most intensively studied islets regarding atoll geomorphology.", "The islet is located directly south of Funafala in the eastern reef rim of Funafuti.", "Fatato hosts various monitoring stations to track erosion rates and island movement.", "In 2003, the islet was chosen for a comprehensive study on sediment transport processes.", "The vegetation is dominated by Scaevola taccada shrubs and Pandanus trees.", "The total land area of the islet is less than 0.1 square kilometers."],
     },
+    image: "/poi-images/tuvalu-fatato-islet-nature-v2.webp",
   },
   {
     id: "tuvalu-fongafale-reef-edge-nature-v2",
@@ -403,6 +415,7 @@ export const tuvaluNatureV2: POI[] = [
       ro: ["Marginea recifului formează limita exterioară a atolului Funafuti către Pacificul deschis.", "În unele locuri, reciful coboară aproape vertical la o adâncime de peste 1.000 de metri.", "Proiectul TCAP a recuperat peste 7 hectare de teren nou de-a lungul acestei linii de coastă.", "Există specii de corali specializate care s-au adaptat la energiile mari ale valurilor.", "În timpul mareelor, aici se formează curenți puternici care pot fi periculoși pentru scafandri.", "Reciful protejează pista Aeroportului Internațional Funafuti împotriva inundațiilor."],
       en: ["The reef edge forms the outer boundary of Funafuti Atoll facing the open Pacific Ocean.", "In certain areas, the reef wall drops almost vertically to depths exceeding 1,000 meters.", "The TCAP project has reclaimed over 7 hectares of new land along this specific coastline.", "Specialized coral species inhabit this zone, adapted to high wave energy environments.", "Strong tidal currents occur at the reef edge, posing risks to inexperienced divers.", "The reef provides essential protection for the Funafuti International Airport runway."],
     },
+    image: "/poi-images/tuvalu-fongafale-reef-edge-nature-v2.webp",
   },
   {
     id: "tuvalu-motulalo-islet-nature-v2",
@@ -434,6 +447,7 @@ export const tuvaluNatureV2: POI[] = [
       ro: ["Motulalo a fost locația unui aerodrom al marinei americane în 1943.", "Pista de pe Motulalo avea o lungime de aproximativ 1.500 de metri, fiind potrivită pentru bombardiere.", "Insula face parte din inelul de corali care înconjoară laguna de 145 km pătrați.", "Aici există populații semnificative de crabi ai nucilor de cocos (Birgus latro).", "Motulalo are o altitudine maximă de aproximativ 3 până la 4 metri peste nivelul mării.", "Insula este utilizată astăzi ocazional pentru recoltarea de copra și tabere de pescuit."],
       en: ["Motulalo was the site of a United States Marine Corps airfield in 1943.", "The runway on Motulalo was approximately 1,500 meters long, capable of handling heavy bombers.", "The islet is part of the coral ring enclosing the 145-square-kilometer lagoon.", "Significant populations of the coconut crab (Birgus latro) are found on the islet.", "Motulalo's maximum elevation is approximately 3 to 4 meters above sea level.", "Today, the islet is used periodically for copra harvesting and temporary fishing camps."],
     },
+    image: "/poi-images/tuvalu-motulalo-islet-nature-v2.webp",
   },
   {
     id: "tuvalu-savave-islet-nature-v2",
@@ -465,6 +479,7 @@ export const tuvaluNatureV2: POI[] = [
       ro: ["Savave găzduiește aproape întreaga populație a atolului Nukufetau.", "Insula dispune de o școală primară, numită Tutasi Primary School.", "Există o zonă marină protejată direct în largul coastei Savave.", "Maneapa tradițională din Savave este una dintre cele mai mari de pe insulele exterioare.", "Savave este securizată împotriva inundațiilor prin diguri de corali și ziduri de sprijin.", "Aprovizionarea cu apă se face în principal prin sisteme de colectare a apei de ploaie."],
       en: ["Savave is home to almost the entire population of the Nukufetau Atoll.", "The islet hosts the Tutasi Primary School, serving all local children.", "There is a locally managed marine protected area situated just off Savave's coast.", "The traditional Maneapa of Savave is one of the largest in Tuvalu's outer islands.", "Savave is protected against inundation by various coral dykes and seawalls.", "The primary source of freshwater on the islet is gathered via rainwater harvesting systems."],
     },
+    image: "/poi-images/tuvalu-savave-islet-nature-v2.webp",
   },
   {
     id: "tuvalu-te-akau-reef-nature-v2",
@@ -496,5 +511,6 @@ export const tuvaluNatureV2: POI[] = [
       ro: ["Te Akau înseamnă pur și simplu „reciful” în limba tuvaluană.", "Reciful este situat central în laguna Funafuti, departe de zonele de țărm.", "Găzduiește o densitate mare de colonii de corali din genul Acropora.", "Cercetătorii efectuează aici observații pe termen lung privind regenerarea coralilor.", "Reciful este un loc important de depunere a icrelor pentru diverse specii de pești de recif.", "Adâncimea în jurul recifului variază între 5 și 20 de metri."],
       en: ["Te Akau simply means 'the reef' in the Tuvaluan language.", "The reef is located centrally within the Funafuti Lagoon, away from the shore zones.", "It hosts a high density of Acropora coral colonies, vital for reef structure.", "Scientists conduct long-term monitoring of coral regeneration rates at this site.", "The reef serves as a critical spawning ground for various species of reef fish.", "Water depth around the reef typically ranges between 5 and 20 meters."],
     },
+    image: "/poi-images/tuvalu-te-akau-reef-nature-v2.webp",
   }
 ];

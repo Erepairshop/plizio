@@ -32,6 +32,7 @@ export const latviaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1922", "Parte a universității LBTU", "Ameliorare grâu și orz", "Centru de semințe certificate"],
       en: ["Founded in 1922", "Part of LBTU university", "Wheat and barley breeding", "Certified seed production center"],
     },
+    image: "/poi-images/latvia-stende-grain-economic-v2.webp",
   },
   {
     id: "latvia-broceni-cement-economic-v2",
@@ -64,6 +65,7 @@ export const latviaEconomicV2: POI[] = [
       ro: ["Capacitate de 1,6 mil. tone", "Modernizare totală în 2010", "Carieră proprie de calcar", "Export în peste 10 țări"],
       en: ["1.6 million tons capacity", "Major modernization in 2010", "On-site limestone quarry", "Exporting to over 10 countries"],
     },
+    image: "/poi-images/latvia-broceni-cement-economic-v2.webp",
   },
   {
     id: "latvia-olaine-pharmaceutical-economic-v2",
@@ -96,6 +98,7 @@ export const latviaEconomicV2: POI[] = [
       ro: ["Fondat în perioada sovietică, 1972", "Exportă în peste 60 de state", "Lider regional în sinteza chimică", "Angajează peste 800 de specialiști", "Listată la bursa Nasdaq Riga", "Producție de medicamente generice"],
       en: ["Established in 1972 in Olaine", "Exports to over 60 global markets", "Employs more than 800 people", "Specializes in chemical synthesis", "Major player on Nasdaq Riga exchange", "Largest pharma hub in the Baltics"],
     },
+    image: "/poi-images/latvia-olaine-pharmaceutical-economic-v2.webp",
   },
   {
     id: "latvia-skrunda-industrial-zone-economic-v2",
@@ -128,6 +131,7 @@ export const latviaEconomicV2: POI[] = [
       ro: ["Acces direct la autostrada A9", "Focus pe exportul de lemn", "Foste locații militare", "Parc industrial pentru IMM-uri"],
       en: ["Location on A9 highway", "Woodworking export focus", "Former military site utility", "Industrial space for SMEs"],
     },
+    image: "/poi-images/latvia-skrunda-industrial-zone-economic-v2.webp",
   },
   {
     id: "latvia-salaspils-research-reactor-economic-v2",
@@ -160,6 +164,7 @@ export const latviaEconomicV2: POI[] = [
       ro: ["Reactor activ între 1961 și 1998", "Capacitate maximă de 5 MW", "Găzduiește Institutul de Fizică", "Centru de monitorizare radiologică", "Singurul reactor nuclear leton", "Proiect major de dezafectare"],
       en: ["Operated from 1961 until 1998", "Reactor capacity of 5 Megawatts", "Base for the Institute of Physics", "Key site for radiation monitoring", "Latvia's only nuclear research facility", "Ongoing decommissioning process"],
     },
+    image: "/poi-images/latvia-salaspils-research-reactor-economic-v2.webp",
   },
   {
     id: "latvia-liepaja-business-park-economic-v2",
@@ -192,6 +197,7 @@ export const latviaEconomicV2: POI[] = [
       ro: ["Peste 100.000 m² suprafață", "Zonă economică specială (SEZ)", "Proximitate față de port", "Chiriași din sectorul metalic"],
       en: ["Over 100,000 m² total area", "Special Economic Zone (SEZ)", "Proximity to Liepāja port", "Metalworking industry tenants"],
     },
+    image: "/poi-images/latvia-liepaja-business-park-economic-v2.webp",
   },
   {
     id: "latvia-madona-woodworking-economic-v2",
@@ -224,6 +230,7 @@ export const latviaEconomicV2: POI[] = [
       ro: ["45% acoperire forestieră", "Centru de producție peleți", "Export masiv în Suedia", "Gospodărire silvică certificată"],
       en: ["45% forest cover in region", "Pellet production hub", "Major exporter to Sweden", "FSC certified forestry sites"],
     },
+    image: "/poi-images/latvia-madona-woodworking-economic-v2.webp",
   },
   {
     id: "latvia-jelgava-bioenergy-economic-v2",
@@ -256,6 +263,7 @@ export const latviaEconomicV2: POI[] = [
       ro: ["Capacitate: 45 MW termic", "Combustibil: biomasă lemnoasă", "Operațională din anul 2013", "Reduce combustibilii fosili"],
       en: ["Capacity: 45 MW thermal", "Fuel: local wood chips", "Operational since 2013", "Replaces fossil fuel usage"],
     },
+    image: "/poi-images/latvia-jelgava-bioenergy-economic-v2.webp",
   },
   {
     id: "latvia-ventspils-chemical-terminal-economic-v2",
@@ -288,6 +296,7 @@ export const latviaEconomicV2: POI[] = [
       ro: ["Specializat în amoniac lichid", "Situat în portul liber Ventspils", "Capacitate masivă de stocare", "Nod strategic de tranzit maritim", "Infrastructură feroviară dedicată", "Standarde înalte de siguranță"],
       en: ["Specializes in liquid ammonia", "Located in Ventspils Free Port", "Large chemical storage capacity", "Strategic maritime transit hub", "Direct railway connection to site", "Operates in an ice-free harbor"],
     },
+    image: "/poi-images/latvia-ventspils-chemical-terminal-economic-v2.webp",
   },
   {
     id: "latvia-valmiera-fiberglass-economic-v2",
@@ -320,6 +329,7 @@ export const latviaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1963", "Export în peste 40 de țări", "Peste 1.000 de angajați", "Sticlă specială aerospațială"],
       en: ["Established in 1963", "Exports to 40+ countries", "Over 1,000 local employees", "Aerospace grade fiberglass"],
     },
+    image: "/poi-images/latvia-valmiera-fiberglass-economic-v2.webp",
   },
   {
     id: "latvia-daugavpils-locomotive-economic-v2",
@@ -352,6 +362,7 @@ export const latviaEconomicV2: POI[] = [
       ro: ["Fondată în anul istoric 1866", "Cel mai mare angajator din oraș", "Repară ecartament de 1520 mm", "Modernizare locomotive diesel", "Exportă servicii în statele CSI", "Include o turnătorie industrială"],
       en: ["Founded in the year 1866", "Largest employer in Daugavpils", "Focus on 1520 mm track gauge", "Diesel locomotive modernization", "Services markets across Eastern Europe", "Features an on-site iron foundry"],
     },
+    image: "/poi-images/latvia-daugavpils-locomotive-economic-v2.webp",
   },
   {
     id: "latvia-tukums-food-processing-economic-v2",
@@ -384,6 +395,7 @@ export const latviaEconomicV2: POI[] = [
       ro: ["Tukuma Piens fondat în 1913", "Peste 200 de tipuri lactate", "Export în UE și SUA", "Centru de lactate bio"],
       en: ["Tukuma Piens founded 1913", "Over 200 dairy products", "Exports to EU and USA", "Organic dairy production hub"],
     },
+    image: "/poi-images/latvia-tukums-food-processing-economic-v2.webp",
   },
   {
     id: "latvia-rezekne-special-zone-economic-v2",
@@ -416,6 +428,7 @@ export const latviaEconomicV2: POI[] = [
       ro: ["Înființată în anul 1997", "Suprafață totală de 1150 hectare", "Reduceri de taxe de până la 80%", "Hub pentru industria prelucrătoare", "Peste 20 de companii rezidente", "Nod logistic vital în Latgale"],
       en: ["Established in the year 1997", "Total area of 1150 hectares", "Tax rebates of up to 80%", "Metal and wood processing focus", "Home to over 20 active companies", "Key logistics hub for Latgale"],
     },
+    image: "/poi-images/latvia-rezekne-special-zone-economic-v2.webp",
   },
   {
     id: "latvia-kekava-poultry-economic-v2",
@@ -448,6 +461,7 @@ export const latviaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1967", "240.000 de păsări zilnic", "Creștere fără antibiotice", "Cel mai mare producător baltic"],
       en: ["Established in 1967", "240,000 birds daily capacity", "Antibiotic-free certification", "Largest Baltic poultry firm"],
     },
+    image: "/poi-images/latvia-kekava-poultry-economic-v2.webp",
   },
   {
     id: "latvia-grobina-wind-energy-economic-v2",
@@ -480,6 +494,7 @@ export const latviaEconomicV2: POI[] = [
       ro: ["Pus în funcțiune în anul 2002", "Include un număr de 33 turbine", "Capacitate totală de circa 20 MW", "Utilizează tehnologie tip Enercon", "Suprafață de operare de 198 ha", "Viteză medie a vântului de 6 m/s"],
       en: ["Commissioned in the year 2002", "Features 33 wind turbines", "Total capacity of approx. 20 MW", "Uses advanced Enercon technology", "Covers an area of 198 hectares", "Average wind speed of 6 m/s"],
     },
+    image: "/poi-images/latvia-grobina-wind-energy-economic-v2.webp",
   },
   {
     id: "latvia-sigulda-tourism-center-economic-v2",
@@ -512,6 +527,7 @@ export const latviaEconomicV2: POI[] = [
       ro: ["Peste 300.000 de turiști anual", "Telecabină din 1969, lungime 1.060 m", "Pistă de bob și sanie din 2014", "Turismul reprezintă aprox. 40% din locurile de muncă", "Situat în Parcul Național Gauja", "Castelul Turaida din secolul al XIII-lea"],
       en: ["Annual visitors: > 300,000", "Cable car built 1969, length 1,060 m", "Bobsleigh track opened for 2014 Olympics", "Tourism accounts for ~40% of jobs", "Located in Gauja National Park", "Turaida Castle from 13th century"],
     },
+    image: "/poi-images/latvia-sigulda-tourism-center-economic-v2.webp",
   },
   {
     id: "latvia-aizkraukle-hydro-economic-v2",
@@ -544,6 +560,7 @@ export const latviaEconomicV2: POI[] = [
       ro: ["Putere instalată: 908 MW", "10 unități generatoare", "Cea mai mare din Baltice", "Construită între 1961-1966"],
       en: ["908 MW installed capacity", "10 hydro-generator units", "Largest HPP in the Baltics", "Built between 1961 and 1966"],
     },
+    image: "/poi-images/latvia-aizkraukle-hydro-economic-v2.webp",
   },
   {
     id: "latvia-dobele-fruit-economic-v2",
@@ -576,6 +593,7 @@ export const latviaEconomicV2: POI[] = [
       ro: ["Focus pe cercetare horticolă", "Cea mai mare colecție cireși", "Centru modern de sucuri", "Marca locală 'Dobeles āboli'"],
       en: ["Focus on breeding research", "Largest cherry collection", "Modern juice production hub", "Famous 'Dobeles āboli' brand"],
     },
+    image: "/poi-images/latvia-dobele-fruit-economic-v2.webp",
   },
   {
     id: "latvia-salacgriva-port-economic-v2",
@@ -608,6 +626,7 @@ export const latviaEconomicV2: POI[] = [
       ro: ["Centru principal pentru pescuit chișcar", "Găzduiește 3 fabrici de procesare", "Adâncimea portului este de 5 metri", "Tradiție seculară în prelucrarea peștelui", "Exportă conserve în întreaga lume", "Festival anual al pescarilor în iulie"],
       en: ["Center for lamprey fishing in Latvia", "Home to 3 large processing plants", "Maximum port depth of 5 meters", "Centuries of maritime tradition", "Major base for canned fish exports", "Annual Fishermen's Festival in July"],
     },
+    image: "/poi-images/latvia-salacgriva-port-economic-v2.webp",
   },
   {
     id: "latvia-smiltene-machinery-economic-v2",
@@ -640,6 +659,7 @@ export const latviaEconomicV2: POI[] = [
       ro: ["Utilaje pentru drumuri", "Export în Scandinavia", "Tehnologie metalică de precizie", "Istorie industrială locală"],
       en: ["Road machinery specialization", "Exports to Scandinavia", "Precision metal engineering", "Regional industrial heritage"],
     },
+    image: "/poi-images/latvia-smiltene-machinery-economic-v2.webp",
   },
   {
     id: "latvia-preili-textile-economic-v2",
@@ -672,6 +692,7 @@ export const latviaEconomicV2: POI[] = [
       ro: ["Tradiție textilă de câteva decenii", "Specializare în haine de lucru", "Focus pe piața Uniunii Europene", "Peste 100 de angajați în sector", "Tehnologii moderne de cusut", "Pilon economic pentru orașul Preiļi"],
       en: ["Decades of textile manufacturing tradition", "Specialization in workwear production", "Exports primarily to the EU market", "Employs over 100 local workers", "Features modern sewing technologies", "Key economic pillar for Preiļi town"],
     },
+    image: "/poi-images/latvia-preili-textile-economic-v2.webp",
   },
   {
     id: "latvia-vilaka-forestry-economic-v2",
@@ -704,5 +725,6 @@ export const latviaEconomicV2: POI[] = [
       ro: ["Peste 50% din regiune este împădurită", "Model de silvicultură sustenabilă", "Producție de peleți și biomasă", "Găzduiește mai multe gatere moderne", "Furnizor pentru industria de mobilă", "Nod economic lângă granița de est"],
       en: ["Over 50% forest cover in the area", "Focus on sustainable logging practices", "Production of wood pellets and biomass", "Home to several modern sawmills", "Major supplier for furniture makers", "Strategic location near the eastern border"],
     },
+    image: "/poi-images/latvia-vilaka-forestry-economic-v2.webp",
   }
 ];

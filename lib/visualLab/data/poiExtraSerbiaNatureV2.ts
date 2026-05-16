@@ -32,6 +32,7 @@ export const serbiaNatureV2: POI[] = [
       ro: ["Lungime totală de 60 km", "Izvor carstic lângă Sopoćani", "Vărsare în râul Ibar", "Traversează orașul Novi Pazar", "Altitudinea izvorului: 540 m", "Bazin hidrografic de 1193 km²"],
       en: ["Length: 60 kilometers", "Source: Karst spring at 540m", "Tributary of the Ibar river", "Passes through Novi Pazar", "Basin area: 1,193 sq km", "Historical core of Raška state"],
     },
+    image: "/poi-images/serbia-raska-river-nature-v2.webp",
   },
   {
     id: "serbia-golija-mountain-nature-v2",
@@ -64,6 +65,7 @@ export const serbiaNatureV2: POI[] = [
       ro: ["Lungime: 75 km", "Vârf maxim: Jankov kamen (1.833 m)", "Rezervație UNESCO din: 2001", "Specii de plante: >1.000", "Endemit: Anemona Golija", "Mamifer: râs eurasiatic"],
       en: ["Length: 75 km", "Highest peak: Jankov kamen (1,833 m)", "UNESCO Biosphere Reserve since: 2001", "Plant species: >1,000", "Endemic plant: Golija anemone", "Mammal: Eurasian lynx"],
     },
+    image: "/poi-images/serbia-golija-mountain-nature-v2.webp",
   },
   {
     id: "serbia-tamis-river-nature-v2",
@@ -96,6 +98,7 @@ export const serbiaNatureV2: POI[] = [
       ro: ["Lungime: 359 km", "118 km în Serbia", "Izvor în Munții Semenic", "Vărsare în Dunăre la Pancevo", "Bazin: 13.085 km²", "Debitul mediu: 47 m³/s"],
       en: ["Total length: 359 km", "118 km within Serbia", "Source in Semenic Mountains", "Confluence: Danube at Pančevo", "Catchment: 13,085 sq km", "Important for Banat drainage"],
     },
+    image: "/poi-images/serbia-tamis-river-nature-v2.webp",
   },
   {
     id: "serbia-cer-mountain-nature-v2",
@@ -128,6 +131,7 @@ export const serbiaNatureV2: POI[] = [
       ro: ["Altitudine maximă: 687 m", "Situat lângă orașul Šabac", "Bătălia de la Cer (1914)", "Compoziție: granit și șisturi", "Păduri de gorun și fag", "Sit istoric protejat"],
       en: ["Highest peak: 687 meters", "Geology: Mostly granite", "Near the city of Šabac", "Cer Battle site (August 1914)", "Rich in oak and beech trees", "Diverse fauna and flora"],
     },
+    image: "/poi-images/serbia-cer-mountain-nature-v2.webp",
   },
   {
     id: "serbia-radan-mountain-nature-v2",
@@ -160,6 +164,7 @@ export const serbiaNatureV2: POI[] = [
       ro: ["Vârf maxim: Šopot (1.409 m)", "Diametrul lacului crater: ~200 m", "Tip vulcan: scut stins", "Acoperire forestieră: ~60%", "Oraș apropiat: Prokuplje (15 km)", "Mamifer: mistreț"],
       en: ["Highest peak: Šopot (1,409 m)", "Crater lake diameter: ~200 m", "Volcano type: extinct shield", "Forest cover: ~60%", "Nearest town: Prokuplje (15 km)", "Mammal: wild boar"],
     },
+    image: "/poi-images/serbia-radan-mountain-nature-v2.webp",
   },
   {
     id: "serbia-jastrebac-mountain-nature-v2",
@@ -192,6 +197,7 @@ export const serbiaNatureV2: POI[] = [
       ro: ["Suprafață: aprox. 50 km²", "Altitudine maximă: Veliki Jastrebac, 1492 m", "Precipitații anuale: ~800 mm", "Roci predominante: șisturi cristaline și granit", "Acoperire forestieră: peste 60%", "Distanță față de Kruševac: 25 km"],
       en: ["Area: approx. 50 km²", "Highest peak: Veliki Jastrebac, 1492 m", "Annual precipitation: ~800 mm", "Main rock types: crystalline schist and granite", "Forest cover: over 60%", "Distance from Kruševac: 25 km"],
     },
+    image: "/poi-images/serbia-jastrebac-mountain-nature-v2.webp",
   },
   {
     id: "serbia-moravica-river-nature-v2",
@@ -224,6 +230,7 @@ export const serbiaNatureV2: POI[] = [
       ro: ["Lungime totală: 98 km", "Izvor în muntele Golija", "Afluent al Moravei de Vest", "Traversează orașul Ivanjica", "Regiune celebră pentru zmeură", "Potențial hidroenergetic ridicat"],
       en: ["Length: 98 kilometers", "Source: Golija mountain", "Forms West Morava river", "Passes through Ivanjica", "Crucial for raspberry farming", "High water quality index"],
     },
+    image: "/poi-images/serbia-moravica-river-nature-v2.webp",
   },
   {
     id: "serbia-beljanica-mountain-nature-v2",
@@ -256,6 +263,7 @@ export const serbiaNatureV2: POI[] = [
       ro: ["Altitudine maximă: Veliki Beljanica, 1339 m", "Lungimea masivului: aprox. 20 km", "Rocă principală: calcar", "Număr de peșteri documentate: peste 30", "Acoperire forestieră: circa 70%", "Orașul cel mai apropiat: Kučevo, 15 km"],
       en: ["Highest peak: Veliki Beljanica, 1339 m", "Mountain length: approx. 20 km", "Main rock type: limestone", "Number of documented caves: over 30", "Forest cover: about 70%", "Nearest town: Kučevo, 15 km away"],
     },
+    image: "/poi-images/serbia-beljanica-mountain-nature-v2.webp",
   },
   {
     id: "serbia-ibar-river-nature-v2",
@@ -288,6 +296,7 @@ export const serbiaNatureV2: POI[] = [
       ro: ["Lungime: 276 km", "Bazin hidrografic: circa 7.860 km²", "Altitudinea izvorului: aprox. 1.200 m", "Altitudinea vărsării: 219 m", "Debit mediu: 25 m³/s", "Lungimea Cheilor Ibarului: 23 km"],
       en: ["Length: 276 km", "Drainage basin: approx. 7,860 km²", "Source elevation: about 1,200 m", "Mouth elevation: 219 m", "Average discharge: 25 m³/s", "Length of Ibar Gorge: 23 km"],
     },
+    image: "/poi-images/serbia-ibar-river-nature-v2.webp",
   },
   {
     id: "serbia-goc-mountain-nature-v2",
@@ -320,6 +329,7 @@ export const serbiaNatureV2: POI[] = [
       ro: ["Altitudine maximă: 1216 m", "Aproape de Vrnjačka Banja", "Lacul de acumulare Selište", "Peste 700 specii floristice", "Centru de schi local", "Păduri de brad și fag"],
       en: ["Highest peak: Ljukten 1216m", "Located near Vrnjačka Banja", "Selište artificial lake", "Home to 700+ plant species", "Winter tourism center", "Rich in medicinal herbs"],
     },
+    image: "/poi-images/serbia-goc-mountain-nature-v2.webp",
   },
   {
     id: "serbia-vlasina-river-nature-v2",
@@ -352,6 +362,7 @@ export const serbiaNatureV2: POI[] = [
       ro: ["Lungime: 70 km", "Izvor în lacul Vlasina", "Altitudine izvor: 1213 m", "Afluent al Moravei de Sud", "Traversează Vlasotince", "Potențial hidroenergetic"],
       en: ["Total length: 70 km", "Source: Vlasina Lake", "Source elevation: 1213m", "Tributary of South Morava", "Passes through Vlasotince", "Used for hydro power"],
     },
+    image: "/poi-images/serbia-vlasina-river-nature-v2.webp",
   },
   {
     id: "serbia-pec-river-nature-v2",
@@ -384,6 +395,7 @@ export const serbiaNatureV2: POI[] = [
       ro: ["Lungime: 139 km", "Bazin hidrografic: circa 1.370 km²", "Altitudinea izvorului: aprox. 800 m", "Altitudinea vărsării: 75 m", "Lungimea Cheilor Pekului: 15 km", "Conținut de aur: până la 0,5 g/m³"],
       en: ["Length: 139 km", "Drainage basin: approx. 1,370 km²", "Source elevation: about 800 m", "Mouth elevation: 75 m", "Length of Pek Gorge: 15 km", "Gold content: up to 0.5 g/m³"],
     },
+    image: "/poi-images/serbia-pec-river-nature-v2.webp",
   },
   {
     id: "serbia-kopaonik-sum-nature-v2",
@@ -416,6 +428,7 @@ export const serbiaNatureV2: POI[] = [
       ro: ["Râu în Parcul Naț. Kopaonik", "Izvor la peste 1700 m", "Defilee sculptate în granit", "Biodiversitate montană înaltă", "Afluent al râului Ibar", "Sit de importanță ecologică"],
       en: ["Main Kopaonik NP river", "Source altitude: >1700m", "Deep granite gorges", "Supports brown trout", "Unique alpine flora", "Significant water flow"],
     },
+    image: "/poi-images/serbia-kopaonik-sum-nature-v2.webp",
   },
   {
     id: "serbia-babina-zub-nature-v2",
@@ -448,6 +461,7 @@ export const serbiaNatureV2: POI[] = [
       ro: ["Altitudine: 1758 m", "Locație: Stara Planina, estul Serbiei", "Precipitații anuale: ~900 mm", "Refugiu: există", "Cel mai apropiat oraș: Pirot, 30 km", "Cel mai înalt vârf al Stara Planina: Midžor, 2169 m"],
       en: ["Elevation: 1758 m", "Location: Stara Planina, eastern Serbia", "Annual precipitation: ~900 mm", "Mountain hut: present", "Nearest town: Pirot, 30 km away", "Highest point of Stara Planina: Midžor, 2169 m"],
     },
+    image: "/poi-images/serbia-babina-zub-nature-v2.webp",
   },
   {
     id: "serbia-juzna-morava-nature-v2",
@@ -480,6 +494,7 @@ export const serbiaNatureV2: POI[] = [
       ro: ["Lungime: 295 km", "Bazin hidrografic: 15.850 km²", "Altitudinea izvorului: aprox. 1.200 m", "Altitudinea vărsării: 198 m", "Debit mediu: 67 m³/s", "Orașe: Vranje, Leskovac, Niš"],
       en: ["Length: 295 km", "Drainage basin: 15,850 km²", "Source elevation: about 1,200 m", "Mouth elevation: 198 m", "Average discharge: 67 m³/s", "Towns: Vranje, Leskovac, Niš"],
     },
+    image: "/poi-images/serbia-juzna-morava-nature-v2.webp",
   },
   {
     id: "serbia-raska-mountain-nature-v2",
@@ -512,6 +527,7 @@ export const serbiaNatureV2: POI[] = [
       ro: ["Altitudine: 1787 m", "Locație: între râurile Ibar și Raška", "Roci: serpentinit, dunit", "Protecție: parte a Parcului Național Kopaonik", "Cel mai apropiat oraș: Novi Pazar, 20 km", "Mănăstiri UNESCO: Studenica și Sopoćani"],
       en: ["Elevation: 1787 m", "Location: between Ibar and Raška rivers", "Rock type: serpentinite, dunite", "Protected: part of Kopaonik National Park", "Nearest town: Novi Pazar, 20 km", "UNESCO monasteries: Studenica and Sopoćani"],
     },
+    image: "/poi-images/serbia-raska-mountain-nature-v2.webp",
   },
   {
     id: "serbia-kosutnjak-forest-nature-v2",
@@ -544,5 +560,6 @@ export const serbiaNatureV2: POI[] = [
       ro: ["Suprafață: 260 ha", "Locație: Belgrad, dealul Topčider", "Specii de arbori: stejar, fag, conifere", "Anul înființării: 1903 (ca parc regal)", "Altitudine maximă: 150 m", "Cea mai apropiată stație de metrou: Topčider (cale ferată suburbană)"],
       en: ["Area: 260 ha", "Location: Belgrade, Topčider hill", "Tree species: oak, beech, conifers", "Established: 1903 (as royal park)", "Highest point: 150 m", "Nearest railway station: Topčider (suburban line)"],
     },
+    image: "/poi-images/serbia-kosutnjak-forest-nature-v2.webp",
   }
 ];

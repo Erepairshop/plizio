@@ -31,6 +31,7 @@ export const barbadosEconomicV2: POI[] = [
       ro: ["Marfă anuală manipulată: 1,2 milioane de tone", "Număr pasageri croazieră: 600.000 (2019)", "Adâncimea bazinului portuar: 12 metri", "Capacitate terminal containere: 100.000 TEU", "Construit: 1961, extindere 2005", "Numărul de dane: 8"],
       en: ["Annual cargo throughput: 1.2 million tonnes", "Number of cruise passengers: 600,000 (2019)", "Port basin depth: 12 meters", "Container terminal capacity: 100,000 TEU", "Built: 1961, expansion in 2005", "Number of berths: 8"],
     },
+    image: "/poi-images/barbados-bridgetown-port-economic-v2.webp",
   },
   {
     id: "barbados-grantley-adams-airport-economic-v2",
@@ -62,6 +63,7 @@ export const barbadosEconomicV2: POI[] = [
       ro: ["Cod IATA: BGI", "Lungimea pistei: 3.350 m", "Trafic pasageri: 2,1 milioane (2019)", "Deschis: 1949", "Altitudine: 52 m deasupra nivelului mării", "Număr porți: 10"],
       en: ["IATA code: BGI", "Runway length: 3,350 m", "Passenger traffic: 2.1 million (2019)", "Opened: 1949", "Elevation: 52 m above sea level", "Number of gates: 10"],
     },
+    image: "/poi-images/barbados-grantley-adams-airport-economic-v2.webp",
   },
   {
     id: "barbados-warrens-business-district-economic-v2",
@@ -93,6 +95,7 @@ export const barbadosEconomicV2: POI[] = [
       ro: ["Număr de companii: peste 150", "Suprafață birouri: 50.000 m²", "Warrens Mall deschis în 1998", "Locuri de parcare: 1.000", "Distanță până la Bridgetown: 5 km", "Angajați: aproximativ 3.000"],
       en: ["Number of businesses: over 150", "Office space: 50,000 m²", "Warrens Mall opened in 1998", "Parking spaces: 1,000", "Distance to Bridgetown: 5 km", "Employees: about 3,000"],
     },
+    image: "/poi-images/barbados-warrens-business-district-economic-v2.webp",
   },
   {
     id: "barbados-foursquare-distillery-economic-v2",
@@ -124,6 +127,7 @@ export const barbadosEconomicV2: POI[] = [
       ro: ["Producție anuală: 500.000 litri", "Anul înființării: 1996", "Maturare: până la 15 ani în butoaie de stejar", "Număr de mărci de rom: 6", "Premii: peste 50 de medalii de aur", "Centrul de vizitatori deschis în 2004"],
       en: ["Annual production: 500,000 litres", "Founded: 1996", "Aging: up to 15 years in oak barrels", "Number of rum brands: 6", "Awards: over 50 gold medals", "Visitor centre opened in 2004"],
     },
+    image: "/poi-images/barbados-foursquare-distillery-economic-v2.webp",
   },
   {
     id: "barbados-arawak-cement-plant-economic-v2",
@@ -155,6 +159,7 @@ export const barbadosEconomicV2: POI[] = [
       ro: ["Producție anuală: 250.000 tone", "Anul înființării: 1971", "Angajați: 150", "Procent export: 20%", "Rezerve de calcar: 10 milioane de tone", "Reducere CO2: 15% din 2005"],
       en: ["Annual production: 250,000 tonnes", "Founded: 1971", "Employees: 150", "Export share: 20%", "Limestone reserves: 10 million tonnes", "CO2 reduction: 15% since 2005"],
     },
+    image: "/poi-images/barbados-arawak-cement-plant-economic-v2.webp",
   },
   {
     id: "barbados-wildey-industrial-park-economic-v2",
@@ -186,6 +191,7 @@ export const barbadosEconomicV2: POI[] = [
       ro: ["Suprafață: 50 de hectare", "Număr de companii: 60", "Angajați: aproximativ 1.000", "Distanță până la Bridgetown: 3 km", "Venit anual: 200 milioane BBD", "Deschis: 1985"],
       en: ["Area: 50 hectares", "Number of companies: 60", "Employees: about 1,000", "Distance to Bridgetown: 3 km", "Annual revenue: 200 million BBD", "Opened: 1985"],
     },
+    image: "/poi-images/barbados-wildey-industrial-park-economic-v2.webp",
   },
   {
     id: "barbados-central-bank-economic-v2",
@@ -217,6 +223,7 @@ export const barbadosEconomicV2: POI[] = [
       ro: ["Anul înființării: 1972", "Rezerve valutare: 1,5 miliarde USD", "Rata dobânzii de referință: 2,5% (2024)", "Angajați: 250", "Înălțime clădire: 45 de metri", "Introducerea dolarului barbadian: 1973"],
       en: ["Founded: 1972", "Foreign reserves: 1.5 billion USD", "Key interest rate: 2.5% (2024)", "Employees: 250", "Building height: 45 meters", "Barbados dollar introduced: 1973"],
     },
+    image: "/poi-images/barbados-central-bank-economic-v2.webp",
   },
   {
     id: "barbados-banks-brewery-economic-v2",
@@ -248,6 +255,7 @@ export const barbadosEconomicV2: POI[] = [
       ro: ["Capacitate anuală: 1 milion de hectolitri", "Anul înființării: 1961", "Angajați: 200", "Tipuri de bere: 5", "Țări de export: 10", "Consum de apă: 3 litri per litru de bere"],
       en: ["Annual capacity: 1 million hectolitres", "Founded: 1961", "Employees: 200", "Beer varieties: 5", "Export countries: 10", "Water usage: 3 litres per litre of beer"],
     },
+    image: "/poi-images/barbados-banks-brewery-economic-v2.webp",
   },
   {
     id: "barbados-pine-hill-dairy-economic-v2",
@@ -279,6 +287,7 @@ export const barbadosEconomicV2: POI[] = [
       ro: ["Producție anuală de lapte: 20 de milioane de litri", "Anul înființării: 1966", "Angajați: 150", "Număr de produse: 50", "Furnizori de lapte: 30 de fermieri", "Venit: 50 de milioane BBD"],
       en: ["Annual milk production: 20 million litres", "Founded: 1966", "Employees: 150", "Number of products: 50", "Milk suppliers: 30 farmers", "Revenue: 50 million BBD"],
     },
+    image: "/poi-images/barbados-pine-hill-dairy-economic-v2.webp",
   },
   {
     id: "barbados-oistins-fish-market-economic-v2",
@@ -310,6 +319,7 @@ export const barbadosEconomicV2: POI[] = [
       ro: ["Cantitate de pește vândută anual: 1.000 de tone", "Număr de tarabe: 40", "Friday Night Fish Fry din anii 1980", "Suprafață piață: 2.000 m²", "Vizitatori pe săptămână: 15.000", "Deschiderea noii piețe: 1995"],
       en: ["Annual fish sold: 1,000 tonnes", "Number of stalls: 40", "Friday Night Fish Fry since the 1980s", "Market area: 2,000 m²", "Visitors per week: 15,000", "New market opened: 1995"],
     },
+    image: "/poi-images/barbados-oistins-fish-market-economic-v2.webp",
   },
   {
     id: "barbados-newton-industrial-park-economic-v2",
@@ -341,6 +351,7 @@ export const barbadosEconomicV2: POI[] = [
       ro: ["Suprafață: 30 de hectare", "Număr de companii: 35", "Angajați: 700", "Distanță până la aeroport: 2 km", "Venit anual: 150 milioane BBD", "Deschis: 1990"],
       en: ["Area: 30 hectares", "Number of companies: 35", "Employees: 700", "Distance to airport: 2 km", "Annual revenue: 150 million BBD", "Opened: 1990"],
     },
+    image: "/poi-images/barbados-newton-industrial-park-economic-v2.webp",
   },
   {
     id: "barbados-portvale-sugar-factory-economic-v2",
@@ -372,6 +383,7 @@ export const barbadosEconomicV2: POI[] = [
       ro: ["Producție anuală: 20.000 de tone de zahăr brut", "Capacitate de măcinare: 150 de tone de trestie pe oră", "Construit: 1915", "Angajați sezonieri: 200", "Producție de electricitate din bagas: 5 MW", "Suprafață cultivată: 2.000 de hectare"],
       en: ["Annual production: 20,000 tonnes of raw sugar", "Milling capacity: 150 tonnes of cane per hour", "Built: 1915", "Seasonal employees: 200", "Bagasse power generation: 5 MW", "Cultivated area: 2,000 hectares"],
     },
+    image: "/poi-images/barbados-portvale-sugar-factory-economic-v2.webp",
   },
   {
     id: "barbados-six-roads-economic-v2",
@@ -403,6 +415,7 @@ export const barbadosEconomicV2: POI[] = [
       ro: ["Suprafață: 20 de hectare", "Număr de companii: 25", "Angajați: 500", "Stimulente fiscale: 10 ani de scutire de impozit", "Distanță până la Bridgetown: 10 km", "Început dezvoltare: 2005"],
       en: ["Area: 20 hectares", "Number of companies: 25", "Employees: 500", "Tax incentives: 10-year tax holiday", "Distance to Bridgetown: 10 km", "Development began: 2005"],
     },
+    image: "/poi-images/barbados-six-roads-economic-v2.webp",
   },
   {
     id: "barbados-mount-gay-distillery-economic-v2",
@@ -434,6 +447,7 @@ export const barbadosEconomicV2: POI[] = [
       ro: ["Anul înființării: 1703", "Producție anuală: 2 milioane de litri", "Țări de export: 110", "Maturare: minim 10 ani", "Vizitatori pe an: 100.000", "Număr de mărci de rom: 8"],
       en: ["Founded: 1703", "Annual production: 2 million litres", "Export countries: 110", "Aging: minimum 10 years", "Visitors per year: 100,000", "Number of rum brands: 8"],
     },
+    image: "/poi-images/barbados-mount-gay-distillery-economic-v2.webp",
   },
   {
     id: "barbados-limegrove-lifestyle-centre-economic-v2",
@@ -465,6 +479,7 @@ export const barbadosEconomicV2: POI[] = [
       ro: ["Deschis: 2010", "Suprafață comercială: 10.000 m²", "Număr de magazine: 40", "Locuri de parcare: 500", "Investiție: 50 de milioane USD", "Angajați: 300"],
       en: ["Opened: 2010", "Retail space: 10,000 m²", "Number of stores: 40", "Parking spaces: 500", "Investment: 50 million USD", "Employees: 300"],
     },
+    image: "/poi-images/barbados-limegrove-lifestyle-centre-economic-v2.webp",
   },
   {
     id: "barbados-spring-garden-industrial-economic-v2",
@@ -496,6 +511,7 @@ export const barbadosEconomicV2: POI[] = [
       ro: ["Suprafață: 40 de hectare", "Număr de companii: 45", "Angajați: 800", "Distanță până la port: 2 km", "Extinderi: 2005 și 2012", "Valoare export anuală: 100 milioane BBD"],
       en: ["Area: 40 hectares", "Number of companies: 45", "Employees: 800", "Distance to port: 2 km", "Expansions: 2005 and 2012", "Annual export value: 100 million BBD"],
     },
+    image: "/poi-images/barbados-spring-garden-industrial-economic-v2.webp",
   },
   {
     id: "barbados-broad-street-economic-v2",
@@ -527,6 +543,7 @@ export const barbadosEconomicV2: POI[] = [
       ro: ["Broad Street are o lungime de aproximativ 800 de metri.", "A fost stabilită în secolul al XVII-lea ca drum comercial.", "Adăpostește peste 100 de magazine și unități de servicii.", "Face parte din situl UNESCO Historic Bridgetown.", "Peste 1,2 milioane de turiști o vizitează anual.", "Clădirile au între 2 și 6 etaje."],
       en: ["Broad Street is approximately 800 meters in length.", "It was established in the 17th century as a commercial thoroughfare.", "The street hosts over 100 retail and service establishments.", "It lies within the UNESCO World Heritage site Historic Bridgetown.", "Over 1.2 million tourists visit Broad Street annually.", "Building heights range from 2 to 6 stories."],
     },
+    image: "/poi-images/barbados-broad-street-economic-v2.webp",
   },
   {
     id: "barbados-lower-estate-industrial-economic-v2",
@@ -558,6 +575,7 @@ export const barbadosEconomicV2: POI[] = [
       ro: ["Lower Estate Industrial Park se întinde pe aproximativ 40 de hectare.", "A fost fondat în anii 1970.", "Peste 50 de companii își au sediul în parc.", "Distanța până la portul Bridgetown este mai mică de 5 km.", "Parcul se află la 3 km de aeroportul Grantley Adams.", "Oferă aproximativ 2.000 de locuri de muncă."],
       en: ["Lower Estate Industrial Park covers approximately 40 hectares.", "It was established in the 1970s.", "Over 50 companies are based in the park.", "Distance to Bridgetown Port is less than 5 km.", "The park is 3 km from Grantley Adams International Airport.", "It provides about 2,000 jobs."],
     },
+    image: "/poi-images/barbados-lower-estate-industrial-economic-v2.webp",
   },
   {
     id: "barbados-grazettes-industrial-park-economic-v2",
@@ -589,6 +607,7 @@ export const barbadosEconomicV2: POI[] = [
       ro: ["Grazettes Industrial Park se întinde pe aproximativ 25 de hectare.", "A fost dezvoltat în anii 1980.", "În parc sunt aproximativ 30 de companii.", "Distanța până la portul Bridgetown este de aproximativ 6 km.", "Parcul are o substație electrică proprie.", "Producția anuală este estimată la 50 de milioane de dolari."],
       en: ["Grazettes Industrial Park covers approximately 25 hectares.", "It was developed in the 1980s.", "About 30 companies operate in the park.", "Distance to Bridgetown Port is about 6 km.", "The park has its own electrical substation.", "Annual production value is estimated at US$50 million."],
     },
+    image: "/poi-images/barbados-grazettes-industrial-park-economic-v2.webp",
   },
   {
     id: "barbados-st-nicholas-abbey-economic-v2",
@@ -620,6 +639,7 @@ export const barbadosEconomicV2: POI[] = [
       ro: ["Conacul a fost construit în 1658.", "Plantația se întinde pe 44 de hectare.", "Distileria produce anual aproximativ 50.000 de sticle de rom.", "Romul este exportat în peste 20 de țări.", "Alambicul de cupru are o capacitate de 1.000 de litri.", "Numărul de vizitatori este de aproximativ 100.000 pe an."],
       en: ["The manor house was built in 1658.", "The plantation covers 44 hectares.", "The distillery produces about 50,000 bottles of rum annually.", "Rum is exported to over 20 countries.", "The copper pot still has a capacity of 1,000 liters.", "Visitor numbers are approximately 100,000 per year."],
     },
+    image: "/poi-images/barbados-st-nicholas-abbey-economic-v2.webp",
   },
   {
     id: "barbados-andrews-sugar-factory-economic-v2",
@@ -651,6 +671,7 @@ export const barbadosEconomicV2: POI[] = [
       ro: ["Moara de zahăr a fost construită în 1904.", "Capacitatea de producție era de 1.000 de tone de trestie pe zi.", "Fabrica a funcționat 98 de ani.", "Terenul are 3 hectare.", "Motorul cu abur avea 150 de cai putere.", "Aproximativ 20.000 de persoane vizitează muzeul anual."],
       en: ["The sugar mill was built in 1904.", "Production capacity was 1,000 tons of sugarcane per day.", "The factory operated for 98 years.", "The site covers 3 hectares.", "The steam engine had 150 horsepower.", "About 20,000 people visit the museum annually."],
     },
+    image: "/poi-images/barbados-andrews-sugar-factory-economic-v2.webp",
   },
   {
     id: "barbados-bridgetown-fisheries-economic-v2",
@@ -682,6 +703,7 @@ export const barbadosEconomicV2: POI[] = [
       ro: ["Complexul a fost deschis în 1998.", "Are 300 de metri de chei.", "Debarcările zilnice sunt de aproximativ 10 tone de pește.", "Peste 500 de pescari sunt angajați direct.", "Depozitele frigorifice au o capacitate de 500 de tone.", "Anual se tranzacționează aproximativ 3.000 de tone de pește."],
       en: ["The complex opened in 1998.", "It has 300 meters of quay space.", "Daily landings are about 10 tons of fish.", "Over 500 fishers are directly employed.", "Cold storage capacity is 500 tons.", "Annual fish throughput is about 3,000 tons."],
     },
+    image: "/poi-images/barbados-bridgetown-fisheries-economic-v2.webp",
   },
   {
     id: "barbados-chefette-production-economic-v2",
@@ -713,6 +735,7 @@ export const barbadosEconomicV2: POI[] = [
       ro: ["Fabrica a fost extinsă în 2008.", "Aprovizionează peste 20 de restaurante Chefette.", "Suprafața de producție este de 4.000 de metri pătrați.", "Centrul angajează aproximativ 150 de persoane.", "Zilnic se procesează aproximativ 5 tone de alimente.", "Chefette a fost fondată în 1974."],
       en: ["The plant was expanded in 2008.", "It supplies over 20 Chefette outlets.", "Production area is 4,000 square meters.", "The centre employs about 150 people.", "About 5 tons of food are processed daily.", "Chefette was founded in 1974."],
     },
+    image: "/poi-images/barbados-chefette-production-economic-v2.webp",
   },
   {
     id: "barbados-canefield-industrial-economic-v2",
@@ -744,6 +767,7 @@ export const barbadosEconomicV2: POI[] = [
       ro: ["Canefield Industrial Estate a fost dezvoltat în anii 1970.", "Găzduiește aproximativ 40 de companii.", "Suprafața totală este de aproximativ 30 de hectare.", "Aproximativ 1.500 de angajați lucrează aici.", "Parcul se află la 3 km de portul Bridgetown.", "Companiile importă mărfuri în valoare de aproximativ 100 de milioane de dolari anual."],
       en: ["Canefield Industrial Estate was developed in the 1970s.", "It houses about 40 companies.", "Total area is approximately 30 hectares.", "About 1,500 employees work here.", "The estate is 3 km from Bridgetown Port.", "Companies import goods worth about US$100 million annually."],
     },
+    image: "/poi-images/barbados-canefield-industrial-economic-v2.webp",
   },
   {
     id: "barbados-harbour-industrial-park-economic-v2",
@@ -775,6 +799,7 @@ export const barbadosEconomicV2: POI[] = [
       ro: ["Parcul a fost dezvoltat în anii 1990.", "Se întinde pe 20 de hectare.", "Peste 30 de companii sunt localizate aici.", "Numărul de angajați este de aproximativ 1.000.", "Terminalul de containere are o capacitate de 500.000 TEU pe an.", "Parcul oferă 10.000 de metri pătrați de depozitare frigorifică."],
       en: ["The park was developed in the 1990s.", "It covers 20 hectares.", "Over 30 companies are located here.", "Employment is around 1,000 workers.", "The container terminal has a capacity of 500,000 TEUs annually.", "The park offers 10,000 square meters of cold storage."],
     },
+    image: "/poi-images/barbados-harbour-industrial-park-economic-v2.webp",
   },
   {
     id: "barbados-west-indies-rum-economic-v2",
@@ -806,6 +831,7 @@ export const barbadosEconomicV2: POI[] = [
       ro: ["Distileria a fost fondată în 1893.", "Capacitatea anuală de producție este de 20 de milioane de litri.", "Exportă în peste 50 de țări.", "Centrul de vizitare primește aproximativ 50.000 de oaspeți pe an.", "Alambicurile au un volum de 10.000 de litri.", "Distileria angajează în jur de 200 de persoane."],
       en: ["The distillery was founded in 1893.", "Annual production capacity is 20 million liters.", "Exports to over 50 countries.", "Visitor center receives about 50,000 guests per year.", "Copper pot stills have a volume of 10,000 liters each.", "The distillery employs around 200 people."],
     },
+    image: "/poi-images/barbados-west-indies-rum-economic-v2.webp",
   },
   {
     id: "barbados-cgc-glass-works-economic-v2",
@@ -837,6 +863,7 @@ export const barbadosEconomicV2: POI[] = [
       ro: ["Fabrica a fost fondată în 1965.", "Producția anuală: peste 100 de milioane de sticle.", "Procentul de sticlă reciclată: aproximativ 40%.", "Fabrica angajează aproximativ 300 de persoane.", "Cuptoarele de topire funcționează la temperaturi de peste 1.500°C.", "Fabrica exportă în 10 țări din Caraibe."],
       en: ["The plant was founded in 1965.", "Annual production: over 100 million bottles.", "Recycled content: about 40% of raw material.", "The plant employs about 300 people.", "Furnaces operate at temperatures above 1,500°C.", "Exports to 10 Caribbean countries."],
     },
+    image: "/poi-images/barbados-cgc-glass-works-economic-v2.webp",
   },
   {
     id: "barbados-mount-standfast-commercial-economic-v2",
@@ -868,6 +895,7 @@ export const barbadosEconomicV2: POI[] = [
       ro: ["Zona s-a dezvoltat în anii 1980.", "Găzduiește aproximativ 20 de magazine și servicii.", "Lungimea sectorului comercial este de aproximativ 500 de metri.", "Aproximativ 1.000 de clienți o vizitează zilnic.", "Cifra de afaceri anuală este estimată la 10 milioane de dolari.", "Parcările oferă locuri pentru 200 de vehicule."],
       en: ["The area developed in the 1980s.", "It houses about 20 shops and services.", "The commercial stretch is about 500 meters long.", "Approximately 1,000 customers visit daily.", "Annual turnover is estimated at US$10 million.", "Parking accommodates 200 vehicles."],
     },
+    image: "/poi-images/barbados-mount-standfast-commercial-economic-v2.webp",
   },
   {
     id: "barbados-speightstown-commercial-economic-v2",
@@ -899,6 +927,7 @@ export const barbadosEconomicV2: POI[] = [
       ro: ["Speightstown a fost fondat în jurul anului 1650.", "Centrul cuprinde aproximativ 30 de magazine.", "Queen Street are o lungime de aproximativ 800 de metri.", "Aproximativ 500 de persoane lucrează în centru.", "Piața de pește există din 1805.", "Anual se tranzacționează aproximativ 2.000 de tone de pește."],
       en: ["Speightstown was founded around 1650.", "The center comprises about 30 shops.", "Queen Street is about 800 meters long.", "Around 500 people work in the center.", "The fish market has operated since 1805.", "About 2,000 tons of fish are traded annually."],
     },
+    image: "/poi-images/barbados-speightstown-commercial-economic-v2.webp",
   },
   {
     id: "barbados-the-pine-industrial-economic-v2",
@@ -930,5 +959,6 @@ export const barbadosEconomicV2: POI[] = [
       ro: ["Parcul industrial a fost fondat în anii 1960.", "Se întinde pe aproximativ 80 de hectare.", "Peste 60 de companii sunt instalate aici.", "Numărul de angajați este de aproximativ 3.000.", "Parcul are o centrală electrică proprie cu o capacitate de 10 MW.", "Producția din parc generează o cifră de afaceri anuală de 200 de milioane de dolari."],
       en: ["The industrial estate was founded in the 1960s.", "It covers about 80 hectares.", "Over 60 companies are based here.", "Employment is around 3,000.", "The estate has its own power plant with 10 MW capacity.", "Production in the estate generates annual revenue of US$200 million."],
     },
+    image: "/poi-images/barbados-the-pine-industrial-economic-v2.webp",
   }
 ];

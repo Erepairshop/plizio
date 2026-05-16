@@ -32,6 +32,7 @@ export const bulgariaEconomicV2: POI[] = [
       ro: ["Gabrovo este unul dintre cele mai lungi orașe din Bulgaria, având peste 25 de kilometri lungime.", "Orașul a fondat în 1835 Gimnaziul Aprilov, prima școală bulgară modernă.", "Muzeul în aer liber Etar prezintă meșteșuguri tradiționale acționate de forța apei.", "În anii 1930, Gabrovo producea aproximativ 60% din totalul textilelor bulgare.", "Universitatea Tehnică din Gabrovo este un centru de vârf pentru cercetarea în mechatronică.", "Muzeul Umorului și Satirei a fost inaugurat la data de 1 aprilie 1972."],
       en: ["With a length of over 25 kilometers, Gabrovo is one of the longest cities in Bulgaria.", "The city founded the Aprilov High School in 1835, Bulgaria's first modern secular school.", "The Etar Open Air Museum showcases traditional crafts powered by hydraulic energy.", "In the 1930s, Gabrovo produced approximately 60% of all Bulgarian textile output.", "The Technical University of Gabrovo is a leading center for mechatronics research.", "The Museum of Humor and Satire was officially opened on April 1, 1972."],
     },
+    image: "/poi-images/bulgaria-gabrovo-industry-economic-v2.webp",
   },
   {
     id: "bulgaria-asenovgrad-agri-economic-v2",
@@ -64,6 +65,7 @@ export const bulgariaEconomicV2: POI[] = [
       ro: ["Soiul de struguri Mavrud este cultivat în Asenovgrad încă din Evul Mediu.", "În oraș există peste 10 biserici și mai mult de 50 de capele.", "Asenovgrad este cunoscut la nivel național ca centrul industriei rochiilor de mireasă.", "Cetatea lui Asen a fost extinsă în secolul al XIII-lea de țarul Ioan Asan al II-lea.", "Muzeul Paleontologic adăpostește unul dintre cele mai mari schelete de Deinotherium din Europa.", "Viticultura se concentrează în Câmpia Traciei Superioare, care este extrem de fertilă."],
       en: ["The Mavrud grape variety has been cultivated in Asenovgrad since the Middle Ages.", "The city contains over 10 churches and more than 50 chapels.", "Asenovgrad is nationally recognized as the hub of the bridal fashion industry.", "Asen's Fortress was significantly expanded in the 13th century by Tsar Ivan Asen II.", "The Paleontological Museum houses one of the largest Deinotherium skeletons in Europe.", "Viticulture is concentrated in the fertile Upper Thracian Plain surrounding the city."],
     },
+    image: "/poi-images/bulgaria-asenovgrad-agri-economic-v2.webp",
   },
   {
     id: "bulgaria-devnya-industrial-zone-economic-v2",
@@ -96,6 +98,7 @@ export const bulgariaEconomicV2: POI[] = [
       ro: ["Compania Solvay Sodi din Devnya este cel mai mare producător de sodă din Europa.", "Carierele de calcar de lângă Devnya furnizează materii prime fabricilor de zeci de ani.", "Portul Varna-Vest a fost construit special pentru transportul produselor industriale din Devnya.", "Muzeul Mozaicurilor din Devnya a fost ridicat peste ruinele unei vile romane.", "Agropolychim este unul dintre principalii producători de îngrășăminte cu fosfat din Balcani.", "În zonă sunt procesate anual milioane de tone de produse chimice."],
       en: ["The Solvay Sodi plant in Devnya is the largest producer of soda ash in Europe.", "Limestone quarries near Devnya have supplied raw materials to the plants for decades.", "Port Varna-West was specifically designed to handle Devnya's massive industrial output.", "The Museum of Mosaics in Devnya was built directly over the ruins of a Roman villa.", "Agropolychim is a leading manufacturer of phosphate fertilizers in the Balkan region.", "The industrial zone processes millions of tons of chemical products annually."],
     },
+    image: "/poi-images/bulgaria-devnya-industrial-zone-economic-v2.webp",
   },
   {
     id: "bulgaria-kurdzhali-lead-zinc-economic-v2",
@@ -128,6 +131,7 @@ export const bulgariaEconomicV2: POI[] = [
       ro: ["Combinatul de plumb și zinc din Kardzhali a produs metale pentru piața mondială timp de decenii.", "Kardzhali este centrul extracției de perlit din Bulgaria.", "Râul Arda este reglat de trei baraje mari situate în regiune.", "Perperikon, orașul sacru al tracilor, se află la aproximativ 15 kilometri de Kardzhali.", "Economia regională este diversificată în prezent prin investiții în industria componentelor auto.", "Lacul de acumulare Kardzhali are unul dintre cele mai înalte baraje în arc din Balcani."],
       en: ["The Kardzhali lead and zinc plant produced metals for global markets for decades.", "Kardzhali is the primary center for perlite extraction in Bulgaria.", "The Arda River is regulated by three major dams within the local region.", "Perperikon, the sacred Thracian city, is located about 15 kilometers from Kardzhali.", "The regional economy is currently diversifying through investments in automotive components.", "The Kardzhali Reservoir features one of the highest arch dams in the Balkan Peninsula."],
     },
+    image: "/poi-images/bulgaria-kurdzhali-lead-zinc-economic-v2.webp",
   },
   {
     id: "bulgaria-radnevo-lignite-economic-v2",
@@ -160,6 +164,7 @@ export const bulgariaEconomicV2: POI[] = [
       ro: ["Bazinul Marița-Iztok este cel mai mare zăcământ de lignit din Europa de Sud-Est.", "Radnevo a fost declarat oficial oraș în anul 1964.", "Complexul minier angajează mii de specialiști din întreaga regiune.", "Săpăturile arheologice de salvare din zona minieră au documentat peste 100 de tumuli tracici.", "Producția anuală de cărbune în regiune depășește adesea 25 de milioane de tone.", "În Radnevo se află un monument dedicat Sfântului Ioan de Rila, patronul minerilor."],
       en: ["The Maritsa Iztok basin is the largest lignite deposit in Southeast Europe.", "Radnevo was officially granted town status in 1964.", "The mining complex employs thousands of specialists from across the entire region.", "Rescue archaeological digs in the mining area have documented over 100 Thracian burial mounds.", "Annual coal production in the region frequently exceeds 25 million tons.", "Radnevo features a monument to Saint Ivan of Rila, the patron saint of miners."],
     },
+    image: "/poi-images/bulgaria-radnevo-lignite-economic-v2.webp",
   },
   {
     id: "bulgaria-kremikovtsi-industrial-site-economic-v2",
@@ -192,6 +197,7 @@ export const bulgariaEconomicV2: POI[] = [
       ro: ["Combinatul siderurgic Kremikovtsi a fost construit inițial pentru prelucrarea minereurilor de fier locale.", "Mănăstirea Kremikovtsi adăpostește fresce valoroase din secolul al XV-lea.", "După 1989, combinatul a fost privatizat, dar nu a putut fi operat profitabil.", "Terenul industrial acoperă o suprafață de câțiva kilometri pătrați.", "Părți ale combinatului au fost folosite ca platouri de filmare pentru producții internaționale.", "Cartierul Kremikovtsi este situat la poalele Munților Balcani."],
       en: ["The Kremikovtsi metallurgical plant was originally established to process local iron ore deposits.", "The Kremikovtsi Monastery contains valuable frescoes dating back to the 15th century.", "The plant was privatized after 1989 but failed to achieve long-term profitability.", "The industrial site encompasses an area of several square kilometers.", "Portions of the factory have served as filming locations for international movie productions.", "The Kremikovtsi district is situated at the foothills of the Balkan Mountain range."],
     },
+    image: "/poi-images/bulgaria-kremikovtsi-industrial-site-economic-v2.webp",
   },
   {
     id: "bulgaria-pirdop-copper-economic-v2",
@@ -224,6 +230,7 @@ export const bulgariaEconomicV2: POI[] = [
       ro: ["Aurubis Bulgaria din Pirdop este una dintre companiile cu cele mai mari cifre de afaceri din țară.", "Combinatul produce anual peste 200.000 de tone de cupru anodic.", "Bazilica Elenska datează din secolele IV-VI d.Hr.", "Pirdop se află pe linia de cale ferată strategică Sofia-Burgas.", "Orașul formează o aglomerație industrială împreună cu localitatea vecină Zlatitsa.", "Cantități mari de acid sulfuric sunt exportate ca produs secundar pentru industria îngrășămintelor."],
       en: ["Aurubis Bulgaria in Pirdop is one of the highest-revenue companies in the country.", "The facility produces over 200,000 tons of anode copper annually.", "The Elenska Basilica dates back to the 4th–6th centuries AD.", "Pirdop is located along the strategically important Sofia-Burgas railway line.", "The town, along with neighboring Zlatitsa, forms a significant industrial agglomeration.", "Large volumes of sulfuric acid are exported as a by-product for use in the fertilizer industry."],
     },
+    image: "/poi-images/bulgaria-pirdop-copper-economic-v2.webp",
   },
   {
     id: "bulgaria-svishtov-port-economic-v2",
@@ -256,6 +263,7 @@ export const bulgariaEconomicV2: POI[] = [
       ro: ["Cel mai sudic port de pe Dunăre situat pe teritoriul Bulgariei.", "Conexiune feroviară directă cu magistrala Sviștov-Levski.", "Principalul punct de transbordare pentru exportul de cereale din Câmpia Dunării.", "Modernizarea terminalelor a fost accelerată după aderarea la UE în 2007.", "Portul are o capacitate totală de operare de peste 1 milion de tone anual.", "Sediul Academiei de Economie Tsenov, specializată în management logistic."],
       en: ["The southernmost port on the Danube river within Bulgarian territory.", "Direct railway connection to the Svishtov-Levski line.", "Key transshipment point for grain exports from the Danubian Plain.", "Terminal modernization intensified significantly after EU accession in 2007.", "The port has a total annual handling capacity exceeding 1 million tons.", "Home to the Tsenov Academy of Economics, established in 1936."],
     },
+    image: "/poi-images/bulgaria-svishtov-port-economic-v2.webp",
   },
   {
     id: "bulgaria-sevlievo-industry-economic-v2",
@@ -288,6 +296,7 @@ export const bulgariaEconomicV2: POI[] = [
       ro: ["Găzduiește una dintre cele mai mari fabrici de ceramică sanitară din Europa.", "Centru major pentru producția de echipamente de înaltă tensiune ABB.", "Rata șomajului în Sevlievo este adesea printre cele mai scăzute din țară.", "Amplasare strategică pe drumul european E772 (Sofia-Varna).", "Tradiția producției industriale de ceramică a început în anii 1930.", "Investiții masive în tehnologii de protecție a mediului în unitățile locale."],
       en: ["Home to one of the largest sanitary ceramics factories in Europe.", "Major production base for ABB's high-voltage electrical equipment.", "The unemployment rate in Sevlievo is consistently among the lowest in Bulgaria.", "Strategically located on the main E772 road (Sofia-Varna).", "Industrial ceramic production traditions date back to the 1930s.", "Significant investments have been made in green technologies within local plants."],
     },
+    image: "/poi-images/bulgaria-sevlievo-industry-economic-v2.webp",
   },
   {
     id: "bulgaria-karnobat-agri-economic-v2",
@@ -320,6 +329,7 @@ export const bulgariaEconomicV2: POI[] = [
       ro: ["Karnobat este unul dintre cei mai mari producători de cereale din regiunea Burgas.", "Tradiția viticolă este marcată de moștenirea fraților Minkov.", "Nod feroviar crucial pentru traficul de mărfuri către portul Burgas.", "Orașul găzduiește un turn cu ceas istoric construit în anul 1841.", "Producție semnificativă de ulei de floarea-soarelui și furaje.", "Regiunea deține una dintre cele mai moderne crame din Peninsula Balcanică."],
       en: ["Karnobat is among the largest grain producers in the Burgas region.", "The winemaking tradition is heavily influenced by the Minkov Brothers' legacy.", "Key railway junction for freight traffic heading to the Port of Burgas.", "The town features a historical clock tower dating back to 1841.", "Significant production of sunflower oil and animal feed happens here.", "The region hosts one of the most modern wineries in the Balkans."],
     },
+    image: "/poi-images/bulgaria-karnobat-agri-economic-v2.webp",
   },
   {
     id: "bulgaria-dolna-mitropoliya-economic-v2",
@@ -352,6 +362,7 @@ export const bulgariaEconomicV2: POI[] = [
       ro: ["Sediul Academiei Forțelor Areriene 'Georgi Benkovski', fondată în 1945.", "Aerodromul militar servește drept centru de instruire pentru piloții bulgari.", "Locație importantă pentru cultivarea cerealelor și a florii-soarelui.", "Investiții într-o unitate majoră de producție pentru bioetanol.", "Proximitate geografică (cca. 10 km) față de centrul regional Plevna.", "Zona economică beneficiază de conexiunea la magistrala feroviară Sofia-Varna."],
       en: ["Seat of the 'Georgi Benkovski' Air Force Academy, established in 1945.", "The military airfield serves as the primary training hub for Bulgarian pilots.", "Key location for the large-scale cultivation of grain and sunflowers.", "Significant investments have been made in a major bioethanol production plant.", "Geographically located only 10 km from the regional center of Pleven.", "The economic zone benefits from its proximity to the Sofia-Varna railway line."],
     },
+    image: "/poi-images/bulgaria-dolna-mitropoliya-economic-v2.webp",
   },
   {
     id: "bulgaria-haskovo-textile-economic-v2",
@@ -384,6 +395,7 @@ export const bulgariaEconomicV2: POI[] = [
       ro: ["Haskovo a fost anterior unul dintre cele mai mari centre de procesare a tutunului din Bulgaria.", "Locație majoră pentru construcția de mașini destinate liniilor de îmbuteliere.", "Amplasare strategică pe coridoarele de transport paneuropene 4 și 9.", "Orașul găzduiește cel mai înalt monument al Fecioarei Maria din lume.", "Integrare economică strânsă cu punctul de frontieră turc (Kapitan Andreevo).", "Industria textilă produce în prezent masiv pentru branduri europene renumite."],
       en: ["Haskovo was formerly one of the largest tobacco processing centers in Bulgaria.", "Important mechanical engineering hub for bottling lines and food technology.", "Strategically located on Pan-European transport corridors 4 and 9.", "The city is home to the world's tallest monument of the Virgin Mary.", "Strong economic ties with the nearby Turkish border crossing at Kapitan Andreevo.", "The textile industry now increasingly produces for major European fashion brands."],
     },
+    image: "/poi-images/bulgaria-haskovo-textile-economic-v2.webp",
   },
   {
     id: "bulgaria-kaspichan-transport-economic-v2",
@@ -416,6 +428,7 @@ export const bulgariaEconomicV2: POI[] = [
       ro: ["Kaspichan a fost una dintre primele stații de cale ferată din Bulgaria (linia Ruse-Varna).", "Sediul fabricii Roca Bulgaria, una dintre cele mai moderne unități ale grupului.", "Nod feroviar esențial pentru traficul de pasageri și de mărfuri.", "Amplasare strategică pe autostrada A2 (Hemus), care leagă Sofia de Varna.", "În apropiere se află monumentul 'Călărețul din Madara', inclus în patrimoniul UNESCO.", "Orașul are o tradiție îndelungată în fabricarea sticlei tehnice."],
       en: ["Kaspichan was one of the first railway stations in Bulgaria (Ruse-Varna line).", "Home to the Roca Bulgaria factory, one of the group's most advanced plants.", "Key railway junction for both passenger and freight transport in the northeast.", "Strategically located on the A2 (Hemus) motorway connecting Sofia and Varna.", "The UNESCO World Heritage site 'Madara Rider' is located nearby.", "The town has a long-standing tradition in the production of technical glass."],
     },
+    image: "/poi-images/bulgaria-kaspichan-transport-economic-v2.webp",
   },
   {
     id: "bulgaria-gorni-oryahovitsa-transport-economic-v2",
@@ -448,6 +461,7 @@ export const bulgariaEconomicV2: POI[] = [
       ro: ["Cel mai mare nod feroviar din nordul Bulgariei, cu șase direcții principale.", "Sediul rafinăriei 'Zaharni Zavodi', fondată în anul 1912.", "'Gorna Oryahovitsa Sudzhuk' este un produs protejat la nivelul Uniunii Europene.", "Aeroport internațional dotat cu o pistă de decolare-aterizare de 2.450 metri.", "Centru proeminent pentru fabricarea aparatelor de încălzire și a boilerelor.", "Amplasare strategică la intersecția coridoarelor Sofia-Varna și Ruse-Stara Zagora."],
       en: ["The largest railway junction in Northern Bulgaria with six major directions.", "Home to 'Zaharni Zavodi' (Sugar Factories), established in 1912.", "'Gorna Oryahovitsa Sudzhuk' is a GI-protected meat product in the EU.", "Features an international airport with a 2,450-meter-long runway.", "Significant center for the manufacturing of heating appliances and boilers.", "Strategically located at the intersection of the Sofia-Varna and Ruse-Stara Zagora routes."],
     },
+    image: "/poi-images/bulgaria-gorni-oryahovitsa-transport-economic-v2.webp",
   },
   {
     id: "bulgaria-yambol-industry-economic-v2",
@@ -480,6 +494,7 @@ export const bulgariaEconomicV2: POI[] = [
       ro: ["Fostul sediu al 'Yambolen', cel mai mare producător de fibre sintetice din Balcani.", "Producător major de brânzeturi și produse lactate din regiune.", "Conexiune strategică la autostrada A1 (Trakia).", "Orașul găzduiește un 'Bezisten' istoric (hală comercială) din secolul al XV-lea.", "Producție semnificativă de utilaje agricole și structuri metalice.", "Distanța până la portul de mare adâncime Burgas este de numai aproximativ 90 km."],
       en: ["Former site of 'Yambolen', once the largest synthetic fiber producer in the Balkans.", "Key producer of cheese and dairy products in southeastern Bulgaria.", "Strategically connected to the A1 (Trakia) motorway.", "The city features a historical 15th-century 'Bezisten' (covered market).", "Important center for the production of agricultural machinery and metal structures.", "The distance to the deep-water Port of Burgas is only about 90 kilometers."],
     },
+    image: "/poi-images/bulgaria-yambol-industry-economic-v2.webp",
   },
   {
     id: "bulgaria-panagyurishte-optics-economic-v2",
@@ -512,6 +527,7 @@ export const bulgariaEconomicV2: POI[] = [
       ro: ["Sediul 'Asarel-Medet', prima și cea mai mare exploatare de cupru din țară.", "Centru pentru optică high-tech cu exporturi în peste 40 de țări.", "Opticoelectron a fost fondată încă din 1971 ca fabrică de optică specializată.", "Orașul investește masiv într-un spital modern și infrastructură socială.", "Locul de proveniență al celebrului tezaur de aur tracic (9 vase, cca. 6 kg aur pur).", "Una dintre cele mai mari mase salariale pe cap de locuitor din provincia bulgară."],
       en: ["Home to 'Asarel-Medet', the first and largest copper mining operation in Bulgaria.", "Hub for high-tech optics with exports reaching more than 40 countries.", "Opticoelectron was established in 1971 as a specialized optics facility.", "The town invests heavily in a state-of-the-art hospital and social infrastructure.", "Discovery site of the world-famous Thracian Gold Treasure (9 vessels, approx. 6 kg gold).", "Boasts one of the highest per-capita income levels in rural Bulgaria."],
     },
+    image: "/poi-images/bulgaria-panagyurishte-optics-economic-v2.webp",
   },
   {
     id: "bulgaria-silistra-port-economic-v2",
@@ -544,6 +560,7 @@ export const bulgariaEconomicV2: POI[] = [
       ro: ["Cel mai estic port bulgăresc de pe Dunăre înainte de intrarea în România.", "Legătură importantă de feribot Silistra-Călărași pentru traficul internațional.", "Silozuri mari de cereale cu capacitate de depozitare semnificativă pentru Dobrogea.", "Zona portuară include și o zonă comercială liberă pentru stimularea investițiilor.", "În imediata apropiere se află rezervația naturală Srebarna, inclusă în UNESCO.", "Succesor istoric al castrului roman de legiune Durostorum."],
       en: ["The easternmost Bulgarian port on the Danube before the river enters Romania.", "Key Silistra-Călărași ferry crossing for international transit and logistics.", "Large grain silos with significant storage capacity for Dobruja's harvests.", "The port area includes a free trade zone to encourage industrial investment.", "The UNESCO-protected Srebarna Nature Reserve is located in the vicinity.", "The historical successor to the Roman legionary camp of Durostorum."],
     },
+    image: "/poi-images/bulgaria-silistra-port-economic-v2.webp",
   },
   {
     id: "bulgaria-razgrad-pharma-economic-v2",
@@ -576,6 +593,7 @@ export const bulgariaEconomicV2: POI[] = [
       ro: ["Fondată în 1954 ca fabrică de stat specializată în producția de antibiotice.", "În prezent face parte din grupul Huvepharma, activ la nivel global în sănătatea animală.", "Specializată în procese de fermentație la scară industrială pentru ingrediente active.", "Exportă produse farmaceutice în peste 100 de țări de pe toate continentele.", "Este un producător major de tilozină, un antibiotic esențial pentru sectorul veterinar.", "Oferă locuri de muncă pentru câteva mii de specialiști din regiunea Razgrad."],
       en: ["Established in 1954 as the state-owned \"Antibiotic\" manufacturing plant.", "Now part of the Huvepharma group, a global leader in animal health products.", "Specializes in large-scale industrial fermentation for active pharmaceutical ingredients.", "Exports pharmaceutical goods to more than 100 countries across the globe.", "A primary producer of tylosin, a key macrolide antibiotic used in livestock.", "Employs several thousand skilled professionals in the Razgrad industrial zone."],
     },
+    image: "/poi-images/bulgaria-razgrad-pharma-economic-v2.webp",
   },
   {
     id: "bulgaria-targovishte-glass-economic-v2",
@@ -608,6 +626,7 @@ export const bulgariaEconomicV2: POI[] = [
       ro: ["Producția a început în 2004 în urma unei investiții masive a grupului Sisecam.", "Este considerat cel mai mare complex de producție a sticlei din Peninsula Balcanică.", "Fabrica deține linii separate pentru sticlă plană, geamuri auto și menaj.", "Peste 80% din producția realizată aici este destinată exportului extern.", "Platforma industrială oferă peste 2.000 de locuri de muncă directe specialiștilor.", "Utilizează tehnologii de vârf pentru fabricarea sticlei arhitecturale eficiente energetic."],
       en: ["Operations began in 2004 following a major investment by the Sisecam Group.", "It is currently the largest glass manufacturing complex in the Balkan Peninsula.", "The facility includes specialized lines for float glass, automotive glass, and glassware.", "Over 80% of the total production is exported to international markets.", "The industrial site employs more than 2,000 specialists from the local region.", "Advanced technology used here focuses on producing energy-efficient architectural glass."],
     },
+    image: "/poi-images/bulgaria-targovishte-glass-economic-v2.webp",
   },
   {
     id: "bulgaria-samokov-potatoes-economic-v2",
@@ -640,6 +659,7 @@ export const bulgariaEconomicV2: POI[] = [
       ro: ["Cultivarea cartofului în zona Samokov a fost documentată prima dată în 1835.", "Terenurile agricole sunt situate la o altitudine medie de 950 de metri.", "Din 1951, orașul găzduiește Institutul de Cercetare pentru Cultura Cartofului.", "Regiunea este principalul furnizor de cartofi de sămânță pentru fermierii bulgari.", "Cartofii de Samokov sunt apreciați pentru conținutul bogat în minerale montane.", "Verile răcoroase din Munții Rila limitează răspândirea naturală a dăunătorilor agricoli."],
       en: ["Potato cultivation in the Samokov region began historically in 1835.", "Farming fields are located at an average altitude of 950 meters above sea level.", "A specialized Potato Research Institute has been operating in the city since 1951.", "The region is the primary supplier of certified seed potatoes in Bulgaria.", "Samokov potatoes are famous for their rich taste due to mountain soil minerals.", "The cool alpine climate provides a natural defense against common agricultural pests."],
     },
+    image: "/poi-images/bulgaria-samokov-potatoes-economic-v2.webp",
   },
   {
     id: "bulgaria-lovech-industry-economic-v2",
@@ -672,6 +692,7 @@ export const bulgariaEconomicV2: POI[] = [
       ro: ["În anii 1940, la Loveci a fost produs avionul de antrenament Laz-7.", "Unitatea farmaceutică Balkanpharma-Loveci funcționează neîntrerupt din 1954.", "Sparky Eltos este un producător major de scule electrice profesionale în Europa.", "Orașul are o istorie bogată în asamblarea de automobile pentru piața bulgară.", "Majoritatea marilor fabrici sunt amplasate strategic de-a lungul râului Osăm.", "Sistemul local de învățământ tehnic furnizează constant specialiști industriei grele."],
       en: ["The Bulgarian-designed Laz-7 aircraft was produced in Lovech during the 1940s.", "The Balkanpharma pharmaceutical plant was established in the city in 1954.", "Sparky Eltos is a leading European manufacturer of professional power tools.", "Lovech has a long-standing history in the assembly of passenger vehicles.", "The city's industrial zones are primarily located along the banks of the Osam River.", "The local technical high schools provide a steady stream of skilled engineers."],
     },
+    image: "/poi-images/bulgaria-lovech-industry-economic-v2.webp",
   },
   {
     id: "bulgaria-momchilgrad-tobacco-economic-v2",
@@ -704,6 +725,7 @@ export const bulgariaEconomicV2: POI[] = [
       ro: ["Regiunea este specializată în soiul Basma, unul dintre cele mai scumpe tutunuri orientale.", "Uscarea frunzelor se face tradițional la soare, pe rame speciale din lemn.", "Tutunul reprezintă principala sursă de venit pentru peste 60% din populația rurală.", "Calitatea este influențată de solurile calcaroase specifice din estul Munților Rodopi.", "Momcilgrad găzduiește depozite mari pentru fermentarea și sortarea manuală a frunzelor.", "Datorită acestei regiuni, Bulgaria rămâne un exportator de top de tutun aromat."],
       en: ["Specializes in the Basma variety, one of the most expensive Oriental tobaccos.", "The tobacco leaves are traditionally cured using direct sunlight on wooden racks.", "Tobacco farming is the primary income source for over 60% of the rural population.", "The crop's unique aroma is derived from the specific limestone soils of the Rhodopes.", "Momchilgrad features large-scale facilities for manual sorting and fermentation.", "Bulgaria is a top global exporter of Oriental tobacco thanks to regions like this."],
     },
+    image: "/poi-images/bulgaria-momchilgrad-tobacco-economic-v2.webp",
   },
   {
     id: "bulgaria-sopot-machinery-economic-v2",
@@ -736,6 +758,7 @@ export const bulgariaEconomicV2: POI[] = [
       ro: ["Uzina VMZ Sopot a fost înființată oficial în anul 1936.", "Este cel mai mare angajator de stat din industria de apărare a Bulgariei.", "Specializată în sisteme antitanc și rachete sol-aer de rază scurtă.", "Deține facilități de producție și depozitare securizate, parțial subterane.", "Contribuie major la volumul total al exporturilor militare ale Bulgariei.", "Orașul găzduiește licee tehnice specializate în prelucrarea metalelor."],
       en: ["The VMZ Sopot plant was officially established in 1936.", "It is the largest state-owned employer in the Bulgarian defense sector.", "Specializes in anti-tank guided missiles and heavy artillery shells.", "The complex includes extensive secure underground production facilities.", "The site is a major contributor to Bulgaria's national industrial exports.", "Sopot is home to specialized vocational schools for mechanical engineering."],
     },
+    image: "/poi-images/bulgaria-sopot-machinery-economic-v2.webp",
   },
   {
     id: "bulgaria-devin-mineral-economic-v2",
@@ -768,6 +791,7 @@ export const bulgariaEconomicV2: POI[] = [
       ro: ["Apa minerală din Devin are un pH natural ridicat, de aproximativ 9,3.", "Forajele utilizate pentru extracția apei ajung la adâncimi de 700 de metri.", "Devin JSC este prima companie bulgară de îmbuteliere cu certificări internaționale.", "Orașul dispune de peste 15 surse diferite de apă minerală naturală.", "Temperatura apei din izvoarele termale locale atinge până la 76 grade Celsius.", "Regiunea este declarată zonă de protecție ecologică cu restricții stricte."],
       en: ["Devin mineral water has a high natural alkalinity with a pH of about 9.3.", "The boreholes used for water extraction reach depths of up to 700 meters.", "Devin JSC was the first Bulgarian bottler to receive international quality certifications.", "There are over 15 distinct natural mineral springs located within the town area.", "The temperature of the local thermal springs can reach as high as 76 degrees Celsius.", "The surrounding area is certified as an ecologically clean protected zone."],
     },
+    image: "/poi-images/bulgaria-devin-mineral-economic-v2.webp",
   },
   {
     id: "bulgaria-eliseina-metal-economic-v2",
@@ -800,5 +824,6 @@ export const bulgariaEconomicV2: POI[] = [
       ro: ["Combinatul de cupru din Eliseina a fost fondat înainte de Primul Război Mondial.", "Locația a utilizat energia hidroelectrică a râului Iskar pentru primele utilaje.", "Coșurile de fum ale fabricii erau printre cele mai înalte structuri din defileul Iskar.", "Materia primă provenea în principal din minele vecine din zona Plakalnița.", "În anii 1990, activitatea a fost redusă drastic din cauza problemelor de mediu.", "Calea ferată prin defileu a fost vitală pentru logistica transportului de minereu."],
       en: ["The copper smelting plant in Eliseina was established before World War I.", "The site utilized the hydroelectric power of the Iskar River for early industry.", "The factory chimneys were among the tallest structures in the Iskar Gorge.", "Raw materials were primarily sourced from the nearby Plakalnitsa mines.", "Production was significantly curtailed in the 1990s due to environmental issues.", "The railway line through the gorge was essential for the transport of heavy ore."],
     },
+    image: "/poi-images/bulgaria-eliseina-metal-economic-v2.webp",
   }
 ];

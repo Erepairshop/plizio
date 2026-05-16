@@ -31,6 +31,7 @@ export const republicofcongoHistoryV2: POI[] = [
       ro: ["Port istoric de sclavi (sec. XV-XIX)", "Capitala Regatului Loango", "Monumentul rutei sclavilor inaugurat în 2018", "Pe lista tentativă UNESCO din 2008", "Situat la 30 km nord de Pointe-Noire", "Punct de plecare pentru milioane de oameni"],
       en: ["Historic slave trade port (15th-19th c.)", "Capital of the Kingdom of Loango", "Slave route monument inaugurated in 2018", "UNESCO tentative list site since 2008", "Located 30 km north of Pointe-Noire", "Point of departure for millions of people"],
     },
+    image: "/poi-images/republicofcongo-loango-harbor-history-v2.webp",
   },
   {
     id: "republicofcongo-poto-poto-history-v2",
@@ -62,6 +63,7 @@ export const republicofcongoHistoryV2: POI[] = [
       ro: ["Cartier istoric din Brazzaville", "Școala de Pictură Poto-Poto (1951)", "Fondată de Pierre Lods în 1951", "Centru al culturii urbane congoleze", "Faimos pentru piețele locale vibrante", "Mix arhitectural unic de vechi și nou"],
       en: ["Historic district of Brazzaville", "Home to Poto-Poto Painting School (1951)", "Founded by Pierre Lods in 1951", "Center of Congolese urban culture", "Famous for its vibrant local markets", "Unique architectural blend of old and new"],
     },
+    image: "/poi-images/republicofcongo-poto-poto-history-v2.webp",
   },
   {
     id: "republicofcongo-mouyondzi-site-history-v2",
@@ -93,6 +95,7 @@ export const republicofcongoHistoryV2: POI[] = [
       ro: ["Semnificație arheologică în Bouenza", "Descoperiri de unelte din neolitic", "Centru istoric pentru poporul Beembe", "Situat la 500 de metri altitudine", "Stație de cercetare agricolă în apropiere", "Situl misiunilor de la începutul sec. XX"],
       en: ["Archaeological significance in Bouenza", "Finds include Neolithic stone tools", "Historically a center for the Beembe people", "Located at 500 meters altitude", "Key agricultural research station nearby", "Site of early 20th-century missions"],
     },
+    image: "/poi-images/republicofcongo-mouyondzi-site-history-v2.webp",
   },
   {
     id: "republicofcongo-dolisie-railway-history-v2",
@@ -124,5 +127,6 @@ export const republicofcongoHistoryV2: POI[] = [
       ro: ["Al treilea oraș ca mărime din Congo", "Fondat sub numele Loubomo în 1934", "Nod central pentru operațiunile CFCO", "Ateliere și depouri feroviare istorice", "Numit după exploratorul Albert Dolisie", "Cunoscut drept capitala verde a șinei"],
       en: ["Third-largest city in the Congo", "Founded as Loubomo in 1934", "Central hub for CFCO railway operations", "Historical railway workshops and depots", "Named after explorer Albert Dolisie", "Known as the green capital of the rail"],
     },
+    image: "/poi-images/republicofcongo-dolisie-railway-history-v2.webp",
   }
 ];

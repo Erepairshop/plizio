@@ -131,6 +131,7 @@ export const poiExtraAfghanistanNatureV2: POI[] = [
       ro: ["planificat, încă neoficial", "situat în provincia Nuristan", "protejează pădurile de cedri și stejari", "găzduiește cinteza de zăpadă afgană", "istoric numit Kafiristan", "convertit la islam în secolul al XIX-lea"],
       en: ["planned, not yet official", "located in Nuristan Province", "protects cedar and oak forests", "hosts Afghan snow finch", "historically called Kafiristan", "converted to Islam in 19th century"],
     },
+    image: "/poi-images/afghanistan-nuristan-national-park-nature-v2.webp",
   },
   {
     id: "afghanistan-amudarja-nature-v2",

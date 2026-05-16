@@ -32,6 +32,7 @@ export const irelandLandmarksV2: POI[] = [
       ro: ["Anul construcției: 1520", "Înălțimea turnului: 23 metri", "Locație: Kinvara, Comitatul Galway", "Clan fondator: O'Hynes", "Restaurare: 1954", "Utilizare actuală: Muzeu și evenimente"],
       en: ["Built: 1520", "Tower height: 23 meters", "Location: Kinvara, County Galway", "Restored: 1954", "Primary clan: O'Hynes", "Event type: Medieval banquets"],
     },
+    image: "/poi-images/ireland-dunguaire-castle-landmarks-v2.webp",
   },
   {
     id: "ireland-bunratty-castle-landmarks-v2",
@@ -64,6 +65,7 @@ export const irelandLandmarksV2: POI[] = [
       ro: ["Anul finalizării: 1425", "Clan: O'Brien", "Locație: Comitatul Clare", "Piese de mobilier: peste 450 obiecte", "Parc etnografic: 10 hectare", "Acces public: din 1962"],
       en: ["Construction date: 1425", "Dominant clan: O'Brien", "Location: Bunratty, County Clare", "Restoration: 1954", "Site size: 10-hectare folk park", "Architectural style: Tower house"],
     },
+    image: "/poi-images/ireland-bunratty-castle-landmarks-v2.webp",
   },
   {
     id: "ireland-st-marys-cathedral-landmarks-v2",
@@ -96,6 +98,7 @@ export const irelandLandmarksV2: POI[] = [
       ro: ["Anul fondării: 1168", "Stil: romanic și gotic", "Cea mai veche clădire din oraș", "Turnul are o înălțime de 36 metri"],
       en: ["Founded in 1168", "Style: Romanesque and Gothic", "Oldest building in Limerick", "Built on a former Viking palace site"],
     },
+    image: "/poi-images/ireland-st-marys-cathedral-landmarks-v2.webp",
   },
   {
     id: "ireland-tall-ship-jeanie-johnston-landmarks-v2",
@@ -128,6 +131,7 @@ export const irelandLandmarksV2: POI[] = [
       ro: ["Replica construită în: 2002", "Lungime: 52 metri", "Număr de traversări: 16", "Locație: Dublin Docklands"],
       en: ["Replica built in 2002", "Length: 52 meters", "Original voyages: 16", "Location: Dublin Docklands"],
     },
+    image: "/poi-images/ireland-tall-ship-jeanie-johnston-landmarks-v2.webp",
   },
   {
     id: "ireland-lismore-castle-landmarks-v2",
@@ -160,6 +164,7 @@ export const irelandLandmarksV2: POI[] = [
       ro: ["Fondat inițial în: 1185", "Proprietar: Ducele de Devonshire", "Râul: Blackwater", "Grădini: 7 hectare"],
       en: ["Founded in 1185", "Owner: Duke of Devonshire", "River: Blackwater", "Garden size: 7 hectares"],
     },
+    image: "/poi-images/ireland-lismore-castle-landmarks-v2.webp",
   },
   {
     id: "ireland-parkes-castle-landmarks-v2",
@@ -192,6 +197,7 @@ export const irelandLandmarksV2: POI[] = [
       ro: ["Construit în: circa 1610", "Locație: Lough Gill, Leitrim", "Stil: Castel de plantație", "Restaurat în: anii 1980"],
       en: ["Built around 1610", "Location: Lough Gill, Leitrim", "Type: Plantation Castle", "Restored in the 1980s"],
     },
+    image: "/poi-images/ireland-parkes-castle-landmarks-v2.webp",
   },
   {
     id: "ireland-dublin-custom-house-landmarks-v2",
@@ -224,6 +230,7 @@ export const irelandLandmarksV2: POI[] = [
       ro: ["Construcție: 1781–1791", "Arhitect: James Gandon", "Incendiat în: 25 mai 1921", "Lungime fațadă: 114 metri"],
       en: ["Built: 1781–1791", "Architect: James Gandon", "Fire date: May 25, 1921", "Facade length: 114 meters"],
     },
+    image: "/poi-images/ireland-dublin-custom-house-landmarks-v2.webp",
   },
   {
     id: "ireland-blarney-house-landmarks-v2",
@@ -256,6 +263,7 @@ export const irelandLandmarksV2: POI[] = [
       ro: ["Anul construcției: 1874", "Stil arhitectural: Baronial scoțian", "Arhitect: John Lanyon", "Proprietar actual: Familia Colthurst", "Grădini: 60 hectare", "Locație: Blarney, Comitatul Cork"],
       en: ["Completed: 1874", "Style: Scottish Baronial", "Architect: John Lanyon", "Family: Colthurst", "Estate size: 60 hectares", "Location: Near Blarney Castle"],
     },
+    image: "/poi-images/ireland-blarney-house-landmarks-v2.webp",
   },
   {
     id: "ireland-eason-store-landmarks-v2",
@@ -288,6 +296,7 @@ export const irelandLandmarksV2: POI[] = [
       ro: ["Fondare: 1819", "Locație: O'Connell St, Dublin", "Statut: A supraviețuit în 1916", "Tip: Librărie și papetărie"],
       en: ["Founded: 1819", "Location: O'Connell St, Dublin", "Survival: 1916 Easter Rising", "Type: Book and stationery store"],
     },
+    image: "/poi-images/ireland-eason-store-landmarks-v2.webp",
   },
   {
     id: "ireland-cathedral-of-our-lady-landmarks-v2",
@@ -320,6 +329,7 @@ export const irelandLandmarksV2: POI[] = [
       ro: ["Sfințire: 1965", "Înălțime dom: 44 metri", "Material: Calcar local", "Stil: Renaștere și neogotic"],
       en: ["Dedicated: 1965", "Dome height: 44 meters", "Material: Local limestone", "Style: Renaissance and Gothic"],
     },
+    image: "/poi-images/ireland-cathedral-of-our-lady-landmarks-v2.webp",
   },
   {
     id: "ireland-bantry-house-landmarks-v2",
@@ -352,6 +362,7 @@ export const irelandLandmarksV2: POI[] = [
       ro: ["Anul construcției: 1710", "Grădini: 7 terase", "Scări: 100 trepte (Scara spre cer)", "Proprietari: Familia White", "Locație: Bantry, West Cork", "Deschidere publică: 1946"],
       en: ["Original build: 1710", "Garden style: Italianate terraces", "Staircase: 100 steps", "Tapestries: French Aubusson", "First open to public: 1946", "County: Cork"],
     },
+    image: "/poi-images/ireland-bantry-house-landmarks-v2.webp",
   },
   {
     id: "ireland-muckross-house-landmarks-v2",
@@ -384,6 +395,7 @@ export const irelandLandmarksV2: POI[] = [
       ro: ["Anul construcției: 1843", "Număr de camere: 65", "Vizită regală: 1861", "Donat statului în: 1932"],
       en: ["Built: 1843", "Number of rooms: 65", "Royal visit: 1861", "Donated to state: 1932"],
     },
+    image: "/poi-images/ireland-muckross-house-landmarks-v2.webp",
   },
   {
     id: "ireland-adare-manor-landmarks-v2",
@@ -416,6 +428,7 @@ export const irelandLandmarksV2: POI[] = [
       ro: ["Perioada construcției: 1832-1860", "Număr ferestre: 365", "Număr hornuri: 52", "Arhitect: James Pain", "Râu: Maigue", "Județ: Limerick"],
       en: ["Built: 1832-1860", "Windows: 365", "Chimneys: 52", "Architectural style: Neo-Gothic", "River: Maigue", "Function: Luxury hotel and golf resort"],
     },
+    image: "/poi-images/ireland-adare-manor-landmarks-v2.webp",
   },
   {
     id: "ireland-st-canices-cathedral-landmarks-v2",
@@ -448,6 +461,7 @@ export const irelandLandmarksV2: POI[] = [
       ro: ["Construcție: 1251–1285", "Înălțime turn: 30 metri", "Oraș: Kilkenny", "Stil: Gotic timpuriu englez"],
       en: ["Built: 1251–1285", "Round tower height: 30 meters", "Location: Kilkenny", "Style: Early English Gothic"],
     },
+    image: "/poi-images/ireland-st-canices-cathedral-landmarks-v2.webp",
   },
   {
     id: "ireland-cashel-cathedral-landmarks-v2",
@@ -480,6 +494,7 @@ export const irelandLandmarksV2: POI[] = [
       ro: ["Finalizată: 1784", "Stil arhitectural: Georgian", "Denominație: Biserica Irlandei", "Colecție: Biblioteca Bolton", "Număr cărți rare: 12.000", "Locație: Cashel, Tipperary"],
       en: ["Year finished: 1784", "Style: Georgian", "Diocese: Cashel and Ossory", "Library name: Bolton Library", "Collection size: 12,000 volumes", "Location: John Street, Cashel"],
     },
+    image: "/poi-images/ireland-cashel-cathedral-landmarks-v2.webp",
   },
   {
     id: "ireland-graceland-bridge-landmarks-v2",
@@ -512,6 +527,7 @@ export const irelandLandmarksV2: POI[] = [
       ro: ["Anul construcției: 1874", "Râu: Liffey", "Materiale: Fontă și granit", "Lungime: 45 metri", "Nume anterior: Podul Essex", "Locație: Dublin"],
       en: ["Year opened: 1874", "River: Liffey", "Named after: Henry Grattan", "Materials: Cast iron and granite", "Engineer: Bindon Blood Stoney", "Length: 45 meters"],
     },
+    image: "/poi-images/ireland-graceland-bridge-landmarks-v2.webp",
   },
   {
     id: "ireland-gpo-dublin-landmarks-v2",
@@ -544,6 +560,7 @@ export const irelandLandmarksV2: POI[] = [
       ro: ["Perioada construcției: 1814-1818", "Arhitect: Francis Johnston", "Stil: Neoclasic", "Eveniment cheie: Revolta de Paște (1916)", "Portic: 6 coloane ionice", "Locație: O'Connell Street, Dublin"],
       en: ["Opened: 1818", "Architect: Francis Johnston", "Style: Greek Revival", "Historical significance: 1916 HQ", "Column count: 6 Ionic columns", "City: Dublin"],
     },
+    image: "/poi-images/ireland-gpo-dublin-landmarks-v2.webp",
   },
   {
     id: "ireland-national-library-landmarks-v2",
@@ -576,6 +593,7 @@ export const irelandLandmarksV2: POI[] = [
       ro: ["Inaugurare: 1890", "Arhitect: Thomas Newenham Deane", "Colecție: Peste 10 mil. obiecte", "Locație: Kildare Street, Dublin"],
       en: ["Opened: 1890", "Architect: Thomas Newenham Deane", "Collection: 10m+ items", "Location: Kildare Street, Dublin"],
     },
+    image: "/poi-images/ireland-national-library-landmarks-v2.webp",
   },
   {
     id: "ireland-four-courts-landmarks-v2",
@@ -608,6 +626,7 @@ export const irelandLandmarksV2: POI[] = [
       ro: ["Perioada construcției: 1786-1802", "Arhitect: James Gandon", "Diametru cupolă: 19,5 metri", "Restaurare: 1932", "Locație: Malul râului Liffey", "Funcție: Curtea Supremă"],
       en: ["Construction: 1786-1802", "Architect: James Gandon", "Dome diameter: 19.5 meters", "Civil War damage: 1922", "Restoration finished: 1932", "Courts: Supreme and High Court"],
     },
+    image: "/poi-images/ireland-four-courts-landmarks-v2.webp",
   },
   {
     id: "ireland-st-nicholas-church-landmarks-v2",
@@ -640,6 +659,7 @@ export const irelandLandmarksV2: POI[] = [
       ro: ["Anul fondării: 1320", "Sfânt protector: Sfântul Nicolae", "Locație: Galway", "Vizitator celebru: Cristofor Columb", "Statut: Biserică colegială", "Arhitectură: Gotic irlandez"],
       en: ["Founded: 1320", "Patron saint: St. Nicholas of Myra", "Location: Galway City Centre", "Columbus visit: 1477 (legendary)", "Church type: Collegiate", "Structure: Medieval cruciform"],
     },
+    image: "/poi-images/ireland-st-nicholas-church-landmarks-v2.webp",
   },
   {
     id: "ireland-tralee-friary-landmarks-v2",
@@ -672,6 +692,7 @@ export const irelandLandmarksV2: POI[] = [
       ro: ["Fondată în jurul anului 1260", "Mănăstire franciscană", "Situată în comitatul Kerry", "Ferestre gotice păstrate", "Jefuită de Cromwell în sec. XVII", "Monument național"],
       en: ["Founded around 1260", "Franciscan friary", "Located in County Kerry", "Gothic windows survive", "Plundered by Cromwell in 17th century", "National Monument"],
     },
+    image: "/poi-images/ireland-tralee-friary-landmarks-v2.webp",
   },
   {
     id: "ireland-ross-abbey-landmarks-v2",
@@ -704,5 +725,6 @@ export const irelandLandmarksV2: POI[] = [
       ro: ["Fondată în jurul anului 1351", "Mănăstire franciscană", "Situată în comitatul Galway", "Una dintre cele mai bine păstrate mănăstiri din Irlanda", "Abandonată definitiv în secolul al XVIII-lea", "Monument național"],
       en: ["Founded around 1351", "Franciscan friary", "Located in County Galway", "One of the best-preserved monastic sites in Ireland", "Finally abandoned in the 18th century", "National Monument"],
     },
+    image: "/poi-images/ireland-ross-abbey-landmarks-v2.webp",
   }
 ];

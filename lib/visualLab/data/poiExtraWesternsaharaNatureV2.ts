@@ -31,6 +31,7 @@ export const westernsaharaNatureV2: POI[] = [
       ro: ["Sebkhat Tijirit este situată într-o depresiune endoreică din centrul Saharei Occidentale.", "Depozitele de sare sunt compuse în principal din halit și diverse minerale sulfatate.", "Temperaturile din această regiune pot depăși frecvent 45 de grade Celsius în timpul verii.", "După ploi torențiale rare, sebkha se poate transforma temporar într-un lac puțin adânc.", "Suprafața albă reflectă până la 80% din radiația solară incidentă (albedo ridicat).", "Vegetația locală este limitată la specii halofite extrem de tolerante la salinitate."],
       en: ["Sebkhat Tijirit is located within an endorheic basin in central Western Sahara.", "The salt crusts are primarily composed of halite and various sulfate minerals.", "Summer temperatures in the area can frequently rise above 45 degrees Celsius.", "Following rare heavy rainfall, the sebkha can briefly fill with shallow water.", "The bright white surface reflects up to 80% of incoming solar radiation.", "The surrounding vegetation consists almost entirely of salt-tolerant halophytes."],
     },
+    image: "/poi-images/westernsahara-sebkhat-tijirit-nature-v2.webp",
   },
   {
     id: "westernsahara-erg-aguerguer-nature-v2",
@@ -62,6 +63,7 @@ export const westernsaharaNatureV2: POI[] = [
       ro: ["Erg Aguerguer este modelat în principal de vânturile alizee constante din nord-est.", "Unele dune din acest câmp pot atinge înălțimi de peste 50 de metri.", "Culoarea roșiatică a nisipului indică un proces avansat de oxidare a fierului.", "Regiunea se învecinează la est cu platoul Adrar Suttauf.", "Ergul funcționează ca un rezervor natural de apă în straturile adânci de nisip.", "Viteza de migrare a dunelor poate atinge câțiva metri pe an, în funcție de vânt."],
       en: ["Erg Aguerguer is primarily shaped by the consistent northeast trade winds.", "Some dunes within this field can reach heights exceeding 50 meters.", "The reddish hue of the sand is due to the oxidation of iron on the grain surfaces.", "The area is bordered to the east by the Adrar Suttauf plateau.", "The erg acts as a natural water reservoir in its deeper sand layers.", "Dune migration speeds can reach several meters per year depending on wind strength."],
     },
+    image: "/poi-images/westernsahara-erg-aguerguer-nature-v2.webp",
   },
   {
     id: "westernsahara-oued-saguia-el-hamra-nature-v2",
@@ -93,6 +95,7 @@ export const westernsaharaNatureV2: POI[] = [
       ro: ["Numele Saguia el-Hamra înseamnă 'Canalul Roșu' în limba arabă.", "Ouedul are o lungime totală de aproximativ 450 de kilometri până la vărsare.", "Orașul Laayoune a fost construit pe malurile cursului inferior al acestui oued.", "Inundațiile fulgerătoare pot transforma albia uscată într-un râu de nestăpânit.", "Valea fluviului servește ca un coridor ecologic pentru păsările migratoare.", "Numeroase situri arheologice preistorice au fost identificate în apropierea albiei."],
       en: ["The name Saguia el-Hamra means 'Red Stream' or 'Red Canal' in Arabic.", "The oued has a total length of approximately 450 kilometers to the coast.", "The city of Laayoune was established on the lower reaches of this riverbed.", "Flash floods in the oued can cause significant environmental changes in hours.", "The river valley acts as a critical corridor for various migratory bird species.", "Numerous prehistoric archaeological sites are located along the valley floor."],
     },
+    image: "/poi-images/westernsahara-oued-saguia-el-hamra-nature-v2.webp",
   },
   {
     id: "westernsahara-cabo-bojador-coast-nature-v2",
@@ -124,6 +127,7 @@ export const westernsaharaNatureV2: POI[] = [
       ro: ["Gil Eanes a navigat în jurul Cabo Bojador în 1434, din ordinul Prințului Henric Navigatorul.", "Capul a fost considerat mult timp limita lumii navigabile pentru europeni.", "Curentul rece al Canarelor creează aici un ecosistem marin extrem de bogat în nutrienți.", "Curenții periculoși din jurul capului au cauzat numeroase naufragii de-a lungul istoriei.", "Cabo Bojador este situat la aproximativ 200 de kilometri sud de orașul Laayoune.", "Farul din Bojador este un reper de navigație esențial pe această secțiune de coastă."],
       en: ["Gil Eanes successfully rounded Cabo Bojador in 1434 for Prince Henry the Navigator.", "The cape was long considered the edge of the navigable world by medieval Europeans.", "The cold Canary Current ensures an extremely nutrient-rich marine environment here.", "Dangerous currents around the cape have led to many shipwrecks throughout history.", "Cabo Bojador is located approximately 200 kilometers south of Laayoune.", "The Bojador lighthouse remains a critical navigation landmark on this coastline."],
     },
+    image: "/poi-images/westernsahara-cabo-bojador-coast-nature-v2.webp",
   },
   {
     id: "westernsahara-oued-draa-delta-nature-v2",
@@ -155,6 +159,7 @@ export const westernsaharaNatureV2: POI[] = [
       ro: ["Oued Draa este cel mai lung fluviu din regiune, având peste 1.100 de kilometri.", "Delta fluviului formează granița naturală între Maroc și Sahara Occidentală.", "De la construcția barajului El Mansour Eddahbi, Draa ajunge rar la ocean.", "Delta găzduiește numeroase păsări migratoare europene în timpul iernii.", "Gura de vărsare este marcată de prezența unor zone extinse de sebkha.", "Vegetația din deltă este dominată de plante halofite, adaptate la soluri saline."],
       en: ["Oued Draa is the longest river in the region, stretching over 1,100 kilometers.", "The delta serves as the natural boundary between Morocco and Western Sahara.", "Since the construction of the El Mansour Eddahbi dam, the Draa rarely reaches the sea.", "The delta provides a wintering ground for numerous species of European migratory birds.", "The estuary area is characterized by extensive, flat salt pans known as sebkhas.", "Vegetation in the delta consists mainly of salt-tolerant halophytic species."],
     },
+    image: "/poi-images/westernsahara-oued-draa-delta-nature-v2.webp",
   },
   {
     id: "westernsahara-plateau-de-le-guerra-nature-v2",
@@ -186,6 +191,7 @@ export const westernsaharaNatureV2: POI[] = [
       ro: ["Platoul este situat exact la granița dintre Sahara Occidentală și Mauritania.", "Așezarea La Güera, aflată la baza platoului, a fost fondată în anul 1920.", "Geologia acestei secțiuni de coastă este dominată de formațiuni calcaroase.", "De pe platou se pot observa adesea focile călugăr în golfurile învecinate.", "Vânturile puternice ating aici frecvent viteze de peste 60 km/h.", "Regiunea face parte dintr-una dintre cele mai bogate zone piscicole din lume."],
       en: ["The plateau is located directly on the border between Western Sahara and Mauritania.", "The settlement of La Güera at the plateau's base was founded in 1920.", "Limestone formations dominate the geology of this coastal stretch.", "Monk seals can occasionally be spotted in the coves below the plateau.", "Strong sea winds here frequently reach speeds exceeding 60 km/h.", "The area is part of one of the world's most productive fishing zones."],
     },
+    image: "/poi-images/westernsahara-plateau-de-le-guerra-nature-v2.webp",
   },
   {
     id: "westernsahara-sebkha-dakhla-nature-v2",
@@ -217,6 +223,7 @@ export const westernsaharaNatureV2: POI[] = [
       ro: ["Sebkha din Dakhla se întinde pe câteva zeci de kilometri pătrați.", "Altitudinea sa este pe alocuri de doar 1-2 metri deasupra nivelului mării.", "Crusta de sare este compusă în principal din clorură de sodiu și gips.", "Regiunea primește în medie mai puțin de 50 mm de precipitații pe an.", "Fenomenul de Fata Morgana este frecvent pe suprafața plană și reflectorizantă.", "Sebkha reprezintă un indicator important pentru studiul variațiilor nivelului mării."],
       en: ["The Sebkha of Dakhla covers several dozen square kilometers.", "Its elevation is in some parts only 1 to 2 meters above sea level.", "The salt crust is predominantly composed of sodium chloride and gypsum.", "The region records an average of less than 50 mm of rainfall per year.", "Mirages (Fata Morgana) are common on the flat, reflective surface.", "The sebkha is a key indicator for monitoring long-term sea-level changes."],
     },
+    image: "/poi-images/westernsahara-sebkha-dakhla-nature-v2.webp",
   },
   {
     id: "westernsahara-ras-nouadhibou-coast-nature-v2",
@@ -248,6 +255,7 @@ export const westernsaharaNatureV2: POI[] = [
       ro: ["Capul a fost numit Cabo Blanco în 1441 de către exploratorul Nuno Tristão.", "Ras Nouadhibou găzduiește cea mai mare colonie de foci călugăr din lume.", "Peninsula are o lungime de aproximativ 65 km și este foarte îngustă la bază.", "Golful Lévrier, la est, este unul dintre cele mai mari porturi naturale din Africa.", "Peste 300 de epave au transformat zona în cel mai mare cimitir de nave din lume.", "Granița dintre Sahara Occidentală și Mauritania trece prin centrul peninsulei."],
       en: ["The cape was named Cabo Blanco in 1441 by the explorer Nuno Tristão.", "Ras Nouadhibou hosts the world's largest colony of Mediterranean monk seals.", "The peninsula is approximately 65 kilometers long and very narrow at its base.", "The Bay of Lévrier to the east is one of the largest natural harbors in Africa.", "More than 300 shipwrecks once made this area the world's largest ship graveyard.", "The border between Western Sahara and Mauritania bisects the peninsula."],
     },
+    image: "/poi-images/westernsahara-ras-nouadhibou-coast-nature-v2.webp",
   },
   {
     id: "westernsahara-oued-tizgui-nature-v2",
@@ -279,6 +287,7 @@ export const westernsaharaNatureV2: POI[] = [
       ro: ["Oued Tizgui drenează platoul calcaros cunoscut sub numele de Hamada du Draa.", "Adâncimea canioanelor atinge în unele locuri peste 30 de metri.", "Sistemul fluvial este un sit important pentru fosile marine din epoca eocenului.", "După evenimente pluviale, nivelul apei în oued poate crește rapid în câteva minute.", "Puțurile tradiționale din albia ouedului asigură apa pentru populația nomadă.", "Pădurile de salcâmi din luncă formează micro-oaze de mare valoare ecologică."],
       en: ["Oued Tizgui drains the limestone plateau known as the Hamada du Draa.", "The depth of its canyons reaches over 30 meters in several locations.", "The river system is a significant site for marine fossils dating to the Eocene.", "Following rainfall, water levels in the oued can rise dramatically within minutes.", "Traditional wells in the oued bed provide critical water for nomadic tribes.", "Acacia groves in the valley floors form ecologically valuable micro-oases."],
     },
+    image: "/poi-images/westernsahara-oued-tizgui-nature-v2.webp",
   },
   {
     id: "westernsahara-erg-tifariti-nature-v2",
@@ -310,6 +319,7 @@ export const westernsaharaNatureV2: POI[] = [
       ro: ["Erg Tifariti este compus în principal din dune mișcătoare active (barcane).", "Picturile rupestre preistorice din apropiere înfățișează girafe și antilope.", "Regiunea din jurul ergului se află la o altitudine de aproximativ 450-500 de metri.", "Tifariti este considerat un centru istoric al culturii sahariene.", "Nisipul ergului este bogat în silicați și provine din eroziunea locală.", "Ploile sezoniere umplu mici depresiuni (dayas) la marginea ergului."],
       en: ["Erg Tifariti consists mainly of active shifting dunes called barchans.", "Prehistoric rock art nearby depicts fauna such as giraffes and antelopes.", "The area surrounding the erg lies at an elevation of 450-500 meters.", "Tifariti is regarded as a historical center for Sahrawi culture.", "The sand of the erg is rich in silicates and originates from local erosion.", "Seasonal rains fill small depressions known as dayas at the erg's edge."],
     },
+    image: "/poi-images/westernsahara-erg-tifariti-nature-v2.webp",
   },
   {
     id: "westernsahara-es-semara-valley-nature-v2",
@@ -341,6 +351,7 @@ export const westernsaharaNatureV2: POI[] = [
       ro: ["Orașul Smara din vale a fost fondat în anul 1898 de către Ma el-Ainin.", "Es-Semara este singurul oraș din regiune care nu a fost fondat de europeni.", "Valea este situată la o intersecție strategică a vechilor rute de caravane.", "Arhitectura din Smara s-a remarcat prin utilizarea pietrei locale și a pământului.", "Cantitatea anuală de precipitații în vale este adesea sub 100 mm.", "Valea este cunoscută pentru zăcămintele de fosfați de înaltă calitate din proximitate."],
       en: ["The city of Smara in the valley was founded in 1898 by Ma el-Ainin.", "Es-Semara is the only city in the region not established by European powers.", "The valley is located at a strategic crossroads of ancient caravan routes.", "The architecture of Smara was noted for using local stone and adobe materials.", "Annual rainfall in the valley often averages less than 100 mm.", "The valley area is known for nearby deposits of high-grade phosphates."],
     },
+    image: "/poi-images/westernsahara-es-semara-valley-nature-v2.webp",
   },
   {
     id: "westernsahara-cabo-boujdour-cliffs-nature-v2",
@@ -372,6 +383,7 @@ export const westernsaharaNatureV2: POI[] = [
       ro: ["Falezele sunt compuse din straturi sedimentare din miocen și pliocen.", "În anumite puncte, falezele se ridică până la 30 de metri deasupra mării.", "Cabo Boujdour a fost limita lumii cunoscute pentru europeni până în 1434.", "Energia valurilor la baza falezelor este extrem de mare din cauza expunerii.", "Stâncile găzduiesc colonii de păsări marine, inclusiv specii periclitate.", "Localitatea Boujdour din apropiere a evoluat de la un sat de pescari la oraș."],
       en: ["The cliffs consist of Miocene and Pliocene sedimentary layers.", "In some areas, the cliffs rise up to 30 meters above sea level.", "Cabo Boujdour represented the edge of the known world for Europeans until 1434.", "Wave energy at the cliff base is extremely high due to its exposed location.", "The rocks provide habitat for colonies of endangered Northern Bald Ibises.", "The nearby town of Boujdour has grown from a small fishing camp into a city."],
     },
+    image: "/poi-images/westernsahara-cabo-boujdour-cliffs-nature-v2.webp",
   },
   {
     id: "westernsahara-plateau-de-zemmour-nature-v2",
@@ -403,6 +415,7 @@ export const westernsaharaNatureV2: POI[] = [
       ro: ["Plateau de Zemmour are o altitudine medie cuprinsă între 300 și 500 de metri.", "Formațiunile de granit și metasedimentele definesc geologia podișului.", "Regiunea găzduiește numeroase morminte megalitice preistorice (tumuli).", "Gueltas din Zemmour sunt rezervoare de apă vitale pentru fauna sălbatică.", "Salcâmul-umbrelă (Acacia tortilis) este specia de copac dominantă în regiune.", "Platoul este una dintre cele mai aride zone din întreaga Sahară Occidentală."],
       en: ["The Plateau de Zemmour lies at an average elevation of 300 to 500 meters.", "Granite formations and metasediments characterize the plateau's geology.", "The region is home to numerous prehistoric megalithic tombs known as tumuli.", "Gueltas in the Zemmour are critical water sources for local wildlife.", "The umbrella acacia (Acacia tortilis) is the dominant tree species in the area.", "The plateau is one of the driest regions in all of Western Sahara."],
     },
+    image: "/poi-images/westernsahara-plateau-de-zemmour-nature-v2.webp",
   },
   {
     id: "westernsahara-guelta-de-dakhla-nature-v2",
@@ -434,6 +447,7 @@ export const westernsaharaNatureV2: POI[] = [
       ro: ["Gueltas sunt rezervoare naturale de apă în regiunile stâncoase aride.", "Guelta de Dakhla se umple de obicei după ploile de toamnă.", "Rezervorul de apă poate persista până în primăvară în anii mai răcoroși.", "Servește ca un punct de adăpare esențial pentru cămilele nomazilor.", "Numeroase specii de libelule folosesc guelta ca loc de reproducere.", "Rata de evaporare este ușor redusă datorită poziției sale adăpostite."],
       en: ["Gueltas are natural water storage basins in arid, rocky environments.", "The Guelta de Dakhla typically fills following autumn rainfall.", "The water reservoir can persist until spring during cooler years.", "It serves as a critical watering hole for nomadic livestock, especially camels.", "Numerous species of dragonflies use the guelta as a breeding ground.", "The evaporation rate is slightly lower due to the basin's sheltered topography."],
     },
+    image: "/poi-images/westernsahara-guelta-de-dakhla-nature-v2.webp",
   },
   {
     id: "westernsahara-massif-du-zereg-nature-v2",
@@ -465,6 +479,7 @@ export const westernsaharaNatureV2: POI[] = [
       ro: ["Massif du Zereg face parte din Scutul Reguibat de vârstă arhaică.", "Culoarea închisă este rezultatul 'lacului de deșert' și al incluziunilor vulcanice.", "Unele vârfuri ale masivului se ridică la peste 600 de metri deasupra câmpiei.", "Gravurile rupestre din zonă indică o locuire umană încă din preistorie.", "Masivul funcționează ca o barieră naturală împotriva furtunilor de nisip.", "Este una dintre cele mai vechi structuri geologice din întreaga Sahară."],
       en: ["The Massif du Zereg is part of the ancient Archaean Reguibat Shield.", "Its dark coloration is due to desert varnish and volcanic inclusions.", "Some peaks within the massif rise more than 600 meters above the plain.", "Rock engravings in the vicinity point to prehistoric human habitation.", "The massif acts as a natural windbreak during localized sandstorms.", "It is among the oldest geological formations in the entire Sahara region."],
     },
+    image: "/poi-images/westernsahara-massif-du-zereg-nature-v2.webp",
   },
   {
     id: "westernsahara-oued-sakia-valley-nature-v2",
@@ -496,6 +511,7 @@ export const westernsaharaNatureV2: POI[] = [
       ro: ["Lungime de aproximativ 450 de kilometri", "Dă numele regiunii nordice Saguia el-Hamra", "Traversează orașul principal El Aaiún", "Zăcăminte importante de fosfați se află în apropiere la Bu Craa", "Prezintă apă la suprafață doar după ploi torențiale rare", "Cea mai mare rezervă de apă subterană din regiune"],
       en: ["Approximately 450 kilometers in length", "Eponymous feature of the Saguia el-Hamra region", "Flows through the territory's largest city, El Aaiún", "Important phosphate deposits are located nearby at Bu Craa", "Surface water only appears after rare heavy rainfall", "Primary groundwater reservoir for the local area"],
     },
+    image: "/poi-images/westernsahara-oued-sakia-valley-nature-v2.webp",
   },
   {
     id: "westernsahara-erg-aguerguer-south-nature-v2",
@@ -527,6 +543,7 @@ export const westernsaharaNatureV2: POI[] = [
       ro: ["Compus în principal din barcane mobile", "Parte a regiunii sudice a Saharei", "Precipitații extrem de reduse, sub 25 mm pe an", "Vânturile pot atinge viteze de până la 100 km/h", "Loc important de cercetare pentru geomorfologia eoliană", "Zonă aproape nelocuită, fără așezări permanente"],
       en: ["Primarily composed of shifting barchan dunes", "Part of the southern Sahara region", "Extremely low rainfall, under 25 mm annually", "Winds can reach speeds up to 100 km/h", "Key research site for aeolian geomorphology", "Virtually uninhabited area with no permanent settlements"],
     },
+    image: "/poi-images/westernsahara-erg-aguerguer-south-nature-v2.webp",
   },
   {
     id: "westernsahara-sebkha-tijirit-center-nature-v2",
@@ -558,6 +575,7 @@ export const westernsaharaNatureV2: POI[] = [
       ro: ["Depresiune endoreică fără scurgere către mare", "Compusă din depozite dense de sare și argilă", "Suprafața poate depăși 60 °C în timpul verii", "Sursă importantă de unelte de piatră preistorice", "Servește ca bazin natural de evaporare pentru apa de ploaie", "Vegetație rară, în principal plante halofite"],
       en: ["Endorheic basin with no outlet to the sea", "Composed of dense salt and clay deposits", "Surface temperatures can exceed 60°C in summer", "Site of various prehistoric stone tool discoveries", "Acts as a natural evaporation pan for rainwater", "Sparse vegetation consisting mainly of halophytes"],
     },
+    image: "/poi-images/westernsahara-sebkha-tijirit-center-nature-v2.webp",
   },
   {
     id: "westernsahara-plateau-boujdour-nature-v2",
@@ -589,6 +607,7 @@ export const westernsaharaNatureV2: POI[] = [
       ro: ["Aparține tipului de peisaj hamada (deșert de piatră)", "Altitudine medie de aproximativ 200 de metri deasupra mării", "Conține fosile marine din perioada cretacică", "Punct strategic de observare asupra Oceanului Atlantic", "Zonă principală de pășunat pentru dromedari", "Eroziunea eoliană puternică modelează structura suprafeței"],
       en: ["Belongs to the hamada (stone desert) landscape type", "Average elevation of about 200 meters above sea level", "Contains marine fossils from the Cretaceous period", "Strategic observation point over the Central Atlantic", "Primary grazing area for dromedary camels", "Strong wind erosion shapes the surface structure"],
     },
+    image: "/poi-images/westernsahara-plateau-boujdour-nature-v2.webp",
   },
   {
     id: "westernsahara-oued-tiguint-nature-v2",
@@ -620,6 +639,7 @@ export const westernsaharaNatureV2: POI[] = [
       ro: ["Wadi sezonier în sectorul sudic", "Locație importantă pentru Acacia tortilis", "Alimentează rezervele de apă subterană ale regiunii", "Stație istorică pentru caravane", "Refugiu ecologic pentru gazele și mamifere mici", "Format din sedimente fine de nisip cuaternar"],
       en: ["Seasonal wadi in the southern sector", "Important site for Acacia tortilis (umbrella thorn acacia)", "Feeds the region's groundwater reserves", "Historical caravan waystation", "Ecological refuge for gazelles and small mammals", "Composed of fine Quaternary sand sediments"],
     },
+    image: "/poi-images/westernsahara-oued-tiguint-nature-v2.webp",
   },
   {
     id: "westernsahara-erg-tifariti-north-nature-v2",
@@ -651,6 +671,7 @@ export const westernsaharaNatureV2: POI[] = [
       ro: ["Câmp de dune în apropierea zonei arheologice Tifariti", "Compus din dune barcane mișcătoare", "Loc important de descoperire a picturilor rupestre preistorice", "Poziție strategică în nord-estul teritoriului", "Temperatura medie în iulie peste 40 °C", "Parte a tranziției de la hamada la marele de nisip"],
       en: ["Dune field near the Tifariti archaeological zone", "Composed of shifting barchan dunes", "Significant site for prehistoric rock art discoveries", "Strategic location in the northeast of the territory", "Average July temperatures exceed 40°C", "Part of the transition from hamada to sand sea"],
     },
+    image: "/poi-images/westernsahara-erg-tifariti-north-nature-v2.webp",
   },
   {
     id: "westernsahara-guelta-de-zemmour-nature-v2",
@@ -682,6 +703,7 @@ export const westernsaharaNatureV2: POI[] = [
       ro: ["Rezervor natural de apă în masivul Zemmour", "Punct de întâlnire important pentru nomazii sahrawi", "Înconjurat de stânci de granit și gnais", "Adăpostește floră și faună de deșert rare", "A servit istoric ca loc de popas pentru caravane", "Disponibilitatea apei depinde de precipitațiile anuale"],
       en: ["Natural water reservoir in the Zemmour Massif", "Important meeting point for Sahrawi nomads", "Surrounded by granite and gneiss rocks", "Hosts rare desert flora and fauna", "Historically served as a caravan resting place", "Water availability depends on annual rainfall"],
     },
+    image: "/poi-images/westernsahara-guelta-de-zemmour-nature-v2.webp",
   },
   {
     id: "westernsahara-massif-du-zereg-east-nature-v2",
@@ -713,6 +735,7 @@ export const westernsaharaNatureV2: POI[] = [
       ro: ["Compus în principal din gresie paleozoică", "Inselberguri proeminente în Sahara centrală", "Habitat important pentru oaia cu coamă", "Formele de eroziune atestă perioade climatice mai umede", "Cele mai înalte culmi depășesc 500 de metri", "Oferă protecție împotriva vânturilor puternice de tip sirocco"],
       en: ["Primarily composed of Paleozoic sandstone", "Prominent inselbergs in the central Sahara", "Key habitat for the Barbary sheep", "Erosion patterns testify to wetter climatic periods", "Highest peaks reach over 500 meters", "Provides shelter from strong sirocco winds"],
     },
+    image: "/poi-images/westernsahara-massif-du-zereg-east-nature-v2.webp",
   },
   {
     id: "westernsahara-cabo-bojador-north-nature-v2",
@@ -744,6 +767,7 @@ export const westernsaharaNatureV2: POI[] = [
       ro: ["Ocolit de Gil Eanes în anul 1434", "Temut din cauza curenților puternici și a recifelor", "Marchează tranziția către coasta periculoasă a Saharei", "Locația unui far maritim important", "Curentul rece al Canarelor modelează climatul local", "Punct esențial pentru industria pescuitului"],
       en: ["First rounded by Gil Eanes in 1434", "Feared for its strong currents and reefs", "Marks the transition to the dangerous Saharan coast", "Site of a prominent maritime lighthouse", "Cool Canary Current shapes the local climate", "Crucial point for the fishing industry"],
     },
+    image: "/poi-images/westernsahara-cabo-bojador-north-nature-v2.webp",
   },
   {
     id: "westernsahara-plateau-zemmour-east-nature-v2",
@@ -775,6 +799,7 @@ export const westernsaharaNatureV2: POI[] = [
       ro: ["Parte a scutului precambrian Reguibat", "Zonă importantă de pășunat de iarnă pentru nomazi", "Temperaturile pot scădea sub 0 °C iarna", "Aproape nicio sursă de apă permanentă prezentă", "Format din roci metamorfice foarte vechi", "Cunoscut pentru nopțile senine și observații stelare"],
       en: ["Part of the Precambrian Reguibat Shield", "Critical winter grazing land for nomads", "Temperatures can drop below 0°C in winter", "Virtually no permanent water sources available", "Composed of very ancient metamorphic rock", "Known for clear nights and stargazing potential"],
     },
+    image: "/poi-images/westernsahara-plateau-zemmour-east-nature-v2.webp",
   },
   {
     id: "westernsahara-oued-sakia-dune-nature-v2",
@@ -806,6 +831,7 @@ export const westernsaharaNatureV2: POI[] = [
       ro: ["Compus din dune barcane active", "Se învecinează direct cu wadi-ul Saguia el-Hamra", "Nisipul este transportat de vânturile alizee", "Subiect important de cercetare pentru deșertificare", "Creează un contrast cromatic cu sedimentele roșii ale râului", "Habitat pentru reptile specializate, cum ar fi scincus scincus"],
       en: ["Composed of active barchan dunes", "Directly borders the Saguia el-Hamra wadi", "Sand is transported by the Alizé trade winds", "Key subject for desertification research", "Provides a color contrast with red river sediments", "Habitat for specialized reptiles like the sand skink"],
     },
+    image: "/poi-images/westernsahara-oued-sakia-dune-nature-v2.webp",
   },
   {
     id: "westernsahara-guelta-de-zoug-northeast-nature-v2",
@@ -837,5 +863,6 @@ export const westernsaharaNatureV2: POI[] = [
       ro: ["Sursă de apă izolată în sectorul Zoug", "Vitală pentru supraviețuirea faunei din sud", "Situată în roca de bază cristalină", "Punct strategic la granița cu Mauritania", "Microclimatul favorizează creșterea salcâmilor", "Utilizată adesea de nomazi pentru adăparea cămilelor"],
       en: ["Remote water source in the Zoug sector", "Critical for the survival of southern fauna", "Located in the crystalline basement rock", "Strategic point near the Mauritanian border", "Microclimate favors the growth of acacias", "Often used by nomads for watering camels"],
     },
+    image: "/poi-images/westernsahara-guelta-de-zoug-northeast-nature-v2.webp",
   }
 ];

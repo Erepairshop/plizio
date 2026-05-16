@@ -32,6 +32,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
       ro: ["Construită în 1492 d.Hr.", "Diametrul cupolei: 16 metri.", "Înălțimea minaretului: 45 de metri.", "Capacitate: 500 de credincioși.", "Restaurată în 1963 după cutremur.", "Situată la 280 m altitudine."],
       en: ["Built in 1492 AD.", "Dome diameter 16 meters.", "Minaret height 45 meters.", "Capacity for 500 worshippers.", "Restored in 1963 after earthquake.", "Located at 280 m altitude."],
     },
+    image: "/poi-images/northmacedonia-sultan-murat-mosque-landmarks-v2.webp",
   },
   {
     id: "northmacedonia-monastery-matka-landmarks-v2",
@@ -64,6 +65,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
       ro: ["Fondată în secolul al XIV-lea.", "Distanța de la Skopje: 17 km.", "Biserica are 12 m lungime și 6 m lățime.", "Frescele datează din secolul al XV-lea.", "Lacul Treska a fost creat artificial în 1938.", "Mănăstirea este situată la 300 m altitudine."],
       en: ["Founded in the 14th century.", "Distance from Skopje: 17 km.", "The church is 12 m long and 6 m wide.", "The frescoes date from the 15th century.", "Lake Treska was artificially created in 1938.", "The monastery is at 300 m altitude."],
     },
+    image: "/poi-images/northmacedonia-monastery-matka-landmarks-v2.webp",
   },
   {
     id: "northmacedonia-monument-partisans-kumanovo-landmarks-v2",
@@ -96,6 +98,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
       ro: ["Construit în 1961.", "Înălțime de 30 de metri.", "Greutate: 500 de tone.", "Material: beton și oțel.", "Locație: deal la 400 m altitudine.", "Renovat în 2018."],
       en: ["Built in 1961.", "Height 30 meters.", "Weight 500 tons.", "Material: concrete and steel.", "Location: hill at 400 m altitude.", "Renovated in 2018."],
     },
+    image: "/poi-images/northmacedonia-monument-partisans-kumanovo-landmarks-v2.webp",
   },
   {
     id: "northmacedonia-church-st-dimitrius-bitola-landmarks-v2",
@@ -128,6 +131,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
       ro: ["Construită în 1830.", "Înălțimea cupolei: 25 de metri.", "Iconostasul are 50 de icoane.", "Biserica are 30 m lungime și 15 m lățime.", "Bitola este situată la 615 m altitudine.", "Biserica este protejată din 1953."],
       en: ["Built in 1830.", "Dome height 25 meters.", "The iconostasis has 50 icons.", "The church is 30 m long and 15 m wide.", "Bitola is at 615 m altitude.", "The church has been protected since 1953."],
     },
+    image: "/poi-images/northmacedonia-church-st-dimitrius-bitola-landmarks-v2.webp",
   },
   {
     id: "northmacedonia-monument-freedom-kocani-landmarks-v2",
@@ -160,6 +164,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
       ro: ["Ridicat în 1977.", "Înălțimea obeliscului: 20 de metri.", "Statuia are 3 metri înălțime.", "Monumentul cântărește 50 de tone.", "Kočani are 28.000 de locuitori.", "Parcul are 2 hectare."],
       en: ["Erected in 1977.", "Obelisk height 20 meters.", "The statue is 3 meters tall.", "The monument weighs 50 tons.", "Kočani has 28,000 inhabitants.", "The park covers 2 hectares."],
     },
+    image: "/poi-images/northmacedonia-monument-freedom-kocani-landmarks-v2.webp",
   },
   {
     id: "northmacedonia-clock-tower-bitola-landmarks-v2",
@@ -192,6 +197,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
       ro: ["Construit în 1600.", "Înălțime 30 de metri.", "Plan octogonal cu diametrul de 8 m.", "Ceasul a fost adăugat în 1800.", "Renovat în 2015.", "Situat la 615 m altitudine."],
       en: ["Built in 1600.", "Height 30 meters.", "Octagonal plan with 8 m diameter.", "Clock added in 1800.", "Restored in 2015.", "Located at 615 m altitude."],
     },
+    image: "/poi-images/northmacedonia-clock-tower-bitola-landmarks-v2.webp",
   },
   {
     id: "northmacedonia-st-john-caneo-landmarks-v2",
@@ -224,6 +230,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
       ro: ["Construită în secolul al XIII-lea (înainte de 1300).", "Înălțime deasupra lacului: 40 de metri.", "Biserica are 8 m lungime și 6 m lățime.", "Diametrul cupolei: 4 metri.", "Patrimoniu UNESCO din 1980.", "Lacul Ohrid este la 693 m altitudine."],
       en: ["Built in the 13th century (before 1300).", "Height above lake: 40 meters.", "The church is 8 m long and 6 m wide.", "The dome has a diameter of 4 meters.", "UNESCO World Heritage since 1980.", "Lake Ohrid is at 693 m altitude."],
     },
+    image: "/poi-images/northmacedonia-st-john-caneo-landmarks-v2.webp",
   },
   {
     id: "northmacedonia-kurshumli-an-landmarks-v2",
@@ -256,6 +263,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
       ro: ["Construit în jurul anului 1540 sub sultanul Suleiman I.", "Curtea interioară măsoară 30 x 30 de metri.", "Clădirea are 42 de camere.", "Cupolele erau acoperite cu plăci de plumb de 2 mm grosime.", "După cutremurul din 1963, restaurările au durat până în 1969.", "Muzeul găzduiește peste 10.000 de exponate."],
       en: ["Built around 1540 under Sultan Suleiman I.", "The inner courtyard measures 30 x 30 meters.", "The building contains 42 rooms.", "The domes were covered with 2 mm thick lead plates.", "After the 1963 earthquake, restoration lasted until 1969.", "The museum houses over 10,000 artifacts."],
     },
+    image: "/poi-images/northmacedonia-kurshumli-an-landmarks-v2.webp",
   },
   {
     id: "northmacedonia-monastery-sveti-naum-landmarks-v2",
@@ -288,6 +296,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
       ro: ["Fondată în anul 910 d.Hr.", "Turnul clopotniței are 30 de metri înălțime.", "Frescele datează din 1345.", "Mănăstirea este situată la 700 de metri deasupra nivelului mării.", "Biserica are 20 de metri lungime și 8 metri lățime.", "Aproximativ 100.000 de pelerini vizitează anual mănăstirea."],
       en: ["Founded in 910 AD.", "The bell tower is 30 meters tall.", "The frescoes date from 1345.", "The monastery is located at 700 meters above sea level.", "The church is 20 meters long and 8 meters wide.", "Approximately 100,000 pilgrims visit annually."],
     },
+    image: "/poi-images/northmacedonia-monastery-sveti-naum-landmarks-v2.webp",
   },
   {
     id: "northmacedonia-st-pantaleon-gorno-nerezi-landmarks-v2",
@@ -320,6 +329,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
       ro: ["Construită în anul 1164.", "Frescele acoperă o suprafață de 120 de metri pătrați.", "Cupola are un diametru de 4,5 metri.", "Biserica are 14 metri lungime și 6 metri lățime.", "Frescele au fost descoperite în 1923 sub un strat de var.", "Clădirea se află pe lista UNESCO din 1980."],
       en: ["Built in 1164.", "The frescoes cover an area of 120 square meters.", "The dome has a diameter of 4.5 meters.", "The church is 14 meters long and 6 meters wide.", "The frescoes were discovered in 1923 under a layer of lime.", "The structure has been on the UNESCO list since 1980."],
     },
+    image: "/poi-images/northmacedonia-st-pantaleon-gorno-nerezi-landmarks-v2.webp",
   },
   {
     id: "northmacedonia-st-george-staro-nagoricane-landmarks-v2",
@@ -352,6 +362,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
       ro: ["Construită între 1313 și 1318.", "Frescele au fost finalizate în 1317.", "Biserica are 20 de metri lungime și 10 metri lățime.", "Cupola are un diametru de 6 metri.", "Icoana centrală îl înfățișează pe Sfântul Gheorghe călare.", "Iconostasul datează din secolul al XIX-lea."],
       en: ["Built between 1313 and 1318.", "The frescoes were completed in 1317.", "The church is 20 meters long and 10 meters wide.", "The dome has a diameter of 6 meters.", "The central icon depicts Saint George on horseback.", "The iconostasis dates from the 19th century."],
     },
+    image: "/poi-images/northmacedonia-st-george-staro-nagoricane-landmarks-v2.webp",
   },
   {
     id: "northmacedonia-monument-karpos-skopje-landmarks-v2",
@@ -384,6 +395,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
       ro: ["Ridicat în anul 1955.", "Statuia are 12 metri înălțime.", "Monumentul cântărește 15 tone.", "Soclul are 3 metri înălțime.", "Răscoala lui Karpoș a avut loc în 1689.", "Karpoș a fost executat la Skopje."],
       en: ["Erected in 1955.", "The statue is 12 meters tall.", "The monument weighs 15 tons.", "The pedestal is 3 meters high.", "Karpos's rebellion occurred in 1689.", "Karpos was executed in Skopje."],
     },
+    image: "/poi-images/northmacedonia-monument-karpos-skopje-landmarks-v2.webp",
   },
   {
     id: "northmacedonia-st-archangel-michael-varos-landmarks-v2",
@@ -416,6 +428,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
       ro: ["Construită în secolul al XIII-lea.", "Cupola are o înălțime de 8 metri.", "Biserica are 15 metri lungime și 7 metri lățime.", "Frescele acoperă 80 de metri pătrați.", "Clopotnița a fost adăugată în secolul al XIX-lea.", "Picturile murale înfățișează 30 de scene."],
       en: ["Built in the 13th century.", "The dome is 8 meters high.", "The church is 15 meters long and 7 meters wide.", "The frescoes cover 80 square meters.", "The bell tower was added in the 19th century.", "The murals depict 30 scenes."],
     },
+    image: "/poi-images/northmacedonia-st-archangel-michael-varos-landmarks-v2.webp",
   },
   {
     id: "northmacedonia-monastery-slepce-landmarks-v2",
@@ -448,6 +461,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
       ro: ["Fondată în secolul al XIV-lea.", "Biserica are 25 de metri lungime și 10 metri lățime.", "Cupola are un diametru de 5 metri.", "Colecția de icoane cuprinde 40 de icoane.", "Clopotnița are o înălțime de 15 metri.", "Mănăstirea este situată la 600 de metri deasupra nivelului mării."],
       en: ["Founded in the 14th century.", "The church is 25 meters long and 10 meters wide.", "The dome has a diameter of 5 meters.", "The icon collection includes 40 icons.", "The bell tower is 15 meters tall.", "The monastery is located at 600 meters above sea level."],
     },
+    image: "/poi-images/northmacedonia-monastery-slepce-landmarks-v2.webp",
   },
   {
     id: "northmacedonia-monastery-andreas-matka-landmarks-v2",
@@ -480,6 +494,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
       ro: ["Construită în secolul al XIV-lea.", "Biserica are 12 metri lungime și 6 metri lățime.", "Frescele acoperă 50 de metri pătrați.", "Cupola are o înălțime de 6 metri.", "Barajul Matka are o înălțime de 30 de metri.", "Lacul are o lungime de 500 de metri."],
       en: ["Built in the 14th century.", "The church is 12 meters long and 6 meters wide.", "The frescoes cover 50 square meters.", "The dome is 6 meters high.", "The Matka dam is 30 meters high.", "The lake is 500 meters long."],
     },
+    image: "/poi-images/northmacedonia-monastery-andreas-matka-landmarks-v2.webp",
   },
   {
     id: "northmacedonia-monastery-marko-landmarks-v2",
@@ -512,5 +527,6 @@ export const northmacedoniaLandmarksV2: POI[] = [
       ro: ["Fondată în secolul al XIV-lea.", "Biserica are 18 metri lungime și 8 metri lățime.", "Cupola are un diametru de 4 metri.", "Mormântul regelui Marko se află în naos.", "Clopotnița are 12 metri înălțime.", "Mănăstirea este situată la 500 de metri deasupra nivelului mării."],
       en: ["Founded in the 14th century.", "The church is 18 meters long and 8 meters wide.", "The dome has a diameter of 4 meters.", "The tomb of King Marko is located in the nave.", "The bell tower is 12 meters high.", "The monastery is located at 500 meters above sea level."],
     },
+    image: "/poi-images/northmacedonia-monastery-marko-landmarks-v2.webp",
   }
 ];

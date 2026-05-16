@@ -740,6 +740,7 @@ export const poiExtraDe3a: POI[] = [
       ro: ["Kieler Woche este cel mai mare festival de navigație cu pânze din lume.", "Canalul Kiel (Nord-Ostsee-Kanal) are o lungime de 98 de kilometri.", "Orașul a fost sediul flotei imperiale germane începând cu anul 1871.", "Universitatea Christian Albrechts a fost fondată în anul 1665.", "În 1918, revolta marinarilor din Kiel a declanșat Revoluția Germană.", "Portul Kiel este unul dintre cele mai importante terminale de feriboturi către Scandinavia."],
       en: ["Host of the Kieler Woche, the world's largest sailing festival.", "The state capital of Schleswig-Holstein and a major Baltic port.", "Home to the GEOMAR Helmholtz Centre for Ocean Research.", "The terminus of the Kiel Canal, the world's busiest artificial waterway.", "Historically the primary naval base of the Imperial German Navy.", "Famous for 'Kieler Sprotten', a traditional smoked fish specialty."]
     },
+    image: "/poi-images/city-kiel-extra.webp",
   },
   {
     id: "city-luebeck-extra",
@@ -1385,5 +1386,6 @@ export const poiExtraDe3a: POI[] = [
       ro: ["Piața de Pește din Altona are o tradiție neîntreruptă de peste 300 de ani.", "Terminalul de croazieră Altona este dotat cu o instalație modernă de alimentare electrică de la țărm.", "Altonaer Balkon oferă o vedere panoramică asupra portului de la o înălțime de 27 de metri.", "Zona a aparținut regatului Danemarcei până în anul 1864, fiind un rival al Hamburgului.", "Docul uscat Elbe 17 din apropiere este unul dintre cele mai mari din Europa.", "Submarinul-muzeu rusesc U-434 este o atracție majoră ancorată în acest sector."],
       en: ["Home to the world-famous Altona Fish Market, held since 1703.", "Historically an independent Danish city until the 19th century.", "Features the historic 'Fish Auction Hall', a masterpiece of iron architecture.", "A major terminal for modern cruise ships in the Port of Hamburg.", "Offers panoramic views of the Elbe river and the container ports.", "The site where the legendary 'Sunday Morning' market tradition began."]
     },
+    image: "/poi-images/port-hamburg-altona-sh-extra.webp",
   },
 ];

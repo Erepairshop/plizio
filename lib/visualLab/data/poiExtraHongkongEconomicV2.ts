@@ -31,6 +31,7 @@ export const hongkongEconomicV2: POI[] = [
       ro: ["Înălțimea IFC: 412 m", "Suprafața de birouri: 40 milioane ft²", "Populația diurnă: 500.000", "Înălțimea Băncii Chinei: 367 m", "Număr zgârie-nori: peste 50", "Număr stații MTR: 3"],
       en: ["IFC height: 412 m", "Office space: 40 million ft²", "Daytime population: 500,000", "Bank of China Tower height: 367 m", "Number of skyscrapers: 50+", "Number of MTR stations: 3"],
     },
+    image: "/poi-images/hongkong-central-district-economic-v2.webp",
   },
   {
     id: "hongkong-kwai-tsing-container-terminals-economic-v2",
@@ -62,6 +63,7 @@ export const hongkongEconomicV2: POI[] = [
       ro: ["Suprafața totală a terminalelor: 279 de hectare.", "Numărul de dane: 24.", "Volum anual de manipulare: peste 20 de milioane de TEU.", "Primul terminal a fost deschis în 1976.", "Capacitatea maximă de ridicare a macaralelor: 50 de tone.", "Adâncimea apei la dane: până la 15,5 metri."],
       en: ["Total terminal area: 279 hectares.", "Number of berths: 24.", "Annual throughput: over 20 million TEU.", "First terminal opened: 1976.", "Maximum crane lifting capacity: 50 tonnes.", "Water depth at berths: up to 15.5 meters."],
     },
+    image: "/poi-images/hongkong-kwai-tsing-container-terminals-economic-v2.webp",
   },
   {
     id: "hongkong-international-airport-economic-v2",
@@ -93,6 +95,7 @@ export const hongkongEconomicV2: POI[] = [
       ro: ["Data deschiderii: 6 iulie 1998.", "Număr de piste: 2, a treia în construcție (finalizare estimată 2030).", "Capacitate anuală de pasageri: peste 70 de milioane (cu a treia pistă: 100 milioane).", "Volum anual de marfă: peste 4 milioane de tone.", "Număr de destinații: peste 220.", "Suprafața aeroportului: 1255 de hectare."],
       en: ["Opening date: July 6, 1998.", "Number of runways: 2, with a third under construction (completion by 2030).", "Annual passenger capacity: over 70 million (100 million after third runway).", "Annual cargo throughput: over 4 million tonnes.", "Number of destinations: over 220.", "Airport area: 1,255 hectares."],
     },
+    image: "/poi-images/hongkong-international-airport-economic-v2.webp",
   },
   {
     id: "hongkong-international-commerce-centre-economic-v2",
@@ -124,6 +127,7 @@ export const hongkongEconomicV2: POI[] = [
       ro: ["Înălțime: 484 de metri.", "Număr de etaje: 118.", "Anul finalizării: 2010.", "Suprafață utilă: 260.000 de metri pătrați.", "Înălțimea antenei: 484 de metri.", "Număr de lifturi: 49."],
       en: ["Height: 484 meters (1,588 feet).", "Number of floors: 118 (plus 6 basement levels).", "Year completed: 2010.", "Floor area: 260,000 square meters.", "Top floor: 100th floor (observation deck).", "Number of elevators: 49."],
     },
+    image: "/poi-images/hongkong-international-commerce-centre-economic-v2.webp",
   },
   {
     id: "hongkong-two-international-finance-centre-economic-v2",
@@ -155,6 +159,7 @@ export const hongkongEconomicV2: POI[] = [
       ro: ["Înălțime: 415 metri.", "Număr de etaje: 88.", "Anul finalizării: 2003.", "Suprafață birouri: 185.000 de metri pătrați.", "Număr de lifturi: 47.", "Înălțimea acoperișului: 412 metri."],
       en: ["Height: 415 meters (1,362 feet).", "Number of floors: 88 (plus 6 basement levels).", "Year completed: 2003.", "Office area: 185,000 square meters.", "Number of elevators: 47.", "Height to roof: 412 meters."],
     },
+    image: "/poi-images/hongkong-two-international-finance-centre-economic-v2.webp",
   },
   {
     id: "hongkong-cyberport-economic-v2",
@@ -186,6 +191,7 @@ export const hongkongEconomicV2: POI[] = [
       ro: ["Suprafață: 24 de hectare.", "Anul deschiderii: 2004.", "Companii gazduite: peste 1.500.", "Număr de angajați: aproximativ 10.000.", "Programuri de incubare: 3.", "Investiție totală: 1,6 miliarde de euro."],
       en: ["Area: 24 hectares.", "Year opened: 2004.", "Number of companies: over 1,500.", "Employment: approximately 10,000 people.", "Number of incubation programs: 3.", "Total development investment: 1.6 billion euros."],
     },
+    image: "/poi-images/hongkong-cyberport-economic-v2.webp",
   },
   {
     id: "hongkong-science-park-economic-v2",
@@ -217,6 +223,7 @@ export const hongkongEconomicV2: POI[] = [
       ro: ["Suprafață: 22 de hectare.", "Anul deschiderii: 2001.", "Companii: peste 500.", "Grupuri de cercetare: aproximativ 100.", "Suprafață birouri și laboratoare: 310.000 de metri pătrați.", "Vizitatori anuali: peste 1 milion."],
       en: ["Area: 22 hectares.", "Year opened: 2001.", "Number of companies: over 500.", "Number of research groups: about 100.", "Total office and lab space: 310,000 square meters.", "Annual visitors: over 1 million."],
     },
+    image: "/poi-images/hongkong-science-park-economic-v2.webp",
   },
   {
     id: "hongkong-bank-of-china-tower-economic-v2",
@@ -248,6 +255,7 @@ export const hongkongEconomicV2: POI[] = [
       ro: ["Înălțime: 367 de metri.", "Număr de etaje: 72 supraterane + 4 subsoluri.", "Anul finalizării: 1990.", "Număr de lifturi: 34.", "Suprafață totală: 143.000 de metri pătrați.", "Arhitect: IM Pei."],
       en: ["Height: 367 meters (1,205 feet).", "Number of floors: 72 above ground + 4 basement levels.", "Year completed: 1990.", "Number of elevators: 34.", "Total floor area: 143,000 square meters.", "Architect: I.M. Pei."],
     },
+    image: "/poi-images/hongkong-bank-of-china-tower-economic-v2.webp",
   },
   {
     id: "hongkong-hsbc-main-building-economic-v2",
@@ -279,6 +287,7 @@ export const hongkongEconomicV2: POI[] = [
       ro: ["Înălțime: 179 de metri.", "Număr de etaje: 44.", "Anul finalizării: 1985.", "Înălțimea holului: 52 de metri.", "Număr de lifturi: 28.", "Arhitect: Sir Norman Foster."],
       en: ["Height: 179 meters (587 feet).", "Number of floors: 44.", "Year completed: 1985.", "Height of atrium: 52 meters.", "Number of elevators: 28.", "Architect: Sir Norman Foster."],
     },
+    image: "/poi-images/hongkong-hsbc-main-building-economic-v2.webp",
   },
   {
     id: "hongkong-exchange-square-economic-v2",
@@ -310,6 +319,7 @@ export const hongkongEconomicV2: POI[] = [
       ro: ["Înălțime Turn 1: 188 de metri.", "Înălțime Turn 2: 169 de metri.", "Anul deschiderii: 1985.", "Găzduiește Bursa de Valori Hong Kong (HKEX).", "Suprafață totală: 150.000 de metri pătrați.", "Număr etaje Turn 1: 50."],
       en: ["Height of Tower One: 188 meters.", "Height of Tower Two: 169 meters.", "Year opened: 1985.", "Houses the Hong Kong Stock Exchange (HKEX).", "Total complex area: 150,000 square meters.", "Number of floors in Tower One: 50."],
     },
+    image: "/poi-images/hongkong-exchange-square-economic-v2.webp",
   },
   {
     id: "hongkong-convention-exhibition-centre-economic-v2",
@@ -341,6 +351,7 @@ export const hongkongEconomicV2: POI[] = [
       ro: ["Suprafață totală: 96.000 de metri pătrați.", "Anul deschiderii: 1997.", "Număr de hale expoziționale: 5.", "Capacitate auditoriu: 1.800 de locuri.", "Înălțimea cupolei de sticlă: 30 de metri.", "Vizitatori anuali: peste 3 milioane."],
       en: ["Total area: 96,000 square meters.", "Year opened: 1997.", "Number of exhibition halls: 5.", "Auditorium capacity: 1,800 seats.", "Height of glass dome: 30 meters.", "Annual visitors: over 3 million."],
     },
+    image: "/poi-images/hongkong-convention-exhibition-centre-economic-v2.webp",
   },
   {
     id: "hongkong-tai-po-industrial-estate-economic-v2",
@@ -372,6 +383,7 @@ export const hongkongEconomicV2: POI[] = [
       ro: ["Suprafață: 73 de hectare.", "Anul deschiderii: 1982.", "Număr de companii: aproximativ 200.", "Amplasare: malul golfului Tolo.", "Număr de angajați: circa 30.000.", "Stație MTR apropiată: Tai Po Market (East Rail)."],
       en: ["Area: 73 hectares.", "Year opened: 1982.", "Number of companies: about 200.", "Location: shore of Tolo Harbour.", "Employment: approximately 30,000.", "Nearest MTR station: Tai Po Market (East Rail line)."],
     },
+    image: "/poi-images/hongkong-tai-po-industrial-estate-economic-v2.webp",
   },
   {
     id: "hongkong-yuen-long-industrial-estate-economic-v2",
@@ -403,6 +415,7 @@ export const hongkongEconomicV2: POI[] = [
       ro: ["Suprafață: 79 de hectare.", "Anul deschiderii: 1985.", "Număr de companii: aproximativ 150.", "Conexiune Light Rail: stațiile Shui Pin Wai și Yuen Long.", "Număr angajați: circa 25.000.", "Distanță de centrul orașului: aproximativ 25 de kilometri."],
       en: ["Area: 79 hectares.", "Year opened: 1985.", "Number of companies: about 150.", "Light Rail connections: Shui Pin Wai and Yuen Long stops.", "Employment: approximately 25,000.", "Distance from city center: about 25 kilometers."],
     },
+    image: "/poi-images/hongkong-yuen-long-industrial-estate-economic-v2.webp",
   },
   {
     id: "hongkong-tseung-kwan-o-industrial-estate-economic-v2",
@@ -434,6 +447,7 @@ export const hongkongEconomicV2: POI[] = [
       ro: ["Suprafață: 77 de hectare.", "Anul deschiderii: 1991.", "Număr de companii: aproximativ 120.", "Apropierea de noul oraș Tseung Kwan O (populație 400.000).", "Stație MTR: Tseung Kwan O (linia Tseung Kwan O).", "Distanța medie până la aeroport: 30 de kilometri."],
       en: ["Area: 77 hectares.", "Year opened: 1991.", "Number of companies: about 120.", "Proximity to Tseung Kwan O New Town (population 400,000).", "MTR station: Tseung Kwan O (Tseung Kwan O line).", "Average distance from airport: 30 kilometers."],
     },
+    image: "/poi-images/hongkong-tseung-kwan-o-industrial-estate-economic-v2.webp",
   },
   {
     id: "hongkong-tsim-sha-tsui-commercial-economic-v2",
@@ -465,6 +479,7 @@ export const hongkongEconomicV2: POI[] = [
       ro: ["Suprafața districtului: aproximativ 2,5 kilometri pătrați.", "Număr de hoteluri: peste 30.", "Vizitatori anuali: peste 20 de milioane.", "Înălțimea hotelului Peninsula: 30 de etaje.", "Lungimea Aleii Celebrităților: 440 de metri.", "Deschiderea primului hotel: 1928 (The Peninsula)."],
       en: ["District area: approximately 2.5 square kilometers.", "Number of hotels: over 30.", "Annual visitors: over 20 million.", "Height of The Peninsula Hotel: 30 floors.", "Length of Avenue of Stars: 440 meters.", "First hotel opened: 1928 (The Peninsula)."],
     },
+    image: "/poi-images/hongkong-tsim-sha-tsui-commercial-economic-v2.webp",
   },
   {
     id: "hongkong-causeway-bay-economic-v2",
@@ -496,6 +511,7 @@ export const hongkongEconomicV2: POI[] = [
       ro: ["Densitatea populației: peste 60.000 de locuitori pe kilometru pătrat.", "Număr de centre comerciale: peste 10.", "Înălțimea Times Square: 59 de etaje.", "Pasageri anuali la stația MTR: peste 100 de milioane.", "Suprafața Parcului Victoria: 19 hectare.", "Lungimea străzii comerciale: peste 1 kilometru."],
       en: ["Population density: over 60,000 people per square kilometer.", "Number of shopping malls: over 10.", "Times Square height: 59 floors.", "Annual passengers at MTR station: over 100 million.", "Victoria Park area: 19 hectares.", "Length of shopping street: over 1 kilometer."],
     },
+    image: "/poi-images/hongkong-causeway-bay-economic-v2.webp",
   },
   {
     id: "hongkong-quarry-bay-taikoo-place-economic-v2",
@@ -527,6 +543,7 @@ export const hongkongEconomicV2: POI[] = [
       ro: ["Înălțimea One Island East: 308 metri.", "Număr de turnuri de birouri în Taikoo Place: 5.", "Suprafața Taikoo Place: 44.000 de metri pătrați.", "Deschiderea Cityplaza: 1983.", "Stația MTR Quarry Bay: rutele Island și Tseung Kwan O.", "Număr angajați în Quarry Bay: peste 50.000."],
       en: ["Height of One Island East: 308 meters.", "Number of office towers in Taikoo Place: 5.", "Area of Taikoo Place: 44,000 square meters.", "Cityplaza opened: 1983.", "MTR station Quarry Bay: Island and Tseung Kwan O lines.", "Employment in Quarry Bay: over 50,000."],
     },
+    image: "/poi-images/hongkong-quarry-bay-taikoo-place-economic-v2.webp",
   },
   {
     id: "hongkong-kwun-tong-business-area-economic-v2",
@@ -558,6 +575,7 @@ export const hongkongEconomicV2: POI[] = [
       ro: ["Suprafața districtului: aproximativ 10 kilometri pătrați.", "Populație: peste 600.000 de locuitori.", "Lungimea Promenadei Kwun Tong: 1,5 kilometri.", "Clădiri industriale convertite: peste 50.", "Linie MTR: Kwun Tong.", "Cel mai mare mall: apm (35.000 de metri pătrați)."],
       en: ["District area: about 10 square kilometers.", "Population: over 600,000 residents.", "Length of Kwun Tong Promenade: 1.5 kilometers.", "Number of converted factory buildings: over 50.", "MTR line: Kwun Tong Line.", "Largest shopping mall: apm (35,000 square meters)."],
     },
+    image: "/poi-images/hongkong-kwun-tong-business-area-economic-v2.webp",
   },
   {
     id: "hongkong-kowloon-bay-business-district-economic-v2",
@@ -589,6 +607,7 @@ export const hongkongEconomicV2: POI[] = [
       ro: ["Suprafața districtului de afaceri: aproximativ 4 kilometri pătrați.", "Clădiri de birouri: peste 30.", "Capacitatea centrului de convenții: 5.000 de persoane.", "Linie MTR: Kwun Tong (stația Kowloon Bay).", "Distanța până la aeroport: 25 de kilometri.", "Companii situate: aproximativ 1.000."],
       en: ["Business district area: about 4 square kilometers.", "Number of office buildings: over 30.", "Convention centre capacity: 5,000 persons.", "MTR line: Kwun Tong Line (Kowloon Bay station).", "Distance to airport: 25 kilometers.", "Number of resident companies: about 1,000."],
     },
+    image: "/poi-images/hongkong-kowloon-bay-business-district-economic-v2.webp",
   },
   {
     id: "hongkong-sheung-wan-trade-area-economic-v2",
@@ -620,6 +639,7 @@ export const hongkongEconomicV2: POI[] = [
       ro: ["Suprafața districtului: aproximativ 1,5 kilometri pătrați.", "Densitatea populației: peste 20.000 de locuitori pe kilometru pătrat.", "Număr de anticariate: peste 100.", "Lungimea Des Voeux Road: 1,6 kilometri.", "Terminalul de feribot Macao: plecări la fiecare 15 minute.", "Număr estimat de ceainării: 30."],
       en: ["District area: approximately 1.5 square kilometers.", "Population density: over 20,000 people per square kilometer.", "Number of antique shops: over 100.", "Length of Des Voeux Road: 1.6 kilometers.", "Macau Ferry Terminal: departures every 15 minutes.", "Estimated number of tea houses: 30."],
     },
+    image: "/poi-images/hongkong-sheung-wan-trade-area-economic-v2.webp",
   },
   {
     id: "hongkong-mong-kok-retail-economic-v2",
@@ -651,6 +671,7 @@ export const hongkongEconomicV2: POI[] = [
       ro: ["Densitatea populației: peste 130.000 de locuitori pe kilometru pătrat.", "Număr de piețe: peste 10 piețe importante.", "Lungimea Ladies' Market: 1 kilometru.", "Vizitatori anuali: peste 10 milioane.", "Magazine de electronice: peste 200.", "Linii MTR: Kwun Tong și Tsuen Wan (stația Mong Kok)."],
       en: ["Population density: over 130,000 people per square kilometer.", "Number of markets: over 10 major markets.", "Length of Ladies' Market: 1 kilometer.", "Annual visitors: over 10 million.", "Number of electronics shops: over 200.", "MTR lines: Kwun Tong and Tsuen Wan (Mong Kok station)."],
     },
+    image: "/poi-images/hongkong-mong-kok-retail-economic-v2.webp",
   },
   {
     id: "hongkong-hzmb-port-economic-v2",
@@ -682,6 +703,7 @@ export const hongkongEconomicV2: POI[] = [
       ro: ["Podul are 55 km lungime.", "Insula artificială măsoară 150 de hectare.", "Costul construcției: 120 miliarde HKD.", "Traficul zilnic: până la 10.000 de vehicule.", "Reducerea timpului de călătorie: de la 4 ore la 45 de minute.", "Facilități: terminal de autobuze și feribot, 6.000 de locuri de parcare."],
       en: ["Total length of the bridge-tunnel system: 55 km.", "Artificial island area: 150 hectares.", "Construction cost: approximately 120 billion HKD.", "Daily vehicle capacity: up to 10,000.", "Passenger throughput: over 10 million per year.", "Travel time saving: from 4 hours to 45 minutes."],
     },
+    image: "/poi-images/hongkong-hzmb-port-economic-v2.webp",
   },
   {
     id: "hongkong-lamma-power-station-economic-v2",
@@ -713,6 +735,7 @@ export const hongkongEconomicV2: POI[] = [
       ro: ["Capacitate instalată: 3.737 MW.", "Operator: Hongkong Electric.", "Anul punerii în funcțiune: 1982.", "Tranziția la LNG: 2022.", "Eficiență termică: >40%.", "Furnizează electricitate pentru 80% din populația insulei Hong Kong."],
       en: ["Installed capacity: 3,737 MW.", "Operator: Hongkong Electric.", "Commissioned: 1982.", "LNG conversion started: 2022.", "Thermal efficiency: over 40%.", "Supplies over 80% of Hong Kong Island's electricity."],
     },
+    image: "/poi-images/hongkong-lamma-power-station-economic-v2.webp",
   },
   {
     id: "hongkong-black-point-power-station-economic-v2",
@@ -744,6 +767,7 @@ export const hongkongEconomicV2: POI[] = [
       ro: ["Capacitate: 2.500 MW.", "Operator: CLP Power.", "Anul deschiderii: 1996.", "Reducere CO2: 8 milioane tone/an.", "Furnizează peste 1 milion de locuințe.", "Eficiență: circa 58%."],
       en: ["Capacity: 2,500 MW.", "Operator: CLP Power.", "Commissioned: 1996.", "CO2 reduction: 8 million tonnes per year.", "Supplies over 1 million households.", "Thermal efficiency: approximately 58%."],
     },
+    image: "/poi-images/hongkong-black-point-power-station-economic-v2.webp",
   },
   {
     id: "hongkong-castle-peak-power-station-economic-v2",
@@ -775,6 +799,7 @@ export const hongkongEconomicV2: POI[] = [
       ro: ["Capacitate: 4.110 MW.", "Punere în funcțiune: 1982 (A), 1985 (B).", "Consum anual de cărbune: 12 milioane tone.", "Operator: CLP Power.", "Zonă deservită: NV Noilor Teritorii și Kowloon.", "Înălțimea coșurilor: 200 m."],
       en: ["Capacity: 4,110 MW.", "Commissioned: 1982 (A) and 1985 (B).", "Annual coal consumption: 12 million tonnes.", "Operator: CLP Power.", "Service area: Northwest New Territories and Kowloon.", "Chimney height: 200 meters."],
     },
+    image: "/poi-images/hongkong-castle-peak-power-station-economic-v2.webp",
   },
   {
     id: "hongkong-pacific-place-economic-v2",
@@ -806,6 +831,7 @@ export const hongkongEconomicV2: POI[] = [
       ro: ["Deschidere: 1988.", "Suprafață comercială: 1,2 milioane de picioare pătrate.", "Număr de turnuri de birouri: 5.", "Vizitatori anuali: peste 40 de milioane.", "Conexiune MTR: stația Admiralty.", "Branduri de lux: Louis Vuitton, Gucci, Prada."],
       en: ["Opened: 1988.", "Retail area: 1.2 million sq ft.", "Number of office towers: 5.", "Annual visitors: over 40 million.", "MTR connection: Admiralty station.", "Luxury brands: Louis Vuitton, Gucci, Prada."],
     },
+    image: "/poi-images/hongkong-pacific-place-economic-v2.webp",
   },
   {
     id: "hongkong-lippo-centre-economic-v2",
@@ -837,6 +863,7 @@ export const hongkongEconomicV2: POI[] = [
       ro: ["Finalizare: 1988.", "Număr de turnuri: 2.", "Etaje per turn: 48.", "Înălțime: 186 m.", "Arhitect: Paul Rudolph.", "Găzduiește consulatele a peste 10 țări."],
       en: ["Completed: 1988.", "Number of towers: 2.", "Floors per tower: 48.", "Height: 186 meters.", "Architect: Paul Rudolph.", "Houses consulates of over 10 countries."],
     },
+    image: "/poi-images/hongkong-lippo-centre-economic-v2.webp",
   },
   {
     id: "hongkong-jardine-house-economic-v2",
@@ -868,6 +895,7 @@ export const hongkongEconomicV2: POI[] = [
       ro: ["Finalizare: 1972.", "Număr etaje: 52.", "Înălțime: 178,5 m.", "Suprafață totală: 43.000 m².", "Sediu Jardine Matheson Group.", "Prima clădire cu fațadă complet climatizată din Hong Kong."],
       en: ["Completed: 1972.", "Floors: 52.", "Height: 178.5 meters.", "Total floor area: 43,000 sq m.", "Headquarters of Jardine Matheson Group.", "First fully air-conditioned facade in Hong Kong."],
     },
+    image: "/poi-images/hongkong-jardine-house-economic-v2.webp",
   },
   {
     id: "hongkong-skycity-airport-economic-v2",
@@ -899,6 +927,7 @@ export const hongkongEconomicV2: POI[] = [
       ro: ["Spațiu expozițional AsiaWorld-Expo: 70.000 m².", "Conexiune directă cu aeroportul.", "Stație MTR: AsiaWorld-Expo.", "Vizitatori anuali: peste 5 milioane.", "Număr hoteluri: 2 (peste 1.000 de camere).", "Deschidere: 2005."],
       en: ["AsiaWorld-Expo exhibition space: 70,000 sq m.", "Direct connection to Chek Lap Kok Airport.", "MTR station: AsiaWorld-Expo.", "Annual visitors: over 5 million.", "Number of hotels: 2 (over 1,000 rooms).", "Opened: 2005."],
     },
+    image: "/poi-images/hongkong-skycity-airport-economic-v2.webp",
   },
   {
     id: "hongkong-stonecutters-island-infrastructure-economic-v2",
@@ -930,5 +959,6 @@ export const hongkongEconomicV2: POI[] = [
       ro: ["Deschiderea principală a podului: 1.018 m.", "Inaugurare pod: 2009.", "Lungime totală: 1,6 km.", "Insula artificială construită în anii 1970.", "Înălțimea pilonilor: 298 m.", "Leagă aeroportul de Noile Teritorii."],
       en: ["Main span of Stonecutters Bridge: 1,018 m.", "Bridge opened: 2009.", "Total bridge length: 1.6 km.", "Artificial island reclaimed in the 1970s.", "Pylon height: 298 meters.", "Connects airport to New Territories."],
     },
+    image: "/poi-images/hongkong-stonecutters-island-infrastructure-economic-v2.webp",
   }
 ];

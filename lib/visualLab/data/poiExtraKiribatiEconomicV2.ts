@@ -31,6 +31,7 @@ export const kiribatiEconomicV2: POI[] = [
       ro: ["Trafic de containere: 50.000 TEU/an (2019)", "Număr de macarale: 3", "Adâncimea apei: 10 m", "Extindere: 2015", "Export principal: copra și pește", "Locuri de acostare: 5"],
       en: ["Container throughput: 50,000 TEU/year (2019)", "Number of cranes: 3", "Water depth: 10 m", "Expansion: 2015", "Main exports: copra and fish", "Berths: 5"],
     },
+    image: "/poi-images/kiribati-betio-port-economic-v2.webp",
   },
   {
     id: "kiribati-bairiki-business-district-economic-v2",
@@ -62,6 +63,7 @@ export const kiribatiEconomicV2: POI[] = [
       ro: ["Număr de afaceri: peste 100", "Contribuția la PIB: 20% din PIB național", "Suprafața pieței: 2.000 m²", "Număr de sucursale bancare: 4", "Angajați: circa 2.000", "Program: L–S 8–17"],
       en: ["Number of businesses: over 100", "GDP contribution: 20% of national GDP", "Market area: 2,000 m²", "Number of bank branches: 4", "Employees: approx. 2,000", "Opening hours: Mon–Sa 8am–5pm"],
     },
+    image: "/poi-images/kiribati-bairiki-business-district-economic-v2.webp",
   },
   {
     id: "kiribati-kiritimati-copra-plantation-economic-v2",
@@ -93,6 +95,7 @@ export const kiribatiEconomicV2: POI[] = [
       ro: ["Suprafață: 500 de hectare", "Producție anuală: 1.000 de tone de copra", "Număr de palmieri de cocos: 200.000", "Angajați: 150", "Valoare export: 500.000 AUD/an", "Înființare: anii 1920"],
       en: ["Area: 500 hectares", "Annual production: 1,000 tons of copra", "Number of coconut palms: 200,000", "Employees: 150", "Export value: 500,000 AUD/year", "Established: 1920s"],
     },
+    image: "/poi-images/kiribati-kiritimati-copra-plantation-economic-v2.webp",
   },
   {
     id: "kiribati-cassidy-airport-economic-v2",
@@ -124,6 +127,7 @@ export const kiribatiEconomicV2: POI[] = [
       ro: ["Cod IATA: CXI", "Lungimea pistei: 2.100 m", "Deschidere: 1979", "Mișcări anuale de zbor: 500", "Altitudine: 2 m deasupra nivelului mării", "Număr de pasageri: 10.000 (2019)"],
       en: ["IATA code: CXI", "Runway length: 2,100 m", "Opened: 1979", "Annual aircraft movements: 500", "Elevation: 2 m AMSL", "Passenger traffic: 10,000 (2019)"],
     },
+    image: "/poi-images/kiribati-cassidy-airport-economic-v2.webp",
   },
   {
     id: "kiribati-banaba-phosphate-mines-economic-v2",
@@ -155,6 +159,7 @@ export const kiribatiEconomicV2: POI[] = [
       ro: ["Producție anuală: circa 500.000 de tone (maxim)", "Volum total extras: 20 de milioane de tone", "Începutul exploatării: 1900", "Sfârșitul exploatării: 1979", "Populația insulei Banaba: 300 (2020)", "Suprafața insulei: 6,5 km²"],
       en: ["Peak annual production: approx. 500,000 tons", "Total extracted volume: 20 million tons", "Mining started: 1900", "Mining ended: 1979", "Banaba population: 300 (2020)", "Island area: 6.5 km²"],
     },
+    image: "/poi-images/kiribati-banaba-phosphate-mines-economic-v2.webp",
   },
   {
     id: "kiribati-betio-shipyard-economic-v2",
@@ -186,6 +191,7 @@ export const kiribatiEconomicV2: POI[] = [
       ro: ["Capacitate doc uscat: 1.000 de tone", "Lungime doc: 80 m", "An construcție: 1985", "Număr de angajați: 50", "Reparații anuale: 20 de nave", "Costuri de construcție: 2 milioane AUD"],
       en: ["Dry dock capacity: 1,000 tons", "Dock length: 80 m", "Year built: 1985", "Number of employees: 50", "Annual repairs: 20 vessels", "Construction cost: 2 million AUD"],
     },
+    image: "/poi-images/kiribati-betio-shipyard-economic-v2.webp",
   },
   {
     id: "kiribati-tabuaeran-seaweed-farms-economic-v2",
@@ -217,6 +223,7 @@ export const kiribatiEconomicV2: POI[] = [
       ro: ["Suprafață de producție: 50 de hectare", "Producție anuală: 200 de tone de alge uscate", "Număr de familii: 200", "Valoare export: 300.000 AUD/an", "Ciclu de cultivare: 4 luni", "Specie: Kappaphycus alvarezii"],
       en: ["Production area: 50 hectares", "Annual production: 200 tons dried seaweed", "Number of families: 200", "Export value: 300,000 AUD/year", "Cultivation cycle: 4 months", "Species: Kappaphycus alvarezii"],
     },
+    image: "/poi-images/kiribati-tabuaeran-seaweed-farms-economic-v2.webp",
   },
   {
     id: "kiribati-bonriki-solar-farm-economic-v2",
@@ -248,6 +255,7 @@ export const kiribatiEconomicV2: POI[] = [
       ro: ["Anul construcției: 2017", "Capacitate: 1,2 MWp", "Suprafață: 4 hectare", "Economii anuale de CO2: peste 500 de tone", "Finanțatori: Banca Mondială și UE", "Locație: lângă Aeroportul Internațional Bonriki"],
       en: ["Commissioned in 2017", "Capacity: 1.2 MWp", "Area: 4 hectares", "Annual CO2 savings: over 500 tons", "Funding: World Bank and European Union", "Location: adjacent to Bonriki International Airport"],
     },
+    image: "/poi-images/kiribati-bonriki-solar-farm-economic-v2.webp",
   },
   {
     id: "kiribati-kfl-fish-processing-economic-v2",
@@ -279,6 +287,7 @@ export const kiribatiEconomicV2: POI[] = [
       ro: ["Anul deschiderii: 2014", "Capacitate anuală de procesare: până la 5.000 de tone de ton", "Locuri de muncă: peste 200", "Locație: portul Betio, Tarawa", "Joint venture: guvernul Kiribati și parteneri japonezi", "Certificare UE pentru export"],
       en: ["Opened in 2014", "Annual processing capacity: up to 5,000 tonnes of tuna", "Employment: over 200 workers", "Location: Betio port, Tarawa", "Joint venture: Kiribati government and Japanese partners", "EU certification for export"],
     },
+    image: "/poi-images/kiribati-kfl-fish-processing-economic-v2.webp",
   },
   {
     id: "kiribati-london-wharf-economic-v2",
@@ -310,5 +319,6 @@ export const kiribatiEconomicV2: POI[] = [
       ro: ["An construcție: anii 1970", "Lungime: aproximativ 100 de metri", "Locație: London, Kiritimati", "Mărfuri principale: copră, pește", "Stare: colmatare, lipsă întreținere", "Modernizare planificată: da"],
       en: ["Built in the 1970s", "Length: approximately 100 meters", "Location: London, Kiritimati", "Main cargo: copra, fish", "Condition: suffers from siltation and poor maintenance", "Planned upgrades: yes"],
     },
+    image: "/poi-images/kiribati-london-wharf-economic-v2.webp",
   }
 ];

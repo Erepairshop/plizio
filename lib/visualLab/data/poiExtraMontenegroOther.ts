@@ -108,7 +108,8 @@ export const montenegroOtherExtra = ([
       hu: ["Panorámás kilátást nyújt, amely egészen az Adriai-tengerig nyúlik.", "A Njegoš-mauzóleum 461 lépcsőfok megmászásával érhető el.", "A hegy neve szorosan kapcsolódik a montenegrói állam történetéhez."],
       ro: ["Oferă vederi panoramice care se extind peste Marea Adriatică.", "Mausoleul lui Njegoš este accesat urcând 461 de trepte.", "Numele muntelui este strâns legat de istoria statului muntenegrean."],
       en: ["It offers panoramic views extending across the Adriatic Sea.", "The Mausoleum of Njegoš is reached by climbing 461 steps.", "The mountain's name is closely linked to the history of the Montenegrin state."]
-    }
+    },
+    image: "/poi-images/me-lovcen.webp",
   },
   {
     id: "me-biogradska-gora",

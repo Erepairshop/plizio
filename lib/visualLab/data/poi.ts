@@ -3188,6 +3188,7 @@ export const pois: POI[] = [
       ro: ["Revolta a avut loc între 5 și 12 ianuarie 1919.", "Centrul ocupațiilor a fost cartierul ziarelor din Berlin (Kochstraße).", "Se estimează că între 150 și 200 de insurgenți au fost uciși în lupte.", "Rosa Luxemburg și Karl Liebknecht au fost uciși în Tiergarten la 15 ianuarie 1919.", "Gustav Noske a condus reprimarea militară în calitate de ministru al apărării.", "Revolta a împiedicat stabilizarea pașnică a tinerei republici."],
       en: ["The uprising took place from January 5 to 12, 1919.", "The center of the occupations was Berlin's newspaper district (Kochstraße).", "Estimated 150 to 200 insurgents were killed during the fighting.", "Rosa Luxemburg and Karl Liebknecht were murdered on Jan 15, 1919, in the Tiergarten.", "Gustav Noske directed the military suppression as Defense Minister.", "The uprising prevented a peaceful stabilization of the early republic."],
     },
+    image: "/poi-images/hist-spartakusaufstand.webp",
   },
 
   // ── WW2 ──────────────────────────────────────────────────────────────────
@@ -3648,6 +3649,7 @@ export const pois: POI[] = [
       ro: ["Un râs adult cântărește între 18 și 30 de kilograme.", "Smocurile caracteristice de păr de pe urechi au o lungime de circa 4 cm.", "Râșii pot detecta prada de la o distanță de peste 500 de metri.", "În anii 1970, primele 5 până la 10 exemplare au fost eliberate în sălbăticie.", "Vederea nocturnă a râsului este de șase ori mai bună decât cea a omului.", "Un râs consumă în medie o căprioară sau o capră neagră pe săptămână."],
       en: ["An adult Eurasian lynx weighs between 18 and 30 kilograms.", "The characteristic ear tufts are approximately 4 centimeters long.", "Lynx can perceive prey from a distance of up to 500 meters.", "In the 1970s, the first 5 to 10 animals were reintroduced to the wild.", "A lynx's night vision is six times better than that of a human.", "A lynx consumes on average one roe deer or chamois per week."],
     },
+    image: "/poi-images/animal-bayrischer-wald-luchs.webp",
   },
 
   // ── LIFE & NATUR: Landwirtschaft ───────────────────────────────────────────
@@ -3843,6 +3845,7 @@ export const pois: POI[] = [
       ro: ["Phantasialand a fost inaugurat pe 30 aprilie 1967.", "Montagne russe-ul Taron deține mai multe recorduri mondiale.", "F.L.Y. este primul Flying Launch Coaster din lume.", "Parcul se întinde pe o suprafață de aproximativ 28 de hectare.", "Există șase zone tematice diferite în Phantasialand.", "Construcția montagne russe-ului Black Mamba a costat circa 11 milioane de euro."],
       en: ["Phantasialand was officially opened on April 30, 1967.", "The Taron multi-launch coaster holds several world records.", "F.L.Y. is the world's first flying launch coaster.", "The park covers a total area of approximately 28 hectares.", "There are six distinct themed areas within Phantasialand.", "The Black Mamba roller coaster cost approximately 11 million euros to build."],
     },
+    image: "/poi-images/kidlm-phantasialand-bruehl.webp",
   },
   {
     id: "kidlm-heide-park-soltau",
@@ -4476,6 +4479,7 @@ export const pois: POI[] = [
       ro: ["Statuia Roland a fost ridicată din calcar în anul 1404.", "Primăria a fost inclusă în lista patrimoniului mondial UNESCO împreună cu Roland în 2004.", "Distanța dintre genunchii lui Roland corespunde exact unui cot de Bremen (55,37 cm).", "Bremer Ratskeller adăpostește cel mai vechi butoi cu vin din Germania, din 1653.", "Fațada în stilul Renașterii Weser a fost adăugată între 1608 și 1612.", "Primăria este singura din Europa construită în Evul Mediu târziu care nu a fost niciodată distrusă."],
       en: ["The Roland statue was erected from limestone in 1404.", "The Town Hall was added to the UNESCO World Heritage list along with Roland in 2004.", "The distance between Roland's knees measures exactly one Bremen ell (55.37 cm).", "The Bremer Ratskeller houses Germany's oldest wine cask, dating from 1653.", "The Weser Renaissance style facade was added between 1608 and 1612.", "The Town Hall is the only one in Europe built in the late Middle Ages that was never destroyed."],
     },
+    image: "/poi-images/hist-bremer-roland.webp",
   },
   {
     id: "hist-schnoorviertel",
@@ -4620,6 +4624,7 @@ export const pois: POI[] = [
       ro: ["Râul Weser se formează prin confluența râurilor Werra și Fulda la Hann. Münden.", "Portul din Bremen a fost cel mai important port de emigrare din Europa în secolul al XIX-lea.", "Schlachte a servit ca punct principal de transbordare al orașului până în secolul al XIX-lea.", "Nivelul apei râului variază cu câțiva metri de două ori pe zi din cauza mareei.", "Weser-Stadion, sediul clubului Werder Bremen, este situat direct pe malul râului.", "Râul parcurge aproximativ 452 de kilometri de la origine până la Marea Nordului."],
       en: ["The Weser is formed by the confluence of the Werra and Fulda rivers in Hann. Münden.", "In the 19th century, Bremen's port was Europe's primary port for overseas emigration.", "The Schlachte served as the city's main loading area until the mid-19th century.", "The river level fluctuates by several meters twice a day due to North Sea tides.", "The Weser-Stadion, home of Werder Bremen, is located right on the riverbank.", "The river covers a total distance of 452 kilometers from its source to the sea."],
     },
+    image: "/poi-images/river-weser-hafen-hb.webp",
   },
 
   // ── SAARLAND (DE-SL) ────────────────────────────────────────────────────
@@ -4645,6 +4650,7 @@ export const pois: POI[] = [
       ro: ["Râul Saar face în acest punct o întoarcere completă de 180 de grade.", "Punctul de observație Cloef se află la aproximativ 180 de metri deasupra apei.", "Traseul prin coroanele copacilor a fost deschis oficial în anul 2016.", "Turnul de observație de la capătul traseului are o înălțime de 42 de metri.", "Saarschleife a fost declarată rezervație naturală încă din anul 1935.", "Regele Frederic Wilhelm al IV-lea al Prusiei a vizitat locația în anul 1833."],
       en: ["The Saar River performs a precise 180-degree turn at this location.", "The Cloef viewpoint stands approximately 180 meters above the river level.", "The Treetop Walk (Baumwipfelpfad) was officially opened in 2016.", "The observation tower at the end of the path reaches a height of 42 meters.", "The Saar Loop has been a designated nature reserve since 1935.", "King Frederick William IV of Prussia visited the site as early as 1833."],
     },
+    image: "/poi-images/landmark-saarschleife.webp",
   },
   {
     id: "hist-ludwigskirche-saarbruecken",
@@ -4766,6 +4772,7 @@ export const pois: POI[] = [
       ro: ["Speicherstadt a fost construită pe o fundație de aproximativ 3,5 milioane de piloni de stejar.", "Complexul se întinde pe o lungime totală de aproximativ 1,5 kilometri.", "Speicherstadt este oficial în patrimoniul mondial UNESCO din 5 iulie 2015.", "În trecut, aici se depozita aproximativ 10% din recolta mondială de cafea crudă.", "Cartierul găzduiește cel mai mare depozit de covoare orientale din lume.", "Speicherstadt este conectată de zonele adiacente prin intermediul a 20 de poduri."],
       en: ["The Speicherstadt is built on a foundation of approximately 3.5 million oak piles.", "The complex spans a total length of about 1.5 kilometers.", "The Speicherstadt was officially designated a UNESCO World Heritage site on July 5, 2015.", "Historically, around 10 percent of the world's raw coffee harvest was stored here.", "The district houses the largest warehouse for oriental carpets in the world.", "A total of 20 bridges connect the Speicherstadt with its surrounding areas."],
     },
+    image: "/poi-images/hist-speicherstadt.webp",
   },
   {
     id: "hist-st-nikolai-hamburg",
@@ -4839,6 +4846,7 @@ export const pois: POI[] = [
       ro: ["Bararea râului a început în anul 1190 pentru morile de apă", "Suprafața Alsterului Exterior este de aproximativ 160 de hectare", "Alsterul Interior ocupă o suprafață de circa 18 hectare", "Podurile Lombards și Kennedy separă cele două bazine ale lacului", "Vasele Alsterdampfer operează pe lac de peste 150 de ani", "Adâncimea medie a lacului este de aproximativ 2,5 metri"],
       en: ["Damming of the river began in 1190 to power watermills", "The Outer Alster covers an area of approximately 160 hectares", "The Inner Alster has a surface area of about 18 hectares", "The Lombard and Kennedy bridges separate the two lake sections", "White Alster ferries have been in operation for over 150 years", "The average depth of the lake is only about 2.5 meters"],
     },
+    image: "/poi-images/landmark-alster.webp",
   },
   {
     id: "landmark-fischmarkt-hamburg",
@@ -4912,6 +4920,7 @@ export const pois: POI[] = [
       ro: ["Construcția actualei structuri de oțel a fost finalizată în 1907", "Lungimea totală a podului este de aproximativ 128 de metri", "Schimbul pilotului Gary Powers cu Rudolf Abel în februarie 1962", "Al doilea schimb de 25 de prizonieri occidentali în iunie 1985", "Ultimul schimb în februarie 1986 (Natan Scharanski contra spioni sovietici)", "Apartenența la patrimoniul mondial UNESCO al parcurilor din Potsdam"],
       en: ["Construction of the current steel structure was completed in 1907", "The total length of the bridge is approximately 128 meters over the Havel", "Exchange of pilot Francis Gary Powers for Rudolf Abel in February 1962", "Second exchange involving 25 Western prisoners in June 1985", "Final exchange in February 1986 (Natan Sharansky for Soviet spies)", "Part of the UNESCO World Heritage Palaces and Parks of Potsdam"],
     },
+    image: "/poi-images/hist-glienicker-bruecke.webp",
   },
   {
     id: "landmark-filmpark-babelsberg",
@@ -5010,6 +5019,7 @@ export const pois: POI[] = [
       ro: ["Începerea construcției castelului clasicist în anul 1786", "Bergpark se întinde pe o suprafață totală de aproximativ 240 de hectare", "Includerea parcului și a castelului în patrimoniul mondial UNESCO în 2013", "Monumentul lui Hercule are o înălțime de 8,25 metri", "Reședința lui Jérôme Bonaparte, fratele lui Napoleon (1807-1813)", "Găzduiește Galeria de Pictură a Vechilor Maeștri, cu opere de Rembrandt"],
       en: ["Construction of the neoclassical palace began in 1786", "The Bergpark covers a total area of approximately 240 hectares", "Park and palace inscribed as a UNESCO World Heritage site in 2013", "The Hercules monument is 8.25 meters high and tops the park", "Residence of Jérôme Bonaparte, Napoleon's brother (1807-1813)", "Houses the Old Masters Picture Gallery featuring works by Rembrandt"],
     },
+    image: "/poi-images/hist-wilhelmshoehe.webp",
   },
   {
     id: "hist-kloster-lorsch",
@@ -5060,6 +5070,7 @@ export const pois: POI[] = [
       ro: ["Nașterea lui Johann Wolfgang von Goethe la 28 august 1749", "Distrugerea casei în urma unui atac aerian în martie 1944", "Reconstrucția și redeschiderea festivă a muzeului în anul 1951", "Locul unde a fost scris romanul Suferințele tânărului Werther", "Stilul arhitectural reflectă barocul târziu al burgheziei din Frankfurt", "Muzeul Goethe din Frankfurt deține peste 100.000 de manuscrise"],
       en: ["Birth of Johann Wolfgang von Goethe on August 28, 1749", "Destruction of the house during an air raid in March 1944", "Reconstruction and ceremonial reopening in 1951", "Birthplace of works such as The Sorrows of Young Werther", "Architecture reflects the late Baroque style of the Frankfurt bourgeoisie", "The Frankfurt Goethe Museum houses over 100,000 manuscripts"],
     },
+    image: "/poi-images/landmark-goethehaus-frankfurt.webp",
   },
   {
     id: "city-darmstadt",
@@ -5110,6 +5121,7 @@ export const pois: POI[] = [
       ro: ["Semperoper a fost construită sau reconstruită substanțial de trei ori în total.", "Gottfried Semper a realizat planurile pentru a doua construcție din exilul său la Viena.", "Richard Wagner a prezentat aici premierele operelor sale 'Tannhäuser' și 'Olandezul zburător'.", "Sala de spectacole are o capacitate de aproximativ 1.300 de locuri.", "Acustica de la Semperoper este considerată una dintre cele mai bune din întreaga Europă.", "Clădirea a fost redeschisă pe 13 februarie 1985, la 40 de ani de la bombardament."],
       en: ["The Semperoper was built or extensively reconstructed a total of three times.", "Gottfried Semper designed the plans for the second building while in exile in Vienna.", "Richard Wagner premiered his operas 'Tannhäuser' and 'The Flying Dutchman' here.", "The auditorium has a seating capacity for approximately 1,300 guests.", "The acoustics of the Semperoper are considered among the best in all of Europe.", "The building reopened on February 13, 1985, 40 years after the bombing raid."],
     },
+    image: "/poi-images/hist-semperoper.webp",
   },
   {
     id: "hist-colditz",
@@ -5181,6 +5193,7 @@ export const pois: POI[] = [
       ro: ["Meißen este locul unde a fost fondată prima manufactură de porțelan din Europa în 1710.", "Castelul Albrechtsburg a fost construit între 1471 și 1524 ca castel de reședință.", "Marca înregistrată a porțelanului de Meißen este reprezentată de săbiile albastre încrucișate.", "Domul din Meißen este un exemplu semnificativ al stilului gotic german pur.", "Meißen este situat în cea mai nord-estică regiune viticolă a Germaniei.", "Johann Friedrich Böttger a inventat aici porțelanul european în 1708, alături de Tschirnhaus."],
       en: ["Meissen is the site of the first porcelain manufactory in Europe, founded in 1710.", "Albrechtsburg Castle was built between 1471 and 1524 as a residential palace.", "The trademark of Meissen porcelain is the crossed blue swords symbol.", "Meissen Cathedral is a significant example of pure German Gothic architecture.", "Meissen is located in the most northeasterly wine-growing region of Germany.", "Johann Friedrich Böttger invented European porcelain here in 1708 together with Tschirnhaus."],
     },
+    image: "/poi-images/city-meissen.webp",
   },
 
   // ── SACHSEN-ANHALT (DE-ST) ───────────────────────────────────────────────
@@ -5208,6 +5221,7 @@ export const pois: POI[] = [
       ro: ["Clădirea școlii Bauhaus din Dessau a fost construită în 1925-1926 după planurile lui Walter Gropius.", "Casele Maeștrilor au fost locuințe pentru profesorii Bauhaus, precum Klee și Kandinsky.", "Clădirea are o structură de rezistență de tip schelet cu o fațadă cortină din sticlă.", "Bauhaus Dessau a fost inclus pe lista Patrimoniului Mondial UNESCO în 1996.", "Bauhaus a fost închis în Dessau în 1932 la presiunea național-socialiștilor.", "Așezarea Dessau-Törten cuprinde 314 case înșiruite în stil Bauhaus."],
       en: ["The Bauhaus school building in Dessau was constructed in 1925-1926 according to plans by Walter Gropius.", "The Master Houses were residential buildings for Bauhaus teachers like Klee and Kandinsky.", "The building features a structural skeleton with a curtain-wall glass facade.", "Bauhaus Dessau was added to the UNESCO World Heritage list in 1996.", "The Bauhaus was closed in Dessau in 1932 under pressure from the National Socialists.", "The Dessau-Törten estate consists of 314 terraced houses in the Bauhaus style."],
     },
+    image: "/poi-images/hist-bauhaus-dessau.webp",
   },
   {
     id: "hist-naumburger-dom",
@@ -5283,6 +5297,7 @@ export const pois: POI[] = [
       ro: ["Clopotul 'Gloriosa' cântărește 11,45 tone și a fost turnat în 1497.", "Martin Luther a fost hirotonit preot în Catedrala din Erfurt pe 3 aprilie 1507.", "Cele 13 vitralii în stil gotic târziu din cor au o înălțime de 18 metri.", "Sfeșnicul Wolfram datează din jurul anului 1160.", "Scara monumentală către piața catedralei are 70 de trepte.", "Catedrala are strane de cor impresionante din secolul al XIV-lea, cu 89 de locuri."],
       en: ["The 'Gloriosa' bell weighs 11.45 tons and was cast in the year 1497.", "Martin Luther was ordained as a priest in Erfurt Cathedral on April 3, 1507.", "The 13 late Gothic stained glass windows in the choir are 18 meters high.", "The Wolfram candlestick dates back to around 1160.", "The monumental grand staircase to the Cathedral Square consists of 70 steps.", "The cathedral features impressive 14th-century choir stalls with 89 seats."],
     },
+    image: "/poi-images/hist-erfurter-dom.webp",
   },
   {
     id: "hist-mittelbau-dora",
@@ -5358,6 +5373,7 @@ export const pois: POI[] = [
       ro: ["Complexul este format din opt blocuri identice situate direct pe plajă.", "Arhitectul Clemens Klotz a primit Marele Premiu la Expoziția Universală din 1937 pentru acest proiect.", "Camerele planificate aveau o dimensiune standard de 2,50 pe 5 metri.", "În perioada RDG, Prora a fost una dintre cele mai mari locații de cazarmă din țară.", "Lungimea totală a clădirilor rămase este și astăzi de aproximativ 2,5 kilometri.", "Întregul complex se află sub protecția monumentelor de stat începând cu anul 1994."],
       en: ["The facility consists of eight identical building blocks located directly on the beach.", "Architect Clemens Klotz received the Grand Prix at the 1937 World's Fair for the design.", "The planned rooms were standardized to a size of 2.50 by 5 meters.", "During the GDR era, Prora was one of the largest barracks locations in the country.", "The total length of the remaining buildings today is still about 2.5 kilometers.", "The entire complex has been under state monument protection since 1994."],
     },
+    image: "/poi-images/hist-prora.webp",
   },
   {
     id: "hist-stralsund-hansestadt",
@@ -5383,6 +5399,7 @@ export const pois: POI[] = [
       ro: ["Primăria din Stralsund are una dintre cele mai elaborate fațade din nordul Germaniei.", "Biserica Sf. Maria a fost cea mai înaltă clădire din lume între 1625 și 1647, având 151 de metri.", "Ozeaneum a fost desemnat 'Muzeul European al Anului' în 2010.", "Stralsund s-a aflat sub dominație suedeză din 1648 până în 1815.", "Podul Rügen conectează orașul direct de insula Rügen începând cu anul 2007.", "În centrul vechi al orașului Stralsund există peste 500 de clădiri protejate."],
       en: ["Stralsund's Town Hall features one of the most elaborate show facades in Northern Germany.", "St. Mary's Church was the tallest building in the world from 1625 to 1647, standing at 151 meters.", "The Ozeaneum was named 'European Museum of the Year' in 2010.", "Stralsund was under Swedish rule for over 150 years, from 1648 to 1815.", "The Rügen Bridge has connected the city directly to the island of Rügen since 2007.", "There are more than 500 listed historic buildings in Stralsund's old town."],
     },
+    image: "/poi-images/hist-stralsund-hansestadt.webp",
   },
   {
     id: "nature-jasmund",
@@ -5458,6 +5475,7 @@ export const pois: POI[] = [
       ro: ["Lagărul a fost eliberat pe 15 aprilie 1945 de către armata britanică.", "În total, aproximativ 52.000 de deținuți și 20.000 de prizonieri de război au murit la Bergen-Belsen.", "Anne Frank și sora ei Margot au murit aici de tifos în primăvara anului 1945.", "După eliberare, barăcile au fost arse pentru a preveni răspândirea epidemiilor.", "Memorialul de pe teren a fost inaugurat încă din anul 1952.", "Clădirea centrului de documentare a fost ridicată în 2007 după planurile arhitecților KSP Jürgen Engel."],
       en: ["The camp was liberated by the British Army on April 15, 1945.", "A total of approximately 52,000 prisoners and 20,000 POWs died in Bergen-Belsen.", "Anne Frank and her sister Margot died here of typhus in the spring of 1945.", "Following liberation, the barracks were burned down to prevent the spread of disease.", "The central memorial on the grounds was inaugurated as early as 1952.", "The documentation center was built in 2007 based on designs by architects KSP Jürgen Engel."],
     },
+    image: "/poi-images/hist-bergen-belsen.webp",
   },
   {
     id: "hist-goslar-kaiserpfalz",
@@ -5558,6 +5576,7 @@ export const pois: POI[] = [
       ro: ["Canalul are o adâncime de 11 metri și o lățime a oglinzii apei de până la 162 metri.", "Construcția a costat atunci 156 milioane de mărci și a angajat peste 8.000 de muncitori.", "Inițial, calea navigabilă s-a numit 'Canalul Împăratului Wilhelm'.", "Navele au voie să circule pe canal cu o viteză maximă de 15 km/h.", "Există 14 feriboturi pe canal, a căror utilizare este gratuită prin lege.", "Tranzitul durează între 7 și 9 ore, în funcție de mărimea navei și de trafic."],
       en: ["The canal has a depth of 11 meters and a width of up to 162 meters at the water's surface.", "The construction cost 156 million marks and employed over 8,000 workers.", "The waterway was originally named the 'Kaiser Wilhelm Canal'.", "Ships are permitted to navigate the canal at a maximum speed of 15 km/h.", "There are 14 canal ferries, all of which are free of charge by law.", "A full transit takes approximately 7 to 9 hours depending on ship size and traffic."],
     },
+    image: "/poi-images/hist-nord-ostsee-kanal.webp",
   },
   {
     id: "landmark-flensburger-foerde",

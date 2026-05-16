@@ -31,6 +31,7 @@ export const kiribatiReliefV2: POI[] = [
       ro: ["Înălțime: 81 m", "Cel mai înalt punct din Kiribati", "Suprafața insulei: 6,5 km²", "Populație: cca. 300", "Exploatare fosfați 1900-1979", "Distanță până la Tarawa: 400 km"],
       en: ["Height: 81 m", "Highest point in Kiribati", "Island area: 6.5 km²", "Population: approx. 300", "Phosphate mining 1900-1979", "Distance to Tarawa: 400 km"],
     },
+    image: "/poi-images/kiribati-banaba-peak-relief-v2.webp",
   },
   {
     id: "kiribati-joes-hill-relief-v2",
@@ -62,6 +63,7 @@ export const kiribatiReliefV2: POI[] = [
       ro: ["Înălțime: cca. 5 m", "Locație: atolul Kiritimati", "Diametru: cca. 50 m", "Acoperire: tufișuri joase", "Descoperire: necunoscută", "Sol: calcar coralier și nisip"],
       en: ["Height: approx. 5 m", "Location: Kiritimati Atoll", "Diameter: approx. 50 m", "Cover: low shrubs", "Discovery: unknown", "Soil: coral limestone and sand"],
     },
+    image: "/poi-images/kiribati-joes-hill-relief-v2.webp",
   },
   {
     id: "kiribati-aeon-point-relief-v2",
@@ -93,6 +95,7 @@ export const kiribatiReliefV2: POI[] = [
       ro: ["Lungime: cca. 200 m", "Înălțime deasupra apei: 2 m", "Viteza curentului: până la 3 noduri", "Specii de pești: ton, macrou", "Distanță până la cea mai apropiată așezare: 5 km", "Acoperire coralieră: densă"],
       en: ["Length: approx. 200 m", "Height above water: 2 m", "Current speed: up to 3 knots", "Fish species: tuna, mackerel", "Distance to nearest settlement: 5 km", "Coral cover: dense"],
     },
+    image: "/poi-images/kiribati-aeon-point-relief-v2.webp",
   },
   {
     id: "kiribati-poland-flats-relief-v2",
@@ -124,6 +127,7 @@ export const kiribatiReliefV2: POI[] = [
       ro: ["Suprafață: 2 km²", "Diferența de maree: cca. 1,5 m", "Sol: nisip coralier și noroi", "Lacuri sărate: mai multe mici", "Specii de păsări: ploier, fugaci", "Utilizare: pescuit, observarea păsărilor"],
       en: ["Area: 2 km²", "Tidal range: approx. 1.5 m", "Soil: coral sand and mud", "Salt pans: several small", "Bird species: plovers, sandpipers", "Use: fishing, birdwatching"],
     },
+    image: "/poi-images/kiribati-poland-flats-relief-v2.webp",
   },
   {
     id: "kiribati-betio-islet-relief-v2",
@@ -155,6 +159,7 @@ export const kiribatiReliefV2: POI[] = [
       ro: ["Suprafață: 1,5 km²", "Populație: cca. 15.000", "Densitate: 10.000/km²", "Bătălia de la Tarawa: noiembrie 1943", "Altitudine: 2 m", "Export principal: pește"],
       en: ["Area: 1.5 km²", "Population: approx. 15,000", "Population density: 10,000/km²", "Battle of Tarawa: November 1943", "Elevation: 2 m", "Main export: fish"],
     },
+    image: "/poi-images/kiribati-betio-islet-relief-v2.webp",
   },
   {
     id: "kiribati-bonriki-plateau-relief-v2",
@@ -186,6 +191,7 @@ export const kiribatiReliefV2: POI[] = [
       ro: ["Altitudine: 3 m", "Aeroport: Bonriki International (IATA: TRW)", "Deschidere: 1943 ca aerodrom militar", "Lungime pistă: 2.422 m", "Pasageri: peste 250.000 anual", "Locație: atolul Tarawa"],
       en: ["Elevation: 3 m", "Airport: Bonriki International (IATA: TRW)", "Opened: 1943 as military airfield", "Runway length: 2,422 m", "Passengers: over 250,000 annually", "Location: Tarawa Atoll"],
     },
+    image: "/poi-images/kiribati-bonriki-plateau-relief-v2.webp",
   },
   {
     id: "kiribati-manra-rim-relief-v2",
@@ -217,6 +223,7 @@ export const kiribatiReliefV2: POI[] = [
       ro: ["Lungime: cca. 8 km", "Lățime: 100-200 m", "Acoperire coralieră: 50%", "Adâncime medie: 10 m", "Zonă de maree: 0-2 m", "Vegetație: tufișuri joase"],
       en: ["Length: approx. 8 km", "Width: 100-200 m", "Coral cover: 50%", "Average depth: 10 m", "Tidal range: 0-2 m", "Vegetation: low shrubs"],
     },
+    image: "/poi-images/kiribati-manra-rim-relief-v2.webp",
   },
   {
     id: "kiribati-nikumaroro-atoll-relief-v2",
@@ -248,5 +255,6 @@ export const kiribatiReliefV2: POI[] = [
       ro: ["Suprafață: 4,1 km²", "Altitudine: 3 m", "Suprafața lagunei: 20 km²", "Teoria Earhart: 1937", "Descoperit: 1820 de F. W. Beechey", "Parte a Zonei Protejate a Insulelor Phoenix"],
       en: ["Area: 4.1 km²", "Elevation: 3 m", "Lagoon area: 20 km²", "Earhart theory: 1937", "Discovered: 1820 by F. W. Beechey", "Part of Phoenix Islands Protected Area"],
     },
+    image: "/poi-images/kiribati-nikumaroro-atoll-relief-v2.webp",
   }
 ];

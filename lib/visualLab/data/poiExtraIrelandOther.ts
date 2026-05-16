@@ -95,6 +95,7 @@ export const poiExtraIrelandOther: POI[] = [
       "It is the only fully licensed wildlife park in the southeast of Ireland.",
       "The facility places a heavy emphasis on interactive educational workshops for schoolchildren."
     ],
-    }
+    },
+    image: "/poi-images/animal-habitat-secret-valley-extra.webp",
   }
 ];

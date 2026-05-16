@@ -331,7 +331,8 @@ export const poiExtraPortugalHistorical: POI[] = [
       hu: ["Az út elvezet az 516 Arouca hídhoz, amely egy 516 méter hosszú és 175 méter magas gyalogos függőhíd.", "A projekt több World Travel Awards díjat is elnyert a vezető turisztikai fejlesztési projekt kategóriában.", "Az útvonal mentén geológiai információs táblák hívják fel a figyelmet a régió több millió éves földtörténetére.", "A sétányok teljes egészében fenyőfából készültek, amely harmonikusan illeszkedik a természetes környezetbe."], 
       ro: ["Traseul duce la 516 Arouca, un pod suspendat pentru pietoni de 516 metri lungime și 175 metri înălțime.", "Proiectul a câștigat mai multe premii World Travel Awards la categoria cel mai important proiect de dezvoltare turistică.", "De-a lungul traseului, panouri informative geologice indică istoria geologică de milioane de ani a regiunii.", "Pasarelele sunt realizate în întregime din lemn de pin, care se integrează armonios în mediul natural."], 
       en: ["The trail leads to the 516 Arouca, a 516-meter-long and 175-meter-high pedestrian suspension bridge.", "The project has won several World Travel Awards in the category of leading tourism development project.", "Along the route, geological information signs point to the region's millions-of-years-old geological history.", "The walkways are made entirely of pine wood, which integrates harmoniously into the natural environment."] 
-    }
+    },
+    image: "/poi-images/historical-paiva.webp",
   }
 ];
 

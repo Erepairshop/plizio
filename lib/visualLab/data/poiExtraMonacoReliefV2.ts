@@ -32,6 +32,7 @@ export const monacoReliefV2: POI[] = [
       ro: ["Înălțime maximă: 62 de metri.", "Lungime: 1,5 kilometri.", "Format în Jurasic (acum 200-145 milioane de ani).", "Populație de șoim călător: 3 perechi cuibăritoare.", "Trasee de cățărare: 20.", "Arie protejată din 1976."],
       en: ["Maximum height: 62 meters.", "Length: 1.5 kilometers.", "Formed in the Jurassic (200-145 million years ago).", "Peregrine falcon population: 3 breeding pairs.", "Climbing routes: 20.", "Protected area since 1976."],
     },
+    image: "/poi-images/monaco-falaises-de-la-rocher-relief-v2.webp",
   },
   {
     id: "monaco-colline-des-revoires-slope-relief-v2",
@@ -64,6 +65,7 @@ export const monacoReliefV2: POI[] = [
       ro: ["Înclinația maximă a pantei este de 45 de grade.", "Panta acoperă o suprafață de 12 hectare.", "Zidurile de sprijin au fost construite în principal între 1950 și 1970.", "Costul total al stabilizării pantei este estimat la 50 de milioane de euro.", "Grădina Exotică adăpostește peste 1.000 de specii de cactuși.", "Panta este orientată spre sud, ceea ce maximizează expunerea solară."],
       en: ["The slope rises 120 meters from the Condamine Plateau to the Jardin Exotique.", "It was first developed in the 1920s with terraced gardens.", "The bedrock consists of Jurassic limestone approximately 150 million years old.", "There are 5 drainage tunnels totaling 2 km in length.", "The slope receives an average of 300 sunny days per year.", "Property prices on the slope are among the highest in Monaco, exceeding €50,000 per m²."],
     },
+    image: "/poi-images/monaco-colline-des-revoires-slope-relief-v2.webp",
   },
   {
     id: "monaco-promontoire-de-fontvieille-relief-v2",
@@ -96,6 +98,7 @@ export const monacoReliefV2: POI[] = [
       ro: ["Promontoriul are o altitudine maximă de 12 metri.", "Eroziunea marină a creat stânci verticale de până la 8 metri.", "Portul Fontvieille a fost construit între 1971 și 1973.", "Suprafața totală a zonei rezidențiale este de 4 hectare.", "Pe promontoriu se află un parc de 2 hectare.", "Adâncimea apei la capătul promontoriului este de 15 metri."],
       en: ["The promontory is composed of limestone from the Jurassic period, around 150 million years old.", "It was originally a small island before being connected to the mainland by land reclamation.", "The land reclamation project added 5.5 hectares of new land.", "The Stade Louis II features a unique underground parking for 2,500 cars.", "The promontory offers views of the Mediterranean and the Port of Fontvieille.", "Average wave height reduction by the promontory is 60%."],
     },
+    image: "/poi-images/monaco-promontoire-de-fontvieille-relief-v2.webp",
   },
   {
     id: "monaco-plateau-de-la-condamine-relief-v2",
@@ -128,6 +131,7 @@ export const monacoReliefV2: POI[] = [
       ro: ["Altitudinea maximă a platoului este de 55 de metri.", "Populația cartierului este de aproximativ 10.000 de locuitori.", "Bulevardul des Moulins are 14 treceri de pietoni.", "Centrul comercial Métropole are 80 de magazine.", "Pe platou se află sediul Băncii Naționale a Monaco-ului.", "Strada principală a platoului are o pantă de 2%."],
       en: ["The plateau was originally a coastal terrace formed during the Pleistocene.", "It is connected to Monte Carlo by the Boulevard des Moulins, built in 1900.", "The Condamine Market, established in 1880, sells over 200 products daily.", "The population of the plateau is about 12,000.", "The Métropole shopping center covers 12,000 m².", "The plateau's soil is composed of 5 meters of fill over limestone bedrock."],
     },
+    image: "/poi-images/monaco-plateau-de-la-condamine-relief-v2.webp",
   },
   {
     id: "monaco-crête-de-saint-michel-relief-v2",
@@ -160,6 +164,7 @@ export const monacoReliefV2: POI[] = [
       ro: ["Creasta are o cădere verticală de 100 de metri spre sud.", "Traseul de drumeție are 1,8 km lungime.", "Altitudinea minimă este de 120 de metri.", "Roca de bază este calcarul din Jurasic, cu vârsta de 150 de milioane de ani.", "Pe creastă cresc pini de Alep (Pinus halepensis).", "Vizibilitatea de pe creastă poate atinge 50 km în zilele senine."],
       en: ["The ridge is part of the Alpine foothills, formed during the Miocene epoch.", "It provides a natural boundary between Monaco and France.", "The hiking trail features 5 viewpoints with interpretive signs.", "Wildlife includes the rare Hermann's tortoise (Testudo hermanni).", "The ridge has a microclimate with 10% more rainfall than the coast.", "It is used for paragliding in certain wind conditions."],
     },
+    image: "/poi-images/monaco-crête-de-saint-michel-relief-v2.webp",
   },
   {
     id: "monaco-colline-des-moneghetti-relief-v2",
@@ -192,6 +197,7 @@ export const monacoReliefV2: POI[] = [
       ro: ["Dealul are un volum estimat de 3 milioane de m³ de rocă.", "Spitalul Princesse Grace are un heliport pe acoperiș.", "Panta maximă a străzilor este de 30%.", "Cartierul are 12 clădiri cu peste 10 etaje.", "Pe deal se află o stație de pompare a apei cu o capacitate de 500 m³/h.", "Dealul este traversat de linia de autobuz 4."],
       en: ["The hill was named after the Monegasque family Moneghetti, who owned land here in the 18th century.", "Princess Grace Hospital has 500 beds and employs 1,500 staff.", "The hill's bedrock is from the Jurassic period, about 160 million years old.", "There are 8 bus stops on the hill serving 3 bus lines.", "The hill features the Parc de la Colline, a 1.2-hectare park with playgrounds.", "Property built on the hill required foundations up to 20 meters deep."],
     },
+    image: "/poi-images/monaco-colline-des-moneghetti-relief-v2.webp",
   },
   {
     id: "monaco-vallon-de-sainte-devote-relief-v2",
@@ -224,6 +230,7 @@ export const monacoReliefV2: POI[] = [
       ro: ["Valea are o altitudine maximă de 20 de metri.", "Biserica Sainte-Dévote este cea mai veche din Monaco, construită în secolul XI.", "Portul de agrement are o suprafață de 5.000 m².", "În vale se află un muzeu dedicat Sfintei Devote, deschis în 1990.", "Valea este orientată nord-sud și este ferită de vânturile dominante.", "În vale se organizează anual un târg medieval în iulie."],
       en: ["The valley was originally a ravine carved by a seasonal stream.", "The church contains a relic of Saint Devota, brought from Corsica in 304 AD.", "The marina was built in 1975 and can accommodate boats up to 20 meters.", "The valley floor is composed of alluvial deposits from the stream.", "A 19th-century aqueduct runs along the valley's east side.", "The valley is known for its microclimate, with mild winters and warm summers."],
     },
+    image: "/poi-images/monaco-vallon-de-sainte-devote-relief-v2.webp",
   },
   {
     id: "monaco-côte-du-larvotto-relief-v2",
@@ -256,6 +263,7 @@ export const monacoReliefV2: POI[] = [
       ro: ["Lățimea fâșiei variază între 30 și 70 de metri.", "Plaja are nisip fin, cu granulația de 0,2 mm.", "Pe fâșie se află 8 restaurante.", "Adâncimea apei la 100 m de țărm este de 5 metri.", "Fâșia a fost extinsă cu 1 hectar în 1990.", "Temperatura medie a apei vara este de 25°C."],
       en: ["The strip was originally a natural beach that was heavily modified in the 1960s.", "Larvotto Beach is 200 meters long and 30 meters wide.", "The strip is home to the Fairmont Monte Carlo hotel, opened in 1975.", "Breakwaters extend 80 meters into the sea.", "The coastal strip receives over 1 million tourists annually.", "The strip has an elevation of 2 to 5 meters above sea level."],
     },
+    image: "/poi-images/monaco-côte-du-larvotto-relief-v2.webp",
   },
   {
     id: "monaco-escarpement-de-la-roque-relief-v2",
@@ -288,6 +296,7 @@ export const monacoReliefV2: POI[] = [
       ro: ["Altitudinea maximă a escarpării este de 45 de metri.", "Stânca are o bază de 100 de metri lățime.", "Muzeul Oceanografic are un acvariu cu 4.000 de pești.", "Escarparea este orientată spre sud-vest.", "Pe stâncă se află o statuie a lui Jacques Cousteau.", "Roca are o duritate de 4 pe scara Mohs."],
       en: ["The escarpment was first fortified in the 13th century as part of the city walls.", "The Oceanographic Museum was founded by Prince Albert I in 1910.", "The cliff face is home to the only natural cave in Monaco, the Grotte de l'Observatoire.", "The escarpment has been reinforced with steel anchors to prevent rockfalls.", "It offers views of the Mediterranean and the Port of Fontvieille.", "The cliff's rock is dolomite, which is more resistant to weathering than limestone."],
     },
+    image: "/poi-images/monaco-escarpement-de-la-roque-relief-v2.webp",
   },
   {
     id: "monaco-plateau-du-casino-relief-v2",
@@ -320,6 +329,7 @@ export const monacoReliefV2: POI[] = [
       ro: ["Platoul are o altitudine uniformă de 52 de metri.", "Cazinoul are 15 săli de joc.", "Hotel de Paris are un restaurant cu 3 stele Michelin.", "Opera are o scenă de 20 de metri lățime.", "Platoul este pavat cu 10.000 de m² de piatră naturală.", "Accesul pe platou se face prin 4 scări monumentale."],
       en: ["The plateau was designed by architect Gustave Eiffel's firm.", "The Casino's atrium features 28 marble columns.", "The plateau is home to the Café de Paris, established in 1868.", "It took 1,500 workers to build the terrace.", "The plateau's gardens cover 2 hectares.", "The Casino's dome is 30 meters high and covered in gold leaf."],
     },
+    image: "/poi-images/monaco-plateau-du-casino-relief-v2.webp",
   },
   {
     id: "monaco-fosse-côtière-sud-relief-v2",
@@ -352,6 +362,7 @@ export const monacoReliefV2: POI[] = [
       ro: ["Șanțul are o cădere verticală de 80 de metri.", "Lățimea șanțului variază între 200 și 400 de metri.", "Sedimentele sunt dominate de nisip fin (0,1 mm).", "Șanțul adăpostește colonii de corali negri (Antipathes).", "Vizibilitatea în apă la adâncimea de 50 m este de 10 m.", "Șanțul este influențat de curentul Liguric."],
       en: ["The trench is a habitat for the endangered Mediterranean monk seal (Monachus monachus).", "It was formed during the Messinian salinity crisis, 5 million years ago.", "The trench acts as a sediment trap, collecting organic matter.", "It is monitored by the Monaco Scientific Center with underwater sensors.", "The trench's walls have a slope of 30 degrees.", "The trench is part of the Pelagos Sanctuary for marine mammals."],
     },
+    image: "/poi-images/monaco-fosse-côtière-sud-relief-v2.webp",
   },
   {
     id: "monaco-colline-des-spélugues-relief-v2",
@@ -384,6 +395,7 @@ export const monacoReliefV2: POI[] = [
       ro: ["Dealul avea o pantă naturală de 35 de grade.", "Excavarea a redus înălțimea cu 60 de metri.", "Pe deal se află statuia lui Louis II.", "Grădina cazinoului are 3.000 de plante.", "Dealul este străbătut de tunelul pietonal de 200 m.", "În deal se află o cisternă de apă de 500 m³."],
       en: ["The hill was originally covered in olive groves and vineyards.", "The Casino's gardens were designed by landscaper Édouard André.", "The hill's limestone was used in the construction of the Casino.", "A cave on the hill was used as a wine cellar since the 19th century.", "The hill was the site of the first Monte Carlo Grand Prix in 1929.", "The remnant of the hill is now a public park called Jardins du Casino."],
     },
+    image: "/poi-images/monaco-colline-des-spélugues-relief-v2.webp",
   },
   {
     id: "monaco-canyon-urbain-condamine-relief-v2",
@@ -416,6 +428,7 @@ export const monacoReliefV2: POI[] = [
       ro: ["Canionul are o suprafață construită de 15.000 m².", "Lățimea la nivelul solului este de 10 metri.", "Clădirea cea mai înaltă are 80 de metri.", "Temperatura medie în canion este cu 2°C mai mică decât în zonele deschise.", "Canionul găzduiește 2 hoteluri de 5 stele.", "Strada Rue Grimaldi are o pantă de 8%."],
       en: ["The canyon effect reduces wind speeds by an average of 40%.", "The buildings create a 'heat sink' effect, cooling the area in summer.", "The canyon was designated as a shopping precinct in 1970.", "Pedestrian traffic in the canyon is up to 10,000 people per hour.", "The canyon's facades are made of glass and steel, reflecting light.", "The canyon is named after the main street, Rue Grimaldi."],
     },
+    image: "/poi-images/monaco-canyon-urbain-condamine-relief-v2.webp",
   },
   {
     id: "monaco-promontoire-de-saint-antoine-relief-v2",
@@ -448,6 +461,7 @@ export const monacoReliefV2: POI[] = [
       ro: ["Peninsula are o suprafață de 1 hectar.", "Statuia Sfântului Anton este din bronz, turnată în 1976.", "Promenada are balustrade din oțel inoxidabil.", "Adâncimea apei lângă peninsulă este de 8 metri.", "Peninsula are 2 pontoane pentru bărci.", "Iluminatul public are 20 de stâlpi solari."],
       en: ["The headland was built using 100,000 tons of rock from the nearby quarry.", "It provides 200 meters of waterfront promenade.", "The park features Mediterranean plants such as oleander and palm trees.", "It offers views of the Port of Fontvieille and the Mediterranean.", "The headland is named after the chapel of Saint-Antoine that once stood nearby.", "It is a popular spot for fishing and jogging."],
     },
+    image: "/poi-images/monaco-promontoire-de-saint-antoine-relief-v2.webp",
   },
   {
     id: "monaco-colline-des-beausoleil-relief-v2",
@@ -480,6 +494,7 @@ export const monacoReliefV2: POI[] = [
       ro: ["Dealul are o altitudine maximă de 210 metri.", "Panta medie este de 15%.", "Populația dealului este de aproximativ 5.000 de locuitori.", "Pe deal se află un castel de apă cu o capacitate de 1.000 m³.", "Dealul este traversat de 3 linii de autobuz.", "Pe deal există o școală primară construită în 1885."],
       en: ["The hill was part of the original territory of Monaco before the 1861 treaty with France.", "It is named after the French town Beausoleil, which means 'beautiful sun'.", "The hill's elevation provides a natural boundary between Monaco and France.", "There are 12 streets that climb the hill from Monaco.", "The hill has several gardens and parks totaling 5 hectares.", "Property on the hill is more affordable than in Monaco proper."],
     },
+    image: "/poi-images/monaco-colline-des-beausoleil-relief-v2.webp",
   },
   {
     id: "monaco-terrasse-des-jardins-relief-v2",
@@ -512,6 +527,7 @@ export const monacoReliefV2: POI[] = [
       ro: ["Terasa are o suprafață de 5.000 m².", "Grădina conține un labirint de 100 m².", "Fântânile aruncă apă până la 3 metri înălțime.", "Terasa este accesibilă prin 2 lifturi și 1 scară.", "Pe terasă se află un chioșc de înghețată.", "Terasa este deschisă non-stop."],
       en: ["The terrace is built on a structure that houses a shopping mall below.", "It features a 200-meter-long promenade lined with palm trees.", "The gardens include a children's playground of 500 m².", "The terrace is used for public events such as concerts and markets.", "It provides free Wi-Fi to visitors.", "The terrace's design won an architectural award in 1996."],
     },
+    image: "/poi-images/monaco-terrasse-des-jardins-relief-v2.webp",
   },
   {
     id: "monaco-depression-de-la-condamine-relief-v2",
@@ -544,6 +560,7 @@ export const monacoReliefV2: POI[] = [
       ro: ["Depresiunea are o altitudine medie de 5 metri.", "Gara are 4 linii și 2 peroane.", "În depresiune se află sediul companiei de taximetre.", "Depresiunea este străbătută de 3 străzi principale.", "Adâncimea maximă a depresiunii este de 25 de metri.", "În depresiune se află o stație de pompare a apei pluviale."],
       en: ["The depression was originally a marshland before being drained in the 19th century.", "The railway station handles TGV and regional trains to Nice and Ventimiglia.", "The depression is subject to occasional flooding during heavy rain.", "It is home to the University of Monaco's business school.", "The depression's soil is mainly clay and silt.", "The area was known as 'La Condamine' from the Latin 'condominium'."],
     },
+    image: "/poi-images/monaco-depression-de-la-condamine-relief-v2.webp",
   },
   {
     id: "monaco-plateau-de-fontvieille-relief-v2",
@@ -576,6 +593,7 @@ export const monacoReliefV2: POI[] = [
       ro: ["Platoul are o suprafață de 24 de hectare.", "Portul are 300 de pontoane și șantiere navale.", "Stadionul are un heliport pe acoperiș.", "Centrul comercial are o suprafață de 20.000 m².", "Pe platou se află un muzeu al mărcii poștale.", "Platoul este protejat de diguri de 800 de metri."],
       en: ["The plateau was built on land reclaimed from the sea.", "It is home to the Princess Grace Rose Garden, with 5,000 rose bushes.", "The Fontvieille district was designed by architect Michel Vita.", "The plateau has its own desalination plant providing fresh water.", "The Stade Louis II includes a 30,000 m² shopping center underneath.", "The plateau's population density is 5,000 inhabitants per km²."],
     },
+    image: "/poi-images/monaco-plateau-de-fontvieille-relief-v2.webp",
   },
   {
     id: "monaco-escarpement-de-monte-carlo-relief-v2",
@@ -608,6 +626,7 @@ export const monacoReliefV2: POI[] = [
       ro: ["Stânca are o bază de 50 de metri lățime.", "Tunelul are 2 benzi de circulație.", "Eroziunea avansează cu 1 mm pe an.", "Pe stâncă cresc plante halofile.", "Stânca este orientată spre sud-est.", "Temperatura stâncii vara atinge 40°C."],
       en: ["The escarpment was first recorded in 1860 during the construction of the Monte Carlo Casino.", "It provides a natural barrier against coastal erosion.", "The cliff face is illuminated at night with LED lights.", "It is a popular spot for geologists studying the Jurassic limestone.", "The escarpment is home to a colony of Mediterranean gulls (Larus michahellis).", "A staircase cut into the rock connects the plateau to the beach."],
     },
+    image: "/poi-images/monaco-escarpement-de-monte-carlo-relief-v2.webp",
   },
   {
     id: "monaco-colline-des-serres-relief-v2",
@@ -640,5 +659,6 @@ export const monacoReliefV2: POI[] = [
       ro: ["Dealul are o pantă medie de 25%.", "Pe deal se află o biserică construită în 1930.", "Cartierul are 4 străzi principale.", "Înălțimea minimă a dealului este de 80 de metri.", "Dealul este orientat spre vest.", "Pe deal există o sursă de apă naturală."],
       en: ["The hill was originally agricultural land with olive groves and vineyards.", "It is one of the least densely populated areas in Monaco.", "The hill's name derives from the greenhouse that supplied the Casino gardens.", "There is a small park at the summit called Parc des Serres.", "The hill offers views of the Fontvieille district and the Mediterranean.", "Properties on the hill are among the most affordable in Monaco."],
     },
+    image: "/poi-images/monaco-colline-des-serres-relief-v2.webp",
   }
 ];

@@ -32,6 +32,7 @@ export const cyprusReliefV2: POI[] = [
       ro: ["Altitudine: 1554 metri deasupra nivelului mării", "Al treilea cel mai înalt vârf de pe insula Cipru", "Rocă predominantă: Diaban magmatic", "Situat în regiunea pitorească Pitsilia", "Vedere panoramică până la coasta Kyreniei", "Numele înseamnă 'pantof' în dialectul local"],
       en: ["Elevation: 1,554 meters above sea level", "Third highest mountain peak in Cyprus", "Dominant geology: Igneous diabase rock", "Located within the scenic Pitsilia region", "Panoramic views extend to the Kyrenia coast", "Name translates to 'shoe' in the local dialect"],
     },
+    image: "/poi-images/cyprus-papoutsa-peak-relief-v2.webp",
   },
   {
     id: "cyprus-kionia-peak-relief-v2",
@@ -64,6 +65,7 @@ export const cyprusReliefV2: POI[] = [
       ro: ["Altitudine maximă: 1212 metri", "Situat în pădurea de stat Machairas", "Lângă mănăstirea Machairas din secolul al XII-lea", "Geologie: Gabrou și diaban (roci magmatice)", "Traseul de drumeție Kionia începe în apropiere", "Vizibilitatea se întinde până la Golful Larnaca"],
       en: ["Maximum elevation: 1,212 meters", "Located within the Machairas State Forest", "Near the 12th-century Machairas Monastery", "Geology: Composed of gabbro and diabase", "Home to the popular Kionia nature trail", "Offers views extending to the Larnaca Bay"],
     },
+    image: "/poi-images/cyprus-kionia-peak-relief-v2.webp",
   },
   {
     id: "cyprus-adelphi-peak-relief-v2",
@@ -96,6 +98,7 @@ export const cyprusReliefV2: POI[] = [
       ro: ["Altitudine: 1613 metri", "Cel mai înalt punct al pădurii Adelphi", "Geologie: Gabrou și roci ultramafice", "Parte a rețelei de protecție Natura 2000", "Turnul de veghe Madari se află în apropiere", "Prezența pinului negru endemic, o specie rară"],
       en: ["Elevation: 1,613 meters above sea level", "Highest point of the Adelphi State Forest", "Geology: Gabbro and ultramafic rock formations", "Protected under the Natura 2000 framework", "Close to the iconic Madari fire lookout tower", "Host to rare endemic Black Pine forests"],
     },
+    image: "/poi-images/cyprus-adelphi-peak-relief-v2.webp",
   },
   {
     id: "cyprus-kornos-hill-relief-v2",
@@ -128,6 +131,7 @@ export const cyprusReliefV2: POI[] = [
       ro: ["Locație: Districtul Larnaca, lângă satul Kornos", "Regiunea este renumită pentru argila roșie", "Olăritul tradițional este practicat de secole", "Geologie: Rocă vulcanică și sedimente", "Vegetație: Machia mediteraneană și pini", "Destinație populară pentru drumeții ușoare de primăvară"],
       en: ["Location: Larnaca District, near Kornos village", "Region is famous for its natural red clay", "Traditional pottery craft practiced for centuries", "Geology: Mixed volcanic and sedimentary formations", "Vegetation: Dominated by Mediterranean maquis", "Popular site for easy spring nature walks"],
     },
+    image: "/poi-images/cyprus-kornos-hill-relief-v2.webp",
   },
   {
     id: "cyprus-trooditissa-valley-relief-v2",
@@ -160,6 +164,7 @@ export const cyprusReliefV2: POI[] = [
       ro: ["Altitudine: peste 1200 de metri", "Mănăstirea Trooditissa a fost fondată în secolul al XIII-lea", "Cascada din apropiere este printre cele mai înalte din Cipru", "Habitat pentru cedri de Cipru și pini negri", "Geologie: Complex ofiolitic magmatic", "Destinație majoră pentru turismul religios"],
       en: ["Elevation: above 1,200 meters sea level", "Trooditissa Monastery founded in the 13th century", "Features one of the highest waterfalls in Cyprus", "Home to endemic Cyprus cedars and black pines", "Geology: Part of the igneous ophiolite complex", "Key destination for religious and eco-tourism"],
     },
+    image: "/poi-images/cyprus-trooditissa-valley-relief-v2.webp",
   },
   {
     id: "cyprus-solea-valley-relief-v2",
@@ -192,6 +197,7 @@ export const cyprusReliefV2: POI[] = [
       ro: ["Trei biserici din vale sunt incluse în UNESCO din anul 1985.", "Mina Skouriotissa este una dintre cele mai vechi exploatări de cupru active.", "Râul Karkotis este singurul râu din Cipru cu debit constant tot anul.", "Altitudinea văii variază între 500 și 1100 de metri deasupra mării.", "Satul Kakopetria datează din perioada medievală a regatului Lusignan.", "Regiunea este principalul furnizor de fructe de livadă pentru piața locală."],
       en: ["Three churches in the valley are part of the UNESCO World Heritage list.", "The Skouriotissa mine has been operating since ancient Roman times.", "The Karkotis River is one of the few perennial rivers in Cyprus.", "The valley spans elevations from 500 to over 1000 meters.", "The village of Kakopetria is known for its architecture from the 15th century.", "The area serves as a primary hub for deciduous fruit production on the island."],
     },
+    image: "/poi-images/cyprus-solea-valley-relief-v2.webp",
   },
   {
     id: "cyprus-mesarya-plain-relief-v2",
@@ -224,6 +230,7 @@ export const cyprusReliefV2: POI[] = [
       ro: ["Câmpia are o lungime de aproximativ 65 km de la vest la est.", "Nicosia, capitala Ciprului, este situată exact în mijlocul acestei câmpii.", "Altitudinea medie a regiunii este sub 100 de metri deasupra nivelului mării.", "În antichitate, zona era acoperită de păduri vaste folosite pentru flote.", "Râul Pedieos traversează câmpia și alimentează solurile fertile.", "Mesaoria înregistrează cele mai ridicate temperaturi de pe insulă, peste 40°C."],
       en: ["The plain measures approximately 65 kilometers in length from west to east.", "Nicosia, the world's last divided capital, is situated in the Mesaoria.", "Most of the plain lies at an elevation of less than 100 meters.", "In ancient times, the area was densely forested before large-scale timber harvesting.", "The Pedieos River, the longest in Cyprus, flows through this central plain.", "Summer temperatures in the plain often exceed 40 degrees Celsius."],
     },
+    image: "/poi-images/cyprus-mesarya-plain-relief-v2.webp",
   },
   {
     id: "cyprus-paphos-lowlands-relief-v2",
@@ -256,6 +263,7 @@ export const cyprusReliefV2: POI[] = [
       ro: ["Întregul oraș antic Paphos a fost inclus în UNESCO în 1980.", "Regiunea deține monopolul producției de banane din Cipru.", "Mormintele Regilor datează din secolul IV î.Hr. și sunt săpate în stâncă.", "Aeroportul Internațional Paphos deservește anual peste 2 milioane de turiști.", "Mozaicurile romane din casa lui Dionysos au o vechime de peste 1800 de ani.", "Paphos a fost capitala Ciprului în perioada elenistică și romană."],
       en: ["Paphos was inscribed as a UNESCO World Heritage site in 1980.", "The region produces nearly all of the bananas grown in Cyprus.", "The Tombs of the Kings date back to the 4th century BC.", "Paphos International Airport is the second largest entry point to the island.", "The Roman mosaics here are considered some of the best-preserved in the world.", "The lowlands enjoy the highest average annual rainfall of the island's coastal areas."],
     },
+    image: "/poi-images/cyprus-paphos-lowlands-relief-v2.webp",
   },
   {
     id: "cyprus-karpas-peninsula-relief-v2",
@@ -288,6 +296,7 @@ export const cyprusReliefV2: POI[] = [
       ro: ["Peninsula are o lățime minimă de doar 5 kilometri în anumite secțiuni.", "Mănăstirea Apostolul Andrei este situată la doar 10 km de vârful extrem.", "Parcul Național Karpas adăpostește peste 1500 de măgari sălbatici protejați.", "Plaja de Aur este considerată cea mai lungă și curată plajă din Cipru.", "Regiunea găzduiește situl arheologic al orașului antic Karpasia.", "Capul Apostolul Andrei reprezintă cel mai estic punct geografic al insulei."],
       en: ["The peninsula is only 5 kilometers wide at its narrowest point.", "The Monastery of Apostolos Andreas is located at the very tip of the peninsula.", "There are over 1,500 wild donkeys living within the national park area.", "Golden Beach is a major nesting site for the endangered Green Turtle.", "The ancient city of Karpasia was a significant port in the early Christian era.", "Cape Apostolos Andreas is the easternmost point of the island of Cyprus."],
     },
+    image: "/poi-images/cyprus-karpas-peninsula-relief-v2.webp",
   },
   {
     id: "cyprus-kyrenia-mountains-relief-v2",
@@ -320,6 +329,7 @@ export const cyprusReliefV2: POI[] = [
       ro: ["Lanțul muntos are o lățime medie de doar 5-10 kilometri.", "Numele 'Pentadaktylos' vine de la o formațiune stâncoasă ce seamănă cu o mână.", "Castelul Sfântul Ilarion este una dintre cele mai bine conservate fortificații.", "Vârful cel mai înalt, Kyparissovouno, atinge altitudinea de 1024 metri.", "Munții sunt formați în principal din sedimente calcaroase marine.", "Mănăstirea Bellapais a fost construită în secolul al XIII-lea."],
       en: ["The range spans 160 km in length but is very narrow, often less than 10 km wide.", "The name 'Pentadaktylos' refers to a mountain resembling five fingers.", "St. Hilarion Castle is said to be the inspiration for Disney's Sleeping Beauty castle.", "Buffavento Castle is the highest point of defense on the island at 954 meters.", "The mountains consist of sedimentary rocks dating back to the Triassic period.", "A massive flag of Northern Cyprus is painted on the southern slope of the range."],
     },
+    image: "/poi-images/cyprus-kyrenia-mountains-relief-v2.webp",
   },
   {
     id: "cyprus-pentadaktylos-peak-relief-v2",
@@ -352,6 +362,7 @@ export const cyprusReliefV2: POI[] = [
       ro: ["Vârful atinge o altitudine de 740 de metri deasupra mării.", "Atât în greacă, cât și în turcă, numele înseamnă 'cinci degete'.", "Formațiunea stâncoasă este vizibilă clar din Nicosia.", "Legenda spune că muntele s-a format când un fugar a aruncat un pumn de pământ.", "Rocile care formează vârful s-au depus pe fundul mării acum 200 milioane ani.", "Zona este inclusă în numeroase trasee de drumeție montană."],
       en: ["The peak stands at an elevation of 740 meters above sea level.", "Both the Greek and Turkish names for the peak mean 'five fingers.'", "The rock formation is primarily composed of Mesozoic limestone.", "One legend attributes the shape to the hand of the hero Digenis Akritas.", "The silhouette of the peak is a dominant feature of the Nicosia skyline.", "On very clear days, the Taurus Mountains in Turkey are visible from near the summit."],
     },
+    image: "/poi-images/cyprus-pentadaktylos-peak-relief-v2.webp",
   },
   {
     id: "cyprus-akkapeli-peak-relief-v2",
@@ -384,6 +395,7 @@ export const cyprusReliefV2: POI[] = [
       ro: ["Vârful Akkapeli are o altitudine de circa 700 de metri.", "Roca predominantă este calcarul sedimentar din perioada jurasică.", "Zona găzduiește numeroase specii de plante endemice cipriote.", "Akkapeli este situat la est de formațiunea faimoasă Pentadaktylos.", "Drumețiile spre vârf sunt recomandate primăvara pentru flora bogată.", "De pe vârf se pot observa satele din regiunea Kythrea."],
       en: ["Akkapeli Peak stands at an elevation of approximately 700 meters.", "The peak is formed from massive Jurassic limestone deposits.", "The area is home to several endemic Cypriot plant species.", "Nearby archeological traces suggest ancient usage as a lookout site.", "The silhouette of the Troodos Mountains is visible from the peak on clear days.", "It is located in the eastern portion of the Kyrenia mountain range."],
     },
+    image: "/poi-images/cyprus-akkapeli-peak-relief-v2.webp",
   },
   {
     id: "cyprus-yaila-plateau-relief-v2",
@@ -416,6 +428,7 @@ export const cyprusReliefV2: POI[] = [
       ro: ["Yaila este un termen turcesc care desemnează o pășune alpină.", "Altitudinea platoului variază între 600 și 850 de metri.", "Zona este renumită pentru diversitatea orhideelor sălbatice.", "În trecut, era locul principal de refugiu estival pentru păstori.", "Pădurile de pini de aici sunt printre cele mai dense din Munții Kyrenia.", "Oferă rute de acces către mănăstirea Bellapais și alte obiective."],
       en: ["The term 'Yaila' refers to a traditional summer mountain pasture.", "The plateau sits at an average elevation of 600 to 800 meters.", "Rare endemic orchids and wild cyclamens bloom here in spring.", "The area has historically been used for transhumant sheep and goat herding.", "Temperatures on the plateau remain significantly cooler than the coastal lowlands.", "The plateau is a key habitat for several resident and migratory bird species."],
     },
+    image: "/poi-images/cyprus-yaila-plateau-relief-v2.webp",
   },
   {
     id: "cyprus-kormakitis-peninsula-relief-v2",
@@ -448,6 +461,7 @@ export const cyprusReliefV2: POI[] = [
       ro: ["Capul Kormakitis este unul dintre cele mai apropiate puncte de Turcia (65 km).", "Satul Kormakitis este singurul loc unde se mai vorbește aramaica maronită.", "Peninsula are un far istoric care ghidează navigația în nord-vestul insulei.", "Zona este protejată prin programul Natura 2000 pentru biodiversitate.", "Istoria maroniților în această zonă datează de peste 1000 de ani.", "Plajele de aici sunt esențiale pentru reproducerea țestoaselor Caretta caretta."],
       en: ["Cape Kormakitis is situated approximately 65 kilometers from the coast of Turkey.", "The peninsula is the cultural heartland of the Maronite religious minority.", "The local Maronite-Arabic dialect is one of the world's most endangered languages.", "The area features some of the most extensive carob groves on the island.", "A lighthouse at the cape has guided Mediterranean shipping for decades.", "The peninsula's beaches are significant nesting sites for loggerhead sea turtles."],
     },
+    image: "/poi-images/cyprus-kormakitis-peninsula-relief-v2.webp",
   },
   {
     id: "cyprus-akrotiri-peninsula-relief-v2",
@@ -480,6 +494,7 @@ export const cyprusReliefV2: POI[] = [
       ro: ["Capul Gata este punctul cel mai sudic al insulei Cipru.", "Lacul Sărat Akrotiri are o suprafață de peste 10 kilometri pătrați.", "Peste 200 de specii de păsări au fost înregistrate în zona lacului.", "RAF Akrotiri este una dintre cele mai importante baze aeriene britanice.", "Mănăstirea Sf. Nicolae al Pisicilor este legată de legenda Sf. Elena.", "Aetokremnos este un sit arheologic cu vestigii de acum 12.000 de ani."],
       en: ["Cape Gata on the peninsula is the southernmost point of Cyprus.", "Akrotiri Salt Lake is a Ramsar-designated wetland of international importance.", "Up to 20,000 greater flamingos congregate at the salt lake every winter.", "The peninsula has been a British Sovereign Base Area since 1960.", "The site of Aetokremnos contains evidence of humans from 10,000 BC.", "St. Nicholas of the Cats Monastery is one of the oldest monasteries in Cyprus."],
     },
+    image: "/poi-images/cyprus-akrotiri-peninsula-relief-v2.webp",
   },
   {
     id: "cyprus-dipkarpaz-lowlands-relief-v2",
@@ -512,6 +527,7 @@ export const cyprusReliefV2: POI[] = [
       ro: ["Peninsula Karpas se întinde pe aproximativ 80 de kilometri în Marea Mediterană.", "Parcul național cuprinde o suprafață protejată de aproximativ 130 de kilometri pătrați.", "Peste 1.500 de măgari sălbatici trăiesc sub protecția statului în regiune.", "Descoperirile arheologice atestă așezări umane din mileniul al VI-lea î.Hr.", "Mănăstirea Apostolos Andreas a fost finalizată în forma sa actuală în 1867.", "Sute de țestoase verzi cuibăresc anual în peisajele de dune din zonă."],
       en: ["The Karpas Peninsula extends approximately 80 kilometers into the Mediterranean Sea.", "The national park covers a protected area of around 130 square kilometers.", "Over 1,500 wild donkeys live under state protection in the region.", "Archaeological finds confirm human settlements dating back to the 6th millennium BCE.", "The Apostolos Andreas Monastery was completed in its current form in 1867.", "Hundreds of green sea turtles nest in the dune landscapes every year."],
     },
+    image: "/poi-images/cyprus-dipkarpaz-lowlands-relief-v2.webp",
   },
   {
     id: "cyprus-troodos-plateau-relief-v2",
@@ -544,6 +560,7 @@ export const cyprusReliefV2: POI[] = [
       ro: ["Muntele Olimp atinge o altitudine de 1.951 de metri deasupra nivelului mării.", "Zece biserici din regiune sunt incluse în Patrimoniul Mondial UNESCO din 1985.", "Ofiolitul Troodos s-a format în cretacicul superior, în urmă cu aproximativ 90 de milioane de ani.", "Precipitațiile anuale pot depăși 1.000 mm în zonele montane înalte.", "Mănăstirea Kykkos a fost fondată încă din secolul al XI-lea.", "Pe podiș se află singurele instalații de schi din statul insular."],
       en: ["Mount Olympus reaches an elevation of 1,951 meters above sea level.", "Ten churches in the region have been listed as UNESCO World Heritage Sites since 1985.", "The Troodos Ophiolite formed during the Late Cretaceous, about 90 million years ago.", "Annual precipitation in the highlands can exceed 1,000 mm.", "Kykkos Monastery was founded as early as the 11th century.", "The plateau hosts the only ski lifts in the island nation."],
     },
+    image: "/poi-images/cyprus-troodos-plateau-relief-v2.webp",
   },
   {
     id: "cyprus-larnaca-lowlands-relief-v2",
@@ -576,6 +593,7 @@ export const cyprusReliefV2: POI[] = [
       ro: ["Rețeaua de lacuri sărate cuprinde o suprafață totală de aproximativ 1.761 de hectare.", "Până la 12.000 de flamingi iernează anual în zona lacurilor sărate.", "Vechiul Kition a fost fondat în secolul al XIII-lea î.Hr. de către grecii micenieni.", "Hala Sultan Tekke este considerat al patrulea cel mai sfânt loc din lumea musulmană.", "Apeductul Kamares a alimentat orașul cu apă până în 1939.", "Aeroportul Internațional Larnaca a fost deschis în 1975 pe locul unui fost aerodrom militar."],
       en: ["The salt lake network covers a total area of approximately 1,761 hectares.", "Up to 12,000 flamingos winter in the salt lake area annually.", "Ancient Kition was founded in the 13th century BCE by Mycenaean Greeks.", "The Hala Sultan Tekke is considered the fourth holiest site in the Muslim world.", "The Kamares Aqueduct supplied the city with water until 1939.", "Larnaca International Airport was opened in 1975 on the site of a former military airfield."],
     },
+    image: "/poi-images/cyprus-larnaca-lowlands-relief-v2.webp",
   },
   {
     id: "cyprus-limassol-lowlands-relief-v2",
@@ -608,6 +626,7 @@ export const cyprusReliefV2: POI[] = [
       ro: ["Lacul sărat Akrotiri are o suprafață de aproximativ 10,65 kilometri pătrați.", "Castelul Kolossi a fost construit în forma sa actuală în anul 1454.", "Teatrul antic din Kourion are o capacitate de până la 3.500 de spectatori.", "Peste 200 de specii de păsări au fost identificate în zonele umede din Akrotiri.", "Limassol este centrul industriei vinului din Cipru (KEO, LOEL).", "Peninsula găzduiește una dintre cele mai importante baze militare britanice (SBA)."],
       en: ["The Akrotiri Salt Lake has an area of approximately 10.65 square kilometers.", "Kolossi Castle was built in its current form in 1454.", "The ancient theater of Kourion can accommodate up to 3,500 spectators.", "Over 200 bird species have been identified in the Akrotiri wetlands.", "Limassol is the hub of the Cypriot wine industry (KEO, LOEL).", "The peninsula hosts one of the most important British military bases (SBA)."],
     },
+    image: "/poi-images/cyprus-limassol-lowlands-relief-v2.webp",
   },
   {
     id: "cyprus-dierona-valley-relief-v2",
@@ -640,6 +659,7 @@ export const cyprusReliefV2: POI[] = [
       ro: ["Satul Dierona este situat la o altitudine medie de 460 de metri.", "Regiunea este principalul producător de mandarine din zona Pitsilia.", "Barajul Germasogeia, situat în aval, are o capacitate de 13,5 milioane m³.", "Zidurile tradiționale din piatră uscată protejează câmpurile terasate de eroziune.", "Populația văii numără astăzi aproximativ 200 de locuitori permanenți.", "Biserica Agios Georgios din vale datează din secolul al XIX-lea."],
       en: ["The village of Dierona is situated at an average altitude of 460 meters.", "The region is the main producer of mandarins in the Pitsilia area.", "The Germasogeia Dam downstream has a capacity of 13.5 million m³.", "Traditional dry stone walls protect the terraced fields from erosion.", "The population of the valley today is about 200 permanent residents.", "The Church of Agios Georgios in the valley dates back to the 19th century."],
     },
+    image: "/poi-images/cyprus-dierona-valley-relief-v2.webp",
   },
   {
     id: "cyprus-farma-peak-relief-v2",
@@ -672,6 +692,7 @@ export const cyprusReliefV2: POI[] = [
       ro: ["Vârful Farma atinge o altitudine de aproximativ 1.120 de metri.", "Se află în apropierea satelor de munte Spilia și Kourdali.", "Stejarul auriu (Quercus alnifolia) crește aici în populații mari.", "Ninsorile apar pe vârf în medie între 5 și 10 zile pe an.", "Regiunea face parte din Geoparcul Troodos, înființat în 2015.", "De pe vârf, în condiții de vizibilitate bună, se poate vedea coasta de nord a insulei."],
       en: ["Farma Peak reaches an elevation of approximately 1,120 meters.", "It is located near the mountain villages of Spilia and Kourdali.", "The golden oak (Quercus alnifolia) grows here in large stands.", "Snowfall occurs on the peak an average of 5 to 10 days per year.", "The region is part of the Troodos Geopark, established in 2015.", "From the peak, the north coast of the island is visible on clear days."],
     },
+    image: "/poi-images/cyprus-farma-peak-relief-v2.webp",
   },
   {
     id: "cyprus-spilia-valley-relief-v2",
@@ -704,6 +725,7 @@ export const cyprusReliefV2: POI[] = [
       ro: ["Valea Spilia face parte din Parcul Național Troodos, întins pe 9.147 de hectare.", "Altitudinea medie a văii este de 800 de metri.", "Aici trăiesc 15 specii de păsări protejate, inclusiv vulturul egiptean.", "Râul Spilia are o lungime de 8 km și un debit mediu de 0,5 m³/s.", "În zonă au fost identificate 30 de peșteri, dintre care 5 sunt accesibile publicului.", "Temperatura medie anuală este de 18 °C, cu minime de 5 °C iarna."],
       en: ["Spilia Valley covers an area of approximately 35 km².", "The highest peak in the valley is Mount Olympos at 1,952 m, but the valley floor is around 600 m.", "The village of Spilia was first mentioned in Byzantine records in 1105.", "The valley's almond trees produce about 200 tons of almonds annually.", "There are 12 Byzantine churches in the valley, most built between the 11th and 16th centuries.", "The copper mines in the valley operated until the early 20th century, with peak production of 5,000 tons in 1905."],
     },
+    image: "/poi-images/cyprus-spilia-valley-relief-v2.webp",
   },
   {
     id: "cyprus-platania-valley-relief-v2",
@@ -736,6 +758,7 @@ export const cyprusReliefV2: POI[] = [
       ro: ["Stația forestieră Platania a fost fondată încă de la începutul secolului al XX-lea.", "Valea este situată la o altitudine de aproximativ 1.100 de metri deasupra nivelului mării.", "Muflonul cipriot (Ovis gmelini ophion) este animalul național al țării.", "Locul de picnic Platania are o capacitate de peste 2.000 de vizitatori simultan.", "Mai multe trasee de drumeție leagă valea de satul de munte Kakopetria.", "Zona găzduiește ferigi rare care prosperă datorită umidității ridicate."],
       en: ["The Platania forest station was founded as early as the beginning of the 20th century.", "The valley lies at an altitude of approximately 1,100 meters above sea level.", "The Cyprus mouflon (Ovis gmelini ophion) is the national animal of the country.", "The Platania picnic site has capacity for over 2,000 visitors at once.", "Several hiking trails connect the valley with the mountain village of Kakopetria.", "The area hosts rare ferns that thrive due to the high humidity."],
     },
+    image: "/poi-images/cyprus-platania-valley-relief-v2.webp",
   },
   {
     id: "cyprus-karkotis-valley-relief-v2",
@@ -768,6 +791,7 @@ export const cyprusReliefV2: POI[] = [
       ro: ["Râul Karkotis are o lungime totală de aproximativ 40 de kilometri.", "Mina Skouriotissa este una dintre cele mai vechi mine de cupru încă active din lume.", "În regiunea Solea se află trei dintre bisericile protejate de UNESCO.", "Barajul Solea a fost construit pentru reglarea apei în vale.", "Kakopetria este situată la confluența râurilor Karkotis și Garillis.", "Anual, în vale se recoltează câteva mii de tone de fructe sâmburoase."],
       en: ["The Karkotis River has a total length of about 40 kilometers.", "The Skouriotissa mine is one of the oldest still-active copper mines in the world.", "The Solea region contains three of the UNESCO-protected barn-roof churches.", "The Solea Dam was built for the water regulation of the valley.", "Kakopetria is situated at the confluence of the Karkotis and Garillis rivers.", "Several thousand tons of stone fruit are harvested in the valley annually."],
     },
+    image: "/poi-images/cyprus-karkotis-valley-relief-v2.webp",
   },
   {
     id: "cyprus-xeros-valley-relief-v2",
@@ -800,6 +824,7 @@ export const cyprusReliefV2: POI[] = [
       ro: ["Xeros Potamos este al șaselea cel mai lung râu din Cipru, cu 55 de kilometri.", "Mănăstirea Panagia tou Sindi a primit premiul Europa Nostra în 1997.", "Barajul Asprokremmos are o capacitate de aproximativ 52 milioane m³.", "În vale cuibărește rara acvilă porumbacă (Aquila fasciata).", "Descoperirile arheologice atestă o locuire încă din epoca cuprului.", "Regiunea face parte din zona Natura 2000 Diarizos-Xeros-Ezousa."],
       en: ["The Xeros Potamos is the sixth longest river in Cyprus at 55 kilometers.", "The Panagia tou Sindi monastery received the Europa Nostra award in 1997.", "The Asprokremmos Dam has a capacity of about 52 million m³.", "The rare Bonelli's eagle (Aquila fasciata) nests in the valley.", "Archaeological finds confirm settlement since the Chalcolithic period.", "The region is part of the Diarizos-Xeros-Ezousa Natura 2000 area."],
     },
+    image: "/poi-images/cyprus-xeros-valley-relief-v2.webp",
   },
   {
     id: "cyprus-diarizos-valley-relief-v2",
@@ -832,6 +857,7 @@ export const cyprusReliefV2: POI[] = [
       ro: ["Râul Diarizos are o lungime de 42 km, fiind al patrulea ca lungime din Cipru.", "Valea adăpostește cea mai mare colonie de vulturi suri de pe insulă.", "Podul Tzelefos a fost construit de venețieni în secolul al XV-lea.", "Barajul Arminou a fost finalizat în anul 1998 pentru irigații.", "Regiunea este protejată integral prin programul ecologic Natura 2000.", "Solurile văii sunt ideale pentru cultivarea soiului de struguri Xynisteri."],
       en: ["The Diarizos River spans 42 kilometers, making it the fourth longest in Cyprus.", "The valley is the primary nesting site for the endangered Griffon vulture.", "The medieval Tzelefos Bridge dates back to the 15th-century Venetian era.", "The Arminou Dam was completed in 1998 to manage the river's water resources.", "The entire valley is designated as a protected Natura 2000 site.", "The region is a key producer of traditional Cypriot Xynisteri wine grapes."],
     },
+    image: "/poi-images/cyprus-diarizos-valley-relief-v2.webp",
   },
   {
     id: "cyprus-ezousa-valley-relief-v2",
@@ -864,6 +890,7 @@ export const cyprusReliefV2: POI[] = [
       ro: ["Valea are o lungime totală de 41 de kilometri până la vărsare.", "Peste 240 de specii de păsări tranzitează sau cuibăresc în vale.", "Stânca Episkopi este cel mai mare monolit de calcar din Cipru.", "Barajul Kannaviou a fost finalizat în 2005 pentru stocarea apei.", "Ruinele morilor medievale indică o veche industrie a trestiei de zahăr.", "Valea este desemnată ca Arie de Importanță Avifaunistică internațională."],
       en: ["The Ezousa Valley spans a total length of 41 kilometers.", "Over 240 bird species have been recorded within the valley's ecosystem.", "The Episkopi Rock is recognized as the largest limestone monolith in Cyprus.", "The Kannaviou Dam was officially commissioned in 2005 for water storage.", "Medieval ruins in the valley reveal a history of water-powered sugar mills.", "The area is a protected site under the European Natura 2000 network."],
     },
+    image: "/poi-images/cyprus-ezousa-valley-relief-v2.webp",
   },
   {
     id: "cyprus-gourri-valley-relief-v2",
@@ -896,6 +923,7 @@ export const cyprusReliefV2: POI[] = [
       ro: ["Altitudinea medie a văii variază între 600 și 900 de metri peste nivelul mării.", "Valea se învecinează cu parcul național forestier Machairas.", "Satul Gourri este atestat documentar încă din secolul al XII-lea.", "Arhitectura locală folosește piatră de munte și bârne groase de pin.", "Tradiția țesutului din Gourri este recunoscută la nivel național.", "Biserica Sfântul Gheorghe din vale a fost construită în secolul al XVI-lea."],
       en: ["The valley's elevation ranges between 600 and 900 meters above sea level.", "The area directly borders the Machairas National Forest Park.", "Permanent settlement in Gourri is documented as far back as the 12th century.", "Traditional houses in the valley are constructed from local diabase rock.", "The region is a designated center for traditional Cypriot weaving arts.", "The Church of Saint George in the valley dates back to the 16th century."],
     },
+    image: "/poi-images/cyprus-gourri-valley-relief-v2.webp",
   },
   {
     id: "cyprus-ayios-theodoros-valley-relief-v2",
@@ -928,6 +956,7 @@ export const cyprusReliefV2: POI[] = [
       ro: ["Valea este străbătută de râul Pentaskinos pe o distanță de circa 15 km.", "Regiunea furnizează o mare parte din producția de lămâi a Ciprului.", "Vestigiile arheologice atestă prezența umană încă din perioada neolitică.", "Localitatea Ayios Theodoros este una dintre cele mai întinse din district.", "Sistemul de irigații al văii depinde de barajul Kiti, construit în 1970.", "Valea se termină cu o zonă de coastă renumită pentru plajele cu pietriș."],
       en: ["The valley is carved by the Pentaskinos River over a distance of 15 km.", "The region is a leading producer and exporter of Cypriot lemons.", "Archaeological sites in the valley date back to the Neolithic period.", "Ayios Theodoros village is among the largest in the Larnaca district.", "Water management is supported by the Kiti Dam, established in 1970.", "The valley's coastal exit features some of the island's most pristine pebble beaches."],
     },
+    image: "/poi-images/cyprus-ayios-theodoros-valley-relief-v2.webp",
   },
   {
     id: "cyprus-pedieos-valley-relief-v2",
@@ -960,6 +989,7 @@ export const cyprusReliefV2: POI[] = [
       ro: ["Râul Pedieos are o lungime de aproximativ 100 km, fiind cel mai lung de pe insulă.", "Izvoarele văii se află la o altitudine de peste 1200 m în munții Troodos.", "Un parc liniar de 14 km a fost amenajat de-a lungul râului în interiorul Nicosiei.", "Devierea cursului râului de către inginerii venețieni a avut loc în 1567.", "Cetatea antică Enkomi, situată în vale, a fost un nod crucial al epocii bronzului.", "Câmpia formată de vale este principala zonă producătoare de grâne din Cipru."],
       en: ["The Pedieos River is approximately 100 kilometers long, the longest in Cyprus.", "The valley begins its descent from elevations above 1,200 meters in Troodos.", "A 14-kilometer linear park runs along the river through the heart of Nicosia.", "The river's course was diverted by Venetian engineers in the year 1567.", "Ancient Enkomi, located near the valley's end, was a major Bronze Age hub.", "The valley's fertile plain is the primary grain-producing region of the island."],
     },
+    image: "/poi-images/cyprus-pedieos-valley-relief-v2.webp",
   },
   {
     id: "cyprus-gialias-valley-relief-v2",
@@ -992,6 +1022,7 @@ export const cyprusReliefV2: POI[] = [
       ro: ["Râul Gialias are o lungime totală de aproximativ 88 de kilometri.", "Regatul antic Idalion din vale era renumit pentru sanctuarele Afroditei.", "Valea furnizează cantități mari de calcar utilizat în construcțiile locale.", "Barajul Gialias a fost construit pentru controlul inundațiilor și irigații.", "În vale a fost descoperită celebra 'Placă de bronz de la Idalion'.", "Regiunea este un punct de oprire esențial pentru prigoria europeană."],
       en: ["The Gialias River has a total length of approximately 88 kilometers.", "Ancient Idalion in the valley was famous for its major sanctuaries of Aphrodite.", "The valley provides significant deposits of limestone for local industry.", "The Gialias Dam was constructed to manage seasonal floods and irrigation.", "The famous 'Idalion Bronze Tablet' was discovered by archaeologists here.", "The valley serves as a key resting ground for the European Bee-eater."],
     },
+    image: "/poi-images/cyprus-gialias-valley-relief-v2.webp",
   },
   {
     id: "cyprus-serrachis-valley-relief-v2",
@@ -1024,6 +1055,7 @@ export const cyprusReliefV2: POI[] = [
       ro: ["Râul Serrachis are o lungime de 55 km până la vărsarea în mare.", "Regiunea Morphou produce peste 50% din exporturile de citrice ale insulei.", "Biserica din Peristerona, situată în vale, datează din secolul al XI-lea.", "Barajul Kalo Chorio a fost construit pentru optimizarea resurselor hidrice.", "Valea este renumită pentru puțurile sale arteziene de mare adâncime.", "Cercetările arheologice au scos la lumină așezări din epoca cuprului în vale."],
       en: ["The Serrachis River spans 55 kilometers, a major waterway in the northwest.", "The region accounts for over 50% of Cyprus's total citrus exports.", "The iconic five-domed church of Peristerona dates to the 11th century.", "The Kalo Chorio Dam was built to capture and store seasonal winter runoff.", "The valley is noted for its deep artesian wells tapping into large aquifers.", "Significant Chalcolithic settlements have been excavated throughout the valley."],
     },
+    image: "/poi-images/cyprus-serrachis-valley-relief-v2.webp",
   },
   {
     id: "cyprus-akamas-highlands-relief-v2",
@@ -1056,6 +1088,7 @@ export const cyprusReliefV2: POI[] = [
       ro: ["Cea mai înaltă cotă a podișului este atinsă lângă Pano Arodes (596 m).", "Peste 168 de specii de păsări și 35 de plante endemice trăiesc aici.", "Defileul Avakas din podiș are pereți verticali de peste 30 de metri înălțime.", "Geologic, regiunea aparține complexului structural Mamonia.", "Zona este propusă pentru statutul de Parc Național încă din 1989.", "În podiș se află ruinele unor turnuri de veghe din perioada venețiană."],
       en: ["The highlands reach their peak elevation at 596 meters near Pano Arodes.", "The area is home to 168 bird species and 35 endemic plant varieties.", "The Avakas Gorge features limestone walls towering over 30 meters high.", "Geologically, the region is part of the unique Mamonia Terrane.", "The highlands have been under strictly managed protection since 1989.", "Ruins of ancient lighthouses and watchtowers are scattered across the peaks."],
     },
+    image: "/poi-images/cyprus-akamas-highlands-relief-v2.webp",
   },
   {
     id: "cyprus-laona-plateau-relief-v2",
@@ -1088,6 +1121,7 @@ export const cyprusReliefV2: POI[] = [
       ro: ["Altitudinea medie a platoului variază între 400 și 600 de metri.", "Satul Kathikas este centrul vinicol principal al regiunii Laona.", "În straturile de calcar ale platoului au fost identificate recife de corali fosili.", "Regiunea este renumită pentru producția de vinuri albe de înaltă calitate.", "De pe platou se deschid panorame spectaculoase spre Golful Polis.", "Fântânile tradiționale din satele platoului au origini antice documentate."],
       en: ["The plateau's average elevation ranges from 400 to 600 meters.", "Kathikas is celebrated as one of the premier wine villages in the region.", "Fossilized coral reefs have been discovered within the plateau's limestone.", "The area is famous for its high-quality Xynisteri white wine production.", "The plateau offers sweeping panoramic views over the Bay of Polis.", "Traditional wells in Laona villages date back to antiquity in some cases."],
     },
+    image: "/poi-images/cyprus-laona-plateau-relief-v2.webp",
   },
   {
     id: "cyprus-troodos-foothills-relief-v2",
@@ -1120,6 +1154,7 @@ export const cyprusReliefV2: POI[] = [
       ro: ["Regiunea este parte integrantă a Geoparcului Global UNESCO Troodos.", "Zece biserici bizantine din această zonă sunt incluse în patrimoniul mondial UNESCO.", "Compoziția geologică este dominată de roci de tip diabaz și gabbro.", "Regiunea Krasochoria cuprinde un grup de 20 de sate viticole tradiționale.", "Altitudinea medie a contraforturilor este de 600-1000 de metri.", "Primăvara, zona găzduiește o diversitate uimitoare de orhidee sălbatice."],
       en: ["The region is part of the designated UNESCO Global Geopark Troodos.", "Ten Byzantine churches in the foothills are listed as UNESCO World Heritage sites.", "The geology is primarily composed of diabase and gabbro rock formations.", "The Krasochoria region includes 20 traditional mountain wine villages.", "The elevation of the foothills typically ranges from 600 to 1,000 meters.", "The area is a premier location for viewing wild orchids during the spring."],
     },
+    image: "/poi-images/cyprus-troodos-foothills-relief-v2.webp",
   },
   {
     id: "cyprus-kassianes-hill-relief-v2",
@@ -1152,6 +1187,7 @@ export const cyprusReliefV2: POI[] = [
       ro: ["Dealul este situat în districtul Nicosia, în câmpia Mesaoria.", "Structura geologică este dominată de roci sedimentare calcaroase.", "Temperaturile estivale în această zonă depășesc frecvent 40°C.", "Regiunea a fost intens utilizată agricol în perioada britanică (1878–1960).", "De pe înălțime se poate observa 'Linia Verde' controlată de ONU.", "Flora nativă este compusă în principal din vegetație de tip Phrygana."],
       en: ["The hill is located in the Nicosia District within the Mesaoria Plain.", "Geologically, the structure is dominated by calcareous sedimentary rocks.", "Summer temperatures in this area frequently exceed 40 degrees Celsius.", "The surroundings were agriculturally developed during British rule (1878–1960).", "The UN-monitored Green Line is visible from the elevation.", "The natural flora primarily consists of Mediterranean Phrygana vegetation."],
     },
+    image: "/poi-images/cyprus-kassianes-hill-relief-v2.webp",
   },
   {
     id: "cyprus-stavrovouni-mountain-relief-v2",
@@ -1184,6 +1220,7 @@ export const cyprusReliefV2: POI[] = [
       ro: ["Vârful muntelui se află la o altitudine de 750 de metri deasupra mării.", "Mănăstirea a fost fondată în jurul anului 327 d.Hr. de către Sfânta Elena.", "Numele 'Stavrovouni' se traduce prin 'Muntele Crucii'.", "Accesul femeilor în incinta principală a mănăstirii este interzis prin tradiție.", "Geologic, muntele aparține complexului vulcanic ofiolitic Troodos.", "În zilele senine, de pe vârf pot fi observate parcurile eoliene din Larnaca."],
       en: ["The summit of the mountain stands at exactly 750 meters above sea level.", "The monastery was founded around 327 AD by Saint Helena.", "The name 'Stavrovouni' translates to 'Mountain of the Cross'.", "Women have been barred from entering the main monastery for centuries.", "Geologically, the mountain is part of the volcanic Troodos ophiolite complex.", "On clear days, the wind farms of Larnaca are visible from the summit."],
     },
+    image: "/poi-images/cyprus-stavrovouni-mountain-relief-v2.webp",
   },
   {
     id: "cyprus-aetomouti-hill-relief-v2",
@@ -1216,6 +1253,7 @@ export const cyprusReliefV2: POI[] = [
       ro: ["Numele 'Aetomouti' înseamnă 'nas de vultur' în limba greacă.", "Dealul este situat în partea de sud-vest a insulei, în districtul Paphos.", "În apropiere au fost descoperite artefacte arheologice din epoca bronzului.", "Zona este un habitat protejat pentru vulturul porumbat (Aquila fasciata).", "Baza geologică este formată din calcar și roci de origine vulcanică.", "Pe versanți se cultivă tradițional roșcovi și arbori de măslin."],
       en: ["The name 'Aetomouti' means 'eagle's nose' in the Greek language.", "The hill is located in the southwestern part of the island in Paphos District.", "Archaeological finds from the Bronze Age have been discovered nearby.", "The area is a protected habitat for the rare Bonelli's eagle.", "The geological base consists of limestone and volcanic rock formations.", "Carob and olive trees are traditionally cultivated on the surrounding slopes."],
     },
+    image: "/poi-images/cyprus-aetomouti-hill-relief-v2.webp",
   },
   {
     id: "cyprus-krasochoria-hills-relief-v2",
@@ -1248,5 +1286,6 @@ export const cyprusReliefV2: POI[] = [
       ro: ["Regiunea cuprinde aproximativ 20 de sate tradiționale în districtul Limassol.", "Dealurile ating altitudini de până la 1100 de metri deasupra mării.", "Solul este predominant calcaros, favorizând calitatea viței-de-vie.", "În satul Omodos se află importanta mănăstire a Sfintei Cruci.", "Viticultura în această zonă are o istorie de peste 4000 de ani.", "Regiunea este principalul producător al vinului licoros Commandaria."],
       en: ["The region encompasses about 20 traditional villages in the Limassol District.", "The hills reach elevations of up to 1100 meters above sea level.", "The soil is predominantly calcareous, enhancing the quality of the grapes.", "The significant Monastery of the Holy Cross is located in Omodos village.", "Viticulture in this region can be traced back over 4000 years.", "The area is the primary production site for the sweet Commandaria wine."],
     },
+    image: "/poi-images/cyprus-krasochoria-hills-relief-v2.webp",
   }
 ];

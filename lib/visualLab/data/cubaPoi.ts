@@ -828,7 +828,8 @@ export const cubaLandmarks: POI[] = [
       ro: ["Columb a descris zona ca fiind 'cel mai frumos loc din lume'", "El Yunque este un munte tabular distinctiv care domină orașul", "Baracoa a fost accesibilă doar pe mare timp de secole"],
       en: ["Columbus described the region as 'the most beautiful place in the world'", "El Yunque is a distinct flat-topped mountain overlooking the bay", "For centuries, Baracoa was only accessible from the outside by sea"]
     },
-    historyYear: 1511
+    historyYear: 1511,
+    image: "/poi-images/cu-baracoa-historic.webp",
   }
 ];
 

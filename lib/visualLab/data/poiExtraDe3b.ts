@@ -596,6 +596,7 @@ export const poiExtraDe3b: POI[] = [
       ro: ["Catedrala din Magdeburg este prima catedrală gotică de pe teritoriul Germaniei.", "Împăratul Otto cel Mare a făcut din Magdeburg 'al treilea centru al Romei'.", "Otto von Guericke a inventat pompa de aer și a demonstrat vidul aici în 1654.", "Orașul a fost distrus aproape complet în 1631, în timpul Războiului de 30 de ani.", "Citadela Verde (Die Grüne Zitadelle) este o clădire rezidențială roz proiectată de Hundertwasser.", "Canalul Magdeburg trece peste râul Elbe printr-un pod de apă unic în lume."],
       en: ["Known as the 'Ottostadt' in honor of Emperor Otto I and Otto von Guericke.", "Home to Germany's oldest Gothic cathedral, completed in 1363.", "The site of the first world demonstration of the vacuum (Magdeburg Hemispheres).", "One of the most important members of the Hanseatic League for centuries.", "Features the 'Green Citadel', the last building designed by Hundertwasser.", "A major hub for the German mechanical engineering and logistics industry."]
     },
+    image: "/poi-images/city-magdeburg-extra.webp",
   },
   {
     id: "city-halle-saale-extra",
@@ -1034,6 +1035,7 @@ export const poiExtraDe3b: POI[] = [
       ro: ["Magdeburger Börde deține solul cu cel mai mare punctaj de fertilitate din Germania (100 puncte).", "Prima fabrică modernă de zahăr a fost fondată în Klein Wanzleben în anul 1838.", "Cercetarea a crescut conținutul de zahăr al sfeclei de la 8% la peste 18%.", "Regiunea este traversată de 'Traseul Dulce' (Süße Tour), un itinerar turistic industrial.", "Klein Wanzleben este sediul istoric al companiei KWS, lider mondial în semințe.", "Recoltarea și procesarea sfeclei, numită 'Kampagne', are loc anual între septembrie și ianuarie."],
       en: ["Home to the most fertile soil in Germany (Magdeburger Börde).", "A global center for sugar beet production for over 200 years.", "Site of the first industrial sugar beet factory in the world (Klein Wanzleben).", "The 'Börde' soil received the maximum score of 100 on the German soil scale.", "A major hub for the modern European sugar and bioethanol industry.", "Historically the foundation of the regional wealth in the 19th century."]
     },
+    image: "/poi-images/agriculture-zuckerruebe-st-extra.webp",
   },
   {
     id: "landmark-quedlinburg-st-extra",

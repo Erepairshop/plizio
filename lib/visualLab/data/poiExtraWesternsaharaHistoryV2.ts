@@ -31,6 +31,7 @@ export const westernsaharaHistoryV2: POI[] = [
       ro: ["Începerea construcției orașului în 1885 sub conducerea lui Ma al-Aynayn.", "Utilizarea bazaltului negru, care a fost transportat pe distanțe mari.", "Distrugerea unor părți esențiale de către armata franceză în anul 1913.", "Moscheea din Smara a fost odinioară una dintre cele mai mari din întreaga Sahară.", "Singurul centru istoric urban din Sahara Occidentală fără influență spaniolă.", "Găzduia o bibliotecă cu mii de manuscrise valoroase."],
       en: ["Construction of the city began in 1885 under the leadership of Ma al-Aynayn.", "Use of black basalt that was transported over long distances.", "Destruction of essential parts by the French army in 1913.", "The mosque of Smara was once one of the largest in the entire Sahara.", "The only historical city center in Western Sahara without Spanish influence.", "Housed a library with thousands of valuable manuscripts."],
     },
+    image: "/poi-images/westernsahara-smara-ancient-city-history-v2.webp",
   },
   {
     id: "westernsahara-laayoune-old-quarter-history-v2",
@@ -62,6 +63,7 @@ export const westernsaharaHistoryV2: POI[] = [
       ro: ["Fondarea oficială a orașului modern Laayoune în anul 1938.", "Catedrala Sfântul Francisc de Assisi a fost sfințită în 1954.", "Laayoune înseamnă 'izvoarele' în limba arabă, cu referire la oazele din apropiere.", "Stil arhitectural 'Mando militar', cu arcade proeminente și ziduri groase.", "Cartierul a găzduit primul spital și prima școală din regiune.", "Cartierul general al Legiunii Spaniole în timpul perioadei coloniale."],
       en: ["Official founding of the modern city of Laayoune in 1938.", "The Cathedral of Saint Francis of Assisi was consecrated in 1954.", "Laayoune means 'the springs' in Arabic, referring to nearby oases.", "Architectural style 'Mando militar' with prominent arches and thick walls.", "The quarter housed the first hospital and the first school in the region.", "Headquarters of the Spanish Legion during the colonial period."],
     },
+    image: "/poi-images/westernsahara-laayoune-old-quarter-history-v2.webp",
   },
   {
     id: "westernsahara-dakhla-fort-history-v2",
@@ -93,6 +95,7 @@ export const westernsaharaHistoryV2: POI[] = [
       ro: ["Fondarea oficială sub numele de Villa Cisneros la 26 decembrie 1884.", "Numit după cardinalul spaniol Francisco Jiménez de Cisneros.", "Prima așezare europeană permanentă pe coasta Saharei Occidentale.", "Bază importantă pentru pionierii aviației de la Aéropostale în anii 1920.", "A servit ca loc de exil pentru prizonierii politici în timpul Republicii Spaniole.", "Avanpost strategic pentru protecția Insulelor Canare."],
       en: ["Official founding as Villa Cisneros on December 26, 1884.", "Named after the Spanish Cardinal Francisco Jiménez de Cisneros.", "First permanent European settlement on the coast of Western Sahara.", "Important base for the aviation pioneers of Aéropostale in the 1920s.", "Served as a place of exile for political prisoners during the Spanish Republic.", "Strategic outpost for the protection of the Canary Islands."],
     },
+    image: "/poi-images/westernsahara-dakhla-fort-history-v2.webp",
   },
   {
     id: "westernsahara-guelta-zemmur-archaeology-history-v2",
@@ -124,6 +127,7 @@ export const westernsaharaHistoryV2: POI[] = [
       ro: ["Arta rupestră datează în principal din perioada umedă a Holocenului.", "Reprezentările de bivoli de apă și hipopotami dovedesc existența unor peisaje lacustre masive.", "Utilizarea pigmenților naturali, cum ar fi ocru, pentru picturi.", "Prima documentare științifică a fost realizată de cercetători spanioli în anii 1940.", "Situl cuprinde sute de petroglife individuale.", "Unele gravuri înfățișează care de luptă timpurii, sugerând contacte trans-sahariene."],
       en: ["The rock art primarily dates from the Holocene Humid Period.", "Depictions of water buffalo and hippos prove the existence of massive lake landscapes.", "Use of natural pigments such as ochre for the paintings.", "First scientific documentation by Spanish researchers in the 1940s.", "The site includes hundreds of individual petroglyphs.", "Some engravings show early chariots, suggesting trans-Saharan contacts."],
     },
+    image: "/poi-images/westernsahara-guelta-zemmur-archaeology-history-v2.webp",
   },
   {
     id: "westernsahara-boujdour-lighthouse-history-v2",
@@ -155,5 +159,6 @@ export const westernsaharaHistoryV2: POI[] = [
       ro: ["Capul Bojador a fost considerat o barieră de netrecut pentru europeni până în 1434.", "Farul actual are o înălțime de aproximativ 45 de metri.", "Raza de acțiune a semnalului luminos este de aproximativ 24 de mile marine.", "Construit în anul 1904 în timpul dominației spaniole.", "Marchează granița dintre coasta de nord și cea de sud a Saharei Occidentale.", "Succesul lui Gil Eanes din 1434 a inaugurat era 'sudului'."],
       en: ["Cape Bojador was considered an impassable barrier for Europeans until 1434.", "The current lighthouse has a height of approximately 45 meters.", "The range of the light signal is about 24 nautical miles.", "Built in 1904 during Spanish rule.", "Marks the boundary between the northern and southern Western Sahara coast.", "Gil Eanes' breakthrough in 1434 initiated the era of the 'South'."],
     },
+    image: "/poi-images/westernsahara-boujdour-lighthouse-history-v2.webp",
   }
 ];

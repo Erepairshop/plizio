@@ -57,7 +57,8 @@ export const luxembourgExtraCities: POI[] = [
         "Philharmonie Luxembourg: world-class concert hall",
         "Free public transport nationwide"
       ]
-    }
+    },
+    image: "/poi-images/lu-luxembourg-city.webp",
   }
 ];
 

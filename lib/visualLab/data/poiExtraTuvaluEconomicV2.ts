@@ -31,6 +31,7 @@ export const tuvaluEconomicV2: POI[] = [
       ro: ["Singurul port de mare adâncime din întreaga țară.", "Punct de intrare pentru 95% din mărfurile importate.", "Modernizat recent prin proiecte de asistență japoneză.", "Bază principală pentru navele Nivaga III și Taaloa.", "Situat strategic pe partea protejată a lagunei Funafuti.", "Esențial pentru securitatea energetică și alimentară."],
       en: ["Tuvalu's only deep-water port for international shipping.", "The primary entry point for nearly all national imports.", "Significant upgrades were funded by Japanese aid.", "Central terminal for inter-island passenger and cargo ships.", "Located on the lagoon side of the Fongafale islet.", "Key infrastructure for national development and disaster relief."],
     },
+    image: "/poi-images/tuvalu-funafuti-wharf-economic-v2.webp",
   },
   {
     id: "tuvalu-vaiaku-business-economic-v2",
@@ -62,6 +63,7 @@ export const tuvaluEconomicV2: POI[] = [
       ro: ["Centrul politic și financiar al statului Tuvalu.", "Găzduiește clădirea Guvernului și Banca Națională.", "Include hotelul de stat Vaiaku Lagi Hotel.", "Situat în cea mai lată zonă a insulei Fongafale.", "Punct central pentru toate serviciile poștale și bancare.", "Zonă prioritară pentru proiectele de reziliență climatică."],
       en: ["The administrative and financial core of Tuvalu.", "Location of the Government Building and National Bank.", "Home to the nation's primary hotel, Vaiaku Lagi.", "Situated on one of the widest parts of Fongafale islet.", "Hub for all major commercial and retail activities.", "Center for international diplomatic missions and aid offices."],
     },
+    image: "/poi-images/tuvalu-vaiaku-business-economic-v2.webp",
   },
   {
     id: "tuvalu-amatuku-maritime-economic-v2",
@@ -93,6 +95,7 @@ export const tuvaluEconomicV2: POI[] = [
       ro: ["Institutul principal de pregătire a marinarilor din Tuvalu.", "Înființat în 1978 pe insula dedicată Amatuku.", "Certificările sunt recunoscute internațional de IMO.", "Sursă majoră de venituri externe pentru țară.", "Dispune de ateliere tehnice și bazine de instruire.", "Parteneriat strategic cu Australia pentru modernizare."],
       en: ["The leading maritime education center in the country.", "Established in 1978 to facilitate seafaring careers.", "Complies with International Maritime Organization standards.", "Graduates' remittances are vital for the national economy.", "Focuses on engineering, navigation, and marine safety.", "Key recipient of regional educational development aid."],
     },
+    image: "/poi-images/tuvalu-amatuku-maritime-economic-v2.webp",
   },
   {
     id: "tuvalu-vaitupu-agriculture-economic-v2",
@@ -124,6 +127,7 @@ export const tuvaluEconomicV2: POI[] = [
       ro: ["Cea mai mare stație experimentală agricolă din Tuvalu.", "Localizată pe insula Vaitupu datorită solului mai fertil.", "Specializată în culturi rezistente la schimbările climatice.", "Centru național pentru ameliorarea raselor de porcine.", "Colaborează cu organizații regionale pentru securitatea alimentară.", "Sursă principală de puieți și semințe pentru restul atolilor."],
       en: ["Main agricultural research hub located on Vaitupu island.", "Develops salt-resistant varieties of traditional root crops.", "Primary center for national livestock development projects.", "Essential for mitigating the effects of soil salinization.", "Provides technical training to local farmers and youth.", "Strategically vital for reducing dependence on food imports."],
     },
+    image: "/poi-images/tuvalu-vaitupu-agriculture-economic-v2.webp",
   },
   {
     id: "tuvalu-national-bank-economic-v2",
@@ -155,6 +159,7 @@ export const tuvaluEconomicV2: POI[] = [
       ro: ["Singura bancă comercială care operează în Tuvalu.", "Fondată în 1980 ca instituție financiară de stat.", "Gestionează plățile salariale pentru sectorul public.", "Are agenții pe toate cele 9 insule ale țării.", "Procesează remitențele internaționale ale navigatorilor.", "Utilizează dolarul australian ca monedă principală de operare."],
       en: ["The only commercial bank operating in the country.", "Established in 1980 to provide national banking services.", "Headquartered in the central business district of Vaiaku.", "Maintains presence on all outer islands through agencies.", "Crucial for processing foreign remittances and aid funds.", "Wholly owned by the Government of Tuvalu."],
     },
+    image: "/poi-images/tuvalu-national-bank-economic-v2.webp",
   },
   {
     id: "tuvalu-ttc-economic-v2",
@@ -186,6 +191,7 @@ export const tuvaluEconomicV2: POI[] = [
       ro: ["Singurul furnizor de telecomunicații din statul Tuvalu.", "Administrează rețeaua de telefonie mobilă și internetul.", "Sediu central situat în Vaiaku, insula Fongafale.", "Utilizează exclusiv tehnologie prin satelit pentru conexiuni.", "Vital pentru coordonarea asistenței în caz de dezastre.", "Recent a implementat servicii 4G pe atolii principali."],
       en: ["The sole provider of telecommunications in Tuvalu.", "Operates the country's mobile and internet infrastructure.", "State-owned corporation based in the capital, Vaiaku.", "Relies on satellite links for all international connectivity.", "Critical for inter-island communication and national security.", "Managing the expansion of digital services to outer islands."],
     },
+    image: "/poi-images/tuvalu-ttc-economic-v2.webp",
   },
   {
     id: "tuvalu-fish-market-economic-v2",
@@ -217,6 +223,7 @@ export const tuvaluEconomicV2: POI[] = [
       ro: ["Punctul principal de desfacere pentru pescuitul local.", "Modernizat prin proiecte de asistență tehnică japoneză.", "Include facilități de conservare cu gheață pentru pește.", "Sursă esențială de hrană proaspătă pentru locuitorii capitalei.", "Administrat în colaborare cu NAFICOT.", "Situat pe malul lagunei, facilitând descărcarea rapidă."],
       en: ["Primary retail outlet for fresh marine products in Funafuti.", "Infrastructure includes ice plants funded by international aid.", "Distributes a wide range of lagoon and ocean fish species.", "Crucial for supporting the livelihoods of local fishermen.", "Operates under the guidance of national fishing authorities.", "Center for promoting sustainable marine resource consumption."],
     },
+    image: "/poi-images/tuvalu-fish-market-economic-v2.webp",
   },
   {
     id: "tuvalu-solar-farm-economic-v2",
@@ -248,6 +255,7 @@ export const tuvaluEconomicV2: POI[] = [
       ro: ["Componentă cheie a strategiei naționale de energie curată.", "Finanțată prin fonduri de asistență din EAU și Noua Zeelandă.", "Inaugurată oficial în anul 2015 pe insula Fongafale.", "Economisește volume masive de combustibil diesel anual.", "Include sisteme avansate de stocare în baterii.", "Panourile sunt tratate împotriva coroziunii saline."],
       en: ["Core facility for Tuvalu's 100% renewable energy goal.", "Jointly funded by the UAE and New Zealand aid programs.", "Officially commissioned and operational since 2015.", "Significantly lowers national carbon emissions and fuel costs.", "Uses large-scale battery systems for 24-hour power supply.", "Showcases climate leadership among small island developing states."],
     },
+    image: "/poi-images/tuvalu-solar-farm-economic-v2.webp",
   },
   {
     id: "tuvalu-teone-fuel-economic-v2",
@@ -279,6 +287,7 @@ export const tuvaluEconomicV2: POI[] = [
       ro: ["Depozitul strategic de carburanți al statului Tuvalu.", "Include tancuri pentru diesel, benzină și combustibil de aviație.", "Esențial pentru funcționarea generatoarelor de curent ale TEC.", "Situat în satul Teone, aproape de portul principal.", "Vulnerabil la coroziune și creșterea nivelului mării.", "Recent modernizat pentru a preveni scurgerile în lagună."],
       en: ["The primary bulk fuel storage hub for the entire nation.", "Stores essential reserves of diesel, petrol, and jet fuel.", "Vital for domestic power generation and transportation.", "Located on the islet of Fongafale in Teone village.", "Connected to lagoon mooring points for tanker offloading.", "Subject to strict safety and environmental regulations."],
     },
+    image: "/poi-images/tuvalu-teone-fuel-economic-v2.webp",
   },
   {
     id: "tuvalu-airport-economic-v2",
@@ -310,5 +319,6 @@ export const tuvaluEconomicV2: POI[] = [
       ro: ["Singurul aeroport internațional din arhipelagul Tuvalu.", "Construit de forțele americane în 1943 pentru operațiuni de război.", "Pista este utilizată ca spațiu de agrement între zboruri.", "Conectează țara în principal cu Suva, Fiji.", "Situat central în districtul administrativ Vaiaku.", "Vulnerabil la inundațiile provocate de mareele înalte."],
       en: ["Tuvalu's only international gateway, airport code FUN.", "Constructed by US Navy Seabees in 1943 during WWII.", "Runway is used as a public recreational space between flights.", "Primary air connection is with Suva, Fiji, via Fiji Airways.", "Located in the heart of the capital on Fongafale islet.", "Key site for international aid delivery and medical evacuations."],
     },
+    image: "/poi-images/tuvalu-airport-economic-v2.webp",
   }
 ];

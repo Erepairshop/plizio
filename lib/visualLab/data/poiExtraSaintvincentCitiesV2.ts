@@ -31,6 +31,7 @@ export const saintvincentCitiesV2: POI[] = [
       ro: ["Kingstown a fost fondat în anul 1722 de către coloniștii francezi.", "Este adesea supranumit 'Orașul Arcurilor' datorită arhitecturii sale specifice.", "Grădina Botanică, înființată în 1765, este cea mai veche din emisfera vestică.", "Fort Charlotte, situat la 180 de metri altitudine, domină panorama orașului.", "Catedrala Sf. Gheorghe a fost construită la începutul secolului al XIX-lea.", "Portul de croazieră reprezintă un punct vital pentru economia turistică locală."],
       en: ["Kingstown was formally founded in 1722 by French settlers.", "The city is often called the 'City of Arches' due to its distinct architecture.", "The Botanical Gardens, founded in 1765, are the oldest in the Western Hemisphere.", "Fort Charlotte stands at 180 meters elevation overlooking the entire bay.", "St. George's Cathedral was constructed in the early 19th century in Georgian style.", "The harbor serves as the primary transshipment point for the nation's exports."],
     },
+    image: "/poi-images/saintvincent-kingstown-cities-v2.webp",
   },
   {
     id: "saintvincent-barrouallie-cities-v2",
@@ -62,6 +63,7 @@ export const saintvincentCitiesV2: POI[] = [
       ro: ["Barrouallie este faimos pentru pescuitul tradițional de 'pește negru' (balene pilot).", "A fost prima așezare franceză stabilită pe insulă în perioada colonială.", "În apropierea orașului se găsesc petroglife precolumbiene ale triburilor Carib.", "Regiunea este un centru major pentru producția de legume radacinoase.", "Orașul găzduiește anual un festival dedicat tradițiilor pescărești locale.", "Biserica St. Patrick reprezintă un punct de reper arhitectural semnificativ."],
       en: ["Barrouallie is famous for the traditional hunting of 'Blackfish' (pilot whales).", "The town was the site of the first French settlement on the island.", "Pre-Columbian Carib petroglyphs are located in the immediate vicinity.", "The surrounding area is a major producer of root crops for the local market.", "The town hosts an annual festival celebrating its unique fishing heritage.", "St. Patrick's Church stands as a prominent historical landmark in the center."],
     },
+    image: "/poi-images/saintvincent-barrouallie-cities-v2.webp",
   },
   {
     id: "saintvincent-layou-cities-v2",
@@ -93,6 +95,7 @@ export const saintvincentCitiesV2: POI[] = [
       ro: ["Parcul Petroglyph Layou găzduiește sculpturi în piatră ale amerindienilor.", "Orașul este situat la aproximativ 10 kilometri nord-vest de Kingstown.", "Râul Layou este unul dintre cele mai lungi cursuri de apă de pe insulă.", "Regiunea a fost un centru timpuriu al plantațiilor de trestie de zahăr.", "Țărmul din Layou este caracterizat de nisip negru de origine vulcanică.", "S-au descoperit aici vestigii ceramice importante ale culturii Saladoid."],
       en: ["The Layou Petroglyph Park features rock carvings by indigenous Amerindians.", "The town is located approximately 6 miles northwest of Kingstown.", "The Layou River is one of the longest and most significant on Saint Vincent.", "The region served as an early center for sugar cane cultivation on the island.", "Volcanic black sand defines the entire coastal stretch of Layou.", "Archaeologists have found significant Saladoid-period ceramics in the area."],
     },
+    image: "/poi-images/saintvincent-layou-cities-v2.webp",
   },
   {
     id: "saintvincent-chateaubelair-cities-v2",
@@ -124,6 +127,7 @@ export const saintvincentCitiesV2: POI[] = [
       ro: ["Chateaubelair se află în proximitatea spectaculoasei cascade Trinity.", "Orașul a fost un refugiu istoric important în timpul conflictelor coloniale.", "Portul local este utilizat predominant pentru flota de pescuit artizanal.", "Traseele montane către craterul La Soufrière încep frecvent din acest punct.", "Regiunea este renumită pentru culturile sale de banane și cacao.", "Golful oferă un adăpost natural împotriva vânturilor alizee puternice."],
       en: ["Chateaubelair is located near the impressive Trinity Falls waterfall system.", "The town was a strategic historical site during the Carib Wars.", "The harbor is a vital base for the local artisanal fishing fleet.", "Guided hikes to the summit of La Soufrière frequently depart from here.", "The surrounding parish is a major center for banana and cocoa production.", "The deep bay provides excellent anchorage sheltered from Atlantic winds."],
     },
+    image: "/poi-images/saintvincent-chateaubelair-cities-v2.webp",
   },
   {
     id: "saintvincent-port-elizabeth-cities-v2",
@@ -155,6 +159,7 @@ export const saintvincentCitiesV2: POI[] = [
       ro: ["Port Elizabeth este punctul principal de sosire pentru feriboturile din Sf. Vincențiu.", "Golful Admiralty a servit istoric ca bază pentru marina britanică.", "Orașul găzduiește Muzeul Maritim Bequia, dedicat istoriei navale.", "Aleea Belmont leagă centrul orașului de plajele din partea de sud.", "Construcția tradițională de bărci din lemn este încă practicată aici.", "Localitatea poartă numele reginei Elisabeta a II-a a Marii Britanii."],
       en: ["Port Elizabeth is the main arrival point for ferries from Saint Vincent.", "Admiralty Bay once served as a vital base for the British Royal Navy.", "The town is home to the Bequia Maritime Museum and heritage center.", "The Belmont Walkway provides scenic coastal access to southern beaches.", "Traditional wooden boat-building techniques are still actively practiced here.", "The town was named in honor of Queen Elizabeth II of the United Kingdom."],
     },
+    image: "/poi-images/saintvincent-port-elizabeth-cities-v2.webp",
   },
   {
     id: "saintvincent-clifton-cities-v2",
@@ -186,6 +191,7 @@ export const saintvincentCitiesV2: POI[] = [
       ro: ["Clifton este portul oficial de intrare și vamă pentru insula Union.", "Happy Island, o insulă artificială din cochilii de scoici, se află în golf.", "Aeroportul Union Island leagă localitatea de Barbados și Grenada.", "Orașul este cunoscut pentru comunitatea sa activă de kitesurfing.", "Clifton se află la mică distanță de parcul marin Tobago Cays.", "Există numeroase magazine specializate în aprovizionarea iahturilor."],
       en: ["Clifton serves as the official port of entry and customs for Union Island.", "Happy Island, an artificial isle made of conch shells, is located in the harbor.", "Union Island Airport connects the town to Barbados, Grenada, and Saint Vincent.", "The town is a world-renowned destination for the international kitesurfing scene.", "Clifton is the primary gateway for tours to the nearby Tobago Cays Marine Park.", "The settlement contains several specialized marine chandleries for yachtsmen."],
     },
+    image: "/poi-images/saintvincent-clifton-cities-v2.webp",
   },
   {
     id: "saintvincent-calliaqua-cities-v2",
@@ -217,6 +223,7 @@ export const saintvincentCitiesV2: POI[] = [
       ro: ["Calliaqua a fost un punct de ancoraj strategic pentru marina în secolul XVIII.", "Evenimentul 'Calliaqua Culture Pot' celebrează anual tradițiile locale.", "Orașul găzduiește complexul sportiv modern Calliaqua Playing Field.", "Golful Calliaqua oferă o protecție excelentă pentru ambarcațiunile mici.", "Piața de pește este renumită pentru tonul și snapper-ul proaspăt capturate.", "Localitatea face parte din parohia St. George, cea mai populată de pe insulă."],
       en: ["Calliaqua served as a strategic naval anchorage during the 18th century.", "The 'Calliaqua Culture Pot' is a renowned annual local cultural festival.", "The town features the modern Calliaqua Playing Field sports complex.", "Calliaqua Bay provides safe anchorage for small coastal vessels.", "The local fish market is a major distribution point for tuna and snapper.", "The town is located in St. George Parish, the island's most populous area."],
     },
+    image: "/poi-images/saintvincent-calliaqua-cities-v2.webp",
   },
   {
     id: "saintvincent-biabou-cities-v2",
@@ -248,6 +255,7 @@ export const saintvincentCitiesV2: POI[] = [
       ro: ["Biabou se află pe drumul principal care leagă Kingstown de nordul insulei.", "Coasta de est în această zonă este cunoscută pentru valurile puternice.", "Împrejurimile satului sunt dominate de plantații vaste de banane.", "Localitatea dispune de o secție de poliție și o clinică medicală locală.", "Solurile vulcanice din regiune sunt considerate extrem de productive.", "Biabou este un punct de oprire vital pentru transportul public cu microbuze."],
       en: ["Biabou is located along the main Windward Highway connecting Kingstown to the north.", "The Atlantic coastline here is known for its powerful surf and currents.", "The surrounding landscape is dominated by extensive banana estates.", "The village hosts a significant local police station and community clinic.", "Volcanic soils in this region are among the most fertile on the island.", "Biabou serves as a major transit stop for public minibuses on the east coast."],
     },
+    image: "/poi-images/saintvincent-biabou-cities-v2.webp",
   },
   {
     id: "saintvincent-charlestown-cities-v2",
@@ -279,6 +287,7 @@ export const saintvincentCitiesV2: POI[] = [
       ro: ["Charlestown este portul principal pentru aprovizionarea insulei Canouan.", "Orașul este situat la baza Mount Royal, cel mai înalt punct al insulei.", "Aeroportul Canouan se află la o distanță scurtă de mers cu mașina de oraș.", "Golful Charlestown oferă un punct de ancorare protejat pentru iahturi.", "Tradițional, localitatea a fost un centru pentru pescuit și creșterea vitelor.", "Insula Canouan deține unul dintre cele mai lungi recife de corali din Caraibe."],
       en: ["Charlestown is the primary port for all supplies entering Canouan island.", "The town is situated at the base of Mount Royal, the island's highest peak.", "Canouan Airport is located just a short drive south from Charlestown.", "Charlestown Bay provides a well-sheltered anchorage for visiting yachts.", "The town was historically a center for local fishing and livestock rearing.", "Canouan island is home to one of the longest barrier reefs in the Caribbean."],
     },
+    image: "/poi-images/saintvincent-charlestown-cities-v2.webp",
   },
   {
     id: "saintvincent-ashton-cities-v2",
@@ -310,6 +319,7 @@ export const saintvincentCitiesV2: POI[] = [
       ro: ["Ashton se află lângă cea mai mare zonă de mangrove din țară.", "Orașul este un punct de plecare pentru explorarea coastei de sud.", "Laguna Ashton a beneficiat recent de un proiect major de restaurare ecologică.", "Belvederea Fragonard oferă vederi panoramice asupra orașului și lagunei.", "Economia locală se bazează în mare măsură pe agricultură și pescuit.", "Ashton este conectat direct de Clifton printr-un drum de coastă."],
       en: ["Ashton is located adjacent to the largest mangrove forest in the country.", "The town serves as a base for exploring the island's southern coastline.", "Ashton Lagoon has undergone extensive ecological restoration in recent years.", "Fragonard's Lookout provides panoramic views over Ashton and the lagoon.", "The local economy is heavily centered on farming and artisanal fishing.", "Ashton is connected to Clifton by a scenic three-mile coastal road."],
     },
+    image: "/poi-images/saintvincent-ashton-cities-v2.webp",
   },
   {
     id: "saintvincent-dovers-cities-v2",
@@ -341,6 +351,7 @@ export const saintvincentCitiesV2: POI[] = [
       ro: ["Dovers este situat în proximitatea micii piste de aterizare de pe Mustique.", "Așezarea servește în principal pentru sprijinirea logisticii insulare.", "Insula Mustique este administrată de compania privată Mustique Company.", "Plaja Macaroni, una dintre cele mai celebre de pe insulă, se află în apropiere.", "Insula este renumită pentru discreția oferită rezidenților săi celebri.", "Dovers este conectat la restul insulei printr-o rețea de drumuri private."],
       en: ["Dovers is located near the small airstrip that serves Mustique island.", "The settlement primarily functions as a support base for island operations.", "Mustique is entirely managed by the private Mustique Company.", "Macaroni Beach, the island's most famous beach, is located nearby.", "The island is world-renowned for its privacy and celebrity residents.", "Dovers is accessible via a network of well-maintained private island roads."],
     },
+    image: "/poi-images/saintvincent-dovers-cities-v2.webp",
   },
   {
     id: "saintvincent-byera-hill-cities-v2",
@@ -372,6 +383,7 @@ export const saintvincentCitiesV2: POI[] = [
       ro: ["Byera Hill oferă vederi panoramice asupra coastei atlantice abrupte.", "Localitatea este situată pe autostrada principală spre Georgetown.", "Zona a fost istoric un centru important pentru cultura Garifuna.", "Tunelul Byera, o lucrare de infrastructură notabilă, se află în apropiere.", "Solul este bogat în cenușă vulcanică provenită de la vulcanul La Soufrière.", "Vânturile puternice modelează vegetația și climatul localității."],
       en: ["Byera Hill offers expansive views across the rugged Atlantic coastline.", "The settlement is positioned along the main Windward Highway to Georgetown.", "The area was historically a significant center for the Garifuna culture.", "The Byera Tunnel, an important engineering feat, is located nearby.", "The soil is enriched by volcanic ash deposits from Mount La Soufrière.", "Persistent sea breezes define the local vegetation and microclimate."],
     },
+    image: "/poi-images/saintvincent-byera-hill-cities-v2.webp",
   },
   {
     id: "saintvincent-derrick-cities-v2",
@@ -403,5 +415,6 @@ export const saintvincentCitiesV2: POI[] = [
       ro: ["Derrick se află în apropiere de Golful Friendship din sudul insulei Bequia.", "Așezarea este caracterizată de mici exploatații agricole locale.", "Regiunea oferă oportunități excelente pentru observarea păsărilor.", "Derrick este conectat de localitatea principală prin drumuri înguste.", "Există mai multe vile private și pensiuni în împrejurimile satului.", "Panorama de aici include adesea vederi spre insula vecină Mustique."],
       en: ["Derrick is located near Friendship Bay on the southern end of Bequia.", "The settlement is characterized by small-scale local agriculture.", "The surrounding area offers excellent opportunities for birdwatching.", "Derrick is connected to Port Elizabeth by narrow, winding ridge roads.", "The vicinity features several secluded private villas and guest houses.", "The elevated views often extend across the channel to Mustique island."],
     },
+    image: "/poi-images/saintvincent-derrick-cities-v2.webp",
   }
 ];

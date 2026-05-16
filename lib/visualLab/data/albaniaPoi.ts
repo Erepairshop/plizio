@@ -83,7 +83,8 @@ export const albaniaCities: POI[] = [
       hu: ["Az ország gazdasági és kulturális központja.", "A Szkander bég tér a város központi része.", "A Bunk'Art egy egykori atombunkerben kialakított múzeum."],
       ro: ["Este centrul economic și cultural al țării.", "Piața Skanderbeg este punctul central al orașului.", "Bunk'Art este un muzeu amenajat într-un fost buncăr nuclear."],
       en: ["It is the economic and cultural center of the country.", "Skanderbeg Square is the central hub of the city.", "Bunk'Art is a museum housed in a former nuclear bunker."]
-    }
+    },
+    image: "/poi-images/city-tirana.webp",
   },
   {
     id: "city-durres",
@@ -312,7 +313,8 @@ export const albaniaHistorical: POI[] = [
       hu: ["UNESCO Világörökségi helyszín.", "A romok között görög, római, bizánci és velencei építmények is találhatók.", "Festői környezetben, a Jón-tenger egyik lagúnájánál fekszik."],
       ro: ["Este un sit al Patrimoniului Mondial UNESCO.", "Ruinele includ structuri grecești, romane, bizantine și venețiene.", "Este situat pitoresc pe o lagună la Marea Ionică."],
       en: ["It is a UNESCO World Heritage site.", "The ruins include Greek, Roman, Byzantine, and Venetian structures.", "It is picturesquely situated on a lagoon by the Ionian Sea."]
-    }
+    },
+    image: "/poi-images/hist-butrint.webp",
   },
   {
     id: "hist-apollonia",
@@ -516,7 +518,8 @@ export const albaniaNature: POI[] = [
       hu: ["Gazdag madárvilág.", "Ritka pelikánok.", "Részben nemzeti park."],
       ro: ["Faună aviară bogată.", "Pelicani rari.", "Parțial parc național."],
       en: ["Rich birdlife.", "Rare pelicans.", "Partially a national park."]
-    }
+    },
+    image: "/poi-images/nat-lake-skadar.webp",
   },
   {
     id: "nat-lake-ohrid",
@@ -717,7 +720,8 @@ export const albaniaNature: POI[] = [
       hu: ["Dajti Ekspres felvonó.", "Kilátás Tiranára.", "Nemzeti parki státusz."],
       ro: ["Telecabina Dajti Ekspres.", "Vedere asupra Tiranei.", "Statut de parc național."],
       en: ["Dajti Ekspres cable car.", "View of Tirana.", "National park status."]
-    }
+    },
+    image: "/poi-images/nat-dajti.webp",
   }
 ];
 

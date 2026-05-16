@@ -32,6 +32,7 @@ export const franceEconomicV2: POI[] = [
       ro: ["Fondat în 1861 la gura de vărsare a fluviului Loara.", "Locul de construcție al navei Harmony of the Seas (362 m).", "Deține una dintre cele mai mari macarale din Europa (1200t).", "Angajează direct peste 3.000 de specialiști calificați."],
       en: ["Founded in 1861 at the mouth of the Loire River.", "Construction site of the Harmony of the Seas (362 meters).", "Features one of Europe's largest gantry cranes (1200t).", "Employs over 3,000 direct workers in ship construction."],
     },
+    image: "/poi-images/france-saint-nazaire-shipyard-economic-v2.webp",
   },
   {
     id: "france-la-defense-business-economic-v2",
@@ -64,6 +65,7 @@ export const franceEconomicV2: POI[] = [
       ro: ["Suprafața La Défense: 160 de hectare.", "Grande Arche: 110 m înălțime, 112 m lățime și 112 m adâncime.", "Suprafața de birouri: 3,5 milioane m².", "Peste 3.000 de companii au sediul aici.", "Construcția a început în 1958.", "Numărul zilnic de vizitatori depășește 500.000."],
       en: ["La Défense covers 160 hectares.", "Grande Arche is 110 m tall, 112 m wide, 112 m deep.", "Office space totals 3.5 million m².", "Over 3,000 companies operate there.", "Construction began in 1958.", "Daily footfall exceeds 500,000."],
     },
+    image: "/poi-images/france-la-defense-business-economic-v2.webp",
   },
   {
     id: "france-fos-sur-mer-port-economic-v2",
@@ -96,6 +98,7 @@ export const franceEconomicV2: POI[] = [
       ro: ["Parte a Grand Port Maritime de Marseille din anii '60.", "Găzduiește o unitate majoră de producție ArcelorMittal.", "Include terminale LNG strategice pentru importul de gaze.", "Zona industrială se întinde pe o suprafață de 10.000 hectare."],
       en: ["Part of the Grand Port Maritime de Marseille since 1960.", "Home to a massive ArcelorMittal steel production plant.", "Equipped with major LNG terminals for energy imports.", "The industrial zone covers approximately 10,000 hectares."],
     },
+    image: "/poi-images/france-fos-sur-mer-port-economic-v2.webp",
   },
   {
     id: "france-grenoble-gi-economic-v2",
@@ -128,6 +131,7 @@ export const franceEconomicV2: POI[] = [
       ro: ["Gazduiește European Synchrotron (ESRF), cel mai puternic din lume.", "Peste 10.000 de cercetători lucrează în laboratoarele publice din oraș.", "CEA Grenoble deține peste 4.500 de brevete active în tehnologie.", "Proiectul GIANT vizează crearea unui campus de inovare de talie mondială.", "Orașul a fost gazda Jocurilor Olimpice de Iarnă din 1968, impulsionând creșterea.", "Sectorul digital generează anual venituri de peste 4 miliarde de euro."],
       en: ["Home to the MINATEC innovation campus, covering 20 hectares of labs.", "Grenoble ranks 5th most innovative city in the world according to Forbes.", "Hosting the world's most productive neutron source at the ILL institute.", "Over 600 start-ups have been created in the region since the year 2000.", "STMicroelectronics employs over 6,000 people in the Grenoble area.", "The GIANT campus attracts 10,000 students and 10,000 industrial staff."],
     },
+    image: "/poi-images/france-grenoble-gi-economic-v2.webp",
   },
   {
     id: "france-airbus-toulouse-economic-v2",
@@ -160,6 +164,7 @@ export const franceEconomicV2: POI[] = [
       ro: ["Sediul central și linia de asamblare pentru A320 și A350.", "Situl industrial ocupă o suprafață de peste 600 de hectare.", "Angajează peste 25.000 de persoane în regiunea Toulouse.", "Găzduiește muzeul Aeroscopia, dedicat istoriei aviației."],
       en: ["Headquarters and final assembly lines for A320 and A350.", "The industrial site covers over 600 hectares of land.", "Employs more than 25,000 people in the Toulouse area.", "Home to the Aeroscopia museum, showcasing aviation history."],
     },
+    image: "/poi-images/france-airbus-toulouse-economic-v2.webp",
   },
   {
     id: "france-rungis-market-economic-v2",
@@ -192,6 +197,7 @@ export const franceEconomicV2: POI[] = [
       ro: ["Se întinde pe o suprafață de 234 de hectare lângă Paris.", "Peste 1.200 de companii își desfășoară activitatea aici.", "Tranzitează anual aproximativ 1,7 milioane de tone de marfă.", "Piața a fost mutată din centrul Parisului la Rungis în 1969."],
       en: ["Covers an area of 234 hectares on the outskirts of Paris.", "Host to over 1,200 individual wholesale companies.", "Handles approximately 1.7 million tonnes of products annually.", "Relocated from central Paris (Les Halles) to Rungis in 1969."],
     },
+    image: "/poi-images/france-rungis-market-economic-v2.webp",
   },
   {
     id: "france-vallee-de-l-arve-economic-v2",
@@ -224,6 +230,7 @@ export const franceEconomicV2: POI[] = [
       ro: ["Concentrează 65% din industria franceză de strunjire.", "Peste 800 de întreprinderi specializate se află în regiune.", "Furnizor major pentru industria mondială a ceasurilor de lux.", "Cunoscută sub numele de Technic Vallée pentru inovație."],
       en: ["Concentrates 65% of the French bar-turning industry.", "Home to more than 800 specialized small and medium enterprises.", "Major supplier for the global luxury watchmaking industry.", "Nicknamed Technic Vallée for its high concentration of tech."],
     },
+    image: "/poi-images/france-vallee-de-l-arve-economic-v2.webp",
   },
   {
     id: "france-cognac-distilleries-economic-v2",
@@ -256,6 +263,7 @@ export const franceEconomicV2: POI[] = [
       ro: ["Suprafața viticolă totală a regiunii este de aproximativ 75.000 hectare.", "Distilarea dublă în alambicuri de tip Charentais este obligatorie.", "Vârsta minimă pentru categoria VSOP este de 4 ani de maturare.", "Hennessy este cea mai veche mare casă de coniac, fondată în 1765.", "Regiunea este împărțită în Grande Champagne, Petite Champagne și altele.", "Industria folosește butoaie din lemn de stejar din pădurile Tronçais."],
       en: ["Total production involves over 300 professional distillation houses.", "The United States remains the largest market for Cognac exports.", "Double distillation was standardized in the region during the 18th century.", "The AOC Cognac area covers 75,000 hectares of vineyard landscape.", "Average annual turnover of the Cognac industry is around 3.6 billion Euros.", "Paradise cellars house the oldest 'eaux-de-vie', some dating to 1800."],
     },
+    image: "/poi-images/france-cognac-distilleries-economic-v2.webp",
   },
   {
     id: "france-bordeaux-wine-economic-v2",
@@ -288,6 +296,7 @@ export const franceEconomicV2: POI[] = [
       ro: ["Dispune de aproximativ 110.000 de hectare de viță-de-vie.", "Găzduiește peste 6.000 de domenii viticole numite Châteaux.", "Produce anual între 5 și 6 milioane de hectolitri de vin.", "Vinurile de Bordeaux sunt exportate în peste 170 de țări."],
       en: ["Covers approximately 110,000 hectares of vineyards.", "Home to over 6,000 wine estates, often called Châteaux.", "Produces roughly 5 to 6 million hectolitres of wine annually.", "Bordeaux wines are exported to more than 170 countries."],
     },
+    image: "/poi-images/france-bordeaux-wine-economic-v2.webp",
   },
   {
     id: "france-lannion-photonics-economic-v2",
@@ -320,6 +329,7 @@ export const franceEconomicV2: POI[] = [
       ro: ["Găzduiește peste 200 de unități de cercetare și dezvoltare industrială.", "Polul de competitivitate Images & Réseaux are baza principală aici.", "Lannion a fost pionier în transmiterea datelor prin fibră optică în anii '70.", "Peste 50% din locurile de muncă locale sunt în sectorul terțiar avansat.", "Orașul este conectat la rețele globale de telecomunicații prin infrastructură marină.", "Investițiile anuale în cercetare fotonică depășesc 50 de milioane de euro."],
       en: ["Anticipa Technopole supports over 220 innovative companies in the area.", "Home to Orange Labs, the main R&D arm of France's leading operator.", "The cluster accounts for 10% of French jobs in the photonics industry.", "Established as a strategic tech center by the French government in 1961.", "Specializes in deep-tech sectors including 5G, IoT, and cybersecurity.", "Hosts the largest concentration of fiber optic expertise in Western France."],
     },
+    image: "/poi-images/france-lannion-photonics-economic-v2.webp",
   },
   {
     id: "france-clermont-ferrand-michelin-economic-v2",
@@ -352,6 +362,7 @@ export const franceEconomicV2: POI[] = [
       ro: ["Fondată în 1889 de frații André și Édouard Michelin.", "Găzduiește centrul global de cercetare de la Ladoux.", "Angajează aproximativ 12.000 de persoane doar în oraș.", "Uzina Cataroux reprezintă inima istorică a producției."],
       en: ["Founded in 1889 by brothers André and Édouard Michelin.", "Home to the global R&D center at the Ladoux site.", "Employs approximately 12,000 people in the city area.", "The Cataroux plant is the historical core of its production."],
     },
+    image: "/poi-images/france-clermont-ferrand-michelin-economic-v2.webp",
   },
   {
     id: "france-nantes-saint-nazaire-port-economic-v2",
@@ -384,6 +395,7 @@ export const franceEconomicV2: POI[] = [
       ro: ["Al patrulea cel mai mare port comercial din Franța după tonaj.", "Locație cheie pentru importul de gaze naturale lichefiate (LNG).", "Centru logistic pentru transportul componentelor Airbus.", "Procesează anual aproximativ 30 de milioane de tone de marfă."],
       en: ["Fourth largest commercial port in France by cargo volume.", "Major site for the importation of Liquefied Natural Gas (LNG).", "Logistics hub for the transport of Airbus aircraft sections.", "Handles approximately 30 million tonnes of goods per year."],
     },
+    image: "/poi-images/france-nantes-saint-nazaire-port-economic-v2.webp",
   },
   {
     id: "france-toulouse-aerospace-valley-economic-v2",
@@ -416,6 +428,7 @@ export const franceEconomicV2: POI[] = [
       ro: ["Găzduiește sediul central al Airbus, lider mondial în aviație civilă.", "Aerospace Valley este cel mai mare cluster de acest tip din Europa.", "Peste 1.900 de unități industriale sunt active în sectorul aeronautic.", "Linia de asamblare a modelului A380 acoperă o suprafață de 10 hectare.", "Sectorul aerospațial generează o cifră de afaceri de 10 miliarde de euro.", "Orașul este centrul european pentru controlul sateliților de mediu."],
       en: ["Airbus headquarters employs roughly 28,000 people in the Toulouse area.", "The cluster includes the regions of Occitanie and Nouvelle-Aquitaine.", "Final Assembly Lines (FAL) for nearly all Airbus models are located here.", "Home to ATR, the world's leading manufacturer of turboprop aircraft.", "Hosts the French National Centre for Space Studies (CNES) headquarters.", "Accountable for 1/3 of the total aerospace jobs in France."],
     },
+    image: "/poi-images/france-toulouse-aerospace-valley-economic-v2.webp",
   },
   {
     id: "france-le-havre-container-port-economic-v2",
@@ -448,6 +461,7 @@ export const franceEconomicV2: POI[] = [
       ro: ["Este primul port francez pentru importul și exportul de autovehicule.", "Canalul de acces are o adâncime de 15,5 metri, accesibil permanent.", "Zona industrial-portuară se întinde pe o lungime de 27 de kilometri.", "Găzduiește un terminal de croazieră care primește 400.000 de turiști anual.", "Peste 40% din traficul de containere al Franței trece prin acest port.", "Portul a fost reconstruit masiv după 1945, integrând soluții moderne."],
       en: ["Le Havre is the leading French port for external trade and container flow.", "Handles over 70 million tonnes of total cargo on an annual basis.", "The Port 2000 extension was specifically designed for giant container ships.", "Connected to the Paris region by the Seine river and dedicated rail lines.", "Part of the HAROPA network, the 5th largest port complex in Northern Europe.", "Features 12 specialized terminals for various types of industrial goods."],
     },
+    image: "/poi-images/france-le-havre-container-port-economic-v2.webp",
   },
   {
     id: "france-lyon-biotech-economic-v2",
@@ -480,6 +494,7 @@ export const franceEconomicV2: POI[] = [
       ro: ["Găzduiește Lyonbiopôle, un pol de competitivitate în sănătate.", "Sediul Sanofi Pasteur, lider mondial în producția de vaccinuri.", "Include laboratorul de înaltă securitate P4 Jean Mérieux.", "Concentrează peste 600 de companii în domeniul științelor vieții."],
       en: ["Home to Lyonbiopôle, a leading health and biotech cluster.", "Base for Sanofi Pasteur, a world leader in vaccine production.", "Location of the Jean Mérieux P4 high-security laboratory.", "Hosts over 600 companies specializing in life sciences."],
     },
+    image: "/poi-images/france-lyon-biotech-economic-v2.webp",
   },
   {
     id: "france-metz-steel-economic-v2",
@@ -512,6 +527,7 @@ export const franceEconomicV2: POI[] = [
       ro: ["Parte a regiunii industriale istorice Lorena.", "Locație importantă pentru producția de oțel destinat industriei auto.", "Nod de transport pe canalul Moselle pentru mărfuri grele.", "Colaborare strânsă cu centrul de cercetare metalurgică IRT."],
       en: ["Part of the historical Lorraine industrial region.", "Major production center for automotive-grade steel.", "Shipping hub on the Moselle canal for heavy industrial goods.", "Works closely with the IRT metallurgy research center."],
     },
+    image: "/poi-images/france-metz-steel-economic-v2.webp",
   },
   {
     id: "france-tours-pharma-economic-v2",
@@ -544,6 +560,7 @@ export const franceEconomicV2: POI[] = [
       ro: ["Centru al clusterului 'Polepharma', cel mai mare din Franța.", "Găzduiește unități de producție pentru Sanofi și Delpharm.", "Specializat în fabricarea formelor farmaceutice solide.", "Angajează peste 5.000 de specialiști în sectorul farma."],
       en: ["A core part of 'Polepharma', France's largest pharma cluster.", "Home to manufacturing plants for Sanofi and Delpharm.", "Specializes in the production of tablets and capsules.", "Employs more than 5,000 specialists in the pharmaceutical sector."],
     },
+    image: "/poi-images/france-tours-pharma-economic-v2.webp",
   },
   {
     id: "france-montpellier-agritech-economic-v2",
@@ -576,6 +593,7 @@ export const franceEconomicV2: POI[] = [
       ro: ["Găzduiește cel mai mare centru de cercetare CIRAD din Franța.", "Universitatea din Montpellier este clasată pe locul 1 mondial în ecologie.", "Sectorul Agritech generează mii de locuri de muncă înalt calificate.", "Focus major pe securitatea alimentară și gestionarea resurselor de apă.", "Platforma Agropolis reunește 42 de instituții de învățământ și cercetare.", "Regiunea este lider în producția de vinuri bio și tehnologii verzi."],
       en: ["Home to Agropolis International, the world's leading agronomy cluster.", "Montpellier University is consistently ranked 1st globally for Ecology.", "The cluster employs over 2,800 permanent researchers and technicians.", "Hosts the headquarters of CGIAR, a global food security organization.", "Specializes in agricultural innovations for developing nations and tropics.", "The region is a pioneer in digital agriculture and precision viticulture."],
     },
+    image: "/poi-images/france-montpellier-agritech-economic-v2.webp",
   },
   {
     id: "france-lille-textile-economic-v2",
@@ -608,6 +626,7 @@ export const franceEconomicV2: POI[] = [
       ro: ["Fostul nucleu al orașelor textile Roubaix și Tourcoing.", "Găzduiește CETI, un centru de cercetare pentru textile inovatoare.", "Sediul unor mari retaileri precum Decathlon și Auchan.", "Regiunea numără peste 300 de companii active în domeniu."],
       en: ["Historical core of the textile towns Roubaix and Tourcoing.", "Home to CETI, a center for innovative textile research.", "Headquarters for major retailers like Decathlon and Auchan.", "The region hosts over 300 companies in the textile sector."],
     },
+    image: "/poi-images/france-lille-textile-economic-v2.webp",
   },
   {
     id: "france-st-etienne-design-economic-v2",
@@ -640,6 +659,7 @@ export const franceEconomicV2: POI[] = [
       ro: ["Orașul a găzduit prima cale ferată din Franța, în anul 1827.", "Cité du Design ocupă 5 hectare din fosta fabrică regală de arme.", "Există peste 50 de agenții de design industrial active în centrul vechi.", "Bienala de Design este cel mai important eveniment de profil din țară.", "Economia locală s-a reorientat spre inginerie medicală și design optic.", "Proiectul 'Quartier Manufacture' este un model de regenerare urbană."],
       en: ["The Cité du Design was built on the site of the former Royal Arms Factory.", "Saint-Étienne joined the UNESCO Creative Cities Network in 2010.", "Hosts the International Design Biennale, a major global industry event.", "Home to the higher school of art and design (ESADSE), founded in 1803.", "The creative economy accounts for over 5% of the local GDP.", "Design is applied across sectors from medical devices to smart textiles."],
     },
+    image: "/poi-images/france-st-etienne-design-economic-v2.webp",
   },
   {
     id: "france-cannes-media-economic-v2",
@@ -672,6 +692,7 @@ export const franceEconomicV2: POI[] = [
       ro: ["Sediul Thales Alenia Space, lider în construcția de sateliți.", "Palais des Festivals găzduiește festivalul de publicitate Cannes Lions.", "Turismul și congresele reprezintă 60% din economia locală.", "Găzduiește anual târguri media majore precum MIPTV și MIPCOM."],
       en: ["Home to Thales Alenia Space, a leading satellite manufacturer.", "The Palais des Festivals hosts the Cannes Lions advertising festival.", "Tourism and conventions account for 60% of the local economy.", "Hosts major annual media trade shows such as MIPTV and MIPCOM."],
     },
+    image: "/poi-images/france-cannes-media-economic-v2.webp",
   },
   {
     id: "france-orleans-logistics-economic-v2",
@@ -704,6 +725,7 @@ export const franceEconomicV2: POI[] = [
       ro: ["Cunoscut ca parte din 'Logistics Valley' la sud de Paris.", "Găzduiește depozite majore pentru companii ca Amazon și Sephora.", "Intersecția autostrăzilor A10 (Paris-Bordeaux) și A71.", "Sectorul logistic oferă peste 15.000 de locuri de muncă în regiune."],
       en: ["Known as a key part of the 'Logistics Valley' south of Paris.", "Hosts major distribution centers for companies like Amazon and Sephora.", "The junction point of the A10 (Paris-Bordeaux) and A71 motorways.", "The logistics sector provides over 15,000 jobs in the region."],
     },
+    image: "/poi-images/france-orleans-logistics-economic-v2.webp",
   },
   {
     id: "france-nancy-tech-economic-v2",
@@ -736,6 +758,7 @@ export const franceEconomicV2: POI[] = [
       ro: ["Găzduiește LORIA, un laborator național de cercetare în informatică.", "Centru pentru inovație digitală și start-up-uri în Lorena.", "Colaborare strânsă între universitate și sectorul IT.", "Locație importantă pentru cercetarea în tehnologie medicală (CHRU)."],
       en: ["Home to LORIA, a major national laboratory for computer science.", "A center for digital innovation and tech start-ups in Lorraine.", "Features a strong link between the university and the IT industry.", "Major site for medical technology research at the CHRU hospital."],
     },
+    image: "/poi-images/france-nancy-tech-economic-v2.webp",
   },
   {
     id: "france-marseille-energy-economic-v2",
@@ -768,5 +791,6 @@ export const franceEconomicV2: POI[] = [
       ro: ["Deține două terminale LNG majore (Cavaou și Tonkin).", "Bază pentru primul parc eolian offshore plutitor din Franța.", "Centru pentru proiecte de producție de hidrogen la scară largă.", "Nod strategic pentru cabluri submarine și energie digitală."],
       en: ["Equipped with two major LNG terminals (Cavaou and Tonkin).", "Base for France's first floating offshore wind farm projects.", "A center for large-scale green hydrogen production initiatives.", "Strategic hub for undersea data cables and digital infrastructure."],
     },
+    image: "/poi-images/france-marseille-energy-economic-v2.webp",
   }
 ];

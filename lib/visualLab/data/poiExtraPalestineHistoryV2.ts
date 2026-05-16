@@ -31,6 +31,7 @@ export const palestineHistoryV2: POI[] = [
       ro: ["Situl este situat la aproximativ 258 de metri sub nivelul mării.", "Adăpostește cel mai vechi turn de piatră cunoscut, construit în jurul anului 8000 î.Hr.", "Arheologii au identificat până în prezent 23 de straturi de civilizații antice.", "Tell es-Sultan a fost inclus în lista Patrimoniului Mondial UNESCO în 2023.", "Primele ziduri ale orașului au fost ridicate încă din mileniul al IX-lea î.Hr.", "Așezarea s-a dezvoltat în apropierea izvorului bogat Ein es-Sultan."],
       en: ["The site is located approximately 258 meters below sea level.", "It houses the oldest known stone tower, dating from around 8000 BCE.", "Archaeologists have identified 23 layers of ancient civilizations so far.", "Tell es-Sultan was inscribed on the UNESCO World Heritage List in 2023.", "The first city walls were constructed as early as the 9th millennium BCE.", "The settlement was established near the abundant Ein es-Sultan spring."],
     },
+    image: "/poi-images/palestine-tell-es-sultan-history-v2.webp",
   },
   {
     id: "palestine-hishams-palace-history-v2",
@@ -62,6 +63,7 @@ export const palestineHistoryV2: POI[] = [
       ro: ["Palatul a fost construit în timpul domniei califului Hisham ibn Abd al-Malik.", "Găzduiește unul dintre cele mai mari mozaicuri de podea din lume, de 827 m².", "Un cutremur masiv a distrus aproape complet palatul în anul 749 d.Hr.", "Situl a fost redescoperit în 1894 de către arheologul F.J. Bliss.", "În limba arabă, situl arheologic este cunoscut sub numele de Khirbat al-Mafjar.", "Mozaicul 'Arborele Vieții' înfățișează gazele și un leu sub un rodiu."],
       en: ["The palace was built during the reign of Caliph Hisham ibn Abd al-Malik (724–743).", "It features one of the world's largest floor mosaics, covering 827 square meters.", "A massive earthquake in 749 CE destroyed the palace shortly after completion.", "The site was rediscovered in 1894 by the archaeologist F.J. Bliss.", "In Arabic, the archaeological site is known as Khirbat al-Mafjar.", "The 'Tree of Life' mosaic depicts gazelles and a lion beneath a pomegranate tree."],
     },
+    image: "/poi-images/palestine-hishams-palace-history-v2.webp",
   },
   {
     id: "palestine-sebastia-ruins-history-v2",
@@ -93,6 +95,7 @@ export const palestineHistoryV2: POI[] = [
       ro: ["Orașul a servit drept capitală a Regatului Israel în secolul al IX-lea î.Hr.", "Irod cel Mare l-a redenumit Sebaste (greacă pentru Augustus) în 27 î.Hr.", "Forumul roman al orașului măsura aproximativ 128 pe 72 de metri.", "Strada cu coloane avea inițial un număr de aproximativ 600 de coloane.", "Conform tradiției, aici se află mormântul lui Ioan Botezătorul.", "Universitatea Harvard a început primele excavări științifice în anul 1908."],
       en: ["The city served as the capital of the Kingdom of Israel in the 9th century BCE.", "Herod the Great renamed it Sebaste (Greek for Augustus) in 27 BCE.", "The Roman forum at the site measured approximately 128 by 72 meters.", "The ancient colonnaded street originally featured about 600 columns.", "According to tradition, the site contains the tomb of John the Baptist.", "Harvard University conducted the first major scientific excavations in 1908."],
     },
+    image: "/poi-images/palestine-sebastia-ruins-history-v2.webp",
   },
   {
     id: "palestine-hebron-old-city-history-v2",
@@ -124,6 +127,7 @@ export const palestineHistoryV2: POI[] = [
       ro: ["Arhitectura actuală datează predominant din perioada mamelucă (1250–1517).", "Orașul vechi a fost înscris în lista Patrimoniului Mondial UNESCO în 2017.", "Hebron este renumit pentru industriile tradiționale de sticlărie și olărit.", "Clădirile au fost construite în principal din calcar local.", "Sistemul istoric de souk (piață) este încă activ în centrul vechi.", "Centrul orașului este dominat de complexul Peșterii Patriarhilor."],
       en: ["The architecture is predominantly from the Mamluk period (1250–1517).", "The Old City was inscribed on the UNESCO World Heritage List in 2017.", "Hebron is famous for its traditional glass-blowing and pottery industries.", "The buildings are primarily constructed from local white limestone.", "The ancient souk (market) system remains a central feature of the city.", "The center of the Old City is dominated by the Cave of the Patriarchs."],
     },
+    image: "/poi-images/palestine-hebron-old-city-history-v2.webp",
   },
   {
     id: "palestine-cave-patriarchs-history-v2",
@@ -155,6 +159,7 @@ export const palestineHistoryV2: POI[] = [
       ro: ["Zidurile de incintă herodiene au o vechime de peste 2.000 de ani.", "Clădirea este împărțită astăzi în secțiuni de moschee și sinagogă.", "Zidurile exterioare au 12 metri înălțime și 2,5 metri grosime.", "Situl este recunoscut ca loc sfânt de evrei, creștini și musulmani.", "Cenotafurile reprezintă mormintele simbolice ale patriarhilor.", "Sub clădire se află un sistem complex de peșteri duble."],
       en: ["The Herodian enclosure walls are approximately 2,000 years old.", "The complex is currently divided into a mosque and a synagogue section.", "The building's walls reach 12 meters in height and 2.5 meters in thickness.", "It is recognized as a holy site by Jews, Christians, and Muslims alike.", "Cenotaphs inside the structure mark the traditional burial spots.", "A double cave system lies beneath the floor of the main building."],
     },
+    image: "/poi-images/palestine-cave-patriarchs-history-v2.webp",
   },
   {
     id: "palestine-church-nativity-history-v2",
@@ -186,6 +191,7 @@ export const palestineHistoryV2: POI[] = [
       ro: ["Construcția bisericii originale a început în anul 327 d.Hr.", "Biserica este inclusă în Patrimoniul Mondial UNESCO din anul 2012.", "'Ușa Umilinței' a fost micșorată pentru a împiedica intrarea călăreților.", "Sub podeaua actuală au fost descoperite mozaicuri valoroase din secolul al IV-lea.", "Administrarea este partajată de ortodocșii greci, armeni și catolici.", "O stea de argint cu 14 colțuri marchează locul nașterii în grotă."],
       en: ["The original construction of the church began in 327 CE.", "It was the first Palestinian site to be listed as a UNESCO World Heritage Site (2012).", "The 'Door of Humility' was built small to prevent riders from entering on horseback.", "Fragmentary 4th-century mosaic floors are visible beneath the current floor.", "The site is jointly managed by Greek Orthodox, Armenian, and Catholic authorities.", "A 14-pointed silver star marks the exact traditional spot of the Nativity."],
     },
+    image: "/poi-images/palestine-church-nativity-history-v2.webp",
   },
   {
     id: "palestine-solomons-pools-history-v2",
@@ -217,6 +223,7 @@ export const palestineHistoryV2: POI[] = [
       ro: ["Capacitatea totală a celor trei bazine este de aproximativ 450.000 mc.", "Iazurile erau conectate la Ierusalim prin două apeducte lungi.", "Deși poartă numele lui Solomon, bazinele datează din perioada târzie a celui de-al Doilea Templu.", "Lângă iazuri se află o fortăreață otomană din secolul al XVII-lea.", "Sistemul a furnizat apă Ierusalimului timp de aproape 2.000 de ani.", "Cel mai de jos iaz este cel mai mare, având o lungime de 179 de metri."],
       en: ["The total capacity of the three pools is approximately 450,000 cubic meters.", "They were connected to Jerusalem via two extensive aqueducts.", "Despite their name, the pools date back to the late Second Temple period.", "An 17th-century Ottoman fortress, Qal'at al-Burak, is located nearby.", "The system supplied water to Jerusalem for nearly 2,000 years.", "The lowest pool is the largest, measuring 179 meters in length."],
     },
+    image: "/poi-images/palestine-solomons-pools-history-v2.webp",
   },
   {
     id: "palestine-mar-saba-monastery-history-v2",
@@ -248,6 +255,7 @@ export const palestineHistoryV2: POI[] = [
       ro: ["Mănăstirea a fost fondată în anul 483 d.Hr. de către Sfântul Sava.", "În prezent, în mănăstire locuiesc permanent aproximativ 20 de călugări.", "Femeilor le este interzis în mod tradițional accesul în complexul principal.", "Biserica principală adăpostește moaștele Sfântului Sava cel Sfințit.", "Turnul de veghe a fost construit în secolul al VI-lea de Iustinian I.", "În perioada sa de apogeu (sec. VII), adăpostea peste 300 de călugări."],
       en: ["The monastery was established in 483 CE by Saint Sabas.", "Currently, about 20 monks live permanently within the complex.", "Women are traditionally barred from entering the main monastery building.", "The relics of Saint Sabas the Sanctified are kept in the main church.", "The complex features a tower built by Emperor Justinian I in the 6th century.", "During its peak in the 7th century, it housed more than 300 monks."],
     },
+    image: "/poi-images/palestine-mar-saba-monastery-history-v2.webp",
   },
   {
     id: "palestine-monastery-temptation-history-v2",
@@ -279,6 +287,7 @@ export const palestineHistoryV2: POI[] = [
       ro: ["Mănăstirea este situată la aproximativ 350 de metri deasupra nivelului mării.", "Este accesibilă din Ierihon prin intermediul unei telecabine moderne.", "Construcția înconjoară o peșteră identificată tradițional ca locuința lui Iisus.", "Muntele Quarantania este cunoscut în limba arabă sub numele de Jebel Qarantal.", "Clădirea actuală a fost finalizată în anul 1895.", "Ruinele unei biserici din epoca cruciată sunt integrate în sit."],
       en: ["The monastery is located 350 meters above sea level on the cliffside.", "It is accessible from Jericho via a modern cable car system.", "The structure is built around a cave traditionally identified as Jesus's dwelling.", "Mount Quarantania is also known by its Arabic name, Jebel Qarantal.", "The current monastery building was completed in 1895.", "Ruins of a medieval Crusader-era church are integrated into the site."],
     },
+    image: "/poi-images/palestine-monastery-temptation-history-v2.webp",
   },
   {
     id: "palestine-st-georges-monastery-history-v2",
@@ -310,6 +319,7 @@ export const palestineHistoryV2: POI[] = [
       ro: ["Mănăstirea a fost fondată în jurul anului 480 d.Hr. de Ioan din Teba.", "A fost distrusă de perși în 614 d.Hr. și reconstruită abia în secolul al XIX-lea.", "Este dedicată Sfântului Gheorghe din Hozeva.", "Adăpostește craniul Sfântului Ioan din Hozeva ca relicvă sacră.", "Situl este situat la aproximativ 5 kilometri distanță de Ierihon.", "Mănăstirea este locuită și administrată de călugări ortodocși greci."],
       en: ["The monastery was founded around 480 CE by John of Thebes.", "It was destroyed by Persians in 614 CE and rebuilt in the 19th century.", "The site is dedicated to Saint George of Choziba.", "The monastery church contains the skull of Saint John of Choziba.", "It is located approximately 5 kilometers west of Jericho.", "The complex is currently inhabited by Greek Orthodox monks."],
     },
+    image: "/poi-images/palestine-st-georges-monastery-history-v2.webp",
   },
   {
     id: "palestine-tell-balata-history-v2",
@@ -341,6 +351,7 @@ export const palestineHistoryV2: POI[] = [
       ro: ["Situl a fost locuit încă din mileniul al IV-lea î.Hr.", "Adăpostește un 'templu-fortăreață' masiv din secolul al XVI-lea î.Hr.", "Zidurile orașului aveau o grosime de până la 5 metri.", "Sihem este menționat în textele de execrație egiptene (sec. XIX î.Hr.).", "Un parc arheologic a fost deschis publicului în anul 2014.", "Orașul este situat în pasul strategic dintre muntele Garizim și muntele Ebal."],
       en: ["The site has been inhabited since the 4th millennium BCE.", "It features a massive 'Fortress Temple' dating from the 16th century BCE.", "The ancient city walls reached a thickness of up to 5 meters.", "Shechem is mentioned in Egyptian Execration Texts from the 19th century BCE.", "The archaeological park was officially opened to the public in 2014.", "It is located at the eastern pass between Mount Gerizim and Mount Ebal."],
     },
+    image: "/poi-images/palestine-tell-balata-history-v2.webp",
   },
   {
     id: "palestine-jacobs-well-history-v2",
@@ -372,6 +383,7 @@ export const palestineHistoryV2: POI[] = [
       ro: ["Fântâna are o adâncime de aproximativ 40 de metri (131 picioare).", "Este menționată în Evanghelia după Ioan (4:5–6).", "Biserica modernă de deasupra fântânii a fost finalizată în 2007.", "Prima biserică de pe acest sit a fost construită în jurul anului 380 d.Hr.", "Apa fântânii este considerată și astăzi potabilă și proaspătă.", "Se află în imediata apropiere a sitului arheologic Tell Balata."],
       en: ["The well is approximately 40 meters (131 feet) deep.", "It is explicitly mentioned in the Gospel of John (4:5–6).", "The current church building over the well was completed in 2007.", "The first church on the site was constructed around 380 CE.", "The water from the well is still considered fresh and drinkable today.", "It is located very close to the archaeological site of Tell Balata."],
     },
+    image: "/poi-images/palestine-jacobs-well-history-v2.webp",
   },
   {
     id: "palestine-battir-history-v2",
@@ -403,6 +415,7 @@ export const palestineHistoryV2: POI[] = [
       ro: ["Battir este pe lista Patrimoniului Mondial UNESCO în Pericol din 2014.", "Sistemul de irigații al satului datează încă din epoca romană.", "Terasele sunt susținute de ziduri de piatră construite fără mortar.", "Satul este renumit pentru varietatea locală de vânătă 'Battiri'.", "Este situat de-a lungul rutei antice care lega Ierusalimul de coastă.", "Apa de irigații este distribuită conform unui sistem tradițional de partajare a timpului."],
       en: ["Battir has been a UNESCO World Heritage Site in Danger since 2014.", "The village irrigation system dates back to the Roman period.", "The agricultural terraces are supported by extensive dry-stone walls.", "The area is famous for the unique 'Battiri' eggplant variety.", "It is located along the ancient route from Jerusalem to the Mediterranean coast.", "Irrigation water is distributed according to a traditional time-sharing system."],
     },
+    image: "/poi-images/palestine-battir-history-v2.webp",
   },
   {
     id: "palestine-saint-hilarion-history-v2",
@@ -434,6 +447,7 @@ export const palestineHistoryV2: POI[] = [
       ro: ["Fondată în jurul anului 329 d.Hr. de Sfântul Ilarion", "Acoperă o suprafață de aproximativ 7.500 de metri pătrați", "Inclusă pe lista tentativă UNESCO din anul 2012", "Situată la 15 kilometri sud de orașul Gaza", "Conține vestigiile unei biserici mari din secolul al V-lea", "Abandonată după un cutremur în anul 614 d.Hr."],
       en: ["Founded around 329 AD by Saint Hilarion", "Covers an area of approximately 7,500 square meters", "On the UNESCO World Heritage Tentative List since 2012", "Located 15 kilometers south of Gaza City", "Contains remains of a large 5th-century church", "Abandoned after an earthquake in 614 AD"],
     },
+    image: "/poi-images/palestine-saint-hilarion-history-v2.webp",
   },
   {
     id: "palestine-great-mosque-gaza-history-v2",
@@ -465,6 +479,7 @@ export const palestineHistoryV2: POI[] = [
       ro: ["Suprafață totală de aproximativ 4.100 de metri pătrați", "Minaretul a fost construit în secolul al XIII-lea", "A suferit daune grave în cutremurul din 1927", "Napoleon Bonaparte a vizitat locația în anul 1799", "Minaretul a fost distrus în decembrie 2023", "Fost amplasament al unui templu dedicat zeului Dagon"],
       en: ["Total area of approximately 4,100 square meters", "The minaret was constructed in the 13th century", "Suffered severe damage in the 1927 earthquake", "Napoleon Bonaparte visited the site in 1799", "The minaret was destroyed in December 2023", "Once the site of a temple to the god Dagon"],
     },
+    image: "/poi-images/palestine-great-mosque-gaza-history-v2.webp",
   },
   {
     id: "palestine-qasr-al-basha-history-v2",
@@ -496,6 +511,7 @@ export const palestineHistoryV2: POI[] = [
       ro: ["Construit sub sultanul Baibars în secolul al XIII-lea", "Napoleon Bonaparte a înnoptat aici în anul 1799", "Compus din două etaje cu ziduri masive de piatră", "Renovat complet ca muzeu în anul 2010", "Expune descoperiri din epoca bronzului până în era romană", "Prezintă bolți în cruce tipice stilului mameluc"],
       en: ["Built under Sultan Baibars in the 13th century", "Napoleon Bonaparte stayed here in 1799", "Consists of two floors with massive stone walls", "Extensively renovated as a museum in 2010", "Displays artifacts from the Bronze Age to the Roman era", "Features typical Mamluk cross-vaulted ceilings"],
     },
+    image: "/poi-images/palestine-qasr-al-basha-history-v2.webp",
   },
   {
     id: "palestine-anthedon-harbor-history-v2",
@@ -527,6 +543,7 @@ export const palestineHistoryV2: POI[] = [
       ro: ["Fondat în jurul anului 800 î.Hr. de către filisteni", "Acoperă o suprafață de aproximativ 6 kilometri pătrați", "Parte a listei tentative UNESCO din anul 2012", "Redescoperit în 1995 prin săpături arheologice", "S-au găsit ziduri romane cu o grosime de 8 metri", "Anthedon înseamnă 'orașul florilor' în limba greacă"],
       en: ["Founded around 800 BC by the Philistines", "Covers an area of approximately 6 square kilometers", "Part of the UNESCO Tentative List since 2012", "Rediscovered in 1995 during excavations", "Roman city walls 8 meters thick were found", "Anthedon means 'city of flowers' in Greek"],
     },
+    image: "/poi-images/palestine-anthedon-harbor-history-v2.webp",
   },
   {
     id: "palestine-saint-porphyrius-history-v2",
@@ -558,6 +575,7 @@ export const palestineHistoryV2: POI[] = [
       ro: ["Clădirea originală a fost sfințită în anul 425 d.Hr.", "Zidurile au o grosime de până la 1,8 metri", "Suprafața bisericii este de aproximativ 229 mp", "Găzduiește mormântul Sfântului Porfirie", "Reconstruită de cruciați în jurul anului 1150", "Afectată de un atac aerian în anul 2023"],
       en: ["Original building consecrated in 425 AD", "Walls are up to 1.8 meters thick in some parts", "Church floor area is approximately 229 square meters", "Contains the tomb of Saint Porphyrius", "Rebuilt by Crusaders around the year 1150", "Damaged during an airstrike in 2023"],
     },
+    image: "/poi-images/palestine-saint-porphyrius-history-v2.webp",
   },
   {
     id: "palestine-tell-es-sakan-history-v2",
@@ -589,6 +607,7 @@ export const palestineHistoryV2: POI[] = [
       ro: ["Datat în mileniul al IV-lea î.Hr.", "Acoperă o suprafață totală de aproximativ 5 hectare", "Descoperit accidental abia în anul 1998", "Prezintă ziduri de chirpici de 9 metri grosime", "Situat la aproximativ 500 metri nord de Wadi Ghazzeh", "Abandonat definitiv în jurul anului 2350 î.Hr."],
       en: ["Dates back to the 4th millennium BC", "Covers a total area of about 5 hectares", "Accidentally discovered only in 1998", "Features mudbrick walls 9 meters thick", "Located 500 meters north of Wadi Ghazzeh", "Permanently abandoned around 2350 BC"],
     },
+    image: "/poi-images/palestine-tell-es-sakan-history-v2.webp",
   },
   {
     id: "palestine-jabalia-byzantine-church-history-v2",
@@ -620,6 +639,7 @@ export const palestineHistoryV2: POI[] = [
       ro: ["Prima etapă de construcție datează din anul 444 d.Hr.", "Cuprinde 16 tipuri diferite de motive de mozaic", "Suprafața bisericii este de circa 400 de metri pătrați", "Redeschisă oficial în ianuarie 2022", "Mozaicurile arată păsări, gazele și palmieri", "Suferit daune grave în timpul conflictului din 2023"],
       en: ["First construction phase dates to 444 AD", "Features 16 different types of mosaic motifs", "The church area is approximately 400 square meters", "Officially reopened in January 2022", "Mosaics depict birds, gazelles, and palm trees", "Severely damaged by the conflict in 2023"],
     },
+    image: "/poi-images/palestine-jabalia-byzantine-church-history-v2.webp",
   },
   {
     id: "palestine-nablus-old-city-history-v2",
@@ -651,6 +671,7 @@ export const palestineHistoryV2: POI[] = [
       ro: ["Fondat de romani în anul 72 d.Hr. sub numele de Neapolis", "Există și astăzi aproximativ 20 de fabrici de săpun active", "Împărțit în șapte cartiere diferite (Haret)", "Marea Moschee a fost construită în secolul al XI-lea", "Conține vestigiile unui teatru roman antic", "A suferit daune majore la cutremurul din 1927"],
       en: ["Founded by Romans in 72 AD as Neapolis", "There are about 20 active soap factories today", "Divided into seven distinct quarters (Haret)", "The Great Mosque was constructed in the 11th century", "Contains remains of an ancient Roman theater", "Suffered major damage during the 1927 earthquake"],
     },
+    image: "/poi-images/palestine-nablus-old-city-history-v2.webp",
   },
   {
     id: "palestine-burqin-church-history-v2",
@@ -682,6 +703,7 @@ export const palestineHistoryV2: POI[] = [
       ro: ["Originea datează din secolul al IV-lea sau al V-lea d.Hr.", "Considerată a cincea cea mai veche biserică din lume", "Dispune de trei camere principale în structura sa", "A fost renovată extensiv în secolul al XII-lea", "Este încă o parohie greco-ortodoxă activă", "Biserica din peșteră a fost inițial un mormânt roman"],
       en: ["Origin dates back to the 4th or 5th century AD", "Considered the fifth-oldest church in the world", "Features three main chambers within the structure", "Extensively renovated in the 12th century", "Still an active Greek Orthodox parish today", "The cave church was originally a Roman tomb"],
     },
+    image: "/poi-images/palestine-burqin-church-history-v2.webp",
   },
   {
     id: "palestine-birzeit-old-city-history-v2",
@@ -713,6 +735,7 @@ export const palestineHistoryV2: POI[] = [
       ro: ["Universitatea din Birzeit a fost fondată în 1924", "Arhitectura tradițională din calcar domină orașul", "Situat la o altitudine de aproximativ 800 de metri", "Se află la circa 18 kilometri nord de Ierusalim", "Multe case datează din perioada otomană", "Centrul istoric a primit mai multe premii de restaurare"],
       en: ["Birzeit University was founded in 1924", "Traditional limestone architecture defines the townscape", "Located at an altitude of about 800 meters above sea level", "Situated around 18 kilometers north of Jerusalem", "Many houses date from the Ottoman period", "The historic center has won multiple restoration awards"],
     },
+    image: "/poi-images/palestine-birzeit-old-city-history-v2.webp",
   },
   {
     id: "palestine-taybeh-ruins-history-v2",
@@ -744,6 +767,7 @@ export const palestineHistoryV2: POI[] = [
       ro: ["Biserica a fost construită inițial în secolul al IV-lea", "Conține mozaicuri bizantine bine conservate", "Cruciații au reconstruit biserica în secolul al XII-lea", "Taybeh este situat la 850 de metri deasupra mării", "Ruinele unui castel cruciat se află în apropiere", "Considerat singurul sat pur creștin din Palestina"],
       en: ["The church was originally built in the 4th century", "Contains well-preserved Byzantine floor mosaics", "Crusaders rebuilt the church in the 12th century", "Taybeh is located 850 meters above sea level", "Ruins of a Crusader castle are located nearby", "Considered the only 100% Christian village in Palestine"],
     },
+    image: "/poi-images/palestine-taybeh-ruins-history-v2.webp",
   },
   {
     id: "palestine-nebi-musa-history-v2",
@@ -775,6 +799,7 @@ export const palestineHistoryV2: POI[] = [
       ro: ["Prima structură a fost construită în anul 1269 d.Hr.", "Acoperă o suprafață de circa 5.000 de metri pătrați", "Cuprinde aproximativ 120 de camere pentru pelerini", "Situat la circa 20 de kilometri est de Ierusalim", "Extins considerabil în timpul perioadei otomane", "Centrul festivalului anual de pelerinaj 'Mawsim'"],
       en: ["First structure was built in 1269 AD", "Covers an area of approximately 5,000 square meters", "Consists of about 120 rooms for pilgrims", "Located about 20 kilometers east of Jerusalem", "Significantly expanded during the Ottoman period", "Center of the annual 'Mawsim' pilgrimage festival"],
     },
+    image: "/poi-images/palestine-nebi-musa-history-v2.webp",
   },
   {
     id: "palestine-tell-en-nasbeh-history-v2",
@@ -806,6 +831,7 @@ export const palestineHistoryV2: POI[] = [
       ro: ["Săpăturile majore au avut loc între 1926 și 1935", "Zidurile orașului aveau o grosime de până la 4 metri", "Situat la o altitudine de circa 600 de metri", "Se află la 12 kilometri nord de Ierusalim", "S-au găsit numeroase case din epoca fierului II", "Centru administrativ important în perioada babiloniană"],
       en: ["Major excavations took place from 1926 to 1935", "The city walls were up to 4 meters thick", "Located at an altitude of approximately 600 meters", "Situated 12 kilometers north of Jerusalem", "Numerous Iron Age II houses were discovered", "Important administrative center during the Babylonian period"],
     },
+    image: "/poi-images/palestine-tell-en-nasbeh-history-v2.webp",
   },
   {
     id: "palestine-shiloh-history-v2",
@@ -837,6 +863,7 @@ export const palestineHistoryV2: POI[] = [
       ro: ["Centru religios între 1150 și 1050 î.Hr.", "Locul Tabernacolului timp de 369 de ani (tradiție)", "Identificat arheologic în anul 1873", "Prezintă ziduri de cetate cu o grosime de 5 metri", "S-au găsit două biserici bizantine cu mozaicuri", "Suprafața totală a colinei este de aproximativ 12 acri"],
       en: ["Religious center between 1150 and 1050 BC", "Site of the Tabernacle for 369 years (by tradition)", "Archaeologically identified in the year 1873", "Features city walls with a thickness of 5 meters", "Two Byzantine churches with mosaics were discovered", "Total area of the tel is approximately 12 acres"],
     },
+    image: "/poi-images/palestine-shiloh-history-v2.webp",
   },
   {
     id: "palestine-beitin-history-v2",
@@ -868,6 +895,7 @@ export const palestineHistoryV2: POI[] = [
       ro: ["Primele fortificații datează din anul 1550 î.Hr.", "Situat la o altitudine de 850 de metri deasupra mării", "Situl arheologic cuprinde aproximativ 3,5 hectare", "Prima săpătură științifică a avut loc în anul 1934", "S-au găsit resturile unui rezervor roman mare", "Ruine de biserici bizantine în partea de est a sitului"],
       en: ["First fortifications date to around 1550 BC", "Located at an elevation of 850 meters above sea level", "The archaeological site covers about 3.5 hectares", "First scientific excavation occurred in 1934", "Remains of a large Roman reservoir were discovered", "Byzantine church ruins are located in the east of the site"],
     },
+    image: "/poi-images/palestine-beitin-history-v2.webp",
   },
   {
     id: "palestine-tell-el-farah-history-v2",
@@ -899,6 +927,7 @@ export const palestineHistoryV2: POI[] = [
       ro: ["Situl ocupă o suprafață de aproximativ 6 hectare pe un deal situat la nord de Nablus.", "În Epoca Timpurie a Bronzului (cca. 3000 î.Hr.), orașul era deja puternic fortificat.", "Regele Ieroboam I a stabilit reședința regală la Tirța în secolul al X-lea î.Hr.", "Roland de Vaux a condus nouă campanii de săpături între anii 1946 și 1960.", "O clădire neterminată din secolul al IX-lea î.Hr. atestă mutarea lui Omri la Samaria.", "Așezarea a fost distrusă în jurul anului 723 î.Hr. în timpul campaniei asiriene."],
       en: ["The site covers an area of about 6 hectares on a mound north of Nablus.", "During the Early Bronze Age (c. 3000 BCE), the city was already heavily fortified.", "King Jeroboam I made Tirzah his residence in the 10th century BCE.", "Roland de Vaux led nine seasons of excavations between 1946 and 1960.", "An unfinished building from the 9th century BCE indicates Omri's move to Samaria.", "The settlement was destroyed around 723 BCE during the Assyrian campaign."],
     },
+    image: "/poi-images/palestine-tell-el-farah-history-v2.webp",
   },
   {
     id: "palestine-tell-taannek-history-v2",
@@ -930,6 +959,7 @@ export const palestineHistoryV2: POI[] = [
       ro: ["Orașul este menționat în Vechiul Testament în contextul victoriei Deborei.", "Ernst Sellin a condus primele săpături științifice la sit în anul 1902.", "Au fost descoperite 13 tăblițe cuneiforme datând din secolul al XV-lea î.Hr.", "Un suport de cult din lut cu reliefuri detaliate este unul dintre cele mai faimoase obiecte.", "Taannek a fost unul dintre orașele leviților în teritoriul tribului lui Manase.", "În perioada bizantină, aici a existat o comunitate creștină activă."],
       en: ["The city is mentioned in the Old Testament in connection with Deborah's victory.", "Ernst Sellin conducted the first scientific excavations at the site in 1902.", "Thirteen cuneiform tablets from the 15th century BCE were discovered here.", "A clay cult stand with detailed reliefs is one of the most famous findings.", "Taannek was one of the Levitical cities within the territory of Manasseh.", "A Christian community existed at the site during the Byzantine period."],
     },
+    image: "/poi-images/palestine-tell-taannek-history-v2.webp",
   },
   {
     id: "palestine-tel-dothan-history-v2",
@@ -961,6 +991,7 @@ export const palestineHistoryV2: POI[] = [
       ro: ["Joseph P. Free a condus săpături extinse între anii 1953 și 1964.", "Colina se ridică la aproximativ 60 de metri deasupra câmpiei înconjurătoare.", "Au fost descoperite ziduri masive de apărare din Epoca Mijlocie a Bronzului.", "În Epoca Fierului, Dothan a fost un centru administrativ important al Regatului Israel.", "Situl este menționat în A Doua Carte a Regilor în legătură cu profetul Elisei.", "O cisternă antică de la fața locului este numită tradițional 'Groapa lui Iosif'."],
       en: ["Joseph P. Free led extensive excavations at the site between 1953 and 1964.", "The mound rises approximately 60 meters above the surrounding plain.", "Massive city walls from the Middle Bronze Age have been uncovered.", "During the Iron Age, Dothan was an important administrative center for Israel.", "The site is mentioned in 2 Kings in connection with the prophet Elisha.", "An ancient cistern on the site is traditionally identified as 'Joseph's Pit'."],
     },
+    image: "/poi-images/palestine-tel-dothan-history-v2.webp",
   },
   {
     id: "palestine-archelais-history-v2",
@@ -992,6 +1023,7 @@ export const palestineHistoryV2: POI[] = [
       ro: ["Orașul a fost fondat în jurul anului 4 î.Hr. ca o așezare planificată.", "Archelaus a deviat apa dintr-un sat vecin pentru a iriga livezile de curmali.", "Situl este reprezentat pe celebra hartă în mozaic de la Madaba.", "Basilica excavată datează de la sfârșitul secolului V sau începutul secolului VI.", "Inscripțiile găsite menționează un episcop pe nume Porphyrios.", "Mozaicurile acoperă o suprafață de peste 150 de metri pătrați în nava centrală."],
       en: ["The city was founded around 4 BCE as a planned royal settlement.", "Archelaus diverted water from a nearby village to irrigate his date groves.", "The site is depicted on the famous 6th-century Madaba Mosaic Map.", "The excavated basilica dates to the late 5th or early 6th century.", "Inscriptional evidence mentions a bishop named Porphyrios.", "The mosaics cover an area of over 150 square meters in the church nave."],
     },
+    image: "/poi-images/palestine-archelais-history-v2.webp",
   },
   {
     id: "palestine-baptism-site-history-v2",
@@ -1023,6 +1055,7 @@ export const palestineHistoryV2: POI[] = [
       ro: ["Situl se află la aproximativ 10 kilometri est de Ierihon, în Valea Iordanului.", "Se crede că aici israeliții au traversat Iordanul sub conducerea lui Iosua.", "Zona a fost închisă și declarată zonă militară între anii 1967 și 2011.", "Aproximativ 4000 de mine terestre au fost eliminate pentru a permite accesul sigur.", "Există resturi ale unei capele bizantine care stătea pe piloni deasupra apei.", "În fiecare an, în luna ianuarie, mii de pelerini sărbătoresc aici Boboteaza."],
       en: ["The site is located about 10 kilometers east of Jericho in the Jordan Valley.", "It is traditionally associated with the Israelites crossing the Jordan under Joshua.", "The area was a closed military zone from 1967 until its reopening in 2011.", "Approximately 4,000 landmines were cleared from the vicinity to ensure safety.", "Remains of a Byzantine chapel built on piers over the river have been found.", "Thousands of pilgrims gather here every January to celebrate Epiphany."],
     },
+    image: "/poi-images/palestine-baptism-site-history-v2.webp",
   },
   {
     id: "palestine-khan-al-lubban-history-v2",
@@ -1054,6 +1087,7 @@ export const palestineHistoryV2: POI[] = [
       ro: ["Hanul a fost construit în secolul al XVI-lea, în timpul domniei lui Suleiman Magnificul.", "Numele 'Lubban' face referire la tămâia care era comercializată în această zonă.", "Clădirea are o lungime de aproximativ 40 de metri și o lățime de 35 de metri.", "Dispune de o poartă masivă care era închisă noaptea pentru siguranță.", "În apropiere se află vestigiile unui canal de irigații din perioada antică.", "Hanul făcea parte dintr-o rețea de refugii situate la distanță de o zi de mers."],
       en: ["The Khan was constructed in the 16th century during the reign of Suleiman the Magnificent.", "The name 'Lubban' refers to the frankincense that was once traded in the region.", "The building measures approximately 40 meters in length and 35 meters in width.", "It features a massive gatehouse that was secured at night for safety.", "Remains of an ancient irrigation channel can be seen in the immediate vicinity.", "The Khan was part of a network of inns spaced a day's journey apart."],
     },
+    image: "/poi-images/palestine-khan-al-lubban-history-v2.webp",
   },
   {
     id: "palestine-deir-ghassaneh-history-v2",
@@ -1085,6 +1119,7 @@ export const palestineHistoryV2: POI[] = [
       ro: ["Satul a fost sediul clanului Bani Zeid, care controla 24 de sate înconjurătoare.", "În Deir Ghassaneh se află peste 12 clădiri istorice de tip palat.", "Festivalul anual al uleiului de măsline celebrează tradiția agricolă a localității.", "Situl adăpostește Maqam-ul lui Sheikh al-Khawwas, un sanctuar important.", "Sub clădiri se găsesc cisterne antice de apă și prese de ulei istorice.", "Satul a fost inclus de UNESCO în 2004 ca parte a peisajului cultural palestinian."],
       en: ["The village was the seat of the Bani Zeid clan, which controlled 24 surrounding villages.", "There are over 12 historic palace structures within Deir Ghassaneh.", "An annual olive oil festival celebrates the village's deep-rooted agricultural traditions.", "The site houses the Maqam of Sheikh al-Khawwas, a significant religious shrine.", "Ancient water cisterns and traditional oil presses are preserved beneath the houses.", "The village was listed by UNESCO in 2004 as part of the cultural landscape of Palestine."],
     },
+    image: "/poi-images/palestine-deir-ghassaneh-history-v2.webp",
   },
   {
     id: "palestine-aboud-history-v2",
@@ -1116,6 +1151,7 @@ export const palestineHistoryV2: POI[] = [
       ro: ["Biserica Sfânta Maria a fost fondată încă din secolul al V-lea.", "Aboud este situat la aproximativ 22 de kilometri nord-vest de Ramallah.", "În sat se află nouă ruine de biserici istorice din diferite perioade.", "Biserica Sfânta Barbara este situată pe o colină ce domină satul.", "În împrejurimi au fost descoperite inscripții aramaice din secolul al VI-lea.", "Satul păstrează rămășițele unui apeduct antic din perioada romană."],
       en: ["The Church of Saint Mary was originally founded in the 5th century.", "Aboud is located approximately 22 kilometers northwest of Ramallah.", "The village contains nine historic church ruins from various archaeological periods.", "The Church of Saint Barbara is perched on a hill overlooking the village.", "Aramaic inscriptions dating to the 6th century have been discovered nearby.", "The village features remains of an ancient Roman-style aqueduct."],
     },
+    image: "/poi-images/palestine-aboud-history-v2.webp",
   },
   {
     id: "palestine-jifna-history-v2",
@@ -1147,6 +1183,7 @@ export const palestineHistoryV2: POI[] = [
       ro: ["Iosephus Flavius a menționat Gophna ca fiind al doilea oraș ca importanță din Iudeea.", "Biserica Sfântul Gheorghe a fost construită în secolul al VI-lea peste ruine antice.", "Jifna a fost pentru o perioadă reședința unor guvernatori romani regionali.", "Satul găzduiește anual Festivalul Caiselor, atrăgând vizitatori din toată Palestina.", "Castelul medieval a fost ridicat în perioada cruciată, în secolul al XII-lea.", "Au fost descoperite vestigiile unei prese de ulei antice din perioada romană târzie."],
       en: ["Josephus Flavius mentioned Gophna as the second most important city in Judea after Jerusalem.", "St. George's Church was constructed in the 6th century over ancient ruins.", "Jifna once served as a residence for regional Roman governors.", "The village hosts an annual Apricot Festival that attracts visitors from across Palestine.", "The medieval castle was built during the Crusader period in the 12th century.", "Remains of an ancient oil press dating back to the Late Roman era were discovered here."],
     },
+    image: "/poi-images/palestine-jifna-history-v2.webp",
   },
   {
     id: "palestine-kur-village-history-v2",
@@ -1178,6 +1215,7 @@ export const palestineHistoryV2: POI[] = [
       ro: ["Clanul Jayyousi controla de aici 22 de sate din împrejurimi.", "În sat se află aproximativ 25 de clădiri istorice din perioada otomană.", "Palatele au fost construite din calcar local, cu ziduri groase de un metru.", "Kur este situat la o altitudine de aproximativ 400 de metri deasupra mării.", "În centrul satului se găsește un Maqam istoric (sanctuar).", "Satul a fost selectat pentru proiecte de restaurare de către organizația Riwaq."],
       en: ["The Jayyousi clan governed 22 surrounding villages from this hilltop seat.", "There are approximately 25 historic Ottoman-era structures in the village.", "The palaces were constructed using local limestone with walls over a meter thick.", "Kur is situated at an elevation of about 400 meters above sea level.", "A historic Maqam (shrine) is located at the heart of the village.", "The village has been a focus for major restoration projects by the Riwaq organization."],
     },
+    image: "/poi-images/palestine-kur-village-history-v2.webp",
   },
   {
     id: "palestine-arraba-palaces-history-v2",
@@ -1209,6 +1247,7 @@ export const palestineHistoryV2: POI[] = [
       ro: ["Familia Abd al-Hadi deținea la un moment dat peste 60 de sate în Palestina.", "În Arraba există un total de 13 palate datând din această eră.", "Hussein Abd al-Hadi, guvernator de Sidon, a comandat cele mai fastuoase clădiri.", "Unele palate dispun de pasaje subterane folosite în caz de urgență.", "Arhitectura combină elemente otomane cu tradiții de construcție locale.", "Cea mai mare clădire din complex are mai mult de 30 de camere."],
       en: ["The Abd al-Hadi family once owned and managed over 60 villages in Palestine.", "There are a total of 13 surviving palaces from this era in Arraba.", "Hussein Abd al-Hadi, governor of Sidon, commissioned the grandest structures.", "Some of the palaces feature secret underground passages for use during emergencies.", "The architecture blends imperial Ottoman styles with local building traditions.", "The largest building in the complex contains more than 30 separate rooms."],
     },
+    image: "/poi-images/palestine-arraba-palaces-history-v2.webp",
   },
   {
     id: "palestine-sanur-citadel-history-v2",
@@ -1240,6 +1279,7 @@ export const palestineHistoryV2: POI[] = [
       ro: ["Fortăreața a fost construită în secolul al XVIII-lea de către clanul șeicului Jarrar.", "Ahmed al-Jazzar, pașa de Acra, a asediat Sanurul fără succes în anul 1790.", "Zidurile citadelei au o grosime de până la 3 metri în anumite secțiuni.", "În 1830, fortăreața a fost grav avariată după un asediu lung condus de Ibrahim Pașa.", "Situl este amplasat strategic deasupra fertilei Câmpii Sanur.", "În interiorul zidurilor se află o moschee istorică și mai multe cartiere de locuit."],
       en: ["The fortress was constructed in the 18th century by the powerful Jarrar clan.", "Ahmed al-Jazzar, the Pasha of Acre, unsuccessfully besieged Sanur in 1790.", "The citadel's defensive walls are up to 3 meters thick in several areas.", "In 1830, the fortress was severely damaged after a prolonged siege by Ibrahim Pasha.", "The site is strategically positioned overlooking the fertile Sanur valley.", "The interior contains a historic mosque and several residential quarters."],
     },
+    image: "/poi-images/palestine-sanur-citadel-history-v2.webp",
   },
   {
     id: "palestine-via-dolorosa-history-v2",
@@ -1271,6 +1311,7 @@ export const palestineHistoryV2: POI[] = [
       ro: ["Traseul are o lungime de aproximativ 600 de metri și traversează cartierele musulman și creștin.", "Primele nouă stațiuni sunt în aer liber, iar ultimele cinci se află în interiorul Bisericii Sfântului Mormânt.", "Stațiunea III marchează locul unde se spune că Iisus a căzut pentru prima dată sub cruce.", "În fiecare an, în Vinerea Mare, are loc o procesiune masivă cu mii de participanți.", "La stațiunea IV, o capelă comemorează întâlnirea lui Iisus cu mama Sa.", "Multe stațiuni sunt marcate prin capele mici sau reliefuri pe zidurile clădirilor."],
       en: ["The route is approximately 600 meters long, winding through the Muslim and Christian quarters.", "The first nine stations are outdoors, while the final five are inside the Church of the Holy Sepulchre.", "Station III marks the spot where tradition says Jesus fell for the first time under the cross.", "A massive procession takes place every Good Friday, drawing thousands of participants.", "At Station IV, an Armenian chapel commemorates Jesus' encounter with his mother.", "Most stations are clearly marked by small chapels or metal plaques on the building walls."],
     },
+    image: "/poi-images/palestine-via-dolorosa-history-v2.webp",
   },
   {
     id: "palestine-rachel-tomb-history-v2",
@@ -1302,5 +1343,6 @@ export const palestineHistoryV2: POI[] = [
       ro: ["Structura actuală datează în mare parte din perioada otomană a secolului al XIX-lea.", "Sir Moses Montefiore a finanțat o renovare majoră a mormântului în anul 1841.", "Situl este menționat în Geneză ca fiind pe drumul spre Efrata.", "Pentru musulmani, locul este cunoscut și sub numele de Moscheea Bilal bin Rabah.", "Mormântul este astăzi înconjurat de ziduri de securitate înalte.", "Este un loc tradițional unde femeile vin să se roage pentru fertilitate."],
       en: ["The current structure largely dates from the Ottoman period in the 19th century.", "Sir Moses Montefiore funded a significant renovation of the tomb in 1841.", "The site is mentioned in Genesis as being on the road to Ephrath.", "For Muslims, the site is also known as the Bilal bin Rabah Mosque.", "The tomb complex is currently surrounded by high security walls.", "It is a traditional site for women to offer prayers for fertility and children."],
     },
+    image: "/poi-images/palestine-rachel-tomb-history-v2.webp",
   }
 ];

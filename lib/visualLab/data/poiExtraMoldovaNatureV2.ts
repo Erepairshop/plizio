@@ -1033,7 +1033,8 @@ export const moldovaNatureV2: POI[] = [
       hu: ["Becsült kora több mint 700 év", "Faj: Kocsányos tölgy (Quercus robur)", "Államilag védett természeti emlék", "Törzskerülete meghaladja a 7,5 métert", "Cobîlea falu központjában található", "Nagy Istvánhoz kapcsolódó legendák övezik", "Moldova legidősebb fájának tartják", "A nemzeti örökség egyik legfontosabb szimbóluma"],
       ro: ["Vârstă estimată de peste 700 de ani", "Specie: Stejar pedunculat (Quercus robur)", "Protejat ca monument al naturii de către stat", "Circumferința trunchiului depășește 7,5 metri", "Situat în centrul satului Cobîlea", "Asociat cu legendele lui Ștefan cel Mare", "Considerat cel mai bătrân copac din Moldova", "Un simbol cheie al patrimoniului național"],
       en: ["Estimating age over 700 years", "Species: Quercus robur (Pedunculate Oak)", "Protected as a natural monument by the state", "Circumference of the trunk exceeds 7.5 meters", "Located in the center of Cobîlea village", "Associated with legends of Stephen the Great", "Considered the oldest tree in Moldova", "A key symbol of national heritage and longevity"]
-    }
+    },
+    image: "/poi-images/moldova-cobilea-oak-nature-v2.webp",
   },
   {
     id: "moldova-jeloboc-spring-nature-v2",
@@ -1096,7 +1097,8 @@ export const moldovaNatureV2: POI[] = [
       hu: ["Teljes hossza 92 kilométer", "A Răut folyó bal oldali mellékfolyója", "Forrása Plop falu közelében található", "A Bălți-sztyeppén folyik keresztül", "A völgy szélessége eléri a 3-4 km-t", "Több mezőgazdasági célú víztározót táplál", "Nyáron nagyon alacsony a vízhozama vagy kiszárad", "Aszimmetrikus völgy-szerkezet jellemzi"],
       ro: ["Lungimea totală este de 92 de kilometri", "Un afluent de stânga al râului Răut", "Izvorul este lângă satul Plop", "Curge prin Stepa Bălțiului", "Lățimea văii atinge până la 3-4 km", "Alimentează mai multe lacuri de acumulare artificiale", "Are un debit foarte scăzut sau seacă vara", "Caracterizat printr-o structură asimetrică a văii"],
       en: ["Total length is 92 kilometers", "A left tributary of the Răut River", "Source is near Plop village, Dondușeni district", "Flows through the Bălți Steppe region", "The valley width reaches up to 3-4 km", "Feeds several artificial reservoirs for agriculture", "Experiences very low flow or dries up in summer", "Characterized by an asymmetrical valley structure"]
-    }
+    },
+    image: "/poi-images/moldova-cubolta-river-nature-v2.webp",
   },
   {
     id: "moldova-ceadir-lunga-steppe-nature-v2",
@@ -1128,7 +1130,8 @@ export const moldovaNatureV2: POI[] = [
       hu: ["A történelmi Budzsák-sztyeppe egy darabját őrzi", "Gagauzia autonóm régióban található", "Száraz mikroklíma jellemzi", "Ritka árvalányhaj fajok (Stipa) otthona", "Génbankként szolgál a helyi flóra számára", "Kulcsfontosságú a sztyeppei ökoszisztémák tanulmányozásában", "A mezőgazdaság előtti tájat képviseli", "A regionális biodiverzitás megőrzése érdekében védett"],
       ro: ["Păstrează un fragment din stepa istorică a Bugeacului", "Situată în regiunea autonomă Găgăuzia", "Caracterizată printr-un microclimat arid", "Adăpostește specii rare de colilie (Stipa)", "Servește ca bancă de gene pentru flora locală", "Zonă crucială pentru studierea ecosistemelor de stepă", "Reprezintă peisajul pre-agricol", "Protejată pentru conservarea biodiversității regionale"],
       en: ["Preserves a fragment of the historic Bugeac Steppe", "Located in the autonomous region of Gagauzia", "Characterized by an arid microclimate", "Home to rare species of feather grass (Stipa)", "Serves as a gene bank for local flora", "Area is crucial for studying steppe ecosystems", "Represents the pre-agricultural landscape", "Protected to conserve regional biodiversity"]
-    }
+    },
+    image: "/poi-images/moldova-ceadir-lunga-steppe-nature-v2.webp",
   },
   {
     id: "moldova-hirbovat-forest-nature-v2",
@@ -1160,7 +1163,8 @@ export const moldovaNatureV2: POI[] = [
       hu: ["Az Anenii Noi járásban található", "Területe 2221 hektár", "Idős tölgy- és kőriserdőket véd", "Fontos élőhely az őzek és vaddisznók számára", "Az Alsó-Dnyeszter medencéjében fekszik", "Fontos erdészeti kutatási helyszín", "Domborzata dombos", "Magas biodiverzitás egy főként mezőgazdasági tájban"],
       ro: ["Situată în raionul Anenii Noi", "Acoperă o suprafață de 2.221 de hectare", "Protejează păduri seculare de stejar și frasin", "Habitat important pentru căprioare și mistreți", "Situată în bazinul inferior al Nistrului", "Servește ca un sit cheie pentru cercetarea silvică", "Caracterizată printr-un relief deluros", "Biodiversitate ridicată într-un peisaj predominant agricol"],
       en: ["Located in the Anenii Noi district", "Covers an area of 2,221 hectares", "Protects old-growth oak and ash forests", "Important habitat for roe deer and wild boar", "Situated in the lower Dniester River basin", "Serves as a key site for forestry research", "Characterized by a hilly relief", "High biodiversity in a predominantly agricultural landscape"]
-    }
+    },
+    image: "/poi-images/moldova-hirbovat-forest-nature-v2.webp",
   },
   {
     id: "moldova-gura-bicului-reserve-nature-v2",
@@ -1254,6 +1258,7 @@ export const moldovaNatureV2: POI[] = [
       hu: ["A transznisztriai Camenca járásban található", "Mély, kanyonszerű szurdok, akár 120 méter mély", "A Dnyeszter egyik mellékfolyója vájta", "Különleges, hűvösebb mikroklímával rendelkezik", "Gazdag és változatos erdei növényvilágnak ad otthont", "Számos, a régióban ritka növényfajt tartalmaz", "Geológiai és tájképi emlékműnek számít", "Fontos természetes menedékhely a helyi vadvilág számára"],
       ro: ["Situată în raionul Camenca din Transnistria", "Un defileu adânc, asemănător unui canion, adânc de până la 120 de metri", "Săpat de un afluent al râului Nistru", "Prezintă un microclimat distinct, mai răcoros", "Susține o floră forestieră bogată și diversă", "Conține numeroase specii de plante rare pentru regiune", "Considerat un monument geologic și peisagistic", "Un refugiu natural important pentru fauna locală"],
       en: ["Located in the Camenca district of Transnistria", "A deep, canyon-like gorge up to 120 meters deep", "Carved by a tributary of the Dniester River", "Features a distinct, cooler microclimate", "Supports a rich and diverse forest flora", "Contains numerous rare plant species for the region", "Considered a geological and landscape monument", "An important natural refuge for local wildlife"]
-    }
+    },
+    image: "/poi-images/moldova-valea-adinca-gorge-nature-v2.webp",
   }
 ];

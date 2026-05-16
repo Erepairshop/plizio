@@ -32,6 +32,7 @@ export const finlandLandmarksV2: POI[] = [
       ro: ["Finalizată în 1756", "Arhitect Matti Honka", "Plan în formă de cruce", "Capacitate 450 locuri", "Restaurată major în 1956", "Situată în Siikajoki"],
       en: ["Built in 1756", "Designed by Matti Honka", "Cruciform floor plan", "Seats 450 worshippers", "Major renovation in 1956", "Located in Siikajoki region"],
     },
+    image: "/poi-images/finland-paavola-church-landmarks-v2.webp",
   },
   {
     id: "finland-pyhanta-church-landmarks-v2",
@@ -64,6 +65,7 @@ export const finlandLandmarksV2: POI[] = [
       ro: ["Anul construcției: 1909", "Arhitect: W. G. Palmqvist", "Pictură altar din 1912", "Capacitate: 300 locuri"],
       en: ["Completed in 1909", "Architect: W. G. Palmqvist", "Altarpiece from 1912", "Capacity of 300 people"],
     },
+    image: "/poi-images/finland-pyhanta-church-landmarks-v2.webp",
   },
   {
     id: "finland-ruovesi-church-landmarks-v2",
@@ -96,6 +98,7 @@ export const finlandLandmarksV2: POI[] = [
       ro: ["Anul finalizării: 1778", "Meșter: Matti Åkerblom", "Nume: Sophia Magdalena", "Capacitate: 1100 locuri"],
       en: ["Completed in 1778", "Builder: Matti Åkerblom", "Name: Sophia Magdalena", "Seats 1,100 people"],
     },
+    image: "/poi-images/finland-ruovesi-church-landmarks-v2.webp",
   },
   {
     id: "finland-toivakka-church-landmarks-v2",
@@ -128,6 +131,7 @@ export const finlandLandmarksV2: POI[] = [
       ro: ["Construită în 1882", "Arhitect L. I. Lindqvist", "Picturi pop-art din 1972", "Pellervo Lukumies (artist)", "Stil neogotic exterior", "Situată în Finlanda Centrală"],
       en: ["Completed in 1882", "Architect L. I. Lindqvist", "Pop-art ceiling art 1972", "Artist Pellervo Lukumies", "Wooden structure", "Central Finland location"],
     },
+    image: "/poi-images/finland-toivakka-church-landmarks-v2.webp",
   },
   {
     id: "finland-kauhajoki-church-landmarks-v2",
@@ -160,6 +164,7 @@ export const finlandLandmarksV2: POI[] = [
       ro: ["Construită în 1958", "Arhitect: Veikko Larkas", "Vechea biserică arsă în 1956", "Pictor altar: Eero Hiironen"],
       en: ["Completed in 1958", "Architect: Veikko Larkas", "Old church burned in 1956", "Altar by Eero Hiironen"],
     },
+    image: "/poi-images/finland-kauhajoki-church-landmarks-v2.webp",
   },
   {
     id: "finland-kuhmo-church-landmarks-v2",
@@ -192,6 +197,7 @@ export const finlandLandmarksV2: POI[] = [
       ro: ["Anul finalizării: 1816", "Arhitect Jacob Rijf", "Capacitate 1500 persoane", "Stil neoclasic", "Orgă instalată în 1977", "Regiunea Kainuu"],
       en: ["Finished in 1816", "Architect Jacob Rijf", "Capacity of 1500 seats", "Neoclassical features", "Organ built in 1977", "Located in Kainuu region"],
     },
+    image: "/poi-images/finland-kuhmo-church-landmarks-v2.webp",
   },
   {
     id: "finland-ilmajoki-church-landmarks-v2",
@@ -224,6 +230,7 @@ export const finlandLandmarksV2: POI[] = [
       ro: ["Anul construcției: 1766", "Meșter: Matti Honka", "Clopotniță din 1751", "Formă de cruce greacă"],
       en: ["Completed in 1766", "Builder: Matti Honka", "Bell tower built 1751", "Type: Wooden cross church"],
     },
+    image: "/poi-images/finland-ilmajoki-church-landmarks-v2.webp",
   },
   {
     id: "finland-kangasala-church-landmarks-v2",
@@ -256,6 +263,7 @@ export const finlandLandmarksV2: POI[] = [
       ro: ["Construită în 1767", "Material: piatră de câmp", "Capacitate 850 locuri", "Înălțime turn: 45 m", "Legenda pietrei sângerânde", "Lângă orașul Tampere"],
       en: ["Built in 1767", "Fieldstone construction", "Capacity 850 seats", "Tower height 45 meters", "Legend of the weeping stone", "Located near Tampere"],
     },
+    image: "/poi-images/finland-kangasala-church-landmarks-v2.webp",
   },
   {
     id: "finland-kuhmalahti-church-landmarks-v2",
@@ -288,6 +296,7 @@ export const finlandLandmarksV2: POI[] = [
       ro: ["Finalizată în 1846", "Arhitect: Ernst Lohrmann", "Material: Lemn", "Regiune: Pirkanmaa"],
       en: ["Completed in 1846", "Architect: Ernst Lohrmann", "Material: Wood", "Region: Pirkanmaa"],
     },
+    image: "/poi-images/finland-kuhmalahti-church-landmarks-v2.webp",
   },
   {
     id: "finland-kangasniemi-church-landmarks-v2",
@@ -320,6 +329,7 @@ export const finlandLandmarksV2: POI[] = [
       ro: ["Finalizată în 1814", "Arhitect Charles Bassi", "Stil Empire", "Capacitate 1500 persoane", "Malul lacului Puula", "Clopotniță separată"],
       en: ["Completed in 1814", "Designed by Charles Bassi", "Empire style features", "Seats 1500 people", "On Lake Puula shore", "Separate bell tower"],
     },
+    image: "/poi-images/finland-kangasniemi-church-landmarks-v2.webp",
   },
   {
     id: "finland-kannus-church-landmarks-v2",
@@ -352,6 +362,7 @@ export const finlandLandmarksV2: POI[] = [
       ro: ["Anul construcției: 1817", "Constructor Matti Kuorikoski", "Regiunea Ostrobotnia Centrală", "Capacitate 600 locuri", "Plan cruciform", "Renovare centenară 1917"],
       en: ["Built in 1817", "Built by Matti Kuorikoski", "Central Ostrobothnia", "Capacity 600 seats", "Cruciform shape", "Renovated in 1917"],
     },
+    image: "/poi-images/finland-kannus-church-landmarks-v2.webp",
   },
   {
     id: "finland-kankaanpaa-church-landmarks-v2",
@@ -384,6 +395,7 @@ export const finlandLandmarksV2: POI[] = [
       ro: ["Finalizată în 1839", "Arhitect: C. L. Engel", "Stil: Empire", "Material: Piatră"],
       en: ["Completed in 1839", "Architect: C. L. Engel", "Style: Empire", "Material: Stone"],
     },
+    image: "/poi-images/finland-kankaanpaa-church-landmarks-v2.webp",
   },
   {
     id: "finland-karijoki-church-landmarks-v2",
@@ -416,6 +428,7 @@ export const finlandLandmarksV2: POI[] = [
       ro: ["Anul finalizării: 1835", "Meșter: S. Köhlström", "Tip: Navă longitudinală", "Material: Lemn"],
       en: ["Completed in 1835", "Builder: S. Köhlström", "Type: Long church", "Material: Wood"],
     },
+    image: "/poi-images/finland-karijoki-church-landmarks-v2.webp",
   },
   {
     id: "finland-karlaby-church-landmarks-v2",
@@ -448,6 +461,7 @@ export const finlandLandmarksV2: POI[] = [
       ro: ["Finalizată în 2004", "Arhitect Anssi Lassila", "50.000 de șindrile manuale", "Fără cuie de metal", "Finisaj cu smoală tradițională", "Premiul pentru Construcții din Lemn"],
       en: ["Completed in 2004", "Architect Anssi Lassila", "50,000 handmade shingles", "No modern nails used", "Traditional tar coating", "Wood Architecture Prize 2004"],
     },
+    image: "/poi-images/finland-karlaby-church-landmarks-v2.webp",
   },
   {
     id: "finland-karstula-church-landmarks-v2",
@@ -480,6 +494,7 @@ export const finlandLandmarksV2: POI[] = [
       ro: ["Finalizată în 1853", "Arhitect: A. F. Granstedt", "Formă: Cruce greacă", "A patra biserică locală"],
       en: ["Completed in 1853", "Architect: A. F. Granstedt", "Type: Cross church", "4th church in the parish"],
     },
+    image: "/poi-images/finland-karstula-church-landmarks-v2.webp",
   },
   {
     id: "finland-karttula-church-landmarks-v2",
@@ -512,6 +527,7 @@ export const finlandLandmarksV2: POI[] = [
       ro: ["Construită în 1873", "Stil neogotic", "Arhitect Hampus Dalström", "Capacitate 1100 locuri", "Construcție din cărămidă", "Regiunea Savo de Nord"],
       en: ["Built in 1873", "Neo-Gothic style", "Architect Hampus Dalström", "Capacity 1100 seats", "Brick construction", "North Savo region"],
     },
+    image: "/poi-images/finland-karttula-church-landmarks-v2.webp",
   },
   {
     id: "finland-karvia-church-landmarks-v2",
@@ -544,6 +560,7 @@ export const finlandLandmarksV2: POI[] = [
       ro: ["Finalizată în 1798", "Arhitect Salomon Köhlström", "Regiunea Satakunta", "Capacitate 500 locuri", "Structură din lemn în cruce", "Orgă din anul 1953"],
       en: ["Finished in 1798", "Architect Salomon Köhlström", "Satakunta region", "Seats 500 people", "Wooden cruciform design", "Organ installed in 1953"],
     },
+    image: "/poi-images/finland-karvia-church-landmarks-v2.webp",
   },
   {
     id: "finland-kaukonen-church-landmarks-v2",
@@ -576,6 +593,7 @@ export const finlandLandmarksV2: POI[] = [
       ro: ["Finalizată în 1950", "Locație: Kittilä, Laponia", "Construcție postbelică", "Stil: Modern simplu"],
       en: ["Completed in 1950", "Location: Kittilä, Lapland", "Post-war reconstruction", "Style: Modernist"],
     },
+    image: "/poi-images/finland-kaukonen-church-landmarks-v2.webp",
   },
   {
     id: "finland-keitele-church-landmarks-v2",
@@ -608,6 +626,7 @@ export const finlandLandmarksV2: POI[] = [
       ro: ["Construită în 1876", "Arhitect: A. H. Dalström", "Material: Lemn", "Regiune: Savo de Nord"],
       en: ["Completed in 1876", "Architect: A. H. Dalström", "Material: Wood", "Region: Northern Savonia"],
     },
+    image: "/poi-images/finland-keitele-church-landmarks-v2.webp",
   },
   {
     id: "finland-kellokoski-church-landmarks-v2",
@@ -640,6 +659,7 @@ export const finlandLandmarksV2: POI[] = [
       ro: ["Anul construcției: 1800", "Locație: Tuusula", "Biserică de uzină", "Material: Lemn"],
       en: ["Completed in 1800", "Location: Tuusula", "Original ironworks church", "Material: Wood"],
     },
+    image: "/poi-images/finland-kellokoski-church-landmarks-v2.webp",
   },
   {
     id: "finland-kemijarvi-church-landmarks-v2",
@@ -672,6 +692,7 @@ export const finlandLandmarksV2: POI[] = [
       ro: ["Sfințită în 1950", "Arhitect Bertel Liljequist", "Capacitate 850 locuri", "Clopotniță din 1774 (originală)", "Situată în Laponia", "Vechea biserică distrusă în 1944"],
       en: ["Consecrated in 1950", "Architect Bertel Liljequist", "Seats 850 worshippers", "Original 1774 bell tower remains", "Located in Lapland", "Predecessor destroyed in 1944"],
     },
+    image: "/poi-images/finland-kemijarvi-church-landmarks-v2.webp",
   },
   {
     id: "finland-kempele-church-landmarks-v2",
@@ -704,6 +725,7 @@ export const finlandLandmarksV2: POI[] = [
       ro: ["Construită în 1691", "Picturi de Mikael Toppelius", "Printre cele mai vechi din lemn", "Regiunea Ostrobotnia de Nord", "Restaurată în 1990", "Statut de biserică-muzeu"],
       en: ["Built in 1691", "Paintings by Mikael Toppelius", "One of oldest wooden churches", "North Ostrobothnia region", "Restored in 1990", "Functions as museum church"],
     },
+    image: "/poi-images/finland-kempele-church-landmarks-v2.webp",
   },
   {
     id: "finland-kerimaki-church-landmarks-v2",
@@ -736,6 +758,7 @@ export const finlandLandmarksV2: POI[] = [
       ro: ["Finalizată în 1847", "Cea mai mare biserică de lemn", "Peste 3000 de locuri", "Lungime: 45 metri", "Înălțime cupolă: 27 metri", "Arhitect A. F. Granstedt"],
       en: ["Completed in 1847", "Largest wooden church globally", "3,000 sitting capacity", "Length 45 meters", "Dome height 27 meters", "Architect A. F. Granstedt"],
     },
+    image: "/poi-images/finland-kerimaki-church-landmarks-v2.webp",
   },
   {
     id: "finland-kesalahti-church-landmarks-v2",
@@ -768,6 +791,7 @@ export const finlandLandmarksV2: POI[] = [
       ro: ["Finalizată în 1950", "Arhitect Aulis Blomstedt", "Capacitate 600 locuri", "Regiunea Karelia de Nord", "Înlocuiește biserica arsă în 1941", "Lângă lacul Puruvesi"],
       en: ["Completed in 1950", "Architect Aulis Blomstedt", "Seats 600 people", "North Karelia region", "Replaced church burned in 1941", "Near Lake Puruvesi"],
     },
+    image: "/poi-images/finland-kesalahti-church-landmarks-v2.webp",
   },
   {
     id: "finland-keskilahti-church-landmarks-v2",
@@ -800,6 +824,7 @@ export const finlandLandmarksV2: POI[] = [
       ro: ["Finalizată în 1950", "Locație: Taivalkoski", "Funcție: Capelă cimitir", "Stil: Modern nordic"],
       en: ["Completed in 1950", "Location: Taivalkoski", "Function: Cemetery chapel", "Style: Nordic modern"],
     },
+    image: "/poi-images/finland-keskilahti-church-landmarks-v2.webp",
   },
   {
     id: "finland-kestila-church-landmarks-v2",
@@ -832,6 +857,7 @@ export const finlandLandmarksV2: POI[] = [
       ro: ["Anul construcției: 1855", "Arhitect: Ernst Lohrmann", "Material: Lemn", "Formă: Cruce greacă"],
       en: ["Completed in 1855", "Architect: Ernst Lohrmann", "Material: Wood", "Type: Cross church"],
     },
+    image: "/poi-images/finland-kestila-church-landmarks-v2.webp",
   },
   {
     id: "finland-kesava-church-landmarks-v2",
@@ -864,6 +890,7 @@ export const finlandLandmarksV2: POI[] = [
       ro: ["Anul sfințirii: 1950", "Arhitect: Aulis Blomstedt", "Clopotniță construită în 1836", "Material: Cărămidă roșie"],
       en: ["Church completed in 1950", "Architect: Aulis Blomstedt", "Bell tower dates to 1836", "Construction: Red brick"],
     },
+    image: "/poi-images/finland-kesava-church-landmarks-v2.webp",
   },
   {
     id: "finland-keuruu-church-landmarks-v2",
@@ -896,6 +923,7 @@ export const finlandLandmarksV2: POI[] = [
       ro: ["Construcție: 1756–1759", "Constructor: Antti Hakola", "Picturi baroce: 1782–1785", "Capacitate: cca. 450 persoane"],
       en: ["Built: 1756–1759", "Master builder: Antti Hakola", "Murals painted: 1782–1785", "Capacity: approx. 450 people"],
     },
+    image: "/poi-images/finland-keuruu-church-landmarks-v2.webp",
   },
   {
     id: "finland-kialajärvi-church-landmarks-v2",
@@ -928,6 +956,7 @@ export const finlandLandmarksV2: POI[] = [
       ro: ["Regiune: Kainuu (Suomussalmi)", "Stil: Arhitectură rurală în lemn", "Parohie: Suomussalmi", "Funcție: Casă de rugăciune"],
       en: ["Region: Kainuu (Suomussalmi)", "Style: Rural wooden architecture", "Parish: Suomussalmi", "Function: Village prayer house"],
     },
+    image: "/poi-images/finland-kialajärvi-church-landmarks-v2.webp",
   },
   {
     id: "finland-kiikoinen-church-landmarks-v2",
@@ -960,6 +989,7 @@ export const finlandLandmarksV2: POI[] = [
       ro: ["Anul construcției: 1851", "Arhitect: P. J. Gylich", "Stil: Biserică de lemn în cruce", "Orga instalată în 1951"],
       en: ["Year of construction: 1851", "Architect: P. J. Gylich", "Style: Wooden cruciform", "Organ built in 1951"],
     },
+    image: "/poi-images/finland-kiikoinen-church-landmarks-v2.webp",
   },
   {
     id: "finland-kiiminki-church-landmarks-v2",
@@ -992,6 +1022,7 @@ export const finlandLandmarksV2: POI[] = [
       ro: ["Anul construcției: 1760", "Constructor Matti Honka", "Picturi de Emanuel Granberg", "Regiunea Ostrobotnia de Nord", "Capacitate 400 locuri", "Plan cruciform"],
       en: ["Built in 1760", "Built by Matti Honka", "Paintings by Emanuel Granberg", "North Ostrobothnia region", "Capacity 400 seats", "Cruciform floor plan"],
     },
+    image: "/poi-images/finland-kiiminki-church-landmarks-v2.webp",
   },
   {
     id: "finland-kirkkonummi-church-landmarks-v2",
@@ -1024,5 +1055,6 @@ export const finlandLandmarksV2: POI[] = [
       ro: ["Origine în secolul XV", "Dedicată Sfântului Mihail", "Zidărie din piatră de câmp", "Capacitate 600 locuri", "Restaurată major după 1956", "Regiunea Uusimaa"],
       en: ["Dated to 15th century", "Dedicated to St. Michael", "Fieldstone construction", "Seats 600 worshippers", "Restored after 1956", "Located in Uusimaa region"],
     },
+    image: "/poi-images/finland-kirkkonummi-church-landmarks-v2.webp",
   }
 ];

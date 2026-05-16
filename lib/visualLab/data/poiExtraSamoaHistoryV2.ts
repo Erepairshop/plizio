@@ -31,6 +31,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Cea mai mare structură de piatră antică din Polinezia.", "Datată aproximativ între anii 1100 și 1400 d.Hr.", "Situată pe insula Savai'i, în regiunea Letolo.", "Construită integral din pietre de bazalt fără mortar.", "Posibil loc pentru vânătoarea rituală de porumbei sălbatici.", "Are o înălțime de 12 metri și o formă piramidală."],
       en: ["Largest ancient stone structure in all of Polynesia.", "Estimated to have been built between 1100 and 1400 AD.", "Located on the island of Savai'i in the Letolo area.", "Constructed entirely from stacked basalt stones.", "Served as a platform for ceremonial and prestige activities.", "Measures 12 meters in height and 65 meters at the base."],
     },
+    image: "/poi-images/samoa-pulemelei-mound-history-v2.webp",
   },
   {
     id: "samoa-villa-vailima-history-v2",
@@ -62,6 +63,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Ultima casă a scriitorului Robert Louis Stevenson (1890-18p4).", "Găzduiește în prezent Muzeul Robert Louis Stevenson.", "A fost reședința oficială a guvernatorului german al Samoa.", "Numele 'Vailima' s-ar traduce prin 'apa în mână'.", "Restaurată complet după daunele provocate de un ciclon în 1990.", "Situată lângă traseul care duce la mormântul autorului de pe Mt. Vaea."],
       en: ["The final home of Scottish author Robert Louis Stevenson.", "Now functions as a museum dedicated to Stevenson's life.", "Served as the official residence for German colonial governors.", "The name 'Vailima' translates to 'water in the hand.'", "Extensively restored after major cyclone damage in 1990.", "Located near the trailhead to Stevenson's tomb on Mt. Vaea."],
     },
+    image: "/poi-images/samoa-villa-vailima-history-v2.webp",
   },
   {
     id: "samoa-mulinuu-royal-tombs-history-v2",
@@ -93,6 +95,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Locul de odihnă al deținătorilor celor patru titluri Tama-a-Aiga.", "Situat pe peninsula Mulinu'u, centrul istoric al orașului Apia.", "Adăpostește mormântul lui Malietoa Laupepa, lider cheie în secolul XIX.", "Zona a servit drept capitală tradițională a statului Samoa.", "Se află în vecinătatea imediată a clădirii Parlamentului.", "Mormintele sunt realizate din piatră masivă cu decoruri specifice."],
       en: ["Resting place for the holders of the four Tama-a-Aiga paramount titles.", "Located on the historic Mulinu'u Peninsula in the capital, Apia.", "Contains the tomb of Malietoa Laupepa, a pivotal 19th-century leader.", "The site was historically the ceremonial capital of Samoa.", "Positioned near the modern Fale Fono (Parliament Building).", "The tombs feature a blend of traditional stone and colonial design."],
     },
+    image: "/poi-images/samoa-mulinuu-royal-tombs-history-v2.webp",
   },
   {
     id: "samoa-saleaula-lava-church-history-v2",
@@ -124,6 +127,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Distrusă de erupția vulcanului Matavanu între 1905 și 1911.", "Lava solidificată umple și astăzi interiorul naosului bisericii.", "Construită inițial de Societatea Misionară din Londra.", "Include 'Mormântul Fecioarei', ocolit în mod inexplicabil de lavă.", "Situată pe coasta de nord a insulei Savai'i.", "Zidurile de piatră au rezistat presiunii fluxului de lavă bazaltică."],
       en: ["Destroyed by the Mount Matavanu volcanic eruption (1905-1911).", "Solidified lava remains inside the church, filling the main hall.", "Originally a London Missionary Society place of worship.", "Home to the 'Virgin's Grave,' which the lava miraculously avoided.", "Located on the northern coast of Savai'i Island.", "The sturdy stone walls survived the intense heat of the lava flow."],
     },
+    image: "/poi-images/samoa-saleaula-lava-church-history-v2.webp",
   },
   {
     id: "samoa-apia-clock-tower-history-v2",
@@ -155,6 +159,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Construit în anii 1920 ca monument comemorativ pentru Primul Război Mondial.", "Localizat în centrul orașului Apia, pe artera principală Beach Road.", "Ridicat prin subscripție publică de către cetățenii capitalei.", "Punctul de plecare pentru majoritatea paradelor naționale.", "Onorează voluntarii samoani care au servit în forțele aliate.", "Un simbol iconic al rezilienței și identității civice samoane."],
       en: ["Built in the 1920s as a memorial to World War I soldiers.", "Located in the heart of Apia on the scenic Beach Road.", "Commissioned and funded by the local residents of Apia.", "Acts as a central gathering point for national parades.", "Honors Samoan volunteers who served in the Allied forces.", "A primary landmark for navigation within the capital city."],
     },
+    image: "/poi-images/samoa-apia-clock-tower-history-v2.webp",
   },
   {
     id: "samoa-sapapalii-monument-history-v2",
@@ -186,6 +191,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Comemorează debarcarea lui John Williams din august 1830.", "Situl marchează începutul misiunii creștine în arhipelag.", "Locul unde căpetenia Malietoa a acceptat noua religie.", "Situat în satul Sapapali'i de pe coasta de est a insulei Savai'i.", "Sapapali'i este supranumit 'leagănul creștinismului samoan'.", "Monumentul este un punct central pentru pelerinajele religioase."],
       en: ["Commemorates the landing of John Williams in August 1830.", "Marks the start of the London Missionary Society's work in Samoa.", "Site where High Chief Malietoa Vainu'upo received the Gospel.", "Located on the eastern shore of Savai'i Island.", "Referred to as the 'village of enlightenment' by locals.", "Host to major annual religious festivals every August."],
     },
+    image: "/poi-images/samoa-sapapalii-monument-history-v2.webp",
   },
   {
     id: "samoa-german-courthouse-history-v2",
@@ -217,6 +223,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Construită în perioada protectoratului german (1900-1914).", "A servit drept sediu pentru guvernatorul Wilhelm Solf.", "Reprezintă cea mai bine conservată structură colonială din lemn.", "Arhitectură adaptată climatului tropical cu verande largi.", "A fost utilizată de Noua Zeelandă după Primul Război Mondial.", "Situată pe Beach Road, în zona istorică a capitalei Apia."],
       en: ["Built during the German colonial administration (1900-1914).", "Served as the judicial heart and office of Governor Wilhelm Solf.", "One of the oldest surviving wooden structures in Apia.", "Features classic tropical colonial architecture with wrap-around porches.", "Later used by New Zealand authorities after WWI.", "Located prominently on the Apia waterfront near the harbor."],
     },
+    image: "/poi-images/samoa-german-courthouse-history-v2.webp",
   },
   {
     id: "samoa-falemauga-caves-history-v2",
@@ -248,6 +255,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Formate prin tuburi de lavă vulcanică", "Au servit ca refugiu în timpul războaielor din secolele XVIII și XIX", "Investigate arheologic de J.D. Freeman în anul 1940", "Conțin peste 150 de platforme de piatră artificiale", "Unul dintre cele mai mari sisteme de peșteri de lavă de pe insula Upolu", "Dovadă a locuirii permanente în peșteri în perioada pre-colonială"],
       en: ["Formed by volcanic lava tube processes", "Served as a refuge during 18th and 19th-century tribal wars", "Archaeologically surveyed by J.D. Freeman in 1940", "Contain over 150 artificial stone platforms for habitation", "One of the largest lava cave systems on Upolu island", "Evidence of pre-colonial long-term cave dwelling practices"],
     },
+    image: "/poi-images/samoa-falemauga-caves-history-v2.webp",
   },
   {
     id: "samoa-malua-theological-college-history-v2",
@@ -279,6 +287,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Fondat la 24 septembrie 1844", "Cea mai veche instituție teologică din Pacificul de Sud", "Misionari precum George Turner și Charles Hardie au fost co-fondatori", "Deține o bibliotecă importantă cu manuscrise istorice", "Centru pentru dezvoltarea limbii samoane scrise", "Locul de desfășurare a conferinței anuale Fonotele"],
       en: ["Founded on September 24, 1844", "Oldest theological institution in the South Pacific", "Missionaries George Turner and Charles Hardie were co-founders", "Houses a significant library with historical manuscripts", "Center for the development of the written Samoan language", "Venue for the annual Fonotele (General Assembly) of the CCCS"],
     },
+    image: "/poi-images/samoa-malua-theological-college-history-v2.webp",
   },
   {
     id: "samoa-mount-vaea-rls-tomb-history-v2",
@@ -310,6 +319,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Robert Louis Stevenson a murit la 3 decembrie 1894", "Mormântul este situat la o altitudine de 472 de metri", "Drumul Inimilor Iubitoare a fost construit de 40 de căpetenii", "Inscripția conține poemul 'Requiem'", "Stevenson avea doar 44 de ani când a decedat", "Vailima, reședința sa, se află la baza muntelui"],
       en: ["Robert Louis Stevenson died on December 3, 1894", "The tomb is situated at an elevation of 472 meters", "The 'Road of Loving Hearts' was built by 40 local chiefs", "The inscription features his famous poem 'Requiem'", "Stevenson was only 44 years old at the time of his death", "Vailima, his former home, is located at the foot of the mountain"],
     },
+    image: "/poi-images/samoa-mount-vaea-rls-tomb-history-v2.webp",
   },
   {
     id: "samoa-virgin-grave-saleaula-history-v2",
@@ -341,6 +351,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Erupția Muntelui Matavanu a durat din 1905 până în 1911", "Mormântul aparține fiicei unei căpetenii", "Lava a curs în jurul mormântului fără a-l acoperi", "Câmpul de lavă înconjurător se întinde pe câțiva kilometri pătrați", "Biserica LMS din apropiere a fost distrusă în 1905", "Situat pe coasta de nord a insulei Savai'i"],
       en: ["The eruption of Mount Matavanu lasted from 1905 to 1911", "The grave belongs to the daughter of a local chief", "Lava flowed around the grave without submerging it", "The surrounding lava field covers several square kilometers", "The nearby LMS church was destroyed by lava in 1905", "Located on the northern coast of Savai'i island"],
     },
+    image: "/poi-images/samoa-virgin-grave-saleaula-history-v2.webp",
   },
   {
     id: "samoa-piula-cave-pool-history-v2",
@@ -372,6 +383,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Bazin natural de apă dulce într-un tub de lavă", "Administrat de Colegiul Teologic Piula (metodiști)", "Format din două peșteri conectate printr-un tunel", "Temperatura apei este constant răcoroasă datorită izvoarelor", "Colegiul a fost înființat în anul 1868", "Situat la aproximativ 26 de kilometri est de Apia"],
       en: ["Natural freshwater pool formed within a lava tube", "Managed by the Piula Theological College (Methodist)", "Consists of two caves linked by a submerged tunnel", "Water remains constantly cool due to underground springs", "The associated college was established in 1868", "Located approximately 26 kilometers east of Apia"],
     },
+    image: "/poi-images/samoa-piula-cave-pool-history-v2.webp",
   },
   {
     id: "samoa-moso-footprint-history-v2",
@@ -403,6 +415,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Lungimea urmei este de aproximativ 2 metri", "Se spune că provine de la gigantul Moso în drumul său din Fiji", "Situată în rocă de bazalt pe coastă", "Parte a Rezervației de Pădure Tropicală Falealupo", "O a doua urmă ar exista pe Viti Levu (Fiji)", "Loc important în miturile de creație samoane"],
       en: ["The length of the footprint is approximately 2 meters", "Legend attributes it to the giant Moso stepping from Fiji", "Located in basaltic rock on the coastline", "Part of the Falealupo Rainforest Preserve", "A matching print is said to exist on Viti Levu in Fiji", "An important site in Samoan creation mythology"],
     },
+    image: "/poi-images/samoa-moso-footprint-history-v2.webp",
   },
   {
     id: "samoa-german-monument-mulinuu-history-v2",
@@ -434,6 +447,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Marchează perioada colonială germană (1900-1914)", "Situat pe peninsula Mulinu'u", "Aproape de locul arborării steagului în 1900", "Parte a centrului istoric al orașului Apia", "Comemorează prezența administrativă a Germaniei", "Înconjurat de morminte regale samoane"],
       en: ["Marks the German colonial period (1900-1914)", "Located on the Mulinu'u Peninsula", "Near the site of the 1900 flag-raising ceremony", "Part of the historical political center of Apia", "Commemorates the administrative presence of Germany", "Set among the sacred tombs of Samoan royalty"],
     },
+    image: "/poi-images/samoa-german-monument-mulinuu-history-v2.webp",
   },
   {
     id: "samoa-vaimoso-mau-headquarters-history-v2",
@@ -465,6 +479,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Centrul mișcării de independență (anii 1920-30)", "Sloganul mișcării a fost 'Samoa mo Samoa'", "Locul 'Sâmbetei Negre' la 28 decembrie 1929", "Tupua Tamasese Lealofi III a fost liderul", "Mișcarea Mau a folosit rezistența non-violentă", "Vaimoso este situat lângă Apia"],
       en: ["Center of the independence movement (1920s-1930s)", "The movement's slogan was 'Samoa mo Samoa'", "Site of 'Black Saturday' on December 28, 1929", "Led by the paramount chief Tupua Tamasese Lealofi III", "Utilized non-violent resistance strategies", "Vaimoso is located on the outskirts of Apia"],
     },
+    image: "/poi-images/samoa-vaimoso-mau-headquarters-history-v2.webp",
   },
   {
     id: "samoa-apolima-island-forts-history-v2",
@@ -496,6 +511,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Restul unui crater vulcanic cu port natural", "Un singur sat locuit în interiorul craterului", "Cea mai îngustă intrare în port din regiunea Pacificului", "A servit ca fortăreață strategică în secolul al XIX-lea", "Vizitarea este permisă doar cu acordul căpeteniilor", "Insula are o suprafață de mai puțin de 5 kilometri pătrați"],
       en: ["Remnant of a volcanic crater with a natural harbor", "Home to only one inhabited village inside the basin", "Features one of the narrowest harbor entrances in the Pacific", "Served as a strategic fortress during 19th-century wars", "Access is strictly regulated by local village chiefs", "The island's land area is less than 5 square kilometers"],
     },
+    image: "/poi-images/samoa-apolima-island-forts-history-v2.webp",
   },
   {
     id: "samoa-manono-star-mound-history-v2",
@@ -527,6 +543,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Utilizată pentru prinderea rituală a porumbeilor (seu lupe)", "Construită din roci vulcanice și umplutură de pământ", "Brațele radiale îi conferă formă de stea", "Marca statutul social ridicat al căpeteniilor locale", "Similară cu marea piramidă Pulemelei de pe Savai'i", "Situată pe a treia cea mai înaltă culme a insulei Manono"],
       en: ["Used for the ritual snaring of forest pigeons (seu lupe)", "Constructed using volcanic stones and earthen fill", "Radial arms give the mound its characteristic star shape", "Signified the high social status of local paramount chiefs", "Similar in design to the larger Pulemelei mound on Savai'i", "Located on the third highest point of Manono Island"],
     },
+    image: "/poi-images/samoa-manono-star-mound-history-v2.webp",
   },
   {
     id: "samoa-vailele-battlefield-history-v2",
@@ -558,6 +575,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Locul unor lupte grele în anul 1889", "Samoanii au învins trupele germane la Vailele", "Terenul a aparținut anterior plantației germane DHPG", "Parte a conflictelor care au dus la Tratatul din 1899", "Situat la aproximativ 5 kilometri est de capitala Apia", "Morminte ale soldaților internaționali căzuți se află în apropiere"],
       en: ["Site of intense combat in 1889", "Samoan forces defeated German landing parties at Vailele", "Formerly part of the extensive German DHPG plantations", "Key conflict leading to the Tripartite Convention of 1899", "Located approximately 5 kilometers east of Apia", "Nearby graves commemorate fallen international soldiers"],
     },
+    image: "/poi-images/samoa-vailele-battlefield-history-v2.webp",
   },
   {
     id: "samoa-maota-o-taoa-history-v2",
@@ -589,6 +607,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Casă de adunare tradițională (Fale Tele) în Safotu", "Centrul districtului Itū-o-Tane de pe Savai'i", "Loc pentru ritualurile ceremoniale Kava ale căpeteniilor", "Simbolizează coeziunea socială a comunității", "Legată istoric de titlurile nobiliare Lilomaiava", "Arhitectura nu folosește cuie, ci doar frânghii din fibră de cocos"],
       en: ["Traditional Fale Tele (meeting house) located in Safotu", "Key political center for the Itū-o-Tane district on Savai'i", "Venue for high-level ceremonial kava rituals", "Represents the social cohesion and transparency of the village", "Historically associated with the Lilomaiava paramount titles", "Construction utilizes traditional lashings ('afa) instead of nails"],
     },
+    image: "/poi-images/samoa-maota-o-taoa-history-v2.webp",
   },
   {
     id: "samoa-tufutafoe-underworld-portal-history-v2",
@@ -620,6 +639,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Loc sfânt de trecere a sufletelor către Pulotu", "Situat în cel mai vestic punct al Samoei", "Format din două deschideri (Fafa) în reciful de corali", "Legat simbolic de apusul soarelui", "Element central al religiei samoane pre-coloniale", "Tufutafoe este cel mai apropiat sat de acest sit"],
       en: ["Sacred site where souls transition to the spirit world (Pulotu)", "Located at the westernmost point of the Samoan islands", "Consists of two specific openings (Fafa) in the coral reef", "Symbolically associated with the sunset and the end of life", "A central pillar of pre-colonial Samoan religious beliefs", "Tufutafoe village serves as the traditional guardian of the site"],
     },
+    image: "/poi-images/samoa-tufutafoe-underworld-portal-history-v2.webp",
   },
   {
     id: "samoa-luatuanuu-hillfort-history-v2",
@@ -651,6 +671,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Cea mai mare structură de terasamente din Samoa", "A servit ca sistem de apărare împotriva atacurilor maritime", "Datarea arheologică indică utilizarea înainte de 1800", "Situată pe o creastă la 200 m altitudine", "Formată din mai multe sisteme de șanțuri și valuri de apărare", "Dovadă a muncii comunitare pe scară largă (Laloa)"],
       en: ["Largest earthwork fortification in the Samoan islands", "Designed as a primary defense against maritime invasions", "Archaeological evidence suggests use prior to the year 1800", "Located on a ridge approximately 200 meters above sea level", "Features multiple defensive ditches and embankments", "Evidence of large-scale cooperative community labor (Laloa)"],
     },
+    image: "/poi-images/samoa-luatuanuu-hillfort-history-v2.webp",
   },
   {
     id: "samoa-falealupo-old-church-history-v2",
@@ -682,6 +703,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Distrusă de cicloanele Ofa (1990) și Val (1991)", "Fosta biserică catolică a satului Falealupo", "Doar zidurile exterioare și clopotnița au supraviețuit", "Satul a fost mutat în interiorul insulei după distrugere", "Exemplu al impactului schimbărilor climatice și eroziunii", "Situată pe coasta de vest istorică a insulei Savai'i"],
       en: ["Severely damaged by Cyclones Ofa (1990) and Val (1991)", "Former Catholic church of the Falealupo community", "Only the main exterior walls and bell tower remain standing", "The village was relocated inland following the storm damage", "Serves as a case study for coastal erosion and climate impact", "Located on the culturally significant western tip of Savai'i"],
     },
+    image: "/poi-images/samoa-falealupo-old-church-history-v2.webp",
   },
   {
     id: "samoa-fangaloa-ancient-village-history-v2",
@@ -713,6 +735,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Regiunea cuprinde șapte sate care sunt stabilite tradițional de-a lungul golfului Fangaloa.", "Descoperirile arheologice atestă o locuire continuă de cel puțin 3000 de ani.", "Munții din jur ating o înălțime maximă de aproximativ 1100 de metri.", "Fangaloa este cunoscută pentru speciile de plante endemice din pădurile sale tropicale virgine.", "Golful a servit în trecut ca port natural pentru canoele polineziene de cursă lungă.", "În mitologia locală, Fangaloa este locul de naștere al unor importanți zei ai clanurilor."],
       en: ["The region comprises seven villages traditionally settled along the Fangaloa Bay.", "Archaeological evidence confirms continuous habitation for at least 3000 years.", "The surrounding mountains reach a maximum elevation of approximately 1100 meters.", "Fangaloa is known for endemic plant species found in its pristine rainforests.", "The bay formerly served as a natural harbor for long-distance Polynesian canoes.", "In local mythology, Fangaloa is the birthplace of important clan deities."],
     },
+    image: "/poi-images/samoa-fangaloa-ancient-village-history-v2.webp",
   },
   {
     id: "samoa-lotofaga-archaeological-site-history-v2",
@@ -744,6 +767,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Situl conține unele dintre cele mai bine conservate movile stelate din regiunea Pacificului.", "Descoperirile arheologice datează primele structuri fixe în jurul anului 200 d.Hr.", "Faimosul To-Sua Ocean Trench are o adâncime de aproximativ 30 de metri.", "Movilele Tia Seu Lupe serveau ca simboluri ale puterii și conexiunii spirituale.", "Satul Lotofaga este locul de naștere al mai multor lideri politici importanți din Samoa.", "Straturile de cenușă vulcanică au ajutat la datarea precisă a nivelurilor arheologice."],
       en: ["The site contains some of the best-preserved star mounds in the Pacific region.", "Archaeological findings date the first permanent structures to around 200 CE.", "The nearby To-Sua Ocean Trench is approximately 30 meters deep.", "The Tia Seu Lupe mounds served as symbols of power and spiritual connection.", "Lotofaga village is the birthplace of several prominent Samoan political leaders.", "Volcanic ash layers helped in the precise dating of the archaeological strata."],
     },
+    image: "/poi-images/samoa-lotofaga-archaeological-site-history-v2.webp",
   },
   {
     id: "samoa-asau-historic-port-history-v2",
@@ -775,6 +799,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Adâncirea recifului din Asau a fost finalizată în anul 1969.", "În anii 1970, aici funcționa cea mai mare gateră din Pacificul de Sud.", "Portul dispune de un canal de navigație artificial lung de 3,5 kilometri.", "Asau a fost una dintre primele localități din Savai'i cu electricitate generalizată.", "Regiunea este marcată de fluxurile de lavă ale vulcanului Matavanu din apropiere.", "O mare parte din lemnul exportat aici a ajuns în America de Nord și Japonia."],
       en: ["The deepening of the reef in Asau was completed in 1969.", "In the 1970s, the largest sawmill in the South Pacific operated here.", "The port features a 3.5-kilometer-long artificial shipping channel.", "Asau was one of the first locations on Savai'i with comprehensive electricity.", "The region is shaped by lava flows from the nearby Matavanu volcano.", "A large portion of the timber exported here went to North America and Japan."],
     },
+    image: "/poi-images/samoa-asau-historic-port-history-v2.webp",
   },
   {
     id: "samoa-malietoa-tombs-history-v2",
@@ -806,6 +831,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Malietoa Laupepa a fost înmormântat în Mulinu'u în august 1898.", "Titlul 'Malietoa' se traduce literal prin 'războinic viteaz'.", "Locurile de înmormântare din Mulinu'u sunt situate pe o peninsulă îngustă lângă Apia.", "Malietoa Tanumafili al II-lea, care a decedat în 2007, a fost ultimul șef de stat din această linie.", "Tradițional, mormintele sunt decorate cu pietre de corali albe.", "Mormintele fac parte dintr-un district istoric care include și Parlamentul."],
       en: ["Malietoa Laupepa was interred at Mulinu'u in August 1898.", "The title 'Malietoa' literally translates to 'brave warrior'.", "The burial sites at Mulinu'u are located on a narrow peninsula near Apia.", "Malietoa Tanumafili II, who died in 2007, was the last head of state from this lineage.", "Traditionally, the graves are decorated with white coral stones.", "The tombs are part of a historical district that also includes the Parliament."],
     },
+    image: "/poi-images/samoa-malietoa-tombs-history-v2.webp",
   },
   {
     id: "samoa-german-monument-samoa-history-v2",
@@ -837,6 +863,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Wilhelm Solf a fost primul guvernator german între 1900 și 1911.", "Ceremonia de arborare a steagului a avut loc pe 1 martie 1900, la ora 10:30.", "Monumentul se află în imediata vecinătate a Parlamentului samoan.", "În timpul perioadei germane, Apia a devenit cel mai important port comercial din regiune.", "Germanii au introdus primele măsurători cadastrale sistematice.", "În 1914, administrația a fost preluată de Noua Zeelandă la începutul Primului Război Mondial."],
       en: ["Wilhelm Solf served as the first German governor from 1900 to 1911.", "The official flag-raising ceremony occurred on March 1, 1900, at 10:30 AM.", "The monument is located in immediate proximity to the Samoan Parliament.", "During the German era, Apia became the most important trading port in the region.", "The Germans introduced the first systematic cadastral surveys.", "In 1914, the administration was taken over by New Zealand at the start of WWI."],
     },
+    image: "/poi-images/samoa-german-monument-samoa-history-v2.webp",
   },
   {
     id: "samoa-mataafa-tombs-history-v2",
@@ -868,6 +895,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Mata'afa Iosefo a decedat pe 6 februarie 1912, la vârsta de 80 de ani.", "Titlul Mata'afa este strâns legat de satul Amaile de pe insula Upolu.", "Mormântul din Mulinu'u a fost construit din bazalt local și ciment importat.", "Mata'afa Fiame Faumuina Mulinu'u al II-lea a fost primul prim-ministru al Samoei.", "Înmormântările urmează protocoale rituale stricte ale oratorilor (Tulafale).", "Peninsula Mulinu'u este considerată un centru politic sacru încă din secolul al XIX-lea."],
       en: ["Mata'afa Iosefo passed away on February 6, 1912, at the age of 80.", "The Mata'afa title is closely linked to the village of Amaile on Upolu.", "The tomb at Mulinu'u was constructed from local basalt and imported cement.", "Mata'afa Fiame Faumuina Mulinu'u II was the first Prime Minister of Samoa.", "The burials follow strict ritual protocols overseen by orators (Tulafale).", "The Mulinu'u Peninsula has been regarded as a sacred political center since the 19th century."],
     },
+    image: "/poi-images/samoa-mataafa-tombs-history-v2.webp",
   },
   {
     id: "samoa-lepa-ancient-village-history-v2",
@@ -899,6 +927,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Lepa este locul de naștere al fostului prim-ministru de lungă durată Tuila'epa Sa'ilele Malielegaoi.", "Satul a fost grav avariat de tsunami-ul din 2009 și ulterior reconstruit.", "Recifele din jur aparțin celor mai bogate zone în pește de pe insula Upolu.", "În Lepa există mai multe 'Fale Tele' (case mari) cu împletituri tradiționale Sauf.", "Documentele istorice menționează Lepa încă din primele rapoarte misionare din 1830.", "Dealurile terasate serveau în trecut și ca structuri de apărare împotriva atacurilor."],
       en: ["Lepa is the birthplace of long-serving Prime Minister Tuila'epa Sa'ilele Malielegaoi.", "The village was heavily damaged by the 2009 tsunami and later rebuilt.", "The surrounding reefs are among the most fish-rich areas of Upolu.", "In Lepa, there are several 'Fale Tele' (great houses) with traditional Sauf lashings.", "Historical documents mention Lepa as early as the first missionary reports in 1830.", "The terraced hills formerly served as defensive structures against attacks."],
     },
+    image: "/poi-images/samoa-lepa-ancient-village-history-v2.webp",
   },
   {
     id: "samoa-siumu-ancient-wells-history-v2",
@@ -930,6 +959,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Siumu este cunoscut pentru izvoarele sale naturale de apă dulce situate chiar pe malul mării.", "Fântânile erau adesea căptușite cu pietre mari de bazalt pentru a preveni surpările.", "În apropiere se află terenul unde au fost primiți primii misionari în anul 1840.", "Temperatura apei în fântânile antice rămâne constantă la aproximativ 22°C tot anul.", "Legendele locale conectează fântânile cu călătoria zeiței Sina.", "Unele fântâni au un diametru de până la trei metri."],
       en: ["Siumu is known for its natural freshwater springs located directly on the seashore.", "The wells were often lined with large basalt stones to prevent collapses.", "Nearby is the site where the first missionaries were received in 1840.", "The water temperature in the ancient wells remains at approximately 22°C year-round.", "Local legends link the wells with the journey of the goddess Sina.", "Some wells have a diameter of up to three meters."],
     },
+    image: "/poi-images/samoa-siumu-ancient-wells-history-v2.webp",
   },
   {
     id: "samoa-taga-blowholes-history-v2",
@@ -961,6 +991,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Fontanele ating înălțimi de peste 30 de metri în timpul fluxului puternic.", "Rocile de lavă provin din erupții care au avut loc acum câteva mii de ani.", "Sunetul produs de blowholes poate fi auzit de la kilometri distanță pe vreme calmă.", "Taga este unul dintre cele mai izolate sate de pe insula Savai'i.", "Undele de presiune pot arunca nucile de cocos mai sus decât o casă cu cinci etaje.", "Diferențele de maree determină intensitatea jeturilor de apă."],
       en: ["The fountains reach heights of over 30 meters during heavy swells.", "The lava rocks originate from eruptions dating back several thousand years.", "The sound of the blowholes can be heard for miles during calm weather.", "Taga is one of the most remote villages on the island of Savai'i.", "The pressure waves can launch coconuts higher than a five-story building.", "Tidal differences determine the intensity of the water fountains."],
     },
+    image: "/poi-images/samoa-taga-blowholes-history-v2.webp",
   },
   {
     id: "samoa-safune-ancient-landing-history-v2",
@@ -992,6 +1023,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Safune este considerat locul de naștere al legendei despre Sina și țiparul.", "Piscina Mata-o-le-Alelo din Safune este un bazin cu apă dulce foarte cunoscut.", "În 1830, primii reprezentanți ai Societății Misionare din Londra au debarcat la Safune pe insula Savai'i.", "Regiunea a fost în trecut un centru pentru construcția de canoe de cursă lungă.", "Safune este format din mai multe sate mici care constituie o unitate politică.", "Arheologii au găsit aici ceramică Lapita cu o vechime de aproximativ 2800 de ani."],
       en: ["Safune is regarded as the birthplace of the legend of Sina and the Eel.", "The Mata-o-le-Alelo pool in Safune is a well-known freshwater bathing site.", "In 1830, the first representatives of the London Missionary Society landed at Safune on Savai'i.", "The region was formerly a center for the construction of long-distance canoes.", "Safune consists of several small villages that form a single political unit.", "Archaeologists found Lapita pottery here dating back approximately 2800 years."],
     },
+    image: "/poi-images/samoa-safune-ancient-landing-history-v2.webp",
   },
   {
     id: "samoa-aopo-lava-tube-refuge-history-v2",
@@ -1023,6 +1055,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Tuburile de lavă de la Aopo se întind pe mai mulți kilometri sub suprafața pământului.", "Vârsta tunelurilor este estimată la aproximativ 2000 până la 3000 de ani.", "Aopo este cunoscut pentru pădurile sale tropicale indigene virgine pe câmpuri de lavă.", "Localitatea a fost afectată de erupțiile vulcanului Matavanu în anul 1905.", "În interiorul tunelurilor predomină temperaturi constante de aproximativ 20°C.", "Ghidii locali au nevoie de permisiunea șefilor de clan pentru accesul în tuburile sacre."],
       en: ["The lava tubes at Aopo extend for several kilometers beneath the earth's surface.", "The age of the tunnels is estimated at approximately 2000 to 3000 years.", "Aopo is known for its pristine indigenous rainforests on lava fields.", "The village was affected by the 1905 eruptions of the Matavanu volcano.", "Inside the tunnels, temperatures remain constant at around 20°C.", "Local guides require permission from clan chiefs to access the sacred tubes."],
     },
+    image: "/poi-images/samoa-aopo-lava-tube-refuge-history-v2.webp",
   },
   {
     id: "samoa-samata-ancient-settlement-history-v2",
@@ -1054,6 +1087,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Samata este renumită pentru fabricarea rogojinilor fine (Ie Toga).", "Satul este situat într-o zonă activă geologic, cu multe ridicături vulcanice.", "În Samata există resturi de movile stelate din perioada precolonială.", "Laguna din Samata adăpostește specii rare de corali.", "Ceremoniile tradiționale pentru acordarea titlurilor urmează aici rituri vechi de secole.", "Separarea în Uta și Tai este tipică pentru utilizarea terenurilor în Samoa."],
       en: ["Samata is known for the production of fine mats (Ie Toga).", "The village is located in a geologically active zone with many volcanic elevations.", "In Samata, there are remains of star mounds from the pre-colonial era.", "The lagoon of Samata hosts rare coral species.", "Traditional ceremonies for title bestowment here follow centuries-old rites.", "The separation into Uta and Tai is typical of Samoan land use patterns."],
     },
+    image: "/poi-images/samoa-samata-ancient-settlement-history-v2.webp",
   },
   {
     id: "samoa-neiafu-archaeological-mound-history-v2",
@@ -1085,6 +1119,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Movila din Neiafu are un diametru de aproximativ 40 de metri la bază.", "Neiafu se află lângă pădurea tropicală Falealupo, o zonă sacră.", "Movilele Tia Seu Lupe erau terenuri de vânătoare exclusive pentru înalta aristocrație.", "În apropiere se află geogliful cunoscut sub numele de 'Urma lui Moso'.", "Structura a fost probabil construită între anii 1200 și 1500 d.Hr.", "Locul marchează cel mai vestic punct al Samoei, unde apune soarele."],
       en: ["The mound at Neiafu has a diameter of approximately 40 meters at its base.", "Neiafu is located near the Falealupo Rainforest, a sacred area.", "Tia Seu Lupe mounds were exclusive hunting grounds for the highest aristocracy.", "Nearby is the 'Moso's Footprint' geoglyph.", "The structure was presumably constructed between 1200 and 1500 CE.", "The site marks the westernmost point of Samoa where the sun sets."],
     },
+    image: "/poi-images/samoa-neiafu-archaeological-mound-history-v2.webp",
   },
   {
     id: "samoa-papa-ancient-village-history-v2",
@@ -1116,6 +1151,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Satul Papa este situat pe coasta de sud-est a insulei Savai'i.", "Stâncile plate de lavă (Papa) serveau în trecut ca locuri de uscare pentru frunzele de pandanus.", "În apropiere se află situri arheologice importante ale liniei Tautunu.", "Satul a fost în secolul al XIX-lea un centru de rezistență împotriva influențelor străine.", "Regiunea de coastă din Papa este cunoscută pentru curenții săi submarini periculoși.", "Tradițional, Papa este strâns legat de satul vecin Taga."],
       en: ["The village of Papa is located on the southeastern coast of Savai'i Island.", "The flat lava rocks (Papa) formerly served as drying areas for pandanus leaves.", "Nearby are significant archaeological sites associated with the Tautunu lineage.", "In the 19th century, the village was a center of resistance against foreign influence.", "The coastal region of Papa is known for its dangerous undercurrents.", "Traditionally, Papa is closely linked with the neighboring village of Taga."],
     },
+    image: "/poi-images/samoa-papa-ancient-village-history-v2.webp",
   },
   {
     id: "samoa-vaisala-historic-mission-history-v2",
@@ -1147,6 +1183,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Misiunea a fost stabilită ca post permanent în anii 1850.", "Vaisala a găzduit una dintre primele prese de tipar de pe insula Savai'i.", "Biserica din Vaisala a fost construită din piatră de var de corali și lemn de esență tare local.", "Șefi de clan importanți din regiune s-au botezat aici, influențând spiritul clanului.", "Misiunea a promovat cultivarea bumbacului și a cafelei în regiune.", "În Vaisala se află astăzi un hotel cunoscut gestionat de o familie, cu legături istorice."],
       en: ["The mission was established as a permanent post in the 1850s.", "Vaisala housed one of the first printing presses on the island of Savai'i.", "The church at Vaisala was built using coral limestone and local hardwood.", "Prominent regional chiefs were baptized here, influencing clan dynamics.", "The mission promoted the cultivation of cotton and coffee in the region.", "Vaisala is currently home to a well-known family-run hotel with historical ties."],
     },
+    image: "/poi-images/samoa-vaisala-historic-mission-history-v2.webp",
   },
   {
     id: "samoa-sataua-ancient-mounds-history-v2",
@@ -1178,6 +1215,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Tumulii sunt construiți în principal din rocă bazaltică locală.", "Sunt numiți local 'Tia 'ave', tradus prin monticule stelate.", "Perioada de construcție este estimată între anii 1000 și 1800 d.Hr.", "Serveau ca platforme pentru capturarea rituală a porumbeilor.", "Arheologii au descoperit fragmente de ceramică Lapita în apropiere.", "Situl reprezintă una dintre cele mai mari concentrații de acest tip din Savai'i."],
       en: ["The mounds are primarily constructed from local basalt rock.", "They are locally known as 'Tia 'ave', meaning star-shaped mounds.", "Construction dates are estimated between 1000 AD and 1800 AD.", "They functioned as platforms for the ritual pigeon snaring by chiefs.", "Archaeologists found remnants of Lapita pottery near the site.", "The site is one of the largest concentrations of such mounds on Savai'i."],
     },
+    image: "/poi-images/samoa-sataua-ancient-mounds-history-v2.webp",
   },
   {
     id: "samoa-vailoa-star-mound-history-v2",
@@ -1209,6 +1247,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Tumulul este situat în hinterlandul împădurit din Palauli.", "Prezintă opt raze sau brațe distinctive construite din piatră.", "Pietrele de bazalt au fost stivuite fără liant, prin tehnica zidăriei uscate.", "Datarea cu radiocarbon indică utilizarea în anii 1300.", "Capturarea porumbeilor era o competiție rituală a aristocrației samoane.", "Tumulul face parte dintr-o zonă arheologică mai mare care include Pulemelei."],
       en: ["The mound is located in the forested hinterland of Palauli.", "It features eight distinctive stone rays or arms projecting outwards.", "Basalt stones were stacked without mortar using dry-stone techniques.", "Radiocarbon dating indicates active use during the 1300s.", "Pigeon snaring was a ritual competition of the Samoan aristocracy.", "The mound is part of a larger archaeological zone including Pulemelei."],
     },
+    image: "/poi-images/samoa-vailoa-star-mound-history-v2.webp",
   },
   {
     id: "samoa-safotu-ancient-site-history-v2",
@@ -1240,6 +1279,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Safotu este unul dintre cele mai vechi locuri de așezare documentate din Samoa.", "Aici au fost găsite fragmente de ceramică Lapita din circa 1000 î.Hr.", "Situl include câmpuri terasate pentru cultivarea taro-ului.", "Găurile istorice pentru stâlpi indică prezența unor mari case comunitare (Fale).", "Safotu a fost un centru pentru schimbul de unelte din bazalt.", "Localitatea este situată strategic lângă un golf marin natural."],
       en: ["Safotu is one of the oldest documented settlement sites in Samoa.", "Lapita culture pottery shards (c. 1000 BC) have been discovered here.", "The site features terraced fields used for traditional taro cultivation.", "Historical post-holes indicate the presence of large communal houses (Fale).", "Safotu was a center for the exchange and production of basalt adzes.", "The location is strategically situated by a natural maritime bay."],
     },
+    image: "/poi-images/samoa-safotu-ancient-site-history-v2.webp",
   },
   {
     id: "samoa-letolo-plantation-mound-history-v2",
@@ -1271,6 +1311,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Valea Letolo este considerată cea mai mare zonă arheologică continuă din Samoa.", "Sute de platforme de piatră sunt dispersate în întreaga vale.", "Zidurile de piatră serveau atât pentru delimitare, cât și pentru protecția împotriva eroziunii.", "În zonă au fost găsite numeroase unelte din piatră șlefuită.", "Tumulul plantației se află în imediata vecinătate a monumentului Pulemelei.", "Situl a fost documentat la începutul secolului XX de către cercetători germani."],
       en: ["The Letolo Valley is regarded as the largest contiguous archaeological area in Samoa.", "Hundreds of stone platforms are scattered throughout the entire valley.", "Stone walls served both as property markers and for erosion control.", "Polished stone tools and adzes have been recovered from the site.", "The plantation mound is located in close proximity to the Pulemelei monument.", "The site was first documented by German researchers in the early 20th century."],
     },
+    image: "/poi-images/samoa-letolo-plantation-mound-history-v2.webp",
   },
   {
     id: "samoa-puapua-historic-mission-history-v2",
@@ -1302,6 +1343,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Misiunea a fost fondată la scurt timp după sosirea lui John Williams (1830).", "Zidurile bisericii au fost construite din var de corali arși.", "Pu'apu'a a fost una dintre primele comunități cu o școală biblică din Savai'i.", "În ruine se mai pot recunoaște elemente de ferestre în stil gotic.", "Misionarii LMS au tradus aici părți ale Noului Testament.", "Situl este îngrijit în prezent de parohia locală."],
       en: ["The mission was established shortly after John Williams' arrival in 1830.", "The church walls were constructed from burnt coral lime mortar.", "Pu'apu'a was among the first villages on Savai'i to host a Bible school.", "Gothic-style window frames are still visible within the church ruins.", "LMS missionaries used the site to translate parts of the New Testament.", "The site is currently maintained by the local congregational church."],
     },
+    image: "/poi-images/samoa-puapua-historic-mission-history-v2.webp",
   },
   {
     id: "samoa-sasina-mound-history-v2",
@@ -1333,6 +1375,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Tumulul Sasina are cinci brațe bine conservate din piatră de bazalt.", "A fost construit pe o înălțime naturală pentru a maximiza vizibilitatea.", "Sportul 'Seuga lupe' servea la consolidarea alianțelor politice.", "Construcția datează probabil din perioada dintre 1400 și 1700 d.Hr.", "Legendele locale asociază tumulul cu puterea șefilor Matai.", "În apropiere se află resturi de vetre de gătit antice (Umu)."],
       en: ["The Sasina Mound features five well-preserved radial arms made of basalt.", "It was built on a natural elevation to provide a clear view of the coast.", "The sport of 'Seuga lupe' was used to forge and seal political alliances.", "The structure is estimated to date from between 1400 and 1700 AD.", "Local oral histories link the mound to the authority of ancient Matai chiefs.", "Remnants of ancient earth ovens (Umu) have been identified nearby."],
     },
+    image: "/poi-images/samoa-sasina-mound-history-v2.webp",
   },
   {
     id: "samoa-falelima-historic-site-history-v2",
@@ -1364,6 +1407,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Cea mai faimoasă atracție este o urmă sculptată în rocă vulcanică (Moso).", "Falelima este considerată 'poarta către lumea spiritelor' în cosmologia samoană.", "Situl conține morminte ale unor șefi care au domnit în secolul al XV-lea.", "Arheologii au găsit aici cioburi de ceramică rară din perioada timpurie.", "Fortificațiile de coastă din piatră serveau la protecția împotriva invaziilor.", "Locul se află pe ruta care lega Savai'i de insulele Fiji."],
       en: ["The most famous feature is a footprint-shaped depression in the lava rock.", "Falelima is considered the 'Gateway to the Spirit World' in Samoan belief.", "The site contains burial mounds of high-ranking chiefs from the 1400s.", "Archaeologists have recovered rare pottery shards from early settlements here.", "Stone coastal fortifications were built to protect the village from sea raids.", "The village was historically linked to maritime trade with the Fiji Islands."],
     },
+    image: "/poi-images/samoa-falelima-historic-site-history-v2.webp",
   },
   {
     id: "samoa-tufutafoe-ruins-history-v2",
@@ -1395,6 +1439,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Locul este numit 'Fafa', intrarea către lumea de dincolo.", "Ruinele cuprind platforme circulare din piatră (Fale afolau).", "Erupțiile vulcanice din anul 1760 au avariat grav așezarea.", "Tufutafoe era faimos pentru canoele sale cu rândunică oceanice.", "Situl găzduiește petroglife preistorice pe pietrele de lavă.", "Este locul unde se poate vedea ultimul apus de soare din Samoa."],
       en: ["The site is identified as 'Fafa,' the portal to the spirit world.", "The ruins include large circular stone foundations (Fale afolau).", "Volcanic eruptions in 1760 caused extensive damage to the settlement.", "Tufutafoe was historically renowned for building ocean-going outrigger canoes.", "Prehistoric petroglyphs can be found carved into the surrounding lava rocks.", "It is the last place in Samoa to witness the sunset each day."],
     },
+    image: "/poi-images/samoa-tufutafoe-ruins-history-v2.webp",
   },
   {
     id: "samoa-malua-church-ruins-history-v2",
@@ -1426,6 +1471,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Colegiul Teologic Malua a fost deschis pe 24 septembrie 1844.", "Zidurile bisericii sunt făcute din var de corali extras din mare.", "Aici a fost tipărită prima traducere a Bibliei în limba samoană.", "Ruinele prezintă resturi de arcuri rotunde și contraforturi masive.", "Malua este considerată 'Oxford-ul Pacificului' pentru educația teologică.", "Situl a fost un centru pentru rezistența împotriva puterilor coloniale."],
       en: ["Malua Theological College was officially opened on September 24, 1844.", "The church walls were built using coral lime harvested from the reef.", "The first complete Samoan Bible translation was finalized here.", "Ruins display evidence of rounded archways and thick support pillars.", "Malua is often called the 'Oxford of the Pacific' for its academic history.", "The mission played a role in mediating disputes between local clans."],
     },
+    image: "/poi-images/samoa-malua-church-ruins-history-v2.webp",
   },
   {
     id: "samoa-apia-old-wharf-history-v2",
@@ -1457,6 +1503,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Apia a fost declarată oficial port liber în anul 1850.", "Uraganul din 1889 a scufundat șase nave de război în acest golf.", "Casele de comerț germane au dominat afacerile la debarcader până în 1914.", "Prima conexiune telegrafică din Samoa a fost instalată în port.", "Robert Louis Stevenson a debarcat în Samoa la acest doc în 1889.", "Bolarzi vechi din fontă din perioada colonială sunt încă vizibili."],
       en: ["Apia was officially declared a free port in 1850.", "The 1889 Apia cyclone destroyed six warships anchored in the bay.", "German trading firms controlled most of the wharf's commerce until 1914.", "Samoa's first international telegraph line was established at the port.", "Author Robert Louis Stevenson first set foot in Samoa at this wharf in 1889.", "Original cast-iron mooring bollards from the colonial era are still present."],
     },
+    image: "/poi-images/samoa-apia-old-wharf-history-v2.webp",
   },
   {
     id: "samoa-mulinuu-german-monument-history-v2",
@@ -1488,6 +1535,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Arborarea steagului a avut loc pe 1 martie 1900 în prezența șefilor locali.", "Monumentul constă dintr-un soclu cu plăci comemorative în germană și samoană.", "Mulinu'u este locul istoric de adunare al regilor samoani (Tafa'ifa).", "Germania a administrat Samoa de Vest între 1900 și 1914.", "Tratatul de la Samoa din 1899 a pus capăt războiului civil de pe insule.", "În apropiere se află mormântul lui Mata'afa Iosefo, un lider puternic."],
       en: ["The flag-raising ceremony took place on March 1, 1900, with local chiefs.", "The monument features a stone plinth with plaques in German and Samoan.", "Mulinu'u is the ancestral meeting ground of the Samoan paramount kings.", "The German administration of Western Samoa lasted until August 1914.", "The Tripartite Treaty of 1899 resolved the long-standing Samoan Civil War.", "The monument is located near the burial sites of prestigious Samoan leaders."],
     },
+    image: "/poi-images/samoa-mulinuu-german-monument-history-v2.webp",
   },
   {
     id: "samoa-tamasese-tomb-history-v2",
@@ -1519,6 +1567,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Tupua Tamasese a fost deținătorul unuia dintre cele patru titluri supreme.", "Incidentul din 28 decembrie 1929 a provocat în total 11 decese.", "Ultimele sale cuvinte celebre au fost: 'Samoa, mori în pace.'", "Mișcarea Mau a folosit nesupunerea civilă și greva fiscală.", "Mormântul se află în apropierea clădirii Parlamentului (Maota Fono).", "Noua Zeelandă și-a cerut scuze oficial abia în 2002 pentru aceste evenimente."],
       en: ["Tupua Tamasese held one of the four 'Tama-a-Aiga' paramount titles.", "The Black Saturday incident resulted in the deaths of 11 Samoans.", "His last message to his people was: 'My blood has been spilt for Samoa.'", "The Mau movement's slogan was 'Samoa mo Samoa' (Samoa for Samoans).", "The tomb is situated within the historic governmental precinct of Mulinu'u.", "The New Zealand government issued a formal apology for the event in 2002."],
     },
+    image: "/poi-images/samoa-tamasese-tomb-history-v2.webp",
   },
   {
     id: "samoa-malua-memorial-church-history-v2",
@@ -1550,6 +1599,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Biserica a fost construită în stil neogotic colonial cu elemente locale.", "Capacitatea bisericii este de peste 2000 de persoane în timpul conferințelor.", "Inaugurarea a avut loc în anul centenarului misiunii LMS în Samoa.", "În interior se află plăci comemorative pentru misionari precum John Williams.", "Orga bisericii este considerată una dintre cele mai bune din Polinezia.", "Malua este sediul central al celei mai mari confesiuni creștine din Samoa."],
       en: ["The church design features colonial neo-Gothic arches and local coral lime.", "It can accommodate over 2000 people during the annual EFKS conferences.", "The dedication in 1929 coincided with the mission's approach to its centenary.", "Interior plaques commemorate the work of John Williams and local pioneers.", "The church houses a significant pipe organ used for choral performances.", "It remains the institutional heart of the largest religious body in the country."],
     },
+    image: "/poi-images/samoa-malua-memorial-church-history-v2.webp",
   },
   {
     id: "samoa-mulinuu-observatory-history-v2",
@@ -1581,6 +1631,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Observatorul a fost deschis sub conducerea Dr. Otto Tetens.", "Găzduiește unul dintre cele mai vechi seismo-metre din Pacificul de Sud.", "Aici au fost efectuate primele măsurători sistematice ale câmpului magnetic în Samoa.", "Clădirea a supraviețuit fără daune tsunami-ului sever din 2009.", "Complexul include colibe speciale din lemn pentru observații magnetice.", "Face parte din stațiile Global Atmosphere Watch ale Organizației Meteorologice Mondiale."],
       en: ["The observatory was founded by the Royal Society of Sciences in Göttingen.", "It contains one of the oldest functioning seismographs in the South Pacific.", "Apia provided critical data for global magnetic charts in the early 1900s.", "The site has monitored every major Pacific hurricane for over a century.", "Specialized non-magnetic wooden structures were built for sensitive sensors.", "It is currently part of the UNESCO World Meteorological Organization network."],
     },
+    image: "/poi-images/samoa-mulinuu-observatory-history-v2.webp",
   },
   {
     id: "samoa-falemauga-caves-refuge-history-v2",
@@ -1612,6 +1663,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Tuburile de lavă se întind pe mai mulți kilometri sub pământ.", "În interior se află peste 150 de platforme de piatră amenajate artificial.", "Peșterile au fost folosite în timpul invaziilor tongane din secolul al XIII-lea.", "Au fost găsite resturi de podoabe din scoici și unelte din piatră.", "Temperatura medie în peșteri este constantă la aproximativ 22 de grade.", "Unele secțiuni ale peșterilor sunt închise din cauza plafoanelor instabile."],
       en: ["The lava tubes extend for several kilometers beneath the island's surface.", "Archaeologists have mapped over 150 distinct stone house platforms inside.", "The caves provided critical defense during the Tongan occupations (c. 1250 AD).", "Polished stone adzes and ancient shell ornaments have been recovered.", "The cave environment maintains a stable humidity and temperature year-round.", "Local chiefs used the caves as secret assembly points for war councils."],
     },
+    image: "/poi-images/samoa-falemauga-caves-refuge-history-v2.webp",
   },
   {
     id: "samoa-lepa-historical-well-history-v2",
@@ -1643,6 +1695,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Lepa este situat în districtul Atua, pe partea de sud-est a insulei Upolu.", "Fântâna este construită integral din blocuri de piatră vulcanică locală.", "A servit drept sursă principală de apă în timpul secetelor din secolul XIX.", "Situl este legat de ierarhia tradițională a șefilor (matai) din sat.", "Structura demonstrează tehnici avansate de filtrare naturală a apei.", "Este unul dintre puținele puțuri istorice conservate integral în Samoa."],
       en: ["Lepa is located in the Atua district on the southeastern side of Upolu.", "The well is constructed from locally sourced volcanic stones using dry-stack methods.", "In the 1800s, it was the most reliable fresh water source in the area.", "The site is culturally linked to the traditional Matai titles of Lepa village.", "It represents an early example of Polynesian hydraulic engineering.", "The well remains a symbol of community resilience and heritage preservation."],
     },
+    image: "/poi-images/samoa-lepa-historical-well-history-v2.webp",
   },
   {
     id: "samoa-vailele-plantation-history-v2",
@@ -1674,6 +1727,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Plantația a fost administrată de DHPG începând cu a doua jumătate a sec. XIX.", "Bătălia de la Vailele a avut loc la 18 decembrie 1888.", "Situl conține vestigii arheologice ale culturii Lapita (cca. 500 î.Hr.).", "Movilele funerare monumentale indică un rang social înalt al locatarilor.", "Vailele a fost pionier în producția industrială de cacao în Samoa.", "Arheologul Jack Golson a efectuat săpături decisive aici în 1957."],
       en: ["The plantation was a centerpiece of the German DHPG operations in the late 1800s.", "The Battle of Vailele occurred on December 18, 1888, involving German marines.", "Excavations revealed Lapita pottery fragments dating back to 500 BC.", "The site features large prehistoric earthen mounds known as 'tia'.", "Vailele was crucial for the development of Samoa's cocoa industry.", "It is considered one of the most important archaeological landscapes in Polynesia."],
     },
+    image: "/poi-images/samoa-vailele-plantation-history-v2.webp",
   },
   {
     id: "samoa-apia-old-post-office-history-v2",
@@ -1705,6 +1759,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Clădirea a fost ridicată în jurul anului 1900 de către germani.", "Este situată pe faimoasa stradă Beach Road din inima capitalei Apia.", "Oficiul a emis mărci poștale rare, căutate de colecționari internaționali.", "Designul include verande largi pentru răcirea pasivă a interiorului.", "Administrația neozeelandeză a preluat clădirea după anul 1914.", "Reprezintă unul dintre cele mai vechi sedii administrative din Samoa."],
       en: ["The building was constructed around 1900 during the German colonial era.", "It is a key landmark on Apia's historic waterfront, Beach Road.", "The office was famous for its unique and collectible Samoan stamps.", "The architecture features wide verandas typical of early 20th-century colonial style.", "New Zealand authorities operated the post office from 1914 onwards.", "It remains one of the best-preserved examples of colonial infrastructure in Apia."],
     },
+    image: "/poi-images/samoa-apia-old-post-office-history-v2.webp",
   },
   {
     id: "samoa-malua-historic-library-history-v2",
@@ -1736,6 +1791,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Biblioteca aparține Colegiului Malua, cea mai veche școală teologică (1844).", "Deține exemplare rare ale primei Biblii traduse integral în limba samoană.", "Fondul de carte a fost inițiat de Societatea Misionară din Londra.", "Clădirea utilizează piatră masivă pentru a menține un climat stabil interior.", "Este un centru de referință pentru studiile istorice din Polinezia.", "Arhivele conțin jurnale de bord ale misionarilor din secolul al XIX-lea."],
       en: ["The library is part of Malua Theological College, founded in 1844.", "It contains rare first editions of the Bible in the Samoan language.", "The collection was established by the London Missionary Society (LMS).", "Its stone architecture was engineered to mitigate tropical heat and humidity.", "It is one of the oldest academic libraries in the entire Pacific region.", "The archives hold critical primary sources on 19th-century Pacific history."],
     },
+    image: "/poi-images/samoa-malua-historic-library-history-v2.webp",
   },
   {
     id: "samoa-salelologa-historic-pier-history-v2",
@@ -1767,6 +1823,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Salelologa este cel mai important nod de transport de pe insula Savai'i.", "Mollul a facilitat exportul masiv de nucă de cocos uscată (copră).", "Asigură traversarea strâmtorii Apolima către insula Upolu.", "Structura actuală a fost modernizată pentru a suporta feriboturi de mare tonaj.", "A fost martorul primelor contacte comerciale majore ale insulei Savai'i.", "Este punctul de plecare pentru majoritatea turiștilor care vizitează insula."],
       en: ["Salelologa serves as the principal port of entry for Savai'i island.", "The pier was vital for the commercial copra industry in the early 20th century.", "It provides the only consistent ferry link between Savai'i and Upolu.", "The wharf has been reconstructed several times to withstand tropical cyclones.", "It is the busiest maritime hub in Samoa outside of Apia Harbor.", "The pier area has historically been the center of Savai'i's market trade."],
     },
+    image: "/poi-images/samoa-salelologa-historic-pier-history-v2.webp",
   },
   {
     id: "samoa-lufilufi-ancient-well-history-v2",
@@ -1798,6 +1855,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Lufilufi este centrul istoric al districtului Atua din estul Upolu.", "Fântâna a fost excavată manual în platforma de coral a insulei.", "Era rezervată pentru uzul exclusiv al nobilimii și al șefului Tui Atua.", "Controlul asupra fântânii asigura hegemonia politică în regiune.", "Ingineria locală a permis colectarea apei pluviale în mod eficient.", "Situl este esențial pentru înțelegerea arheologiei hidraulice samoane."],
       en: ["Lufilufi served as the traditional capital for the Atua district.", "The well is hand-carved into the natural coral and volcanic layers.", "It was the primary water source for the paramount chief, Tui Atua.", "Strategic control of the well was a key factor in regional politics.", "The design demonstrates sophisticated knowledge of the local water table.", "It is featured in many important Samoan legends and genealogies."],
     },
+    image: "/poi-images/samoa-lufilufi-ancient-well-history-v2.webp",
   },
   {
     id: "samoa-maota-o-solosolo-history-v2",
@@ -1829,6 +1887,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Maota o Solosolo este reședința oficială a șefilor matai din sat.", "Solosolo este cunoscut pentru peisajul său costier spectaculos.", "Construcția folosește tehnica 'sennit' pentru legarea grinzilor.", "Acest tip de structură este rezistent la cutremure datorită flexibilității.", "Situl a fost un bastion al rezistenței culturale samoane.", "Consiliul satului se reunește aici pentru a decide legile locale."],
       en: ["The term 'Maota' is specifically used for the residence of a high chief.", "Solosolo is located approximately 20 kilometers east of Apia.", "The building is a prime example of the open-sided Samoan Fale style.", "Intricate coconut fiber lashings hold the entire wooden frame together.", "The elevated stone foundation protects the house from heavy rains.", "It serves as the venue for the most important 'ava' (kava) ceremonies."],
     },
+    image: "/poi-images/samoa-maota-o-solosolo-history-v2.webp",
   },
   {
     id: "samoa-falealupo-canopy-history-v2",
@@ -1860,6 +1919,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Pasarela se află în extremitatea nord-vestică a insulei Savai'i.", "Proiectul a fost finanțat parțial prin donații internaționale în 1989.", "Harta de acces include o scară spiralată fixată pe un arbore secular.", "Structura oferă o vedere panoramică asupra pădurii tropicale joase.", "Acordul de mediu de aici a servit drept model pentru alte insule din Pacific.", "Este una dintre puținele zone din Samoa unde se mai găsesc arbori uriași."],
       en: ["The walkway is located in the Falealupo Rainforest Preserve on Savai'i.", "The first agreement to protect the forest was signed in 1989.", "The bridge is suspended 40 meters high between massive tropical trees.", "It was created to avoid logging and provide an alternative income for the village.", "The site includes a giant Banyan tree with a platform for bird watching.", "Falealupo is historically significant as the westernmost point of Samoa."],
     },
+    image: "/poi-images/samoa-falealupo-canopy-history-v2.webp",
   },
   {
     id: "samoa-malua-mission-press-history-v2",
@@ -1891,6 +1951,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Malua Mission Press a început operațiunile în jurul anului 1845.", "Biblia în limba samoană (1855) a fost cel mai important proiect al său.", "Tehnologia a fost adusă din Anglia pentru a sprijini misiunile creștine.", "A servit drept monitor oficial pentru legile și decretele locale.", "Standardizarea gramaticii samoane a avut loc prin publicațiile de aici.", "Clădirea păstrează încă unele dintre vechile echipamente de tipar."],
       en: ["The press was established in Malua during the mid-1840s.", "The first full Samoan Bible translation was completed here in 1855.", "It was the primary source of school materials for the entire region.", "The press published the first newspaper in Samoa, 'O le Sulu Samoa'.", "Standardization of the Samoan alphabet was achieved through this institution.", "It remains one of the most significant sites for Pacific literary history."],
     },
+    image: "/poi-images/samoa-malua-mission-press-history-v2.webp",
   },
   {
     id: "samoa-apia-town-hall-history-v2",
@@ -1922,6 +1983,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Primăria a fost inaugurată oficial în anul 1902.", "A fost sediul guvernatorului german Wilhelm Solf.", "Designul include o structură mixtă de piatră și lemn tropical.", "Clădirea a găzduit primele instanțe judecătorești moderne din Samoa.", "După Primul Război Mondial, a trecut în posesia Noii Zeelande.", "Este considerată o clădire de patrimoniu național de categoria A."],
       en: ["The Town Hall was officially opened in 1902.", "It was the primary seat of German government until August 1914.", "The building features a classic white wooden exterior with wide porches.", "Located in central Apia, it is a key part of the historic district.", "It witnessed the transition to New Zealand rule and later independence in 1962.", "The structure is renowned for its preservation of early 20th-century craftsmanship."],
     },
+    image: "/poi-images/samoa-apia-town-hall-history-v2.webp",
   },
   {
     id: "samoa-malua-theological-college-gates-history-v2",
@@ -1953,6 +2015,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Colegiul a fost înființat în 1844 pe baza unor principii riguroase.", "Porțile delimitează zona sacră a campusului de drumul principal.", "Instituția este inima Bisericii Creștine Congregaționale din Samoa.", "Arhitectura porților a fost restaurată pentru a păstra aspectul original.", "Sute de misionari din tot Pacificul s-au format în spatele acestor porți.", "Este considerat un loc de pelerinaj cultural pentru familiile samoane."],
       en: ["The college was founded in 1844 by missionaries George Turner and Charles Hardie.", "The gates serve as the main ceremonial entrance to the expansive campus.", "Malua is the spiritual headquarters for the CCCS church.", "The structure reflects 19th-century British missionary influence.", "It is one of the most photographed historical landmarks in Samoa.", "The gates symbolize the invitation to higher learning and service."],
     },
+    image: "/poi-images/samoa-malua-theological-college-gates-history-v2.webp",
   },
   {
     id: "samoa-asau-ancient-star-mound-history-v2",
@@ -1984,6 +2047,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Movilele stelate sunt unice în Polinezia de Vest.", "Situl din Asau este situat într-o zonă împădurită din nord-vestul Savai'i.", "Purtarea titlului de campion la 'Seu Lupe' aducea un prestigiu imens.", "Structura are o bază ridicată cu mai multe proiecții laterale.", "Arheologii consideră că movilele indică o ierarhie socială complexă.", "Porumbeii capturați erau adesea folosiți în daruri ceremoniale."],
       en: ["Star mounds are unique architectural features found in Samoa and Tonga.", "Asau is a key historical district on the northwestern tip of Savai'i.", "The mounds were used for the prestigious sport of 'Seu Lupe' (pigeon catching).", "They are constructed from local basalt stones and packed soil.", "Over 80 star mounds have been identified across the Samoan islands.", "These structures date back to the late prehistoric period, around 1000-1400 AD."],
     },
+    image: "/poi-images/samoa-asau-ancient-star-mound-history-v2.webp",
   },
   {
     id: "samoa-salelologa-market-history-v2",
@@ -2015,6 +2079,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Salelologa este principalul hub comercial al insulei Savai'i.", "Piața este renumită pentru 'Siapo' (țesătură din scoarță) și rogojini fine.", "Locația sa este strategică, fiind adiacentă terminalului de feribot.", "Sâmbăta este ziua cea mai aglomerată, atrăgând vânzători din toată insula.", "Designul pieței permite ventilația naturală, esențială în climatul tropical.", "Este locul ideal pentru a degusta mâncăruri tradiționale gătite în cuptorul 'umu'."],
       en: ["Salelologa is the largest and most important market on Savai'i island.", "It is a primary source for authentic Samoan Siapo and fine mats (ie toga).", "The market is conveniently located next to the main ferry terminal.", "Saturday mornings are the peak time for trading and social gatherings.", "The structures are designed to be open and airy, reflecting local architecture.", "It serves as a vital link between rural farmers and the national economy."],
     },
+    image: "/poi-images/samoa-salelologa-market-history-v2.webp",
   },
   {
     id: "samoa-tufutafoe-historical-village-history-v2",
@@ -2046,6 +2111,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Tufutafoe este punctul final al traseului solar în Samoa.", "Legenda spune că aici spiritele sar în ocean pentru a ajunge în Pulotu.", "Satul păstrează structuri din piatră de lavă ce datează de secole.", "Izolarea sa a protejat dialectele și formele de vorbire arhaice.", "Este o destinație populară pentru observarea apusului de soare.", "Comunitatea locală gestionează siturile sacre cu o rigoare tradițională."],
       en: ["Tufutafoe is the westernmost settlement on the island of Savai'i.", "It is adjacent to Cape Mulinu'u, the legendary spirit leaping place.", "The village is a key site for understanding Samoan traditional cosmology.", "Historically, it was a place of refuge during times of war on the island.", "It remains one of the most culturally conservative villages in Samoa.", "The shoreline features dramatic volcanic cliffs and blowholes."],
     },
+    image: "/poi-images/samoa-tufutafoe-historical-village-history-v2.webp",
   },
   {
     id: "samoa-malua-theological-college-chapel-history-v2",
@@ -2077,6 +2143,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Capela a fost ridicată folosind tehnici de construcție din sec. XIX.", "Utilizarea coralului ca material de construcție este specifică epocii.", "Găzduiește ceremonia anuală 'Fonotaga' a bisericii congregaționale.", "Este renumită pentru slujbele de duminică, deschise publicului.", "Interiorul este decorat cu sculpturi în lemn executate de meșteri locali.", "Reprezintă reziliența spirituală a națiunii samoane."],
       en: ["The chapel is the focal point of the historic Malua campus (est. 1844).", "Its construction utilizes coral blocks, a common 19th-century material.", "It hosts the prestigious annual general assembly of the CCCS church.", "The building is specifically optimized for multi-part vocal harmony.", "It underwent a major restoration to celebrate the college's 150th year.", "Many of Samoa's most prominent leaders were ordained in this chapel."],
     },
+    image: "/poi-images/samoa-malua-theological-college-chapel-history-v2.webp",
   },
   {
     id: "samoa-mulinuu-traditional-fale-history-v2",
@@ -2108,6 +2175,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Centrul parlamentului și guvernului samoan din secolul al XIX-lea.", "Construcție realizată prin metode tradiționale, fără cuie metalice.", "Peninsula Mulinu'u se află la o altitudine de doar 2 metri.", "Acoperișul este confecționat din frunze de trestie de zahăr împletite.", "Loc de importanță majoră pentru mișcarea de independență Mau a Pule.", "Găzduiește mormintele unor înalți demnitari și regi samoani."],
       en: ["The site has served as Samoa's political center since the 1800s.", "Constructed using traditional lashings instead of metal nails.", "Mulinu'u Peninsula sits at an elevation of only 2 meters above sea level.", "The roof is thatched with hand-woven sugarcane leaves.", "Key location for the Mau a Pule independence movement.", "Adjacent to the tombs of Samoa's paramount chiefs and royalty."],
     },
+    image: "/poi-images/samoa-mulinuu-traditional-fale-history-v2.webp",
   },
   {
     id: "samoa-apia-old-radio-station-history-v2",
@@ -2139,6 +2207,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Construită în anul 1914 de către compania germană Telefunken.", "Catargele radio aveau o înălțime de peste 120 de metri.", "Raza de acțiune a undelor radio era de aproximativ 4.000 km.", "Ocupată de trupele neozeelandeze pe 29 august 1914.", "Punct strategic vital pentru marina imperială germană.", "Stația era dotată cu generatoare proprii pentru energie electrică."],
       en: ["Completed in 1914 by the German Telefunken company.", "The wireless masts reached a height of over 120 meters.", "The station had a transmission range of roughly 4,000 kilometers.", "Captured by New Zealand expeditionary forces on August 29, 1914.", "Key strategic link for the German Imperial Naval Pacific fleet.", "Equipped with its own power plant to support operations."],
     },
+    image: "/poi-images/samoa-apia-old-radio-station-history-v2.webp",
   },
   {
     id: "samoa-malua-print-shop-ruins-history-v2",
@@ -2170,6 +2239,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Face parte din Colegiul Teologic Malua, fondat în 1844.", "Locul unde s-a tipărit prima Biblie samoană între 1855 și 1862.", "Construită din piatră de coral locală și lemn de esență tare.", "Administrată de Societatea Misionară din Londra (LMS).", "Centru de formare pentru primii tipografi nativi samoani.", "Utilajele tipografice au fost importate din Anglia."],
       en: ["Part of Malua Theological College, established in 1844.", "Printed the first Samoan Bible between 1855 and 1862.", "Constructed using local coral limestone and timber.", "Operated by the London Missionary Society (LMS).", "Center for training the first generation of Samoan printers.", "The printing presses were originally imported from England."],
     },
+    image: "/poi-images/samoa-malua-print-shop-ruins-history-v2.webp",
   },
   {
     id: "samoa-apia-old-hospital-history-v2",
@@ -2201,6 +2271,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Fondat în jurul anului 1903 în perioada colonială germană.", "Situat în cartierul Moto'otua din Apia.", "Centru major în lupta împotriva epidemiei de gripă din 1918.", "Prima școală formală de formare pentru asistentele samoane.", "Arhitectura îmbină designul german cu elemente tropicale.", "Astăzi este sediul Spitalului Tupua Tamasese Meaole (TTM)."],
       en: ["Established around 1903 during the German colonial era.", "Located in the Moto'otua district of Apia.", "Central facility during the 1918 influenza pandemic response.", "Site of the first formal training school for Samoan nurses.", "Architecture merged German design with tropical adaptations.", "Currently the site of the Tupua Tamasese Meaole (TTM) Hospital."],
     },
+    image: "/poi-images/samoa-apia-old-hospital-history-v2.webp",
   },
   {
     id: "samoa-mulinuu-chiefly-graveyard-history-v2",
@@ -2232,6 +2303,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Locul de înhumare oficial al celor patru familii regale din Samoa.", "Găzduiește mormântul lui Malietoa Laupepa (decedat în 1898).", "Situat pe peninsula istorică Mulinu'u.", "Mormintele sunt adesea construite din platforme de piatră în trepte.", "Sursă vitală pentru cercetarea genealogiei samoane.", "În apropiere se aflau în trecut reședințele marilor căpetenii."],
       en: ["Burial site for the four paramount royal lineages of Samoa.", "Contains the tomb of Malietoa Laupepa, who died in 1898.", "Located on the historically significant Mulinu'u Peninsula.", "Tombs frequently feature tiered stone or concrete platforms.", "Essential location for studying Samoan genealogical records.", "The area was historically adjacent to the chiefs' residences."],
     },
+    image: "/poi-images/samoa-mulinuu-chiefly-graveyard-history-v2.webp",
   },
   {
     id: "samoa-falealupo-ancient-star-mound-history-v2",
@@ -2263,6 +2335,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Datată probabil între anii 1000 și 1500 d.Hr.", "Utilizată pentru sportul tradițional al căpeteniilor, Sega Lupe.", "Construită din rocă de bazalt vulcanic fără mortar.", "Situată în Falealupo, cel mai vestic sat din Samoa.", "Proiecțiile stelate serveau drept puncte de observație pentru vânători.", "Unul dintre cele mai mari monumente arheologice de pe insula Savai'i."],
       en: ["Likely constructed between 1000 and 1500 AD.", "Integral to the chiefly ritual sport of pigeon catching (Sega Lupe).", "Built from volcanic basalt stones using dry-stack techniques.", "Located in Falealupo, the westernmost village in Samoa.", "The radial arms provided platforms for the catchers to stand.", "Among the most significant archaeological monuments on Savai'i."],
     },
+    image: "/poi-images/samoa-falealupo-ancient-star-mound-history-v2.webp",
   },
   {
     id: "samoa-apia-old-library-history-v2",
@@ -2294,6 +2367,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Deschisă oficial în 1960 sub numele de Nelson Memorial Public Library.", "Finanțată de familia luptătorului pentru independență O.F. Nelson.", "Prima bibliotecă publică de stat din Samoa.", "Găzduia arhive importante despre istoria Oceaniei.", "Centru pentru programele de alfabetizare din capitala Apia.", "Clădirea a fost proiectată după modelul bibliotecilor din Noua Zeelandă."],
       en: ["Officially opened in 1960 as the Nelson Memorial Public Library.", "Funded by the family of independence leader O.F. Nelson.", "The first public library established in the nation of Samoa.", "Held significant archival collections regarding Pacific history.", "Primary hub for literacy initiatives in the capital city of Apia.", "The building design was influenced by New Zealand library standards."],
     },
+    image: "/poi-images/samoa-apia-old-library-history-v2.webp",
   },
   {
     id: "samoa-malua-historic-dormitories-history-v2",
@@ -2325,6 +2399,7 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Parte a celui mai vechi seminar teologic din Pacificul de Sud.", "Găzduiesc studenți din toată Oceania încă din anii 1840.", "Construite dintr-o combinație de calcar de coral și lemn local.", "Dormitoarele urmează un plan simetric al campusului.", "Loc de formare pentru misionarii activi în toată Melanezia.", "Au fost renovate de mai multe ori pe parcursul secolului al XX-lea."],
       en: ["Part of the oldest theological seminary in the South Pacific.", "Has housed students from across Oceania since the 1840s.", "Built using a combination of coral limestone and local timber.", "The dormitories follow a symmetrical collegiate campus layout.", "Training ground for missionaries serving throughout Melanesia.", "The buildings underwent multiple renovations during the 20th century."],
     },
+    image: "/poi-images/samoa-malua-historic-dormitories-history-v2.webp",
   },
   {
     id: "samoa-apia-old-lighthouse-history-v2",
@@ -2356,5 +2431,6 @@ export const samoaHistoryV2: POI[] = [
       ro: ["Construit pentru a securiza intrarea în portul Apia.", "A supraviețuit devastatorului ciclon din 1889.", "Funcționa inițial cu o lampă cu petrol.", "Punct de reper vital pentru comerțul în Pacific.", "Construcție realizată din fier masiv sau beton.", "Astăzi este un monument istoric protejat în zona portului."],
       en: ["Constructed to secure the harbor entrance of Apia.", "Survived the catastrophic cyclone of 1889.", "Originally operated using a kerosene-fueled lamp.", "Vital landmark for trans-Pacific trade routes.", "Features a sturdy construction of iron or concrete.", "Currently a protected historical monument near the wharf."],
     },
+    image: "/poi-images/samoa-apia-old-lighthouse-history-v2.webp",
   }
 ];

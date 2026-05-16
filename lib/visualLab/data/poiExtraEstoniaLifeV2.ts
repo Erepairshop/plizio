@@ -32,6 +32,7 @@ export const estoniaLifeV2: POI[] = [
       ro: ["Suprafață totală de 12.300 de hectare", "Înființat în 1993 pentru protecția biodiversității", "Relief de tip 'kupol' format în era glaciară", "Peste 60 de lacuri presărate printre dealuri", "Lacul Ähijärve este cel mai mare din rezervație", "Habitat protejat pentru 157 de specii de păsări"],
       en: ["Total land area covers 123 square kilometers", "Established as a national park in 1993", "Features over 60 lakes of various sizes", "Highest point reaches 137 meters above sea level", "Protects the unique hilly topography of South Estonia", "Significant population of rare Black Storks"],
     },
+    image: "/poi-images/estonia-karula-park-life-v2.webp",
   },
   {
     id: "estonia-endla-wetland-life-v2",
@@ -64,6 +65,7 @@ export const estoniaLifeV2: POI[] = [
       ro: ["Anul înființării: 1985", "Suprafață: 101,6 km²", "Peste 180 specii de păsări", "Adâncimea mlaștinii: până la 8m"],
       en: ["Founded in 1985", "Area: 101.6 km²", "Over 180 bird species", "Bog depth: up to 8 meters"],
     },
+    image: "/poi-images/estonia-endla-wetland-life-v2.webp",
   },
   {
     id: "estonia-alam-pedja-life-v2",
@@ -96,6 +98,7 @@ export const estoniaLifeV2: POI[] = [
       ro: ["Suprafață de 34.220 de hectare de sălbăticie", "Înființată oficial la data de 17 februarie 1994", "Include valea râului Emajõgi și afluenții săi", "Peste 80% din teritoriu este acoperit de mlaștini", "Adăpostește populații vitale de acvile imperiale", "Accesul este permis doar pe trasee marcate"],
       en: ["Total area spans 342.2 square kilometers", "Established as a nature reserve in 1994", "Designated as a RAMSAR wetland of importance", "Home to 196 bird and 43 mammal species", "Features 5 large bog systems and 12 rivers", "Formerly used as a Soviet air force bombing range"],
     },
+    image: "/poi-images/estonia-alam-pedja-life-v2.webp",
   },
   {
     id: "estonia-oesel-zoo-life-v2",
@@ -128,6 +131,7 @@ export const estoniaLifeV2: POI[] = [
       ro: ["Localizat în județul Saare, lângă Kuressaare", "Specializat în mamifere mari din zona Baltică", "Deține exemplare impresionante de cerb comun", "Program de reproducere pentru specii locale", "Include zone de picnic și observatoare de lemn", "Promovează turismul ecologic pe insula Oesel"],
       en: ["Situated near the capital city of Kuressaare", "Primary focus is on native Estonian wildlife", "Features large enclosures for Red and Fallow deer", "Includes interactive educational displays for kids", "Open for public viewing throughout the seasons", "Operates within a 10-hectare forested area"],
     },
+    image: "/poi-images/estonia-oesel-zoo-life-v2.webp",
   },
   {
     id: "estonia-tallinn-botanic-life-v2",
@@ -160,6 +164,7 @@ export const estoniaLifeV2: POI[] = [
       ro: ["Fondată oficial în data de 1 decembrie 1961", "Ocupă o suprafață de 123 de hectare în Kloostrimetsa", "Colecția botanică numără peste 8.000 de taxoni", "Sera principală (Palmenhaus) are 24 m înălțime", "Rozariul conține peste 600 de soiuri de trandafiri", "Instituție subordonată Academiei de Științe"],
       en: ["Official founding date is December 1, 1961", "Spans 123 hectares in the Pirita river valley", "Hosts a collection of over 8,000 plant species", "The iconic Palm House stands 24 meters tall", "Rose garden features over 600 unique varieties", "Located adjacent to the historic Tallinn TV Tower"],
     },
+    image: "/poi-images/estonia-tallinn-botanic-life-v2.webp",
   },
   {
     id: "estonia-noku-forest-life-v2",
@@ -192,6 +197,7 @@ export const estoniaLifeV2: POI[] = [
       ro: ["Suprafața: 500 ha", "Altitudine medie: 100 m", "Distanța până la Otepää: 5 km", "Numărul de trasee: 10", "Specii de ciuperci: 150", "Populația de urși: estimată 5"],
       en: ["Area: 500 ha", "Altitude: 100-120 m above sea level", "Distance to Otepää: 5 km", "Hiking trails: 20 km", "Number of bird species: 80", "Annual visitors: 10,000"],
     },
+    image: "/poi-images/estonia-noku-forest-life-v2.webp",
   },
   {
     id: "estonia-viljandi-lake-park-life-v2",
@@ -224,6 +230,7 @@ export const estoniaLifeV2: POI[] = [
       ro: ["Include ruinele fortăreței teutone din 1224", "Traseul de drumeție perimetral are 13,5 km", "Podul suspendat are o lungime de 50 de metri", "Lacul Viljandi are o suprafață de 1,58 km²", "Parcul este situat pe un versant abrupt de 30m", "Găzduiește anual festivaluri de muzică folk"],
       en: ["Home to the 13th-century Livonian Order castle", "Hiking trail around the lake spans 13.5 km", "Features a famous 50-meter long suspension bridge", "Lake Viljandi covers an area of 1.58 sq km", "Park sits on a plateau 30 meters above the water", "Primary venue for the national Folk Music Festival"],
     },
+    image: "/poi-images/estonia-viljandi-lake-park-life-v2.webp",
   },
   {
     id: "estonia-mustoja-park-life-v2",
@@ -256,6 +263,7 @@ export const estoniaLifeV2: POI[] = [
       ro: ["Înființat în 1998", "Suprafață: 34,9 km²", "Protejarea dunelor de nisip", "Habitat pentru Pulsatilla patens"],
       en: ["Established in 1998", "Area: 34.9 km²", "Protects rare sand dunes", "Habitat of Pulsatilla patens"],
     },
+    image: "/poi-images/estonia-mustoja-park-life-v2.webp",
   },
   {
     id: "estonia-neeruti-park-life-v2",
@@ -288,6 +296,7 @@ export const estoniaLifeV2: POI[] = [
       ro: ["Protejat din 1957", "Suprafață: 12,5 km²", "4 lacuri glaciare", "Înălțimea ozelor: până la 30m"],
       en: ["Protected since 1957", "Area: 12.5 km²", "4 glacial lakes", "Esker height: up to 30m"],
     },
+    image: "/poi-images/estonia-neeruti-park-life-v2.webp",
   },
   {
     id: "estonia-tolkuse-bog-life-v2",
@@ -320,6 +329,7 @@ export const estoniaLifeV2: POI[] = [
       ro: ["Grosimea stratului de turbă atinge 5 metri", "Duna Tornimägi are o înălțime record de 18 metri", "Traseul pe scânduri are o lungime de 2,2 km", "Vârsta mlaștinii este de circa 8.000 de ani", "Turnul de observare are o înălțime de 15 metri", "Rezervația protejează 250 de specii de plante"],
       en: ["Peat layer reaches a thickness of 5 meters", "Tornimägi dune is Estonia's highest at 18 meters", "Wooden boardwalk trail is 2.2 kilometers long", "Bog age is estimated at approximately 8,000 years", "Features a 15-meter tall wooden watchtower", "Located within the 11,000-ha Luitemaa Reserve"],
     },
+    image: "/poi-images/estonia-tolkuse-bog-life-v2.webp",
   },
   {
     id: "estonia-aegviidu-forest-life-v2",
@@ -352,6 +362,7 @@ export const estoniaLifeV2: POI[] = [
       ro: ["Suprafața: 800 ha", "Numărul de lacuri: 5", "Distanța până la Tallinn: 50 km", "Populația orașului Aegviidu: 800", "Anul înființării zonei protejate: 1991", "Vizitatori anual: 15 000"],
       en: ["Area: 800 ha", "Altitude: 80-100 m above sea level", "Distance to Tallinn: 50 km", "Number of lakes: 5", "Largest lake: Paukjärv (10 ha)", "Annual visitors: 15,000"],
     },
+    image: "/poi-images/estonia-aegviidu-forest-life-v2.webp",
   },
   {
     id: "estonia-viidumae-life-v2",
@@ -384,6 +395,7 @@ export const estoniaLifeV2: POI[] = [
       ro: ["Înființată ca rezervație în anul 1957", "Suprafață totală de 1.870 de hectare", "Altitudinea maximă pe insulă: Raunamägi (54 m)", "Adăpostește planta endemică Rhinanthus osiliensis", "Peste 700 de specii de plante vasculare inventariate", "Relief format pe treptele vechiului Lac Ancylus"],
       en: ["Established as a nature reserve in 1957", "Spans 18.7 square kilometers on Western Saaremaa", "Highest point: Raunamägi ridge at 54 meters", "Home to the endemic Saaremaa Rattlesnake-root", "Contains over 700 species of vascular plants", "Preserves the shoreline of the ancient Ancylus Lake"],
     },
+    image: "/poi-images/estonia-viidumae-life-v2.webp",
   },
   {
     id: "estonia-puhtu-laelatu-life-v2",
@@ -416,6 +428,7 @@ export const estoniaLifeV2: POI[] = [
       ro: ["Record mondial: 76 specii de plante pe 1 m²", "Rezervația Puhtu a fost fondată în 1939", "Stație ornitologică funcțională din anul 1953", "Punct de oprire pentru 1 milion de păsări migratoare", "Include pajiști împădurite de tip calcaros", "Biodiversitate vegetală unică în bazinul Baltic"],
       en: ["Holds record of 76 plant species per square meter", "Puhtu bird sanctuary was established in 1939", "Ornithological station active since 1953", "Crucial stopover for over 1 million migratory birds", "Features rare species-rich wooded meadows", "Home to ancient oak and hazel groves by the sea"],
     },
+    image: "/poi-images/estonia-puhtu-laelatu-life-v2.webp",
   },
   {
     id: "estonia-otsa-park-life-v2",
@@ -448,6 +461,7 @@ export const estoniaLifeV2: POI[] = [
       ro: ["Amenajat la mijlocul secolului al XIX-lea", "Parte integrantă a unui fost domeniu boieresc", "Include exemplare de stejar de peste 200 de ani", "Dispune de un iaz central cu rol decorativ", "Situat în județul Võru, în sudul Estoniei", "Arie protejată pentru conservarea arborilor bătrâni"],
       en: ["Landscaped in the mid-19th century", "Originally part of a prominent manor estate", "Features English Oaks over 200 years old", "Central artificial pond serves as a focal point", "Located in Võru County, Southern Estonia", "Protected habitat for several rare bat species"],
     },
+    image: "/poi-images/estonia-otsa-park-life-v2.webp",
   },
   {
     id: "estonia-tehumardi-forest-life-v2",
@@ -480,6 +494,7 @@ export const estoniaLifeV2: POI[] = [
       ro: ["Suprafața: 200 ha", "Lungimea plajei: 1 km", "Distanța până la Kuressaare: 15 km", "Anul bătăliei: 1944", "Numărul de trasee: 5", "Vizitatori anual: 20 000"],
       en: ["Area: 200 ha", "Altitude: 5-10 m above sea level", "Beach length: 1 km", "Distance to Kuressaare: 15 km", "Year of battle: 1944", "Annual visitors: 20,000"],
     },
+    image: "/poi-images/estonia-tehumardi-forest-life-v2.webp",
   },
   {
     id: "estonia-vaike-viik-park-life-v2",
@@ -512,6 +527,7 @@ export const estoniaLifeV2: POI[] = [
       ro: ["Adâncimea maximă a lagunei este de 1,5 metri", "Apa se încălzește rapid datorită adâncimii reduse", "Habitat de cuibărit pentru lebăda cucuiată", "Situat în orașul balnear istoric Haapsalu", "Renumit pentru nămolul sapropelic terapeutic", "Traseul perimetral are o lungime de 2,5 km"],
       en: ["Maximum bay depth is only 1.5 meters", "Water warms up rapidly during summer months", "Nesting site for Mute Swans and Grey Herons", "Located in the historic resort town of Haapsalu", "Famous for the local therapeutic sea mud", "Shoreline promenade extends for 2.5 kilometers"],
     },
+    image: "/poi-images/estonia-vaike-viik-park-life-v2.webp",
   },
   {
     id: "estonia-paunkula-park-life-v2",
@@ -544,6 +560,7 @@ export const estoniaLifeV2: POI[] = [
       ro: ["Rezervuar construit în 1960", "Suprafață: 4,5 km²", "Adâncime maximă: 8,7m", "Peste 12 insule mici"],
       en: ["Reservoir built in 1960", "Area: 4.5 km²", "Max depth: 8.7 meters", "Over 12 small islands"],
     },
+    image: "/poi-images/estonia-paunkula-park-life-v2.webp",
   },
   {
     id: "estonia-veski-park-life-v2",
@@ -576,6 +593,7 @@ export const estoniaLifeV2: POI[] = [
       ro: ["Specializat în dendrologie și plante perene", "Găzduiește peste 400 de taxoni vegetali", "Localizat la limita regiunilor Tartumaa și Põlvamaa", "Versanții terasați coboară spre râul Ahja", "Grădină botanică privată deschisă publicului", "Colecție vastă de specii exotice rezistente la ger"],
       en: ["Specializes in dendrology and woody plants", "Hosts a collection of over 400 plant taxa", "Located near the border of Tartu and Põlva counties", "Terraced slopes lead down to the Ahja River", "Privately managed botanical gem open to visitors", "Focuses on cold-hardy exotic plant species"],
     },
+    image: "/poi-images/estonia-veski-park-life-v2.webp",
   },
   {
     id: "estonia-kurkse-park-life-v2",
@@ -608,6 +626,7 @@ export const estoniaLifeV2: POI[] = [
       ro: ["La 50 km de Tallinn", "Vedere spre insulele Pakri", "Monumentul tragediei Kurkse", "Locație la Golful Finlandei"],
       en: ["50km from Tallinn", "View of Pakri Islands", "Kurkse tragedy monument", "Located on Gulf of Finland"],
     },
+    image: "/poi-images/estonia-kurkse-park-life-v2.webp",
   },
   {
     id: "estonia-ranna-forest-life-v2",
@@ -640,6 +659,7 @@ export const estoniaLifeV2: POI[] = [
       ro: ["Suprafața: 300 ha", "Lungimea plajelor: 3 km", "Distanța până la Haapsalu: 5 km", "Parte a Parcului Național Matsalu", "Numărul de trasee: 8", "Vizitatori anual: 30 000"],
       en: ["Area: 300 ha", "Beach length: 3 km", "Distance to Haapsalu: 5 km", "Part of Matsalu National Park", "Number of bird species: 100", "Annual visitors: 30,000"],
     },
+    image: "/poi-images/estonia-ranna-forest-life-v2.webp",
   },
   {
     id: "estonia-kaldase-park-life-v2",
@@ -672,6 +692,7 @@ export const estoniaLifeV2: POI[] = [
       ro: ["Locație: Tallinn Mustamäe", "Lungime alei: aprox. 1 km", "Renovat în anii 2010", "Specii de arbori: arțar, mesteacăn"],
       en: ["Location: Tallinn Mustamäe", "Path length: approx. 1 km", "Renovated in the 2010s", "Main trees: Maple, Birch"],
     },
+    image: "/poi-images/estonia-kaldase-park-life-v2.webp",
   },
   {
     id: "estonia-salme-park-life-v2",
@@ -704,6 +725,7 @@ export const estoniaLifeV2: POI[] = [
       ro: ["Nave descoperite în 2008", "Datare: aprox. 750 d.Hr.", "Nava mare: 17m lungime", "Peste 40 de morminte de războinici"],
       en: ["Ship discovery: 2008", "Date: approx. 750 AD", "Larger ship: 17m long", "Over 40 warrior burials"],
     },
+    image: "/poi-images/estonia-salme-park-life-v2.webp",
   },
   {
     id: "estonia-vaike-park-life-v2",
@@ -736,5 +758,6 @@ export const estoniaLifeV2: POI[] = [
       ro: ["Suprafață: sub 1 hectar", "Întreținere municipală", "Dotări: bănci, iluminat", "Punct de întâlnire central"],
       en: ["Area: under 1 hectare", "Municipality maintained", "Features: benches, lighting", "Central meeting spot"],
     },
+    image: "/poi-images/estonia-vaike-park-life-v2.webp",
   }
 ];

@@ -32,6 +32,7 @@ export const bulgariaHistoryV2: POI[] = [
       ro: ["Înălțimea maximă a piramidelor este de 12 metri.", "Situl a fost declarat monument al naturii în anul 1964.", "Straturile sedimentare datează din epoca Pliocenului.", "Formațiunile sunt situate la o altitudine de 600-700 de metri.", "Aria protejată se întinde pe o suprafață de 7,4 hectare.", "Baza unora dintre piramide are o lățime de până la 40 de metri."],
       en: ["The pyramids reach a maximum height of 12 meters.", "The site was declared a natural landmark in 1964.", "The sedimentary layers date back to the Pliocene epoch.", "The formations are located at an altitude of 600 to 700 meters.", "The protected area covers approximately 7.4 hectares.", "The base of some formations is up to 40 meters wide."],
     },
+    image: "/poi-images/bulgaria-stob-pyramids-history-v2.webp",
   },
   {
     id: "bulgaria-kalofer-monastery-history-v2",
@@ -64,6 +65,7 @@ export const bulgariaHistoryV2: POI[] = [
       ro: ["Mănăstirea a fost fondată inițial în anul 1640.", "Complexul a fost distrus complet de otomani în anul 1877.", "Situl este amplasat în valea râului Tundzha.", "Adăpostește o colecție de icoane datând din secolul al XIX-lea.", "Distanța până la orașul Kalofer este de aproximativ 7 kilometri.", "Mănăstirea funcționează în prezent ca lăcaș de cult pentru maici."],
       en: ["The monastery was originally founded in 1640.", "The complex was entirely burnt down by Ottoman troops in 1877.", "The site is located along the banks of the Tundzha River.", "It contains valuable icons from the 19th-century Revival period.", "The distance to the town of Kalofer is about 7 kilometers.", "It serves as a primary starting point for trails in the Central Balkan."],
     },
+    image: "/poi-images/bulgaria-kalofer-monastery-history-v2.webp",
   },
   {
     id: "bulgaria-mezek-fortress-history-v2",
@@ -96,6 +98,7 @@ export const bulgariaHistoryV2: POI[] = [
       ro: ["Cetatea a fost construită în secolul al XI-lea sau al XII-lea.", "Structura defensivă include 9 turnuri rotunde masive.", "Grosimea zidurilor cetății ajunge la 2,5 metri.", "Fortificația ocupă o suprafață totală de 0,7 hectare.", "Turnurile au o înălțime de peste 10 metri.", "Situl a fost un punct strategic pentru Imperiul Bizantin."],
       en: ["The fortress was built in the 11th or 12th century.", "The defensive system includes 9 massive round towers.", "The walls are up to 2.5 meters thick in some sections.", "The fortress covers a total area of 0.7 hectares.", "The height of the towers reaches up to 10 meters.", "It served as a key defensive post for the Byzantine Empire."],
     },
+    image: "/poi-images/bulgaria-mezek-fortress-history-v2.webp",
   },
   {
     id: "bulgaria-magura-cave-paintings-history-v2",
@@ -128,6 +131,7 @@ export const bulgariaHistoryV2: POI[] = [
       ro: ["Cele mai vechi picturi au o vechime de aproximativ 10.000 de ani.", "Pigmentul utilizat pentru picturi provine din guano de liliac.", "Lungimea totală a peșterii depășește 2,5 kilometri.", "Calendarul solar descoperit indică un an de 366 de zile.", "Peștera a fost declarată monument al naturii în 1960.", "Situl a fost inclus pe lista indicativă UNESCO în 1984."],
       en: ["The oldest paintings date back approximately 10,000 years.", "Bat guano was used as the primary pigment for the art.", "The total length of the cave system exceeds 2.5 kilometers.", "The solar calendar found inside tracks 366 days.", "The cave was declared a natural landmark in 1960.", "It has been on the UNESCO tentative list since 1984."],
     },
+    image: "/poi-images/bulgaria-magura-cave-paintings-history-v2.webp",
   },
   {
     id: "bulgaria-kabile-archaeological-site-history-v2",
@@ -160,6 +164,7 @@ export const bulgariaHistoryV2: POI[] = [
       ro: ["Orașul a fost fondat în mileniul al II-lea î.Hr. de către traci.", "Filip al II-lea al Macedoniei a cucerit orașul în 341 î.Hr.", "Situl a fost sediu episcopal între secolele IV și VI d.Hr.", "Sanctuarul rupestru este situat pe dealul Zaychi Vrah.", "Rezervația arheologică se întinde pe o suprafață de 600 de hectare.", "Kabile a fost distrus de invaziile goților în anul 378 d.Hr."],
       en: ["The city was founded by Thracians in the 2nd millennium BCE.", "Philip II of Macedon conquered Kabile in 341 BCE.", "It served as an episcopal center between the 4th and 6th centuries CE.", "The rock sanctuary is located on Zaychi Vrah hill.", "The archaeological reserve covers an area of 600 hectares.", "The city was severely damaged by Goths in 378 CE."],
     },
+    image: "/poi-images/bulgaria-kabile-archaeological-site-history-v2.webp",
   },
   {
     id: "bulgaria-shumen-fortress-history-v2",
@@ -192,6 +197,7 @@ export const bulgariaHistoryV2: POI[] = [
       ro: ["Primele fortificații trace datează din secolul al XII-lea î.Hr.", "Romanii au reconstruit cetatea între secolele II și IV d.Hr.", "Cetatea a fost distrusă definitiv în timpul cruciadei din 1444.", "Săpăturile au scos la iveală fundațiile a 12 biserici medievale.", "Situl este situat la o altitudine de aproximativ 450 de metri.", "Shumen a fost un centru defensiv cheie timp de peste 3 milenii."],
       en: ["The earliest Thracian settlement dates to the 12th century BCE.", "The Romans reinforced the fortress between the 2nd and 4th centuries CE.", "The fortress was destroyed by crusaders in the year 1444.", "Foundations of 12 medieval churches have been discovered inside.", "The plateau stands at an altitude of approximately 450 meters.", "The site represents over 3,000 years of continuous fortification."],
     },
+    image: "/poi-images/bulgaria-shumen-fortress-history-v2.webp",
   },
   {
     id: "bulgaria-perushtitsa-monument-history-v2",
@@ -224,6 +230,7 @@ export const bulgariaHistoryV2: POI[] = [
       ro: ["Monumentul a fost inaugurat oficial în anul 1976.", "Comemorează centenarul Insurecției din Aprilie 1876.", "Accesul se face printr-o scară monumentală impresionantă.", "Simbolizează lupta a trei generații de revoluționari.", "Este situat pe un deal ce oferă vizibilitate asupra orașului.", "Arhitectura este reprezentativă pentru stilul brutalist."],
       en: ["The monument was officially inaugurated in 1976.", "It marks the centenary of the 1876 April Uprising.", "Access to the monument is provided by a long ceremonial staircase.", "It honors fighters from 1876, 1923, and the mid-20th century.", "The structure is located on a hill overlooking the Thracian plain.", "The design is a prominent example of Bulgarian brutalist art."],
     },
+    image: "/poi-images/bulgaria-perushtitsa-monument-history-v2.webp",
   },
   {
     id: "bulgaria-kustendil-roman-baths-history-v2",
@@ -256,6 +263,7 @@ export const bulgariaHistoryV2: POI[] = [
       ro: ["Termele au fost construite în secolele II-III d.Hr.", "Situl arheologic ocupă o suprafață de 1.000 de metri pătrați.", "Sistemul de încălzire (hypocaustum) este vizibil și astăzi.", "Zidurile sunt construite folosind tehnica opus mixtum.", "Erau cele mai mari terme din Tracia după cele din Odessos.", "Kyustendil beneficiază de izvoare termale cu temperaturi de 74°C."],
       en: ["The baths were constructed in the 2nd and 3rd centuries CE.", "The complex covers an area of approximately 1,000 square meters.", "A sophisticated hypocaust heating system was utilized.", "The walls feature the Roman opus mixtum masonry technique.", "The site was part of an Asclepion, a temple-complex for healing.", "These were the second largest Roman baths in ancient Thrace."],
     },
+    image: "/poi-images/bulgaria-kustendil-roman-baths-history-v2.webp",
   },
   {
     id: "bulgaria-pliska-ruins-history-v2",
@@ -288,6 +296,7 @@ export const bulgariaHistoryV2: POI[] = [
       ro: ["Pliska a fost capitala Bulgariei între anii 681 și 893.", "Orașul Exterior se întindea pe 23 de kilometri pătrați.", "Marea Basilică are o lungime de 102 metri.", "Zidurile Orașului Interior au o grosime de 2,6 metri.", "Hanul Krum a domnit aici în timpul apogeului militar al orașului.", "Orașul a fost incendiat de bizantini în anul 811 d.Hr."],
       en: ["Pliska served as the capital from 681 to 893 CE.", "The Outer City covered a vast area of 23 square kilometers.", "The Great Basilica measured 102 meters in length.", "Inner City walls were constructed with stones 2.6 meters thick.", "The city was burnt by Byzantine Emperor Nicephorus I in 811.", "The Cyrillic script was officially adopted here in 886 CE."],
     },
+    image: "/poi-images/bulgaria-pliska-ruins-history-v2.webp",
   },
   {
     id: "bulgaria-preslav-ruins-history-v2",
@@ -320,6 +329,7 @@ export const bulgariaHistoryV2: POI[] = [
       ro: ["Preslav a deținut statutul de capitală între 893 și 972.", "Epoca de Aur a Bulgariei a avut centrul în acest oraș.", "Biserica de Aur a fost construită în jurul anului 907.", "Zidurile de apărare aveau o înălțime de peste 10 metri.", "Aici s-a dezvoltat tehnica unică a ceramicii pictate de Preslav.", "Orașul a fost cucerit de împăratul bizantin Ioan Tzimiskes în 971."],
       en: ["Preslav was the Bulgarian capital from 893 to 972 CE.", "It was the heart of the Golden Age under Tsar Simeon I.", "The famous Golden Church was consecrated in the year 907.", "Defensive walls reached a height of over 10 meters.", "The iconic ceramic image of St. Theodore was discovered here.", "The city fell to Byzantine forces in 971 CE."],
     },
+    image: "/poi-images/bulgaria-preslav-ruins-history-v2.webp",
   },
   {
     id: "bulgaria-lovetsh-covered-bridge-history-v2",
@@ -352,6 +362,7 @@ export const bulgariaHistoryV2: POI[] = [
       ro: ["Podul a fost construit între anii 1874 și 1876 de către Kolyu Ficheto.", "Structura are o lungime totală de 106 metri și o lățime de 10 metri.", "După incendiul din 1925, podul a fost reconstruit din beton în anul 1931.", "Aspectul original din lemn a fost restabilit prin renovarea din 1981-1982.", "Interiorul podului găzduiește în prezent 14 mici magazine și ateliere.", "Este singurul pod acoperit cu funcție comercială din regiunea Balcanilor."],
       en: ["The bridge was built between 1874 and 1876 by master Kolyu Ficheto.", "The structure has a total length of 106 meters and is 10 meters wide.", "Following a fire in 1925, it was rebuilt with reinforced concrete in 1931.", "The authentic wooden look was restored during renovations in 1981-1982.", "There are currently 14 small shops and workshops operating on the bridge.", "It is the only bridge of its kind on the entire Balkan Peninsula."],
     },
+    image: "/poi-images/bulgaria-lovetsh-covered-bridge-history-v2.webp",
   },
   {
     id: "bulgaria-dobrich-ethnographic-history-v2",
@@ -384,6 +395,7 @@ export const bulgariaHistoryV2: POI[] = [
       ro: ["Casa a fost construită în anul 1860 pentru un negustor din Dobrici.", "Clădirea face parte din rezervația arhitecturală 'Vechiul Dobrici'.", "Muzeul ilustrează viața rurală și urbană din Dobrogea secolului al XIX-lea.", "Arhitectura urmează stilul tradițional al perioadei Renașterii Naționale.", "Expoziția cuprinde piese rare de costume populare dobrogene.", "Casa a fost restaurată și deschisă ca muzeu în anul 1970."],
       en: ["The house was built in 1860 for a prominent local merchant.", "It is located within the 'Old Dobrich' ethnographic and architectural complex.", "The museum showcases Dobrujan life from the late 1800s to early 1900s.", "The architecture is a classic example of the Bulgarian National Revival style.", "It holds a significant collection of authentic Dobrujan folk costumes.", "The building was converted into a museum and opened to the public in 1970."],
     },
+    image: "/poi-images/bulgaria-dobrich-ethnographic-history-v2.webp",
   },
   {
     id: "bulgaria-varna-roman-thermae-history-v2",
@@ -416,6 +428,7 @@ export const bulgariaHistoryV2: POI[] = [
       ro: ["Termele au fost construite la sfârșitul secolului al II-lea d.Hr.", "Sunt a patra cea mai mare baie romană din Europa după suprafață.", "Zidurile masive din cărămidă și piatră ating înălțimi de 18 metri.", "Sistemul de încălzire 'hypocaustum' este vizibil în fundațiile clădirii.", "Complexul se întinde pe o suprafață de peste 7.000 de metri pătrați.", "Situl este situat în partea de sud-est a orașului modern Varna."],
       en: ["The baths were constructed in the late 2nd century AD around 150-200 AD.", "They are the 4th largest Roman baths in Europe by total area.", "The surviving walls reach an impressive height of up to 18 meters.", "The complex covers an area of approximately 7,000 square meters.", "They featured a typical Roman layout with cold, warm, and hot rooms.", "The facility was in active use until the late 3rd century AD."],
     },
+    image: "/poi-images/bulgaria-varna-roman-thermae-history-v2.webp",
   },
   {
     id: "bulgaria-zheravna-architectural-history-v2",
@@ -448,6 +461,7 @@ export const bulgariaHistoryV2: POI[] = [
       ro: ["Satul cuprinde peste 200 de case din lemn declarate monumente istorice.", "Majoritatea clădirilor datează din secolele al XVIII-lea și al XIX-lea.", "Biserica Sfântul Nicolae a fost ridicată în anul 1834.", "Zheravna este locul de naștere al scriitorului bulgar Yordan Yovkov.", "Localitatea se află la o altitudine de aproximativ 650 de metri.", "Statutul de rezervație arhitecturală a fost acordat în anul 1958."],
       en: ["The village features over 200 preserved wooden houses from the Revival era.", "Most of the architecture dates back to the 18th and 19th centuries.", "The Saint Nicholas Church was constructed in 1834.", "Zheravna is the birthplace of the famous Bulgarian writer Yordan Yovkov.", "It is situated at an elevation of roughly 650 meters in the Balkan Mountains.", "The village was officially declared an architectural reserve in 1958."],
     },
+    image: "/poi-images/bulgaria-zheravna-architectural-history-v2.webp",
   },
   {
     id: "bulgaria-batenberg-mausoleum-history-v2",
@@ -480,6 +494,7 @@ export const bulgariaHistoryV2: POI[] = [
       ro: ["Mausoleul a fost construit în Sofia între anii 1895 și 1897.", "Arhitectul elvețian Hermann Mayer a proiectat edificiul în stil neoclasic.", "Găzduiește rămășițele pământești ale primului principe bulgar modern.", "Clădirea are o înălțime de 11 metri și o suprafață de 80 m.p.", "A fost redeschis pentru public pe 25 februarie 1991.", "Alexandru I a fost principele Bulgariei între anii 1879 și 1886."],
       en: ["The mausoleum was constructed in Sofia between 1895 and 1897.", "It was designed by the Swiss architect Hermann Mayer in Neoclassical style.", "It contains the remains of Prince Alexander I of Battenberg.", "The structure stands 11 meters tall and covers an area of 80 square meters.", "The monument was inaccessible to the public from 1946 until 1991.", "Alexander I served as the sovereign of Bulgaria from 1879 to 1886."],
     },
+    image: "/poi-images/bulgaria-batenberg-mausoleum-history-v2.webp",
   },
   {
     id: "bulgaria-svishtov-clock-tower-history-v2",
@@ -512,6 +527,7 @@ export const bulgariaHistoryV2: POI[] = [
       ro: ["Turnul a fost construit în anul 1763 de către meșterul Bogdan.", "Înălțimea totală a structurii este de aproximativ 23 de metri.", "Clopotul actual a fost turnat în Banat în anul 1890.", "Turnul a fost restaurat după cutremurul major din 4 martie 1977.", "Baza turnului este construită din piatră masivă fasonată.", "Este un monument istoric de importanță națională din regiunea Dunării."],
       en: ["The tower was completed in 1763 by the master builder Bogdan.", "The total height of the structure is approximately 23 meters.", "The bell was cast in 1890 in the Banat region.", "The building survived the massive 1977 Vrancea earthquake.", "It features a stone base with a wooden superstructure.", "The clock mechanism is still operational and strikes every hour."],
     },
+    image: "/poi-images/bulgaria-svishtov-clock-tower-history-v2.webp",
   },
   {
     id: "bulgaria-asenov-fortress-history-v2",
@@ -544,6 +560,7 @@ export const bulgariaHistoryV2: POI[] = [
       ro: ["Cetatea a fost extinsă și consolidată de țarul Ioan Asan al II-lea în 1230.", "Biserica Sfânta Născătoare de Dumnezeu datează din secolul al XII-lea.", "Fortificația este situată pe o stâncă la o altitudine de 279 de metri.", "Zidurile de apărare au fost distruse de otomani în anul 1393.", "Biserica este un edificiu cu două etaje, rar întâlnit în acea epocă.", "Situl se află la doar 2 km distanță de orașul modern Asenovgrad."],
       en: ["The fortress was significantly expanded by Tsar Ivan Asen II in 1230.", "The Church of the Holy Mother of God dates back to the 12th century.", "It is situated on a steep cliff at an elevation of 279 meters.", "Most of the fortress walls were destroyed by the Ottomans in 1393.", "The church is a unique two-story medieval structure that survived the wars.", "An inscription from 1230 by Tsar Ivan Asen II is preserved on the site."],
     },
+    image: "/poi-images/bulgaria-asenov-fortress-history-v2.webp",
   },
   {
     id: "bulgaria-panagyurishte-gold-treasure-history-v2",
@@ -576,6 +593,7 @@ export const bulgariaHistoryV2: POI[] = [
       ro: ["Tezaurul a fost descoperit pe 8 decembrie 1949 de către frații Deikov.", "Colecția este formată din 9 vase din aur masiv de 24 de carate.", "Greutatea totală a obiectelor de aur este de 6,164 kilograme.", "Obiectele datează din secolul al IV-lea sau începutul secolului al III-lea î.Hr.", "Decorul vaselor include reprezentări ale lui Heracle și Tezeu.", "Este considerat unul dintre cele mai rafinate tezaure antice din lume."],
       en: ["The treasure was found on December 8, 1949, by the Deikov brothers.", "It consists of 9 vessels made of 24-karat solid gold.", "The total weight of the gold items is exactly 6.164 kilograms.", "The artifacts date from the late 4th or early 3rd century BC.", "The vessels depict various scenes from classical Greek mythology.", "The original treasure is housed in the National Historical Museum in Sofia."],
     },
+    image: "/poi-images/bulgaria-panagyurishte-gold-treasure-history-v2.webp",
   },
   {
     id: "bulgaria-nesebar-ruins-history-v2",
@@ -608,6 +626,7 @@ export const bulgariaHistoryV2: POI[] = [
       ro: ["Orașul a fost întemeiat de traci sub denumirea de Mesembria.", "Nesebar a fost inclus în Patrimoniul Mondial UNESCO în anul 1983.", "În oraș se găsesc ruinele a peste 40 de biserici istorice.", "Biserica Sfânta Sofia este cel mai vechi lăcaș de cult bizantin din oraș.", "Peninsula are o lungime de aproximativ 850 m și o lățime de 300 m.", "Zidurile de apărare de la intrare datează din perioada elenistică și romană."],
       en: ["The city was originally founded by Thracians as Mesembria.", "Nessebar was added to the UNESCO World Heritage list in 1983.", "There are remains of over 40 churches from different historical periods.", "The Church of St. Sophia dates to the late 5th or early 6th century.", "The old town is located on a peninsula 850 meters long and 300 meters wide.", "The massive fortress walls at the entrance date back to ancient times."],
     },
+    image: "/poi-images/bulgaria-nesebar-ruins-history-v2.webp",
   },
   {
     id: "bulgaria-shipka-memorial-history-v2",
@@ -640,6 +659,7 @@ export const bulgariaHistoryV2: POI[] = [
       ro: ["Monumentul a fost inaugurat oficial la data de 26 august 1934.", "Structura are o înălțime de 31,5 metri și 894 de trepte de acces.", "Leul de bronz de la intrare are o lungime de 8 metri și o înălțime de 4 metri.", "Proiectul arhitectural a fost realizat de către Atanas Donkov.", "În interiorul monumentului se află un muzeu dispus pe șapte etaje.", "Situl se află la o altitudine de 1.326 de metri pe vârful Stoletov."],
       en: ["The monument was officially inaugurated on August 26, 1934.", "It stands 31.5 meters tall and is reached by climbing 894 steps.", "The bronze lion above the entrance is 8 meters long and 4 meters high.", "The structure was designed by architect Atanas Donkov.", "The ground floor contains a marble sarcophagus with remains of soldiers.", "The memorial is located at an altitude of 1,326 meters on Stoletov Peak."],
     },
+    image: "/poi-images/bulgaria-shipka-memorial-history-v2.webp",
   },
   {
     id: "bulgaria-koprivshtitsa-history-house-v2",
@@ -672,6 +692,7 @@ export const bulgariaHistoryV2: POI[] = [
       ro: ["În Koprivștița a fost tras primul foc de armă al Revoltei din Aprilie pe 20 aprilie 1876.", "Orașul adăpostește în total 383 de monumente de arhitectură protejate din secolul al XIX-lea.", "Casa Oslekov a fost construită între 1853 și 1856 la comanda unui negustor bogat.", "Orașul este situat la o altitudine medie de aproximativ 1030 de metri deasupra mării.", "Aici are loc la fiecare cinci ani Festivalul Național de Folclor Bulgar.", "Orașul a fost declarat oficial rezervație arhitecturală și istorică în anul 1952."],
       en: ["The first shot of the April Uprising was fired in Koprivshtitsa on April 20, 1876.", "The town contains a total of 383 protected architectural monuments from the 19th century.", "The Oslekov House was constructed between 1853 and 1856 for a wealthy merchant.", "Koprivshtitsa is situated at an average altitude of 1,030 meters above sea level.", "The National Festival of Bulgarian Folklore is held here once every five years.", "The town was officially designated as an architectural and historical reserve in 1952."],
     },
+    image: "/poi-images/bulgaria-koprivshtitsa-history-house-v2.webp",
   },
   {
     id: "bulgaria-veliko-tarnovo-art-history-v2",
@@ -704,6 +725,7 @@ export const bulgariaHistoryV2: POI[] = [
       ro: ["Samovodska Charshiya a fost dezvoltată ca piață în anii 1860 și 1870.", "'Casa cu Maimuța' a fost construită în anul 1849 de arhitectul Kolyu Ficheto.", "În cartier funcționează peste 15 ateliere diferite de meșteșuguri tradiționale.", "Cartierul Varusha găzduiește Biserica Sfântul Nicolae, sfințită în anul 1836.", "Străzile sunt dispuse pe mai multe niveluri pe versanții de deasupra râului Iantra.", "Veliko Tărnovo a fost capitala celui de-al Doilea Imperiu Bulgar între 1185 și 1393."],
       en: ["The Samovodska Charshiya was developed as a marketplace during the 1860s and 1870s.", "The 'House with the Monkey' was built in 1849 by the renowned architect Kolyu Ficheto.", "The quarter features more than 15 different traditional craft workshops still in operation.", "The Varusha district houses the St. Nicholas Church, which was consecrated in 1836.", "The alleys are situated on multiple levels along the steep slopes above the Yantra River.", "Veliko Tarnovo served as the capital of the Second Bulgarian Empire from 1185 to 1393."],
     },
+    image: "/poi-images/bulgaria-veliko-tarnovo-art-history-v2.webp",
   },
   {
     id: "bulgaria-nikopolis-ad-istrum-history-v2",
@@ -736,6 +758,7 @@ export const bulgariaHistoryV2: POI[] = [
       ro: ["Orașul a fost fondat de împăratul roman Traian între anii 101 și 106 d.Hr.", "Un apeduct cu o lungime de 25 de kilometri alimenta orașul cu apă proaspătă zilnic.", "Odeonul orașului avea o capacitate de aproximativ 400 de spectatori pentru evenimente culturale.", "Arheologii au descoperit peste 900 de tipuri diferite de monede bătute în oraș.", "Zidurile cetății înconjurau o zonă centrală de aproximativ 21 de hectare.", "Nicopolis ad Istrum a fost inclus pe lista tentativă a Patrimoniului Mondial UNESCO în 1984."],
       en: ["The city was founded by Roman Emperor Trajan between 101 and 106 AD.", "A 25-kilometer-long aqueduct supplied the city with fresh water on a daily basis.", "The city's odeon could accommodate approximately 400 spectators for cultural events.", "Archaeologists have discovered over 900 different types of coins minted within the city.", "The city walls enclosed a core area covering roughly 21 hectares.", "Nicopolis ad Istrum was added to the UNESCO World Heritage Tentative List in 1984."],
     },
+    image: "/poi-images/bulgaria-nikopolis-ad-istrum-history-v2.webp",
   },
   {
     id: "bulgaria-aladzha-monastery-history-v2",
@@ -768,6 +791,7 @@ export const bulgariaHistoryV2: POI[] = [
       ro: ["Mănăstirea a fost săpată într-o stâncă de calcar înaltă de aproximativ 40 de metri.", "Încăperile sunt distribuite pe două niveluri, conectate odinioară prin scări de lemn.", "Primul nivel adăpostește biserica principală, chiliile și trapeza.", "În apropiere se află 'Catacombele', peșteri datând din secolele IV-VI d.Hr.", "Numele 'Aladzha' a fost menționat în scris pentru prima dată în secolul al XIX-lea.", "Mănăstirea a fost declarată oficial monument național în anul 1912."],
       en: ["The monastery was carved into a limestone cliff approximately 40 meters high.", "The rooms are spread across two levels, originally connected by wooden stairs.", "The first level contains the main church, the monastic cells, and the dining room.", "Nearby are the 'Catacombs,' a set of caves dating from the 4th to 6th centuries.", "The name 'Aladzha' was first recorded in written sources during the 19th century.", "The monastery was officially declared a national monument in 1912."],
     },
+    image: "/poi-images/bulgaria-aladzha-monastery-history-v2.webp",
   },
   {
     id: "bulgaria-ivanovo-rock-churches-history-v2",
@@ -800,6 +824,7 @@ export const bulgariaHistoryV2: POI[] = [
       ro: ["Complexul bisericilor din Ivanovo a fost inclus în lista Patrimoniului Mondial UNESCO în 1979.", "Cea mai importantă biserică este 'Sfânta Fecioară', cu fresce datând din anii 1330.", "Frescele prezintă trăsături umane realiste și expresii emoționale avansate.", "Țarul Ivan Alexandru este reprezentat ca ctitor în una dintre biserici.", "Bisericile sunt situate la o înălțime de până la 32 de metri deasupra râului.", "În Evul Mediu, complexul a constituit unul dintre cele mai importante centre spirituale ale Bulgariei."],
       en: ["The Ivanovo Rock-hewn Churches complex was inscribed on the UNESCO World Heritage List in 1979.", "The most significant church is the 'Holy Virgin,' featuring frescoes from the 1330s.", "The murals are noted for their realistic human features and emotional expressions.", "Tsar Ivan Alexander is depicted as a donor (ktetor) in one of the main churches.", "The churches are located at heights of up to 32 meters above the river bed.", "During the Middle Ages, the complex was one of the foremost spiritual centers in Bulgaria."],
     },
+    image: "/poi-images/bulgaria-ivanovo-rock-churches-history-v2.webp",
   },
   {
     id: "bulgaria-drjanovo-monastery-history-v2",
@@ -832,6 +857,7 @@ export const bulgariaHistoryV2: POI[] = [
       ro: ["Mănăstirea a fost fondată inițial în secolul al XII-lea, la aproximativ 2 km de locația actuală.", "Complexul monahal actual a fost finalizat complet în anul 1845.", "În mai 1876, 200 de insurgenți au rezistat timp de nouă zile în fața a 10.000 de soldați otomani.", "Urmele de gloanțe din zidul bisericii provin de la artileria otomană din 1876.", "În apropiere se află peștera Bacho Kiro, cu peste 3.500 de metri de galerii explorate.", "Un monument din curtea mănăstirii îi comemorează pe eroii căzuți în Revolta din Aprilie."],
       en: ["The monastery was originally founded in the 12th century, about 2 km from its current site.", "The present-day monastery complex was fully completed in 1845.", "In May 1876, 200 insurgents held out for nine days against 10,000 Ottoman troops.", "The bullet holes visible in the church walls were caused by Ottoman artillery in 1876.", "Nearby is the Bacho Kiro Cave, which has over 3,500 meters of explored passages.", "A monument in the monastery courtyard honors the fallen heroes of the April Uprising."],
     },
+    image: "/poi-images/bulgaria-drjanovo-monastery-history-v2.webp",
   },
   {
     id: "bulgaria-sveti-nikola-fortress-history-v2",
@@ -864,6 +890,7 @@ export const bulgariaHistoryV2: POI[] = [
       ro: ["Cetatea a fost reședința despotului Alexius Slav la începutul secolului al XIII-lea.", "Dealul Sveti Nikola se ridică la aproximativ 100-150 de metri deasupra orașului Melnik.", "Aici se află ruinele bisericii 'Pantanassa', care datează din anul 1210.", "În interiorul cetății au fost găsite resturi de rezervoare de apă de mare capacitate.", "Melnik a fost în Evul Mediu unul dintre cele mai mici, dar mai bogate orașe din regiune.", "Cetatea controla rutele comerciale dintre Balcani și Marea Egee."],
       en: ["The fortress served as the residence of Despot Alexius Slav in the early 13th century.", "Sveti Nikola Hill rises approximately 100 to 150 meters above the town of Melnik.", "The site contains the ruins of the 'Pantanassa' church, dating back to 1210.", "Remains of large-capacity water reservoirs have been discovered within the fortress.", "In the Middle Ages, Melnik was one of the smallest yet wealthiest towns in the region.", "The fortress monitored trade routes between the Balkan interior and the Aegean Sea."],
     },
+    image: "/poi-images/bulgaria-sveti-nikola-fortress-history-v2.webp",
   },
   {
     id: "bulgaria-krumovo-monument-history-v2",
@@ -896,6 +923,7 @@ export const bulgariaHistoryV2: POI[] = [
       ro: ["Hanul Krum a condus Primul Imperiu Bulgar între anii 803 și 814.", "Monumentul se află în cartierul Trakia din orașul Plovdiv.", "Krum l-a învins pe împăratul bizantin Nichifor I în bătălia de la pasul Varbița din 811.", "El a emis primele legi scrise ale Bulgariei pentru a consolida ordinea internă.", "Monumentul îl reprezintă pe Hanul Krum ca un călăreț cu sabia ridicată.", "Sub domnia sa, Sofia (atunci Serdica) a devenit parte a Bulgariei în anul 809."],
       en: ["Khan Krum ruled the First Bulgarian Empire from 803 to 814.", "The monument is situated in the Trakia district of the city of Plovdiv.", "Krum famously defeated Byzantine Emperor Nicephorus I at the Battle of Varbitsa Pass in 811.", "He introduced the first written legal code in Bulgaria to strengthen domestic order.", "The monument depicts Khan Krum as a horseman with a raised sword.", "Under his rule, Sofia (then Serdica) became part of Bulgaria in 809."],
     },
+    image: "/poi-images/bulgaria-krumovo-monument-history-v2.webp",
   },
   {
     id: "bulgaria-vratza-history-museum-v2",
@@ -928,6 +956,7 @@ export const bulgariaHistoryV2: POI[] = [
       ro: ["Anul fondării: 1930.", "Locație: Vrața, Bulgaria.", "Cel mai important exponat: Aurul de Vrața (trac).", "Număr de exponate: peste 100.000.", "Clădire din secolul al XIX-lea.", "Vizitatori anuali: aproximativ 50.000."],
       en: ["Founded: 1930.", "Location: Vratsa, Bulgaria.", "Key exhibit: Vratsa Gold (Thracian).", "Number of exhibits: over 100,000.", "Building: 19th-century.", "Annual visitors: approximately 50,000."],
     },
+    image: "/poi-images/bulgaria-vratza-history-museum-v2.webp",
   },
   {
     id: "bulgaria-stara-zagora-antiquity-v2",
@@ -960,6 +989,7 @@ export const bulgariaHistoryV2: POI[] = [
       ro: ["Augusta Traiana a fost fondată în jurul anului 106 d.Hr. de împăratul roman Traian.", "Forumul antic este unul dintre cele mai bine conservate din întreaga regiune balcanică.", "În oraș au fost descoperite peste 20 de mozaicuri diferite din antichitatea târzie.", "Locuințele neolitice din Stara Zagora datează din mileniul al VI-lea î.Hr.", "Termele romane ale orașului se întindeau pe o suprafață de 7.000 m².", "Zidul cetății Augusta Traiana avea o lungime totală de peste 2.500 de metri."],
       en: ["Augusta Traiana was founded around 106 AD by the Roman Emperor Trajan.", "The ancient forum is one of the best-preserved architectural sites in the Balkans.", "More than 20 distinct late-antiquity mosaics have been discovered within the city.", "The Neolithic Dwellings in Stara Zagora date back to the 6th millennium BC.", "The city's Roman thermal baths covered a massive area of 7,000 square meters.", "The defensive walls of Augusta Traiana had a total length exceeding 2,500 meters."],
     },
+    image: "/poi-images/bulgaria-stara-zagora-antiquity-v2.webp",
   },
   {
     id: "bulgaria-silistra-roman-fort-history-v2",
@@ -992,5 +1022,6 @@ export const bulgariaHistoryV2: POI[] = [
       ro: ["Fondată de împăratul Traian în anul 106 d.Hr.", "Sediul central al Legiunii a XI-a Claudia timp de secole", "Adăpostește un mormânt roman din secolul IV cu fresce", "A servit drept sediu al Patriarhiei Bulgare în Evul Mediu", "Parte a propunerii UNESCO pentru Limesul dunărean", "Punct de control crucial pe frontiera de nord a imperiului"],
       en: ["Established by Emperor Trajan in 106 AD", "Headquarters of Legio XI Claudia for several centuries", "Site of a 4th-century Roman tomb with unique frescoes", "Seat of the first Bulgarian Patriarchate in the Middle Ages", "Included in the UNESCO tentative list for the Danube Limes", "Key defensive stronghold on the Roman northern frontier"],
     },
+    image: "/poi-images/bulgaria-silistra-roman-fort-history-v2.webp",
   }
 ];

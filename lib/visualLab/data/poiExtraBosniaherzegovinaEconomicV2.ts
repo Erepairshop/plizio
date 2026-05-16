@@ -1075,6 +1075,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
       ro: ["Gračanica are una dintre cele mai mari rate de export pe cap de locuitor din țară.", "Zona industrială este situată convenabil în valea râului Spreča.", "Peste 300 de întreprinderi mici și mijlocii activează în această zonă.", "Principalele domenii sunt industria plasticului, metalurgică și a mobilierului.", "Zona este cunoscută pentru tradiția antreprenorială puternică ('Gračanički sajam').", "O mare parte din mărfurile produse sunt exportate în Uniunea Europeană."],
       en: ["Gračanica has one of the highest export rates per capita in Bosnia and Herzegovina.", "The industrial zone is conveniently located in the Spreča valley.", "Over 300 small and medium-sized enterprises operate within the zone.", "Key sectors include the plastics, metal, and furniture industries.", "The zone is famous for its strong entrepreneurial tradition ('Gračanica Fair').", "A large majority of the goods produced are exported to the European Union."],
     },
+    image: "/poi-images/bosniaherzegovina-gracanica-industrial-park-economic-v2.webp",
   },
   {
     id: "bosniaherzegovina-sokolac-timber-industry-economic-v2",
@@ -1107,6 +1108,7 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
       ro: ["Sokolac este situat în centrul regiunii forestiere bogate Romanija.", "Combinatul 'Nova Romanija' este una dintre cele mai tradiționale întreprinderi.", "Regiunea produce lemn de molid și brad de înaltă calitate.", "Peletele de lemn din Sokolac sunt exportate în numeroase țări europene.", "Peste 50% din suprafața municipalității Sokolac este acoperită de păduri.", "Silvicultura este cel mai mare angajator din municipalitate."],
       en: ["Sokolac is located in the center of the forest-rich Romanija region.", "The 'Nova Romanija' combine is one of the most traditional enterprises.", "The region produces high-quality spruce and fir timber.", "Wood pellets from Sokolac are exported to numerous European countries.", "Over 50% of the Sokolac municipality area is covered by forests.", "Forestry is the largest employer in the municipality."],
     },
+    image: "/poi-images/bosniaherzegovina-sokolac-timber-industry-economic-v2.webp",
   },
   {
     id: "bosniaherzegovina-sarajevo-logistic-center-economic-v2",
@@ -1139,5 +1141,6 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
       ro: ["Rajlovac este cel mai mare nod logistic și de distribuție din Bosnia și Herțegovina.", "Locația este situată direct pe linia de cale ferată Sarajevo-Šamac.", "Numeroase companii internaționale de logistică, precum Intereuropa, au sedii aici.", "Zona cuprinde unul dintre cele mai importante terminale vamale din țară.", "Distanța până la Aeroportul Internațional Sarajevo este de doar aproximativ 6 km.", "Rajlovac a fost în trecut un important aerodrom militar și bază aeriană."],
       en: ["Rajlovac is the largest logistics and distribution hub in Bosnia and Herzegovina.", "The site is located directly on the Sarajevo-Šamac railway line.", "Numerous international logistics companies, such as Intereuropa, have bases here.", "The area includes one of the most important customs terminals in the country.", "The distance to Sarajevo International Airport is only about 6 km.", "Rajlovac was formerly a major military airfield and air force base."],
     },
+    image: "/poi-images/bosniaherzegovina-sarajevo-logistic-center-economic-v2.webp",
   }
 ];

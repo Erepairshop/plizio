@@ -897,6 +897,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Vratar a fost menționată documentar pentru prima dată în anul 1444.", "Cetatea a aparținut influentei familii nobiliare Pavlović.", "Este situată într-un punct strategic deasupra gurii de vărsare a râului Žepa.", "Complexul cuprinde două zone fortificate separate (orașul de sus și de jos).", "În apropiere se află pietre funerare medievale importante de tip Stećci.", "Cetatea a fost declarată monument național al Bosniei și Herțegovinei în 2005."],
       en: ["Vratar was first mentioned in official documents in 1444.", "The fortress belonged to the influential noble family Pavlović.", "It is situated at a strategic point above the confluence of the Žepa River.", "The complex includes two separate fortified areas (upper and lower town).", "Significant medieval Stećci tombstones are located in the vicinity.", "The fortress was designated a National Monument of Bosnia and Herzegovina in 2005."],
     },
+    image: "/poi-images/bosniaherzegovina-vratar-fortress-history-v2.webp",
   },
   {
     id: "bosniaherzegovina-klobuk-fortress-history-v2",
@@ -929,6 +930,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Klobuk a fost menționată încă din secolul al X-lea de împăratul Constantin al VII-lea.", "Cetatea este situată pe o stâncă de calcar izolată, aproape de granița cu Muntenegru.", "A aparținut succesiv familiilor nobiliare Pavlović și Kosača.", "Otomanii au ocupat cetatea timp de peste 400 de ani.", "În anul 1878, cetatea a fost distrusă de artileria austriacă.", "Klobuk este monument național protejat al Bosniei și Herțegovinei din 2006."],
       en: ["Klobuk was mentioned as early as the 10th century by Emperor Constantine VII.", "The fortress is situated on an isolated limestone rock near the Montenegro border.", "It was successively owned by the noble families Pavlović and Kosača.", "The Ottomans held the fortress under occupation for over 400 years.", "In 1878, the fortress was largely destroyed by Austrian artillery.", "Klobuk has been a protected National Monument of Bosnia and Herzegovina since 2006."],
     },
+    image: "/poi-images/bosniaherzegovina-klobuk-fortress-history-v2.webp",
   },
   {
     id: "bosniaherzegovina-kotor-varos-old-town-history-v2",
@@ -961,6 +963,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Prima mențiune documentară datează din secolul al X-lea.", "Otomanii au reușit să cucerească cetatea abia în anul 1519.", "Situată pe o creastă stâncoasă deasupra râului Vrbanja.", "Include vestigii arheologice din perioada romană târzie.", "A făcut parte din sistemul defensiv al Bosniei medievale.", "Este clasificată oficial ca monument național al țării."],
       en: ["First mentioned in the 10th century by Constantine VII.", "Conquered by the Ottoman Empire as late as 1519.", "Located on a rocky ridge overlooking the Vrbanja River.", "Contains archaeological findings from the late Roman era.", "Served as a key point in the medieval Bosnian defense line.", "Listed as a national monument of Bosnia and Herzegovina."],
     },
+    image: "/poi-images/bosniaherzegovina-kotor-varos-old-town-history-v2.webp",
   },
   {
     id: "bosniaherzegovina-komsic-necropolis-history-v2",
@@ -993,6 +996,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Inclusă în patrimoniul mondial UNESCO din 2016.", "Pietrele funerare datează din secolele XIV și XV.", "Cuprinde diverse tipuri de stećci: plăci, lăzi și frontoane.", "Prezintă motive sculptate precum semiluna, stele și cruci.", "Situată în proximitatea orașului Bihać, în nord-vestul țării.", "Monumentele sunt realizate din calcar local extras din cariere."],
       en: ["Inscribed as a UNESCO World Heritage site in 2016.", "The tombstones mainly date to the 14th and 15th centuries.", "Features various types including slabs, chests, and gables.", "Decorated with symbols like crescents, stars, and crosses.", "Located near the city of Bihać in northwestern Bosnia.", "The monuments are primarily crafted from local limestone."],
     },
+    image: "/poi-images/bosniaherzegovina-komsic-necropolis-history-v2.webp",
   },
   {
     id: "bosniaherzegovina-mihaljevic-necropolis-history-v2",
@@ -1025,6 +1029,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Adăpostește peste 50 de pietre funerare medievale.", "Cercetată arheologic în detaliu în anii 1950.", "Prezintă inscripții în alfabetul chirilic bosniac vechi.", "Au fost descoperite obiecte de preț, inclusiv inele de argint.", "Situată în valea strategică Rajlovac, lângă Sarajevo.", "Monumentele datează predominant din secolele XIV și XV."],
       en: ["Home to over 50 medieval tombstones (Stećci).", "Extensively researched in the 1950s by archaeologists.", "Features inscriptions in the medieval Bosančica script.", "Grave goods like silver rings were discovered here.", "Located in the strategically important Rajlovac valley.", "The monuments mainly date back to the 14th and 15th centuries."],
     },
+    image: "/poi-images/bosniaherzegovina-mihaljevic-necropolis-history-v2.webp",
   },
   {
     id: "bosniaherzegovina-gradac-archaeological-site-history-v2",
@@ -1057,6 +1062,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Adăpostește resturile unei basilici creștine timpurii.", "Datată în perioada secolelor IV-VI după Hristos.", "A făcut parte din infrastructura romană a provinciei Dalmația.", "Artefactele indică legături comerciale cu litoralul adriatic.", "Este declarată monument național al Bosniei și Herțegovinei.", "Combină ruinele antice cu pietre funerare medievale."],
       en: ["Contains the remains of an early Christian basilica.", "Dates back to the period between the 4th and 6th centuries AD.", "Part of the Roman infrastructure in the province of Dalmatia.", "Findings indicate trade links with the Adriatic coast.", "Recognized as a national monument of Bosnia and Herzegovina.", "Features a mix of ancient ruins and medieval tombstones."],
     },
+    image: "/poi-images/bosniaherzegovina-gradac-archaeological-site-history-v2.webp",
   },
   {
     id: "bosniaherzegovina-veletovo-fortress-history-v2",
@@ -1089,6 +1095,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Supraveghea ruta comercială dintre Bosnia și Serbia.", "Construită pe o creastă abruptă pentru apărare maximă.", "Menționată în documente privind cucerirea otomană din sec. XV.", "Situată în apropierea orașului actual Vișegrad.", "Zidurile sunt adaptate formațiunilor stâncoase naturale.", "A servit drept refugiu pentru populația locală în timpul atacurilor."],
       en: ["Monitored the trade route between Bosnia and Serbia.", "Built on a steep rocky ridge for maximum defense.", "Mentioned in documents regarding the 15th-century Ottoman conquest.", "Located in the vicinity of the modern town of Višegrad.", "The walls are integrated into the natural rock formations.", "Served as a refuge for the local population during attacks."],
     },
+    image: "/poi-images/bosniaherzegovina-veletovo-fortress-history-v2.webp",
   },
   {
     id: "bosniaherzegovina-vratnica-tumulus-history-v2",
@@ -1121,6 +1128,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Tumul preistoric masiv datând din epoca fierului.", "Situat la doar câțiva kilometri de centrul orașului Visoko.", "Format din două straturi de blocuri megalitice masive.", "Construit de triburile ilire în primul mileniu î.Hr.", "Înălțimea structurii este de aproximativ 32 de metri.", "Subiectul unor ample studii geologice și arheologice."],
       en: ["Massive prehistoric burial mound from the Iron Age.", "Located just a few kilometers from Visoko's town center.", "Constructed from two layers of massive megalithic blocks.", "Built by Illyrian tribes in the 1st millennium BC.", "The height of the structure is approximately 32 meters.", "A subject of extensive geological and archaeological studies."],
     },
+    image: "/poi-images/bosniaherzegovina-vratnica-tumulus-history-v2.webp",
   },
   {
     id: "bosniaherzegovina-hrastov-do-necropolis-history-v2",
@@ -1153,6 +1161,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Adăpostește exemple valoroase de artă funerară medievală.", "Datată în perioada de apogeu a stećci-lor (sec. XIV-XV).", "Motivele includ scene de vânătoare și modele geometrice.", "Situată în regiunea carstică a Herțegovinei de Est.", "Inclusă în inventarul științific realizat de Šefik Bešlagić.", "Protejată ca monument național pe lista patrimoniului."],
       en: ["Contains valuable examples of medieval funerary art.", "Dates to the peak of Stećci production in the 14th-15th centuries.", "Motifs include hunting scenes, crosses, and geometric patterns.", "Located in the karst region of Eastern Herzegovina.", "Part of the scientific inventory documented by Šefik Bešlagić.", "Protected as a national monument on the cultural heritage list."],
     },
+    image: "/poi-images/bosniaherzegovina-hrastov-do-necropolis-history-v2.webp",
   },
   {
     id: "bosniaherzegovina-blagaj-fortress-history-v2",
@@ -1185,6 +1194,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Fosta reședință a ducelui Stjepan Vukčić Kosača.", "Situată la 310 metri altitudine deasupra izvorului Buna.", "Zidurile exterioare au o grosime de până la 2 metri.", "Cucerită de Imperiul Otoman în anul 1466.", "Declarată monument național al Bosniei în anul 2003.", "Îmbină elemente arhitecturale ilire, romane și medievale."],
       en: ["Former residence of Duke Stjepan Vukčić Kosača.", "Located at 310 meters above sea level over the Buna spring.", "Outer walls reach a thickness of up to 2 meters.", "Conquered by the Ottoman Empire in the year 1466.", "Declared a national monument in 2003.", "Integrates Illyrian, Roman, and medieval architectural styles."],
     },
+    image: "/poi-images/bosniaherzegovina-blagaj-fortress-history-v2.webp",
   },
   {
     id: "bosniaherzegovina-stari-grad-kljuc-history-v2",
@@ -1217,6 +1227,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Locul capturării ultimului rege bosniac în 1463.", "Cetatea domină defileul râului Sana de la înălțime.", "Împărțită în trei zone: orașul de sus, de jos și taborul.", "Există dovezi arheologice ale unei așezări romane vechi.", "Extinsă în secolul al XIV-lea de dinastia Hrvatinić.", "Astăzi este un monument național protejat al Bosniei."],
       en: ["Site where the last Bosnian king was captured in 1463.", "The fortress overlooks the canyon of the Sana River.", "Consists of three main parts: Upper Town, Lower Town, and Tabor.", "Archaeological evidence exists for an earlier Roman settlement.", "Expanded in the 14th century by the Hrvatinić dynasty.", "Currently a protected national monument of Bosnia."],
     },
+    image: "/poi-images/bosniaherzegovina-stari-grad-kljuc-history-v2.webp",
   },
   {
     id: "bosniaherzegovina-kamenica-necropolis-history-v2",
@@ -1249,6 +1260,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Inclusă în patrimoniul mondial UNESCO din 2016.", "Cuprinde peste 30 de pietre funerare de mari dimensiuni.", "Cunoscută pentru reliefurile florale și cavalerești detaliate.", "Datată în perioada de prosperitate minieră a orașului Olovo.", "Realizată din calcar local de înaltă calitate.", "Utilizată intens în secolele al XIV-lea și al XV-lea."],
       en: ["Part of the UNESCO World Heritage since 2016.", "Features over 30 large-scale tombstones.", "Renowned for detailed floral and knightly reliefs.", "Dates from the period of Olovo's economic mining peak.", "Crafted from high-quality local limestone.", "Intensively used during the 14th and 15th centuries."],
     },
+    image: "/poi-images/bosniaherzegovina-kamenica-necropolis-history-v2.webp",
   },
   {
     id: "bosniaherzegovina-sokol-grad-history-v2",
@@ -1281,6 +1293,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Cetatea a fost menționată pentru prima dată în documente istorice în anul 1449.", "Situl este situat la o altitudine de aproximativ 440 de metri deasupra nivelului mării.", "Regele Matei Corvin a inclus Sokol în sistemul de apărare al Banatului de Srebrenik.", "În anul 2005, fortificația a fost declarată monument național oficial.", "Ocupația otomană a început definitiv în 1512 și a durat până în secolul al XIX-lea.", "Zidurile cetății urmează forma naturală a stâncii pe care a fost construită."],
       en: ["The fortress was first mentioned in historical documents dating back to 1449.", "It is situated at an elevation of approximately 440 meters above sea level.", "Matthias Corvinus utilized the site as a northern defense post for the Banate of Srebrenik.", "The complex was designated a National Monument of Bosnia and Herzegovina in 2005.", "Ottoman control of the fortress lasted from 1512 until the late 19th century.", "Excavations have revealed medieval pottery and weaponry within the fortress walls."],
     },
+    image: "/poi-images/bosniaherzegovina-sokol-grad-history-v2.webp",
   },
   {
     id: "bosniaherzegovina-teocak-fortress-history-v2",
@@ -1313,6 +1326,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Cetatea a fost ridicată în secolul al XIV-lea pentru a supraveghea valea râului Drina.", "Đurađ Branković a folosit Teočak ca o reședință fortificată importantă în secolul al XV-lea.", "Imperiul Otoman a cucerit fortăreața în mod definitiv în anul 1521.", "Moscheea Fethija din apropiere a funcționat inițial ca biserică ortodoxă sau catolică.", "Poziția sa ridicată oferea vizibilitate până la câmpia Panonică în zilele senine.", "Situl arheologic conține urme de locuire din perioada pre-otomană și otomană."],
       en: ["The fortress was constructed in the 14th century to monitor movement along the Drina.", "Serbian Despot Đurađ Branković strengthened the fortifications in the 15th century.", "Ottoman forces captured the stronghold in 1521 during their northern campaigns.", "The Fethija Mosque nearby was originally a church dedicated to Saint George.", "Its strategic location earned it the nickname 'Guardian of the Northeast'.", "Archaeologists have found medieval gravestones known as Stećci in the vicinity."],
     },
+    image: "/poi-images/bosniaherzegovina-teocak-fortress-history-v2.webp",
   },
   {
     id: "bosniaherzegovina-zvecaj-fortress-history-v2",
@@ -1345,6 +1359,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Cetatea a fost atestată documentar pentru prima dată în anul 1404.", "A fost una dintre reședințele principale ale ducelui Hrvoje Vukčić Hrvatinić.", "În 1463, cetatea a fost locul semnării unui armistițiu între maghiari și otomani.", "Zvečaj este situată strategic deasupra celui mai îngust punct al defileului Vrbas.", "Otomanii au preluat controlul cetății în 1527, marcând sfârșitul rezistenței locale.", "Fragmentele de zidărie păstrate indică utilizarea pietrei locale în construcție."],
       en: ["The fortress was first recorded in 1404 during the reign of King Ostoja.", "It was one of the key strongholds of the powerful Duke Hrvoje Vukčić Hrvatinić.", "In 1463, a temporary truce between Hungary and the Ottomans was signed here.", "The site overlooks the narrowest part of the Vrbas river canyon.", "The Ottoman Empire captured Zvečaj in 1527 after the fall of Jajce.", "The ruins are recognized as an important historical site near Banja Luka."],
     },
+    image: "/poi-images/bosniaherzegovina-zvecaj-fortress-history-v2.webp",
   },
   {
     id: "bosniaherzegovina-mijat-kuca-history-v2",
@@ -1377,6 +1392,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Mijat Tomić s-a născut în jurul anului 1610 în satul Brišnik.", "Peștera este situată în stâncile muntelui Vran, la peste 1000 de metri altitudine.", "Mijat a condus un grup de aproximativ 30-40 de haiduci.", "Moartea sa în 1656 este subiectul multor balade epice cântate la guslă.", "Peștera a servit drept cartier de iarnă pentru luptătorii de rezistență.", "Un monument dedicat lui Mijat Tomić a fost ridicat în orașul Tomislavgrad."],
       en: ["Mijat Tomić was born around 1610 in the village of Brišnik.", "The cave hideout is located in the Vran Mountain cliffs at over 1,000 meters altitude.", "Mijat led a band of roughly 30 to 40 hajduks at the height of his influence.", "His death in 1656 is a common theme in traditional epic gusle poetry.", "The cave provided refuge for the resistance fighters during the harsh winter months.", "A prominent statue of Mijat Tomić stands in the center of Tomislavgrad."],
     },
+    image: "/poi-images/bosniaherzegovina-mijat-kuca-history-v2.webp",
   },
   {
     id: "bosniaherzegovina-veliki-kastel-history-v2",
@@ -1409,6 +1425,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Fortăreața este situată direct deasupra izvorului carstic Duman.", "A fost declarată monument național al Bosniei și Herțegovinei în anul 2004.", "Structura este compusă din trei niveluri de peșteri interconectate.", "Livno a fost un centru comercial vital între coasta Adriatică și interiorul țării.", "Zidurile fortificației sunt parțial încorporate în stânca nativă.", "Veliki Kastel a fost utilizat în scopuri militare până în secolul al XIX-lea."],
       en: ["The fortress is located directly above the Duman karst spring.", "It was designated as a National Monument of Bosnia and Herzegovina in 2004.", "The complex consists of three interconnected cave levels used for defense.", "Livno served as a critical trade hub between the Adriatic coast and the interior.", "Portions of the fortress walls are carved directly into the living rock.", "Veliki Kastel remained in military use until the 19th century."],
     },
+    image: "/poi-images/bosniaherzegovina-veliki-kastel-history-v2.webp",
   },
   {
     id: "bosniaherzegovina-krupac-necropolis-history-v2",
@@ -1441,6 +1458,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Necropola este formată din 21 de stećci păstrați până în prezent.", "A fost declarată oficial monument național în anul 2004.", "Pietrele funerare sunt predominant sub formă de cufere și sljemenjaci.", "Două dintre pietrele funerare sunt bogat decorate cu motive florale și geometrice.", "Krupac se află în municipiul Istočna Ilidža, lângă Sarajevo.", "Materialul folosit pentru stećci este calcarul local extras din împrejurimi."],
       en: ["The necropolis consists of a total of 21 preserved stećci tombstones.", "It was officially designated as a National Monument in 2004.", "The tombstones are primarily shaped as chests and gabled slabs.", "Two of the stones feature intricate carvings of floral and geometric motifs.", "Krupac is situated in the municipality of Istočna Ilidža near Sarajevo.", "The stećci were crafted from local limestone quarried in the vicinity."],
     },
+    image: "/poi-images/bosniaherzegovina-krupac-necropolis-history-v2.webp",
   },
   {
     id: "bosniaherzegovina-stari-grad-dubovac-history-v2",
@@ -1473,6 +1491,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Cetatea este situată lângă satul Dub, în estul Bosniei.", "În secolul al XV-lea, a aparținut domeniilor familiei nobiliare Pavlović.", "Fortificația controla accesul spre valea Drinei și punctele importante de trecere.", "Dubovac a fost ocupat în timpul avansului otoman din anul 1463.", "Cercetările arheologice au scos la iveală resturi de clădiri rezidențiale în interiorul zidurilor.", "Situl este un punct de referință pentru studiul apărării de frontieră medievale."],
       en: ["The fortress is located near the village of Dub in eastern Bosnia.", "It was part of the territory controlled by the Pavlović noble family in the 15th century.", "The site monitored access to the Drina valley and key river crossing points.", "Dubovac was occupied by Ottoman forces during the campaign of 1463.", "Archaeological surveys have identified remains of residential structures within the walls.", "The site is crucial for understanding the medieval frontier defense systems."],
     },
+    image: "/poi-images/bosniaherzegovina-stari-grad-dubovac-history-v2.webp",
   },
   {
     id: "bosniaherzegovina-dabar-monastery-history-v2",
@@ -1505,6 +1524,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Mănăstirea Dobrun a fost fondată în anul 1343 de jupanul Pribil.", "Frescele celebre din interiorul bisericii datează din anul 1348.", "Mănăstirea a fost sediul eparhiei de Dabar în secolul al XIII-lea.", "Complexul a fost grav avariat în timpul cuceririi otomane din 1462.", "În apropiere se află un monument monumental dedicat lui Karađorđe Petrović.", "Dobrun găzduiește un muzeu dedicat istoriei Bisericii Ortodoxe locale."],
       en: ["Dobrun Monastery was founded in 1343 by Župan Pribil.", "The famous frescoes inside the church date back to 1348.", "The monastery was the original seat of the Eparchy of Dabar in the 13th century.", "It suffered significant damage during the Ottoman conquest in 1462.", "A monumental statue of Karađorđe Petrović is located in the vicinity.", "The monastery complex includes a museum focused on Orthodox history."],
     },
+    image: "/poi-images/bosniaherzegovina-dabar-monastery-history-v2.webp",
   },
   {
     id: "bosniaherzegovina-gornja-skakava-history-v2",
@@ -1537,6 +1557,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Situl arheologic 'Zidine' adăpostește resturile unei mănăstiri din secolul al XIV-lea.", "A fost scoasă la lumină o basilică cu trei nave, având dimensiunile de 21 pe 12 metri.", "Mănăstirea a aparținut provinciei franciscane Bosna Srebrena.", "În anul 2004, situl a fost declarat monument național oficial.", "Arheologii au descoperit morminte cu inventar funerar medieval valoros.", "Gornja Skakava este considerată una dintre cele mai vechi parohii din nord-estul Bosniei."],
       en: ["The 'Zidine' excavation site contains the ruins of a 14th-century monastery.", "A three-nave basilica measuring 21 by 12 meters was unearthed at the site.", "The monastery was part of the Franciscan province of Bosna Srebrena.", "The site was officially designated as a National Monument in 2004.", "Archaeologists discovered graves containing valuable medieval grave goods.", "Gornja Skakava is recognized as one of the oldest parishes in northeastern Bosnia."],
     },
+    image: "/poi-images/bosniaherzegovina-gornja-skakava-history-v2.webp",
   },
   {
     id: "bosniaherzegovina-zmajevac-fortress-history-v2",
@@ -1569,6 +1590,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Cetatea este situată pe un deal la aproximativ 200 de metri deasupra văii.", "Numele provine din legendele despre un dragon care ar fi protejat orașul Zenica.", "Zmajevac făcea parte dintr-un sistem de semnalizare între Vranduk și Bobovac.", "Zidurile sunt construite din calcar brut și mortar local.", "Descoperirile arheologice atestă locuirea sitului încă din epoca târzie a bronzului.", "Fortificația și-a pierdut utilitatea după stabilizarea granițelor otomane."],
       en: ["The fortress is located on a hill approximately 200 meters above the valley floor.", "Its name originates from legends of a dragon that allegedly protected Zenica.", "Zmajevac was part of a signaling chain between the fortresses of Vranduk and Bobovac.", "The walls were constructed using unhewn limestone and local mortar.", "Archaeological evidence suggests the site was inhabited since the late Bronze Age.", "The complex lost its military importance after Ottoman borders were stabilized."],
     },
+    image: "/poi-images/bosniaherzegovina-zmajevac-fortress-history-v2.webp",
   },
   {
     id: "bosniaherzegovina-gracanica-old-clock-tower-history-v2",
@@ -1601,6 +1623,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Anul construcției: aprox. 1680", "Înălțime: aprox. 27 metri", "Material constructiv: piatră naturală", "Statut: Monument Național din 2003", "Stil: arhitectură otomană", "Locație: centrul orașului Gračanica"],
       en: ["Built: approx. 1680", "Height: approx. 27 meters", "Material: Natural stone", "Status: National Monument since 2003", "Style: Ottoman architecture", "Location: Gračanica city center"],
     },
+    image: "/poi-images/bosniaherzegovina-gracanica-old-clock-tower-history-v2.webp",
   },
   {
     id: "bosniaherzegovina-sokolac-necropolis-history-v2",
@@ -1633,6 +1656,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Datare: secolele XIV - XV", "Tip: Stećci (pietre funerare medievale)", "Statut: Patrimoniu Mondial UNESCO", "Material: calcar local", "Decorațiuni: scene de vânătoare și simboluri", "Locație: platoul înalt de lângă Sokolac"],
       en: ["Date: 14th - 15th centuries", "Type: Stećci (Medieval tombstones)", "Status: UNESCO World Heritage site", "Material: Local limestone", "Decoration: Hunting scenes and symbols", "Location: High plateau near Sokolac"],
     },
+    image: "/poi-images/bosniaherzegovina-sokolac-necropolis-history-v2.webp",
   },
   {
     id: "bosniaherzegovina-vitez-fortress-ruins-history-v2",
@@ -1665,6 +1689,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Locație: Valea Lašva, Bosnia Centrală", "Epocă: Medievală (până în sec. XV)", "Scop: Apărare și control comercial", "Material: piatră locală", "Stare actuală: ruină", "Importanță: apărarea Regatului Bosniei"],
       en: ["Location: Lašva valley, Central Bosnia", "Era: Medieval (until 15th century)", "Purpose: Defense and trade control", "Material: Local stone", "Current state: Ruins", "Significance: Defense of the Bosnian Kingdom"],
     },
+    image: "/poi-images/bosniaherzegovina-vitez-fortress-ruins-history-v2.webp",
   },
   {
     id: "bosniaherzegovina-stari-grad-bistri-history-v2",
@@ -1697,6 +1722,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Origini: Perioada medievală", "Locație: regiune montană, Bosnia Centrală", "Stil: Arhitectură tradițională bosniacă", "Comerț: Centru istoric pentru meșteșuguri", "Element cheie: Case din piatră conservate", "Evoluție: Influențată de epoca otomană"],
       en: ["Origins: Medieval period", "Location: Mountainous region, Central Bosnia", "Style: Traditional Bosnian architecture", "Trade: Historical craft center", "Key feature: Preserved stone houses", "Evolution: Influenced by the Ottoman era"],
     },
+    image: "/poi-images/bosniaherzegovina-stari-grad-bistri-history-v2.webp",
   },
   {
     id: "bosniaherzegovina-kamenica-fortress-history-v2",
@@ -1729,6 +1755,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Perioada construcției: aprox. sec. XIV", "Funcție: Apărare și supraveghere", "Material: Blocuri masive de piatră", "Proprietari: Nobilimea bosniacă, ulterior otomani", "Stare: Ruine", "Locație: Înălțime strategică"],
       en: ["Built: approx. 14th century", "Function: Defense and monitoring", "Material: Massive stone blocks", "Ownership: Bosnian nobility, later Ottoman", "Condition: Ruined complex", "Location: Strategic hilltop"],
     },
+    image: "/poi-images/bosniaherzegovina-kamenica-fortress-history-v2.webp",
   },
   {
     id: "bosniaherzegovina-vrnograc-fortress-history-v2",
@@ -1761,6 +1788,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Locație: regiunea Krajina, N-V Bosniei", "Proprietari: familia nobiliară Kreščić", "Datare: secolele XIV - XV", "Statut: Monument Național al Bosniei", "Funcție: Cetate de frontieră anti-habsburgică", "Arhitectură: Plan neregulat adaptat terenului"],
       en: ["Location: Krajina region, NW Bosnia", "Owners: Kreščić noble family", "Date: 14th - 15th centuries", "Status: National Monument of Bosnia", "Function: Border fortress against Habsburgs", "Architecture: Irregular floor plan"],
     },
+    image: "/poi-images/bosniaherzegovina-vrnograc-fortress-history-v2.webp",
   },
   {
     id: "bosniaherzegovina-stari-grad-sarajevsko-polje-history-v2",
@@ -1793,6 +1821,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Locuire: din neolitic (cultura Butmir)", "Rol: nucleul central al Bosniei medievale", "Istorie: locul fondării orașului Sarajevo", "Monumente: Stećci și poduri otomane", "Topografie: câmpie joasă (Polje) în Bosnia Centrală", "Importanță: hinterland strategic al capitalei"],
       en: ["Settlement: Since Neolithic era (Butmir culture)", "Center: Heartland of medieval Bosnia", "History: Site of Sarajevo's foundation", "Monuments: Stećci and Ottoman bridges", "Topography: Flat plain (Polje) in Central Bosnia", "Significance: Strategic hinterland of the capital"],
     },
+    image: "/poi-images/bosniaherzegovina-stari-grad-sarajevsko-polje-history-v2.webp",
   },
   {
     id: "bosniaherzegovina-bistarac-fortress-history-v2",
@@ -1825,6 +1854,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Locație: Lângă Lukavac, N-E Bosniei", "Scop: Protecția minelor și a zăcămintelor de sare", "Tip: Fortificație mixtă (piatră și pământ)", "Perioadă: Medievală până în sec. XVIII", "Importanță: Punct strategic de control", "Stare actuală: Ruine degradate"],
       en: ["Location: Near Lukavac, NE Bosnia", "Purpose: Protection of mining and salt deposits", "Type: Stone and earthwork fortification", "Period: Medieval to 18th century", "Significance: Strategic checkpoint", "Current state: Heavily ruined"],
     },
+    image: "/poi-images/bosniaherzegovina-bistarac-fortress-history-v2.webp",
   },
   {
     id: "bosniaherzegovina-stari-grad-zepce-history-v2",
@@ -1857,6 +1887,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Prima atestare: 1458", "Locație: Pe malul râului Bosna", "Statut: Fost centru administrativ otoman", "Istorie: Vizitat de Eugen de Savoia în 1697", "Comerț: Nod între Europa Centrală și regiunea Adriatică", "Arhitectură: Case tradiționale bosniace din piatră"],
       en: ["First mention: 1458", "Location: On the Bosna River", "Status: Former Ottoman administrative center", "History: Visited by Eugene of Savoy in 1697", "Trade: Junction between Central Europe and the Adriatic", "Architecture: Traditional Bosnian stone houses"],
     },
+    image: "/poi-images/bosniaherzegovina-stari-grad-zepce-history-v2.webp",
   },
   {
     id: "bosniaherzegovina-stari-grad-foca-history-v2",
@@ -1889,6 +1920,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Locație: Confluența râurilor Drina și Ćehotina", "Nume medieval: Hotča", "Comerț: Punct cheie pentru negustorii din Dubrovnik", "Simbol: Moscheea Aladža (reconstruită)", "Arhitectură: Stil oriental-bosniac", "Importanță: Centru cultural al regiunii Podrinje"],
       en: ["Location: Confluence of the Drina and Ćehotina rivers", "Medieval name: Hotča", "Trade: Key outpost for Dubrovnik merchants", "Landmark: Aladža Mosque (reconstructed)", "Architecture: Oriental-Bosnian style", "Significance: Cultural center of the Podrinje region"],
     },
+    image: "/poi-images/bosniaherzegovina-stari-grad-foca-history-v2.webp",
   },
   {
     id: "bosniaherzegovina-kamen-fortress-history-v2",
@@ -1921,6 +1953,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Cetatea a fost sediul principal al puternicei familii nobiliare Pavlović.", "Prima mențiune documentară a fortificației datează de la sfârșitul secolului al XIV-lea.", "Zidurile sunt construite din calcar local și au grosimi considerabile.", "Poziția strategică permitea controlul total asupra drumului spre Dubrovnik.", "În anul 1463, cetatea a căzut în mâinile trupelor otomane invadatoare.", "Situl cuprinde atât structuri militare, cât și zone de locuire civilă."],
       en: ["The fortress was the primary seat of the powerful Pavlović noble family.", "First documentary mentions of the site date back to the late 14th century.", "The walls are constructed from local limestone with significant thickness.", "Its strategic location allowed for the monitoring of routes to Dubrovnik.", "In 1463, the fortress was captured by the advancing Ottoman forces.", "The site includes both military fortifications and civilian settlement ruins."],
     },
+    image: "/poi-images/bosniaherzegovina-kamen-fortress-history-v2.webp",
   },
   {
     id: "bosniaherzegovina-stari-grad-trnovo-history-v2",
@@ -1953,6 +1986,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Trnovo este situat pe pantele munților Treskavica și Bjelašnica.", "În împrejurimi se află mai multe necropole cu monumente medievale Stećci.", "Râul Željeznica punea în mișcare numeroase mori în orașul vechi.", "Regiunea a fost un loc important de desfășurare pentru Olimpiada din 1984.", "Austro-Ungaria a construit prima șosea modernă prin bazinul Trnovo.", "În secolul al XIV-lea, localitatea era cunoscută ca punct de oprire pentru caravane."],
       en: ["Trnovo is situated on the slopes of the Treskavica and Bjelašnica mountains.", "Several necropolises with medieval Stećci tombstones are located nearby.", "The Željeznica River once powered numerous mills in the old settlement area.", "The region was a significant venue during the 1984 Winter Olympics.", "Austro-Hungary built the first modern road through the Trnovo basin.", "In the 14th century, the site was a well-known stop for trading caravans."],
     },
+    image: "/poi-images/bosniaherzegovina-stari-grad-trnovo-history-v2.webp",
   },
   {
     id: "bosniaherzegovina-kamen-archaeological-site-history-v2",
@@ -1985,6 +2019,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Urmele de locuire datează încă din epoca fierului preromană.", "Triburile ilire au ridicat aici primele sisteme de fortificații cu valuri.", "Monedele romane descoperite atestă integrarea în sistemul monetar imperial.", "Situl este situat pe un platou calcaros proeminent lângă Rogatica.", "Descoperirile de ceramică arată influențe din zona de coastă dalmată.", "Arheologii au documentat evoluția tehnicilor medievale de utilizare a mortarului."],
       en: ["Traces of settlement date back to the pre-Roman Iron Age.", "Illyrian tribes established the first ramparts at this location.", "Roman coin finds prove integration into the imperial monetary system.", "The site is located on a prominent limestone plateau near Rogatica.", "Pottery artifacts show influences from the Dalmatian coastal region.", "Archaeologists documented the development of medieval mortar techniques."],
     },
+    image: "/poi-images/bosniaherzegovina-kamen-archaeological-site-history-v2.webp",
   },
   {
     id: "bosniaherzegovina-stari-grad-visegrad-history-v2",
@@ -2017,6 +2052,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Fortăreața a fost ridicată pe o proeminență stâncoasă inaccesibilă.", "A aparținut domeniului nobiliar al puternicei dinastii Pavlović.", "În anul 1462, complexul a fost cedat fără luptă Imperiului Otoman.", "Ruinele sunt situate direct deasupra orașului modern Višegrad.", "Descoperirile arheologice atestă prezența unei cisterne medievale în interior.", "Cetatea proteja ruta comercială care lega Serbia de Bosnia."],
       en: ["The fortress was built on an inaccessible rocky outcrop.", "It was part of the domain of the powerful Pavlović dynasty.", "In 1462, the site fell to the Ottoman Empire without a fight.", "The ruins are located directly above the modern town of Višegrad.", "Archaeological evidence confirms a medieval water cistern inside the fort.", "The fortress protected the vital trade route from Serbia to Bosnia."],
     },
+    image: "/poi-images/bosniaherzegovina-stari-grad-visegrad-history-v2.webp",
   },
   {
     id: "bosniaherzegovina-kamen-fortress-ruins-history-v2",
@@ -2049,6 +2085,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Ruinele includ resturile a cel puțin trei turnuri de apărare.", "Cărămizile medievale și blocurile de calcar definesc aspectul actual.", "Complexul s-a degradat aproape complet după anul 1500.", "Oamenii de știință au găsit urme ale unei capele gotice în interiorul zidurilor.", "Ruinele sunt declarate monument național protejat al Bosniei și Herțegovinei.", "Unele secțiuni de zid s-au păstrat la o înălțime de peste cinci metri."],
       en: ["The ruins include the remnants of at least three defensive towers.", "Medieval bricks and limestone blocks characterize the current appearance.", "The complex fell into almost complete disrepair after the year 1500.", "Scientists discovered traces of a Gothic chapel within the walls.", "The ruins are designated as a protected national monument of Bosnia.", "Some wall sections have been preserved to a height of over five meters."],
     },
+    image: "/poi-images/bosniaherzegovina-kamen-fortress-ruins-history-v2.webp",
   },
   {
     id: "bosniaherzegovina-stari-grad-vlasenica-history-v2",
@@ -2081,6 +2118,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Cetatea Veletin este situată pe o proeminență stâncoasă deasupra orașului.", "Vlasenica a fost menționată prima dată în 1530 ca sediu al unui judecător otoman.", "Localitatea era cunoscută în Evul Mediu pentru minele sale de argint.", "Împrejurimile oferă una dintre cele mai mari densități de pădure din Bosnia actuală.", "Casele tradiționale aveau odinioară adesea acoperișuri din șindrilă de lemn.", "În secolul al XIX-lea, Vlasenica a fost un centru al rezistenței armate."],
       en: ["The Veletin fortress is located on a rocky ledge overlooking the town.", "Vlasenica was first mentioned in 1530 as the seat of an Ottoman judge.", "The settlement was renowned in the Middle Ages for its silver mines.", "The surrounding area has one of the highest forest densities in modern Bosnia.", "Traditional houses often featured wooden shingle roofs in the past.", "In the 19th century, Vlasenica was a center of armed local resistance."],
     },
+    image: "/poi-images/bosniaherzegovina-stari-grad-vlasenica-history-v2.webp",
   },
   {
     id: "bosniaherzegovina-kamen-fortress-site-history-v2",
@@ -2113,6 +2151,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Platoul calcaros oferă protecție naturală pe trei laturi prin prăpăstii.", "Locația controla accesul către valea strategică Prača.", "Materialele de construcție au fost extrase direct din stânca platoului.", "Existau conexiuni vizuale cu alte cetăți ale dinastiei Pavlović.", "Întregul complex se întinde pe o suprafață de câteva hectare.", "Cisternele arheologice atestă alimentarea autarhică cu apă a locației."],
       en: ["The limestone plateau provides natural protection via cliffs on three sides.", "The location controlled access to the strategically vital Prača Valley.", "Construction materials were quarried directly from the plateau's rock.", "Visual links existed between this site and other Pavlović strongholds.", "The entire complex covers an area of several hectares.", "Archaeological cisterns demonstrate the site's self-sufficient water supply."],
     },
+    image: "/poi-images/bosniaherzegovina-kamen-fortress-site-history-v2.webp",
   },
   {
     id: "bosniaherzegovina-stari-grad-sipovo-history-v2",
@@ -2145,6 +2184,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Soko Grad a rezistat avansului otoman până în anul 1521.", "Cetatea este situată strategic la confluența râurilor Pliva și Janj.", "În apropiere au fost găsite resturile unei bazilici din antichitatea târzie.", "Šipovo a făcut parte în Evul Mediu din parohia Pliva.", "Fortăreața este dispusă pe două niveluri: un castel superior și un avanpost.", "Regiunea este renumită pentru numeroasele sale izvoare carstice de apă."],
       en: ["Soko Grad resisted the Ottoman advance until the year 1521.", "The fortress is strategically located at the confluence of the Pliva and Janj.", "Remains of a late antique basilica were discovered in the vicinity.", "Šipovo was part of the Pliva parish during the Middle Ages.", "The fort features two distinct levels: an upper castle and a lower bailey.", "The region is famous for its numerous karstic water springs."],
     },
+    image: "/poi-images/bosniaherzegovina-stari-grad-sipovo-history-v2.webp",
   },
   {
     id: "bosniaherzegovina-stari-grad-gacko-history-v2",
@@ -2177,6 +2217,7 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Cetatea Kljunač a fost o reședință importantă a dinastiei Kosača.", "Gacko este situat pe un platou la peste 900 de metri deasupra mării.", "Regiunea posedă una dintre cele mai mari necropole Stećci din Herțegovina.", "Gacko a fost cucerit de otomani în 1465 sub conducerea lui Mahmud Pașa.", "Bazinul Gacko este cunoscut pentru zăcămintele sale semnificative de cărbune.", "Sursele medievale menționează Gacko ca pe un important punct vamal."],
       en: ["Kljunač fortress was a significant residence for the Kosača dynasty.", "Gacko is situated on a plateau over 900 meters above sea level.", "The region hosts one of Herzegovina's largest Stećci necropolises.", "Gacko was conquered by the Ottomans in 1465 under Mahmud Pasha.", "The Gacko Basin is renowned for its substantial coal deposits.", "Medieval sources record Gacko as a vital customs checkpoint."],
     },
+    image: "/poi-images/bosniaherzegovina-stari-grad-gacko-history-v2.webp",
   },
   {
     id: "bosniaherzegovina-stari-grad-odzak-history-v2",
@@ -2209,5 +2250,6 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       ro: ["Turnul 'Kapetanova kula' este simbolul principal al orașului.", "Numele Odžak provine din cuvântul turc pentru coș de fum sau vatră.", "Odžak este situat în câmpia fertilă a regiunii Posavina.", "Familia Beširević a condus aici timp de generații ca căpitani.", "În anul 1878, orașul a devenit parte a administrației austro-ungare.", "Regiunea a fost locuită continuu încă din epoca pietrei."],
       en: ["The 'Kapetanova kula' tower is the most iconic landmark of the town.", "The name Odžak is derived from the Turkish word for chimney or hearth.", "Odžak is located in the fertile lowlands of the Posavina region.", "The Beširević family ruled here for generations as military captains.", "In 1878, the town became part of the Austro-Hungarian administration.", "The surrounding region has been continuously inhabited since the Stone Age."],
     },
+    image: "/poi-images/bosniaherzegovina-stari-grad-odzak-history-v2.webp",
   }
 ];

@@ -580,7 +580,8 @@ export const nicaraguaLandmarks: POI[] = [
       hu: ["Majmok otthona (Majom-sziget)", "Exkluzív nyaralók helyszíne", "Fontos a helyi halászoknak"],
       ro: ["Găzduiește maimuțe (Insula Maimuțelor)", "Locul unor case de vacanță exclusiviste", "Important pentru pescarii locali"],
       en: ["Home to several colonies of monkeys", "Features exclusive private vacation homes", "Significant for artisanal fishing"]
-    }
+    },
+    image: "/poi-images/ni-islets.webp",
   },
   {
     id: "ni-coyotepe",
@@ -782,7 +783,8 @@ export const nicaraguaLandmarks: POI[] = [
       hu: ["Hivatalos neve Bilwi", "Egykor fa- és banánvállalatok székhelye", "A halászat határozza meg"],
       ro: ["Numele oficial este Bilwi", "Fost sediu pentru companii de lemn și banane", "Puternic influențat de pescuit"],
       en: ["Commonly known by its indigenous name, Bilwi", "Historically a base for timber and banana exports", "Economic activity centers on seafood exports"]
-    }
+    },
+    image: "/poi-images/ni-puerto-cabezas.webp",
   }
 ];
 

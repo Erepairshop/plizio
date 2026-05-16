@@ -31,6 +31,7 @@ export const nauruReliefV2: POI[] = [
       ro: ["Înălțimea maximă de aproximativ 60 de metri", "Format acum circa 30.000 de ani printr-o alunecare", "Compus din calcar coraligen masiv", "Loc important de cuibărit pentru păsările locale", "Cea mai abruptă secțiune a topografiei insulei", "Punct de belvedere popular pentru turiști"],
       en: ["Maximum height of approximately 60 meters", "Formed about 30,000 years ago by a structural failure", "Composed of massive coral limestone", "Key nesting habitat for indigenous bird species", "Steepest section of the entire island topography", "Popular vantage point for viewing the eastern coastline"],
     },
+    image: "/poi-images/nauru-anibare-escarpment-relief-v2.webp",
   },
   {
     id: "nauru-buada-basin-relief-v2",
@@ -62,6 +63,7 @@ export const nauruReliefV2: POI[] = [
       ro: ["Singura depresiune interioară notabilă", "Găzduiește laguna salmastră Buada", "Solul este bogat în materie organică", "Cel mai important loc pentru cultivarea fructelor", "Situat la 5-10 metri sub nivelul platoului", "Colectează apa de suprafață în timpul ploilor"],
       en: ["Nauru's only significant inland depression", "Contains the brackish water Buada Lagoon", "Soil is rich in organic matter compared to the coast", "Primary location for domestic fruit and vegetable cultivation", "Situated 5-10 meters below the surrounding plateau", "Acts as a natural catchment for surface runoff"],
     },
+    image: "/poi-images/nauru-buada-basin-relief-v2.webp",
   },
   {
     id: "nauru-western-slopes-relief-v2",
@@ -93,6 +95,7 @@ export const nauruReliefV2: POI[] = [
       ro: ["Zonă de legătură între coastă și platou", "Locația multor infrastructuri miniere", "Conține resturi de buncăre japoneze din al Doilea Război Mondial", "Oferă vederi largi asupra portului Aiwo", "Risc de alunecări de teren după ploi torențiale", "Vegetația constă în principal din pădure secundară"],
       en: ["Crucial link zone between the coast and the plateau", "Site of extensive historical mining infrastructure", "Contains remnants of Japanese WWII bunkers", "Offers expansive views of the Aiwo harbor", "Vulnerable to landslides following heavy rainfall", "Vegetation consists primarily of secondary growth"],
     },
+    image: "/poi-images/nauru-western-slopes-relief-v2.webp",
   },
   {
     id: "nauru-northern-uplands-relief-v2",
@@ -124,6 +127,7 @@ export const nauruReliefV2: POI[] = [
       ro: ["Înălțime medie de 40-50 de metri", "Caracterizat prin minerit la suprafață pe scară largă", "Reglează scurgerea apei către Ewa și Anetan", "Format din calcar puternic carstificat", "Aproape nicio așezare umană în această zonă", "Plantele pionier colonizează lent fostele mine"],
       en: ["Average elevation of 40 to 50 meters", "Defined by large-scale open-cast mining pits", "Regulates water runoff into Ewa and Anetan districts", "Composed of deeply weathered karstic limestone", "Virtually no human settlement in this upland area", "Pioneer plant species are slowly recolonizing the pits"],
     },
+    image: "/poi-images/nauru-northern-uplands-relief-v2.webp",
   },
   {
     id: "nauru-meneng-terrace-relief-v2",
@@ -155,6 +159,7 @@ export const nauruReliefV2: POI[] = [
       ro: ["Lățimea terasei este între 100 și 250 de metri", "Sediul celor mai importante instituții guvernamentale", "Solul este format din nisip coraligen consolidat", "Fostă locație a plantațiilor de cocos", "Protecție prin bariere naturale de recif", "Înălțimea este la doar câțiva metri deasupra mării"],
       en: ["Terrace width varies between 100 and 250 meters", "Seat of the primary national government institutions", "Soil is composed of consolidated coral sand", "Historically the site of major coconut plantations", "Protected by natural fringing reef barriers", "Elevation is only a few meters above sea level"],
     },
+    image: "/poi-images/nauru-meneng-terrace-relief-v2.webp",
   },
   {
     id: "nauru-phosphate-pinnacles-relief-v2",
@@ -186,6 +191,7 @@ export const nauruReliefV2: POI[] = [
       ro: ["Acoperă aproximativ 16 kilometri pătrați din insulă", "Formați prin expunerea substratului calcaros", "Densitate maximă în platoul central (Topside)", "Dificultează orice formă de recolonizare", "Stocarea căldurii duce la încălzire locală", "Cea mai importantă moștenire geologică a erei miniere"],
       en: ["Cover approximately 16 square kilometers of the island", "Resulted from the exposure of the underlying karst", "Highest density found on the central plateau (Topside)", "Severely hinder any form of land redevelopment", "Thermal absorption contributes to local heat rise", "The defining geological legacy of the mining era"],
     },
+    image: "/poi-images/nauru-phosphate-pinnacles-relief-v2.webp",
   },
   {
     id: "nauru-eastern-rim-relief-v2",
@@ -217,6 +223,7 @@ export const nauruReliefV2: POI[] = [
       ro: ["Înălțime de aproximativ 45-50 de metri", "Expunere la vânturile alizee de sud-est", "Regiune de graniță între Ijuw și Anibare", "Oferă vedere panoramică asupra Oceanului Pacific", "Punct de orientare important pentru navigație", "Vegetația este influențată de vânturile sărate"],
       en: ["Elevation of approximately 45 to 50 meters", "Directly exposed to prevailing SE trade winds", "Border region between Ijuw and Anibare districts", "Provides panoramic views of the Pacific Ocean", "Major landmark used for coastal navigation", "Flora is significantly shaped by salt-laden winds"],
     },
+    image: "/poi-images/nauru-eastern-rim-relief-v2.webp",
   },
   {
     id: "nauru-interior-lowland-relief-v2",
@@ -248,5 +255,6 @@ export const nauruReliefV2: POI[] = [
       ro: ["Acoperă aproximativ 80% din suprafața totală a terenului Nauru.", "Exploatarea fosfaților a început oficial aici în anul 1906.", "Altitudinea medie variază între 30 și 60 de metri.", "Găzduiește Laguna Buada, un lac cu apă salmastră.", "Cel mai înalt punct, Command Ridge, atinge 65 de metri.", "Peisajul este compus în prezent din mii de coloane de calcar."],
       en: ["Covers about 80% of Nauru's total land area.", "Phosphate mining officially began here in 1906.", "The average elevation ranges between 30 and 60 meters.", "Contains the Buada Lagoon, the island's only lake.", "The highest point, Command Ridge, reaches 65 meters.", "The landscape is dominated by thousands of limestone pinnacles."],
     },
+    image: "/poi-images/nauru-interior-lowland-relief-v2.webp",
   }
 ];

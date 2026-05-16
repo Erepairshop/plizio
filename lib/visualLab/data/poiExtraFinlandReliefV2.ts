@@ -32,6 +32,7 @@ export const finlandReliefV2: POI[] = [
       ro: ["Înălțime: 486 metri", "Locație: Comuna Savukoski", "Graniță: Finlanda-Rusia", "Parcul Național Urho Kekkonen"],
       en: ["Elevation: 486 meters", "Location: Savukoski municipality", "Border: Finland-Russia boundary", "Part of UKK National Park"],
     },
+    image: "/poi-images/finland-korvatunturi-relief-v2.webp",
   },
   {
     id: "finland-tana-valley-relief-v2",
@@ -64,6 +65,7 @@ export const finlandReliefV2: POI[] = [
       ro: ["Lungimea râului Tenojoki: 330 km", "Cel mai înalt punct al văii: 200 m", "Captură anuală de somon: aproximativ 50 de tone", "Populația din Utsjoki: circa 1.300", "Suprafața bazinului hidrografic: 16.386 km²", "Numărul de crescători de reni sami: circa 200"],
       en: ["Length of Tenojoki River: 330 km", "Highest point of valley: 200 m", "Annual salmon catch: approx. 50 tonnes", "Population of Utsjoki: about 1,300", "Catchment area: 16,386 km²", "Number of Sami reindeer herders: about 200"],
     },
+    image: "/poi-images/finland-tana-valley-relief-v2.webp",
   },
   {
     id: "finland-koli-vaara-relief-v2",
@@ -96,6 +98,7 @@ export const finlandReliefV2: POI[] = [
       ro: ["Altitudine: 347 metri", "Localizare: Karelia de Nord", "Tip de rocă: Cuarțit", "Vârf principal: Ukko-Koli", "Arie protejată: Parcul Koli", "Vechime rocă: 2 miliarde ani"],
       en: ["Elevation: 347 meters", "Region: North Karelia", "Rock type: Quartzite", "Highest point: Ukko-Koli", "National Park status: 1991", "Notable visitor: Jean Sibelius"],
     },
+    image: "/poi-images/finland-koli-vaara-relief-v2.webp",
   },
   {
     id: "finland-yllaastunturi-relief-v2",
@@ -128,6 +131,7 @@ export const finlandReliefV2: POI[] = [
       ro: ["Înălțime: 718 m", "Număr de pârtii de schi: 63", "Cea mai lungă pârtie: 3 km", "Lungimea totală a pistelor de schi fond: peste 330 km", "Populația din Äkäslompolo: circa 500", "Grosimea medie a zăpezii: 70 cm"],
       en: ["Height: 718 m", "Number of ski slopes: 63", "Longest slope: 3 km", "Total cross-country trail length: over 330 km", "Population of Äkäslompolo: approx. 500", "Average snow depth: 70 cm"],
     },
+    image: "/poi-images/finland-yllaastunturi-relief-v2.webp",
   },
   {
     id: "finland-pyhatunturi-relief-v2",
@@ -160,6 +164,7 @@ export const finlandReliefV2: POI[] = [
       ro: ["Înălțime: 540 m", "Număr de pârtii de schi: 10", "Cea mai înaltă cascadă: Pyhäkuru, 17 m", "Adâncimea canionului Isokuru: 100 m", "Suprafața parcului național: 142 km²", "Distanța până la Cercul Polar: 50 km"],
       en: ["Height: 540 m", "Number of ski slopes: 10", "Highest waterfall: Pyhäkuru, 17 m", "Depth of Isokuru gorge: 100 m", "National park area: 142 km²", "Distance to Arctic Circle: 50 km"],
     },
+    image: "/poi-images/finland-pyhatunturi-relief-v2.webp",
   },
   {
     id: "finland-sana-peak-relief-v2",
@@ -192,6 +197,7 @@ export const finlandReliefV2: POI[] = [
       ro: ["Altitudine: 1029 metri", "Provincie: Laponia", "Structură: Sisturi paleozoice", "Lățime la bază: 4 km", "Statut: Sit natural protejat", "Semnificație: Loc sacru Sámi"],
       en: ["Elevation: 1029 meters", "Location: Enontekiö", "Rock type: Paleozoic slate", "Topography: Asymmetric peak", "Climate: Alpine tundra", "Distance to road: 5 km"],
     },
+    image: "/poi-images/finland-sana-peak-relief-v2.webp",
   },
   {
     id: "finland-levi-fjaell-relief-v2",
@@ -224,6 +230,7 @@ export const finlandReliefV2: POI[] = [
       ro: ["Înălțime: 531 m", "Număr de pârtii: 48", "Număr de lifturi: 26", "Începerea sezonului: noiembrie", "Siguranța zăpezii: din noiembrie până în mai", "Nopți de cazare pe an: peste 1 milion"],
       en: ["Height: 531 m", "Number of ski slopes: 48", "Number of lifts: 26", "Season start: November", "Snow cover: November to May", "Annual guest nights: over 1 million"],
     },
+    image: "/poi-images/finland-levi-fjaell-relief-v2.webp",
   },
   {
     id: "finland-taivaskero-peak-relief-v2",
@@ -256,6 +263,7 @@ export const finlandReliefV2: POI[] = [
       ro: ["Înălțime: 807 metri", "Munți: Pallastunturi", "Flacăra olimpică: 1952", "Parcul Pallas-Yllästunturi"],
       en: ["Elevation: 807 meters", "Range: Pallastunturi fells", "Olympic flame: July 1952", "Pallas-Yllästunturi National Park"],
     },
+    image: "/poi-images/finland-taivaskero-peak-relief-v2.webp",
   },
   {
     id: "finland-pallastunturi-relief-v2",
@@ -288,6 +296,7 @@ export const finlandReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf: 807 m (Pallastunturi)", "Număr de munți: 7", "Lungimea traseului Hetta-Pallas: 55 km", "Anul înființării parcului național: 1938", "Suprafața parcului național: 1.020 km²", "Grosimea medie a zăpezii iarna: 80 cm"],
       en: ["Highest peak: 807 m (Pallastunturi)", "Number of fells: 7", "Length of Hetta-Pallas trail: 55 km", "National park established: 1938", "National park area: 1,020 km²", "Average snow depth in winter: 80 cm"],
     },
+    image: "/poi-images/finland-pallastunturi-relief-v2.webp",
   },
   {
     id: "finland-aukusti-vaara-relief-v2",
@@ -320,6 +329,7 @@ export const finlandReliefV2: POI[] = [
       ro: ["Înălțime: 220 m", "Distanța față de Rovaniemi: aproximativ 20 km", "Suprafața colinei: circa 2 km²", "Specie de copac predominantă: pin silvestru", "Temperatura medie anuală: 0°C", "Lungimea traseelor de drumeție: circa 10 km"],
       en: ["Height: 220 m", "Distance from Rovaniemi: approx. 20 km", "Hill area: about 2 km²", "Dominant tree species: Scots pine", "Average annual temperature: 0°C", "Length of hiking trails: about 10 km"],
     },
+    image: "/poi-images/finland-aukusti-vaara-relief-v2.webp",
   },
   {
     id: "finland-luostotunturi-relief-v2",
@@ -352,6 +362,7 @@ export const finlandReliefV2: POI[] = [
       ro: ["Înălțime: 701 m", "Lungimea traseului de ascensiune: 6 km", "Diferență de nivel: 400 m", "Cea mai apropiată localitate: Äkäslompolo, 15 km", "Zone de vegetație: trei (pădure, tufăriș, tundră)", "Grosimea medie a zăpezii în aprilie: 80 cm"],
       en: ["Height: 701 m", "Length of ascent trail: 6 km", "Elevation gain: 400 m", "Nearest village: Äkäslompolo, 15 km away", "Vegetation zones: three (forest, scrub, tundra)", "Average snow depth in April: 80 cm"],
     },
+    image: "/poi-images/finland-luostotunturi-relief-v2.webp",
   },
   {
     id: "finland-olostunturi-relief-v2",
@@ -384,6 +395,7 @@ export const finlandReliefV2: POI[] = [
       ro: ["Înălțime: 665 m", "Distanța față de Muonio: 20 km", "Distanța de ascensiune: 8 km (sens unic)", "Temperatura maximă în iulie: 15°C", "Grosimea medie a zăpezii: 70 cm", "Număr de vestigii ale așezărilor sami: 5"],
       en: ["Height: 665 m", "Distance from Muonio: 20 km", "Ascension distance: 8 km (one way)", "Maximum temperature in July: 15°C", "Average snow depth: 70 cm", "Number of Sami settlement remains: 5"],
     },
+    image: "/poi-images/finland-olostunturi-relief-v2.webp",
   },
   {
     id: "finland-pallas-lake-plain-relief-v2",
@@ -416,6 +428,7 @@ export const finlandReliefV2: POI[] = [
       ro: ["Altitudine: 300-350 m", "Număr de lacuri: peste 50", "Suprafața câmpiei: circa 20 km²", "Cea mai frecventă pasăre: cocorul", "Temperatura medie în iulie: 12°C", "Topirea zăpezii: sfârșitul lunii mai"],
       en: ["Elevation: 300-350 m", "Number of lakes: over 50", "Plain area: approx. 20 km²", "Most common bird species: common crane", "Average July temperature: 12°C", "Snowmelt: late May"],
     },
+    image: "/poi-images/finland-pallas-lake-plain-relief-v2.webp",
   },
   {
     id: "finland-aavasaksa-vaara-relief-v2",
@@ -448,6 +461,7 @@ export const finlandReliefV2: POI[] = [
       ro: ["Înălțime: 242 metri", "Locație: Laponia, Ylitornio", "Statut UNESCO: din 2005", "Punct geodezic Struve"],
       en: ["Elevation: 242 meters", "Location: Lapland, Ylitornio", "UNESCO status: since 2005", "Struve Geodetic Arc point"],
     },
+    image: "/poi-images/finland-aavasaksa-vaara-relief-v2.webp",
   },
   {
     id: "finland-pisavaara-ridge-relief-v2",
@@ -480,6 +494,7 @@ export const finlandReliefV2: POI[] = [
       ro: ["Înălțime: 250 m", "Lungimea crestei: 8 km", "Distanța față de Rovaniemi: 30 km", "Specie de copac predominantă: molid", "Precipitații medii anuale: 600 mm", "Număr de specii de păsări: peste 80"],
       en: ["Height: 250 m", "Ridge length: 8 km", "Distance from Rovaniemi: 30 km", "Dominant tree species: Norway spruce", "Average annual precipitation: 600 mm", "Number of bird species: over 80"],
     },
+    image: "/poi-images/finland-pisavaara-ridge-relief-v2.webp",
   },
   {
     id: "finland-saravaara-hill-relief-v2",
@@ -512,6 +527,7 @@ export const finlandReliefV2: POI[] = [
       ro: ["Altitudine: 214 metri", "Comună: Tohmajärvi", "Regiune: Karelia de Nord", "Vegetație: Taiga boreală", "Sol: Podzol", "Proximitate: Granița rusă"],
       en: ["Elevation: 214 meters", "District: Tohmajärvi", "Province: North Karelia", "Forest type: Coniferous", "Geology: Schist belt", "Land use: Silviculture"],
     },
+    image: "/poi-images/finland-saravaara-hill-relief-v2.webp",
   },
   {
     id: "finland-kaunispää-relief-v2",
@@ -544,6 +560,7 @@ export const finlandReliefV2: POI[] = [
       ro: ["Altitudine: 438 metri", "Locație: Saariselkä", "Municipalitate: Inari", "Tip relief: Tundră", "Acces: Drum asfaltat", "Utilizare: Turism montan"],
       en: ["Elevation: 438 meters", "Resort: Saariselkä", "County: Inari", "Ecosystem: Alpine tundra", "Infrastructure: Radio mast", "Topography: Treeless fell"],
     },
+    image: "/poi-images/finland-kaunispää-relief-v2.webp",
   },
   {
     id: "finland-ahjokero-relief-v2",
@@ -576,6 +593,7 @@ export const finlandReliefV2: POI[] = [
       ro: ["Înălțime: 500 m", "Suprafață: circa 5 km²", "Distanța până la cea mai apropiată localitate: 30 km", "Temperatura medie în iulie: 10°C", "Perioada fără zăpadă: iunie-septembrie", "Viteza maximă a vântului înregistrată: 25 m/s"],
       en: ["Height: 500 m", "Area: about 5 km²", "Distance to nearest settlement: 30 km", "Average July temperature: 10°C", "Snow-free period: June to September", "Highest recorded wind speed: 25 m/s"],
     },
+    image: "/poi-images/finland-ahjokero-relief-v2.webp",
   },
   {
     id: "finland-nitsitunturi-relief-v2",
@@ -608,6 +626,7 @@ export const finlandReliefV2: POI[] = [
       ro: ["Înălțime: 680 m", "Viteza maximă a vântului înregistrată: 30 m/s", "Temperatura medie în ianuarie: -15°C", "Perioada cu zăpadă: octombrie-mai", "Distanța până la cea mai apropiată parcare: 10 km", "Număr de teritorii de potârniche: estimativ 20"],
       en: ["Height: 680 m", "Highest recorded wind speed: 30 m/s", "Average January temperature: -15°C", "Snowy period: October to May", "Distance to nearest parking: 10 km", "Estimated ptarmigan territories: 20"],
     },
+    image: "/poi-images/finland-nitsitunturi-relief-v2.webp",
   },
   {
     id: "finland-kistastunturi-relief-v2",
@@ -640,6 +659,7 @@ export const finlandReliefV2: POI[] = [
       ro: ["Înălțime: 600 m", "Roca: cuarțit", "Timp de ascensiune: 3 ore (sens unic)", "Cea mai frecventă pasăre: ploier auriu", "Grosimea medie a zăpezii în februarie: 70 cm", "Număr de trasee marcate: 2"],
       en: ["Height: 600 m", "Rock type: quartzite", "Ascent time: 3 hours (one way)", "Most common bird: European golden plover", "Average snow depth in February: 70 cm", "Number of marked trails: 2"],
     },
+    image: "/poi-images/finland-kistastunturi-relief-v2.webp",
   },
   {
     id: "finland-isokurkkio-valley-relief-v2",
@@ -672,6 +692,7 @@ export const finlandReliefV2: POI[] = [
       ro: ["Lungime: 2 km", "Adâncime: 100 m", "Lățime: 200 m", "Număr de cascade: 3", "Cea mai înaltă cascadă: 15 m", "Panta medie a pereților: 60°"],
       en: ["Length: 2 km", "Depth: 100 m", "Width: 200 m", "Number of waterfalls: 3", "Highest waterfall: 15 m", "Average wall slope: 60°"],
     },
+    image: "/poi-images/finland-isokurkkio-valley-relief-v2.webp",
   },
   {
     id: "finland-uupunturi-relief-v2",
@@ -704,6 +725,7 @@ export const finlandReliefV2: POI[] = [
       ro: ["Înălțime: 640 m", "Distanța până la cel mai apropiat drum: 5 km", "Cea mai frecventă specie de lichen: lichen de ren", "Temperatura medie în august: 8°C", "Perioada fără zăpadă: iulie-august", "Număr de observații de vulpe polară pe an: 10-15"],
       en: ["Height: 640 m", "Distance to nearest road: 5 km", "Most common lichen species: reindeer lichen", "Average August temperature: 8°C", "Snow-free period: July to August", "Annual Arctic fox sightings: 10-15"],
     },
+    image: "/poi-images/finland-uupunturi-relief-v2.webp",
   },
   {
     id: "finland-salmivaara-hill-relief-v2",
@@ -736,6 +758,7 @@ export const finlandReliefV2: POI[] = [
       ro: ["Altitudine: 260 metri", "Zonă: Kilpisjärvi", "Regiune: Enontekiö", "Vizibilitate: Munții Suediei", "Geologie: Rocă cristalină", "Traseu: Potecă marcată"],
       en: ["Elevation: 260 meters", "Village: Kilpisjärvi", "Latitude: 69° North", "Rock type: Gneiss", "View: Border with Sweden", "Ecology: Subarctic mire"],
     },
+    image: "/poi-images/finland-salmivaara-hill-relief-v2.webp",
   },
   {
     id: "finland-vartsintunturi-relief-v2",
@@ -768,6 +791,7 @@ export const finlandReliefV2: POI[] = [
       ro: ["Înălțime: 550 m", "Lungimea pistei de schi fond: 10 km", "Cea mai apropiată localitate: Muonio, 15 km", "Cel mai frecvent copac: pinul silvestru", "Grosimea medie a zăpezii în martie: 60 cm", "Număr de corale sami de reni: 3"],
       en: ["Height: 550 m", "Length of cross-country ski trail: 10 km", "Nearest settlement: Muonio, 15 km away", "Most common tree: Scots pine", "Average snow depth in March: 60 cm", "Number of Sami reindeer corrals: 3"],
     },
+    image: "/poi-images/finland-vartsintunturi-relief-v2.webp",
   },
   {
     id: "finland-maanselka-ridge-relief-v2",
@@ -800,6 +824,7 @@ export const finlandReliefV2: POI[] = [
       ro: ["Lungimea crestei Maanselkä este de aproximativ 200 km.", "Altitudinea maximă este 412 m (Ukonvaara).", "Suprafața totală este de circa 10.000 km².", "Vârsta rocilor: 1,5 miliarde de ani.", "Precipitațiile anuale: 500-700 mm.", "Temperatura medie în iulie: 15 °C."],
       en: ["The ridge extends 200 km from northwest to southeast.", "Its highest point, Ukonvaara, stands at 412 m.", "The bedrock is Precambrian, over 1.5 billion years old.", "The area is home to about 5,000 reindeer.", "Forest cover exceeds 80% of the region.", "The ridge forms the watershed between the Baltic Sea and the White Sea basins."],
     },
+    image: "/poi-images/finland-maanselka-ridge-relief-v2.webp",
   },
   {
     id: "finland-suomutunturi-relief-v2",
@@ -832,6 +857,7 @@ export const finlandReliefV2: POI[] = [
       ro: ["Altitudinea Suomutunturi este de 470 m.", "Parcul Național Salla, care include muntele, are o suprafață de 110 km².", "Temperatura medie în ianuarie: -14 °C.", "Precipitațiile anuale: 600 mm.", "Zăpada persistă 7-8 luni pe an.", "Muntele se află la 30 km de granița cu Rusia."],
       en: ["Suomutunturi rises to 470 m above sea level.", "It is part of Salla National Park, established in 2018.", "The park covers an area of 110 km².", "The average snow depth in March is 80 cm.", "There are over 100 km of marked trails in the area.", "The nearest village, Salla, has a population of about 3,500."],
     },
+    image: "/poi-images/finland-suomutunturi-relief-v2.webp",
   },
   {
     id: "finland-riisitunturi-relief-v2",
@@ -864,6 +890,7 @@ export const finlandReliefV2: POI[] = [
       ro: ["Altitudinea Riisitunturi: 465 m.", "Rezervația naturală are 77 km².", "Palsurile ating 7 m înălțime și 50 m diametru.", "Temperatura medie anuală: -1 °C.", "Precipitațiile anuale: 500 mm.", "Zona este unul dintre cele mai sudice puncte cu permafrost din Europa."],
       en: ["Riisitunturi rises to 465 m above sea level.", "The Riisitunturi Nature Reserve covers 77 km².", "Palsas can reach heights of 7 m and diameters of 50 m.", "Average annual temperature is -1 °C.", "Snow cover persists for about 200 days per year.", "The reserve was established in 1982."],
     },
+    image: "/poi-images/finland-riisitunturi-relief-v2.webp",
   },
   {
     id: "finland-korouoma-valley-relief-v2",
@@ -896,6 +923,7 @@ export const finlandReliefV2: POI[] = [
       ro: ["Adâncimea canionului: până la 100 m.", "Lungimea văii: 10 km.", "Cascada Jyrävä are 30 m înălțime.", "Aria protejată Korouoma măsoară 30 km².", "Numărul anual de vizitatori: peste 50.000.", "Perioada de gheață pentru cățărare: decembrie-martie."],
       en: ["The valley is up to 100 m deep and 10 km long.", "Jyrävä waterfall drops 30 m.", "The protected area covers 30 km².", "Over 50,000 visitors per year.", "Ice climbing season lasts from December to March.", "The rock is quartzite, 2 billion years old."],
     },
+    image: "/poi-images/finland-korouoma-valley-relief-v2.webp",
   },
   {
     id: "finland-valtavaara-hill-relief-v2",
@@ -928,6 +956,7 @@ export const finlandReliefV2: POI[] = [
       ro: ["Altitudine: 492 metri", "Oraș apropiat: Kuusamo", "Regiune: Ostrobotnia de Nord", "Rezervație: Valtavaara", "Traseu: Karhunkierros", "Biodiversitate: Specii arctice"],
       en: ["Elevation: 492 meters", "Town: Kuusamo", "Province: Northern Ostrobothnia", "Trail: Karhunkierros", "Geology: Quartzite ridge", "Nature reserve: Founded 1980"],
     },
+    image: "/poi-images/finland-valtavaara-hill-relief-v2.webp",
   },
   {
     id: "finland-ruka-hill-relief-v2",
@@ -960,6 +989,7 @@ export const finlandReliefV2: POI[] = [
       ro: ["Altitudinea Ruka Hill: 350 m.", "Stațiunea are 34 de pârtii și 15 teleschiuri.", "Primul teleschi a fost construit în 1954.", "Cea mai lungă pârtie măsoară 2 km.", "Numărul anual de vizitatori: peste 500.000.", "Sezonul de schi durează din octombrie până în mai."],
       en: ["Ruka Hill is 350 m high.", "The ski resort has 34 slopes and 15 lifts.", "First ski lift built in 1954.", "Longest run is 2 km.", "Over 500,000 visitors annually.", "Ski season runs from October to May."],
     },
+    image: "/poi-images/finland-ruka-hill-relief-v2.webp",
   },
   {
     id: "finland-oulanka-canyon-relief-v2",
@@ -992,6 +1022,7 @@ export const finlandReliefV2: POI[] = [
       ro: ["Adâncimea canionului: până la 100 m.", "Cascada Kiutaköngäs: 14 m înălțime.", "Parcul Național Oulanka întins pe 290 km² (fondat 1956).", "Traseul Karhunkierros: 80 km lungime.", "Peste 100.000 de vizitatori pe an.", "Roca este dolomit, format acum 1,5 miliarde de ani."],
       en: ["Canyon depth up to 100 m.", "Kiutaköngäs waterfall drops 14 m.", "Oulanka National Park covers 290 km², established 1956.", "Karhunkierros trail is 80 km long.", "Park receives over 100,000 visitors annually.", "The bedrock is dolomite from 1.5 billion years ago."],
     },
+    image: "/poi-images/finland-oulanka-canyon-relief-v2.webp",
   },
   {
     id: "finland-konttainen-hill-relief-v2",
@@ -1024,6 +1055,7 @@ export const finlandReliefV2: POI[] = [
       ro: ["Înălțime: 407 metri", "Rocă: Cuarțit", "Regiune: Koillismaa, Kuusamo", "Traseu: Karhunkierros"],
       en: ["Elevation: 407 meters", "Rock type: Quartzite", "Region: Koillismaa, Kuusamo", "Trail: Karhunkierros access"],
     },
+    image: "/poi-images/finland-konttainen-hill-relief-v2.webp",
   },
   {
     id: "finland-pyhavaara-relief-v2",
@@ -1056,6 +1088,7 @@ export const finlandReliefV2: POI[] = [
       ro: ["Înălțime: 461 metri", "Locație: Ruka, Kuusamo", "Semnificație: Loc sacru", "Traseu: Pyhän Jyssäys"],
       en: ["Elevation: 461 meters", "Location: Ruka, Kuusamo", "Significance: Ancient holy site", "Trail: Pyhän Jyssäys route"],
     },
+    image: "/poi-images/finland-pyhavaara-relief-v2.webp",
   },
   {
     id: "finland-vaattunkivaara-relief-v2",
@@ -1088,6 +1121,7 @@ export const finlandReliefV2: POI[] = [
       ro: ["Locație: Regiunea Rovaniemi", "Zonă: Traseul Napapiiri", "Atracție: Turn de observație", "Peisaj: Mlaștini virgine"],
       en: ["Location: Rovaniemi district", "Area: Napapiiri Hiking Area", "Feature: Observation tower", "Landscape: Pristine aapa mires"],
     },
+    image: "/poi-images/finland-vaattunkivaara-relief-v2.webp",
   },
   {
     id: "finland-konkamaeno-valley-relief-v2",
@@ -1120,6 +1154,7 @@ export const finlandReliefV2: POI[] = [
       ro: ["Lungimea văii: aproximativ 100 km.", "Lungimea râului Könkämäeno: 200 km.", "Altitudine: 200-400 m.", "Densitatea populației: sub 0,5 locuitori/km².", "Bazinul hidrografic: 4.000 km².", "Temperatura medie în ianuarie: -15 °C."],
       en: ["Valley length: about 100 km.", "River Könkämäeno is 200 km long.", "Altitude ranges from 200 to 400 m.", "Population density under 0.5 per km².", "River basin area: 4,000 km².", "Average January temperature: -15 °C."],
     },
+    image: "/poi-images/finland-konkamaeno-valley-relief-v2.webp",
   },
   {
     id: "finland-kivivaara-hill-relief-v2",
@@ -1152,6 +1187,7 @@ export const finlandReliefV2: POI[] = [
       ro: ["Altitudine: 260 metri", "Municipalitate: Ilomantsi", "Regiune: Karelia de Nord", "Habitat: Pădure boreală", "Localizare: Estul Finlandei", "Relief: Depozite morenaice"],
       en: ["Elevation: 260 meters", "District: Ilomantsi", "Longitude: 31° East", "Biome: Old-growth forest", "Soil type: Glacial till", "Historical use: Forestry"],
     },
+    image: "/poi-images/finland-kivivaara-hill-relief-v2.webp",
   },
   {
     id: "finland-paistunturi-fell-relief-v2",
@@ -1184,6 +1220,7 @@ export const finlandReliefV2: POI[] = [
       ro: ["Altitudinea maximă: 530 m (Paistunturi).", "Zona sălbatică Käsivarsi are 2.200 km².", "Limita arborilor se află la 400 m.", "Temperatura medie în iulie: 10 °C.", "Zăpada persistă din octombrie până în iunie.", "Aproximativ 1.000 de reni sălbatici trăiesc în zonă."],
       en: ["Highest point: 530 m (Paistunturi).", "Käsivarsi Wilderness Area covers 2,200 km².", "Tree line at 400 m.", "Average July temperature: 10 °C.", "Snow cover from October to June.", "Wild reindeer population: about 1,000."],
     },
+    image: "/poi-images/finland-paistunturi-fell-relief-v2.webp",
   },
   {
     id: "finland-hammastunturi-relief-v2",
@@ -1216,6 +1253,7 @@ export const finlandReliefV2: POI[] = [
       ro: ["Altitudinea Hammastunturi: 580 m.", "Parcul Național Lemmenjoki: 2.850 km² (cel mai mare din Finlanda).", "Parcul fondat în 1956.", "Aurul descoperit în 1870.", "Vizitatori anual: aprox. 30.000.", "Distanța până la Inari: 60 km."],
       en: ["Hammastunturi height: 580 m.", "Lemmenjoki National Park: 2,850 km², largest in Finland.", "Park established in 1956.", "Gold discovered in 1870.", "Annual visitors: about 30,000.", "Distance to Inari: 60 km."],
     },
+    image: "/poi-images/finland-hammastunturi-relief-v2.webp",
   },
   {
     id: "finland-muotkatunturi-relief-v2",
@@ -1248,6 +1286,7 @@ export const finlandReliefV2: POI[] = [
       ro: ["Altitudinea maximă a masivului: 560 m.", "Rezervația Naturală Kevo: 712 km².", "Fondată în 1959.", "Canionul Kevo are o lungime de 40 km.", "Temperatura medie în ianuarie: -16 °C.", "Populația comunei Utsjoki: aproximativ 1.200 de locuitori."],
       en: ["Highest point: 560 m.", "Kevo Nature Reserve covers 712 km².", "Reserve established in 1959.", "Kevo Canyon length: 40 km.", "Average January temperature: -16 °C.", "Population of Utsjoki: about 1,200."],
     },
+    image: "/poi-images/finland-muotkatunturi-relief-v2.webp",
   },
   {
     id: "finland-tuntsa-wilderness-relief-v2",
@@ -1280,6 +1319,7 @@ export const finlandReliefV2: POI[] = [
       ro: ["Suprafața zonei sălbatice Tuntsa: 500 km².", "Desemnată în 1992.", "Altitudinea maximă: 450 m.", "Densitatea populației: 0 locuitori/km².", "Lungimea râului Tuntsa: 100 km.", "Precipitațiile anuale: 600 mm."],
       en: ["Tuntsa Wilderness Area: 500 km².", "Established in 1992.", "Highest point: 450 m.", "No permanent residents.", "Tuntsa River length: 100 km.", "Annual precipitation: 600 mm."],
     },
+    image: "/poi-images/finland-tuntsa-wilderness-relief-v2.webp",
   },
   {
     id: "finland-viipustunturi-relief-v2",
@@ -1312,6 +1352,7 @@ export const finlandReliefV2: POI[] = [
       ro: ["Altitudinea Viipustunturi: 490 m.", "Parcul Național Urho Kekkonen: 2.550 km² (fondat 1983).", "Al doilea cel mai mare parc național din Finlanda.", "Vizitatori anual: aproximativ 100.000.", "Peste 200 de specii de păsări.", "Distanța până la Sodankylä: 80 km."],
       en: ["Viipustunturi height: 490 m.", "Urho Kekkonen National Park: 2,550 km², established 1983.", "Second largest national park in Finland.", "Annual visitors: about 100,000.", "Over 200 bird species in the park.", "Distance to Sodankylä: 80 km."],
     },
+    image: "/poi-images/finland-viipustunturi-relief-v2.webp",
   },
   {
     id: "finland-tuolba-sauoivi-relief-v2",
@@ -1344,6 +1385,7 @@ export const finlandReliefV2: POI[] = [
       ro: ["Altitudinea maximă: 580 m.", "Situat în Parcul Național Lemmenjoki (2.850 km²).", "Distanța până la cel mai apropiat drum: 30 km.", "Vizitatori anual în parc: 30.000.", "Grosimea medie a zăpezii în martie: 80 cm.", "Zona face parte din teritoriul tradițional al sámilor."],
       en: ["Highest point: 580 m.", "Located in Lemmenjoki National Park (2,850 km²).", "30 km from nearest road.", "Annual park visitors: 30,000.", "Average snow depth in March: 80 cm.", "Area is part of Sámi homeland."],
     },
+    image: "/poi-images/finland-tuolba-sauoivi-relief-v2.webp",
   },
   {
     id: "finland-joutsitunturi-relief-v2",
@@ -1376,6 +1418,7 @@ export const finlandReliefV2: POI[] = [
       ro: ["Altitudinea: 480 m.", "Situat în Parcul Național Urho Kekkonen (2.550 km²).", "Parcul fondat în 1983.", "Distanța până la Sodankylä: 60 km.", "Vizitatori anual în parc: 100.000.", "Denumirea provine din cuvântul finlandez pentru lebădă."],
       en: ["Height: 480 m.", "Located in Urho Kekkonen National Park (2,550 km²).", "Park established in 1983.", "Distance to Sodankylä: 60 km.", "Annual park visitors: 100,000.", "Name derived from Finnish word for swan."],
     },
+    image: "/poi-images/finland-joutsitunturi-relief-v2.webp",
   },
   {
     id: "finland-kauniskero-relief-v2",
@@ -1408,6 +1451,7 @@ export const finlandReliefV2: POI[] = [
       ro: ["Altitudinea: 520 m.", "Situat în Parcul Național Lemmenjoki (2.850 km²).", "Parcul fondat în 1956.", "Distanța până la cel mai apropiat drum: 20 km.", "Vizitatori anual în parc: 30.000.", "Numele înseamnă 'munte frumos' în finlandeză."],
       en: ["Height: 520 m.", "Located in Lemmenjoki National Park (2,850 km²).", "Park established in 1956.", "20 km from nearest road.", "Annual park visitors: 30,000.", "Name means 'beautiful mountain' in Finnish."],
     },
+    image: "/poi-images/finland-kauniskero-relief-v2.webp",
   },
   {
     id: "finland-kumputunturi-relief-v2",
@@ -1440,6 +1484,7 @@ export const finlandReliefV2: POI[] = [
       ro: ["Altitudinea: 500 m.", "Situat în Parcul Național Lemmenjoki (2.850 km²).", "Parcul fondat în 1956.", "Distanța până la cel mai apropiat drum: 25 km.", "Vizitatori anual în parc: 30.000.", "Numele provine din limba sami."],
       en: ["Height: 500 m.", "Located in Lemmenjoki National Park (2,850 km²).", "Park established in 1956.", "25 km from nearest road.", "Annual park visitors: 30,000.", "Name derived from Sámi language."],
     },
+    image: "/poi-images/finland-kumputunturi-relief-v2.webp",
   },
   {
     id: "finland-keimiotunturi-relief-v2",
@@ -1472,5 +1517,6 @@ export const finlandReliefV2: POI[] = [
       ro: ["Altitudinea: 540 m.", "Situat în Parcul Național Lemmenjoki (2.850 km²).", "Parcul fondat în 1956.", "Distanța până la lacul Inarijärvi: 10 km.", "Vizitatori anual în parc: 30.000.", "Numele înseamnă 'muntele cortului' în sami."],
       en: ["Height: 540 m.", "Located in Lemmenjoki National Park (2,850 km²).", "Park established in 1956.", "10 km from Lake Inarijärvi.", "Annual park visitors: 30,000.", "Name means 'tent mountain' in Sámi."],
     },
+    image: "/poi-images/finland-keimiotunturi-relief-v2.webp",
   }
 ];

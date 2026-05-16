@@ -31,6 +31,7 @@ export const malawiNatureV2: POI[] = [
       ro: ["Vârful se află la 3.002 de metri altitudine.", "Diferența de nivel față de punctul de plecare este de aproximativ 1.600 de metri.", "Traseul de ascensiune are o lungime de aproximativ 12 kilometri.", "Temperatura medie pe vârf este de aproximativ 5 °C.", "Prima ascensiune documentată a avut loc în 1912.", "Vârful Sapitwa face parte din masivul Mulanje, care acoperă o suprafață de 640 km²."],
       en: ["The peak stands at 3,002 meters elevation.", "The elevation gain from the trailhead is about 1,600 meters.", "The ascent route is approximately 12 kilometers long.", "The average temperature on the summit is around 5 °C.", "The first documented ascent was in 1912.", "Sapitwa Peak is part of the Mulanje massif, which covers 640 km²."],
     },
+    image: "/poi-images/malawi-sapitwa-peak-nature-v2.webp",
   },
   {
     id: "malawi-zomba-plateau-nature-v2",
@@ -62,6 +63,7 @@ export const malawiNatureV2: POI[] = [
       ro: ["Podisul se întinde pe 130 km².", "Cel mai înalt punct este la 2.087 de metri.", "Precipitațiile medii anuale sunt de 1.500 mm.", "Pădurile de pini au fost plantate în anii 1950.", "Există peste 20 de cascade pe podiș.", "Podisul Zomba face parte din Rezervația Forestieră Zomba-Malosa, înființată în 1894."],
       en: ["The plateau covers 130 km².", "The highest point is at 2,087 meters.", "The average annual rainfall is 1,500 mm.", "The pine forests were planted in the 1950s.", "There are over 20 waterfalls on the plateau.", "Zomba Plateau is part of the Zomba-Malosa Forest Reserve, established in 1894."],
     },
+    image: "/poi-images/malawi-zomba-plateau-nature-v2.webp",
   },
   {
     id: "malawi-shire-river-nature-v2",
@@ -93,6 +95,7 @@ export const malawiNatureV2: POI[] = [
       ro: ["Râul Shire are 402 kilometri lungime.", "Curge aproximativ 300 de kilometri prin Malawi.", "Debitul mediu este de 450 m³/s.", "Bazinul hidrografic al Shire are 158.000 km².", "Hidrocentrala Nkula Falls are o capacitate de 80 MW.", "Râul pierde aproximativ 200 de metri în altitudine de-a lungul cursului său."],
       en: ["The Shire River is 402 kilometers long.", "It flows about 300 kilometers through Malawi.", "The average discharge is 450 m³/s.", "The Shire's catchment area is 158,000 km².", "The Nkula Falls hydroelectric plant has a capacity of 80 MW.", "The river drops approximately 200 meters along its course."],
     },
+    image: "/poi-images/malawi-shire-river-nature-v2.webp",
   },
   {
     id: "malawi-lake-chilwa-nature-v2",
@@ -124,6 +127,7 @@ export const malawiNatureV2: POI[] = [
       ro: ["Suprafața maximă este de aproximativ 2.600 km² în sezonul ploios.", "Adâncimea medie este de doar 2 metri.", "Lacul a fost declarat sit Ramsar în 1997.", "Există peste 160 de specii de păsări la Lacul Chilwa.", "Pescuitul produce anual aproximativ 10.000 de tone de pește.", "Insula Chisi are o populație de aproximativ 5.000 de oameni."],
       en: ["The maximum area is about 2,600 km² in the rainy season.", "The average depth is only 2 meters.", "The lake was designated a Ramsar site in 1997.", "There are over 160 bird species at Lake Chilwa.", "The fishery yields about 10,000 tons of fish annually.", "Chisi Island has a population of about 5,000 people."],
     },
+    image: "/poi-images/malawi-lake-chilwa-nature-v2.webp",
   },
   {
     id: "malawi-manchewe-falls-nature-v2",
@@ -155,6 +159,7 @@ export const malawiNatureV2: POI[] = [
       ro: ["Cascada are o înălțime de aproximativ 80 de metri.", "Este situată în Parcul Național Nyika, care are 3.200 km².", "Altitudinea podișului este de aproximativ 2.100 de metri deasupra nivelului mării.", "Cascada este cea mai bogată în apă în sezonul ploios (noiembrie până în aprilie).", "Zona găzduiește peste 400 de specii de păsări.", "Temperatura medie a apei este de 18 °C."],
       en: ["The waterfall has a height of about 80 meters.", "It is located in Nyika National Park, which is 3,200 km² in size.", "The plateau elevation is about 2,100 meters above sea level.", "The waterfall is most voluminous in the rainy season (November to April).", "The area hosts over 400 bird species.", "The average water temperature is 18 °C."],
     },
+    image: "/poi-images/malawi-manchewe-falls-nature-v2.webp",
   },
   {
     id: "malawi-mount-mulanje-nature-v2",
@@ -186,6 +191,7 @@ export const malawiNatureV2: POI[] = [
       ro: ["Masivul acoperă o suprafață de 640 km².", "Cel mai înalt vârf are 3.002 de metri.", "Cedrul Mulanje (Widdringtonia whytei) este endemic și în pericol de dispariție.", "Temperatura medie anuală pe platou este de 15 °C.", "Există peste 150 de kilometri de trasee de drumeție în masiv.", "Masivul Mulanje a fost declarat rezervație forestieră în 1927."],
       en: ["The massif covers an area of 640 km².", "The highest peak is 3,002 meters.", "The Mulanje cedar (Widdringtonia whytei) is endemic and endangered.", "The average annual temperature on the plateau is 15 °C.", "There are over 150 kilometers of hiking trails in the massif.", "The Mulanje Massif was declared a forest reserve in 1927."],
     },
+    image: "/poi-images/malawi-mount-mulanje-nature-v2.webp",
   },
   {
     id: "malawi-lake-malombe-nature-v2",
@@ -217,6 +223,7 @@ export const malawiNatureV2: POI[] = [
       ro: ["Lacul are o suprafață de aproximativ 350 km².", "Adâncimea medie este de 3 metri.", "Adâncimea maximă este de aproximativ 4 metri.", "Lacul se află la o altitudine de 474 de metri deasupra nivelului mării.", "Populația de pești include în principal ciclide (Cichlidae).", "Aproximativ 8.000 de tone de pește sunt capturate anual."],
       en: ["The lake has an area of about 350 km².", "The average depth is 3 meters.", "The maximum depth is about 4 meters.", "The lake lies at an elevation of 474 meters above sea level.", "The fish population mainly consists of cichlids (Cichlidae).", "Approximately 8,000 tons of fish are caught annually."],
     },
+    image: "/poi-images/malawi-lake-malombe-nature-v2.webp",
   },
   {
     id: "malawi-michiru-mountain-nature-v2",
@@ -248,6 +255,7 @@ export const malawiNatureV2: POI[] = [
       ro: ["Vârful se află la 1.523 de metri altitudine.", "Rezervația Forestieră Michiru se întinde pe 1.800 de hectare.", "Distanța până în centrul orașului Blantyre este de aproximativ 12 kilometri.", "Există peste 20 de kilometri de trasee de drumeție în rezervație.", "Precipitațiile anuale sunt de aproximativ 1.200 mm.", "Rezervația a fost înființată în 1965."],
       en: ["The summit is at 1,523 meters altitude.", "The Michiru Forest Reserve covers 1,800 hectares.", "The distance to Blantyre city center is about 12 kilometers.", "There are over 20 kilometers of hiking trails in the reserve.", "The annual rainfall is about 1,200 mm.", "The reserve was established in 1965."],
     },
+    image: "/poi-images/malawi-michiru-mountain-nature-v2.webp",
   },
   {
     id: "malawi-bua-river-nature-v2",
@@ -279,6 +287,7 @@ export const malawiNatureV2: POI[] = [
       ro: ["Râul Bua are aproximativ 400 de kilometri lungime.", "Bazinul său hidrografic acoperă aproximativ 12.000 km².", "Debitul mediu este de 30 m³/s.", "Râul izvorăște la o altitudine de aproximativ 1.200 de metri.", "Vărsarea în Lacul Malawi are loc la aproximativ 474 de metri altitudine.", "În sezonul ploios, debitul poate depăși 200 m³/s."],
       en: ["The Bua River is about 400 kilometers long.", "Its catchment area covers about 12,000 km².", "The average discharge is 30 m³/s.", "The river rises at an elevation of about 1,200 meters.", "The mouth into Lake Malawi is at about 474 meters elevation.", "In the rainy season, discharge can exceed 200 m³/s."],
     },
+    image: "/poi-images/malawi-bua-river-nature-v2.webp",
   },
   {
     id: "malawi-mumbo-island-nature-v2",
@@ -310,6 +319,7 @@ export const malawiNatureV2: POI[] = [
       ro: ["Insula are aproximativ 1,5 km lungime și 0,5 km lățime.", "Se află la aproximativ 5 kilometri de coastă.", "Fundul lacului din jur atinge adâncimi de până la 30 de metri.", "Există peste 100 de specii de pești în apele din jurul insulei.", "Insula face parte din Parcul Național Lacul Malawi, desemnat Patrimoniu Mondial UNESCO în 1980.", "Temperatura medie a apei lacului este de 25 °C."],
       en: ["The island is about 1.5 km long and 0.5 km wide.", "It is located about 5 kilometers from the shore.", "The surrounding lakebed reaches depths of up to 30 meters.", "There are over 100 fish species in the waters around the island.", "The island is part of Lake Malawi National Park, designated a UNESCO World Heritage site in 1980.", "The average water temperature of the lake is 25 °C."],
     },
+    image: "/poi-images/malawi-mumbo-island-nature-v2.webp",
   },
   {
     id: "malawi-dedza-mountain-nature-v2",
@@ -341,6 +351,7 @@ export const malawiNatureV2: POI[] = [
       ro: ["Vârful se află la 2.200 de metri altitudine.", "Rezervația Forestieră Dedza acoperă 1.400 de hectare.", "Distanța până la Lilongwe este de aproximativ 50 de kilometri.", "Precipitațiile anuale sunt de aproximativ 1.300 mm.", "Muntele face parte din podișul central african.", "Temperatura medie vara este de 18 °C."],
       en: ["The summit is at 2,200 meters elevation.", "The Dedza Forest Reserve covers 1,400 hectares.", "The distance to Lilongwe is about 50 kilometers.", "Annual rainfall is around 1,300 mm.", "The mountain is part of the central African plateau.", "The average summer temperature is 18 °C."],
     },
+    image: "/poi-images/malawi-dedza-mountain-nature-v2.webp",
   },
   {
     id: "malawi-kapichira-falls-nature-v2",
@@ -372,6 +383,7 @@ export const malawiNatureV2: POI[] = [
       ro: ["Cascada are o înălțime de aproximativ 30 de metri.", "Centrala hidroelectrică Kapichira are o capacitate instalată de 64 MW.", "Barajul a fost finalizat în 1999.", "Râul Shire are în acest punct o lățime de aproximativ 100 de metri.", "Temperatura medie a apei este de 22 °C.", "Centrala acoperă aproximativ 10% din necesarul național de energie electrică."],
       en: ["The waterfall has a drop of about 30 meters.", "The Kapichira hydroelectric plant has an installed capacity of 64 MW.", "The dam was completed in 1999.", "The Shire River is about 100 meters wide at this point.", "The average water temperature is 22 °C.", "The plant covers about 10% of national electricity demand."],
     },
+    image: "/poi-images/malawi-kapichira-falls-nature-v2.webp",
   },
   {
     id: "malawi-linthipe-river-nature-v2",
@@ -403,6 +415,7 @@ export const malawiNatureV2: POI[] = [
       ro: ["Râul are aproximativ 150 de kilometri lungime.", "Bazinul său hidrografic este de aproximativ 3.500 km².", "Lățimea medie este de 20 de metri.", "Vărsarea în Lacul Malawi are loc la 474 de metri altitudine.", "Debitul maxim în sezonul ploios atinge 80 m³/s.", "Temperatura medie a apei este de 24 °C."],
       en: ["The river is about 150 kilometers long.", "Its catchment area is about 3,500 km².", "The average width is 20 meters.", "The mouth into Lake Malawi is at 474 meters elevation.", "The maximum discharge in the rainy season reaches 80 m³/s.", "The average water temperature is 24 °C."],
     },
+    image: "/poi-images/malawi-linthipe-river-nature-v2.webp",
   },
   {
     id: "malawi-dwangwa-river-nature-v2",
@@ -434,6 +447,7 @@ export const malawiNatureV2: POI[] = [
       ro: ["Râul are aproximativ 200 de kilometri lungime.", "Bazinul său hidrografic acoperă aproximativ 4.000 km².", "Debitul mediu este de 12 m³/s.", "Izvorul se află la o altitudine de aproximativ 1.500 de metri.", "Vărsarea în Lacul Malawi are loc la 474 de metri altitudine.", "Râul poate transporta până la 50 m³/s în sezonul ploios."],
       en: ["The river is about 200 kilometers long.", "Its catchment area covers about 4,000 km².", "The average discharge is 12 m³/s.", "The source is at an elevation of about 1,500 meters.", "The mouth into Lake Malawi is at 474 meters elevation.", "The river can carry up to 50 m³/s in the rainy season."],
     },
+    image: "/poi-images/malawi-dwangwa-river-nature-v2.webp",
   },
   {
     id: "malawi-south-rukuru-river-nature-v2",
@@ -465,6 +479,7 @@ export const malawiNatureV2: POI[] = [
       ro: ["Râul are aproximativ 200 de kilometri lungime.", "Bazinul său hidrografic acoperă aproximativ 5.000 km².", "Lățimea medie este de 25 de metri.", "Izvorul se află la o altitudine de aproximativ 1.800 de metri.", "Debitul maxim în sezonul ploios atinge 100 m³/s.", "Temperatura medie a apei este de 22 °C."],
       en: ["The river is about 200 kilometers long.", "Its catchment area covers about 5,000 km².", "The average width is 25 meters.", "The source is at an elevation of about 1,800 meters.", "The maximum discharge in the rainy season reaches 100 m³/s.", "The average water temperature is 22 °C."],
     },
+    image: "/poi-images/malawi-south-rukuru-river-nature-v2.webp",
   },
   {
     id: "malawi-ntchisi-mountain-forest-nature-v2",
@@ -496,6 +511,7 @@ export const malawiNatureV2: POI[] = [
       ro: ["Muntele Ntchisi are 1.700 de metri înălțime.", "Rezervația forestieră acoperă 1.000 de hectare.", "Există peste 150 de specii de păsări în rezervație.", "Precipitațiile anuale sunt de 1.400 mm.", "Rezervația a fost declarată rezervație forestieră în 1962.", "Temperatura medie este de 16 °C."],
       en: ["Ntchisi Mountain is 1,700 meters high.", "The forest reserve covers 1,000 hectares.", "There are over 150 bird species in the reserve.", "Annual rainfall is 1,400 mm.", "The reserve was declared a forest reserve in 1962.", "The average temperature is 16 °C."],
     },
+    image: "/poi-images/malawi-ntchisi-mountain-forest-nature-v2.webp",
   },
   {
     id: "malawi-domwe-island-nature-v2",
@@ -527,6 +543,7 @@ export const malawiNatureV2: POI[] = [
       ro: ["Insula are o suprafață de 1,5 km².", "Se află la 6 kilometri de coastă.", "Cel mai înalt punct de pe insulă este de 30 de metri.", "Există peste 50 de specii de pești în apele din jur.", "Insula face parte din Patrimoniul Mondial UNESCO din 1980.", "Temperatura medie a apei este de 26 °C."],
       en: ["The island has an area of 1.5 km².", "It is located 6 kilometers offshore.", "The highest point on the island is 30 meters.", "There are over 50 fish species in the surrounding waters.", "The island has been part of the UNESCO World Heritage site since 1980.", "The average water temperature is 26 °C."],
     },
+    image: "/poi-images/malawi-domwe-island-nature-v2.webp",
   },
   {
     id: "malawi-kande-island-nature-v2",
@@ -558,6 +575,7 @@ export const malawiNatureV2: POI[] = [
       ro: ["Situată în Lacul Malawi.", "Habitat pentru numeroase cichlide endemice.", "Vizibilitate sub apă de până la 20 m.", "Destinație populară pentru tururi cu caiacul.", "Parte a districtului Nkhata Bay.", "Punct de observare pentru vulturii pescari africani."],
       en: ["Located in Lake Malawi (Lake Nyasa).", "Home to numerous endemic cichlid species.", "Underwater visibility up to 20 meters.", "Popular destination for kayaking trips.", "Part of the Nkhata Bay District.", "Birdwatching spot for African fish eagles."],
     },
+    image: "/poi-images/malawi-kande-island-nature-v2.webp",
   },
   {
     id: "malawi-mpatamanga-gorge-nature-v2",
@@ -589,5 +607,6 @@ export const malawiNatureV2: POI[] = [
       ro: ["Format de râul Shire.", "Locul proiectului hidroelectric Mpatamanga.", "Capacitate planificată de 350 megawați.", "Situat între Blantyre și Chikwawa.", "Habitat important pentru damani.", "Format geologic din roci precambriene."],
       en: ["Formed by the Shire River.", "Site of the Mpatamanga Hydropower Project.", "Planned capacity of 350 megawatts.", "Located between Blantyre and Chikwawa.", "Key habitat for rock hyraxes.", "Geologically composed of Precambrian rocks."],
     },
+    image: "/poi-images/malawi-mpatamanga-gorge-nature-v2.webp",
   }
 ];

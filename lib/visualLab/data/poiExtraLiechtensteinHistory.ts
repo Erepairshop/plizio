@@ -416,7 +416,8 @@ export const poiExtraLiechtensteinHistory: POI[] = [
         "An important part of cultural heritage.",
         "Attracts many visitors every year."
       ]
-    }
+    },
+    image: "/poi-images/historical-triesen-kosthaus-extra.webp",
   },
   {
     id: "historical-triesen-fabrik-sporry-extra",
@@ -463,7 +464,8 @@ export const poiExtraLiechtensteinHistory: POI[] = [
         "An important part of cultural heritage.",
         "Attracts many visitors every year."
       ]
-    }
+    },
+    image: "/poi-images/historical-triesen-fabrik-sporry-extra.webp",
   },
   {
     id: "historical-triesen-gasthaus-sonne-extra",
@@ -648,7 +650,8 @@ export const poiExtraLiechtensteinHistory: POI[] = [
         "An important part of cultural heritage.",
         "Attracts many visitors every year."
       ]
-    }
+    },
+    image: "/poi-images/historical-triesenberg-theodulskapelle-extra.webp",
   },
   {
     id: "historical-triesenberg-walserhaus-extra",
@@ -833,7 +836,8 @@ export const poiExtraLiechtensteinHistory: POI[] = [
         "An important part of cultural heritage.",
         "Attracts many visitors every year."
       ]
-    }
+    },
+    image: "/poi-images/historical-schaan-roemerkastell-extra.webp",
   },
   {
     id: "historical-schaan-st-laurentius-extra",

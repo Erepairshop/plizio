@@ -32,6 +32,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Patrimoniu UNESCO din 2011", "Populație de cca. 196.000 locuitori", "Suprafață de 90,7 km²", "Fondat ca orașul antic Brixia"],
       en: ["UNESCO World Heritage since 2011", "Population approx. 196,000 (2023)", "Total area of 90.7 square km", "Ancient Roman name was Brixia"],
     },
+    image: "/poi-images/italy-brescia-cities-v2.webp",
   },
   {
     id: "italy-parma-cities-v2",
@@ -64,6 +65,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Universitate fondată în 1064", "Turnul clopotniță are 63 m înălțime", "Populație de cca. 197.000 locuitori", "Sediul EFSA din anul 2002"],
       en: ["University founded in 1064", "Bell tower height: 63 meters", "Population approx. 197,000 (2023)", "EFSA headquarters since 2002"],
     },
+    image: "/poi-images/italy-parma-cities-v2.webp",
   },
   {
     id: "italy-modena-cities-v2",
@@ -96,6 +98,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Turnul Ghirlandina are 86 m", "Patrimoniu UNESCO din 1997", "Populație de cca. 184.000 locuitori", "Universitate fondată în 1175"],
       en: ["Ghirlandina Tower is 86m tall", "UNESCO site status since 1997", "Population approx. 184,000 (2023)", "University founded in 1175"],
     },
+    image: "/poi-images/italy-modena-cities-v2.webp",
   },
   {
     id: "italy-reggio-emilia-cities-v2",
@@ -128,6 +131,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Sala Tricolore din anul 1797", "Populație de cca. 170.000 locuitori", "Fondat de romani în 187 î.Hr.", "Altitudine medie: 58 metri"],
       en: ["Sala del Tricolore built in 1797", "Population approx. 170,000 (2023)", "Founded by Romans in 187 BC", "Elevation: 58 meters above sea level"],
     },
+    image: "/poi-images/italy-reggio-emilia-cities-v2.webp",
   },
   {
     id: "italy-taranto-cities-v2",
@@ -160,6 +164,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 195.000 (2023).", "Fondare: 706 î.Hr. de către spartani.", "Trafic portuar: peste 30 de milioane de tone anual.", "Bază navală: din 1861.", "Suprafață: 217 km².", "Centru istoric: pe insulă (Isola del Borgo)."],
       en: ["Population: approx. 195,000 (2023).", "Founded: 706 BCE by Spartans.", "Port cargo: over 30 million tons annually.", "Naval base: since 1861.", "Area: 217 km².", "Historic center: on the island (Isola del Borgo)."],
     },
+    image: "/poi-images/italy-taranto-cities-v2.webp",
   },
   {
     id: "italy-prato-cities-v2",
@@ -192,6 +197,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Catedrală din secolul XII", "Populație de cca. 195.000 locuitori", "Suprafață de 97,6 km²", "Al doilea oraș ca mărime din Toscana"],
       en: ["Cathedral built in 12th century", "Population approx. 195,000 (2023)", "Total area: 97.6 square km", "Tuscany's second largest city"],
     },
+    image: "/poi-images/italy-prato-cities-v2.webp",
   },
   {
     id: "italy-messina-cities-v2",
@@ -224,6 +230,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 230.000 (2023).", "Fondare: secolul al VIII-lea î.Hr.", "Cutremurul din 1908: magnitudine 7.1, peste 80.000 de morți.", "Catedrala: construită în secolul al XII-lea.", "Universitatea: fondată în 1548.", "Altitudine: 3 m deasupra nivelului mării."],
       en: ["Population: approx. 230,000 (2023).", "Founded: 8th century BCE.", "1908 earthquake: magnitude 7.1, over 80,000 deaths.", "Cathedral: built in the 12th century.", "University: founded in 1548.", "Elevation: 3 m above sea level."],
     },
+    image: "/poi-images/italy-messina-cities-v2.webp",
   },
   {
     id: "italy-vicenza-cities-v2",
@@ -256,6 +263,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Altitudine: 39 m", "Suprafață: 80,57 kmp", "Populație: ~110.000 locuitori", "Teatro Olimpico: primul teatru acoperit", "Patrimoniu UNESCO din 1994", "Supranume: Orașul lui Palladio"],
       en: ["Elevation: 39 m", "Total area: 80.57 sq km", "Population: ~110,000", "Home to 23 Palladian structures", "Major industry: Goldsmithing", "UNESCO listed since 1994"],
     },
+    image: "/poi-images/italy-vicenza-cities-v2.webp",
   },
   {
     id: "italy-bolzano-cities-v2",
@@ -288,6 +296,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Limbi oficiale: italiană, germană", "Populație: ~107.000 locuitori", "Vârsta lui Ötzi: 5.300 de ani", "Altitudine medie: 262 m", "Suprafață: 52,3 kmp", "Poziție: la confluența râurilor Isarco și Adige"],
       en: ["Bilingual city: Italian and German", "Elevation: 262 m", "Population: ~107,000", "Ötzi discovered: 1991", "Region: Trentino-South Tyrol", "Border distance to Austria: ~40 km"],
     },
+    image: "/poi-images/italy-bolzano-cities-v2.webp",
   },
   {
     id: "italy-trento-cities-v2",
@@ -320,6 +329,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Conciliul din Trento: secolul XVI", "Altitudine: 194 m", "Populație: ~118.000 locuitori", "Monument central: Castelul Buonconsiglio", "Râu principal: Adige", "Universitate înființată în 1962"],
       en: ["Council of Trent years: 1545–1563", "Elevation: 194 m", "Population: ~118,000", "Main river: Adige", "Region: Trentino", "Castle: Buonconsiglio (13th century)"],
     },
+    image: "/poi-images/italy-trento-cities-v2.webp",
   },
   {
     id: "italy-ferrara-cities-v2",
@@ -352,6 +362,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Ziduri medievale: 9 km lungime", "Populație: ~132.000 locuitori", "Castelul Estense: construit în 1385", "Altitudine: 9 m", "Patrimoniu UNESCO din 1995", "Universitate fondată în 1391"],
       en: ["Medieval walls length: 9 km", "UNESCO recognition: 1995", "Population: ~132,000", "Elevation: 9 m", "University established: 1391", "Famous for: Bicycle usage"],
     },
+    image: "/poi-images/italy-ferrara-cities-v2.webp",
   },
   {
     id: "italy-salerno-cities-v2",
@@ -384,6 +395,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Școala Medicală fondată în sec. IX", "Catedrală sfințită în anul 1084", "Populație de cca. 127.000 locuitori", "Castelul Arechi la 300 m altitudine"],
       en: ["Medical School founded 9th century", "Cathedral consecrated in 1084", "Population approx. 127,000 (2023)", "Arechi Castle height: 300m"],
     },
+    image: "/poi-images/italy-salerno-cities-v2.webp",
   },
   {
     id: "italy-novara-cities-v2",
@@ -416,6 +428,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Înălțime cupolă: 121 m", "Populație: ~101.000 locuitori", "Altitudine: 162 m", "Regiune: Piemont", "Economie: Producție de orez", "Monument: Bazilica San Gaudenzio"],
       en: ["Dome height (San Gaudenzio): 121 m", "Population: ~101,000", "Elevation: 162 m", "Location: Between Milan and Turin", "Province capital: Novara", "Key industry: Rice production"],
     },
+    image: "/poi-images/italy-novara-cities-v2.webp",
   },
   {
     id: "italy-piacenza-cities-v2",
@@ -448,6 +461,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Râu: Pad (Po)", "Populație: ~102.000 locuitori", "Altitudine: 61 m", "Monument principal: Palazzo Gotico", "Piața Cavalli: centrul orașului", "Anul construcției Palazzo Farnese: 1568"],
       en: ["River: Po", "Population: ~102,000", "Elevation: 61 m", "Key square: Piazza Cavalli", "Palazzo Gotico built: 1281", "Location: Emilia-Romagna region"],
     },
+    image: "/poi-images/italy-piacenza-cities-v2.webp",
   },
   {
     id: "italy-ancona-cities-v2",
@@ -480,6 +494,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 100.000 (2023).", "Fondare: secolul al IV-lea î.Hr.", "Trafic portuar: peste 10 milioane de tone anual.", "Catedrala: construită în secolul al XI-lea.", "Arcul lui Traian: construit în 115 d.Hr.", "Universitatea: fondată în 1970."],
       en: ["Population: approx. 100,000 (2023).", "Founded: 4th century BCE.", "Port cargo: over 10 million tons annually.", "Cathedral: built in the 11th century.", "Trajan's Arch: built in 115 CE.", "University: founded in 1970."],
     },
+    image: "/poi-images/italy-ancona-cities-v2.webp",
   },
   {
     id: "italy-udine-cities-v2",
@@ -512,6 +527,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Populație: ~99.000 locuitori", "Altitudine: 113 m", "Piața centrală: Piazza della Libertà", "Castelul: datat secolul XVI", "Regiune: Friuli-Venezia Giulia", "Limbă locală: friulană"],
       en: ["Population: ~99,000", "Elevation: 113 m", "Main square: Piazza della Libertà", "Loggia del Lionello built: 1448", "Art legacy: Giambattista Tiepolo", "Region: Friuli-Venezia Giulia"],
     },
+    image: "/poi-images/italy-udine-cities-v2.webp",
   },
   {
     id: "italy-arezzo-cities-v2",
@@ -544,6 +560,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Origine: etruscă (Arretium)", "Populație: ~98.000 locuitori", "Altitudine: 296 m", "Eveniment: Giostra del Saracino", "Personalitate: Giorgio Vasari", "Industrie: Bijuterii din aur"],
       en: ["Origin: Etruscan", "Population: ~98,000", "Elevation: 296 m", "Event: Giostra del Saracino", "Famous native: Petrarch", "Economic base: Gold smithery"],
     },
+    image: "/poi-images/italy-arezzo-cities-v2.webp",
   },
   {
     id: "italy-cesena-cities-v2",
@@ -576,6 +593,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Bibliotecă fondată în 1452", "Populație de cca. 96.000 locuitori", "Memoria Lumii UNESCO din 2005", "Suprafață de 249 km²"],
       en: ["Library established in 1452", "Population approx. 96,000 (2023)", "UNESCO Memory of the World since 2005", "Total area: 249 square km"],
     },
+    image: "/poi-images/italy-cesena-cities-v2.webp",
   },
   {
     id: "italy-forli-cities-v2",
@@ -608,6 +626,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Turnul abației are 75 m înălțime", "Populație de cca. 116.000 locuitori", "Fondat în jurul anului 188 î.Hr.", "Situat în câmpia Romagna"],
       en: ["Abbey tower is 75 meters high", "Population approx. 116,000 (2023)", "Founded around 188 BC", "Strategic center of Romagna plain"],
     },
+    image: "/poi-images/italy-forli-cities-v2.webp",
   },
   {
     id: "italy-grosseto-cities-v2",
@@ -640,6 +659,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Ziduri medicee finalizate în 1593", "Populație de cca. 81.000 locuitori", "Suprafață de 474 km²", "Catedrală începută în 1294"],
       en: ["Medici walls completed in 1593", "Population approx. 81,000 (2023)", "Area of 474 square km", "Cathedral construction began in 1294"],
     },
+    image: "/poi-images/italy-grosseto-cities-v2.webp",
   },
   {
     id: "italy-lucca-cities-v2",
@@ -672,6 +692,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Ziduri lungi de 4,2 km", "Piața Amfiteatru pe ruine romane", "Populație de cca. 89.000 locuitori", "Turnul Guinigi are stejari pe vârf"],
       en: ["City walls are 4.2 km long", "Piazza Anfiteatro built on ruins", "Population approx. 89,000 (2023)", "Guinigi Tower features rooftop oaks"],
     },
+    image: "/poi-images/italy-lucca-cities-v2.webp",
   },
   {
     id: "italy-livorno-cities-v2",
@@ -704,6 +725,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 160.000 (2023).", "Fondare: 1577 de Marele Duce al Toscanei.", "Trafic portuar: peste 30 de milioane de tone anual.", "Lungimea canalelor: aproximativ 10 km.", "Fortăreața Nuova: construită în 1590.", "Acvariu: deschis în 1937."],
       en: ["Population: approx. 160,000 (2023).", "Founded: 1577 by the Grand Duke of Tuscany.", "Port cargo: over 30 million tons annually.", "Length of canals: about 10 km.", "Fortezza Nuova: built in 1590.", "Aquarium: opened in 1937."],
     },
+    image: "/poi-images/italy-livorno-cities-v2.webp",
   },
   {
     id: "italy-la-spezia-cities-v2",
@@ -736,6 +758,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 95.000 (2023).", "Fondare: secolul al XIII-lea (prima mențiune).", "Trafic portuar: peste 15 milioane de tone anual.", "Bază navală: din 1861.", "Cel mai înalt punct al orașului: 100 m.", "Muzee: 5 importante (inclusiv Muzeul Marin)."],
       en: ["Population: approx. 95,000 (2023).", "Founded: 13th century (first mention).", "Port cargo: over 15 million tons annually.", "Naval base: since 1861.", "Highest point in city: 100 m.", "Museums: 5 major (including Naval Museum)."],
     },
+    image: "/poi-images/italy-la-spezia-cities-v2.webp",
   },
   {
     id: "italy-pistoia-cities-v2",
@@ -768,6 +791,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Altitudine: 67 m", "Populație: ~90.000 locuitori", "Capitala Culturii în Italia: 2017", "Specializare economică: Pepiniere de plante", "Monument: Baptisteriul San Giovanni", "Clopotnița domului: 67 metri"],
       en: ["Elevation: 67 m", "Population: ~90,000", "Italian Capital of Culture: 2017", "Famous for: Plant nurseries", "Key monument: Ospedale del Ceppo", "Region: Tuscany"],
     },
+    image: "/poi-images/italy-pistoia-cities-v2.webp",
   },
   {
     id: "italy-alessandria-cities-v2",
@@ -800,6 +824,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Anul fondării: 1168", "Citadela: monument militar UNESCO", "Populație: ~91.000 locuitori", "Altitudine: 95 m", "Producție faimoasă: Pălării Borsalino", "Râu principal: Tanaro"],
       en: ["Founded: 1168", "Citadel: 18th-century star fort", "Population: ~91,000", "Elevation: 95 m", "Famous product: Borsalino hats", "Region: Piedmont"],
     },
+    image: "/poi-images/italy-alessandria-cities-v2.webp",
   },
   {
     id: "italy-brindisi-cities-v2",
@@ -832,6 +857,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 87.000 (2023).", "Fondare: secolul al II-lea î.Hr. (roman).", "Lungimea Via Appia: 540 km până la Roma.", "Amfiteatru: capacitate circa 10.000.", "Castello Svevo: construit în secolul al XIII-lea.", "Trafic portuar: peste 5 milioane de tone anual."],
       en: ["Population: approx. 87,000 (2023).", "Founded: 2nd century BCE (Roman).", "Via Appia length: 540 km to Rome.", "Amphitheater: capacity approx. 10,000.", "Castello Svevo: built in the 13th century.", "Port cargo: over 5 million tons annually."],
     },
+    image: "/poi-images/italy-brindisi-cities-v2.webp",
   },
   {
     id: "italy-foggia-cities-v2",
@@ -864,6 +890,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Câmpie: Tavoliere", "Populație: ~146.000 locuitori", "Altitudine: 76 m", "Economie: Cultivarea cerealelor", "Catedrala: construită în 1172", "Regiune: Puglia"],
       en: ["Region: Apulia", "Population: ~146,000", "Elevation: 76 m", "Agricultural role: Wheat production", "Severely bombed: Summer 1943", "Plain: Tavoliere"],
     },
+    image: "/poi-images/italy-foggia-cities-v2.webp",
   },
   {
     id: "italy-potenza-cities-v2",
@@ -896,6 +923,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Altitudine: 819 metri", "Fondat de tribul lucanilor", "Populație de cca. 64.000 locuitori", "Cutremure majore în 1857 și 1980"],
       en: ["Altitude: 819 meters (2,687 ft)", "Founded by the Lucani tribe", "Population approx. 64,000 (2023)", "Major earthquakes in 1857 and 1980"],
     },
+    image: "/poi-images/italy-potenza-cities-v2.webp",
   },
   {
     id: "italy-catanzaro-cities-v2",
@@ -928,6 +956,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Altitudine: 320 m", "Populație: ~85.000 locuitori", "Înălțime pod Morandi: 110 m", "Supranume: Orașul celor trei dealuri", "Regiune: Calabria", "Industrie istorică: Mătase"],
       en: ["Elevation: 320 m", "Population: ~85,000", "Morandi Bridge height: 110 m", "Nickname: City of the Three Hills", "Region: Calabria", "Coast: Ionian Sea"],
     },
+    image: "/poi-images/italy-catanzaro-cities-v2.webp",
   },
   {
     id: "italy-sassari-cities-v2",
@@ -960,6 +989,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Universitate fondată în 1562", "Populație de cca. 121.000 locuitori", "Catedrală din secolul XIII", "Capitala istorică a Logudoro"],
       en: ["University founded in 1562", "Population approx. 121,000 (2023)", "Cathedral dates to 13th century", "Historic capital of Logudoro region"],
     },
+    image: "/poi-images/italy-sassari-cities-v2.webp",
   },
   {
     id: "italy-parma-duomo-cities-v2",
@@ -992,6 +1022,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Început construcție: 1059.", "Finalizare: 1106.", "Fresca cupolei: „Adormirea Maicii Domnului” de Correggio (1526-1530).", "Înălțimea cupolei: 28 m.", "Lungimea catedralei: 93 m.", "Baptisteriu: construit 1196-1300."],
       en: ["Construction start: 1059.", "Completion: 1106.", "Dome fresco: 'Assumption of the Virgin' by Correggio (1526-1530).", "Dome height: 28 m.", "Cathedral length: 93 m.", "Baptistery: built 1196-1300."],
     },
+    image: "/poi-images/italy-parma-duomo-cities-v2.webp",
   },
   {
     id: "italy-vicenza-teatro-olimpico-cities-v2",
@@ -1024,6 +1055,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Perioada construcției: 1580-1585.", "Arhitect: Andrea Palladio.", "Material: lemn și stuc.", "Capacitate: 470 de locuri.", "Patrimoniu UNESCO: din 1994.", "Prima reprezentație: 1585 (Oedip rege de Sofocle)."],
       en: ["Construction period: 1580-1585.", "Architect: Andrea Palladio.", "Material: wood and stucco.", "Capacity: 470 seats.", "UNESCO World Heritage: since 1994.", "First performance: 1585 (Sophocles' Oedipus Rex)."],
     },
+    image: "/poi-images/italy-vicenza-teatro-olimpico-cities-v2.webp",
   },
   {
     id: "italy-bolzano-otzi-museum-cities-v2",
@@ -1056,6 +1088,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Vârstă: aproximativ 5.300 de ani (3300 î.Hr.).", "Anul descoperirii: 1991.", "Temperatura de păstrare: -6°C.", "Suprafața muzeului: 12.000 m².", "Deschidere: 1998.", "Număr de exponate: peste 700."],
       en: ["Age: about 5,300 years (3300 BCE).", "Year of discovery: 1991.", "Storage temperature: -6°C.", "Museum area: 12,000 m².", "Opening: 1998.", "Number of exhibits: over 700."],
     },
+    image: "/poi-images/italy-bolzano-otzi-museum-cities-v2.webp",
   },
   {
     id: "italy-lucca- Guinigi-Tower-cities-v2",
@@ -1088,6 +1121,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Inaltime: 44,25 m", "Perioada constructiei: 1384–1390", "Trepte: 230", "Gradina pe acoperis cu stejari de pluta", "Monument national din 1969", "Vizitatori anual: cca 200.000"],
       en: ["Height: 44.25 m", "Construction period: 1384–1390", "Steps: 230", "Rooftop garden with cork oaks", "National monument since 1969", "Annual visitors: approx. 200,000"],
     },
+    image: "/poi-images/italy-lucca- Guinigi-Tower-cities-v2.webp",
   },
   {
     id: "italy-trento-muse-cities-v2",
@@ -1120,6 +1154,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Deschidere: 2013.", "Arhitect: Renzo Piano.", "Suprafață totală: 19.000 m².", "Înălțimea clădirii: 38 m.", "Consum energetic: cu 40% mai puțin decât clădirile convenționale.", "Număr de acvarii: 10."],
       en: ["Opened: 2013.", "Architect: Renzo Piano.", "Total area: 19,000 m².", "Building height: 38 m.", "Energy consumption: 40% less than conventional buildings.", "Number of aquariums: 10."],
     },
+    image: "/poi-images/italy-trento-muse-cities-v2.webp",
   },
   {
     id: "italy-ancona-mole-vanvitelliana-cities-v2",
@@ -1152,6 +1187,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Lungime: 300 m, lățime: 200 m", "Construită cu 40.000 m³ de piatră", "Număr de bastioane: 5", "Arhitect: Luigi Vanvitelli", "A fost bombardată în 1944", "Restaurată în anii 1960"],
       en: ["Construction years: 1732-1743", "Length 300 m, width 200 m", "Five bastions", "40,000 m³ stone used", "Architect: Luigi Vanvitelli", "Bombed in 1944, restored 1960s"],
     },
+    image: "/poi-images/italy-ancona-mole-vanvitelliana-cities-v2.webp",
   },
   {
     id: "italy-arezzo-piazza-grande-cities-v2",
@@ -1184,6 +1220,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Piața formată în secolul al XIII-lea", "Dimensiuni: 100 m × 60 m", "Giostra del Saracino de două ori pe an", "Palazzo delle Logge proiectat de Vasari (1573)", "Fontana Grande construită în 1560", "Înclinare de aproximativ 5%"],
       en: ["Originated in 13th century", "Size: 100 m × 60 m", "Giostra del Saracino held twice yearly", "Palazzo delle Logge designed by Vasari (1573)", "Fontana Grande built 1560", "Slope gradient about 5%"],
     },
+    image: "/poi-images/italy-arezzo-piazza-grande-cities-v2.webp",
   }
 ,
   {
@@ -1217,6 +1254,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Fortăreața Priamar din 1542", "Populație de cca. 58.000 locuitori", "Centru important al siderurgiei", "Locul natal al Papei Iulius al II-lea"],
       en: ["Priamar Fortress built in 1542", "Population approx. 58,000 (2023)", "Major center for iron industry", "Birthplace of Pope Julius II"],
     },
+    image: "/poi-images/italy-savona-cities-v2.webp",
   },
   {
     id: "italy-monza-cities-v2",
@@ -1249,6 +1287,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Circuit F1: Autodromo Nazionale Monza", "Coroana de Fier: tezaur din sec. VI", "Populație: ~122.000 locuitori", "Villa Reale: stil neoclasic", "Altitudine: 162 m", "Regiune: Lombardia"],
       en: ["Circuit: Autodromo Nazionale", "Iron Crown: Medieval relic", "Population: ~122,000", "Villa Reale built: 1777", "Elevation: 162 m", "Region: Lombardy"],
     },
+    image: "/poi-images/italy-monza-cities-v2.webp",
   },
   {
     id: "italy-pescara-cities-v2",
@@ -1281,6 +1320,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Oraș distrus parțial în al Doilea Război", "Populație de cca. 119.000 locuitori", "Ponte del Mare are 466 m lungime", "Port feribot către Croația"],
       en: ["Heavily bombed in WWII", "Population approx. 119,000 (2023)", "Ponte del Mare length: 466 meters", "Port for ferries to Croatia"],
     },
+    image: "/poi-images/italy-pescara-cities-v2.webp",
   },
   {
     id: "italy-como-cities-v2",
@@ -1313,6 +1353,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Muzeul Mătăsii deschis în 1990", "Catedrală construită 1396-1770", "Populație de cca. 83.000 locuitori", "Fondat de romani în 186 î.Hr."],
       en: ["Silk Museum opened in 1990", "Cathedral built between 1396-1770", "Population approx. 83,000 (2023)", "Roman colony founded in 196 BC"],
     },
+    image: "/poi-images/italy-como-cities-v2.webp",
   },
   {
     id: "italy-fermo-cities-v2",
@@ -1345,6 +1386,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Cisterne romane de 2200 mp", "Catedrală la 319 m altitudine", "Populație de cca. 36.000 locuitori", "Fondat ca Firmum Picenum"],
       en: ["Roman cisterns cover 2,200 sq.m", "Cathedral altitude: 319 meters", "Population approx. 36,000 (2023)", "Ancient name: Firmum Picenum"],
     },
+    image: "/poi-images/italy-fermo-cities-v2.webp",
   },
   {
     id: "italy-biella-cities-v2",
@@ -1377,6 +1419,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Oraș Creativ UNESCO (textile)", "Sediul companiilor Zegna și Cerruti", "Populație de cca. 43.000 locuitori", "Sanctuarul Oropa situat în apropiere"],
       en: ["UNESCO Creative City for Crafts", "Home to Zegna and Cerruti brands", "Population approx. 43,000 (2023)", "Nearby Oropa Sanctuary is UNESCO site"],
     },
+    image: "/poi-images/italy-biella-cities-v2.webp",
   },
   {
     id: "italy-teramo-cities-v2",
@@ -1409,6 +1452,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Altitudine: 265 m", "Populație: ~53.000 locuitori", "Teatru Roman: secolul I d.Hr.", "Catedrala: construită în 1158", "Poziție: între munți și mare", "Regiune: Abruzzo"],
       en: ["Elevation: 265 m", "Population: ~53,000", "Roman Theater: 1st century AD", "Cathedral: Santa Maria Assunta (1158)", "Nearby peak: Gran Sasso", "Region: Abruzzo"],
     },
+    image: "/poi-images/italy-teramo-cities-v2.webp",
   },
   {
     id: "italy-asti-cities-v2",
@@ -1441,6 +1485,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Palio atestat din secolul XIII", "Cea mai mare biserică gotică locală", "Populație de cca. 73.000 locuitori", "Centru viticol de renume mondial"],
       en: ["Palio documented since 13th century", "Largest Gothic church in Piedmont", "Population approx. 73,000 (2023)", "Global center for wine production"],
     },
+    image: "/poi-images/italy-asti-cities-v2.webp",
   },
   {
     id: "italy-savigliano-cities-v2",
@@ -1473,6 +1518,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Fabrica Alstom (trenuri Pendolino)", "Fondat în secolul XII", "Populație de cca. 21.000 locuitori", "Suprafață de 110 km²"],
       en: ["Alstom plant (Pendolino trains)", "Founded in the 12th century", "Population approx. 21,000 (2023)", "Total area: 110 square km"],
     },
+    image: "/poi-images/italy-savigliano-cities-v2.webp",
   },
   {
     id: "italy-treviso-cities-v2",
@@ -1505,6 +1551,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Râu principal: Sile", "Populație: ~85.000 locuitori", "Altitudine: 15 m", "Invenție culinară: Tiramisu", "Ziduri venețiene: sec. XVI", "Regiune: Veneto"],
       en: ["River: Sile", "Population: ~85,000", "Elevation: 15 m", "Birthplace of: Tiramisu", "Headquarters: Benetton", "Region: Veneto"],
     },
+    image: "/poi-images/italy-treviso-cities-v2.webp",
   },
   {
     id: "italy-cuneo-cities-v2",
@@ -1537,6 +1584,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Altitudine: 534 m", "Populație: ~56.000 locuitori", "Lungime porticuri: 8 km", "Specialitate: Cuneesi al Rhum", "Poziție: între râurile Stura și Gesso", "Regiune: Piemont"],
       en: ["Elevation: 534 m", "Population: ~56,000", "Arcades length: 8 km", "Local sweet: Cuneesi al Rhum", "Mountain range: Maritime Alps", "Region: Piedmont"],
     },
+    image: "/poi-images/italy-cuneo-cities-v2.webp",
   },
   {
     id: "italy-pavia-cities-v2",
@@ -1569,6 +1617,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Universitate fondată în: 1361", "Populație: ~71.000 locuitori", "Râu: Ticino", "Certosa di Pavia: stil gotic și renascentist", "Fostă capitală: Regatul Longobard", "Regiune: Lombardia"],
       en: ["University founded: 1361", "Population: ~71,000", "River: Ticino", "Famous bridge: Ponte Coperto", "Monastery: Certosa di Pavia", "Region: Lombardy"],
     },
+    image: "/poi-images/italy-pavia-cities-v2.webp",
   },
   {
     id: "italy-pesaro-cities-v2",
@@ -1601,6 +1650,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Capitală culturală a Italiei 2024", "Rocca Costanza din secolul XV", "Populație de cca. 95.000 locuitori", "Festivalul de Operă Rossini anual"],
       en: ["Italian Capital of Culture 2024", "Rocca Costanza built in 15th century", "Population approx. 95,000 (2023)", "Annual Rossini Opera Festival"],
     },
+    image: "/poi-images/italy-pesaro-cities-v2.webp",
   },
   {
     id: "italy-reggio-calabria-cities-v2",
@@ -1633,6 +1683,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Faleză celebră: Lungomare Falcomatà", "Statuile Riace: secolul V î.Hr.", "Populație: ~171.000 locuitori", "Altitudine: 31 m", "Fenomen optic local: Fata Morgana", "Regiune: Calabria"],
       en: ["Famous promenade: Lungomare Falcomatà", "Riace Bronzes: Greek originals", "Population: ~171,000", "Elevation: 31 m", "Location: Strait of Messina", "Region: Calabria"],
     },
+    image: "/poi-images/italy-reggio-calabria-cities-v2.webp",
   },
   {
     id: "italy-latina-cities-v2",
@@ -1665,6 +1716,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Anul fondării: 1932", "Nume inițial: Littoria", "Populație: ~127.000 locuitori", "Altitudine: 21 m", "Stil arhitectural: Raționalism", "Regiune: Lazio"],
       en: ["Founded: 1932", "Original name: Littoria", "Population: ~127,000", "Elevation: 21 m", "Architectural style: Rationalism", "Region: Lazio"],
     },
+    image: "/poi-images/italy-latina-cities-v2.webp",
   },
   {
     id: "italy-andria-cities-v2",
@@ -1697,6 +1749,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Castel del Monte, sit UNESCO", "Centru major de producție a uleiului", "Populație de cca. 97.000 locuitori", "Catedrală cu mormintele soțiilor lui Frederic II"],
       en: ["Castel del Monte is UNESCO site", "Top center for olive oil production", "Population approx. 97,000 (2023)", "Cathedral holds tombs of two empresses"],
     },
+    image: "/poi-images/italy-andria-cities-v2.webp",
   },
   {
     id: "italy-pordenone-cities-v2",
@@ -1729,6 +1782,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Festivalul literar Pordenonelegge", "Fondat în Evul Mediu pe râu", "Populație de cca. 52.000 locuitori", "Centru al industriei de electrocasnice"],
       en: ["Hosts Pordenonelegge book festival", "Medieval origins as a river port", "Population approx. 52,000 (2023)", "Key hub for appliance manufacturing"],
     },
+    image: "/poi-images/italy-pordenone-cities-v2.webp",
   },
   {
     id: "italy-torre-del-greco-cities-v2",
@@ -1761,6 +1815,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Școală de corali din 1878", "Distrus de erupția din 1794", "Populație de cca. 80.000 locuitori", "Al patrulea port ca mărime din Campania"],
       en: ["Coral carving school since 1878", "Devastated by 1794 eruption", "Population approx. 80,000 (2023)", "Fourth-largest port in Campania region"],
     },
+    image: "/poi-images/italy-torre-del-greco-cities-v2.webp",
   },
   {
     id: "italy-busto-arsizio-cities-v2",
@@ -1793,6 +1848,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Muzeul Textilelor într-o veche fabrică", "Bazilica San Giovanni Battista", "Populație de cca. 83.000 locuitori", "Situat lângă aeroportul Malpensa"],
       en: ["Textile Museum in historic mill", "Basilica of San Giovanni Battista", "Population approx. 83,000 (2023)", "Located near Malpensa Airport"],
     },
+    image: "/poi-images/italy-busto-arsizio-cities-v2.webp",
   },
   {
     id: "italy-imola-cities-v2",
@@ -1825,6 +1881,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Circuit de curse deschis în 1953", "Rocca Sforzesca din secolul XIV", "Populație de cca. 70.000 locuitori", "Sediul unei academii celebre de pian"],
       en: ["Circuit inaugurated in 1953", "Rocca Sforzesca dates to 14th century", "Population approx. 70,000 (2023)", "Home to a world-renowned piano academy"],
     },
+    image: "/poi-images/italy-imola-cities-v2.webp",
   },
   {
     id: "italy-lamezia-terme-cities-v2",
@@ -1857,6 +1914,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Anul înființării: 1968", "Populație: ~70.000 locuitori", "Aeroport: cel mai mare din Calabria", "Băi termale: Caronte", "Altitudine: 158 m", "Castel: Normando-Svevo"],
       en: ["Established: 1968", "Population: ~70,000", "Main airport: SUF (Lamezia Terme)", "Thermal baths: Caronte", "Elevation: 158 m", "Region: Calabria"],
     },
+    image: "/poi-images/italy-lamezia-terme-cities-v2.webp",
   },
   {
     id: "italy-trapani-cities-v2",
@@ -1889,6 +1947,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Saline active din epoca feniciană", "Port de feribot spre insulele Egadi", "Populație de cca. 65.000 locuitori", "Procesiunea Misterelor din Vinerea Mare"],
       en: ["Salt pans active since Phoenician era", "Major ferry port for Egadi Islands", "Population approx. 65,000 (2023)", "Famous Procession of the Mysteries"],
     },
+    image: "/poi-images/italy-trapani-cities-v2.webp",
   },
   {
     id: "italy-ragusa-cities-v2",
@@ -1921,6 +1980,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Patrimoniu UNESCO din 2002", "Populație: ~73.000 locuitori", "Altitudine: 502 m", "Orașul vechi: Ragusa Ibla", "Catedrală: San Giorgio", "Cutremur major: 1693"],
       en: ["UNESCO World Heritage: Since 2002", "Population: ~73,000", "Elevation: 502 m", "Old district: Ragusa Ibla", "Cathedral: San Giorgio", "Region: Sicily"],
     },
+    image: "/poi-images/italy-ragusa-cities-v2.webp",
   },
   {
     id: "italy-caltanissetta-cities-v2",
@@ -1953,6 +2013,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Altitudine: 568 m", "Populație: ~60.000 locuitori", "Industrie istorică: Sulf", "Specialitate culinară: Torrone", "Castel: Pietrarossa", "Regiune: Sicilia"],
       en: ["Elevation: 568 m", "Population: ~60,000", "Historical industry: Sulfur", "Traditional sweet: Torrone", "Castle: Pietrarossa", "Region: Sicily"],
     },
+    image: "/poi-images/italy-caltanissetta-cities-v2.webp",
   },
   {
     id: "italy-sanremo-cities-v2",
@@ -1985,6 +2046,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Supranume: Orașul Florilor", "Populație: ~53.000 locuitori", "Festival de muzică: fondat în 1951", "Cazinou: stil Art Nouveau", "Cursă de ciclism: Milano-Sanremo", "Regiune: Liguria"],
       en: ["Nickname: City of Flowers", "Population: ~53,000", "Music Festival: Since 1951", "Casino built: 1905", "Cycling race: Milan-San Remo", "Region: Liguria"],
     },
+    image: "/poi-images/italy-sanremo-cities-v2.webp",
   },
   {
     id: "italy-avellino-cities-v2",
@@ -2017,6 +2079,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Afectat grav de cutremurul din 1980", "Abația Montevergine în apropiere", "Populație de cca. 52.000 locuitori", "Produce o treime din alunele Italiei"],
       en: ["Severely hit by 1980 earthquake", "Montevergine Abbey located nearby", "Population approx. 52,000 (2023)", "Produces 1/3 of Italy's hazelnuts"],
     },
+    image: "/poi-images/italy-avellino-cities-v2.webp",
   },
   {
     id: "italy-benevento-cities-v2",
@@ -2049,6 +2112,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Arcul lui Traian: construit în 114 d.Hr.", "Patrimoniu UNESCO: Biserica Santa Sofia", "Populație: ~58.000 locuitori", "Altitudine: 135 m", "Lichior faimos: Strega", "Regiune: Campania"],
       en: ["Arch of Trajan: 114 AD", "UNESCO Church: Santa Sofia", "Population: ~58,000", "Elevation: 135 m", "Local liqueur: Strega", "Region: Campania"],
     },
+    image: "/poi-images/italy-benevento-cities-v2.webp",
   },
   {
     id: "italy-terracina-cities-v2",
@@ -2081,6 +2145,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Templul lui Jupiter Anxur: sec. I î.Hr.", "Drum istoric: Via Appia", "Populație: ~45.000 locuitori", "Altitudine maximă: 227 m", "Mare: Tirreniană", "Regiune: Lazio"],
       en: ["Temple of Jupiter Anxur: 1st century BC", "Ancient road: Via Appia", "Population: ~45,000", "Elevation: 0–227 m", "Coast: Tyrrhenian Sea", "Region: Lazio"],
     },
+    image: "/poi-images/italy-terracina-cities-v2.webp",
   },
   {
     id: "italy-venezia-mestre-cities-v2",
@@ -2113,6 +2178,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Statut: parte a Veneției", "Populație: ~88.000 locuitori", "Gara: Venezia Mestre", "Legătură: Podul Libertății", "Centru: Piazza Ferretto", "Regiune: Veneto"],
       en: ["Part of: Venice municipality", "Population: ~88,000", "Main station: Venezia Mestre", "Bridge: Ponte della Libertà", "Main square: Piazza Ferretto", "Region: Veneto"],
     },
+    image: "/poi-images/italy-venezia-mestre-cities-v2.webp",
   },
   {
     id: "italy-scandicci-cities-v2",
@@ -2145,6 +2211,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Centrul districtului pielăriei", "Conectat prin tramvai de Florența", "Populație de cca. 50.000 locuitori", "Suprafață de 59,6 km²"],
       en: ["Heart of the leather manufacturing hub", "Connected by tramway to Florence", "Population approx. 50,000 (2023)", "Total area: 59.6 square km"],
     },
+    image: "/poi-images/italy-scandicci-cities-v2.webp",
   },
   {
     id: "italy-velletri-cities-v2",
@@ -2177,6 +2244,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Fondat de vechiul popor volsc", "Altitudine: 332 metri", "Populație de cca. 52.000 locuitori", "Centru viticol important din Lazio"],
       en: ["Founded by the ancient Volscians", "Altitude: 332 meters (1,089 ft)", "Population approx. 52,000 (2023)", "Major center for Lazio wine production"],
     },
+    image: "/poi-images/italy-velletri-cities-v2.webp",
   },
   {
     id: "italy-formia-cities-v2",
@@ -2209,6 +2277,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Mormântul lui Cicero (24 m înălțime)", "Port de feribot spre insula Ponza", "Populație de cca. 37.000 locuitori", "Destinație favorită a patricienilor romani"],
       en: ["Tomb of Cicero is 24 meters high", "Ferry link to Ponza and Ventotene", "Population approx. 37,000 (2023)", "Ancient retreat for Roman aristocrats"],
     },
+    image: "/poi-images/italy-formia-cities-v2.webp",
   },
   {
     id: "italy-cisterna-di-latina-cities-v2",
@@ -2241,6 +2310,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Populație de aproximativ 36.000", "Bătălia de la Cisterna din 1944", "Stația antică Tres Tabernae", "Grădina Ninfa în apropiere"],
       en: ["Population: approx. 36,000", "Battle of Cisterna (1944)", "Ancient Tres Tabernae site", "Garden of Ninfa nearby"],
     },
+    image: "/poi-images/italy-cisterna-di-latina-cities-v2.webp",
   },
   {
     id: "italy-fondi-cities-v2",
@@ -2273,6 +2343,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Piața de gros MOF", "Castello Baronale din sec. XV", "Ziduri ciclopice romane", "Situat pe vechea Via Appia"],
       en: ["MOF wholesale food market", "15th-century Castello Baronale", "Ancient Roman cyclopean walls", "Located on the Appian Way"],
     },
+    image: "/poi-images/italy-fondi-cities-v2.webp",
   },
   {
     id: "italy-colleferro-cities-v2",
@@ -2305,6 +2376,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Oraș fondat în anul 1935", "Sediul companiei spațiale AVIO", "Producția rachetelor Ariane", "Sfânta Barbara este patroana"],
       en: ["Founded in 1935", "Headquarters of AVIO aerospace", "Ariane rocket production site", "Patron saint: Saint Barbara"],
     },
+    image: "/poi-images/italy-colleferro-cities-v2.webp",
   },
   {
     id: "italy-ceccano-cities-v2",
@@ -2337,6 +2409,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Altitudine: 200 m", "Populație: ~23.000 locuitori", "Monument: Castelul Conților", "Râu: Sacco", "Nume antic: Fabrateria Vetus", "Regiune: Lazio"],
       en: ["Elevation: 200 m", "Population: ~23,000", "Main landmark: Castle of the Counts", "River: Sacco", "Ancient name: Fabrateria Vetus", "Region: Lazio"],
     },
+    image: "/poi-images/italy-ceccano-cities-v2.webp",
   },
   {
     id: "italy-ferentino-cities-v2",
@@ -2369,6 +2442,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Monument: Zidurile Ciclopice", "Populație: ~21.000 locuitori", "Altitudine: 393 m", "Nume antic: Ferentinum", "Catedrala: construită în sec. XI", "Regiune: Lazio"],
       en: ["Main attraction: Cyclopean walls", "Population: ~21,000", "Elevation: 393 m", "Ancient name: Ferentinum", "Cathedral: SS. Giovanni e Paolo", "Region: Lazio"],
     },
+    image: "/poi-images/italy-ferentino-cities-v2.webp",
   },
   {
     id: "italy-veroli-cities-v2",
@@ -2401,6 +2475,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Abația Casamari: construită în 1203", "Altitudine: 570 m", "Populație: ~20.000 locuitori", "Relicvă: Scala Santa locală", "Nume antic: Verulae", "Regiune: Lazio"],
       en: ["Casamari Abbey: Built 1203", "Elevation: 570 m", "Population: ~20,000", "Holy Staircase: Scala Santa", "Ancient name: Verulae", "Region: Lazio"],
     },
+    image: "/poi-images/italy-veroli-cities-v2.webp",
   },
   {
     id: "italy-anagni-cities-v2",
@@ -2433,6 +2508,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Supranume: Orașul Papilor", "Eveniment: Lovitura din Anagni (1303)", "Catedrala: fresce din secolul XIII", "Populație: ~21.000 locuitori", "Altitudine: 424 m", "Regiune: Lazio"],
       en: ["Nickname: City of the Popes", "Slap of Anagni: Year 1303", "Cathedral crypt: 'Sistine Chapel of Middle Ages'", "Population: ~21,000", "Elevation: 424 m", "Region: Lazio"],
     },
+    image: "/poi-images/italy-anagni-cities-v2.webp",
   },
   {
     id: "italy-alatri-cities-v2",
@@ -2465,6 +2541,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Altitudine de 502 metri", "Ziduri poligonale pre-romane masive", "Suprafață totală de 39 km pătrați", "Catedrala Sfântul Paul din secolul XII", "Acropola este cea mai mare din Italia", "Populație de aproximativ 28.000 locuitori"],
       en: ["Elevation of 502 meters above sea level", "Acropolis walls date to 6th century BC", "Area covers 39 square kilometers", "Porta Maggiore is a monolithic gateway", "Saint Paul Cathedral rebuilt in 1700s", "Home to the Palazzo Gottifredo museum"],
     },
+    image: "/poi-images/italy-alatri-cities-v2.webp",
   },
   {
     id: "italy-sora-cities-v2",
@@ -2497,6 +2574,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Locul nașterii lui Vittorio De Sica", "Situat pe malul râului Liri", "Castelul medieval Rocca Sorella", "Origini volscice antice (Sora)"],
       en: ["Birthplace of Vittorio De Sica", "Situated on the Liri River", "Medieval castle Rocca Sorella", "Ancient Volscian roots (Sora)"],
     },
+    image: "/poi-images/italy-sora-cities-v2.webp",
   },
   {
     id: "italy-cassino-cities-v2",
@@ -2529,6 +2607,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Altitudine de 40 metri", "Mănăstirea fondată în anul 529", "Bătălia din 1944 a durat 4 luni", "Amfiteatru roman bine conservat", "Universitatea de Studii din Cassino", "Populație de circa 36.000 persoane"],
       en: ["Elevation of 40 meters", "Abbey of Monte Cassino founded 529 AD", "Battle of Monte Cassino in 1944", "Roman theater dates to 1st century BC", "Home to the Gari River springs", "University founded in 1979"],
     },
+    image: "/poi-images/italy-cassino-cities-v2.webp",
   },
   {
     id: "italy-roccasecca-cities-v2",
@@ -2561,6 +2640,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Locul nașterii lui Toma d'Aquino (1225)", "Ruinele castelului conților de Aquino", "Vedere panoramică spre Valea Liri", "Biserica San Tommaso din sec. XIV"],
       en: ["Birthplace of Thomas Aquinas (1225)", "Aquino Counts' castle ruins", "Panoramic view of Liri Valley", "14th-century San Tommaso church"],
     },
+    image: "/poi-images/italy-roccasecca-cities-v2.webp",
   },
   {
     id: "italy-pontecorvo-cities-v2",
@@ -2593,6 +2673,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Celebru pentru Peperone di Pontecorvo DOP", "Fostă enclavă a Statelor Papale", "Pod strategic peste râul Liri", "Distrus masiv în anul 1944"],
       en: ["Famous for DOP Pontecorvo peppers", "Former Papal State enclave", "Historic bridge over the Liri River", "Heavy destruction in 1944"],
     },
+    image: "/poi-images/italy-pontecorvo-cities-v2.webp",
   },
   {
     id: "italy-castro-dei-volsci-cities-v2",
@@ -2625,6 +2706,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Altitudine de 385 metri", "Suprafață totală de 37 km pătrați", "Monumentul Mamma Ciociara ridicat în 1964", "Sat medieval fortificat conservat", "Biserica Santa Maria Maggiore", "Parte din asociația celor mai frumoase sate"],
       en: ["Elevation of 385 meters", "Area of 37 square kilometers", "Mamma Ciociara monument honors women", "Roman origins as a castrum", "Famous for its panoramic balcony view", "Preserves medieval stone architecture"],
     },
+    image: "/poi-images/italy-castro-dei-volsci-cities-v2.webp",
   },
   {
     id: "italy-ceprano-cities-v2",
@@ -2657,6 +2739,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Altitudine de 105 metri", "Fondat ca colonie romană în 328 î.Hr.", "Craniul Argil descoperit în 1994", "Vârsta fosilelor este de 800.000 ani", "Podul construit sub Papa Grigore XVI", "Nod rutier pe vechea Via Latina"],
       en: ["Elevation of 105 meters", "Founded as a Roman colony in 328 BC", "Argil skull discovered in 1994", "Fossils date back 800,000 years", "Bridge of Pope Gregory XVI (1836)", "Junction of Sacco and Liri rivers"],
     },
+    image: "/poi-images/italy-ceprano-cities-v2.webp",
   },
   {
     id: "italy-arnara-cities-v2",
@@ -2689,6 +2772,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Altitudine de 250 metri", "Castel medieval din secolul XI", "Suprafață de 12 km pătrați", "Biserica San Nicola", "Festivalul Trufelor în luna iulie", "Situat în valea râului Sacco"],
       en: ["Elevation of 250 meters", "Medieval castle from 11th century", "Area of 12 square kilometers", "Church of San Nicola", "Annual Truffle festival in July", "Located near the city of Frosinone"],
     },
+    image: "/poi-images/italy-arnara-cities-v2.webp",
   },
   {
     id: "italy-pofi-cities-v2",
@@ -2721,6 +2805,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Altitudine de 283 metri", "Construit pe un con vulcanic stins", "Muzeu de paleontologie din 2001", "Cunoscut drept Orașul Florilor", "Turn medieval din secolul XIII", "Suprafață de 22 km pătrați"],
       en: ["Elevation of 283 meters", "Built on an extinct volcanic crater", "Prehistoric museum opened in 2001", "Famous for flower nurseries", "13th century medieval tower", "Rich in Pleistocene fossils"],
     },
+    image: "/poi-images/italy-pofi-cities-v2.webp",
   },
   {
     id: "italy-falvaterra-cities-v2",
@@ -2753,6 +2838,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Sistemul carstic Grotte di Falvaterra", "Aproape de ruinele Fabrateria Nova", "Centru istoric medieval", "Situat în regiunea Ciociaria"],
       en: ["Grotte di Falvaterra karst system", "Proximity to Fabrateria Nova ruins", "Medieval historic center", "Located in the Ciociaria region"],
     },
+    image: "/poi-images/italy-falvaterra-cities-v2.webp",
   },
   {
     id: "italy-pastena-cities-v2",
@@ -2785,6 +2871,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Descoperirea peșterilor în 1926", "Formațiuni calcaroase spectaculoase", "Traseu vizitabil de aprox. 1 km", "Patrimoniu agricol local"],
       en: ["Caves discovered in 1926", "Spectacular stalactite formations", "Approx. 1 km of visitable paths", "Traditional agricultural heritage"],
     },
+    image: "/poi-images/italy-pastena-cities-v2.webp",
   },
   {
     id: "italy-san-giovanni-incaricato-cities-v2",
@@ -2817,6 +2904,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Lacul de acumulare San Giovanni", "Aproape de vechea Via Latina", "Fost domeniu al Montecassino", "Peisaj pe malul râului Liri"],
       en: ["San Giovanni Incarico reservoir", "Near the ancient Via Latina", "Former Montecassino possession", "Liri River landscape"],
     },
+    image: "/poi-images/italy-san-giovanni-incaricato-cities-v2.webp",
   },
   {
     id: "italy-colfelice-cities-v2",
@@ -2849,6 +2937,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Fondată în 1923 prin fuziune", "Formată din Coldragone și Felice", "Situată în Valea Liri", "Aproape de Muntele Cairo"],
       en: ["Founded in 1923 (merger)", "Coldragone and Felice parts", "Located in the Liri Valley", "Near the Monte Cairo massif"],
     },
+    image: "/poi-images/italy-colfelice-cities-v2.webp",
   },
   {
     id: "italy-rocca-d-arce-cities-v2",
@@ -2881,6 +2970,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Fortăreață volscă antică", "Poziție pe o stâncă abruptă", "Turn de veghe medieval", "Panoramă asupra Ciociariei"],
       en: ["Ancient Volscian fortress", "Perched on a high rock", "Medieval watchtower", "Panoramic view of Ciociaria"],
     },
+    image: "/poi-images/italy-rocca-d-arce-cities-v2.webp",
   },
   {
     id: "italy-fontana-liri-cities-v2",
@@ -2913,6 +3003,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Altitudine de 150 metri", "Locul nașterii lui Marcello Mastroianni", "Cascade naturale pe râul Liri", "Vechi fabrici de hârtie istorice", "Biserica San Nicola", "Suprafață de 16 km pătrați"],
       en: ["Elevation of 150 meters", "Birthplace of Marcello Mastroianni (1924)", "Features waterfalls on the Liri River", "Historic tradition of paper making", "Area covers 16 square kilometers", "Church of San Nicola is a key landmark"],
     },
+    image: "/poi-images/italy-fontana-liri-cities-v2.webp",
   },
   {
     id: "italy-santopadre-cities-v2",
@@ -2945,6 +3036,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Ziduri de incintă medievale", "Granița State Papale/Neapole", "Turn istoric distinctiv", "Altitudine de aprox. 730 m"],
       en: ["Medieval defensive walls", "Papal States/Naples border", "Historic watchtower (Torre)", "Elevation: approx. 730 m"],
     },
+    image: "/poi-images/italy-santopadre-cities-v2.webp",
   },
   {
     id: "italy-arce-cities-v2",
@@ -2977,6 +3069,7 @@ export const italyCitiesV2: POI[] = [
       ro: ["Altitudine de 247 metri", "Ruinele fortăreței Rocca d'Arce", "Fost punct de frontieră regat", "Origini în tribul antic al Volscilor", "Suprafață de 39 km pătrați", "Situat pe muntele Monte Grande"],
       en: ["Elevation of 247 meters", "Ruins of the Rocca d'Arce fortress", "Border town of the Kingdom of Naples", "Ancient Volscian city of Arx", "Located along the ancient Via Latina", "Area of 39 square kilometers"],
     },
+    image: "/poi-images/italy-arce-cities-v2.webp",
   },
   {
     id: "italy-collepardo-cities-v2",
@@ -3009,5 +3102,6 @@ export const italyCitiesV2: POI[] = [
       ro: ["Altitudine de 580 metri", "Mănăstirea Trisulti fondată în 1204", "Pozzo d'Antullo are 60 metri adâncime", "Peșterile Regina Margherita", "Grădină botanică cu specii locale", "Suprafață de 25 km pătrați"],
       en: ["Elevation of 580 meters", "Trisulti Abbey founded in 1204", "Pozzo d'Antullo sinkhole is 60m deep", "Collepardo caves discovered in 1500s", "Home to a unique botanical garden", "Area of 25 square kilometers"],
     },
+    image: "/poi-images/italy-collepardo-cities-v2.webp",
   }
 ];

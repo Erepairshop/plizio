@@ -32,6 +32,7 @@ export const hungaryEconomicV2: POI[] = [
       ro: ["Suprafață: 2 km²", "Anul deschiderii: 2015", "Număr de companii: 30", "Volum anual de marfă: 500.000 t", "Suprafață depozite: 200.000 m²", "Lungimea căii ferate: 5 km"],
       en: ["Area: 2 km²", "Opened: 2015", "Companies: 30", "Annual throughput: 500,000 tonnes", "Warehouse space: 200,000 m²", "Rail siding: 5 km"],
     },
+    image: "/poi-images/hungary-ikreny-logistics-economic-v2.webp",
   },
   {
     id: "hungary-szekesfehervar-electronics-economic-v2",
@@ -64,6 +65,7 @@ export const hungaryEconomicV2: POI[] = [
       ro: ["Suprafață: 1,5 km²", "Anul înființării: 2008", "Producție anuală: 2 milioane de componente", "Angajați: 5.000", "Investiție: 500 milioane EUR", "Rata de export: 80%"],
       en: ["Area: 1.5 km²", "Founded: 2008", "Production: 2 million components/year", "Employees: 5,000", "Investment: €500 million", "Export rate: 80%"],
     },
+    image: "/poi-images/hungary-szekesfehervar-electronics-economic-v2.webp",
   },
   {
     id: "hungary-tiszafoldvar-agro-economic-v2",
@@ -96,6 +98,7 @@ export const hungaryEconomicV2: POI[] = [
       ro: ["Capacitate de procesare: 100.000 t/an", "Anul extinderii: 2003", "Angajați: 300", "Instalație biogaz: 2 MW", "Capacitate depozitare: 50.000 t", "Suprafață cultivată: 20.000 ha"],
       en: ["Processing capacity: 100,000 tonnes/year", "Expansion year: 2003", "Employees: 300", "Biogas plant: 2 MW", "Storage capacity: 50,000 tonnes", "Cultivated area: 20,000 ha"],
     },
+    image: "/poi-images/hungary-tiszafoldvar-agro-economic-v2.webp",
   },
   {
     id: "hungary-szentgotthard-automotive-v2",
@@ -128,6 +131,7 @@ export const hungaryEconomicV2: POI[] = [
       ro: ["Capacitate de producție: 500.000 motoare/an", "Anul deschiderii: 1993", "Angajați: 2.000", "Suprafață: 0,5 km²", "Investiție: 1 miliard EUR", "Rata de export: 95%"],
       en: ["Production capacity: 500,000 engines/year", "Opened: 1993", "Employees: 2,000", "Area: 0.5 km²", "Investment: €1 billion", "Export share: 95%"],
     },
+    image: "/poi-images/hungary-szentgotthard-automotive-v2.webp",
   },
   {
     id: "hungary-duna-ujvaros-port-economic-v2",
@@ -160,6 +164,7 @@ export const hungaryEconomicV2: POI[] = [
       ro: ["Volum anual: 1 Mt", "Anul construirii: 1952", "Modernizare: 2000", "Macarale: 10", "Lungime cheiuri: 2 km", "Suprafață depozitare: 100.000 m²"],
       en: ["Annual throughput: 1 million tonnes", "Built: 1952", "Modernized: 2000", "Cranes: 10", "Quay length: 2 km", "Storage area: 100,000 m²"],
     },
+    image: "/poi-images/hungary-duna-ujvaros-port-economic-v2.webp",
   },
   {
     id: "hungary-szolnok-chemical-economic-v2",
@@ -192,6 +197,7 @@ export const hungaryEconomicV2: POI[] = [
       ro: ["Uzina a fost fondată în anul 1952.", "Angajează peste 1.200 de muncitori.", "Suprafața fabricii este de 45 de hectare.", "Capacitatea anuală de producție este de 500.000 de tone.", "Din 2005 aparține unui concern chimic german.", "Investițiile în protecția mediului au totalizat 30 de milioane de euro."],
       en: ["The plant was established in 1952.", "It employs over 1,200 workers.", "The facility covers 45 hectares.", "Annual production capacity is 500,000 tons.", "It has been part of a German chemical group since 2005.", "Environmental investments totaled 30 million euros."],
     },
+    image: "/poi-images/hungary-szolnok-chemical-economic-v2.webp",
   },
   {
     id: "hungary-budapest-tech-corridor-economic-v2",
@@ -224,5 +230,6 @@ export const hungaryEconomicV2: POI[] = [
       ro: ["Coridorul se întinde pe 30 de kilometri.", "Găzduiește peste 500 de companii tehnologice.", "Regiunea are o creștere anuală a PIB de 4,5%.", "Parcurile industriale acoperă 1.200 de hectare.", "IBM, Siemens și Nokia sunt prezente în zonă.", "Investițiile străine directe anuale sunt de 1,5 miliarde de euro."],
       en: ["The corridor stretches 30 kilometers.", "It hosts over 500 technology companies.", "The region's GDP growth is 4.5% annually.", "The technology parks cover 1,200 hectares.", "IBM, Siemens, and Nokia are present in the corridor.", "Annual foreign direct investment amounts to €1.5 billion."],
     },
+    image: "/poi-images/hungary-budapest-tech-corridor-economic-v2.webp",
   }
 ];

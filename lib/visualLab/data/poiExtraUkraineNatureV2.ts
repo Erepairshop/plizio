@@ -1053,6 +1053,7 @@ imageHint: "Manyava waterfall in the mountains",
       ro: ["Lungime: 363 km.", "Bazin hidrografic: 18.000 km².", "Debit mediu: 29 m³/s.", "Pantă: 0,3 m/km.", "Se varsă în lacul de acumulare Kremenciuk.", "Arie importantă de pescuit cu 30 de specii."],
       en: ["Length: 363 km.", "Basin area: 18,000 km².", "Average discharge: 29 m³/s.", "Gradient: 0.3 m/km.", "Empties into the Kremenchuk Reservoir.", "Important fishing area with 30 species."],
     },
+    image: "/poi-images/ukraine-sula-river-nature-v2.webp",
   },
   {
     id: "ukraine-u-river-nature-v2",
@@ -1085,5 +1086,6 @@ imageHint: "Manyava waterfall in the mountains",
       ro: ["Lungime: 98 km.", "Bazin: 1.240 km².", "Lățime medie: 10 m.", "Adâncime maximă: 3 m.", "Pantă: 1,2 m/km.", "Se varsă în lacul Kiev."],
       en: ["Length: 98 km.", "Basin area: 1,240 km².", "Average width: 10 m.", "Maximum depth: 3 m.", "Gradient: 1.2 m/km.", "Empties into the Kyiv Reservoir."],
     },
+    image: "/poi-images/ukraine-u-river-nature-v2.webp",
   }
 ];

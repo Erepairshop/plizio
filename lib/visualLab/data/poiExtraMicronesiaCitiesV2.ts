@@ -31,6 +31,7 @@ export const micronesiaCitiesV2: POI[] = [
       ro: ["Palikir a devenit oficial capitală în anul 1989.", "Orașul se află la aproximativ 8 kilometri sud-vest de Kolonia.", "Populația orașului este de circa 4.600 de locuitori (date 2010).", "Complexul guvernamental este situat în municipalitatea Sokehs.", "Palikir este situat într-o zonă cu precipitații anuale foarte ridicate.", "Orașul găzduiește Congresul și Curtea Supremă a țării."],
       en: ["Palikir officially became the national capital in 1989.", "The city is located about 8 kilometers southwest of Kolonia.", "The population of Palikir is approximately 4,600 (2010 census).", "The government complex is situated within the Sokehs municipality.", "Palikir is located in one of the wettest inhabited regions on Earth.", "The city houses the FSM Congress and the Supreme Court."],
     },
+    image: "/poi-images/micronesia-palikir-cities-v2.webp",
   },
   {
     id: "micronesia-weno-cities-v2",
@@ -62,6 +63,7 @@ export const micronesiaCitiesV2: POI[] = [
       ro: ["Weno a fost cunoscut anterior sub numele de Moen.", "Orașul are o populație de peste 13.800 de locuitori.", "Aici se află Aeroportul Internațional Chuuk (TKK).", "Muntele Winipot, de 443 metri, este cel mai înalt punct al insulei.", "Laguna Chuuk adăpostește peste 50 de epave japoneze.", "Weno este principalul punct de comerț pentru copră în statul Chuuk."],
       en: ["Weno was previously known as Moen, named after the island.", "The city has a population exceeding 13,800 residents.", "It is home to the Chuuk International Airport (TKK).", "Mount Winipot is the island's highest point at 443 meters.", "The Chuuk Lagoon contains over 50 Japanese shipwreck sites.", "Weno is the primary hub for copra trade in Chuuk State."],
     },
+    image: "/poi-images/micronesia-weno-cities-v2.webp",
   },
   {
     id: "micronesia-kolonia-cities-v2",
@@ -93,6 +95,7 @@ export const micronesiaCitiesV2: POI[] = [
       ro: ["Zidul Spaniol a fost construit de autorități în anul 1887.", "Kolonia are o populație de aproximativ 6.000 de locuitori.", "Orașul a fost aproape distrus complet în timpul celui de-al Doilea Război Mondial.", "Portul din Kolonia este principalul port maritim al insulei Pohnpei.", "Aeroportul Internațional Pohnpei este situat în apropierea orașului.", "Majoritatea misiunilor diplomatice străine se află în Kolonia."],
       en: ["The Spanish Wall was constructed by colonial forces in 1887.", "Kolonia has a population of approximately 6,000 residents.", "The city was nearly completely destroyed during World War II.", "Kolonia's harbor serves as the primary seaport for Pohnpei island.", "Pohnpei International Airport is located on an islet nearby.", "The city hosts the majority of foreign diplomatic missions in the country."],
     },
+    image: "/poi-images/micronesia-kolonia-cities-v2.webp",
   },
   {
     id: "micronesia-colonia-yap-cities-v2",
@@ -124,6 +127,7 @@ export const micronesiaCitiesV2: POI[] = [
       ro: ["Colonia are o populație de aproximativ 3.100 de locuitori.", "Orașul este situat pe malul golfului Chamorro.", "Aici se află Aeroportul Internațional Yap (YAP).", "Monedele tradiționale din piatră (Rai) sunt expuse în oraș.", "Orașul s-a dezvoltat semnificativ în perioada colonială germană.", "Yap este recunoscută la nivel mondial drept țara banilor de piatră."],
       en: ["Colonia has a population of approximately 3,100 residents.", "The city is located along the shores of Chamorro Bay.", "It is home to the Yap International Airport (YAP).", "Traditional stone money (Rai) is frequently displayed in the city.", "The town was expanded during the German colonial administration.", "Yap is globally famous as the Land of Stone Money."],
     },
+    image: "/poi-images/micronesia-colonia-yap-cities-v2.webp",
   },
   {
     id: "micronesia-tofol-cities-v2",
@@ -155,6 +159,7 @@ export const micronesiaCitiesV2: POI[] = [
       ro: ["Tofol a devenit centrul guvernamental în ianuarie 1977.", "Orașul este situat în partea de răsărit a insulei Kosrae.", "În Tofol se află Spitalul de Stat din Kosrae.", "Orașul găzduiește singurul muzeu din statul Kosrae.", "Aici se află Liceul Kosrae (Kosrae High School).", "Tofol este situat în proximitatea ruinelor istorice Lelu."],
       en: ["Tofol was established as the government center in January 1977.", "The town is located on the eastern part of Kosrae island.", "Tofol is home to the Kosrae State Hospital.", "The town hosts the state's only historical museum.", "The Kosrae High School is located within this municipality.", "Tofol is situated very close to the ancient ruins of Lelu."],
     },
+    image: "/poi-images/micronesia-tofol-cities-v2.webp",
   },
   {
     id: "micronesia-lelu-cities-v2",
@@ -186,6 +191,7 @@ export const micronesiaCitiesV2: POI[] = [
       ro: ["Ruinele Lelu au fost construite din coloane masive de bazalt.", "Lelu a fost reședința regelui din Kosrae (Tokosra).", "Zidurile ruinelor ating pe alocuri o înălțime de 6 metri.", "Complexul este comparabil cu Nan Madol de pe insula Pohnpei.", "Lelu are o populație de aproximativ 2.100 de locuitori.", "Orașul este situat pe o insulă mică la est de Kosrae."],
       en: ["The Lelu ruins were constructed using massive basalt columns.", "Lelu served as the residence of the King of Kosrae (Tokosra).", "The walls of the ruins reach heights of up to 6 meters.", "The site is often compared to Nan Madol on Pohnpei island.", "Lelu has a population of approximately 2,100 residents.", "The town is located on a small island just east of Kosrae."],
     },
+    image: "/poi-images/micronesia-lelu-cities-v2.webp",
   },
   {
     id: "micronesia-tol-cities-v2",
@@ -217,6 +223,7 @@ export const micronesiaCitiesV2: POI[] = [
       ro: ["Muntele Winipot de pe insula Tol are o înălțime de 443 metri.", "Tol are o populație de aproximativ 5.100 de locuitori.", "Insula găzduiește pasărea rară numită Monarhul de Chuuk.", "Aparține districtului administrativ Faichuk.", "Pe Tol există culturi semnificative de taro și fructe de pâine.", "Situl arheologic indică prezența unei așezări timpurii."],
       en: ["Mount Winipot on Tol island stands 443 meters tall.", "Tol has a population of approximately 5,100 residents.", "The island is home to the rare endemic Chuuk Monarch bird.", "It belongs to the Faichuk administrative district.", "Tol features significant taro and breadfruit plantations.", "Archaeological sites on the island indicate early human settlement."],
     },
+    image: "/poi-images/micronesia-tol-cities-v2.webp",
   },
   {
     id: "micronesia-fefan-cities-v2",
@@ -248,6 +255,7 @@ export const micronesiaCitiesV2: POI[] = [
       ro: ["Fefan are o populație de aproximativ 3.400 de locuitori.", "Insula face parte din grupul Southern Namoneas.", "Cea mai înaltă altitudine de pe Fefan este de 298 metri.", "Fefan este un producător major de taro în statul Chuuk.", "Insula este renumită pentru recifele sale de corali.", "Există conexiuni regulate cu barca către orașul Weno."],
       en: ["Fefan has a population of approximately 3,400 residents.", "The island is part of the Southern Namoneas group.", "The highest elevation on Fefan is 298 meters above sea level.", "Fefan is a primary producer of taro within Chuuk State.", "The island is known for its surrounding coral reefs.", "There are regular boat services connecting Fefan to Weno."],
     },
+    image: "/poi-images/micronesia-fefan-cities-v2.webp",
   },
   {
     id: "micronesia-tonoas-cities-v2",
@@ -279,6 +287,7 @@ export const micronesiaCitiesV2: POI[] = [
       ro: ["Tonoas are o populație de aproximativ 3.200 de locuitori.", "În Al Doilea Război Mondial, aici a funcționat un spital japonez.", "Insula a fost o țintă majoră în Operațiunea Hailstone din 1944.", "Astăzi pot fi văzute ruine de buncăre și depozite militare.", "Tonoas este situată la sud-est de insula Weno.", "Economia se bazează pe pescuit și activități agricole."],
       en: ["Tonoas has a population of approximately 3,200 residents.", "During WWII, it served as a site for a Japanese naval hospital.", "The island was a key target during Operation Hailstone in 1944.", "Ruins of bunkers and supply warehouses are still visible today.", "Tonoas is located to the southeast of Weno island.", "The local economy relies on fishing and subsistence farming."],
     },
+    image: "/poi-images/micronesia-tonoas-cities-v2.webp",
   },
   {
     id: "micronesia-nett-cities-v2",
@@ -310,6 +319,7 @@ export const micronesiaCitiesV2: POI[] = [
       ro: ["Nett are o populație de aproximativ 6.600 de locuitori.", "Râul Nanpil traversează teritoriul acestei municipalități.", "În Nett se află Centrul Cultural Nett (Nett Cultural Center).", "Municipalitatea este renumită pentru ceremoniile sale de sakau.", "Nett se învecinează direct cu districtul capitalei Kolonia.", "Aici se află facilități importante de energie hidroelectrică."],
       en: ["Nett has a population of approximately 6,600 residents.", "The Nanpil River flows through this municipal area.", "Nett is home to the Nett Cultural Center.", "The community is famous for its traditional sakau ceremonies.", "Nett directly borders the capital municipality of Kolonia.", "The area contains significant hydroelectric power facilities."],
     },
+    image: "/poi-images/micronesia-nett-cities-v2.webp",
   },
   {
     id: "micronesia-kitti-cities-v2",
@@ -341,6 +351,7 @@ export const micronesiaCitiesV2: POI[] = [
       ro: ["Kitti are o populație de aproximativ 6.400 de locuitori.", "Atolul Ant aparține administrativ de municipalitatea Kitti.", "Kitti a fost un centru pentru activitățile misionare timpurii.", "În Kitti se află unele dintre cele mai înalte vârfuri din Pohnpei.", "Municipalitatea este cunoscută pentru abundența de sakau.", "Aici se găsesc poteci istorice importante ale insulei."],
       en: ["Kitti has a population of approximately 6,400 residents.", "The Ant Atoll is administratively part of the Kitti municipality.", "Kitti was a major center for early missionary activities.", "Some of Pohnpei's highest mountain peaks are located in Kitti.", "The municipality is known for its abundant sakau production.", "The area contains significant historical trails used for centuries."],
     },
+    image: "/poi-images/micronesia-kitti-cities-v2.webp",
   },
   {
     id: "micronesia-madolenihmw-cities-v2",
@@ -372,6 +383,7 @@ export const micronesiaCitiesV2: POI[] = [
       ro: ["Este situată pe partea de est a insulei Pohnpei.", "Acoperă o suprafață de teren de aproximativ 186 de kilometri pătrați.", "Găzduiește Nan Madol, un sit aflat în patrimoniul mondial UNESCO.", "Muntele Finkol, cel mai înalt punct din Pohnpei, se află în apropiere.", "Populația era de aproximativ 5.700 de locuitori la recensământul din 2010.", "Municipalitatea include mai multe insulițe de coastă și mangrove."],
       en: ["Located on the eastern side of Pohnpei island.", "It covers a land area of approximately 186 square kilometers.", "Home to Nan Madol, a UNESCO World Heritage site.", "Mount Finkol, the highest point in Pohnpei, is located nearby.", "The population was approximately 5,700 in the 2010 census.", "The municipality includes several offshore islets and coastal mangroves."],
     },
+    image: "/poi-images/micronesia-madolenihmw-cities-v2.webp",
   },
   {
     id: "micronesia-sokehs-cities-v2",
@@ -403,6 +415,7 @@ export const micronesiaCitiesV2: POI[] = [
       ro: ["Sokehs Rock este o faleză de bazalt care se ridică la aproximativ 190 de metri deasupra mării.", "Rebeliunea Sokehs a avut loc între anii 1910 și 1911.", "Se învecinează cu Kolonia, fosta capitală națională.", "Municipalitatea include mai multe sate de coastă și terenuri agricole.", "Populația a fost înregistrată la aproximativ 6.600 de locuitori în 2010.", "Rămășițe istorice din epoca japoneză pot fi găsite pe creasta Sokehs."],
       en: ["Sokehs Rock is a basalt cliff rising about 190 meters above sea level.", "The Sokehs Rebellion took place between 1910 and 1911.", "It borders Kolonia, the former national capital.", "The municipality includes several coastal villages and agricultural lands.", "Population was recorded at roughly 6,600 inhabitants in 2010.", "Historical remains from the Japanese era can be found on the Sokehs Ridge."],
     },
+    image: "/poi-images/micronesia-sokehs-cities-v2.webp",
   },
   {
     id: "micronesia-tafunsak-cities-v2",
@@ -434,5 +447,6 @@ export const micronesiaCitiesV2: POI[] = [
       ro: ["Tafunsak acoperă aproape jumătate din suprafața terestră a statului Kosrae.", "Aeroportul Internațional Kosrae a fost construit pe o zonă de recif recuperată.", "Municipalitatea avea o populație de aproximativ 2.100 de persoane în 2010.", "Include satul Walung, unul dintre cele mai izolate de pe insulă.", "Numele Tafunsak înseamnă jumătate de pădure în limba locală kosraeană.", "Pădurea Yela Ka, o rezervație de biosferă protejată, se află în interiorul granițelor sale."],
       en: ["Tafunsak covers nearly half of the land area of Kosrae state.", "Kosrae International Airport (KSA) was built on a reclaimed reef area.", "The municipality had a population of about 2,100 people in 2010.", "It includes the village of Walung, one of the most remote on the island.", "The name Tafunsak means half a forest in the local Kosraean language.", "The Yela Ka Forest, a protected biosphere reserve, is located within its borders."],
     },
+    image: "/poi-images/micronesia-tafunsak-cities-v2.webp",
   }
 ];

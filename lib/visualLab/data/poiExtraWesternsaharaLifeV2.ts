@@ -31,6 +31,7 @@ export const westernsaharaLifeV2: POI[] = [
       ro: ["Este una dintre cele mai mari câmpii saline din sudul Saharei Occidentale.", "Compusă în principal din clorură de sodiu și sulfat de calciu.", "Rata de evaporare depășește precipitațiile de mai multe ori.", "Utilizată istoric ca sursă de sare pentru caravanele către Africa subsahariană.", "După ploi, se pot forma lacuri hipersaline de scurtă durată.", "Situată într-o depresiune geologic stabilă a platformei sahariene."],
       en: ["One of the largest salt flats in the southern region of Western Sahara.", "Primarily composed of sodium chloride and calcium sulfate crusts.", "The evaporation rate in this area vastly exceeds the annual precipitation.", "Historically acted as a major salt source for trans-Saharan caravans.", "Temporary hypersaline lakes can form here following sporadic rainfall.", "Part of a geologically stable depression within the Saharan shield."],
     },
+    image: "/poi-images/westernsahara-sabkhat-tichla-life-v2.webp",
   },
   {
     id: "westernsahara-atlantik-küste-wildlife-life-v2",
@@ -62,6 +63,7 @@ export const westernsaharaLifeV2: POI[] = [
       ro: ["Linia de coastă se întinde pe o lungime totală de aproximativ 1.100 km.", "Curentul Canarelor creează una dintre cele mai bogate zone de pescuit din lume.", "Găzduiește cea mai mare colonie din lume de foci monah mediteraneene.", "Loc de popas important pentru păsări migratoare, precum flamingii.", "Ceața de coastă (Taros) furnizează umiditate pentru vegetația deșertică.", "Temperatura medie a apei este de 17-20°C pe tot parcursul anului."],
       en: ["The coastline spans a total length of roughly 1,100 kilometers.", "The Canary Current creates one of the richest fishing grounds on Earth.", "Home to the world's largest colony of the endangered Mediterranean monk seal.", "A key stopover for migratory birds like greater flamingos and spoonbills.", "Coastal fog, known locally as Taros, sustains desert succulents and shrubs.", "Ocean temperatures remain relatively cool, averaging 17-20°C year-round."],
     },
+    image: "/poi-images/westernsahara-atlantik-küste-wildlife-life-v2.webp",
   },
   {
     id: "westernsahara-guelta-zemmur-oase-life-v2",
@@ -93,6 +95,7 @@ export const westernsaharaLifeV2: POI[] = [
       ro: ["O guelta este un bazin de apă permanent sau semi-permanent în stâncă.", "Situată în masivul Zemmur, cunoscut pentru peisajul său de cuestă.", "A fost locul uneia dintre cele mai mari bătălii din conflictul saharien în 1981.", "Oferă habitat pentru populații relicte de pești de deșert și amfibieni.", "Loc de adăpare important pentru turmele triburilor nomade saharavi.", "Împrejurimile conțin gravuri rupestre preistorice care reprezintă animale."],
       en: ["A guelta is a permanent or semi-permanent pool of water trapped in rock.", "Located in the Zemmur massif, characterized by its dramatic escarpments.", "Site of one of the largest battles of the Western Sahara War in 1981.", "Supports relict populations of specialized desert fish and amphibians.", "Historically served as a primary watering hole for nomadic camel caravans.", "The surrounding rock faces feature ancient prehistoric petroglyphs."],
     },
+    image: "/poi-images/westernsahara-guelta-zemmur-oase-life-v2.webp",
   },
   {
     id: "westernsahara-cap-bojador-wildlife-life-v2",
@@ -124,6 +127,7 @@ export const westernsaharaLifeV2: POI[] = [
       ro: ["A fost navigat cu succes pentru prima dată în 1434 de către Gil Eanes.", "În Evul Mediu era considerat limita sudică a lumii navigabile.", "Notoriu pentru „Curentul Bojador”, care împingea navele spre stânci.", "Farul actual din Bojador a fost construit în anii 1950.", "Apele fac parte din una dintre cele mai bogate zone de pescuit de pe planetă.", "Marchează tranziția de la coasta de nord stâncoasă la coasta centrală nisipoasă."],
       en: ["First successfully rounded by Portuguese explorer Gil Eanes in 1434.", "Considered the southern limit of the known world during the Middle Ages.", "Famed for dangerous currents that frequently led to historical shipwrecks.", "The current lighthouse at Cape Bojador was erected in the 1950s.", "The surrounding ocean is a global hotspot for industrial sardine fishing.", "Serves as the geographic dividing line between the rocky and sandy coastlines."],
     },
+    image: "/poi-images/westernsahara-cap-bojador-wildlife-life-v2.webp",
   },
   {
     id: "westernsahara-sebkhat-dora-salt-life-v2",
@@ -155,6 +159,7 @@ export const westernsaharaLifeV2: POI[] = [
       ro: ["Situată într-o depresiune la aproximativ 100 km nord-est de Smara.", "Compusă dintr-un amestec de sare gemă, ghips și minerale argiloase.", "Servește ca sistem natural de drenaj pentru scurgerile sezoniere de suprafață.", "După evenimente pluviale, devine habitat pentru crustacee specializate.", "Crusta de sare poate atinge o grosime de câțiva centimetri.", "A făcut parte istoric din rutele locale de comerț cu sare ale saharavi."],
       en: ["Located in a depression approximately 100 km northeast of Smara.", "Composed of a mixture of rock salt, gypsum, and clay minerals.", "Functions as a natural drainage basin for seasonal desert runoff.", "Attracts specialized brine shrimp and microorganisms after rare rains.", "The salt crust can reach a thickness of several centimeters in places.", "Historically utilized by local Sahrawi tribes for traditional salt harvesting."],
     },
+    image: "/poi-images/westernsahara-sebkhat-dora-salt-life-v2.webp",
   },
   {
     id: "westernsahara-tifariti-wildlife-life-v2",
@@ -186,6 +191,7 @@ export const westernsaharaLifeV2: POI[] = [
       ro: ["Găzduiește picturi rupestre care datează din mileniul VI î.Hr.", "Situată în așa-numita „Zonă Liberă” la est de zidul de nisip.", "Sediu al Universității Saharavi „Tifariti”, fondată în 2013.", "Locul unor lupte grele în 1991, chiar înainte de încetarea focului.", "Teritoriul face parte din potențialele situri de patrimoniu mondial UNESCO.", "Vegetația constă în principal din salcâmi și ierburi perene."],
       en: ["Home to petroglyphs and rock art dating back to the 6th millennium BCE.", "Located in the 'Free Zone' east of the Moroccan-built berm.", "Host to the University of Tifariti, established in 2013.", "The site of intense military engagements in 1991 before the ceasefire.", "Regarded as a key site for the study of Saharan prehistoric climatology.", "The local flora is dominated by acacia trees and drought-resistant grasses."],
     },
+    image: "/poi-images/westernsahara-tifariti-wildlife-life-v2.webp",
   },
   {
     id: "westernsahara-bir-mogrein-oasis-life-v2",
@@ -217,6 +223,7 @@ export const westernsaharaLifeV2: POI[] = [
       ro: ["Numele înseamnă „fântâna celor două izvoare”.", "Găzduiește ruinele unui fost fort militar francez.", "Situată strategic pe ruta dintre Valea Draa și Senegal.", "Nivelul apei freatice este aici mai ridicat decât în hamada înconjurătoare.", "Loc de comerț important pentru crescătorii de cămile din regiune.", "Climatul este extrem de continental, cu variații mari de temperatură."],
       en: ["The name Bir Mogrein means 'the well of the two springs.'", "Features the ruins of a colonial-era French military fortress.", "Historically positioned on the trade route between the Draa Valley and Senegal.", "Groundwater levels are uniquely high compared to the surrounding hamada.", "Serves as a primary marketplace for local Sahrawi camel herders.", "Experiences an extreme continental climate with significant diurnal temperature shifts."],
     },
+    image: "/poi-images/westernsahara-bir-mogrein-oasis-life-v2.webp",
   },
   {
     id: "westernsahara-auserd-wildlife-life-v2",
@@ -248,6 +255,7 @@ export const westernsaharaLifeV2: POI[] = [
       ro: ["Situată în partea cea mai sudică a Saharei Occidentale, departe de coastă.", "A fost un punct de sprijin important pentru armata colonială spaniolă.", "Cunoscută pentru turmele mari ale nomazilor saharavi după ploi.", "Regiunea dispune de acvifere subterane semnificative.", "Temperaturile pot depăși 45°C în timpul verii.", "Relieful este marcat de formațiuni „Gara” (munți tabelari)."],
       en: ["Located in the deep southern interior, far from any maritime influence.", "Served as a key military and administrative post for the Spanish colony.", "Famous for attracting thousands of camels after sporadic desert rains.", "The region is positioned over substantial deep-fossil aquifers.", "Summer temperatures frequently exceed 45°C (113°F).", "The landscape features unique 'Gara' formations, which are flat-topped mesas."],
     },
+    image: "/poi-images/westernsahara-auserd-wildlife-life-v2.webp",
   },
   {
     id: "westernsahara-laguna-de-naila-life-v2",
@@ -279,6 +287,7 @@ export const westernsaharaLifeV2: POI[] = [
       ro: ["Face parte din Parcul Național Khenifiss, un sit Ramsar.", "Laguna se întinde pe o lungime de aproximativ 20 km.", "Cel mai important loc de iernare pentru flamingoul roz din regiune.", "Adâncimea apei în lagună depășește rareori 5 metri.", "Înconjurată de cele mai înalte dune mișcătoare de pe coasta nord-vest africană.", "Găzduiește specii rare de alge care stabilizează ecologic apa."],
       en: ["A central component of Khenifiss National Park, a designated Ramsar site.", "The lagoon stretches for a total length of approximately 20 kilometers.", "Primary wintering ground for large populations of pink flamingos.", "The average depth of the lagoon is shallow, rarely exceeding 5 meters.", "Bordered by some of the tallest migrating dunes in North Africa.", "Rich in seagrass beds that provide a habitat for juvenile fish and crustaceans."],
     },
+    image: "/poi-images/westernsahara-laguna-de-naila-life-v2.webp",
   },
   {
     id: "westernsahara-boujdour-wetlands-life-v2",
@@ -310,6 +319,7 @@ export const westernsaharaLifeV2: POI[] = [
       ro: ["Punct de popas important pentru păsările migratoare în drum spre Mauritania.", "Vegetația este dominată de suculente tolerante la sare.", "Servește ca zonă de reproducere pentru specii de pești precum dorada.", "Ceața de coastă asigură o umiditate relativă a aerului de peste 70%.", "Mlaștinile sărate filtrează sedimentele aduse de vântul deșertic.", "Parte a unei rețele de arii protejate de-a lungul coastei sahariene."],
       en: ["Acts as a vital stepping stone for birds migrating towards Mauritania.", "The dominant flora consists of specialized salt-tolerant succulents.", "Functions as a key nursery for fish species like the gilthead seabream.", "Coastal fog ensures high relative humidity, often exceeding 70%.", "The salt marshes help trap and filter sediments blown in by the Harmattan.", "Integrated into a larger network of conservation sites along the Sahara coast."],
     },
+    image: "/poi-images/westernsahara-boujdour-wetlands-life-v2.webp",
   },
   {
     id: "westernsahara-guelta-de-zoug-life-v2",
@@ -341,6 +351,7 @@ export const westernsaharaLifeV2: POI[] = [
       ro: ["Situată în masivul Adrar Souttouf, un lanț muntos de granit.", "Una dintre puținele surse permanente de apă din sudul Saharei.", "Habitat important pentru oaia cu coamă (Ammotragus lervia), specie periclitată.", "Temperatura apei în guelta rămâne relativ constantă datorită adâncimii.", "Conține descoperiri preistorice care datează din perioada neolitică.", "Servește ca rezervă de urgență pentru nomazi în perioadele de secetă extremă."],
       en: ["Located within the Adrar Souttouf massif, a major granite mountain range.", "One of the only permanent natural water basins in the southern Sahara.", "A critical sanctuary for the endangered Barbary sheep (Ammotragus lervia).", "Water temperatures within the guelta are buffered by the surrounding rock.", "The area features numerous Neolithic archaeological artifacts and sites.", "Acts as a life-saving water reserve for nomadic tribes during severe droughts."],
     },
+    image: "/poi-images/westernsahara-guelta-de-zoug-life-v2.webp",
   },
   {
     id: "westernsahara-dakhla-peninsula-life-v2",
@@ -372,6 +383,7 @@ export const westernsaharaLifeV2: POI[] = [
       ro: ["Peninsula se întinde pe aproximativ 40 km în direcția nord-sud.", "Fondată în 1884 de spanioli sub numele de Villa Cisneros.", "Laguna dintre peninsulă și continent are o lățime de cca. 10-12 km.", "Unul dintre cele mai bune locuri din lume pentru kitesurfing și sporturi nautice.", "Găzduiește o populație semnificativă de delfini cu cocoașă atlantici.", "Loc faimos de ședere pentru Antoine de Saint-Exupéry în anii 1920."],
       en: ["The peninsula extends roughly 40 km in a north-south orientation.", "Established by Spanish explorers in 1884 as Villa Cisneros.", "The interior lagoon averages between 10 to 12 kilometers in width.", "Consistently ranked as one of the world's top five kitesurfing locations.", "Home to a significant population of the rare Atlantic humpback dolphin.", "Famously hosted the aviator Antoine de Saint-Exupéry in the 1920s."],
     },
+    image: "/poi-images/westernsahara-dakhla-peninsula-life-v2.webp",
   },
   {
     id: "westernsahara-smara-desert-wildlife-life-v2",
@@ -403,6 +415,7 @@ export const westernsaharaLifeV2: POI[] = [
       ro: ["Orașul Smara a fost fondat în 1898 de șeicul Ma al-Aynayn.", "Temperaturile de vară depășesc în mod regulat pragul de 45 °C.", "Habitat natural pentru vulpea fennec (Vulpes zerda).", "Peisajul este dominat de hammada, respectiv deșertul de piatră.", "Zonă bogată în situri arheologice cu gravuri rupestre preistorice.", "Precipitațiile anuale sunt extrem de scăzute, sub 50 mm."],
       en: ["Smara was founded in 1898 by the Sahrawi leader Sheikh Ma al-Aynayn.", "Summer temperatures in the zone regularly exceed 45 degrees Celsius.", "Home to the fennec fox (Vulpes zerda), the world's smallest canid.", "The landscape is primarily composed of hammada or stony desert.", "Significant archaeological site containing prehistoric rock engravings.", "Annual precipitation often remains below 50 mm in this region."],
     },
+    image: "/poi-images/westernsahara-smara-desert-wildlife-life-v2.webp",
   },
   {
     id: "westernsahara-cabo-bajador-wildlife-life-v2",
@@ -434,6 +447,7 @@ export const westernsaharaLifeV2: POI[] = [
       ro: ["Prima navigare reușită în jurul capului de către Gil Eanes în 1434.", "Punct cheie pentru curentul rece al Canarelor din Oceanul Atlantic.", "Fost refugiu pentru foca călugăr mediteraneeană (Monachus monachus).", "Coasta este cunoscută pentru recifele sale submarine periculoase.", "Centru al pescuitului datorită bogăției mari de plancton.", "Regiunea face parte din ecoregiunea deșertului de coastă saharo-atlantic."],
       en: ["First successfully rounded by the Portuguese explorer Gil Eanes in 1434.", "Key location for the cold Canary Current in the Atlantic Ocean.", "Former habitat for the critically endangered Mediterranean monk seal.", "The coastline is famous for its dangerous underwater reefs.", "A hub for fishing activities due to high plankton concentration.", "Part of the Saharan-Atlantic coastal desert ecoregion."],
     },
+    image: "/poi-images/westernsahara-cabo-bajador-wildlife-life-v2.webp",
   },
   {
     id: "westernsahara-mahbes-park-wildlife-life-v2",
@@ -465,6 +479,7 @@ export const westernsaharaLifeV2: POI[] = [
       ro: ["Localizare geografică în apropierea punctului de frontieră triplă cu Algeria și Mauritania.", "Habitat pentru gazela Dorcas (Gazella dorcas), specie amenințată.", "Prezența șoimului berber (Falco pelegrinoides) în regiunile stâncoase.", "Regiunea a fost un teatru de operațiuni central în conflictul din Sahara Occidentală.", "Flora tipică include Calotropis procera (mărul Sodomei).", "Coridor de migrație important pentru ungulatele sahariene."],
       en: ["Geographically located near the tri-border point with Algeria and Mauritania.", "Habitat for the endangered Dorcas gazelle (Gazella dorcas).", "Presence of the Barbary falcon (Falco pelegrinoides) in rocky areas.", "The region was a central site during the Western Sahara conflict.", "Typical flora includes the Calotropis procera (Sodom apple).", "Vital migration corridor for Saharan ungulates."],
     },
+    image: "/poi-images/westernsahara-mahbes-park-wildlife-life-v2.webp",
   },
   {
     id: "westernsahara-oued-sakia-el-hamra-life-v2",
@@ -496,6 +511,7 @@ export const westernsaharaLifeV2: POI[] = [
       ro: ["Eponim pentru regiunea Saguia el-Hamra.", "Vărsare în Oceanul Atlantic lângă orașul Laayoune.", "Prezența barajului Foum-el-Oued pentru reglarea debitului.", "Loc de popas important pentru păsări migratoare precum flamingo roz.", "Culoarea roșie a sedimentelor a dat numele râului.", "Prezența plantațiilor de palmieri în secțiunile mai umede."],
       en: ["The namesake of the Saguia el-Hamra region.", "Empties into the Atlantic Ocean near the city of Laayoune.", "Home to the Foum-el-Oued dam for water management.", "Vital resting point for migratory birds like the greater flamingo.", "The river's name is derived from the red color of its sediment.", "Presence of palm groves in the more humid sections of the riverbed."],
     },
+    image: "/poi-images/westernsahara-oued-sakia-el-hamra-life-v2.webp",
   },
   {
     id: "westernsahara-le-zoug-zone-life-v2",
@@ -527,6 +543,7 @@ export const westernsaharaLifeV2: POI[] = [
       ro: ["Prezența inselbergurilor de granit proeminente în peisajul deșertic.", "Sursă importantă de picturi rupestre preistorice.", "Localizare în sud-estul țării, lângă granița cu Mauritania.", "Habitat pentru reptile de deșert și rozătoare specializate.", "Regiunea este aproape complet nelocuită și sălbatică.", "Zonă de pășunat importantă pentru crescătorii nomazi de cămile."],
       en: ["Features striking granite inselbergs rising from the desert floor.", "Home to significant prehistoric rock paintings and engravings.", "Located in the far southeast near the border with Mauritania.", "A habitat for specialized desert reptiles and small rodents.", "The region remains almost entirely uninhabited and pristine.", "Vital grazing grounds for nomadic camel herders."],
     },
+    image: "/poi-images/westernsahara-le-zoug-zone-life-v2.webp",
   },
   {
     id: "westernsahara-laayoune-coast-wildlife-life-v2",
@@ -558,6 +575,7 @@ export const westernsaharaLifeV2: POI[] = [
       ro: ["Localizată la gura de vărsare a râului Oued Sakia El Hamra.", "Apariția regulată a ceții de coastă datorită curentului Canarelor.", "Loc de popas crucial pentru păsări pe ruta est-atlantică.", "Prezența delfinilor cu bot gros în apropierea coastei.", "Port important de export pentru fosfați în vecinătate.", "Loc de cuibărit pentru țestoasa de mare Loggerhead, specie amenințată."],
       en: ["Located at the mouth of the Oued Sakia El Hamra river.", "Frequent occurrence of coastal fog due to the Canary Current.", "Vital resting point for birds on the East Atlantic flyway.", "Bottlenose dolphins are frequently sighted near the shore.", "Nearby site of a major phosphate export terminal.", "Nesting ground for the endangered loggerhead sea turtle."],
     },
+    image: "/poi-images/westernsahara-laayoune-coast-wildlife-life-v2.webp",
   },
   {
     id: "westernsahara-bou-jdour-rocks-life-v2",
@@ -589,6 +607,7 @@ export const westernsaharaLifeV2: POI[] = [
       ro: ["Compoziție geologică din roci sedimentare și calcar.", "Prezența fosilelor din era mezozoică în straturile de rocă.", "Locuri de cuibărit importante pentru pescărușul cu picioare galbene.", "Formarea bazinelor de maree cu biodiversitate ridicată la reflux.", "Eroziune costieră dramatică provocată de valurile puternice ale Atlanticului.", "Stâncile au servit în trecut ca puncte de reper pentru navigatori."],
       en: ["Geologically composed of sedimentary rock and limestone.", "Contains fossils from the Mesozoic era within the rock layers.", "Significant nesting sites for yellow-legged gulls and other seabirds.", "Features tidal pools with high biodiversity during low tide.", "Subject to dramatic coastal erosion from powerful Atlantic swells.", "The rocks historically served as navigation landmarks for sailors."],
     },
+    image: "/poi-images/westernsahara-bou-jdour-rocks-life-v2.webp",
   },
   {
     id: "westernsahara-guelta-arouey-life-v2",
@@ -620,6 +639,7 @@ export const westernsaharaLifeV2: POI[] = [
       ro: ["Punct de apă permanent sau semi-permanent într-o formațiune stâncoasă.", "Centru de biodiversitate pentru fauna sălbatică sahariană.", "Punct de atracție important pentru gazela Dorcas, specie amenințată.", "Loc de popas istoric pentru caravane și nomazi.", "Protecție împotriva evaporării datorită localizării într-un defileu.", "Prezența unor specii specializate de libelule și amfibieni."],
       en: ["A permanent or semi-permanent water hole within a rock formation.", "A biodiversity hub for Saharan wildlife species.", "Crucial watering point for the endangered Dorcas gazelle.", "Historical resting stop for caravans and nomadic tribes.", "Protected from evaporation due to its location within a canyon.", "Home to specialized species of dragonflies and amphibians."],
     },
+    image: "/poi-images/westernsahara-guelta-arouey-life-v2.webp",
   },
   {
     id: "westernsahara-tichla-wildlife-life-v2",
@@ -651,6 +671,7 @@ export const westernsaharaLifeV2: POI[] = [
       ro: ["Localizată în ecoregiunea Saharei de Sud.", "Locație importantă pentru proiectele de reintroducere a struțului nord-african.", "Prezența unor specii de salcâm precum Acacia tortilis.", "Post de frontieră strategic în sectorul sudic.", "Regiunea este marcată de suprafețe vaste de reg (deșert de pietriș).", "Habitat pentru pasărea rară numită alergătorul de deșert."],
       en: ["Located within the South Saharan ecoregion.", "A key site for reintroduction projects of the North African ostrich.", "Home to acacia species such as Acacia tortilis.", "Serves as a strategic border post in the southern sector.", "The region is characterized by extensive reg or gravel desert surfaces.", "Habitat for the rare Cream-colored Courser bird."],
     },
+    image: "/poi-images/westernsahara-tichla-wildlife-life-v2.webp",
   },
   {
     id: "westernsahara-sebkhat-dora-wetland-life-v2",
@@ -682,6 +703,7 @@ export const westernsaharaLifeV2: POI[] = [
       ro: ["Câmpie sărată extinsă cu regim de apă sezonier.", "Habitat important pentru flamingo și păsări de țărm.", "Crusta de sare poate atinge o grosime de câțiva centimetri.", "Prezența plantelor halofile precum sărărica.", "Zona este situată într-o depresiune fără scurgere naturală.", "Locație semnificativă pentru studiul organismelor extremofile."],
       en: ["Extensive salt pan with seasonal water presence.", "Vital habitat for flamingos and various wading birds.", "The salt crust can reach several centimeters in thickness.", "Home to halophilic plants such as saltwort.", "The area is located in a basin with no natural outlet.", "Important site for the study of extremophile microorganisms."],
     },
+    image: "/poi-images/westernsahara-sebkhat-dora-wetland-life-v2.webp",
   },
   {
     id: "westernsahara-bou-jdour-coastal-life-v2",
@@ -713,6 +735,7 @@ export const westernsaharaLifeV2: POI[] = [
       ro: ["Influența curentului rece și bogat în nutrienți al Canarelor.", "Prezența dunelor migratoare modelate de vânturile alizee.", "Locație importantă pentru pescuitul artizanal și industrial.", "Prezența păsărilor marine precum cormoranul.", "Regiunea este cunoscută pentru farul său istoric.", "Flora de coastă este adaptată la secetă extremă și salinitate."],
       en: ["Influenced by the cold, nutrient-rich Canary Current.", "Features migrating sand dunes shaped by trade winds.", "A significant site for both artisanal and industrial fishing.", "Home to seabirds such as the great cormorant.", "The region is famous for its historical lighthouse.", "Coastal flora is highly adapted to extreme aridity and salinity."],
     },
+    image: "/poi-images/westernsahara-bou-jdour-coastal-life-v2.webp",
   },
   {
     id: "westernsahara-oued-draa-delta-life-v2",
@@ -744,6 +767,7 @@ export const westernsaharaLifeV2: POI[] = [
       ro: ["Granița naturală între Maroc și Sahara Occidentală.", "Zona de vărsare a celui mai lung râu din Africa de Nord (Draa).", "Zonă umedă de importanță internațională (Convenția Ramsar).", "Prezența lopătarului rar (Platalea leucorodia).", "Zonă de depunere a icrelor importantă pentru diverse specii de pești.", "Regiunea este marcată de nisipare puternică și formarea dunelor."],
       en: ["Forms the natural border between Morocco and Western Sahara.", "The estuary of the Draa, the longest river in the region.", "Internationally significant wetland under the Ramsar Convention.", "A habitat for the rare Eurasian spoonbill (Platalea leucorodia).", "An important spawning ground for various fish species.", "The area is characterized by heavy siltation and dune formation."],
     },
+    image: "/poi-images/westernsahara-oued-draa-delta-life-v2.webp",
   },
   {
     id: "westernsahara-tifariti-rock-life-v2",
@@ -775,6 +799,7 @@ export const westernsaharaLifeV2: POI[] = [
       ro: ["Centru important de picturi și gravuri rupestre preistorice.", "Formațiuni geologice compuse din gresie masivă.", "Centru administrativ al Republicii Arabe Saharawi Democrate.", "Reprezentări de animale precum elefanți și rinoceri pe stânci.", "Habitat pentru geco de perete maur (Tarentola mauritanica).", "Locație importantă pentru evenimente culturale și situri comemorative."],
       en: ["A major center for prehistoric rock paintings and engravings.", "Geological formations composed of massive sandstone.", "Administrative center of the Sahrawi Arab Democratic Republic.", "Features rock art depicting animals like elephants and rhinoceroses.", "Habitat for the Moorish wall gecko (Tarentola mauritanica).", "An important site for cultural events and memorial sites."],
     },
+    image: "/poi-images/westernsahara-tifariti-rock-life-v2.webp",
   },
   {
     id: "westernsahara-bir-mogrein-wildlife-life-v2",
@@ -806,6 +831,7 @@ export const westernsaharaLifeV2: POI[] = [
       ro: ["Localizată în zona de frontieră izolată cu Mauritania.", "Prezența formațiunilor de cuarțit și granit.", "Habitat pentru vipera cu coarne (Cerastes cerastes).", "Punct de întâlnire important pentru triburile nomade Reguibat.", "Precipitații anuale extrem de scăzute, sub 40 mm.", "Prezența unor păsări de pradă rare, cum ar fi vulturul egiptean."],
       en: ["Located in the remote border region near Mauritania.", "Features distinctive quartzite and granite formations.", "Habitat for the Saharan horned viper (Cerastes cerastes).", "A vital hub for the nomadic Reguibat tribes.", "Extremely low annual precipitation, often under 40 mm.", "Home to rare birds of prey such as the Egyptian vulture."],
     },
+    image: "/poi-images/westernsahara-bir-mogrein-wildlife-life-v2.webp",
   },
   {
     id: "westernsahara-guelta-de-zoug-nature-life-v2",
@@ -837,5 +863,6 @@ export const westernsaharaLifeV2: POI[] = [
       ro: ["Unul dintre puținele bazine de apă permanente din regiune.", "Habitat pentru populații relicte de pești de deșert.", "Loc de adăpare vital pentru oaia cu coamă (Ammotragus lervia).", "Prezența mușchilor și ferigilor rare în crăpăturile stâncilor.", "Apa este protejată de soarele direct datorită poziției adânci.", "Sanctuar cultural semnificativ pentru populația locală."],
       en: ["One of the few permanent water basins in the entire region.", "Home to relict populations of specialized desert fish.", "A vital watering site for the Barbary sheep (Ammotragus lervia).", "Supports rare mosses and ferns within shaded rock crevices.", "The water is naturally sheltered from the sun by deep rock walls.", "Holds significant cultural and spiritual value for local people."],
     },
+    image: "/poi-images/westernsahara-guelta-de-zoug-nature-life-v2.webp",
   }
 ];

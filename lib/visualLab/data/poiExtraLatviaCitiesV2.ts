@@ -32,6 +32,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Statut de oraș primit în 1928", "Populație: aproximativ 5.700 locuitori", "Distanța față de Riga: 210 km", "Situat în regiunea istorică Latgale", "Găzduiește un conac din secolul XVIII", "Altitudine medie: 120 metri"],
       en: ["Town rights granted in 1928", "Population: approx. 5,700 residents", "Distance from Riga: 210 kilometers", "Located in the Latgale region", "Features a 1760s manor house", "Area: 5.1 square kilometers"],
     },
+    image: "/poi-images/latvia-balvi-cities-v2.webp",
   },
   {
     id: "latvia-talsi-cities-v2",
@@ -64,6 +65,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Construit pe 9 dealuri distincte", "Populație: circa 8.800 locuitori", "Regiunea istorică: Curlanda", "Drepturi de oraș din anul 1917", "Situat lângă lacul Talsi", "Distanța de capitală: 110 km"],
       en: ["Built on nine historical hills", "Population: approx. 8,800", "Located in the Courland region", "Town rights since 1917", "Bordered by Lake Talsi", "Distance to Riga: 110 km"],
     },
+    image: "/poi-images/latvia-talsi-cities-v2.webp",
   },
   {
     id: "latvia-madona-cities-v2",
@@ -96,6 +98,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Altitudine maximă: 190 metri", "Statut de oraș din anul 1926", "Situat în regiunea Vidzeme", "Populație: cca. 6.700 locuitori", "Centru național de biatlon", "Atentat documentar din 1461"],
       en: ["Elevation: up to 190 meters", "Town rights granted in 1926", "Located in the Vidzeme region", "Population: approx. 6,700", "Major Nordic skiing destination", "First mentioned in records in 1461"],
     },
+    image: "/poi-images/latvia-madona-cities-v2.webp",
   },
   {
     id: "latvia-ludza-cities-v2",
@@ -128,6 +131,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Prima mențiune documentară în 1177.", "Castelul a fost construit în 1399.", "Un incendiu major a avut loc în 1938.", "Centru important în regiunea Latgale."],
       en: ["First mentioned in 1177.", "Castle construction started in 1399.", "A major fire occurred in 1938.", "Key center of the Latgale region."],
     },
+    image: "/poi-images/latvia-ludza-cities-v2.webp",
   },
   {
     id: "latvia-krustpils-cities-v2",
@@ -160,6 +164,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Castel construit în secolul XIII", "Oraș independent între 1920-1962", "Nod feroviar pe ruta Riga-Daugavpils", "Unit cu Jēkabpils în anul 1962", "Situat în regiunea Latgale", "Controla trecerea peste râul Daugava"],
       en: ["Castle established in 13th century", "Independent town rights in 1920", "Key station on Riga-Daugavpils line", "Merged with Jēkabpils in 1962", "Westernmost part of Latgale", "Strategic crossing point of Daugava"],
     },
+    image: "/poi-images/latvia-krustpils-cities-v2.webp",
   },
   {
     id: "latvia-siguldas-pilseta-cities-v2",
@@ -192,6 +197,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Parcul Național Gauja creat în 1973.", "Pista de bob deschisă în 1986.", "Castelul Turaida datat din 1214.", "Diferență de nivel de circa 80 m."],
       en: ["Gauja National Park founded in 1973.", "Bobsleigh track opened in 1986.", "Turaida Castle built in 1214.", "Elevation difference of about 80m."],
     },
+    image: "/poi-images/latvia-siguldas-pilseta-cities-v2.webp",
   },
   {
     id: "latvia-vangaži-cities-v2",
@@ -224,6 +230,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Statut de oraș primit în 1991", "Populație: aproximativ 3.200 locuitori", "Distanța față de Riga: 30 km", "Centru de producție a betonului", "Situat în regiunea Vidzeme", "Traversat de râul Vangažupīte"],
       en: ["Town rights granted in 1991", "Population: approx. 3,200", "Located 30 km from Riga", "Known for concrete manufacturing", "Part of the Vidzeme region", "Situated on the Vangažupīte river"],
     },
+    image: "/poi-images/latvia-vangaži-cities-v2.webp",
   },
   {
     id: "latvia-skrunda-cities-v2",
@@ -256,6 +263,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Prima atestare în anul 1253.", "Statut de oraș obținut în 1996.", "Stația radar Skrunda-1 (fostă).", "Situat pe magistrala rutieră A9."],
       en: ["First mentioned in 1253.", "Town status granted in 1996.", "Skrunda-1 radar site (former).", "Located on the A9 highway."],
     },
+    image: "/poi-images/latvia-skrunda-cities-v2.webp",
   },
   {
     id: "latvia-cesvaine-cities-v2",
@@ -288,6 +296,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Castel finalizat în anul 1897", "Statut de oraș din anul 1991", "Populație: cca. 1.200 locuitori", "Fostă reședință episcopală", "Regiunea istorică Vidzeme", "Arhitectură de tip neorenascentist"],
       en: ["Palace completed in 1897", "Town rights since 1991", "Population: approx. 1,200", "Historical seat of a bishop", "Located in the Vidzeme region", "Known for its unique local brewery"],
     },
+    image: "/poi-images/latvia-cesvaine-cities-v2.webp",
   },
   {
     id: "latvia-strenci-cities-v2",
@@ -320,6 +329,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Statut de oraș din anul 1928", "Capitala istorică a plutașilor", "Populație: aproximativ 1.000 locuitori", "Situat în regiunea Vidzeme", "Găzduiește un spital psihiatric vechi", "Localizat pe cursul râului Gauja"],
       en: ["Town rights granted in 1928", "Latvia's historic rafting capital", "Population: approx. 1,000", "Located in the Vidzeme region", "Home to a famous historic hospital", "Situated within the Gauja valley"],
     },
+    image: "/poi-images/latvia-strenci-cities-v2.webp",
   },
   {
     id: "latvia-viesite-cities-v2",
@@ -352,6 +362,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Statut de oraș din anul 1928", "Centru cultural al regiunii Selonia", "Populație: aproximativ 1.500 locuitori", "Muzeul căii ferate înguste local", "Regiunea istorică Sēlija", "Fost nod feroviar important"],
       en: ["Town rights granted in 1928", "Cultural center of Selonia region", "Population: approx. 1,500", "Home to a narrow-gauge railway museum", "Located in the Sēlija region", "Historical rail transport hub"],
     },
+    image: "/poi-images/latvia-viesite-cities-v2.webp",
   },
   {
     id: "latvia-ilukste-cities-v2",
@@ -384,6 +395,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Fondat în anul 1550.", "Centru al regiunii istorice Selonia.", "Traversat de râul Ilūkste.", "Distrus în proporție de 90% în 1915."],
       en: ["Founded in 1550.", "Center of the Selonia region.", "Bisected by the Ilūkste River.", "90% destruction in 1915."],
     },
+    image: "/poi-images/latvia-ilukste-cities-v2.webp",
   },
   {
     id: "latvia-subate-cities-v2",
@@ -416,6 +428,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Fondat în jurul anului 1570.", "Situat pe malul lacului Subate.", "Centru al culturii luterane.", "Statut de oraș primit în 1917."],
       en: ["Founded around 1570.", "Located by Lake Subate.", "Center of Lutheran culture.", "Town status granted in 1917."],
     },
+    image: "/poi-images/latvia-subate-cities-v2.webp",
   },
   {
     id: "latvia-karls-cities-v2",
@@ -448,6 +461,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Statut de oraș din anul 1928", "Situat în regiunea Latgale", "Populație: cca. 1.900 locuitori", "Punct vamal feroviar important", "Aproape de frontiera cu Rusia", "Biserică catolică în stil baroc"],
       en: ["Town rights granted in 1928", "Located in the Latgale region", "Population: approx. 1,900", "Near the Latvian-Russian border", "Key railway junction point", "Features a Baroque Catholic church"],
     },
+    image: "/poi-images/latvia-karls-cities-v2.webp",
   },
   {
     id: "latvia-zilupe-cities-v2",
@@ -480,6 +494,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Cel mai estic oraș leton", "Statut de oraș din anul 1931", "Situat în regiunea Latgale", "Populație: cca. 1.300 locuitori", "Stație de frontieră feroviară", "Numele provine de la râul Zilupe"],
       en: ["Easternmost town in Latvia", "Town rights granted in 1931", "Located in the Latgale region", "Population: approx. 1,300", "Strategic border crossing station", "Named after the Zilupe River"],
     },
+    image: "/poi-images/latvia-zilupe-cities-v2.webp",
   },
   {
     id: "latvia-varaklani-cities-v2",
@@ -512,6 +527,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Conac construit între 1783-1789", "Statut de oraș din anul 1928", "Regiunea istorică: Latgale", "Populație: cca. 1.700 locuitori", "Stil arhitectural neoclasic", "Fostă proprietate a familiei Borch"],
       en: ["Manor built between 1783-1789", "Town rights since 1928", "Located in the Latgale region", "Population: approx. 1,700", "Features a neoclassical design", "Former seat of the Borch family"],
     },
+    image: "/poi-images/latvia-varaklani-cities-v2.webp",
   },
   {
     id: "latvia-janunpils-cities-v2",
@@ -544,6 +560,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Castel construit în jurul anului 1301", "Situat în regiunea Zemgale", "Castel cu șanț de apă medieval", "Populație: aproximativ 800 locuitori", "Găzduiește evenimente medievale", "Arhitectură de tip fortăreață"],
       en: ["Castle built around 1301", "Located in the Semigallia region", "Features a rare moated fortification", "Population: approx. 800 residents", "Museum and medieval restaurant", "Hosts annual medieval festivals"],
     },
+    image: "/poi-images/latvia-janunpils-cities-v2.webp",
   },
   {
     id: "latvia-priedaine-cities-v2",
@@ -576,6 +593,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["District al orașului Jūrmala", "Situat pe malul râului Lielupe", "Casă pentru Duna Albă (monument)", "Regiunea geografică Zemgale", "Nod de transport local feroviar", "Acces facil către Marea Baltică"],
       en: ["Part of the Jūrmala city area", "Situated by the Lielupe River", "Home to the famous White Dune", "Located in the Semigallia region", "Key railway stop for commuters", "Surrounded by historic pine forests"],
     },
+    image: "/poi-images/latvia-priedaine-cities-v2.webp",
   },
   {
     id: "latvia-ape-cities-v2",
@@ -608,6 +626,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Statut de oraș din anul 1928", "Situat pe frontiera cu Estonia", "Regiunea istorică: Vidzeme", "Populație: cca. 800 locuitori", "Arhitectură specifică din dolomită", "Traversat de râul Vaidava"],
       en: ["Town rights granted in 1928", "Located on the Estonian border", "Part of the Vidzeme region", "Population: approx. 800 residents", "Famous for local dolomite buildings", "Situated in the Vaidava valley"],
     },
+    image: "/poi-images/latvia-ape-cities-v2.webp",
   },
   {
     id: "latvia-valdemarpils-cities-v2",
@@ -640,6 +659,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Statut de oraș din anul 1917", "Regiunea istorică: Curlanda", "Situat pe malul lacului Sasmaka", "Numit după liderul naționalist Valdemārs", "Populație: cca. 1.200 locuitori", "Găzduiește monumente religioase vechi"],
       en: ["Town rights granted in 1917", "Located in the Courland region", "Situated by Lake Sasmaka", "Named after Krišjānis Valdemārs", "Population: approx. 1,200", "Features a historic wooden church"],
     },
+    image: "/poi-images/latvia-valdemarpils-cities-v2.webp",
   },
   {
     id: "latvia-stende-cities-v2",
@@ -672,6 +692,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Statut de oraș din anul 1991", "Situat în regiunea Curlanda", "Nod feroviar pe ruta Riga-Ventspils", "Centru de cercetare în selecția grânelor", "Populație: aproximativ 1.600 locuitori", "Dezvoltat în jurul gării"],
       en: ["Town rights granted in 1991", "Located in the Courland region", "Key stop on Riga-Ventspils railway", "Home to a crop breeding station", "Population: approx. 1,600", "Major grain research center"],
     },
+    image: "/poi-images/latvia-stende-cities-v2.webp",
   },
   {
     id: "latvia-alksne-cities-v2",
@@ -704,6 +725,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Altitudine de 200 m peste nivelul mării.", "Muzeul Bibliei înființat de Ernst Glück.", "Calea ferată 'Bānītis' din 1903.", "Ruinele castelului Marienburg (1342)."],
       en: ["Elevation of 200m above sea level.", "Ernst Glück Bible Museum.", "'Bānītis' narrow-gauge rail (1903).", "Marienburg castle ruins (1342)."],
     },
+    image: "/poi-images/latvia-alksne-cities-v2.webp",
   },
   {
     id: "latvia-dagda-cities-v2",
@@ -736,6 +758,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Biserica catolică datând din 1741.", "Parcul conacului din sec. XVIII.", "Populație de aprox. 1800 locuitori.", "Situat în regiunea istorică Latgale."],
       en: ["Catholic Church built in 1741.", "Manor park from the 18th century.", "Population approx. 1,800.", "Part of the Latgale region."],
     },
+    image: "/poi-images/latvia-dagda-cities-v2.webp",
   },
   {
     id: "latvia-kandava-cities-v2",
@@ -768,6 +791,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Cel mai vechi pod de piatră (1873)", "Drepturi de oraș din anul 1917", "Situat în valea râului Abava", "Populație: cca. 3.300 locuitori", "Găzduiește un turn de pulbere istoric", "Regiunea istorică: Curlanda"],
       en: ["Oldest stone bridge in Latvia (1873)", "Town rights since 1917", "Located in the Abava Valley", "Population: approx. 3,300", "Famous for its historic Powder Tower", "Known as Courland's Switzerland"],
     },
+    image: "/poi-images/latvia-kandava-cities-v2.webp",
   },
   {
     id: "latvia-priekule-cities-v2",
@@ -800,6 +824,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Poarta Suedeză construită în 1688", "Statut de oraș din anul 1928", "Regiunea istorică Curlanda", "Cel mai mare cimitir militar din țară", "Populație: cca. 1.800 locuitori", "Aproape de frontiera cu Lituania"],
       en: ["Swedish Gate built in 1688", "Town rights granted in 1928", "Located in the Courland region", "Site of Latvia's largest war cemetery", "Population: approx. 1,800", "Situated near the Lithuanian border"],
     },
+    image: "/poi-images/latvia-priekule-cities-v2.webp",
   },
   {
     id: "latvia-durbe-cities-v2",
@@ -832,6 +857,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Bătălia de la Durbe din 1260.", "Statut de oraș din anul 1893.", "Lacul Durbe are 9,7 km².", "Stemă reprezentând un măr."],
       en: ["Battle of Durbe in 1260.", "Town status since 1893.", "Lake Durbe area is 9.7 km².", "Coat of arms depicts an apple tree."],
     },
+    image: "/poi-images/latvia-durbe-cities-v2.webp",
   },
   {
     id: "latvia-vainode-cities-v2",
@@ -864,6 +890,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Fost aerodrom militar strategic", "Situat în regiunea Curlanda", "Populație: cca. 1.500 locuitori", "La granița cu Lituania", "Găzduiește parcul dendrologic Embūte", "Nod istoric de transport aerian"],
       en: ["Site of a massive former airbase", "Located in the Courland region", "Population: approx. 1,500 residents", "Directly on the Lithuanian border", "Known for the Embūte nature park", "Significant Cold War history site"],
     },
+    image: "/poi-images/latvia-vainode-cities-v2.webp",
   },
   {
     id: "latvia-broceni-cities-v2",
@@ -896,6 +923,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Statut de oraș din anul 1992", "Regiunea istorică: Curlanda", "Situat pe malul lacului Ciecere", "Principal producător de ciment", "Populație: cca. 2.800 locuitori", "Exploatări mari de calcar local"],
       en: ["Town rights granted in 1992", "Located in the Courland region", "Situated by Lake Ciecere", "Major center for cement manufacturing", "Population: approx. 2,800", "Large active limestone quarries"],
     },
+    image: "/poi-images/latvia-broceni-cities-v2.webp",
   },
   {
     id: "latvia-eleja-cities-v2",
@@ -928,6 +956,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Conac distrus în Primul Război Mondial", "Regiunea istorică: Zemgale", "Situat la frontiera cu Lituania", "Populație: cca. 1.500 locuitori", "Găzduiește o Casă de Ceai istorică", "Nod rutier pe axa Riga-Šiauliai"],
       en: ["Manor destroyed in World War I", "Located in the Semigallia region", "Near the Lithuanian border", "Population: approx. 1,500 residents", "Famous for its restored tea house", "Key junction on the Riga-Šiauliai road"],
     },
+    image: "/poi-images/latvia-eleja-cities-v2.webp",
   },
   {
     id: "latvia-auc-cities-v2",
@@ -960,6 +989,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Prima atestare în anul 1426.", "Palatul Vecauce construit în 1845.", "Centru de cercetare agricolă.", "Regiune limitrofă cu Lituania."],
       en: ["First mentioned in 1426.", "Vecauce Palace built in 1845.", "Agricultural research hub.", "Border region near Lithuania."],
     },
+    image: "/poi-images/latvia-auc-cities-v2.webp",
   },
   {
     id: "latvia-tervete-cities-v2",
@@ -992,6 +1022,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Reședința regilor semigali.", "Parc natural creat în 1958.", "Reconstrucție de cetate din lemn.", "Locul natal al Annei Brigadere."],
       en: ["Seat of Semigallian kings.", "Nature park founded in 1958.", "Wooden hillfort reconstruction.", "Home of writer Anna Brigadere."],
     },
+    image: "/poi-images/latvia-tervete-cities-v2.webp",
   },
   {
     id: "latvia-berze-cities-v2",
@@ -1024,6 +1055,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Locul de naștere al lui Kārlis Ulmanis", "Situat în regiunea Zemgale", "Găzduiește muzeul memorial 'Pikšas'", "Traversat de râul Bērze", "Complex de ferme tradiționale", "Moară istorică restaurată"],
       en: ["Birthplace of president Kārlis Ulmanis", "Located in the Semigallia region", "Home to the 'Pikšas' memorial museum", "Situated on the Bērze River", "Preserved traditional Baltic farmsteads", "Historic water mill site"],
     },
+    image: "/poi-images/latvia-berze-cities-v2.webp",
   },
   {
     id: "latvia-galdnieki-cities-v2",
@@ -1056,6 +1088,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Structură de așezare rurală", "Regiunea istorică: Vidzeme", "Populație: sub 500 locuitori", "Arhitectură din lemn conservată", "Bază economică agricolă", "Peisaj natural nealterat"],
       en: ["Rural settlement structure", "Often located in the Vidzeme region", "Population typically under 500", "Traditional wooden house designs", "Agricultural economic base", "Surrounded by natural landscapes"],
     },
+    image: "/poi-images/latvia-galdnieki-cities-v2.webp",
   },
   {
     id: "latvia-vane-cities-v2",
@@ -1088,6 +1121,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Conac istoric în Vāne.", "Situat pe valea râului Imula.", "Agricultură tradițională locală.", "Districtul Tukums (Curlanda)."],
       en: ["Historic Vāne Manor house.", "Located by the Imula River bend.", "Traditional local agriculture.", "Tukums district, Kurzeme."],
     },
+    image: "/poi-images/latvia-vane-cities-v2.webp",
   },
   {
     id: "latvia-zante-cities-v2",
@@ -1120,6 +1154,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Conac din secolul al XIX-lea", "Regiunea istorică Curlanda", "Muzeu de istorie militară local", "Populație: aproximativ 600 locuitori", "Situat lângă dealuri glaciare", "Parc dendrologic adiacent conacului"],
       en: ["19th-century Zante Manor house", "Located in the Courland region", "Home to a military history museum", "Population: approx. 600 residents", "Highest elevation point of Courland nearby", "Surrounded by a scenic manor park"],
     },
+    image: "/poi-images/latvia-zante-cities-v2.webp",
   },
   {
     id: "latvia-zirni-cities-v2",
@@ -1152,6 +1187,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Regiunea istorică: Curlanda", "Așezare bazată pe agricultură", "Populație: cca. 500 locuitori", "Situat pe magistrala rutieră A9", "Numele se traduce prin 'mazăre'", "Aproape de centrul regional Saldus"],
       en: ["Located in the Courland region", "Agricultural-based community", "Population: approx. 500 residents", "Situated along the A9 highway", "Name translates to 'peas' in Latvian", "Close proximity to the town of Saldus"],
     },
+    image: "/poi-images/latvia-zirni-cities-v2.webp",
   },
   {
     id: "latvia-kursisi-cities-v2",
@@ -1184,6 +1220,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Districtul Saldus (Curlanda).", "Clădire școlară istorică.", "Focalizare pe dezvoltare rurală.", "Populație sub 1000 locuitori."],
       en: ["Saldus district, Kurzeme.", "Historic school building.", "Rural development focus.", "Population under 1,000."],
     },
+    image: "/poi-images/latvia-kursisi-cities-v2.webp",
   },
   {
     id: "latvia-ezere-cities-v2",
@@ -1216,6 +1253,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Locul semnării capitulării din 1945", "Regiunea istorică: Curlanda", "Conac din secolul al XVIII-lea", "Populație: cca. 1.100 locuitori", "Traversat de râul Ezere", "Punct de trecere a frontierei"],
       en: ["Site of the 1945 WWII surrender", "Located in the Courland region", "18th-century Ezere Manor house", "Population: approx. 1,100 residents", "Situated on the Ezere River", "Strategic town on the Lithuanian border"],
     },
+    image: "/poi-images/latvia-ezere-cities-v2.webp",
   },
   {
     id: "latvia-nisa-cities-v2",
@@ -1248,6 +1286,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Faimos pentru costumele populare Nīca", "Situat în regiunea istorică Curlanda", "Aproape de coasta Marii Baltice", "Populație: cca. 1.500 locuitori", "Centru de conservare a folclorului", "Soluri fertile pentru legumicultură"],
       en: ["Renowned for the Nīca folk costume", "Located in the Courland region", "Near the Baltic Sea coast", "Population: approx. 1,500 residents", "Center for Latvian folk traditions", "Famous for its vibrant floral gardens"],
     },
+    image: "/poi-images/latvia-nisa-cities-v2.webp",
   },
   {
     id: "latvia-rucava-cities-v2",
@@ -1280,6 +1319,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Parcul Natural Pape în apropiere.", "Centru de cercetare etnografică.", "Costume populare din Rucava.", "Cea mai sudică comună din Curlanda."],
       en: ["Pape Nature Park nearby.", "Ethnographic research center.", "Unique Rucava folk costumes.", "Southernmost Kurzeme parish."],
     },
+    image: "/poi-images/latvia-rucava-cities-v2.webp",
   },
   {
     id: "latvia-kaleti-cities-v2",
@@ -1312,6 +1352,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Conacul istoric Kalēti", "Regiunea istorică: Curlanda", "Parc natural cu stejari seculari", "Populație: aproximativ 600 locuitori", "La frontieră cu Lituania", "Economie bazată pe silvicultură"],
       en: ["Historic Kalēti Manor estate", "Located in the Courland region", "Dendrological park with ancient oaks", "Population: approx. 600 residents", "Situated on the Lithuanian border", "Rich in forest resources"],
     },
+    image: "/poi-images/latvia-kaleti-cities-v2.webp",
   },
   {
     id: "latvia-embute-cities-v2",
@@ -1344,6 +1385,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Ruinele castelului (sec. XIII).", "Valea 'Joda leja' (a Diavolului).", "Cel mai înalt punct din vestul Curlandei.", "Ruine ale bisericii istorice."],
       en: ["Episcopal castle ruins (13th c.).", "'Joda leja' (Devil's Valley).", "Highest point in West Kurzeme.", "Historic church ruins."],
     },
+    image: "/poi-images/latvia-embute-cities-v2.webp",
   },
   {
     id: "latvia-laid-cities-v2",
@@ -1376,6 +1418,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Conac construit în anul 1840", "Regiunea istorică: Curlanda", "Ansamblu arhitectural neoclasic", "Populație: aproximativ 600 locuitori", "Găzduiește o școală locală istorică", "Grădină de pomi fructiferi veche"],
       en: ["Manor house built around 1840", "Located in the Courland region", "Neoclassical architectural ensemble", "Population: approx. 600 residents", "The manor currently houses a school", "Features a historic fruit orchard"],
     },
+    image: "/poi-images/latvia-laid-cities-v2.webp",
   },
   {
     id: "latvia-alsunga-cities-v2",
@@ -1408,6 +1451,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Patrimoniu UNESCO: cultura Suiti.", "Castelul construit în anul 1372.", "Enclavă catolică în Curlanda.", "Pâinea Suiti, specialitate locală."],
       en: ["UNESCO heritage: Suiti culture.", "Livonian castle built in 1372.", "Catholic enclave in Kurzeme.", "Suiti bread is a local specialty."],
     },
+    image: "/poi-images/latvia-alsunga-cities-v2.webp",
   },
   {
     id: "latvia-gudenieki-cities-v2",
@@ -1440,6 +1484,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Centru al comunității Suiti", "Patrimoniu imaterial UNESCO", "Regiunea istorică: Curlanda", "Renumit pentru cântările polifonice", "Populație: cca. 700 locuitori", "Enclavă catolică tradițională"],
       en: ["Heart of the Suiti cultural space", "UNESCO Intangible Cultural Heritage", "Located in the Courland region", "Famous for unique polyphonic drone singing", "Population: approx. 700 residents", "Catholic enclave in western Latvia"],
     },
+    image: "/poi-images/latvia-gudenieki-cities-v2.webp",
   },
   {
     id: "latvia-pelci-cities-v2",
@@ -1472,6 +1517,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Anul finalizării: 1904", "Arhitect: Wilhelm Neumann", "Distanța de Kuldīga: 12 km", "Găzduiește o bibliotecă din 1922", "Stil: Neorenascentist mixt", "Domeniul familiei von Lieven"],
       en: ["Completed in: 1904", "Architect: Wilhelm Neumann", "Distance to Kuldīga: 12 km", "Library established in 1922", "Style: Neo-Renaissance blend", "Commissioned by Prince Lieven"],
     },
+    image: "/poi-images/latvia-pelci-cities-v2.webp",
   },
   {
     id: "latvia-ventspils-raj-cities-v2",
@@ -1504,6 +1550,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Capitala Episcopiei Curlandei.", "Statut de oraș din anul 1557.", "Ruinele castelului (sec. XIV).", "Situat pe o buclă a râului Venta."],
       en: ["Capital of Bishopric of Courland.", "Town status since 1557.", "Bishop's castle ruins (14th c.).", "Located by the Venta River loop."],
     },
+    image: "/poi-images/latvia-ventspils-raj-cities-v2.webp",
   },
   {
     id: "latvia-ugale-cities-v2",
@@ -1536,6 +1583,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Biserica construită în 1694", "Orga datează din 1701", "Constructor orgă: C. Rhaneus", "Populație: aprox. 1.600", "Atestare documentară: 1253", "District: Ventspils"],
       en: ["Church built in 1694", "Organ dates to 1701", "Organ builder: Cornelius Rhaneus", "Population: ~1,600", "First mentioned in 1253", "Location: Ventspils Municipality"],
     },
+    image: "/poi-images/latvia-ugale-cities-v2.webp",
   },
   {
     id: "latvia-zuras-cities-v2",
@@ -1568,6 +1616,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Conacul istoric din Zūras.", "Prima școală agricolă din Baltica.", "Malul râului Venta (Ventspils).", "Centru de istorie agrară."],
       en: ["Historic Zūras Manor.", "First agricultural school in Baltics.", "Venta riverbank, Ventspils district.", "Center for agricultural history."],
     },
+    image: "/poi-images/latvia-zuras-cities-v2.webp",
   },
   {
     id: "latvia-puz-cities-v2",
@@ -1600,6 +1649,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Suprafață lac Puze: 5,2 km2", "Adâncime maximă: 33,6 m", "Conacul menționat în 1572", "Suprafață comună: 165,4 km2", "Râul din apropiere: Stende", "Regiune: Kurzeme"],
       en: ["Lake Puze area: 5.2 km2", "Maximum lake depth: 33.6 m", "Manor mentioned in 1572", "Parish area: 165.4 km2", "Nearby river: Stende", "Region: Kurzeme"],
     },
+    image: "/poi-images/latvia-puz-cities-v2.webp",
   },
   {
     id: "latvia-usma-cities-v2",
@@ -1632,6 +1682,7 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Suprafața lacului Usma: 38,9 km².", "Rezervația Moricsala (fondată 1912).", "Destinație populară pentru navigație.", "Șapte insule pe lac."],
       en: ["Lake Usma area: 38.9 km².", "Moricsala Nature Reserve (1912).", "Popular sailing destination.", "Seven islands in the lake."],
     },
+    image: "/poi-images/latvia-usma-cities-v2.webp",
   },
   {
     id: "latvia-targale-cities-v2",
@@ -1664,5 +1715,6 @@ export const latviaCitiesV2: POI[] = [
       ro: ["Conacul construit în 1742", "Distanța de Ventspils: 11 km", "Linie de coastă: 15 km", "Școală din anul 1922", "Moștenire culturală: Livoniană", "Stil arhitectural: Baroc"],
       en: ["Manor built in 1742", "Distance to Ventspils: 11 km", "Coastline length: 15 km", "School since year 1922", "Culture: Livonian roots", "Architecture: Baroque style"],
     },
+    image: "/poi-images/latvia-targale-cities-v2.webp",
   }
 ];

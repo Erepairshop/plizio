@@ -32,6 +32,7 @@ export const liechtensteinReliefV2: POI[] = [
       ro: ["Înălțime: 2286 metri deasupra nivelului mării", "Face parte din grupul montan Rätikon", "Vârf de frontieră între Liechtenstein și Austria", "Situat la sud-est de municipalitatea Triesenberg"],
       en: ["Elevation: 2286 meters above sea level", "Part of the Rätikon mountain range", "Border peak between Liechtenstein and Austria", "Located southeast of the village of Triesenberg"],
     },
+    image: "/poi-images/liechtenstein-ochsenkopf-relief-v2.webp",
   },
   {
     id: "liechtenstein-scheienkopf-relief-v2",
@@ -64,6 +65,7 @@ export const liechtensteinReliefV2: POI[] = [
       ro: ["Altitudinea maximă este de 2159 de metri", "Situat la granița cu provincia Vorarlberg", "Muntele face parte din lanțul muntos Rätikon", "Compoziția geologică este predominant calcaroasă", "Vizibilitate excelentă spre valea Rinului", "Accesibil prin trasee montane de dificultate medie"],
       en: ["Stands at an elevation of 2,159 meters", "Located on the border with Austria", "Member of the Rätikon mountain group", "Primary rock type is Triassic limestone", "Accessible via trails from the village of Malbun", "Features a prominent summit cross"],
     },
+    image: "/poi-images/liechtenstein-scheienkopf-relief-v2.webp",
   },
   {
     id: "liechtenstein-nospitz-relief-v2",
@@ -96,6 +98,7 @@ export const liechtensteinReliefV2: POI[] = [
       ro: ["Atinge înălțimea de 2091 metri deasupra mării", "Situat deasupra văii râului Samina", "Face parte din ramura centrală a Rätikonului", "Versanții sunt acoperiți cu pajiști alpine", "Importante formațiuni de roci sedimentare", "Panorama cuprinde culmile din estul țării"],
       en: ["Summit elevation of 2,091 meters", "Positioned above the scenic Samina Valley", "Central peak within the Rätikon range", "Noted for its diverse alpine vegetation", "Close proximity to the historic Kulm Pass", "Part of the Northern Limestone Alps"],
     },
+    image: "/poi-images/liechtenstein-nospitz-relief-v2.webp",
   },
   {
     id: "liechtenstein-pizol-vorberge-relief-v2",
@@ -128,6 +131,7 @@ export const liechtensteinReliefV2: POI[] = [
       ro: ["Suprafața totală: 60 km²", "Altitudinea medie: 1.800 m", "Precipitații anuale: 1.600 mm", "Specii de păsări: 70", "Lacuri glaciare: 5", "Lungimea totală a râurilor: 30 km"],
       en: ["Highest peak: 2,204 m", "Protected area: 50 km²", "Average July temperature: 12°C", "Glacier retreat since 1850: 70%", "Number of hiking trails: 15", "Oldest settlement in foothills: 13th century"],
     },
+    image: "/poi-images/liechtenstein-pizol-vorberge-relief-v2.webp",
   },
   {
     id: "liechtenstein-hochwang-relief-v2",
@@ -160,5 +164,6 @@ export const liechtensteinReliefV2: POI[] = [
       ro: ["Altitudine: 2.532 m", "Prima ascensiune: 1865", "Capacitatea cabanei Hochwang: 30 de persoane", "Temperatura medie anuală la vârf: -2°C", "Specii de plante protejate: 8", "Unghiul mediu al feței sudice: 60°"],
       en: ["Elevation: 2,532 m", "First ascent: 1865", "Hochwang Hut capacity: 30 people", "Average annual summit temperature: -2°C", "Protected plant species: 8", "South face average steepness: 60 degrees"],
     },
+    image: "/poi-images/liechtenstein-hochwang-relief-v2.webp",
   }
 ];

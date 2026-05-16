@@ -31,6 +31,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Perioada de înflorire: secolele V–X d.Hr.", "Capitala Hanatului Turcic de Vest.", "Suprafața sitului arheologic: circa 100 de hectare.", "Lista tentativă UNESCO din 2010.", "Lungimea zidurilor orașului: circa 3 km.", "Distanța față de Bișkek: circa 60 km."],
       en: ["Period of flourishing: 5th–10th century AD.", "Capital of the Western Turkic Khaganate.", "Archaeological area: about 100 hectares.", "UNESCO tentative list since 2010.", "City wall length: about 3 kilometers.", "Distance from Bishkek: about 60 km."],
     },
+    image: "/poi-images/kyrgyzstan-ak-beshim-history-v2.webp",
   },
   {
     id: "kyrgyzstan-navekat-ruins-history-v2",
@@ -62,6 +63,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Situl acoperă o suprafață de aproximativ 30 de hectare.", "Așezarea a fost locuită între secolele V și X d.Hr.", "Săpăturile au scos la lumină peste 500 de monede, inclusiv chinezești și persane.", "Cetatea măsoară 150 × 100 de metri.", "Ceramica arată influențe chinezești și persane.", "Situl a fost inclus în 2010 pe lista tentativă a Patrimoniului Mondial UNESCO."],
       en: ["The Navekat site spans approximately 30 hectares.", "The city was inhabited from the 5th to 10th centuries CE.", "Over 500 coins have been unearthed, including Chinese and Persian currency.", "The citadel covers an area of 150 by 100 meters.", "Ceramic artifacts exhibit Chinese and Persian stylistic influences.", "Navekat was added to the UNESCO Tentative List in 2010."],
     },
+    image: "/poi-images/kyrgyzstan-navekat-ruins-history-v2.webp",
   },
   {
     id: "kyrgyzstan-koshoi-korgon-history-v2",
@@ -93,6 +95,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Cetatea datează din secolele X-XII.", "Se întinde pe 3 hectare.", "Zidurile au 16 turnuri.", "Înălțimea zidurilor atinge 5 metri.", "Peste 300 de artefacte au fost descoperite, inclusiv vârfuri de săgeți.", "Fortăreața este situată în valea Talas, la 150 km vest de Bișkek."],
       en: ["The fortress dates from the 10th to 12th centuries CE.", "It covers an area of 3 hectares.", "The walls include 16 towers.", "Wall heights reach up to 5 meters.", "Over 300 artifacts, including arrowheads, have been excavated.", "Koshoi-Korgon is located in the Talas Valley, 150 km west of Bishkek."],
     },
+    image: "/poi-images/kyrgyzstan-koshoi-korgon-history-v2.webp",
   },
   {
     id: "kyrgyzstan-shah-fazil-history-v2",
@@ -124,6 +127,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Construit în secolul al XI-lea (circa 1040 d.Hr.).", "Cupola are un diametru de 8 metri.", "Mausoleul are o înălțime de 12 metri.", "Zidurile sunt din cărămidă arsă (22×22×4 cm).", "Situat în satul Gulistan, la 80 km nord-vest de Jalal-Abad.", "Inscripțiile includ numele constructorului: 'Shah Fazil'."],
       en: ["Built in the 11th century (circa 1040 CE).", "The dome has a diameter of 8 meters.", "The mausoleum stands 12 meters tall.", "Walls are made of fired bricks measuring 22×22×4 cm.", "Located in Gulistan village, 80 km northwest of Jalal-Abad.", "Inscriptions bear the name of the builder: 'Shah Fazil'."],
     },
+    image: "/poi-images/kyrgyzstan-shah-fazil-history-v2.webp",
   },
   {
     id: "kyrgyzstan-safid-bulan-history-v2",
@@ -155,6 +159,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Mausoleul datează din secolele XI-XII.", "Înălțimea clădirii este de 9 metri.", "Planul este pătrat, cu latura de 10 metri.", "Situl se află în satul Safid-Bulan, la 50 km sud-vest de Jalal-Abad.", "Moscheea a fost adăugată în secolul al XIX-lea.", "Aproximativ 10.000 de pelerini vizitează anual."],
       en: ["The mausoleum dates from the 11th-12th centuries.", "The structure is 9 meters in height.", "It has a square plan with sides of 10 meters.", "The site is in Safid-Bulan village, 50 km southwest of Jalal-Abad.", "The mosque was added in the 19th century.", "Approximately 10,000 pilgrims visit annually."],
     },
+    image: "/poi-images/kyrgyzstan-safid-bulan-history-v2.webp",
   },
   {
     id: "kyrgyzstan-shirdak-bek-history-v2",
@@ -186,6 +191,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Cetatea datează din secolele IX-X.", "Se află pe o colină de 20 de metri înălțime.", "Zidurile se păstrează până la 4 metri înălțime.", "Fortăreața ocupă o suprafață de 0,5 hectare.", "Peste 200 de monede au fost descoperite.", "Ceramica găsită datează din secolul al X-lea."],
       en: ["The citadel dates from the 9th-10th centuries CE.", "It stands on a hill 20 meters high.", "Walls are preserved up to 4 meters in height.", "The fortress covers 0.5 hectares.", "Over 200 coins have been discovered.", "Pottery finds date to the 10th century."],
     },
+    image: "/poi-images/kyrgyzstan-shirdak-bek-history-v2.webp",
   },
   {
     id: "kyrgyzstan-san-tash-history-v2",
@@ -217,6 +223,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Pasul se află la 3200 de metri altitudine.", "Movilele de piatră se întind pe 3 kilometri.", "Bătălia a avut loc în secolele XVII-XVIII.", "Se estimează că există peste 3000 de movile.", "Fiecare movilă conține între 100 și 200 de pietre.", "Pasul este situat în districtul Ak-Suu, regiunea Issyk-Kul."],
       en: ["The pass is at an elevation of 3,200 meters.", "The stone cairns stretch over 3 kilometers.", "The battle occurred in the 17th-18th centuries.", "Over 3,000 cairns are estimated to exist.", "Each cairn contains 100 to 200 stones.", "The pass is located in Ak-Suu District, Issyk-Kul Region."],
     },
+    image: "/poi-images/kyrgyzstan-san-tash-history-v2.webp",
   },
   {
     id: "kyrgyzstan-przewalski-memorial-history-v2",
@@ -248,6 +255,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Przhevalsky a murit în 1888 la vârsta de 49 de ani.", "Memorialul a fost ridicat în 1892.", "Mormântul se află la 1760 de metri altitudine.", "Muzeul a fost deschis în 1957.", "Inscripția spune: 'Nikolai Mihailovici Przhevalsky'.", "Terenul are 0,5 hectare."],
       en: ["Przewalski died in 1888 at age 49.", "The memorial was erected in 1892.", "The grave sits at 1,760 meters above sea level.", "The museum opened in 1957.", "The inscription reads: 'Nikolai Mikhailovich Przhevalsky'.", "The site covers 0.5 hectares."],
     },
+    image: "/poi-images/kyrgyzstan-przewalski-memorial-history-v2.webp",
   },
   {
     id: "kyrgyzstan-frunze-house-museum-history-v2",
@@ -279,6 +287,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Frunze s-a născut pe 2 februarie 1885.", "Casa a fost construită în 1879.", "Muzeul s-a deschis în 1927.", "Suprafața expozițională este de 200 de metri pătrați.", "Adăpostește peste 1000 de obiecte.", "Casa se află pe strada Frunze nr. 364 din Bișkek."],
       en: ["Frunze was born on February 2, 1885.", "The house was built in 1879.", "The museum opened in 1927.", "Exhibition area is 200 square meters.", "It houses over 1,000 exhibits.", "The house is at 364 Frunze Street in Bishkek."],
     },
+    image: "/poi-images/kyrgyzstan-frunze-house-museum-history-v2.webp",
   },
   {
     id: "kyrgyzstan-aravan-petroglyphs-history-v2",
@@ -310,6 +319,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Petroglifele datează din mileniul II-I î.Hr.", "Se află la 1500 de metri altitudine.", "Există peste 200 de gravuri individuale.", "Stâncile sunt de calcar, înalte de aproximativ 20 de metri.", "Situl este protejat din 2003.", "Cea mai comună reprezentare este ibexul (Capra sibirica)."],
       en: ["The petroglyphs date from the 2nd-1st millennium BCE.", "They are located at an elevation of 1,500 meters.", "Over 200 individual engravings exist.", "The cliffs are limestone, about 20 meters high.", "The site has been protected since 2003.", "The most common depiction is the Siberian ibex (Capra sibirica)."],
     },
+    image: "/poi-images/kyrgyzstan-aravan-petroglyphs-history-v2.webp",
   },
   {
     id: "kyrgyzstan-tamga-tash-history-v2",
@@ -341,6 +351,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Inscripțiile datează din secolele X-XIII.", "Se află pe un bloc de stâncă înalt de 4 metri.", "Blocul măsoară 5 × 3 metri.", "Există 20 de inscripții individuale.", "Situl este la 8 km sud-est de Tamga.", "Runele au dimensiuni de 5-15 cm."],
       en: ["The inscriptions date from the 10th-13th centuries.", "They are on a 4-meter-high boulder.", "The boulder measures 5 by 3 meters.", "There are 20 individual inscriptions.", "The site is 8 km southeast of Tamga.", "The runes are 5 to 15 cm in size."],
     },
+    image: "/poi-images/kyrgyzstan-tamga-tash-history-v2.webp",
   },
   {
     id: "kyrgyzstan-daraut-korgon-history-v2",
@@ -372,6 +383,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Cetatea datează din secolele IX-XII.", "Se află la 2500 de metri altitudine.", "Zidurile sunt parțial înalte de 3 metri.", "Situl acoperă 1,5 hectare.", "Au fost descoperite 50 de monede din perioada karahanidă.", "Pasul Alai este la 20 km distanță."],
       en: ["The fortress dates from the 9th-12th centuries.", "It lies at an elevation of 2,500 meters.", "Walls are partially 3 meters high.", "The site covers 1.5 hectares.", "50 coins from the Karakhanid period were found.", "The Alai Pass is 20 km away."],
     },
+    image: "/poi-images/kyrgyzstan-daraut-korgon-history-v2.webp",
   },
   {
     id: "kyrgyzstan-gulcha-fortress-history-v2",
@@ -403,6 +415,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Cetatea datează din secolele X-XI.", "Se află la 1200 de metri altitudine.", "Zidurile au până la 2,5 metri înălțime.", "Situl acoperă 0,8 hectare.", "Au fost găsite mărgele de sticlă din India.", "Cetatea a fost protejată în 2003."],
       en: ["The citadel dates from the 10th-11th centuries.", "It is located at an elevation of 1,200 meters.", "Walls are up to 2.5 meters high.", "The site covers 0.8 hectares.", "Glass beads from India were discovered.", "The fortress was protected in 2003."],
     },
+    image: "/poi-images/kyrgyzstan-gulcha-fortress-history-v2.webp",
   },
   {
     id: "kyrgyzstan-at-bashy-ruins-history-v2",
@@ -434,6 +447,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Așezarea a existat între secolele VIII-XII.", "Se află la 2300 de metri altitudine.", "Cetatea are dimensiunile de 40 × 30 de metri.", "S-au găsit cioburi de porțelan chinezesc din secolul al X-lea.", "Așezarea se întinde pe 5 hectare.", "Moscheea măsoară 15 × 10 metri."],
       en: ["The settlement existed from the 8th to 12th centuries.", "It is located at an elevation of 2,300 meters.", "The citadel measures 40 by 30 meters.", "Chinese porcelain shards from the 10th century were found.", "The settlement covers 5 hectares.", "The mosque measures 15 by 10 meters."],
     },
+    image: "/poi-images/kyrgyzstan-at-bashy-ruins-history-v2.webp",
   },
   {
     id: "kyrgyzstan-kyzyl-tuu-heritage-history-v2",
@@ -465,6 +479,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Satul a fost fondat în 2005.", "Se află la 1620 de metri altitudine.", "Există 15 iurte tradiționale pentru vizitatori.", "Muzeul deține 200 de exponate.", "Anual, 5000 de turiști vizitează satul.", "Atelierul de pâslă produce 500 de metri pătrați de pâslă pe an."],
       en: ["The village was founded in 2005.", "It is located at 1,620 meters above sea level.", "There are 15 traditional yurts for visitors.", "The museum houses 200 exhibits.", "5,000 tourists visit annually.", "The felt workshop produces 500 square meters of felt per year."],
     },
+    image: "/poi-images/kyrgyzstan-kyzyl-tuu-heritage-history-v2.webp",
   },
   {
     id: "kyrgyzstan-orto-tokoy-kurgans-history-v2",
@@ -496,6 +511,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Movilele datează din secolele V-III î.Hr.", "Cea mai mare movilă are un diametru de 30 de metri.", "Înălțimea celei mai înalte movile este de 5 metri.", "Există 12 movile în total.", "S-au găsit podoabe de aur din secolul IV î.Hr.", "Situl se află la 5 km est de Orto-Tokoy."],
       en: ["The kurgans date from the 5th-3rd centuries BCE.", "The largest kurgan has a diameter of 30 meters.", "The highest kurgan is 5 meters tall.", "There are 12 kurgans in total.", "Gold jewelry from the 4th century BCE was found.", "The site is 5 km east of Orto-Tokoy."],
     },
+    image: "/poi-images/kyrgyzstan-orto-tokoy-kurgans-history-v2.webp",
   },
   {
     id: "kyrgyzstan-ken-kol-cemetery-history-v2",
@@ -527,6 +543,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Cimitirul datează din secolele I-V d.Hr.", "Există peste 100 de morminte.", "Cercurile de piatră au diametre de 2-4 metri.", "Situl a fost descoperit în 1965.", "Obiectele funerare includ 200 de vase ceramice.", "Cimitirul se află la 3 km vest de Ken-Kol."],
       en: ["The cemetery dates from the 1st-5th centuries CE.", "There are over 100 graves.", "Stone circles have diameters of 2 to 4 meters.", "The site was discovered in 1965.", "Grave goods include 200 ceramic vessels.", "The cemetery is 3 km west of Ken-Kol."],
     },
+    image: "/poi-images/kyrgyzstan-ken-kol-cemetery-history-v2.webp",
   },
   {
     id: "kyrgyzstan-shamsy-valley-site-history-v2",
@@ -558,6 +575,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Situl datează din mileniul II î.Hr.", "Se află la 1800 de metri altitudine.", "Au fost documentate 50 de cercuri de piatră.", "S-au găsit podoabe de bronz din secolul al XVIII-lea î.Hr.", "Situl se întinde pe 3 hectare.", "Săpăturile internaționale au început în 2008."],
       en: ["The site dates from the 2nd millennium BCE.", "It is located at 1,800 meters elevation.", "50 stone circles have been documented.", "Bronze ornaments from the 18th century BCE were found.", "The site covers 3 hectares.", "International excavations began in 2008."],
     },
+    image: "/poi-images/kyrgyzstan-shamsy-valley-site-history-v2.webp",
   },
   {
     id: "kyrgyzstan-karkara-fairground-history-v2",
@@ -589,6 +607,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Târgul avea loc anual în august.", "Atragea până la 5000 de comercianți.", "Ruinele se întind pe 2 hectare.", "Situl se află la 2200 de metri altitudine.", "A fost declarat monument în 1950.", "Defileul Karkara are 10 km lungime."],
       en: ["The fair was held annually in August.", "It attracted up to 5,000 merchants.", "The ruins cover 2 hectares.", "The site is at an elevation of 2,200 meters.", "It was declared a monument in 1950.", "The Karkara Gorge is 10 km long."],
     },
+    image: "/poi-images/kyrgyzstan-karkara-fairground-history-v2.webp",
   },
   {
     id: "kyrgyzstan-barskoon-tamerlane-stone-history-v2",
@@ -620,6 +639,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Inscripția datează din secolul al XIV-lea.", "Stânca are 3 metri înălțime și 5 metri lățime.", "Inscripția este formată din 5 rânduri.", "Stânca cântărește aproximativ 20 de tone.", "Se află la 2100 de metri altitudine.", "A fost protejată în 1995."],
       en: ["The inscription dates from the 14th century.", "The boulder is 3 meters high and 5 meters wide.", "The inscription consists of 5 lines.", "The boulder weighs an estimated 20 tons.", "It lies at an elevation of 2,100 meters.", "It was protected in 1995."],
     },
+    image: "/poi-images/kyrgyzstan-barskoon-tamerlane-stone-history-v2.webp",
   },
   {
     id: "kyrgyzstan-kochkor-rock-art-history-v2",
@@ -651,6 +671,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Petroglifele datează din mileniile I-II î.Hr.", "Există peste 300 de gravuri individuale.", "Situl se întinde pe 2 kilometri.", "Cea mai comună reprezentare este ibexul.", "Blocurile de piatră au până la 3 metri înălțime.", "Documentarea a început în 2012."],
       en: ["The petroglyphs date from the 1st-2nd millennium BCE.", "There are over 300 individual engravings.", "The site stretches 2 kilometers.", "The most common depiction is the ibex.", "Boulders are up to 3 meters high.", "Documentation began in 2012."],
     },
+    image: "/poi-images/kyrgyzstan-kochkor-rock-art-history-v2.webp",
   },
   {
     id: "kyrgyzstan-suttu-bulak-history-v2",
@@ -682,6 +703,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Fondat în secolul al II-lea î.Hr.", "Suprafață excavată de 12 hectare", "Peste 300 de fragmente ceramice recuperate", "Monede din perioada Kushan (sec. I–III)", "Canale de irigație de 5 km lungime", "Așezarea a existat până în secolul al VIII-lea"],
       en: ["Founded in the 2nd century BCE", "Excavated area of 12 hectares", "Over 300 pottery fragments recovered", "Coins from the Kushan period (1st–3rd century)", "Irrigation canals 5 km in length", "Settlement lasted until the 8th century"],
     },
+    image: "/poi-images/kyrgyzstan-suttu-bulak-history-v2.webp",
   },
   {
     id: "kyrgyzstan-kara-bulak-history-v2",
@@ -713,6 +735,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Număr de tumuli: 230", "Cel mai mare tumul: 15 m diametru", "Perioada de înmormântare: sec. VII–III î.Hr.", "Obiecte funerare: 45 de vârfuri de săgeți din bronz", "Altitudine maximă: 2.100 m deasupra nivelului mării", "Prima excavare: 1958"],
       en: ["Number of kurgans: 230", "Largest kurgan: 15 m diameter", "Burial period: 7th–3rd century BCE", "Grave goods: 45 bronze arrowheads", "Highest elevation: 2,100 m above sea level", "First excavation: 1958"],
     },
+    image: "/poi-images/kyrgyzstan-kara-bulak-history-v2.webp",
   },
   {
     id: "kyrgyzstan-opera-theater-bishkek-history-v2",
@@ -744,6 +767,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Anul fundării: 1926", "Capacitate: 1.100 locuri", "Deschiderea clădirii: 1955", "Arhitect: Evgeni Ponomariov", "Prima operă: 'Aichurek' (1939)", "Suprafața scenei: 400 m²"],
       en: ["Year founded: 1926", "Seating capacity: 1,100", "Building opened: 1955", "Architect: Yevgeny Ponomaryov", "First opera: 'Aichurek' (1939)", "Stage area: 400 m²"],
     },
+    image: "/poi-images/kyrgyzstan-opera-theater-bishkek-history-v2.webp",
   },
   {
     id: "kyrgyzstan-frunze-statue-bishkek-history-v2",
@@ -775,6 +799,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Înălțime: 9 m", "Greutate: 10 t", "Anul instalării: 1978", "Material: bronz", "Înălțimea soclului: 4 m", "Locație: Piața Ala-Too, 42.874° N, 74.600° E"],
       en: ["Height: 9 m", "Weight: 10 t", "Erected: 1978", "Material: bronze", "Pedestal height: 4 m", "Location: Ala-Too Square, 42.874° N, 74.600° E"],
     },
+    image: "/poi-images/kyrgyzstan-frunze-statue-bishkek-history-v2.webp",
   },
   {
     id: "kyrgyzstan-toktogul-museum-history-v2",
@@ -806,6 +831,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Deschis: 1966", "Suprafață expozițională: 800 m²", "Număr de exponate: peste 2.000", "Anul nașterii lui Toktogul: 1864", "Anul decesului: 1933", "A compus peste 100 de cântece"],
       en: ["Opened: 1966", "Exhibition area: 800 m²", "Number of exhibits: over 2,000", "Toktogul's birth year: 1864", "Death year: 1933", "Composed over 100 songs"],
     },
+    image: "/poi-images/kyrgyzstan-toktogul-museum-history-v2.webp",
   },
   {
     id: "kyrgyzstan-uzgen-mausoleums-history-v2",
@@ -837,6 +863,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Construit: secolele XI–XII", "Număr de mausolee: 3", "Înălțimea mausoleului nordic: 12 m", "Material: cărămidă arsă", "Decor: 50 de modele diferite de teracotă", "Candidat UNESCO din 1998"],
       en: ["Built: 11th–12th century", "Number of mausoleums: 3", "Height of northern mausoleum: 12 m", "Material: fired brick", "Decoration: 50 different terracotta patterns", "UNESCO candidate since 1998"],
     },
+    image: "/poi-images/kyrgyzstan-uzgen-mausoleums-history-v2.webp",
   },
   {
     id: "kyrgyzstan-manas-ata-mausoleum-history-v2",
@@ -868,6 +895,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Construit: secolul al XIV-lea", "Înălțime: 15 m", "Diametrul cupolei: 8 m", "Material: piatră și cărămidă", "Grosimea pereților: 1,2 m", "Vizitatori anual: peste 50.000"],
       en: ["Built: 14th century", "Height: 15 m", "Dome diameter: 8 m", "Material: stone and brick", "Wall thickness: 1.2 m", "Annual visitors: over 50,000"],
     },
+    image: "/poi-images/kyrgyzstan-manas-ata-mausoleum-history-v2.webp",
   },
   {
     id: "kyrgyzstan-ak-terek-settlement-history-v2",
@@ -899,6 +927,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Perioada de existență: sec. VI–X", "Suprafață: 8 hectare", "Zidul citadelei: 4 m grosime", "Unități locative descoperite: 150", "Mărfuri comerciale: mătase, lână, fier", "Prima excavare: 1975"],
       en: ["Period: 6th–10th century", "Area: 8 hectares", "Citadel wall: 4 m thick", "Dwelling units uncovered: 150", "Trade goods: silk, wool, iron", "First excavation: 1975"],
     },
+    image: "/poi-images/kyrgyzstan-ak-terek-settlement-history-v2.webp",
   },
   {
     id: "kyrgyzstan-tash-korgon-history-v2",
@@ -930,6 +959,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Construit: sec. VIII–XII", "Suprafață: 2 hectare", "Înălțimea zidurilor: până la 6 m", "Turnuri păstrate: 4", "Altitudine: 1.800 m deasupra nivelului mării", "Săpături începute în 1980"],
       en: ["Built: 8th–12th century", "Area: 2 hectares", "Wall height: up to 6 m", "Towers preserved: 4", "Elevation: 1,800 m above sea level", "Excavations since 1980"],
     },
+    image: "/poi-images/kyrgyzstan-tash-korgon-history-v2.webp",
   },
   {
     id: "kyrgyzstan-kulan-say-history-v2",
@@ -961,6 +991,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Număr de petroglife: peste 1.000", "Perioada de origine: mileniul II î.Hr.", "Cea mai mare reprezentare: 50 cm", "Animale reprezentate: capre, cai, cerbi", "Suprafață: 5 km²", "Descoperit: 1963"],
       en: ["Number of petroglyphs: over 1,000", "Age: 2nd millennium BCE", "Largest depiction: 50 cm", "Animals depicted: ibex, horses, deer", "Area: 5 km²", "Discovered: 1963"],
     },
+    image: "/poi-images/kyrgyzstan-kulan-say-history-v2.webp",
   },
   {
     id: "kyrgyzstan-tegerek-saz-history-v2",
@@ -992,6 +1023,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Număr de desene rupestre: 700", "Perioadă: mileniul I î.Hr.", "Cea mai mare scenă: 2 m lățime", "Care reprezentate: 12", "Altitudine: 2.500 m", "Cercetare începută în 1978"],
       en: ["Number of rock drawings: 700", "Period: 1st millennium BCE", "Largest scene: 2 m wide", "Chariots depicted: 12", "Elevation: 2,500 m", "Research since 1978"],
     },
+    image: "/poi-images/kyrgyzstan-tegerek-saz-history-v2.webp",
   },
   {
     id: "kyrgyzstan-karasuu-art-history-v2",
@@ -1023,6 +1055,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Perioada de origine: mileniile II–I î.Hr.", "Număr de desene: 500", "Suprafață: 3 km²", "Motivul cel mai frecvent: capra", "Dimensiune maximă: 40 cm", "Descoperit: 1955"],
       en: ["Age: 2nd–1st millennia BCE", "Number of drawings: 500", "Area: 3 km²", "Most common motif: ibex", "Maximum size: 40 cm", "Discovered: 1955"],
     },
+    image: "/poi-images/kyrgyzstan-karasuu-art-history-v2.webp",
   },
   {
     id: "kyrgyzstan-sokuluk-site-history-v2",
@@ -1054,6 +1087,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Perioada de existență: sec. VIII–XII", "Suprafață: 6 hectare", "Zidurile fortăreței: 3 m grosime", "Caravanserai: 20 de camere", "Vase ceramice: peste 500 de bucăți", "Prima săpătură arheologică: 1967"],
       en: ["Period: 8th–12th century", "Area: 6 hectares", "Fortress walls: 3 m thick", "Caravanserai: 20 rooms", "Pottery finds: over 500 pieces", "First archaeological excavation: 1967"],
     },
+    image: "/poi-images/kyrgyzstan-sokuluk-site-history-v2.webp",
   },
   {
     id: "kyrgyzstan-sadovoye-site-history-v2",
@@ -1085,6 +1119,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Perioada de existență: sec. VI–VIII", "Suprafață: 4 hectare", "Canale de irigație: 3 km lungime", "Grânare descoperite: 10", "Dimensiunea medie a caselor: 50 m²", "Săpături începute în 1995"],
       en: ["Period: 6th–8th century", "Area: 4 hectares", "Irrigation canals: 3 km long", "Granaries discovered: 10", "Average house size: 50 m²", "Excavation since 1995"],
     },
+    image: "/poi-images/kyrgyzstan-sadovoye-site-history-v2.webp",
   },
   {
     id: "kyrgyzstan-belovodskoye-site-history-v2",
@@ -1116,6 +1151,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Perioada de existență: sec. X–XII", "Suprafață: 5 hectare", "Înălțimea citadelei: 8 m", "Cuptoare de olărit: 6 descoperite", "Ceramică smălțuită: 300 de fragmente", "Săpătură efectuată în 1972"],
       en: ["Period: 10th–12th century", "Area: 5 hectares", "Citadel height: 8 m", "Pottery kilns found: 6", "Glazed ceramic fragments: 300", "Excavation: 1972"],
     },
+    image: "/poi-images/kyrgyzstan-belovodskoye-site-history-v2.webp",
   },
   {
     id: "kyrgyzstan-chon-dalin-history-v2",
@@ -1147,6 +1183,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Perioadă: sec. VIII–III î.Hr.", "Număr de movile funerare: 40", "Suprafața așezării: 3 hectare", "Vase de ceramică recuperate: 200", "Fundații de case excavate: 15", "Prima cercetare: 1985"],
       en: ["Period: 8th–3rd century BCE", "Number of burial mounds: 40", "Settlement area: 3 hectares", "Pottery vessels recovered: 200", "House foundations excavated: 15", "First investigation: 1985"],
     },
+    image: "/poi-images/kyrgyzstan-chon-dalin-history-v2.webp",
   },
   {
     id: "kyrgyzstan-alay-valley-camps-history-v2",
@@ -1178,6 +1215,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Perioadă: sec. VII–XIV", "Număr de tabere: 25", "Altitudine: 3.000–3.500 m", "Fragmente ceramice: 400", "Obiecte metalice: 50 (cuțite, vârfuri de săgeată)", "Prima documentare: 1968"],
       en: ["Period: 7th–14th century", "Number of camps: 25", "Elevation: 3,000–3,500 m", "Pottery fragments: 400", "Metal objects: 50 (knives, arrowheads)", "First documentation: 1968"],
     },
+    image: "/poi-images/kyrgyzstan-alay-valley-camps-history-v2.webp",
   },
   {
     id: "kyrgyzstan-ketmen-tobe-kurgans-history-v2",
@@ -1209,6 +1247,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Perioadă: sec. VIII–IV î.Hr.", "Număr de tumuli: 30", "Cel mai înalt tumul: 5 m", "Podoabe de aur descoperite: 20", "Înmormântări de cai: 15", "Săpături: 1998–2002"],
       en: ["Period: 8th–4th century BCE", "Number of kurgans: 30", "Tallest kurgan: 5 m", "Gold items found: 20 pieces of jewelry", "Horse burials: 15", "Excavation: 1998–2002"],
     },
+    image: "/poi-images/kyrgyzstan-ketmen-tobe-kurgans-history-v2.webp",
   },
   {
     id: "kyrgyzstan-kara-darya-ruins-history-v2",
@@ -1240,6 +1279,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Perioada de existență: sec. IX–XII", "Suprafață: 7 hectare", "Moschee identificate: 2", "Băi excavate: 3", "Mărfuri comerciale: mătase, bumbac, șofran", "Săpături: 1990–1995"],
       en: ["Period: 9th–12th century", "Area: 7 hectares", "Mosques identified: 2", "Baths excavated: 3", "Trade goods: silk, cotton, saffron", "Excavation: 1990–1995"],
     },
+    image: "/poi-images/kyrgyzstan-kara-darya-ruins-history-v2.webp",
   },
   {
     id: "kyrgyzstan-kyzyl-adyr-history-v2",
@@ -1271,6 +1311,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Perioada de existență: sec. IX–XIII", "Suprafață: 2,5 hectare", "Înălțimea zidurilor: 4 m", "Turnuri păstrate: 3", "Altitudine: 2.200 m deasupra nivelului mării", "Săpături începute în 2005"],
       en: ["Period: 9th–13th century", "Area: 2.5 hectares", "Wall height: 4 m", "Towers preserved: 3", "Elevation: 2,200 m above sea level", "Excavation since 2005"],
     },
+    image: "/poi-images/kyrgyzstan-kyzyl-adyr-history-v2.webp",
   },
   {
     id: "kyrgyzstan-bishkek-old-station-history-v2",
@@ -1302,6 +1343,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Gara are o suprafață de 1.200 m².", "Clădirea a fost proiectată de arhitectul Ivanov.", "Lucrările au început în 1944.", "Trenul de pasageri a circulat aici până în 1997.", "Înălțimea clădirii este de 15 metri.", "Gara veche este inclusă în lista patrimoniului național."],
       en: ["The station opened on May 1, 1946.", "It has a total area of 1,800 square meters.", "The clock tower is 25 meters tall.", "The original train shed was 150 meters long.", "The station served 10 daily trains at its peak.", "It was listed as a protected monument in 2002."],
     },
+    image: "/poi-images/kyrgyzstan-bishkek-old-station-history-v2.webp",
   },
   {
     id: "kyrgyzstan-ala-too-cinema-history-v2",
@@ -1333,6 +1375,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Sala principală are 500 de locuri.", "Ecranul măsoară 10×8 metri.", "Cinematograful are un bar și o galerie de artă.", "Renovarea a inclus și un sistem de sunet Dolby.", "Clădirea a fost extinsă cu 200 m² în 2018.", "Numărul de vizitatori anuali depășește 50.000."],
       en: ["The cinema originally had 800 seats, now reduced to 600.", "Its construction began in 1952.", "The renovation cost $150,000 USD.", "The building's facade features Soviet-era mosaics.", "It was the first cinema in Kyrgyzstan to show widescreen films.", "The Ala-Too Cinema hosts the annual Bishkek Film Festival."],
     },
+    image: "/poi-images/kyrgyzstan-ala-too-cinema-history-v2.webp",
   },
   {
     id: "kyrgyzstan-university-old-wing-history-v2",
@@ -1364,6 +1407,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Suprafața aripii vechi este de 4.500 m².", "Clădirea are 3 etaje și un subsol.", "În 1941, a fost transformată în spital militar.", "Universitatea are peste 20 de facultăți.", "Aripa veche a fost renovată în 2010.", "Numărul de săli de clasă este 40."],
       en: ["The building was completed in 1936.", "It has a total area of 6,000 square meters.", "The university's founding date is January 15, 1932.", "During WWII, it housed 300 wounded soldiers.", "The old wing has two main lecture halls with 200 seats each.", "It was declared a historical monument in 1982."],
     },
+    image: "/poi-images/kyrgyzstan-university-old-wing-history-v2.webp",
   },
   {
     id: "kyrgyzstan-chuy-museum-history-v2",
@@ -1395,6 +1439,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Muzeul are 10 săli de expoziție permanente.", "Colecția numără 30.000 de bunuri culturale.", "Obiectele din epoca bronzului datează din mileniul II î.Hr.", "Muzeul dispune de un laborator de restaurare.", "Admisia costă 40 de somi kârgâzi.", "Biblioteca muzeului conține 5.000 de volume."],
       en: ["The museum was founded on March 15, 1978.", "It has a collection of over 25,000 artifacts.", "The museum's area is 1,800 square meters.", "Annual visitor numbers exceed 12,000.", "The numismatic collection includes 3,000 coins.", "It houses a rare collection of medieval pottery."],
     },
+    image: "/poi-images/kyrgyzstan-chuy-museum-history-v2.webp",
   },
   {
     id: "kyrgyzstan-talas-museum-history-v2",
@@ -1426,6 +1471,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Muzeul are o suprafață de 1.000 m².", "Colecția numără 6.000 de piese.", "Obiectul principal este o sabie din secolul VIII.", "Muzeul a fost renovat în 2015.", "Intrarea este gratuită în fiecare duminică.", "Altitudinea orașului Talas este de 1.200 de metri."],
       en: ["The museum was established in 1972.", "It has 4 exhibition halls.", "The total collection size is 7,500 items.", "One of the highlights is a 9th-century Quran manuscript.", "The museum covers an area of 1,100 square meters.", "The Battle of Talas involved Arab and Chinese forces."],
     },
+    image: "/poi-images/kyrgyzstan-talas-museum-history-v2.webp",
   },
   {
     id: "kyrgyzstan-naryn-museum-history-v2",
@@ -1457,6 +1503,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Altitudinea orașului Naryn este de 2.000 de metri.", "Muzeul are 4 săli de expoziție permanente.", "Colecția de minerale cuprinde 2.000 de probe.", "Anual, muzeul are 5.000 de vizitatori.", "Clădirea a fost renovată în 2008.", "Intrarea costă 20 de somi."],
       en: ["Naryn city has a population of 40,000 (2021).", "The museum's collection includes 10,000 items.", "It was founded in 1974 and renovated in 2005.", "The museum's area is 900 square meters.", "One exhibit features a 2,000-year-old mummy from the region.", "Naryn Region covers an area of 45,000 square kilometers."],
     },
+    image: "/poi-images/kyrgyzstan-naryn-museum-history-v2.webp",
   },
   {
     id: "kyrgyzstan-batken-museum-history-v2",
@@ -1488,6 +1535,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Muzeul are 5 săli de expoziție.", "Colecția numără 6.000 de obiecte.", "Orașul Batken are 20.000 de locuitori.", "Altitudinea orașului este de 1.180 de metri.", "Muzeul a fost renovat în 2017.", "Intrarea este liberă pentru copii."],
       en: ["Batken city has a population of 15,000 (2020).", "The museum was founded on August 31, 1992.", "It holds 5,000 artifacts in its permanent collection.", "The museum's building covers 1,500 square meters.", "One exhibit features a 4th-century Buddha statue.", "The Batken region is a major producer of apricots."],
     },
+    image: "/poi-images/kyrgyzstan-batken-museum-history-v2.webp",
   },
   {
     id: "kyrgyzstan-jalal-abad-museum-history-v2",
@@ -1519,6 +1567,7 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Muzeul are 6 săli de expoziție.", "Colecția numără 7.000 de piese.", "Orașul are 90.000 de locuitori (2020).", "Altitudinea orașului este de 750 de metri.", "Muzeul a fost renovat în 2013.", "Taxa de intrare este de 40 de somi."],
       en: ["The museum opened on May 1, 1976.", "It houses 8,000 artifacts.", "Jalal-Abad city is the third-largest in Kyrgyzstan.", "The museum's area is 1,300 square meters.", "One rare exhibit is a 12th-century glass vessel.", "The museum library contains 3,000 books."],
     },
+    image: "/poi-images/kyrgyzstan-jalal-abad-museum-history-v2.webp",
   },
   {
     id: "kyrgyzstan-razzakov-museum-history-v2",
@@ -1550,5 +1599,6 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ro: ["Muzeul are 2 etaje și o suprafață de 500 m².", "Colecția numără 2.000 de obiecte.", "Razzakov a murit în 1979.", "Muzeul este deschis de marți până duminică.", "Intrarea costă 100 de somi pentru adulți.", "Aproximativ 5.000 de vizitatori vin anual."],
       en: ["The museum was inaugurated on August 31, 2014.", "It occupies a total area of 480 square meters.", "Razzakov served as First Secretary from 1950 to 1961.", "The collection includes his original desk and chair.", "The building was his personal residence from 1950 to 1979.", "Annual visitor count is around 3,000."],
     },
+    image: "/poi-images/kyrgyzstan-razzakov-museum-history-v2.webp",
   }
 ];

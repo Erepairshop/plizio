@@ -31,6 +31,7 @@ export const solomonislandsLifeV2: POI[] = [
       ro: ["Cea mai mare insulă nelocuită din Pacificul de Sud (118 kmp)", "Abandonată brusc de populația sa în jurul anului 1860", "Protejată de exploatarea forestieră de către TDA", "Refugiu major pentru țestoasa pieloasă (Dermochelys coriacea)", "Include ecosisteme intacte de pădure tropicală și recife", "Găzduiește o stațiune de cercetare și ecoturism sustenabil"],
       en: ["Largest uninhabited tropical island in the South Pacific", "The original population mysteriously abandoned the island c. 1860", "Managed by the Tetepare Descendants' Association (TDA)", "A key nesting site for the endangered leatherback turtle", "Features 118 square kilometers of primary tropical rainforest", "Recognized as a world leader in community-based conservation"],
     },
+    image: "/poi-images/solomonislands-tetepare-island-life-v2.webp",
   },
   {
     id: "solomonislands-arnavon-islands-life-v2",
@@ -62,6 +63,7 @@ export const solomonislandsLifeV2: POI[] = [
       ro: ["Cel mai mare sit de cuibărit pentru țestoasa Hawksbill în Pacific", "Prima rezervație marină națională (fondată în 1995)", "Gestionată prin parteneriat între comunitățile din Choiseul și Isabel", "Rangerii locali monitorizează peste 1000 de cuiburi anual", "Zona protejată include recife de corali și ecosisteme de lagună", "Model global pentru implicarea indigenilor în conservare"],
       en: ["Largest hawksbill turtle nesting ground in the South Pacific", "The Solomon Islands' first national marine park (ACMCA)", "Established in 1995 as a community-based conservation initiative", "Successful transition of turtle poachers into conservation rangers", "Boasts some of the highest coral diversity in the archipelago", "Crucial breeding area for megapodes and other seabirds"],
     },
+    image: "/poi-images/solomonislands-arnavon-islands-life-v2.webp",
   },
   {
     id: "solomonislands-east-rennell-life-v2",
@@ -93,6 +95,7 @@ export const solomonislandsLifeV2: POI[] = [
       ro: ["Cel mai mare atol de corali ridicat de pe glob", "Primul sit UNESCO din Insulele Solomon (din 1998)", "Lacul Tegano este cel mai mare lac din insulele din Pacific", "Găzduiește șarpele de mare endemic Laticauda crockeri", "Locuitorii sunt de origine polineziană", "Inclus pe lista patrimoniului în pericol din 2013"],
       en: ["Largest raised coral atoll in the world", "The first UNESCO World Heritage site in the Solomon Islands", "Lake Tegano is the largest inland lake in the Pacific", "Home to the endemic Rennell sea krait", "Inhabitants are primarily of Polynesian descent", "Listed as a World Heritage site in Danger since 2013"],
     },
+    image: "/poi-images/solomonislands-east-rennell-life-v2.webp",
   },
   {
     id: "solomonislands-mt-popomanaseu-life-v2",
@@ -124,6 +127,7 @@ export const solomonislandsLifeV2: POI[] = [
       ro: ["Cel mai înalt vârf din Insulele Solomon (2.335 m)", "Situat în interiorul muntos al insulei Guadalcanal", "Adăpostește ecosisteme rare de pădure de nori", "Loc sacru în mitologia populației indigene locale", "Vârful este vizibil rareori din cauza nebulozității constante", "Zonă de interes major pentru biologi și climatologi"],
       en: ["Highest peak in the Solomon Islands at 2,335 meters", "Located in the rugged central interior of Guadalcanal", "Supports rare and biodiverse cloud forest habitats", "Sacred site for the local indigenous communities", "The summit frequently experiences heavy rainfall and mist", "A critical refuge for montane endemic bird species"],
     },
+    image: "/poi-images/solomonislands-mt-popomanaseu-life-v2.webp",
   },
   {
     id: "solomonislands-kolombangara-forest-life-v2",
@@ -155,6 +159,7 @@ export const solomonislandsLifeV2: POI[] = [
       ro: ["Vulcan stins cu o formă circulară remarcabilă", "Conservarea pădurii este gestionată de asociația KIBCA", "Habitat pentru specia endemică Zosterops murphyi", "Altitudinea maximă a muntelui este de 1.770 metri", "Craterul vulcanic central este un ecosistem unic protejat", "Sursă vitală de apă potabilă pentru comunitățile de coastă"],
       en: ["Nearly circular extinct volcano rising to 1,770 meters", "All forest above 400m elevation is a protected area", "Sole habitat of the endemic Kolombangara white-eye bird", "Features a massive 4km-wide central volcanic crater", "Managed by the community-led KIBCA organization", "A key site for high-altitude biodiversity research in Melanesia"],
     },
+    image: "/poi-images/solomonislands-kolombangara-forest-life-v2.webp",
   },
   {
     id: "solomonislands-makira-natural-park-life-v2",
@@ -186,6 +191,7 @@ export const solomonislandsLifeV2: POI[] = [
       ro: ["Suprafață de cca 60.000 hectare în centrul insulei Makira.", "Cea mai înaltă cotă din parc depășește 1.000 de metri.", "Găzduiește 12 specii de păsări endemice ale insulei.", "Înființat pentru protecția împotriva defrișărilor masive.", "Principalul bazin hidrografic pentru satele din jur.", "Parte a ecoregiunilor Global 200 pentru biodiversitate."],
       en: ["Covers about 60,000 hectares in the center of Makira.", "Highest elevation within the park exceeds 1,000 meters.", "Home to 12 endemic bird species unique to the island.", "Established to protect against large-scale logging operations.", "Primary watershed source for surrounding local villages.", "Included in the Global 200 Ecoregions for biodiversity."],
     },
+    image: "/poi-images/solomonislands-makira-natural-park-life-v2.webp",
   },
   {
     id: "solomonislands-zaira-conservation-area-life-v2",
@@ -217,6 +223,7 @@ export const solomonislandsLifeV2: POI[] = [
       ro: ["Protejează cca 10 km de coastă pe insula Vangunu.", "Loc important de cuibărit pentru broasca țestoasă pieloasă.", "Administrată comunitar de către trei triburi locale.", "Include habitate ale rarului șobolan gigant de Vangunu.", "Rezistență împotriva defrișărilor de peste 30 de ani.", "Cuprinde recife de corali, mangrove și pădure primară."],
       en: ["Protects approx. 10 km of coastline on Vangunu Island.", "Critical nesting site for the endangered leatherback turtle.", "Community-managed by three local tribal groups.", "Contains habitats of the rare Vangunu giant rat.", "Successfully resisted logging attempts for over 30 years.", "Includes coral reefs, mangroves, and primary rainforest."],
     },
+    image: "/poi-images/solomonislands-zaira-conservation-area-life-v2.webp",
   },
   {
     id: "solomonislands-bauani-conservation-area-life-v2",
@@ -248,6 +255,7 @@ export const solomonislandsLifeV2: POI[] = [
       ro: ["Situată în partea centrală a insulei Santa Isabel.", "Protejează pădurea tropicală primară de joasă altitudine.", "Habitat important pentru specii de insecte endemice.", "Focalizare pe prevenirea eroziunii solului prin protecție.", "Administrată local cu implicarea drepturilor tribale.", "Parte a unei rețele de mici arii protejate de pe insulă."],
       en: ["Located in the central portion of Santa Isabel Island.", "Protects primary lowland rainforest of the Solomons.", "Important habitat for various endemic insect species.", "Focuses on preventing soil erosion through forest cover.", "Locally managed with respect to traditional tribal rights.", "Part of a network of small protected areas on the island."],
     },
+    image: "/poi-images/solomonislands-bauani-conservation-area-life-v2.webp",
   },
   {
     id: "solomonislands-lauvi-lagoon-life-v2",
@@ -279,6 +287,7 @@ export const solomonislandsLifeV2: POI[] = [
       ro: ["Cea mai mare lagună de apă dulce de pe insula Guadalcanal.", "Găzduiește o populație semnificativă de crocodili de apă sărată.", "Cuprinde o suprafață de apă de câțiva kilometri pătrați.", "Loc important de popas pentru păsările migratoare din Australia.", "Caracterizată prin ecosisteme de apă salmastră și mlaștină.", "Drepturile tradiționale de pescuit aparțin clanurilor locale."],
       en: ["Largest freshwater lagoon on the island of Guadalcanal.", "Home to a significant population of saltwater crocodiles.", "Covers a water surface area of several square kilometers.", "Important stopover for migratory birds from Australia.", "Characterized by brackish water ecosystems and swamp forest.", "Traditional fishing rights are held by local indigenous clans."],
     },
+    image: "/poi-images/solomonislands-lauvi-lagoon-life-v2.webp",
   },
   {
     id: "solomonislands-ontong-java-atoll-life-v2",
@@ -310,6 +319,7 @@ export const solomonislandsLifeV2: POI[] = [
       ro: ["Unul dintre cei mai mari atoli de corali din lume (lagună de 1.400 km²).", "Format din aproximativ 120 de insule de corali individuale.", "Aparține grupului de exclave polineziene.", "Altitudinea maximă este de aproximativ 3 metri peste nivelul mării.", "Principalul articol de export este castravetele de mare uscat.", "Descoperit de europeni în anul 1643 de către Abel Tasman."],
       en: ["One of the largest coral atolls in the world (1,400 km² lagoon).", "Comprises approximately 120 individual coral islets.", "Classified as a Polynesian Outlier community.", "Maximum elevation is only about 3 meters above sea level.", "Major export commodity is dried sea cucumber (beche-de-mer).", "First sighted by Europeans in 1643 by Abel Tasman."],
     },
+    image: "/poi-images/solomonislands-ontong-java-atoll-life-v2.webp",
   },
   {
     id: "solomonislands-vonavona-lagoon-life-v2",
@@ -341,6 +351,7 @@ export const solomonislandsLifeV2: POI[] = [
       ro: ["Găzduiește faimoasa 'Insulă a Craniilor' cu cranii de șefi.", "Situată între New Georgia și insula Vonavona.", "Formată dintr-o rețea complexă de insule de corali.", "Habitat important pentru dugong (vacă de mare).", "Casele tradiționale pe piloni definesc peisajul așezărilor.", "Centru pentru turism de scufundări durabil în Provincia de Vest."],
       en: ["Home to the famous 'Skull Island' containing ancestral remains.", "Located between New Georgia and Vonavona Island.", "Consists of a complex network of coral islets and channels.", "Important habitat for the rare dugong (sea cow).", "Characterized by traditional stilt house settlements.", "Center for sustainable dive tourism in the Western Province."],
     },
+    image: "/poi-images/solomonislands-vonavona-lagoon-life-v2.webp",
   },
   {
     id: "solomonislands-russell-islands-life-v2",
@@ -372,6 +383,7 @@ export const solomonislandsLifeV2: POI[] = [
       ro: ["Două insule principale: Pavuvu și Mbanika.", "Fost amplasament al celor mai mari plantații de cocos din Pacificul de Sud.", "Bază militară americană importantă în al Doilea Război Mondial.", "Cunoscute pentru zona de scufundări 'Custom Caves'.", "Situate la cca 40 km nord-vest de Guadalcanal.", "Găzduiesc liliacul pigmeu de Russell."],
       en: ["Two main islands are Pavuvu and Mbanika.", "Former site of the largest coconut plantations in the South Pacific.", "Significant U.S. military staging area during World War II.", "Famous for the 'Custom Caves' dive site.", "Located approximately 40 km northwest of Guadalcanal.", "Home to the endemic Russell Islands flying fox."],
     },
+    image: "/poi-images/solomonislands-russell-islands-life-v2.webp",
   },
   {
     id: "solomonislands-santa-ana-lake-life-v2",
@@ -403,6 +415,7 @@ export const solomonislandsLifeV2: POI[] = [
       ro: ["Găzduiește două lacuri de crater: Lacul Wairafa și Lacul Waipia.", "Numele local al insulei este Owaraha.", "Situată la capătul estic al provinciei Makira.", "Cunoscută pentru ritualurile tradiționale cu pești și dansurile cu măști.", "Lacurile sunt zone importante de cuibărit pentru speciile locale de rațe.", "Insula a fost descoperită în 1568 de Álvaro de Mendaña."],
       en: ["Home to two volcanic crater lakes: Lake Wairafa and Lake Waipia.", "The island's indigenous name is Owaraha.", "Located at the easternmost tip of Makira-Ulawa Province.", "Famous for traditional annual fishing rituals and masked dances.", "The lakes serve as vital breeding grounds for local ducks.", "The island was first sighted by Europeans in 1568 by Mendaña."],
     },
+    image: "/poi-images/solomonislands-santa-ana-lake-life-v2.webp",
   },
   {
     id: "solomonislands-ugi-island-life-v2",
@@ -434,6 +447,7 @@ export const solomonislandsLifeV2: POI[] = [
       ro: ["Situată la cca 9 km nord de insula Makira.", "Cel mai înalt punct al insulei este de aproximativ 160 de metri.", "Loc important al istoriei timpurii a misiunilor (sec. XIX).", "Găzduiește monarhul de Ugi (specie de pasăre) endemic.", "Cunoscută pentru densitatea sa mare de cocotieri.", "Recifele de corali oferă protecție pentru numeroase țestoase."],
       en: ["Located approx. 9 km north of Makira (San Cristobal).", "The highest point on the island is about 160 meters.", "Significant site in 19th-century missionary history.", "Home to the endemic bird subspecies, the Ugi monarch.", "Known for its extensive and productive coconut groves.", "Surrounding reefs are a refuge for green and hawksbill turtles."],
     },
+    image: "/poi-images/solomonislands-ugi-island-life-v2.webp",
   },
   {
     id: "solomonislands-roviana-lagoon-life-v2",
@@ -465,6 +479,7 @@ export const solomonislandsLifeV2: POI[] = [
       ro: ["Se întinde pe 50 km de-a lungul insulei New Georgia.", "Cunoscută pentru fortărețe montane megalitice antice.", "Habitat important pentru dugongul aflat în pericol.", "Dispune de o rețea de arii marine protejate locale.", "Găzduiește tradiționalele canoe de război Tomoko.", "Centru al culturii istorice a vânătorilor de capete."],
       en: ["Stretches for 50 km along the coast of New Georgia.", "Famous for ancient megalithic hill forts and shrines.", "Critical habitat for the vulnerable dugong (sea cow).", "Features a network of community-managed marine reserves.", "Home to the iconic Tomoko ceremonial war canoes.", "Center of the historical Roviana headhunting culture."],
     },
+    image: "/poi-images/solomonislands-roviana-lagoon-life-v2.webp",
   },
   {
     id: "solomonislands-lavoro-conservation-area-life-v2",
@@ -496,6 +511,7 @@ export const solomonislandsLifeV2: POI[] = [
       ro: ["Protejează pădurea primară în vestul Guadalcanal.", "Zonă tampon importantă împotriva expansiunii agricole.", "Include habitate ale rarului cuscus cenușiu.", "Numeroase pârâuri de munte izvorăsc în această zonă.", "Asigură alimentarea cu apă potabilă a satelor locale.", "Parte a hotspot-urilor de biodiversitate din Insulele Solomon."],
       en: ["Protects primary rainforest in West Guadalcanal.", "Acts as a vital buffer zone against agricultural encroachment.", "Contains habitats for the rare gray cuscus marsupial.", "Numerous mountain streams originate within its boundaries.", "Secures the freshwater supply for several local villages.", "Part of the Solomon Islands' biodiversity hotspots."],
     },
+    image: "/poi-images/solomonislands-lavoro-conservation-area-life-v2.webp",
   },
   {
     id: "solomonislands-mt-maetambe-life-v2",
@@ -527,6 +543,7 @@ export const solomonislandsLifeV2: POI[] = [
       ro: ["Cel mai înalt munte de pe insula Choiseul, cu 1.060 metri.", "Format din rocă vulcanică și carst calcaros.", "Găzduiește ecosisteme rare de pădure de ceață.", "Centrul geografic al provinciei Choiseul.", "Loc important pentru legendele locale și spiritualitate.", "Conține unele dintre cele mai adânci sisteme de peșteri."],
       en: ["Highest mountain on Choiseul Island at 1,060 meters.", "Composed of volcanic rock and limestone karst formations.", "Hosts rare and fragile cloud forest ecosystems.", "Serves as the geographical heart of Choiseul Province.", "Site of great significance in local indigenous folklore.", "Contains some of the island's most extensive cave systems."],
     },
+    image: "/poi-images/solomonislands-mt-maetambe-life-v2.webp",
   },
   {
     id: "solomonislands-buala-wetlands-life-v2",
@@ -558,6 +575,7 @@ export const solomonislandsLifeV2: POI[] = [
       ro: ["Sistem estuar semnificativ lângă orașul Buala.", "Dominat de păduri întinse de mangrove.", "Protecție importantă împotriva eroziunii costiere și tsunami-urilor.", "Habitat pentru populația de crocodili de apă sărată.", "Sursă de palmieri sago ca material de construcție tradițional.", "Zonă de cuibărit pentru numeroase păsări de apă din Pacific."],
       en: ["Major estuarine system located near the town of Buala.", "Dominated by extensive and healthy mangrove forests.", "Provides critical protection against coastal erosion and tsunamis.", "Habitat for a significant population of saltwater crocodiles.", "Key source of sago palm used for traditional thatch building.", "Breeding ground for numerous Pacific waterfowl species."],
     },
+    image: "/poi-images/solomonislands-buala-wetlands-life-v2.webp",
   },
   {
     id: "solomonislands-auki-mangroves-life-v2",
@@ -589,6 +607,7 @@ export const solomonislandsLifeV2: POI[] = [
       ro: ["Una dintre cele mai mari zone de mangrove de pe insula Malaita.", "Înconjoară capitala provinciei, Auki.", "Filtru important pentru sedimente și nutrienți către mare.", "Situată aproape de insulele artificiale tradiționale.", "Oferă habitat pentru numeroase specii de crustacee.", "Funcție de protecție împotriva eroziunii cauzate de maree."],
       en: ["One of the largest mangrove ecosystems on Malaita Island.", "Encircles the provincial capital town of Auki.", "Acts as a vital filter for sediments and nutrients entering the sea.", "Located in close proximity to traditional artificial islands.", "Provides a critical habitat for numerous shellfish species.", "Protects the coastal infrastructure from tidal erosion."],
     },
+    image: "/poi-images/solomonislands-auki-mangroves-life-v2.webp",
   },
   {
     id: "solomonislands-ndende-island-forest-life-v2",
@@ -620,6 +639,7 @@ export const solomonislandsLifeV2: POI[] = [
       ro: ["Cea mai mare insulă din grupul Santa Cruz (provincia Temotu).", "Găzduiește impunătorul brad Kauri de Pacific.", "Ecosistem izolat cu un grad ridicat de endemism.", "Oferă habitat pentru monarhul de Santa Cruz.", "Pădurea este folosită tradițional pentru construcția de canoe.", "Descoperită de spaniolul Álvaro de Mendaña în anul 1595."],
       en: ["Largest island in the Santa Cruz group of Temotu Province.", "Home to the massive and ancient Pacific Kauri trees.", "Isolated ecosystem with a high rate of biological endemism.", "Primary habitat for the endemic Santa Cruz monarch bird.", "Forest resources are traditionally used for seafaring canoe building.", "First recorded by Spanish explorer Álvaro de Mendaña in 1595."],
     },
+    image: "/poi-images/solomonislands-ndende-island-forest-life-v2.webp",
   },
   {
     id: "solomonislands-vanikoro-forest-life-v2",
@@ -651,6 +671,7 @@ export const solomonislandsLifeV2: POI[] = [
       ro: ["Insula Vanikoro are o suprafață totală de aproximativ 173 de kilometri pătrați.", "În 1788, întreaga expediție franceză condusă de La Pérouse a dispărut în această zonă.", "Vulpea zburătoare de Vanikoro (Pteropus vanikorensis) este o specie endemică a acestor păduri.", "Cea mai înaltă cotă de pe Vanikoro, Muntele Banie, atinge 923 de metri deasupra nivelului mării.", "Cercetările arheologice din 2005 au confirmat locația epavelor navelor Boussole și Astrolabe.", "Pădurea face parte din regiunea biogeografică distinctă a Insulelor Santa Cruz."],
       en: ["The island of Vanikoro covers a total land area of approximately 173 square kilometers.", "The entire French expedition of La Pérouse vanished here in the year 1788.", "The endemic Vanikoro flying fox (Pteropus vanikorensis) is found only in these forests.", "The highest point on Vanikoro, Mount Banie, rises to 923 meters above sea level.", "Archaeological investigations in 2005 confirmed the wreck sites of the ships Boussole and Astrolabe.", "The forest is part of the distinct Santa Cruz Islands phytogeographical province."],
     },
+    image: "/poi-images/solomonislands-vanikoro-forest-life-v2.webp",
   },
   {
     id: "solomonislands-duff-islands-life-v2",
@@ -682,6 +703,7 @@ export const solomonislandsLifeV2: POI[] = [
       ro: ["Insulele Duff au fost descoperite în 1568 de navigatorul spaniol Álvaro de Mendaña de Neira.", "Taumako este cea mai mare insulă a grupului, atingând o altitudine de 400 de metri.", "Locuitorii vorbesc limba Taumako, o limbă de origine polineziană.", "Arhipelagul se află la aproximativ 150 de kilometri nord-est de Insulele Santa Cruz.", "Canoele tradiționale sunt fabricate din lemnul arborelui local numit Te Lulu.", "Tehnica de navigație 'Te Lapa' utilizează fenomene luminoase de pe suprafața mării pentru orientare."],
       en: ["The Duff Islands were first sighted by Spanish explorer Álvaro de Mendaña de Neira in 1568.", "Taumako is the largest island in the cluster, rising to an elevation of 400 meters.", "The residents speak Taumako, which is classified as a Polynesian language.", "The group is located approximately 150 kilometers northeast of the Santa Cruz Islands.", "Traditional voyaging canoes are crafted from the timber of the Te Lulu tree.", "The 'Te Lapa' navigation technique involves interpreting underwater light flashes for orientation."],
     },
+    image: "/poi-images/solomonislands-duff-islands-life-v2.webp",
   },
   {
     id: "solomonislands-reef-islands-life-v2",
@@ -713,6 +735,7 @@ export const solomonislandsLifeV2: POI[] = [
       ro: ["Insulele Reef se află la aproximativ 80 de kilometri nord de insula Nendö.", "Lomlom este cea mai mare și cea mai dens populată insulă din grup.", "Descoperirile de ceramică Lapita atestă o locuire de acum peste 3000 de ani.", "Moneda tradițională 'Tevau' este fabricată din penele păsării mâncătoare de miere.", "Climatul este tropical, cu un sezon ploios marcat între noiembrie și aprilie.", "Recifele găzduiesc peste 1000 de specii de pești și numeroase tipuri de corali."],
       en: ["The Reef Islands are situated about 80 kilometers north of Nendö Island.", "Lomlom is the largest and most populous island within the group.", "Lapita pottery fragments found here indicate settlement over 3000 years ago.", "Traditional 'Tevau' currency is meticulously crafted from honeyeater bird feathers.", "The region experiences a tropical climate with a heavy monsoon season from November to April.", "The surrounding reefs are home to over 1000 fish species and diverse coral formations."],
     },
+    image: "/poi-images/solomonislands-reef-islands-life-v2.webp",
   },
   {
     id: "solomonislands-tikopia-island-life-v2",
@@ -744,5 +767,6 @@ export const solomonislandsLifeV2: POI[] = [
       ro: ["Suprafața insulei este de numai aproximativ 5 kilometri pătrați.", "Muntele Reani este cea mai înaltă cotă a insulei, având 380 de metri.", "Lacul Te Roto este un fost crater vulcanic, separat de mare printr-un banc de nisip.", "Există patru clanuri principale pe insulă: Kafika, Tafua, Taumako și Fangarere.", "Insula a fost descoperită în 1606 de navigatorul Pedro Fernandes de Queirós.", "Din cauza resurselor limitate, creșterea porcilor a fost interzisă de generații."],
       en: ["The total land area of Tikopia is only about 5 square kilometers.", "Mount Reani is the island's highest point, reaching an elevation of 380 meters.", "Lake Te Roto is a former volcanic crater separated from the ocean by a narrow sandbar.", "The society is organized into four primary clans: Kafika, Tafua, Taumako, and Fangarere.", "The island was first recorded by explorer Pedro Fernandes de Queirós in 1606.", "To conserve limited land resources, pig farming was banned by decree several generations ago."],
     },
+    image: "/poi-images/solomonislands-tikopia-island-life-v2.webp",
   }
 ];

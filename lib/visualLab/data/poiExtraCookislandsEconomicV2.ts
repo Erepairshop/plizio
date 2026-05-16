@@ -31,6 +31,7 @@ export const cookislandsEconomicV2: POI[] = [
       ro: ["Portul a fost construit în anii 1960 și modernizat în anii 1990.", "Lungimea cheului este de 150 de metri.", "Portul manipulează anual aproximativ 200.000 de tone de marfă.", "Adâncimea apei la cheu este de până la 8 metri.", "Portul servește ca bază pentru flota de pescuit a Insulelor Cook.", "Portul Avatiu se află la mai puțin de 2 km de centrul orașului Avarua."],
       en: ["Avatiu Harbour was built in the 1960s and upgraded in the 1990s.", "The main wharf is 150 meters long.", "Annual cargo throughput is approximately 200,000 tonnes.", "Water depth at the wharf reaches up to 8 meters.", "The harbour serves as a base for the Cook Islands fishing fleet.", "Avarua town centre is less than 2 km from the harbour."],
     },
+    image: "/poi-images/cookislands-avatiu-harbour-economic-v2.webp",
   },
   {
     id: "cookislands-manihiki-pearl-farms-economic-v2",
@@ -62,6 +63,7 @@ export const cookislandsEconomicV2: POI[] = [
       ro: ["Manihiki este situat la aproximativ 1.300 km nord de Rarotonga.", "Cultivarea perlelor a început la începutul anilor 1970.", "Laguna Manihiki are o suprafață de aproximativ 90 km².", "Se estimează că anual se recoltează între 10.000 și 20.000 de perle.", "Valoarea exporturilor de perle depășește 5 milioane NZD anual.", "Fermele angajează aproximativ 200 din cei 250 de locuitori ai insulei."],
       en: ["Manihiki is located about 1,300 km north of Rarotonga.", "Pearl farming began in the early 1970s.", "Manihiki's lagoon covers approximately 90 km².", "Annual harvest is estimated between 10,000 and 20,000 pearls.", "Pearl exports exceed NZ$5 million annually.", "The farms employ roughly 200 of the island's 250 residents."],
     },
+    image: "/poi-images/cookislands-manihiki-pearl-farms-economic-v2.webp",
   },
   {
     id: "cookislands-aitutaki-airport-economic-v2",
@@ -93,6 +95,7 @@ export const cookislandsEconomicV2: POI[] = [
       ro: ["Aeroportul Aitutaki se află la 3 km nord de Arutanga.", "Pista de aterizare are o lungime de 1.800 de metri.", "Aeroportul gestionează peste 50.000 de pasageri anual.", "Air Rarotonga operează zboruri zilnice către Rarotonga (circa 45 de minute).", "Pista a fost extinsă și renovată în 2015.", "Aeroportul este situat la o altitudine de 3 metri deasupra nivelului mării."],
       en: ["Aitutaki Airport is located 3 km north of Arutanga.", "The runway is 1,800 meters long.", "The airport handles over 50,000 passengers annually.", "Air Rarotonga operates daily flights to Rarotonga (approx. 45 minutes).", "The runway was extended and resurfaced in 2015.", "The airport elevation is 3 meters above sea level."],
     },
+    image: "/poi-images/cookislands-aitutaki-airport-economic-v2.webp",
   },
   {
     id: "cookislands-punanga-nui-market-economic-v2",
@@ -124,6 +127,7 @@ export const cookislandsEconomicV2: POI[] = [
       ro: ["Piața Punanga Nui este deschisă în fiecare sâmbătă între orele 7:00 și 12:00.", "Atrage peste 5.000 de vizitatori pe săptămână.", "Piața a fost înființată în anii 1980.", "Peste 100 de vânzători își oferă produsele.", "Cifra de afaceri în sezonul de vârf este estimată la peste 100.000 NZD pe sâmbătă.", "Piața este situată pe malul apei, lângă portul Avatiu."],
       en: ["Punanga Nui Market operates every Saturday from 7:00 AM to 12:00 PM.", "It attracts over 5,000 visitors weekly.", "The market was established in the 1980s.", "Over 100 vendors sell their products.", "Turnover during peak season can exceed NZ$100,000 per Saturday.", "The market is located waterfront near Avatiu Harbour."],
     },
+    image: "/poi-images/cookislands-punanga-nui-market-economic-v2.webp",
   },
   {
     id: "cookislands-atiu-coffee-factory-economic-v2",
@@ -155,6 +159,7 @@ export const cookislandsEconomicV2: POI[] = [
       ro: ["Fabrica produce anual 1-2 tone de cafea.", "Cafeaua este cultivată la o altitudine de 80-100 de metri.", "Fabrica a fost fondată în anii 1990.", "Cafeaua este certificată organic.", "Insula Atiu se află la aproximativ 200 km nord-est de Rarotonga.", "Fabrica angajează 5-10 persoane."],
       en: ["The factory produces 1-2 tons of coffee annually.", "Coffee is grown at an elevation of 80-100 meters.", "The factory was established in the 1990s.", "The coffee is certified organic.", "Atiu island is located about 200 km northeast of Rarotonga.", "The factory employs 5-10 workers."],
     },
+    image: "/poi-images/cookislands-atiu-coffee-factory-economic-v2.webp",
   },
   {
     id: "cookislands-te-mana-uira-solar-farm-economic-v2",
@@ -186,6 +191,7 @@ export const cookislandsEconomicV2: POI[] = [
       ro: ["Ferma solară a fost dată în funcțiune în 2018.", "Capacitatea instalată este de 1,2 MWp.", "Sunt instalate aproximativ 3.000 de panouri fotovoltaice.", "Ferma acoperă circa 5% din necesarul de electricitate al insulei Rarotonga.", "Reducerea anuală a emisiilor de CO2 este de aproximativ 1.500 de tone.", "Suprafața fermei solare este de 2,5 hectare."],
       en: ["The solar farm was commissioned in 2018.", "Installed capacity is 1.2 MWp.", "Approximately 3,000 photovoltaic panels are installed.", "It covers about 5% of Rarotonga's electricity demand.", "Annual CO2 savings: approx. 1,500 tonnes.", "The solar farm occupies 2.5 hectares."],
     },
+    image: "/poi-images/cookislands-te-mana-uira-solar-farm-economic-v2.webp",
   },
   {
     id: "cookislands-citc-warehouse-complex-economic-v2",
@@ -217,6 +223,7 @@ export const cookislandsEconomicV2: POI[] = [
       ro: ["Suprafața totală a depozitelor este de aproximativ 10.000 m².", "Complexul este situat lângă portul Avatiu.", "CITC angajează peste 500 de persoane la nivel național.", "Compania a fost fondată în anul 1908.", "Complexul a fost extins în anii 1990.", "Volumul de depozitare este estimat la peste 50.000 m³."],
       en: ["Total warehouse floor area is approx. 10,000 m².", "The complex is located near Avatiu Harbour.", "CITC employs over 500 people nationwide.", "The company was founded in 1908.", "The complex was expanded in the 1990s.", "Storage volume is estimated at over 50,000 m³."],
     },
+    image: "/poi-images/cookislands-citc-warehouse-complex-economic-v2.webp",
   },
   {
     id: "cookislands-mangaia-pineapple-plantations-economic-v2",
@@ -248,6 +255,7 @@ export const cookislandsEconomicV2: POI[] = [
       ro: ["Mangaia este cea mai sudică insulă a arhipelagului Cook.", "Recoltarea ananasului are loc din octombrie până în ianuarie.", "Plantațiile se întind pe aproximativ 50 de hectare.", "Aproximativ 100 de insulari lucrează în producția de ananas.", "Ananasul din Mangaia este un soi local care nu se cultivă în altă parte.", "Insula are o suprafață de aproximativ 51 km²."],
       en: ["Mangaia is the southernmost island of the Cook Islands.", "Pineapple harvest runs from October to January.", "Plantations cover approximately 50 hectares.", "About 100 islanders are employed in pineapple production.", "The Mangaia pineapple is a local variety not grown elsewhere.", "The island has an area of about 51 km²."],
     },
+    image: "/poi-images/cookislands-mangaia-pineapple-plantations-economic-v2.webp",
   },
   {
     id: "cookislands-rarotonga-brewery-economic-v2",
@@ -279,6 +287,7 @@ export const cookislandsEconomicV2: POI[] = [
       ro: ["Fabrica de bere a fost fondată în 1998.", "Producția anuală este de aproximativ 1,5 milioane de litri.", "Cooks Lager este cea mai populară bere din Insulele Cook.", "Fabrica angajează 30 de persoane.", "Berea este exportată în Noua Zeelandă și Australia.", "Fabrica oferă tururi ghidate zilnic."],
       en: ["The brewery was founded in 1998.", "Annual production is approximately 1.5 million liters.", "Cooks Lager is the best-selling beer in the Cook Islands.", "The brewery employs 30 staff.", "Beer is exported to New Zealand and Australia.", "The brewery offers daily guided tours."],
     },
+    image: "/poi-images/cookislands-rarotonga-brewery-economic-v2.webp",
   },
   {
     id: "cookislands-penrhyn-marine-resources-economic-v2",
@@ -310,5 +319,6 @@ export const cookislandsEconomicV2: POI[] = [
       ro: ["Penrhyn este situat la aproximativ 1.365 km nord de Rarotonga.", "Laguna are o suprafață de circa 300 km².", "Insula are o populație de aproximativ 200 de locuitori.", "Captura anuală de ton este estimată la 50 de tone.", "Laguna găzduiește una dintre cele mai mari ferme de perle din Insulele Cook.", "Penrhyn este cunoscut și sub numele de Tongareva."],
       en: ["Penrhyn is located about 1,365 km north of Rarotonga.", "The lagoon covers an area of approximately 300 km².", "The atoll has a population of around 200 people.", "Annual tuna catch is estimated at 50 tonnes.", "The lagoon hosts one of the largest pearl farms in the Cook Islands.", "Penrhyn is also known as Tongareva."],
     },
+    image: "/poi-images/cookislands-penrhyn-marine-resources-economic-v2.webp",
   }
 ];

@@ -589,6 +589,7 @@ export const poiExtraDe2: POI[] = [
       ro: ["Fabrica Volkswagen din Wolfsburg este cea mai mare fabrică de mașini din lume.", "Autostadt este un parc tematic vizitat de peste 2 milioane de oameni anual.", "Phæno, proiectat de Zaha Hadid, este una dintre cele mai avangardiste clădiri din lume.", "Orașul a fost fondat la data de 1 iulie 1938.", "Turnurile de sticlă pentru depozitarea mașinilor din Autostadt au 48 de metri înălțime.", "Castelul Wolfsburg, un monument renascentist, a dat numele orașului modern."],
       en: ["Founded in 1938 as the production site for the 'KdF-Wagen' (VW Beetle).", "Global headquarters of Volkswagen, the world's largest carmaker.", "Home to the Autostadt, a massive automotive theme park.", "Features the Phaeno Science Center, an architectural masterpiece.", "The VW factory complex covers an area larger than Monaco.", "One of the wealthiest cities in Germany per capita."]
     },
+    image: "/poi-images/city-wolfsburg-extra.webp",
   },
   {
     id: "city-braunschweig-extra",
@@ -1133,6 +1134,7 @@ export const poiExtraDe2: POI[] = [
       ro: ["Chemnitz a fost ales Capitală Europeană a Culturii pentru anul 2025.", "Monumentul Karl Marx, înalt de 7 metri, este a doua cea mai mare sculptură de cap din lume.", "În secolul XIX, Chemnitz era cel mai bogat oraș din Germania datorită industriei sale.", "Turnul Roșu (Roter Turm) este cel mai vechi simbol al orașului, datând din secolul XII.", "Orașul a fost redenumit Karl-Marx-Stadt între 1953 și 1990.", "Muzeul Industrial din Chemnitz documentează istoria de 200 de ani a tehnologiei saxone."],
       en: ["Known as 'Karl-Marx-Stadt' between 1953 and 1990.", "European Capital of Culture for the year 2025.", "Home to the massive 7-meter high Karl Marx Monument head.", "Historically famous for its world-class textile and machine industry.", "The Chemnitz Museum of Industry is housed in a historic foundry.", "A major hub for the German automotive supply chain."]
     },
+    image: "/poi-images/city-chemnitz-extra.webp",
   },
   {
     id: "city-zwickau-extra",
@@ -1282,6 +1284,7 @@ export const poiExtraDe2: POI[] = [
       ro: ["Elbe străbate aproximativ 180 de kilometri pe teritoriul Saxoniei.", "Valea Elbei din Dresda a fost patrimoniu UNESCO până în anul 2009.", "Flota 'Sächsische Dampfschiffahrt' deține nouă vapoare cu zbaturi istorice.", "Lățimea râului în Dresda variază între 100 și 120 de metri.", "Regiunea viticolă de pe malul Elbei este celebră pentru soiul de vin 'Goldriesling'.", "Elbe-Radweg, traseul de biciclete de-a lungul râului, este cel mai popular din Germania."],
       en: ["Flows through the unique Elbe Sandstone Mountains (Saxon Switzerland).", "Home to the world's oldest and largest fleet of side-paddle steamers.", "Passes through Dresden, often called the 'Florence on the Elbe'.", "The Elbe Valley in Saxony was once a UNESCO World Heritage site.", "A major route for the historical transport of Meissen porcelain.", "The Elbe Cycle Path is consistently voted Germany's most popular."]
     },
+    image: "/poi-images/river-elbe-sachsen-extra.webp",
   },
   {
     id: "hist-meissen-extra",
@@ -1692,6 +1695,7 @@ export const poiExtraDe2: POI[] = [
       ro: ["Deutsches Eck marchează locul unde Mosela se varsă în fluviul Rin.", "Fortăreața Ehrenbreitstein se află la 118 metri deasupra nivelului Rinului.", "Orașul a fost fondat de romani sub numele de 'Confluentes' în anul 9 î.Hr.", "Face parte din patrimoniul mondial UNESCO 'Valea Superioară a Rinului Mijlociu'.", "Telecabina din Koblenz are cea mai mare capacitate de transport din Germania.", "Castelul Electoral (Kurfürstliches Schloss) a fost ultima reședință a electorilor de Trier."],
       en: ["Located at the confluence of the Rhine and Moselle rivers.", "Founded by the Romans in 9 BC as 'Confluentes'.", "Home to the Ehrenbreitstein Fortress, Europe's second-largest preserved fortress.", "The panoramic cable car (Seilbahn Koblenz) was built for the BUGA 2011.", "Features the monumental equestrian statue of Emperor William I.", "Gateway to the UNESCO World Heritage Middle Rhine Valley."]
     },
+    image: "/poi-images/city-koblenz-extra.webp",
   },
   {
     id: "river-mosel-rp-extra",

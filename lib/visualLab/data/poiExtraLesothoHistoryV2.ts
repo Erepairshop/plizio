@@ -31,6 +31,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Locul de naștere al lui Moshoeshoe I. (circa 1786)", "Altitudine: 1.500 m", "Prima fortăreață construită: aprox. 1800", "Săpături arheologice: 200 de metri pătrați", "Patrimoniu național din: 1967", "Vizitatori anuali: aprox. 5.000"],
       en: ["Birthplace of Moshoeshoe I (c. 1786)", "Elevation: 1,500 m", "First fortress built: ca. 1800", "Archaeological excavation: 200 sq m", "National heritage since: 1967", "Annual visitors: approx. 5,000"],
     },
+    image: "/poi-images/lesotho-menkhoaneng-history-v2.webp",
   },
   {
     id: "lesotho-cana-mission-history-v2",
@@ -62,6 +63,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Anul fondării: 1833", "Construirea bisericii: 1854", "Arhitect: misionarul Eugène Casalis", "Altitudine: 1.550 m", "Școala fondată: 1834", "Suprafața muzeului: 150 m²"],
       en: ["Year founded: 1833", "Church built: 1854", "Architect: missionary Eugène Casalis", "Elevation: 1,550 m", "School founded: 1834", "Museum area: 150 sq m"],
     },
+    image: "/poi-images/lesotho-cana-mission-history-v2.webp",
   },
   {
     id: "lesotho-masitise-cave-history-v2",
@@ -93,6 +95,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Lățime: 30 m", "Înălțime: 10 m", "Picturi rupestre: cel puțin 2.000 de ani", "Prima săpătură arheologică: 1985", "Număr de unelte de piatră găsite: peste 500", "Monument național din: 1992"],
       en: ["Width: 30 m", "Height: 10 m", "Rock paintings: at least 2,000 years old", "First archaeological excavation: 1985", "Stone tools found: over 500", "National monument since: 1992"],
     },
+    image: "/poi-images/lesotho-masitise-cave-history-v2.webp",
   },
   {
     id: "lesotho-liphofung-centre-history-v2",
@@ -124,6 +127,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Anul deschiderii: 1978", "Vizitatori pe an: 10.000", "Suprafața terenului: 5 hectare", "Număr de exponate: 200", "Durata atelierelor: 3 ore", "Număr de colibe tradiționale: 12"],
       en: ["Year opened: 1978", "Visitors per year: 10,000", "Site area: 5 hectares", "Number of exhibits: 200", "Workshop duration: 3 hours", "Number of traditional huts: 12"],
     },
+    image: "/poi-images/lesotho-liphofung-centre-history-v2.webp",
   },
   {
     id: "lesotho-sehonghong-shelter-history-v2",
@@ -155,6 +159,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Cel mai vechi strat de locuire: 10.000 î.Hr.", "Anul excavării: 1987", "Număr de microlite găsite: 1.500", "Altitudine: 2.100 m", "Suprafață protejată: 0,5 hectare", "Metoda de datare: radiocarbon"],
       en: ["Earliest occupation layer: 10,000 BC", "Excavation year: 1987", "Microliths found: 1,500", "Elevation: 2,100 m", "Protected area: 0.5 hectares", "Dating method: radiocarbon"],
     },
+    image: "/poi-images/lesotho-sehonghong-shelter-history-v2.webp",
   },
   {
     id: "lesotho-melikane-shelter-history-v2",
@@ -186,6 +191,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Vârsta celui mai vechi strat: 40.000 de ani", "Prima excavare: 1991", "Număr de unelte de piatră: 3.000", "Altitudine: 1.950 m", "Tradiție culturală: Howiesons-Poort", "Suprafața excavată: 100 m²"],
       en: ["Oldest layer age: 40,000 years", "First excavation: 1991", "Stone tools count: 3,000", "Elevation: 1,950 m", "Cultural tradition: Howiesons-Poort", "Excavated area: 100 sq m"],
     },
+    image: "/poi-images/lesotho-melikane-shelter-history-v2.webp",
   },
   {
     id: "lesotho-makotoko-site-history-v2",
@@ -217,6 +223,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Perioada de utilizare: 8.000–6.000 î.Hr.", "Prima excavare: 1994", "Număr de microlite: 800", "Fragmente de ocru: 50", "Altitudine: 1.600 m", "Statut de protecție: patrimoniu cultural național"],
       en: ["Period of use: 8,000–6,000 BC", "First excavation: 1994", "Microliths found: 800", "Ochre fragments: 50", "Elevation: 1,600 m", "Protection: national cultural heritage"],
     },
+    image: "/poi-images/lesotho-makotoko-site-history-v2.webp",
   },
   {
     id: "lesotho-hermon-ruins-history-v2",
@@ -248,6 +255,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Anul construirii bisericii: 1856", "Grosimea zidurilor de gresie: 2 m", "Cimitir: 30 de morminte", "Statut de protecție din: 1980", "Înălțimea ruinelor: până la 4 m", "Locație: 29°S, 27°E"],
       en: ["Church built: 1856", "Sandstone walls: 2 m thick", "Cemetery: 30 graves", "Protected since: 1980", "Ruins height: up to 4 m", "Location: 29°S, 27°E"],
     },
+    image: "/poi-images/lesotho-hermon-ruins-history-v2.webp",
   },
   {
     id: "lesotho-siloe-hill-history-v2",
@@ -279,6 +287,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Anul fondării misiunii: 1838", "Înălțimea colinei: 1.700 m", "Suprafața ruinelor: 500 m²", "Distanța până la Mafeteng: 10 km", "Monument național din: 1972", "Vizitatori anuali: 3.000"],
       en: ["Year mission founded: 1838", "Hill elevation: 1,700 m", "Ruins area: 500 sq m", "Distance to Mafeteng: 10 km", "National monument since: 1972", "Annual visitors: 3,000"],
     },
+    image: "/poi-images/lesotho-siloe-hill-history-v2.webp",
   },
   {
     id: "lesotho-bethesda-church-history-v2",
@@ -310,6 +319,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Anul construirii: 1884", "Stil arhitectural: neogotic", "Anul construirii orgii: 1890", "Vitralii: 8 scene biblice", "Renovare: 2000", "Locuri: 300"],
       en: ["Year built: 1884", "Architectural style: Neo-Gothic", "Organ built: 1890", "Stained glass windows: 8 biblical scenes", "Renovation: 2000", "Seating capacity: 300"],
     },
+    image: "/poi-images/lesotho-bethesda-church-history-v2.webp",
   },
   {
     id: "lesotho-tebellong-station-history-v2",
@@ -341,6 +351,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Fondată în 1847 de Societatea Misionară Evanghelică din Paris.", "Altitudine: aproximativ 2.200 de metri deasupra nivelului mării.", "A servit ca refugiu strategic britanic în timpul Războiului Basotho (1880–1881).", "Suprafața agricolă a stației depășea 100 de hectare.", "Cea mai veche clădire datează din 1850.", "Cimitirul conține 47 de morminte documentate ale misionarilor și localnicilor."],
       en: ["Founded in 1847 by the Paris Evangelical Missionary Society.", "Elevation: approximately 2,200 meters above sea level.", "Served as a British strategic refuge during the Basotho Gun War (1880–1881).", "Agricultural area exceeded 100 hectares.", "Oldest building dates from 1850.", "Cemetery contains 47 documented graves of missionaries and locals."],
     },
+    image: "/poi-images/lesotho-tebellong-station-history-v2.webp",
   },
   {
     id: "lesotho-paray-history-v2",
@@ -372,6 +383,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Fondată în 1862 de iezuiții francezi.", "Biserica, în stil neogotic, a fost finalizată în 1875.", "Orga datează din 1882.", "Misiunea a operat 12 școli primare.", "Terenul misiunii se întinde pe 50 de hectare.", "Comunitatea numără aproximativ 5.000 de membri."],
       en: ["Founded in 1862 by French Jesuits.", "Church completed in 1875 in Neo-Gothic style.", "Organ dates from 1882.", "Mission operated 12 primary schools.", "Mission grounds cover 50 hectares.", "Congregation numbers approximately 5,000 members."],
     },
+    image: "/poi-images/lesotho-paray-history-v2.webp",
   },
   {
     id: "lesotho-maliele-art-history-v2",
@@ -403,6 +415,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Cele mai vechi reprezentări datează din secolul al XVIII-lea.", "Înălțimea pereților de stâncă: până la 15 metri.", "Peste 200 de figuri individuale au fost documentate.", "Pigmenți folosiți: ocru (roșu), cărbune (negru) și caolin (alb).", "Protejat ca monument din 1998.", "Situl se întinde pe 3 hectare."],
       en: ["Earliest depictions date from the 18th century.", "Rock faces up to 15 meters high.", "Over 200 individual figures documented.", "Pigments used: ochre (red), charcoal (black), kaolin (white).", "Protected as a heritage site since 1998.", "Site covers an area of 3 hectares."],
     },
+    image: "/poi-images/lesotho-maliele-art-history-v2.webp",
   },
   {
     id: "lesotho-sebapala-site-history-v2",
@@ -434,6 +447,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Datare: 1000–1600 d.Hr. (Epoca Fierului).", "Săpături începute în 1985 de Universitatea din Lesotho.", "Peste 300 de cioburi ceramice recuperate.", "Zgura de fier indică prelucrarea locală a metalelor.", "Oase de bovine, ovine și caprine.", "Situl se întinde pe aproximativ 0,5 hectare."],
       en: ["Dated 1000–1600 CE (Iron Age).", "Excavations began in 1985 by University of Lesotho.", "Over 300 pottery sherds recovered.", "Iron slag indicates local metalworking.", "Animal bones from cattle, sheep, and goats.", "Site covers approx. 0.5 hectares."],
     },
+    image: "/poi-images/lesotho-sebapala-site-history-v2.webp",
   },
   {
     id: "lesotho-qhomane-hill-history-v2",
@@ -465,6 +479,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Altitudine: aproximativ 2.600 de metri.", "Zidurile de piatră au grosimea de până la 2 metri.", "Protejat ca patrimoniu național din 1975.", "Folosit în timpul războaielor Difaqane (1820–1830).", "Dealul se ridică cu aproximativ 300 de metri deasupra văii.", "Fortăreața se întinde pe aproximativ 1 hectar."],
       en: ["Elevation: approx. 2,600 meters above sea level.", "Stone walls up to 2 meters thick.", "National heritage site since 1975.", "Used during the Difaqane wars (1820–1830).", "Hill rises about 300 meters above surrounding valley.", "Fortress covers an area of about 1 hectare."],
     },
+    image: "/poi-images/lesotho-qhomane-hill-history-v2.webp",
   },
   {
     id: "lesotho-koalabata-ruins-history-v2",
@@ -496,6 +511,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Așezare datând din secolul al XVIII-lea.", "Diametrul celor mai mari cercuri de piatră: până la 15 metri.", "Protejat ca monument din 1965.", "Zidurile sunt construite din piatră bazaltică locală.", "Săpăturile din 1970 au scos la iveală cioburi ceramice.", "Situl se întinde pe 2 hectare."],
       en: ["Settlement dates from the 18th century.", "Largest stone circles up to 15 meters in diameter.", "Protected as a monument since 1965.", "Walls built from local basalt stone.", "1970 excavations uncovered pottery shards.", "Site extends over 2 hectares."],
     },
+    image: "/poi-images/lesotho-koalabata-ruins-history-v2.webp",
   },
   {
     id: "lesotho-lancers-gap-history-v2",
@@ -527,6 +543,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Altitudine: aproximativ 3.000 de metri.", "Folosit strategic în al Doilea Război al Burilor (1899–1902).", "Trecătoarea are aproximativ 8 kilometri lungime.", "Traseul de drumeție nr. 5 al Drumului Înalt al Lesotho-ului.", "Temperatura minimă iarna atinge -15°C.", "Specii endemice de păsări precum ciocănitoarea Maloti."],
       en: ["Elevation: approx. 3,000 meters above sea level.", "Used strategically in the Second Boer War (1899–1902).", "Pass is about 8 kilometers long.", "Trail number 5 of the Lesotho Highlands Path.", "Winter minimum temperature reaches -15°C.", "Home to endemic bird species such as the Maloti barbet."],
     },
+    image: "/poi-images/lesotho-lancers-gap-history-v2.webp",
   },
   {
     id: "lesotho-pius-xii-college-history-v2",
@@ -558,6 +575,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Fondat în 1945 ca Pius XII College.", "Prima instituție de învățământ superior din Lesotho.", "Redenumit în Universitatea Națională a Lesotho-ului în 1975.", "Campusul se întinde pe 150 de hectare în Roma.", "Capela Sf. Augustin a fost sfințită în 1950.", "Inițial, 70 de studenți s-au înscris."],
       en: ["Founded in 1945 as Pius XII College.", "First tertiary institution in Lesotho.", "Renamed National University of Lesotho in 1975.", "Campus covers 150 hectares in Roma.", "St. Augustine Chapel consecrated in 1950.", "Initially 70 students enrolled."],
     },
+    image: "/poi-images/lesotho-pius-xii-college-history-v2.webp",
   },
   {
     id: "lesotho-major-bell-tower-history-v2",
@@ -589,6 +607,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Construit în 1907.", "Înălțime: 18 metri.", "Material: gresie locală.", "Folosit inițial ca turn de pază.", "Monument protejat din 1967.", "Situat în centrul orașului Maseru, lângă Kingsway."],
       en: ["Built in 1907.", "Height: 18 meters.", "Material: local sandstone.", "Originally used as a watchtower.", "Protected monument since 1967.", "Located in central Maseru, near Kingsway."],
     },
+    image: "/poi-images/lesotho-major-bell-tower-history-v2.webp",
   },
   {
     id: "lesotho-fort-hartley-history-v2",
@@ -620,6 +639,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Construit în 1880 în timpul Războiului Basotho.", "Altitudine: aproximativ 1.700 de metri.", "Zidurile au grosimea de 1,5 metri.", "Turnul de pază are un diametru de 4 metri.", "Restaurat între 1995 și 1998.", "Număr anual de vizitatori: cca. 5.000."],
       en: ["Built in 1880 during the Basotho Gun War.", "Elevation: approx. 1,700 meters above sea level.", "Walls are 1.5 meters thick.", "Watchtower has a diameter of 4 meters.", "Restored between 1995 and 1998.", "Annual visitors: approx. 5,000."],
     },
+    image: "/poi-images/lesotho-fort-hartley-history-v2.webp",
   },
   {
     id: "lesotho-our-lady-victories-history-v2",
@@ -651,6 +671,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Construit în 1912.", "Stil arhitectural: neoromanic.", "Sediu al Arhidiecezei de Maseru (din 1951).", "Lungime: 40 metri, lățime: 20 metri.", "Vitralii din 1915.", "Capacitate: 800 de locuri."],
       en: ["Built in 1912.", "Architectural style: Neo-Romanesque.", "Seat of the Archdiocese of Maseru (since 1951).", "Length: 40 meters, width: 20 meters.", "Stained glass windows from 1915.", "Capacity: 800 seats."],
     },
+    image: "/poi-images/lesotho-our-lady-victories-history-v2.webp",
   },
   {
     id: "lesotho-christ-the-king-history-v2",
@@ -682,6 +703,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Construit în 1936 de misionarii oblati.", "Acoperiș din iarbă tradițională basotho.", "Biserica are 30 de metri lungime și 12 metri lățime.", "Sculpturile în lemn datează din anii 1940.", "Loc de pelerinaj cu 10.000 de vizitatori anual.", "Renovată în 2000."],
       en: ["Built in 1936 by the Oblate missionaries.", "Roof thatched with traditional Basotho grass.", "Church is 30 meters long and 12 meters wide.", "Wood carvings from the 1940s.", "Pilgrimage site with 10,000 annual visitors.", "Renovated in 2000."],
     },
+    image: "/poi-images/lesotho-christ-the-king-history-v2.webp",
   },
   {
     id: "lesotho-paris-evangelical-history-v2",
@@ -713,6 +735,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Începutul misiunii în 1833 în Basutoland.", "Prima stație: Morija, fondată în 1833.", "Traducerea Bibliei în sesotho finalizată în 1878.", "Tipografia din Morija înființată în 1861.", "Misiunea a operat peste 200 de școli.", "Numărul membrilor LEC: aproximativ 300.000."],
       en: ["Mission began in 1833 in Basutoland.", "First station: Morija, founded 1833.", "Bible translation into Sesotho completed 1878.", "Printing press in Morija established 1861.", "Mission operated over 200 schools.", "LEC membership: approx. 300,000."],
     },
+    image: "/poi-images/lesotho-paris-evangelical-history-v2.webp",
   },
   {
     id: "lesotho-gun-war-memorial-history-v2",
@@ -744,6 +767,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Inaugurat în 1912.", "Înălțimea obeliscului: 10 metri.", "Tunul datează din secolul al XIX-lea.", "Costul construcției: 1.500 de lire sterline.", "Numele a 200 de căzuți sunt gravate.", "Locație: sensul giratoriu de pe Kingsway din Maseru."],
       en: ["Unveiled in 1912.", "Obelisk height: 10 meters.", "Cannon dates from the 19th century.", "Construction cost: £1,500.", "Names of 200 fallen soldiers engraved.", "Location: Kingsway roundabout in Maseru."],
     },
+    image: "/poi-images/lesotho-gun-war-memorial-history-v2.webp",
   },
   {
     id: "lesotho-basotho-hat-history-v2",
@@ -775,6 +799,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Simbol național de la independență (1966).", "Muntele Qiloane are 3.200 de metri înălțime.", "Pălăria este împletită din iarbă locală (moseka).", "Diametrul unei pălării tipice: 40 cm.", "Centrul cultural Basotho Hat este vizitat anual de 50.000 de turiști.", "Pălăria apare pe moneda de 1 loti."],
       en: ["National symbol since independence in 1966.", "Mount Qiloane is 3,200 meters high.", "Hat is woven from local grass (moseka).", "Typical hat diameter: 40 cm.", "Basotho Hat cultural center attracts 50,000 tourists annually.", "Hat appears on the 1-loti coin."],
     },
+    image: "/poi-images/lesotho-basotho-hat-history-v2.webp",
   },
   {
     id: "lesotho-maluti-hospital-history-v2",
@@ -806,6 +831,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Fondat în 1925.", "150 de paturi.", "50.000 de pacienți anual.", "Angajează 200 de angajați.", "Program de tratare HIV/SIDA din 2003.", "Secția de urgență extinsă în 2014."],
       en: ["Founded in 1925.", "150 beds.", "50,000 patients annually.", "Employs 200 staff.", "HIV/AIDS treatment program since 2003.", "Emergency wing expanded in 2014."],
     },
+    image: "/poi-images/lesotho-maluti-hospital-history-v2.webp",
   },
   {
     id: "lesotho-st-monica-mission-history-v2",
@@ -837,6 +863,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Fondată în 1890 de Surorile de Sf. Monica.", "Școala avea inițial 50 de eleve.", "Spitalul avea 20 de paturi.", "Orga datează din 1905, din Anglia.", "Biserica are o capacitate de 300 de locuri.", "Școala a fost naționalizată în 1970."],
       en: ["Founded in 1890 by the Sisters of St. Monica.", "School initially had 50 students.", "Hospital had 20 beds.", "Organ dates from 1905, from England.", "Church seats 300 people.", "School was nationalized in 1970."],
     },
+    image: "/poi-images/lesotho-st-monica-mission-history-v2.webp",
   },
   {
     id: "lesotho-st-gerard-mission-history-v2",
@@ -868,6 +895,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Fondată în 1901 de iezuiții francezi.", "Biserica a fost finalizată în 1910.", "Vitraliile datează din 1920.", "Ferma se întinde pe 200 de hectare.", "Școala are 800 de elevi.", "Misiunea angaja 50 de muncitori la fermă."],
       en: ["Founded in 1901 by French Jesuits.", "Church completed in 1910.", "Stained glass windows from 1920.", "Farm covers 200 hectares.", "School teaches 800 students.", "Mission employed 50 farm workers."],
     },
+    image: "/poi-images/lesotho-st-gerard-mission-history-v2.webp",
   },
   {
     id: "lesotho-st-agnes-mission-history-v2",
@@ -899,6 +927,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Fondată în 1922 de Surorile Sfintei Agnes.", "Orfelinatul avea o capacitate de 100 de copii.", "Școala a început cu 30 de eleve.", "Biserica a fost finalizată în 1925.", "Orga datează din 1930.", "Frescele au fost pictate în 1930 de un artist italian."],
       en: ["Founded in 1922 by the Sisters of St. Agnes.", "Orphanage capacity of 100 children.", "School started with 30 students.", "Church completed in 1925.", "Organ dates from 1930.", "Frescoes painted in 1930 by an Italian artist."],
     },
+    image: "/poi-images/lesotho-st-agnes-mission-history-v2.webp",
   },
   {
     id: "lesotho-st-pauls-mission-history-v2",
@@ -930,6 +959,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Fondată în 1865 de Societatea Misionară Evanghelică din Paris.", "Biserica a fost finalizată în 1870.", "Amvonul de lemn datează din 1880.", "Clinica tratează anual 10.000 de pacienți.", "Școala are 600 de elevi și 20 de profesori.", "Terenul misiunii se întinde pe 30 de hectare."],
       en: ["Founded in 1865 by the Paris Evangelical Missionary Society.", "Church completed in 1870.", "Wooden pulpit dates from 1880.", "Clinic treats 10,000 patients annually.", "School has 600 students and 20 teachers.", "Mission grounds cover 30 hectares."],
     },
+    image: "/poi-images/lesotho-st-pauls-mission-history-v2.webp",
   },
   {
     id: "lesotho-st-james-mission-history-v2",
@@ -961,6 +991,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Număr de traduceri biblice în sesotho: 3 ediții", "Prima școală a avut 50 de elevi în 1869", "Impact agricol: introducerea porumbului în regiune", "Misionari francezi activi: 12", "Populația actuală a satului din jur: 800 de locuitori", "Costul restaurării din 2010: 1,2 milioane de lei"],
       en: ["Elevation: 1,800 meters above sea level", "Annual rainfall: 800 mm", "Distance from Maseru: 45 km", "Crop yield (wheat): 2 tons per hectare", "Number of trading posts established: 5", "Current visitors per year: 2,000"],
     },
+    image: "/poi-images/lesotho-st-james-mission-history-v2.webp",
   },
   {
     id: "lesotho-national-archives-history-v2",
@@ -992,6 +1023,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Finanțare inițială: 500.000 de lire sterline", "Număr de fotografi: 2.000", "Documente coloniale: 15.000", "Independența documentată: 1966", "Expoziții anuale: 4", "Voluntari: 50"],
       en: ["UNESCO grant: $200,000 in 2005", "Digital files: 10,000", "Annual budget: $500,000", "Reading room capacity: 40 people", "Number of languages archived: 3 (English, Sesotho, Afrikaans)", "Oldest map: 1850"],
     },
+    image: "/poi-images/lesotho-national-archives-history-v2.webp",
   },
   {
     id: "lesotho-wwii-memorial-history-v2",
@@ -1023,6 +1055,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Număr de morți: 500", "Costul construirii: 100.000 de lire sterline", "Deschidere oficială: 1950", "Dimensiunea obeliscului: 15 m", "Participanți la ceremonie: 1.000", "Anul renovării: 2005"],
       en: ["Number of Basotho in WWII: 20,000", "Names listed: 1,200", "Height: 15 meters", "Material: granite", "Year of renovation: 2005", "Visitors during Remembrance: 2,000"],
     },
+    image: "/poi-images/lesotho-wwii-memorial-history-v2.webp",
   },
   {
     id: "lesotho-basotho-shield-history-v2",
@@ -1054,6 +1087,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Greutate: 1,5 kg", "Lungime: 70 cm", "Lățime: 40 cm", "Număr de modele tradiționale: 6", "Preț mediu: 20 USD", "Productie anuală: 1.000 de bucăți"],
       en: ["Height: 70 cm", "Width: 40 cm", "Weight: 1.5 kg", "Material: cowhide", "Age of oldest known shield: 150 years", "Number of shields in national museums: 15"],
     },
+    image: "/poi-images/lesotho-basotho-shield-history-v2.webp",
   },
   {
     id: "lesotho-old-train-station-history-v2",
@@ -1085,6 +1119,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Lungimea liniei: 35 km", "Anul deschiderii: 1905", "Anul închiderii: 1988", "Costul restaurării: 1 milion de lei", "Vizitatori anual: 10.000", "Număr de exponate: 150"],
       en: ["Year built: 1905", "Track gauge: 3 ft 6 in (1,067 mm)", "Length of line: 35 km", "Year closed: 1988", "Restoration cost: $300,000", "Annual visitors: 10,000"],
     },
+    image: "/poi-images/lesotho-old-train-station-history-v2.webp",
   },
   {
     id: "lesotho-post-office-museum-history-v2",
@@ -1116,6 +1151,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Anul înființării muzeului: 1985", "Număr de timbre rare: 100", "Colecție de scrisori: 2.000", "Ateliere educative pe an: 20", "Vizitatori online: 5.000", "Buget anual: 100.000 de lei"],
       en: ["Year opened: 1985", "Building age: 100+ years", "Number of stamps: 5,000", "First stamp date: 1870", "Exhibit items: 1,500", "Admission fee: $2"],
     },
+    image: "/poi-images/lesotho-post-office-museum-history-v2.webp",
   },
   {
     id: "lesotho-leribe-craft-centre-history-v2",
@@ -1147,6 +1183,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Număr de artizani: 120", "Producție anuală: 10.000 de obiecte", "Venit din export: 100.000 USD", "Materiale naturale: iarbă, lemn, lână", "Ateliere de formare: 10 pe an", "Vizitatori: 15.000"],
       en: ["Founded: 1985", "Artisans: 120", "Annual production: 10,000 items", "Export revenue: $100,000", "Training programs: 10 per year", "Women artisans: 70%"],
     },
+    image: "/poi-images/lesotho-leribe-craft-centre-history-v2.webp",
   },
   {
     id: "lesotho-leribe-mission-history-v2",
@@ -1178,6 +1215,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Anul înființării: 1871", "Număr de elevi: 200", "Spital: 30 de paturi", "Misionari francezi: 15", "Renovare: 2008", "Vizitatori: 5.000 pe an"],
       en: ["Founded: 1871", "Church built: 1875", "School established: 1872", "Hospital opened: 1880", "Current congregation: 500", "Museum artifacts: 200"],
     },
+    image: "/poi-images/lesotho-leribe-mission-history-v2.webp",
   },
   {
     id: "lesotho-ellenberger-cave-history-v2",
@@ -1209,6 +1247,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Lungime: 50 m", "Înălțimea intrării: 5 m", "Vârsta picturilor: 5.000 de ani", "Număr de picturi: 30", "Anul descoperirii: 1890", "Vizitatori: 3.000 pe an"],
       en: ["Length: 50 m", "Height of entrance: 5 m", "Age of paintings: 1,000-5,000 years", "Named after Rudolf Ellenberger", "Situated altitude: 2,000 m", "Year opened to public: 2005"],
     },
+    image: "/poi-images/lesotho-ellenberger-cave-history-v2.webp",
   },
   {
     id: "lesotho-moshoeshoe-statue-history-v2",
@@ -1240,6 +1279,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Înălțime: 3,5 m", "Greutate: 1,5 tone", "Material: bronz", "Anul dezvelirii: 2002", "Sculptor: Samuel Makoa", "Cost: 500.000 de lei"],
       en: ["Height: 3.5 m", "Weight: 1.5 tonnes", "Material: bronze", "Unveiled: 2002", "Sculptor: Samuel Makoa", "Location: Maseru city center"],
     },
+    image: "/poi-images/lesotho-moshoeshoe-statue-history-v2.webp",
   },
   {
     id: "lesotho-mofoka-village-history-v2",
@@ -1271,6 +1311,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Populație: 200", "Număr de gospodării: 40", "Altitudine: 1.600 m", "Culturi principale: porumb, sorg", "Vite: 200 de capete", "Vizitatori anual: 5.000"],
       en: ["Population: 200", "Number of huts: 40", "Elevation: 1,600 m", "Main crops: maize, sorghum", "Livestock: 200 cattle", "Tourists per year: 5,000"],
     },
+    image: "/poi-images/lesotho-mofoka-village-history-v2.webp",
   },
   {
     id: "lesotho-likhoele-mission-history-v2",
@@ -1302,6 +1343,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Anul fondării: 1850", "Prima Biblie în sesotho: 1881", "Primul ziar: 1863", "Tipografie activă: 1860-1900", "Școală fondată: 1852", "Statut de patrimoniu: 2001"],
       en: ["Founded: 1850", "Church built: 1855", "Printing press: 1860", "First newspaper: 1863", "First Bible: 1881", "National monument: 2001"],
     },
+    image: "/poi-images/lesotho-likhoele-mission-history-v2.webp",
   },
   {
     id: "lesotho-koro-koro-site-history-v2",
@@ -1333,6 +1375,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Descoperire: 1975", "Perioada: secolul 16", "Suprafață: 2 ha", "Unelte de fier: 20", "Fragmente de ceramică: 500", "Vizitatori: 2.000 pe an"],
       en: ["Discovered: 1975", "Period: 1500-1600 AD", "Area: 2 hectares", "Iron tools: 20", "Pottery fragments: 500", "Altitude: 1,800 m"],
     },
+    image: "/poi-images/lesotho-koro-koro-site-history-v2.webp",
   },
   {
     id: "lesotho-qeme-plateau-history-v2",
@@ -1364,6 +1407,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Altitudine: 1.800-2.200 m", "Precipitații: 700-900 mm", "Principalele culturi: porumb, grâu", "Suprafață: 500 km²", "Populație: 25.000", "Temperatura medie: 15°C"],
       en: ["Elevation: 1,800-2,200 m", "Rainfall: 700-900 mm", "Area: 500 km²", "Population: 25,000", "Main produce: maize, apples", "Average temperature: 15°C"],
     },
+    image: "/poi-images/lesotho-qeme-plateau-history-v2.webp",
   },
   {
     id: "lesotho-korannaberg-history-v2",
@@ -1395,6 +1439,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Altitudine maximă: 2.000 m", "Lungime: 30 km", "Număr de peșteri: 100", "Picturi rupestre: 50 situri", "Specii de plante: 500", "Vizitatori: 10.000 pe an"],
       en: ["Highest peak: 2,000 m", "Length: 30 km", "Number of caves: 100+", "Rock art sites: 50+", "Plant species: 500+", "Annual visitors: 10,000"],
     },
+    image: "/poi-images/lesotho-korannaberg-history-v2.webp",
   },
   {
     id: "lesotho-viervoet-history-v2",
@@ -1426,6 +1471,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Anul bătăliei: 1851", "Soldați buri: 500", "Războinici Basotho: 2.000", "Monument ridicat: 1920", "Suprafață: 5 ha", "Distanță de Maseru: 120 km"],
       en: ["Battle year: 1851", "Boer forces: 500", "Basotho forces: 2,000", "Monument erected: 1920", "Area: 5 ha", "Location: Mohale's Hoek district"],
     },
+    image: "/poi-images/lesotho-viervoet-history-v2.webp",
   },
   {
     id: "lesotho-berea-mission-history-v2",
@@ -1457,6 +1503,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Anul fondării: 1853", "Spital fondat: 1900", "Paturi: 50", "Școală: 1855", "Renovare: 2003", "Vizitatori: 4.000 pe an"],
       en: ["Founded: 1853", "Church built: 1860", "Hospital opened: 1900", "School opened: 1855", "Renovation: 2003", "Annual visitors: 4,000"],
     },
+    image: "/poi-images/lesotho-berea-mission-history-v2.webp",
   },
   {
     id: "lesotho-mokema-site-history-v2",
@@ -1488,6 +1535,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Perioada: secolul 18", "Descoperire: 1965", "Suprafață: 0,5 ha", "Unelte de fier: 30", "Fragmente ceramice: 200", "Statut: protejat"],
       en: ["Period: 18th century", "First excavated: 1965", "Area: 0.5 ha", "Iron tools: 30", "Pottery fragments: 200", "Status: protected"],
     },
+    image: "/poi-images/lesotho-mokema-site-history-v2.webp",
   },
   {
     id: "lesotho-national-university-heritage-v2",
@@ -1519,6 +1567,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Anul fondării: 1975", "Studenți: 10.000", "Suprafață campus: 100 ha", "Bibliotecă: 100.000 de volume", "Facultăți: 5", "Distanta de Maseru: 30 km"],
       en: ["Founded: 1975", "Students: 10,000", "Campus area: 100 ha", "Library volumes: 100,000", "Faculties: 5", "Distance from Maseru: 30 km"],
     },
+    image: "/poi-images/lesotho-national-university-heritage-v2.webp",
   },
   {
     id: "lesotho-st-benedict-mission-history-v2",
@@ -1550,6 +1599,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Anul fondării: 1907", "Biserica: 1910", "Școală: 300 de elevi", "Vie: 5 ha", "Producție vin: 2.000 de sticle", "Renovare: 2007"],
       en: ["Founded: 1907", "Church built: 1910", "School enrollment: 300", "Vineyard: 5 ha", "Wine production: 2,000 bottles/year", "Renovation: 2007"],
     },
+    image: "/poi-images/lesotho-st-benedict-mission-history-v2.webp",
   },
   {
     id: "lesotho-mafeteng-residency-history-v2",
@@ -1581,6 +1631,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Construit în 1905", "Înălțimea turnului principal: 12 metri", "Suprafața terenului: 2 hectare", "Conține 20 de camere", "Renovat în 2010", "Număr anual de vizitatori: aproximativ 5.000"],
       en: ["Built in 1905", "Main tower height: 12 meters", "Land area: 2 hectares", "Contains 20 rooms", "Renovated in 2010", "Annual visitors: approx. 5,000"],
     },
+    image: "/poi-images/lesotho-mafeteng-residency-history-v2.webp",
   },
   {
     id: "lesotho-mokhotlong-residency-history-v2",
@@ -1612,6 +1663,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Construit în 1934", "Ziduri de piatră: 1 metru grosime", "Altitudine: 2.200 de metri", "Conține 15 încăperi", "Original încălzit cu lemne", "Folosit acum ca muzeu"],
       en: ["Built in 1934", "Stone walls: 1 meter thick", "Elevation: 2,200 meters", "Contains 15 rooms", "Originally heated with wood fires", "Now used as a museum"],
     },
+    image: "/poi-images/lesotho-mokhotlong-residency-history-v2.webp",
   },
   {
     id: "lesotho-st-gerard-cathedral-history-v2",
@@ -1643,6 +1695,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Construită în 1955", "Înălțimea turlei: 45 de metri", "Locuri: 800", "Vitralii: 12 ferestre mari", "Orgă cu 2.000 de tuburi", "Piatra de temelie pusă în 1953"],
       en: ["Built in 1955", "Spire height: 45 meters", "Seating capacity: 800", "Stained glass windows: 12 large windows", "Pipe organ with 2,000 pipes", "Foundation stone laid in 1953"],
     },
+    image: "/poi-images/lesotho-st-gerard-cathedral-history-v2.webp",
   },
   {
     id: "lesotho-royal-archives-history-v2",
@@ -1674,6 +1727,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Fondată în 1968", "Conține peste 50.000 de documente", "Cel mai vechi document din 1840", "Suprafață de depozitare: 500 mp", "Temperatura controlată la 18°C", "Acces anual de 1.000 de noi arhive"],
       en: ["Established in 1968", "Contains over 50,000 documents", "Oldest document from 1840", "Storage area: 500 square meters", "Temperature controlled at 18°C", "Annual accession of 1,000 new records"],
     },
+    image: "/poi-images/lesotho-royal-archives-history-v2.webp",
   },
   {
     id: "lesotho-st-paul-anglican-history-v2",
@@ -1705,6 +1759,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Construită în 1875", "Înălțimea turnului clopotniță: 25 de metri", "Locuri: 300", "Cărămizi folosite: aproximativ 500.000", "Renovată în 1920", "Cea mai veche biserică păstrată din Maseru"],
       en: ["Built in 1875", "Bell tower height: 25 meters", "Seating capacity: 300", "Bricks used: approx. 500,000", "Renovated in 1920", "Oldest surviving church in Maseru"],
     },
+    image: "/poi-images/lesotho-st-paul-anglican-history-v2.webp",
   },
   {
     id: "lesotho-st-james-mokhotlong-history-v2",
@@ -1736,6 +1791,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Construită în 1912", "Altitudine: 1.800 de metri", "Grosimea pereților: 0,6 metri", "Capacitate: 150 de persoane", "Clopot din 1920", "Cariera de piatră la 2 km"],
       en: ["Built in 1912", "Elevation: 1,800 meters", "Wall thickness: 0.6 meters", "Capacity: 150 people", "Bell from 1920", "Quarry located 2 km away"],
     },
+    image: "/poi-images/lesotho-st-james-mokhotlong-history-v2.webp",
   },
   {
     id: "lesotho-heritage-museum-history-v2",
@@ -1767,6 +1823,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Fondat în 1985", "Suprafața expozițională: 1.200 mp", "Conține peste 3.000 de obiecte", "Vizitatori anuali: 15.000", "Cea mai mare colecție de pălării basotho", "Organizează 10 expoziții temporare pe an"],
       en: ["Founded in 1985", "Exhibition space: 1,200 square meters", "Contains over 3,000 objects", "Annual visitors: 15,000", "Largest collection of Basotho hats", "Hosts 10 temporary exhibitions per year"],
     },
+    image: "/poi-images/lesotho-heritage-museum-history-v2.webp",
   },
   {
     id: "lesotho-st-judes-history-v2",
@@ -1798,6 +1855,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Construită în 1965", "Înălțimea turnului clopotniță: 20 de metri", "Locuri: 400", "Sfințită în 1966", "Oferă o cantină socială pentru 200 de persoane pe zi", "Membri ai comunității: 2.500"],
       en: ["Built in 1965", "Bell tower height: 20 meters", "Seating capacity: 400", "Consecrated in 1966", "Runs a soup kitchen for 200 people daily", "Congregation size: 2,500"],
     },
+    image: "/poi-images/lesotho-st-judes-history-v2.webp",
   },
   {
     id: "lesotho-st-teresa-history-v2",
@@ -1829,6 +1887,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Construită în 1970", "Înălțimea acoperișului: 15 metri", "Locuri: 350", "Școală primară asociată din 1972", "Clinică cu 10 paturi", "Comunitatea include 1.800 de familii"],
       en: ["Built in 1970", "Roof height: 15 meters", "Seating capacity: 350", "Associated primary school since 1972", "Clinic with 10 beds", "Congregation includes 1,800 families"],
     },
+    image: "/poi-images/lesotho-st-teresa-history-v2.webp",
   },
   {
     id: "lesotho-kings-palace-history-v2",
@@ -1860,6 +1919,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Construit în 1975", "Suprafața terenului: 10 hectare", "Număr de camere: 50", "Sala tronului: 200 mp", "Grădini: 3 hectare", "Cost anual de întreținere: 500.000 de loti"],
       en: ["Built in 1975", "Land area: 10 hectares", "Number of rooms: 50", "Throne room: 200 square meters", "Gardens: 3 hectares", "Annual maintenance cost: 500,000 loti"],
     },
+    image: "/poi-images/lesotho-kings-palace-history-v2.webp",
   },
   {
     id: "lesotho-national-stadium-history-v2",
@@ -1891,6 +1951,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Construit în 1985", "Capacitate: 22.000", "Teren: 105 x 68 de metri", "Primul meci: 1986", "Renovat în 2005", "Are 6 benzi de atletism"],
       en: ["Built in 1985", "Capacity: 22,000", "Field: 105 x 68 meters", "First match: 1986", "Renovated in 2005", "Has 6 athletics lanes"],
     },
+    image: "/poi-images/lesotho-national-stadium-history-v2.webp",
   },
   {
     id: "lesotho-victoria-hotel-history-v2",
@@ -1922,6 +1983,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Construit în 1904", "Număr de camere: 60", "Inițial 20 de camere", "Renovat în 1999", "Oaspeți celebri: Regina Elisabeta a II-a în 1947", "Restaurant cu 100 de locuri"],
       en: ["Built in 1904", "Number of rooms: 60", "Originally 20 rooms", "Renovated in 1999", "Famous guests: Queen Elizabeth II in 1947", "Restaurant with 100 seats"],
     },
+    image: "/poi-images/lesotho-victoria-hotel-history-v2.webp",
   },
   {
     id: "lesotho-maseru-club-history-v2",
@@ -1953,6 +2015,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Fondat în 1922", "Număr de membri: 500", "Teren de golf: 9 găuri", "Terenuri de tenis: 4", "Taxa de intrare: 10.000 de loti", "Cel mai vechi club privat din Lesotho"],
       en: ["Founded in 1922", "Membership: 500", "Golf course: 9 holes", "Tennis courts: 4", "Entry fee: 10,000 loti", "Oldest private club in Lesotho"],
     },
+    image: "/poi-images/lesotho-maseru-club-history-v2.webp",
   },
   {
     id: "lesotho-st-bernadette-history-v2",
@@ -1984,6 +2047,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Construită în 1958", "Vitralii: 8 ferestre", "Locuri: 250", "Școală primară: 200 de elevi", "Orfelinat: 30 de copii", "Renovată în 2008"],
       en: ["Built in 1958", "Stained glass windows: 8 windows", "Seating capacity: 250", "Primary school: 200 students", "Orphanage: 30 children", "Renovated in 2008"],
     },
+    image: "/poi-images/lesotho-st-bernadette-history-v2.webp",
   },
   {
     id: "lesotho-pioneer-monument-history-v2",
@@ -2015,6 +2079,7 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Ridicat în 1913", "Înălțime: 10 metri", "Greutatea granitului: 15 tone", "Inscripții în engleză și sesotho", "Altitudinea locației: 1.550 de metri", "Restaurat în 2003"],
       en: ["Erected in 1913", "Height: 10 meters", "Granite weight: 15 tons", "Inscriptions in English and Sesotho", "Location elevation: 1,550 meters", "Restored in 2003"],
     },
+    image: "/poi-images/lesotho-pioneer-monument-history-v2.webp",
   },
   {
     id: "lesotho-government-plaza-history-v2",
@@ -2046,5 +2111,6 @@ export const lesothoHistoryV2: POI[] = [
       ro: ["Construit în 1978", "Înălțimea clădirii: 8 etaje", "Suprafață: 5.000 mp", "Birouri: 200", "Sală de adunări: 500 de locuri", "Biroul prim-ministrului din 1980"],
       en: ["Built in 1978", "Building height: 8 stories", "Area: 5,000 square meters", "Offices: 200", "Assembly hall: 500 seats", "Prime Minister's office since 1980"],
     },
+    image: "/poi-images/lesotho-government-plaza-history-v2.webp",
   }
 ];

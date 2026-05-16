@@ -31,6 +31,7 @@ export const tongaLifeV2: POI[] = [
       ro: ["Înființat oficial în anul 1992.", "Acoperă o suprafață de aproximativ 800 hectare.", "Refugiu pentru papagalul endemic Koki.", "Relief marcat de faleze înalte și peșteri.", "Situat pe cea mai veche insulă din Tonga.", "Destinație principală pentru eco-turism."],
       en: ["Officially established as a National Park in 1992.", "Covers approximately 800 hectares of rainforest.", "Habitat for the endemic Koki (red-shining parrot).", "Features dramatic 100-meter cliffs on the east coast.", "Island is geologically older than most of Tonga.", "Home to spectacular natural rock bridges and caves."],
     },
+    image: "/poi-images/tonga-eua-national-park-life-v2.webp",
   },
   {
     id: "tonga-mount-talau-national-park-life-v2",
@@ -62,6 +63,7 @@ export const tongaLifeV2: POI[] = [
       ro: ["Parc național înființat în anul 1995.", "Înălțimea maximă: 131 de metri.", "Formă geologică rară de tip 'mesa' (vârf plat).", "Habitat pentru pasărea endemică Tongan Whistler.", "Vedere panoramică asupra portului Neiafu.", "Traseu de drumeție accesibil și informativ."],
       en: ["Established as a national park in 1995.", "Elevation of the peak is 131 meters.", "Distinguished by its unique flat-topped profile.", "Home to the endemic Tongan Whistler bird.", "Features a lookout over the Port of Refuge.", "Protects a rare stand of primary rainforest."],
     },
+    image: "/poi-images/tonga-mount-talau-national-park-life-v2.webp",
   },
   {
     id: "tonga-eneio-botanical-garden-life-v2",
@@ -93,6 +95,7 @@ export const tongaLifeV2: POI[] = [
       ro: ["Fondată în 1972 de Haniteli Fa'anunu.", "Singura grădină botanică din Tonga.", "Suprafață de aproximativ 9 hectare.", "Colecție de peste 500 de specii de plante.", "Situată pe malul mării, cu plajă privată.", "Centru pentru demonstrații de artizanat tradițional."],
       en: ["Established in 1972 by a former Agriculture Director.", "Tonga's first and only botanical garden.", "Spans 22 acres of coastal land in Vava'u.", "Home to a collection of over 500 plant species.", "Features a demonstration of traditional tapa cloth making.", "Located adjacent to 'Ene'io Beach."],
     },
+    image: "/poi-images/tonga-eneio-botanical-garden-life-v2.webp",
   },
   {
     id: "tonga-fata-o-tuiana-marine-reserve-life-v2",
@@ -124,6 +127,7 @@ export const tongaLifeV2: POI[] = [
       ro: ["Parte a programului național de conservare marină.", "Protejează sisteme critice de recife de corali.", "Localizată în proximitatea insulei Tongatapu.", "Pescuitul comercial este strict interzis în zonă.", "Situl este utilizat pentru studii de biologie marină.", "Contribuie la protecția naturală a coastei."],
       en: ["Part of Tonga's national marine protected areas.", "Established to protect critical coral reef habitats.", "Located within the territorial waters of Tongatapu.", "Commercial fishing is strictly prohibited in the zone.", "Key site for monitoring Pacific coral reef health.", "Supports the replenishment of local fish stocks."],
     },
+    image: "/poi-images/tonga-fata-o-tuiana-marine-reserve-life-v2.webp",
   },
   {
     id: "tonga-pangaimotu-reef-reserve-life-v2",
@@ -155,6 +159,7 @@ export const tongaLifeV2: POI[] = [
       ro: ["Înființată oficial în anul 1979.", "Acoperă o suprafață de circa 10 hectare.", "Situată la doar 1,5 km de capitală.", "Conține o epavă devenită recif artificial.", "Destinație populară pentru snorkeling.", "Protejează biodiversitatea coralieră locală."],
       en: ["Officially established in 1979.", "Covers a protected area of 10 hectares.", "Located approximately 1.5 km from Nuku'alofa.", "Features a well-known shipwreck in the reef.", "Popular destination for educational snorkeling tours.", "Protects various species of hard and soft corals."],
     },
+    image: "/poi-images/tonga-pangaimotu-reef-reserve-life-v2.webp",
   },
   {
     id: "tonga-monuafe-island-park-life-v2",
@@ -186,6 +191,7 @@ export const tongaLifeV2: POI[] = [
       ro: ["Statut oficial de protecție din 1979.", "Suprafața rezervației este de 33 de hectare.", "Insula a fost parțial erodată de mare.", "Pescuitul și colectarea coralilor sunt interzise.", "Habitat vital pentru reproducerea peștilor.", "Situată la 5 km nord-est de Nuku'alofa."],
       en: ["Designated as a marine reserve in 1979.", "The total protected area spans 33 hectares.", "The island landmass is mostly submerged today.", "Strictly 'no-take' zone for shells and corals.", "Nursery ground for numerous tropical fish species.", "Located 5 km northeast of Nuku'alofa harbor."],
     },
+    image: "/poi-images/tonga-monuafe-island-park-life-v2.webp",
   },
   {
     id: "tonga-haatafu-beach-reserve-life-v2",
@@ -217,6 +223,7 @@ export const tongaLifeV2: POI[] = [
       ro: ["Înființată în anul 1979.", "Acoperă circa 8 hectare de recif și plajă.", "Punctul cel mai nord-vestic al insulei Tongatapu.", "Destinație celebră pentru surfing și snorkeling.", "Afectată major de tsunami-ul din 2022.", "Adăpostește peste 130 de specii de pești."],
       en: ["Established as a reserve in 1979.", "Covers approximately 8 hectares of reef flat.", "Located at the northwestern tip of Tongatapu.", "Famous for world-class surfing breaks.", "Heavily damaged by the 2022 volcanic tsunami.", "Habitat for over 130 recorded fish species."],
     },
+    image: "/poi-images/tonga-haatafu-beach-reserve-life-v2.webp",
   },
   {
     id: "tonga-malinoa-island-park-life-v2",
@@ -248,6 +255,7 @@ export const tongaLifeV2: POI[] = [
       ro: ["Protejată oficial din anul 1987.", "Suprafața rezervației este de 73 de hectare.", "Locul execuțiilor istorice din 1887.", "Găzduiește un far funcțional pentru navigație.", "Situată la 13 km nord de capitală.", "Conține morminte istorice bine conservate."],
       en: ["Declared a protected area in 1987.", "Marine reserve covers 73 hectares.", "Site of the 1887 Shirley Baker conspiracy executions.", "Features an operational lighthouse.", "Located 13 km north of Nuku'alofa.", "Significant site for both history and diving."],
     },
+    image: "/poi-images/tonga-malinoa-island-park-life-v2.webp",
   },
   {
     id: "tonga-tofua-island-nature-reserve-life-v2",
@@ -279,6 +287,7 @@ export const tongaLifeV2: POI[] = [
       ro: ["Vulcan activ cu o caldeiră de 5 km lățime.", "Locul debarcării lui William Bligh în 1789.", "Conține un lac de crater numit Loto'uma.", "Suprafața insulei: aproximativ 55 km pătrați.", "Protejează specia de pasăre Megapode.", "Statut de rezervație naturală strictă."],
       en: ["Features an active volcano with a 5km wide caldera.", "Landing site of Captain William Bligh in April 1789.", "Home to a permanent crater lake (Loto'uma).", "Total island area is approximately 55 square km.", "Important habitat for the Tongan Megapode bird.", "Designated as a strictly protected nature reserve."],
     },
+    image: "/poi-images/tonga-tofua-island-nature-reserve-life-v2.webp",
   },
   {
     id: "tonga-kao-island-forest-life-v2",
@@ -310,6 +319,7 @@ export const tongaLifeV2: POI[] = [
       ro: ["Cel mai înalt punct din Tonga (1030 m)", "Face parte din arcul vulcanic Tofua", "Teritoriu complet nelocuit", "Acoperit de pădure tropicală primară", "Situat în grupul de insule Ha'apai", "Structură de stratovulcan simetric"],
       en: ["Highest point in Tonga at 1,030 meters", "Part of the Tofua volcanic arc", "Completely uninhabited territory", "Draped in primary tropical rainforest", "Located in the northern Ha'apai group", "Symmetrical stratovolcano structure"],
     },
+    image: "/poi-images/tonga-kao-island-forest-life-v2.webp",
   },
   {
     id: "tonga-niuafoou-malau-sanctuary-life-v2",
@@ -341,6 +351,7 @@ export const tongaLifeV2: POI[] = [
       ro: ["Sanctuar pentru megapodul Malau", "Insula Niuafo'ou este un vulcan activ", "Lacul central din calderă se numește Vai Lahi", "Pasărea Malau folosește căldura vulcanică", "Erupția din 1946 a cauzat evacuarea populației", "Cea mai izolată insulă locuită din Tonga"],
       en: ["Sanctuary for the Malau (Tongan Megapode)", "Niuafo'ou is an active shield volcano", "Central caldera lake named Vai Lahi", "Birds use geothermal heat for incubation", "1946 eruption led to temporary evacuation", "Tonga's most remote inhabited island"],
     },
+    image: "/poi-images/tonga-niuafoou-malau-sanctuary-life-v2.webp",
   },
   {
     id: "tonga-mounu-island-wildlife-sanctuary-life-v2",
@@ -372,6 +383,7 @@ export const tongaLifeV2: POI[] = [
       ro: ["Rezervație naturală administrată privat", "Loc crucial pentru reproducerea balenelor", "Zonă de protecție pentru țestoase Hawksbill", "Pionier al ecoturismului în Vava'u", "Înconjurată de recife de corali virgine", "Reguli stricte de sustenabilitate ecologică"],
       en: ["Privately managed wildlife sanctuary", "Key nursery for humpback whales", "Protected habitat for Hawksbill turtles", "Pioneer of eco-tourism in Vava'u", "Surrounded by pristine coral reefs", "Strict ecological sustainability rules"],
     },
+    image: "/poi-images/tonga-mounu-island-wildlife-sanctuary-life-v2.webp",
   },
   {
     id: "tonga-anahulu-cave-forest-life-v2",
@@ -403,6 +415,7 @@ export const tongaLifeV2: POI[] = [
       ro: ["Singurele bazine cu apă dulce din Tongatapu", "Adâncimea bazinului principal este de 8 m", "Formată în structură de calcar coralier", "Formațiuni masive de stalactite și stalagmite", "Situată lângă satul Haveluliku", "Sursă istorică de apă în timpul secetei"],
       en: ["Only natural freshwater pools on Tongatapu", "Main pool is approximately 8 meters deep", "Formed within coral limestone structures", "Features large stalactite and stalagmite formations", "Located near Haveluliku village", "Historical water source during droughts"],
     },
+    image: "/poi-images/tonga-anahulu-cave-forest-life-v2.webp",
   },
   {
     id: "tonga-hufangalupe-natural-park-life-v2",
@@ -434,6 +447,7 @@ export const tongaLifeV2: POI[] = [
       ro: ["Pod natural format prin colapsul unei peșteri", "Numele înseamnă 'Poarta Porumbelului'", "Faleze înalte de până la 30 de metri", "Situat pe coasta de sud a Tongatapu", "Exemplu de eroziune marină activă", "Loc cu semnificație în mitologia locală"],
       en: ["Natural bridge formed by cave collapse", "Name means 'The Pigeon's Gate'", "Cliffs rise up to 30 meters high", "Located on Tongatapu's southern coast", "Example of active marine erosion", "Significant site in local mythology"],
     },
+    image: "/poi-images/tonga-hufangalupe-natural-park-life-v2.webp",
   },
   {
     id: "tonga-pausa-giant-clam-sanctuary-life-v2",
@@ -465,6 +479,7 @@ export const tongaLifeV2: POI[] = [
       ro: ["Sanctuar pentru scoicile gigantice Tridacna", "Fondat în anii 1980", "Administrat de comunitatea din Kanokupolu", "Scoicile pot cântări peste 100 kg", "Rol crucial în filtrarea apei marine", "Situat într-o lagună coralieră puțin adâncă"],
       en: ["Sanctuary for Tridacna giant clams", "Established in the 1980s", "Managed by the Kanokupolu community", "Clams can weigh over 100 kg", "Vital role in filtering lagoon water", "Located in a shallow coral lagoon"],
     },
+    image: "/poi-images/tonga-pausa-giant-clam-sanctuary-life-v2.webp",
   },
   {
     id: "tonga-haamonga-botanical-park-life-v2",
@@ -496,6 +511,7 @@ export const tongaLifeV2: POI[] = [
       ro: ["Adiacent monumentului Ha'amonga 'a Maui", "Concentrat pe specii de plante endemice", "Adăpostește plante medicinale tradiționale", "Situat pe un sit istoric din secolul XIII", "Centru important de educație botanică", "Combină patrimoniul natural cu cel arheologic"],
       en: ["Adjacent to the Ha'amonga 'a Maui trilithon", "Focuses on endemic plant species", "Houses traditional medicinal plants", "Located on a 13th-century historical site", "Center for botanical education", "Combines natural and archaeological heritage"],
     },
+    image: "/poi-images/tonga-haamonga-botanical-park-life-v2.webp",
   },
   {
     id: "tonga-niuatoputapu-bird-habitat-life-v2",
@@ -527,6 +543,7 @@ export const tongaLifeV2: POI[] = [
       ro: ["Habitat pentru rarul Lori cu coroană albastră", "Refugiu vital pentru Whistlerul Tongan (Keitahi)", "Insulă izolată în extremitatea nordică a Tonga", "Soluri vulcanice ce susțin păduri dense", "Situată geografic mai aproape de Samoa", "Impact redus al speciilor invazive"],
       en: ["Home to the rare Blue-crowned Lorikeet", "Critical refuge for the Tongan Whistler (Keitahi)", "Isolated island in Tonga's far north", "Volcanic soils support dense forest cover", "Geographically closer to Samoa than Nuku'alofa", "Low impact from invasive predator species"],
     },
+    image: "/poi-images/tonga-niuatoputapu-bird-habitat-life-v2.webp",
   },
   {
     id: "tonga-late-island-wilderness-life-v2",
@@ -558,6 +575,7 @@ export const tongaLifeV2: POI[] = [
       ro: ["Nelocuită de la mijlocul secolului XIX", "Punctul maxim este de 519 metri", "Suprafață de aproximativ 15 km pătrați", "Zonă crucială pentru Whistlerul Tongan", "Lipsită de recif de corali protector", "Cea mai bine conservată pădure din Tonga"],
       en: ["Uninhabited since approximately 1850", "Highest elevation is 519 meters", "Area of roughly 15 square kilometers", "Critical habitat for the Tongan Whistler", "Lacks a surrounding protective coral reef", "Most significant broadleaf forest in Tonga"],
     },
+    image: "/poi-images/tonga-late-island-wilderness-life-v2.webp",
   },
   {
     id: "tonga-fonualei-island-bird-area-life-v2",
@@ -589,6 +607,7 @@ export const tongaLifeV2: POI[] = [
       ro: ["Adăpostește o colonie imensă de chirighițe", "Vulcan activ cu o erupție majoră în 1846", "Situată la nord de grupul Vava'u", "Fără populație umană permanentă", "Importanță internațională pentru ornitologie", "Acces limitat din cauza coastelor de lavă"],
       en: ["Home to a massive Sooty Tern colony", "Active volcano with a major 1846 eruption", "Located north of the Vava'u island group", "No permanent human inhabitants", "Internationally significant bird area", "Steep lava shores restrict human access"],
     },
+    image: "/poi-images/tonga-fonualei-island-bird-area-life-v2.webp",
   },
   {
     id: "tonga-vavau-whale-sanctuary-life-v2",
@@ -620,6 +639,7 @@ export const tongaLifeV2: POI[] = [
       ro: ["Sanctuar stabilit prin decret regal în 1978", "Sezonul balenelor: iulie - octombrie", "Loc crucial pentru naștere și creștere", "Migrație din Antarctica (cca. 6000 km)", "Reglementări stricte pentru whale-watching", "Centrul ecoturismului în regatul Tonga"],
       en: ["Protected by royal decree since 1978", "Whale season runs from July to October", "Critical site for mating and nursing", "Migrate roughly 6,000 km from Antarctica", "Strictly regulated whale-watching industry", "Hub of eco-tourism in the Kingdom of Tonga"],
     },
+    image: "/poi-images/tonga-vavau-whale-sanctuary-life-v2.webp",
   },
   {
     id: "tonga-haapai-marine-protected-area-life-v2",
@@ -651,6 +671,7 @@ export const tongaLifeV2: POI[] = [
       ro: ["Zonă protejată vastă în centrul Tonga", "Numeroase recife de corali neatinse", "Coridor vital pentru migrația balenelor", "Gestionată în parteneriat cu localnicii", "Vulnerabilă la creșterea nivelului mării", "Habitat pentru specii rare de țestoase"],
       en: ["Vast marine reserve in central Tonga", "Contains numerous pristine coral reefs", "Key corridor for humpback whale migration", "Managed through community SMAs", "Highly vulnerable to sea-level rise", "Habitat for multiple sea turtle species"],
     },
+    image: "/poi-images/tonga-haapai-marine-protected-area-life-v2.webp",
   },
   {
     id: "tonga-nomuka-blue-lagoon-life-v2",
@@ -682,6 +703,7 @@ export const tongaLifeV2: POI[] = [
       ro: ["Lac mare de apă sărată în interior", "Vizitată de Abel Tasman în 1643", "Loc de reaprovizionare pentru căpitanul Cook", "Soluri fertile datorită cenușii vulcanice", "Parte a grupului sudic Ha'apai", "Importanță majoră în istoria navigației"],
       en: ["Large inland saltwater lagoon", "Visited by Abel Tasman in 1643", "Resupply point for Captain James Cook", "Volcanic ash enriches the local soil", "Part of the southern Ha'apai group", "Key site in Pacific maritime history"],
     },
+    image: "/poi-images/tonga-nomuka-blue-lagoon-life-v2.webp",
   },
   {
     id: "tonga-funafua-biodiversity-area-life-v2",
@@ -713,6 +735,7 @@ export const tongaLifeV2: POI[] = [
       ro: ["Insulă nelocuită în arhipelagul Vava'u", "Formată din calcar coralier ridicat", "Grădini de corali virgine și bogate", "Habitat esențial pentru reptile", "Destinație pentru turism durabil cu caiacul", "Grad ridicat de biodiversitate"],
       en: ["Uninhabited island in the Vava'u group", "Formed from uplifted coral limestone", "Hosts pristine and rich coral gardens", "Crucial habitat for local reptiles", "Destination for sustainable kayaking", "High degree of biological diversity"],
     },
+    image: "/poi-images/tonga-funafua-biodiversity-area-life-v2.webp",
   },
   {
     id: "tonga-teleki-tonga-reef-life-v2",
@@ -744,6 +767,7 @@ export const tongaLifeV2: POI[] = [
       ro: ["Cunoscut internațional ca South Minerva Reef", "Diametru de aproximativ 5 kilometri", "Submers în întregime în timpul fluxului", "Locul conflictului 'Minerva' din 1972", "Recif periculos cu numeroase epave", "Bogăție mare de pești pelagici"],
       en: ["Internationally known as South Minerva Reef", "Approximately 5 kilometers in diameter", "Completely submerged during high tide", "Site of the 'Minerva' sovereignty claim in 1972", "Hazardous reef with many historical wrecks", "Abundant populations of large pelagic fish"],
     },
+    image: "/poi-images/tonga-teleki-tonga-reef-life-v2.webp",
   },
   {
     id: "tonga-hunga-tonga-hunga-haapai-life-v2",
@@ -775,6 +799,7 @@ export const tongaLifeV2: POI[] = [
       ro: ["Insula a fost creată în principal printr-o erupție majoră între decembrie 2014 și ianuarie 2015.", "Înainte de 2022, noua masă terestră atingea o înălțime maximă de aproximativ 120 de metri deasupra nivelului mării.", "Oamenii de știință de la NASA au folosit insula ca analog pentru cercetarea proceselor vulcanice de pe Marte.", "Erupția din 15 ianuarie 2022 a fost cea mai puternică explozie atmosferică înregistrată vreodată instrumental.", "Coloana eruptivă a atins o înălțime record de 58 de kilometri, pătrunzând în mezosferă.", "Hornurile hidrotermale din împrejurimi susțin comunități specializate de microorganisme și crustacee."],
       en: ["The island was primarily formed during a major eruption between December 2014 and January 2015.", "Prior to 2022, the new landmass reached a maximum elevation of approximately 120 meters above sea level.", "NASA scientists utilized the island as a terrestrial analog for studying volcanic processes on Mars.", "The January 15, 2022, eruption was the most powerful atmospheric explosion ever recorded by modern instruments.", "The eruption plume reached a record height of 58 kilometers, extending into the mesosphere.", "Hydrothermal vents in the vicinity support specialized communities of microorganisms and crustaceans."],
     },
+    image: "/poi-images/tonga-hunga-tonga-hunga-haapai-life-v2.webp",
   },
   {
     id: "tonga-faonelua-nature-park-life-v2",
@@ -806,6 +831,7 @@ export const tongaLifeV2: POI[] = [
       ro: ["Parcul este situat în inima orașului Nuku'alofa, nu departe de clădirile guvernamentale.", "Găzduiește o colecție de plante medicinale utilizate în medicina tradițională tongană.", "Măsurile regulate de întreținere se concentrează pe conservarea arborelui nativ 'Heilala' (Garcinia sessilis).", "Parcul este un loc popular pentru excursiile botanice ale școlilor locale pentru identificarea speciilor native.", "Potecile din parc sunt amenajate astfel încât să respecte topografia naturală a câmpiei de coastă din Tongatapu.", "Bănci și panouri informative au fost instalate ca parte a inițiativelor de conservare pentru sensibilizare."],
       en: ["The park is located in the heart of Nuku'alofa, near major government buildings.", "It houses a collection of medicinal plants used in traditional Tongan healing practices.", "Maintenance efforts focus on preserving the native 'Heilala' tree (Garcinia sessilis), Tonga's national flower.", "The park is a frequent destination for local school field trips focusing on native plant identification.", "Walking paths are designed to follow the natural low-lying topography of the Tongatapu coastal plain.", "Public seating and educational signage were installed through community-led conservation initiatives."],
     },
+    image: "/poi-images/tonga-faonelua-nature-park-life-v2.webp",
   },
   {
     id: "tonga-keleti-marine-terraces-life-v2",
@@ -837,6 +863,7 @@ export const tongaLifeV2: POI[] = [
       ro: ["Formațiunile de calcar datează din Pleistocen și au fost modelate prin mișcări de ridicare repetate.", "În bazine se găsește frecvent steaua de mare albastră (Linckia laevigata) și diverse specii de melci de mare.", "Terasele fac parte dintr-o bază de corali mai mare care se află sub întreaga insulă Tongatapu.", "În zilele furtunoase, valurile mareei pot lovi la câțiva metri peste marginile teraselor.", "Regiunea este vizitată frecvent de biologi marini pentru a studia adaptarea organismelor la zonele de maree.", "Terasele servesc ca un sistem natural de barieră de recif care reduce semnificativ energia valurilor."],
       en: ["The limestone formations date back to the Pleistocene epoch and were shaped by repeated tectonic uplift events.", "The blue starfish (Linckia laevigata) and various species of limpets are frequently found in the tidal pools.", "These terraces are part of a massive coral platform that underlies the entire island of Tongatapu.", "During heavy swells, ocean waves can wash several meters over the edges of the terraces.", "The area is a key location for marine biologists studying organism adaptation to intertidal zones.", "The terrace structure functions as a natural seawall, significantly dissipating wave energy before it reaches the shore."],
     },
+    image: "/poi-images/tonga-keleti-marine-terraces-life-v2.webp",
   },
   {
     id: "tonga-tufuvai-coastal-forest-life-v2",
@@ -868,6 +895,7 @@ export const tongaLifeV2: POI[] = [
       ro: ["Insula 'Eua este, cu aproximativ 40 de milioane de ani, cea mai veche insulă din punct de vedere geologic din Tonga.", "În pădurea Tufuvai au fost documentate peste 20 de specii diferite de orhidee native.", "Pădurea găzduiește vulpea zburătoare mare (Pteropus tonganus), care este importantă pentru polenizare.", "Unele dintre stâncile de calcar din pădure conțin fosile din perioada ridicării insulei.", "Precipitațiile sunt filtrate de coronament și alimentează acviferele subterane.", "Există trasee de drumeție ghidate care explică vizitatorilor importanța ecologică a ecosistemului forestier."],
       en: ["At approximately 40 million years old, 'Eua is the geologically oldest island in the Tongan archipelago.", "More than 20 species of indigenous orchids have been documented within the Tufuvai forest.", "The forest supports the Pacific flying fox (Pteropus tonganus), a key pollinator for native trees.", "Limestone outcrops within the forest contain ancient marine fossils dating back to the island's uplift.", "The dense canopy acts as a biological filter for rainfall, recharging critical freshwater aquifers.", "Educational nature trails through the forest emphasize the role of biodiversity in island resilience."],
     },
+    image: "/poi-images/tonga-tufuvai-coastal-forest-life-v2.webp",
   },
   {
     id: "tonga-eua-marine-reserve-life-v2",
@@ -899,6 +927,7 @@ export const tongaLifeV2: POI[] = [
       ro: ["Rezervația găzduiește peste 300 de specii diferite de pești de recif.", "Adâncimea apei scade adesea la peste 1000 de metri imediat lângă coastă.", "Peșterile subacvatice, cum ar fi 'Cathedral Cave', sunt destinații cunoscute la nivel mondial pentru scafandri.", "Densitatea coralilor atinge până la 70% acoperire a solului în unele zone protejate.", "Studiile științifice investighează aici efectul curenților oceanici asupra dispersiei larvelor.", "Observarea balenelor este controlată strict pentru a minimiza perturbarea mamiferelor marine."],
       en: ["The reserve is home to more than 300 distinct species of coral reef fish.", "Water depths frequently plummet to over 1,000 meters just a short distance from the shoreline.", "Underwater caverns, such as the famous 'Cathedral Cave,' attract divers from around the world.", "Coral cover in certain highly protected sectors reaches densities of up to 70%.", "Ongoing research projects focus on how oceanic currents influence the dispersal of marine larvae.", "Humpback whale encounters are strictly regulated to prevent behavioral disruption of the nursing pods."],
     },
+    image: "/poi-images/tonga-eua-marine-reserve-life-v2.webp",
   },
   {
     id: "tonga-nukualofa-royal-gardens-life-v2",
@@ -930,5 +959,6 @@ export const tongaLifeV2: POI[] = [
       ro: ["Grădinile sunt situate direct pe malul mării și oferă o vedere spre portul Nuku'alofa.", "În apropiere se află mormântul faimoasei țestoase 'Tu'i Malila', un cadou de la căpitanul Cook.", "Mulți dintre arbori au fost plantați cu ocazia unor jubilee regale importante.", "Întreținerea grădinilor este responsabilitatea unui departament special al gospodăriei regale.", "Stolurile de păsări folosesc adesea grădinile ca loc de popas în timpul migrației lor peste insule.", "Palatul alb din lemn formează un contrast puternic cu verdele crud al grădinilor."],
       en: ["The gardens are situated on the waterfront, overlooking the harbor of Nuku'alofa.", "The grounds are famous for having hosted 'Tu'i Malila,' the tortoise gifted to the monarchy by Captain Cook.", "Several monumental trees were planted to commemorate significant royal jubilees and coronations.", "Maintenance is managed by a specialized unit of the Royal Household to ensure heritage standards.", "Migratory birds frequently use the palace grounds as a secure resting site between island hops.", "The Victorian-style white timber palace provides a striking architectural backdrop to the lush greenery."],
     },
+    image: "/poi-images/tonga-nukualofa-royal-gardens-life-v2.webp",
   }
 ];

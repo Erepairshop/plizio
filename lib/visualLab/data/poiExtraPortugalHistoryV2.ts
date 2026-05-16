@@ -32,6 +32,7 @@ export const portugalHistoryV2: POI[] = [
       ro: ["Fortăreața Sagres a fost construită în 1443.", "Sagres se află la Ponta de Sagres, cel mai sud-vestic punct al Portugaliei continentale.", "Fortăreața are o suprafață de aproximativ 1,5 hectare.", "Biserica din Sagres datează din secolul al XVI-lea.", "Zidurile fortăreței au până la 8 metri înălțime.", "Fortăreața a fost declarată monument național în 1963."],
       en: ["Sagres Fortress was built in 1443.", "Sagres is located at Ponta de Sagres, the southwesternmost point of mainland Portugal.", "The fortress covers an area of about 1.5 hectares.", "The church of Sagres dates from the 16th century.", "The fortress walls are up to 8 meters high.", "The fortress was declared a national monument in 1963."],
     },
+    image: "/poi-images/portugal-fortaleza-de-sagres-history-v2.webp",
   },
   {
     id: "portugal-castelo-de-monsaraz-history-v2",
@@ -64,6 +65,7 @@ export const portugalHistoryV2: POI[] = [
       ro: ["Fortificația a fost reconstruită în secolul XIV", "Turnul de veghe are o înălțime de 20 metri", "Zidurile sunt construite integral din șist", "Cucerită de la mauri în timpul campaniilor regale", "Punct de frontieră marcat de râul Guadiana", "Incinta include o piață de arme medievală"],
       en: ["Recaptured from Moors by Geraldo the Fearless", "Official royal charter granted in 1276", "Castle keep stands at 20 meters tall", "The site features 4 main entrance gates", "Strategic view over the Alentejo plains", "Classified as a National Monument since 1910"],
     },
+    image: "/poi-images/portugal-castelo-de-monsaraz-history-v2.webp",
   },
   {
     id: "portugal-ruinas-romanas-de-caladinho-history-v2",
@@ -96,6 +98,7 @@ export const portugalHistoryV2: POI[] = [
       ro: ["Turnul central măsura aproximativ 12 metri", "Descoperit în timpul lucrărilor agricole în 1982", "Utilizat pentru stocarea cerealelor și uleiului", "Structură defensivă cu vizibilitate de 360 grade", "Artefacte monetare din perioada republicană", "Abandonat subit în jurul anului 50 d. Hr."],
       en: ["Established during the Late Republic era", "The fortified tower layout is 15.5m x 10.5m", "Located at an altitude of 320 meters", "Primary construction using local schist stone", "Archaeological evidence of wine production", "Classified as a Site of Public Interest in 1997"],
     },
+    image: "/poi-images/portugal-ruinas-romanas-de-caladinho-history-v2.webp",
   },
   {
     id: "portugal-fortaleza-de-valenca-history-v2",
@@ -128,6 +131,7 @@ export const portugalHistoryV2: POI[] = [
       ro: ["Zidurile au o grosime medie de 3 metri", "Sistem de apărare proiectat în stil Vauban", "Include 4 porți principale de acces", "Vila fortificată datează din secolul al XIII-lea", "Rezistență eroică în fața trupelor franceze", "Monument național portughez din 1928"],
       en: ["Features a distinctive double-walled system", "Home to the Romanesque church of Santa Maria", "The fortress spans over 5,000 meters in perimeter", "Critical defense point in the 1640 Restoration War", "Elevated site overlooking the Minho Valley", "Contains 10 bastions and several ravelins"],
     },
+    image: "/poi-images/portugal-fortaleza-de-valenca-history-v2.webp",
   },
   {
     id: "portugal-castelo-de-pousaflores-history-v2",
@@ -160,6 +164,7 @@ export const portugalHistoryV2: POI[] = [
       ro: ["Castelul Pousaflores a fost construit în secolul al XII-lea.", "Se află în districtul Leiria.", "Zidurile castelului sunt din piatră și au până la 3 metri grosime.", "Ruinele castelului sunt situate la o altitudine de aproximativ 300 de metri.", "Ansamblul include un turn dreptunghiular.", "Pousaflores a fost un important castel de frontieră în timpul Reconquistei."],
       en: ["Pousaflores Castle was built in the 12th century.", "It is located in the Leiria district.", "The castle walls are made of stone and up to 3 meters thick.", "The castle ruins stand at an elevation of about 300 meters.", "The complex includes a rectangular tower.", "Pousaflores was an important border castle during the Reconquista."],
     },
+    image: "/poi-images/portugal-castelo-de-pousaflores-history-v2.webp",
   },
   {
     id: "portugal-torre-de-pancas-history-v2",
@@ -192,6 +197,7 @@ export const portugalHistoryV2: POI[] = [
       ro: ["Construcție din cărămidă și piatră fasonată", "Înălțimea turnului depășește 15 metri", "Fațadă cu ferestre duble sculptate manual", "Proprietatea familiei Meneses în secolul XVI", "Situat în apropierea râului Sorraia", "Reprezintă tranziția spre stilul rezidențial"],
       en: ["Built during the reign of King Manuel I", "Features intricate stone carvings on windows", "Three-story structure with defensive battlements", "Located within the Pancas agricultural estate", "Exemplifies the transition to manor houses", "National Monument status since 1946"],
     },
+    image: "/poi-images/portugal-torre-de-pancas-history-v2.webp",
   },
   {
     id: "portugal-castelo-de-leiria-history-v2",
@@ -224,6 +230,7 @@ export const portugalHistoryV2: POI[] = [
       ro: ["Cucerit definitiv de la mauri în 1142", "Palatul regal a fost extins în secolul XIV", "Turnul principal are o bază pătrată masivă", "Biserica Nossa Senhora da Pena este în incintă", "Înălțimea zidurilor atinge 15 metri pe alocuri", "Monument național protejat din anul 1910"],
       en: ["Founded by Portugal's first king in 1135", "First Portuguese Parliament (Cortes) met here", "Features a famous open-air Gothic loggia", "The keep was completed in 1324 by King Dinis", "Severely damaged by French troops in 1811", "Restored in the 1900s by architect Ernesto Korrodi"],
     },
+    image: "/poi-images/portugal-castelo-de-leiria-history-v2.webp",
   },
   {
     id: "portugal-castelo-de-palmela-history-v2",
@@ -256,6 +263,7 @@ export const portugalHistoryV2: POI[] = [
       ro: ["Cucerit de Afonso Henriques în 1147", "Turnul donjon a fost finalizat în 1323", "Zidurile exterioare au 500 de metri lungime", "Biserica Santa Maria se află în incintă", "Vedere panoramică spre Lisabona și Setúbal", "Transformat parțial în hotel istoric (Pousada)"],
       en: ["Located 378 meters above sea level", "Headquarters of the Order of Santiago in 1443", "The keep stands at approximately 28 meters", "Damaged during the massive 1755 earthquake", "Features a 15th-century convent building", "National Monument classification since 1910"],
     },
+    image: "/poi-images/portugal-castelo-de-palmela-history-v2.webp",
   },
   {
     id: "portugal-paco-de-sao-cristovao-history-v2",
@@ -288,6 +296,7 @@ export const portugalHistoryV2: POI[] = [
       ro: ["Construit de regele Afonso V în secolul XV", "Include elemente decorative manueline rare", "A găzduit numeroase adunări ale Curții regale", "Situat pe un domeniu vast din Alentejo", "Zidurile păstrează fragmente de frescă veche", "Monument istoric de interes public regional"],
       en: ["Constructed in the late 1400s", "Associated with the 'Discovery Era' planning", "Features distinct late Gothic window frames", "Served as a royal hunting lodge for decades", "Located in the municipality of Montemor-o-Novo", "Significantly declined after the 17th century"],
     },
+    image: "/poi-images/portugal-paco-de-sao-cristovao-history-v2.webp",
   },
   {
     id: "portugal-fortaleza-de-nossa-senhora-da-graca-history-v2",
@@ -320,6 +329,7 @@ export const portugalHistoryV2: POI[] = [
       ro: ["Fortăreața a fost construită în 1763.", "Se află aproape de granița cu Spania.", "Fortăreața are o suprafață de aproximativ 4,5 hectare.", "Zidurile au până la 12 metri înălțime.", "Fortăreața a fost folosită militar până în 1974.", "Face parte din patrimoniul UNESCO 'Orașul de graniță Elvas cu fortificațiile sale'."],
       en: ["The fortress was built in 1763.", "It is located near the Spanish border.", "The fortress covers an area of about 4.5 hectares.", "The walls are up to 12 meters high.", "The fortress was used militarily until 1974.", "It is part of the UNESCO World Heritage site 'Garrison Border Town of Elvas and its Fortifications'."],
     },
+    image: "/poi-images/portugal-fortaleza-de-nossa-senhora-da-graca-history-v2.webp",
   },
   {
     id: "portugal-castelo-de-pavia-history-v2",
@@ -352,6 +362,7 @@ export const portugalHistoryV2: POI[] = [
       ro: ["Zidurile au fost ridicate în secolul al XIII-lea", "Lungimea totală a incintei este de 200 metri", "Păstrează vestigii ale turnurilor de flancare", "Fost punct de colectare a taxelor medievale", "Arhitectură simplă, adaptată terenului plan", "Restaurat parțial pentru conservarea patrimoniului"],
       en: ["Founded by King Afonso III around 1250", "The walls enclose the traditional village square", "Built using local granite stone blocks", "Strategically located in the Alentejo interior", "Reinforced during the 14th-century expansions", "Classified as Public Interest Heritage in 1946"],
     },
+    image: "/poi-images/portugal-castelo-de-pavia-history-v2.webp",
   },
   {
     id: "portugal-ruinas-de-miróbriga-history-v2",
@@ -384,6 +395,7 @@ export const portugalHistoryV2: POI[] = [
       ro: ["Hipodromul putea găzdui mii de spectatori", "Termele aveau sisteme complexe de încălzire", "Suprafața sitului depășește 50 de hectare", "Forumul era pavat cu dale de calcar local", "Importante vestigii ale caselor cu curte interioară", "Monument național portughez din 1910"],
       en: ["Home to Portugal's only Roman hippodrome", "The racing track spans 370 meters in length", "Features a Forum with dedicated Roman temples", "Site includes West and East public bathhouses", "Continuously inhabited for over 1,200 years", "Located near the coast in Santiago do Cacém"],
     },
+    image: "/poi-images/portugal-ruinas-de-miróbriga-history-v2.webp",
   },
   {
     id: "portugal-castelo-de-vidigueira-history-v2",
@@ -416,6 +428,7 @@ export const portugalHistoryV2: POI[] = [
       ro: ["Turnul principal are o formă patrulateră", "Fereastra principală este decorată în stil manuelin", "Reședință oficială a conților de Vidigueira", "Zidurile sunt construite din piatră de carieră", "Localitatea este celebră pentru producția de vin", "Monument istoric de o mare importanță națională"],
       en: ["Granted to Vasco da Gama by King Manuel I", "The keep is the most well-preserved feature", "Constructed during the transition to the 16th century", "Features Manueline decorative elements on windows", "Ancestral seat of the Gama noble lineage", "Classified as a National Monument in 1910"],
     },
+    image: "/poi-images/portugal-castelo-de-vidigueira-history-v2.webp",
   },
   {
     id: "portugal-palacio-de-sao-marcos-history-v2",
@@ -448,6 +461,7 @@ export const portugalHistoryV2: POI[] = [
       ro: ["Anul construirii: 1520", "Stiluri arhitecturale: manuelin, renascentist", "Azulejos: secolul al XVIII-lea", "Restaurare: 1995", "Număr de camere: 30", "Suprafața terenului: 5 ha"],
       en: ["Year built: 1520", "Architectural styles: Manueline, Renaissance", "Azulejos: 18th century", "Restoration: 1995", "Number of rooms: 30", "Land area: 5 ha"],
     },
+    image: "/poi-images/portugal-palacio-de-sao-marcos-history-v2.webp",
   },
   {
     id: "portugal-castelo-de-arnes-history-v2",
@@ -480,6 +494,7 @@ export const portugalHistoryV2: POI[] = [
       ro: ["Construit în secolul al XIII-lea", "Turnuri: 4", "Înălțimea zidurilor: 10 m", "Suprafața: 40×30 m", "Protejat din 1945", "Râul Mira la 500 m"],
       en: ["Built in 13th century", "Towers: 4", "Wall height: 10 m", "Footprint: 40×30 m", "Protected since 1945", "Mira River 500 m away"],
     },
+    image: "/poi-images/portugal-castelo-de-arnes-history-v2.webp",
   },
   {
     id: "portugal-ruinas-de-roman-villa-of-pisoes-history-v2",
@@ -512,6 +527,7 @@ export const portugalHistoryV2: POI[] = [
       ro: ["Păstrează mozaicuri cu peste 20 de culori", "Sistemul de termoficare (hypocaust) este vizibil", "Incinta includea o piscină de mari dimensiuni", "Vilă activă timp de peste 400 de ani", "Artefacte agricole găsite indică producția de ulei", "Zonă arheologică protejată la nivel național"],
       en: ["Contains over 40 distinct architectural spaces", "Features intricate polychrome floor mosaics", "Built with a private Roman bathhouse system", "Occupied from the 1st to the 4th century AD", "Discovered during dam construction in 1967", "Located 10 km from the ancient city of Beja"],
     },
+    image: "/poi-images/portugal-ruinas-de-roman-villa-of-pisoes-history-v2.webp",
   },
   {
     id: "portugal-castelo-de-valadares-history-v2",
@@ -544,6 +560,7 @@ export const portugalHistoryV2: POI[] = [
       ro: ["Situat pe un pinten muntos de granit", "Turnul principal avea o înălțime de 12 metri", "Reconstruit integral în anul 1255", "Controla rutele comerciale fluviale", "Zidurile exterioare urmează conturul stâncii", "Situație strategică la granița cu Galiția"],
       en: ["Reconstructed by King Afonso III in 1255", "Offers commanding views over the Minho Valley", "Features thick granite defensive walls", "Played a key role in the Restoration Wars", "The site includes remnants of the medieval keep", "Located in the municipality of Monção"],
     },
+    image: "/poi-images/portugal-castelo-de-valadares-history-v2.webp",
   },
   {
     id: "portugal-palacio-dos-duques-de-cadaval-history-v2",
@@ -576,6 +593,7 @@ export const portugalHistoryV2: POI[] = [
       ro: ["Construit în secolul al XIV-lea", "Transformare în secolul al XVI-lea", "Bibliotecă: 30.000 volume", "Picturi: Titian, Cranach", "Deschis de marți până duminică", "Preț bilet: 5 €"],
       en: ["Built in 14th century", "Converted in 16th century", "Library: 30,000 volumes", "Paintings: Titian, Cranach", "Open Tuesday–Sunday", "Ticket price: €5"],
     },
+    image: "/poi-images/portugal-palacio-dos-duques-de-cadaval-history-v2.webp",
   },
   {
     id: "portugal-castelo-de-vouzela-history-v2",
@@ -608,6 +626,7 @@ export const portugalHistoryV2: POI[] = [
       ro: ["Turnul principal era construit din granit", "Datat aproximativ în secolul al XIV-lea", "Punct de supraveghere în regiunea Lafões", "Înălțimea actuală a zidurilor este de 6 metri", "Parte a unei vechi reședințe nobiliare", "Inclus în circuitul istoric local din Vouzela"],
       en: ["Remnants of a 13th-century fortified tower", "Located in the historic heart of Vouzela", "Built primarily with regional granite stone", "Served as a seat for the local lordship", "Strategically overlooked the Vouga valley", "Classified as a Site of Municipal Interest"],
     },
+    image: "/poi-images/portugal-castelo-de-vouzela-history-v2.webp",
   },
   {
     id: "portugal-fortaleza-de-sao-felipe-history-v2",
@@ -640,6 +659,7 @@ export const portugalHistoryV2: POI[] = [
       ro: ["Anul construirii: 1590", "Bastioane: 5", "Altitudine: 80 m", "Folosit ca închisoare: secolul al XVIII-lea", "Suprafața muzeului: 1.200 m²", "Distanța până la Lisabona: 50 km"],
       en: ["Year built: 1590", "Bastions: 5", "Elevation: 80 m", "Used as prison: 18th century", "Museum area: 1,200 m²", "Distance to Lisbon: 50 km"],
     },
+    image: "/poi-images/portugal-fortaleza-de-sao-felipe-history-v2.webp",
   },
   {
     id: "portugal-paco-de-sao-roque-history-v2",
@@ -672,6 +692,7 @@ export const portugalHistoryV2: POI[] = [
       ro: ["Anul construirii: 1750", "Arhitect: necunoscut", "Camere: 15", "Suprafața grădinii: 2 ha", "Azulejos din secolul al XVIII-lea", "Regiune viticolă: Setúbal"],
       en: ["Year built: 1750", "Architect: unknown", "Rooms: 15", "Garden area: 2 ha", "Azulejos from: 18th century", "Wine region: Setúbal"],
     },
+    image: "/poi-images/portugal-paco-de-sao-roque-history-v2.webp",
   },
   {
     id: "portugal-castelo-de-torre-de-moncorvo-history-v2",
@@ -704,6 +725,7 @@ export const portugalHistoryV2: POI[] = [
       ro: ["Construit în secolul al XIII-lea", "Înălțimea turnului de veghe: 25 m", "Suprafața: 1.000 m²", "Monument național din 1910", "Altitudine deasupra Douro: 200 m", "Distanța până la granița spaniolă: 30 km"],
       en: ["Built in 13th century", "Keep height: 25 m", "Area: 1,000 m²", "National monument since 1910", "Height above Douro: 200 m", "Distance to Spanish border: 30 km"],
     },
+    image: "/poi-images/portugal-castelo-de-torre-de-moncorvo-history-v2.webp",
   },
   {
     id: "portugal-ruinas-de-sao-miguel-da-pena-history-v2",
@@ -736,6 +758,7 @@ export const portugalHistoryV2: POI[] = [
       ro: ["Anul construirii: 1150", "Abandonată în secolul al XVI-lea", "Lungime: 20 m", "Lățime: 10 m", "Protejată din 1910", "Altitudine: 200 m"],
       en: ["Year built: 1150", "Abandoned: 16th century", "Length: 20 m", "Width: 10 m", "Protected since 1910", "Elevation: 200 m"],
     },
+    image: "/poi-images/portugal-ruinas-de-sao-miguel-da-pena-history-v2.webp",
   },
   {
     id: "portugal-fortaleza-de-marinha-grande-history-v2",
@@ -768,6 +791,7 @@ export const portugalHistoryV2: POI[] = [
       ro: ["Construit în 1645", "Bastioane: 4", "Folosit ca închisoare în secolul al XIX-lea", "Deschiderea muzeului: 1997", "Suprafață: 3.000 m²", "Populația Marinha Grande: 29.000"],
       en: ["Built: 1645", "Bastions: 4", "Used as prison: 19th century", "Museum opened: 1997", "Area: 3,000 m²", "Marinha Grande population: 29,000"],
     },
+    image: "/poi-images/portugal-fortaleza-de-marinha-grande-history-v2.webp",
   },
   {
     id: "portugal-paco-de-valadares-history-v2",
@@ -800,5 +824,6 @@ export const portugalHistoryV2: POI[] = [
       ro: ["Anul construirii: 1670", "Stil arhitectural: manierist", "Podgorii: 20 ha", "Livezi de măslin: 5 ha", "Capelă: secolul al XVIII-lea", "Restaurare: 1985"],
       en: ["Year built: 1670", "Architectural style: Mannerist", "Vineyards: 20 ha", "Olive groves: 5 ha", "Chapel: 18th century", "Restoration: 1985"],
     },
+    image: "/poi-images/portugal-paco-de-valadares-history-v2.webp",
   }
 ];

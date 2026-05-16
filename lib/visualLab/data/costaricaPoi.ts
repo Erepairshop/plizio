@@ -323,7 +323,8 @@ export const costaricaCities: POI[] = [
       ro: ["Abandonat după o inundație", "Legenda Fecioarei din Ujarrás", "Înconjurat de grădini frumoase"],
       en: ["Abandoned after heavy flooding", "Famous for the legend of the Virgin", "Surrounded by beautiful parklands"]
     },
-    historyYear: 1575
+    historyYear: 1575,
+    image: "/poi-images/cr-ruinas-urjarras.webp",
   },
 ];
 
@@ -555,7 +556,8 @@ export const costaricaLandmarks: POI[] = [
       ro: ["Pictură murală \\\"Alegoria cafelei și bananelor\\\"", "Construit cu marmură italiană", "Simbol național"],
       en: ["Features the famous 'Allegory of Coffee' mural", "Built using Carrara marble from Italy", "Considered a symbol of national pride"]
     },
-    historyYear: 1891
+    historyYear: 1891,
+    image: "/poi-images/cr-nationaltheater.webp",
   },
   {
     id: "cr-irazu",
@@ -734,7 +736,8 @@ export const costaricaLandmarks: POI[] = [
       hu: ["Látványos égszínkék vízesés", "Geotermikus forrásokban gazdag", "Sűrű esőerdő"],
       ro: ["Cascadă spectaculoasă albastră", "Bogat în izvoare geotermale", "Pădure tropicală densă"],
       en: ["Features a stunning blue waterfall", "Area rich in hot geothermal springs", "Surrounded by primary rainforest"]
-    }
+    },
+    image: "/poi-images/cr-rio-celeste.webp",
   }
 ];
 

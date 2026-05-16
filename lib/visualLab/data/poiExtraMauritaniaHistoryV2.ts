@@ -31,6 +31,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Anul fondării: secolul al XII-lea", "Suprafața ruinelor: 15 hectare", "Construcția moscheii: secolul al XIV-lea", "Abandonarea orașului: secolul al XVIII-lea", "Număr de manuscrise: câteva mii", "Înălțimea celei mai înalte structuri rămase: 10 metri"],
       en: ["Founded: 12th century", "Ruins area: 15 hectares", "Mosque construction: 14th century", "Town abandonment: 18th century", "Number of manuscripts: several thousand", "Tallest remaining structure: 10 meters"],
     },
+    image: "/poi-images/mauritania-ouadane-ruins-history-v2.webp",
   },
   {
     id: "mauritania-chinguetti-mosque-history-v2",
@@ -62,6 +63,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Construcție: secolul al XIII-lea", "Înălțimea minaretului: 12 metri", "Număr de manuscrise: peste 1.000", "Capacitatea sălii de rugăciune: 300 de persoane", "Restaurare: anii 1970", "Inclus în Patrimoniul Mondial UNESCO: 1996"],
       en: ["Built: 13th century", "Minaret height: 12 meters", "Number of manuscripts: over 1,000", "Prayer hall capacity: 300 worshippers", "Restoration: 1970s", "UNESCO World Heritage designation: 1996"],
     },
+    image: "/poi-images/mauritania-chinguetti-mosque-history-v2.webp",
   },
   {
     id: "mauritania-tichitt-old-town-history-v2",
@@ -93,6 +95,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Patrimoniu UNESCO din: 1996", "Fondat: secolul al XI-lea", "Populație actuală: sub 500", "Populație istorică maximă: 5.000", "Manuscrise păstrate: 500", "Construcția moscheii: secolul al XII-lea"],
       en: ["UNESCO World Heritage since: 1996", "Founded: 11th century", "Current population: under 500", "Historical peak population: 5,000", "Number of preserved manuscripts: 500", "Mosque construction: 12th century"],
     },
+    image: "/poi-images/mauritania-tichitt-old-town-history-v2.webp",
   },
   {
     id: "mauritania-oualata-city-history-v2",
@@ -124,6 +127,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Fondare: secolul al XI-lea", "Număr de manuscrise: peste 600", "Capitală a Imperiului Mali: secolul al XIV-lea", "Populație istorică: 3.000", "Populație actuală: circa 1.000", "Înălțimea zidului orașului: 5 metri"],
       en: ["Founded: 11th century", "Number of manuscripts: over 600", "Capital of Mali Empire: 14th century", "Historical population: 3,000", "Current population: approx. 1,000", "City wall height: 5 meters"],
     },
+    image: "/poi-images/mauritania-oualata-city-history-v2.webp",
   },
   {
     id: "mauritania-koumbi-saleh-ruins-history-v2",
@@ -155,6 +159,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Perioada de locuire: secolele VIII-XIII", "Suprafața ruinelor: 15 hectare", "Populație estimată: 15.000–20.000", "Redescoperire: 1914", "Lista tentativă UNESCO din: 2001", "Înălțimea palatului: 6 metri"],
       en: ["Period of occupation: 8th–13th centuries", "Ruins area: 15 hectares", "Estimated population: 15,000–20,000", "Rediscovery: 1914", "UNESCO Tentative List entry: 2001", "Palace height: 6 meters"],
     },
+    image: "/poi-images/mauritania-koumbi-saleh-ruins-history-v2.webp",
   },
   {
     id: "mauritania-azougui-fort-history-v2",
@@ -186,6 +191,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Construcție: secolul al XI-lea", "Înălțimea zidurilor: 8 metri", "Abandonare: secolul al XVII-lea", "Patrimoniu național din: 1999", "Locul nașterii lui Abdallah ibn Yasin", "Artefacte: ceramică și monede"],
       en: ["Built: 11th century", "Wall height: 8 meters", "Abandoned: 17th century", "National heritage site since: 1999", "Birthplace of Abdallah ibn Yasin", "Artifacts found: pottery and coins"],
     },
+    image: "/poi-images/mauritania-azougui-fort-history-v2.webp",
   },
   {
     id: "mauritania-nouakchott-national-museum-history-v2",
@@ -217,6 +223,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Anul înființării: 1972", "Număr de exponate: peste 7.000", "Suprafață: 2.500 m²", "Vizitatori anuali: 30.000", "Laborator înființat: 2010", "Înălțimea celei mai mari vitrine: 4 metri"],
       en: ["Founded: 1972", "Number of artifacts: over 7,000", "Area: 2,500 m²", "Annual visitors: 30,000", "Laboratory established: 2010", "Height of largest display case: 4 meters"],
     },
+    image: "/poi-images/mauritania-nouakchott-national-museum-history-v2.webp",
   },
   {
     id: "mauritania-tidjikja-mosque-history-v2",
@@ -248,6 +255,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Construcție: secolul al XVIII-lea", "Înălțimea minaretului: 15 metri", "Capacitatea sălii de rugăciune: 500 de persoane", "Număr de elevi la școala coranică: 100", "Renovare: anii 1980", "Înălțimea zidului exterior: 4 metri"],
       en: ["Built: 18th century", "Minaret height: 15 meters", "Prayer hall capacity: 500 worshippers", "Quranic school students: 100", "Renovation: 1980s", "Exterior wall height: 4 meters"],
     },
+    image: "/poi-images/mauritania-tidjikja-mosque-history-v2.webp",
   },
   {
     id: "mauritania-terjit-oasis-history-v2",
@@ -279,6 +287,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Distanța până la Atar: 20 km", "Suprafața palmierilor: 12 hectare", "Temperatura apei: 24°C", "Producție anuală de curmale: 20 de tone", "Construcția canalului de irigație: anii 1970", "Număr de palmieri noi plantați: 500"],
       en: ["Distance from Atar: 20 km", "Palm grove area: 12 hectares", "Water temperature: 24°C", "Annual date production: 20 tons", "Irrigation canal built: 1970s", "New palm trees planted: 500"],
     },
+    image: "/poi-images/mauritania-terjit-oasis-history-v2.webp",
   },
   {
     id: "mauritania-adrar-plateau-sites-history-v2",
@@ -310,6 +319,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Extindere: 300 km de la nord la sud", "Altitudine maximă: 800 de metri", "Număr de situri de artă rupestră înregistrate: peste 50", "Lista tentativă UNESCO din: 2008", "Situri principale: Aguerd Tichitt, Amogjar, Tin Terga", "Vechimea picturilor rupestre: 5.000 de ani"],
       en: ["Extent: 300 km north-south", "Maximum elevation: 800 meters", "Number of recorded rock art sites: over 50", "UNESCO Tentative List entry: 2008", "Major sites: Aguerd Tichitt, Amogjar, Tin Terga", "Age of rock paintings: 5,000 years"],
     },
+    image: "/poi-images/mauritania-adrar-plateau-sites-history-v2.webp",
   },
   {
     id: "mauritania-boutilimit-scholar-history-v2",
@@ -341,6 +351,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Fondat în 1850 de șeicul Ma' al-Ainayn", "Biblioteca conține peste 8.000 de manuscrise", "Suprafața complexului este de aproximativ 2 hectare", "Aproximativ 3.000 de turiști vizitează anual centrul", "Cea mai înaltă cupolă măsoară 12 metri", "Renovări majore au avut loc în anii 1970"],
       en: ["Founded in 1850 by Sheikh Ma' al-Ainayn", "Houses over 8,000 manuscripts dating from the 13th to 19th centuries", "Complex covers an area of approximately 2 hectares", "Attracts about 3,000 visitors annually", "The tallest dome reaches 12 meters in height", "Major renovations took place in the 1970s"],
     },
+    image: "/poi-images/mauritania-boutilimit-scholar-history-v2.webp",
   },
   {
     id: "mauritania-nema-fort-history-v2",
@@ -372,6 +383,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Construit în 1910 în perioada colonială franceză", "Pereți groși de aproximativ 1,5 metri", "Suprafața fortului este de 0,5 hectare", "Folosit ca închisoare în anii 1970", "Lucrări de restaurare în desfășurare din 2005", "Temperaturile de vară depășesc 45°C"],
       en: ["Built in 1910 during French colonial rule", "Wall thickness of approximately 1.5 meters", "Fort occupies an area of 0.5 hectares", "Used as a prison in the 1970s", "Restoration work ongoing since 2005", "Summer temperatures often exceed 45°C"],
     },
+    image: "/poi-images/mauritania-nema-fort-history-v2.webp",
   },
   {
     id: "mauritania-wadan-archaeology-history-v2",
@@ -403,6 +415,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Urme de locuire din paleolitic acum 50.000 de ani", "Picturi rupestre datând din mileniul V î.Hr.", "Situl se întinde pe aproximativ 10 km²", "Fortăreață berberă din secolul al XI-lea", "Protejat din 1982", "Petroglife noi descoperite în 2020"],
       en: ["Evidence of human habitation 50,000 years ago", "Rock paintings from 5000 BCE", "Site covers approximately 10 km²", "Berber fortress dating to 11th century", "Protected status since 1982", "New petroglyphs discovered in 2020"],
     },
+    image: "/poi-images/mauritania-wadan-archaeology-history-v2.webp",
   },
   {
     id: "mauritania-kaedi-mosque-history-v2",
@@ -434,6 +447,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Construită în jurul anului 1720", "Minaretul are 20 de metri înălțime", "Capacitate de 1.000 de credincioși", "Renovată în 2015", "Acoperiș din lemn de palmier", "Pereți cu grosimea de aproximativ 1 metru"],
       en: ["Built circa 1720", "Minaret is 20 meters tall", "Capacity of 1,000 worshippers", "Renovated in 2015", "Roof made of palm wood", "Wall thickness approximately 1 meter"],
     },
+    image: "/poi-images/mauritania-kaedi-mosque-history-v2.webp",
   },
   {
     id: "mauritania-tichitt-library-history-v2",
@@ -465,6 +479,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Fondată în secolul al XI-lea", "Peste 5.000 de manuscrise", "Restaurată între 2008 și 2012", "Construită din calcar și chirpici", "Rafturi înalte de până la 3 metri", "Aproximativ 1.500 de vizitatori anual"],
       en: ["Founded in the 11th century", "Over 5,000 manuscripts in collection", "Restored from 2008 to 2012", "Building materials: limestone and mud", "Shelves up to 3 meters high", "Approximately 1,500 visitors annually"],
     },
+    image: "/poi-images/mauritania-tichitt-library-history-v2.webp",
   },
   {
     id: "mauritania-ouadane-ksar-history-v2",
@@ -496,6 +511,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Fondat în secolul al XI-lea", "Patrimoniu UNESCO din 1996", "Zidurile ajung până la 6 metri înălțime", "Populație de 5.000 în secolul al XVI-lea", "Moschee centrală din 1250", "Începerea restaurării: 2010"],
       en: ["Founded in the 11th century", "UNESCO World Heritage site since 1996", "City walls up to 6 meters high", "Population reached 5,000 in the 16th century", "Central mosque built in 1250", "Restoration started in 2010"],
     },
+    image: "/poi-images/mauritania-ouadane-ksar-history-v2.webp",
   },
   {
     id: "mauritania-tagant-caves-history-v2",
@@ -527,6 +543,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Calcarul datează din Jurasic (acum 150 milioane de ani)", "Cea mai lungă peșteră: 50 de metri", "Înălțimea celei mai mari peșteri: 20 de metri", "Picturi rupestre datând 4000-2000 î.Hr.", "Monument național din 2005", "Peste 200 de figuri identificate"],
       en: ["Limestone formed in Jurassic period (150 million years ago)", "Longest cave: 50 meters", "Height of largest cave: 20 meters", "Rock paintings dating 4000-2000 BCE", "National heritage site since 2005", "Over 200 identified figures"],
     },
+    image: "/poi-images/mauritania-tagant-caves-history-v2.webp",
   },
   {
     id: "mauritania-chinguetti-library-history-v2",
@@ -558,6 +575,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Fondată în secolul al XIII-lea (c. 1200)", "Aproximativ 6.000 de manuscrise", "Fragment de Coran din secolul al IX-lea", "Restaurare în 2019 finanțată de Elveția", "3.000 de manuscrise digitalizate", "Patrimoniu UNESCO din 1996"],
       en: ["Founded in 13th century (c. 1200)", "Approximately 6,000 manuscripts", "Oldest Quran fragment from 9th century", "2019 restoration funded by Switzerland", "3,000 manuscripts digitized", "UNESCO World Heritage site since 1996"],
     },
+    image: "/poi-images/mauritania-chinguetti-library-history-v2.webp",
   },
   {
     id: "mauritania-tidjikja-old-quarter-history-v2",
@@ -589,6 +607,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Fondat în secolul al XVII-lea", "Populație: aproximativ 2.000", "Case din chirpici cu acoperiș de palmier", "Începerea restaurării în 2005", "Fort francez din secolul al XIX-lea", "Festival cultural anual din 2010"],
       en: ["Founded in the 17th century", "Population: approximately 2,000", "Houses built of mud brick with palm roofs", "Restoration began in 2005", "19th-century French fort", "Annual cultural festival since 2010"],
     },
+    image: "/poi-images/mauritania-tidjikja-old-quarter-history-v2.webp",
   },
   {
     id: "mauritania-oualata-gateway-history-v2",
@@ -620,6 +639,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Construită în secolul al XII-lea", "Înălțime: 8 m, lățime: 5 m", "Decor cu motive geometrice", "Restaurare 2012 de o echipă italiană", "Lista tentativă UNESCO din 2006", "Zidurile au grosimea de 3 metri"],
       en: ["Built in the 12th century", "Height: 8 m, Width: 5 m", "Ornamented with geometric patterns", "Restored in 2012 by an Italian team", "On UNESCO tentative list since 2006", "City walls 3 meters thick"],
     },
+    image: "/poi-images/mauritania-oualata-gateway-history-v2.webp",
   },
   {
     id: "mauritania-medina-nouakchott-history-v2",
@@ -651,6 +671,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Fondată în 1958", "Populație: aproximativ 100.000", "Case din chirpici și tablă", "Modernizare 2018 (iluminat și salubritate)", "Piața principală (bazar) din anii 1960", "Inițial un sat de pescari"],
       en: ["Founded in 1958", "Population: approx. 100,000", "Houses of mud-brick and corrugated iron", "2018 modernization (lighting and sanitation)", "Main market (bazaar) since the 1960s", "Originally a fishing village"],
     },
+    image: "/poi-images/mauritania-medina-nouakchott-history-v2.webp",
   },
   {
     id: "mauritania-boutilimit-mosque-history-v2",
@@ -682,6 +703,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Construită în secolul al XIX-lea (c. 1850)", "Minaretul are 15 metri înălțime", "Capacitate: 500 de credincioși", "Renovare în 1985", "Acoperiș din lemn de palmier", "Cea mai mare clădire religioasă din oraș"],
       en: ["Built in the 19th century (c. 1850)", "Minaret height: 15 meters", "Capacity: 500 worshippers", "Renovated in 1985", "Roof made of palm wood", "Largest religious building in the city"],
     },
+    image: "/poi-images/mauritania-boutilimit-mosque-history-v2.webp",
   },
   {
     id: "mauritania-tagant-historic-ruins-history-v2",
@@ -713,6 +735,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Așezări berbere din secolele XI-XIII", "Ruinele unei moschei mari din secolul al XII-lea", "Ziduri de piatră înalte de până la 3 metri", "Conservare în 2010", "Centre comerciale pentru sare și aur", "Amenințate de nisip"],
       en: ["Berber settlements from 11th-13th centuries", "Ruins of a large 12th-century mosque", "Stone walls up to 3 meters high", "Conservation in 2010", "Trade centers for salt and gold", "Threatened by sand encroachment"],
     },
+    image: "/poi-images/mauritania-tagant-historic-ruins-history-v2.webp",
   },
   {
     id: "mauritania-nema-market-history-v2",
@@ -744,6 +767,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Peste 500 de tarabe", "Suprafață: 2 hectare", "Vineri este ziua principală", "Până la 5.000 de vizitatori vineri", "Hală acoperită din 2005", "Comerț transfrontalier cu Mali"],
       en: ["Over 500 stalls", "Area: 2 hectares", "Friday is main market day", "Up to 5,000 visitors on Fridays", "Covered market hall since 2005", "Cross-border trade with Mali"],
     },
+    image: "/poi-images/mauritania-nema-market-history-v2.webp",
   },
   {
     id: "mauritania-kaedi-historic-quarter-history-v2",
@@ -775,6 +799,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Fondat în secolul al XVIII-lea", "Suprafață: 0,5 km²", "Arhitectură colonială franceză", "Restaurare începând cu 2010", "Populație: aproximativ 5.000", "Fost port pentru comerțul cu gumă arabică"],
       en: ["Founded in the 18th century", "Area: 0.5 km²", "French colonial architecture", "Restoration started in 2010", "Population: approx. 5,000", "Former port for gum arabic trade"],
     },
+    image: "/poi-images/mauritania-kaedi-historic-quarter-history-v2.webp",
   },
   {
     id: "mauritania-chinguetti-old-gates-history-v2",
@@ -806,6 +831,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Construite în secolul al XIII-lea", "Cinci porți inițiale, trei păstrate", "Înălțime: 4 metri", "Material: chirpici și lemn de salcâm", "Restaurare în 2005", "Bab al-Salam (Poarta Păcii) numită"],
       en: ["Built in the 13th century", "Originally five gates, three remain", "Height: 4 meters", "Material: mud brick and acacia wood", "Restored in 2005", "Named Bab al-Salam (Gate of Peace)"],
     },
+    image: "/poi-images/mauritania-chinguetti-old-gates-history-v2.webp",
   },
   {
     id: "mauritania-ouadane-historic-mosque-history-v2",
@@ -837,6 +863,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Construită în secolul al XII-lea", "Material: cărămizi de noroi uscate la soare", "Extindere în secolul al XV-lea", "Restaurare parțială în 2010", "Stâlpi din lemn", "Patrimoniu UNESCO din 1996"],
       en: ["Built in the 12th century", "Material: sun-dried mud bricks", "Expansion in the 15th century", "Partial restoration in 2010", "Wooden pillars", "UNESCO World Heritage since 1996"],
     },
+    image: "/poi-images/mauritania-ouadane-historic-mosque-history-v2.webp",
   },
   {
     id: "mauritania-tichitt-old-wells-history-v2",
@@ -868,6 +895,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Construite între secolele XI-XIV", "Adâncime până la 40 de metri", "Cinci fântâni încă funcționale", "Modernizare în anii 1960", "Căptușite cu piatră și mortar", "Asigurau apă pentru până la 5.000 de locuitori"],
       en: ["Built between 11th and 14th centuries", "Depth up to 40 meters", "Five wells still functional", "Modernized in the 1960s", "Lined with stone and mortar", "Supplied up to 5,000 residents"],
     },
+    image: "/poi-images/mauritania-tichitt-old-wells-history-v2.webp",
   },
   {
     id: "mauritania-oualata-library-history-v2",
@@ -899,6 +927,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Fondată în secolul al XIV-lea", "Aproximativ 3.000 de manuscrise", "Catalogare în 1995", "Specializare în jurisprudență islamică și astronomie", "Manuscrise în arabă și soninke", "Lista tentativă UNESCO"],
       en: ["Founded in the 14th century", "Approximately 3,000 manuscripts", "Cataloged in 1995", "Focus on Islamic jurisprudence and astronomy", "Manuscripts in Arabic and Soninke", "UNESCO tentative list"],
     },
+    image: "/poi-images/mauritania-oualata-library-history-v2.webp",
   },
   {
     id: "mauritania-azougui-palm-groves-history-v2",
@@ -930,6 +959,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Cultivat din secolul al XI-lea", "Aproximativ 50.000 de palmieri de curmale", "Irigare prin foggara (canale subterane)", "Producție anuală de curmale: 500 de tone", "Protejat din 2015", "Habitat pentru păsări migratoare"],
       en: ["Cultivated since the 11th century", "Approximately 50,000 date palms", "Irrigation via foggara (underground channels)", "Annual date production: 500 tons", "Protected area since 2015", "Habitat for migratory birds"],
     },
+    image: "/poi-images/mauritania-azougui-palm-groves-history-v2.webp",
   },
   {
     id: "mauritania-nouakchott-market-square-history-v2",
@@ -961,6 +991,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Piața este utilizată zilnic de peste 10.000 de persoane.", "Vânzătorii provin din 5 regiuni diferite ale Mauritaniei.", "Prețul oilelor variază între 50.000 și 100.000 de ouguiya.", "Piața a fost extinsă în 1985 cu o suprafață de 1,2 hectare.", "Ceaiul de mentă se vinde la 100 de ouguiya ceașca.", "Piața este deschisă de la 6:00 dimineața până la 18:00 seara."],
       en: ["Estimated daily footfall exceeds 20,000 people.", "Market covers an area of 3.2 hectares.", "Average annual turnover is around 50 billion ouguiya (approx. $1.3 billion).", "Over 1,200 registered vendors operate within the square.", "The square was officially opened in 1964 by President Mokhtar Ould Daddah.", "The market's livestock section trades about 500 goats and sheep per day."],
     },
+    image: "/poi-images/mauritania-nouakchott-market-square-history-v2.webp",
   },
   {
     id: "mauritania-tichitt-mosque-history-v2",
@@ -992,6 +1023,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Moscheea are o capacitate de 200 de credincioși.", "Copia Coranului datează din secolul al XVI-lea.", "Fundația a fost consolidată pe o adâncime de 2 metri.", "Acacia din curte are o vârstă estimată de 100 de ani.", "Predica de vineri durează aproximativ 30 de minute.", "Moscheea este construită pe o platformă de piatră de 0,5 metri înălțime."],
       en: ["Built around 1150 CE (approximately 870 years old).", "Walls are 1 meter thick at their thickest point.", "The interior floor area is 300 square meters.", "Annual maintenance requires 300 kilograms of clay and straw mixture.", "The mosque has survived 6 documented major sandstorms.", "It is one of 5 surviving Almoravid mosques in West Africa."],
     },
+    image: "/poi-images/mauritania-tichitt-mosque-history-v2.webp",
   },
   {
     id: "mauritania-ouadane-market-history-v2",
@@ -1023,6 +1055,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Piața funcționează o dată pe săptămână.", "Prețul unei perechi de sandale este de 5.000 de ouguiya.", "Se comercializează lunar peste 100 de capre", "Piața are 3.000 de metri pătrați.", "Vânzătorii provin din șase sate învecinate.", "Tămâia se vinde cu 500 de ouguiya gramul."],
       en: ["Weekly market day is Wednesday.", "Average attendance: 500 people per market day.", "Camels sell for 200,000 to 400,000 ouguiya ($5,000–$10,000).", "Market elevation: 495 meters above sea level.", "Livestock trading accounts for 60% of transactions.", "The market has operated continuously since the 12th century."],
     },
+    image: "/poi-images/mauritania-ouadane-market-history-v2.webp",
   },
   {
     id: "mauritania-nema-historic-quarter-history-v2",
@@ -1054,6 +1087,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Cartierul are o suprafață de 12 hectare.", "Inundația din 1977 a distrus 20 de case.", "Minaretul rotund are 15 metri înălțime.", "Există 5 fântâni active în cartier.", "Prețul unei broderii este de 3.000 de ouguiya.", "Temperatura medie vara atinge 45°C."],
       en: ["Approximately 300 households reside in the quarter.", "The oldest documented house dates to 1350 AD.", "Average courtyard size: 30 square meters.", "Annual recoating requires 50 tons of mud per house.", "The quarter is located 7 km from the Senegal River.", "Population density: 400 persons per km²."],
     },
+    image: "/poi-images/mauritania-nema-historic-quarter-history-v2.webp",
   },
   {
     id: "mauritania-tidjikja-historic-wells-history-v2",
@@ -1085,6 +1119,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Adâncimea puțurilor variază între 20 și 30 de metri.", "Debitul total al tuturor puțurilor este de 500 de litri pe minut.", "Numărul total de puțuri istorice este de 8.", "Fiecare puț deservește aproximativ 10 familii.", "Rotația apei costă 2 ouguiya per găleată.", "Puțul cel mai vechi datează din 1650."],
       en: ["The deepest well is 35 meters deep.", "Annual water extraction: 1.5 million cubic meters.", "The well system dates from 1650 to 1750.", "Water salinity: 0.8 grams per liter.", "Total irrigated area: 50 hectares of palm groves.", "Number of functioning historic wells: 6."],
     },
+    image: "/poi-images/mauritania-tidjikja-historic-wells-history-v2.webp",
   },
   {
     id: "mauritania-kaedi-river-bank-history-v2",
@@ -1116,6 +1151,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Lungimea malului accesibil este de 2 km.", "Numărul pirogilor este de 200.", "Pescuiesc anual 1.000 de tone de pește.", "Adâncimea maximă a râului aici este de 6 metri.", "Debitul minim înregistrat a fost de 100 m³/s.", "Recolta de pepeni verzi atinge 50 de tone pe sezon."],
       en: ["River width: 200 meters at Kaedi.", "Average annual flow: 1,500 million cubic meters.", "Fishing fleet: 300 registered boats.", "Gauge station has operated since 1921.", "Rice paddies cover 5,000 hectares along the bank.", "Sand extraction volume: 50,000 tons per year."],
     },
+    image: "/poi-images/mauritania-kaedi-river-bank-history-v2.webp",
   },
   {
     id: "mauritania-chinguetti-old-houses-history-v2",
@@ -1147,6 +1183,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Numărul caselor vechi este de 150.", "Grosimea peretilor este de 50 de cm.", "Ușile sculptate au vârste de până la 600 de ani.", "Pivnițele au adâncimea de 3 metri.", "Casele sunt grupate pe 5 străzi principale.", "Costul restaurării unei case este de 10.000 de euro."],
       en: ["Over 100 houses are officially listed as heritage.", "The largest house covers 400 square meters.", "Dar al-Najjar is 770 years old.", "Wall thickness: 0.5–0.7 meters.", "Elevation: 590 meters above sea level.", "Annual maintenance budget: $20,000 (from UNESCO)."],
     },
+    image: "/poi-images/mauritania-chinguetti-old-houses-history-v2.webp",
   },
   {
     id: "mauritania-oualata-mosque-history-v2",
@@ -1178,6 +1215,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Numărul manuscriselor este de 500.", "Înălțimea minaretului este de 10 metri.", "Lățimea pereților este de 70 cm.", "Anul renovării majore: 1480.", "Adâncimea fundației: 2 metri.", "Capacitatea: 300 de credincioși."],
       en: ["Construction date: 1120 CE (approx. 900 years ago).", "Hypostyle hall dimensions: 20m x 15m.", "Number of wooden columns: 32.", "Manuscript collection: over 400 volumes.", "Elevation: 530 m above sea level.", "Designated as a UNESCO Tentative World Heritage site in 1996."],
     },
+    image: "/poi-images/mauritania-oualata-mosque-history-v2.webp",
   },
   {
     id: "mauritania-boutilimit-market-history-v2",
@@ -1209,6 +1247,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Mierea se vinde cu 5.000 ouguiya kilogramul.", "Piața atrage 1.500 de vizitatori zilnic.", "Secțiunea de medicină tradițională are 20 de tarabe.", "Sarea gemă se vinde cu 100 ouguiya kilogramul.", "Piața funcționează de la 6 dimineața până la 18:00.", "Taxa de intrare pentru vânzători este 500 ouguiya."],
       en: ["Founded: 1934.", "Size: 2.5 hectares.", "Number of livestock traded weekly: 800 goats/sheep, 200 cattle.", "Nearest city: 120 km from Nouakchott.", "Elevation: 25 m above sea level.", "Annual revenue: approx. 2 billion ouguiya."],
     },
+    image: "/poi-images/mauritania-boutilimit-market-history-v2.webp",
   },
   {
     id: "mauritania-azougui-fort-remains-history-v2",
@@ -1240,6 +1279,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Suprafața incintei: 0,5 hectare.", "Înălțimea zidurilor păstrate: 4 metri.", "Grosimea medie a zidurilor: 2 metri.", "Numărul monedelor de aur descoperite: 15.", "Anul abandonării: 1275.", "Altitudinea sitului: 450 m."],
       en: ["Built circa 1050 CE.", "Wall thickness: 3.5 m at base.", "Area: 0.8 hectares.", "Elevation: 450 m.", "Excavated structures: mosque, 8 rooms, 1 well.", "Garrison capacity: 200 people."],
     },
+    image: "/poi-images/mauritania-azougui-fort-remains-history-v2.webp",
   },
   {
     id: "mauritania-nouakchott-old-district-history-v2",
@@ -1271,6 +1311,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Suprafața: 1 km².", "Populația: 60.000 locuitori.", "Numărul de ceainării: 30.", "Atelierele de reparații: 100.", "Prețul unui ceai: 50 ouguiya.", "Fântânile comunale: 5."],
       en: ["Area: 2 km².", "Population: 80,000 (estimate).", "Population density: 40,000 per km².", "Year of first settlement: 1958.", "Average household size: 8 people.", "Lack of paved roads: 90% unpaved."],
     },
+    image: "/poi-images/mauritania-nouakchott-old-district-history-v2.webp",
   },
   {
     id: "mauritania-tichitt-traditional-houses-history-v2",
@@ -1302,6 +1343,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Grosimea peretelui: 65 cm.", "Numărul caselor tradiționale: 300.", "Înălțimea acoperișului: 3 m.", "Suprafața medie: 80 m².", "Anul cel mai vechi: 1650.", "Populația actuală: 4.000."],
       en: ["Wall thickness: 0.6–1.0 m.", "Number of traditional houses: 250.", "Average height: 4 m.", "Construction material: quartzite stone and mud mortar.", "Average house age: 250 years.", "UNESCO World Heritage designation: 1996."],
     },
+    image: "/poi-images/mauritania-tichitt-traditional-houses-history-v2.webp",
   },
   {
     id: "mauritania-ouadane-fortification-history-v2",
@@ -1333,6 +1375,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Lungimea zidului: 2,2 km.", "Numărul turnurilor: 12 (identificate).", "Înălțimea maximă a zidului: 6 m.", "Porți principale: 3.", "Anul construirii: 1350.", "Suprafața incintei: 6 hectare."],
       en: ["Wall length: 2.1 km.", "Number of bastions: 15.", "Maximum height: 6 m.", "Wall thickness: 1.2–1.5 m.", "Construction period: 14th to 17th century.", "Part of a UNESCO World Heritage site (1996)."],
     },
+    image: "/poi-images/mauritania-ouadane-fortification-history-v2.webp",
   },
   {
     id: "mauritania-nema-traditional-houses-history-v2",
@@ -1364,6 +1407,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Grosimea peretelui: 38-42 cm.", "Durata de viață: 25 de ani.", "Suprafața medie: 45 m².", "Înălțimea pereților: 2,5 m.", "Numărul de case tradiționale rămase: 200.", "Acoperișul se reface la fiecare 5 ani."],
       en: ["Typical wall thickness: 45 cm.", "Average house lifespan: 30 years.", "Floor area: 40-60 m².", "Percentage of traditional houses in Nema: 50%.", "Annual mud recoating requirement: 1 ton per house.", "Roof construction uses 20 bundles of millet stalks."],
     },
+    image: "/poi-images/mauritania-nema-traditional-houses-history-v2.webp",
   },
   {
     id: "mauritania-kaedi-historical-market-history-v2",
@@ -1395,6 +1439,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Suprafața: 1,8 ha.", "Numărul de tarabe: 400.", "Vânzările zilnice de pește: 4 tone.", "Taxa pentru un stand: 200 ouguiya pe zi.", "Numărul de vizitatori zilnici: 3.000.", "Sectorul de animale: 0,5 ha."],
       en: ["Founded in 1760.", "Size: 1.8 hectares.", "Daily fish sales: 4 tons.", "Number of vendors: 450.", "Operating hours: 6:00 AM – 7:00 PM.", "Estimated daily footfall: 5,000 people."],
     },
+    image: "/poi-images/mauritania-kaedi-historical-market-history-v2.webp",
   },
   {
     id: "mauritania-chinguetti-ancient-wells-history-v2",
@@ -1426,6 +1471,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Adâncimea fântânii Bir al-Shifa: 36 m.", "Diametrul: 2,5 m.", "Debitul: 12 l/min.", "Numărul fântânilor active: 6.", "Suprafața irigată: 2 hectare.", "Anul construirii: secolul al XV-lea."],
       en: ["Deepest well: 45 m.", "Diameter: 2.5 m.", "Number of wells: 9 (all historic).", "Flow rate: 10–15 L/min.", "Age: 500–600 years.", "Water temperature: 21°C."],
     },
+    image: "/poi-images/mauritania-chinguetti-ancient-wells-history-v2.webp",
   },
   {
     id: "mauritania-tidjikja-mosque-exterior-history-v2",
@@ -1457,6 +1503,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Înălțimea minaretului: 14 m.", "Grosimea pereților exteriori: 0,7 m.", "Anul construirii: 1820.", "Lățimea porții: 2 m.", "Adâncimea fundației: 1 m.", "Suprafața: 0,5 ha."],
       en: ["Minaret height: 15 m.", "Construction year: 1820.", "Wall thickness: 0.7 m.", "Number of domes: 2.", "Door height: 2.5 m.", "Building footprint: 250 m²."],
     },
+    image: "/poi-images/mauritania-tidjikja-mosque-exterior-history-v2.webp",
   },
   {
     id: "mauritania-oualata-historic-walls-history-v2",
@@ -1488,6 +1535,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Lungimea zidurilor: 1,6 km.", "Înălțimea: 3,5 m.", "Numărul porților: 5 (cu arcadă).", "Grosimea: 0,8 m.", "Anul construirii: 1250.", "Suprafața incintei: 10,5 ha."],
       en: ["Wall length: 1.6 km.", "Average height: 4 m.", "Number of gates: 6.", "Wall thickness: 0.8–1.0 m.", "Enclosed area: 10.5 hectares.", "Construction date: 13th century."],
     },
+    image: "/poi-images/mauritania-oualata-historic-walls-history-v2.webp",
   },
   {
     id: "mauritania-boutilimit-traditional-building-history-v2",
@@ -1519,6 +1567,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Anul construirii: 1885.", "Lungimea: 22 m.", "Lățimea: 14 m.", "Înălțimea: 6 m.", "Coloanele porticului: 4 bucăți.", "Smochinul are 80 de ani."],
       en: ["Built: 1885.", "Size: 22 m x 14 m.", "Height: 6 m.", "Number of rooms: 10.", "Current use: museum and cultural centre.", "Restoration year: 2015."],
     },
+    image: "/poi-images/mauritania-boutilimit-traditional-building-history-v2.webp",
   },
   {
     id: "mauritania-azougui-historical-ruins-history-v2",
@@ -1550,6 +1599,7 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Suprafața sitului: 2,5 ha.", "Perioada de ocupare: 1050-1250.", "Numărul de monede de argint găsite: 50.", "Lungimea zidului de incintă: 300 m.", "Adâncimea fântânii: 12 m.", "Anul primei săpături: 1992."],
       en: ["Site area: 2.5 hectares.", "Occupation period: 11th–13th centuries.", "Number of structures identified: 20.", "Wall remains: up to 3 m high.", "Artifacts recovered: over 1,000 pieces.", "Distance to nearest town: 50 km."],
     },
+    image: "/poi-images/mauritania-azougui-historical-ruins-history-v2.webp",
   },
   {
     id: "mauritania-nouakchott-modern-square-history-v2",
@@ -1581,5 +1631,6 @@ export const mauritaniaHistoryV2: POI[] = [
       ro: ["Piața a fost inaugurată în 1961.", "Suprafața este de aproximativ 14.000 m².", "Monumentul central are 10 metri înălțime.", "Piața găzduiește 25 de evenimente oficiale anual.", "În jur se află 7 ambasade și clădiri ministeriale.", "Temperaturile la suprafață ajung la 45°C vara."],
       en: ["The square was built in 1961.", "It covers 13,000 m².", "The central obelisk is 15 m tall.", "Annual national day parade attracts 20,000 attendees.", "The square has 8 surrounding government buildings.", "It was renovated in 2005 at a cost of $2 million."],
     },
+    image: "/poi-images/mauritania-nouakchott-modern-square-history-v2.webp",
   }
 ];

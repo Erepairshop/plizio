@@ -32,7 +32,8 @@ export const mkPoisPart7: POI[] = [
       hu: ["A 14. században alapította Oliver despota.", "Irodalmi iskolájáról ismert.", "Egy kialudt vulkáni kráterben található."],
       ro: ["Fondată în secolul al XIV-lea de despotul Oliver.", "Cunoscută pentru școala sa literară.", "Situată într-un crater vulcanic stins."],
       en: ["Founded in the 14th century by Despot Oliver.", "Known for its literary school.", "Located in an extinct volcanic crater."]
-    }
+    },
+    image: "/poi-images/MK-061-lesnovo-monastery.webp",
   },
   {
     id: "MK-061-zletovo-river-valley",
@@ -63,7 +64,8 @@ export const mkPoisPart7: POI[] = [
       hu: ["Fontos ólom- és cinkbányászati régió.", "Érdekes geológiai képződményeket kínál.", "Természetjáró túrák helyszíne."],
       ro: ["Regiune importantă pentru extragerea plumbului și zincului.", "Oferă formațiuni geologice interesante.", "Un loc pentru drumeții în natură."],
       en: ["Important region for lead and zinc mining.", "Offers interesting geological formations.", "A spot for nature hikes."]
-    }
+    },
+    image: "/poi-images/MK-061-zletovo-river-valley.webp",
   },
   // MK-062: Češinovo-Obleševo
   {
@@ -95,7 +97,8 @@ export const mkPoisPart7: POI[] = [
       hu: ["A község tagja az európai gólyafalvak hálózatának.", "A gólyák a régió jelképei.", "A madármegfigyelők paradicsoma."],
       ro: ["Municipalitatea este membră a rețelei satelor europene ale berzelor.", "Berzele sunt un simbol al regiunii.", "Un paradis pentru observatorii de păsări."],
       en: ["The municipality is a member of the European Stork Villages network.", "Storks are a symbol of the region.", "A paradise for birdwatchers."]
-    }
+    },
+    image: "/poi-images/MK-062-storks-nest-oblesevo.webp",
   },
   {
     id: "MK-062-kocani-rice-fields",
@@ -126,7 +129,8 @@ export const mkPoisPart7: POI[] = [
       hu: ["Kocsanót Macedónia 'rizsfővárosaként' emlegetik.", "Az öntözés összetett csatornarendszeren keresztül történik.", "Meghatározza a helyi gasztronómiát."],
       ro: ["Kočani este considerat 'capitala orezului' din Macedonia.", "Irigarea se face printr-un sistem complex de canale.", "Modelează gastronomia locală."],
       en: ["Kočani is known as the 'Rice Capital' of Macedonia.", "Irrigation is done via a complex canal system.", "Shapes the local gastronomy."]
-    }
+    },
+    image: "/poi-images/MK-062-kocani-rice-fields.webp",
   },
   // MK-063: Aračinovo
   {
@@ -158,7 +162,8 @@ export const mkPoisPart7: POI[] = [
       hu: ["A helyi hitélet központja.", "Magas minarettel rendelkezik.", "Fontos találkozóhely a közösség számára."],
       ro: ["Centrul vieții religioase locale.", "Are un minaret înalt.", "Un punct de întâlnire important pentru comunitate."],
       en: ["Center of local religious life.", "Features a tall minaret.", "Significant meeting point for the community."]
-    }
+    },
+    image: "/poi-images/MK-063-aracinovo-mosque.webp",
   },
   {
     id: "MK-063-skopje-valley-view",
@@ -189,7 +194,8 @@ export const mkPoisPart7: POI[] = [
       hu: ["Betekintést nyújt a főváros látképébe.", "Ideális tájképfotózáshoz.", "Megmutatja Szkopje városának kiterjedését."],
       ro: ["Oferă o perspectivă asupra capitalei.", "Ideal pentru fotografia de peisaj.", "Arată extinderea orașului Skopje."],
       en: ["Provides a perspective of the capital city.", "Ideal for landscape photography.", "Shows the scale of the city of Skopje."]
-    }
+    },
+    image: "/poi-images/MK-063-skopje-valley-view.webp",
   },
   // MK-064: Zelenikovo
   {
@@ -221,7 +227,8 @@ export const mkPoisPart7: POI[] = [
       hu: ["Antik település Taor falu közelében.", "Régészeti ásatások erődmaradványokat tártak fel.", "A közelben feltételezik Justiniana Prima helyszínét."],
       ro: ["Așezare antică lângă satul Taor.", "Săpăturile arheologice prezintă rămășițe de fortificații.", "Se presupune că Justiniana Prima a fost în apropiere."],
       en: ["Ancient settlement near the village of Taor.", "Archaeological excavations reveal ruins of fortresses.", "Justiniana Prima was thought to be located nearby."]
-    }
+    },
+    image: "/poi-images/MK-064-tauresium-archaeological-site.webp",
   },
   {
     id: "MK-064-vardar-river-zelenikovo",
@@ -252,7 +259,8 @@ export const mkPoisPart7: POI[] = [
       hu: ["Népszerű hétvégi kirándulóhely.", "Horgászati lehetőségeket kínál.", "Zöld természet veszi körül."],
       ro: ["Popular pentru excursii de weekend.", "Oferă oportunități pentru pescuit.", "Înconjurat de natură verde."],
       en: ["Popular for weekend excursions.", "Offers opportunities for fishing.", "Surrounded by lush greenery."]
-    }
+    },
+    image: "/poi-images/MK-064-vardar-river-zelenikovo.webp",
   },
   // MK-065: Kičevo
   {
@@ -284,7 +292,8 @@ export const mkPoisPart7: POI[] = [
       hu: ["Kilátást nyújt az egész városra.", "Ma városi park és pihenőhely.", "Gazdag a Kita hercegnőről szóló legendákban."],
       ro: ["Oferă o vedere asupra întregului oraș.", "Astăzi este un parc orășenesc și zonă de recreere.", "Bogată în legende despre prințesa Kita."],
       en: ["Provides a view over the entire city.", "Now a city park and recreation area.", "Rich in legends about Princess Kita."]
-    }
+    },
+    image: "/poi-images/MK-065-kicevo-fortress.webp",
   },
   {
     id: "MK-065-st-peter-paul-kicevo",
@@ -315,7 +324,8 @@ export const mkPoisPart7: POI[] = [
       hu: ["A város ortodox hitéletének központja.", "Ikonosztázáról ismert.", "Vallási szertartások gyakori helyszíne."],
       ro: ["Centrul credinței ortodoxe din oraș.", "Cunoscută pentru iconostasul său.", "Loc frecvent pentru ceremonii religioase."],
       en: ["Center of the Orthodox faith in the city.", "Known for its iconostasis.", "Frequent site for religious ceremonies."]
-    }
+    },
+    image: "/poi-images/MK-065-st-peter-paul-kicevo.webp",
   },
   // MK-066: Plasnica
   {
@@ -347,7 +357,8 @@ export const mkPoisPart7: POI[] = [
       hu: ["A községet többségében törökök lakják.", "A kulturális identitás fontos helyszíne.", "Hagyományos építészettel rendelkezik."],
       ro: ["Municipalitatea este locuită majoritar de turci.", "Loc important pentru identitatea culturală.", "Are o arhitectură tradițională."],
       en: ["The municipality is predominantly inhabited by Turks.", "Important site for cultural identity.", "Features traditional architecture."]
-    }
+    },
+    image: "/poi-images/MK-066-plasnica-mosque.webp",
   },
   {
     id: "MK-066-treska-river-plasnica",
@@ -378,7 +389,8 @@ export const mkPoisPart7: POI[] = [
       hu: ["Festői környezetet biztosít.", "Fontos a helyi mezőgazdaság számára.", "A nyugalom helyszíne."],
       ro: ["Oferă un cadru pitoresc.", "Important pentru agricultura locală.", "Un loc de liniște."],
       en: ["Provides a picturesque backdrop.", "Important for local agriculture.", "A place of tranquility."]
-    }
+    },
+    image: "/poi-images/MK-066-treska-river-plasnica.webp",
   },
   // MK-067: Vraneštica
   {
@@ -410,7 +422,8 @@ export const mkPoisPart7: POI[] = [
       hu: ["Kézzel készített agyagedények gyártásáról ismert.", "Gyakran látogatják a kézművességet kedvelő turisták.", "A technikák generációról generációra öröklődnek."],
       ro: ["Cunoscut pentru producția de vase de lut lucrate manual.", "Vizitat adesea de turiști care apreciază artizanatul.", "Tehnicile sunt transmise din generație în generație."],
       en: ["Known for the production of handmade earthenware.", "Often visited by tourists who appreciate crafts.", "Techniques are passed down through generations."]
-    }
+    },
+    image: "/poi-images/MK-067-pottery-vranestica.webp",
   },
   {
     id: "MK-067-st-elijah-vranestica",
@@ -441,7 +454,8 @@ export const mkPoisPart7: POI[] = [
       hu: ["Helyi kulturális műemlék.", "Csendes környezetben fekszik.", "Hagyományos építési stílusokat mutat be."],
       ro: ["Un monument cultural local.", "Situată într-o zonă liniștită.", "Prezintă stiluri arhitecturale tradiționale."],
       en: ["A local cultural monument.", "Located in a peaceful area.", "Showcases traditional building styles."]
-    }
+    },
+    image: "/poi-images/MK-067-st-elijah-vranestica.webp",
   },
   // MK-068: Skopje
   {
@@ -473,7 +487,8 @@ export const mkPoisPart7: POI[] = [
       hu: ["Eredetileg az i. sz. 6. századból származik.", "A legjobb panorámás kilátást nyújtja a városra.", "Az 1963-as földrengés után részben helyreállították."],
       ro: ["Datează inițial din secolul al VI-lea d.Hr.", "Oferă cea mai bună vedere panoramică asupra orașului.", "Restaurată parțial după cutremurul din 1963."],
       en: ["Originally dates from the 6th century AD.", "Offers the best panoramic view of the city.", "Partially restored after the 1963 earthquake."]
-    }
+    },
+    image: "/poi-images/MK-068-kale-fortress.webp",
   },
   {
     id: "MK-068-millennium-cross",
@@ -504,7 +519,8 @@ export const mkPoisPart7: POI[] = [
       hu: ["A kereszténység 2000 évének tiszteletére épült.", "A világ egyik legnagyobb keresztje.", "Felvonóval érhető meg."],
       ro: ["Construită pentru a celebra 2000 de ani de creștinism.", "Una dintre cele mai mari cruci din lume.", "Accesibilă cu telecabina."],
       en: ["Built to celebrate 2000 years of Christianity.", "One of the largest crosses in the world.", "Accessible by a cable car."]
-    }
+    },
+    image: "/poi-images/MK-068-millennium-cross.webp",
   },
   // MK-069: Lozovo
   {
@@ -543,7 +559,8 @@ export const mkPoisPart7: POI[] = [
       hu: ["A helyi vallási közösség központja.", "A vidéki templomépítészet egyik példája.", "Hagyományos gyűlések helyszíne."],
       ro: ["Centrul comunității religioase locale.", "Un exemplu de arhitectură bisericească rurală.", "Loc pentru adunări tradiționale."],
       en: ["Center of the local religious community.", "An example of rural church architecture.", "Site for traditional gatherings."]
-    }
+    },
+    image: "/poi-images/MK-069-st-athanasius-lozovo.webp",
   },
   {
     id: "MK-069-ovce-pole-lozovo",
@@ -574,7 +591,8 @@ export const mkPoisPart7: POI[] = [
       hu: ["Mezőgazdaságáról, különösen a gabonáról ismert.", "Tágas és nyitott tájakat kínál.", "Az élelmiszertermelés fontos régiója."],
       ro: ["Cunoscută pentru agricultură, în special cereale.", "Oferă peisaje largi și deschise.", "Regiune importantă pentru producția de alimente."],
       en: ["Known for agriculture, especially cereals.", "Offers wide and open landscapes.", "Crucial region for food production."]
-    }
+    },
+    image: "/poi-images/MK-069-ovce-pole-lozovo.webp",
   },
   // MK-070: Sveti Nikole
   {
@@ -606,7 +624,8 @@ export const mkPoisPart7: POI[] = [
       hu: ["A Knežje-dombon található.", "Jelentős gazdasági és katonai központ volt.", "Fontos régészeti ásatások zajlanak itt."],
       ro: ["Situată pe dealul Knežje.", "A fost un centru economic și militar major.", "Aici au loc săpături arheologice importante."],
       en: ["Located on the Knežje hill.", "Was a significant economic and military center.", "Important archaeological excavations take place here."]
-    }
+    },
+    image: "/poi-images/MK-070-bila-zora.webp",
   },
   {
     id: "MK-070-st-nicholas-church",
@@ -637,7 +656,8 @@ export const mkPoisPart7: POI[] = [
       hu: ["A város jelképe.", "Értékes vallási műtárgyakat őriz.", "Istentiszteletek rendszeres helyszíne."],
       ro: ["Un simbol al orașului.", "Adăpostește artă religioasă valoroasă.", "Loc utilizat în mod regulat pentru servicii religioase."],
       en: ["A symbol of the city.", "Houses valuable religious art.", "Regularly used site for worship services."]
-    }
+    },
+    image: "/poi-images/MK-070-st-nicholas-church.webp",
   }
 ];
 

@@ -32,6 +32,7 @@ export const switzerlandLandmarksV2: POI[] = [
       ro: ["Perioadă de construcție: 1100–1230", "Turnuri înălțate în 1492", "Turnul nordic: 62 m, sudic: 63 m", "Zwingli a predicat aici din 1519", "Amvonul din 1849", "Vitralii de Augusto Giacometti (anii 1940)"],
       en: ["Construction period: 1100–1230", "Towers raised in 1492", "North tower: 62 m, south tower: 63 m", "Zwingli preached here from 1519", "Pulpit from 1849", "Stained glass by Augusto Giacometti (1940s)"],
     },
+    image: "/poi-images/switzerland-grossmunster-landmarks-v2.webp",
   },
   {
     id: "switzerland-landwasser-viaduct-landmarks-v2",
@@ -64,6 +65,7 @@ export const switzerlandLandmarksV2: POI[] = [
       ro: ["Înălțime: 65 m", "Construcție: 1901–1902", "Lungime: 136 m, 6 arcade cu deschidere de 20 m", "Inaugurare: 1 iulie 1903", "Patrimoniu UNESCO din 2008", "Circa 20.000 de trenuri anual"],
       en: ["Height: 65 m", "Construction period: 1901–1902", "Length: 136 m, 6 arches with 20 m span", "Opened: July 1, 1903", "UNESCO World Heritage since 2008", "Approximately 20,000 trains annually"],
     },
+    image: "/poi-images/switzerland-landwasser-viaduct-landmarks-v2.webp",
   },
   {
     id: "switzerland-national-library-landmarks-v2",
@@ -96,6 +98,7 @@ export const switzerlandLandmarksV2: POI[] = [
       ro: ["Anul fondării: 1895", "Mutarea în clădirea actuală: 1931", "Fond: peste 5 milioane de documente", "Arhitecți: Gottlieb Jakob Kuhn și Fritz Hunziker", "Parte a Oficiului Federal pentru Cultură", "Responsabilă de arhivarea digitală pe termen lung din 2016"],
       en: ["Founded: 1895", "Moved to current building: 1931", "Holdings: over 5 million items", "Architects: Gottlieb Jakob Kuhn and Fritz Hunziker", "Part of the Federal Office of Culture", "Responsible for digital long-term preservation since 2016"],
     },
+    image: "/poi-images/switzerland-national-library-landmarks-v2.webp",
   },
   {
     id: "switzerland-kapellbrucke-landmarks-v2",
@@ -128,6 +131,7 @@ export const switzerlandLandmarksV2: POI[] = [
       ro: ["Construit în 1333", "Lungime: 204,7 m", "Aproximativ 120 de picturi sub acoperiș", "Incendiul din 1993 a distrus 78 de picturi", "Redeschis în 1994", "Înălțimea Turnului de Apă: 34,5 m"],
       en: ["Built in 1333", "Length: 204.7 m", "Approximately 120 paintings under roof", "Fire in 1993 destroyed 78 paintings", "Reopened in 1994", "Water Tower height: 34.5 m"],
     },
+    image: "/poi-images/switzerland-kapellbrucke-landmarks-v2.webp",
   },
   {
     id: "switzerland-st-laurent-cathedral-landmarks-v2",
@@ -160,6 +164,7 @@ export const switzerlandLandmarksV2: POI[] = [
       ro: ["Construcția a început în secolul al XV-lea", "Fațada finalizată în 1517", "Turn-clopotniță din secolul al XVII-lea, înălțime 42 m", "Frescele lui Bernardino Luini (1529)", "Strane din secolul al XVI-lea", "Bun cultural de importanță națională"],
       en: ["Construction began in the 15th century", "Façade completed in 1517", "Bell tower from the 17th century, height 42 m", "Frescoes by Bernardino Luini (1529)", "16th-century choir stalls", "Cultural property of national importance"],
     },
+    image: "/poi-images/switzerland-st-laurent-cathedral-landmarks-v2.webp",
   },
   {
     id: "switzerland-basel-minster-landmarks-v2",
@@ -192,6 +197,7 @@ export const switzerlandLandmarksV2: POI[] = [
       ro: ["Începutul construcției: 1019", "Distrus de cutremurul din 1356", "Turnul Gheorghe: 67 m, Turnul Martin: 62 m", "Mormântul lui Erasmus din Rotterdam", "Cripta din secolul al XI-lea", "Scaun episcopal: 1534–1567"],
       en: ["Construction started in 1019", "Destroyed by earthquake in 1356", "Georgsturm: 67 m, Martinsturm: 62 m", "Tomb of Erasmus of Rotterdam", "Crypt from the 11th century", "Bishop's seat from 1534 to 1567"],
     },
+    image: "/poi-images/switzerland-basel-minster-landmarks-v2.webp",
   },
   {
     id: "switzerland-zytglogge-landmarks-v2",
@@ -224,6 +230,7 @@ export const switzerlandLandmarksV2: POI[] = [
       ro: ["Construit ca poartă a orașului în jurul anului 1218", "Ceasul astronomic de Kaspar Brunner (1530)", "Înălțimea turnului: 54 m", "Spectacol de figuri mecanice în fiecare oră", "Locuința paznicului din 1379", "Patrimoniu UNESCO (orașul vechi Berna)"],
       en: ["Built as a city gate around 1218", "Astronomical clock by Kaspar Brunner (1530)", "Tower height: 54 m", "Mechanical puppet show every hour", "Watchman's apartment since 1379", "UNESCO World Heritage (Old City Bern)"],
     },
+    image: "/poi-images/switzerland-zytglogge-landmarks-v2.webp",
   },
   {
     id: "switzerland-glacier-garden-landmarks-v2",
@@ -256,6 +263,7 @@ export const switzerlandLandmarksV2: POI[] = [
       ro: ["Descoperit în 1872", "Oalele glaciare formate acum circa 20.000 de ani", "Cea mai mare oală: diametru 8 m, adâncime 9 m", "Pavilion construit în 1873", "Grădină alpină cu peste 500 de specii", "Deschis publicului în 1878"],
       en: ["Discovered in 1872", "Glacial potholes formed about 20,000 years ago", "Largest pothole: diameter 8 m, depth 9 m", "Pavilion built in 1873", "Alpine garden with over 500 plant species", "Opened to public in 1878"],
     },
+    image: "/poi-images/switzerland-glacier-garden-landmarks-v2.webp",
   },
   {
     id: "switzerland-schloss-oberhofen-landmarks-v2",
@@ -288,6 +296,7 @@ export const switzerlandLandmarksV2: POI[] = [
       ro: ["Prima mențiune: 1218", "Donjonul din secolul al XII-lea", "Remodelare neogotică în 1849", "Muzeu din 1940", "Colecție de mobilier din secolele XVI–XIX", "Parcul în stil englezesc"],
       en: ["First mentioned in 1218", "Keep from the 12th century", "Neo-Gothic remodeling in 1849", "Museum since 1940", "Collection of 16th–19th century furniture", "English-style park"],
     },
+    image: "/poi-images/switzerland-schloss-oberhofen-landmarks-v2.webp",
   },
   {
     id: "switzerland-palais-des-nations-landmarks-v2",
@@ -320,6 +329,7 @@ export const switzerlandLandmarksV2: POI[] = [
       ro: ["Construit între 1929 și 1938 pentru Liga Națiunilor", "600.000 m² suprafață totală", "2.800 de birouri", "Peste 10.000 de întâlniri anual", "Situat pe malul Lacului Geneva", "Priveliște către Mont Blanc"],
       en: ["Built 1929–1938 for the League of Nations", "600,000 m² total floor area", "2,800 offices", "Over 10,000 meetings per year", "Located on Lake Geneva", "Views of Mont Blanc"],
     },
+    image: "/poi-images/switzerland-palais-des-nations-landmarks-v2.webp",
   },
   {
     id: "switzerland-st-peters-abbey-landmarks-v2",
@@ -352,6 +362,7 @@ export const switzerlandLandmarksV2: POI[] = [
       ro: ["Fondată în secolul al VIII-lea", "Biserica barocă din secolul al XVII-lea", "Peste 50.000 de volume în bibliotecă", "Situată în cantonul Graubünden", "Mănăstire benedictină", "Altitudine: aproximativ 1.200 m"],
       en: ["Founded in the 8th century", "Baroque church from the 17th century", "Library holds over 50,000 volumes", "Located in the canton of Graubünden", "Benedictine monastery", "Elevation: approximately 1,200 m"],
     },
+    image: "/poi-images/switzerland-st-peters-abbey-landmarks-v2.webp",
   },
   {
     id: "switzerland-grand-theatre-geneva-landmarks-v2",
@@ -384,6 +395,7 @@ export const switzerlandLandmarksV2: POI[] = [
       ro: ["Deschis în 1879", "Arhitect: Jacques-Élysée Goss", "1500 de locuri", "Cost inițial: 3 milioane de franci", "Renovat în 2014", "Stil neoclasic"],
       en: ["Opened: 1879", "Architect: Jacques-Élysée Goss", "Seating capacity: 1,500", "Stage width: 25 meters", "Renovation cost: 70 million CHF", "Height: 28 meters"],
     },
+    image: "/poi-images/switzerland-grand-theatre-geneva-landmarks-v2.webp",
   },
   {
     id: "switzerland-castel-murten-landmarks-v2",
@@ -416,6 +428,7 @@ export const switzerlandLandmarksV2: POI[] = [
       ro: ["Construit în secolul XIII", "Lacul Murten la poale", "Înălțime donjon: 25 m", "Muzeu deschis în 1936", "Grosime zid: 1,5 m", "Protejat ca monument național"],
       en: ["Built: 13th century (circa 1250)", "Height of keep: 25 meters", "Museum established: 1936", "Wall thickness: 1.5 meters", "Altitude: 453 meters above sea level", "Canton: Fribourg"],
     },
+    image: "/poi-images/switzerland-castel-murten-landmarks-v2.webp",
   },
   {
     id: "switzerland-chateau-de-chillon-v2-landmarks-v2",
@@ -448,6 +461,7 @@ export const switzerlandLandmarksV2: POI[] = [
       ro: ["Construcție inițială: secolul XI", "Suprafața: 5.000 m²", "Peste 100 de camere", "Vizitatori pe an: ~400.000", "Lungime zid de mal: 50 m", "Înălțime donjon: 25 m"],
       en: ["Earliest construction: 11th century", "Total area: 5,000 m²", "Number of rooms: over 100", "Annual visitors: approx. 400,000", "Lakeside wall length: 50 meters", "Keep height: 25 meters"],
     },
+    image: "/poi-images/switzerland-chateau-de-chillon-v2-landmarks-v2.webp",
   },
   {
     id: "switzerland-stadthaus-winterthur-landmarks-v2",
@@ -480,6 +494,7 @@ export const switzerlandLandmarksV2: POI[] = [
       ro: ["Construit: 1865–1869", "Arhitect: Theodor Frey", "Stil: Neorenascentist", "Înălțime turn: 45 m", "Număr încăperi: 60", "Cost: 1,5 milioane franci"],
       en: ["Construction: 1865–1869", "Architect: Theodor Frey", "Style: Neo-Renaissance", "Tower height: 45 meters", "Number of rooms: 60", "Construction cost: 1.5 million CHF"],
     },
+    image: "/poi-images/switzerland-stadthaus-winterthur-landmarks-v2.webp",
   },
   {
     id: "switzerland-st-felix-church-landmarks-v2",
@@ -512,6 +527,7 @@ export const switzerlandLandmarksV2: POI[] = [
       ro: ["Construit: secolul XV", "Stil: gotic", "Sfințit: 1480", "Înălțime turn: 50 m", "Extindere: 1901–1902", "Fresce din secolul XV"],
       en: ["Built: 15th century (completed 1480)", "Style: Gothic", "Consecrated: 1480", "Tower height: 50 meters", "Extension: 1901–1902", "Frescoes dating from the 15th century"],
     },
+    image: "/poi-images/switzerland-st-felix-church-landmarks-v2.webp",
   },
   {
     id: "switzerland-schloss-rauhenstein-landmarks-v2",
@@ -544,6 +560,7 @@ export const switzerlandLandmarksV2: POI[] = [
       ro: ["Construit: secolul XIII", "Altitudine deasupra Rinului: 100 m", "Donjon înălțime: 15 m", "Abandonat: secolul XV", "Comună: Laax", "Canton: Graubünden"],
       en: ["Built: 13th century", "Elevation above river: 100 meters", "Keep height: 15 meters (remains)", "Abandoned: 15th century", "Municipality: Laax", "Canton: Graubünden"],
     },
+    image: "/poi-images/switzerland-schloss-rauhenstein-landmarks-v2.webp",
   },
   {
     id: "switzerland-zurich-opera-house-landmarks-v2",
@@ -576,6 +593,7 @@ export const switzerlandLandmarksV2: POI[] = [
       ro: ["Construit: 1891", "Arhitecți: Fellner & Helmer", "Locuri: 1.200", "Reconstruit: 1925", "Orchestra: 100 de muzicieni", "Stagiune: septembrie–iulie"],
       en: ["Built: 1891", "Architects: Fellner & Helmer", "Seating capacity: 1,200", "Rebuilt after fire: 1925", "Orchestra size: 100 musicians", "Season: September to July"],
     },
+    image: "/poi-images/switzerland-zurich-opera-house-landmarks-v2.webp",
   },
   {
     id: "switzerland-st-george-church-landmarks-v2",
@@ -608,6 +626,7 @@ export const switzerlandLandmarksV2: POI[] = [
       ro: ["Construit: 1880", "Stil: neogotic", "Confesiune: anglicană", "Membri comunitate: 300", "Vitralii: 12 scene", "Protejat din: 1975"],
       en: ["Built: 1880", "Style: Neo-Gothic", "Denomination: Anglican", "Congregation size: 300 members", "Stained glass: 12 panels", "Protected since: 1975"],
     },
+    image: "/poi-images/switzerland-st-george-church-landmarks-v2.webp",
   },
   {
     id: "switzerland-stadthaus-schaffhausen-landmarks-v2",
@@ -640,6 +659,7 @@ export const switzerlandLandmarksV2: POI[] = [
       ro: ["Construit: 1865–1868", "Arhitect: Johann Georg Müller", "Stil: Neorenascentist", "Înălțime turn: 40 m", "Sală consiliu: 200 locuri", "Cost: 800.000 franci"],
       en: ["Construction: 1865–1868", "Architect: Johann Georg Müller", "Style: Neo-Renaissance", "Tower height: 40 meters", "Council chamber: 200 seats", "Construction cost: 800,000 CHF"],
     },
+    image: "/poi-images/switzerland-stadthaus-schaffhausen-landmarks-v2.webp",
   },
   {
     id: "switzerland-musee-dart-et-dhistoire-landmarks-v2",
@@ -672,6 +692,7 @@ export const switzerlandLandmarksV2: POI[] = [
       ro: ["Deschis: 1910", "Arhitect: Marc Camoletti", "Colecție: 650.000 de obiecte", "Suprafața expozițională: 7.000 m²", "Lucrări celebre: Hodler, Monet, Picasso", "Taxă de intrare; gratuit prima duminică"],
       en: ["Opened: 1910", "Architect: Marc Camoletti", "Collection size: 650,000 objects", "Exhibition area: 7,000 m²", "Famous works: Hodler, Monet, Picasso", "Admission: fee, free first Sunday"],
     },
+    image: "/poi-images/switzerland-musee-dart-et-dhistoire-landmarks-v2.webp",
   },
   {
     id: "switzerland-st-joseph-church-landmarks-v2",
@@ -704,6 +725,7 @@ export const switzerlandLandmarksV2: POI[] = [
       ro: ["Construit: 1933–1934", "Arhitect: Otto Dreyer", "Turn: 45 m", "Bănci: 400 de locuri", "Vitralii: 8 lucrări expresioniste", "Orga construită în 1965, 30 de registre"],
       en: ["Built: 1933–1934", "Architect: Otto Dreyer", "Tower height: 45 meters", "Pews: 400 seats", "Stained glass: 8 expressionist works", "Organ: built 1965, 30 stops"],
     },
+    image: "/poi-images/switzerland-st-joseph-church-landmarks-v2.webp",
   },
   {
     id: "switzerland-schloss-weissenburg-landmarks-v2",
@@ -736,6 +758,7 @@ export const switzerlandLandmarksV2: POI[] = [
       ro: ["Construit: secolul XII", "Altitudine deasupra Emme: 80 m", "Distrus: secolul XIV", "Donjon păstrat: 10 m", "Comună: Rüti bei Büren", "Canton: Bern"],
       en: ["Built: 12th century", "Elevation above Emme: 80 meters", "Destroyed: 14th century", "Keep remaining height: 10 meters", "Municipality: Rüti bei Büren", "Canton: Bern"],
     },
+    image: "/poi-images/switzerland-schloss-weissenburg-landmarks-v2.webp",
   },
   {
     id: "switzerland-stadthaus-basel-landmarks-v2",
@@ -768,5 +791,6 @@ export const switzerlandLandmarksV2: POI[] = [
       ro: ["Construit: 1504–1514", "Stil: gotic târziu", "Material: gresie roșie", "Turn: 50 m", "Fresce: secolele XVI–XVII", "Extindere: 1568–1572"],
       en: ["Built: 1504–1514", "Style: Late Gothic", "Material: red sandstone", "Tower height: 50 meters", "Frescoes: 16th–17th centuries", "Expansion: 1568–1572"],
     },
+    image: "/poi-images/switzerland-stadthaus-basel-landmarks-v2.webp",
   }
 ];

@@ -32,6 +32,7 @@ export const irelandReliefV2: POI[] = [
       ro: ["Vârful Knockmealdown are 794 m altitudine.", "Lanțul se întinde pe 25 km.", "Rocile datează din Devonian, acum aproximativ 400 de milioane de ani.", "Vârful Vee Mountain are 460 m.", "Precipitațiile medii anuale sunt de 1400 mm.", "Zona face parte din rezervația naturală Knockmealdown."],
       en: ["Knockmealdown peak is 794 m high.", "The range extends for 25 km.", "The rocks are Devonian, about 400 million years old.", "Vee Mountain's highest point is 460 m.", "Average annual rainfall is 1400 mm.", "The area is part of the Knockmealdown Nature Reserve."],
     },
+    image: "/poi-images/ireland-knockmealdown-mountains-relief-v2.webp",
   },
   {
     id: "ireland-bluestack-mountains-relief-v2",
@@ -64,6 +65,7 @@ export const irelandReliefV2: POI[] = [
       ro: ["Blue Stack Mountain are 674 m altitudine.", "Lanțul se întinde pe aproximativ 20 km.", "Vârfurile sunt formate din cuarțit și șist.", "Cel mai adânc lac de circ glaciar se află la 300 m.", "Cel mai apropiat oraș este Donegal, la 5 km nord.", "Precipitațiile medii anuale sunt de 1500 mm."],
       en: ["Blue Stack Mountain is 674 m high.", "The range extends approximately 20 km.", "Peaks are composed of quartzite and schist.", "The deepest corrie lake lies at 300 m elevation.", "The nearest town is Donegal, 5 km north.", "Average annual precipitation is 1500 mm."],
     },
+    image: "/poi-images/ireland-bluestack-mountains-relief-v2.webp",
   },
   {
     id: "ireland-slieve-bloom-relief-v2",
@@ -96,6 +98,7 @@ export const irelandReliefV2: POI[] = [
       ro: ["Baunreaghcong are 527 m altitudine.", "Traseul Slieve Bloom Way are 80 km lungime.", "Lanțul se întinde pe 20 km nord-sud.", "Pădurile acoperă aproximativ 40 km².", "Peste 30 de specii de orhidee se găsesc în zonă.", "Zona a fost declarată rezervație naturală națională în 1988."],
       en: ["Baunreaghcong is 527 m high.", "The Slieve Bloom Way is 80 km long.", "The range extends 20 km north-south.", "Forests cover about 40 square kilometers.", "Over 30 orchid species are found in the area.", "The area was designated a National Nature Reserve in 1988."],
     },
+    image: "/poi-images/ireland-slieve-bloom-relief-v2.webp",
   },
   {
     id: "ireland-nephin-mountain-relief-v2",
@@ -128,6 +131,7 @@ export const irelandReliefV2: POI[] = [
       ro: ["Altitudine maximă de 806 metri", "Cel mai înalt vârf izolat din țară", "Situat în provincia Connacht", "Structură geologică de cuarțit dur", "Vizibilitate până la Golful Clew", "Al doilea vârf ca înălțime din Mayo"],
       en: ["Elevation of 806 meters (2,644 ft)", "Highest standalone mountain in Ireland", "Located in North County Mayo", "Primary rock type is quartzite", "Second highest peak in Connacht", "Overlooks the waters of Lough Conn"],
     },
+    image: "/poi-images/ireland-nephin-mountain-relief-v2.webp",
   },
   {
     id: "ireland-slieve-gamph-relief-v2",
@@ -160,6 +164,7 @@ export const irelandReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf: Truskmore (647 m).", "Lungime: cca 30 km.", "Geologie: calcar, gresie.", "Morminte megalitice neolitice.", "Legenda lui Diarmuid și Gráinne.", "Traseu de drumeție: Leitrim Way (25 km)."],
       en: ["Highest peak: Truskmore (647 m).", "Length: about 30 km.", "Geology: limestone, sandstone.", "Neolithic megalithic tombs.", "Legend of Diarmuid and Gráinne.", "Hiking trail: Leitrim Way (25 km)."],
     },
+    image: "/poi-images/ireland-slieve-gamph-relief-v2.webp",
   },
   {
     id: "ireland-slieve-mish-relief-v2",
@@ -192,6 +197,7 @@ export const irelandReliefV2: POI[] = [
       ro: ["Muntele are 456 m altitudine.", "Este situat la 3 km sud de Cappoquin.", "Fortul de piatră datează din Epoca Fierului.", "Muntele are o suprafață de aproximativ 8 km².", "Precipitațiile medii anuale sunt de 1200 mm.", "Cel mai apropiat oraș este Dungarvan, la 15 km."],
       en: ["The mountain is 456 m high.", "It lies 3 km south of Cappoquin.", "The stone fort on the summit dates from the Iron Age.", "The mountain covers about 8 square kilometers.", "Average annual rainfall is 1200 mm.", "The nearest town is Dungarvan, 15 km away."],
     },
+    image: "/poi-images/ireland-slieve-mish-relief-v2.webp",
   },
   {
     id: "ireland-commeragh-mountains-relief-v2",
@@ -224,6 +230,7 @@ export const irelandReliefV2: POI[] = [
       ro: ["Fauscoum are 792 m altitudine.", "Lacul Coumshingaun are o adâncime de aproximativ 50 m.", "Lanțul se întinde pe 20 km lungime.", "Roca este gresie roșie veche de vârstă devoniană.", "Regiunea are peste 50 de vârfuri denumite.", "Zona a fost declarată rezervație naturală în 1987."],
       en: ["Fauscoum is 792 m high.", "Coumshingaun Lough is about 50 m deep.", "The range extends 20 km in length.", "The rock is Old Red Sandstone from the Devonian period.", "There are over 50 named peaks in the range.", "The area was designated a nature reserve in 1987."],
     },
+    image: "/poi-images/ireland-commeragh-mountains-relief-v2.webp",
   },
   {
     id: "ireland-slieve-na-mon-relief-v2",
@@ -256,6 +263,7 @@ export const irelandReliefV2: POI[] = [
       ro: ["Muntele are 721 m altitudine.", "Este situat la 5 km est de Clonmel.", "Cairnul de pe vârf are un diametru de aproximativ 10 m.", "Legenda lui Fionn mac Cumhaill este asociată cu acest munte.", "Vârful oferă o panoramă de 360 de grade.", "Precipitațiile medii anuale sunt de 1100 mm."],
       en: ["The mountain is 721 m high.", "It is located 5 km east of Clonmel.", "The summit cairn is about 10 m in diameter.", "It is associated with the legend of Fionn mac Cumhaill.", "The summit offers 360-degree views.", "Average annual rainfall is 1100 mm."],
     },
+    image: "/poi-images/ireland-slieve-na-mon-relief-v2.webp",
   },
   {
     id: "ireland-Twelve-Bens-relief-v2",
@@ -288,6 +296,7 @@ export const irelandReliefV2: POI[] = [
       ro: ["Benbaun are 729 m altitudine.", "Twelve Bens are exact douăsprezece vârfuri denumite.", "Parcul Național Connemara a fost înființat în 1980 și acoperă 30 km².", "Munții sunt formați din cuarțit cambrian.", "Cel mai lung traseu este Western Way, cu 35 km.", "Precipitațiile medii anuale sunt de 1400 mm."],
       en: ["Benbaun is 729 m high.", "The Twelve Bens consist of exactly twelve named peaks.", "Connemara National Park was established in 1980 and covers 30 km².", "The mountains are composed of Cambrian quartzite.", "The longest hiking trail is the Western Way, 35 km long.", "Average annual rainfall is 1400 mm."],
     },
+    image: "/poi-images/ireland-Twelve-Bens-relief-v2.webp",
   },
   {
     id: "ireland-slieve-callan-relief-v2",
@@ -320,6 +329,7 @@ export const irelandReliefV2: POI[] = [
       ro: ["Muntele are 412 m altitudine.", "Este situat la 5 km vest de Ennis.", "Cairnul datează din neolitic.", "Diametrul cairnului este de aproximativ 8 m.", "Cea mai apropiată așezare este Clarecastle.", "Regiunea are peste 20 de morminte megalitice."],
       en: ["The mountain is 412 m high.", "It lies 5 km west of Ennis.", "The summit cairn dates from the Neolithic.", "The cairn has a diameter of about 8 m.", "The nearest settlement is Clarecastle.", "The area contains over 20 megalithic tombs."],
     },
+    image: "/poi-images/ireland-slieve-callan-relief-v2.webp",
   },
   {
     id: "ireland-slieve-bernagh-relief-v2",
@@ -352,6 +362,7 @@ export const irelandReliefV2: POI[] = [
       ro: ["Muntele are 383 m altitudine.", "Este situat la 8 km est de Kilrush.", "Peisajul carstic conține peste 100 de peșteri.", "Precipitațiile medii anuale sunt de 1300 mm.", "Pe vârf se găsesc orhidee rare.", "Muntele face parte din Parcul Național Burren."],
       en: ["The mountain is 383 m high.", "It lies 8 km east of Kilrush.", "The karst landscape includes over 100 caves.", "Average annual rainfall is 1300 mm.", "Rare orchids can be found on the summit.", "The mountain is part of the Burren National Park."],
     },
+    image: "/poi-images/ireland-slieve-bernagh-relief-v2.webp",
   },
   {
     id: "ireland-slieve-ardagh-relief-v2",
@@ -384,6 +395,7 @@ export const irelandReliefV2: POI[] = [
       ro: ["Muntele are 402 m altitudine.", "Este situat la 4 km sud de Ennistymon.", "Punctul trigonometric a fost construit în 1841.", "Precipitațiile medii anuale sunt de 1400 mm.", "Muntele are o suprafață de aproximativ 6 km².", "Cel mai apropiat oraș este Ennistymon, la 4 km nord."],
       en: ["The mountain is 402 m high.", "It lies 4 km south of Ennistymon.", "The trig point was built in 1841.", "Average annual rainfall is 1400 mm.", "The mountain covers about 6 square kilometers.", "The nearest town is Ennistymon, 4 km north."],
     },
+    image: "/poi-images/ireland-slieve-ardagh-relief-v2.webp",
   },
   {
     id: "ireland-mount-leinstar-relief-v2",
@@ -416,6 +428,7 @@ export const irelandReliefV2: POI[] = [
       ro: ["Altitudine de 794 de metri", "Cel mai înalt vârf din munții Blackstairs", "Turn de transmisie inaugurat în 1961", "Situat la granița dintre Carlow și Wexford"],
       en: ["Elevation of 794 metres", "Highest point in the Blackstairs Mountains", "Television transmitter built in 1961", "Located on the Carlow-Wexford border"],
     },
+    image: "/poi-images/ireland-mount-leinstar-relief-v2.webp",
   },
   {
     id: "ireland-slieve-league-relief-v2",
@@ -448,6 +461,7 @@ export const irelandReliefV2: POI[] = [
       ro: ["Muntele are 601 m altitudine.", "Este situat la 3 km sud-vest de Teelin.", "Faleza are o cădere verticală de 600 m.", "Roca este cuarțit cambrian.", "One Man's Pass are 600 m lungime.", "Zona a fost desemnată geoparc în 2014."],
       en: ["The mountain is 601 m high.", "It is located 3 km southwest of Teelin.", "The cliff drops 600 m vertically.", "The rock is Cambrian quartzite.", "One Man's Pass is 600 m long.", "The area was designated a Geopark in 2014."],
     },
+    image: "/poi-images/ireland-slieve-league-relief-v2.webp",
   },
   {
     id: "ireland-mount-brandon-relief-v2",
@@ -480,6 +494,7 @@ export const irelandReliefV2: POI[] = [
       ro: ["Altitudine de 952 de metri", "Cel mai înalt punct din peninsula Dingle", "Numit după Sfântul Brendan Navigatorul", "Destinație istorică de pelerinaj"],
       en: ["Standing at 952 metres high", "Highest peak on the Dingle Peninsula", "Named after Saint Brendan the Navigator", "Significant religious pilgrimage site"],
     },
+    image: "/poi-images/ireland-mount-brandon-relief-v2.webp",
   },
   {
     id: "ireland-mangerton-mountain-relief-v2",
@@ -512,6 +527,7 @@ export const irelandReliefV2: POI[] = [
       ro: ["Altitudine: 838 m", "Judet: Kerry, Irlanda", "Inclus în Parcul Național Killarney", "Lac de crater: Devil's Punchbowl, adâncime ~30 m", "Rocă: gresie devoniană", "Vizitatori anual: peste 50.000"],
       en: ["Elevation: 838 m", "Location: County Kerry, Ireland", "Part of Killarney National Park", "Corrie lake: Devil's Punchbowl, depth ~30 m", "Rock type: Old Red Sandstone", "Annual visitors: over 50,000"],
     },
+    image: "/poi-images/ireland-mangerton-mountain-relief-v2.webp",
   },
   {
     id: "ireland-mount-eric-relief-v2",
@@ -544,6 +560,7 @@ export const irelandReliefV2: POI[] = [
       ro: ["Muntele are 452 m altitudine.", "Este situat la 10 km sud de Castlecomer.", "Ruina turnului are 5 m înălțime.", "Muntele are o suprafață de aproximativ 4 km².", "Precipitațiile medii anuale sunt de 1000 mm.", "Cel mai apropiat oraș este Castlecomer, la 10 km nord."],
       en: ["The mountain is 452 m high.", "It lies 10 km south of Castlecomer.", "The summit tower ruin is 5 m tall.", "The mountain covers about 4 square kilometers.", "Average annual rainfall is 1000 mm.", "The nearest town is Castlecomer, 10 km north."],
     },
+    image: "/poi-images/ireland-mount-eric-relief-v2.webp",
   },
   {
     id: "ireland-slieve-more-relief-v2",
@@ -576,6 +593,7 @@ export const irelandReliefV2: POI[] = [
       ro: ["Muntele are 672 m altitudine.", "Este situat în nord-vestul insulei Achill.", "Situl arheologic cuprinde peste 100 de colibe de piatră.", "Geoparcul Achill Head a fost desemnat în 2013.", "Precipitațiile medii anuale sunt de 1600 mm.", "Muntele are o suprafață de aproximativ 10 km²."],
       en: ["The mountain is 672 m high.", "It is located in northwest Achill Island.", "The archaeological site includes over 100 stone huts.", "Achill Head Geopark was designated in 2013.", "Average annual rainfall is 1600 mm.", "The mountain area is about 10 square kilometers."],
     },
+    image: "/poi-images/ireland-slieve-more-relief-v2.webp",
   },
   {
     id: "ireland-killary-valley-relief-v2",
@@ -608,6 +626,7 @@ export const irelandReliefV2: POI[] = [
       ro: ["Lungime: 16 km de la coastă până la capătul interior", "Lățime maximă: 2 km între maluri", "Adâncime maximă: 45 m sub nivelul mării", "Formare: ultima glaciațiune, acum aproximativ 10.000 de ani", "Amplitudinea mareelor: până la 4 m în fiord", "Populația zonei: circa 300 de locuitori în Leenane"],
       en: ["Length: 16 km from the coast to the inner end", "Maximum width: 2 km between shores", "Maximum depth: 45 m below sea level", "Formation: during the last Ice Age, about 10,000 years ago", "Tidal range: up to 4 m in the fjord", "Population of Leenane (nearby village): approximately 300"],
     },
+    image: "/poi-images/ireland-killary-valley-relief-v2.webp",
   },
   {
     id: "ireland-slieve-mis-relief-v2",
@@ -640,6 +659,7 @@ export const irelandReliefV2: POI[] = [
       ro: ["Altitudine maximă: Baurtregaun (851 m)", "Suprafață: aproximativ 50 km²", "Rocă: gresie devoniană, veche de circa 400 de milioane de ani", "Număr de pietre Ogham: peste 20 în zonă", "Lungimea traseului Kerry Way prin Slieve Mis: circa 15 km din cei 215 km", "Densitatea populației: sub 10 locuitori pe km²"],
       en: ["Highest point: Baurtregaun (851 m above sea level)", "Area: approximately 50 km²", "Rock type: Devonian sandstone, around 400 million years old", "Number of Ogham stones: over 20 in the area", "Length of Kerry Way through Slieve Mis: about 15 km of the 215 km trail", "Population density: under 10 inhabitants per km²"],
     },
+    image: "/poi-images/ireland-slieve-mis-relief-v2.webp",
   },
   {
     id: "ireland-mount-Gabriel-relief-v2",
@@ -672,6 +692,7 @@ export const irelandReliefV2: POI[] = [
       ro: ["Altitudine: 407 m deasupra nivelului mării", "Rocă: gresie roșie din perioada Devoniană", "Număr de mine de cupru preistorice: peste 10 câmpuri miniere", "Vechimea minelor: până la 4.000 de ani (Epoca Bronzului)", "Suprafața zonei: aproximativ 8 km²", "Distanța până la coastă: circa 5 km sud de vârf"],
       en: ["Height: 407 m above sea level", "Rock type: red Devonian sandstone", "Number of prehistoric copper mines: over 10 mine fields", "Age of mines: up to 4,000 years old (Bronze Age)", "Area of the mountain: about 8 km²", "Distance to coast: approx. 5 km south of the summit"],
     },
+    image: "/poi-images/ireland-mount-Gabriel-relief-v2.webp",
   },
   {
     id: "ireland-slieve-gullion-relief-v2",
@@ -704,6 +725,7 @@ export const irelandReliefV2: POI[] = [
       ro: ["Altitudine: 573 m", "Suprafața Ring of Gullion: aproximativ 150 km²", "Vechimea vulcanului: circa 400 de milioane de ani", "Diametrul inelului de dealuri: circa 10 km", "Număr de morminte din Epoca Bronzului pe vârf: 3", "Populația satului Forkhill: circa 800 de locuitori"],
       en: ["Height: 573 m above sea level", "Area of Ring of Gullion: approximately 150 km²", "Age of the volcano: about 400 million years", "Diameter of the ring dyke: about 10 km", "Number of Bronze Age tombs on summit: 3", "Population of Forkhill village: around 800"],
     },
+    image: "/poi-images/ireland-slieve-gullion-relief-v2.webp",
   },
   {
     id: "ireland-knocnaskagh-relief-v2",
@@ -736,6 +758,7 @@ export const irelandReliefV2: POI[] = [
       ro: ["Altitudine: 312 m", "Rocă: gresie devoniană", "Distanța până la orașul Bantry: circa 10 km nord-vest", "Suprafața Munților Shehy: circa 350 km²", "Precipitații medii: peste 1.500 mm pe an", "Număr de case în rază de 2 km: mai puțin de 10"],
       en: ["Height: 312 m above sea level", "Rock type: Devonian sandstone", "Distance to Bantry town: about 10 km northwest", "Area of Shehy Mountains: approximately 350 km²", "Average annual rainfall: over 1,500 mm", "Number of houses within 2 km radius: fewer than 10"],
     },
+    image: "/poi-images/ireland-knocnaskagh-relief-v2.webp",
   },
   {
     id: "ireland-slieve-baughta-relief-v2",
@@ -768,6 +791,7 @@ export const irelandReliefV2: POI[] = [
       ro: ["Altitudine maximă: 400 m", "Lungimea șirului de dealuri: circa 20 km", "Suprafața mlaștinii: peste 100 km²", "Număr de morminte megalitice: peste 30", "Lungimea traseului Slieve Aughty Way: 60 km", "Precipitații anuale: circa 1.200 mm"],
       en: ["Highest elevation: 400 m", "Length of the ridge: about 20 km", "Area of blanket bog: over 100 km²", "Number of megalithic tombs: more than 30", "Length of the Slieve Aughty Way trail: 60 km", "Annual rainfall: approximately 1,200 mm"],
     },
+    image: "/poi-images/ireland-slieve-baughta-relief-v2.webp",
   },
   {
     id: "ireland-mount-collier-relief-v2",
@@ -800,6 +824,7 @@ export const irelandReliefV2: POI[] = [
       ro: ["Altitudine: 498 m", "Distanța până la Lacul Gougane Barra: circa 2 km nord", "Înființarea Parcului Național Gougane Barra: 1938", "Suprafața parcului: aproximativ 140 ha", "Rocă: gresie devoniană (cca 400 milioane ani)", "Temperatura medie în ianuarie: 5 °C"],
       en: ["Height: 498 m above sea level", "Distance to Gougane Barra Lake: about 2 km north", "Establishment of Gougane Barra National Park: 1938", "Area of the national park: about 140 hectares", "Rock type: Devonian sandstone (ca. 400 million years old)", "Average January temperature: 5 °C"],
     },
+    image: "/poi-images/ireland-mount-collier-relief-v2.webp",
   },
   {
     id: "ireland-slieve-croob-relief-v2",
@@ -832,6 +857,7 @@ export const irelandReliefV2: POI[] = [
       ro: ["Altitudine: 534 m", "Rocă: granit (din orogeneza caledoniană)", "Dimensiunile cairnului de pe vârf: diametru de circa 10 m, înălțime 2 m", "Distanța până la Slieve Donard: circa 10 km sud-est", "Lungimea traseului Slieve Croob Trail: circa 6 km", "Număr de specii de păsări pe munte: peste 50"],
       en: ["Height: 534 m above sea level", "Rock type: granite (from the Caledonian orogeny)", "Size of summit cairn: diameter about 10 m, height 2 m", "Distance to Slieve Donard: about 10 km southeast", "Length of Slieve Croob Trail: about 6 km", "Number of bird species recorded: over 50"],
     },
+    image: "/poi-images/ireland-slieve-croob-relief-v2.webp",
   },
   {
     id: "ireland-cahas-mountains-relief-v2",
@@ -864,6 +890,7 @@ export const irelandReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf: Hungry Hill (685 m)", "Lungimea lanțului muntos: circa 40 km", "Număr de lacuri glaciare: peste 20", "Perioada de exploatare a minei de cupru Allihies: 1812–1884", "Suprafața ariei de conservare specială: circa 200 km²", "Vizitatori anuali în Parcul Gleninchaquin din apropiere: circa 30.000"],
       en: ["Highest peak: Hungry Hill (685 m)", "Length of the range: about 40 km", "Number of glacial lakes: over 20", "Operating period of Allihies copper mine: 1812 to 1884", "Area of Special Area of Conservation: about 200 km²", "Annual visitors to Gleninchaquin Park: approximately 30,000"],
     },
+    image: "/poi-images/ireland-cahas-mountains-relief-v2.webp",
   },
   {
     id: "ireland-shehy-mountains-relief-v2",
@@ -896,6 +923,7 @@ export const irelandReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf: Knockboy (706 m)", "Suprafața mlaștinilor: circa 400 km²", "Număr de cercuri de piatră: peste 15 într-o rază de 20 km", "Lungimea râului Lee de la Munții Shehy până la vărsare: circa 90 km", "Altitudinea medie a lanțului: circa 400 m", "Populația totală din zona Shehy: circa 5.000"],
       en: ["Highest peak: Knockboy (706 m)", "Area of blanket bog: approximately 400 km²", "Number of stone circles: over 15 within 20 km radius", "Length of River Lee from Shehy Mountains to estuary: about 90 km", "Average elevation of the range: about 400 m", "Total population in the Shehy area: about 5,000"],
     },
+    image: "/poi-images/ireland-shehy-mountains-relief-v2.webp",
   },
   {
     id: "ireland-dartry-mountains-relief-v2",
@@ -928,6 +956,7 @@ export const irelandReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf: Truskmore (673 m)", "Judete: Leitrim și Sligo", "Rocă: calcar carbonifer", "Formațiune carstică: Valea Glenade", "Bazin hidrografic: Shannon și Erne", "Vizitatori anual: cca 100.000"],
       en: ["Highest peak: Truskmore (673 m)", "Counties: Leitrim and Sligo", "Rock type: Carboniferous limestone", "Notable karst feature: Glenade Valley", "Watershed: Shannon and Erne rivers", "Annual visitors: approx. 100,000"],
     },
+    image: "/poi-images/ireland-dartry-mountains-relief-v2.webp",
   },
   {
     id: "ireland-slieve-felim-relief-v2",
@@ -960,6 +989,7 @@ export const irelandReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf: Mauherslieve (479 m)", "Suprafața mlaștinii: circa 150 km²", "Număr de forturi inelare: peste 30 într-o rază de 20 km", "Lungimea râului Mulcair: circa 40 km", "Formațiune geologică: gresie siluriană (circa 430 milioane ani)", "Densitatea populației: circa 15 locuitori pe km²"],
       en: ["Highest peak: Mauherslieve (479 m)", "Area of bog: about 150 km²", "Number of ringforts: over 30 within 20 km radius", "Length of River Mulcair: about 40 km", "Geological formation: Silurian sandstone (about 430 million years old)", "Population density: about 15 inhabitants per km²"],
     },
+    image: "/poi-images/ireland-slieve-felim-relief-v2.webp",
   },
   {
     id: "ireland-mount-luggala-relief-v2",
@@ -992,6 +1022,7 @@ export const irelandReliefV2: POI[] = [
       ro: ["Altitudine: 595 m", "Suprafața Lough Tay: circa 0,2 km²", "Adâncimea Lough Tay: circa 30 m", "Lungimea Wicklow Way prin Luggala: circa 5 km", "Înființarea Parcului Național Munții Wicklow: 1991", "Vizitatori anuali la Glendalough: peste 1 milion"],
       en: ["Height: 595 m above sea level", "Area of Lough Tay: about 0.2 km²", "Depth of Lough Tay: about 30 m", "Length of Wicklow Way through Luggala: about 5 km", "Establishment of Wicklow Mountains National Park: 1991", "Annual visitors to Glendalough: over 1 million"],
     },
+    image: "/poi-images/ireland-mount-luggala-relief-v2.webp",
   },
   {
     id: "ireland-slieve-guilty-relief-v2",
@@ -1024,6 +1055,7 @@ export const irelandReliefV2: POI[] = [
       ro: ["Altitudine: 527 m", "Rocă: granit", "Distanța până la Slieve Donard: circa 3 km nord-vest", "Lungimea Zidului Mourne de-a lungul Slieve Guilty: circa 2 km", "Înălțimea medie a Zidului Mourne: 1,5 m", "Vizitatori anuali în zona Mourne: circa 500.000"],
       en: ["Height: 527 m above sea level", "Rock type: granite", "Distance to Slieve Donard: about 3 km northwest", "Length of Mourne Wall along Slieve Guilty: about 2 km", "Average height of Mourne Wall: 1.5 m", "Annual visitors to the Mourne area: about 500,000"],
     },
+    image: "/poi-images/ireland-slieve-guilty-relief-v2.webp",
   },
   {
     id: "ireland-ox-mountains-relief-v2",
@@ -1056,6 +1088,7 @@ export const irelandReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf: Knockalongy (544 m)", "Lungimea lanțului: circa 60 km", "Suprafața mlaștinii: circa 250 km²", "Lungimea râului Moy: circa 60 km (inclusiv izvoarele)", "Utilizarea istorică a pădurilor: construcții navale în secolele 18-19", "Precipitații medii anuale: circa 1.200 mm"],
       en: ["Highest peak: Knockalongy (544 m)", "Length of the range: about 60 km", "Area of bog: about 250 km²", "Length of River Moy: about 60 km (including headwaters)", "Historical use of forests: shipbuilding in the 18th-19th centuries", "Average annual rainfall: about 1,200 mm"],
     },
+    image: "/poi-images/ireland-ox-mountains-relief-v2.webp",
   },
   {
     id: "ireland-mullagh-mountain-relief-v2",
@@ -1088,6 +1121,7 @@ export const irelandReliefV2: POI[] = [
       ro: ["Altitudine: 390 m", "Suprafața Parcului Național Burren: circa 1.500 ha", "Număr de specii de plante în regiunea Burren: peste 1.000", "Înălțimea pavajelor calcaroase (clints): până la 1 m", "Număr de situri arheologice în parc: peste 70", "Precipitații anuale: circa 1.000 mm"],
       en: ["Height: 390 m above sea level", "Area of Burren National Park: about 1,500 hectares", "Number of plant species in the Burren: over 1,000", "Height of limestone clints: up to 1 m", "Number of archaeological sites in the park: over 70", "Annual rainfall: about 1,000 mm"],
     },
+    image: "/poi-images/ireland-mullagh-mountain-relief-v2.webp",
   },
   {
     id: "ireland-slieve-league-peak-relief-v2",
@@ -1120,6 +1154,7 @@ export const irelandReliefV2: POI[] = [
       ro: ["Altitudine de 601 metri", "Printre cele mai înalte faleze marine din Europa", "Situat în comitatul Donegal", "Vestigii ale unui schit creștin timpuriu"],
       en: ["Reaches a height of 601 metres", "Some of the highest sea cliffs in Europe", "Located in County Donegal", "Contains ruins of ancient beehive huts"],
     },
+    image: "/poi-images/ireland-slieve-league-peak-relief-v2.webp",
   },
   {
     id: "ireland-mount-galtymore-relief-v2",
@@ -1152,6 +1187,7 @@ export const irelandReliefV2: POI[] = [
       ro: ["Altitudine de 918 metri", "Cel mai înalt vârf din munții Galtee", "Cel mai înalt munte din interiorul Irlandei", "Granița dintre Limerick și Tipperary"],
       en: ["Elevation of 918 metres", "Highest peak in the Galtee Mountains", "Highest inland mountain in Ireland", "Border point of Limerick and Tipperary"],
     },
+    image: "/poi-images/ireland-mount-galtymore-relief-v2.webp",
   },
   {
     id: "ireland-slieve-bloom-plateau-relief-v2",
@@ -1184,5 +1220,6 @@ export const irelandReliefV2: POI[] = [
       ro: ["Cel mai înalt punct: Arderin (527 m)", "Suprafața platoului: circa 400 km²", "Vechimea rocilor: circa 420 milioane de ani", "Lungimea traseului Slieve Bloom Way: 70 km", "Număr de zone de exploatare a turbei: peste 20 active", "Altitudinea medie a platoului: circa 400 m"],
       en: ["Highest point: Arderin (527 m)", "Area of plateau: about 400 km²", "Age of rocks: about 420 million years", "Length of Slieve Bloom Way: 70 km", "Number of active peat extraction sites: over 20", "Average elevation of the plateau: about 400 m"],
     },
+    image: "/poi-images/ireland-slieve-bloom-plateau-relief-v2.webp",
   }
 ];

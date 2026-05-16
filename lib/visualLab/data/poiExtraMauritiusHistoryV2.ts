@@ -31,6 +31,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Statut UNESCO din 2006", "Construit în anul 1849", "Localizare în capitala Port Louis", "Peste 450.000 de lucrători înregistrați", "Documentează sfârșitul sclaviei", "Fostul nume: Coolie Ghat"],
       en: ["UNESCO status since 2006", "Established in the year 1849", "Location in the capital Port Louis", "Over 450,000 laborers registered", "Documents the end of slavery", "Former name: Coolie Ghat"],
     },
+    image: "/poi-images/mauritius-aapravasi-ghat-history-v2.webp",
   },
   {
     id: "mauritius-fort-adelaide-history-v2",
@@ -62,6 +63,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Construit între 1834 și 1840", "Înălțime de aproximativ 73 de metri", "Numit după Regina Adelaide", "Construcție din piatră de bazalt", "Stil arhitectural maur", "Vedere panoramică asupra portului"],
       en: ["Built between 1834 and 1840", "Altitude of about 73 meters", "Named after Queen Adelaide", "Basalt stone construction", "Moorish architectural style", "Panoramic view of the harbor"],
     },
+    image: "/poi-images/mauritius-fort-adelaide-history-v2.webp",
   },
   {
     id: "mauritius-blue-penny-museum-history-v2",
@@ -93,6 +95,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Deschis în anul 2001", "Locație pe Caudan Waterfront", "Deține timbrele Penny din 1847", "Colecție de hărți maritime vechi", "Statuia lui Paul și Virginie", "Achiziția timbrelor în 1993"],
       en: ["Opened in the year 2001", "Located at Caudan Waterfront", "Possesses the 1847 Penny stamps", "Collection of old maritime maps", "Statue of Paul and Virginie", "Acquisition of stamps in 1993"],
     },
+    image: "/poi-images/mauritius-blue-penny-museum-history-v2.webp",
   },
   {
     id: "mauritius-postal-museum-history-v2",
@@ -124,6 +127,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Clădire datând din 1868", "Localizare în portul Port Louis", "Zidărie din piatră de bazalt", "Monument istoric național", "Expoziție despre telegrafie", "Colecție de plicuri istorice"],
       en: ["Building dates from 1868", "Location at Port Louis harbor", "Basalt stone masonry", "National historical monument", "Telegraphy exhibition", "Collection of historical envelopes"],
     },
+    image: "/poi-images/mauritius-postal-museum-history-v2.webp",
   },
   {
     id: "mauritius-place-d-armes-history-v2",
@@ -155,6 +159,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Centrul orașului Port Louis", "Design colonial francez", "Alee de palmiere regale", "Statuia lui Mahé de La Bourdonnais", "Legătură cu Casa Guvernului", "Amenajată în secolul al XVIII-lea"],
       en: ["Center of Port Louis", "French colonial design", "Alley of Royal Palms", "Statue of Mahé de La Bourdonnais", "Links port to Government House", "Laid out in the 18th century"],
     },
+    image: "/poi-images/mauritius-place-d-armes-history-v2.webp",
   },
   {
     id: "mauritius-port-louis-theatre-history-v2",
@@ -186,6 +191,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Teatrul a fost inaugurat oficial pe 11 iunie 1822.", "Este cel mai vechi teatru din regiunea Oceanului Indian.", "Proiectul a fost realizat de arhitectul Pierre Poujade.", "Picturile de pe tavan au fost create de artistul Vandermeersch.", "Sala are o capacitate de aproximativ 600 de locuri.", "A fost construit după modelul teatrelor franceze clasice din secolul al XVIII-lea."],
       en: ["The theatre was officially inaugurated on June 11, 1822.", "It is the oldest theatre in the Indian Ocean region.", "The design was created by architect Pierre Poujade.", "The ceiling murals were crafted by the artist Vandermeersch.", "The venue has a seating capacity for approximately 600 spectators.", "It was built following the model of 18th-century French classical theatres."],
     },
+    image: "/poi-images/mauritius-port-louis-theatre-history-v2.webp",
   },
   {
     id: "mauritius-jummah-mosque-history-v2",
@@ -217,6 +223,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Primele terenuri pentru construcție au fost achiziționate în 1852.", "Structura actuală a fost finalizată în mare parte între 1853 și 1895.", "Materialele de construcție au fost parțial importate direct din India.", "Moscheea adăpostește mormântul lui Jamal Shah.", "Poarta principală se remarcă prin uși masive din lemn sculptate manual.", "Moscheea Jummah este principala moschee a comunității musulmane din Mauritius."],
       en: ["The first plots of land for the construction were acquired in 1852.", "The current structure was largely completed between 1853 and 1895.", "Some of the building materials were imported directly from India.", "The mosque houses the tomb of Jamal Shah.", "The main entrance features massive, hand-carved wooden doors.", "The Jummah Mosque is the central place of worship for the Muslim community in Mauritius."],
     },
+    image: "/poi-images/mauritius-jummah-mosque-history-v2.webp",
   },
   {
     id: "mauritius-st-louis-cathedral-history-v2",
@@ -248,6 +255,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Biserica originală a fost fondată în anul 1735.", "Clădirea actuală a fost construită între anii 1930 și 1933.", "Ciclonii au distrus edificiile bisericii în anii 1760 și 1818.", "În catedrală se află o statuie a Sfântului Ludovic, patronul orașului.", "Fațada este caracterizată de două turnuri simetrice.", "Clădirea a fost sfințită în 1933 de către episcopul James Leen."],
       en: ["The original church was founded in the year 1735.", "The current building was constructed between 1930 and 1933.", "Cyclones destroyed the church buildings in 1760 and 1818.", "The cathedral contains a statue of Saint Louis, the patron saint of the city.", "The facade is defined by two symmetrical towers.", "The building was consecrated in 1933 by Bishop James Leen."],
     },
+    image: "/poi-images/mauritius-st-louis-cathedral-history-v2.webp",
   },
   {
     id: "mauritius-frederick-hendrik-museum-history-v2",
@@ -279,6 +287,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Muzeul a fost deschis oficial pe 11 mai 1999.", "Olandezii au debarcat aici pentru prima dată în anul 1598.", "Printre exponate se numără ceramică, monede și oase ale păsării dodo, acum dispărută.", "Pe acest sit se află rămășițele Fortului Frederik Hendrik.", "Ruinele bisericii franceze construite în 1753 sunt de asemenea conservate.", "Zona a servit drept centru administrativ al insulei până în 1735."],
       en: ["The museum was officially opened on May 11, 1999.", "The Dutch first landed here in the year 1598.", "Exhibits include ceramics, coins, and bones of the extinct dodo bird.", "The site contains the remains of Fort Frederik Hendrik.", "Ruins of a French church built in 1753 are also preserved on the grounds.", "The area was the administrative center of the island until 1735."],
     },
+    image: "/poi-images/mauritius-frederick-hendrik-museum-history-v2.webp",
   },
   {
     id: "mauritius-vieux-grand-port-ruins-history-v2",
@@ -310,6 +319,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Olandezii au construit prima lor fortăreață aici în 1638.", "Bătălia navală de la Grand Port a avut loc în apropiere, în august 1810.", "Situl găzduiește ruinele unei închisori pentru sclavi.", "Localitatea a fost abandonată ca capitală în favoarea orașului Port Louis în 1735.", "Fundațiile datează parțial din secolele al XVII-lea și al XVIII-lea.", "Vieux Grand Port este inclus pe lista indicativă a Patrimoniului Mondial UNESCO."],
       en: ["The Dutch built their first fort here in 1638.", "The Battle of Grand Port took place nearby in August 1810.", "The site contains the ruins of a slave prison.", "The village was abandoned as the capital in favor of Port Louis in 1735.", "The foundations partially date back to the 17th and 18th centuries.", "Vieux Grand Port is listed on the UNESCO World Heritage tentative list."],
     },
+    image: "/poi-images/mauritius-vieux-grand-port-ruins-history-v2.webp",
   },
   {
     id: "mauritius-chateau-labourdonnais-history-v2",
@@ -341,6 +351,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Conacul a fost construit în 1856 de către Christian Wiehe.", "Restaurarea domeniului a durat din 2006 până în 2010.", "Pe proprietate funcționează o distilerie de rom proprie.", "Livezile cuprind peste 50 de varietăți diferite de mango.", "Pot fi văzute țestoase gigantice într-un spațiu amenajat.", "Domeniul este și astăzi în proprietatea descendenților familiei Wiehe."],
       en: ["The house was built in 1856 by Christian Wiehe.", "The restoration of the estate lasted from 2006 to 2010.", "A private rum distillery is located on the grounds.", "The orchards include over 50 different varieties of mango.", "Giant tortoises can be seen in an enclosure on the site.", "The estate remains in the ownership of the descendants of the Wiehe family today."],
     },
+    image: "/poi-images/mauritius-chateau-labourdonnais-history-v2.webp",
   },
   {
     id: "mauritius-eureka-house-history-v2",
@@ -372,6 +383,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Casa a fost construită inițial pentru un nobil britanic.", "Dispune de un număr total de 109 uși și ferestre.", "Domeniul este situat pe malul râului Moka.", "A fost deschisă publicului ca muzeu în anul 1986.", "Acoperișurile sunt realizate din zinc pentru protecție împotriva ciclonilor.", "Camerele sunt amenajate tematic, după muzică, pictură și literatură."],
       en: ["The house was originally built for a British nobleman.", "It features a total of 109 doors and windows.", "The estate is located on the banks of the Moka River.", "It was opened to the public as a museum in 1986.", "The roofs are made of zinc to provide protection against cyclones.", "The rooms are themed according to music, painting, and literature."],
     },
+    image: "/poi-images/mauritius-eureka-house-history-v2.webp",
   },
   {
     id: "mauritius-balaclava-ruins-history-v2",
@@ -403,6 +415,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Situl a fost fondat în secolul al XVIII-lea, sub dominație franceză.", "Un depozit de pulbere a explodat acolo în anul 1874.", "Zidurile sunt construite predominant din bazalt negru local.", "Ruinele se află în apropierea gurii de vărsare a râului Citron.", "Guvernatorul Mahé de Labourdonnais a folosit terenul ca reședință de țară.", "Părți din structurile vechii mori sunt încă recognoscibile."],
       en: ["The site was founded in the 18th century under French rule.", "A powder magazine exploded there in the year 1874.", "The walls are predominantly constructed from local black basalt.", "The ruins are located near the mouth of the Citron River.", "Governor Mahé de Labourdonnais used the area as a country estate.", "Parts of the old mill structures are still identifiable today."],
     },
+    image: "/poi-images/mauritius-balaclava-ruins-history-v2.webp",
   },
   {
     id: "mauritius-cap-malheureux-church-history-v2",
@@ -434,6 +447,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Biserica a fost finalizată în anul 1938.", "Numele Cap Malheureux amintește de invazia britanică din 1810.", "Vasul de botez este o scoică gigantică reală.", "Biserica este dedicată Fecioarei Maria.", "De pe terenul bisericii există o vedere directă către insula Coin de Mire.", "Structura interioară din lemn este realizată în stil tipic creol."],
       en: ["The church was completed in the year 1938.", "The name Cap Malheureux refers to the British invasion of 1810.", "The baptismal font is made from a real giant clamshell.", "The church is dedicated to the Virgin Mary.", "The grounds offer a direct view of the island of Coin de Mire.", "The wooden interior structure is built in a typical Creole style."],
     },
+    image: "/poi-images/mauritius-cap-malheureux-church-history-v2.webp",
   },
   {
     id: "mauritius-ile-de-la-passe-history-v2",
@@ -465,6 +479,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Primele fortificații au fost ridicate de francezi în jurul anului 1750.", "Insula a fost punctul de plecare pentru bătălia navală de la Grand Port în 1810.", "Britanicii au menținut ocupația insulei după victorie până în 1945.", "Acolo se mai află tunuri originale din secolul al XIX-lea.", "Insula are o lungime de aproximativ 250 de metri și o lățime de 170 de metri.", "Astăzi este protejată ca patrimoniu cultural național."],
       en: ["The first fortifications were built by the French around 1750.", "The island was the focal point for the Battle of Grand Port in 1810.", "The British occupied the island after their victory until 1945.", "Original 19th-century cannons can still be found on the site.", "The island is only about 250 meters long and 170 meters wide.", "It is currently protected as a national heritage site."],
     },
+    image: "/poi-images/mauritius-ile-de-la-passe-history-v2.webp",
   },
   {
     id: "mauritius-flat-island-quarantine-history-v2",
@@ -496,6 +511,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Stația a fost pusă în funcțiune în anul 1856.", "A servit în principal pentru carantina imigranților din India.", "Clădirile au fost construite din piatră și calcar de corali.", "Pe insulă există mai multe cimitire pentru victimele epidemiilor.", "În anii 1870, stația a fost extinsă masiv.", "Astăzi, rămășițele sunt în mare parte acoperite de vegetație."],
       en: ["The station was put into operation in 1856.", "It primarily served for the quarantine of immigrants from India.", "The buildings were constructed using stone and coral limestone.", "There are several cemeteries for victims of epidemics on the island.", "The station was significantly expanded in the 1870s.", "Today, the remains are mostly overgrown by vegetation."],
     },
+    image: "/poi-images/mauritius-flat-island-quarantine-history-v2.webp",
   },
   {
     id: "mauritius-vagrant-depot-history-v2",
@@ -527,6 +543,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Depozitul a fost deschis oficial în anul 1864.", "A fost construit din piatră de bazalt locală.", "Peste 60.000 de persoane au fost deținute aici de-a lungul timpului.", "Terenul a servit și ca centru de examinare medicală.", "A fost clasificat oficial ca monument istoric în anul 1958.", "Situl este un loc important pentru cercetarea diasporei indiene."],
       en: ["The depot was officially opened in the year 1864.", "It was constructed from local basalt stone.", "Over 60,000 individuals were detained here over time.", "The site also functioned as a medical examination center.", "It was officially designated as a historical monument in 1958.", "The site is a key location for the study of the Indian diaspora."],
     },
+    image: "/poi-images/mauritius-vagrant-depot-history-v2.webp",
   },
   {
     id: "mauritius-belle-mare-sugar-mill-history-v2",
@@ -558,6 +575,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Moara a funcționat în secolul al XIX-lea.", "Turnul a fost construit din piatră de bazalt neagră.", "Astfel de turnuri serveau drept coșuri de fum pentru mașinile cu aburi.", "Belle Mare a fost una dintre sutele de mori de zahăr de pe insulă.", "Moara a fost scoasă din funcțiune în urma centralizării industriale.", "Turnul este una dintre puținele rămășițe păstrate ale fabricii."],
       en: ["The mill was operational during the 19th century.", "The tower was constructed from black basalt stone.", "Such towers served as chimneys for the steam engines.", "Belle Mare was one of hundreds of sugar mills on the island.", "The mill was decommissioned as part of industrial centralization.", "The tower is one of the few remaining vestiges of the factory."],
     },
+    image: "/poi-images/mauritius-belle-mare-sugar-mill-history-v2.webp",
   },
   {
     id: "mauritius-saint-aubin-house-history-v2",
@@ -589,6 +607,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Casa a fost construită în anul 1819.", "Inițial a fost ridicată mai aproape de fabrică și mutată ulterior.", "Pe domeniu se află o 'Maison de la Vanille'.", "Există o distilerie de rom artizanală la fața locului.", "Clădirea este realizată aproape în întregime din lemn.", "În apropiere se află un iaz vechi cu nuferi."],
       en: ["The house was constructed in the year 1819.", "It was originally built closer to the factory and later moved.", "The estate features a 'Maison de la Vanille'.", "An artisanal rum distillery is located on-site.", "The building is constructed almost entirely from wood.", "A nearby old pond features water lilies."],
     },
+    image: "/poi-images/mauritius-saint-aubin-house-history-v2.webp",
   },
   {
     id: "mauritius-domaine-aubineaux-history-v2",
@@ -620,6 +639,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Casa a fost construită în anul 1872.", "În 1881, a fost prima casă privată de pe insulă care a avut lumină electrică.", "Mobilierul este realizat din lemn de abanos și tec prețios.", "Pe proprietate se află o grădină cu arbori de camfor endemici.", "Domeniul face parte din faimosul 'Drum al Ceaiului' din Mauritius.", "A fost reședința familiei Guimbeau până în anul 1999."],
       en: ["The house was built in the year 1872.", "In 1881, it became the first private residence on the island to have electric lighting.", "The furniture is crafted from precious ebony and teak wood.", "The grounds feature a garden with endemic camphor trees.", "The estate is part of the famous Mauritian 'Tea Route'.", "It served as the residence of the Guimbeau family until 1999."],
     },
+    image: "/poi-images/mauritius-domaine-aubineaux-history-v2.webp",
   },
   {
     id: "mauritius-cavendish-bridge-history-v2",
@@ -651,6 +671,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Anul construcției: 1859", "Locație: Ville Noire, Mahebourg", "Numit după Victor Cavendish", "Traversează râul Grand River South East", "A fost cel mai lung pod din Mauritius", "Construit din piatră de basalt"],
       en: ["Year of construction: 1859", "Location: Ville Noire, Mahebourg", "Named after Victor Cavendish", "Spans the Grand River South East", "Was once the longest bridge in Mauritius", "Built with solid basalt stone"],
     },
+    image: "/poi-images/mauritius-cavendish-bridge-history-v2.webp",
   },
   {
     id: "mauritius-malartic-tomb-history-v2",
@@ -682,6 +703,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Guvernatorul Malartic a murit în 1800", "Locație: Port Louis, zona Champ de Mars", "Formă: obelisc mare de piatră", "Înălțimea monumentului: aprox. 15 metri", "Construit în timpul dominației franceze", "Restaurat în secolele XIX și XX"],
       en: ["Governor Malartic died in 1800", "Location: Port Louis, Champ de Mars area", "Shape: large stone obelisk", "Height of the monument: approx. 15 meters", "Built during the French rule", "Restored in the 19th and 20th centuries"],
     },
+    image: "/poi-images/mauritius-malartic-tomb-history-v2.webp",
   },
   {
     id: "mauritius-marie-reine-de-la-paix-history-v2",
@@ -713,6 +735,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Anul construcției: 1940", "Locație: Port Louis", "Înălțimea statuii: 3 metri", "Număr de trepte: 82", "Vizita Papei Ioan Paul al II-lea în 1989", "Utilizat pentru liturghii în aer liber"],
       en: ["Year of construction: 1940", "Location: Port Louis", "Statue height: 3 meters", "Number of steps to the top: 82", "Visit by Pope John Paul II in 1989", "Used for open-air religious ceremonies"],
     },
+    image: "/poi-images/mauritius-marie-reine-de-la-paix-history-v2.webp",
   },
   {
     id: "mauritius-pamplemousses-cemetery-history-v2",
@@ -744,6 +767,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Locație: Satul Pamplemousses", "Situat vizavi de Grădina Botanică SSR", "Conține mormântul lui Adrien d’Épinay (1794-1839)", "Morminte istorice datând din secolul al XVIII-lea", "Include monumente ale aristocraților francezi", "Cunoscut pentru sculpturile detaliate în piatră"],
       en: ["Location: Pamplemousses village", "Situated opposite the SSR Botanical Garden", "Contains the grave of Adrien d’Épinay (1794-1839)", "Historic graves dating back to the 18th century", "Includes monuments of French aristocrats", "Known for its detailed stonework"],
     },
+    image: "/poi-images/mauritius-pamplemousses-cemetery-history-v2.webp",
   },
   {
     id: "mauritius-chateau-mon-plaisir-history-v2",
@@ -775,6 +799,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Anul construcției clădirii actuale: 1823", "Proprietar original: Mahé de La Bourdonnais", "Locație: Grădina Botanică SSR", "Stil: Neoclasic colonial britanic", "A găzduit botaniști faimoși precum Pierre Poivre", "Astăzi face parte din patrimoniul național"],
       en: ["Year of current building construction: 1823", "Original site owner: Mahé de La Bourdonnais", "Location: SSR Botanical Garden", "Style: British Colonial Neoclassical", "Housed famous botanists like Pierre Poivre", "Now part of the national heritage"],
     },
+    image: "/poi-images/mauritius-chateau-mon-plaisir-history-v2.webp",
   },
   {
     id: "mauritius-pont-praslin-history-v2",
@@ -806,6 +831,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Anul construcției: aprox. 1904", "Traversează râul Citron", "Regiune: Districtul Pamplemousses", "Material: Basalt negru local", "Utilizat pentru transportul trestiei de zahăr", "Construcție caracteristică cu arcade"],
       en: ["Year of construction: approx. 1904", "Spans the Citron River", "Region: Pamplemousses District", "Material: Local black basalt", "Used for transporting sugar cane", "Characteristic arched construction"],
     },
+    image: "/poi-images/mauritius-pont-praslin-history-v2.webp",
   },
   {
     id: "mauritius-matthew-flinders-monument-history-v2",
@@ -837,6 +863,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Inaugurat: noiembrie 2003", "Locație: Drumul de coastă Baie du Cap", "Comemorează sosirea lui Flinders în 1803", "A fost prizonier pe insulă timp de 6,5 ani", "Flinders a popularizat numele 'Australia'", "Rezultatul colaborării dintre Mauritius și Australia"],
       en: ["Inaugurated: November 2003", "Location: Baie du Cap coastal road", "Commemorates Flinders' arrival in 1803", "He was imprisoned on the island for 6.5 years", "Flinders popularized the name 'Australia'", "Collaboration between Mauritius and Australia"],
     },
+    image: "/poi-images/mauritius-matthew-flinders-monument-history-v2.webp",
   },
   {
     id: "mauritius-laventure-du-sucre-history-v2",
@@ -868,6 +895,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Deschis ca muzeu: 2002", "Fabrica fondată în 1797 (Beau Plan)", "Suprafața expoziției: 5000 m²", "Tipuri de zahăr: 15 soiuri diferite", "Găzduiește un coș de fum din secolul al XIX-lea", "Ultima producție industrială de zahăr: 1999"],
       en: ["Opened as a museum: 2002", "Factory founded: 1797 (Beau Plan)", "Exhibition area: 5000 m²", "Types of sugar: 15 different varieties", "Features a massive 19th-century chimney", "Last industrial sugar production here: 1999"],
     },
+    image: "/poi-images/mauritius-laventure-du-sucre-history-v2.webp",
   },
   {
     id: "mauritius-vieux-grand-port-cemetery-history-v2",
@@ -899,6 +927,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Locul primei debarcări din 1598", "Regiune: Vieux Grand Port", "Monument istoric din 1958", "Aproape de ruinele Fortului Frederik Hendrik", "Cele mai vechi morminte europene de pe insulă", "Rămășițe ale coloniștilor olandezi"],
       en: ["Site of the first landing in 1598", "Region: Vieux Grand Port", "Historical monument since 1958", "Near the ruins of Fort Frederik Hendrik", "Oldest European burial sites on the island", "Remains of Dutch settlers"],
     },
+    image: "/poi-images/mauritius-vieux-grand-port-cemetery-history-v2.webp",
   },
   {
     id: "mauritius-st-geran-monument-history-v2",
@@ -930,6 +959,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Data naufragiului: 17 august 1744", "Locație: Coasta Poudre d'Or", "Tip de navă: Navă comercială franceză", "Peste 150 de victime", "L-a inspirat pe Bernardin de Saint-Pierre", "Inaugurarea monumentului: 1944"],
       en: ["Date of the wreck: August 17, 1744", "Location: Poudre d'Or coast", "Ship type: French merchant vessel", "Over 150 casualties", "Inspired Bernardin de Saint-Pierre", "Monument inauguration: 1944"],
     },
+    image: "/poi-images/mauritius-st-geran-monument-history-v2.webp",
   },
   {
     id: "mauritius-bras-deau-mill-history-v2",
@@ -961,6 +991,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Perioadă: Secolul al XIX-lea", "Locație: Parcul Național Bras d'Eau", "Stare: Ruine din piatră fără acoperiș", "Parte a unei foste plantații de zahăr", "Administrat de National Parks and Conservation Service", "Include resturi ale unui canal de apă"],
       en: ["Period: 19th century", "Location: Bras d'Eau National Park", "Condition: Roofless stone ruins", "Part of a former sugar plantation", "Managed by National Parks and Conservation Service", "Includes remains of a water channel"],
     },
+    image: "/poi-images/mauritius-bras-deau-mill-history-v2.webp",
   },
   {
     id: "mauritius-mon-choisy-monument-history-v2",
@@ -992,6 +1023,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Data zborului: 10 septembrie 1933", "Piloți: Maurice Samat și Paul Lauret", "Tip de avion: Potez 43", "Punct de plecare: Saint-Denis, Réunion", "Punct de sosire: Mon Choisy (fost teren de aterizare)", "Monument ridicat la a 50-a aniversare"],
       en: ["Date of the flight: September 10, 1933", "Pilots: Maurice Samat and Paul Lauret", "Aircraft type: Potez 43", "Departure: Saint-Denis, Reunion", "Arrival: Mon Choisy (former landing ground)", "Monument erected for the 50th anniversary"],
     },
+    image: "/poi-images/mauritius-mon-choisy-monument-history-v2.webp",
   },
   {
     id: "mauritius-rose-hill-theatre-history-v2",
@@ -1023,6 +1055,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Inaugurare: 1929", "Locație: Centrul orașului Rose Hill", "Stil arhitectural: Renaștere italiană", "Capacitate: aprox. 1500 de locuri", "Găzduiește producții locale de operetă", "Monument important din epoca britanică"],
       en: ["Opening year: 1929", "Location: Rose Hill town center", "Architectural style: Italian Renaissance", "Capacity: approx. 1500 seats", "Home to local operetta productions", "Significant monument of the British era"],
     },
+    image: "/poi-images/mauritius-rose-hill-theatre-history-v2.webp",
   },
   {
     id: "mauritius-gymkhana-club-history-v2",
@@ -1054,6 +1087,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Anul fondării: 1844", "Locație: Vacoas", "Cel mai vechi teren de golf din emisfera sudică", "Fondat de ofițeri ai marinei britanice", "Număr de găuri: 18", "Loc tradițional de întâlnire pentru elită"],
       en: ["Year of foundation: 1844", "Location: Vacoas", "Oldest golf course in the Southern Hemisphere", "Founded by British naval officers", "Number of holes: 18", "Traditional social meeting point"],
     },
+    image: "/poi-images/mauritius-gymkhana-club-history-v2.webp",
   },
   {
     id: "mauritius-telfair-garden-history-v2",
@@ -1085,6 +1119,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Numit după Charles Telfair (1778–1833)", "Locație: Souillac, Districtul Savanne", "Cunoscut pentru arborii banyan uriași", "Oferă vedere spre zona de coastă 'Gris Gris'", "Amenajat în secolul al XIX-lea", "Loc popular pentru picnicuri locale"],
       en: ["Named after Charles Telfair (1778–1833)", "Location: Souillac, Savanne District", "Known for massive banyan trees", "Offers views of the 'Gris Gris' coastline", "Established in the 19th century", "Popular spot for local picnics"],
     },
+    image: "/poi-images/mauritius-telfair-garden-history-v2.webp",
   },
   {
     id: "mauritius-batelage-souillac-history-v2",
@@ -1116,6 +1151,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Construit la mijlocul secolului al XIX-lea.", "Situat la gura de vărsare a râului Savanne.", "Utilizat inițial pentru îmbarcarea zahărului.", "Restaurat extensiv la sfârșitul anilor 1900.", "Găzduiește astăzi biblioteca municipală și un restaurant.", "Prezintă ziduri tradiționale din piatră vulcanică."],
       en: ["Built in the mid-19th century.", "Located at the mouth of the Savanne River.", "Originally used for the embarkation of sugar.", "Extensively restored in the late 1900s.", "Houses the municipal library and a restaurant today.", "Features traditional volcanic stone walls."],
     },
+    image: "/poi-images/mauritius-batelage-souillac-history-v2.webp",
   },
   {
     id: "mauritius-st-francois-d-assise-church-history-v2",
@@ -1147,6 +1183,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Cea mai veche biserică din Mauritius, construită în 1756.", "Ridicată cu piatră vulcanică și mortar de var.", "Situată în districtul Pamplemousses.", "Arhitectura urmează un model colonial francez.", "Acoperișul a fost acoperit inițial cu șindrilă.", "Biserica este dedicată Sfântului Francisc de Assisi."],
       en: ["Oldest church in Mauritius, built in 1756.", "Constructed with volcanic stone and lime mortar.", "Located in the Pamplemousses district.", "Architecture follows a French colonial layout.", "The roof was originally covered with shingles.", "The church is dedicated to Saint Francis of Assisi."],
     },
+    image: "/poi-images/mauritius-st-francois-d-assise-church-history-v2.webp",
   },
   {
     id: "mauritius-monument-battle-vieux-grand-port-history-v2",
@@ -1178,6 +1215,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Comemorează bătălia din 20-27 august 1810.", "Singura victorie navală a lui Napoleon asupra britanicilor.", "Bătălia este menționată pe Arcul de Triumf din Paris.", "Escadra franceză a fost condusă de comodorul Duperré.", "A dus la distrugerea a patru fregate britanice.", "Monumentul este situat pe coasta din Mahébourg."],
       en: ["Commemorates the battle from August 20 to 27, 1810.", "Only naval victory of Napoleon over the British.", "The battle is recorded on the Arc de Triomphe in Paris.", "French squadron was led by Commodore Duperré.", "Resulted in the destruction of four British frigates.", "The monument is located on the coast of Mahébourg."],
     },
+    image: "/poi-images/mauritius-monument-battle-vieux-grand-port-history-v2.webp",
   },
   {
     id: "mauritius-mahebourg-waterfront-monument-history-v2",
@@ -1209,6 +1247,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Inaugurat la a 200-a aniversare a bătăliei din 1810.", "Situat în golful istoric Grand Port.", "Conține plăci informative despre istoria navală a regiunii.", "Parte a circuitului patrimoniului istoric din Mahébourg.", "Oferă vedere spre Île de la Passe și Île aux Fouquets.", "Amintește și de debarcarea olandeză din 1598."],
       en: ["Inaugurated for the 200th anniversary of the 1810 battle.", "Located in the historic bay of Grand Port.", "Contains plaques about the region's naval history.", "Part of the historical heritage circuit of Mahébourg.", "Overlooks Île de la Passe and Île aux Fouquets.", "Also commemorates the Dutch landing of 1598."],
     },
+    image: "/poi-images/mauritius-mahebourg-waterfront-monument-history-v2.webp",
   },
   {
     id: "mauritius-souillac-marine-cemetery-history-v2",
@@ -1240,6 +1279,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Amenajat la sfârșitul secolului al XVIII-lea pe stânci.", "Oferă vedere spre zona Gris Gris.", "Conține mormântul baronului de Vaux.", "Loc de odihnă pentru multe familii coloniale timpurii.", "Un sit protejat al patrimoniului național din Mauritius.", "Cunoscut pentru locația sa fără recif de corali protector."],
       en: ["Established in the late 18th century on the cliffs.", "Overlooks the surf of Gris Gris.", "Contains the tomb of Baron de Vaux.", "Final resting place of many early colonial families.", "A protected national heritage site of Mauritius.", "Famous for its location without a protective coral reef."],
     },
+    image: "/poi-images/mauritius-souillac-marine-cemetery-history-v2.webp",
   },
   {
     id: "mauritius-albion-lighthouse-history-v2",
@@ -1271,6 +1311,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Construit în anul 1910 în timpul perioadei britanice.", "Are 30 de metri înălțime și stă pe marginea stâncilor.", "Automatizat în a doua jumătate a secolului al XX-lea.", "Vizibil de la o distanță de aproximativ 29 de mile marine.", "Dispune de un sistem clasic de lentile Fresnel.", "Unul dintre puținele faruri încă active de pe insulă."],
       en: ["Built in 1910 during the British colonial era.", "Stands 30 meters tall on the edge of the cliffs.", "Automated in the second half of the 20th century.", "Visible from a distance of about 29 nautical miles.", "Features a classic Fresnel lens system.", "One of the few remaining active lighthouses on the island."],
     },
+    image: "/poi-images/mauritius-albion-lighthouse-history-v2.webp",
   },
   {
     id: "mauritius-cannoniers-point-battery-history-v2",
@@ -1302,6 +1343,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Fondată în jurul anului 1750 de ingineri francezi.", "Menită să prevină atacurile asupra golfului Grand Baie.", "Găzduiește tunuri din epoca napoleoniană.", "Farul a fost integrat în turn în anul 1855.", "A servit ca lazaret în secolul al XIX-lea.", "Situată în vârful nord-vestic al insulei Mauritius."],
       en: ["Founded around 1750 by French engineers.", "Designed to prevent attacks on Grand Baie.", "Houses cannons from the Napoleonic era.", "The lighthouse was integrated into the tower in 1855.", "Served as a lazaretto in the 19th century.", "Located at the northwestern tip of Mauritius."],
     },
+    image: "/poi-images/mauritius-cannoniers-point-battery-history-v2.webp",
   },
   {
     id: "mauritius-fort-victoria-history-v2",
@@ -1333,6 +1375,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Construit între 1840 și 1845 de către britanici.", "Asigură intrarea sudică în portul Port Louis.", "Ridicată din piatră de bazalt locală, de culoare închisă.", "Numită după regina britanică Victoria.", "Parte a fortificațiilor de coastă ale capitalei insulei.", "Scoaterea din uz militar a avut loc în secolul XX."],
       en: ["Built between 1840 and 1845 by the British.", "Secures the southern entrance to Port Louis harbor.", "Constructed from dark, local basalt stone.", "Named after the British monarch Queen Victoria.", "Part of the coastal fortifications of the capital city.", "Decommissioned from military use in the 20th century."],
     },
+    image: "/poi-images/mauritius-fort-victoria-history-v2.webp",
   },
   {
     id: "mauritius-st-geran-wreck-site-history-v2",
@@ -1364,6 +1407,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Nava s-a scufundat pe 17 august 1744 lângă Île d'Ambre.", "A aparținut Companiei Franceze a Indiilor Orientale.", "Doar 9 persoane au supraviețuit naufragiului.", "Sursă de inspirație pentru romanul 'Paul și Virginie'.", "Arheologii submarini au găsit monede și tunuri.", "Epava se află la o adâncime de aproximativ 15-20 metri."],
       en: ["The ship sank on August 17, 1744, off Île d'Ambre.", "Belonged to the French East India Company.", "Only 9 people survived the disaster.", "Primary inspiration for the novel 'Paul et Virginie'.", "Underwater archaeologists recovered coins and cannons.", "The wreck lies at a depth of about 15-20 meters."],
     },
+    image: "/poi-images/mauritius-st-geran-wreck-site-history-v2.webp",
   },
   {
     id: "mauritius-paul-and-virginie-monument-history-v2",
@@ -1395,6 +1439,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Ridicat în satul Poudre d'Or, pe coastă.", "Amintește de personajele literare din 1788.", "Dezvăluit la a 200-a aniversare a naufragiului.", "Situat aproape de locul catastrofei navei St. Géran.", "Reper important pentru literatura mauritiană.", "Statuia de bronz îi înfățișează pe Virginie și Paul."],
       en: ["Erected in the coastal village of Poudre d'Or.", "Commemorates the literary characters from 1788.", "Unveiled during the 200th anniversary of the shipwreck.", "Located near the site of the St. Géran disaster.", "Significant landmark for Mauritian literature.", "The bronze statue depicts Virginie and Paul."],
     },
+    image: "/poi-images/mauritius-paul-and-virginie-monument-history-v2.webp",
   },
   {
     id: "mauritius-laventure-sucre-chimney-history-v2",
@@ -1426,6 +1471,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Parte a domeniului Beau Plan fondat în 1797.", "Construit din piatră vulcanică locală, de culoare închisă.", "Fabrica de zahăr a fost închisă în 1999.", "Astăzi face parte din muzeul L'Aventure du Sucre.", "Monument industrial important în Pamplemousses.", "Simbolizează ascensiunea industriei zahărului."],
       en: ["Part of the Beau Plan estate founded in 1797.", "Constructed from dark, local volcanic stone.", "The sugar factory was closed in 1999.", "Now part of the L'Aventure du Sucre museum.", "Significant industrial monument in Pamplemousses.", "Symbolizes the rise of the sugar industry."],
     },
+    image: "/poi-images/mauritius-laventure-sucre-chimney-history-v2.webp",
   },
   {
     id: "mauritius-le-reduit-history-v2",
@@ -1457,6 +1503,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Fondat în 1748 de către Barthélémy David.", "Arhitectura este modelată după Palatul Versailles.", "Situat între râurile Profonde și Cascade.", "Înconjurat de 100 de hectare de grădini botanice.", "Sediul tuturor guvernatorilor francezi și britanici.", "Astăzi este reședința oficială a președintelui."],
       en: ["Founded in 1748 by Barthélémy David.", "Architecture is modeled after the Palace of Versailles.", "Located between the Profonde and Cascade rivers.", "Surrounded by 100 hectares of botanical gardens.", "Seat of all French and British governors.", "Currently the official residence of the President."],
     },
+    image: "/poi-images/mauritius-le-reduit-history-v2.webp",
   },
   {
     id: "mauritius-royal-college-curepipe-history-v2",
@@ -1488,6 +1535,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Clădirea de piatră a fost finalizată în 1914.", "Arhitectura seamănă cu fațada Palatului Buckingham.", "Fondată sub numele de Lycée de l'Île de France.", "Situată în centrul orașului Curepipe.", "Faimoasă pentru sistemul său de burse de stat.", "Cea mai veche școală secundară de stat din Mauritius."],
       en: ["The stone building was completed in 1914.", "Architecture resembles the facade of Buckingham Palace.", "Founded as the colonial Lycée de l'Île de France.", "Located in the center of Curepipe.", "Famous for its competitive laureate scholarship system.", "Oldest state secondary school in Mauritius."],
     },
+    image: "/poi-images/mauritius-royal-college-curepipe-history-v2.webp",
   },
   {
     id: "mauritius-rose-hill-plaza-history-v2",
@@ -1519,6 +1567,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Teatrul Plaza a fost inaugurat în 1933.", "Dispune de un auditoriu clasic în formă de potcoavă.", "Centrul vieții culturale din Rose Hill.", "Sediul consiliului municipal Beau Bassin-Rose Hill.", "Renovat extensiv la începutul secolului XXI.", "Arhitectura este inspirată de teatrele franceze."],
       en: ["The Plaza Theatre was inaugurated in 1933.", "Features a classic horseshoe-shaped auditorium.", "Center of cultural life in Rose Hill.", "Seat of the Beau Bassin-Rose Hill municipal council.", "Underwent major renovations in the early 21st century.", "Architecture is inspired by French theater design."],
     },
+    image: "/poi-images/mauritius-rose-hill-plaza-history-v2.webp",
   },
   {
     id: "mauritius-saint-antoine-mansion-history-v2",
@@ -1550,6 +1599,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Construit în anii 1830 în nordul insulei.", "Fosta casă principală a unei companii de zahăr importante.", "Dispune de mobilier autentic din epoca colonială.", "Proprietate de lungă durată a familiei de Mariveles.", "Prezintă arhitectură tipică mauritiană cu verandă.", "Utilizat astăzi ca pensiune boutique."],
       en: ["Built in the 1830s in the north of the island.", "Former main house of a significant sugar estate.", "Features authentic furniture from the colonial era.", "Long-term residence of the de Mariveles family.", "Showcases typical Mauritian architecture with a veranda.", "Currently operates as a boutique guest house."],
     },
+    image: "/poi-images/mauritius-saint-antoine-mansion-history-v2.webp",
   },
   {
     id: "mauritius-curepipe-town-hall-history-v2",
@@ -1581,6 +1631,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Inaugurată în Curepipe în 1902", "Numele original: La Malmaison", "Construită predominant din lemn", "Stil arhitectural colonial", "Monument național al statului Mauritius", "A fost inițial o reședință privată în Moka"],
       en: ["Opened in Curepipe in 1902", "Original name: La Malmaison", "Material: Predominantly timber construction", "Style: Colonial architectural style", "National monument of Mauritius", "Formerly a private residence in Moka"],
     },
+    image: "/poi-images/mauritius-curepipe-town-hall-history-v2.webp",
   },
   {
     id: "mauritius-belle-rive-ssr-birthplace-history-v2",
@@ -1612,6 +1663,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Anul nașterii lui SSR: 1900", "Locație: Districtul Flacq, Belle Rive", "Deschis ca muzeu în 1986", "Arhitectură creolă tradițională", "SSR a fost primul prim-ministru", "Conține obiecte personale"],
       en: ["Year of SSR's birth: 1900", "Location: Flacq District, Belle Rive", "Opened as a museum in 1986", "Traditional Creole architecture", "SSR was the first Prime Minister", "Contains personal belongings"],
     },
+    image: "/poi-images/mauritius-belle-rive-ssr-birthplace-history-v2.webp",
   },
   {
     id: "mauritius-mauritius-postal-museum-building-history-v2",
@@ -1643,6 +1695,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Construit între 1864 și 1870", "Inaugurat la 21 decembrie 1870", "Monument național din 1958", "Găzduiește muzeul din 2001", "Stil arhitectural victorian", "Situat pe strada Quay"],
       en: ["Built between 1864 and 1870", "Opened on December 21, 1870", "National monument since 1958", "Houses the museum since 2001", "Victorian architectural style", "Located on Quay Street"],
     },
+    image: "/poi-images/mauritius-mauritius-postal-museum-building-history-v2.webp",
   },
   {
     id: "mauritius-mahebourg-waterfront-monument-v2",
@@ -1674,6 +1727,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Anul debarcării franceze: 1721", "Locație: Pointe de la Colonie", "Oraș: Mahébourg", "Material: Piatră de bazalt locală", "Comemorează pe Dufresne d'Arsel", "Zonă portuară istorică"],
       en: ["Year of French landing: 1721", "Location: Pointe de la Colonie", "City: Mahébourg", "Material: Local basalt stone", "Commemorates Dufresne d'Arsel", "Historic harbor area"],
     },
+    image: "/poi-images/mauritius-mahebourg-waterfront-monument-v2.webp",
   },
   {
     id: "mauritius-fort-albert-history-v2",
@@ -1705,6 +1759,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Construit în secolul al XVIII-lea", "Locație: Lângă Baie du Tombeau", "Funcție: Apărare de coastă", "Material: Piatră vulcanică", "Parte a fortificațiilor franceze", "Vedere spre Oceanul Indian"],
       en: ["Built in the 18th century", "Location: Near Baie du Tombeau", "Function: Coastal defense", "Material: Volcanic stone", "Part of French fortifications", "View over the Indian Ocean"],
     },
+    image: "/poi-images/mauritius-fort-albert-history-v2.webp",
   },
   {
     id: "mauritius-grand-river-south-east-monument-v2",
@@ -1736,6 +1791,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Anul sosirii olandezilor: 1598", "Râu: Cel mai lung râu din Mauritius", "Semnificație: Prima debarcare europeană", "Locație: Coasta de est a insulei", "Piatră comemorativă istorică", "Lângă cascadele GRSE"],
       en: ["Year of Dutch arrival: 1598", "River: Longest river in Mauritius", "Significance: First European landing", "Location: East coast of the island", "Historic commemorative stone", "Near the GRSE waterfalls"],
     },
+    image: "/poi-images/mauritius-grand-river-south-east-monument-v2.webp",
   },
   {
     id: "mauritius-souillac-post-office-history-v2",
@@ -1767,6 +1823,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Construită în secolul al XIX-lea", "Locație: Souillac, Savanne", "Material: Piatră locală", "Patrimoniu cultural național", "Arhitectură: Stil colonial britanic", "Fost centru administrativ"],
       en: ["Built in the 19th century", "Location: Souillac, Savanne", "Material: Local stone", "National heritage site", "Architecture: British colonial style", "Former administrative center"],
     },
+    image: "/poi-images/mauritius-souillac-post-office-history-v2.webp",
   },
   {
     id: "mauritius-mon-plaisir-gate-history-v2",
@@ -1798,6 +1855,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Locație: Grădina Botanică Pamplemousses", "Epocă: Perioada colonială franceză", "Numită după Chateau Mon Plaisir", "Material: Piatră fin dăltuită", "Construită în secolul al XVIII-lea", "Intrarea principală pentru vizitatori"],
       en: ["Location: Pamplemousses Botanical Garden", "Era: French colonial period", "Named after Chateau Mon Plaisir", "Material: Finely hewn stone", "Built in the 18th century", "Main entrance for visitors"],
     },
+    image: "/poi-images/mauritius-mon-plaisir-gate-history-v2.webp",
   },
   {
     id: "mauritius-mahebourg-naval-monument-v2",
@@ -1829,6 +1887,7 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Anul bătăliei: 1810", "Locație: Pointe des Régates", "Singura victorie navală franceză", "Comemorează bătălia de la Grand Port", "Inscripții bilingve", "Lângă Muzeul Național de Istorie"],
       en: ["Year of battle: 1810", "Location: Pointe des Régates", "Only French naval victory", "Commemorates the Battle of Grand Port", "Bilingual inscriptions", "Near the National History Museum"],
     },
+    image: "/poi-images/mauritius-mahebourg-naval-monument-v2.webp",
   },
   {
     id: "mauritius-rose-hill-theatre-plaza-v2",
@@ -1860,5 +1919,6 @@ export const mauritiusHistoryV2: POI[] = [
       ro: ["Anul inaugurării: 1933", "Stil: Renaștere italiană", "Capacitate: Peste 1.500 locuri", "Locație: Beau Bassin-Rose Hill", "Inima culturală a insulei", "Arhitect: Max Boullé"],
       en: ["Opening year: 1933", "Style: Italian Renaissance", "Seating capacity: Over 1,500", "Location: Beau Bassin-Rose Hill", "Cultural heart of the island", "Architect: Max Boullé"],
     },
+    image: "/poi-images/mauritius-rose-hill-theatre-plaza-v2.webp",
   }
 ];

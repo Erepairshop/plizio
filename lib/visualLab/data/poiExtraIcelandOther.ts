@@ -55,6 +55,7 @@ export const poiExtraIcelandOther: POI[] = [
         "The hiking trail is about 2.5 km long with a moderate difficulty level.",
         "Visitors can often see the Litlanesfoss waterfall on the same route."
       ]
-    }
+    },
+    image: "/poi-images/landmark-hengifoss-extra.webp",
   }
 ];

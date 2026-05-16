@@ -31,6 +31,7 @@ export const grenadaLandmarksV2: POI[] = [
       ro: ["Turnul are 30 de metri înălțime.", "Nava bisericii are 22 de metri lungime.", "Orga datează din 1850.", "Capacitatea este de 280 de persoane.", "Cimitirul conține 35 de morminte.", "Costul restaurării din 2005 a fost de 450.000 de dolari."],
       en: ["The bell tower is 30 meters (98 ft) high.", "The nave is 25 meters long.", "The organ was installed in 1850.", "Capacity is 300 people.", "The cemetery has 38 graves.", "Post-Ivan restoration costs were $500,000."],
     },
+    image: "/poi-images/grenada-st-georges-anglican-church-landmarks-v2.webp",
   },
   {
     id: "grenada-christ-of-the-deep-monument-v2",
@@ -62,6 +63,7 @@ export const grenadaLandmarksV2: POI[] = [
       ro: ["Statuia a fost instalată în 1961.", "Înălțimea este de 3 metri.", "Adâncimea este de 15 metri.", "Greutatea este de 2,2 tone.", "Este o replică a statuii din Italia.", "Atrage 12.000 de scafandri pe an."],
       en: ["The statue was installed in 1961.", "It stands 3 meters (9.8 ft) tall.", "It is located at a depth of 15 meters (49 ft).", "Weight is approximately 2 tons.", "It is a replica of the Italian Christ of the Abyss.", "Over 10,000 divers visit annually."],
     },
+    image: "/poi-images/grenada-christ-of-the-deep-monument-v2.webp",
   },
   {
     id: "grenada-st-andrews-presbyterian-church-landmarks-v2",
@@ -93,6 +95,7 @@ export const grenadaLandmarksV2: POI[] = [
       ro: ["Biserica a fost construită în 1833.", "Stilul este neoclasic.", "Orga datează din 1835.", "Lungimea este de 22 de metri.", "Fațada are 4 coloane dorice.", "Congregația inițială a avut 120 de membri."],
       en: ["The church was built in 1833.", "Architectural style is Neoclassical.", "The organ was installed in 1835.", "Church length is 20 meters.", "The facade has four Doric columns.", "Initial congregation size was 150."],
     },
+    image: "/poi-images/grenada-st-andrews-presbyterian-church-landmarks-v2.webp",
   },
   {
     id: "grenada-marryshow-house-landmarks-v2",
@@ -124,6 +127,7 @@ export const grenadaLandmarksV2: POI[] = [
       ro: ["Casa a fost construită în 1850.", "A găzduit parlamentul între 1950 și 1974.", "Clădirea are două etaje.", "A fost restaurată în 1990.", "Marryshow s-a născut în 1887.", "Suprafața este de 280 de metri pătrați."],
       en: ["The building was built in 1850.", "It housed parliament from 1950 to 1974.", "It has two stories.", "Restoration took place in 1990.", "Marryshow was born in 1887.", "The building area is 300 square meters."],
     },
+    image: "/poi-images/grenada-marryshow-house-landmarks-v2.webp",
   },
   {
     id: "grenada-public-library-carenage-landmarks-v2",
@@ -155,6 +159,7 @@ export const grenadaLandmarksV2: POI[] = [
       ro: ["Biblioteca a fost fondată în 1948.", "Colecția numără 45.000 de volume.", "Clădirea datează din 1860.", "Sala de lectură are 45 de locuri.", "Atrage 180 de vizitatori pe zi.", "Include o secțiune digitală."],
       en: ["The library was founded in 1948.", "It holds 50,000 books.", "The building was built in 1860.", "The reading room seats 50 people.", "Daily visitors average 200.", "It offers digital archives and online catalog."],
     },
+    image: "/poi-images/grenada-public-library-carenage-landmarks-v2.webp",
   },
   {
     id: "grenada-york-house-ruins-landmarks-v2",
@@ -186,6 +191,7 @@ export const grenadaLandmarksV2: POI[] = [
       ro: ["Clădirea a fost construită în 1760.", "A ars în 1890.", "Ruinele se întind pe 0,9 hectare.", "Zidurile au o înălțime de 3 metri.", "A găzduit 250 de soldați.", "Săpături arheologice au avut loc în 1985."],
       en: ["The building was built in 1760.", "It burned down in 1890.", "The ruins cover 1 hectare.", "Walls reach up to 3 meters high.", "It housed 200 soldiers.", "Archaeological digs occurred in 1990."],
     },
+    image: "/poi-images/grenada-york-house-ruins-landmarks-v2.webp",
   },
   {
     id: "grenada-market-square-st-georges-landmarks-v2",
@@ -217,5 +223,6 @@ export const grenadaLandmarksV2: POI[] = [
       ro: ["Piața a fost înființată în 1705.", "Fântâna datează din 1880.", "Suprafața este de 2.300 de metri pătrați.", "Sunt 13 clădiri istorice în jur.", "Piața zilnică are 90 de tarabe.", "Găzduiește 6 festivaluri anuale."],
       en: ["The square was established in 1705.", "The fountain was built in 1880.", "It covers 2,500 square meters.", "There are 14 historic buildings around the square.", "Daily market has 120 stalls.", "Five major annual events are held here."],
     },
+    image: "/poi-images/grenada-market-square-st-georges-landmarks-v2.webp",
   }
 ];

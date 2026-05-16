@@ -32,6 +32,7 @@ export const austriaReliefV2: POI[] = [
       ro: ["Vârful principal Hochschwab are o înălțime de 2277 de metri.", "Regiunea găzduiește o populație de aproximativ 5000 de capre negre.", "A doua conductă de apă din Viena a fost finalizată în anul 1910.", "Masivul muntos acoperă o suprafață totală de aproximativ 400 km².", "Există peste 1000 de peșteri înregistrate în masivul Hochschwab.", "Cabana Schiestlhaus de pe platou este o construcție modernă de tip casă pasivă."],
       en: ["The main peak of Hochschwab is 2277 meters above sea level.", "The region is home to a population of approximately 5000 chamois.", "The Second Vienna Mountain Spring Pipeline was completed in 1910.", "The mountain massif covers a total area of about 400 square kilometers.", "There are over 1000 registered caves within the Hochschwab massif.", "The Schiestlhaus on the plateau is a modern passive-house alpine hut."],
     },
+    image: "/poi-images/austria-hochschwab-relief-v2.webp",
   },
   {
     id: "austria-lechtaler-alpen-relief-v2",
@@ -64,6 +65,7 @@ export const austriaReliefV2: POI[] = [
       ro: ["Parseierspitze este cel mai înalt vârf al grupului, cu 3036 de metri.", "Este singurul grup muntos din Alpii Calcaroși de Nord cu un vârf de peste 3000 m.", "Traseul Adlerweg trece prin Alpii Lechtal pe parcursul mai multor etape.", "Munții se întind pe o lungime de aproximativ 60 de kilometri.", "Muttekopf este un vârf panoramic bine cunoscut situat deasupra localității Imst.", "Regiunea este cunoscută pentru versanții săi cu iarbă deosebit de abrupți."],
       en: ["Parseierspitze is the highest peak of the group at 3036 meters.", "It is the only mountain group in the Northern Limestone Alps with a 3000m peak.", "The Adlerweg long-distance trail passes through the Lechtal Alps in several stages.", "The mountain range extends over a length of approximately 60 kilometers.", "The Muttekopf is a well-known panoramic peak above the town of Imst.", "The region is known for its particularly steep grassy slopes."],
     },
+    image: "/poi-images/austria-lechtaler-alpen-relief-v2.webp",
   },
   {
     id: "austria-ennstaler-alpen-relief-v2",
@@ -96,6 +98,7 @@ export const austriaReliefV2: POI[] = [
       ro: ["Hochtor este cel mai înalt vârf din Alpii Ennstal, având 2369 de metri.", "Parcul Național Gesäuse a fost deschis oficial în anul 2002.", "Râul Enns depășește o diferență de nivel de peste 150 m în Gesäuse.", "Admont găzduiește cea mai mare bibliotecă mănăstirească din lume.", "Erzberg este cel mai mare zăcământ de siderit din lume.", "Există peste 500 de kilometri de trasee de drumeție marcate în grup."],
       en: ["The Hochtor is the highest peak of the Ennstal Alps at 2369 meters.", "The Gesäuse National Park was officially opened in 2002.", "The Enns River overcomes a drop of over 150 meters within the Gesäuse.", "Admont hosts the world's largest monastic library in the region.", "The Erzberg is the largest siderite deposit in the world.", "There are over 500 kilometers of marked hiking trails in the mountain group."],
     },
+    image: "/poi-images/austria-ennstaler-alpen-relief-v2.webp",
   },
   {
     id: "austria-totes-gebirge-relief-v2",
@@ -128,6 +131,7 @@ export const austriaReliefV2: POI[] = [
       ro: ["Großer Priel este cea mai înaltă cotă, având 2515 metri.", "Platoul acoperă o suprafață totală de 1130 km².", "Peștera Hirlatzhöhle are o lungime de peste 113 kilometri.", "Este cea mai mare zonă carstică continuă din Europa Centrală.", "Grundlsee, aflat la marginea munților, este cel mai mare lac din Stiria.", "Cabana Pühringerhütte este situată central la 1637 m altitudine."],
       en: ["The Großer Priel is the highest point at 2515 meters.", "The plateau covers a total area of 1130 square kilometers.", "The Hirlatzhöhle cave system is over 113 kilometers long.", "It is the largest contiguous karst area in Central Europe.", "Grundlsee at the edge of the mountains is the largest lake in Styria.", "The Pühringerhütte is located centrally in the range at 1637 m."],
     },
+    image: "/poi-images/austria-totes-gebirge-relief-v2.webp",
   },
   {
     id: "austria-silvretta-relief-v2",
@@ -160,6 +164,7 @@ export const austriaReliefV2: POI[] = [
       ro: ["Piz Linard este cel mai înalt vârf al grupului, având 3411 metri.", "Fluchthorn este cel mai înalt munte din Vorarlberg, cu 3399 m.", "Șoseaua Silvretta are în total 34 de curbe în ac de păr.", "Lacul de acumulare Silvretta este situat la o altitudine de 2030 m.", "Ernest Hemingway a petrecut ierni în regiunea Montafon din Silvretta.", "Există peste 70 de ghețari în grupul Silvretta."],
       en: ["Piz Linard is the highest peak of the group at 3411 meters.", "The Fluchthorn is the highest mountain in Vorarlberg at 3399 m.", "The Silvretta High Alpine Road features a total of 34 hairpins.", "The Silvretta Reservoir is located at an altitude of 2030 meters.", "Ernest Hemingway spent winters in the Montafon region of Silvretta.", "There are over 70 glaciers within the Silvretta group."],
     },
+    image: "/poi-images/austria-silvretta-relief-v2.webp",
   },
   {
     id: "austria-gailtaler-alpen-relief-v2",
@@ -192,6 +197,7 @@ export const austriaReliefV2: POI[] = [
       ro: ["Große Sandspitze este cel mai înalt vârf, având 2770 de metri.", "Lacul Weißensee este situat la 930 de metri deasupra nivelului mării.", "Drumul de înălțime Gailtal se întinde pe aproximativ 150 de kilometri.", "Dolomiții Lienz aparțin geologic de Alpii Gailtal.", "Valea Dravei separă Alpii Gailtal de Alpii Centrali.", "Există peste 100 de pășuni alpine exploatate în regiune."],
       en: ["The Große Sandspitze is the highest peak at 2770 meters.", "Lake Weissensee is situated at 930 meters above sea level.", "The Gailtal Ridge Walk extends over approximately 150 kilometers.", "The Lienz Dolomites geologically belong to the Gailtal Alps.", "The Drava Valley separates the Gailtal Alps from the Central Alps.", "There are over 100 actively managed alpine pastures in the region."],
     },
+    image: "/poi-images/austria-gailtaler-alpen-relief-v2.webp",
   },
   {
     id: "austria-niedere-tauern-relief-v2",
@@ -224,6 +230,7 @@ export const austriaReliefV2: POI[] = [
       ro: ["Hochgolling este cel mai înalt vârf din Niedere Tauern, cu 2863 de metri.", "Munții sunt împărțiți în patru grupuri regionale principale.", "Există peste 300 de lacuri montane în Tauern Schladming.", "Pasul Radstädter Tauern se află la o altitudine de 1738 de metri.", "Regiunea a fost importantă istoric pentru minerit (argint, cupru).", "Tauernhöhenweg este un traseu de drumeție de lungă distanță renumit."],
       en: ["Hochgolling is the highest peak of the Lower Tauern at 2863 meters.", "The mountain range is divided into four main regional groups.", "There are over 300 mountain lakes in the Schladming Tauern.", "The Radstadt Tauern Pass is situated at 1738 meters above sea level.", "The region was historically significant for mining (silver, copper).", "The Tauern High Trail is a well-known long-distance trail in the area."],
     },
+    image: "/poi-images/austria-niedere-tauern-relief-v2.webp",
   },
   {
     id: "austria-wechsel-relief-v2",
@@ -256,6 +263,7 @@ export const austriaReliefV2: POI[] = [
       ro: ["Hochwechsel este cel mai înalt vârf din grup, cu 1743 de metri.", "Numele 'Wechsel' se referă la cumpăna apelor dintre Dunăre și Mur.", "Pista de schi fond Wechsel-Semmering are o lungime de peste 100 km.", "Schwaigen sunt pășuni alpine tipice pentru regiunea Wechsel.", "Există un monument pentru căzuții în luptele din 1945 pe vârf.", "Masivul muntos se întinde pe o lungime de aproximativ 15 kilometri."],
       en: ["Hochwechsel is the highest peak of the group at 1743 meters.", "The name 'Wechsel' refers to the watershed between the Danube and Mur rivers.", "The Wechsel-Semmering Panorama Trail is over 100 kilometers long.", "The 'Schwaigen' are typical alpine pastures of the Wechsel region.", "There is a monument for those who fell in the 1945 battles at the summit.", "The mountain massif extends over a length of approximately 15 kilometers."],
     },
+    image: "/poi-images/austria-wechsel-relief-v2.webp",
   },
   {
     id: "austria-hochpfeiler-relief-v2",
@@ -288,6 +296,7 @@ export const austriaReliefV2: POI[] = [
       ro: ["Hochpfeiler are 3510 metri și este cel mai înalt munte din Alpii Zillertal.", "Prima ascensiune a avut loc pe 24 iulie 1865.", "Peretele nordic este o rută clasică de gheață cu o înclinație de până la 55 grade.", "Vârful se află exact pe granița dintre Tirol și Tirolul de Sud.", "Cabana Hochpfeiler de pe partea sud-tiroleză se află la 2710 metri.", "Din punct de vedere geologic, muntele aparține ferestrei Tauern din gnais central."],
       en: ["The Hochpfeiler is 3510 meters high, the tallest in the Zillertal Alps.", "The first ascent took place on July 24, 1865.", "The north face is a classic ice climb with a gradient of up to 55 degrees.", "The summit is located exactly on the border between Tyrol and South Tyrol.", "The Hochpfeiler Hut on the South Tyrolean side is situated at 2710 meters.", "Geologically, the mountain belongs to the Tauern Window made of central gneiss."],
     },
+    image: "/poi-images/austria-hochpfeiler-relief-v2.webp",
   },
   {
     id: "austria-venediger-gruppe-relief-v2",
@@ -320,6 +329,7 @@ export const austriaReliefV2: POI[] = [
       ro: ["Großvenediger este al patrulea cel mai înalt munte din Austria, având 3657 m.", "Prima ascensiune a vârfului principal a fost realizată pe 3 septembrie 1841.", "Schlatenkees reprezintă cel mai mare ghețar din Grupul Venediger.", "Masivul include aproximativ 20 de vârfuri care depășesc cota de 3000 de metri.", "Geologic, zona aparține nucleului cristalin al masivului Hohe Tauern.", "Numele muntelui provine probabil de la comercianții care călătoreau spre Veneția."],
       en: ["Großvenediger is the fourth highest mountain in Austria at 3,657 meters.", "The first successful ascent of the main peak occurred on September 3, 1841.", "Schlatenkees is the largest glacier within the Venediger Group range.", "The mountain group contains approximately 20 peaks exceeding 3,000 meters.", "Geologically, the area is part of the crystalline Tauern Window.", "The name likely refers to early traders traveling toward Venice."],
     },
+    image: "/poi-images/austria-venediger-gruppe-relief-v2.webp",
   },
   {
     id: "austria-schneeberg-relief-v2",
@@ -352,6 +362,7 @@ export const austriaReliefV2: POI[] = [
       ro: ["Klosterwappen este cel mai înalt vârf din Austria Inferioară, având 2076 m.", "Calea ferată cu cremalieră Schneebergbahn a fost deschisă în anul 1897.", "Muntele furnizează apă potabilă Vienei prin prima conductă din 1873.", "Din punct de vedere geologic, masivul este format din calcar Wetterstein.", "Biserica memorială Împărăteasa Elisabeta se află la cota 1796 m.", "În condiții de vizibilitate bună, muntele poate fi văzut clar din Viena."],
       en: ["Klosterwappen is the highest peak in Lower Austria at 2,076 meters.", "The Schneeberg rack railway was officially opened in the year 1897.", "The mountain has supplied drinking water to Vienna since 1873.", "Geologically, Schneeberg consists primarily of Wetterstein limestone.", "The Empress Elisabeth Memorial Church is located at 1,796 meters.", "On clear days, the Schneeberg is clearly visible from the city of Vienna."],
     },
+    image: "/poi-images/austria-schneeberg-relief-v2.webp",
   },
   {
     id: "austria-hochschwab-gipfel-relief-v2",
@@ -384,6 +395,7 @@ export const austriaReliefV2: POI[] = [
       ro: ["Vârful Hochschwab se află la 2277 de metri deasupra nivelului mării.", "Schiestlhaus a fost prima cabană montană de tip casă pasivă din Alpi.", "Aproximativ 60% din apa Vienei provine din regiunea Hochschwab.", "Regiunea găzduiește peste 5000 de capre negre în unul dintre cele mai mari areale.", "Cea de-a doua conductă montană de apă a Vienei a fost inaugurată în 1910.", "Hochschwab este cunoscut pentru pereții săi stâncoși cu o cădere de peste 1000 m."],
       en: ["The summit of Hochschwab stands at 2,277 meters above sea level.", "Schiestlhaus was the first passive-house mountain hut in the Alps.", "About 60 percent of Vienna's water originates from the Hochschwab area.", "The region is home to over 5,000 chamois, one of Europe's largest populations.", "The Second Vienna Mountain Spring Pipeline was opened in the year 1910.", "The Hochschwab is famous for its massive cliffs dropping over 1,000 meters."],
     },
+    image: "/poi-images/austria-hochschwab-gipfel-relief-v2.webp",
   },
   {
     id: "austria-dachstein-gipfel-relief-v2",
@@ -416,6 +428,7 @@ export const austriaReliefV2: POI[] = [
       ro: ["La 2995 m, Dachstein se află chiar sub pragul de 3000 de metri.", "Regiunea a fost numită patrimoniu mondial UNESCO în anul 1997.", "Ghețarul Hallstätter este cel mai mare ghețar din Alpii Calcaroși de Nord.", "Prima ascensiune a vârfului a avut loc încă din anul 1832.", "Telecabina peretelui sudic urcă 1000 m altitudine fără piloni de susținere.", "Pe Dachstein se află cel mai înalt pod suspendat din Austria."],
       en: ["At 2,995 meters, the Dachstein narrowly misses the 3,000-meter mark.", "The region was designated a UNESCO World Heritage site in 1997.", "The Hallstätter Glacier is the largest glacier in the Northern Limestone Alps.", "The first recorded ascent of the summit took place in the year 1832.", "The Dachstein South Face cable car ascends 1,000 meters without pillars.", "The highest suspension bridge in Austria is located on the Dachstein."],
     },
+    image: "/poi-images/austria-dachstein-gipfel-relief-v2.webp",
   },
   {
     id: "austria-wildspitze-relief-v2",
@@ -448,6 +461,7 @@ export const austriaReliefV2: POI[] = [
       ro: ["Wildspitze este cel mai înalt munte din Tirolul de Nord, având 3768 m.", "Leander Klotz a realizat prima ascensiune documentată în anul 1848.", "Vârful nordic era mai înalt în trecut, dar a scăzut din cauza topirii gheții.", "Panorama de pe vârf se întinde până la Zugspitze și masivul Ortler.", "Geologic, muntele este format în principal din gnais granitic.", "Wildspitze se află la intersecția mai multor câmpuri glaciare mari."],
       en: ["The Wildspitze is the highest mountain in North Tyrol at 3,768 meters.", "Leander Klotz achieved the first recorded ascent in the year 1848.", "The North peak was once higher but lost elevation due to ice melt.", "The view from the summit stretches as far as Zugspitze and Ortler.", "Geologically, the mountain consists primarily of granite gneiss.", "The Wildspitze sits at the junction of several major glacier fields."],
     },
+    image: "/poi-images/austria-wildspitze-relief-v2.webp",
   },
   {
     id: "austria-piz-buin-relief-v2",
@@ -480,6 +494,7 @@ export const austriaReliefV2: POI[] = [
       ro: ["La 3312 m, Piz Buin reprezintă cel mai înalt punct din Vorarlberg.", "Numele muntelui înseamnă „Vârful Boului” în limba retoromană.", "Prima ascensiune a avut loc pe data de 14 iulie 1865.", "Muntele marchează granița de stat dintre Austria și Elveția.", "Ghețarul Ochsentaler este situat pe versantul nordic al muntelui.", "Șoseaua alpină Silvretta oferă o vedere spectaculoasă asupra masivului."],
       en: ["At 3,312 meters, Piz Buin is the highest point in Vorarlberg.", "The name is Romansh for 'Ox Peak' (Ochsenspitze).", "The first recorded ascent occurred on July 14, 1865.", "The mountain marks the international border between Austria and Switzerland.", "The Ochsentaler Glacier is located on the north side of the mountain.", "The Silvretta High Alpine Road offers iconic views of the massif."],
     },
+    image: "/poi-images/austria-piz-buin-relief-v2.webp",
   },
   {
     id: "austria-hochkonig-gipfel-relief-v2",
@@ -512,6 +527,7 @@ export const austriaReliefV2: POI[] = [
       ro: ["Hochkönig este cel mai înalt munte din Alpii Berchtesgaden, la 2941 m.", "Übergossene Alm este un ghețar de platou rar situat pe vârf.", "Prima ascensiune documentată a fost realizată în 1826 de Peter Sigl.", "Cabana Matrashaus este situată chiar pe vârful muntelui.", "Regiunea a fost timp de secole un centru al mineritului de cupru.", "Vârful oferă o panoramă până la masivele Großglockner și Dachstein."],
       en: ["The Hochkönig is the highest peak in the Berchtesgaden Alps at 2,941 meters.", "The Übergossene Alm is a rare plateau glacier located at the summit.", "Peter Sigl achieved the first documented ascent in the year 1826.", "The Matrashaus mountain hut is situated directly on the summit.", "The region was a center for copper mining for many centuries.", "The summit offers panoramic views stretching to Großglockner and Dachstein."],
     },
+    image: "/poi-images/austria-hochkonig-gipfel-relief-v2.webp",
   },
   {
     id: "austria-kitzsteinhorn-relief-v2",
@@ -544,6 +560,7 @@ export const austriaReliefV2: POI[] = [
       ro: ["Kitzsteinhorn are o înălțime de 3203 metri și se află în Hohe Tauern.", "În anul 1965 a fost deschisă aici prima zonă de schi pe ghețar din Austria.", "Platforma de observare 'Top of Salzburg' se află la cota 3029 m.", "Muntele este format geologic din șisturi calcaroase strălucitoare.", "Calea ferată a ghețarului Kaprun 2 a fost prima funiculară subterană din Alpi.", "Schmiedingerkees este principalul câmp glaciaar de pe Kitzsteinhorn."],
       en: ["The Kitzsteinhorn is 3,203 meters high and located in the High Tauern.", "Austria's first glacier ski resort was opened here in the year 1965.", "The 'Top of Salzburg' viewing platform is located at 3,029 meters.", "Geologically, the mountain consists of shimmering calcareous mica schist.", "The Kaprun 2 glacier railway was the first underground funicular in the Alps.", "The Schmiedingerkees is the primary glacier field on the Kitzsteinhorn."],
     },
+    image: "/poi-images/austria-kitzsteinhorn-relief-v2.webp",
   },
   {
     id: "austria-grimming-relief-v2",
@@ -576,6 +593,7 @@ export const austriaReliefV2: POI[] = [
       ro: ["Grimming are 2351 de metri și stă izolat în valea Enns.", "Multă vreme a fost considerat cel mai înalt munte din Stiria.", "Peretele sud-estic, de 1700 m, este printre cei mai înalți din Alpii Orientali.", "Prima ascensiune cunoscută a avut loc în anul 1822.", "Din punct de vedere geologic, muntele face parte din blocul de calcar Dachstein.", "Pe vârf se află o cabină de serviciu a salvamontului austriac."],
       en: ["The Grimming stands at 2,351 meters and is isolated in the Enns Valley.", "For a long time, it was considered the highest mountain in Styria.", "The southeastern face is one of the highest in the Eastern Alps at 1,700 m.", "The first recorded ascent took place in the year 1822.", "Geologically, the mountain is part of the Dachstein limestone massif.", "A mountain rescue service hut is located directly on the summit."],
     },
+    image: "/poi-images/austria-grimming-relief-v2.webp",
   },
   {
     id: "austria-zugspitze-at-relief-v2",
@@ -608,6 +626,7 @@ export const austriaReliefV2: POI[] = [
       ro: ["Zugspitze are 2962 m și se află pe granița cu Germania.", "Telecabina tiroleză Zugspitzbahn a fost inaugurată încă din 1926.", "Josef Naus a realizat prima ascensiune confirmată în anul 1820.", "Muntele găzduiește cea mai înaltă agenție poștală din Germania.", "Din punct de vedere geologic, masivul este format din calcar Wetterstein.", "Crucea de pe vârf se află pe teritoriul german, aproape de frontieră."],
       en: ["The Zugspitze is 2,962 meters high and sits on the German border.", "The Tyrolean Zugspitzbahn cable car was opened as early as 1926.", "Josef Naus achieved the first confirmed ascent in the year 1820.", "The mountain hosts the highest post office in Germany.", "Geologically, the massif consists primarily of Wetterstein limestone.", "The summit cross is on German soil, very close to the border line."],
     },
+    image: "/poi-images/austria-zugspitze-at-relief-v2.webp",
   },
   {
     id: "austria-grosser-priel-relief-v2",
@@ -640,6 +659,7 @@ export const austriaReliefV2: POI[] = [
       ro: ["Vârful are o înălțime de 2515 m, fiind cel mai înalt din Totes Gebirge.", "Crucea roșie de pe vârf a fost renovată și reinaugurată în anul 2009.", "Diferența de nivel din localitatea Hinterstoder este de peste 1900 m.", "Prima măsurătoare topografică a muntelui a fost realizată în 1817.", "Cabana Prielschutzhaus este situată la o altitudine de 1420 m.", "Masivul este compus predominant din calcar marin de tip Dachstein."],
       en: ["Großer Priel stands at 2,515 m as the highest peak of the Totes Gebirge.", "The iconic red summit cross was replaced with a new version in 2009.", "The ascent from Hinterstoder covers a vertical gain of over 1,900 m.", "The first official survey of the mountain was conducted in 1817.", "The Prielschutzhaus mountain hut is located at an altitude of 1,420 m.", "The geology is primarily composed of ancient maritime Dachstein limestone."],
     },
+    image: "/poi-images/austria-grosser-priel-relief-v2.webp",
   },
   {
     id: "austria-hoher-goll-relief-v2",
@@ -672,6 +692,7 @@ export const austriaReliefV2: POI[] = [
       ro: ["Vârful are o altitudine de 2522 m, fiind cel mai înalt din masivul Göll.", "Prima ascensiune documentată a fost făcută de Valentin Stanič în 1800.", "Muntele marchează granița de stat dintre Austria și Germania.", "Kehlsteinhaus se află la o altitudine de 1834 m pe un vârf secundar.", "Structura geologică a masivului este formată din calcar de Dachstein.", "În condiții de vizibilitate bună, se pot vedea vârfurile Dachstein și Großglockner."],
       en: ["The summit reaches 2,522 m, making it the highest in the Göll massif.", "Valentin Stanič recorded the first documented ascent in 1800.", "The mountain marks the international border between Austria and Germany.", "The Kehlsteinhaus is situated at 1,834 m on a subsidiary ridge.", "The geological composition is predominantly Dachstein limestone.", "On clear days, both the Dachstein and Großglockner are visible from the peak."],
     },
+    image: "/poi-images/austria-hoher-goll-relief-v2.webp",
   },
   {
     id: "austria-almkogel-relief-v2",
@@ -704,6 +725,7 @@ export const austriaReliefV2: POI[] = [
       ro: ["Vârful Almkogel are o înălțime totală de 1513 m.", "Muntele este situat la granița dintre Austria Superioară și Austria Inferioară.", "Cabana Ennser Hütte a fost inaugurată oficial în anul 1894.", "Din punct de vedere geologic, aparține zonei de fliș a Alpilor.", "De pe vârf pot fi identificate peste 100 de alte vârfuri alpine.", "Timpul de mers de la cabana Ennser Hütte până la vârf este de circa 45 de minute."],
       en: ["The summit of Almkogel reaches an elevation of 1,513 m.", "It is located on the border between Upper and Lower Austria.", "The Ennser Hütte mountain hut was opened in 1894.", "Geologically, the peak is part of the Alpine flysch zone.", "Over 100 different alpine peaks can be seen from its summit.", "The hike from the Ennser Hütte to the peak takes approximately 45 minutes."],
     },
+    image: "/poi-images/austria-almkogel-relief-v2.webp",
   },
   {
     id: "austria-feuerkogel-relief-v2",
@@ -736,6 +758,7 @@ export const austriaReliefV2: POI[] = [
       ro: ["Platoul Feuerkogel este situat la o altitudine de 1592 m.", "Telecabina Feuerkogel și-a început activitatea în anul 1927.", "Muntele este considerat cel mai însorit platou din Austria Superioară.", "Din punct de vedere geologic, face parte din masivul Höllengebirge.", "Pe Alberfeldkogel poate fi văzută Crucea Europei de pe vârf.", "Diferența de nivel față de Ebensee este de aproape 1150 m."],
       en: ["The Feuerkogel plateau is located at an elevation of 1,592 m.", "The Feuerkogel cable car began operations in the year 1927.", "The mountain is known as the sunniest plateau in Upper Austria.", "Geologically, Feuerkogel is part of the Höllengebirge mountain range.", "The 'Europa Cross' stands prominently on the nearby Alberfeldkogel peak.", "The elevation gain from Ebensee is approximately 1,150 m."],
     },
+    image: "/poi-images/austria-feuerkogel-relief-v2.webp",
   },
   {
     id: "austria-traunstein-relief-v2",
@@ -768,6 +791,7 @@ export const austriaReliefV2: POI[] = [
       ro: ["Vârful Traunstein are o altitudine de 1691 m.", "Muntele este cunoscut sub numele de „Păzitorul regiunii Salzkammergut”.", "Prima cruce montată pe vârful său datează din anul 1860.", "Există trei rute marcate către vârf, toate fiind de dificultate sporită.", "Cabana Gmundner Hütte de pe platou este situată la 1666 m.", "Din punct de vedere geologic, muntele face parte din Alpii Calcaroși de Nord."],
       en: ["The summit of Traunstein reaches a height of 1,691 m.", "It is famously nicknamed the 'Guardian of the Salzkammergut'.", "The first summit cross was erected on the mountain in 1860.", "There are three marked but difficult climbing routes to the peak.", "The Gmundner Hütte on the summit plateau is at 1,666 m.", "Geologically, it is a prominent part of the Northern Limestone Alps."],
     },
+    image: "/poi-images/austria-traunstein-relief-v2.webp",
   },
   {
     id: "austria-schafberg-relief-v2",
@@ -800,6 +824,7 @@ export const austriaReliefV2: POI[] = [
       ro: ["Altitudinea maximă a vârfului Schafberg este de 1783 m.", "Calea ferată Schafbergbahn a fost pusă în funcțiune în 1893.", "De pe vârf pot fi observate 13 lacuri în condiții de vizibilitate bună.", "Hotelul de pe vârf a fost deschis pentru prima dată în anul 1862.", "Trenul cu cremalieră urcă 1190 de metri pe o distanță de 5,85 km.", "Peretele nordic are o cădere de aproape 1200 de metri spre Mondsee."],
       en: ["The summit of Schafberg reaches an elevation of 1,783 m.", "The Schafbergbahn cog railway began service in 1893.", "On a clear day, 13 different lakes can be seen from the summit.", "The Schafbergspitze Hotel was originally opened in 1862.", "The railway climbs 1,190 vertical meters over a 5.85 km track.", "The mountain's north face drops nearly 1,200 meters toward Mondsee."],
     },
+    image: "/poi-images/austria-schafberg-relief-v2.webp",
   },
   {
     id: "austria-hoher-dachtein-gletscher-relief-v2",
@@ -832,6 +857,7 @@ export const austriaReliefV2: POI[] = [
       ro: ["Vârful Hoher Dachstein are o înălțime de 2995 m.", "Ghețarul Hallstatt este cel mai mare ghețar din Alpii Calcaroși de Nord.", "Telecabina Südwandbahn urcă 1000 de metri fără a folosi niciun pilon.", "Prima ascensiune a vârfului a avut loc în anul 1832.", "Sub gheață se află Palatul de Gheață, o peșteră amenajată pentru vizitare.", "Regiunea a fost inclusă în lista UNESCO în anul 1997."],
       en: ["At 2,995 m, Hoher Dachstein is the highest peak in the region.", "The Hallstatt Glacier is the largest glacier in the Northern Limestone Alps.", "The South Face cable car ascends 1,000 meters without a single support pylon.", "The summit was first successfully reached in 1832.", "The Ice Palace is a spectacular cave system located directly under the glacier ice.", "The entire area was designated a UNESCO World Heritage site in 1997."],
     },
+    image: "/poi-images/austria-hoher-dachtein-gletscher-relief-v2.webp",
   },
   {
     id: "austria-ansberg-relief-v2",
@@ -864,6 +890,7 @@ export const austriaReliefV2: POI[] = [
       ro: ["Ameisberg atinge o înălțime maximă de 940 m.", "Turnul de belvedere de pe vârf a fost construit în anul 1904.", "Turnul are o înălțime de 24 de metri și găzduiește un restaurant.", "Din punct de vedere geologic, face parte din Masivul Bohemian.", "În zilele senine, vizibilitatea depășește 150 de kilometri.", "Muntele este cea mai înaltă cotă din districtul Rohrbach."],
       en: ["Ameisberg reaches a maximum elevation of 940 m.", "The observation tower at the summit was completed in 1904.", "The tower stands 24 meters tall and includes a small restaurant.", "Geologically, the mountain belongs to the Bohemian Massif's granite layer.", "On clear days, the visibility extends for over 150 kilometers.", "It is the highest point within the Rohrbach district."],
     },
+    image: "/poi-images/austria-ansberg-relief-v2.webp",
   },
   {
     id: "austria-planneralm-relief-v2",
@@ -896,6 +923,7 @@ export const austriaReliefV2: POI[] = [
       ro: ["Planneralm se află la o altitudine de 1600 m peste nivelul mării.", "Este cel mai înalt sat de schi din landul Stiria.", "Stațiunea utilizează exclusiv zăpadă naturală, fără zăpadă artificială.", "Distileria tradițională de jneapăn funcționează din anul 1930.", "Cel mai înalt punct accesibil cu instalațiile de cablu este la 2200 m.", "Din punct de vedere geologic, face parte din Alpii Centrali cristalini."],
       en: ["Planneralm is situated at an altitude of 1,600 m above sea level.", "It is the highest ski village in the state of Styria.", "The ski resort relies 100% on natural snow without artificial canons.", "The traditional mountain pine distillery has been active since 1930.", "The highest point reachable by ski lifts is 2,200 m.", "Geologically, the area is part of the crystalline Central Alps."],
     },
+    image: "/poi-images/austria-planneralm-relief-v2.webp",
   },
   {
     id: "austria-kaibling-relief-v2",
@@ -928,6 +956,7 @@ export const austriaReliefV2: POI[] = [
       ro: ["Vârful Hauser Kaibling se află la o altitudine de 2015 m.", "Face parte din domeniul schiabil extins Schladming 4-Berge.", "Vara, circa 800 de oi sunt folosite pentru întreținerea ecologică a pârtiilor.", "Prima instalație de transport pe cablu a fost inaugurată în 1952.", "Compoziția geologică este dominată de filitul cu cuarț.", "De pe vârf se poate vedea direct impunătorul perete sudic al Dachstein."],
       en: ["The summit of Hauser Kaibling reaches an elevation of 2,015 m.", "It is one of the four interconnected mountains of the Schladming ski area.", "Approximately 800 sheep graze the mountain in summer for slope maintenance.", "The first cable car service to the mountain was established in 1952.", "Geologically, the mountain is primarily composed of quartz phyllite.", "The peak offers an unobstructed view of the Dachstein South Face."],
     },
+    image: "/poi-images/austria-kaibling-relief-v2.webp",
   },
   {
     id: "austria-dachstein-west-relief-v2",
@@ -960,6 +989,7 @@ export const austriaReliefV2: POI[] = [
       ro: ["Zona cuprinde cele trei localități principale: Gosau, Rußbach și Annaberg.", "Geologic domină calcarul de Dachstein, vechi de peste 200 de milioane de ani.", "Domeniul schiabil oferă aproximativ 160 de kilometri de pârtii amenajate.", "Regiunea face parte din situl Patrimoniului Mondial UNESCO din 1997.", "Gosaukamm formează un decor stâncos proeminent în partea de vest.", "Istoric, regiunea a fost un centru al tăietorilor de lemne protestanți."],
       en: ["The area encompasses the three main villages: Gosau, Russbach, and Annaberg.", "Geologically, the 200-million-year-old Dachstein limestone dominates.", "The ski resort offers approximately 160 kilometers of groomed slopes.", "The region has been part of a UNESCO World Heritage site since 1997.", "The Gosaukamm range forms a striking rocky backdrop in the western part.", "Historically, the region was a center for Protestant woodcutters."],
     },
+    image: "/poi-images/austria-dachstein-west-relief-v2.webp",
   },
   {
     id: "austria-murtal-alpen-relief-v2",
@@ -992,6 +1022,7 @@ export const austriaReliefV2: POI[] = [
       ro: ["Râul Mur limitează munții la sud și la vest.", "Geologic, munții sunt formați din roci cristaline, cum ar fi gnaisul.", "Hochgolling este cel mai înalt vârf din regiune, cu 2.863 de metri.", "Mineritul istoric a modelat orașe precum Judenburg și Murau.", "Limita pădurii se află în această regiune la aproximativ 1.800 de metri.", "Numeroase lacuri montane, cum ar fi Ingeringsee, se află în Alpii Murtal."],
       en: ["The Mur River borders the mountain range to the south and west.", "Geologically, the mountains consist of crystalline rock such as gneiss.", "The Hochgolling is the highest peak in the region at 2,863 meters.", "Historical mining shaped towns like Judenburg and Murau.", "The tree line in this region is located at approximately 1,800 meters.", "Numerous mountain lakes, such as Lake Ingering, are located in the Murtal Alps."],
     },
+    image: "/poi-images/austria-murtal-alpen-relief-v2.webp",
   },
   {
     id: "austria-radstatter-tauern-relief-v2",
@@ -1024,6 +1055,7 @@ export const austriaReliefV2: POI[] = [
       ro: ["Weißeck este cel mai înalt munte din Radstädter Tauern, cu 2.711 metri.", "Pasul Radstädter Tauern se află la o altitudine de 1.738 de metri.", "Romanii au construit deja un drum fortificat peste trecătoarea Tauern.", "Stațiunea de schi Obertauern este considerată una dintre cele mai înzăpezite din Austria.", "Din punct de vedere geologic, grupul marchează tranziția către Fereastra Tauern.", "Lungau, în sud, este cunoscut pentru clima sa aspră, intra-alpină."],
       en: ["The Weißeck is the highest mountain in the Radstadt Tauern at 2,711 meters.", "The Radstadt Tauern Pass is located at an altitude of 1,738 meters.", "The Romans already built a fortified road over the Tauern Pass.", "The Obertauern ski area is considered one of the snowiest in Austria.", "Geologically, the group marks the transition to the Tauern Window.", "The Lungau region to the south is known for its harsh, inner-alpine climate."],
     },
+    image: "/poi-images/austria-radstatter-tauern-relief-v2.webp",
   },
   {
     id: "austria-schladminger-tauern-relief-v2",
@@ -1056,6 +1088,7 @@ export const austriaReliefV2: POI[] = [
       ro: ["Regiunea găzduiește peste 300 de lacuri montane, inclusiv Klafferkessel.", "Hochgolling (2.863 m) este cel mai înalt vârf din Niedere Tauern.", "Argintul a fost extras în Schladming încă din secolul al XIV-lea.", "Traseul de mare altitudine Schladminger Tauern este unul dintre cele mai cunoscute.", "Geologic, munții aparțin zonei cristaline a Alpilor Centrali.", "Planai din Schladming este o locație faimoasă pentru cursele de Cupă Mondială."],
       en: ["The region is home to over 300 mountain lakes, including the Klafferkessel.", "The Hochgolling (2,863 m) is the highest peak in the Lower Tauern.", "Silver was mined in Schladming as early as the 14th century.", "The Schladming Tauern High Trail is one of the most famous long-distance trails.", "Geologically, the mountains belong to the crystalline basement of the Central Alps.", "The Planai in Schladming is a famous venue for Alpine Ski World Cup races."],
     },
+    image: "/poi-images/austria-schladminger-tauern-relief-v2.webp",
   },
   {
     id: "austria-seckauer-tauern-relief-v2",
@@ -1088,6 +1121,7 @@ export const austriaReliefV2: POI[] = [
       ro: ["Geierhaupt este cel mai înalt munte din grup, cu 2.417 metri.", "Abația benedictină Seckau, de la poalele munților, a fost fondată în 1140.", "Geologic, masivul constă din gnais și gnais granitic.", "În regiune se găsesc populații semnificative de pin zâmbru.", "Ingeringsee este un lac montan binecunoscut din Seckauer Tauern.", "Munții reprezintă o cumpănă a apelor între râurile Mur și Enns."],
       en: ["The Geierhaupt is the highest mountain in the group at 2,417 meters.", "The Seckau Benedictine Abbey at the foot of the mountains was founded in 1140.", "Geologically, the massif consists of gneiss and granite gneiss.", "Significant stands of Swiss stone pine are found in the region.", "Lake Ingering is a well-known mountain lake within the Seckau Tauern.", "The mountain range serves as a watershed between the Mur and Enns rivers."],
     },
+    image: "/poi-images/austria-seckauer-tauern-relief-v2.webp",
   },
   {
     id: "austria-rotsel-spitze-relief-v2",
@@ -1120,6 +1154,7 @@ export const austriaReliefV2: POI[] = [
       ro: ["Rötelspitze (Rötelstein) atinge o înălțime de 2.247 de metri.", "Numele provine de la colorația roșiatică a rocii calcaroase.", "Muntele se află în zona de tranziție între Salzburg și Stiria.", "Rettensteinhütte este o bază alpină importantă pe munte.", "Geologic domină calcarele triasice cu incluziuni de oxid de fier.", "De pe vârf există o vedere directă către Hoher Dachstein."],
       en: ["The Rötelspitze (Rötelstein) reaches an elevation of 2,247 meters.", "The name is derived from the reddish coloration of the limestone rock.", "The mountain is located in the transition zone between Salzburg and Styria.", "The Rettensteinhütte is an important alpine base on the mountain.", "Geologically, Triassic limestones with iron oxide inclusions dominate.", "From the summit, there is a direct view of the Hoher Dachstein."],
     },
+    image: "/poi-images/austria-rotsel-spitze-relief-v2.webp",
   },
   {
     id: "austria-hohe-veitsch-relief-v2",
@@ -1152,6 +1187,7 @@ export const austriaReliefV2: POI[] = [
       ro: ["Hohe Veitsch este cel mai înalt punct din Alpii Mürzsteg, cu 1.981 de metri.", "Graf-Meran-Haus a fost deschisă ca și cabană încă din 1885.", "Geologic, masivul constă în principal din calcar de Wetterstein.", "O parte a drumului de pelerinaj de la Viena la Mariazell trece peste vârf.", "Platoul este cunoscut pentru fenomenele sale carstice pronunțate.", "La Brunnalm se află o stațiune de schi locală populară."],
       en: ["The Hohe Veitsch is the highest point of the Mürzsteg Alps at 1,981 meters.", "The Graf-Meran-Haus was opened as a mountain hut as early as 1885.", "Geologically, the massif consists predominantly of Wetterstein limestone.", "Part of the Vienna pilgrimage route to Mariazell passes over the summit.", "The plateau is known for its distinct karst phenomena.", "A popular local ski area is located at the Brunnalm."],
     },
+    image: "/poi-images/austria-hohe-veitsch-relief-v2.webp",
   },
   {
     id: "austria-herrenstein-relief-v2",
@@ -1184,6 +1220,7 @@ export const austriaReliefV2: POI[] = [
       ro: ["Herrenstein atinge o înălțime de aproximativ 1.644 de metri.", "Din punct de vedere geologic, aparține masivului calcaros al Alpilor Mürzsteg.", "Vârful oferă o vedere panoramică asupra văii Mürz din Stiria.", "Regiunea a fost istoric importantă pentru producția de cărbune și silvicultură.", "Urcarea necesită siguranță a pașilor pe teren stâncos.", "În pereții stâncoși ai Herrenstein-ului cuibăresc ocazional acvile de munte."],
       en: ["The Herrenstein reaches an elevation of approximately 1,644 meters.", "Geologically, it belongs to the limestone massif of the Mürzsteg Alps.", "The summit offers a panoramic view over the Styrian Mürz Valley.", "The region was historically significant for charcoal burning and forestry.", "The ascent requires sure-footedness in rocky terrain.", "Golden eagles occasionally nest in the rock faces of the Herrenstein."],
     },
+    image: "/poi-images/austria-herrenstein-relief-v2.webp",
   },
   {
     id: "austria-karmel-spitze-relief-v2",
@@ -1216,6 +1253,7 @@ export const austriaReliefV2: POI[] = [
       ro: ["Kammspitze se află la o altitudine de 2.139 de metri deasupra nivelului mării.", "Din punct de vedere geologic, muntele aparține Alpilor Ennstal.", "Urcarea dinspre Gröbming este considerată a fi deosebit de pitorească.", "Calcarul de Wetterstein formează piramida vârfului, luminoasă și proeminentă.", "De pe vârf se poate vedea peretele sud-estic proeminent al masivului Dachstein.", "Regiunea este cunoscută pentru prezența bogată a florilor alpine."],
       en: ["The Kammspitze is located at an altitude of 2,139 meters above sea level.", "Geologically, the mountain belongs to the Ennstal Alps.", "The ascent from Gröbming is considered particularly scenic.", "Wetterstein limestone forms the bright, prominent summit pyramid.", "From the summit, the striking southeast face of the Dachstein massif is visible.", "The region is known for its rich occurrence of alpine flowers."],
     },
+    image: "/poi-images/austria-karmel-spitze-relief-v2.webp",
   },
   {
     id: "austria-grosse-wildstelle-relief-v2",
@@ -1248,6 +1286,7 @@ export const austriaReliefV2: POI[] = [
       ro: ["Große Wildstelle atinge o înălțime de 2.747 de metri.", "Este cel mai înalt munte situat în întregime în Stiria.", "Geologic domină rocile metamorfice, cum ar fi filitul cu cuarț.", "Vârful oferă o vedere de 360 de grade asupra Niedere Tauern.", "Primele ascensiuni documentate au avut loc deja în secolul al XIX-lea.", "Pereții nordici ai muntelui coboară abrupt spre valea Enns."],
       en: ["The Große Wildstelle reaches an elevation of 2,747 meters.", "It is the highest mountain situated entirely within Styria.", "Geologically, metamorphic rocks such as quartz phyllite dominate.", "The summit offers a 360-degree view of the Lower Tauern.", "The first documented ascents took place as early as the 19th century.", "The mountain's north faces drop steeply towards the Enns Valley."],
     },
+    image: "/poi-images/austria-grosse-wildstelle-relief-v2.webp",
   },
   {
     id: "austria-hoher-trieber-relief-v2",
@@ -1280,5 +1319,6 @@ export const austriaReliefV2: POI[] = [
       ro: ["Altitudinea oficială a vârfului este de 2196 de metri.", "Muntele aparține grupului Rottenmanner Tauern din Stiria.", "Compoziția geologică este dominată de șisturi cristaline.", "Cabana Edelrautehütte este principalul punct de plecare pentru turiști.", "Lacul Großer Scheibelsee se află la baza versantului nordic.", "Panorama de pe vârf include munții calcaroși Gesäuse."],
       en: ["The official summit elevation is 2,196 meters.", "The peak is located in the Rottenmann Tauern range in Styria.", "The geological structure consists mainly of crystalline schist.", "The Edelrautehütte is the primary base for summit attempts.", "Großer Scheibelsee is a mountain lake located at the northern base.", "The summit offers views of the limestone Gesäuse Mountains."],
     },
+    image: "/poi-images/austria-hoher-trieber-relief-v2.webp",
   }
 ];

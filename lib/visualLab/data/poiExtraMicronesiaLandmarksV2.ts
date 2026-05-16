@@ -31,6 +31,7 @@ export const micronesiaLandmarksV2: POI[] = [
       ro: ["Construit în anul 1907.", "A aparținut misiunii capucine.", "Singura structură care a supraviețuit războiului.", "Situat în Kolonia, Pohnpei.", "Turnul este realizat din piatră și beton.", "Anterior avea o biserică atașată."],
       en: ["Constructed in the year 1907.", "Part of the Capuchin mission station.", "Only structure to survive WWII destruction.", "Located in Kolonia, Pohnpei.", "The tower is made of stone and concrete.", "It was originally attached to a church."],
     },
+    image: "/poi-images/micronesia-german-bell-tower-landmarks-v2.webp",
   },
   {
     id: "micronesia-tunnuk-catholic-church-landmarks-v2",
@@ -62,6 +63,7 @@ export const micronesiaLandmarksV2: POI[] = [
       ro: ["Situată în satul Tunnuk de pe Weno.", "Construită între 1914 și 1920.", "Construcție din beton armat.", "Are două turnuri clopotniță proeminente.", "Începută sub misiunea spaniolă.", "Centru religios important în Chuuk."],
       en: ["Located in Tunnuk village on Weno.", "Built between 1914 and 1920.", "Constructed of reinforced concrete.", "Features two prominent bell towers.", "Started under the Spanish mission.", "Important religious center in Chuuk State."],
     },
+    image: "/poi-images/micronesia-tunnuk-catholic-church-landmarks-v2.webp",
   },
   {
     id: "micronesia-xavier-high-school-landmarks-v2",
@@ -93,6 +95,7 @@ export const micronesiaLandmarksV2: POI[] = [
       ro: ["Construit ca stație radio Mabuchi.", "Pereții au peste 1 metru grosime.", "Deschis ca școală în 1952.", "Condus de misionari iezuiți.", "Prima școală secundară de patru ani din Micronezia.", "Situat pe Muntele Sapuk."],
       en: ["Built as the Mabuchi Communication Center.", "Walls are over 1 meter thick.", "Opened as a school in 1952.", "Operated by Jesuit missionaries.", "First four-year high school in Micronesia.", "Located on Mount Sapuk, Weno."],
     },
+    image: "/poi-images/micronesia-xavier-high-school-landmarks-v2.webp",
   },
   {
     id: "micronesia-kimiuo-aisek-memorial-museum-landmarks-v2",
@@ -124,6 +127,7 @@ export const micronesiaLandmarksV2: POI[] = [
       ro: ["Muzeul a fost inaugurat oficial în cursul anului 2009.", "Este situat în imediata apropiere a complexului Blue Lagoon Resort.", "Kimiuo Aisek a fost martor ocular al atacurilor americane din 1944.", "Colecția include măști de gaze japoneze și obiecte personale ale soldaților.", "Muzeul funcționează ca un centru de informare pentru scafandri.", "Este prima instituție muzeală oficială din statul Chuuk."],
       en: ["The museum was officially opened to the public in 2009.", "It is located adjacent to the Blue Lagoon Resort in Weno.", "Kimiuo Aisek witnessed the 1944 American air raids firsthand.", "The collection features Japanese gas masks and soldier belongings.", "The facility serves as a primary research hub for wreck divers.", "It is the first official museum established in Chuuk State."],
     },
+    image: "/poi-images/micronesia-kimiuo-aisek-memorial-museum-landmarks-v2.webp",
   },
   {
     id: "micronesia-yap-living-history-museum-landmarks-v2",
@@ -155,6 +159,7 @@ export const micronesiaLandmarksV2: POI[] = [
       ro: ["Muzeul este localizat chiar în centrul orașului Colonia.", "Expune discuri uriașe de piatră folosite ca monedă, numite Rai.", "Clădirile sunt construite fără cuie metalice, folosind tehnici vechi.", "Găzduiește periodic festivaluri culturale și demonstrații tradiționale.", "Instituția a fost înființată cu sprijinul guvernului statului Yap.", "Tururile ghidate explică ierarhia socială complexă a insulei."],
       en: ["The museum is situated in the heart of downtown Colonia.", "It displays massive stone money discs known locally as Rai.", "The structures are built without metal nails using ancient techniques.", "The site hosts regular cultural festivals and performances.", "The institution was established with Yap State Government support.", "Guided tours explain the complex social hierarchy of the islands."],
     },
+    image: "/poi-images/micronesia-yap-living-history-museum-landmarks-v2.webp",
   },
   {
     id: "micronesia-japanese-lighthouse-chuuk-landmarks-v2",
@@ -186,6 +191,7 @@ export const micronesiaLandmarksV2: POI[] = [
       ro: ["Construcția farului a fost finalizată în jurul anului 1935.", "Este situat pe vârful muntelui Sapuk de pe insula Tonoas.", "Structura este realizată din beton armat rezistent.", "A servit ca post de observație în timpul celui de-al Doilea Război Mondial.", "Raidurile aeriene americane au avariat grav optica și acoperișul.", "Turnul are o înălțime de aproximativ 10 metri."],
       en: ["The lighthouse was completed around the year 1935.", "It is located on the summit of Mount Sapuk on Tonoas Island.", "The construction consists of durable reinforced concrete.", "It served as an observation post during World War II.", "US air raids severely damaged the lighthouse's optics and roof.", "The tower stands approximately 10 meters tall."],
     },
+    image: "/poi-images/micronesia-japanese-lighthouse-chuuk-landmarks-v2.webp",
   },
   {
     id: "micronesia-pohnpei-state-capitol-landmarks-v2",
@@ -217,6 +223,7 @@ export const micronesiaLandmarksV2: POI[] = [
       ro: ["Capitoliul este situat în inima orașului Kolonia.", "Pohnpei este unul dintre cele patru state constitutive ale FSM.", "Clădirea se află în apropierea portului istoric.", "Aici își desfășoară ședințele Legislativul Statului Pohnpei.", "În proximitate se află monumente din perioada spaniolă.", "Complexul este accesibil publicului în timpul orelor de program."],
       en: ["The Capitol is located in the heart of Kolonia town.", "Pohnpei is one of the four constituent states of the FSM.", "The building is situated near the historic harbor area.", "It is the meeting place for the Pohnpei State Legislature.", "Several monuments from the Spanish era are located nearby.", "The complex is generally open to the public during office hours."],
     },
+    image: "/poi-images/micronesia-pohnpei-state-capitol-landmarks-v2.webp",
   },
   {
     id: "micronesia-fsm-national-capitol-landmarks-v2",
@@ -248,6 +255,7 @@ export const micronesiaLandmarksV2: POI[] = [
       ro: ["Construcția a fost finalizată oficial în cursul anului 1989.", "Palikir se află la aproximativ 8 kilometri sud-vest de Kolonia.", "Complexul este format din nouă clădiri guvernamentale separate.", "Aici se află sediul Congresului Statelor Federate ale Microneziei.", "Arhitectura a fost inspirată de structurile tradiționale din Pohnpei.", "Întregul teren este înconjurat de o pădure tropicală densă."],
       en: ["Construction was officially completed in late 1989.", "Palikir is located about 8 kilometers southwest of Kolonia.", "The complex comprises nine separate government buildings.", "It houses the Congress of the Federated States of Micronesia.", "The architecture was inspired by traditional Pohnpeian structures.", "The capitol grounds are surrounded by dense tropical rainforest."],
     },
+    image: "/poi-images/micronesia-fsm-national-capitol-landmarks-v2.webp",
   },
   {
     id: "micronesia-st-marys-catholic-church-landmarks-v2",
@@ -279,6 +287,7 @@ export const micronesiaLandmarksV2: POI[] = [
       ro: ["Biserica este situată în centrul localității Colonia.", "Clădirea se remarcă prin fațada sa de un roșu aprins.", "Misiunea a fost întemeiată în timpul perioadei coloniale germane.", "Structura actuală a fost renovată după al Doilea Război Mondial.", "Duminica se celebrează slujbe în limbile locale.", "În apropierea bisericii pot fi văzute monede tradiționale de piatră."],
       en: ["The church is located in the center of Colonia town.", "The building is notable for its vibrant red exterior walls.", "The mission was established during the German colonial period.", "The current structure was renovated after World War II.", "Sunday services are conducted in local Yapese languages.", "Traditional Yapese stone money is often seen in the vicinity."],
     },
+    image: "/poi-images/micronesia-st-marys-catholic-church-landmarks-v2.webp",
   },
   {
     id: "micronesia-japanese-communications-center-landmarks-v2",
@@ -310,6 +319,7 @@ export const micronesiaLandmarksV2: POI[] = [
       ro: ["Centrul a fost construit la începutul anilor 1940.", "Pereții din beton armat au o grosime de aproape un metru.", "Este situat în apropierea fostului cartier general japonez.", "A fost ținta unor atacuri directe în timpul Operațiunii Hailstone din 1944.", "Resturi ale cablajelor electrice sunt încă vizibile în ruine.", "Este considerată una dintre cele mai bine conservate clădiri japoneze din Chuuk."],
       en: ["The center was constructed in the early 1940s.", "The reinforced concrete walls are nearly one meter thick.", "It is located near the former Japanese military headquarters.", "The building was targeted during Operation Hailstone in 1944.", "Remnants of electrical wiring are still visible within the ruins.", "It is one of the best-preserved Japanese-era buildings in Chuuk."],
     },
+    image: "/poi-images/micronesia-japanese-communications-center-landmarks-v2.webp",
   },
   {
     id: "micronesia-balabat-stone-money-bank-landmarks-v2",
@@ -341,5 +351,6 @@ export const micronesiaLandmarksV2: POI[] = [
       ro: ["Discurile de piatră pot depăși diametrul de 3 metri.", "Valoarea unei pietre depinde de vechimea și istoria sa specifică.", "Multe pietre au fost transportate pe mare pe distanțe de sute de kilometri.", "Deși pietrele rămân pe loc, proprietarul se poate schimba formal.", "Banca Balabat este una dintre cele mai renumite de pe insula Yap.", "Utilizarea pietrelor Rai este protejată prin lege în statul Yap."],
       en: ["The stones can reach diameters of over 3 meters.", "The value of a stone depends on its size and its specific history.", "Many stones were transported hundreds of miles across the sea.", "Although the stones remain stationary, their ownership can change.", "The Balabat bank is one of the most famous sites of its kind on Yap.", "The use and protection of Rai stones are recognized by Yapese law."],
     },
+    image: "/poi-images/micronesia-balabat-stone-money-bank-landmarks-v2.webp",
   }
 ];

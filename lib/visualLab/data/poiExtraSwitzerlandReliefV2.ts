@@ -32,6 +32,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 4049 m", "Prima ascensiune: 1850, Johann Coaz", "Lungimea ghețarului Morteratsch: cca. 7 km", "Canton: Graubünden", "Cel mai apropiat oraș: St. Moritz (8 km)", "Numărul de teleferice în zonă: 3"],
       en: ["Height: 4049 m", "First ascent: 1850 by Johann Coaz", "Length of Morteratsch Glacier: approx. 7 km", "Canton: Graubünden", "Nearest town: St. Moritz (8 km away)", "Number of cable cars in area: 3"],
     },
+    image: "/poi-images/switzerland-piz-bernina-relief-v2.webp",
   },
   {
     id: "switzerland-piz-palu-relief-v2",
@@ -64,6 +65,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 3903 m", "Numărul de vârfuri: 3", "Prima ascensiune: 1866", "Lungimea ghețarilor Palü: 5 km", "Altitudinea stației superioare Diavolezza: 2973 m", "Geologie: granit și gneiss"],
       en: ["Height: 3903 m", "Number of peaks: 3", "First ascent: 1866", "Length of Palü Glaciers: 5 km", "Altitude of Diavolezza top station: 2973 m", "Rock type: granite and gneiss"],
     },
+    image: "/poi-images/switzerland-piz-palu-relief-v2.webp",
   },
   {
     id: "switzerland-dom-relief-v2",
@@ -96,6 +98,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 4545 m", "Prima ascensiune: 1858", "Geologie: gneiss și granit", "Cel mai apropiat oraș: Saas-Fee (10 km)", "Lungimea ghețarului Festi: 3 km", "Numărul de teleferice în Saas-Fee: 12"],
       en: ["Height: 4545 m", "First ascent: 1858", "Rock type: gneiss and granite", "Nearest town: Saas-Fee (10 km)", "Length of Festi Glacier: 3 km", "Number of cable cars in Saas-Fee: 12"],
     },
+    image: "/poi-images/switzerland-dom-relief-v2.webp",
   },
   {
     id: "switzerland-weisshorn-relief-v2",
@@ -128,6 +131,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 4506 m", "Prima ascensiune: 1861, John Tyndall", "Geologie: gneiss și granit", "Canton: Valais", "Lungimea rutei normale: 6 km", "Numărul de domenii schiabile din jur: 3"],
       en: ["Height: 4506 m", "First ascent: 1861 by John Tyndall", "Rock type: gneiss and granite", "Canton: Valais", "Length of normal route: 6 km", "Number of ski areas nearby: 3"],
     },
+    image: "/poi-images/switzerland-weisshorn-relief-v2.webp",
   },
   {
     id: "switzerland-finsteraarhorn-relief-v2",
@@ -160,6 +164,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 4274 m", "Prima ascensiune: 1829", "Geologie: granit și gneiss", "Canton: Berna", "Lungimea ghețarului Finsteraar: 5 km", "Parte a patrimoniului UNESCO din 2001"],
       en: ["Height: 4274 m", "First ascent: 1829", "Rock type: granite and gneiss", "Canton: Bern", "Length of Finsteraar Glacier: 5 km", "Part of UNESCO World Heritage since 2001"],
     },
+    image: "/poi-images/switzerland-finsteraarhorn-relief-v2.webp",
   },
   {
     id: "switzerland-grosse-muerren-relief-v2",
@@ -192,6 +197,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 1899 m", "Prima ascensiune: 1811", "Geologie: calcar", "Numărul de vârfuri: 2 (Grosser și Kleiner Mythen)", "Altitudinea refugiului: 1899 m", "Canton: Schwyz"],
       en: ["Height: 1899 m", "First ascent: 1811", "Rock type: limestone", "Number of peaks: 2 (Grosser and Kleiner Mythen)", "Altitude of mountain inn: 1899 m", "Canton: Schwyz"],
     },
+    image: "/poi-images/switzerland-grosse-muerren-relief-v2.webp",
   },
   {
     id: "switzerland-säntis-relief-v2",
@@ -224,6 +230,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 2502 m", "Prima ascensiune: probabil secolul XIX", "Lungimea Säntisbahn: 2,3 km", "Numărul de țări vizibile: 6", "Geologie: calcar și marnă", "Vizitatori anuali: aprox. 300.000"],
       en: ["Height: 2502 m", "First ascent: likely 19th century", "Length of Säntisbahn: 2.3 km", "Number of visible countries: 6", "Rock type: limestone and marl", "Annual visitors: approx. 300,000"],
     },
+    image: "/poi-images/switzerland-säntis-relief-v2.webp",
   },
   {
     id: "switzerland-rigi-relief-v2",
@@ -256,6 +263,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 1798 m", "Prima cale ferată cu cremalieră: 1871", "Geologie: nagelfluh", "Numărul de companii feroviare: 2 (Vitznau-Rigi-Bahn, Arth-Rigi-Bahn)", "Lungimea rețelei de trasee: peste 120 km", "Platforma de observație Rigi Kulm: 1798 m"],
       en: ["Height: 1798 m", "First cogwheel railway: 1871", "Rock type: nagelfluh", "Number of railway companies: 2 (Vitznau-Rigi-Bahn, Arth-Rigi-Bahn)", "Length of hiking trail network: over 120 km", "Rigi Kulm viewing platform: 1798 m"],
     },
+    image: "/poi-images/switzerland-rigi-relief-v2.webp",
   },
   {
     id: "switzerland-niesen-relief-v2",
@@ -288,6 +296,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 2362 m", "Anul construirii funicularului Niesen: 1910", "Lungimea funicularului: 3,5 km", "Numărul anual de alergători la Niesenlauf: peste 500", "Geologie: calcar și gresie", "Canton: Berna"],
       en: ["Height: 2362 m", "Year of Niesen Funicular construction: 1910", "Length of funicular: 3.5 km", "Annual participants in Niesenlauf: over 500", "Rock type: limestone and sandstone", "Canton: Bern"],
     },
+    image: "/poi-images/switzerland-niesen-relief-v2.webp",
   },
   {
     id: "switzerland-dent-blanche-relief-v2",
@@ -320,6 +329,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 4357 m", "Prima ascensiune: 1862", "Geologie: gneiss și granit", "Canton: Valais", "Numărul de rute: peste 30", "Cel mai apropiat oraș: Zermatt (12 km)"],
       en: ["Height: 4357 m", "First ascent: 1862", "Rock type: gneiss and granite", "Canton: Valais", "Number of climbing routes: over 30", "Nearest town: Zermatt (12 km)"],
     },
+    image: "/poi-images/switzerland-dent-blanche-relief-v2.webp",
   },
   {
     id: "switzerland-piz-kesch-relief-v2",
@@ -352,6 +362,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 3418 m", "Prima ascensiune: 1846", "Geologie: dolomită și granit", "Lungimea ghețarului Vadret da Kesch: 2 km", "Altitudinea cabanei Kesch: 2625 m", "Canton: Graubünden"],
       en: ["Height: 3418 m", "First ascent: 1846", "Rock type: dolomite and granite", "Length of Vadret da Kesch glacier: 2 km", "Kesch Hut altitude: 2625 m", "Canton: Graubünden"],
     },
+    image: "/poi-images/switzerland-piz-kesch-relief-v2.webp",
   },
   {
     id: "switzerland-grand-combin-relief-v2",
@@ -384,6 +395,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 4314 m", "Prima ascensiune: 1859", "Lungimea ghețarului Corbassière: 10 km", "Numărul de vârfuri din masiv: 5", "Geologie: gneiss și granit", "Canton: Valais"],
       en: ["Height: 4314 m", "First ascent: 1859", "Length of Corbassière Glacier: 10 km", "Number of peaks in the massif: 5", "Rock type: gneiss and granite", "Canton: Valais"],
     },
+    image: "/poi-images/switzerland-grand-combin-relief-v2.webp",
   },
   {
     id: "switzerland-piz-julier-relief-v2",
@@ -416,6 +428,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 3380 m", "Prima ascensiune: 1856", "Geologie: dolomită și calcar", "Altitudinea pasului Julier: 2284 m", "Canton: Graubünden", "Lungimea drumului pasului Julier: 15 km"],
       en: ["Height: 3380 m", "First ascent: 1856", "Rock type: dolomite and limestone", "Altitude of Julier Pass: 2284 m", "Canton: Graubünden", "Length of Julier Pass road: 15 km"],
     },
+    image: "/poi-images/switzerland-piz-julier-relief-v2.webp",
   },
   {
     id: "switzerland-breithorn-relief-v2",
@@ -448,6 +461,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 4164 m", "Prima ascensiune: 1813, Henriette d'Angeville", "Lungimea ghețarului Breithorn: 8 km", "Altitudinea stației Klein Matterhorn: 3820 m", "Geologie: granit și gneiss", "Canton: Valais"],
       en: ["Height: 4164 m", "First ascent: 1813 by Henriette d'Angeville", "Length of Breithorn Glacier: 8 km", "Altitude of Klein Matterhorn station: 3820 m", "Rock type: granite and gneiss", "Canton: Valais"],
     },
+    image: "/poi-images/switzerland-breithorn-relief-v2.webp",
   },
   {
     id: "switzerland-piz-d-err-relief-v2",
@@ -480,6 +494,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 3374 m", "Prima ascensiune: 1864", "Geologie: dolomită și calcar", "Canton: Graubünden", "Cel mai apropiat sat: Silvaplana (10 km)", "Numărul de rute de cățărare: 15"],
       en: ["Height: 3374 m", "First ascent: 1864", "Rock type: dolomite and limestone", "Canton: Graubünden", "Nearest town: Silvaplana (10 km)", "Number of climbing routes: 15"],
     },
+    image: "/poi-images/switzerland-piz-d-err-relief-v2.webp",
   },
   {
     id: "switzerland-schilthorn-relief-v2",
@@ -512,6 +527,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 2970 m", "Anul construirii restaurantului Piz Gloria: 1969", "Lungimea telecabinei Schilthorn: 4,2 km", "Numărul de locuri în restaurant: 200", "Altitudinea Mürren: 1650 m", "Canton: Berna"],
       en: ["Height: 2970 m", "Year of construction Piz Gloria revolving restaurant: 1969", "Length of Schilthorn cable car: 4.2 km", "Number of seats in the restaurant: 200", "Altitude of Mürren: 1650 m", "Canton: Bern"],
     },
+    image: "/poi-images/switzerland-schilthorn-relief-v2.webp",
   },
   {
     id: "switzerland-piz-oliva-relief-v2",
@@ -544,6 +560,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 3289 m", "Prima ascensiune: secolul XIX", "Geologie: granit și gneiss", "Canton: Graubünden", "Cel mai apropiat sat: Splügen (8 km)", "Numărul de lacuri montane din apropiere: 5"],
       en: ["Height: 3289 m", "First ascent: 19th century", "Rock type: granite and gneiss", "Canton: Graubünden", "Nearest town: Splügen (8 km)", "Number of mountain lakes in the area: 5"],
     },
+    image: "/poi-images/switzerland-piz-oliva-relief-v2.webp",
   },
   {
     id: "switzerland-bluemlisalp-relief-v2",
@@ -576,6 +593,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 3661 m", "Prima ascensiune: 1860", "Lungimea ghețarului Blüemlisalp: 4 km", "Numărul de vârfuri din masiv: 4", "Geologie: calcar", "Canton: Berna"],
       en: ["Height: 3661 m", "First ascent: 1860", "Length of Blüemlisalp Glacier: 4 km", "Number of peaks in the massif: 4", "Rock type: limestone", "Canton: Bern"],
     },
+    image: "/poi-images/switzerland-bluemlisalp-relief-v2.webp",
   },
   {
     id: "switzerland-piz-d-artgas-relief-v2",
@@ -608,6 +626,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 3197 m", "Prima ascensiune: 1875", "Geologie: dolomită și calcar", "Canton: Graubünden", "Cel mai apropiat oraș: St. Moritz (15 km)", "Numărul de refugii montane: 2"],
       en: ["Height: 3197 m", "First ascent: 1875", "Rock type: dolomite and limestone", "Canton: Graubünden", "Nearest town: St. Moritz (15 km)", "Number of mountain huts: 2"],
     },
+    image: "/poi-images/switzerland-piz-d-artgas-relief-v2.webp",
   },
   {
     id: "switzerland-piz-morteratsch-relief-v2",
@@ -640,6 +659,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 3751 m", "Prima ascensiune: 1858", "Suprafață ghețar: 16 km²", "Retragere ghețar: 2 km din 1850", "Compoziție: granit, gnais", "Precipitații anuale: peste 1500 mm"],
       en: ["Elevation: 3751 m", "Third highest in Bernina Range", "First winter ascent: 1867", "Glacier area: 16 km²", "Wind speed summit: >100 km/h", "Part of Swiss National Park"],
     },
+    image: "/poi-images/switzerland-piz-morteratsch-relief-v2.webp",
   },
   {
     id: "switzerland-piz-val-gronda-relief-v2",
@@ -672,6 +692,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 2812 m", "Compoziție: dolomit, calcar", "Faună: capră neagră, marmotă", "Floră: peste 200 specii alpine", "Climă: alpină, ierni grele", "Nume: retoromană 'vale mare'"],
       en: ["Elevation: 2812 m", "Composition: dolomite, limestone", "Location: south of Morteratsch Glacier", "Recorded ascents: few per year", "Botanical species: >200", "Marine origin: Permian period"],
     },
+    image: "/poi-images/switzerland-piz-val-gronda-relief-v2.webp",
   },
   {
     id: "switzerland-piz-platta-relief-v2",
@@ -704,6 +725,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 3384 m", "Prima ascensiune: 1865", "Geologie: ofiolite, sedimentare", "Lacuri: Silvaplana, glaciale", "Flora: pini, zâmbri", "Minereu: fier, cupru"],
       en: ["Elevation: 3384 m", "First ascent: 1865", "Geology: Platta Nappe, oceanic crust", "Mineral deposits: copper, iron", "Summit shape: plateau-like", "Ski tour: popular in spring"],
     },
+    image: "/poi-images/switzerland-piz-platta-relief-v2.webp",
   },
   {
     id: "switzerland-piz-d-albris-relief-v2",
@@ -736,6 +758,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 3165 m", "Prima ascensiune: 1868", "Compoziție: granit", "Nume: retoromană 'alb'", "Zonă schi: Diavolezza", "Parte a Parcului Elvețian"],
       en: ["Elevation: 3165 m", "First ascent: 1868", "Rock type: granite", "Nearby: Diavolezza cable car", "Name meaning: 'white' in Romansh", "Views: Piz Bernina"],
     },
+    image: "/poi-images/switzerland-piz-d-albris-relief-v2.webp",
   },
   {
     id: "switzerland-piz-d-es-relief-v2",
@@ -768,6 +791,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 3497 m", "Ghețar: Es, 2 km", "Prima ascensiune: 1865", "Compoziție: granit", "Nume: retoromană 'gheață'", "Cercetări glaciologice"],
       en: ["Elevation: 3497 m", "First ascent: 1865", "Glacier: Es Glacier", "Rock: granite", "Meaning: 'ice' in Romansh", "Biancograt ridge visible"],
     },
+    image: "/poi-images/switzerland-piz-d-es-relief-v2.webp",
   },
   {
     id: "switzerland-piz-val-roze-relief-v2",
@@ -800,6 +824,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 3937 m", "Locul patru în Bernina", "Prima ascensiune: 1863", "Ghețar: Roseg, 8 km²", "Compoziție: granit", "Nume: retoromană 'trandafir'"],
       en: ["Elevation: 3937 m", "Rank: 4th highest in Bernina", "First ascent: 1863", "Glacier area: 8 km²", "Rock: granite", "Meaning: possibly 'pink'"],
     },
+    image: "/poi-images/switzerland-piz-val-roze-relief-v2.webp",
   },
   {
     id: "switzerland-piz-d-la-margna-relief-v2",
@@ -832,6 +857,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 3158 m", "Prima ascensiune: 1875", "Nume: retoromană 'graniță'", "Compoziție: granit", "Faună: capră neagră, marmotă", "Observare păsări"],
       en: ["Elevation: 3158 m", "First ascent: 1875", "Name meaning: 'border' in Romansh", "Location: above Sils", "Views: lakes Silvaplana and Sils", "Part of Corvatsch area"],
     },
+    image: "/poi-images/switzerland-piz-d-la-margna-relief-v2.webp",
   },
   {
     id: "switzerland-piz-d-argient-relief-v2",
@@ -864,6 +890,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 3845 m", "Nume: latină 'argint'", "Prima ascensiune: 1877", "Compoziție: granit", "Dificultate: alpinism tehnic", "Faună: vultur bărbos"],
       en: ["Elevation: 3845 m", "First ascent: 1877", "Meaning: 'silver' in Latin", "Shape: sharp pyramid", "Difficulty: mixed climbing", "North face: icy"],
     },
+    image: "/poi-images/switzerland-piz-d-argient-relief-v2.webp",
   },
   {
     id: "switzerland-piz-d-la-drosa-relief-v2",
@@ -896,6 +923,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 3250 m", "Nume: retoromană 'sturz'", "Granita: aproape de Italia", "Fauna: cerb, vultur", "UNESCO: Val Müstair", "Compoziție: dolomit"],
       en: ["Elevation: 3250 m", "Name meaning: 'thrush' in Romansh", "Location: Livigno Alps", "Wildlife: red deer, golden eagle", "Nearby UNESCO site: Val Müstair", "Rock: dolomite"],
     },
+    image: "/poi-images/switzerland-piz-d-la-drosa-relief-v2.webp",
   },
   {
     id: "switzerland-piz-d-la-furca-relief-v2",
@@ -928,6 +956,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 3078 m", "Nume: retoromană 'furcă'", "Parcul Național Elvețian", "Prima ascensiune: 1869", "Formă: bifurcată", "Flora: edelweiss"],
       en: ["Elevation: 3078 m", "First ascent: 1869", "Name: 'fork' in Romansh", "National Park: Swiss", "Summit shape: double peak", "Views: Ortler Alps"],
     },
+    image: "/poi-images/switzerland-piz-d-la-furca-relief-v2.webp",
   },
   {
     id: "switzerland-piz-d-la-tavola-relief-v2",
@@ -960,6 +989,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 3185 m", "Nume: retoromană 'masă'", "Formă: platou", "Compoziție: dolomit", "Faună: marmotă", "Traseu: puțin frecventat"],
       en: ["Elevation: 3185 m", "Name: 'table' in Romansh", "Summit shape: flat plateau", "Rock: dolomite", "Wildlife: marmots", "Remote location"],
     },
+    image: "/poi-images/switzerland-piz-d-la-tavola-relief-v2.webp",
   },
   {
     id: "switzerland-piz-salamura-relief-v2",
@@ -992,6 +1022,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 3270 m", "Nume: 'perete de sare'", "Compoziție: dolomit, calcar", "Carst: peșteri", "Rezervație Biosferă Val Müstair", "Faună: capră neagră, vultur"],
       en: ["Elevation: 3270 m", "Name meaning: 'salt wall'", "Rock: dolomite, limestone", "Karst features: caves", "Biosphere: Val Müstair", "Route: south face easiest"],
     },
+    image: "/poi-images/switzerland-piz-salamura-relief-v2.webp",
   },
   {
     id: "switzerland-piz-terri-relief-v2",
@@ -1024,6 +1055,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 3149 m", "Nume: retoromană 'pământ'", "Platou: Greina", "Cumpănă de ape: Rin/Po", "Protecție: mlastin înalt", "Flora: mușchi, licheni rari"],
       en: ["Elevation: 3149 m", "Highest of Greina Plateau", "Meaning: 'earth'", "Watershed: Rhine and Po", "Protected raised bog", "Roman pass history"],
     },
+    image: "/poi-images/switzerland-piz-terri-relief-v2.webp",
   },
   {
     id: "switzerland-piz-medel-relief-v2",
@@ -1056,6 +1088,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 3203 m", "Nume: latină 'mijloc'", "Prima ascensiune: 1864", "Ghețar: Medel, în retragere", "Schi: schi de tură", "Faună: marmotă, vultur"],
       en: ["Elevation: 3203 m", "First ascent: 1864", "Meaning: 'middle' in Latin", "Glacier: Medel Glacier", "Ski touring area", "Nature reserve"],
     },
+    image: "/poi-images/switzerland-piz-medel-relief-v2.webp",
   },
   {
     id: "switzerland-piz-d-es-v2-relief-v2",
@@ -1088,6 +1121,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 3460 m", "Poziție: sud-vest de vârful principal", "Prima ascensiune: 1865", "Creastă: ascuțită", "Compoziție: granit", "Alpinism tehnic"],
       en: ["Elevation: 3460 m", "Location: SW of main summit", "First ascent: 1865", "Ridge: sharp connecting ridge", "Rock: granite", "Technical climb"],
     },
+    image: "/poi-images/switzerland-piz-d-es-v2-relief-v2.webp",
   },
   {
     id: "switzerland-piz-da-stretta-relief-v2",
@@ -1120,6 +1154,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 3030 m", "Nume: retoromană 'strâmt'", "Granița: aproape de Italia", "Valea: Müstair", "Vedere: Valtellina", "Dificultate: drumeție"],
       en: ["Elevation: 3030 m", "Name: 'narrow' in Romansh", "Location: Swiss-Italian border", "Biosphere: Val Müstair", "View: Valtellina valley", "Activity: hiking"],
     },
+    image: "/poi-images/switzerland-piz-da-stretta-relief-v2.webp",
   },
   {
     id: "switzerland-piz-d-la-luch-relief-v2",
@@ -1152,6 +1187,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 3120 m", "Nume: 'gaură'", "Compoziție: calcar", "Peșteri: carstice", "Faună: marmotă, șamoa", "Parcul Natural Val Müstair"],
       en: ["Elevation: 3120 m", "Name: 'hole' in Romansh", "Rock: limestone", "Caves: karst formations", "Wildlife: marmot, ibex", "Nature Park: Val Müstair"],
     },
+    image: "/poi-images/switzerland-piz-d-la-luch-relief-v2.webp",
   },
   {
     id: "switzerland-piz-d-la-drosa-v2-relief-v2",
@@ -1184,6 +1220,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 3220 m", "Poziție: nord-est de vârful principal", "Vizitatori: puțini", "Orientare: necesară", "Vedere: Valea Müstair, Alpi italieni", "Terrain: stâncos, pajiști"],
       en: ["Elevation: 3220 m", "Location: NE of main summit", "Traffic: rarely visited", "Navigation: required", "Views: Val Müstair, Italian Alps", "Terrain: rocky, meadows"],
     },
+    image: "/poi-images/switzerland-piz-d-la-drosa-v2-relief-v2.webp",
   },
   {
     id: "switzerland-piz-s-charl-relief-v2",
@@ -1216,6 +1253,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 3150 m", "Nume: 'gheață'", "Sat: S-charl", "Izvoare: minerale cu sulf", "Mine: istorice de argint și plumb", "Faună: căprioară, vultur"],
       en: ["Elevation: 3150 m", "Name meaning: 'ice'", "Village: S-charl", "Springs: sulfur mineral water", "Mines: historic silver and lead", "Location: near Swiss National Park"],
     },
+    image: "/poi-images/switzerland-piz-s-charl-relief-v2.webp",
   },
   {
     id: "switzerland-piz-d-la-drosa-n-relief-v2",
@@ -1248,6 +1286,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 3280 m", "Granita: Elveția-Italia", "Terrain: blocuri stâncoase", "Vizitatori: foarte puțini", "Granita: pe creastă", "Resturi glaciare"],
       en: ["Elevation: 3280 m", "Location: Swiss-Italian border", "Terrain: boulder scrambling", "Traffic: very rarely visited", "Border: runs over ridge", "Glacier remnants"],
     },
+    image: "/poi-images/switzerland-piz-d-la-drosa-n-relief-v2.webp",
   },
   {
     id: "switzerland-piz-terri-s-relief-v2",
@@ -1280,6 +1319,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 3149 m deasupra nivelului mării", "Prima ascensiune: 1865 de alpiniști englezi", "Rocă: granit și gnais", "Traseu normal: De la Cabana Terri (2100 m) pe creasta sud-estică", "Localizare: Cantonul Graubünden, Elveția (46°36′N, 9°02′E)", "Dificultate: ZS- (conform scării SAC)"],
       en: ["Elevation: 3,149 m (10,331 ft) above sea level", "First ascent: 1865 by English mountaineers", "Rock type: Granite and gneiss", "Normal route: From Terri Hut (2,100 m) via southeast ridge", "Location: Graubünden, Switzerland (46°36′N, 9°02′E)", "Difficulty: ZS- (SAC scale)"],
     },
+    image: "/poi-images/switzerland-piz-terri-s-relief-v2.webp",
   },
   {
     id: "switzerland-piz-medel-w-relief-v2",
@@ -1312,6 +1352,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 3210 m deasupra nivelului mării", "Prima ascensiune: 1865 de J. J. Weilenmann", "Rocă: gnais și șist micaceu", "Localizare: Alpii Adula, Graubünden", "Parte a Parcului Ela (620 km²)", "Traseu normal: Pe ghețarul Medel (dificultate L)"],
       en: ["Elevation: 3,210 m (10,531 ft)", "First ascent: 1865 by J. J. Weilenmann", "Rock type: Gneiss and mica schist", "Location: Adula Alps, Graubünden", "Part of Parc Ela (620 km²)", "Normal route: Via Medel Glacier (difficulty L)"],
     },
+    image: "/poi-images/switzerland-piz-medel-w-relief-v2.webp",
   },
   {
     id: "switzerland-piz-d-artgas-s-relief-v2",
@@ -1344,6 +1385,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 3268 m deasupra nivelului mării", "Prima ascensiune: 1877", "Rocă: aplit și granit", "Localizare: Grupul Tödi, Surselva", "Traseu normal: Via ferrata de la Cabana Camona da Biferten (2330 m)", "Dificultate: WS (scară SAC)"],
       en: ["Elevation: 3,268 m (10,722 ft)", "First ascent: 1877", "Rock type: Aplite and granite", "Location: Tödi group, Surselva", "Normal route: Via ferrata from Camona da Biferten (2,330 m)", "Difficulty: WS (SAC scale)"],
     },
+    image: "/poi-images/switzerland-piz-d-artgas-s-relief-v2.webp",
   },
   {
     id: "switzerland-piz-s-charl-e-relief-v2",
@@ -1376,6 +1418,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 2915 m deasupra nivelului mării", "Parte a Parcului Național Elvețian (170 km²)", "Rocă: dolomit", "Traseu normal: Cățărare UIAA III", "Localizare: Grupul Sesvenna, Engadina Inferioară", "Prima ascensiune: 1893"],
       en: ["Elevation: 2,915 m (9,564 ft)", "Part of Swiss National Park (170 km²)", "Rock type: Dolomite", "Normal route: UIAA III climbing", "Location: Sesvenna group, Lower Engadin", "First ascent: 1893"],
     },
+    image: "/poi-images/switzerland-piz-s-charl-e-relief-v2.webp",
   },
   {
     id: "switzerland-piz-d-la-drosa-s-relief-v2",
@@ -1408,6 +1451,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 2930 m deasupra nivelului mării", "Prima ascensiune: 1870", "Rocă: granit și diorit", "Localizare: Grupul Bernina, granița Elveția-Italia", "Ghețar: Ghețarul Morteratsch (cel mai mare din Bernina)", "Traseu normal: Tur de altitudine, dificultate WS+"],
       en: ["Elevation: 2,930 m (9,613 ft)", "First ascent: 1870", "Rock type: Granite and diorite", "Location: Bernina group, Switzerland-Italy border", "Glacier: Morteratsch Glacier (largest in Bernina)", "Normal route: High-mountain tour, difficulty WS+"],
     },
+    image: "/poi-images/switzerland-piz-d-la-drosa-s-relief-v2.webp",
   },
   {
     id: "switzerland-piz-d-es-n-relief-v2",
@@ -1440,6 +1484,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 2965 m deasupra nivelului mării", "Rocă: calcar și dolomit", "Localizare: Grupul Albula, Bergün", "UNESCO: Calea Ferată Retică în apropiere", "Traseu normal: Drumetie, dificultate T3", "Prima ascensiune: 1885"],
       en: ["Elevation: 2,965 m (9,728 ft)", "Rock type: Limestone and dolomite", "Location: Albula group, Bergün", "UNESCO: Rhaetian Railway nearby", "Normal route: Hike, difficulty T3", "First ascent: 1885"],
     },
+    image: "/poi-images/switzerland-piz-d-es-n-relief-v2.webp",
   },
   {
     id: "switzerland-piz-d-la-drosa-w-relief-v2",
@@ -1472,6 +1517,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 2910 m deasupra nivelului mării", "Rocă: granit", "Localizare: Grupul Bernina, Elveția", "Cățărare: UIAA II", "Prima ascensiune: 1890", "Punct de plecare: Cabana Carate (2650 m, IT)"],
       en: ["Elevation: 2,910 m (9,547 ft)", "Rock type: Granite", "Location: Bernina group, Switzerland", "Climbing grade: UIAA II", "First ascent: 1890", "Starting point: Rifugio Carate (2,650 m, Italy)"],
     },
+    image: "/poi-images/switzerland-piz-d-la-drosa-w-relief-v2.webp",
   },
   {
     id: "switzerland-piz-terri-n-relief-v2",
@@ -1504,6 +1550,7 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 3149 m deasupra nivelului mării", "Spre deosebire de vârful sudic: mai dificil tehnic", "Traseu normal: Creasta nord-estică (dificultate ZS)", "Geologie: Șariajul principal al Glarus (Patrimoniu UNESCO)", "Prima ascensiune: 1865 (simultan cu vârful sudic)", "Bază: Cabana Terri (2100 m)"],
       en: ["Elevation: 3,149 m (10,331 ft)", "Contrast with south summit: technically more difficult", "Normal route: Northeast ridge (difficulty ZS)", "Geology: Glarus main thrust (UNESCO World Heritage)", "First ascent: 1865 (same time as south summit)", "Base: Terri Hut (2,100 m)"],
     },
+    image: "/poi-images/switzerland-piz-terri-n-relief-v2.webp",
   },
   {
     id: "switzerland-piz-s-charl-w-relief-v2",
@@ -1536,5 +1583,6 @@ export const switzerlandReliefV2: POI[] = [
       ro: ["Altitudine: 2940 m deasupra nivelului mării", "Parte a Parcului Național Elvețian", "Rocă: dolomit", "Traseu normal: Pe creasta vestică, dificultate T4", "Prima ascensiune: 1895", "Caracteristică: Pajiști alpine înflorite vara"],
       en: ["Elevation: 2,940 m (9,646 ft)", "Part of Swiss National Park", "Rock type: Dolomite", "Normal route: Via west ridge, difficulty T4", "First ascent: 1895", "Feature: Blooming alpine meadows in summer"],
     },
+    image: "/poi-images/switzerland-piz-s-charl-w-relief-v2.webp",
   }
 ];

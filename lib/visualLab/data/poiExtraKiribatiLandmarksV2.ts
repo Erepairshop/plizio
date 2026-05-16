@@ -31,6 +31,7 @@ export const kiribatiLandmarksV2: POI[] = [
       ro: ["Clădirea a fost construită în 2000.", "Costul construcției: 5 milioane AUD.", "Sala de ședințe are 44 de locuri.", "Acoperișul are 15 m înălțime.", "Suprafața de 800 m².", "Parlamentul se reunește de aproximativ 3 ori pe an."],
       en: ["Built in 2000.", "Construction cost: 5 million AUD.", "Chamber has 44 seats.", "Roof height: 15 meters.", "Floor area: 800 m².", "Parliament meets about 3 times per year."],
     },
+    image: "/poi-images/kiribati-parliament-building-landmarks-v2.webp",
   },
   {
     id: "kiribati-betio-defense-guns-landmarks-v2",
@@ -62,6 +63,7 @@ export const kiribatiLandmarksV2: POI[] = [
       ro: ["Construcție: anii 1940", "Calibru: în mare parte 20 cm", "Locație: Betio, Tarawa", "Utilizare: Bătălia de la Tarawa (1943)", "Stare: păstrate, dar ruginite", "Protecție: monument istoric"],
       en: ["Constructed: 1940s", "Caliber: mostly 20 cm", "Location: Betio, Tarawa", "Usage: Battle of Tarawa (1943)", "Condition: preserved but rusted", "Protected: historical monument"],
     },
+    image: "/poi-images/kiribati-betio-defense-guns-landmarks-v2.webp",
   },
   {
     id: "kiribati-betio-japanese-bunker-landmarks-v2",
@@ -93,6 +95,7 @@ export const kiribatiLandmarksV2: POI[] = [
       ro: ["Construit în 1942", "Pereți de beton groși de 1,5 metri", "Bătălia de la Tarawa: 20-23 noiembrie 1943", "Cartierul general al amiralului Shibasaki", "Astăzi memorial", "Parte a liniei defensive japoneze"],
       en: ["Constructed in 1942", "Concrete walls 1.5 meters thick", "Battle of Tarawa: 20–23 November 1943", "Headquarters of Admiral Keiji Shibasaki", "Now a memorial site", "Part of Japanese defensive line"],
     },
+    image: "/poi-images/kiribati-betio-japanese-bunker-landmarks-v2.webp",
   },
   {
     id: "kiribati-us-marine-memorial-landmarks-v2",
@@ -124,6 +127,7 @@ export const kiribatiLandmarksV2: POI[] = [
       ro: ["Ridicat în anii 1960", "Peste 1.000 de pușcași marini căzuți", "Bătălia a durat 76 de ore", "Lângă fostul cap de pod", "Stelă albă cu inscripție", "Ceremonii comemorative anuale"],
       en: ["Erected in the 1960s", "Over 1,000 fallen Marines", "Battle lasted 76 hours", "Near former beachhead", "White stone stele with inscription", "Annual remembrance ceremonies"],
     },
+    image: "/poi-images/kiribati-us-marine-memorial-landmarks-v2.webp",
   },
   {
     id: "kiribati-national-library-archives-landmarks-v2",
@@ -155,6 +159,7 @@ export const kiribatiLandmarksV2: POI[] = [
       ro: ["Fondată în 1979", "Aproximativ 15.000 de cărți", "Locație Bairiki", "Conține acte coloniale", "Fotografii din secolele XIX-XX", "Centru de cercetare"],
       en: ["Established in 1979", "Holds about 15,000 books", "Located in Bairiki", "Contains colonial records", "19th and 20th century photographs", "Research center"],
     },
+    image: "/poi-images/kiribati-national-library-archives-landmarks-v2.webp",
   },
   {
     id: "kiribati-bairiki-national-stadium-landmarks-v2",
@@ -186,6 +191,7 @@ export const kiribatiLandmarksV2: POI[] = [
       ro: ["Construit în 2002", "Capacitate 2.500", "Gazon artificial", "Stadionul echipei naționale de fotbal", "Folosit pentru atletism", "Gazdă a sărbătorilor naționale"],
       en: ["Built in 2002", "Seating capacity 2,500", "Artificial turf pitch", "Home of national football team", "Used for athletics", "Hosts national celebrations"],
     },
+    image: "/poi-images/kiribati-bairiki-national-stadium-landmarks-v2.webp",
   },
   {
     id: "kiribati-captain-cook-monument-landmarks-v2",
@@ -217,6 +223,7 @@ export const kiribatiLandmarksV2: POI[] = [
       ro: ["Vizită în 1777", "Piramidă de piatră ridicată în 1924", "Locație Teraina (Insula Washington)", "Coasta de vest lângă Napari", "Accesibil doar cu barca", "Înălțime de aproximativ 3 metri"],
       en: ["Visit in 1777", "Stone pyramid erected in 1924", "Located on Teraina (Washington Island)", "West coast near Napari", "Accessible only by boat", "Height approximately 3 meters"],
     },
+    image: "/poi-images/kiribati-captain-cook-monument-landmarks-v2.webp",
   },
   {
     id: "kiribati-london-settlement-kiritimati-landmarks-v2",
@@ -248,6 +255,7 @@ export const kiribatiLandmarksV2: POI[] = [
       ro: ["Fondată în secolul al XIX-lea", "Numită după Londra", "Fostă plantație de cocos", "Oficiu poștal vechi", "Biserică de calcar", "Astăzi sub 100 de locuitori"],
       en: ["Founded in the 19th century", "Named after London", "Former coconut plantation", "Old post office building", "Limestone church", "Current population under 100"],
     },
+    image: "/poi-images/kiribati-london-settlement-kiritimati-landmarks-v2.webp",
   },
   {
     id: "kiribati-st-stanislaus-church-poland-landmarks-v2",
@@ -279,6 +287,7 @@ export const kiribatiLandmarksV2: POI[] = [
       ro: ["Construită în 1951", "Dedicată lui Stanislaus Kostka", "Locație Poland, Banaba", "Construită din calcar coralier", "A servit minerilor", "Minieritul s-a încheiat în 1979"],
       en: ["Built in 1951", "Dedicated to St. Stanislaus Kostka", "Located in Poland, Banaba", "Constructed of coral limestone", "Served phosphate miners", "Mining ended in 1979"],
     },
+    image: "/poi-images/kiribati-st-stanislaus-church-poland-landmarks-v2.webp",
   },
   {
     id: "kiribati-british-residency-banaba-landmarks-v2",
@@ -310,6 +319,7 @@ export const kiribatiLandmarksV2: POI[] = [
       ro: ["Construită în jurul anului 1905", "Cu două etaje", "Din lemn", "Sediu al Comisarului Rezident", "Exploatarea fosfatului 1900-1979", "Astăzi ruine"],
       en: ["Built around 1905", "Two stories", "Wooden structure", "Residence of British Resident Commissioner", "Phosphate mining period 1900-1979", "Now ruins"],
     },
+    image: "/poi-images/kiribati-british-residency-banaba-landmarks-v2.webp",
   },
   {
     id: "kiribati-phosphate-mining-ruins-landmarks-v2",
@@ -341,6 +351,7 @@ export const kiribatiLandmarksV2: POI[] = [
       ro: ["Exploatare 1900-1979", "Șine rămase", "Mașini ruginite", "Fundații de beton", "Îndepărtare pe scară largă", "Astăzi monument industrial"],
       en: ["Mining period 1900-1979", "Remaining railway tracks", "Rusting machinery", "Concrete foundations", "Large-scale topsoil removal", "Now industrial heritage site"],
     },
+    image: "/poi-images/kiribati-phosphate-mining-ruins-landmarks-v2.webp",
   },
   {
     id: "kiribati-bonriki-airport-terminal-landmarks-v2",
@@ -372,6 +383,7 @@ export const kiribatiLandmarksV2: POI[] = [
       ro: ["Construit în 1963", "Modernizat în 2002", "O singură pistă", "Lungime 1.500 m", "100.000 de pasageri anual", "Zboruri către Fiji"],
       en: ["Built in 1963", "Renovated in 2002", "Single runway", "Length 1,500 meters", "100,000 passengers annually", "Flights to Fiji"],
     },
+    image: "/poi-images/kiribati-bonriki-airport-terminal-landmarks-v2.webp",
   },
   {
     id: "kiribati-australian-war-memorial-landmarks-v2",
@@ -403,5 +415,6 @@ export const kiribatiLandmarksV2: POI[] = [
       ro: ["Ridicat în 2004", "Stelă de granit", "Inscripția 'Lest We Forget'", "Lângă Betio", "Ceremonii anuale", "Onorează soldații australieni"],
       en: ["Erected in 2004", "Granite obelisk", "Inscription 'Lest We Forget'", "Located near Betio", "Annual ANZAC Day services", "Honors Australian soldiers"],
     },
+    image: "/poi-images/kiribati-australian-war-memorial-landmarks-v2.webp",
   }
 ];

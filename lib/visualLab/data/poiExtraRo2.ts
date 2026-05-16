@@ -118,7 +118,8 @@ export const poiExtraRo2: POI[] = [
       hu: ["A mioveni gyár Románia legnagyobb ipari vállalata.", "Évente több százezer Dacia márkájú gépjárművet gyártanak itt.", "A telephely saját sebességváltó- és motorgyártó egységgel rendelkezik.", "A Dacia Mioveni termelésének több mint 90%-át külföldre exportálja.", "A gyár a Renault-Nissan Szövetség legmodernebb szabványai szerint működik.", "Mioveni ad otthont egy nagy kutatási és tervező központnak is.", "Az üzem Argeș megye egyik legjelentősebb munkaadója.", "A fenntarthatóság növekvő szerepet játszik a létesítmény energiaellátásában."],
       ro: ["Uzina Dacia a fost inaugurată în anul 1968, primul model fiind Dacia 1100.", "Capacitatea maximă de producție este de 1.392 de vehicule pe zi.", "Peste 90% din mașinile produse la Mioveni sunt exportate în străinătate.", "Modelul Duster este cel mai produs vehicul la facilitatea din județul Argeș.", "Centrul logistic de la Mioveni este cel mai mare din cadrul Alianței Renault-Nissan.", "Uzina dispune de o turnătorie de aluminiu și o secție modernă de motoare.", "Dacia este responsabilă pentru aproximativ 3% din PIB-ul total al României.", "În Mioveni funcționează și centrul de cercetare Renault Technologie Roumanie."],
       en: ["The Dacia plant was inaugurated in 1968, with the Dacia 1100 as its first model.", "Maximum production capacity is 1,392 vehicles per day.", "More than 90% of the cars produced in Mioveni are exported abroad.", "The Duster is the most-produced vehicle at the facility in Argeș County.", "The Mioveni logistics center is the largest in the Renault-Nissan Alliance.", "The plant includes an aluminum foundry and a modern engine section.", "Dacia is responsible for about 3% of Romania's total GDP.", "The Renault Technologie Roumanie research center also operates in Mioveni."]
-    }
+    },
+    image: "/poi-images/industry-dacia-mioveni-extra.webp",
   },
   {
     id: "industry-continental-timisoara-extra",
@@ -236,7 +237,8 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Liberty Galați az ország legnagyobb acéltermelője.", "A telephely saját kikötővel rendelkezik a nyersanyagimport számára.", "A gyár speciális acélokat állít elő a globális hajógyártás számára.", "Jelentős összegeket fektetnek be a termelés dekarbonizációjába.", "A komplexum hatalmas nagyolvasztókat és hengerműveket foglal magában.", "Az acélmű Galați városának legfontosabb munkaadója.", "Az éves gyártási kapacitás több millió tonna acél.", "A Liberty Galați fontos beszállítója a nagy infrastrukturális projekteknek."],
       ro: ["Combinatul a fost inaugurat oficial în anul 1966, fiind proiectat ca un gigant industrial.", "Liberty Galați este cel mai mare combinat siderurgic integrat din țară.", "Capacitatea de producție este de aproximativ 3 milioane de tone de oțel anual.", "Combinatul are propriul port la Dunăre pentru descărcarea barjelor cu minereu.", "Furnalele de la Galați sunt printre cele mai mari unități de acest tip din regiune.", "Programul GREENSTEEL vizează eliminarea emisiilor de carbon până în anul 2030.", "Oțelul de la Galați a fost folosit la construcția podului de peste Dunăre de la Brăila.", "Combinatul este pilonul central al economiei județului Galați de peste 50 de ani."],
       en: ["The steelworks was officially inaugurated in 1966 as a planned industrial giant.", "Liberty Galați is the largest integrated steelworks in the country.", "Its production capacity is about 3 million tonnes of steel per year.", "The complex has its own Danube port for unloading ore barges.", "The blast furnaces in Galați are among the largest of their kind in the region.", "The GREENSTEEL program aims to eliminate carbon emissions by 2030.", "Steel from Galați was used in the construction of the Danube bridge at Brăila.", "The steelworks has been a central pillar of Galați County's economy for more than 50 years."]
-    }
+    },
+    image: "/poi-images/industry-liberty-galati-extra.webp",
   },
   {
     id: "industry-aerostar-bacau-extra",
@@ -1212,7 +1214,8 @@ export const poiExtraRo2: POI[] = [
       hu: ["Az otopeni-i gyár a PMI egyik globális központja a füstmentes termékek számára.", "A telephelyet több mint 500 millió eurós beruházással modernizálták.", "A gyártás jelentős része a nemzetközi piacokra, több mint 50 országba irányul.", "A gyárban szigorú minőségellenőrzési rendszereket alkalmaznak minden szakaszban.", "A PMI Otopeni Ilfov megye egyik legnagyobb és legmodernebb munkaadója.", "A létesítmény az energiahatékonyság terén is élen jár a régióban.", "A telephely saját kutatási és fejlesztési támogatással rendelkezik.", "A modernizáció során nagy hangsúlyt fektettek a hulladékmentes gyártásra."],
       ro: ["Philip Morris a investit peste 600 de milioane de dolari în modernizarea fabricii din Otopeni.", "Unitatea a fost convertită în anul 2017 pentru producția exclusivă a produselor fără fum.", "Peste 90% din producția fabricii de lângă București este destinată exportului global.", "Fabrica din Otopeni livrează produse inovatoare în peste 50 de piețe internaționale.", "Este unul dintre cele mai moderne centre de producție din rețeaua mondială a PMI.", "Facilitatea utilizează roboți de ultimă generație și sisteme avansate de control al calității.", "Compania este un contributor major la bugetul de stat al României prin taxe și accize.", "Otopeni deține certificări internaționale de top pentru managementul apei și energiei."],
       en: ["Over 600 million dollars invested in the Otopeni factory since 2017.", "The site is a global hub for the production of smoke-free tobacco products.", "Employs over 1,200 people in manufacturing and specialized technical roles.", "Exports approximately 90% of its total production to over 50 countries.", "One of the most modern and sustainable industrial facilities in Romania.", "The Otopeni factory is a key driver of Romania's high-tech industrial exports."]
-    }
+    },
+    image: "/poi-images/industry-pmi-otopeni-extra.webp",
   },
   {
     id: "industry-arctic-gaesti-extra",
@@ -1564,7 +1567,8 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Formens Botoșani Románia egyik legmodernebb ruhaipari gyára.", "A vállalat naponta több ezer kiváló minőségű öltönyt állít elő.", "A Formens a francia és az olasz divatházak kiemelt beszállítója.", "Saját, egyedi méretre készítő (Made to Measure) szoftverrendszert alkalmaznak.", "A gyár Botoșani megye gazdasági fejlődésének egyik fő hajtóereje.", "A telephelyen modern automatizált raktározási rendszerek működnek.", "A Formens nagy hangsúlyt fektet a munkavállalók folyamatos továbbképzésére.", "A vállalat termékeit világszerte több száz üzletben értékesítik."],
       ro: ["Formens a început activitatea în Botoșani în anul 1999, cu capital francez.", "Este specializată în producția de costume bărbătești de înaltă calitate.", "Fabrica produce peste 700.000 de sacouri și costume pe an.", "Utilizează tehnologia 'Made-to-Measure' (MTM) asistată de computer pentru clienți individuali.", "Peste 95% din producție este exportată către piețe exigente precum Franța și UK.", "Formens este unul dintre cei mai mari angajatori din județul Botoșani.", "Unitatea deține propriile branduri de lux și colaborează cu mari designeri europeni.", "Compania investește constant în sisteme de digitalizare a întregului flux de producție."],
       en: ["Formens is one of the largest producers of men's suits in Europe.", "Features a highly advanced 'Made-to-Measure' (MTM) production line.", "The Botoșani plant is a major hub for high-quality French tailoring.", "Produces garments for over 300 international premium brands.", "Employs over 1,000 specialists in the field of high-end garments.", "One of the most important economic drivers in Botoșani County."]
-    }
+    },
+    image: "/poi-images/industry-formens-bt-extra.webp",
   },
   {
     id: "industry-walmark-cv-extra",
@@ -3765,7 +3769,8 @@ export const poiExtraRo2: POI[] = [
       hu: ["Az Olt folyó teljes hossza körülbelül 615 kilométer.", "Ez az egyetlen folyó, amely áttöri a Déli-Kárpátok hegyláncát.", "Az Olton több mint 30 víztározó tó és erőmű működik, alkotva az 'Olt-lépcsőt'.", "A Vöröstoronyi-szoros évszázadokig fontos vámhely és katonai védelmi vonal volt.", "A folyó völgye híres a középkori kolostorairól (pl. Cozia).", "Az Olt menti síkság Havasalföld egyik leggazdagabb mezőgazdasági vidéke.", "A folyó torkolata Turnu Măgurele közelében található.", "Számos népdal és ballada emlékezik meg az Olt vadságáról és szépségéről."],
       ro: ["Oltul este cel mai lung râu care curge integral pe teritoriul României (615 km).", "Izvorăște de la o altitudine de 1.440 de metri în munții Hășmașul Mare.", "Defileul Oltului de la Cozia este unul dintre cele mai lungi și spectaculoase din Europa.", "Pe cursul râului funcționează o cascadă de aproximativ 30 de hidrocentrale.", "În perioada romană, 'Limes Alutanus' era linia de fortificații de-a lungul râului.", "Se varsă în Dunăre în apropierea localității Islaz, județul Teleorman.", "Bazinul său hidrografic acoperă peste 24.000 de kilometri pătrați.", "Râul a dat numele regiunii istorice Oltenia, aflată la vest de cursul său inferior."],
       en: ["The Olt is the longest river flowing entirely within Romanian borders (615 km).", "The Olt Defile (Defileul Oltului) is the longest river canyon in Romania (47 km).", "The river basin covers approximately 24,050 square kilometers.", "Feeds the largest hydroelectric system on an inland river in Romania.", "Passes through significant cities like Sfântu Gheorghe, Râmnicu Vâlcea, and Slatina.", "Historically marked the border between Oltenia and Muntenia in southern Romania.", "The Cozia Monastery on its banks is a masterpiece of medieval architecture.", "A vital ecological corridor, especially for migratory birds in its lower course."]
-    }
+    },
+    image: "/poi-images/river-olt-extra.webp",
   },
   {
     id: "river-vedea-extra",
@@ -3805,7 +3810,8 @@ export const poiExtraRo2: POI[] = [
       hu: ["A Vedea folyó hossza körülbelül 224 kilométer.", "Forrása az Argeș-dombságban, közel 600 méteres magasságban található.", "A folyó vize fontos szerepet játszik a Teleorman-síkság öntözésében.", "Völgye gazdag dák és római kori régészeti leletekben.", "A Vedea mente kedvelt helyszíne a hagyományos horgászatnak.", "A folyó vize végül Bujoru közelében ömlik a Dunába.", "Számos kisebb mellékfolyója hálózza be a dél-romániai rónaságot.", "A folyó neve egyes feltételezések szerint dák eredetű, jelentése 'víz'."],
       ro: ["Râul Vedea are o lungime de 224 km și un bazin hidrografic de peste 5.000 kmp.", "Izvorăște din Podișul Getic, județul Argeș, dintr-o zonă deluroasă pitorească.", "Numele râului se consideră a fi de origine dacică, legat de rădăcina indoeuropeană 'wed' (apă).", "Traversează județele Argeș, Olt și Teleorman pe direcția nord-vest - sud-est.", "Vedea se varsă în Dunăre în amonte de orașul Giurgiu.", "Apele sale sunt utilizate pe scară largă pentru irigații în perioadele critice de vară.", "În bazinul său hidrografic se găsesc numeroase situri arheologice de epoca bronzului.", "Lunca râului este populată cu specii de păsări specifice zonelor de stepă și lunci umede."],
       en: ["The Vedea River has a total length of approximately 224 kilometers.", "Originates in the Getic Plateau at an altitude of about 400 meters.", "Its main tributary is the Teleorman River, which joins it in the lower course.", "Passes through the city of Alexandria, the capital of Teleorman County.", "The river basin is a primary zone for sunflower, corn, and wheat cultivation.", "Joins the Danube near the town of Zimnicea, Romania's southernmost point.", "The name 'Vedea' is believed to have ancient, possibly Thraco-Dacian roots.", "An important regional center for traditional freshwater fishing."]
-    }
+    },
+    image: "/poi-images/river-vedea-extra.webp",
   }
 ];
 

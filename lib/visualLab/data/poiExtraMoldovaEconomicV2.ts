@@ -1079,5 +1079,6 @@ export const moldovaEconomicV2: POI[] = [
       ro: ["Înființată oficial în anul 1978", "Sediul principal situat în Chișinău", "Utilizează lână pură de calitate", "Tehnologie avansată de țesut Jacquard", "Exportă masiv în UE și spațiul CSI", "Peste 45 de ani de experiență"],
       en: ["Founded in 1978 in Chișinău", "Specializes in 100% pure wool rugs", "High-density Jacquard weaving tech", "Major Moldovan industrial exporter", "Extensive global distribution network", "Winner of multiple international awards"],
     },
+    image: "/poi-images/moldova-floare-carpet-factory-economic-v2.webp",
   }
 ];

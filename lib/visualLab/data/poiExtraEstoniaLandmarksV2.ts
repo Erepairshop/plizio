@@ -32,6 +32,7 @@ export const estoniaLandmarksV2: POI[] = [
       ro: ["Clădirea principală finalizată în 1794", "Situat în Parcul Național Lahemaa", "Cuprinde 20 de clădiri istorice", "Menționat documentar prima dată în 1469"],
       en: ["Main building completed in 1794", "Located in Lahemaa National Park", "Consists of 20 historical buildings", "First mentioned in records in 1469"],
     },
+    image: "/poi-images/estonia-sagadi-manor-landmarks-v2.webp",
   },
   {
     id: "estonia-maeru-manor-landmarks-v2",
@@ -64,6 +65,7 @@ export const estoniaLandmarksV2: POI[] = [
       ro: ["Secolul al XIX-lea", "Județul Valga", "Stil neoclasic", "Fermă istorică", "Zidărie de piatră", "Patrimoniu rural"],
       en: ["19th century origin", "Valga County", "Neoclassical style", "Agricultural hub", "Stone masonry", "Restored interior"],
     },
+    image: "/poi-images/estonia-maeru-manor-landmarks-v2.webp",
   },
   {
     id: "estonia-laits-castle-landmarks-v2",
@@ -96,6 +98,7 @@ export const estoniaLandmarksV2: POI[] = [
       ro: ["Finalizat în 1892", "Stil neogotic", "Arhitectură de calcar", "Șase turnuri distincte", "Județul Harju", "Monument istoric"],
       en: ["Built in 1892", "Neo-Gothic style", "Uexküll family estate", "Limestone construction", "Crenelated towers", "35 km from Tallinn"],
     },
+    image: "/poi-images/estonia-laits-castle-landmarks-v2.webp",
   },
   {
     id: "estonia-kunda-church-landmarks-v2",
@@ -128,6 +131,7 @@ export const estoniaLandmarksV2: POI[] = [
       ro: ["Finalizată în 1928", "Arhitect Ernst Kühnert", "Stil modernist", "Județul Lääne-Viru", "Biserică luterană", "Acoperiș abrupt"],
       en: ["Completed 1928", "Architect Ernst Kühnert", "Functionalist design", "Lääne-Viru County", "Lutheran faith", "30m spire height"],
     },
+    image: "/poi-images/estonia-kunda-church-landmarks-v2.webp",
   },
   {
     id: "estonia-valga-church-landmarks-v2",
@@ -160,6 +164,7 @@ export const estoniaLandmarksV2: POI[] = [
       ro: ["Piatra de temelie pusă în 1781", "Plan oval unic în țară", "Orgă construită de Friedrich Ladegast", "Finalizată complet în anul 1816"],
       en: ["Foundation stone laid in 1781", "Unique oval interior layout", "Organ built by Friedrich Ladegast (1867)", "Bell tower stands 40 meters tall"],
     },
+    image: "/poi-images/estonia-valga-church-landmarks-v2.webp",
   },
   {
     id: "estonia-viljandi-museum-landmarks-v2",
@@ -192,6 +197,7 @@ export const estoniaLandmarksV2: POI[] = [
       ro: ["Clădire din 1780", "Farmacie veche", "Piața General Laidoner", "Istorie locală", "Obiecte medievale", "Județul Viljandi"],
       en: ["1780s building", "Former pharmacy", "General Laidoner Square", "Founded in 1878", "Archaeological finds", "Two floors of exhibits"],
     },
+    image: "/poi-images/estonia-viljandi-museum-landmarks-v2.webp",
   },
   {
     id: "estonia-parnu-museum-landmarks-v2",
@@ -224,6 +230,7 @@ export const estoniaLandmarksV2: POI[] = [
       ro: ["Fondat în anul 1896", "Peste 100.000 de obiecte de patrimoniu", "Cele mai vechi piese din 9000 î.Hr.", "Sediul actual inaugurat în 2012"],
       en: ["Founded in 1896", "Collection of over 100,000 items", "Oldest artifacts date to 9000 BC", "Moved to current granary site in 2012"],
     },
+    image: "/poi-images/estonia-parnu-museum-landmarks-v2.webp",
   },
   {
     id: "estonia-haapsalu-railway-museum-landmarks-v2",
@@ -256,6 +263,7 @@ export const estoniaLandmarksV2: POI[] = [
       ro: ["Peron cu lungimea de 216 metri", "Gară construită în anul 1907", "Ultimul tren de pasageri în 1995", "Colecție de locomotive cu abur"],
       en: ["Platform length of 216 meters", "Station built in 1907", "Last passenger train arrived in 1995", "Features collection of steam engines"],
     },
+    image: "/poi-images/estonia-haapsalu-railway-museum-landmarks-v2.webp",
   },
   {
     id: "estonia-kohtla-mining-museum-landmarks-v2",
@@ -288,6 +296,7 @@ export const estoniaLandmarksV2: POI[] = [
       ro: ["Rețea de galerii de circa 8 km", "Mina Kohtla activă între 1937-2001", "Circuit subteran la 8m adâncime", "Include plimbare cu trenul minier"],
       en: ["Tunnels span approx. 8 kilometers", "Active mine from 1937 to 2001", "Underground tour at 8m depth", "Operational mining train rides"],
     },
+    image: "/poi-images/estonia-kohtla-mining-museum-landmarks-v2.webp",
   },
   {
     id: "estonia-tallinn-seaplane-harbour-landmarks-v2",
@@ -320,6 +329,7 @@ export const estoniaLandmarksV2: POI[] = [
       ro: ["Cupole de beton fără stâlpi interiori", "Submarinul Lembit construit în 1936", "Spărgătorul de gheață Suur Töll (1914)", "Muzeul a fost deschis în 2012"],
       en: ["Support-free concrete shell domes", "Lembit submarine built in 1936", "Suur Töll icebreaker dates to 1914", "Museum opened in May 2012"],
     },
+    image: "/poi-images/estonia-tallinn-seaplane-harbour-landmarks-v2.webp",
   },
   {
     id: "estonia-narva-alexander-church-landmarks-v2",
@@ -352,6 +362,7 @@ export const estoniaLandmarksV2: POI[] = [
       ro: ["Construită între 1881 și 1884", "Capacitate de 5000 de persoane", "Proiectată de Otto Pius Hippius", "Turn reconstruit complet în 2008"],
       en: ["Built between 1881 and 1884", "Original capacity for 5,000 people", "Designed by Otto Pius Hippius", "Bell tower restored in 2008"],
     },
+    image: "/poi-images/estonia-narva-alexander-church-landmarks-v2.webp",
   },
   {
     id: "estonia-voru-church-landmarks-v2",
@@ -384,6 +395,7 @@ export const estoniaLandmarksV2: POI[] = [
       ro: ["Anul 1793", "Stil baroc târziu", "Ecaterina a II-a", "Turn cu clopot", "Piața centrală Võru", "Monument de cult"],
       en: ["Finished 1793", "Late Baroque style", "Empress Catherine II", "Lutheran church", "Central city square", "Iconic clock tower"],
     },
+    image: "/poi-images/estonia-voru-church-landmarks-v2.webp",
   },
   {
     id: "estonia-poltsamaa-church-landmarks-v2",
@@ -416,6 +428,7 @@ export const estoniaLandmarksV2: POI[] = [
       ro: ["Fondată în 1633", "Altar baroc", "Distrusă în 1941", "Restaurată 1952", "Județul Jõgeva", "Stil vernacular"],
       en: ["Founded 1633", "Baroque altar", "Damaged 1941", "Restored 1952", "Jõgeva County", "Near Põltsamaa Castle"],
     },
+    image: "/poi-images/estonia-poltsamaa-church-landmarks-v2.webp",
   },
   {
     id: "estonia-viljandi-water-tower-landmarks-v2",
@@ -448,6 +461,7 @@ export const estoniaLandmarksV2: POI[] = [
       ro: ["Anul 1911", "30 metri înălțime", "Cărămidă roșie", "Platformă belvedere", "Rețea de apă veche", "Județul Viljandi"],
       en: ["Built in 1911", "30 meters tall", "Red brick masonry", "Observation deck", "3 main levels", "Lake Viljandi view"],
     },
+    image: "/poi-images/estonia-viljandi-water-tower-landmarks-v2.webp",
   },
   {
     id: "estonia-johvi-church-landmarks-v2",
@@ -480,6 +494,7 @@ export const estoniaLandmarksV2: POI[] = [
       ro: ["Secolul al XIV-lea", "Biserică fortificată", "Ziduri de 2 metri", "Turn defensiv", "Stil gotic", "Județul Ida-Viru"],
       en: ["14th century origin", "Fortified church", "2m thick walls", "Gothic architecture", "Ida-Viru County", "Defensive tower"],
     },
+    image: "/poi-images/estonia-johvi-church-landmarks-v2.webp",
   },
   {
     id: "estonia-paide-church-landmarks-v2",
@@ -512,6 +527,7 @@ export const estoniaLandmarksV2: POI[] = [
       ro: ["Finalizată în forma actuală în 1848", "Orgă construită de frații Kriisa", "Prima biserică ridicată în sec. XIII", "Înălțimea turnului este de 42 metri"],
       en: ["Current building finished in 1848", "Organ built by the Kriisa brothers", "First church on site in 13th century", "The tower stands 42 meters tall"],
     },
+    image: "/poi-images/estonia-paide-church-landmarks-v2.webp",
   },
   {
     id: "estonia-rapla-church-landmarks-v2",
@@ -544,6 +560,7 @@ export const estoniaLandmarksV2: POI[] = [
       ro: ["Construcție finalizată în anul 1901", "Capacitate de circa 900 de persoane", "Arhitect Rudolf von Bernhard", "Singura biserică rurală cu două turnuri"],
       en: ["Construction completed in 1901", "Seats approximately 900 people", "Designed by Rudolf von Bernhard", "Unique twin-tower rural design"],
     },
+    image: "/poi-images/estonia-rapla-church-landmarks-v2.webp",
   },
   {
     id: "estonia-tapa-church-landmarks-v2",
@@ -576,6 +593,7 @@ export const estoniaLandmarksV2: POI[] = [
       ro: ["Sfințită în 1932", "Piatră de câmp", "Stil funcționalist", "Orașul Tapa", "Confesiune luterană", "Design interbelic"],
       en: ["Dedicated in 1932", "Fieldstone walls", "Functionalist style", "Tapa railway town", "Lutheran parish", "Granite details"],
     },
+    image: "/poi-images/estonia-tapa-church-landmarks-v2.webp",
   },
   {
     id: "estonia-kuressaare-town-hall-landmarks-v2",
@@ -608,6 +626,7 @@ export const estoniaLandmarksV2: POI[] = [
       ro: ["Anul 1670", "Baroc nordic", "Insula Saaremaa", "Portal sculptat", "Blazon istoric", "Monument din epoca suedeză"],
       en: ["Completed in 1670", "Northern Baroque", "Swedish era legacy", "Carved stone portal", "Saaremaa island", "Historic meeting hall"],
     },
+    image: "/poi-images/estonia-kuressaare-town-hall-landmarks-v2.webp",
   },
   {
     id: "estonia-kardla-church-landmarks-v2",
@@ -640,6 +659,7 @@ export const estoniaLandmarksV2: POI[] = [
       ro: ["Anul 1863", "Stil din cărămidă", "Insula Hiiumaa", "Fabrica de postav", "Arhitectură sobră", "Comunitate luterană"],
       en: ["Built in 1863", "Brick masonry", "Hiiumaa island", "Cloth factory link", "Simple bell tower", "19th-century origin"],
     },
+    image: "/poi-images/estonia-kardla-church-landmarks-v2.webp",
   },
   {
     id: "estonia-polva-cultural-center-landmarks-v2",
@@ -672,5 +692,6 @@ export const estoniaLandmarksV2: POI[] = [
       ro: ["Inaugurat în anul 1982", "Proiectat de arhitectul Hans Kõll", "Sala principală are 360 de locuri", "Găzduiește și o școală de artă"],
       en: ["Inaugurated in 1982", "Designed by architect Hans Kõll", "Main hall seats 360 people", "Home to a regional art school"],
     },
+    image: "/poi-images/estonia-polva-cultural-center-landmarks-v2.webp",
   }
 ];

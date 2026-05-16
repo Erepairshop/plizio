@@ -32,6 +32,7 @@ export const norwayLifeV2: POI[] = [
       ro: ["Ghețarul acoperă 487 km².", "Grosimea maximă a gheții este de 600 de metri.", "Parcul a fost înființat în 1991.", "Cel mai înalt punct este Høgste Breakulen (1957 m).", "Există peste 50 de limbi glaciare.", "Parcul are o suprafață de 1315 km²."],
       en: ["Glacier covers 487 km².", "Maximum ice thickness is 600 m.", "Park established in 1991.", "Highest point is Høgste Breakulen at 1957 m.", "Over 50 glacier tongues.", "Park area is 1315 km²."],
     },
+    image: "/poi-images/norway-jostedalsbreen-national-park-life-v2.webp",
   },
   {
     id: "norway-reisa-national-park-life-v2",
@@ -64,6 +65,7 @@ export const norwayLifeV2: POI[] = [
       ro: ["Parcul a fost înființat în 1986.", "Suprafața este de 803 km².", "Cascada Reisa are o înălțime de 65 de metri.", "Cel mai înalt punct este 1238 m.", "Există peste 200 de specii de plante.", "Canionul are 12 kilometri lungime."],
       en: ["Park established in 1986.", "Area: 803 km².", "Reisa waterfall drops 65 meters.", "Highest point: 1238 m.", "Over 200 plant species.", "Canyon is 12 km long."],
     },
+    image: "/poi-images/norway-reisa-national-park-life-v2.webp",
   },
   {
     id: "norway-dividalen-national-park-life-v2",
@@ -96,6 +98,7 @@ export const norwayLifeV2: POI[] = [
       ro: ["Parcul a fost înființat în 1971.", "Suprafața este de 753 km².", "Cel mai înalt punct: 1684 m.", "Râul Divi are 45 km lungime.", "În parc trăiesc aproximativ 300 de elani.", "Pădurile de pini au până la 500 de ani vechime."],
       en: ["Park established in 1971.", "Area: 753 km².", "Highest point: 1684 m.", "Divi River is 45 km long.", "Approximately 300 moose live in the park.", "Pine forests up to 500 years old."],
     },
+    image: "/poi-images/norway-dividalen-national-park-life-v2.webp",
   },
   {
     id: "norway-hardangervidda-wildlife-v2",
@@ -128,6 +131,7 @@ export const norwayLifeV2: POI[] = [
       ro: ["Platoul are 8.000 km².", "Cel mai înalt punct are 1.883 m.", "Aproximativ 10.000 de reni trăiesc aici.", "Parcul a fost înființat în 1981.", "Suprafața parcului național este de 3.422 km².", "Există peste 500 de lacuri."],
       en: ["Plateau area: 8,000 km².", "Highest point: 1,883 m.", "About 10,000 reindeer live here.", "Park established in 1981.", "National park area: 3,422 km².", "Over 500 lakes."],
     },
+    image: "/poi-images/norway-hardangervidda-wildlife-v2.webp",
   },
   {
     id: "norway-ytre-hvaler-national-park-life-v2",
@@ -160,6 +164,7 @@ export const norwayLifeV2: POI[] = [
       ro: ["Parcul a fost înființat în 2009.", "Suprafața este de 354 km², dintre care 90% apă.", "Există 55 de insule și insulițe.", "Cel mai adânc punct: 120 de metri.", "Cea mai mare insulă: Hvaler.", "Lungimea coastei: 180 km."],
       en: ["Park established in 2009.", "Area: 354 km², 90% water.", "55 islands and islets.", "Deepest point: 120 meters.", "Largest island: Hvaler.", "Coastline length: 180 km."],
     },
+    image: "/poi-images/norway-ytre-hvaler-national-park-life-v2.webp",
   },
   {
     id: "norway-folgefonna-national-park-life-v2",
@@ -192,6 +197,7 @@ export const norwayLifeV2: POI[] = [
       ro: ["Ghețarul acoperă 207 km².", "Grosimea maximă a gheții: 400 m.", "Parcul a fost înființat în 2005.", "Cel mai înalt punct: 1.662 m.", "Suprafața parcului: 826 km².", "Ghețarul pierde 10 m grosime pe an."],
       en: ["Glacier covers 207 km².", "Maximum ice thickness: 400 m.", "Park established in 2005.", "Highest point: 1,662 m.", "Park area: 826 km².", "Glacier loses 10 m thickness annually."],
     },
+    image: "/poi-images/norway-folgefonna-national-park-life-v2.webp",
   },
   {
     id: "norway-børgefjell-national-park-life-v2",
@@ -224,6 +230,7 @@ export const norwayLifeV2: POI[] = [
       ro: ["Parcul a fost înființat în 1971.", "Suprafața: 1.447 km².", "Cel mai înalt punct: 1.705 m.", "Există 200 de lacuri.", "Cea mai mare adâncime a unui lac: 40 m.", "Parcul găzduiește 500 de reni."],
       en: ["Park established in 1971.", "Area: 1,447 km².", "Highest point: 1,705 m.", "200 lakes.", "Deepest lake: 40 m.", "Park hosts 500 reindeer."],
     },
+    image: "/poi-images/norway-børgefjell-national-park-life-v2.webp",
   },
   {
     id: "norway-femundsmarka-national-park-life-v2",
@@ -256,6 +263,7 @@ export const norwayLifeV2: POI[] = [
       ro: ["Parcul a fost înființat în 1971.", "Suprafața: 597 km².", "Lacul Femunden are 203 km².", "Adâncimea maximă a lacului: 130 m.", "Cel mai înalt punct: 1.000 m.", "Parcul are 100 km de trasee marcate."],
       en: ["Park established in 1971.", "Area: 597 km².", "Lake Femunden covers 203 km².", "Maximum lake depth: 130 m.", "Highest point: 1,000 m.", "100 km of marked hiking trails."],
     },
+    image: "/poi-images/norway-femundsmarka-national-park-life-v2.webp",
   },
   {
     id: "norway-saltfjellet-svartisen-national-park-life-v2",
@@ -288,6 +296,7 @@ export const norwayLifeV2: POI[] = [
       ro: ["Ghețarul acoperă 370 km².", "Grosimea maximă a gheții: 550 m.", "Parcul a fost înființat în 1989.", "Suprafața parcului: 2.102 km².", "Cel mai înalt punct: 1.592 m.", "Există peste 100 de peșteri."],
       en: ["Glacier covers 370 km².", "Maximum ice thickness: 550 m.", "Park established in 1989.", "Park area: 2,102 km².", "Highest point: 1,592 m.", "Over 100 caves."],
     },
+    image: "/poi-images/norway-saltfjellet-svartisen-national-park-life-v2.webp",
   },
   {
     id: "norway-breheimen-national-park-life-v2",
@@ -320,6 +329,7 @@ export const norwayLifeV2: POI[] = [
       ro: ["Parcul a fost înființat în 2009.", "Suprafața: 1.672 km².", "Cel mai înalt vârf: 2.208 m.", "Există 4 ghețari principali.", "Grosimea maximă a gheții: 300 m.", "Parcul are 150 km de trasee marcate."],
       en: ["Park established in 2009.", "Area: 1,672 km².", "Highest peak: 2,208 m.", "4 main glaciers.", "Maximum ice thickness: 300 m.", "150 km of marked trails."],
     },
+    image: "/poi-images/norway-breheimen-national-park-life-v2.webp",
   },
   {
     id: "norway-ovre-pasvik-national-park-life-v2",
@@ -352,6 +362,7 @@ export const norwayLifeV2: POI[] = [
       ro: ["Parcul a fost înființat în 1971.", "Suprafața: 119 km².", "Cel mai înalt punct: 135 m.", "200 de specii de păsări.", "Râul Pasvik are 100 km lungime.", "Temperatura medie în iulie: 13°C."],
       en: ["Park established in 1971.", "Area: 119 km².", "Highest point: 135 m.", "200 bird species.", "Pasvik River is 100 km long.", "Average July temperature: 13°C."],
     },
+    image: "/poi-images/norway-ovre-pasvik-national-park-life-v2.webp",
   },
   {
     id: "norway-sunndalsfjella-dovrefjell-national-park-life-v2",
@@ -384,6 +395,7 @@ export const norwayLifeV2: POI[] = [
       ro: ["Parcul a fost înființat în 2002.", "Suprafața: 1.693 km².", "Cel mai înalt punct: Snøhetta (2.286 m).", "Aproximativ 200 de boi moscati trăiesc aici.", "100 de specii de păsări.", "Stratul de zăpadă persistă 200 de zile pe an."],
       en: ["Park established in 2002.", "Area: 1,693 km².", "Highest point: Snøhetta at 2,286 m.", "About 200 musk oxen live here.", "100 bird species.", "Snow cover lasts 200 days per year."],
     },
+    image: "/poi-images/norway-sunndalsfjella-dovrefjell-national-park-life-v2.webp",
   },
   {
     id: "norway-rondane-national-park-life-v2",
@@ -416,6 +428,7 @@ export const norwayLifeV2: POI[] = [
       ro: ["Parcul a fost fondat în 1962.", "Suprafața: 963 km².", "Cel mai înalt vârf: Rondeslottet (2.178 m).", "10 vârfuri peste 2000 de metri.", "Populația de reni: aproximativ 2000 de animale.", "Parcul a fost extins în 2003."],
       en: ["Park established in 1962.", "Area: 963 km².", "Highest peak: Rondeslottet at 2,178 m.", "10 peaks over 2000 meters.", "Reindeer population: about 2000 animals.", "Park area expanded in 2003."],
     },
+    image: "/poi-images/norway-rondane-national-park-life-v2.webp",
   },
   {
     id: "norway-lan-national-park-life-v2",
@@ -448,6 +461,7 @@ export const norwayLifeV2: POI[] = [
       ro: ["Parcul a fost înființat în 2009.", "Suprafața: 1.827 km².", "Cel mai înalt punct: 1.592 m.", "Fiordul Visten are 15 km lungime.", "100 km de trasee marcate.", "30 de specii de mamifere."],
       en: ["Park established in 2009.", "Area: 1,827 km².", "Highest point: 1,592 m.", "Vistenfjord is 15 km long.", "100 km of marked trails.", "30 mammal species."],
     },
+    image: "/poi-images/norway-lan-national-park-life-v2.webp",
   },
   {
     id: "norway-varangerhalvoya-national-park-life-v2",
@@ -480,6 +494,7 @@ export const norwayLifeV2: POI[] = [
       ro: ["Parcul a fost înființat în 2009.", "Suprafața: 1.804 km².", "Coasta are 200 km lungime.", "100 de specii de păsări.", "Cel mai înalt punct: 450 m.", "Cea mai mare colonie de ura de mare cu cioc gros cuibărește aici."],
       en: ["Park established in 2009.", "Area: 1,804 km².", "Coastline: 200 km.", "100 bird species.", "Highest point: 450 m.", "Largest colony of thick-billed murre breeds here."],
     },
+    image: "/poi-images/norway-varangerhalvoya-national-park-life-v2.webp",
   },
   {
     id: "norway-rauma-river-life-v2",
@@ -512,6 +527,7 @@ export const norwayLifeV2: POI[] = [
       ro: ["Lungime: 68 km", "Bazin hidrografic: 1.210 km²", "Debit mediu: 40 m³/s", "Debit maxim primăvara: 300 m³/s", "Captură anuală de somon: 1.500 kg", "Podul Kylling: 187 m lungime"],
       en: ["Length: 68 km", "Catchment area: 1,210 km²", "Average discharge: 40 m³/s", "Peak spring discharge: 300 m³/s", "Annual salmon catch: 1,500 kg", "Raumabanen railway opened: 1924"],
     },
+    image: "/poi-images/norway-rauma-river-life-v2.webp",
   },
   {
     id: "norway-dovre-national-park-life-v2",
@@ -544,6 +560,7 @@ export const norwayLifeV2: POI[] = [
       ro: ["Anul înființării: 2003", "Suprafață: 289 km²", "Altitudine maximă: Fokstuguhøi (1.452 m)", "Populația de boi mosc: circa 300", "Reintroducerea boilor mosc: 1947", "Temperatura medie iulie: 10°C"],
       en: ["Established: 2003", "Area: 289 km²", "Highest point: Fokstuguhøi (1,452 m)", "Muskox population: ~300", "Muskox reintroduction: 1947", "Average July temperature: 10°C"],
     },
+    image: "/poi-images/norway-dovre-national-park-life-v2.webp",
   },
   {
     id: "norway-skjervs-nature-life-v2",
@@ -576,6 +593,7 @@ export const norwayLifeV2: POI[] = [
       ro: ["Anul înființării: 1983", "Suprafață: 4,8 km²", "Perechi de păsări cuibăritoare: peste 10.000", "Temperatura medie ianuarie: -5°C", "Temperatura medie iulie: 12°C", "Altitudine maximă: 120 m"],
       en: ["Established: 1983", "Area: 4.8 km²", "Breeding seabird pairs: >10,000", "Average January temperature: -5°C", "Average July temperature: 12°C", "Highest point: 120 m"],
     },
+    image: "/poi-images/norway-skjervs-nature-life-v2.webp",
   },
   {
     id: "norway-blafjell-skjækerfjella-national-park-life-v2",
@@ -608,6 +626,7 @@ export const norwayLifeV2: POI[] = [
       ro: ["Anul înființării: 2004", "Suprafață: 1.924 km²", "Altitudine maximă: Blåfjell (1.142 m)", "Populația de urși bruni: circa 20", "Lungimea râului Namsen: 210 km", "Situri arheologice: peste 100"],
       en: ["Established: 2004", "Area: 1,924 km²", "Highest point: Blåfjell (1,142 m)", "Brown bear population: ~20", "Namsen River length: 210 km", "Archaeological sites: >100"],
     },
+    image: "/poi-images/norway-blafjell-skjækerfjella-national-park-life-v2.webp",
   },
   {
     id: "norway-reinheimen-national-park-life-v2",
@@ -640,6 +659,7 @@ export const norwayLifeV2: POI[] = [
       ro: ["Anul înființării: 2006", "Suprafață: 1.969 km²", "Altitudine maximă: Skarddalstind (2.048 m)", "Precipitații anuale: 1.500 mm", "Populația de reni: circa 2.000", "Drumuri amenajate: 0"],
       en: ["Established: 2006", "Area: 1,969 km²", "Highest point: Skarddalstind (2,048 m)", "Annual precipitation: 1,500 mm", "Wild reindeer population: ~2,000", "Maintained trails: 0"],
     },
+    image: "/poi-images/norway-reinheimen-national-park-life-v2.webp",
   },
   {
     id: "norway-forollhogna-national-park-life-v2",
@@ -672,6 +692,7 @@ export const norwayLifeV2: POI[] = [
       ro: ["Anul înființării: 2001", "Suprafață: 1.062 km²", "Număr de lacuri: peste 300", "Altitudine maximă: Forollhogna (1.302 m)", "Populația de jder: circa 10", "Temperatura medie iulie: 11°C"],
       en: ["Established: 2001", "Area: 1,062 km²", "Number of lakes: >300", "Highest point: Forollhogna (1,302 m)", "Wolverine population: ~10", "Average July temperature: 11°C"],
     },
+    image: "/poi-images/norway-forollhogna-national-park-life-v2.webp",
   },
   {
     id: "norway-langsua-national-park-life-v2",
@@ -704,6 +725,7 @@ export const norwayLifeV2: POI[] = [
       ro: ["Anul înființării: 2011", "Suprafață: 1.096 km²", "Altitudine maximă: Nørdre Siksjøen (1.426 m)", "Lungimea lacului Øvre Langsua: 5 km", "Specii de păsări: peste 100", "Temperatura medie ianuarie: -8°C"],
       en: ["Established: 2011", "Area: 1,096 km²", "Highest point: Nørdre Siksjøen (1,426 m)", "Lake Øvre Langsua length: 5 km", "Bird species: >100", "Average January temperature: -8°C"],
     },
+    image: "/poi-images/norway-langsua-national-park-life-v2.webp",
   },
   {
     id: "norway-gutulia-national-park-life-v2",
@@ -736,6 +758,7 @@ export const norwayLifeV2: POI[] = [
       ro: ["Anul înființării: 1968", "Suprafață: 23 km²", "Altitudine maximă: 1.200 m", "Vârsta maximă a copacilor: 500 ani", "Trasee amenajate: 0", "Parte a ariei protejate Femundsmarka-Gutulia: din 1971"],
       en: ["Established: 1968", "Area: 23 km²", "Highest point: 1,200 m", "Maximum tree age: 500 years", "Maintained trails: 0", "Part of Femundsmarka-Gutulia protected area: since 1971"],
     },
+    image: "/poi-images/norway-gutulia-national-park-life-v2.webp",
   },
   {
     id: "norway-stabbursdalen-national-park-life-v2",
@@ -768,5 +791,6 @@ export const norwayLifeV2: POI[] = [
       ro: ["Anul înființării: 2002", "Suprafață: 748 km²", "Cea mai nordică pădure de pin (70° N)", "Lungimea râului Stabburselva: 60 km", "Temperatură minimă: -30°C", "Altitudine maximă: 800 m"],
       en: ["Established: 2002", "Area: 748 km²", "World's northernmost pine forest at 70°N", "Stabburselva River length: 60 km", "Minimum winter temperature: -30°C", "Highest elevation: 800 m"],
     },
+    image: "/poi-images/norway-stabbursdalen-national-park-life-v2.webp",
   }
 ];

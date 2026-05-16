@@ -942,6 +942,7 @@ export const slovakiaLandmarksV2: POI[] = [
       ro: ["Columna a fost ridicată între 1710 și 1715.", "Are o înălțime de 12 metri.", "Columna cântărește aproximativ 15 tone.", "Restaurarea din 2010 a costat 100.000 de euro.", "Piața principală are dimensiunile de 50 × 70 de metri.", "Banská Štiavnica se află la o altitudine de 600 de metri."],
       en: ["The column was erected between 1710 and 1715.", "It is 12 meters high.", "The column weighs about 15 tons.", "The restoration in 2010 cost 100,000 euros.", "The main square is 50 × 70 meters.", "Banská Štiavnica is at an elevation of 600 meters."],
     },
+    image: "/poi-images/slovakia-holy-trinity-column-banska-stiavnica-landmarks-v2.webp",
   },
   {
     id: "slovakia-st-george-church-svaty-jur-landmarks-v2",
@@ -974,6 +975,7 @@ export const slovakiaLandmarksV2: POI[] = [
       ro: ["Secolul construcției: al XIII-lea", "Stil: gotic, modificări baroce", "Înălțime turn: 40 m", "Locație: Svätý Jur, Slovacia", "Fresce: medievale", "Confesiune: romano-catolică"],
       en: ["Built: 13th century", "Style: Gothic, later Baroque", "Tower height: 40 meters", "Location: Svätý Jur, Slovakia", "Frescoes: medieval", "Denomination: Roman Catholic"],
     },
+    image: "/poi-images/slovakia-st-george-church-svaty-jur-landmarks-v2.webp",
   },
   {
     id: "slovakia-palace-of-art-bratislava-landmarks-v2",
@@ -1006,6 +1008,7 @@ export const slovakiaLandmarksV2: POI[] = [
       ro: ["Deschis: 2002", "Spațiu expozițional: 3000 m²", "Locație: Bratislava, Ružinov", "Facilități: cinema, cafenea", "Specializare: artă modernă central și est-europeană", "Stil arhitectural: contemporan"],
       en: ["Opened: 2002", "Exhibition space: 3000 m²", "Location: Bratislava, Ružinov", "Facilities: cinema, café", "Focus: modern art of Central/Eastern Europe", "Architecture: contemporary"],
     },
+    image: "/poi-images/slovakia-palace-of-art-bratislava-landmarks-v2.webp",
   },
   {
     id: "slovakia-st-michel-church-kosice-landmarks-v2",
@@ -1038,5 +1041,6 @@ export const slovakiaLandmarksV2: POI[] = [
       ro: ["Secolul construcției: al XIV-lea", "Stil: gotic", "Lungime: 25 m", "Lățime: 10 m", "Reconstruită: 1775 după incendiu", "Utilizare inițială: capelă de cimitir"],
       en: ["Built: 14th century", "Style: Gothic", "Length: 25 meters", "Width: 10 meters", "Rebuilt: 1775 after fire", "Original use: cemetery chapel"],
     },
+    image: "/poi-images/slovakia-st-michel-church-kosice-landmarks-v2.webp",
   }
 ];

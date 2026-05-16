@@ -31,6 +31,7 @@ export const westernsaharaLandmarksV2: POI[] = [
       ro: ["Construită în anul 1970, în timpul perioadei coloniale spaniole.", "Situată în Place de Mechouar, în centrul orașului El Aaiún.", "Stilul arhitectural combină elemente moderne cu tradiția magrebiană.", "Acoperișul este acoperit cu țigle verzi, tipice edificiilor religioase.", "Minaretul este una dintre cele mai înalte structuri din vecinătatea imediată.", "Reprezintă principalul loc pentru rugăciunea de vineri din întreaga regiune."],
       en: ["Built in 1970 during the final years of Spanish colonial administration.", "Located in the Place de Mechouar in the heart of El Aaiún.", "The architectural style blends modernism with traditional Maghrebi motifs.", "Features a distinctive green-tiled roof common in North African mosques.", "The minaret serves as a major navigational landmark in the city center.", "Acts as the primary venue for Friday communal prayers for the city."],
     },
+    image: "/poi-images/westernsahara-el-aiun-grande-mosquee-landmarks-v2.webp",
   },
   {
     id: "westernsahara-smara-fort-landmarks-v2",
@@ -62,6 +63,7 @@ export const westernsaharaLandmarksV2: POI[] = [
       ro: ["Fondat în anul 1898 de către Sheikh Ma al-Aynayn.", "Singurul oraș din regiune care nu a fost fondat de europeni.", "Arhitectura din piatră este distinctă de construcțiile coloniale spaniole.", "A fost distrus în 1913 de trupele franceze sub comanda colonelului Mouret.", "A găzduit cândva o bibliotecă celebră cu manuscrise islamice valoroase.", "Situat strategic pe malul Oued Selwan, un curs de apă sezonier."],
       en: ["Founded in 1898 by the Sahrawi leader Sheikh Ma al-Aynayn.", "The only city in the territory not established by European colonizers.", "The fortress was constructed using unique local stone masonry techniques.", "Heavy damage was inflicted in 1913 by a French expeditionary force.", "The site once included a major Islamic university and library.", "Positioned at a vital junction for historic trans-Saharan trade routes."],
     },
+    image: "/poi-images/westernsahara-smara-fort-landmarks-v2.webp",
   },
   {
     id: "westernsahara-dakhla-lighthouse-landmarks-v2",
@@ -93,5 +95,6 @@ export const westernsaharaLandmarksV2: POI[] = [
       ro: ["Construit în timpul perioadei protectoratului spaniol în secolul XX.", "Înălțimea turnului este de aproximativ 50 de metri deasupra nivelului mării.", "Marchează intrarea în golful strategic important Dakhla.", "Farul are o rază de vizibilitate de peste 20 de mile marine.", "Este situat pe îngusta peninsulă Rio de Oro.", "Semn important de orientare pentru pescuitul industrial din regiune."],
       en: ["Constructed during the Spanish protectorate era in the 20th century.", "The tower reaches a height of approximately 50 meters.", "Marks the northern entrance to the Rio de Oro (Dakhla) bay.", "The light signal is visible for more than 20 nautical miles out to sea.", "Located on the extreme western edge of the African continent.", "Serves as a crucial reference point for the region's large sardine fleet."],
     },
+    image: "/poi-images/westernsahara-dakhla-lighthouse-landmarks-v2.webp",
   }
 ];

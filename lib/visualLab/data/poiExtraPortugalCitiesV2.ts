@@ -32,6 +32,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Populație: Municipiul are o populație de peste 116.000 locuitori.", "Istorie: Orașul a fost sediul primului ducat din Portugalia.", "Arhitectură: Igreja de Bom Jesus este un monument baroc circular.", "Artizanat: „Louça de Barcelos” este ceramica tradițională locală.", "Turism: Orașul este o etapă importantă pe Drumul spre Santiago.", "Localizare: Se află la aproximativ 20 km de coasta Atlanticului."],
       en: ["Population: Over 116,000 residents in the entire municipality.", "Charter: Granted by King Afonso Henriques in the year 1140.", "Bridge: The medieval bridge across the Cávado is a national monument.", "Folklore: Home to the legend of the miraculous silver rooster.", "Market: The weekly Thursday market dates back to the 15th century.", "Economy: A major center for the textile and clothing industry."],
     },
+    image: "/poi-images/portugal-barcelos-cities-v2.webp",
   },
   {
     id: "portugal-figueira-da-foz-cities-v2",
@@ -64,6 +65,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Figueira da Foz are 62.000 de locuitori.", "Plaja Praia da Claridade are 2 km lungime.", "Farul a fost construit în 1856.", "Cazinoul a fost deschis în 1884.", "Portul a fost extins în secolul al XVI-lea.", "Orașul se află la 1 m deasupra nivelului mării."],
       en: ["Figueira da Foz has 62,000 inhabitants.", "Praia da Claridade beach is 2 km long.", "The lighthouse was built in 1856.", "The casino opened in 1884.", "The port was expanded in the 16th century.", "The city is 1 meter above sea level."],
     },
+    image: "/poi-images/portugal-figueira-da-foz-cities-v2.webp",
   },
   {
     id: "portugal-caldas-da-rainha-cities-v2",
@@ -96,6 +98,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Caldas da Rainha a fost fondat în 1485.", "Orașul are 50.000 de locuitori.", "Apele termale au o temperatură de 35 °C.", "Spitalul Caldas da Rainha datează din secolul al XVI-lea.", "Fabrica Bordallo Pinheiro a fost fondată în 1884.", "Parcul orașului are 5 hectare."],
       en: ["Caldas da Rainha was founded in 1485.", "The city has 50,000 inhabitants.", "Thermal waters have a temperature of 35 °C.", "Caldas da Rainha Hospital dates from the 16th century.", "Bordallo Pinheiro factory was founded in 1884.", "The city park covers 5 hectares."],
     },
+    image: "/poi-images/portugal-caldas-da-rainha-cities-v2.webp",
   },
   {
     id: "portugal-angra-do-heroismo-cities-v2",
@@ -128,6 +131,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Patrimoniu: Inclus în lista UNESCO în 1983 pentru valoarea sa istorică.", "Geografie: Este situat în grupul central al arhipelagului Azore.", "Fortificație: Castelul São Sebastião a fost construit în anul 1555.", "Religie: Catedrala Sé datează de la sfârșitul secolului al XVI-lea.", "Natură: Monte Brasil este o peninsulă vulcanică ce domină golful.", "Tradiție: Orașul este faimos pentru luptele de tauri „tourada à corda”."],
       en: ["Heritage: Named a UNESCO World Heritage site in 1983.", "Status: Served twice as the capital city of Portugal in exile.", "Fortress: The Castle of São João Baptista is a vast coastal fort.", "Cathedral: The Cathedral of Angra was completed in 1618.", "Bay: The deep harbor made it a vital Atlantic maritime base.", "Event: Known for the Sanjoaninas festivals held every June."],
     },
+    image: "/poi-images/portugal-angra-do-heroismo-cities-v2.webp",
   },
   {
     id: "portugal-horta-cities-v2",
@@ -160,6 +164,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Horta are aproximativ 6.500 de locuitori (2021).", "Erupția vulcanului Capelinhos (1957-58) a extins insula cu 2,4 km².", "Portul a fost fondat în secolul al XV-lea.", "Biserica Nossa Senhora das Angústias datează din secolul al XVIII-lea.", "Peter's Cafe Sport a fost deschis în 1918.", "SATA Air Açores are sediul în Horta."],
       en: ["Horta has a population of approximately 6,500 (2021).", "The Capelinhos volcano eruption (1957–58) added 2.4 km² to Faial.", "The port was established in the 15th century.", "The Church of Nossa Senhora das Angústias was built in the 18th century.", "Peter's Cafe Sport opened in 1918.", "SATA Air Açores is headquartered in Horta."],
     },
+    image: "/poi-images/portugal-horta-cities-v2.webp",
   },
   {
     id: "portugal-vila-nova-de-gaia-cities-v2",
@@ -192,6 +197,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Vila Nova de Gaia are peste 300.000 de locuitori (2021).", "Beciurile de vin de Porto datează din secolul al XVIII-lea.", "Mănăstirea Serra do Pilar a fost construită în 1538.", "Orașul se află la o altitudine de aproximativ 50 de metri.", "Podul Luiz I leagă Gaia de Porto.", "Industria plutelor a fost importantă în secolul al XIX-lea."],
       en: ["Vila Nova de Gaia has over 300,000 inhabitants (2021).", "Port wine cellars have operated since the 18th century.", "Serra do Pilar Monastery was built in 1538.", "The city lies at an altitude of about 50 meters.", "The Luiz I Bridge connects Gaia to Porto.", "Cork industry flourished in the 19th century."],
     },
+    image: "/poi-images/portugal-vila-nova-de-gaia-cities-v2.webp",
   },
   {
     id: "portugal-matosinhos-cities-v2",
@@ -224,6 +230,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Matosinhos are aproximativ 175.000 de locuitori (2021).", "Portul Leixões a fost deschis în 1890.", "Biserica Igreja Matriz de Matosinhos a fost construită în 1560.", "Sanctuarul Senhor do Padrão a fost finalizat în 1983.", "Portul de pescuit este unul dintre cele mai mari din Portugalia.", "Suprafața orașului este de 62,42 km²."],
       en: ["Matosinhos has about 175,000 inhabitants (2021).", "Port of Leixões opened in 1890.", "Igreja Matriz de Matosinhos was built in 1560.", "Senhor do Padrão Sanctuary was completed in 1983.", "Fishing port is one of the largest in Portugal.", "City area is 62.42 km²."],
     },
+    image: "/poi-images/portugal-matosinhos-cities-v2.webp",
   },
   {
     id: "portugal-almada-cities-v2",
@@ -256,6 +263,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Monument: Statuia Cristo Rei a fost inspirată de cea din Rio de Janeiro.", "Înălțime: Piedestalul monumentului are o înălțime de 82 de metri.", "Acces: Orașul este conectat de Lisabona prin feriboturi și pod.", "Plaje: Costa da Caparica oferă cele mai bune condiții de surf.", "Economie: Portul Cacilhas este un punct nodal pentru transportul naval.", "Ziduri: Ruinele castelului oferă o vedere de 360 grade asupra regiunii."],
       en: ["Monument: Christ the King statue stands 110 meters above sea level.", "Bridge: Linked to Lisbon via the 2,277-meter-long 25th of April Bridge.", "Shipbuilding: Home to the historic Margueira shipyards of Lisnave.", "Beaches: Includes the famous 15 km shoreline of Costa da Caparica.", "Park: Parque da Paz is a 60-hectare green space in the city center.", "Defense: The Almada Castle dates back to the Islamic period."],
     },
+    image: "/poi-images/portugal-almada-cities-v2.webp",
   },
   {
     id: "portugal-amadora-cities-v2",
@@ -288,6 +296,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Demografie: Este al patrulea cel mai populat oraș din Portugalia.", "Infrastructură: Conectat direct la rețeaua de metrou a Lisabonei.", "Eveniment: AmadoraBD este cel mai vechi festival de benzi desenate.", "Vechime: S-a separat de municipiul Oeiras în anul 1979.", "Geografie: Nu are ieșire la mare, fiind înconjurat de alte orașe.", "Sport: Localitatea are numeroase baze sportive și parcuri urbane."],
       en: ["Density: One of the most densely populated cities in Western Europe.", "Independence: Became a separate municipality on September 17, 1979.", "Comics: Host of the Amadora International Comics Festival since 1989.", "Transit: Served by the Lisbon Metro Blue Line and suburban trains.", "Industry: Home to major electronics and manufacturing facilities.", "Origins: The name was changed from Porcalhota to Amadora in 1907."],
     },
+    image: "/poi-images/portugal-amadora-cities-v2.webp",
   },
   {
     id: "portugal-seixal-cities-v2",
@@ -320,6 +329,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Seixal are aproximativ 170.000 de locuitori (2021).", "Biserica Igreja Matriz de Seixal datează din secolul al XVI-lea.", "Manastirea Convento da Arrábida a fost fondată în secolul al XVI-lea.", "Portul natural Porto de Seixal are 500 de locuri de acostare.", "Suprafața orașului este de 93,59 km².", "Industria plutei a înflorit în secolul al XIX-lea."],
       en: ["Seixal has about 170,000 inhabitants (2021).", "Igreja Matriz de Seixal dates from the 16th century.", "Convento da Arrábida was founded in the 16th century.", "Porto de Seixal natural harbor has 500 berths.", "City area is 93.59 km².", "Cork industry flourished in the 19th century."],
     },
+    image: "/poi-images/portugal-seixal-cities-v2.webp",
   },
   {
     id: "portugal-montijo-cities-v2",
@@ -352,6 +362,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Montijo are aproximativ 55.000 de locuitori (2021).", "Biserica Igreja Matriz de Montijo datează din secolul al XVI-lea.", "Prelucrarea plutei a fost importantă în secolul al XIX-lea.", "Portul fluvial are o lungime de 1,5 km.", "Suprafața orașului este de 348,62 km².", "Noul aeroport Lisabona va fi construit la Montijo."],
       en: ["Montijo has about 55,000 inhabitants (2021).", "Igreja Matriz de Montijo dates from the 16th century.", "Cork processing was important in the 19th century.", "River port has a length of 1.5 km.", "City area is 348.62 km².", "New Lisbon airport is planned in Montijo."],
     },
+    image: "/poi-images/portugal-montijo-cities-v2.webp",
   },
   {
     id: "portugal-abrantes-cities-v2",
@@ -384,6 +395,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Castel: Fortificația a fost construită în secolul al XII-lea.", "Localizare: Se află în centrul Portugaliei, în districtul Santarém.", "Titlu: Este numit oficial „Orașul Florilor” datorită concursurilor urbane.", "Napoleon: Orașul a fost ocupat de trupele franceze în anul 1807.", "Infrastructură: Este un nod feroviar important pe linia Beira Baixa.", "Demografie: Municipiul are o populație de aproximativ 34.000 de locuitori."],
       en: ["Castle: The fortress offers a panoramic view of the Tagus Valley.", "Conquest: Taken from the Moors by King Afonso Henriques in 1148.", "Nickname: Known as 'Cidade Florida' (Flowery City) for its gardens.", "Industry: A key location for metalworking and energy production.", "Sweets: Famous for its traditional egg-based pastry, Palha de Abrantes.", "Water: Features the Aquapolis, a modern riverside leisure park."],
     },
+    image: "/poi-images/portugal-abrantes-cities-v2.webp",
   },
   {
     id: "portugal-mirandela-cities-v2",
@@ -416,6 +428,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Pod: Podul medieval peste râul Tua are o lungime considerabilă.", "Delicatesă: Alheira este o cârnați tradițional creat în perioada Inchiziției.", "Geografie: Orașul se află la o altitudine de aproximativ 210 metri.", "Educație: Găzduiește un campus al Institutului Politehnic Bragança.", "Populație: Municipiul are în jur de 22.000 de locuitori permanenți.", "Eveniment: Târgul Anual de Sfântul Ștefan este o tradiție majoră."],
       en: ["Bridge: The medieval 'Old Bridge' features 20 distinct stone arches.", "Gastronomy: Famous for Alheira, a sausage originally created by Jews.", "River: The Tua River flows through the city, offering lush gardens.", "Charter: Granted municipal rights by King Afonso III in 1250.", "Sport: Known as the 'Garden City' and a hub for international jet skiing.", "Economy: Significant production of cork, almonds, and olive oil."],
     },
+    image: "/poi-images/portugal-mirandela-cities-v2.webp",
   },
   {
     id: "portugal-espinho-cities-v2",
@@ -448,6 +461,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Espinho are aproximativ 30.000 de locuitori (2021).", "Calea ferată a ajuns la Espinho în 1864.", "Cazinoul de Espinho a fost deschis în 1900.", "Terenul de golf are 18 găuri.", "Suprafața orașului este de 21,07 km².", "Piața de pește datează din secolul al XIX-lea."],
       en: ["Espinho has about 30,000 inhabitants (2021).", "Railway reached Espinho in 1864.", "Casino de Espinho opened in 1900.", "Golf course has 18 holes.", "City area is 21.07 km².", "Fish market dates from the 19th century."],
     },
+    image: "/poi-images/portugal-espinho-cities-v2.webp",
   },
   {
     id: "portugal-povoa-de-varzim-cities-v2",
@@ -480,6 +494,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Plaje: Localitatea beneficiază de ape bogate în iod și nisip fin.", "Cazino: Casino da Póvoa este o clădire emblematică în stil neoclasic.", "Cultură: Siglas Poveiras este un sistem de scriere folosit de pescari.", "Populație: Orașul are o densitate ridicată de aproximativ 770 loc/km².", "Istorie: Portul a fost modernizat masiv în timpul secolului al XX-lea.", "Sport: Clubul Varzim SC este echipa de fotbal reprezentativă a orașului."],
       en: ["Fishery: One of the largest and most productive ports in northern Portugal.", "Casino: The city's casino has been a major attraction since 1934.", "Writing: Unique family mark system called 'Siglas Poveiras' was used here.", "Author: Birthplace of the acclaimed Portuguese writer Eça de Queirós.", "Coastline: Features over 10 km of beaches rich in natural iodine.", "Fortress: The Castelo da Póvoa was built to protect against pirates."],
     },
+    image: "/poi-images/portugal-povoa-de-varzim-cities-v2.webp",
   },
   {
     id: "portugal-vila-do-conde-cities-v2",
@@ -512,6 +527,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Mănăstire: Santa Clara este una dintre cele mai mari din Portugalia.", "Infrastructură: Apeductul istoric transporta apă pe o distanță de 4 km.", "Arta: „Renda de Bilros” este dantela tradițională lucrată manual.", "Navigație: Orașul a fost un punct cheie pentru Era Descoperirilor.", "Populație: Municipiul are peste 80.000 de locuitori în total.", "Geografie: Este mărginit la sud de orașul înfrățit Póvoa de Varzim."],
       en: ["Convent: Santa Clara Convent was founded in 1318 by Afonso Sanches.", "Aqueduct: Built in the 18th century, it originally had 999 arches.", "Lace: The city is the capital of Portuguese bobbin lace-making.", "Shipyard: Reconstructed 16th-century carrack 'Nau' is anchored here.", "Cinema: Hosts the renowned Vila do Conde International Short Film Festival.", "River: The Ave River provides a scenic 3 km riverside promenade."],
     },
+    image: "/poi-images/portugal-vila-do-conde-cities-v2.webp",
   },
   {
     id: "portugal-torres-vedras-cities-v2",
@@ -544,6 +560,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Torres Vedras are aproximativ 80.000 de locuitori (2021).", "Fortificațiile Torres Vedras au fost construite între 1809 și 1812.", "Castelul Torres Vedras datează din secolul al XII-lea.", "Biserica Santa Maria do Castelo a fost construită în secolul al XV-lea.", "Carnavalul Torres Vedras are loc din 1920.", "Suprafața orașului este de 409,4 km²."],
       en: ["Torres Vedras has about 80,000 inhabitants (2021).", "Lines of Torres Vedras were built 1809-1812.", "Torres Vedras Castle dates from the 12th century.", "Church of Santa Maria do Castelo was built in the 15th century.", "Torres Vedras Carnival has been held since 1920.", "City area is 409.4 km²."],
     },
+    image: "/poi-images/portugal-torres-vedras-cities-v2.webp",
   },
   {
     id: "portugal-entroncamento-cities-v2",
@@ -576,6 +593,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Populație: 20.000", "Statut de oraș: 1991", "Nod feroviar din 1864", "Suprafața muzeului: 3.500 m²", "Distanța până la Lisabona: 110 km", "Altitudine: 30 m"],
       en: ["Population: 20,000", "City status: 1991", "Railway junction since 1864", "Museum area: 3,500 m²", "Distance to Lisbon: 110 km", "Elevation: 30 m"],
     },
+    image: "/poi-images/portugal-entroncamento-cities-v2.webp",
   },
   {
     id: "portugal-moura-cities-v2",
@@ -608,6 +626,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Moura are aproximativ 15.000 de locuitori (2021).", "Castelul Castelo de Moura datează din secolul al XIII-lea.", "Biserica Igreja de São João Baptista a fost construită în secolul al XVI-lea.", "Lacul de acumulare Alqueva are o suprafață de 250 km².", "Producția de ulei de măsline reprezintă 40% din economia locală.", "Olăritul tradițional se practică din secolul al XVIII-lea."],
       en: ["Moura has about 15,000 inhabitants (2021).", "Castelo de Moura dates from the 13th century.", "Igreja de São João Baptista was built in the 16th century.", "Alqueva Reservoir has an area of 250 km².", "Olive oil production accounts for 40% of the local economy.", "Traditional pottery has been practiced since the 18th century."],
     },
+    image: "/poi-images/portugal-moura-cities-v2.webp",
   },
   {
     id: "portugal-serpa-cities-v2",
@@ -640,6 +659,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Serpa are aproximativ 15.000 de locuitori (2021).", "Castelul Serpa a fost construit în secolul al XIII-lea.", "Brânza Queijo de Serpa este protejată din 1995.", "Muzeul Ceasurilor are o colecție de peste 1.000 de ceasuri.", "Suprafața orașului este de 449,8 km².", "Producția de ulei de măsline datează din perioada romană."],
       en: ["Serpa has about 15,000 inhabitants (2021).", "Castelo de Serpa was built in the 13th century.", "Queijo de Serpa has been protected since 1995.", "Clock Museum has a collection of over 1,000 clocks.", "City area is 449.8 km².", "Olive oil production dates back to Roman times."],
     },
+    image: "/poi-images/portugal-serpa-cities-v2.webp",
   },
   {
     id: "portugal-estremoz-cities-v2",
@@ -672,6 +692,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Material: Marmura de Estremoz este comparată cu cea de Carrara.", "Istorie: Orașul a jucat un rol vital în războaiele de restaurare.", "Fortificații: Zidurile exterioare au fost modernizate în stil Vauban.", "Religie: Capela Sfintei Elisabeta este placată integral cu azulejos.", "Economie: Este un centru important pentru producția de vin Alentejo.", "Arhitectură: Majoritatea clădirilor vechi folosesc marmură locală."],
       en: ["Marble: Source of the famous 'Estremoz Pink' and 'White' marble.", "Keep: The 27-meter Tower of the Three Crowns is built of white marble.", "Heritage: Estremoz Clay Figures are listed by UNESCO as Intangible Heritage.", "History: Deathplace of Saint Queen Isabel of Portugal in 1336.", "Square: Rossio de Marquês de Pombal is one of the largest squares.", "Defenses: Features layers of walls from medieval and Vauban periods."],
     },
+    image: "/poi-images/portugal-estremoz-cities-v2.webp",
   },
   {
     id: "portugal-vila-vicosa-cities-v2",
@@ -704,6 +725,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Reședință: Palatul Ducal a fost locuința preferată a regilor Portugaliei.", "Material: Aproape fiecare trotuar și bordură este făcută din marmură.", "Castel: Cetatea medievală găzduiește două muzee (Arheologie și Vânătoare).", "Panteon: Biserica Sf. Augustin adăpostește mormintele ducilor.", "Eveniment: Pelerinajele la Nossa Senhora da Conceição sunt faimoase.", "Localizare: Se află la doar 50 km distanță de granița cu Spania."],
       en: ["Palace: The Ducal Palace features a 110-meter facade clad in marble.", "Royal: The House of Braganza ruled from here before taking the throne.", "Resources: Surrounded by some of the richest marble quarries in the world.", "Sanctuary: Home to the Patroness of Portugal, Our Lady of Conception.", "Castle: The 13th-century castle still retains its moat and walls.", "Layout: Known for its wide streets and neoclassical urban planning."],
     },
+    image: "/poi-images/portugal-vila-vicosa-cities-v2.webp",
   },
   {
     id: "portugal-ponte-de-lima-cities-v2",
@@ -736,6 +758,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Ponte de Lima are aproximativ 45.000 de locuitori (2021).", "Podul roman datează din secolul I d.Hr.", "Igreja Matriz a fost construită în secolul al XIII-lea.", "Convento de Santo António datează din secolul al XVI-lea.", "Râul Lima are 108 km lungime.", "Feira do Cavalo are loc din 1550."],
       en: ["Ponte de Lima has about 45,000 inhabitants (2021).", "Roman bridge dates from the 1st century AD.", "Igreja Matriz was built in the 13th century.", "Convento de Santo António dates from the 16th century.", "Lima River is 108 km long.", "Feira do Cavalo has been held since 1550."],
     },
+    image: "/poi-images/portugal-ponte-de-lima-cities-v2.webp",
   },
   {
     id: "portugal-arcos-de-valdevez-cities-v2",
@@ -768,6 +791,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Arcos de Valdevez are aproximativ 22.000 de locuitori (2021).", "Podul Ponte de Arcos datează din secolul al XV-lea.", "Biserica Igreja Matriz a fost construită în secolul al XVIII-lea.", "Parcul Național Peneda-Gerês a fost fondat în 1971.", "Suprafața orașului este de 407,2 km².", "Împletitura de coșuri este documentată din secolul al XVI-lea."],
       en: ["Arcos de Valdevez has about 22,000 inhabitants (2021).", "Ponte de Arcos bridge dates from the 15th century.", "Igreja Matriz was built in the 18th century.", "Peneda-Gerês National Park was founded in 1971.", "City area is 407.2 km².", "Basket weaving has been documented since the 16th century."],
     },
+    image: "/poi-images/portugal-arcos-de-valdevez-cities-v2.webp",
   },
   {
     id: "portugal-albufeira-cities-v2",
@@ -800,6 +824,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Albufeira are aproximativ 40.000 de locuitori (2021).", "Plaja Praia da Oura are 800 de metri lungime.", "Centrul vechi a fost construit în secolul al XVI-lea.", "Există 6 terenuri de golf în zonă.", "Turismul reprezintă 90% din economie.", "Orașul primește peste 1,5 milioane de turiști anual."],
       en: ["Albufeira has about 40,000 inhabitants (2021).", "Praia da Oura beach is 800 meters long.", "Old town was built in the 16th century.", "There are 6 golf courses in the area.", "Tourism accounts for 90% of the economy.", "The city welcomes over 1.5 million tourists annually."],
     },
+    image: "/poi-images/portugal-albufeira-cities-v2.webp",
   }
 ,
   {
@@ -833,6 +858,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Oia are aproximativ 5.000 de locuitori (2021).", "Biserica Igreja Matriz a fost construită în secolul al XVIII-lea.", "Râul Minho formează granița cu Spania.", "Regiunea viticolă Vinho Verde produce în zonă.", "Suprafața orașului este de 83,6 km².", "Piața de pește oferă fructe de mare locale."],
       en: ["Oia has about 5,000 inhabitants (2021).", "Igreja Matriz was built in the 18th century.", "Minho River forms the border with Spain.", "Vinho Verde wine region produces in the area.", "City area is 83.6 km².", "Fish market offers fresh local seafood."],
     },
+    image: "/poi-images/portugal-oia-cities-v2.webp",
   },
   {
     id: "portugal-valongo-cities-v2",
@@ -865,6 +891,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Valongo are aproximativ 95.000 de locuitori (2021).", "Exploatarea ardeziei a început în secolul al XVIII-lea.", "Biserica Igreja Matriz a fost construită în secolul al XVI-lea.", "Minele de aur datează din perioada romană.", "Suprafața orașului este de 75,1 km².", "Industria reprezintă 40% din economia locală."],
       en: ["Valongo has about 95,000 inhabitants (2021).", "Slate mining began in the 18th century.", "Igreja Matriz was built in the 16th century.", "Gold mines date from Roman times.", "City area is 75.1 km².", "Industry accounts for 40% of the local economy."],
     },
+    image: "/poi-images/portugal-valongo-cities-v2.webp",
   },
   {
     id: "portugal-maia-cities-v2",
@@ -897,6 +924,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Economie: Găzduiește sediile unor mari companii multinaționale.", "Transport: Este deservit de mai multe linii ale metroului din Porto.", "Înălțime: Torre do Lidador are 20 de etaje și domină peisajul urban.", "Natură: Quinta da Gruta este un parc public cu facilități sportive.", "Cultură: Forumul Maia este principalul centru de expoziții și teatru.", "Localizare: Se află la doar 10 km distanță de centrul orașului Porto."],
       en: ["Economy: One of the most industrialized and export-oriented municipalities.", "Airport: Part of the Porto International Airport is located within its borders.", "Landmark: The Lidador Tower is 92 meters tall, housing city services.", "Zoo: The Maia Zoo is the largest and most visited in Northern Portugal.", "Transit: Fully integrated into the Porto Metro light rail network.", "History: Named after the noble Maia family during the Middle Ages."],
     },
+    image: "/poi-images/portugal-maia-cities-v2.webp",
   },
   {
     id: "portugal-gondomar-cities-v2",
@@ -929,6 +957,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Meșteșug: „Filigrana de Gondomar” este protejată ca marcă înregistrată.", "Geografie: Municipiul se întinde de la periferia Porto până la munți.", "Religie: Biserica Matriz de Gondomar datează din secolul al XVIII-lea.", "Natură: Parcul Silva Porto este o zonă verde importantă pentru oraș.", "Eveniment: Târgul de bijuterii atrage colecționari din întreaga lume.", "Sport: Orașul are o tradiție puternică în fotbal și sporturi nautice."],
       en: ["Jewelry: Known as the 'Capital of Filigree' for its gold craftsmanship.", "Riverfront: Boasts 37 km of riverbank along the Douro River.", "Landmark: The Gondomar Multipurpose Pavilion was designed by Siza Vieira.", "Culture: Home to a specialized museum dedicated to gold filigree.", "Industry: A major hub for wood furniture manufacturing in Portugal.", "Population: One of the largest municipalities in the Porto metropolitan area."],
     },
+    image: "/poi-images/portugal-gondomar-cities-v2.webp",
   },
   {
     id: "portugal-penafiel-cities-v2",
@@ -961,6 +990,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Istorie: Orașul a fost numit „Fidelis” (Penafiel) pentru loialitatea sa.", "Arhitectură: Centrul istoric este construit aproape integral din granit.", "Religie: Sanctuarul Nossa Senhora da Piedade este o bijuterie barocă.", "Muzeu: Muzeul Municipal Penafiel a primit premiul pentru cel mai bun muzeu.", "Natură: Râul Sousa oferă peisaje ideale pentru drumeții și relaxare.", "Vin: Este inima producției de Vinho Verde, un vin alb acidulat."],
       en: ["Archaeology: Monte Mozinho is a massive 1st-century Romanized settlement.", "Wine: Famous for its Vinho Verde, notably from the Aveleda estate.", "Charter: Elevated to city status in 1770 by the Marquis of Pombal.", "Museum: The Penafiel Municipal Museum won the Best European Museum award.", "Industry: A major Portuguese center for granite extraction and export.", "Event: Agrival is the largest agricultural fair in Northern Portugal."],
     },
+    image: "/poi-images/portugal-penafiel-cities-v2.webp",
   },
   {
     id: "portugal-trofa-cities-v2",
@@ -993,6 +1023,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Infrastructură: Este un punct de legătură crucial între Porto și Braga.", "Economie: Sectorul metalurgic reprezintă o mare parte din PIB-ul local.", "Vechime: Ca așezare este veche, dar ca municipiu are doar 25 de ani.", "Geografie: Relieful este variat, incluzând zone de luncă și dealuri.", "Cultură: Găzduiește anual festivalul național de teatru pentru tineret.", "Sport: Ciclistul trofense José Maria Azevedo este o legendă locală."],
       en: ["Independence: Became a separate municipality as recently as 1998.", "Transit: A major railway junction connecting Porto, Braga, and Guimarães.", "Industry: Home to leading clusters in pharmaceuticals and metalworking.", "River: The Rio Ave flows through the southern part of the city.", "Park: The Parque das Azenhas is a 20-hectare riverside green space.", "Export: One of the most economically productive areas per square km."],
     },
+    image: "/poi-images/portugal-trofa-cities-v2.webp",
   },
   {
     id: "portugal-ermesinde-cities-v2",
@@ -1025,6 +1056,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Statut de oraș din 1990", "Altitudine medie: 85 metri", "Suprafață: 7,65 km pătrați", "Populație: ~39.000 locuitori", "Nod feroviar pentru liniile de nord", "Face parte din districtul Porto"],
       en: ["City status granted in 1990", "Average elevation: 85 meters", "Total area: 7.65 sq km", "Population: approx. 39,000", "Major railway junction", "Located in Porto District"],
     },
+    image: "/poi-images/portugal-ermesinde-cities-v2.webp",
   },
   {
     id: "portugal-valenca-cities-v2",
@@ -1057,6 +1089,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Valença are aproximativ 14.000 de locuitori (2021).", "Fortăreața a fost construită în secolul al XVII-lea.", "Orașul se află la o altitudine de 35 de metri.", "Punctul de trecere a frontierei leagă de Tui în Spania.", "Suprafața orașului este de 117,2 km².", "Comerțul cu textile reprezintă 60% din economia locală."],
       en: ["Valença has about 14,000 inhabitants (2021).", "Fortress was built in the 17th century.", "City lies at an elevation of 35 meters.", "Border crossing connects to Tui in Spain.", "City area is 117.2 km².", "Textile trade accounts for 60% of the local economy."],
     },
+    image: "/poi-images/portugal-valenca-cities-v2.webp",
   },
   {
     id: "portugal-caminha-cities-v2",
@@ -1089,6 +1122,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Râul Minho este granița naturală", "Turnul Ceasului din sec. XV", "Biserică gotică monumentală", "Altitudine: 5 metri", "Suprafață totală: 136,52 km²", "Fondat oficial în anul 1284"],
       en: ["Located on the Minho River", "15th-century Clock Tower", "Fortified border position", "Elevation: 5 meters", "Total area: 136.52 sq km", "Charters granted in 1284"],
     },
+    image: "/poi-images/portugal-caminha-cities-v2.webp",
   },
   {
     id: "portugal-vilar-formoso-cities-v2",
@@ -1121,6 +1155,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Cea mai tranzitată frontieră", "Gară decorată cu azulejos", "Altitudine: 780 metri", "Vecin cu localitatea spaniolă", "Aparține de districtul Guarda", "Populație: 2.000 locuitori"],
       en: ["Main road border crossing", "Station famous for tile panels", "Elevation: 780 meters", "Adjacent to Spain's Fuentes de Oñoro", "Located in Guarda District", "Population: approx. 2,000"],
     },
+    image: "/poi-images/portugal-vilar-formoso-cities-v2.webp",
   },
   {
     id: "portugal-sao-joao-da-madeira-cities-v2",
@@ -1153,6 +1188,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["São João da Madeira are aproximativ 21.000 de locuitori (2021).", "Industria de încălțăminte a început în secolul al XIX-lea.", "Muzeul Pălăriilor a fost deschis în 1993.", "Fabrica J. Alves & Cia a fost fondată în 1885.", "Suprafața orașului este de 7,84 km².", "Exporturile de pantofi reprezintă 70% din producție."],
       en: ["São João da Madeira has about 21,000 inhabitants (2021).", "Shoe industry started in the 19th century.", "Hat Museum opened in 1993.", "J. Alves & Cia factory was founded in 1885.", "City area is 7.84 km².", "Shoe exports account for 70% of production."],
     },
+    image: "/poi-images/portugal-sao-joao-da-madeira-cities-v2.webp",
   },
   {
     id: "portugal-oaz-cities-v2",
@@ -1185,6 +1221,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Centru industrial major", "Suprafață: 161,10 km²", "Populație: ~66.000 locuitori", "Municipiu creat în 1779", "Altitudine medie: 210 metri", "District: Aveiro"],
       en: ["Glass and footwear industry", "Total area: 161.10 sq km", "Population: approx. 66,000", "Municipality formed in 1779", "Average elevation: 210 meters", "Part of Aveiro District"],
     },
+    image: "/poi-images/portugal-oaz-cities-v2.webp",
   },
   {
     id: "portugal-feira-cities-v2",
@@ -1217,6 +1254,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Centru mondial al plutei", "Castel din secolul al XI-lea", "Festivalul Viagem Medieval", "Populație: ~140.000 locuitori", "Suprafață: 215,88 km²", "Face parte din AMP"],
       en: ["World capital of cork", "11th-century medieval castle", "Hosts Viagem Medieval festival", "Population: approx. 140,000", "Total area: 215.88 sq km", "Metropolitan area of Porto"],
     },
+    image: "/poi-images/portugal-feira-cities-v2.webp",
   },
   {
     id: "portugal-murtosa-cities-v2",
@@ -1249,6 +1287,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Murtosa are aproximativ 10.000 de locuitori (2021).", "Producția de sare a început în secolul al XII-lea.", "Ria de Aveiro are 45 km lungime.", "Bărcile Moliceiro sunt folosite din secolul al XVIII-lea.", "Suprafața orașului este de 73,1 km².", "Pescuitul reprezintă 30% din economia locală."],
       en: ["Murtosa has about 10,000 inhabitants (2021).", "Salt production began in the 12th century.", "Ria de Aveiro is 45 km long.", "Moliceiro boats have been used since the 18th century.", "City area is 73.1 km².", "Fishing accounts for 30% of the local economy."],
     },
+    image: "/poi-images/portugal-murtosa-cities-v2.webp",
   },
   {
     id: "portugal-esmoriz-cities-v2",
@@ -1281,6 +1320,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Laguna Barrinha de Esmoriz", "Statut de oraș din 1993", "Destinație majoră de surf", "Altitudine: 10 metri", "Populație: ~11.500 locuitori", "District: Aveiro"],
       en: ["Barrinha de Esmoriz lagoon", "City status since 1993", "Renowned surfing destination", "Elevation: 10 meters", "Population: approx. 11,500", "Located in Aveiro District"],
     },
+    image: "/poi-images/portugal-esmoriz-cities-v2.webp",
   },
   {
     id: "portugal-o-var-cities-v2",
@@ -1313,6 +1353,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Orașul muzeu al azulejos", "Celebrul Carnaval din Ovar", "Specialitate culinară: Pão de Ló", "Suprafață: 147,70 km²", "Populație: ~55.000 locuitori", "Situat lângă Ria de Aveiro"],
       en: ["City Museum of Azulejos", "Famous Ovar Carnival", "Specialty: Pão de Ló sponge cake", "Total area: 147.70 sq km", "Population: approx. 55,000", "Located near Ria de Aveiro"],
     },
+    image: "/poi-images/portugal-o-var-cities-v2.webp",
   },
   {
     id: "portugal-viseu-dist-cities-v2",
@@ -1345,6 +1386,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Parte din regiunea Dão", "Muntele Serra do Caramulo", "Suprafață: 371,22 km²", "Populație: ~26.000 locuitori", "Foral acordat în 1515", "District: Viseu"],
       en: ["Center of Dão wine region", "Near Serra do Caramulo", "Total area: 371.22 sq km", "Population: approx. 26,000", "Foral granted in 1515", "Located in Viseu District"],
     },
+    image: "/poi-images/portugal-viseu-dist-cities-v2.webp",
   },
   {
     id: "portugal-lamego-dist-cities-v2",
@@ -1377,6 +1419,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Mănăstirea São João de Tarouca", "Vin spumant Murganheira", "Altitudine: 500 metri", "Suprafață: 100,08 km²", "Populație: ~7.500 locuitori", "Podul roman din Ucanha"],
       en: ["São João de Tarouca Monastery", "Murganheira sparkling wine", "Elevation: 500 meters", "Total area: 100.08 sq km", "Population: approx. 7,500", "Roman bridge in Ucanha"],
     },
+    image: "/poi-images/portugal-lamego-dist-cities-v2.webp",
   },
   {
     id: "portugal-moimenta-da-beira-cities-v2",
@@ -1409,6 +1452,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Moimenta da Beira are aproximativ 10.000 de locuitori (2021).", "Biserica Igreja Matriz a fost construită în secolul al XVII-lea.", "Muzeul Museu do Imaginário Duriense a fost deschis în 2005.", "Podgoriile regiunii acoperă 150 km².", "Suprafața orașului este de 220,3 km².", "Producția de ulei de măsline este de 1.000 de tone pe an."],
       en: ["Moimenta da Beira has about 10,000 inhabitants (2021).", "Igreja Matriz was built in the 17th century.", "Museu do Imaginário Duriense opened in 2005.", "Region's vineyards cover 150 km².", "City area is 220.3 km².", "Olive oil production yields 1,000 tons per year."],
     },
+    image: "/poi-images/portugal-moimenta-da-beira-cities-v2.webp",
   },
   {
     id: "portugal-serta-cities-v2",
@@ -1441,6 +1485,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Sertã are aproximativ 15.000 de locuitori (2021).", "Castelul Castelo da Sertã datează din secolul al XIII-lea.", "Biserica barocă Igreja da Misericórdia a fost construită în secolul al XVIII-lea.", "Lacul de acumulare Barragem da Sertã are o suprafață de 1,5 km².", "Suprafața orașului este de 442,6 km².", "Producția de miere ajunge la 50 de tone pe an."],
       en: ["Sertã has about 15,000 inhabitants (2021).", "Castelo da Sertã dates from the 13th century.", "Baroque Igreja da Misericórdia was built in the 18th century.", "Barragem da Sertã reservoir has an area of 1.5 km².", "City area is 442.6 km².", "Honey production reaches 50 tons per year."],
     },
+    image: "/poi-images/portugal-serta-cities-v2.webp",
   },
   {
     id: "portugal-proenca-a-nova-cities-v2",
@@ -1473,6 +1518,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Centru geodezic în apropiere", "Sate din șist (Aldeias de Xisto)", "Suprafață: 395,40 km²", "Populație: ~7.000 locuitori", "Altitudine: 450 metri", "District: Castelo Branco"],
       en: ["Near the geodesic center", "Schist Villages (Aldeias de Xisto)", "Total area: 395.40 sq km", "Population: approx. 7,000", "Elevation: 450 meters", "Part of Castelo Branco District"],
     },
+    image: "/poi-images/portugal-proenca-a-nova-cities-v2.webp",
   },
   {
     id: "portugal-fundao-cities-v2",
@@ -1505,6 +1551,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Capitala cireșelor", "Valea Cova da Beira", "Suprafață: 700,20 km²", "Populație: ~26.500 locuitori", "Altitudine: 500 metri", "Tradiție în industria textilă"],
       en: ["Portugal's cherry capital", "Located in Cova da Beira valley", "Total area: 700.20 sq km", "Population: approx. 26,500", "Elevation: 500 meters", "Textile and wool tradition"],
     },
+    image: "/poi-images/portugal-fundao-cities-v2.webp",
   },
   {
     id: "portugal-idanha-a-nova-cities-v2",
@@ -1537,6 +1584,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Cetatea Idanha-a-Nova a fost construită în 1187.", "Orașul a fost un centru templier în secolul al XII-lea.", "Idanha-a-Nova este situată la o altitudine de aproximativ 300 de metri.", "Populația era de circa 2.000 de locuitori în 2021.", "Biserica romanică Santa Maria datează din secolul al XIII-lea.", "Municipiul are o suprafață de 141,6 km²."],
       en: ["The castle of Idanha-a-Nova was built in 1187.", "The town was a Templar center in the 12th century.", "Idanha-a-Nova lies at an elevation of about 300 meters.", "The population is around 2,000 (2021).", "The Romanesque Igreja de Santa Maria dates from the 13th century.", "The municipality covers an area of 141.6 km²."],
     },
+    image: "/poi-images/portugal-idanha-a-nova-cities-v2.webp",
   },
   {
     id: "portugal-penamacor-cities-v2",
@@ -1569,6 +1617,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Vila Madeiro (foc de Crăciun)", "Castel medieval strategic", "Suprafață: 534,93 km²", "Populație: ~5.000 locuitori", "Altitudine: 550 metri", "Rezervația Serra da Malcata"],
       en: ["Hosts Vila Madeiro bonfire", "Strategic medieval castle", "Total area: 534.93 sq km", "Population: approx. 5,000", "Elevation: 550 meters", "Near Serra da Malcata reserve"],
     },
+    image: "/poi-images/portugal-penamacor-cities-v2.webp",
   },
   {
     id: "portugal-belmonte-cities-v2",
@@ -1601,6 +1650,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Castelul Belmonte a fost construit în secolul al XIII-lea.", "Pedro Álvares Cabral s-a născut în 1467 sau 1468 la Belmonte.", "Muzeul Evreiesc din Belmonte a fost deschis în 2005.", "Sinagoga din Belmonte datează din secolul al XX-lea.", "Comunitatea evreiască din Belmonte numără aproximativ 300 de persoane.", "Belmonte este situat la o altitudine de circa 500 de metri."],
       en: ["Belmonte Castle was built in the 13th century.", "Pedro Álvares Cabral was born in Belmonte in 1467 or 1468.", "The Jewish Museum of Belmonte opened in 2005.", "The Belmonte synagogue dates from the 20th century.", "The Jewish community of Belmonte numbers around 300 people.", "Belmonte lies at an elevation of about 500 meters."],
     },
+    image: "/poi-images/portugal-belmonte-cities-v2.webp",
   },
   {
     id: "portugal-sabugal-cities-v2",
@@ -1633,6 +1683,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Castel cu turn pentagonal", "Situat pe râul Côa", "Suprafață: 822,70 km²", "Populație: ~11.500 locuitori", "Fondat în anul 1296", "Altitudine: 750 metri"],
       en: ["Castle with pentagonal tower", "Set on the Côa River", "Total area: 822.70 sq km", "Population: approx. 11,500", "Founded in 1296", "Elevation: 750 meters"],
     },
+    image: "/poi-images/portugal-sabugal-cities-v2.webp",
   },
   {
     id: "portugal-pinhel-cities-v2",
@@ -1665,6 +1716,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Poreclit 'Cidade Falcão'", "Două turnuri medievale masive", "Suprafață: 484,50 km²", "Populație: ~9.000 locuitori", "Altitudine: 600 metri", "Producție importantă de vin"],
       en: ["Nicknamed 'Falcon City'", "Twin castle keeps remaining", "Total area: 484.50 sq km", "Population: approx. 9,000", "Elevation: 600 meters", "Major wine-producing area"],
     },
+    image: "/poi-images/portugal-pinhel-cities-v2.webp",
   },
   {
     id: "portugal-trancoso-cities-v2",
@@ -1697,6 +1749,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Zidurile orașului Trancoso au fost construite în secolul al XIII-lea.", "Trancoso este situat la o altitudine de aproximativ 750 de metri.", "Populația era de circa 10.000 de locuitori în 2021.", "Biserica gotică São Pedro a fost construită în secolul al XIV-lea.", "Mina de sare de la Trancoso a funcționat până în 1970.", "Municipiul are o suprafață de 361,5 km²."],
       en: ["The town walls of Trancoso were built in the 13th century.", "Trancoso lies at an elevation of about 750 meters.", "The population is around 10,000 (2021).", "The Gothic Igreja de São Pedro was built in the 14th century.", "The Trancoso salt mine operated until 1970.", "The municipality covers an area of 361.5 km²."],
     },
+    image: "/poi-images/portugal-trancoso-cities-v2.webp",
   },
   {
     id: "portugal-meda-cities-v2",
@@ -1729,6 +1782,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Include satul Marialva", "Regiune viticolă și olivicolă", "Suprafață: 286,05 km²", "Populație: ~5.000 locuitori", "Altitudine: 670 metri", "District: Guarda"],
       en: ["Includes Marialva village", "Wine and olive oil region", "Total area: 286.05 sq km", "Population: approx. 5,000", "Elevation: 670 meters", "Located in Guarda District"],
     },
+    image: "/poi-images/portugal-meda-cities-v2.webp",
   },
   {
     id: "portugal-f-de-espada-cities-v2",
@@ -1761,6 +1815,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Tradiție unică a mătăsii", "Biserică în stil manuelin", "Suprafață: 244,14 km²", "Populație: ~3.200 locuitori", "Parcul Douro Internacional", "Altitudine: 470 metri"],
       en: ["Manual silk weaving tradition", "Notable Manueline church", "Total area: 244.14 sq km", "Population: approx. 3,200", "Douro International Park", "Elevation: 470 meters"],
     },
+    image: "/poi-images/portugal-f-de-espada-cities-v2.webp",
   },
   {
     id: "portugal-mogadouro-cities-v2",
@@ -1793,6 +1848,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Castelul Mogadouro a fost construit în secolul al XII-lea.", "Mogadouro este situat la o altitudine de aproximativ 700 de metri.", "Populația era de circa 9.000 de locuitori în 2021.", "Municipiul are o suprafață de 760,7 km².", "Râul Douro formează granița de sud.", "Mogadouro face parte din Parcul Natural Douro Internacional."],
       en: ["Mogadouro Castle was built in the 12th century.", "Mogadouro lies at an elevation of about 700 meters.", "The population is around 9,000 (2021).", "The municipality covers an area of 760.7 km².", "The Douro River forms the southern boundary.", "Mogadouro is part of the Douro International Natural Park."],
     },
+    image: "/poi-images/portugal-mogadouro-cities-v2.webp",
   },
   {
     id: "portugal-alfandega-cities-v2",
@@ -1825,6 +1881,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Faimos pentru flori de migdal", "Barajul Baixo Sabor", "Suprafață: 322,00 km²", "Populație: ~4.300 locuitori", "Altitudine: 550 metri", "Regiunea Trás-os-Montes"],
       en: ["Famous for almond blossoms", "Baixo Sabor dam nearby", "Total area: 322.00 sq km", "Population: approx. 4,300", "Elevation: 550 meters", "Part of Trás-os-Montes"],
     },
+    image: "/poi-images/portugal-alfandega-cities-v2.webp",
   },
   {
     id: "portugal-vila-flor-cities-v2",
@@ -1857,6 +1914,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Castelul Vila Flor a fost construit în secolul al XIII-lea.", "Vila Flor este situat la o altitudine de aproximativ 500 de metri.", "Populația era de circa 2.500 de locuitori în 2021.", "Municipiul are o suprafață de 266,0 km².", "Parcul Natural Montesinho se întinde pe 74.800 de hectare.", "Vila Flor face parte din districtul Bragança."],
       en: ["Vila Flor Castle was built in the 13th century.", "Vila Flor lies at an elevation of about 500 meters.", "The population is around 2,500 (2021).", "The municipality covers an area of 266.0 km².", "Montesinho Natural Park spans 74,800 hectares.", "Vila Flor is part of the Bragança district."],
     },
+    image: "/poi-images/portugal-vila-flor-cities-v2.webp",
   },
   {
     id: "portugal-mirandela-dist-cities-v2",
@@ -1889,6 +1947,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Ruinele cetății medievale", "Producție de vin și mere", "Suprafață: 279,24 km²", "Populație: ~5.500 locuitori", "Altitudine: 700 metri", "District: Bragança"],
       en: ["Medieval castle ruins", "Wine and apple cultivation", "Total area: 279.24 sq km", "Population: approx. 5,500", "Elevation: 700 meters", "Located in Bragança District"],
     },
+    image: "/poi-images/portugal-mirandela-dist-cities-v2.webp",
   },
   {
     id: "portugal-vinhais-cities-v2",
@@ -1921,6 +1980,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Capitala mezelurilor afumate", "Parcul Natural Montesinho", "Suprafață: 694,76 km²", "Populație: ~7.700 locuitori", "Altitudine: 600 metri", "Târgul anual Fumeiro"],
       en: ["Smoked meat capital", "Located in Montesinho Park", "Total area: 694.76 sq km", "Population: approx. 7,700", "Elevation: 600 meters", "Hosts Feira do Fumeiro"],
     },
+    image: "/poi-images/portugal-vinhais-cities-v2.webp",
   },
   {
     id: "portugal-mirandela-o-cities-v2",
@@ -1953,6 +2013,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Rezervația și plajele Azibo", "Sediu Geoparc UNESCO", "Suprafață: 699,14 km²", "Populație: ~14.000 locuitori", "Altitudine: 550 metri", "District: Bragança"],
       en: ["Azibo Reservoir beaches", "UNESCO Geopark site", "Total area: 699.14 sq km", "Population: approx. 14,000", "Elevation: 550 meters", "Part of Bragança District"],
     },
+    image: "/poi-images/portugal-mirandela-o-cities-v2.webp",
   },
   {
     id: "portugal-mirandela-n-cities-v2",
@@ -1985,6 +2046,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Limba oficială: mirandeza", "Dansul Pauliteiros", "Suprafață: 484,04 km²", "Populație: ~6.500 locuitori", "Altitudine: 675 metri", "Catedrala Sé de Miranda"],
       en: ["Home of Mirandese language", "Traditional Pauliteiros dance", "Total area: 484.04 sq km", "Population: approx. 6,500", "Elevation: 675 meters", "Sé de Miranda Cathedral"],
     },
+    image: "/poi-images/portugal-mirandela-n-cities-v2.webp",
   },
   {
     id: "portugal-penela-cities-v2",
@@ -2017,6 +2079,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Castelul Penela a fost construit în secolul al XI-lea.", "Penela este situat la o altitudine de aproximativ 300 de metri.", "Populația era de circa 6.000 de locuitori în 2021.", "Biserica romanică São Miguel datează din secolul al XII-lea.", "Municipiul are o suprafață de 132,7 km².", "Penela face parte din districtul Coimbra."],
       en: ["Penela Castle was built in the 11th century.", "Penela lies at an elevation of about 300 meters.", "The population is around 6,000 (2021).", "The Romanesque Igreja de São Miguel dates from the 12th century.", "The municipality covers an area of 132.7 km².", "Penela is part of the Coimbra district."],
     },
+    image: "/poi-images/portugal-penela-cities-v2.webp",
   },
   {
     id: "portugal-lousa-cities-v2",
@@ -2049,6 +2112,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Castelul Lousã a fost construit în secolul al XI-lea.", "Lousã este situat la o altitudine de aproximativ 200 de metri.", "Populația era de circa 17.000 de locuitori în 2021.", "Industria textilă a început în Lousã în secolul al XIX-lea.", "Municipiul are o suprafață de 142,4 km².", "Serra da Lousã atinge o înălțime de 1.205 metri."],
       en: ["Lousã Castle was built in the 11th century.", "Lousã lies at an elevation of about 200 meters.", "The population is around 17,000 (2021).", "The textile industry began in Lousã in the 19th century.", "The municipality covers an area of 142.4 km².", "Serra da Lousã reaches a height of 1,205 meters."],
     },
+    image: "/poi-images/portugal-lousa-cities-v2.webp",
   },
   {
     id: "portugal-cantanhede-cities-v2",
@@ -2081,6 +2145,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Cantanhede este situat la o altitudine de aproximativ 50 de metri.", "Populația era de circa 36.000 de locuitori în 2021.", "Municipiul are o suprafață de 394,7 km².", "Râul Mondego are o lungime de aproximativ 234 km.", "Cantanhede face parte din districtul Coimbra.", "Suprafața viticolă locală este de circa 1.200 de hectare."],
       en: ["Cantanhede lies at an elevation of about 50 meters.", "The population is around 36,000 (2021).", "The municipality covers an area of 394.7 km².", "The Mondego River is about 234 km long.", "Cantanhede is part of the Coimbra district.", "The local vineyard area is about 1,200 hectares."],
     },
+    image: "/poi-images/portugal-cantanhede-cities-v2.webp",
   },
   {
     id: "portugal-soure-cities-v2",
@@ -2113,6 +2178,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Fost sediu al Templierilor", "Castelul din Soure", "Suprafață: 350,64 km²", "Populație: ~17.500 locuitori", "Altitudine: 30 metri", "Producție de orez în valea râului"],
       en: ["Former Knights Templar seat", "Medieval Castle of Soure", "Total area: 350.64 sq km", "Population: approx. 17,500", "Elevation: 30 meters", "Extensive rice cultivation"],
     },
+    image: "/poi-images/portugal-soure-cities-v2.webp",
   },
   {
     id: "portugal-tavira-dist-cities-v2",
@@ -2145,6 +2211,7 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Plan urbanistic pombalin", "Situat pe râul Guadiana", "Suprafață: 61,25 km²", "Populație: ~19.000 locuitori", "Altitudine: 5 metri", "Bac spre Ayamonte, Spania"],
       en: ["Pombaline geometric grid", "On the Guadiana River border", "Total area: 61.25 sq km", "Population: approx. 19,000", "Elevation: 5 meters", "Ferry to Ayamonte, Spain"],
     },
+    image: "/poi-images/portugal-tavira-dist-cities-v2.webp",
   },
   {
     id: "portugal-olhao-cities-v2",
@@ -2177,5 +2244,6 @@ export const portugalCitiesV2: POI[] = [
       ro: ["Cel mai mare port de pescuit", "Arhitectură în stil cubist", "Piață municipală faimoasă", "Suprafață: 130,86 km²", "Populație: ~45.000 locuitori", "Parcul Natural Ria Formosa"],
       en: ["Largest fishing port in Algarve", "Unique cubist-style houses", "Notable waterfront markets", "Total area: 130.86 sq km", "Population: approx. 45,000", "Gateway to Ria Formosa"],
     },
+    image: "/poi-images/portugal-olhao-cities-v2.webp",
   }
 ];

@@ -51,7 +51,8 @@ export const poiExtraSanmarinoCities: POI[] = [
         "The local population has shown steady growth over recent decades."
       ]
     },
-    facts: { de: [], hu: [], ro: [], en: [] }
+    facts: { de: [], hu: [], ro: [], en: [] },
+    image: "/poi-images/city-gualdicciolo-extra.webp",
   },
   {
     id: "city-la-serra-extra",
@@ -147,7 +148,8 @@ export const poiExtraSanmarinoCities: POI[] = [
         "Located in the more densely populated central region of the country."
       ]
     },
-    facts: { de: ["Befindet sich im Castello Borgo Maggiore.", "Es ist eine ruhige, vorwiegend als Wohngebiet genutzte Gegend.", "Bietet malerische Ausblicke auf die umliegende Landschaft von San Marino."], hu: ["Borgo Maggiore várában található.", "Ez egy csendes, elsősorban lakóövezet.", "Festői kilátást nyújt a környező San Marino-i tájra."], ro: ["Situat în castelul Borgo Maggiore.", "Este o zonă liniștită, în principal rezidențială.", "Oferă vederi pitorești ale peisajului înconjurător din San Marino."], en: ["Located in the Borgo Maggiore castle.", "It is a quiet, primarily residential area.", "Offers scenic views of the surrounding Sammarinese landscape."] }
+    facts: { de: ["Befindet sich im Castello Borgo Maggiore.", "Es ist eine ruhige, vorwiegend als Wohngebiet genutzte Gegend.", "Bietet malerische Ausblicke auf die umliegende Landschaft von San Marino."], hu: ["Borgo Maggiore várában található.", "Ez egy csendes, elsősorban lakóövezet.", "Festői kilátást nyújt a környező San Marino-i tájra."], ro: ["Situat în castelul Borgo Maggiore.", "Este o zonă liniștită, în principal rezidențială.", "Oferă vederi pitorești ale peisajului înconjurător din San Marino."], en: ["Located in the Borgo Maggiore castle.", "It is a quiet, primarily residential area.", "Offers scenic views of the surrounding Sammarinese landscape."] },
+    image: "/poi-images/city-ca-melone-extra.webp",
   },
   {
     id: "city-ca-rigo-extra",
@@ -241,7 +243,8 @@ export const poiExtraSanmarinoCities: POI[] = [
         "Administered under the Borgo Maggiore castle district."
       ]
     },
-    facts: { de: [], hu: [], ro: [], en: [] }
+    facts: { de: [], hu: [], ro: [], en: [] },
+    image: "/poi-images/city-cailungo-extra.webp",
   }
 ];
 

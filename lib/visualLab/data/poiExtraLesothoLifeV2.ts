@@ -31,6 +31,7 @@ export const lesothoLifeV2: POI[] = [
       ro: ["Altitudine maximă: 3.200 m.", "Cascada de 100 m înălțime.", "Suprafață: 1.800 ha.", "Înființată în 1992.", "150 de specii de păsări.", "20 de situri de artă rupestră."],
       en: ["Highest point: 3,200 m.", "Waterfall drops 100 m.", "Area: 1,800 ha.", "Established in 1992.", "Home to 150 bird species.", "Contains 20 rock art sites."],
     },
+    image: "/poi-images/lesotho-bokong-nature-reserve-life-v2.webp",
   },
   {
     id: "lesotho-liphofung-nature-reserve-life-v2",
@@ -62,6 +63,7 @@ export const lesothoLifeV2: POI[] = [
       ro: ["Suprafață: 35 ha.", "Altitudine maximă: 1.600 m.", "Înființată în 1995.", "Conține 3 ansambluri principale de picturi rupestre.", "Centrul de vizitare deschis în 2000.", "Specii de antilope: 5."],
       en: ["Area: 35 ha.", "Highest elevation: 1,600 m.", "Established in 1995.", "Contains 3 main rock painting groups.", "Visitor center opened in 2000.", "Antelope species: 5."],
     },
+    image: "/poi-images/lesotho-liphofung-nature-reserve-life-v2.webp",
   },
   {
     id: "lesotho-katse-botanical-garden-life-v2",
@@ -93,6 +95,7 @@ export const lesothoLifeV2: POI[] = [
       ro: ["Înființată în 2000.", "Suprafață: 15 ha.", "Peste 300 de specii de plante.", "Altitudine maximă: 2.000 m.", "5 sere.", "10.000 de vizitatori anual."],
       en: ["Established in 2000.", "Area: 15 ha.", "Over 300 plant species.", "Highest elevation: 2,000 m.", "Contains 5 greenhouses.", "10,000 visitors annually."],
     },
+    image: "/poi-images/lesotho-katse-botanical-garden-life-v2.webp",
   },
   {
     id: "lesotho-subeng-dinosaur-footprints-life-v2",
@@ -124,6 +127,7 @@ export const lesothoLifeV2: POI[] = [
       ro: ["Vârstă: aproximativ 200 de milioane de ani.", "Peste 200 de amprente individuale.", "Lungimea urmelor: până la 50 cm.", "Urme de teropode și sauropode.", "Descoperite în anii 1950.", "Protejate din 1974."],
       en: ["Age: approximately 200 million years.", "Over 200 individual footprints.", "Track length: up to 50 cm.", "Theropod and sauropod tracks.", "Discovered in the 1950s.", "Protected since 1974."],
     },
+    image: "/poi-images/lesotho-subeng-dinosaur-footprints-life-v2.webp",
   },
   {
     id: "lesotho-quthing-dinosaur-tracks-life-v2",
@@ -155,6 +159,7 @@ export const lesothoLifeV2: POI[] = [
       ro: ["Vârstă: aproximativ 190 de milioane de ani.", "12 urme bine conservate.", "Lungimea medie a amprentelor: 40 cm.", "Urme de sauropode.", "Descoperite în 1965.", "Protejate din 1984."],
       en: ["Age: approximately 190 million years.", "Contains 12 well-preserved tracks.", "Average footprint length: 40 cm.", "Sauropod tracks.", "Discovered in 1965.", "Protected since 1984."],
     },
+    image: "/poi-images/lesotho-quthing-dinosaur-tracks-life-v2.webp",
   },
   {
     id: "lesotho-muela-nature-area-life-v2",
@@ -186,6 +191,7 @@ export const lesothoLifeV2: POI[] = [
       ro: ["Înălțimea barajului: 55 m.", "Suprafața lacului: 5,5 km².", "Centrală hidroelectrică: 3 MW.", "Construit în 1988.", "Specii de păsări: peste 50.", "Lungimea traseului: 8 km."],
       en: ["Dam height: 55 m.", "Reservoir area: 5.5 km².", "Hydropower capacity: 3 MW.", "Built in 1988.", "Bird species: over 50.", "Hiking trail length: 8 km."],
     },
+    image: "/poi-images/lesotho-muela-nature-area-life-v2.webp",
   },
   {
     id: "lesotho-sani-pass-alpine-life-v2",
@@ -217,6 +223,7 @@ export const lesothoLifeV2: POI[] = [
       ro: ["Altitudine maximă: 2.876 m.", "Pantă rutieră: până la 25%.", "Lungimea drumului: 33 km.", "200 de specii de plante în zona alpină.", "Cel mai înalt bar din Africa: 2.875 m.", "Vizitatori anual: peste 50.000."],
       en: ["Highest point: 2,876 m.", "Road gradient: up to 25%.", "Pass road length: 33 km.", "Alpine zone hosts 200 plant species.", "Highest pub in Africa: 2,875 m.", "Annual tourists: over 50,000."],
     },
+    image: "/poi-images/lesotho-sani-pass-alpine-life-v2.webp",
   },
   {
     id: "lesotho-maloti-drakensberg-park-life-v2",
@@ -248,6 +255,7 @@ export const lesothoLifeV2: POI[] = [
       ro: ["Patrimoniu UNESCO din 2000.", "Suprafață totală: 249.000 ha.", "Cel mai înalt vârf: Thabana Ntlenyana (3.482 m).", "Peste 600 de situri de picturi rupestre.", "Habitat pentru 300 de specii de păsări.", "Bazin de captare pentru râul Orange."],
       en: ["UNESCO World Heritage since 2000.", "Total area: 249,000 ha.", "Highest peak: Thabana Ntlenyana (3,482 m).", "Over 600 rock painting sites.", "Habitat for 300 bird species.", "Water catchment for the Orange River."],
     },
+    image: "/poi-images/lesotho-maloti-drakensberg-park-life-v2.webp",
   },
   {
     id: "lesotho-pitseng-gorge-life-v2",
@@ -279,6 +287,7 @@ export const lesothoLifeV2: POI[] = [
       ro: ["Adâncime: până la 300 m.", "Lungime: 15 km.", "Cea mai înaltă stâncă: 200 m.", "Temperatura apei: 12-18°C.", "Specii de păsări: peste 80.", "Rapide de rafting: clasa III-IV."],
       en: ["Depth: up to 300 m.", "Length: 15 km.", "Highest cliff: 200 m.", "Water temperature: 12-18°C.", "Bird species: over 80.", "Rafting rapids: Class III-IV."],
     },
+    image: "/poi-images/lesotho-pitseng-gorge-life-v2.webp",
   },
   {
     id: "lesotho-mafika-lisiu-pass-life-v2",
@@ -310,6 +319,7 @@ export const lesothoLifeV2: POI[] = [
       ro: ["Altitudine: 2.950 m.", "Lungimea drumului: 20 km.", "Pantă: până la 15%.", "Drum de piatră neasfaltat.", "Accesibil doar în lunile de vară.", "Cel mai înalt punct din districtul Thaba-Tseka."],
       en: ["Elevation: 2,950 m.", "Pass road length: 20 km.", "Gradient: up to 15%.", "Unpaved gravel road.", "Only accessible in summer months.", "Highest point in Thaba-Tseka District."],
     },
+    image: "/poi-images/lesotho-mafika-lisiu-pass-life-v2.webp",
   },
   {
     id: "lesotho-gates-of-paradise-life-v2",
@@ -341,6 +351,7 @@ export const lesothoLifeV2: POI[] = [
       ro: ["Altitudine: 3.200 m", "Lungime: 15 km", "Formare: acum 200 milioane ani", "Specii de păsări: 30+", "Zăpadă anuală: 50 cm", "Zonă sacră din secolul XIX"],
       en: ["Elevation: 3,200 m", "Length: 15 km pass road", "Formed approx. 200 million years ago", "Home to 30+ bird species", "Annual snowfall: 50 cm", "Used as trade route since 1800s"],
     },
+    image: "/poi-images/lesotho-gates-of-paradise-life-v2.webp",
   },
   {
     id: "lesotho-oxbow-alpine-area-life-v2",
@@ -372,6 +383,7 @@ export const lesothoLifeV2: POI[] = [
       ro: ["Altitudine: 2800-3200 m", "Lacuri glaciare: 5", "Precipitații anuale: 700 mm", "Specii de păsări: 20+", "Temperatura medie iarna: -10°C", "Suprafață: 200 km²"],
       en: ["Elevation range: 2,800-3,200 m", "Number of glacial lakes: 5", "Endemic plant species: 12", "Average summer temperature: 10°C", "Winter low: -10°C", "Area: 200 km²"],
     },
+    image: "/poi-images/lesotho-oxbow-alpine-area-life-v2.webp",
   },
   {
     id: "lesotho-meniaming-pass-life-v2",
@@ -403,6 +415,7 @@ export const lesothoLifeV2: POI[] = [
       ro: ["Altitudine: 3.100 m", "Lungime drum: 12 km", "Temperatura minimă: -15°C", "Animale: antilopă de stâncă, babuin", "Izolare: accesibil doar 4x4", "Precipitații anuale: 900 mm"],
       en: ["Elevation: 3,100 m", "Road length: 12 km gravel", "Winter temperature: -10°C", "Wildlife: klipspringer, baboon", "Annual snowfall: 1 m", "Used since 19th century as trade route"],
     },
+    image: "/poi-images/lesotho-meniaming-pass-life-v2.webp",
   },
   {
     id: "lesotho-tlokoeng-wetlands-life-v2",
@@ -434,6 +447,7 @@ export const lesothoLifeV2: POI[] = [
       ro: ["Altitudine: 2.500 m", "Grosime turbă: 2 m", "Specii de păsări: 50+", "Suprafață: 30 km²", "Precipitații: 600 mm/an", "Rezervor de carbon"],
       en: ["Elevation: 2,500 m", "Peat depth: 2 m", "Bird species: 50+", "Area: 30 km²", "Annual rainfall: 600 mm", "Regulates Senqu River flow"],
     },
+    image: "/poi-images/lesotho-tlokoeng-wetlands-life-v2.webp",
   },
   {
     id: "lesotho-masitise-site-life-v2",
@@ -465,6 +479,7 @@ export const lesothoLifeV2: POI[] = [
       ro: ["Vârsta fosilelor: 200 mil. ani", "Urme de dinozauri: 100+", "Descoperit: 1950", "Specii de dinozauri: 3", "Suprafață: 5 km²", "Altitudine: 1.800 m"],
       en: ["Fossil age: 200 million years", "Number of footprints: 100+", "Discovered in 1950s", "Dinosaur species: 3", "Area: 5 km²", "Elevation: 1,800 m"],
     },
+    image: "/poi-images/lesotho-masitise-site-life-v2.webp",
   },
   {
     id: "lesotho-likhoele-mountain-reserve-life-v2",
@@ -496,6 +511,7 @@ export const lesothoLifeV2: POI[] = [
       ro: ["Suprafață: 100 km²", "Altitudine maximă: 2.800 m", "Populație babuini: 500", "Leoparzi: 10", "Trasee: 50 km", "An înființare: 1995"],
       en: ["Area: 100 km²", "Highest peak: 2,800 m", "Baboon population: 500", "Leopard population: 10", "Hiking trails: 50 km", "Established: 1995"],
     },
+    image: "/poi-images/lesotho-likhoele-mountain-reserve-life-v2.webp",
   },
   {
     id: "lesotho-maboloka-hotspot-life-v2",
@@ -527,6 +543,7 @@ export const lesothoLifeV2: POI[] = [
       ro: ["Suprafață: 80 km²", "Specii de plante: 200+", "Endemice: 30", "Specii de păsări: 50", "Precipitații: 1000 mm/an", "Altitudine: 2200-2800 m"],
       en: ["Area: 80 km²", "Plant species: 200+", "Endemic species: 30", "Bird species: 50", "Annual rainfall: 1,000 mm", "Elevation range: 2,200-2,800 m"],
     },
+    image: "/poi-images/lesotho-maboloka-hotspot-life-v2.webp",
   },
   {
     id: "lesotho-pelaneng-area-life-v2",
@@ -558,6 +575,7 @@ export const lesothoLifeV2: POI[] = [
       ro: ["Suprafață: 50 km²", "Zebre: 200", "Gnui: 150", "Specii de antilope: 5", "Temperatură medie: 20°C", "Precipitații: 500 mm/an"],
       en: ["Area: 50 km²", "Zebra population: 200", "Wildebeest population: 150", "Antelope species: 5", "Annual rainfall: 500 mm", "Bird species: 100+"],
     },
+    image: "/poi-images/lesotho-pelaneng-area-life-v2.webp",
   },
   {
     id: "lesotho-sebapala-valley-life-v2",
@@ -589,6 +607,7 @@ export const lesothoLifeV2: POI[] = [
       ro: ["Adâncime: 500 m", "Lungime: 20 km", "Cascada cea mai înaltă: 30 m", "Roci: bazalt, gresie", "Specii de păsări: 80", "Vârsta: 150 mil. ani"],
       en: ["Depth: 500 m", "Length: 20 km", "Tallest waterfall: 30 m", "Rock types: basalt, sandstone", "Bird species: 80", "Formed 150 million years ago"],
     },
+    image: "/poi-images/lesotho-sebapala-valley-life-v2.webp",
   },
   {
     id: "lesotho-telle-river-border-life-v2",
@@ -620,6 +639,7 @@ export const lesothoLifeV2: POI[] = [
       ro: ["Lungime râu: 150 km", "Hipopotami: 50", "Specii de păsări: 100+", "Suprafață agricolă: 20 km²", "Debit: 10 m³/s", "Altitudine: 1.200 m"],
       en: ["River length: 150 km", "Hippopotamus population: 50", "Bird species: 100+", "Farmland area: 20 km²", "Discharge: 10 m³/s", "Elevation: 1,200 m"],
     },
+    image: "/poi-images/lesotho-telle-river-border-life-v2.webp",
   },
   {
     id: "lesotho-moteng-pass-slopes-life-v2",
@@ -651,6 +671,7 @@ export const lesothoLifeV2: POI[] = [
       ro: ["Altitudine pas: 3.100 m", "Pantă: 10%", "Altitudine mină: 3.100 m", "Producție diamante: 100.000 carate/an", "Temperatură iarnă: -15°C", "Zăpadă: 2 m"],
       en: ["Pass elevation: 3,100 m", "Gradient: 10%", "Mine elevation: 3,100 m", "Diamond production: 100,000 carats/year", "Winter temperature: -15°C", "Snowfall: 2 m"],
     },
+    image: "/poi-images/lesotho-moteng-pass-slopes-life-v2.webp",
   },
   {
     id: "lesotho-maphutseng-site-life-v2",
@@ -682,6 +703,7 @@ export const lesothoLifeV2: POI[] = [
       ro: ["Suprafață: 10 km²", "Suricate: 50", "Specii de țestoase: 2", "Temperatură medie: 18°C", "Precipitații: 400 mm/an", "Trasee: 5 km"],
       en: ["Area: 10 km²", "Meerkat population: 50", "Tortoise species: 2", "Average temperature: 18°C", "Annual rainfall: 400 mm", "Hiking trails: 5 km"],
     },
+    image: "/poi-images/lesotho-maphutseng-site-life-v2.webp",
   },
   {
     id: "lesotho-roma-valley-botanical-life-v2",
@@ -713,6 +735,7 @@ export const lesothoLifeV2: POI[] = [
       ro: ["Suprafață: 20 km²", "Specii de plante: 300+", "Specii de orhidee: 50", "Cercetare din 1990", "Altitudine: 1.600 m", "Precipitații: 750 mm/an"],
       en: ["Area: 20 km²", "Plant species: 300+", "Orchid species: 50", "Research since 1990", "Elevation: 1,600 m", "Annual rainfall: 750 mm"],
     },
+    image: "/poi-images/lesotho-roma-valley-botanical-life-v2.webp",
   },
   {
     id: "lesotho-blue-mountain-biodiversity-life-v2",
@@ -744,6 +767,7 @@ export const lesothoLifeV2: POI[] = [
       ro: ["Suprafață: 200 km²", "Vârf maxim: 2.900 m", "Specii endemice de gândaci: 40", "Specii de fluturi: 100", "Acoperire forestieră: 60%", "Precipitații anuale: 1.200 mm"],
       en: ["Area: 200 km²", "Highest peak: 2,900 m", "Endemic beetle species: 40", "Butterfly species: 100", "Forest cover: 60%", "Annual rainfall: 1,200 mm"],
     },
+    image: "/poi-images/lesotho-blue-mountain-biodiversity-life-v2.webp",
   },
   {
     id: "lesotho-khubelu-headwaters-life-v2",
@@ -775,6 +799,7 @@ export const lesothoLifeV2: POI[] = [
       ro: ["Altitudine: 2.800 m", "Suprafață turbărie: 50 km²", "Carbon stocat: 2 mil. tone", "Debit apă: 5 m³/s", "Specii de păsări: 30", "Distanța la Maseru: 50 km"],
       en: ["Elevation: 2,800 m", "Peatland area: 50 km²", "Carbon storage: 2 million tons", "Water discharge: 5 m³/s", "Bird species: 30", "Distance to Maseru: 50 km"],
     },
+    image: "/poi-images/lesotho-khubelu-headwaters-life-v2.webp",
   },
   {
     id: "lesotho-linakeng-wildlife-area-life-v2",
@@ -806,6 +831,7 @@ export const lesothoLifeV2: POI[] = [
       ro: ["Suprafață: 30 km²", "Zebre de munte: 80", "Eland: 40", "Precipitații: 700 mm/an", "Altitudine: 2000-2400 m", "Management comunitar din 2005"],
       en: ["Area: 30 km²", "Mountain zebra: 80", "Eland: 40", "Annual rainfall: 700 mm", "Elevation range: 2,000-2,400 m", "Community management since 2005"],
     },
+    image: "/poi-images/lesotho-linakeng-wildlife-area-life-v2.webp",
   },
   {
     id: "lesotho-mafeteng-wetland-life-v2",
@@ -837,6 +863,7 @@ export const lesothoLifeV2: POI[] = [
       ro: ["Suprafață: 15 km²", "Specii de păsări migratoare: 40", "Suprafață apă: 5 km²", "Irigații: 10 km²", "Stufăriș: 2 km²", "Amenințare poluare"],
       en: ["Area: 15 km²", "Migratory bird species: 40", "Water surface: 5 km²", "Irrigated land: 10 km²", "Reed bed area: 2 km²", "Threatened by pollution"],
     },
+    image: "/poi-images/lesotho-mafeteng-wetland-life-v2.webp",
   },
   {
     id: "lesotho-qachas-nek-wildlife-life-v2",
@@ -868,6 +895,7 @@ export const lesothoLifeV2: POI[] = [
       ro: ["Suprafață: 40 km²", "Leoparzi: 5", "Specii de antilope: 4", "Înălțime cascadă: 20 m", "Temperatură medie: 16°C", "Precipitații: 800 mm/an"],
       en: ["Area: 40 km²", "Leopard population: 5", "Antelope species: 4", "Waterfall height: 20 m", "Average temperature: 16°C", "Annual rainfall: 800 mm"],
     },
+    image: "/poi-images/lesotho-qachas-nek-wildlife-life-v2.webp",
   },
   {
     id: "lesotho-maloti-highlands-hotspot-life-v2",
@@ -899,6 +927,7 @@ export const lesothoLifeV2: POI[] = [
       ro: ["Suprafață: 300 km²", "Specii endemice de plante: 50", "Specii de păsări: 80", "Altitudine: 2000-3400 m", "Statut: arie transfrontalieră", "Vizitatori anuali: 10.000"],
       en: ["Area: 300 km²", "Endemic plant species: 50", "Bird species: 80", "Elevation range: 2,000-3,400 m", "Part of Transfrontier Conservation Area", "Annual visitors: 10,000"],
     },
+    image: "/poi-images/lesotho-maloti-highlands-hotspot-life-v2.webp",
   },
   {
     id: "lesotho-senqunyane-river-valley-life-v2",
@@ -930,5 +959,6 @@ export const lesothoLifeV2: POI[] = [
       ro: ["Lungime: 80 km", "Diferență de altitudine: 1.000 m", "Suprafață porumb: 30 km²", "Vite: 5.000", "Înălțime cascadă: 15 m", "Sate: 10"],
       en: ["Length: 80 km", "Elevation range: 1,000 m", "Maize farmland: 30 km²", "Cattle population: 5,000", "Waterfall height: 15 m", "Number of villages: 10"],
     },
+    image: "/poi-images/lesotho-senqunyane-river-valley-life-v2.webp",
   }
 ];

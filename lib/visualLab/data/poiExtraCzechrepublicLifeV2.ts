@@ -941,6 +941,7 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Podyjí a fost declarat parc național la 1 iulie 1991.", "Cu doar 63 km pătrați, este cel mai mic parc național din Cehia.", "Râul Dyje formează în total 15 meandre mari în interiorul parcului.", "Adâncimea maximă a canionului este de aproximativ 220 de metri.", "În parc trăiesc șase specii de șerpi, inclusiv șarpele lui Esculap.", "Podul suspendat istoric de la Hardegg leagă sectoarele ceh și austriac."],
       en: ["Podyjí was declared a national park on July 1, 1991.", "With only 63 square kilometers, it is the smallest national park in Czechia.", "The Dyje River forms a total of 15 large meanders within the park.", "The deepest part of the canyon is about 220 meters below the surroundings.", "The park is home to six snake species, including the Aesculapian snake.", "The historic suspension bridge near Hardegg connects the Czech and Austrian parts."],
     },
+    image: "/poi-images/czechrepublic-podyji-wildlife-life-v2.webp",
   },
   {
     id: "czechrepublic-hluboka-zoo-life-v2",
@@ -973,6 +974,7 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Grădina zoologică a fost deschisă publicului la 1 mai 1939.", "Găzduiește aproximativ 300 de specii pe o suprafață de 4,5 hectare.", "Zoo Hluboká este specializată în fauna regiunii palearctice.", "Este situată pe malul iazului Munický, al doilea ca mărime din zonă.", "Unitatea este conectată direct la castelul cinegetic baroc Ohrada.", "Peste 250.000 de oameni vizitează instituția în fiecare an."],
       en: ["The zoo officially opened to the public on May 1, 1939.", "It houses approximately 300 animal species on 4.5 hectares of land.", "The zoo specializes in the fauna of the Palearctic realm.", "It is situated on the shore of Munický Pond, the region's second largest.", "The facility is directly attached to the Baroque Ohrada hunting lodge.", "More than 250,000 people visit the institution annually."],
     },
+    image: "/poi-images/czechrepublic-hluboka-zoo-life-v2.webp",
   },
   {
     id: "czechrepublic-prague-botanical-garden-troja-life-v2",
@@ -1005,6 +1007,7 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Fondată în anul 1969", "Suprafață de aproximativ 30 de hectare", "Sera Fata Morgana are 130 de metri lungime", "Podgoria Sfânta Clara este printre cele mai vechi din Praga", "Grădina japoneză ocupă 0,67 hectare", "Colecția include peste 15.000 de specii de plante"],
       en: ["Founded in 1969", "Total area of approximately 30 hectares", "Fata Morgana greenhouse is 130 meters long", "St. Claire vineyard is among the oldest in Prague", "Japanese garden covers 0.67 hectares", "Collection contains over 15,000 plant species"],
     },
+    image: "/poi-images/czechrepublic-prague-botanical-garden-troja-life-v2.webp",
   },
   {
     id: "czechrepublic-bilichov-nature-reserve-life-v2",
@@ -1037,5 +1040,6 @@ export const czechrepublicLifeV2: POI[] = [
       ro: ["Înființată pe 31 decembrie 1933", "Suprafață totală de 1,09 hectare", "Protejează coada-calului mare (Equisetum telmateia)", "Altitudine cuprinsă între 338 și 360 de metri", "Situată în interiorul parcului natural Džbán", "Aparține administrativ de districtul Kladno"],
       en: ["Established on December 31, 1933", "Total protected area of 1.09 hectares", "Protects the Giant Horsetail (Equisetum telmateia)", "Altitude ranges from 338 to 360 meters", "Located within the Džbán Nature Park", "Part of the Kladno District administration"],
     },
+    image: "/poi-images/czechrepublic-bilichov-nature-reserve-life-v2.webp",
   }
 ];

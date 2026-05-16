@@ -219,7 +219,8 @@ export const hondurasCities: POI[] = [
       hu: ["Invazív vízijácintok veszélyeztetik", "Fontos az Észak-Amerikából érkező vándormadaraknak", "A helyi halászat hasznosítja"],
       ro: ["Amenințat de zambilele de apă invazive", "Important pentru păsările migratoare din America de Nord", "Utilizat pentru pescuitul local"],
       en: ["Threatened by invasive water hyacinths", "Important for migratory birds from North America", "Used for local artisanal fishing"]
-    }
+    },
+    image: "/poi-images/hn-ticamaya.webp",
   },
   {
     id: "hn-celaque",
@@ -731,7 +732,8 @@ export const hondurasLandmarks: POI[] = [
       hu: ["Saját forrásokból származó vízellátás", "Híres túraútvonalak", "Fontos korallzátony"],
       ro: ["Aprovizionare cu apă din izvoare proprii", "Faimoasă pentru trasee de drumeție", "Recif de corali important"],
       en: ["Self-sufficient water from island springs", "Known for excellent hiking trails", "Surrounded by a healthy coral reef system"]
-    }
+    },
+    image: "/poi-images/hn-guanaja-island.webp",
   }
 ];
 

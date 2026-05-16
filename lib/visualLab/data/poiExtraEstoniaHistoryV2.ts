@@ -32,6 +32,7 @@ export const estoniaHistoryV2: POI[] = [
       ro: ["Construcția a început în 1345", "Distrusă de danezi în 1576", "Grosimea zidurilor de până la 3 metri", "Ridicată după răscoala din 1343"],
       en: ["Construction started in 1345", "Destroyed by Danes in 1576", "Wall thickness up to 3 meters", "Built to replace Pöide Castle"],
     },
+    image: "/poi-images/estonia-maasi-order-castle-history-v2.webp",
   },
   {
     id: "estonia-kastre-castle-history-v2",
@@ -64,6 +65,7 @@ export const estoniaHistoryV2: POI[] = [
       ro: ["Construit în jurul anului 1300.", "Construit pe un deal artificial de 8 m.", "Distrus în Războiul Livonian.", "Acoperiș de protecție instalat în 2010.", "Dimensiuni: 50 x 40 m.", "Săpături arheologice până în 2007."],
       en: ["Built around 1300.", "Sits on an 8-meter-high artificial mound.", "Destroyed during the Livonian War (1558-1583).", "Protective roof installed in 2010.", "Dimensions: 50 x 40 meters.", "Archaeological excavations concluded in 2007."],
     },
+    image: "/poi-images/estonia-kastre-castle-history-v2.webp",
   },
   {
     id: "estonia-pirita-convent-history-v2",
@@ -96,6 +98,7 @@ export const estoniaHistoryV2: POI[] = [
       ro: ["Construcția a început în anul 1417.", "Aparținea ordinului monahal Sfânta Brigita.", "Zidurile fațadei au o înălțime de 24 metri.", "Edificiul avea o suprafață de 1360 de metri pătrați.", "Distrusă în 1577 în timpul Războiului Livonian.", "Fundațiile au fost scoase la lumină după 1970."],
       en: ["Founded in 1417 near the Pirita River.", "Housed both monks and nuns in separate wings.", "The main church covered 1360 square meters.", "Gable walls reach a height of 24 meters.", "Destroyed during the Livonian War in 1577.", "Now serves as a venue for outdoor concerts."],
     },
+    image: "/poi-images/estonia-pirita-convent-history-v2.webp",
   },
   {
     id: "estonia-viimsi-manor-history-v2",
@@ -128,6 +131,7 @@ export const estoniaHistoryV2: POI[] = [
       ro: ["Construit la mijlocul secolului al XVIII-lea.", "Clădirea principală are 2 etaje.", "Parcul are 12 hectare.", "Restaurare finalizată în 2000.", "Muzeu din 2001.", "Conține 3 iazuri."],
       en: ["Built in the mid-18th century.", "Main building is 2 stories.", "Park area 12 hectares.", "Restoration completed in 2000.", "Serves as a museum since 2001.", "Contains 3 ponds."],
     },
+    image: "/poi-images/estonia-viimsi-manor-history-v2.webp",
   },
   {
     id: "estonia-keila-joa-castle-ruins-v2",
@@ -160,6 +164,7 @@ export const estoniaHistoryV2: POI[] = [
       ro: ["Finalizat în anul 1833", "Cascadă de 6 metri în apropiere", "Arhitect: Hans von Stackenschneider", "Restaurare completă în 2013"],
       en: ["Completed in 1833", "Nearby waterfall is 6 meters high", "Architect: Hans von Stackenschneider", "Full restoration finished in 2013"],
     },
+    image: "/poi-images/estonia-keila-joa-castle-ruins-v2.webp",
   },
   {
     id: "estonia-karksi-castle-ruins-v2",
@@ -192,6 +197,7 @@ export const estoniaHistoryV2: POI[] = [
       ro: ["Menționată documentar pentru prima dată în 1248.", "Construită pentru Ordinul Livonian.", "Așezată strategic pe o pantă naturală abruptă.", "Aruncată în aer în 1708, în Marele Război al Nordului.", "Biserica Sfântul Petru a fost ridicată în curte în 1773.", "Turnul bisericii are o înclinație de peste 2 metri."],
       en: ["First mentioned in historical records in 1248.", "Functioned as a key Livonian Order fortress.", "Destroyed during the Great Northern War in 1708.", "Saint Peter Church was built within the walls in 1773.", "The church tower leans by more than 2 meters.", "Constructed on a naturally defended steep hill."],
     },
+    image: "/poi-images/estonia-karksi-castle-ruins-v2.webp",
   },
   {
     id: "estonia-laitse-manor-history-v2",
@@ -224,6 +230,7 @@ export const estoniaHistoryV2: POI[] = [
       ro: ["Construit în 1890.", "Stil neogotic.", "Parcul are 8 hectare.", "Inițial 20 de camere.", "Restaurare finalizată în 2005.", "Monument cultural protejat."],
       en: ["Built in 1890.", "Neo-Gothic architectural style.", "Park area: 8 hectares.", "Originally had 20 rooms.", "Restoration completed in 2005.", "Protected as a cultural monument."],
     },
+    image: "/poi-images/estonia-laitse-manor-history-v2.webp",
   },
   {
     id: "estonia-vaivara-church-ruins-v2",
@@ -256,6 +263,7 @@ export const estoniaHistoryV2: POI[] = [
       ro: ["Distrusă în iulie 1944", "Parte a liniei defensive Tannenberg", "Rădăcini istorice din secolul XIII", "Situată la 20 km vest de Narva"],
       en: ["Destroyed in July 1944", "Part of the Tannenberg Line defense", "Historical roots from the 13th century", "Located 20 km west of Narva"],
     },
+    image: "/poi-images/estonia-vaivara-church-ruins-v2.webp",
   },
   {
     id: "estonia-sangaste-manor-history-v2",
@@ -288,6 +296,7 @@ export const estoniaHistoryV2: POI[] = [
       ro: ["Construit 1873-1879.", "Turnul are 50 m înălțime.", "Arhitect: Robert Pohlitz.", "30 de camere.", "Parcul are 15 ha.", "Hotel din 2002."],
       en: ["Built 1873-1879.", "Tower height: 50 m.", "Architect: Robert Pohlitz.", "Contains 30 rooms.", "Park area: 15 hectares.", "Operates as a hotel since 2002."],
     },
+    image: "/poi-images/estonia-sangaste-manor-history-v2.webp",
   },
   {
     id: "estonia-ohekatku-manor-history-v2",
@@ -320,6 +329,7 @@ export const estoniaHistoryV2: POI[] = [
       ro: ["Construit în 1810.", "Construit din lemn.", "Portic cu 6 coloane.", "Returnat familiei în 1993.", "Muzeu din 1998.", "Include o distilerie."],
       en: ["Built in 1810.", "Constructed from wood.", "Portico with 6 columns.", "Returned to family in 1993.", "Museum since 1998.", "Includes a distillery."],
     },
+    image: "/poi-images/estonia-ohekatku-manor-history-v2.webp",
   },
   {
     id: "estonia-haapsalu-castle-ruins-v2",
@@ -352,6 +362,7 @@ export const estoniaHistoryV2: POI[] = [
       ro: ["Construit din 1279.", "Catedrala are 120 m lungime.", "Turnul de veghe: 30 m.", "Distrus în secolul al XVI-lea.", "Grosimea zidurilor: 2 m.", "Festivalul anual White Lady."],
       en: ["Construction began in 1279.", "Cathedral nave is 120 m long.", "Watchtower height: 30 m.", "Destroyed in the 16th century.", "Wall thickness: 2 m.", "Annual White Lady Festival."],
     },
+    image: "/poi-images/estonia-haapsalu-castle-ruins-v2.webp",
   },
   {
     id: "estonia-torva-castle-ruins-v2",
@@ -384,6 +395,7 @@ export const estoniaHistoryV2: POI[] = [
       ro: ["Construită în secolul al XIV-lea", "Aruncată în aer de suedezi în 1658", "Înălțimea colinei: cca. 20 metri", "Reședința unui comtur al ordinului"],
       en: ["Built in the 14th century", "Blown up by Swedes in 1658", "Castle hill height: approx. 20 meters", "Seat of a Livonian Order Komtur"],
     },
+    image: "/poi-images/estonia-torva-castle-ruins-v2.webp",
   },
   {
     id: "estonia-jaggeri-manor-history-v2",
@@ -416,6 +428,7 @@ export const estoniaHistoryV2: POI[] = [
       ro: ["Construit în 1790.", "Stil neoclasic.", "2 etaje.", "Parcul are 5 ha.", "Hotel din 2007.", "Are 15 camere."],
       en: ["Built in 1790.", "Neoclassical style.", "2 stories.", "Park area: 5 hectares.", "Hotel since 2007.", "Contains 15 rooms."],
     },
+    image: "/poi-images/estonia-jaggeri-manor-history-v2.webp",
   },
   {
     id: "estonia-poltsamaa-castle-ruins-v2",
@@ -448,6 +461,7 @@ export const estoniaHistoryV2: POI[] = [
       ro: ["Fondată în anul 1272", "Capitala Livoniei între 1570-1578", "Distrusă de incendiu în 1941", "Înălțimea turnului este de 32 metri"],
       en: ["Founded in 1272", "Capital of Livonia from 1570 to 1578", "Destroyed by fire in 1941", "Tower height is 32 meters"],
     },
+    image: "/poi-images/estonia-poltsamaa-castle-ruins-v2.webp",
   },
   {
     id: "estonia-vasta-manor-history-v2",
@@ -480,6 +494,7 @@ export const estoniaHistoryV2: POI[] = [
       ro: ["Construit în secolul al XVIII-lea.", "Stil baroc.", "2 etaje.", "Parcul cu iaz, 3 ha.", "Hotel din 1996.", "Restaurant cu 50 de locuri."],
       en: ["Built in the 18th century.", "Baroque style.", "2 stories.", "Park with pond, 3 ha.", "Hotel since 1996.", "Restaurant with 50 seats."],
     },
+    image: "/poi-images/estonia-vasta-manor-history-v2.webp",
   },
   {
     id: "estonia-suure-jaani-church-history-v2",
@@ -512,6 +527,7 @@ export const estoniaHistoryV2: POI[] = [
       ro: ["Construit 1866-1873.", "Turnul are 60 m înălțime.", "Arhitect: Carl Speth.", "Orga din 1908 de Gustav Normann.", "Altarpictura de Verenius (1873).", "Capacitate: 1.000 de locuri."],
       en: ["Built 1866-1873.", "Spire height: 60 m.", "Architect: Carl Speth.", "Organ built in 1908 by Gustav Normann.", "Altar painting by Verenius (1873).", "Seating capacity: 1,000."],
     },
+    image: "/poi-images/estonia-suure-jaani-church-history-v2.webp",
   },
   {
     id: "estonia-mustjala-church-history-v2",
@@ -544,6 +560,7 @@ export const estoniaHistoryV2: POI[] = [
       ro: ["Construită în 1775.", "Biserică de lemn.", "Turnul clopotniță: 10 m.", "Renovare în 2006.", "Lungime: 20 m.", "Capacitate: 100 de locuri."],
       en: ["Built in 1775.", "Wooden church.", "Bell tower height: 10 m.", "Restoration in 2006.", "Length: 20 m.", "Seating capacity: 100."],
     },
+    image: "/poi-images/estonia-mustjala-church-history-v2.webp",
   },
   {
     id: "estonia-palamuse-church-history-v2",
@@ -576,6 +593,7 @@ export const estoniaHistoryV2: POI[] = [
       ro: ["Construită în secolul al XIII-lea.", "Biserică de piatră.", "Fresce din secolul al XIV-lea.", "Turnul din secolul al XIX-lea.", "Lungime: 30 m.", "Mormântul lui Oskar Luts."],
       en: ["Built in the 13th century.", "Stone church.", "14th-century fresco fragments.", "Tower added in the 19th century.", "Length: 30 m.", "Grave of Oskar Luts."],
     },
+    image: "/poi-images/estonia-palamuse-church-history-v2.webp",
   },
   {
     id: "estonia-vastseliina-castle-ruins-v2",
@@ -608,6 +626,7 @@ export const estoniaHistoryV2: POI[] = [
       ro: ["Construcția inițială datează din anul 1342.", "Aparținea de Episcopia de Dorpat.", "Situat la granița estică a Livoniei istorice.", "Documentat ca loc de pelerinaj în bula papală din 1354.", "Distrus definitiv de armata rusă în 1702.", "Turnul central are un diametru de 14 metri."],
       en: ["Construction commenced in 1342.", "Belonged to the Bishopric of Dorpat.", "Guarded the historic border with Pskov.", "Pope Innocent VI endorsed its pilgrimage status in 1354.", "Demolished by Russian troops in 1702.", "The main defensive tower measures 14 meters in diameter."],
     },
+    image: "/poi-images/estonia-vastseliina-castle-ruins-v2.webp",
   },
   {
     id: "estonia-ungru-manor-ruins-v2",
@@ -640,6 +659,7 @@ export const estoniaHistoryV2: POI[] = [
       ro: ["Construcția a început în 1893", "Copie a castelului Merseburg", "Niciodată finalizat complet", "Stil arhitectural: neobaroc somptuos"],
       en: ["Construction began in 1893", "Replica of Merseburg Castle", "Never fully completed", "Architectural style: Neo-Baroque"],
     },
+    image: "/poi-images/estonia-ungru-manor-ruins-v2.webp",
   },
   {
     id: "estonia-kunda-manor-history-v2",
@@ -672,6 +692,7 @@ export const estoniaHistoryV2: POI[] = [
       ro: ["Construit în 1873.", "Stil neoclasic.", "2 etaje.", "Parcul are 4 ha.", "Muzeu din 1998.", "Include o distilerie."],
       en: ["Built in 1873.", "Neoclassical style.", "2 stories.", "Park area: 4 ha.", "Museum since 1998.", "Includes a distillery."],
     },
+    image: "/poi-images/estonia-kunda-manor-history-v2.webp",
   },
   {
     id: "estonia-taagepera-castle-history-v2",
@@ -704,6 +725,7 @@ export const estoniaHistoryV2: POI[] = [
       ro: ["Construit 1910-1912.", "Arhitect: Otto Wildau.", "Stil Art Nouveau.", "Turnul cel mai înalt: 30 m.", "Sanatoriu până în anii 1990.", "Hotel din 1995."],
       en: ["Built 1910-1912.", "Architect: Otto Wildau.", "Art Nouveau style.", "Highest tower: 30 m.", "Sanatorium until 1990s.", "Hotel since 1995."],
     },
+    image: "/poi-images/estonia-taagepera-castle-history-v2.webp",
   },
   {
     id: "estonia-tori-church-history-v2",
@@ -736,6 +758,7 @@ export const estoniaHistoryV2: POI[] = [
       ro: ["Prima mențiune: 1241.", "Înălțimea turnului: 50 m.", "Lungimea navei: 40 m.", "Costul renovării din 1990: 1 milion de euro.", "Suprafața cimitirului: 1,5 ha.", "Altarul datează din 1870."],
       en: ["First mentioned in 1241.", "Spire height: 50 m.", "Nave length: 40 m.", "1990 renovation cost: €1 million.", "Cemetery area: 1.5 ha.", "Altarpiece from 1870."],
     },
+    image: "/poi-images/estonia-tori-church-history-v2.webp",
   },
   {
     id: "estonia-paide-castle-ruins-v2",
@@ -768,6 +791,7 @@ export const estoniaHistoryV2: POI[] = [
       ro: ["Piatra de temelie pusă în 1265", "Turnul octogonal are 8 etaje", "Reconstrucția turnului în 1993", "Înălțimea turnului principal: 30 metri"],
       en: ["Foundation stone laid in 1265", "The octagonal tower has 8 floors", "Tower reconstruction in 1993", "Main tower height: 30 meters"],
     },
+    image: "/poi-images/estonia-paide-castle-ruins-v2.webp",
   },
   {
     id: "estonia-lohusuu-church-history-v2",
@@ -800,6 +824,7 @@ export const estoniaHistoryV2: POI[] = [
       ro: ["Construită în 1755", "Închisă între 1950-1988", "Donație a familiei von Stackelberg: 10 000 de taleri", "Altarul datează din 1840", "Biserica are o suprafață de 300 m²", "Numărul de credincioși în 2019: 150"],
       en: ["Altitude: 45 m above sea level", "Distance to Lake Peipus: 3 km", "Parish population in 2021: 350", "Church capacity: 200 seats", "Year listed as monument: 1997", "Number of annual visitors: approx. 2000"],
     },
+    image: "/poi-images/estonia-lohusuu-church-history-v2.webp",
   },
   {
     id: "estonia-valga-church-history-v2",
@@ -832,6 +857,7 @@ export const estoniaHistoryV2: POI[] = [
       ro: ["Construită între 1793-1816", "Altarul datează din 1855", "Înălțimea turnului: 65 m", "Numărul de locuri: 400", "Restaurare în 1997", "Costul renovării: 1,2 milioane de euro"],
       en: ["Population of Valga (2021): 12,000", "Altitude: 70 m above sea level", "Distance to the border: 0.5 km", "Year of restoration: 1997", "Number of organ pipes: 1,500", "Annual visitors: 5,000"],
     },
+    image: "/poi-images/estonia-valga-church-history-v2.webp",
   },
   {
     id: "estonia-varbla-church-history-v2",
@@ -864,6 +890,7 @@ export const estoniaHistoryV2: POI[] = [
       ro: ["Construită în secolul al XIV-lea", "Înălțimea turnului: 40 m", "Frescele descoperite în 1998", "Crucifixul din lemn datează din 1450", "Populația satului Varbla: 300 (2020)", "Numărul de pelerini medievali: estimat 500 anual"],
       en: ["Altitude: 20 m above sea level", "Distance to Baltic Sea: 5 km", "Year of last renovation: 1998", "Number of seats: 150", "Congregation size: 200", "Annual visitors: 3,000"],
     },
+    image: "/poi-images/estonia-varbla-church-history-v2.webp",
   },
   {
     id: "estonia-kuhjavere-manor-history-v2",
@@ -896,6 +923,7 @@ export const estoniaHistoryV2: POI[] = [
       ro: ["Construit în 1810", "Suprafața parcului: 30 ha", "Numărul de camere: 20", "Anul renovării: 2005", "Costul renovării: 500 000 de euro", "Numărul de vizitatori anual: 2000"],
       en: ["Altitude: 60 m above sea level", "Distance to Suure-Jaani: 12 km", "Population of Kuhjavere (2020): 50", "Year of museum opening: 2000", "Number of exhibits: 300", "EU funding amount: €350,000"],
     },
+    image: "/poi-images/estonia-kuhjavere-manor-history-v2.webp",
   },
   {
     id: "estonia-purtse-manor-history-v2",
@@ -928,6 +956,7 @@ export const estoniaHistoryV2: POI[] = [
       ro: ["Construit în secolul al XVI-lea", "Suprafața conacului: 500 m²", "Parcul: 20 ha", "Anul renovării: 2012", "Numărul de camere: 15", "Vizitatori în 2022: 3000"],
       en: ["Altitude: 30 m above sea level", "Distance to Kiviõli: 10 km", "Population of Purtse (2020): 150", "Year of last renovation: 2012", "Number of rooms: 15", "Annual events: 30"],
     },
+    image: "/poi-images/estonia-purtse-manor-history-v2.webp",
   },
   {
     id: "estonia-rannu-church-history-v2",
@@ -960,6 +989,7 @@ export const estoniaHistoryV2: POI[] = [
       ro: ["Construită în secolul al XV-lea", "Turn adăugat în 1840", "Altarul datează din 1690", "Numărul de cărți vechi: 50", "Populația satului Rannu: 400 (2020)", "Anul renovării: 1947"],
       en: ["Altitude: 40 m above sea level", "Distance to Elva: 15 km", "Congregation size: 250", "Year of last renovation: 1947", "Number of seats: 200", "Annual visitors: 2,000"],
     },
+    image: "/poi-images/estonia-rannu-church-history-v2.webp",
   },
   {
     id: "estonia-kolga-manor-history-v2",
@@ -992,6 +1022,7 @@ export const estoniaHistoryV2: POI[] = [
       ro: ["Construit în 1641", "Suprafața parcului: 40 ha", "Lacul: 3 ha", "Numărul de camere: 25", "Anul transformării în hotel: 1995", "Vizitatori anual: 15000"],
       en: ["Altitude: 40 m above sea level", "Distance to Tallinn: 50 km", "Park area: 40 ha", "Year of hotel opening: 1995", "Number of rooms: 25", "Annual visitors: 15,000"],
     },
+    image: "/poi-images/estonia-kolga-manor-history-v2.webp",
   },
   {
     id: "estonia-padi-monastery-ruins-v2",
@@ -1024,6 +1055,7 @@ export const estoniaHistoryV2: POI[] = [
       ro: ["Aprobarea regală daneză pentru construcție a venit în 1317.", "Fondată de călugării cistercieni din Daugavgriva.", "Deținea proprietăți funciare extinse până în Finlanda de Sud.", "Incendiată în timpul Răscoalei din noaptea Sfântului Gheorghe (1343).", "Secularizată de Ordinul Livonian în 1559.", "O aripă a fost reconstruită ca un conac în anul 1766."],
       en: ["The King of Denmark permitted the abbey construction in 1317.", "Established by Cistercian monks relocating from Daugavgriva.", "The abbey held extensive lands reaching into Southern Finland.", "Burnt down during the Saint George Night Uprising in 1343.", "Secularized by the Livonian Order in 1559.", "Part of the complex was converted into the von Ramm family manor in 1766."],
     },
+    image: "/poi-images/estonia-padi-monastery-ruins-v2.webp",
   },
   {
     id: "estonia-kose-church-history-v2",
@@ -1056,6 +1088,7 @@ export const estoniaHistoryV2: POI[] = [
       ro: ["Construită în secolul al XIII-lea (circa 1270).", "Înălțimea turnului: 30 m.", "Frescele datează din 1340.", "Grosimea pereților: 1,5 m.", "Restaurată în 1850.", "Lungimea navei: 25 m."],
       en: ["Built in 13th century (c. 1270).", "Tower height: 30 m.", "Frescoes from 1340.", "Wall thickness: 1.5 m.", "Restored in 1850.", "Nave length: 25 m."],
     },
+    image: "/poi-images/estonia-kose-church-history-v2.webp",
   },
   {
     id: "estonia-saare-manor-history-v2",
@@ -1088,6 +1121,7 @@ export const estoniaHistoryV2: POI[] = [
       ro: ["Construit în secolul al XIII-lea", "Suprafața castelului: 3,500 m²", "Numărul de turnuri: 4", "Vizitatori anual: 50,000", "Anul deschiderii muzeului: 1960", "Numărul de arme expuse: 200"],
       en: ["Altitude: 10 m above sea level", "Distance to Kuressaare: 20 km", "Island population: 30,000", "Annual visitors: 50,000", "Year of museum opening: 1960", "Castle area: 3,500 m²"],
     },
+    image: "/poi-images/estonia-saare-manor-history-v2.webp",
   },
   {
     id: "estonia-puurmani-manor-history-v2",
@@ -1120,6 +1154,7 @@ export const estoniaHistoryV2: POI[] = [
       ro: ["Construit în 1820", "Suprafața parcului: 50 ha", "Numărul de lacuri: 3", "Numărul de camere: 20", "Anul transformării în hotel: 2000", "Vizitatori anual: 8000"],
       en: ["Altitude: 60 m above sea level", "Distance to Jõgeva: 15 km", "Park area: 50 ha", "Year of hotel opening: 2000", "Number of rooms: 20", "Annual visitors: 8,000"],
     },
+    image: "/poi-images/estonia-puurmani-manor-history-v2.webp",
   },
   {
     id: "estonia-voru-church-history-v2",
@@ -1152,6 +1187,7 @@ export const estoniaHistoryV2: POI[] = [
       ro: ["Construită în 1793", "Altarul de Johann Gottfried Müthel", "Orga din 1855", "Populația orașului Võru: 12,000 (2020)", "Anul renovării: 2005", "Numărul de locuri: 300"],
       en: ["Altitude: 80 m above sea level", "Population of Võru (2020): 12,000", "Distance to Tartu: 70 km", "Year of renovation: 2005", "Number of seats: 300", "Annual visitors: 3,500"],
     },
+    image: "/poi-images/estonia-voru-church-history-v2.webp",
   },
   {
     id: "estonia-malla-manor-history-v2",
@@ -1184,5 +1220,6 @@ export const estoniaHistoryV2: POI[] = [
       ro: ["Construit în secolul al XVII-lea", "Suprafața parcului: 10 ha", "Podul de piatră construit în 1780", "Populația satului Malla: 100 (2020)", "Anul naționalizării: 1919", "Numărul de camere: 12"],
       en: ["Altitude: 70 m above sea level", "Distance to Rakvere: 20 km", "Population of Malla: 100", "Year of construction: 17th century", "Park area: 10 ha", "Private ownership since 1995"],
     },
+    image: "/poi-images/estonia-malla-manor-history-v2.webp",
   }
 ];

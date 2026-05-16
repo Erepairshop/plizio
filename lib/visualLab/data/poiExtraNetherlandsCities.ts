@@ -54,8 +54,9 @@ export const poiExtraNetherlandsCities: POI[] = [
       "The container terminals operate with almost zero carbon emissions, utilizing wind energy and fully electric autonomous vehicles.",
       "During the construction of the artificial peninsula, skeletons of Ice Age creatures like mammoths were dredged up from the deep."
     ]
-  }
-    },
+  },
+    image: "/poi-images/port-maasvlakte-2-extra.webp",
+  },
     // 29 more industry/port/agriculture sites...
 
     // 30 Animal-habitat/Kid-landmark

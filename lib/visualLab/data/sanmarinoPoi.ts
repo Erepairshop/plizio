@@ -691,7 +691,8 @@ export const sanmarinoCulture: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
+    },
+    image: "/poi-images/cult-chiesa-fiorentino.webp",
   }
 ];
 
@@ -931,7 +932,8 @@ export const sanmarinoNature: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
+    },
+    image: "/poi-images/nat-rupe-baldasserona.webp",
   }
 ];
 

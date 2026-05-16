@@ -31,6 +31,7 @@ export const venezuelaLifeV2: POI[] = [
       ro: ["Parcul a fost înființat oficial la data de 12 iunie 1962.", "Aproximativ 65% din suprafața sa este ocupată de platouri tepuy.", "Cascada Angel este de aproape 20 de ori mai înaltă decât Cascada Niagara.", "Muntele Roraima, cu 2810 metri, este cel mai faimos tepuy din parc.", "Bazinul hidrografic al parcului alimentează barajul Guri, vital pentru țară.", "Peste 30% din speciile de plante de pe tepuis sunt strict endemice."],
       en: ["The park was officially established on June 12, 1962.", "About 65% of the park is occupied by plateaus known as tepuis.", "Angel Falls is nearly 20 times higher than Niagara Falls.", "Mount Roraima stands at 2,810 meters and is a major landmark.", "The park is a key watershed for the Guri Dam, Venezuela's main power source.", "Roughly one-third of the plant species on the tepuis are endemic to the area."],
     },
+    image: "/poi-images/venezuela-parque-nacional-canaima-life-v2.webp",
   },
   {
     id: "venezuela-parque-nacional-henri-pittier-life-v2",
@@ -62,6 +63,7 @@ export const venezuelaLifeV2: POI[] = [
       ro: ["Creat în 1937 sub numele Rancho Grande, fiind primul parc al țării.", "Adăpostește peste 40% din totalul speciilor de păsări din Venezuela.", "Altitudinea maximă este atinsă pe vârful Pico Cenizo (2436 metri).", "Include plaje turistice renumite, accesibile prin munte, cum este Choroní.", "Pasul Portachuelo facilitează migrația a peste 200 de specii de păsări.", "Henri Pittier a documentat aici peste 5000 de specii de plante tropicale."],
       en: ["Established in 1937 as Rancho Grande, it was the country's first NP.", "The park is home to more than 40% of all bird species in Venezuela.", "The highest point is Pico Cenizo, reaching 2,436 meters (7,992 feet).", "The coastal side includes famous beaches like Choroní and Ocumare.", "Portachuelo Pass is a major bottleneck for intercontinental migratory birds.", "Henri Pittier himself spent years living in the park to study its flora."],
     },
+    image: "/poi-images/venezuela-parque-nacional-henri-pittier-life-v2.webp",
   },
   {
     id: "venezuela-parque-nacional-morrocoy-life-v2",
@@ -93,6 +95,7 @@ export const venezuelaLifeV2: POI[] = [
       ro: ["Parcul a fost declarat arie protejată la 26 mai 1974.", "Cayo Sombrero este cea mai mare și populară insulă din întreg arhipelagul.", "Regiunea găzduiește o mare parte din biodiversitatea coraliferă a țării.", "Refugiul Cuare, aflat lângă parc, este casă pentru peste 300 de specii de păsări.", "Temperatura apei în lagune este constantă, în jur de 27 de grade Celsius.", "Ecosistemul de mangrove acționează ca un filtru natural pentru apele marine."],
       en: ["The park was officially established on May 26, 1974.", "Cayo Sombrero is the largest and most frequently visited island in the park.", "A significant portion of Venezuela's coral reefs are found in this region.", "The adjacent Cuare Refuge hosts over 300 different species of birds.", "The water temperature remains consistent at around 27°C (81°F) year-round.", "Mangroves like Rhizophora mangle are essential for coastal protection."],
     },
+    image: "/poi-images/venezuela-parque-nacional-morrocoy-life-v2.webp",
   },
   {
     id: "venezuela-parque-nacional-archipielago-los-roques-life-v2",
@@ -124,6 +127,7 @@ export const venezuelaLifeV2: POI[] = [
       ro: ["Arhipelagul a devenit parc național la data de 8 august 1972.", "Este singurul complex de tip atol din Caraibe care are o origine tectonică.", "Aria protejată însumează peste 221.120 de hectare de ecosistem marin.", "Insulele sunt locuri de cuibărire pentru 4 specii de țestoase marine amenințate.", "Peste 90% din dietă locală tradițională se bazează pe pescuitul de homar.", "Singurul relief proeminent este dealul de pe Gran Roque, unde se află un far."],
       en: ["The archipelago was declared a national park on August 8, 1972.", "It is the only true atoll in the Caribbean formed by tectonic uplift.", "The park encompasses over 221,120 hectares of marine and land area.", "Four species of sea turtles use these islands for nesting every year.", "The reefs contain more than 60 species of coral and 280 species of fish.", "The highest point is a small hill on Gran Roque featuring an old lighthouse."],
     },
+    image: "/poi-images/venezuela-parque-nacional-archipielago-los-roques-life-v2.webp",
   },
   {
     id: "venezuela-parque-nacional-el-avila-life-v2",
@@ -155,6 +159,7 @@ export const venezuelaLifeV2: POI[] = [
       ro: ["Parcul a fost înființat prin decret la data de 12 decembrie 1958.", "Pico Naiguatá (2765 m) este vârful maxim al întregii Cordillera de la Costa.", "Telefericul către munte a fost inaugurat în 1956 sub guvernul Pérez Jiménez.", "Denumirea indigenă 'Waraira Repano' înseamnă 'Muntele cel Mare'.", "Ecosistemul adăpostește peste 180 de specii de orhidee sălbatice.", "Hotelul Humboldt este situat la o altitudine de 2140 de metri deasupra mării."],
       en: ["The park was officially created on December 12, 1958.", "Pico Naiguatá is the highest peak in the coastal range at 2,765 meters.", "The Caracas cable car system originally opened in 1956.", "The name 'Waraira Repano' comes from the indigenous Kalina people.", "The park is home to over 500 bird species and 180 types of orchids.", "Hotel Humboldt sits at 2,140 meters and was designed by Tomás Sanabria."],
     },
+    image: "/poi-images/venezuela-parque-nacional-el-avila-life-v2.webp",
   },
   {
     id: "venezuela-jardin-botanico-de-caracas-life-v2",
@@ -186,6 +191,7 @@ export const venezuelaLifeV2: POI[] = [
       ro: ["Grădina a fost fondată în 1945 și deschisă publicului în 1958.", "Colecția botanică include peste 2.500 de specii de pe toate continentele.", "Palmetumul conține 35 de genuri diferite de palmieri exotici și nativi.", "Herbarul Național adăpostește peste 400.000 de specimene uscate.", "Este prima grădină botanică din America Latină inclusă în UNESCO.", "Tobías Lasser a coordonat dezvoltarea grădinii timp de trei decenii."],
       en: ["Founded in 1945, the garden was opened to the public in 1958.", "The garden is home to more than 2,500 distinct plant species.", "The collection features 35 different types of palms from around the globe.", "The National Herbarium of Venezuela contains over 400,000 specimens.", "UNESCO added the garden to its World Heritage list in 2000.", "Tobías Lasser served as the director of the garden for over 30 years."],
     },
+    image: "/poi-images/venezuela-jardin-botanico-de-caracas-life-v2.webp",
   },
   {
     id: "venezuela-parque-zoológico-caricuao-life-v2",
@@ -217,6 +223,7 @@ export const venezuelaLifeV2: POI[] = [
       ro: ["Inaugurarea oficială a parcului a avut loc la 31 iulie 1977.", "Suprafața de 630 de hectare îl plasează printre cele mai mari din regiune.", "Parcul adăpostește peste 30 de specii de mamifere mari și mici.", "Zona de contact permite interacțiunea directă a copiilor cu animale blânde.", "Include o zonă de protecție specială pentru arborii nativi din Caracas.", "Laguna centrală este un punct de oprire pentru păsările migratoare locale."],
       en: ["The park was formally inaugurated on July 31, 1977.", "At 630 hectares, it is one of the largest zoos in Latin America.", "The zoo is home to more than 30 different species of large mammals.", "The 'Contact Zone' allows visitors to interact with and feed tame animals.", "The park includes a significant forest reserve protecting local flora.", "A large central lagoon provides a vital habitat for many aquatic birds."],
     },
+    image: "/poi-images/venezuela-parque-zoológico-caricuao-life-v2.webp",
   },
   {
     id: "venezuela-parque-nacional-medanos-de-coro-life-v2",
@@ -248,6 +255,7 @@ export const venezuelaLifeV2: POI[] = [
       ro: ["Parcul a fost înființat prin decret la 6 februarie 1974.", "Dunele pot atinge înălțimi impresionante de până la 40 de metri.", "Nisipul este transportat prin vânt de la gurile de vărsare ale râului Orinoco.", "Este singura regiune din Venezuela cu un ecosistem de tip deșert tropical.", "Temperatura medie anuală în parc este de aproximativ 28 de grade Celsius.", "Regiunea este un sit important pentru paleontologia perioadei pleistocene."],
       en: ["The park was officially established on February 6, 1974.", "Some of the dunes reach an impressive height of 40 meters (130 feet).", "The sand is originally carried by winds from the Orinoco Delta plains.", "It is the only place in Venezuela with a true desert landscape.", "The average annual temperature in the park is around 28°C (82°F).", "Fossilized remains from the Pleistocene epoch have been found in the area."],
     },
+    image: "/poi-images/venezuela-parque-nacional-medanos-de-coro-life-v2.webp",
   },
   {
     id: "venezuela-parque-nacional-maclearo-life-v2",
@@ -279,6 +287,7 @@ export const venezuelaLifeV2: POI[] = [
       ro: ["Parcul a fost înființat oficial la 5 decembrie 1973 prin Decretul nr. 1.529.", "Suprafața totală este de 15.000 de hectare, cuprinzând Districtul Capitalei și statul Miranda.", "Cel mai înalt punct al parcului se află la Alto del Volcán, având 2.090 de metri altitudine.", "Râurile Macarao și San Pedro, esențiale pentru Caracas, își au izvoarele în interiorul parcului.", "Peste 500 de specii diferite de plante au fost documentate în limitele parcului.", "Temperatura medie anuală variază între 16 °C și 26 °C în funcție de altitudine."],
       en: ["The park was officially established on December 5, 1973, under Decree No. 1,529.", "The total area covers 15,000 hectares across the Capital District and Miranda State.", "The highest point in the park is at Alto del Volcán, reaching 2,090 meters above sea level.", "The Macarao and San Pedro rivers originate here, providing water to the city of Caracas.", "Over 500 different plant species have been documented within the park's boundaries.", "The average temperature fluctuates between 16 °C and 26 °C depending on the elevation."],
     },
+    image: "/poi-images/venezuela-parque-nacional-maclearo-life-v2.webp",
   },
   {
     id: "venezuela-parque-nacional-parima-tapirapec-life-v2",
@@ -310,6 +319,7 @@ export const venezuelaLifeV2: POI[] = [
       ro: ["Cu o suprafață de 38.290 km², este al cincilea cel mai mare parc național din lume.", "Parcul a fost înființat oficial la 1 august 1991 prin Decretul nr. 1.636.", "Adăpostește izvorul fluviului Orinoco, descoperit în 1951 de o expediție franco-venezueleană.", "Regiunea găzduiește aproximativ 15.000 de indigeni Yanomami în comunități tradiționale.", "Altitudinile din cadrul parcului variază între 150 și 2.100 de metri deasupra nivelului mării.", "Râuri importante precum Ocamo, Mavaca și Siapa își au originile în acest teritoriu protejat."],
       en: ["Spanning 38,290 km², it is the fifth-largest national park in the world by area.", "The park was officially established on August 1, 1991, under Decree No. 1,636.", "It houses the headwaters of the Orinoco River, discovered in 1951 by a Franco-Venezuelan expedition.", "The region is home to approximately 15,000 Yanomami indigenous people living in traditional communities.", "Elevations within the park range from 150 to 2,100 meters above sea level.", "Significant tributaries such as the Ocamo, Mavaca, and Siapa rivers originate within the park."],
     },
+    image: "/poi-images/venezuela-parque-nacional-parima-tapirapec-life-v2.webp",
   },
   {
     id: "venezuela-delta-del-orinoco-life-v2",
@@ -341,6 +351,7 @@ export const venezuelaLifeV2: POI[] = [
       ro: ["Regiunea formează statul venezuelean Delta Amacuro, având capitala la Tucupita.", "Cel mai mare braț al deltei este Rio Grande, care transportă cea mai mare parte a debitului.", "Parcul Național Mariusa protejează aproximativ 3.310 km² din delta centrală începând cu 1991.", "Populația Warao din deltă este estimată la peste 40.000 de persoane.", "Cantitatea anuală de precipitații în deltă poate ajunge până la 2.500 mm.", "Delta a fost observată de Cristofor Columb în 1498, în timpul celei de-a treia călătorii."],
       en: ["The region constitutes the Venezuelan state of Delta Amacuro, with Tucupita as its capital.", "The largest branch of the delta is the Rio Grande, which carries the bulk of the water flow.", "The Mariusa National Park has protected about 3,310 km² of the central delta since 1991.", "The Warao population in the delta is estimated at over 40,000 people.", "Annual rainfall in the delta can reach up to 2,500 mm.", "The delta was sighted by Christopher Columbus in 1498 during his third voyage."],
     },
+    image: "/poi-images/venezuela-delta-del-orinoco-life-v2.webp",
   },
   {
     id: "venezuela-parque-nacional-peninsula-de-paria-life-v2",
@@ -372,6 +383,7 @@ export const venezuelaLifeV2: POI[] = [
       ro: ["Parcul acoperă o suprafață totală de 37.500 de hectare de-a lungul peninsulei.", "Cel mai înalt vârf este Cerro El Humo, cu o altitudine de 1.373 de metri.", "Există cel puțin 28 de specii de plante endemice care se găsesc doar în acest parc.", "Cristofor Columb a debarcat aici, lângă Macuro, la 5 august 1498.", "Parcul adăpostește păsări rare, cum ar fi colibriul de safir (Amazilia distans).", "Temperatura medie anuală variază între 15 °C și 26 °C."],
       en: ["The park covers a total area of 37,500 hectares along the peninsula.", "The highest peak is Cerro El Humo, reaching 1,373 meters above sea level.", "There are at least 28 endemic plant species found only within this park.", "Christopher Columbus landed here on August 5, 1498, near Macuro.", "The park is home to rare birds like the Sapphire Hummingbird (Amazilia distans).", "The annual average temperature ranges between 15 °C and 26 °C."],
     },
+    image: "/poi-images/venezuela-parque-nacional-peninsula-de-paria-life-v2.webp",
   },
   {
     id: "venezuela-parque-nacional-cinaruco-capanaparo-life-v2",
@@ -403,6 +415,7 @@ export const venezuelaLifeV2: POI[] = [
       ro: ["Înființarea oficială a avut loc la 24 februarie 1988 prin Decretul nr. 2.018.", "Parcul se întinde pe 584.368 de hectare în sud-vestul statului Apure.", "„Médanos de Capanaparo” sunt singurele dune continentale din regiunea Llanos.", "Parcul adăpostește crocodilul de Orinoco (Crocodylus intermedius), specie în pericol critic.", "Piatra Galán (Piedra de Galán) este o formațiune de granit proeminentă din parc.", "Se estimează că peste 300 de specii diferite de păsări trăiesc în interiorul parcului."],
       en: ["The official establishment took place on February 24, 1988, under Decree No. 2,018.", "The park covers an area of 584,368 hectares in southwestern Apure.", "The 'Médanos de Capanaparo' are the only inland sand dunes in the Venezuelan Llanos.", "The park is home to the critically endangered Orinoco Crocodile (Crocodylus intermedius).", "The Galán Rock (Piedra de Galán) is a prominent granite formation within the park.", "An estimated 300 different bird species inhabit the national park."],
     },
+    image: "/poi-images/venezuela-parque-nacional-cinaruco-capanaparo-life-v2.webp",
   },
   {
     id: "venezuela-parque-nacional-dinira-life-v2",
@@ -434,6 +447,7 @@ export const venezuelaLifeV2: POI[] = [
       ro: ["Parcul a fost înființat oficial la 30 noiembrie 1988 prin Decretul nr. 2.564.", "Suprafața totală este de 45.328 de hectare, repartizată între trei state.", "Cel mai înalt punct al parcului este Cerro Cendé, la 3.585 de metri altitudine.", "Râuri importante precum Tocuyo și Boconó își au izvoarele în acest parc.", "Faimoasa cascadă „Cascada del Vino” are o înălțime de cădere de 90 de metri.", "Temperatura medie în zonele montane înalte variază între 6 °C și 15 °C."],
       en: ["The park was officially established on November 30, 1988, under Decree No. 2,564.", "The total area covers 45,328 hectares across three different states.", "The highest point in the park is Cerro Cendé, at 3,585 meters above sea level.", "Major rivers such as the Tocuyo and Boconó originate within the park's territory.", "The famous 'Cascada del Vino' waterfall features a drop height of 90 meters.", "Average temperatures in the highland areas range from approximately 6 °C to 15 °C."],
     },
+    image: "/poi-images/venezuela-parque-nacional-dinira-life-v2.webp",
   },
   {
     id: "venezuela-parque-nacional-chorro-el-indio-life-v2",
@@ -465,6 +479,7 @@ export const venezuelaLifeV2: POI[] = [
       ro: ["Înființarea oficială a avut loc la 7 decembrie 1989 prin Decretul nr. 641.", "Parcul acoperă o suprafață de exact 17.000 de hectare în sud-vestul Venezuelei.", "Cascada Chorro El Indio este situată la o altitudine de 1.300 de metri.", "Cel mai înalt punct al parcului atinge aproximativ 2.600 de metri deasupra mării.", "Temperatura medie anuală variază între 12 °C și 23 °C în funcție de zonă.", "Parcul protejează izvoarele râurilor Zuñiga și San Cristóbal."],
       en: ["The official establishment occurred on December 7, 1989, under Decree No. 641.", "The park covers an area of exactly 17,000 hectares in southwestern Venezuela.", "The Chorro El Indio waterfall cascade is located at an altitude of 1,300 meters.", "The highest point in the park reaches approximately 2,600 meters above sea level.", "The annual average temperature ranges between 12 °C and 23 °C.", "The park protects the headwaters of the Zuñiga and San Cristóbal rivers."],
     },
+    image: "/poi-images/venezuela-parque-nacional-chorro-el-indio-life-v2.webp",
   },
   {
     id: "venezuela-parque-nacional-tapo-caparo-life-v2",
@@ -496,6 +511,7 @@ export const venezuelaLifeV2: POI[] = [
       ro: ["Înființarea oficială a avut loc la 14 ianuarie 1993 prin Decretul nr. 2.759.", "Parcul se întinde pe o suprafață de aproximativ 205.000 de hectare.", "Barajul Uribante-Caparo este strâns legat de zona protejată a parcului.", "Altitudinile din cadrul parcului variază de la 150 până la 2.450 de metri.", "Parcul găzduiește specii rare de orhidee și ferigi arborescente de pădure de nori.", "Cantitatea anuală de precipitații depășește 3.000 mm în anumite zone ale parcului."],
       en: ["The official establishment occurred on January 14, 1993, under Decree No. 2,759.", "The park covers an area of approximately 205,000 hectares.", "The Uribante-Caparo dam is closely linked to the park's protected zone.", "Elevations within the park range from 150 to 2,450 meters above sea level.", "The park is home to rare orchid species and tree ferns of the cloud forests.", "Annual rainfall exceeds 3,000 mm in some areas of the park."],
     },
+    image: "/poi-images/venezuela-parque-nacional-tapo-caparo-life-v2.webp",
   },
   {
     id: "venezuela-parque-nacional-la-tupia-life-v2",
@@ -527,6 +543,7 @@ export const venezuelaLifeV2: POI[] = [
       ro: ["Parcul a fost înființat oficial la 7 decembrie 1989 prin Decretul nr. 640.", "Suprafața totală este de aproximativ 200.000 de hectare în Anzii înalți.", "Cel mai înalt punct este Pico Piedras Blancas, la 4.762 de metri altitudine.", "Parcul protejează peste 200 de lagune de origine glaciară.", "Temperatura medie în zonele înalte variază între -2 °C și 12 °C.", "Există mai mult de 50 de specii diferite de frailejones (Espeletia) în parc."],
       en: ["The park was officially established on December 7, 1989, under Decree No. 640.", "The total area is approximately 200,000 hectares in the high Andes.", "The highest point is Pico Piedras Blancas, reaching 4,762 meters in height.", "The park protects over 200 lagoons of glacial origin.", "Average temperatures in the high elevations range from -2 °C to 12 °C.", "There are more than 50 different species of frailejones (Espeletia) in the park."],
     },
+    image: "/poi-images/venezuela-parque-nacional-la-tupia-life-v2.webp",
   },
   {
     id: "venezuela-parque-nacional-peninsula-de-guanoco-life-v2",
@@ -558,6 +575,7 @@ export const venezuelaLifeV2: POI[] = [
       ro: ["Înființarea oficială a avut loc la 5 iunie 1991 prin Decretul nr. 1.632.", "Parcul cuprinde o suprafață totală de aproximativ 331.000 de hectare.", "Lacul de asfalt Guanoco se întinde pe o suprafață de aproximativ 4 kilometri pătrați.", "Regiunea are un climat tropical ploios, cu precipitații de până la 2.000 mm anual.", "În interiorul parcului trăiesc estimativ peste 150 de specii diferite de pești.", "Populația Warao utilizează palmierul Mauritia (moriche) ca principală resursă de viață."],
       en: ["The official establishment was on June 5, 1991, under Decree No. 1,632.", "The park covers a total area of approximately 331,000 hectares.", "The Guanoco Asphalt Lake spans an area of about 4 square kilometers.", "The region is characterized by a tropical rainy climate with up to 2,000 mm of rain.", "An estimated 150 different fish species live within the park's waters.", "The Warao people use the Mauritia palm (moriche) as their primary life resource."],
     },
+    image: "/poi-images/venezuela-parque-nacional-peninsula-de-guanoco-life-v2.webp",
   },
   {
     id: "venezuela-parque-nacional-serra-de-neblina-life-v2",
@@ -589,6 +607,7 @@ export const venezuelaLifeV2: POI[] = [
       ro: ["Înființarea oficială a avut loc la 12 decembrie 1978 prin Decretul nr. 2.978.", "Parcul acoperă o suprafață uriașă de 1.360.000 de hectare în statul Amazonas.", "Pico da Neblina este cel mai înalt munte din regiunea Tepui, cu 2.995 de metri.", "Cañón Grande del Río Baría este unul dintre cele mai adânci defilee din lume.", "Regiunea înregistrează precipitații anuale de peste 4.000 mm.", "Parcul face parte din Rezervația Biosferei Alto Orinoco-Casiquiare."],
       en: ["The official establishment was on December 12, 1978, under Decree No. 2,978.", "The park covers a massive area of 1,360,000 hectares in Amazonas State.", "Pico da Neblina is the highest mountain in the Tepui region at 2,995 meters.", "The Cañón Grande del Río Baría is one of the deepest canyons on Earth.", "The region records annual rainfall exceeding 4,000 mm.", "The park is a key component of the Alto Orinoco-Casiquiare Biosphere Reserve."],
     },
+    image: "/poi-images/venezuela-parque-nacional-serra-de-neblina-life-v2.webp",
   },
   {
     id: "venezuela-parque-nacional-turuépano-life-v2",
@@ -620,6 +639,7 @@ export const venezuelaLifeV2: POI[] = [
       ro: ["Înființarea oficială a avut loc la 5 iunie 1991 prin Decretul nr. 1.635.", "Parcul se întinde pe o suprafață de 72.600 de hectare în delta San Juan.", "Adăpostește una dintre puținele populații stabile de lamantini din Caraibe.", "Vegetația este compusă în proporție de 70% din diverse specii de mangrove.", "Temperatura medie anuală în cadrul parcului este de aproximativ 27 °C.", "Numeroase păsări migratoare din America de Nord folosesc parcul ca loc de iernare."],
       en: ["The official establishment occurred on June 5, 1991, under Decree No. 1,635.", "The park spans an area of 72,600 hectares within the San Juan delta.", "It hosts one of the few stable populations of the West Indian Manatee.", "The vegetation consists of 70% various species of mangroves.", "The annual average temperature in the park is approximately 27 °C.", "Numerous migratory birds from North America use the park as a wintering site."],
     },
+    image: "/poi-images/venezuela-parque-nacional-turuépano-life-v2.webp",
   },
   {
     id: "venezuela-parque-nacional-cueva-de-la-quebrada-del-toro-life-v2",
@@ -651,6 +671,7 @@ export const venezuelaLifeV2: POI[] = [
       ro: ["Parcul a fost înființat la 21 mai 1969 prin Decretul nr. 56.", "Acesta cuprinde o suprafață de 4.885 de hectare în Sierra de Falcón.", "Râul subteran din peșteră este navigabil pe o lungime de aproximativ 2 km.", "Peștera are o înălțime maximă de aproximativ 40 de metri în anumite secțiuni.", "Parcul găzduiește o colonie mare de guacharos (păsări de ulei).", "Cel mai înalt punct al parcului se află la o altitudine de aproximativ 1.200 de metri."],
       en: ["The park was established on May 21, 1969, under Decree No. 56.", "It covers an area of 4,885 hectares within the Sierra de Falcón.", "The underground river in the cave is navigable for about 2 kilometers.", "The cave has a maximum height of approximately 40 meters in some areas.", "The park is home to a large colony of oilbirds (guacharos).", "The highest point in the park is at an elevation of about 1,200 meters."],
     },
+    image: "/poi-images/venezuela-parque-nacional-cueva-de-la-quebrada-del-toro-life-v2.webp",
   },
   {
     id: "venezuela-parque-nacional-yacambú-life-v2",
@@ -682,6 +703,7 @@ export const venezuelaLifeV2: POI[] = [
       ro: ["Parcul a fost înființat la 12 iunie 1962 prin Decretul nr. 771.", "Suprafața totală este de 26.916 hectare în statul Lara.", "Altitudinile din cadrul parcului variază între 500 și 2.280 de metri.", "În parc au fost găsite până acum 14% din speciile de orhidee prezente în Venezuela.", "Râul Yacambú face parte din bazinul hidrografic al fluviului Orinoco.", "Cantitatea anuală de precipitații ajunge în medie la peste 2.000 mm."],
       en: ["The park was established on June 12, 1962, under Decree No. 771.", "The total area covers 26,916 hectares in Lara State.", "Elevations within the park range from 500 to 2,280 meters above sea level.", "So far, 14% of Venezuela's orchid species have been found within the park.", "The Yacambú River is part of the Orinoco watershed system.", "Annual rainfall averages over 2,000 mm in the park's territory."],
     },
+    image: "/poi-images/venezuela-parque-nacional-yacambú-life-v2.webp",
   },
   {
     id: "venezuela-parque-nacional-duida-marahuaca-life-v2",
@@ -713,6 +735,7 @@ export const venezuelaLifeV2: POI[] = [
       ro: ["Înființarea oficială a avut loc la 12 decembrie 1978 prin Decretul nr. 2.981.", "Parcul cuprinde o suprafață totală de 210.000 de hectare.", "Cerro Marahuaca atinge o altitudine maximă de 2.800 de metri.", "Geologia zonei aparține celor mai vechi straturi de rocă din lume.", "Aici își au izvoarele numeroși afluenți ai cursului superior al fluviului Orinoco.", "Regiunea înregistrează o cantitate anuală de precipitații de aproximativ 3.500 mm."],
       en: ["The official establishment was on December 12, 1978, under Decree No. 2,981.", "The park covers a total area of 210,000 hectares.", "Cerro Marahuaca reaches a maximum elevation of 2,800 meters.", "The geology of the area belongs to the oldest rock layers in the world.", "Numerous tributaries of the upper Orinoco River originate here.", "The region records an annual rainfall of approximately 3,500 mm."],
     },
+    image: "/poi-images/venezuela-parque-nacional-duida-marahuaca-life-v2.webp",
   },
   {
     id: "venezuela-parque-nacional-jaua-sarisariñama-life-v2",
@@ -744,6 +767,7 @@ export const venezuelaLifeV2: POI[] = [
       ro: ["Parcul a fost creat pe 12 decembrie 1974 prin decretul prezidențial nr. 636.", "Dolina Sima Humboldt are un diametru de 352 de metri la marginea superioară.", "Sima Martel atinge o adâncime maximă de aproximativ 314 metri.", "Tepuiul Sarisariñama se ridică la o altitudine de circa 2.300 de metri.", "Regiunea primește anual între 2.800 și 3.600 mm de precipitații.", "Craterele au fost observate pentru prima dată din avion în anul 1961."],
       en: ["The national park was established on December 12, 1974, by Decree No. 636.", "Sima Humboldt sinkhole has a rim diameter of 352 meters.", "Sima Martel sinkhole reaches a maximum depth of approximately 314 meters.", "Sarisariñama-tepui stands at an elevation of about 2,300 meters above sea level.", "The area receives between 2,800 and 3,600 mm of annual rainfall.", "The sinkholes were officially discovered during a flight in 1961."],
     },
+    image: "/poi-images/venezuela-parque-nacional-jaua-sarisariñama-life-v2.webp",
   },
   {
     id: "venezuela-parque-nacional-aguanaro-life-v2",
@@ -775,6 +799,7 @@ export const venezuelaLifeV2: POI[] = [
       ro: ["Parcul a fost creat pe 7 martie 1974 prin decretul prezidențial nr. 1.686.", "Suprafața totală este de aproximativ 5.690 de kilometri pătrați.", "Temperatura medie anuală în parc este de aproximativ 28 de grade Celsius.", "Parcul găzduiește peste 300 de specii diferite de păsări.", "Altitudinea variază foarte puțin, între 40 și 150 de metri deasupra mării.", "În apele parcului trăiește rarul și periculosul crocodil de Orinoco."],
       en: ["The park was established on March 7, 1974, by Executive Decree No. 1,686.", "The total area covers approximately 5,690 square kilometers.", "The average annual temperature in the park is around 28 degrees Celsius.", "The national park is home to over 300 different species of birds.", "The elevation varies slightly between 40 and 150 meters above sea level.", "The waters of the park are inhabited by the rare Orinoco crocodile."],
     },
+    image: "/poi-images/venezuela-parque-nacional-aguanaro-life-v2.webp",
   },
   {
     id: "venezuela-parque-nacional-guatopo-life-v2",
@@ -806,6 +831,7 @@ export const venezuelaLifeV2: POI[] = [
       ro: ["Parcul național a fost declarat oficial la data de 31 martie 1958.", "Suprafața sa se întinde pe exact 1.224,64 de kilometri pătrați.", "Cel mai înalt punct din parc se află la aproximativ 1.430 de metri altitudine.", "Cantitatea anuală de precipitații variază între 1.400 și 2.800 mm.", "În interiorul parcului au fost identificate peste 400 de specii de păsări.", "Guatopo protejează izvoarele râurilor Tuy și Taguaza, vitale pentru Caracas."],
       en: ["The national park was officially declared on March 31, 1958.", "It spans an area of exactly 1,224.64 square kilometers.", "The highest point in the park reaches approximately 1,430 meters above sea level.", "Annual rainfall in the area ranges between 1,400 and 2,800 mm.", "Over 400 different bird species have been documented within the park.", "Guatopo protects the headwaters of the Tuy and Taguaza rivers."],
     },
+    image: "/poi-images/venezuela-parque-nacional-guatopo-life-v2.webp",
   },
   {
     id: "venezuela-parque-nacional-san-esteban-life-v2",
@@ -837,6 +863,7 @@ export const venezuelaLifeV2: POI[] = [
       ro: ["Parcul a fost înființat la 14 ianuarie 1987 prin decretul nr. 1.430.", "Suprafața totală a parcului este de aproximativ 445 de kilometri pătrați.", "Cea mai mare altitudine din parc este vârful Cerro Villalonga, de 1.830 de metri.", "Parcul include patru insule: Isla Larga, Isla Santo Domingo, Isla Alcatraz și Isla del Rey.", "În interiorul parcului se află cel mai vechi far din Venezuela, situat în Puerto Cabello.", "Temperatura medie variază de la 20 de grade în munți la 28 de grade pe coastă."],
       en: ["The park was established on January 14, 1987, by Executive Decree No. 1,430.", "The total area of the park covers approximately 445 square kilometers.", "The highest peak in the park is Cerro Villalonga at 1,830 meters.", "The park includes four islands: Isla Larga, Isla Santo Domingo, Isla Alcatraz, and Isla del Rey.", "The oldest lighthouse in Venezuela is located within the park area in Puerto Cabello.", "The average temperature ranges from 20 degrees in the mountains to 28 degrees at the coast."],
     },
+    image: "/poi-images/venezuela-parque-nacional-san-esteban-life-v2.webp",
   },
   {
     id: "venezuela-parque-nacional-capanaparo-life-v2",
@@ -868,5 +895,6 @@ export const venezuelaLifeV2: POI[] = [
       ro: ["Parcul a fost înființat la 24 februarie 1988 prin decretul prezidențial nr. 2.018.", "Suprafața totală este de aproximativ 5.843 de kilometri pătrați.", "În parc se află Galeras del Cinaruco, niște formațiuni deluroase de până la 200 de metri înălțime.", "Parcul găzduiește cea mai mare populație mondială de crocodili de Orinoco în libertate.", "Temperatura medie este constantă pe tot parcursul anului, în jur de 27 de grade Celsius.", "Zona este un loc crucial de cuibărit pentru peste 300 de specii de păsări."],
       en: ["The park was established on February 24, 1988, by Executive Decree No. 2,018.", "The total area covers approximately 5,843 square kilometers.", "The park features the Galeras del Cinaruco, hill ranges rising up to 200 meters high.", "It is home to the world's largest remaining population of the endangered Orinoco crocodile.", "The average temperature remains constant at around 27 degrees Celsius year-round.", "The area serves as a vital breeding ground for over 300 different bird species."],
     },
+    image: "/poi-images/venezuela-parque-nacional-capanaparo-life-v2.webp",
   }
 ];

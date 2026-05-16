@@ -48,7 +48,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A várost 1150 körül alapították német telepesek (szászok).", "Az evangélikus templom híres 16. századi szárnyas oltáráról.", "A középkorban egyike volt az erdélyi szászok hét legfontosabb városának (Siebenbürgen).", "A védőfalakkal ellátott városmű a 14. századból származik.", "Itt keresztezi egymást az A1-es autópálya és a 7-es országút.", "A városi múzeum (Ioan Raica) a történelmi Zápolya-házban található.", "Sebeș kb. 250 méteres tengerszint feletti magasságban fekszik.", "Fontos romániai központ a faipari feldolgozás területén."],
       "ro": ["Sebeș a fost fondat în jurul anului 1150 de coloniști germani (sași).", "Biserica evanghelică deține unul dintre cele mai valoroase altare poliptice din Transilvania, datând din secolul al XVI-lea.", "În Evul Mediu, a fost una dintre cele 'Șapte Cetăți' (Siebenbürgen) săsești.", "Zidurile orașului, cu turnurile de apărare, datează din secolul al XIV-lea.", "Aici se intersectează autostrada A1 și drumul național DN7.", "Muzeul Municipal 'Ioan Raica' este găzduit în istorica Casă Zápolya.", "Orașul este un centru major al industriei de prelucrare a lemnului din România."],
       "en": ["Founded by German settlers, known historically as Mühlbach.", "The Sebeș Fortress was one of the first and most important Saxon fortifications in Transylvania.", "Home to a monumental 12th-century Evangelical Church.", "A major economic center with significant foreign investments in the industrial sector.", "Located at an important junction of Romanian national roads and motorways.", "The city's historical center preserves its medieval street plan."]
-}
+},
+    image: "/poi-images/city-sebes-extra.webp",
   },
   {
     "id": "city-aiud-extra",
@@ -96,7 +97,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Az enyedi várat a 14. században építették, kilenc védőtoronnyal rendelkezik.", "A Bethlen Gábor Kollégiumot 1622-ben alapította Bethlen Gábor fejedelem.", "Itt található az egyik legrégebbi romániai természettudományi múzeum (1796-ban alapították).", "A város a reformáció egyik fontos központja volt Erdélyben.", "A várfalon belüli református templom gótikus stílusjegyeket mutat.", "Stratégiailag a Gyulafehérvár-Kolozsvár vasútvonal mentén fekszik.", "Évente bormustrával ünneplik a környék régi szőlőtermesztési hagyományait.", "A kommunista időszakban az enyedi börtön hírhedt volt a politikai foglyok fogva tartásáról."],
       "ro": ["Cetatea Aiudului datează din secolul al XIV-lea și include nouă turnuri de apărare.", "Colegiul Bethlen Gábor a fost fondat în 1622 de principele Gabriel Bethlen.", "Aiudul găzduiește unul dintre cele mai vechi muzee de științe naturale din România, fondat în 1796.", "Orașul a fost un centru important al Reformei în Transilvania.", "Biserica reformată din interiorul cetății prezintă elemente impresionante de stil gotic.", "În perioada comunistă, închisoarea din Aiud era cunoscută pentru deținerea prizonierilor politici."],
       "en": ["The Aiud Citadel is a significant and well-preserved medieval urban fortress.", "Historically, the city was a major cultural and religious center for Hungarian Protestants in Transylvania.", "The Bethlen Gábor College is one of the oldest and most famous schools in the region.", "The citadel has many towers, named after the guilds that defended them (e.g., Butchers' Tower, Tailors' Tower).", "Its historical German name is Straßburg am Mieresch.", "The city is situated on the banks of the Mureș River."]
-}
+},
+    image: "/poi-images/city-aiud-extra.webp",
   },
   {
     "id": "city-blaj-extra",
@@ -144,7 +146,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A város a Nagy- és Kis-Küküllő összefolyásánál fekszik, stratégiai helyen.", "1848 májusában itt tartották a román nemzeti gyűlést a Szabadság-mezőn.", "A görögkatolikus katedrális 1738 és 1765 között épült barokk stílusban.", "Itt nyílt meg az első román nyelvű gimnázium 1754-ben.", "A város könyvtára több mint 150 000 kötetet és ritka kéziratot őriz.", "A balázsfalvi 'Metropolisz' kulturális központ az ország egyik legmodernebbje.", "A környék híres a Küküllő-menti borvidék kiváló fehérborairól.", "A város lakossága a 2011-es népszámláláskor mintegy 20 000 fő volt."],
       "ro": ["Blajul a fost menționat documentar pentru prima dată în anul 1252.", "Orașul este considerat locul de naștere al limbii române literare moderne.", "Adunarea Națională de la 1848 de pe Câmpia Libertății a avut peste 40.000 de participanți.", "Catedrala din Blaj a fost construită între anii 1741 și 1749 în stil baroc.", "La Blaj s-a deschis prima școală publică cu predare în limba română din Transilvania.", "Orașul este renumit pentru vinurile albe de înaltă calitate din podgoria Târnave."],
       "en": ["Known as 'Little Rome' due to its role as a center of Romanian culture and enlightenment.", "The primary religious center for the Romanian Greek-Catholic Church.", "Central to the 'Transylvanian School' (Școala Ardeleană) intellectual movement.", "The site of the 1848 National Assembly on the 'Field of Liberty'.", "The city's layout was planned in the 18th century with a focus on its religious and educational role.", "Located at the confluence of the Târnava Mare and Târnava Mică rivers."]
-}
+},
+    image: "/poi-images/city-blaj-extra.webp",
   },
   {
     "id": "city-pecica-extra",
@@ -192,7 +195,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A Nagysánc régészeti lelőhelyen 14 méter vastag kultúrréteget tártak fel.", "A település 2004-ben kapott városi rangot, addig Európa egyik legnagyobb faluja volt.", "A pécskai kenyér hivatalosan bejegyzett, hagyományos romániai termék.", "A római katolikus templomot 1887-ben építették neogótikus stílusban.", "A város környékén jelentős kőolaj- és földgázkitermelés folyik.", "A Maros-ártér Natúrpark részeként a környék gazdag vízi élővilággal bír.", "A településen keresztülhalad az egyik legfontosabb vasúti és közúti határútvonal.", "Pécskán évente megrendezik az 'Új Kenyér Ünnepét' augusztusban."],
       "ro": ["Săpăturile arheologice de la 'Șanțul Mare' au scos la iveală așezări din Epoca Bronzului.", "Faimoasa 'Pâine de Pecica' era coaptă tradițional în cuptoare speciale de lut.", "Pecica a primit statutul de oraș în anul 2004.", "Parcul Natural Lunca Mureșului începe în imediata apropiere a orașului.", "Biserica romano-catolică din oraș este o construcție impresionantă de la sfârșitul secolului al XIX-lea.", "În fiecare an are loc 'Sărbătoarea Pâinii Noi', care celebrează rădăcinile agricole ale orașului."],
       "en": ["Home to the Ziridava archaeological site, an important Dacian settlement.", "Known for producing 'Pita de Pecica,' a famous Romanian bread with EU protection.", "Located in close proximity to the Hungarian border.", "An important center for agriculture, especially grain and vegetable production.", "The Mureș River flows near the town.", "Part of the historical Crișana region."]
-}
+},
+    image: "/poi-images/city-pecica-extra.webp",
   },
   {
     "id": "city-santana-extra",
@@ -240,7 +244,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A várost 1742-ben alapították Mária Terézia uralkodása idején német telepesek.", "A Szent Anna tiszteletére szentelt katolikus templom 1868-ban épült.", "Újszentanna 2003-ban kapott városi rangot, azóta jelentősen modernizálódott.", "A település vasúti csomópont, ahol az Arad-Nagyvárad és Arad-Brád vonalak találkoznak.", "A város híres volt szőlőtermesztéséről és borászatáról a 19. században.", "A lakosság létszáma körülbelül 11 000 fő, román és magyar közösségekkel.", "A környéken található a 'Mika-kastély', amely egykor a helyi földesurak székhelye volt.", "A város gazdasága ma főleg az élelmiszeriparra és a könnyűiparra épül."],
       "ro": ["Sântana a fost fondată în anul 1736 la inițiativa împărătesei Maria Terezia.", "Orașul a fost odinioară una dintre cele mai mari comunități germane din Ținutul Aradului.", "Biserica catolică 'Sfânta Ana' este un monument arhitectural central al orașului.", "Sântana se află pe importanta linie de cale ferată dintre Arad și Oradea.", "Regiunea din jurul Sântanei este considerată una dintre cele mai fertile zone agricole din România.", "Sântana a fost declarată oficial oraș în anul 2003."],
       "en": ["A town with a diverse ethnic and cultural history.", "Located in the Crișana Plain, a flat and fertile agricultural area.", "Historically known as Sanktanna in German.", "Its development was strongly linked to the colonization by Swabian Germans in the 18th century.", "An important local center for grain trade.", "The town has a Roman Catholic church that is a prominent local landmark."]
-}
+},
+    image: "/poi-images/city-santana-extra.webp",
   },
   {
     "id": "city-lipova-extra",
@@ -288,7 +293,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Solymos vára (Cetatea Șoimoș) 1278 körül épült, és Mátyás király tulajdonában is volt.", "A pécskai bazár az egyetlen megmaradt török kereskedelmi épület a régióban.", "A Lippa-fürdő ásványvizei híresek szív- és érrendszeri gyógyhatásukról.", "A város területén található az 1390 körül alapított ortodox kolostor.", "Lippa 1552 és 1687 között hosszabb megszakításokkal török uralom alatt állt.", "A Mária-radnai bazilikát Ferenc pápa emelte 'basilica minor' rangra.", "A város múzeuma a Sever Bocu-kastélyban kapott helyet, gazdag gyűjteménnyel.", "Lippa stratégiai fekvése miatt fontos közúti csomópont a Maros-völgyében."],
       "ro": ["Lipova a fost menționată documentar pentru prima dată în anul 1245.", "Cetatea Șoimoș a fost construită în secolul al XIII-lea pentru protecție împotriva invaziilor tătare.", "Apele minerale de la Lipova au fost premiate pentru efectele lor curative încă din 1818.", "În apropiere se află Mănăstirea Maria Radna, unul dintre cele mai importante locuri de pelerinaj catolic din sud-estul Europei.", "Orașul se află pe ruta comercială istorică ce lega Transilvania de Câmpia Panonică.", "În timpul războaielor otomane, a fost disputată între habsburgi și turci."],
       "en": ["Overlooked by the ruins of the medieval Șoimoș Fortress.", "Features a historic Turkish bazaar, unique for this region of Romania.", "Located on the Mureș River at the point where it emerges from the mountains.", "The town was an important strategic point during the Ottoman wars in Europe.", "Known for its natural mineral water springs.", "The local hospital, founded in the 19th century, is a historic monument."]
-}
+},
+    image: "/poi-images/city-lipova-extra.webp",
   },
   {
     "id": "city-curtea-de-arges-extra",
@@ -336,7 +342,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A várost a 13. században alapították, és 1330 körül vált fejedelmi székhellyé.", "A kolostortemplom Neagoe Basarab fejedelem építtette a 16. század elején.", "Itt nyugszik I. Károly, I. Ferdinánd, II. Károly és I. Mihály román király.", "A Szent Miklós fejedelmi templom a legrégebbi fennmaradt bizánci templom Romániában.", "A város a híres Transzfogarasi út déli kiindulópontja a hegyek felé.", "A közeli Poenari vára a történelmi Drakula, Vlad Țepeș valódi erődítménye volt.", "Argyasudvarhely porcelángyártásáról és kézműiparáról is ismert volt.", "A Vidraru-gát és víztározó mindössze 25 kilométerre található északra."],
       "ro": ["Curtea de Argeș a fost prima reședință a domnitorilor Țării Românești în secolul al XIV-lea.", "Mănăstirea a fost construită de Neagoe Basarab între anii 1512 și 1517.", "În catedrala mănăstirii sunt înmormântați toți regii României, de la Carol I la Mihai I.", "Biserica Domnească este pe lista de candidați pentru Patrimoniul Mondial UNESCO.", "Numele orașului înseamnă 'Curtea de pe Argeș'.", "Ruinele din apropiere ale Cetății Poenari sunt considerate a fi adevăratul castel al lui Vlad Țepeș."],
       "en": ["One of the earliest capitals of the historical principality of Wallachia.", "Home to the stunning Curtea de Argeș Monastery, a royal burial site.", "The legend of Meșterul Manole is famously associated with the monastery's construction.", "The Princely Church of Saint Nicholas is one of the oldest medieval monuments in Wallachia.", "Serves as the starting point for the scenic Transfăgărășan mountain road.", "The city's name means 'The Court on the Argeș River'."]
-}
+},
+    image: "/poi-images/city-curtea-de-arges-extra.webp",
   },
   {
     "id": "city-campulung-extra",
@@ -384,7 +391,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A város 1300 és 1330 között Havasalföld első fővárosa volt.", "Itt található a 'Bărăția', egy 13. századi alapítású római katolikus templom.", "A város híres volt az ARO terepjárók gyártásáról, amelyeket világszerte exportáltak.", "Hosszúmező az ország egyik legfontosabb néprajzi központja a Muscel-vidék szívében.", "A Negru Vodă kolostor komplexumát a 14. században alapították.", "A város klímája szubmontán, ideális a gyógyturizmus és pihenés számára.", "Itt található a Mateiaș-mauzóleum, amely az I. világháború hőseinek állít emléket.", "A város híres tradicionális viseletéről és a kézzel szőtt szőnyegeiről."],
       "ro": ["Câmpulung a fost menționat pentru prima dată în 1300 și a fost capitala Țării Românești până în 1369.", "Aici a fost redactată în 1521 Scrisoarea lui Neacșu, cel mai vechi document păstrat în limba română.", "Mănăstirea Negru Vodă a fost ridicată, conform legendei, de miticul fondator al Țării Românești în 1215.", "În Evul Mediu, a fost un important centru comercial cu Transilvania.", "În apropiere se află Mausoleul de la Mateiaș, dedicat eroilor din Primul Război Mondial."],
       "en": ["Considered the first capital of Wallachia before Curtea de Argeș.", "Neacșu's Letter, the oldest surviving document in Romanian, originated here.", "The city has a characteristic elongated urban plan, stretching along the Râul Târgului.", "Home to the Negru Vodă Monastery, a major historical and religious site.", "The 'Jidova' Roman fort is located near the city, marking the Roman Empire's border.", "It is located in the Muscel depression, a distinct ethnographic and historical region."]
-}
+},
+    image: "/poi-images/city-campulung-extra.webp",
   },
   {
     "id": "city-mioveni-extra",
@@ -432,7 +440,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A Dacia gyárat 1966-ban alapították, az első modell a Dacia 1100 volt.", "Mioveni ad otthont a Román Nukleáris Kutatóintézetnek (ICN).", "A város 1989-ben kapott városi rangot, addig Colibași néven volt ismert.", "A Dacia gyár évente több százezer gépkocsit bocsát ki a világpiacra.", "A Mioveni Kulturális Központ az ország egyik legmodernebb ilyen jellegű intézménye.", "A város közelében található a festői Argeș-völgy és több fontos kolostor.", "A lakosság nagy része az autóiparhoz kapcsolódó szolgáltatásokban dolgozik.", "A város modern infrastruktúrával és kiterjedt zöldövezetekkel rendelkezik."],
       "ro": ["Între anii 1964 și 1996, orașul s-a numit 'Colibași'.", "Uzina Dacia din Mioveni produce anual sute de mii de vehicule pentru piața mondială.", "Aici a fost fabricat primul Dacia 1100 în 1968, sub licență franceză.", "Mioveni găzduiește unicul Institut de Cercetări Nucleare (ICN) din România.", "Orașul dispune de o arenă sportivă modernă care găzduiește competiții naționale.", "Sectorul auto reprezintă peste 90% din performanța economică locală."],
       "en": ["Home to the Automobile Dacia car manufacturing plant.", "A major center of the Romanian automotive industry.", "The city's population and economy grew exponentially with the car factory.", "Hosts Romania's main Institute for Nuclear Research.", "Evolved from a rural commune into a modern industrial city in the 20th century.", "Most of the city's residential buildings are socialist-era apartment blocks."]
-}
+},
+    image: "/poi-images/city-mioveni-extra.webp",
   },
   {
     "id": "city-onesti-extra",
@@ -480,7 +489,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A várost 1458-ban említették először, de modern várossá az 1950-es években vált.", "Onești 1965 és 1990 között Gheorghe Gheorghiu-Dej kommunista vezető nevét viselte.", "Itt található Románia egyik legnagyobb gumigyártó és vegyipari egysége.", "A Nadia Comăneci sportcsarnok a város egyik legfontosabb szimbóluma.", "A város a Tatros, a Kaszin és az Ojtó folyók összefolyásánál fekszik.", "Onești híres a magasan képzett mérnökeiről és technikai szakembereiről.", "A közelben található a gyimesi szoros és a Kárpátok gyönyörű hegyvonulatai.", "A város lakossága körülbelül 39 000 fő a legutóbbi adatok szerint."],
       "ro": ["Între 1958 și 1996, orașul a purtat numele Gheorghe Gheorghiu-Dej.", "Nadia Comăneci, prima gimnastă care a obținut nota 10 perfect la Jocurile Olimpice din 1976, s-a născut aici.", "Combinatul chimic de la Borzești a fost odată unul dintre cele mai mari din Europa de Est.", "Biserica din Borzești, ctitorită de Ștefan cel Mare în 1494, este un important monument istoric.", "Orașul este un nod important pentru transportul feroviar și rutier în regiunea Moldova.", "La Onești există un liceu special pentru performanțe sportive de înaltă clasă."],
       "en": ["A major center for the petrochemical industry in Romania.", "The city's modern development was a key project of the communist regime.", "The birthplace of Olympic gymnastics legend Nadia Comăneci.", "For a time, it was named Gheorghe Gheorghiu-Dej.", "Located at the confluence of the Trotuș and Cașin rivers.", "Its urban plan is a prime example of socialist-era city design."]
-}
+},
+    image: "/poi-images/city-onesti-extra.webp",
   },
   {
     "id": "city-moinesti-extra",
@@ -519,7 +529,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A város területén több mint 150 éve folyik folyamatos olajkitermelés.", "A Dada-emlékművet 1996-ban állították Tristan Tzara születésének 100. évfordulóján.", "Mojnest környéke gazdag fenyő- és bükkerdőkben, kiváló kirándulóhely.", "A településen 10 különböző típusú ásványvízforrás található.", "A mojnesti olajmúzeum bemutatja a kitermelés technikai fejlődését a kezdetektől.", "A város 2002-ben kapott municípiumi (megyei jogú város) rangot.", "A környéken több fontos ortodox kolostor és templom is található.", "Mojnest híres volt sósfürdőjéről, amely reumatikus panaszokat gyógyított."],
       "ro": ["La Moinești, prima utilizare a petrolului a fost documentată încă din 1445.", "Tristan Tzara, liderul dadaismului, s-a născut aici în 1896 ca Samuel Rosenstock.", "Monumentul Dada a fost creat în 1996 de sculptorul Ingo Glass, la 100 de ani de la nașterea lui Tzara.", "Orașul deține izvoare curative cu conținut de clor, sodiu și sulf.", "Extracția de petrol din regiune este operată astăzi în principal de OMV Petrom.", "Parcul Pinilor este o zonă populară de agrement cu arbori de conifere vechi."],
       "en": ["A major center for the Romanian oil industry.", "Industrial-scale oil extraction began in the 19th century.", "Tristan Tzara, a founder of the Dada movement, was born in Moinești in 1896.", "The Dada Monument was erected in 1996.", "The city is located in the Zăbrăuți mountains.", "The local economy is still largely based on the oil and gas industry."]
-}
+},
+    image: "/poi-images/city-moinesti-extra.webp",
   },
   {
     "id": "city-comanesti-extra",
@@ -558,7 +569,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A Ghika-palotát 1890-ben tervezte a híres francia építész, Albert Galleron.", "A város a Tatros folyó mentén fekszik, fontos vasúti és közúti vonalon.", "A kománfalvi bányászat több száz éves múltra tekint vissza, de mára leállt.", "A 'Medvetánc' fesztivál az UNESCO szellemi örökségének várományosa.", "A Ghika-park Románia egyik legnagyobb és legszebb városi dendrológiai parkja.", "A város környékén található a Tarkő-hegység (Munții Tarcău) vadregényes vidéke.", "Kománfalva fontos központja volt az egykori moldvai faúsztatásnak.", "A város modern szabadidőközponttal és uszodával is rendelkezik."],
       "ro": ["Palatul Ghika a fost proiectat în 1890 de arhitectul italian Albert Galleron.", "Comănești este renumit pentru 'Jocul Urșilor', un obicei spectaculos de Anul Nou.", "Orașul se află pe linia ferată strategică ce leagă Moldova de Transilvania.", "În trecut, Comănești a fost un centru important pentru extracția de cărbune în regiune.", "Muzeul orășenesc din Palatul Ghika prezintă exponate de etnografie și artă contemporană.", "Silvicultura joacă și astăzi un rol central în economia locală."],
       "en": ["Historically, a center for coal mining.", "The Ghica-Comănești Palace was built in 1890.", "The city is located in the Trotuș River valley.", "The 'bear dance' is a famous winter festival held in Comănești.", "The city is surrounded by mountains and forests.", "The local economy is diversifying from mining to tourism and other industries."]
-}
+},
+    image: "/poi-images/city-comanesti-extra.webp",
   },
   {
     "id": "city-salonta-extra",
@@ -597,7 +609,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Arany János 1817-ben született a városban, szülőháza helyén ma emlékház áll.", "A Csonkatorony a 17. századi hajdúvár egyetlen épen maradt bástyája.", "Nagyszalontát 1606-ban tette szabad hajdúvárossá Bocskai István fejedelem.", "A református templom a város egyik legfontosabb építészeti emléke.", "A város híres szülötte még Kulin György csillagász és Zilahy Lajos író.", "A szalontai szalámigyár országos hírű élelmiszeripari üzem volt.", "A városban minden évben megrendezik az Arany János Emléknapokat márciusban.", "Nagyszalonta lakossága kb. 17 000 fő, amiből közel 60% magyar anyanyelvű."],
       "ro": ["Salonta a fost fondată în 1606 de principele István Bocskai ca așezare pentru 300 de haiduci.", "János Arany, unul dintre cei mai importanți poeți lirici maghiari, s-a născut la Salonta în 1817.", "Turnul Ciunt a făcut parte dintr-o cetate care în secolul al XVII-lea servea la protecția împotriva otomanilor.", "Salonta este al doilea cel mai mare oraș din județul Bihor, după Oradea.", "Salonta este renumită pentru producția sa tradițională de salam și mezeluri.", "În împrejurimile Salontei există arii protejate importante pentru dropie, o pasăre rară de stepă."],
       "en": ["Birthplace of Hungarian poet János Arany (1817).", "The Arany János Memorial Museum is located here.", "The 'Csonka' tower is the oldest building in the city.", "Salonta has a significant Hungarian majority.", "The city is a center for the food industry, especially meat processing.", "It is located on the Crișul Negru river."]
-}
+},
+    image: "/poi-images/city-salonta-extra.webp",
   },
   {
     "id": "city-marghita-extra",
@@ -636,7 +649,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A várost először 1216-ban említették a Váradi Regestumban.", "A Csáky-kastély barokk stílusban épült a 18. század végén.", "Margitta termálfürdője 50-60 fokos gyógyvízzel rendelkezik.", "A város 1968-ban kapott városi rangot, 2003-tól pedig municípium.", "Itt található a Berettyó-menti régió egyik legfontosabb kórháza.", "A református templom a 16. századból származó elemeket is őriz.", "A város híres volt kézműveseiről, különösen a cipész- és bőriparáról.", "Margitta lakossága kb. 15 000 fő, jelentős magyar közösséggel (kb. 40%)."],
       "ro": ["Marghita a fost menționată pentru prima dată în anul 1216.", "Ștrandul termal din Marghita este cunoscut pentru eficacitatea sa în tratarea afecțiunilor reumatice.", "Marghita a primit oficial statutul de municipiu în anul 2003.", "Orașul găzduiește Castelul Csáky, o importantă construcție barocă ce servește astăzi ca primărie.", "Economia este marcată de industria textilă, prelucrarea alimentelor și agricultură.", "Sărbătoarea anuală a orașului este un punct culminant al vieții culturale."],
       "en": ["First documented in 1216.", "Marghita is known for its thermal baths.", "The city has a diverse ethnic composition, with large Romanian and Hungarian communities.", "The local economy is based on agriculture, textiles, and footwear manufacturing.", "The city is located in the Barcău river plain.", "It is an important transportation junction in the region."]
-}
+},
+    image: "/poi-images/city-marghita-extra.webp",
   },
   {
     "id": "city-beius-extra",
@@ -675,7 +689,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A Samuil Vulcan Líceumot 1828-ban alapították, a régió egyik legfontosabb iskolája.", "A város mellett jelentős geotermikus energiaforrások találhatók, amiket fűtésre használnak.", "A belényesi néprajzi múzeum gazdag gyűjteménnyel bír a Fekete-Körös völgyéből.", "A település 1451-ben kapott mezővárosi rangot a váradi püspökségtől.", "Itt rendezik meg minden csütörtökön a régió legnagyobb kirakodóvásárát.", "A város környéki hegyekben található Románia egyik legnagyobb bauxitlelőhelye.", "A református templom kazettás mennyezete egyedülálló művészeti emlék.", "Belényes lakossága kb. 10 000 fő, a magyar közösség aránya kb. 7%."],
       "ro": ["Beiuș a fost menționat pentru prima dată în documente în 1263, după marea invazie tătară.", "Colegiul Național 'Samuil Vulcan', fondat în 1828, a fost una dintre primele instituții de învățământ românești din Transilvania.", "Orașul utilizează energia geotermală pentru încălzirea unei mari părți a clădirilor publice.", "În apropierea Beiușului se află satul Meziad, cu una dintre cele mai mari peșteri din România.", "Biserica ortodoxă 'Sfântul Dumitru' este un monument arhitectural central al orașului."],
       "en": ["Known as the 'School Town' of the region.", "The Samuil Vulcan National College was founded in 1828.", "Beiuș is a gateway to the Apuseni Mountains.", "The city has a museum with diverse collections.", "The local economy has a tradition in furniture manufacturing.", "It is located on the Crișul Negru river."]
-}
+},
+    image: "/poi-images/city-beius-extra.webp",
   },
   {
     "id": "city-nasaud-extra",
@@ -714,7 +729,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A várost 1245-ben említették először, neve valószínűleg a német 'Nassau'-ból ered.", "Naszód több mint 20 román akadémikust adott a nemzetnek.", "A Határőr Múzeum (Muzeul Grăniceresc) gazdag történelmi és néprajzi anyagot őriz.", "A város híres szülötte Liviu Rebreanu író, akinek emlékháza a közeli Priszlopon található.", "A naszódi viselet jellegzetessége a 'pávás' kalap (clopul cu păun).", "A George Coșbuc Főgimnázium az ország egyik legrangosabb középiskolája.", "A város környéke híres a gyümölcstermesztésről és a jó minőségű pálinkáról.", "Naszód lakossága kb. 9 000 fő, dinamikusan fejlődő kisváros."],
       "ro": ["Năsăud a fost menționat pentru prima dată în 1245.", "Orașul a fost centrul celui de-al 2-lea Regiment Românesc de Graniță din Imperiul Habsburgic.", "Peste 20 de membri ai Academiei Române provin din Năsăud sau din imediata apropiere.", "Muzeul Grăniceresc este găzduit într-o fostă cazarmă din secolul al XVIII-lea.", "În fiecare an, în luna mai, are loc parada 'Maial', unde sunt prezentate costume tradiționale.", "Năsăud este un punct de plecare important pentru explorări în Munții Rodnei."],
       "en": ["Headquarters of a border regiment in the Habsburg Military Frontier.", "An important center of Romanian education in Transylvania.", "Birthplace of writer Liviu Rebreanu (1885).", "The town has a museum dedicated to the military frontier period.", "Năsăud is located on the Someșul Mare River.", "The town is known for its traditional costumes and folklore."]
-}
+},
+    image: "/poi-images/city-nasaud-extra.webp",
   },
   {
     "id": "city-beclean-extra",
@@ -753,7 +769,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A várost 1235-ben említették először a pápai tizedjegyzékben.", "Bethlen fekvése stratégiai, itt találkoznak a fontos északi vasútvonalak.", "A Baile Figa üdülőhely sós vize kiváló mozgásszervi panaszok kezelésére.", "A Bethlen-kastélyokban ma különböző közintézmények és iskolák működnek.", "A református templom a 15. századból származó gótikus elemeket is őriz.", "A város környéke híres a halastavairól és a horgászati lehetőségekről.", "Bethlen minden évben otthont ad a 'Hunyadmegyei Napok' kulturális rendezvénynek.", "A lakosság kb. 10 000 fő, a magyar közösség aránya kb. 14%."],
       "ro": ["Beclean a fost menționat pentru prima dată în 1235 sub numele de Bethleem.", "Castelul Bethlen este un important monument de arhitectură barocă în centrul orașului.", "Stațiunea Băile Figa se întinde pe 15 hectare și oferă bazine cu apă sărată terapeutică.", "Beclean este un nod feroviar important în nordul României.", "Herghelia Beclean este renumită pentru creșterea cailor din rasa Lipițan.", "În apropiere a avut loc în 1848 o bătălie importantă a Revoluției Maghiare."],
       "en": ["An important railway junction.", "Located at the confluence of the Someșul Mare and Șieu rivers.", "The Bethlen Castle dates back to the 15th century.", "Beclean has a significant Hungarian minority.", "The town is a center for the food and wood processing industries.", "The area is popular for fishing and hunting."]
-}
+},
+    image: "/poi-images/city-beclean-extra.webp",
   },
   {
     "id": "city-sangeorz-bai-extra",
@@ -792,7 +809,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Az ásványvízforrásokat már 1770-ben hivatalosan dokumentálták.", "A 'Hebe' ásványvíz emésztőrendszeri és májbetegségek kezelésére kiváló.", "A Művészeti Múzeum épülete egy régi iskola, amely ma modern galéria.", "A város 1960-ban kapott városi rangot, főleg a turizmusnak köszönhetően.", "Oláhszentgyörgy felett magasodik a Cormaia-kolostor, amely egy spirituális központ.", "A környékbeli hegyekben található Románia egyik leghosszabb barlangrendszere.", "A városban évente megrendezik a kortárs művészeti szimpóziumot.", "A lakosság létszáma kb. 9 000 fő, szinte kizárólag román anyanyelvűek."],
       "ro": ["Efectul curativ al izvoarelor locale a fost documentat oficial pentru prima dată în 1770.", "Apa minerală de la Sângeorz-Băi a fost distribuită în toată Europa în secolul al XIX-lea sub numele 'Hebe'.", "Muzeul de Artă Comparată din oraș găzduiește lucrări ale artiștilor internaționali.", "Sângeorz-Băi a primit statutul de oraș în 1960.", "Stațiunea balneară oferă nouă izvoare minerale diferite, cu compoziții chimice variate.", "Anual, aici au loc numeroase simpozioane de sculptură."],
       "en": ["A well-known spa town.", "Famous for its mineral springs with healing properties.", "Located in the Rodna Mountains, near the Rodna Mountains National Park.", "First documented in 1245.", "The town has a number of hotels and guesthouses offering spa treatments.", "The area is ideal for hiking and other mountain activities."]
-}
+},
+    image: "/poi-images/city-sangeorz-bai-extra.webp",
   },
   {
     "id": "city-dorohoi-extra",
@@ -831,7 +849,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A Szent Miklós-templomot 1495-ben szentelték fel, belső freskói rendkívüliek.", "Dorohoj egykor a moldvai fejedelmek egyik kedvenc udvarhelye volt.", "A város híres volt üveggyártásáról és kerámiáiról a 20. században.", "A természettudományi múzeum (Brașoveanu-ház) egzotikus madárgyűjteménye világhírű.", "A város tragikus emléke az 1940-es pogrom, amelyre emlékhely hívja fel a figyelmet.", "Dorohoj környékén számos horgásztó és természetvédelmi terület található.", "A városháza épülete a 19. századi eklektikus stílus egyik szép példája.", "A lakosság létszáma kb. 24 000 fő, fontos regionális központ."],
       "ro": ["Dorohoi a fost menționat pentru prima dată în 1407 într-un tratat comercial cu negustorii din Lviv.", "Biserica Sfântul Nicolae posedă fresce exterioare impresionante din secolul al XV-lea.", "La Dorohoi se află Muzeul Memorial George Enescu, în fosta casă a tatălui artistului.", "Până în 1950, a fost capitala județului omonim Dorohoi.", "Comunitatea evreiască din Dorohoi a jucat un rol central în dezvoltarea economică a orașului.", "Primăria orașului este o clădire neoclasică splendidă de la începutul secolului XX."],
       "en": ["An important center of Jewish life in pre-war Romania.", "First documented in 1407.", "The city has a number of historic churches and a synagogue.", "Dorohoi is located on the Jijia River.", "The local economy is based on agriculture, trade, and light industry.", "It is the birthplace of conductor George Enescu's father."]
-}
+},
+    image: "/poi-images/city-dorohoi-extra.webp",
   },
   {
     "id": "city-darabani-extra",
@@ -870,7 +889,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Darabani Románia legészakibb városi jogú települése.", "A települést Theodor Balș bojár alapította 1837-ben.", "A Szent Miklós-templom a város legrégebbi egyházi épülete.", "A város környéke kiváló mezőgazdasági terület, főleg gabona- és cukorrépa-termesztésre.", "Darabani híres volt nagy állatvásárairól a 19. és 20. században.", "A város közelében folyik a Prut, amely az államhatárt is képezi.", "Minden évben megrendezik az 'Észak Napjai' (Zilele Nordului) kulturális fesztivált.", "A lakosság száma kb. 10 000 fő, a térség fontos ellátó központja."],
       "ro": ["Darabani este cel mai nordic punct al României cu statut de oraș.", "Orașul a fost fondat în 1837 la inițiativa nobilului Teodor Balș.", "La Darabani se află cea mai veche școală de stat din județul Botoșani, fondată în 1841.", "Parcul 'Poiana Teioasa' din Darabani este unul dintre cele mai mari și mai vechi parcuri naturale din regiune.", "Darabani este cunoscut pentru festivalul anual 'Zilele Nordului', care celebrează cultura și muzica.", "Distanța până la granița cu Ucraina este mai mică de 10 kilometri."],
       "en": ["The northernmost town in Romania.", "Located at the tripoint border of Romania, Ukraine, and Moldova.", "First documented in 1546.", "The town is a local agricultural and commercial center.", "Darabani has a significant Ukrainian minority.", "The town is known for its traditional fairs."]
-}
+},
+    image: "/poi-images/city-darabani-extra.webp",
   },
   {
     "id": "city-saveni-extra",
@@ -909,7 +929,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A Săveni sajt (Cașcaval) hivatalosan is elismert hagyományos romániai termék.", "A város 1968-ban kapott városi rangot a közigazgatási reform során.", "A Jijia folyó menti síkság kiváló legelőket biztosít az állattenyésztéshez.", "A helyi múzeumban értékes neolitikumi leleteket (Cucuteni-kultúra) őriznek.", "A város közelében található a Stânca-Costești víztározó, Románia egyik legnagyobb tava.", "Săveni fontos közúti csomópont Botoșani és a Prut folyó között.", "A város híres volt hetivásárairól, ahol a környék gazdái cseréltek árut.", "A lakosság száma kb. 7 000 fő, barátságos kisvárosi közösség."],
       "ro": ["Săveni a fost menționat pentru prima dată în 1546.", "Cașcavalul de Săveni deține o Indicație Geografică Protejată (IGP) în UE.", "Orașul se află pe malul râului Bașeu, la o altitudine de aproximativ 100 de metri.", "Săveni a primit oficial statutul de oraș în anul 1968.", "Muzeul local de arheologie și științe naturale prezintă descoperiri importante din regiune.", "Economia orașului este puternic marcată de prelucrarea alimentelor și agricultură."],
       "en": ["A local agricultural and commercial center.", "First documented in 1546.", "The town is located on the Bașeu river.", "The local economy is dominated by agriculture.", "Săveni has a museum of history and ethnography.", "The town is known for its traditional pottery."]
-}
+},
+    image: "/poi-images/city-saveni-extra.webp",
   },
   {
     "id": "city-fagaras-extra",
@@ -948,7 +969,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A fogarasi várat soha nem tudták ostrommal bevenni a történelem során.", "A vár vizesárkát az Olt folyó vize táplálta, ma hattyúk úszkálnak rajta.", "A református templomban látható Bethlen Kata hamvai, aki a város jótevője volt.", "Fogaras 1950 és 1960 között a kommunista rezsim egyik legkeményebb börtönének adott otthont.", "A város a Fogarasi-havasokba induló expedíciók hagyományos bázisa.", "A közeli Szombatfalván található a híres lipicai ménes, amely a városhoz kötődik.", "Fogaras híres volt vegyiparáról és gépgyártásáról a 20. században.", "A lakosság kb. 30 000 fő, a magyar közösség aránya kb. 3-4%."],
       "ro": ["Cetatea Făgăraș nu a fost niciodată cucerită militar printr-un asediu.", "În secolul al XVII-lea, orașul a fost capitala neoficială a Transilvaniei.", "Făgăraș a fost menționat pentru prima dată în 1291.", "Cetatea este înconjurată de un șanț larg cu apă, care este și astăzi inundat.", "În perioada comunistă, cetatea a fost folosită ca o închisoare de temut pentru deținuții politici.", "Biserica barocă 'Sfântul Nicolae' a fost ctitorită de domnitorul Constantin Brâncoveanu."],
       "en": ["Home to the Făgăraș Citadel, a major historical monument.", "The citadel was built in the 14th century.", "Făgăraș was a princely residence and an important administrative center.", "The city is located on the Olt River, near the Făgăraș Mountains.", "The citadel was used as a political prison during the communist era.", "The city has a museum located within the citadel."]
-}
+},
+    image: "/poi-images/city-fagaras-extra.webp",
   },
   {
     "id": "city-sacele-extra",
@@ -987,7 +1009,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Négyfalu a hétfalusi csángók kulturális és szellemi székhelye.", "A város híres népszokása a Borica-tánc, amelyet minden évben bemutatnak.", "A Bunloc-tetőre libegő visz fel, amely népszerű sípályát és starthelyet szolgál ki.", "Négyfalu területén található a Brassó vízellátását biztosító nagy tározó tó.", "A város híres volt kapufaragóiról és a díszesen faragott hétfalusi bútorokról.", "Itt született Zajzoni Ráb István, a csángók híres költője.", "A városban 11 különböző felekezetű templom található, tükrözve a sokszínűséget.", "Négyfalu lakossága kb. 30 000 fő, jelentős magyar kisebbséggel (kb. 20%)."],
       "ro": ["Cele șapte sate fondatoare sunt Baciu, Turcheș, Cernatu, Satulung, Tărlungeni, Zizin și Purcăreni.", "Săcele a fost menționat pentru prima dată în 1366 într-un document al regelui maghiar Ludovic I.", "Regiunea este renumită pentru izvoarele de apă minerală de la Zizin, utilizate încă din secolul al XIX-lea.", "Mocanii din Săcele dețineau în secolul al XIX-lea sute de mii de oi.", "În Săcele există un interesant Muzeu Etnografic, dedicat culturii celor șapte sate."],
       "en": ["Formed by the administrative union of several distinct historical villages.", "Known for its 'Mocani' population, traditionally shepherds.", "Has a significant Csángó (Ceangăi) cultural presence.", "Located in close proximity to the city of Brașov.", "The area is an important center for traditional Romanian folklore and customs.", "Provides access to hiking trails in the Piatra Mare and Postăvarul mountains."]
-}
+},
+    image: "/poi-images/city-sacele-extra.webp",
   },
   {
     "id": "city-zarnesti-extra",
@@ -1026,7 +1049,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A Királykő Nemzeti Park az egyik leggazdagabb biodiverzitású terület a Kárpátokban.", "A Libearty medvemenhely Európa legnagyobb ilyen jellegű intézménye.", "Zernyest 1373-ban szerepel először írásos forrásokban.", "A Zernyesti-szorosban forgatták a 'Hideghegy' (Cold Mountain) című film egyes jeleneteit.", "A város híres volt papírgyáráról és a 6-os számú gépgyárról (egykori fegyvergyár).", "Innen indul a legtöbb túraútvonal a Királykő-hegység gerincére.", "A város határában található a Plaiul Foii nevű festői tisztás és turistaház.", "Zernyest lakossága kb. 23 000 fő, dinamikusan fejlődő turisztikai központ."],
       "ro": ["Zărnești a fost menționat pentru prima dată documentar în anul 1373.", "Sanctuarul de urși 'Libearty' găzduiește peste 100 de urși bruni salvați pe o suprafață de 69 de hectare.", "Cheile Zărneștilor sunt un defileu de calcar lung de 2 km, cu pereți de până la 200 m înălțime.", "Zărnești este principalul punct de plecare pentru ascensiunea pe creasta Pietrei Craiului.", "Parcul Național Piatra Craiului găzduiește specia de garoafă unică în lume, 'Dianthus callizonus'."],
       "en": ["Acts as the main gateway to Piatra Craiului National Park.", "Historically, it was a significant industrial center.", "The Libearty Bear Sanctuary is a major international tourist attraction here.", "Surrounded by the Carpathian Mountains, offering extensive outdoor activities.", "The town lies in the historic Burzenland region, with a Saxon heritage.", "Its proximity to Brașov makes it a popular destination for day trips."]
-}
+},
+    image: "/poi-images/city-zarnesti-extra.webp",
   },
   {
     "id": "city-ianca-extra",
@@ -1065,7 +1089,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Ianca 1989-ben kapott városi rangot, addig jelentős községi központ volt.", "A város fontos vasúti csomópont a Brăila-Bukarest vonalon.", "Ianca környéke Románia egyik legjobb búza- és napraforgótermő vidéke.", "A helyi repülőtér egykor a román légierő egyik fontos kiképzőbázisa volt.", "A városban jelentős élelmiszeripari feldolgozóegységek működnek.", "Ianca múzeuma a 'Bărăgan-háznak' nevezett épületben található.", "A település közelében több gyógyhatású sóstó is található (pl. Plapu).", "A lakosság létszáma kb. 10 000 fő, rurális-városi karakterű közösség."],
       "ro": ["Ianca a primit statutul de oraș în anul 1989.", "Orașul este un nod feroviar important pe linia dintre București și Galați.", "Economia se bazează aproape exclusiv pe cultivarea cerealelor, floarea-soarelui și porumbului.", "Regiunea din jurul Iancăi este cunoscută pentru condițiile sale climatice extreme.", "În oraș există un muzeu dedicat istoriei și agriculturii locale."],
       "en": ["A local agricultural center in the Bărăgan Plain.", "The economy is based on cereal cultivation.", "Ianca has a military air base.", "The town was declared a town in 1989.", "It is located on the Călmățui River.", "The town is a local transportation hub."]
-}
+},
+    image: "/poi-images/city-ianca-extra.webp",
   },
   {
     "id": "city-insuratei-extra",
@@ -1104,7 +1129,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A települést hivatalosan 1879-ben alapították telepesek.", "Însurăței 1989 óta rendelkezik városi ranggal.", "A város híres szőlőskertjeiről és a 'Lacul Corbu' nevű közeli horgásztóról.", "A helyi gazdaság alapja a gabonatermesztés és a borászat.", "A városban minden évben megrendezik a helyi borfesztivált.", "Însurăței fontos tranzitpont a Brăila és Slobozia közötti útvonalon.", "A környéken található erdősávok védik a várost a pusztai szelektől.", "A lakosság létszáma kb. 6 000 fő, családias hangulatú kisváros."],
       "ro": ["Însurăței a primit oficial statutul de oraș în anul 1989.", "Viticultura joacă un rol central în economia și identitatea locală.", "Orașul este un nod important pentru comerțul regional cu cereale.", "Clima este caracterizată de veri calde și secetoase, tipice pentru stepa românească.", "Populația orașului este formată predominant din români cu o legătură puternică cu pământul.", "În împrejurimi există numeroase situri arheologice."],
       "en": ["An agricultural town in the Bărăgan Plain.", "The town's name has a legendary origin.", "Însurăței was declared a town in 1989.", "The local economy is based on agriculture.", "The town has a regular, grid-like street plan.", "It is located in a fertile agricultural area."]
-    }
+    },
+    image: "/poi-images/city-insuratei-extra.webp",
   },
   {
     "id": "city-faurei-extra",
@@ -1143,7 +1169,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Făurei az ország legfontosabb vasúti tesztközpontjának ad otthont (1978 óta).", "A tesztpályán akár 200 km/h sebességgel is haladhatnak a szerelvények.", "A város egy fontos vasúti csomópont, ahol a Bukarest, Galac és Konstanca felé vezető utak találkoznak.", "Făurei 1968-ban kapott városi rangot, lakossága alig 3500 fő.", "A város területe mindössze 18 négyzetkilométer, amivel az egyik legkisebb az országban.", "A település gazdasága szinte kizárólag a vasúti szolgáltatásokra épül.", "Făurei fontos pontja volt a történelmi gabonakereskedelemnek is.", "A városban vasutas szakiskola is működik a szakemberek utánpótlására."],
       "ro": ["Făurei este renumit pentru inelul său de testare feroviar, care permite viteze de până la 200 km/h.", "Orașul a devenit important în secolul al XIX-lea prin construcția liniei ferate București-Galați.", "Inelul de testare are o circumferință de aproximativ 13,7 kilometri.", "Economia orașului este aproape complet orientată spre transportul feroviar și logistică.", "Făurei a primit statutul de oraș în anul 1968."],
       "en": ["An important railway junction.", "The town has a railway testing circuit.", "Făurei was declared a town in 1968.", "The local economy is based on agriculture and transportation.", "It is located in the Bărăgan Plain.", "The town serves as a local center for the surrounding villages."]
-    }
+    },
+    image: "/poi-images/city-faurei-extra.webp",
   },
   {
     "id": "city-ramnicu-sarat-extra",
@@ -1182,7 +1209,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A várost 1439-ben említették először Hunyadi János egyik oklevelében.", "A Brâncoveanu-kolostor freskóit a híres Pârvu Mutu festette.", "Râmnicu Sărat börtönét a 'hallgatás börtönének' hívták a szigorú izoláció miatt.", "A város központjában több 19. századi neoklasszicista palota is látható.", "Itt született több híres román értelmiségi, köztük az író Alexandru Vlahuță.", "A város híres volt nagy sókereskedelméről és hetivásárairól.", "Râmnicu Sărat municípiumi ranggal rendelkezik, lakossága kb. 33 000 fő.", "A város fontos tranzitpont a DN2-es (E85) főúton, amely összeköti Bukarestet Moldvával."],
       "ro": ["Râmnicu Sărat a fost menționat pentru prima dată documentar în 1439.", "Închisoarea din Râmnicu Sărat a fost cunoscută ca 'închisoarea tăcerii'.", "Numele orașului provine de la râu, care este numit 'Sărat' datorită conținutului său de sare.", "În apropiere a avut loc în 1789 o bătălie importantă între armata ruso-austriacă și otomani.", "Biserica 'Adormirea Maicii Domnului' a fost ctitorită de Constantin Brâncoveanu la sfârșitul secolului al XVII-lea."],
       "en": ["First documented in 1439.", "The name refers to the salty water of the Râmnic river.", "The city was the site of a major battle in 1634.", "The Râmnicu Sărat Prison was a notorious political prison.", "The city has a museum of history and art.", "It is located at the crossroads of important trade routes."]
-    }
+    },
+    image: "/poi-images/city-ramnicu-sarat-extra.webp",
   },
   {
     "id": "city-nehoiu-extra",
@@ -1221,7 +1249,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Nehoiu 1989-ben kapott városi rangot, addig községi központ volt.", "A város híres volt fűrésztelepéről, amely egykor a legnagyobb volt a régióban.", "A Bodza folyó Nehoiu melletti szakasza nemzetközi rafting versenyeknek is helyt ad.", "A város ortodox katedrálisa (Szent György) monumentális méretű és látványos.", "Nehoiu környékén található a Siriu-gát, amely az ország egyik legmagasabb agyaggátja.", "A település ideális bázis a Penteleu-csúcs (1772 m) megmászásához.", "A város híres hagyományos juhászatáról és a hegyi tejtermékekről.", "Nehoiu lakossága kb. 10 000 fő, a térség gazdasági motorja."],
       "ro": ["Nehoiu a primit oficial statutul de oraș în anul 1989.", "Fabrica de prelucrare a lemnului din Nehoiu a fost una dintre cele mai mari de acest fel din Europa.", "În apropiere se află impresionantul baraj Siriu și lacul aferent.", "Biserica ortodoxă 'Sfântul Gheorghe' este un reper arhitectural distinctiv al orașului.", "Regiunea este un centru pentru sporturi montane, în special rafting pe Buzău.", "Flora din jur include specii rare de orhidee și păduri uriașe de fag."],
       "en": ["A center for the timber industry.", "Located in the Curvature Carpathians, on the Buzău River.", "A starting point for hiking in the Siriu and Penteleu mountains.", "The Siriu Lake is a nearby tourist attraction.", "The town is known for its beautiful natural scenery.", "The local economy is based on wood processing and tourism."]
-    }
+    },
+    image: "/poi-images/city-nehoiu-extra.webp",
   },
   {
     "id": "city-pogoanele-extra",
@@ -1260,7 +1289,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Pogoanele 1989-ben kapott városi rangot, lakossága kb. 7 000 fő.", "A város fontos vasútállomással rendelkezik a Buzău-Urziceni vonalon.", "Pogoanele környéke kiváló napraforgó- és kukoricatermő vidék.", "A város híres volt 'Pogoanele kancáiról', a jó minőségű helyi lótartásról.", "A település központjában egy szép, modern kulturális központ és park található.", "Pogoanele fontos szolgáltató központ a környező kisfalvak számára.", "A városban minden évben megrendezik az 'Aratók Napját' júliusban.", "A Bărăgan aszályos klímája miatt a város környékén kiterjedt öntözőrendszer működik."],
       "ro": ["Pogoanele a primit statutul de oraș în 1989.", "Producția și depozitarea cerealelor sunt principalele ramuri economice.", "Pogoanele este un nod de transport important pentru drumurile regionale din Câmpia Bărăganului.", "Clima este caracterizată de diferențe extreme de temperatură între vară și iarnă.", "Populația păstrează sărbători tradiționale țărănești, strâns legate de ciclul recoltei.", "La Pogoanele există o casă de cultură locală."],
       "en": ["An agricultural town in the Bărăgan Plain.", "Established in the 19th century.", "The local economy is based on cereal cultivation.", "The town has a regular, grid-like street plan.", "Pogoanele was declared a town in 1989.", "It is a local center for the surrounding villages."]
-    }
+    },
+    image: "/poi-images/city-pogoanele-extra.webp",
   },
   {
     "id": "city-resita-extra",
@@ -1299,7 +1329,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Resicabánya kohászata több mint 250 éves folyamatos múltra tekint vissza.", "A mozdonymúzeumban látható a 'Resicza' nevű, 1872-ben készült első román mozdony.", "A város híres volt hídépítéséről és nehézgépgyártásáról (UCM Reșița).", "Resicabányán üzemelt Románia egyik első villamosközlekedési hálózata.", "A város feletti hegyekben találhatók a Szemenik-hegység népszerű sípályái.", "Itt működik a Bánáti Hegyvidéki Múzeum, amely gazdag technikatörténeti gyűjteménnyel bír.", "A város 2023-tól modern, új villamoshálózattal újította meg tömegközlekedését.", "A lakosság száma kb. 58 000 fő, a magyar közösség aránya kb. 2%."],
       "ro": ["Primele furnale înalte din spațiul românesc au fost construite la Reșița în 1771.", "Muzeul de Locomotive cu Abur din Reșița este cel mai mare muzeu tehnic în aer liber din Europa.", "Reșița este considerată leagănul fotbalului din România, primul meci având loc în 1907.", "Orașul este înconjurat de păduri întinse, acoperind peste 60% din suprafața administrativă.", "Podul de la Agadici, construit în 1872, este unul dintre primele poduri metalice sudate din lume.", "Prima locomotivă cu abur din sud-estul Europei a fost fabricată la Reșița în 1872."],
       "en": ["An important center of the Romanian steel industry.", "The first blast furnaces were built here in 1771.", "The city is home to an open-air steam locomotive museum.", "Reșița is located on the Bârzava River.", "The city's industrial development began during the Habsburg rule.", "It is surrounded by the Anina and Semenic mountains."]
-    }
+    },
+    image: "/poi-images/city-resita-extra.webp",
   },
   {
     "id": "city-caransebes-extra",
@@ -1338,7 +1369,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A várost 1289-ben említették először írásban, várát a török időkben többször ostromolták.", "Karánsebes a Karánsebesi Ortodox Püspökség történelmi székhelye.", "Itt található Románia egyik legfontosabb hegyi katonai és polgári repülőtere.", "A Teiuș-parkban több száz kortárs márványszobor látható a nemzetközi művésztelepek jóvoltából.", "A város közelében fekszik a Szárkő-hegység (Munții Tarcu) hatalmas tömbje.", "Karánsebes híres volt kézműveseiről, különösen a kalaposokról és tímárokról.", "A város vasútállomása fontos csomópont a Bukarest-Temesvár fővonalon.", "A lakosság létszáma kb. 21 000 fő, a magyar közösség aránya kb. 1%."],
       "ro": ["Prima mențiune documentară a Caransebeșului datează din anul 1289.", "În anul 1848, Caransebeș a fost un centru important al revoluției române din Banat.", "Episcopia Ortodoxă a Caransebeșului a fost reînființată în 1865, jucând un rol crucial în viața spirituală a românilor.", "Aeroportul din Caransebeș a fost construit în anii '70 și are o pistă de 2.000 de metri.", "Statuia 'Victoria' din centrul orașului comemorează eroii români din Primul Război Mondial.", "Caransebeș este înfrățit cu orașul german Aalen începând din anul 1997."],
       "en": ["Located at the confluence of the Timiș and Sebeș rivers.", "The Roman fort of Tibiscum is located nearby.", "First documented in 1289.", "Caransebeș was an important center of the Romanian border regiments in the Military Frontier.", "The city has a museum with rich collections.", "It is an important road and railway junction."]
-    }
+    },
+    image: "/poi-images/city-caransebes-extra.webp",
   },
   {
     "id": "city-oravita-extra",
@@ -1377,7 +1409,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["1817-ben nyílt meg itt az első kőszínház.", "1847-ben épült Románia legrégebbi vasútállomása.", "1863-ban adták át az Anina felé vezető hegyi vasutat.", "A vasútvonal 14 alagúton és 10 viadukton halad át.", "1763-ban alapították a Knoblauch-patikát.", "1718-ban épült a barokk stílusú katolikus templom."],
       "ro": ["Teatrul Vechi din Oravița este cea mai veche clădire de teatru din România, inaugurată în 1817.", "Calea ferată Oravița-Anina, inaugurată în 1863, are 14 tuneluri și 10 viaducte pe o distanță de 34 km.", "Farmacia 'La Vulturul Negru', astăzi muzeu, datează din anul 1796.", "Gara din Oravița, construită în 1847, este cea mai veche gară de pe teritoriul României.", "Oravița a fost primul oraș din Banat iluminat cu lămpi pe bază de acetilenă.", "În anul 1854, Oravița a fost legată de rețeaua feroviară europeană prin linia spre Baziaș."],
       "en": ["Home to the oldest theater in Romania (1817).", "The first railway line in Romania was built between Oravița and Baziaș (1854).", "An important mining center in the past.", "The town has a well-preserved historic center.", "The Anina-Oravița mountain railway is a famous tourist attraction.", "Oravița is located in the Cheile Nerei-Beușnița National Park area."]
-    }
+    },
+    image: "/poi-images/city-oravita-extra.webp",
   },
   {
     "id": "city-calarasi-extra",
@@ -1416,7 +1449,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["125 km-re fekszik Bukaresttől a Duna partján.", "A 17. században lett lovas futárok állomáshelye.", "Jelentős acélművel rendelkezik (Călărași Steel Works).", "1833-ban lett a megye székhelye.", "A Borcea-ág választja el a Balta Ialomiței szigettől.", "Stratégiai közelségben van a bolgár határhoz (12 km)."],
       "ro": ["Este situat pe malul brațului Borcea al Dunării.", "Combinatul siderurgic a fost proiectat să fie unul dintre cele mai mari din sud-estul Europei.", "Prima atestare documentară datează din 1530.", "Numele provine de la un corp de cavalerie (călărași) care asigura paza la granița Țării Românești.", "Este un important port fluvial pentru transportul de cereale.", "Grădina Zoologică se întinde pe o suprafață de 20 de hectare.", "Există un serviciu de trecere a Dunării cu bacul către Silistra, Bulgaria."],
       "en": ["The capital of Călărași County.", "An important port on the Danube River.", "The city is located on the Bărăgan Plain.", "The local economy is based on agriculture and industry.", "Călărași has a ferry service to Bulgaria.", "The area is known for its vineyards and wine production."]
-    }
+    },
+    image: "/poi-images/city-calarasi-extra.webp",
   },
   {
     "id": "city-oltenita-extra",
@@ -1455,7 +1489,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Az Argeș és a Duna összefolyásánál fekszik.", "A Gumelnița-kultúra egyik legfontosabb lelőhelye.", "Fontos folyami kikötővel rendelkezik.", "Közvetlen szomszédságában van a bolgár Tutrakan.", "1853-ban jelentős csata helyszíne volt az orosz-török háborúban.", "Gazdag régészeti múzeuma a Neolithic korszakot mutatja be."],
       "ro": ["Este situat la confluența râului Argeș cu Dunărea.", "Situl arheologic Gumelnița, din apropiere, a dat numele unei culturi neolitice (mileniul IV î.Hr.).", "Muzeul Civilizației Gumelnița a fost fondat în 1957.", "Șantierul naval a fost fondat în 1862.", "În timpul Războiului de Independență, a fost un punct important de trecere a trupelor ruse.", "Fabrica de zahăr, fondată în 1930, a fost una dintre cele mai mari din țară.", "Există o legătură cu feribotul către orașul bulgăresc Tutrakan."],
       "en": ["A port on the Argeș River, near the Danube.", "The Gumelnița archaeological site is located nearby.", "The city has a museum with a large collection of Gumelnița artifacts.", "Oltenița is located opposite the Bulgarian town of Tutrakan.", "The city has a shipyard.", "The local economy is based on agriculture and industry."]
-    }
+    },
+    image: "/poi-images/city-oltenita-extra.webp",
   },
   {
     "id": "city-lehliu-gara-extra",
@@ -1494,7 +1529,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Az A2-es autópálya mentén fekszik.", "1989-ben kapott városi rangot.", "Fontos vasúti csomópont Bukarest és Konstanca között.", "A Bărăgan-alföld mezőgazdasági központja.", "Stratégiai logisztikai bázis a főváros közelében.", "Jelentős gabonatároló kapacitásokkal rendelkezik."],
       "ro": ["Dezvoltarea sa a început odată cu inaugurarea gării în 1887.", "Este situat pe Autostrada A2, care leagă Bucureștiul de Constanța.", "Este un important nod feroviar.", "Economia se bazează pe agricultură și depozitarea cerealelor.", "A devenit oraș în 1989.", "Este situat în inima Câmpiei Bărăganului.", "Populația este de aproximativ 6.000 de locuitori."],
       "en": ["An important railway junction.", "The town's name means 'Lehliu Station'.", "Lehliu Gară was declared a town in 1989.", "The local economy is based on agriculture and transportation.", "It is located in the Bărăgan Plain.", "The town is a local center for the surrounding villages."]
-    }
+    },
+    image: "/poi-images/city-lehliu-gara-extra.webp",
   },
   {
     "id": "city-turda-extra",
@@ -1533,7 +1569,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A római korban Potaissa néven ismerték.", "1568-ban itt hirdették ki a vallásszabadságot.", "A Tordai Sóbánya ma világhírű turisztikai látványosság.", "Az Aranyos folyó partján fekszik.", "A Tordai-hasadék 200 méter magas sziklafalakkal rendelkezik.", "Itt található az erdélyi fejedelmek egykori palotája."],
       "ro": ["Salina Turda a fost clasată de Business Insider pe primul loc în topul celor mai frumoase locuri subterane din lume.", "Edictul de la Turda din 1568 a fost unul dintre primele acte de toleranță religioasă din istoria modernă a Europei.", "Castrul roman Potaissa a fost sediul Legiunii a V-a Macedonica.", "Turda a fost unul dintre principalele centre administrative ale Scaunului Arieșului.", "Mormântul lui Mihai Viteazul, un monument emblematic, se află în apropierea orașului.", "Exploatarea sării la Turda datează încă din perioada romană."],
       "en": ["Home to Salina Turda, a famous salt mine tourist attraction.", "The Roman castrum of Potaissa was located here.", "The Edict of Turda (1568) was one of the first decrees of religious freedom in modern Europe.", "The city is located on the Arieș River.", "The Turda Gorge is a nearby natural reservation.", "Turda has a museum of history."]
-    }
+    },
+    image: "/poi-images/city-turda-extra.webp",
   },
   {
     "id": "city-dej-extra",
@@ -1572,7 +1609,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A Nagy- és a Kis-Szamos összefolyásánál fekszik.", "Gótikus református temploma a 15. századból származik.", "Désakna sóbányája már a római korban is működött.", "71 méter magas templomtornya az egyik legmagasabb Erdélyben.", "Fontos vasúti csomópont és ipari központ.", "Számos 18-19. századi műemlék épület található a főterén."],
       "ro": ["Dej a fost menționat pentru prima dată într-un document din anul 1214.", "Biserica Reformată din Dej, construită între 1456 și 1526, este unul dintre cele mai reprezentative monumente gotice din Transilvania.", "În Evul Mediu, Dejul era unul dintre cele mai importante centre de extragere a sării din Transilvania.", "Stema orașului, datând din 1291, reflectă importanța sării și a navigației pe Someș.", "Dejul este un nod feroviar crucial, legând Cluj-Napoca de Baia Mare și de nordul Moldovei.", "În secolul al XVII-lea, în Dej s-a stabilit o importantă comunitate armeană."],
       "en": ["Located at the confluence of the Someșul Mare and Someșul Mic rivers.", "An important railway junction.", "The city has a history of salt mining.", "The Reformed Church dates from the 15th century.", "Dej has a municipal museum.", "The local economy is diverse, with a focus on manufacturing and logistics."]
-    }
+    },
+    image: "/poi-images/city-dej-extra.webp",
   },
   {
     "id": "city-campia-turzii-extra",
@@ -1611,7 +1649,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["1925-ben jött létre két település egyesítésével.", "Az ország egyik legfontosabb huzalgyárának otthona.", "Az Aranyos folyó völgyében fekszik.", "Közel van az A3-as erdélyi autópályához.", "Itt élt John Paget angol származású földesúr.", "Fontos katonai légibázis található a város határában."],
       "ro": ["Orașul a fost declarat oficial în anul 1952, deși istoria sa este mult mai veche.", "Combinatul 'Industria Sârmei' a fost înființat în 1920 și a fost cel mai mare producător de sârmă din România.", "Baza 71 Aeriană de la Câmpia Turzii este una dintre cele mai moderne și strategice baze militare din țară.", "Prima mențiune documentară a localității Ghiriș-Sâncrai datează din 1292.", "Parcul industrial din Câmpia Turzii atrage noi investiții în domeniul producției.", "Orașul se află la o distanță de doar 8 km de Turda și 40 km de Cluj-Napoca."],
       "en": ["An important industrial center, especially for metallurgy.", "Home to the Mechel steel plant.", "The city has a major military air base.", "Câmpia Turzii was formed by the union of two villages in 1925.", "The city is located on the Arieș River.", "It is an important transportation hub."]
-    }
+    },
+    image: "/poi-images/city-campia-turzii-extra.webp",
   },
   {
     "id": "city-mangalia-extra",
@@ -1650,7 +1689,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Az ókori görög Kallatisz romjain fekszik.", "Itt található a 16. századi Eszmahan szultán mecset.", "Mezotermális gyógyforrásai 28 Celsius fokosak.", "Románia legdélibb tengerparti városa.", "Fontos kereskedelmi és katonai kikötővel rendelkezik.", "Régészeti múzeuma egyedülálló görög sírleleteket őriz."],
       "ro": ["Callatis a fost fondat în secolul al VI-lea î.Hr. de coloniști greci din Heracleea Pontica.", "Moscheea Esmahan Sultan, construită în 1575, este cel mai vechi lăcaș de cult musulman din România.", "Mangalia este singura stațiune de pe litoralul românesc care dispune de izvoare minerale sulfuroase.", "Herghelia de la Mangalia, înființată în 1926, este specializată în creșterea cailor de rasă Arabă Pură.", "Anual, aici are loc Festivalul Callatis, unul dintre cele mai longevive evenimente culturale de pe litoral.", "Sarcofagul pictat descoperit la Mangalia este o piesă unică în regiunea Mării Negre."],
       "en": ["A popular resort on the Black Sea.", "The ancient Greek colony of Callatis was located here.", "The city is known for its spa treatments with sapropelic mud.", "The Esmahan Sultan Mosque (1575) is the oldest in Romania.", "Mangalia has a shipyard and a naval base.", "The city's archaeological museum has important collections."]
-    }
+    },
+    image: "/poi-images/city-mangalia-extra.webp",
   },
   {
     "id": "city-medgidia-extra",
@@ -1689,7 +1729,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["I. Abdul-Medzsid oszmán szultánról kapta a nevét.", "A Duna–Fekete-tenger-csatorna partján fekszik.", "Jelentős tatár és török kisebbséggel rendelkezik.", "Híres bortermelő vidéke a Murfatlar közelében van.", "Fontos vasúti és vízi közlekedési csomópont.", "1856-ban kapta meg mai nevét a korábbi Karasu helyett."],
       "ro": ["Orașul modern a fost fondat în 1856 de administrația otomană, purtând numele sultanului Abdul Medjid I.", "Canalul Dunăre-Marea Neagră, inaugurat în 1984, trece direct pe la marginea orașului.", "Fabrica de ciment din Medgidia este una dintre cele mai mari și mai vechi din România.", "Monumentul Eroilor din centrul orașului este o operă a sculptorului Ion Jalea.", "Populația orașului este un amestec de români, turci și tătari, reflectând istoria Dobrogei.", "Palatul Comunal (Primăria), inaugurat în 1908, este o clădire emblematică a orașului."],
       "en": ["Located on the Danube-Black Sea Canal.", "An important inland port.", "Founded in the 19th century and named after Sultan Abdülmecid I.", "A center for the cement industry.", "The city has a significant Muslim population (Turks and Tatars).", "The Abdul Medgid Mosque is an important historical monument."]
-    }
+    },
+    image: "/poi-images/city-medgidia-extra.webp",
   },
   {
     "id": "city-navodari-extra",
@@ -1728,7 +1769,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Itt található a Petromidia kőolajfinomító.", "A Tașaul-tó és a Fekete-tenger között fekszik.", "Északi strandjai Mamaia üdülőhelyéhez csatlakoznak.", "Egykor az ország legnagyobb gyermektábora működött itt.", "Fontos vegyipari és logisztikai központ.", "Gyorsan fejlődő turisztikai infrastruktúrával rendelkezik."],
       "ro": ["Năvodari a fost declarat oraș în 1968, datorită dezvoltării industriale.", "Rafinăria Petromidia este cea mai mare și mai complexă unitate de procesare a țițeiului din România.", "Plaja din Năvodari se întinde pe o lungime de peste 5 kilometri.", "Tabăra de la Năvodari a fost inaugurată în 1959 și avea o capacitate de peste 12.000 de locuri.", "În ultimul deceniu, Năvodari a înregistrat unul dintre cele mai rapide ritmuri de dezvoltare imobiliară din țară.", "Numele 'Năvodari' provine de la 'năvod', unealta tradițională de pescuit, reflectând ocupația veche a localnicilor."],
       "en": ["A resort on the Black Sea coast.", "Home to the Petromidia refinery, one of the largest in Romania.", "Năvodari is known for its summer camps for children.", "The town has long sandy beaches.", "The local economy is based on industry and tourism.", "Năvodari has seen rapid development in recent years."]
-    }
+    },
+    image: "/poi-images/city-navodari-extra.webp",
   },
   {
     "id": "city-targu-secuiesc-extra",
@@ -1776,7 +1818,8 @@ export const poiExtraRo1: POI[] = [
         "În oraș există o faimoasă colecție de peste 1.000 de păpuși de porțelan în costume populare."
       ],
       "en": ["An important cultural center of the Székely community.", "The city has a unique medieval town center with guild alleys.", "Târgu Secuiesc was a major center for guilds and crafts.", "The Incze László Guilds Museum is a major attraction.", "The city has a significant Hungarian Székely majority.", "The town is known for its traditional architecture."]
-    }
+    },
+    image: "/poi-images/city-targu-secuiesc-extra.webp",
   },
   {
     "id": "city-covasna-extra",
@@ -1815,7 +1858,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Több mint 1500 ásványvízforrás található a környékén.", "Mofettái 98% szén-dioxid koncentrációval rendelkeznek.", "Itt található a Pokolsár nevű iszapvulkán.", "A Tündérvölgyben egy különleges technikai műemlék látható.", "560 méteres tengerszint feletti magasságban fekszik.", "Szívkórháza európai hírű gyógyászati központ."],
       "ro": ["Covasna este renumită pentru mofetele sale, cu o concentrație de CO2 de până la 98%, eficiente în tratarea bolilor de inimă.", "Peste 1.500 de izvoare de apă minerală carbogazoasă sunt înregistrate în zonă.", "Planul Înclinat de la Comandău, din apropiere, este un monument tehnic unic în Europa.", "Spitalul de Recuperare Cardiovasculară din Covasna este unul dintre cele mai renumite din țară.", "Prima mențiune documentară a localității datează din anul 1567.", "Anual, aici se organizează 'Nedeia mocănească', o sărbătoare pastorală cu tradiție."],
       "en": ["A famous spa town, known as the 'town of 1,000 springs'.", "Known for its mineral waters and mofettas.", "Specialized in the treatment of cardiovascular diseases.", "The inclined plane of Covasna is a unique technical monument.", "The town is located in a volcanic area.", "Covasna is surrounded by forests and offers opportunities for hiking."]
-    }
+    },
+    image: "/poi-images/city-covasna-extra.webp",
   },
   {
     "id": "city-intorsura-buzaului-extra",
@@ -1854,7 +1898,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Románia egyik leghidegebb városa (-38,5 C fokot is mértek).", "750 méter átlagos tengerszint feletti magasságban fekszik.", "A Bodza folyó 180 fokos kanyarulatáról kapta a nevét.", "Közelében található a Vama Buzăului bölényrezervátum.", "A Csukás-hegység túraútvonalainak fontos kiindulópontja.", "Jelentős fafeldolgozó iparral rendelkezik."],
       "ro": ["La Întorsura Buzăului s-a înregistrat neoficial o temperatură de -38,5 °C.", "Orașul este situat la o altitudine medie de 750 de metri.", "Rezervația de zimbri de la Vama Buzăului a fost înființată în 2008.", "Prima mențiune documentară datează de la sfârșitul secolului al XVIII-lea.", "Numele se referă la cotul de aproape 180 de grade pe care îl face râul Buzău.", "Economia locală se bazează pe exploatarea lemnului și creșterea animalelor."],
       "en": ["Known for its very cold winters.", "Located in a large mountain depression.", "The town's name means 'the turning of the Buzău river'.", "The local economy is based on agriculture and forestry.", "The area is popular for hiking and rural tourism.", "The town is surrounded by the Curvature Carpathians."]
-    }
+    },
+    image: "/poi-images/city-intorsura-buzaului-extra.webp",
   },
   {
     "id": "city-moreni-extra",
@@ -1893,7 +1938,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["1691-ben itt jegyezték fel a világ első kőolaj-kitermelését.", "Az 1929-es olajkúttűz több mint 800 napig tartott.", "1861-ben itt végezték Románia első gépi olajfúrását.", "Stratégiai ipari parkja modern fémipari üzemeknek ad otthont.", "20 km-re fekszik a megyeszékhely Târgoviște városától.", "Híres gyümölcstermesztő vidéke az alma és szilva számára ideális."],
       "ro": ["Este considerat leagănul industriei petroliere din România.", "În 1913, producția de petrol de la Moreni reprezenta jumătate din producția totală a țării.", "A fost al treilea oraș din lume, după Viena și Roma, care a introdus iluminatul public cu gaz aerian în 1897.", "Prima sondă mecanică din România a fost forată la Moreni în 1861.", "A fost primul oraș din țară care a beneficiat de o rețea de distribuție a gazelor naturale.", "În perioada interbelică, aici activau peste 20 de companii petroliere internaționale.", "Parcul Central al orașului adăpostește un monument dedicat eroilor petroliști."],
       "en": ["One of the oldest centers of the Romanian oil industry.", "The first oil well was drilled here in 1861.", "Moreni was the third largest oil producer in the world in the 1930s.", "The city has a museum dedicated to the oil industry.", "The local economy is still largely based on oil and gas extraction.", "The city is located in a hilly region."]
-    }
+    },
+    image: "/poi-images/city-moreni-extra.webp",
   },
   {
     "id": "city-pucioasa-extra",
@@ -1932,7 +1978,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Kénes forrásai Európa legmagasabb koncentrációjú vizei közé tartoznak.", "A fürdőhelyet hivatalosan 1828-ban alapították.", "Nevét a kén népies román elnevezéséről kapta.", "400 méter tengerszint feletti magasságban fekszik.", "Central Parkja történelmi műemlék.", "Textilipara évszázados múltra tekint vissza."],
       "ro": ["Este o stațiune balneară renumită pentru apele minerale sulfuroase, sodice și calcice.", "Primele analize chimice ale apelor au fost făcute în 1828 de către Dr. Carol Davila.", "Numele 'Pucioasa' derivă din mirosul de sulf (pucioasă) al izvoarelor.", "Primele stabilimente balneare datează de la mijlocul secolul al XIX-lea.", "A fost declarată stațiune balneoclimaterică în 1929.", "Este situată la o altitudine de aproximativ 400 de metri.", "Apele sunt recomandate pentru tratarea bolilor reumatismale, ale sistemului nervos și dermatologice."],
       "en": ["A well-known spa town.", "Famous for its sulfurous mineral waters.", "Specialized in the treatment of rheumatic and respiratory diseases.", "First documented in 1649.", "The town is located on the Ialomița River.", "Pucioasa is a popular destination for health tourism."]
-    }
+    },
+    image: "/poi-images/city-pucioasa-extra.webp",
   },
   {
     "id": "city-gaesti-extra",
@@ -1971,7 +2018,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["1498-ban említik először IV. Radu idején.", "Itt található az Arctic hűtőgépgyár központja.", "Gheorghe Zamfir világhírű pánsíp-művész szülőhelye.", "1807-ben egy hatalmas tűzvész pusztított a városban.", "A Bukarest és Pitești közötti vasútvonal mentén fekszik.", "Jelentős mezőgazdasági gépgyártással is rendelkezik."],
       "ro": ["Prima atestare documentară a orașului datează din 1498.", "Este un important nod feroviar pe linia inaugurată în 1872.", "Fabrica Arctic Găești, fondată în 1970, este cel mai mare producător de electrocasnice din România.", "Găești este locul de naștere al scriitorului și politicianului Vasile Blaga.", "Este situat în Câmpia Găvanu-Burdea, o importantă zonă agricolă.", "A fost reședință de plasă în perioada interbelică.", "Târgul săptămânal de la Găești atrage comercianți și cumpărători pe o rază de zeci de kilometri."],
       "en": ["A local agricultural and commercial center.", "First documented in 1498.", "The town is located in the Wallachian Plain.", "The local economy is based on agriculture and food processing.", "Găești has a museum of history and ethnography.", "The town is known for its traditional fairs."]
-    }
+    },
+    image: "/poi-images/city-gaesti-extra.webp",
   },
   {
     "id": "city-bailesti-extra",
@@ -2010,7 +2058,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["1536-ban említik először Radu Paisie oklevelében.", "Amza Pellea színművész szülőhelye és emlékháza.", "2001-ben kapott municípiumi rangot.", "Olténia egyik legfontosabb mezőgazdasági központja.", "Néprajzi múzeuma a régió paraszti kultúráját őrzi.", "Az első világháború hőseinek 1924-ben emeltek emlékművet."],
       "ro": ["Este locul de naștere al actorului Amza Pellea (1931-1983).", "Scriitorul Marin Sorescu (1936-1996) s-a născut în satul Bulzești, din apropiere, dar este asociat cu Băilești.", "Prima atestare documentară datează din 1536.", "A fost declarat oraș în 1921 și municipiu în 2001.", "Este un important centru agricol, supranumit 'grânarul Olteniei'.", "Casa memorială 'Amza Pellea' a fost inaugurată în 2009.", "Revolta țărănească din 1907 a avut un ecou puternic în zona Băilești."],
       "en": ["A local agricultural center in the Oltenia region.", "The birthplace of actor Amza Pellea (1931).", "The local economy is based on agriculture.", "The Amza Pellea Memorial House is a local attraction.", "Băilești was declared a city in 1921.", "The city is known for its traditional fairs."]
-    }
+    },
+    image: "/poi-images/city-bailesti-extra.webp",
   },
   {
     "id": "city-calafat-extra",
@@ -2049,7 +2098,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A 14. században genovai hajóépítők alapították.", "Itt található az Új Európa híd (Calafat-Vidin híd).", "A neobarokk Marincu-palota ad otthont a múzeumnak.", "Az 1877-es függetlenségi háború fontos helyszíne.", "Közvetlenül a bulgáriai Vidinnel szemben fekszik.", "Fontos gabonakikötővel rendelkezik a Dunán."],
       "ro": ["Podul Calafat-Vidin, inaugurat în 2013, este al doilea pod peste Dunăre între România și Bulgaria.", "De aici au fost trase primele salve de tun spre Vidin în Războiul de Independență din 1877.", "Numele orașului ar deriva de la termenul bizantin 'kalafates' (cel care repară nave).", "A fost fondat în secolul al XIV-lea de coloniști genovezi.", "Palatul Marincu, o clădire impresionantă în stil neoromânesc, găzduiește Muzeul de Artă și Etnografie.", "Portul Calafat este activ în transportul de mărfuri și pasageri.", "Este un important nod rutier pe coridorul european de transport E79."],
       "en": ["An important port on the Danube River.", "Located opposite the Bulgarian city of Vidin.", "The Calafat-Vidin Bridge connects Romania and Bulgaria.", "The city was founded in the 14th century by Genoese colonists.", "The name 'Calafat' comes from the Byzantine word for 'caulker'.", "The city played an important role in the Romanian War of Independence."]
-    }
+    },
+    image: "/poi-images/city-calafat-extra.webp",
   },
   {
     "id": "city-filiasi-extra",
@@ -2088,7 +2138,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Fontos vasúti és közúti csomópont Olténiában.", "A Zsil (Jiu) folyó partján fekszik.", "Nevét a Filișanu bojárcsaládról kapta.", "35 km-re északra található Craiovától.", "Jelentős gabonakereskedelmi központ.", "Környéke népszerű horgász- és kirándulóhely."],
       "ro": ["Este situat la confluența râurilor Jiu și Motru.", "Este un nod feroviar important pe linia București-Timișoara.", "Prima atestare documentară datează din 1573.", "A fost un centru important de exploatare a lemnului din pădurile înconjurătoare.", "În anii 1960, aici s-a construit o fabrică de produse chimice.", "A primit statutul de oraș în 1968.", "Târgul anual de Sfântul Ilie este un eveniment cu tradiție în regiune."],
       "en": ["An important railway and road junction.", "Located at the confluence of the Jiu and Motru rivers.", "First documented in 1573.", "The local economy is based on agriculture and industry.", "The town is a local center for the surrounding villages.", "Filiași was declared a town in 1968."]
-    }
+    },
+    image: "/poi-images/city-filiasi-extra.webp",
   },
   {
     "id": "city-tecuci-extra",
@@ -2127,7 +2178,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Országosan híres a mustárgyártásáról.", "1476-ban III. István fejedelem itt ütközött meg a törökökkel.", "A Bârlad folyó partján fekszik Moldva déli részén.", "Impozáns Szent György-székesegyháza a 19. században épült.", "Régészeti múzeuma dák és római leleteket mutat be.", "Fontos vasúti csomópont Moldva és Munténia határán."],
       "ro": ["Prima mențiune documentară datează din 1435, dar cronicile rusești îl menționează încă din 1160.", "A fost un important centru feroviar, gara fiind inaugurată în 1872.", "Este renumit pentru industria conservelor, având o tradiție de peste 100 de ani.", "Catedrala 'Sfântul Gheorghe' a fost construită la începutul secolului al XX-lea.", "În apropiere, la Poiana, s-a descoperit cetatea geto-dacică Piroboridava.", "A fost reședința județului Tecuci până la reforma administrativă din 1950.", "La Tecuci s-a născut Calistrat Hogaș, scriitor și călător."],
       "en": ["An important industrial and commercial center.", "Known for its food processing industry (canned goods, mustard).", "An important railway junction.", "First documented in 1435.", "The city is located on the Bârlad River.", "Tecuci has a museum of history and archaeology."]
-    }
+    },
+    image: "/poi-images/city-tecuci-extra.webp",
   },
   {
     "id": "city-targu-bujor-extra",
@@ -2166,7 +2218,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A Covurlui-fennsíkon fekvő mezőgazdasági központ.", "Nevét a Bujoru bojárcsaládról kapta.", "Eremia Grigorescu első világháborús tábornok szülőhelye.", "Jelentős bortermelő vidék központja.", "1968-ban kapott városi rangot.", "Galați városától 55 km-re északra fekszik."],
       "ro": ["Este situat în podișul Covurlui, o zonă propice viticulturii.", "Prima atestare documentară ca târg datează din 1845.", "A devenit oraș în 1968.", "Economia este predominant agrară.", "Vinurile din zona Târgu Bujor sunt apreciate la nivel local.", "Spitalul Orășenesc deservește o arie extinsă în nordul județului Galați.", "Este traversat de pârâul Chineja."],
       "en": ["A local center for agriculture and viticulture.", "The area is known for its vineyards and wine.", "The town's name means 'Bujor Market'.", "First documented in 1491.", "The local economy is based on agriculture and wine production.", "The town is known for its traditional fairs."]
-    }
+    },
+    image: "/poi-images/city-targu-bujor-extra.webp",
   },
   {
     "id": "city-beresti-extra",
@@ -2205,7 +2258,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Világhírű paleontológiai lelőhely.", "Mamut- és masztodoncsontokat találtak a határában.", "1968-ban nyilvánították várossá.", "Jelentős mezőgazdasági és bortermelő terület.", "Galați megye egyik legészakibb városa.", "A vasútvonal Bârlad irányába köti össze a régióval."],
       "ro": ["A fost declarat oraș în 1968.", "Economia este axată pe agricultură.", "Este situat în Podișul Covurlui.", "În apropiere s-au găsit urme de locuire din perioada paleolitică.", "Populația este de sub 3.000 de locuitori.", "Este unul dintre cele mai mici orașe din județul Galați."],
       "en": ["A local agricultural center.", "The local economy is based on farming.", "Berești was declared a town in 1968.", "The town is located in a hilly area.", "It is a small, quiet, rural town.", "The town serves the surrounding villages."]
-    }
+    },
+    image: "/poi-images/city-beresti-extra.webp",
   },
   {
     "id": "city-bolintin-vale-extra",
@@ -2244,7 +2298,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Az Argeș folyó partján, Bukarest közelében fekszik.", "Giurgiu megye egyik legnépesebb városa.", "Fontos logisztikai központ az A1-es autópálya mellett.", "Jelentős kertészeti és virágtermesztő hagyományokkal bír.", "Régi ortodox temploma a 19. században épült.", "A város híres a hagyományos vásárairól is."],
       "ro": ["Este locul de naștere al poetului pașoptist Dimitrie Bolintineanu (1825).", "Prima atestare documentară datează din 1433.", "Este situat pe malul râului Argeș.", "A fost un important centru de olărit.", "Casa Memorială 'Dimitrie Bolintineanu' a fost inaugurată în 1969.", "A primit statutul de oraș în 1989.", "Beneficiază de proximitatea autostrăzii A1, care leagă Bucureștiul de Pitești."],
       "en": ["A local agricultural and commercial center.", "The birthplace of writer Dimitrie Bolintineanu (1819 or 1825).", "The town is known for its traditional pottery.", "The local economy is based on agriculture and food processing.", "The Dimitrie Bolintineanu Memorial House is a local attraction.", "The town is located on the Argeș River."]
-    }
+    },
+    image: "/poi-images/city-bolintin-vale-extra.webp",
   },
   {
     "id": "city-mihailesti-extra",
@@ -2283,7 +2338,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Itt található a hatalmas Mihăilești-víztározó.", "A közeli Argedava dák várának romjai híres lelőhelyek.", "Bukaresttől mindössze 20 km-re délnyugatra fekszik.", "1989-ben kapott városi rangot.", "Fontos árvízvédelmi és vízellátási csomópont.", "A horgászok egyik legnépszerűbb célpontja a főváros közelében."],
       "ro": ["La 24 mai 2004, aici a avut loc o explozie devastatoare a unui camion cu azotat de amoniu.", "Explozia a provocat 18 morți, inclusiv 7 pompieri și 2 jurnaliști.", "Lacul de acumulare Mihăilești-Argeș are o suprafață de 1.100 de hectare.", "Prima atestare documentară a localității datează din 1543.", "A devenit oraș în 1989.", "Este situat pe drumul național DN6, care leagă Bucureștiul de Alexandria.", "Barajul de pe Argeș a fost construit în anii 1970."],
       "en": ["A local agricultural center.", "Located on the Argeș River.", "The site of a major truck explosion in 2004.", "The local economy is based on farming and fishing.", "Mihăilești was declared a town in 1989.", "The town is located near Bucharest."]
-    }
+    },
+    image: "/poi-images/city-mihailesti-extra.webp",
   },
   {
     "id": "city-targu-jiu-extra",
@@ -2322,7 +2378,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Itt található Brâncuși UNESCO Világörökség részét képező szoborparkja.", "A Végtelen Oszlop közel 30 méter magas.", "Ecaterina Teodoroiu, a román nemzeti hősnő szülővárosa.", "Gorj megye székhelye a Zsil folyó völgyében.", "Első írásos említése 1406-ból származik.", "Fontos egyetemi város és bányászati központ."],
       "ro": ["Găzduiește Ansamblul Monumental 'Calea Eroilor' al lui Constantin Brâncuși, inaugurat în 1938.", "Coloana fără Sfârșit are o înălțime de 29,35 metri și este compusă din 15 moduli octaedrici.", "Poarta Sărutului este sculptată din travertin de Banpotoc.", "Prima atestare documentară a orașului datează din 1406.", "A fost reședința pandurilor lui Tudor Vladimirescu în timpul revoluției din 1821.", "Aici s-a născut Ecaterina Teodoroiu, eroina din Primul Război Mondial.", "Casa memorială 'Ecaterina Teodoroiu' este un important muzeu local."],
       "en": ["Home to the Sculptural Ensemble of Constantin Brâncuși.", "The Endless Column is 29.3 meters high.", "The ensemble was created to honor the heroes of World War I.", "Constantin Brâncuși was born near Târgu Jiu.", "The city is located on the Jiu River.", "Târgu Jiu is the capital of Gorj County."]
-    }
+    },
+    image: "/poi-images/city-targu-jiu-extra.webp",
   },
   {
     "id": "city-motru-extra",
@@ -2361,7 +2418,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Az 1960-as években épült fel modern bányászvárosként.", "A lignitbányászat egyik legfontosabb központja Olténiában.", "A Motru folyó partján fekszik.", "Gorj megye délnyugati részén található.", "1966-ban nyilvánították várossá.", "Jelentős energetikai és gépipari létesítményekkel rendelkezik."],
       "ro": ["A fost înființat ca oraș minier în 1966.", "Este un centru important al bazinului carbonifer al Olteniei.", "Dezvoltarea sa a fost planificată pentru a susține exploatarea lignitului.", "Economia este dependentă de Complexul Energetic Oltenia.", "A devenit municipiu în 2000.", "Populația a scăzut după restructurarea sectorului minier din anii '90.", "Este unul dintre cele mai tinere orașe din județul Gorj."],
       "en": ["A major center for coal mining in Romania.", "Developed as an industrial city in the 1960s.", "The economy is based on lignite extraction.", "The city is located on the Motru River.", "Motru was declared a city in 1968.", "The city is an important center for the energy sector."]
-    }
+    },
+    image: "/poi-images/city-motru-extra.webp",
   },
   {
     "id": "city-rovinari-extra",
@@ -2400,7 +2458,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Itt található az ország egyik legnagyobb hőerőműve.", "Hatalmas külszíni lignitbányák veszik körül a várost.", "A Zsil (Jiu) folyó mentén fekszik Gorj megyében.", "1981-ben kapott városi rangot.", "Stratégiai jelentőségű Románia energiaellátásában.", "A lakosság nagy része az energetikai szektorban dolgozik."],
       "ro": ["Termocentrala Rovinari are o putere instalată de 1.320 MW.", "Este unul dintre cei mai importanți producători de energie electrică din România.", "Orașul s-a dezvoltat exponențial odată cu industria extractivă de lignit.", "A fost declarat oraș în 1981.", "Carierele de lignit din zonă au modificat semnificativ peisajul natural.", "Economia locală este aproape în totalitate dependentă de sectorul energetic.", "Se află la 25 km de Târgu Jiu."],
       "en": ["A major center for the energy industry in Romania.", "Home to the Rovinari Power Station, a large thermal power plant.", "The power station uses lignite from the Rovinari coal basin.", "The town was developed as an industrial center.", "Rovinari is located on the Jiu River.", "The town was declared a town in 1981."]
-    }
+    },
+    image: "/poi-images/city-rovinari-extra.webp",
   },
   {
     "id": "city-odorheiu-secuiesc-extra",
@@ -2439,7 +2498,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A székelység szellemi és kulturális központja.", "'iskolavárosként' ismert patinás kollégiumai miatt.", "Itt található a Székelytámadt-vár romja.", "A Nagy-Küküllő folyó partján fekszik.", "Első írásos említése 1333-ból származik.", "Híres a Szejkefürdőről és az ottani mofettákról."],
       "ro": ["Este considerat capitala istorică a Ținutului Secuiesc.", "Cetatea Székely Támadt a fost construită după 1492.", "Prima adunare națională a secuilor a avut loc aici în 1334.", "Colegiul Reformat, fondat în 1670, este o instituție de învățământ de prestigiu.", "Populația este formată în proporție de peste 95% din maghiari.", "A fost prima capitală a Scaunului Odorhei.", "Primăria orașului, construită în 1896, este o clădire emblematică în stil eclectic."],
       "en": ["An important cultural center of the Székely community.", "The city has a medieval fortress, the Székely Támadt Citadel.", "The Haáz Rezső Museum has rich collections.", "Odorheiu Secuiesc has a significant Hungarian Székely majority.", "First documented in 1334.", "The city is known for its traditional craftsmanship."]
-    }
+    },
+    image: "/poi-images/city-odorheiu-secuiesc-extra.webp",
   },
   {
     "id": "city-gheorgheni-extra",
@@ -2478,7 +2538,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A székely és az örmény kultúra találkozási helye.", "Barokk örmény katolikus temploma országos műemlék.", "A Gyergyói-medence legnépesebb települése.", "Közelében található a Gyilkos-tó és a Békás-szoros.", "Híres a zord téli klímájáról ('hideg-pólus').", "Első írásos említése 1333-ból származik."],
       "ro": ["Este un punct de acces major către Parcul Național Cheile Bicazului-Hășmaș.", "Lacul Roșu, un lac de baraj natural, s-a format în 1837.", "Are o climă continentală rece, fiind unul dintre polii frigului din România.", "Este un centru important al industriei de prelucrare a lemnului.", "Prima atestare documentară datează din 1607.", "Parcul Dendrologic Csíky a fost înființat la începutul secolului al XX-lea.", "Aici funcționează un patinoar artificial, o bază importantă pentru hocheiul pe gheață."],
       "en": ["Located in a large mountain depression in the Eastern Carpathians.", "A gateway to the Red Lake and the Bicaz Gorges.", "An important cultural center of the Székely community.", "The local economy is based on forestry and tourism.", "The city has a significant Hungarian Székely majority.", "The area is popular for hiking and winter sports."]
-    }
+    },
+    image: "/poi-images/city-gheorgheni-extra.webp",
   },
   {
     "id": "city-toplita-extra",
@@ -2517,7 +2578,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Híres a 27 Celsius-fokos termálvízeséséről.", "A Maros felső folyása mentén, 650 méteren fekszik.", "Három hegység találkozásánál fekvő túraközpont.", "Sípályái és modern gyógyfürdője népszerű célpont.", "Első írásos említése 1567-ből származik Taplocza néven.", "Jelentős fafeldolgozó és bútoriparral rendelkezik."],
       "ro": ["Prima atestare documentară a orașului datează din anul 1567.", "Orașul este situat la o altitudine de 650 de metri deasupra nivelului mării.", "Castelul Urmánczy, un monument arhitectural, a fost construit în 1906.", "Izvoarele termale au o temperatură constantă de aproximativ 27 de grade Celsius.", "Lângă oraș se află singura cascadă din România formată din apă termală.", "Toplița este un punct de plecare important pentru drumeții în Parcul Național Călimani.", "Biserica de lemn 'Sfântul Ilie', datând din 1847, este un monument istoric valoros.", "Zona este renumită pentru specialitățile sale din brânză, specifice regiunii montane."],
       "en": ["A spa town known for its thermal baths.", "Located on the Mureș River, in the Eastern Carpathians.", "A starting point for hiking in the Călimani and Gurghiu mountains.", "The Urmánczy Castle is a notable landmark.", "The local economy is based on forestry and tourism.", "The area is known for its beautiful natural scenery."]
-    }
+    },
+    image: "/poi-images/city-toplita-extra.webp",
   },
   {
     "id": "city-deva-extra",
@@ -2556,7 +2618,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A Maros bal partján fekvő megyeszékhely.", "Vulkáni kúpon épült vára 1269-ben szerepel először oklevélben.", "Itt található a Magna Curia barokk kastély (ma múzeum).", "A várhegy 187 méterrel magasodik a város fölé.", "Fontos dák és római régészeti leleteket őriznek itt.", "A román női tornászválogatott híres edzőközpontja."],
       "ro": ["Cetatea Deva a fost construită în secolul al XIII-lea pe un con vulcanic.", "Prima atestare documentară a orașului datează din anul 1269.", "Telegondola care urcă la cetate este unică în România, fiind un ascensor înclinat.", "Palatul Magna Curia, construit în 1621, este cea mai veche clădire monument istoric din Deva.", "Înălțimea dealului Cetății este de 378 de metri.", "Deva a fost un important centru al mișcării revoluționare conduse de Horea, Cloșca și Crișan în 1784.", "Gimnasta Nadia Comăneci a fost antrenată la Deva.", "Muzeul Civilizației Dacice și Romane deține peste 50.000 de piese arheologice."],
       "en": ["The capital of Hunedoara County.", "Dominated by the Deva Citadel, a medieval fortress.", "The citadel is located on a volcanic hill.", "First documented in 1269.", "The city is located on the Mureș River.", "The Magna Curia palace is another important historical monument."]
-    }
+    },
+    image: "/poi-images/city-deva-extra.webp",
   },
   {
     "id": "city-hunedoara-extra",
@@ -2595,7 +2658,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Itt található a Hunyadi-vár, Európa egyik legnagyobb gótikus kastélya.", "1446-ban Hunyadi János kezdte meg a vár kiépítését.", "A 20. században Románia egyik legnagyobb acélgyártó központja volt.", "A várat a 'kastélyok királyának' is nevezik.", "A Cserna folyó partján fekszik Hunyad megyében.", "Legendák szerint Vlad Tepes is raboskodott a vár börtönében."],
       "ro": ["Castelul Corvinilor a fost construit în principal în secolul al XV-lea.", "Iancu de Hunedoara a transformat fortificația existentă într-un castel impunător începând cu 1440.", "Dieta Transilvaniei s-a întrunit în castel în 1456.", "Turnul 'Ne bojsa' (Nu te teme) a fost numit de Iancu de Hunedoara.", "Legenda spune că Vlad Țepeș a fost închis în temnița castelului.", "Combinatul siderurgic din Hunedoara a fost unul dintre cele mai mari din România.", "Orașul este situat pe râul Cerna.", "Prima atestare a unei așezări în zonă datează din 1264."],
       "en": ["Home to the Corvin Castle, a major Gothic landmark.", "The castle was built in the 15th century by John Hunyadi.", "Hunedoara was an important center of the Romanian steel industry.", "The city is located on the Cerna River.", "The castle was a royal residence and a fortress.", "The city has a rich industrial heritage."]
-    }
+    },
+    image: "/poi-images/city-hunedoara-extra.webp",
   },
   {
     "id": "city-petrosani-extra",
@@ -2634,7 +2698,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A Zsil-völgyi bányavidék legnagyobb települése.", "1948-ban alapított egyeteme bányászati szakirányú.", "615 méteres tengerszint feletti magasságban fekszik.", "Itt található az ország egyetlen bányászati múzeuma.", "A Páring-hegység sípályáinak fontos kiindulópontja.", "A 19. század közepén kezdődött itt az intenzív szénbányászat."],
       "ro": ["Petroșani este cel mai mare oraș din Valea Jiului.", "Universitatea din Petroșani, fondată în 1948, este singura universitate de profil minier din țară.", "Muzeul Mineritului a fost inaugurat în 1961.", "Prima exploatare de cărbune în Valea Jiului a început în jurul anului 1840.", "Din Petroșani pornește telescaunul către stațiunea Parâng.", "Orașul a fost un important centru al mișcărilor muncitorești, inclusiv al grevei din 1977."],
       "en": ["A major center for coal mining in the Jiu Valley.", "The city's development was driven by the coal industry.", "Located in a mountain depression, surrounded by high mountains.", "A starting point for tourism in the Parâng and Retezat mountains.", "The city has a university specialized in mining.", "The Mining Museum presents the history of coal mining in the region."]
-    }
+    },
+    image: "/poi-images/city-petrosani-extra.webp",
   },
   {
     "id": "city-urziceni-extra",
@@ -2673,7 +2738,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["1596-ban említik először Mihai Viteazul idejéből.", "2009-ben futballcsapata román bajnok lett.", "Fontos közúti csomópont a DN2-es főút mentén.", "Bukaresttől 60 km-re északkeletre fekszik.", "A Bărăgan-alföld egyik legjelentősebb gabonapiaca.", "1895-ben kapott városi rangot."],
       "ro": ["Echipa de fotbal Unirea Urziceni a câștigat Liga I în sezonul 2008-2009.", "A participat în grupele UEFA Champions League în sezonul 2009-2010.", "Prima atestare documentară a localității datează din 1597.", "A devenit municipiu în 1995.", "Este situat la intersecția drumurilor DN2 și DN1D.", "Economia este predominant agrară, specifică Bărăganului.", "Târgul săptămânal este un important eveniment economic pentru regiune."],
       "en": ["Located in the Bărăgan Plain, one of Romania's most important agricultural areas.", "An important transportation hub in the region.", "The local football team, Unirea Urziceni, had notable national and European success.", "The name 'Urziceni' is derived from 'urzică,' the Romanian word for nettle.", "Serves as a commercial center for the surrounding agricultural communities.", "The climate is continental, with hot summers and cold winters."]
-    }
+    },
+    image: "/poi-images/city-urziceni-extra.webp",
   },
   {
     "id": "city-fetesti-extra",
@@ -2712,7 +2778,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Itt található az 1895-ben épült híres Saligny-vasúti híd.", "A Duna Borcea-ága mellett fekszik.", "1995-ben kapott municípiumi rangot.", "Fontos vasúti és közúti csomópont a tengerpart felé.", "A Bărăgan-síkság egyik legfontosabb logisztikai bázisa.", "1528-ból származik az első írásos említése."],
       "ro": ["Complexul de poduri Fetești-Cernavodă este vital pentru legătura cu litoralul.", "Podul rutier, parte a Autostrăzii Soarelui, a fost deschis în 1987.", "Podul feroviar original, 'Regele Carol I', a fost proiectat de Anghel Saligny și inaugurat în 1895.", "Este al doilea cel mai mare oraș din județul Ialomița, după Slobozia.", "Prima atestare documentară datează din 1528.", "A devenit municipiu în 1995.", "Economia beneficiază de poziția sa strategică pe coridorul de transport pan-european IV."],
       "en": ["An important railway and road junction.", "Located on the Borcea branch of the Danube.", "The Cernavodă Bridge complex is located nearby.", "Fetești is a local center for agriculture and industry.", "The city is a gateway to the Danube Delta.", "The local economy is based on transportation and agriculture."]
-    }
+    },
+    image: "/poi-images/city-fetesti-extra.webp",
   },
   {
     "id": "city-tandarei-extra",
@@ -2751,7 +2818,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["1594-ben említik először oklevelekben.", "1968-ban nyilvánították várossá.", "Az Ialomița folyó bal partján fekszik.", "Jelentős napraforgóolaj- és élelmiszeripara van.", "Híres éves vására szeptember közepén zajlik.", "Fontos vasúti csomópont a Bărăganban."],
       "ro": ["Este situat în Câmpia Bărăganului de Nord.", "Prima atestare documentară datează din 1594.", "A devenit oraș în 1968.", "Economia este predominant agrară.", "A fost un important centru pentru comerțul cu cereale.", "Râul Ialomița trece prin apropierea orașului.", "Târgul anual din septembrie are o tradiție de peste 100 de ani."],
       "en": ["An agricultural town in the Bărăgan Plain.", "The town has a large Roma community.", "The local economy is based on agriculture.", "Țăndărei was declared a town in 1968.", "The town is located on the Ialomița River.", "It is a local center for the surrounding villages."]
-    }
+    },
+    image: "/poi-images/city-tandarei-extra.webp",
   },
   {
     "id": "city-pascani-extra",
@@ -2790,7 +2858,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Moldva egyik legfontosabb vasúti csomópontja.", "Itt találhatók a híres Remar vasúti javítóműhelyek.", "Mihail Sadoveanu író emlékháza látogatható a városban.", "A Szeret (Siret) folyó partján fekszik.", "1995-ben kapott municípiumi rangot.", "Első írásos említése 1419-ből származik."],
       "ro": ["Este un nod feroviar major, inaugurat odată cu linia Suceava-Roman în 1869.", "Atelierele CFR (astăzi Remar Pașcani) au fost înființate în 1869 pentru reparația de locomotive și vagoane.", "Palatul Cantacuzino-Pașcanu, deși în ruină, este un monument de arhitectură din secolul al XVII-lea.", "Scriitorul Mihail Sadoveanu a locuit o perioadă în apropierea orașului.", "Prima atestare documentară a localității datează din 1419.", "A devenit municipiu în 1968.", "Economia este dominată de industria feroviară și cea textilă."],
       "en": ["An important railway junction and industrial center.", "Home to major railway workshops.", "The local economy is based on the railway industry.", "First documented in 1419.", "The city is located on the Siret River.", "The area is known for its picturesque landscape."]
-    }
+    },
+    image: "/poi-images/city-pascani-extra.webp",
   },
   {
     "id": "city-harlau-extra",
@@ -2829,7 +2898,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Nagy István moldvai fejedelem egyik rezidenciája volt.", "1492-ben épült a híres Szent György fejedelmi templom.", "A Cotnari borvidék egyik központja.", "Első írásos említése 1384-ből származik.", "Gazdag zsidó kulturális emlékekkel rendelkezik.", "145 méteres tengerszint feletti magasságban fekszik."],
       "ro": ["Prima atestare documentară a orașului Hârlău datează din anul 1384.", "Biserica 'Sfântul Gheorghe' a fost ctitorită de Ștefan cel Mare în anul 1492.", "În secolul al XIX-lea, peste 50% din populația orașului era de origine evreiască.", "Curtea domnească de la Hârlău, azi în ruine, a fost una dintre reședințele voievodului Ștefan cel Mare.", "Hârlău se află pe vechiul 'Drum al Vinului' din Moldova.", "Aeroportul Internațional Iași se află la aproximativ 70 de kilometri distanță."],
       "en": ["A former royal residence of the Moldavian princes.", "The Princely Court and the Saint George Church were founded by Stephen the Great.", "The area is known for its vineyards and wine.", "First documented in 1384.", "The local economy is based on agriculture and wine production.", "The town has a museum of history and archaeology."]
-    }
+    },
+    image: "/poi-images/city-harlau-extra.webp",
   },
   {
     "id": "city-targu-frumos-extra",
@@ -2868,7 +2938,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Neve magyarul 'Szép Vásárt' jelent.", "1944 tavaszán nagy páncéloscsata helyszíne volt.", "A DN28-as főút mentén, Iași-tól 45 km-re fekszik.", "16. századi ortodox temploma műemlék.", "1929-ben kapott városi rangot.", "Fontos mezőgazdasági gyűjtő- és elosztó központ."],
       "ro": ["Prima atestare documentară datează din secolul al XV-lea.", "În aprilie-mai 1944, aici au avut loc lupte grele, cunoscute ca Bătălia de la Târgu Frumos.", "Orașul este situat pe drumul european E583.", "Gara, construită în stil neoclasic, a fost dată în folosință în 1870.", "Este un important centru agricol pentru regiunea înconjurătoare.", "Biserica 'Cuvioasa Parascheva' a fost construită în secolul al XVI-lea.", "În apropiere s-au descoperit vestigii ale culturii Cucuteni."],
       "en": ["The town's name means 'Beautiful Market'.", "The site of two major battles during World War II.", "A local agricultural and commercial center.", "First documented in 1448.", "The local economy is based on agriculture and food processing.", "The town is known for its traditional fairs."]
-    }
+    },
+    image: "/poi-images/city-targu-frumos-extra.webp",
   },
   {
     "id": "city-buftea-extra",
@@ -2907,7 +2978,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Itt találhatók Románia legnagyobb filmstúdiói.", "A Stirbei-palota és parkja országos jelentőségű műemlék.", "A Colentina folyó mentén, Bukaresttől 20 km-re fekszik.", "1968-ban nyilvánították várossá.", "De facto Ilfov megye adminisztratív központja.", "Híres fesztiválok és szabadtéri rendezvények helyszíne."],
       "ro": ["Găzduiește Studiourile Cinematografice Buftea, fondate în 1952.", "Palatul Știrbei a fost construit în 1864 de Barbu Dimitrie Știrbei, domnitor al Țării Românești.", "Capela Palatului Știrbei este o copie la scară redusă a bisericii Mănăstirii Curtea de Argeș.", "Buftea este traversat de râul Colentina.", "A devenit oraș în 1968.", "Este un important nod feroviar pe magistrala București-Ploiești.", "Multe producții cinematografice internaționale au fost filmate la Buftea."],
       "en": ["The center of the Romanian film industry.", "Home to the MediaPro Studios.", "Located near Bucharest, on the Colentina River.", "The Buftea Palace is a notable landmark.", "The town is a popular location for filming.", "The Buftea Lake is a recreational area."]
-    }
+    },
+    image: "/poi-images/city-buftea-extra.webp",
   },
   {
     "id": "city-otopeni-extra",
@@ -2946,7 +3018,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Itt található Románia legnagyobb repülőtere (Henri Coandă).", "Híres a Tiriac Collection veteránautó-múzeumáról.", "Bukaresttől északra, a DN1-es főút mentén fekszik.", "Itt működik az ország egyik legnagyobb vízi vidámparkja.", "2000-ben kapott városi rangot.", "Stratégiai központja a nemzetközi szállítmányozásnak."],
       "ro": ["Găzduiește Aeroportul Internațional 'Henri Coandă', principalul aeroport al României.", "Aeroportul a fost inaugurat pentru zboruri comerciale în 1970.", "Therme București, cel mai mare complex de relaxare și wellness din Europa de Est, se află aici.", "Prima mențiune documentară datează din 1587.", "A devenit oraș în anul 2000.", "Este un hub economic major, cu numeroase parcuri logistice și de birouri.", "Patinodromul național 'Triumf' se află tot în Otopeni."],
       "en": ["Home to the Henri Coandă International Airport, the main airport of Romania.", "A major transportation hub and business center.", "The town has experienced rapid development.", "Otopeni is located north of Bucharest.", "The Romanian National Aviation Museum is located nearby.", "The town has a number of hotels and business parks."]
-    }
+    },
+    image: "/poi-images/city-otopeni-extra.webp",
   },
   {
     "id": "city-voluntari-extra",
@@ -2985,7 +3058,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Neve az 'önkéntes' (voluntar) szóból származik.", "Az első világháború után alapították a veteránok számára.", "Ilfov megye egyik legnépesebb és leggyorsabban növekvő városa.", "Bukarest északkeleti szomszédságában fekszik.", "Híres modern lakóparkjairól és bevásárlóközpontjairól.", "2004-ben kapott városi rangot."],
       "ro": ["Numele provine de la soldații voluntari din Primul Război Mondial care au primit aici pământ.", "Cartierul Pipera este cel mai mare district de birouri din România.", "A cunoscut cea mai rapidă creștere a populației dintre toate orașele din România după 1990.", "A devenit oraș în 2004.", "Este unul dintre cele mai bogate orașe din țară din punct de vedere al veniturilor la bugetul local.", "Pădurea Băneasa, o importantă zonă de agrement, se află în apropiere.", "Autostrada A3 București-Ploiești traversează teritoriul orașului."],
       "en": ["A major suburb of Bucharest.", "The town has experienced rapid population growth.", "Primarily a residential area.", "The local economy is based on commerce and services.", "Voluntari was declared a town in 2004.", "The town has a modern infrastructure."]
-    }
+    },
+    image: "/poi-images/city-voluntari-extra.webp",
   },
   {
     "id": "city-sighetu-marmatiei-extra",
@@ -3024,7 +3098,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A történelmi Máramaros-vidék központja.", "A Tisza és az Iza folyók összefolyásánál fekszik.", "Itt található a Kommunizmus Áldozatainak Emlékmúzeuma.", "Elie Wiesel Nobel-békedíjas író szülővárosa.", "Skazene a máramarosi falusi építészetet mutatja be.", "Közvetlenül az ukrán határ mellett helyezkedik el."],
       "ro": ["Memorialul Victimelor Comunismului și al Rezistenței este amenajat în fosta închisoare, care a funcționat între 1897 și 1977.", "Elie Wiesel, laureat al Premiului Nobel pentru Pace în 1986, s-a născut la Sighet în 1928.", "Muzeul Satului Maramureșean din Sighet prezintă peste 30 de gospodării tradiționale.", "Orașul este situat la confluența râurilor Iza și Tisa.", "Înainte de Al Doilea Război Mondial, comunitatea evreiască reprezenta aproximativ 40% din populația orașului.", "Cimitirul Vesel de la Săpânța se află la doar 20 de kilometri de Sighet."],
       "en": ["Home to the Sighet Memorial Museum, a former political prison.", "The birthplace of Nobel laureate Elie Wiesel (1928).", "An important center of Jewish life in pre-war Romania.", "Located near the border with Ukraine.", "The city has a museum of Maramureș ethnography.", "The 'Merry Cemetery' in the nearby village of Săpânța is a famous attraction."]
-    }
+    },
+    image: "/poi-images/city-sighetu-marmatiei-extra.webp",
   },
   {
     "id": "city-viseu-de-sus-extra",
@@ -3063,7 +3138,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A Vaser-völgyi erdei kisvasút ('mocănița') kiindulópontja.", "A Máramarosi-havasok lábánál, a Visó folyó völgyében fekszik.", "Jelentős német (cipzer) közösség élt itt.", "A fafeldolgozás a város legfontosabb iparága.", "1954-ben kapott városi rangot.", "Máramaros megye egyik legfontosabb turisztikai központja."],
       "ro": ["Mocănița de pe Valea Vaserului a fost construită în 1932 pentru transportul lemnului.", "Calea ferată are o lungime totală de aproximativ 56 de kilometri.", "Vișeu de Sus este unul dintre cele mai mari orașe ca suprafață din România, având 443 km².", "Parcul Natural Munții Maramureșului acoperă peste 148.000 de hectare.", "Altitudinea medie a orașului este de 427 de metri.", "În zonă trăiește o importantă comunitate de țipțeri (germani), colonizați în secolul al XVIII-lea."],
       "en": ["Famous for the Vaser Valley Forestry Railway ('Mocănița').", "A center for the timber industry.", "Located in the Vaser River valley, in the Maramureș Mountains.", "The 'Mocănița' is the last remaining forestry railway in Europe.", "The area is known for its wooden churches, some of which are UNESCO World Heritage sites.", "The town is a popular tourist destination."]
-    }
+    },
+    image: "/poi-images/city-viseu-de-sus-extra.webp",
   },
   {
     "id": "city-borsa-extra",
@@ -3102,7 +3178,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A Radnai-havasok lábánál fekvő hegyi üdülőhely.", "Itt található a Lóhavasi-vízesés, az ország egyik legmagasabbja.", "Népszerű síközpont, több felvonóval és pályával.", "A Nagy-Pietrosz (2303 m) csúcsára innen indulnak a túrák.", "A Visó folyó felső völgyében fekszik.", "Történelmileg fontos bányászati központ volt."],
       "ro": ["Vârful Pietrosul Rodnei are o altitudine de 2.303 metri.", "Stațiunea deține cea mai lungă pârtie de schi naturală din România.", "Cascada Cailor, una dintre cele mai mari cascade din țară, se află în apropiere.", "Parcul Național Munții Rodnei, care include rezervația Pietrosul Mare, este o rezervație a biosferei UNESCO.", "Trambulina de schi de la Borșa a fost una dintre cele mai mari din Europa de Est la momentul construcției.", "Localitatea a fost în trecut un important centru minier pentru extracția de cupru și zinc."],
       "en": ["A popular ski resort in the Eastern Carpathians.", "Located at the foot of the Rodna and Maramureș mountains.", "A starting point for hiking in the Rodna Mountains National Park.", "The Horses' Waterfall is one of the highest waterfalls in Romania.", "The area is known for its rich folklore and traditions.", "The local economy is based on tourism and wood processing."]
-    }
+    },
+    image: "/poi-images/city-borsa-extra.webp",
   },
   {
     "id": "city-orsova-extra",
@@ -3141,7 +3218,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A Vaskapu-szorosban, a Duna partján fekszik.", "A mai várost az 1970-es években építették a régi elárasztása után.", "Közelében található Decebal sziklába faragott arca.", "A Cserna folyó itt torkollik a Dunába.", "Fontos dunai kikötő és turisztikai központ.", "A Szent Anna kolostor a város feletti hegyen áll."],
       "ro": ["Orașul actual a fost construit de la zero între 1966 și 1970, după ce vechea Orșova a fost inundată.", "Este situat pe malul lacului de acumulare Porțile de Fier I.", "În apropiere se află Chipul lui Decebal, o sculptură înaltă de 55 de metri.", "Insula Ada Kaleh, o fostă enclavă turcească, a fost scufundată la crearea lacului.", "Mănăstirea catolică 'Sfânta Maria' are o formă neconvențională, de cruce.", "Este un punct de plecare pentru croaziere în Cazanele Mici și Cazanele Mari.", "Vechea Orșova a fost un important centru multicultural."],
       "en": ["A port city on the Danube River, in the Iron Gates gorge.", "The modern city was built in the 1970s after the old city was flooded.", "The city offers a spectacular view of the Danube.", "The Saint Anne Monastery is a nearby landmark.", "The area is popular for tourism, boating, and fishing.", "The city is located near the Serbian border."]
-    }
+    },
+    image: "/poi-images/city-orsova-extra.webp",
   },
   {
     "id": "city-strehaia-extra",
@@ -3180,7 +3258,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A 17. századi Strehaiai kolostor a város fő műemléke.", "A romániai roma közösség egyik legismertebb központja.", "Mehedinți megye keleti részén fekszik.", "1921-ben kapott városi rangot.", "Történelmileg a Craiovești bojárok birtoka volt.", "Éves vására nagy hagyományokkal rendelkezik."],
       "ro": ["Este considerată o capitală neoficială a romilor din România.", "Arhitectura palatelor romilor, cu turnulețe și acoperișuri de tablă, este o caracteristică a orașului.", "Mănăstirea Strehaia a fost ctitorită de boierii Craiovești la sfârșitul secolului al XV-lea.", "A fost reședința Băniei Craiovei pentru o scurtă perioadă în secolul al XVII-lea.", "Prima atestare documentară datează din 1471.", "Târgul de Sfântul Gheorghe este un eveniment cu tradiție.", "Matei Basarab a refăcut mănăstirea în secolul al XVII-lea."],
       "en": ["Known for its large and wealthy Roma community.", "The Strehaia Monastery dates from the 15th century.", "A local agricultural and commercial center.", "First documented in the 15th century.", "The local economy is based on agriculture and trade.", "The town is known for its traditional fairs."]
-    }
+    },
+    image: "/poi-images/city-strehaia-extra.webp",
   },
   {
     "id": "city-vanju-mare-extra",
@@ -3219,7 +3298,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A Blahnița borvidék központja.", "Neve 'nagy eladást' jelent, utalva a borkereskedelemre.", "1968-ban nyilvánították várossá.", "Fontos borászati kutatóállomás működik itt.", "Híres a Fetească Neagră és Merlot borairól.", "Mehedinți megye déli, mezőgazdasági részén fekszik."],
       "ro": ["Este un centru viticol renumit, parte a podgoriei 'Dealurile Craiovei'.", "A fost declarat oraș în 1968.", "Prima atestare documentară datează din 1772.", "Economia se bazează pe viticultură și producția de vin.", "Soiurile Fetească Neagră și Merlot sunt cultivate pe scară largă.", "Este situat în sudul județului Mehedinți.", "Târgul anual de toamnă este principalul eveniment economic local."],
       "en": ["A local center for viticulture.", "The area is known for its vineyards and red wines.", "The local economy is based on agriculture and wine production.", "Vânju Mare was declared a town in 1968.", "The town is known for its traditional wine cellars.", "It is a quiet, rural town in the Oltenia region."]
-    }
+    },
+    image: "/poi-images/city-vanju-mare-extra.webp",
   },
   {
     "id": "city-reghin-extra",
@@ -3258,7 +3338,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A 'hegedűk városának' is nevezik a hangszergyártás miatt.", "Itt működik a HORA, Európa egyik legnagyobb hangszergyára.", "A Maros és a Görgény folyók találkozásánál fekszik.", "Néprajzi múzeuma a Felső-Maros-vidék kultúráját őrzi.", "1228-ban említik először Regun néven.", "A város evangélikus temploma a 14. században épült."],
       "ro": ["Este un centru de renume mondial pentru fabricarea instrumentelor muzicale, în special viori.", "Tradiția lutierilor a fost consolidată de fabrica de instrumente muzicale (astăzi Gliga și Hora).", "Prima atestare documentară datează din 1228, într-o diplomă a regelui Andrei al II-lea al Ungariei.", "Biserica de lemn 'Sfântul Nicolae' a fost construită în 1748.", "Podul de lemn acoperit peste Mureș a fost un simbol al orașului până la demolare.", "Populația este mixtă, formată din români, maghiari și germani (sași).", "Este un important centru al industriei de prelucrare a lemnului."],
       "en": ["Known as the 'City of Violins'.", "A major center for the production of musical instruments.", "The city has a long tradition of woodworking.", "Located at the confluence of the Mureș and Gurghiu rivers.", "The city has a diverse multicultural heritage.", "The local economy is based on the wood industry."]
-    }
+    },
+    image: "/poi-images/city-reghin-extra.webp",
   },
   {
     "id": "city-ludus-extra",
@@ -3297,7 +3378,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Híres volt a 20. században épült nagy cukorgyáráról.", "A Maros folyó partján, a Mezőség szélén fekszik.", "Neve a magyar 'lúd' szóból ered.", "1960-ban kapott városi rangot.", "Fontos vasúti és közúti csomópont.", "Jelentős lenfeldolgozó ipara is volt."],
       "ro": ["Fabrica de zahăr din Luduș a fost inaugurată în 1960 și a fost un pilon al economiei locale.", "Prima atestare documentară datează din 1377.", "A devenit oraș în 1960.", "Este un nod feroviar pe linia Războieni-Târgu Mureș-Deda.", "Economia se bazează pe industria alimentară și agricultură.", "Este situat în Câmpia Transilvaniei, o importantă zonă de cultură a sfeclei de zahăr.", "Populația a crescut semnificativ după industrializarea din anii '60."],
       "en": ["An important industrial center in Mureș County.", "Home to a large sugar factory.", "The local economy is based on industry and agriculture.", "The town is located on the Mureș River.", "Luduș was declared a town in 1960.", "The town has a significant Hungarian minority."]
-    }
+    },
+    image: "/poi-images/city-ludus-extra.webp",
   },
   {
     "id": "city-iernut-extra",
@@ -3336,7 +3418,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Itt működik Románia egyik legnagyobb hőerőműve.", "A Kornis család reneszánsz várkastélya a városban áll.", "1656-ban itt kötötték a radnóti egyezményt.", "A Maros folyó partján fekszik Maros megyében.", "1348-ban említik először írásos források.", "Az erőmű a földgáztüzelésű energiatermelés fontos bázisa."],
       "ro": ["Termocentrala Iernut, construită în anii '60, are o putere instalată de 800 MW.", "Prima atestare documentară a localității datează din 1257.", "Castelul Kornis-Rákóczi-Bethlen datează din secolul al XVII-lea.", "În 1658, aici a avut loc o importantă bătălie între oștile lui Gheorghe Rákóczi al II-lea și tătari.", "Biserica reformată a fost construită în stil gotic în secolul al XV-lea.", "A devenit oraș în 1989.", "Este un important nod rutier pe drumul european E60."],
       "en": ["Home to a large thermal power plant.", "The Kornis-Rákóczi-Bethlen Castle is a historical monument.", "The town is located on the Mureș River.", "The local economy is based on energy production and agriculture.", "First documented in 1257.", "The town has a mixed population of Romanians and Hungarians."]
-    }
+    },
+    image: "/poi-images/city-iernut-extra.webp",
   },
   {
     "id": "city-piatra-neamt-extra",
@@ -3375,7 +3458,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Nagy István moldvai fejedelem udvarháza és temploma itt áll.", "A Beszterce (Bistrița) folyó partján fekszik.", "A Pietricica és Cozla hegyek között helyezkedik el.", "Gyakran nevezik 'Moldva gyöngyszemének'.", "Telegondola visz fel a Cozla-hegy tetejére.", "Neamț megye közigazgatási és kulturális központja."],
       "ro": ["Curtea Domnească și Biserica Sf. Ioan au fost ctitorite de Ștefan cel Mare între 1497 și 1498.", "Muzeul de Artă Eneolitică Cucuteni deține cea mai importantă colecție de artă preistorică din sud-estul Europei.", "Telegondola urcă până la o altitudine de 657 de metri pe Dealul Cozla.", "Prima atestare documentară a orașului datează din 1387.", "Sinagoga de lemn, construită în 1766, este un monument istoric unic în România.", "A fost un important centru al industriei chimice (Combinatul de Îngrășăminte Chimice Săvinești).", "Calistrat Hogaș, scriitorul 'drumurilor de munte', a fost profesor la liceul 'Petru Rareș'."],
       "en": ["The capital of Neamț County, known as the 'Pearl of Moldova'.", "The Princely Court was founded by Stephen the Great in the 15th century.", "The city is located on the Bistrița River, surrounded by mountains.", "A popular tourist destination.", "The city has a museum of natural history and a museum of art.", "The Ceahlău Massif is a nearby national park."]
-    }
+    },
+    image: "/poi-images/city-piatra-neamt-extra.webp",
   },
   {
     "id": "city-roman-extra",
@@ -3414,7 +3498,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A Moldva és a Szeret folyók összefolyásánál fekszik.", "A 15. századi Püspöki Székesegyház a város fő műemléke.", "A legenda szerint I. Roman fejedelem alapította.", "Történelmileg fontos örmény közössége volt.", "Jelentős a csőgyártó és cukoripara.", "Neamț megye második legnagyobb városa."],
       "ro": ["Este situat la confluența râului Moldova cu râul Siret.", "Episcopia Romanului a fost înființată în timpul domniei lui Alexandru cel Bun, la începutul secolului al XV-lea.", "Cetatea Nouă a Romanului a fost construită de Ștefan cel Mare.", "Fabrica de țevi (ArcelorMittal) a fost un pilon al industriei românești.", "Prima atestare documentară certă datează dintr-un document din 1392.", "Aici s-a născut Sergiu Celibidache, unul dintre cei mai mari dirijori ai secolului XX.", "Melchisedec Ștefănescu, episcop al Romanului, a fost un mare cărturar și membru fondator al Academiei Române."],
       "en": ["Located at the confluence of the Siret and Moldova rivers.", "An important industrial and commercial center.", "The seat of a Roman Catholic diocese.", "First documented in 1387.", "The city has a museum of history and a museum of art.", "The local economy is diverse, with a focus on manufacturing."]
-    }
+    },
+    image: "/poi-images/city-roman-extra.webp",
   },
   {
     "id": "city-targu-neamt-extra",
@@ -3453,7 +3538,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Fölötte magasodik a középkori Neamți-vár.", "Ion Creangă, a híres román író szülővárosa.", "A híres moldvai kolostorok (Neamț, Agapia) kapuja.", "1476-ban a vár sikeresen ellenállt a török ostromnak.", "A közelben bölényrezervátum található.", "A Neamț (Ozana) folyó partján fekszik."],
       "ro": ["Cetatea Neamț, atestată în 1395, a fost una dintre principalele fortărețe ale Moldovei medievale.", "Scriitorul Ion Creangă s-a născut în satul Humulești, astăzi parte a orașului.", "Zona este renumită pentru densitatea mare de mănăstiri, 'Athos-ul românesc'.", "Parcul Natural Vânători-Neamț este singurul loc din România unde zimbrii pot fi văzuți în libertate.", "Prima mențiune a orașului ca târg datează din secolul al XV-lea.", "A fost un important centru comercial la intersecția drumurilor spre Transilvania și Polonia.", "Mănăstirea Neamț, aflată în apropiere, deține o bibliotecă cu manuscrise de o valoare excepțională."],
       "en": ["Home to the Neamț Citadel, a major medieval fortress.", "A gateway to the famous monasteries of Neamț County.", "The birthplace of writer Ion Creangă (1837 or 1839).", "The Ion Creangă Memorial House is a popular museum.", "The area is a major center for religious tourism.", "The town is located on the Neamț River."]
-    }
+    },
+    image: "/poi-images/city-targu-neamt-extra.webp",
   },
   {
     "id": "city-caracal-extra",
@@ -3492,7 +3578,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A legenda szerint Caracalla római császárról kapta a nevét.", "Szabálytalan, csillag alakú utcaszerkezettel rendelkezik.", "Iancu Jianu, a híres betyár szülővárosa.", "Neoklasszikus stílusú nemzeti színháza 1901-ben épült.", "Olt megye második legnagyobb városa.", "Fontos vasúti csomópont Craiova és Bukarest között."],
       "ro": ["Teatrul Național, construit în 1896, este un monument istoric de valoare națională.", "Parcul Constantin Poroineanu se întinde pe o suprafață de peste 25 de hectare.", "Numele este legat de împăratul roman Caracalla, care ar fi avut aici o reședință.", "Este un important nod feroviar.", "A fost reședința județului Romanați în perioada interbelică.", "Aici s-a născut pictorul Marius Bunescu.", "Vestigiile castrului roman Romula se află în apropiere."],
       "en": ["The city's name is linked to the Roman emperor Caracalla.", "The Roman castrum of Romula is located nearby.", "The city has a museum of history and archaeology.", "The local economy is based on agriculture and industry.", "Caracal was an important administrative center.", "The city is known for its traditional fairs."]
-    }
+    },
+    image: "/poi-images/city-caracal-extra.webp",
   },
   {
     "id": "city-corabia-extra",
@@ -3531,7 +3618,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Neve magyarul 'gályát' vagy 'bárkát' jelent.", "Fontos dunai gabonakikötő.", "Közelében találhatók a római Sucidava erőd romjai.", "A város modern fejlődése a 19. századi gabonakereskedelemhez kötődik.", "1871-ben kapott városi rangot.", "Saját futballstadionja van, amely a helyi csapat otthona."],
       "ro": ["Aici se află ruinele cetății daco-romane Sucidava.", "Fântâna Secretă de la Sucidava este o construcție unică, ce asigura apa cetății din Dunăre.", "A fost un port fluvial important pentru exportul de cereale în secolul al XIX-lea.", "Numele provine de la o epavă de corabie antică găsită în zonă.", "Catedrala 'Sfânta Treime' a fost construită la începutul secolului XX.", "Podul de peste Dunăre de la Sucidava, construit de Constantin cel Mare în 328 d.Hr., a fost unul dintre cele mai lungi din antichitate.", "Muzeul de Arheologie și Etnografie deține artefacte de la Sucidava."],
       "en": ["A port city on the Danube River.", "Located on the site of the ancient city of Sucidava.", "The ruins of the Sucidava fortress are a major archaeological site.", "The 'Secret Fountain' of Sucidava is a unique monument.", "The local economy is based on agriculture and transportation.", "The city is located opposite the Bulgarian shore."]
-    }
+    },
+    image: "/poi-images/city-corabia-extra.webp",
   },
   {
     "id": "city-scornicesti-extra",
@@ -3570,7 +3658,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Nicolae Ceaușescu szülővárosa.", "A kommunista érában monumentális mintavárossá építették át.", "A 15 000 férőhelyes stadionja ma is áll, de elhanyagolt.", "Ceaușescu szülőháza ma emlékházként látogatható.", "1989-ben kapott városi rangot.", "A település a Román-alföldön fekszik."],
       "ro": ["Este locul de naștere al lui Nicolae Ceaușescu (1918-1989).", "A fost declarat oraș în 1989, cu puțin timp înainte de căderea regimului comunist.", "În anii '80, a fost supus unui proces de modernizare forțată pentru a deveni un 'oraș model'.", "Stadionul Viitorul Scornicești are o capacitate de 18.000 de locuri.", "Casa natală a lui Ceaușescu este principalul punct de atracție turistică.", "Echipa de fotbal FC Olt Scornicești a jucat în prima divizie în anii '80.", "Majoritatea satelor din jur au fost demolate pentru a face loc noului centru civic."],
       "en": ["The birthplace of Nicolae Ceaușescu (1918).", "The town was heavily redeveloped during the communist era.", "The local economy is based on agriculture.", "Scornicești was declared a town in 1989.", "The Ceaușescu family house is a local point of interest.", "The town has a stadium and other large public buildings."]
-    }
+    },
+    image: "/poi-images/city-scornicesti-extra.webp",
   },
   {
     "id": "city-campina-extra",
@@ -3609,7 +3698,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A romániai olajipar egyik bölcsője.", "Nicolae Grigorescu festőművész emlékháza itt található.", "A Iulia Hașdeu-kastély egyedülálló spiritiszta épület.", "A Prahova folyó partján fekszik, a Kárpátok lábánál.", "1895-ben itt nyílt meg az ország első olajfúró iskolája.", "1994-ben kapott municípiumi rangot."],
       "ro": ["Castelul 'Iulia Hasdeu' a fost construit între 1893 și 1896 ca un templu dedicat spiritului fiicei savantului.", "Pictorul Nicolae Grigorescu și-a petrecut ultimii ani din viață la Câmpina (1904-1907).", "A fost unul dintre primele orașe din lume cu o rafinărie de petrol (1895).", "Închisoarea Doftana, aflată în apropiere, a fost un loc de detenție pentru mulți lideri comuniști.", "Prima școală de maiștri sondori din lume a fost înființată aici în 1904.", "A fost reședința județului Prahova între 1847 și 1857.", "Bulevardul principal al orașului este unul dintre cele mai lungi din țară (peste 5 km)."],
       "en": ["One of the oldest centers of the Romanian oil industry.", "Home to the 'Nicolae Grigorescu' Memorial Museum.", "The Iulia Hașdeu Castle is a unique architectural monument.", "The city is located on the Prahova River.", "The local economy is still influenced by the oil industry.", "Câmpina is known as the 'gate of the Prahova Valley'."]
-    }
+    },
+    image: "/poi-images/city-campina-extra.webp",
   },
   {
     "id": "city-breaza-extra",
@@ -3648,7 +3738,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Híres a kivételesen tiszta, ózondús levegőjéről.", "Népszerű klimatikus üdülőhely a Prahova völgyében.", "Itt működik a 'Dimitrie Cantemir' Katonai Kollégium.", "1952-ben nyilvánították várossá.", "Bukaresttől kb. 100 km-re északra fekszik.", "A levegő minősége a svájci Davoséhoz hasonló."],
       "ro": ["Aerul din Breaza are una dintre cele mai ridicate concentrații de ioni negativi din țară.", "A fost declarată stațiune balneoclimaterică în 1928.", "Găzduiește Colegiul Militar Liceal 'Dimitrie Cantemir', fondat în 1912.", "Este situată la o altitudine medie de 600 de metri.", "Crucea de pe Dealul Gurga este un important monument local.", "A fost reședința de vară a multor personalități, inclusiv a lui Ion Manolescu-Strunga.", "Calitatea aerului este comparată adesea cu cea din Davos, Elveția."],
       "en": ["A health resort known for its clean air.", "Located in the Prahova Valley, at the foot of the Bucegi Mountains.", "The town is a popular destination for relaxation and recreation.", "Home to the 'Dimitrie Cantemir' Military High School.", "The local economy is based on tourism.", "The town has a number of beautiful villas from the interwar period."]
-    }
+    },
+    image: "/poi-images/city-breaza-extra.webp",
   },
   {
     "id": "city-sinaia-extra",
@@ -3687,7 +3778,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Itt található a Peleș-kastély, a királyi család egykori rezidenciája.", "A Pelișor-kastély Mária királyné kedvenc tartózkodási helye volt.", "A város a nevét az 1695-ben alapított Sinaiai kolostorról kapta.", "Népszerű síparadicsom, több mint 20 km sípályával.", "A Bucegi-hegység lábánál, 800-1000 méteres magasságban fekszik.", "Gyakran nevezik a 'Kárpátok gyöngyszemének'."],
       "ro": ["Castelul Peleș a fost construit între 1873 și 1914, fiind prima clădire complet electrificată din Europa.", "Numele orașului provine de la Mănăstirea Sinaia, fondată în 1695 de spătarul Mihail Cantacuzino.", "Gara Regală a fost construită special pentru familia regală în 1886.", "Prima telegondolă din România a fost instalată la Sinaia.", "Cazinoul din Sinaia, inaugurat în 1913, este o capodoperă a arhitecturii Art Nouveau.", "Altitudinea stațiunii variază între 767 m și 1.055 m.", "Aici se află casa memorială a compozitorului George Enescu, 'Vila Luminiș'."],
       "en": ["A major mountain resort in Romania.", "Home to Peleș Castle, a former royal residence.", "The Sinaia Monastery was founded in 1695.", "A popular destination for skiing and hiking.", "The town is located in the Bucegi Mountains Natural Park.", "The George Enescu Memorial House is another important landmark."]
-    }
+    },
+    image: "/poi-images/city-sinaia-extra.webp",
   },
   {
     "id": "city-carei-extra",
@@ -3726,7 +3818,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A Károlyi grófi család történelmi központja.", "A barokk Károlyi-kastély a város fő látnivalója.", "A kastélyt egy 12 hektáros arborétum veszi körül.", "Multikulturális város magyar, román és sváb lakossággal.", "1944. október 25-én itt szabadult fel az utolsó romániai település.", "Első írásos említése 1320-ból származik."],
       "ro": ["Castelul Károlyi a fost reconstruit în forma actuală între 1894 și 1896.", "Parcul dendrologic din jurul castelului se întinde pe 12 hectare.", "Prima atestare documentară a localității datează din 1320.", "Monumentul Ostașului Român, inaugurat în 1964, este opera sculptorului Vida Gheza.", "A fost un important centru al comunității șvăbești.", "Economia este susținută de producția de componente auto și mobilă.", "Este un important nod rutier și feroviar la granița cu Ungaria."],
       "en": ["Home to the Károlyi Castle, a major baroque monument.", "The city has a rich multicultural heritage.", "Located near the border with Hungary.", "The Károlyi family played an important role in the city's history.", "The city has a museum of history and archaeology.", "The local economy is diverse, with a focus on industry and agriculture."]
-    }
+    },
+    image: "/poi-images/city-carei-extra.webp",
   },
   {
     "id": "city-negresti-oas-extra",
@@ -3765,7 +3858,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Az Oaș-vidék (Țara Oașului) nem hivatalos fővárosa.", "Híres a gazdag népművészetéről és a hagyományőrzésről.", "A szabadtéri falumúzeum az oaș-i építészetet mutatja be.", "Jellegzetesek a modern, extravagáns 'oșeni paloták'.", "Az Oaș-hegység lábánál fekszik.", "1964-ben nyilvánították várossá."],
       "ro": ["Este capitala regiunii etno-folclorice Țara Oașului.", "Muzeul în Aer Liber al Țării Oașului a fost înființat în 1972.", "Portul popular oșenesc este celebru pentru culorile sale vii și pentru clopul cu pene de păun.", "Prima atestare documentară datează din 1490.", "Fenomenul migrației pentru muncă în Europa de Vest este foarte răspândit.", "Festivalul 'Sâmbra Oilor', care marchează urcatul oilor la munte, este cel mai important eveniment local.", "Arhitectura recentă este caracterizată de case mari, cu elemente de design eclectic."],
       "en": ["The capital of the Oaș Country, a distinct ethnographic region.", "Known for its unique traditions, folklore, and costumes.", "The area is famous for its lively traditional music.", "The local architecture is characterized by large and modern houses.", "The Museum of the Oaș Country presents the local traditions.", "The local economy is influenced by the remittances of those working abroad."]
-    }
+    },
+    image: "/poi-images/city-negresti-oas-extra.webp",
   },
   {
     "id": "city-tasnad-extra",
@@ -3804,7 +3898,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Híres a termálvizű gyógyfürdőjéről.", "A termálvíz hőmérséklete a forrásnál meghaladja a 70 °C-ot.", "A fürdő a mozgásszervi betegségek kezelésére specializálódott.", "1968-ban kapott városi rangot.", "Szatmár megye déli részén, a Kraszna-folyó közelében fekszik.", "Néprajzi és régészeti múzeuma is van."],
       "ro": ["Apele geotermale de la Tășnad au o temperatură la ieșire de 72 de grade Celsius.", "Stațiunea balneară a fost modernizată și extinsă în ultimii ani.", "Prima atestare documentară a localității datează din 1021.", "Biserica reformată a fost construită pe fundațiile unei mănăstiri benedictine din secolul al XII-lea.", "A devenit oraș în 1968.", "Apele sunt bogate în săruri și minerale, având proprietăți curative.", "În perioada interbelică, a fost reședință de plasă."],
       "en": ["A spa town known for its thermal baths.", "The thermal waters have therapeutic properties.", "A popular destination for health tourism.", "First documented in 1246.", "The local economy is based on agriculture and tourism.", "The town has a significant Hungarian minority."]
-    }
+    },
+    image: "/poi-images/city-tasnad-extra.webp",
   },
   {
     "id": "city-simleu-silvaniei-extra",
@@ -3843,7 +3938,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A Báthory család ősi fészke és birtokközpontja.", "A középkori Báthory-vár romjai a város fölött állnak.", "Itt találták meg a híres szilágysomlyói aranykincset.", "Báthory István lengyel király és erdélyi fejedelem itt született 1533-ban.", "A Kraszna folyó partján fekszik.", "Híres volt a pezsgőgyártásáról."],
       "ro": ["Aici au fost descoperite două tezaure dacice de argint, în 1889 și 1897.", "Cetatea familiei Báthory a fost construită în 1532.", "Ștefan Báthory, principe al Transilvaniei și rege al Poloniei, s-a născut la Șimleu.", "Este cel mai vechi centru de producție a șampaniei din România, din 1870.", "Prima atestare documentară datează din 1251.", "Sinagoga din Șimleu, construită în 1876, este una dintre cele mai mari din Transilvania.", "Orașul a fost un important centru al Holocaustului din nordul Transilvaniei."],
       "en": ["The former residence of the Báthory noble family.", "The ruins of the Báthory fortress are a major landmark.", "Home to the Northern Transylvania Holocaust Memorial Museum.", "The area is known for its vineyards and sparkling wine.", "First documented in 1251.", "The town has a rich multicultural heritage."]
-    }
+    },
+    image: "/poi-images/city-simleu-silvaniei-extra.webp",
   },
   {
     "id": "city-jibou-extra",
@@ -3882,7 +3978,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Itt található a Vasile Fati Botanikus Kert, az ország egyik legszebbje.", "A botanikus kert a barokk Wesselényi-kastély parkjában terül el.", "Wesselényi Miklós, 'az árvízi hajós' családjának birtoka volt.", "A Szamos folyó partján fekszik.", "1968-ban kapott városi rangot.", "Fontos vasúti csomópont a Zilah-Dés vonalon."],
       "ro": ["Grădina Botanică 'Vasile Fati' a fost inaugurată în 1968.", "Castelul Wesselényi a fost construit între 1778 și 1810.", "Grădina botanică acoperă o suprafață de 24 de hectare.", "Prima atestare documentară a localității datează din 1219.", "Aici se află cel mai mare complex de sere funcțional din țară.", "Acvariul din cadrul grădinii prezintă specii de pești exotici și indigeni.", "Jibou a fost un important nod de cale ferată îngustă."],
       "en": ["Home to the 'Vasile Fati' Botanical Garden, a major tourist attraction.", "The Wesselényi Castle is a beautiful baroque monument.", "The botanical garden has a large complex of greenhouses.", "The town is located on the Someș River.", "First documented in 1387.", "The local economy is diverse, with a focus on tourism."]
-    }
+    },
+    image: "/poi-images/city-jibou-extra.webp",
   },
   {
     "id": "city-cehu-silvaniei-extra",
@@ -3921,7 +4018,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A Szilágyság északi részén fekvő történelmi mezőváros.", "A Drágffy és a Wesselényi családok birtokolták.", "Református temploma a 16. században épült.", "Fontos állattenyésztő és gyümölcstermelő vidék.", "1968-ban nyilvánították várossá.", "A közeli Hadadon a Wesselényi-kastély romjai láthatók."],
       "ro": ["Prima atestare documentară a orașului datează din 1405.", "Biserica reformată din secolul al XVI-lea este un monument de arhitectură gotică.", "A fost un centru important al familiei nobiliare Drágffy.", "Populația maghiară reprezintă aproximativ jumătate din totalul locuitorilor.", "Mlaștina Cehu Silvaniei este o arie protejată pentru diversitatea sa ornitologică.", "Economia se bazează pe industria ușoară, în special cea textilă.", "A primit statutul de oraș în 1968."],
       "en": ["A local agricultural and commercial center.", "The town has a significant Hungarian minority.", "The local economy is based on agriculture and food processing.", "First documented in 1405.", "The town is located in a hilly region.", "It is a quiet, rural town in the Sălaj region."]
-    }
+    },
+    image: "/poi-images/city-cehu-silvaniei-extra.webp",
   },
   {
     "id": "city-medias-extra",
@@ -3960,7 +4058,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A Margit-templom tornya közel 7 méterrel tér el a függőlegestől.", "A romániai földgázkitermelés 'fővárosa'.", "A Romgaz és a Transgaz országos vállalatok székhelye.", "Az egyik legfontosabb erdélyi szász erődváros volt.", "1267-ben említik először Medies néven.", "Az óvárost középkori falak és bástyák veszik körül."],
       "ro": ["Turnul Bisericii Sf. Margareta este unul dintre cele mai înclinate turnuri medievale din lume (înclinare de 2,28 m).", "Centrul istoric medieval este înconjurat de o centură de fortificații cu turnuri și bastioane, construită în secolele XV-XVI.", "A fost unul dintre cele 'Șapte Scaune' săsești ale Transilvaniei.", "Prima atestare documentară datează din 1267.", "Dieta Transilvaniei s-a întrunit la Mediaș de 26 de ori.", "Este un centru important pentru extracția de gaz metan, 'capitala gazului' din România.", "În 1576, principele Ștefan Báthory a fost ales rege al Poloniei la Mediaș."],
       "en": ["A well-preserved medieval city.", "The St. Margaret's Church has a famous leaning tower.", "One of the seven main cities of the Transylvanian Saxons.", "The city has a museum of history and art.", "The local economy is diverse, with a focus on natural gas production.", "The city is located on the Târnava Mare River."]
-    }
+    },
+    image: "/poi-images/city-medias-extra.webp",
   },
   {
     "id": "city-cisnadie-extra",
@@ -3999,7 +4098,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Evangélikus erődtemploma a 13. században épült.", "A 19. században Erdély textilipari központja volt.", "A Csindrel-hegység lábánál fekszik, Szebentől 10 km-re.", "A közeli Nagydisznódi-vár egy román kori bazilikát rejt.", "Az erődtemplom tornyában egy kis múzeum működik.", "1204-ben említik először Riuetel néven."],
       "ro": ["Biserica evanghelică fortificată a fost construită inițial ca o bazilică romanică în secolul al XIII-lea.", "Fortificația din jurul bisericii avea ziduri duble și un triplu cordon de apărare.", "A fost un important centru al breslelor meșteșugărești, în special al postăvarilor.", "Prima atestare documentară a localității datează din 1204.", "Muzeul Industriei Textile, inaugurat recent, prezintă istoria fabricii de covoare.", "Turnul cu ceas al bisericii, adăugat în 1425, domină peisajul orașului.", "Orașul este situat la doar 10 km sud de Sibiu."],
       "en": ["Home to a well-preserved Transylvanian Saxon fortified church.", "The town has a long tradition of textile manufacturing.", "Located near Sibiu, at the foot of the Cindrel Mountains.", "The fortified church was built in the 13th century.", "The nearby Cisnădioara basilica is a Romanesque monument.", "The local economy is based on industry and agriculture."]
-    }
+    },
+    image: "/poi-images/city-cisnadie-extra.webp",
   },
   {
     "id": "city-avrig-extra",
@@ -4038,7 +4138,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Itt található Samuel von Brukenthal barokk nyári rezidenciája.", "A kastélykert a bécsi Schönbrunn mintájára készült.", "A Fogarasi-havasok egyik legfontosabb turisztikai kapuja.", "1364-ben említik először oklevelekben.", "1989-ben kapott városi rangot.", "Híres történelmi üveggyártásáról."],
       "ro": ["Gheorghe Lazăr, iluminist și fondator al învățământului în limba română, s-a născut la Avrig în 1779.", "Palatul de vară Brukenthal a fost construit între 1780 și 1785.", "Grădinile palatului au fost amenajate în stil baroc, fiind unice în Transilvania la acea vreme.", "Fabrica de sticlă din Avrig are o istorie de peste 300 de ani.", "Prima atestare documentară a localității datează din 1364.", "Biserica evanghelică fortificată din centrul orașului a fost construită în secolul al XIII-lea.", "Avrig este un punct de plecare pentru trasee turistice în Munții Făgăraș."],
       "en": ["Home to the Brukenthal Palace, a baroque summer residence.", "The palace is surrounded by a beautiful park.", "Located on the Olt River, at the foot of the Făgăraș Mountains.", "A starting point for hiking in the Făgăraș Mountains.", "The local economy is based on industry and tourism.", "The town has a glass factory with a long tradition."]
-    }
+    },
+    image: "/poi-images/city-avrig-extra.webp",
   },
   {
     "id": "city-falticeni-extra",
@@ -4077,7 +4178,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Itt az egyik legmagasabb az egy főre jutó múzeumok száma.", "Mihail Sadoveanu író és számos tudós szülőhelye.", "Az Ion Irimescu Múzeum egyedülálló gyűjteménynek ad otthont.", "1490-ben említik először oklevelekben.", "Híres 'vizek birodalma' múzeuma a helyi élővilágot mutatja be.", "1995-ben kapott municípiumi rangot."],
       "ro": ["Este orașul cu cel mai mare număr de scriitori și artiști pe cap de locuitor din România.", "Scriitorul Ion Creangă a urmat școala de catiheți din Fălticeni.", "Muzeul de Artă 'Ion Irimescu' deține cea mai mare colecție de autor din țară.", "Galeria Oamenilor de Seamă prezintă viața și opera a peste 50 de personalități locale.", "Prima atestare documentară datează din 15 martie 1490.", "Orașul a purtat numele de Șoldănești până în 1780.", "Este un renumit centru pomicol, în special pentru producția de mere."],
       "en": ["A city with a rich cultural heritage and many museums.", "The birthplace of many Romanian cultural figures.", "The 'Ion Irimescu' Art Museum has a large collection of sculptures.", "The 'Mihail Sadoveanu' Memorial House is a popular museum.", "The local economy is based on agriculture and food processing.", "The city is known for its apple orchards."]
-    }
+    },
+    image: "/poi-images/city-falticeni-extra.webp",
   },
   {
     "id": "city-radauti-extra",
@@ -4116,7 +4218,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Itt található a Bogdana-kolostor, Moldva legrégebbi kőtemploma.", "Az első moldvai fejedelmek temetkezési helye.", "Híres zsinagógája a 19. század közepén épült.", "Bukovina egyik legfontosabb néprajzi központja.", "1391-ben említik először oklevelekben.", "Jelentős fafeldolgozó és élelmiszeriparral rendelkezik."],
       "ro": ["Mănăstirea Bogdana, ctitorită de Bogdan I (c. 1360), este necropola primilor domnitori ai Moldovei.", "Este cea mai veche biserică de piatră din Moldova și Bucovina.", "Herghelia Rădăuți, fondată în 1792, este specializată pe rasa Shagya Arab.", "A fost un important centru al comunității evreiești din Bucovina, având un templu monumental.", "Catedrala romano-catolică a fost construită la începutul secolului al XX-lea.", "Prima atestare documentară sub numele actual datează din 1392.", "Grădina Zoologică din Rădăuți este una dintre cele mai vechi din țară."],
       "en": ["Home to the Bogdana Monastery, the first stone church in Moldavia.", "The monastery is the burial place of the first Moldavian rulers.", "The city has a rich multicultural heritage.", "The Rădăuți stud farm is famous for its Shagya Arabian horses.", "The city has a museum of ethnography.", "The area is known for the black pottery of Marginea."]
-    }
+    },
+    image: "/poi-images/city-radauti-extra.webp",
   },
   {
     "id": "city-campulung-moldovenesc-extra",
@@ -4155,7 +4258,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Itt található az egyedülálló Faművészeti Múzeum.", "A Ráró-hegység (Rarău) lábánál fekszik.", "A Moldva folyó felső folyása mentén, 600 méter magasan fekszik.", "1411-ben említik először oklevelekben.", "Fontos kiindulópontja a Transrarău hegyi útnak.", "Híres a hagyományos bukovinai gasztronómiájáról."],
       "ro": ["Muzeul 'Arta Lemnului' este unic în țară prin profilul său tematic.", "Este un punct de acces important către masivele Rarău și Giumalău.", "Prima atestare documentară a localității datează din 1411.", "A fost un important centru al industriei de prelucrare a lemnului și al laptelui.", "Colecția de linguri de lemn 'Ion Țugui' cuprinde peste 5.000 de exponate.", "În secolul al XVIII-lea, aici au fost colonizați germani (țipțeri), specialiști în minerit.", "Altitudinea medie a orașului este de 630 de metri."],
       "en": ["A gateway to the painted monasteries of Bukovina.", "Located in a mountain area, on the Moldova River.", "The Wood Art Museum is a unique attraction.", "A popular destination for hiking and winter sports.", "The city is surrounded by the Rarău and Giumalău mountains.", "The local economy is based on tourism and the timber industry."]
-    }
+    },
+    image: "/poi-images/city-campulung-moldovenesc-extra.webp",
   },
   {
     "id": "city-rosiorii-de-vede-extra",
@@ -4194,7 +4298,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Egyike Románia legrégebbi városainak, 1385-ben említik először.", "Nevét a középkori lovas katonákról kapta.", "A Vedea folyó partján fekvő fontos mezőgazdasági központ.", "Jelentős vasúti javítóműhelyekkel rendelkezik.", "Bukaresttől 120 km-re délnyugatra fekszik.", "Gazdag régészeti gyűjteménye a múltat mutatja be."],
       "ro": ["Prima mențiune documentară datează din 1385, într-un document de la domnitorii Radu I și Dan I.", "Descoperirile arheologice indică o așezare ce datează din perioada neolitică.", "Numele 'Roșiori' face referire la corpul de cavalerie al armatei Țării Românești.", "A fost un important centru feroviar, inaugurat în 1873 pe linia București-Craiova.", "Economia se bazează pe prelucrarea cerealelor și industria textilă.", "Scriitorul Zaharia Stancu s-a născut în apropiere de Roșiorii de Vede.", "În perioada interbelică, a fost unul dintre cele mai prospere orașe din sudul României."],
       "en": ["A local agricultural and commercial center.", "The name of the city has a military origin.", "The local economy is based on agriculture and food processing.", "First documented in 1385.", "The city is located on the Vedea River.", "It is an important railway junction."]
-    }
+    },
+    image: "/poi-images/city-rosiorii-de-vede-extra.webp",
   },
   {
     "id": "city-turnu-magurele-extra",
@@ -4233,7 +4338,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Az Olt és a Duna összefolyása közelében fekvő fontos kikötő.", "Nevét a középkori erőd tornyáról kapta.", "1836-ban alapították a modern várost sakktáblaszerű terv alapján.", "Rendszeres kompjárat köti össze a bulgáriai Nikápollyal.", "Itt található az ország egyik legnagyobb műtrágyagyára.", "Szent David-székesegyháza a 19. század végén épült."],
       "ro": ["Numele orașului provine de la cetatea medievală 'Turnu', construită de Mircea cel Bătrân.", "Este un port important pe malul stâng al Dunării.", "Combinatul de Îngrășăminte Chimice, inaugurat în 1965, a fost un pilon al economiei locale.", "Orașul modern a fost stabilit în 1836, prin decretul domnitorului Alexandru Ghica.", "Catedrala 'Sfântul Haralambie' a fost construită la începutul secolului al XX-lea.", "Aici se află un punct de trecere a frontierei cu feribotul către Nicopole, Bulgaria.", "Ruinele cetății Turnu se găsesc la 4 km vest de oraș."],
       "en": ["A port city on the Danube River.", "Located opposite the Bulgarian city of Nikopol.", "An important center for grain export.", "The city has a large chemical fertilizer plant.", "The St. Haralambie Cathedral is a notable landmark.", "The Roman fort of Turris was located here."]
-    }
+    },
+    image: "/poi-images/city-turnu-magurele-extra.webp",
   },
   {
     "id": "city-zimnicea-extra",
@@ -4272,7 +4378,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Románia legdélibb városa, a Duna bal partján.", "Az 1977-es földrengés után szinte teljesen újjáépítették.", "Fontos dák régészeti lelőhely található itt.", "Kompjárat köti össze a bulgáriai Szvistov városával.", "Jelentős gabonakikötővel és élelmiszeriparral rendelkezik.", "1385-ben említik először mint fontos kereskedelmi pontot."],
       "ro": ["Zimnicea este cel mai sudic oraș al României.", "A fost primul port de pe Dunăre eliberat de sub stăpânirea otomană în 1829.", "În 1877, trupele române au trecut Dunărea pe la Zimnicea pentru a lupta în Războiul de Independență.", "A fost distrus în proporție de peste 80% de cutremurul din 1977.", "Reconstrucția orașului după cutremur a fost un proiect de anvergură națională.", "Situl arheologic 'Cetatea de la Zimnicea' conține vestigii din secolul IV î.Hr.", "Portul fluvial este specializat în principal pe operarea de mărfuri vrac, în special cereale."],
       "en": ["The southernmost town in Romania.", "A port city on the Danube River.", "Located opposite the Bulgarian city of Svishtov.", "The city was heavily rebuilt after the 1977 earthquake.", "The local economy is based on agriculture and transportation.", "The Danube ferry is an important border crossing."]
-    }
+    },
+    image: "/poi-images/city-zimnicea-extra.webp",
   },
   {
     "id": "city-lugoj-extra",
@@ -4311,7 +4418,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A Temes folyó partján fekszik, vashídja 1902-ben épült.", "A román kóruszene egyik legfontosabb bölcsője.", "Itt található a görögkatolikus püspöki székhely.", "Lugosi Béla, a világhírű színész szülővárosa.", "Első írásos említése 1334-ből származik.", "Jelentős cipő- és textiliparral rendelkezik."],
       "ro": ["A fost primul oraș din monarhia habsburgică cu iluminat public stradal electric (1889).", "În august 1849, a fost ultima capitală a revoluției maghiare.", "Podul de Fier peste râul Timiș, un reper al orașului, a fost construit în 1902.", "Este locul de naștere al celebrului tenor Traian Grozăvescu.", "Aici a apărut prima publicație în limba română din Banat, 'Cronica Românilor', în 1841.", "Bela Lugosi, actorul faimos pentru rolul Dracula, s-a născut la Lugoj în 1882.", "Orașul este un important centru al industriei de prelucrare a pielii și textilelor."],
       "en": ["Known as the 'City of Music' for its rich musical tradition.", "An important cultural center in the Banat region.", "The Iron Bridge is a notable technical monument.", "The city has a diverse multicultural heritage.", "The local economy is diverse, with a focus on manufacturing.", "Lugoj is the birthplace of several prominent cultural figures."]
-    }
+    },
+    image: "/poi-images/city-lugoj-extra.webp",
   },
   {
     "id": "city-sannicolau-mare-extra",
@@ -4350,7 +4458,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Románia legnyugatibb városa.", "1799-ben itt találták meg a 23 darabból álló aranykincset.", "Bartók Béla világhírű zeneszerző szülővárosa.", "Itt található a Nákó-kastély, amely ma múzeum.", "Első írásos említése 1333-ból származik.", "Gazdasága az autóiparra és a mezőgazdaságra épül."],
       "ro": ["Este cel mai vestic oraș din România.", "Tezaurul de la Sânnicolau Mare, descoperit în 1799, este expus la Viena.", "Compozitorul maghiar Béla Bartók s-a născut aici în 1881.", "Castelul Nako, construit în 1864, este un monument istoric reprezentativ.", "A fost un important centru economic, având una dintre primele fabrici de bere din regiune.", "Orașul este situat pe malul râului Aranca.", "Prima atestare documentară a localității datează din 1217."],
       "en": ["Famous for the Treasure of Sânnicolau Mare.", "The birthplace of composer Béla Bartók (1881).", "Located near the borders with Hungary and Serbia.", "The Nako Castle is a major landmark.", "The town has a rich multicultural heritage.", "The local economy is based on agriculture and industry."]
-    }
+    },
+    image: "/poi-images/city-sannicolau-mare-extra.webp",
   },
   {
     "id": "city-jimbolia-extra",
@@ -4389,7 +4498,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["1766-ban alapították német telepesek Hatzfeld néven.", "Itt található Románia egyik legrégebbi tűzoltómúzeuma.", "Stefan Jäger, a bánsági svábok festőjének emlékháza itt van.", "Csak 2 km-re fekszik a szerb határtól.", "Híres volt tégla- és cserépgyártásáról.", "1950-ben kapott városi rangot."],
       "ro": ["Colonizarea cu șvabi a început în 1766, localitatea fiind numită Hatzfeld.", "Găzduiește singurul muzeu al presei din România, 'Sever Bocu'.", "Pictorul șvab Stefan Jäger s-a născut și a creat la Jimbolia.", "Muzeul Pompierilor a fost fondat în 1972 și este unic în regiune.", "Gara din Jimbolia, inaugurată în 1857, a fost una dintre primele de pe teritoriul actual al României.", "Până în 1924, a aparținut Regatului Sârbilor, Croaților și Slovenilor.", "Economia este susținută de companii din sectorul automotive și producția de încălțăminte."],
       "en": ["The settlement was first documented under the name Chumbul in the year 1332.", "It was re-founded in 1766 as Hatzfeld by German (Banat Swabian) colonists.", "In 1781, the town and its estate were purchased by the influential Csekonics family.", "The vital railway line connecting Jimbolia to Timișoara was inaugurated in 1857.", "As part of a border adjustment, the town was officially transferred to Romania in 1924.", "It is the birthplace of Stefan Jäger (1877–1962), a painter who chronicled Swabian life.", "The town hosts one of Romania's oldest firefighting museums, the Florian Museum.", "A statue dedicated to St. Florian, patron saint of firefighters, was erected in the town center in 1866."]
-    }
+    },
+    image: "/poi-images/city-jimbolia-extra.webp",
   },
   {
     "id": "city-tulcea-extra",
@@ -4428,7 +4538,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A Duna-delta UNESCO Világörökség kapuja.", "Az ókori görög Aegyssus romjaira épült.", "Itt található a Duna-delta Akváriuma és Múzeuma.", "Hét dombra épült város, hasonlóan Rómához.", "Fontos kereskedelmi és katonai kikötővel rendelkezik.", "Híres a lipován halászhagyományairól és halételekről."],
       "ro": ["Este considerat poarta de intrare principală în Delta Dunării, sit UNESCO.", "Orașul este construit pe 7 coline, fiind supranumit 'Roma de Est'.", "Numele antic al așezării a fost Aegyssus, menționat de poetul Ovidiu.", "Monumentul Independenței a fost ridicat în 1879 pentru a comemora Războiul de Independență.", "Acvariul din Tulcea este cel mai mare și mai modern din sud-estul Europei.", "Șantierul naval VARD Tulcea este unul dintre cei mai mari angajatori din regiune.", "Aeroportul 'Delta Dunării' se află la 16 km de oraș.", "Aici se află Institutul Național de Cercetare-Dezvoltare 'Delta Dunării'."],
       "en": ["The city's ancient predecessor was the Greek colony of Aegyssus, founded in the 7th century BC.", "After four centuries of Ottoman rule, Tulcea and Northern Dobruja were integrated into Romania in 1878.", "Like Rome, the city of Tulcea is famously built upon seven hills.", "It is the main entry point to the Danube Delta, the second largest and best-preserved delta in Europe.", "The Danube Delta Museum includes a modern aquarium showcasing the region's rich aquatic life.", "The Independence Monument, located on one of the hills, provides a panoramic view of the city and the river.", "Tulcea is a multicultural city with a significant population of Russian Lipovans.", "The annual 'George Georgescu' International Music Contest is held in the city."]
-    }
+    },
+    image: "/poi-images/city-tulcea-extra.webp",
   },
   {
     "id": "city-babadag-extra",
@@ -4467,7 +4578,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Az Oszmán Birodalom dobruzsai adminisztratív központja volt.", "Itt található a 17. századi Gazi Ali pasa mecset.", "Nevének jelentése törökül 'Apa-hegy'.", "Sari Saltuk dervis sírhelye fontos vallási zarándokhely.", "A Babadag-tó és a Razim-Sinoe tórendszer közelében fekszik.", "Gazdag tatár és török kulturális hagyományokkal bír."],
       "ro": ["Numele Babadag înseamnă 'Muntele Tatălui' în limba turcă.", "Geamia lui Ali-Gazi Pașa (1610) este cea mai veche geamie funcțională din România.", "Mormântul dervișului Sari Saltuk Baba este un important loc de pelerinaj pentru musulmani.", "A fost capitala pașalâcului Silistrei în secolul al XVII-lea.", "În 1871, aici a avut loc primul congres al bulgarilor din Imperiul Otoman.", "Lacul Babadag, cu o suprafață de 2.370 ha, este o arie de protecție avifaunistică.", "În apropiere se află poligonul militar Babadag, una dintre cele mai mari baze de instrucție NATO din regiune."],
       "en": ["The name 'Babadag' is of Turkish origin, meaning 'Father Mountain'.", "The Gazi Ali Pasha Mosque, a major landmark, was constructed in the year 1610.", "The tomb of the 13th-century dervish Sari Saltik is an important local pilgrimage destination.", "For centuries, the town served as an Ottoman administrative capital for the region.", "It is situated beside Lake Babadag, a key part of the Razim-Sinoe lagoon complex.", "A major NATO-standard military training area of 2,700 hectares is located on its territory.", "The town has a notable Turkish and Roma minority population.", "Babadag was captured by the Russian army in 1877 during the Russo-Turkish War."]
-    }
+    },
+    image: "/poi-images/city-babadag-extra.webp",
   },
   {
     "id": "city-isaccea-extra",
@@ -4506,7 +4618,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Az ókori római Noviodunum erőd helyén fekszik.", "Fontos dunai határátkelőhely Ukrajna felé.", "Már az időszámításunk előtti 10. század óta lakott hely.", "Fontos halászati és mezőgazdasági kikötő.", "1484-ben II. Bajazid szultán is megfordult itt.", "Határában található a dák és római múltat őrző régészeti park."],
       "ro": ["În antichitate, aici se afla cetatea geto-dacică și apoi romano-bizantină Noviodunum.", "Noviodunum a fost sediul principal al flotei romane de la Dunărea de Jos (Classis Flavia Moesica).", "Este un important punct de trecere a frontierei cu Ucraina, prin bacul Isaccea-Orlivka.", "Aici se află o importantă stație de transformare electrică pentru interconexiunea cu sistemul energetic al Ucrainei.", "Prima atestare a numelui Isaccea datează din secolul al XI-lea.", "Ruinele cetății Noviodunum sunt printre cele mai importante situri arheologice din Dobrogea.", "Populația este formată dintr-un amestec de români și turco-tătari."],
       "en": ["Isaccea is built on the site of the powerful Roman legionary fortress, Noviodunum.", "Noviodunum was the principal naval base of the Roman Empire's Danube fleet.", "The town's long history as a Danube crossing was noted in the 10th-century by Constantine VII.", "A modern roll-on/roll-off ferry to Orlivka, Ukraine, was inaugurated in August 2020.", "It was a major Byzantine naval base during the 11th-12th centuries.", "The town is home to a research station for the artificial reproduction of beluga sturgeons.", "The nearby Celic-Dere and Saon monasteries are important spiritual centers in Dobruja.", "Stone from local quarries has been used for construction projects along the Danube for centuries."]
-    }
+    },
+    image: "/poi-images/city-isaccea-extra.webp",
   },
   {
     "id": "city-barlad-extra",
@@ -4545,7 +4658,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Alexandru Ioan Cuza fejedelem szülővárosa.", "A Vasile Pârvan Múzeum fontos vidéki gyűjtemény.", "Itt található Moldva egyik legmodernebb csillagvizsgálója.", "1174-ben említik először mint fontos moldvai várost.", "Jelentős ipari központ (csapágygyártás, textilipar).", "1994-ben kapott municípiumi rangot."],
       "ro": ["Prima mențiune a 'Țării Berladnicilor' datează din jurul anului 1174.", "Colegiul Național 'Gheorghe Roșca Codreanu', fondat în 1846, este una dintre cele mai prestigioase școli din Moldova.", "Muzeul 'Vasile Pârvan' a fost fondat în 1914.", "Alexandru Ioan Cuza, primul domnitor al Principatelor Unite, s-a născut la Bârlad în 1820.", "Fabrica de Rulmenți Bârlad a fost un pilon industrial al României socialiste.", "Teatrul 'Victor Ion Popa' a fost inaugurat în 1955.", "Grădina Publică a orașului a fost amenajată în secolul al XIX-lea."],
       "en": ["The city is the birthplace of Alexandru Ioan Cuza (1820-1873), the first ruler of modern Romania.", "The 'Vasile Pârvan' Museum, established in 1914, is one of the most important museums in Moldavia.", "Its first official documentation dates back to the early 15th century.", "The Gheorghe Roșca Codreanu National College is one of the region's oldest and most prestigious high schools.", "Bârlad is home to a major manufacturing plant, Rulmenți S.A., a well-known producer of ball bearings.", "The city's theater, 'Victor Ion Popa', is a key cultural institution in Vaslui county.", "Bârlad maintains sister-city relationships with Vergèze in France and Konya in Turkey.", "The Public Garden, a large central park, was laid out in the 19th century."]
-    }
+    },
+    image: "/poi-images/city-barlad-extra.webp",
   },
   {
     "id": "city-husi-extra",
@@ -4584,7 +4698,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A híres Busuioacă de Bohotin bor otthona.", "Nagy István fejedelem alapította itt a püspökséget 1494-ben.", "1487-ben említik először oklevelekben.", "Csak 10 km-re fekszik a Prut folyótól és a határtól.", "Itt kötötték meg 1711-ben a pruti békét.", "Számos 18-19. századi történelmi épület díszíti."],
       "ro": ["Catedrala Episcopală a fost ctitorită de Ștefan cel Mare în 1495.", "Podgoria Huși este celebră pentru vinurile aromate, în special Busuioacă de Bohotin.", "În 1711, Dimitrie Cantemir a semnat la Huși Tratatul de la Luțk cu țarul Petru cel Mare.", "Este un important centru episcopal al Bisericii Ortodoxe Române din 1598.", "Tradiția spune că orașul a fost întemeiat de refugiați husiți din Boemia.", "Colegiul Național 'Cuza Vodă' a fost înființat în 1889.", "Economia locală se bazează pe viticultură, industria alimentară și producția de încălțăminte."],
       "en": ["The city was first documented in a letter from Prince Stephen the Great dated 1487.", "Huși is the center of a historic wine region, famed for its 'Busuioacă de Bohotin' variety.", "It is the seat of the Huși Orthodox Bishopric, founded by Stephen the Great in the 15th century.", "The Treaty of the Pruth between Russia and the Ottoman Empire was signed here in 1711.", "The Episcopal Cathedral, dedicated to Saints Peter and Paul, dates back to 1495.", "The region's viticulture tradition dates back to the Dacian period.", "Huși is located just a few kilometers from the Prut river, which forms the border with the Republic of Moldova.", "The city once had a large Jewish population, with several synagogues and a dedicated cemetery."]
-    }
+    },
+    image: "/poi-images/city-husi-extra.webp",
   },
   {
     "id": "city-negresti-extra",
@@ -4623,7 +4738,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["1590-ben említik először mint fejedelmi falut.", "1968-ban nyilvánították várossá.", "A Bârlad folyó felső szakaszán fekszik.", "Jelentős gabonatermesztő vidék központja.", "Fontos vasúti megállóhely Jászvásár felé.", "Gazdag néprajzi hagyományokkal rendelkezik."],
       "ro": ["Negrești este menționat pentru prima dată în documente în anul 1590.", "Este situat în partea centrală a județului Vaslui, pe malurile râului Bârlad.", "A devenit oraș în 1968, în cadrul reorganizării administrativ-teritoriale.", "În anii 1980, aici funcționa una dintre cele mai mari fabrici de rulmenți din țară.", "Este locul de naștere al lui Corneliu Zelea Codreanu (n. 1899).", "Economia actuală se bazează pe agricultură și comerț la scară mică.", "Populația a scăzut semnificativ după 1990 din cauza declinului industrial."],
       "en": ["The town was first officially recorded in historical documents in the year 1590.", "It was formally declared a town in 1968, reflecting its role as a local center.", "Negrești is situated on the Bârlad River, approximately 33 kilometers north of Vaslui, the county capital.", "Its name is believed to originate from Negrea, a nobleman from the 15th century.", "The area is archaeologically significant, with nearby discoveries from the Cucuteni-Trypillia culture.", "Negrești serves as the administrative authority for six surrounding villages.", "The local economy is primarily based on agriculture and food processing.", "It is located on a key national road, DN15D, connecting it to other regional centers."]
-    }
+    },
+    image: "/poi-images/city-negresti-extra.webp",
   },
   {
     "id": "city-ramnicu-valcea-extra",
@@ -4662,7 +4778,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A város első írásos említése 1388-ból származik.", "Râmnicu Vâlcea Vâlcea megye közigazgatási, gazdasági és kulturális központja.", "A városban található a Vâlcea-i Falumúzeum, amely a régió népi építészetét mutatja be.", "A közeli Bujoreni-ben egy skanzen működik, amely a helyi hagyományokat őrzi.", "A város ad otthont a Román Nemzeti Bank egyik pénzverdéjének.", "A 'Hackerville' elnevezés a 2000-es évek elején terjedt el a városra vonatkozóan."],
       "ro": ["Prima atestare documentară datează din 20 mai 1388, semnată de Mircea cel Bătrân.", "În 1545, diaconul Coresi a tipărit aici 'Liturghierul', prima carte în limba română.", "Anton Pann, autorul imnului național al României, a locuit și a creat în Râmnicu Vâlcea.", "Orașul este situat la o altitudine de 250 de metri.", "Hidrocentrala Râmnicu Vâlcea, de pe râul Olt, are o putere instalată de 52 MW.", "Salina Ocnele Mari, o importantă atracție turistică, se află la doar 12 km de oraș.", "Echipa de handbal feminin SCM Râmnicu Vâlcea a câștigat Liga Campionilor EHF în 2019.", "A devenit notoriu la nivel internațional sub numele de 'Hackerville' în anii 2000."],
       "en": ["The city was first documented in a charter issued by Prince Mircea the Elder on September 4, 1388.", "Romania's national anthem, 'Deșteaptă-te, române!', was first publicly sung in the city on July 29, 1848.", "The first paper mill in the historic Romanian principalities was established here in the 16th century.", "In the 2000s, the city became infamous globally as 'Hackerville' due to a high concentration of online fraudsters.", "Râmnicu Vâlcea is the capital city of Vâlcea County, in the historical region of Oltenia.", "It is strategically located on the Olt River, a major transportation route through the Carpathians.", "The city is a primary starting point for trips to the Cozia National Park and the Cozia Monastery.", "It has a philharmonic orchestra and serves as a vibrant regional cultural center."]
-    }
+    },
+    image: "/poi-images/city-ramnicu-valcea-extra.webp",
   },
   {
     "id": "city-dragasani-extra",
@@ -4701,7 +4818,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A drăgășani csatát 1821. június 19-én vívták.", "A helyi borászati kutatóállomást 1936-ban alapították.", "A Drăgășani borvidék területe meghaladja a 16 000 hektárt.", "A 'Negru de Drăgășani' egy helyi vörösborszőlő-fajta, amelyet az 1990-es években nemesítettek.", "A városban minden ősszel szüreti fesztivált rendeznek a bor tiszteletére.", "A környéken több római kori régészeti lelőhely is található."],
       "ro": ["Podgoria Drăgășani este una dintre cele mai vechi și renumite din România.", "În 1821, aici a avut loc bătălia decisivă dintre Eteria lui Alexandru Ipsilanti și armata otomană.", "Soiul de struguri 'Crâmpoșie Selecționată' a fost creat la Stațiunea de Cercetare Viticolă Drăgășani.", "Orașul este atestat documentar pentru prima dată în anul 1535.", "Muzeul Viei și Vinului din Drăgășani a fost înființat în 1974.", "Suprafața viticolă a podgoriei este de aproximativ 16.000 de hectare.", "Drăgășani este al doilea cel mai mare oraș din județul Vâlcea, după Râmnicu Vâlcea.", "Altitudinea medie a dealurilor viticole din zonă este de 300 de metri."],
       "en": ["The city is located on the archaeological site of the ancient Dacian town of Rusidava.", "It serves as the main center of the historic Drăgășani wine region.", "The Battle of Dragashani, a key confrontation in the Greek War of Independence, took place here in 1821.", "The 'Negru de Drăgășani' grape is a successful modern red variety created by a local research station.", "The region's winemaking tradition is documented as pre-dating the Roman conquest.", "The city hosts a Museum of Viticulture, which details the area's long history of winemaking.", "Drăgășani is located on the right bank of the Olt River.", "First documented under its current name in 1535."]
-    }
+    },
+    image: "/poi-images/city-dragasani-extra.webp",
   },
   {
     "id": "city-horezu-extra",
@@ -4740,7 +4858,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A Horezui kolostor 1993 óta az UNESCO Világörökség része.", "A horezui kerámia 2012-ben került fel az UNESCO szellemi kulturális örökség listájára.", "A 'Horezu-kakas' a kerámiák egyik legjellegzetesebb és leggyakoribb motívuma.", "A kolostort 1690 és 1693 között építették.", "A városban minden év júniusában megrendezik a 'Cocoșul de Hurez' (Horezu kakasa) nevű fazekasvásárt.", "A brâncoveni stílus a reneszánsz, a barokk és a bizánci elemeket ötvözi."],
       "ro": ["Ceramica de Horezu este înscrisă în patrimoniul cultural imaterial al umanității UNESCO din 2012.", "Mănăstirea Horezu, ctitorită de Constantin Brâncoveanu, este monument UNESCO din 1993.", "Simbolul iconic al ceramicii locale este 'Cocoșul de Hurez'.", "Târgul anual de ceramică 'Cocoșul de Hurez' are loc neîntrerupt din 1971.", "Culorile tradiționale folosite sunt verde, albastru, maro și roșu 'de Horezu'.", "Orașul este situat într-o depresiune intramontană la o altitudine de 450 de metri.", "Mănăstirea a fost construită între anii 1690 și 1693.", "Horezu este menționat documentar pentru prima dată în anul 1487."],
       "en": ["It is home to the Horezu Monastery, which has been a UNESCO World Heritage site since 1993.", "The traditional craft of Horezu pottery was added to the UNESCO Intangible Cultural Heritage List in 2012.", "The Horezu Monastery was founded in 1690 by the Wallachian Prince Constantin Brâncoveanu.", "The town's name is derived from 'huhurez,' the Romanian word for the Eurasian eagle-owl.", "Horezu hosts the annual 'Cocoșul de Hurez' (The Rooster of Hurez), one of Romania's most famous pottery fairs.", "The European Commission awarded Horezu the title of 'European Destination of Excellence' (EDEN) in 2008.", "The main decorative motif of the local pottery is the rooster, a symbol of vigilance and victory.", "The town is located in a sub-Carpathian depression at an altitude of about 460 meters."]
-    }
+    },
+    image: "/poi-images/city-horezu-extra.webp",
   },
   {
     "id": "city-adjud-extra",
@@ -4779,7 +4898,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Fontos vasúti és közúti csomópont két folyó találkozásánál.", "Jelentős papíripara és gépgyártása van.", "1433-ban említik először oklevelekben.", "Municípiumi rangot 2000-ben kapott.", "Vrancea megye északi részén, sík vidéken fekszik.", "Gazdasága a logisztikára és a feldolgozóiparra épül."],
       "ro": ["Adjud este atestat documentar pentru prima dată într-un document din 1433.", "Orașul este un nod feroviar crucial, conectând Moldova de Muntenia și Transilvania.", "Este situat la confluența râului Trotuș cu râul Siret.", "Populația la recensământul din 2011 era de aproximativ 16.000 de locuitori.", "Monumentul Eroilor, realizat de sculptorul George Apostu, este un reper important.", "Economia se bazează pe industria textilă, prelucrarea lemnului și agricultură.", "Gara din Adjud, construită în stil neoclasic, datează de la sfârșitul secolului al XIX-lea."],
       "en": ["Adjud is a major railway hub on the main line connecting Bucharest to northern Romania.", "It is situated at the confluence of two major rivers: the Siret and the Trotuș.", "The town was first mentioned in a document from 1433 as 'Egyedhalma'.", "Archaeological discoveries in Adjud's territory have unearthed artifacts from the Bronze Age.", "It is the birthplace of world-renowned soprano Angela Gheorghiu, born on September 7, 1965.", "Adjud was officially declared a municipality in the year 2000.", "The city lies on European route E85, a major road link in Eastern Europe.", "Historically, the town's economy was anchored by a large paper manufacturing plant."]
-    }
+    },
+    image: "/poi-images/city-adjud-extra.webp",
   },
   {
     "id": "city-marasesti-extra",
@@ -4818,7 +4938,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["Itt található Románia legnagyobb I. világháborús mauzóleuma.", "Az 1917-es győztes csata a nemzeti ellenállás jelképe.", "Az emlékmű 1923 és 1938 között épült.", "A Szeret folyó partján, fontos vasútvonal mentén fekszik.", "1920-ban nyilvánították várossá háborús érdemeiért.", "Jelentős vegyipari és élelmiszeripari hagyományokkal bír."],
       "ro": ["Mausoleul Eroilor de la Mărășești a fost construit între 1923 și 1938.", "Bătălia de la Mărășești din vara anului 1917 a fost cea mai mare confruntare de pe teritoriul României.", "Deviza armatei române în bătălie a fost 'Pe aici nu se trece!'.", "Mausoleul conține rămășițele a 5.073 de soldați și ofițeri în 154 de cripte individuale și 9 cripte comune.", "Generalul Eremia Grigorescu este înmormântat în sarcofagul central al mausoleului.", "Orașul este un important centru viticol, parte a podgoriei Panciu.", "Mărășești a fost declarat oraș-erou în 1994."],
       "en": ["The site of the decisive Battle of Mărășești in the summer of 1917 during World War I.", "The famous Romanian slogan 'Pe aicea nu se trece' ('They shall not pass') originated here.", "Home to the Mausoleum of Mărășești, the largest war memorial in Romania.", "The mausoleum contains the remains of 5,073 Romanian soldiers and officers.", "Construction of the grand mausoleum took place between 1923 and 1938.", "The town was officially declared a 'Hero Town' for its pivotal role in the war.", "King Milan I of Serbia was born in Mărășești on August 22, 1854.", "The ashes of General Eremia Grigorescu, the commander of the Romanian First Army, are in the central sarcophagus."]
-    }
+    },
+    image: "/poi-images/city-marasesti-extra.webp",
   },
   {
     "id": "city-panciu-extra",
@@ -4857,7 +4978,8 @@ export const poiExtraRo1: POI[] = [
       "hu": ["A romániai pezsgőgyártás egyik legfontosabb központja.", "Pincerendszerének egyes részei a 15. századból származnak.", "Vrancea megye egyik legrégebbi bortermelő vidéke.", "Az 1940-es földrengés szinte teljesen elpusztította a várost.", "Híres a 'Băbească Neagră' és más helyi szőlőfajtákról.", "A Putna és a Șușița folyók közötti dombvidéken fekszik."],
       "ro": ["Panciu este faimos pentru producția de vin spumant, o tradiție începută în 1969.", "Podgoria Panciu este una dintre cele mai mari și mai vechi din Vrancea.", "Mănăstirea Brazi, aflată în apropiere, a fost ctitorită în secolul al XVII-lea.", "Orașul a fost aproape complet distrus de cutremurul din 10 noiembrie 1940.", "Schitul Sfântul Ioan Botezătorul datează din secolul al XVIII-lea.", "Pivnițele Hrubele lui Ștefan cel Mare, deși o legendă, sunt un simbol al tradiției viticole.", "Aici se produc vinuri renumite din soiuri precum Băbească Neagră și Fetească Albă."],
       "en": ["Panciu is one of Romania's most important centers for the production of sparkling wine.", "The town's extensive network of wine cellars includes sections dating back to the 15th century.", "The region is known for its native grape varieties, including Băbească Neagră and Plăvaie.", "Renowned writer Ioan Slavici (1848-1925) is buried at the nearby Brazi Monastery.", "The town was almost completely destroyed by the major Vrancea earthquake on November 10, 1940.", "It is located on the Șușița River in a hilly area well-suited for vineyards.", "Panciu was first mentioned in historical records at the beginning of the 17th century.", "The town hosts a popular annual wine festival called 'Bachus'."]
-    }
+    },
+    image: "/poi-images/city-panciu-extra.webp",
   }
 ];
 

@@ -31,6 +31,7 @@ export const palestineLifeV2: POI[] = [
       ro: ["Mănăstirea Sfântul Gheorghe a fost fondată în jurul anului 480 d.Hr.", "Valea are o lungime de aproximativ 25 de kilometri.", "Altitudinea scade de la 800 m la 250 m sub nivelul mării.", "Conține apeducte din perioadele hasmoneană și irodiană.", "Este un habitat important pentru graurul lui Tristram.", "Valea se varsă în Valea Iordanului lângă Ierihon."],
       en: ["St. George's Monastery was founded around 480 AD.", "The valley extends for approximately 25 kilometers.", "Elevation drops from 800m to 250m below sea level.", "It contains aqueducts from the Hasmonean and Herodian periods.", "The area is a key habitat for the Tristram's starling.", "The wadi empties into the Jordan Valley near Jericho."],
     },
+    image: "/poi-images/palestine-wadi-qelt-life-v2.webp",
   },
   {
     id: "palestine-wadi-gaza-life-v2",
@@ -62,6 +63,7 @@ export const palestineLifeV2: POI[] = [
       ro: ["Valea are o lungime totală de aproximativ 105 kilometri.", "A fost declarată rezervație naturală în anul 2000.", "Peste 150 de specii de păsări au fost observate în zonă.", "Bazinul hidrografic acoperă o suprafață de 3.500 km².", "Gura de vărsare formează o lagună costieră rară.", "Este unul dintre puținele cursuri de apă naturale din Gaza."],
       en: ["The wadi has a total length of about 105 kilometers.", "It was declared a nature reserve in the year 2000.", "Over 150 species of birds have been sighted in the area.", "The drainage basin covers an area of 3,500 square kilometers.", "The mouth at the Mediterranean forms a rare coastal lagoon.", "It is one of the few natural watercourses in Gaza."],
     },
+    image: "/poi-images/palestine-wadi-gaza-life-v2.webp",
   },
   {
     id: "palestine-wadi-al-quff-life-v2",
@@ -93,6 +95,7 @@ export const palestineLifeV2: POI[] = [
       ro: ["Rezervația acoperă o suprafață de aproximativ 2,5 km².", "A fost împădurită în anii 1920 sub mandatul britanic.", "Cea mai înaltă cotă este de aproximativ 950 de metri.", "Există mai multe peșteri arheologice în apropiere.", "Aici cresc peste 200 de specii diferite de plante.", "Zona servește ca plămân verde pentru regiunea Hebron."],
       en: ["The reserve covers an area of about 2.5 square kilometers.", "It was forested in the 1920s during the British Mandate.", "The highest elevation is around 950 meters above sea level.", "There are several archaeological cave sites in the vicinity.", "Over 200 different plant species grow in the area.", "The site serves as a green lung for the Hebron region."],
     },
+    image: "/poi-images/palestine-wadi-al-quff-life-v2.webp",
   },
   {
     id: "palestine-umm-ar-rihan-life-v2",
@@ -124,6 +127,7 @@ export const palestineLifeV2: POI[] = [
       ro: ["Pădurea se întinde pe aproximativ 15.000 de dunami (15 km²).", "Este situată la o altitudine de aproximativ 400 de metri.", "Recunoscută ca zonă importantă pentru păsări din 1994.", "Găzduiește specii rare precum Faidherbia albida.", "Zona include mai multe structuri agricole antice.", "Face parte din regiunea nordică a munților Cisiordaniei."],
       en: ["The forest spans approximately 15,000 dunams (15 km²).", "It is situated at an elevation of about 400 meters.", "Recognized as an Important Bird Area since 1994.", "Rare trees like Faidherbia albida grow here.", "The area includes several ancient agricultural remains.", "It is part of the northern West Bank mountain range."],
     },
+    image: "/poi-images/palestine-umm-ar-rihan-life-v2.webp",
   },
   {
     id: "palestine-ein-feshkha-life-v2",
@@ -155,6 +159,7 @@ export const palestineLifeV2: POI[] = [
       ro: ["Zona se află la aproximativ 420 m sub nivelul mării.", "Găzduiește specia rară de pește Aphanius dispar.", "Izvoarele țâșnesc la baza Munților Iudeii.", "Peste 100 de specii de păsări folosesc oaza ca loc de popas.", "Descoperirile arheologice indică producția antică de balsam.", "Rezervația este împărțită în zone de acces diferite."],
       en: ["The area lies about 420 meters below sea level.", "It is home to the rare Dead Sea toothcarp fish.", "The springs emerge at the foot of the Judean Mountains.", "Over 100 bird species use the oasis as a stopover.", "Archaeological finds suggest ancient balsam production.", "The reserve is divided into closed, guided, and open zones."],
     },
+    image: "/poi-images/palestine-ein-feshkha-life-v2.webp",
   },
   {
     id: "palestine-wadi-kanah-life-v2",
@@ -186,6 +191,7 @@ export const palestineLifeV2: POI[] = [
       ro: ["Valea acoperă o suprafață de circa 10.000 de dunami.", "Există unsprezece izvoare permanente pe fundul văii.", "Aici cresc fistic sălbatic și roșcovi.", "Zona este un coridor pentru animale sălbatice, precum gazelele.", "Este menționată în Biblie ca graniță între triburi.", "Agricultura tradițională prin irigații este încă practicată."],
       en: ["The wadi covers an area of approximately 10,000 dunams.", "There are eleven permanent springs along the valley floor.", "Wild pistachio and carob trees grow in the reserve.", "The area is a corridor for wildlife such as gazelles.", "It is mentioned in the Bible as a boundary between tribes.", "Traditional irrigation farming is still partly practiced."],
     },
+    image: "/poi-images/palestine-wadi-kanah-life-v2.webp",
   },
   {
     id: "palestine-battir-terraces-life-v2",
@@ -217,6 +223,7 @@ export const palestineLifeV2: POI[] = [
       ro: ["Battir a fost inclus în UNESCO în anul 2014.", "Sistemul de irigații utilizează șapte izvoare diferite.", "Zidurile de piatră ale teraselor au o vechime de 2000 de ani.", "Principalele produse sunt măslinele, strugurii și vinetele de Battir.", "Așezarea se află pe vechea rută feroviară Jaffa-Ierusalim.", "Apa este distribuită familiilor conform unui program tradițional."],
       en: ["Battir was named a UNESCO World Heritage site in 2014.", "The irrigation system utilizes seven different springs.", "Some stone walls on the terraces are 2,000 years old.", "Primary crops include olives, grapes, and the famous Battir eggplant.", "The settlement is located on the historic Jaffa-Jerusalem railway.", "Water is distributed among families via a traditional time-sharing system."],
     },
+    image: "/poi-images/palestine-battir-terraces-life-v2.webp",
   },
   {
     id: "palestine-solomons-pools-life-v2",
@@ -248,6 +255,7 @@ export const palestineLifeV2: POI[] = [
       ro: ["Iazurile au o capacitate totală de circa 160.000 m³.", "Cel mai de jos bazin are peste 170 de metri lungime.", "Construcția a început probabil sub Irod cel Mare.", "Un fort otoman (Qala'at al-Burak) proteja instalația.", "Două apeducte principale duceau apa până la Ierusalim.", "Sistemul a fost folosit pentru alimentare cu apă până în 1967."],
       en: ["The pools have a total capacity of about 160,000 cubic meters.", "The lowest basin is over 170 meters long.", "Construction likely began during the reign of Herod the Great.", "An Ottoman fort (Qala'at al-Burak) protected the site.", "Two main aqueducts ran from here all the way to Jerusalem.", "The pools were used for water supply as recently as 1967."],
     },
+    image: "/poi-images/palestine-solomons-pools-life-v2.webp",
   },
   {
     id: "palestine-mount-gerizim-life-v2",
@@ -279,6 +287,7 @@ export const palestineLifeV2: POI[] = [
       ro: ["Muntele atinge o înălțime de 881 de metri.", "Samaritenii celebrează aici anual sărbătoarea de Paște.", "Arheologii au descoperit resturile unei fortificații masive.", "Pe vârf se află ruinele bisericii Sfânta Maria din secolul V.", "Satul Kiryat Luza este reședința comunității samaritenene.", "Muntele este situat vizavi de Muntele Ebal."],
       en: ["The mountain reaches an elevation of 881 meters.", "Samaritans celebrate their annual Passover feast here.", "Archaeologists found remains of a massive fortified complex.", "Ruins of a 5th-century Church of Mary stand on the summit.", "The village of Kiryat Luza is home to the Samaritan community.", "The mountain is situated directly opposite Mount Ebal."],
     },
+    image: "/poi-images/palestine-mount-gerizim-life-v2.webp",
   },
   {
     id: "palestine-mount-ebal-life-v2",
@@ -310,6 +319,7 @@ export const palestineLifeV2: POI[] = [
       ro: ["Muntele are o înălțime de 940 de metri.", "O structură controversată este adesea identificată ca altarul lui Iosua.", "Descoperirile arheologice datează în principal din secolul XII î.Hr.", "De pe vârf se poate vedea Marea Mediterană în zilele senine.", "Versantul nordic este mai abrupt decât cel sudic.", "Împreună cu Muntele Garizim, formează trecătoarea Nablus."],
       en: ["The mountain stands at 940 meters above sea level.", "A controversial structure is often identified as Joshua's Altar.", "Archaeological finds mostly date back to the 12th century BC.", "The Mediterranean Sea is visible from the summit on clear days.", "The northern face of the mountain is steeper than the southern.", "It forms the Nablus pass along with Mount Gerizim."],
     },
+    image: "/poi-images/palestine-mount-ebal-life-v2.webp",
   },
   {
     id: "palestine-wadi-al-fara-life-v2",
@@ -341,6 +351,7 @@ export const palestineLifeV2: POI[] = [
       ro: ["Bazinul hidrografic acoperă circa 330 km².", "În apropiere se află Tell el-Far'ah, un sit antic important.", "Valea dispune de mai multe izvoare permanente puternice.", "Este renumită pentru cultivarea citricelor și a legumelor.", "Regiunea este bogată în vestigii neolitice și calcolitice.", "Valea a servit istoric ca o rută comercială majoră."],
       en: ["The drainage basin covers about 330 square kilometers.", "Nearby is Tell el-Far'ah (North), an ancient settlement mound.", "The wadi features several strong permanent springs.", "It is known for the cultivation of citrus fruits and vegetables.", "The area is rich in Neolithic and Chalcolithic finds.", "Historically, the valley served as a major trade route."],
     },
+    image: "/poi-images/palestine-wadi-al-fara-life-v2.webp",
   },
   {
     id: "palestine-wadi-an-nar-life-v2",
@@ -372,6 +383,7 @@ export const palestineLifeV2: POI[] = [
       ro: ["Mănăstirea Mar Saba a fost fondată în anul 483 d.Hr.", "Numele Wadi an-Nar înseamnă 'Valea Focului'.", "Face parte din sistemul hidrografic al pârâului Cedron.", "Canionul atinge adâncimi de peste 200 de metri.", "Valea este menționată în diverse texte religioase.", "Este un coridor important pentru fauna de deșert, precum ibexul."],
       en: ["Mar Saba Monastery was founded in 483 AD.", "The name Wadi an-Nar translates to 'Valley of Fire'.", "It is part of the Kidron drainage system.", "The canyon reaches depths of over 200 meters.", "The valley is mentioned in various religious scriptures.", "It is a key corridor for desert wildlife like ibex."],
     },
+    image: "/poi-images/palestine-wadi-an-nar-life-v2.webp",
   },
   {
     id: "palestine-wadi-el-makkuk-life-v2",
@@ -403,6 +415,7 @@ export const palestineLifeV2: POI[] = [
       ro: ["Zona găzduiește populații de vulturi pleșuvi suri.", "Există numeroase chilii bizantine în stânci.", "Valea are apă curgătoare doar după ploi torențiale.", "Stâncile sunt formate din calcar turonian dur.", "Rezervația face parte din ecoregiunea deșertului Iudeii.", "Potecile de drumeție coboară spre Câmpia Iordanului."],
       en: ["The area hosts populations of the rare Griffon vulture.", "There are numerous Byzantine hermitages carved into the rocks.", "The wadi flows only after heavy rainfall.", "The cliffs are composed of hard Turonian limestone.", "The reserve is part of the Judean Desert ecoregion.", "Hiking trails lead from the cliffs down to the Jordan Plain."],
     },
+    image: "/poi-images/palestine-wadi-el-makkuk-life-v2.webp",
   },
   {
     id: "palestine-wadi-og-life-v2",
@@ -434,6 +447,7 @@ export const palestineLifeV2: POI[] = [
       ro: ["Valea se varsă în Marea Moartă la nord de Qumran.", "Există trei cascade mari care sunt de obicei uscate.", "Canionul are o lățime de doar un metru în unele puncte.", "În apropiere se află mănăstirea bizantină Deir Mukallik.", "Bazinul său de colectare începe la Muntele Măslinilor.", "Este o destinație populară pentru canyoning."],
       en: ["The wadi empties into the Dead Sea north of Qumran.", "There are three major dry waterfalls within the canyon.", "The gorge is only one meter wide in certain sections.", "The Byzantine monastery Deir Mukallik is located nearby.", "The drainage basin starts at the Mount of Olives in Jerusalem.", "It is a popular destination for technical canyoning."],
     },
+    image: "/poi-images/palestine-wadi-og-life-v2.webp",
   },
   {
     id: "palestine-jericho-oasis-life-v2",
@@ -465,6 +479,7 @@ export const palestineLifeV2: POI[] = [
       ro: ["Ierihon este considerat cel mai jos oraș din lume (-258 m).", "Izvorul Ein as-Sultan furnizează 680 m³ de apă pe oră.", "Aici s-au găsit cele mai vechi ziduri de oraș (cca. 8000 î.Hr.).", "Oaza cuprinde aproximativ 40.000 de dunami de pământ fertil.", "Este renumită pentru producția de banane de Ierihon.", "Numeroase palate (ex. Palatul lui Hisham) sunt situate în oază."],
       en: ["Jericho is considered the lowest city in the world (-258m).", "The Ein as-Sultan spring produces 680 cubic meters per hour.", "World's oldest city walls (c. 8000 BC) were discovered here.", "The oasis covers about 40,000 dunams of fertile land.", "It is famous for the production of 'Jericho bananas'.", "Multiple palace sites (e.g., Hisham's Palace) are located within it."],
     },
+    image: "/poi-images/palestine-jericho-oasis-life-v2.webp",
   },
   {
     id: "palestine-dead-sea-west-life-v2",
@@ -496,6 +511,7 @@ export const palestineLifeV2: POI[] = [
       ro: ["Salinitatea apei este de aproximativ 34 la sută.", "Nivelul apei scade cu aproximativ un metru în fiecare an.", "Țărmul vestic cuprinde rezervații naturale importante precum Ein Gedi.", "Aerul de aici conține cu 8 la sută mai mult oxigen decât la nivelul mării.", "Depozitele de nămol terapeutic sunt utilizate încă din antichitate.", "Regiunea se află în Valea Riftului Iordanului, o falie tectonică."],
       en: ["The water salinity is approximately 34 percent.", "The water level drops by about one meter every year.", "The western shore includes important nature reserves like Ein Gedi.", "The air here contains 8 percent more oxygen than at sea level.", "Medicinal mud deposits have been used since ancient times.", "The region lies in the Jordan Rift Valley, a tectonic fault line."],
     },
+    image: "/poi-images/palestine-dead-sea-west-life-v2.webp",
   },
   {
     id: "palestine-wadi-al-badhan-life-v2",
@@ -527,6 +543,7 @@ export const palestineLifeV2: POI[] = [
       ro: ["Zona cuprinde șapte izvoare principale permanente.", "Se află la aproximativ 5 kilometri nord-est de orașul Nablus.", "Wadi se varsă în cele din urmă în râul Iordan.", "Peste 150 de specii de păsări au fost documentate în regiune.", "Morile de apă istorice datează parțial din perioada otomană.", "Flora include orhidee rare și specii de ferigi."],
       en: ["The area includes seven permanent main springs.", "It is located about 5 kilometers northeast of Nablus city.", "The wadi eventually flows into the Jordan River.", "Over 150 bird species have been documented in the region.", "Historical water mills partly date back to the Ottoman period.", "The flora includes rare orchids and fern species."],
     },
+    image: "/poi-images/palestine-wadi-al-badhan-life-v2.webp",
   },
   {
     id: "palestine-wadi-al-dilb-life-v2",
@@ -558,6 +575,7 @@ export const palestineLifeV2: POI[] = [
       ro: ["Rezervația este situată în munții centrali ai Cisiordaniei.", "Platanii care dau numele locului (Dilb) mărginesc cursurile de apă.", "Zona face parte din podișul central palestinian.", "Aici se găsesc peste 200 de specii diferite de plante.", "Cantitatea medie anuală de precipitații este de 600 mm.", "Populații de vulpi și gazele au fost observate aici."],
       en: ["The reserve is located in the central mountains of the West Bank.", "The eponymous plane trees (Dilb) line the watercourses.", "The area is part of the central Palestinian highlands.", "Over 200 different plant species can be found here.", "The average annual rainfall is 600 mm.", "Fox and gazelle populations have been sighted here."],
     },
+    image: "/poi-images/palestine-wadi-al-dilb-life-v2.webp",
   },
   {
     id: "palestine-wadi-fukin-life-v2",
@@ -589,6 +607,7 @@ export const palestineLifeV2: POI[] = [
       ro: ["Peste 11 izvoare naturale alimentează terenurile agricole.", "Satul Fukin are aproximativ 1.300 de locuitori.", "Terasele se întind pe câteva sute de hectare.", "Zona se află lângă Linia Verde din 1949.", "Metodele tradiționale previn eroziunea solului de generații.", "Se cultivă în principal migdale, măsline și smochine."],
       en: ["Over 11 natural springs feed the agricultural lands.", "The village of Fukin has approximately 1,300 inhabitants.", "The terraces extend over several hundred hectares.", "The area is located near the 1949 Green Line.", "Traditional methods have prevented soil erosion for generations.", "Mainly almonds, olives, and figs are cultivated."],
     },
+    image: "/poi-images/palestine-wadi-fukin-life-v2.webp",
   },
   {
     id: "palestine-al-auja-spring-life-v2",
@@ -620,6 +639,7 @@ export const palestineLifeV2: POI[] = [
       ro: ["Izvorul se află la aproximativ 10 kilometri nord de Ierihon.", "Debitul maxim poate atinge 2.000 de metri cubi pe oră.", "Apa izvorăște la poalele versanților muntoși estici.", "O parte din apă este direcționată către câmpuri prin apeducte.", "Fluxul de apă variază semnificativ între iarnă și vară.", "Regiunea din jurul izvorului este o destinație locală populară."],
       en: ["The spring is located about 10 kilometers north of Jericho.", "Maximum discharge can reach 2,000 cubic meters per hour.", "The water emerges at the foot of the eastern mountain slopes.", "Part of the water is channeled to fields via aqueducts.", "Water flow varies greatly between winter and summer.", "The region around the spring is a popular local excursion site."],
     },
+    image: "/poi-images/palestine-al-auja-spring-life-v2.webp",
   },
   {
     id: "palestine-wadi-ez-zarka-life-v2",
@@ -651,6 +671,7 @@ export const palestineLifeV2: POI[] = [
       ro: ["Zona se întinde pe o suprafață de aproximativ 2.000 de hectare.", "Găzduiește cea mai mare suprafață forestieră continuă din regiune.", "Peste 30 de specii diferite de mamifere au fost identificate aici.", "Calitatea apei izvoarelor este considerată a fi foarte ridicată.", "Wadi drenează spre vest, în direcția câmpiei de coastă.", "Morminte rupestre istorice și ruine se găsesc pe versanți."],
       en: ["The area extends over a surface of approximately 2,000 hectares.", "It hosts the largest contiguous forest area in the region.", "Over 30 different mammal species have been recorded here.", "The water quality of the springs is considered very high.", "The wadi drains westward toward the coastal plain.", "Historical rock-cut tombs and ruins are found on the slopes."],
     },
+    image: "/poi-images/palestine-wadi-ez-zarka-life-v2.webp",
   },
   {
     id: "palestine-wadi-el-hafi-life-v2",
@@ -682,6 +703,7 @@ export const palestineLifeV2: POI[] = [
       ro: ["Wadi se află în umbra pluviometrică a podișului central.", "Geologia constă în principal din calcar cretacic.", "Aici cresc diverse tufișuri de deșert endemice.", "Inundațiile rapide (flash floods) sezoniere apar în timpul iernii.", "Zona este în mare parte nepopulată și în stare naturală.", "Păsările de pradă folosesc pereții de stâncă ca locuri de cuibărit."],
       en: ["The wadi lies in the rain shadow of the central highlands.", "The geology consists mainly of Cretaceous limestone.", "Various endemic desert shrubs grow here.", "Seasonal flash floods occur during the winter.", "The area is largely uninhabited and remains in a natural state.", "Raptors use the cliff faces as nesting sites."],
     },
+    image: "/poi-images/palestine-wadi-el-hafi-life-v2.webp",
   },
   {
     id: "palestine-gaza-coastal-dunes-life-v2",
@@ -713,6 +735,7 @@ export const palestineLifeV2: POI[] = [
       ro: ["Dunele ating înălțimi de până la 40 de metri.", "Filtrează apa de ploaie pentru acviferul de coastă.", "Aici trăiesc specii de reptile periclitate.", "Dunele se întind pe aproximativ 40 km de lungime de coastă.", "Plantele pioniere stabilizează nisipul.", "Zona este un loc de popas important pentru păsările migratoare."],
       en: ["The dunes reach heights of up to 40 meters.", "They filter rainwater for the coastal aquifer.", "Endangered reptile species live here.", "The dunes extend over approximately 40 km of coastline.", "Pioneer plants stabilize the sand.", "The area is an important stopover for migratory birds."],
     },
+    image: "/poi-images/palestine-gaza-coastal-dunes-life-v2.webp",
   },
   {
     id: "palestine-al-qattamine-life-v2",
@@ -744,6 +767,7 @@ export const palestineLifeV2: POI[] = [
       ro: ["Zona se află la o altitudine de aproximativ 800 de metri.", "Temperatura medie în timpul verii este de 25 de grade.", "Formațiunile calcaroase formează numeroase peșteri mici.", "Flora include stejarul palestinian rar.", "Înflorirea de primăvară începe de obicei la sfârșitul lunii februarie.", "Cisternele vechi serveau în trecut pentru alimentarea cu apă."],
       en: ["The area is located at an altitude of approximately 800 meters.", "The average summer temperature is 25 degrees Celsius.", "Limestone formations create numerous small caves.", "The flora includes the rare Palestine oak.", "Spring blooming usually begins in late February.", "Old cisterns formerly served for water supply."],
     },
+    image: "/poi-images/palestine-al-qattamine-life-v2.webp",
   },
   {
     id: "palestine-wadi-el-arayis-life-v2",
@@ -775,6 +799,7 @@ export const palestineLifeV2: POI[] = [
       ro: ["Wadi transportă apă în principal în timpul sezonului ploios.", "Anemonele și ciclamenele înfloresc aici în ianuarie și februarie.", "Regiunea este un coridor pentru migrația păsărilor de pradă.", "Straturile geologice datează din perioada cretacică.", "Diferențele de nivel în vale sunt de până la 200 de metri.", "Zona servește ca pășune pentru turmele locale."],
       en: ["The wadi carries water mainly during the rainy season.", "Anemones and cyclamens bloom here in January and February.", "The region is a corridor for raptor migrations.", "Geological layers date back to the Cretaceous period.", "Elevation differences in the valley reach up to 200 meters.", "The area serves as grazing land for local herds."],
     },
+    image: "/poi-images/palestine-wadi-el-arayis-life-v2.webp",
   },
   {
     id: "palestine-mount-of-temptation-life-v2",
@@ -806,6 +831,7 @@ export const palestineLifeV2: POI[] = [
       ro: ["Vârful se află la aproximativ 350 de metri deasupra nivelului mării.", "Mănăstirea a fost fondată inițial în secolul al VI-lea.", "O telecabină leagă Ierihonul de zona mănăstirii.", "Muntele este menționat în tradiția biblică.", "Peșterile din stâncă au fost locuite în trecut de eremiți.", "Precipitațiile anuale sunt sub 150 mm."],
       en: ["The summit is about 350 meters above sea level.", "The monastery was originally founded in the 6th century.", "A cable car connects Jericho with the monastery area.", "The mountain is mentioned in biblical tradition.", "Rock caves were formerly inhabited by hermits.", "Annual rainfall is below 150 mm."],
     },
+    image: "/poi-images/palestine-mount-of-temptation-life-v2.webp",
   },
   {
     id: "palestine-ein-es-sultan-life-v2",
@@ -837,6 +863,7 @@ export const palestineLifeV2: POI[] = [
       ro: ["Debitul este de aproximativ 680 de metri cubi pe oră.", "Izvorul se află direct lângă Tell es-Sultan.", "Ierihonul este considerat cel mai vechi oraș din lume datorită acestui izvor.", "Apa este bogată în minerale și potabilă.", "Un bazin istoric colectează apa care țâșnește.", "Temperatura apei rămâne stabilă pe tot parcursul anului."],
       en: ["The discharge is approximately 680 cubic meters per hour.", "The spring is located directly next to Tell es-Sultan.", "Jericho is considered the world's oldest city because of this spring.", "The water is rich in minerals and suitable for drinking.", "A historical basin collects the emerging water.", "The water temperature remains stable throughout the year."],
     },
+    image: "/poi-images/palestine-ein-es-sultan-life-v2.webp",
   },
   {
     id: "palestine-wadi-el-mureijat-life-v2",
@@ -868,6 +895,7 @@ export const palestineLifeV2: POI[] = [
       ro: ["Vegetația constă în principal din halofite.", "Marginile ascuțite ale terenului definesc peisajul.", "Zona se află în partea de est a Cisiordaniei.", "Solurile sunt adesea foarte saline.", "Beduinii migratori folosesc wadi în mod sezonier.", "Procesele de eroziune progresează rapid din cauza lipsei vegetației."],
       en: ["Vegetation mainly consists of halophytes.", "Sharp terrain edges define the landscape.", "The area is located in the eastern part of the West Bank.", "The soils are often highly saline.", "Migratory Bedouins use the wadi seasonally.", "Erosion processes progress rapidly due to lack of vegetation."],
     },
+    image: "/poi-images/palestine-wadi-el-mureijat-life-v2.webp",
   },
   {
     id: "palestine-wadi-el-asalah-life-v2",
@@ -899,6 +927,7 @@ export const palestineLifeV2: POI[] = [
       ro: ["Wadi face parte din sistemul hidrologic către Marea Moartă.", "Primăvara, aici cresc numeroase specii de iris sălbatic.", "Formațiunile stâncoase au o vechime de milioane de ani.", "Zona este accesibilă doar prin poteci neasfaltate.", "Servește ca un coridor pentru migrația animalelor.", "Umiditatea aerului este adesea foarte scăzută din cauza reliefului."],
       en: ["The wadi is part of the hydrological system toward the Dead Sea.", "Numerous wild iris species grow here in spring.", "The rock formations are millions of years old.", "The area is only accessible via unpaved paths.", "It serves as a corridor for animal migration.", "Air humidity is often very low due to the basin-like terrain."],
     },
+    image: "/poi-images/palestine-wadi-el-asalah-life-v2.webp",
   },
   {
     id: "palestine-wadi-el-loz-life-v2",
@@ -930,5 +959,6 @@ export const palestineLifeV2: POI[] = [
       ro: ["Înflorirea migdalilor atinge apogeul de obicei în februarie.", "Valea se află în Munții Iudeii.", "Cultivarea pe terase previne eroziunea solului pe versanți.", "Unii migdali au o vechime de peste 50 de ani.", "Regiunea primește aproximativ 500 mm de precipitații pe an.", "Turnuri de veghe istorice (Qasr) se găsesc în grădini."],
       en: ["Almond blossoming usually peaks in February.", "The valley is located in the Judean Mountains.", "Terracing prevents soil erosion on the slopes.", "Some almond trees are over 50 years old.", "The region receives about 500 mm of rainfall per year.", "Historical watchtowers (Qasr) are found in the orchards."],
     },
+    image: "/poi-images/palestine-wadi-el-loz-life-v2.webp",
   }
 ];

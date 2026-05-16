@@ -32,6 +32,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["Villach a fost menționat pentru prima dată în documente în anul 878.", "Cutremurul din 1348 a fost unul dintre cele mai puternice din istoria regiunii.", "Villacher Kirchtag este cel mai mare festival de folclor tradițional din Austria.", "Orașul este situat la o altitudine de 501 metri deasupra mării.", "Villach este un sediu important pentru producătorul de cipuri Infineon.", "Populația orașului este de aproximativ 65.000 de locuitori."],
       en: ["Villach was first mentioned in official documents in the year 878.", "The earthquake of 1348 was one of the strongest in the region's history.", "The Villacher Kirchtag is the largest traditional folklore festival in Austria.", "The city is situated at an elevation of 501 meters above sea level.", "Villach is a key location for the semiconductor company Infineon.", "The population of the city is approximately 65,000 residents."],
     },
+    image: "/poi-images/austria-villach-cities-v2.webp",
   },
   {
     id: "austria-wels-cities-v2",
@@ -64,6 +65,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["Wels a primit drepturile oficiale de oraș în anul 1222.", "Ledererturm este ultima poartă a orașului care a supraviețuit din fortificația medievală.", "Împăratul Maximilian I a murit la 12 ianuarie 1519 în castelul din Wels.", "Târgul de la Wels a fost fondat oficial în anul 1878.", "Wels se întinde pe o suprafață de aproximativ 45 de kilometri pătrați.", "Orașul are astăzi o populație de aproximativ 65.000 de locuitori."],
       en: ["Wels received its official city charter in the year 1222.", "The Ledererturm is the last remaining city gate from the medieval fortifications.", "Emperor Maximilian I died on January 12, 1519, in Wels Castle.", "The Messe Wels trade fair was officially founded in 1878.", "Wels covers an area of approximately 45 square kilometers.", "The city currently has a population of around 65,000 inhabitants."],
     },
+    image: "/poi-images/austria-wels-cities-v2.webp",
   },
   {
     id: "austria-dornbirn-cities-v2",
@@ -96,6 +98,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["Dornbirn a fost ridicat oficial la rangul de oraș abia în anul 1901.", "Casa Roșie din piața centrală datează din anul 1639.", "Inatura este cel mai mare muzeu de istorie naturală din regiunea lacului Constanța.", "Vârful Karren se află la o altitudine de 976 de metri.", "Cheile Rappenloch au fost formate de râul Dornbirner Ach.", "Orașul are astăzi o populație de peste 50.000 de locuitori."],
       en: ["Dornbirn was officially elevated to city status in the year 1901.", "The Red House on the market square dates back to 1639.", "Inatura is the largest natural history museum in the Lake Constance region.", "The Karren summit is located at an altitude of 976 meters.", "The Rappenloch Gorge was carved by the Dornbirner Ach river.", "The city now has a population of over 50,000 residents."],
     },
+    image: "/poi-images/austria-dornbirn-cities-v2.webp",
   },
   {
     id: "austria-steyr-cities-v2",
@@ -128,6 +131,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["Steyr a sărbătorit 1000 de ani de existență în anul 1980.", "Bummerlhaus este considerată clădirea simbol a orașului Steyr.", "Uzinele Steyr au produs echipamente militare importante în timpul războaielor mondiale.", "Oficiul poștal Christkindl trimite anual milioane de scrisori.", "Orașul găzduiește o fabrică importantă de motoare a companiei BMW.", "Populația orașului este în prezent de aproximativ 38.000 de locuitori."],
       en: ["Steyr celebrated its 1,000th anniversary in the year 1980.", "The Bummerlhaus is widely regarded as the iconic landmark of the city.", "The Steyr works were major producers of military equipment during the World Wars.", "The Christkindl post office processes millions of letters every year.", "The city is home to a significant engine manufacturing plant for BMW.", "The current population of Steyr is approximately 38,000 residents."],
     },
+    image: "/poi-images/austria-steyr-cities-v2.webp",
   },
   {
     id: "austria-feldkirch-cities-v2",
@@ -160,6 +164,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["Feldkirch a fost fondat oficial ca oraș în anul 1218.", "Castelul Schattenburg găzduiește una dintre cele mai mari colecții de arme din Austria.", "Stella Matutina a fost una dintre cele mai importante școli iezuite din lume.", "Orașul este situat pe râul Ill, chiar înainte de vărsarea acestuia în Rin.", "Feldkirch este sediul Diecezei de Feldkirch a Bisericii Romano-Catolice.", "Populația orașului este de aproximativ 36.000 de locuitori."],
       en: ["Feldkirch was officially founded as a city in the year 1218.", "Schattenburg Castle houses one of the largest weapon collections in Austria.", "Stella Matutina was once one of the most prominent Jesuit schools in the world.", "The city is situated on the Ill River, shortly before it flows into the Rhine.", "Feldkirch is the seat of the Roman Catholic Diocese of Feldkirch.", "The current population of the city is around 36,000 residents."],
     },
+    image: "/poi-images/austria-feldkirch-cities-v2.webp",
   },
   {
     id: "austria-wiener-neustadt-cities-v2",
@@ -192,6 +197,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["Wiener Neustadt a fost finanțat cu răscumpărarea lui Richard Inimă de Leu.", "Academia Militară Tereziantă a fost fondată în anul 1751.", "Orașul a fost unul dintre cele mai distruse orașe din Austria în timpul celui de-al Doilea Război Mondial.", "Catedrala din Wiener Neustadt datează inițial din secolul al XIII-lea.", "MedAustron este unul dintre cele mai moderne centre de terapie cu ioni din Europa.", "Orașul are o populație de aproximativ 48.000 de locuitori."],
       en: ["Wiener Neustadt was established using the ransom from Richard the Lionheart.", "The Theresian Military Academy was founded in the year 1751.", "The city was one of the most heavily destroyed in Austria during WWII.", "The Wiener Neustadt Cathedral originally dates back to the 13th century.", "MedAustron is one of the most advanced ion therapy centers in Europe.", "The city has a population of approximately 48,000 residents."],
     },
+    image: "/poi-images/austria-wiener-neustadt-cities-v2.webp",
   },
   {
     id: "austria-baden-cities-v2",
@@ -224,6 +230,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["Cele 14 izvoare sulfuroase furnizează zilnic aproximativ 4 milioane de litri de apă curativă.", "Cazinoul din Baden este considerat unul dintre cele mai frumoase din Europa.", "Beethoven și-a petrecut regulat verile în Baden între anii 1804 și 1825.", "Rosarium-ul din Doblhoffpark este cea mai mare colecție de trandafiri din Austria.", "Baden a fost inclus în lista Patrimoniului Mondial UNESCO în anul 2021.", "Orașul are astăzi o populație de aproximativ 26.000 de locuitori."],
       en: ["The 14 sulfur springs provide about 4 million liters of healing water daily.", "Casino Baden is widely regarded as one of the most beautiful casinos in Europe.", "Beethoven regularly spent his summers in Baden between 1804 and 1825.", "The Rosarium in Doblhoffpark is the largest rose collection in Austria.", "Baden was added to the UNESCO World Heritage List in 2021.", "The city currently has a population of approximately 26,000 residents."],
     },
+    image: "/poi-images/austria-baden-cities-v2.webp",
   },
   {
     id: "austria-wolfsberg-cities-v2",
@@ -256,6 +263,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["Wolfsberg a primit drepturile oficiale de oraș în anul 1331.", "Castelul Wolfsberg este cunoscut pentru sălile sale de reprezentare magnifice.", "Orașul este localitatea principală a văii Lavant, considerată paradisul Carintiei.", "Biserica parohială Sfântul Marcu a fost construită în secolul al XIII-lea.", "În regiunea din jurul orașului Wolfsberg se practică intensiv viticultura.", "Orașul are o populație de aproximativ 25.000 de locuitori."],
       en: ["Wolfsberg was officially granted city rights in the year 1331.", "Wolfsberg Castle is renowned for its magnificent state rooms.", "The city is the main settlement of the Lavant Valley, often called the Paradise of Carinthia.", "The St. Mark's Parish Church was built in the 13th century.", "Viticulture and fruit growing are major agricultural activities in the region.", "The population of the city is approximately 25,000 residents."],
     },
+    image: "/poi-images/austria-wolfsberg-cities-v2.webp",
   },
   {
     id: "austria-leoben-cities-v2",
@@ -288,6 +296,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["Universitatea de Minerit din Leoben a fost fondată în anul 1840.", "Schwammerlturm și-a primit numele abia după reconstrucția din 1845.", "Leoben este sediul fabricii de bere Gösser, una dintre cele mai cunoscute mărci din Austria.", "Tratatul de la Leoben a fost semnat în mănăstirea Sfântul Iacob.", "Drepturile de oraș ale Leobenului datează din anul 1261.", "Orașul are astăzi o populație de aproximativ 24.000 de locuitori."],
       en: ["The University of Leoben was established in the year 1840.", "The Schwammerlturm received its mushroom-like name after its 1845 renovation.", "Leoben is the headquarters of the Gösser Brewery, a leading Austrian brand.", "The Preliminary Peace of Leoben was signed at St. James's Monastery.", "Leoben's city charter dates back to the year 1261.", "The current population of the city is approximately 24,000 residents."],
     },
+    image: "/poi-images/austria-leoben-cities-v2.webp",
   },
   {
     id: "austria-krems-cities-v2",
@@ -320,6 +329,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["Krems a fost menționat pentru prima dată în documente în anul 995.", "Steiner Tor datează din secolul al XV-lea și a fost reconstruită în stil baroc.", "Universitatea Dunării din Krems a fost prima universitate publică pentru educație continuă din Europa.", "Viticultura în Krems poate fi urmărită până în perioada romană.", "Krems este situat chiar la începutul secțiunii Wachau a Dunării.", "Orașul are astăzi o populație de aproximativ 25.000 de locuitori."],
       en: ["Krems was first mentioned in official records in the year 995.", "The Steiner Tor dates back to the 15th century and was later baroquified.", "Danube University Krems was the first public university for continuing education in Europe.", "Viticulture in Krems can be traced back to the Roman era.", "Krems is located precisely at the beginning of the Wachau stretch of the Danube.", "The population of the city is currently around 25,000 residents."],
     },
+    image: "/poi-images/austria-krems-cities-v2.webp",
   },
   {
     id: "austria-traun-cities-v2",
@@ -352,6 +362,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["Traun a primit statutul de oraș la data de 1 iulie 1973.", "Populația orașului se menține constant la aproximativ 25.000 de locuitori.", "Castelul Traun a fost menționat documentar pentru prima dată în anul 1113.", "Orașul se întinde pe o suprafață totală de 15,49 kilometri pătrați.", "Traun este situat la o altitudine medie de 273 de metri deasupra mării.", "Numele orașului provine de la râul Traun, care traversează localitatea."],
       en: ["Traun was officially granted city status on July 1, 1973.", "The population remains steady at approximately 25,000 residents.", "Traun Castle was first mentioned in historical documents in 1113.", "The city covers a total land area of 15.49 square kilometers.", "Traun is situated at an average elevation of 273 meters above sea level.", "The city's name is derived from the Traun River, which flows through it."],
     },
+    image: "/poi-images/austria-traun-cities-v2.webp",
   },
   {
     id: "austria-lustenau-cities-v2",
@@ -384,6 +395,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["Lustenau este cea mai mare comună de piață din Austria, cu circa 23.600 de locuitori.", "Localitatea este situată la o altitudine de 404 metri deasupra mării.", "Până în 1806, Lustenau a fost o curte imperială liberă a Sfântului Imperiu Roman.", "Suprafața totală a teritoriului comunei este de 22,26 kilometri pătrați.", "Clubul de fotbal SC Austria Lustenau a fost fondat în anul 1914.", "Regularizarea Rinului din secolul al XIX-lea a schimbat fundamental geografia localității."],
       en: ["Lustenau is the largest market town in Austria, with around 23,600 inhabitants.", "The municipality is located at an altitude of 404 meters above sea level.", "Lustenau was a free imperial court of the Holy Roman Empire until 1806.", "The total area of the municipal territory is 22.26 square kilometers.", "The football club SC Austria Lustenau was founded in the year 1914.", "The Rhine regulation in the 19th century fundamentally altered Lustenau's geography."],
     },
+    image: "/poi-images/austria-lustenau-cities-v2.webp",
   },
   {
     id: "austria-kapfenberg-cities-v2",
@@ -416,6 +428,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["Kapfenberg a fost ridicat la rangul de oraș în anul 1924.", "Populația orașului este de aproximativ 22.000 de persoane.", "Castelul Oberkapfenberg a fost menționat pentru prima dată în anul 1173.", "Orașul cuprinde o suprafață de circa 81,2 kilometri pătrați.", "Kapfenberg este situat la o altitudine de 502 metri peste nivelul mării.", "Compania voestalpine Böhler Edelstahl este cel mai mare angajator din regiune."],
       en: ["Kapfenberg was officially elevated to city status in 1924.", "The city has a population of approximately 22,000 residents.", "Oberkapfenberg Castle was first mentioned in historical records in 1173.", "The city covers an area of about 81.2 square kilometers.", "Kapfenberg is located at an elevation of 502 meters above sea level.", "voestalpine Böhler Edelstahl is the largest employer in the region."],
     },
+    image: "/poi-images/austria-kapfenberg-cities-v2.webp",
   },
   {
     id: "austria-hallein-cities-v2",
@@ -448,6 +461,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["Hallein a primit drepturile de oraș în anul 1198.", "Populația orașului este de aproximativ 21.500 de locuitori.", "Extracția sării pe Dürrnberg a fost oprită definitiv în anul 1989.", "Franz Xaver Gruber a trăit și a lucrat în Hallein timp de 28 de ani.", "Orașul se întinde pe o suprafață de 26,7 kilometri pătrați.", "Hallein este situat la o altitudine de 447 de metri."],
       en: ["Hallein was granted city rights in the year 1198.", "The city has a population of approximately 21,500 residents.", "Salt mining on the Dürrnberg was permanently discontinued in 1989.", "Franz Xaver Gruber lived and worked in Hallein for 28 years.", "The city covers a land area of 26.7 square kilometers.", "Hallein is situated at an elevation of 447 meters above sea level."],
     },
+    image: "/poi-images/austria-hallein-cities-v2.webp",
   },
   {
     id: "austria-schwechat-cities-v2",
@@ -480,6 +494,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["Schwechat a fost ridicat la rangul de oraș în anul 1922.", "Aeroportul Viena-Schwechat a fost deschis în 1938 ca aerodrom militar.", "Rafinăria OMV din Schwechat are o capacitate de 9,6 milioane de tone pe an.", "Berăria Schwechat a fost fondată încă din anul 1796.", "Orașul se întinde pe o suprafață de 44,76 kilometri pătrați.", "Schwechat este situat la confluența râurilor Schwechat și Liesing."],
       en: ["Schwechat was officially elevated to city status in 1922.", "Vienna International Airport opened as a military airfield in 1938.", "The OMV refinery in Schwechat has a capacity of 9.6 million tons per year.", "The Schwechat Brewery was founded as early as 1796.", "The city covers a land area of 44.76 square kilometers.", "Schwechat is located at the confluence of the Schwechat and Liesing rivers."],
     },
+    image: "/poi-images/austria-schwechat-cities-v2.webp",
   },
   {
     id: "austria-braunau-am-inn-cities-v2",
@@ -512,6 +527,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["Braunau a primit drepturile de oraș în anul 1260.", "Turnul bisericii Sf. Ștefan este al șaselea ca înălțime din Austria, având 87 de metri.", "În anul 1779, Braunau a revenit Austriei prin Pacea de la Teschen.", "Populația orașului este de aproximativ 17.500 de persoane.", "Braunau se întinde pe o suprafață de 24,84 kilometri pătrați.", "Orașul este situat la o altitudine de 352 de metri, direct pe râul Inn."],
       en: ["Braunau was granted city rights in the year 1260.", "The spire of St. Stephen's is 87 meters tall, the sixth highest in Austria.", "In 1779, Braunau became part of Austria through the Treaty of Teschen.", "The city's population is approximately 17,500 residents.", "Braunau covers a land area of 24.84 square kilometers.", "The city is situated at an elevation of 352 meters directly on the Inn River."],
     },
+    image: "/poi-images/austria-braunau-am-inn-cities-v2.webp",
   },
   {
     id: "austria-saalfelden-cities-v2",
@@ -544,6 +560,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["Saalfelden a primit statutul de oraș în anul 2000.", "Populația orașului este de aproximativ 16.800 de persoane.", "Steinernes Meer este un masiv montan cu vârfuri de până la 2.653 de metri.", "Festivalul de Jazz Saalfelden are loc anual în ultimul weekend din august.", "Orașul se întinde pe o suprafață de 118,36 kilometri pătrați.", "Saalfelden este situat la o altitudine de 744 de metri."],
       en: ["Saalfelden was officially granted city status in the year 2000.", "The city has a population of approximately 16,800 residents.", "The Steinernes Meer is a mountain range with peaks up to 2,653 meters.", "The Saalfelden Jazz Festival takes place annually on the last weekend of August.", "The city covers a land area of 118.36 square kilometers.", "Saalfelden is situated at an elevation of 744 meters above sea level."],
     },
+    image: "/poi-images/austria-saalfelden-cities-v2.webp",
   },
   {
     id: "austria-stockerau-cities-v2",
@@ -576,6 +593,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["Stockerau a primit statutul de oraș în anul 1893.", "Turnul bisericii parohiale Sf. Ștefan are o înălțime de 88 de metri.", "Populația orașului este de aproximativ 17.000 de persoane.", "Stockerauer Au face parte din rețeaua europeană de arii protejate Natura 2000.", "Orașul se întinde pe o suprafață de 37,41 kilometri pătrați.", "Nikolaus Lenau a locuit regulat în Stockerau între anii 1818 și 1821."],
       en: ["Stockerau was officially granted city status in 1893.", "The spire of the Parish Church of St. Stephen is 88 meters high.", "The city has a population of approximately 17,000 residents.", "The Stockerauer Au is part of the European Natura 2000 protected area network.", "The city covers a land area of 37.41 square kilometers.", "Nikolaus Lenau stayed regularly in Stockerau between 1818 and 1821."],
     },
+    image: "/poi-images/austria-stockerau-cities-v2.webp",
   },
   {
     id: "austria-ansfelden-cities-v2",
@@ -608,6 +626,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["Ansfelden a fost ridicat la rangul de oraș în anul 1988.", "Anton Bruckner s-a născut în Ansfelden la 4 septembrie 1824.", "Populația orașului este de aproximativ 17.800 de persoane.", "Haid Center este unul dintre cele mai mari centre comerciale din Austria Superioară.", "Orașul se întinde pe o suprafață de 31,33 kilometri pătrați.", "Ansfelden este situat la o altitudine de 289 de metri."],
       en: ["Ansfelden was officially elevated to city status in 1988.", "Anton Bruckner was born in Ansfelden on September 4, 1824.", "The city has a population of approximately 17,800 residents.", "The Haid Center is one of the largest shopping malls in Upper Austria.", "The city covers a land area of 31.33 square kilometers.", "Ansfelden is situated at an elevation of 289 meters above sea level."],
     },
+    image: "/poi-images/austria-ansfelden-cities-v2.webp",
   },
   {
     id: "austria-hohenems-cities-v2",
@@ -640,6 +659,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["Hohenems a primit statutul de oraș în anul 1983.", "Palatul Hohenems a fost construit începând cu anul 1562 în stil renascentist.", "În biblioteca palatului au fost găsite două manuscrise ale Cântecului Nibelungilor.", "Populația orașului este de aproximativ 17.000 de persoane.", "Ruina castelului Alt-Ems a fost odinioară una dintre cele mai mari fortificații din Europa Centrală.", "Orașul se întinde pe o suprafață de 29,17 kilometri pătrați."],
       en: ["Hohenems was officially granted city status in 1983.", "Hohenems Palace was built starting in 1562 in the Renaissance style.", "Two manuscripts of the Nibelungenlied were discovered in the palace library.", "The city has a population of approximately 17,000 residents.", "The Alt-Ems castle ruins were once one of the largest castle complexes in Central Europe.", "The city covers a land area of 29.17 square kilometers."],
     },
+    image: "/poi-images/austria-hohenems-cities-v2.webp",
   },
   {
     id: "austria-perchtoldsdorf-cities-v2",
@@ -672,6 +692,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["Turnul defensiv distinctiv a fost finalizat în 1521, după o perioadă de construcție de 71 de ani.", "Castelul Perchtoldsdorf a servit în secolul al XIV-lea drept reședință pentru văduvele Casei de Habsburg.", "Localitatea a primit drepturi de oraș de piață încă din anul 1308.", "În prezent, în comună trăiesc aproximativ 15.000 de locuitori pe o suprafață de 12,6 kilometri pătrați.", "Tradiția 'Hüterei' de ziua Sfântului Leonhard este din 2010 patrimoniu cultural imaterial UNESCO.", "Cea mai înaltă cotă din zona municipală este muntele Parapluieberg, de 539 de metri."],
       en: ["The prominent defensive tower was completed in 1521 after a construction period of 71 years.", "Perchtoldsdorf Castle served as a residence for Habsburg widows during the 14th century.", "The settlement was granted market rights as early as the year 1308.", "The municipality currently has a population of approximately 15,000 across 12.6 square kilometers.", "The 'Hüterei' harvest tradition has been part of UNESCO's Intangible Cultural Heritage since 2010.", "The highest point in the municipal area is the Parapluieberg at 539 meters above sea level."],
     },
+    image: "/poi-images/austria-perchtoldsdorf-cities-v2.webp",
   },
   {
     id: "austria-ternitz-cities-v2",
@@ -704,6 +725,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["Ternitz a fost ridicat la rangul de oraș pe 1 ianuarie 1948.", "Compania Schoeller-Bleckmann Oilfield Equipment își are sediul central în Ternitz.", "În oraș trăiesc aproximativ 14.600 de persoane pe o suprafață de 39,6 kilometri pătrați.", "Conacul (Herrenhaus) din Ternitz a fost construit în jurul anului 1870 ca reședință reprezentativă.", "Râul Schwarza traversează municipalitatea, fiind istoric esențial pentru dezvoltarea industrială.", "Orașul este format din comunele cadastrale Dunkelstein, Pottschach, Rohrbach și Ternitz."],
       en: ["Ternitz was officially elevated to the status of a city on January 1, 1948.", "The headquarters of Schoeller-Bleckmann Oilfield Equipment is located in Ternitz.", "The city has a population of approximately 14,600 living in an area of 39.6 square kilometers.", "The Ternitz 'Herrenhaus' was built around 1870 as a prestigious residential and administrative seat.", "The Schwarza River flows through the municipality and was historically vital for industry.", "The city comprises the cadastral communities of Dunkelstein, Pottschach, Rohrbach, and Ternitz."],
     },
+    image: "/poi-images/austria-ternitz-cities-v2.webp",
   },
   {
     id: "austria-feldkirchen-in-kaernten-cities-v2",
@@ -736,6 +758,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["Feldkirchen a fost ridicat oficial la rangul de oraș abia în anul 1930.", "Amthof a fost extins la forma sa actuală în secolele al XV-lea și al XVI-lea.", "Orașul este situat la o altitudine de 554 de metri deasupra nivelului mării.", "Feldkirchen are aproximativ 14.400 de locuitori pe o suprafață de 77,5 kilometri pătrați.", "Biserica parohială Maria im Dorn prezintă elemente din stilurile romanic, gotic și baroc.", "În apropiere se află stațiunea balneară Schlammteich, utilizată încă din secolul al XIX-lea."],
       en: ["Feldkirchen was officially elevated to the status of a city only in the year 1930.", "The Amthof was expanded into its current form during the 15th and 16th centuries.", "The city is located at an elevation of 554 meters above sea level.", "Feldkirchen has a population of about 14,400 within an area of 77.5 square kilometers.", "The Maria im Dorn parish church features Romanesque, Gothic, and Baroque architectural elements.", "The nearby Schlammteich peat bath has been in use since the 19th century."],
     },
+    image: "/poi-images/austria-feldkirchen-in-kaernten-cities-v2.webp",
   },
   {
     id: "austria-bludenz-cities-v2",
@@ -768,6 +791,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["Bludenz a primit drepturi de oraș în anul 1274 de la conții de Werdenberg.", "Ciocolata marca Milka este produsă în Bludenz încă din anul 1887.", "Castelul Gayenhofen a fost construit în stil baroc între anii 1746 și 1752.", "Orașul este situat la o altitudine de 587 de metri deasupra nivelului mării.", "În Bludenz trăiesc aproximativ 15.000 de locuitori pe o suprafață de 30 kilometri pătrați.", "Telecabina Muttersberg urcă la 1.401 metri, deschizând o zonă populară de drumeții."],
       en: ["Bludenz was granted city rights in 1274 by the Counts of Werdenberg.", "Milka brand chocolate has been produced in Bludenz since 1887.", "Gayenhofen Castle was constructed in the Baroque style between 1746 and 1752.", "The city is located at an altitude of 587 meters above sea level.", "Bludenz has a population of around 15,000 within an area of 30 square kilometers.", "The Muttersberg cable car ascends to 1,401 meters, providing access to a popular hiking area."],
     },
+    image: "/poi-images/austria-bludenz-cities-v2.webp",
   },
   {
     id: "austria-bad-ischl-cities-v2",
@@ -800,6 +824,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["În anul 1853, împăratul Franz Joseph I s-a logodit cu Elisabeta (Sisi) la Bad Ischl.", "Orașul a fost desemnat Capitală Europeană a Culturii pentru anul 2024.", "Bad Ischl a primit oficial titlul de 'Bad' în 1906 datorită izvoarelor sale curative.", "Cofetăria Zauner a fost fondată în 1832 și a fost furnizor al curții imperiale.", "Mina de sare din Ischl este exploatată la scară largă încă din anul 1563.", "În Kaiservilla, împăratul a semnat în 1914 declarația de război împotriva Serbiei."],
       en: ["Emperor Franz Joseph I became engaged to Elisabeth (Sisi) in Bad Ischl in 1853.", "The town was designated as a European Capital of Culture for the year 2024.", "Bad Ischl officially received the title of 'Bad' in 1906 due to its healing springs.", "The Zauner confectionery was founded in 1832 and was an imperial court supplier.", "The Ischl salt mine has been operated on a large scale since the year 1563.", "In the Kaiservilla, the Emperor signed the declaration of war against Serbia in 1914."],
     },
+    image: "/poi-images/austria-bad-ischl-cities-v2.webp",
   },
   {
     id: "austria-schwaz-cities-v2",
@@ -832,6 +857,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["În jurul anului 1500, Schwaz era centrul mineritului de argint din Europa.", "Biserica parohială este singura din Tirol care are două nave principale egale.", "Acoperișul bisericii parohiale este format din 15.000 de plăci de cupru exploatat local.", "În secolul al XV-lea, aproximativ 85% din argintul mondial provenea din Schwaz.", "Castelul Freundsberg a fost construit în secolul al XII-lea ca reședință a cavalerilor de Freundsberg.", "Schwaz a fost ridicat oficial la rangul de oraș pe 28 aprilie 1899."],
       en: ["Around 1500, Schwaz was the center of European silver mining.", "The parish church is the only church in Tyrol featuring two equal main naves.", "The roof of the parish church consists of 15,000 copper plates made from locally mined copper.", "In the 15th century, approximately 85% of the world's silver originated from Schwaz.", "Freundsberg Castle was built in the 12th century as the ancestral seat of the Knights of Freundsberg.", "Schwaz was officially elevated to the status of a city on April 28, 1899."],
     },
+    image: "/poi-images/austria-schwaz-cities-v2.webp",
   },
   {
     id: "austria-hall-in-tirol-cities-v2",
@@ -864,6 +890,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["În 1486, la Hall a fost bătut 'Guldiner', precursorul talerului și al dolarului.", "Hall a primit drepturi de oraș încă din anul 1303 de la ducele Otto de Carintia.", "Exploatarea sării în Valea Hall a fost încetat abia în 1967, după aproape 700 de ani.", "Centrul vechi al orașului Hall este mai mare ca suprafață decât cel din Innsbruck.", "Monetăria din Hall a introdus în 1567 baterea cu cilindri, revoluționând producția de bani.", "Primăria istorică din Hall datează inițial din anul 1447."],
       en: ["The Guldiner, the precursor to the Taler and Dollar, was first minted in Hall in 1486.", "Hall was granted city rights as early as 1303 by Duke Otto of Carinthia.", "Salt mining in the Hall Valley was only discontinued in 1967 after nearly 700 years.", "The old town of Hall is larger in terms of area than that of Innsbruck.", "The Hall Mint introduced roller press coining in 1567, a revolution in money production.", "The historic town hall of Hall originally dates back to the year 1447."],
     },
+    image: "/poi-images/austria-hall-in-tirol-cities-v2.webp",
   },
   {
     id: "austria-kufstein-cities-v2",
@@ -896,6 +923,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["Cetatea Kufstein a fost menționată documentar pentru prima dată în anul 1205.", "Orga Eroilor din cetate dispune de 4.948 de tuburi.", "Kufstein a primit drepturi de oraș în anul 1393 de la ducele Ștefan al III-lea.", "Manufactura Riedel produce pahare de înaltă calitate în Kufstein din 1956.", "Faimosul 'Cântec al Kufsteinului' a fost compus în 1947 de Karl Ganzer.", "Orașul este situat la o altitudine de 499 de metri, la poalele munților Kaisergebirge."],
       en: ["Kufstein Fortress was first mentioned in official documents in 1205.", "The Heroes' Organ in the fortress is equipped with 4,948 pipes.", "Kufstein was granted city rights in 1393 by Duke Stephen III.", "The Riedel glass manufactory has been producing high-quality glassware in Kufstein since 1956.", "The world-famous Kufstein Song was composed in 1947 by Karl Ganzer.", "The city is located at an elevation of 499 meters at the foot of the Kaiser Mountains."],
     },
+    image: "/poi-images/austria-kufstein-cities-v2.webp",
   }
 ,
   {
@@ -929,6 +957,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["Castelul Obervoitsberg a fost menționat documentar pentru prima dată în jurul anului 1170.", "Primăria din Voitsberg a fost reproiectată artistic în 2002 de către Arik Brauer.", "Voitsberg a primit oficial statutul de oraș în anul 1891.", "Herghelia de lipițani Piber din apropiere este stabilită în regiune din 1920.", "Mineritul de cărbune din regiune s-a încheiat în 2004, după aproape 200 de ani.", "În oraș trăiesc astăzi aproximativ 9.500 de locuitori pe 28,5 kilometri pătrați."],
       en: ["Obervoitsberg Castle was first mentioned in official documents around 1170.", "The Voitsberg Town Hall was artistically redesigned by Arik Brauer in 2002.", "Voitsberg was officially granted city rights in the year 1891.", "The nearby Piber Federal Stud has been located in the region since 1920.", "Coal mining in the region ended in 2004 after nearly 200 years of operation.", "The city currently has a population of about 9,500 across 28.5 square kilometers."],
     },
+    image: "/poi-images/austria-voitsberg-cities-v2.webp",
   },
   {
     id: "austria-waidhofen-an-der-thaya-cities-v2",
@@ -961,6 +990,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["Waidhofen an der Thaya a fost menționat documentar pentru prima dată în anul 1171.", "Orașul a primit statutul oficial de oraș încă din jurul anului 1230.", "Fortificațiile medievale ale orașului sunt încă vizibile în mare parte astăzi.", "În Waidhofen se află cea mai mare volieră pentru ibiși pleșuvi din lume.", "În municipalitate trăiesc aproximativ 4.800 de locuitori pe o suprafață de 46 km pătrați.", "Muzeul orașului documentează istoria lungă a postăvăritului din Waldviertel."],
       en: ["Waidhofen an der Thaya was first mentioned in official documents in 1171.", "The settlement was officially granted city rights around the year 1230.", "The medieval city fortifications are still largely visible today.", "Waidhofen is home to the world's largest Northern Bald Ibis aviary.", "The municipality has a population of about 4,800 across 46 square kilometers.", "The city museum documents the long history of cloth-making in the Waldviertel."],
     },
+    image: "/poi-images/austria-waidhofen-an-der-thaya-cities-v2.webp",
   },
   {
     id: "austria-judenburg-cities-v2",
@@ -993,6 +1023,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["Prima mențiune documentară a orașului datează din anul 1074.", "Turnul orașului este cel mai înalt turn de sine stătător din Austria, având 75 de metri.", "În interiorul turnului se află unul dintre cele mai moderne planetarii din Europa.", "Orașul este situat pe râul Mur, la o altitudine de 737 de metri deasupra mării.", "Judenburg a fost în Evul Mediu un centru al comerțului cu planta Speick.", "Biserica parohială Sfântul Nicolae a fost fondată încă din secolul al XII-lea."],
       en: ["First documented mention of the town occurred in 1074 as mercatum Judinburch.", "The City Tower stands at 75 meters, making it the tallest freestanding tower in Austria.", "One of Europe's most modern planetariums is located inside the City Tower.", "The town is situated on the Mur River at an altitude of 737 meters above sea level.", "In the Middle Ages, Judenburg was a center for trading the rare Speick plant.", "St. Nicholas Parish Church was originally established in the 12th century."],
     },
+    image: "/poi-images/austria-judenburg-cities-v2.webp",
   },
   {
     id: "austria-voecklabruck-cities-v2",
@@ -1025,6 +1056,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["Vöcklabruck a fost menționat documentar pentru prima dată în anul 1134.", "Frescele de pe turnurile porții înfățișează blazoanele posesiunilor împăratului Maximilian I.", "Orașul este situat la o altitudine de 433 de metri pe malul râului Vöckla.", "Vöcklabruck a primit oficial drepturile de oraș în anul 1952.", "Piața orașului este una dintre cele mai bine conservate situri istorice din Austria Superioară.", "Orașul este un centru educațional important, având peste 15 instituții de învățământ."],
       en: ["Vöcklabruck was first mentioned in a document in the year 1134.", "The frescoes on the gate towers display the coats of arms of Emperor Maximilian I's territories.", "The town is situated at an elevation of 433 meters on the Vöckla River.", "Vöcklabruck was officially granted city status in 1952.", "The town square is considered one of the best-preserved historical sites in Upper Austria.", "The town is a major educational hub with more than 15 different schools."],
     },
+    image: "/poi-images/austria-voecklabruck-cities-v2.webp",
   },
   {
     id: "austria-freistadt-cities-v2",
@@ -1057,6 +1089,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["Freistadt a fost fondat în jurul anului 1220 ca un oraș planificat.", "Zidul orașului are opt turnuri conservate și două porți mari de oraș.", "Cooperativa de bere Freistadt este singura de acest fel din Europa cu acționari privați.", "Poarta Linz, cu o înălțime de 40 de metri, este unul dintre cele mai masive turnuri de poartă din Europa Centrală.", "Orașul este situat la o altitudine de 563 de metri în regiunea Mühlviertel.", "Castelul Freistadt găzduiește muzeul regional al castelului Mühlviertel."],
       en: ["Freistadt was founded as a planned town around the year 1220.", "The city wall features eight preserved towers and two large city gates.", "The Freistadt Brewing Commune is the only one of its kind in Europe with private shareholders.", "Standing 40 meters tall, the Linz Gate is one of the most powerful gate towers in Central Europe.", "The town is located at an altitude of 563 meters in the Mühlviertel region.", "Freistadt Castle houses the Mühlviertel Castle Museum with regional exhibits."],
     },
+    image: "/poi-images/austria-freistadt-cities-v2.webp",
   },
   {
     id: "austria-zeltweg-cities-v2",
@@ -1089,6 +1122,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["Zeltweg a devenit o comună independentă abia în anul 1871.", "Aerodromul militar Hinterstoisser este cel mai mare aerodrom din Austria.", "Orașul a primit oficial drepturile de oraș în anul 1966.", "Zeltweg este situat în câmpia Aichfeld la o altitudine de 670 de metri.", "Prima cursă de Formula 1 din Austria a avut loc în 1964 pe aerodromul Zeltweg.", "Compania voestalpine operează aici o fabrică importantă de tehnologie feroviară."],
       en: ["Zeltweg only became an independent municipality in the year 1871.", "Hinterstoisser Air Base is the largest airfield in Austria.", "The town was officially granted city status in the year 1966.", "Zeltweg is located in the Aichfeld at an elevation of 670 meters.", "The first Formula 1 race in Austria took place in 1964 at Zeltweg airfield.", "The voestalpine company operates a major rail technology plant here."],
     },
+    image: "/poi-images/austria-zeltweg-cities-v2.webp",
   },
   {
     id: "austria-liezen-cities-v2",
@@ -1121,6 +1155,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["Liezen este capitala celui mai mare district ca suprafață din Austria.", "Prima mențiune documentară a avut loc în anul 1074 sub numele de Luezen.", "Orașul a primit oficial drepturile de oraș abia în anul 1947.", "Liezen este situat pe râul Enns la o altitudine de 664 de metri.", "Orașul este un nod important pe autostrada Pyhrn (A9).", "Centrul comercial ELI este unul dintre cei mai mari angajatori din regiune."],
       en: ["Liezen is the capital of the largest district in Austria by geographical area.", "The first documented mention of the town occurred in 1074 as Luezen.", "The town was officially granted city status as recently as 1947.", "Liezen is located on the Enns River at an altitude of 664 meters.", "The town is a major junction on the Pyhrn Motorway (A9).", "The ELI shopping center is one of the region's largest employers."],
     },
+    image: "/poi-images/austria-liezen-cities-v2.webp",
   },
   {
     id: "austria-mistelbach-cities-v2",
@@ -1153,6 +1188,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["Biserica parohială Sfântul Martin are origini gotice la bază.", "Mistelbach a primit oficial drepturile de oraș în anul 1874.", "Orașul este situat la o altitudine de 190 de metri în regiunea Weinviertel.", "Zilele Internaționale ale Teatrului de Păpuși au loc aici anual.", "Muzeul Hermann Nitsch din Mistelbach este dedicat faimosului artist de acțiune.", "Orașul este conectat direct cu Viena prin linia feroviară suburbană S2."],
       en: ["The core of St. Martin's Parish Church dates back to the Gothic period.", "Mistelbach was officially granted city status in the year 1874.", "The town is situated at an elevation of 190 meters in the Weinviertel.", "The International Puppet Theater Days are held here annually.", "The Hermann Nitsch Museum in Mistelbach is dedicated to the famous action artist.", "The town is directly connected to Vienna via the S2 suburban railway line."],
     },
+    image: "/poi-images/austria-mistelbach-cities-v2.webp",
   },
   {
     id: "austria-bruck-an-der-mur-cities-v2",
@@ -1185,6 +1221,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["Bruck an der Mur a fost menționat documentar încă din anul 860.", "Casa Kornmesser este considerată una dintre cele mai frumoase case cetățenești gotice din Austria.", "Orașul este situat la o altitudine de 491 de metri la confluența a două râuri.", "Fântâna de fier din piața principală datează din anul 1626.", "Ruinele castelului Landskron de pe Schlossberg oferă o vedere panoramică asupra văii Mur.", "Bruck este un nod central al căii ferate de sud din Austria (Südbahn)."],
       en: ["Bruck an der Mur was documented as early as the year 860.", "The Kornmesserhaus is regarded as one of Austria's most beautiful Gothic burgher houses.", "The town is situated at an elevation of 491 meters at the confluence of two rivers.", "The Iron Fountain in the main square dates back to the year 1626.", "The Landskron castle ruins offer a wide view over the Mur Valley.", "Bruck is a central junction of the Austrian Southern Railway."],
     },
+    image: "/poi-images/austria-bruck-an-der-mur-cities-v2.webp",
   },
   {
     id: "austria-landeck-cities-v2",
@@ -1217,6 +1254,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["Castelul Landeck a fost ridicat în jurul anului 1250 pe o stâncă deasupra râului Inn.", "Orașul este situat la o altitudine de 816 metri în valea râului Inn.", "Landeck a primit oficial drepturile de oraș în anul 1923.", "Confluența râurilor Inn și Sanna este o caracteristică geografică proeminentă.", "Calea ferată Arlberg conectează Landeck direct cu Vorarlberg din anul 1884.", "Biserica parohială este dedicată Adormirii Maicii Domnului și este în stil gotic târziu."],
       en: ["Landeck Castle was built around the year 1250 on a rock overlooking the Inn River.", "The town is located at an altitude of 816 meters in the Inn Valley.", "Landeck was officially granted city status in the year 1923.", "The confluence of the Inn and Sanna rivers is a prominent geographic feature.", "The Arlberg Railway has connected Landeck directly with Vorarlberg since 1884.", "The parish church is dedicated to the Assumption of Mary and is late Gothic."],
     },
+    image: "/poi-images/austria-landeck-cities-v2.webp",
   },
   {
     id: "austria-weiz-cities-v2",
@@ -1249,6 +1287,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["Weiz a fost menționat documentar pentru prima dată în anul 1188.", "Biserica Tabor este una dintre puținele biserici fortificate conservate din Stiria.", "Fondarea uzinelor ELIN în 1892 a marcat începutul ascensiunii industriale.", "Orașul este situat la o altitudine de 477 de metri pe pârâul Weizbach.", "Weiz a primit oficial drepturile de oraș în anul 1932.", "Cheile Weizklamm la nord de oraș reprezintă unul dintre cele mai adânci defilee din Stiria."],
       en: ["Weiz was first documented in the year 1188.", "The Tabor Church is one of the few remaining fortified churches in Styria.", "The founding of the ELIN works in 1892 triggered the town's industrial rise.", "The town is situated at an elevation of 477 meters on the Weizbach stream.", "Weiz was officially granted city status in the year 1932.", "The Weizklamm gorge north of the town is one of the deepest in Styria."],
     },
+    image: "/poi-images/austria-weiz-cities-v2.webp",
   },
   {
     id: "austria-imst-cities-v2",
@@ -1281,6 +1320,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["Imst a fost menționat documentar pentru prima dată în anul 763 sub numele de Oppidum Humiste.", "Obiceiul Schemenlaufen a fost inclus în 2012 pe lista Patrimoniului Cultural Imaterial UNESCO.", "Orașul găzduiește peste 40 de fântâni istorice, multe dintre ele decorate cu figuri de sfinți.", "Cheile Rosengartenschlucht reprezintă un traseu geologic lung de 1,5 km în zona orașului.", "Imst este situat la o altitudine de 827 de metri.", "Primul sat de copii SOS din lume a fost fondat în Imst în 1951 de Hermann Gmeiner."],
       en: ["Imst was first documented in the year 763 as Oppidum Humiste.", "The Schemenlaufen carnival was added to the UNESCO Intangible Cultural Heritage list in 2012.", "The town is home to over 40 historic fountains, many featuring religious figures.", "The Rosengartenschlucht is a 1.5 km long geological trail within the town limits.", "Imst is situated at an elevation of 827 meters above sea level.", "The world's first SOS Children's Village was founded in Imst in 1951 by Hermann Gmeiner."],
     },
+    image: "/poi-images/austria-imst-cities-v2.webp",
   },
   {
     id: "austria-hartberg-cities-v2",
@@ -1313,6 +1353,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["Prima mențiune documentară a orașului Hartberg datează din anul 1122.", "Osuarul romanic a fost construit în a doua jumătate a secolului al XII-lea.", "Localitatea a primit drepturi oficiale de oraș în anul 1286.", "Biserica parohială Sfântul Martin este construită în stil gotic târziu.", "Turnul de pe Ringkogel a fost finalizat în anul 1906.", "Hartberg este primul oraș austriac care a aderat la rețeaua Cittaslow în 2009."],
       en: ["Hartberg was first mentioned in official records in the year 1122.", "The Romanesque charnel house dates back to the late 12th century.", "The settlement was officially granted city rights in 1286.", "St. Martin's Parish Church was built primarily in the late Gothic style.", "The observation tower on the Ringkogel was constructed in 1906.", "Hartberg became Austria's first Cittaslow certified town in 2009."],
     },
+    image: "/poi-images/austria-hartberg-cities-v2.webp",
   },
   {
     id: "austria-bad-voslau-cities-v2",
@@ -1345,6 +1386,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["Actualul ștrand termal a fost deschis oficial în anul 1873.", "Bad Vöslau a primit statutul oficial de oraș în anul 1954.", "Orașul este considerat leagănul viticulturii de vin roșu din Austria.", "Parcul castelului se întinde pe o suprafață de aproximativ 60.000 de metri pătrați.", "Apa minerală Vöslauer este comercializată începând cu anii 1930.", "Cel mai înalt punct din zona municipală este muntele Harzberg, având 466 de metri."],
       en: ["The current thermal bath facility was officially opened in 1873.", "Bad Vöslau was formally granted city status in the year 1954.", "The town is often called the cradle of Austrian red wine production.", "The castle park covers an area of approximately 60,000 square meters.", "Vöslauer mineral water has been sold commercially since the 1930s.", "The highest point in the municipal area is the Harzberg at 466 meters."],
     },
+    image: "/poi-images/austria-bad-voslau-cities-v2.webp",
   },
   {
     id: "austria-brunn-am-gebirge-cities-v2",
@@ -1377,6 +1419,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["În Brunn se află cea mai veche așezare agricolă din Austria (aprox. 5500 î.Hr.).", "Cartierul Gartenstadt a fost construit între 1900 și 1915 în stil Jugendstil.", "Biserica parohială neogotică a fost sfințită în anul 1867.", "Localitatea este situată lângă autostrada A2, o arteră de trafic crucială.", "Casa istorică Gliederer datează de la începutul secolului al XVIII-lea.", "Brunn am Gebirge face parte din regiunea Industrieviertel a Austriei Inferioare."],
       en: ["Brunn hosts the oldest farming settlement in Austria, dating to 5500 BC.", "The Gartenstadt was constructed in Art Nouveau style between 1900 and 1915.", "The neo-Gothic parish church was officially consecrated in 1867.", "The town is located directly on the A2 South Motorway, a major traffic route.", "The historic Gliederer House dates back to the early 18th century.", "Brunn am Gebirge is part of the Industrieviertel region in Lower Austria."],
     },
+    image: "/poi-images/austria-brunn-am-gebirge-cities-v2.webp",
   },
   {
     id: "austria-leonding-cities-v2",
@@ -1409,6 +1452,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["Leonding a primit statutul oficial de oraș în anul 1975.", "Muntele Kürnberg atinge o înălțime de 526 de metri deasupra nivelului mării.", "În Leonding se află sediul central al firmei Rosenbauer, lider mondial în vehicule de pompieri.", "Linia fortificată Maximilian era formată inițial din 32 de turnuri în jurul orașului Linz.", "Parcul central din Leonding servește ca principal plămân verde al comunității.", "Biserica parohială Sfântul Mihail a fost reconstruită în stil baroc în anul 1774."],
       en: ["Leonding was officially granted city status in the year 1975.", "The Kürnberg hill reaches an elevation of 526 meters above sea level.", "Leonding is home to the headquarters of Rosenbauer, a world leader in firefighting vehicles.", "The Maximilian fortification line originally consisted of 32 towers surrounding Linz.", "Leonding City Park serves as the primary green space for the municipality.", "The Parish Church of St. Michael was rebuilt in Baroque style in 1774."],
     },
+    image: "/poi-images/austria-leonding-cities-v2.webp",
   },
   {
     id: "austria-ganserndorf-cities-v2",
@@ -1441,6 +1485,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["Gänserndorf a primit statutul oficial de oraș în anul 1958.", "Linia ferată Viena–Gänserndorf a fost prima rută cu locomotivă cu abur din Austria (1837/38).", "Biserica parohială a fost renovată în stil baroc în secolul al XVIII-lea.", "Regiunea Marchfeld este considerată grânarul Austriei.", "Fostul parc safari a fost inaugurat în anul 1972.", "Gänserndorf este situat la o altitudine de aproximativ 167 de metri."],
       en: ["Gänserndorf was formally granted city status in the year 1958.", "The Vienna–Gänserndorf line was Austria's first steam railway (1837/38).", "The local parish church underwent Baroque remodeling in the 18th century.", "The Marchfeld region is often referred to as Austria's breadbasket.", "The former safari park in the town was opened in 1972.", "Gänserndorf is situated at an elevation of approximately 167 meters."],
     },
+    image: "/poi-images/austria-ganserndorf-cities-v2.webp",
   },
   {
     id: "austria-tulln-an-der-donau-cities-v2",
@@ -1473,6 +1518,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["În secolul al X-lea, Tulln a fost temporar capitala mărcii Austria.", "Muzeul Egon Schiele a fost inaugurat în anul 1990.", "Turnul Roman (Römerturm) datează din secolul al IV-lea d.Hr.", "Biserica parohială Sfântul Ștefan îmbină stilurile romanic, gotic și baroc.", "Tulln este situat pe calea ferată Franz-Josefs-Bahn, o conexiune vitală către Viena.", "Proiectul „Die Garten Tulln” cuprinde peste 60 de grădini tematice diferite."],
       en: ["In the 10th century, Tulln briefly served as the capital of the Margraviate of Austria.", "The Egon Schiele Museum was officially established in 1990.", "The Roman Tower dates back to the 4th century AD.", "St. Stephen's Parish Church features a mix of Romanesque, Gothic, and Baroque elements.", "Tulln is located on the Franz Joseph Railway, providing major access to Vienna.", "The Garten Tulln exhibition features more than 60 distinct display gardens."],
     },
+    image: "/poi-images/austria-tulln-an-der-donau-cities-v2.webp",
   },
   {
     id: "austria-st-veit-an-der-glan-cities-v2",
@@ -1505,6 +1551,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["St. Veit a fost capitala Carintiei între anii 1170 și 1518.", "Primăria deține una dintre cele mai frumoase curți cu arcade din Austria.", "Târgul Wiesenmarkt a fost menționat documentar pentru prima dată în 1362.", "Artistul Ernst Fuchs a finalizat designul Fuchspalast în anii 1990.", "Zidul orașului este conservat în mare parte în starea sa originală.", "St. Veit se află la o altitudine de 475 de metri deasupra nivelului mării."],
       en: ["St. Veit was the capital city of Carinthia from 1170 to 1518.", "The town hall features one of the most magnificent arcaded courtyards in Austria.", "The St. Veit Wiesenmarkt was first mentioned in official records in 1362.", "Ernst Fuchs designed the iconic Fuchspalast during the 1990s.", "Large sections of the original city walls remain intact today.", "St. Veit is situated at an elevation of 475 meters above sea level."],
     },
+    image: "/poi-images/austria-st-veit-an-der-glan-cities-v2.webp",
   },
   {
     id: "austria-hermagor-cities-v2",
@@ -1537,6 +1584,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["Hermagor a fost menționat pentru prima dată în anul 1116 sub numele 'Hermagoras'.", "Apa lacului Pressegger See poate atinge vara temperaturi de până la 28 de grade Celsius.", "Domeniul schiabil Nassfeld oferă aproximativ 110 kilometri de pârtii.", "Localitatea a primit drepturi depline de oraș în anul 1987.", "Produsul Gailtaler Speck este protejat la nivel european din anul 1997.", "Muzeul de istorie locală din Valea Gail este găzduit în castelul Möderndorf."],
       en: ["Hermagor was first documented in 1116 under the name 'Hermagoras'.", "Lake Pressegger See can reach water temperatures of up to 28 degrees Celsius in summer.", "The Nassfeld ski resort features approximately 110 kilometers of slopes.", "The municipality was officially granted city status in the year 1987.", "Gailtaler Speck has been a protected European brand since 1997.", "The Gail Valley Museum of Local History is located in Möderndorf Castle."],
     },
+    image: "/poi-images/austria-hermagor-cities-v2.webp",
   },
   {
     id: "austria-fehring-cities-v2",
@@ -1569,6 +1617,7 @@ export const austriaCitiesV2: POI[] = [
       ro: ["Prima mențiune documentară a localității Fehring datează din anul 1265.", "Taborul din Fehring cuprinde în total unsprezece căsuțe în interiorul zidurilor de apărare.", "Orașul a primit statutul oficial de oraș în anul 1962.", "Actuala biserică parohială a fost reconstruită în secolul al XVI-lea după incendii repetate.", "Gara din Fehring reprezintă un punct de legătură între căile ferate Ostbahn și Thermenbahn.", "Fehring se află la o altitudine de 272 de metri deasupra nivelului mării."],
       en: ["Fehring was first mentioned in historical records in the year 1265.", "The Fehring Tabor consists of eleven small houses enclosed within its defensive walls.", "The town was formally granted city status in the year 1962.", "The current parish church was rebuilt in the 16th century following major fires.", "Fehring railway station serves as a junction for the Eastern and Thermal Railways.", "Fehring is situated at an elevation of 272 meters above sea level."],
     },
+    image: "/poi-images/austria-fehring-cities-v2.webp",
   },
   {
     id: "austria-gleisdorf-cities-v2",
@@ -1601,5 +1650,6 @@ export const austriaCitiesV2: POI[] = [
       ro: ["Localitatea Gleisdorf a fost menționată oficial pentru prima dată în anul 1229.", "Arborele Solar din centrul orașului a fost instalat în anul 1998.", "Gleisdorf a primit statutul oficial de oraș în anul 1920.", "Biserica parohială neogotică a fost construită între anii 1891 și 1893.", "Orașul este un centru important pentru industria componentelor auto.", "Gleisdorf se află la aproximativ 25 de kilometri est de orașul Graz."],
       en: ["Gleisdorf was first officially documented in the year 1229.", "The Solar Tree in the town center was erected in 1998.", "The municipality was formally granted city status in the year 1920.", "The neo-Gothic parish church was built between 1891 and 1893.", "Gleisdorf is a major site for the automotive supply industry.", "The town is located about 25 kilometers east of the provincial capital Graz."],
     },
+    image: "/poi-images/austria-gleisdorf-cities-v2.webp",
   }
 ];

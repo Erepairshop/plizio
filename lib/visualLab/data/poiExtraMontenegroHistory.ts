@@ -17,7 +17,8 @@ export const montenegroHistoryExtra = ([
       hu: ["Ostrog Szent Vazulnak szentelték.", "A 17. században alapították.", "Csodás gyógyulásokról ismert."],
       ro: ["Dedicată Sfântului Vasile de Ostrog.", "Fondată în secolul al XVII-lea.", "Cunoscută pentru vindecări miraculoase."],
       en: ["Dedicated to Saint Basil of Ostrog.", "Founded in the 17th century.", "Known for miraculous healings."]
-    }
+    },
+    image: "/poi-images/me-ostrog.webp",
   },
   {
     id: "me-our-lady-rocks",

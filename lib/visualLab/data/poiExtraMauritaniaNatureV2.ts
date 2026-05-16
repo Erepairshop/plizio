@@ -31,6 +31,7 @@ export const mauritaniaNatureV2: POI[] = [
       ro: ["Altitudine medie de 400-500 de metri", "Locul multor artefacte neolitice", "Găzduiește situl UNESCO Chinguetti", "Compus în principal din gresie", "Centrul industriei turismului din Mauritania", "Cunoscut pentru fenomenul Structura Richat"],
       en: ["Average altitude of 400-500 meters", "Site of numerous Neolithic artifacts", "Home to UNESCO World Heritage site Chinguetti", "Composed mainly of sandstone", "Hub of the Mauritanian tourism industry", "Known for the nearby Richat Structure phenomenon"],
     },
+    image: "/poi-images/mauritania-adrar-plateau-nature-v2.webp",
   },
   {
     id: "mauritania-banc-darguin-coast-nature-v2",
@@ -62,6 +63,7 @@ export const mauritaniaNatureV2: POI[] = [
       ro: ["Parcul Național a fost fondat în 1976", "Suprafață totală de cca. 12.000 km pătrați", "Zonă de protecție pentru țestoasele verzi", "Cea mai mare concentrare de pește din Africa de Vest", "Cea mai importantă oprire pentru păsările migratoare", "Nicio navă modernă de pescuit nu este permisă"],
       en: ["National Park established in 1976", "Total area of approx. 12,000 square kilometers", "Sanctuary for green sea turtles", "Largest concentration of fish in West Africa", "Key stopover for Palearctic migratory birds", "No modern fishing vessels allowed in the park"],
     },
+    image: "/poi-images/mauritania-banc-darguin-coast-nature-v2.webp",
   },
   {
     id: "mauritania-guelta-deli-nature-v2",
@@ -93,6 +95,7 @@ export const mauritaniaNatureV2: POI[] = [
       ro: ["Situată în regiunea Adrar", "Refugiu ecologic important", "Susține șeptelul local", "Se află într-un defileu stâncos", "Parte a rețelei nomade tradiționale", "Nivelul apei variază sezonier"],
       en: ["Located in the Adrar region", "Important ecological refuge", "Supports local livestock", "Situated within a rocky gorge", "Part of traditional nomad networks", "Water levels vary seasonally"],
     },
+    image: "/poi-images/mauritania-guelta-deli-nature-v2.webp",
   },
   {
     id: "mauritania-el-beyed-crater-nature-v2",
@@ -124,6 +127,7 @@ export const mauritaniaNatureV2: POI[] = [
       ro: ["Situl uneltelor de piatră acheuleene", "Situat în podișul Adrar", "Nu are origine vulcanică", "Descoperiri de peste 200.000 ani", "Esențial pentru studiul Saharei", "Structură circulară plană"],
       en: ["Site of Acheulean stone tools", "Located on the Adrar Plateau", "Not of volcanic origin", "Finds date back over 200,000 years", "Crucial for Saharan research", "Flat, circular structure"],
     },
+    image: "/poi-images/mauritania-el-beyed-crater-nature-v2.webp",
   },
   {
     id: "mauritania-dhar-tichitt-escarpment-nature-v2",
@@ -155,6 +159,7 @@ export const mauritaniaNatureV2: POI[] = [
       ro: ["Patrimoniu UNESCO din 1996", "Parte din lanțul Dhar Tichitt-Walata", "Așezări din 2000 î.Hr.", "Construcții din piatră uscată", "Fostă zonă fertilă", "Poziție strategică defensivă"],
       en: ["UNESCO World Heritage since 1996", "Part of Dhar Tichitt-Walata chain", "Settlements from 2000 BC", "Dry-stone wall constructions", "Formerly a fertile area", "Strategic defensive location"],
     },
+    image: "/poi-images/mauritania-dhar-tichitt-escarpment-nature-v2.webp",
   },
   {
     id: "mauritania-ayoun-el-atrous-valley-nature-v2",
@@ -186,6 +191,7 @@ export const mauritaniaNatureV2: POI[] = [
       ro: ["Capitala Hodh El Gharbi", "Punct important pe Route de l'Espoir", "Caracterizată prin roci de cuarțit", "Altitudine de aproximativ 260 m", "Furtuni de nisip frecvente primăvara", "Bază tradițională pentru caravane"],
       en: ["Capital of Hodh El Gharbi", "Key stop on the Route de l'Espoir", "Characterized by quartzite rocks", "Elevation approx. 260 meters", "Sandstorms common in spring", "Traditional caravan base"],
     },
+    image: "/poi-images/mauritania-ayoun-el-atrous-valley-nature-v2.webp",
   },
   {
     id: "mauritania-terjit-oasis-gorge-nature-v2",
@@ -217,6 +223,7 @@ export const mauritaniaNatureV2: POI[] = [
       ro: ["Situată la 45 km sud de Atar", "Dispune de izvoare calde", "Loc tradițional pentru nunți", "Oferă refugiu împotriva căldurii", "Pârâuri care curg din stâncă", "Destinație turistică populară"],
       en: ["Located 45 km south of Atar", "Features warm natural springs", "Traditional site for weddings", "Provides relief from desert heat", "Streams flow directly from rocks", "Popular tourist destination"],
     },
+    image: "/poi-images/mauritania-terjit-oasis-gorge-nature-v2.webp",
   },
   {
     id: "mauritania-cap-tafarit-nature-v2",
@@ -248,6 +255,7 @@ export const mauritaniaNatureV2: POI[] = [
       ro: ["Parte din Parcul Banc d'Arguin", "Cunoscut pentru fosile", "Ideal pentru pescuit și camping", "Adăpostește numeroase păsări marine", "Faleze de gresie la ocean", "Regiune protejată de UNESCO"],
       en: ["Part of Banc d'Arguin Park", "Known for fossil discoveries", "Ideal for fishing and camping", "Home to many seabirds", "Sandstone cliffs at the ocean", "UNESCO-protected region"],
     },
+    image: "/poi-images/mauritania-cap-tafarit-nature-v2.webp",
   },
   {
     id: "mauritania-ouane-lake-nature-v2",
@@ -279,6 +287,7 @@ export const mauritaniaNatureV2: POI[] = [
       ro: ["Lac temporar de deșert", "Se transformă în câmpie sărată", "Locație extrem de izolată", "Important pentru hidrologie", "Se formează cruste de sare la secare", "Vegetație aproape inexistentă"],
       en: ["Temporary desert water body", "Transforms into a salt flat", "Extremely isolated location", "Important for hydrology studies", "Salt crusts form during drying", "Very little vegetation around it"],
     },
+    image: "/poi-images/mauritania-ouane-lake-nature-v2.webp",
   },
   {
     id: "mauritania-idjil-mountain-nature-v2",
@@ -310,6 +319,7 @@ export const mauritaniaNatureV2: POI[] = [
       ro: ["Cel mai înalt vârf (915m)", "Format din rocă magnetită", "Lângă orașul Zouérat", "Perturbă acele busolelor", "Principala zonă de minereu de fier", "Punct de plecare pentru trenul deșertului"],
       en: ["Highest point in Mauritania (915m)", "Composed of magnetite rock", "Near the town of Zouérat", "Disturbs magnetic compasses", "Primary iron ore deposit", "Starting point of the desert train"],
     },
+    image: "/poi-images/mauritania-idjil-mountain-nature-v2.webp",
   },
   {
     id: "mauritania-oued-el-abiadh-nature-v2",
@@ -341,6 +351,7 @@ export const mauritaniaNatureV2: POI[] = [
       ro: ["Numele înseamnă 'Valea Albă'", "Parte din Erg Amatlich", "Cunoscută pentru dune înalte", "Populară pentru trekking", "Situată în regiunea Adrar", "Conține pășuni sezoniere"],
       en: ["Name means 'White Valley'", "Part of the Erg Amatlich", "Known for high sand dunes", "Popular for desert trekking", "Located in the Adrar region", "Contains seasonal pastures"],
     },
+    image: "/poi-images/mauritania-oued-el-abiadh-nature-v2.webp",
   },
   {
     id: "mauritania-erg-ouarane-nature-v2",
@@ -372,6 +383,7 @@ export const mauritaniaNatureV2: POI[] = [
       ro: ["Zonă vastă de dune de nisip", "Se întinde pe sute de kilometri", "Leagă Chinguetti de Ouadane", "Format din nisip cuarțos fin", "Schimbare constantă datorită vântului", "Îngreunează deplasarea"],
       en: ["Large sand dune field", "Stretches for hundreds of kilometers", "Connects Chinguetti and Ouadane", "Composed of fine quartz sand", "Constantly reshaped by wind", "Makes travel difficult"],
     },
+    image: "/poi-images/mauritania-erg-ouarane-nature-v2.webp",
   },
   {
     id: "mauritania-dhar-chinguetti-nature-v2",
@@ -403,6 +415,7 @@ export const mauritaniaNatureV2: POI[] = [
       ro: ["Podiș de gresie în Adrar", "Protejează orașul Chinguetti", "Situl unor arte preistorice", "Parte din mediul UNESCO", "Formațiuni de faleze abrupte", "Vedere spre marea de dune"],
       en: ["Sandstone plateau in Adrar", "Protects the city of Chinguetti", "Site of prehistoric rock art", "Part of the UNESCO buffer zone", "Steep cliff formations", "Overlooks the sea of dunes"],
     },
+    image: "/poi-images/mauritania-dhar-chinguetti-nature-v2.webp",
   },
   {
     id: "mauritania-sebkha-el-driaya-nature-v2",
@@ -434,6 +447,7 @@ export const mauritaniaNatureV2: POI[] = [
       ro: ["Câmpie sărată mare (sebkha)", "Situată în Tiris Zemmour", "Suprafață cu crustă de sare dură", "Formată prin evaporare", "Pustiul fără vegetație", "Structură geologică de bazin"],
       en: ["Large salt flat (sebkha)", "Located in Tiris Zemmour", "Hard salt crust surface", "Formed by evaporation", "Vegetation-free wasteland", "Geological basin structure"],
     },
+    image: "/poi-images/mauritania-sebkha-el-driaya-nature-v2.webp",
   },
   {
     id: "mauritania-oued-el-abiod-valley-nature-v2",
@@ -465,6 +479,7 @@ export const mauritaniaNatureV2: POI[] = [
       ro: ["Vale uscată în masivul Adrar", "Debit de apă sezonier", "Rută importantă pentru caravane", "Înconjurată de stânci de gresie", "Susține viața nomadă", "Altitudine variabilă"],
       en: ["Dry valley in the Adrar massif", "Seasonal water flow", "Significant caravan route", "Surrounded by sandstone rocks", "Supports nomadic lifestyle", "Variable elevation"],
     },
+    image: "/poi-images/mauritania-oued-el-abiod-valley-nature-v2.webp",
   },
   {
     id: "mauritania-tidjikja-gorge-nature-v2",
@@ -496,6 +511,7 @@ export const mauritaniaNatureV2: POI[] = [
       ro: ["Fondat în anul 1680", "Centru de producție a curmalelor", "Situat în podișul Tagant", "Cunoscut pentru arhitectura în piatră", "Centru religios important", "Deține biblioteci antice"],
       en: ["Founded in the year 1680", "Center for date production", "Located in the Tagant Plateau", "Known for stone architecture", "Important religious center", "Home to ancient libraries"],
     },
+    image: "/poi-images/mauritania-tidjikja-gorge-nature-v2.webp",
   },
   {
     id: "mauritania-oued-oualata-nature-v2",
@@ -527,6 +543,7 @@ export const mauritaniaNatureV2: POI[] = [
       ro: ["Lângă orașul UNESCO Oualata", "Nod comercial istoric", "Cunoscut pentru picturi murale", "Situat în Hodh Ech Chargui", "Parte din falezele Dhar Oualata", "A devenit important în sec. XI"],
       en: ["Near the UNESCO city of Oualata", "Historic trading hub", "Known for wall paintings", "Located in Hodh Ech Chargui", "Part of the Dhar Oualata cliffs", "Became prominent in the 11th century"],
     },
+    image: "/poi-images/mauritania-oued-oualata-nature-v2.webp",
   },
   {
     id: "mauritania-dune-de-azefal-nature-v2",
@@ -558,6 +575,7 @@ export const mauritaniaNatureV2: POI[] = [
       ro: ["Situată în regiunea strategică a platoului Adrar", "Parte a sistemului extins al deșertului Sahara", "Înălțimea dunelor poate atinge 50-100 de metri", "Vânturile predominante din nord-est modelează forma", "Coridor important pentru rutele istorice ale caravanelor", "Adăpostește specii de plante xerofite specializate"],
       en: ["Located in the strategic Adrar Plateau region", "Part of the extensive Sahara Desert system", "Dune heights often reach between 50 and 100 meters", "Prevailing northeast winds shape the formation", "Important corridor for historical caravan routes", "Supports specialized xerophytic plant species"],
     },
+    image: "/poi-images/mauritania-dune-de-azefal-nature-v2.webp",
   },
   {
     id: "mauritania-oued-chegga-nature-v2",
@@ -589,6 +607,7 @@ export const mauritaniaNatureV2: POI[] = [
       ro: ["Situat în districtul Tiris Zemmour", "Aproape de granița triplă dintre Mauritania, Mali și Algeria", "Altitudinea deasupra nivelului mării este de circa 400 m", "Fost punct de oprire important pentru caravanele de sare", "Găzduiește o bază militară izolată a armatei", "Precipitațiile anuale sunt adesea sub 20 mm"],
       en: ["Located within the Tiris Zemmour District", "Near the tripoint of Mauritania, Mali, and Algeria", "Elevation is approximately 400 meters above sea level", "Former key stop for trans-Saharan salt caravans", "Home to a remote military outpost of the army", "Annual rainfall often remains below 20 mm"],
     },
+    image: "/poi-images/mauritania-oued-chegga-nature-v2.webp",
   },
   {
     id: "mauritania-erg-in-chich-nature-v2",
@@ -620,6 +639,7 @@ export const mauritaniaNatureV2: POI[] = [
       ro: ["Acoperă o suprafață de câteva mii de km²", "Dunele pot atinge înălțimi de peste 150 de metri", "Considerată o zonă hiper-aridă ostilă vieții", "Zonă importantă de cercetare pentru geomorfologia eoliană", "Parte a marilor bazine vestice ale Saharei", "Aproape nicio așezare umană permanentă în zonă"],
       en: ["Covers an area of several thousand square kilometers", "Dunes can reach heights exceeding 150 meters", "Classified as a hyper-arid zone hostile to life", "Important area for studying aeolian geomorphology", "Part of the major western Saharan basins", "Contains almost no permanent human settlements"],
     },
+    image: "/poi-images/mauritania-erg-in-chich-nature-v2.webp",
   },
   {
     id: "mauritania-tagant-gorge-nature-v2",
@@ -651,6 +671,7 @@ export const mauritaniaNatureV2: POI[] = [
       ro: ["Face parte din platoul de gresie Tagant", "Găzduiește celebra Guelta d'Matmata", "Ultimul refugiu pentru crocodilii de deșert din regiune", "Picturile rupestre atestă locuirea preistorică", "Procesele de eroziune au format cheile de-a lungul mileniilor", "Loc important pentru transhumanța locală"],
       en: ["Part of the sandstone Tagant Plateau system", "Home to the famous Guelta d'Matmata", "Last refuge for West African crocodiles in the region", "Rock paintings prove prehistoric human habitation", "Erosion processes shaped the gorge over millions of years", "Critical location for local livestock herding"],
     },
+    image: "/poi-images/mauritania-tagant-gorge-nature-v2.webp",
   },
   {
     id: "mauritania-dhar-oawalata-nature-v2",
@@ -682,6 +703,7 @@ export const mauritaniaNatureV2: POI[] = [
       ro: ["Parte a regiunii Oualata, inclusă în patrimoniul UNESCO", "Compus în principal din roci sedimentare", "A servit ca zid de apărare pentru satele vechi", "Loc de descoperire pentru numeroase unelte neolitice", "Oferă o vedere panoramică asupra bazinului Hodh", "Repere esențial pentru caravanele care se îndreptau spre Mali"],
       en: ["Part of the UNESCO World Heritage region of Oualata", "Composed mainly of sedimentary sandstone rock", "Served as a defensive rampart for ancient villages", "Site of discovery for numerous Neolithic tools", "Provides extensive views over the Hodh Basin", "Crucial landmark for caravans traveling to Mali"],
     },
+    image: "/poi-images/mauritania-dhar-oawalata-nature-v2.webp",
   },
   {
     id: "mauritania-oued-el-mya-nature-v2",
@@ -713,6 +735,7 @@ export const mauritaniaNatureV2: POI[] = [
       ro: ["Drenează părți ale masivului Adrar", "Sursă importantă de apă subterană pentru puțurile din zonă", "Prezintă apă la suprafață doar după furtuni severe", "Eroziunea a creat canale adânci în roca dură", "Locație preferată pentru arborii de acacia", "Servește ca rută naturală prin terenul accidentat"],
       en: ["Drains portions of the Adrar Massif", "Key aquifer source for nearby desert wells", "Carries surface water only after heavy thunderstorms", "Erosion has carved deep channels into the hard rock", "Preferred habitat for indigenous acacia trees", "Acts as a natural route through rugged terrain"],
     },
+    image: "/poi-images/mauritania-oued-el-mya-nature-v2.webp",
   },
   {
     id: "mauritania-sebkha-de-tidjikja-nature-v2",
@@ -744,6 +767,7 @@ export const mauritaniaNatureV2: POI[] = [
       ro: ["Situată la o altitudine de aproximativ 400 de metri", "Formată prin evaporare într-un bazin endoreic", "Loc important pentru cultivarea curmalilor în zonele limitrofe", "Solul este bogat în clorură de sodiu și gips", "Servește ca loc de popas temporar pentru păsările migratoare", "Influențează microclimatul local al oazei Tidjikja"],
       en: ["Located at an elevation of approximately 400 meters", "Formed through evaporation in an endorheic basin", "Surrounding areas are critical for date palm cultivation", "Soil is rich in sodium chloride and gypsum deposits", "Acts as a temporary resting spot for migratory birds", "Influences the local microclimate of the Tidjikja oasis"],
     },
+    image: "/poi-images/mauritania-sebkha-de-tidjikja-nature-v2.webp",
   },
   {
     id: "mauritania-erg-de-la-guelta-nature-v2",
@@ -775,6 +799,7 @@ export const mauritaniaNatureV2: POI[] = [
       ro: ["Numele derivă din cuvântul arab pentru punct de apă", "Dunele sunt adesea stabilizate de umiditate", "Oferă habitat pentru gazelele de deșert", "Loc de întâlnire important pentru comerțul cu vite", "Adesea sit de descoperire a fragmentelor ceramice preistorice", "Vegetația constă în principal din Calotropis procera"],
       en: ["Name is derived from the Arabic word for water hole", "Dunes are often stabilized by underlying moisture", "Provides a habitat for various desert gazelle species", "Acts as a key meeting point for livestock trading", "Frequently contains prehistoric ceramic fragments", "Vegetation primarily consists of Calotropis procera"],
     },
+    image: "/poi-images/mauritania-erg-de-la-guelta-nature-v2.webp",
   },
   {
     id: "mauritania-dune-de-terjit-nature-v2",
@@ -806,6 +831,7 @@ export const mauritaniaNatureV2: POI[] = [
       ro: ["Situată la aproximativ 45 km sud de Atar", "Parte a principalei rute turistice din Adrar", "Oferă protecție împotriva vânturilor fierbinți ale deșertului", "În apropiere se află izvoare termale naturale", "Loc tradițional pentru ceremoniile de nuntă ale localnicilor", "Creasta dunii are o înălțime de peste 30 de metri"],
       en: ["Located about 45 km south of the town of Atar", "Part of the primary tourist circuit in the Adrar region", "Provides shelter from hot Saharan desert winds", "Nearby natural thermal springs emerge from the rocks", "Traditional site for local wedding ceremonies", "Dune crest stands over 30 meters high"],
     },
+    image: "/poi-images/mauritania-dune-de-terjit-nature-v2.webp",
   },
   {
     id: "mauritania-oued-taoudenni-nature-v2",
@@ -837,6 +863,7 @@ export const mauritaniaNatureV2: POI[] = [
       ro: ["Traversează regiunea Majabat al-Koubra", "Anterior numită 'Cartierul gol' al Africii", "Ruta principală pentru caravanele de sare Azalaï", "Conține rezerve de apă fosilă la adâncimi mari", "Temperaturile pot depăși 50 °C în timpul verii", "Solul este compus din deșert de tip reg și nisip"],
       en: ["Traverses the remote Majabat al-Koubra region", "Formerly called the 'Empty Quarter' of Africa", "Primary route for the historic Azalaï salt caravans", "Contains fossil water reserves at significant depths", "Temperatures can exceed 50 °C during summer months", "Surface consists of hard reg desert and shifting sand"],
     },
+    image: "/poi-images/mauritania-oued-taoudenni-nature-v2.webp",
   },
   {
     id: "mauritania-dune-du-cap-blanc-nature-v2",
@@ -868,5 +895,6 @@ export const mauritaniaNatureV2: POI[] = [
       ro: ["Situată la granița dintre Mauritania și Sahara Occidentală", "Găzduiește centrul de monitorizare pentru focile monah", "Linia de coastă este marcată de curenți puternici", "Loc important pentru pescuitul industrial din regiune", "Dunele sunt compuse din nisip de cuarț foarte deschis", "Parte a unei rezervații naturale strict protejate"],
       en: ["Located on the border of Mauritania and Western Sahara", "Home to a satellite center for monk seal conservation", "The coastline is characterized by powerful currents", "Critical area for the region's industrial fishing", "Dunes consist of very light, fine-grained quartz sand", "Part of a strictly protected maritime nature reserve"],
     },
+    image: "/poi-images/mauritania-dune-du-cap-blanc-nature-v2.webp",
   }
 ];

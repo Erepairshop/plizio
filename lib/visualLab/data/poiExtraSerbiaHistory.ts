@@ -29,7 +29,8 @@ export const serbiaPoiExtraHistory = ([
       hu: ["Eredetileg római castrumként épült a 2. században.", "Az oszmán és osztrák-magyar konfliktusok során számos alkalommal elpusztult és újjáépült.", "Ma múzeumoknak, állatkertnek ad otthont, és lenyűgöző kilátást nyújt a folyóra."],
       ro: ["Construită inițial ca un castrum roman în secolul al II-lea.", "A fost distrusă și reconstruită de numeroase ori în timpul conflictelor otomane și austro-ungare.", "Astăzi găzduiește muzee, o grădină zoologică și oferă vederi uimitoare la râu."],
       en: ["Originally built as a Roman castrum in the 2nd century.", "It was destroyed and rebuilt numerous times during Ottoman and Austro-Hungarian conflicts.", "Today it hosts museums, a zoo, and offers stunning river views."]
-    }
+    },
+    image: "/poi-images/castle-kalemegdan.webp",
   },
   {
     id: "castle-petrovaradin",
@@ -203,7 +204,8 @@ export const serbiaPoiExtraHistory = ([
       hu: ["Milica hercegnő alapította 1388-ban, közvetlenül a rigómezei csata előtt.", "Milica hercegnő apáca lett, és élete hátralévő részét itt töltötte.", "A templom jellegzetes, bonyolult kőfaragásokkal és rozetta ablakokkal büszkélkedhet."],
       ro: ["Fondată de Prințesa Milica în 1388, chiar înainte de Bătălia de la Kosovo.", "Prințesa Milica a devenit călugăriță și și-a petrecut restul vieții aici.", "Biserica se remarcă prin sculpturile complexe în piatră și ferestrele în formă de rozetă."],
       en: ["Founded by Princess Milica in 1388, just before the Battle of Kosovo.", "Princess Milica became a nun and spent the rest of her life here.", "The church features distinctive intricate stone carvings and rosette windows."]
-    }
+    },
+    image: "/poi-images/church-ljubostinja.webp",
   },
   {
     id: "monument-oplenac",
@@ -249,7 +251,8 @@ export const serbiaPoiExtraHistory = ([
         ro: ["Locul istoric de încoronare a regilor Serbiei medievale", "Sediul primului arhiepiscop al Serbiei", "Culoare roșie distinctivă simbolizând puterea regală", "Un monument esențial al statalității sârbe", "Păstrează fresce și moștenire religioasă valoroasă", "Un centru istoric de o importanță capitală"], 
         en: ["Historic site where the kings of medieval Serbia were crowned.", "Served as the seat of the first Archbishop of Serbia.", "Distinctive red exterior symbolizes royal power.", "Essential monument for the understanding of Serbian statehood.", "Preserves valuable frescoes and a significant religious heritage.", "Functions as a historic site of capital importance in national history."] 
     },
-    factsAdvancedEn: ["Historic site where the kings of medieval Serbia were crowned.", "Served as the seat of the first Archbishop of Serbia.", "Distinctive red exterior symbolizes royal power.", "Essential monument for the understanding of Serbian statehood.", "Preserves valuable frescoes and a significant religious heritage.", "Functions as a historic site of capital importance in national history."]
+    factsAdvancedEn: ["Historic site where the kings of medieval Serbia were crowned.", "Served as the seat of the first Archbishop of Serbia.", "Distinctive red exterior symbolizes royal power.", "Essential monument for the understanding of Serbian statehood.", "Preserves valuable frescoes and a significant religious heritage.", "Functions as a historic site of capital importance in national history."],
+    image: "/poi-images/church-zica.webp",
   },
   {
     id: "historical-manasija",
@@ -266,7 +269,8 @@ export const serbiaPoiExtraHistory = ([
         ro: ["Fondată de despotul Stefan Lazarević în 1407", "Cetate monastică protejată de 11 turnuri masive", "Sediul școlii literare Resava", "Monument de o valoare inestimabilă pentru cultura sârbă", "Fresce valoroase de o frumusețe rară", "Un punct de atracție istorică și culturală major"], 
         en: ["Founded by Despot Stefan Lazarević in 1407.", "Monastic fortress protected by 11 massive defensive towers.", "Served as the seat of the influential Resava literary school.", "Monument of immeasurable value for Serbian cultural heritage.", "Houses valuable frescoes renowned for their rare beauty.", "Acts as a major point of interest for historical and cultural tourism."] 
     },
-    factsAdvancedEn: ["Founded by Despot Stefan Lazarević in 1407.", "Monastic fortress protected by 11 massive defensive towers.", "Served as the seat of the influential Resava literary school.", "Monument of immeasurable value for Serbian cultural heritage.", "Houses valuable frescoes renowned for their rare beauty.", "Acts as a major point of interest for historical and cultural tourism."]
+    factsAdvancedEn: ["Founded by Despot Stefan Lazarević in 1407.", "Monastic fortress protected by 11 massive defensive towers.", "Served as the seat of the influential Resava literary school.", "Monument of immeasurable value for Serbian cultural heritage.", "Houses valuable frescoes renowned for their rare beauty.", "Acts as a major point of interest for historical and cultural tourism."],
+    image: "/poi-images/historical-manasija.webp",
   }
 ] as unknown as POI[]);
 

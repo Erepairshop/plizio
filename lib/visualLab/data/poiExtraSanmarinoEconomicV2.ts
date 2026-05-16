@@ -32,6 +32,7 @@ export const sanmarinoEconomicV2: POI[] = [
       ro: ["Parcul industrial Rovereta se întinde pe 500.000 de metri pătrați.", "Peste 40 de companii activează în Rovereta.", "Numărul angajaților este de aproximativ 3.000.", "Rovereta a fost fondată în anii 1960.", "Exporturile anuale ale San Marino depășesc 2 miliarde de euro.", "Companiile din Rovereta contribuie cu circa 20% la PIB-ul țării."],
       en: ["Rovereta Industrial Park covers 500,000 square meters.", "Over 40 companies are based in Rovereta.", "The park employs approximately 3,000 workers.", "Rovereta was established in the 1960s.", "San Marino's annual exports exceed 2 billion euros.", "Companies in Rovereta generate about 20% of the country's GDP."],
     },
+    image: "/poi-images/sanmarino-rovereta-industrial-hub-economic-v2.webp",
   },
   {
     id: "sanmarino-domagnano-business-park-economic-v2",
@@ -64,6 +65,7 @@ export const sanmarinoEconomicV2: POI[] = [
       ro: ["Parcul de Afaceri Domagnano are 150.000 de metri pătrați.", "Peste 30 de companii sunt localizate aici.", "80% din suprafață este utilizată în scop comercial.", "Parcul a fost fondat în anii 1990.", "Productivitatea per muncitor în San Marino este de aproximativ 80.000 de euro.", "Parcul oferă stagii pentru studenții Universității din San Marino."],
       en: ["Domagnano Business Park covers 150,000 square meters.", "Over 30 companies are based there.", "80% of the area is used for commercial purposes.", "The park was founded in the 1990s.", "Productivity per worker in San Marino is around 80,000 euros.", "The park provides internship opportunities for University of San Marino students."],
     },
+    image: "/poi-images/sanmarino-domagnano-business-park-economic-v2.webp",
   },
   {
     id: "sanmarino-faetano-agricultural-center-economic-v2",
@@ -96,6 +98,7 @@ export const sanmarinoEconomicV2: POI[] = [
       ro: ["Centrul cuprinde 200 de hectare de teren arabil.", "Producția anuală de ulei de măsline: 500 de tone.", "Producția anuală de vin: 1.000 de tone.", "Angajează 150 de muncitori.", "San Marino acoperă 30% din necesarul alimentar intern.", "Centrul a fost fondat în anii 1980."],
       en: ["The center covers 200 hectares of farmland.", "Annual olive oil production: 500 tons.", "Annual wine production: 1,000 tons.", "It employs 150 workers.", "San Marino covers 30% of its food needs domestically.", "The center was founded in the 1980s."],
     },
+    image: "/poi-images/sanmarino-faetano-agricultural-center-economic-v2.webp",
   },
   {
     id: "sanmarino-chiesanuova-craft-district-economic-v2",
@@ -128,6 +131,7 @@ export const sanmarinoEconomicV2: POI[] = [
       ro: ["Districtul are 30.000 de metri pătrați.", "Peste 25 de ateliere sunt active.", "10.000 de turiști îl vizitează anual.", "Districtul a fost fondat în 2005.", "Venitul anual: circa 5 milioane de euro.", "Membru al rețelei europene de cartiere meșteșugărești."],
       en: ["The district covers 30,000 square meters.", "Over 25 workshops are located there.", "10,000 tourists visit annually.", "The district was founded in 2005.", "Annual revenue: around 5 million euros.", "Member of the European craft district network."],
     },
+    image: "/poi-images/sanmarino-chiesanuova-craft-district-economic-v2.webp",
   },
   {
     id: "sanmarino-serravalle-trade-hub-economic-v2",
@@ -160,6 +164,7 @@ export const sanmarinoEconomicV2: POI[] = [
       ro: ["Suprafața de vânzare: 200.000 de metri pătrați.", "50 de magazine și 4 centre comerciale.", "Tranzacții anuale: 300 de milioane de euro.", "Angajează direct 2.000 de persoane.", "15.000 de clienți zilnic.", "Dezvoltare începând cu anii 1970."],
       en: ["Sales area: 200,000 square meters.", "50 shops and 4 shopping malls.", "Annual goods turnover: 300 million euros.", "Directly employs 2,000 people.", "15,000 daily customers.", "Development from the 1970s."],
     },
+    image: "/poi-images/sanmarino-serravalle-trade-hub-economic-v2.webp",
   },
   {
     id: "sanmarino-acquaviva-logistics-zone-economic-v2",
@@ -192,6 +197,7 @@ export const sanmarinoEconomicV2: POI[] = [
       ro: ["100.000 de metri pătrați de spațiu de depozitare.", "Deschis în 2010.", "500.000 de tone de marfă manipulate anual.", "500 de angajați.", "Conexiune la autostrada A14.", "Parte a strategiei naționale de logistică."],
       en: ["100,000 square meters of storage space.", "Opened in 2010.", "500,000 tons of freight handled annually.", "500 employees.", "Connection to the A14 motorway.", "Part of the national logistics strategy."],
     },
+    image: "/poi-images/sanmarino-acquaviva-logistics-zone-economic-v2.webp",
   },
   {
     id: "sanmarino-montegiardino-forestry-economic-v2",
@@ -224,6 +230,7 @@ export const sanmarinoEconomicV2: POI[] = [
       ro: ["Administrează 300 de hectare de pădure.", "Producția anuală de lemn: 2.000 de metri cubi.", "Angajează 40 de pădurari.", "Fondat în 1995.", "60% din suprafața comunei este acoperită de pădure.", "Certificat FSC."],
       en: ["Manages 300 hectares of forest.", "Annual timber production: 2,000 cubic meters.", "Employs 40 foresters.", "Founded in 1995.", "60% of municipal area is forested.", "FSC certified."],
     },
+    image: "/poi-images/sanmarino-montegiardino-forestry-economic-v2.webp",
   },
   {
     id: "sanmarino-borgo-maggiore-service-hub-economic-v2",
@@ -256,6 +263,7 @@ export const sanmarinoEconomicV2: POI[] = [
       ro: ["50.000 de metri pătrați de suprafață utilă.", "20 de companii sunt localizate.", "800 de angajați.", "Deschis în 2008.", "15 metri pătrați de birou per angajat.", "Se concentrează pe servicii financiare."],
       en: ["50,000 square meters of floor space.", "20 companies based there.", "800 employees.", "Opened in 2008.", "15 square meters of office space per employee.", "Focus on financial services."],
     },
+    image: "/poi-images/sanmarino-borgo-maggiore-service-hub-economic-v2.webp",
   },
   {
     id: "sanmarino-fiorentino-manufacturing-cluster-economic-v2",
@@ -288,5 +296,6 @@ export const sanmarinoEconomicV2: POI[] = [
       ro: ["80.000 de metri pătrați de suprafață de producție.", "15 companii în cluster.", "70% rată de export.", "1.200 de angajați în total.", "Fondat în 1985.", "Vechimea medie a angajaților: 12 ani."],
       en: ["80,000 square meters of production area.", "15 companies in the cluster.", "70% export rate.", "1,200 total employees.", "Founded in 1985.", "Average employee tenure: 12 years."],
     },
+    image: "/poi-images/sanmarino-fiorentino-manufacturing-cluster-economic-v2.webp",
   }
 ];

@@ -31,6 +31,7 @@ export const marshallislandsLifeV2: POI[] = [
       ro: ["Unul dintre cei mai mici atoli din Insulele Marshall", "Locul principal de cuibărit pentru țestoasa verde", "Găzduiește colonii mari de corbi de mare cu picioare roșii", "Nu există neresurse permanente de apă dulce", "Laguna este aproape complet închisă de recif", "Tradițional o zonă protejată (Mo) de către căpeteniile locale"],
       en: ["One of the smallest atolls in the Marshall Islands", "Primary nesting ground for the green sea turtle (Chelonia mydas)", "Home to large colonies of red-footed boobies", "Lacks any permanent sources of fresh water", "The lagoon is almost entirely enclosed by the reef", "Traditionally designated as a protected area (Mo) by local chiefs"],
     },
+    image: "/poi-images/marshallislands-bikar-atoll-life-v2.webp",
   },
   {
     id: "marshallislands-bokak-atoll-life-v2",
@@ -62,6 +63,7 @@ export const marshallislandsLifeV2: POI[] = [
       ro: ["Cel mai nordic punct al Republicii Insulelor Marshall", "Prezența unor plante rare precum Pisonia grandis", "Loc de cuibărit pentru peste 20 de specii diferite de păsări", "Ecosistem unic, lipsit de rozătoare invazive", "Laguna se află la aproximativ 1 metru deasupra nivelului mării", "Schimbul limitat de apă duce la o salinitate ridicată"],
       en: ["Northernmost point of the Republic of the Marshall Islands", "Presence of rare plants such as the Pisonia grandis", "Breeding ground for over 20 different species of birds", "Unique ecosystem characterized by the absence of invasive rodents", "The lagoon surface is about 1 meter above sea level", "Limited water exchange leads to higher lagoon salinity"],
     },
+    image: "/poi-images/marshallislands-bokak-atoll-life-v2.webp",
   },
   {
     id: "marshallislands-ailinginae-atoll-life-v2",
@@ -93,6 +95,7 @@ export const marshallislandsLifeV2: POI[] = [
       ro: ["Evacuarea populației a avut loc pe 3 martie 1954", "Format din 25 de insule mici (motu)", "Parte a procesului de nominalizare UNESCO pentru situri nucleare", "Populații bogate de scoici gigant în lagună", "Punct important de tranzit pentru populațiile de rechini-balenă", "Suprafața terestră totală este de doar aproximativ 2,8 km pătrați"],
       en: ["Evacuation of the resident population on March 3, 1954", "Comprised of 25 small islets (motus)", "Part of the World Heritage nomination process for nuclear sites", "Abundant populations of giant clams (Tridacna) in the lagoon", "Key transit point for migratory whale shark populations", "Total land area is only approximately 2.8 square kilometers"],
     },
+    image: "/poi-images/marshallislands-ailinginae-atoll-life-v2.webp",
   },
   {
     id: "marshallislands-jemo-island-life-v2",
@@ -124,6 +127,7 @@ export const marshallislandsLifeV2: POI[] = [
       ro: ["Suprafață totală de doar 0,16 kilometri pătrați", "Parte a lanțului estic Ratak al insulelor", "Proprietate privată a marilor șefi din Ratak", "Zonă critică de reproducere pentru țestoasa verde", "Accesibilă doar cu barca în condiții de mare calmă", "Nu există așezări umane permanente pe insulă"],
       en: ["Land area of only 0.16 square kilometers", "Part of the eastern Ratak Chain of islands", "Private property of the High Chiefs of Ratak", "Crucial nesting ground for green sea turtles", "Accessible only by boat during calm sea conditions", "No permanent human settlement or infrastructure"],
     },
+    image: "/poi-images/marshallislands-jemo-island-life-v2.webp",
   },
   {
     id: "marshallislands-erikub-atoll-life-v2",
@@ -155,6 +159,7 @@ export const marshallislandsLifeV2: POI[] = [
       ro: ["Compus dintr-un total de 14 insule individuale", "Suprafața terestră totală este de 1,53 kilometri pătrați", "Laguna centrală ocupă 230 de kilometri pătrați", "Aparține lanțului Ratak al Insulelor Marshall", "Zonă naturală nelocuită pentru fauna marină", "Loc de cuibărit frecvent pentru țestoasele marine"],
       en: ["Comprises a total of 14 individual islands", "Total land area is 1.53 square kilometers", "The central lagoon covers 230 square kilometers", "Belongs to the Ratak Chain of the Marshall Islands", "Uninhabited natural sanctuary for marine life", "Frequent nesting site for marine turtles"],
     },
+    image: "/poi-images/marshallislands-erikub-atoll-life-v2.webp",
   },
   {
     id: "marshallislands-taka-atoll-life-v2",
@@ -186,6 +191,7 @@ export const marshallislandsLifeV2: POI[] = [
       ro: ["Format din 6 insule de dimensiuni mici", "Suprafața terestră este de aproximativ 0,57 km pătrați", "Suprafața lagunei este de circa 93 km pătrați", "Situat în partea de nord a lanțului Ratak", "Habitat important pentru chirghița funinginoasă", "Vizitat de locuitorii din Utirik pentru hrană"],
       en: ["Consists of 6 small islands", "Total land area is about 0.57 square kilometers", "Lagoon area covers approximately 93 square kilometers", "Located in the northern Ratak Chain", "Important habitat for the sooty tern", "Visited by Utirik residents for food gathering"],
     },
+    image: "/poi-images/marshallislands-taka-atoll-life-v2.webp",
   },
   {
     id: "marshallislands-jaluit-conservation-area-life-v2",
@@ -217,6 +223,7 @@ export const marshallislandsLifeV2: POI[] = [
       ro: ["Primul sit Ramsar din Insulele Marshall din 2004", "Acoperă o suprafață de 690 de hectare", "Găzduiește 7 specii diferite de mangrove", "Zonă de protecție pentru țestoasa verde", "Loc important de cuibărit pentru păsări marine", "Susține practicile locale de pescuit durabil"],
       en: ["First Ramsar site in Marshall Islands since 2004", "Covers an area of 690 hectares", "Home to 7 different species of mangroves", "Protected habitat for the green sea turtle", "Important nesting site for numerous seabirds", "Supports sustainable local fishing practices"],
     },
+    image: "/poi-images/marshallislands-jaluit-conservation-area-life-v2.webp",
   },
   {
     id: "marshallislands-laura-mangroves-life-v2",
@@ -248,6 +255,7 @@ export const marshallislandsLifeV2: POI[] = [
       ro: ["Pădurea Laura se întinde pe 2,5 km².", "Diferența de maree atinge 1,5 metri.", "Rădăcinile pot fi înalte de până la 2 metri.", "Pădurea adăpostește peste 50 de specii de crustacee.", "Suprafața protejată a fost stabilită în 2010.", "Viteza de creștere a copacilor este de 0,5 metri pe an."],
       en: ["Forest span: 2.5 square kilometers.", "Dominant tree species: Rhizophora stylosa and Bruguiera gymnorrhiza.", "Maximum canopy height: 12 meters.", "Carbon sequestration: 1,200 tonnes per year.", "Protected area established: 2010.", "Intertidal range: 1.5 meters."],
     },
+    image: "/poi-images/marshallislands-laura-mangroves-life-v2.webp",
   },
   {
     id: "marshallislands-rongerik-wildlife-life-v2",
@@ -279,6 +287,7 @@ export const marshallislandsLifeV2: POI[] = [
       ro: ["Suprafață terestră: 16,5 km².", "Suprafață lagună: 780 km².", "Rezervație înființată în 1986.", "500 cuiburi de țestoase pe sezon.", "Peste 20 de specii de păsări marine.", "150 de specii de corali duri."],
       en: ["Land area: 16.5 km².", "Lagoon area: 780 km².", "Year designated: 1986.", "Green turtle nests per season: about 500.", "Seabird species breeding: over 20.", "Hard coral species: 150."],
     },
+    image: "/poi-images/marshallislands-rongerik-wildlife-life-v2.webp",
   },
   {
     id: "marshallislands-arno-coral-gardens-life-v2",
@@ -310,6 +319,7 @@ export const marshallislandsLifeV2: POI[] = [
       ro: ["Lungime: 30 km.", "Specii de corali: peste 200.", "Vizibilitate: până la 30 m.", "Sanctuar marin din 2015.", "500 de specii de pești de recif.", "Acoperire corală: 60%."],
       en: ["Length: 30 kilometers.", "Coral species: over 200.", "Water depth: typically under 5 meters.", "Protected since: 2015.", "Reef fish species: 500.", "Coral cover: 60% in protected zones."],
     },
+    image: "/poi-images/marshallislands-arno-coral-gardens-life-v2.webp",
   },
   {
     id: "marshallislands-mili-bird-colonies-life-v2",
@@ -341,6 +351,7 @@ export const marshallislandsLifeV2: POI[] = [
       ro: ["Suprafață: 16,1 km².", "Perechi cuibăritoare: peste 50.000.", "Desemnare IBA: 1990.", "Arbore dominant: Pisonia grandis.", "Înălțimea maximă a copacilor: 25 m.", "Insule nelocuite: 6."],
       en: ["Land area: 16.1 km².", "Breeding pairs: over 50,000.", "IBA status since: 1990.", "Primary nesting tree: Pisonia grandis.", "Maximum tree height: 25 meters.", "Number of islets: 7."],
     },
+    image: "/poi-images/marshallislands-mili-bird-colonies-life-v2.webp",
   },
   {
     id: "marshallislands-ebon-tropical-forest-life-v2",
@@ -372,6 +383,7 @@ export const marshallislandsLifeV2: POI[] = [
       ro: ["Suprafață: 5,8 km².", "Înălțimea coronamentului: 15 m.", "Rezervație naturală din 2005.", "Specii de plante: peste 100.", "Stocare carbon: 300 t/ha.", "Prezența unei orhidei endemice."],
       en: ["Land area: 5.8 km².", "Canopy height: 15 meters.", "Protected area since: 2005.", "Plant species: over 100.", "Carbon storage: 300 tonnes per hectare.", "Endemic orchid species present."],
     },
+    image: "/poi-images/marshallislands-ebon-tropical-forest-life-v2.webp",
   },
   {
     id: "marshallislands-bikini-marine-recovery-life-v2",
@@ -403,6 +415,7 @@ export const marshallislandsLifeV2: POI[] = [
       ro: ["Acoperire corală: 55%.", "Specii de pești: peste 250.", "Patrimoniu UNESCO din 2010.", "23 de teste nucleare între 1946-1958.", "Colonii de Porites de până la 8 m diametru.", "Recuperare ecologică începută în 1958."],
       en: ["Coral cover: 55%.", "Fish species: over 250.", "UNESCO World Heritage since: 2010.", "Nuclear tests conducted: 23.", "Massive Porites diameter: up to 8 meters.", "Recovery start: 1958."],
     },
+    image: "/poi-images/marshallislands-bikini-marine-recovery-life-v2.webp",
   },
   {
     id: "marshallislands-mejit-lake-life-v2",
@@ -434,6 +447,7 @@ export const marshallislandsLifeV2: POI[] = [
       ro: ["Suprafață: 0,8 km².", "Adâncime maximă: 4 m.", "Salinitate: 25-40 ppt.", "Protejat din 1998.", "Utilizare: extracția sării.", "Altitudine: 1 m deasupra nivelului mării."],
       en: ["Surface area: 0.8 km².", "Maximum depth: 4 meters.", "Salinity range: 25-40 ppt.", "Protected since: 1998.", "Traditional use: salt production.", "Elevation: 1 meter above sea level."],
     },
+    image: "/poi-images/marshallislands-mejit-lake-life-v2.webp",
   },
   {
     id: "marshallislands-wotje-bird-sanctuary-life-v2",
@@ -465,5 +479,6 @@ export const marshallislandsLifeV2: POI[] = [
       ro: ["Suprafață: 2,3 km².", "Perechi cuibăritoare anuale: 15.000.", "Sanctuar înființat în 1995.", "Eradicare reușită a șobolanilor.", "Vegetație dominantă: Tournefortia argentea.", "Acces restricționat."],
       en: ["Land area: 2.3 km².", "Annual breeding pairs: 15,000.", "Sanctuary established: 1995.", "Rat eradication success: yes.", "Dominant plant: Tournefortia argentea.", "Access: permit required."],
     },
+    image: "/poi-images/marshallislands-wotje-bird-sanctuary-life-v2.webp",
   }
 ];

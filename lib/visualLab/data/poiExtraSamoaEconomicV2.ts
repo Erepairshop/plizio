@@ -31,6 +31,7 @@ export const samoaEconomicV2: POI[] = [
       ro: ["Gestionează peste 90% din comerțul extern al țării.", "Cunoscut pentru dezastrul naval din anul 1889.", "Modernizat recent prin asistență financiară japoneză.", "Centru vital pentru importul de combustibil și bunuri.", "Poate găzdui nave mari de croazieră internaționale.", "Sediul Autorității Portuare din Samoa (SPA)."],
       en: ["Handles over 90% of Samoa's international trade.", "Site of a historic 1889 naval disaster during a cyclone.", "Underwent major expansions funded by Japanese grants.", "Primary hub for container shipping and fuel imports.", "A key port of call for international cruise liners.", "Operated by the Samoa Ports Authority."],
     },
+    image: "/poi-images/samoa-apia-port-economic-v2.webp",
   },
   {
     id: "samoa-vaitele-industrial-zone-economic-v2",
@@ -62,6 +63,7 @@ export const samoaEconomicV2: POI[] = [
       ro: ["Cea mai mare zonă industrială și comercială din Samoa.", "Fostul sediu al celebrei fabrici de bere Vailima.", "Centru pentru procesarea alimentelor și logisticii.", "Situată strategic între Apia și Aeroportul Faleolo.", "Dispune de infrastructură electrică de mare capacitate.", "Esențială pentru diversificarea economică a țării."],
       en: ["The largest industrial and commercial hub in Samoa.", "Long-term home of the national Vailima Brewery.", "Focuses on food processing and light manufacturing.", "Strategically located on the main road to the airport.", "Primary location for large-scale warehousing in Upolu.", "A vital source of employment for the Apia urban area."],
     },
+    image: "/poi-images/samoa-vaitele-industrial-zone-economic-v2.webp",
   },
   {
     id: "samoa-faleolo-airport-logistics-economic-v2",
@@ -93,6 +95,7 @@ export const samoaEconomicV2: POI[] = [
       ro: ["Principalul aeroport internațional din Samoa (cod APW).", "Construit inițial ca bază militară în al Doilea Război Mondial.", "Inaugurarea noului terminal a avut loc în anul 2018.", "Pistă capabilă să primească aeronave de tip Boeing 777.", "Esențial pentru exportul aerian de ton și fructe.", "Situat la 40 km vest de capitala Apia pe insula Upolu."],
       en: ["Samoa's main international aviation hub (IATA: APW).", "Built as a U.S. Navy airfield during World War II.", "Features a new modern terminal opened in May 2018.", "Equipped with a runway for large wide-body jets.", "Primary hub for fresh produce and fish exports.", "Located in the A'ana district, 40km from Apia."],
     },
+    image: "/poi-images/samoa-faleolo-airport-logistics-economic-v2.webp",
   },
   {
     id: "samoa-salelologa-market-economic-v2",
@@ -124,6 +127,7 @@ export const samoaEconomicV2: POI[] = [
       ro: ["Cea mai mare piață și centru economic de pe Savai'i.", "Situată strategic lângă terminalul de feribot Salelologa.", "Principalul loc de vânzare a covorașelor tradiționale Ie Toga.", "Nod vital pentru distribuția produselor agricole pe insulă.", "Funcționează ca forum social pentru comunitățile locale.", "Modernizată recent pentru a îmbunătăți igiena alimentară."],
       en: ["The largest market and commercial hub on Savai'i island.", "Located immediately next to the main ferry wharf.", "Primary outlet for traditional fine mats and Siapo cloth.", "The main distribution point for taro and local produce.", "Acts as a central social and information hub for Savai'i.", "Strategic logistical base for island-wide trade."],
     },
+    image: "/poi-images/samoa-salelologa-market-economic-v2.webp",
   },
   {
     id: "samoa-fugalei-fresh-produce-market-economic-v2",
@@ -155,6 +159,7 @@ export const samoaEconomicV2: POI[] = [
       ro: ["Cea mai mare piață de produse proaspete din capitala Apia.", "Clădirea actuală a fost inaugurată în anul 2014.", "Situată strategic lângă terminalele de autobuz urbane.", "Centru major pentru comercializarea fructelor tropicale.", "Asigură venituri directe pentru sute de familii de fermieri.", "Găzduiește secțiuni speciale de remedii naturale și uleiuri."],
       en: ["The primary retail produce market in Apia, Upolu.", "Features a large modern hall completed in 2014.", "A critical platform for rural farmers to sell their crops.", "Located in central Apia near major transportation links.", "Known for its vast array of taro, papaya, and bananas.", "Operates as a social and economic hub for the city."],
     },
+    image: "/poi-images/samoa-fugalei-fresh-produce-market-economic-v2.webp",
   },
   {
     id: "samoa-afulilo-hydroelectric-plant-economic-v2",
@@ -186,6 +191,7 @@ export const samoaEconomicV2: POI[] = [
       ro: ["Cea mai mare hidrocentrală din arhipelagul Samoa.", "Pusă în funcțiune la începutul anilor 1990.", "Utilizează un bazin natural situat la mare altitudine.", "Asigură o parte majoră din necesarul de energie național.", "Situată în regiunea cu cele mai mari precipitații din Upolu.", "Operată de entitatea de stat Electric Power Corporation."],
       en: ["Samoa's largest renewable energy power station.", "Commissioned in the early 1990s to boost energy security.", "Uses the Afulilo basin as its primary water reservoir.", "Crucial for reducing national fossil fuel consumption.", "Located in the high-rainfall eastern region of Upolu.", "Managed by the Electric Power Corporation (EPC)."],
     },
+    image: "/poi-images/samoa-afulilo-hydroelectric-plant-economic-v2.webp",
   },
   {
     id: "samoa-fiaga-power-station-economic-v2",
@@ -217,6 +223,7 @@ export const samoaEconomicV2: POI[] = [
       ro: ["Cea mai modernă centrală termoelectrică din Samoa.", "Inaugurată oficial în 2013 pentru a stabiliza rețeaua.", "Amplasată strategic în interiorul insulei pentru siguranță.", "Asigură energia de bază atunci când sursele verzi scad.", "Proiect finanțat parțial de Banca Asiatică de Dezvoltare.", "Echipată cu generatoare diesel de ultimă generație."],
       en: ["Samoa's primary baseload and grid stability power plant.", "Officially commissioned in 2013 to modernize the grid.", "Located inland to protect against tsunamis and storm surges.", "Balances the intermittency of hydro and solar energy.", "Funded with assistance from the Asian Development Bank.", "Central hub for Upolu's electricity distribution network."],
     },
+    image: "/poi-images/samoa-fiaga-power-station-economic-v2.webp",
   },
   {
     id: "samoa-asau-port-savaii-economic-v2",
@@ -248,6 +255,7 @@ export const samoaEconomicV2: POI[] = [
       ro: ["Fost centru major pentru exportul de cherestea al Samoei.", "Dispune de un golf natural protejat de bariere de corali.", "Accesul este limitat de colmatarea canalului principal.", "Considerat vital pentru dezvoltarea economică a Savai'i.", "Situat în extremitatea de nord-vest a arhipelagului.", "Prioritate guvernamentală pentru modernizare portuară."],
       en: ["Once the primary export hub for the national timber industry.", "Features one of the most sheltered natural harbors in the Pacific.", "Channel access is currently limited by silt and coral growth.", "Key focus of government plans to decentralize maritime trade.", "Located in the Vaisigano district of northwest Savai'i.", "Has potential to serve as Samoa's second international port."],
     },
+    image: "/poi-images/samoa-asau-port-savaii-economic-v2.webp",
   },
   {
     id: "samoa-mulifanua-wharf-economic-v2",
@@ -279,6 +287,7 @@ export const samoaEconomicV2: POI[] = [
       ro: ["Legătura principală între insulele Upolu și Savai'i", "Gestionat de Autoritatea Portuară din Samoa (SPA)", "Baza pentru feriboturile MV Lady Samoa III și MV FSC Samoa", "Situat la aproximativ 5 kilometri de Aeroportul Faleolo", "Punct de transbordare pentru exporturile agricole din Savai'i", "Nod crucial pentru sectorul turistic local"],
       en: ["Primary link between Upolu and Savai'i islands", "Managed by the Samoa Ports Authority (SPA)", "Base for MV Lady Samoa III and MV FSC Samoa ferries", "Located approximately 5 kilometers from Faleolo Airport", "Transshipment point for agricultural exports from Savai'i", "Crucial hub for the local tourism sector"],
     },
+    image: "/poi-images/samoa-mulifanua-wharf-economic-v2.webp",
   },
   {
     id: "samoa-salelologa-wharf-economic-v2",
@@ -310,6 +319,7 @@ export const samoaEconomicV2: POI[] = [
       ro: ["Singura poartă comercială către insula Savai'i", "Conexiune directă cu piața Salelologa", "Servicii regulate de feribot peste strâmtoarea Apolima", "Gestionat de Autoritatea Portuară din Samoa", "Punct important de transbordare pentru livrările de combustibil", "Capacitate pentru nave mari de tip Ro-Ro (Roll-on/Roll-off)"],
       en: ["Only commercial gateway to Savai'i island", "Direct connection to the Salelologa marketplace", "Regular ferry services across the Apolima Strait", "Managed by the Samoa Ports Authority", "Important transshipment point for fuel deliveries", "Capacity for large Ro-Ro (Roll-on/Roll-off) vessels"],
     },
+    image: "/poi-images/samoa-salelologa-wharf-economic-v2.webp",
   },
   {
     id: "samoa-breweries-vaitele-economic-v2",
@@ -341,6 +351,7 @@ export const samoaEconomicV2: POI[] = [
       ro: ["Fondată în anul 1978", "Produce Vailima, cea mai cunoscută bere din Samoa", "Utilizează tehnologie și standarde germane de fabricare", "Situată în principala zonă industrială Vaitele", "Exportă produse în întreaga regiune a Pacificului", "Face parte din grupul Paradise Beverages"],
       en: ["Founded in 1978", "Produces Vailima, Samoa's most famous beer", "Uses German brewing technology and standards", "Located in the key Vaitele industrial zone", "Exports products throughout the Pacific region", "Owned by the Paradise Beverages group"],
     },
+    image: "/poi-images/samoa-breweries-vaitele-economic-v2.webp",
   },
   {
     id: "samoa-savalalo-fish-market-economic-v2",
@@ -372,6 +383,7 @@ export const samoaEconomicV2: POI[] = [
       ro: ["Punct central de comerț cu fructe de mare în Apia", "Se deschide zilnic la primele ore ale dimineții", "Sursa principală de ton proaspăt și pești de recif", "Susține sute de familii de pescari locali", "Loc important pentru schimbul cultural", "Modernizată cu sprijinul guvernului japonez"],
       en: ["Central trading place for seafood in Apia", "Opens daily in the early morning hours", "Main source of fresh tuna and reef fish", "Supports hundreds of local fishing families", "Important site for cultural exchange", "Modernized with support from the Japanese government"],
     },
+    image: "/poi-images/samoa-savalalo-fish-market-economic-v2.webp",
   },
   {
     id: "samoa-central-bank-building-economic-v2",
@@ -403,6 +415,7 @@ export const samoaEconomicV2: POI[] = [
       ro: ["Sediul autorității monetare supreme din Samoa", "Responsabilă pentru stabilitatea monedei Tala", "Fondată prin Legea Băncii Centrale din Samoa din 1984", "Gestionează rezervele de aur și valută ale statului", "Reglementează toate băncile comerciale licențiate din țară", "Situată pe Beach Road în Apia"],
       en: ["Headquarters of Samoa's supreme monetary authority", "Responsible for the stability of the Tala", "Founded by the Central Bank of Samoa Act 1984", "Manages the state's gold and foreign exchange reserves", "Regulates all licensed commercial banks in the country", "Located on Beach Road in Apia"],
     },
+    image: "/poi-images/samoa-central-bank-building-economic-v2.webp",
   },
   {
     id: "samoa-development-bank-building-economic-v2",
@@ -434,6 +447,7 @@ export const samoaEconomicV2: POI[] = [
       ro: ["Se concentrează pe promovarea dezvoltării rurale", "Oferă împrumuturi pentru modernizarea agriculturii", "Sprijină extinderea micilor întreprinderi turistice", "Sediul central în capitala Apia", "Instituție de stat pentru promovarea economică", "Gestionează programe de combatere a sărăciei"],
       en: ["Focuses on promoting rural development", "Provides loans for agricultural modernization", "Supports the expansion of small tourism businesses", "Central headquarters in the capital city, Apia", "State institution for economic promotion", "Manages poverty alleviation programs"],
     },
+    image: "/poi-images/samoa-development-bank-building-economic-v2.webp",
   },
   {
     id: "samoa-nuu-agricultural-center-economic-v2",
@@ -465,6 +479,7 @@ export const samoaEconomicV2: POI[] = [
       ro: ["Cea mai importantă stație de cercetare pentru agricultura tropicală", "Concentrare pe dezvoltarea soiurilor de taro rezistente la climă", "Operează o unitate de cultură de țesuturi pentru multiplicarea plantelor", "Responsabilă pentru programele de combatere biologică a dăunătorilor", "Oferă consultanță tehnică pentru micii fermieri samoani", "Centru pentru conservarea resurselor genetice"],
       en: ["Most important research station for tropical agriculture", "Focus on developing climate-resilient taro varieties", "Operates a tissue culture facility for plant propagation", "Responsible for biological pest control programs", "Provides technical advice to Samoan smallholders", "Center for the conservation of genetic resources"],
     },
+    image: "/poi-images/samoa-nuu-agricultural-center-economic-v2.webp",
   },
   {
     id: "samoa-sogi-industrial-district-economic-v2",
@@ -496,6 +511,7 @@ export const samoaEconomicV2: POI[] = [
       ro: ["Sediul central al Electric Power Corporation (EPC)", "Găzduiește autorități guvernamentale importante pentru infrastructură", "Locația a numeroase ateliere și unități de reparații", "Aproape de Mulinu'u Point și de clădirile guvernamentale", "Nod important pentru distribuția energiei electrice urbane", "Locație tradițională pentru depozite de import-export"],
       en: ["Headquarters of the Electric Power Corporation (EPC)", "Houses important government infrastructure authorities", "Location of numerous workshops and repair facilities", "Proximity to Mulinu'u Point and government buildings", "Important hub for urban power distribution", "Traditional site for import-export warehouses"],
     },
+    image: "/poi-images/samoa-sogi-industrial-district-economic-v2.webp",
   },
   {
     id: "samoa-vaitele-west-manufacturing-economic-v2",
@@ -527,6 +543,7 @@ export const samoaEconomicV2: POI[] = [
       ro: ["Cea mai mare concentrare de fabrici din Samoa", "Locația principală pentru procesarea alimentelor", "Oferă mii de locuri de muncă în regiunea Apia", "Sediul Yazaki EDS (fostul cel mai mare angajator)", "Dispune de infrastructură industrială specializată", "Cea mai importantă contribuție la PIB în sectorul manufacturier"],
       en: ["Largest concentration of factories in Samoa", "Main site for food processing", "Provides thousands of jobs in the Apia region", "Site of Yazaki EDS (formerly the largest employer)", "Features specialized industrial infrastructure", "Most important contributor to GDP in manufacturing"],
     },
+    image: "/poi-images/samoa-vaitele-west-manufacturing-economic-v2.webp",
   },
   {
     id: "samoa-loto-samasoni-hydro-economic-v2",
@@ -558,6 +575,7 @@ export const samoaEconomicV2: POI[] = [
       ro: ["Utilizează apa râului Vaisigano", "Are o capacitate nominală de aproximativ 1,1 MW", "Reconstruită cu ajutorul Băncii Asiatice de Dezvoltare (ADB)", "Reduce dependența de combustibilii fosili importați", "Face parte dintr-un sistem de hidrocentrale în cascadă", "Importantă pentru acoperirea sarcinii de vârf în Apia"],
       en: ["Uses the water of the Vaisigano River", "Has a nominal capacity of approximately 1.1 MW", "Reconstructed with help from the Asian Development Bank (ADB)", "Reduces dependence on imported fossil fuels", "Part of a cascade system of hydropower plants", "Important for peak load coverage in Apia"],
     },
+    image: "/poi-images/samoa-loto-samasoni-hydro-economic-v2.webp",
   },
   {
     id: "samoa-alaoa-dam-reservoir-economic-v2",
@@ -589,6 +607,7 @@ export const samoaEconomicV2: POI[] = [
       ro: ["Pus în funcțiune în anul 1957", "Combină energia hidroelectrică cu tratarea apei", "Puterea nominală a instalației hidroelectrice: aprox. 1,0 MW", "Principalul rezervor de apă potabilă pentru estul orașului Apia", "Instrument important pentru atenuarea inundațiilor", "Gestionat de Electric Power Corporation și Autoritatea Apelor"],
       en: ["Commissioned in 1957", "Combines hydropower and water treatment", "Nominal power of the hydropower plant: approx. 1.0 MW", "Main drinking water reservoir for eastern Apia", "Important tool for flood mitigation", "Managed by the Electric Power Corporation and the Water Authority"],
     },
+    image: "/poi-images/samoa-alaoa-dam-reservoir-economic-v2.webp",
   },
   {
     id: "samoa-tanugamanono-power-substation-economic-v2",
@@ -620,6 +639,7 @@ export const samoaEconomicV2: POI[] = [
       ro: ["Nod central de distribuție pentru rețeaua electrică din Apia", "Găzduiește sisteme moderne de monitorizare SCADA", "Locație pentru sisteme de stocare a energiei în baterii (BESS) la scară largă", "Gestionată de Electric Power Corporation (EPC)", "Importantă pentru integrarea energiei solare în rețea", "Modernizată cu finanțare internațională pentru stabilitatea rețelei"],
       en: ["Central distribution hub for the Apia power grid", "Houses modern SCADA monitoring systems", "Site for large-scale battery energy storage systems (BESS)", "Managed by the Electric Power Corporation (EPC)", "Important for integrating solar energy into the grid", "Modernized with international funding for grid stability"],
     },
+    image: "/poi-images/samoa-tanugamanono-power-substation-economic-v2.webp",
   },
   {
     id: "samoa-coconut-clusters-factory-vaitele-economic-v2",
@@ -651,6 +671,7 @@ export const samoaEconomicV2: POI[] = [
       ro: ["Produce ulei de cocos organic certificat", "Colaborează cu peste 200 de familii de fermieri locali", "Utilizează procesul de presare la rece pentru calitate maximă", "Exportă pe piețe precum Australia și SUA", "Contribuie la reducerea deșeurilor de plastic prin ambalaje mari", "Susținută prin programe internaționale de ajutor pentru dezvoltare"],
       en: ["Produces certified organic coconut oil", "Works with over 200 local farming families", "Uses cold-press processes for maximum quality", "Exports to markets such as Australia and the USA", "Contribution to reducing plastic waste through bulk packaging", "Supported by international development aid programs"],
     },
+    image: "/poi-images/samoa-coconut-clusters-factory-vaitele-economic-v2.webp",
   },
   {
     id: "samoa-ah-liki-distribution-center-economic-v2",
@@ -682,6 +703,7 @@ export const samoaEconomicV2: POI[] = [
       ro: ["Nod central pentru comerțul cu ridicata din Samoa", "Dispune de capacități extinse de depozitare frigorifică", "Baza pentru o flotă mare de vehicule de livrare", "Face parte din grupul Ah Liki Investment", "Partener important pentru micii comercianți din zone izolate", "Locație în zona industrială Vaitele"],
       en: ["Central hub for Samoan wholesaling", "Features extensive deep-freeze storage capacities", "Base for a large fleet of delivery vehicles", "Part of the Ah Liki Investment group", "Important partner for local retailers in remote areas", "Located in the Vaitele industrial zone"],
     },
+    image: "/poi-images/samoa-ah-liki-distribution-center-economic-v2.webp",
   },
   {
     id: "samoa-apia-marina-economic-v2",
@@ -713,6 +735,7 @@ export const samoaEconomicV2: POI[] = [
       ro: ["Portul principal pentru sectorul navigației de agrement", "Dispune de aproximativ 60 de dane sigure", "Sediul Samoa International Yacht Club", "Oferă facilități complete de spălătorie și sanitare", "Acces direct la centrul orașului Apia", "Baza pentru autoritățile de protecție a frontierelor maritime"],
       en: ["Main port for the leisure boating sector", "Features approximately 60 secure berths", "Home to the Samoa International Yacht Club", "Offers fully equipped laundry and sanitary facilities", "Direct access to Apia city center", "Base for maritime border protection authorities"],
     },
+    image: "/poi-images/samoa-apia-marina-economic-v2.webp",
   },
   {
     id: "samoa-acc-building-economic-v2",
@@ -744,6 +767,7 @@ export const samoaEconomicV2: POI[] = [
       ro: ["Găzduiește sediul central al Accident Compensation Corporation.", "Situată în districtul central de afaceri al orașului Apia.", "Include spații pentru diverse ministere guvernamentale.", "Este una dintre cele mai înalte clădiri comerciale din Samoa.", "Reprezintă un punct nodal pentru serviciile financiare locale.", "Administrează schemele de asigurare obligatorie ale statului."],
       en: ["Headquarters of the Accident Compensation Corporation of Samoa.", "Located in the central business district of Apia on Upolu.", "Houses multiple government ministries and corporate offices.", "One of the tallest and most modern structures in the country.", "Serves as a primary hub for administrative and legal services.", "The corporation manages vital social security funds for workers."],
     },
+    image: "/poi-images/samoa-acc-building-economic-v2.webp",
   },
   {
     id: "samoa-togitogiga-agriculture-area-economic-v2",
@@ -775,6 +799,7 @@ export const samoaEconomicV2: POI[] = [
       ro: ["Situată în districtul Falealili, în partea de sud a insulei Upolu.", "Regiune majoră pentru producția de taro și banane.", "Beneficiază de soluri vulcanice fertile și precipitații bogate.", "Sursă principală de produse proaspete pentru piețele din Apia.", "Zona include rezervația naturală Togitogiga Falls.", "Susține economia locală prin agricultura de subzistență și comercială."],
       en: ["Located in the Falealili district on the island of Upolu.", "Specializes in the production of taro, coconuts, and bananas.", "Utilizes nutrient-rich volcanic soil for high crop yields.", "A key supplier for agricultural markets in Apia.", "The area is also home to a popular recreational park.", "Fresh water sources provide essential irrigation for farms."],
     },
+    image: "/poi-images/samoa-togitogiga-agriculture-area-economic-v2.webp",
   },
   {
     id: "samoa-falealili-cocoa-plantations-economic-v2",
@@ -806,6 +831,7 @@ export const samoaEconomicV2: POI[] = [
       ro: ["Falealili este o regiune cheie pentru producția de cacao în Samoa.", "Cunoscută pentru varietatea premium numită 'Samoa Koko'.", "Exportul de cacao este o sursă majoră de venituri externe.", "Plantațiile beneficiază de soluri vulcanice fertile.", "Procesul de fermentare urmează tehnici tradiționale riguroase.", "Industria de cacao susține mii de mici fermieri locali."],
       en: ["Falealili is a primary region for cocoa cultivation in Samoa.", "Home to the internationally acclaimed 'Samoa Koko' variety.", "Cocoa represents a significant portion of Samoa's agricultural exports.", "The coastal climate and volcanic soil are ideal for cocoa trees.", "Farmers utilize traditional methods for drying and fermenting beans.", "The industry is vital for the economic stability of rural Upolu."],
     },
+    image: "/poi-images/samoa-falealili-cocoa-plantations-economic-v2.webp",
   },
   {
     id: "samoa-vaiaata-prison-farm-economic-v2",
@@ -837,6 +863,7 @@ export const samoaEconomicV2: POI[] = [
       ro: ["Localizată pe insula Savai'i, cea mai mare insulă din Samoa.", "Integrează detenția cu activități agricole intensive.", "Cultivă taro, manioc și banane pentru consum și comerț.", "Oferă programe de reabilitare prin muncă pentru deținuți.", "Asigură un grad ridicat de autosuficiență alimentară sistemului.", "Este recunoscută ca o unitate de producție agricolă eficientă."],
       en: ["Located on Savai'i, the largest island in Samoa.", "Integrates correctional services with large-scale farming.", "Grows taro, cassava, and bananas for commercial sale.", "Focuses on vocational training and inmate rehabilitation.", "Contributes to the financial self-sufficiency of the prison system.", "Renowned for its high agricultural output in the region."],
     },
+    image: "/poi-images/samoa-vaiaata-prison-farm-economic-v2.webp",
   },
   {
     id: "samoa-manono-island-fishing-hub-economic-v2",
@@ -868,6 +895,7 @@ export const samoaEconomicV2: POI[] = [
       ro: ["Situată în strâmtoarea Apolima, la vest de insula Upolu.", "Un punct central pentru pescuitul artizanal și tradițional.", "Accesul vehiculelor motorizate este strict interzis pe insulă.", "Sursă principală de fructe de mare pentru piețele din Upolu.", "Comunitățile locale gestionează zonele marine protejate.", "Economia insulei este dependentă de sănătatea recifului."],
       en: ["Located in the Apolima Strait between Upolu and Savai'i.", "A major center for artisanal and traditional Samoan fishing.", "The island is entirely car-free with no motorized roads.", "Provides a steady supply of fresh seafood to Upolu markets.", "Village councils actively manage marine conservation areas.", "The local economy is predominantly based on marine harvesting."],
     },
+    image: "/poi-images/samoa-manono-island-fishing-hub-economic-v2.webp",
   },
   {
     id: "samoa-maritime-academy-training-economic-v2",
@@ -899,6 +927,7 @@ export const samoaEconomicV2: POI[] = [
       ro: ["Subdiviziune a Universității Naționale din Samoa (NUS).", "Oferă certificări recunoscute internațional conform normelor IMO.", "Focus pe navigație, inginerie marină și siguranță navală.", "Absolvenții lucrează pe nave comerciale din întreaga lume.", "Contribuie la economia națională prin remitențele marinarilor.", "Dotată cu tehnologie de simulare avansată pentru instruire."],
       en: ["Part of the National University of Samoa (NUS) campus.", "Provides IMO-compliant international maritime certifications.", "Focuses on navigation, marine engineering, and safety.", "Graduates are employed on global commercial shipping lines.", "Crucial for generating foreign exchange through remittances.", "Equipped with modern simulators for maritime training."],
     },
+    image: "/poi-images/samoa-maritime-academy-training-economic-v2.webp",
   },
   {
     id: "samoa-tui-samoa-cable-landing-economic-v2",
@@ -930,6 +959,7 @@ export const samoaEconomicV2: POI[] = [
       ro: ["Conectează Samoa de Fiji printr-un cablu submarin de 1.470 km.", "Pus în funcțiune în 2018 pentru a moderniza telecomunicațiile.", "A scăzut semnificativ costurile serviciilor de internet.", "Operat de consorțiul Samoa Submarine Cable Company (SSCC).", "Oferă o capacitate de transfer de date de mare viteză.", "Esențial pentru dezvoltarea sectorului tehnologic și educațional."],
       en: ["Connects Samoa to Fiji via a 1,470 km submarine cable.", "Commissioned in 2018 to enhance national connectivity.", "Replaced expensive satellite links with high-speed fiber optics.", "Managed by the Samoa Submarine Cable Company (SSCC).", "Provides the backbone for Samoa's high-speed internet services.", "A key driver for digital economic growth and outsourcing."],
     },
+    image: "/poi-images/samoa-tui-samoa-cable-landing-economic-v2.webp",
   },
   {
     id: "samoa-vaitele-industrial-park-economic-v2",
@@ -961,5 +991,6 @@ export const samoaEconomicV2: POI[] = [
       ro: ["Cea mai mare zonă industrială din Samoa, situată lângă Apia.", "Găzduiește fabrici de procesare a alimentelor și materiale de construcții.", "Punct strategic pentru logistica și distribuția națională.", "Aproape de principalele porți de intrare maritime și aeriene.", "Principalul furnizor de locuri de muncă în sectorul privat manufacturier.", "Beneficiază de facilități moderne de infrastructură energetică."],
       en: ["Largest industrial estate in Samoa, located west of Apia.", "Hub for manufacturing, construction, and logistics companies.", "Home to major food and beverage production facilities.", "Strategically positioned between the main port and the airport.", "A primary driver of private sector employment growth.", "Features dedicated zones for light industry and warehousing."],
     },
+    image: "/poi-images/samoa-vaitele-industrial-park-economic-v2.webp",
   }
 ];

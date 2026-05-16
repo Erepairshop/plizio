@@ -31,6 +31,7 @@ export const barbadosLandmarksV2: POI[] = [
       ro: ["Anul finalizării: 1874", "Stil arhitectural: neogotic", "Număr de deputați: 30", "Înălțimea sălii de ședințe: 12 m", "Piatra de temelie: 1871", "Suprafața complexului: 0,8 ha"],
       en: ["Year completed: 1874", "Architectural style: Neo-Gothic", "Number of parliamentary seats: 30", "Chamber ceiling height: 12 meters (39 ft)", "Foundation stone laid: 1871", "Complex area: 0.8 hectares (2 acres)"],
     },
+    image: "/poi-images/barbados-parliament-buildings-landmarks-v2.webp",
   },
   {
     id: "barbados-st-michaels-cathedral-landmarks-v2",
@@ -62,6 +63,7 @@ export const barbadosLandmarksV2: POI[] = [
       ro: ["Anul construcției: 1789", "Înălțimea turnului: 30 m", "Locuri: 800", "Vitralii: 12 originale din secolul al XIX-lea", "Prima biserică pe acest loc: 1628", "Monument național din 1996"],
       en: ["Year built: 1789", "Bell tower height: 30 meters (98 ft)", "Seating capacity: 800", "Stained glass windows: 12 original 19th-century", "First church on site: 1628", "National monument status since 1996"],
     },
+    image: "/poi-images/barbados-st-michaels-cathedral-landmarks-v2.webp",
   },
   {
     id: "barbados-st-johns-parish-church-landmarks-v2",
@@ -93,6 +95,7 @@ export const barbadosLandmarksV2: POI[] = [
       ro: ["Anul construirii: 1836", "Altitudine deasupra mării: 80 m", "Vârsta orgii: 1852", "Suprafața cimitirului: 0,4 ha", "Număr de vitralii: 8", "Morminte istorice: peste 200"],
       en: ["Year built: 1836", "Elevation above sea: 80 meters (262 ft)", "Organ installation year: 1852", "Cemetery area: 0.4 hectares (1 acre)", "Stained glass windows: 8", "Historic graves: over 200"],
     },
+    image: "/poi-images/barbados-st-johns-parish-church-landmarks-v2.webp",
   },
   {
     id: "barbados-sam-lords-castle-landmarks-v2",
@@ -124,6 +127,7 @@ export const barbadosLandmarksV2: POI[] = [
       ro: ["Anul construirii: 1820", "Număr de camere inițial: 22", "Suprafața terenului: 4 ha", "Incendiu: 2015", "Înălțimea tavanelor la parter: 4,5 m", "Monument istoric din 1974"],
       en: ["Year built: 1820", "Original rooms: 22", "Estate area: 4 hectares (9.9 acres)", "Fire damage: 2015", "Ground floor ceiling height: 4.5 m (14.8 ft)", "Heritage listing: 1974"],
     },
+    image: "/poi-images/barbados-sam-lords-castle-landmarks-v2.webp",
   },
   {
     id: "barbados-farley-hill-house-landmarks-v2",
@@ -155,6 +159,7 @@ export const barbadosLandmarksV2: POI[] = [
       ro: ["Anul construirii: 1818", "Incendiu: 1957", "Altitudinea parcului: 100 m", "Suprafața parcului național: 14 ha", "Numărul inițial de camere de oaspeți: 12", "Oaspete celebru: Regele George al VI-lea (1945)"],
       en: ["Year built: 1818", "Fire: 1957", "Park elevation: 100 meters (328 ft)", "National park area: 14 hectares (34.6 acres)", "Original guest rooms: 12", "Famous guest: King George VI (1945)"],
     },
+    image: "/poi-images/barbados-farley-hill-house-landmarks-v2.webp",
   },
   {
     id: "barbados-st-anns-fort-landmarks-v2",
@@ -186,6 +191,7 @@ export const barbadosLandmarksV2: POI[] = [
       ro: ["Anul construirii: 1704", "Suprafață: aproximativ 2 hectare", "Adâncimea șanțului: 3 metri", "Număr de tunuri: 42", "Înălțimea bastioanelor: 6 metri", "Utilizare militară continuă din 1705"],
       en: ["Year built: 1704", "Area: approximately 2 hectares (4.9 acres)", "Moat depth: 3 meters (9.8 ft)", "Number of cannons: 42", "Bastion height: 6 meters (19.7 ft)", "Continuous military use since 1705"],
     },
+    image: "/poi-images/barbados-st-anns-fort-landmarks-v2.webp",
   },
   {
     id: "barbados-kensington-oval-landmarks-v2",
@@ -217,6 +223,7 @@ export const barbadosLandmarksV2: POI[] = [
       ro: ["Deschidere: 1882", "Capacitate: 28.000", "Renovare: 2007", "Lungimea terenului: 130 m", "Număr de pavilioane: 3", "Cel mai mare scor într-un meci test: 750/5 declarat (1995)"],
       en: ["Opened: 1882", "Capacity: 28,000", "Renovation: 2007", "Ground length: 130 meters (426 ft)", "Number of pavilions: 3", "Highest test innings total: 750/5 declared (1995)"],
     },
+    image: "/poi-images/barbados-kensington-oval-landmarks-v2.webp",
   },
   {
     id: "barbados-barbados-museum-and-historical-society-landmarks-v2",
@@ -248,6 +255,7 @@ export const barbadosLandmarksV2: POI[] = [
       ro: ["Fondare: 1933", "Locație: Fosta închisoare militară (1817)", "Număr de exponate: peste 50.000", "Suprafața grădinii: 0,6 ha", "Vizitatori anual: cca. 100.000", "Cel mai vechi exponat: ceramică Arawak din anul 100 d.Hr."],
       en: ["Founded: 1933", "Location: Former military prison (built 1817)", "Collection size: over 50,000 items", "Garden area: 0.6 hectares (1.5 acres)", "Annual visitors: approximately 100,000", "Oldest artifact: Arawak pottery from 100 AD"],
     },
+    image: "/poi-images/barbados-barbados-museum-and-historical-society-landmarks-v2.webp",
   },
   {
     id: "barbados-nidhe-israel-museum-landmarks-v2",
@@ -279,6 +287,7 @@ export const barbadosLandmarksV2: POI[] = [
       ro: ["Construirea sinagogii: 1654", "Deschiderea muzeului: 2008", "Înălțimea sinagogii: 10 m", "Număr de suluri de Tora: 3", "Vârsta mikveh-ului: secolul al XVII-lea", "Vizitatori anual: 30.000"],
       en: ["Synagogue built: 1654", "Museum opened: 2008", "Synagogue height: 10 meters (33 ft)", "Number of Torah scrolls: 3", "Mikveh age: 17th century", "Annual visitors: 30,000"],
     },
+    image: "/poi-images/barbados-nidhe-israel-museum-landmarks-v2.webp",
   },
   {
     id: "barbados-st-peters-parish-church-landmarks-v2",
@@ -310,6 +319,7 @@ export const barbadosLandmarksV2: POI[] = [
       ro: ["Anul construirii: 1837", "Altitudinea dealului: 50 m deasupra mării", "Vârsta cimitirului: din 1629", "Număr de vitralii: 6", "Material: calcar coraligen", "Fondarea parohiei: 1629"],
       en: ["Year built: 1837", "Hill elevation: 50 meters (164 ft) above sea", "Cemetery age: since 1629", "Stained glass windows: 6", "Material: coral limestone", "Parish founded: 1629"],
     },
+    image: "/poi-images/barbados-st-peters-parish-church-landmarks-v2.webp",
   },
   {
     id: "barbados-st-philips-parish-church-landmarks-v2",
@@ -341,6 +351,7 @@ export const barbadosLandmarksV2: POI[] = [
       ro: ["Anul construirii: 1836", "Biserica anterioară: 1645", "Capacitate: 300 de locuri", "Orga: construită în 1870 de William Hill & Son", "Suprafața cimitirului: 0,3 ha", "Cel mai vechi mormânt: 1682"],
       en: ["Year built: 1836", "Previous church: 1645", "Seating capacity: 300", "Organ: built 1870 by William Hill & Son", "Cemetery area: 0.3 hectares (0.74 acres)", "Oldest grave: 1682"],
     },
+    image: "/poi-images/barbados-st-philips-parish-church-landmarks-v2.webp",
   },
   {
     id: "barbados-st-georges-parish-church-landmarks-v2",
@@ -372,6 +383,7 @@ export const barbadosLandmarksV2: POI[] = [
       ro: ["Anul construirii: 1825", "Înălțimea turnului: 25 m", "Număr de plăci memoriale: 15", "Fondarea parohiei: 1645", "Capacitate: 400 de locuri", "Cel mai vechi monument funerar: 1701"],
       en: ["Year built: 1825", "Tower height: 25 meters (82 ft)", "Memorial tablets: 15", "Parish founded: 1645", "Seating capacity: 400", "Oldest tombstone: 1701"],
     },
+    image: "/poi-images/barbados-st-georges-parish-church-landmarks-v2.webp",
   },
   {
     id: "barbados-st-josephs-parish-church-landmarks-v2",
@@ -403,6 +415,7 @@ export const barbadosLandmarksV2: POI[] = [
       ro: ["Fondată în 1640", "Actuala clădire: 1839", "Turnul de 25 m înălțime", "Orga Henry Willis din 1887", "Ziduri din piatră de corali", "Cel mai vechi mormânt: c. 1650"],
       en: ["Founded in 1640", "Current building completed in 1839", "Bell tower height: 25 meters", "Henry Willis organ installed in 1887", "Walls built from local coral limestone", "Oldest grave dated to c. 1650"],
     },
+    image: "/poi-images/barbados-st-josephs-parish-church-landmarks-v2.webp",
   },
   {
     id: "barbados-st-lucys-parish-church-landmarks-v2",
@@ -434,6 +447,7 @@ export const barbadosLandmarksV2: POI[] = [
       ro: ["Fondată în 1635", "Clădire actuală: 1743", "Turn-clopotniță separat", "Amvon din mahon", "Vitralii din secolul al XIX-lea", "Mormântul lui Samuel Hall Lord (1728–1797)"],
       en: ["Founded in 1635", "Current building completed in 1743", "Detached bell tower used as a sea mark", "Mahogany pulpit hand-carved", "19th-century stained glass windows", "Grave of Samuel Hall Lord (1728–1797)"],
     },
+    image: "/poi-images/barbados-st-lucys-parish-church-landmarks-v2.webp",
   },
   {
     id: "barbados-st-andrews-parish-church-landmarks-v2",
@@ -465,6 +479,7 @@ export const barbadosLandmarksV2: POI[] = [
       ro: ["Fondată în 1640", "Reconstruită în 1784", "Stil arhitectural georgiano-gotic", "Baptisteriu din secolul al XVIII-lea", "Placă memorială Sir William Sharpe (guvernator 1756–1760)", "Belleplaine: 10 m deasupra nivelului mării"],
       en: ["Founded in 1640", "Rebuilt in 1784 after a fire", "Blend of Georgian and Gothic architecture", "18th-century baptismal font", "Memorial plaque to Sir William Sharpe (governor 1756–1760)", "Near Belleplaine, lowest point in Barbados at 10 m"],
     },
+    image: "/poi-images/barbados-st-andrews-parish-church-landmarks-v2.webp",
   },
   {
     id: "barbados-national-heroes-square-landmarks-v2",
@@ -496,6 +511,7 @@ export const barbadosLandmarksV2: POI[] = [
       ro: ["Redenumită în 1999", "Statuia lui Lord Nelson: 1813", "Clădirea Parlamentului: 1874", "Curtea Supremă: 1881", "Ministerul Finanțelor: secolul al XVIII-lea", "Ziua Independenței: 30 noiembrie"],
       en: ["Renamed in 1999", "Lord Nelson statue erected in 1813", "Parliament Building completed in 1874", "Supreme Court built in 1881", "Treasury building dates to the 18th century", "Independence Day celebrated on November 30"],
     },
+    image: "/poi-images/barbados-national-heroes-square-landmarks-v2.webp",
   },
   {
     id: "barbados-wildey-house-landmarks-v2",
@@ -527,6 +543,7 @@ export const barbadosLandmarksV2: POI[] = [
       ro: ["Construit la începutul secolului al XVIII-lea", "Casă din lemn cu două etaje pe fundație de piatră", "Verandă înconjurătoare", "Baobab de peste 300 de ani", "Găzduiește Ministerul Culturii", "Restaurare în 1995"],
       en: ["Built in early 18th century", "Two-story timber structure on stone foundation", "Wraparound veranda", "Over 300-year-old baobab tree", "Now houses Ministry of Culture", "Restored in 1995"],
     },
+    image: "/poi-images/barbados-wildey-house-landmarks-v2.webp",
   },
   {
     id: "barbados-ilaro-court-landmarks-v2",
@@ -558,6 +575,7 @@ export const barbadosLandmarksV2: POI[] = [
       ro: ["Casa a fost proiectată în 1919 și construită la scurt timp după aceea.", "A devenit reședința oficială a prim-ministrului în anul 1976.", "Domeniul include aproximativ 10 acri de grădini amenajate.", "Numele Ilaro este derivat de la un oraș din Nigeria de astăzi.", "Sir Gilbert Carter a fost anterior guvernator în Lagos, Nigeria.", "Arhitectura clădirii pune accent pe ventilația naturală prin verande largi."],
       en: ["The house was designed in 1919 and completed in the early 1920s.", "It became the official prime ministerial residence in 1976.", "The estate encompasses approximately 10 acres of landscaped grounds.", "The name Ilaro is taken from a town in present-day Nigeria.", "Sir Gilbert Carter was a former Governor of Lagos before serving in Barbados.", "The building is noted for its intricate woodwork and wide verandas."],
     },
+    image: "/poi-images/barbados-ilaro-court-landmarks-v2.webp",
   },
   {
     id: "barbados-main-guard-house-landmarks-v2",
@@ -589,6 +607,7 @@ export const barbadosLandmarksV2: POI[] = [
       ro: ["Construit în 1803", "Stil neoclasic", "Portic cu 4 coloane", "Muzeu din 1933", "UNESCO din 2011", "Două etaje, 8 încăperi"],
       en: ["Built in 1803", "Neoclassical architectural style", "Portico with 4 columns", "Housed museum since 1933", "UNESCO World Heritage site since 2011", "Two stories with 8 rooms"],
     },
+    image: "/poi-images/barbados-main-guard-house-landmarks-v2.webp",
   },
   {
     id: "barbados-needhams-point-lighthouse-landmarks-v2",
@@ -620,6 +639,7 @@ export const barbadosLandmarksV2: POI[] = [
       ro: ["Construit în 1851", "Înălțime: 20 m", "Vizibilitate: 15 mile marine", "Automatizat în 1970", "Material: piatră de corali", "Restaurare în anii 1990"],
       en: ["Built in 1851", "Height: 20 meters", "Range: 15 nautical miles", "Automated in 1970", "Material: coral stone", "Restored in the 1990s"],
     },
+    image: "/poi-images/barbados-needhams-point-lighthouse-landmarks-v2.webp",
   },
   {
     id: "barbados-drax-hall-plantation-landmarks-v2",
@@ -651,6 +671,7 @@ export const barbadosLandmarksV2: POI[] = [
       ro: ["Fondată în secolul al XVII-lea", "Suprafață: 160 hectare", "Producție anuală de zahăr: 2.000 tone", "Conacul: 1650", "Moară de vânt restaurată din secolul al XVIII-lea", "Decor de film pentru 'Insula misterioasă'"],
       en: ["Founded in the 17th century", "Area: 160 hectares", "Annual sugar production: 2,000 tons", "Great house built in 1650", "Restored 18th-century windmill", "Film location for 'The Mysterious Island'"],
     },
+    image: "/poi-images/barbados-drax-hall-plantation-landmarks-v2.webp",
   },
   {
     id: "barbados-highgate-signal-station-landmarks-v2",
@@ -682,6 +703,7 @@ export const barbadosLandmarksV2: POI[] = [
       ro: ["Construit în 1824", "Înălțime: 15 m", "Material: piatră de corali și cărămidă", "Abandonat în 1866", "Parte a sistemului de telegraf optic", "Restaurat ca punct de belvedere"],
       en: ["Built in 1824", "Height: 15 meters", "Material: coral stone and brick", "Abandoned in 1866", "Part of optical telegraph system", "Restored as a viewpoint"],
     },
+    image: "/poi-images/barbados-highgate-signal-station-landmarks-v2.webp",
   },
   {
     id: "barbados-moncrieffe-signal-station-landmarks-v2",
@@ -713,6 +735,7 @@ export const barbadosLandmarksV2: POI[] = [
       ro: ["Construit în jurul anului 1820", "Înălțime: 12 m", "Material: piatră de corali", "Abandonat în 1866", "Acoperiș distrus de uragane", "Baza catargului dezgropată în 2000"],
       en: ["Built around 1820", "Height: 12 meters", "Material: coral stone", "Abandoned in 1866", "Roof destroyed by hurricanes", "Flagpole base excavated in 2000"],
     },
+    image: "/poi-images/barbados-moncrieffe-signal-station-landmarks-v2.webp",
   },
   {
     id: "barbados-da-costa-building-landmarks-v2",
@@ -744,6 +767,7 @@ export const barbadosLandmarksV2: POI[] = [
       ro: ["Construit în 1905", "Stil: Belle Époque", "Fațadă cu teracotă", "Acoperiș mansardat", "Inițial magazin universal", "Monument istoric din 1990"],
       en: ["Built in 1905", "Architectural style: Belle Époque", "Terracotta facade ornaments", "Mansard roof with dormers", "Originally a department store", "Heritage listed since 1990"],
     },
+    image: "/poi-images/barbados-da-costa-building-landmarks-v2.webp",
   },
   {
     id: "barbados-carnegie-free-library-landmarks-v2",
@@ -775,6 +799,7 @@ export const barbadosLandmarksV2: POI[] = [
       ro: ["Construit în 1906", "Donația Carnegie: ~15.000 $", "Stil neoclasic", "Înălțimea domului: 15 m", "Biblioteca mutată în 2015", "Restaurarea domului: 2017, 1,5 milioane $"],
       en: ["Built in 1906", "Andrew Carnegie donated ~$15,000", "Neoclassical architectural style", "Dome height: 15 meters", "Library moved out in 2015", "Dome restoration in 2017 cost $1.5 million"],
     },
+    image: "/poi-images/barbados-carnegie-free-library-landmarks-v2.webp",
   },
   {
     id: "barbados-queens-park-house-landmarks-v2",
@@ -806,6 +831,7 @@ export const barbadosLandmarksV2: POI[] = [
       ro: ["Clădirea a fost cunoscută inițial sub numele de 'The King's House'.", "Queen's Park a fost deschis publicului larg în anul 1909.", "În parc se află un arbore baobab uriaș, estimat la peste 1000 de ani.", "Casa este un exemplu reprezentativ de arhitectură colonială georgiană.", "Găzduiește Galeria Queen's Park, o instituție de artă națională.", "Teatrul Daphne Joseph Hackette funcționează în cadrul complexului."],
       en: ["The building was originally known as 'The King's House'.", "Queen's Park was formally opened to the public in 1909.", "The park features a famous Baobab tree estimated to be over 1,000 years old.", "The house is a prime example of Georgian-style colonial architecture.", "It houses the Queen's Park Gallery, a prominent national art venue.", "The Daphne Joseph Hackette Theatre is located within the building."],
     },
+    image: "/poi-images/barbados-queens-park-house-landmarks-v2.webp",
   },
   {
     id: "barbados-mutual-life-assurance-society-building-landmarks-v2",
@@ -837,6 +863,7 @@ export const barbadosLandmarksV2: POI[] = [
       ro: ["Clădirea a fost construită între anii 1894 și 1895.", "Arhitectura prezintă influențe neo-gotice și victoriene proeminente.", "Cele două cupole sunt vopsite într-o nuanță argintie reflectorizantă.", "Societatea a fost cea mai veche companie de asigurări din Indiile de Vest.", "Este o componentă cheie a sitului Patrimoniului Mondial UNESCO din Bridgetown.", "Fațada este realizată din calcar coraligen local sculptat cu migală."],
       en: ["The building was constructed between 1894 and 1895.", "The architecture displays strong Neo-Gothic and Victorian influences.", "The twin domes are finished with a distinctive silver coating.", "Barbados Mutual was the oldest indigenous insurance company in the region.", "It is a central landmark within the UNESCO World Heritage area of Bridgetown.", "The facade is constructed from locally quarried coral limestone."],
     },
+    image: "/poi-images/barbados-mutual-life-assurance-society-building-landmarks-v2.webp",
   },
   {
     id: "barbados-errol-barrow-statue-landmarks-v2",
@@ -868,6 +895,7 @@ export const barbadosLandmarksV2: POI[] = [
       ro: ["Statuia a fost dezvelită oficial pe 21 ianuarie 2007.", "Errol Barrow a condus Barbados către independență în anul 1966.", "Sculptorul monumentului din bronz a fost artistul local Karl Broodhagen.", "Este amplasată în centrul Pieței Independenței din Bridgetown.", "Figura este reprezentată într-o postură dinamică, simbolizând progresul.", "Locația oferă o vedere directă către clădirile istorice ale Parlamentului."],
       en: ["The statue was officially unveiled on January 21, 2007.", "Errol Barrow led Barbados to independence from Britain in 1966.", "The bronze statue was sculpted by the acclaimed artist Karl Broodhagen.", "It is situated in Independence Square in the center of Bridgetown.", "Barrow is depicted in a walking pose, signifying his role in national progress.", "The site is the focus of annual commemorations on Errol Barrow Day."],
     },
+    image: "/poi-images/barbados-errol-barrow-statue-landmarks-v2.webp",
   },
   {
     id: "barbados-st-peter-lighthouse-landmarks-v2",
@@ -899,6 +927,7 @@ export const barbadosLandmarksV2: POI[] = [
       ro: ["Farul de la Harrison Point a fost construit în anul 1925.", "Turnul are o înălțime de aproximativ 26 de metri.", "Este unul dintre cele patru faruri active rămase în Barbados.", "Semnalul luminos era vital pentru navele care intrau în Speightstown.", "Este situat în punctul nordic al parohiei Saint Peter.", "Structura este realizată din beton armat pentru a rezista vânturilor puternice."],
       en: ["The Harrison Point Lighthouse was constructed in 1925.", "The structure stands at a height of approximately 26 meters.", "It is one of only four remaining active lighthouses in Barbados.", "Historically, it guided ships coming from the Atlantic into the port.", "The lighthouse is located at the northern end of Saint Peter parish.", "The light is visible for up to 22 nautical miles out to sea."],
     },
+    image: "/poi-images/barbados-st-peter-lighthouse-landmarks-v2.webp",
   },
   {
     id: "barbados-bridgetown-jewish-cemetery-landmarks-v2",
@@ -930,6 +959,7 @@ export const barbadosLandmarksV2: POI[] = [
       ro: ["Cimitirul a fost stabilit în jurul anului 1654.", "Pietrele funerare includ inscripții în ebraică, portugheză și engleză.", "Adăpostește mormintele refugiaților evrei din Recife, Brazilia.", "Situl a fost restaurat integral în cursul anilor 1980.", "Face parte din zona protejată UNESCO a orașului istoric Bridgetown.", "Este considerat unul dintre cele mai bine conservate cimitire vechi din regiune."],
       en: ["The cemetery was established around the year 1654.", "Tombstones feature inscriptions in Hebrew, Portuguese, and English.", "It contains the remains of early Jewish settlers from Recife, Brazil.", "The grounds were extensively restored during the 1980s.", "It is a designated part of the UNESCO World Heritage site of Bridgetown.", "The site provides evidence of the Jewish community's early economic impact."],
     },
+    image: "/poi-images/barbados-bridgetown-jewish-cemetery-landmarks-v2.webp",
   },
   {
     id: "barbados-speightstown-esplanade-landmarks-v2",
@@ -961,6 +991,7 @@ export const barbadosLandmarksV2: POI[] = [
       ro: ["Speightstown a fost un centru major de comerț cu zahăr în secolul al XVII-lea.", "Esplanada se întinde de-a lungul liniei de coastă a parohiei Saint Peter.", "Tunuri istorice sunt expuse pe faleză, amintind de apărarea orașului.", "Porecla 'Little Bristol' provine de la legăturile comerciale strânse cu Anglia.", "Zona este un punct focal pentru evenimente comunitare și piețe locale.", "Promenada oferă acces facil la plajele adiacente din Speightstown."],
       en: ["Speightstown was a major center for the sugar trade in the 17th century.", "The esplanade runs along the scenic coastline of Saint Peter parish.", "Historic cannons are positioned along the walkway for public viewing.", "The name 'Little Bristol' was given due to direct trade with Bristol, UK.", "The area serves as a venue for seasonal festivals and community markets.", "It provides a prime viewing spot for traditional Caribbean sunsets."],
     },
+    image: "/poi-images/barbados-speightstown-esplanade-landmarks-v2.webp",
   },
   {
     id: "barbados-lord-nelson-statue-landmarks-v2",
@@ -992,6 +1023,7 @@ export const barbadosLandmarksV2: POI[] = [
       ro: ["Statuia a fost dezvelită oficial la data de 22 martie 1813.", "Sculptorul a fost renumitul artist britanic Sir Richard Westmacott.", "A fost amplasată în Piața Trafalgar, redenumită ulterior Piața Eroilor.", "Barbados a fost prima colonie care a ridicat un monument dedicat lui Nelson.", "Îndepărtarea statuii a avut loc oficial pe 16 noiembrie 2020.", "În prezent, statuia este expusă la Muzeul și Societatea Istorică din Barbados."],
       en: ["The statue was formally unveiled on March 22, 1813.", "The bronze work was sculpted by the renowned Sir Richard Westmacott.", "It stood in what was then Trafalgar Square, now National Heroes Square.", "Barbados was the first location to erect a statue in honor of Lord Nelson.", "The statue was removed from the square on November 16, 2020.", "It is now housed within the Barbados Museum & Historical Society."],
     },
+    image: "/poi-images/barbados-lord-nelson-statue-landmarks-v2.webp",
   },
   {
     id: "barbados-pelican-village-landmarks-v2",
@@ -1023,5 +1055,6 @@ export const barbadosLandmarksV2: POI[] = [
       ro: ["Fondat în 1972 pe o suprafață de 0,5 hectare.", "Include 20 de căsuțe meșteșugărești.", "Oferă spațiu pentru peste 50 de artizani locali.", "Atrage peste 100.000 de vizitatori anual.", "Chiria lunară a unei căsuțe este de 50 BBD.", "Căsuțele sunt construite din mahon și cedru local."],
       en: ["Established in 1972 on a 0.5-hectare site.", "Comprises 20 individual artisan huts.", "Hosts over 50 different craftspeople regularly.", "Attracts over 100,000 visitors annually.", "Monthly rental per hut is approximately 50 BBD.", "Huts are constructed from local mahogany and cedar wood."],
     },
+    image: "/poi-images/barbados-pelican-village-landmarks-v2.webp",
   }
 ];

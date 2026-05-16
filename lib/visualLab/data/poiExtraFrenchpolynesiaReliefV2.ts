@@ -31,6 +31,7 @@ export const frenchpolynesiaReliefV2: POI[] = [
       ro: ["Muntele Mouaputa are 766 de metri înălțime.", "Este situat pe insula Moorea.", "Muntele este de origine vulcanică.", "Urcarea necesită cunoștințe de alpinism.", "De pe vârf se vede Golful Cook.", "Muntele face parte din lanțul Moorea."],
       en: ["Mount Mouaputa is 766 meters high.", "It is located on Moorea Island.", "The mountain is volcanic in origin.", "Climbing requires climbing skills.", "From the summit, Cook's Bay is visible.", "The mountain is part of the Moorea range."],
     },
+    image: "/poi-images/frenchpolynesia-mount-mouaputa-relief-v2.webp",
   },
   {
     id: "frenchpolynesia-mount-marau-relief-v2",
@@ -62,6 +63,7 @@ export const frenchpolynesiaReliefV2: POI[] = [
       ro: ["Muntele Marau are 1.493 de metri înălțime.", "Este al doilea cel mai înalt munte pe Tahiti.", "Muntele este situat în centrul Tahiti Nui.", "Urcarea durează 6-8 ore.", "Aria protejată are o suprafață de 50 de kilometri pătrați.", "Muntele este de origine vulcanică."],
       en: ["Mount Marau is 1,493 meters high.", "It is the second highest mountain on Tahiti.", "The mountain is located in central Tahiti Nui.", "Climbing takes 6-8 hours.", "The protected area covers 50 square kilometers.", "The mountain is of volcanic origin."],
     },
+    image: "/poi-images/frenchpolynesia-mount-marau-relief-v2.webp",
   },
   {
     id: "frenchpolynesia-mount-ronui-relief-v2",
@@ -93,6 +95,7 @@ export const frenchpolynesiaReliefV2: POI[] = [
       ro: ["Muntele Ronui are 1.623 de metri înălțime.", "Este cel mai înalt munte pe Tahiti.", "Muntele este situat în centrul Tahiti Nui.", "Urcarea durează 8-10 ore.", "Muntele face parte dintr-un complex vulcanic.", "Temperatura pe vârf poate scădea la 10 grade Celsius."],
       en: ["Mount Ronui is 1,623 meters high.", "It is the highest mountain on Tahiti.", "The mountain is located in central Tahiti Nui.", "Climbing takes 8-10 hours.", "The mountain is part of a volcanic complex.", "Temperature at the summit can drop to 10 degrees Celsius."],
     },
+    image: "/poi-images/frenchpolynesia-mount-ronui-relief-v2.webp",
   },
   {
     id: "frenchpolynesia-mount-tekao-relief-v2",
@@ -124,6 +127,7 @@ export const frenchpolynesiaReliefV2: POI[] = [
       ro: ["Altitudine: 1.240 m", "Cel mai înalt vârf din insula Nuku Hiva", "Vulcan stins de tip scut, activ acum 2,5 milioane de ani", "Precipitații anuale: > 3.000 mm", "Specie endemică: palmierul Marquesas", "Loc sacru pentru populația indigenă"],
       en: ["Elevation: 1,240 meters", "Highest peak on Nuku Hiva, Marquesas Islands", "Last volcanic activity: 2.5 million years ago", "Annual rainfall: over 3,000 mm", "Endemic plant: Marquesan palm", "Sacred in Indigenous Polynesian culture"],
     },
+    image: "/poi-images/frenchpolynesia-mount-tekao-relief-v2.webp",
   },
   {
     id: "frenchpolynesia-mount-oave-relief-v2",
@@ -155,6 +159,7 @@ export const frenchpolynesiaReliefV2: POI[] = [
       ro: ["Altitudine: 1.232 m", "Cel mai înalt munte din Marquesas", "Coloane de bazalt spectaculoase", "Suprafața insulei Ua Pou: 105 km²", "Populația Ua Pou: sub 2.000 de locuitori", "Precipitații anuale: ~2.500 mm"],
       en: ["Elevation: 1,232 meters", "Highest peak in Marquesas Islands", "Famous for basalt columns", "Island area: 105 km²", "Population of Ua Pou: less than 2,000", "Annual rainfall: approximately 2,500 mm"],
     },
+    image: "/poi-images/frenchpolynesia-mount-oave-relief-v2.webp",
   },
   {
     id: "frenchpolynesia-mount-temetiu-relief-v2",
@@ -186,6 +191,7 @@ export const frenchpolynesiaReliefV2: POI[] = [
       ro: ["Altitudine: 1.213 m", "Cel mai înalt vârf din Hiva Oa", "Adăpostește porumbelul imperial Marquesas", "Petroglifele de la Puamau", "Temperatura medie la vârf: 15 °C", "Precipitații anuale: peste 2.000 mm"],
       en: ["Elevation: 1,213 meters", "Highest peak on Hiva Oa", "Habitat for endemic Marquesan imperial pigeon", "Archaeological site: Puamau petroglyphs", "Average summit temperature: 15°C", "Annual rainfall: over 2,000 mm"],
     },
+    image: "/poi-images/frenchpolynesia-mount-temetiu-relief-v2.webp",
   },
   {
     id: "frenchpolynesia-mount-heani-relief-v2",
@@ -217,6 +223,7 @@ export const frenchpolynesiaReliefV2: POI[] = [
       ro: ["Altitudine: 1.190 m", "Pe insula Ua Huka", "Vulcan puternic erodat", "Palmier endemic Ua Huka", "Precipitații anuale: ~1.500 mm", "Loc de cuibărit pentru țestoase marine"],
       en: ["Elevation: 1,190 meters", "Located on Ua Huka Island", "Heavily eroded volcano", "Endemic Ua Huka palm", "Annual rainfall: ~1,500 mm", "Nesting site for green sea turtles"],
     },
+    image: "/poi-images/frenchpolynesia-mount-heani-relief-v2.webp",
   },
   {
     id: "frenchpolynesia-mount-hitikau-relief-v2",
@@ -248,6 +255,7 @@ export const frenchpolynesiaReliefV2: POI[] = [
       ro: ["Altitudine: 1.150 m", "Cel mai înalt vârf din Fatu Hiva", "Suprafața insulei: 84 km²", "Bazin hidrografic important", "Ferigi endemice", "Renumit pentru țesăturile tapa"],
       en: ["Elevation: 1,150 meters", "Highest peak on Fatu Hiva", "Island area: 84 km²", "Critical watershed for freshwater", "Endemic fern species", "Known for traditional tapa cloth"],
     },
+    image: "/poi-images/frenchpolynesia-mount-hitikau-relief-v2.webp",
   },
   {
     id: "frenchpolynesia-mount-vaiua-relief-v2",
@@ -279,6 +287,7 @@ export const frenchpolynesiaReliefV2: POI[] = [
       ro: ["Altitudine: 1.110 m", "În centrul insulei Nuku Hiva", "Parte a platoului Toovii", "Cunoscut pentru caii sălbatici", "Temperatura medie: 18 °C", "Precipitații anuale: ~2.000 mm"],
       en: ["Elevation: 1,110 meters", "Central Nuku Hiva", "Part of the Toovii Plateau", "Known for wild horse populations", "Average temperature: 18°C", "Annual rainfall: ~2,000 mm"],
     },
+    image: "/poi-images/frenchpolynesia-mount-vaiua-relief-v2.webp",
   },
   {
     id: "frenchpolynesia-mount-teurafaatiu-relief-v2",
@@ -310,6 +319,7 @@ export const frenchpolynesiaReliefV2: POI[] = [
       ro: ["Altitudine: 1.070 m", "Al doilea cel mai înalt vârf din Ua Pou", "Creste ascuțite caracteristice", "Habitat pentru rallida Marquesas", "Pantă medie: >30°", "Parte a unei zone protejate"],
       en: ["Elevation: 1,070 meters", "Second highest peak on Ua Pou", "Characterized by sharp ridges", "Habitat for Marquesan rail", "Average slope: >30 degrees", "Part of a protected area"],
     },
+    image: "/poi-images/frenchpolynesia-mount-teurafaatiu-relief-v2.webp",
   },
   {
     id: "frenchpolynesia-mount-taitaa-relief-v2",
@@ -341,6 +351,7 @@ export const frenchpolynesiaReliefV2: POI[] = [
       ro: ["Altitudine: 1.040 m", "Vestul insulei Nuku Hiva", "Stânci abrupte în ocean", "Vedere spre golful Hakatea", "Agricultură: nuci de cocos și fructe de pâine", "Loc de întrunire tribală"],
       en: ["Elevation: 1,040 meters", "Western Nuku Hiva", "Steep cliffs dropping to ocean", "View of Hakatea Bay", "Cultivated: coconuts and breadfruit", "Historical tribal council site"],
     },
+    image: "/poi-images/frenchpolynesia-mount-taitaa-relief-v2.webp",
   },
   {
     id: "frenchpolynesia-opunohu-valley-relief-v2",
@@ -372,6 +383,7 @@ export const frenchpolynesiaReliefV2: POI[] = [
       ro: ["Lungime: ~10 km", "Pe insula Moorea", "Ruine de marae", "Cultivarea vaniliei", "Pomi fructiferi tropicali", "Destinație populară pentru drumeții"],
       en: ["Length: approximately 10 km", "Located on Moorea Island", "Contains marae temple ruins", "Vanilla cultivation", "Tropical fruit trees", "Popular hiking destination"],
     },
+    image: "/poi-images/frenchpolynesia-opunohu-valley-relief-v2.webp",
   },
   {
     id: "frenchpolynesia-toovii-plateau-relief-v2",
@@ -403,6 +415,7 @@ export const frenchpolynesiaReliefV2: POI[] = [
       ro: ["Altitudine: 800–1.000 m", "Pe insula Nuku Hiva", "Pășuni și păduri de pini", "Creșterea vitelor și a cailor", "Pin endemic Toovii", "Temperatura medie: 17 °C"],
       en: ["Elevation: 800–1,000 meters", "On Nuku Hiva Island", "Grasslands and pine forests", "Cattle and horse ranching", "Endemic Toovii pine", "Average temperature: 17°C"],
     },
+    image: "/poi-images/frenchpolynesia-toovii-plateau-relief-v2.webp",
   },
   {
     id: "frenchpolynesia-mount-atiheu-relief-v2",
@@ -434,6 +447,7 @@ export const frenchpolynesiaReliefV2: POI[] = [
       ro: ["Altitudine: 1.120 m", "Sudul insulei Hiva Oa", "Puțin vizitat", "Pădure tropicală densă", "Insecte endemice", "Sursă importantă de apă"],
       en: ["Elevation: 1,120 meters", "Southern Hiva Oa", "Less visited summit", "Dense rainforest", "Endemic insect species", "Important water source"],
     },
+    image: "/poi-images/frenchpolynesia-mount-atiheu-relief-v2.webp",
   },
   {
     id: "frenchpolynesia-mount-popoti-relief-v2",
@@ -465,6 +479,7 @@ export const frenchpolynesiaReliefV2: POI[] = [
       ro: ["Altitudine: 1.080 m", "Estul insulei Ua Huka", "Avifaună bogată", "Parte a unui coridor de biodiversitate", "Lemn de fier Ua Huka endemic", "Acces dificil"],
       en: ["Elevation: 1,080 meters", "Eastern Ua Huka", "Rich birdlife", "Part of a biodiversity corridor", "Endemic Ua Huka ironwood", "Difficult to access"],
     },
+    image: "/poi-images/frenchpolynesia-mount-popoti-relief-v2.webp",
   },
   {
     id: "frenchpolynesia-mount-tapinga-relief-v2",
@@ -496,5 +511,6 @@ export const frenchpolynesiaReliefV2: POI[] = [
       ro: ["Altitudine: 1.090 m", "Nord-vestul insulei Fatu Hiva", "Cascade spectaculoase", "Habitat pentru porumbelul fructivor Marquesas", "Plantații de cafea și banane", "Vedere spre insula Mohotani"],
       en: ["Elevation: 1,090 meters", "Northwestern Fatu Hiva", "Spectacular waterfalls", "Habitat for Marquesas fruit dove", "Coffee and banana plantations", "View of Mohotani Island"],
     },
+    image: "/poi-images/frenchpolynesia-mount-tapinga-relief-v2.webp",
   }
 ];

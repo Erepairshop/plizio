@@ -357,7 +357,8 @@ export const poiExtraBahamasRefill: POI[] = [
       hu: ["Egykor a sóbányászat központja volt", "Ma a búvárkodásról ismert", "A Rum Cay fő települése, egy csendes és félreeső szigeten.", "A karibi térségben fekvő Bahama-szigetek területén található.", "A régiót trópusi-tengeri éghajlat jellemzi.", "A szigetek közlekedési hálózatán keresztül érhető el.", "Szerepet játszik a helyi gazdaságban és kultúrában.", "A bahamai táj sokszínűségét képviseli."],
       ro: ["Odinioară un centru pentru extracția sării", "Astăzi cunoscut pentru scufundări", "Așezarea principală de pe Rum Cay, o insulă liniștită și izolată.", "Este situat în statul-arhipelag caraibian Bahamas.", "Regiunea este caracterizată de un climat tropical-maritim.", "Accesibil prin rețeaua națională de transport a insulelor.", "Joacă un rol în economia și cultura locală.", "Reprezentativ pentru diversitatea peisajului bahamian."],
       en: ["Once a center for salt raking", "Known today for diving", "The main settlement on Rum Cay, a quiet and secluded island.", "Located in the Caribbean island nation of the Bahamas.", "The region is marked by a tropical-maritime climate.", "Accessible via the national transport network of the islands.", "Plays a role in the local economy and culture.", "Representative of the diversity of the Bahamian landscape."]
-    }
+    },
+    image: "/poi-images/bs-port-nelson-refill.webp",
   },
   {
     id: "bs-cockburn-town-refill",
@@ -399,7 +400,8 @@ export const poiExtraBahamasRefill: POI[] = [
       hu: ["Évente megrendezi a Rák Fesztivált", "Az ökoturizmus központja", "Város North Andros szigetén, amely hatalmas szárazföldi rákjairól ismert.", "A karibi térségben fekvő Bahama-szigetek területén található.", "A régiót trópusi-tengeri éghajlat jellemzi.", "A szigetek közlekedési hálózatán keresztül érhető el.", "Szerepet játszik a helyi gazdaságban és kultúrában.", "A bahamai táj sokszínűségét képviseli."],
       ro: ["Găzduiește festivalul anual al crabilor", "Centru pentru ecoturism", "Un oraș pe North Andros cunoscut pentru crabii săi de uscat gigantici.", "Este situat în statul-arhipelag caraibian Bahamas.", "Regiunea este caracterizată de un climat tropical-maritim.", "Accesibil prin rețeaua națională de transport a insulelor.", "Joacă un rol în economia și cultura locală.", "Reprezentativ pentru diversitatea peisajului bahamian."],
       en: ["Hosts the annual Crab Fest", "Center for ecotourism", "A town on North Andros known for its giant land crabs.", "Located in the Caribbean island nation of the Bahamas.", "The region is marked by a tropical-maritime climate.", "Accessible via the national transport network of the islands.", "Plays a role in the local economy and culture.", "Representative of the diversity of the Bahamian landscape."]
-    }
+    },
+    image: "/poi-images/bs-nicolls-town-refill.webp",
   },
   {
     id: "bs-rolleville-refill",
@@ -545,7 +547,8 @@ export const poiExtraBahamasRefill: POI[] = [
       hu: ["A The Cloisters közelében", "A 19. században épült", "Történelmi világítótorony, amely panorámás kilátást nyújt a szigetre.", "A karibi térségben fekvő Bahama-szigetek területén található.", "A régiót trópusi-tengeri éghajlat jellemzi.", "A szigetek közlekedési hálózatán keresztül érhető el.", "Szerepet játszik a helyi gazdaságban és kultúrában.", "A bahamai táj sokszínűségét képviseli."],
       ro: ["Aproape de Mănăstiri", "Construit în secolul al XIX-lea", "Un far istoric care oferă vederi panoramice ale insulei.", "Este situat în statul-arhipelag caraibian Bahamas.", "Regiunea este caracterizată de un climat tropical-maritim.", "Accesibil prin rețeaua națională de transport a insulelor.", "Joacă un rol în economia și cultura locală.", "Reprezentativ pentru diversitatea peisajului bahamian."],
       en: ["Near The Cloisters", "Built in the 19th century", "A historic lighthouse offering panoramic views of the island.", "Located in the Caribbean island nation of the Bahamas.", "The region is marked by a tropical-maritime climate.", "Accessible via the national transport network of the islands.", "Plays a role in the local economy and culture.", "Representative of the diversity of the Bahamian landscape."]
-    }
+    },
+    image: "/poi-images/bs-gun-hill-lighthouse-refill.webp",
   },
   {
     id: "bs-albert-lowe-museum-refill",
@@ -587,7 +590,8 @@ export const poiExtraBahamasRefill: POI[] = [
       hu: ["Ma népszerű fotótéma", "A helyi történelem része", "Kicsi, 19.", "A karibi térségben fekvő Bahama-szigetek területén található.", "A régiót trópusi-tengeri éghajlat jellemzi.", "A szigetek közlekedési hálózatán keresztül érhető el.", "Szerepet játszik a helyi gazdaságban és kultúrában.", "A bahamai táj sokszínűségét képviseli."],
       ro: ["Astăzi o oportunitate foto", "Parte a istoriei locale", "O mică închisoare de piatră din secolul al XIX-lea în Governor's Harbour.", "Este situat în statul-arhipelag caraibian Bahamas.", "Regiunea este caracterizată de un climat tropical-maritim.", "Accesibil prin rețeaua națională de transport a insulelor.", "Joacă un rol în economia și cultura locală.", "Reprezentativ pentru diversitatea peisajului bahamian."],
       en: ["Now a photo opportunity", "Part of the local history", "A small, 19th-century stone jailhouse in Governor's Harbour.", "Located in the Caribbean island nation of the Bahamas.", "The region is marked by a tropical-maritime climate.", "Accessible via the national transport network of the islands.", "Plays a role in the local economy and culture.", "Representative of the diversity of the Bahamian landscape."]
-    }
+    },
+    image: "/poi-images/bs-old-jail-eleuthera-refill.webp",
   },
   {
     id: "bs-long-island-museum-refill",
@@ -1027,7 +1031,8 @@ export const poiExtraBahamasRefill: POI[] = [
       hu: ["A Bahamák szülőhelye", "Görögül 'szabadságot' jelent", "Hosszú, vékony sziget, amely rózsaszín homokos strandjairól és ananászföldjeiről ismert.", "A karibi térségben fekvő Bahama-szigetek területén található.", "A régiót trópusi-tengeri éghajlat jellemzi.", "A szigetek közlekedési hálózatán keresztül érhető el.", "Szerepet játszik a helyi gazdaságban és kultúrában.", "A bahamai táj sokszínűségét képviseli."],
       ro: ["Locul de naștere al Bahamasului", "Înseamnă 'libertate' în greacă", "O insulă lungă și subțire, renumită pentru plajele sale cu nisip roz și câmpurile de ananas.", "Este situat în statul-arhipelag caraibian Bahamas.", "Regiunea este caracterizată de un climat tropical-maritim.", "Accesibil prin rețeaua națională de transport a insulelor.", "Joacă un rol în economia și cultura locală.", "Reprezentativ pentru diversitatea peisajului bahamian."],
       en: ["Birthplace of The Bahamas", "Means 'freedom' in Greek", "A long, thin island known for pink sand beaches and pineapple fields.", "Located in the Caribbean island nation of the Bahamas.", "The region is marked by a tropical-maritime climate.", "Accessible via the national transport network of the islands.", "Plays a role in the local economy and culture.", "Representative of the diversity of the Bahamian landscape."]
-    }
+    },
+    image: "/poi-images/bs-eleuthera-island-refill.webp",
   }
 ];
 

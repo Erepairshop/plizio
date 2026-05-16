@@ -31,6 +31,7 @@ export const tongaNatureV2: POI[] = [
       ro: ["Kao are o lungime de aproximativ 5 kilometri și o lățime de 3 kilometri.", "Vulcanul este considerat inactiv, deoarece nu există înregistrări istorice ale erupțiilor.", "Înclinația versanților atinge pe alocuri peste 35 de grade.", "Kao se află la doar aproximativ 5 kilometri nord de insula vulcanică activă Tofua.", "Din cauza vegetației dense, nu există structuri de crater recognoscibile la vârf.", "Kao a fost observat și cartografiat în 1774 de căpitanul James Cook."],
       en: ["Kao measures approximately 5 kilometers in length and 3 kilometers in width.", "The volcano is classified as dormant, with no recorded historical eruptions.", "The gradient of the slopes exceeds 35 degrees in several sections, making it a challenging climb.", "Kao is located just 5 kilometers north of the volcanically active Tofua Island.", "Dense vegetation covers the summit, obscuring any distinct crater morphology.", "The island was first sighted and charted by Captain James Cook in 1774."],
     },
+    image: "/poi-images/tonga-kao-island-nature-v2.webp",
   },
   {
     id: "tonga-tofua-volcano-nature-v2",
@@ -62,6 +63,7 @@ export const tongaNatureV2: POI[] = [
       ro: ["Cea mai înaltă cotă a marginii calderei este de 506 metri deasupra nivelului mării.", "Lacul de crater din mijloc are o lățime de aproximativ 5 kilometri și se află aproape la nivelul mării.", "Conul Lofia este unul dintre cele mai active hornuri vulcanice din Tonga.", "Insula este cunoscută pentru zăcămintele sale de obsidian, o sticlă vulcanică.", "Tofua a fost descoperită în 1774 de căpitanul James Cook.", "Pe insulă crește kava sălbatică, care este apreciată pentru calitatea sa ridicată."],
       en: ["The highest point on the caldera rim reaches an elevation of 506 meters above sea level.", "The central crater lake is nearly 5 kilometers wide and sits close to sea level.", "The Lofia cone remains one of the most consistently active volcanic vents in the region.", "Tofua is known for its deposits of obsidian, which was historically used for toolmaking.", "The island was first documented by European explorers during Captain Cook's 1774 voyage.", "Wild kava grows abundantly on the island's fertile volcanic slopes."],
     },
+    image: "/poi-images/tonga-tofua-volcano-nature-v2.webp",
   },
   {
     id: "tonga-eua-national-park-nature-v2",
@@ -93,6 +95,7 @@ export const tongaNatureV2: POI[] = [
       ro: ["Parcul cuprinde o suprafață de aproximativ 450 de hectare de-a lungul fâșiei de coastă.", "Stâncile din 'Eua sunt printre cele mai înalte stânci de calcar din Pacific.", "În parc se află faimosul 'Big Tree', un arbore banyan gigantic.", "Oamenii de știință studiază aici ridicarea insulei, care a început acum 40 de milioane de ani.", "Parcul național protejează bazine hidrografice importante pentru populația locală.", "În stânci cuibăresc păsări marine rare, cum ar fi pasărea tropicală cu coadă roșie."],
       en: ["The national park covers approximately 450 hectares of rugged coastal terrain.", "The cliffs of 'Eua are among the highest uplifted limestone formations in the Pacific.", "One of the park's key attractions is the 'Big Tree,' an ancient and massive Banyan specimen.", "Geologists study the park to understand the tectonic uplift that began 40 million years ago.", "The forested area acts as a vital catchment zone for the island's freshwater supply.", "The coastal cliffs provide essential nesting sites for the red-tailed tropicbird."],
     },
+    image: "/poi-images/tonga-eua-national-park-nature-v2.webp",
   },
   {
     id: "tonga-mapu-a-vaea-nature-v2",
@@ -124,6 +127,7 @@ export const tongaNatureV2: POI[] = [
       ro: ["Sistemul poate fi observat cel mai spectaculos în timpul fluxului și al valurilor puternice.", "Fântânile pot atinge înălțimi de peste 30 de metri în condiții optime.", "Roca constă din calcar coralian pleistocen peste un substrat bazaltic.", "Orificiile de suflare se întind aproape neîntrerupt de-a lungul satului Houma.", "Pulverizarea apei din orificii creează o atmosferă salină care influențează flora locală.", "Oamenii de știință studiază aici ratele de eroziune ale formațiunilor de coastă cauzate de impactul valurilor."],
       en: ["The blowholes are best viewed during high tide when ocean swells are at their peak.", "Under optimal conditions, the water plumes can reach heights exceeding 30 meters.", "The geological structure features Pleistocene coral limestone sitting atop a basalt base.", "The formation runs almost continuously along the shoreline near the village of Houma.", "The constant salt spray from the vents dictates the types of vegetation that can grow nearby.", "Coastal geomorphologists use the site to study the mechanical erosion of limestone by hydraulic pressure."],
     },
+    image: "/poi-images/tonga-mapu-a-vaea-nature-v2.webp",
   },
   {
     id: "tonga-hufangalupe-nature-v2",
@@ -155,6 +159,7 @@ export const tongaNatureV2: POI[] = [
       ro: ["Formațiunea constă din calcar coralian ridicat din perioada Cuaternară.", "Numele se referă la o legendă despre un porumbel care a zburat prin poartă.", "Adâncitura de sub pod este conectată cu marea deschisă prin canale.", "Podul este suficient de lat pentru a putea merge în siguranță pe el.", "În apropiere se află poteci pe stânci abrupte, cunoscute pentru vederile lor panoramice.", "Hufangalupe arată efectele ridicării tectonice asupra insulei Tongatapu."],
       en: ["The formation is composed of uplifted Quaternary coral limestone.", "Its name originates from a local legend about a pigeon flying through the stone gateway.", "The chasm beneath the arch remains connected to the open ocean via subterranean channels.", "The bridge deck is substantial enough for visitors to walk across and view the abyss.", "The surrounding area features scenic cliff-top trails offering panoramic ocean views.", "Hufangalupe is a prime example of the coastal erosion processes active on uplifted coral islands."],
     },
+    image: "/poi-images/tonga-hufangalupe-nature-v2.webp",
   },
   {
     id: "tonga-lake-ano-nature-v2",
@@ -186,6 +191,7 @@ export const tongaNatureV2: POI[] = [
       ro: ["Lacul este situat în partea de vest a insulei Vava'u.", "Vegetația de pe mal include plante rare de mlaștină și ferigi.", "Lacul Ano este unul dintre puținele lacuri permanente cu apă dulce din Tonga.", "Este alimentat în principal de apa de ploaie și de izvoare subterane.", "În apropierea lacului au fost făcute descoperiri arheologice din cultura Lapita.", "Lacul servește ca un loc de popas important pentru păsările migratoare."],
       en: ["The lake is located in the western reaches of the Vava'u island group.", "Riparian flora includes specialized marsh plants and indigenous fern species.", "Lake Ano is among the few permanent freshwater bodies in the entire archipelago.", "The lake is primarily fed by direct precipitation and filtered groundwater seepage.", "Archaeological sites related to the ancient Lapita culture have been identified in the vicinity.", "The lake is a documented resting site for several species of migratory waterbirds."],
     },
+    image: "/poi-images/tonga-lake-ano-nature-v2.webp",
   },
   {
     id: "tonga-vai-lahi-lake-nature-v2",
@@ -217,6 +223,7 @@ export const tongaNatureV2: POI[] = [
       ro: ["Lacul are un diametru de aproximativ 4 kilometri.", "Temperatura apei este adesea mai ridicată decât temperatura aerului datorită izvoarelor hidrotermale.", "Vai Lahi se află într-o calderă creată de o prăbușire masivă în timpurile preistorice.", "Lacul conține mai multe insule, inclusiv Motu Lahi și Motu Si'i.", "Nivelul lacului este la doar câțiva metri deasupra nivelului mării.", "În 1946, o erupție vulcanică a dus la evacuarea temporară a întregii insule."],
       en: ["The lake spans a diameter of roughly 4 kilometers across the caldera floor.", "Hydrothermal vents cause the lake's water temperature to frequently exceed the ambient air temperature.", "The caldera containing Vai Lahi was formed by a catastrophic collapse in prehistoric times.", "The lake features several internal islands, the largest being Motu Lahi.", "The surface of the lake sits just a few meters above the mean sea level.", "A major eruption in 1946 forced the temporary relocation of the island's entire population."],
     },
+    image: "/poi-images/tonga-vai-lahi-lake-nature-v2.webp",
   },
   {
     id: "tonga-vai-sii-lake-nature-v2",
@@ -248,6 +255,7 @@ export const tongaNatureV2: POI[] = [
       ro: ["Lacul este considerabil mai mic decât vecinul său Vai Lahi.", "La fel ca vecinul său, este încălzit de energia geotermală.", "Vai Si'i oferă posibilități de cuibărit pentru diverse specii native de rațe.", "Zonele de mal sunt adesea noroioase și bogate în minerale vulcanice.", "Lacul face parte din rezervația naturală Niuafo'ou.", "În perioadele de secetă, nivelul apei din lac poate fluctua semnificativ."],
       en: ["Vai Si'i has a significantly smaller surface area compared to the neighboring Vai Lahi.", "The lake's temperature is elevated by the same geothermal network that heats the larger lake.", "It serves as a key nesting and feeding site for the Pacific black duck.", "The shoreline is characterized by mineral-rich volcanic mud and dense littoral vegetation.", "The lake is included within the designated conservation zones of Niuafo'ou.", "Water levels in Vai Si'i are highly sensitive to seasonal rainfall variations and evaporation rates."],
     },
+    image: "/poi-images/tonga-vai-sii-lake-nature-v2.webp",
   },
   {
     id: "tonga-late-island-nature-v2",
@@ -279,6 +287,7 @@ export const tongaNatureV2: POI[] = [
       ro: ["Insula atinge o înălțime maximă de 540 de metri deasupra nivelului mării.", "Diametrul insulei circulare este de aproximativ 6 kilometri.", "Ultima erupție vulcanică confirmată a avut loc în anul 1854.", "Late este considerată unul dintre cele mai importante locuri pentru reintroducerea speciilor amenințate.", "Insula nu are surse de apă permanente la suprafață.", "Au fost desfășurate programe de succes pentru eradicarea șobolanilor."],
       en: ["The highest point of the island reaches an elevation of 540 meters above sea level.", "Late Island is nearly circular in shape with a diameter of approximately 6 kilometers.", "The last confirmed volcanic eruption on the island was recorded in 1854.", "It is prioritized by conservationists as a prime site for the translocation of threatened native species.", "There are no permanent surface freshwater sources on the island.", "Successful rat eradication programs have been implemented to protect nesting bird populations."],
     },
+    image: "/poi-images/tonga-late-island-nature-v2.webp",
   },
   {
     id: "tonga-fonualei-volcano-nature-v2",
@@ -310,6 +319,7 @@ export const tongaNatureV2: POI[] = [
       ro: ["Vulcanul atinge o altitudine maximă de aproximativ 180 de metri deasupra nivelului mării.", "Insula este aproximativ circulară, cu un diametru de 1,5 kilometri.", "O erupție explozivă majoră în 1846 a cauzat căderi semnificative de cenușă în regiune.", "Exploratorul spaniol Don Francisco Maurelle a documentat prima dată vulcanul în 1781.", "Activități vulcanice înregistrate au avut loc în 1951, 1957, 1974, 1993 și 2001.", "Vulcanul este situat la 65 de kilometri nord-nord-vest de grupul de insule Vava'u."],
       en: ["The volcano reaches a peak elevation of approximately 180 meters above sea level.", "The island is roughly circular with a diameter of 1.5 kilometers.", "A major explosive eruption in 1846 caused significant ash fall across the region.", "Spanish explorer Don Francisco Maurelle first documented the volcano in 1781.", "Recorded volcanic activity occurred in 1951, 1957, 1974, 1993, and 2001.", "The volcano is located 65 kilometers north-northwest of the Vava'u island group."],
     },
+    image: "/poi-images/tonga-fonualei-volcano-nature-v2.webp",
   },
   {
     id: "tonga-anahulu-cave-nature-v2",
@@ -341,6 +351,7 @@ export const tongaNatureV2: POI[] = [
       ro: ["Peștera este situată la aproximativ 25 de kilometri de capitala Nuku'alofa.", "Piscina cu apă dulce din interiorul peșterii atinge adâncimi de până la 8 metri.", "Formațiunile naturale de calcar includ stalactite lungi de câțiva metri.", "Temperatura din peșteră rămâne de obicei constantă, între 20 și 22 de grade Celsius.", "Peștera Anahulu este situată la doar 50 de metri de țărmul Oceanului Pacific.", "Sistemul de peșteri se extinde pe câteva sute de metri în roca de calcar."],
       en: ["The cave is located approximately 25 kilometers from the capital city, Nuku'alofa.", "The freshwater pool inside the cave reaches depths of up to 8 meters.", "Natural limestone formations include stalactites that are several meters long.", "The cave temperature typically remains steady around 20 to 22 degrees Celsius.", "Anahulu Cave is situated just 50 meters from the shoreline of the Pacific Ocean.", "The cave system extends several hundred meters into the limestone bedrock."],
     },
+    image: "/poi-images/tonga-anahulu-cave-nature-v2.webp",
   },
   {
     id: "tonga-mariners-cave-nature-v2",
@@ -372,6 +383,7 @@ export const tongaNatureV2: POI[] = [
       ro: ["Intrarea în peșteră este situată la o adâncime de 2 până la 3 metri sub suprafața apei.", "William Mariner a trăit ca rezident în Tonga din 1806 până în 1810.", "Camera principală a peșterii are aproximativ 10 metri înălțime și 15 metri lățime.", "Schimbările de presiune pot face ca vizibilitatea să scadă în decurs de 1 până la 2 secunde.", "Peștera este situată pe coasta de nord-vest a insulei Nuapapu din Vava'u.", "Scafandrii trebuie să înoate printr-un tunel de aproximativ 4 metri lungime pentru a ajunge în cavernă."],
       en: ["The cave's entrance is located between 2 and 3 meters below the water's surface.", "William Mariner lived as a resident in Tonga from 1806 until 1810.", "The main chamber of the cave is approximately 10 meters high and 15 meters wide.", "Internal air pressure changes can cause visibility to drop within 1 to 2 seconds.", "The cave is situated on the northwestern coast of Nuapapu Island in Vava'u.", "Divers must swim through a tunnel approximately 4 meters long to reach the cavern."],
     },
+    image: "/poi-images/tonga-mariners-cave-nature-v2.webp",
   },
   {
     id: "tonga-swallows-cave-nature-v2",
@@ -403,6 +415,7 @@ export const tongaNatureV2: POI[] = [
       ro: ["Intrarea în peșteră este suficient de mare pentru a primi bărci cu o înălțime de până la 5 metri.", "Mii de lăstuni cuibăresc în tavanul peșterii, care se ridică la peste 10 metri înălțime.", "Adâncimea apei în interiorul peșterii atinge aproximativ 15 până la 20 de metri.", "Peștera Rândunicii este situată în vârful nord-vestic al insulei Kapa.", "Peștera a fost o destinație turistică populară încă de la sfârșitul secolului al XIX-lea.", "Bancuri de mii de pești mici se adună adesea în interiorul peșterii în timpul verii."],
       en: ["The cave entrance is large enough to accommodate boats up to 5 meters in height.", "Thousands of swifts nest in the cave's ceiling, which rises over 10 meters high.", "The water depth inside the cave reaches approximately 15 to 20 meters.", "Swallow's Cave is located on the northwestern tip of Kapa Island.", "The cave has been a popular tourist destination since the late 19th century.", "Schools of thousands of small fish often gather inside the cave during the summer."],
     },
+    image: "/poi-images/tonga-swallows-cave-nature-v2.webp",
   },
   {
     id: "tonga-haatafu-beach-nature-v2",
@@ -434,6 +447,7 @@ export const tongaNatureV2: POI[] = [
       ro: ["Plaja este situată la aproximativ 21 de kilometri vest de capitala Nuku'alofa.", "Un recif de corali protejează laguna, fiind situat la aproximativ 100 de metri de țărm.", "Erupția Hunga Tonga-Hunga Ha'apai a avut loc pe 15 ianuarie 2022.", "Rezervația Plajei Ha'atafu acoperă o suprafață de aproximativ 50 de hectare.", "Valurile din afara recifului pot atinge înălțimi de 3 până la 4 metri în sezonul de surf.", "Plaja se întinde pe aproximativ 1,5 kilometri de-a lungul coastei Kanokupolu."],
       en: ["The beach is situated approximately 21 kilometers west of the capital, Nuku'alofa.", "A coral reef protects the lagoon, located roughly 100 meters from the shoreline.", "The Hunga Tonga-Hunga Ha'apai eruption occurred on January 15, 2022.", "The Ha'atafu Beach Reserve covers an area of approximately 50 hectares.", "Waves outside the reef can reach heights of 3 to 4 meters during surf season.", "The beach spans approximately 1.5 kilometers along the Kanokupolu coastline."],
     },
+    image: "/poi-images/tonga-haatafu-beach-nature-v2.webp",
   },
   {
     id: "tonga-utu-vavau-cliffs-nature-v2",
@@ -465,6 +479,7 @@ export const tongaNatureV2: POI[] = [
       ro: ["Stâncile ating o înălțime maximă de aproximativ 120 de metri deasupra nivelului mării.", "Sunt situate în cel mai nordic punct al insulei 'Utu Vava'u.", "Formațiunile de calcar datează din epocile Pliocen și Pleistocen.", "Eroziunea marină a creat peste 15 peșteri marine documentate de-a lungul coastei.", "Zona servește ca loc principal de cuibărit pentru corbul de mare brun (Sula leucogaster).", "Studiile științifice din anii 1990 au identificat specii de plante adaptate la salinitate."],
       en: ["The cliffs reach a maximum elevation of approximately 120 meters above sea level.", "They are located on the northernmost tip of the island of 'Utu Vava'u.", "The limestone formations date back to the Pliocene and Pleistocene epochs.", "Marine erosion has created over 15 documented sea caves along this coastline.", "The area serves as a primary nesting site for the brown booby (Sula leucogaster).", "Scientific surveys in the 1990s identified unique plant species adapted to salt spray."],
     },
+    image: "/poi-images/tonga-utu-vavau-cliffs-nature-v2.webp",
   },
   {
     id: "tonga-fangasito-island-nature-v2",
@@ -496,6 +511,7 @@ export const tongaNatureV2: POI[] = [
       ro: ["Insula Fangasito este situată la aproximativ 12 kilometri sud de insula principală Vava'u.", "Insula este complet nelocuită și nu are nicio infrastructură permanentă.", "Se află la coordonatele aproximative 18,82 grade sud și 174,00 grade vest.", "Sistemul de recif înconjurător acoperă o suprafață de câțiva kilometri pătrați.", "Vizibilitatea apei în jurul insulei ajunge până la 35 de metri în condiții optime.", "Insula servește ca loc de cuibărit sezonier pentru țestoasa verde (Chelonia mydas)."],
       en: ["Fangasito Island is situated approximately 12 kilometers south of the main Vava'u island.", "The island is entirely uninhabited and lacks any permanent infrastructure.", "It lies at coordinates roughly 18.82 degrees South and 174.00 degrees West.", "The surrounding reef system covers an area of several square kilometers.", "Water visibility around the island is recorded to reach up to 35 meters in optimal conditions.", "The island serves as a seasonal nesting ground for the green sea turtle (Chelonia mydas)."],
     },
+    image: "/poi-images/tonga-fangasito-island-nature-v2.webp",
   },
   {
     id: "tonga-atata-island-nature-v2",
@@ -527,6 +543,7 @@ export const tongaNatureV2: POI[] = [
       ro: ["'Atata se află la aproximativ 10 kilometri (6 mile) de portul Nuku'alofa.", "Valurile tsunami din 2022 care au lovit insula au fost estimate la 6 până la 10 metri înălțime.", "Înainte de evacuare, populația insulei era înregistrată la 106 persoane în 2021.", "Insula găzduiește o Zonă de Management Special (SMA) care acoperă 800 de hectare de habitat marin.", "Stațiunea Royal Sunset Island, înființată în anii 1980, a fost complet distrusă în 2022.", "Comunitatea relocată a fondat noul sat 'Atata Si'i pe Tongatapu în decembrie 2022."],
       en: ["'Atata is located roughly 10 kilometers (6 miles) from the port of Nuku'alofa.", "The 2022 tsunami waves that struck the island were estimated at 6 to 10 meters high.", "Before the evacuation, the island's population was recorded at 106 people in 2021.", "The island hosts a Special Management Area (SMA) covering 800 hectares of marine habitat.", "The Royal Sunset Island Resort, established in the 1980s, was completely destroyed in 2022.", "The relocated community founded the new village of 'Atata Si'i on Tongatapu in December 2022."],
     },
+    image: "/poi-images/tonga-atata-island-nature-v2.webp",
   },
   {
     id: "tonga-pangaimotu-reef-nature-v2",
@@ -558,6 +575,7 @@ export const tongaNatureV2: POI[] = [
       ro: ["Reciful este accesibil printr-un tranzit cu barca de 10 minute din capitală.", "Epava navei MV Myokei Maru este scufundată de la începutul anilor 1980.", "Adâncimile apei în jurul perimetrului recifului variază de obicei între 1 și 15 metri.", "Peste 50 de specii de corali duri au fost identificate în sistemul de recif Pangaimotu.", "Insula însăși a fost declarată parc național sau arie protejată la sfârșitul anilor 1970.", "Sondajele locale au înregistrat peste 150 de specii de pești de recif care locuiesc în zonă."],
       en: ["The reef is accessible via a 10-minute boat transit from the capital city.", "The shipwreck of the MV Myokei Maru has been submerged since the early 1980s.", "Water depths around the reef perimeter typically range from 1 to 15 meters.", "Over 50 species of hard corals have been identified within the Pangaimotu reef system.", "The island itself was declared a national park or protected area in the late 1970s.", "Local surveys have recorded over 150 species of reef fish inhabiting the area."],
     },
+    image: "/poi-images/tonga-pangaimotu-reef-nature-v2.webp",
   },
   {
     id: "tonga-nomuka-lake-nature-v2",
@@ -589,6 +607,7 @@ export const tongaNatureV2: POI[] = [
       ro: ["Insula Nomuka a fost vizitată pentru prima dată de exploratorul Abel Tasman pe 24 ianuarie 1643.", "Căpitanul James Cook a vizitat insula și sursele sale de apă în 1774 și din nou în 1777.", "Lacul este situat la o altitudine de aproximativ 2 până la 4 metri deasupra nivelului mării.", "Insula Nomuka are o suprafață totală de aproximativ 7 kilometri pătrați.", "Cel mai înalt punct de pe insulă, lângă lac, atinge 51 de metri înălțime.", "Numele lacului „Ano Ava” se referă la statutul său de trăsătură de apă interioară semnificativă."],
       en: ["Nomuka Island was first reached by European explorer Abel Tasman on January 24, 1643.", "Captain James Cook visited the island and its water sources in 1774 and again in 1777.", "The lake is situated at an elevation of approximately 2 to 4 meters above sea level.", "Nomuka Island has a total land area of roughly 7 square kilometers.", "The highest point on the island, near the lake, reaches 51 meters in altitude.", "The lake's name \"Ano Ava\" refers to its status as a significant inland water feature."],
     },
+    image: "/poi-images/tonga-nomuka-lake-nature-v2.webp",
   },
   {
     id: "tonga-lifuka-coastline-nature-v2",
@@ -620,6 +639,7 @@ export const tongaNatureV2: POI[] = [
       ro: ["Insula acoperă o suprafață terestră totală de 11,42 kilometri pătrați.", "Căpitanul James Cook a debarcat pe insulă în mai 1777.", "Populația insulei Lifuka era de aproximativ 2.900 de locuitori la ultimul recensământ.", "Nava britanică Port au Prince a fost atacată și capturată aici în anul 1806.", "Cel mai înalt punct al insulei se află la doar 15 metri deasupra nivelului mării.", "Aeroportul Salote Pilolevu oferă principala conexiune aeriană către insulă."],
       en: ["The island covers a total land area of 11.42 square kilometers.", "Captain James Cook landed on the island in May 1777.", "The population of Lifuka was approximately 2,900 in the most recent census.", "The British ship Port au Prince was attacked and captured here in 1806.", "The island's highest point is only 15 meters above sea level.", "Salote Pilolevu Airport provides the main aerial connection to the island."],
     },
+    image: "/poi-images/tonga-lifuka-coastline-nature-v2.webp",
   },
   {
     id: "tonga-foa-island-nature-v2",
@@ -651,6 +671,7 @@ export const tongaNatureV2: POI[] = [
       ro: ["Insula Foa are o suprafață terestră totală de aproximativ 13,39 kilometri pătrați.", "Un dig de 600 de metri lungime conectează insula de Lifuka învecinată.", "Se estimează că petroglifele Houmaleʻeia au o vechime de peste 1.000 de ani.", "Insula atinge o altitudine maximă de 20 de metri deasupra nivelului mării.", "Recensământul din 2016 a înregistrat o populație de 1.367 de rezidenți pe insulă.", "Distanța dintre Foa și centrul administrativ Pangai este de aproximativ 10 kilometri."],
       en: ["Foa Island has a total land area of approximately 13.39 square kilometers.", "A 600-meter-long causeway connects the island to neighboring Lifuka.", "The Houmaleʻeia petroglyphs are estimated to be over 1,000 years old.", "The island reaches a peak elevation of 20 meters above sea level.", "The 2016 census recorded a population of 1,367 residents on the island.", "The distance between Foa and the administrative center of Pangai is about 10 kilometers."],
     },
+    image: "/poi-images/tonga-foa-island-nature-v2.webp",
   },
   {
     id: "tonga-haano-island-nature-v2",
@@ -682,6 +703,7 @@ export const tongaNatureV2: POI[] = [
       ro: ["Insula Ha'ano cuprinde o suprafață totală de 6,58 kilometri pătrați.", "Recensământul din 2021 a raportat o populație totală de 456 de locuitori.", "Altitudinea maximă a insulei este înregistrată la 14 metri.", "Insula Ha'ano se află la aproximativ 14 kilometri nord de insula Lifuka.", "Există 4 sate distincte situate pe linia de coastă vestică a insulei.", "Insula servește ca habitat principal pentru o colonie mare de vulpi zburătoare endemice."],
       en: ["Ha'ano Island encompasses a total surface area of 6.58 square kilometers.", "The 2021 census reported a total population of 456 inhabitants.", "The island's maximum elevation is recorded at 14 meters.", "Ha'ano is located approximately 14 kilometers north of Lifuka Island.", "There are 4 distinct villages located on the island's western coastline.", "The island serves as a primary habitat for a large colony of endemic flying foxes."],
     },
+    image: "/poi-images/tonga-haano-island-nature-v2.webp",
   },
   {
     id: "tonga-uiha-island-nature-v2",
@@ -713,6 +735,7 @@ export const tongaNatureV2: POI[] = [
       ro: ["Insula ocupă o suprafață terestră totală de 5,36 kilometri pătrați.", "Monumentul funerar regal Makahokovalu datează de aproximativ 1500 d.Hr.", "Căpitanul James Cook a vizitat insula în timpul celei de-a treia călătorii a sa, în 1777.", "Altitudinea maximă a insulei este de aproximativ 12 metri.", "'Uiha avea o populație înregistrată de 638 de persoane la recensământul din 2016.", "Insula este situată la aproximativ 13 kilometri sud de orașul Pangai."],
       en: ["The island occupies a total land area of 5.36 square kilometers.", "The Makahokovalu royal burial monument dates back to approximately 1500 AD.", "Captain James Cook visited the island during his third voyage in 1777.", "The maximum altitude of the island is approximately 12 meters.", "'Uiha had a recorded population of 638 people in the 2016 census.", "The island is located about 13 kilometers south of the town of Pangai."],
     },
+    image: "/poi-images/tonga-uiha-island-nature-v2.webp",
   },
   {
     id: "tonga-niuafoou-caldera-nature-v2",
@@ -744,6 +767,7 @@ export const tongaNatureV2: POI[] = [
       ro: ["Caldera centrală a insulei are o suprafață totală de 15 kilometri pătrați.", "Lacul Vai Lahi atinge o adâncime maximă de aproximativ 84 de metri.", "O erupție vulcanică majoră a avut loc pe 9 septembrie 1946.", "Populația endemică a păsării Malau constă în aproximativ 800 de perechi reproducătoare.", "Cel mai înalt punct de pe marginea calderei este la 260 de metri deasupra nivelului mării.", "Recensământul din 2021 a înregistrat o populație rămasă de 431 de locuitori."],
       en: ["The island's central caldera has a total area of 15 square kilometers.", "Lake Vai Lahi reaches a maximum depth of approximately 84 meters.", "A major volcanic eruption occurred on September 9, 1946.", "The endemic Malau bird population consists of approximately 800 breeding pairs.", "The highest point on the caldera's rim is 260 meters above sea level.", "The 2021 census recorded a remaining population of 431 residents."],
     },
+    image: "/poi-images/tonga-niuafoou-caldera-nature-v2.webp",
   },
   {
     id: "tonga-niuatoputapu-island-nature-v2",
@@ -775,6 +799,7 @@ export const tongaNatureV2: POI[] = [
       ro: ["Niuatoputapu este situată la 15,95° latitudine sudică și 173,78° longitudine vestică.", "Insula acoperă o suprafață terestră de aproximativ 18 kilometri pătrați.", "Jacob Le Maire a cartografiat insula pentru prima dată la 14 mai 1616.", "Mount Niutoua este cel mai înalt punct al insulei, având 157 de metri.", "Distanța până la insula vecină Tafahi este de numai 9 kilometri.", "Tsunami-ul din 2009 a atins înălțimi ale valurilor de până la 6 metri pe coastă."],
       en: ["Niuatoputapu is located at 15.95° south latitude and 173.78° west longitude.", "The island covers a total land area of approximately 18 square kilometers.", "Jacob Le Maire first charted the island on May 14, 1616.", "Mount Niutoua is the highest point on the island at 157 meters.", "The distance to the neighboring island of Tafahi is only 9 kilometers.", "The 2009 tsunami generated wave heights of up to 6 meters on the coastline."],
     },
+    image: "/poi-images/tonga-niuatoputapu-island-nature-v2.webp",
   },
   {
     id: "tonga-tafahi-volcano-nature-v2",
@@ -806,6 +831,7 @@ export const tongaNatureV2: POI[] = [
       ro: ["Tafahi este situat la coordonatele 15,85° S și 173,71° V.", "Vârful vulcanului atinge o înălțime de exact 560 de metri.", "Insula a fost descoperită în 1616 de olandezii Le Maire și Schouten.", "Din punct de vedere geologic, vulcanul este compus în principal din bazalt și andezit.", "Tafahi este numită local și 'Cocos-Eyland', un nume din epoca marilor descoperiri.", "Suprafața totală a insulei este de mai puțin de 3,5 kilometri pătrați."],
       en: ["Tafahi is located at coordinates 15.85° S and 173.71° W.", "The summit of the volcano reaches an elevation of exactly 560 meters.", "The island was discovered in 1616 by the Dutchmen Le Maire and Schouten.", "Geologically, the volcano consists mainly of basaltic and andesitic rock.", "Tafahi is locally also called 'Cocos-Eyland', a name from the era of discovery.", "The total land area of the island is less than 3.5 square kilometers."],
     },
+    image: "/poi-images/tonga-tafahi-volcano-nature-v2.webp",
   },
   {
     id: "tonga-hunga-tonga-nature-v2",
@@ -837,6 +863,7 @@ export const tongaNatureV2: POI[] = [
       ro: ["Erupția din 2022 a eliberat o energie echivalentă cu aproximativ 10 până la 15 megatone de TNT.", "Norul de cenușă a atins o înălțime record de 58 de kilometri pe 15 ianuarie 2022.", "Înainte de explozia din 2022, insula unită avea o suprafață de aproximativ 2,85 kilometri pătrați.", "Vulcanul se află la aproximativ 65 de kilometri nord de capitala Nuku'alofa.", "Unda de șoc a erupției a înconjurat Pământul de mai multe ori în decurs de 24 de ore.", "Oamenii de știință de la NASA au descris explozia ca fiind cea mai puternică de la Krakatau în 1883."],
       en: ["The 2022 eruption released energy equivalent to approximately 10 to 15 megatons of TNT.", "The ash plume reached a record height of 58 kilometers on January 15, 2022.", "Prior to the 2022 explosion, the combined island area was about 2.85 square kilometers.", "The volcano is situated about 65 kilometers north of the capital city, Nuku'alofa.", "The eruption's pressure wave circled the Earth several times within 24 hours.", "NASA scientists described the explosion as the loudest heard since Krakatoa in 1883."],
     },
+    image: "/poi-images/tonga-hunga-tonga-nature-v2.webp",
   },
   {
     id: "tonga-falcon-island-nature-v2",
@@ -868,6 +895,7 @@ export const tongaNatureV2: POI[] = [
       ro: ["Insula Falcon este situată la coordonatele 20,32° S și 175,41° V.", "O erupție din 1885 a creat o insulă cu o lungime de 4 kilometri.", "Până în 1894, insula dispăruse complet din nou din cauza eroziunii.", "În 1927, a reapărut după o erupție și a atins o înălțime de 145 de metri.", "Insula constă aproape exclusiv din cenușă bazaltică neagră și zgură.", "În anii 1970, insula a fost raportată din nou ca fiind sub nivelul mării."],
       en: ["Falcon Island is located at coordinates 20.32° S and 175.41° W.", "An eruption in 1885 created an island that was 4 kilometers long.", "By 1894, the island had completely disappeared again due to erosion.", "In 1927, it emerged once more after an eruption, reaching a height of 145 meters.", "The island consists almost entirely of dark, basaltic ash and scoria.", "In the 1970s, the island was reported again as being below the sea surface."],
     },
+    image: "/poi-images/tonga-falcon-island-nature-v2.webp",
   },
   {
     id: "tonga-toku-island-nature-v2",
@@ -899,6 +927,7 @@ export const tongaNatureV2: POI[] = [
       ro: ["Insula Toku este situată la 18,15° latitudine sudică și 174,18° longitudine vestică.", "Insula atinge o înălțime maximă de numai 8 metri deasupra nivelului mării.", "Suprafața terestră este de aproximativ 0,4 kilometri pătrați.", "Toku a fost zărită în 1781 de exploratorul spaniol Francisco Mourelle.", "Nu există locuitori permanenți pe insulă.", "Insula este un loc de reproducere pentru broasca țestoasă verde, specie pe cale de dispariție."],
       en: ["Toku Island is located at 18.15° south latitude and 174.18° west longitude.", "The island reaches a maximum elevation of only 8 meters above sea level.", "The total land area is approximately 0.4 square kilometers.", "Toku was sighted in 1781 by the Spanish explorer Francisco Mourelle.", "There are no permanent residents living on the island.", "The island is a breeding ground for the endangered green sea turtle."],
     },
+    image: "/poi-images/tonga-toku-island-nature-v2.webp",
   },
   {
     id: "tonga-vavau-archipelago-nature-v2",
@@ -930,5 +959,6 @@ export const tongaNatureV2: POI[] = [
       ro: ["Vava'u acoperă o suprafață terestră totală de 121 kilometri pătrați.", "Mount Talau este cea mai înaltă cotă de pe insula principală, având 131 de metri.", "Francisco Mourelle a fost primul european care a cartografiat arhipelagul în 1781.", "În fiecare an, aproximativ 2.000 de balene cu cocoașă vizitează apele din Vava'u.", "Swallows Cave este accesibilă doar cu barca și este faimoasă pentru reflexiile luminii.", "Vanilia din Vava'u este considerată una dintre cele mai calitative varietăți din lume."],
       en: ["Vava'u covers a total land area of 121 square kilometers.", "Mount Talau is the highest point on the main island at 131 meters.", "Francisco Mourelle was the first European to map the archipelago in 1781.", "Approximately 2,000 humpback whales visit the waters of Vava'u annually.", "Swallows Cave is accessible only by boat and is famous for its light reflections.", "Vanilla from Vava'u is regarded as one of the highest-quality varieties globally."],
     },
+    image: "/poi-images/tonga-vavau-archipelago-nature-v2.webp",
   }
 ];

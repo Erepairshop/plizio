@@ -31,6 +31,7 @@ export const marshallislandsCitiesV2: POI[] = [
       ro: ["Populație: 27.797 (recensământ 2011)", "Suprafață: 9,7 km²", "Numărul de insule din atol: 64", "Altitudine maximă: 3 m", "Producția anuală de ton: peste 20.000 tone", "Lungimea drumului principal: 30 km"],
       en: ["Population: 27,797 (2011 census)", "Land area: 9.7 km²", "Number of islets in Majuro Atoll: 64", "Maximum elevation: 3 m above sea level", "Annual rainfall: 3,000 mm", "Year of establishment as capital: 1885 (German protectorate)"],
     },
+    image: "/poi-images/marshallislands-majuro-cities-v2.webp",
   },
   {
     id: "marshallislands-ebeye-cities-v2",
@@ -62,6 +63,7 @@ export const marshallislandsCitiesV2: POI[] = [
       ro: ["Suprafață: 0,36 km²", "Populație: 15.000", "Densitate: 41.667 locuitori/km²", "Distanța față de atolul Kwajalein: 3 km", "Număr de școli: 4", "Anul construirii bazei militare: 1944"],
       en: ["Land area: 0.36 km²", "Population: approx. 15,000 (2020 estimate)", "Population density: >40,000 per km²", "Distance to Kwajalein Island: 3 km", "Number of households: ~2,500", "Year of establishment: 1950s"],
     },
+    image: "/poi-images/marshallislands-ebeye-cities-v2.webp",
   },
   {
     id: "marshallislands-ajeltake-cities-v2",
@@ -93,6 +95,7 @@ export const marshallislandsCitiesV2: POI[] = [
       ro: ["Populație: 1.200", "Distanța până la aeroport: 1 km", "Numărul de școli: 1", "Suprafața satului: 0,2 km²", "Anul fondării: 1900-uri", "Densitatea populației: 6.000 locuitori/km²"],
       en: ["Population: approx. 1,200", "Distance from Majuro city center: 10 km", "Number of schools: 1", "Land area: 0.2 km²", "Year established: early 20th century", "Average household income: $8,000"],
     },
+    image: "/poi-images/marshallislands-ajeltake-cities-v2.webp",
   },
   {
     id: "marshallislands-laura-cities-v2",
@@ -124,6 +127,7 @@ export const marshallislandsCitiesV2: POI[] = [
       ro: ["Situată la vest de atolul Majuro", "Altitudine de aprox. 3 metri", "Cel mai înalt punct al atolului", "Centru principal pentru agricultura locală", "Drum de 45 km până în Delap", "Populație de aproximativ 2.000 locuitori"],
       en: ["Located at Majuro's western end", "Elevation of approx. 3 meters", "Highest point on the atoll", "Primary center for local farming", "Connected to Delap by a 45km road", "Population of about 2,000 people"],
     },
+    image: "/poi-images/marshallislands-laura-cities-v2.webp",
   },
   {
     id: "marshallislands-jabor-cities-v2",
@@ -155,6 +159,7 @@ export const marshallislandsCitiesV2: POI[] = [
       ro: ["Centrul atolului Jaluit", "Sediul administrației germane (1885-1914)", "Dispune de un port natural adânc", "Bază navală japoneză în al Doilea Război Mondial", "Găzduiește mai multe școli regionale", "Populație de aproximativ 600 locuitori"],
       en: ["Main town of Jaluit Atoll", "German administrative HQ (1885-1914)", "Features a deep natural harbor", "Japanese naval base in WWII", "Home to several regional schools", "Population of approximately 600"],
     },
+    image: "/poi-images/marshallislands-jabor-cities-v2.webp",
   },
   {
     id: "marshallislands-wotje-cities-v2",
@@ -186,6 +191,7 @@ export const marshallislandsCitiesV2: POI[] = [
       ro: ["Suprafață terestră de 8,18 km²", "Suprafața lagunei de 624 km²", "Format din 75 de insule individuale", "Bază japoneză majoră în al Doilea Război Mondial", "Găzduiește un liceu regional", "Sursa principală de venit este copra"],
       en: ["Land area of 8.18 km²", "Lagoon area of 624 km²", "Comprised of 75 separate islets", "Major Japanese base in WWII", "Home to a regional high school", "Primary economic product is copra"],
     },
+    image: "/poi-images/marshallislands-wotje-cities-v2.webp",
   },
   {
     id: "marshallislands-enewetak-cities-v2",
@@ -217,6 +223,7 @@ export const marshallislandsCitiesV2: POI[] = [
       ro: ["Format din 40 de insule mici", "Suprafața lagunei de aprox. 1.000 km²", "Locul a 43 de teste nucleare", "Prima bombă cu hidrogen (1952)", "Cupola Runit stochează deșeuri radioactive", "Populație de aproximativ 300 persoane"],
       en: ["Consists of 40 small islets", "Lagoon area of approx. 1,000 km²", "Site of 43 nuclear weapon tests", "First hydrogen bomb test (1952)", "Runit Dome stores radioactive debris", "Population is about 300 people"],
     },
+    image: "/poi-images/marshallislands-enewetak-cities-v2.webp",
   },
   {
     id: "marshallislands-kili-cities-v2",
@@ -248,6 +255,7 @@ export const marshallislandsCitiesV2: POI[] = [
       ro: ["Suprafață terestră de 0,93 km²", "Nu are lagună sau recif protector", "Căminul exilaților din Bikini din 1948", "Precipitații anuale ridicate (>3.000 mm)", "Dispune de o pistă scurtă de aterizare", "Populație de aproximativ 550 persoane"],
       en: ["Land area of only 0.93 km²", "No lagoon or protective reef", "Home to Bikini exiles since 1948", "High annual rainfall (>3,000 mm)", "Equipped with a short airfield", "Population of about 550 people"],
     },
+    image: "/poi-images/marshallislands-kili-cities-v2.webp",
   },
   {
     id: "marshallislands-namu-cities-v2",
@@ -279,6 +287,7 @@ export const marshallislandsCitiesV2: POI[] = [
       ro: ["Suprafață terestră de 6,27 km²", "Suprafața lagunei de 397 km²", "Format din 54 de insulițe", "Cunoscut pentru țesăturile tradiționale", "Parte a lanțului de insule Ralik", "Populație de aproximativ 800 persoane"],
       en: ["Land area of 6.27 km²", "Lagoon area of 397 km²", "Comprised of 54 islets", "Renowned for traditional weaving", "Member of the Ralik Chain", "Population of about 800 people"],
     },
+    image: "/poi-images/marshallislands-namu-cities-v2.webp",
   },
   {
     id: "marshallislands-mejit-cities-v2",
@@ -310,6 +319,7 @@ export const marshallislandsCitiesV2: POI[] = [
       ro: ["Suprafață terestră de 1,86 km²", "Insulă solitară fără lagună", "Posedă un lac interior cu apă dulce", "Celebră pentru covoarele din pandanus", "Nu are recif exterior protector", "Populație de aproximativ 350 persoane"],
       en: ["Land area of 1.86 km²", "Single island without a lagoon", "Features an interior freshwater lake", "Famous for fine pandanus mats", "Lacks a protective outer reef", "Population of about 350 people"],
     },
+    image: "/poi-images/marshallislands-mejit-cities-v2.webp",
   },
   {
     id: "marshallislands-woja-cities-v2",
@@ -341,6 +351,7 @@ export const marshallislandsCitiesV2: POI[] = [
       ro: ["Parte a atolului Ailinglaplap", "Deține un aeroport regional", "Loc important pentru comerțul cu copra", "Structură coraligenă joasă", "Parte a lanțului de insule Ralik", "Populație de aproximativ 500 persoane"],
       en: ["Part of Ailinglaplap Atoll", "Equipped with a regional airfield", "Important site for copra trade", "Characterized by flat coral terrain", "Member of the Ralik Chain", "Population of about 500 people"],
     },
+    image: "/poi-images/marshallislands-woja-cities-v2.webp",
   },
   {
     id: "marshallislands-aur-cities-v2",
@@ -372,6 +383,7 @@ export const marshallislandsCitiesV2: POI[] = [
       ro: ["Suprafață terestră de 5,62 km²", "Suprafața lagunei de 240 km²", "Format din 42 de insulițe", "Insulele principale sunt Tabal și Aur", "Situat la nord de Majuro", "Populație de aproximativ 500 persoane"],
       en: ["Land area of 5.62 km²", "Lagoon area of 240 km²", "Comprised of 42 islets", "Main islets are Tabal and Aur", "Located north of Majuro", "Population of about 500 people"],
     },
+    image: "/poi-images/marshallislands-aur-cities-v2.webp",
   },
   {
     id: "marshallislands-mili-cities-v2",
@@ -403,6 +415,7 @@ export const marshallislandsCitiesV2: POI[] = [
       ro: ["Suprafață terestră de 16 km²", "Suprafața lagunei de 760 km²", "Format din 92 de insule", "Bază japoneză majoră în al Doilea Război Mondial", "Cel mai sud-estic atol din lanțul Ratak", "Populație de aproximativ 700 persoane"],
       en: ["Land area of 16 km²", "Lagoon area of 760 km²", "Comprised of 92 islets", "Major Japanese base in WWII", "Southeasternmost atoll in Ratak Chain", "Population of about 700 people"],
     },
+    image: "/poi-images/marshallislands-mili-cities-v2.webp",
   },
   {
     id: "marshallislands-maloelap-cities-v2",
@@ -434,6 +447,7 @@ export const marshallislandsCitiesV2: POI[] = [
       ro: ["Suprafață terestră de 9,8 km²", "Suprafața lagunei de 973 km²", "Format din 71 de insulițe", "Fostă bază aeriană japoneză pe Taroa", "Lagună centrală foarte adâncă", "Populație de aproximativ 700 persoane"],
       en: ["Land area of 9.8 km²", "Lagoon area of 973 km²", "Comprised of 71 islets", "Former Japanese airbase on Taroa", "Features a very deep central lagoon", "Population of about 700 people"],
     },
+    image: "/poi-images/marshallislands-maloelap-cities-v2.webp",
   },
   {
     id: "marshallislands-arno-cities-v2",
@@ -465,5 +479,6 @@ export const marshallislandsCitiesV2: POI[] = [
       ro: ["Suprafață terestră de 13 km²", "Posedă 3 lagune separate", "Format din 133 de insulițe", "Furnizor principal pentru piețele din Majuro", "Cel mai apropiat atol de Majuro", "Populație de aproximativ 1.800 persoane"],
       en: ["Land area of 13 km²", "Contains 3 separate lagoons", "Comprised of 133 islets", "Major supplier to Majuro markets", "Nearest atoll to the capital Majuro", "Population of about 1,800 people"],
     },
+    image: "/poi-images/marshallislands-arno-cities-v2.webp",
   }
 ];

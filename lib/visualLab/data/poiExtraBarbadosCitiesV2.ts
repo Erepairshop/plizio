@@ -31,6 +31,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populație: aproximativ 110.000 (2014).", "Fondat în 1628.", "Suprafață: 40 de kilometri pătrați.", "Patrimoniul Mondial UNESCO din 2011.", "Temperatura medie: 27°C.", "Altitudine: 0 metri deasupra nivelului mării."],
       en: ["Population: approx. 110,000 (2014).", "Founded in 1628.", "Area: 40 square kilometers.", "UNESCO World Heritage site since 2011.", "Average temperature: 27°C.", "Elevation: 0 meters above sea level."],
     },
+    image: "/poi-images/barbados-bridgetown-cities-v2.webp",
   },
   {
     id: "barbados-speightstown-cities-v2",
@@ -62,6 +63,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populație: aprox. 3.500.", "Fondat în secolul al XVII-lea.", "Suprafață: aprox. 2 kilometri pătrați.", "Muzeul Arlington House datează din secolul al XVIII-lea.", "Portul a fost cândva al doilea ca mărime pe insulă.", "Precipitații anuale: aprox. 1.200 mm."],
       en: ["Population: approx. 3,500.", "Founded in the 17th century.", "Area: about 2 square kilometers.", "Arlington House Museum dates from the 18th century.", "The port was once the second largest on the island.", "Annual rainfall: about 1,200 mm."],
     },
+    image: "/poi-images/barbados-speightstown-cities-v2.webp",
   },
   {
     id: "barbados-holetown-cities-v2",
@@ -93,6 +95,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Fondat în 1625, prima așezare britanică.", "Populație: aprox. 1.500.", "Biserica St. James Parish a fost construită în 1680.", "Festivalul Holetown are loc anual din 1977.", "Lungimea plajei cu nisip: aproximativ 1 km.", "Temperatura apei: în medie 27°C."],
       en: ["Founded in 1625 as the first British settlement.", "Population: approx. 1,500.", "St. James Parish Church was built in 1680.", "The Holetown Festival has been held annually since 1977.", "Sandy beach length: about 1 km.", "Water temperature: average 27°C."],
     },
+    image: "/poi-images/barbados-holetown-cities-v2.webp",
   },
   {
     id: "barbados-oistins-cities-v2",
@@ -124,6 +127,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populație: aprox. 2.500.", "Fondat în secolul al XVII-lea.", "Oistins Fish Fry atrage peste 3.000 de vizitatori săptămânal.", "Fort Charles a fost construit în anii 1650.", "Există peste 20 de tarabe cu pește pe piață.", "Temperatura medie a mării: 28°C."],
       en: ["Population: approx. 2,500.", "Founded in the 17th century.", "Oistins Fish Fry attracts over 3,000 visitors weekly.", "Fort Charles was built in the 1650s.", "There are over 20 fish stalls at the market.", "Average sea temperature: 28°C."],
     },
+    image: "/poi-images/barbados-oistins-cities-v2.webp",
   },
   {
     id: "barbados-bathsheba-cities-v2",
@@ -155,6 +159,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populație: aprox. 1.200.", "Locul de surfing Soup Bowl are valuri de până la 3 metri înălțime.", "Plaja Bathsheba are aproximativ 500 de metri lungime.", "Temperatura apei este în medie 26°C.", "Grădina Botanică Andromeda din apropiere a fost fondată în 1954.", "Bathsheba se află la aproximativ 20 de kilometri de Bridgetown."],
       en: ["Population: approx. 1,200.", "Soup Bowl surf break has waves up to 3 meters high.", "Bathsheba Beach is about 500 meters long.", "Average water temperature is 26°C.", "Nearby Andromeda Botanic Gardens was founded in 1954.", "Bathsheba is about 20 kilometers from Bridgetown."],
     },
+    image: "/poi-images/barbados-bathsheba-cities-v2.webp",
   },
   {
     id: "barbados-six-cross-roads-cities-v2",
@@ -186,6 +191,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populație: aprox. 800.", "Altitudine: aproximativ 100 de metri deasupra nivelului mării.", "Distanța față de Bridgetown: 10 km.", "Biserica St. George's Parish a fost construită în 1650.", "Intersecția leagă drumurile Highway 2, 2A, 4, 4A, 5 și 6.", "Suprafață: aprox. 0,5 kilometri pătrați."],
       en: ["Population: approx. 800.", "Elevation: about 100 meters above sea level.", "Distance to Bridgetown: 10 km.", "St. George's Parish Church was built in 1650.", "The junction connects Highways 2, 2A, 4, 4A, 5, and 6.", "Area: about 0.5 square kilometers."],
     },
+    image: "/poi-images/barbados-six-cross-roads-cities-v2.webp",
   },
   {
     id: "barbados-belleplaine-cities-v2",
@@ -217,6 +223,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populație: aprox. 500.", "Altitudine: aproximativ 50 de metri deasupra nivelului mării.", "Distanța față de Bridgetown: aprox. 25 km.", "Cea mai apropiată plajă este Bathsheba Beach, la 5 km.", "Regiunea primește anual aproximativ 1.500 mm de precipitații.", "Belleplaine este situată în districtul Scotland, cunoscut pentru solul său roșu."],
       en: ["Population: approx. 500.", "Elevation: about 50 meters above sea level.", "Distance to Bridgetown: approx. 25 km.", "Nearest beach is Bathsheba Beach, 5 km away.", "The region receives about 1,500 mm of rainfall annually.", "Belleplaine is in the Scotland District, known for its red soil."],
     },
+    image: "/poi-images/barbados-belleplaine-cities-v2.webp",
   },
   {
     id: "barbados-hillaby-cities-v2",
@@ -248,6 +255,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populație: aprox. 300.", "Mount Hillaby are 340 de metri înălțime.", "Hillaby este situat la aproximativ 15 kilometri nord-est de Bridgetown.", "Așezarea are o suprafață de aproximativ 0,3 kilometri pătrați.", "De pe vârful Mount Hillaby, în zilele senine, se văd insulele vecine.", "Temperatura medie în Hillaby este de 25°C."],
       en: ["Population: approx. 300.", "Mount Hillaby is 340 meters high.", "Hillaby is about 15 kilometers northeast of Bridgetown.", "The settlement covers about 0.3 square kilometers.", "From Mount Hillaby's summit, neighboring islands are visible on clear days.", "Average temperature in Hillaby is 25°C."],
     },
+    image: "/poi-images/barbados-hillaby-cities-v2.webp",
   },
   {
     id: "barbados-warrens-cities-v2",
@@ -279,6 +287,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Warrens este situat la intersecția dintre Highway 2 și Highway 2A.", "Găzduiește sediile centrale ale unor bănci și companii de utilități majore.", "Dezvoltarea masivă a zonei a început la sfârșitul anilor 1990.", "Este considerat o extensie a zonei metropolitane Bridgetown.", "Numeroase agenții guvernamentale și-au mutat birourile în acest district.", "Zona include unele dintre cele mai înalte clădiri de birouri de pe insulă."],
       en: ["Warrens is situated at the intersection of Highway 2 and Highway 2A.", "It houses the headquarters of major banks and utility companies.", "Rapid development of the area began in the late 1990s.", "The district is part of the Greater Bridgetown urban expansion area.", "Many government departments have relocated their offices to this hub.", "The area features several of the island's tallest modern office towers."],
     },
+    image: "/poi-images/barbados-warrens-cities-v2.webp",
   },
   {
     id: "barbados-worthing-cities-v2",
@@ -310,6 +319,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populația este de aproximativ 3.500 de locuitori (estimare 2020).", "Plaja Worthing Beach are 1,5 km lungime.", "Distanța până la aeroportul Grantley Adams este de 8 km.", "Numărul de camere de hotel este de peste 200.", "Venitul mediu pe gospodărie este de 45.000 USD pe an.", "Suprafața localității este de 1,2 km²."],
       en: ["Worthing's population is estimated at 3,500 (2020).", "The beach stretches 1.5 km along the coastline.", "Elevation ranges from 0 to 20 m above sea level.", "Average annual temperature is 27°C.", "Annual precipitation averages 1,200 mm.", "Coral reefs offshore cover approximately 2 hectares."],
     },
+    image: "/poi-images/barbados-worthing-cities-v2.webp",
   },
   {
     id: "barbados-st-lawrence-gap-cities-v2",
@@ -341,6 +351,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Lungimea fâșiei este de 1,6 km.", "Plaja Dover Beach are 800 m lungime.", "Numărul de unități de cazare este de 20.", "Veniturile din turism depășesc 100 de milioane USD pe an.", "Suprafața totală a zonei este de 0,8 km².", "Adâncimea apei la țărm este de 1-2 m."],
       en: ["Saint Lawrence Gap stretches 1.6 km along the coast.", "Dover Beach is 800 m long.", "Elevation ranges from 0 to 10 m above sea level.", "Annual tourist arrivals exceed 500,000.", "Number of coral species offshore: 40.", "Average wave height: 0.5 m."],
     },
+    image: "/poi-images/barbados-st-lawrence-gap-cities-v2.webp",
   },
   {
     id: "barbados-fitts-village-cities-v2",
@@ -372,6 +383,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populația satului este de aproximativ 1.000 de locuitori.", "Distanța până la Bridgetown este de 8 km.", "Lungimea plajei este de 300 m.", "Numărul de case este de 200.", "Suprafața satului este de 0,5 km².", "Anul înființării: 1700."],
       en: ["Population: approximately 1,000.", "Elevation ranges from 0 to 15 m above sea level.", "Beach length: 300 m.", "Annual rainfall: 1,100 mm.", "Distance from Bridgetown: 8 km.", "Number of coral species: 30."],
     },
+    image: "/poi-images/barbados-fitts-village-cities-v2.webp",
   },
   {
     id: "barbados-wildey-cities-v2",
@@ -403,6 +415,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populația: 3.000 de locuitori.", "Suprafața parcului de afaceri: 20 ha.", "Distanța până la aeroport: 10 km.", "Numărul de companii: 100.", "Anul înființării oficiale: 1970.", "Altitudinea medie: 30 m."],
       en: ["Population: 3,000.", "Area: 1.5 km².", "Elevation: 20-40 m above sea level.", "Distance to airport: 10 km.", "Number of businesses: 100.", "Year of urban development: 1970."],
     },
+    image: "/poi-images/barbados-wildey-cities-v2.webp",
   },
   {
     id: "barbados-cave-hill-cities-v2",
@@ -434,6 +447,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Campusul are 40 ha.", "Anul deschiderii: 1963.", "Numărul de studenți: peste 4.000.", "Altitudinea maximă: 60 m.", "Numărul de peșteri: 3.", "Distanța până în centrul orașului: 3 km."],
       en: ["Campus area: 40 hectares.", "Year established: 1963.", "Student enrollment: 4,000+.", "Highest elevation: 60 m above sea level.", "Number of caves: 3.", "Distance from Bridgetown: 3 km."],
     },
+    image: "/poi-images/barbados-cave-hill-cities-v2.webp",
   },
   {
     id: "barbados-silver-sands-cities-v2",
@@ -465,6 +479,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Lungimea plajei: 4 km.", "Populația: 500 de locuitori.", "Anul dezvoltării inițiale: 1985.", "Viteza medie a vântului: 20 km/h.", "Distanța recifului: 500 m.", "Temperatura apei: 27°C."],
       en: ["Beach length: 4 km.", "Population: 500.", "Average wind speed: 20 km/h.", "Reef distance from shore: 500 m.", "Water temperature: 27°C.", "Annual tourists: 50,000."],
     },
+    image: "/poi-images/barbados-silver-sands-cities-v2.webp",
   },
   {
     id: "barbados-enterprise-cities-v2",
@@ -496,6 +511,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populația: 2.000.", "Suprafața: 1 km².", "Anul dezvoltării: 1975.", "Distanța până la Bridgetown: 5 km.", "Altitudinea medie: 40 m.", "Numărul de case: 500."],
       en: ["Population: 2,000.", "Area: 1 km².", "Elevation: 40 m above sea level.", "Distance from Bridgetown: 5 km.", "Year of development: 1975.", "Number of houses: 500."],
     },
+    image: "/poi-images/barbados-enterprise-cities-v2.webp",
   },
   {
     id: "barbados-graeme-hall-cities-v2",
@@ -527,6 +543,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Suprafața mlaștinii: 33 ha.", "Populația: 4.000.", "Numărul de specii de păsări: 100+.", "Anul canalizării: 1850.", "Suprafața cartierului: 2 km².", "Altitudinea: 0-2 m."],
       en: ["Swamp area: 33 hectares.", "Population: 4,000.", "Bird species: 100+.", "Canal built: 1850.", "Neighbourhood area: 2 km².", "Elevation: 0-2 m above sea level."],
     },
+    image: "/poi-images/barbados-graeme-hall-cities-v2.webp",
   },
   {
     id: "barbados-rendezvous-cities-v2",
@@ -558,6 +575,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Lungimea plajei: 500 m.", "Populația: 300.", "Distanța recifului: 200 m.", "Adâncimea apei: 2 m.", "Temperatura apei: 27°C.", "Altitudinea medie: 8 m."],
       en: ["Beach length: 500 m.", "Population: 300.", "Reef distance: 200 m.", "Water depth: 2 m.", "Water temperature: 27°C.", "Elevation: 8 m above sea level."],
     },
+    image: "/poi-images/barbados-rendezvous-cities-v2.webp",
   },
   {
     id: "barbados-rockley-cities-v2",
@@ -589,6 +607,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Lungimea plajei: 1 km.", "Populația: 1.000.", "Numărul de hoteluri: 20+.", "Terenu de golf: 18 găuri.", "Suprafața: 0,8 km².", "Anul dezvoltării: 1965."],
       en: ["Beach length: 1 km.", "Population: 1,000.", "Number of hotels: 20+.", "Golf course holes: 18.", "Area: 0.8 km².", "Year of development: 1965."],
     },
+    image: "/poi-images/barbados-rockley-cities-v2.webp",
   },
   {
     id: "barbados-jackson-cities-v2",
@@ -620,6 +639,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populația: 500.", "Altitudinea: 50 m.", "Suprafața: 0,4 km².", "Anul înființării plantației: 1720.", "Anul construirii bisericii: 1840.", "Precipitații anuale: 1.300 mm."],
       en: ["Population: 500.", "Elevation: 50 m above sea level.", "Area: 0.4 km².", "Plantation founded: 1720.", "Church built: 1840.", "Annual rainfall: 1,300 mm."],
     },
+    image: "/poi-images/barbados-jackson-cities-v2.webp",
   },
   {
     id: "barbados-haggatt-hall-cities-v2",
@@ -651,6 +671,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populația: 3.000.", "Anul construcției casei plantației: 1750.", "Suprafața: 1 km².", "Distanța până în centru: 3 km.", "Numărul de case: 800.", "Anul dezvoltării: 1975."],
       en: ["Population: 3,000.", "Great house built: 1750.", "Area: 1 km².", "Distance to city centre: 3 km.", "Number of houses: 800.", "Year of development: 1975."],
     },
+    image: "/poi-images/barbados-haggatt-hall-cities-v2.webp",
   },
   {
     id: "barbados-ellerton-cities-v2",
@@ -682,6 +703,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populația: 800.", "Altitudinea: 60 m.", "Suprafața: 2 km².", "Anul plantației: 1650.", "Anul bisericii: 1845.", "Distanța până la Bridgetown: 6 km."],
       en: ["Population: 800.", "Elevation: 60 m above sea level.", "Area: 2 km².", "Plantation established: 1650.", "Church built: 1845.", "Distance to Bridgetown: 6 km."],
     },
+    image: "/poi-images/barbados-ellerton-cities-v2.webp",
   },
   {
     id: "barbados-marchfield-cities-v2",
@@ -713,6 +735,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populația: 600.", "Altitudinea: 40 m.", "Anul bisericii: 1850.", "Distanța până la coastă: 2 km.", "Suprafața: 1,5 km².", "Precipitații anuale: 1.200 mm."],
       en: ["Population: 600.", "Elevation: 40 m above sea level.", "Church built: 1850.", "Distance to coast: 2 km.", "Area: 1.5 km².", "Annual rainfall: 1,200 mm."],
     },
+    image: "/poi-images/barbados-marchfield-cities-v2.webp",
   },
   {
     id: "barbados-ruby-cities-v2",
@@ -744,6 +767,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populația: 400.", "Altitudinea: 30 m.", "Anul capelei: 1890.", "Suprafața: 0,5 km².", "Distanța până la Oistins: 5 km.", "Sol: lut roșu."],
       en: ["Population: 400.", "Elevation: 30 m above sea level.", "Chapel built: 1890.", "Area: 0.5 km².", "Distance to Oistins: 5 km.", "Soil type: red clay loam."],
     },
+    image: "/poi-images/barbados-ruby-cities-v2.webp",
   },
   {
     id: "barbados-colleton-cities-v2",
@@ -775,6 +799,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populația: 500.", "Terenu de golf: 18 găuri.", "Altitudinea: 5-10 m.", "Anul plantației: 1650.", "Lungimea plajei: 400 m.", "Distanța până la Speightstown: 3 km."],
       en: ["Population: 500.", "Golf course holes: 18.", "Elevation: 5-10 m above sea level.", "Plantation established: 1650.", "Beach length: 400 m.", "Distance to Speightstown: 3 km."],
     },
+    image: "/poi-images/barbados-colleton-cities-v2.webp",
   },
   {
     id: "barbados-checker-hall-cities-v2",
@@ -806,6 +831,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populația: 300.", "Altitudinea: 40 m.", "Anul bisericii: 1885.", "Anul plantației: 1700.", "Suprafața: 1 km².", "Precipitații: 1.100 mm."],
       en: ["Population: 300.", "Elevation: 40 m above sea level.", "Church built: 1885.", "Plantation founded: 1700.", "Area: 1 km².", "Annual rainfall: 1,100 mm."],
     },
+    image: "/poi-images/barbados-checker-hall-cities-v2.webp",
   },
   {
     id: "barbados-shermans-cities-v2",
@@ -837,6 +863,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populația: 200.", "Altitudinea: 30 m.", "Anul bisericii: 1910.", "Suprafața: 0,3 km².", "Producția de nucă de cocos: 5 tone/an.", "Distanța până la Speightstown: 8 km."],
       en: ["Population: 200.", "Elevation: 30 m above sea level.", "Church built: 1910.", "Area: 0.3 km².", "Coconut production: 5 tonnes/year.", "Distance to Speightstown: 8 km."],
     },
+    image: "/poi-images/barbados-shermans-cities-v2.webp",
   },
   {
     id: "barbados-half-moon-fort-cities-v2",
@@ -868,6 +895,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populația: 150.", "Anul construirii fortului: 1740.", "Lungimea ruinelor: 200 m.", "Altitudinea: 20 m.", "Suprafața: 0,2 km².", "Distanța până la Speightstown: 10 km."],
       en: ["Population: 150.", "Fort built: 1740.", "Ruins length: 200 m.", "Elevation: 20 m above sea level.", "Area: 0.2 km².", "Distance to Speightstown: 10 km."],
     },
+    image: "/poi-images/barbados-half-moon-fort-cities-v2.webp",
   },
   {
     id: "barbados-clinketts-cities-v2",
@@ -899,6 +927,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populația: 250.", "Altitudinea: 35 m.", "Anul școlii: 1950.", "Suprafața: 0,6 km².", "Precipitații anuale: 1.150 mm.", "Distanța până la Speightstown: 6 km."],
       en: ["Population: 250.", "Elevation: 35 m above sea level.", "School built: 1950.", "Area: 0.6 km².", "Annual rainfall: 1,150 mm.", "Distance to Speightstown: 6 km."],
     },
+    image: "/poi-images/barbados-clinketts-cities-v2.webp",
   },
   {
     id: "barbados-crab-hill-cities-v2",
@@ -930,6 +959,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populație (2010): 812 locuitori", "Altitudine: 60 m", "Suprafață: 1,2 km²", "Precipitații medii: 1.300 mm/an", "Școală construită: 1890", "Distanța până la Speightstown: 10 km"],
       en: ["Population (2010 census): 812", "Elevation: 60 m (197 ft)", "Area: 1.2 km² (0.46 sq mi)", "Annual rainfall: 1,300 mm (51 in)", "Established: 1720s as sugar plantation", "Distance from Bridgetown: 25 km (16 mi)"],
     },
+    image: "/poi-images/barbados-crab-hill-cities-v2.webp",
   },
   {
     id: "barbados-pie-corner-cities-v2",
@@ -961,6 +991,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populație (2015): 380 locuitori", "Altitudine: 150 m", "Suprafață: 0,8 km²", "Precipitații: 1.500 mm/an", "Distanța până la coastă: 5 km", "Intersecție principală de drumuri"],
       en: ["Population: approx. 400", "Elevation: 150 m (492 ft)", "Area: 0.8 km² (0.31 sq mi)", "Annual rainfall: 1,500 mm (59 in)", "First recorded: 1850", "Distance to east coast: 5 km (3.1 mi)"],
     },
+    image: "/poi-images/barbados-pie-corner-cities-v2.webp",
   },
   {
     id: "barbados-welchman-hall-cities-v2",
@@ -992,6 +1023,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populație: cca 600 locuitori", "Altitudine: 200 m", "Lungimea defileului: 1,5 km", "Adâncimea defileului: 20 m", "Vârful Hillaby: 340 m (la 3 km)", "Fondat: 1700s"],
       en: ["Population: approx. 600", "Elevation: 200 m (656 ft)", "Welchman Hall Gully length: 1.5 km (0.93 mi)", "Gully depth: 20 m (66 ft)", "Mount Hillaby elevation: 340 m (1,115 ft)", "Distance from Harrison's Cave: 2 km (1.2 mi)"],
     },
+    image: "/poi-images/barbados-welchman-hall-cities-v2.webp",
   },
   {
     id: "barbados-boscobelle-cities-v2",
@@ -1023,6 +1055,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populație: cca 400 locuitori", "Altitudine: 30 m", "Distanța până la Speightstown: 3 km", "Precipitații: 1.200 mm/an", "Culturi principale: trestie de zahăr, căpșuni", "Case de plantație istorice: 3"],
       en: ["Population: approx. 400", "Elevation: 30 m (98 ft)", "Distance to Speightstown: 3 km (1.9 mi)", "Annual rainfall: 1,200 mm (47 in)", "Main crops: sugarcane, strawberries", "Number of historic plantation houses converted: 3"],
     },
+    image: "/poi-images/barbados-boscobelle-cities-v2.webp",
   },
   {
     id: "barbados-greenland-cities-v2",
@@ -1054,6 +1087,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populație: cca 350 locuitori", "Altitudine: 100 m", "Distanța până la Bathsheba: 4 km", "Precipitații: 1.600 mm/an", "Culturi principale: banane, igname", "Școală fondată: 1905"],
       en: ["Population: approx. 350", "Elevation: 100 m (328 ft)", "Distance to Bathsheba: 4 km (2.5 mi)", "Annual rainfall: 1,600 mm (63 in)", "Main crops: bananas, yams", "School established: 1905"],
     },
+    image: "/poi-images/barbados-greenland-cities-v2.webp",
   },
   {
     id: "barbados-ebenezer-cities-v2",
@@ -1085,6 +1119,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populație: cca 300 locuitori", "Altitudine: 20 m", "Distanța până la Oistins: 3 km", "Cultură principală: trestie de zahăr", "Școală fondată: 1920", "Biserică construită: 1910"],
       en: ["Population: approx. 300", "Elevation: 20 m (66 ft)", "Distance to Oistins: 3 km (1.9 mi)", "Primary crop: sugarcane", "School founded: 1920", "Church built: 1910"],
     },
+    image: "/poi-images/barbados-ebenezer-cities-v2.webp",
   },
   {
     id: "barbados-four-roads-cities-v2",
@@ -1116,6 +1151,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populație: cca 500 locuitori", "Altitudine: 50 m", "Distanța până la Bridgetown: 8 km", "Precipitații: 1.300 mm/an", "Numărul de magazine: 5", "Moară de zahăr construită: 1850"],
       en: ["Population: approx. 500", "Elevation: 50 m (164 ft)", "Distance to Bridgetown: 8 km (5 mi)", "Annual rainfall: 1,300 mm (51 in)", "Number of shops: 5", "Historic sugar mill built: 1850"],
     },
+    image: "/poi-images/barbados-four-roads-cities-v2.webp",
   },
   {
     id: "barbados-bentleys-cities-v2",
@@ -1147,6 +1183,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populație: cca 250 locuitori", "Altitudine: 80 m", "Distanța până la Bathsheba: 2 km", "Precipitații: 1.800 mm/an", "Ruine moară zahăr: secolul XVIII", "Număr unități de cazare: 10"],
       en: ["Population: approx. 250", "Elevation: 80 m (262 ft)", "Distance to Bathsheba: 2 km (1.2 mi)", "Annual rainfall: 1,800 mm (71 in)", "Sugar mill ruins from 1700s", "Number of vacation rentals: 10"],
     },
+    image: "/poi-images/barbados-bentleys-cities-v2.webp",
   },
   {
     id: "barbados-sion-hill-cities-v2",
@@ -1178,6 +1215,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populație: cca 1.200 locuitori", "Altitudine: 30 m", "Distanța până la Holetown: 3 km", "Precipitații: 1.100 mm/an", "Număr de biserici: 2", "Școală fondată: 1950"],
       en: ["Population: approx. 1,200", "Elevation: 30 m (98 ft)", "Distance to Holetown: 3 km (1.9 mi)", "Annual rainfall: 1,100 mm (43 in)", "Number of churches: 2", "School founded: 1950"],
     },
+    image: "/poi-images/barbados-sion-hill-cities-v2.webp",
   },
   {
     id: "barbados-boarded-hall-cities-v2",
@@ -1209,6 +1247,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populație: cca 800 locuitori", "Altitudine: 40 m", "Distanța până la Bridgetown: 5 km", "Distanța până la aeroport: 3 km", "Precipitații: 1.200 mm/an", "Menționat prima dată: 1650"],
       en: ["Population: approx. 800", "Elevation: 40 m (131 ft)", "Distance to Bridgetown: 5 km (3.1 mi)", "Distance to airport: 3 km (1.9 mi)", "Annual rainfall: 1,200 mm (47 in)", "First mentioned: 1650"],
     },
+    image: "/poi-images/barbados-boarded-hall-cities-v2.webp",
   },
   {
     id: "barbados-bulkeley-cities-v2",
@@ -1240,6 +1279,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populație: cca 400 locuitori", "Altitudine: 70 m", "Distanța până la Bridgetown: 7 km", "Precipitații: 1.400 mm/an", "Biserică construită: 1830", "Menționat pentru prima dată: 1650"],
       en: ["Population: approx. 400", "Elevation: 70 m (230 ft)", "Distance to Bridgetown: 7 km (4.3 mi)", "Annual rainfall: 1,400 mm (55 in)", "Church built: 1830", "First recorded: 1650"],
     },
+    image: "/poi-images/barbados-bulkeley-cities-v2.webp",
   },
   {
     id: "barbados-constant-cities-v2",
@@ -1271,6 +1311,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populație: cca 350 locuitori", "Altitudine: 60 m", "Distanța până la coasta sudică: 4 km", "Precipitații: 1.350 mm/an", "Școală fondată: 1910", "Biserică construită: 1860"],
       en: ["Population: approx. 350", "Elevation: 60 m (197 ft)", "Distance to south coast: 4 km (2.5 mi)", "Annual rainfall: 1,350 mm (53 in)", "School founded: 1910", "Church built: 1860"],
     },
+    image: "/poi-images/barbados-constant-cities-v2.webp",
   },
   {
     id: "barbados-workmans-cities-v2",
@@ -1302,6 +1343,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populație: cca 300 locuitori", "Altitudine: 30 m", "Distanța până la Bridgetown: 6 km", "Precipitații: 1.250 mm/an", "Capelă construită: 1900", "Fabrici: 2"],
       en: ["Population: approx. 300", "Elevation: 30 m (98 ft)", "Distance to Bridgetown: 6 km (3.7 mi)", "Annual rainfall: 1,250 mm (49 in)", "Chapel built: 1900", "Number of small factories: 2"],
     },
+    image: "/poi-images/barbados-workmans-cities-v2.webp",
   },
   {
     id: "barbados-hothersal-turning-cities-v2",
@@ -1333,6 +1375,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populație: cca 1.000 locuitori (parte a Bridgetownului)", "Altitudine: 10 m", "Distanța până la port: 1 km", "Depozit de cărbuni construit în 1890", "Linii de autobuz: 2, 5, 7", "Centre comerciale: 2"],
       en: ["Population: approx. 1,000 (part of Bridgetown)", "Elevation: 10 m (33 ft)", "Distance to port: 1 km (0.62 mi)", "Historic coal depot built: 1890", "Bus routes: 2, 5, 7", "Number of shopping centers: 2"],
     },
+    image: "/poi-images/barbados-hothersal-turning-cities-v2.webp",
   },
   {
     id: "barbados-flat-rock-cities-v2",
@@ -1364,6 +1407,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populație: cca 200 locuitori", "Altitudine: 100 m", "Distanța până la Bathsheba: 5 km", "Precipitații: 1.700 mm/an", "Lungimea plajei: 200 m", "Număr de pensiuni: 3"],
       en: ["Population: approx. 200", "Elevation: 100 m (328 ft)", "Distance to Bathsheba: 5 km (3.1 mi)", "Annual rainfall: 1,700 mm (67 in)", "Beach length: 200 m (656 ft)", "Number of guesthouses: 3"],
     },
+    image: "/poi-images/barbados-flat-rock-cities-v2.webp",
   },
   {
     id: "barbados-the-hope-cities-v2",
@@ -1395,6 +1439,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populație: cca 400 locuitori", "Altitudine: 50 m", "Distanța până la Speightstown: 8 km", "Precipitații: 1.200 mm/an", "Biserică construită: 1870", "Școala fondată: 1895"],
       en: ["Population: approx. 400", "Elevation: 50 m (164 ft)", "Distance to Speightstown: 8 km (5 mi)", "Annual rainfall: 1,200 mm (47 in)", "Church built: 1870", "School founded: 1895"],
     },
+    image: "/poi-images/barbados-the-hope-cities-v2.webp",
   },
   {
     id: "barbados-gays-village-cities-v2",
@@ -1426,6 +1471,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populație: cca 300 locuitori", "Altitudine: 40 m", "Distanța până la Speightstown: 4 km", "Precipitații: 1.150 mm/an", "Capelă construită: 1880", "Peșteri la 2 km"],
       en: ["Population: approx. 300", "Elevation: 40 m (131 ft)", "Distance to Speightstown: 4 km (2.5 mi)", "Annual rainfall: 1,150 mm (45 in)", "Chapel built: 1880", "Distance to caves: 2 km (1.2 mi)"],
     },
+    image: "/poi-images/barbados-gays-village-cities-v2.webp",
   },
   {
     id: "barbados-canewood-cities-v2",
@@ -1457,6 +1503,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Zona s-a transformat din teren agricol în spațiu comercial și industrial.", "Găzduiește unele dintre cele mai mari magazine de feronerie de pe insulă.", "Canewood este situat strategic în apropierea nodului comercial Warrens.", "Dezvoltarea noilor complexe rezidențiale stimulează creșterea locală.", "Este conectat direct la autostrada ABC prin drumul Canewood.", "Terenul a făcut parte istoric dintr-o vastă plantație de trestie de zahăr."],
       en: ["The area has transitioned from agricultural use to commercial land.", "It hosts several of the largest hardware and furniture stores on the island.", "Canewood is strategically located near the busy Warrens commercial hub.", "New residential developments are driving the population growth in the area.", "It is linked to the ABC Highway via a major secondary road system.", "The site was historically part of a sugar cane plantation estate."],
     },
+    image: "/poi-images/barbados-canewood-cities-v2.webp",
   },
   {
     id: "barbados-pine-cities-v2",
@@ -1488,6 +1535,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populație: cca 2.000 locuitori (parte a Bridgetownului)", "Altitudine: 15 m", "Distanța până la port: 2 km", "Suprafața pieței: 500 m²", "Urbanizare în: anii 1950", "Număr de magazine: 50"],
       en: ["Population: approx. 2,000 (part of Bridgetown)", "Elevation: 15 m (49 ft)", "Distance to port: 2 km (1.2 mi)", "Market area: 500 m² (5,382 sq ft)", "Urbanized in: 1950s", "Number of shops: 50"],
     },
+    image: "/poi-images/barbados-pine-cities-v2.webp",
   },
   {
     id: "barbados-brittons-hill-cities-v2",
@@ -1519,6 +1567,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populație: cca 3.000 locuitori", "Altitudine: 50 m", "Distanța până la Bridgetown: 3 km", "Școli: 2 primare, 1 gimnaziu", "Biserici: 3", "Dezvoltat în: anii 1960"],
       en: ["Population: approx. 3,000", "Elevation: 50 m (164 ft)", "Distance to Bridgetown: 3 km (1.9 mi)", "Schools: 2 primary, 1 secondary", "Churches: 3", "Developed in: 1960s"],
     },
+    image: "/poi-images/barbados-brittons-hill-cities-v2.webp",
   },
   {
     id: "barbados-oxnards-cities-v2",
@@ -1550,6 +1599,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Oxnards se află în parohia Saint Peter, Barbados.", "Altitudinea localității este de aproximativ 30 de metri deasupra nivelului mării.", "Populația estimată este de 300 de locuitori (2023).", "Moara de vânt Morgan Lewis, construită în 1780, se află la 1 km distanță.", "Parcul Național Farley Hill are o suprafață de 81 de hectare.", "Suprafața satului este de aproximativ 0,5 km²."],
       en: ["Oxnards is located in the parish of Saint Peter, Barbados.", "Estimated population of 300 as of 2023.", "Elevation is approximately 30 meters above sea level.", "Morgan Lewis Windmill, built in 1780, is 1 km away.", "Farley Hill National Park covers 81 hectares.", "Settlement area is roughly 0.5 km²."],
     },
+    image: "/poi-images/barbados-oxnards-cities-v2.webp",
   },
   {
     id: "barbados-husbands-cities-v2",
@@ -1581,6 +1631,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Husbands se află în parohia Saint James.", "Populația este de aproximativ 800 de locuitori (2023).", "Plaja are o lungime de 1,5 km.", "Distanța până la Bridgetown este de 10 km nord.", "Autostrada ABC trece prin localitate.", "Altitudinea este sub 10 metri deasupra nivelului mării."],
       en: ["Husbands is in Saint James parish, Barbados.", "Population approximately 800 (2023).", "Beach length is 1.5 km.", "Located 10 km north of Bridgetown.", "ABC Highway runs through the settlement.", "Elevation is less than 10 meters above sea level."],
     },
+    image: "/poi-images/barbados-husbands-cities-v2.webp",
   },
   {
     id: "barbados-wanstead-cities-v2",
@@ -1612,6 +1663,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Wanstead este situat în parohia Saint George.", "Altitudinea este de 150 de metri deasupra nivelului mării.", "Populația este de aproximativ 200 de locuitori (2023).", "Cel mai apropiat oraș este Oistins, la 8 km sud.", "Jack-in-the-Box Hill are 200 de metri înălțime.", "Plantația Wanstead a fost fondată în secolul al XVIII-lea."],
       en: ["Wanstead is in Saint George parish, Barbados.", "Elevation is 150 meters above sea level.", "Population approximately 200 (2023).", "Nearest town Oistins is 8 km south.", "Jack-in-the-Box Hill is 200 m high.", "Wanstead plantation was established in the 18th century."],
     },
+    image: "/poi-images/barbados-wanstead-cities-v2.webp",
   },
   {
     id: "barbados-newton-terrace-cities-v2",
@@ -1643,6 +1695,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Newton Terrace se află în parohia Saint Michael.", "A fost construit în anii 1960.", "Populația este de aproximativ 500 de locuitori (2023).", "Altitudinea este de aproximativ 30 de metri.", "Parcul Newton Terrace are o suprafață de 2 hectare.", "Distanța până în centrul Bridgetown este de 3 km."],
       en: ["Newton Terrace is in Saint Michael parish, Barbados.", "Developed in the 1960s.", "Population approximately 500 (2023).", "Elevation is about 30 meters above sea level.", "Newton Terrace Park covers 2 hectares.", "Distance to central Bridgetown is 3 km."],
     },
+    image: "/poi-images/barbados-newton-terrace-cities-v2.webp",
   },
   {
     id: "barbados-charnocks-cities-v2",
@@ -1674,6 +1727,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Charnocks este situat în parohia Christ Church.", "Distanța până la coasta de sud este de 3 km.", "Populația este de aproximativ 400 de locuitori (2023).", "Altitudinea este de aproximativ 20 de metri.", "Școala primară Charnocks a fost fondată în 1956.", "Plantația Charnocks datează din secolul al XVIII-lea."],
       en: ["Charnocks is in Christ Church parish, Barbados.", "Distance to south coast is 3 km.", "Population approximately 400 (2023).", "Elevation is about 20 meters above sea level.", "Charnocks Primary School was founded in 1956.", "Charnocks plantation was established in the 18th century."],
     },
+    image: "/poi-images/barbados-charnocks-cities-v2.webp",
   },
   {
     id: "barbados-coverley-cities-v2",
@@ -1705,6 +1759,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Coverley se află în parohia Saint George.", "Suprafața este de aproximativ 2 km².", "Populația este estimată la 150 de locuitori (2023).", "Plantația Coverley a fost fondată în secolul al XVII-lea.", "Districtul Scotland se întinde pe aproximativ 20 km².", "Altitudinea variază între 100 și 200 de metri."],
       en: ["Coverley is in Saint George parish, Barbados.", "Area is approximately 2 km².", "Population estimated at 150 (2023).", "Coverley plantation was founded in the 17th century.", "Scotland District covers about 20 km².", "Elevation ranges from 100 to 200 meters."],
     },
+    image: "/poi-images/barbados-coverley-cities-v2.webp",
   },
   {
     id: "barbados-wilderness-cities-v2",
@@ -1736,6 +1791,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Wilderness se află în parohia Saint Michael.", "Dezvoltarea a început în anii 1970.", "Populația este de aproximativ 600 de locuitori (2023).", "Suprafața zonei este de aproximativ 0,8 km².", "Altitudinea este de aproximativ 25 de metri.", "Distanța până la Bridgetown este de 4 km."],
       en: ["Wilderness is in Saint Michael parish, Barbados.", "Development started in the 1970s.", "Population approximately 600 (2023).", "Area is about 0.8 km².", "Elevation is about 25 meters.", "Distance to Bridgetown is 4 km."],
     },
+    image: "/poi-images/barbados-wilderness-cities-v2.webp",
   },
   {
     id: "barbados-prospect-cities-v2",
@@ -1767,6 +1823,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Prospect se află în parohia Saint James.", "Populația este de aproximativ 350 de locuitori (2023).", "Plaja Prospect are o lungime de 500 de metri.", "Prospect House a fost construit în 1720.", "Distanța până la Speightstown este de 2 km.", "Altitudinea este de aproximativ 5 metri."],
       en: ["Prospect is in Saint James parish, Barbados.", "Population approximately 350 (2023).", "Prospect Beach is 500 meters long.", "Prospect House was built in 1720.", "Distance to Speightstown is 2 km.", "Elevation is about 5 meters above sea level."],
     },
+    image: "/poi-images/barbados-prospect-cities-v2.webp",
   },
   {
     id: "barbados-haggatt-hall-v2-cities-v2",
@@ -1798,6 +1855,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Mapp Hill se află în parohia Saint Andrew.", "Populația este de aproximativ 100 de locuitori (2023).", "Altitudinea dealului este de aproximativ 150 de metri.", "Plantația Mapp a fost fondată în secolul al XVIII-lea.", "Distanța până la Bathsheba este de 3 km.", "Suprafața zonei este de aproximativ 1 km²."],
       en: ["Mapp Hill is in Saint Andrew parish, Barbados.", "Population approximately 100 (2023).", "Hill elevation is about 150 meters.", "Mapp plantation was established in the 18th century.", "Distance to Bathsheba is 3 km.", "Area is approximately 1 km²."],
     },
+    image: "/poi-images/barbados-haggatt-hall-v2-cities-v2.webp",
   },
   {
     id: "barbados-blackman-field-cities-v2",
@@ -1829,6 +1887,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Blackman Field se află în parohia Saint Michael.", "Zona a fost construită în anii 1960.", "Populația este de aproximativ 400 de locuitori (2023).", "Suprafața este de aproximativ 0,3 km².", "Altitudinea este de aproximativ 15 metri.", "Piața Eroilor Naționali se află la 1 km distanță."],
       en: ["Blackman Field is in Saint Michael parish, Barbados.", "The area was developed in the 1960s.", "Population approximately 400 (2023).", "Area is about 0.3 km².", "Elevation is about 15 meters.", "Distance to National Heroes Square is 1 km."],
     },
+    image: "/poi-images/barbados-blackman-field-cities-v2.webp",
   },
   {
     id: "barbados-six-mens-cities-v2",
@@ -1860,6 +1919,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Six Men se află în parohia Saint James.", "Populația este de aproximativ 200 de locuitori (2023).", "Plaja are o lungime de 300 de metri.", "Mapps House a fost construit în 1740.", "Altitudinea este de aproximativ 3 metri.", "Distanța până la Speightstown este de 5 km."],
       en: ["Six Men is in Saint James parish, Barbados.", "Population approximately 200 (2023).", "Beach is 300 meters long.", "Mapps House was built in 1740.", "Elevation is about 3 meters.", "Distance to Speightstown is 5 km."],
     },
+    image: "/poi-images/barbados-six-mens-cities-v2.webp",
   },
   {
     id: "barbados-porters-cities-v2",
@@ -1891,6 +1951,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Porters se află în parohia Saint James.", "Populația este de aproximativ 600 de locuitori (2023).", "Plaja Porters are o lungime de 400 de metri.", "Royal Westmoreland Golf Club are 18 găuri.", "Distanța până la Holetown este de 2 km.", "Altitudinea este de aproximativ 10 metri."],
       en: ["Porters is in Saint James parish, Barbados.", "Population approximately 600 (2023).", "Porters Beach is 400 meters long.", "Royal Westmoreland Golf Club has 18 holes.", "Distance to Holetown is 2 km.", "Elevation is about 10 meters."],
     },
+    image: "/poi-images/barbados-porters-cities-v2.webp",
   },
   {
     id: "barbados-mount-joy-cities-v2",
@@ -1922,6 +1983,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Mount Joy se află în parohia Saint Thomas.", "Populația este de aproximativ 250 de locuitori (2023).", "Înălțimea dealului Mount Joy este de aproximativ 200 de metri.", "Biserica Saint Thomas a fost construită în 1660.", "Suprafața satului este de aproximativ 0,6 km².", "Distanța până la Bridgetown este de 10 km."],
       en: ["Mount Joy is in Saint Thomas parish, Barbados.", "Population approximately 250 (2023).", "Mount Joy hill is about 200 meters high.", "St. Thomas Parish Church was built in 1660.", "Village area is approximately 0.6 km².", "Distance to Bridgetown is 10 km."],
     },
+    image: "/poi-images/barbados-mount-joy-cities-v2.webp",
   },
   {
     id: "barbados-lemon-arbour-cities-v2",
@@ -1953,6 +2015,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Lemon Arbour se află în parohia Saint Peter.", "Populația este de aproximativ 150 de locuitori (2023).", "Altitudinea este de aproximativ 20 de metri.", "Distanța până la Speightstown este de 4 km.", "Biserica Saint Peter a fost construită în 1628.", "Suprafața cătunului este de aproximativ 0,4 km²."],
       en: ["Lemon Arbour is in Saint Peter parish, Barbados.", "Population approximately 150 (2023).", "Elevation is about 20 meters.", "Distance to Speightstown is 4 km.", "St. Peter's Parish Church was built in 1628.", "Hamlet area is approximately 0.4 km²."],
     },
+    image: "/poi-images/barbados-lemon-arbour-cities-v2.webp",
   },
   {
     id: "barbados-st-george-village-cities-v2",
@@ -1984,6 +2047,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["The Glebe se află în parohia Saint George.", "Populația este de aproximativ 200 de locuitori (2023).", "Altitudinea este de aproximativ 50 de metri.", "Biserica Saint George a fost construită în 1665.", "Suprafața este de aproximativ 1,2 km².", "Distanța până la Bridgetown este de 8 km."],
       en: ["The Glebe is in Saint George parish, Barbados.", "Population approximately 200 (2023).", "Elevation is about 50 meters.", "St. George's Parish Church was built in 1665.", "Area is approximately 1.2 km².", "Distance to Bridgetown is 8 km."],
     },
+    image: "/poi-images/barbados-st-george-village-cities-v2.webp",
   },
   {
     id: "barbados-four-cross-roads-cities-v2",
@@ -2015,6 +2079,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Four Cross Roads se află în parohia Saint Philip.", "Populația este de aproximativ 300 de locuitori (2023).", "Altitudinea este de aproximativ 30 de metri.", "Biserica Saint Philip a fost construită în 1640.", "Distanța până la coastă este de 5 km.", "Suprafața este de aproximativ 0,8 km²."],
       en: ["Four Cross Roads is in Saint Philip parish, Barbados.", "Population approximately 300 (2023).", "Elevation is about 30 meters.", "St. Philip's Parish Church was built in 1640.", "Distance to coast is 5 km.", "Area is approximately 0.8 km²."],
     },
+    image: "/poi-images/barbados-four-cross-roads-cities-v2.webp",
   },
   {
     id: "barbados-st-judes-cities-v2",
@@ -2046,6 +2111,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Saint Jude se află în parohia Saint John.", "Populația este de aproximativ 100 de locuitori (2023).", "Înălțimea stâncii este de aproximativ 50 de metri.", "Capela Saint Jude a fost construită în 1845.", "Distanța până la Bathsheba este de 2 km.", "Biserica Saint John a fost construită în 1660."],
       en: ["Saint Jude is in Saint John parish, Barbados.", "Population approximately 100 (2023).", "Cliff elevation is about 50 meters.", "St. Jude's Chapel was built in 1845.", "Distance to Bathsheba is 2 km.", "St. John's Parish Church was built in 1660."],
     },
+    image: "/poi-images/barbados-st-judes-cities-v2.webp",
   },
   {
     id: "barbados-massiah-street-cities-v2",
@@ -2077,6 +2143,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Massiah Street se află în parohia Saint Michael.", "Strada are o lungime de aproximativ 400 de metri.", "Populația de pe stradă este de aproximativ 150 de locuitori (2023).", "Biserica Saint Mary a fost construită în 1827.", "Kensington Oval are o capacitate de 28.000 de locuri.", "Distanța până la Piața Eroilor Naționali este de 1 km."],
       en: ["Massiah Street is in Saint Michael parish, Barbados.", "Street length is about 400 meters.", "Population on the street is about 150 (2023).", "St. Mary's Church was built in 1827.", "Kensington Oval has a capacity of 28,000 seats.", "Distance to National Heroes Square is 1 km."],
     },
+    image: "/poi-images/barbados-massiah-street-cities-v2.webp",
   },
   {
     id: "barbados-fairfield-cities-v2",
@@ -2108,6 +2175,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Fairfield se află în parohia Saint George.", "Populația este de aproximativ 120 de locuitori (2023).", "Altitudinea este de aproximativ 60 de metri.", "Formațiunile Bunce au aproximativ 30 de metri înălțime.", "Distanța până la coasta de sud este de 4 km.", "Biserica Saint George a fost construită în 1665."],
       en: ["Fairfield is in Saint George parish, Barbados.", "Population approximately 120 (2023).", "Elevation is about 60 meters.", "Bunce formations are about 30 meters high.", "Distance to south coast is 4 km.", "St. George's Parish Church was built in 1665."],
     },
+    image: "/poi-images/barbados-fairfield-cities-v2.webp",
   },
   {
     id: "barbados-st-silas-cities-v2",
@@ -2139,6 +2207,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Saint Silas se află în parohia Saint George.", "Populația este de aproximativ 180 de locuitori (2023).", "Altitudinea este de aproximativ 25 de metri.", "Biserica Saint Silas a fost construită în 1850.", "Distanța până la coasta de sud este de 3 km.", "Școala primară a fost fondată în 1960."],
       en: ["Saint Silas is in Saint George parish, Barbados.", "Population approximately 180 (2023).", "Elevation is about 25 meters.", "St. Silas Church was built in 1850.", "Distance to south coast is 3 km.", "Primary school was founded in 1960."],
     },
+    image: "/poi-images/barbados-st-silas-cities-v2.webp",
   },
   {
     id: "barbados-spring-garden-cities-v2",
@@ -2170,6 +2239,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populația din Spring Garden este de aproximativ 1.200 de locuitori (în 2023).", "Suprafața cartierului este de 0,5 km².", "Temperatura medie anuală este de 26,5 °C.", "Altitudinea este de 10 metri deasupra nivelului mării.", "Distanța până în centrul Bridgetown este de 1,5 km.", "Prima poștă a fost deschisă în anul 1905."],
       en: ["Population of Spring Garden is approximately 1,200 (as of 2023).", "Area of the neighborhood is 0.5 km².", "Average annual temperature is 26.5 °C.", "Elevation is 10 meters above sea level.", "Distance to Bridgetown city centre is 1.5 km.", "The first police station opened in 1920."],
     },
+    image: "/poi-images/barbados-spring-garden-cities-v2.webp",
   },
   {
     id: "barbados-bush-hall-cities-v2",
@@ -2201,6 +2271,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populația din Bush Hall este de aproximativ 1.800 de locuitori (2023).", "Suprafața este de 0,8 km².", "Zona a fost amenajată în 1955.", "Dimensiunea medie a gospodăriei este de 3,2 persoane.", "Există trei școli primare în cartier.", "Secția de poliție Bush Hall a fost deschisă în 1960."],
       en: ["Population of Bush Hall is approximately 1,800 (as of 2023).", "Area is 0.8 km².", "The settlement was developed in 1955.", "Average household size is 3.2 persons.", "There are three primary schools in the neighborhood.", "Bush Hall Police Station opened in 1960."],
     },
+    image: "/poi-images/barbados-bush-hall-cities-v2.webp",
   },
   {
     id: "barbados-bank-hall-cities-v2",
@@ -2232,6 +2303,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populația din Bank Hall este de aproximativ 950 de locuitori (2023).", "Suprafața cartierului este de 0,3 km².", "Clădirea băncii care a dat numele a fost construită în 1885.", "Drumul Bank Hall Road are o lungime de 1,2 km.", "Densitatea populației este de 3.167 locuitori pe km².", "Există cinci clădiri protejate în Bank Hall."],
       en: ["Population of Bank Hall is approximately 950 (as of 2023).", "Area is 0.3 km².", "The eponymous bank building was built in 1885.", "Bank Hall Road is 1.2 km long.", "Population density averages 3,167 persons per km².", "There are five heritage-listed buildings in Bank Hall."],
     },
+    image: "/poi-images/barbados-bank-hall-cities-v2.webp",
   },
   {
     id: "barbados-grazettes-cities-v2",
@@ -2263,6 +2335,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populația din Grazettes este de aproximativ 2.100 de locuitori (2023).", "Suprafața este de 1,1 km².", "Prima așezare în zonă datează din 1720.", "Precipitațiile medii anuale sunt de 1.200 mm.", "Există două biserici în localitate.", "Festivalul stradal anual are loc din 1985."],
       en: ["Population of Grazettes is approximately 2,100 (as of 2023).", "Area spans 1.1 km².", "First settlement in the area dates to 1720.", "Average annual rainfall is 1,200 mm.", "There are two churches in the locality.", "The annual street festival has been held since 1985."],
     },
+    image: "/poi-images/barbados-grazettes-cities-v2.webp",
   },
   {
     id: "barbados-st-stephen-cities-v2",
@@ -2294,6 +2367,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populația din Saint Stephen este de aproximativ 3.400 de locuitori (2023).", "Suprafața cartierului este de 0,6 km².", "Biserica Sf. Ștefan a fost construită în 1725.", "Densitatea populației este de 5.667 locuitori pe km².", "Există șase stații de autobuz în cartier.", "Vârsta medie a locuitorilor este de 34,2 ani."],
       en: ["Population of Saint Stephen is approximately 3,400 (as of 2023).", "Area of the neighborhood is 0.6 km².", "St. Stephen's Church was built in 1725.", "Population density is 5,667 persons per km².", "There are six bus stops in the neighborhood.", "Average age of residents is 34.2 years."],
     },
+    image: "/poi-images/barbados-st-stephen-cities-v2.webp",
   },
   {
     id: "barbados-tudor-bridge-cities-v2",
@@ -2325,6 +2399,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populația din Tudor Bridge este de aproximativ 1.500 de locuitori (2023).", "Suprafața este de 0,7 km².", "Podul Tudor a fost construit în 1830.", "Râul Constitution River are o lungime de 3,5 km.", "Există opt start-up-uri în clusterul tehnologic.", "Drumul principal (Highway 3) are 2,5 km în zonă."],
       en: ["Population of Tudor Bridge is approximately 1,500 (as of 2023).", "Area is 0.7 km².", "Tudor Bridge was built in 1830.", "Constitution River is 3.5 km long.", "There are eight tech start-ups in the cluster.", "The main road (Highway 3) is 2.5 km in the area."],
     },
+    image: "/poi-images/barbados-tudor-bridge-cities-v2.webp",
   },
   {
     id: "barbados-clermont-cities-v2",
@@ -2356,6 +2431,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populația din Clermont este de aproximativ 1.700 de locuitori (2023).", "Suprafața este de 0,9 km².", "Plaja Clermont se întinde pe 0,8 km.", "Temperatura medie a apei este de 27 °C.", "Există trei hoteluri mici cu 120 de camere în total.", "Cartierul a fost dezvoltat în anii 1970."],
       en: ["Population of Clermont is approximately 1,700 (as of 2023).", "Area is 0.9 km².", "Clermont Beach stretches for 0.8 km.", "Average water temperature is 27 °C.", "There are three small hotels with a total of 120 rooms.", "The neighborhood was developed in the 1970s."],
     },
+    image: "/poi-images/barbados-clermont-cities-v2.webp",
   },
   {
     id: "barbados-green-hill-cities-v2",
@@ -2387,6 +2463,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populația din Green Hill este de aproximativ 850 de locuitori (2023).", "Suprafața este de 1,5 km².", "Cel mai înalt punct se află la 85 de metri deasupra nivelului mării.", "Terenul de golf (Royal Westmoreland) are 18 găuri.", "Există două școli internaționale în apropiere.", "Venitul mediu al gospodăriilor este cu 30% peste media națională."],
       en: ["Population of Green Hill is approximately 850 (as of 2023).", "Area is 1.5 km².", "Highest elevation is 85 meters above sea level.", "The golf course (Royal Westmoreland) has 18 holes.", "There are two international schools nearby.", "Average household income is 30% above the national average."],
     },
+    image: "/poi-images/barbados-green-hill-cities-v2.webp",
   },
   {
     id: "barbados-st-george-parish-v2",
@@ -2418,6 +2495,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Plantația Drax Hall a fost fondată în 1650.", "Suprafața plantației este de 120 de hectare.", "Conacul are 12 camere.", "Producția de rom a început în 1700.", "Distileria produce anual 50.000 de litri de rom.", "Proprietatea primește aproximativ 20.000 de vizitatori anual."],
       en: ["Drax Hall plantation was founded in 1650.", "The plantation area is 120 hectares.", "The manor house has 12 rooms.", "Rum production began in 1700.", "The distillery produces 50,000 liters of rum annually.", "The estate receives about 20,000 visitors per year."],
     },
+    image: "/poi-images/barbados-st-george-parish-v2.webp",
   },
   {
     id: "barbados-stepney-cities-v2",
@@ -2449,6 +2527,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populația din Stepney este de aproximativ 400 de locuitori (2023).", "Suprafața satului este de 2,3 km².", "Prima biserică a fost construită în 1750.", "O fermă medie are 5 hectare.", "Festivalul recoltei se sărbătorește din 1950.", "Linia de autobuz 12 leagă Stepney de Bridgetown."],
       en: ["Population of Stepney is approximately 400 (as of 2023).", "Area of the village is 2.3 km².", "The first church was built in 1750.", "Average farm size is 5 hectares.", "The harvest festival has been celebrated since 1950.", "Bus route 12 connects Stepney to Bridgetown."],
     },
+    image: "/poi-images/barbados-stepney-cities-v2.webp",
   },
   {
     id: "barbados-brereton-cities-v2",
@@ -2480,6 +2559,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populația din Brereton este de aproximativ 600 de locuitori (2023).", "Suprafața este de 1,8 km².", "Grădinile comunitare se întind pe 0,2 hectare.", "Distanța până la Welchman Hall Gully este de 2,5 km.", "Peștera are o lungime de 250 de metri.", "Supermarketul s-a deschis în 1995."],
       en: ["Population of Brereton is approximately 600 (as of 2023).", "Area is 1.8 km².", "Community gardens cover 0.2 hectares.", "Distance to Welchman Hall Gully is 2.5 km.", "The cave is 250 meters long.", "The supermarket opened in 1995."],
     },
+    image: "/poi-images/barbados-brereton-cities-v2.webp",
   },
   {
     id: "barbados-st-margaret-cities-v2",
@@ -2511,6 +2591,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populația din Saint Margaret este de aproximativ 2.300 de locuitori (2023).", "Suprafața este de 0,4 km².", "Biserica Sf. Margareta a fost construită în 1760.", "Densitatea populației este de 5.750 locuitori pe km².", "Există trei magazine de artizanat în cartier.", "Noul loc de joacă a fost deschis în 2022."],
       en: ["Population of Saint Margaret is approximately 2,300 (as of 2023).", "Area is 0.4 km².", "St. Margaret's Church was built in 1760.", "Population density is 5,750 persons per km².", "There are three craft shops in the neighborhood.", "The new playground opened in 2022."],
     },
+    image: "/poi-images/barbados-st-margaret-cities-v2.webp",
   },
   {
     id: "barbados-vaucluse-cities-v2",
@@ -2542,6 +2623,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populația din Vaucluse este de aproximativ 300 de locuitori (2023).", "Suprafața este de 0,6 km².", "Prețul mediu al unui teren este de 500.000 BBD.", "Vilele au în medie 5 dormitoare.", "Firma de securitate angajează 10 paznici.", "Cea mai apropiată școală (St. Michael's School) se află la 3 km."],
       en: ["Population of Vaucluse is approximately 300 (as of 2023).", "Area is 0.6 km².", "Average land price is 500,000 BBD.", "Villas have an average of 5 bedrooms.", "The security company employs 10 guards.", "The nearest school (St. Michael's School) is 3 km away."],
     },
+    image: "/poi-images/barbados-vaucluse-cities-v2.webp",
   },
   {
     id: "barbados-bloomsbury-cities-v2",
@@ -2573,6 +2655,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populația din Bloomsbury este de aproximativ 1.400 de locuitori (2023).", "Suprafața este de 0,5 km².", "Așezarea a fost fondată în 1965.", "Există 10 străzi în cartier.", "Parcul are o suprafață de 0,03 km².", "Centrul comunitar s-a deschis în 1970."],
       en: ["Population of Bloomsbury is approximately 1,400 (as of 2023).", "Area is 0.5 km².", "The settlement was founded in 1965.", "There are 10 streets in the neighborhood.", "The park has an area of 0.03 km².", "The community centre opened in 1970."],
     },
+    image: "/poi-images/barbados-bloomsbury-cities-v2.webp",
   },
   {
     id: "barbados-st-simons-cities-v2",
@@ -2604,6 +2687,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populația din Saint Simons este de aproximativ 500 de locuitori (2023).", "Suprafața satului este de 0,4 km².", "Portul de pescuit are 20 de locuri de acostare.", "Anual se debarcă aproximativ 100 de tone de pește.", "Există trei fabrici de procesare a peștelui.", "Măsurile durabile au fost introduse în 2018."],
       en: ["Population of Saint Simons is approximately 500 (as of 2023).", "Area of the village is 0.4 km².", "The fishing port has 20 berths.", "Approximately 100 tonnes of fish are landed annually.", "There are three fish processing plants.", "Sustainable measures were introduced in 2018."],
     },
+    image: "/poi-images/barbados-st-simons-cities-v2.webp",
   },
   {
     id: "barbados-belle-plaine-parish-v2",
@@ -2635,6 +2719,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populația din Shorey Village este de aproximativ 350 de locuitori (2023).", "Suprafața satului este de 1,2 km².", "Câmpurile de trestie de zahăr acoperă 0,8 km².", "Școala primară are 60 de elevi.", "Biserica a fost construită în 1875.", "Proiectul de irigații a fost finalizat în 2020."],
       en: ["Population of Shorey Village is approximately 350 (as of 2023).", "Area of the village is 1.2 km².", "Sugarcane fields cover 0.8 km².", "The primary school has 60 students.", "The church was built in 1875.", "The irrigation project was completed in 2020."],
     },
+    image: "/poi-images/barbados-belle-plaine-parish-v2.webp",
   },
   {
     id: "barbados-st-nicolas-cities-v2",
@@ -2666,6 +2751,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populația din Saint Nicholas este de aproximativ 900 de locuitori (2023).", "Suprafața este de 0,7 km².", "St. Nicholas Abbey a fost construită în 1658.", "Distileria produce anual 30.000 de litri de rom.", "Conacul are 15 camere.", "Cel mai apropiat traseu de drumeție este la 1 km."],
       en: ["Population of Saint Nicholas is approximately 900 (as of 2023).", "Area is 0.7 km².", "St. Nicholas Abbey was built in 1658.", "The distillery produces 30,000 litres of rum annually.", "The mansion has 15 rooms.", "The nearest hiking trail is 1 km away."],
     },
+    image: "/poi-images/barbados-st-nicolas-cities-v2.webp",
   },
   {
     id: "barbados-diamond-corner-cities-v2",
@@ -2697,6 +2783,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populația din Diamond Corner este de aproximativ 200 de locuitori (2023).", "Suprafața așezării este de 0,3 km².", "Baobabul are aproximativ 300 de ani.", "Intersecția există din 1800.", "Stația de autobuz este deservită de linia 15.", "Distanța până la cea mai apropiată școală este de 4 km."],
       en: ["Population of Diamond Corner is approximately 200 (as of 2023).", "Area of the settlement is 0.3 km².", "The baobab tree is estimated to be 300 years old.", "The crossroads has existed since 1800.", "The bus stop is served by route 15.", "Distance to the nearest school is 4 km."],
     },
+    image: "/poi-images/barbados-diamond-corner-cities-v2.webp",
   },
   {
     id: "barbados-ebworth-cities-v2",
@@ -2728,6 +2815,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populația din Ebworth este de aproximativ 700 de locuitori (2023).", "Suprafața este de 1,0 km².", "Există două grajduri cu un total de 30 de cai.", "Școala de echitație are 20 de elevi.", "Rezervația naturală Turner's Hall Woods are 0,5 km².", "În rezervație au fost înregistrate 60 de specii de păsări."],
       en: ["Population of Ebworth is approximately 700 (as of 2023).", "Area is 1.0 km².", "There are two stables with a total of 30 horses.", "The riding school has 20 students.", "Turner's Hall Woods nature reserve is 0.5 km².", "60 bird species have been recorded in the reserve."],
     },
+    image: "/poi-images/barbados-ebworth-cities-v2.webp",
   },
   {
     id: "barbados-gibbes-cities-v2",
@@ -2759,6 +2847,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populația din Gibbes este de aproximativ 1.100 de locuitori (2023).", "Suprafața este de 0,6 km².", "Plaja are o lungime de 0,5 km.", "Înălțimea medie a valurilor iarna este de 1,5 metri.", "Școala primară are 80 de elevi.", "Drumul de coastă este la 2 km de centru."],
       en: ["Population of Gibbes is approximately 1,100 (as of 2023).", "Area is 0.6 km².", "The beach is 0.5 km long.", "Average wave height in winter is 1.5 meters.", "The primary school has 80 students.", "The coastal road is 2 km from the centre."],
     },
+    image: "/poi-images/barbados-gibbes-cities-v2.webp",
   },
   {
     id: "barbados-mullins-cities-v2",
@@ -2790,6 +2879,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populație: 463 (estimare 2020)", "Altitudine: 5 metri deasupra nivelului mării", "Distanță până la Bridgetown: 15 km sud", "Plaja Mullins Beach se întinde pe 500 de metri", "Satul se află în circumscripția Saint James Central", "Cel mai apropiat magazin: la 2 km în Holetown"],
       en: ["Population: 463 (2020 estimate)", "Elevation: 5 meters above sea level", "Distance to Bridgetown: 15 km south", "Mullins Beach stretches 500 meters", "Village located in Saint James Central constituency", "Nearest supermarket: 2 km in Holetown"],
     },
+    image: "/poi-images/barbados-mullins-cities-v2.webp",
   },
   {
     id: "barbados-battaleys-cities-v2",
@@ -2821,6 +2911,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populație: 212 (estimare 2020)", "Altitudine: 30 de metri deasupra nivelului mării", "Fabrica de zahăr Battaleys a fost construită în 1845", "Fabrica procesează 50.000 de tone de trestie de zahăr anual", "Distanță până la Speightstown: 5 km", "Cea mai apropiată plajă: 2 km nord-vest"],
       en: ["Population: 212 (2020 estimate)", "Elevation: 30 meters above sea level", "Battaleys Sugar Factory built in 1845", "Factory processes 50,000 tonnes of sugarcane annually", "Distance to Speightstown: 5 km", "Nearest beach: 2 km northwest"],
     },
+    image: "/poi-images/barbados-battaleys-cities-v2.webp",
   },
   {
     id: "barbados-road-view-cities-v2",
@@ -2852,6 +2943,7 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populație: 1245 (recensământ 2010)", "Altitudine: 15 metri deasupra nivelului mării", "Autostrada ABC Highway a fost deschisă în 1995", "Distanță până la aeroport: 5 km", "Cea mai apropiată școală: Christ Church Primary School (1 km)", "Venitul mediu al gospodăriei: 35.000 BBD"],
       en: ["Population: 1,245 (2010 census)", "Elevation: 15 meters above sea level", "ABC Highway opened in 1995", "Distance to airport: 5 km", "Nearest school: Christ Church Primary School (1 km)", "Average household income: 35,000 BBD"],
     },
+    image: "/poi-images/barbados-road-view-cities-v2.webp",
   },
   {
     id: "barbados-st-lucy-parish-v2",
@@ -2883,5 +2975,6 @@ export const barbadosCitiesV2: POI[] = [
       ro: ["Populație: 9.000 (estimare 2020)", "Suprafață: 36 km²", "Cel mai înalt punct: 240 de metri (Mount Hillaby se află în St. Lucy)", "Farul Harrison Point construit în 1900", "Numărul de școli primare: 3", "Precipitații medii: 1.200 mm/an"],
       en: ["Population: 9,000 (2020 estimate)", "Area: 36 km²", "Highest point: 240 m (Mount Hillaby is in St. Lucy)", "Harrison Point Lighthouse built in 1900", "Number of primary schools: 3", "Average rainfall: 1,200 mm/year"],
     },
+    image: "/poi-images/barbados-st-lucy-parish-v2.webp",
   }
 ];

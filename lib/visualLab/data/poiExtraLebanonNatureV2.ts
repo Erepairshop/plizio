@@ -31,6 +31,7 @@ export const lebanonNatureV2: POI[] = [
       ro: ["Volumul rezervorului: 220 milioane m³", "Înălțimea barajului: 60 m", "Suprafața irigată: 27.000 ha", "Anul finalizării: 1959", "Lungimea lacului: 12 km", "Lățimea maximă: 3 km"],
       en: ["Reservoir volume: 220 million m³", "Dam height: 60 m", "Irrigated area: 27,000 ha", "Completed: 1959", "Lake length: 12 km", "Maximum width: 3 km"],
     },
+    image: "/poi-images/lebanon-qaraoun-lake-nature-v2.webp",
   },
   {
     id: "lebanon-nahr-ibrahim-nature-v2",
@@ -62,6 +63,7 @@ export const lebanonNatureV2: POI[] = [
       ro: ["Lungime: 50 km", "Bazin hidrografic: 600 km²", "Debit primăvara: 10 m³/s", "Cea mai mare cascadă: 30 m", "Număr de sate în vale: 8", "Gura de vărsare: Marea Mediterană la Byblos"],
       en: ["Length: 50 km", "Catchment area: 600 km²", "Spring discharge: 10 m³/s", "Highest waterfall: 30 m", "Villages in valley: 8", "Mouth: Mediterranean at Byblos"],
     },
+    image: "/poi-images/lebanon-nahr-ibrahim-nature-v2.webp",
   },
   {
     id: "lebanon-afqa-grotto-nature-v2",
@@ -93,6 +95,7 @@ export const lebanonNatureV2: POI[] = [
       ro: ["Adâncimea peșterii: 200 m", "Temperatura apei izvorului: 12 °C", "Altitudine: 1200 m", "Debitul izvorului: 5 m³/s", "Vârsta peșterii: aprox. 20 milioane de ani", "Număr anual de vizitatori: 50.000"],
       en: ["Cave depth: 200 m", "Spring water temperature: 12 °C", "Elevation: 1200 m", "Spring discharge: 5 m³/s", "Cave age: approx. 20 million years", "Annual visitors: 50,000"],
     },
+    image: "/poi-images/lebanon-afqa-grotto-nature-v2.webp",
   },
   {
     id: "lebanon-jezzine-waterfall-nature-v2",
@@ -124,6 +127,7 @@ export const lebanonNatureV2: POI[] = [
       ro: ["Înălțime: 90 m", "Debit primăvara: 2 m³/s", "Altitudine: 900 m", "Precipitații anuale: 1000 mm", "Distanța până la orașul Jezzine: 3 km", "Număr anual de vizitatori: 100.000"],
       en: ["Height: 90 m", "Spring flow rate: 2 m³/s", "Elevation: 900 m", "Annual rainfall: 1000 mm", "Distance from Jezzine town: 3 km", "Annual visitors: 100,000"],
     },
+    image: "/poi-images/lebanon-jezzine-waterfall-nature-v2.webp",
   },
   {
     id: "lebanon-nahr-el-assi-nature-v2",
@@ -155,6 +159,7 @@ export const lebanonNatureV2: POI[] = [
       ro: ["Lungime totală: 571 km", "Lungime în Liban: 40 km", "Bazin hidrografic: 23.000 km²", "Gura de vărsare: Marea Mediterană la Samandağ", "Debit la izvor: 7 m³/s", "Număr de baraje: 12"],
       en: ["Total length: 571 km", "Length in Lebanon: 40 km", "Catchment area: 23,000 km²", "Mouth: Mediterranean at Samandağ", "Spring discharge: 7 m³/s", "Number of dams: 12"],
     },
+    image: "/poi-images/lebanon-nahr-el-assi-nature-v2.webp",
   },
   {
     id: "lebanon-kammouha-forest-nature-v2",
@@ -186,6 +191,7 @@ export const lebanonNatureV2: POI[] = [
       ro: ["Suprafața: 50 km²", "Altitudine: 1000-1800 m", "Vârsta medie a copacilor: 200 de ani", "Precipitații anuale: 1200 mm", "Specii de păsări: 100", "Statut de protecție: rezervație naturală din 2010"],
       en: ["Area: 50 km²", "Elevation range: 1000 to 1800 m", "Average tree age: 200 years", "Annual rainfall: 1200 mm", "Documented bird species: 100", "Protected status: nature reserve since 2010"],
     },
+    image: "/poi-images/lebanon-kammouha-forest-nature-v2.webp",
   },
   {
     id: "lebanon-wadi-jahannam-nature-v2",
@@ -217,6 +223,7 @@ export const lebanonNatureV2: POI[] = [
       ro: ["Adâncime: până la 500 m", "Lungime: 8 km", "Altitudinea fundului văii: 800 m", "Număr de trasee de alpinism: 15", "Specii periclitate: leopardul persan", "Vârsta geologică: Jurasic (200 milioane de ani)"],
       en: ["Depth: up to 500 m", "Length: 8 km", "Valley floor elevation: 800 m", "Number of climbing routes: 15", "Endangered species: Persian leopard", "Geological age: Jurassic (200 million years)"],
     },
+    image: "/poi-images/lebanon-wadi-jahannam-nature-v2.webp",
   },
   {
     id: "lebanon-nahr-el-barid-nature-v2",
@@ -248,6 +255,7 @@ export const lebanonNatureV2: POI[] = [
       ro: ["Lungime: 30 km", "Bazin hidrografic: 200 km²", "Debit maxim: 15 m³/s", "Precipitații anuale: 700 mm", "Număr de izvoare: 10", "Gura de vărsare: Marea Mediterană la nord de Tripoli"],
       en: ["Length: 30 km", "Catchment area: 200 km²", "Maximum flow rate: 15 m³/s", "Annual rainfall: 700 mm", "Number of springs: 10", "Mouth: Mediterranean north of Tripoli"],
     },
+    image: "/poi-images/lebanon-nahr-el-barid-nature-v2.webp",
   },
   {
     id: "lebanon-mount-rihan-nature-v2",
@@ -279,6 +287,7 @@ export const lebanonNatureV2: POI[] = [
       ro: ["Înălțime: 1500 m", "Suprafața ariei protejate: 30 km²", "Specii de plante: 500", "Cel mai înalt punct: 1500 m", "Precipitații anuale: 800 mm", "Situri arheologice: 5"],
       en: ["Height: 1500 m", "Protected area size: 30 km²", "Plant species: 500", "Highest point: 1500 m", "Annual rainfall: 800 mm", "Archaeological sites: 5"],
     },
+    image: "/poi-images/lebanon-mount-rihan-nature-v2.webp",
   },
   {
     id: "lebanon-chawan-lake-nature-v2",
@@ -310,6 +319,7 @@ export const lebanonNatureV2: POI[] = [
       ro: ["Suprafața: 0,5 km²", "Adâncime maximă: 20 m", "Capacitate: 5 milioane m³", "Anul construcției: 1965", "Altitudine: 1200 m", "Specii de pești: tilapia, crap"],
       en: ["Surface area: 0.5 km²", "Maximum depth: 20 m", "Capacity: 5 million m³", "Year built: 1965", "Elevation: 1200 m", "Fish species: tilapia, carp"],
     },
+    image: "/poi-images/lebanon-chawan-lake-nature-v2.webp",
   },
   {
     id: "lebanon-nahr-abou-ali-nature-v2",
@@ -341,6 +351,7 @@ export const lebanonNatureV2: POI[] = [
       ro: ["Lungime: 45 km", "Bazin hidrografic: 300 km²", "Altitudinea izvorului: 2000 m", "Debit: 3 m³/s", "Gura de vărsare: Marea Mediterană la Tripoli", "Populația orașului Tripoli: 500.000"],
       en: ["Length: 45 km", "Catchment area: 300 km²", "Source elevation: 2000 m", "Flow rate: 3 m³/s", "Mouth: Mediterranean at Tripoli", "Population of Tripoli: 500,000"],
     },
+    image: "/poi-images/lebanon-nahr-abou-ali-nature-v2.webp",
   },
   {
     id: "lebanon-nahr-damour-nature-v2",
@@ -372,5 +383,6 @@ export const lebanonNatureV2: POI[] = [
       ro: ["Lungime: 30 km", "Bazin hidrografic: 500 km²", "Precipitații anuale: 800 mm", "Debit maxim: 20 m³/s", "Gura de vărsare: Marea Mediterană la sud de Beirut", "Suprafața agricolă: 100 km²"],
       en: ["Length: 30 km", "Catchment area: 500 km²", "Annual rainfall: 800 mm", "Maximum flow: 20 m³/s", "Mouth: Mediterranean south of Beirut", "Agricultural area: 100 km²"],
     },
+    image: "/poi-images/lebanon-nahr-damour-nature-v2.webp",
   }
 ];

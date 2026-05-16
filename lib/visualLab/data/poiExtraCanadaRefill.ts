@@ -63,6 +63,7 @@ export const poiExtraCanadaRefill: POI[] = [
       ro: ["Fondată pe 9 iunie 1931", "Suprafață de 75 de hectare", "Găzduiește 22.000 de specii de plante", "Deține 10 sere expoziționale", "Grădina Chineză are 2,5 hectare", "Sit Istoric Național al Canadei"],
       en: ["Founded on June 9, 1931", "Covers an area of 75 hectares", "Home to 22,000 plant species", "Features 10 exhibition greenhouses", "The Chinese Garden covers 2.5 hectares", "National Historic Site of Canada"],
     },
+    image: "/poi-images/montreal-botanical-garden-refill.webp",
   }
 ]
 

@@ -31,6 +31,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Honiara a devenit oficial capitală în anul 1952.", "Orașul este situat pe insula Guadalcanal, lângă strâmtoarea Iron Bottom.", "Aeroportul Henderson Field a fost un punct cheie în cel de-al Doilea Război Mondial.", "Clădirea Parlamentului are un acoperiș iconic în formă de con.", "Populația estimată a orașului este de aproximativ 90.000 de locuitori.", "Portul Point Cruz gestionează cea mai mare parte a comerțului național."],
       en: ["Honiara officially became the capital city in 1952.", "The city is situated on Guadalcanal island along Iron Bottom Sound.", "Henderson Field airport was a major strategic site during World War II.", "The National Parliament features a distinct conical roof design.", "The estimated population of the city is approximately 90,000.", "The Point Cruz harbor is the primary gateway for the nation's shipping."],
     },
+    image: "/poi-images/solomonislands-honiara-cities-v2.webp",
   },
   {
     id: "solomonislands-auki-cities-v2",
@@ -62,6 +63,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Auki este reședința administrativă a provinciei Malaita.", "Orașul ocupă locul trei ca mărime din Insulele Solomon.", "Este situat pe coasta de nord-vest a insulei Malaita.", "Laguna Langa Langa de lângă oraș este celebră pentru banii din scoici.", "Accesul aerian este asigurat prin aeroportul Gwaunaru'u.", "Feriboturile rapide fac legătura cu Honiara în aproximativ 3 ore."],
       en: ["Auki is the capital city of the Malaita Province.", "It is ranked as the third-largest urban center in the Solomon Islands.", "The town is located on the northwest coast of Malaita Island.", "The Langa Langa Lagoon nearby is a center for traditional shell money.", "Gwaunaru'u Airport is the main aviation link for Auki.", "Regular fast ferry services connect Auki to Honiara in about 3 hours."],
     },
+    image: "/poi-images/solomonislands-auki-cities-v2.webp",
   },
   {
     id: "solomonislands-gizo-cities-v2",
@@ -93,6 +95,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Gizo este capitala Provinciei de Vest, situată pe insula Ghizo.", "Este al doilea cel mai populat centru urban din țară.", "Aeroportul orașului se află pe insula vecină, Nusatupe.", "Insula Kennedy (Kasolo) se află la o distanță mică de oraș.", "Orașul a fost grav afectat de un tsunami la 2 aprilie 2007.", "Gizo este recunoscut internațional ca destinație pentru scufundări."],
       en: ["Gizo is the capital of Western Province, located on Ghizo Island.", "It ranks as the second-largest urban center in the Solomon Islands.", "Gizo Airport is situated on the nearby island of Nusatupe.", "Kennedy Island (Kasolo Island) is located just off the coast.", "The town was struck by a significant tsunami on April 2, 2007.", "Gizo is a world-renowned hub for scuba diving and marine tourism."],
     },
+    image: "/poi-images/solomonislands-gizo-cities-v2.webp",
   },
   {
     id: "solomonislands-noro-cities-v2",
@@ -124,6 +127,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Noro este un port de adâncime vital situat pe insula Noua Georgie.", "Orașul găzduiește fabrica SolTuna, un pilon al economiei naționale.", "Portul este unul dintre puținele capabile să primească nave portcontainer.", "Noro este situat strategic pe malul Strâmtorii Kula.", "Localitatea a fost planificată ca centru industrial pentru vestul țării.", "Exporturile de ton din Noro reprezintă o parte majoră din veniturile țării."],
       en: ["Noro is a major deep-water port on the island of New Georgia.", "It is home to the SolTuna cannery, a massive regional employer.", "The port facility can accommodate large international container vessels.", "Noro is strategically located along the Kula Gulf passage.", "The town was developed as an industrial hub for the Western Province.", "Tuna exports from Noro are a significant contributor to the national GDP."],
     },
+    image: "/poi-images/solomonislands-noro-cities-v2.webp",
   },
   {
     id: "solomonislands-munda-cities-v2",
@@ -155,6 +159,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Munda este cea mai mare localitate de pe insula Noua Georgie.", "Aerodromul a fost construit inițial de japonezi în anul 1942.", "Orașul este situat pe malul Lagunei Roviana.", "Localitatea este celebră pentru măiestria sculpturilor în lemn.", "Muzeul Peter Joseph conține o colecție vastă de relicve din război.", "Aeroportul Munda a primit recent statutul de aeroport internațional."],
       en: ["Munda is the largest urban settlement on New Georgia Island.", "Munda Airport was originally constructed by Japanese forces in 1942.", "The town is situated on the shores of the Roviana Lagoon.", "Munda is a primary center for traditional Western Province woodcarving.", "The Peter Joseph War Museum displays a unique collection of WWII relics.", "The airport was recently upgraded to handle international flights from Australia."],
     },
+    image: "/poi-images/solomonislands-munda-cities-v2.webp",
   },
   {
     id: "solomonislands-kirakira-cities-v2",
@@ -186,6 +191,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Kirakira este reședința administrativă a provinciei Makira-Ulawa.", "Orașul este situat pe coasta de nord a insulei Makira.", "Dispune de un aerodrom cu zboruri regulate către capitala Honiara.", "Producția de cacao și copră constituie baza economiei locale.", "Insula Makira este celebră pentru numărul mare de păsări endemice.", "În oraș se află spitalul principal care deservește întreaga provincie."],
       en: ["Kirakira is the capital city of the Makira-Ulawa Province.", "The town is situated on the northern coast of Makira Island.", "It features a domestic airport with scheduled flights to Honiara.", "Cocoa and copra production are the primary economic activities.", "Makira Island is a global hotspot for endemic bird species.", "Kirakira houses the main provincial hospital and government headquarters."],
     },
+    image: "/poi-images/solomonislands-kirakira-cities-v2.webp",
   },
   {
     id: "solomonislands-tulagi-cities-v2",
@@ -217,6 +223,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Tulagi a fost capitala Insulelor Solomon între 1893 și 1942.", "Orașul este situat în Provincia Centrală, lângă Insulele Florida.", "Forțele japoneze au ocupat orașul în mai 1942.", "Localitatea este recunoscută pentru locațiile de scufundări la epave.", "Astăzi servește drept centru administrativ al Provinciei Centrale.", "Portul natural din Tulagi a fost esențial pentru operațiunile navale."],
       en: ["Tulagi served as the national capital from 1893 to 1942.", "The town is the administrative center of the Central Province.", "Japanese forces occupied Tulagi in May 1942 during WWII.", "The area is a famous destination for historical wreck diving.", "It officially lost its capital status to Honiara in 1952.", "Tulagi's harbor is one of the best-protected deep-water sites in the region."],
     },
+    image: "/poi-images/solomonislands-tulagi-cities-v2.webp",
   },
   {
     id: "solomonislands-lata-cities-v2",
@@ -248,6 +255,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Lata este reședința provinciei Temotu, pe insula Nendo.", "Exploratorul Álvaro de Mendaña a murit aici în anul 1595.", "Orașul a fost lovit de un tsunami major în februarie 2013.", "Aerodromul din Lata asigură legătura aeriană cu Honiara.", "Zona este unică pentru utilizarea tradițională a banilor din pene.", "Lata se află la peste 600 km distanță de capitala Honiara."],
       en: ["Lata is the administrative capital of the Temotu Province on Nendo Island.", "Spanish explorer Álvaro de Mendaña died here in 1595.", "A significant tsunami struck the town in February 2013.", "Lata Airport provides the primary air link to the capital, Honiara.", "The region is famous for its unique traditional feather money.", "Lata is located more than 600 kilometers east of Honiara."],
     },
+    image: "/poi-images/solomonislands-lata-cities-v2.webp",
   },
   {
     id: "solomonislands-buala-cities-v2",
@@ -279,6 +287,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Buala este reședința administrativă a provinciei Isabel.", "Insula Santa Isabel a fost descoperită de spanioli în anul 1568.", "Aerodromul Fera deservește orașul și este situat pe o insulă vecină.", "Este centrul politic al celei mai lungi insule din arhipelag.", "Zona este recunoscută pentru conservarea dansurilor tradiționale.", "Accesul de la aerodrom în oraș se face printr-o călătorie scurtă cu barca."],
       en: ["Buala is the capital city of the Isabel Province.", "Santa Isabel Island was the first to be sighted by Mendaña in 1568.", "The Fera Airstrip is located on a small island across from the town.", "It serves as the administrative hub for the nation's longest island.", "The region is noted for its strong Anglican heritage and traditions.", "Boats are the only means of transport between the airfield and Buala."],
     },
+    image: "/poi-images/solomonislands-buala-cities-v2.webp",
   },
   {
     id: "solomonislands-taro-cities-v2",
@@ -310,6 +319,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Taro este reședința provinciei Choiseul, amplasată pe insula Taro.", "Orașul urmează să fie mutat integral din cauza schimbărilor climatice.", "Se află în extremitatea de nord-vest, aproape de granița cu Papua Noua Guinee.", "Aerodromul din Taro asigură zboruri regulate către capitală.", "Este considerat primul oraș din lume care se mută oficial din motive climatice.", "Localitatea găzduiește toate instituțiile guvernamentale ale provinciei."],
       en: ["Taro is the capital of Choiseul Province, located on Taro Island.", "The entire town is slated for relocation due to rising sea levels.", "It is situated in the far northwest, near the border with Papua New Guinea.", "Taro Airport is the primary aviation link to the national capital.", "Taro is among the world's first cities to plan a climate-induced relocation.", "The town serves as the main administrative and service hub for Choiseul."],
     },
+    image: "/poi-images/solomonislands-taro-cities-v2.webp",
   },
   {
     id: "solomonislands-tigoa-cities-v2",
@@ -341,6 +351,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Tigoa este reședința administrativă a provinciei Rennell și Bellona.", "Orașul se află pe cel mai mare atol de corali ridicat din lume.", "Lacul Tegano din apropiere este înscris în Patrimoniul Mondial UNESCO.", "Locuitorii din Tigoa sunt de origine polineziană.", "Accesul în oraș se face în principal prin aerodromul Rennell.", "Lacul Tegano este cel mai mare lac interior din Pacificul de Sud."],
       en: ["Tigoa is the capital of Rennell and Bellona Province.", "It is situated on Rennell Island, the largest raised coral atoll on Earth.", "Nearby Lake Tegano is part of a UNESCO World Heritage site.", "Tigoa is the center of a Polynesian culture within the Solomon Islands.", "Rennell Airport serves as the town's primary transportation link.", "Lake Tegano is the largest freshwater lake in the insular South Pacific."],
     },
+    image: "/poi-images/solomonislands-tigoa-cities-v2.webp",
   },
   {
     id: "solomonislands-maluu-cities-v2",
@@ -372,6 +383,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Malu'u este principalul nod comercial din nordul insulei Malaita.", "Orașul este amplasat strategic pe malul unui golf protejat.", "Piața săptămânală din Malu'u este renumită în întreaga provincie.", "Localitatea este legată de orașul Auki printr-o șosea de coastă.", "Dispune de o clinică medicală majoră care deservește nordul insulei.", "Comerțul cu produse agricole și pește reprezintă baza economiei locale."],
       en: ["Malu'u is the primary commercial hub for the North Malaita district.", "The town is situated on a picturesque and sheltered coastal bay.", "Its weekly market is one of the largest trading events on Malaita Island.", "A coastal road connects Malu'u to the provincial capital of Auki.", "It houses a key health clinic and secondary school for the region.", "The economy is driven by the exchange of agricultural and marine products."],
     },
+    image: "/poi-images/solomonislands-maluu-cities-v2.webp",
   },
   {
     id: "solomonislands-seghe-cities-v2",
@@ -403,6 +415,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Seghe este punctul de intrare în Laguna Marovo, cea mai mare din lume.", "Aerodromul a fost construit de unitățile Seabees ale SUA în 1943.", "Localitatea este situată în vârful sudic al insulei Noua Georgie.", "Aeroportul Seghe este vital pentru accesul turiștilor în regiune.", "Zona este celebră pentru sculpturile în lemn cu încrustații de sidef.", "Seghe se află în apropierea unor recife de corali protejate."],
       en: ["Seghe is the main gateway to the Marovo Lagoon, the world's largest.", "The airfield was constructed by U.S. Seabees in 1943 during WWII.", "The settlement is located at the southeastern tip of New Georgia Island.", "Seghe Airport is a critical hub for high-end eco-tourism in the area.", "Local artisans are world-renowned for their intricate woodcarvings.", "The area is surrounded by some of the world's most biodiverse coral reefs."],
     },
+    image: "/poi-images/solomonislands-seghe-cities-v2.webp",
   },
   {
     id: "solomonislands-ringgi-cities-v2",
@@ -434,6 +447,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Sediul central al companiei Kolombangara Forest Products Ltd.", "Situat în Ringgi Cove, un port natural de mare adâncime.", "Insula Kolombangara este un vulcan aproape perfect circular.", "Principalul punct de export pentru lemnul certificat FSC.", "Silvicultura intensivă a început în această zonă în anii 1960.", "Cel mai înalt punct din apropiere este Muntele Veve, de 1770 metri."],
       en: ["Headquarters of Kolombangara Forest Products Ltd (KFPL).", "Located at Ringgi Cove, a natural deep-water harbor.", "Kolombangara Island is a nearly perfectly circular volcano.", "Primary export point for FSC-certified plantation timber.", "Intensive forestry operations began here in the 1960s.", "The highest point nearby is Mount Veve at 1,770 meters."],
     },
+    image: "/poi-images/solomonislands-ringgi-cities-v2.webp",
   },
   {
     id: "solomonislands-sasamungga-cities-v2",
@@ -465,6 +479,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Cea mai mare așezare din partea de sud a insulei Choiseul.", "Fondarea misiunii metodiste a avut loc în anul 1922.", "Găzduiește Spitalul Sasamungga, un centru regional de sănătate.", "Centru pentru producția de copra și cacao.", "Populația locală vorbește predominant limba Babatana.", "Punct important de acostare pentru navele de pe coasta de sud."],
       en: ["Largest settlement in the southern part of Choiseul Island.", "Establishment of the Methodist mission in 1922.", "Home to the Sasamungga Hospital, a regional health hub.", "Center for copra and cocoa production in the area.", "The local population predominantly speaks the Babatana language.", "Important mooring point for vessels along the southern coast."],
     },
+    image: "/poi-images/solomonislands-sasamungga-cities-v2.webp",
   },
   {
     id: "solomonislands-marau-cities-v2",
@@ -496,6 +511,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Situat în Marau Sound, în partea de est a insulei Guadalcanal.", "Zonă de tranziție ecologică spre insula Makira.", "Găzduiește insula Tavanipupu, unde au fost cazați membrii familiei regale britanice în 2012.", "Cunoscut pentru specii rare de corali și diversitate mare de pești.", "Dispune de un mic aerodrom pentru conexiuni regionale.", "Punct important de plecare pentru călătoriile către provincia Makira-Ulawa."],
       en: ["Located at Marau Sound on the eastern end of Guadalcanal.", "Ecological transition zone toward the island of Makira.", "Home to Tavanipupu Island, which hosted British royalty in 2012.", "Known for rare coral species and high fish diversity.", "Features a small airstrip for regional air connections.", "Key jumping-off point for travel to Makira-Ulawa Province."],
     },
+    image: "/poi-images/solomonislands-marau-cities-v2.webp",
   },
   {
     id: "solomonislands-tenaru-cities-v2",
@@ -527,6 +543,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Locul de desfășurare a Bătăliei de la Tenaru la 21 august 1942.", "Situat la gura de vărsare a râului Tenaru.", "Găzduiește renumita Școală Secundară Catolică Sfântul Iosif.", "Locație importantă pentru producția agricolă lângă Honiara.", "Cascada Tenaru din interior are o înălțime de aproximativ 60 de metri.", "Punct strategic în timpul debarcării mariniștilor americani din 1942."],
       en: ["Site of the Battle of the Tenaru on August 21, 1942.", "Located at the mouth of the Tenaru River.", "Home to the prestigious St. Joseph’s Catholic Secondary School.", "Key location for agricultural production near Honiara.", "Tenaru Falls in the hinterland are approximately 60 meters high.", "Strategic point during the US Marine landings in 1942."],
     },
+    image: "/poi-images/solomonislands-tenaru-cities-v2.webp",
   },
   {
     id: "solomonislands-visale-cities-v2",
@@ -558,6 +575,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Centru al misiunii catolice încă din anul 1904.", "Fosta reședință a vicariatului apostolic al Insulelor Solomon.", "Catedrala originală a fost distrusă în timpul celui de-al Doilea Război Mondial.", "Oferă vedere spre locul a numeroase bătălii navale (Ironbottom Sound).", "Cunoscut pentru ruinele clădirilor istorice ale misiunii.", "Locație educațională importantă cu școli bisericești locale."],
       en: ["Center of the Catholic mission since 1904.", "Former seat of the Apostolic Vicariate of the Solomon Islands.", "The original cathedral was destroyed during World War II.", "Offers a view over the site of numerous naval battles (Ironbottom Sound).", "Known for the ruins of historical mission buildings.", "Important educational site with local church-run schools."],
     },
+    image: "/poi-images/solomonislands-visale-cities-v2.webp",
   },
   {
     id: "solomonislands-fera-cities-v2",
@@ -589,6 +607,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Locația Aeroportului Fera (cod IATA: FRE).", "Cel mai important nod aerian pentru provincia Isabel.", "Accesibil doar cu barca din capitala provincială Buala.", "Formată din calcar coralian și înconjurată de recife.", "Servește drept poartă logistică pentru exportul produselor locale.", "Pista de aterizare se întinde pe aproape toată lungimea insulei."],
       en: ["Location of Fera Airport (IATA code: FRE).", "Primary aviation hub for Isabel Province.", "Accessible only by boat from the provincial capital, Buala.", "Composed of coral limestone and surrounded by reefs.", "Serves as a logistical gateway for the export of local goods.", "The airstrip extends nearly the entire length of the island."],
     },
+    image: "/poi-images/solomonislands-fera-cities-v2.webp",
   },
   {
     id: "solomonislands-afutara-cities-v2",
@@ -620,6 +639,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Locația Aerodromului Afutara (cod IATA: AFT).", "Nod central pentru regiunea West Kwara'ae.", "Zonă importantă de cultivare pentru cacao și copra.", "Dispune de o pistă de aterizare din iarbă și nisip coralian.", "Locație istorică pentru cercetarea agricolă.", "Oferă acces către zonele dens populate din interiorul insulei Malaita."],
       en: ["Location of Afutara Aerodrome (IATA code: AFT).", "Central hub for the West Kwara'ae region.", "Major production area for cocoa and copra.", "Features an airstrip made of grass and coral sand.", "Historical site for agricultural research and development.", "Provides access to the densely populated inland areas of Malaita."],
     },
+    image: "/poi-images/solomonislands-afutara-cities-v2.webp",
   },
   {
     id: "solomonislands-mono-cities-v2",
@@ -651,6 +671,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Cea mai mare insulă din grupul de insule Treasury.", "Locul de desfășurare a Operațiunii Goodtime în octombrie 1943.", "Prima debarcare amfibie a trupelor neozeelandeze în al Doilea Război Mondial.", "Topografie vulcanică cu vârfuri de până la 300 de metri.", "Situată la doar aproximativ 30 de kilometri sud de insula Bougainville.", "Dispune de resturi de fortificații de război și epave."],
       en: ["Largest island in the Treasury Islands group.", "Site of Operation Goodtime in October 1943.", "First amphibious landing by New Zealand troops in WWII.", "Volcanic topography with peaks rising up to 300 meters.", "Located only about 30 kilometers south of Bougainville Island.", "Home to remains of wartime fortifications and shipwrecks."],
     },
+    image: "/poi-images/solomonislands-mono-cities-v2.webp",
   },
   {
     id: "solomonislands-lambi-cities-v2",
@@ -682,6 +703,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Situat în golful Lambi, în extremitatea vestică a Guadalcanalului.", "Accesul principal se face pe mare dinspre Honiara.", "Nod regional pentru transportul legumelor rădăcinoase.", "Înconjurat de munți care se ridică la peste 1000 de metri.", "Zonă tradițională de așezare a populației indigene din Guadalcanalul de Vest.", "Cunoscut pentru recifele de corali virgine de lângă coastă."],
       en: ["Located at Lambi Bay in the far west of Guadalcanal.", "Primary accessibility is by sea from Honiara.", "Regional hub for the transport of root crops.", "Surrounded by mountains rising to over 1,000 meters.", "Traditional settlement area for the indigenous people of West Guadalcanal.", "Known for its pristine coral reefs located close to the shore."],
     },
+    image: "/poi-images/solomonislands-lambi-cities-v2.webp",
   },
   {
     id: "solomonislands-aola-cities-v2",
@@ -713,6 +735,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Situat în golful Aola, la aproximativ 50 de kilometri est de Honiara.", "Locul de debarcare al mariniștilor americani la 4 noiembrie 1942.", "Port important pentru exportul de bușteni tropicali.", "Sediul unei stații guvernamentale în timpul perioadei protectoratului.", "Înconjurat de câmpii fertile pentru cultivarea cacao-ului.", "Oferă acces la regiunile muntoase din estul Guadalcanalului."],
       en: ["Located at Aola Bay, about 50 kilometers east of Honiara.", "Landing site for US Marines on November 4, 1942.", "Important port for the export of tropical round logs.", "Former seat of a government station during the protectorate era.", "Surrounded by fertile plains used for cocoa cultivation.", "Provides access to the mountainous regions of eastern Guadalcanal."],
     },
+    image: "/poi-images/solomonislands-aola-cities-v2.webp",
   },
   {
     id: "solomonislands-atulagi-cities-v2",
@@ -744,6 +767,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Capitala Insulelor Solomon din 1896 până în 1942.", "Situată pe o mică insulă lângă insula Florida (Nggela).", "Locație importantă pentru industria de prelucrare a peștelui.", "Locul de desfășurare a Bătăliei pentru Tulagi în august 1942.", "Dispune de unul dintre cele mai bune porturi naturale din Pacific.", "Destinație populară pentru scafandri datorită numeroaselor epave de război."],
       en: ["Capital of the Solomon Islands from 1896 to 1942.", "Located on a small island near Florida Island (Nggela).", "Major site for the fish processing industry (Solomon Taiyo).", "Site of the Battle of Tulagi in August 1942.", "Possesses one of the best natural harbors in the South Pacific.", "Popular diving destination due to numerous wartime shipwrecks."],
     },
+    image: "/poi-images/solomonislands-atulagi-cities-v2.webp",
   },
   {
     id: "solomonislands-fauabu-cities-v2",
@@ -775,6 +799,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Centru al misiunii anglicane melaneziene.", "Deschiderea Spitalului Fauabu în anul 1928.", "Locație importantă pentru formarea medicală în Malaita.", "Fost centru pentru tratarea leprei în regiune.", "Situat în zona grupului lingvistic Kwara'ae.", "Găzduiește clădiri bisericești istorice din epoca colonială."],
       en: ["Center of the Anglican Melanesian Mission.", "Opening of the Fauabu Hospital in 1928.", "Significant location for medical training on Malaita.", "Former regional center for the treatment of leprosy.", "Located within the territory of the Kwara'ae language group.", "Home to historical church buildings from the colonial era."],
     },
+    image: "/poi-images/solomonislands-fauabu-cities-v2.webp",
   },
   {
     id: "solomonislands-atori-cities-v2",
@@ -806,6 +831,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Punctul terminal al drumului Auki-Atori, principala legătură peste Malaita.", "Principalul port pentru districtul East Malaita.", "Loc important de transbordare pentru copra și cacao.", "Situat într-un golf strategic pe coasta de est.", "Centru pentru serviciile guvernamentale regionale din est.", "Punct de plecare pentru călătoriile către insulele artificiale din laguna Lau."],
       en: ["Terminus of the Auki-Atori road, the main link across Malaita.", "Primary port for the East Malaita district.", "Key transit point for copra and cocoa exports.", "Located on a strategically favorable bay on the eastern coast.", "Center for regional government services in the east.", "Jumping-off point for travel to the artificial islands of Lau Lagoon."],
     },
+    image: "/poi-images/solomonislands-atori-cities-v2.webp",
   },
   {
     id: "solomonislands-afio-cities-v2",
@@ -837,6 +863,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Centru administrativ pentru districtul South Malaita.", "Situat pe strâmtoarea Small Passage între Malaita și Maramasike.", "Punct important de acostare pentru feriboturile din Honiara.", "Centru pentru pescuit și comerțul cu produse marine.", "Locația unei stații guvernamentale și a unei clinici de sănătate.", "Înconjurat de ecosisteme vaste de mangrove."],
       en: ["Administrative center for the South Malaita district.", "Located on the Small Passage between Malaita and Maramasike.", "Major port of call for ferries arriving from Honiara.", "Center for fishing and trade in marine products.", "Home to a government station and a health clinic.", "Surrounded by extensive mangrove ecosystems."],
     },
+    image: "/poi-images/solomonislands-afio-cities-v2.webp",
   },
   {
     id: "solomonislands-choiseulbay-cities-v2",
@@ -868,6 +895,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Găzduiește capitala provincială Taro pe o mică insulă.", "Locația Aeroportului Choiseul Bay (cod IATA: CHY).", "Cel mai important centru comercial și administrativ al provinciei Choiseul.", "Punct strategic în timpul Războiului din Pacific pentru observatorii de coastă.", "Considerată una dintre primele capitale din lume care va fi mutată din cauza schimbărilor climatice.", "Înconjurată de ape bogate în pește și recife de corali."],
       en: ["Hosts the provincial capital, Taro, on a small offshore island.", "Location of Choiseul Bay Airport (IATA code: CHY).", "Primary commercial and administrative hub for Choiseul Province.", "Strategic point during the Pacific War for coastwatchers.", "Noted as one of the first capitals worldwide planned for relocation due to climate change.", "Surrounded by productive fishing grounds and coral reefs."],
     },
+    image: "/poi-images/solomonislands-choiseulbay-cities-v2.webp",
   },
   {
     id: "solomonislands-kukudu-cities-v2",
@@ -899,6 +927,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Kukudu găzduiește Colegiul Adventist Kukudu, una dintre cele mai importante școli secundare din Provincia de Vest.", "Așezarea este situată la poalele Muntelui Kolombangara, un masiv vulcan de tip stratovulcan.", "Locul a fost dezvoltat ca centru misionar după sosirea adventiștilor în regiune în anul 1914.", "Clinica din Kukudu deservește numeroase sate izolate de pe coasta de sud-vest a insulei.", "Accesul în Kukudu se face în principal pe cale maritimă din orașul Gizo, situat în apropiere.", "Proiectele de silvicultură sustenabilă de pe insulă utilizează Kukudu ca punct de sprijin administrativ."],
       en: ["Kukudu is home to the Kukudu Adventist College, a prominent secondary boarding school in the Western Province.", "The settlement is located at the base of Mount Kolombangara, a massive extinct stratovolcano.", "The mission station was established shortly after the first Adventist arrival in the area in 1914.", "A local clinic in Kukudu provides essential medical services to the southwestern coast of the island.", "Transportation to Kukudu is primarily by sea, often using motorized canoes from Gizo.", "The area is involved in the Kolombangara Forest Products Ltd (KFPL) sustainable logging initiatives."],
     },
+    image: "/poi-images/solomonislands-kukudu-cities-v2.webp",
   },
   {
     id: "solomonislands-tetere-cities-v2",
@@ -930,6 +959,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Tetere găzduiește singura leprozerie specializată din Insulele Solomon, fondată în jurul anului 1949.", "În apropiere se află plantațiile extinse de palmieri de ulei ale companiei Guadalcanal Plains Palm Oil Ltd.", "Centrul Corecțional Tetere este una dintre cele mai mari instituții de acest tip din țară.", "În timpul celui de-al Doilea Război Mondial, trupele americane au debarcat la Tetere pentru a ataca flancul japonez.", "Localitatea este situată lângă râul Metapona, care provoacă frecvent inundații sezoniere.", "Tetere a fost un punct focal pentru proiectele de reabilitare a culturii orezului după conflictele etnice."],
       en: ["Tetere is home to the only specialized leprosarium in the Solomon Islands, established circa 1949.", "The surrounding area contains large-scale oil palm plantations operated by Guadalcanal Plains Palm Oil Ltd.", "The Tetere Correctional Center is one of the primary penal institutions in the nation.", "During WWII, US forces utilized the Tetere beachhead for flanking maneuvers against Japanese positions.", "The settlement is positioned near the Metapona River, susceptible to seasonal flooding.", "Tetere played a significant role in post-conflict rice production initiatives in the early 2000s."],
     },
+    image: "/poi-images/solomonislands-tetere-cities-v2.webp",
   },
   {
     id: "solomonislands-maru-cities-v2",
@@ -961,6 +991,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Maru se află în zona Marau Sound, celebră pentru diversitatea sa extrem de ridicată a coralilor.", "Regiunea este marcată de o amestec de imigranți vorbitori de Are'are și populații indigene.", "Țesăturile tapa din scoarță de copac sunt încă fabricate aici folosind metode ancestrale.", "În epoca colonială, Marau a fost un avanpost esențial pentru exportul produselor derivate din nucă de cocos.", "În apele din jurul Maru au fost descoperite mai multe specii rare de melci marini și scoici.", "Localitatea este accesibilă doar cu avioane mici prin aerodromul Marau sau cu vaporul din Honiara."],
       en: ["Maru is located within the Marau Sound area, renowned for its exceptionally high coral diversity.", "The region features a unique cultural mix of Are'are-speaking migrants and original inhabitants.", "Traditional bark cloth, known as tapa, is still produced in the vicinity using age-old techniques.", "During the colonial era, Marau served as a strategic outpost for the coconut and copra trade.", "The waters surrounding Maru have yielded discoveries of several rare marine mollusk species.", "Accessibility to Maru is limited to small aircraft landing at Marau Airfield or sea travel from Honiara."],
     },
+    image: "/poi-images/solomonislands-maru-cities-v2.webp",
   },
   {
     id: "solomonislands-ringgi-cove-cities-v2",
@@ -992,6 +1023,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Ringgi Cove este sediul central al KFPL, unul dintre cei mai mari angajatori din Provincia de Vest.", "Plantațiile din jurul Ringgi Cove sunt certificate de Forest Stewardship Council (FSC).", "Portul din golf poate găzdui nave comerciale mari pentru exportul internațional de lemn.", "În anii 1970, Ringgi a fost un punct strategic pentru compania britanică Levers Pacific Timbers.", "O mică hidrocentrală situată în apropiere furnizează energie electrică pentru întreaga așezare.", "Ringgi Cove reprezintă punctul de plecare pentru expedițiile către vârful Muntelui Kolombangara (1770 m)."],
       en: ["Ringgi Cove serves as the corporate headquarters for KFPL, a major employer in the Western Province.", "The forestry plantations around Ringgi Cove are Forest Stewardship Council (FSC) certified.", "The cove's deep-water port is capable of accommodating large ocean-going vessels for timber export.", "During the 1970s, Ringgi was a primary base of operations for Levers Pacific Timbers.", "A small-scale hydroelectric scheme nearby provides renewable energy to the settlement.", "Ringgi Cove is the main access point for trekking to the summit of Mount Kolombangara (1,770m)."],
     },
+    image: "/poi-images/solomonislands-ringgi-cove-cities-v2.webp",
   },
   {
     id: "solomonislands-susubona-cities-v2",
@@ -1023,6 +1055,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Susubona este renumit pentru producția de țesături tapa de înaltă calitate din scoarța dudului de hârtie.", "Satul se află în proximitatea unor locuri importante de cuibărit pentru țestoasa luth.", "Dansurile tradiționale din Susubona sunt frecvent premiate la festivalurile culturale naționale.", "Regiunea Isabel a fost printre primele din Insulele Solomon care au adoptat creștinismul în secolul al XIX-lea.", "Transportul se realizează preponderent cu canoe cu motor de-a lungul coastei accidentate.", "Pădurile din jurul Susubona adăpostesc specii endemice, cum ar fi papagalul Lori de Isabel."],
       en: ["Susubona is famous for producing high-quality tapa cloth from the bark of the paper mulberry tree.", "The village is located near significant nesting sites for the endangered leatherback turtle.", "Traditional dances from Susubona are frequently featured and awarded at national cultural festivals.", "Santa Isabel was one of the first islands in the Solomons to embrace Christianity in the late 1800s.", "Transport to and from the village is mainly conducted via motorized outrigger canoes.", "The surrounding forests are home to endemic species such as the Santa Isabel Lory."],
     },
+    image: "/poi-images/solomonislands-susubona-cities-v2.webp",
   },
   {
     id: "solomonislands-kaevanga-cities-v2",
@@ -1054,6 +1087,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Kaevanga este situat într-o regiune cunoscută pentru banii tradiționali din scoici, numiți 'Kesaka'.", "Insula Choiseul a fost scena unei ofensive de diversiune a pușcașilor marini americani în timpul celui de-al Doilea Război Mondial.", "Economia locală se bazează aproape exclusiv pe troc și pescuitul de subzistență.", "Regiunea găzduiește pasărea Pitta de Choiseul, o specie extrem de rară și retrasă.", "Accesul în Kaevanga se face aproape în totalitate pe mare, folosind bărci de mici dimensiuni.", "Comunitatea este implicată în programe de protejare a locurilor de cuibărit ale țestoaselor marine."],
       en: ["Kaevanga is situated in a region known for the traditional 'Kesaka' shell money.", "Choiseul Island was the site of a diversionary raid by US Marines during the Solomon Islands campaign in 1943.", "The local economy is almost entirely based on barter and subsistence fishing.", "The area is a potential habitat for the rare Choiseul Pigeon, though it is feared extinct.", "Access to Kaevanga is primarily by sea, often requiring travel in motorized fiberglass canoes.", "Local villagers participate in community-based resource management to protect their marine environment."],
     },
+    image: "/poi-images/solomonislands-kaevanga-cities-v2.webp",
   },
   {
     id: "solomonislands-viruharbour-cities-v2",
@@ -1085,6 +1119,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Cucerirea portului Viru Harbour în iulie 1943 a făcut parte din campania militară New Georgia.", "Portul este aproape invizibil din largul mării datorită intrării înguste între stânci înalte.", "Tunuri japoneze de apărare costieră au fost poziționate pe stânci în timpul războiului.", "Astăzi, Viru este un punct important de încărcare pentru buștenii extrași din pădurile învecinate.", "Canalul Tetepare se află în apropiere, separând New Georgia de insula nelocuită Tetepare.", "Comunitatea locală practică în continuare pescuitul tradițional în apele adânci ale portului."],
       en: ["The capture of Viru Harbour in July 1943 was a key objective of the New Georgia Campaign.", "The harbor entrance is so narrow between high cliffs that it is nearly invisible from the open sea.", "Japanese coastal defense guns were stationed on the cliffs overlooking the harbor during the war.", "Viru currently functions as a major transit point for logs harvested from the New Georgia interior.", "The nearby Tetepare Channel separates New Georgia from the conservation jewel of Tetepare Island.", "Local oral histories still recount the logistical support provided by scouts during the 1943 invasion."],
     },
+    image: "/poi-images/solomonislands-viruharbour-cities-v2.webp",
   },
   {
     id: "solomonislands-batuna-cities-v2",
@@ -1116,6 +1151,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Batuna a fost sediul primei tipografii adventiste din Insulele Solomon.", "Șantierul naval din Batuna este cunoscut în întreaga țară pentru canoele sale cu motor din lemn durabil.", "Localitatea este situată în laguna Marovo, inclusă pe lista tentativă a Patrimoniului Mondial UNESCO.", "În anii 1920, aici a fost înființată o școală industrială importantă pentru meserii manuale.", "Apele din jurul Batuna sunt faimoase pentru prezența diavolilor de mare și a speciilor rare de corali.", "Colegiul Adventist Batuna deservește tinerii din toate satele din laguna Marovo."],
       en: ["Batuna was the site of the first Adventist printing press in the Solomon Islands.", "The Batuna shipyard is nationally famous for its durable wooden plank canoes.", "The settlement is located within the Marovo Lagoon, a site on the UNESCO World Heritage tentative list.", "A major industrial school for crafts and trades was established here in the 1920s.", "The waters surrounding Batuna are a renowned habitat for manta rays and diverse coral species.", "Batuna Adventist College remains a central educational facility for the Marovo region."],
     },
+    image: "/poi-images/solomonislands-batuna-cities-v2.webp",
   },
   {
     id: "solomonislands-ramasatu-cities-v2",
@@ -1147,6 +1183,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Ramasatu este situat în apropierea Muntelui Maetambe, unul dintre cele mai înalte puncte de pe insulă.", "Comunitatea este cunoscută pentru păstrarea cunoștințelor tradiționale despre plantele medicinale.", "Accesul la localitate se face în principal cu canoe motorizate din fibră de sticlă, de-a lungul coastei.", "În timpul celui de-al Doilea Război Mondial, locuitorii zonei au servit drept cercetași pentru Aliați.", "În râurile de lângă Ramasatu se găsesc specii rare de pești de apă dulce.", "Regiunea Choiseul este celebră pentru fabricarea artefactelor din scoici."],
       en: ["Ramasatu is located near Mount Maetambe, a significant volcanic peak on Choiseul Island.", "The community is recognized for its preservation of traditional ethnobotanical knowledge.", "Transportation to Ramasatu is almost exclusively by sea using motorized outrigger canoes.", "Local scouts from the Ramasatu area provided intelligence to Allied forces during WWII.", "The rivers near the village are habitats for several endemic freshwater fish species.", "Choiseul Province, including Ramasatu, is a primary source for traditional shell currency."],
     },
+    image: "/poi-images/solomonislands-ramasatu-cities-v2.webp",
   },
   {
     id: "solomonislands-avuavu-cities-v2",
@@ -1178,6 +1215,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Avu Avu posedă o pistă de aterizare din iarbă, utilizată pentru zboruri interne din Honiara.", "Precipitațiile anuale de pe Coasta Vremii sunt printre cele mai ridicate din lume.", "Regiunea este celebră pentru plajele sale cu nisip vulcanic negru.", "Avu Avu a fost centrul mișcării sociale a lui Harold Keke la începutul anilor 2000.", "Majoritatea bunurilor trebuie livrate pe mare, ceea ce este dificil în condiții de hula mare.", "Există o misiune catolică și o școală care oferă servicii sociale esențiale comunității."],
       en: ["Avu Avu features a grass airstrip, providing a vital link for domestic flights from Honiara.", "The annual rainfall on the Weather Coast is among the highest recorded globally.", "The region is distinguished by its dramatic black volcanic sand beaches.", "Avu Avu was a central location during the ethnic tensions involving Harold Keke in the early 2000s.", "Supply delivery by sea is often hazardous due to the lack of natural harbors and heavy surf.", "The local Catholic mission serves as a key provider of health and education services."],
     },
+    image: "/poi-images/solomonislands-avuavu-cities-v2.webp",
   },
   {
     id: "solomonislands-mbabanakira-cities-v2",
@@ -1209,6 +1247,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Mbabanakira dispune de un mic aerodrom, vital pentru aprovizionarea de bază a comunității.", "Localitatea se află direct la poalele Muntelui Popomanaseu (2335 m).", "Din cauza munților abrupți, amurgul se instalează aici mai devreme decât în nordul insulei.", "Nu există drumuri pavate care să lege Mbabanakira de capitala Honiara.", "Populația locală aparține în mare parte unor grupuri etnice care vorbesc dialecte proprii.", "Ploile torențiale fac adesea navigația maritimă periculoasă, deoarece nu există golfuri adăpostite."],
       en: ["Mbabanakira maintains a small airstrip, which is essential for medical evacuations and supplies.", "The settlement is positioned at the base of Mount Popomanaseu, the highest point in the Solomons (2,335m).", "The surrounding topography causes the sun to set significantly earlier behind the mountains.", "There are no road links connecting Mbabanakira to the capital, Honiara, on the opposite side of the island.", "The community maintains strong traditional governance through council of chiefs.", "Maritime transport is severely hampered by heavy swells and the lack of a natural harbor."],
     },
+    image: "/poi-images/solomonislands-mbabanakira-cities-v2.webp",
   },
   {
     id: "solomonislands-aruligo-cities-v2",
@@ -1240,6 +1279,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["În Aruligo se găsesc resturi ale unor nave de aprovizionare japoneze din cel de-al Doilea Război Mondial.", "Localitatea este cunoscută pentru Selwyn College, una dintre cele mai importante școli secundare din țară.", "Plaja din Aruligo oferă o vedere directă către insula Savo situată vizavi.", "Regiunea este un centru pentru cultivarea cacaoului și a fructelor tropicale destinate pieței din Honiara.", "Monumentele japoneze din apropiere comemorează soldații căzuți în timpul luptelor de pe insulă.", "Drumul de coastă leagă Aruligo direct de capitala Honiara."],
       en: ["Aruligo is the site of several Japanese 'Bonegi' shipwrecks popular with scuba divers.", "The settlement hosts Selwyn College, a prestigious Anglican secondary boarding school.", "The coastline offers excellent views of Savo Island across the Ironbottom Sound.", "The surrounding area is a significant producer of poultry and vegetables for the Honiara market.", "A memorial near Aruligo marks the site of intense combat during the 1942-1943 campaign.", "The main coastal road provides easy access to the village from the capital, Honiara."],
     },
+    image: "/poi-images/solomonislands-aruligo-cities-v2.webp",
   },
   {
     id: "solomonislands-koli-cities-v2",
@@ -1271,6 +1311,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["În Koli au existat mai multe piste de aterizare improvizate pentru bombardierele americane în timpul războiului.", "Bătălia de la Koli Point din noiembrie 1942 a dus la anihilarea întăririlor japoneze.", "Astăzi, zona este una dintre cele mai importante regiuni producătoare de copra de pe Guadalcanal.", "Resturi de poduri de pontoane și buncăre sunt încă vizibile lângă gurile de vărsare ale râurilor.", "Koli se află lângă râul Metapona, care depune soluri aluvionare fertile.", "Teritoriul face parte din Câmpia Guadalcanal, cea mai întinsă zonă plană din Insulele Solomon."],
       en: ["Koli Field was a complex of several airstrips utilized by the 13th Air Force during WWII.", "The November 1942 engagement at Koli Point effectively neutralized a large Japanese force.", "The surrounding plantations were once part of the expansive Lever Brothers coconut estates.", "Rusted LVT (Landing Vehicle Tracked) remnants can still be found in the local bush.", "Koli is located near the mouth of the Metapona River, a site of historical strategic value.", "The area is now central to regional agricultural development and oil palm expansion."],
     },
+    image: "/poi-images/solomonislands-koli-cities-v2.webp",
   },
   {
     id: "solomonislands-lungga-cities-v2",
@@ -1302,6 +1343,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Lunga Point a fost locul aerodromului japonez original înainte de a deveni Henderson Field.", "Bătălia de pe râul Lunga din august 1942 a fost una dintre primele lupte terestre ale campaniei.", "Aeroportul Internațional Honiara este situat astăzi pe teritoriul fostei baze Lunga.", "Râul Lunga este cunoscut pentru populația sa de crocodili.", "În apropiere se află un parc memorial dedicat pușcașilor marini americani căzuți în luptă.", "Lungga este astăzi un nod logistic esențial pentru transportul de mărfuri la nivel național."],
       en: ["Lunga Point was the location of the initial Japanese airfield construction before the 1942 invasion.", "The Battle of the Tenaru, fought near the Lunga, was the first major Japanese land offensive.", "Honiara International Airport occupies the site of what was the busiest Allied airbase in 1943.", "The Lunga River remains a habitat for saltwater crocodiles, requiring caution from locals.", "Marine Corps memorials at Lunga Point honor the lives lost during the defense of the perimeter.", "The modern suburb of Lungga is a center for the Solomon Islands' light industry and logistics."],
     },
+    image: "/poi-images/solomonislands-lungga-cities-v2.webp",
   },
   {
     id: "solomonislands-kolipoint-cities-v2",
@@ -1333,6 +1375,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Koli Point a fost locul debarcării trupelor aflate sub comanda generalului Shoji în noiembrie 1942.", "Armata SUA a construit aici depozite gigantice, cunoscute frecvent sub numele de 'Camp Koli'.", "Au existat docuri specializate pentru descărcarea navelor de tip Liberty direct pe plajă.", "Resturi de ambarcațiuni de debarcare ruginite sunt parțial îngropate în nisip și astăzi.", "În prezent, în regiunea Koli Point se află plantații importante de palmieri de ulei.", "Zona este vulnerabilă la eroziunea costieră din cauza reliefului său jos și plan."],
       en: ["Koli Point was the site of the Japanese landing of the 230th Infantry Regiment in November 1942.", "The area was later nicknamed 'Million Dollar Point' (not to be confused with Vanuatu's) due to the sheer volume of supplies.", "Extensive 'pier-head' docks were constructed here to handle trans-Pacific cargo ships.", "Evidence of Marsden matting used for roads and runways can still be found in local villages.", "Koli Point currently marks the eastern boundary of the heavy industrial zone near Honiara.", "The coastline near Koli Point is a well-known location for local beach combing and relic hunting."],
     },
+    image: "/poi-images/solomonislands-kolipoint-cities-v2.webp",
   },
   {
     id: "solomonislands-redbeach-cities-v2",
@@ -1364,6 +1407,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Debarcarea din 7 august 1942 a implicat aproximativ 11.000 de pușcași marini americani.", "Red Beach a fost numele de cod pentru sectorul cuprins între râul Tenaru și Lunga Point.", "Locația se află la o distanță de doar 10 kilometri de centrul capitalei Honiara.", "Forțele japoneze au fost luate prin surprindere de amploarea sprijinului naval aliat.", "Obiectivul principal a fost capturarea aerodromului aflat la 3 kilometri de plajă.", "Astăzi, zona este marcată de numeroase monumente comemorative japoneze și americane."],
       en: ["The landing on August 7, 1942, involved approximately 11,000 US Marines.", "Red Beach was the tactical code name for the sector between the Tenaru River and Lunga Point.", "The site is located only 10 kilometers east of modern-day central Honiara.", "Initial Japanese resistance at this specific beachhead was minimal during the first hours.", "The capture of the airfield, later named Henderson Field, was the primary objective.", "Remnants of landing craft can still be identified along the shoreline during low tide."],
     },
+    image: "/poi-images/solomonislands-redbeach-cities-v2.webp",
   },
   {
     id: "solomonislands-kia-cities-v2",
@@ -1395,6 +1439,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Kia este situată în extremitatea nordică a insulei Santa Isabel, în provincia Isabel.", "Așezarea este cunoscută pentru sistemul său extins de case pe piloni deasupra mării.", "Regiunea reprezintă un habitat critic pentru broasca țestoasă Hawksbill, aflată în pericol.", "Canoele tradiționale de război (Tomoko) au fost fabricate istoric în această zonă.", "Pasajul Kia conectează Marea Solomon cu apele deschise ale Oceanului Pacific.", "Satul găzduiește una dintre cele mai vechi misiuni anglicane din arhipelag."],
       en: ["Kia is located at the northern tip of Santa Isabel Island in Isabel Province.", "The settlement is famous for its extensive network of stilt houses over the sea.", "The region is a critical habitat for the endangered Hawksbill sea turtle.", "Traditional war canoes, known as Tomoko, were historically crafted here.", "The Kia Passage connects the Solomon Sea with the open Pacific Ocean.", "The village is home to one of the oldest Anglican mission stations in the province."],
     },
+    image: "/poi-images/solomonislands-kia-cities-v2.webp",
   },
   {
     id: "solomonislands-allardyce-cities-v2",
@@ -1426,6 +1471,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Allardyce este situat pe coasta de sud-est a insulei Santa Isabel.", "Așezarea a fost un centru major de export al lemnului în anii 1970 și 80.", "Localitatea dispune de o pistă de aterizare utilizată în principal pentru zboruri charter.", "Mari părți din pădurea tropicală înconjurătoare s-au regenerat ca pădure secundară.", "Regiunea este cunoscută pentru resursele sale de esențe lemnoase prețioase.", "Allardyce este conectat prin rute maritime regulate cu capitala Honiara."],
       en: ["Allardyce is situated on the southeastern coast of Santa Isabel Island.", "The settlement was a major center for timber export during the 1970s and 80s.", "The location features an airstrip primarily used for chartered flight services.", "Large areas of the surrounding rainforest have regenerated as secondary forest.", "The region is noted for its deposits of valuable hardwoods like ebony.", "Allardyce is linked to the national capital, Honiara, by regular shipping routes."],
     },
+    image: "/poi-images/solomonislands-allardyce-cities-v2.webp",
   },
   {
     id: "solomonislands-dadali-cities-v2",
@@ -1457,6 +1503,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Dadali este situat pe coasta de nord-est a insulei Santa Isabel, în provincia Isabel.", "Locuitorii aparțin în principal grupului etnic Cheke Holo.", "Satul este cunoscut pentru cultivarea taro-ului și a cartofilor dulci în hinterland.", "Arta tradițională a țesutului din frunze de pandanus este încă practicată aici.", "Apele de coastă din fața Dadali sunt o zonă cunoscută pentru populațiile de dugong.", "Așezarea dispune de o mică școală primară pentru cătunele din împrejurimi."],
       en: ["Dadali is located on the northeastern coast of Santa Isabel in Isabel Province.", "The residents primarily belong to the Cheke Holo ethnic group.", "The village is known for cultivating taro and sweet potatoes in the interior.", "Traditional weaving using pandanus leaves is still actively practiced here.", "The coastal waters off Dadali are a known habitat for dugongs (sea cows).", "The settlement features a small primary school serving the local hamlets."],
     },
+    image: "/poi-images/solomonislands-dadali-cities-v2.webp",
   },
   {
     id: "solomonislands-baolo-cities-v2",
@@ -1488,6 +1535,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Baolo este situat în nord-vestul insulei Santa Isabel, aproape de limita cu provincia Choiseul.", "Așezarea este accesibilă doar pe cale maritimă, de regulă dinspre localitatea Kia.", "Regiunea este cunoscută pentru abundența pajiștilor de iarbă de mare din lagună.", "Baolo este un centru pentru colectarea castraveților de mare destinați exportului.", "Totemuri și sculpturi tradiționale în lemn decorează adesea casele comunitare.", "Limba locală este o variantă a dialectului Zabana, păstrată pură în această zonă."],
       en: ["Baolo is located in the northwest of Santa Isabel, near the border with Choiseul Province.", "The settlement is accessible only by sea, typically via the village of Kia.", "The region is known for its abundant seagrass meadows within the lagoon.", "Baolo is a center for the harvesting of high-quality sea cucumbers for export.", "Traditional totems and wood carvings often decorate the communal buildings.", "The local language is a variant of Zabana, which remains well-preserved here."],
     },
+    image: "/poi-images/solomonislands-baolo-cities-v2.webp",
   },
   {
     id: "solomonislands-ghatere-cities-v2",
@@ -1519,6 +1567,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Ghatere este situat pe coasta de vest accidentată a insulei Santa Isabel.", "Așezarea este cunoscută pentru practicile tradiționale de vindecare cu plante din junglă.", "O caracteristică marcantă este cascada Ghatere, situată în apropiere, în inima junglei.", "Comunitatea administrează un mic punct medical pentru regiunea vestică.", "În golfurile din fața satului sunt observați frecvent crocodili de apă sărată.", "Exportul de boabe de cacao uscate reprezintă o sursă importantă de venit."],
       en: ["Ghatere is located on the rugged western coast of Santa Isabel Island.", "The settlement is known for its traditional healing practices using rainforest plants.", "A prominent feature is the nearby Ghatere Waterfall located deep in the jungle.", "The community operates a small health clinic serving the western region.", "Saltwater crocodiles are frequently sighted in the bays surrounding the village.", "The export of dried cocoa beans is a significant source of income for the locals."],
     },
+    image: "/poi-images/solomonislands-ghatere-cities-v2.webp",
   },
   {
     id: "solomonislands-sirovai-cities-v2",
@@ -1550,6 +1599,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Sirovai este situat pe coasta de nord-est a insulei Choiseul.", "Locuitorii vorbesc în principal un dialect al limbii Ririo.", "Satul a fost istoric un loc important pentru schimbul de monedă din scoici.", "În apropiere se află peșteri de calcar semnificative cu picturi rupestre.", "Sirovai găzduiește o stație de misiune a Bisericii Unite.", "Regiunea este cunoscută pentru coșurile Lauru împletite cu măiestrie."],
       en: ["Sirovai is located on the northeastern coast of Choiseul Island.", "The residents primarily speak a dialect of the Ririo language.", "The village was historically an important site for the exchange of shell money.", "Significant limestone caves with rock art are located in the vicinity.", "Sirovai is home to a mission station of the United Church.", "The region is famous for its intricately woven Lauru baskets."],
     },
+    image: "/poi-images/solomonislands-sirovai-cities-v2.webp",
   },
   {
     id: "solomonislands-moli-cities-v2",
@@ -1581,6 +1631,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Moli se află la doar câteva sute de metri de coasta insulei principale Choiseul.", "Misiunea catolică din Moli a fost fondată oficial în anul 1914.", "Insula servește ca centru religios pentru întreaga regiune de nord-vest a Choiseul.", "În apropiere se găsesc epave de nave din cel de-al Doilea Război Mondial.", "Locuitorii din Moli sunt cunoscuți pentru cântările lor corale polifonice.", "Nu există mașini pe insulă; toate căile de acces sunt poteci pietonale."],
       en: ["Moli is located just a few hundred meters off the coast of the main island, Choiseul.", "The Catholic mission at Moli was officially established in 1914.", "The island serves as a religious hub for the entire northwestern part of Choiseul.", "World War II shipwrecks are located in the waters surrounding the island.", "The people of Moli are renowned for their polyphonic choral singing.", "There are no motor vehicles on the island; all transit is via footpaths."],
     },
+    image: "/poi-images/solomonislands-moli-cities-v2.webp",
   },
   {
     id: "solomonislands-kumboro-cities-v2",
@@ -1612,6 +1663,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Muntele Kumboro este cel mai estic punct al insulei Choiseul.", "Muntele atinge o înălțime de aproximativ 500 de metri deasupra nivelului mării.", "Strâmtoarea Manning separă Kumboro de insula Santa Isabel.", "În stânci se află peșteri care au servit istoric drept locuri de înmormântare.", "Regiunea este o zonă de vânătoare cunoscută pentru rara acvilă de mare din Solomon.", "Din cauza curenților puternici, Capul Kumboro este faimos printre navigatori."],
       en: ["Mount Kumboro is the easternmost point of Choiseul Island.", "The mountain reaches an elevation of approximately 500 meters above sea level.", "The Manning Strait separates Kumboro from Santa Isabel Island.", "The cliffs contain caves that historically served as ancestral burial sites.", "The region is a known hunting ground for the rare Solomon Sea Eagle.", "Due to powerful currents, Cape Kumboro is notorious among mariners."],
     },
+    image: "/poi-images/solomonislands-kumboro-cities-v2.webp",
   },
   {
     id: "solomonislands-buni-cities-v2",
@@ -1643,6 +1695,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Buni este situat la marginea de est a insulei Vangunu, în laguna Marovo.", "Locuitorii sunt experți în sculptura în lemn de abanos și lemn 'kerosen'.", "Așezarea este accesibilă doar cu barca dinspre Munda sau Seghe.", "În laguna din fața Buni se află unele dintre cele mai bune locuri de scufundări din lume.", "Troc-ul tradițional cu produse agricole este încă o practică obișnuită.", "Regiunea găzduiește specii rare de orhidee care se găsesc doar pe Vangunu."],
       en: ["Buni is located on the eastern edge of Vangunu Island in the Marovo Lagoon.", "The residents are experts in carving from ebony and 'kerosene wood'.", "The settlement is accessible only by boat from Munda or Seghe.", "The lagoon off Buni features some of the world's premier diving sites.", "Traditional barter trade involving agricultural products is still practiced.", "The region is home to rare orchid species that are endemic to Vangunu."],
     },
+    image: "/poi-images/solomonislands-buni-cities-v2.webp",
   },
   {
     id: "solomonislands-ballalae-cities-v2",
@@ -1674,6 +1727,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Ballalae este situată în arhipelagul Shortland, aproape de granița cu Papua Noua Guinee.", "517 prizonieri de război britanici au fost aduși aici pentru muncă forțată în 1942.", "Insula găzduiește una dintre cele mai mari concentrații de epave de avioane din Pacific.", "Printre epave se numără rare bombardiere japoneze de tip 'Betty'.", "Aerodromul este activ și astăzi, având codul IATA BAS.", "În anii 1960, au fost descoperite gropi comune ale prizonierilor britanici."],
       en: ["Ballalae is located in the Shortland archipelago near the border with Papua New Guinea.", "517 British POWs were brought here for forced labor in 1942.", "The island hosts one of the largest concentrations of aircraft wrecks in the Pacific.", "Among the wrecks are rare Japanese Mitsubishi G4M 'Betty' bombers.", "The airstrip remains operational today and carries the IATA code BAS.", "Mass graves of the British prisoners were discovered on the island in the 1960s."],
     },
+    image: "/poi-images/solomonislands-ballalae-cities-v2.webp",
   },
   {
     id: "solomonislands-uepi-cities-v2",
@@ -1705,6 +1759,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Uepi este situată în cel mai adânc punct al lagunei Marovo, la Pasajul Charapoana.", "Insula face parte din cel mai lung recif de barieră insular din lume.", "Temperaturile apei variază între 28 și 30 de grade Celsius pe tot parcursul anului.", "Resortul de pe insula Uepi a fost fondat în anii 1980.", "„Uepi Point” este cunoscut pentru observarea frecventă a rechinilor gri de recif.", "Insula este accesibilă doar printr-o călătorie cu barca de 25 de minute din Seghe."],
       en: ["Uepi is located at the deepest point of the Marovo Lagoon, by the Charapoana Passage.", "The island is part of the longest island barrier reef system in the world.", "Water temperatures remain between 28 and 30 degrees Celsius year-round.", "The Uepi Island Resort was established in the 1980s.", "'Uepi Point' is renowned for sightings of grey reef sharks in large numbers.", "The island is accessible only via a 25-minute boat ride from the airstrip at Seghe."],
     },
+    image: "/poi-images/solomonislands-uepi-cities-v2.webp",
   },
   {
     id: "solomonislands-nairatonga-cities-v2",
@@ -1736,6 +1791,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Nairatonga se află în provincia Malaita, la aproximativ 15 kilometri sud de Auki.", "Regiunea este un centru pentru fabricarea 'Tafuliae' (monedă din scoici).", "Așezarea este accesibilă prin singurul drum asfaltat de pe insula Malaita.", "Nunțile tradiționale necesită adesea aici până la 10 șiraguri de monedă din scoici.", "Piața locală din Nairatonga este cunoscută pentru fructele de mare proaspete.", "Populația aparține în principal grupului lingvistic Langalanga."],
       en: ["Nairatonga is located in Malaita Province, approximately 15 kilometers south of Auki.", "The region is a hub for the production of 'Tafuliae' (traditional shell money).", "The settlement is accessible via the only paved road on Malaita Island.", "Traditional weddings here often require up to 10 strings of shell money as a dowry.", "The local market in Nairatonga is renowned for its variety of fresh seafood.", "The population primarily belongs to the Langalanga linguistic group."],
     },
+    image: "/poi-images/solomonislands-nairatonga-cities-v2.webp",
   },
   {
     id: "solomonislands-pangoe-cities-v2",
@@ -1767,6 +1823,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Pangoe este unul dintre puținele sate din interiorul insulei Choiseul.", "Așezarea este situată la o altitudine de aproximativ 300 de metri deasupra mării.", "Cunoștințele tradiționale despre plantele medicinale din junglă sunt foarte răspândite aici.", "Satul este cunoscut pentru platformele sale de piatră din era megalitică.", "Vânătoarea de porci sălbatici și marsupiale completează dieta vegetală.", "Cea mai apropiată legătură cu coasta se află la o distanță de câteva ore de mers pe jos."],
       en: ["Pangoe is one of the few inland villages on Choiseul Island.", "The settlement is situated at an elevation of approximately 300 meters above sea level.", "Traditional knowledge regarding medicinal rainforest plants is widely preserved here.", "The village is noted for its ancient stone platforms dating back to the megalithic era.", "Hunting for wild boars and marsupials supplements the residents' vegetable-based diet.", "The nearest coastal access point is several hours' walk away via mountain trails."],
     },
+    image: "/poi-images/solomonislands-pangoe-cities-v2.webp",
   },
   {
     id: "solomonislands-rohinari-cities-v2",
@@ -1798,6 +1855,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Rohinari se află în regiunea Are'are, în sudul insulei Malaita.", "Misiunea catolică a fost fondată oficial aici în anul 1912.", "Locul este cunoscut pentru ansamblurile sale de interpreți la nai.", "Rohinari dispune de una dintre cele mai vechi școli din provincia Malaita.", "Golful Rohinari oferă protecție împotriva vânturilor alizee de sud-est.", "Moneda tradițională din scoici este încă folosită aici ca preț al miresei."],
       en: ["Rohinari is located in the Are'are region in the south of Malaita Island.", "The Catholic mission was officially established here in 1912.", "The settlement is renowned for its ensembles of traditional panpipe players.", "Rohinari features one of the oldest schools in Malaita Province.", "The bay at Rohinari provides excellent shelter from the southeast trade winds.", "Traditional shell money is still actively used here as a bride price."],
     },
+    image: "/poi-images/solomonislands-rohinari-cities-v2.webp",
   },
   {
     id: "solomonislands-kia-islet-cities-v2",
@@ -1829,6 +1887,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Situat în vârful nord-vestic al insulei Santa Isabel.", "Poartă de acces către Parcul Marin Arnavon.", "Economia se bazează pe comerțul cu pește.", "Satul este format în principal din case tradiționale pe piloni.", "Regiunea este celebră pentru conservarea țestoaselor marine.", "Accesibil doar cu barca din Buala sau Honiara."],
       en: ["Located at the northwestern tip of Santa Isabel Island.", "Main gateway to the Arnavon Community Marine Conservation Area.", "Economy is driven by sustainable artisanal fishing.", "Features traditional stilt-house architecture.", "Known for significant hawksbill turtle nesting sites nearby.", "Accessible only by boat from Buala or Honiara."],
     },
+    image: "/poi-images/solomonislands-kia-islet-cities-v2.webp",
   },
   {
     id: "solomonislands-tangarahe-cities-v2",
@@ -1860,6 +1919,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Situat pe coasta de sud ploioasă a insulei Guadalcanal.", "Face parte din izolata regiune „Weather Coast”.", "Cacao este principala sursă de venit pentru localnici.", "Nu există conexiuni rutiere directe cu Honiara.", "Obiceiurile tradiționale sunt bine conservate datorită izolării.", "Transportul se realizează prin bărci mici sau pe jos."],
       en: ["Located on the high-rainfall southern coast of Guadalcanal.", "Part of the geographically isolated Weather Coast region.", "Small-holder cocoa production is the primary cash crop.", "No direct road connection exists to the capital, Honiara.", "Isolation has helped preserve unique indigenous customs.", "Main access is via coastal vessels or long trekking routes."],
     },
+    image: "/poi-images/solomonislands-tangarahe-cities-v2.webp",
   },
   {
     id: "solomonislands-ruasura-cities-v2",
@@ -1891,6 +1951,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Compus din două insule principale, Sura Ni Vane și Sura Ni Talo.", "A fost odată un centru important al producției de copra.", "A servit ca post de observație al aliaților în cel de-al Doilea Război Mondial.", "Înconjurat de recife de corali periculoase, dar bogate în pește.", "Situat la aproximativ 30 de kilometri est de Honiara.", "Vulnerabil la eroziunea costieră și creșterea nivelului mării."],
       en: ["Comprises two main islets, Sura Ni Vane and Sura Ni Talo.", "Was a key colonial site for commercial copra production.", "Used by Allied forces as a strategic lookout in WWII.", "Surrounded by extensive coral reef systems.", "Located approximately 30 kilometers east of Honiara.", "Highly susceptible to climate-induced coastal erosion."],
     },
+    image: "/poi-images/solomonislands-ruasura-cities-v2.webp",
   },
   {
     id: "solomonislands-maringe-cities-v2",
@@ -1922,6 +1983,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Centrul Lagunei Maringe de pe insula Santa Isabel.", "Locație importantă pentru industria forestieră.", "Bază timpurie pentru misionarii creștini.", "Aeroportul de pe insula Fera asigură singura legătură aeriană.", "Cunoscut cultural pentru dansurile tradiționale ale femeilor.", "Buala este centrul administrativ al districtului."],
       en: ["Central area of the Maringe Lagoon on Santa Isabel.", "Key hub for the regional timber and logging industry.", "Early site for Anglican missionary influence in the Solomons.", "Served by the Fera Island airstrip for domestic flights.", "Renowned for traditional customs and distinct oral traditions.", "Buala, the provincial capital, is located within this district."],
     },
+    image: "/poi-images/solomonislands-maringe-cities-v2.webp",
   },
   {
     id: "solomonislands-poitete-cities-v2",
@@ -1953,6 +2015,7 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Baza principală a Kolombangara Forest Products Limited.", "Situat pe insula vulcanică aproape circulară Kolombangara.", "Economia se bazează pe silvicultură durabilă certificată.", "A servit drept centru logistic pentru japonezi în al Doilea Război Mondial.", "Înconjurat de zone importante de conservare a păsărilor.", "Accesul se face în principal pe mare dinspre Gizo."],
       en: ["Main operations base for Kolombangara Forest Products Limited.", "Located on the nearly circular volcanic island of Kolombangara.", "Economy relies on FSC-certified sustainable timber production.", "Strategically important during the 1943 Pacific campaign.", "Surrounded by critical montane rainforest habitats.", "Primary logistics are handled through the local wharf system."],
     },
+    image: "/poi-images/solomonislands-poitete-cities-v2.webp",
   },
   {
     id: "solomonislands-nairatonga-east-cities-v2",
@@ -1984,5 +2047,6 @@ export const solomonislandsCitiesV2: POI[] = [
       ro: ["Situat în Malaita, cea mai populată provincie.", "Economia se bazează pe agricultura de subzistență (taro și yam).", "Parte a regiunii conservatoare din punct de vedere cultural Malaita de Est.", "Banii tradiționali din scoici sunt încă folosiți aici.", "Nu este conectat la rețeaua națională de energie electrică.", "Accesul se face prin drumuri neasfaltate sau bărci."],
       en: ["Located in the high-density Malaita Province.", "Subsistence farming of taro and yam is the primary livelihood.", "A stronghold of traditional Melanesian 'Kastom' values.", "Shell money is still produced and used for ceremonial purposes.", "Lacks connection to the centralized national power grid.", "Reliant on coastal tracks and small boats for logistics."],
     },
+    image: "/poi-images/solomonislands-nairatonga-east-cities-v2.webp",
   }
 ];

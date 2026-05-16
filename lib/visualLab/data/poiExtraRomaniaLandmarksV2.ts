@@ -32,6 +32,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Arcul are 27 de metri înălțime.", "A fost inaugurat în 1922.", "Diametrul bazei este de 25 de metri.", "Sculpturile au fost realizate de Ion Jalea și Constantin Baraschi.", "Arcul cântărește 5000 de tone.", "Se află pe bulevardul Kiseleff, care are 1,5 kilometri lungime."],
       en: ["The arch is 27 meters high.", "It was inaugurated in 1922.", "The base diameter is 25 meters.", "The sculptures were made by Ion Jalea and Constantin Baraschi.", "The arch weighs 5,000 tons.", "It stands on Kiseleff Boulevard, which is 1.5 kilometers long."],
     },
+    image: "/poi-images/romania-triumphal-arch-landmarks-v2.webp",
   },
   {
     id: "romania-cantacuzino-palace-landmarks-v2",
@@ -64,6 +65,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Palatul a fost finalizat în 1903.", "Costul a fost de 1 milion de lei aur.", "Clădirea are 20 de camere.", "Parcul are 3000 de metri pătrați.", "Înălțimea tavanelor la parter este de 5 metri.", "Palatul adăpostește peste 200 de instrumente muzicale."],
       en: ["The palace was completed in 1903.", "The cost was 1 million gold lei.", "The building has 20 rooms.", "The garden covers 3,000 square meters.", "The ceiling height on the ground floor is 5 meters.", "The palace houses over 200 musical instruments."],
     },
+    image: "/poi-images/romania-cantacuzino-palace-landmarks-v2.webp",
   },
   {
     id: "romania-stavropoleos-church-landmarks-v2",
@@ -96,6 +98,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Mănăstirea a fost fondată în 1724.", "Biserica are o lungime de 20 de metri.", "Turnul clopotniță are 15 metri înălțime.", "Biblioteca conține 3000 de volume.", "Frescele au fost pictate în 1725.", "Curtea interioară are 12 arcuri."],
       en: ["The monastery was founded in 1724.", "The church is 20 meters long.", "The bell tower is 15 meters high.", "The library contains 3,000 volumes.", "The frescoes were painted in 1725.", "The inner courtyard has 12 arches."],
     },
+    image: "/poi-images/romania-stavropoleos-church-landmarks-v2.webp",
   },
   {
     id: "romania-casin-monastery-landmarks-v2",
@@ -128,6 +131,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Mănăstirea a fost fondată în 1992.", "Biserica are o lungime de 40 de metri.", "Turnul cel mai înalt are 35 de metri.", "Mănăstirea are 60 de călugări.", "Costurile de construcție au fost de 2 milioane de euro.", "Catapeteasma a fost sculptată în 1995."],
       en: ["The monastery was founded in 1992.", "The church is 40 meters long.", "The highest tower is 35 meters tall.", "The monastery has 60 monks.", "Construction costs were 2 million euros.", "The iconostasis was carved in 1995."],
     },
+    image: "/poi-images/romania-casin-monastery-landmarks-v2.webp",
   },
   {
     id: "romania-victoria-palace-landmarks-v2",
@@ -160,6 +164,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Palatul are 52 de metri înălțime.", "Are 8 etaje.", "Construcția a durat 7 ani.", "Clădirea are 200 de camere.", "Suprafața construită este de 10.000 de metri pătrați.", "Construcția a costat 10 milioane de lei aur."],
       en: ["The palace is 52 meters high.", "It has 8 floors.", "Construction took 7 years.", "The building has 200 rooms.", "The built area is 10,000 square meters.", "Construction cost 10 million gold lei."],
     },
+    image: "/poi-images/romania-victoria-palace-landmarks-v2.webp",
   },
   {
     id: "romania-snagov-monastery-island-landmarks-v2",
@@ -192,6 +197,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Mănăstirea a fost fondată în secolul al XIV-lea.", "Lacul are o suprafață de 570 de hectare.", "Insula are 1,5 hectare.", "Biserica are 25 de metri lungime.", "Frescele au fost pictate în 1699.", "Drumul cu barca până la mănăstire durează 10 minute."],
       en: ["The monastery was founded in the 14th century.", "The lake covers 570 hectares.", "The island is 1.5 hectares in size.", "The church is 25 meters long.", "The frescoes were painted in 1699.", "The boat ride to the monastery takes 10 minutes."],
     },
+    image: "/poi-images/romania-snagov-monastery-island-landmarks-v2.webp",
   },
   {
     id: "romania-casin-bridge-landmarks-v2",
@@ -224,6 +230,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Podul a fost construit în 1896.", "Lungimea este de 60 de metri.", "Lățimea este de 8 metri.", "Podul are 3 arcuri.", "Râul Cașin are o lățime de 10 metri.", "Podul a fost renovat în 2005."],
       en: ["The bridge was built in 1896.", "It is 60 meters long.", "It is 8 meters wide.", "The bridge has 3 arches.", "The Cașin River is 10 meters wide.", "The bridge was renovated in 2005."],
     },
+    image: "/poi-images/romania-casin-bridge-landmarks-v2.webp",
   },
   {
     id: "romania-targoviste-clock-tower-landmarks-v2",
@@ -256,6 +263,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Turnul are 27 de metri înălțime.", "Are bază octogonală.", "Zidurile au 2 metri grosime.", "Turnul a fost construit în secolul al XV-lea.", "Muzeul adăpostește 500 de exponate.", "Turnul are 6 etaje."],
       en: ["The tower is 27 meters high.", "It has an octagonal base.", "The walls are 2 meters thick.", "The tower was built in the 15th century.", "The museum houses 500 exhibits.", "The tower has 6 floors."],
     },
+    image: "/poi-images/romania-targoviste-clock-tower-landmarks-v2.webp",
   },
   {
     id: "romania-braila-theatre-landmarks-v2",
@@ -288,6 +296,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Teatrul a fost inaugurat în 1866.", "Sala are 500 de locuri.", "Scena are 12 metri lățime.", "Clădirea are o suprafață de 2000 de metri pătrați.", "Înălțimea sălii este de 15 metri.", "Teatrul a fost restaurat în 1995."],
       en: ["The theatre was opened in 1866.", "The auditorium has 500 seats.", "The stage is 12 meters wide.", "The building has an area of 2,000 square meters.", "The auditorium height is 15 meters.", "The theatre was restored in 1995."],
     },
+    image: "/poi-images/romania-braila-theatre-landmarks-v2.webp",
   },
   {
     id: "romania-tulcea-monument-landmarks-v2",
@@ -320,6 +329,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Monumentul a fost inaugurat în 1879.", "Obeliscul are 12 metri înălțime.", "Zeița victoriei are 2 metri înălțime.", "Monumentul cântărește 10 tone.", "Este așezat pe un soclu de marmură.", "Soclul are 3 metri înălțime."],
       en: ["The monument was inaugurated in 1879.", "The obelisk is 12 meters high.", "The goddess of victory is 2 meters tall.", "The monument weighs 10 tons.", "It stands on a marble pedestal.", "The pedestal is 3 meters high."],
     },
+    image: "/poi-images/romania-tulcea-monument-landmarks-v2.webp",
   },
   {
     id: "romania-satu-mare-fire-tower-landmarks-v2",
@@ -352,6 +362,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Turnul a fost construit în 1904.", "Are 45 de metri înălțime.", "Platforma de observație este la 25 de metri.", "Turnul are 150 de trepte.", "Muzeul a fost deschis în 2000.", "Turnul cântărește 500 de tone."],
       en: ["The tower was built in 1904.", "It is 45 meters high.", "The observation platform is at 25 meters.", "The tower has 150 steps.", "The museum was opened in 2000.", "The tower weighs 500 tons."],
     },
+    image: "/poi-images/romania-satu-mare-fire-tower-landmarks-v2.webp",
   },
   {
     id: "romania-oradea-theatre-landmarks-v2",
@@ -384,6 +395,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Teatrul a fost inaugurat în 1900.", "Sala are 550 de locuri.", "Scena are 14 metri lățime.", "Clădirea are 3 etaje.", "Înălțimea sălii este de 18 metri.", "Teatrul a fost renovat în 1998."],
       en: ["The theatre was opened in 1900.", "The auditorium has 550 seats.", "The stage is 14 meters wide.", "The building has 3 floors.", "The auditorium height is 18 meters.", "The theatre was renovated in 1998."],
     },
+    image: "/poi-images/romania-oradea-theatre-landmarks-v2.webp",
   },
   {
     id: "romania-cluj-cathedral-landmarks-v2",
@@ -416,6 +428,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Înălțimea turnului: 80 de metri (finalizat în 1850).", "Începerea construcției: 1316 (prima mențiune documentară a bisericii).", "Lungimea totală: 50 de metri, lățimea: 22 de metri.", "Înălțimea navei centrale: 24 de metri.", "Catedrala are trei clopote; cel mai mare cântărește 2.000 kg.", "Cripta adăpostește mormintele a 12 episcopi din secolele XVIII-XX."],
       en: ["Tower height: 80 meters (completed 1850).", "Construction started: 1316 (first documented mention of the church).", "Total length: 50 meters, width: 22 meters.", "Nave height: 24 meters to the vault.", "The church has 3 bells; the largest weighs 2,000 kg.", "The crypt contains 12 bishops' tombs from the 18th-20th centuries."],
     },
+    image: "/poi-images/romania-cluj-cathedral-landmarks-v2.webp",
   },
   {
     id: "romania-carol-park-mausoleum-landmarks-v2",
@@ -448,6 +461,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Construit între 1923 și 1925 (finalizat în 1925).", "Diametrul cupolei: 20 de metri.", "Înălțimea mausoleului: 30 de metri.", "Numărul coloanelor de pe portic: 10.", "Suprafața parcului: 36 de hectare.", "Numărul de lideri înmormântați: 7 (inclusiv Gheorghiu-Dej)."],
       en: ["Built between 1923 and 1925 (completed 1925).", "Dome diameter: 20 meters.", "Mausoleum height: 30 meters.", "Number of columns on the portico: 10.", "Park area: 36 hectares.", "Number of leaders interred: 7 (including Gheorghiu-Dej)."],
     },
+    image: "/poi-images/romania-carol-park-mausoleum-landmarks-v2.webp",
   },
   {
     id: "romania-targu-mures-prefect-landmarks-v2",
@@ -480,6 +494,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Perioada de construcție: 1905-1907 (inaugurare 1907).", "Arhitecți: Komor Marcell și Jakab Dezső.", "Numărul de încăperi: aproximativ 100.", "Înălțimea turnului principal: 45 de metri.", "Numărul de plăci ceramice Zsolnay: peste 10.000.", "Suprafața totală: 3.500 de metri pătrați."],
       en: ["Construction period: 1905-1907 (inaugurated 1907).", "Architects: Komor Marcell and Jakab Dezső.", "Number of rooms: approximately 100.", "Main tower height: 45 meters.", "Number of Zsolnay ceramic tiles: over 10,000.", "Total area: 3,500 square meters."],
     },
+    image: "/poi-images/romania-targu-mures-prefect-landmarks-v2.webp",
   },
   {
     id: "romania-bacau-observatory-landmarks-v2",
@@ -512,6 +527,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Deschidere: 1968.", "Planetariu: 50 de locuri.", "Diametrul telescopului: 400 mm (telescop reflector).", "Altitudine: aproximativ 200 de metri.", "Număr anual de vizitatori: circa 10.000.", "Diametrul cupolei: 6 metri."],
       en: ["Opened: 1968.", "Planetarium: 50 seats.", "Telescope diameter: 400 mm (reflecting telescope).", "Altitude: approximately 200 meters above sea level.", "Annual visitors: about 10,000.", "Dome diameter: 6 meters."],
     },
+    image: "/poi-images/romania-bacau-observatory-landmarks-v2.webp",
   },
   {
     id: "romania-piatra-neamt-tower-landmarks-v2",
@@ -544,6 +560,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Înălțime: 25 de metri.", "Perioada de construcție: secolul al XV-lea (circa 1490).", "Numărul de niveluri: 3.", "Grosimea peretelui la bază: 1,5 metri.", "Restaurări: 5 (ultima în 2006).", "Diametrul turnului: 7 metri."],
       en: ["Height: 25 meters.", "Construction period: 15th century (around 1490).", "Number of floors: 3.", "Wall thickness at base: 1.5 meters.", "Restorations: 5 (last in 2006).", "Tower diameter: 7 meters."],
     },
+    image: "/poi-images/romania-piatra-neamt-tower-landmarks-v2.webp",
   },
   {
     id: "romania-craiova-prefect-landmarks-v2",
@@ -576,6 +593,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Construit între 1906 și 1913 (inaugurat 1913).", "Numărul de coloane pe portic: 8.", "Înălțimea clădirii: 25 de metri (până la coamă).", "Suprafața totală: 4.200 de metri pătrați.", "Numărul de încăperi: 60.", "Consolidare după cutremur: 1977."],
       en: ["Built between 1906 and 1913 (inaugurated 1913).", "Number of columns on the portico: 8.", "Building height: 25 meters (to roof ridge).", "Total area: 4,200 square meters.", "Number of rooms: 60.", "Post-earthquake reinforcement: 1977."],
     },
+    image: "/poi-images/romania-craiova-prefect-landmarks-v2.webp",
   },
   {
     id: "romania-galati-theatre-landmarks-v2",
@@ -608,6 +626,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Deschidere: 1888.", "Locuri: 600.", "Arhitect: Hermann Clements (Viena).", "Înălțimea clădirii: 18 metri.", "Numărul de balcoane: 3.", "Renovare 2010: cost 2,5 milioane de euro."],
       en: ["Opened: 1888.", "Seating capacity: 600.", "Architect: Hermann Clements (Vienna).", "Building height: 18 meters.", "Number of balconies: 3.", "2010 renovation cost: €2.5 million."],
     },
+    image: "/poi-images/romania-galati-theatre-landmarks-v2.webp",
   },
   {
     id: "romania-alexandria-cathedral-landmarks-v2",
@@ -640,6 +659,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Sfințire: 1860.", "Înălțimea cupolei: 30 de metri.", "Lungime: 45 de metri.", "Lățime: 18 metri.", "Numărul de clopote: 4.", "Restaurare: 1978-1980 (după cutremurul din 1977)."],
       en: ["Consecration: 1860.", "Dome height: 30 meters.", "Length: 45 meters.", "Width: 18 meters.", "Number of bells: 4.", "Restoration: 1978-1980 (after 1977 earthquake)."],
     },
+    image: "/poi-images/romania-alexandria-cathedral-landmarks-v2.webp",
   },
   {
     id: "romania-slobozia-monastery-landmarks-v2",
@@ -672,6 +692,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Fondare: secolul al XVII-lea (circa 1620).", "Biserica sfințită în 1850.", "Înălțimea turnului clopotniță: 25 de metri.", "Suprafața mănăstirii: 2 hectare.", "Număr de călugări: aproximativ 10 (în 2020).", "Colecția de icoane: peste 100 de piese."],
       en: ["Foundation: 17th century (c. 1620s).", "Church consecration: 1850.", "Bell tower height: 25 meters.", "Monastery area: 2 hectares.", "Number of monks: approximately 10 (as of 2020).", "Icon collection: over 100 pieces."],
     },
+    image: "/poi-images/romania-slobozia-monastery-landmarks-v2.webp",
   },
   {
     id: "romania-zalau-theatre-landmarks-v2",
@@ -704,6 +725,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Deschidere: 1972.", "Sala mare: 600 de locuri.", "Arhitect: necunoscut (proiect standardizat).", "Număr anual de evenimente: aproximativ 100.", "Fondul bibliotecii: 15.000 de cărți.", "Modernizare: 2005 (sistem audio nou)."],
       en: ["Opened: 1972.", "Main hall capacity: 600 seats.", "Architect: unknown (standardized design).", "Annual events: approximately 100.", "Library collection: 15,000 books.", "Renovation: 2005 (new sound system)."],
     },
+    image: "/poi-images/romania-zalau-theatre-landmarks-v2.webp",
   },
   {
     id: "romania-focsani-theatre-landmarks-v2",
@@ -736,6 +758,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Deschidere: 1912.", "Locuri: 500.", "Arhitect: George Mandrea.", "Înălțimea fațadei: 15 metri.", "Număr de coloane: 6.", "Restaurare: 1978-1980 (după cutremur)."],
       en: ["Opened: 1912.", "Seating: 500.", "Architect: George Mandrea.", "Facade height: 15 meters.", "Number of columns: 6.", "Restoration: 1978-1980 (post-earthquake)."],
     },
+    image: "/poi-images/romania-focsani-theatre-landmarks-v2.webp",
   },
   {
     id: "romania-botosani-museum-landmarks-v2",
@@ -768,6 +791,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Fondare: 1951.", "Număr de exponate: peste 100.000.", "Construcția clădirii: 1830 (conacul original).", "Suprafața expozițională: 2.500 de metri pătrați.", "Număr de secții: 6 (arheologie, istorie, artă populară etc.).", "Vizitatori anuali: circa 30.000."],
       en: ["Founded: 1951.", "Artifacts: over 100,000.", "Building built: 1830 (original manor).", "Exhibition space: 2,500 square meters.", "Number of departments: 6 (archaeology, history, folk art, etc.).", "Annual visitors: around 30,000."],
     },
+    image: "/poi-images/romania-botosani-museum-landmarks-v2.webp",
   },
   {
     id: "romania-resita-industrial-museum-landmarks-v2",
@@ -800,6 +824,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Deschidere: 1990.", "Număr de locomotive: 22.", "Cea mai veche locomotivă: anul 1870.", "Cea mai nouă locomotivă: anul 1960.", "Suprafața muzeului: 3 hectare.", "Locație: fosta depou de locomotive."],
       en: ["Opened: 1990.", "Number of locomotives: 22.", "Oldest locomotive: built 1870.", "Newest locomotive: built 1960.", "Museum area: 3 hectares.", "Location: former locomotive depot."],
     },
+    image: "/poi-images/romania-resita-industrial-museum-landmarks-v2.webp",
   },
   {
     id: "romania-zalau-monument-landmarks-v2",
@@ -832,6 +857,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Inaugurare: 1928.", "Înălțimea stelei: 8 metri.", "Numărul de nume inscripționate: 1.200.", "Suprafața parcului: 0,5 hectare.", "Renovare: 1994 (plăci noi).", "Material: piatră și bronz."],
       en: ["Inauguration: 1928.", "Stele height: 8 meters.", "Number of engraved names: 1,200.", "Park area: 0.5 hectares.", "Renovation: 1994 (new plaques).", "Material: stone and bronze."],
     },
+    image: "/poi-images/romania-zalau-monument-landmarks-v2.webp",
   },
   {
     id: "romania-tulcea-theatre-landmarks-v2",
@@ -864,6 +890,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Deschidere: 1912.", "Locuri: 450.", "Arhitect: Ion D. Berindey.", "Înălțimea clădirii: 16 metri.", "Număr de balcoane: 2.", "Renovare 2015: cost 1,8 milioane de euro."],
       en: ["Opened: 1912.", "Seats: 450.", "Architect: Ion D. Berindey.", "Building height: 16 meters.", "Number of balconies: 2.", "2015 renovation cost: €1.8 million."],
     },
+    image: "/poi-images/romania-tulcea-theatre-landmarks-v2.webp",
   },
   {
     id: "romania-vaslui-museum-landmarks-v2",
@@ -896,6 +923,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Anul înființării: 1959", "Număr exponate: peste 50.000", "Suprafața expozițională: 2.500 m²", "Colecție de monede dacice: cca 1.000 de piese", "Vizitatori anuali: 15.000", "Locație: Vaslui, județul Vaslui"],
       en: ["Founded: 1959", "Number of exhibits: over 50,000", "Exhibition area: 2,500 m² (26,910 sq ft)", "Dacian coin collection: approx. 1,000 pieces", "Annual visitors: 15,000", "Location: Vaslui, Vaslui County"],
     },
+    image: "/poi-images/romania-vaslui-museum-landmarks-v2.webp",
   },
   {
     id: "romania-zalau-museum-landmarks-v2",
@@ -928,6 +956,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Fondare: 1951.", "Număr de exponate: peste 60.000.", "Construcția clădirii: 1890 (fosta prefectură).", "Cel mai mare exponat: piatră de hotar romană (sec. II d.Hr.).", "Fondul bibliotecii: 10.000 de volume.", "Expoziții temporare anuale: 6."],
       en: ["Founded: 1951.", "Artifacts: over 60,000.", "Building built: 1890 (former prefecture).", "Largest exhibit: Roman milestone (2nd century AD).", "Library collection: 10,000 volumes.", "Annual temporary exhibitions: 6."],
     },
+    image: "/poi-images/romania-zalau-museum-landmarks-v2.webp",
   },
   {
     id: "romania-focsani-monument-landmarks-v2",
@@ -960,6 +989,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Dezvelire: 1869.", "Înălțime: 12 metri.", "Material: piatră (calcar).", "Greutate: circa 15 tone.", "Restaurare: 2008 (cost 500.000 lei).", "Locație: Piața Unirii (49,5 mp)."],
       en: ["Unveiled: 1869.", "Height: 12 meters.", "Material: stone (limestone).", "Weight: approximately 15 tons.", "Restoration: 2008 (cost 500,000 lei).", "Location: Unirii Square (49.5 sq m)."],
     },
+    image: "/poi-images/romania-focsani-monument-landmarks-v2.webp",
   },
   {
     id: "romania-bacau-theatre-landmarks-v2",
@@ -992,6 +1022,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Deschidere: 1990.", "Locuri: 800.", "Arhitect: necunoscut (standard socialist).", "Suprafața scenei: 300 de metri pătrați.", "Număr de săli de repetiții: 4.", "Renovare 2016: cost 2 milioane de euro."],
       en: ["Opened: 1990.", "Seating: 800.", "Architect: unknown (socialist standard).", "Stage area: 300 square meters.", "Rehearsal rooms: 4.", "2016 renovation cost: €2 million."],
     },
+    image: "/poi-images/romania-bacau-theatre-landmarks-v2.webp",
   },
   {
     id: "romania-botosani-theatre-landmarks-v2",
@@ -1024,6 +1055,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Deschidere: 1914.", "Locuri: 600.", "Arhitect: Cristofi Cerchez.", "Înălțimea clădirii: 20 de metri.", "Număr de balcoane: 2.", "Pictura pe tavan: 100 de metri pătrați (pictată de Arthur Verona)."],
       en: ["Opened: 1914.", "Seating: 600.", "Architect: Cristofi Cerchez.", "Building height: 20 meters.", "Number of balconies: 2.", "Ceiling painting: 100 square meters (painted by Arthur Verona)."],
     },
+    image: "/poi-images/romania-botosani-theatre-landmarks-v2.webp",
   },
   {
     id: "romania-vaslui-theatre-landmarks-v2",
@@ -1056,6 +1088,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Anul construcției: 1975", "Capacitate sală: 800 de locuri", "Renovare: 2010", "Suprafața scenei: 120 mp", "Număr anual de evenimente: peste 200", "Înălțimea clădirii: 18 m"],
       en: ["Year built: 1975", "Seating capacity: 800 seats", "Renovation: 2010", "Stage area: 120 m²", "Annual events: over 200", "Building height: 18 m"],
     },
+    image: "/poi-images/romania-vaslui-theatre-landmarks-v2.webp",
   },
   {
     id: "romania-resita-monument-landmarks-v2",
@@ -1088,6 +1121,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Inaugurare: 1960", "Înălțime: 12 m", "Material: bronz", "Greutate: aprox. 8 tone", "Locație: centrul Reșiței", "Artist: necunoscut"],
       en: ["Inauguration: 1960", "Height: 12 m", "Material: bronze", "Weight: approx. 8 tons", "Location: Reșița city center", "Artist: unknown"],
     },
+    image: "/poi-images/romania-resita-monument-landmarks-v2.webp",
   },
   {
     id: "romania-craiova-theatre-landmarks-v2",
@@ -1120,6 +1154,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Fondare: 1852", "Clădire construită: 1906", "Capacitate: 900 de locuri", "Stil arhitectural: neoclasic", "Denumit după: Marin Sorescu", "Număr anual de spectacole: aprox. 300"],
       en: ["Founded: 1852", "Building constructed: 1906", "Seating capacity: 900 seats", "Architectural style: neoclassical", "Named after: Marin Sorescu", "Annual performances: approx. 300"],
     },
+    image: "/poi-images/romania-craiova-theatre-landmarks-v2.webp",
   },
   {
     id: "romania-alexandria-theatre-landmarks-v2",
@@ -1152,6 +1187,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Construit: 1972", "Capacitate: 600 de locuri", "Renovare: 2005", "Lățimea scenei: 15 m", "Fond de carte al bibliotecii: 20.000 de volume", "Vizitatori anuali: 50.000"],
       en: ["Built: 1972", "Capacity: 600 seats", "Renovation: 2005", "Stage width: 15 m", "Library collection: 20,000 books", "Annual visitors: 50,000"],
     },
+    image: "/poi-images/romania-alexandria-theatre-landmarks-v2.webp",
   },
   {
     id: "romania-galati-monument-landmarks-v2",
@@ -1184,6 +1220,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Ridicat: 1999", "Înălțime: 10 m", "Materiale: piatră și metal", "Locație: malul Dunării", "Artist: necunoscut", "Distanța față de port: 200 m"],
       en: ["Erected: 1999", "Height: 10 m", "Materials: stone and metal", "Location: Danube bank", "Artist: unknown", "Distance from port: 200 m"],
     },
+    image: "/poi-images/romania-galati-monument-landmarks-v2.webp",
   },
   {
     id: "romania-slobozia-theatre-landmarks-v2",
@@ -1216,6 +1253,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Deschidere: 1978", "Capacitate: 700 de locuri", "Renovare: 2012", "Număr de săli de evenimente: 5", "Suprafața scenei: 100 mp", "Vizitatori anuali: 60.000"],
       en: ["Opened: 1978", "Capacity: 700 seats", "Renovation: 2012", "Number of event rooms: 5", "Stage area: 100 m²", "Annual visitors: 60,000"],
     },
+    image: "/poi-images/romania-slobozia-theatre-landmarks-v2.webp",
   },
   {
     id: "romania-bacau-monument-landmarks-v2",
@@ -1248,6 +1286,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Inaugurare: 1971", "Înălțime: 6 m (statuia), 3 m (soclul)", "Material: bronz", "Greutate: 4 tone", "Locație: centrul Bacăului", "Sculptor: Ionel Stoicescu"],
       en: ["Unveiled: 1971", "Height: 6 m (statue), 3 m (pedestal)", "Material: bronze", "Weight: 4 tons", "Location: Bacău city center", "Sculptor: Ionel Stoicescu"],
     },
+    image: "/poi-images/romania-bacau-monument-landmarks-v2.webp",
   },
   {
     id: "romania-resita-theatre-landmarks-v2",
@@ -1280,6 +1319,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Construit: 1975", "Capacitate: 650 de locuri", "Renovare: 2008", "Număr de galerii: 2", "Lățimea scenei: 14 m", "Evenimente anuale: 250"],
       en: ["Built: 1975", "Capacity: 650 seats", "Renovation: 2008", "Number of galleries: 2", "Stage width: 14 m", "Annual events: 250"],
     },
+    image: "/poi-images/romania-resita-theatre-landmarks-v2.webp",
   },
   {
     id: "romania-botosani-monument-landmarks-v2",
@@ -1312,6 +1352,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Ridicat: 1995", "Înălțime: 8 m", "Materiale: marmură și bronz", "Locație: parcul orașului Botoșani", "Greutate: 5 tone", "Ocazie: 135 de ani de la unire"],
       en: ["Erected: 1995", "Height: 8 m", "Materials: marble and bronze", "Location: Botoșani city park", "Weight: 5 tons", "Occasion: 135th anniversary of the union"],
     },
+    image: "/poi-images/romania-botosani-monument-landmarks-v2.webp",
   },
   {
     id: "romania-craiova-museum-landmarks-v2",
@@ -1344,6 +1385,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Fondare: 1915", "Număr de exponate: peste 50.000", "Suprafața expozițională: 2.500 mp", "Săli: 12", "Director fondator: Alexandru Bălăcioiu", "Vizitatori anuali: 80.000"],
       en: ["Founded: 1915", "Number of exhibits: over 50,000", "Exhibition area: 2,500 m²", "Halls: 12", "Founding director: Alexandru Bălăcioiu", "Annual visitors: 80,000"],
     },
+    image: "/poi-images/romania-craiova-museum-landmarks-v2.webp",
   },
   {
     id: "romania-alexandria-monument-landmarks-v2",
@@ -1376,6 +1418,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Ridicat: 1925", "Înălțime: 6 m", "Material: granit", "Număr de nume: 250", "Locație: centrul Alexandriei", "Inaugurare: 1 decembrie 1925"],
       en: ["Erected: 1925", "Height: 6 m", "Material: granite", "Number of names: 250", "Location: Alexandria city center", "Inauguration: December 1, 1925"],
     },
+    image: "/poi-images/romania-alexandria-monument-landmarks-v2.webp",
   },
   {
     id: "romania-galati-museum-landmarks-v2",
@@ -1408,6 +1451,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Fondare: 1939", "Număr de obiecte: peste 30.000", "Suprafața expozițională: 1.800 mp", "Săli: 10", "Denumit după: Paul Păltănea (istoric)", "Vizitatori anuali: 40.000"],
       en: ["Founded: 1939", "Number of objects: over 30,000", "Exhibition area: 1,800 m²", "Halls: 10", "Named after: Paul Păltănea (historian)", "Annual visitors: 40,000"],
     },
+    image: "/poi-images/romania-galati-museum-landmarks-v2.webp",
   },
   {
     id: "romania-slobozia-monument-landmarks-v2",
@@ -1440,6 +1484,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Ridicat: 2000", "Înălțime: 5 m", "Material: oțel inoxidabil", "Greutate: 1,5 tone", "Locație: parcul orașului Slobozia", "Artist: necunoscut"],
       en: ["Erected: 2000", "Height: 5 m", "Material: stainless steel", "Weight: 1.5 tons", "Location: Slobozia city park", "Artist: unknown"],
     },
+    image: "/poi-images/romania-slobozia-monument-landmarks-v2.webp",
   },
   {
     id: "romania-bacau-palace-landmarks-v2",
@@ -1472,6 +1517,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Construit: 1906", "Etaje: 4", "Înălțimea turnului: 25 m", "Stil arhitectural: neoclasic", "Folosință inițială: prefectură", "Renovare: 2002"],
       en: ["Built: 1906", "Floors: 4", "Tower height: 25 m", "Architectural style: neoclassical", "Original use: prefecture", "Renovation: 2002"],
     },
+    image: "/poi-images/romania-bacau-palace-landmarks-v2.webp",
   },
   {
     id: "romania-resita-museum-landmarks-v2",
@@ -1504,6 +1550,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Fondare: 1950", "Număr de obiecte: peste 100.000", "Suprafața expozițională: 1.200 mp", "Secții: 3", "Stilul clădirii: baroc", "Vizitatori anuali: 25.000"],
       en: ["Founded: 1950", "Number of objects: over 100,000", "Exhibition area: 1,200 m²", "Departments: 3", "Building style: Baroque", "Annual visitors: 25,000"],
     },
+    image: "/poi-images/romania-resita-museum-landmarks-v2.webp",
   },
   {
     id: "romania-botosani-cathedral-landmarks-v2",
@@ -1536,6 +1583,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Sfințire: 1859", "Înălțimea turnului clopotniță: 30 m", "Stil arhitectural: moldovenesc", "Număr de fresce: peste 50", "Lungimea navei: 25 m", "Statut: sediu episcopal"],
       en: ["Consecration: 1859", "Bell tower height: 30 m", "Architectural style: Moldavian", "Number of frescoes: over 50", "Nave length: 25 m", "Status: episcopal seat"],
     },
+    image: "/poi-images/romania-botosani-cathedral-landmarks-v2.webp",
   },
   {
     id: "romania-craiova-monument-landmarks-v2",
@@ -1568,6 +1616,7 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Inaugurare: 1976", "Înălțime: 8 m (statuia), 4 m (soclul)", "Material: bronz", "Greutate: 6 tone", "Locație: centrul Craiovei", "Sculptor: Ion Jalea"],
       en: ["Unveiled: 1976", "Height: 8 m (statue), 4 m (pedestal)", "Material: bronze", "Weight: 6 tons", "Location: Craiova city center", "Sculptor: Ion Jalea"],
     },
+    image: "/poi-images/romania-craiova-monument-landmarks-v2.webp",
   },
   {
     id: "romania-alexandria-museum-landmarks-v2",
@@ -1600,5 +1649,6 @@ export const romaniaLandmarksV2: POI[] = [
       ro: ["Fondare: 1951", "Număr de exponate: 40.000", "Suprafața expozițională: 1.500 mp", "Secții: 4", "Număr de monede: 5.000", "Vizitatori anuali: 15.000"],
       en: ["Founded: 1951", "Number of exhibits: 40,000", "Exhibition area: 1,500 m²", "Departments: 4", "Number of coins: 5,000", "Annual visitors: 15,000"],
     },
+    image: "/poi-images/romania-alexandria-museum-landmarks-v2.webp",
   }
 ];

@@ -31,6 +31,7 @@ export const cookislandsHistoryV2: POI[] = [
       ro: ["Situl este situat lângă satul Titikaveka pe Rarotonga.", "Numele Arai-te-tonga înseamnă 'Cerul Sudului'.", "Marae-ul constă din mai multe platforme de piatră.", "Se estimează că datează din secolele XIII-XIV.", "Lucrările de restaurare au avut loc între 2000 și 2005.", "Situl este protejat ca patrimoniu național."],
       en: ["The site is located near Titikaveka on Rarotonga.", "The name Arai-te-tonga means 'Heaven of the South'.", "The marae consists of multiple stone platforms.", "It is estimated to date from the 13th or 14th century.", "Restoration work took place between 2000 and 2005.", "The site is protected as a national heritage site."],
     },
+    image: "/poi-images/cookislands-marae-arai-te-tonga-history-v2.webp",
   },
   {
     id: "cookislands-para-o-tane-palace-history-v2",
@@ -62,6 +63,7 @@ export const cookislandsHistoryV2: POI[] = [
       ro: ["Palatul a fost construit în anii 1850.", "A fost reședința familiei Makea Ariki.", "Clădirea are o lungime de aproximativ 25 de metri.", "A fost construit din calcar de corali și lemn de kauri.", "Renovările au avut loc în anii 1990.", "Acum găzduiește un muzeu cu documente istorice."],
       en: ["The palace was built in the 1850s.", "It was the residence of the Makea Ariki family.", "The building is approximately 25 meters long.", "It was constructed from coral limestone and kauri wood.", "Renovations occurred in the 1990s.", "Today it houses a museum with historical documents."],
     },
+    image: "/poi-images/cookislands-para-o-tane-palace-history-v2.webp",
   },
   {
     id: "cookislands-cicc-avarua-history-v2",
@@ -93,6 +95,7 @@ export const cookislandsHistoryV2: POI[] = [
       ro: ["Biserica a fost fondată în 1853.", "Clădirea actuală a fost reconstruită în 1955.", "Turnul bisericii are aproximativ 25 de metri înălțime.", "Biserica are 500 de locuri.", "Comunitatea are aproximativ 1.000 de membri.", "Biserica a fost reconstruită după un ciclon în 1952."],
       en: ["The church was founded in 1853.", "The current building was rebuilt in 1955.", "The church steeple is about 25 meters high.", "The church seats 500 people.", "The congregation has about 1,000 members.", "The church was rebuilt after a cyclone in 1952."],
     },
+    image: "/poi-images/cookislands-cicc-avarua-history-v2.webp",
   },
   {
     id: "cookislands-seven-canoe-altar-history-v2",
@@ -124,6 +127,7 @@ export const cookislandsHistoryV2: POI[] = [
       ro: ["Altarul este format din șapte pietre verticale.", "Simbolizează cele șapte canoe ale primilor coloniști.", "Pietrele au aproximativ 1,5 metri înălțime.", "Altarul este situat în Matavera pe Rarotonga.", "A fost restaurat în anii 1960.", "Altarul este protejat ca monument istoric."],
       en: ["The altar consists of seven upright stones.", "It symbolizes the seven canoes of the first settlers.", "The stones are about 1.5 meters tall.", "The altar is located in Matavera on Rarotonga.", "It was restored in the 1960s.", "The altar is a protected historic monument."],
     },
+    image: "/poi-images/cookislands-seven-canoe-altar-history-v2.webp",
   },
   {
     id: "cookislands-takamoa-college-history-v2",
@@ -155,6 +159,7 @@ export const cookislandsHistoryV2: POI[] = [
       ro: ["Fondat în anul 1839", "Clădirea principală finalizată în 1843", "Înființat de misionarul Aaron Buzacott", "Instruiește pastori pentru regiunea Pacificului", "Situat în localitatea principală Avarua", "Una dintre cele mai vechi clădiri din piatră"],
       en: ["Established in 1839", "Main building completed in 1843", "Founded by missionary Aaron Buzacott", "Trains pastors for the wider Pacific region", "Located in the main town of Avarua", "One of the oldest stone buildings on the island"],
     },
+    image: "/poi-images/cookislands-takamoa-college-history-v2.webp",
   },
   {
     id: "cookislands-pa-arikis-palace-history-v2",
@@ -186,6 +191,7 @@ export const cookislandsHistoryV2: POI[] = [
       ro: ["Palatul este situat în cartierul Tupapa din Avarua.", "Aparține liniei de căpetenie Pa Ariki.", "Clădirea a fost construită în secolul al XIX-lea.", "Servește ca reședință oficială a Pa Ariki.", "Palatul nu este deschis publicului.", "Terenul include un marae ceremonial."],
       en: ["The palace is in the Tupapa district of Avarua.", "It belongs to the Pa Ariki chieftaincy.", "The building was constructed in the 19th century.", "It serves as the official residence of the Pa Ariki.", "The palace is not open to the public.", "The grounds include a ceremonial marae."],
     },
+    image: "/poi-images/cookislands-pa-arikis-palace-history-v2.webp",
   },
   {
     id: "cookislands-arutanga-church-history-v2",
@@ -217,6 +223,7 @@ export const cookislandsHistoryV2: POI[] = [
       ro: ["Biserica a fost construită în 1828.", "Este una dintre cele mai vechi biserici din Pacific.", "Materialul de construcție este calcar de corali și lemn.", "Turnul clopotniței are aproximativ 20 de metri înălțime.", "Biserica are 300 de locuri.", "Ultima renovare a avut loc în 2005."],
       en: ["The church was built in 1828.", "It is one of the oldest churches in the Pacific.", "Building material is coral limestone and timber.", "The bell tower is about 20 meters high.", "The church seats 300 people.", "The last renovation was in 2005."],
     },
+    image: "/poi-images/cookislands-arutanga-church-history-v2.webp",
   },
   {
     id: "cookislands-te-kai-nuku-marae-history-v2",
@@ -248,6 +255,7 @@ export const cookislandsHistoryV2: POI[] = [
       ro: ["Marae-ul are aproximativ 30 de metri lungime și 15 metri lățime.", "Este situat în interiorul insulei Mangaia.", "Numele înseamnă 'Mâncarea pământului'.", "Situl datează dinainte de anul 1500 d.Hr.", "Era sacru pentru tribul Ngāti Tane.", "Săpăturile au scos la lumină unelte de piatră și cârlige de pește."],
       en: ["The marae is about 30 meters long and 15 meters wide.", "It is located in the interior of Mangaia.", "The name means 'The Food of the Land'.", "The site dates from before 1500 CE.", "It was sacred to the Ngāti Tane tribe.", "Excavations uncovered stone tools and fishhooks."],
     },
+    image: "/poi-images/cookislands-te-kai-nuku-marae-history-v2.webp",
   },
   {
     id: "cookislands-anatakitaki-cave-history-v2",
@@ -279,6 +287,7 @@ export const cookislandsHistoryV2: POI[] = [
       ro: ["Peștera are aproximativ 100 de metri lungime.", "Adăpostește crabii de nucă de cocos (Birgus latro).", "Peștera are o temperatură constantă de 25 °C.", "Descoperirile arheologice indică utilizarea acum 1.000 de ani.", "Râul subteran curge la aproximativ 200 de metri sub pământ.", "Peștera a fost deschisă publicului în 2003."],
       en: ["The cave is about 100 meters long.", "It is home to the coconut crab (Birgus latro).", "The cave maintains a constant temperature of 25 °C.", "Archaeological evidence shows use from 1,000 years ago.", "The underground river runs about 200 meters below ground.", "The cave was opened to the public in 2003."],
     },
+    image: "/poi-images/cookislands-anatakitaki-cave-history-v2.webp",
   },
   {
     id: "cookislands-palmerston-settlement-history-v2",
@@ -310,6 +319,7 @@ export const cookislandsHistoryV2: POI[] = [
       ro: ["Colonizat începând cu anul 1863", "Fondator a fost englezul William Marsters", "Format din șase insule principale (motu)", "Populație de aproximativ 60 de persoane", "Parte oficială a Insulelor Cook din 1891", "Nu are aeroport, accesibil doar cu nava"],
       en: ["Settled starting in 1863", "Founder was William Marsters", "Consists of six main islets (motu)", "Population of only about 60 people", "Official part of Cook Islands since 1891", "No airstrip, accessible only by sea"],
     },
+    image: "/poi-images/cookislands-palmerston-settlement-history-v2.webp",
   },
   {
     id: "cookislands-tinomana-palace-history-v2",
@@ -341,6 +351,7 @@ export const cookislandsHistoryV2: POI[] = [
       ro: ["Construit în jurul anului 1900 din calcar coralier și lemn tare.", "Reședința liniei Tinomana Ariki din Ngati-Tinomana.", "Situat în districtul Arorangi de pe Rarotonga.", "Înălțimea clădirii: aproximativ 6 metri (două etaje).", "Folosit pentru ceremonii anuale cu kava.", "Renovat în 2010 cu fonduri de la Pacific Development and Conservation Trust (Noua Zeelandă)."],
       en: ["Built around 1900 from coral limestone and hardwood.", "Residence of the Tinomana Ariki line of Ngati-Tinomana.", "Located in Arorangi district on Rarotonga.", "Building height approximately 6 meters (two stories).", "Used for annual kava ceremonies.", "Renovated in 2010 with funding from New Zealand's Pacific Development and Conservation Trust."],
     },
+    image: "/poi-images/cookislands-tinomana-palace-history-v2.webp",
   },
   {
     id: "cookislands-omoka-church-history-v2",
@@ -372,6 +383,7 @@ export const cookislandsHistoryV2: POI[] = [
       ro: ["Construită în 1854 de Societatea Misionară din Londra.", "Înălțimea naosului: aproximativ 8 metri.", "Capacitate de 250 de persoane.", "Conține panouri de lemn sculptate din secolul al XIX-lea.", "Vitralii din 1920 cu scene biblice.", "Renovată după daunele provocate de ciclon în 1997."],
       en: ["Built in 1854 by the London Missionary Society.", "Nave height approximately 8 meters.", "Seating capacity of 250 people.", "Contains carved wooden panels from the 19th century.", "Stained-glass windows from 1920 depict biblical scenes.", "Renovated after cyclone damage in 1997."],
     },
+    image: "/poi-images/cookislands-omoka-church-history-v2.webp",
   },
   {
     id: "cookislands-rakahanga-landing-history-v2",
@@ -403,6 +415,7 @@ export const cookislandsHistoryV2: POI[] = [
       ro: ["Sosirea primilor misionari la 24 octombrie 1857.", "Insula Rakahanga are o suprafață de 4,1 km².", "Populația din Rakahanga: aproximativ 100 (2021).", "Locul de debarcare se află pe coasta de vest, la 100 de metri de sat.", "Piatra comemorativă a fost ridicată în 1957 la 100 de ani.", "Loc de cuibărit pentru țestoasa verde (Chelonia mydas)."],
       en: ["First missionaries arrived on October 24, 1857.", "Rakahanga island has an area of 4.1 km².", "Population of Rakahanga: approximately 100 (2021).", "Landing site on west coast, 100 meters from the village.", "Commemorative stone erected in 1957 for centenary.", "Nesting site for green sea turtle (Chelonia mydas)."],
     },
+    image: "/poi-images/cookislands-rakahanga-landing-history-v2.webp",
   },
   {
     id: "cookislands-suwarrow-island-history-v2",
@@ -434,6 +447,7 @@ export const cookislandsHistoryV2: POI[] = [
       ro: ["Suprafață: aproximativ 400 de hectare teren, 41 km² lagună.", "Punctul cel mai înalt: 5 metri deasupra nivelului mării.", "Tom Neale a trăit aici între 1952–1954 și 1960–1963.", "Conține cea mai mare populație de păsări tropice cu coadă roșie din Pacific.", "Candidat UNESCO Patrimoniul Mondial din 2013.", "Precipitații anuale: peste 2000 mm."],
       en: ["Area: about 400 hectares land, 41 km² lagoon.", "Highest point: 5 meters above sea level.", "Tom Neale lived here 1952–1954 and 1960–1963.", "Contains the largest population of red-tailed tropicbirds in the Pacific.", "UNESCO World Heritage candidate since 2013.", "Annual rainfall: over 2000 mm."],
     },
+    image: "/poi-images/cookislands-suwarrow-island-history-v2.webp",
   },
   {
     id: "cookislands-ziona-church-mauke-history-v2",
@@ -465,5 +479,6 @@ export const cookislandsHistoryV2: POI[] = [
       ro: ["Construită în 1841, una dintre cele mai vechi biserici din Insulele Cook.", "Mauke are o suprafață de 18,4 km².", "Capacitate: aproximativ 200 de persoane.", "Înălțimea turnului clopotniță: 12 metri.", "Renovată în 2015 cu materiale locale.", "Conține o orgă istorică din 1880."],
       en: ["Built in 1841, one of the oldest churches in the Cook Islands.", "Mauke has an area of 18.4 km².", "Seating capacity: about 200 people.", "Bell tower height: 12 meters.", "Renovated in 2015 using local materials.", "Contains a historic organ from 1880."],
     },
+    image: "/poi-images/cookislands-ziona-church-mauke-history-v2.webp",
   }
 ];

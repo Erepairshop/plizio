@@ -32,6 +32,7 @@ export const norwayLandmarksV2: POI[] = [
       ro: ["Muzeul a fost fondat în 1894 de istoricul Hans Aall.", "Se întinde pe 14 hectare.", "Biserica de lemn datează din anul 1200 din Gol.", "Colecția cuprinde peste 500.000 de obiecte.", "Muzeul atrage aproximativ 350.000 de vizitatori anual.", "Există 40 de grădini istorice pe teren."],
       en: ["The museum was founded in 1894 by historian Hans Aall.", "It covers 14 hectares.", "The stave church dates from 1200 from Gol.", "The collection includes over 500,000 objects.", "The museum attracts about 350,000 visitors annually.", "There are 40 historic gardens on the grounds."],
     },
+    image: "/poi-images/norway-norsk-folkemuseum-landmarks-v2.webp",
   },
   {
     id: "norway-skibladner-steamer-landmarks-v2",
@@ -64,6 +65,7 @@ export const norwayLandmarksV2: POI[] = [
       ro: ["Skibladner a fost construit în 1856 în Motala, Suedia.", "Are 50 de metri lungime și 7 metri lățime.", "Motorul cu abur are o putere de 300 de cai.", "Nava cântărește 400 de tone.", "Viteza de croazieră este de 12 noduri.", "Skibladner transportă aproximativ 50.000 de pasageri anual."],
       en: ["Skibladner was built in 1856 in Motala, Sweden.", "It is 50 meters long and 7 meters wide.", "The steam engine produces 300 hp.", "The ship weighs 400 tons.", "Cruising speed is 12 knots.", "Skibladner carries about 50,000 passengers annually."],
     },
+    image: "/poi-images/norway-skibladner-steamer-landmarks-v2.webp",
   },
   {
     id: "norway-hadeland-glassworks-landmarks-v2",
@@ -96,6 +98,7 @@ export const norwayLandmarksV2: POI[] = [
       ro: ["Fondată în 1762", "Producție anuală: peste 200.000 de piese", "Vizitatori anual: aproximativ 300.000", "Reconstruită după incendiu: 1835", "Transformare în societate pe acțiuni: 1851", "Distanța față de Oslo: circa 90 km"],
       en: ["Founded in 1762", "Annual production: over 200,000 pieces", "Annual visitors: approx. 300,000", "Rebuilt after fire: 1835", "Incorporated as joint-stock company: 1851", "Distance from Oslo: about 90 km"],
     },
+    image: "/poi-images/norway-hadeland-glassworks-landmarks-v2.webp",
   },
   {
     id: "norway-vikersund-skijump-landmarks-v2",
@@ -128,6 +131,7 @@ export const norwayLandmarksV2: POI[] = [
       ro: ["Hillsize: 240 de metri", "Cel mai lung salt: 253,5 m (Stefan Kraft, 2017)", "Construită în 1936", "Ultima extindere: 2011", "Spectatori la competiții: peste 30.000", "Recordul trambulinei: 254,5 m (Stefan Kraft, 2018)"],
       en: ["Hillsize: 240 meters", "Longest jump: 253.5 m (Stefan Kraft, 2017)", "Built: 1936", "Last expansion: 2011", "Spectators at events: over 30,000", "Hill record: 254.5 m (Stefan Kraft, 2018)"],
     },
+    image: "/poi-images/norway-vikersund-skijump-landmarks-v2.webp",
   },
   {
     id: "norway-festning-kongsvinger-landmarks-v2",
@@ -160,6 +164,7 @@ export const norwayLandmarksV2: POI[] = [
       ro: ["Construită: 1682–1685", "Arhitect: Johan Caspar von Cicignon", "Altitudinea muntelui Tråstad: 228 m", "Distanța față de Oslo: circa 100 km", "Folosită ca închisoare: secolul al XIX-lea", "Războiul Nordic: rol strategic"],
       en: ["Built: 1682–1685", "Architect: Johan Caspar von Cicignon", "Height of Mount Tråstad: 228 m", "Distance from Oslo: about 100 km", "Used as prison: 19th century", "Great Northern War: strategic role"],
     },
+    image: "/poi-images/norway-festning-kongsvinger-landmarks-v2.webp",
   },
   {
     id: "norway-skansen-museum-landmarks-v2",
@@ -192,6 +197,7 @@ export const norwayLandmarksV2: POI[] = [
       ro: ["Fondat: 1900", "Fondator: Hans Aall", "Număr de clădiri: peste 150", "Vizitatori anual: aprox. 200.000", "Locație: peninsula Bygdøy", "Cea mai veche clădire: Biserica de lemn din Gol (circa 1200)"],
       en: ["Founded: 1900", "Founder: Hans Aall", "Number of buildings: over 150", "Annual visitors: approx. 200,000", "Location: Bygdøy peninsula", "Oldest building: Gol Stave Church (circa 1200)"],
     },
+    image: "/poi-images/norway-skansen-museum-landmarks-v2.webp",
   },
   {
     id: "norway-st-olav-church-landmarks-v2",
@@ -224,6 +230,7 @@ export const norwayLandmarksV2: POI[] = [
       ro: ["Sfințită în 1856", "Arhitect: Heinrich Ernst Schirmer", "Capacitate: aprox. 500 de persoane", "Dieceza: Dieceza Catolică de Oslo", "Orga: 1953, 42 de registre", "Dedicată: Sfântul Olav"],
       en: ["Consecrated: 1856", "Architect: Heinrich Ernst Schirmer", "Capacity: approx. 500 people", "Diocese: Catholic Diocese of Oslo", "Organ: 1953, 42 stops", "Dedicated to: Saint Olav"],
     },
+    image: "/poi-images/norway-st-olav-church-landmarks-v2.webp",
   },
   {
     id: "norway-nordkapphallen-landmarks-v2",
@@ -256,6 +263,7 @@ export const norwayLandmarksV2: POI[] = [
       ro: ["Latitudine: 71°10'21\"N", "Anul deschiderii: 1988", "Altitudine: 300 m deasupra nivelului mării", "Vizitatori pe an: aprox. 200.000", "Suprafață: 4.000 m²", "Distanța până la Polul Nord: 2.103 km"],
       en: ["Latitude: 71°10'21\"N", "Year opened: 1988", "Elevation: 300 m above sea level", "Annual visitors: approx. 200,000", "Floor area: 4,000 m²", "Distance to North Pole: 2,103 km"],
     },
+    image: "/poi-images/norway-nordkapphallen-landmarks-v2.webp",
   },
   {
     id: "norway-akershus-castle-landmarks-v2",
@@ -288,6 +296,7 @@ export const norwayLandmarksV2: POI[] = [
       ro: ["Construit: în jurul anului 1299", "Reconstruit: regele Christian al IV-lea (sec. XVII)", "Înălțimea zidurilor: până la 15 m", "Vizitatori anual: aprox. 500.000", "Utilizare actuală: Ministerul Apărării, muzeu", "Amplasare: fiordul Oslo"],
       en: ["Built: around 1299", "Remodeled: King Christian IV (17th century)", "Wall height: up to 15 m", "Annual visitors: approx. 500,000", "Current use: Ministry of Defence, museum", "Location: Oslofjord"],
     },
+    image: "/poi-images/norway-akershus-castle-landmarks-v2.webp",
   },
   {
     id: "norway-stavanger-cathedral-landmarks-v2",
@@ -320,6 +329,7 @@ export const norwayLandmarksV2: POI[] = [
       ro: ["Construită: în jurul anului 1125", "Incendiu: 1272", "Lungime: 60 m", "Lățime: 20 m", "Orga: 1991, 52 de registre", "Prima traducere norvegiană a Bibliei: 1590"],
       en: ["Built: around 1125", "Fire: 1272", "Length: 60 m", "Width: 20 m", "Organ: 1991, 52 stops", "First Norwegian Bible translation: 1590"],
     },
+    image: "/poi-images/norway-stavanger-cathedral-landmarks-v2.webp",
   },
   {
     id: "norway-bergen-fish-market-landmarks-v2",
@@ -352,6 +362,7 @@ export const norwayLandmarksV2: POI[] = [
       ro: ["Fondată: secolul al XVI-lea", "Vizitatori anual: peste 500.000", "Locație: portul interior Vågen", "Program: zilnic, mai lung vara", "Ofertă: pește, crabi, homari, carne de ren", "Vedere: Bryggen și Fløyen"],
       en: ["Established: 16th century", "Annual visitors: over 500,000", "Location: Inner harbor Vågen", "Hours: daily, longer in summer", "Offerings: fish, crabs, lobsters, reindeer meat", "View: Bryggen and Fløyen"],
     },
+    image: "/poi-images/norway-bergen-fish-market-landmarks-v2.webp",
   },
   {
     id: "norway-oslo-national-gallery-landmarks-v2",
@@ -384,6 +395,7 @@ export const norwayLandmarksV2: POI[] = [
       ro: ["Fondată: 1837", "Colecție: peste 4.500 de lucrări", "Operă celebră: Strigătul (1893)", "Clădire deschisă: 1882", "Vizitatori anual: aprox. 500.000", "Intrare: gratuită din 2014"],
       en: ["Founded: 1837", "Collection size: over 4,500 works", "Famous work: The Scream (1893)", "Building opened: 1882", "Annual visitors: approx. 500,000", "Admission: free since 2014"],
     },
+    image: "/poi-images/norway-oslo-national-gallery-landmarks-v2.webp",
   },
   {
     id: "norway-st-mary-church-bergen-landmarks-v2",
@@ -416,6 +428,7 @@ export const norwayLandmarksV2: POI[] = [
       ro: ["Construită: secolul al XII-lea", "Stil: romanic cu elemente gotice", "Turnuri: 2", "Font baptismal: secolul al XIII-lea", "Amvon: 1676", "Clopote: secolul al XVI-lea"],
       en: ["Built: 12th century", "Style: Romanesque with Gothic elements", "Towers: 2", "Baptismal font: 13th century", "Pulpit: 1676", "Church bells: 16th century"],
     },
+    image: "/poi-images/norway-st-mary-church-bergen-landmarks-v2.webp",
   },
   {
     id: "norway-kon-tiki-museum-landmarks-v2",
@@ -448,6 +461,7 @@ export const norwayLandmarksV2: POI[] = [
       ro: ["Deschis: 1950", "Ambarcațiuni expuse: Kon-Tiki, Ra I, Ra II, Tigris", "Distanța Kon-Tiki: 4.300 de mile marine", "Durata călătoriei Kon-Tiki: 101 zile", "Vizitatori anual: aprox. 150.000", "Renovare: 2017"],
       en: ["Opened: 1950", "Boats displayed: Kon-Tiki, Ra I, Ra II, Tigris", "Kon-Tiki distance: 4,300 nautical miles", "Kon-Tiki voyage duration: 101 days", "Annual visitors: approx. 150,000", "Renovation: 2017"],
     },
+    image: "/poi-images/norway-kon-tiki-museum-landmarks-v2.webp",
   },
   {
     id: "norway-oslo-city-museum-landmarks-v2",
@@ -480,6 +494,7 @@ export const norwayLandmarksV2: POI[] = [
       ro: ["Locație: Conacul Frogner (construit 1790)", "Fondat: 1905", "Colecție: peste 100.000 de obiecte", "Vizitatori anual: aprox. 50.000", "Intrare: gratuită", "Parte a Muzeului Oslo"],
       en: ["Location: Frogner Manor (built 1790)", "Founded: 1905", "Collection size: over 100,000 items", "Annual visitors: approx. 50,000", "Admission: free", "Part of Oslo Museum"],
     },
+    image: "/poi-images/norway-oslo-city-museum-landmarks-v2.webp",
   },
   {
     id: "norway-norsk-teknisk-museum-landmarks-v2",
@@ -512,6 +527,7 @@ export const norwayLandmarksV2: POI[] = [
       ro: ["Fondat: 1914", "Mutat: 1993", "Colecție: peste 100.000 de obiecte", "Vizitatori anual: aprox. 250.000", "Suprafață expozițională: 15.000 m²", "Locație: Kjelsås, Oslo"],
       en: ["Founded: 1914", "Relocated: 1993", "Collection size: over 100,000 objects", "Annual visitors: approx. 250,000", "Exhibition area: 15,000 m²", "Location: Kjelsås, Oslo"],
     },
+    image: "/poi-images/norway-norsk-teknisk-museum-landmarks-v2.webp",
   },
   {
     id: "norway-bergen-museum-landmarks-v2",
@@ -544,6 +560,7 @@ export const norwayLandmarksV2: POI[] = [
       ro: ["Fondat: 1825", "Aparține: Universitatea din Bergen", "Secțiuni: istorie naturală, istorie culturală", "Vizitatori anual: aprox. 100.000", "Grădina Botanică: afiliată", "Studenți: intrare gratuită"],
       en: ["Founded: 1825", "Affiliation: University of Bergen", "Departments: natural history, cultural history", "Annual visitors: approx. 100,000", "Botanical Garden: affiliated", "Free admission for students"],
     },
+    image: "/poi-images/norway-bergen-museum-landmarks-v2.webp",
   },
   {
     id: "norway-trondheim-fortress-landmarks-v2",
@@ -576,6 +593,7 @@ export const norwayLandmarksV2: POI[] = [
       ro: ["Construită: 1682–1684", "Arhitect: Johan Caspar von Cicignon", "Bastioane: 4", "Amplasare: deal la est de Trondheim", "Dezafectată: 1905", "Utilizare actuală: muzeu, loc de evenimente"],
       en: ["Built: 1682–1684", "Architect: Johan Caspar von Cicignon", "Bastions: 4", "Location: hill east of Trondheim", "Decommissioned: 1905", "Current use: museum, event venue"],
     },
+    image: "/poi-images/norway-trondheim-fortress-landmarks-v2.webp",
   },
   {
     id: "norway-flam-railway-landmarks-v2",
@@ -608,6 +626,7 @@ export const norwayLandmarksV2: POI[] = [
       ro: ["Lungime: 20 km", "Diferență de altitudine: 864 m", "Pantă maximă: 5,5%", "Număr de tuneluri: 20", "Pasageri anual: aprox. 700.000", "Deschisă: 1940"],
       en: ["Length: 20 km", "Elevation difference: 864 m", "Maximum gradient: 5.5%", "Number of tunnels: 20", "Annual passengers: approx. 700,000", "Opened: 1940"],
     },
+    image: "/poi-images/norway-flam-railway-landmarks-v2.webp",
   },
   {
     id: "norway-bryggen-museum-landmarks-v2",
@@ -640,6 +659,7 @@ export const norwayLandmarksV2: POI[] = [
       ro: ["Deschis: 1976", "Săpături: anii 1950 și 1970", "Amplasare: sub casele Bryggen", "Vizitatori anual: aprox. 50.000", "Parte a Muzeului Universității din Bergen", "Intrare inclusă în biletul pentru cartierul hanseatic"],
       en: ["Opened: 1976", "Excavations: 1950s and 1970s", "Location: beneath Bryggen houses", "Annual visitors: approx. 50,000", "Part of University Museum of Bergen", "Admission included in Hanseatic quarter ticket"],
     },
+    image: "/poi-images/norway-bryggen-museum-landmarks-v2.webp",
   },
   {
     id: "norway-astrup-fearnley-museum-landmarks-v2",
@@ -672,6 +692,7 @@ export const norwayLandmarksV2: POI[] = [
       ro: ["Fondat: 1993", "Clădire nouă (Renzo Piano): 2012", "Colecție: peste 1.000 de lucrări", "Vizitatori anual: aprox. 150.000", "Arhitect: Renzo Piano", "Amplasare: portul Oslo"],
       en: ["Founded: 1993", "New building (Renzo Piano): 2012", "Collection size: over 1,000 works", "Annual visitors: approx. 150,000", "Architect: Renzo Piano", "Location: Oslo waterfront"],
     },
+    image: "/poi-images/norway-astrup-fearnley-museum-landmarks-v2.webp",
   },
   {
     id: "norway-stiklestad-church-landmarks-v2",
@@ -704,6 +725,7 @@ export const norwayLandmarksV2: POI[] = [
       ro: ["Anul construirii: 1180", "Bătălia de la Stiklestad: 1030", "Lungime: 25 m", "Lățime: 10 m", "Înălțimea turnului: 15 m", "Locuri: 200"],
       en: ["Year built: 1180", "Battle of Stiklestad: 1030", "Length: 25 m", "Width: 10 m", "Tower height: 15 m", "Seating capacity: 200"],
     },
+    image: "/poi-images/norway-stiklestad-church-landmarks-v2.webp",
   },
   {
     id: "norway-oslo-cathedral-museum-landmarks-v2",
@@ -736,6 +758,7 @@ export const norwayLandmarksV2: POI[] = [
       ro: ["Clădirea datează din 1634.", "Colecția cuprinde peste 500 de exponate.", "Catedrala Oslo a fost sfințită în 1697.", "Muzeul a fost deschis în 1988.", "Deține o statuie medievală a Madonei din secolul al XIII-lea.", "Spațiul expozițional este de 450 de metri pătrați."],
       en: ["The building dates from 1634.", "The collection includes over 500 artifacts.", "Oslo Cathedral was consecrated in 1697.", "The museum opened in 1988.", "It houses a medieval Madonna statue from the 13th century.", "Exhibition space is 450 square meters."],
     },
+    image: "/poi-images/norway-oslo-cathedral-museum-landmarks-v2.webp",
   },
   {
     id: "norway-bergen-fortress-museum-landmarks-v2",
@@ -768,6 +791,7 @@ export const norwayLandmarksV2: POI[] = [
       ro: ["Cetatea Bergenhus a fost construită în jurul anului 1240.", "Muzeul a fost fondat în 1946.", "Expoziția cuprinde peste 3000 de obiecte.", "Sala Haakon a fost inaugurată în 1261.", "Fortăreața a fost folosită ca bază navală în al Doilea Război Mondial.", "Aproximativ 50.000 de vizitatori pe an."],
       en: ["Bergenhus Fortress was built around 1240.", "The museum was established in 1946.", "It displays over 3000 artifacts.", "Haakon's Hall was inaugurated in 1261.", "The fortress was used as a naval base during WWII.", "About 50,000 visitors annually."],
     },
+    image: "/poi-images/norway-bergen-fortress-museum-landmarks-v2.webp",
   },
   {
     id: "norway-trondheim-maritime-museum-landmarks-v2",
@@ -800,6 +824,7 @@ export const norwayLandmarksV2: POI[] = [
       ro: ["Muzeul a fost fondat în 1914.", "Deține peste 200 de modele de nave.", "Cea mai veche expoziție prezintă o navă vikingă din secolul al IX-lea.", "Colecția include 10.000 de fotografii.", "Clădirea datează din 1880.", "Spațiul expozițional este de 800 de metri pătrați."],
       en: ["The museum was founded in 1914.", "It houses over 200 ship models.", "The oldest exhibit is a 9th-century Viking ship.", "The collection includes 10,000 photographs.", "The building dates from 1880.", "Exhibition space is 800 square meters."],
     },
+    image: "/poi-images/norway-trondheim-maritime-museum-landmarks-v2.webp",
   },
   {
     id: "norway-kongsberg-church-landmarks-v2",
@@ -832,6 +857,7 @@ export const norwayLandmarksV2: POI[] = [
       ro: ["Biserica a fost sfințită în 1761.", "Altarul are o înălțime de 15 metri.", "Orga are 3000 de tuburi.", "Oferă 750 de locuri.", "Turnul are 70 de metri înălțime.", "Costul de construcție a fost de 6000 de taleri."],
       en: ["Consecrated in 1761.", "The altarpiece is 15 meters high.", "The organ has 3000 pipes.", "Seating capacity: 750.", "The spire is 70 meters tall.", "Construction cost: 6000 thalers."],
     },
+    image: "/poi-images/norway-kongsberg-church-landmarks-v2.webp",
   },
   {
     id: "norway-st-george-hospital-museum-landmarks-v2",
@@ -864,5 +890,6 @@ export const norwayLandmarksV2: POI[] = [
       ro: ["Spitalul a fost fondat în jurul anului 1411.", "A găzduit până la 200 de pacienți.", "Muzeul s-a deschis în 1995.", "Cele mai vechi părți ale clădirii datează din secolul al XV-lea.", "Colecția cuprinde peste 1000 de obiecte.", "Cimitirul spitalului conține 800 de morminte."],
       en: ["Hospital was founded around 1411.", "It housed up to 200 patients.", "Museum opened in 1995.", "Oldest parts of building date from the 15th century.", "Collection includes over 1000 objects.", "Hospital cemetery contains 800 graves."],
     },
+    image: "/poi-images/norway-st-george-hospital-museum-landmarks-v2.webp",
   }
 ];

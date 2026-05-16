@@ -32,6 +32,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Altitudine: 322,4 metri deasupra nivelului mării", "Coordonate: 50° 45' N, 6° 01' E", "Punct de trei frontiere: din 1949", "Înălțimea turnului de observație: 20 de metri", "Suprafață împădurită: 80% din munte", "Pieterpad: 498 km lungime totală, trece pe Vaalserberg"],
       en: ["Height: 322.4 meters above sea level", "Coordinates: 50°45'N, 6°01'E", "Three-country point: since 1949", "Observation tower height: 20 meters", "Forest cover: 80% of the hill", "Pieterpad: 498 km total length, passes Vaalserberg"],
     },
+    image: "/poi-images/netherlands-vaalserberg-relief-v2.webp",
   },
   {
     id: "netherlands-sint-pietersberg-relief-v2",
@@ -64,6 +65,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Altitudine: 171 de metri deasupra nivelului mării", "Marnă: Cretacic, veche de 80 de milioane de ani", "Lungimea galeriilor: 200 de kilometri în total", "Fort Sint-Pieter: construit în 1702", "Fosile: 500 de specii descoperite", "Arie protejată: 100 de hectare"],
       en: ["Height: 171 meters above sea level", "Marl: Cretaceous, 80 million years old", "Gallery length: 200 kilometers total", "Fort Sint-Pieter: built in 1702", "Fossils: 500 species discovered", "Protected area: 100 hectares"],
     },
+    image: "/poi-images/netherlands-sint-pietersberg-relief-v2.webp",
   },
   {
     id: "netherlands-wieringen-highlands-relief-v2",
@@ -96,6 +98,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Altitudine maximă: 15 metri deasupra nivelului mării", "Digul de închidere (Afsluitdijk): finalizat în 1932", "Glaciația Saale: acum 200.000 de ani", "Suprafața fostei insule: 2.500 de hectare", "Farul Den Oever: construit în 1920", "Specii de păsări cuibăritoare: 60"],
       en: ["Highest point: 15 meters above sea level", "Afsluitdijk: completed in 1932", "Ice age: Saale complex (200,000 years ago)", "Area of former island: 2,500 hectares", "Den Oever lighthouse: built in 1920", "Breeding bird species: 60"],
     },
+    image: "/poi-images/netherlands-wieringen-highlands-relief-v2.webp",
   },
   {
     id: "netherlands-posbank-relief-v2",
@@ -128,6 +131,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Altitudine: 93 de metri", "Parcul Național: înființat în 1930", "Înflorirea landei: august", "Suprafața parcului: 5.000 de hectare", "Diferență de nivel: 50 de metri față de împrejurimi", "Turmă de oi: 200 de oi"],
       en: ["Height: 93 meters above sea level", "National Park: established 1930", "Heath bloom: August", "Park area: 5,000 hectares", "Elevation difference: 50 meters to surroundings", "Sheep flock: 200 sheep"],
     },
+    image: "/poi-images/netherlands-posbank-relief-v2.webp",
   },
   {
     id: "netherlands-holterberg-relief-v2",
@@ -160,6 +164,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Altitudine: 65 de metri", "Glaciația Saale: acum 200.000 de ani", "Turn de observație: 20 de metri înălțime", "Suprafață împădurită: 600 de hectare", "Trasee de mountain bike: 40 km", "Specii de păsări cuibăritoare: 50"],
       en: ["Height: 65 meters above sea level", "Ice age: Saale (200,000 years ago)", "Observation tower: 20 meters high", "Forest area: 600 hectares", "Mountain bike trails: 40 km", "Breeding bird species: 50"],
     },
+    image: "/poi-images/netherlands-holterberg-relief-v2.webp",
   },
   {
     id: "netherlands-grebbeberg-relief-v2",
@@ -192,6 +197,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Altitudine: 52 de metri", "Bătălia: 11-13 mai 1940", "Cimitir militar: 850 de morminte", "Suprafața memorialului: 20 de hectare", "Arbori: preponderent stejar și fag", "Vizitatori anual: 50.000"],
       en: ["Height: 52 meters above sea level", "Battle: 11-13 May 1940", "Military cemetery: 850 graves", "Memorial area: 20 hectares", "Trees: mainly oak and beech", "Annual visitors: 50,000"],
     },
+    image: "/poi-images/netherlands-grebbeberg-relief-v2.webp",
   },
   {
     id: "netherlands-amerongse-berg-relief-v2",
@@ -224,6 +230,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Altitudine: 67 de metri.", "Cel mai înalt punct din Utrecht.", "Formare: glaciațiunea Saale, acum 150.000 de ani.", "Parc național: Utrechtse Heuvelrug.", "Arbori: stejar și fag.", "Precipitații anuale: 850 mm."],
       en: ["Height: 67 meters.", "Highest point in Utrecht.", "Formation: Saale glaciation, 150,000 years ago.", "National park: Utrechtse Heuvelrug.", "Trees: oak and beech.", "Annual precipitation: 850 mm."],
     },
+    image: "/poi-images/netherlands-amerongse-berg-relief-v2.webp",
   },
   {
     id: "netherlands-lemelerberg-relief-v2",
@@ -256,6 +263,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Altitudine: 75 m deasupra nivelului mării", "Formare: glaciațiunea Saale, acum cca. 150.000 de ani", "Suprafața parcului național: 35 km²", "Turn de observație construit în 2004, înălțime 12 m", "Diametrul dealului: aproximativ 1,5 km", "Vizitatori anual: cca. 500.000"],
       en: ["Elevation: 75 m above sea level", "Formation: Saale glaciation around 150,000 years ago", "National park area: 35 km²", "Observation tower built 2004, height 12 m", "Hill diameter: approx. 1.5 km", "Annual visitors: approx. 500,000"],
     },
+    image: "/poi-images/netherlands-lemelerberg-relief-v2.webp",
   },
   {
     id: "netherlands-scherpenberg-relief-v2",
@@ -288,6 +296,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Altitudine: 91 m deasupra nivelului mării", "Formațiune geologică: calcar cretacic", "Distanța până la granița germană: 2 km", "Diametru: cca. 800 m", "Cel mai apropiat oraș: Vaals, 3 km", "Număr trasee de drumeție: 5"],
       en: ["Elevation: 91 m above sea level", "Geological formation: Cretaceous limestone", "Distance from German border: 2 km", "Diameter: approx. 800 m", "Nearest city: Vaals, 3 km", "Number of hiking trails: 5"],
     },
+    image: "/poi-images/netherlands-scherpenberg-relief-v2.webp",
   },
   {
     id: "netherlands-zonnestraal-hill-relief-v2",
@@ -320,6 +329,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Altitudine: 15 m deasupra nivelului mării", "Anul construcției: anii 1950", "Proiect: Dronten, IJsselmeerpolder", "Material: nisip și nămol", "Suprafața bazei: cca. 1 ha", "Distanța până la Dronten: 2 km"],
       en: ["Elevation: 15 m above sea level", "Year built: 1950s", "Project: Dronten, IJsselmeerpolder", "Material: sand and silt", "Base area: approx. 1 ha", "Distance to Dronten: 2 km"],
     },
+    image: "/poi-images/netherlands-zonnestraal-hill-relief-v2.webp",
   },
   {
     id: "netherlands-kootwijkerzand-relief-v2",
@@ -352,6 +362,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Suprafață: 700 ha", "Cea mai înaltă dună: 10 m", "Formare: Evul Mediu (circa secolul XIII)", "Parte a: Parcul Național De Hoge Veluwe", "Număr trasee de drumeție: 6", "Specie rară: vipera de stepă (Vipera berus)"],
       en: ["Area: 700 ha", "Highest dune: 10 m", "Formation: Middle Ages (c. 13th century)", "Part of: De Hoge Veluwe National Park", "Number of hiking trails: 6", "Rare species: adder (Vipera berus)"],
     },
+    image: "/poi-images/netherlands-kootwijkerzand-relief-v2.webp",
   },
   {
     id: "netherlands-duin-en-kruidberg-relief-v2",
@@ -384,6 +395,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Suprafață: 600 ha", "Cea mai înaltă dună: 50 m", "Anul construirii conacului: 1878", "Stil: neogotic", "Parte a: Parcul Național Zuid-Kennemerland", "Specie animală: căprior (Dama dama)"],
       en: ["Area: 600 ha", "Highest dune: 50 m", "Mansion built: 1878", "Style: neo-Gothic", "Part of: Zuid-Kennemerland National Park", "Animal species: fallow deer (Dama dama)"],
     },
+    image: "/poi-images/netherlands-duin-en-kruidberg-relief-v2.webp",
   },
   {
     id: "netherlands-binnenveld-valley-relief-v2",
@@ -416,6 +428,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Lungime: 10 km", "Lățime: 2 km", "Sit Natura 2000 din 2004", "Cel mai înalt punct: 5 m deasupra nivelului mării", "Cel mai jos punct: 1 m sub nivelul mării", "Specie de pasăre: barză neagră (Ciconia nigra)"],
       en: ["Length: 10 km", "Width: 2 km", "Natura 2000 site since 2004", "Highest point: 5 m above sea level", "Lowest point: 1 m below sea level", "Bird species: black stork (Ciconia nigra)"],
     },
+    image: "/poi-images/netherlands-binnenveld-valley-relief-v2.webp",
   },
   {
     id: "netherlands-veluwezoom-moraine-relief-v2",
@@ -448,6 +461,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Cel mai înalt punct: 110 m deasupra nivelului mării", "Formare: glaciațiunea Saale acum 150.000 de ani", "Parcul național înființat: 1930", "Suprafața parcului: 50 km²", "Lungimea morenei: cca. 20 km", "Diametru bolovani: până la 2 m"],
       en: ["Highest point: 110 m above sea level", "Formation: Saale glaciation 150,000 years ago", "National park established: 1930", "Park area: 50 km²", "Moraine length: approx. 20 km", "Boulder diameter: up to 2 m"],
     },
+    image: "/poi-images/netherlands-veluwezoom-moraine-relief-v2.webp",
   },
   {
     id: "netherlands-schoorlse-duinen-relief-v2",
@@ -480,6 +494,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Suprafață: 1.800 ha", "Cea mai înaltă dună: 54 m deasupra nivelului mării", "Parcul național înființat: 1995", "Lungimea tronsonului de coastă: 12 km", "Număr de specii de păsări: peste 100", "Cel mai înalt punct: 'Lautje' (54 m)"],
       en: ["Area: 1,800 ha", "Highest dune: 54 m above sea level", "National park established: 1995", "Coastline length: 12 km", "Number of bird species: over 100", "Highest point: 'Lautje' (54 m)"],
     },
+    image: "/poi-images/netherlands-schoorlse-duinen-relief-v2.webp",
   },
   {
     id: "netherlands-rozenheuvel-relief-v2",
@@ -512,6 +527,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Altitudine: 68 m deasupra nivelului mării", "Localizare: 2 km vest de Vaals", "Diametru: cca. 600 m", "Cel mai apropiat râu: Geul, la 3 km", "Utilizare istorică: cultivarea trandafirilor", "Punct de belvedere: 68 m"],
       en: ["Elevation: 68 m above sea level", "Location: 2 km west of Vaals", "Diameter: approx. 600 m", "Nearest river: Geul, 3 km away", "Historical use: rose cultivation", "Viewpoint: elevation 68 m"],
     },
+    image: "/poi-images/netherlands-rozenheuvel-relief-v2.webp",
   },
   {
     id: "netherlands-sint-jansberg-relief-v2",
@@ -544,6 +560,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Altitudine: 72 m deasupra nivelului mării", "Geologie: loess", "Numit după: Sfântul Ioan", "Capelă construită: secolul XVIII", "Suprafață viticolă: 5 ha", "Număr trasee de drumeție: 4"],
       en: ["Elevation: 72 m above sea level", "Geology: loess", "Named after: Saint John", "Chapel built: 18th century", "Vineyard area: 5 ha", "Number of hiking trails: 4"],
     },
+    image: "/poi-images/netherlands-sint-jansberg-relief-v2.webp",
   },
   {
     id: "netherlands-duivelsberg-relief-v2",
@@ -576,6 +593,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Altitudine: 76 m deasupra nivelului mării", "Localizare: 1 km de granița germană", "Pădure: Bergherbos, 200 ha", "Turn de observație: înălțime 15 m, construit 1930", "Specii de arbori: fag, stejar", "Legendă: locuința diavolului"],
       en: ["Elevation: 76 m above sea level", "Location: 1 km from German border", "Forest: Bergherbos, 200 ha", "Observation tower: height 15 m, built 1930", "Tree species: beech, oak", "Legend: devil's dwelling"],
     },
+    image: "/poi-images/netherlands-duivelsberg-relief-v2.webp",
   },
   {
     id: "netherlands-sallandse-heuvelrug-top-relief-v2",
@@ -608,6 +626,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Cel mai înalt punct: 75 m deasupra nivelului mării", "Lungime: 30 km", "Lățime: 10 km", "Parcul național înființat: 2004", "Suprafața parcului: 35 km²", "Număr de movile funerare: cca. 50"],
       en: ["Highest point: 75 m above sea level", "Length: 30 km", "Width: 10 km", "National park established: 2004", "Park area: 35 km²", "Number of burial mounds: approx. 50"],
     },
+    image: "/poi-images/netherlands-sallandse-heuvelrug-top-relief-v2.webp",
   },
   {
     id: "netherlands-haarlemmerliede-ridges-relief-v2",
@@ -640,6 +659,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Altitudine: max. 10 m deasupra nivelului mării", "Formare: ultima glaciațiune (Weichsel)", "Lungimea crestelor: cca. 5 km", "Lățime: până la 500 m", "Sit Natura 2000: Kennemerland", "Specie de pasăre: nagâț (Vanellus vanellus)"],
       en: ["Height: max 10 m above sea level", "Formation: last ice age (Weichsel)", "Length of ridges: approx. 5 km", "Width: up to 500 m", "Natura 2000 site: Kennemerland", "Bird species: lapwing (Vanellus vanellus)"],
     },
+    image: "/poi-images/netherlands-haarlemmerliede-ridges-relief-v2.webp",
   },
   {
     id: "netherlands-schiermonnikoog-dune-top-relief-v2",
@@ -672,6 +692,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Altitudine: 20 m deasupra nivelului mării", "Suprafața insulei: 42 km²", "Parcul național înființat: 1989", "Distanța până la continent: 15 km", "Vizitatori anual: cca. 300.000", "Specie de pasăre: chiră de mare (Sterna paradisaea)"],
       en: ["Elevation: 20 m above sea level", "Island area: 42 km²", "National park established: 1989", "Distance from mainland: 15 km", "Annual visitors: approx. 300,000", "Bird species: Arctic tern (Sterna paradisaea)"],
     },
+    image: "/poi-images/netherlands-schiermonnikoog-dune-top-relief-v2.webp",
   },
   {
     id: "netherlands-texel-dune-top-relief-v2",
@@ -704,6 +725,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Altitudine: 15 m deasupra nivelului mării", "Lungimea insulei: 20 km", "Parcul național înființat: 2002", "Număr de specii de păsări: peste 300", "Suprafața parcului: 43 km²", "Plantă: violetă de mare (Viola tricolor)"],
       en: ["Elevation: 15 m above sea level", "Island length: 20 km", "National park established: 2002", "Number of bird species: over 300", "Park area: 43 km²", "Plant: sea violet (Viola tricolor)"],
     },
+    image: "/poi-images/netherlands-texel-dune-top-relief-v2.webp",
   },
   {
     id: "netherlands-berg-en-dal-ridge-relief-v2",
@@ -736,6 +758,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Altitudine: 90 m deasupra nivelului mării", "Lungimea crestei: cca. 8 km", "Formare: glaciațiunea Saale", "Situri romane: 3", "Populație: cca. 3.000", "Puncte de belvedere: 4"],
       en: ["Elevation: 90 m above sea level", "Ridge length: approx. 8 km", "Formation: Saale glaciation", "Roman sites: 3", "Population: approx. 3,000", "Viewpoints: 4"],
     },
+    image: "/poi-images/netherlands-berg-en-dal-ridge-relief-v2.webp",
   },
   {
     id: "netherlands-geulhemmerberg-relief-v2",
@@ -768,6 +791,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Altitudine: 82 m deasupra nivelului mării", "Geologie: calcar cretacic", "Lungimea galeriilor: peste 200 km întreaga rețea", "Specii de lilieci: 6", "Număr de livezi: 20", "Cel mai apropiat oraș: Valkenburg, 3 km"],
       en: ["Elevation: 82 m above sea level", "Geology: Cretaceous limestone", "Length of tunnels: over 200 km entire network", "Bat species: 6", "Number of orchards: 20", "Nearest city: Valkenburg, 3 km"],
     },
+    image: "/poi-images/netherlands-geulhemmerberg-relief-v2.webp",
   },
   {
     id: "netherlands-cauberg-relief-v2",
@@ -800,6 +824,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Altitudine: 137 m deasupra nivelului mării", "Pantă: medie 6,5%, maxim 12%", "Lungimea rampei: 1,2 km", "Geologie: calcar cretacic", "Amstel Gold Race din 1966", "Viticultură: istoric până în sec. XIX"],
       en: ["Elevation: 137 m above sea level", "Gradient: avg 6.5%, max 12%", "Climb length: 1.2 km", "Geology: Cretaceous limestone", "Amstel Gold Race since 1966", "Viticulture: historical until 19th century"],
     },
+    image: "/poi-images/netherlands-cauberg-relief-v2.webp",
   },
   {
     id: "netherlands-esberg-relief-v2",
@@ -832,6 +857,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Altitudine: 90 m deasupra nivelului mării", "Geologie: loess și calcar cretacic", "Livezi: în principal mere și pere", "Suprafața Mergelland: cca. 200 km²", "Cel mai apropiat oraș: Gulpen, 2 km", "Distanța până la granița germană: 5 km"],
       en: ["Elevation: 90 m above sea level", "Geology: loess and Cretaceous limestone", "Orchards: mainly apple and pear", "Mergelland area: approx. 200 km²", "Nearest city: Gulpen, 2 km", "Distance to German border: 5 km"],
     },
+    image: "/poi-images/netherlands-esberg-relief-v2.webp",
   },
   {
     id: "netherlands-vlieberg-relief-v2",
@@ -864,6 +890,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Altitudine: 85 m deasupra nivelului mării", "Geologie: calcar cretacic și loess", "Comună: Gulpen-Wittem", "Utilizare: cultivarea fructelor", "Număr trasee de drumeție: 3", "Cel mai apropiat castel: Kasteel van Eys, 4 km"],
       en: ["Elevation: 85 m above sea level", "Geology: Cretaceous limestone and loess", "Municipality: Gulpen-Wittem", "Use: fruit cultivation", "Number of hiking trails: 3", "Nearest castle: Kasteel van Eys, 4 km"],
     },
+    image: "/poi-images/netherlands-vlieberg-relief-v2.webp",
   },
   {
     id: "netherlands-schaelsberg-relief-v2",
@@ -896,6 +923,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Înălțime: 112 m deasupra nivelului mării", "Suprafață: aproximativ 55 de hectare", "Formare: în timpul glaciațiunii Saale, acum circa 200.000 de ani", "Geologie: calcar cretacic (marnă)", "Utilizare: exploatarea marnei până în secolul al XX-lea", "Floră: peste 200 de specii de plante, inclusiv orhidee"],
       en: ["Elevation: 112 m above sea level", "Area: approx. 55 hectares", "Formation: during the Saale glaciation about 200,000 years ago", "Geology: Cretaceous limestone (marl)", "Use: marl mining until the 20th century", "Flora: over 200 plant species, including orchids"],
     },
+    image: "/poi-images/netherlands-schaelsberg-relief-v2.webp",
   },
   {
     id: "netherlands-drieberg-relief-v2",
@@ -928,6 +956,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Înălțime: 84 m deasupra nivelului mării", "Suprafață: aproximativ 40 de hectare", "Formare: glaciațiunea Saale, acum circa 150.000 de ani", "Geologie: argilă glaciară și nisip", "Împădurire: 80 % pădure de foioase", "Utilizare: zonă de recreere locală din 1970"],
       en: ["Elevation: 84 m above sea level", "Area: approx. 40 hectares", "Formation: Saale glaciation about 150,000 years ago", "Geology: glacial till and sand", "Forest cover: 80% deciduous", "Use: local recreation area since 1970"],
     },
+    image: "/poi-images/netherlands-drieberg-relief-v2.webp",
   },
   {
     id: "netherlands-zevenheuvelen-relief-v2",
@@ -960,6 +989,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Număr de dealuri: 7", "Cel mai înalt punct: 95 m deasupra nivelului mării", "Suprafață totală: aproximativ 70 de hectare", "Formare: morenă de împingere a glaciațiunii Saale", "Arheologie: vestigii romane din secolul I d.Hr.", "Vegetație: alternanță de pădure și mărăciniș"],
       en: ["Number of hills: 7", "Highest point: 95 m above sea level", "Total area: approx. 70 hectares", "Formation: push moraine from Saale glaciation", "Archaeology: Roman settlement remains from 1st century AD", "Vegetation: alternating forest and heathland"],
     },
+    image: "/poi-images/netherlands-zevenheuvelen-relief-v2.webp",
   },
   {
     id: "netherlands-holterberg-summit-relief-v2",
@@ -992,6 +1022,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Înălțime: 120 m deasupra nivelului mării", "Suprafață: aproximativ 80 de hectare", "Formare: morenă de împingere a glaciațiunii Saale", "Parcul național: din 2004", "Turn radar: construit în 1954, înălțime 40 m", "Vegetație: 60 % pajiști de munte, 40 % pădure de pini"],
       en: ["Elevation: 120 m above sea level", "Area: approx. 80 hectares", "Formation: push moraine from Saale glaciation", "National park: since 2004", "Radar tower: built 1954, height 40 m", "Vegetation: 60% heathland, 40% pine forest"],
     },
+    image: "/poi-images/netherlands-holterberg-summit-relief-v2.webp",
   },
   {
     id: "netherlands-kruisberg-relief-v2",
@@ -1024,6 +1055,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Înălțime: 76 m deasupra nivelului mării", "Suprafață: aproximativ 35 de hectare", "Formă: în formă de cruce", "Movile funerare: 5 movile din epoca bronzului", "Statut de protecție: monument național din 1967", "Împădurire: predominant foioase"],
       en: ["Elevation: 76 m above sea level", "Area: approx. 35 hectares", "Shape: cross-shaped", "Burial mounds: 5 Bronze Age mounds", "Protection status: national monument since 1967", "Forest cover: predominantly deciduous"],
     },
+    image: "/poi-images/netherlands-kruisberg-relief-v2.webp",
   },
   {
     id: "netherlands-heilig-landstichting-relief-v2",
@@ -1056,6 +1088,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Înălțime: 65 m deasupra nivelului mării", "Suprafață: aproximativ 50 de hectare (parcul total)", "Anul construcției: 1930", "Arhitect: Jan van der Grift", "Vizitatori: circa 300.000 pe an", "Simbolism: dealul Golgota"],
       en: ["Elevation: 65 m above sea level", "Area: approx. 50 hectares (entire park)", "Year built: 1930", "Architect: Jan van der Grift", "Visitors: about 300,000 per year", "Symbolism: Golgotha hill"],
     },
+    image: "/poi-images/netherlands-heilig-landstichting-relief-v2.webp",
   },
   {
     id: "netherlands-pietersberg-plateau-relief-v2",
@@ -1088,6 +1121,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Înălțime: 171 m deasupra nivelului mării", "Suprafață: aproximativ 300 de hectare", "Sistemul de peșteri: peste 300 km lungime", "Rocă: calcar cretacic", "Fortăreață: Fort Sint Pieter, construit în 1701", "Floră: peste 400 de specii de plante, inclusiv orhidee"],
       en: ["Elevation: 171 m above sea level", "Area: approx. 300 hectares", "Cave system: over 300 km long", "Rock: Cretaceous limestone", "Fortress: Fort Sint Pieter, built 1701", "Flora: over 400 plant species, including orchids"],
     },
+    image: "/poi-images/netherlands-pietersberg-plateau-relief-v2.webp",
   },
   {
     id: "netherlands-drieberg-summit-relief-v2",
@@ -1120,6 +1154,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Înălțime: 84 m deasupra nivelului mării", "Suprafața vârfului: aproximativ 2 hectare", "Pășunat: turmă de oi de circa 100 de capete", "Punct trigonometric: din 1925", "Vizitatori: circa 50.000 pe an", "Vedere: rază de până la 20 km pe vreme senină"],
       en: ["Elevation: 84 m above sea level", "Summit area: approx. 2 hectares", "Grazing: sheep herd of about 100 animals", "Trigonometric point: since 1925", "Visitors: estimated 50,000 per year", "View: range up to 20 km in clear weather"],
     },
+    image: "/poi-images/netherlands-drieberg-summit-relief-v2.webp",
   },
   {
     id: "netherlands-haarlem-dune-relief-v2",
@@ -1152,6 +1187,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Înălțime: 45 m deasupra nivelului mării", "Suprafață: aproximativ 60 de hectare", "Rezervor de apă: capacitate de 20 de milioane de metri cubi", "Parcul național: din 1995", "Specii de păsări: peste 100 de specii cuibăritoare", "Formare: Holocen, acum circa 5.000 de ani"],
       en: ["Elevation: 45 m above sea level", "Area: approx. 60 hectares", "Water reservoir: capacity 20 million cubic meters", "National park: since 1995", "Bird species: over 100 breeding species", "Formation: Holocene, about 5,000 years ago"],
     },
+    image: "/poi-images/netherlands-haarlem-dune-relief-v2.webp",
   },
   {
     id: "netherlands-oosterbeek-hill-relief-v2",
@@ -1184,6 +1220,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Înălțime: 75 m deasupra nivelului mării", "Suprafață: aproximativ 30 de hectare", "Bătălia: Operațiunea Market Garden, 17-25 septembrie 1944", "Căzuți: circa 1.700 de soldați aliați în cimitir", "Monumente: 3 mari memoriale", "Vizitatori: circa 200.000 pe an"],
       en: ["Elevation: 75 m above sea level", "Area: approx. 30 hectares", "Battle: Operation Market Garden, 17-25 September 1944", "Fallen: about 1,700 allied soldiers in the cemetery", "Memorials: 3 major memorials", "Visitors: around 200,000 per year"],
     },
+    image: "/poi-images/netherlands-oosterbeek-hill-relief-v2.webp",
   },
   {
     id: "netherlands-renkum-dune-hill-relief-v2",
@@ -1216,6 +1253,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Înălțime: 70 m deasupra nivelului mării", "Suprafață: aproximativ 25 de hectare", "Împădurire: 90 % pădure", "Conac: Oranje Nassau's Oord, construit în 1880", "Trasee de drumeții: 5 km de trasee marcate", "Faună: căprioare, mistreți, vulpi"],
       en: ["Elevation: 70 m above sea level", "Area: approx. 25 hectares", "Forest cover: 90% forest", "Manor: Oranje Nassau's Oord, built 1880", "Hiking trails: 5 km of marked routes", "Fauna: deer, wild boar, foxes"],
     },
+    image: "/poi-images/netherlands-renkum-dune-hill-relief-v2.webp",
   },
   {
     id: "netherlands-lunteren-zand-relief-v2",
@@ -1248,6 +1286,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Înălțime: 55 m deasupra nivelului mării", "Suprafață: aproximativ 40 de hectare", "Formare: Holocen, acum circa 2.000 de ani", "Tip de nisip: nisip eolian", "Vegetație: 70 % pajiști de munte, 30 % pini", "Caracteristică: zone de nisip mișcător"],
       en: ["Elevation: 55 m above sea level", "Area: approx. 40 hectares", "Formation: Holocene, about 2,000 years ago", "Sand type: drift sand", "Vegetation: 70% heathland, 30% pine", "Special feature: quicksand areas"],
     },
+    image: "/poi-images/netherlands-lunteren-zand-relief-v2.webp",
   },
   {
     id: "netherlands-doornse-berg-relief-v2",
@@ -1280,6 +1319,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Înălțime: 92 m deasupra nivelului mării", "Suprafață: aproximativ 45 de hectare", "Formare: glaciațiunea Saale, acum circa 150.000 de ani", "Casă: Huis Doorn, construită în 1750", "Parcul național: Utrechtse Heuvelrug, din 2003", "Specii de arbori: 60 % fag, 30 % stejar, 10 % pin"],
       en: ["Elevation: 92 m above sea level", "Area: approx. 45 hectares", "Formation: Saale glaciation, about 150,000 years ago", "House: Huis Doorn, built 1750", "National park: Utrechtse Heuvelrug, since 2003", "Tree species: 60% beech, 30% oak, 10% pine"],
     },
+    image: "/poi-images/netherlands-doornse-berg-relief-v2.webp",
   },
   {
     id: "netherlands-elspeet-heide-relief-v2",
@@ -1312,6 +1352,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Înălțime: 80 m deasupra nivelului mării", "Suprafață: aproximativ 60 de hectare", "Suprafața de pajiști de munte: 75 % din total", "Pășunat: turmă de oi de 150 de capete", "Specie de pasăre: cocoșul de mesteacăn (Tetrao tetrix) perechi cuibăritoare: circa 10", "Moșia: Staverden, menționată pentru prima dată în 1300"],
       en: ["Elevation: 80 m above sea level", "Area: approx. 60 hectares", "Heathland area: 75% of total", "Grazing: sheep herd of 150 animals", "Bird species: black grouse (Tetrao tetrix) breeding pairs: about 10", "Estate: Staverden, first mentioned in 1300"],
     },
+    image: "/poi-images/netherlands-elspeet-heide-relief-v2.webp",
   },
   {
     id: "netherlands-drie-berg-top-relief-v2",
@@ -1344,6 +1385,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Înălțime: 100 m deasupra nivelului mării", "Număr de vârfuri: 3", "Turn de observație: înălțime 25 m, construit în 1900", "Suprafață: aproximativ 15 hectare", "Parcul național: Veluwe, din 1931", "Trasee de drumeții: total 10 km"],
       en: ["Elevation: 100 m above sea level", "Number of peaks: 3", "Observation tower: height 25 m, built in 1900", "Area: approx. 15 hectares", "National park: Veluwe, since 1931", "Hiking trails: total 10 km"],
     },
+    image: "/poi-images/netherlands-drie-berg-top-relief-v2.webp",
   },
   {
     id: "netherlands-velp-heuvelrug-relief-v2",
@@ -1376,6 +1418,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Înălțime: 85 m deasupra nivelului mării", "Lungimea crestei: aproximativ 2 km", "Construcții: peste 100 de vile din secolul al XIX-lea", "Punct de belvedere: Meiberg, 90 m deasupra nivelului mării", "Densitatea populației: circa 500 locuitori pe km²", "Case istorice: 10 monumente naționale"],
       en: ["Elevation: 85 m above sea level", "Ridge length: approx. 2 km", "Development: over 100 villas from the 19th century", "Viewpoint: Meiberg, 90 m above sea level", "Population density: approx. 500 inhabitants per km²", "Historic houses: 10 national monuments"],
     },
+    image: "/poi-images/netherlands-velp-heuvelrug-relief-v2.webp",
   },
   {
     id: "netherlands-lunteren-berg-relief-v2",
@@ -1408,6 +1451,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Înălțime: 70 m deasupra nivelului mării", "Suprafață: aproximativ 35 de hectare", "Dune mobile: suprafață 5 hectare, înălțime până la 10 m", "Specii de păsări: peste 80 de specii, inclusiv caprimulgul", "Castel de vânătoare: De Valk, construit în 1850", "Trasee de drumeții: 8 km lungime totală"],
       en: ["Elevation: 70 m above sea level", "Area: approx. 35 hectares", "Shifting dunes: area 5 hectares, height up to 10 m", "Bird species: over 80 species, including the nightjar", "Hunting lodge: De Valk, built 1850", "Hiking trails: 8 km total length"],
     },
+    image: "/poi-images/netherlands-lunteren-berg-relief-v2.webp",
   },
   {
     id: "netherlands-dune-peak-noord-relief-v2",
@@ -1440,6 +1484,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Înălțime: 55 de metri.", "Cea mai înaltă dună din Texel.", "Parc național: Duinen van Texel.", "Suprafața Texel: 463 km².", "Turisti anual: 1,2 milioane.", "Foci: focă comună și focă cenușie."],
       en: ["Height: 55 meters.", "Highest dune on Texel.", "National park: Duinen van Texel.", "Texel area: 463 km².", "Annual tourists: 1.2 million.", "Seals: harbor seal and grey seal."],
     },
+    image: "/poi-images/netherlands-dune-peak-noord-relief-v2.webp",
   },
   {
     id: "netherlands-doorn-heuvel-relief-v2",
@@ -1472,6 +1517,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Înălțime: 78 m deasupra nivelului mării", "Suprafață: aproximativ 20 de hectare", "Ruina castelului: Huis te Doorn, menționat prima dată în 1375", "Teren de vânătoare: domeniu regal de vânătoare până în 1900", "Parcul național: Utrechtse Heuvelrug, din 2003", "Specii de arbori: 50 % stejar, 30 % fag, 20 % pin"],
       en: ["Elevation: 78 m above sea level", "Area: approx. 20 hectares", "Castle ruin: Huis te Doorn, first mentioned 1375", "Hunting ground: royal hunting domain until 1900", "National park: Utrechtse Heuvelrug, since 2003", "Tree species: 50% oak, 30% beech, 20% pine"],
     },
+    image: "/poi-images/netherlands-doorn-heuvel-relief-v2.webp",
   },
   {
     id: "netherlands-velp-moraine-relief-v2",
@@ -1504,6 +1550,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Înălțime: 90 m deasupra nivelului mării", "Suprafață: aproximativ 40 de hectare", "Geologie: morenă de împingere, pietriș și nisip", "Glaciațiune: Saale, acum circa 150.000 de ani", "Statut de protecție: monument geologic din 1990", "Specie de plantă: afin (Vaccinium myrtillus) frecvent"],
       en: ["Elevation: 90 m above sea level", "Area: approx. 40 hectares", "Geology: push moraine, gravels and sands", "Ice age: Saale, about 150,000 years ago", "Protection status: geological monument since 1990", "Plant species: bilberry (Vaccinium myrtillus) common"],
     },
+    image: "/poi-images/netherlands-velp-moraine-relief-v2.webp",
   },
   {
     id: "netherlands-scherpenzeel-ridge-relief-v2",
@@ -1536,6 +1583,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Altitudine maximă: 30 m deasupra nivelului mării", "Lungime: aproximativ 10 km", "Formare: glaciațiunea Saale (acum ~150.000 ani)", "Material: nisip și pietriș depuse de ghețari", "Parte a masivului Veluwe", "Cumpănă a apelor între Rin și IJssel"],
       en: ["Highest elevation: 30 m above sea level", "Length: approximately 10 km", "Formation: Saale glaciation (~150,000 years ago)", "Material: sand and gravel deposited by glaciers", "Part of the Veluwe massif", "Watershed between the Rhine and IJssel rivers"],
     },
+    image: "/poi-images/netherlands-scherpenzeel-ridge-relief-v2.webp",
   },
   {
     id: "netherlands-baarn-dune-relief-v2",
@@ -1568,6 +1616,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Înălțime: aprox. 15 m", "Diametru: aproximativ 500 m", "Formare: Holocen (acum ~10.000 ani)", "Proveniența nisipului: depuneri eoliene din valea Eem", "Parte a Parcului Național Utrechtse Heuvelrug", "Vegetație: heather și pini"],
       en: ["Height: approx. 15 m", "Diameter: approx. 500 m", "Formation: Holocene (ca. 10,000 years ago)", "Sand source: windblown from the Eem river valley", "Part of Utrechtse Heuvelrug National Park", "Vegetation: heather and pine trees"],
     },
+    image: "/poi-images/netherlands-baarn-dune-relief-v2.webp",
   },
   {
     id: "netherlands-laren-hill-relief-v2",
@@ -1600,6 +1649,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Înălțime: 25 m deasupra nivelului mării", "Formare: glaciațiunea Saale (acum ~150.000 ani)", "Material: morenă nisipoasă cu pietricele", "Parte a regiunii Het Gooi", "Istoric: pășunatul oilor", "Utilizare actuală: agrement și drumeții"],
       en: ["Height: 25 m above sea level", "Formation: Saale glaciation (~150,000 years ago)", "Material: sandy moraine with pebbles", "Part of the Het Gooi region", "Historical use: sheep grazing", "Current use: recreation and hiking"],
     },
+    image: "/poi-images/netherlands-laren-hill-relief-v2.webp",
   },
   {
     id: "netherlands-hilversum-moraine-relief-v2",
@@ -1632,6 +1682,7 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Altitudine maximă: aprox. 30 m deasupra nivelului mării", "Lungime: aprox. 8 km", "Lățime: 1-2 km", "Material: lut nisipos cu blocuri de piatră", "Orașul Hilversum este construit parțial pe el", "Importanță pentru alimentarea apelor subterane"],
       en: ["Highest point: approx. 30 m above sea level", "Length: approx. 8 km", "Width: 1-2 km", "Material: sandy loam with boulders", "City of Hilversum partially built on it", "Importance for groundwater recharge"],
     },
+    image: "/poi-images/netherlands-hilversum-moraine-relief-v2.webp",
   },
   {
     id: "netherlands-soester-zand-relief-v2",
@@ -1664,5 +1715,6 @@ export const netherlandsReliefV2: POI[] = [
       ro: ["Înălțime: aprox. 20 m", "Suprafață: aproximativ 30 ha", "Formare: Holocen (acum ~10.000 ani)", "Tip nisip: nisip cuarțos fin", "Parte a rezervației naturale Soester Duinen", "Vegetație: pini și heather"],
       en: ["Height: approx. 20 m", "Area: approx. 30 ha", "Formation: Holocene (ca. 10,000 years ago)", "Sand type: fine quartz sand", "Part of Soester Duinen nature reserve", "Vegetation: pine and heather"],
     },
+    image: "/poi-images/netherlands-soester-zand-relief-v2.webp",
   }
 ];

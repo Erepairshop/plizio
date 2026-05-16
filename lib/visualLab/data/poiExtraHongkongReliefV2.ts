@@ -31,6 +31,7 @@ export const hongkongReliefV2: POI[] = [
       ro: ["Înălțime: 532 m", "Parte a traseului Wilson Trail (78 km lungime totală)", "Stație radar britanică din cel de-al Doilea Război Mondial (1941)", "Peste 200 de specii de păsări", "Terasă de orez din secolul al XIX-lea", "Rezervație marină Cape D'Aguilar (1996)"],
       en: ["Elevation: 532 m (1,745 ft)", "Part of the Dragon's Back ridge and Wilson Trail", "Site of a WWII British radar station (1941)", "Over 200 bird species recorded", "19th-century rice terraces on lower slopes", "Cape D'Aguilar Marine Reserve established 1996"],
     },
+    image: "/poi-images/hongkong-mount-parker-relief-v2.webp",
   },
   {
     id: "hongkong-mount-butler-relief-v2",
@@ -62,6 +63,7 @@ export const hongkongReliefV2: POI[] = [
       ro: ["Înălțime: 436 m", "Exploatare de granit în secolul al XIX-lea", "Parte a traseelor Wilson Trail și Hong Kong Trail", "Tranșee din cel de-al Doilea Război Mondial (1941)", "Precipitații medii anuale: 2.200 mm", "Habitat pentru salamandra uriașă chineză (Andrias davidianus)"],
       en: ["Elevation: 436 m (1,430 ft)", "Major granite quarry in the 19th century", "Part of Wilson Trail (Stage 1) and Hong Kong Trail", "WWII military fortifications (trenches and gun emplacements)", "Average annual rainfall: 2,200 mm (86.6 in)", "Habitat of Critically Endangered Chinese giant salamander"],
     },
+    image: "/poi-images/hongkong-mount-butler-relief-v2.webp",
   },
   {
     id: "hongkong-high-west-relief-v2",
@@ -93,6 +95,7 @@ export const hongkongReliefV2: POI[] = [
       ro: ["Înălțime: 502 m", "Parte a „Trei Turnuri”", "Stație de semnalizare britanică (1880)", "Fortificații japoneze în 1941-1945", "Umiditate medie: 80%", "Traseul natural Lung Fu Shan: 2,5 km"],
       en: ["Elevation: 502 m (1,647 ft)", "Part of the 'Three Towers' along with Mount Parker and Mount Butler", "British naval signal station established c. 1880", "Japanese fortifications during WWII", "Average humidity: 80%", "Lung Fu Shan Nature Trail length: 2.5 km (1.55 mi)"],
     },
+    image: "/poi-images/hongkong-high-west-relief-v2.webp",
   },
   {
     id: "hongkong-mount-davis-relief-v2",
@@ -124,6 +127,7 @@ export const hongkongReliefV2: POI[] = [
       ro: ["Înălțime: 269 m", "Numit după guvernatorul John Francis Davis (1844-1848)", "Fortul Mount Davis construit în 1885", "Ultima redută britanică în 1941", "Traseul Mount Davis: 1,5 km", "Vultur pescar cu burtă albă (Haliaeetus leucogaster)"],
       en: ["Elevation: 269 m (883 ft)", "Named after Governor Sir John Francis Davis (1844-1848)", "Mount Davis Fort built 1885", "Last British stronghold during Battle of Hong Kong (Dec 1941)", "Mount Davis Trail length: 1.5 km (0.93 mi)", "White-bellied sea eagle nesting site"],
     },
+    image: "/poi-images/hongkong-mount-davis-relief-v2.webp",
   },
   {
     id: "hongkong-tai-to-yan-relief-v2",
@@ -155,6 +159,7 @@ export const hongkongReliefV2: POI[] = [
       ro: ["Înălțimea maximă este de 566 de metri", "Numele înseamnă „Lamă mare de sabie” în cantoneză", "Formațiune compusă în principal din roci vulcanice", "Situat în interiorul parcului natural Lam Tsuen", "Creasta are o lățime de doar câțiva metri în unele zone", "Oferă vizibilitate spre granița cu China continentală"],
       en: ["The peak reaches an elevation of 566 metres", "Name translates to 'Great Sword Blade' in Cantonese", "Formed primarily from volcanic rock structures", "Located within the Lam Tsuen Country Park", "The ridge trail is exceptionally narrow in sections", "Offers clear views towards the mainland China border"],
     },
+    image: "/poi-images/hongkong-tai-to-yan-relief-v2.webp",
   },
   {
     id: "hongkong-kai-kung-leng-relief-v2",
@@ -186,6 +191,7 @@ export const hongkongReliefV2: POI[] = [
       ro: ["Punctul culminant are o altitudine de 585 metri", "Cunoscut în limba engleză ca „Rooster Ridge”", "Situat în partea de nord a parcului Lam Tsuen", "Constituit aproape integral din roci vulcanice", "Oferă o panoramă de 360 de grade spre Shenzhen", "Versanții sunt lipsiți de arbori, acoperiți doar cu iarbă"],
       en: ["The highest peak reaches 585 metres in elevation", "Commonly referred to as 'Rooster Ridge' in English", "Situated in the northern part of Lam Tsuen Country Park", "Composed almost entirely of volcanic rock formations", "Provides 360-degree views of Yuen Long and Shenzhen", "The slopes are largely treeless and covered in grass"],
     },
+    image: "/poi-images/hongkong-kai-kung-leng-relief-v2.webp",
   },
   {
     id: "hongkong-nei-lak-shan-relief-v2",
@@ -217,6 +223,7 @@ export const hongkongReliefV2: POI[] = [
       ro: ["Altitudinea maximă este de 751 metri", "Al patrulea cel mai înalt vârf din Hong Kong", "Situat în parcul natural Lantau North", "Găzduiește o stație meteorologică pe vârf", "Traseul telecabinei Ngong Ping 360 trece pe aici", "Accesibil prin poteci de drumeție din Ngong Ping"],
       en: ["Elevation of 751 meters above sea level", "Fourth highest peak in the Hong Kong territory", "Located within the Lantau North Country Park", "Features a weather station at the summit", "The Ngong Ping 360 cable car passes nearby", "Accessible via hiking trails from Ngong Ping village"],
     },
+    image: "/poi-images/hongkong-nei-lak-shan-relief-v2.webp",
   },
   {
     id: "hongkong-buffalo-hill-relief-v2",
@@ -248,6 +255,7 @@ export const hongkongReliefV2: POI[] = [
       ro: ["Înălțime: 337 m", "Formă de bivol", "Granit și șist metamorfic", "Orhideea Dendrobium candidum", "Exploatare de cărbune în dinastia Ming (1368-1644)", "Temperatură medie anuală: 23 °C"],
       en: ["Elevation: 337 m (1,106 ft)", "Named for its buffalo-like shape", "Granite and metamorphic schist composition", "Host to rare Hong Kong orchid (Dendrobium candidum)", "Ming dynasty coal mining (1368–1644)", "Average annual temperature: 23 °C (73.4 °F)"],
     },
+    image: "/poi-images/hongkong-buffalo-hill-relief-v2.webp",
   },
   {
     id: "hongkong-tates-cairn-relief-v2",
@@ -279,6 +287,7 @@ export const hongkongReliefV2: POI[] = [
       ro: ["Înălțime: 577 m", "Numit după John Tate (topograf în anii 1860)", "Rocă vulcanică acidă cretacică", "Wilson Trail etapa 4 (8,5 km)", "Tunelul Tate's Cairn (1991, lungime 3,9 km)", "Precipitații anuale: 1.900 mm"],
       en: ["Elevation: 577 m (1,893 ft)", "Named after John Tate, British surveyor (1860s)", "Cretaceous acidic volcanic rock", "Wilson Trail Stage 4 (8.5 km)", "Tate's Cairn Tunnel opened 1991 (3.9 km)", "Average annual rainfall: 1,900 mm (74.8 in)"],
     },
+    image: "/poi-images/hongkong-tates-cairn-relief-v2.webp",
   },
   {
     id: "hongkong-needle-hill-relief-v2",
@@ -310,6 +319,7 @@ export const hongkongReliefV2: POI[] = [
       ro: ["Înălțime: 532 m", "Conglomerat și gresie din Terțiar", "Wilson Trail etapa 5 (9 km)", "Post de observare a incendiilor (anii 1930)", "Temperatură medie: 20 °C", "10.000 de vizitatori anual"],
       en: ["Elevation: 532 m (1,745 ft)", "Tertiary conglomerate and sandstone", "Wilson Trail Stage 5 (9 km)", "Former fire lookout post (1930s)", "Average summit temperature: 20 °C (68 °F)", "Annual visitors: approx. 10,000"],
     },
+    image: "/poi-images/hongkong-needle-hill-relief-v2.webp",
   },
   {
     id: "hongkong-grassy-hill-relief-v2",
@@ -341,6 +351,7 @@ export const hongkongReliefV2: POI[] = [
       ro: ["Înălțime: 647 m", "Roci metamorfice (cuarțit, șist)", "MacLehose Trail etapa 7 (12 km)", "Precipitații anuale: 2.400 mm", "Loc popular pentru zmeie", "Apeduct din anii 1930"],
       en: ["Elevation: 647 m (2,123 ft)", "Metamorphic quartzite and schist", "MacLehose Trail Stage 7 (12 km)", "Average annual rainfall: 2,400 mm (94.5 in)", "Popular for kite flying", "Historic aqueduct from 1930s Shing Mun project"],
     },
+    image: "/poi-images/hongkong-grassy-hill-relief-v2.webp",
   },
   {
     id: "hongkong-pyramid-hill-relief-v2",
@@ -372,6 +383,7 @@ export const hongkongReliefV2: POI[] = [
       ro: ["Înălțime: 525 m", "Granit și tuf riolitic", "MacLehose Trail etapa 9 (16 km)", "Centru de producție a cărbunelui de lemn în sec. XIX", "Temperatură medie: 22 °C", "15.000 de drumeți anual"],
       en: ["Elevation: 525 m (1,722 ft)", "Granite and rhyolitic tuff", "MacLehose Trail Stage 9 (16 km)", "19th-century charcoal production hub", "Average temperature: 22 °C (71.6 °F)", "Annual hiker count: approx. 15,000"],
     },
+    image: "/poi-images/hongkong-pyramid-hill-relief-v2.webp",
   },
   {
     id: "hongkong-mount-stenhouse-relief-v2",
@@ -403,6 +415,7 @@ export const hongkongReliefV2: POI[] = [
       ro: ["Înălțime: 353 m", "Cel mai înalt punct al insulei Lamma", "Numit după Sir George Stenhouse (c. 1900)", "Ruinele unei stații de semnalizare din sec. XIX", "Traseul Mount Stenhouse: 3 km", "Precipitații anuale: 1.800 mm"],
       en: ["Elevation: 353 m (1,158 ft)", "Highest point on Lamma Island", "Named after Sir George Stenhouse (c. 1900)", "19th-century signal station ruins", "Mount Stenhouse Trail length: 3 km (1.86 mi)", "Average annual rainfall: 1,800 mm (70.9 in)"],
     },
+    image: "/poi-images/hongkong-mount-stenhouse-relief-v2.webp",
   },
   {
     id: "hongkong-lo-fu-tau-relief-v2",
@@ -434,6 +447,7 @@ export const hongkongReliefV2: POI[] = [
       ro: ["Înălțimea maximă este de 465 metri", "Situat în partea de est a insulei Lantau", "Numele se traduce prin Capul Tigrului", "Oferă vedere spre aeroportul Chek Lap Kok", "Face parte din parcul Lantau North", "Traseul montan leagă Discovery Bay de Mui Wo"],
       en: ["Maximum elevation of 465 meters", "Located in the eastern part of Lantau Island", "The name translates to Tiger's Head", "Offers views of Chek Lap Kok Airport", "Part of the Lantau North Country Park", "Hiking trail connects Discovery Bay to Mui Wo"],
     },
+    image: "/poi-images/hongkong-lo-fu-tau-relief-v2.webp",
   },
   {
     id: "hongkong-mount-kellett-relief-v2",
@@ -465,6 +479,7 @@ export const hongkongReliefV2: POI[] = [
       ro: ["Înălțime: 321 m", "Numit după amiralul Sir William Kellett (sec. XIX)", "Granit și tuf vulcanic", "Vile de lux și rezervor pe vârf", "Temperatură medie anuală: 23 °C", "Hong Kong Trail etapa 1 (10 km)"],
       en: ["Elevation: 321 m (1,053 ft)", "Named after Admiral Sir William Kellett (19th century)", "Granite and volcanic tuff", "Residential villas and water reservoir on summit", "Average annual temperature: 23 °C (73.4 °F)", "Hong Kong Trail Stage 1 (10 km)"],
     },
+    image: "/poi-images/hongkong-mount-kellett-relief-v2.webp",
   },
   {
     id: "hongkong-mount-nicholson-relief-v2",
@@ -496,6 +511,7 @@ export const hongkongReliefV2: POI[] = [
       ro: ["Înălțime: 430 m", "Numit după Sir William Nicholson (sec. XIX)", "Granit cuarțifer", "Parkview Golf Club (18 găuri)", "Precipitații anuale: 2.200 mm", "Prezența lui Rhipidura albicollis"],
       en: ["Elevation: 430 m (1,411 ft)", "Named after Sir William Nicholson (19th century)", "Quartz-rich granite", "Parkview Golf Club (18 holes)", "Average annual rainfall: 2,200 mm (86.6 in)", "White-throated fantail bird habitat"],
     },
+    image: "/poi-images/hongkong-mount-nicholson-relief-v2.webp",
   },
   {
     id: "hongkong-jardines-lookout-relief-v2",
@@ -527,6 +543,7 @@ export const hongkongReliefV2: POI[] = [
       ro: ["Înălțime: 200 m", "Numit după Jardine, Matheson & Co. (anii 1830)", "Granit și rocă alterată", "Ruine post de observație britanic WWII (1941)", "Traseul Jardine's Lookout Trail: 1,5 km", "20.000 de vizitatori anual"],
       en: ["Elevation: 200 m (656 ft)", "Named after Jardine, Matheson & Co. (1830s)", "Granite and weathered rock", "WWII British observation post ruins", "Jardine's Lookout Trail length: 1.5 km (0.93 mi)", "Annual visitors: approx. 20,000"],
     },
+    image: "/poi-images/hongkong-jardines-lookout-relief-v2.webp",
   },
   {
     id: "hongkong-violet-hill-relief-v2",
@@ -558,6 +575,7 @@ export const hongkongReliefV2: POI[] = [
       ro: ["Înălțime: 341 m", "Numit după florile violete de rododendron", "Granit și tuf riolitic", "Hong Kong Trail etapa 2 (8 km)", "Baterii de coastă din WWII", "Precipitații anuale: 2.000 mm"],
       en: ["Elevation: 341 m (1,119 ft)", "Named for violet rhododendron blooms", "Granite and rhyolitic tuff", "Hong Kong Trail Stage 2 (8 km)", "WWII coastal battery remains", "Average annual rainfall: 2,000 mm (78.7 in)"],
     },
+    image: "/poi-images/hongkong-violet-hill-relief-v2.webp",
   },
   {
     id: "hongkong-devils-peak-relief-v2",
@@ -589,6 +607,7 @@ export const hongkongReliefV2: POI[] = [
       ro: ["Înălțime: 402 m", "Numele se referă la ascensiunea dificilă", "Granit și roci metamorfice", "Post de observație japonez (1941-1945)", "Temperatură medie anuală: 22 °C", "Vechi punct trigonometric"],
       en: ["Elevation: 402 m (1,319 ft)", "Named for challenging climb", "Granite and metamorphic rock", "Japanese lookout post during WWII (1941-1945)", "Average annual temperature: 22 °C (71.6 °F)", "Historical trigonometrical station"],
     },
+    image: "/poi-images/hongkong-devils-peak-relief-v2.webp",
   },
   {
     id: "hongkong-beacon-hill-relief-v2",
@@ -620,6 +639,7 @@ export const hongkongReliefV2: POI[] = [
       ro: ["Înălțimea vârfului este de 457 metri", "Parte integrantă a parcului Lion Rock", "Numele său istoric a fost Lung Cheung Shan", "Găzduiește o stație radar meteorologică", "Aparține lanțului muntos Kowloon", "Traseul MacLehose trece pe lângă vârf"],
       en: ["Summit elevation is 457 meters", "Part of the Lion Rock Country Park", "Formerly known as Lung Cheung Shan", "Site of a secondary surveillance radar", "Belongs to the Kowloon mountain range", "MacLehose Trail passes near the summit"],
     },
+    image: "/poi-images/hongkong-beacon-hill-relief-v2.webp",
   },
   {
     id: "hongkong-ma-nam-wat-relief-v2",
@@ -651,6 +671,7 @@ export const hongkongReliefV2: POI[] = [
       ro: ["Petroglifele de la Ma Nam Wat au aproximativ 3000 de ani vechime.", "Situl a fost descoperit în 1978.", "Ma Nam Wat este situat în districtul Sai Kung.", "Gravurile fac parte din Geoparcul Global UNESCO Hong Kong.", "Lungimea petroglifelor este de aproximativ 1,5 metri.", "Situl este monument protejat din 1982."],
       en: ["The petroglyphs at Ma Nam Wat are approximately 3,000 years old.", "The site was discovered in 1978.", "Ma Nam Wat is located in Sai Kung District.", "The rock carvings are part of the Hong Kong UNESCO Global Geopark.", "The petroglyphs measure about 1.5 meters in length.", "The site has been a protected monument since 1982."],
     },
+    image: "/poi-images/hongkong-ma-nam-wat-relief-v2.webp",
   },
   {
     id: "hongkong-high-junk-peak-relief-v2",
@@ -682,6 +703,7 @@ export const hongkongReliefV2: POI[] = [
       ro: ["High Junk Peak are o înălțime de 344 de metri.", "Muntele se află în Parcul Rural Clear Water Bay.", "Vârful oferă vedere către 9 insule în Port Shelter.", "Rocile datează din perioada Jurasică, aproximativ 140 de milioane de ani.", "Traseul High Junk Peak Trail are aproximativ 6,5 kilometri.", "Muntele face parte din districtul Sai Kung."],
       en: ["High Junk Peak stands 344 meters tall.", "The mountain is located in Clear Water Bay Country Park.", "The summit offers views of 9 islands in Port Shelter.", "The rocks date from the Jurassic period, about 140 million years old.", "The High Junk Peak Trail is approximately 6.5 kilometers long.", "The peak is part of Sai Kung District."],
     },
+    image: "/poi-images/hongkong-high-junk-peak-relief-v2.webp",
   },
   {
     id: "hongkong-mount-cameron-relief-v2",
@@ -713,6 +735,7 @@ export const hongkongReliefV2: POI[] = [
       ro: ["Mount Cameron are 440 de metri înălțime.", "Muntele se află în Parcul Rural Aberdeen.", "Vârful oferă o vizibilitate de până la 30 de kilometri.", "Traseul Mount Cameron Trail are 3,5 kilometri.", "Temperatura medie este cu 2 grade mai scăzută decât în oraș.", "Pe munte se găsesc peste 100 de specii de plante."],
       en: ["Mount Cameron is 440 meters high.", "The mountain is located in Aberdeen Country Park.", "The summit provides visibility up to 30 kilometers.", "The Mount Cameron Trail is 3.5 kilometers long.", "Average temperature is 2 degrees Celsius cooler than in the city.", "There are over 100 plant species on the mountain."],
     },
+    image: "/poi-images/hongkong-mount-cameron-relief-v2.webp",
   },
   {
     id: "hongkong-wa-shan-relief-v2",
@@ -744,6 +767,7 @@ export const hongkongReliefV2: POI[] = [
       ro: ["Wa Shan are o înălțime de 455 de metri.", "Muntele se află în Parcul Rural Pat Sin Leng.", "Traseul Wilson Trail are 78 de kilometri și trece peste Wa Shan.", "În zonă există peste 200 de specii de fluturi.", "Temperatura medie este cu 3 grade mai scăzută decât în oraș.", "Muntele este compus din rocă vulcanică din perioada Cretacică."],
       en: ["Wa Shan is 455 meters high.", "The mountain is located in Pat Sin Leng Country Park.", "The Wilson Trail is 78 kilometers long and passes over Wa Shan.", "The area hosts over 200 butterfly species.", "Average temperature is 3 degrees Celsius lower than in the city.", "The mountain consists of Cretaceous volcanic rock."],
     },
+    image: "/poi-images/hongkong-wa-shan-relief-v2.webp",
   },
   {
     id: "hongkong-buffalo-hill-west-relief-v2",
@@ -775,6 +799,7 @@ export const hongkongReliefV2: POI[] = [
       ro: ["West Buffalo Hill are o înălțime de 606 metri.", "Muntele se află în Parcul Rural Ma On Shan.", "Masivul Buffalo Hill include trei vârfuri.", "Drumeția până la vârf durează aproximativ 2 ore.", "Vârful oferă o vedere de 360 de grade.", "Zona găzduiește peste 50 de specii de păsări."],
       en: ["West Buffalo Hill is 606 meters high.", "It is located in Ma On Shan Country Park.", "The Buffalo Hill massif comprises three peaks.", "The hike to the summit takes about 2 hours.", "The summit offers 360-degree views.", "The area is home to over 50 bird species."],
     },
+    image: "/poi-images/hongkong-buffalo-hill-west-relief-v2.webp",
   },
   {
     id: "hongkong-mount-gough-relief-v2",
@@ -806,6 +831,7 @@ export const hongkongReliefV2: POI[] = [
       ro: ["Mount Gough are o înălțime de 311 metri.", "Colina se află în districtul Peak, pe insula Hong Kong.", "Poteca Mount Gough Walk are 1,2 kilometri.", "În zonă se găsesc peste 60 de specii de păsări.", "Temperatura medie este cu 1,5 grade mai scăzută decât în centrul orașului.", "Face parte din Hong Kong Trail (etapa 1)."],
       en: ["Mount Gough is 311 meters high.", "It is located in the Peak District on Hong Kong Island.", "The Mount Gough Walk is 1.2 kilometers long.", "Over 60 bird species are found in the area.", "Average temperature is 1.5 degrees Celsius cooler than the city center.", "It is part of the Hong Kong Trail (Stage 1)."],
     },
+    image: "/poi-images/hongkong-mount-gough-relief-v2.webp",
   },
   {
     id: "hongkong-mount-austin-relief-v2",
@@ -837,6 +863,7 @@ export const hongkongReliefV2: POI[] = [
       ro: ["Mount Austin are o înălțime de 463 de metri.", "Muntele se află în Parcul Rural Lung Fu Shan.", "Fostul post de observație datează din cel de-al Doilea Război Mondial.", "Traseul Mount Austin Trail are 2,8 kilometri.", "Muntele oferă vedere directă către Victoria Peak (552 m).", "Umiditatea medie a zonei este de 80%."],
       en: ["Mount Austin is 463 meters high.", "It is located in Lung Fu Shan Country Park.", "The former observation post dates from World War II.", "The Mount Austin Trail is 2.8 kilometers long.", "The mountain offers direct views of Victoria Peak (552 m).", "The area has an average humidity of 80%."],
     },
+    image: "/poi-images/hongkong-mount-austin-relief-v2.webp",
   },
   {
     id: "hongkong-luk-keng-chan-uk-relief-v2",
@@ -868,6 +895,7 @@ export const hongkongReliefV2: POI[] = [
       ro: ["Satul a fost fondat în secolul al XVIII-lea.", "Există 15 case Hakka conservate.", "Satul se află la 200 de metri deasupra nivelului mării.", "Suprafața satului este de aproximativ 2 hectare.", "Cel mai apropiat oraș este Sai Kung, la 5 kilometri.", "Satul face parte din Parcul Rural Luk Keng."],
       en: ["The village was founded in the 18th century.", "There are 15 preserved Hakka houses.", "The village is 200 meters above sea level.", "The area of the village is about 2 hectares.", "The nearest town is Sai Kung, 5 kilometers away.", "The village is part of Luk Keng Country Park."],
     },
+    image: "/poi-images/hongkong-luk-keng-chan-uk-relief-v2.webp",
   },
   {
     id: "hongkong-pottinger-peak-relief-v2",
@@ -899,6 +927,7 @@ export const hongkongReliefV2: POI[] = [
       ro: ["Pottinger Peak are o înălțime de 406 metri.", "Muntele se află în Parcul Rural Aberdeen.", "Traseul Pottinger Peak Trail are 2,5 kilometri.", "Vârful este frecvent utilizat pentru parapantă.", "Temperatura medie este de 22 de grade Celsius.", "Muntele oferă vedere către plaja Deep Water Bay."],
       en: ["Pottinger Peak is 406 meters high.", "It is located in Aberdeen Country Park.", "The Pottinger Peak Trail is 2.5 kilometers long.", "The summit is frequently used for paragliding.", "Average temperature is 22 degrees Celsius.", "The mountain overlooks Deep Water Bay beach."],
     },
+    image: "/poi-images/hongkong-pottinger-peak-relief-v2.webp",
   },
   {
     id: "hongkong-mount-collinson-relief-v2",
@@ -930,6 +959,7 @@ export const hongkongReliefV2: POI[] = [
       ro: ["Mount Collinson are o înălțime de 351 de metri.", "Muntele se află în Parcul Rural Shek O.", "Traseul are 1,8 kilometri.", "Muntele oferă vedere către 5 insule.", "Panta atinge până la 30 de grade.", "Vârful este la doar 150 de metri de mare."],
       en: ["Mount Collinson is 351 meters high.", "It is located in Shek O Country Park.", "The trail is 1.8 kilometers long.", "The mountain offers views of 5 islands.", "The gradient reaches up to 30 degrees.", "The summit is only 150 meters from the sea."],
     },
+    image: "/poi-images/hongkong-mount-collinson-relief-v2.webp",
   },
   {
     id: "hongkong-nan-she-tsim-relief-v2",
@@ -961,6 +991,7 @@ export const hongkongReliefV2: POI[] = [
       ro: ["Promontoriul are 1,5 kilometri lungime.", "Se află la 20 de kilometri de centrul orașului.", "Rocile conțin fosile cretacice (de aproximativ 100 de milioane de ani).", "Altitudinea maximă este de 50 de metri deasupra nivelului mării.", "Există 3 rute principale de escaladă.", "Zona face parte din Parcul Rural Sai Kung East."],
       en: ["The headland is 1.5 kilometers long.", "It is 20 kilometers from the city center.", "The rocks contain Cretaceous fossils (about 100 million years old).", "The maximum elevation is 50 meters above sea level.", "There are 3 main climbing routes.", "The area is part of Sai Kung East Country Park."],
     },
+    image: "/poi-images/hongkong-nan-she-tsim-relief-v2.webp",
   },
   {
     id: "hongkong-kau-to-shan-relief-v2",
@@ -992,6 +1023,7 @@ export const hongkongReliefV2: POI[] = [
       ro: ["Kau To Shan are o înălțime de 399 de metri.", "Muntele se află în Parcul Rural Ma On Shan.", "De pe vârf se văd 9 insule.", "Traseul Wilson Trail trece peste vârf (78 km lungime totală).", "Timpul mediu de drumeție este de 1,5 ore.", "Muntele este compus din rocă vulcanică jursică."],
       en: ["Kau To Shan is 399 meters high.", "It is located in Ma On Shan Country Park.", "From the summit, 9 islands are visible.", "The Wilson Trail passes over the summit (78 km total length).", "The average hiking time is 1.5 hours.", "The mountain consists of Jurassic volcanic rock."],
     },
+    image: "/poi-images/hongkong-kau-to-shan-relief-v2.webp",
   },
   {
     id: "hongkong-mount-hallowes-relief-v2",
@@ -1023,5 +1055,6 @@ export const hongkongReliefV2: POI[] = [
       ro: ["Mount Hallowes are o înălțime de 435 de metri.", "Muntele se află în Parcul Rural Aberdeen.", "Traseul are 3,2 kilometri.", "În zonă se găsesc 45 de specii de păsări.", "Panta medie este de 25 de grade.", "Vârful se află la 180 de metri deasupra nivelului mării."],
       en: ["Mount Hallowes is 435 meters high.", "It is located in Aberdeen Country Park.", "The trail is 3.2 kilometers long.", "There are 45 bird species in the area.", "The average slope is 25 degrees.", "The summit is 180 meters above sea level."],
     },
+    image: "/poi-images/hongkong-mount-hallowes-relief-v2.webp",
   }
 ];

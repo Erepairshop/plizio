@@ -937,6 +937,7 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Altitudinea medie este de 250 m deasupra nivelului mării.", "Suprafața este de aproximativ 30 km².", "Solul este loess și cernoziom.", "Culturile principale sunt grâul, porumbul și floarea-soarelui.", "Densitatea populației este scăzută.", "Regiunea este predominant agricolă."],
       en: ["Average elevation is 250 m above sea level.", "Area is about 30 km².", "Soil is loess and chernozem.", "Main crops are wheat, corn, and sunflowers.", "Population density is low.", "The region is agricultural."],
     },
+    image: "/poi-images/moldova-plaiul-niorcani-relief-v2.webp",
   },
   {
     id: "moldova-colinele-lalova-relief-v2",
@@ -969,6 +970,7 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Șirul de dealuri se întinde pe aproximativ 15 km.", "Înălțimea maximă este de 350 m.", "Roca este sedimentară.", "Pădurile sunt compuse în principal din stejar și fag.", "Regiunea este o zonă viticolă.", "Dealurile fac parte din masivul Codru."],
       en: ["The hill range stretches about 15 km.", "Maximum height is 350 m.", "The rock is sedimentary.", "Forests are mainly oak and beech.", "The region is a wine-growing area.", "The hills are part of the Codru massif."],
     },
+    image: "/poi-images/moldova-colinele-lalova-relief-v2.webp",
   },
   {
     id: "moldova-platoul-stanca-relief-v2",
@@ -1001,6 +1003,7 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Altitudinea medie este de 200 m.", "Suprafața este de aproximativ 40 km².", "Solul este loess.", "Agricultura este specializată pe cereale.", "Podișul este drenat de mai multe râuri mici.", "Iernile sunt reci, verile calde."],
       en: ["Average elevation is 200 m.", "Area is about 40 km².", "Soil is loess.", "Agriculture is specialized in cereals.", "The plateau is drained by several small rivers.", "Winters are cold, summers warm."],
     },
+    image: "/poi-images/moldova-platoul-stanca-relief-v2.webp",
   },
   {
     id: "moldova-colinele-tartaul-relief-v2",
@@ -1033,6 +1036,7 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Șirul de dealuri se întinde pe aproximativ 12 km.", "Înălțimea maximă este de 280 m.", "Roca este calcar și marnă.", "Se cultivă în principal mere și prune.", "Există lacuri mici în depresiuni.", "Regiunea face parte din dealurile sud-moldovenești."],
       en: ["The hill range stretches about 12 km.", "Maximum height is 280 m.", "The rock is limestone and marl.", "Mainly apples and plums are grown.", "Small lakes exist in depressions.", "The region is part of the southern Moldavian hills."],
     },
+    image: "/poi-images/moldova-colinele-tartaul-relief-v2.webp",
   },
   {
     id: "moldova-culmea-valea-mare-relief-v2",
@@ -1065,6 +1069,7 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Culmea se întinde pe aproximativ 25 km.", "Înălțimea maximă este de 320 m.", "Roca este gresie și marne argiloase.", "Pădurile sunt în principal de carpen și tei.", "Culmea este cumpăna de ape între Prut și Nistru.", "Zona crestei este utilizată agricol."],
       en: ["The ridge stretches about 25 km.", "Maximum height is 320 m.", "The rock is sandstone and clayey marl.", "Forests are mainly hornbeam and linden.", "The ridge is a watershed between Prut and Dniester.", "The crest area is used for agriculture."],
     },
+    image: "/poi-images/moldova-culmea-valea-mare-relief-v2.webp",
   },
   {
     id: "moldova-platoul-briceni-relief-v2",
@@ -1097,6 +1102,7 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Altitudinea medie este de 220 m.", "Suprafața este de aproximativ 50 km².", "Solul este cernoziom.", "Culturile principale sunt sfecla de zahăr și cerealele.", "Regiunea face parte din cursul superior al Prutului.", "Pădurile acoperă aproximativ 20% din suprafață."],
       en: ["Average elevation is 220 m.", "Area is about 50 km².", "Soil is chernozem.", "Main crops are sugar beet and cereals.", "The region is part of the upper Prut course.", "Forests cover about 20% of the area."],
     },
+    image: "/poi-images/moldova-platoul-briceni-relief-v2.webp",
   },
   {
     id: "moldova-colinele-telenesti-relief-v2",
@@ -1129,6 +1135,7 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Regiunea deluroasă se întinde pe aproximativ 18 km.", "Înălțimea maximă este de 300 m.", "Roca constă în straturi de argilă și nisip.", "Se cultivă tutun și floarea-soarelui.", "Dealurile fac parte din dealurile centrale moldovenești.", "Agricultura este principala sursă de venit."],
       en: ["The hilly region stretches about 18 km.", "Maximum height is 300 m.", "The rock consists of clay and sand layers.", "Tobacco and sunflowers are cultivated.", "The hills are part of the central Moldavian hills.", "Agriculture is the main source of income."],
     },
+    image: "/poi-images/moldova-colinele-telenesti-relief-v2.webp",
   },
   {
     id: "moldova-platoul-soroca-relief-v2",
@@ -1161,6 +1168,7 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Altitudinea medie este de 180 m.", "Suprafața este de aproximativ 35 km².", "Solul este nisipos-lutos.", "Se cultivă soiul Fetească Neagră.", "Orașul Soroca se află la marginea podișului.", "Clima este continentală cu veri fierbinți."],
       en: ["Average elevation is 180 m.", "Area is about 35 km².", "Soil is sandy-loamy.", "The Fetească Neagră grape variety is grown.", "The city of Soroca lies on the plateau edge.", "Climate is continental with hot summers."],
     },
+    image: "/poi-images/moldova-platoul-soroca-relief-v2.webp",
   },
   {
     id: "moldova-colinele-leova-relief-v2",
@@ -1193,6 +1201,7 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Regiunea deluroasă se întinde pe aproximativ 10 km.", "Înălțimea maximă este de 250 m.", "Roca este calcar și gresie.", "Se cultivă struguri și migdale.", "Dealurile oferă vedere spre valea Prutului.", "Densitatea populației este scăzută."],
       en: ["The hilly region stretches about 10 km.", "Maximum height is 250 m.", "The rock is limestone and sandstone.", "Grapes and almonds are cultivated.", "The hills offer views of the Prut Valley.", "Population density is low."],
     },
+    image: "/poi-images/moldova-colinele-leova-relief-v2.webp",
   },
   {
     id: "moldova-platoul-balti-relief-v2",
@@ -1225,6 +1234,7 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Suprafața este de aproximativ 60 km².", "Altitudinea medie este de 190 m.", "Solul este cernoziom profund.", "Culturile principale: grâu, porumb, floarea-soarelui.", "Podișul este drenat de râul Răut.", "Orașul Bălți se află la marginea podișului."],
       en: ["Area is about 60 km².", "Average elevation is 190 m.", "Soil is deep chernozem.", "Main crops: wheat, corn, sunflowers.", "The plateau is drained by the Răut River.", "The city of Bălți lies on the plateau edge."],
     },
+    image: "/poi-images/moldova-platoul-balti-relief-v2.webp",
   },
   {
     id: "moldova-colinele-cimislia-relief-v2",
@@ -1257,6 +1267,7 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Șirul de dealuri are aproximativ 15 km lungime.", "Înălțimea maximă este de 220 m.", "Roca este argilă și marnă.", "Se cultivă cereale și floarea-soarelui.", "Vegetația este în principal pajiști.", "Drenajul este asigurat de pâraie temporare."],
       en: ["The hill range is about 15 km long.", "Maximum height is 220 m.", "The rock is clay and marl.", "Cereals and sunflowers are cultivated.", "Vegetation is mainly grasslands.", "Drainage is by temporary streams."],
     },
+    image: "/poi-images/moldova-colinele-cimislia-relief-v2.webp",
   },
   {
     id: "moldova-platoul-stefan-voda-relief-v2",
@@ -1289,6 +1300,7 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Altitudinea medie este de 150 m.", "Suprafața este de aproximativ 25 km².", "Solul este loess.", "Culturile principale sunt grâul și porumbul.", "Există mai multe canale de irigație.", "Clima este uscat-continentală."],
       en: ["Average elevation is 150 m.", "Area is about 25 km².", "Soil is loess.", "Main crops are wheat and corn.", "Several irrigation canals exist.", "Climate is dry-continental."],
     },
+    image: "/poi-images/moldova-platoul-stefan-voda-relief-v2.webp",
   },
   {
     id: "moldova-colinele-rezina-relief-v2",
@@ -1321,6 +1333,7 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Dealurile se întind pe aproximativ 14 km.", "Înălțimea maximă este de 310 m.", "Roca este calcar și gresie.", "Pantele sunt abrupte.", "În regiune se exploatează calcar.", "Viticultura este importantă."],
       en: ["The hills stretch about 14 km.", "Maximum height is 310 m.", "The rock is limestone and sandstone.", "The slopes are steep.", "Limestone is quarried in the region.", "Viticulture is significant."],
     },
+    image: "/poi-images/moldova-colinele-rezina-relief-v2.webp",
   },
   {
     id: "moldova-colinele-ungheni-relief-v2",
@@ -1353,6 +1366,7 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Dealurile se întind pe aproximativ 12 km.", "Înălțimea maximă este de 240 m.", "Roca este argilă și nisip.", "Se cultivă grâu și sfeclă de zahăr.", "Regiunea are un climat temperat continental.", "Dealurile oferă vedere spre valea Prutului."],
       en: ["The hills stretch about 12 km.", "Maximum height is 240 m.", "The rock is clay and sand.", "Wheat and sugar beets are cultivated.", "The region has a temperate continental climate.", "The hills offer views of the Prut Valley."],
     },
+    image: "/poi-images/moldova-colinele-ungheni-relief-v2.webp",
   },
   {
     id: "moldova-platoul-nisporeni-relief-v2",
@@ -1385,6 +1399,7 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Altitudinea medie este de 210 m.", "Suprafața este de aproximativ 30 km².", "Solul este lut și argilă.", "Se cultivă pomi fructiferi și viță de vie.", "Podișul este drenat de mai multe pâraie.", "Regiunea este cunoscută pentru producția de prune."],
       en: ["Average elevation is 210 m.", "Area is about 30 km².", "Soil is loam and clay.", "Fruit trees and vines are cultivated.", "The plateau is drained by several streams.", "The region is known for plum production."],
     },
+    image: "/poi-images/moldova-platoul-nisporeni-relief-v2.webp",
   },
   {
     id: "moldova-colinele-hincesti-relief-v2",
@@ -1417,6 +1432,7 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Suprafață: 450 km²", "Altitudine maximă: 350 m", "Geologie: Mezozic", "Soluri: cernoziom", "Populație: 11.000 locuitori", "Principala cultură: grâu"],
       en: ["Area: 450 km²", "Highest point: 350 m", "Elevation range: 200-350 m", "Rock type: limestone and marl", "Forest cover: 60%", "Annual precipitation: 550 mm"],
     },
+    image: "/poi-images/moldova-colinele-hincesti-relief-v2.webp",
   },
   {
     id: "moldova-culmea-codru-relief-v2",
@@ -1449,6 +1465,7 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Lungime: 80 km", "Altitudine maximă: 430 m", "Vârste geologice: Paleogen-Neogen", "Suprafață împădurită: 70%", "Producție anuală de vin: 50.000 hl", "Populație în zonă: 30.000 locuitori"],
       en: ["Length: 80 km", "Highest peak: 430 m", "Geological period: Paleogene", "Forest cover: 70%", "Vineyard area: 15,000 ha", "Watershed: Prut and Dniester rivers"],
     },
+    image: "/poi-images/moldova-culmea-codru-relief-v2.webp",
   },
   {
     id: "moldova-platoul-orhei-relief-v2",
@@ -1481,6 +1498,7 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Suprafață: 600 km²", "Altitudine maximă: 400 m", "Calcar: da", "Canion Răut: adâncime 150 m", "Suprafață agricolă: 70%", "Număr situri arheologice: 15"],
       en: ["Area: 600 km²", "Highest elevation: 400 m", "Rock type: limestone", "Deepest canyon: 150 m", "Annual rainfall: 550 mm", "Forest cover: 30%"],
     },
+    image: "/poi-images/moldova-platoul-orhei-relief-v2.webp",
   },
   {
     id: "moldova-colinele-basarabeasca-relief-v2",
@@ -1513,5 +1531,6 @@ export const moldovaReliefV2: POI[] = [
       ro: ["Suprafață: 300 km²", "Altitudine maximă: 200 m", "Sol: cernoziom", "Producție anuală de struguri: 80.000 tone", "Densitate populație: 65 loc./km²", "Distanța până la frontieră: 10 km"],
       en: ["Area: 300 km²", "Highest point: 200 m", "Soil type: chernozem", "Vineyard area: 10,000 ha", "Average July temperature: 22°C", "Annual precipitation: 450 mm"],
     },
+    image: "/poi-images/moldova-colinele-basarabeasca-relief-v2.webp",
   }
 ];

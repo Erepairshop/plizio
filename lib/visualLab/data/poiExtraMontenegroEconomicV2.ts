@@ -32,6 +32,7 @@ export const montenegroEconomicV2: POI[] = [
       ro: ["Capacitate instalată: 72 MW", "Punere în funcțiune: 1983", "Producție anuală: circa 280 GWh", "Lungimea tunelului de presiune: 26 km", "Cădere hidraulică: 270 m", "Turbine: 3 turbine Francis"],
       en: ["Installed capacity: 72 MW", "Commissioned: 1983", "Annual generation: approx. 280 GWh", "Pressure tunnel length: 26 km", "Hydraulic head: 270 m", "Turbines: 3 Francis turbines"],
     },
+    image: "/poi-images/montenegro-bistrica-hydro-economic-v2.webp",
   },
   {
     id: "montenegro-luka-bar-port-economic-v2",
@@ -64,6 +65,7 @@ export const montenegroEconomicV2: POI[] = [
       ro: ["Deschidere: 1903", "Capacitate anuală: > 5 milioane tone", "Adâncime apă: până la 13 m", "Lungime chei: aprox. 3,5 km", "Terminal containere: 1 (100.000 TEU/an)", "Cale ferată: Bar–Belgrad (476 km)"],
       en: ["Opened: 1903", "Annual throughput: > 5 million tons", "Water depth: up to 13 m", "Quay length: approx. 3.5 km", "Container terminal: 1 (100,000 TEU/year)", "Rail link: Bar–Belgrade (476 km)"],
     },
+    image: "/poi-images/montenegro-luka-bar-port-economic-v2.webp",
   },
   {
     id: "montenegro-kap-aluminium-economic-v2",
@@ -96,6 +98,7 @@ export const montenegroEconomicV2: POI[] = [
       ro: ["Fondat oficial în anul 1971", "Suprafață industrială de peste 100 hectare", "Capacitate de producție de 280.000 tone/an", "Legătură feroviară directă cu portul Bar", "Principalul consumator de energie electrică", "Exportă în principal aluminiu primar"],
       en: ["Opened in 1971 near the Zeta River", "Annual capacity reaches 280,000 tonnes", "Accounts for a large share of national GDP", "Primary destination for Nikšić bauxite", "Connected to the Belgrade-Bar railway", "Major employer in the Podgorica basin"],
     },
+    image: "/poi-images/montenegro-kap-aluminium-economic-v2.webp",
   },
   {
     id: "montenegro-vranjina-fishing-economic-v2",
@@ -128,6 +131,7 @@ export const montenegroEconomicV2: POI[] = [
       ro: ["Cea mai veche așezare de pescari de pe lac", "Portul este poarta către Rezervația Skadar", "Pescuitul de oblete este principala resursă", "Metode de conservare transmise din generații", "Altitudine de doar câțiva metri peste lac", "Nod de transport între Podgorica și Bar"],
       en: ["Core fishing community of Lake Skadar", "Famous for the endemic 'Ukljeva' fish", "Traditional drying houses since the 1800s", "Located on a former island, now a peninsula", "Annual 'Fish and Wine' festival site", "Key supplier for national fish markets"],
     },
+    image: "/poi-images/montenegro-vranjina-fishing-economic-v2.webp",
   },
   {
     id: "montenegro-trebjesa-brewery-economic-v2",
@@ -160,6 +164,7 @@ export const montenegroEconomicV2: POI[] = [
       ro: ["Fondată în 1896 sub numele Onogošt", "Sursă de apă proprie din muntele Trebjesa", "Parte a grupului Molson Coors din 2012", "Producție anuală de 50 milioane litri", "Cel mai vechi brand industrial activ", "Exporturi masive în statele din fosta Iugoslavie"],
       en: ["Founded in 1896 in Nikšić", "Uses natural spring water from Trebjesa", "Annual production exceeds 500,000 hl", "Acquired by Molson Coors in 2012", "Employs over 300 local workers", "Exports to Europe and North America"],
     },
+    image: "/poi-images/montenegro-trebjesa-brewery-economic-v2.webp",
   },
   {
     id: "montenegro-pljevlja-coal-mine-economic-v2",
@@ -192,6 +197,7 @@ export const montenegroEconomicV2: POI[] = [
       ro: ["Producție anuală: circa 2 milioane tone", "Deschidere: 1951", "Rezerve: 100 milioane tone", "Metodă exploatare: carieră deschisă", "Tip cărbune: lignit", "Angajați: aproximativ 1.500"],
       en: ["Annual output: approx. 2 million tons", "Opened: 1951", "Reserves: 100 million tons", "Mining method: open-pit", "Coal type: lignite", "Employees: about 1,500"],
     },
+    image: "/poi-images/montenegro-pljevlja-coal-mine-economic-v2.webp",
   },
   {
     id: "montenegro-porto-novi-economic-v2",
@@ -224,6 +230,7 @@ export const montenegroEconomicV2: POI[] = [
       ro: ["Suprafață totală de 26 de hectare", "Marină pentru iahturi de până la 120 metri", "Investiție a grupului Azmont Investments", "Include 238 de dane în portul turistic", "Deschis oficial în anul 2019", "Locația hotelului de lux One&Only"],
       en: ["Spans 26 hectares of prime coastal land", "Marina features 238 berths for superyachts", "Total investment exceeded €800 million", "Home to Europe's first One&Only resort", "Located at the entrance of Boka Bay", "Built on the site of the Kumbor naval base"],
     },
+    image: "/poi-images/montenegro-porto-novi-economic-v2.webp",
   },
   {
     id: "montenegro-luka-kotor-economic-v2",
@@ -256,6 +263,7 @@ export const montenegroEconomicV2: POI[] = [
       ro: ["Lungime chei: aprox. 500 m", "Adâncime apă: până la 12 m", "Pasageri croaziere anual: > 300.000", "Feriboturi: spre Italia, Croația", "Patrimoniu UNESCO: din 1979", "Vechime oraș vechi: peste 1.000 de ani"],
       en: ["Quay length: approx. 500 m", "Water depth: up to 12 m", "Annual cruise passengers: > 300,000", "Ferry connections: to Italy, Croatia", "UNESCO World Heritage: since 1979", "Old town age: over 1,000 years"],
     },
+    image: "/poi-images/montenegro-luka-kotor-economic-v2.webp",
   },
   {
     id: "montenegro-piva-hydro-economic-v2",
@@ -288,6 +296,7 @@ export const montenegroEconomicV2: POI[] = [
       ro: ["Înălțimea barajului: 220 de metri", "Construcție finalizată în anul 1975", "Putere instalată de 342 MW", "Formează lacul de acumulare Piva", "Arhitectură de tip baraj în arc", "Produce 15% din energia țării"],
       en: ["Dam height measures 220 meters", "Operational since 1975", "Total installed capacity: 342 MW", "Annual output around 800 GWh", "Creates a reservoir 45 km long", "One of the highest arch dams in Europe"],
     },
+    image: "/poi-images/montenegro-piva-hydro-economic-v2.webp",
   },
   {
     id: "montenegro-velika-plazad-agri-economic-v2",
@@ -320,6 +329,7 @@ export const montenegroEconomicV2: POI[] = [
       ro: ["Suprafață: 400 ha", "Densitate măslini: circa 200 arbori/ha", "Producție anuală ulei de măsline: 500 tone", "Canale de irigații: 30 km", "Altitudine: 0–10 m", "Temperatura medie: 16 °C"],
       en: ["Area: 400 ha", "Olive tree density: about 200 trees/ha", "Annual olive oil production: 500 tons", "Irrigation canals: 30 km", "Elevation: 0–10 m", "Average temperature: 16 °C"],
     },
+    image: "/poi-images/montenegro-velika-plazad-agri-economic-v2.webp",
   },
   {
     id: "montenegro-niksic-steel-economic-v2",
@@ -352,6 +362,7 @@ export const montenegroEconomicV2: POI[] = [
       ro: ["Fondare: 1958", "Capacitate anuală: 300.000 t", "Angajați: circa 1.200", "Distanța până la Podgorica: 60 km", "Produse: oțel beton, profile", "Modernizare: 1995–2000"],
       en: ["Founded: 1958", "Annual capacity: 300,000 t", "Employees: about 1,200", "Distance to Podgorica: 60 km", "Products: rebar, profiles", "Modernization: 1995–2000"],
     },
+    image: "/poi-images/montenegro-niksic-steel-economic-v2.webp",
   },
   {
     id: "montenegro-kumbor-military-economic-v2",
@@ -384,6 +395,7 @@ export const montenegroEconomicV2: POI[] = [
       ro: ["Fostă bază de submarine a Iugoslaviei", "Poziție strategică la intrarea în Boka", "Demilitarizat complet după anul 2012", "A găzduit școli de aviație navală", "Parte a istoriei navale austro-ungare", "Acum este nod pentru iahturi private"],
       en: ["Former Austro-Hungarian naval station", "Yugoslav submarine base until the 1990s", "Strategically located in the Herceg Novi bay", "Transitioned to civilian use in 2012", "Site of former naval aviation hangars", "Now integrated into the Porto Novi resort"],
     },
+    image: "/poi-images/montenegro-kumbor-military-economic-v2.webp",
   },
   {
     id: "montenegro-bar-oil-terminal-economic-v2",
@@ -416,6 +428,7 @@ export const montenegroEconomicV2: POI[] = [
       ro: ["Capacitate totală de depozitare: 100.000 m3", "Gestionat de compania Jugopetrol AD", "Dispune de 17 rezervoare de mare capacitate", "Acces feroviar pentru transportul spre nord", "Terminal maritim pentru tancuri petroliere", "Punct strategic pentru securitatea energetică"],
       en: ["Primary storage hub for Jugopetrol AD", "Total storage capacity: 100,000 m3", "Features 17 large-scale fuel tanks", "Connected to the Bar-Belgrade railway", "Handles tankers up to 30,000 DWT", "Main entry point for national gas supply"],
     },
+    image: "/poi-images/montenegro-bar-oil-terminal-economic-v2.webp",
   },
   {
     id: "montenegro-bijelo-polje-agri-economic-v2",
@@ -448,6 +461,7 @@ export const montenegroEconomicV2: POI[] = [
       ro: ["Suprafață agricolă: 10.000 ha", "Producție cartofi: 20.000 t/an", "Producție zmeură: 3.000 t/an", "Altitudine: 600 m", "Populație: circa 15.000", "Înființare centru: 1970"],
       en: ["Agricultural area: 10,000 ha", "Potato production: 20,000 t/year", "Raspberry production: 3,000 t/year", "Elevation: 600 m", "Population: about 15,000", "Center established: 1970"],
     },
+    image: "/poi-images/montenegro-bijelo-polje-agri-economic-v2.webp",
   },
   {
     id: "montenegro-budva-marina-economic-v2",
@@ -480,6 +494,7 @@ export const montenegroEconomicV2: POI[] = [
       ro: ["Locuri de acostare: 480", "Deschidere: 2011", "Lungime maximă ambarcațiune: 40 m", "Adâncime apă: 4–6 m", "Vizitatori anual: 5.000 ambarcațiuni", "Investiție: 15 milioane €"],
       en: ["Berths: 480", "Opened: 2011", "Maximum boat length: 40 m", "Water depth: 4–6 m", "Annual visitors: 5,000 boats", "Investment: €15 million"],
     },
+    image: "/poi-images/montenegro-budva-marina-economic-v2.webp",
   },
   {
     id: "montenegro-tivat-airport-economic-v2",
@@ -512,6 +527,7 @@ export const montenegroEconomicV2: POI[] = [
       ro: ["Lungimea pistei este de 2.500 metri", "Inaugurat inițial în anul 1957", "Situat la doar 6 metri deasupra mării", "Restricționat la zboruri pe timp de zi", "Hub principal pentru zboruri charter", "Acces direct către stațiunile de lux"],
       en: ["Runway length: 2,500 meters", "Established in 1957 for civil use", "Handles over 1 million passengers annually", "Strictly daytime operations due to terrain", "Located just 4 km from Porto Montenegro", "Crucial for the summer tourist season"],
     },
+    image: "/poi-images/montenegro-tivat-airport-economic-v2.webp",
   },
   {
     id: "montenegro-podgorica-airport-economic-v2",
@@ -544,6 +560,7 @@ export const montenegroEconomicV2: POI[] = [
       ro: ["Distanță până la oraș: 12 km", "Capacitate terminal: 1,5 milioane pasageri/an", "Renovare: 2006", "Lungime pistă: 2.500 m", "Zboruri anuale: 15.000", "Cod IATA: TGD"],
       en: ["Distance to city: 12 km", "Terminal capacity: 1.5 million passengers/year", "Renovation: 2006", "Runway length: 2,500 m", "Annual flights: 15,000", "IATA code: TGD"],
     },
+    image: "/poi-images/montenegro-podgorica-airport-economic-v2.webp",
   },
   {
     id: "montenegro-zupa-niksic-agri-economic-v2",
@@ -576,6 +593,7 @@ export const montenegroEconomicV2: POI[] = [
       ro: ["Suprafață: 250 km²", "Suprafață viticolă: 500 ha", "Producție medie vin: 10 hl/ha", "Altitudine: 600 m", "Precipitații anuale: 1000 mm", "Număr viticultori: 200"],
       en: ["Area: 250 km²", "Vineyard area: 500 ha", "Average wine yield: 10 hl/ha", "Elevation: 600 m", "Annual rainfall: 1000 mm", "Number of winemakers: 200"],
     },
+    image: "/poi-images/montenegro-zupa-niksic-agri-economic-v2.webp",
   },
   {
     id: "montenegro-tuzi-agri-economic-v2",
@@ -608,6 +626,7 @@ export const montenegroEconomicV2: POI[] = [
       ro: ["Producție măsline: 1.000 t/an", "Suprafață irigată: 300 ha", "Temperatura medie: 15 °C", "Precipitații anuale: 800 mm", "Altitudine: 50 m", "Număr ferme agricole: 500"],
       en: ["Olive production: 1,000 t/year", "Irrigated area: 300 ha", "Average temperature: 15 °C", "Annual rainfall: 800 mm", "Elevation: 50 m", "Number of farms: 500"],
     },
+    image: "/poi-images/montenegro-tuzi-agri-economic-v2.webp",
   },
   {
     id: "montenegro-glava-zete-hydro-economic-v2",
@@ -640,6 +659,7 @@ export const montenegroEconomicV2: POI[] = [
       ro: ["Capacitate instalată: 45 MW", "Punere în funcțiune: 1968", "Producție anuală: 180 GWh", "Lungime canal: 8 km", "Cădere hidraulică: 30 m", "Turbine: 2 turbine Kaplan"],
       en: ["Installed capacity: 45 MW", "Commissioned: 1968", "Annual generation: 180 GWh", "Canal length: 8 km", "Hydraulic head: 30 m", "Turbines: 2 Kaplan turbines"],
     },
+    image: "/poi-images/montenegro-glava-zete-hydro-economic-v2.webp",
   },
   {
     id: "montenegro-perucica-agri-economic-v2",
@@ -672,6 +692,7 @@ export const montenegroEconomicV2: POI[] = [
       ro: ["Suprafață agricolă: 1.000 ha", "Producție cartofi: 5.000 t/an", "Altitudine: 800 m", "Temperatura medie: 7 °C", "Precipitații anuale: 1.200 mm", "Vaci de lapte: 2.000"],
       en: ["Agricultural area: 1,000 ha", "Potato production: 5,000 t/year", "Elevation: 800 m", "Average temperature: 7 °C", "Annual rainfall: 1,200 mm", "Dairy cows: 2,000"],
     },
+    image: "/poi-images/montenegro-perucica-agri-economic-v2.webp",
   },
   {
     id: "montenegro-bar-container-terminal-economic-v2",
@@ -704,6 +725,7 @@ export const montenegroEconomicV2: POI[] = [
       ro: ["Operat de compania Port of Adria", "Adâncimea apei la cheu este de 12 metri", "Capacitate anuală de 300.000 TEU", "Zonă economică liberă de 800 hectare", "Echipat cu macarale moderne de mare tonaj", "Principalul nod comercial pentru importuri"],
       en: ["Managed by Port of Adria company", "Max draft at the terminal is 12 meters", "Annual capacity of 300,000 TEU units", "Direct interface with Bar-Belgrade railway", "Strategic gateway for landlocked Serbia", "Includes a large duty-free trade zone"],
     },
+    image: "/poi-images/montenegro-bar-container-terminal-economic-v2.webp",
   },
   {
     id: "montenegro-cetinje-industry-economic-v2",
@@ -736,6 +758,7 @@ export const montenegroEconomicV2: POI[] = [
       ro: ["Suprafață industrială: 50 ha", "Angajați: 3.000", "Cel mai mare angajator: fabrica de telecomunicații", "Dezvoltare: anii 1970", "Distanța până la Podgorica: 38 km", "Populație Cetinje: 14.000"],
       en: ["Industrial area: 50 ha", "Employees: 3,000", "Largest employer: telecom factory", "Development: 1970s", "Distance to Podgorica: 38 km", "Population of Cetinje: 14,000"],
     },
+    image: "/poi-images/montenegro-cetinje-industry-economic-v2.webp",
   },
   {
     id: "montenegro-ro-aj-wood-economic-v2",
@@ -768,6 +791,7 @@ export const montenegroEconomicV2: POI[] = [
       ro: ["Suprafață păduri: 80% din comună", "Producție anuală de lemn: 100.000 m³", "Gatere: 15", "Fabrici de mobilă: 5", "Angajați: 1.000", "Procent export: 60%"],
       en: ["Forest cover: 80% of municipality", "Annual timber production: 100,000 m³", "Sawmills: 15", "Furniture factories: 5", "Employees: 1,000", "Export share: 60%"],
     },
+    image: "/poi-images/montenegro-ro-aj-wood-economic-v2.webp",
   },
   {
     id: "montenegro-andrijevica-agri-economic-v2",
@@ -800,6 +824,7 @@ export const montenegroEconomicV2: POI[] = [
       ro: ["Suprafață agricolă: 2.000 ha", "Efectiv bovine: 5.000", "Producție lapte: 10.000 l/zi", "Recoltă cartofi: 8.000 t/an", "Altitudine: 800 m", "Stupine: 100"],
       en: ["Agricultural area: 2,000 ha", "Cattle stock: 5,000", "Milk production: 10,000 l/day", "Potato yield: 8,000 t/year", "Elevation: 800 m", "Apiaries: 100"],
     },
+    image: "/poi-images/montenegro-andrijevica-agri-economic-v2.webp",
   },
   {
     id: "montenegro-savnik-agri-economic-v2",
@@ -832,6 +857,7 @@ export const montenegroEconomicV2: POI[] = [
       ro: ["Altitudine: 1.000–1.500 m", "Efectiv ovine: 10.000", "Efectiv bovine: 3.000", "Suprafață cartofi: 300 ha", "Populație: circa 2.000", "Producție lapte: 5.000 l/zi"],
       en: ["Elevation: 1,000–1,500 m", "Sheep stock: 10,000", "Cattle stock: 3,000", "Potato area: 300 ha", "Population: about 2,000", "Milk production: 5,000 l/day"],
     },
+    image: "/poi-images/montenegro-savnik-agri-economic-v2.webp",
   },
   {
     id: "montenegro-pluzine-tourism-economic-v2",
@@ -864,6 +890,7 @@ export const montenegroEconomicV2: POI[] = [
       ro: ["Suprafață lac: 12 km²", "Înălțime baraj: 220 m", "Turisti anual: 50.000", "Distanța până la Parcul Național Durmitor: 30 km", "Închirieri bărci: 10 furnizori", "Fondare oraș: 1975"],
       en: ["Reservoir area: 12 km²", "Dam height: 220 m", "Annual tourists: 50,000", "Distance to Durmitor National Park: 30 km", "Boat rentals: 10 operators", "Town founded: 1975"],
     },
+    image: "/poi-images/montenegro-pluzine-tourism-economic-v2.webp",
   },
   {
     id: "montenegro-mojkovac-mine-economic-v2",
@@ -896,6 +923,7 @@ export const montenegroEconomicV2: POI[] = [
       ro: ["Exploatare minieră din secolul al XIII-lea", "Sursă principală de argint în epoca medievală", "Extracție curentă de plumb și zinc", "Situată în apropierea râului Tara", "Proiect de redeschidere de 150 mil. euro", "Importanță istorică pentru moneda 'Grossi'"],
       en: ["Mining activity recorded since 1219", "Famous for medieval silver coinage", "Rich deposits of lead, zinc, and silver", "Located in the Mojkovac municipality", "Subject of large-scale modern investment", "Key industrial site in northern Montenegro"],
     },
+    image: "/poi-images/montenegro-mojkovac-mine-economic-v2.webp",
   },
   {
     id: "montenegro-podgorica-commerce-economic-v2",
@@ -928,5 +956,6 @@ export const montenegroEconomicV2: POI[] = [
       ro: ["Centrul are o înălțime maximă de 45 m.", "Construcția a durat 3 ani (2007-2010).", "Costul total al proiectului a fost de 40 de milioane de euro.", "Suprafața de birouri este de 35.000 mp.", "Parcarea are 1.500 de locuri.", "Numărul total de angajați este de 8.000."],
       en: ["The center was built on a former industrial site.", "It has 12 floors above ground and 2 underground.", "The complex includes a 500-seat conference center.", "Annual economic output is estimated at €100 million.", "Located 2 km from the city center.", "Certified LEED Gold for sustainability."],
     },
+    image: "/poi-images/montenegro-podgorica-commerce-economic-v2.webp",
   }
 ];

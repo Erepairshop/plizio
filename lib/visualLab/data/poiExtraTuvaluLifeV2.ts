@@ -31,6 +31,7 @@ export const tuvaluLifeV2: POI[] = [
       ro: ["Înființată în anul 1996", "Acoperă aproximativ 33 km pătrați", "Protejează șase insulițe nelocuite (motus)", "Habitat important pentru țestoasele marine", "Gestionată de Funafuti Kaupule", "Zonă centrală pentru monitorizarea marină"],
       en: ["Established in 1996", "Covers approximately 33 square kilometers", "Protects six uninhabited islets (motus)", "Crucial habitat for sea turtles and seabirds", "Managed by the Funafuti Kaupule (Town Council)", "A key area for marine biodiversity monitoring"],
     },
+    image: "/poi-images/tuvalu-funafuti-conservation-area-life-v2.webp",
   },
   {
     id: "tuvalu-tepuka-vili-vili-life-v2",
@@ -62,6 +63,7 @@ export const tuvaluLifeV2: POI[] = [
       ro: ["Face parte din Aria de Conservare Funafuti", "Aproape complet distrusă de ciclonul Pam (2015)", "Insuliță nelocuită (motu)", "Loc important pentru cercetarea impactului climatic", "Fost loc major de cuibărit pentru păsările marine", "Accesibilă doar cu barca din Funafuti"],
       en: ["Part of the Funafuti Conservation Area", "Nearly destroyed by Cyclone Pam in 2015", "An uninhabited islet known as a motu", "A significant site for climate impact research", "Formerly a major nesting ground for seabirds", "Only accessible by boat from Funafuti"],
     },
+    image: "/poi-images/tuvalu-tepuka-vili-vili-life-v2.webp",
   },
   {
     id: "tuvalu-fualopa-islet-life-v2",
@@ -93,6 +95,7 @@ export const tuvaluLifeV2: POI[] = [
       ro: ["Parte a zonei de conservare înființate în 1996", "Loc important de cuibărit pentru noddy negru", "Insulă nelocuită în vestul atolului Funafuti", "Păduri dominate de specia Pisonia grandis", "Accesul necesită autorizație de la Kaupule", "Recifele adăpostesc țestoase marine verzi"],
       en: ["Part of the conservation area established in 1996", "Critical nesting site for the Black Noddy", "Uninhabited islet on the west of Funafuti", "Dominated by Pisonia grandis forest", "Access requires a permit from the Kaupule", "Surrounding reefs host green sea turtles"],
     },
+    image: "/poi-images/tuvalu-fualopa-islet-life-v2.webp",
   },
   {
     id: "tuvalu-fuafatu-islet-life-v2",
@@ -124,6 +127,7 @@ export const tuvaluLifeV2: POI[] = [
       ro: ["Suprafață de aproximativ 0,02 km pătrați", "Cel mai vestic punct al atolului Funafuti", "Inclusă în Zona de Conservare Funafuti", "Protejată de un recif de corali foarte lat", "Reper istoric pentru navigația polineziană", "Locație pentru monitorizarea ecologică"],
       en: ["Area of approximately 0.02 square kilometers", "Westernmost point of Funafuti Atoll", "Included in the Funafuti Conservation Area", "Protected by a broad coral reef barrier", "Historical waypoint for Polynesian navigators", "Key site for ecological research and monitoring"],
     },
+    image: "/poi-images/tuvalu-fuafatu-islet-life-v2.webp",
   },
   {
     id: "tuvalu-vasafua-islet-life-v2",
@@ -155,6 +159,7 @@ export const tuvaluLifeV2: POI[] = [
       ro: ["Distrusă aproape complet de ciclonul Pam în 2015", "Redusă la stadiul unui banc de nisip îngust", "Inclusă în Zona de Conservare Funafuti", "Simbol global al efectelor schimbărilor climatice", "Loc de odihnă important pentru păsările migratoare", "Situată în sectorul sud-vestic al atolului"],
       en: ["Nearly destroyed by Cyclone Pam in 2015", "Reduced to a narrow, shifting sandbank", "Member of the Funafuti Conservation Area", "Global symbol for climate change impact", "Crucial resting site for migratory seabirds", "Located in the southwestern sector of Funafuti"],
     },
+    image: "/poi-images/tuvalu-vasafua-islet-life-v2.webp",
   },
   {
     id: "tuvalu-nanumea-mangroves-life-v2",
@@ -186,6 +191,7 @@ export const tuvaluLifeV2: POI[] = [
       ro: ["Una dintre puținele zone cu mangrove din Tuvalu", "Protejează coasta de eroziune și valuri de furtună", "Funcționează ca o creșă pentru peștii de lagună", "Compusă în principal din mangrove roșii", "Esențială pentru securitatea alimentară locală", "Centru de cercetare pentru stocarea carbonului"],
       en: ["One of the few significant mangrove areas in Tuvalu", "Protects the coastline from erosion and surges", "Serves as a critical nursery for lagoon fish", "Consists primarily of Red Mangrove species", "Vital for local community food security", "Site for carbon sequestration scientific research"],
     },
+    image: "/poi-images/tuvalu-nanumea-mangroves-life-v2.webp",
   },
   {
     id: "tuvalu-vaitupu-ponds-life-v2",
@@ -217,6 +223,7 @@ export const tuvaluLifeV2: POI[] = [
       ro: ["Denumirea locală a iazurilor este 'Lano'", "Centru principal pentru acvacultura peștelui-lapte", "Singurele corpuri de apă interioare majore din Tuvalu", "Rezervoare de apă pentru cultivarea pulaka", "Raritate geologică pe o insulă de corali", "Semnificație culturală în miturile locale"],
       en: ["Locally known as 'Lano' ponds", "Key center for traditional Milkfish aquaculture", "Only significant inland water bodies in Tuvalu", "Serve as reservoirs for swamp taro cultivation", "Geological rarity for a coral atoll environment", "Deeply embedded in local myths and folklore"],
     },
+    image: "/poi-images/tuvalu-vaitupu-ponds-life-v2.webp",
   },
   {
     id: "tuvalu-niulakita-forest-life-v2",
@@ -248,6 +255,7 @@ export const tuvaluLifeV2: POI[] = [
       ro: ["Cea mai sudică insulă a arhipelagului Tuvalu", "Găzduiește cel mai înalt punct din țară (4,6 m)", "Soluri foarte fertile pentru arborii de pâine", "Habitat esențial pentru crabul de cocos", "Cea mai densă pădure din întregul Tuvalu", "Oferă protecție naturală împotriva eroziunii"],
       en: ["Southernmost island of the Tuvalu archipelago", "Contains the nation's highest point (4.6 meters)", "Unusually fertile soil for breadfruit cultivation", "Significant habitat for the massive Coconut Crab", "Densest forest cover in all of Tuvalu", "Provides natural protection against coastal erosion"],
     },
+    image: "/poi-images/tuvalu-niulakita-forest-life-v2.webp",
   },
   {
     id: "tuvalu-nukulaelae-marine-zone-life-v2",
@@ -279,6 +287,7 @@ export const tuvaluLifeV2: POI[] = [
       ro: ["Cel mai estic atol al națiunii Tuvalu", "Acceptarea creștinismului în anul 1861", "Sistem tradițional 'Bulu' pentru pescuit", "Locuri importante de hrănire pentru țestoase", "Populații mari de pești pelagici", "Recife de corali reziliente la încălzirea apelor"],
       en: ["Easternmost atoll of the Tuvalu group", "Site of the first Christian mission in 1861", "Uses the traditional 'Bulu' management system", "Home to extensive seagrass foraging grounds", "Abundant in pelagic fish species like tuna", "Coral reefs show resilience to bleaching events"],
     },
+    image: "/poi-images/tuvalu-nukulaelae-marine-zone-life-v2.webp",
   },
   {
     id: "tuvalu-nukufetau-ecosystem-life-v2",
@@ -310,6 +319,7 @@ export const tuvaluLifeV2: POI[] = [
       ro: ["Formă de lagună aproape dreptunghiulară", "Fost port al Marinei SUA în al Doilea Război Mondial", "Cunoscută pentru stocurile mari de scoici gigant", "Dispune de un pasaj adânc navigabil în recif", "Una dintre cele mai productive zone de pescuit", "Adăpostește diverse specii de rechini și țestoase"],
       en: ["Distinctive rectangular lagoon shape", "Former US Navy anchorage during World War II", "Renowned for its giant Tridacna clam populations", "Features a deep, navigable natural reef pass", "One of Tuvalu's most productive fishing zones", "Home to diverse shark species and sea turtles"],
     },
+    image: "/poi-images/tuvalu-nukufetau-ecosystem-life-v2.webp",
   },
   {
     id: "tuvalu-nanumanga-coral-shelf-life-v2",
@@ -341,6 +351,7 @@ export const tuvaluLifeV2: POI[] = [
       ro: ["Peșteri subacvatice descoperite în 1986", "Dovezi ale prezenței umane din epoca glaciară", "Pereți de recif abrupți cu biodiversitate mare", "Nanumanga este o insulă închisă, fără lagună", "Legătură culturală cu legenda focului", "Specii de corali specializate în zone adânce"],
       en: ["Submerged caves discovered in 1986", "Evidence of prehistoric human habitation", "Steep vertical reef walls with high biodiversity", "Nanumanga is a reef island without a lagoon", "Culturally linked to legends of the origin of fire", "Home to specialized deep-water coral species"],
     },
+    image: "/poi-images/tuvalu-nanumanga-coral-shelf-life-v2.webp",
   },
   {
     id: "tuvalu-niutao-wetlands-life-v2",
@@ -372,6 +383,7 @@ export const tuvaluLifeV2: POI[] = [
       ro: ["Formată din două lacuri centrale cu apă salmastră", "Cel mai mare lac se numește local 'Te Namo'", "Centru important pentru cultivarea taro", "Filtru natural pentru apa dulce a insulei", "Habitat pentru insecte și păsări rare", "Loc cultural pentru spălări tradiționale"],
       en: ["Comprises two central brackish lagoons", "The largest lagoon is locally named 'Te Namo'", "Key area for traditional swamp taro farming", "Natural filter for the island's freshwater lens", "Sanctuary for rare insects and waterfowl", "Culturally significant for local community rituals"],
     },
+    image: "/poi-images/tuvalu-niutao-wetlands-life-v2.webp",
   },
   {
     id: "tuvalu-amatuku-marine-area-life-v2",
@@ -403,6 +415,7 @@ export const tuvaluLifeV2: POI[] = [
       ro: ["Sediul Institutului de Formare Maritimă din Tuvalu", "Centru de instruire pentru marinari din 1979", "Regiune model pentru protecția mediului marin", "Legătură directă între educație și natură", "Grădini de corali de coastă sănătoase", "Coridor important de migrație în lagună"],
       en: ["Home to the Tuvalu Maritime Training Institute", "Maritime education hub active since 1979", "Model region for marine environmental protection", "Direct link between vocational training and nature", "Hosts healthy near-shore coral reef gardens", "Vital migration corridor within Funafuti lagoon"],
     },
+    image: "/poi-images/tuvalu-amatuku-marine-area-life-v2.webp",
   },
   {
     id: "tuvalu-nui-marine-reserve-life-v2",
@@ -434,6 +447,7 @@ export const tuvaluLifeV2: POI[] = [
       ro: ["Protejează mediul marin din jurul Fenua Tapu", "Legătură lingvistică specială cu Kiribati", "Conservarea diversității genetice a coralilor", "Populații importante de pești grouper", "Structuri complexe de recif cu peșteri", "Gestionare comunitară a zonelor protejate"],
       en: ["Protects marine life around Fenua Tapu", "Unique linguistic link to the Gilbertese language", "Preserves genetic diversity of coral species", "Home to large populations of snappers and groupers", "Features complex reef topography with caves", "Managed through community-led conservation zones"],
     },
+    image: "/poi-images/tuvalu-nui-marine-reserve-life-v2.webp",
   },
   {
     id: "tuvalu-motugatau-bird-sanctuary-life-v2",
@@ -465,5 +479,6 @@ export const tuvaluLifeV2: POI[] = [
       ro: ["Loc central de cuibărit pentru rândunica de mare", "Parte a zonei protejate declarate în 1996", "Lipsită de rozătoare invazive (fără șobolani)", "Situată în sudul lagunei Funafuti", "Locație de cercetare pentru ornitologia din Pacific", "Înconjurată de recife bogate în nutrienți"],
       en: ["Principal nesting ground for the White Tern", "Integral part of the 1996 conservation area", "Strictly maintained as a rat-free environment", "Located in the southern Funafuti lagoon", "Research site for Pacific seabird ornithology", "Fringed by nutrient-rich shallow reef flats"],
     },
+    image: "/poi-images/tuvalu-motugatau-bird-sanctuary-life-v2.webp",
   }
 ];

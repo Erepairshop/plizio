@@ -31,6 +31,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
       ro: ["Durata construcției: 10 ani (1887-1897)", "Arhitect: Proiectată de Labulle", "Material: Piatră din cariere locale", "Turnuri: Două turnuri clopotniță pătrate", "Locație: Lângă Piața Primăriei", "Statut: Monument istoric din 1992"],
       en: ["Construction time: 10 years (1887-1897)", "Architect: Designed by Labulle", "Material: Stone from local quarries", "Towers: Features two square bell towers", "Location: Near Place de l'Hôtel de Ville", "Status: Monument historique since 1992"],
     },
+    image: "/poi-images/newcaledonia-st-joseph-cathedral-landmarks-v2.webp",
   },
   {
     id: "newcaledonia-tjibaou-cultural-centre-landmarks-v2",
@@ -62,6 +63,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
       ro: ["Inaugurare: Iunie 1998", "Arhitect: Renzo Piano", "Număr pavilioane: 10 structuri", "Suprafață: Aproximativ 8 hectare", "Nume: După liderul Jean-Marie Tjibaou", "Materiale: Lemn, oțel și sticlă"],
       en: ["Opened: June 1998", "Architect: Renzo Piano", "Number of 'cases': 10 pavilions", "Site area: Approximately 8 hectares", "Namesake: Jean-Marie Tjibaou", "Materials: Iroko wood, steel, and glass"],
     },
+    image: "/poi-images/newcaledonia-tjibaou-cultural-centre-landmarks-v2.webp",
   },
   {
     id: "newcaledonia-mouli-bridge-landmarks-v2",
@@ -93,6 +95,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
       ro: ["Anul construcției: 1982", "Locație: Atolul Ouvéa", "Traversare: Canal între lagună și ocean", "Observații: Rechini și pisici de mare vizibile", "Lungime: Aproximativ 120 metri", "Importanță: Singura legătură rutieră spre Mouli"],
       en: ["Year of completion: 1982", "Location: Ouvéa Atoll", "Crossing: Spans a channel to the lagoon", "Wildlife: Known for shark and ray sightings", "Length: Approximately 120 meters", "Connectivity: Only road link to Mouli island"],
     },
+    image: "/poi-images/newcaledonia-mouli-bridge-landmarks-v2.webp",
   },
   {
     id: "newcaledonia-noumea-city-hall-landmarks-v2",
@@ -124,6 +127,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
       ro: ["Anul construcției: 1874-1875", "Utilizare inițială: Banca Noii Caledonii", "Locație: Piața Cocotierilor", "Stil arhitectural: Clasicism colonial", "Renovare: Lucrări majore în secolul XX", "Funcție: Sediul primarului"],
       en: ["Construction: 1874–1875", "Original use: Bank of New Caledonia", "Location: Place des Cocotiers", "Architectural style: Colonial Neoclassicism", "Renovation: Extensive 20th-century updates", "Function: Mayor's office and administration"],
     },
+    image: "/poi-images/newcaledonia-noumea-city-hall-landmarks-v2.webp",
   },
   {
     id: "newcaledonia-prony-penal-ruins-landmarks-v2",
@@ -155,6 +159,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
       ro: ["Anul fondării: 1867", "Locație: Golful Prony", "Închiderea coloniei: Anul 1911", "Activitate principală: Exploatare forestieră", "Materiale: Piatră locală și cărămidă", "Accesibilitate: Traseu turistic și istoric"],
       en: ["Founding year: 1867", "Location: Baie de Prony", "Year of closure: 1911", "Primary activity: Logging and mining", "Materials: Local stone and brickwork", "Current status: Historical and hiking site"],
     },
+    image: "/poi-images/newcaledonia-prony-penal-ruins-landmarks-v2.webp",
   },
   {
     id: "newcaledonia-prison-ile-des-pins-landmarks-v2",
@@ -186,6 +191,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
       ro: ["Sosirea comunarzilor: Din 1872", "Număr de deținuți: Câteva mii", "Locație: Lângă localitatea Vao", "Materiale: Calcar coralier și mortar", "Închidere: Sfârșitul secolului XIX", "Statut: Ruine istorice protejate"],
       en: ["Arrival of Communards: Starting 1872", "Convict population: Several thousand", "Location: Near the village of Vao", "Construction: Coral limestone and mortar", "Closure: Late 19th century", "Significance: Political prison site"],
     },
+    image: "/poi-images/newcaledonia-prison-ile-des-pins-landmarks-v2.webp",
   },
   {
     id: "newcaledonia-hienghene-church-landmarks-v2",
@@ -217,6 +223,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
       ro: ["Locație: Provincia Nord, Hienghène", "Perioada: Sfârșitul secolului XIX", "Confesiune: Romano-catolică", "Stil: Arhitectură misionară colonială", "Context: Aproape de stâncile de calcar", "Funcție: Centru parohial local"],
       en: ["Location: North Province, Hienghène", "Built: Late 19th century", "Denomination: Roman Catholic", "Style: Colonial missionary architecture", "Setting: Near the famous limestone cliffs", "Role: Parish center for the community"],
     },
+    image: "/poi-images/newcaledonia-hienghene-church-landmarks-v2.webp",
   },
   {
     id: "newcaledonia-tye-mission-church-landmarks-v2",
@@ -248,6 +255,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
       ro: ["Anul fondării: 1860", "Locație: Lângă Poindimié", "Caracteristică: Cunoscută pentru sculpturi în lemn", "Educație: Fostă școală misionară atașată", "Materiale: Piatră și lemn tropical", "Statut: Patrimoniu istoric provincial"],
       en: ["Founding year: 1860", "Location: Near Poindimié", "Feature: Known for ornate wood carvings", "History: Former missionary school site", "Materials: Stone and tropical timber", "Status: Provincial historical heritage"],
     },
+    image: "/poi-images/newcaledonia-tye-mission-church-landmarks-v2.webp",
   },
   {
     id: "newcaledonia-balade-mission-church-landmarks-v2",
@@ -279,6 +287,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
       ro: ["Prima misiune: Fondată la 21 decembrie 1843", "Descoperire europeană: James Cook a debarcat în 1774", "Locație: Coasta de nord-est a insulei", "Monument: Piatră comemorativă pentru misionari", "Relicve: Adăpostește mormintele primilor preoți", "Semnificație: Locul de naștere al catolicismului local"],
       en: ["First mission: Founded December 21, 1843", "European contact: James Cook landed in 1774", "Location: Northeast coast of Grande Terre", "Monument: Memorial to the early missionaries", "Burials: Contains graves of pioneer priests", "Significance: Birthplace of local Catholicism"],
     },
+    image: "/poi-images/newcaledonia-balade-mission-church-landmarks-v2.webp",
   },
   {
     id: "newcaledonia-tadine-church-landmarks-v2",
@@ -310,6 +319,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
       ro: ["Locație: Insula Maré, localitatea Tadine", "Materiale: Piatră de corali și calcar", "Importanță: Centrul comunității catolice", "Context: Lângă portul din Tadine", "Arhitectură: Stil colonial simplu", "Rol: Principal punct de întâlnire pe insulă"],
       en: ["Location: Tadine village, Maré Island", "Materials: Coral stone and lime", "Importance: Hub for the Catholic community", "Proximity: Near Tadine's main harbor", "Architecture: Simple colonial design", "Social role: Main gathering place on the island"],
     },
+    image: "/poi-images/newcaledonia-tadine-church-landmarks-v2.webp",
   },
   {
     id: "newcaledonia-we-church-landmarks-v2",
@@ -341,6 +351,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
       ro: ["Biserica se află în satul Wé de pe insula Lifou.", "Lifou este cea mai mare dintre cele patru Insule ale Loialității.", "Clădirea a fost construită în perioada misiunilor catolice.", "Wé este sediul administrativ al provinciei Insulelor Loialității.", "Arhitectura combină materiale locale cu tehnici europene.", "Biserica este dedicată Sfântului Petru."],
       en: ["The church is located in Wé village on Lifou Island.", "Lifou is the largest of the four Loyalty Islands.", "The building was constructed during the era of Catholic missions.", "Wé is the administrative seat of the Loyalty Islands province.", "The architecture combines local materials with European techniques.", "The church is dedicated to Saint Peter."],
     },
+    image: "/poi-images/newcaledonia-we-church-landmarks-v2.webp",
   },
   {
     id: "newcaledonia-kiosque-musique-landmarks-v2",
@@ -372,6 +383,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
       ro: ["Chioșcul a fost inaugurat la 13 iulie 1879.", "Se află în centrul Pieței Cocotierilor.", "Structura este realizată în principal din fontă.", "A fost prefabricat în Franța și expediat la Nouméa cu nava.", "Pavilionul este un punct central al vieții sociale urbane.", "A fost restaurat de mai multe ori conform planurilor originale."],
       en: ["The bandstand was inaugurated on July 13, 1879.", "It is located in the central Place des Cocotiers.", "The structure is primarily made of cast iron.", "It was prefabricated in France and shipped to Nouméa.", "The pavilion is a central point of urban social life.", "It has been restored several times over the years to its original state."],
     },
+    image: "/poi-images/newcaledonia-kiosque-musique-landmarks-v2.webp",
   },
   {
     id: "newcaledonia-celeste-fountain-landmarks-v2",
@@ -403,6 +415,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
       ro: ["Fântâna a fost inaugurată la 2 iulie 1893.", "A fost proiectată de sculptorul Jean-Baptiste-Victor-Léonard Mahuet.", "Monumentul celebrează finalizarea conductei de apă de la Yahoué.", "Sculptura este realizată din marmură albă.", "Fântâna se află în scuarul Feillet.", "Este numită după fiica primarului de la acea vreme."],
       en: ["The fountain was inaugurated on July 2, 1893.", "It was designed by sculptor Jean-Baptiste-Victor-Léonard Mahuet.", "The monument celebrates the completion of the water pipe from Yahoué.", "The sculpture is made of white marble.", "The fountain is situated in Square Feillet.", "It is named after the daughter of the mayor at the time."],
     },
+    image: "/poi-images/newcaledonia-celeste-fountain-landmarks-v2.webp",
   },
   {
     id: "newcaledonia-monument-to-the-dead-landmarks-v2",
@@ -434,6 +447,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
       ro: ["Monumentul a fost inaugurat la 24 mai 1924.", "Onorează soldații din Primul Război Mondial.", "Ulterior, au fost adăugate și numele celor căzuți în Al Doilea Război Mondial.", "Se află pe bulevardul Avenue de la Victoire.", "Monumentul prezintă o statuie alegorică din bronz a Victoriei.", "Anual, pe 11 noiembrie, are loc aici o ceremonie."],
       en: ["The monument was inaugurated on May 24, 1924.", "It honors soldiers from the First World War.", "Names of those fallen in World War II were added later.", "It is located on Avenue de la Victoire.", "The memorial features an allegorical bronze statue of Victory.", "A ceremony is held here every year on November 11th."],
     },
+    image: "/poi-images/newcaledonia-monument-to-the-dead-landmarks-v2.webp",
   },
   {
     id: "newcaledonia-olry-statue-landmarks-v2",
@@ -465,6 +479,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
       ro: ["Amiralul Jean-Baptiste Olry a fost ofițer de marină și guvernator.", "Statuia a fost amplasată în Piața Cocotierilor în 1897.", "A fost creată de sculptorul Denys Puech.", "Olry a condus operațiunile militare împotriva revoltei din 1878.", "Monumentul face parte din traseul istoric din Nouméa.", "În 2021, au existat dezbateri privind eliminarea sau recontextualizarea monumentului."],
       en: ["Admiral Jean-Baptiste Olry was a naval officer and governor.", "The statue was erected in Place des Cocotiers in 1897.", "It was created by the sculptor Denys Puech.", "Olry led the military operations against the 1878 revolt.", "The monument is part of the historical heritage tour in Nouméa.", "In 2021, there were debates regarding the removal or redesign of the monument."],
     },
+    image: "/poi-images/newcaledonia-olry-statue-landmarks-v2.webp",
   },
   {
     id: "newcaledonia-theatre-ile-landmarks-v2",
@@ -496,6 +511,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
       ro: ["Clădirea a fost construită între 1875 și 1880.", "Inițial a fost depozitul de provizii al coloniei penale.", "Transformarea în teatru a avut loc în anii 1970.", "A fost inaugurat oficial ca teatru la 12 mai 1970.", "Clădirea este clasificată ca monument istoric din 1975.", "Capacitatea teatrului este de aproximativ 350 de locuri."],
       en: ["The building was constructed between 1875 and 1880.", "It was originally the provisioning warehouse of the penal colony.", "The conversion into a theater took place in the 1970s.", "It was officially opened as a theater on May 12, 1970.", "The building has been classified as a historical monument since 1975.", "The theater has a seating capacity of approximately 350 people."],
     },
+    image: "/poi-images/newcaledonia-theatre-ile-landmarks-v2.webp",
   },
   {
     id: "newcaledonia-paita-railway-station-landmarks-v2",
@@ -527,6 +543,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
       ro: ["Linia de cale ferată Nouméa-Païta avea o lungime de 29 de kilometri.", "Operațiunile au început în decembrie 1904.", "Trenurile erau numite \"Petit Train\" din cauza vitezei lor reduse.", "Linia a fost închisă oficial la 1 ianuarie 1940.", "Un vagon restaurat este expus la Muzeul din Nouméa.", "Călătoria de la Nouméa la Païta dura aproximativ o oră și jumătate la acea vreme."],
       en: ["The Nouméa-Païta railway line was 29 kilometers long.", "Operations began in December 1904.", "The trains were nicknamed the \"Petit Train\" due to their low speed.", "The line was officially closed on January 1, 1940.", "A restored carriage is on display at the Museum of Nouméa.", "The journey from Nouméa to Païta took about an hour and a half back then."],
     },
+    image: "/poi-images/newcaledonia-paita-railway-station-landmarks-v2.webp",
   },
   {
     id: "newcaledonia-villa-saint-louis-landmarks-v2",
@@ -558,6 +575,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
       ro: ["Saint-Louis a fost fondată ca stațiune misionară în 1856.", "Vila a fost construită din piatră de var locală.", "Este situată în inima fostelor plantații ale misiunii.", "Clădirea a servit uneori ca locuință pentru episcopi.", "În apropiere se află biserica istorică a misiunii din 1860.", "Vila face parte din una dintre cele mai vechi exploatații agricole de pe insulă."],
       en: ["Saint-Louis was founded as a mission station in 1856.", "The villa was constructed using local limestone.", "It is located in the heart of the mission's former plantations.", "The building occasionally served as housing for bishops.", "The historic mission church from 1860 is located nearby.", "The villa is part of one of the oldest agricultural operations on the island."],
     },
+    image: "/poi-images/newcaledonia-villa-saint-louis-landmarks-v2.webp",
   },
   {
     id: "newcaledonia-laperouse-monument-landmarks-v2",
@@ -589,6 +607,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
       ro: ["Lapérouse a părăsit Brest în 1785 cu două nave.", "Expediția a dispărut după părăsirea Golfului Botany în 1788.", "Epava navelor sale a fost descoperită abia în 1826 la Vanikoro.", "Monumentul din Nouméa a fost ridicat în secolul al XIX-lea.", "Se află în apropierea Muzeului de Istorie Maritimă.", "Lapérouse a fost considerat unul dintre cei mai capabili navigatori ai timpului său."],
       en: ["Lapérouse left Brest in 1785 with two ships.", "The expedition disappeared after leaving Botany Bay in 1788.", "The wreck of his ships was only discovered in 1826 near Vanikoro.", "The monument in Nouméa was erected in the 19th century.", "It is located near the Maritime History Museum.", "Lapérouse was considered one of the most capable navigators of his time."],
     },
+    image: "/poi-images/newcaledonia-laperouse-monument-landmarks-v2.webp",
   },
   {
     id: "newcaledonia-free-france-monument-landmarks-v2",
@@ -620,6 +639,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
       ro: ["Noua Caledonie s-a alăturat Franței Libere la 19 septembrie 1940.", "Monumentul are forma unei mari Cruci de Lorena.", "Se află pe dealul Mont Vénus.", "Inaugurarea a avut loc în anul 1973.", "Onorează voluntarii Batalionului din Pacific.", "Crucea este iluminată noaptea și vizibilă de la distanță."],
       en: ["New Caledonia joined Free France on September 19, 1940.", "The monument is shaped like a large Cross of Lorraine.", "It is located on the Mont Vénus hill.", "The inauguration took place in 1973.", "It honors the volunteers of the Pacific Battalion.", "The cross is illuminated at night and visible from afar."],
     },
+    image: "/poi-images/newcaledonia-free-france-monument-landmarks-v2.webp",
   },
   {
     id: "newcaledonia-centenary-monument-landmarks-v2",
@@ -651,6 +671,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
       ro: ["Franța a luat în posesie insula la 24 septembrie 1853.", "Monumentul a fost inaugurat exact 100 de ani mai târziu, în 1953.", "Se află în zona Baie de l'Orphelinat.", "Amiralul Febvrier-Despointes a arborat tricolorul la Balade în acea perioadă.", "Arhitectura monumentului este realizată în stilul anilor 1950.", "Este un loc de întâlnire pentru ceremoniile oficiale din 24 septembrie."],
       en: ["France took possession of the island on September 24, 1853.", "The monument was inaugurated exactly 100 years later, in 1953.", "It is located at the Baie de l'Orphelinat.", "Admiral Febvrier-Despointes raised the tricolor in Balade at that time.", "The architecture of the monument is in the 1950s style.", "It is a gathering point for official ceremonies on September 24th."],
     },
+    image: "/poi-images/newcaledonia-centenary-monument-landmarks-v2.webp",
   },
   {
     id: "newcaledonia-gaston-bourret-hospital-landmarks-v2",
@@ -682,6 +703,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
       ro: ["Dr. Gaston Bourret a murit de ciumă în 1906.", "Spitalul a fost construit pe locul unui fost spital militar.", "Se află pe bulevardul Boulevard Vauban.", "Designul în sistem pavilioane a fost menit să prevină răspândirea infecțiilor.", "Clădirea a fost reutilizată după deschiderea noului centru Médipôle.", "Părți din complex sunt astăzi clasificate ca monumente istorice."],
       en: ["Dr. Gaston Bourret died of the plague in 1906.", "The hospital was built on the site of a former military hospital.", "It is located on Boulevard Vauban.", "The pavilion layout was intended to prevent the spread of infections.", "The building was repurposed after the opening of the new Médipôle.", "Parts of the complex are now protected as historical monuments."],
     },
+    image: "/poi-images/newcaledonia-gaston-bourret-hospital-landmarks-v2.webp",
   },
   {
     id: "newcaledonia-tabu-lighthouse-landmarks-v2",
@@ -713,6 +735,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
       ro: ["Farul a fost construit pentru a ghida navele spre portul Nouméa.", "Este situat pe reciful Tabu, în largul coastei.", "Structura este o construcție din fontă.", "Laguna Noii Caledonii este al doilea cel mai mare recif de corali din lume.", "Farul este astăzi automatizat.", "Este vizibil din Nouméa în zilele cu cer senin."],
       en: ["The lighthouse was built to guide ships toward the port of Nouméa.", "It is situated on the Tabu reef off the coast.", "The structure is a cast-iron construction.", "The New Caledonian lagoon is the world's second-largest coral reef.", "The lighthouse is now automated.", "It is visible from Nouméa on clear days."],
     },
+    image: "/poi-images/newcaledonia-tabu-lighthouse-landmarks-v2.webp",
   },
   {
     id: "newcaledonia-signal-islet-lighthouse-landmarks-v2",
@@ -744,6 +767,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
       ro: ["Farul are o înălțime de aproximativ 10 metri.", "Structura a fost construită din piatră de var coralifer.", "Insula a servit anterior ca stație de semnalizare pentru navele sosite.", "A fost pus în funcțiune în 1883.", "Îlot Signal face parte din aria marină protejată a lagunei.", "Insula este situată la aproximativ 15 kilometri vest de Nouméa."],
       en: ["The lighthouse is approximately 10 meters tall.", "The structure was built using coral limestone.", "The island formerly served as a signaling station for arriving ships.", "It was put into operation in 1883.", "Signal Islet is part of the lagoon's marine protected area.", "The island is located about 15 kilometers west of Nouméa."],
     },
+    image: "/poi-images/newcaledonia-signal-islet-lighthouse-landmarks-v2.webp",
   },
   {
     id: "newcaledonia-cap-ndua-lighthouse-landmarks-v2",
@@ -775,6 +799,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
       ro: ["Cap N'Dua face parte dintr-o rezervație naturală.", "Farul original a fost construit încă din 1892.", "Locația se află la aproximativ 60 de kilometri sud de Nouméa.", "De aici pot fi observate balenele cu cocoașă în lagună.", "Capul marchează tranziția dintre lagună și oceanul deschis.", "Este un loc popular pentru ecoturism și drumeții."],
       en: ["Cap N'Dua is part of a nature reserve.", "The original lighthouse was built as early as 1892.", "The site is located about 60 kilometers south of Nouméa.", "Humpback whales can be observed in the lagoon from here.", "The cape marks the transition between the lagoon and the open ocean.", "It is a popular spot for ecotourism and hiking."],
     },
+    image: "/poi-images/newcaledonia-cap-ndua-lighthouse-landmarks-v2.webp",
   },
   {
     id: "newcaledonia-joun-lighthouse-landmarks-v2",
@@ -806,6 +831,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
       ro: ["Construit și dat în folosință în anul 1906", "Situat la Cap de Joun, pe insula Lifou", "A fost complet automatizat în anul 1960", "Înălțimea turnului este de aproximativ 15 metri", "Ghidează navele în zona Golfului Santal", "Este una dintre cele mai vechi structuri maritime"],
       en: ["Commissioned and built in the year 1906", "Located at Cap de Joun on Lifou Island", "Fully automated in 1960 for safety", "The tower height is approximately 15 meters", "Guides navigation within the Santal Bay area", "One of the oldest maritime structures in the region"],
     },
+    image: "/poi-images/newcaledonia-joun-lighthouse-landmarks-v2.webp",
   },
   {
     id: "newcaledonia-easo-church-landmarks-v2",
@@ -837,6 +863,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
       ro: ["Construită în anul 1898", "Pereții sunt realizați din piatră de corali", "Aparține de Dieceza de Nouméa", "Situată în apropierea falezelor Jokin", "Deține vitralii istorice originale", "Reprezintă centrul comunității catolice din Easo"],
       en: ["Constructed in the year 1898", "Built using local coral stone masonry", "Part of the Roman Catholic Diocese of Nouméa", "Located near the scenic cliffs of Jokin", "Features original historical stained glass windows", "Serves as the center for the Easo Catholic community"],
     },
+    image: "/poi-images/newcaledonia-easo-church-landmarks-v2.webp",
   },
   {
     id: "newcaledonia-saint-gabriel-church-landmarks-v2",
@@ -868,6 +895,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
       ro: ["Sfințită în anul 1894", "Cea mai mare biserică de pe insula Ouvéa", "Ridicată din piatră fasonată manual", "Situată în districtul Saint-Joseph", "Restaurată complet în anul 2005", "Cunoscută pentru acustica sa deosebită"],
       en: ["Consecrated in the year 1894", "Largest church building on Ouvéa Island", "Built using hand-carved stone blocks", "Located in the Saint-Joseph district", "Underwent extensive restoration in 2005", "Renowned for its excellent interior acoustics"],
     },
+    image: "/poi-images/newcaledonia-saint-gabriel-church-landmarks-v2.webp",
   },
   {
     id: "newcaledonia-poum-church-landmarks-v2",
@@ -899,6 +927,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
       ro: ["Situată în comuna Poum", "Are o fațadă albă caracteristică", "Oferă vedere spre laguna din nord", "Renovată de mai multe ori după ciclone", "Centru pentru festivalurile religioase locale", "Interiorul folosește elemente tradiționale din lemn"],
       en: ["Located in the municipality of Poum", "Features a characteristic white facade", "Overlooks the northern lagoon waters", "Renovated several times after cyclone damage", "Center for local religious festivals", "Uses traditional wooden elements in its interior"],
     },
+    image: "/poi-images/newcaledonia-poum-church-landmarks-v2.webp",
   },
   {
     id: "newcaledonia-kone-city-hall-landmarks-v2",
@@ -930,6 +959,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
       ro: ["Sediu administrativ al Provinciei de Nord", "Situată în apropierea câmpiei Voh", "Arhitectură în stil modern târziu", "Centru al dezvoltării economice din nord", "Găzduiește biroul primarului local", "Punct cheie pe ruta principală RT1"],
       en: ["Administrative seat of the North Province", "Located near the Voh plains", "Features late modern architectural style", "Center of economic development in the north", "Houses the office of the local mayor", "Key point along the RT1 main road axis"],
     },
+    image: "/poi-images/newcaledonia-kone-city-hall-landmarks-v2.webp",
   },
   {
     id: "newcaledonia-bourail-museum-landmarks-v2",
@@ -961,6 +991,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
       ro: ["Clădire construită în anul 1870", "Inițial a servit ca depozit al închisorii", "Monument istoric protejat din 1980", "Expune o replică a ghilotinei folosite", "Colecție vastă despre istoria condamnaților", "Situat în centrul localității Bourail"],
       en: ["Building constructed in 1870", "Originally a granary for the penal colony", "Protected historic monument since 1980", "Displays a replica of the guillotine", "Extensive collection on convict history", "Located in the center of Bourail town"],
     },
+    image: "/poi-images/newcaledonia-bourail-museum-landmarks-v2.webp",
   },
   {
     id: "newcaledonia-moindou-post-office-landmarks-v2",
@@ -992,6 +1023,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
       ro: ["Construit în anii 1880", "Oprire cheie pe prima linie de telegraf", "Construcție mixtă din piatră și lemn", "Restaurat la sfârșitul secolului XX", "Parte a traseului istoric din Moindou", "A servit ca punct de întâlnire pentru coloniști"],
       en: ["Constructed in the 1880s", "Key stop on the first telegraph line", "Built using stone and wood materials", "Restored in the late 20th century", "Part of the historical Moindou trail", "Served as a meeting point for settlers"],
     },
+    image: "/poi-images/newcaledonia-moindou-post-office-landmarks-v2.webp",
   },
   {
     id: "newcaledonia-koumac-church-landmarks-v2",
@@ -1023,6 +1055,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
       ro: ["Construită la mijlocul secolului XX", "Dedicată Sfântului Ioan Botezătorul", "Centrul parohiei catolice din Koumac", "Adăpostește lucrări de artă religioasă modernă", "Loc important pentru pelerinaje regionale", "Situată în apropierea peșterilor Koumac"],
       en: ["Built in the mid-20th century", "Dedicated to Saint John the Baptist", "Center of the Koumac Catholic parish", "Features modern religious artworks", "Important site for regional pilgrimages", "Located near the Koumac caves"],
     },
+    image: "/poi-images/newcaledonia-koumac-church-landmarks-v2.webp",
   },
   {
     id: "newcaledonia-artillerie-bridge-landmarks-v2",
@@ -1054,6 +1087,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
       ro: ["Construit la începutul secolului XX", "Structură din oțel nituit", "Conectează centrul orașului cu zona de sud", "Punct strategic pentru controlul portuar", "Reabilitat complet în anul 2012", "Parte a zonei militare istorice"],
       en: ["Built at the start of the 20th century", "Constructed using riveted steel", "Links the city center with the south", "Key point for maritime traffic monitoring", "Underwent major renovation in 2012", "Part of the historic military zone"],
     },
+    image: "/poi-images/newcaledonia-artillerie-bridge-landmarks-v2.webp",
   },
   {
     id: "newcaledonia-tindu-lazaret-ruins-landmarks-v2",
@@ -1085,6 +1119,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
       ro: ["Construit în anul 1883", "Inițial carantină pentru muncitori imigranți", "Folosit ca leprozerie începând cu 1913", "Ridicat din calcar coralier local", "Situat pe peninsula Ducos", "Astăzi este sit arheologic protejat"],
       en: ["Constructed in the year 1883", "Originally a quarantine for indentured laborers", "Used as a leprosarium starting in 1913", "Built using local coral limestone", "Located on the Ducos Peninsula", "Now a protected archaeological site"],
     },
+    image: "/poi-images/newcaledonia-tindu-lazaret-ruins-landmarks-v2.webp",
   },
   {
     id: "newcaledonia-saint-louis-mission-school-landmarks-v2",
@@ -1116,6 +1151,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
       ro: ["Misiune fondată în anul 1856", "Unul dintre primele centre de învățământ", "Arhitectură din piatră brută locală", "Preda agricultura și meșteșugurile", "Situată în comuna Le Mont-Dore", "Loc crucial pentru identitatea culturală"],
       en: ["Mission founded in the year 1856", "One of the first educational sites on the island", "Architecture features local quarry stone", "Taught agriculture and various trades", "Located in the municipality of Le Mont-Dore", "Important site for local cultural identity"],
     },
+    image: "/poi-images/newcaledonia-saint-louis-mission-school-landmarks-v2.webp",
   },
   {
     id: "newcaledonia-immaculate-conception-church-landmarks-v2",
@@ -1147,6 +1183,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
       ro: ["Sfințită la 16 august 1874", "Situată în cartierul Robinson", "Înălțimea turului este de 15 metri", "Loc de pelerinaj din anul 1875", "Construită de fratele Jean Marmoiton", "Cunoscută pentru 'fântâna miraculoasă' vecină"],
       en: ["Consecrated on August 16, 1874", "Located in the Robinson district", "The church spire stands 15 meters tall", "A site of pilgrimage since 1875", "Built by Brother Jean Marmoiton", "Famous for the 'miracle well' located nearby"],
     },
+    image: "/poi-images/newcaledonia-immaculate-conception-church-landmarks-v2.webp",
   },
   {
     id: "newcaledonia-notre-dame-des-flots-landmarks-v2",
@@ -1178,6 +1215,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
       ro: ["Ridicată la sfârșitul secolului XIX", "Situată deasupra localității Easo", "Destinație pentru pelerinajul anual", "Oferă o vedere de 180 de grade spre golf", "Simbol de protecție pentru pescarii locali", "Accesibilă printr-o potecă abruptă"],
       en: ["Erected in the late 19th century", "Located above the village of Easo", "Destination for an annual pilgrimage", "Offers a 180-degree view of the bay", "Symbol of protection for local fisheries", "Accessible via a steep walking path"],
     },
+    image: "/poi-images/newcaledonia-notre-dame-des-flots-landmarks-v2.webp",
   },
   {
     id: "newcaledonia-ponerihouen-church-landmarks-v2",
@@ -1209,6 +1247,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
       ro: ["Fondată la sfârșitul secolului XIX", "Centrul misiunii catolice de pe coasta de est", "Arhitectură cu influențe neogotice", "Restaurată după daune provocate de ciclone", "Situată aproape de râul Ponérihouen", "Cunoscută pentru grădinile de cafea din jur"],
       en: ["Founded in the late 19th century", "Center of the east coast Catholic mission", "Architecture shows neo-Gothic influences", "Restored after significant cyclone damage", "Located near the Ponérihouen River", "Known for the surrounding coffee gardens"],
     },
+    image: "/poi-images/newcaledonia-ponerihouen-church-landmarks-v2.webp",
   },
   {
     id: "newcaledonia-chateau-hagen-landmarks-v2",
@@ -1240,6 +1279,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
       ro: ["Construit între anii 1889 și 1892", "Inițial locuința familiei Hagen", "Fostă reședință a Guvernatorului General", "Clasificat ca monument istoric în 1991", "Înconjurat de un parc botanic vast", "Situat în cartierul Vallée des Colons"],
       en: ["Built between 1889 and 1892", "Originally the home of the Hagen family", "Formerly used as the Governor's residence", "Classified as a historic monument in 1991", "Surrounded by a scenic botanical park", "Located in the Vallée des Colons district"],
     },
+    image: "/poi-images/newcaledonia-chateau-hagen-landmarks-v2.webp",
   },
   {
     id: "newcaledonia-museum-new-caledonia-landmarks-v2",
@@ -1271,6 +1311,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
       ro: ["Fondat în 1971 pentru a proteja patrimoniul local.", "Adăpostește peste 5.000 de obiecte etnografice inventariate.", "Deține una dintre cele mai mari colecții de artă Kanak din lume.", "Include secțiuni dedicate navigației tradiționale polineziene.", "Situat strategic în apropierea portului Moselle din Nouméa.", "Organizează ateliere periodice de sculptură tradițională."],
       en: ["Established in 1971 to promote and preserve local culture.", "Houses over 5,000 cataloged ethnographic objects.", "Contains one of the world's most significant Kanak art collections.", "Features a specialized section on traditional maritime history.", "Located in central Nouméa near the Port Moselle area.", "Serves as a primary research center for regional archaeology."],
     },
+    image: "/poi-images/newcaledonia-museum-new-caledonia-landmarks-v2.webp",
   },
   {
     id: "newcaledonia-old-market-noumea-landmarks-v2",
@@ -1302,6 +1343,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
       ro: ["Deschisă zilnic, cu excepția zilei de luni, de la ora 5 dimineața.", "Complexul este format din cinci pavilioane circulare distincte.", "Secțiunea de pește primește marfă direct de la pescarii locali.", "Este renumită pentru vanilia adusă din Insulele Loialității.", "Duminica este cea mai aglomerată zi, cu spectacole live.", "Piața este principalul nod pentru comerțul cu flori tropicale."],
       en: ["Open daily except Mondays from early morning until noon.", "The complex consists of five specialized circular pavilions.", "The seafood section is supplied directly by local fishermen.", "Famous for selling high-quality vanilla from the Loyalty Islands.", "Sundays often feature live music and local performances.", "A key location for purchasing authentic Kanak handicrafts."],
     },
+    image: "/poi-images/newcaledonia-old-market-noumea-landmarks-v2.webp",
   },
   {
     id: "newcaledonia-noumea-semaphore-landmarks-v2",
@@ -1333,6 +1375,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
       ro: ["Construit în secolul al XIX-lea pentru comunicații navale.", "Situat pe vârful dealului Mont Coffyn din Nouméa.", "A servit ca post de observație în timpul celui de-al Doilea Război Mondial.", "Structura păstrează elemente arhitecturale originale restaurate.", "Accesibil prin mai multe trasee de drumeție urbane.", "Oferă vederi panoramice de 360 de grade asupra lagunei."],
       en: ["Built in the 19th century for maritime visual signaling.", "Located atop Signal Hill, also known as Mont Coffyn.", "Used as an observation post during World War II.", "The structure has been partially restored for visitors.", "Accessible via walking trails from the lower city areas.", "Offers 360-degree views over the Nouméa lagoon."],
     },
+    image: "/poi-images/newcaledonia-noumea-semaphore-landmarks-v2.webp",
   },
   {
     id: "newcaledonia-saint-gabriel-canala-landmarks-v2",
@@ -1364,6 +1407,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
       ro: ["Misiunea a fost stabilită oficial în anul 1858.", "Biserica este dedicată Sfântului Arhanghel Gabriel.", "Reprezintă un amestec de arhitectură colonială și materiale locale.", "Include o casă parohială veche și foste clădiri școlare.", "Situată într-un cadru natural spectaculos, la poalele munților.", "Este un simbol al istoriei religioase de pe coasta de est."],
       en: ["The mission station was formally established in 1858.", "The church is dedicated to Saint Gabriel the Archangel.", "A key site for early European architectural influence in the area.", "The site includes a historic rectory and school buildings.", "Nestled in a picturesque landscape at the foot of the mountains.", "One of the most significant historical landmarks in Canala."],
     },
+    image: "/poi-images/newcaledonia-saint-gabriel-canala-landmarks-v2.webp",
   },
   {
     id: "newcaledonia-paita-church-landmarks-v2",
@@ -1395,6 +1439,7 @@ export const newcaledoniaLandmarksV2: POI[] = [
       ro: ["Construită la sfârșitul secolului al XIX-lea de către misionari.", "Lăcașul de cult este dedicat Inimii Sacre a lui Isus.", "Païta este celebră pentru festivalul anual al vitelor.", "Clădirea a fost consolidată pentru a rezista ciclonilor tropicali.", "Interiorul prezintă vitralii colorate cu scene biblice.", "Reprezintă un nucleu social pentru comunitatea rurală din jur."],
       en: ["Built in the late 19th century by Catholic missionaries.", "The church is dedicated to the Sacred Heart of Jesus.", "Païta is famous for its annual beef festival and rodeo.", "The building has been restored several times following cyclones.", "Features vibrant stained-glass windows with biblical themes.", "A major social and religious center for the surrounding farmland."],
     },
+    image: "/poi-images/newcaledonia-paita-church-landmarks-v2.webp",
   },
   {
     id: "newcaledonia-sarramela-church-landmarks-v2",
@@ -1426,5 +1471,6 @@ export const newcaledoniaLandmarksV2: POI[] = [
       ro: ["Situată în una dintre cele mai mici comune din Noua Caledonie.", "Sarraméa este renumită pentru plantațiile de cafea Arabica.", "Biserica are o structură simplă, construită parțial din lemn.", "Utilizată frecvent pentru festivalurile locale ale recoltei.", "Înconjurată de trasee botanice și rezervații naturale.", "Un vestigiu rar al arhitecturii rurale coloniale timpurii."],
       en: ["Located in one of the smallest communes in New Caledonia.", "Sarraméa is well-known for its Arabica coffee production.", "The church features a simple and functional wooden design.", "Often used as a venue for local harvest celebrations.", "Surrounded by botanical trails and natural reserves.", "A rare architectural witness to early rural mountain settlement."],
     },
+    image: "/poi-images/newcaledonia-sarramela-church-landmarks-v2.webp",
   }
 ];

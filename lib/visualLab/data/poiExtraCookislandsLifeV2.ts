@@ -31,6 +31,7 @@ export const cookislandsLifeV2: POI[] = [
       ro: ["Suprafață protejată: 155 de hectare.", "Populația de kakerori: a crescut de la 21 de indivizi (1989) la peste 350 (2020).", "Cel mai înalt punct: 300 de metri deasupra nivelului mării.", "Precipitații anuale: aproximativ 3.000 mm.", "Traseul de drumeție: 2,5 km lungime.", "Fondată în 1996 de Kakerori Recovery Project."],
       en: ["Protected area: 155 hectares.", "Kakerori population: increased from 21 individuals (1989) to over 350 (2020).", "Highest point: 300 meters above sea level.", "Annual rainfall: about 3,000 mm.", "Hiking trail: 2.5 km long.", "Established in 1996 by the Kakerori Recovery Project."],
     },
+    image: "/poi-images/cookislands-takitumu-conservation-area-life-v2.webp",
   },
   {
     id: "cookislands-suwarrow-national-park-life-v2",
@@ -62,6 +63,7 @@ export const cookislandsLifeV2: POI[] = [
       ro: ["Parc național din 1978.", "Suprafață totală: 160 km² (din care 1,8 km² teren).", "Țestoase marine cuibăritoare: 50–100 de țestoase verzi anual.", "Specii de păsări: 15 specii de păsări marine cuibăresc aici.", "Cea mai mare colonie de chiră de fum în Pacific: până la 100.000 de perechi.", "Vizitatori anuali: mai puțin de 100 (cercetători și tururi autorizate)."],
       en: ["National park since 1978.", "Total area: 160 km² (of which 1.8 km² land).", "Nesting sea turtles: 50–100 green turtles annually.", "Bird species: 15 seabird species breed here.", "Largest colony of sooty terns in the Pacific: up to 100,000 pairs.", "Annual visitors: fewer than 100 (researchers and licensed tours)."],
     },
+    image: "/poi-images/cookislands-suwarrow-national-park-life-v2.webp",
   },
   {
     id: "cookislands-takutea-wildlife-sanctuary-life-v2",
@@ -93,6 +95,7 @@ export const cookislandsLifeV2: POI[] = [
       ro: ["Arie protejată din 1903.", "Suprafața insulei: 1,0 km².", "Cel mai înalt punct: 6 metri deasupra mării.", "Populația cuibăritoare de sula cu picioare roșii: aprox. 10.000 de perechi.", "Estimativ 20.000 de fregate (Fregata minor).", "Vizitatori anuali: < 50 de persoane."],
       en: ["Protected area since 1903.", "Island area: 1.0 km².", "Highest elevation: 6 meters above sea.", "Breeding population of red-footed boobies: approx. 10,000 pairs.", "Estimated 20,000 frigatebirds (Fregata minor).", "Annual visitors: < 50 people."],
     },
+    image: "/poi-images/cookislands-takutea-wildlife-sanctuary-life-v2.webp",
   },
   {
     id: "cookislands-atiu-bird-sanctuary-life-v2",
@@ -124,6 +127,7 @@ export const cookislandsLifeV2: POI[] = [
       ro: ["Sanctuarul a fost înființat în 1973.", "Suprafața este de 15 hectare.", "Peste 130 de specii de păsări au fost observate.", "Populația de acrocefal de Atiu este estimată la 500 de perechi.", "Înălțimea medie a copacilor este de 25 m.", "Temperatura anuală medie este de 26°C."],
       en: ["Established in 1973.", "Area: 15 hectares.", "Home to 130+ bird species.", "Elevation: 50–70 m above sea level.", "Annual rainfall: 2,000 mm.", "Managed by the Atiu community."],
     },
+    image: "/poi-images/cookislands-atiu-bird-sanctuary-life-v2.webp",
   },
   {
     id: "cookislands-manuae-marine-park-life-v2",
@@ -155,6 +159,7 @@ export const cookislandsLifeV2: POI[] = [
       ro: ["Înființat în 1997.", "Suprafața: 15 km².", "Adâncimea maximă: 30 m.", "Peste 80 de specii de pești.", "Populația de țestoase verzi: 500 femele.", "Temperatura apei: 26–28°C."],
       en: ["Established in 1997.", "Area: 15 km².", "Depth: 2–30 m.", "80+ fish species.", "Green turtle population: 500 nesting females.", "Coral cover: 40%."],
     },
+    image: "/poi-images/cookislands-manuae-marine-park-life-v2.webp",
   },
   {
     id: "cookislands-aitutaki-clam-reserve-life-v2",
@@ -186,6 +191,7 @@ export const cookislandsLifeV2: POI[] = [
       ro: ["Înființată în 2005.", "Suprafața: 0,5 km².", "Adâncime: 2–8 m.", "Lungimea maximă a scoicilor: 1,2 m.", "Greutatea maximă: 200 kg.", "Populația a crescut de la 500 la 3.000."],
       en: ["Established in 2005.", "Area: 0.5 km².", "Depth: 2–8 m.", "Max length: 1.2 m.", "Max weight: 200 kg.", "Population growth: 500 to 3,000."],
     },
+    image: "/poi-images/cookislands-aitutaki-clam-reserve-life-v2.webp",
   },
   {
     id: "cookislands-ngatangiia-mangroves-life-v2",
@@ -217,6 +223,7 @@ export const cookislandsLifeV2: POI[] = [
       ro: ["Suprafața: 10 hectare.", "Specie dominantă: Rhizophora stylosa.", "Lungimea pasarelei: 1,5 km.", "Înălțimea mangrovele: 3–5 m.", "Depunerea anuală de sediment: 2 cm.", "Acțiuni de curățare: lunare."],
       en: ["Area: 10 ha.", "Dominant species: Rhizophora stylosa.", "Boardwalk length: 1.5 km.", "Mangrove height: 3–5 m.", "Annual sediment deposition: 2 cm.", "Cleanup frequency: monthly."],
     },
+    image: "/poi-images/cookislands-ngatangiia-mangroves-life-v2.webp",
   },
   {
     id: "cookislands-muri-lagoon-reserve-life-v2",
@@ -248,6 +255,7 @@ export const cookislandsLifeV2: POI[] = [
       ro: ["Include patru insulițe (motu) principale", "Habitat important pentru scoicile gigant", "Destinație populară pentru snorkeling", "Sub rezerva legilor locale de protecție (Ra'ui)", "Găzduiește numeroși pești de recif tropicali", "Reciful protejează coasta împotriva eroziunii"],
       en: ["Includes four motu: Taakoka, Koromiri, Gonuapu, Motutapu", "Important habitat for giant clams", "Popular destination for snorkeling", "Subject to community conservation rules (Ra'ui)", "Home to diverse tropical reef fish", "The reef provides protection against erosion"],
     },
+    image: "/poi-images/cookislands-muri-lagoon-reserve-life-v2.webp",
   },
   {
     id: "cookislands-raemaru-forest-reserve-life-v2",
@@ -279,6 +287,7 @@ export const cookislandsLifeV2: POI[] = [
       ro: ["Vârful se află la 350 de metri înălțime", "Găzduiește orhidee native rare", "Habitat pentru pasărea monarh de Rarotonga", "Zonă de drumeție populară cu porțiuni de cățărare", "Zonă importantă de captare a apei pe insulă", "Cuprinde păduri tropicale dense"],
       en: ["Summit reaches 350 meters in height", "Home to rare indigenous orchids", "Habitat for the Rarotonga Monarch bird", "Popular hiking trail with climbing sections", "Vital watershed area for the island", "Contains dense tropical rainforest vegetation"],
     },
+    image: "/poi-images/cookislands-raemaru-forest-reserve-life-v2.webp",
   },
   {
     id: "cookislands-te-manga-cloud-forest-life-v2",
@@ -310,6 +319,7 @@ export const cookislandsLifeV2: POI[] = [
       ro: ["Altitudine: 400–652 m.", "Cel mai înalt punct: 652 m.", "Precipitații anuale: 4.000 mm.", "Umiditate: 90%.", "Temperatură: 15–20°C.", "Pasăre endemică: muscarul de Rarotonga."],
       en: ["Elevation: 400–652 m.", "Highest point in Cook Islands: 652 m.", "Annual rainfall: 4,000 mm.", "Humidity: 90%.", "Temperature range: 15–20°C.", "Endemic bird: Rarotonga flycatcher."],
     },
+    image: "/poi-images/cookislands-te-manga-cloud-forest-life-v2.webp",
   },
   {
     id: "cookislands-palmerston-seabird-colony-life-v2",
@@ -341,6 +351,7 @@ export const cookislandsLifeV2: POI[] = [
       ro: ["Număr de motu: 6.", "Populație de drepnea neagră: 20.000 perechi.", "Drepnea maro: 15.000 perechi.", "Fregate: 5.000 perechi.", "Sezon de reproducere: octombrie–aprilie.", "Înălțimea insulei: 2 m deasupra nivelului mării."],
       en: ["Number of motus: 6.", "Sooty tern population: 20,000 pairs.", "Brown noddy population: 15,000 pairs.", "Great frigatebird population: 5,000 pairs.", "Breeding season: October–April.", "Elevation: 2 m above sea level."],
     },
+    image: "/poi-images/cookislands-palmerston-seabird-colony-life-v2.webp",
   },
   {
     id: "cookislands-pukapuka-lagoon-reserve-life-v2",
@@ -372,6 +383,7 @@ export const cookislandsLifeV2: POI[] = [
       ro: ["Înființată în 2010.", "Suprafața: 4 km².", "Adâncimea maximă: 12 m.", "Peste 100 de specii de pești.", "Acoperire coralină: 50%.", "Populația Pukapuka: 400 de locuitori."],
       en: ["Established in 2010.", "Area: 4 km².", "Maximum depth: 12 m.", "Over 100 fish species.", "Coral cover: 50%.", "Population of Pukapuka: 400."],
     },
+    image: "/poi-images/cookislands-pukapuka-lagoon-reserve-life-v2.webp",
   },
   {
     id: "cookislands-penrhyn-shark-sanctuary-life-v2",
@@ -403,6 +415,7 @@ export const cookislandsLifeV2: POI[] = [
       ro: ["Înființat în 2019.", "Suprafața: 12.000 km².", "Specii de rechini protejate: 7.", "Rechin de recif cenușiu: 80% din populație.", "Interzicerea pescuitului de rechini: 2019.", "Populația Penrhyn: 200 de locuitori."],
       en: ["Established in 2019.", "Area: 12,000 km².", "Protected shark species: 7.", "Gray reef shark: 80% of population.", "Shark fishing ban: 2019.", "Population of Penrhyn: 200."],
     },
+    image: "/poi-images/cookislands-penrhyn-shark-sanctuary-life-v2.webp",
   },
   {
     id: "cookislands-mauke-biodiversity-forest-life-v2",
@@ -434,5 +447,6 @@ export const cookislandsLifeV2: POI[] = [
       ro: ["Înființată în 1998.", "Suprafața: 50 de hectare.", "Specii de copaci endemice: 10.", "Populație de lilieci uriași: 1.000.", "Altitudine maximă: 28 m.", "Precipitații anuale: 2.000 mm."],
       en: ["Established in 1998.", "Area: 50 ha.", "Endemic tree species: 10.", "Flying fox population: 1,000.", "Highest point: 28 m.", "Annual rainfall: 2,000 mm."],
     },
+    image: "/poi-images/cookislands-mauke-biodiversity-forest-life-v2.webp",
   }
 ];

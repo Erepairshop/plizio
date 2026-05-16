@@ -32,7 +32,8 @@ export const mkPoisPart5: POI[] = [
       hu: ["I. e. 6. évezredből származó műtárgyakat tartalmaz.", "A Balkán egyik legfontosabb újkőkori lelőhelye.", "A művészet és a hit korai formáit mutatja be."],
       ro: ["Conține artefacte din mileniul al VI-lea î.Hr.", "Unul dintre cele mai importante situri neolitice din Balcani.", "Prezintă forme timpurii de artă și credință."],
       en: ["Contains artifacts from the 6th millennium BC.", "One of the most important Neolithic sites in the Balkans.", "Shows early forms of art and belief."]
-    }
+    },
+    image: "/poi-images/MK-041-govrlevo-neolithic.webp",
   },
   {
     id: "MK-041-st-panteleimon-monastery",
@@ -63,7 +64,8 @@ export const mkPoisPart5: POI[] = [
       hu: ["Alexiosz Komnénosz alapította.", "A freskók korai realizmust és érzelmeket mutatnak.", "Csodás kilátást nyújt Szkopjéra."],
       ro: ["Fondată de Alexie Comnenul.", "Frescele prezintă un realism și o emoție timpurie.", "Oferă o vedere superbă asupra orașului Skopje."],
       en: ["Founded by Alexios Komnenos.", "The frescoes display early realism and emotion.", "Offers a magnificent view of Skopje."]
-    }
+    },
+    image: "/poi-images/MK-041-st-panteleimon-monastery.webp",
   },
   // MK-042: Karpoš
   {
@@ -95,7 +97,8 @@ export const mkPoisPart5: POI[] = [
       hu: ["Római kolónia volt.", "A 6. században egy földrengés pusztította el.", "Hatalmas római színháznak ad otthont."],
       ro: ["A fost o colonie romană.", "A fost distrus de un cutremur în secolul al VI-lea.", "Găzduiește un teatru roman de mari dimensiuni."],
       en: ["Was a Roman colony.", "Destroyed by an earthquake in the 6th century.", "Houses a large Roman theater."]
-    }
+    },
+    image: "/poi-images/MK-042-scupi-archaeological-site.webp",
   },
   {
     id: "MK-042-skopje-city-park",
@@ -126,7 +129,8 @@ export const mkPoisPart5: POI[] = [
       hu: ["Itt található a Szkopjei Állatkert.", "Koncertek és rendezvények népszerű helyszíne.", "Közvetlenül a Vardar partján fekszik."],
       ro: ["Găzduiește Grădina Zoologică din Skopje.", "Un loc popular pentru concerte și evenimente.", "Situat direct pe malul râului Vardar."],
       en: ["Home to the Skopje Zoo.", "A popular spot for concerts and events.", "Located right on the banks of the Vardar river."]
-    }
+    },
+    image: "/poi-images/MK-042-skopje-city-park.webp",
   },
   // MK-043: Šuto Orizari
   {
@@ -158,7 +162,8 @@ export const mkPoisPart5: POI[] = [
       hu: ["Olcsó áruiról és textiltermékeiről ismert.", "A roma kultúra és a mindennapi élet központja.", "Egész Szkopjéból vonzza a látogatókat."],
       ro: ["Cunoscută pentru mărfuri ieftine și textile.", "Un centru al culturii rome și al vieții cotidiene.", "Atrage vizitatori din tot orașul Skopje."],
       en: ["Known for affordable goods and textiles.", "A center of Roma culture and daily life.", "Attracts visitors from all over Skopje."]
-    }
+    },
+    image: "/poi-images/MK-043-roma-market.webp",
   },
   {
     id: "MK-043-amdi-pasha-monument",
@@ -189,7 +194,8 @@ export const mkPoisPart5: POI[] = [
       hu: ["Suto Orizari központjában található.", "A régió politikai identitásának szimbóluma.", "Gyakran szolgál találkozóhelyként a lakók számára."],
       ro: ["Situat în centrul localității Šuto Orizari.", "Un simbol al identității politice a regiunii.", "Adesea un loc de întâlnire pentru localnici."],
       en: ["Located in the center of Šuto Orizari.", "A symbol of the region's political identity.", "Often a meeting point for residents."]
-    }
+    },
+    image: "/poi-images/MK-043-amdi-pasha-monument.webp",
   },
   // MK-044: Butel
   {
@@ -221,7 +227,8 @@ export const mkPoisPart5: POI[] = [
       hu: ["Itt található az 1963-as földrengés áldozatainak emlékműve.", "Különböző felekezetek számára fenntartott részei vannak.", "A nemzeti emlékezet helyszíne."],
       ro: ["Găzduiește un monument dedicat victimelor cutremurului din 1963.", "Include secțiuni pentru diferite confesiuni.", "Un loc al memoriei naționale."],
       en: ["Houses a monument to the victims of the 1963 earthquake.", "Contains sections for different religious denominations.", "A site of national remembrance."]
-    }
+    },
+    image: "/poi-images/MK-044-butel-cemetery.webp",
   },
   {
     id: "MK-044-aqueduct-skopje",
@@ -252,7 +259,8 @@ export const mkPoisPart5: POI[] = [
       hu: ["55 kőívből áll.", "A város vízellátására használták.", "A Balkán kevés fennmaradt akveduktusának egyike."],
       ro: ["Format din 55 de arcade de piatră.", "A fost folosit pentru alimentarea cu apă a orașului.", "Unul dintre puținele apeducte rămase în Balcani."],
       en: ["Consists of 55 stone arches.", "Used for the city's water supply.", "One of the few remaining aqueducts in the Balkans."]
-    }
+    },
+    image: "/poi-images/MK-044-aqueduct-skopje.webp",
   },
   // MK-045: Čair
   {
@@ -284,7 +292,8 @@ export const mkPoisPart5: POI[] = [
       hu: ["A Balkán egyik legnagyobb és legrégebbi bazárja.", "Mecseteknek, karavánszerájoknak és fürdőknek ad otthont.", "A kézművesség és a hagyomány központja."],
       ro: ["Unul dintre cele mai mari și mai vechi bazaruri din Balcani.", "Găzduiește moschei, caravanseraiuri și hamamuri.", "Un centru al meșteșugurilor și al tradiției."],
       en: ["One of the largest and oldest bazaars in the Balkans.", "Home to mosques, caravanserais, and hammams.", "A center of craftsmanship and tradition."]
-    }
+    },
+    image: "/poi-images/MK-045-old-bazaar.webp",
   },
   {
     id: "MK-045-mustafa-pasha-mosque",
@@ -315,7 +324,8 @@ export const mkPoisPart5: POI[] = [
       hu: ["A 15. század végén épült.", "Impozáns kupolával és minarettel rendelkezik.", "Kilátást nyújt a Régi bazárra."],
       ro: ["Construită la sfârșitul secolului al XV-lea.", "Are o cupolă și un minaret impunătoare.", "Oferă o vedere asupra Vechiului Bazar."],
       en: ["Built in the late 15th century.", "Features an imposing dome and minaret.", "Overlooks the Old Bazaar."]
-    }
+    },
+    image: "/poi-images/MK-045-mustafa-pasha-mosque.webp",
   },
   // MK-046: Centar
   {
@@ -347,7 +357,8 @@ export const mkPoisPart5: POI[] = [
       hu: ["Észak-Macedónia legnagyobb tere.", "A 'Szkopje 2014' projekt központja.", "Fontos nemzeti ünnepségek helyszíne."],
       ro: ["Cea mai mare piață din Macedonia de Nord.", "Centrul proiectului 'Skopje 2014'.", "Locul unor importante celebrări naționale."],
       en: ["The largest square in North Macedonia.", "Center of the 'Skopje 2014' project.", "Venue for major national celebrations."]
-    }
+    },
+    image: "/poi-images/MK-046-macedonia-square.webp",
   },
   {
     id: "MK-046-stone-bridge",
@@ -378,7 +389,8 @@ export const mkPoisPart5: POI[] = [
       hu: ["A 15. században épült római alapokra.", "Túlélte az 1963-as földrengést.", "Szkopje címerének egyik szimbóluma."],
       ro: ["Construit în secolul al XV-lea pe fundații romane.", "A supraviețuit cutremurului din 1963.", "Un simbol pe stema orașului Skopje."],
       en: ["Built in the 15th century on Roman foundations.", "Survived the 1963 earthquake.", "A symbol on the coat of arms of Skopje."]
-    }
+    },
+    image: "/poi-images/MK-046-stone-bridge.webp",
   },
   // MK-047: Zajas
   {
@@ -410,7 +422,8 @@ export const mkPoisPart5: POI[] = [
       hu: ["A romák és albánok itt tisztelik örökségét.", "Az emlékezés és a béke helye.", "Egy kis parkban található."],
       ro: ["Romii și albanezii îi onorează aici moștenirea.", "Un loc de memorie și pace.", "Situat într-un mic parc."],
       en: ["Roma and Albanians honor her legacy here.", "A place of remembrance and peace.", "Located in a small park."]
-    }
+    },
+    image: "/poi-images/MK-047-mother-teresa-monument-zajas.webp",
   },
   {
     id: "MK-047-zajas-mountain-trails",
@@ -441,7 +454,8 @@ export const mkPoisPart5: POI[] = [
       hu: ["Betekintést nyújt a helyi flórába.", "Népszerű a helyi pásztorok és túrázók körében.", "Csendes környezet a főutaktól távol."],
       ro: ["Oferă perspective asupra florei locale.", "Popular printre păstorii locali și drumeți.", "Mediu liniștit, departe de drumurile principale."],
       en: ["Provides insights into local flora.", "Popular among local shepherds and hikers.", "Quiet environment away from main roads."]
-    }
+    },
+    image: "/poi-images/MK-047-zajas-mountain-trails.webp",
   },
   // MK-048: Dolneni
   {
@@ -473,7 +487,8 @@ export const mkPoisPart5: POI[] = [
       hu: ["Barlangtemplomairól ismert.", "Jelentős szellemi központ.", "Hosszú, az antikorig visszanyúló történelemmel bír."],
       ro: ["Cunoscut pentru bisericile sale rupestre.", "Un centru spiritual important.", "Are o istorie lungă, care datează din antichitate."],
       en: ["Known for its cave churches.", "A significant spiritual center.", "Has a long history dating back to antiquity."]
-    }
+    },
+    image: "/poi-images/MK-048-monastery-zrze.webp",
   },
   {
     id: "MK-048-marion-monument",
@@ -504,7 +519,8 @@ export const mkPoisPart5: POI[] = [
       hu: ["A dohánytermesztés központja.", "Hagyományos népi fesztiválok helyszíne.", "A termékeny Pelagóniai-síkságon fekszik."],
       ro: ["Centru pentru cultivarea tutunului.", "Locul unor festivaluri folclorice tradiționale.", "Situat în câmpia fertilă a Pelagoniei."],
       en: ["Center for tobacco cultivation.", "Host of traditional folk festivals.", "Located in the fertile Pelagonian plain."]
-    }
+    },
+    image: "/poi-images/MK-048-marion-monument.webp",
   },
   // MK-049: Krivogaštani
   {
@@ -536,7 +552,8 @@ export const mkPoisPart5: POI[] = [
       hu: ["A község vallási központja.", "Helyi szentek ünnepeiről ismert.", "Hagyományos egyházi művészettel rendelkezik."],
       ro: ["Centrul religios al municipalității.", "Cunoscută pentru sărbătorile sfinților locali.", "Deține artă bisericească tradițională."],
       en: ["Religious center of the municipality.", "Known for its local saint festivals.", "Features traditional church art."]
-    }
+    },
+    image: "/poi-images/MK-049-st-demetrius-church.webp",
   },
   {
     id: "MK-049-pelagonia-fields-krivogastani",
@@ -567,7 +584,8 @@ export const mkPoisPart5: POI[] = [
       hu: ["Jelentős paprikatermesztő vidék.", "Meghatározza a helyi gazdaságot.", "Tágas távlatokat kínál."],
       ro: ["Zonă importantă de cultivare a ardeiului.", "Modelează economia locală.", "Oferă orizonturi largi."],
       en: ["Significant area for pepper cultivation.", "Shapes the local economy.", "Offers wide horizons."]
-    }
+    },
+    image: "/poi-images/MK-049-pelagonia-fields-krivogastani.webp",
   },
   // MK-050: Mogila
   {
@@ -599,7 +617,8 @@ export const mkPoisPart5: POI[] = [
       hu: ["A község róluk kapta a nevét (Mogila = halom).", "Különböző történelmi korszakokból származnak.", "Fontos régészeti leletek forrásai."],
       ro: ["Au dat numele municipalității (Mogila = dâmb).", "Datează din diferite epoci istorice.", "Sursă importantă de descoperiri arheologice."],
       en: ["Gave the municipality its name (Mogila = mound).", "Date from various historical periods.", "Important source of archaeological finds."]
-    }
+    },
+    image: "/poi-images/MK-050-visoki-mogila.webp",
   },
   {
     id: "MK-050-crna-reka-mogila",
@@ -630,7 +649,8 @@ export const mkPoisPart5: POI[] = [
       hu: ["A Vardar leghosszabb jobb oldali mellékfolyója.", "Fontos a Pelagónia ökoszisztémája számára.", "Helyi horgászhely."],
       ro: ["Cel mai lung afluent de drept al Vardarului.", "Important pentru ecosistemul Pelagoniei.", "Un loc pentru pescuitul local."],
       en: ["The longest right tributary of the Vardar.", "Crucial for the Pelagonia ecosystem.", "A spot for local fishing."]
-    }
+    },
+    image: "/poi-images/MK-050-crna-reka-mogila.webp",
   }
 ];
 

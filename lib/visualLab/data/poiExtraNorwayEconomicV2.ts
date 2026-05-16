@@ -32,6 +32,7 @@ export const norwayEconomicV2: POI[] = [
       ro: ["Anul punerii în funcțiune: 1996", "Capacitate anuală: 140 miliarde metri cubi", "Număr de angajați: aproximativ 150", "Conductă de export: Rømledning către Germania", "Lungimea conductei Rømledning: 1.200 km", "Câmpuri de gaze procesate: Troll, Kvitebjørn"],
       en: ["Commissioned: 1996", "Annual capacity: 140 billion cubic meters", "Number of employees: approx. 150", "Export pipeline: Rømledning to Germany", "Length of Rømledning: 1,200 km", "Gas fields processed: Troll, Kvitebjørn"],
     },
+    image: "/poi-images/norway-kollsnes-gas-plant-economic-v2.webp",
   },
   {
     id: "norway-karmoy-aluminum-plant-economic-v2",
@@ -64,6 +65,7 @@ export const norwayEconomicV2: POI[] = [
       ro: ["Anul punerii în funcțiune: 1967", "Producție anuală: 350.000 tone", "Număr de angajați: aproximativ 1.000", "Proprietar: Norsk Hydro", "Sursa de energie: hidroelectrică", "Locație: comuna Karmøy"],
       en: ["Commissioned: 1967", "Annual production: 350,000 tonnes", "Number of employees: approx. 1,000", "Owner: Norsk Hydro", "Energy source: hydropower", "Location: Karmøy municipality"],
     },
+    image: "/poi-images/norway-karmoy-aluminum-plant-economic-v2.webp",
   },
   {
     id: "norway-orkanger-industry-park-economic-v2",
@@ -96,6 +98,7 @@ export const norwayEconomicV2: POI[] = [
       ro: ["Dezvoltare: anii 1960", "Număr de companii: 20", "Număr de angajați: aproximativ 1.500", "Produs principal: siliciu, feroaliaje", "Orașul cel mai apropiat: Orkanger", "Sursa de energie: hidroelectrică"],
       en: ["Developed: 1960s", "Number of companies: 20", "Number of employees: approx. 1,500", "Main products: silicon, ferroalloys", "Nearest city: Orkanger", "Energy source: hydropower"],
     },
+    image: "/poi-images/norway-orkanger-industry-park-economic-v2.webp",
   },
   {
     id: "norway-glomfjord-industrial-site-economic-v2",
@@ -128,6 +131,7 @@ export const norwayEconomicV2: POI[] = [
       ro: ["Centrala hidroelectrică Glomfjord are o cădere de apă de 628 de metri.", "Situl industrial a fost inaugurat în anul 1924.", "Capacitatea centralei este de 170 MW, cu o producție anuală de 1,2 TWh.", "Fabrica de îngrășăminte a funcționat între 1924 și 1990.", "În 2020, complexul a angajat 450 de persoane.", "Aluminiul produs aici este transportat pe cale maritimă prin portul Glomfjord."],
       en: ["The hydropower plant has a head of 628 meters.", "The site started operations in 1924.", "Installed capacity is 170 MW with annual output of 1.2 TWh.", "The aluminium smelter currently produces 180,000 tonnes per year.", "Employment at the site was 450 in 2020.", "The deep-water port handles 1 million tonnes of cargo annually."],
     },
+    image: "/poi-images/norway-glomfjord-industrial-site-economic-v2.webp",
   },
   {
     id: "norway-skjervoy-fishing-port-economic-v2",
@@ -160,6 +164,7 @@ export const norwayEconomicV2: POI[] = [
       ro: ["Portul manipulează 35.000 de tone de pește anual.", "Adâncimea la chei este de 12 metri.", "Flota portului numără 45 de nave de pescuit.", "Capacitatea de congelare este de 10.000 de metri cubi.", "Principalul pește prins este codul, cu o cotă de 8.000 de tone în 2023.", "Portul are 5 cheiuri de acostare."],
       en: ["Annual fish landing is 35,000 tonnes.", "Cold storage capacity is 10,000 cubic metres.", "The fleet has 45 vessels.", "Quota for cod in 2023 was 8,000 tonnes.", "Water depth at quay is 12 metres.", "Processing plants operate 18 hours a day during peak season."],
     },
+    image: "/poi-images/norway-skjervoy-fishing-port-economic-v2.webp",
   },
   {
     id: "norway-hitra-salmon-farm-economic-v2",
@@ -192,6 +197,7 @@ export const norwayEconomicV2: POI[] = [
       ro: ["Producția anuală este de 22.000 de tone.", "Ferma are 30 de cuști plutitoare.", "Adâncimea cuștilor este de 20 de metri.", "Temperatura apei variază între 4 și 12 °C.", "Rata de supraviețuire a peștilor este de 95%.", "Ferma angajează 200 de persoane."],
       en: ["Annual production is 22,000 tonnes.", "There are 30 sea cages.", "Each cage measures 30 metres in diameter.", "Average harvest weight is 5 kg.", "The farm uses 30,000 tonnes of feed annually.", "The facility has an ASC certification."],
     },
+    image: "/poi-images/norway-hitra-salmon-farm-economic-v2.webp",
   },
   {
     id: "norway-narvik-port-terminal-economic-v2",
@@ -224,6 +230,7 @@ export const norwayEconomicV2: POI[] = [
       ro: ["Adâncimea portului este de 18 metri.", "Traficul anual de minereu este de 22 de milioane de tone.", "Viteza de încărcare este de 10.000 de tone pe oră.", "Lungimea căii ferate de minereu este de 168 km.", "Suprafața terminalului este de 120 de hectare.", "Costul modernizării din 2019 a fost de 50 de milioane de euro."],
       en: ["Port depth is 18 metres.", "Annual iron ore throughput is 22 million tonnes.", "Loading rate is 10,000 tonnes per hour.", "Railway length is 168 km.", "Terminal area is 120 hectares.", "2019 investment was €50 million."],
     },
+    image: "/poi-images/norway-narvik-port-terminal-economic-v2.webp",
   },
   {
     id: "norway-molde-industrial-cluster-economic-v2",
@@ -256,6 +263,7 @@ export const norwayEconomicV2: POI[] = [
       ro: ["Clusterul cuprinde 150 de companii.", "Numărul de angajați este de 4.000.", "Exporturile reprezintă 60%.", "Cifra de afaceri anuală este de 1,2 miliarde de euro.", "Universitatea Molde contribuie la 10 proiecte de cercetare.", "Clusterul activează în 5 sectoare distincte."],
       en: ["150 companies form the cluster.", "Employment: 4,000 people.", "Export share: 60%.", "Annual turnover: €1.2 billion.", "10 joint research projects with the university.", "The cluster covers 5 industrial sectors."],
     },
+    image: "/poi-images/norway-molde-industrial-cluster-economic-v2.webp",
   },
   {
     id: "norway-kongsvinger-business-park-economic-v2",
@@ -288,6 +296,7 @@ export const norwayEconomicV2: POI[] = [
       ro: ["Parcul se întinde pe 250 de hectare.", "Numărul de companii: 80.", "Locuri de muncă: 2.000.", "Distanța până la aeroport: 80 km.", "Reducerea impozitului este de 10%.", "Parcul are 3 hoteluri în apropiere."],
       en: ["Area: 250 hectares.", "80 companies located.", "2,000 employees.", "80 km to Oslo Airport.", "Tax reduction: 10%.", "3 hotels nearby."],
     },
+    image: "/poi-images/norway-kongsvinger-business-park-economic-v2.webp",
   },
   {
     id: "norway-stord-maritime-industry-economic-v2",
@@ -320,6 +329,7 @@ export const norwayEconomicV2: POI[] = [
       ro: ["Suprafața șantierului: 1,2 km².", "3.000 de angajați.", "Macara de 1.000 de tone.", "Adâncimea portului: 15 metri.", "Șantierul funcționează din 1847.", "Prelucrare anuală de oțel: 50.000 de tone."],
       en: ["Yard area: 1.2 km².", "Employees: 3,000.", "Crane capacity: 1,000 tonnes.", "Water depth: 15 metres.", "Established: 1847.", "Annual steel processing: 50,000 tonnes."],
     },
+    image: "/poi-images/norway-stord-maritime-industry-economic-v2.webp",
   },
   {
     id: "norway-sunndalsora-aluminum-plant-economic-v2",
@@ -352,6 +362,7 @@ export const norwayEconomicV2: POI[] = [
       ro: ["Producția anuală: 400.000 de tone.", "Angajați: 1.100.", "Emisiile de CO2 sunt cu 70% sub media europeană.", "Consumul anual de energie: 6 TWh.", "Tehnologia: celule AP3X.", "Anul înființării: 1954."],
       en: ["Annual production: 400,000 tonnes.", "Employees: 1,100.", "CO2 emissions 70% below European average.", "Annual energy consumption: 6 TWh.", "AP3X cell technology.", "Founded in 1954."],
     },
+    image: "/poi-images/norway-sunndalsora-aluminum-plant-economic-v2.webp",
   },
   {
     id: "norway-fredrikstad-industrial-zone-economic-v2",
@@ -384,6 +395,7 @@ export const norwayEconomicV2: POI[] = [
       ro: ["500 de companii în zonă.", "10.000 de angajați.", "Adâncimea portului: 10 metri.", "Zona industrială se întinde pe 8 km.", "Începuturile industriale datează din 1567.", "În 2021, s-a deschis o centrală de valorificare a deșeurilor de 30 MW."],
       en: ["500 companies in the zone.", "10,000 employees.", "Port depth: 10 metres.", "Industrial area extends 8 km along river.", "Industrial history since 1567.", "2021 waste-to-energy plant: 30 MW."],
     },
+    image: "/poi-images/norway-fredrikstad-industrial-zone-economic-v2.webp",
   },
   {
     id: "norway-mosjoen-industrial-park-economic-v2",
@@ -416,6 +428,7 @@ export const norwayEconomicV2: POI[] = [
       ro: ["Producția de aluminiu: 200.000 de tone/an.", "Angajați: 1.000.", "Parcul a fost inaugurat în 1955.", "Portul are 3 cheiuri.", "Consum anual de energie: 3 TWh.", "Certificare ISO 14001."],
       en: ["Aluminium output: 200,000 tonnes/year.", "Employees: 1,000.", "Park opened in 1955.", "Port has 3 berths.", "Annual energy use: 3 TWh.", "ISO 14001 certified."],
     },
+    image: "/poi-images/norway-mosjoen-industrial-park-economic-v2.webp",
   },
   {
     id: "norway-moss-logistics-hub-economic-v2",
@@ -448,6 +461,7 @@ export const norwayEconomicV2: POI[] = [
       ro: ["Trafic portuar: 1,5 milioane de tone/an.", "Suprafață depozite: 200.000 m².", "6 macarale în port.", "Adâncimea portului: 12 metri.", "Aeroportul la 60 km.", "500 de angajați în hub."],
       en: ["Port traffic: 1.5 million tonnes/year.", "Warehouse area: 200,000 m².", "6 port cranes.", "Port depth: 12 metres.", "60 km to Oslo Airport.", "500 employees at the hub."],
     },
+    image: "/poi-images/norway-moss-logistics-hub-economic-v2.webp",
   },
   {
     id: "norway-skien-industrial-site-economic-v2",
@@ -480,6 +494,7 @@ export const norwayEconomicV2: POI[] = [
       ro: ["Situl se întinde pe 10 km de-a lungul râului.", "3.000 de angajați.", "Fabrica de hârtie Norske Skog produce 300.000 de tone/an.", "Fabrica Yara produce 1 milion de tone de îngrășăminte/an.", "Dezvoltarea industrială a început în 1900.", "Capacitatea portului: 500.000 de tone."],
       en: ["Industrial site stretches 10 km along river.", "3,000 employees.", "Norske Skog paper mill: 300,000 tonnes/year.", "Yara plant: 1 million tonnes fertiliser/year.", "Industrial development started in 1900.", "Port capacity: 500,000 tonnes."],
     },
+    image: "/poi-images/norway-skien-industrial-site-economic-v2.webp",
   },
   {
     id: "norway-notodden-industrial-cluster-economic-v2",
@@ -512,6 +527,7 @@ export const norwayEconomicV2: POI[] = [
       ro: ["100 de companii în cluster.", "2.000 de angajați.", "Norsk Hydro a fost fondată în 1905 la Notodden.", "Situl UNESCO cuprinde 5 clădiri.", "În 2022 s-a deschis o fabrică de reciclare a bateriilor de 10.000 de tone.", "Universitatea are 15 proiecte de cercetare în cluster."],
       en: ["100 companies in the cluster.", "2,000 employees.", "Norsk Hydro founded in 1905 in Notodden.", "UNESCO site includes 5 buildings.", "2022 battery recycling plant: 10,000 tonnes capacity.", "University runs 15 research projects within the cluster."],
     },
+    image: "/poi-images/norway-notodden-industrial-cluster-economic-v2.webp",
   },
   {
     id: "norway-hammerfest-gas-terminal-economic-v2",
@@ -544,6 +560,7 @@ export const norwayEconomicV2: POI[] = [
       ro: ["Producție LNG: 4,2 milioane de tone/an.", "Terminalul a fost inaugurat în 2007.", "Angajați: 500.", "Câmpul Snøhvit este la 140 km de coastă.", "Temperatura de lichefiere: -162°C.", "Investiția totală a fost de 5,3 miliarde de euro."],
       en: ["LNG production: 4.2 million tonnes/year.", "Terminal commissioned in 2007.", "500 employees.", "Snøhvit field 140 km offshore.", "Liquefaction temperature: -162°C.", "Total investment: €5.3 billion."],
     },
+    image: "/poi-images/norway-hammerfest-gas-terminal-economic-v2.webp",
   },
   {
     id: "norway-brevik-cement-plant-economic-v2",
@@ -576,6 +593,7 @@ export const norwayEconomicV2: POI[] = [
       ro: ["Producție anuală: 1,2 milioane de tone.", "Angajați: 250.", "Fabrica a fost deschisă în 1920.", "Instalația de captare CO2: 200.000 de tone/an.", "Suprafața sitului: 30 de hectare.", "Certificare ISO 50001."],
       en: ["Annual production: 1.2 million tonnes.", "Employees: 250.", "Opened in 1920.", "CO2 capture plant capacity: 200,000 tonnes/year.", "Site area: 30 hectares.", "ISO 50001 certified."],
     },
+    image: "/poi-images/norway-brevik-cement-plant-economic-v2.webp",
   },
   {
     id: "norway-karmsund-port-economic-v2",
@@ -608,6 +626,7 @@ export const norwayEconomicV2: POI[] = [
       ro: ["Adâncimea portului: 14 metri.", "Trafic anual: 5 milioane de tone.", "10 cheiuri.", "Capacitate de stocare petrol: 1 milion de metri cubi.", "Portul funcționează 24/7.", "200 de angajați."],
       en: ["Port depth: 14 metres.", "Annual cargo: 5 million tonnes.", "10 berths.", "Oil storage capacity: 1 million m³.", "Port operates 24/7.", "200 employees."],
     },
+    image: "/poi-images/norway-karmsund-port-economic-v2.webp",
   },
   {
     id: "norway-finnsnes-industry-hub-economic-v2",
@@ -640,6 +659,7 @@ export const norwayEconomicV2: POI[] = [
       ro: ["Portul pescuit: 20.000 de tone/an.", "Șantierul naval are 3 docuri uscate.", "Universitatea Tromsø are un centru de biologie marină aici.", "Angajați în industrie: 1.500.", "Populația Finnsnes: 4.500 locuitori.", "O nouă fabrică de prelucrare a peștelui a fost deschisă în 2023."],
       en: ["Port handles 20,000 tonnes of fish/year.", "Shipyard has 3 dry docks.", "University of Tromsø runs a marine biology centre here.", "Industrial employment: 1,500.", "Population of Finnsnes: 4,500.", "New fish processing plant opened in 2023."],
     },
+    image: "/poi-images/norway-finnsnes-industry-hub-economic-v2.webp",
   },
   {
     id: "norway-narvik-logistic-center-economic-v2",
@@ -672,6 +692,7 @@ export const norwayEconomicV2: POI[] = [
       ro: ["Suprafața depozit: 50.000 m².", "300 de angajați.", "Trafic de containere: 20.000 TEU/an.", "Spațiul frigorific a fost extins la 10.000 m² în 2022.", "Centrul este deschis 24/7.", "Investiție: 40 de milioane de euro."],
       en: ["Warehouse area: 50,000 m².", "300 employees.", "Container throughput: 20,000 TEU/year.", "Cold storage expanded to 10,000 m² in 2022.", "Centre operates 24/7.", "Investment: €40 million."],
     },
+    image: "/poi-images/norway-narvik-logistic-center-economic-v2.webp",
   },
   {
     id: "norway-odda-industrial-site-economic-v2",
@@ -704,6 +725,7 @@ export const norwayEconomicV2: POI[] = [
       ro: ["Producția de zinc: 150.000 de tone/an.", "Angajați: 500.", "Activitatea industrială a început în 1908.", "Centrala hidroelectrică are 30 MW.", "Adâncimea portului: 15 metri.", "Investiții de mediu: 50 de milioane de euro."],
       en: ["Zinc production: 150,000 tonnes/year.", "Employees: 500.", "Industrial activity started in 1908.", "Hydropower plant capacity: 30 MW.", "Port depth: 15 metres.", "Environmental investments: €50 million."],
     },
+    image: "/poi-images/norway-odda-industrial-site-economic-v2.webp",
   },
   {
     id: "norway-trondheim-tech-park-economic-v2",
@@ -736,6 +758,7 @@ export const norwayEconomicV2: POI[] = [
       ro: ["200 de companii în parc.", "5.000 de angajați.", "Suprafața: 30 de hectare.", "Parcul a fost fondat în 1995.", "În 2022, s-a deschis un incubator cu 20 de start-upuri.", "10 laboratoare comune cu NTNU și SINTEF."],
       en: ["200 companies in the park.", "5,000 employees.", "Area: 30 hectares.", "Park founded in 1995.", "2022 incubator with 20 startups.", "10 joint labs with NTNU and SINTEF."],
     },
+    image: "/poi-images/norway-trondheim-tech-park-economic-v2.webp",
   },
   {
     id: "norway-elverum-industry-hub-economic-v2",
@@ -768,6 +791,7 @@ export const norwayEconomicV2: POI[] = [
       ro: ["Populația Elverum este de aproximativ 15.000 (2023)", "Suprafața orașului este de 14,1 km²", "Primul gater a fost construit în 1865", "Parcul industrial are 12 hectare", "Șomajul regional sub 2%", "Producția anuală de cherestea: peste 100.000 m³"],
       en: ["Elverum population: ca. 15,000 (2023)", "Area: 14.1 km²", "First sawmill established in 1865", "Industrial park covers 12 hectares", "Unemployment rate below 2%", "Annual timber production: over 100,000 m³"],
     },
+    image: "/poi-images/norway-elverum-industry-hub-economic-v2.webp",
   },
   {
     id: "norway-sauda-smelter-economic-v2",
@@ -800,5 +824,6 @@ export const norwayEconomicV2: POI[] = [
       ro: ["Producția a început în 1915", "Capacitate anuală: 100.000 tone aluminiu", "Angajează circa 350 de persoane", "Centrala hidroelectrică produce 200 MW", "Suprafața fabricii: 0,8 km²", "Sauda are 4.500 locuitori (2023)"],
       en: ["Production started in 1915", "Annual capacity: 100,000 tonnes aluminium", "Employs about 350 workers", "Hydroelectric plant provides 200 MW", "Factory area: 0.8 km²", "Sauda population: 4,500 (2023)"],
     },
+    image: "/poi-images/norway-sauda-smelter-economic-v2.webp",
   }
 ];

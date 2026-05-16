@@ -31,6 +31,7 @@ export const nauruCitiesV2: POI[] = [
       ro: ["Sediul Parlamentului Republicii Nauru", "Găzduiește Aeroportul Internațional Nauru", "Suprafața districtului este de aproximativ 1,5 km2", "Locația Moqua Well, un lac subteran natural", "Nu este un oraș oficial, ci un district administrativ", "Situat direct pe coasta de sud a insulei"],
       en: ["Seat of the Parliament of the Republic of Nauru", "Home to the Nauru International Airport", "The district covers an area of roughly 1.5 km2", "Location of Moqua Well, a natural underground lake", "Not an official city, but an administrative district", "Situated directly on the southern coast of the island"],
     },
+    image: "/poi-images/nauru-yaren-cities-v2.webp",
   },
   {
     id: "nauru-aiwo-cities-v2",
@@ -62,6 +63,7 @@ export const nauruCitiesV2: POI[] = [
       ro: ["Cel mai important port de export pentru fosfat", "Locația celebrelor instalații de încărcare (cantilevers)", "Sediul corporației de stat pentru exploatarea fosfatului", "Găzduiește singura școală secundară de pe insulă", "Cunoscut istoric drept centrul comercial al Naurului", "Cea mai mare densitate a populației dintre districte"],
       en: ["Primary export port for Nauru's phosphate resources", "Site of the iconic massive loading cantilevers", "Headquarters of the Republic of Nauru Phosphate Corp", "Home to the island's only secondary school", "Historically recognized as Nauru's commercial hub", "Highest population density of all districts in Nauru"],
     },
+    image: "/poi-images/nauru-aiwo-cities-v2.webp",
   },
   {
     id: "nauru-boe-cities-v2",
@@ -93,6 +95,7 @@ export const nauruCitiesV2: POI[] = [
       ro: ["Suprafață de doar 0,5 kilometri pătrați", "Situat în partea de sud-vest a insulei Nauru", "Constituie o circumscripție electorală proprie în parlament", "Se învecinează cu districtul Aiwo la nord", "Vecinătate directă cu Aeroportul Internațional Nauru", "Altitudine medie de aproximativ 5 metri deasupra mării"],
       en: ["Total land area of only 0.5 square kilometers", "Situated on the southwestern part of Nauru island", "Forms its own electoral constituency for parliament", "Borders Aiwo district to the north", "Located adjacent to Nauru International Airport", "Average elevation of about 5 meters above sea level"],
     },
+    image: "/poi-images/nauru-boe-cities-v2.webp",
   },
   {
     id: "nauru-denigomodu-cities-v2",
@@ -124,6 +127,7 @@ export const nauruCitiesV2: POI[] = [
       ro: ["Cel mai populat district al insulei", "Găzduiește Spitalul General din Nauru", "Sediul așezării 'Location' pentru muncitori", "Suprafață de aproximativ 1,18 kilometri pătrați", "Centru logistic pentru industria fosfatului", "Situat între districtele Nibok și Aiwo"],
       en: ["Most populous district on the island", "Home to the Nauru General Hospital", "Site of the 'Location' settlement for migrant workers", "Land area of approximately 1.18 square kilometers", "Crucial hub for phosphate industry infrastructure", "Located between Nibok and Aiwo districts"],
     },
+    image: "/poi-images/nauru-denigomodu-cities-v2.webp",
   },
   {
     id: "nauru-meneng-cities-v2",
@@ -155,6 +159,7 @@ export const nauruCitiesV2: POI[] = [
       ro: ["Găzduiește Hotelul Meneng cu vedere la ocean", "Locația fostei reședințe de stat (State House)", "Suprafață de aproximativ 3,1 kilometri pătrați", "Sediul Școlii Secundare din Nauru", "Găzduiește Centrul Regional de Procesare Australian", "Situat la sud de districtul Anibare"],
       en: ["Home to the Meneng Hotel overlooking the ocean", "Site of the former State House (Presidential residence)", "Land area of approximately 3.1 square kilometers", "Contains the Nauru Secondary School", "Location of the Australian Regional Processing Centre", "Situated south of the Anibare district"],
     },
+    image: "/poi-images/nauru-meneng-cities-v2.webp",
   },
   {
     id: "nauru-anibare-cities-v2",
@@ -186,6 +191,7 @@ export const nauruCitiesV2: POI[] = [
       ro: ["Găzduiește Golful Anibare cu plajă de corali", "Locația Portului Anibare (deschis în 2000)", "Suprafață de aproximativ 3,14 kilometri pătrați", "Populație redusă comparativ cu districtele vestice", "Proiectul portuar a fost finanțat de Japonia", "Cea mai populară locație pentru activități marine"],
       en: ["Home to Anibare Bay with its coral sand beach", "Site of Anibare Harbour (opened in 2000)", "Land area of approximately 3.14 square kilometers", "Sparsely populated compared to western districts", "The harbor project was funded by Japan", "Most popular spot for seaside recreational activities"],
     },
+    image: "/poi-images/nauru-anibare-cities-v2.webp",
   },
   {
     id: "nauru-buada-cities-v2",
@@ -217,6 +223,7 @@ export const nauruCitiesV2: POI[] = [
       ro: ["Singurul district fără acces direct la mare", "Centrul este Laguna Buada (apă dulce-salmastră)", "Suprafață de aproximativ 2,66 kilometri pătrați", "Situat la o altitudine medie de 12 metri", "Locație tradițională pentru cultivarea fructelor Pandanus", "Înconjurat de zonele miniere de pe platoul central"],
       en: ["Only district without a coastline on the ocean", "Centered around the Buada Lagoon (brackish water)", "Land area of approximately 2.66 square kilometers", "Average elevation of 12 meters above sea level", "Traditional site for growing pandanus trees", "Surrounded by the mining fields of the central plateau"],
     },
+    image: "/poi-images/nauru-buada-cities-v2.webp",
   },
   {
     id: "nauru-nibok-cities-v2",
@@ -248,6 +255,7 @@ export const nauruCitiesV2: POI[] = [
       ro: ["Situat pe coasta de nord-vest a insulei", "Suprafață de aproximativ 1,6 kilometri pătrați", "Face parte din circumscripția electorală Ubenide", "Găzduiește ateliere ale companiei de fosfat", "Se învecinează cu districtele Denigomodu și Uaboe", "Șoseaua de coastă traversează întregul district"],
       en: ["Located on the northwestern coast of the island", "Land area of approximately 1.6 square kilometers", "Part of the Ubenide electoral constituency", "Site of workshops for the phosphate corporation", "Borders Denigomodu and Uaboe districts", "The coastal main road runs through the district"],
     },
+    image: "/poi-images/nauru-nibok-cities-v2.webp",
   },
   {
     id: "nauru-uaboe-cities-v2",
@@ -279,6 +287,7 @@ export const nauruCitiesV2: POI[] = [
       ro: ["Unul dintre cele mai mici districte ale insulei", "Suprafață de doar 0,8 kilometri pătrați", "Membru al circumscripției electorale populate Ubenide", "Situat între districtele Baiti și Nibok", "Linia de coastă este protejată de recife de corali", "Zona rezidențială este situată de-a lungul șoselei"],
       en: ["One of the smallest districts on the island", "Total land area of only 0.8 square kilometers", "Member of the populous Ubenide constituency", "Located between Baiti and Nibok districts", "The coastline is protected by coral reefs", "Residential area is situated along the ring road"],
     },
+    image: "/poi-images/nauru-uaboe-cities-v2.webp",
   },
   {
     id: "nauru-baitsi-cities-v2",
@@ -310,6 +319,7 @@ export const nauruCitiesV2: POI[] = [
       ro: ["Suprafață de aproximativ 1,2 kilometri pătrați", "Aparține administrativ de circumscripția Ubenide", "Situat la nord de districtul Uaboe", "Deține o fâșie îngustă de plajă la ocean", "Numele istoric al regiunii a fost Beidi", "Vegetația include cocotieri și flori de hibiscus"],
       en: ["Land area of approximately 1.2 square kilometers", "Administratively part of the Ubenide constituency", "Located north of the Uaboe district", "Possesses a narrow sandy beach strip by the ocean", "The historical name of the region was Beidi", "Vegetation includes coconut palms and hibiscus"],
     },
+    image: "/poi-images/nauru-baitsi-cities-v2.webp",
   },
   {
     id: "nauru-ewa-cities-v2",
@@ -341,6 +351,7 @@ export const nauruCitiesV2: POI[] = [
       ro: ["Cel mai nordic punct al insulei Nauru", "Sediul Kayser College (școală catolică)", "Locația magazinului universal Capelle & Partner", "Suprafață de aproximativ 1,2 kilometri pătrați", "Se învecinează cu districtele Baiti și Anetan", "Centru important pentru comerțul local de bunuri"],
       en: ["Northernmost point of Nauru island", "Home to Kayser College (Catholic school)", "Site of the Capelle & Partner department store", "Land area of approximately 1.2 square kilometers", "Borders Baiti and Anetan districts", "Major commercial hub for local retail goods"],
     },
+    image: "/poi-images/nauru-ewa-cities-v2.webp",
   },
   {
     id: "nauru-anetan-cities-v2",
@@ -372,6 +383,7 @@ export const nauruCitiesV2: POI[] = [
       ro: ["Situat pe coasta de nord între Ewa și Anabar", "Suprafață de exact 1,0 kilometru pătrat", "Formează o circumscripție electorală comună cu Ewa", "Găzduiește centrul de tineret al statului", "Linia de coastă are stânci de corali proeminente", "Deține o mică școală primară de stat"],
       en: ["Located on the north coast between Ewa and Anabar", "Total land area of exactly 1.0 square kilometer", "Forms a joint electoral constituency with Ewa", "Home to the national youth center facility", "Coastline features distinctive coral rock pinnacles", "Contains a small government primary school"],
     },
+    image: "/poi-images/nauru-anetan-cities-v2.webp",
   },
   {
     id: "nauru-anabar-cities-v2",
@@ -403,6 +415,7 @@ export const nauruCitiesV2: POI[] = [
       ro: ["Situat pe coasta de nord-est a insulei", "Suprafață de aproximativ 1,5 kilometri pătrați", "Găzduiește iazul Anabar (iaz piscicol)", "Formează o circumscripție cu Ijuw și Anibare", "Parțial împădurit comparativ cu zonele miniere", "Drumul principal trece direct pe lângă coastă"],
       en: ["Situated on the northeastern coast of the island", "Land area of approximately 1.5 square kilometers", "Home to the Anabar Pond (local fish pond)", "Part of an electoral constituency with Ijuw and Anibare", "Relatively forested compared to central mining fields", "The island's main ring road runs along its coast"],
     },
+    image: "/poi-images/nauru-anabar-cities-v2.webp",
   },
   {
     id: "nauru-ijuw-cities-v2",
@@ -434,6 +447,7 @@ export const nauruCitiesV2: POI[] = [
       ro: ["Cel mai estic punct al Republicii Nauru", "Suprafață de aproximativ 1,1 kilometri pătrați", "Marcat de Capul Ijuw la Oceanul Pacific", "Aparține de circumscripția electorală Anabar", "Dezvoltare industrială minimă în zonă", "Coasta este cunoscută pentru valurile puternice și recife"],
       en: ["Easternmost point of the Republic of Nauru", "Land area of approximately 1.1 square kilometers", "Marked by Cape Ijuw on the Pacific Ocean", "Part of the Anabar electoral constituency", "Minimal industrial development present in the district", "Coastline is known for heavy surf and reefs"],
     },
+    image: "/poi-images/nauru-ijuw-cities-v2.webp",
   },
   {
     id: "nauru-arenibek-cities-v2",
@@ -465,5 +479,6 @@ export const nauruCitiesV2: POI[] = [
       ro: ["Situat în bazinul fertil al districtului Buada", "Locație rezidențială centrală, departe de coastă", "Înconjurat de arbori Pandanus și arbori de pâine", "Altitudine de aproximativ 10 metri deasupra mării", "Loc important pentru agricultura locală", "Așezarea se află lângă singura sursă de apă dulce"],
       en: ["Located within the fertile Buada basin", "Central residential site far from the coast", "Surrounded by pandanus and breadfruit trees", "Elevation of about 10 meters above sea level", "Important location for local subsistence farming", "Settlement is near the island's only freshwater source"],
     },
+    image: "/poi-images/nauru-arenibek-cities-v2.webp",
   }
 ];

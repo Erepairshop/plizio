@@ -31,6 +31,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Construit în 1882.", "Cea mai veche clădire din Blantyre.", "Stil colonial cu verandă.", "Muzeu din 1990.", "Monument național din 1965.", "Restaurată în 2005."],
       en: ["Built in 1882.", "Oldest building in Blantyre.", "Colonial architecture with veranda.", "Museum since 1990.", "National monument since 1965.", "Restored in 2005."],
     },
+    image: "/poi-images/malawi-mandala-house-history-v2.webp",
   },
   {
     id: "malawi-st-michael-angels-church-history-v2",
@@ -62,6 +63,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Construită în 1891.", "Arhitectură neogotică.", "Vitralii colorate.", "Arhitect: Ernest G. Smith.", "Monument național din 1965.", "Renovată în 2000."],
       en: ["Built in 1891.", "Neo-Gothic style.", "Stained glass windows.", "Designed by Ernest G. Smith.", "National monument since 1965.", "Renovated in 2000."],
     },
+    image: "/poi-images/malawi-st-michael-angels-church-history-v2.webp",
   },
   {
     id: "malawi-chongoni-rock-art-history-v2",
@@ -93,6 +95,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["UNESCO din 2006.", "127 situri de artă rupestră.", "Vechime: până la 2.000 de ani.", "Autori: Batwa și Chewa.", "Regiunea Dedza.", "Peisaj de granit."],
       en: ["UNESCO World Heritage site since 2006.", "127 rock art sites.", "Age: up to 2,000 years.", "Created by Batwa and Chewa.", "Located in Dedza District.", "Granite rock formations."],
     },
+    image: "/poi-images/malawi-chongoni-rock-art-history-v2.webp",
   },
   {
     id: "malawi-livingstonia-mission-history-v2",
@@ -124,6 +127,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Fondată în 1894.", "Misiune presbiteriană.", "Numită după David Livingstone.", "Include biserică, școală, spital.", "Pe malul lacului Malawi.", "Monument istoric."],
       en: ["Founded in 1894.", "Presbyterian mission.", "Named after David Livingstone.", "Includes church, school, hospital.", "Located on Lake Malawi shore.", "Protected historic site."],
     },
+    image: "/poi-images/malawi-livingstonia-mission-history-v2.webp",
   },
   {
     id: "malawi-nkhotakota-slave-market-history-v2",
@@ -155,6 +159,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Activ în secolul al XIX-lea.", "Operat de comercianții Yao.", "Sclavi trimiși la Zanzibar.", "Închis în anii 1880.", "Monument memorial.", "Monument național."],
       en: ["Active in the 19th century.", "Operated by Yao traders.", "Slaves sent to Zanzibar.", "Closed in the 1880s.", "Memorial monument built.", "National monument since 1965."],
     },
+    image: "/poi-images/malawi-nkhotakota-slave-market-history-v2.webp",
   },
   {
     id: "malawi-mua-mission-history-v2",
@@ -186,6 +191,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Fondată în 1902.", "Misiune catolică.", "Părinții Albi (White Fathers).", "Muzeu Chewa și Ngoni.", "Picturi murale în biserică.", "Pe malul lacului Malawi."],
       en: ["Founded in 1902.", "Catholic mission.", "White Fathers (Missionaries of Africa).", "Museum of Chewa and Ngoni culture.", "Church murals by local artists.", "Located on Lake Malawi shore."],
     },
+    image: "/poi-images/malawi-mua-mission-history-v2.webp",
   },
   {
     id: "malawi-karonga-museum-history-v2",
@@ -217,6 +223,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Deschis în anul 2004.", "Amplasat pe malul Lacului Malawi, al treilea ca mărime din Africa.", "Păstrează fosile de dinozauri din genul Malawisaurus, vechi de 140 de milioane de ani.", "Suprafața expozițională este de 400 de metri pătrați.", "Atrage aproximativ 15.000 de vizitatori anual.", "Grădina botanică se întinde pe 2 hectare."],
       en: ["Opened in 2004.", "Located on the shores of Lake Malawi, Africa's third-largest lake.", "Houses fossils of the dinosaur genus Malawisaurus from the Early Cretaceous.", "Exhibition area spans 400 square meters.", "Annual visitor count averages 15,000.", "The botanical garden covers 2 hectares."],
     },
+    image: "/poi-images/malawi-karonga-museum-history-v2.webp",
   },
   {
     id: "malawi-victoria-memorial-tower-history-v2",
@@ -248,6 +255,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Construit în 1902.", "Înălțime de 28 de metri.", "Realizat din cărămidă roșie și granit.", "Capacitatea originală a rezervorului: 50.000 de litri.", "Ceasul turnului a fost adăugat în 1903.", "Situat la altitudinea de 950 de metri."],
       en: ["Built in 1902.", "Height: 28 meters.", "Constructed from local red brick and granite.", "Original water capacity: 50,000 liters.", "Clock installed in 1903.", "Located at an elevation of 950 meters above sea level."],
     },
+    image: "/poi-images/malawi-victoria-memorial-tower-history-v2.webp",
   },
   {
     id: "malawi-likoma-cathedral-history-v2",
@@ -279,6 +287,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Construită între 1903 și 1911.", "Lungime: 100 de metri.", "Lățime: 50 de metri.", "Capacitate: 2000 de persoane.", "Vitraliile au fost aduse din Anglia.", "Grosimea pereților: până la 1,5 metri."],
       en: ["Built between 1903 and 1911.", "Length: 100 meters.", "Width: 50 meters.", "Seating capacity: 2,000.", "Stained glass windows sourced from England.", "Wall thickness up to 1.5 meters."],
     },
+    image: "/poi-images/malawi-likoma-cathedral-history-v2.webp",
   },
   {
     id: "malawi-zomba-old-parliament-history-v2",
@@ -310,6 +319,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Construită în 1938.", "Funcționată ca parlament între 1938 și 1994.", "Sala principală avea 180 de locuri.", "Clădire are trei etaje.", "Din 1994, utilizată pentru birouri administrative.", "Adăpostește Arhivele Naționale ale Malawiului."],
       en: ["Built in 1938.", "Served as parliament from 1938 to 1994.", "Main chamber capacity: 180 seats.", "Building has three floors.", "Converted to offices after 1994.", "Currently houses the National Archives of Malawi."],
     },
+    image: "/poi-images/malawi-zomba-old-parliament-history-v2.webp",
   },
   {
     id: "malawi-blantyre-old-town-hall-history-v2",
@@ -341,6 +351,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Construită în 1909.", "Înălțimea turnului cu ceas: 20 de metri.", "Clădirea are două etaje.", "A servit ca primărie timp de peste 80 de ani.", "Transformată în muzeu în 1996.", "Suprafața construită: 600 de metri pătrați."],
       en: ["Built in 1909.", "Clock tower height: 20 meters.", "Two-story building.", "Served as town hall for over 80 years.", "Converted into a museum in 1996.", "Floor area: 600 square meters."],
     },
+    image: "/poi-images/malawi-blantyre-old-town-hall-history-v2.webp",
   },
   {
     id: "malawi-chichiri-museum-history-v2",
@@ -372,6 +383,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Deschis în 1965.", "Locație: Blantyre, cartierul Chichiri.", "Colecție de peste 50.000 de obiecte.", "Suprafața expozițională: 3.000 de metri pătrați.", "Satul tradițional reconstruit se întinde pe 1 hectar.", "Atrage aproximativ 20.000 de vizitatori anual."],
       en: ["Opened in 1965.", "Location: Chichiri, Blantyre.", "Collection exceeds 50,000 objects.", "Exhibition space: 3,000 square meters.", "Outdoor village reconstruction covers 1 hectare.", "Annual visitors: approximately 20,000."],
     },
+    image: "/poi-images/malawi-chichiri-museum-history-v2.webp",
   },
   {
     id: "malawi-lilongwe-war-memorial-history-v2",
@@ -403,6 +415,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Ridicat în 1923.", "Înălțimea obeliscului: 12 metri.", "Material: granit local.", "Amplasare inițială: Zomba.", "Relocat la Lilongwe în 1975.", "Comemorează 402 de soldați căzuți."],
       en: ["Erected in 1923.", "Obelisk height: 12 meters.", "Material: local granite.", "Original location: Zomba.", "Relocated to Lilongwe in 1975.", "Records names of 402 fallen soldiers."],
     },
+    image: "/poi-images/malawi-lilongwe-war-memorial-history-v2.webp",
   },
   {
     id: "malawi-mtunthama-memorial-history-v2",
@@ -434,6 +447,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Creat în 1922.", "Suprafața: 5 hectare.", "Monumentul are 6 metri înălțime.", "Placa memorială listează 150 de nume.", "Situat în regiunea centrală a Malawiului.", "Atrage anual aproximativ 500 de vizitatori."],
       en: ["Established in 1922.", "Area: 5 hectares.", "Monument height: 6 meters.", "Plaque lists 150 names.", "Located in central Malawi.", "Annual visitors: approximately 500."],
     },
+    image: "/poi-images/malawi-mtunthama-memorial-history-v2.webp",
   },
   {
     id: "malawi-malamulo-mission-history-v2",
@@ -465,6 +479,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Fondată în 1906.", "Spitalul are 250 de paturi.", "Aproximativ 400 de angajați.", "Administrează 6 școli primare.", "Plantația de cafea se întinde pe 50 de hectare.", "Spitalul tratează 15.000 de pacienți anual."],
       en: ["Founded in 1906.", "Hospital capacity: 250 beds.", "Employs approximately 400 staff.", "Operates 6 primary schools.", "Coffee plantation covers 50 hectares.", "Hospital treats 15,000 patients annually."],
     },
+    image: "/poi-images/malawi-malamulo-mission-history-v2.webp",
   },
   {
     id: "malawi-nkhoma-mission-history-v2",
@@ -496,6 +511,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Fondată în 1889.", "Colegiul teologic din 1935.", "Spitalul are 150 de paturi.", "Include 10 clădiri bisericești.", "Colegiul are 200 de studenți anual.", "Cultura orezului pe 30 de hectare."],
       en: ["Founded in 1889.", "Theological college established 1935.", "Hospital with 150 beds.", "Comprises 10 church buildings.", "College enrolls 200 students annually.", "Rice cultivation on 30 hectares."],
     },
+    image: "/poi-images/malawi-nkhoma-mission-history-v2.webp",
   },
   {
     id: "malawi-ekwendeni-mission-history-v2",
@@ -527,6 +543,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Fondată în 1894.", "Spital cu 180 de paturi.", "Peste 300 de angajați.", "Școala secundară are 400 de elevi.", "Misiunea cultivă 80 de hectare de teren.", "Tratează 20.000 de pacienți anual."],
       en: ["Founded in 1894.", "Hospital with 180 beds.", "Over 300 employees.", "Secondary school enrolls 400 students.", "Mission farms 80 hectares of land.", "Treats 20,000 patients annually."],
     },
+    image: "/poi-images/malawi-ekwendeni-mission-history-v2.webp",
   },
   {
     id: "malawi-bandawe-mission-history-v2",
@@ -558,6 +575,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Fondată în 1881.", "Cea mai veche misiune scoțiană în Malawi.", "Casa misionară are 140 de ani.", "Cimitirul conține 30 de morminte.", "Misiunea se întindea pe 20 de hectare.", "A contribuit la traducerea Bibliei în chiTumbuka."],
       en: ["Founded in 1881.", "Oldest Scottish mission in Malawi.", "Mission house is 140 years old.", "Cemetery contains 30 graves.", "Mission area was 20 hectares.", "Helped translate the Bible into ChiTumbuka."],
     },
+    image: "/poi-images/malawi-bandawe-mission-history-v2.webp",
   },
   {
     id: "malawi-livingstonia-cairn-history-v2",
@@ -589,6 +607,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Construit în 1894.", "Înălțime: 3 metri.", "Diametrul bazei: 5 metri.", "Marchează sosirea lui Livingstone în 1859.", "Situat la altitudinea de 600 de metri.", "Format din peste 1.000 de pietre."],
       en: ["Erected in 1894.", "Height: 3 meters.", "Base diameter: 5 meters.", "Marks Livingstone's arrival in 1859.", "Elevation: 600 meters above sea level.", "Composed of over 1,000 stones."],
     },
+    image: "/poi-images/malawi-livingstonia-cairn-history-v2.webp",
   },
   {
     id: "malawi-karonga-fossil-beds-history-v2",
@@ -620,6 +639,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Vechime: cca. 140 de milioane de ani.", "Descoperite în anii 1920.", "Situl unde a fost găsit Malawisaurus, un sauropod de 12 metri.", "Formațiunea are o grosime de 300 de metri.", "15 specii de dinozauri identificate până acum.", "Situl se întinde pe 5 kilometri."],
       en: ["Age: approx. 140 million years.", "Discovered in the 1920s.", "Source of Malawisaurus, a 12-meter-long sauropod.", "Formation thickness: 300 meters.", "15 dinosaur species identified to date.", "Site extends over 5 kilometers."],
     },
+    image: "/poi-images/malawi-karonga-fossil-beds-history-v2.webp",
   },
   {
     id: "malawi-kasungu-iron-kilns-history-v2",
@@ -651,6 +671,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Operate înainte de secolul al XIX-lea.", "5 cuptoare păstrate.", "Cuptoarele au până la 2 metri înălțime.", "Temperatura de topire: 1200°C.", "Cercetări arheologice din 1970.", "Situl se întinde pe 0,5 hectare."],
       en: ["Operated before the 19th century.", "5 preserved furnaces.", "Furnaces up to 2 meters high.", "Smelting temperature: 1200°C.", "Archaeological research since 1970.", "Site covers 0.5 hectares."],
     },
+    image: "/poi-images/malawi-kasungu-iron-kilns-history-v2.webp",
   },
   {
     id: "malawi-fort-maguire-ruins-history-v2",
@@ -682,6 +703,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Construit în 1890.", "Pe insula Likoma, Lacul Malawi.", "Numit după căpitanul Maguire.", "Ziduri groase de 1 metru.", "Ruinele acoperă 400 de metri pătrați.", "Declarat monument național în 1995."],
       en: ["Built in 1890.", "Located on Likoma Island, Lake Malawi.", "Named after Captain Maguire.", "Walls were 1 meter thick.", "Ruins cover 400 square meters.", "Declared national monument in 1995."],
     },
+    image: "/poi-images/malawi-fort-maguire-ruins-history-v2.webp",
   },
   {
     id: "malawi-mchinji-fort-manning-history-v2",
@@ -713,6 +735,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Construit în anii 1890.", "Situat la altitudinea de 1.100 de metri.", "Ziduri groase de 2 metri.", "Fortul are 4 turnuri de colț.", "Curtea interioară măsoară 30x30 de metri.", "Declarat monument în 1965."],
       en: ["Built in the 1890s.", "Elevation: 1,100 meters.", "Walls are 2 meters thick.", "Fort has 4 corner towers.", "Interior courtyard: 30 meters by 30 meters.", "Declared a monument in 1965."],
     },
+    image: "/poi-images/malawi-mchinji-fort-manning-history-v2.webp",
   },
   {
     id: "malawi-fort-alston-kasungu-history-v2",
@@ -744,6 +767,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Construit în 1897.", "Ziduri groase de 1,5 metri.", "Turnul central are 8 metri înălțime.", "Fortul acoperă 1.500 de metri pătrați.", "Situat la 50 de kilometri de Parcul Național Kasungu.", "Declarat monument național în 1980."],
       en: ["Built in 1897.", "Walls are 1.5 meters thick.", "Central tower is 8 meters high.", "Fort covers 1,500 square meters.", "Located 50 kilometers from Kasungu National Park.", "Declared a national monument in 1980."],
     },
+    image: "/poi-images/malawi-fort-alston-kasungu-history-v2.webp",
   },
   {
     id: "malawi-blantyre-old-boma-history-v2",
@@ -775,6 +799,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Construită în 1896.", "Clădire din cărămidă cu două etaje.", "A servit ca sediu administrativ timp de 70 de ani.", "Funcționează ca muzeu din 2005.", "Suprafața construită: 500 de metri pătrați.", "Protejată ca monument din 1965."],
       en: ["Built in 1896.", "Two-story brick building.", "Served as administrative center for 70 years.", "Museum since 2005.", "Floor area: 500 square meters.", "Protected as a monument since 1965."],
     },
+    image: "/poi-images/malawi-blantyre-old-boma-history-v2.webp",
   },
   {
     id: "malawi-zomba-boma-history-v2",
@@ -806,6 +831,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Construită în 1892.", "Arhitectură neoclasică.", "A fost sediu guvernamental timp de 102 de ani.", "Adăpostește Arhivele Naționale.", "Suprafața construită: 800 de metri pătrați.", "Declarat monument național în 1985."],
       en: ["Built in 1892.", "Neoclassical architecture.", "Served as government seat for 102 years.", "Now houses the National Archives.", "Floor area: 800 square meters.", "Declared a national monument in 1985."],
     },
+    image: "/poi-images/malawi-zomba-boma-history-v2.webp",
   },
   {
     id: "malawi-rumphi-boma-history-v2",
@@ -837,6 +863,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Construit în 1904", "Suprafață: 1,5 hectare", "Populația orașului: 20.000", "Număr de camere: 12", "Acoperiș din tablă ondulată", "Muzeu local din 2002"],
       en: ["Built in 1904", "Two-story brick building", "Height: 8 meters to roof ridge", "Area: 2 hectares", "Housed 6 district commissioners", "Renovated in 2007"],
     },
+    image: "/poi-images/malawi-rumphi-boma-history-v2.webp",
   },
   {
     id: "malawi-nkhata-bay-old-port-history-v2",
@@ -868,6 +895,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Construit în 1934", "Lungimea digului: 30 m", "Depozit din piatră", "Adâncime: 2,5 m", "Capacitate: 10.000 tone/an", "Renovat în 2010"],
       en: ["Built in 1934", "Concrete jetty length: 30 m", "Stone warehouse area: 200 m²", "Maximum depth: 3 m", "Steamer service ended 1980", "Port area: 0.5 hectares"],
     },
+    image: "/poi-images/malawi-nkhata-bay-old-port-history-v2.webp",
   },
   {
     id: "malawi-monkey-bay-naval-base-history-v2",
@@ -899,6 +927,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Înființată în 1965", "Suprafață: 10 ha", "Lungimea cheiului: 200 m", "Adâncimea apei: 15 m", "Personal: 200", "Nave: 2 patrule"],
       en: ["Founded 1965", "Area: 10 ha", "Pier length: 200 m", "Water depth: 15 m", "Personnel: 200", "Patrol boats: 2"],
     },
+    image: "/poi-images/malawi-monkey-bay-naval-base-history-v2.webp",
   },
   {
     id: "malawi-malindi-mission-church-history-v2",
@@ -930,6 +959,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Construită în 1891", "Material: chirpici", "Acoperiș: stuf", "Lungime: 20 m", "Lățime: 10 m", "Monument național din 1976"],
       en: ["Built 1891", "Material: sun-dried brick", "Roof: thatch", "Length: 20 m", "Width: 10 m", "Declared monument 1976"],
     },
+    image: "/poi-images/malawi-malindi-mission-church-history-v2.webp",
   },
   {
     id: "malawi-domasi-mission-site-history-v2",
@@ -961,6 +991,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Fondat în 1889", "Biserică: 30 m lungime", "Spital: 50 paturi", "Școală: 200 elevi", "Abandonat: 1970", "Monument național: 1998"],
       en: ["Founded 1889", "Church length: 30 m", "Hospital beds: 50", "School students: 200", "Abandoned: 1970", "National monument: 1998"],
     },
+    image: "/poi-images/malawi-domasi-mission-site-history-v2.webp",
   },
   {
     id: "malawi-mwanda-hill-caves-history-v2",
@@ -992,6 +1023,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Calcar", "Lungime: 50 m", "Lățime: 10 m", "Înălțime: 8 m", "Temperatură: 20°C", "Arie protejată: 2005"],
       en: ["Limestone caves", "Main cave length: 50 m", "Width: 10 m", "Height: 8 m", "Temperature: 20°C", "Protected from 2005"],
     },
+    image: "/poi-images/malawi-mwanda-hill-caves-history-v2.webp",
   },
   {
     id: "malawi-chencherere-rock-art-history-v2",
@@ -1023,6 +1055,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Epoca fierului", "Pigment: ocru roșu", "Adâncime: 10 m", "Lățime: 8 m", "Descoperire: 1930", "Monument: 1960"],
       en: ["Iron Age", "Pigment: red ochre", "Cave depth: 10 m", "Width: 8 m", "Discovered 1930", "Monument since 1960"],
     },
+    image: "/poi-images/malawi-chencherere-rock-art-history-v2.webp",
   },
   {
     id: "malawi-namzeze-rock-art-history-v2",
@@ -1054,6 +1087,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Gresie", "Culori: roșu, alb", "Adâncime: 5 m", "Vârstă: 1000-2000 ani", "Descoperire: 1952", "Monument: 1970"],
       en: ["Sandstone", "Colors: red, white", "Shelter depth: 5 m", "Age: 1000-2000 years", "Discovered 1952", "Monument: 1970"],
     },
+    image: "/poi-images/malawi-namzeze-rock-art-history-v2.webp",
   },
   {
     id: "malawi-phalombe-boma-history-v2",
@@ -1085,6 +1119,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Construită 1906", "Cărămidă, un etaj", "Birouri: 10", "Populație oraș: 5000", "Populație district: 300.000", "Muntele Mulanje: 3002 m"],
       en: ["Built 1906", "Brick, one story", "Offices: 10", "Town pop: 5000", "District pop: 300,000", "Near Mt. Mulanje 3002 m"],
     },
+    image: "/poi-images/malawi-phalombe-boma-history-v2.webp",
   },
   {
     id: "malawi-chikwawa-mission-history-v2",
@@ -1116,6 +1151,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Fondat 1892", "Biserică: 1910", "Spital: 100 paturi", "Școală: 300 elevi", "Populație oraș: 7000", "Suprafață: 8 ha"],
       en: ["Founded 1892", "Church built 1910", "Hospital beds: 100", "School pupils: 300", "Town population: 7000", "Area: 8 ha"],
     },
+    image: "/poi-images/malawi-chikwawa-mission-history-v2.webp",
   },
   {
     id: "malawi-nsanje-boma-history-v2",
@@ -1147,6 +1183,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Construită 1905", "Cărămidă, verandă", "Populație oraș: 20.000", "Populație district: 250.000", "Port închis 1975", "Muzeu din 1990"],
       en: ["Built 1905", "Brick with veranda", "Town pop: 20,000", "District pop: 250,000", "Port closed 1975", "Museum since 1990"],
     },
+    image: "/poi-images/malawi-nsanje-boma-history-v2.webp",
   },
   {
     id: "malawi-bangula-bridge-history-v2",
@@ -1178,6 +1215,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Finalizat 1935", "Oțel cu zăbrele", "Lungime: 200 m", "Înălțime: 10 m", "Stâlpi: 2", "Consolidat 1970"],
       en: ["Completed 1935", "Steel truss", "Length: 200 m", "Height: 10 m", "Piers: 2", "Reinforced 1970"],
     },
+    image: "/poi-images/malawi-bangula-bridge-history-v2.webp",
   },
   {
     id: "malawi-kamuzu-academy-history-v2",
@@ -1209,6 +1247,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Deschisă la 21 noiembrie 1981.", "Situată în apropiere de Mtunthama.", "Latina este materie obligatorie pentru toți elevii.", "Fondată de Dr. Hastings Kamuzu Banda.", "Școală cu internat după model britanic.", "Deține una dintre cele mai bune biblioteci din Malawi."],
       en: ["Opened on November 21, 1981.", "Located near Mtunthama.", "Latin is a compulsory subject for all students.", "Founded by Dr. Hastings Kamuzu Banda.", "Boarding school modeled on British standards.", "Houses one of the best libraries in Malawi."],
     },
+    image: "/poi-images/malawi-kamuzu-academy-history-v2.webp",
   },
   {
     id: "malawi-victoria-avenue-blantyre-history-v2",
@@ -1240,6 +1279,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Lungime: 1,5 km", "Construită: 1890", "Mandala House: 1882", "Aleea copacilor", "Zonă protejată", "Numită după regina Victoria"],
       en: ["Length: 1.5 km", "Built: 1890s", "Mandala House: 1882", "Tree-lined", "Protected zone", "Named after Queen Victoria"],
     },
+    image: "/poi-images/malawi-victoria-avenue-blantyre-history-v2.webp",
   },
   {
     id: "malawi-kamuzu-memorial-statue-history-v2",
@@ -1271,6 +1311,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Dezvelită 2009", "Material: bronz", "Înălțime: 5 m", "Soclul: granit", "Locație: Piața Kamuzu", "Artist: G. Mwenelupembe"],
       en: ["Unveiled 2009", "Material: bronze", "Height: 5 m", "Plinth: granite", "Location: Kamuzu Square", "Artist: G. Mwenelupembe"],
     },
+    image: "/poi-images/malawi-kamuzu-memorial-statue-history-v2.webp",
   },
   {
     id: "malawi-mulunguzi-dam-history-v2",
@@ -1302,6 +1343,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Finalizat 1990", "Baraj de pământ", "Înălțime: 25 m", "Capacitate: 2,5 milioane m³", "Lungime: 150 m", "Bazin hidrografic: 20 km²"],
       en: ["Completed 1990", "Earthfill dam", "Height: 25 m", "Capacity: 2.5 million m³", "Length: 150 m", "Catchment: 20 km²"],
     },
+    image: "/poi-images/malawi-mulunguzi-dam-history-v2.webp",
   },
   {
     id: "malawi-thyolo-house-history-v2",
@@ -1333,6 +1375,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Construită 1910", "Bungalou colonial", "Înălțime tavan: 4 m", "Dormitoare: 3", "Naționalizată 1968", "Muzeu din 1995"],
       en: ["Built 1910", "Colonial bungalow", "Ceiling height: 4 m", "Bedrooms: 3", "Nationalized 1968", "Museum since 1995"],
     },
+    image: "/poi-images/malawi-thyolo-house-history-v2.webp",
   },
   {
     id: "malawi-cape-maclear-graves-history-v2",
@@ -1364,6 +1407,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Cel mai vechi mormânt: 1875", "Număr morminte: 12", "Cruci de piatră", "Parte a Parcului Național", "Monument: 1970", "Altitudine: 5 m"],
       en: ["Oldest grave: 1875", "Number of graves: 12", "Stone crosses", "In Lake Malawi National Park", "Monument since 1970", "Elevation: 5 m above lake"],
     },
+    image: "/poi-images/malawi-cape-maclear-graves-history-v2.webp",
   },
   {
     id: "malawi-likoma-slave-refuge-history-v2",
@@ -1395,6 +1439,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Suprafață insulă: 18 km²", "Populație: 6000", "Sfârșitul comerțului cu sclavi: 1890", "Peșteri", "Catedrală: 1905", "Atracție turistică din 2000"],
       en: ["Island area: 18 km²", "Population: 6000", "Slave trade ended 1890s", "Caves used as refuge", "Cathedral built 1905", "Tourist attraction since 2000"],
     },
+    image: "/poi-images/malawi-likoma-slave-refuge-history-v2.webp",
   },
   {
     id: "malawi-chizumulu-fortification-history-v2",
@@ -1426,6 +1471,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Construită în anii 1890", "Fortăreață de piatră", "Înălțime: 30 m", "Suprafață: 3 km²", "Populație: 1000", "A devenit britanică în 1919"],
       en: ["Built 1890s", "Stone fortification", "Height above lake: 30 m", "Island area: 3 km²", "Population: 1000", "Became British in 1919"],
     },
+    image: "/poi-images/malawi-chizumulu-fortification-history-v2.webp",
   },
   {
     id: "malawi-mvera-mission-history-v2",
@@ -1457,6 +1503,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Înființată în 1880", "Biserica are o capacitate de 400 de locuri", "Școala a fost construită în 1885", "Spitalul tratează 3000 de pacienți anual", "Clădirea misiunii are 200 de ani", "Altarul este sculptat manual"],
       en: ["Founded in 1880", "Church built in 1892 with 50,000 bricks", "First school opened 1885 with 60 pupils", "Hospital serves a population of 15,000", "Mission station covers 4 hectares", "Bell tower height: 12 meters"],
     },
+    image: "/poi-images/malawi-mvera-mission-history-v2.webp",
   },
   {
     id: "malawi-kongwe-mission-history-v2",
@@ -1488,6 +1535,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Înființată în 1894", "Tipografia a funcționat din 1900", "Biserica are o capacitate de 250 de locuri", "Spitalul tratează 2000 de pacienți anual", "Clădirea principală are 2 etaje", "Școala a fost construită în 1898"],
       en: ["Founded in 1894", "Printing press operational from 1900", "First Chewa grammar book published 1905", "Hospital capacity: 40 beds", "Church built in 1910 with 250 seats", "Mission compound covers 5 hectares"],
     },
+    image: "/poi-images/malawi-kongwe-mission-history-v2.webp",
   },
   {
     id: "malawi-vaza-marsh-trade-history-v2",
@@ -1519,6 +1567,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Centru comercial activ din 1850", "Se tranzacționau anual 8 tone de fildeș", "Comerțul cu sclavi a încetat în 1890", "Zona comercială acoperă 300 de hectare", "S-au găsit mărgele venețiene din secolul al XIX-lea", "Altitudine: 1200 m"],
       en: ["Trade center active from 1850", "Ivory trade estimated 12 tons annually", "Slave trade ceased 1890", "Trade zone area: 250 hectares", "Marsh ecosystem spans 1500 km²", "Elevation 1,180 meters"],
     },
+    image: "/poi-images/malawi-vaza-marsh-trade-history-v2.webp",
   },
   {
     id: "malawi-mua-chamare-museum-history-v2",
@@ -1550,6 +1599,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Fondat în 1976", "Colecție de 4000 de artefacte", "Măști Gule Wamkulu: 250 de piese", "Ateliere anuale: 50", "Vizitatori anual: 10.000", "Clădirea muzeului are 3 săli de expoziție"],
       en: ["Founded in 1976", "Collection includes 3,500 artifacts", "Gule Wamkulu masks: 150 on display", "Museum building covers 800 m²", "Annual visitors: 10,000", "Founder: Father Claude Boucher"],
     },
+    image: "/poi-images/malawi-mua-chamare-museum-history-v2.webp",
   },
   {
     id: "malawi-old-zomba-parliament-history-v2",
@@ -1581,6 +1631,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Construit în 1938", "Cost de construcție: 40.000 de lire sterline", "Sala de ședințe are 130 de locuri", "Altitudine: 1.750 m", "A funcționat până în 1994", "Clădire listată ca monument istoric"],
       en: ["Built in 1938", "Construction cost: £45,000", "Debate chamber seats 140 MPs", "Elevation: 1,850 meters", "Parliament until 1994", "Declared national monument in 1998"],
     },
+    image: "/poi-images/malawi-old-zomba-parliament-history-v2.webp",
   },
   {
     id: "malawi-blantyre-mandala-library-history-v2",
@@ -1612,6 +1663,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Deschisă în 1956", "Colecție de 55.000 de volume", "Cost de construcție: 25.000 de lire", "Sala de lectură cu 90 de locuri", "Renovată în 2010", "Arhitect: James Mandala (fictiv)"],
       en: ["Opened in 1956", "Holds 50,000 books", "Construction cost: £20,000", "Reading room seats 120", "Renovated in 2010 with £100,000 grant", "Named after Mandala family founder"],
     },
+    image: "/poi-images/malawi-blantyre-mandala-library-history-v2.webp",
   },
   {
     id: "malawi-chichiri-steam-locos-history-v2",
@@ -1643,6 +1695,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Locație: Muzeul Malawi (Chichiri).", "Prezintă locomotive ale Nyasaland Railways.", "Ecartament de 1.067 mm (ecartament Cap).", "Tehnologie din perioada 1900-1950.", "Prima linie ferată din Malawi a pornit în 1908.", "Legătură importantă cu portul Beira (Mozambic)."],
       en: ["Located at the Museum of Malawi (Chichiri).", "Features Nyasaland Railways locomotives.", "Gauge of 1,067 mm (Cape gauge).", "Technology from the 1900-1950 era.", "Malawi's first railway line started in 1908.", "Key connection to Beira port in Mozambique."],
     },
+    image: "/poi-images/malawi-chichiri-steam-locos-history-v2.webp",
   },
   {
     id: "malawi-karonga-war-memorial-history-v2",
@@ -1674,6 +1727,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Dezvelit în 1924", "Înălțime: 6,5 metri", "220 de nume inscripționate", "Locație: lângă lacul Malawi", "Ceremonii anuale", "Construit din granit local"],
       en: ["Unveiled in 1924", "Obelisk height: 6 meters", "215 names inscribed", "Material: local granite", "WWI names: 150; WWII: 65", "Renovated in 2014"],
     },
+    image: "/poi-images/malawi-karonga-war-memorial-history-v2.webp",
   },
   {
     id: "malawi-mtunthama-residence-history-v2",
@@ -1705,6 +1759,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Construită în 1910", "4 colibe principale", "Suprafață totală: 600 m²", "Material: chirpici", "Acoperiș din stuf", "Monument istoric din 1985"],
       en: ["Built around 1910", "5 huts, 8 meters diameter each", "Central courtyard: 15 meters across", "Thatch thickness: 30 cm", "Chief's stool carved from ebony", "Declared national monument in 1982"],
     },
+    image: "/poi-images/malawi-mtunthama-residence-history-v2.webp",
   },
   {
     id: "malawi-loudon-mission-history-v2",
@@ -1736,6 +1791,7 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Fondată în 1901", "Biserica de piatră are 40 de locuri", "Seminarul a fost deschis în 1915", "Înălțimea turnului: 18 m", "Suprafață agricolă: 15 ha", "Monument istoric din 1992"],
       en: ["Founded in 1901", "Church built 1908, 30 m long", "Teacher training college opened 1915", "Church tower height: 22 meters", "Mission farm size: 12 hectares", "Declared heritage site in 1991"],
     },
+    image: "/poi-images/malawi-loudon-mission-history-v2.webp",
   },
   {
     id: "malawi-likoma-island-haven-history-v2",
@@ -1767,5 +1823,6 @@ export const malawiHistoryV2: POI[] = [
       ro: ["Suprafața insulei: 18 km²", "Catedrala Sf. Petru a fost construită în 1903", "Populație: 6.200", "Altitudine maximă: 450 m", "Portul principal are 2 dane", "Rezervație naturală parțială"],
       en: ["Island area: 18 km²", "St. Peter's Cathedral built 1903", "Population: 6,000", "Distance from mainland: 20 km", "Ferry service: 3 times weekly", "Elevation: 500 m above lake level"],
     },
+    image: "/poi-images/malawi-likoma-island-haven-history-v2.webp",
   }
 ];

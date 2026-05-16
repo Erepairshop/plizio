@@ -31,6 +31,7 @@ export const newcaledoniaEconomicV2: POI[] = [
       ro: ["Unitatea industrială a fost fondată în 1910", "Operată de Société Le Nickel (SLN)", "Produce anual circa 50.000 de tone de nichel", "Cel mai înalt horn măsoară 105 metri", "Deține propriul port de mare adâncime", "Cel mai important angajator din orașul Nouméa"],
       en: ["Industrial facility founded in 1910", "Operated by Société Le Nickel (SLN)", "Produces about 50,000 tons of nickel annually", "The tallest chimney measures 105 meters", "Equipped with its own deep-water port", "Key employer in the city of Nouméa"],
     },
+    image: "/poi-images/newcaledonia-doniambo-smelter-economic-v2.webp",
   },
   {
     id: "newcaledonia-port-of-noumea-economic-v2",
@@ -62,6 +63,7 @@ export const newcaledoniaEconomicV2: POI[] = [
       ro: ["Port Autonome a fost înființat în anul 1968.", "Principalul port de export pentru nichelul prelucrat.", "Dispune de o lungime a cheiului de peste 1.000 de metri.", "Primește anual peste 500 de nave comerciale.", "Centru de distribuție a mărfurilor în Pacific.", "Punct de transbordare pentru combustibili și utilaje grele."],
       en: ["The Port Autonome was established in 1968.", "Main export port for processed nickel products.", "Features a total quay length exceeding 1,000 meters.", "Receives over 500 commercial vessels annually.", "Central hub for cargo distribution in the South Pacific.", "Primary entry point for fuel and heavy machinery."],
     },
+    image: "/poi-images/newcaledonia-port-of-noumea-economic-v2.webp",
   },
   {
     id: "newcaledonia-goro-nickel-plant-economic-v2",
@@ -93,6 +95,7 @@ export const newcaledoniaEconomicV2: POI[] = [
       ro: ["Capacitate de producție de aprox. 40.000 tone de nichel anual.", "Extracția cobaltului ca subprodus valoros.", "Utilizarea tehnologiei HPAL de la punerea în funcțiune.", "Angajează direct peste 1.200 de persoane.", "Furnizor cheie pentru industria bateriilor electrice.", "Costuri de investiție de peste 4 miliarde de dolari."],
       en: ["Production capacity of approx. 40,000 tonnes of nickel per year.", "Extraction of cobalt as a valuable by-product.", "Uses HPAL technology since the start of operations.", "Employs directly over 1,200 people.", "Key supplier for the electric vehicle battery industry.", "Total investment costs exceeded 4 billion US dollars."],
     },
+    image: "/poi-images/newcaledonia-goro-nickel-plant-economic-v2.webp",
   },
   {
     id: "newcaledonia-koniambo-nickel-plant-economic-v2",
@@ -124,6 +127,7 @@ export const newcaledoniaEconomicV2: POI[] = [
       ro: ["Punerea în funcțiune a primei linii de producție în 2013.", "Două cuptoare electrice pentru producția de feronichel.", "Construcția unui sistem de benzi transportoare de 11 km.", "Port propriu de adâncime la Vavouto pentru export.", "Alimentare cu energie prin propria centrală pe cărbune.", "Deținere majoritară (51%) de către compania locală SMSP."],
       en: ["Commissioning of the first production line in 2013.", "Two electric furnaces for ferronickel production.", "Construction of an 11-kilometer long conveyor belt system.", "Dedicated deep-water port at Vavouto for exports.", "Power supply provided by an on-site coal power plant.", "Majority ownership (51%) held by the local SMSP."],
     },
+    image: "/poi-images/newcaledonia-koniambo-nickel-plant-economic-v2.webp",
   },
   {
     id: "newcaledonia-thio-nickel-mines-economic-v2",
@@ -155,6 +159,7 @@ export const newcaledoniaEconomicV2: POI[] = [
       ro: ["Primul export de minereu de nichel în 1875.", "Găzduiește Muzeul Nichelului din Thio.", "Operat de SLN de peste un secol.", "Cunoscut pentru banda transportoare 'Serpentine' de 13 km.", "Situat pe coasta de est a insulei Grande Terre.", "Extracția minereului de saprolit de înaltă calitate."],
       en: ["First export of nickel ore occurred in 1875.", "Home to the Thio Nickel Museum.", "Operated by SLN for over a century.", "Famous for the 13-km long 'Serpentine' conveyor belt.", "Located on the east coast of Grande Terre.", "Mining of high-grade saprolite ore."],
     },
+    image: "/poi-images/newcaledonia-thio-nickel-mines-economic-v2.webp",
   },
   {
     id: "newcaledonia-yate-dam-economic-v2",
@@ -186,6 +191,7 @@ export const newcaledoniaEconomicV2: POI[] = [
       ro: ["Construit între anii 1955 și 1959.", "Putere instalată de 68 de megawați.", "Înălțimea barajului este de 45 de metri.", "Alimentează cu electricitate uzina Doniambo a SLN.", "Formează cel mai mare lac din Noua Caledonie.", "Parte a strategiei de diversificare a mixului energetic."],
       en: ["Built between 1955 and 1959.", "Installed capacity of 68 megawatts.", "The dam wall stands 45 meters high.", "Supplies electricity to SLN's Doniambo plant.", "Creates the largest lake in New Caledonia.", "Key component in diversifying the energy mix."],
     },
+    image: "/poi-images/newcaledonia-yate-dam-economic-v2.webp",
   },
   {
     id: "newcaledonia-kouaoua-serpentine-economic-v2",
@@ -217,6 +223,7 @@ export const newcaledoniaEconomicV2: POI[] = [
       ro: ["Lungime totală de 11 kilometri.", "Pusă în funcțiune în anul 1978.", "Formată din mai multe secțiuni interconectate.", "Transportă până la 800 de tone de minereu pe oră.", "Conduce direct la terminalul de încărcare a navelor.", "Soluție unică pentru terenul de coastă dificil."],
       en: ["Total length of 11 kilometers.", "Commissioned in 1978.", "Consists of several interconnected sections.", "Transports up to 800 tonnes of ore per hour.", "Leads directly to the ship loading terminal.", "Unique solution for difficult coastal terrain."],
     },
+    image: "/poi-images/newcaledonia-kouaoua-serpentine-economic-v2.webp",
   },
   {
     id: "newcaledonia-nepoui-nickel-port-economic-v2",
@@ -248,6 +255,7 @@ export const newcaledoniaEconomicV2: POI[] = [
       ro: ["Principalul punct de expediere de pe coasta de vest.", "Stație de încărcare pentru minereul din masivul Kopéto.", "Legături regulate cu portul din Nouméa.", "Dispune de capacități de stocare pentru cantități mari.", "Modernizarea instalațiilor de încărcare în anii 2000.", "Bază pentru nave specializate în logistică minieră."],
       en: ["Main shipping point on the west coast.", "Loading station for ores from the Kopeto massif.", "Regular shipping links to the Port of Noumea.", "Features storage capacities for large ore volumes.", "Modernization of loading facilities in the 2000s.", "Base for specialized mining logistics vessels."],
     },
+    image: "/poi-images/newcaledonia-nepoui-nickel-port-economic-v2.webp",
   },
   {
     id: "newcaledonia-poro-mining-center-economic-v2",
@@ -279,6 +287,7 @@ export const newcaledoniaEconomicV2: POI[] = [
       ro: ["Operat de SLN de câteva decenii.", "Dispune de propriul terminal de încărcare la mare.", "Zonele de extracție se întind pe creste vaste.", "Ateliere integrate pentru utilaje miniere grele.", "Loc important de formare pentru minerii locali.", "Centru pentru extracția nichelului în regiunea Houaïlou."],
       en: ["Operated by SLN for several decades.", "Features its own maritime loading terminal.", "Extraction areas extend across vast ridges.", "Integrated workshops for heavy mining equipment.", "Important training site for local miners.", "Hub for nickel extraction in the Houailou region."],
     },
+    image: "/poi-images/newcaledonia-poro-mining-center-economic-v2.webp",
   },
   {
     id: "newcaledonia-kopeto-mine-economic-v2",
@@ -310,6 +319,7 @@ export const newcaledoniaEconomicV2: POI[] = [
       ro: ["Situată pe masivul Kopéto la peste 800 de metri altitudine.", "Furnizorul principal pentru portul Népoui.", "Extracția saprolitului de înaltă calitate pentru feronichel.", "Utilizarea basculantelor de mare tonaj pentru transport.", "Explorare continuă pentru noi filoane de minereu.", "Strategic importantă pentru producția SLN."],
       en: ["Located on the Kopeto massif above 800 meters.", "Primary supplier for the port of Nepoui.", "Mining of high-grade saprolite for ferronickel production.", "Use of large-scale dump trucks for transportation.", "Ongoing exploration of new ore veins.", "Strategically vital for SLN's overall production."],
     },
+    image: "/poi-images/newcaledonia-kopeto-mine-economic-v2.webp",
   },
   {
     id: "newcaledonia-tontouta-logistics-economic-v2",
@@ -341,6 +351,7 @@ export const newcaledoniaEconomicV2: POI[] = [
       ro: ["Locația singurului aeroport internațional (NOU).", "Hub pentru importul de piese de schimb critice.", "Punct de transbordare pentru bunuri industriale de valoare.", "Legătură directă cu artera principală RT1 spre Nouméa.", "Centru pentru procesarea mărfurilor aeriene și vamă.", "Capacități de întreținere pentru aeronave charter."],
       en: ["Site of the only international airport (NOU).", "Hub for importing time-critical spare parts.", "Transshipment point for high-value industrial goods.", "Connected to the RT1 main road artery to Noumea.", "Center for air cargo processing and customs.", "Capacity for maintaining charter and freight aircraft."],
     },
+    image: "/poi-images/newcaledonia-tontouta-logistics-economic-v2.webp",
   },
   {
     id: "newcaledonia-ducos-industrial-zone-economic-v2",
@@ -372,6 +383,7 @@ export const newcaledoniaEconomicV2: POI[] = [
       ro: ["Locația uzinei metalurgice Doniambo din 1910.", "Găzduiește peste 500 de companii din diverse sectoare.", "Centrul de procesare locală a feronichelului.", "Acces direct la portul industrial din Nouméa.", "Sediul multor furnizori de servicii miniere.", "Cel mai important pol de angajare din capitală."],
       en: ["Site of the Doniambo metallurgical plant since 1910.", "Hosts over 500 companies from various sectors.", "Hub for local ferronickel processing activities.", "Direct access to the industrial port of Noumea.", "Headquarters for many mining service providers.", "Primary employment hub of the capital city."],
     },
+    image: "/poi-images/newcaledonia-ducos-industrial-zone-economic-v2.webp",
   },
   {
     id: "newcaledonia-numbo-shipyards-economic-v2",
@@ -403,6 +415,7 @@ export const newcaledoniaEconomicV2: POI[] = [
       ro: ["Specializat în întreținerea navelor vrachiere.", "Dispune de instalații moderne de ridicare a navelor.", "Centru pentru construcții metalice maritime.", "Furnizor important pentru flota de pescuit.", "Situat într-un golf protejat din Nouméa.", "Oferă capacitate pentru nave de până la 1.000 de tone."],
       en: ["Specialized in the maintenance of ore carriers.", "Features modern ship lifting equipment.", "Center for maritime metal construction works.", "Key service provider for the local fishing fleet.", "Located in a sheltered bay within Noumea.", "Provides capacity for vessels up to 1,000 tonnes."],
     },
+    image: "/poi-images/newcaledonia-numbo-shipyards-economic-v2.webp",
   },
   {
     id: "newcaledonia-mont-dore-bottling-economic-v2",
@@ -434,6 +447,7 @@ export const newcaledoniaEconomicV2: POI[] = [
       ro: ["Extracție din izvoare naturale de adâncime.", "Prima îmbuteliere industrială în anii 1980.", "Produce atât apă plată, cât și apă carbogazoasă.", "Certificată conform standardelor internaționale de calitate.", "Cel mai important actor de pe piața locală de băuturi.", "Susține inițiativele de ambalare sustenabilă."],
       en: ["Extraction from natural deep-water springs.", "First industrial bottling started in the 1980s.", "Produces both still and sparkling water varieties.", "Certified according to international quality standards.", "Leading player in the local beverage market.", "Supports sustainable packaging initiatives."],
     },
+    image: "/poi-images/newcaledonia-mont-dore-bottling-economic-v2.webp",
   },
   {
     id: "newcaledonia-boulouparis-solar-farm-economic-v2",
@@ -465,6 +479,7 @@ export const newcaledoniaEconomicV2: POI[] = [
       ro: ["Putere instalată de peste 15 megawați.", "Format din zeci de mii de panouri solare.", "Pus în funcțiune în mai multe faze din 2017.", "Parte a strategiei de tranziție energetică.", "Evită anual emisii de tone de dioxid de carbon.", "Operat de companii specializate în energie regenerabilă."],
       en: ["Installed capacity exceeds 15 megawatts.", "Comprises tens of thousands of solar modules.", "Commissioned in several phases starting in 2017.", "Key part of the territory's energy transition strategy.", "Offsets thousands of tonnes of CO2 emissions annually.", "Operated by specialized renewable energy companies."],
     },
+    image: "/poi-images/newcaledonia-boulouparis-solar-farm-economic-v2.webp",
   },
   {
     id: "newcaledonia-kone-economic-pole-economic-v2",
@@ -496,6 +511,7 @@ export const newcaledoniaEconomicV2: POI[] = [
       ro: ["Sediul guvernului provincial al Provinciei de Nord.", "Centrul procesului de reechilibrare economică.", "Dispune de un aeroport regional în expansiune.", "Locația unor instituții de învățământ moderne.", "Urbanizare rapidă în ultimii 15 ani.", "Nod pentru servicii în nordul insulei Grande Terre."],
       en: ["Seat of the North Province provincial government.", "Center of the economic rebalancing process.", "Features an expanding regional airport.", "Site of modern educational and training facilities.", "Rapid urbanization over the last 15 years.", "Primary hub for services in northern Grande Terre."],
     },
+    image: "/poi-images/newcaledonia-kone-economic-pole-economic-v2.webp",
   },
   {
     id: "newcaledonia-port-of-we-economic-v2",
@@ -527,6 +543,7 @@ export const newcaledoniaEconomicV2: POI[] = [
       ro: ["Situat pe coasta de est a insulei Lifou", "Principalul punct de transbordare pentru Insulele Loialității", "Conexiune regulată prin feriboturile Betico", "Bază importantă pentru pescuitul local", "Centrul administrativ al insulei Lifou", "Loc de ancorare pentru navele de aprovizionare"],
       en: ["Located on the east coast of Lifou", "Main transshipment point for the Loyalty Islands", "Regular connection via Betico ferries", "Important base for local fishing activities", "Administrative seat of Lifou municipality", "Primary anchorage for regional supply vessels"],
     },
+    image: "/poi-images/newcaledonia-port-of-we-economic-v2.webp",
   },
   {
     id: "newcaledonia-port-of-tadine-economic-v2",
@@ -558,6 +575,7 @@ export const newcaledoniaEconomicV2: POI[] = [
       ro: ["Cel mai important port de pe insula Maré", "Centrul exportului de avocado din regiune", "Punct de acostare pentru catamaranul Betico", "Sediul căpităniei portului Maré", "Nod crucial pentru importurile de combustibil", "Infrastructură pentru comerțul de coastă"],
       en: ["Main port of Maré Island", "Center for the region's avocado exports", "Berthing point for the Betico catamaran", "Seat of Maré's port authority", "Crucial node for fuel imports", "Infrastructure for coastal trade activities"],
     },
+    image: "/poi-images/newcaledonia-port-of-tadine-economic-v2.webp",
   },
   {
     id: "newcaledonia-poum-mining-site-economic-v2",
@@ -589,6 +607,7 @@ export const newcaledoniaEconomicV2: POI[] = [
       ro: ["Situat în comuna Poum", "Concentrat pe extracția minereului de nichel", "Locație importantă de export în nord", "Conectat la porturi specializate pentru minereu", "Parte a dezvoltării economice a nordului", "Locuri de muncă pentru populația locală Kanak"],
       en: ["Located in the municipality of Poum", "Focused on nickel ore extraction", "Important export location in the north", "Connected to specialized ore ports", "Part of the northern economic rebalancing", "Provides jobs for the local Kanak population"],
     },
+    image: "/poi-images/newcaledonia-poum-mining-site-economic-v2.webp",
   },
   {
     id: "newcaledonia-nakety-mine-economic-v2",
@@ -620,6 +639,7 @@ export const newcaledoniaEconomicV2: POI[] = [
       ro: ["Situată în apropiere de Canala", "Operată de SLN (Société Le Nickel)", "Extracție pe versanții lanțului central", "Încărcare în portul din golful Nakety", "Unul dintre cele mai vechi situri miniere active", "Transportul minereului se face cu barje"],
       en: ["Located in the vicinity of Canala", "Operated by SLN (Société Le Nickel)", "Mining on the slopes of the central range", "Loading at the Nakety bay port", "One of the oldest active mining sites", "Ore transport performed by barges"],
     },
+    image: "/poi-images/newcaledonia-nakety-mine-economic-v2.webp",
   },
   {
     id: "newcaledonia-ouaco-cattle-station-economic-v2",
@@ -651,6 +671,7 @@ export const newcaledoniaEconomicV2: POI[] = [
       ro: ["Fondată în jurul anului 1880", "Centrul creșterii vitelor în nord", "Fost sediu al unei fabrici de conserve", "Influențată de cultura cowboy-ilor", "Suprafețe mari de pășunat pe coasta de vest", "Furnizor important pentru piața locală"],
       en: ["Founded around the year 1880", "Center of cattle ranching in the north", "Formerly the site of a canning factory", "Defined by the local cowboy culture", "Vast grazing lands on the west coast", "Important supplier for the local market"],
     },
+    image: "/poi-images/newcaledonia-ouaco-cattle-station-economic-v2.webp",
   },
   {
     id: "newcaledonia-moindou-prawn-farm-economic-v2",
@@ -682,6 +703,7 @@ export const newcaledoniaEconomicV2: POI[] = [
       ro: ["Specializare în creveții albaștri", "Cel mai important produs de export după nichel", "Metode de creștere durabile certificate", "Accent pe exportul către piața japoneză", "Bazine mari de creștere lângă coastă", "Control riguros al calității produselor"],
       en: ["Specialized in the Blue Prawn species", "Most important export product after nickel", "Certified sustainable farming methods", "Primary export focus on the Japanese market", "Large breeding ponds near the shoreline", "Strict quality control of the products"],
     },
+    image: "/poi-images/newcaledonia-moindou-prawn-farm-economic-v2.webp",
   },
   {
     id: "newcaledonia-prony-wind-farm-economic-v2",
@@ -713,6 +735,7 @@ export const newcaledoniaEconomicV2: POI[] = [
       ro: ["Situat pe înălțimile din Prony", "Punerea în funcțiune a primelor turbine în 1996", "Utilizează vânturile alizee puternice", "Reduce emisiile de CO2 ale teritoriului", "Alimentează uzina de nichel Goro", "Parte a tranziției energetice caledoniene"],
       en: ["Located on the heights of Prony", "First turbines commissioned in 1996", "Harnesses strong trade winds", "Reduces CO2 emissions in the territory", "Supplies power to the Goro nickel plant", "Key part of the local energy transition"],
     },
+    image: "/poi-images/newcaledonia-prony-wind-farm-economic-v2.webp",
   },
   {
     id: "newcaledonia-port-of-touho-economic-v2",
@@ -744,6 +767,7 @@ export const newcaledoniaEconomicV2: POI[] = [
       ro: ["Port important pe coasta de est", "Bază pentru navele de pescuit regionale", "Punct de acostare pentru nave de aprovizionare", "Aproape de aeroportul regional Touho", "Centru pentru transportul local de mărfuri", "Punct de plecare pentru excursii în lagună"],
       en: ["Significant port on the east coast", "Base for regional fishing vessels", "Berthing point for supply ships", "Proximity to Touho regional airport", "Center for local freight transport", "Departure point for lagoon excursions"],
     },
+    image: "/poi-images/newcaledonia-port-of-touho-economic-v2.webp",
   },
   {
     id: "newcaledonia-goro-port-economic-v2",
@@ -775,6 +799,7 @@ export const newcaledoniaEconomicV2: POI[] = [
       ro: ["Port industrial specializat în sud", "Parte a proiectului Prony Resources", "Bazin de adâncime pentru nave mari", "Punct de descărcare pentru importurile de sulf", "Exportul produselor intermediare de nichel-cobalt", "Instalație portuară administrată privat"],
       en: ["Specialized industrial port in the south", "Part of the Prony Resources project", "Deep-water basin for large freighters", "Primary point for sulfur imports", "Export hub for nickel-cobalt intermediates", "Privately managed port facility"],
     },
+    image: "/poi-images/newcaledonia-goro-port-economic-v2.webp",
   },
   {
     id: "newcaledonia-paita-meat-processing-economic-v2",
@@ -806,6 +831,7 @@ export const newcaledoniaEconomicV2: POI[] = [
       ro: ["Operat de OCEF (Oficiul de Comercializare)", "Abatorul central al Noii Caledonii", "Situat în comuna Païta", "Procesarea cărnii de vită și de porc", "Asigurarea standardelor locale de calitate", "Nodul lanțului frigorific caledonian"],
       en: ["Operated by the OCEF marketing board", "Central slaughterhouse of New Caledonia", "Located in the Païta municipality", "Processing of beef and pork products", "Ensures local quality standards", "Key node in the Caledonian cold chain"],
     },
+    image: "/poi-images/newcaledonia-paita-meat-processing-economic-v2.webp",
   },
   {
     id: "newcaledonia-port-moselle-commercial-economic-v2",
@@ -837,6 +863,7 @@ export const newcaledoniaEconomicV2: POI[] = [
       ro: ["Sediul celei mai mari piețe din Nouméa", "Terminalul principal pentru taxiuri pe apă", "Cea mai importantă marină din arhipelag", "Centru pentru comerțul cu pește", "Sediul autorităților maritime", "Punct economic central în centrul orașului"],
       en: ["Site of Nouméa's largest daily market", "Main terminal for water taxi services", "Primary marina of the archipelago", "Hub for the local seafood trade", "Seat of maritime administrative offices", "Economic focal point in the city center"],
     },
+    image: "/poi-images/newcaledonia-port-moselle-commercial-economic-v2.webp",
   },
   {
     id: "newcaledonia-vavouto-industrial-area-economic-v2",
@@ -868,6 +895,7 @@ export const newcaledoniaEconomicV2: POI[] = [
       ro: ["Sediul proiectului Koniambo Nickel", "Cel mai mare angajator din Provincia de Nord", "Dispune de propria centrală pe cărbune", "Port maritim integrat pentru minereu", "Factor esențial al reechilibrării economice", "Utilizarea tehnologiei pirometalurgice moderne"],
       en: ["Home to the Koniambo Nickel project", "Largest employer in the North Province", "Equipped with its own power station", "Integrated deep-sea port for ore shipping", "Key factor in the economic rebalancing", "Uses advanced pyrometallurgical technology"],
     },
+    image: "/poi-images/newcaledonia-vavouto-industrial-area-economic-v2.webp",
   },
   {
     id: "newcaledonia-sln-plateau-mine-economic-v2",
@@ -899,6 +927,7 @@ export const newcaledoniaEconomicV2: POI[] = [
       ro: ["Cea mai veche mină de nichel activă din lume", "Începutul extracției în anul 1880", "Centrul economic al comunei Thio", "Transportul minereului prin benzi rulante lungi", "Sediul unui muzeu al mineritului în apropiere", "Modelează cultura locală a mineritului"],
       en: ["Oldest active nickel mine in the world", "Mining operations began in 1880", "Economic center of Thio municipality", "Ore transport via long conveyor belts", "Mining museum located in the vicinity", "Defines the local 'Kanaky mining' culture"],
     },
+    image: "/poi-images/newcaledonia-sln-plateau-mine-economic-v2.webp",
   },
   {
     id: "newcaledonia-tiebaghi-mine-economic-v2",
@@ -930,5 +959,6 @@ export const newcaledoniaEconomicV2: POI[] = [
       ro: ["Cândva cel mai mare zăcământ de crom din lume", "Astăzi se concentrează pe minereu de nichel", "Situată pe masivul Tiebaghi", "Cel mai important angajator din regiunea Koumac", "Încărcarea minereului în portul Paagoumène", "Proiecte extinse de recultivare la fața locului"],
       en: ["Once the world's largest chromium deposit", "Now focused on high-grade nickel ore", "Located on the Tiebaghi massif", "Primary employer in the Koumac region", "Ore loading at the Paagoumène port", "Extensive land reclamation projects on-site"],
     },
+    image: "/poi-images/newcaledonia-tiebaghi-mine-economic-v2.webp",
   }
 ];

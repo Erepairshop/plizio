@@ -1005,7 +1005,8 @@ export const czechrepublicReliefV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
+    },
+    image: "/poi-images/czechrepublic-moravian-gate-relief-v2.webp",
   },
   {
     id: "czechrepublic-bohemian-moravian-highlands-relief-v2",
@@ -1161,7 +1162,8 @@ export const czechrepublicReliefV2: POI[] = [
       hu: [],
       ro: [],
       en: []
-    }
+    },
+    image: "/poi-images/czechrepublic-low-jesenik-relief-v2.webp",
   }
 ,
   {
@@ -1195,5 +1197,6 @@ export const czechrepublicReliefV2: POI[] = [
       ro: ["Depresiunea acoperă o suprafață de circa 1.450 km pătrați.", "Venus din Dolní Věstonice are o vechime estimată la 25.000-29.000 de ani.", "Lacul de acumulare Nové Mlýny este format din trei bazine distincte.", "Regiunea produce aproximativ 95% din vinul Republicii Cehe.", "Cea mai joasă altitudine a bazinului este de aproximativ 150 de metri.", "Cernoziomul din această zonă este considerat cel mai fertil sol din Moravia."],
       en: ["The basin spans an area of approximately 1,450 square kilometers.", "The Venus of Dolní Věstonice is the oldest known ceramic statuette in the world.", "The Nové Mlýny reservoir system was built for irrigation and flood protection.", "Annual average rainfall in the basin is among the lowest in the country.", "The Lednice-Valtice Cultural Landscape, a UNESCO site, borders the basin.", "Wine production in the region dates back to the Roman period in the 2nd century."],
     },
+    image: "/poi-images/czechrepublic-dyje-svratka-basin-relief-v2.webp",
   }
 ];

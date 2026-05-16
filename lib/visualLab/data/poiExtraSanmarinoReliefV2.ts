@@ -32,6 +32,7 @@ export const sanmarinoReliefV2: POI[] = [
       ro: ["Altitudine: 733 m.", "Unul dintre cei mai înalți munți.", "Păduri dese de fag.", "Cruce pe vârf și vedere panoramică.", "Căprioare și mistreți pe versanți.", "Adăpost construit pe vârf."],
       en: ["Elevation: 733 m.", "One of highest mountains in San Marino.", "Dense beech forests.", "Summit cross and viewpoint.", "Roe deer and wild boar on slopes.", "Shelter on summit."],
     },
+    image: "/poi-images/sanmarino-monte-giango-relief-v2.webp",
   },
   {
     id: "sanmarino-poggio-del-romito-relief-v2",
@@ -64,6 +65,7 @@ export const sanmarinoReliefV2: POI[] = [
       ro: ["Altitudine: 700 m.", "Ruinele unei schituri medievale.", "Destinație populară de drumeții.", "Posibilități de cățărare.", "Specii alpine rare.", "Numele înseamnă 'sihastru'."],
       en: ["Elevation: 700 m.", "Ruins of medieval hermitage.", "Popular hiking destination.", "Climbing opportunities.", "Rare alpine plants.", "Name means 'hermit'."],
     },
+    image: "/poi-images/sanmarino-poggio-del-romito-relief-v2.webp",
   },
   {
     id: "sanmarino-monte-cerreto-relief-v2",
@@ -96,6 +98,7 @@ export const sanmarinoReliefV2: POI[] = [
       ro: ["Altitudine: 680 m.", "Păduri de stejar.", "Rezervație naturală cu peșteri de calcar.", "Punct de belvedere pe vârf.", "Pisici sălbatice și păsări rare.", "Parte a unui proiect LIFE."],
       en: ["Elevation: 680 m.", "Oak forests.", "Nature reserve with limestone caves.", "Summit viewpoint.", "Wildcats and rare birds.", "Part of a LIFE project."],
     },
+    image: "/poi-images/sanmarino-monte-cerreto-relief-v2.webp",
   },
   {
     id: "sanmarino-colle-di-borgo-relief-v2",
@@ -128,6 +131,7 @@ export const sanmarinoReliefV2: POI[] = [
       ro: ["Altitudine: 400 m.", "Vedere spre Borgo Maggiore și Monte Titano.", "Zonă rezidențială cu case istorice.", "Parcul mic pe deal.", "Traseu de drumeție către centrul Borgo Maggiore.", "Zonă populară pentru plimbări."],
       en: ["Elevation: 400 m.", "View of Borgo Maggiore and Monte Titano.", "Residential area with historic houses.", "Small park on the hill.", "Hiking trail to Borgo Maggiore center.", "Popular for walks."],
     },
+    image: "/poi-images/sanmarino-colle-di-borgo-relief-v2.webp",
   },
   {
     id: "sanmarino-pian-di-gesto-relief-v2",
@@ -160,6 +164,7 @@ export const sanmarinoReliefV2: POI[] = [
       ro: ["Altitudine: 415 m", "Suprafață: 1,8 km²", "Producție de ulei de măsline: 500 litri/an", "Număr de ferme: 12", "Lungime trasee turistice: 8 km", "Populație zonă periurbană: 350"],
       en: ["Elevation: 410 m", "Area: 1.6 km²", "Annual precipitation: 800 mm", "Mean temperature: 13.2°C", "Distance to San Marino city: 4 km", "Protected area status since 1998"],
     },
+    image: "/poi-images/sanmarino-pian-di-gesto-relief-v2.webp",
   },
   {
     id: "sanmarino-costa-delle-vigne-relief-v2",
@@ -192,6 +197,7 @@ export const sanmarinoReliefV2: POI[] = [
       ro: ["Altitudine maximă: 480 m", "Suprafață împădurită: 0,8 km²", "Vinării active: 3", "Lungime potecă turistică: 6 km", "Anul primei atestări: 1256", "Distanță până la Montegiardino: 3 km"],
       en: ["Peak elevation: 485 m", "Length: 2.8 km", "Forest cover: 85%", "Annual wine production: 10,000 bottles", "Historical chapel: 12th century", "Number of endemic plant species: 3"],
     },
+    image: "/poi-images/sanmarino-costa-delle-vigne-relief-v2.webp",
   },
   {
     id: "sanmarino-monte-pancalo-relief-v2",
@@ -224,6 +230,7 @@ export const sanmarinoReliefV2: POI[] = [
       ro: ["Altitudine: 525 m", "Suprafață totală: 2,5 km²", "Capelă construită în: 1690", "Număr de specii de păsări: 45", "Producție lemnoasă anuală: 200 m³", "Distanță până la oraș: 6 km"],
       en: ["Elevation: 522 m", "Geological period: Jurassic", "Chapel founded: 1690", "Forest area: 250 ha", "Average snowfall: 20 cm/year", "Number of springs: 5"],
     },
+    image: "/poi-images/sanmarino-monte-pancalo-relief-v2.webp",
   },
   {
     id: "sanmarino-valle-dell-ausa-relief-v2",
@@ -256,6 +263,7 @@ export const sanmarinoReliefV2: POI[] = [
       ro: ["Adâncime maximă: 152 m", "Lungime vale: 8,2 km", "Afluenți: 3 pâraie", "Suprafață agricolă: 1,2 km²", "Morți de apă: 4", "Anul ultimei exploatări miniere: 1880"],
       en: ["Maximum depth: 150 m", "Length: 8 km", "River gradient: 18 m/km", "Number of waterfalls: 2", "Plant species: 215", "Iron mine shafts: 12"],
     },
+    image: "/poi-images/sanmarino-valle-dell-ausa-relief-v2.webp",
   },
   {
     id: "sanmarino-poggio-di-faetano-relief-v2",
@@ -288,6 +296,7 @@ export const sanmarinoReliefV2: POI[] = [
       ro: ["Altitudine: 450 m", "Producție vin: 2500 hl/an", "Suprafață podgorie: 35 ha", "An construcție biserică: 1756", "Distanță până la capitală: 10 km", "Populație Faetano: 1200"],
       en: ["Elevation: 453 m", "Municipality: Faetano", "Church built: 1756", "Vineyard area: 32 ha", "Wine appellation: San Marino DOC", "Annual grape yield: 400 tons"],
     },
+    image: "/poi-images/sanmarino-poggio-di-faetano-relief-v2.webp",
   },
   {
     id: "sanmarino-colle-del-castello-relief-v2",
@@ -320,6 +329,7 @@ export const sanmarinoReliefV2: POI[] = [
       ro: ["Altitudine: 480 m", "An construcție: 1250", "Lungime ziduri: 120 m", "Suprafață sit arheologic: 1,5 ha", "Număr de turnuri: 2", "Vizitatori anuali: 8000"],
       en: ["Elevation: 482 m", "Castle built: 1250", "Wall length: 150 m", "Excavated artifacts: 300", "Protected area: 2 ha", "Distance to border: 1 km"],
     },
+    image: "/poi-images/sanmarino-colle-del-castello-relief-v2.webp",
   },
   {
     id: "sanmarino-valle-di-chiesanuova-relief-v2",
@@ -352,6 +362,7 @@ export const sanmarinoReliefV2: POI[] = [
       ro: ["Lungime vale: 6,2 km", "Producție ulei: 12.000 litri/an", "Suprafață măslinii: 40 ha", "Rezervație naturală: 3,5 km²", "Altitudine medie: 400 m", "Număr de ferme: 15"],
       en: ["Valley length: 6 km", "Olive oil output: 11,000 L/year", "Marble quarries: 1 (disused)", "Protected area: 3 km²", "Average elevation: 400 m", "Annual visitors: 18,000"],
     },
+    image: "/poi-images/sanmarino-valle-di-chiesanuova-relief-v2.webp",
   },
   {
     id: "sanmarino-monte-carllo-relief-v2",
@@ -384,6 +395,7 @@ export const sanmarinoReliefV2: POI[] = [
       ro: ["Altitudine: 490 m", "Cetate bizantină: secolul VI", "Suprafață împădurită: 320 ha", "Producție lemnoasă: 250 m³/an", "Număr izvoare: 4", "Distanță până la graniță: 0,5 km"],
       en: ["Elevation: 491 m", "Byzantine fortress: 540 AD", "Forest area: 3.2 km²", "Annual timber harvest: 280 m³", "Water springs: 5", "Biodiversity: 30 bird species"],
     },
+    image: "/poi-images/sanmarino-monte-carllo-relief-v2.webp",
   },
   {
     id: "sanmarino-pian-della-segara-relief-v2",
@@ -416,6 +428,7 @@ export const sanmarinoReliefV2: POI[] = [
       ro: ["Altitudine: 400 m", "Suprafață: 0,9 km²", "Anul primei mențiuni: 1650", "Producție grâu: 150 tone/an", "Număr de ferme ecologice: 3", "Lungime trasee ciclabile: 6 km"],
       en: ["Elevation: 401 m", "Area: 0.85 km²", "Sawmill active: 1720-1900", "Wheat production: 160 tons/year", "Maize production: 120 tons/year", "Organic farms: 2"],
     },
+    image: "/poi-images/sanmarino-pian-della-segara-relief-v2.webp",
   },
   {
     id: "sanmarino-costa-della-serra-relief-v2",
@@ -448,6 +461,7 @@ export const sanmarinoReliefV2: POI[] = [
       ro: ["Lungime: 2,1 km", "Altitudine: 430 m", "Specii de păsări: 25", "Suprafață protejată: 75 ha", "Distanță până la Serravalle: 3 km", "Număr de trasee: 2"],
       en: ["Length: 2 km", "Peak elevation: 433 m", "Rock type: limestone", "Falcon pairs: 2", "Protected area: 80 ha", "Hiking trail length: 4.5 km"],
     },
+    image: "/poi-images/sanmarino-costa-della-serra-relief-v2.webp",
   },
   {
     id: "sanmarino-poggio-di-fiorentino-relief-v2",
@@ -480,6 +494,7 @@ export const sanmarinoReliefV2: POI[] = [
       ro: ["Altitudine: 460 m", "Capelă construită: 1550", "Suprafață măslini: 18 ha", "Producție migdale: 4 tone/an", "Distanță până la graniță: 0,8 km", "Număr de puncte de belvedere: 2"],
       en: ["Elevation: 463 m", "Chapel built: 1550", "Olive trees: 2,500", "Almond trees: 600", "Distance to border: 0.9 km", "Annual visitors: 4,500"],
     },
+    image: "/poi-images/sanmarino-poggio-di-fiorentino-relief-v2.webp",
   },
   {
     id: "sanmarino-monte-del-casale-relief-v2",
@@ -512,6 +527,7 @@ export const sanmarinoReliefV2: POI[] = [
       ro: ["Altitudine: 600 de metri deasupra nivelului mării.", "Dealul se întinde pe 1,5 kilometri.", "Pădurea acoperă 80% din suprafață.", "Punctul de belvedere este la 200 de metri de parcare.", "Există 5 trasee de drumeție.", "Anual, 10.000 de oameni vizitează dealul."],
       en: ["Altitude: 600 meters above sea level.", "The hill stretches for 1.5 kilometers.", "Forest covers 80% of the area.", "The viewpoint is 200 meters from the parking lot.", "There are 5 hiking trails.", "10,000 people visit the hill annually."],
     },
+    image: "/poi-images/sanmarino-monte-del-casale-relief-v2.webp",
   },
   {
     id: "sanmarino-colle-della-rocca-relief-v2",
@@ -544,6 +560,7 @@ export const sanmarinoReliefV2: POI[] = [
       ro: ["Altitudine: 500 m", "Castel construit: 1050", "Lungime ziduri: 180 m", "Suprafață sit: 1 ha", "Număr monede descoperite: 200", "Evenimente anuale: 5"],
       en: ["Elevation: 503 m", "Castle built: 1050", "Expansion: 1350", "Artifacts found: 350", "Wall length: 200 m", "Annual events: 6"],
     },
+    image: "/poi-images/sanmarino-colle-della-rocca-relief-v2.webp",
   },
   {
     id: "sanmarino-pian-di-gualdicciolo-relief-v2",
@@ -576,6 +593,7 @@ export const sanmarinoReliefV2: POI[] = [
       ro: ["Altitudine: 380 m", "Suprafață: 1,1 km²", "Ferme ecologice: 5", "Producție cereale: 320 tone/an", "Distanță până la graniță: 1,5 km", "Sistem irigații: 4 km"],
       en: ["Elevation: 383 m", "Area: 1 km²", "Soil type: clay loam", "Organic farms: 4", "Cereal yield: 280 tons/year", "Distance to Rio San Marino: 0.5 km"],
     },
+    image: "/poi-images/sanmarino-pian-di-gualdicciolo-relief-v2.webp",
   },
   {
     id: "sanmarino-poggio-di-acquaviva-relief-v2",
@@ -608,6 +626,7 @@ export const sanmarinoReliefV2: POI[] = [
       ro: ["Altitudine: 550 de metri deasupra nivelului mării.", "Podgoriile acoperă 10 hectare.", "Livezile de măslini acoperă 5 hectare.", "Producția anuală de vin este de 20.000 de litri.", "Există 2 crame.", "Panta dealului este de 15 grade."],
       en: ["Altitude: 550 meters above sea level.", "Vineyards cover 10 hectares.", "Olive groves cover 5 hectares.", "Annual wine production is 20,000 liters.", "There are 2 wineries.", "The slope gradient is 15 degrees."],
     },
+    image: "/poi-images/sanmarino-poggio-di-acquaviva-relief-v2.webp",
   },
   {
     id: "sanmarino-monte-serravalle-relief-v2",
@@ -640,6 +659,7 @@ export const sanmarinoReliefV2: POI[] = [
       ro: ["Altitudine: 510 m", "Statuie Madonna: 1950", "Număr peșteri carstice: 2", "Lungime trasee de drumeție: 7 km", "Populație Serravalle: 10.500", "Distracție: vedere panoramică"],
       en: ["Elevation: 514 m", "Rock type: limestone", "Madonna statue: 1950", "Hiking trails: 3 (total 6 km)", "Town: Serravalle (pop. 10,500)", "Annual visitors: 22,000"],
     },
+    image: "/poi-images/sanmarino-monte-serravalle-relief-v2.webp",
   },
   {
     id: "sanmarino-colle-del-faetano-relief-v2",
@@ -672,6 +692,7 @@ export const sanmarinoReliefV2: POI[] = [
       ro: ["Altitudine: 700 de metri deasupra nivelului mării.", "Este al doilea cel mai înalt punct din San Marino.", "Vizibilitatea este de până la 80 de kilometri.", "Drumeția până la vârf durează 1 oră.", "Dealul are o lungime de 2 kilometri.", "Nu există drumuri către vârf."],
       en: ["Altitude: 700 meters above sea level.", "It is the second highest point in San Marino.", "Visibility is up to 80 kilometers.", "The hike to the summit takes 1 hour.", "The hill is 2 kilometers long.", "There are no roads to the summit."],
     },
+    image: "/poi-images/sanmarino-colle-del-faetano-relief-v2.webp",
   },
   {
     id: "sanmarino-pian-di-domagnano-relief-v2",
@@ -704,5 +725,6 @@ export const sanmarinoReliefV2: POI[] = [
       ro: ["Altitudine: 380 m", "Suprafață: 1,6 km²", "Așezare romană: secolul I", "Zonă industrială: 6 ha", "Producție cereale: 350 tone/an", "Producție legume: 70 tone/an"],
       en: ["Elevation: 383 m", "Area: 1.5 km²", "Roman settlement: 1st century AD", "Industrial area: 5 ha", "Cereal production: 380 tons/year", "Vegetable production: 75 tons/year"],
     },
+    image: "/poi-images/sanmarino-pian-di-domagnano-relief-v2.webp",
   }
 ];

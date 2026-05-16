@@ -554,7 +554,8 @@ export const poiExtraAustriaHistorical: POI[] = [
         "The Cistercian monks of Zwettl have a long-standing tradition of carp farming, shaping the local ponds of the Waldviertel.",
         "The monastery's historic library contains medieval manuscripts and a beautifully decorated Baroque hall."
       ]
-    }
+    },
+    image: "/poi-images/monastery-stift-zwettl-extra.webp",
   }
 ];
 

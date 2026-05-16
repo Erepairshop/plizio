@@ -31,6 +31,7 @@ export const mauritiusNatureV2: POI[] = [
       ro: ["Serie de 7 cascade", "Cea mai înaltă are 45m", "Râul Tamarin", "Lângă Henrietta", "Canion de bazalt", "Ecosistem protejat"],
       en: ["Series of 7 waterfalls", "Highest drop 45m", "Tamarin River source", "Located near Henrietta", "Volcanic basalt tiers", "Vital natural ecosystem"],
     },
+    image: "/poi-images/mauritius-tamarind-falls-nature-v2.webp",
   },
   {
     id: "mauritius-ile-aux-cerfs-nature-v2",
@@ -62,6 +63,7 @@ export const mauritiusNatureV2: POI[] = [
       ro: ["Suprafață de aproximativ 87 hectare", "Aparține districtului Flacq", "Găzduiește un teren de golf cu 18 găuri", "Numele înseamnă Insula Cerbilor", "Accesibilă din Trou d'Eau Douce", "Situată pe coasta de est a Mauritius"],
       en: ["Area of approximately 87 hectares", "Belongs to the Flacq district", "Hosts an 18-hole golf course", "Name means Island of Deer", "Accessible from Trou d'Eau Douce", "Located on the east coast of Mauritius"],
     },
+    image: "/poi-images/mauritius-ile-aux-cerfs-nature-v2.webp",
   },
   {
     id: "mauritius-gris-gris-cliffs-nature-v2",
@@ -93,6 +95,7 @@ export const mauritiusNatureV2: POI[] = [
       ro: ["Cel mai sudic punct din Mauritius", "Nu există recif de corali", "Format din bazalt vulcanic", "Lângă localitatea Souillac", "Găzduiește stânca care plânge", "Curenți marini puternici în zonă"],
       en: ["Southernmost point of Mauritius", "No coral reef present", "Composed of volcanic basalt", "Near the village of Souillac", "Home to the weeping rock", "Strong sea currents in the area"],
     },
+    image: "/poi-images/mauritius-gris-gris-cliffs-nature-v2.webp",
   },
   {
     id: "mauritius-mare-aux-vacoas-nature-v2",
@@ -124,6 +127,7 @@ export const mauritiusNatureV2: POI[] = [
       ro: ["Cel mai mare rezervor din țară", "Capacitate: 25,8 milioane m³", "Situat în districtul Plaines Wilhems", "Altitudine de cca 600 m", "Construit la sfârșitul sec. XIX", "Sursă principală de apă potabilă"],
       en: ["Largest reservoir in the country", "Capacity: 25.8 million cubic meters", "Located in Plaines Wilhems district", "Elevation of approx 600m", "Built in the late 19th century", "Main source of drinking water"],
     },
+    image: "/poi-images/mauritius-mare-aux-vacoas-nature-v2.webp",
   },
   {
     id: "mauritius-alexandra-falls-nature-v2",
@@ -155,6 +159,7 @@ export const mauritiusNatureV2: POI[] = [
       ro: ["În Parcul Național Black River Gorges", "Altitudine de cca 700 m", "Alimentată de râul Alexandra", "Vedere până la coasta de sud", "Înconjurată de pădure tropicală nativă", "Parte a platoului central"],
       en: ["In Black River Gorges National Park", "Elevation of approx 700m", "Fed by the Alexandra River", "View extends to the south coast", "Surrounded by native rainforest", "Part of the central highlands"],
     },
+    image: "/poi-images/mauritius-alexandra-falls-nature-v2.webp",
   },
   {
     id: "mauritius-maconde-rock-nature-v2",
@@ -186,6 +191,7 @@ export const mauritiusNatureV2: POI[] = [
       ro: ["Situată lângă Baie du Cap", "Formațiune stâncoasă bazaltică", "Cunoscută pentru curba rutieră strânsă", "Belvedere accesibilă prin scări", "Vedere spre Oceanul Indian", "Numită după populația Makonde"],
       en: ["Located near Baie du Cap", "Basaltic rock formation", "Famous for the sharp road curve", "Viewpoint accessible via stairs", "Overlooks the Indian Ocean", "Named after Makonde from Mozambique"],
     },
+    image: "/poi-images/mauritius-maconde-rock-nature-v2.webp",
   },
   {
     id: "mauritius-grand-river-south-east-nature-v2",
@@ -217,6 +223,7 @@ export const mauritiusNatureV2: POI[] = [
       ro: ["Cel mai lung râu din Mauritius", "Lungime de aproximativ 30 km", "Vărsare la Beau Champ", "Cascadă situată lângă vărsare", "Habitat pentru vulpi zburătoare", "Înconjurat de pereți bazaltici"],
       en: ["Longest river in Mauritius", "Length of approximately 30 km", "Mouth located at Beau Champ", "Waterfall near the river mouth", "Home to Mauritian fruit bats", "Bordered by basalt cliffs"],
     },
+    image: "/poi-images/mauritius-grand-river-south-east-nature-v2.webp",
   },
   {
     id: "mauritius-trois-mamelles-nature-v2",
@@ -248,6 +255,7 @@ export const mauritiusNatureV2: POI[] = [
       ro: ["Trei vârfuri montane distincte", "Înălțime maximă: 629 metri", "Parte din lanțul muntos Rempart", "Origine vulcanică", "Zonă de drumeție dificilă", "Vedere spre Le Morne Brabant"],
       en: ["Three distinct mountain peaks", "Maximum height: 629 meters", "Part of the Rempart mountain range", "Volcanic origin", "Challenging hiking terrain", "Views of Le Morne Brabant"],
     },
+    image: "/poi-images/mauritius-trois-mamelles-nature-v2.webp",
   },
   {
     id: "mauritius-ile-dambre-nature-v2",
@@ -279,6 +287,7 @@ export const mauritiusNatureV2: POI[] = [
       ro: ["Suprafață de cca 140 hectare", "Populații mari de mangrove", "Naufragiul Saint Géran în 1744", "Inspirație pentru 'Paul et Virginie'", "Rezervație naturală protejată", "Coasta de nord-est a Mauritius"],
       en: ["Area of approximately 140 hectares", "Extensive mangrove forests", "Wreck of the Saint Géran in 1744", "Inspiration for 'Paul et Virginie'", "Protected nature reserve", "Northeast coast of Mauritius"],
     },
+    image: "/poi-images/mauritius-ile-dambre-nature-v2.webp",
   },
   {
     id: "mauritius-round-island-nature-v2",
@@ -310,6 +319,7 @@ export const mauritiusNatureV2: POI[] = [
       ro: ["22 km nord de Mauritius", "Suprafață de 169 hectare", "Fără prădători invazivi", "Habitatul boa de Round Island", "Formațiune din tuf vulcanic", "Restricții stricte de acces"],
       en: ["22 km north of Mauritius", "Area of 169 hectares", "No invasive predatory animals", "Home to the Round Island boa", "Volcanic tuff formation", "Strict access restrictions"],
     },
+    image: "/poi-images/mauritius-round-island-nature-v2.webp",
   },
   {
     id: "mauritius-flat-island-nature-v2",
@@ -341,6 +351,7 @@ export const mauritiusNatureV2: POI[] = [
       ro: ["Cea mai mare insulă nordică", "Far construit în 1855", "Fostă stație de carantină", "Structură geologică plată", "Prezența calcarului", "Parte din Islet National Park"],
       en: ["Largest of the northern islets", "Lighthouse built in 1855", "Former quarantine station", "Flat geological structure", "Presence of limestone", "Part of the Islet National Park"],
     },
+    image: "/poi-images/mauritius-flat-island-nature-v2.webp",
   },
   {
     id: "mauritius-rochester-falls-nature-v2",
@@ -372,6 +383,7 @@ export const mauritiusNatureV2: POI[] = [
       ro: ["Situată pe râul Savanne", "Înălțime de cădere de cca 10 m", "Coloane bazaltice rectangulare", "Lângă localitatea Souillac", "Origine vulcanică a stâncilor", "Înconjurată de câmpuri de trestie"],
       en: ["Located on the Savanne River", "Fall height of approx 10 meters", "Rectangular basalt columns", "Near the town of Souillac", "Volcanic origin of the rocks", "Surrounded by sugar cane fields"],
     },
+    image: "/poi-images/mauritius-rochester-falls-nature-v2.webp",
   },
   {
     id: "mauritius-ile-aux-benitiers-nature-v2",
@@ -403,6 +415,7 @@ export const mauritiusNatureV2: POI[] = [
       ro: ["Lungime de aproximativ 2 km", "Insulă de corali plată", "Lângă Le Morne Brabant", "Crystal Rock situat în larg", "Situată într-o lagună puțin adâncă", "Formată din nisip coralifer"],
       en: ["Length of approximately 2 km", "Flat coral island", "Near Le Morne Brabant", "Crystal Rock located offshore", "Situated in a shallow lagoon", "Composed of coral sand"],
     },
+    image: "/poi-images/mauritius-ile-aux-benitiers-nature-v2.webp",
   },
   {
     id: "mauritius-serpent-island-nature-v2",
@@ -434,6 +447,7 @@ export const mauritiusNatureV2: POI[] = [
       ro: ["Nu există șerpi pe insulă", "Loc de cuibărit pentru păsări", "La nord de Round Island", "Formațiune din rocă vulcanică", "Țărm dificil de accesat", "Parte dintr-o rezervație naturală"],
       en: ["No snakes present on the island", "Breeding site for seabirds", "Located north of Round Island", "Volcanic rock formation", "Difficult to access coastline", "Part of a nature reserve"],
     },
+    image: "/poi-images/mauritius-serpent-island-nature-v2.webp",
   },
   {
     id: "mauritius-tourelle-du-tamarin-nature-v2",
@@ -465,6 +479,7 @@ export const mauritiusNatureV2: POI[] = [
       ro: ["Înălțime de 548 metri", "Vedere spre golful Tamarin", "Parte dintr-o proprietate privată", "Vegetație de pădure uscată", "Destinație de drumeție în vest", "Panoramă asupra salinelor"],
       en: ["Height of 548 meters", "Views over Tamarin Bay", "Part of a private estate", "Dry forest vegetation", "Hiking destination on the west coast", "Overlooks the salt pans"],
     },
+    image: "/poi-images/mauritius-tourelle-du-tamarin-nature-v2.webp",
   },
   {
     id: "mauritius-mare-longue-reservoir-nature-v2",
@@ -496,5 +511,6 @@ export const mauritiusNatureV2: POI[] = [
       ro: ["În districtul Plaines Wilhems", "Lângă regiunea Petrin", "Înconjurat de pădure montană", "Utilizat pentru alimentarea cu apă", "Parte din platoul central", "Punct de plecare pentru trasee"],
       en: ["In Plaines Wilhems district", "Near the Petrin region", "Surrounded by upland forest", "Used for water supply", "Part of the central plateau", "Starting point for hiking trails"],
     },
+    image: "/poi-images/mauritius-mare-longue-reservoir-nature-v2.webp",
   }
 ];

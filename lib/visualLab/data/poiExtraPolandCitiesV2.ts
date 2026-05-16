@@ -3217,6 +3217,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Sopot este cel mai mic oraș din aglomerația Trimiasto", "Debarcaderul din lemn are o lățime de 10 metri", "Populația orașului este de aproximativ 35 000 locuitori", "Opera din Pădure poate găzdui peste 5000 de spectatori", "Sopot a fost fondat ca sat pescăresc în secolul al XIII-lea", "Faleza orașului este o zonă pietonală de 4 kilometri"],
       en: ["The Sopot Pier is the longest wooden pier in Europe", "The Grand Hotel Sopot was built in 1927", "Town rights were granted in 1901 by the Prussian state", "The Forest Opera hosts the International Song Festival", "The city covers an area of 17.31 square kilometers", "Monte Cassino Street is the main pedestrian artery"],
     },
+    image: "/poi-images/poland-sopot-cities-v2.webp",
   },
   {
     id: "poland-sandomierz-cities-v2",
@@ -3249,6 +3250,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Sandomierz a fost fondat în secolul al X-lea.", "Catedrala a fost sfințită în 1148.", "Primăria a fost construită în secolul al XIV-lea.", "Suprafața orașului este de 28,3 km².", "Populația în 2023 era de aproximativ 23.000 de locuitori.", "Piața centrală are 150 m × 100 m."],
       en: ["Sandomierz was founded in the 10th century.", "The cathedral was consecrated in 1148.", "The town hall was built in the 14th century.", "City area is 28.3 km².", "Population in 2023 is about 23,000.", "The market square is 150 m × 100 m."],
     },
+    image: "/poi-images/poland-sandomierz-cities-v2.webp",
   },
   {
     id: "poland-biala-podlaska-cities-v2",
@@ -3281,6 +3283,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Ansamblul Radziwiłł include un turn cu poartă spectaculos", "Biała Podlaska a fost un centru al religiei greco-catolice", "Orașul este situat la doar 36 km de frontiera cu Belarus", "Altitudinea localității este de 145 metri deasupra mării", "Suprafața orașului este de 4940 hectare", "Biserica Sf. Ana a fost fondată în secolul al XVI-lea"],
       en: ["The Radziwiłł family owned the city for over 250 years", "Town rights were granted by King Sigismund I in 1525", "The Krzna River flows through the city center", "It hosts the South Podlasie Museum in the castle grounds", "The city area is 49.4 square kilometers", "The Janów Podlaski stud is just 20 km away"],
     },
+    image: "/poi-images/poland-biala-podlaska-cities-v2.webp",
   },
   {
     id: "poland-chojnice-cities-v2",
@@ -3313,6 +3316,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Chojnice a primit drepturi de oraș în 1325.", "Biserica Sf. Ioan a fost construită în secolul al XIV-lea.", "Suprafața orașului este de 21,1 km².", "Populația în 2023 era de aproximativ 39.000 de locuitori.", "Gara are 5 linii.", "Piața centrală are 120 m × 80 m."],
       en: ["Chojnice received town rights in 1325.", "St. John's Church was built in the 14th century.", "City area is 21.1 km².", "Population in 2023 is about 39,000.", "The railway station has 5 platforms.", "The market square is 120 m × 80 m."],
     },
+    image: "/poi-images/poland-chojnice-cities-v2.webp",
   },
   {
     id: "poland-zary-cities-v2",
@@ -3345,6 +3349,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Żary este situat la aproximativ 30 km de granița cu Germania", "Complexul arhitectural este format dintr-un castel și un palat", "Orașul a fost un important centru al producției de in", "Altitudinea medie a orașului este de 160 metri", "Suprafața administrativă este de 3349 hectare", "Biserica Inimii lui Isus datează din secolul al XV-lea"],
       en: ["City rights were confirmed by Margrave Henry the Illustrious", "The castle was the seat of the Promnitz family for 200 years", "Georg Philipp Telemann composed many 'Polish style' works here", "The town is located between the Bóbr and Nysa rivers", "The total area of the municipality is 33.49 square km", "The 13th-century city walls had several defensive towers"],
     },
+    image: "/poi-images/poland-zary-cities-v2.webp",
   },
   {
     id: "poland-olesnica-cities-v2",
@@ -3377,6 +3382,7 @@ export const polandCitiesV2: POI[] = [
       ro: ["Oleśnica a primit drepturi de oraș în 1255.", "Castelul a fost construit în secolul al XVI-lea.", "Suprafața orașului este de 20,9 km².", "Populația în 2023 era de aproximativ 37.000 de locuitori.", "Primăria datează din secolul al XIV-lea.", "Orașul are 9 biserici."],
       en: ["Oleśnica received town rights in 1255.", "The castle was built in the 16th century.", "City area is 20.9 km².", "Population in 2023 is about 37,000.", "The town hall dates from the 14th century.", "The city has 9 churches."],
     },
+    image: "/poi-images/poland-olesnica-cities-v2.webp",
   },
   {
     id: "poland-szczytno-cities-v2",
@@ -3409,5 +3415,6 @@ export const polandCitiesV2: POI[] = [
       ro: ["Szczytno a fost fondat în 1359.", "Castelul a fost construit în secolul al XIV-lea.", "Suprafața orașului este de 10,6 km².", "Populația în 2023 era de aproximativ 24.000 de locuitori.", "Lacul Wielki Orzyc are o suprafață de 8,2 km².", "Orașul a fost distrus 70% în al Doilea Război Mondial."],
       en: ["Szczytno was founded in 1359.", "The castle was built in the 14th century.", "City area is 10.6 km².", "Population in 2023 is about 24,000.", "Lake Wielki Orzyc covers 8.2 km².", "The city was 70% destroyed in World War II."],
     },
+    image: "/poi-images/poland-szczytno-cities-v2.webp",
   }
 ];

@@ -635,5 +635,6 @@ export const poiExtraBruneiHistoryV2: POI[] = [
       ro: ["Dezvelire: 25 aprilie 2010", "Înălțimea stelei: 3 metri", "Material: granit negru", "Inscripții în engleză și bahasa melayu", "Locație: Taman Haji Sir Muda Omar 'Ali Saifuddien", "Comemorare anuală: Ziua ANZAC (25 aprilie)"],
       en: ["Unveiled: April 25, 2010", "Stele height: 3 meters", "Material: black granite", "Inscriptions in English and Malay", "Location: Taman Haji Sir Muda Omar 'Ali Saifuddien", "Annual commemoration: ANZAC Day (April 25)"],
     },
+    image: "/poi-images/australian-veterans-monument-history-v2.webp",
   }
 ];

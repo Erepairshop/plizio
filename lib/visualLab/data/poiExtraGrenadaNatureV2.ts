@@ -31,6 +31,7 @@ export const grenadaNatureV2: POI[] = [
       ro: ["Altitudine: 530 m", "Suprafața lacului: 10 hectare", "Adâncime maximă: 6 m", "Formare: acum 12.000 de ani", "Înființarea parcului: 1994", "Precipitații: peste 3.000 mm/an"],
       en: ["Elevation: 530 meters (1,739 feet)", "Lake area: 10 hectares (24.7 acres)", "Maximum depth: 6 meters (20 feet)", "Formed: approximately 12,000 years ago", "Park established: 1994", "Annual rainfall: over 3,000 mm (118 inches)"],
     },
+    image: "/poi-images/grenada-grand-etang-lake-nature-v2.webp",
   },
   {
     id: "grenada-mount-st-catherine-nature-v2",
@@ -62,6 +63,7 @@ export const grenadaNatureV2: POI[] = [
       ro: ["Înălțime: 840 m", "Lanț muntos: Munții Nordici", "Geologie: stratovulcan stins", "Timp de ascensiune: 4 ore", "Precipitații: peste 4.000 mm/an", "Arie protejată: Rezervația Forestieră Mount Saint Catherine"],
       en: ["Height: 840 meters (2,756 feet)", "Mountain range: Northern Range", "Geology: extinct stratovolcano", "Climbing time: 4 hours", "Annual rainfall: over 4,000 mm (157 inches)", "Protected area: Mount Saint Catherine Forest Reserve"],
     },
+    image: "/poi-images/grenada-mount-st-catherine-nature-v2.webp",
   },
   {
     id: "grenada-lake-antoine-nature-v2",
@@ -93,6 +95,7 @@ export const grenadaNatureV2: POI[] = [
       ro: ["Suprafață: 2 hectare", "Adâncime maximă: 8 m", "Endoreic (fără emisar)", "pH: 6,5", "Lac de crater în vulcan", "Altitudine: 100 m"],
       en: ["Area: 2 hectares (5 acres)", "Maximum depth: 8 meters (26 feet)", "Endorheic (no outflow)", "pH: 6.5", "Crater lake in extinct volcano", "Elevation: 100 meters (328 feet)"],
     },
+    image: "/poi-images/grenada-lake-antoine-nature-v2.webp",
   },
   {
     id: "grenada-seven-sisters-falls-nature-v2",
@@ -124,6 +127,7 @@ export const grenadaNatureV2: POI[] = [
       ro: ["Număr de cascade: 7", "Cea mai înaltă cascadă: 30 m", "Traseu: 1,5 km (dus)", "Temperatura apei: 22°C", "Diferență totală de nivel: 500 m", "Precipitații: peste 3.000 mm/an"],
       en: ["Number of falls: 7", "Highest fall: 30 meters (98 feet)", "Trail length: 1.5 km one way", "Water temperature: 22°C (72°F)", "Total vertical drop: 500 meters (1,640 feet)", "Annual rainfall: over 3,000 mm (118 inches)"],
     },
+    image: "/poi-images/grenada-seven-sisters-falls-nature-v2.webp",
   },
   {
     id: "grenada-carriacou-island-nature-v2",
@@ -155,6 +159,7 @@ export const grenadaNatureV2: POI[] = [
       ro: ["Suprafață: 34 km²", "Populație: aprox. 8.000", "Distanța de la Grenada: 37 km", "Cel mai înalt punct: 291 m", "Precipitații anuale: 1.200 mm", "Capitala: Hillsborough"],
       en: ["Area: 34 km² (13 sq mi)", "Population: approx. 8,000", "Distance from Grenada: 37 km (23 miles)", "Highest point: 291 m (955 ft)", "Annual rainfall: 1,200 mm (47 inches)", "Capital: Hillsborough"],
     },
+    image: "/poi-images/grenada-carriacou-island-nature-v2.webp",
   },
   {
     id: "grenada-sandy-island-nature-v2",
@@ -186,6 +191,7 @@ export const grenadaNatureV2: POI[] = [
       ro: ["Lungime: 800 m", "Lățime: 200 m", "Distanța de Carriacou: 2 km", "Altitudine maximă: 2 m", "Temperatura apei: 27°C", "Arie protejată din 2001"],
       en: ["Length: 800 meters (0.5 miles)", "Width: 200 meters (656 feet)", "Distance from Carriacou: 2 km (1.2 miles)", "Maximum elevation: 2 meters (6.6 feet)", "Water temperature: 27°C (81°F)", "Protected area since 2001"],
     },
+    image: "/poi-images/grenada-sandy-island-nature-v2.webp",
   },
   {
     id: "grenada-petite-martinique-nature-v2",
@@ -217,6 +223,7 @@ export const grenadaNatureV2: POI[] = [
       ro: ["Suprafață: 2,5 km²", "Populație: aprox. 1.000", "Distanța de Carriacou: 5 km", "Cel mai înalt punct: 200 m", "Sat principal: North Point", "Economie: pescuit, construcții bărci, turism"],
       en: ["Area: 2.5 km² (0.97 sq mi)", "Population: approx. 1,000", "Distance from Carriacou: 5 km (3.1 miles)", "Highest point: 200 m (656 ft)", "Main settlement: North Point", "Economy: fishing, boat-building, tourism"],
     },
+    image: "/poi-images/grenada-petite-martinique-nature-v2.webp",
   },
   {
     id: "grenada-grand-anse-beach-nature-v2",
@@ -248,6 +255,7 @@ export const grenadaNatureV2: POI[] = [
       ro: ["Lungime: 3 km", "Nisip: nisip alb de corali", "Temperatura apei: 27°C", "Plajă publică", "Vizitatori anuali: peste 200.000", "Sezonul de cuibărit al țestoaselor: mai-octombrie"],
       en: ["Length: 3 km (1.9 miles)", "Sand: white coral sand", "Water temperature: 27°C (81°F)", "Public beach", "Annual visitors: over 200,000", "Turtle nesting season: May to October"],
     },
+    image: "/poi-images/grenada-grand-anse-beach-nature-v2.webp",
   },
   {
     id: "grenada-tufton-hall-waterfall-nature-v2",
@@ -279,6 +287,7 @@ export const grenadaNatureV2: POI[] = [
       ro: ["Cascada are o înălțime de 15 metri.", "Râul Balthazar are o lungime de aproximativ 10 km.", "Bazinul natural are o adâncime maximă de 3 metri.", "Zona primește anual peste 2500 mm de precipitații.", "Temperatura medie a apei este de 24 °C.", "Traseul de drumeție până la cascadă are 500 de metri."],
       en: ["Height: 15 meters (49 feet).", "Fed by the Balthazar River, which flows for about 10 km.", "Elevation of the waterfall base: 200 meters above sea level.", "Average annual rainfall in the area: 2,500 mm.", "Water temperature remains around 24 °C year-round.", "Hiking trail length to the waterfall: 500 meters."],
     },
+    image: "/poi-images/grenada-tufton-hall-waterfall-nature-v2.webp",
   },
   {
     id: "grenada-royal-mt-carmel-falls-nature-v2",
@@ -310,6 +319,7 @@ export const grenadaNatureV2: POI[] = [
       ro: ["Cascada superioară: 20 metri înălțime.", "Cascada inferioară: 15 metri înălțime.", "Altitudinea: 300 metri deasupra nivelului mării.", "Lungimea râului Little Palmiste: 8 km.", "Suprafața ariei protejate: 50 de hectare.", "Adâncimea maximă a bazinelor: 4 metri."],
       en: ["Upper waterfall height: 20 meters.", "Lower waterfall height: 15 meters.", "Elevation: 300 meters above sea level.", "Little Palmiste River length: 8 km.", "Protected area size: 50 hectares.", "Maximum pool depth: 4 meters."],
     },
+    image: "/poi-images/grenada-royal-mt-carmel-falls-nature-v2.webp",
   },
   {
     id: "grenada-levera-pond-nature-v2",
@@ -341,6 +351,7 @@ export const grenadaNatureV2: POI[] = [
       ro: ["Suprafața lacului: 20 de hectare.", "Adâncimea maximă: 2 metri.", "Parcul Național Levera a fost înființat în 1990.", "Suprafața parcului: 450 de hectare.", "Numărul speciilor de păsări observate: peste 50.", "Temperatura medie a apei: 28 °C."],
       en: ["Pond surface area: approximately 20 hectares.", "Maximum depth: 2 meters.", "Levera National Park established in 1990.", "Park area: 450 hectares.", "Over 50 bird species recorded in the park.", "Average water temperature: 28°C."],
     },
+    image: "/poi-images/grenada-levera-pond-nature-v2.webp",
   },
   {
     id: "grenada-quarantine-point-nature-v2",
@@ -372,6 +383,7 @@ export const grenadaNatureV2: POI[] = [
       ro: ["Promontoriul se extinde pe 500 de metri în mare.", "Înălțimea stâncilor: până la 20 de metri.", "Stația de carantină a funcționat în secolul al XIX-lea.", "Distanța până în centrul orașului St. George's: 2 km.", "Adâncimea apei în jurul capului: 10 metri.", "Suprafața zonei protejate: 10 hectare."],
       en: ["The headland extends 500 meters into the sea.", "Cliff height reaches up to 20 meters.", "Quarantine station operated in the 19th century.", "Distance from St. George's city center: 2 km.", "Water depth around the point: 10 meters.", "Protected area size: 10 hectares."],
     },
+    image: "/poi-images/grenada-quarantine-point-nature-v2.webp",
   },
   {
     id: "grenada-hog-island-nature-v2",
@@ -403,6 +415,7 @@ export const grenadaNatureV2: POI[] = [
       ro: ["Lungimea insulei: 1 km, lățimea: 300 m.", "Suprafața: aproximativ 30 de hectare.", "Recifele de corali acoperă 5 hectare.", "Altitudinea maximă: 15 metri deasupra nivelului mării.", "Distanța față de continent: 2 km.", "Adâncimea maximă a apei în jur: 20 de metri."],
       en: ["Length: 1 km, width: 300 m.", "Area: approximately 30 hectares.", "Coral reef area: 5 hectares.", "Highest point: 15 meters above sea level.", "Distance from mainland: 2 km.", "Maximum surrounding water depth: 20 meters."],
     },
+    image: "/poi-images/grenada-hog-island-nature-v2.webp",
   },
   {
     id: "grenada-calivigny-island-nature-v2",
@@ -434,6 +447,7 @@ export const grenadaNatureV2: POI[] = [
       ro: ["Lungimea: 2 km, lățimea: 500 m.", "Suprafața: aproximativ 100 de hectare.", "Stațiunea are 10 vile.", "Terenul de golf are 9 găuri.", "Distanța față de continent: 1,5 km.", "Lungimea totală a plajelor: 3 km."],
       en: ["Length: 2 km, width: 500 m.", "Area: approximately 100 hectares.", "Resort features 10 villas.", "9-hole golf course on the island.", "Distance from mainland: 1.5 km.", "Total beach length: 3 km."],
     },
+    image: "/poi-images/grenada-calivigny-island-nature-v2.webp",
   },
   {
     id: "grenada-glover-island-nature-v2",
@@ -465,6 +479,7 @@ export const grenadaNatureV2: POI[] = [
       ro: ["Lungime: 500 m, lățime: 200 m.", "Suprafața: aproximativ 10 hectare.", "Altitudinea maximă: 10 metri.", "Distanța față de coastă: 1 km.", "Adâncimea apei în jur: până la 30 de metri.", "Adăpostește 5 specii de păsări marine."],
       en: ["Length: 500 m, width: 200 m.", "Area: approximately 10 hectares.", "Highest elevation: 10 meters above sea level.", "Distance from northwest coast: 1 km.", "Surrounding water depth: up to 30 meters.", "Nesting site for 5 seabird species."],
     },
+    image: "/poi-images/grenada-glover-island-nature-v2.webp",
   },
   {
     id: "grenada-black-bay-beach-nature-v2",
@@ -496,6 +511,7 @@ export const grenadaNatureV2: POI[] = [
       ro: ["Lungimea plajei: 500 de metri.", "Dimensiunea granulelor de nisip: 0,2-1 mm.", "Înălțimea stâncilor: până la 30 de metri.", "Temperatura medie a apei: 27 °C.", "Precipitații anuale: 2000 mm.", "Aproximativ 20 de cuiburi de țestoase pe sezon."],
       en: ["Beach length: 500 meters.", "Sand grain size: 0.2 to 1 mm.", "Cliff height: up to 30 meters.", "Average water temperature: 27°C.", "Annual rainfall: 2000 mm.", "Approximately 20 turtle nests per season."],
     },
+    image: "/poi-images/grenada-black-bay-beach-nature-v2.webp",
   },
   {
     id: "grenada-dragons-bay-nature-v2",
@@ -527,5 +543,6 @@ export const grenadaNatureV2: POI[] = [
       ro: ["Lățimea golfului: aproximativ 1 km.", "Lungimea plajei: 600 de metri.", "Adâncimea apei în golf: până la 5 metri.", "Suprafața recifelor de corali: 2 hectare.", "Temperatura apei: 28 °C.", "Distanța până la Grenville: 5 km."],
       en: ["Bay width: approximately 1 km.", "Beach length: 600 meters.", "Water depth in bay: up to 5 meters.", "Coral reef area: 2 hectares.", "Water temperature: 28°C.", "Distance to Grenville: 5 km."],
     },
+    image: "/poi-images/grenada-dragons-bay-nature-v2.webp",
   }
 ];

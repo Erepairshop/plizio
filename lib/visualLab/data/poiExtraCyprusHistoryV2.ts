@@ -32,6 +32,7 @@ export const cyprusHistoryV2: POI[] = [
       ro: ["Orașul Kition a fost fondat în jurul anului 1200 î.Hr. de coloniști greci.", "Templul Astarteei din secolul al IX-lea î.Hr. este cel mai mare din perioada feniciană.", "Zidurile ciclopice ale orașului sunt construite fără mortar, folosind pietre uriașe.", "Filosoful Zenon din Kition a fondat școala stoică în Atena antică.", "Situl conține dovezi ale topirii cuprului la scară industrială în antichitate.", "Kition a fost menționat în Biblie sub numele de Kittim."],
       en: ["Kition was founded in the 13th century BC by Mycenaean Greek settlers.", "The Temple of Astarte is considered the largest Phoenician temple in Cyprus.", "The massive cyclopean walls date back to the Late Bronze Age (1200 BC).", "Zeno of Kition, the founder of Stoicism, was born here in 334 BC.", "The city served as the principal Phoenician stronghold on the island.", "Remnants of ancient Phoenician trireme ship sheds are located at the site."],
     },
+    image: "/poi-images/cyprus-kition-ruins-history-v2.webp",
   },
   {
     id: "cyprus-idalion-ruins-history-v2",
@@ -64,6 +65,7 @@ export const cyprusHistoryV2: POI[] = [
       ro: ["Idalion a fost menționat pe Prisma lui Esarhaddon în 673 î.Hr.", "Tăblița de bronz de la Idalion se află în prezent la Muzeul Luvru din Paris.", "Orașul avea două acropole, cea mai înaltă fiind dedicată Atenei.", "Situl este unul dintre puținele unde s-au găsit texte în silabarul cipriot.", "Idalion controla minele de cupru din zona Tamassos.", "Cetatea a rezistat unui asediu persan timp de mai mulți ani înainte de a cădea."],
       en: ["Idalion was listed as a sovereign city-kingdom on the Prism of Esarhaddon in 673 BC.", "The Idalion Bronze Tablet was discovered in 1850 and dates to the mid-5th century BC.", "The city uniquely featured two distinct acropolises with separate religious zones.", "It fell under the control of the Phoenician kingdom of Kition around 470 BC.", "The Temple of Aphrodite at Idalion was a major pan-Cyprian pilgrimage site.", "Archaeological excavations have uncovered a massive fortified palace from the 5th century BC."],
     },
+    image: "/poi-images/cyprus-idalion-ruins-history-v2.webp",
   },
   {
     id: "cyprus-tamassos-ruins-history-v2",
@@ -96,6 +98,7 @@ export const cyprusHistoryV2: POI[] = [
       ro: ["Tamassos este menționat în scrierile lui Homer ca 'Temese'.", "Cele două morminte regale au fost descoperite în 1970 de arheologi germani.", "Cupru de la Tamassos era exportat în întreg bazinul Mediteranei.", "Orașul a fost vândut regatului Kition de către ultimul său rege, Pasikypros.", "Situl include un templu dedicat Afroditei-Astarteea.", "Tamassos a fost un centru episcopal important în perioada bizantină timpurie."],
       en: ["Tamassos is referenced in Homer's Odyssey as the city of 'Temese'.", "The site's two massive royal tombs date back to the 6th century BC.", "It was the primary source of copper for many ancient Mediterranean civilizations.", "King Pasikypros sold the kingdom to the Phoenicians of Kition for 50 talents in 350 BC.", "The 'Apollo of Tamassos' bronze statue, now in the British Museum, was found here.", "Archaeological evidence points to continuous occupation from the Late Bronze Age."],
     },
+    image: "/poi-images/cyprus-tamassos-ruins-history-v2.webp",
   },
   {
     id: "cyprus-soli-ruins-history-v2",
@@ -128,6 +131,7 @@ export const cyprusHistoryV2: POI[] = [
       ro: ["Soli a fost fondat inițial sub numele de Aipeia pe un deal din apropiere.", "Teatrul roman din Soli a fost excavat și restaurat în anii 1960.", "Bazilica din Soli are o lungime de peste 200 de metri, fiind monumentală.", "Mozaicul cu lebădă simbolizează puritatea și este emblema sitului.", "Soli a bătut propria monedă în perioada clasică greacă.", "Orașul a fost un centru important al rezistenței împotriva perșilor."],
       en: ["The city was renamed 'Soli' following the advice of the Athenian lawgiver Solon.", "The Roman theater was built in the 2nd century AD on a hillside.", "The Swan Mosaic is located in the nave of the 5th-century basilica.", "Soli was a major hub for the copper trade throughout the Roman era.", "The famous marble statue of Aphrodite of Soli was discovered here in 1902.", "It served as one of the most important Christian bishoprics in Cyprus until 648 AD."],
     },
+    image: "/poi-images/cyprus-soli-ruins-history-v2.webp",
   },
   {
     id: "cyprus-vouni-palace-history-v2",
@@ -160,6 +164,7 @@ export const cyprusHistoryV2: POI[] = [
       ro: ["Palatul Vouni este situat la o altitudine de 250 m deasupra mării.", "Situl a fost excavat integral de Expediția Suedeză în Cipru (1927-1931).", "Palatul a fost construit inițial în stil oriental, apoi modificat în stil grec.", "Tezaurul de la Vouni conținea monede din aur și argint din Marion și Kition.", "Distrugerea palatului în 380 î.Hr. a marcat victoria orașului Soli.", "Sistemul de canalizare al palatului era extrem de avansat pentru acea epocă."],
       en: ["Vouni Palace is located on a hilltop at an elevation of 250 meters.", "The complex consists of 137 rooms organized around a large central court.", "It was permanently abandoned after being set on fire in 380 BC.", "The 'Vouni Treasure' was unearthed by the Swedish Cyprus Expedition in 1928.", "The site features a blend of Persian administrative and Greek religious architecture.", "A temple dedicated to Athena is situated at the highest point of the hill."],
     },
+    image: "/poi-images/cyprus-vouni-palace-history-v2.webp",
   },
   {
     id: "cyprus-engomi-ruins-history-v2",
@@ -192,6 +197,7 @@ export const cyprusHistoryV2: POI[] = [
       ro: ["Engomi este considerat cel mai vechi oraș planificat din Cipru.", "Situl a fost descoperit inițial de o misiune britanică în 1896.", "Statuia 'Zeului Coarnat' reprezintă o divinitate a fertilității și metalelor.", "Tablete scrise în silabarul cipro-minoic au fost găsite în arhivele orașului.", "Orașul a fost un port interior legat de mare printr-un canal sau râu.", "Săpăturile au scos la iveală bijuterii din aur masiv de influență egipteană."],
       en: ["Engomi is frequently identified as the capital of the Late Bronze Age kingdom of Alashiya.", "The city was a pioneer in urban grid planning during the 2nd millennium BC.", "The 'Horned God' bronze statue is a masterpiece of Late Cypriot IIIC art.", "It was the primary production center for the 'oxhide' copper ingots found across the Mediterranean.", "The city's decline coincided with the arrival of the first Greek settlers in the 11th century BC.", "Excavations have uncovered rich tombs containing Mycenaean chariot craters and ivory boxes."],
     },
+    image: "/poi-images/cyprus-engomi-ruins-history-v2.webp",
   },
   {
     id: "cyprus-la-cava-castle-history-v2",
@@ -224,6 +230,7 @@ export const cyprusHistoryV2: POI[] = [
       ro: ["Construit în anul 1385 de către regele Iacob I din dinastia Lusignan.", "Amplasat pe dealul Aronas la o altitudine de aproximativ 170 de metri.", "Distrus parțial de venețieni în 1570 pentru a nu cădea în mâinile otomanilor.", "Numele 'La Cava' provine de la marea cisternă săpată în stânca dealului.", "A funcționat ca post de semnalizare între Nicosia și cetățile de coastă.", "Săpăturile arheologice indică urme de locuire încă din epoca bronzului."],
       en: ["Built in 1385 by King James I of the Lusignan dynasty.", "Located on the Aronas hill at an elevation of roughly 170 meters.", "Deliberately partially demolished by the Venetians in 1570.", "The name 'La Cava' refers to the large rock-cut cistern found at the site.", "Served as a vital communication link between Nicosia and coastal towers.", "Archaeological evidence suggests the hill was inhabited since the Late Bronze Age."],
     },
+    image: "/poi-images/cyprus-la-cava-castle-history-v2.webp",
   },
   {
     id: "cyprus-kantaras-castle-history-v2",
@@ -256,6 +263,7 @@ export const cyprusHistoryV2: POI[] = [
       ro: ["Situat la o altitudine strategică de 630 de metri în munții Kyrenia.", "Capturat de Richard Inimă de Leu în timpul campaniei sale din 1191.", "Conține 101 camere, dintre care multe structuri sunt încă vizibile astăzi.", "Abandonat oficial de inginerii militari venețieni în anul 1525.", "Denumirea provine din cuvântul arab 'Qantara', care înseamnă pod.", "A rezistat unui asediu prelungit în 1229 în timpul conflictului cu Frederic al II-lea."],
       en: ["Positioned at a strategic altitude of 630 meters above sea level.", "Seized by Richard the Lionheart's forces in May 1191.", "Historically noted for having 101 rooms within its complex.", "Decommissioned as a military fort by the Venetians in 1525.", "The name is derived from the Arabic word 'Qantara', meaning bridge.", "Withstood a significant siege in 1229 during the War of the Lombards."],
     },
+    image: "/poi-images/cyprus-kantaras-castle-history-v2.webp",
   },
   {
     id: "cyprus-bufavento-castle-history-v2",
@@ -288,6 +296,7 @@ export const cyprusHistoryV2: POI[] = [
       ro: ["Cea mai înaltă fortăreață din Cipru, situată la 950 de metri altitudine.", "Numele derivă din expresia italiană 'buffa vento', însemnând vântul bate.", "Castelul este structurat pe două niveluri distincte, cel inferior și cel superior.", "Cucerit de Richard Inimă de Leu în mai 1191 de la Isaac Comnenul.", "A servit drept închisoare pentru nobilii rebeli în timpul regatului Lusignan.", "Venețienii au demontat apărarea castelului în secolul al XVI-lea."],
       en: ["The highest castle in Cyprus, perched at 950 meters elevation.", "The name 'Buffavento' comes from the Italian for 'wind defier'.", "The structure is divided into two wards: lower and upper sections.", "Fell to Richard the Lionheart in 1191 after a brief siege.", "Functioned as a prison for high-profile figures during the 1300s.", "The Venetians intentionally disabled the castle's defenses in the 16th century."],
     },
+    image: "/poi-images/cyprus-bufavento-castle-history-v2.webp",
   },
   {
     id: "cyprus-paphos-odeon-history-v2",
@@ -320,6 +329,7 @@ export const cyprusHistoryV2: POI[] = [
       ro: ["Construit în secolul al II-lea d.Hr. în timpul epocii romane.", "Edificiul este realizat aproape integral din calcar local.", "Secțiunea restaurată actuală cuprinde 12 rânduri de gradene.", "Distrus de cutremure violente care au lovit insula în secolul al IV-lea.", "Excavările arheologice moderne au început în anul 1973.", "Inclus în lista Patrimoniului Mondial UNESCO din anul 1980."],
       en: ["Built during the 2nd century AD under Roman rule.", "Constructed almost entirely from locally quarried limestone.", "The present-day reconstruction features 12 rows of stone seats.", "Severely damaged by massive earthquakes in the 4th century.", "Modern excavation and restoration efforts began in 1973.", "Part of the Paphos UNESCO World Heritage site since 1980."],
     },
+    image: "/poi-images/cyprus-paphos-odeon-history-v2.webp",
   },
   {
     id: "cyprus-saranta-kolones-history-v2",
@@ -352,6 +362,7 @@ export const cyprusHistoryV2: POI[] = [
       ro: ["Ridicată inițial în secolul al VII-lea ca fortificație bizantină.", "Numele face referire la cele peste 40 de coloane de granit vizibile.", "Reconstruită ca un castel de cruciați de către Lusignani în 1192.", "Distrusă integral de un cutremur puternic în anul 1222.", "Castelul interior avea o formă pătrată cu latura de 35 de metri.", "Săpăturile au relevat prezența unor instalații pentru măcinarea trestiei de zahăr."],
       en: ["Originally established in the 7th century as a Byzantine fort.", "Named after the more than 40 granite columns found on site.", "Upgraded into a Crusader castle by the Lusignans around 1192.", "Completely destroyed by a massive earthquake in 1222.", "The inner castle occupied a square area of 35 by 35 meters.", "Excavations revealed evidence of sugar-cane processing mills inside."],
     },
+    image: "/poi-images/cyprus-saranta-kolones-history-v2.webp",
   },
   {
     id: "cyprus-machairas-monastery-history-v2",
@@ -384,6 +395,7 @@ export const cyprusHistoryV2: POI[] = [
       ro: ["Fondată în anul 1148 sub auspiciile Imperiului Bizantin.", "Adăpostește una dintre cele 70 de icoane atribuite Apostolului Luca.", "Situată la o altitudine de aproximativ 870 de metri în munții Troodos.", "Un incendiu major a distrus mănăstirea aproape în totalitate în 1892.", "Deține statutul de mănăstire stavropighială (imperială).", "În apropiere se află buncărul eroului național Grigoris Afxentiou."],
       en: ["Founded in 1148 during the Byzantine administrative period.", "Houses one of the 70 icons purportedly painted by the Apostle Luke.", "Located at an altitude of approximately 870 meters in the Troodos mountains.", "A devastating fire in 1892 forced a near-total reconstruction of the site.", "Enjoys the status of an imperial stauropegic monastery.", "The hideout of EOKA hero Grigoris Afxentiou is located nearby."],
     },
+    image: "/poi-images/cyprus-machairas-monastery-history-v2.webp",
   },
   {
     id: "cyprus-othello-tower-history-v2",
@@ -416,6 +428,7 @@ export const cyprusHistoryV2: POI[] = [
       ro: ["Reconstrucția în stil venețian a fost finalizată în anul 1492.", "Basorelieful cu Leul Sfântului Marcu menționează numele lui Nicolo Foscari.", "Zidurile de apărare au o grosime de până la 3,5 metri în punctele cheie.", "Numele de 'Turnul lui Othello' a devenit popular în timpul epocii coloniale britanice.", "Complexul include o curte interioară vastă și săli boltite.", "O restaurare majoră a fost finalizată în 2015 cu sprijin internațional."],
       en: ["The Venetian reconstruction was officially completed in 1492.", "The Lion of St. Mark above the gate features Captain Nicolo Foscari's name.", "The fortress walls reach a thickness of up to 3.5 meters in some sections.", "The name 'Othello Tower' gained widespread use during the British colonial era.", "The castle's courtyard is frequently used for open-air theatrical performances.", "A major structural restoration was completed in 2015 via international funding."],
     },
+    image: "/poi-images/cyprus-othello-tower-history-v2.webp",
   },
   {
     id: "cyprus-kyrenia-castle-history-v2",
@@ -448,6 +461,7 @@ export const cyprusHistoryV2: POI[] = [
       ro: ["Adăpostește epava unei nave comerciale din anul 300 î.Hr.", "Venețienii au modernizat radical fortificația în jurul anului 1540.", "Capela Sfântul Gheorghe din interior datează din secolul al XII-lea.", "Cetatea s-a predat fără luptă otomanilor în timpul invaziei din 1570.", "Include temnițe istorice utilizate în perioada dinastiei Lusignan.", "Grosimea zidurilor atinge în anumite puncte peste 4 metri."],
       en: ["Contains the remains of a merchant ship from 300 BC.", "The Venetians significantly overhauled the structure in 1540.", "The St. George Byzantine Chapel within the walls dates to the 1100s.", "The fortress surrendered without a fight to the Ottomans in 1570.", "Features dungeons used for political prisoners in the medieval era.", "The defensive walls are over 4 meters thick in several areas."],
     },
+    image: "/poi-images/cyprus-kyrenia-castle-history-v2.webp",
   },
   {
     id: "cyprus-salamis-ruins-history-v2",
@@ -480,6 +494,7 @@ export const cyprusHistoryV2: POI[] = [
       ro: ["Fondat în secolul al XI-lea î.Hr. de către legendarul Teucru.", "Teatrul antic este prevăzut cu 50 de rânduri de gradene.", "Vizitat de Apostolii Pavel și Barnaba în anul 45 d.Hr.", "Orașul a fost distrus de cutremure masive în anii 332 și 342 d.Hr.", "Reconstruit în secolul al IV-lea sub numele de Constantia.", "Necropola regală din Salamis datează din secolele VIII-VII î.Hr."],
       en: ["Founded in the 11th century BC by the hero Teucer.", "The ancient theatre originally consisted of 50 rows of seating.", "Visited by St. Paul and St. Barnabas during their mission in 45 AD.", "Major earthquakes levelled the city in 332 and 342 AD.", "Rebuilt as 'Constantia' in the 4th century by Emperor Constantius II.", "The Royal Tombs of Salamis date back to the 8th and 7th centuries BC."],
     },
+    image: "/poi-images/cyprus-salamis-ruins-history-v2.webp",
   },
   {
     id: "cyprus-amathus-ruins-history-v2",
@@ -512,6 +527,7 @@ export const cyprusHistoryV2: POI[] = [
       ro: ["Fondat în jurul anului 1100 î.Hr. de către populația eteocipriotă.", "Adăpostește templul dedicat zeiței Afrodita Amathusia.", "Vasul monumental de piatră găsit aici cântărește aproximativ 14 tone.", "Zidurile portului antic sunt vizibile sub apă în condiții de mare calmă.", "Prădat de forțele lui Richard Inimă de Leu în anul 1191.", "Situl conține vestigii din perioada geometrică până în cea bizantină."],
       en: ["Established around 1100 BC by the Eteocypriot population.", "Site of the renowned Temple of Aphrodite Amathusia.", "The original monumental stone vase weighs approximately 14 tons.", "Ancient harbor remains are still visible beneath the water surface.", "Plundered by Richard the Lionheart's forces in 1191.", "Archaeological finds on the acropolis span from the Geometric to Byzantine eras."],
     },
+    image: "/poi-images/cyprus-amathus-ruins-history-v2.webp",
   },
   {
     id: "cyprus-kourion-theatre-history-v2",
@@ -544,6 +560,7 @@ export const cyprusHistoryV2: POI[] = [
       ro: ["Teatrul a fost fondat inițial în secolul al II-lea î.Hr.", "A fost transformat în arenă pentru gladiatori în secolul al II-lea d.Hr.", "Capacitatea maximă atinsă în epoca romană a fost de 3.500 de locuri", "Cutremurul major din anul 365 d.Hr. a dus la abandonarea sitului", "Restaurarea modernă a fost finalizată în anii 1960", "Este considerat unul dintre cele mai bine conservate teatre romane din insulă"],
       en: ["Original construction dates back to the 2nd century BC", "Roman expansion to 3,500 seats occurred in the 2nd century AD", "The site offers a 180-degree view of the Mediterranean coastline", "Severely damaged by a massive earthquake in 365 AD", "Restored in the 1960s to host modern cultural performances", "Part of a larger archaeological complex including Roman baths and villas"],
     },
+    image: "/poi-images/cyprus-kourion-theatre-history-v2.webp",
   },
   {
     id: "cyprus-house-of-dionysos-history-v2",
@@ -576,6 +593,7 @@ export const cyprusHistoryV2: POI[] = [
       ro: ["Descoperirea vilei a avut loc accidental în anul 1962.", "Mozaicurile acoperă o suprafață totală de aproximativ 556 de metri pătrați.", "Vila cuprinde 40 de camere dispuse în jurul unei curți centrale.", "Cel mai celebru mozaic redă triumful zeului Dionysos.", "Situl este protejat de UNESCO ca parte a zonei Paphos din 1980.", "Majoritatea scenelor mitologice sunt inspirate din textele lui Ovidiu."],
       en: ["The villa was discovered by accident by a farmer in 1962.", "The mosaics cover a total floor area of 556 square meters.", "The building consists of 40 rooms surrounding a central peristyle.", "The most famous mosaic depicts the Triumphal Procession of Dionysos.", "Listed as a UNESCO World Heritage site since 1980.", "The mosaics were crafted using small cubes of natural stone and glass."],
     },
+    image: "/poi-images/cyprus-house-of-dionysos-history-v2.webp",
   },
   {
     id: "cyprus-paphos-fort-history-v2",
@@ -608,6 +626,7 @@ export const cyprusHistoryV2: POI[] = [
       ro: ["Fortul original a fost ridicat de bizantini în secolul al X-lea.", "Reconstrucția otomană a fost finalizată oficial în anul 1592.", "A fost utilizat ca depozit de sare de către britanici până în 1935.", "Este declarat monument istoric protejat încă din anul 1935.", "Structura cuprinde un turn central masiv și o curte interioară.", "Găzduiește anual festivalul de operă Afrodita în prima săptămână din septembrie."],
       en: ["The fort was originally established as a Byzantine castle in the 10th century.", "The Ottoman reconstruction was completed in 1592.", "It was used as a salt storehouse during the British rule until 1935.", "The building was declared a protected ancient monument in 1935.", "The castle consists of a central square tower with an enclosed courtyard.", "It serves as the main stage for the Paphos Aphrodite Opera Festival every summer."],
     },
+    image: "/poi-images/cyprus-paphos-fort-history-v2.webp",
   },
   {
     id: "cyprus-agios-nikolaos-tis-stegis-history-v2",
@@ -640,6 +659,7 @@ export const cyprusHistoryV2: POI[] = [
       ro: ["Biserica originală a fost construită în secolul al XI-lea.", "Acoperișul protector din lemn a fost adăugat în secolul al XIII-lea.", "Inclusă în patrimoniul UNESCO din 1985 ca parte a bisericilor pictate din Troodos.", "Frescele acoperă perioade succesive din secolele XI, XII, XIII, XIV și XVII.", "Mănăstirea din care făcea parte a funcționat până la sfârșitul secolului XIX.", "Scena Intrării în Ierusalim din secolul XI este un reper al picturii bizantine."],
       en: ["The original cross-in-square church was built in the 11th century.", "The protective steep wooden roof was installed in the 13th century.", "UNESCO World Heritage site since 1985 among the Painted Churches in Troodos.", "Contains frescoes representing distinct phases from the 11th to 17th centuries.", "The monastery was abandoned and fell into ruin in the late 19th century.", "The 11th-century depiction of the Entry into Jerusalem is a key masterpiece."],
     },
+    image: "/poi-images/cyprus-agios-nikolaos-tis-stegis-history-v2.webp",
   },
   {
     id: "cyprus-agios-ioannis-lampadistis-history-v2",
@@ -672,6 +692,7 @@ export const cyprusHistoryV2: POI[] = [
       ro: ["Complexul monahal reunește trei biserici distincte sub un singur acoperiș.", "Situl face parte din patrimoniul mondial UNESCO din anul 1985.", "Capela Sfântului Heracleidie este cea mai veche structură (sec. XI).", "Adăpostește racla de argint cu moaștele Sfântului Ioan Lampadistis.", "Capela Latină prezintă elemente clare de influență renascentistă italiană.", "Muzeul mănăstirii expune icoane și obiecte liturgice de mare valoare."],
       en: ["The complex features three distinct churches unified under one roof.", "UNESCO World Heritage site since 1985 under the Painted Churches group.", "St. Herakleidios chapel is the oldest part, dating to the 11th century.", "Contains a silver shrine with the relics of Saint John Lampadistis.", "The 15th-century Latin chapel shows Italian Renaissance influences.", "The on-site museum displays icons and rare ecclesiastical artifacts."],
     },
+    image: "/poi-images/cyprus-agios-ioannis-lampadistis-history-v2.webp",
   },
   {
     id: "cyprus-agios-sozomenos-history-v2",
@@ -704,6 +725,7 @@ export const cyprusHistoryV2: POI[] = [
       ro: ["Satul a fost abandonat integral în anul 1964 în urma conflictelor.", "Biserica Sf. Mamas a rămas neterminată încă din secolul al XVI-lea.", "Chilia bizantină în peșteră a Sf. Sozomenos datează din secolul al XII-lea.", "Situl este situat la aproximativ 12 kilometri sud de Nicosia.", "Casele au fost construite tradițional din cărămizi de chirpici uscate la soare.", "Zona este utilizată frecvent ca decor pentru producții cinematografice istorice."],
       en: ["The village was completely abandoned in 1964 due to civil unrest.", "Agios Mamas Gothic church has remained unfinished since the 16th century.", "Saint Sozomenos' cave hermitage features 12th-century Byzantine art.", "The ruins are located approximately 12 kilometers south of Nicosia.", "Traditional mudbrick construction is clearly visible in the house ruins.", "The site is frequently used by photographers for its dramatic landscape."],
     },
+    image: "/poi-images/cyprus-agios-sozomenos-history-v2.webp",
   },
   {
     id: "cyprus-frourio-castle-history-v2",
@@ -736,6 +758,7 @@ export const cyprusHistoryV2: POI[] = [
       ro: ["Structura actuală a fost ridicată în anul 1625 de otomani.", "A funcționat ca închisoare sub britanici până în anul 1948.", "Adăpostește Muzeul Medieval cu obiecte descoperite în Kition.", "Zidul de nord păstrează blazoane și inscripții venețiene.", "Curtea interioară este scena principală a Festivalului de Vară din Larnaca.", "În perioada otomană, fortul dispunea de 24 de piese de artilerie."],
       en: ["The current structure was completed by the Ottomans in 1625.", "Served as a central prison under British rule until 1948.", "Houses the Medieval Museum featuring artefacts from ancient Kition.", "Venetian coats of arms are still visible embedded in the northern wall.", "The courtyard is used for the annual Larnaca Summer Festival events.", "During the Ottoman period, it was armed with 24 cannons."],
     },
+    image: "/poi-images/cyprus-frourio-castle-history-v2.webp",
   },
   {
     id: "cyprus-palaipaphos-sanctuary-history-v2",
@@ -768,6 +791,7 @@ export const cyprusHistoryV2: POI[] = [
       ro: ["Sanctuarul a fost utilizat continuu din secolul al XII-lea î.Hr.", "Inclus în patrimoniul UNESCO în 1980 ca parte a sitului Paphos.", "Afrodita era venerată aici sub forma unei pietre conice negre.", "Muzeul local este găzduit în conacul medieval al familiei Lusignan.", "Săpăturile au scos la lumină zidurile masive ale Primului Templu.", "În apropiere se află Casa Ledei, celebră pentru mozaicurile sale."],
       en: ["The sanctuary was in continuous use since the 12th century BC.", "UNESCO World Heritage site since 1980 within the Paphos area.", "Aphrodite was worshipped here as a conical black stone (baetylus).", "The museum is housed in a medieval manor house built by the Lusignans.", "Excavations revealed the monumental foundations of 'Temple I'.", "The House of Leda nearby features well-preserved Roman-era mosaics."],
     },
+    image: "/poi-images/cyprus-palaipaphos-sanctuary-history-v2.webp",
   },
   {
     id: "cyprus-larnaca-aqueduct-history-v2",
@@ -800,6 +824,7 @@ export const cyprusHistoryV2: POI[] = [
       ro: ["Constructia apeductului a fost finalizată în anul 1747.", "Structura vizibilă cuprinde astăzi 75 de arce din piatră.", "Transporta apă potabilă pe o distanță totală de 10 kilometri.", "A funcționat neîntrerupt timp de 192 de ani, până în 1939.", "Este considerat cel mai important monument otoman din regiunea Larnaca.", "Numele 'Kamares' înseamnă 'arcade' în limba greacă."],
       en: ["The aqueduct was completed in 1747 by Governor Bekir Pasha.", "It consists of 75 distinctive stone arches that remain standing.", "Water was sourced from the Tremithos River, 10 km away.", "The system was functional for over 180 years until 1939.", "Built using locally quarried yellow limestone blocks.", "The site is illuminated at night and features a popular walking path."],
     },
+    image: "/poi-images/cyprus-larnaca-aqueduct-history-v2.webp",
   },
   {
     id: "cyprus-panagia-asinou-history-v2",
@@ -832,6 +857,7 @@ export const cyprusHistoryV2: POI[] = [
       ro: ["Construcția bisericii a fost finalizată în anul 1105 de Nikephoros Ischyrios.", "Inclusă în patrimoniul UNESCO din anul 1985.", "Cele mai vechi fresce din naos datează precis din anul 1105.", "Narthexul cu cupolă a fost adăugat structurii în secolul al XIV-lea.", "A fost inițial biserica principală (katholikon) a mănăstirii Phorvion.", "Este considerată unul dintre cele mai bine conservate monumente bizantine din Cipru."],
       en: ["The church construction was completed in 1105 by Nikephoros Ischyrios.", "UNESCO World Heritage site since 1985 under the Troodos churches group.", "The earliest frescoes in the nave date precisely to 1105.", "The domed narthex was added to the west end in the 14th century.", "Originally served as the katholikon of the Monastery of Phorvion.", "One of the most perfectly preserved Byzantine structures on the island."],
     },
+    image: "/poi-images/cyprus-panagia-asinou-history-v2.webp",
   },
   {
     id: "cyprus-agios-ioannis-agros-history-v2",
@@ -864,6 +890,7 @@ export const cyprusHistoryV2: POI[] = [
       ro: ["Biserica a fost finalizată în anul 1894.", "Este construită pe ruinele unei mănăstiri din secolul al XI-lea.", "Icoana Panagia Eleousa datează din secolul al XII-lea.", "Clădirea are un acoperiș abrupt caracteristic stilului cipriot.", "Satul Agros este renumit pentru producția de apă de trandafiri.", "Iconostasul este o capodoperă a sculpturii locale în lemn."],
       en: ["The church was completed in the year 1894.", "It stands on the ruins of an 11th-century monastery.", "The icon of Panagia Eleousa dates back to the 12th century.", "The building features a characteristic Cypriot steep roof design.", "Agros village is famous for rose water and meat product production.", "The iconostasis is a masterpiece of local wood carving art."],
     },
+    image: "/poi-images/cyprus-agios-ioannis-agros-history-v2.webp",
   },
   {
     id: "cyprus-panagia-podythou-history-v2",
@@ -896,6 +923,7 @@ export const cyprusHistoryV2: POI[] = [
       ro: ["Biserica a fost construită în anul 1502.", "Face parte din Patrimoniul Mondial UNESCO din 1985.", "Ctitorul Demetrios de Coron este reprezentat într-o frescă.", "Frescele prezintă influențe clare ale Renașterii italiene.", "Clădirea nu posedă un narthex (pronaos).", "Biserica este situată în valea Solea, lângă Galata."],
       en: ["The church was built in the year 1502.", "It has been a UNESCO World Heritage site since 1985.", "The donor Demetrios de Coron is depicted in one of the frescoes.", "The frescoes show clear influences from the Italian Renaissance.", "The building does not have a narthex (porch).", "The church is located in the Solea Valley near Galata."],
     },
+    image: "/poi-images/cyprus-panagia-podythou-history-v2.webp",
   },
   {
     id: "cyprus-archangelos-michael-pedoulas-history-v2",
@@ -928,5 +956,6 @@ export const cyprusHistoryV2: POI[] = [
       ro: ["Biserica a fost construită în anul 1474.", "Face parte din Patrimoniul Mondial UNESCO din 1985.", "Pictorul frescelor se numește Minas și era originar din regiune.", "Basil Chamados, ctitorul, este reprezentat deasupra intrării de nord.", "Biserica posedă un acoperiș de lemn caracteristic în două pante.", "Clădirea este situată la o altitudine de aproximativ 1.100 metri."],
       en: ["The church was built in the year 1474.", "It has been a UNESCO World Heritage site since 1985.", "The painter of the frescoes is named Minas and was from the region.", "Basil Chamados, the donor, is depicted above the northern entrance.", "The church has a characteristic timber gabled roof.", "The building is located at an altitude of approximately 1,100 meters."],
     },
+    image: "/poi-images/cyprus-archangelos-michael-pedoulas-history-v2.webp",
   }
 ];

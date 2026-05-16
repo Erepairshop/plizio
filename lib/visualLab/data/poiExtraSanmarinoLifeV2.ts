@@ -32,6 +32,7 @@ export const sanmarinoLifeV2: POI[] = [
       ro: ["Fondată în 1975.", "Suprafață: 2 hectare.", "Peste 200 de specii de plante.", "Include o seră cu cactuși.", "5.000 de vizitatori pe an.", "Bilet: 5 euro."],
       en: ["Founded in 1975.", "Area: 2 hectares.", "Over 200 plant species.", "Includes a cactus greenhouse.", "5,000 visitors annually.", "Entrance fee: 5 euros."],
     },
+    image: "/poi-images/sanmarino-orto-botanico-life-v2.webp",
   },
   {
     id: "sanmarino-oasi-faunistica-life-v2",
@@ -64,6 +65,7 @@ export const sanmarinoLifeV2: POI[] = [
       ro: ["Fondat în 1998.", "50 de hectare.", "3 trasee de drumeție, 10 km.", "2.000 de vizitatori pe an.", "Intrare gratuită.", "Parte a rețelei Natura 2000."],
       en: ["Founded in 1998.", "50 hectares in size.", "3 hiking trails, 10 km total.", "2,000 visitors annually.", "Free entry.", "Part of the Natura 2000 network."],
     },
+    image: "/poi-images/sanmarino-oasi-faunistica-life-v2.webp",
   },
   {
     id: "sanmarino-giardino-biodiversita-life-v2",
@@ -96,6 +98,7 @@ export const sanmarinoLifeV2: POI[] = [
       ro: ["Deschis în 2015.", "Suprafață: 1,5 hectare.", "150 de specii de plante native.", "Biotop de iaz.", "2.000 de vizitatori pe an.", "Întreținut de voluntari."],
       en: ["Opened in 2015.", "Area: 1.5 hectares.", "150 native plant species.", "Pond biotope included.", "2,000 visitors annually.", "Maintained by volunteers."],
     },
+    image: "/poi-images/sanmarino-giardino-biodiversita-life-v2.webp",
   },
   {
     id: "sanmarino-zona-umida-torrente-life-v2",
@@ -128,6 +131,7 @@ export const sanmarinoLifeV2: POI[] = [
       ro: ["Desemnată în 2008.", "30 de hectare.", "Traseu didactic de 2 km.", "1.500 de vizitatori pe an.", "Loc de popas pentru păsări migratoare.", "Funcție de control al inundațiilor."],
       en: ["Designated in 2008.", "30 hectares in size.", "2 km educational trail.", "1,500 visitors annually.", "Stopover for migratory birds.", "Flood control function."],
     },
+    image: "/poi-images/sanmarino-zona-umida-torrente-life-v2.webp",
   },
   {
     id: "sanmarino-parco-forestale-faetano-life-v2",
@@ -160,6 +164,7 @@ export const sanmarinoLifeV2: POI[] = [
       ro: ["Parcul are o suprafață de 150 de hectare.", "Altitudinea variază între 250 și 480 de metri.", "A fost înființat în anul 1998.", "Adăpostește peste 50 de specii de arbori.", "Numărul anual de vizitatori este de aproximativ 5.000.", "Specia dominantă este stejarul pedunculat (Quercus petraea)."],
       en: ["The park features 12 km of marked hiking trails.", "It is home to 80 bird species.", "The oldest tree is estimated to be 200 years old.", "Average annual precipitation is 800 mm.", "The LIFE+ project was active from 2010 to 2015.", "Three ponds were restored as part of the project."],
     },
+    image: "/poi-images/sanmarino-parco-forestale-faetano-life-v2.webp",
   },
   {
     id: "sanmarino-riserva-naturale-cerbaiola-life-v2",
@@ -192,6 +197,7 @@ export const sanmarinoLifeV2: POI[] = [
       ro: ["Rezervația are 80 de hectare.", "A fost înființată în anul 2000.", "Altitudinea variază între 300 și 500 m.", "Adăpostește 60 de specii de păsări.", "Aproximativ 3.000 de vizitatori anual.", "Traseele de drumeție măsoară 8 km."],
       en: ["Area: 80 hectares.", "Established in 2000.", "Elevation range: 300-500 m.", "Home to 60 bird species.", "Annual visitors: 3,000.", "Trail length: 8 km."],
     },
+    image: "/poi-images/sanmarino-riserva-naturale-cerbaiola-life-v2.webp",
   },
   {
     id: "sanmarino-arboreto-nazionale-life-v2",
@@ -224,5 +230,6 @@ export const sanmarinoLifeV2: POI[] = [
       ro: ["Arboretul are 20 de hectare.", "A fost înființat în 1995.", "Altitudinea este de 400 m.", "Adăpostește peste 100 de specii de arbori.", "Număr anual de vizitatori: 10.000.", "Traseele educaționale au 3 km."],
       en: ["Area: 20 hectares.", "Established in 1995.", "Elevation: 400 m.", "Over 100 tree species.", "Annual visitors: 10,000.", "Trail length: 3 km."],
     },
+    image: "/poi-images/sanmarino-arboreto-nazionale-life-v2.webp",
   }
 ];

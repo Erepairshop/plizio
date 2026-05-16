@@ -32,6 +32,7 @@ export const northmacedoniaCitiesV2: POI[] = [
       ro: ["Altitudine: 1.350 m", "Populație: 5.500", "Fondat în secolul al XIV-lea", "Makedonium construit în 1974", "Turiști anual: 30.000", "Case tradiționale: 200"],
       en: ["Elevation: 1,350 m", "Population: 5,500", "Founded in the 14th century", "Makedonium built in 1974", "Annual tourists: 30,000", "Traditional houses: 200"],
     },
+    image: "/poi-images/northmacedonia-krusevo-cities-v2.webp",
   },
   {
     id: "northmacedonia-radovis-cities-v2",
@@ -64,6 +65,7 @@ export const northmacedoniaCitiesV2: POI[] = [
       ro: ["Populație: 16.000", "Altitudine: 350 m", "Producția de orez: 10.000 t anual", "Izvoare termale: 3", "Așezare romană: secolul al II-lea d.Hr.", "Târg de toamnă: din 1970"],
       en: ["Population: 16,000", "Elevation: 350 m", "Rice production: 10,000 t annually", "Thermal springs: 3", "Roman settlement: 2nd century AD", "Autumn fair: since 1970"],
     },
+    image: "/poi-images/northmacedonia-radovis-cities-v2.webp",
   },
   {
     id: "northmacedonia-kriva-palanka-cities-v2",
@@ -96,6 +98,7 @@ export const northmacedoniaCitiesV2: POI[] = [
       ro: ["Prima mențiune: 1633.", "Populație: 20.000 (2021).", "Altitudine: 700 m deasupra nivelului mării.", "Suprafața orașului: 480 km².", "Număr de școli primare: 4.", "Distanța față de Skopje: 90 km."],
       en: ["First mentioned in 1633.", "Population: 20,000 (2021).", "Elevation: 700 m (2,297 ft) above sea level.", "Town area: 480 km².", "Number of primary schools: 4.", "Distance from capital Skopje: 90 km (56 mi)."],
     },
+    image: "/poi-images/northmacedonia-kriva-palanka-cities-v2.webp",
   },
   {
     id: "northmacedonia-valandovo-cities-v2",
@@ -128,6 +131,7 @@ export const northmacedoniaCitiesV2: POI[] = [
       ro: ["Populație: 4.000", "Altitudine: 150 m", "Izvoare termale: 5", "Producția de fructe: 8.000 t anual", "Așezare iliră: secolul al IV-lea î.Hr.", "Festivalul Valandovo din 1960"],
       en: ["Population: 4,000", "Elevation: 150 m", "Thermal springs: 5", "Fruit production: 8,000 t annually", "Illyrian settlement: 4th century BC", "Valandovo Festival since 1960"],
     },
+    image: "/poi-images/northmacedonia-valandovo-cities-v2.webp",
   },
   {
     id: "northmacedonia-pehcovo-cities-v2",
@@ -160,6 +164,7 @@ export const northmacedoniaCitiesV2: POI[] = [
       ro: ["Populație: 3.000", "Altitudine: 1.000 m", "Producția de tutun: 500 t anual", "Suprafață împădurită: 70%", "Biserică construită în 1850", "Sărbătoarea orașului din 1950"],
       en: ["Population: 3,000", "Elevation: 1,000 m", "Tobacco production: 500 t annually", "Forest area: 70%", "Church built in 1850", "Town festival since 1950"],
     },
+    image: "/poi-images/northmacedonia-pehcovo-cities-v2.webp",
   },
   {
     id: "northmacedonia-berovo-cities-v2",
@@ -192,6 +197,7 @@ export const northmacedoniaCitiesV2: POI[] = [
       ro: ["Populația orașului Berovo este de aproximativ 7.000 de locuitori.", "Altitudinea medie este de 850 m.", "Lacul Berovo are o suprafață de 0,5 km² și o adâncime maximă de 15 m.", "Biserica Sfântul Arhanghel Mihail a fost construită în 1860.", "Berovo se află la 150 km de Skopje.", "Precipitațiile anuale sunt de aproximativ 700 mm."],
       en: ["Berovo's population is about 7,000 as of 2021.", "It lies at an elevation of 850 m in the Maleševo Mountains.", "Berovo Lake was created in 1965 and spans 0.5 km².", "The Church of St. Michael the Archangel dates from 1860.", "Annual precipitation is around 700 mm.", "Distance to Skopje is 150 km."],
     },
+    image: "/poi-images/northmacedonia-berovo-cities-v2.webp",
   },
   {
     id: "northmacedonia-sveti-nikole-cities-v2",
@@ -224,6 +230,7 @@ export const northmacedoniaCitiesV2: POI[] = [
       ro: ["Populația orașului Sveti Nikole este de aproximativ 13.000 de locuitori.", "Altitudinea este de 290 m.", "Prima mențiune documentară datează din 1313.", "Situl arheologic Bargala datează din secolul al IV-lea.", "Temperatura medie anuală este de 13°C.", "Suprafața municipiului este de 483 km²."],
       en: ["Population is about 13,000 (2021 census).", "Sveti Nikole lies at 290 m elevation.", "First mentioned in written records in 1313.", "Bargala archaeological site dates from the 4th century.", "Average annual temperature is 13°C.", "Municipality area is 483 km²."],
     },
+    image: "/poi-images/northmacedonia-sveti-nikole-cities-v2.webp",
   },
   {
     id: "northmacedonia-vinica-cities-v2",
@@ -256,6 +263,7 @@ export const northmacedoniaCitiesV2: POI[] = [
       ro: ["Populația orașului Vinica este de aproximativ 10.000 de locuitori.", "Altitudinea este de 400 m.", "Cetatea Vinica datează din secolul al IV-lea d.Hr.", "Producția anuală de țigle ceramice este de 2 milioane de unități.", "Suprafața municipiului este de 435 km².", "Distanța până la Kočani este de 15 km."],
       en: ["Population is about 10,000.", "Elevation is 400 m.", "Vinica Fortress dates from the 4th century AD.", "Annual ceramic tile production reaches 2 million units.", "Municipality area is 435 km².", "Distance to Kočani is 15 km."],
     },
+    image: "/poi-images/northmacedonia-vinica-cities-v2.webp",
   },
   {
     id: "northmacedonia-demirkapija-cities-v2",
@@ -288,6 +296,7 @@ export const northmacedoniaCitiesV2: POI[] = [
       ro: ["Populația orașului Demir Kapija este de aproximativ 3.000 de locuitori.", "Defileul are 6 km lungime și pereți de până la 100 m.", "Cetatea Prosek datează din secolul al XII-lea.", "Altitudinea este de 115 m.", "Autostrada A1 traversează orașul.", "Temperatura medie anuală este de 14°C."],
       en: ["Population is approximately 3,000.", "The gorge is 6 km long with cliffs up to 100 m.", "Prosek Fortress dates from the 12th century.", "Elevation is 115 m.", "Highway A1 passes through the town.", "Average annual temperature is 14°C."],
     },
+    image: "/poi-images/northmacedonia-demirkapija-cities-v2.webp",
   },
   {
     id: "northmacedonia-kratovo-cities-v2",
@@ -320,5 +329,6 @@ export const northmacedoniaCitiesV2: POI[] = [
       ro: ["Populația orașului Kratovo este de aproximativ 7.000 de locuitori.", "Altitudinea este de 600 m.", "Șase turnuri medievale sunt păstrate.", "Cel mai vechi pod datează din secolul al XIII-lea.", "Exploatarea argintului a început în secolul al XIII-lea.", "Suprafața municipiului este de 375 km²."],
       en: ["Population is around 7,000.", "Elevation is 600 m.", "Six medieval towers survive.", "The oldest bridge dates from the 13th century.", "Silver mining started in the 13th century.", "Municipality area is 375 km²."],
     },
+    image: "/poi-images/northmacedonia-kratovo-cities-v2.webp",
   }
 ];

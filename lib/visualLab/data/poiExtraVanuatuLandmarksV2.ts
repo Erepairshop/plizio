@@ -31,6 +31,7 @@ export const vanuatuLandmarksV2: POI[] = [
       ro: ["Parlamentul are 52 de locuri, ocupate prin vot universal.", "Republica Vanuatu a devenit independentă la 30 iulie 1980.", "Clădirea prezintă elemente de acoperiș care imită casele tradiționale 'Nakamal'.", "Mandatul parlamentarilor este de patru ani, conform Constituției.", "Complexul parlamentar găzduiește și birourile Secretariatului Parlamentului.", "Sistemul politic este o democrație parlamentară reprezentativă."],
       en: ["The legislature consists of 52 members elected by popular vote.", "Vanuatu celebrated its independence from colonial rule on July 30, 1980.", "The building features a distinctive roofline inspired by traditional meeting houses.", "Members of Parliament serve a standard term of four years.", "A monument to Father Walter Lini, the 'Father of Independence,' is located nearby.", "Official proceedings are conducted in Bislama, English, and French."],
     },
+    image: "/poi-images/vanuatu-parliament-house-landmarks-v2.webp",
   },
   {
     id: "vanuatu-national-museum-landmarks-v2",
@@ -62,6 +63,7 @@ export const vanuatuLandmarksV2: POI[] = [
       ro: ["Instituția a fost înființată în 1959, înainte de independență.", "Ceramica Lapita descoperită aici datează din jurul anului 1100 î.Hr.", "Desenul în nisip este o formă unică de scriere și povestire simbolică.", "Muzeul găzduiește celebrele tobe sculptate 'Atingting' din insula Ambrym.", "Există o bibliotecă vastă de înregistrări audio ale tradițiilor orale.", "Arhitectura muzeului este inspirată de stilul tradițional din nordul țării."],
       en: ["The museum was officially established in 1959.", "Lapita archaeological finds at the museum date back to 1100 BC.", "Sand drawing was proclaimed a UNESCO Intangible Heritage Masterpiece in 2003.", "The collection features massive carved slit-drums known as 'Atingting.'", "Vanuatu has the highest linguistic density per capita in the world.", "The building's roof structure reflects traditional architectural techniques."],
     },
+    image: "/poi-images/vanuatu-national-museum-landmarks-v2.webp",
   },
   {
     id: "vanuatu-port-vila-market-landmarks-v2",
@@ -93,6 +95,7 @@ export const vanuatuLandmarksV2: POI[] = [
       ro: ["Piața este deschisă non-stop de luni dimineața până sâmbătă la prânz.", "Majoritatea comercianților sunt femei din comunitățile rurale de pe Efate.", "Produsele sunt cultivate organic, fără utilizarea pesticidelor chimice.", "După uraganul Pam din 2015, piața a beneficiat de ajutor internațional pentru reconstrucție.", "Frunzele de banan sunt folosite tradițional pentru ambalarea produselor.", "Piața este locul principal pentru achiziționarea de 'laplap', felul național de mâncare."],
       en: ["The market operates 24 hours a day from Monday morning until Saturday noon.", "It is estimated that over 90% of the vendors at the market are women.", "Root vegetables like cassava and sweet potato are sold by the 'bundle.'", "The market infrastructure was upgraded with assistance from New Zealand and Australia.", "Vanuatu implemented a strict ban on single-use plastics at the market in 2018.", "Cooked meals often include fresh seafood and traditional 'simboro' rolls."],
     },
+    image: "/poi-images/vanuatu-port-vila-market-landmarks-v2.webp",
   },
   {
     id: "vanuatu-french-war-memorial-landmarks-v2",
@@ -124,6 +127,7 @@ export const vanuatuLandmarksV2: POI[] = [
       ro: ["Monumentul este dedicat voluntarilor din Noile Hebride înrolați în armata franceză.", "Noile Hebride au fost primele teritorii care au raliat Franța Liberă în 1940.", "Ceremoniile oficiale includ participarea forțelor de poliție din Vanuatu.", "Stela centrală poartă deviza Republicii Franceze: Liberté, Égalité, Fraternité.", "Multe nume inscripționate aparțin unor familii franco-melaneziene vechi.", "Situl este un punct important în tururile istorice ale orașului Port Vila."],
       en: ["The memorial honors the Ni-Vanuatu and French members of the 'Pacific Battalion.'", "The New Hebrides was the first territory to rally to Free France in 1940.", "Official wreaths are laid here annually on November 11th.", "The site is located prominently along the Lini Highway in Port Vila.", "It commemorates service members from both the 1914-1918 and 1939-1945 conflicts.", "Vanuatu's bilingual identity is rooted in this shared military history."],
     },
+    image: "/poi-images/vanuatu-french-war-memorial-landmarks-v2.webp",
   },
   {
     id: "vanuatu-chiefs-nakamal-landmarks-v2",
@@ -155,6 +159,7 @@ export const vanuatuLandmarksV2: POI[] = [
       ro: ["Consiliul Malvatumauri a fost înființat în anul 1977.", "Construcția este realizată fără cuie metalice, folosind tehnici de legare tradiționale.", "Accesul în Nakamal este reglementat de protocoale stricte de respect cultural.", "Situl găzduiește festivaluri culturale naționale și expoziții de artă indigenă.", "Acoperișul imens asigură o ventilație naturală optimă în climatul tropical.", "Rolul șefilor este garantat de Capitolul 5 din Constituția Vanuatu."],
       en: ["The Malvatumauri National Council of Chiefs was established in 1977.", "The current structure was rebuilt using traditional methods after Cyclone Pam in 2015.", "Specific areas of the Nakamal are traditionally restricted to men for ritual purposes.", "Kava is consumed here as a formal gesture of peace and consensus.", "The architectural style is specifically modeled after the Nakamals of Pentecost Island.", "Chiefs provide counsel to the government on all matters of customary law."],
     },
+    image: "/poi-images/vanuatu-chiefs-nakamal-landmarks-v2.webp",
   },
   {
     id: "vanuatu-usp-emalus-campus-landmarks-v2",
@@ -186,6 +191,7 @@ export const vanuatuLandmarksV2: POI[] = [
       ro: ["USP este o universitate regională unică, administrată de 12 țări.", "Campusul Emalus a devenit sediul central al Facultății de Drept în 1996.", "Biblioteca campusului deține resurse rare despre legile coloniale și post-coloniale.", "Programele de studiu includ dreptul pământului și dreptul mării.", "Campusul oferă și cursuri de distanță pentru insulele îndepărtate.", "Mulți dintre judecătorii de la Curtea Supremă din Vanuatu sunt absolvenți USP."],
       en: ["The University of the South Pacific was established in 1968.", "Emalus Campus became the official headquarters of the USP School of Law in 1996.", "The student body represents a diverse range of 12 Pacific Island nations.", "The campus library is the official depository for regional legal documents.", "It is situated on 15 hectares of land in the capital city, Port Vila.", "Academic programs emphasize legal issues unique to small island developing states."],
     },
+    image: "/poi-images/vanuatu-usp-emalus-campus-landmarks-v2.webp",
   },
   {
     id: "vanuatu-paton-memorial-church-landmarks-v2",
@@ -217,6 +223,7 @@ export const vanuatuLandmarksV2: POI[] = [
       ro: ["John G. Paton a sosit în Noile Hebride în 1858, stabilindu-se pe insula Tanna.", "Biserica actuală a fost sfințită în 1904 în memoria misionarului.", "Prezbiterianismul a influențat puternic mișcarea de independență a țării.", "Arhitectura bisericii include vitralii simple și bănci de lemn masiv.", "Este una dintre cele mai vechi structuri religioase continue din Port Vila.", "Biserica joacă un rol activ în programele de asistență socială comunitare."],
       en: ["John G. Paton arrived in the New Hebrides in 1858 and worked primarily on Tanna.", "The current church site was once home to the first mission hospital in the city.", "The Presbyterian Church remains the largest Christian denomination in Vanuatu.", "Services are often conducted in Bislama with vibrant choral singing.", "The structure's resilience has been tested by numerous category 5 cyclones.", "A memorial plaque inside details the missionary's extensive biblical translations."],
     },
+    image: "/poi-images/vanuatu-paton-memorial-church-landmarks-v2.webp",
   },
   {
     id: "vanuatu-luganville-municipal-market-landmarks-v2",
@@ -248,6 +255,7 @@ export const vanuatuLandmarksV2: POI[] = [
       ro: ["Luganville a fost o bază majoră pentru trupele americane (Base Button).", "Piața este renumită pentru ignamele gigantice cultivate pe insula Santo.", "Comerțul se desfășoară în principal în moneda națională, Vatu.", "Există o secțiune dedicată mâncării calde unde se servește pește prăjit.", "Infrastructura pieței a fost modernizată recent pentru a rezista la cicloane.", "Piața este cel mai aglomerată în zilele de vineri și sâmbătă dimineața."],
       en: ["Luganville served as a massive US military base known as 'Base Button' during WWII.", "Santo beef is famous internationally for being entirely grass-fed.", "The market acts as a central distribution point for copra and cocoa producers.", "Many vendors travel from remote villages in South and West Santo.", "The market is open throughout the week with a peak during the 'market days.'", "Ni-Vanuatu handicrafts, including baskets made from pandanus leaves, are widely sold."],
     },
+    image: "/poi-images/vanuatu-luganville-municipal-market-landmarks-v2.webp",
   },
   {
     id: "vanuatu-unity-park-luganville-landmarks-v2",
@@ -279,6 +287,7 @@ export const vanuatuLandmarksV2: POI[] = [
       ro: ["Parcul găzduiește anual festivitățile de Ziua Independenței pe 30 iulie.", "Este situat în inima istorică a orașului Luganville, pe insula Santo.", "De aici se pot observa navele care tranzitează Canalul Segond.", "Monumentele din parc sunt dedicate unității naționale și liderilor locali.", "Parcul a fost modernizat recent pentru a include facilități pentru copii.", "Luganville a fost fondat ca oraș permanent abia după al Doilea Război Mondial."],
       en: ["The park is the central venue for Independence Day celebrations every July 30th.", "It sits on land that was part of the US Army's massive Base Button infrastructure.", "The park offers panoramic views across the Segond Channel toward Aore Island.", "Commemorative plaques in the park honor Ni-Vanuatu leaders and war veterans.", "Public rallies and political gatherings frequently take place within its grounds.", "Luganville is unique in Vanuatu for its wide, US military-style main street."],
     },
+    image: "/poi-images/vanuatu-unity-park-luganville-landmarks-v2.webp",
   },
   {
     id: "vanuatu-ss-president-coolidge-landmarks-v2",
@@ -310,6 +319,7 @@ export const vanuatuLandmarksV2: POI[] = [
       ro: ["SS President Coolidge a fost lansată la apă în 1931 ca navă civilă.", "La momentul scufundării, avea la bord peste 5.300 de militari americani.", "Cea mai adâncă parte a epavei (elicea) se află la peste 70 de metri.", "Epava este protejată prin lege împotriva jefuirii și distrugerii.", "Statuia 'The Lady' este un simbol al protecției și norocului pentru scafandri.", "Nava s-a scufundat în Canalul Segond, aproape de intrarea estică."],
       en: ["The vessel is approximately 198 meters long and sank in under 90 minutes.", "Remarkably, only two casualties occurred out of over 5,000 personnel on board.", "The 'Lady and the Unicorn' ceramic relief is the most famous artifact on board.", "The wreck is a shore dive, located just meters away from the beach at Santo.", "It struck two US mines on October 26, 1942, due to a communication error.", "Divers can explore intact medicine bottles and rifles in the lower cargo holds."],
     },
+    image: "/poi-images/vanuatu-ss-president-coolidge-landmarks-v2.webp",
   },
   {
     id: "vanuatu-santo-war-memorial-landmarks-v2",
@@ -341,6 +351,7 @@ export const vanuatuLandmarksV2: POI[] = [
       ro: ["Base Button a fost a doua cea mai mare bază americană din Pacific.", "Memorialul include referințe la Corpul de Marină al SUA.", "Insula Santo a servit drept spital principal pentru răniții din Guadalcanal.", "Pistele de aterizare de la Palekula și Bomber2 sunt încă vizibile.", "Ceremoniile includ adesea reprezentanți ai armatei franceze și australiene.", "Prezența militară a accelerat procesul de modernizare a insulei."],
       en: ["Espiritu Santo was designated as US 'Base Button' during the conflict.", "At its peak, the island featured five active airfields and a deep-water harbor.", "The memorial is a key stop for WWII history enthusiasts visiting Santo.", "James Michener's experiences on the island led to the musical 'South Pacific.'", "The US military infrastructure transformed Luganville into a regional hub.", "Indigenous Ni-Vanuatu formed the 'New Hebrides Defense Force' to assist Allies."],
     },
+    image: "/poi-images/vanuatu-santo-war-memorial-landmarks-v2.webp",
   },
   {
     id: "vanuatu-port-orly-catholic-church-landmarks-v2",
@@ -372,6 +383,7 @@ export const vanuatuLandmarksV2: POI[] = [
       ro: ["Port Orly este o comunitate majoritar catolică într-o țară preponderent protestantă.", "Limba franceză este încă utilizată pe scară largă în viața cotidiană a satului.", "Biserica găzduiește coruri de tineri renumite pentru armoniile lor.", "Interiorul bisericii este decorat cu elemente de artă melaneziană.", "Port Orly a fost un centru important pentru mișcarea Nagriamel.", "Satul este poarta de acces către insula protejată Lonnoc."],
       en: ["Port Orly is one of the largest Francophone villages in the entire archipelago.", "The mission was established to counter British Presbyterian influence in the north.", "French remains the primary medium of instruction in the local school.", "The church building serves as a community shelter during severe weather.", "Traditional French Catholic hymns are often sung during Sunday mass.", "The village is a primary producer of organic cattle and copra."],
     },
+    image: "/poi-images/vanuatu-port-orly-catholic-church-landmarks-v2.webp",
   },
   {
     id: "vanuatu-lolowai-cathedral-landmarks-v2",
@@ -403,6 +415,7 @@ export const vanuatuLandmarksV2: POI[] = [
       ro: ["Catedrala este dedicată Sfântului Barnaba (Saint Barnabas).", "Golful Lolowai oferă unul dintre cele mai sigure porturi naturale din Vanuatu.", "Situl include 'St. Patrick's College', o instituție de învățământ de prestigiu.", "Tradiția anglicană în Vanuatu este strâns legată de influența din Noua Zeelandă.", "Clădirea a fost renovată după cutremurele majore din regiune.", "Ambae este insula care a inspirat legenda insulei 'Bali Ha'i'."],
       en: ["Lolowai Bay was formed by the sea breaching a volcanic vent.", "The Diocese of Vanuatu was formally separated from Melanesia in 1975.", "St. Barnabas is the patron saint of the Anglican mission in the region.", "The site hosts a significant regional nursing school and hospital.", "Ambae island is famous for the 'red mat' traditional currency and weaving.", "The cathedral is a focal point for disaster relief coordination on the island."],
     },
+    image: "/poi-images/vanuatu-lolowai-cathedral-landmarks-v2.webp",
   },
   {
     id: "vanuatu-lamap-catholic-mission-landmarks-v2",
@@ -434,6 +447,7 @@ export const vanuatuLandmarksV2: POI[] = [
       ro: ["Misiunea a fost fondată în anul 1898 de către preoții mariști francezi.", "Biserica principală a fost ridicată folosind blocuri de corali tăiate manual.", "Lamap a servit drept centru administrativ francez principal în perioada colonială.", "Festivalul de Artă și Cultură din Lamap are loc anual în luna august.", "Complexul găzduiește una dintre cele mai vechi instituții de învățământ din Malekula.", "Locația este situată în apropierea golfului strategic Point Sandwich."],
       en: ["The mission was established in 1898 by French Marist missionary priests.", "The landmark church was constructed using locally sourced coral limestone.", "Lamap served as a primary French administrative center during the colonial era.", "The annual Lamap Art and Cultural Festival is typically held every August.", "The mission grounds house one of the oldest schools in Malampa Province.", "It is situated near Point Sandwich, a historically significant anchorage point."],
     },
+    image: "/poi-images/vanuatu-lamap-catholic-mission-landmarks-v2.webp",
   },
   {
     id: "vanuatu-vao-stone-monuments-landmarks-v2",
@@ -465,6 +479,7 @@ export const vanuatuLandmarksV2: POI[] = [
       ro: ["Monumentele sunt construite preponderent din blocuri masive de bazalt și corali.", "Aceste spații sunt numite local 'Nasara' și funcționează ca terenuri de dans ritualic.", "Pietrele prezintă adesea gravuri care înfățișează simboluri ale clanurilor locale.", "Cei mai mari monoliți pot atinge o înălțime de peste doi metri.", "Vao este una dintre puținele insule unde tradiția megalitică este încă activă.", "Configurația pietrelor reflectă structura cosmosului conform credințelor ancestrale."],
       en: ["The monuments are primarily constructed from massive basalt and coral stones.", "Locally known as 'Nasara', these areas function as ritual dance grounds.", "The stones are frequently adorned with engravings representing clan symbols.", "The largest monoliths can reach a height of over two meters.", "Vao is one of the few islands where this megalithic tradition is still practiced.", "The spatial arrangement of the stones often mirrors the local cosmological beliefs."],
     },
+    image: "/poi-images/vanuatu-vao-stone-monuments-landmarks-v2.webp",
   },
   {
     id: "vanuatu-isangel-courthouse-landmarks-v2",
@@ -496,6 +511,7 @@ export const vanuatuLandmarksV2: POI[] = [
       ro: ["Isangel a fost stabilit ca centru administrativ în timpul condominiului anglo-francez.", "Clădirea tribunalului găzduiește Curtea de Magistrați pentru provincia Tafea.", "Este situat pe un platou care oferă o vedere panoramică asupra coastei de vest a Tanna.", "În proximitatea tribunalului se află monumentul dedicat independenței statului Vanuatu.", "Instanța soluționează atât cauze civile, cât și penale din întreaga regiune sudică.", "Isangel este conectat la restul țării prin aeroportul Whitegrass situat în apropiere."],
       en: ["Isangel was established as an administrative center during the Condominium period.", "The courthouse building serves as the Magistrate's Court for Tafea Province.", "It is positioned on a plateau overlooking the western coast of Tanna Island.", "The Vanuatu Independence Monument is located in the vicinity of the courthouse.", "The court adjudicates both civil and criminal cases for the southern region.", "Isangel is accessible via the nearby Whitegrass Airport, connecting it to the capital."],
     },
+    image: "/poi-images/vanuatu-isangel-courthouse-landmarks-v2.webp",
   },
   {
     id: "vanuatu-bauerfield-terminal-landmarks-v2",
@@ -527,6 +543,7 @@ export const vanuatuLandmarksV2: POI[] = [
       ro: ["Aeroportul a fost construit inițial de forțele americane în timpul celui de-al Doilea Război Mondial.", "Harold W. Bauer, cel care dă numele aeroportului, a fost decorat post-mortem cu Medalia de Onoare.", "Terminalul este situat la o distanță de aproximativ 10 minute de centrul orașului Port Vila.", "Pista de decolare-aterizare are o lungime totală de 2.600 de metri.", "În anul 2019, terminalul a beneficiat de lucrări ample de renovare și extindere.", "Codul IATA al aeroportului este VLI, iar codul ICAO este NVVV."],
       en: ["The airport was originally constructed by U.S. forces during World War II.", "Harold W. Bauer, its namesake, was a posthumous recipient of the Medal of Honor.", "The terminal is located approximately a 10-minute drive from Port Vila city center.", "The main runway spans a total length of 2,600 meters (8,530 feet).", "The terminal underwent major renovations and expansion work completed in 2019.", "The airport's official IATA code is VLI and its ICAO code is NVVV."],
     },
+    image: "/poi-images/vanuatu-bauerfield-terminal-landmarks-v2.webp",
   },
   {
     id: "vanuatu-pekoa-terminal-landmarks-v2",
@@ -558,6 +575,7 @@ export const vanuatuLandmarksV2: POI[] = [
       ro: ["Aeroportul Pekoa a fost utilizat inițial ca bază militară americană în timpul războiului din Pacific.", "Acesta dispune de o pistă asfaltată cu o lungime de 1.988 de metri.", "Aeroportul este situat la doar 6 kilometri est de centrul orașului Luganville.", "Air Vanuatu operează zboruri regulate de aici către Port Vila și Brisbane.", "Terminalul este un punct logistic cheie pentru exportul de 'Santo Beef' de înaltă calitate.", "Codul IATA oficial pentru Aeroportul Pekoa este SON."],
       en: ["Pekoa Airport was originally established as a major U.S. military base during World War II.", "The airport features a single paved runway measuring 1,988 meters (6,522 feet).", "It is located approximately 6 kilometers (3.7 miles) east of Luganville city center.", "Air Vanuatu operates scheduled services from here to Port Vila and Brisbane.", "The terminal is a crucial transit point for the island's famous 'Santo Beef' exports.", "The official IATA airport code for Pekoa is SON."],
     },
+    image: "/poi-images/vanuatu-pekoa-terminal-landmarks-v2.webp",
   },
   {
     id: "vanuatu-whitegrass-terminal-landmarks-v2",
@@ -589,6 +607,7 @@ export const vanuatuLandmarksV2: POI[] = [
       ro: ["Pista aeroportului Whitegrass are o lungime de aproximativ 1.230 de metri.", "Aeroportul este situat pe coasta de vest a insulei Tanna, la nord de Isangel.", "A fost planificat inițial ca un loc de aterizare alternativ în timpul celui de-al Doilea Război Mondial.", "Zborurile regulate sunt operate în principal de compania națională Air Vanuatu.", "Terminalul servește drept punct principal de plecare pentru excursiile la vulcanul Mount Yasur.", "Codul IATA al aeroportului este TAH."],
       en: ["The Whitegrass runway measures approximately 1,230 meters (4,035 feet) in length.", "The airport is situated on the western coast of Tanna, north of the capital Isangel.", "It was originally conceived as an emergency landing strip during World War II.", "Scheduled flight services are predominantly provided by Air Vanuatu.", "The terminal acts as the primary hub for organizing tours to the Mount Yasur volcano.", "The airport's official IATA code is TAH."],
     },
+    image: "/poi-images/vanuatu-whitegrass-terminal-landmarks-v2.webp",
   },
   {
     id: "vanuatu-iririki-island-landmarks-v2",
@@ -620,6 +639,7 @@ export const vanuatuLandmarksV2: POI[] = [
       ro: ["Insula se întinde pe o suprafață de aproximativ 69 de hectare.", "Clădirea istorică a Reședinței Britanice a fost construită în anul 1910.", "Iririki este conectată de Port Vila printr-un serviciu de feribot gratuit disponibil 24/7.", "În timpul celui de-al Doilea Război Mondial, insula a fost utilizată ca punct de observație.", "Complexul turistic a fost renovat complet după distrugerile cauzate de ciclonul Pam în 2015.", "Zona costieră a insulei este un sanctuar marin protejat, ideal pentru snorkeling."],
       en: ["The island covers an area of approximately 69 hectares (170 acres).", "The historic British Residency building was completed in 1910.", "Iririki is connected to Port Vila by a free, 24-hour ferry service.", "During World War II, the island was utilized as a strategic lookout post.", "The island's resort underwent major redevelopment following Cyclone Pam in 2015.", "The surrounding waters are a designated marine sanctuary with diverse coral life."],
     },
+    image: "/poi-images/vanuatu-iririki-island-landmarks-v2.webp",
   },
   {
     id: "vanuatu-erakor-church-landmarks-v2",
@@ -651,6 +671,7 @@ export const vanuatuLandmarksV2: POI[] = [
       ro: ["Misiunea Erakor a fost înființată încă din anul 1845.", "Biserica actuală a fost construită pe fundațiile unei structuri mai vechi.", "Insula Erakor găzduiește în prezent și un complex turistic renumit.", "Slujbele religioase se desfășoară regulat în limbile bislama și engleză.", "Biserica este faimoasă pentru cântările corale interpretate de localnici.", "În cimitirul istoric sunt înmormântați misionari precum George N. Gordon și soția sa."],
       en: ["The Erakor mission was established as early as 1845.", "The current church building was constructed over the foundations of an older structure.", "Erakor Island is now also the location of a popular island resort.", "Religious services are regularly conducted in both Bislama and English.", "The church is famous for its powerful choral music performed by the local congregation.", "The historic cemetery includes the graves of missionaries like George N. Gordon and his wife."],
     },
+    image: "/poi-images/vanuatu-erakor-church-landmarks-v2.webp",
   },
   {
     id: "vanuatu-hat-island-landmarks-v2",
@@ -682,6 +703,7 @@ export const vanuatuLandmarksV2: POI[] = [
       ro: ["Hat Island a fost inclusă în lista Patrimoniului Mondial UNESCO în anul 2008.", "Șeful Roi Mata a fost înmormântat acolo în jurul anului 1265 d.Hr.", "Săpăturile arheologice au fost conduse în 1967 de francezul José Garanger.", "Insula se află la aproximativ 4 kilometri de coasta comunității Mangaliliu.", "Accesul pe insulă este adesea evitat de localnici din cauza unor blesteme ancestrale.", "Eretoka este înconjurată de recife de corali spectaculoase, apreciate de scafandri."],
       en: ["Hat Island was inscribed as a UNESCO World Heritage site in 2008.", "Chief Roi Mata was buried there around the year 1265 AD.", "Archaeological excavations were led by Frenchman José Garanger in 1967.", "The island is situated about 4 kilometers (2.5 miles) off the coast of Mangaliliu.", "Landing on the island is traditionally prohibited for locals due to ancient taboos.", "Eretoka is surrounded by pristine coral reefs, making it a popular diving spot."],
     },
+    image: "/poi-images/vanuatu-hat-island-landmarks-v2.webp",
   },
   {
     id: "vanuatu-sola-hq-landmarks-v2",
@@ -713,6 +735,7 @@ export const vanuatuLandmarksV2: POI[] = [
       ro: ["Sola este cea mai mică capitală provincială din Vanuatu.", "Numele 'Torba' este un acronim format din grupurile de insule Torres și Banks.", "Așezarea dispune de o bancă, un oficiu poștal și o secție de poliție.", "Insula Vanua Lava este renumită pentru izvoarele sale de sulf galben de lângă Sola.", "Aeroportul intern Vanua Lava (SLH) este situat chiar lângă localitate.", "Sola este un port esențial pentru navele de aprovizionare ale insulelor nordice."],
       en: ["Sola is the smallest provincial capital in Vanuatu.", "The province name 'Torba' is derived from the Torres and Banks island groups.", "The settlement includes essential services like a bank, post office, and police station.", "Vanua Lava is known for its yellow sulfur springs located near Sola.", "The Vanua Lava domestic airport (SLH) is situated right next to Sola.", "Sola serves as a critical port for vessels supplying the northern islands."],
     },
+    image: "/poi-images/vanuatu-sola-hq-landmarks-v2.webp",
   },
   {
     id: "vanuatu-lakatoro-house-landmarks-v2",
@@ -744,6 +767,7 @@ export const vanuatuLandmarksV2: POI[] = [
       ro: ["Lakatoro a fost dezvoltat ca centru administrativ după obținerea independenței.", "Numele 'Malampa' provine de la insulele Malekula, Ambrym și Paama.", "Casa Consiliului găzduiește birouri pentru agricultură, educație și sănătate.", "Lakatoro deține cea mai importantă piață comercială de pe insula Malekula.", "Aeroportul Norsup (NUS) este situat la doar 5 kilometri nord de Lakatoro.", "În proximitate se află un monument dedicat mișcării locale de independență."],
       en: ["Lakatoro was developed as an administrative hub following national independence.", "The provincial name 'Malampa' is an acronym for Malekula, Ambrym, and Paama.", "The Council House contains departmental offices for agriculture, education, and health.", "Lakatoro features the largest and most active market on Malekula Island.", "Norsup Airport (NUS) is located approximately 5 kilometers (3 miles) north of town.", "A memorial stone dedicated to the local independence movement is located nearby."],
     },
+    image: "/poi-images/vanuatu-lakatoro-house-landmarks-v2.webp",
   },
   {
     id: "vanuatu-saratamata-station-landmarks-v2",
@@ -775,6 +799,7 @@ export const vanuatuLandmarksV2: POI[] = [
       ro: ["Saratamata este sediul principal al guvernului provincial Penama.", "Numele 'Penama' este format din inițialele insulelor Pentecost, Ambae și Maewo.", "Stația a fost evacuată de mai multe ori din cauza căderilor de cenușă vulcanică.", "În Saratamata funcționează o școală primară și un dispensar medical.", "Cel mai apropiat aeroport este aeroportul Longana (LNE).", "Saratamata este situată în apropierea golfului pitoresc Lolowai."],
       en: ["Saratamata serves as the provincial headquarters for the Penama government.", "The name 'Penama' is an acronym for Pentecost, Ambae, and Maewo islands.", "The station has been evacuated multiple times due to volcanic ash fall from Mt. Manaro.", "Facilities in Saratamata include a primary school and a medical clinic.", "The nearest air transport hub is Longana Airport (LNE).", "Saratamata is located near the scenic and protected Lolowai Bay."],
     },
+    image: "/poi-images/vanuatu-saratamata-station-landmarks-v2.webp",
   },
   {
     id: "vanuatu-lowanatom-mission-landmarks-v2",
@@ -806,6 +831,7 @@ export const vanuatuLandmarksV2: POI[] = [
       ro: ["Misiunea a fost fondată în anul 1887 de misionari francezi.", "Collège de Lowanatom este o renumită școală secundară francofonă.", "Biserica din Lowanatom a rezistat aproape intactă în fața mai multor cicloane severe.", "Locația se află la aproximativ 15 kilometri nord de capitala provincială Isangel.", "Liturghiile sunt celebrate regulat în limbile bislama și franceză.", "Lowanatom a fost unul dintre primele centre de educație franceză din sudul Vanuatu."],
       en: ["The mission was established in 1887 by French Catholic missionaries.", "The Collège de Lowanatom is a well-known francophone secondary school.", "Lowanatom's stone church has withstood several major cyclones with minimal damage.", "The site is located approximately 15 kilometers (9 miles) north of Isangel.", "Religious services are regularly conducted in Bislama and French.", "Lowanatom was one of the first centers for French-medium education in southern Vanuatu."],
     },
+    image: "/poi-images/vanuatu-lowanatom-mission-landmarks-v2.webp",
   },
   {
     id: "vanuatu-nagol-towers-pentecost-landmarks-v2",
@@ -837,6 +863,7 @@ export const vanuatuLandmarksV2: POI[] = [
       ro: ["Ritualul l-a inspirat pe A.J. Hackett să dezvolte bungee jumping-ul comercial.", "Doar bărbații au voie să sară de pe turnuri, în timp ce femeile cântă la sol.", "Săritorii urmăresc să atingă solul cu umerii pentru a fertiliza simbolic pământul.", "Construcția unui turn durează între două și trei săptămâni și implică circa 20 de bărbați.", "Lianele trebuie să aibă umiditatea corectă pentru a-și păstra elasticitatea necesară.", "Există mai multe locuri de sărituri pe Pentecost, majoritatea în sudul insulei."],
       en: ["The ritual directly inspired A.J. Hackett to develop commercial bungee jumping.", "Only males are permitted to dive, while women support them through traditional chanting.", "Divers aim to touch the soil with their shoulders to symbolically fertilize the earth.", "Tower construction takes about two to three weeks and requires up to 20 skilled men.", "The vines must be selected for their exact moisture content to ensure elasticity.", "Multiple jumping sites exist across Pentecost, primarily concentrated in the south."],
     },
+    image: "/poi-images/vanuatu-nagol-towers-pentecost-landmarks-v2.webp",
   },
   {
     id: "vanuatu-ambrym-gongs-landmarks-v2",
@@ -868,6 +895,7 @@ export const vanuatuLandmarksV2: POI[] = [
       ro: ["Gongurile din Ambrym pot atinge o înălțime de până la patru metri.", "Ochii caracteristici ai sculpturilor simbolizează omnisciența strămoșilor.", "Tamtam-urile sunt adesea plasate în perechi sau grupuri pe terenurile Nasara.", "Instrumentul este lovit cu un ciocan de lemn greu pe marginea fantei.", "Sunt un motiv popular pe timbrele poștale și în operele de artă din Vanuatu.", "Sunetul unui Tamtam poate transmite mesaje codificate pe distanțe lungi."],
       en: ["Ambrym slit gongs can reach heights of up to four meters (13 feet).", "The distinctive eyes on the carvings represent the omniscience of the ancestors.", "Tamtams are often positioned in pairs or groups within the village Nasara.", "The instrument is played by striking the side of the slit with a heavy wooden beater.", "They are a frequent motif in Vanuatu's national stamps and contemporary art.", "The sound produced by a Tamtam can convey coded messages across vast distances."],
     },
+    image: "/poi-images/vanuatu-ambrym-gongs-landmarks-v2.webp",
   },
   {
     id: "vanuatu-tanna-coffee-factory-landmarks-v2",
@@ -899,6 +927,7 @@ export const vanuatuLandmarksV2: POI[] = [
       ro: ["Fondată în 1991 pentru a sprijini fermierii locali", "Procesează boabe 100% Arabica de pe insula Tanna", "Susține o rețea de peste 500 de mici fermieri", "Prăjirea are loc în apropiere de Port Vila", "Reconstruită complet după ciclonul Pam din 2015", "Exportă în piețe precum Australia și Noua Zeelandă"],
       en: ["Founded in 1991 to promote local farmers", "Processes 100% Arabica beans from Tanna Island", "Supports a network of over 500 smallholder farmers", "Roasting takes place near Port Vila", "Fully rebuilt following Cyclone Pam in 2015", "Exports to markets including Australia and New Zealand"],
     },
+    image: "/poi-images/vanuatu-tanna-coffee-factory-landmarks-v2.webp",
   },
   {
     id: "vanuatu-national-library-landmarks-v2",
@@ -930,6 +959,7 @@ export const vanuatuLandmarksV2: POI[] = [
       ro: ["Parte a complexului Centrului Cultural Vanuatu", "Inaugurarea oficială a noii clădiri în 2004", "Deține statutul de bibliotecă de depozit legal", "Găzduiește peste 15.000 de volume tipărite", "Colecție extinsă despre istoria Condominiului", "Centru pentru conservarea celor peste 100 de limbi native"],
       en: ["Part of the Vanuatu Cultural Centre complex", "Official opening of the new building in 2004", "Holds legal deposit status for all national publications", "Houses over 15,000 printed volumes", "Extensive collection on the Condominium era history", "Center for preserving the over 100 indigenous languages"],
     },
+    image: "/poi-images/vanuatu-national-library-landmarks-v2.webp",
   },
   {
     id: "vanuatu-australian-high-commission-landmarks-v2",
@@ -961,6 +991,7 @@ export const vanuatuLandmarksV2: POI[] = [
       ro: ["Prima misiune diplomatică după independența din 1980", "Sediul pe Winston Churchill Avenue, Port Vila", "Australia este cel mai mare donator bilateral al Vanuatu", "Centru pentru coordonarea asistenței în caz de dezastru", "Gestionează programul de muncă sezonieră pentru cetățenii din Vanuatu", "Oferă servicii consulare complete pentru australieni"],
       en: ["First diplomatic mission established after independence in 1980", "Located on Winston Churchill Avenue in Port Vila", "Australia is Vanuatu's largest bilateral aid donor", "Hub for coordinating humanitarian disaster response", "Manages the seasonal worker program for Vanuatu citizens", "Provides comprehensive consular services for Australians"],
     },
+    image: "/poi-images/vanuatu-australian-high-commission-landmarks-v2.webp",
   },
   {
     id: "vanuatu-port-sandwich-wharf-landmarks-v2",
@@ -992,6 +1023,7 @@ export const vanuatuLandmarksV2: POI[] = [
       ro: ["Numit după Contele de Sandwich de către James Cook în 1774", "Cel mai adânc port natural de pe insula Malakula", "Fost centru administrativ al puterii coloniale franceze", "Punct principal de tranzit pentru exporturile de copra", "Oprire importantă pentru navele de pasageri și marfă", "Loc al întâlnirilor istorice între europeni și ni-vanuatu"],
       en: ["Named after the Earl of Sandwich by James Cook in 1774", "Deepest natural harbor on the island of Malakula", "Former administrative center for the French colonial power", "Main transit point for the region's copra exports", "Important stopover for passenger and cargo vessels", "Site of historical encounters between Europeans and Ni-Vanuatu"],
     },
+    image: "/poi-images/vanuatu-port-sandwich-wharf-landmarks-v2.webp",
   },
   {
     id: "vanuatu-loltong-church-landmarks-v2",
@@ -1023,6 +1055,7 @@ export const vanuatuLandmarksV2: POI[] = [
       ro: ["Centrul comunității catolice de pe insula Pentecost", "Situată în Golful Loltong, un punct strategic important", "Construită din beton pentru protecție împotriva ciclonilor", "Combină liturghia creștină cu cultura locală", "Loc important de întâlnire pentru deciziile satului", "Loltong este un port principal pentru nordul insulei Pentecost"],
       en: ["Center of the Catholic community on Pentecost Island", "Located on the strategically important Loltong Bay", "Built with concrete to ensure safety against cyclones", "Combines Christian liturgy with local Pacific culture", "Key gathering place for village decision-making", "Loltong serves as a main port for Northern Pentecost"],
     },
+    image: "/poi-images/vanuatu-loltong-church-landmarks-v2.webp",
   },
   {
     id: "vanuatu-mele-village-nakamal-landmarks-v2",
@@ -1054,6 +1087,7 @@ export const vanuatuLandmarksV2: POI[] = [
       ro: ["Cea mai mare casă tradițională de adunare din satul Mele", "Locul ceremoniilor rituale de kava și al consultărilor satului", "Construită cu materiale tradiționale melaneziene", "Centrul puterii politice a șefilor locali", "Mele este cel mai populat sat din întreg Vanuatu", "Reguli stricte de acces în timpul ceremoniilor sacre"],
       en: ["Largest traditional gathering house in Mele Village", "Site for ritual kava ceremonies and village deliberations", "Constructed using traditional Melanesian materials", "Center of political authority for local chiefs", "Mele is the most populous village in all of Vanuatu", "Strict protocols govern entry during sacred ceremonies"],
     },
+    image: "/poi-images/vanuatu-mele-village-nakamal-landmarks-v2.webp",
   },
   {
     id: "vanuatu-hideaway-island-landmarks-v2",
@@ -1085,6 +1119,7 @@ export const vanuatuLandmarksV2: POI[] = [
       ro: ["Inaugurare oficială în mai 2003", "Singurul oficiu poștal submarin din lume", "Situat la o adâncime de aproximativ 3 metri în Golful Mele", "Folosește cărți poștale speciale impermeabile", "Deservit de scafandri pe post de funcționari poștali", "Parte a unui ecosistem marin protejat"],
       en: ["Official opening in May 2003", "The world's only underwater post office", "Located at a depth of about 3 meters in Mele Bay", "Uses special waterproof postcards", "Staffed by divers acting as postal clerks", "Part of a protected marine ecosystem"],
     },
+    image: "/poi-images/vanuatu-hideaway-island-landmarks-v2.webp",
   },
   {
     id: "vanuatu-central-hospital-landmarks-v2",
@@ -1116,6 +1151,7 @@ export const vanuatuLandmarksV2: POI[] = [
       ro: ["Cel mai important spital de stat din Vanuatu", "Fondat în anii 1970, înainte de independență", "Capacitate de peste 100 de paturi pentru pacienți", "Centru pentru formarea personalului medical", "Renovare extinsă după ciclonul Pam din 2015", "Principala unitate de primiri urgențe pentru provincia Shefa"],
       en: ["Vanuatu's primary public referral hospital", "Founded in the 1970s prior to national independence", "Capacity of over 100 inpatient beds", "Center for the training of nursing and medical staff", "Extensive renovation following Cyclone Pam in 2015", "Main emergency department for Shefa Province"],
     },
+    image: "/poi-images/vanuatu-central-hospital-landmarks-v2.webp",
   },
   {
     id: "vanuatu-vila-city-hall-landmarks-v2",
@@ -1147,6 +1183,7 @@ export const vanuatuLandmarksV2: POI[] = [
       ro: ["Sediul administrației orașului Port Vila", "Găzduiește biroul primarului în exercițiu", "Responsabilă pentru planificarea capitalei de pe Efate", "Centru pentru servicii municipale și taxe locale", "Loc pentru festivități naționale și parade", "Situată în inima districtului comercial"],
       en: ["Seat of the Port Vila municipal government", "Houses the office of the acting Mayor", "Responsible for the planning and development of the capital", "Hub for municipal services and local taxation", "Venue for national celebrations and parades", "Located in the heart of the commercial district"],
     },
+    image: "/poi-images/vanuatu-vila-city-hall-landmarks-v2.webp",
   },
   {
     id: "vanuatu-unity-house-landmarks-v2",
@@ -1178,6 +1215,7 @@ export const vanuatuLandmarksV2: POI[] = [
       ro: ["Sediul biroului Prim-ministrului din Vanuatu", "Simbol al unității naționale din 1980", "Situată în districtul guvernamental din Port Vila", "Centru pentru coordonarea politicii naționale", "Loc pentru recepții diplomatice de nivel înalt", "Măsuri de securitate stricte pentru acces"],
       en: ["Seat of the Prime Minister's office of Vanuatu", "Symbol of national unity since independence in 1980", "Located within the government district of Port Vila", "Hub for the coordination of national executive policy", "Venue for high-level diplomatic receptions", "Strict security protocols govern public access"],
     },
+    image: "/poi-images/vanuatu-unity-house-landmarks-v2.webp",
   },
   {
     id: "vanuatu-british-high-commission-landmarks-v2",
@@ -1209,6 +1247,7 @@ export const vanuatuLandmarksV2: POI[] = [
       ro: ["Redeschidere oficială în anul 2019", "Reprezintă Regatul Unit în regiunea Pacificului", "Fostă putere co-colonială până în 1980", "Promovarea protecției climei și a obiectivelor Commonwealth", "Oferă asistență consulară pentru călătorii britanici", "Susține programe de burse precum 'Chevening'"],
       en: ["Officially reopened in 2019", "Represents the United Kingdom in the Pacific region", "Former joint colonial administrator until 1980", "Promotes climate action and Commonwealth objectives", "Provides consular assistance to British nationals", "Supports scholarship programs such as 'Chevening'"],
     },
+    image: "/poi-images/vanuatu-british-high-commission-landmarks-v2.webp",
   },
   {
     id: "vanuatu-malapoa-college-landmarks-v2",
@@ -1240,6 +1279,7 @@ export const vanuatuLandmarksV2: POI[] = [
       ro: ["Fondat în 1966 ca British Secondary School", "Situat pe Malapoa Point în Port Vila", "Considerată școala academică de elită a țării", "Renovare finanțată prin asistență pentru dezvoltare din China", "Oferă locuri de internat pentru elevi de pe toate insulele", "Rețeaua de absolvenți include mulți membri ai guvernului"],
       en: ["Founded in 1966 as the British Secondary School", "Located on Malapoa Point in Port Vila", "Regarded as the country's premier academic secondary school", "Renovation funded by Chinese development assistance", "Provides boarding facilities for students from all islands", "Alumni network includes many prominent government members"],
     },
+    image: "/poi-images/vanuatu-malapoa-college-landmarks-v2.webp",
   },
   {
     id: "vanuatu-lycee-bougainville-landmarks-v2",
@@ -1271,6 +1311,7 @@ export const vanuatuLandmarksV2: POI[] = [
       ro: ["Numit după exploratorul Louis Antoine de Bougainville", "Centrul principal pentru educația francofonă în Vanuatu", "Pregătește elevii pentru Bacalaureatul francez", "Fondat în timpul perioadei coloniale britanico-franceze", "Susținut prin parteneriate cu Franța", "Oferă cazare în internat pentru elevii de pe insulele exterioare"],
       en: ["Named after the French explorer Louis Antoine de Bougainville", "Primary center for Francophone education in Vanuatu", "Prepares students for the French Baccalauréat qualification", "Founded during the British-French colonial era", "Supported by educational partnerships with France", "Provides boarding facilities for students from outer islands"],
     },
+    image: "/poi-images/vanuatu-lycee-bougainville-landmarks-v2.webp",
   },
   {
     id: "vanuatu-northern-district-hospital-landmarks-v2",
@@ -1302,6 +1343,7 @@ export const vanuatuLandmarksV2: POI[] = [
       ro: ["Al doilea cel mai mare spital din Republica Vanuatu", "Principalul centru de îngrijire pentru provinciile nordice", "Situat în Luganville, al doilea oraș ca mărime din țară", "Modernizare importantă prin asistență japoneză", "Centru pentru tratarea accidentelor de scufundări din nord", "Centru de referință pentru provinciile Sanma și Torba"],
       en: ["Second largest hospital in the Republic of Vanuatu", "Primary medical care hub for the northern provinces", "Located in Luganville, the country's second largest city", "Significant modernization funded by Japanese aid", "Critical center for treating diving accidents in the north", "Main referral center for Sanma, Penama, and Torba provinces"],
     },
+    image: "/poi-images/vanuatu-northern-district-hospital-landmarks-v2.webp",
   },
   {
     id: "vanuatu-forari-mine-ruins-landmarks-v2",
@@ -1333,6 +1375,7 @@ export const vanuatuLandmarksV2: POI[] = [
       ro: ["Deschiderea minei de mangan în anul 1962", "Operată de o companie minieră franceză", "Principala piață de export pentru mangan a fost Japonia", "Închiderea minei a avut loc în anul 1978", "Fost centru de angajare industrială pe insula Efate", "Astăzi o destinație pentru arheologia industrială în junglă"],
       en: ["Manganese mine opened in 1962", "Operated by a French mining company (CFPO)", "Main export market for the manganese was Japan", "Ceased all operations in 1978", "Former hub for industrial employment on Efate Island", "Currently a site for industrial archaeology amidst the jungle"],
     },
+    image: "/poi-images/vanuatu-forari-mine-ruins-landmarks-v2.webp",
   },
   {
     id: "vanuatu-havannah-seaplane-ramp-landmarks-v2",
@@ -1364,5 +1407,6 @@ export const vanuatuLandmarksV2: POI[] = [
       ro: ["Rampa a fost construită în 1942 de către batalioanele de construcții navale ale SUA (Seabees).", "Portul Havannah a fost un punct de adunare pentru flota SUA înainte de Bătălia din Marea Coralilor.", "Hidroavioanele PBY Catalina au utilizat rampa pentru misiuni de recunoaștere la mare distanță.", "Portul este unul dintre cele mai adânci porturi naturale din Pacificul de Sud.", "Baza a găzduit la un moment dat peste 5.000 de militari americani.", "Resturi de rezervoare de combustibil și fortificații sunt încă vizibile în jungla din jur."],
       en: ["The ramp was constructed in 1942 by US Naval Construction Battalions (Seabees).", "Havannah Harbour was a staging area for the US fleet before the Battle of the Coral Sea.", "Seaplanes like the PBY Catalina used the ramp for long-range reconnaissance missions.", "The harbour is one of the deepest natural harbours in the South Pacific region.", "The base hosted over 5,000 American military personnel during its peak operation.", "Remnants of fuel tanks and fortifications remain visible in the surrounding jungle."],
     },
+    image: "/poi-images/vanuatu-havannah-seaplane-ramp-landmarks-v2.webp",
   }
 ];

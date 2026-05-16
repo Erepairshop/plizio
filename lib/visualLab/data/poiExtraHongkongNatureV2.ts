@@ -31,6 +31,7 @@ export const hongkongNatureV2: POI[] = [
       ro: ["Altitudine: 934 m", "Clasare: al doilea cel mai înalt din Hong Kong", "Parte a Parcului Natural Lantau South", "Timp de ascensiune: 3-4 ore", "Distanță: 5 km de la punctul de start", "Drumeți anual: peste 50.000"],
       en: ["Height: 934 m (3,064 ft)", "Rank: Second highest peak in Hong Kong", "Part of Lantau South Country Park", "Climbing time: 3-4 hours", "Distance to summit: 5 km (3.1 mi) from trailhead", "Annual hiker count: over 50,000"],
     },
+    image: "/poi-images/hongkong-lantau-peak-nature-v2.webp",
   },
   {
     id: "hongkong-tai-mo-shan-nature-v2",
@@ -62,6 +63,7 @@ export const hongkongNatureV2: POI[] = [
       ro: ["Altitudine: 957 m", "Clasare: cel mai înalt din Hong Kong", "Parte a Parcului Natural Tai Mo Shan (1979)", "Temperatura medie pe vârf: 15 °C", "Precipitații anuale: peste 2.500 mm", "Specii de fluturi: peste 100"],
       en: ["Height: 957 m (3,140 ft)", "Rank: Highest mountain in Hong Kong", "Part of Tai Mo Shan Country Park (est. 1979)", "Average summit temperature: 15 °C (59 °F)", "Annual rainfall: over 2,500 mm (98 in)", "Butterfly species: over 100"],
     },
+    image: "/poi-images/hongkong-tai-mo-shan-nature-v2.webp",
   },
   {
     id: "hongkong-sunset-peak-nature-v2",
@@ -93,6 +95,7 @@ export const hongkongNatureV2: POI[] = [
       ro: ["Altitudine: 869 m", "Clasare: al treilea cel mai înalt din Hong Kong", "Faimos pentru: apusuri spectaculoase", "Timp de ascensiune: 2-3 ore", "Vegetație: pajiști cu azalee sălbatice", "Perioadă ideală: octombrie-martie"],
       en: ["Height: 869 m (2,851 ft)", "Rank: Third highest peak in Hong Kong", "Known for: spectacular sunset views", "Climbing time: 2-3 hours", "Vegetation: grasslands with wild azaleas", "Best time to visit: October to March"],
     },
+    image: "/poi-images/hongkong-sunset-peak-nature-v2.webp",
   },
   {
     id: "hongkong-lion-rock-nature-v2",
@@ -124,6 +127,7 @@ export const hongkongNatureV2: POI[] = [
       ro: ["Altitudine: 495 m", "Localizare: Noile Teritorii, nord de Kowloon", "Siluetă: asemănătoare unui cap de leu", "Timp de ascensiune: 1-2 ore", "Distanță: 3 km de la punctul de plecare", "Vizitatori anual: peste 100.000"],
       en: ["Height: 495 m (1,624 ft)", "Location: New Territories, north of Kowloon", "Silhouette: resembles a lion's head", "Climbing time: 1-2 hours", "Distance to summit: 3 km (1.9 mi) from trailhead", "Annual visitors: over 100,000"],
     },
+    image: "/poi-images/hongkong-lion-rock-nature-v2.webp",
   },
   {
     id: "hongkong-dragons-back-nature-v2",
@@ -155,6 +159,7 @@ export const hongkongNatureV2: POI[] = [
       ro: ["Lungimea crestei: 8,5 km", "Înălțimea maximă: 284 m", "Formațiune geologică: rocă vulcanică cretacică", "Parte a traseului Hong Kong Trail (50 km)", "Desemnat de CNN Travel în 2019 ca unul dintre cele mai bune trasee urbane", "Peste 200 de specii de pești în apele adiacente"],
       en: ["Ridge length: 8.5 km", "Maximum elevation: 284 m", "Geological formation: Cretaceous volcanic rock", "Part of the 50 km Hong Kong Trail", "Named one of world's best urban hikes by CNN Travel in 2019", "Over 200 fish species in surrounding waters"],
     },
+    image: "/poi-images/hongkong-dragons-back-nature-v2.webp",
   },
   {
     id: "hongkong-po-toi-island-nature-v2",
@@ -186,6 +191,7 @@ export const hongkongNatureV2: POI[] = [
       ro: ["Suprafață: aprox. 3,7 km²", "Populație: nelocuită permanent", "Far construit în: 1911", "Formațiuni de granit din Cretacic", "Specii de corali în apele înconjurătoare: peste 100", "Distanța față de Stanley: cca. 5 km sud-est"],
       en: ["Area: approx. 3.7 km²", "Permanent population: none", "Lighthouse built: 1911", "Granite formations from Cretaceous period", "Coral species in surrounding waters: over 100", "Distance from Stanley: about 5 km southeast"],
     },
+    image: "/poi-images/hongkong-po-toi-island-nature-v2.webp",
   },
   {
     id: "hongkong-high-island-reservoir-nature-v2",
@@ -217,6 +223,7 @@ export const hongkongNatureV2: POI[] = [
       ro: ["Perioada construcției: 1971–1979", "Capacitate: 273 milioane de metri cubi", "Suprafața apei: 6,9 km²", "Lungimea barajelor: 800 m", "Înălțimea barajelor: 65 m", "Vârsta coloanelor hexagonale: 140 de milioane de ani"],
       en: ["Construction period: 1971–1979", "Capacity: 273 million cubic meters", "Water surface area: 6.9 km²", "Dam length: 800 m", "Dam height: 65 m", "Age of hexagonal columns: 140 million years"],
     },
+    image: "/poi-images/hongkong-high-island-reservoir-nature-v2.webp",
   },
   {
     id: "hongkong-plover-cove-reservoir-nature-v2",
@@ -248,6 +255,7 @@ export const hongkongNatureV2: POI[] = [
       ro: ["Capacitate: 230 milioane de metri cubi", "Finalizat în: 1968", "Lungimea digului: 1,9 km", "Înălțimea digului: 25 m", "Suprafața apei: 12,4 km²", "Procent din apa potabilă: aprox. 25%"],
       en: ["Capacity: 230 million cubic meters", "Completed in: 1968", "Dam length: 1.9 km", "Dam height: 25 m", "Water surface area: 12.4 km²", "Provides about 25% of drinking water"],
     },
+    image: "/poi-images/hongkong-plover-cove-reservoir-nature-v2.webp",
   },
   {
     id: "hongkong-ng-tung-chai-waterfalls-nature-v2",
@@ -279,6 +287,7 @@ export const hongkongNatureV2: POI[] = [
       ro: ["Numărul de cascade: 4", "Înălțimea cascadei principale: 35 m", "Altitudinea zonei: 300 m", "Lățimea în sezonul ploios: până la 10 m", "Cel mai apropiat munte: Tai Mo Shan (957 m)", "Specii de plante în pădurea înconjurătoare: peste 1000"],
       en: ["Number of falls: 4", "Main fall height: 35 m", "Lowland elevation: 300 m", "Width during wet season: up to 10 m", "Nearest mountain: Tai Mo Shan (957 m)", "Plant species in surrounding forest: over 1000"],
     },
+    image: "/poi-images/hongkong-ng-tung-chai-waterfalls-nature-v2.webp",
   },
   {
     id: "hongkong-brides-pool-nature-v2",
@@ -310,6 +319,7 @@ export const hongkongNatureV2: POI[] = [
       ro: ["Lățime: aprox. 10 m", "Adâncime: aprox. 3 m", "Altitudine: aprox. 150 m", "Geologie: gresie și conglomerat jurasic", "Parte a Plover Cove Country Park", "Distanța până la cel mai apropiat drum: cca. 200 m"],
       en: ["Width: approx. 10 m", "Depth: approx. 3 m", "Elevation: approx. 150 m", "Geology: Jurassic sandstone and conglomerate", "Part of Plover Cove Country Park", "Distance to nearest road: approx. 200 m"],
     },
+    image: "/poi-images/hongkong-brides-pool-nature-v2.webp",
   },
   {
     id: "hongkong-mirror-pool-nature-v2",
@@ -341,6 +351,7 @@ export const hongkongNatureV2: POI[] = [
       ro: ["Suprafață: aprox. 100 m²", "Altitudine: aprox. 400 m", "Lungimea traseului Mirror Pool Trail: aprox. 3 km", "Alimentat de: pârâu mic", "Geologie: rocă vulcanică", "Nivelul apei: fluctuant sezonier"],
       en: ["Area: approx. 100 m²", "Elevation: approx. 400 m", "Length of Mirror Pool Trail: approx. 3 km", "Fed by: small stream", "Geology: volcanic rock", "Water level: seasonally variable"],
     },
+    image: "/poi-images/hongkong-mirror-pool-nature-v2.webp",
   },
   {
     id: "hongkong-sharp-island-nature-v2",
@@ -372,6 +383,7 @@ export const hongkongNatureV2: POI[] = [
       ro: ["Suprafață: aprox. 6,7 km²", "Distanța până la Sai Kung: cca. 2 km", "Specii de corali: peste 60", "Lungimea tomboloului la reflux: cca. 200 m", "Înălțimea maximă: cca. 50 m", "Statut de protecție: arie marină protejată"],
       en: ["Area: approx. 6.7 km²", "Distance from Sai Kung: approx. 2 km", "Coral species: over 60", "Tombolo length at low tide: approx. 200 m", "Maximum elevation: approx. 50 m", "Protection status: marine protected area"],
     },
+    image: "/poi-images/hongkong-sharp-island-nature-v2.webp",
   },
   {
     id: "hongkong-tung-ping-chau-nature-v2",
@@ -403,6 +415,7 @@ export const hongkongNatureV2: POI[] = [
       ro: ["Suprafață: aprox. 1,2 km²", "Populație: nelocuită", "Geologie: rocă sedimentară (Cretacic)", "Parte a Plover Cove Country Park", "Acces cu feribotul: de la Ma Liu Shui", "Distanța de la continent: cca. 3 km"],
       en: ["Area: approx. 1.2 km²", "Population: uninhabited", "Geology: sedimentary rock (Cretaceous)", "Part of Plover Cove Country Park", "Ferry access: from Ma Liu Shui", "Distance from mainland: approx. 3 km"],
     },
+    image: "/poi-images/hongkong-tung-ping-chau-nature-v2.webp",
   },
   {
     id: "hongkong-pat-sin-leng-nature-v2",
@@ -434,6 +447,7 @@ export const hongkongNatureV2: POI[] = [
       ro: ["Lungimea crestei: 8 km", "Număr de vârfuri: 8", "Cel mai înalt vârf: Wong Leng (639 m)", "Lungimea traseului didactic: 4,5 km", "Parte a Pat Sin Leng Country Park (înființat în 1979)", "Floră: peste 500 de specii de plante documentate"],
       en: ["Ridge length: 8 km", "Number of peaks: 8", "Highest peak: Wong Leng (639 m)", "Nature trail length: 4.5 km", "Part of Pat Sin Leng Country Park (established 1979)", "Flora: over 500 plant species documented"],
     },
+    image: "/poi-images/hongkong-pat-sin-leng-nature-v2.webp",
   },
   {
     id: "hongkong-tai-long-wan-nature-v2",
@@ -465,6 +479,7 @@ export const hongkongNatureV2: POI[] = [
       ro: ["Număr de plaje: 4", "Lungimea traseului MacLehose Stage 2: 14 km", "Înălțimea maximă a valurilor iarna: 3 m", "Parte a Sai Kung East Country Park", "Acces: doar pe jos sau cu barca", "Distanța până la cel mai apropiat sat: 2 km"],
       en: ["Number of beaches: 4", "Length of MacLehose Trail Stage 2: 14 km", "Maximum wave height in winter: 3 m", "Part of Sai Kung East Country Park", "Access: only on foot or by boat", "Distance to nearest village: 2 km"],
     },
+    image: "/poi-images/hongkong-tai-long-wan-nature-v2.webp",
   },
   {
     id: "hongkong-hoi-ha-wan-nature-v2",
@@ -496,6 +511,7 @@ export const hongkongNatureV2: POI[] = [
       ro: ["Statut de protecție: parc marin din 1996", "Suprafața parcului marin: 260 de hectare", "Specii de corali: peste 60", "Specii de pești: peste 120", "Centru de cercetare: Universitatea din Hong Kong", "Specie amenințată: barramundi uriaș"],
       en: ["Protection status: Marine Park since 1996", "Marine Park area: 260 hectares", "Coral species: over 60", "Fish species: over 120", "Research centre: University of Hong Kong", "Endangered species: giant barramundi"],
     },
+    image: "/poi-images/hongkong-hoi-ha-wan-nature-v2.webp",
   },
   {
     id: "hongkong-double-haven-nature-v2",
@@ -527,6 +543,7 @@ export const hongkongNatureV2: POI[] = [
       ro: ["Înălțimea stâncilor de gresie: până la 100 m", "Geologie: gresie (Jurasic)", "Zonă Ramsar: Mai Po Inner Deep Bay", "Specie de pasăre amenințată: lingurar cu față neagră", "Număr de insule în golf: 5", "Suprafața parcului rural din jur: aprox. 1.500 de hectare"],
       en: ["Sandstone cliff height: up to 100 m", "Geology: sandstone (Jurassic)", "Ramsar site: Mai Po Inner Deep Bay", "Endangered bird species: black-faced spoonbill", "Number of islands in bay: 5", "Area of surrounding country park: approx. 1,500 hectares"],
     },
+    image: "/poi-images/hongkong-double-haven-nature-v2.webp",
   },
   {
     id: "hongkong-shing-mun-reservoir-nature-v2",
@@ -558,6 +575,7 @@ export const hongkongNatureV2: POI[] = [
       ro: ["Finalizat în: 1936", "Capacitate: 58 de milioane de metri cubi", "Suprafața apei: 2,8 km²", "Lungimea traseului circular: 5 km", "Înălțimea barajului: 85 m", "Parte a Parcului Rural Shing Mun (înființat în 1977)"],
       en: ["Completed in: 1936", "Capacity: 58 million cubic meters", "Water surface area: 2.8 km²", "Circular trail length: 5 km", "Dam height: 85 m", "Part of Shing Mun Country Park (established 1977)"],
     },
+    image: "/poi-images/hongkong-shing-mun-reservoir-nature-v2.webp",
   },
   {
     id: "hongkong-kam-shan-nature-v2",
@@ -589,6 +607,7 @@ export const hongkongNatureV2: POI[] = [
       ro: ["Înălțime: 369 m", "Specii de maimuțe: 2 (macac rhesus, macac cu coadă lungă)", "Parte a Parcului Rural Kam Shan (înființat în 1979)", "Distanța până la rezervorul Shing Mun: 1 km", "Traseul 'Kam Shan Family Walk': lungime aprox. 3 km", "Buncăre din al Doilea Război Mondial: 5 păstrate"],
       en: ["Elevation: 369 m", "Monkey species: 2 (rhesus macaque, long-tailed macaque)", "Part of Kam Shan Country Park (established 1979)", "Distance to Shing Mun Reservoir: 1 km", "Kam Shan Family Walk trail length: approx. 3 km", "WWII bunkers: 5 preserved"],
     },
+    image: "/poi-images/hongkong-kam-shan-nature-v2.webp",
   },
   {
     id: "hongkong-tai-tam-tuk-reservoir-nature-v2",
@@ -620,6 +639,7 @@ export const hongkongNatureV2: POI[] = [
       ro: ["Finalizat în: 1918", "Capacitate: 19,5 milioane de metri cubi", "Suprafața apei: 0,9 km²", "Lungimea barajului: 90 m", "Înălțimea barajului: 30 m", "Lungimea traseului de drumeție: 4 km"],
       en: ["Completed in: 1918", "Capacity: 19.5 million cubic meters", "Water surface area: 0.9 km²", "Dam length: 90 m", "Dam height: 30 m", "Hiking trail length: 4 km"],
     },
+    image: "/poi-images/hongkong-tai-tam-tuk-reservoir-nature-v2.webp",
   },
   {
     id: "hongkong-cape-daguilar-nature-v2",
@@ -651,6 +671,7 @@ export const hongkongNatureV2: POI[] = [
       ro: ["Rezervație marină din: 1999", "Far construit: 1875", "Înălțimea farului: 12 m", "Formațiuni geologice: Stânca Leului, Peștera Sirenei", "Parte a Parcului Rural Shek O", "Distanța până la cea mai apropiată stație de autobuz: 1,5 km"],
       en: ["Marine reserve since: 1999", "Lighthouse built: 1875", "Lighthouse height: 12 m", "Geological formations: Lion Rock, Mermaid Cave", "Part of Shek O Country Park", "Distance to nearest bus stop: 1.5 km"],
     },
+    image: "/poi-images/hongkong-cape-daguilar-nature-v2.webp",
   },
   {
     id: "hongkong-sharp-peak-nature-v2",
@@ -682,6 +703,7 @@ export const hongkongNatureV2: POI[] = [
       ro: ["Înălțime: 468 m", "Locație: Parcul Rural Sai Kung East", "Parte a traseului MacLehose Stage 2 (lungime: 14 km)", "Timp de ascensiune de la Sai Wan: 3-4 ore", "Geologie: rocă vulcanică (Jurasic)", "Cea mai apropiată plajă: Sai Wan (1,5 km)"],
       en: ["Elevation: 468 m", "Location: Sai Kung East Country Park", "Part of MacLehose Trail Stage 2 (length: 14 km)", "Ascent time from Sai Wan: 3-4 hours", "Geology: volcanic rock (Jurassic)", "Nearest beach: Sai Wan (1.5 km)"],
     },
+    image: "/poi-images/hongkong-sharp-peak-nature-v2.webp",
   },
   {
     id: "hongkong-kowloon-peak-nature-v2",
@@ -713,6 +735,7 @@ export const hongkongNatureV2: POI[] = [
       ro: ["Înălțime: 602 m", "Locație: Parcul Rural Ma On Shan", "Parte a traseului Wilson Stage 4 (lungime: 12 km)", "Înălțimea farului: 10 m", "Ruta de alpinism 'Zidul sinucigașilor': grad de dificultate 5.9", "Distanța până la cel mai apropiat MTR: 3 km (Diamond Hill)"],
       en: ["Elevation: 602 m", "Location: Ma On Shan Country Park", "Part of Wilson Trail Stage 4 (length: 12 km)", "Beacon height: 10 m", "Climbing route 'Suicide Wall': difficulty 5.9", "Distance to nearest MTR: 3 km (Diamond Hill)"],
     },
+    image: "/poi-images/hongkong-kowloon-peak-nature-v2.webp",
   },
   {
     id: "hongkong-ap-chau-nature-v2",
@@ -744,5 +767,6 @@ export const hongkongNatureV2: POI[] = [
       ro: ["Diametru: aprox. 300 m", "Înălțimea platformei de granit: aprox. 20 m", "Parte a Parcului Marin Yan Chau Tong (înființat în 1996)", "Cel mai apropiat sat: Lai Chi Wo (2 km)", "Geologie: gresie roșie (Cretacic)", "Drum cu barca de la Lai Chi Wo: 15 minute"],
       en: ["Diameter: approx. 300 m", "Granite platform height: approx. 20 m", "Part of Yan Chau Tong Marine Park (established 1996)", "Nearest village: Lai Chi Wo (2 km)", "Geology: red sandstone (Cretaceous)", "Boat ride from Lai Chi Wo: 15 minutes"],
     },
+    image: "/poi-images/hongkong-ap-chau-nature-v2.webp",
   }
 ];

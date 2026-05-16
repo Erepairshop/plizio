@@ -32,6 +32,7 @@ export const norwayHistoryV2: POI[] = [
       ro: ["Construită în jurul anului 1180", "Înălțime: 15 m", "Lungime: 30 m", "Lemn folosit: circa 1000 m³ de pin", "Vizitatori anual: aprox. 120.000", "Protejată din 1944"],
       en: ["Built around 1180", "Height: 15 m", "Length: 30 m", "Wood used: ca. 1000 m³ of pine", "Annual visitors: ca. 120,000", "Listed as protected since 1944"],
     },
+    image: "/poi-images/norway-borgund-stave-church-history-v2.webp",
   },
   {
     id: "norway-festningen-oslo-fortress-history-v2",
@@ -64,6 +65,7 @@ export const norwayHistoryV2: POI[] = [
       ro: ["Construcție începută în jurul anului 1299", "Suprafață: 0,12 km²", "Turnul cel mai înalt: 25 m", "Grosimea zidurilor: până la 4 m", "Vizitatori muzeu: circa 200.000 anual", "Deschis publicului din 1897"],
       en: ["Construction started circa 1299", "Area: 0.12 km²", "Tallest tower: 25 m", "Wall thickness: up to 4 m", "Museum visitors: ca. 200,000 annually", "Opened to public in 1897"],
     },
+    image: "/poi-images/norway-festningen-oslo-fortress-history-v2.webp",
   },
   {
     id: "norway-nidaros-pilgrimage-path-history-v2",
@@ -96,6 +98,7 @@ export const norwayHistoryV2: POI[] = [
       ro: ["Lungimea totală a rutelor: peste 1.000 km", "Ruta principală Oslo-Trondheim: 643 km", "Punctul cel mai înalt: 1.050 m deasupra mării", "Pelerini înregistrați anual: circa 10.000", "Pelerinaje medievale din 1031", "Deschis oficial în 1997"],
       en: ["Total route length: over 1,000 km", "Main route Oslo-Trondheim: 643 km", "Highest point: 1,050 m above sea level", "Registered pilgrims annually: ca. 10,000", "Medieval pilgrimages since 1031", "Officially opened in 1997"],
     },
+    image: "/poi-images/norway-nidaros-pilgrimage-path-history-v2.webp",
   },
   {
     id: "norway-kjerringoy-trading-post-history-v2",
@@ -128,6 +131,7 @@ export const norwayHistoryV2: POI[] = [
       ro: ["Perioada de glorie: 1820-1850", "Cuprinde 15 clădiri", "Suprafața: 0,05 km²", "Vizitatori anual: circa 20.000", "Erasmus Zahl a murit în 1877", "Muzeu din 1931"],
       en: ["Peak period 1820-1850", "Consists of 15 buildings", "Area: 0.05 km²", "Annual visitors: ca. 20,000", "Erasmus Zahl died in 1877", "Museum status since 1931"],
     },
+    image: "/poi-images/norway-kjerringoy-trading-post-history-v2.webp",
   },
   {
     id: "norway-eidsvoll-manor-history-v2",
@@ -160,6 +164,7 @@ export const norwayHistoryV2: POI[] = [
       ro: ["Construit în 1765", "Suprafața domeniului: 0,04 km²", "112 delegați s-au întrunit în 1814", "Constituția semnată la 17 mai 1814", "Vizitatori anual: circa 50.000", "Muzeu din 1964"],
       en: ["Built in 1765", "Estate area: 0.04 km²", "112 delegates gathered in 1814", "Constitution signed on 17 May 1814", "Annual visitors: ca. 50,000", "Museum since 1964"],
     },
+    image: "/poi-images/norway-eidsvoll-manor-history-v2.webp",
   },
   {
     id: "norway-henningsvaer-fishing-village-history-v2",
@@ -192,6 +197,7 @@ export const norwayHistoryV2: POI[] = [
       ro: ["Așezare din secolul al XV-lea", "Populație: circa 500", "Număr de insule: 5", "Producție pește uscat: circa 1.000 tone anual", "Poduri: 7", "Stadionul Henningsvær (teren de fotbal) construit în 2005"],
       en: ["Settlement since 15th century", "Population: ca. 500", "Number of islands: 5", "Dried fish production: ca. 1,000 tonnes annually", "Bridges: 7", "Henningsvær football field built in 2005"],
     },
+    image: "/poi-images/norway-henningsvaer-fishing-village-history-v2.webp",
   },
   {
     id: "norway-trollkyrkja-cave-history-v2",
@@ -224,6 +230,7 @@ export const norwayHistoryV2: POI[] = [
       ro: ["Sistemul de peșteri descoperit în 1926", "Lungime totală: circa 200 m", "Înălțimea camerei principale: 20 m", "Temperatura în peșteră: 4-6 °C", "Înălțimea cascadei: 15 m", "Vizitatori anual: circa 5.000"],
       en: ["Cave system discovered in 1926", "Total length: ca. 200 m", "Height of main chamber: 20 m", "Cave temperature: 4-6 °C", "Waterfall height: 15 m", "Annual visitors: ca. 5,000"],
     },
+    image: "/poi-images/norway-trollkyrkja-cave-history-v2.webp",
   },
   {
     id: "norway-oslo-cathedral-history-v2",
@@ -256,6 +263,7 @@ export const norwayHistoryV2: POI[] = [
       ro: ["Sfințită în 1697", "Lungime: 60 m", "Lățime: 28 m", "Înălțimea turnului: 42 m", "Orga: 1990, Ryde & Berg", "Locuri: 1.200"],
       en: ["Consecrated in 1697", "Length: 60 m", "Width: 28 m", "Tower height: 42 m", "Organ: 1990 by Ryde & Berg", "Seating capacity: 1,200"],
     },
+    image: "/poi-images/norway-oslo-cathedral-history-v2.webp",
   },
   {
     id: "norway-skudenes-old-town-history-v2",
@@ -288,6 +296,7 @@ export const norwayHistoryV2: POI[] = [
       ro: ["Număr de case protejate: peste 150", "Suprafața centrului vechi: 0,12 km²", "Sezonul maxim de hering: 1870-1880", "Populație actuală: circa 3.000", "Muzeul căii ferate înguste: lungime 1,2 km", "Cea mai veche casă: 2 etaje"],
       en: ["Number of listed houses: over 150", "Old town area: 0.12 km²", "Peak herring season: 1870-1880", "Population today: ca. 3,000", "Narrow-gauge railway museum: track length 1.2 km", "Oldest house: 2 storeys"],
     },
+    image: "/poi-images/norway-skudenes-old-town-history-v2.webp",
   },
   {
     id: "norway-ulfstind-fortification-history-v2",
@@ -320,6 +329,7 @@ export const norwayHistoryV2: POI[] = [
       ro: ["Construit în 1942-1943", "Raza de acțiune a tunurilor: 15 km", "Număr de buncăre: 8", "Garnizoana: circa 200 soldați", "Deschidere muzeu: 1995", "Altitudine: 80 m deasupra mării"],
       en: ["Built 1942-1943", "Gun range: 15 km", "Number of bunkers: 8", "Garrison: ca. 200 soldiers", "Museum opened: 1995", "Altitude: 80 m above sea level"],
     },
+    image: "/poi-images/norway-ulfstind-fortification-history-v2.webp",
   },
   {
     id: "norway-stave-church-heddal-history-v2",
@@ -352,6 +362,7 @@ export const norwayHistoryV2: POI[] = [
       ro: ["Construită în jurul anului 1200", "Înălțime: 29 m", "Lungime: 24 m", "Lățime: 16 m", "Locuri: 300", "Înălțimea turnului clopotniță: 26 m"],
       en: ["Built around 1200", "Height: 29 m", "Length: 24 m", "Width: 16 m", "Seating capacity: 300", "Bell tower height: 26 m"],
     },
+    image: "/poi-images/norway-stave-church-heddal-history-v2.webp",
   },
   {
     id: "norway-trondheim-archbishop-palace-history-v2",
@@ -384,6 +395,7 @@ export const norwayHistoryV2: POI[] = [
       ro: ["Construcție: secolul al XII-lea (cca. 1152)", "Grosime ziduri: până la 2,5 m", "Suprafață: 0,02 km²", "Restaurat 1966-1969", "Obiecte expuse: peste 300", "Vizitatori anual: circa 80.000"],
       en: ["Construction: 12th century (ca. 1152)", "Wall thickness: up to 2.5 m", "Ground area: 0.02 km²", "Restored 1966-1969", "Exhibits: over 300", "Annual visitors: ca. 80,000"],
     },
+    image: "/poi-images/norway-trondheim-archbishop-palace-history-v2.webp",
   },
   {
     id: "norway-gamle-stavanger-history-v2",
@@ -416,6 +428,7 @@ export const norwayHistoryV2: POI[] = [
       ro: ["Număr de case: circa 250", "Cea mai veche casă: 1776", "Suprafață: 0,08 km²", "Populație: circa 1.000", "Protejat din 1973", "Lungimea străduțelor: 2,5 km"],
       en: ["Number of houses: ca. 250", "Oldest house: 1776", "Area: 0.08 km²", "Population: ca. 1,000", "Protected since 1973", "Path length: 2.5 km"],
     },
+    image: "/poi-images/norway-gamle-stavanger-history-v2.webp",
   },
   {
     id: "norway-alnes-lighthouse-history-v2",
@@ -448,6 +461,7 @@ export const norwayHistoryV2: POI[] = [
       ro: ["Construit în 1876", "Înălțime: 22 m", "Construcție din fontă", "Automatizat în 1998", "Vizitatori anual: circa 10.000", "Raza farului: 22 mile marine"],
       en: ["Built in 1876", "Height: 22 m", "Material: cast iron", "Automated in 1998", "Annual visitors: ca. 10,000", "Lighthouse range: 22 nautical miles"],
     },
+    image: "/poi-images/norway-alnes-lighthouse-history-v2.webp",
   },
   {
     id: "norway-hjemmeluft-rock-carvings-history-v2",
@@ -480,6 +494,7 @@ export const norwayHistoryV2: POI[] = [
       ro: ["Număr de figuri: peste 6.000", "Cea mai veche gravură: cca. 4200 î.Hr.", "Patrimoniu UNESCO din 1985", "Suprafața protejată: 0,5 km²", "Cea mai înaltă figură: 1,2 m", "Tip rocă: gresie"],
       en: ["Number of figures: over 6,000", "Oldest carving: ca. 4200 BC", "UNESCO World Heritage since 1985", "Protected area: 0.5 km²", "Tallest figure: 1.2 m", "Rock type: sandstone"],
     },
+    image: "/poi-images/norway-hjemmeluft-rock-carvings-history-v2.webp",
   },
   {
     id: "norway-reine-church-history-v2",
@@ -512,6 +527,7 @@ export const norwayHistoryV2: POI[] = [
       ro: ["Construită în 1896", "Material: lemn", "Locuri: 300", "Înălțimea turnului: 25 m", "Renovată în 1958", "Altitudine: 8 m deasupra mării"],
       en: ["Built in 1896", "Material: wood", "Seating capacity: 300", "Spire height: 25 m", "Renovated in 1958", "Altitude: 8 m above sea level"],
     },
+    image: "/poi-images/norway-reine-church-history-v2.webp",
   },
   {
     id: "norway-kvinesdal-church-history-v2",
@@ -544,6 +560,7 @@ export const norwayHistoryV2: POI[] = [
       ro: ["Construită în 1837", "Plan octogonal", "Locuri: 400", "Arhitect: Christian H. Grosch (atribuit)", "Renovată în 1898, 1973", "Protejată din 2002"],
       en: ["Built in 1837", "Octagonal plan", "Seating capacity: 400", "Architect: Christian H. Grosch (attributed)", "Renovated in 1898, 1973", "Listed as protected since 2002"],
     },
+    image: "/poi-images/norway-kvinesdal-church-history-v2.webp",
   },
   {
     id: "norway-molde-cathedral-history-v2",
@@ -576,6 +593,7 @@ export const norwayHistoryV2: POI[] = [
       ro: ["Sfințită în 1957", "Arhitect: Arnstein Arneberg", "Înălțimea turnului clopotniță: 50 m", "Locuri: 620", "Orga: 1967, 40 de registre", "Lungimea navei: 60 m"],
       en: ["Consecrated in 1957", "Architect: Arnstein Arneberg", "Bell tower height: 50 m", "Seating capacity: 620", "Organ: 1967, 40 ranks", "Nave length: 60 m"],
     },
+    image: "/poi-images/norway-molde-cathedral-history-v2.webp",
   },
   {
     id: "norway-gamle-tromso-history-v2",
@@ -608,6 +626,7 @@ export const norwayHistoryV2: POI[] = [
       ro: ["Casele vechi au fundații din piatră pentru protecție împotriva umezelii.", "Cartierul include fosta primărie din 1830.", "În 1870, zona găzduia 20% din populația orașului.", "Expediția polară a lui Hjalmar Johansen a pornit de aici în 1898.", "Drumurile din piatră cubică datează de la sfârșitul secolului XIX.", "Altitudinea medie a zonei este de 10 metri."],
       en: ["The old town covers an area of approximately 0.4 square kilometers.", "The oldest preserved house, 'Gamle Prestegård', was built in 1837.", "The district contains 12 buildings listed as cultural heritage sites.", "Polar explorer Roald Amundsen lived here in the early 1900s.", "The white wooden houses are painted with linseed oil paint.", "The population density of the old town is about 4,000 inhabitants per km²."],
     },
+    image: "/poi-images/norway-gamle-tromso-history-v2.webp",
   },
   {
     id: "norway-skien-church-history-v2",
@@ -640,6 +659,7 @@ export const norwayHistoryV2: POI[] = [
       ro: ["Biserica are o capacitate de 600 de persoane.", "Turnul bisericii măsoară 65 de metri înălțime.", "Pictura altarului a fost realizată de Axel Revold în 1895.", "Orga are 30 de registre și datează din 1972.", "Costul construcției a fost de 150.000 de coroane norvegiene.", "Biserica este situată la 15 metri deasupra nivelului mării."],
       en: ["The church seats 600 people.", "Its spire reaches 65 meters.", "The altarpiece was painted by Axel Revold in 1895.", "The organ has 30 stops and was installed in 1972.", "Construction cost was 150,000 Norwegian kroner in 1894.", "The church is located on the highest point in Skien, at 15 m above sea level."],
     },
+    image: "/poi-images/norway-skien-church-history-v2.webp",
   },
   {
     id: "norway-alesund-art-nouveau-history-v2",
@@ -672,6 +692,7 @@ export const norwayHistoryV2: POI[] = [
       ro: ["Incendiul din 1904 a distrus 850 de clădiri.", "Reconstrucția a durat doar trei ani (1905–1907).", "Aproximativ 50 de arhitecți au participat la proiect.", "Fațadele prezintă peste 100 de ornamente distincte.", "Orașul Ålesund se întinde pe patru insule.", "Cartierul Art Nouveau cuprinde circa 500 de clădiri."],
       en: ["The 1904 fire destroyed 850 buildings.", "Reconstruction took only three years, from 1905 to 1907.", "About 50 different architects contributed to the designs.", "The facades feature over 100 unique decorative motifs.", "Ålesund is spread across four islands: Aspøya, Nørvøya, Heissa, and Oksnøya.", "The district contains approximately 500 Art Nouveau buildings."],
     },
+    image: "/poi-images/norway-alesund-art-nouveau-history-v2.webp",
   },
   {
     id: "norway-bodo-cathedral-history-v2",
@@ -704,6 +725,7 @@ export const norwayHistoryV2: POI[] = [
       ro: ["Sfințită în 1956.", "Arhitecți: Gudolf Blakstad și Herman Munthe-Kaas.", "Capacitate: aproximativ 900 de locuri.", "Orga are 40 de registre.", "Biserica anterioară (1888) a fost distrusă la 27 mai 1940.", "Materiale: beton și cărămidă."],
       en: ["Consecrated in 1956.", "Architects: Gudolf Blakstad and Herman Munthe-Kaas.", "Seating capacity: approx. 900.", "Organ with 40 ranks.", "Predecessor church (1888) destroyed 27 May 1940.", "Construction materials: concrete and brick."],
     },
+    image: "/poi-images/norway-bodo-cathedral-history-v2.webp",
   },
   {
     id: "norway-drammen-museum-history-v2",
@@ -736,6 +758,7 @@ export const norwayHistoryV2: POI[] = [
       ro: ["Muzeul a fost fondat în 1909.", "Include 25 de clădiri istorice pe 12 hectare.", "Colecția numără 50.000 de obiecte.", "Cea mai veche moară datează din 1760.", "Tangen Gård a fost construit în 1790.", "În 2019, muzeul a avut 38.000 de vizitatori."],
       en: ["Founded in 1909.", "The museum site covers 12 hectares with 25 historic buildings.", "Collection includes 50,000 artifacts.", "The oldest mill dates from 1760.", "Tangen Gård manor was built in 1790.", "Annual visitor count: ca. 38,000 (2019)."],
     },
+    image: "/poi-images/norway-drammen-museum-history-v2.webp",
   },
   {
     id: "norway-tonsberg-fortress-history-v2",
@@ -768,6 +791,7 @@ export const norwayHistoryV2: POI[] = [
       ro: ["Construit în secolul al XIII-lea sub regele Håkon Håkonsson.", "Înălțimea turnului principal: 31 m.", "Amplasare: Slottsfjellet, 60 m deasupra nivelului mării.", "Muzeu în turn din 1889.", "Lungimea zidului de incintă: peste 100 m.", "Declinul castelului a început în secolul al XVI-lea."],
       en: ["Built in the 13th century under King Håkon Håkonsson.", "Main tower height: 31 m.", "Location: Slottsfjellet, 60 m above sea level.", "Museum in tower since 1889.", "Curtain wall length: over 100 m.", "Castle fell into disrepair from the 16th century."],
     },
+    image: "/poi-images/norway-tonsberg-fortress-history-v2.webp",
   },
   {
     id: "norway-narvik-war-museum-history-v2",
@@ -800,6 +824,7 @@ export const norwayHistoryV2: POI[] = [
       ro: ["Deschis: 1964.", "Suprafață expozițională: aproximativ 1.500 m².", "Locație: fosta gară din Narvik.", "Bibliotecă cu peste 5.000 de volume.", "Bătălia de la Narvik: 9 aprilie – 8 iunie 1940.", "Numărul victimelor civile la Narvik: 106."],
       en: ["Opened: 1964.", "Exhibition area: approx. 1,500 m².", "Location: former Narvik railway station.", "Library with over 5,000 books.", "Battle of Narvik: 9 April – 8 June 1940.", "Civilian casualties in Narvik: 106."],
     },
+    image: "/poi-images/norway-narvik-war-museum-history-v2.webp",
   },
   {
     id: "norway-alta-museum-history-v2",
@@ -832,6 +857,7 @@ export const norwayHistoryV2: POI[] = [
       ro: ["Deschis: 1984.", "Vizitatori anual: aproximativ 100.000.", "Patrimoniu UNESCO din 1985.", "Număr de petroglife expuse: peste 6.000.", "Suprafața muzeului: 1,2 km².", "Altitudine: 50 m deasupra nivelului mării."],
       en: ["Opened: 1984.", "Annual visitors: approx. 100,000.", "UNESCO World Heritage status since 1985.", "Rock carvings on display: over 6,000.", "Museum area: 1.2 km².", "Elevation: 50 m above sea level."],
     },
+    image: "/poi-images/norway-alta-museum-history-v2.webp",
   },
   {
     id: "norway-hammerfest-meridian-history-v2",
@@ -864,6 +890,7 @@ export const norwayHistoryV2: POI[] = [
       ro: ["Patrimoniu UNESCO din 2005.", "Altitudinea punctului: 65 m deasupra nivelului mării.", "Perioada măsurătorilor: 1816–1855.", "Stâlp de piatră ridicat în 1850.", "Numărul total de puncte din arc: 265.", "Norvegia are 4 puncte."],
       en: ["UNESCO World Heritage since 2005.", "Elevation of point: 65 m above sea level.", "Survey period: 1816–1855.", "Stone pillar erected in 1850.", "Total points in the arc: 265.", "Norway hosts 4 of the 265 points."],
     },
+    image: "/poi-images/norway-hammerfest-meridian-history-v2.webp",
   },
   {
     id: "norway-kristiansand-old-town-history-v2",
@@ -896,6 +923,7 @@ export const norwayHistoryV2: POI[] = [
       ro: ["Cartierul cuprinde aproximativ 1.000 de case.", "Incendiul din 1892 a distrus 200 de clădiri.", "Casele sunt construite în stil empire.", "Posebyen se întinde pe 10 hectare.", "Lățimea medie a străzilor este de 6 m.", "Cea mai veche casă datează din 1790."],
       en: ["The district contains about 1,000 houses.", "The 1892 fire destroyed 200 buildings.", "Houses are built in Empire style.", "Posebyen covers 10 hectares.", "Average street width: 6 meters.", "Oldest house dates from 1790."],
     },
+    image: "/poi-images/norway-kristiansand-old-town-history-v2.webp",
   },
   {
     id: "norway-fredrikstad-fortress-history-v2",
@@ -928,6 +956,7 @@ export const norwayHistoryV2: POI[] = [
       ro: ["Fortăreața include 30 de bastioane.", "Construcția a început în 1663.", "Zidurile orașului au grosimea de 3 m.", "Șanțul cu apă are o lățime de 15 m.", "În 2020, fortăreața găzduia 200 de locuitori.", "Suprafața incintei este de 25 ha."],
       en: ["The fortress includes 30 bastions.", "Construction started in 1663.", "City walls are 3 meters thick.", "The moat is 15 meters wide.", "Population inside the fortress: 200 (2020).", "The fortress area covers 25 hectares."],
     },
+    image: "/poi-images/norway-fredrikstad-fortress-history-v2.webp",
   },
   {
     id: "norway-lillehammer-museum-history-v2",
@@ -960,6 +989,7 @@ export const norwayHistoryV2: POI[] = [
       ro: ["Muzeul a fost fondat în 1904.", "Include 200 de clădiri istorice.", "Biserica de lemn datează din jurul anului 1250.", "Terenul muzeului are 14 ha.", "Colecția cuprinde 50.000 de obiecte.", "Numărul anual de vizitatori: 150.000."],
       en: ["Founded in 1904.", "200 historic buildings on site.", "The stave church dates from around 1250.", "Site area: 14 hectares.", "Collection holds 50,000 artifacts.", "Annual visitors: 150,000."],
     },
+    image: "/poi-images/norway-lillehammer-museum-history-v2.webp",
   },
   {
     id: "norway-larvik-museum-history-v2",
@@ -992,6 +1022,7 @@ export const norwayHistoryV2: POI[] = [
       ro: ["Muzeul fondat în 1916.", "Conacul Herrengård construit în 1764.", "Larvik Glasværk activ între 1855-1938.", "Thor Heyerdahl născut la 6 octombrie 1914.", "Flota de vânătoare de balene: până la 30 de nave (anii 1920).", "Grădină botanică cu 500 de specii de plante."],
       en: ["Museum founded in 1916.", "Herrengård manor built in 1764.", "Larvik Glassworks operated 1855–1938.", "Thor Heyerdahl born 6 October 1914.", "Whaling fleet in Larvik: up to 30 ships (1920s).", "Botanical garden with 500 plant species."],
     },
+    image: "/poi-images/norway-larvik-museum-history-v2.webp",
   },
   {
     id: "norway-flekkefjord-old-town-history-v2",
@@ -1024,6 +1055,7 @@ export const norwayHistoryV2: POI[] = [
       ro: ["Cele mai vechi case datează din 1700.", "Centrul vechi se întinde pe 0,5 kilometri pătrați.", "Peste 100 de clădiri sunt protejate ca monumente.", "Flekkefjord a primit drepturi de oraș în 1842.", "Populația centrului vechi este de aproximativ 500 de locuitori.", "Portul Flekkefjord a fost fondat în secolul al XVI-lea."],
       en: ["The oldest houses date from 1700.", "The old town covers 0.5 square kilometers.", "Over 100 buildings are listed as heritage.", "Flekkefjord received town rights in 1842.", "The old town population is about 500.", "Flekkefjord port was founded in the 16th century."],
     },
+    image: "/poi-images/norway-flekkefjord-old-town-history-v2.webp",
   },
   {
     id: "norway-arendal-tyholmen-history-v2",
@@ -1056,6 +1088,7 @@ export const norwayHistoryV2: POI[] = [
       ro: ["Situat pe o peninsulă în port.", "Incendiu mare: 12 august 1868.", "Cea mai veche casă: din secolul al XVII-lea.", "Număr de clădiri protejate: peste 100.", "Înălțimea pilonilor: până la 2 m deasupra apei.", "Suprafața Tyholmen: circa 0,3 km²."],
       en: ["Located on a peninsula in the harbour.", "Great fire on 12 August 1868.", "Oldest house: from the 17th century.", "Number of protected buildings: over 100.", "Piling height: up to 2 m above water.", "Area of Tyholmen: approx. 0.3 km²."],
     },
+    image: "/poi-images/norway-arendal-tyholmen-history-v2.webp",
   },
   {
     id: "norway-horten-naval-history-v2",
@@ -1088,6 +1121,7 @@ export const norwayHistoryV2: POI[] = [
       ro: ["Fondată în 1850 ca bază principală.", "Dezafectată în 2005.", "Docul uscat construit în 1863, lungime 120 m.", "Muzeul Naval deschis în 1964.", "Muzeul de Fotografie Preus deschis în 1976.", "Suprafața bazei: 0,8 km²."],
       en: ["Established in 1850 as main base.", "Decommissioned in 2005.", "Dry dock built in 1863, length 120 m.", "Naval Museum opened in 1964.", "Preus Museum of Photography opened in 1976.", "Base area: 0.8 km²."],
     },
+    image: "/poi-images/norway-horten-naval-history-v2.webp",
   },
   {
     id: "norway-eidsvoll-church-history-v2",
@@ -1120,6 +1154,7 @@ export const norwayHistoryV2: POI[] = [
       ro: ["Construită la sfârșitul secolului al XII-lea (cca 1180).", "Dedicată Sfântului Mântuitor.", "Pictura de altar din 1699.", "Capacitate: aproximativ 350 de locuri.", "Utilizată de Storting în 1814: 10 aprilie – 20 mai.", "Turnul clopotniță construit în 1695."],
       en: ["Built in late 12th century (ca. 1180).", "Dedicated to the Holy Redeemer.", "Altarpiece from 1699.", "Seating capacity: approx. 350.", "Used by Storting in 1814: 10 April to 20 May.", "Bell tower built in 1695."],
     },
+    image: "/poi-images/norway-eidsvoll-church-history-v2.webp",
   },
   {
     id: "norway-mosjoen-sjogata-history-v2",
@@ -1152,5 +1187,6 @@ export const norwayHistoryV2: POI[] = [
       ro: ["Cea mai veche casă: 1836.", "Mosjøen fondat în 1874.", "Lungimea străzii Sjøgata: aproximativ 500 m.", "Numărul caselor istorice din lemn: peste 80.", "Incendiul din 1893 a distrus 20 de case.", "Altitudine: 10 m deasupra nivelului mării."],
       en: ["Oldest house: 1836.", "Mosjøen founded in 1874.", "Length of Sjøgata: approx. 500 m.", "Number of historic wooden houses: over 80.", "Fire of 1893 destroyed 20 houses.", "Elevation: 10 m above sea level."],
     },
+    image: "/poi-images/norway-mosjoen-sjogata-history-v2.webp",
   }
 ];

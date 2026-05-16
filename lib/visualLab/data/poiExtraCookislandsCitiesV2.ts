@@ -31,6 +31,7 @@ export const cookislandsCitiesV2: POI[] = [
       ro: ["Populație: 5.000", "Suprafață: 2 km²", "Altitudine: 2 m", "Port: adâncime 10 m", "Piața Punanga Nui: sâmbăta", "Principalul export: perle negre"],
       en: ["Population: 5,000 (est. 2021)", "Area: 2 km²", "Elevation: 2 m", "Port depth: 10 m", "Main industry: tourism and pearl farming", "Annual cruise ship arrivals: 50"],
     },
+    image: "/poi-images/cookislands-avarua-cities-v2.webp",
   },
   {
     id: "cookislands-arutanga-cities-v2",
@@ -62,6 +63,7 @@ export const cookislandsCitiesV2: POI[] = [
       ro: ["Populație: 1.000", "Insula Aitutaki", "Biserica construită în 1820", "Adâncimea portului: 5 m", "Economie bazată pe turism", "Distanța până la aeroport: 2 km"],
       en: ["Population: 1,000", "Location: Aitutaki west coast", "Church built: 1820", "Port depth: 5 m", "Main industry: tourism", "Distance to airport: 2 km"],
     },
+    image: "/poi-images/cookislands-arutanga-cities-v2.webp",
   },
   {
     id: "cookislands-oneroa-cities-v2",
@@ -93,6 +95,7 @@ export const cookislandsCitiesV2: POI[] = [
       ro: ["Populație: 300", "Insula Mangaia", "Altitudine: 5 m", "Suprafața insulei: 51,8 km²", "Economie: agricultură și pescuit", "Număr de peșteri: peste 100"],
       en: ["Population: 300", "Location: Mangaia", "Elevation: 5 m", "Island area: 51.8 km²", "Main industries: agriculture and fishing", "Number of caves: over 100"],
     },
+    image: "/poi-images/cookislands-oneroa-cities-v2.webp",
   },
   {
     id: "cookislands-areora-cities-v2",
@@ -124,6 +127,7 @@ export const cookislandsCitiesV2: POI[] = [
       ro: ["Populație: 200", "Sudul insulei Mangaia", "Număr de peșteri: 50", "Școală fondată: 1950", "Culturi principale: taro", "Distanța până la Oneroa: 5 km"],
       en: ["Population: 200", "Location: southern Mangaia", "Caves: approx. 50", "School established: 1950", "Main crop: taro", "Distance to Oneroa: 5 km"],
     },
+    image: "/poi-images/cookislands-areora-cities-v2.webp",
   },
   {
     id: "cookislands-oiretumu-cities-v2",
@@ -155,6 +159,7 @@ export const cookislandsCitiesV2: POI[] = [
       ro: ["Populație: 150", "Nord-estul insulei Mangaia", "Suprafața satului: 0,5 km²", "Biserica construită: 1930", "Activitate principală: pescuit", "Număr de bărci: 10"],
       en: ["Population: 150", "Location: northeastern Mangaia", "Village area: 0.5 km²", "Church built: 1930", "Main activity: fishing", "Number of boats: 10"],
     },
+    image: "/poi-images/cookislands-oiretumu-cities-v2.webp",
   },
   {
     id: "cookislands-takaue-cities-v2",
@@ -186,6 +191,7 @@ export const cookislandsCitiesV2: POI[] = [
       ro: ["Populație: 300", "Coasta de nord a insulei Aitutaki", "Lungimea plajei: 2 km", "Număr de resorturi: 4", "Suprafața lagunei: 50 km²", "Marină: 1"],
       en: ["Population: 300", "Location: northern Aitutaki", "Beach length: 2 km", "Number of resorts: 4", "Lagoon area: 50 km²", "Marina: 1"],
     },
+    image: "/poi-images/cookislands-takaue-cities-v2.webp",
   },
   {
     id: "cookislands-omoka-cities-v2",
@@ -217,6 +223,7 @@ export const cookislandsCitiesV2: POI[] = [
       ro: ["Populație: 150", "Atolul Penrhyn", "Adâncimea lagunei: 30 m", "Producția anuală de copra: 50 de tone", "Biserica construită: 1850", "Număr de ferme de perle: 3"],
       en: ["Population: 150", "Atoll: Penrhyn", "Lagoon max depth: 30 m", "Annual copra production: 50 tons", "Church built: 1850", "Pearl farms: 3"],
     },
+    image: "/poi-images/cookislands-omoka-cities-v2.webp",
   },
   {
     id: "cookislands-tauhunu-cities-v2",
@@ -248,6 +255,7 @@ export const cookislandsCitiesV2: POI[] = [
       ro: ["Populație: 100", "Motu Tauhunu", "Distanța până la Omoka: 5 km", "Număr de case: 20", "Biserica construită: 1900", "Captură anuală de pește: 10 tone"],
       en: ["Population: 100", "Islet: Motu Tauhunu", "Distance to Omoka: 5 km", "Number of houses: 20", "Church built: 1900", "Annual fish catch: 10 tons"],
     },
+    image: "/poi-images/cookislands-tauhunu-cities-v2.webp",
   },
   {
     id: "cookislands-wale-cities-v2",
@@ -279,6 +287,7 @@ export const cookislandsCitiesV2: POI[] = [
       ro: ["Populație: 200", "Atolul Rakahanga", "Suprafața lagunei: 10 km²", "Producția de nucă de cocos: 100 tone anual", "Biserica construită: 1860", "Școală: 1"],
       en: ["Population: 200", "Atoll: Rakahanga", "Lagoon area: 10 km²", "Annual coconut production: 100 tons", "Church built: 1860", "Number of schools: 1"],
     },
+    image: "/poi-images/cookislands-wale-cities-v2.webp",
   },
   {
     id: "cookislands-arorangi-cities-v2",
@@ -310,6 +319,7 @@ export const cookislandsCitiesV2: POI[] = [
       ro: ["Populație: 1.000", "Coasta de vest a Rarotonga", "Biserica construită în 1839", "Plajă: nisip negru", "Număr de hoteluri: 5", "Rezervație marină: Laguna Aroa"],
       en: ["Population: 1,000", "Location: west Rarotonga", "Church built: 1839", "Beach: black sand", "Number of hotels: 5", "Marine reserve: Aroa Lagoon"],
     },
+    image: "/poi-images/cookislands-arorangi-cities-v2.webp",
   },
   {
     id: "cookislands-ngatangiia-cities-v2",
@@ -341,6 +351,7 @@ export const cookislandsCitiesV2: POI[] = [
       ro: ["Populație: 800", "Coasta de est a Rarotonga", "Biserica construită în 1830", "Suprafață culturi de taro: 20 ha", "Pasajul Avana: lungime 1 km", "Primii coloniști: cca. 1350 d.Hr."],
       en: ["Population: 800", "Location: east Rarotonga", "Church built: 1830", "Taro fields: 20 ha", "Avana Passage length: 1 km", "First settlement: c. 1350 AD"],
     },
+    image: "/poi-images/cookislands-ngatangiia-cities-v2.webp",
   },
   {
     id: "cookislands-titikaveka-cities-v2",
@@ -372,6 +383,7 @@ export const cookislandsCitiesV2: POI[] = [
       ro: ["Populație: 1.200", "Coasta de sud a Rarotonga", "Lungimea plajei: 3 km", "Grădini botanice: 2 ha", "Număr hoteluri: 6", "Temperatura apei: 26-30°C"],
       en: ["Population: 1,200", "Location: south Rarotonga", "Beach length: 3 km", "Botanical gardens area: 2 ha", "Number of hotels: 6", "Water temperature: 26-30°C"],
     },
+    image: "/poi-images/cookislands-titikaveka-cities-v2.webp",
   },
   {
     id: "cookislands-matavera-cities-v2",
@@ -403,6 +415,7 @@ export const cookislandsCitiesV2: POI[] = [
       ro: ["Populație: 800", "Coasta de nord-est a Rarotonga", "Suprafață agricolă: 10 km²", "Distanța până la aeroport: 2 km", "Biserica construită: 1840", "Cel mai înalt munte: Te Manga (653 m)"],
       en: ["Population: 800", "Location: northeast Rarotonga", "Agricultural area: 10 km²", "Distance to airport: 2 km", "Church built: 1840", "Highest peak: Te Manga (653 m)"],
     },
+    image: "/poi-images/cookislands-matavera-cities-v2.webp",
   },
   {
     id: "cookislands-nikao-cities-v2",
@@ -434,6 +447,7 @@ export const cookislandsCitiesV2: POI[] = [
       ro: ["Populație: 600", "Coasta de vest a Rarotonga", "Plajă: nisip negru", "Biserică: Nikao Church", "Distanța până la Avarua: 5 km", "Temperatura apei: 27°C"],
       en: ["Population: 600", "Location: west Rarotonga", "Beach type: black sand", "Church: Nikao Church", "Distance to Avarua: 5 km", "Water temperature: 27°C"],
     },
+    image: "/poi-images/cookislands-nikao-cities-v2.webp",
   },
   {
     id: "cookislands-vaipae-cities-v2",
@@ -465,5 +479,6 @@ export const cookislandsCitiesV2: POI[] = [
       ro: ["Populație: 300", "Coasta de est a Aitutaki", "Altitudine: 10 m", "Biserică: Vaipae Church", "Distanța până la Arutanga: 7 km", "Culturi principale: taro și banane"],
       en: ["Population: 300", "Location: east Aitutaki", "Elevation: 10 m", "Church: Vaipae Church", "Distance to Arutanga: 7 km", "Main crops: taro and bananas"],
     },
+    image: "/poi-images/cookislands-vaipae-cities-v2.webp",
   }
 ];

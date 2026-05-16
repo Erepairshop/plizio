@@ -1029,6 +1029,7 @@ export const belarusEconomicV2: POI[] = [
       ro: ["Fondată în anul 1870 de către prințul Fyodor Paskevich.", "Locul primei centrale hidroelectrice din Belarus (1889).", "A primit medalia de aur la Expoziția Industrială Panrusă în 1882.", "La sfârșitul secolului al XIX-lea, era cea mai mare fabrică de hârtie din Imperiul Rus.", "Clădirile istorice ale fabricii sunt realizate din cărămidă roșie caracteristică.", "Produce astăzi peste 200.000 de tone de carton cretat anual."],
       en: ["Founded in 1870 by Prince Fyodor Paskevich.", "Site of the first hydroelectric power plant in Belarus (1889).", "Awarded a gold medal at the All-Russian Industrial Exhibition in 1882.", "Was the largest paper mill in the Russian Empire at the end of the 19th century.", "The historic factory buildings are built of characteristic red brick.", "Today produces over 200,000 tons of coated cardboard annually."],
     },
+    image: "/poi-images/belarus-dobrush-paper-mill-economic-v2.webp",
   },
   {
     id: "belarus-beryoza-silica-brick-economic-v2",
@@ -1061,5 +1062,6 @@ export const belarusEconomicV2: POI[] = [
       ro: ["Fabrica a fost pusă oficial în funcțiune în anul 1958.", "Specializată în cărămizi din silicat și blocuri de beton celular.", "Situată în districtul Beryoza din regiunea Grodno.", "Exportă materiale de construcție în peste 10 țări diferite.", "Produce anual milioane de unități de cărămidă standard.", "Dispune de linii de producție automatizate moderne din Germania."],
       en: ["The plant was officially commissioned in 1958.", "Specializes in silica bricks and aerated concrete blocks.", "Located in the Beryoza district of the Grodno region.", "Exports construction materials to over 10 different countries.", "Produces millions of standard brick units annually.", "Features modern automated production lines imported from Germany."],
     },
+    image: "/poi-images/belarus-beryoza-silica-brick-economic-v2.webp",
   }
 ];

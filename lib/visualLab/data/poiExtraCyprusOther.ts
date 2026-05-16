@@ -645,6 +645,7 @@ export const cyprusOtherPoi: POI[] = [
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Cyprus Reptile Park (in Pafos Zoo) is located in Cyprus and is easily reached by car.", "The site features both native and introduced animal species.", "Multilingual signage helps both local and international families.", "Display panels explain conservation, breeding and reintroduction programmes.", "Shaded areas and drinking-water points keep visits comfortable in summer.", "Child-friendly play zones and picnic areas are integrated into the layout.", "It opens year round with fair admission and well-organised infrastructure."]
     },
+    image: "/poi-images/animal-habitat-cyprus-reptile-park-extra.webp",
   },
   {
     id: "animal-habitat-paramali-turtle-beach-extra",
@@ -913,6 +914,7 @@ export const cyprusOtherPoi: POI[] = [
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["WaterWorld Themed Waterpark Ayia Napa is specifically designed for families with kids and teens.", "Themed sections and interactive stations keep visits varied.", "Birthday and school packages broaden the offer further.", "Shade, baby-changing rooms and snack bars raise comfort levels.", "Several activities can be combined within a single day.", "The site is easily reached by car and often by bus too.", "Seasonal events keep the calendar lively across the year."]
     },
+    image: "/poi-images/kid-landmark-waterworld-waterpark-ayia-napa-extra.webp",
   },
   {
     id: "kid-landmark-fasouri-watermania-limassol-extra",
@@ -1761,6 +1763,7 @@ export const cyprusOtherPoi: POI[] = [
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Ktima Gerolemo Winery is a representative example of Cypriot Mediterranean farming.", "Cultivation and processing combine tradition with modern technology.", "Drip irrigation and integrated pest management are widely used.", "Seasonal harvests are paired with farm-gate sales and tastings.", "EU-aligned quality standards now shape most operations.", "Nearby trails and tavernas extend the experience into local cuisine.", "Family-run farms play a major role in rural community life."]
     },
+    image: "/poi-images/agriculture-ktima-gerolemo-winery-omosdos-extra.webp",
   },
   {
     id: "agriculture-tsiakkas-winery-pelendri-extra",
@@ -1936,6 +1939,7 @@ export const cyprusOtherPoi: POI[] = [
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["The Rose Factory Agros is a representative example of Cypriot Mediterranean farming.", "Cultivation and processing combine tradition with modern technology.", "Drip irrigation and integrated pest management are widely used.", "Seasonal harvests are paired with farm-gate sales and tastings.", "EU-aligned quality standards now shape most operations.", "Nearby trails and tavernas extend the experience into local cuisine.", "Family-run farms play a major role in rural community life."]
     },
+    image: "/poi-images/agriculture-agros-rose-factory-extra.webp",
   },
   {
     id: "agriculture-anogyra-carob-museum-extra",
@@ -2053,6 +2057,7 @@ export const cyprusOtherPoi: POI[] = [
       ro: ["Aceasta locație joaca un rol vital în conservarea patrimoniului național.", "Elementele structurale evidențiaza tehnicile de construcție din perioadele trecute.", "Siturile din vecinatate completeaza contextul istoric al locației.", "Activita?ile educative organizate aici atrag vizitatori din diverse domenii.", "Zona este recunoscuta pentru importan?a sa în dezvoltarea culturala locala.", "Vizitarea acestui loc ofera o experien?a autentica a vieții cipriote."],
       en: ["Krasochoria Wine Villages is a representative example of Cypriot Mediterranean farming.", "Cultivation and processing combine tradition with modern technology.", "Drip irrigation and integrated pest management are widely used.", "Seasonal harvests are paired with farm-gate sales and tastings.", "EU-aligned quality standards now shape most operations.", "Nearby trails and tavernas extend the experience into local cuisine.", "Family-run farms play a major role in rural community life."]
     },
+    image: "/poi-images/agriculture-krasochoria-wine-villages-extra.webp",
   },
   {
     id: "agriculture-hadjiantonas-farm-dali-extra",
@@ -2083,6 +2088,7 @@ export const cyprusOtherPoi: POI[] = [
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Hadjiantonas Farm (Halloumi) is a representative example of Cypriot Mediterranean farming.", "Cultivation and processing combine tradition with modern technology.", "Drip irrigation and integrated pest management are widely used.", "Seasonal harvests are paired with farm-gate sales and tastings.", "EU-aligned quality standards now shape most operations.", "Nearby trails and tavernas extend the experience into local cuisine.", "Family-run farms play a major role in rural community life."]
     },
+    image: "/poi-images/agriculture-hadjiantonas-farm-dali-extra.webp",
   },
   {
     id: "agriculture-golden-donkeys-olive-oil-extra",
@@ -2374,6 +2380,7 @@ export const cyprusOtherPoi: POI[] = [
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Agrovino Lofou (Wine & Traditions) is a representative example of Cypriot Mediterranean farming.", "Cultivation and processing combine tradition with modern technology.", "Drip irrigation and integrated pest management are widely used.", "Seasonal harvests are paired with farm-gate sales and tastings.", "EU-aligned quality standards now shape most operations.", "Nearby trails and tavernas extend the experience into local cuisine.", "Family-run farms play a major role in rural community life."]
     },
+    image: "/poi-images/agriculture-agrovino-lofou-extra.webp",
   },
   {
     id: "agriculture-commandaria-museum-zoopigi-extra",
@@ -2491,6 +2498,7 @@ export const cyprusOtherPoi: POI[] = [
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Bio Land Products is a representative example of Cypriot Mediterranean farming.", "Cultivation and processing combine tradition with modern technology.", "Drip irrigation and integrated pest management are widely used.", "Seasonal harvests are paired with farm-gate sales and tastings.", "EU-aligned quality standards now shape most operations.", "Nearby trails and tavernas extend the experience into local cuisine.", "Family-run farms play a major role in rural community life."]
     },
+    image: "/poi-images/agriculture-bio-land-products-larnaca-extra.webp",
   },
   {
     id: "agriculture-fito-winery-kato-platres-extra",
@@ -2643,6 +2651,7 @@ export const cyprusOtherPoi: POI[] = [
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Vassiliko Cement Works reflects Cyprus's economic diversity beyond tourism.", "Processing, logistics and crafts form the core pillars on site.", "Small family firms operate alongside more modern industrial plants.", "Digitalisation and clear environmental rules shape day-to-day operations.", "Transport corridors link the site efficiently with ports and cities.", "Residential and work areas often sit close to one another.", "Mainstream guidebooks rarely cover this side of the island in detail."]
     },
+    image: "/poi-images/industry-vassiliko-cement-works-extra.webp",
   },
   {
     id: "industry-vasilikos-power-station-extra",
@@ -2789,6 +2798,7 @@ export const cyprusOtherPoi: POI[] = [
       ro: ["Importan?a acestui sit este recunoscuta în plan local ?i regional.", "Tradițiile transmise aici au modelat identitatea comunitații respective.", "Zona reprezinta un punct de interes pentru cercetarea patrimoniului istoric.", "În cadrul sitului au avut loc multiple evenimente de promovare culturala.", "Infrastructura permite explorarea confortabila a elementelor de interes.", "Situl ramâne un reper pentru cei pasionați de istoria Ciprului."],
       en: ["Photos Photiades (Carlsberg) Brewery reflects Cyprus's economic diversity beyond tourism.", "Processing, logistics and crafts form the core pillars on site.", "Small family firms operate alongside more modern industrial plants.", "Digitalisation and clear environmental rules shape day-to-day operations.", "Transport corridors link the site efficiently with ports and cities.", "Residential and work areas often sit close to one another.", "Mainstream guidebooks rarely cover this side of the island in detail."]
     },
+    image: "/poi-images/industry-carlsberg-brewery-nicosia-extra.webp",
   },
   {
     id: "industry-larnaca-industrial-area-extra",
@@ -3521,6 +3531,7 @@ export const cyprusOtherPoi: POI[] = [
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Limassol Port is a key maritime hub in Cyprus.", "Shipping, fishing and tourism converge in the same area.", "Cargo quays, fishing basins and yacht berths can all coexist on site.", "Promenades, fish tavernas and small shops shape the harbour district.", "Modern navigation and safety systems support daily operations.", "The port illustrates the role of sea routes in island supply and exports.", "Boat trips and viewpoints add tourist appeal to the location."]
     },
+    image: "/poi-images/port-limassol-port-extra.webp",
   },
   {
     id: "port-larnaca-port-extra",
@@ -3696,6 +3707,7 @@ export const cyprusOtherPoi: POI[] = [
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Zygi Fishing Shelter & Marina is a key maritime hub in Cyprus.", "Shipping, fishing and tourism converge in the same area.", "Cargo quays, fishing basins and yacht berths can all coexist on site.", "Promenades, fish tavernas and small shops shape the harbour district.", "Modern navigation and safety systems support daily operations.", "The port illustrates the role of sea routes in island supply and exports.", "Boat trips and viewpoints add tourist appeal to the location."]
     },
+    image: "/poi-images/port-zygi-fishing-shelter-extra.webp",
   },
   {
     id: "port-ayia-napa-harbour-extra",
@@ -3784,6 +3796,7 @@ export const cyprusOtherPoi: POI[] = [
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Paphos International Airport (PFO) is a key maritime hub in Cyprus.", "Shipping, fishing and tourism converge in the same area.", "Cargo quays, fishing basins and yacht berths can all coexist on site.", "Promenades, fish tavernas and small shops shape the harbour district.", "Modern navigation and safety systems support daily operations.", "The port illustrates the role of sea routes in island supply and exports.", "Boat trips and viewpoints add tourist appeal to the location."]
     },
+    image: "/poi-images/port-paphos-international-airport-pfo-extra.webp",
   },
   {
     id: "port-ercan-international-airport-ecn-extra",
@@ -4278,6 +4291,7 @@ export const cyprusOtherPoi: POI[] = [
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Nicosia International Airport (Abandoned) is a key maritime hub in Cyprus.", "Shipping, fishing and tourism converge in the same area.", "Cargo quays, fishing basins and yacht berths can all coexist on site.", "Promenades, fish tavernas and small shops shape the harbour district.", "Modern navigation and safety systems support daily operations.", "The port illustrates the role of sea routes in island supply and exports.", "Boat trips and viewpoints add tourist appeal to the location."]
     },
+    image: "/poi-images/port-nicosia-international-airport-abandoned-extra.webp",
   },
   {
     id: "port-dps-dp-world-limassol-extra",
@@ -4308,6 +4322,7 @@ export const cyprusOtherPoi: POI[] = [
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["DP World Limassol Terminal is a key maritime hub in Cyprus.", "Shipping, fishing and tourism converge in the same area.", "Cargo quays, fishing basins and yacht berths can all coexist on site.", "Promenades, fish tavernas and small shops shape the harbour district.", "Modern navigation and safety systems support daily operations.", "The port illustrates the role of sea routes in island supply and exports.", "Boat trips and viewpoints add tourist appeal to the location."]
     },
+    image: "/poi-images/port-dps-dp-world-limassol-extra.webp",
   },
   {
     id: "port-eurogate-container-terminal-limassol-extra",
@@ -4402,6 +4417,7 @@ export const cyprusOtherPoi: POI[] = [
       ro: ["Situl are o relevan?a istorica majora în regiunea sa.", "Arhitectura reflecta influen?e culturale specifice Ciprului.", "Zona a beneficiat de numeroase proiecte de restaurare recente.", "Este o destinație preferata pentru studii istorice ?i culturale.", "Comunitatea locala pastreaza vii tradițiile legate de acest loc.", "Facilita?ile din apropiere ofera un acces facil vizitatorilor."],
       en: ["Troodos Mountains is one of the most striking mountain destinations in Cyprus.", "Altitude and climate generate a varied set of habitats.", "Endemic plants and animals are particularly visible here.", "Marked trails, huts and viewpoints support a wide range of hikers.", "Summer brings a cool, breezy alternative to the coast.", "Higher slopes can receive snow during the winter months.", "Surrounding villages and tavernas round out the experience."]
     },
+    image: "/poi-images/landscape-troodos-mountains-extra.webp",
   },
   {
     id: "landscape-cedar-valley-extra",

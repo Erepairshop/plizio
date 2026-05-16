@@ -884,6 +884,7 @@ export const poiExtraDe4b: POI[] = [
       ro: ["Saarbrücken a devenit capitala noului land Saarland în anul 1957.", "Biserica Ludwig este o capodoperă a arhitectului baroc Stengel.", "Orașul este situat direct la granița cu țara vecină, Franța.", "Castelul din Saarbrücken are o secțiune centrală modernă din sticlă.", "Grădina Germano-Franceză a fost inaugurată în anul 1960.", "Universitatea din Saarland își are sediul principal în oraș."],
       en: ["Saarbrücken became the capital of the state of Saarland in 1957.", "The Ludwigskirche is a masterpiece by the Baroque architect Stengel.", "The city is located directly on the border with neighboring France.", "Saarbrücken Castle features a modern central section made of glass.", "The Franco-German Garden was officially opened in the year 1960.", "The University of Saarland is headquartered within the city."],
     },
+    image: "/poi-images/state-capital-saarbruecken-sl-extra.webp",
   },
 
   {
@@ -1490,6 +1491,7 @@ export const poiExtraDe4b: POI[] = [
       ro: ["Fondarea muzeului în anul 1934, fiind unul dintre cele mai vechi din Germania", "Găzduit în turnul de apă Hindenburg, monument istoric", "Mină demonstrativă subterană vizitabilă cu utilaje originale", "Documentarea a peste 250 de ani de istorie a mineritului din Saarland", "Situat în perimetrul vast al parcului Blumengarten din Bexbach", "Colecție bogată de lămpi de minerit și unelte istorice"],
       en: ["Museum founded in 1934, making it one of the oldest in Germany", "Housed in the heritage-listed Hindenburg water tower", "Accessible underground show mine with original machinery", "Documentation of over 250 years of Saarland mining history", "Located within the extensive Bexbach Blumengarten park area", "Extensive collection of historic mining lamps and tools"],
     },
+    image: "/poi-images/industry-bergwerk-duhamel-sl-extra.webp",
   },
 
   {

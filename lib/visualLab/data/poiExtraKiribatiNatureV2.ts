@@ -31,6 +31,7 @@ export const kiribatiNatureV2: POI[] = [
       ro: ["Suprafață terestră: 321 km²", "Suprafață lagună: 324 km²", "Altitudine maximă: 12 m", "Populație: 6.000 (2020)", "Cel mai mare atol coralinian din lume (după suprafața terestră)", "Temperatura medie: 28 °C"],
       en: ["Land area: 321 km²", "Lagoon area: 324 km²", "Highest elevation: 12 m", "Population: 6,000 (2020)", "World's largest coral atoll by land area", "Average temperature: 28 °C"],
     },
+    image: "/poi-images/kiribati-kiritimati-nature-v2.webp",
   },
   {
     id: "kiribati-banaba-island-nature-v2",
@@ -62,6 +63,7 @@ export const kiribatiNatureV2: POI[] = [
       ro: ["Suprafață terestră: 6,5 km²", "Altitudine maximă: 81 m", "Populație: 300 (2020)", "Exploatare fosfați: 1900–1979", "Cantitate extrasă: 20 de milioane de tone", "Precipitații medii: 500 mm/an"],
       en: ["Land area: 6.5 km²", "Highest elevation: 81 m", "Population: 300 (2020)", "Phosphate mining: 1900–1979", "Total phosphate extracted: 20 million tons", "Average rainfall: 500 mm/year"],
     },
+    image: "/poi-images/kiribati-banaba-island-nature-v2.webp",
   },
   {
     id: "kiribati-teraina-nature-v2",
@@ -93,6 +95,7 @@ export const kiribatiNatureV2: POI[] = [
       ro: ["Suprafață: 14,3 km²", "Suprafața Lacului Temara: 1,5 km²", "Altitudine maximă: 5 m", "Populație: 1.800 (2020)", "Populația crabilor de cocos: estimată la 50.000", "Temperatura medie: 27 °C"],
       en: ["Area: 14.3 km²", "Lake Temara area: 1.5 km²", "Highest elevation: 5 m", "Population: 1,800 (2020)", "Coconut crab population: estimated 50,000", "Average temperature: 27 °C"],
     },
+    image: "/poi-images/kiribati-teraina-nature-v2.webp",
   },
   {
     id: "kiribati-tabuaeran-nature-v2",
@@ -124,6 +127,7 @@ export const kiribatiNatureV2: POI[] = [
       ro: ["Suprafață terestră: 33,7 km²", "Suprafața lagunei: 110 km²", "Populație: 2.500 (2020)", "Altitudine maximă: 3 m", "Nave de croazieră pe an: 10", "Populația chirei negre: estimată la 500.000"],
       en: ["Land area: 33.7 km²", "Lagoon area: 110 km²", "Population: 2,500 (2020)", "Highest elevation: 3 m", "Cruise ship visits per year: 10", "Sooty tern population: estimated 500,000"],
     },
+    image: "/poi-images/kiribati-tabuaeran-nature-v2.webp",
   },
   {
     id: "kiribati-butaritari-atoll-nature-v2",
@@ -155,6 +159,7 @@ export const kiribatiNatureV2: POI[] = [
       ro: ["Suprafață terestră: 13,5 km²", "Suprafața lagunei: 191 km²", "Populație: 4.000 (2020)", "Suprafața mangrove: 10 km²", "Altitudine maximă: 3 m", "Temperatura medie: 28 °C"],
       en: ["Land area: 13.5 km²", "Lagoon area: 191 km²", "Population: 4,000 (2020)", "Mangrove area: 10 km²", "Highest elevation: 3 m", "Average temperature: 28 °C"],
     },
+    image: "/poi-images/kiribati-butaritari-atoll-nature-v2.webp",
   },
   {
     id: "kiribati-nikumaroro-nature-v2",
@@ -186,6 +191,7 @@ export const kiribatiNatureV2: POI[] = [
       ro: ["Suprafață terestră: 4,1 km²", "Suprafața lagunei: 34 km²", "Altitudine maximă: 7 m", "Populație: nelocuită", "Pistă de aterizare armata SUA: 1943–1945", "Parte a Rezervației Naturale a Insulelor Phoenix din 2006"],
       en: ["Land area: 4.1 km²", "Lagoon area: 34 km²", "Highest elevation: 7 m", "Population: uninhabited", "US Army airstrip: 1943–1945", "Part of Phoenix Islands Protected Area since 2006"],
     },
+    image: "/poi-images/kiribati-nikumaroro-nature-v2.webp",
   },
   {
     id: "kiribati-caroline-atoll-nature-v2",
@@ -217,6 +223,7 @@ export const kiribatiNatureV2: POI[] = [
       ro: ["Suprafață terestră: 3,76 km²", "Suprafața lagunei: 24 km²", "Altitudine maximă: 6 m", "Populație: nelocuită", "Prima răsărire a soarelui în 2000: 5:43", "Parte a Rezervației Naturale a Insulelor Phoenix din 2006"],
       en: ["Land area: 3.76 km²", "Lagoon area: 24 km²", "Highest elevation: 6 m", "Population: uninhabited", "First sunrise of 2000: 5:43 AM", "Part of Phoenix Islands Protected Area since 2006"],
     },
+    image: "/poi-images/kiribati-caroline-atoll-nature-v2.webp",
   },
   {
     id: "kiribati-tarawa-lagoon-nature-v2",
@@ -248,6 +255,7 @@ export const kiribatiNatureV2: POI[] = [
       ro: ["Suprafața lagunei: 510 km²", "Adâncimea medie: 3 m", "Adâncimea maximă: 30 m", "Populația din Tarawa de Sud: 60.000 (2020)", "Bătălia de la Tarawa: noiembrie 1943", "Captură anuală de pește: 10.000 de tone"],
       en: ["Lagoon area: 510 km²", "Average depth: 3 m", "Maximum depth: 30 m", "South Tarawa population: 60,000 (2020)", "Battle of Tarawa: November 1943", "Annual fish catch: 10,000 tons"],
     },
+    image: "/poi-images/kiribati-tarawa-lagoon-nature-v2.webp",
   },
   {
     id: "kiribati-kanton-island-nature-v2",
@@ -279,6 +287,7 @@ export const kiribatiNatureV2: POI[] = [
       ro: ["Suprafață terestră: 9,0 km²", "Suprafața lagunei: 50 km²", "Populație: 30 (2020)", "Altitudine maximă: 8 m", "Pista construită: 1937", "Parte a Rezervației Naturale a Insulelor Phoenix din 2008"],
       en: ["Land area: 9.0 km²", "Lagoon area: 50 km²", "Population: 30 (2020)", "Highest elevation: 8 m", "Airstrip built: 1937", "Part of Phoenix Islands Protected Area since 2008"],
     },
+    image: "/poi-images/kiribati-kanton-island-nature-v2.webp",
   },
   {
     id: "kiribati-mckean-island-nature-v2",
@@ -310,6 +319,7 @@ export const kiribatiNatureV2: POI[] = [
       ro: ["Suprafață terestră: 0,57 km²", "Suprafața lagunei: 0,2 km²", "Altitudine maximă: 3 m", "Populație: nelocuită", "Populația chirei negre: 100.000 de perechi", "Parte a Rezervației Naturale a Insulelor Phoenix din 2008"],
       en: ["Land area: 0.57 km²", "Lagoon area: 0.2 km²", "Highest elevation: 3 m", "Population: uninhabited", "Sooty tern population: 100,000 breeding pairs", "Part of Phoenix Islands Protected Area since 2008"],
     },
+    image: "/poi-images/kiribati-mckean-island-nature-v2.webp",
   },
   {
     id: "kiribati-vostok-island-nature-v2",
@@ -341,6 +351,7 @@ export const kiribatiNatureV2: POI[] = [
       ro: ["Suprafață: 0,24 km²", "Altitudine maximă: 5 m", "Populație: nelocuită", "Fără lagună", "Populația de păsări marine: până la 500.000 de perechi", "Parte a Rezervației Naturale a Insulelor Phoenix din 2006"],
       en: ["Area: 0.24 km²", "Highest elevation: 5 m", "Population: uninhabited", "No lagoon", "Seabird population: up to 500,000 breeding pairs", "Part of Phoenix Islands Protected Area since 2006"],
     },
+    image: "/poi-images/kiribati-vostok-island-nature-v2.webp",
   },
   {
     id: "kiribati-flint-island-nature-v2",
@@ -372,6 +383,7 @@ export const kiribatiNatureV2: POI[] = [
       ro: ["Suprafață terestră: 3,0 km²", "Lagună: 0,5 km²", "Altitudine maximă: 8 m", "Populație: nelocuită", "Exploatare guano: 1870–1890", "Parte a Rezervației Naturale a Insulelor Phoenix din 2006"],
       en: ["Land area: 3.0 km²", "Lagoon: 0.5 km²", "Highest elevation: 8 m", "Population: uninhabited", "Guano mining: 1870–1890", "Part of Phoenix Islands Protected Area since 2006"],
     },
+    image: "/poi-images/kiribati-flint-island-nature-v2.webp",
   },
   {
     id: "kiribati-starbuck-island-nature-v2",
@@ -403,6 +415,7 @@ export const kiribatiNatureV2: POI[] = [
       ro: ["Suprafață terestră: 8,9 km²", "Suprafața lagunei: 25 km²", "Altitudine maximă: 8 m", "Populație: nelocuită", "Populația chirei negre: 5 milioane de perechi", "Parte a Rezervației Naturale a Insulelor Phoenix din 2006"],
       en: ["Land area: 8.9 km²", "Lagoon area: 25 km²", "Highest elevation: 8 m", "Population: uninhabited", "Sooty tern population: 5 million breeding pairs", "Part of Phoenix Islands Protected Area since 2006"],
     },
+    image: "/poi-images/kiribati-starbuck-island-nature-v2.webp",
   },
   {
     id: "kiribati-malden-island-nature-v2",
@@ -434,6 +447,7 @@ export const kiribatiNatureV2: POI[] = [
       ro: ["Suprafață terestră: 39,3 km²", "Suprafața lagunei: 10 km²", "Altitudine maximă: 8 m", "Populație: nelocuită", "Exploatare guano: 1860–1927", "Parte a Rezervației Naturale a Insulelor Phoenix din 2006"],
       en: ["Land area: 39.3 km²", "Lagoon area: 10 km²", "Highest elevation: 8 m", "Population: uninhabited", "Guano mining: 1860–1927", "Part of Phoenix Islands Protected Area since 2006"],
     },
+    image: "/poi-images/kiribati-malden-island-nature-v2.webp",
   },
   {
     id: "kiribati-enderbury-island-nature-v2",
@@ -465,6 +479,7 @@ export const kiribatiNatureV2: POI[] = [
       ro: ["Suprafață: 5,3 km²", "Altitudine maximă: 3,5 m", "Descoperită: 1823 de căpitanul J. P. Enderbury", "Parte a Zonei Protejate a Insulelor Phoenix din 2008", "Populație: 0", "Precipitații medii anuale: cca. 500 mm"],
       en: ["Area: 5.3 km²", "Maximum elevation: 3.5 m", "Discovered: 1823 by Captain J. P. Enderbury", "Part of Phoenix Islands Protected Area since 2008", "Population: 0", "Average annual rainfall: approx. 500 mm"],
     },
+    image: "/poi-images/kiribati-enderbury-island-nature-v2.webp",
   },
   {
     id: "kiribati-birnie-island-nature-v2",
@@ -496,6 +511,7 @@ export const kiribatiNatureV2: POI[] = [
       ro: ["Suprafață: 0,2 km²", "Altitudine maximă: 2 m", "Descoperită: 1823 de James Birnie", "Loc de cuibărit pentru țestoasa verde de mare", "Exploatare de guano în secolul al XIX-lea", "Parte a Zonei Protejate a Insulelor Phoenix"],
       en: ["Area: 0.2 km²", "Maximum elevation: 2 m", "Discovered: 1823 by James Birnie", "Important nesting site for green sea turtles", "Guano mining in the 19th century", "Part of Phoenix Islands Protected Area"],
     },
+    image: "/poi-images/kiribati-birnie-island-nature-v2.webp",
   },
   {
     id: "kiribati-rawaki-island-nature-v2",
@@ -527,6 +543,7 @@ export const kiribatiNatureV2: POI[] = [
       ro: ["Suprafață: 0,5 km²", "Altitudine maximă: 2 m", "Descoperită: 1606 de Pedro Fernandes de Queirós", "Lac central hipersalin: Laguna", "Loc de cuibărit pentru sula cu picioare roșii", "Parte a Patrimoniului Mondial UNESCO"],
       en: ["Area: 0.5 km²", "Maximum elevation: 2 m", "Discovered: 1606 by Pedro Fernandes de Queirós", "Central hypersaline lake: Laguna", "Important breeding site for red-footed booby", "Part of UNESCO World Heritage Phoenix Islands Protected Area"],
     },
+    image: "/poi-images/kiribati-rawaki-island-nature-v2.webp",
   },
   {
     id: "kiribati-manra-island-nature-v2",
@@ -558,6 +575,7 @@ export const kiribatiNatureV2: POI[] = [
       ro: ["Suprafață: 4,4 km²", "Altitudine maximă: 3 m", "Urme de așezări polineziene", "Exploatare de guano în secolul al XIX-lea", "Escală pentru Amelia Earhart în 1937", "Parte a Zonei Protejate a Insulelor Phoenix"],
       en: ["Area: 4.4 km²", "Maximum elevation: 3 m", "Evidence of former Polynesian settlement", "Guano mining in the 19th century", "Stopover for Amelia Earhart in 1937", "Part of Phoenix Islands Protected Area"],
     },
+    image: "/poi-images/kiribati-manra-island-nature-v2.webp",
   },
   {
     id: "kiribati-orona-island-nature-v2",
@@ -589,6 +607,7 @@ export const kiribatiNatureV2: POI[] = [
       ro: ["Suprafață: 8,5 km²", "Altitudine maximă: 4 m", "Suprafața lagunei: cca. 30 km²", "Așezare britanică 1938-1963", "Loc de cuibărit pentru țestoasa verde de mare", "Parte a Patrimoniului Mondial UNESCO"],
       en: ["Area: 8.5 km²", "Maximum elevation: 4 m", "Lagoon area: approx. 30 km²", "British settlement 1938-1963", "Important nesting site for green sea turtles", "Part of UNESCO World Heritage"],
     },
+    image: "/poi-images/kiribati-orona-island-nature-v2.webp",
   },
   {
     id: "kiribati-birnie-bird-reserve-nature-v2",
@@ -620,6 +639,7 @@ export const kiribatiNatureV2: POI[] = [
       ro: ["Înființată: 2008 ca parte a Zonei Protejate a Insulelor Phoenix", "Suprafață: 0,2 km²", "Specii protejate: chiră de fum, sula cu picioare roșii", "Fără populație umană", "Altitudine maximă: 2 m", "Parte a Patrimoniului Mondial UNESCO"],
       en: ["Established: 2008 as part of Phoenix Islands Protected Area", "Area: 0.2 km²", "Protected species: sooty tern, red-footed booby", "No human population", "Maximum elevation: 2 m", "Part of UNESCO World Heritage"],
     },
+    image: "/poi-images/kiribati-birnie-bird-reserve-nature-v2.webp",
   },
   {
     id: "kiribati-fanning-coral-gardens-nature-v2",
@@ -651,6 +671,7 @@ export const kiribatiNatureV2: POI[] = [
       ro: ["Locație: Insula Fanning (Tabuaeran)", "Specii de corali: masă, creieri, moi", "Vizibilitate: adesea peste 20 m", "Vizitatori: nave de croazieră", "Adâncime: până la 30 m", "Specii protejate: țestoase marine, rechini de recif"],
       en: ["Location: Fanning Island (Tabuaeran)", "Coral species: table, brain, soft corals", "Visibility: often over 20 m", "Visitors: cruise ships", "Depth: up to 30 m", "Protected species: sea turtles, reef sharks"],
     },
+    image: "/poi-images/kiribati-fanning-coral-gardens-nature-v2.webp",
   },
   {
     id: "kiribati-abaing-lagoon-nature-v2",
@@ -682,6 +703,7 @@ export const kiribatiNatureV2: POI[] = [
       ro: ["Suprafața lagunei: 132 km²", "Suprafața atolului: 31 km²", "Populație: cca. 5.500", "Păduri de mangrove de-a lungul coastei", "Zonă principală de pescuit", "Insule: 17 motus în jurul lagunei"],
       en: ["Lagoon area: 132 km²", "Atoll area: 31 km²", "Population: approx. 5,500", "Mangrove forests along shoreline", "Primary fishing area", "Islands: 17 motus around the lagoon"],
     },
+    image: "/poi-images/kiribati-abaing-lagoon-nature-v2.webp",
   },
   {
     id: "kiribati-millennium-marine-park-nature-v2",
@@ -713,5 +735,6 @@ export const kiribatiNatureV2: POI[] = [
       ro: ["Suprafață: 80 km²", "Înființat: 2000", "Specii protejate: rechini de recif, raze manta", "Recife de corali și mangrove", "Locație: atolul Kiritimati", "Vizibilitate pentru scufundări: până la 30 m"],
       en: ["Area: 80 km²", "Established: 2000", "Protected species: reef sharks, manta rays", "Coral reefs and mangroves", "Location: Kiritimati Atoll", "Diving visibility: up to 30 m"],
     },
+    image: "/poi-images/kiribati-millennium-marine-park-nature-v2.webp",
   }
 ];

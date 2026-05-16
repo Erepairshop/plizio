@@ -91,6 +91,7 @@ export const spainCitiesExtra: POI[] = [
         "The city has a population of roughly 1.6 million within its administrative limits, making it Spain's second-largest city."
       ]
     },
+    image: "/poi-images/ES-BCN.webp",
   }
 ];
 export default spainCitiesExtra;

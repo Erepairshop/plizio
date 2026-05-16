@@ -979,7 +979,8 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       ],
       ro: ["Fondată în 1915, inițial pentru producția de avioane și motoare de avion.", "Factory 56 utilizează o rețea 5G privată pentru controlul tuturor roboților și sistemelor.", "Peste 35.000 de angajați lucrează în acest complex industrial vast.", "Găzduiește cel mai modern centru de simulare a coliziunilor (Crash-Test) din lume.", "Centrul de Design Mercedes-Benz, situat aici, definește limbajul vizual al mărcii la nivel global.", "Producția se bazează pe energia verde, având un acoperiș acoperit cu sisteme fotovoltaice."],
       en: ["The plant was founded in 1915, originally for aircraft production.", "Home to 'Factory 56', one of the world's most modern assembly lines.", "Serves as the lead plant for the S-Class and Maybach models.", "The site covers a massive area of over 2.9 million square meters.", "Employs approximately 35,000 highly skilled workers.", "Produces the flagship electric sedan, the Mercedes-Benz EQS."]
-    }
+    },
+    image: "/poi-images/industry-mercedes-sindelfingen-extra.webp",
   },
   {
     id: "industry-bosch-feuerbach-extra",
@@ -1189,7 +1190,8 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["A finomító alapkövét 1960. november 11-én rakták le.", "Évente 11,6-12 millió tonna nyersolajat képes feldolgozni.", "Németország teljes üzemanyag-termelésének kb. 10%-át adja.", "Berlin és Brandenburg üzemanyag-ellátásának 95%-át ez a gyár biztosítja.", "Körülbelül 1200 közvetlen és 2000 külső munkavállalót foglalkoztat.", "Jelenleg zajlik az átállás a megújuló energiaforrásokra és hidrogénre."],
       ro: ["Rafinăria procesează aproximativ 10% din necesarul total de motorină al Germaniei.", "Conducta 'Prietenia' leagă direct rafinăria de zăcămintele de petrol din est.", "Aproape toate vehiculele din Berlin și Brandenburg circulă cu combustibil de la Schwedt.", "Situl industrial ocupă o suprafață de peste 1.300 de hectare.", "Rafinăria are propriul port pe canalul Hohensaaten-Friedrichsthal.", "Planul 'PCK 2030' vizează transformarea sitului într-un hub de energie regenerabilă."],
       en: ["Supplies around 90% of the fuel for the Berlin-Brandenburg region.", "Strategically located at the terminus of the Druzhba pipeline.", "Processes up to 12 million tons of crude oil annually.", "Currently transitioning to green hydrogen and sustainable fuels.", "One of the most important industrial employers in East Brandenburg.", "Spans a massive area of approximately 1,300 hectares."]
-    }
+    },
+    image: "/poi-images/industry-pck-schwedt-extra.webp",
   },
   {
     id: "industry-mercedes-bremen-extra",
@@ -1288,6 +1290,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       ro: ["Suprafața fabricii se întinde pe aproximativ 500 de hectare.", "Pista de decolare și aterizare 15/33 are o lungime de 3.183 de metri.", "Hamburg este al treilea cel mai mare centru al industriei aeronautice din lume, după Toulouse și Seattle.", "Linia de asamblare finală pentru A321XLR a fost deschisă oficial în anul 2023.", "Până la oprirea producției în 2021, aici au fost fabricate părți esențiale ale modelului A380.", "Fabrica dispune de propriul terminal de feribot pentru transportul angajaților peste Elba."],
       en: ["The factory premises cover an area of approximately 500 hectares.", "Runway 15/33 has a total length of 3,183 meters.", "Hamburg is the world's third-largest aviation industry hub after Toulouse and Seattle.", "The final assembly line for the A321XLR was officially opened in 2023.", "Major components of the A380 were manufactured here until production ended in 2021.", "The plant has its own ferry pier for transporting employees across the Elbe."],
     },
+    image: "/poi-images/industry-airbus-hamburg-extra.webp",
   },
   {
     id: "industry-industriepark-hoechst-extra",
@@ -1355,7 +1358,8 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       ],
       ro: ["Adam Opel a început afacerea în 1862 producând mașini de cusut și ulterior biciclete.", "Producția de automobile a început în Rüsselsheim în anul 1899.", "Aici s-a instalat prima linie de asamblare mobilă din Germania în anul 1924.", "Situl găzduiește Centrul Internațional de Dezvoltare Tehnică (ITDC).", "Gara din Rüsselsheim este situată strategic chiar lângă porțile fabricii.", "Marca Opel a fost achiziționată de General Motors în 1929 și ulterior de Stellantis în 2021."],
       en: ["The historic headquarters of Opel, founded in 1862.", "Produces the Opel Astra and the premium DS 4 model.", "The Rüsselsheim R&D center is a key part of the Stellantis group.", "Transitioned from sewing machines to cars at the end of the 19th century.", "One of the most modern and efficient car plants in Europe.", "Home to a massive logistics center and international parts hub."]
-    }
+    },
+    image: "/poi-images/industry-opel-ruesselsheim-extra.webp",
   },
   {
     id: "industry-mv-werften-rostock-extra",
@@ -1959,6 +1963,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       hu: ["Carl Zeiss 1846-ban alapította meg optikai műhelyét Jénában.", "Ernst Abbe itt fektette le az optika tudományos alapjait 1866-ban.", "Itt fejlesztették ki a világ első planetáriumi vetítőgépét.", "Jéna a ZEISS orvostechnikai és mikroszkópi üzletágának központja.", "A ZEISS éves árbevételének több mint 10%-át kutatásra és fejlesztésre fordítja.", "A telephelyen több mint 3000 munkavállaló dolgozik a kutatásban és gyártásban."],
       ro: ["Fondarea atelierului optic de către Carl Zeiss în anul 1846.", "Ernst Abbe a stabilit aici bazele științifice ale opticii în 1866.", "Primul proiector de planetariu din lume a fost dezvoltat în Jena.", "Jena este sediul central pentru diviziile de tehnologie medicală și microscopie ale ZEISS.", "ZEISS investește anual peste 10% din cifra de afaceri în cercetare și dezvoltare.", "Locația are peste 3.000 de angajați în cercetare și producție."],
       en: ["Foundation of the optical workshop by Carl Zeiss in 1846.", "Ernst Abbe established the scientific foundations of optics here in 1866.", "The world's first planetarium projector was developed in Jena.", "Jena is the headquarters for ZEISS's medical technology and microscopy divisions.", "ZEISS invests more than 10% of its annual revenue in research and development.", "The site employs over 3,000 people in research and manufacturing."]
-    }
+    },
+    image: "/poi-images/industry-zeiss-jena-extra.webp",
   }
 ];

@@ -31,6 +31,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Populația Monroviei: aproximativ 1,5 milioane (2020).", "Orașul a fost fondat în 1822 de către coloniști americano-liberieni.", "Portul liber Monrovia manipulează peste 90% din importurile și exporturile Liberiei.", "Precipitațiile anuale depășesc 4.000 mm, făcând din Monrovia unul dintre cele mai ploioase orașe de coastă din Africa.", "Aeroportul Internațional Roberts se află la 56 km est de centrul orașului.", "Monrovia este formată din 10 districte administrative."],
       en: ["Population: 1.5 million (2020 estimate), making it the most populous city in Liberia.", "Founded in 1822 by the American Colonization Society.", "The Freeport of Monrovia, opened in 1948, handles over 90% of Liberia's seaborne trade.", "Annual rainfall averages 4,500 mm (177 inches), with a peak in June-July.", "Coordinates: 6°18′N 10°48′W.", "The city has a land area of approximately 75 square kilometers (29 sq mi)."],
     },
+    image: "/poi-images/liberia-monrovia-cities-v2.webp",
   },
   {
     id: "liberia-gbanga-cities-v2",
@@ -62,6 +63,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Populația orașului Gbarnga: aproximativ 40.000 (2022).", "Distanța până la Monrovia: 200 km pe drumul principal.", "Universitatea Cuttington are aproximativ 2.000 de studenți.", "Gbarnga se află la o altitudine de 250 m deasupra nivelului mării.", "Cultura principală este maniocul, cu o producție anuală de circa 50.000 de tone.", "Orașul este împărțit în 5 districte administrative."],
       en: ["Population: 40,000 (2022 estimate).", "Elevation: 250 meters (820 feet) above sea level.", "Coordinates: 6°59′N 9°28′W.", "Cuttington University, founded in 1889, is one of the oldest private universities in sub-Saharan Africa.", "The main agricultural product is cassava, with over 50% of farmland dedicated to its cultivation.", "Gbarnga experiences a tropical monsoon climate with an average annual rainfall of 3,000 mm."],
     },
+    image: "/poi-images/liberia-gbanga-cities-v2.webp",
   },
   {
     id: "liberia-buchanan-cities-v2",
@@ -93,6 +95,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Populația orașului Buchanan: 80.000 (estimare 2022).", "Portul Buchanan a fost construit în 1963 pentru exportul de minereu de fier.", "Orașul a fost fondat în 1835 de coloniști americano-liberieni.", "Calea ferată către Nimba are o lungime de 267 km.", "Buchanan este situat la 0 m altitudine (la nivelul mării).", "Principala cultură agricolă din zonă este cauciucul (Hevea brasiliensis)."],
       en: ["Population: 80,000 (2022 estimate).", "Founded: 1835.", "The port of Buchanan was built in 1963, with a depth of 12 meters, capable of handling bulk carriers.", "Coordinates: 5°53′N 10°03′W.", "The city lies on the St. John River delta, with an elevation of 0 meters at the coast.", "The railway connecting Buchanan to the Nimba iron ore mines is 267 km (166 miles) long."],
     },
+    image: "/poi-images/liberia-buchanan-cities-v2.webp",
   },
   {
     id: "liberia-kakata-cities-v2",
@@ -124,6 +127,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Populația orașului Kakata: 50.000 (estimare 2022).", "Distanța până la Monrovia: 50 km pe șosea.", "Institutul de Formare a Profesorilor a fost fondat în 1963.", "Altitudinea orașului: 100 m deasupra nivelului mării.", "Precipitațiile anuale medii: 3.200 mm.", "Principala sursă de venit: agricultura de subzistență."],
       en: ["Population: 50,000 (2022 estimate).", "Distance from Monrovia: 50 km (31 miles) northeast.", "Kakata Rural Teacher Training Institute established in 1963.", "Elevation: 100 meters (330 feet).", "Coordinates: 6°31′N 10°21′W.", "Main agricultural products: cassava, rice, and vegetables."],
     },
+    image: "/poi-images/liberia-kakata-cities-v2.webp",
   },
   {
     id: "liberia-zwedru-cities-v2",
@@ -155,6 +159,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Populația orașului Zwedru: 30.000 (2022).", "Distanța până la Monrovia: 300 km (aproximativ 8 ore cu mașina).", "Altitudinea: 200 m deasupra nivelului mării.", "Precipitațiile anuale medii: 2.500 mm.", "Producția de cafea arabică este de aproximativ 200 de tone pe an.", "Aeroportul Zwedru are o pistă de 1.200 m."],
       en: ["Population: 30,000 (2022 estimate).", "Coordinates: 6°03′N 8°09′W.", "Elevation: 200 meters (656 feet).", "Distance from Monrovia: 300 km (186 miles) by road.", "Average annual rainfall: 2,500 mm (98 inches).", "Artisanal diamond mining contributes an estimated 40% of the local economy."],
     },
+    image: "/poi-images/liberia-zwedru-cities-v2.webp",
   },
   {
     id: "liberia-harper-cities-v2",
@@ -186,6 +191,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Populația orașului Harper: 25.000 (2022).", "Farul Cape Palmas a fost construit în 1855, are o înălțime de 20 m.", "Orașul a fost fondat în 1834 de coloniști americano-liberieni.", "Coordonate: 4°22′N 7°43′V.", "Precipitațiile anuale medii depășesc 3.000 mm.", "Principala activitate economică: pescuitul (aproximativ 1.000 de pescari)."],
       en: ["Population: 25,000 (2022 estimate).", "Cape Palmas Lighthouse height: 20 meters (66 feet), built in 1855.", "Coordinates: 4°22′N 7°43′W.", "Elevation: 0 meters (sea level).", "Annual rainfall: 3,000 mm (118 inches).", "Harper was originally named Mississippi in Africa when founded in 1834."],
     },
+    image: "/poi-images/liberia-harper-cities-v2.webp",
   },
   {
     id: "liberia-voinjama-cities-v2",
@@ -217,6 +223,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Populația orașului Voinjama: 40.000 (2022).", "Distanța până la Monrovia: 400 km (aproximativ 10 ore cu mașina).", "Altitudinea: 350 m.", "Precipitațiile anuale: 2.800 mm.", "Producția de cafea robustă este de aproximativ 150 de tone pe an.", "Aeroportul Voinjama are o pistă de 1.000 m."],
       en: ["Population: 40,000 (2022 estimate).", "Coordinates: 8°22′N 9°45′W.", "Elevation: 350 meters (1,148 feet).", "Distance from Monrovia: 400 km (250 miles) northwest.", "Average annual rainfall: 2,800 mm (110 inches).", "The main ethnic groups are Loma (92%) and Kpelle (4%)."],
     },
+    image: "/poi-images/liberia-voinjama-cities-v2.webp",
   },
   {
     id: "liberia-greenville-cities-v2",
@@ -248,6 +255,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Populația Greenville: 30.000 (2022).", "Orașul a fost fondat în 1838.", "Portul are o adâncime de 3 m și poate găzdui ambarcațiuni mici.", "Precipitațiile anuale medii: 3.800 mm.", "Coordonate: 5°00′N 9°02′V.", "Principalele produse agricole: orez, cauciuc, ulei de palmier."],
       en: ["Population: 30,000 (2022 estimate).", "Founded: 1838.", "Coordinates: 5°00′N 9°02′W.", "Elevation: 0 meters (sea level).", "Annual rainfall: 3,800 mm (150 inches).", "Greenville is one of the oldest continuously inhabited settlements in Liberia."],
     },
+    image: "/poi-images/liberia-greenville-cities-v2.webp",
   },
   {
     id: "liberia-tubmanburg-cities-v2",
@@ -279,6 +287,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Populația Tubmanburg: 30.000 (2022).", "Distanța până la Monrovia: 90 km.", "Minele de fier au fost închise în 1977.", "Precipitațiile anuale medii: 3.500 mm.", "Altitudinea: 50 m deasupra nivelului mării.", "Orașul a fost fondat în anii 1950."],
       en: ["Population: 30,000 (2022 estimate).", "Distance from Monrovia: 90 km (56 miles) northwest.", "Iron ore mines operated from 1951 to 1977.", "Elevation: 50 meters (164 feet).", "Coordinates: 6°52′N 10°52′W.", "Annual rainfall: 3,500 mm (138 inches)."],
     },
+    image: "/poi-images/liberia-tubmanburg-cities-v2.webp",
   },
   {
     id: "liberia-celtown-cities-v2",
@@ -310,6 +319,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Populația Celtown: 15.000 (2022).", "Distanța până la Monrovia: 100 km.", "Altitudinea: 60 m.", "Precipitațiile anuale: 3.400 mm.", "Nu există electricitate în majoritatea gospodăriilor.", "Principala cultură: maniocul (80% din terenul agricol)."],
       en: ["Population: 15,000 (2022 estimate).", "Coordinates: 6°50′N 10°50′W (approximate).", "Elevation: 60 meters (197 feet).", "Annual rainfall: 3,400 mm (134 inches).", "Distance to Tubmanburg: 20 km (12 miles) on unpaved road.", "Literacy rate: estimated below 30%."],
     },
+    image: "/poi-images/liberia-celtown-cities-v2.webp",
   },
   {
     id: "liberia-pleebo-cities-v2",
@@ -341,6 +351,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Populația Pleebo: 25.000 (2022).", "Distanța până la granița cu Coasta de Fildeș: 20 km.", "Altitudinea: 100 m.", "Precipitațiile anuale medii: 3.000 mm.", "Principala cultură: palmierul uleios (producție anuală de 1.000 de tone de ulei).", "Orașul are un spital construit cu ajutor chinez în 2015."],
       en: ["Population: 25,000 (2022 estimate).", "Coordinates: 4°53′N 7°55′W.", "Elevation: 100 meters (328 feet).", "Annual rainfall: 3,000 mm (118 inches).", "Distance to Ivory Coast border: 20 km (12 miles).", "Main ethnic group: Grebo (80% of population)."],
     },
+    image: "/poi-images/liberia-pleebo-cities-v2.webp",
   },
   {
     id: "liberia-bentol-cities-v2",
@@ -372,6 +383,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Populația Bentol: 10.000 (2022).", "Distanța până la frontiera cu Guinea: 20 km.", "Altitudinea: 250 m.", "Precipitațiile anuale: 2.500 mm.", "Nu există electricitate în rețeaua publică.", "Culturile principale: orez și manioc."],
       en: ["Population: 10,000 (2022 estimate).", "Coordinates: 7°30′N 9°20′W (approximate).", "Elevation: 250 meters (820 feet).", "Annual rainfall: 2,500 mm (98 inches).", "Distance to Guinea border: 20 km (12 miles).", "Primary school enrollment: estimated 40% of children."],
     },
+    image: "/poi-images/liberia-bentol-cities-v2.webp",
   },
   {
     id: "liberia-cain-cities-v2",
@@ -403,6 +415,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Populația Cain: 8.000 (2022).", "Distanța până la Voinjama: 50 km.", "Altitudinea: 300 m.", "Precipitațiile anuale: 2.600 mm.", "Nu există rețea electrică publică.", "Principala cultură: orez (60% din terenuri)."],
       en: ["Population: 8,000 (2022 estimate).", "Coordinates: 7°50′N 9°40′W (approximate).", "Elevation: 300 meters (984 feet).", "Annual rainfall: 2,600 mm (102 inches).", "Distance to Voinjama: 50 km (31 miles).", "The town is not connected to the national power grid."],
     },
+    image: "/poi-images/liberia-cain-cities-v2.webp",
   },
   {
     id: "liberia-sanniquellie-cities-v2",
@@ -434,6 +447,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Populația Sanniquellie: 20.000 (2022).", "Orașul se află la intersecția granițelor cu Guinea și Coasta de Fildeș.", "Altitudinea: 400 m.", "Precipitațiile anuale: 2.800 mm.", "Rezervația Muntele Nimba se află la 30 km sud-est.", "Mineritul de fier a fost principala industrie timp de 27 de ani."],
       en: ["Population: 20,000 (2022 estimate).", "Coordinates: 6°59′N 8°44′W.", "Elevation: 400 meters (1,312 feet).", "Annual rainfall: 2,800 mm (110 inches).", "Distance to Mount Nimba Reserve: 30 km (19 miles).", "Iron ore mining by Lamco ceased in 1990 after producing over 200 million tons."],
     },
+    image: "/poi-images/liberia-sanniquellie-cities-v2.webp",
   },
   {
     id: "liberia-cestos-cities-v2",
@@ -465,6 +479,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Populația Cestos City: 15.000 (2022).", "Orașul este situat la confluența râurilor Cestos și Kwen.", "Portul fluvial se află la 30 km de Oceanul Atlantic.", "Precipitațiile anuale medii: 4.000 mm.", "Altitudinea: 10 m deasupra nivelului mării.", "Accesul principal este pe cale fluvială."],
       en: ["Population: 15,000 (2022 estimate).", "Coordinates: 5°20′N 9°20′W (approximate).", "Elevation: 10 meters (33 feet).", "Annual rainfall: 4,000 mm (157 inches), among the highest in Liberia.", "The Cestos River is navigable for small boats up to 30 km inland.", "River Cess County is one of the least developed counties in Liberia."],
     },
+    image: "/poi-images/liberia-cestos-cities-v2.webp",
   },
   {
     id: "liberia-barclayville-cities-v2",
@@ -496,6 +511,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Populația Barclayville: 10.000 (2022).", "Orașul poartă numele președintelui Arthur Barclay.", "Debarcaderul are o lungime de 50 m.", "Precipitațiile anuale medii: 3.200 mm.", "Altitudinea: 5 m deasupra nivelului mării.", "Distanța până la Harper: 100 km."],
       en: ["Population: 10,000 (2022 estimate).", "Coordinates: 4°40′N 8°12′W (approximate).", "Elevation: 5 meters (16 feet) above sea level.", "Annual rainfall: 3,200 mm (126 inches).", "Named after President Arthur Barclay, who served from 1904 to 1912.", "Grand Kru County has a poverty rate of over 80%."],
     },
+    image: "/poi-images/liberia-barclayville-cities-v2.webp",
   },
   {
     id: "liberia-bopolu-cities-v2",
@@ -527,6 +543,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Populația Bopolu: 15.000 (2022).", "Distanța până la Monrovia: 150 km.", "Altitudinea: 150 m.", "Precipitațiile anuale: 3.000 mm.", "Aproximativ 500 de mineri artizanali exploatează diamantele din zonă.", "Numele înseamnă 'loc de întâlnire' în limba locală."],
       en: ["Population: 15,000 (2022 estimate).", "Coordinates: 7°10′N 10°30′W (approximate).", "Elevation: 150 meters (492 feet).", "Annual rainfall: 3,000 mm (118 inches).", "Artisanal diamond mining employs around 500 people in the area.", "The name Bopolu means 'meeting place' in the local language."],
     },
+    image: "/poi-images/liberia-bopolu-cities-v2.webp",
   },
   {
     id: "liberia-salala-cities-v2",
@@ -558,6 +575,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Populația Salala: 10.000 (2022).", "Distanța până la Monrovia: 130 km.", "Altitudinea: 200 m.", "Precipitațiile anuale: 2.900 mm.", "Drumul principal este asfaltat.", "Piața locală se ține în fiecare sâmbătă."],
       en: ["Population: 10,000 (2022 estimate).", "Coordinates: 6°45′N 9°30′W (approximate).", "Elevation: 200 meters (656 feet).", "Annual rainfall: 2,900 mm (114 inches).", "The main road through Salala is paved (part of the Monrovia-Gbarnga highway).", "Salala has a weekly market every Saturday."],
     },
+    image: "/poi-images/liberia-salala-cities-v2.webp",
   },
   {
     id: "liberia-careysburg-cities-v2",
@@ -589,6 +607,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Fondat în 1857", "Altitudine: 100 m", "Populație: 12.000 (2022)", "Suprafață: 15 km²", "Distanța față de Monrovia: 40 km", "Temperatura medie: 26 °C"],
       en: ["Founded in 1857", "Elevation: 100 m above sea level", "Population: 12,000 (2022)", "Area: 15 km²", "Distance to Monrovia: 40 km", "Average temperature: 26 °C"],
     },
+    image: "/poi-images/liberia-careysburg-cities-v2.webp",
   },
   {
     id: "liberia-marshall-cities-v2",
@@ -620,6 +639,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Fondat în 1947", "Altitudine: 5 m", "Populație: 8.000 (2022)", "Economie principală: pescuit", "Distanța față de Monrovia: 30 km", "Captură anuală de pește: 500 tone"],
       en: ["Founded in 1947", "Elevation: 5 m above sea level", "Population: 8,000 (2022)", "Main economic activity: fishing", "Distance to Monrovia: 30 km", "Annual fish catch: 500 tons"],
     },
+    image: "/poi-images/liberia-marshall-cities-v2.webp",
   },
   {
     id: "liberia-robertsport-cities-v2",
@@ -651,6 +671,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Fondat în 1870", "Altitudine: 10 m", "Populație: 4.000 (2022)", "Lungimea plajei de surf: 3 km", "Distanța față de Monrovia: 80 km", "Înălțimea medie a valurilor: 1,5 m"],
       en: ["Founded in 1870", "Elevation: 10 m above sea level", "Population: 4,000 (2022)", "Surf beach length: 3 km", "Distance to Monrovia: 80 km", "Average wave height: 1.5 m"],
     },
+    image: "/poi-images/liberia-robertsport-cities-v2.webp",
   },
   {
     id: "liberia-totota-cities-v2",
@@ -682,6 +703,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Populație: 10.000 (2022)", "Altitudine: 200 m", "Distanța față de Monrovia: 120 km", "Principalele culturi: manioc, orez", "Număr de zile de piață pe săptămână: 1", "Temperatură medie: 25 °C"],
       en: ["Population: 10,000 (2022)", "Elevation: 200 m above sea level", "Distance to Monrovia: 120 km", "Main crops: cassava, rice", "Market days per week: 1", "Average temperature: 25 °C"],
     },
+    image: "/poi-images/liberia-totota-cities-v2.webp",
   },
   {
     id: "liberia-paynesville-cities-v2",
@@ -713,6 +735,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Populație: 80.000 (2022)", "Distanța față de centrul Monroviei: 10 km", "Număr de tarabe la piața Red Light: 2.000", "Altitudine: 10 m", "Anul fondării: anii 1960", "Temperatură medie: 27 °C"],
       en: ["Population: 80,000 (2022)", "Distance to Monrovia center: 10 km", "Number of stalls at Red Light market: 2,000", "Elevation: 10 m above sea level", "Founded: 1960s", "Average temperature: 27 °C"],
     },
+    image: "/poi-images/liberia-paynesville-cities-v2.webp",
   },
   {
     id: "liberia-gable-cities-v2",
@@ -744,6 +767,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Populație: 5.000 (2022)", "Distanța față de Monrovia: 20 km", "Lungimea plajei de nisip: 1,5 km", "Altitudine: 15 m", "Număr anual de vizitatori: 20.000", "Temperatură medie: 26 °C"],
       en: ["Population: 5,000 (2022)", "Distance to Monrovia: 20 km", "Length of sandy beach: 1.5 km", "Elevation: 15 m above sea level", "Annual visitors: 20,000", "Average temperature: 26 °C"],
     },
+    image: "/poi-images/liberia-gable-cities-v2.webp",
   },
   {
     id: "liberia-ganta-cities-v2",
@@ -775,6 +799,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Populație: 50.000 (2022)", "Altitudine: 400 m", "Distanța față de Monrovia: 240 km", "Număr de paturi de spital: 200", "Anul fondării: 1960", "Temperatură medie: 24 °C"],
       en: ["Population: 50,000 (2022)", "Elevation: 400 m above sea level", "Distance to Monrovia: 240 km", "Number of hospital beds: 200", "Founded: 1960", "Average temperature: 24 °C"],
     },
+    image: "/poi-images/liberia-ganta-cities-v2.webp",
   },
   {
     id: "liberia-jua-cities-v2",
@@ -806,6 +831,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Populație: 2.000 (2022)", "Altitudine: 250 m", "Distanța până la Coasta de Fildeș: 10 km", "Număr de școli primare: 1", "Precipitații anuale: 2.000 mm", "Temperatură medie: 25 °C"],
       en: ["Population: 2,000 (2022)", "Elevation: 250 m above sea level", "Distance to Ivory Coast border: 10 km", "Number of primary schools: 1", "Annual rainfall: 2,000 mm", "Average temperature: 25 °C"],
     },
+    image: "/poi-images/liberia-jua-cities-v2.webp",
   },
   {
     id: "liberia-weala-cities-v2",
@@ -837,6 +863,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Populație: 3.000 (2022)", "Altitudine: 300 m", "Distanța față de Monrovia: 150 km", "Producția anuală de cauciuc: 500 tone", "Număr de unități medicale: 1", "Temperatură medie: 24 °C"],
       en: ["Population: 3,000 (2022)", "Elevation: 300 m above sea level", "Distance to Monrovia: 150 km", "Annual rubber production: 500 tons", "Number of health facilities: 1", "Average temperature: 24 °C"],
     },
+    image: "/poi-images/liberia-weala-cities-v2.webp",
   },
   {
     id: "liberia-damballah-cities-v2",
@@ -868,6 +895,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Populație: 1.500 (2022)", "Altitudine: 350 m", "Distanța până la granița cu Guineea: 5 km", "Număr de școli: 1", "Recolta anuală de orez: 200 tone", "Temperatură medie: 25 °C"],
       en: ["Population: 1,500 (2022)", "Elevation: 350 m above sea level", "Distance to Guinea border: 5 km", "Number of schools: 1", "Annual rice harvest: 200 tons", "Average temperature: 25 °C"],
     },
+    image: "/poi-images/liberia-damballah-cities-v2.webp",
   },
   {
     id: "liberia-tappita-cities-v2",
@@ -899,6 +927,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Populație: 8.000 (2022)", "Altitudine: 300 m", "Distanța față de Monrovia: 280 km", "Număr de spitale: 1", "Producția anuală de aur: 100 kg", "Temperatură medie: 24 °C"],
       en: ["Population: 8,000 (2022)", "Elevation: 300 m above sea level", "Distance to Monrovia: 280 km", "Number of hospitals: 1", "Annual gold production: 100 kg", "Average temperature: 24 °C"],
     },
+    image: "/poi-images/liberia-tappita-cities-v2.webp",
   },
   {
     id: "liberia-kakada-cities-v2",
@@ -930,6 +959,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Populație: 1.200 (2022)", "Altitudine: 200 m", "Distanța până la granița cu Sierra Leone: 8 km", "Număr de școli: 1", "Recolta anuală de arahide: 50 tone", "Temperatură medie: 26 °C"],
       en: ["Population: 1,200 (2022)", "Elevation: 200 m above sea level", "Distance to Sierra Leone border: 8 km", "Number of schools: 1", "Annual peanut harvest: 50 tons", "Average temperature: 26 °C"],
     },
+    image: "/poi-images/liberia-kakada-cities-v2.webp",
   },
   {
     id: "liberia-blay-cities-v2",
@@ -961,6 +991,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Populație: 2.500 (2022)", "Altitudine: 5 m", "Distanța până la coastă: 2 km", "Număr de bărci de pescuit: 50", "Recolta anuală de nuci de cocos: 100 tone", "Temperatură medie: 27 °C"],
       en: ["Population: 2,500 (2022)", "Elevation: 5 m above sea level", "Distance to coast: 2 km", "Number of fishing boats: 50", "Annual coconut harvest: 100 tons", "Average temperature: 27 °C"],
     },
+    image: "/poi-images/liberia-blay-cities-v2.webp",
   },
   {
     id: "liberia-plee-cities-v2",
@@ -992,6 +1023,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Populație: 1.800 (2022)", "Altitudine: 150 m", "Distanța până la Coasta de Fildeș: 15 km", "Număr de centre de sănătate: 1", "Suprafață forestieră: 50 km²", "Temperatură medie: 25 °C"],
       en: ["Population: 1,800 (2022)", "Elevation: 150 m above sea level", "Distance to Ivory Coast: 15 km", "Number of health centers: 1", "Forest area: 50 km²", "Average temperature: 25 °C"],
     },
+    image: "/poi-images/liberia-plee-cities-v2.webp",
   },
   {
     id: "liberia-nyen-cities-v2",
@@ -1023,6 +1055,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Populație: 1.000 (2022)", "Altitudine: 200 m", "Distanța până la Coasta de Fildeș: 20 km", "Număr de școli: 1", "Producția anuală de manioc: 300 tone", "Temperatură medie: 25 °C"],
       en: ["Population: 1,000 (2022)", "Elevation: 200 m above sea level", "Distance to Ivory Coast: 20 km", "Number of schools: 1", "Annual cassava production: 300 tons", "Average temperature: 25 °C"],
     },
+    image: "/poi-images/liberia-nyen-cities-v2.webp",
   },
   {
     id: "liberia-zota-cities-v2",
@@ -1054,6 +1087,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Populație: 800 (2022)", "Altitudine: 300 m", "Distanța până la granița cu Sierra Leone: 10 km", "Număr de ferme de animale: 20", "Producția anuală de orez: 100 tone", "Temperatură medie: 25 °C"],
       en: ["Population: 800 (2022)", "Elevation: 300 m above sea level", "Distance to Sierra Leone border: 10 km", "Number of livestock farms: 20", "Annual rice production: 100 tons", "Average temperature: 25 °C"],
     },
+    image: "/poi-images/liberia-zota-cities-v2.webp",
   },
   {
     id: "liberia-konia-cities-v2",
@@ -1085,6 +1119,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Populație: 1.200 (2022)", "Altitudine: 400 m", "Distanța până la granița cu Guineea: 12 km", "Producția anuală de aur: 20 kg", "Număr de școli primare: 1", "Temperatură medie: 24 °C"],
       en: ["Population: 1,200 (2022)", "Elevation: 400 m above sea level", "Distance to Guinea border: 12 km", "Annual gold production: 20 kg", "Number of primary schools: 1", "Average temperature: 24 °C"],
     },
+    image: "/poi-images/liberia-konia-cities-v2.webp",
   },
   {
     id: "liberia-foya-cities-v2",
@@ -1116,6 +1151,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Populație: 7.000 (2022)", "Altitudine: 350 m", "Distanța până la granița cu Sierra Leone: 5 km", "Număr de spitale: 1", "Producția anuală de diamante: 500 carate", "Temperatură medie: 25 °C"],
       en: ["Population: 7,000 (2022)", "Elevation: 350 m above sea level", "Distance to Sierra Leone border: 5 km", "Number of hospitals: 1", "Annual diamond production: 500 carats", "Average temperature: 25 °C"],
     },
+    image: "/poi-images/liberia-foya-cities-v2.webp",
   },
   {
     id: "liberia-karloke-cities-v2",
@@ -1147,6 +1183,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Populație: 1.500 (2022)", "Altitudine: 350 m", "Distanța până la granița cu Guineea: 8 km", "Înălțimea cascadei: 20 m", "Număr de ferme de animale: 30", "Temperatură medie: 24 °C"],
       en: ["Population: 1,500 (2022)", "Elevation: 350 m above sea level", "Distance to Guinea border: 8 km", "Waterfall height: 20 m", "Number of livestock farms: 30", "Average temperature: 24 °C"],
     },
+    image: "/poi-images/liberia-karloke-cities-v2.webp",
   },
   {
     id: "liberia-bensonville-cities-v2",
@@ -1178,6 +1215,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Populație: 15.000 (2022)", "Altitudine: 20 m", "Distanța față de Monrovia: 30 km", "Număr de clădiri administrative: 5", "Zile de piață pe săptămână: 2", "Temperatură medie: 26 °C"],
       en: ["Population: 15,000 (2022)", "Elevation: 20 m above sea level", "Distance to Monrovia: 30 km", "Number of administrative buildings: 5", "Market days per week: 2", "Average temperature: 26 °C"],
     },
+    image: "/poi-images/liberia-bensonville-cities-v2.webp",
   },
   {
     id: "liberia-grand-cess-cities-v2",
@@ -1209,6 +1247,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Populația recenzată în 2008 era de 1.035 de locuitori.", "Altitudinea medie este de 12 m deasupra nivelului mării.", "Precipitațiile medii anuale depășesc 3.000 mm.", "Biserica Sfântul Petru a fost construită în 1923.", "Suprafața aproximativă este de 3 km².", "Aeroportul cel mai apropiat este cel din Harper (80 km)."],
       en: ["Grand Cess has an estimated population of 2,800 (2022).", "The town lies at 12 m elevation above sea level.", "It was established around 1850 as a trading post.", "A solar microgrid was installed in 2019 providing 50 kW.", "The main road is unpaved and 80 km to Harper.", "The adult literacy rate is approximately 35%."],
     },
+    image: "/poi-images/liberia-grand-cess-cities-v2.webp",
   },
   {
     id: "liberia-gbo-cities-v2",
@@ -1240,6 +1279,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Populația estimată este de 1.200 de locuitori.", "Altitudinea localității este de 200 m.", "A fost fondată în anii 1920.", "Drumul principal este nepavat, 30 km până la Zwedru.", "Există o plantație de cauciuc la 5 km nord.", "Parcul Național Sapo se află la 20 km sud."],
       en: ["Estimated population of Gbo is 1,200 (2022).", "Elevation: 200 m above sea level.", "Founded in the 1920s as a plantation town.", "Distance to Zwedru: 30 km.", "A primary school with 4 teachers serves the community.", "Adult literacy rate is below 30%."],
     },
+    image: "/poi-images/liberia-gbo-cities-v2.webp",
   },
   {
     id: "liberia-bolahun-cities-v2",
@@ -1271,6 +1311,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Populația estimată este de 800 de locuitori.", "Altitudinea: 300 m deasupra nivelului mării.", "Fondat în anii 1950 de refugiați din Guineea.", "Școala primară a fost construită în 1965.", "Distanța până la Voinjama este de 45 km.", "Precipitațiile medii anuale sunt de 2.500 mm."],
       en: ["Estimated population: 800 (2022).", "Elevation: 300 m above sea level.", "Founded in the 1950s by Guinean refugees.", "Primary school built in 1965.", "Distance to Voinjama: 45 km.", "A solar-powered water pump was installed in 2016."],
     },
+    image: "/poi-images/liberia-bolahun-cities-v2.webp",
   },
   {
     id: "liberia-gbanga-v2-cities-v2",
@@ -1302,6 +1343,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Populație: 11.193 (recensământ 2008), estimat 15.000 în 2022.", "Altitudine: 250 m.", "Cuttington University a fost fondată în 1889.", "Aeroportul are o pistă de 1.200 m.", "Orașul este la 200 km de Monrovia.", "Râul St. Paul trece prin zonă."],
       en: ["Population: 11,193 (2008 census), estimated 15,000 in 2022.", "Elevation: 250 m above sea level.", "Birthplace of Ellen Johnson Sirleaf (1938).", "Cuttington University founded in 1889.", "Airport code GBA, runway length 1,200 m.", "Distance to Monrovia: 200 km."],
     },
+    image: "/poi-images/liberia-gbanga-v2-cities-v2.webp",
   },
   {
     id: "liberia-yeala-cities-v2",
@@ -1333,6 +1375,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Populație estimată: 600 de locuitori.", "Altitudine: 350 m.", "Fondat în anii 1960.", "Distanța până la Voinjama: 35 km.", "Epidemia de Ebola a cauzat 15 decese.", "Școala primară a fost construită în 1975."],
       en: ["Estimated population: 600 (2022).", "Elevation: 350 m above sea level.", "Founded in the 1960s.", "Distance to Voinjama: 35 km.", "15 deaths during Ebola outbreak (2014).", "Primary school built in 1975."],
     },
+    image: "/poi-images/liberia-yeala-cities-v2.webp",
   },
   {
     id: "liberia-zorzor-cities-v2",
@@ -1364,6 +1407,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Populație: 5.000 (estimare 2022).", "Altitudine: 400 m.", "Fondat în anul 1885.", "Spitalul are 30 de paturi.", "Microhidrocentrală de 50 kW din 2012.", "Distanța până la Voinjama: 40 km."],
       en: ["Population: approximately 5,000 (2022).", "Elevation: 400 m above sea level.", "Founded in 1885 by Chief Zor Zor.", "Hospital with 30 beds.", "Micro-hydro plant installed in 2012 (50 kW).", "Distance to Voinjama: 40 km."],
     },
+    image: "/poi-images/liberia-zorzor-cities-v2.webp",
   },
   {
     id: "liberia-kpeaple-cities-v2",
@@ -1395,6 +1439,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Populație: 1.000 (estimare 2022).", "Altitudine: 350 m.", "Fondat în anii 1940.", "Distanța până la Sanniquellie: 15 km.", "Școala primară construită în 1955.", "Râul St. John traversează satul."],
       en: ["Estimated population: 1,000 (2022).", "Elevation: 350 m above sea level.", "Founded in 1940s.", "Distance to Sanniquellie: 15 km.", "Primary school built in 1955.", "Gold panning yields about 5 kg annually."],
     },
+    image: "/poi-images/liberia-kpeaple-cities-v2.webp",
   },
   {
     id: "liberia-dougbo-cities-v2",
@@ -1426,6 +1471,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Populație: 700 (estimare 2022).", "Altitudine: 280 m.", "Fondat în anii 1960 de refugiați Krahn.", "Distanța până la Zwedru: 50 km.", "Râul Cavally provoacă inundații frecvente.", "Nu există școală sau dispensar."],
       en: ["Estimated population: 700 (2022).", "Elevation: 280 m above sea level.", "Founded in the 1960s by Krahn refugees.", "Distance to Zwedru: 50 km.", "No school, children walk 10 km.", "Flooding from Cavally River annually."],
     },
+    image: "/poi-images/liberia-dougbo-cities-v2.webp",
   },
   {
     id: "liberia-gbehyi-cities-v2",
@@ -1457,6 +1503,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Situat în comitatul Nimba", "Centru important pentru cultura orezului", "Populat de etniile Dan și Mano", "Administrație bazată pe clanuri tradiționale", "Climat tropical de pădure ecuatorială", "Producție semnificativă de cauciuc"],
       en: ["Located in Nimba County", "Hub for upland rice cultivation", "Inhabited by Dan and Mano ethnic groups", "Governed by traditional clan structures", "Tropical rainforest climate zone", "Significant producer of natural rubber"],
     },
+    image: "/poi-images/liberia-gbehyi-cities-v2.webp",
   },
   {
     id: "liberia-nyen-v2-cities-v2",
@@ -1488,6 +1535,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Populație: 1.200 (estimare 2022).", "Altitudine: 300 m.", "Fondat în anii 1970.", "Distanța până la Zwedru: 60 km.", "Dispensarul deservește 5 sate învecinate.", "Râul Nyen este principala sursă de apă."],
       en: ["Estimated population: 1,200 (2022).", "Elevation: 300 m above sea level.", "Founded in the 1970s.", "Distance to Zwedru: 60 km.", "Health post with one nurse.", "Nyen River provides water."],
     },
+    image: "/poi-images/liberia-nyen-v2-cities-v2.webp",
   },
   {
     id: "liberia-kplokpa-cities-v2",
@@ -1519,6 +1567,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Face parte din comitatul Montserrado", "Aparține districtului Todee", "Principal furnizor de manioc", "Situat aproape de capitala Monrovia", "Economie bazată pe agricultură", "Sezon ploios din mai până în octombrie"],
       en: ["Part of Montserrado County", "Belongs to the Todee District", "Major supplier of cassava root", "Located near the capital, Monrovia", "Economy driven by subsistence farming", "Rainy season from May to October"],
     },
+    image: "/poi-images/liberia-kplokpa-cities-v2.webp",
   },
   {
     id: "liberia-blon-cities-v2",
@@ -1550,6 +1599,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Situat în comitatul Grand Gedeh", "Teritoriul poporului Krahn", "Înconjurat de pădure tropicală densă", "Acces rutier limitat", "Economie influențată de exploatarea lemnului", "Influențe tradiționale Kpelle"],
       en: ["Located in Grand Gedeh County", "Settlement area of the Krahn people", "Surrounded by dense rainforest", "Limited road infrastructure", "Economy impacted by timber logging", "Presence of traditional Kpelle influences"],
     },
+    image: "/poi-images/liberia-blon-cities-v2.webp",
   },
   {
     id: "liberia-tutu-cities-v2",
@@ -1581,6 +1631,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Populație: 1.500 (estimare 2022).", "Altitudine: 250 m.", "Fondat în anii 1950.", "Distanța până la Zwedru: 40 km.", "Piața funcționează marțea și sâmbăta.", "Dispensarul deservește 1.500 de persoane."],
       en: ["Estimated population: 1,500 (2022).", "Elevation: 250 m above sea level.", "Founded in the 1950s.", "Distance to Zwedru: 40 km.", "Market on Tuesdays and Saturdays.", "Clinic established in 1965."],
     },
+    image: "/poi-images/liberia-tutu-cities-v2.webp",
   },
   {
     id: "liberia-gnar-cities-v2",
@@ -1612,6 +1663,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Centru de producție a uleiului de palmier", "Structură administrativă rurală", "Cultivarea maniocului și ignamei", "Meșteșuguri tradiționale locale", "Climat tropical musonic", "Importanța piețelor locale"],
       en: ["Center for palm oil production", "Rural administrative structure", "Cultivation of cassava and yams", "Known for traditional craftsmanship", "Tropical monsoon climate zone", "Importance of weekly local markets"],
     },
+    image: "/poi-images/liberia-gnar-cities-v2.webp",
   },
   {
     id: "liberia-yila-cities-v2",
@@ -1643,6 +1695,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Aparține comitatului Nimba", "Situat lângă granița cu Guineea", "Centru de cultivare a cafelei", "Localizat în apropierea zonelor miniere", "Populat de grupul etnic Mano", "Punct comercial regional important"],
       en: ["Part of Nimba County", "Located near the border with Guinea", "Regional hub for coffee farming", "Situated near major mining concessions", "Primarily inhabited by the Mano people", "Key regional marketplace for produce"],
     },
+    image: "/poi-images/liberia-yila-cities-v2.webp",
   },
   {
     id: "liberia-kpatua-cities-v2",
@@ -1674,6 +1727,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Situat în comitatul Grand Gedeh", "Cunoscut pentru cultura Krahn", "Silvicultura este principala sursă de venit", "Vindecători tradiționali activi în zonă", "Climat tropical cu temperaturi ridicate", "Tradiție regională în meșteșuguri"],
       en: ["Located in Grand Gedeh County", "Renowned for Krahn cultural practices", "Forestry is the primary source of income", "Active community of traditional healers", "Tropical climate with high temperatures", "Regional tradition of handicraft making"],
     },
+    image: "/poi-images/liberia-kpatua-cities-v2.webp",
   },
   {
     id: "liberia-zleh-cities-v2",
@@ -1705,6 +1759,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Localizat în comitatul Nimba", "Poartă către Parcul Național Sapo", "Nod de transport regional important", "Comerț activ cu produse agricole", "Populat de etniile Krahn și Bassa", "Situat în centura pădurii tropicale"],
       en: ["Located in Nimba County", "Gateway to the Sapo National Park area", "Important regional transport junction", "Center for trade in agricultural goods", "Inhabited by Krahn and Bassa ethnic groups", "Situated within the tropical rainforest belt"],
     },
+    image: "/poi-images/liberia-zleh-cities-v2.webp",
   },
   {
     id: "liberia-gbe-cities-v2",
@@ -1736,6 +1791,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Situat în comitatul River Cess.", "Face parte din zona pădurilor tropicale vest-africane.", "Economia de subzistență tradițională este predominantă.", "Se află în apropierea râului Cestos.", "Climat tropical cu umiditate ridicată.", "Regiune cu infrastructură puțin dezvoltată."],
       en: ["Located in River Cess County.", "Part of the West African rainforest zone.", "Traditional subsistence farming is predominant.", "Situated near the Cestos River.", "Tropical climate with high humidity.", "Region with limited infrastructural development."],
     },
+    image: "/poi-images/liberia-gbe-cities-v2.webp",
   },
   {
     id: "liberia-tule-cities-v2",
@@ -1767,6 +1823,7 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Unitate administrativă în comitatul River Cess.", "Zonă cu precipitații anuale de peste 3.000 mm.", "Silvicultura este o sursă locală de venit.", "Densitate scăzută a populației în împrejurimi.", "Accesul se face adesea prin drumuri neasfaltate.", "Principalele culturi sunt orezul și maniocul."],
       en: ["Administrative unit in River Cess County.", "Located in a zone with over 3,000 mm annual rainfall.", "Forestry is a local source of income.", "Low population density in the surrounding areas.", "Access is often via unpaved tracks.", "Primary crops are rice and cassava."],
     },
+    image: "/poi-images/liberia-tule-cities-v2.webp",
   },
   {
     id: "liberia-kpar-cities-v2",
@@ -1798,5 +1855,6 @@ export const liberiaCitiesV2: POI[] = [
       ro: ["Situat în comitatul Grand Gedeh.", "Aproape de frontiera cu Coasta de Fildeș.", "Produsele principale sunt cacaoa și cauciucul.", "Parte a districtului Tchien.", "Regiunea a fost marcată istoric de minerit.", "Situat la o altitudine medie de 200 m."],
       en: ["Located in Grand Gedeh County.", "Near the border with Ivory Coast.", "Primary products include cocoa and rubber.", "Part of the Tchien district.", "The region was historically shaped by mining.", "Situated at an average elevation of 200 m."],
     },
+    image: "/poi-images/liberia-kpar-cities-v2.webp",
   }
 ];

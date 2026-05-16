@@ -31,6 +31,7 @@ export const samoaReliefV2: POI[] = [
       ro: ["Erupția din 1905 până în 1911 este una dintre cele mai lungi din istoria Samoei.", "Craterul are un diametru de câteva sute de metri.", "Lava a curs pe o distanță de peste 15 kilometri până la coasta de nord a Savai'i.", "Biserica din Saleaula a fost înconjurată de lavă atunci, dar a rămas în picioare.", "Numele 'Matavanu' se traduce aproximativ prin 'Ochiul văii'.", "Vulcanul este situat la o altitudine de aproximativ 600 de metri."],
       en: ["The eruption from 1905 to 1911 is one of the longest in Samoa's recorded history.", "The crater measures several hundred meters in diameter.", "Lava flowed over 15 kilometers to reach the northern coast of Savai'i.", "The church at Saleaula was surrounded by lava but its walls remained standing.", "The name 'Matavanu' translates roughly to 'Eye of the Valley'.", "The volcano is situated at an elevation of approximately 600 meters."],
     },
+    image: "/poi-images/samoa-mount-matavanu-relief-v2.webp",
   },
   {
     id: "samoa-mount-lanotoo-relief-v2",
@@ -62,6 +63,7 @@ export const samoaReliefV2: POI[] = [
       ro: ["Muntele Lanoto'o a fost desemnat primul sit Ramsar din Samoa în 2004.", "Lacul este situat într-un crater vulcanic circular la 750 de metri altitudine.", "Peștii aurii introduși s-au adaptat la viața sălbatică de-a lungul deceniilor.", "Zona este un habitat critic pentru pasărea Manumea, aflată în pericol.", "Lacul nu are o scurgere la suprafață și este alimentat de ploi.", "Rezervația înconjurătoare cuprinde aproximativ 470 de hectare de pădure virgină."],
       en: ["Mount Lanoto'o was designated as Samoa's first Ramsar site in 2004.", "The lake is situated in a circular volcanic crater at an elevation of 750 meters.", "The introduced goldfish have adapted to wildlife conditions over decades.", "The area is a critical habitat for the endangered Manumea bird.", "The lake has no surface outlet and is primarily fed by rainwater.", "The surrounding reserve covers approximately 470 hectares of pristine forest."],
     },
+    image: "/poi-images/samoa-mount-lanotoo-relief-v2.webp",
   },
   {
     id: "samoa-mount-vaa-o-fonoti-relief-v2",
@@ -93,6 +95,7 @@ export const samoaReliefV2: POI[] = [
       ro: ["Aria de Conservare Vaa-o-Fonoti a fost stabilită oficial în 1991.", "Zona se află pe lista indicativă pentru Patrimoniul Mondial UNESCO.", "Găzduiește aproape toate speciile de păsări terestre endemice din Samoa.", "Regiunea cuprinde o suprafață de aproximativ 4.000 de hectare.", "Numele se referă la „Canoea de război a lui Fonoti”, un conducător istoric.", "Golful Fagaloa de la poalele muntelui este unul dintre cele mai adânci fiorduri din Pacific."],
       en: ["The Vaa-o-Fonoti Conservation Area was officially established in 1991.", "The area is on the tentative list for UNESCO World Heritage status.", "It houses nearly all of Samoa's endemic land bird species.", "The region encompasses an area of approximately 4,000 hectares.", "The name refers to the 'War Canoe of Fonoti', a historical ruler.", "Fagaloa Bay at the foot of the mountain is one of the deepest fjords in the Pacific."],
     },
+    image: "/poi-images/samoa-mount-vaa-o-fonoti-relief-v2.webp",
   },
   {
     id: "samoa-saleaula-lava-field-relief-v2",
@@ -124,6 +127,7 @@ export const samoaReliefV2: POI[] = [
       ro: ["Erupțiile care au creat câmpul au durat din 1905 până în 1911.", "Fluxurile de lavă au atins o adâncime de câțiva metri în unele zone.", "Câmpul acoperă o suprafață estimată de 100 de kilometri pătrați.", "Biserica LMS ruinată a fost construită cu ziduri groase de piatră care au rezistat parțial căldurii.", "Mormântul Fecioarei este o groapă adâncă de 2 metri în jurul căreia a curs lava.", "Muntele Matavanu, sursa lavei, se află la o altitudine de 575 de metri."],
       en: ["The eruptions that created the field lasted from 1905 to 1911.", "Lava flows reached a depth of several meters in some areas.", "The field covers an estimated area of 40 square miles (100 km2).", "The ruined LMS church was built with thick stone walls that partially withstood the heat.", "The Virgin's Grave is a 2-meter deep hole where the lava flowed around the burial site.", "Mount Matavanu, the source of the lava, is located at an elevation of 575 meters."],
     },
+    image: "/poi-images/samoa-saleaula-lava-field-relief-v2.webp",
   },
   {
     id: "samoa-apolima-crater-relief-v2",
@@ -155,6 +159,7 @@ export const samoaReliefV2: POI[] = [
       ro: ["Insula Apolima are o suprafață de mai puțin de 5 kilometri pătrați.", "Cel mai înalt punct de pe marginea craterului atinge aproximativ 165 de metri deasupra nivelului mării.", "Canalul de intrare către bazinul interior are o lățime de numai 10 metri.", "Dovezile arheologice sugerează locuirea umană de peste 1.000 de ani.", "Populația insulei este restricționată la aproximativ 100 de locuitori într-un singur sat.", "Apolima este situată la 4 kilometri de vârful vestic al insulei Upolu."],
       en: ["Apolima Island has an area of less than 5 square kilometers.", "The highest point on the crater rim reaches approximately 165 meters above sea level.", "The entrance channel to the interior basin is only about 10 meters wide.", "Archaeological evidence suggests human habitation for over 1,000 years.", "The island population is restricted to approximately 100 residents in a single village.", "Apolima is located 4 kilometers off the western tip of Upolu."],
     },
+    image: "/poi-images/samoa-apolima-crater-relief-v2.webp",
   },
   {
     id: "samoa-mount-mauga-afi-relief-v2",
@@ -186,6 +191,7 @@ export const samoaReliefV2: POI[] = [
       ro: ["Muntele Mauga Afi se află la 1.847 de metri deasupra nivelului mării.", "O erupție majoră a fost documentată de exploratorii europeni timpurii în 1760.", "Activitatea vulcanică din 1760 a produs fluxuri care au ajuns la mare la Aopo.", "Este situat în creasta vulcanică centrală a insulei Savai'i.", "Muntele este compus în principal din lavă bazaltică și scorii.", "Vârful rămâne una dintre cele mai puțin perturbate zone biologice din Samoa."],
       en: ["Mount Mauga Afi stands at 1,847 meters (6,060 feet) above sea level.", "A major eruption was documented by early European explorers in 1760.", "The volcanic activity of 1760 produced flows that reached the sea at Aopo.", "It is located within the central volcanic ridge of Savai'i island.", "The mountain is composed primarily of basaltic lava and scoria.", "The summit remains one of the least disturbed biological zones in Samoa."],
     },
+    image: "/poi-images/samoa-mount-mauga-afi-relief-v2.webp",
   },
   {
     id: "samoa-mount-mafane-relief-v2",
@@ -217,6 +223,7 @@ export const samoaReliefV2: POI[] = [
       ro: ["Muntele Mafane are o altitudine de 1.024 de metri deasupra nivelului mării.", "Face parte din seria vulcanică pleistocenă a insulei Savai'i.", "Muntele este situat în partea central-estică a insulei Savai'i.", "Susține unul dintre cele mai mari standuri rămase de pădure montană din Samoa.", "Precipitațiile în această regiune pot depăși 5.000 mm anual.", "Muntele servește ca habitat cheie pentru porumbelul cu cioc dințat (Manumea)."],
       en: ["Mount Mafane has an elevation of 1,024 meters above sea level.", "It is part of the Pleistocene volcanic series of Savai'i.", "The mountain is situated in the central-eastern part of Savai'i.", "It supports one of the largest remaining stands of montane forest in Samoa.", "Rainfall in this region can exceed 5,000 mm annually.", "The mountain serves as a key habitat for the tooth-billed pigeon (Manumea)."],
     },
+    image: "/poi-images/samoa-mount-mafane-relief-v2.webp",
   },
   {
     id: "samoa-falefa-valley-relief-v2",
@@ -248,6 +255,7 @@ export const samoaReliefV2: POI[] = [
       ro: ["Cascada Falefa cade aproximativ 10 metri direct într-o intrare de mare.", "Valea găzduiește unul dintre cele mai mari complexe de movile antice din Samoa.", "Râul Falefa este unul dintre principalele sisteme de drenaj din estul insulei Upolu.", "Săpăturile arheologice semnificative din anii 1960 au scos la iveală structuri vechi de 1.000 de ani.", "Valea conține formațiunea istorică de roci vulcanice Fagaloa.", "Servește ca un producător major de culturi de rădăcinoase tradiționale pentru piața din Apia."],
       en: ["Falefa Falls drops approximately 10 meters directly into a sea inlet.", "The valley is home to one of the largest ancient mound complexes in Samoa.", "The Falefa River is one of the primary drainage systems on eastern Upolu.", "Significant archaeological excavations in the 1960s revealed 1,000-year-old structures.", "The valley contains the historic Fagaloa volcanics rock formation.", "It serves as a major producer of traditional root crops for the Apia market."],
     },
+    image: "/poi-images/samoa-falefa-valley-relief-v2.webp",
   },
   {
     id: "samoa-lake-mataulano-relief-v2",
@@ -279,6 +287,7 @@ export const samoaReliefV2: POI[] = [
       ro: ["Lacul Mataulano este situat la o altitudine de aproximativ 900 de metri.", "Lacul este conținut în marginea unui crater vulcanic antic.", "Este unul dintre puținele lacuri de apă dulce de mare altitudine din Samoa.", "Pădurea înconjurătoare primește peste 4.500 mm de ploaie anual.", "Situl este situat lângă centrul geografic al insulei Savai'i.", "Ecologiștii au identificat vegetație unică formatoare de turbă în vecinătatea lacului."],
       en: ["Lake Mataulano is located at an altitude of approximately 900 meters.", "The lake is contained within an ancient volcanic crater rim.", "It is one of the few high-altitude freshwater lakes in Samoa.", "The surrounding forest receives over 4,500 mm of rain annually.", "The site is located near the geographic center of Savai'i island.", "Ecologists have identified unique peat-forming vegetation in the lake's vicinity."],
     },
+    image: "/poi-images/samoa-lake-mataulano-relief-v2.webp",
   },
   {
     id: "samoa-mount-vaitapu-relief-v2",
@@ -310,6 +319,7 @@ export const samoaReliefV2: POI[] = [
       ro: ["Muntele Vaitapu atinge o altitudine maximă de 712 metri deasupra nivelului mării.", "Aparține seriei vulcanice Fagaloa, care are o vechime de peste 1 milion de ani.", "Muntele este situat în partea de est a insulei Upolu.", "Acționează ca un bazin hidrografic primar pentru satele de coastă din sudul districtului Atua.", "Pantele susțin diverse specii de ferigi și orhidee endemice în Samoa.", "Temperaturile medii anuale la vârf sunt semnificativ mai mici decât la nivelul mării."],
       en: ["Mount Vaitapu reaches a peak elevation of 712 meters above sea level.", "It belongs to the Fagaloa volcanic series, which is over 1 million years old.", "The mountain is located in the eastern portion of Upolu island.", "It acts as a primary watershed for the southern Atua coastal villages.", "The slopes support diverse fern and orchid species endemic to Samoa.", "Average annual temperatures at the summit are significantly lower than at sea level."],
     },
+    image: "/poi-images/samoa-mount-vaitapu-relief-v2.webp",
   },
   {
     id: "samoa-mount-teelagi-relief-v2",
@@ -341,6 +351,7 @@ export const samoaReliefV2: POI[] = [
       ro: ["Muntele Te'elagi face parte din coloana vulcanică centrală a insulei Savai'i.", "Zona de vârf prezintă depozite semnificative de cenușă vulcanică din holocen.", "Este situat la o altitudine estimată de peste 1.200 de metri.", "Muntele servește ca habitat crucial pentru vulpea zburătoare din Samoa.", "Precipitațiile la această altitudine pot depăși 6.000 mm pe an.", "Studiile geologice sugerează că a fost activ în ultimii 10.000 de ani."],
       en: ["Mount Te'elagi is part of the central volcanic spine of Savai'i island.", "The summit area features significant deposits of Holocene volcanic ash.", "It is located at an estimated elevation of over 1,200 meters.", "The mountain serves as a crucial habitat for the Samoa flying fox.", "Rainfall at this elevation can exceed 6,000 mm per year.", "Geological surveys suggest it was active within the last 10,000 years."],
     },
+    image: "/poi-images/samoa-mount-teelagi-relief-v2.webp",
   },
   {
     id: "samoa-mount-malata-relief-v2",
@@ -372,6 +383,7 @@ export const samoaReliefV2: POI[] = [
       ro: ["Muntele Malata are o altitudine maximă de 443 de metri.", "Face parte din grupul vulcanic Salani, datând din epoca pleistocenului.", "Muntele este situat în partea central-sudică a insulei Upolu.", "Constă în principal din roci bazaltice cu olivină.", "Zona primește o precipitație medie anuală de aproximativ 3.500 mm.", "Servește ca punct de reper pentru granițele tradiționale ale districtului Tuamasaga."],
       en: ["Mount Malata has a peak elevation of 443 meters.", "It is part of the Salani volcanic group, dating to the Pleistocene epoch.", "The mountain is located in the central southern part of Upolu.", "It consists primarily of olivine basalt rocks.", "The area receives an average annual rainfall of approximately 3,500 mm.", "It serves as a landmark for the traditional district boundaries of Tuamasaga."],
     },
+    image: "/poi-images/samoa-mount-malata-relief-v2.webp",
   },
   {
     id: "samoa-mount-olotapu-relief-v2",
@@ -403,6 +415,7 @@ export const samoaReliefV2: POI[] = [
       ro: ["Muntele Olotapu se ridică la o altitudine de 742 de metri deasupra nivelului mării.", "Face parte din seria vulcanică Mulifanua, creată în pleistocenul târziu.", "Muntele este situat lângă capătul vestic al insulei Upolu.", "Compoziția solului este în principal un sol vulcanic bogat, derivat din bazalt.", "Are vedere spre districtul de coastă Aana.", "Zona a fost un sit strategic în timpul conflictelor tribale tradiționale."],
       en: ["Mount Olotapu rises to an elevation of 742 meters above sea level.", "It is part of the Mulifanua volcanic series, created in the late Pleistocene.", "The mountain is located near the western end of Upolu island.", "The soil composition is primarily rich, basaltic-derived volcanic soil.", "It overlooks the coastal district of Aana.", "The area was a strategic site during traditional tribal conflicts."],
     },
+    image: "/poi-images/samoa-mount-olotapu-relief-v2.webp",
   },
   {
     id: "samoa-mount-salani-relief-v2",
@@ -434,6 +447,7 @@ export const samoaReliefV2: POI[] = [
       ro: ["Muntele Salani atinge o altitudine de 551 de metri deasupra nivelului mării.", "Este localitatea tip pentru grupul vulcanic Salani din Upolu.", "Activitatea vulcanică ce a format acest vârf a avut loc în timpul pleistocenului.", "Este situat în interiorul sud-central al insulei.", "Muntele contribuie la drenajul râului Salani.", "Este un punct de reper cheie pentru districtul Lotofaga."],
       en: ["Mount Salani reaches an altitude of 551 meters above sea level.", "It is the type locality for the Salani volcanic group of Upolu.", "The volcanic activity that formed this peak occurred during the Pleistocene.", "It is located in the southern-central interior of the island.", "The mountain contributes to the drainage of the Salani River.", "It is a key landmark for the district of Lotofaga."],
     },
+    image: "/poi-images/samoa-mount-salani-relief-v2.webp",
   },
   {
     id: "samoa-mount-siga-relief-v2",
@@ -465,6 +479,7 @@ export const samoaReliefV2: POI[] = [
       ro: ["Muntele Siga este un exemplu clasic de vulcan con de cenușă.", "Este situat în zonele muntoase centrale de sud ale insulei Savai'i.", "Vârful atinge o altitudine estimată de 750 de metri.", "Dovezile geologice datează formarea sa în pleistocenul târziu sau holocen.", "Zona este cunoscută pentru precipitațiile ridicate, depășind adesea 5.000 mm pe an.", "Este o caracteristică proeminentă în districtul Palauli."],
       en: ["Mount Siga is a classic example of a cinder cone volcano.", "It is situated in the central southern highlands of Savai'i.", "The peak reaches an estimated elevation of 750 meters.", "Geological evidence dates its formation to the late Pleistocene or Holocene.", "The area is known for high rainfall, often exceeding 5,000 mm per year.", "It is a prominent feature in the district of Palauli."],
     },
+    image: "/poi-images/samoa-mount-siga-relief-v2.webp",
   },
   {
     id: "samoa-mount-talatala-relief-v2",
@@ -496,6 +511,7 @@ export const samoaReliefV2: POI[] = [
       ro: ["Muntele Talatala este situat la o altitudine de aproximativ 800 de metri.", "Aparține seriei vulcanice Puapua din pleistocenul târziu.", "Vârful este un punct de reper proeminent în districtul Fa'asaleleaga.", "Susține biodiversitatea de mare altitudine cu multe specii endemice.", "Precipitațiile medii anuale în zonă sunt estimate la 4.000 mm.", "Muntele prezintă diverse orificii vulcanice antice pe pantele sale."],
       en: ["Mount Talatala is located at an elevation of approximately 800 meters.", "It belongs to the Puapua volcanic series of the late Pleistocene.", "The peak is a prominent landmark in the Fa'asaleleaga district.", "It supports high-altitude biodiversity with many endemic species.", "Average annual rainfall in the area is estimated at 4,000 mm.", "The mountain features various ancient volcanic vents on its slopes."],
     },
+    image: "/poi-images/samoa-mount-talatala-relief-v2.webp",
   },
   {
     id: "samoa-mount-tofua-relief-v2",
@@ -527,6 +543,7 @@ export const samoaReliefV2: POI[] = [
       ro: ["Muntele Tofua are o altitudine maximă de aproximativ 850 de metri.", "Este compus în principal din fluxuri de lavă bazaltică din pleistocen.", "Muntele este situat în partea central-vestică a insulei Savai'i.", "Servește ca o zonă majoră de captare a precipitațiilor din regiune.", "Zona înconjurătoare conține ecosisteme unice de pădure montană.", "Este un punct de reper proeminent pentru navigația în interiorul insulei."],
       en: ["Mount Tofua has a peak elevation of approximately 850 meters.", "It is composed primarily of Pleistocene basaltic lava flows.", "The mountain is located in the central-western portion of Savai'i.", "It serves as a major catchment area for rainfall in the region.", "The surrounding area contains unique montane forest ecosystems.", "It is a prominent landmark for navigation within the island's interior."],
     },
+    image: "/poi-images/samoa-mount-tofua-relief-v2.webp",
   },
   {
     id: "samoa-mount-veve-relief-v2",
@@ -558,6 +575,7 @@ export const samoaReliefV2: POI[] = [
       ro: ["Muntele Veve atinge o altitudine de aproximativ 950 de metri.", "Face parte din seria vulcanică pleistocenă a insulei Savai'i.", "Muntele este situat în interiorul sud-central al insulei.", "Susține o mare diversitate de orhidee native din Samoa.", "Zona primește peste 4.500 mm de precipitații anual.", "Servește ca un bazin hidrografic cheie pentru districtul Gaga'emalae."],
       en: ["Mount Veve reaches an elevation of approximately 950 meters.", "It is part of the Pleistocene volcanic series of Savai'i island.", "The mountain is located in the central southern interior.", "It supports a high diversity of native Samoan orchids.", "The area receives over 4,500 mm of rainfall annually.", "It serves as a key watershed for the Gaga'emalae district."],
     },
+    image: "/poi-images/samoa-mount-veve-relief-v2.webp",
   },
   {
     id: "samoa-mount-le-pue-relief-v2",
@@ -589,6 +607,7 @@ export const samoaReliefV2: POI[] = [
       ro: ["Înălțimea vârfului este de aproximativ 814 metri deasupra nivelului mării.", "Muntele este situat în partea centrală a insulei Upolu.", "Geologic, aparține grupului de stratovulcani bazaltici.", "Servește ca un bazin hidrografic crucial pentru regiune.", "Vegetația este formată predominant din pădure tropicală primară.", "Muntele face parte din creasta vulcanică centrală numită Tuasivi."],
       en: ["The summit elevation is approximately 814 meters above sea level.", "The mountain is located in the central part of Upolu Island.", "Geologically, it is part of the basaltic stratovolcano group.", "It serves as a critical water catchment area for the region.", "The vegetation consists mainly of primary tropical rainforest.", "The peak is part of the volcanic mountain range known as the Tuasivi ridge."],
     },
+    image: "/poi-images/samoa-mount-le-pue-relief-v2.webp",
   },
   {
     id: "samoa-mount-seuao-relief-v2",
@@ -620,6 +639,7 @@ export const samoaReliefV2: POI[] = [
       ro: ["Muntele este de origine vulcanică și se află pe insula Upolu.", "Este compus în principal din roci bazaltice din pleistocen.", "Versanții sunt acoperiți cu pădure tropicală de joasă altitudine.", "Solurile fertile de la bază susțin agricultura locală.", "Muntele influențează microclimatul local prin precipitații orografice.", "Regiunea adăpostește specii de păsări endemice rare din Samoa."],
       en: ["The mountain is of volcanic origin and is located on Upolu Island.", "It consists primarily of Pleistocene basaltic rock.", "The slopes are covered with tropical lowland rainforest.", "Fertile soils at the base support local agricultural activities.", "The mountain influences the local microclimate through orographic rainfall.", "The region is home to rare endemic bird species of Samoa."],
     },
+    image: "/poi-images/samoa-mount-seuao-relief-v2.webp",
   },
   {
     id: "samoa-mount-sinaele-relief-v2",
@@ -651,6 +671,7 @@ export const samoaReliefV2: POI[] = [
       ro: ["Înălțimea maximă a muntelui Sinaele este de aproximativ 1.100 de metri.", "Din punct de vedere geologic, este un vulcan scut stins.", "Este compus în principal din bazalte alcaline din seria vulcanică Salani.", "Zona vârfului găzduiește păduri tropicale de ceață rare.", "Este un habitat important pentru pasărea Manumea, aflată în pericol.", "Muntele funcționează ca un rezervor primar de apă pentru centrul Upolu."],
       en: ["The maximum elevation of Mount Sinaele is approximately 1,100 meters.", "Geologically, it is classified as an extinct shield volcano.", "It consists primarily of alkali basalts from the Salani volcanic series.", "The summit area hosts rare tropical montane cloud forests.", "It is a critical habitat for the endangered Manumea bird.", "The mountain serves as a primary water reservoir for Central Upolu."],
     },
+    image: "/poi-images/samoa-mount-sinaele-relief-v2.webp",
   },
   {
     id: "samoa-mount-pofua-relief-v2",
@@ -682,6 +703,7 @@ export const samoaReliefV2: POI[] = [
       ro: ["Muntele este situat în zonele înalte centrale ale insulei Upolu.", "S-a format prin activitate vulcanică în perioada cuaternară.", "Roca este compusă predominant din bazalt olivinic.", "Servește ca bazin hidrografic pentru cursurile de apă locale.", "Flora include multe ferigi și orhidee endemice.", "Regiunea este cunoscută pentru cultivarea rădăcinilor de taro de înaltă calitate."],
       en: ["The mountain is located in the central highlands of Upolu Island.", "It was formed by volcanic activity during the Quaternary period.", "The rock composition is mainly olivine basalt.", "It serves as a catchment area for local inland waterways.", "The flora includes many endemic ferns and orchids.", "The region is known for the cultivation of high-quality taro roots."],
     },
+    image: "/poi-images/samoa-mount-pofua-relief-v2.webp",
   },
   {
     id: "samoa-mount-tagotala-relief-v2",
@@ -713,6 +735,7 @@ export const samoaReliefV2: POI[] = [
       ro: ["Muntele este situat în sectorul sudic al insulei Upolu.", "Este clasificat geologic ca fiind un con piroclastic.", "Regiunea aparține seriei vulcanice Lefaga, tânără din punct de vedere geologic.", "Solurile fertile sunt compuse din cenușă vulcanică și zgură.", "Muntele este un coridor important pentru păsările terestre native.", "Oferă protecție împotriva vânturilor alizee din sud-est."],
       en: ["The mountain is located in the southern sector of Upolu Island.", "It is geologically classified as a pyroclastic cone.", "The region belongs to the geologically young Lefaga volcanic series.", "Fertile soils are composed of volcanic ash and scoria.", "The mountain is a vital corridor for native land birds.", "It provides shelter from the prevailing southeast trade winds."],
     },
+    image: "/poi-images/samoa-mount-tagotala-relief-v2.webp",
   },
   {
     id: "samoa-mount-lano-relief-v2",
@@ -744,6 +767,7 @@ export const samoaReliefV2: POI[] = [
       ro: ["Muntele Lano este situat pe insula Savai'i.", "Face parte din masivul vulcan scut Savai'i.", "Erupțiile sale au contribuit la formarea liniei de coastă estice.", "Terenul este caracterizat de câmpuri vaste de lavă răcită.", "Plantele pionier, cum ar fi ferigile, colonizează fluxurile de lavă tinere.", "Muntele se află într-o regiune cu activitate vulcanică ridicată."],
       en: ["Mount Lano is located on the island of Savai'i.", "It is part of the massive Savai'i shield volcano.", "Its eruptions contributed to the formation of the eastern coastline.", "The terrain is characterized by vast, cooled lava fields.", "Pioneer plants like ferns colonize the young lava flows.", "The mountain is situated in a region of high volcanic activity."],
     },
+    image: "/poi-images/samoa-mount-lano-relief-v2.webp",
   },
   {
     id: "samoa-mount-mu-relief-v2",
@@ -775,6 +799,7 @@ export const samoaReliefV2: POI[] = [
       ro: ["Muntele este situat pe coasta de sud-est a insulei Savai'i.", "Este clasificat ca fiind un con de zgură (Scoria cone).", "Înălțimea sa este de aproximativ 440 de metri deasupra nivelului mării.", "Vegetația constă în pădure tropicală de coastă și plantații.", "Solul este bogat în nutrienți datorită cenușii vulcanice erodate.", "Numele 'Mu' înseamnă 'a arde' în unele dialecte samoane."],
       en: ["The mountain is located on the southeast coast of Savai'i.", "It is classified as a scoria cone.", "Its elevation is approximately 440 meters above sea level.", "The vegetation consists of coastal rainforest and plantations.", "The soil is nutrient-rich due to weathered volcanic ash.", "The name 'Mu' means 'to burn' in some Samoan dialects."],
     },
+    image: "/poi-images/samoa-mount-mu-relief-v2.webp",
   },
   {
     id: "samoa-aopo-lava-field-relief-v2",
@@ -806,6 +831,7 @@ export const samoaReliefV2: POI[] = [
       ro: ["Câmpul de lavă a fost format în mare parte de erupția Matavanu (1905–1911).", "Se întinde pe câțiva kilometri pătrați în nordul insulei Savai'i.", "Se găsesc atât lavă pahoehoe netedă, cât și lavă aa zguroasă.", "Sub câmp se află sisteme extinse de tuburi de lavă.", "Zona demonstrează regenerarea naturală a ecosistemelor pe lavă.", "Istoric, mai multe sate de coastă au fost distruse de aceste câmpuri de lavă."],
       en: ["The lava field was largely formed by the Matavanu eruption (1905–1911).", "It covers several square kilometers in northern Savai'i.", "Both smooth pahoehoe and clinkery aa lava types are found here.", "Extensive lava tube systems are located beneath the field.", "The area demonstrates natural ecosystem regeneration on lava flows.", "Historically, these lava flows destroyed several coastal villages."],
     },
+    image: "/poi-images/samoa-aopo-lava-field-relief-v2.webp",
   },
   {
     id: "samoa-fagaloa-bay-cliffs-relief-v2",
@@ -837,6 +863,7 @@ export const samoaReliefV2: POI[] = [
       ro: ["Stâncile fac parte din seria vulcanică Fagaloa (veche de cca. 4 mil. ani).", "Ele aparțin celor mai vechi formațiuni geologice din Samoa.", "Unele stânci se ridică la peste 600 de metri aproape vertical.", "Golful este candidat pentru Patrimoniul Mondial UNESCO (natură și cultură).", "Numeroase cascade, cum ar fi Fuipisia, se află în apropiere.", "Regiunea este un loc important de cuibărit pentru specii rare de petreli."],
       en: ["The cliffs consist of the Fagaloa volcanic series (approx. 4 million years old).", "They are among the oldest geological formations in Samoa.", "Some cliff faces rise over 600 meters almost vertically.", "The bay is a tentative UNESCO World Heritage site for nature and culture.", "Numerous waterfalls, such as the Fuipisia Falls, are located nearby.", "The region is a critical breeding ground for rare shearwaters."],
     },
+    image: "/poi-images/samoa-fagaloa-bay-cliffs-relief-v2.webp",
   },
   {
     id: "samoa-mount-elietoga-relief-v2",
@@ -868,5 +895,6 @@ export const samoaReliefV2: POI[] = [
       ro: ["Muntele Elietoga se află în interiorul nelocuit al insulei Savai'i.", "Regiunea este una dintre cele mai ploioase zone din arhipelag.", "Muntele face parte din coloana vertebrală vulcanică a insulei.", "Flora include peste 500 de specii de ferigi și plante cu flori.", "Istoric, zonele înalte au servit ca refugiu în timpul războaielor.", "Stațiile științifice măsoară aici mișcările solului ale insulei."],
       en: ["Mount Elietoga is located in the uninhabited interior of Savai'i.", "The region is one of the wettest areas in the entire archipelago.", "The mountain forms part of the island's volcanic backbone.", "The local flora includes over 500 species of ferns and flowering plants.", "Historically, the highlands served as a sanctuary during wars.", "Scientific stations here monitor the island's seismic and volcanic activity."],
     },
+    image: "/poi-images/samoa-mount-elietoga-relief-v2.webp",
   }
 ];

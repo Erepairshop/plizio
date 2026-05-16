@@ -31,6 +31,7 @@ export const palauCitiesV2: POI[] = [
       ro: ["Găzduiește aproximativ două treimi din populația statului Palau.", "Conectat prin poduri de insulele Babeldaob și Malakal.", "Sediul Muzeului Național Belau, înființat în 1955.", "Cel mai important port din Palau se află pe insula Malakal.", "Fost centru administrativ în timpul mandatului japonez.", "Centru major pentru turismul de scufundări din Pacificul de Vest."],
       en: ["Home to approximately two-thirds of Palau's total population.", "Connected by bridges to Babeldaob and Malakal islands.", "Site of the Belau National Museum, established in 1955.", "Palau's main commercial port is located on Malakal Island.", "Former administrative center during the Japanese mandate era.", "Hub for world-class scuba diving tourism in the Pacific."],
     },
+    image: "/poi-images/palau-koror-cities-v2.webp",
   },
   {
     id: "palau-ngerulmud-cities-v2",
@@ -62,6 +63,7 @@ export const palauCitiesV2: POI[] = [
       ro: ["Cea mai puțin populată capitală a unei națiuni suverane.", "Situată la aproximativ 20 km nord-est de orașul Koror.", "Construcția complexului capitoliu a costat circa 45 milioane USD.", "Inaugurată oficial ca capitală la 7 octombrie 2006.", "Găzduiește ramurile legislativă, executivă și judecătorească.", "Înconjurată de păduri tropicale virgine și dealuri ierboase."],
       en: ["The least populated capital city of a sovereign nation.", "Located approximately 20 kilometers northeast of Koror.", "The Capitol complex construction cost about $45 million.", "Officially inaugurated as the capital on October 7, 2006.", "Houses the legislative, executive, and judicial branches.", "Surrounded by lush tropical rainforest and grasslands."],
     },
+    image: "/poi-images/palau-ngerulmud-cities-v2.webp",
   },
   {
     id: "palau-airai-cities-v2",
@@ -93,6 +95,7 @@ export const palauCitiesV2: POI[] = [
       ro: ["Găzduiește Aeroportul Internațional Roman Tmetuchl.", "Deține cea mai veche casă tradițională Bai (a bărbaților) din Palau.", "Al doilea cel mai populat stat din întreaga țară.", "Locația podului de prietenie Japonia-Palau.", "Cunoscut istoric pentru monoliții săi de piatră antici.", "Punct strategic pentru explorarea întregii insule Babeldaob."],
       en: ["Home to the Roman Tmetuchl International Airport.", "Features the oldest Bai (traditional meeting house) in Palau.", "The second most populous state in the country.", "Location of the Japan-Palau Friendship Bridge.", "Historically significant for its ancient stone monoliths.", "Key gateway for travelers exploring Babeldaob Island."],
     },
+    image: "/poi-images/palau-airai-cities-v2.webp",
   },
   {
     id: "palau-meyuns-cities-v2",
@@ -124,6 +127,7 @@ export const palauCitiesV2: POI[] = [
       ro: ["A doua cea mai mare așezare din Palau", "Situată pe insula Ngerekebesang", "Face parte din statul Koror", "Conectată de Koror printr-un dig", "Găzduiește Spitalul Național Belau", "Zonă rezidențială majoră"],
       en: ["Second largest settlement in Palau", "Located on Ngerekebesang Island", "Part of the Koror State", "Linked to Koror by a causeway", "Site of the Belau National Hospital", "Key residential area for workers"],
     },
+    image: "/poi-images/palau-meyuns-cities-v2.webp",
   },
   {
     id: "palau-melekeok-cities-v2",
@@ -155,6 +159,7 @@ export const palauCitiesV2: POI[] = [
       ro: ["Sediul guvernului în Ngerulmud", "Capitala mutată de la Koror în 2006", "Situat pe coasta de est a insulei Babeldaob", "Găzduiește lacul Ngardok", "Cea mai mare rezervă de apă dulce din Micronezia", "Populația statului este de aproximativ 300 locuitori"],
       en: ["Seat of government in Ngerulmud", "Capital moved from Koror in 2006", "Located on the east coast of Babeldaob", "Home to Lake Ngardok", "Largest freshwater reservoir in Micronesia", "State population of approximately 300"],
     },
+    image: "/poi-images/palau-melekeok-cities-v2.webp",
   },
   {
     id: "palau-kloulklubed-cities-v2",
@@ -186,6 +191,7 @@ export const palauCitiesV2: POI[] = [
       ro: ["Satul principal al statului Peleliu", "Locul bătăliei din 1944", "Centru administrativ local", "Aproape de relicvele din Al Doilea Război Mondial", "Populație de aproximativ 500 de locuitori", "Situat în nordul insulei Peleliu"],
       en: ["Principal village of Peleliu State", "Site of the 1944 Battle of Peleliu", "Administrative center of the island", "Near many WWII historical relics", "Population of approximately 500 people", "Located on the northern tip of Peleliu"],
     },
+    image: "/poi-images/palau-kloulklubed-cities-v2.webp",
   },
   {
     id: "palau-angaur-cities-v2",
@@ -217,6 +223,7 @@ export const palauCitiesV2: POI[] = [
       ro: ["Stat individual în cadrul Palau", "Exploatarea fosfaților a început în 1909", "Locul bătăliei de la Angaur (1944)", "Suprafață de aproximativ 8,4 km²", "Situat la sud de Peleliu", "Dispune de propria pistă de aterizare"],
       en: ["Standalone state of Palau", "Phosphate mining started in 1909", "Site of the Battle of Angaur (1944)", "Area of approximately 8.4 km²", "Located south of Peleliu", "Has its own small airstrip"],
     },
+    image: "/poi-images/palau-angaur-cities-v2.webp",
   },
   {
     id: "palau-kayangel-cities-v2",
@@ -248,6 +255,7 @@ export const palauCitiesV2: POI[] = [
       ro: ["Cel mai nordic punct al Palau", "Format din 4 insule principale", "Suprafață terestră de doar 1,4 km²", "Singurul atol de corali din țară", "Nu dispune de aeroport", "Centru important pentru pescuit"],
       en: ["Northernmost state of Palau", "Consists of 4 main islands", "Land area of only 1.4 km²", "Palau's only true coral atoll", "No airstrip available", "Traditional fishing-based economy"],
     },
+    image: "/poi-images/palau-kayangel-cities-v2.webp",
   },
   {
     id: "palau-ngardmau-cities-v2",
@@ -279,6 +287,7 @@ export const palauCitiesV2: POI[] = [
       ro: ["Găzduiește cascada Ngardmau", "Cea mai înaltă cascadă din Micronezia (30m)", "Situat la baza muntelui Ngerchelchuus", "Fost centru de minerit bauxită", "Pe coasta de vest a insulei Babeldaob", "Cunoscut pentru pădurile tropicale virgine"],
       en: ["Home to Ngardmau (Taki) Waterfall", "Tallest waterfall in Micronesia (30m)", "Located near Mount Ngerchelchuus", "Site of historical bauxite mining", "On the western coast of Babeldaob", "Renowned for its lush rainforests"],
     },
+    image: "/poi-images/palau-ngardmau-cities-v2.webp",
   },
   {
     id: "palau-ulimang-cities-v2",
@@ -310,6 +319,7 @@ export const palauCitiesV2: POI[] = [
       ro: ["Satul principal din Ngaremlengui", "Centrul administrativ al statului", "Pe coasta de vest a insulei Babeldaob", "Găzduiește o casă tradițională Bai", "Așezare cu caracter rural", "Sediul căpeteniei locale"],
       en: ["Main village of Ngaremlengui State", "Administrative center of the state", "Located on the west coast of Babeldaob", "Site of a traditional Palauan Bai", "Rural-style settlement", "Seat of the local traditional chief"],
     },
+    image: "/poi-images/palau-ulimang-cities-v2.webp",
   },
   {
     id: "palau-mengellang-cities-v2",
@@ -341,6 +351,7 @@ export const palauCitiesV2: POI[] = [
       ro: ["Satul principal din Ngarchelong", "Vârful nordic al insulei Babeldaob", "Acces către monoliții Badrulchau", "Sit cu 37 de coloane antice", "Vedere către Marea Filipinelor", "Sat tradițional de pescari"],
       en: ["Primary village of Ngarchelong State", "Northernmost point of Babeldaob", "Gateway to Badrulchau Monoliths", "Features 37 ancient stone pillars", "Overlooks the Philippine Sea", "Traditional fishing community"],
     },
+    image: "/poi-images/palau-mengellang-cities-v2.webp",
   },
   {
     id: "palau-ngchesar-cities-v2",
@@ -372,6 +383,7 @@ export const palauCitiesV2: POI[] = [
       ro: ["Stat pe coasta de est a Babeldaob", "Cunoscut pentru râul Ngchesar", "Habitat pentru crocodili de apă sărată", "Centru pentru construcția de canoe", "Ecosisteme vaste de mangrove", "Populație de aproximativ 300 locuitori"],
       en: ["State on eastern coast of Babeldaob", "Famous for the Ngchesar River", "Habitat for saltwater crocodiles", "Center for traditional canoe building", "Extensive mangrove ecosystems", "Population of approximately 300"],
     },
+    image: "/poi-images/palau-ngchesar-cities-v2.webp",
   },
   {
     id: "palau-ngiwal-cities-v2",
@@ -403,6 +415,7 @@ export const palauCitiesV2: POI[] = [
       ro: ["Stat în estul insulei Babeldaob", "Centru istoric pentru cultivarea taro", "Are plaje cu nisip alb", "Sit agricol important al țării", "Ecosistem marin bogat", "Pescuitul este o activitate de bază"],
       en: ["State on the east coast of Babeldaob", "Historic center for taro cultivation", "Features white sand beaches", "Key agricultural site for Palau", "Rich marine ecosystem offshore", "Fishing is a primary local activity"],
     },
+    image: "/poi-images/palau-ngiwal-cities-v2.webp",
   },
   {
     id: "palau-ngatpang-cities-v2",
@@ -434,6 +447,7 @@ export const palauCitiesV2: POI[] = [
       ro: ["Situat pe coasta de vest a Babeldaob", "Înconjoară golful Ngeremeduu", "Ecosisteme vaste de mangrove", "Centru pentru proiecte de acvacultură", "Populație de aproximativ 280 locuitori", "Zonă importantă de conservare"],
       en: ["Located on west coast of Babeldaob", "Surrounds Ngeremeduu Bay", "Extensive mangrove ecosystems", "Center for aquaculture projects", "Population of approximately 280", "Ecologically significant conservation area"],
     },
+    image: "/poi-images/palau-ngatpang-cities-v2.webp",
   },
   {
     id: "palau-aimeliik-cities-v2",
@@ -465,5 +479,6 @@ export const palauCitiesV2: POI[] = [
       ro: ["Coasta de sud-vest a Babeldaob", "Găzduiește istoricul Aimeliik Bai", "Prezența teraselor antice", "Populație de aproximativ 330 locuitori", "Locația principalei centrale electrice", "Locuri sacre din mitologia palauană"],
       en: ["Southwestern coast of Babeldaob", "Site of the historic Aimeliik Bai", "Features ancient terraced landscapes", "State population of approx. 330", "Location of the main power plant", "Sacred sites in Palauan mythology"],
     },
+    image: "/poi-images/palau-aimeliik-cities-v2.webp",
   }
 ];

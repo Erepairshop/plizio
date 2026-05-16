@@ -32,6 +32,7 @@ export const hungaryLifeV2: POI[] = [
       ro: ["Parcul a fost înființat în 1997.", "Acoperă o suprafață de 60.314 hectare.", "Există 120 de specii de păsări în parc.", "Vulturul codalb și stârcul purpuriu cuibăresc aici.", "Insula Szentendre este o zonă importantă de cuibărit.", "Peste 500.000 de vizitatori vin anual."],
       en: ["The park was established in 1997.", "It covers an area of 60,314 hectares.", "There are 120 bird species in the park.", "White-tailed eagles and purple herons breed here.", "Szentendre Island is a crucial breeding ground.", "Over 500,000 visitors come annually."],
     },
+    image: "/poi-images/hungary-duna-ipoly-nemzeti-park-life-v2.webp",
   },
   {
     id: "hungary-koros-maros-nemzeti-park-life-v2",
@@ -64,6 +65,7 @@ export const hungaryLifeV2: POI[] = [
       ro: ["Parcul a fost înființat în 1997.", "Suprafața este de 51.125 de hectare.", "Până la 30.000 de cocori poposesc aici.", "Dropia și țestoasa de baltă trăiesc aici.", "Vitele cenușii ungare pășunează în parc.", "Centrul de vizitatori se află în Szarvas."],
       en: ["The park was established in 1997.", "Area is 51,125 hectares.", "Up to 30,000 cranes rest here.", "Great bustard and European pond turtle live here.", "Hungarian grey cattle graze the area.", "The visitor center is in Szarvas."],
     },
+    image: "/poi-images/hungary-koros-maros-nemzeti-park-life-v2.webp",
   },
   {
     id: "hungary-szaszhalombattai-vadaspark-life-v2",
@@ -96,5 +98,6 @@ export const hungaryLifeV2: POI[] = [
       ro: ["Parcul a fost deschis în 1980.", "Suprafața este de 10 hectare.", "Adăpostește cerb, mistreț, lup.", "Vizitatori anual: 50.000.", "Se organizează spectacole cu păsări de pradă.", "Este situat pe malul Dunării."],
       en: ["The park opened in 1980.", "It covers 10 hectares.", "Inhabitants: red deer, wild boar, wolf.", "Annual visitors: 50,000.", "Birds of prey flight shows are held.", "Located on the Danube bank."],
     },
+    image: "/poi-images/hungary-szaszhalombattai-vadaspark-life-v2.webp",
   }
 ];

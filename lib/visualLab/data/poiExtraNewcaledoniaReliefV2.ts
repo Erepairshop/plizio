@@ -31,6 +31,7 @@ export const newcaledoniaReliefV2: POI[] = [
       ro: ["Lungime de aproximativ 400 km", "Cel mai înalt punct: Mont Panié (1628 m)", "Separă coasta de est de cea de vest", "Bogată în zăcăminte de nichel", "Coloana vertebrală a insulei Grande Terre", "Influențează microclimatul local"],
       en: ["Length of approximately 400 kilometers", "Highest point: Mont Panié (1628 m)", "Separates east and west coasts", "Rich in nickel deposits", "Main backbone of Grande Terre island", "Influences the local microclimate"],
     },
+    image: "/poi-images/newcaledonia-chaine-centrale-relief-v2.webp",
   },
   {
     id: "newcaledonia-mont-koghi-relief-v2",
@@ -62,6 +63,7 @@ export const newcaledoniaReliefV2: POI[] = [
       ro: ["Cel mai înalt vârf: 1061 metri", "La doar 15 kilometri de Nouméa", "Locația unei stații meteorologice", "Bogat în ferigi endemice", "Destinație populară pentru drumeții", "Aparține comunei Dumbéa"],
       en: ["Highest peak: 1061 meters", "Only 15 kilometers from Nouméa", "Site of a weather station", "Rich in endemic ferns", "Popular destination for day hikes", "Belongs to the municipality of Dumbéa"],
     },
+    image: "/poi-images/newcaledonia-mont-koghi-relief-v2.webp",
   },
   {
     id: "newcaledonia-mont-aoupinie-relief-v2",
@@ -93,6 +95,7 @@ export const newcaledoniaReliefV2: POI[] = [
       ro: ["Înălțime maximă de 1006 metri", "Rezervație naturală din 1975", "Granița dintre Provincia Nord și Sud", "Habitat al porumbelului Notou", "Zonă importantă de cercetare botanică", "Acoperit de pădure tropicală densă"],
       en: ["Maximum height of 1006 meters", "Nature reserve since 1975", "Border of North and South Provinces", "Home to the Notou pigeon", "Important research area for botany", "Dense rainforest cover"],
     },
+    image: "/poi-images/newcaledonia-mont-aoupinie-relief-v2.webp",
   },
   {
     id: "newcaledonia-plateau-de-dogny-relief-v2",
@@ -124,6 +127,7 @@ export const newcaledoniaReliefV2: POI[] = [
       ro: ["Altitudine de aprox. 1050 metri", "Situat în comuna Sarraméa", "Parte a traseului de drumeție GR1", "Mix de pădure și savană", "Vedere panoramică spre lagună", "Cunoscut pentru păduri de ceață"],
       en: ["Elevation of approx. 1050 meters", "Located in Sarraméa municipality", "Part of the GR1 hiking trail", "Mix of forest and savanna", "Panoramic view of the lagoon", "Known for dense cloud forests"],
     },
+    image: "/poi-images/newcaledonia-plateau-de-dogny-relief-v2.webp",
   },
   {
     id: "newcaledonia-mont-ignambi-relief-v2",
@@ -155,6 +159,7 @@ export const newcaledoniaReliefV2: POI[] = [
       ro: ["Înălțime de 1311 metri", "Situat lângă Ouégoa", "Compus din mica-schist", "Parte a Chaîne Centrale de nord", "Prezența speciei Kentiopsis pyriformis", "Profile geografice abrupte"],
       en: ["Height of 1311 meters", "Located near Ouégoa", "Composed of mica-schist", "Part of the northern Chaîne Centrale", "Occurrence of Kentiopsis pyriformis", "Steep geographical profiles"],
     },
+    image: "/poi-images/newcaledonia-mont-ignambi-relief-v2.webp",
   },
   {
     id: "newcaledonia-mont-colnett-relief-v2",
@@ -186,6 +191,7 @@ export const newcaledoniaReliefV2: POI[] = [
       ro: ["Înălțime de 1505 metri", "Al doilea cel mai înalt munte din țară", "Aparține masivului de nord", "Formațiune geologică de gnais", "Precipitații anuale foarte ridicate", "Locație de orhidee rare"],
       en: ["Height of 1505 meters", "Second highest mountain in the country", "Part of the northern massif", "Geological formation of gneiss", "Very high annual rainfall", "Site of rare orchids"],
     },
+    image: "/poi-images/newcaledonia-mont-colnett-relief-v2.webp",
   },
   {
     id: "newcaledonia-plaine-des-lacs-relief-v2",
@@ -217,6 +223,7 @@ export const newcaledoniaReliefV2: POI[] = [
       ro: ["Altitudine de 200-250 metri", "Locația lacului Grand Lac", "Sol bogat în fier și nichel", "Zonă umedă RAMSAR", "Habitat al plantelor carnivore Drosera", "Vegetație unică de maquis minier"],
       en: ["Elevation of 200 to 250 meters", "Location of the Grand Lac", "Soil rich in iron and nickel", "RAMSAR wetland site", "Home to carnivorous Drosera plants", "Unique maquis minier vegetation"],
     },
+    image: "/poi-images/newcaledonia-plaine-des-lacs-relief-v2.webp",
   },
   {
     id: "newcaledonia-mont-do-relief-v2",
@@ -248,6 +255,7 @@ export const newcaledoniaReliefV2: POI[] = [
       ro: ["Înălțimea vârfului: 1025 metri", "Accesibil printr-un drum montan", "Locația unui radar meteo", "Situat lângă Boulouparis", "Prezența Araucaria biramulata", "Punct de belvedere spre coasta Thio"],
       en: ["Summit height of 1025 meters", "Accessible via a mountain road", "Site of a weather radar", "Located near Boulouparis", "Occurrence of Araucaria biramulata", "Vantage point for the Thio coast"],
     },
+    image: "/poi-images/newcaledonia-mont-do-relief-v2.webp",
   },
   {
     id: "newcaledonia-massif-du-grand-sud-relief-v2",
@@ -279,6 +287,7 @@ export const newcaledoniaReliefV2: POI[] = [
       ro: ["Compus din roci de peridotit", "Conține rezerve enorme de nichel", "Acoperă o treime din Grande Terre", "75% din plante sunt endemice", "Pământ de laterită roșie distinctiv", "Zonă importantă de captare a apei"],
       en: ["Composed of peridotite rock", "Contains enormous nickel reserves", "Covers one third of Grande Terre", "75% of plants are endemic", "Distinctive red laterite earth", "Important water catchment area"],
     },
+    image: "/poi-images/newcaledonia-massif-du-grand-sud-relief-v2.webp",
   },
   {
     id: "newcaledonia-col-d-amieu-relief-v2",
@@ -310,6 +319,7 @@ export const newcaledoniaReliefV2: POI[] = [
       ro: ["Altitudinea pasului la aprox. 425 m", "Conectează La Foa de Canala", "Locația unei stații forestiere", "Cunoscut pentru birdwatching", "Habitat al porumbelului Notou", "Traversează pădurea tropicală densă"],
       en: ["Pass height at approx. 425 meters", "Connects La Foa and Canala", "Site of a forestry station", "Known for birdwatching", "Habitat of the Notou pigeon", "Traverses dense rainforest"],
     },
+    image: "/poi-images/newcaledonia-col-d-amieu-relief-v2.webp",
   },
   {
     id: "newcaledonia-mont-boulinda-relief-v2",
@@ -341,6 +351,7 @@ export const newcaledoniaReliefV2: POI[] = [
       ro: ["Înălțime maximă de 1244 metri.", "Situat în perimetrul comunei Poya.", "Aparține lanțului central din Grande Terre.", "Sol format pe roci ultramafice.", "Centru important de extracție a nichelului.", "Găzduiește floră endemică specializată."],
       en: ["Reaches an elevation of 1,244 meters.", "Located in the municipality of Poya.", "Part of the Central Range of Grande Terre.", "Composed primarily of ultramafic rocks.", "Significant site for nickel mining activities.", "Habitat for rare metallophytic flora."],
     },
+    image: "/poi-images/newcaledonia-mont-boulinda-relief-v2.webp",
   },
   {
     id: "newcaledonia-mont-kaala-relief-v2",
@@ -372,6 +383,7 @@ export const newcaledoniaReliefV2: POI[] = [
       ro: ["Altitudinea maximă este de 1083 metri.", "Situat în Provincia Nord.", "Eponim pentru comuna Kaala-Gomen.", "Masiv izolat în apropierea coastei de vest.", "Vegetația predominantă este de tip maquis.", "Prezintă zăcăminte de crom și nichel."],
       en: ["Peak elevation is 1,083 meters.", "Located in the North Province.", "Eponymous for the Kaala-Gomen municipality.", "Isolated massif near the west coast.", "Dominant vegetation is maquis scrubland.", "Contains deposits of chromium and nickel."],
     },
+    image: "/poi-images/newcaledonia-mont-kaala-relief-v2.webp",
   },
   {
     id: "newcaledonia-mont-tsibai-relief-v2",
@@ -403,6 +415,7 @@ export const newcaledoniaReliefV2: POI[] = [
       ro: ["Altitudinea este de 1194 metri.", "Situat între Ponérihouen și Houaïlou.", "Parte a lanțului muntos central nordic.", "Acoperit de păduri pluviale primare.", "Rezervor important de apă pentru regiune.", "Habitat pentru păsări endemice, inclusiv kagu."],
       en: ["Elevation stands at 1,194 meters.", "Border peak between Ponérihouen and Houaïlou.", "Member of the northern central range.", "Covered by significant primary rainforest.", "Critical watershed for the local area.", "Habitat for endemic birds like the kagu."],
     },
+    image: "/poi-images/newcaledonia-mont-tsibai-relief-v2.webp",
   },
   {
     id: "newcaledonia-mont-arago-relief-v2",
@@ -434,6 +447,7 @@ export const newcaledoniaReliefV2: POI[] = [
       ro: ["Înălțimea vârfului este de 821 metri.", "Situat în districtul Houaïlou.", "Parte integrantă a lanțului muntos central.", "Numit după savantul François Arago.", "Cunoscut pentru prezența minereului de nichel.", "Pante abrupte orientate spre coasta estică."],
       en: ["Peak altitude reaches 821 meters.", "Located in the Houaïlou district.", "Belongs to the central geological chain.", "Named after scientist François Arago.", "Known for nickel ore occurrences.", "Features steep slopes towards the east coast."],
     },
+    image: "/poi-images/newcaledonia-mont-arago-relief-v2.webp",
   },
   {
     id: "newcaledonia-mont-maoya-relief-v2",
@@ -465,6 +479,7 @@ export const newcaledoniaReliefV2: POI[] = [
       ro: ["Altitudine maximă de 1508 metri.", "Al treilea cel mai înalt munte din Noua Caledonie.", "Limită între Provincia Sud și Provincia Nord.", "Adăpostește vegetație rară de pădure montană.", "Nod hidrografic crucial pentru insulă.", "Inclus într-o zonă naturală protejată."],
       en: ["Max elevation of 1,508 meters.", "Third highest mountain in New Caledonia.", "Boundary between South and North provinces.", "Home to rare cloud forest vegetation.", "Critical hydrographic node for the island.", "Part of a protected natural area."],
     },
+    image: "/poi-images/newcaledonia-mont-maoya-relief-v2.webp",
   },
   {
     id: "newcaledonia-mont-ouin-relief-v2",
@@ -496,6 +511,7 @@ export const newcaledoniaReliefV2: POI[] = [
       ro: ["Altitudinea maximă este de 1106 metri.", "Situat în Provincia Sud.", "Aproape de bazinul hidrografic al râului Dumbéa.", "Bogat în specii endemice de Proteaceae.", "Zonă de drumeție cu trasee dificile.", "Vedere asupra rezervației marine protejate."],
       en: ["Peak elevation is 1,106 meters.", "Located in the South Province.", "Proximity to the Dumbéa water catchment area.", "Rich in endemic Proteaceae species.", "Hiking area with challenging trails.", "Views of the protected marine reserve."],
     },
+    image: "/poi-images/newcaledonia-mont-ouin-relief-v2.webp",
   },
   {
     id: "newcaledonia-mont-nakada-relief-v2",
@@ -527,6 +543,7 @@ export const newcaledoniaReliefV2: POI[] = [
       ro: ["Altitudine de 1080 metri.", "Situat în districtul Thio.", "Locație importantă pentru extracția nichelului.", "Structură de relief abruptă cu forme de eroziune.", "Pământ tradițional al triburilor Kanak.", "Poziție aproape de coastă cu caracter montan."],
       en: ["Elevation of 1,080 meters.", "Located in the Thio district.", "Important site for nickel extraction.", "Steep relief structure with erosion forms.", "Traditional land of the Kanak tribes.", "Coastal proximity with mountainous character."],
     },
+    image: "/poi-images/newcaledonia-mont-nakada-relief-v2.webp",
   },
   {
     id: "newcaledonia-mont-sindoa-relief-v2",
@@ -558,6 +575,7 @@ export const newcaledoniaReliefV2: POI[] = [
       ro: ["Înălțimea vârfului este de 1391 metri.", "Limită între comunele Thio și Canala.", "Masiv aparținând lanțului central.", "Grad ridicat de endemism în floră.", "Adesea învăluit în nori și ceață.", "Teren accidentat care îngreunează accesul."],
       en: ["Summit elevation of 1,391 meters.", "Border of Thio and Canala municipalities.", "Part of the Central Range massif.", "High degree of endemism in the flora.", "Frequently shrouded in clouds and fog.", "Rugged terrain limits access."],
     },
+    image: "/poi-images/newcaledonia-mont-sindoa-relief-v2.webp",
   },
   {
     id: "newcaledonia-mont-nekandi-relief-v2",
@@ -589,6 +607,7 @@ export const newcaledoniaReliefV2: POI[] = [
       ro: ["Înălțimea maximă este de 1320 metri.", "Situat în Provincia Sud, lângă Thio.", "Straturi de roci ultramafice dominante.", "Prezența unor zăcăminte importante de nichel.", "Râpe de eroziune abrupte pe versanți.", "Habitat pentru specii endemice de șopârle."],
       en: ["Max elevation is 1,320 meters.", "Located in the South Province near Thio.", "Dominant ultramafic rock layers.", "Significant nickel ore deposits present.", "Steep erosion gullies on the slopes.", "Habitat for endemic lizard species."],
     },
+    image: "/poi-images/newcaledonia-mont-nekandi-relief-v2.webp",
   },
   {
     id: "newcaledonia-mont-katepahi-relief-v2",
@@ -620,6 +639,7 @@ export const newcaledoniaReliefV2: POI[] = [
       ro: ["Altitudinea este de 652 metri.", "Situat în comuna Koné.", "Munte de coastă în Provincia Nord.", "Adăpostește fragmente de pădure uscată.", "Destinație populară pentru drumeții scurte.", "Vedere asupra masivului Voh și a lagunei."],
       en: ["Elevation stands at 652 meters.", "Located in the Koné municipality.", "Coastal mountain in the North Province.", "Site of endangered dry forest remnants.", "Popular destination for short local hikes.", "Views of the Voh massif and the lagoon."],
     },
+    image: "/poi-images/newcaledonia-mont-katepahi-relief-v2.webp",
   },
   {
     id: "newcaledonia-mont-mu-relief-v2",
@@ -651,6 +671,7 @@ export const newcaledoniaReliefV2: POI[] = [
       ro: ["Înălțimea vârfului este de 1212 metri.", "Provincia Sud, comuna Païta.", "Punct de reper important pentru aviație.", "Centru pentru aprovizionarea locală cu apă.", "Prezența arborilor din genul Araucaria.", "Structură formată prin ridicare tectonică."],
       en: ["Peak altitude reaches 1,212 meters.", "South Province, Païta municipality.", "Important landmark for aviation.", "Center for local water supply.", "Presence of Araucaria tree species.", "Structure formed by tectonic uplift."],
     },
+    image: "/poi-images/newcaledonia-mont-mu-relief-v2.webp",
   },
   {
     id: "newcaledonia-mont-dzumac-relief-v2",
@@ -682,6 +703,7 @@ export const newcaledoniaReliefV2: POI[] = [
       ro: ["Altitudine de 1250 metri.", "Izvorul râului Dumbéa.", "Zonă protejată pentru alimentarea cu apă.", "Locație a unor instalații miniere istorice.", "Condiții de sol ultramafic extrem.", "Precipitații ridicate datorate poziției."],
       en: ["Elevation of 1,250 meters.", "Source of the Dumbéa River.", "Protected area for water supply.", "Site of historical mining facilities.", "Extreme ultramafic soil conditions.", "High precipitation due to orographic lift."],
     },
+    image: "/poi-images/newcaledonia-mont-dzumac-relief-v2.webp",
   },
   {
     id: "newcaledonia-mont-canala-relief-v2",
@@ -713,6 +735,7 @@ export const newcaledoniaReliefV2: POI[] = [
       ro: ["Înălțime de cca. 1050 metri.", "Poziție dominantă deasupra golfului Canala.", "Rată anuală foarte ridicată de precipitații.", "Centru al culturii tradiționale Kanak.", "Activități miniere în împrejurimi.", "Bogat în ferigi și orhidee."],
       en: ["Elevation approx. 1,050 meters.", "Dominant position over Canala Bay.", "Very high annual rainfall rates.", "Center of traditional Kanak culture.", "Mining activities in the vicinity.", "Rich in ferns and orchids."],
     },
+    image: "/poi-images/newcaledonia-mont-canala-relief-v2.webp",
   },
   {
     id: "newcaledonia-mont-grandie-relief-v2",
@@ -744,6 +767,7 @@ export const newcaledoniaReliefV2: POI[] = [
       ro: ["Altitudine maximă de 1264 metri.", "Parte a blocului montan Thio.", "Compus din roci de tip peridotit.", "Habitat important pentru gecoși giganți.", "Exploatare minieră limitată.", "Lanțul central al Provinciei Sud."],
       en: ["Max elevation of 1,264 meters.", "Part of the Thio mountain block.", "Composed of peridotite rock.", "Important habitat for giant geckos.", "Limited development by mining.", "Central Range of the South Province."],
     },
+    image: "/poi-images/newcaledonia-mont-grandie-relief-v2.webp",
   },
   {
     id: "newcaledonia-mont-tandji-relief-v2",
@@ -775,6 +799,7 @@ export const newcaledoniaReliefV2: POI[] = [
       ro: ["Altitudinea este de 1056 metri.", "Comuna Boulouparis, Provincia Sud.", "Parte a cumpenei de ape din Grande Terre.", "Descoperiri importante de nichel în sec. XX.", "Prezența unor păsări de pradă rare.", "Amenințat de specii de animale invazive."],
       en: ["Elevation stands at 1,056 meters.", "Boulouparis municipality, South Province.", "Part of the Grande Terre watershed.", "Significant nickel finds in the 20th century.", "Occurrence of rare birds of prey.", "Threatened by invasive animal species."],
     },
+    image: "/poi-images/newcaledonia-mont-tandji-relief-v2.webp",
   },
   {
     id: "newcaledonia-mont-ningua-relief-v2",
@@ -806,6 +831,7 @@ export const newcaledoniaReliefV2: POI[] = [
       ro: ["Înălțimea de 1343 metri deasupra mării", "Face parte din lanțul muntos Chaîne Centrale", "Compus în principal din roci de peridotit", "Găzduiește o rezervație naturală protejată", "Situat în partea de sud a insulei Grande Terre", "Sit important pentru cercetări botanice"],
       en: ["Elevation of 1343 meters above sea level", "Part of the Chaîne Centrale mountain range", "Composed mainly of peridotite rocks", "Home to a protected wilderness reserve", "Located in the south of the main island, Grande Terre", "Habitat for numerous rare endemic plant species"],
     },
+    image: "/poi-images/newcaledonia-mont-ningua-relief-v2.webp",
   },
   {
     id: "newcaledonia-vallon-dore-relief-v2",
@@ -837,5 +863,6 @@ export const newcaledoniaReliefV2: POI[] = [
       ro: ["Sursa apei minerale naturale Mont-Dore", "Situat la aproximativ 20 km sud de Nouméa", "Parte a parcului natural din Marele Sud", "Cunoscut pentru traseele montane spre muntele Mont-Dore", "Localitatea se întinde de-a lungul drumului de coastă", "Zonă rezidențială importantă pentru navetiști"],
       en: ["Home to the source of Mont-Dore mineral water", "Located approximately 20 kilometers south of Nouméa", "Part of the Great South natural region", "Starting point for hikes to the Mont-Dore summit", "The settlement stretches along the coastal road", "Popular residential area for capital city commuters"],
     },
+    image: "/poi-images/newcaledonia-vallon-dore-relief-v2.webp",
   }
 ];

@@ -32,6 +32,7 @@ export const portugalNatureV2: POI[] = [
       ro: ["Lungimea șirului Serra do Marão: aproximativ 50 km.", "Vârful cel mai înalt: Pico do Marão, 1.415 m.", "Munții se află în districtul Vila Real.", "Precipitațiile medii anuale sunt de 1.800 mm.", "Suprafața muntelui este de aproximativ 600 km².", "Trasee de drumeție cu o lungime totală de peste 100 km."],
       en: ["Length of Serra do Marão: approx. 50 km.", "Highest peak: Pico do Marão, 1,415 m.", "The range is located in the Vila Real district.", "Average annual precipitation is 1,800 mm.", "The mountain area is about 600 km².", "Hiking trails total over 100 km."],
     },
+    image: "/poi-images/portugal-serra-do-marao-nature-v2.webp",
   },
   {
     id: "portugal-lagoa-da-pampilhosa-nature-v2",
@@ -64,6 +65,7 @@ export const portugalNatureV2: POI[] = [
       ro: ["Suprafața lacului este de aproximativ 10 km².", "Barajul a fost finalizat în 1963.", "Adâncimea maximă a lacului este de 45 m.", "Bazinul hidrografic al lacului este de 180 km².", "Centrala hidroelectrică produce anual 12 GWh.", "Lungimea malurilor este de aproximativ 35 km."],
       en: ["The lake surface area is about 10 km².", "The dam was completed in 1963.", "Maximum depth of the lake is 45 m.", "The lake's catchment area is 180 km².", "Annual hydroelectric generation is 12 GWh.", "The shoreline length is about 35 km."],
     },
+    image: "/poi-images/portugal-lagoa-da-pampilhosa-nature-v2.webp",
   },
   {
     id: "portugal-rio-tamega-nature-v2",
@@ -96,6 +98,7 @@ export const portugalNatureV2: POI[] = [
       ro: ["Râul Tâmega are o lungime de 145 km.", "Bazinul său hidrografic este de 3.200 km².", "Izvorăște din Sierra de San Mamede, în Galiția.", "Debitul mediu este de 50 m³/s.", "Există 4 baraje majore pe râu.", "Se varsă în Douro la latitudinea de 41°N."],
       en: ["The Tâmega is 145 km long.", "Its basin covers 3,200 km².", "It rises in the Sierra de San Mamede in Galicia.", "Average discharge is 50 m³/s.", "There are 4 major dams on the river.", "It joins the Douro at 41°N latitude."],
     },
+    image: "/poi-images/portugal-rio-tamega-nature-v2.webp",
   },
   {
     id: "portugal-serra-da-lousa-nature-v2",
@@ -128,6 +131,7 @@ export const portugalNatureV2: POI[] = [
       ro: ["Vârful cel mai înalt: Alto da Lousã, 1.205 m.", "Lungimea lanțului: aproximativ 30 km.", "Parcul Natural Lousã a fost înființat în 1990.", "Suprafața parcului: 150 km².", "Există 10 sate istorice de șist.", "Temperatura medie vara: 20°C."],
       en: ["Highest peak: Alto da Lousã, 1,205 m.", "Range length: approx. 30 km.", "Lousã Natural Park was established in 1990.", "Park area: 150 km².", "There are 10 historic schist villages.", "Average summer temperature: 20°C."],
     },
+    image: "/poi-images/portugal-serra-da-lousa-nature-v2.webp",
   },
   {
     id: "portugal-vale-do-rio-paiva-nature-v2",
@@ -160,6 +164,7 @@ export const portugalNatureV2: POI[] = [
       ro: ["Lungimea Pasarelelor Paiva: 8,7 km.", "Râul Paiva are 85 km lungime.", "Geoparcul Arouca are o suprafață de 327 km².", "Pasarelele au fost inaugurate în 2015.", "Înălțimea maximă a cheilor este de 200 m.", "Aproximativ 300.000 de turiști anual."],
       en: ["Paiva Walkways length: 8.7 km.", "Paiva River is 85 km long.", "Arouca Geopark covers 327 km².", "The walkways opened in 2015.", "The gorge's maximum height is 200 m.", "About 300,000 tourists visit annually."],
     },
+    image: "/poi-images/portugal-vale-do-rio-paiva-nature-v2.webp",
   },
   {
     id: "portugal-mata-da-margaraça-nature-v2",
@@ -192,6 +197,7 @@ export const portugalNatureV2: POI[] = [
       ro: ["Pădurea se întinde pe 200 de hectare.", "Face parte din Parcul Natural Serra da Lousã (150 km²).", "Altitudinea variază între 400 și 800 m.", "Există peste 100 de specii de plante.", "Cei mai bătrâni stejari au peste 300 de ani.", "Pădurea a fost declarată arie protejată în 1996."],
       en: ["The forest covers 200 hectares.", "It is part of the Serra da Lousã Natural Park (150 km²).", "Altitude ranges between 400 and 800 m.", "There are over 100 plant species.", "The oldest oaks are over 300 years old.", "The forest was declared a protected area in 1996."],
     },
+    image: "/poi-images/portugal-mata-da-margaraça-nature-v2.webp",
   },
   {
     id: "portugal-serra-do-maroi-nature-v2",
@@ -224,6 +230,7 @@ export const portugalNatureV2: POI[] = [
       ro: ["Cel mai înalt vârf este Maroi, cu 779 de metri.", "Lanțul muntos se întinde pe 30 de kilometri lungime.", "Precipitațiile medii anuale sunt de 1.200 mm.", "Serra do Maroi adăpostește peste 100 de izvoare.", "În regiune există 5 comune cu 10.000 de locuitori.", "Traseul de drumeție PR1 are 15 kilometri."],
       en: ["The highest peak is Maroi at 779 meters.", "The range extends for 30 kilometers in length.", "Average annual rainfall is 1,200 mm.", "Serra do Maroi hosts over 100 springs.", "There are 5 municipalities in the region with 10,000 inhabitants.", "The PR1 hiking trail runs 15 kilometers through the range."],
     },
+    image: "/poi-images/portugal-serra-do-maroi-nature-v2.webp",
   },
   {
     id: "portugal-rio-vouga-nature-v2",
@@ -256,6 +263,7 @@ export const portugalNatureV2: POI[] = [
       ro: ["Râul Vouga are 148 de kilometri lungime.", "Bazinul hidrografic acoperă 3.500 de kilometri pătrați.", "Debitul mediu este de 50 de metri cubi pe secundă.", "Cele mai mari niveluri ale apei au loc în ianuarie.", "Râul este reglat de 5 baraje.", "Temperatura medie a apei este de 15°C."],
       en: ["The Vouga is 148 kilometers long.", "The watershed covers 3,500 square kilometers.", "Average discharge is 50 cubic meters per second.", "Highest water levels occur in January.", "The river is regulated by 5 dams.", "Average water temperature is 15°C."],
     },
+    image: "/poi-images/portugal-rio-vouga-nature-v2.webp",
   },
   {
     id: "portugal-lagoa-da-lapa-nature-v2",
@@ -288,6 +296,7 @@ export const portugalNatureV2: POI[] = [
       ro: ["Rezervorul a fost finalizat în 1975.", "Adâncimea maximă este de 20 de metri.", "Capacitatea este de 12 milioane de metri cubi.", "Suprafața apei este la 550 de metri deasupra nivelului mării.", "Lacul este habitat pentru păstrăvul de munte.", "Temperatura medie a apei vara este de 18°C."],
       en: ["The reservoir was completed in 1975.", "Maximum depth is 20 meters.", "Capacity is 12 million cubic meters.", "Water surface is at 550 meters above sea level.", "The lake is habitat for brown trout.", "Average summer water temperature is 18°C."],
     },
+    image: "/poi-images/portugal-lagoa-da-lapa-nature-v2.webp",
   },
   {
     id: "portugal-serra-do-caldeirao-nature-v2",
@@ -320,6 +329,7 @@ export const portugalNatureV2: POI[] = [
       ro: ["Cel mai înalt vârf este Mu, cu 577 de metri.", "Lanțul muntos se întinde pe 80 de kilometri.", "Pădurile de stejar de plută acoperă 40% din suprafață.", "Populația de râs iberic este de aproximativ 10 indivizi.", "Precipitațiile medii anuale sunt de 600 mm.", "Serra adăpostește peste 200 de izvoare."],
       en: ["The highest peak is Mu at 577 meters.", "The range extends for 80 kilometers.", "Cork oak forests cover 40% of the area.", "The Iberian lynx population is about 10 individuals.", "Average annual rainfall is 600 mm.", "The Serra hosts over 200 springs."],
     },
+    image: "/poi-images/portugal-serra-do-caldeirao-nature-v2.webp",
   },
   {
     id: "portugal-rio-minho-valley-nature-v2",
@@ -352,5 +362,6 @@ export const portugalNatureV2: POI[] = [
       ro: ["Râul Minho are 310 kilometri lungime.", "Lățimea medie este de 100 de metri.", "Suprafața viticolă din vale este de 20.000 de hectare.", "Bazinul hidrografic al râului este de 17.000 de kilometri pătrați.", "Debitul mediu este de 300 de metri cubi pe secundă.", "Cel mai lung pod peste Minho este Ponte de Lima, cu 200 de metri."],
       en: ["The Minho is 310 kilometers long.", "Average width is 100 meters.", "Vineyard area in the valley is 20,000 hectares.", "The river's watershed is 17,000 square kilometers.", "Average discharge is 300 cubic meters per second.", "The longest bridge over the Minho is Ponte de Lima at 200 meters."],
     },
+    image: "/poi-images/portugal-rio-minho-valley-nature-v2.webp",
   }
 ];

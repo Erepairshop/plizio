@@ -31,6 +31,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Construcția fortului în anul 1871", "Fostă colonie penitenciară pentru condamnați", "Locul desfășurării revoltei din 1878", "Restaurare realizată de asociații locale", "Vedere asupra golfului Teremba", "Găzduiește un muzeu al istoriei închisorii"],
       en: ["Construction of the fort began in 1871", "Former penal colony for convicts", "Key site during the 1878 revolt", "Restored by local heritage associations", "Overlooks the Bay of Teremba", "Houses a museum dedicated to prison history"],
     },
+    image: "/poi-images/newcaledonia-fort-teremba-history-v2.webp",
   },
   {
     id: "newcaledonia-cathedrale-saint-joseph-history-v2",
@@ -62,6 +63,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Construcția a început pe 16 august 1887", "Catedrala a fost sfințită în anul 1897", "Turnurile au o înălțime de 25 de metri", "Construită de deținuții coloniei penitenciare", "Proiectată de arhitectul Labulle", "Deține o orgă datând din anul 1905"],
       en: ["Construction began on August 16, 1887", "The cathedral was consecrated in 1897", "The towers reach a height of 25 meters", "Built by convicts from the penal colony", "Designed by the architect Labulle", "Features a pipe organ dating back to 1905"],
     },
+    image: "/poi-images/newcaledonia-cathedrale-saint-joseph-history-v2.webp",
   },
   {
     id: "newcaledonia-phare-amedee-history-v2",
@@ -93,6 +95,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Fabricat în Franța din 1.265 de piese individuale", "Prima lumină a fost aprinsă pe 4 iulie 1865", "Are o scară în spirală cu 247 de trepte", "Înălțimea totală a turnului este de 56 de metri", "Asamblarea pe insulă a durat 10 luni", "Raza de acțiune a luminii este de circa 20 de mile marine"],
       en: ["Manufactured in France from 1,265 separate parts", "The first light was lit on July 4, 1865", "Features a spiral staircase with 247 steps", "The tower's total height is 56 meters", "Assembly on the island took 10 months", "The light has a range of approximately 20 nautical miles"],
     },
+    image: "/poi-images/newcaledonia-phare-amedee-history-v2.webp",
   },
   {
     id: "newcaledonia-prony-village-history-v2",
@@ -124,6 +127,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Fondat ca lagăr pentru deținuți în anul 1867", "Prima concesiune minieră a fost acordată în 1873", "Satul a fost abandonat definitiv în anii 1950", "Găzduiește ruinele unei vechi magazii de pulbere", "Arborii banyan au acoperit complet resturile zidurilor", "A servit drept port important pentru exportul de minereu"],
       en: ["Founded as a convict camp in 1867", "The first nickel mining concession was granted in 1873", "The village was abandoned in the 1950s", "Contains the ruins of an old gunpowder magazine", "Banyan trees have completely overgrown the stone walls", "Served as a key port for ore exportation"],
     },
+    image: "/poi-images/newcaledonia-prony-village-history-v2.webp",
   },
   {
     id: "newcaledonia-balade-mission-history-v2",
@@ -155,6 +159,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["James Cook a debarcat aici pe 4 septembrie 1774", "Prima misiune a fost fondată în decembrie 1843", "Biserica Saint-Denis a fost construită în 1890", "Locul luării în posesie oficiale de către Franța în 1853", "Primul monument a fost ridicat în anul 1913", "Găzduiește mormintele primilor coloniști francezi"],
       en: ["James Cook landed here on September 4, 1774", "The first mission was established in December 1843", "Saint-Denis Church was built in 1890", "Site of the official French annexation in 1853", "The first monument was erected in 1913", "Contains graves of early French settlers"],
     },
+    image: "/poi-images/newcaledonia-balade-mission-history-v2.webp",
   },
   {
     id: "newcaledonia-maison-celieres-history-v2",
@@ -186,6 +191,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Construită în anul 1898 pentru familia Célières", "Restaurare amplă efectuată între 2006 și 2009", "Situată în cartierul istoric Faubourg Blanchot", "Stilul arhitectural este cel de 'Maison de Colon'", "Clasată ca monument istoric în anul 1989", "Găzduiește o bibliotecă specializată în patrimoniu"],
       en: ["Built in 1898 for the Célières family", "Underwent extensive restoration between 2006 and 2009", "Located in the historic Faubourg Blanchot district", "Architectural style follows the 'Maison de Colon'", "Classified as a historic monument in 1989", "Houses a specialized library for heritage preservation"],
     },
+    image: "/poi-images/newcaledonia-maison-celieres-history-v2.webp",
   },
   {
     id: "newcaledonia-bourail-nz-cemetery-history-v2",
@@ -217,6 +223,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Adăpostește un total de 449 de morminte identificate", "Cimitirul a fost deschis oficial în anul 1943", "Monumentul listează 450 de nume de soldați dispăruți", "Administrat de Commonwealth War Graves Commission", "Situat pe Route Territoriale 1, lângă Bourail", "Singurul cimitir de război neozeelandez din țară"],
       en: ["Contains a total of 449 identified graves", "The cemetery was officially opened in 1943", "The memorial lists 450 names of missing personnel", "Maintained by the Commonwealth War Graves Commission", "Located along Route Territoriale 1 near Bourail", "The only New Zealand war cemetery in the country"],
     },
+    image: "/poi-images/newcaledonia-bourail-nz-cemetery-history-v2.webp",
   },
   {
     id: "newcaledonia-lapita-site-kone-history-v2",
@@ -248,6 +255,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Prima descoperire de ceramică de către Piroutet în 1917", "Vechimea vestigiilor este estimată la circa 1.000 î.Hr.", "Situat pe plaja Foué, în apropiere de orașul Koné", "A dat numele întregii perioade culturale 'Lapita'", "Fragmentele prezintă modele geometrice punctate", "Săpături majore au avut loc în anul 1952"],
       en: ["First pottery discovery by Piroutet in 1917", "Age of the finds is estimated at around 1,000 BC", "Located on Foué beach near the town of Koné", "Gave the name 'Lapita' to an entire cultural period", "Shards feature geometric dentate-stamped patterns", "Significant excavations took place in 1952"],
     },
+    image: "/poi-images/newcaledonia-lapita-site-kone-history-v2.webp",
   },
   {
     id: "newcaledonia-chateau-hagen-history-v2",
@@ -279,6 +287,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Construcția a durat din 1889 până în 1892", "Cumpărat de Jean Hagen în anul 1903", "Achiziționat de Provincia de Sud în 1998", "Clasat ca monument istoric din anul 1991", "Situat în cartierul Vallée des Colons", "Grădina se întinde pe o suprafață de două hectare"],
       en: ["Construction took place from 1889 to 1892", "Purchased by Jean Hagen in 1903", "Acquired by the South Province in 1998", "Classified as a historic monument since 1991", "Located in the Vallée des Colons district", "The garden area covers two hectares"],
     },
+    image: "/poi-images/newcaledonia-chateau-hagen-history-v2.webp",
   },
   {
     id: "newcaledonia-bagnes-ile-des-pins-history-v2",
@@ -310,6 +319,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Sosirea primilor deportați în anul 1872", "Peste 3.000 de 'communards' au fost internați aici", "Amnistia deținuților a avut loc în anul 1880", "Clădirea centrală era 'secția a cincea'", "Un turn de apă monumental este încă vizibil", "Situată în apropierea localității Ouro"],
       en: ["Arrival of the first deportees in 1872", "Over 3,000 Communards were internated here", "Amnesty for the prisoners was granted in 1880", "The main building was the 'fifth department'", "A monumental water tower is still standing", "Located near the village of Ouro"],
     },
+    image: "/poi-images/newcaledonia-bagnes-ile-des-pins-history-v2.webp",
   },
   {
     id: "newcaledonia-biblio-bernheim-history-v2",
@@ -341,6 +351,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Pavilionul a fost adus cu vaporul de la Paris în 1901", "Inaugurarea oficială a avut loc în anul 1905", "Donată de industriașul Lucien Bernheim", "Clădirea a fost clasată monument istoric în 1982", "Deține manuscrise rare din epoca colonială", "Situată în inima centrului orașului Nouméa"],
       en: ["The pavilion arrived by ship from Paris in 1901", "The official opening took place in 1905", "Donated by the industrialist Lucien Bernheim", "The building was classified as a monument in 1982", "Holds rare manuscripts from the colonial era", "Located in the heart of Nouméa's city center"],
     },
+    image: "/poi-images/newcaledonia-biblio-bernheim-history-v2.webp",
   },
   {
     id: "newcaledonia-thio-mine-museum-history-v2",
@@ -372,6 +383,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Nichelul a fost extras prima dată în Thio în 1874", "Clădirea muzeului datează din anul 1890", "Thio a fost primul sit industrial modern", "Muzeul a fost inaugurat în anul 1982", "Expune locomotive cu abur folosite la transportul orei", "Fosta direcțiune SLN este acum monument cultural"],
       en: ["Nickel was first mined in Thio in 1874", "The museum building dates back to 1890", "Thio was the first modern industrial site", "The museum was inaugurated in 1982", "Displays steam locomotives used for ore transport", "The former SLN directorate is now a cultural monument"],
     },
+    image: "/poi-images/newcaledonia-thio-mine-museum-history-v2.webp",
   },
   {
     id: "newcaledonia-poya-petroglyphs-history-v2",
@@ -403,6 +415,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Peste 100 de simboluri diferite au fost numărate", "Cel mai frecvent motiv este crucea solară", "Gravurile au fost realizate cu unelte de piatră", "Situate în văile protejate din regiunea Poya", "Clasate ca bunuri culturale de interes major", "Parte dintr-o rețea de peste 300 de situri rupestre"],
       en: ["Over 100 different symbols have been documented", "The most common motif is the sun-wheel cross", "The carvings were made using stone tools", "Located in the sheltered valleys of the Poya region", "Classified as a cultural heritage site of high interest", "Part of a network of over 300 sites across the land"],
     },
+    image: "/poi-images/newcaledonia-poya-petroglyphs-history-v2.webp",
   },
   {
     id: "newcaledonia-oubatche-historic-site-history-v2",
@@ -434,6 +447,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Înființarea postului în anii 1880", "A servit drept stație de telegraf pentru nord", "Port important pentru exploatările timpurii de aur", "Garnizoana a fost activă în timpul răscoalelor Kanak", "Ruinele unei vechi jandarmerii sunt vizibile", "Cimitirul adăpostește morminte din jurul anului 1890"],
       en: ["Establishment of the outpost in the 1880s", "Served as a telegraph station for the north", "Key port for early gold and copper mining", "The garrison was active during Kanak uprisings", "Ruins of an old gendarmerie are still visible", "The cemetery contains graves from around 1890"],
     },
+    image: "/poi-images/newcaledonia-oubatche-historic-site-history-v2.webp",
   },
   {
     id: "newcaledonia-arab-cemetery-nessadiou-history-v2",
@@ -465,6 +479,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Primii deportați din Algeria au sosit în 1873", "Moscheea a fost inaugurată în anul 1998", "Algerienii au fost adesea folosiți în agricultură", "Cimitirul este situat în valea Nessadiou", "Locul ceremoniilor anuale de comemorare", "Adăpostește peste 100 de morminte tradiționale"],
       en: ["First deportees from Algeria arrived in 1873", "The mosque was inaugurated in 1998", "Algerians were often employed in agriculture", "The cemetery is located in the Nessadiou valley", "Site of annual community commemorations", "Contains over 100 traditional burial sites"],
     },
+    image: "/poi-images/newcaledonia-arab-cemetery-nessadiou-history-v2.webp",
   },
   {
     id: "newcaledonia-fort-anse-vata-history-v2",
@@ -496,6 +511,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Primele fortificații datează din anul 1890", "Americanii au instalat tunuri noi în 1940", "Tunurile au un calibru de 140 mm", "A servit la supravegherea pasului Bulari", "Punctul maxim este la 128 metri deasupra mării", "Restaurarea completă a tunurilor în anul 1991"],
       en: ["First fortifications date back to 1890", "Americans installed new guns in 1940", "The cannons have a caliber of 140 mm", "Served to monitor the Bulari Pass", "The highest point is 128 meters above sea level", "Extensive restoration of the guns in 1991"],
     },
+    image: "/poi-images/newcaledonia-fort-anse-vata-history-v2.webp",
   },
   {
     id: "newcaledonia-puebo-mission-history-v2",
@@ -527,6 +543,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Misiunea a fost înființată în 1847 de către părinții mariști.", "Locul primei liturghii catolice de pe insula Grande Terre.", "Șeful de trib Hippolyte a fost botezat aici în anul 1847.", "Biserica de piatră a fost construită între anii 1872 și 1876.", "Găzduiește mormântul episcopului Guillaume Douarre.", "Misiunea a servit drept centru pentru agricultură și meșteșuguri."],
       en: ["Founded in 1847 by Marist missionary fathers.", "Site of the first Catholic mass on the New Caledonian mainland.", "Local chief Hippolyte was baptized here in 1847.", "The stone church was constructed between 1872 and 1876.", "Contains the tomb of Bishop Guillaume Douarre.", "The mission operated as a center for agriculture and crafts."],
     },
+    image: "/poi-images/newcaledonia-puebo-mission-history-v2.webp",
   },
   {
     id: "newcaledonia-anse-du-tir-history-v2",
@@ -558,6 +575,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Numele provine de la exercițiile de tragere (tir) ale marinei.", "Locul primei topitorii de nichel înființate în 1878.", "A găzduit atelierele coloniei penitenciare în secolul al XIX-lea.", "Punct important de acostare înainte de extinderea portului.", "Sediul primelor instalații de generare a energiei din oraș.", "Dezvoltarea sistematică a cartierului a început în 1860."],
       en: ["Named after naval shooting practice (tir) held in the area.", "Site of the first nickel smelter established in 1878.", "Housed penal colony workshops during the 19th century.", "Primary landing point for cargo ships before port modernization.", "Location of the city's first electricity generating plants.", "Systematic urban planning of the district began in 1860."],
     },
+    image: "/poi-images/newcaledonia-anse-du-tir-history-v2.webp",
   },
   {
     id: "newcaledonia-semaphore-noumea-history-v2",
@@ -589,6 +607,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Primul semafor a fost ridicat în anul 1883.", "Utilizat pentru transmiterea mesajelor prin alfabetul cu steaguri.", "Poziție strategică la 128 de metri deasupra nivelului mării.", "Folosit de trupele americane în timpul celui de-al Doilea Război Mondial.", "Înlocuit de tehnologia radio modernă în anul 1970.", "Parte a unei rețele de posturi de coastă din teritoriu."],
       en: ["First semaphore structure erected in 1883.", "Used for transmitting messages using the flag semaphore system.", "Strategically positioned at 128 meters above sea level.", "Utilized by US forces during World War II for surveillance.", "Replaced by modern radio technology in 1970.", "Part of a broader coastal observation network in the territory."],
     },
+    image: "/poi-images/newcaledonia-semaphore-noumea-history-v2.webp",
   },
   {
     id: "newcaledonia-vaillon-dore-estates-history-v2",
@@ -620,6 +639,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Colonizarea zonei de către coloniști a început în jurul anului 1860.", "Centru important pentru creșterea bovinelor în secolul al XIX-lea.", "Locația unor mine de nichel timpurii în dealurile din jur.", "Proprietățile foloseau adesea munca condamnaților din colonie.", "Zonă cunoscută pentru producția de trestie de zahár în văi.", "Păstrarea unor clădiri originale din piatră din epoca pionieratului."],
       en: ["Settlers began developing the area around 1860.", "Key center for cattle ranching during the 19th century.", "Location of early nickel mines in the surrounding hills.", "Estates frequently utilized convict labor from the nearby colony.", "Known for sugarcane production in the lower valleys.", "Several original stone buildings from the pioneer era remain."],
     },
+    image: "/poi-images/newcaledonia-vaillon-dore-estates-history-v2.webp",
   },
   {
     id: "newcaledonia-paita-pioneers-history-v2",
@@ -651,6 +671,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Comuna Païta a fost înființată în anul 1870.", "Primele plantații de trestie de zahăr au fost create în jurul anului 1860.", "Païta a fost punctul terminus al primei linii ferate în 1914.", "Prezență puternică a coloniștilor din Alsacia și Lorena.", "Festivalul anual 'Fête du Bœuf' celebrează tradiția pionierilor.", "Găzduiește vila istorică numită 'Paddock'."],
       en: ["The municipality of Païta was established in 1870.", "First sugarcane plantations were established around 1860.", "Païta served as the terminus for the first railway line in 1914.", "Significant number of settlers arrived from Alsace and Lorraine.", "The annual 'Fête du Bœuf' celebrates pioneer ranching traditions.", "Home to the historic 'Paddock' villa architecture."],
     },
+    image: "/poi-images/newcaledonia-paita-pioneers-history-v2.webp",
   },
   {
     id: "newcaledonia-dumbea-dam-history-v2",
@@ -682,6 +703,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Construcția primului baraj a fost finalizată în 1892.", "Prima conductă de apă către Nouméa avea 14 km lungime.", "Utiliza gravitația pentru transportul apei către oraș.", "Structura a fost extinsă și consolidată în anul 1930.", "Înlocuit de un baraj nou în anul 1972.", "O secțiune din vechiul zid de piatră este încă vizibilă."],
       en: ["Construction of the first dam was completed in 1892.", "The original pipeline to Nouméa spanned 14 kilometers.", "Utilized gravity-fed systems to transport water to the city.", "The structure was expanded and reinforced in 1930.", "Replaced by a modern dam located upstream in 1972.", "Portions of the original stone masonry are still visible today."],
     },
+    image: "/poi-images/newcaledonia-dumbea-dam-history-v2.webp",
   },
   {
     id: "newcaledonia-yate-old-village-history-v2",
@@ -713,6 +735,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Yaté a fost locul primelor contacte cu vânătorii de balene.", "Prima misiune a fost fondată acolo în anul 1864.", "Construcția primului baraj Yaté între 1920 și 1926.", "Inundarea văii pentru barajul actual în anul 1959.", "Găzduiește locuri ceremoniale ale clanurilor locale Kanak.", "Loc important pentru mineritul timpuriu la sfârșitul secolului XIX."],
       en: ["Yaté was a site of early contact with 19th-century whalers.", "The first mission in the area was established in 1864.", "Construction of the original Yaté dam occurred between 1920-1926.", "The valley was flooded for the current dam project in 1959.", "Contains ancient ceremonial sites of local Kanak clans.", "The region was significant for early iron and chrome mining."],
     },
+    image: "/poi-images/newcaledonia-yate-old-village-history-v2.webp",
   },
   {
     id: "newcaledonia-canala-mine-history-v2",
@@ -744,6 +767,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Descoperirea nichelului de către Jules Garnier în 1864.", "Deschiderea primei mine a avut loc în anul 1874.", "Centrul 'goanei după nichel' de la sfârșitul secolului al XIX-lea.", "Locație importantă pentru extracția de cobalt și crom.", "Utilizarea lucrătorilor asiatici cu contract începând din 1890.", "Minele au modelat structura socială a regiunii Canala."],
       en: ["Nickel was first identified by Jules Garnier in 1864.", "The first operational nickel mine opened in 1874.", "Center of the 'Nickel Rush' at the end of the 19th century.", "Also a significant site for cobalt and chrome extraction.", "Asian indentured laborers began working the mines in 1890.", "Mining activities fundamentally shaped Canala's social structure."],
     },
+    image: "/poi-images/newcaledonia-canala-mine-history-v2.webp",
   },
   {
     id: "newcaledonia-saint-louis-mission-history-v2",
@@ -775,6 +799,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Fondată de misionarii mariști în anul 1856.", "Construcția bisericii actuale a fost finalizată în 1860.", "A găzduit o tipografie pentru texte religioase.", "Centru pentru introducerea de noi culturi (ex. cafeaua).", "A jucat un rol în formarea cateheților Kanak.", "Misiunea deținea pășuni vaste pentru creșterea vitelor."],
       en: ["Established by Marist missionaries in 1856.", "Construction of the current church was completed in 1860.", "Housed a printing press for disseminating religious texts.", "A center for introducing new crops, including coffee.", "Played a key role in training Kanak catechists.", "The mission managed extensive cattle grazing lands."],
     },
+    image: "/poi-images/newcaledonia-saint-louis-mission-history-v2.webp",
   },
   {
     id: "newcaledonia-place-cocotiers-history-v2",
@@ -806,6 +831,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Amenajarea pieței a început sub guvernatorul Guillain (1860).", "Compusă din piețele Feillet, Courbet, Marne și Olry.", "Fântâna Céleste din centru a fost ridicată în anul 1893.", "Fost loc pentru anunțuri publice și parade militare.", "Palmierii de cocos au fost plantați începând cu anul 1867.", "Punct central de întâlnire în timpul prezenței SUA în al Doilea Război Mondial."],
       en: ["Landscaping began under Governor Guillain in 1860.", "Consists of four sections: Feillet, Courbet, Marne, and Olry.", "The Celeste Fountain was installed in the center in 1893.", "Formerly the primary site for public announcements and parades.", "The namesake coconut palms were first planted in 1867.", "Served as a major social hub during the US WWII presence."],
     },
+    image: "/poi-images/newcaledonia-place-cocotiers-history-v2.webp",
   },
   {
     id: "newcaledonia-kiosque-musique-history-v2",
@@ -837,6 +863,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Inaugurarea pavilionului a avut loc pe 14 iulie 1879.", "Structura din fontă a fost importată din Franța.", "Servit inițial pentru divertismentul garnizoanei militare.", "Restaurat în 1985 pentru a-i păstra starea originală.", "Punct central pentru iluminatul anual de Crăciun al orașului.", "Loc popular pentru discursuri politice la începutul secolului XX."],
       en: ["The bandstand was inaugurated on July 14, 1879.", "The cast-iron frame was prefabricated and imported from France.", "Originally intended for the entertainment of the military garrison.", "Underwent major restoration in 1985 to preserve its original look.", "Focus of the city's annual Christmas light displays.", "Frequently used for political rallies in the early 20th century."],
     },
+    image: "/poi-images/newcaledonia-kiosque-musique-history-v2.webp",
   },
   {
     id: "newcaledonia-maritime-museum-history-v2",
@@ -868,6 +895,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Muzeul a fost deschis în anul 1999.", "Specializat în arheologia epavelor din Pacific.", "Expune obiecte de pe fregatele 'Boussole' și 'Astrolabe'.", "Documentează istoria farului Amédée.", "Evidențiază rolul portului Nouméa începând cu 1854.", "Situat în fosta clădire terminală a Messageries Maritimes."],
       en: ["The museum was officially opened to the public in 1999.", "Specializes in the archaeology of Pacific underwater shipwrecks.", "Displays items from the frigates 'Boussole' and 'Astrolabe'.", "Features a comprehensive history of the Amédée Lighthouse.", "Covers the development of Nouméa's port since 1854.", "Housed in the former Messageries Maritimes maritime terminal."],
     },
+    image: "/poi-images/newcaledonia-maritime-museum-history-v2.webp",
   },
   {
     id: "newcaledonia-world-war-2-museum-history-v2",
@@ -899,6 +927,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Muzeul este situat într-o baracă originală americană Quonset.", "Deschis în 2013 la a 70-a aniversare a debarcării americane.", "Prezintă istoria diviziei 'France Libre' din Pacific.", "Documentează construcția aerodromurilor și a spitalelor.", "Peste 1 milion de soldați americani au tranzitat insula.", "Evidențiază introducerea vehiculelor Jeep și a băuturii Coca-Cola."],
       en: ["Housed in an authentic US military Quonset hut.", "Opened in 2013 to mark the 70th anniversary of the US arrival.", "Details the history of the New Caledonian Free French forces.", "Documents the rapid construction of airfields and base hospitals.", "Over 1 million American personnel transited through the island.", "Examines the cultural impact, such as the arrival of Jeeps and Coca-Cola."],
     },
+    image: "/poi-images/newcaledonia-world-war-2-museum-history-v2.webp",
   },
   {
     id: "newcaledonia-monument-morts-history-v2",
@@ -930,6 +959,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Inaugurarea primului monument a avut loc în anul 1924.", "Enumeră numele a peste 1.000 de soldați căzuți la datorie.", "Extins cu plăci comemorative pentru al Doilea Război Mondial.", "Locul principal pentru ceremoniile de pe 11 noiembrie și 8 mai.", "Găzduiește adesea garde de onoare în timpul vizitelor oficiale.", "Designul este inspirat de monumentele de război clasice franceze."],
       en: ["The original memorial was inaugurated in 1924.", "Lists the names of over 1,000 local servicemen who died.", "Expanded to include plaques for those lost in World War II.", "Primary location for ceremonies on November 11 and May 8.", "Frequently features honor guards during official visits.", "Architectural style follows classical French war memorial designs."],
     },
+    image: "/poi-images/newcaledonia-monument-morts-history-v2.webp",
   },
   {
     id: "newcaledonia-quai-volontaires-history-v2",
@@ -961,6 +991,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Plecarea primilor voluntari a avut loc pe 5 mai 1941.", "Noua Caledonie s-a alăturat lui de Gaulle încă din septembrie 1940.", "O placă comemorativă amintește de nava 'Cap des Palmes'.", "Mollul a fost scena unor demonstrații patriotice.", "Punct important pentru transportul trupelor în Războiul din Pacific.", "Parte a extinderii portuare de la începutul secolului XX."],
       en: ["The first contingent of volunteers departed on May 5, 1941.", "New Caledonia rallied to de Gaulle as early as September 1940.", "A commemorative plaque honors the steamship 'Cap des Palmes'.", "The quay was a site of major patriotic demonstrations in 1940.", "Critical point for troop deployments during the Pacific War.", "Constructed as part of early 20th-century port modernizations."],
     },
+    image: "/poi-images/newcaledonia-quai-volontaires-history-v2.webp",
   },
   {
     id: "newcaledonia-tontouta-airbase-history-v2",
@@ -992,6 +1023,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Construită în 1942 de inginerii armatei Statelor Unite.", "A servit ca punct nodal pentru ruta aeriană South Pacific Air Ferry.", "A devenit oficial aeroport internațional în anul 1968.", "Este situată la aproximativ 52 de kilometri nord-vest de Nouméa.", "A jucat un rol major în logistica Bătăliei din Marea Coralilor.", "Pista a fost proiectată inițial pentru bombardiere grele B-17."],
       en: ["Built in 1942 by US Army engineering units.", "Served as a hub for the South Pacific Air Ferry Route.", "Became the official international airport in 1968.", "Located approximately 52 kilometers northwest of Nouméa.", "Played a major role in the logistics of the Battle of the Coral Sea.", "The runway was originally designed for heavy B-17 bombers."],
     },
+    image: "/poi-images/newcaledonia-tontouta-airbase-history-v2.webp",
   },
   {
     id: "newcaledonia-route-territoriale-1-history-v2",
@@ -1023,6 +1055,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Lungimea totală este de aproximativ 450 de kilometri pe Grande Terre.", "Conectează Nouméa de orașul nordic Koumac.", "A fost extinsă masiv în timpul boom-ului nichelului din anii 1960.", "Urmează în cea mai mare parte coasta de vest a insulei principale.", "Servește ca rută logistică principală pentru marile mine de nichel.", "Majoritatea secțiunilor au fost asfaltate după al Doilea Război Mondial."],
       en: ["Total length of approximately 450 kilometers across Grande Terre.", "Connects Nouméa to the northern town of Koumac.", "Underwent significant expansion during the 1960s nickel boom.", "Runs mostly along the West Coast of the main island.", "Serves as the primary logistics route for major nickel mines.", "Most sections were only paved after World War II."],
     },
+    image: "/poi-images/newcaledonia-route-territoriale-1-history-v2.webp",
   },
   {
     id: "newcaledonia-koumac-old-village-history-v2",
@@ -1054,6 +1087,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Situat la câțiva kilometri distanță de orașul modern Koumac.", "Așezarea a fost abandonată treptat începând cu anii 1920.", "Activitatea principală era extracția de crom din mina Tiebaghi.", "Ruinele includ vechea jandarmerie și case de locuit din piatră.", "Este clasificat ca patrimoniu istoric protejat în Noua Caledonie.", "Oferă detalii despre viața cotidiană a minerilor în jurul anului 1900."],
       en: ["Located a few kilometers away from the modern town of Koumac.", "The settlement was gradually abandoned starting in the 1920s.", "Focused on chromium extraction from the nearby Tiebaghi mine.", "Ruins include the old gendarmerie and stone residential houses.", "Listed as a protected historical site in New Caledonia.", "Provides insights into the daily life of miners around 1900."],
     },
+    image: "/poi-images/newcaledonia-koumac-old-village-history-v2.webp",
   },
   {
     id: "newcaledonia-port-laguerre-station-history-v2",
@@ -1085,6 +1119,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Fondată în 1951 pentru a sprijini securitatea alimentară locală.", "Specializată în selecția raselor de bovine rezistente la căldură.", "Este situată pe teritoriul municipalității Païta.", "Include câmpuri experimentale pentru producția de fructe tropicale.", "Este operată de Camera de Agricultură locală.", "Găzduiește sesiuni regulate de instruire pentru fermierii locali."],
       en: ["Founded in 1951 to support local food security.", "Specializes in the selection of heat-resistant cattle breeds.", "Located within the municipality of Païta.", "Includes experimental fields for tropical fruit production.", "Operated by the local Chamber of Agriculture.", "Hosts regular training sessions for New Caledonian farmers."],
     },
+    image: "/poi-images/newcaledonia-port-laguerre-station-history-v2.webp",
   },
   {
     id: "newcaledonia-puebo-cathedral-history-v2",
@@ -1116,6 +1151,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Locul primei liturghii catolice din Noua Caledonie (1843).", "Biserica este dedicată Sfântului Dionisie (Saint Denis).", "Clădirea masivă din piatră a fost finalizată în jurul anului 1876.", "Găzduiește mormântul episcopului Guillaume Douarre.", "Situată în districtul istoric Pouébo, pe coasta de est.", "Vitraliile înfățișează scene din viața misionară timpurie."],
       en: ["Site of the first Catholic Mass in New Caledonia (1843).", "The church is dedicated to Saint Denis.", "The massive stone building was completed around 1876.", "Contains the tomb of Bishop Guillaume Douarre.", "Located in the historic Pouébo district on the East Coast.", "Features stained glass windows depicting early missionary life."],
     },
+    image: "/poi-images/newcaledonia-puebo-cathedral-history-v2.webp",
   },
   {
     id: "newcaledonia-hienghene-cultural-history-v2",
@@ -1147,6 +1183,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Locul de naștere al lui Jean-Marie Tjibaou (1936-1989).", "Găzduiește importantul Centru Cultural din Hienghène.", "Cunoscută pentru formațiunea stâncoasă Poule Couveuse (Găina Cloșcă).", "Centru al activismului politic în timpul evenimentelor din anii 1980.", "Include case tradiționale Kanak (Grandes Cases).", "A găzduit primul festival Melanesia 2000 în anul 1975."],
       en: ["Birthplace of Jean-Marie Tjibaou (1936-1989).", "Home to the significant Hienghène Cultural Center.", "Known for the Poule Couveuse (Brooding Hen) rock formation.", "Center of political activism during the Events of the 1980s.", "Features traditional Kanak Great Houses (Grandes Cases).", "Hosted the first Melanesia 2000 festival in 1975."],
     },
+    image: "/poi-images/newcaledonia-hienghene-cultural-history-v2.webp",
   },
   {
     id: "newcaledonia-magent-fort-history-v2",
@@ -1178,6 +1215,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Construit în anii 1850 pentru a supraveghea golful Magenta.", "Ridicat inițial folosind piatră locală și mortar de var.", "Parte a liniei defensive alături de Fort Ouémo.", "Utilizat pentru semnalizarea traficului maritim spre port.", "Situat pe un deal strategic în districtul Magenta.", "Se află astăzi în imediata apropiere a aeroportului intern Magenta."],
       en: ["Built in the 1850s to overlook Magenta Bay.", "Originally constructed using local stone and lime mortar.", "Part of the defensive line alongside Fort Ouémo.", "Used for signaling maritime traffic entering the harbor.", "Located on a strategic hill in the Magenta district.", "Now situated in close proximity to the Magenta domestic airport."],
     },
+    image: "/poi-images/newcaledonia-magent-fort-history-v2.webp",
   },
   {
     id: "newcaledonia-ile-nou-prison-history-v2",
@@ -1209,6 +1247,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Primii 250 de condamnați au sosit pe 9 mai 1864.", "A servit ca inimă organizatorică a Bagne (colonia penală).", "Închiderea oficială pentru scopuri penale a avut loc în 1927.", "Multe clădiri găzduiesc astăzi Universitatea din Noua Caledonie.", "Camp des Travaux a fost sectorul principal pentru forța de muncă.", "Include o brutărie istorică ce hrănea odinioară mii de oameni."],
       en: ["The first 250 convicts arrived on May 9, 1864.", "Served as the organizational heart of the Bagne (penal colony).", "Officially closed for penal purposes in 1927.", "Many buildings now house the University of New Caledonia.", "The Camp des Travaux was the main sector for labor.", "Includes a historic bakery that once fed thousands."],
     },
+    image: "/poi-images/newcaledonia-ile-nou-prison-history-v2.webp",
   },
   {
     id: "newcaledonia-ducos-leper-colony-history-v2",
@@ -1240,6 +1279,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Înființată în locația Marais de pe peninsula Ducos.", "A înlocuit lagăre de izolare anterioare, mai puțin organizate.", "Administrată în principal de Surorile Mariei (Sœurs de Marie).", "A găzduit peste 100 de pacienți simultan în perioadele de vârf.", "Stația a fost închisă treptat odată cu apariția medicamentelor moderne.", "Unele clădiri originale de infirmerie colonială sunt încă în picioare."],
       en: ["Established at the Marais site on the Ducos Peninsula.", "Replaced earlier, less organized isolation camps.", "Managed primarily by the Sisters of Mary (Sœurs de Marie).", "Hosted over 100 patients simultaneously during its peak years.", "The station was phased out as modern medication became available.", "Some original colonial infirmary buildings are still standing."],
     },
+    image: "/poi-images/newcaledonia-ducos-leper-colony-history-v2.webp",
   },
   {
     id: "newcaledonia-briqueterie-plum-history-v2",
@@ -1271,6 +1311,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Perioada de funcționare a fost cuprinsă aproximativ între 1870 și 1910.", "A furnizat materiale de construcție pentru Catedrala din Nouméa.", "Situată lângă râul Plum pentru acces ușor la apă.", "Utiliza un cuptor continuu de tip Hoffman pentru eficiență.", "Cea mai mare parte a muncii grele era prestată de condamnați.", "Este clasificată astăzi ca patrimoniu industrial protejat."],
       en: ["Operational between approximately 1870 and 1910.", "Provided building materials for the Nouméa Cathedral.", "Located near the Plum River for easy water access.", "Utilized a Hoffman-style continuous kiln for efficiency.", "Most of the heavy labor was performed by transportés (convicts).", "Classified as a protected industrial heritage site today."],
     },
+    image: "/poi-images/newcaledonia-briqueterie-plum-history-v2.webp",
   },
   {
     id: "newcaledonia-deva-archaeology-history-v2",
@@ -1302,6 +1343,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Fragmentele de ceramică Lapita datează din aproximativ 1000 î.Hr.", "Situat în cadrul Domaine de Deva, în municipalitatea Bourail.", "Găzduiește una dintre cele mai mari concentrații de cioburi antice.", "Dovezi ale practicilor agricole timpurii au fost descoperite în apropiere.", "Subliniază legăturile istorice dintre Vanuatu și Noua Caledonie.", "A fost excavat sistematic și științific de echipe internaționale."],
       en: ["Lapita pottery found here dates back to roughly 1000 BC.", "Located within the Domaine de Deva in the municipality of Bourail.", "Features one of the highest concentrations of ancient pottery shards.", "Evidence of early agricultural practices was discovered nearby.", "Highlights the historical connections between Vanuatu and New Caledonia.", "Systematically and scientifically excavated by international teams."],
     },
+    image: "/poi-images/newcaledonia-deva-archaeology-history-v2.webp",
   },
   {
     id: "newcaledonia-troisieme-cave-ww2-history-v2",
@@ -1333,6 +1375,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Parte a unei rețele de trei peșteri situate lângă Hienghène.", "A fost rechiziționată și utilizată de armata SUA în anul 1942.", "A servit în principal pentru depozitarea muniției și a proviziilor medicale.", "Temperatura interioară naturală a rămas stabilă pe tot parcursul anului.", "Suficient de mare pentru a adăposti zeci de soldați simultan.", "Accesibilă printr-un scurt traseu de drumeție de la drumul principal."],
       en: ["Part of a network of three caves located near Hienghène.", "Requisitioned and utilized by the US Army in 1942.", "Primarily used for storing ammunition and medical supplies.", "The natural internal temperature remained stable year-round.", "Large enough to accommodate dozens of soldiers at once.", "Accessible via a short hiking trail from the main road."],
     },
+    image: "/poi-images/newcaledonia-troisieme-cave-ww2-history-v2.webp",
   },
   {
     id: "newcaledonia-hotel-ville-noumea-history-v2",
@@ -1364,6 +1407,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Construită pentru omul de afaceri Marchand la sfârșitul secolului al XIX-lea.", "A fost achiziționată oficial de municipalitate în anul 1890.", "Situată la colțul proeminent al pieței Place des Cocotiers.", "Desemnată ca monument istoric în anul 1975.", "Transformarea în Musée de la Ville a avut loc în 1996.", "A supraviețuit numeroaselor ciclone fără daune structurale majore."],
       en: ["Built for a businessman named Marchand in the late 19th century.", "Purchased by the city government officially in 1890.", "Located at the prominent corner of Place des Cocotiers.", "Designated as a historic monument in 1975.", "Transformed into the Musée de la Ville in 1996.", "Survived numerous severe cyclones without major structural damage."],
     },
+    image: "/poi-images/newcaledonia-hotel-ville-noumea-history-v2.webp",
   },
   {
     id: "newcaledonia-vao-church-history-v2",
@@ -1395,6 +1439,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Dedicată Adormirii Maicii Domnului (Assomption de la Vierge).", "Construită în principal din calcar local și piatră de corali.", "Condamnații din a 5-a comună din apropiere au ajutat la construcție.", "Clopotul bisericii a fost turnat în Franța și adus cu nava.", "Găzduiește o colecție de artă sacră tradițională melaneziană.", "Rămâne principalul loc pentru festivitățile catolice de pe insulă."],
       en: ["Dedicated to the Assumption of the Virgin Mary.", "Built primarily with local limestone and coral rock.", "Convicts from the nearby 5th commune assisted in the construction.", "The church bell was cast in France and delivered by ship.", "Houses a collection of traditional Melanesian religious art.", "Remains the primary site for Catholic festivities on the island."],
     },
+    image: "/poi-images/newcaledonia-vao-church-history-v2.webp",
   },
   {
     id: "newcaledonia-foue-penal-station-history-v2",
@@ -1426,6 +1471,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Înființată în jurul anului 1880 ca locație penală secundară.", "Specializată în cultivarea porumbului și a leguminoaselor.", "Situată strategic în apropierea râului Foué.", "A găzduit până la 200 de deținuți recidiviști în perioada de vârf.", "Furniza carne și produse agricole pentru închisoarea de pe Ile Nou.", "Semnificativă pentru istoria colonizării zonei Koné."],
       en: ["Established around 1880 as a secondary penal site.", "Specialized in the cultivation of maize and legumes.", "Strategically located near the Foué river.", "Housed up to 200 repeat offenders (relégués) at its peak.", "Provided meat and produce for the main prison on Ile Nou.", "Significant for the early settlement history of the Koné area."],
     },
+    image: "/poi-images/newcaledonia-foue-penal-station-history-v2.webp",
   },
   {
     id: "newcaledonia-petit-train-mine-history-v2",
@@ -1457,6 +1503,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Mina din Thio s-a deschis în anul 1880", "Utilizarea șinelor cu ecartament îngust Decauville", "Ecartamentul era de 600 mm", "Locomotive cu abur au funcționat până la jumătatea secolului XX", "Rețeaua a depășit 20 km de linii în perioada de vârf", "O locomotivă conservată este expusă la Muzeul din Thio"],
       en: ["Thio mine opened in 1880", "Utilized Decauville narrow-gauge tracks", "Track gauge was 600mm", "Steam locomotives operated until mid-20th century", "Network exceeded 20km of tracks at its peak", "A preserved engine is displayed at the Thio Museum"],
     },
+    image: "/poi-images/newcaledonia-petit-train-mine-history-v2.webp",
   },
   {
     id: "newcaledonia-oubi-village-history-v2",
@@ -1488,6 +1535,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Situat lângă Pouébo, în nord", "Sosirea misiunii mariste în anul 1843", "Influența catolică rămâne puternică", "Colibe tradiționale Kanak (cases) prezente", "Altitudine de aproximativ 50 de metri", "Parte a ariei culturale Hoot ma Waap"],
       en: ["Located near Pouébo in the north", "1843 Marist mission arrival", "Catholic influence remains strong", "Traditional Kanak huts (cases) preserved", "Elevation approx 50 meters", "Part of the Hoot ma Waap cultural area"],
     },
+    image: "/poi-images/newcaledonia-oubi-village-history-v2.webp",
   },
   {
     id: "newcaledonia-semaphore-bourail-history-v2",
@@ -1519,6 +1567,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Construit în anul 1889", "Situat pe dealul Gouaro", "Utilizarea sistemului de telegrafie vizuală", "Scoaterea din uz la mijlocul secolului XX", "Construcție masivă din piatră", "Parte a rețelei de supraveghere a coloniei penitenciare"],
       en: ["Built in 1889", "Located on Gouaro hill", "Visual telegraphy system used", "Decommissioned in mid-20th century", "Stone construction", "Part of the penal colony surveillance network"],
     },
+    image: "/poi-images/newcaledonia-semaphore-bourail-history-v2.webp",
   },
   {
     id: "newcaledonia-point-zero-noumea-history-v2",
@@ -1550,6 +1599,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Situat lângă Place des Cocotiers", "Stabilit la mijlocul secolului al XIX-lea", "Punct de referință pentru distanțele rutiere", "Placă originală din bronz prezentă", "Referință pentru altitudinea de 0 m", "Central pentru sistemul de caroiaj al orașului Nouméa"],
       en: ["Located near Place des Cocotiers", "Established in mid-19th century", "Benchmark for road distances", "Original bronze plaque present", "Reference for altitude 0m", "Central to the grid system of Nouméa"],
     },
+    image: "/poi-images/newcaledonia-point-zero-noumea-history-v2.webp",
   },
   {
     id: "newcaledonia-la-foa-bridge-history-v2",
@@ -1581,6 +1631,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Inaugurat în anul 1909", "Deschidere de 48 de metri", "Numit după Marguerite Richard, soția guvernatorului", "Cabluri furnizate de Arnodin", "Clasificat ca monument istoric în 1984", "Singurul pod de acest tip din Pacific"],
       en: ["Inaugurated in 1909", "Span of 48 meters", "Named after Governor's wife Marguerite Richard", "Cables supplied by Arnodin", "Classified as historical monument in 1984", "Only bridge of this type in the Pacific"],
     },
+    image: "/poi-images/newcaledonia-la-foa-bridge-history-v2.webp",
   },
   {
     id: "newcaledonia-sarramea-agriculture-history-v2",
@@ -1612,6 +1663,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Înființată ca comună în anul 1886", "Cafeaua a fost introdusă în jurul anului 1880", "Altitudinea ridicată favorizează soiul Arabica", "Se sărbătorește festivalul anual al cafelei", "Găzduiește platoul Dogny", "Suprafață de aproximativ 106 km pătrați"],
       en: ["Established as commune in 1886", "Coffee introduced around 1880", "Higher altitude favors Arabica", "Annual coffee festival celebrated", "Home to the Dogny plateau", "Area of approx 106 sq km"],
     },
+    image: "/poi-images/newcaledonia-sarramea-agriculture-history-v2.webp",
   },
   {
     id: "newcaledonia-farino-pioneers-history-v2",
@@ -1643,6 +1695,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Fondat în anul 1881", "Cea mai mică comună ca suprafață (48 km2)", "Inițial s-au stabilit 15 familii", "Primul primar ales în anul 1961", "Concentrație mare de păsări Cagou", "Cunoscut pentru parcul ferigilor gigantice"],
       en: ["Founded in 1881", "Smallest commune by area (48 km2)", "Originally 15 families settled", "First mayor elected in 1961", "High concentration of Cagou birds", "Known for the Giant Fern park"],
     },
+    image: "/poi-images/newcaledonia-farino-pioneers-history-v2.webp",
   },
   {
     id: "newcaledonia-ponérihouen-mission-history-v2",
@@ -1674,6 +1727,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Misiune înființată în anul 1887", "Biserica prezintă lemn local", "Situată pe râul Ponérihouen", "Focus pe educația în domeniul cafelei și cacaoului", "Punct de reper al ariei culturale Paici", "Creșterea populației legată de misiune"],
       en: ["Mission established in 1887", "Church features local timber", "Situated on the Ponérihouen river", "Focus on coffee and cocoa education", "Landmark of the Paici cultural area", "Population growth linked to the mission"],
     },
+    image: "/poi-images/newcaledonia-ponérihouen-mission-history-v2.webp",
   },
   {
     id: "newcaledonia-poum-mining-history-v2",
@@ -1705,6 +1759,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Exploatarea cromului a început în jurul anului 1902", "Extracția nichelului a urmat la mijlocul secolului XX", "Locația izolată a necesitat transport maritim", "Satul minier rămâne vizibil", "Legături cu istoria companiei SLN", "Cel mai nordic centru minier de pe insula principală"],
       en: ["Chrome mining began around 1902", "Nickel extraction followed in mid-20th century", "Remote location required sea transport", "Mining village remains visible", "Ties to SLN company history", "Northernmost mining center on main island"],
     },
+    image: "/poi-images/newcaledonia-poum-mining-history-v2.webp",
   },
   {
     id: "newcaledonia-st-joseph-mission-ouv-history-v2",
@@ -1736,6 +1791,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Fondată în anul 1857", "Biserica de piatră finalizată la sfârșitul secolului XIX", "Situată în districtul de nord al Ouvéa", "Loc al cercetărilor lingvistice timpurii", "A supraviețuit mai multor cicloane", "Centru cultural pentru poporul Iai"],
       en: ["Founded in 1857", "Stone church completed in late 19th century", "Located in the northern district of Ouvéa", "Site of early linguistic research", "Survived multiple cyclones", "Cultural center for the Iai people"],
     },
+    image: "/poi-images/newcaledonia-st-joseph-mission-ouv-history-v2.webp",
   },
   {
     id: "newcaledonia-mare-archaeology-history-v2",
@@ -1767,6 +1823,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Zidurile Laba construite în jurul anului 250 d.Hr.", "Utilizarea blocurilor masive de corali", "Ziduri de până la 4 metri înălțime", "Lungimea totală depășește 300 de metri", "Legat de perioada Hnakudotit", "Redescoperit de arheologi la mijlocul secolului XX"],
       en: ["Laba walls built approx 250 AD", "Massive coral blocks used", "Walls up to 4 meters high", "Total length exceeds 300 meters", "Linked to the Hnakudotit period", "Rediscovered by modern archaeologists in mid-20th century"],
     },
+    image: "/poi-images/newcaledonia-mare-archaeology-history-v2.webp",
   },
   {
     id: "newcaledonia-lifou-mission-history-v2",
@@ -1798,6 +1855,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Primii misionari LMS au sosit în 1842", "Misiunea catolică a început în anul 1858", "Biserica Qanono construită din piatră de coral", "Misiunea Eacho lângă golful Chateaubriand", "Dialectul Lifou utilizat pentru traducerea Bibliei", "Populația este astăzi majoritar creștină"],
       en: ["First LMS missionaries arrived 1842", "Catholic mission started in 1858", "Qanono church built with coral stone", "Eacho mission near Chateaubriand bay", "Lifou dialect used for Bible translation", "Population mostly Christian today"],
     },
+    image: "/poi-images/newcaledonia-lifou-mission-history-v2.webp",
   },
   {
     id: "newcaledonia-thierry-mine-history-v2",
@@ -1829,6 +1887,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Descoperită la sfârșitul anilor 1870", "Producție activă în jurul anului 1890", "Utilizarea telefericelor pentru transport", "Muncitori din Japonia și Indochina", "S-a găsit un conținut semnificativ de nichel", "Parte a rețelei miniere timpurii SLN"],
       en: ["Discovered in late 1870s", "Active production around 1890", "Use of cable cars for transport", "Laborers from Japan and Indochina", "Significant nickel grade found", "Part of the early SLN mining network"],
     },
+    image: "/poi-images/newcaledonia-thierry-mine-history-v2.webp",
   },
   {
     id: "newcaledonia-voh-pioneers-history-v2",
@@ -1860,6 +1919,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Sat fondat în anul 1892", "Focus pe soiul de cafea Leroy", "Înființarea unor mari stații de creștere a vitelor", "Muzeu istoric într-un vechi depozit", "Celebra mangrovă Inima din Voh în apropiere", "Sisteme de irigații construite la începutul anilor 1900"],
       en: ["Village founded in 1892", "Focus on Leroy coffee variety", "Large cattle stations established", "Historical museum in an old warehouse", "Famous Heart of Voh mangrove nearby", "Irrigation systems built in early 1900s"],
     },
+    image: "/poi-images/newcaledonia-voh-pioneers-history-v2.webp",
   },
   {
     id: "newcaledonia-mont-dore-mining-history-v2",
@@ -1891,6 +1951,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Activitatea minieră a început în jurul anului 1870", "Mina Plum cunoscută pentru minereu de calitate", "Utilizarea timpurie a transportului maritim", "Cobaltul a fost un export major până în 1910", "Proximitatea de Nouméa a facilitat logistica", "Zona este acum în restaurare ecologică"],
       en: ["Mining activity started around 1870", "Plum mine known for high-grade ore", "Early use of maritime shipping for ore", "Cobalt was a major export until 1910", "Proximity to Nouméa facilitated logistics", "Area now undergoing ecological restoration"],
     },
+    image: "/poi-images/newcaledonia-mont-dore-mining-history-v2.webp",
   },
   {
     id: "newcaledonia-petroglyphs-mont-mou-history-v2",
@@ -1922,6 +1983,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Înălțimea muntelui: 1211 metri", "Locație: Comuna Païta", "Vârstă estimată: Peste 1000 de ani", "Motive: Preponderent forme geometrice", "Documentare: Prima dată la sfârșitul secolului XIX", "Statut: Sit arheologic protejat"],
       en: ["Mountain elevation: 1211 meters", "Location: Païta commune", "Estimated age: Over 1000 years old", "Motifs: Primarily geometric shapes", "First documented: Late 19th century", "Status: Protected archaeological heritage"],
     },
+    image: "/poi-images/newcaledonia-petroglyphs-mont-mou-history-v2.webp",
   },
   {
     id: "newcaledonia-st-joseph-cathedral-interior-history-v2",
@@ -1953,6 +2015,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Perioada construcției: 1887-1897", "Materiale: Calcar local și lemn de tamanu", "Orga: Instalată în anul 1907", "Vitralii: Reprezintă scene religioase și locale", "Rang: Sediul Arhiepiscopiei de Nouméa", "Protecție: Clasată ca monument istoric în 1992"],
       en: ["Construction period: 1887–1897", "Materials: Local limestone and tamanu wood", "Organ: Installed in the year 1907", "Windows: Feature religious and local motifs", "Seat: Seat of the Archbishop of Nouméa", "Classification: Monument historique since 1992"],
     },
+    image: "/poi-images/newcaledonia-st-joseph-cathedral-interior-history-v2.webp",
   },
   {
     id: "newcaledonia-noumea-wharf-history-v2",
@@ -1984,6 +2047,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Anul înființării: Circa 1854", "Principalul export: Nichel începând cu 1875", "Locație: Golful Moselle", "Extindere: Modernizare majoră în 1910", "Al Doilea Război Mondial: Bază SUA în 1942", "Funcție: Port de pasageri și comercial"],
       en: ["Founding year: Around 1854", "Main export: Nickel since 1875", "Location: Baie de la Moselle", "Expansion: Significant upgrades in 1910", "WWII: Vital U.S. base in 1942", "Current role: Commercial and passenger port"],
     },
+    image: "/poi-images/newcaledonia-noumea-wharf-history-v2.webp",
   },
   {
     id: "newcaledonia-chateau-hagen-gardens-history-v2",
@@ -2015,6 +2079,7 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Construcție: 1889-1892", "Stil: Arhitectură colonială", "Achiziție publică: Anul 1998", "Utilizare: Spațiu de expoziții și concerte", "Suprafață: Câteva hectare de grădină", "Protecție: Clasat ca monument istoric"],
       en: ["Construction: 1887–1892", "Style: Colonial architecture", "Public acquisition: Year 1998", "Current use: Cultural and concert venue", "Garden size: Several hectares", "Status: Listed as a historical monument"],
     },
+    image: "/poi-images/newcaledonia-chateau-hagen-gardens-history-v2.webp",
   },
   {
     id: "newcaledonia-païta-old-railway-history-v2",
@@ -2046,5 +2111,6 @@ export const newcaledoniaHistoryV2: POI[] = [
       ro: ["Începerea lucrărilor: 1901", "Inaugurare: Decembrie 1914", "Lungime: Aproximativ 29 kilometri", "Închiderea liniei: Anul 1939", "Ecartament: 1000 milimetri", "Scop: Transport agricol și minier"],
       en: ["Start of construction: 1901", "Inauguration: December 1914", "Total length: Approximately 29 kilometers", "Closure: Definitively closed in 1939", "Gauge: 1000 mm (meter gauge)", "Purpose: Agricultural and mining transport"],
     },
+    image: "/poi-images/newcaledonia-païta-old-railway-history-v2.webp",
   }
 ];

@@ -31,6 +31,7 @@ export const republicofcongoLandmarksV2: POI[] = [
       ro: ["Situată în Poto-Poto, Brazzaville", "Proiectată de arhitectul Roger Erell", "Construcția a început în 1943, gata în 1949", "Acoperiș și arcuri cu țigle verzi", "Combină stilul gotic cu motive locale", "Simbol al istoriei Africii Franceze Libere"],
       en: ["Located in Poto-Poto, Brazzaville", "Designed by architect Roger Erell", "Construction began in 1943, finished 1949", "Distinctive green-tiled roof and arches", "Blends European Gothic and local motifs", "Symbol of Free French Africa history"],
     },
+    image: "/poi-images/republicofcongo-basilique-sainte-anne-landmarks-v2.webp",
   },
   {
     id: "republicofcongo-mausolee-savorgnan-de-brazza-landmarks-v2",
@@ -62,5 +63,6 @@ export const republicofcongoLandmarksV2: POI[] = [
       ro: ["Inaugurat în octombrie 2006", "Conține rămășițele lui Pierre de Brazza", "Cost de construcție de circa 10 mil. dolari", "Situat lângă Turnul Nabemba", "Arhitectură din marmură albă cu dom", "Comemorează fondatorul orașului Brazzaville"],
       en: ["Inaugurated in October 2006", "Contains remains of Pierre Savorgnan de Brazza", "Built at a cost of about 10 million dollars", "Located near the Nabemba Tower", "White marble architecture with a dome", "Commemorates the founder of Brazzaville"],
     },
+    image: "/poi-images/republicofcongo-mausolee-savorgnan-de-brazza-landmarks-v2.webp",
   }
 ];

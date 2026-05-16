@@ -31,6 +31,7 @@ export const westernsaharaReliefV2: POI[] = [
       ro: ["Compus din roci cristaline precambriene", "Cea mai înaltă elevație din masivul Zemmour", "Geomorfologia accidentată favorizează formarea gueltelor", "Afloriment important pentru tectonica Africii de Vest", "Procesele de eroziune sunt dominate de termoclastie", "Oferă o vizibilitate vastă asupra hamadei"],
       en: ["Composed of Precambrian crystalline rocks", "Highest elevation in the Zemmour Massif", "Rugged geomorphology favors guelta formation", "Important outcrop for West African tectonics", "Erosion processes dominated by thermoclasty", "Offers expansive views over the hamada"],
     },
+    image: "/poi-images/westernsahara-guelta-zemmour-relief-v2.webp",
   },
   {
     id: "westernsahara-adrar-soutouf-relief-v2",
@@ -62,6 +63,7 @@ export const westernsaharaReliefV2: POI[] = [
       ro: ["Aparține scutului precambrian Reguibat", "Compus în principal din granit și roci metamorfice", "Punct de orientare important în sud", "Adăpostește specii rare de salcâmi", "Extremele de temperatură modelează dezintegrarea fizică", "Zonă montană aproape nelocuită"],
       en: ["Part of the Precambrian Reguibat Shield", "Composed primarily of granite and metamorphic rock", "Major navigational landmark in the south", "Hosts rare species of acacia trees", "Temperature extremes drive physical weathering", "Virtually uninhabited highland area"],
     },
+    image: "/poi-images/westernsahara-adrar-soutouf-relief-v2.webp",
   },
   {
     id: "westernsahara-sebkhat-taffoudet-relief-v2",
@@ -93,6 +95,7 @@ export const westernsaharaReliefV2: POI[] = [
       ro: ["Depresiune endoreică mare în interiorul continentului", "Suprafața este compusă din ghips și halit (sare gemă)", "Reprezintă un bazin natural fără scurgere", "Loc important pentru teledetecția geologică", "Zonă aproape lipsită de vegetație", "Se transformă într-un lac sărat în timpul ploilor"],
       en: ["Large endorheic depression in the interior", "Surface composed of gypsum and halite (rock salt)", "Represents a natural closed-basin drainage system", "Important site for geological remote sensing", "Virtually vegetation-free zone", "Transforms into a salt lake during rainfall"],
     },
+    image: "/poi-images/westernsahara-sebkhat-taffoudet-relief-v2.webp",
   },
   {
     id: "westernsahara-daraa-valley-relief-v2",
@@ -124,6 +127,7 @@ export const westernsaharaReliefV2: POI[] = [
       ro: ["Formațiune geologică din era paleozoică", "Parte a unui sistem istoric de rute de caravane", "Precipitații medii anuale sub 50 mm", "Prezența acaciilor de deșert (Acacia tortilis)", "Altitudinea variază între 150 și 300 de metri", "Straturile de rocă conțin fosile marine"],
       en: ["Geological formation dating to the Paleozoic era", "Part of a historical caravan route system", "Average annual precipitation below 50 mm", "Occurrence of desert acacias (Acacia tortilis)", "Elevation varies between 150 and 300 meters", "Rock layers contain marine fossils"],
     },
+    image: "/poi-images/westernsahara-daraa-valley-relief-v2.webp",
   },
   {
     id: "westernsahara-sabkhat-aghtal-relief-v2",
@@ -155,6 +159,7 @@ export const westernsaharaReliefV2: POI[] = [
       ro: ["Depresiune endoreică fără scurgere", "Formarea crustelor de halit și ghips", "Locație importantă pentru studii paleoclimatice", "Temperaturile la suprafață pot depăși 50 grade Celsius", "Prezența câmpiilor de argilă sărată", "Parte a bazinelor de sedimentare sahariene"],
       en: ["Endorheic depression with no outlet", "Formation of halite and gypsum crusts", "Important site for paleoclimatic studies", "Surface temperatures can exceed 50 degrees Celsius", "Occurrence of salt clay flats", "Part of the Saharan sedimentary basins"],
     },
+    image: "/poi-images/westernsahara-sabkhat-aghtal-relief-v2.webp",
   },
   {
     id: "westernsahara-plateau-de-draa-relief-v2",
@@ -186,6 +191,7 @@ export const westernsaharaReliefV2: POI[] = [
       ro: ["Parte a scutului african precambrian", "Tip dominant de rocă: gresie și cuarțit", "Altitudinea medie peste 400 de metri", "Loc de descoperire a gravurilor rupestre preistorice", "Rată ridicată de eroziune cauzată de furtunile de nisip", "Barieră importantă pentru fauna de deșert"],
       en: ["Part of the Precambrian African Shield", "Dominant rock types: sandstone and quartzite", "Average elevation above 400 meters", "Site of prehistoric rock engravings", "High erosion rate due to sandstorms", "Important barrier for desert fauna"],
     },
+    image: "/poi-images/westernsahara-plateau-de-draa-relief-v2.webp",
   },
   {
     id: "westernsahara-ergs-bou-derga-relief-v2",
@@ -217,6 +223,7 @@ export const westernsaharaReliefV2: POI[] = [
       ro: ["Dominanța dunelor de tip barcană", "Nisipul constă predominant din cuarț", "Prezența „nisipului cântător”", "Viteza medie a vântului peste 20 km/h", "Habitat al viperei de nisip", "Parte a bazinului mai mare al Saharei"],
       en: ["Dominance of barchan dunes", "Sand consists predominantly of quartz", "Occurrence of 'singing sand'", "Average wind speed above 20 km/h", "Habitat of the sand viper", "Part of the larger Saharan basin"],
     },
+    image: "/poi-images/westernsahara-ergs-bou-derga-relief-v2.webp",
   },
   {
     id: "westernsahara-guelt-es-semara-relief-v2",
@@ -248,6 +255,7 @@ export const westernsaharaReliefV2: POI[] = [
       ro: ["Rezervor natural de apă în hammada", "Popas important pe Saguia el-Hamra", "Prezența posibilă a peștilor de deșert endemici", "Susține speciile de păsări migratoare", "Semnificativ pentru întemeierea orașului Smara", "Calitatea apei variază în funcție de precipitații"],
       en: ["Natural water reservoir in the hammada", "Important stopping point along the Saguia el-Hamra", "Possible occurrence of endemic desert fish", "Supports migratory bird species", "Significant for the founding of the city of Smara", "Water quality varies depending on rainfall"],
     },
+    image: "/poi-images/westernsahara-guelt-es-semara-relief-v2.webp",
   },
   {
     id: "westernsahara-bassin-de-tindouf-relief-v2",
@@ -279,6 +287,7 @@ export const westernsaharaReliefV2: POI[] = [
       ro: ["Suprafață: aproximativ 500.000 de kilometri pătrați", "Zăcământ important de minereu de fier (Gara Djebilet)", "Grosimea sedimentelor de până la 8.000 de metri", "Parte a marginii scutului Reguibat", "Fluctuații puternice de temperatură de până la 30 de grade pe zi", "Prezența fosilelor de trilobiți din paleozoic"],
       en: ["Size: approx. 500,000 square kilometers", "Important iron ore deposit (Gara Djebilet)", "Sedimentary thickness up to 8,000 meters", "Part of the Reguibat Shield margin", "Strong temperature fluctuations up to 30 degrees per day", "Occurrence of Paleozoic trilobite fossils"],
     },
+    image: "/poi-images/westernsahara-bassin-de-tindouf-relief-v2.webp",
   },
   {
     id: "westernsahara-hamada-de-tifariti-relief-v2",
@@ -310,6 +319,7 @@ export const westernsaharaReliefV2: POI[] = [
       ro: ["Centru al artei rupestre preistorice (Erqueyez)", "Altitudinea medie de aproximativ 450 de metri", "Parte a „teritoriilor eliberate” ale Polisario", "Umiditate extrem de scăzută sub 10%", "Prezența ouălor de struț fosilizate", "Sediul unei misiuni de observare a ONU (MINURSO)"],
       en: ["Center of prehistoric rock art (Erqueyez)", "Average elevation approx. 450 meters", "Part of the 'liberated territories' of the Polisario", "Extremely dry humidity below 10%", "Occurrence of fossilized ostrich eggs", "Seat of a UN observer mission (MINURSO)"],
     },
+    image: "/poi-images/westernsahara-hamada-de-tifariti-relief-v2.webp",
   },
   {
     id: "westernsahara-sebkha-de-tichla-relief-v2",
@@ -341,6 +351,7 @@ export const westernsaharaReliefV2: POI[] = [
       ro: ["Proximitatea față de granița mauritană (aprox. 20 km)", "Altitudine posibilă sub nivelul mării", "Punct important pentru supravegherea frontierelor", "Prezența trandafirilor de deșert (ghips)", "Parte a câmpiei Tichla", "Densitate extrem de scăzută a populației"],
       en: ["Proximity to the Mauritanian border (approx. 20 km)", "Elevation possibly below sea level", "Important point for border monitoring", "Occurrence of desert roses (gypsum)", "Part of the Tichla plain", "Extremely low population density"],
     },
+    image: "/poi-images/westernsahara-sebkha-de-tichla-relief-v2.webp",
   },
   {
     id: "westernsahara-plateau-d-adrar-relief-v2",
@@ -372,6 +383,7 @@ export const westernsaharaReliefV2: POI[] = [
       ro: ["Cele mai înalte vârfuri ating aproximativ 500 de metri", "Parte a fundamentului cristalin", "Habitat al gazelei dorcas, specie amenințată", "Prezența picturilor rupestre neolitice", "Rezervor important de apă pentru regiune", "Barieră geografică față de coasta Atlanticului"],
       en: ["Highest peaks reach approximately 500 meters", "Part of the crystalline basement rock", "Habitat of the endangered Dorcas gazelle", "Occurrence of Neolithic rock art", "Important water reservoir for the region", "Geographical barrier to the Atlantic coast"],
     },
+    image: "/poi-images/westernsahara-plateau-d-adrar-relief-v2.webp",
   },
   {
     id: "westernsahara-sabkhat-idjil-extension-relief-v2",
@@ -403,6 +415,7 @@ export const westernsaharaReliefV2: POI[] = [
       ro: ["Sursă istorică de sare din secolul al XI-lea", "Popas important pentru caravanele de sare (Azalai)", "Extracția sării geme de înaltă calitate", "Regiune de frontieră între Sahara Occidentală și Mauritania", "Geologic, parte a bazinului Taoudenni", "Concentrație de sare extrem de ridicată în sol"],
       en: ["Historical salt source since the 11th century", "Important stop for salt caravans (Azalai)", "Mining of high-quality rock salt", "Border region between Western Sahara and Mauritania", "Geologically part of the Taoudenni Basin", "Extremely high salt concentration in the soil"],
     },
+    image: "/poi-images/westernsahara-sabkhat-idjil-extension-relief-v2.webp",
   },
   {
     id: "westernsahara-hamada-du-dra-relief-v2",
@@ -434,6 +447,7 @@ export const westernsaharaReliefV2: POI[] = [
       ro: ["Dominanța solurilor de tip reg (pavaj de deșert)", "Loc important de descoperire a meteoriților saharieni", "Rata anuală de evaporație peste 3.000 mm", "Temperatura medie vara peste 40 de grade", "Geologic, parte a avanlandului Anti-Atlas", "Aproape nicio așezare umană permanentă"],
       en: ["Dominance of reg soils (desert pavement)", "Important discovery site for Saharan meteorites", "Annual evaporation rate over 3,000 mm", "Average summer temperature over 40 degrees", "Geologically part of the Anti-Atlas foreland", "Hardly any permanent human settlement"],
     },
+    image: "/poi-images/westernsahara-hamada-du-dra-relief-v2.webp",
   },
   {
     id: "westernsahara-plateau-de-boudib-relief-v2",
@@ -465,6 +479,7 @@ export const westernsaharaReliefV2: POI[] = [
       ro: ["Prezența rocilor metamorfice (gnais)", "Altitudine medie de aproximativ 350 de metri", "Loc de descoperire a uneltelor de piatră neolitice", "Amplitudine termică zilnică ridicată", "Punct important pentru cartografierea geologică", "Acces aproape inexistent la ape de suprafață"],
       en: ["Occurrence of metamorphic rocks (gneiss)", "Average elevation approx. 350 meters", "Site of Neolithic stone tool finds", "High daily temperature amplitude", "Important point for geological mapping", "Hardly any access to surface water"],
     },
+    image: "/poi-images/westernsahara-plateau-de-boudib-relief-v2.webp",
   },
   {
     id: "westernsahara-sabkhat-aghtal-sud-relief-v2",
@@ -496,6 +511,7 @@ export const westernsaharaReliefV2: POI[] = [
       ro: ["Cel mai jos punct al depresiunii centrale", "Formarea crustelor de sare poliedrice", "Loc important pentru cercetări microbiologice", "Albedo ridicat datorită suprafeței albe", "Zăcăminte de ghips și halit", "Nicio vegetație permanentă prezentă"],
       en: ["Deepest point of the central depression", "Formation of polyhedral salt crusts", "Important site for microbiological research", "High albedo due to white surface", "Gypsum and halite deposits", "No permanent vegetation present"],
     },
+    image: "/poi-images/westernsahara-sabkhat-aghtal-sud-relief-v2.webp",
   },
   {
     id: "westernsahara-colline-des-gazelles-relief-v2",
@@ -527,6 +543,7 @@ export const westernsaharaReliefV2: POI[] = [
       ro: ["Eponim: gazela dorcas (Gazella dorcas)", "Prezența tumulilor preislamici", "Punct de observație strategic în regiunea de coastă", "Vegetație: acacii și chenopodiacee", "Formațiuni de gresie cu lac de deșert", "Loc important pentru eforturile de conservare a naturii"],
       en: ["Named after the Dorcas gazelle (Gazella dorcas)", "Occurrence of pre-Islamic burial mounds", "Strategic lookout point in the coastal region", "Vegetation: acacias and chenopodiaceae", "Sandstone formations with desert varnish", "Important site for nature conservation efforts"],
     },
+    image: "/poi-images/westernsahara-colline-des-gazelles-relief-v2.webp",
   },
   {
     id: "westernsahara-bas-plateau-du-nord-relief-v2",
@@ -558,6 +575,7 @@ export const westernsaharaReliefV2: POI[] = [
       ro: ["Parte a bazinului hidrografic Saguia el-Hamra", "Zăcăminte importante de fosfați în vecinătate", "Altitudine între 100 și 200 de metri", "Prezența sedimentelor fluviale cuaternare", "Ruta principală de acces către interiorul țării", "Zone de vegetație de-a lungul uedurilor"],
       en: ["Part of the Saguia el-Hamra catchment area", "Important phosphate deposits in the vicinity", "Elevation between 100 and 200 meters", "Occurrence of Quaternary fluvial sediments", "Main access route to the interior of the country", "Vegetation zones along the wadis"],
     },
+    image: "/poi-images/westernsahara-bas-plateau-du-nord-relief-v2.webp",
   },
   {
     id: "westernsahara-sabkhat-de-l-ouest-relief-v2",
@@ -589,6 +607,7 @@ export const westernsaharaReliefV2: POI[] = [
       ro: ["Sabkhat de l'Ouest este situată într-o depresiune închisă, fără ieșire la ocean.", "Suprafața este compusă în principal din halit, ghips și minerale argiloase.", "Ratele de evaporare în această regiune pot depăși 3.000 de milimetri pe an.", "Crusta de sare poate ceda brusc sub greutatea vehiculelor.", "După ploi rare, depresiunea servește ca loc de popas pentru păsările migratoare.", "Studiile geomorfologice indică faptul că bazinul a fost mult mai umed acum 6.000 de ani."],
       en: ["Sabkhat de l'Ouest is located in a closed depression with no outlet to the ocean.", "The surface is primarily composed of halite, gypsum, and clay minerals.", "Evaporation rates in this region can exceed 3,000 millimeters per year.", "The salt crust can suddenly give way under the weight of vehicles.", "After rare rainfalls, the depression serves as a stopover for migratory birds.", "Geomorphological studies show the basin was much wetter 6,000 years ago."],
     },
+    image: "/poi-images/westernsahara-sabkhat-de-l-ouest-relief-v2.webp",
   },
   {
     id: "westernsahara-massif-du-sud-relief-v2",
@@ -620,6 +639,7 @@ export const westernsaharaReliefV2: POI[] = [
       ro: ["Masivul este compus din roci care au o vechime de peste 2,5 miliarde de ani.", "Face parte din scutul cratonic Reguibat din vestul Africii.", "Unele vârfuri ale masivului depășesc înălțimea de 600 de metri deasupra mării.", "Dezintegrarea fizică cauzată de variațiile de temperatură domină eroziunea.", "Regiunea primește în medie mai puțin de 20 mm de precipitații pe an.", "Descoperirile arheologice atestă o locuire umană în perioada neolitică."],
       en: ["The massif consists of rocks that are over 2.5 billion years old.", "It is part of the cratonic Reguibat Shield in Western Africa.", "Some peaks of the massif exceed a height of 600 meters above sea level.", "Physical weathering due to temperature fluctuations dominates erosion.", "The region receives an average of less than 20 mm of precipitation per year.", "Archaeological finds prove human habitation during the Neolithic period."],
     },
+    image: "/poi-images/westernsahara-massif-du-sud-relief-v2.webp",
   },
   {
     id: "westernsahara-plateau-de-la-guelta-relief-v2",
@@ -651,6 +671,7 @@ export const westernsaharaReliefV2: POI[] = [
       ro: ["Gueltas sunt bazine stâncoase naturale care stochează apa fără drenaj.", "Platoul constă în principal din roci sedimentare din era paleozoică.", "În unele gueltas supraviețuiesc populații relicte de pești de deșert.", "Evaporarea în bazinele stâncoase adânci este redusă prin formarea umbrei.", "Platoul atinge o înălțime medie de 400 de metri deasupra nivelului mării.", "Gueltas sunt adesea singurele surse de apă pe o rază de 100 km."],
       en: ["Gueltas are natural rock basins that store water without drainage.", "The plateau consists mainly of sedimentary rocks from the Paleozoic era.", "Relict populations of desert fish survive in some gueltas.", "Evaporation in the deep rock basins is reduced by shading.", "The plateau reaches an average height of 400 meters.", "Gueltas are often the only water sources within a 100 km radius."],
     },
+    image: "/poi-images/westernsahara-plateau-de-la-guelta-relief-v2.webp",
   },
   {
     id: "westernsahara-erg-de-la-cota-relief-v2",
@@ -682,6 +703,7 @@ export const westernsaharaReliefV2: POI[] = [
       ro: ["Un erg este o zonă deșertică acoperită cu nisip în proporție de peste 20%.", "Dunele din Erg de la Cota pot atinge înălțimi de peste 50 de metri.", "Granulele de nisip constă în principal din cuarț cu învelișuri de oxid de fier.", "Barcanele sunt dune în formă de seceră, ale căror coarne indică direcția vântului.", "Vântul Harmattan este forța motrice pentru transportul nisipului.", "Sub nisip se ascund adesea albii de râu fosile din perioada holocenului."],
       en: ["An erg is a desert area covered with sand by more than 20%.", "The dunes in the Erg de la Cota can reach heights of over 50 meters.", "The sand grains consist predominantly of quartz with iron oxide coatings.", "Barchans are crescent-shaped dunes whose horns point in the wind direction.", "The Harmattan wind is the driving force for sand transport.", "Fossil riverbeds from the Holocene are often hidden beneath the sand."],
     },
+    image: "/poi-images/westernsahara-erg-de-la-cota-relief-v2.webp",
   },
   {
     id: "westernsahara-vallée-sèche-du-sud-relief-v2",
@@ -713,6 +735,7 @@ export const westernsaharaReliefV2: POI[] = [
       ro: ["Wadi-urile sunt albii de râu uscate care transportă apă doar periodic.", "Valea a fost modelată activ acum aproximativ 5.000 până la 10.000 de ani.", "Viiturile rapide în wadi pot genera valuri de noroi și resturi de câțiva metri înălțime.", "Acviferele subterane din wadi susțin adesea vegetația de oază.", "Sedimentele din fundul văii sunt adesea bogate în depozite minerale.", "Panta văii este de obicei foarte mică, ceea ce duce la albii largi."],
       en: ["Wadis are dry riverbeds that only carry water periodically.", "The valley was actively shaped approximately 5,000 to 10,000 years ago.", "Flash floods in wadis can generate mud and debris waves several meters high.", "Underground aquifers in wadis often support oasis vegetation.", "The sediments in the valley floor are often rich in mineral deposits.", "The gradient of the valley is usually very low, leading to wide beds."],
     },
+    image: "/poi-images/westernsahara-vallée-sèche-du-sud-relief-v2.webp",
   },
   {
     id: "westernsahara-sabkha-de-tichla-nord-relief-v2",
@@ -744,6 +767,7 @@ export const westernsaharaReliefV2: POI[] = [
       ro: ["Sabkhas se formează adesea în depresiuni puțin adânce cu nivel ridicat al apei subterane.", "Crusta de sare poate atinge o grosime de câțiva centimetri.", "Tichla este un loc strategic important lângă granița cu Mauritania.", "Sabkha reflectă până la 80% din lumina solară incidentă.", "La uscare se formează crăpături de contracție poligonale caracteristice.", "Echilibrul ecologic este extrem de sensibil la perturbările solului."],
       en: ["Sabkhas often form in shallow depressions with a high groundwater table.", "The salt crust can reach a thickness of several centimeters.", "Tichla is a strategically important location near the Mauritanian border.", "The sabkha reflects up to 80% of the incident sunlight.", "Characteristic polygonal mud cracks form during drying.", "The ecological balance is extremely sensitive to soil disturbances."],
     },
+    image: "/poi-images/westernsahara-sabkha-de-tichla-nord-relief-v2.webp",
   },
   {
     id: "westernsahara-plateau-de-la-daraa-relief-v2",
@@ -775,6 +799,7 @@ export const westernsaharaReliefV2: POI[] = [
       ro: ["Hamada este un deșert de rocă sau piatră, adesea sub formă de platou.", "Suprafața platoului constă dintr-o crustă dură de pietriș.", "Plateau de la Daraa atinge înălțimi de până la 500 de metri.", "Eroziunea are loc aici în principal prin abraziune eoliană (coraziune).", "Numele Daraa este adesea asociat cu sistemul fluvial Draa aflat mai la nord.", "Platoul este aproape complet lipsit de vegetație, cu excepția fisurilor adânci."],
       en: ["Hamadas are rock or stone deserts that are often plateau-shaped.", "The surface of the plateau consists of a hard crust of pebbles.", "The Plateau de la Daraa reaches heights of up to 500 meters.", "Erosion here occurs primarily through wind abrasion (corrasion).", "The name Daraa is often linked to the Draa river system further north.", "The plateau is almost completely devoid of vegetation, except in deep crevices."],
     },
+    image: "/poi-images/westernsahara-plateau-de-la-daraa-relief-v2.webp",
   },
   {
     id: "westernsahara-dunes-de-l-atlantique-relief-v2",
@@ -806,6 +831,7 @@ export const westernsaharaReliefV2: POI[] = [
       ro: ["Ceața de coastă (garua) furnizează umiditate plantelor din dune.", "Nisipul conține adesea fragmente de scoici și organisme marine.", "Dunele migratoare pot bloca drumurile de coastă în câteva zile.", "Temperatura apei este relativ scăzută din cauza Curentului Canarelor.", "Barcanele se mișcă aici adesea cu viteze de 20 m pe an.", "Dunele servesc ca loc de cuibărit pentru specii de păsări rare de pe coastă."],
       en: ["Coastal fog (garua) provides moisture to the plants of the dunes.", "The sand often contains fragments of shells and marine organisms.", "Migrating dunes can block coastal roads within a few days.", "The water temperature is relatively cool due to the Canary Current.", "Barchans here often move at speeds of 20 meters per year.", "The dunes serve as a nesting site for rare coastal bird species."],
     },
+    image: "/poi-images/westernsahara-dunes-de-l-atlantique-relief-v2.webp",
   },
   {
     id: "westernsahara-massif-de-l-est-relief-v2",
@@ -837,5 +863,6 @@ export const westernsaharaReliefV2: POI[] = [
       ro: ["Masivul atinge înălțimi de peste 800 de metri deasupra nivelului mării.", "Rocile cristaline ale masivului se numără printre cele mai vechi din Africa.", "Inselbergurile (Bornhardts) se formează prin eroziune diferențială.", "Umiditatea aerului este aici adesea extrem de scăzută (sub 5%).", "Picturi rupestre preistorice au fost descoperite în unele peșteri.", "Regiunea este aproape nelocuită și nu are infrastructură fixă."],
       en: ["The massif reaches heights of over 800 meters above sea level.", "Crystalline rocks of the massif are among the oldest in Africa.", "Inselbergs (Bornhardts) are formed by differential erosion.", "Air humidity here is often extremely low (below 5%).", "Prehistoric rock paintings have been discovered in some caves.", "The region is almost uninhabited and has no permanent infrastructure."],
     },
+    image: "/poi-images/westernsahara-massif-de-l-est-relief-v2.webp",
   }
 ];

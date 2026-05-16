@@ -31,6 +31,7 @@ export const maldivesLifeV2: POI[] = [
       ro: ["Suprafață: 12 hectare", "Protejată din: 2003", "Locație: Keylakunu, Atolul Haa Alifu", "Specie endemică: orhideea maldiviană", "Cel mai înalt copac: aprox. 20 m", "Precipitații: ~2.500 mm/an"],
       en: ["Area: 12 hectares", "Protected since: 2003", "Location: Keylakunu, Haa Alifu Atoll", "Endemic species: Maldivian orchid", "Tallest tree: approx. 20 m", "Rainfall: ~2,500 mm/year"],
     },
+    image: "/poi-images/maldives-keylakunu-forest-life-v2.webp",
   },
   {
     id: "maldives-neykurendhoo-mangrove-life-v2",
@@ -62,6 +63,7 @@ export const maldivesLifeV2: POI[] = [
       ro: ["Suprafață: 8 hectare", "Protejată din: 2010", "Locație: Neykurendhoo, Atolul Raa", "Specii dominante: Rhizophora, Avicennia", "Stocare carbon: ~200 t C/ha", "Specii de păsări: peste 30 de migratoare"],
       en: ["Area: 8 hectares", "Protected since: 2010", "Location: Neykurendhoo, Raa Atoll", "Dominant species: Rhizophora, Avicennia", "Carbon storage: ~200 t C/ha", "Bird species: over 30 migratory species"],
     },
+    image: "/poi-images/maldives-neykurendhoo-mangrove-life-v2.webp",
   },
   {
     id: "maldives-goidhoo-wetland-life-v2",
@@ -93,6 +95,7 @@ export const maldivesLifeV2: POI[] = [
       ro: ["Suprafață: 20 hectare", "Protecție: parte a Rezervației Biosferei UNESCO Baa Atoll", "Locație: Goidhoo, Atolul Baa", "Specie amenințată: rața maldiviană", "Utilizare: observarea păsărilor, agricultură", "Adâncimea apei: până la 1,5 m"],
       en: ["Area: 20 hectares", "Protected status: part of Baa Atoll UNESCO Biosphere Reserve", "Location: Goidhoo, Baa Atoll", "Endangered species: Maldivian teal", "Uses: birdwatching, agriculture", "Water depth: up to 1.5 meters"],
     },
+    image: "/poi-images/maldives-goidhoo-wetland-life-v2.webp",
   },
   {
     id: "maldives-kaashidhoo-wetland-life-v2",
@@ -124,6 +127,7 @@ export const maldivesLifeV2: POI[] = [
       ro: ["Suprafață: 15 hectare", "Protejată din: 2010", "Locație: Kaashidhoo, Atolul Kaafu", "Pasăre cuibăritoare: chirighița maldiviană", "Utilizare: pescuitul crabilor", "Amplitudinea mareei: până la 1 m"],
       en: ["Area: 15 hectares", "Protected since: 2010", "Location: Kaashidhoo, Kaafu Atoll", "Breeding bird: little tern", "Use: crab fishing", "Tidal range: up to 1 meter"],
     },
+    image: "/poi-images/maldives-kaashidhoo-wetland-life-v2.webp",
   },
   {
     id: "maldives-mushimasmingili-mpa-life-v2",
@@ -155,6 +159,7 @@ export const maldivesLifeV2: POI[] = [
       ro: ["Suprafața ariei protejate: 5 km²", "Înființare: 2001", "Locație: sudul Atolului Malé", "Specii de pești: peste 200", "Acoperire corală: ~40%", "Specii de rechini: rechin gri de recif, rechin cu vârfuri albe"],
       en: ["Protected area size: 5 km²", "Established: 2001", "Location: southern Malé Atoll", "Fish species: over 200", "Coral cover: ~40%", "Shark species: gray reef shark, whitetip reef shark"],
     },
+    image: "/poi-images/maldives-mushimasmingili-mpa-life-v2.webp",
   },
   {
     id: "maldives-maaya-thila-marine-life-v2",
@@ -186,6 +191,7 @@ export const maldivesLifeV2: POI[] = [
       ro: ["Anul desemnării: 2012", "Adâncime maximă: 40 metri", "Vizibilitate medie: 20 metri", "Număr de specii de pești: peste 150", "Temperatura apei: 26–29 °C", "Suprafața ariei protejate: 10 km²"],
       en: ["Year of designation: 2012", "Maximum depth: 40 meters", "Average visibility: 20 meters", "Number of fish species: over 150", "Water temperature: 26–29 °C", "Area of protected zone: 10 km²"],
     },
+    image: "/poi-images/maldives-maaya-thila-marine-life-v2.webp",
   },
   {
     id: "maldives-madivaru-hammerhead-life-v2",
@@ -217,6 +223,7 @@ export const maldivesLifeV2: POI[] = [
       ro: ["Anul desemnării: 2014", "Adâncime maximă: 30 metri", "Specie dominantă de rechin-ciocan: Sphyrna lewini", "Luni optime de observare: decembrie–aprilie", "Viteza curenților: până la 3 noduri", "Temperatura apei iarna: 27 °C"],
       en: ["Year of designation: 2014", "Maximum depth: 30 meters", "Most common hammerhead species: Scalloped hammerhead (Sphyrna lewini)", "Best sighting months: December to April", "Current speed: up to 3 knots", "Winter water temperature: 27 °C"],
     },
+    image: "/poi-images/maldives-madivaru-hammerhead-life-v2.webp",
   },
   {
     id: "maldives-hithadhoo-reserve-life-v2",
@@ -248,6 +255,7 @@ export const maldivesLifeV2: POI[] = [
       ro: ["Anul înființării: 1999", "Suprafața totală: 50 de hectare", "Adâncimea maximă a lacului: 5 metri", "Salinitatea lacului: 5 ppm", "Lungimea traseului: 2 km", "Vizitatori anual: aprox. 2000"],
       en: ["Year established: 1999", "Total area: 50 hectares", "Maximum lake depth: 5 meters", "Lake salinity: 5 ppm", "Walking trail length: 2 km", "Annual visitors: approx. 2,000"],
     },
+    image: "/poi-images/maldives-hithadhoo-reserve-life-v2.webp",
   },
   {
     id: "maldives-maabaidhoo-lake-life-v2",
@@ -279,6 +287,7 @@ export const maldivesLifeV2: POI[] = [
       ro: ["Ecosistem de mangrove semnificativ în atolul Laamu", "Suprafața zonei protejate este de cca. 12 hectare", "Găzduiește specia de mangrove Bruguiera gymnorhiza", "Filtru important pentru reținerea sedimentelor", "Habitat pentru specii rare de crabi și pești", "Parte a unui proiect local de ecoturism"],
       en: ["Significant mangrove ecosystem in Laamu Atoll", "Protected area covers approximately 12 hectares", "Home to the Bruguiera gymnorhiza mangrove species", "Acts as a vital filter for sediment retention", "Habitat for rare crab and juvenile fish species", "Integrated into a local ecotourism initiative"],
     },
+    image: "/poi-images/maldives-maabaidhoo-lake-life-v2.webp",
   },
   {
     id: "maldives-thanburudhoo-reef-life-v2",
@@ -310,6 +319,7 @@ export const maldivesLifeV2: POI[] = [
       ro: ["Anul desemnării: 2016", "Adâncime maximă: 40 metri", "Acoperire coralienă: 50%", "Viteza curenților: 1–2 noduri", "Specie coralienă dominantă: Acropora spp.", "Sezon optim: ianuarie–mai"],
       en: ["Year of designation: 2016", "Maximum depth: 40 meters", "Coral cover: 50%", "Current speed: 1–2 knots", "Dominant coral species: Acropora spp.", "Optimal season: January–May"],
     },
+    image: "/poi-images/maldives-thanburudhoo-reef-life-v2.webp",
   },
   {
     id: "maldives-vilimale-coral-life-v2",
@@ -341,6 +351,7 @@ export const maldivesLifeV2: POI[] = [
       ro: ["Proiect al ONG-ului Save the Beach Maldives", "Accent pe specii de corali rezistente la căldură", "Monitorizarea sănătății recifului în jurul Villingili", "Utilizarea pepinierelor de corali (nurseries)", "Implicarea voluntarilor locali și a școlilor", "Documentarea periodică a diversității speciilor"],
       en: ["Initiative by the NGO Save the Beach Maldives", "Focuses on cultivating heat-resistant coral species", "Monitors reef health surrounding Villingili island", "Utilizes underwater coral nurseries for growth", "Involves local volunteers and educational programs", "Regular monitoring of marine species repopulation"],
     },
+    image: "/poi-images/maldives-vilimale-coral-life-v2.webp",
   },
   {
     id: "maldives-guraidhoo-corner-life-v2",
@@ -372,6 +383,7 @@ export const maldivesLifeV2: POI[] = [
       ro: ["Anul desemnării: 2011", "Lățimea canalului: 200 metri", "Adâncime maximă: 40 metri", "Număr anual de raze manta: peste 500", "Sezon optim: mai–noiembrie", "Temperatura apei: 25–30 °C"],
       en: ["Year of designation: 2011", "Channel width: 200 meters", "Maximum depth: 40 meters", "Annual manta ray count: over 500", "Best sighting season: May–November", "Water temperature: 25–30 °C"],
     },
+    image: "/poi-images/maldives-guraidhoo-corner-life-v2.webp",
   },
   {
     id: "maldives-dhigurah-whale-shark-life-v2",
@@ -403,6 +415,7 @@ export const maldivesLifeV2: POI[] = [
       ro: ["Anul desemnării: 2015", "Suprafață: 15 km²", "Lungime maximă a rechinului-balenă: 12 metri", "Observări anuale: aproximativ 300", "Distanța minimă a bărcilor: 100 de metri", "Interzis înotul cu rechini-balenă: Da"],
       en: ["Year of designation: 2015", "Area: 15 km²", "Maximum whale shark length: 12 meters", "Annual sightings: approx. 300", "Minimum boat distance: 100 meters", "Swimming with whale sharks prohibited: Yes"],
     },
+    image: "/poi-images/maldives-dhigurah-whale-shark-life-v2.webp",
   },
   {
     id: "maldives-kani-corner-life-v2",
@@ -434,6 +447,7 @@ export const maldivesLifeV2: POI[] = [
       ro: ["Adâncime: 5–40 metri", "Sezon optim: ianuarie–martie", "Temperatura apei: 27–29 °C", "Specie dominantă de rechin: rechin-ciocan", "Curenți puternici: până la 2 noduri", "Statut de protecție: niciunul, dar reglementări locale"],
       en: ["Depth: 5–40 meters", "Best sighting season: January–March", "Water temperature: 27–29 °C", "Most common shark: Scalloped hammerhead", "Current strength: strong (up to 2 knots)", "Protection status: none, but local regulation"],
     },
+    image: "/poi-images/maldives-kani-corner-life-v2.webp",
   },
   {
     id: "maldives-fushifaru-thila-life-v2",
@@ -465,6 +479,7 @@ export const maldivesLifeV2: POI[] = [
       ro: ["Anul desemnării: 2010", "Adâncime: 3–30 metri", "Specii de pești: peste 200", "Vizibilitate medie: 25 de metri", "Curenți: moderati (aprox. 1 nod)", "Corali: duri și moi"],
       en: ["Year of designation: 2010", "Depth: 3–30 meters", "Fish species: over 200", "Average visibility: 25 meters", "Current: moderate (approx. 1 knot)", "Corals: hard and soft"],
     },
+    image: "/poi-images/maldives-fushifaru-thila-life-v2.webp",
   },
   {
     id: "maldives-gaafaru-reef-life-v2",
@@ -496,5 +511,6 @@ export const maldivesLifeV2: POI[] = [
       ro: ["Anul desemnării: 2014", "Lungimea recifului: 2 km", "Adâncime: 5–30 de metri", "Specii de pești: peste 300", "Acoperire coralienă: 55%", "Activități interzise: pescuit și ancorare"],
       en: ["Year of designation: 2014", "Reef length: 2 km", "Depth: 5–30 meters", "Fish species: over 300", "Coral cover: 55%", "Prohibited activities: fishing and anchoring"],
     },
+    image: "/poi-images/maldives-gaafaru-reef-life-v2.webp",
   }
 ];

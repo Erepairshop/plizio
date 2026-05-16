@@ -33,6 +33,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Capitala regiunii Bretania, cu aproximativ 220.000 de locuitori.", "Marele incendiu din 1720 a distrus peste 800 de case din oraș.", "Găzduiește Palais du Parlement de Bretagne (secolul al XVII-lea).", "Universitatea din Rennes este una dintre cele mai importante din Franța.", "Sistemul de metrou complet automatizat VAL a fost deschis în 2002.", "Situat strategic la confluența râurilor Ille și Vilaine."],
       en: ["Capital of the Brittany region with approximately 220,000 inhabitants.", "The Great Fire of 1720 destroyed over 800 houses in the city.", "Home to the Palais du Parlement de Bretagne (17th century).", "The University of Rennes is among the most significant in France.", "The fully automated VAL metro system was inaugurated in 2002.", "Strategically located at the confluence of the Ille and Vilaine rivers."],
     },
+    image: "/poi-images/rennes.webp",
   },
   {
     id: "le-havre",
@@ -57,6 +58,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Fondat în 1517 de Francisc I", "Patrimoniu UNESCO din anul 2005", "Centru proiectat de Auguste Perret", "Biserica Saint-Joseph are 107 metri", "Al doilea port comercial al Franței", "Locul de naștere al Impresionismului"],
       en: ["Founded in 1517 by Francis I", "UNESCO World Heritage site since 2005", "Center designed by Auguste Perret", "Saint Joseph Church is 107 meters tall", "Second largest commercial port in France", "Birthplace of the Impressionist movement"],
     },
+    image: "/poi-images/le-havre.webp",
   },
   {
     id: "angers",
@@ -81,6 +83,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Sediul Casei de Plantagenet", "Castel cu 17 turnuri de apărare", "Tapiseria Apocalipsei (sec. XIV)", "Situat pe malul râului Maine", "Centru major de horticultură", "Catedrala Saint-Maurice (sec. XII)"],
       en: ["Seat of the House of Plantagenet", "Castle features 17 defensive towers", "Apocalypse Tapestry (14th century)", "Located on the Maine River", "Major center for horticulture", "Saint-Maurice Cathedral (12th century)"],
     },
+    image: "/poi-images/angers.webp",
   },
   {
     id: "nimes",
@@ -105,6 +108,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Arena datează din sec. I d.Hr.", "Maison Carrée este patrimoniu UNESCO", "Locul de origine al țesăturii denim", "Amfiteatru roman de 24.000 locuri", "Jardins de la Fontaine (sec. XVIII)", "Turnul Magne are o înălțime de 32 metri"],
       en: ["Arena dates from the 1st century AD", "Maison Carrée is a UNESCO site", "Origin of the fabric name 'denim'", "Roman amphitheater holds 24,000 people", "Jardins de la Fontaine (18th century)", "Tour Magne stands 32 meters high"],
     },
+    image: "/poi-images/nimes.webp",
   },
   {
     id: "clermont-ferrand",
@@ -129,6 +133,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Unit din două orașe în 1630", "Catedrală construită din lavă neagră", "Sediul Michelin (din 1889)", "Locul de naștere al lui Blaise Pascal", "Chaîne des Puys (lanț vulcanic) aproape", "Festival internațional de scurtmetraj"],
       en: ["Merged from two cities in 1630", "Cathedral built from black lava stone", "Michelin headquarters (since 1889)", "Birthplace of Blaise Pascal", "Near Chaîne des Puys volcanic chain", "International Short Film Festival"],
     },
+    image: "/poi-images/clermont-ferrand.webp",
   },
   {
     id: "brest",
@@ -153,6 +158,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Bază navală din sec. XVII", "Pont de Recouvrance (pod liftant)", "Centrul oceanic Océanopolis", "Castel cu 1.700 de ani de istorie", "Reconstrucție totală după 1944", "Punct de plecare pentru regate mondiale"],
       en: ["Naval base since the 17th century", "Pont de Recouvrance (lift bridge)", "Océanopolis ocean discovery center", "Castle has 1,700 years of history", "Reconstruction after 1944 destruction", "Starting point for sailing world records"],
     },
+    image: "/poi-images/brest.webp",
   },
   {
     id: "tours",
@@ -177,6 +183,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Bătălia de la Tours în 732", "Fostă capitală a Franței", "Mormântul Sfântului Martin", "Place Plumereau (case din lemn)", "Catedrala Saint-Gatien (sec. XII-XVI)", "Situat la intersecția Loarei cu Cher"],
       en: ["Battle of Tours in 732", "Former capital of France", "Tomb of Saint Martin", "Place Plumereau (half-timbered houses)", "Saint-Gatien Cathedral (12th-16th c.)", "Located on the Loire and Cher rivers"],
     },
+    image: "/poi-images/tours.webp",
   },
   {
     id: "amiens",
@@ -201,6 +208,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Cea mai mare catedrală gotică din Franța", "Patrimoniu UNESCO din 1981", "Hortillonnages (grădini plutitoare)", "Locuința lui Jules Verne", "Cartierul Saint-Leu pe râul Somme", "Catedrala are un volum de 200.000 m³"],
       en: ["Largest Gothic cathedral in France", "UNESCO World Heritage since 1981", "Hortillonnages (floating gardens)", "Home of writer Jules Verne", "Saint-Leu district on the Somme", "Cathedral volume is 200,000 m³"],
     },
+    image: "/poi-images/amiens.webp",
   },
   {
     id: "limoges",
@@ -225,6 +233,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Centru mondial al porțelanului", "Descoperirea kaolinului în 1768", "Gara Limoges-Bénédictins (1929)", "Cartierul de la Boucherie (medieval)", "Arta smalțului din sec. XII", "Catedrala Saint-Étienne (gotică)"],
       en: ["World center of porcelain production", "Discovery of kaolin in 1768", "Limoges-Bénédictins station (1929)", "Quartier de la Boucherie (medieval)", "Enamel art since the 12th century", "Saint-Étienne Cathedral (Gothic style)"],
     },
+    image: "/poi-images/limoges.webp",
   },
   {
     id: "metz",
@@ -249,6 +258,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Catedrală cu 6.500 m² de vitralii", "Gară planificată de împăratul Wilhelm II", "Centre Pompidou-Metz (din 2010)", "Piatră de Jaumont galbenă ca material", "Porte des Allemands (poartă fortificată)", "Una dintre cele mai înalte nave (42m)"],
       en: ["Cathedral has 6,500 m² of stained glass", "Station planned by Emperor Wilhelm II", "Centre Pompidou-Metz (since 2010)", "Yellow Jaumont limestone building material", "Porte des Allemands (fortified gate)", "One of the highest naves in France (42m)"],
     },
+    image: "/poi-images/metz.webp",
   },
   {
     id: "perpignan",
@@ -273,6 +283,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Fostă capitală a Regatului Majorcăi", "Palatul Regilor (sec. XIII)", "Castillet construit din cărămidă roșie", "Identitate catalană puternică", "Catedrala Saint-Jean-Baptiste", "Situat pe malul râului Têt"],
       en: ["Former capital of the Kingdom of Majorca", "Palace of the Kings (13th century)", "Castillet made of red brick", "Strong Catalan cultural identity", "Saint-Jean-Baptiste Cathedral", "Located on the Têt River"],
     },
+    image: "/poi-images/perpignan.webp",
   },
   {
     id: "besancon",
@@ -297,6 +308,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Citadela proiectată de Vauban se întinde pe o suprafață de aproape 12 hectare pe un pinten stâncos.", "Victor Hugo s-a născut la 26 februarie 1802 într-o casă situată în actuala piață care îi poartă numele.", "Ceasul astronomic din Catedrala Saint-Jean conține peste 30.000 de piese și are 57 de cadrane.", "Besançon a fost primul oraș din Franța care a înființat o școală de ceasornicărie în secolul al XIX-lea.", "Fortificațiile orașului au fost incluse pe lista patrimoniului mondial UNESCO în anul 2008.", "Râul Doubs înconjoară centrul istoric într-o buclă aproape perfectă, numită Boucle."],
       en: ["The Vauban Citadel covers nearly 12 hectares on a rocky outcrop overlooking the city.", "Victor Hugo was born on February 26, 1802, in a house located on what is now Place Victor Hugo.", "The Astronomical Clock in Saint-Jean Cathedral consists of over 30,000 parts and features 57 dials.", "Besançon established France's first specialized watchmaking school in the 19th century.", "The city's military fortifications were added to the UNESCO World Heritage list in 2008.", "The Doubs River forms a nearly perfect circular loop around the historic old town center."],
     },
+    image: "/poi-images/besancon.webp",
   },
   {
     id: "orleans",
@@ -321,6 +333,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Orléans a fost eliberat de sub asediul englez la 8 mai 1429, sub conducerea Ioanei d'Arc.", "Catedrala Sainte-Croix este aproape la fel de vastă ca Notre-Dame din Paris în ceea ce privește dimensiunile.", "În secolul al XVIII-lea, orașul era considerat capitala mondială a producției de oțet.", "Maison de Jeanne d'Arc este o reconstrucție a casei în care eroina a locuit în timpul campaniei din 1429.", "Orașul este situat în inima Văii Loarei, regiune inclusă în patrimoniul mondial UNESCO din anul 2000.", "Universitatea din Orléans a fost fondată oficial în anul 1306 de către Papa Clement al V-lea."],
       en: ["Orléans was liberated on May 8, 1429, following a brief but decisive campaign led by Joan of Arc.", "The Sainte-Croix Cathedral is nearly as large as Notre-Dame de Paris in terms of its interior volume.", "During the 18th century, the city was the world's leading center for high-quality vinegar production.", "The House of Joan of Arc is a faithful reconstruction of the residence where she stayed during the siege.", "The city serves as a key gateway to the Loire Valley, a UNESCO World Heritage site since 2000.", "The University of Orléans was established in 1306 by Pope Clement V, specializing in civil law."],
     },
+    image: "/poi-images/orleans.webp",
   },
   {
     id: "mulhouse",
@@ -345,6 +358,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Mulhouse s-a alăturat oficial Republicii Franceze la data de 4 ianuarie 1798.", "Cité de l'Automobile găzduiește faimoasa colecție Schlumpf, compusă din peste 400 de vehicule.", "Biserica Saint-Étienne are cel mai înalt turn de biserică din departamentul Haut-Rhin.", "Orașul a fost pionier în Franța prin construirea primelor cartiere rezidențiale pentru muncitori în 1853.", "Mulhouse adăpostește Cité du Train, cel mai mare muzeu feroviar din Europa continentală.", "Aeroportul internațional Basel-Mulhouse-Freiburg se află la o distanță de doar 25 de kilometri."],
       en: ["Mulhouse officially voted to become part of the French Republic on January 4, 1798.", "The Cité de l'Automobile features the renowned Schlumpf collection of over 400 classic cars.", "The Temple Saint-Étienne has the tallest spire among all churches in the Haut-Rhin department.", "In 1853, Mulhouse was the first city in France to establish a dedicated worker's housing district.", "The city is home to the Cité du Train, the largest railway museum in continental Europe.", "The city is located just 25 kilometers from the EuroAirport Basel-Mulhouse-Freiburg."],
     },
+    image: "/poi-images/mulhouse.webp",
   },
   {
     id: "caen",
@@ -369,6 +383,7 @@ const citySeeds: CitySeed[] = [
       ro: ["William Cuceritorul a ordonat construcția castelului din Caen în jurul anului 1060.", "Piatra de Caen a fost utilizată în secolul al XI-lea pentru construcția Turnului Londrei din Anglia.", "Mormântul lui William Cuceritorul se află în interiorul bisericii Abbaye aux Hommes.", "Orașul a fost eliberat de sub ocupația germană la 9 iulie 1944, după lupte intense.", "Muzeul Mémorial de Caen a fost inaugurat oficial în 1988, pe locul unui fost buncăr german.", "Canalul care leagă Caen de marea deschisă are o lungime de 14 kilometri și este navigabil."],
       en: ["William the Conqueror began the construction of Caen Castle around the year 1060.", "Caen stone was exported during the Middle Ages to build the Tower of London in England.", "The tomb of William the Conqueror is located inside the church of the Abbaye aux Hommes.", "Caen was officially liberated by Allied forces on July 9, 1944, following weeks of heavy fighting.", "The Mémorial de Caen museum was opened in 1988 on the site of a former German command bunker.", "The Caen Canal to the Sea is 14 kilometers long and connects the city port to the English Channel."],
     },
+    image: "/poi-images/caen.webp",
   },
   {
     id: "nancy",
@@ -393,6 +408,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Place Stanislas a fost construită între anii 1751 și 1755 sub direcția arhitectului Emmanuel Héré.", "Stanisław Leszczyński a fost socrul regelui Franței, Ludovic al XV-lea.", "Musée de l'École de Nancy este singurul muzeu din Franța dedicat integral stilului Art Nouveau.", "Palatul Ducilor de Lorena a fost ridicat în secolul al XV-lea și prezintă un amestec de stil gotic și renascentist.", "Celebrele porți aurite din Piața Stanislas sunt opera maestrului fierar Jean Lamour.", "Universitatea din Nancy, fondată inițial în 1572, este astăzi una dintre cele mai mari din țară."],
       en: ["Place Stanislas was constructed between 1751 and 1755 by the architect Emmanuel Héré.", "Stanisław Leszczyński was the father-in-law of the French King Louis XV.", "The Musée de l'École de Nancy is located in a former villa built in the early 1900s.", "The Ducal Palace of Lorraine dates back to the 15th century and now houses the Lorraine Historical Museum.", "The iconic gilded iron gates of Place Stanislas were designed and forged by Jean Lamour.", "Nancy is home to one of the largest university populations in France, with over 50,000 students."],
     },
+    image: "/poi-images/nancy.webp",
   },
   {
     id: "saint-denis",
@@ -417,6 +433,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Abația Saint-Denis a fost fondată în secolul al VII-lea de către regele Dagobert I.", "În interiorul bazilicii se află peste 70 de monumente funerare ale monarhilor francezi.", "Stade de France este cel mai mare stadion din Franța, având o capacitate de peste 80.000 de locuri.", "Sfințirea corului bazilicii în 1144 este considerată actul de naștere al arhitecturii gotice.", "Orașul găzduiește Cité du Cinéma, un vast complex de studiouri cinematografice fondat de Luc Besson.", "Canalul Saint-Denis, inaugurat în 1821, are o lungime de 6,6 kilometri și leagă Parisul de Sena."],
       en: ["The Abbey of Saint-Denis was originally founded in the 7th century by King Dagobert I.", "The Basilica contains the tombs and funerary monuments of over 70 French monarchs.", "The Stade de France is the largest stadium in France, with a seating capacity of over 80,000.", "The consecration of the Basilica's choir in 1144 marks the birth of Gothic architecture.", "The city is home to the Cité du Cinéma, a major film studio complex initiated by Luc Besson.", "The Saint-Denis Canal was opened in 1821 to facilitate shipping between Paris and the Seine."],
     },
+    image: "/poi-images/saint-denis.webp",
   },
   {
     id: "argenteuil",
@@ -441,6 +458,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Claude Monet a pictat peste 170 de tablouri în timpul celor șapte ani petrecuți la Argenteuil.", "Abația din Argenteuil a fost locul unde a trăit celebra stareță Héloïse în secolul al XII-lea.", "Până la sfârșitul secolului al XIX-lea, Argenteuil era cel mai mare producător de vin din bazinul parizian.", "Legătura feroviară cu Parisul a fost stabilită oficial în anul 1851.", "În timpul celor două războaie mondiale, Argenteuil a fost un centru strategic pentru industria aeronautică.", "Bazilica Saint-Denys găzduiește Sfânta Tunică, o relicvă despre care se spune că a fost purtată de Hristos."],
       en: ["Claude Monet produced more than 170 paintings during his residence in Argenteuil.", "The medieval Abbey of Argenteuil was the home of Héloïse, famous for her correspondence with Abelard.", "Until the late 19th century, Argenteuil was the largest wine-producing area in the Paris region.", "The railway line connecting Argenteuil to Paris Saint-Lazare opened in 1851.", "During the early 20th century, the city was a major site for the production of seaplanes and aircraft engines.", "The Basilica of Saint-Denys houses the Holy Tunic of Argenteuil, a significant religious relic."],
     },
+    image: "/poi-images/argenteuil.webp",
   },
   {
     id: "troyes",
@@ -465,6 +483,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Marele incendiu din 24 mai 1524 a distrus aproximativ 1.500 de locuințe din centrul orașului.", "Bisericile din Troyes dețin o suprafață totală de peste 9.000 de metri pătrați de vitralii vechi.", "Ordinul Templierilor a fost recunoscut oficial în cadrul Conciliului de la Troyes în anul 1129.", "Orașul este locul de origine al mărcii Lacoste, fondată de tenismenul René Lacoste.", "Catedrala Saint-Pierre-et-Saint-Paul are o înălțime a navei de peste 28 de metri, dar un singur turn.", "Ruelle des Chats este una dintre cele mai înguste străzi medievale, unde etajele caselor aproape se ating."],
       en: ["The Great Fire of Troyes on May 24, 1524, destroyed approximately 1,500 timber-framed houses.", "The city's churches contain a total of over 9,000 square meters of historic stained glass windows.", "The Knights Templar were officially recognized at the Council of Troyes in 1129.", "Troyes is the birthplace of the Lacoste brand, founded by René Lacoste in 1933.", "The Cathedral of Saint-Pierre-et-Saint-Paul remains unfinished, with only one of its two planned towers.", "The 'Cats Alley' (Ruelle des Chats) is so narrow that the overhanging rooftops of the houses touch each other."],
     },
+    image: "/poi-images/troyes.webp",
   },
   {
     id: "saint-etienne",
@@ -489,6 +508,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Prima linie de cale ferată din Franța a fost pusă în funcțiune în 1827 între Saint-Étienne și Andrezieux.", "Saint-Étienne a fost desemnat 'Oraș Creativ pentru Design' de către UNESCO în anul 2010.", "Manufrance, cu sediul în acest oraș, a fost prima companie franceză de vânzări prin corespondență.", "Ultima mină de cărbune din bazinul Saint-Étienne a fost închisă oficial în anul 1983.", "Cité du Design găzduiește Bienala Internațională de Design, care atrage peste 200.000 de vizitatori.", "Muzeul de Artă Modernă deține o colecție impresionantă de peste 20.000 de opere de artă."],
       en: ["The first railway line in France was established in 1827 between Saint-Étienne and Andrezieux.", "In 2010, Saint-Étienne was named a UNESCO Creative City of Design, the only one in France.", "The company Manufrance, founded here, pioneered mail-order retail in France during the 19th century.", "The last coal mine in the Saint-Étienne basin was officially shut down in 1983.", "The Cité du Design is situated on the 14-hectare site of a former national weapons factory.", "The Museum of Modern and Contemporary Art houses over 20,000 works, the second largest collection in France."],
     },
+    image: "/poi-images/saint-etienne.webp",
   },
   {
     id: "toulon",
@@ -513,6 +533,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Portul militar din Toulon este baza oficială a portavionului Charles de Gaulle.", "Muntele Mont Faron are o înălțime de 584 de metri și oferă o vedere de 360 de grade asupra regiunii.", "Napoleon Bonaparte a fost avansat la gradul de general de brigadă la vârsta de 24 de ani, după asediul Toulonului.", "Musée National de la Marine din Toulon este unul dintre cele mai vechi muzee maritime din lume.", "Rada Toulonului este închisă spre sud de peninsula Saint-Mandrier, oferind o protecție naturală excelentă.", "Piața provensală de pe Cours Lafayette este una dintre cele mai mari și mai vechi din regiune."],
       en: ["Toulon's naval base serves as the home port for the nuclear aircraft carrier Charles de Gaulle.", "Mont Faron stands 584 meters above sea level and is accessible by the only coastal cable car in France.", "Napoleon Bonaparte earned his promotion to brigadier general after the successful Siege of Toulon in 1793.", "The National Maritime Museum in Toulon was established in 1814 and houses ancient ship models.", "The roadstead of Toulon is considered one of the largest and most strategically protected in Europe.", "The Cours Lafayette market is famous throughout France and was immortalized in song by Gilbert Bécaud."],
     },
+    image: "/poi-images/toulon.webp",
   },
   {
     id: "valence",
@@ -537,6 +558,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Fondat în anul 121 î.Hr. sub numele de Valentia Julia.", "Catedrala Saint-Apollinaire a fost sfințită în anul 1095.", "Parcul Jouvet se întinde pe o suprafață de 5,7 hectare.", "Orașul este situat exact pe paralela 45 nord.", "Găzduiește Maison des Têtes, construită în anul 1530.", "Portul l'Épervière este cel mai mare port fluvial din Franța."],
       en: ["Founded in 121 BC under the name Valentia Julia.", "Saint-Apollinaire Cathedral was consecrated in the year 1095.", "Parc Jouvet covers a total area of 5.7 hectares.", "The city is located exactly on the 45th parallel north.", "Home to the Maison des Têtes, built in 1530.", "Port de l'Épervière is the largest river marina in France."],
     },
+    image: "/poi-images/valence.webp",
   },
   {
     id: "chambery",
@@ -561,6 +583,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Capitala Ducatului de Savoia între anii 1295 și 1563.", "Fântâna Elefanților a fost construită în anul 1838.", "Giulgiul din Torino a fost păstrat aici timp de 76 de ani.", "Orașul are o populație de aproximativ 60.000 de locuitori.", "Jean-Jacques Rousseau a locuit la Les Charmettes între 1736 și 1742.", "Situat într-un bazin natural între masivele Bauges și Chartreuse."],
       en: ["Capital of the Duchy of Savoy from 1295 until 1563.", "The Elephant Fountain was constructed in the year 1838.", "The Shroud of Turin was kept in the city for 76 years.", "The population is approximately 60,000 inhabitants.", "Jean-Jacques Rousseau lived at Les Charmettes from 1736 to 1742.", "Located in a natural basin between the Bauges and Chartreuse massifs."],
     },
+    image: "/poi-images/chambery.webp",
   },
   {
     id: "dunkerque",
@@ -585,6 +608,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Peste 338.000 de soldați au fost evacuați în Operațiunea Dynamo în 1940.", "Portul este al treilea ca mărime din Franța după volumul de marfă.", "Turnul cu clopotniță Saint-Éloi are o înălțime de 58 de metri.", "Carnavalul din Dunkerque durează aproape trei luni în fiecare an.", "Orașul a fost distrus în proporție de 80% până la sfârșitul celui de-al Doilea Război Mondial.", "Celebrul corsar Jean Bart s-a născut aici în anul 1650."],
       en: ["Over 338,000 soldiers were evacuated during Operation Dynamo in 1940.", "The Port is the 3rd largest in France by cargo volume.", "The Belfry of Saint-Éloi stands 58 meters high.", "Dunkerque Carnival lasts for nearly three months each year.", "The city was 80% destroyed by the end of World War II.", "The famous corsair Jean Bart was born here in the year 1650."],
     },
+    image: "/poi-images/dunkerque.webp",
   },
   {
     id: "la-rochelle",
@@ -609,6 +633,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Asediul orașului La Rochelle a avut loc între anii 1627 și 1628.", "Turnul Saint-Nicolas are o înălțime de 42 de metri.", "Podul către Île de Ré are o lungime de 2.926 de metri.", "Acvariul La Rochelle găzduiește peste 12.000 de animale marine.", "Portul Les Minimes are peste 5.000 de locuri de acostare pentru bărci.", "Orașul a găzduit prima zi fără mașini din Franța în anul 1997."],
       en: ["The Great Siege of La Rochelle took place from 1627 to 1628.", "The Saint-Nicolas Tower stands at a height of 42 meters.", "The bridge to Île de Ré is 2,926 meters long.", "Aquarium La Rochelle houses more than 12,000 marine animals.", "Port des Minimes provides over 5,000 berths for boats.", "The city hosted the first car-free day in France in the year 1997."],
     },
+    image: "/poi-images/la-rochelle.webp",
   },
   {
     id: "biarritz",
@@ -633,6 +658,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Surfingul a fost introdus în oraș în anul 1957.", "Hôtel du Palais a fost construit pentru împărăteasa Eugénie în 1854.", "Farul din Biarritz a fost construit în anul 1834.", "Podul către Rocher de la Vierge a fost finalizat în 1887.", "Acvariul din Biarritz a fost inaugurat în anul 1933.", "Orașul este situat la aproximativ 18 kilometri de granița cu Spania."],
       en: ["Surfing was first introduced to the city in the year 1957.", "Hôtel du Palais was built for Empress Eugénie in 1854.", "The Biarritz Lighthouse was constructed in the year 1834.", "The bridge to the Rock of the Virgin was completed in 1887.", "Biarritz Aquarium was officially inaugurated in 1933.", "The city is located approximately 18 kilometers from the Spanish border."],
     },
+    image: "/poi-images/biarritz.webp",
   },
   {
     id: "pau",
@@ -657,6 +683,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Regele Henric al IV-lea s-a născut aici pe 13 decembrie 1553.", "Boulevard des Pyrénées a fost construit în anul 1899.", "Marele Premiu de Pau are loc pe un circuit stradal din 1933.", "Găzduiește cel mai vechi teren de golf din Europa continentală (1856).", "Orașul are 750 de hectare de spații verzi.", "Funicularul din Pau este în funcțiune din anul 1908."],
       en: ["King Henri IV was born in the castle on December 13, 1553.", "Boulevard des Pyrénées was constructed in the year 1899.", "The Pau Grand Prix has been held on a street circuit since 1933.", "Home to the oldest golf course in continental Europe (founded 1856).", "The city maintains 750 hectares of public green space.", "The Funiculaire de Pau has been operating since the year 1908."],
     },
+    image: "/poi-images/pau.webp",
   },
   {
     id: "bayonne",
@@ -681,6 +708,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Construcția Catedralei din Bayonne a început în anul 1213.", "Producția de ciocolată a început aici în anul 1615.", "Fêtes de Bayonne au fost inițiate în anul 1932.", "Citadela Vauban a fost construită între anii 1674 și 1680.", "Orașul este situat la confluența râurilor Nive și Adour.", "Șunca de Bayonne a primit statutul de IGP în anul 1998."],
       en: ["Construction of Bayonne Cathedral began in the year 1213.", "Chocolate production first started in the city in 1615.", "The Fêtes de Bayonne festival was established in 1932.", "Vauban Citadel was constructed between 1674 and 1680.", "The city is located at the confluence of the Nive and Adour rivers.", "Bayonne Ham (Jambon de Bayonne) received PGI status in 1998."],
     },
+    image: "/poi-images/bayonne.webp",
   },
   {
     id: "poitiers",
@@ -705,6 +733,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Bătălia de la Poitiers (732) a oprit avansul omeyazilor în Europa.", "Universitatea din Poitiers a fost fondată în anul 1431.", "Fațada bisericii Notre-Dame la Grande a fost construită între 1130 și 1150.", "Parcul Futuroscope a fost deschis în anul 1987.", "Baptisteriul Saint-Jean este una dintre cele mai vechi clădiri creștine din Franța.", "Ioana d'Arc a fost interogată la Poitiers în anul 1429."],
       en: ["The Battle of Poitiers (732) halted the Umayyad advance into Europe.", "The University of Poitiers was founded in the year 1431.", "The Notre-Dame la Grande facade was built between 1130 and 1150.", "Futuroscope theme park officially opened in 1987.", "The Baptistery of Saint-Jean dates back to the 4th century.", "Joan of Arc was interrogated in Poitiers in the year 1429."],
     },
+    image: "/poi-images/poitiers.webp",
   },
   {
     id: "vannes",
@@ -729,6 +758,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Zidurile medievale ale orașului au o lungime de 1,2 kilometri.", "Golful Morbihan conține aproximativ 40 de insule locuibile.", "Catedrala Saint-Pierre a fost reconstruită între secolele XV și XIX.", "Orașul a devenit parte oficială a Franței în anul 1532.", "Sculptura 'Vannes și soția sa' datează din secolul al XVI-lea.", "Deține titlul de 'Oraș de Artă și Istorie' din anul 1990."],
       en: ["The medieval city walls are 1.2 kilometers in length.", "The Gulf of Morbihan contains approximately 40 inhabited islands.", "Saint-Pierre Cathedral was rebuilt between the 15th and 19th centuries.", "The city officially became part of France in the year 1532.", "The 'Vannes and his Wife' sculpture dates from the 16th century.", "The city has held the 'Ville d'Art et d'Histoire' label since 1990."],
     },
+    image: "/poi-images/vannes.webp",
   },
   {
     id: "lorient",
@@ -753,6 +783,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Lorient a fost fondat oficial pe data de 31 august 1666.", "Baza de submarine Keroman se întinde pe o suprafață de 26 de hectare.", "Festivalul Interceltique de Lorient se desfășoară din anul 1971.", "Orașul a fost distrus în proporție de 95% de bombardamente în 1943.", "Portul de pescuit Keroman este al doilea ca mărime din Franța.", "Găzduiește centrul de antrenament al comandourilor marinei franceze."],
       en: ["Lorient was officially founded on August 31, 1666.", "The Keroman Submarine Base covers an area of 26 hectares.", "The Festival Interceltique de Lorient started in the year 1971.", "The city was 95% destroyed by Allied bombings in 1943.", "The fishing port of Keroman is the 2nd largest in France.", "Home to the primary commando training center for the French Navy."],
     },
+    image: "/poi-images/lorient.webp",
   },
   {
     id: "saint-malo",
@@ -777,6 +808,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Zidurile de apărare ale orașului Saint-Malo au o lungime totală de aproximativ 1,7 kilometri.", "Aproximativ 80% din centrul vechi a fost distrus în 1944 și reconstruit ulterior.", "Scriitorul François-René de Chateaubriand s-a născut aici în 1768 și este înmormântat pe Grand Bé.", "Mareele din golful Saint-Malo au o amplitudine record de până la 13 metri.", "Turnul Solidor a fost ridicat în secolul al XIV-lea pentru a supraveghea estuarul râului Rance.", "Jacques Cartier, cel care a revendicat Canada pentru Franța, era originar din Saint-Malo."],
       en: ["The granite ramparts of Saint-Malo stretch for approximately 1.7 kilometers around the old town.", "During the liberation in 1944, nearly 80 percent of the Intra-Muros district was destroyed.", "The influential writer François-René de Chateaubriand was born here in 1768.", "Tidal ranges in the bay can reach up to 13 meters, among the highest in Europe.", "The 14th-century Solidor Tower was originally built to defend the entrance to the Rance River.", "Jacques Cartier set sail from Saint-Malo in 1534 to explore and map the Gulf of Saint Lawrence."],
     },
+    image: "/poi-images/saint-malo.webp",
   },
   {
     id: "quimper",
@@ -801,6 +833,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Turnurile Catedralei Saint-Corentin au o înălțime de 75 de metri, fiind finalizate în secolul XIX.", "Producția de faianță celebră din Quimper a fost inițiată în anul 1690.", "Festivalul Cornouaille, celebrând cultura bretonă, este organizat anual din 1923.", "Orașul conservă peste 70 de case cu pereți din lemn din secolele XVI și XVII.", "Râul Odet parcurge 62 de kilometri de la izvoare până la vărsarea în ocean.", "Quimper deține statutul de prefectură a departamentului Finistère din Bretania."],
       en: ["The twin spires of the Saint-Corentin Cathedral stand 75 meters tall.", "Quimper has been a major center for hand-painted faïence pottery since 1690.", "The Festival de Cornouaille has been celebrated annually in the city since 1923.", "There are over 70 listed timber-framed houses in the medieval quarter of the city.", "The Odet River flows for approximately 62 kilometers before reaching the Atlantic.", "Quimper is the administrative prefecture of the Finistère department in Brittany."],
     },
+    image: "/poi-images/quimper.webp",
   },
   {
     id: "saint-brieuc",
@@ -825,6 +858,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Catedrala Saint-Étienne din secolul XIII a fost concepută ca o structură defensivă.", "Orașul este principalul centru de recoltare a scoicilor Saint-Jacques din Franța.", "Rezervația naturală din golful Saint-Brieuc acoperă peste 1140 de hectare.", "Localitatea a fost întemeiată în secolul V de către misionarul galez Brioc.", "Portul Le Légué a fost modernizat major în secolul al XIX-lea pentru comerț.", "Saint-Brieuc îndeplinește rolul de prefectură a departamentului Côtes-d'Armor."],
       en: ["The Saint-Étienne Cathedral was built in the 13th century as a fortified place of worship.", "Saint-Brieuc is recognized as the capital of scallop fishing in France.", "The Bay of Saint-Brieuc National Nature Reserve covers an area of 1,140 hectares.", "The city was founded in the 5th century by a Welsh monk named Brioc.", "The Le Légué harbor serves as both a commercial port and a modern marina.", "Saint-Brieuc is the administrative prefecture of the Côtes-d'Armor department."],
     },
+    image: "/poi-images/saint-brieuc.webp",
   },
   {
     id: "dinard",
@@ -849,6 +883,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Există 407 vile de patrimoniu înregistrate în Dinard, datând din perioada 1880-1914.", "Primul cazinou din stațiune a fost inaugurat oficial în anul 1866.", "Festivalul Filmului Britanic din Dinard este organizat anual începând cu 1989.", "O statuie a regizorului Alfred Hitchcock străjuiește plaja principală a orașului.", "Promenada 'au Clair de Lune' găzduiește spectacole de sunet și lumină vara.", "Datorită Curentului Golfului, în Dinard cresc specii de plante mediteraneene."],
       en: ["Dinard boasts exactly 407 listed villas dating from the Belle Époque period.", "The town's first casino was established in 1866 to cater to wealthy visitors.", "The Dinard British Film Festival has been held annually since 1989.", "A statue of Alfred Hitchcock stands on the waterfront, honoring the filmmaker.", "The Promenade au Clair de Lune features nightly light and music shows in summer.", "The influence of the Gulf Stream allows palm trees to grow in Dinard's public parks."],
     },
+    image: "/poi-images/dinard.webp",
   },
   {
     id: "laval",
@@ -873,6 +908,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Castelul din Laval deține un donjon circular rar, construit în secolul al XIII-lea.", "Pictorul Henri Rousseau s-a născut în Laval în anul 1844, fiind mândria orașului.", "Podul Pont Vieux a fost ridicat în secolul al XIII-lea și este funcțional și astăzi.", "Laval deține titlul de 'Oraș de Artă și Istorie' acordat de Ministerul Culturii.", "Drumul de halaj de-a lungul râului Mayenne se întinde pe o distanță de 85 km.", "Orașul găzduiește sediul central al grupului Lactalis, lider mondial în lactate."],
       en: ["The Château de Laval features a rare 13th-century circular keep with its original timber roof.", "Famous Naive painter Henri Rousseau was born in Laval in 1844.", "The Pont Vieux was constructed in the 13th century and remains the city's oldest bridge.", "Laval is officially classified as a City of Art and History by the French government.", "The Mayenne River towpath offers 85 kilometers of continuous trails for cycling.", "Laval is the global headquarters of Lactalis, the largest dairy products group in the world."],
     },
+    image: "/poi-images/laval.webp",
   },
   {
     id: "cholet",
@@ -897,6 +933,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Cholet a fost principalul producător de batiste și lenjerie de pat din Franța în secolul XIX.", "Batista roșie de Cholet a fost imortalizată în muzică de compozitorul Théodore Botrel.", "Bătălia de la Cholet din 17 octombrie 1793 a implicat peste 60.000 de soldați.", "Lacul Ribou a fost creat în anul 1958 și are o suprafață de 160 de hectare.", "Orașul deține complexul Glisséo, care include una dintre cele mai mari patinoare din vest.", "Muzeul Textilului a fost inaugurat într-o fostă fabrică de înălbire a pânzeturilor."],
       en: ["Cholet has been a central hub for the French textile industry since the 18th century.", "The Red Handkerchief of Cholet became a famous symbol after a song written in 1900.", "The Battle of Cholet took place on October 17, 1793, during the Vendée uprising.", "Lake Ribou covers 160 hectares and provides the city's primary water supply.", "Cholet has been officially named the most athletic city in France multiple times.", "The Museum of Textiles and Fashion is housed in a former bleaching factory from 1881."],
     },
+    image: "/poi-images/cholet.webp",
   },
   {
     id: "saint-nazaire",
@@ -921,6 +958,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Șantierul naval Chantiers de l'Atlantique a fost înființat în anul 1861.", "Baza de submarine din oraș are o lungime de 300 de metri și 14 alveole de andocare.", "Podul Saint-Nazaire atinge o înălțime de 61 de metri deasupra nivelului apei.", "Nava Queen Mary 2 a fost construită aici și livrată în anul 2003.", "Aproximativ 85% din infrastructura orașului a fost reconstruită după anul 1945.", "Saint-Nazaire este un centru major de asamblare pentru fuzelajele avioanelor Airbus."],
       en: ["The Chantiers de l'Atlantique shipyard was established in 1861 and remains a world leader.", "The reinforced concrete U-boat base spans an area of 3.7 hectares.", "Stretching 3,356 meters, the Saint-Nazaire Bridge was the longest in France when it opened in 1975.", "The Queen Mary 2 ocean liner was built in Saint-Nazaire and launched in 2003.", "About 85 percent of the city was leveled during the Allied air raids of 1943.", "The city coastline features 20 distinct beaches, ranging from large bays to small coves."],
     },
+    image: "/poi-images/saint-nazaire.webp",
   },
   {
     id: "chartres",
@@ -945,6 +983,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Catedrala din Chartres a fost înscrisă în patrimoniul UNESCO în anul 1979.", "Suprafața totală a vitraliilor originale din catedrală depășește 2.500 de metri pătrați.", "Labirintul din interiorul navei datează din aproximativ anul 1200.", "Orașul este situat la 90 de kilometri de Paris, pe cursul râului Eure.", "Evenimentul 'Chartres en Lumières' durează peste 200 de seri în fiecare an.", "Catedrala adăpostește relicva 'Sancta Camisia', despre care se spune că a aparținut Fecioarei Maria."],
       en: ["Chartres Cathedral was one of the first French sites added to the UNESCO World Heritage list in 1979.", "The cathedral contains 176 stained-glass windows, most of which are original 13th-century works.", "The medieval labyrinth on the cathedral floor has a total path length of 261 meters.", "Chartres is located approximately 90 kilometers southwest of Paris on the Eure River.", "The 'Chartres en Lumières' light festival illuminates more than 20 historic sites across the city.", "The north tower stands at 115 meters, while the south tower reaches 105 meters in height."],
     },
+    image: "/poi-images/chartres.webp",
   },
   {
     id: "blois",
@@ -969,6 +1008,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Castelul din Blois a fost reședința a 7 regi și 10 regine ale Franței.", "Casa Magiei din Blois, deschisă în 1998, este singurul muzeu public de acest tip din Europa.", "Catedrala Saint-Louis a fost reconstruită în secolul XVII prin voința lui Colbert.", "Scările Denis Papin oferă o conexiune verticală între orașul înalt și cel de jos.", "În 1588, regele Henric al III-lea l-a asasinat pe Ducele de Guise în incinta castelului.", "Orașul este capitala administrativă a departamentului Loir-et-Cher."],
       en: ["The Royal Château de Blois features architectural styles spanning from the 13th to the 17th centuries.", "The House of Magic, opened in 1998, features a six-headed mechanical dragon.", "Jean-Eugène Robert-Houdin, born in Blois in 1805, was the inspiration for Harry Houdini's stage name.", "The Denis Papin monumental stairs consist of 120 steps and link the town's two levels.", "Joan of Arc was blessed by the Archbishop of Reims in Blois before her victory at Orléans.", "The bridge spanning the Loire at Blois was completed in 1724 and is 283 meters long."],
     },
+    image: "/poi-images/blois.webp",
   },
   {
     id: "bourges",
@@ -993,6 +1033,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Catedrala din Bourges a fost înscrisă pe lista UNESCO în anul 1992.", "Palais Jacques Cœur a fost terminat în anul 1451 și a costat o avere imensă.", "Centrul istoric al orașului este unul dintre cele mai mari sectoare protejate din Franța.", "Grădinile din Marais de Bourges sunt accesibile doar cu barca în anumite zone.", "Festivalul Printemps de Bourges a fost creat în 1977 și durează 6 zile în fiecare an.", "Orașul păstrează fragmente importante din zidul de incintă galo-roman din secolul IV."],
       en: ["Saint-Étienne Cathedral was designated a UNESCO World Heritage site in 1992.", "The Palais Jacques Cœur was built between 1443 and 1451 for the King's treasurer.", "Bourges contains over 400 timber-framed houses, one of the highest numbers in France.", "The Marais de Bourges consists of 135 hectares of gardens divided by small canals.", "The Printemps de Bourges music festival has been held annually since 1977.", "Bourges is located in the exact geographical center of mainland France."],
     },
+    image: "/poi-images/bourges.webp",
   },
   {
     id: "chateauroux",
@@ -1017,6 +1058,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Orașul a fost fondat în jurul anului 937 de către Raoul le Large, senior de Déols.", "Château Raoul servește astăzi ca sediu al prefecturii departamentului Indre.", "Biserica Saint-André a fost construită în secolul al XIX-lea în stil neogotic.", "Châteauroux se află la aproximativ 250 de kilometri sud de Paris, pe o axă rutieră importantă.", "Abația din Déols a fost odinioară una dintre cele mai mari biserici din Franța, după Cluny.", "Muzeul Bertrand a fost fosta reședință a generalului Henri-Gatien Bertrand, un apropiat al lui Napoleon."],
       en: ["The town was founded around 937 AD by Raoul le Large, the Lord of Déols.", "Château Raoul currently serves as the headquarters for the Prefecture of Indre.", "The Saint-André Church was constructed in the 19th century in the Neo-Gothic style.", "Châteauroux is located approximately 250 kilometers south of Paris on a major transit route.", "The Abbey of Déols was once one of the largest churches in France, second only to Cluny.", "The Musée Bertrand was the former home of General Henri-Gatien Bertrand, a close companion of Napoleon."],
     },
+    image: "/poi-images/chateauroux.webp",
   },
   {
     id: "amboise",
@@ -1041,6 +1083,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Château d'Amboise a fost inclus în lista Patrimoniului Mondial UNESCO în anul 2000.", "Leonardo da Vinci a murit în 1519 la Amboise și este înmormântat în capela Saint-Hubert.", "Conacul Clos Lucé este legat de castel printr-un pasaj subteran secret.", "Turnul \"Tour des Minimes\" a fost proiectat pentru a permite accesul cailor și trăsurilor pe terasă.", "Amboise a fost locul de naștere al regelui Carol al VIII-lea în 1492, care a și murit aici în 1498.", "Orașul găzduiește Pagoda de Chanteloup, un vestigiu al unui castel distrus în secolul al XVIII-lea."],
       en: ["The Château d'Amboise was designated as a UNESCO World Heritage site in 2000.", "Leonardo da Vinci died in Amboise in 1519 and is buried in the Chapel of Saint-Hubert.", "The Clos Lucé manor is connected to the royal castle via a secret underground tunnel.", "The \"Tour des Minimes\" tower was built with a ramp to allow horses and carriages to reach the terrace.", "King Charles VIII was born in Amboise in 1492 and died at the castle in 1498.", "The town features the Pagoda of Chanteloup, a 44-meter tower remaining from a destroyed 18th-century estate."],
     },
+    image: "/poi-images/amboise.webp",
   },
   {
     id: "albi",
@@ -1065,6 +1108,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Catedrala Sainte-Cécile deține cele mai mari strane de cor din perioada Renașterii din Franța.", "Muzeul Toulouse-Lautrec adăpostește peste 1000 de lucrări ale artistului născut la Albi.", "Podul Pont Vieux a fost construit în jurul anului 1035 și este unul dintre cele mai vechi din Franța.", "Turnul clopotniță al catedralei are o înălțime de 78 de metri și seamănă cu un turn de cetate.", "Albi și-a dat numele albigenzilor, o denumire folosită pentru catarii din această regiune.", "Cartierul episcopal din Albi este protejat pe o suprafață de aproximativ 19 hectare."],
       en: ["Sainte-Cécile Cathedral features the largest collection of Renaissance choir stalls in France.", "The Toulouse-Lautrec Museum houses over 1,000 works by the famous artist, who was born in Albi.", "The Pont Vieux was built around 1035 AD and is one of the oldest bridges still in use in France.", "The cathedral's bell tower stands 78 meters high and was designed with a fortress-like appearance.", "The name Albi is historically linked to the Albigensians, the local name for the Cathar sect.", "The episcopal city of Albi covers a protected area of approximately 19 hectares."],
     },
+    image: "/poi-images/albi.webp",
   },
   {
     id: "rodez",
@@ -1089,6 +1133,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Catedrala Notre-Dame are unul dintre cele mai înalte turnuri clopotniță din Franța, de 87 de metri.", "Muzeul Soulages găzduiește cea mai mare colecție de lucrări ale pictorului Pierre Soulages din lume.", "Rodez a fost fondat inițial de tribul celtic al rutenilor.", "Maison d'Armagnac, din secolul al XVI-lea, este una dintre cele mai frumoase case din oraș.", "Orașul este situat la o altitudine medie de aproximativ 630 de metri deasupra nivelului mării.", "Muzeul Fenaille expune o colecție importantă de statui-menhir din perioada preistorică."],
       en: ["The bell tower of Notre-Dame Cathedral is 87 meters high, making it one of the tallest in France.", "The Soulages Museum holds the world's largest collection of works by the artist Pierre Soulages.", "Rodez was originally established as a settlement by the Celtic Ruteni tribe.", "The 16th-century Maison d'Armagnac is one of the most iconic historic buildings in the city.", "The city is situated on a plateau at an average elevation of approximately 630 meters.", "The Musée Fenaille features a significant collection of prehistoric statue-menhirs from the region."],
     },
+    image: "/poi-images/rodez.webp",
   },
   {
     id: "montauban",
@@ -1113,6 +1158,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Montauban a fost fondat la 9 octombrie 1144 de către contele Alphonse Jourdain de Toulouse.", "Muzeul Ingres-Bourdelle adăpostește o colecție vastă de desene realizate de Ingres.", "Place Nationale este singura piață din Europa care are un rând dublu de arcade.", "Podul Pont Vieux a fost apărat cu succes împotriva asediilor în timpul războaielor religioase.", "Catedrala Notre-Dame-de-l'Assomption a fost construită în stil clasic din ordinul lui Ludovic al XIV-lea.", "În secolul al XVII-lea, Montauban a fost una dintre cele patru „cetăți de siguranță” ale hughenoților.", "Orașul a rezistat unui asediu regal de 86 de zile în 1621 sub conducerea ducelui de Rohan."],
       en: ["Montauban was founded on October 9, 1144, by Count Alphonse Jourdain of Toulouse.", "The Ingres-Bourdelle Museum contains a vast collection of drawings and paintings by Ingres.", "The Place Nationale is unique in Europe for its distinctive double row of brick arcades.", "The Pont Vieux bridge stood firm against numerous sieges during the 17th-century religious wars.", "The Cathedral of Notre-Dame-de-l'Assomption was commissioned by Louis XIV in the classical style.", "Montauban was one of the four principal Protestant strongholds designated by the Edict of Nantes."],
     },
+    image: "/poi-images/montauban.webp",
   },
   {
     id: "auch",
@@ -1137,6 +1183,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Catedrala Sainte-Marie este inclusă în Patrimoniul Mondial UNESCO ca parte a drumului spre Santiago.", "Scara monumentală a fost finalizată în 1863 și compensează o diferență de nivel de 35 de metri.", "Charles de Batz de Castelmore, cunoscut sub numele de d'Artagnan, s-a născut în apropiere de Auch.", "Orașul găzduiește Muzeul de Artă al Americilor, cu o colecție precolumbiană importantă.", "Turnul Armagnac (Tour d'Armagnac), din secolul al XIV-lea, a servit în trecut ca închisoare.", "Auch a fost capitala tribului Auscii încă din antichitate, purtând numele de Elimberrum."],
       en: ["Sainte-Marie Cathedral is listed as a UNESCO World Heritage site as part of the Routes of Santiago.", "The monumental staircase, completed in 1863, features 374 steps and a height difference of 35 meters.", "Charles de Batz de Castelmore, the inspiration for d'Artagnan, was born near the city of Auch.", "The Museum of the Americas in Auch holds the second-largest collection of pre-Columbian art in France.", "The 14th-century Tour d'Armagnac is a 40-meter-high tower that once served as a prison.", "The city's ancient name, Elimberrum, reflects its origins as the capital of the Aquitanian Auscii tribe."],
     },
+    image: "/poi-images/auch.webp",
   },
   {
     id: "beziers",
@@ -1161,6 +1208,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Béziers a fost fondat în jurul anului 625 î.Hr., fiind considerat unul dintre cele mai vechi orașe franceze.", "Ecluzele de la Fonseranes constau din opt camere de ecluzare și nouă porți succesive.", "Podul Pont Vieux peste râul Orb datează inițial din secolul al XII-lea.", "În 1209, legatul papal ar fi rostit celebra frază: 'Omorâți-i pe toți, Dumnezeu îi va recunoaște pe ai Săi'.", "Orașul are propria arenă pentru lupte cu tauri, construită în jurul anului 1897.", "Béziers este situat la intersecția dintre Canal du Midi și Canal de la Robine."],
       en: ["Béziers was founded around 625 BC, ranking it among the oldest cities in France.", "The Fonseranes Locks staircase features eight chambers and nine gates over a length of 312 meters.", "The Pont Vieux over the Orb River is a stone bridge with 15 arches dating back to the 12th century.", "The city was almost entirely destroyed during the first major battle of the Albigensian Crusade in 1209.", "The Arènes de Béziers, built in 1897, is one of the premier bullfighting venues in France.", "Béziers is a major producer of Languedoc wines, particularly those with the IGP Coteaux de Béziers label."],
     },
+    image: "/poi-images/beziers.webp",
   },
   {
     id: "narbonne",
@@ -1185,6 +1233,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Narbonne a fost fondat în anul 118 î.Hr. sub numele de Narbo Martius.", "Construcția catedralei a început în 1272, dar nu a fost finalizată niciodată din motive defensive.", "Canal de la Robine este o ramificație de 32 de kilometri a Canalului du Midi.", "Via Domitia a fost redescoperită abia în 1997 în timpul lucrărilor din piața primăriei.", "Horreum este un depozit roman subteran care datează din secolul I î.Hr.", "În Evul Mediu, Narbonne a fost un centru important al exegezei și culturii evreiești."],
       en: ["Narbonne was founded in 118 BC as Narbo Martius, the first Roman colony in Gaul.", "The Saint-Just Cathedral was never finished to avoid weakening the city's medieval walls.", "The Canal de la Robine is a UNESCO World Heritage site that runs through the city center.", "The Via Domitia section in the town square was unearthed during renovations in 1997.", "The Roman Horreum is a series of underground galleries used as a warehouse in ancient times.", "Narbonne is the birthplace of the famous French singer Charles Trenet, whose house is now a museum."],
     },
+    image: "/poi-images/narbonne.webp",
   },
   {
     id: "sete",
@@ -1209,6 +1258,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Sète a fost fondat oficial la 29 iulie 1666, odată cu începerea lucrărilor la digul portului.", "De pe Mont Saint-Clair, în zilele senine, panorama se întinde până la Munții Pirinei.", "Étang de Thau este renumit pentru fermele sale de stridii și midii de înaltă calitate.", "Sărbătoarea anuală 'Saint-Louis' din august reprezintă apogeul sezonului de turniruri nautice.", "Sète dispune de douăsprezece kilometri de plaje cu nisip, situate între mare și lagună.", "Muzeul Paul Valéry este amplasat într-o clădire care domină Cimitirul Marinarilor."],
       en: ["Sète was founded on July 29, 1666, to serve as the Mediterranean gateway for the Canal du Midi.", "Mont Saint-Clair provides a vantage point with views stretching as far as the Pyrenees on clear days.", "The Étang de Thau is the largest lagoon in the region and a major center for oyster farming.", "Water jousting (joutes) is the city's national sport, with the grand final held during the Saint-Louis festival.", "The city features 12 kilometers of sandy beaches along the lido separating the lagoon from the sea.", "Famous singer-songwriter Georges Brassens is buried in the 'Le Py' cemetery in Sète."],
     },
+    image: "/poi-images/sete.webp",
   },
   {
     id: "tarbes",
@@ -1233,6 +1283,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Herghelia Națională din Tarbes este specializată în creșterea cailor Anglo-Arabi.", "Jardin Massey se întinde pe o suprafață de aproximativ 11 hectare.", "Mareșalul Foch s-a născut la Tarbes la data de 2 octombrie 1851.", "Catedrala Notre-Dame-de-la-Sède datează inițial din secolul al XII-lea.", "Tarbes este renumit pentru 'Haricot Tarbais', un soi de fasole cu denumire de origine protejată.", "Orașul este situat la aproximativ 155 de kilometri sud-vest de Toulouse."],
       en: ["The National Stud of Tarbes is the birthplace of the Anglo-Arabian horse breed.", "Jardin Massey was designed by naturalist Placide Massey, director of the gardens at Versailles.", "Marshal Foch's house in Tarbes is a typical 18th-century Bigorre-style building.", "The city hosts the annual 'Equestria' festival, one of Europe's largest horse-themed events.", "The 'Haricot Tarbais' was the first bean in France to receive a Label Rouge certification.", "Tarbes is located in the historic province of Bigorre, near the famous pilgrimage site of Lourdes."],
     },
+    image: "/poi-images/tarbes.webp",
   },
   {
     id: "foix",
@@ -1257,6 +1308,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Castelul Foix a fost menționat pentru prima dată în anul 1002 într-un testament", "Comitatul Foix a fost unit cu coroana franceză în 1458 prin Tratatul de la Foix", "Orașul este situat la o altitudine medie de aproximativ 380 de metri", "Gaston Fébus a fost unul dintre cei mai faimoși conți de Foix în secolul al XIV-lea", "Biserica abațială Saint-Volusien adăpostește moaștele Sfântului Volusianus", "Populația orașului numără în prezent aproximativ 9.500 de locuitori"],
       en: ["The Castle of Foix was first mentioned in a will in the year 1002", "The County of Foix was united with the French crown in 1458 by the Treaty of Foix", "The town is situated at an average altitude of approximately 380 meters", "Gaston Fébus was one of the most famous Counts of Foix in the 14th century", "The Abbey Church of Saint-Volusien houses the relics of Saint Volusianus", "The town's population is currently around 9,500 residents"],
     },
+    image: "/poi-images/foix.webp",
   },
   {
     id: "perigueux",
@@ -1281,6 +1333,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Catedrala Saint-Front a fost restaurată extensiv în secolul al XIX-lea de către Paul Abadie", "Muzeul galo-roman Vesunna a fost construit peste ruinele unei vile romane", "Périgueux a fost fondat în anul 16 î.Hr. ca capitală a petrucorilor sub numele Vesunna", "Orașul este un centru major pentru comerțul cu trufe din Franța", "Tour de Vésone este un rest de turn înalt de 24 de metri al unui templu roman", "Orașul are în prezent o populație de aproximativ 30.000 de locuitori"],
       en: ["Saint-Front Cathedral was extensively restored in the 19th century by Paul Abadie", "The Vesunna Gallo-Roman Museum was built over the remains of a Roman villa", "Périgueux was founded in 16 BC as the capital of the Petrocorii under the name Vesunna", "The city is a major center for the truffle trade in France", "The Tour de Vésone is a 24-meter-high tower remnant of a Roman temple", "The city has a current population of approximately 30,000 residents"],
     },
+    image: "/poi-images/perigueux.webp",
   },
   {
     id: "angouleme",
@@ -1305,6 +1358,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Festivalul Internațional de Benzi Desenate de la Angoulême a fost creat în 1974", "Catedrala Saint-Pierre a fost construită între anii 1110 și 1128", "În secolul al XIX-lea, existau aproximativ 60 de mori de hârtie în regiune", "Zidurile orașului Angoulême au o lungime totală de aproximativ 2 kilometri", "Angoulême a fost locul de naștere al Margaretei de Navarra în 1492", "Orașul are în prezent aproximativ 42.000 de locuitori"],
       en: ["The Angoulême International Comics Festival was established in 1974", "Saint-Pierre Cathedral was constructed between 1110 and 1128", "In the 19th century, there were about 60 paper mills in the region", "The ramparts of Angoulême have a total length of approximately 2 kilometers", "Angoulême was the birthplace of Marguerite de Navarre in 1492", "The city has a current population of about 42,000 residents"],
     },
+    image: "/poi-images/angouleme.webp",
   },
   {
     id: "cognac",
@@ -1329,6 +1383,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Regele Francisc I s-a născut în 1494 în castelul din Cognac", "Stratul negru de pe clădiri este cauzat de ciuperca Baudoinia compniacensis", "Cognac a primit drepturi de oraș în 1215 de la regele englez Ioan Fără de Țară", "Orașul este situat la aproximativ 120 de kilometri nord de Bordeaux", "Peste 200 de milioane de sticle de cognac sunt exportate anual în întreaga lume", "Orașul are în prezent o populație de aproximativ 19.000 de locuitori"],
       en: ["King Francis I was born in the Castle of Cognac in 1494", "The black coating on the buildings is caused by the fungus Baudoinia compniacensis", "Cognac was granted town rights in 1215 by the English King John Lackland", "The town is located about 120 kilometers north of Bordeaux", "Over 200 million bottles of Cognac are exported worldwide each year", "The town has a current population of approximately 19,000 residents"],
     },
+    image: "/poi-images/cognac.webp",
   },
   {
     id: "saintes",
@@ -1353,6 +1408,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Amfiteatrul roman avea odinioară o capacitate de până la 15.000 de spectatori", "Arcul lui Germanicus a fost construit în anul 18 sau 19 d.Hr.", "Abbaye-aux-Dames a fost fondată în 1047 ca prima mănăstire de maici din Saintonge", "Biserica Saint-Eutrope posedă una dintre cele mai mari crypte din Europa", "Saintes a fost grav avariat în timpul războaielor hughenote din secolul al XVI-lea", "Orașul are în prezent o populație de aproximativ 25.000 de locuitori"],
       en: ["The Roman amphitheater once accommodated up to 15,000 spectators", "The Arch of Germanicus was built in 18 or 19 AD", "The Abbaye-aux-Dames was founded in 1047 as the first nunnery in Saintonge", "The Church of Saint-Eutrope has one of the largest crypts in Europe", "Saintes was heavily damaged during the Huguenot Wars in the 16th century", "The city has a current population of approximately 25.000 residents"],
     },
+    image: "/poi-images/saintes.webp",
   },
   {
     id: "rochefort",
@@ -1377,6 +1433,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Corderie Royale are o lungime exactă de 374 de metri", "Rochefort a fost fondat oficial în anul 1666", "Podul transbordor din Rochefort traversează râul Charente", "Peste 550 de nave au fost construite de-a lungul istoriei în arsenalul din Rochefort", "Romancierul Pierre Loti s-a născut în Rochefort în 1850", "Orașul are în prezent o populație de aproximativ 23.500 de locuitori"],
       en: ["The Corderie Royale is exactly 374 meters long", "Rochefort was officially founded in the year 1666", "The Rochefort Transporter Bridge crosses the Charente River", "Over 550 ships were built in the Rochefort arsenal throughout history", "The novelist Pierre Loti was born in Rochefort in 1850", "The city has a current population of about 23,500 residents"],
     },
+    image: "/poi-images/rochefort.webp",
   },
   {
     id: "niort",
@@ -1401,6 +1458,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Donjonul din Niort constă din două turnuri legate printr-un corp central", "Niort este al patrulea cel mai important centru financiar din Franța", "Orașul este situat la marginea celei de-a doua celei mai mari zone umede din Franța", "Eleonora de Aquitania a acordat orașului Niort o cartă urbană în anul 1203", "Halele din Niort au fost construite în anul 1869", "Orașul are în prezent o populație de aproximativ 59.000 de locuitori"],
       en: ["The Keep of Niort consists of two towers connected by a central building", "Niort is the fourth-largest financial center in France", "The city is located on the edge of the second-largest wetland in France", "Eleanor of Aquitaine granted Niort a town charter in 1203", "The Halles of Niort were constructed in 1869", "The city has a current population of about 59,000 residents"],
     },
+    image: "/poi-images/niort.webp",
   },
   {
     id: "dax",
@@ -1425,6 +1483,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Apa de la Fontaine Chaude țâșnește la o temperatură constantă de 64 °C", "Dax este prima stațiune balneară recunoscută din Franța", "Zidurile romane ale orașului Dax datează din secolul al IV-lea", "Arena din Dax a fost construită în 1913 în stil neomaur", "Dax primește anual aproximativ 60.000 de oaspeți la băi", "Orașul are în prezent o populație de aproximativ 21.000 de locuitori"],
       en: ["The water from the Fontaine Chaude flows at a constant temperature of 64 °C", "Dax is the first recognized spa resort in France", "The Roman walls of Dax date back to the 4th century", "The Dax Arena was built in 1913 in a Neo-Moorish style", "Dax welcomes approximately 60,000 spa visitors annually", "The town has a current population of about 21,000 residents"],
     },
+    image: "/poi-images/dax.webp",
   },
   {
     id: "arcachon",
@@ -1449,6 +1508,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Dune du Pilat atinge o înălțime de până la 106 metri", "Ville d'Hiver a fost conceput ca stațiune climaterică începând cu 1862", "Arcachon a devenit comună independentă în 1857 printr-un decret al împăratului Napoleon al III-lea", "Peste 300 de vile din epoca Belle Époque sunt conservate în Orașul de Iarnă", "Bazinul Arcachon produce anual aproximativ 8.000 până la 10.000 de tone de stridii", "Orașul are în prezent o populație de aproximativ 11.500 de locuitori"],
       en: ["The Dune du Pilat reaches a height of up to 106 meters", "The Ville d'Hiver was designed as a climatic health resort starting in 1862", "Arcachon became an independent commune in 1857 by decree of Emperor Napoleon III", "Over 300 Belle Époque villas are preserved in the Winter Town", "The Arcachon Bay produces between 8,000 and 10,000 tons of oysters annually", "The town has a current population of about 11,500 residents"],
     },
+    image: "/poi-images/arcachon.webp",
   },
   {
     id: "royan",
@@ -1473,6 +1533,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Biserica Notre-Dame de Royan a fost sfințită în 1958", "Royan a fost distrus de bombardamentele aliate în ianuarie și aprilie 1945", "Farul Cordouan este situat la aproximativ 7 kilometri de coastă", "Plaja Grande Conche are o lungime de peste 2 kilometri", "Piața centrală din Royan are o formă boltită caracteristică din beton", "Orașul are în prezent o populație de aproximativ 18.500 de locuitori"],
       en: ["The Notre-Dame de Royan Church was consecrated in 1958", "Royan was destroyed by Allied bombing raids in January and April 1945", "The Cordouan Lighthouse is situated about 7 kilometers offshore", "The Grande Conche beach is over 2 kilometers long", "The Royan market hall features a characteristic vaulted concrete roof", "The town has a current population of about 18,500 residents"],
     },
+    image: "/poi-images/royan.webp",
   },
   {
     id: "agen",
@@ -1497,6 +1558,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Prefectura departamentului Lot-et-Garonne", "Catedrala Saint-Caprais este sit UNESCO din 1998", "Podul-canal peste Garonne are o lungime de 539 metri", "Capitala mondială a prunelor uscate (Pruneaux d'Agen)", "Numele antic al așezării a fost Aginnum", "Muzeul de Arte Frumoase deține pânze originale de Goya"],
       en: ["Capital of the Lot-et-Garonne department", "Saint-Caprais Cathedral is a UNESCO World Heritage site", "The Agen canal bridge measures 539 meters in length", "Famous for the 'Pruneaux d'Agen' protected dried plums", "Known in Roman times as the city of Aginnum", "The Fine Arts Museum houses original paintings by Goya"],
     },
+    image: "/poi-images/agen.webp",
   },
   {
     id: "brive-la-gaillarde",
@@ -1521,6 +1583,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Cel mai populat oraș din departamentul Corrèze", "Primul oraș eliberat prin forțe proprii la 15 august 1944", "Colegiata Saint-Martin datează din secolul al XII-lea", "Piața locală a fost celebrată de muzicianul Georges Brassens", "Echipa CA Brive a câștigat Cupa Campionilor la rugby în 1997", "Centru feroviar și comercial strategic în centrul Franței"],
       en: ["Largest city in the Corrèze department", "First French city to liberate itself on August 15, 1944", "The Saint-Martin Collegiate Church dates back to the 12th century", "Famous market immortalized in a song by Georges Brassens", "CA Brive rugby team won the European Cup in 1997", "Located at the crossroads of Limousin and Périgord"],
     },
+    image: "/poi-images/brive-la-gaillarde.webp",
   },
   {
     id: "bergerac",
@@ -1545,6 +1608,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Centru viticol cu 13 denumiri de origine controlată (AOC)", "Găzduiește singurul Muzeu Național al Tutunului din Franța", "Efigia lui Cyrano de Bergerac domină piețele orașului", "Case medievale din secolele XV-XVI în centrul vechi", "Orașul este situat în inima regiunii Périgord Pourpre", "Port fluvial istoric pe râul Dordogne"],
       en: ["Center of a wine region with 13 distinct AOCs", "Home to the National Tobacco Museum", "Famous for statues of the literary hero Cyrano de Bergerac", "Features half-timbered architecture from the 15th century", "Located on the Dordogne River in the Périgord Pourpre", "Historical port used for the trade of wine and tobacco"],
     },
+    image: "/poi-images/bergerac.webp",
   },
   {
     id: "colmar",
@@ -1569,6 +1633,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Locul de naștere al lui Frédéric-Auguste Bartholdi", "Muzeul Unterlinden găzduiește celebrul Altar din Isenheim", "Cartierul 'Petite Venise' este traversat de râul Lauch", "Supranumit capitala vinurilor alsaciene", "Are unul dintre cele mai uscate microclimate din Franța", "Clădirea Koïfhus datează din anul 1480"],
       en: ["Birthplace of Frédéric-Auguste Bartholdi, creator of the Statue of Liberty", "The Isenheim Altarpiece is kept in the Unterlinden Museum", "The 'Petite Venise' district features houses along the Lauch River", "Recognized as the capital of Alsatian wines", "One of the driest cities in France due to the rain shadow of the Vosges", "The Koïfhus is the city's oldest public building, dating to 1480"],
     },
+    image: "/poi-images/colmar.webp",
   },
   {
     id: "epinal",
@@ -1593,6 +1658,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Originea celebrelor stampe colorate 'Images d'Épinal'", "Bazilica Saint-Maurice datează din secolul al XI-lea", "Orașul este traversat de râul Mosela", "Recunoscut ca unul dintre cele mai verzi orașe franceze", "Castelul din Épinal a fost construit în secolul al XIII-lea", "Imageria d'Épinal a fost fondată de Jean-Charles Pellerin în 1796"],
       en: ["Famous for the 'Images d'Épinal' color prints", "Saint-Maurice Basilica was founded in the 11th century", "Located on the Moselle River in the Vosges", "Consistently ranked among the greenest cities in France", "Ruins of a 13th-century castle overlook the city", "The Imagerie d'Épinal printing house was founded in 1796"],
     },
+    image: "/poi-images/epinal.webp",
   },
   {
     id: "thionville",
@@ -1617,6 +1683,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Fostă reședință a conților de Luxemburg", "Turnul Beffroi datează din secolul al XIV-lea", "Centru istoric al siderurgiei din regiunea Lorena", "Tour aux Puces găzduiește colecții arheologice valoroase", "Situat în zona de graniță cu Luxemburg și Germania", "Castelul Meilbourg este un punct de reper în apropiere"],
       en: ["Former residence of the Counts of Luxembourg", "The 14th-century Belfry is the city's main symbol", "Key historical hub for the Lorraine steel industry", "The Tour aux Puces houses a museum of local archaeology", "Strategically located near the borders of Luxembourg and Germany", "Meilbourg Castle is a significant nearby landmark"],
     },
+    image: "/poi-images/thionville.webp",
   },
   {
     id: "charleville-mezieres",
@@ -1641,6 +1708,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Format în 1966 prin fuziunea orașelor Charleville și Mézières", "Place Ducale este sora geamănă a Place des Vosges din Paris", "Găzduiește cel mai mare festival de marionete din lume", "Locul de naștere al celebrului poet Arthur Rimbaud", "Bazilica Notre-Dame-d'Espérance deține vitralii de René Dürrbach", "Oraș strategic situat pe malurile fluviului Meuse"],
       en: ["Created in 1966 from the merger of two distinct towns", "Place Ducale is a near-exact twin of Place des Vosges in Paris", "Recognized as the world capital of puppetry arts", "The birthplace of the influential poet Arthur Rimbaud", "Basilica of Notre-Dame-d'Espérance features René Dürrbach glass", "Situated on a major bend of the Meuse River"],
     },
+    image: "/poi-images/charleville-mezieres.webp",
   },
   {
     id: "cherbourg-en-cotentin",
@@ -1665,6 +1733,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Cea mai mare radă artificială din lume (1500 hectare)", "Singura escală continentală a Titanicului în 1912", "Cité de la Mer găzduiește submarinul nuclear 'Le Redoutable'", "Oraș imortalizat în filmul 'Umbrelele din Cherbourg'", "Bază navală strategică fortificată sub Ludovic al XVI-lea", "Fortul Roule oferă o vedere panoramică asupra portului"],
       en: ["Largest man-made harbor in the world (1500 hectares)", "The only continental port call of the RMS Titanic in 1912", "Home to the nuclear submarine 'Le Redoutable' at Cité de la Mer", "Famous as the setting of the film 'The Umbrellas of Cherbourg'", "Major naval base since the reign of Louis XVI", "The Fort du Roule overlooks the entire harbor area"],
     },
+    image: "/poi-images/cherbourg-en-cotentin.webp",
   },
   {
     id: "dieppe",
@@ -1689,6 +1758,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Cea mai veche stațiune balneară din Franța (fondată în 1824)", "Locul de desfășurare al Operațiunii Jubilee în 1942", "Muzeul castelului deține o colecție rară de obiecte din fildeș", "Primul port francez pentru pescuitul scoicilor Saint-Jacques", "Punct de plecare istoric pentru coloniștii din Noua Franță", "Găzduiește cel mai mare festival de zmeie din lume"],
       en: ["France's oldest seaside resort, established in 1824", "Site of the tragic Dieppe Raid on August 19, 1942", "The castle museum houses a world-class ivory collection", "France's leading port for scallop fishing", "Historical departure point for French expeditions to Canada", "Host to the world's largest international kite festival"],
     },
+    image: "/poi-images/dieppe.webp",
   },
   {
     id: "evreux",
@@ -1713,6 +1783,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Numele antic al orașului a fost Mediolanum Aulercorum", "Catedrala deține o serie excepțională de 70 de vitralii", "Orașul este traversat de râul Iton", "Turnul cu Ceas (Beffroi) datează din secolul al XV-lea", "Fostul palat episcopal găzduiește colecții de arheologie", "Reconstruit după bombardamentele severe din 1944"],
       en: ["Known in Roman times as Mediolanum Aulercorum", "The cathedral features 70 significant stained-glass windows", "Located on the banks of the Iton River in Normandy", "Home to one of the few surviving belfries in Normandy", "The former Bishop's Palace now serves as the municipal museum", "Extensively rebuilt following heavy aerial bombardment in 1944"],
     },
+    image: "/poi-images/evreux.webp",
   },
   {
     id: "arras",
@@ -1737,6 +1808,7 @@ const citySeeds: CitySeed[] = [
       ro: ["În 1917 a avut loc aici o ofensivă majoră din timpul Primului Război Mondial.", "Turnul cu ceas din Arras are o înălțime totală de 75 de metri.", "Rețeaua de tuneluri Boves se află la circa 12 metri sub nivelul piețelor.", "Primăria a fost construită inițial în stil gotic în secolul al XVI-lea.", "Arras are o populație de aproximativ 42.000 de locuitori în zona urbană.", "Orașul este situat la punctul de întâlnire al râurilor Scarpe și Crinchon."],
       en: ["A major First World War offensive took place here in April and May 1917.", "The Arras belfry stands at a total height of 75 meters.", "The Boves tunnel network is situated about 12 meters below the city squares.", "The city hall was originally constructed in the 16th-century Gothic style.", "Arras has a population of approximately 42,000 residents in the city proper.", "The city is located at the confluence of the Scarpe and Crinchon rivers."],
     },
+    image: "/poi-images/arras.webp",
   },
   {
     id: "boulogne-sur-mer",
@@ -1761,6 +1833,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Orașul găzduiește din 1991 Nausicaá, Centrul Național al Mării.", "Cripta Basilicii Notre-Dame are 128 de metri lungime, fiind printre cele mai mari din țară.", "Boulogne-sur-Mer procesează anual peste 300.000 de tone de pește și fructe de mare.", "Zidurile medievale ale orașului au fost ridicate între 1227 și 1231 de către Philippe Hurepel.", "Turnul cu ceas al orașului este inclus în patrimoniul mondial UNESCO din anul 2005.", "Domul Basilicii Notre-Dame atinge o înălțime de 101 metri."],
       en: ["The city has been home to Nausicaá, the National Sea Centre, since its opening in 1991.", "The crypt of the Basilica of Notre-Dame is 128 meters long, making it one of the largest in France.", "Boulogne-sur-Mer processes over 300,000 tons of seafood annually, leading the French industry.", "The medieval ramparts were constructed between 1227 and 1231 by Count Philippe Hurepel.", "The city's belfry was designated a UNESCO World Heritage site in 2005.", "The dome of the Basilica of Notre-Dame reaches a height of 101 meters."],
     },
+    image: "/poi-images/boulogne-sur-mer.webp",
   },
   {
     id: "valenciennes",
@@ -1785,6 +1858,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Celebrul pictor Antoine Watteau s-a născut în Valenciennes în anul 1684.", "Actuala primărie datează din secolul al XIX-lea și a fost restaurată după 1945.", "Muzeul de Arte Frumoase a fost fondat încă din anul 1801.", "Valenciennes a fost un punct strategic în timpul asediului din anul 1793.", "Orașul găzduiește fabrici importante ale constructorilor Stellantis și Toyota.", "Sistemul modern de tramvai a fost inaugurat oficial la 3 iulie 2006."],
       en: ["The celebrated painter Antoine Watteau was born in Valenciennes in 1684.", "The current city hall dates from the 19th century and was restored after 1945.", "The Museum of Fine Arts was established as early as 1801.", "Valenciennes was a crucial strategic site during the Siege of 1793.", "The city area hosts significant manufacturing plants for Stellantis and Toyota.", "The modern tramway system was officially inaugurated on July 3, 2006."],
     },
+    image: "/poi-images/valenciennes.webp",
   },
   {
     id: "lens",
@@ -1809,6 +1883,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Muzeul Louvre-Lens a fost inaugurat la data de 4 decembrie 2012.", "Stadionul Bollaert-Delelis are o capacitate de peste 38.000 de locuri.", "Lens se află în departamentul Pas-de-Calais și are circa 32.000 de locuitori.", "Bazinul minier Nord-Pas-de-Calais este sit UNESCO din anul 2012.", "Orașul a suferit distrugeri enorme în 1917, în timpul Bătăliei pentru Lens.", "Ultima mină de cărbune din apropierea orașului Lens a fost închisă în 1986."],
       en: ["The Louvre-Lens museum was officially opened on December 4, 2012.", "The Bollaert-Delelis stadium can accommodate over 38,000 spectators.", "Lens is located in the Pas-de-Calais department with about 32,000 residents.", "The Nord-Pas-de-Calais Mining Basin has been a UNESCO site since 2012.", "The city was critically damaged in 1917 during the Battle of Lens.", "The last coal mine in the vicinity of Lens ceased operations in 1986."],
     },
+    image: "/poi-images/lens.webp",
   },
   {
     id: "cambrai",
@@ -1833,6 +1908,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Bătălia de la Cambrai din 1917 a marcat prima utilizare masivă a tancurilor.", "Turnul cu ceas din Cambrai datează din secolul al XV-lea.", "Bomboanele Bêtises de Cambrai sunt produse încă din anii 1830.", "Catedrala Notre-Dame a fost reconstruită după Revoluția Franceză.", "Cambrai are o populație de aproximativ 32.000 de locuitori.", "Porte de Paris este o relicvă a fortificațiilor orașului din secolul al XIV-lea."],
       en: ["The Battle of Cambrai in 1917 saw the first large-scale strategic use of tanks.", "The belfry of Cambrai dates back to the 15th century.", "Bêtises de Cambrai sweets have been manufactured since the 1830s.", "The Notre-Dame Cathedral was rebuilt in its current form after the Revolution.", "Cambrai has a population of approximately 32,000 residents.", "The Porte de Paris is a significant remnant of 14th-century city walls."],
     },
+    image: "/poi-images/cambrai.webp",
   },
   {
     id: "saint-quentin",
@@ -1857,6 +1933,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Basilica a fost construită între secolele XII și XV.", "Muzeul Fluturilor deține peste 400.000 de exemplare.", "Primăria din Saint-Quentin a fost finalizată în 1509 în stil gotic târziu.", "Orașul are o populație de aproximativ 53.000 de locuitori.", "Saint-Quentin a fost primul oraș reconstruit după Primul Război Mondial.", "Bătălia de la Saint-Quentin a avut loc în anul 1557."],
       en: ["The basilica was constructed between the 12th and 15th centuries.", "The Butterfly Museum houses over 400,000 individual specimens.", "Saint-Quentin's city hall was completed in 1509 in Late Gothic style.", "The city has a population of approximately 53,000 residents.", "Saint-Quentin was the first city to be officially rebuilt after World War I.", "The significant Battle of Saint-Quentin occurred in the year 1557."],
     },
+    image: "/poi-images/saint-quentin.webp",
   },
   {
     id: "compiegne",
@@ -1881,6 +1958,7 @@ const citySeeds: CitySeed[] = [
       ro: ["Castelul Compiègne a fost una dintre cele trei reședințe regale principale.", "Armistițiul din 1918 a fost semnat într-un vagon de tren în pădure.", "Compiègne are o populație de aproximativ 40.000 de locuitori.", "Universitatea UTC a fost fondată în oraș în anul 1972.", "Primăria are trei figurine celebre din lemn, numite Picantins.", "Pădurea Compiègne acoperă o suprafață de peste 14.000 de hectare."],
       en: ["The Palace of Compiègne was one of the three most important royal residences.", "The 1918 Armistice was famously signed in a railway carriage in the forest.", "Compiègne has a population of approximately 40,000 residents.", "The University of Technology of Compiègne (UTC) was founded in 1972.", "The city hall features three famous wooden automatons known as Picantins.", "The Forest of Compiègne covers an area of more than 14,000 hectares."],
     },
+    image: "/poi-images/compiegne.webp",
   },
 ];
 

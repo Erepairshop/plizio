@@ -46,6 +46,7 @@ export const spainCitiesExtra: POI[] = [
         "The city was officially established as the capital of Spain in 1561."
       ]
     },
+    image: "/poi-images/ES-MAD.webp",
   },
   {
     id: "ES-BCN",
@@ -92,6 +93,7 @@ export const spainCitiesExtra: POI[] = [
         "The city has a population of roughly 1.6 million within its administrative limits, making it Spain's second-largest city."
       ]
     },
+    image: "/poi-images/ES-BCN.webp",
   }
 ];
 export default spainCitiesExtra;

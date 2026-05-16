@@ -32,6 +32,7 @@ export const austriaLandmarksV2: POI[] = [
       ro: ["Castelul a fost construit în jurul anului 1250 ca fortificație de graniță.", "Turnul principal al complexului are o înălțime de 22 de metri.", "Prima mențiune documentară a castelului datează din anul 1262.", "O schimbare majoră de proprietar a avut loc în anul 1645.", "Zidurile de incintă au o grosime impresionantă de doi metri.", "Lucrările de restaurare integrală au fost finalizate în anul 1920."],
       en: ["The castle was established around 1250 as a border fortification.", "The prominent keep of the facility is 22 meters high.", "The first documented mention of the castle dates back to 1262.", "A significant ownership change took place in the year 1645.", "The curtain walls feature an impressive thickness of two meters.", "Comprehensive restoration work was completed in the year 1920."],
     },
+    image: "/poi-images/austria-burg-gudenstein-landmarks-v2.webp",
   },
   {
     id: "austria-kloster-seckau-landmarks-v2",
@@ -64,6 +65,7 @@ export const austriaLandmarksV2: POI[] = [
       ro: ["Abația a fost fondată oficial în anul 1140.", "Construcția mausoleului a început în anul 1587.", "Mănăstirea a fost sediu episcopal până în anul 1782.", "Bazilica are o lungime impresionantă de 65 de metri.", "Cele două turnuri ale bazilicii au o înălțime de 47 de metri.", "Din anul 1883, mănăstirea aparține din nou ordinului benedictin."],
       en: ["The abbey was originally founded in the year 1140.", "Construction of the mausoleum began in the year 1587.", "The monastery served as an episcopal seat until 1782.", "The basilica features an impressive length of 65 meters.", "The two towers of the basilica are each 47 meters tall.", "Since 1883, the monastery has been owned by the Benedictine Order."],
     },
+    image: "/poi-images/austria-kloster-seckau-landmarks-v2.webp",
   },
   {
     id: "austria-stadtturm-wels-landmarks-v2",
@@ -96,6 +98,7 @@ export const austriaLandmarksV2: POI[] = [
       ro: ["Turnul are o înălțime totală de aproximativ 38 de metri.", "Prima mențiune scrisă datează din secolul al XIV-lea.", "Cupola barocă caracteristică a fost montată în anul 1732.", "Turnul a servit periodic ca locație pentru arhiva orașului.", "Grosimea zidului la baza turnului este de 1,8 metri.", "O piatră cu blazonul lui Maximilian I împodobește fațada."],
       en: ["The tower has a total height of approximately 38 meters.", "The first written mention dates back to the 14th century.", "The characteristic Baroque dome was added in the year 1732.", "The tower served at times as the location for the city archives.", "The wall thickness at the base of the tower is 1.8 meters.", "A coat of arms stone of Emperor Maximilian I adorns the facade."],
     },
+    image: "/poi-images/austria-stadtturm-wels-landmarks-v2.webp",
   },
   {
     id: "austria-kirche-st-ruprecht-landmarks-v2",
@@ -128,6 +131,7 @@ export const austriaLandmarksV2: POI[] = [
       ro: ["Biserica este considerată cea mai veche parohie din Graz.", "Nucleul clădirii are origini romanice clare.", "Prima mențiune documentară datează din anul 1150.", "Biserica a fost parohia mamă originală a regiunii Graz.", "De-a lungul secolelor, clădirea a fost extinsă de mai multe ori.", "Este situată în centrul istoric și este monument protejat."],
       en: ["The church is considered the oldest parish in the city of Graz.", "The core building has clear Romanesque origins.", "The first documented mention dates back to the year 1150.", "The church was the original mother parish of the Graz area.", "Over the centuries, the structure has been expanded several times.", "It is located in the historic city center and is a protected monument."],
     },
+    image: "/poi-images/austria-kirche-st-ruprecht-landmarks-v2.webp",
   },
   {
     id: "austria-burg-glanegg-landmarks-v2",
@@ -160,6 +164,7 @@ export const austriaLandmarksV2: POI[] = [
       ro: ["Castelul a fost menționat documentar prima dată în 1121.", "Suprafața nucleului castelului este de circa 1.500 metri pătrați.", "Din anul 1473, complexul a aparținut familiei de Habsburg.", "Un trăsnet în 1840 a distrus părți semnificative ale castelului.", "Din 1996 au loc lucrări de restaurare desfășurate continuu.", "Impunătorul palat al castelului are o lungime de 38 de metri."],
       en: ["The castle was first documented in the year 1121.", "The core area of the castle spans about 1,500 square meters.", "Starting in 1473, the facility was owned by the Habsburgs.", "A lightning strike in 1840 destroyed large parts of the castle.", "Continuous restoration work has been ongoing since 1996.", "The impressive Great Hall of the castle is 38 meters long."],
     },
+    image: "/poi-images/austria-burg-glanegg-landmarks-v2.webp",
   },
   {
     id: "austria-schloss-lamberg-landmarks-v2",
@@ -192,6 +197,7 @@ export const austriaLandmarksV2: POI[] = [
       ro: ["Fondarea cetății originale a avut loc în jurul anului 980.", "După incendiul din 1727, castelul a fost reconstruit în stil baroc.", "Castelul a fost în posesia conților de Lamberg până în 1938.", "Parcul aferent castelului este amenajat în stil peisagistic englezesc.", "Astăzi, castelul este utilizat, printre altele, ca oficiu al stării civile.", "Clădirea cuprinde în total peste 100 de camere somptuoase."],
       en: ["The original fortress was founded around the year 980.", "After the city fire of 1727, the castle was redesigned in Baroque style.", "The castle was owned by the Counts of Lamberg until 1938.", "The accompanying castle park is designed in the English landscape style.", "Today, the castle is used, among other things, as a registry office.", "The building contains a total of more than 100 grand rooms."],
     },
+    image: "/poi-images/austria-schloss-lamberg-landmarks-v2.webp",
   },
   {
     id: "austria-kirche-st-anna-landmarks-v2",
@@ -224,5 +230,6 @@ export const austriaLandmarksV2: POI[] = [
       ro: ["Fundația inițială a capelei datează din anul 1347.", "Construcția barocă a fost finalizată sub forma actuală în 1732.", "Frescele de pe tavan au fost realizate de Daniel Gran în 1747.", "Biserica păstrează relicva mâinii Sfintei Ana, adusă în secolul XVI.", "Incendiul din 1747 a dus la refacerea decorului interior în stil baroc târziu.", "Administrarea bisericii a fost preluată de ordinul Oblatii în 1906."],
       en: ["The church was originally founded as a hospital chapel in 1347.", "The Baroque reconstruction was officially completed in 1732.", "Daniel Gran painted the notable ceiling frescoes in 1747.", "The relic of Saint Anne's hand has been in the church since 1512.", "A major fire in 1747 necessitated an extensive interior renovation.", "The church is located at Annagasse 3b in Vienna's 1st District."],
     },
+    image: "/poi-images/austria-kirche-st-anna-landmarks-v2.webp",
   }
 ];

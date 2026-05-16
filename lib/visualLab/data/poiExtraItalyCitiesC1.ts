@@ -225,7 +225,8 @@ export const poiExtraItalyCitiesC1: POI[] = [
         hu: ["Az egykori Osztrák-Magyar Monarchia legfontosabb kikötője", "Történelmi irodalmi kávéházak otthona", "A Piazza Unità d'Italia Európa legnagyobb tengerparti tere", "Fontos tudományos és kutatási központ"],
         ro: ["Principalul port al fostului Imperiu Austro-Ungar", "Gazdă a cafenelelor literare istorice", "Piazza Unità d'Italia este cea mai mare piață din Europa cu deschidere la mare", "Important centru științific și de cercetare"],
         en: ["Main port of the former Austro-Hungarian Empire", "Home to historic literary cafés", "Piazza Unità d'Italia is Europe's largest sea-facing square", "Major science and research hub"]
-    }
+    },
+    image: "/poi-images/city-it-trieste.webp",
   },
   {
     id: "city-it-padua",
@@ -256,7 +257,8 @@ export const poiExtraItalyCitiesC1: POI[] = [
         hu: ["Giotto mesterművének, a Scrovegni-kápolnának az otthona", "Olaszország egyik legrégebbi egyeteme", "A Prato della Valle egy hatalmas, ellipszis alakú tér", "Fontos zarándokhely (Szent Antal-bazilika)"],
         ro: ["Găzduiește capodopera lui Giotto, Capela Scrovegni", "Una dintre cele mai vechi universități din Italia", "Prato della Valle este o piață eliptică masivă", "Important loc de pelerinaj (Bazilica Sf. Anton)"],
         en: ["Home to Giotto's masterpiece, the Scrovegni Chapel", "One of Italy's oldest universities", "Prato della Valle is a massive elliptical square", "Major pilgrimage site (Basilica of St. Anthony)"]
-    }
+    },
+    image: "/poi-images/city-it-padua.webp",
   },
   // NOTE: This is a truncated list for brevity. The full list would contain 100 cities.
   // The generation will continue to add cities like:

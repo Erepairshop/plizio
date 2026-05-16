@@ -31,6 +31,7 @@ export const palestineNatureV2: POI[] = [
       ro: ["Valea are o lungime de aproximativ 28 de kilometri", "Mănăstirea Sf. Gheorghe a fost fondată în jurul anului 480 d.Hr.", "Irod cel Mare a construit aici o reședință de iarnă", "Trei izvoare alimentează cursul de apă pe tot parcursul anului", "Apeductele antice au o vechime de peste 2000 de ani", "Zona este un habitat important pentru păsările de pradă"],
       en: ["The valley stretches for approximately 28 kilometers", "St. George's Monastery was founded around 480 AD", "Herod the Great built a winter residence in this area", "Three springs feed the stream in the valley year-round", "The ancient aqueducts are over 2,000 years old", "The area is a key habitat for various birds of prey"],
     },
+    image: "/poi-images/palestine-wadi-qelt-nature-v2.webp",
   },
   {
     id: "palestine-mount-temptation-nature-v2",
@@ -62,6 +63,7 @@ export const palestineNatureV2: POI[] = [
       ro: ["Vârful muntelui se află la 350 de metri deasupra mării", "Prima mănăstire a fost construită în secolul al IV-lea", "Actualul complex monahal datează din anul 1895", "Telecabina din Ierihon are o lungime de circa 1,3 km", "În stâncă există aproximativ 30 de chilii antice de pustnici", "Muntele este situat într-una dintre cele mai aride zone"],
       en: ["The summit is 350 meters above sea level", "The first monastery was built in the 4th century", "The current monastery complex dates back to 1895", "The Jericho cable car is approximately 1.3 kilometers long", "About 30 ancient hermit cells are located in the cliffs", "The mountain is situated in one of the driest zones"],
     },
+    image: "/poi-images/palestine-mount-temptation-nature-v2.webp",
   },
   {
     id: "palestine-wadi-gaza-nature-v2",
@@ -93,6 +95,7 @@ export const palestineNatureV2: POI[] = [
       ro: ["Wadi se întinde pe o lungime de 9 kilometri în Gaza", "A fost declarat rezervație naturală în anul 2000", "Peste 150 de specii de păsări au fost documentate aici", "Bazinul hidrografic acoperă circa 3500 km pătrați", "Laguna de coastă este loc de cuibărit pentru păsări de apă", "Zona se confruntă cu probleme severe de mediu"],
       en: ["The wadi stretches for 9 kilometers within Gaza", "It was declared a nature reserve in the year 2000", "Over 150 bird species have been documented here", "The total catchment area is about 3,500 square kilometers", "The coastal lagoon is a breeding ground for waterbirds", "The area faces significant environmental challenges"],
     },
+    image: "/poi-images/palestine-wadi-gaza-nature-v2.webp",
   },
   {
     id: "palestine-judean-desert-nature-v2",
@@ -124,6 +127,7 @@ export const palestineNatureV2: POI[] = [
       ro: ["Deșertul acoperă aproximativ 1500 de kilometri pătrați", "Precipitațiile anuale sunt sub 100 mm în medie", "Mar Saba este una dintre cele mai vechi mănăstiri", "Aici au fost găsite manuscrisele de la Marea Moartă în 1947", "Diferența de altitudine depășește 1200 de metri", "Zona a fost un refugiu istoric pentru pustnici"],
       en: ["The desert covers about 1,500 square kilometers", "Annual rainfall is typically less than 100 mm", "Mar Saba is one of the oldest inhabited monasteries", "The Dead Sea Scrolls were found here in 1947", "The elevation drop exceeds 1,200 meters across the area", "The region served as a historical retreat for hermits"],
     },
+    image: "/poi-images/palestine-judean-desert-nature-v2.webp",
   },
   {
     id: "palestine-ein-feshkha-nature-v2",
@@ -155,6 +159,7 @@ export const palestineNatureV2: POI[] = [
       ro: ["Rezervația se află la 420 de metri sub nivelul mării", "Izvoarele apar la poalele Munților Iudeii", "Este împărțită într-o zonă protejată și una publică", "Apa are o temperatură constantă de circa 25 grade Celsius", "Aici trăiesc specii rare de pești, cum este Aphanius", "Zona este un punct esențial pentru păsările migratoare"],
       en: ["The reserve sits about 420 meters below sea level", "Springs emerge at the foot of the Judean Mountains", "It is divided into a hidden reserve and a public area", "The water maintains a constant temperature of 25°C", "Rare fish species like the Killifish inhabit the pools", "The area is a crucial stopover for migratory birds"],
     },
+    image: "/poi-images/palestine-ein-feshkha-nature-v2.webp",
   },
   {
     id: "palestine-wadi-auja-nature-v2",
@@ -186,6 +191,7 @@ export const palestineNatureV2: POI[] = [
       ro: ["Izvorul Ein Auja este cel mai mare din Valea Iordanului", "Wadi se întinde pe o lungime de 12 kilometri", "Cascadele sunt active mai ales după ploi abundente", "Sistemul de irigații datează parțial din antichitate", "Se află la aproximativ 200 de metri sub nivelul mării", "Zona este cunoscută pentru culturile de banane"],
       en: ["Ein Auja spring is the largest in the Jordan Valley", "The wadi stretches for about 12 kilometers", "Waterfalls are most active after heavy winter rains", "The irrigation system partly dates back to ancient times", "It is located about 200 meters below sea level", "The area is well-known for banana cultivation"],
     },
+    image: "/poi-images/palestine-wadi-auja-nature-v2.webp",
   },
   {
     id: "palestine-kidron-valley-nature-v2",
@@ -217,6 +223,7 @@ export const palestineNatureV2: POI[] = [
       ro: ["Valea are o lungime totală de circa 32 de kilometri", "Mormântul lui Absalom are o înălțime de 20 de metri", "Izvorul Gihon alimentează partea superioară a văii", "Este menționată în Biblie sub numele de Valea lui Iosafat", "Mai multe biserici creștine sunt situate pe versanți", "Valea servește ca drenaj natural pentru Ierusalim"],
       en: ["The total length of the valley is about 32 kilometers", "The Tomb of Absalom stands approximately 20 meters high", "The Gihon Spring feeds the upper part of the valley", "It is referred to in the Bible as the Valley of Jehoshaphat", "Several major Christian churches line its slopes", "The valley serves as natural drainage for Jerusalem"],
     },
+    image: "/poi-images/palestine-kidron-valley-nature-v2.webp",
   },
   {
     id: "palestine-marj-sanur-nature-v2",
@@ -248,6 +255,7 @@ export const palestineNatureV2: POI[] = [
       ro: ["Câmpia acoperă o suprafață de circa 20 km pătrați", "Lacul sezonier poate atinge o adâncime de 2 metri", "Nu există nicio scurgere naturală la suprafață", "Bazinul este situat la o altitudine de 350 de metri", "Satul Sanur dă numele acestei câmpii fertile", "Apa se infiltrează lent în sol pe parcursul primăverii"],
       en: ["The plain covers an area of about 20 square kilometers", "The seasonal lake can reach a depth of 2 meters", "There is no natural surface outlet for the water", "The basin is situated at an elevation of 350 meters", "The village of Sanur gives the plain its name", "Water slowly infiltrates the ground during the spring"],
     },
+    image: "/poi-images/palestine-marj-sanur-nature-v2.webp",
   },
   {
     id: "palestine-wadi-el-fara-nature-v2",
@@ -279,6 +287,7 @@ export const palestineNatureV2: POI[] = [
       ro: ["Este cel mai mare afluent al Iordanului inferior", "Wadi se întinde pe o distanță de circa 25 de kilometri", "Peste 10 izvoare apar în interiorul văii", "S-au găsit urme de așezări din perioada neolitică", "Regiunea produce 30% din legumele din Cisiordania", "Ruine de mori antice se află de-a lungul cursului"],
       en: ["It is the largest tributary of the lower Jordan River", "The wadi stretches for approximately 25 kilometers", "Over 10 springs emerge within the valley's limits", "Neolithic settlement remains have been discovered here", "The region produces 30% of the West Bank's vegetables", "Ancient mill ruins are found along the watercourse"],
     },
+    image: "/poi-images/palestine-wadi-el-fara-nature-v2.webp",
   },
   {
     id: "palestine-wadi-en-nar-nature-v2",
@@ -310,6 +319,7 @@ export const palestineNatureV2: POI[] = [
       ro: ["Drumul prin Wadi are curbe extrem de abrupte", "Valea se varsă în cele din urmă în Marea Moartă", "Numele provine de la căldura extremă din timpul verii", "Este un punct strategic de trecere în regiune", "Mănăstirea Mar Saba este situată deasupra văii", "Geologic, zona este formată din calcar masiv"],
       en: ["The road through the wadi has extremely steep curves", "The valley eventually drains into the Dead Sea", "The name refers to the extreme heat during summer", "It is a strategic bottleneck passage in the region", "Mar Saba Monastery is perched above this valley", "Geologically, the area consists of massive limestone"],
     },
+    image: "/poi-images/palestine-wadi-en-nar-nature-v2.webp",
   },
   {
     id: "palestine-hinnom-valley-nature-v2",
@@ -341,6 +351,7 @@ export const palestineNatureV2: POI[] = [
       ro: ["Valea formează granița între Ierusalimul de Est și cel de Vest", "Aici s-au găsit morminte din secolul al VII-lea î.Hr.", "Termenul Gehena derivă din numele ebraic Geh Hinnom", "Astăzi este o zonă populară pentru alpinism și drumeții", "Mănăstirea Akeldama este situată pe marginea văii", "În antichitate, aici se prelucrau minereuri de fier"],
       en: ["The valley marks the border between East and West Jerusalem", "Tombs from the 7th century BC were discovered here", "The term Gehenna is derived from the name Geh Hinnom", "It is now a popular spot for rock climbing and hiking", "The Akeldama Monastery is located on its southern edge", "Iron ores were processed here in ancient times"],
     },
+    image: "/poi-images/palestine-hinnom-valley-nature-v2.webp",
   },
   {
     id: "palestine-battir-terraces-nature-v2",
@@ -372,6 +383,7 @@ export const palestineNatureV2: POI[] = [
       ro: ["Battir este în Patrimoniul UNESCO din anul 2014", "Satul folosește un sistem unic de distribuție a apei", "Terasele se întind pe parcursul mai multor văi", "Aici se află ruinele cetății antice Betar", "Traseul de drumeție urmează o veche linie ferată", "Este unul dintre cele mai bine păstrate sisteme agrare antice"],
       en: ["Battir was inscribed as a UNESCO World Heritage site in 2014", "The village uses a unique rotational water distribution system", "The stone terraces span across several valleys", "Ruins of the ancient fortress of Betar are located here", "The hiking trail follows an old railway line", "It is one of the best-preserved examples of ancient farming"],
     },
+    image: "/poi-images/palestine-battir-terraces-nature-v2.webp",
   },
   {
     id: "palestine-wadi-al-makhrour-nature-v2",
@@ -403,6 +415,7 @@ export const palestineNatureV2: POI[] = [
       ro: ["Wadi se întinde de la Beit Jala până la Battir", "Face parte din zona tampon UNESCO pentru Battir", "Aici cresc orhidee rare și flori sălbatice", "Turnurile de piatră sunt numite local 'Qasr'", "Valea este o zonă importantă de drumeții pentru turiști", "Observatorii de păsări găsesc aici multe specii locale"],
       en: ["The wadi stretches from Beit Jala to Battir", "It is part of the UNESCO buffer zone for Battir", "Rare orchids and wildflowers grow throughout the valley", "The traditional stone towers are locally called 'Qasr'", "The valley is a key destination for eco-tourism", "Birdwatchers can find many local avian species here"],
     },
+    image: "/poi-images/palestine-wadi-al-makhrour-nature-v2.webp",
   },
   {
     id: "palestine-al-quff-forest-nature-v2",
@@ -434,6 +447,7 @@ export const palestineNatureV2: POI[] = [
       ro: ["Suprafața totală este de aproximativ 400 de hectare", "Primele plantări au început în anul 1927", "Se află la o altitudine între 800 și 900 de metri", "Pădurea adăpostește vulpi și diverse reptile", "În apropiere se află peșteri funerare antice", "Zona este monitorizată strict din punct de vedere forestier"],
       en: ["The total area covers approximately 400 hectares", "Afforestation efforts began as early as 1927", "The forest sits at an altitude of 800 to 900 meters", "It provides a habitat for foxes and various reptiles", "Ancient burial caves are located in the vicinity", "The area is under strict forestry management"],
     },
+    image: "/poi-images/palestine-al-quff-forest-nature-v2.webp",
   },
   {
     id: "palestine-gaza-coastline-nature-v2",
@@ -465,6 +479,7 @@ export const palestineNatureV2: POI[] = [
       ro: ["Linia de coastă are o lungime de circa 40 de kilometri", "Portul Gaza are o istorie care datează din antichitate", "Pescuitul susține mii de familii din regiune", "Plajele sunt formate din nisip mediteranean fin", "Țestoase marine depun ouă în zonele mai izolate", "Falezele de kurkar au o înălțime de până la 20 de metri"],
       en: ["The coastline spans approximately 40 kilometers", "The Port of Gaza has a history dating back to antiquity", "Fishing supports thousands of families in the region", "The beaches are composed of fine Mediterranean sand", "Sea turtles are known to nest on more secluded stretches", "The Kurkar cliffs reach heights of up to 20 meters"],
     },
+    image: "/poi-images/palestine-gaza-coastline-nature-v2.webp",
   },
   {
     id: "palestine-sartaba-peak-nature-v2",
@@ -496,6 +511,7 @@ export const palestineNatureV2: POI[] = [
       ro: ["Înălțime de 377 de metri deasupra nivelului mării", "Construcția cetății Alexandrium în jurul anului 100 î.Hr.", "Parte a sistemului de semnalizare între Ierusalim și Babilon", "Poziție strategică la marginea Văii Iordanului", "Rămășițe arheologice de cisterne și ziduri", "Menționat istoric în lucrările lui Flavius Josephus"],
       en: ["Altitude of 377 meters above sea level", "Construction of Alexandrium fortress around 100 BC", "Part of the beacon system between Jerusalem and Babylon", "Strategic location on the edge of the Jordan Valley", "Archaeological remains of cisterns and walls", "Historically mentioned in the works of Flavius Josephus"],
     },
+    image: "/poi-images/palestine-sartaba-peak-nature-v2.webp",
   },
   {
     id: "palestine-mount-kabir-nature-v2",
@@ -527,6 +543,7 @@ export const palestineNatureV2: POI[] = [
       ro: ["Altitudine maximă de 792 de metri", "Vedere asupra Văii Iordanului și munților Galaadului", "Prezența unor specii rare de iris în regiune", "Face parte din lanțul muntos Kabir din Samaria de Nord", "Destinație populară pentru drumeții și observarea naturii", "Precipitații anuale de aproximativ 600 mm"],
       en: ["Maximum altitude of 792 meters", "Views of the Jordan Valley and the mountains of Gilead", "Presence of rare iris species in the area", "Part of the Kabir mountain range in northern Samaria", "Popular destination for hiking and nature observation", "Average annual rainfall of about 600 mm"],
     },
+    image: "/poi-images/palestine-mount-kabir-nature-v2.webp",
   },
   {
     id: "palestine-wadi-zarqa-al-ulwi-nature-v2",
@@ -558,6 +575,7 @@ export const palestineNatureV2: POI[] = [
       ro: ["Bazin hidrografic de aproximativ 95 km pătrați", "Se întinde în apropierea orașului Salfit", "Include mai multe izvoare permanente de apă dulce", "Prezența orhideelor rare și a florilor sălbatice", "Habitat important pentru păsări de pradă și mamifere mici", "Utilizare istorică pentru funcționarea morilor de apă"],
       en: ["Drainage basin of approximately 95 square kilometers", "Runs near the city of Salfit", "Includes several permanent freshwater springs", "Presence of rare orchids and wildflowers", "Important habitat for birds of prey and small mammals", "Historical use for operating water mills"],
     },
+    image: "/poi-images/palestine-wadi-zarqa-al-ulwi-nature-v2.webp",
   },
   {
     id: "palestine-wadi-shair-nature-v2",
@@ -589,6 +607,7 @@ export const palestineNatureV2: POI[] = [
       ro: ["Lungime de aproximativ 15 kilometri în zona centrală", "Principala regiune de producție a măslinelor din nord-vest", "Rută comercială istorică între Nablus și Tulkarm", "Caracterizată de un teren bogat în calcar", "Debit de apă sezonier în lunile de iarnă", "Găzduiește numeroase sate agricole tradiționale"],
       en: ["Length of approximately 15 kilometers in the core area", "Main olive production area in the northwest", "Historical trade route between Nablus and Tulkarm", "Characterized by limestone-rich terrain", "Seasonal water flow during winter months", "Home to numerous traditional farming villages"],
     },
+    image: "/poi-images/palestine-wadi-shair-nature-v2.webp",
   },
   {
     id: "palestine-wadi-natuf-nature-v2",
@@ -620,6 +639,7 @@ export const palestineNatureV2: POI[] = [
       ro: ["Situl culturii Natufiene (aprox. 12.500–9.500 î.Hr.)", "Descoperirea peșterii Shuqba de către Dorothy Garrod în 1928", "Situat în guvernoratul Ramallah și al-Bireh", "Dovezi ale cultivării timpurii a cerealelor găsite aici", "Parte a unei rezervații a biosferei din regiune", "Prezența naturală a fisticului sălbatic și a roșcovilor"],
       en: ["Site of the Natufian culture (c. 12,500–9,500 BC)", "Discovery of Shuqba Cave by Dorothy Garrod in 1928", "Located in the Ramallah and al-Bireh Governorate", "Evidence of early cereal cultivation found", "Part of a biosphere reserve in the region", "Natural occurrence of wild pistachio and carob trees"],
     },
+    image: "/poi-images/palestine-wadi-natuf-nature-v2.webp",
   },
   {
     id: "palestine-hebron-hills-nature-v2",
@@ -651,6 +671,7 @@ export const palestineNatureV2: POI[] = [
       ro: ["Cel mai înalt punct lângă Halhul la 1.020 metri", "Cea mai importantă regiune viticolă din zonă", "Precipitații anuale între 400 și 600 mm", "Prezența teraselor agricole antice", "Habitat pentru păsări de pradă rare, cum ar fi vulturul egiptean", "Arhitectură tradițională din calcar în satele de munte"],
       en: ["Highest point near Halhul at 1,020 meters", "Most important viticulture region in the area", "Annual rainfall ranges between 400 and 600 mm", "Presence of ancient agricultural terraces", "Habitat for rare birds of prey such as the Egyptian vulture", "Traditional limestone architecture in mountain villages"],
     },
+    image: "/poi-images/palestine-hebron-hills-nature-v2.webp",
   },
   {
     id: "palestine-ein-sultan-spring-nature-v2",
@@ -682,6 +703,7 @@ export const palestineNatureV2: POI[] = [
       ro: ["Debit de apă de aproximativ 680 de metri cubi pe oră", "Temperatură constantă a apei de circa 21 grade Celsius", "Motivul principal pentru întemeierea Ierihonului în neolitic", "Asociat în Biblie cu profetul Elisei", "Alimentează un sistem complex de canale de irigații", "Descoperiri arheologice în apropiere datând din 9.000 î.Hr."],
       en: ["Water discharge of about 680 cubic meters per hour", "Constant water temperature of approx. 21 degrees Celsius", "Main reason for the founding of Jericho in the Neolithic", "Linked in the Bible to the prophet Elisha", "Feeds a complex system of irrigation canals", "Archaeological finds nearby date back to 9,000 BC"],
     },
+    image: "/poi-images/palestine-ein-sultan-spring-nature-v2.webp",
   },
   {
     id: "palestine-nablus-valley-nature-v2",
@@ -713,6 +735,7 @@ export const palestineNatureV2: POI[] = [
       ro: ["Închisă de munți cu înălțimi de peste 880 de metri", "Găzduiește mai mult de 20 de izvoare permanente", "Locul orașului antic Sihem", "Centru al producției tradiționale de săpun de ulei de măsline", "Formațiune geologică din calcar și cretă", "Temperatură medie anuală de 18 grade Celsius"],
       en: ["Enclosed by mountains over 880 meters high", "Home to more than 20 permanent springs", "Site of the ancient city of Shechem", "Center of traditional olive oil soap production", "Geological formation of limestone and chalk", "Average annual temperature of 18 degrees Celsius"],
     },
+    image: "/poi-images/palestine-nablus-valley-nature-v2.webp",
   },
   {
     id: "palestine-gaza-sand-dunes-nature-v2",
@@ -744,5 +767,6 @@ export const palestineNatureV2: POI[] = [
       ro: ["Dunele ating înălțimi de până la 30 de metri", "Sunt formate în principal din nisip de cuarț pleistocen", "Habitat pentru rara țestoasă egipteană", "Prezența ciulinilor de mare și a diferitelor specii de salcâm", "Filtru important pentru infiltrarea apei de ploaie în pânza freatică", "Amenințate de urbanizare și exploatarea nisipului"],
       en: ["Dunes reach heights of up to 30 meters", "Primarily composed of Pleistocene quartz sand", "Habitat for the rare Egyptian tortoise", "Presence of sea hollies and various acacia species", "Important filter for rainwater infiltration into the aquifer", "Endangered by urbanization and sand quarrying"],
     },
+    image: "/poi-images/palestine-gaza-sand-dunes-nature-v2.webp",
   }
 ];

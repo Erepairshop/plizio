@@ -838,6 +838,7 @@ imageHint: "Älvsborgsbron suspension bridge Gothenburg green towers",
       ro: ["Construit între 1823-1827", "Arhitect Fredrik Blom", "Stil Empire suedez tipic", "Situat în parcul Djurgården", "Reședință de vară regală", "Structură prefabricată din lemn"],
       en: ["Built between 1823 and 1827", "Designed by Fredrik Blom", "Empire style interior decor", "Located on Djurgården island", "Commissioned by Charles XIV", "Original furniture preserved"],
     },
+    image: "/poi-images/sweden-rosendal-palace-landmarks-v2.webp",
   },
   {
     id: "sweden-malmo-castle-landmarks-v2",
@@ -1180,5 +1181,6 @@ imageHint: "Älvsborgsbron suspension bridge Gothenburg green towers",
       ro: ["Construit în anii 1720", "Reședință pentru Gustaf V", "Stiluri arhitecturale mixte", "Parcuri în stil englezesc", "Situat pe coasta Baltică", "Monument protejat de stat"],
       en: ["Current building from 1720s", "Royal summer home until 1950", "Mix of architectural styles", "English landscape garden", "Located by the Baltic Sea", "Well-preserved 19th-c. interiors"],
     },
+    image: "/poi-images/sweden-tullgarn-palace-landmarks-v2.webp",
   }
 ];

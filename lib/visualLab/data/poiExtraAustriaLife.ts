@@ -296,6 +296,7 @@ export const poiExtraAustriaLife: POI[] = [
         "The park also has a water-themed restaurant.",
         "The visitor center has been awarded the 'Klimaaktiv' (Climate Active) certification for its sustainable architectural solutions."
       ]
-    }
+    },
+    image: "/poi-images/kid-landmark-wasserspiele-krimml-extra.webp",
   }
 ];

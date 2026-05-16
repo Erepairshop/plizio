@@ -32,6 +32,7 @@ export const sanmarinoNatureV2: POI[] = [
       ro: ["Lungimea pârâului Marano: 15 km.", "Se varsă în Ausa.", "Bazinul hidrografic: Valea Marano.", "Calitatea apei este monitorizată periodic.", "Specii de pești: păstrăv de pârâu, rac de râu.", "Face parte din rețeaua Natura 2000."],
       en: ["Length: 15 km.", "Flows into the Ausa River.", "Watershed: Marano Valley.", "Regular water quality monitoring.", "Fish species: brown trout, crayfish.", "Part of Natura 2000."],
     },
+    image: "/poi-images/sanmarino-torrente-marano-nature-v2.webp",
   },
   {
     id: "sanmarino-canyon-torrente-cailungo-nature-v2",
@@ -64,6 +65,7 @@ export const sanmarinoNatureV2: POI[] = [
       ro: ["Lungimea canionului: 2 km.", "Adâncime maximă: 50 m.", "Pereții sunt loc de cuibărit pentru șoimul călător.", "Există un traseu de drumeție pe margine.", "Formațiunea datează din Jurasic.", "Parte a unui proiect LIFE."],
       en: ["Length: 2 km.", "Depth: up to 50 m.", "Nesting site for peregrine falcons.", "Hiking trail along rim.", "Jurassic geological formation.", "Part of a LIFE project."],
     },
+    image: "/poi-images/sanmarino-canyon-torrente-cailungo-nature-v2.webp",
   },
   {
     id: "sanmarino-bosco-di-monte-giardino-nature-v2",
@@ -96,6 +98,7 @@ export const sanmarinoNatureV2: POI[] = [
       ro: ["Pădurea are 100 de hectare.", "Protejată din 1985.", "Altitudine: 400–600 m.", "Faună: căprioare, mistreți, ciocănitori.", "Traseul didactic are 5 km.", "2.000 de vizitatori anual."],
       en: ["Area: 100 hectares.", "Protected since 1985.", "Elevation: 400–600 m.", "Wildlife: roe deer, wild boar, woodpeckers.", "Nature trail length: 5 km.", "Annual visitors: 2,000."],
     },
+    image: "/poi-images/sanmarino-bosco-di-monte-giardino-nature-v2.webp",
   },
   {
     id: "sanmarino-sorgente-acquaviva-nature-v2",
@@ -128,6 +131,7 @@ export const sanmarinoNatureV2: POI[] = [
       ro: ["Debit: 20 l/s.", "Temperatură: 12 °C.", "Folosită pentru apă potabilă.", "Situată în comuna Acquaviva.", "Alimentează pârâul Marano.", "Parte a unui proiect LIFE."],
       en: ["Flow rate: 20 L/s.", "Temperature: 12 °C.", "Used for drinking water.", "Located in Acquaviva.", "Feeds the Marano stream.", "Part of a LIFE project."],
     },
+    image: "/poi-images/sanmarino-sorgente-acquaviva-nature-v2.webp",
   },
   {
     id: "sanmarino-costone-roccioso-faetano-nature-v2",
@@ -160,6 +164,7 @@ export const sanmarinoNatureV2: POI[] = [
       ro: ["Înălțime: 80 m.", "Lungime: 300 m.", "Loc de cuibărit pentru șoimul călător.", "Zonă populară de cățărare.", "Macchia adăpostește plante rare.", "Protejat ca monument natural."],
       en: ["Height: 80 m.", "Length: 300 m.", "Nesting site for peregrine falcons.", "Popular climbing area.", "Macchia with rare plants.", "Protected as natural monument."],
     },
+    image: "/poi-images/sanmarino-costone-roccioso-faetano-nature-v2.webp",
   },
   {
     id: "sanmarino-valle-rio-san-marino-nature-v2",
@@ -192,6 +197,7 @@ export const sanmarinoNatureV2: POI[] = [
       ro: ["Lungimea văii: 10 km.", "Altitudine: 200–600 m.", "Vii și livezi pe versanți.", "Populară pentru drumeții.", "Mărginită de sate istorice.", "Rio San Marino, afluent al Ausa."],
       en: ["Valley length: 10 km.", "Elevation: 200–600 m.", "Terraced vineyards and orchards.", "Popular hiking area.", "Historic villages along the valley.", "Rio San Marino is a tributary of Ausa."],
     },
+    image: "/poi-images/sanmarino-valle-rio-san-marino-nature-v2.webp",
   },
   {
     id: "sanmarino-collina-di-chiesanuova-nature-v2",
@@ -224,6 +230,7 @@ export const sanmarinoNatureV2: POI[] = [
       ro: ["Altitudine: 450 m.", "Panoramă asupra San Marino.", "Ruinele unui castel medieval.", "Livezi de măslini și vii.", "Popular pentru drumeții.", "Peisaj deluros tipic."],
       en: ["Elevation: 450 m.", "Panoramic views of San Marino.", "Medieval castle ruins.", "Olive groves and vineyards.", "Popular for hiking.", "Typical hilly landscape."],
     },
+    image: "/poi-images/sanmarino-collina-di-chiesanuova-nature-v2.webp",
   },
   {
     id: "sanmarino-torrente-ausa-alta-nature-v2",
@@ -256,6 +263,7 @@ export const sanmarinoNatureV2: POI[] = [
       ro: ["Lungime: 8 km.", "Izvorăște din Monte Titano.", "Debit sezonier.", "Salamandra de foc în albie.", "Vegetație de mal: sălcii, arini.", "Parte a unui proiect LIFE."],
       en: ["Length: 8 km.", "Source: Monte Titano.", "Seasonal flow.", "Fire salamander habitat.", "Riparian willows and alders.", "Part of a LIFE project."],
     },
+    image: "/poi-images/sanmarino-torrente-ausa-alta-nature-v2.webp",
   },
   {
     id: "sanmarino-bosco-di-serravalle-nature-v2",
@@ -288,6 +296,7 @@ export const sanmarinoNatureV2: POI[] = [
       ro: ["Suprafață: 60 de hectare.", "Altitudine: 200–350 m.", "Desemnată zonă de recreere în 1990.", "Traseu circular de 3 km.", "4.000 de vizitatori anual.", "Habitat pentru veverițe."],
       en: ["Area: 60 hectares.", "Elevation: 200–350 m.", "Recreational area since 1990.", "3 km circular trail.", "Annual visitors: 4,000.", "Squirrel habitat."],
     },
+    image: "/poi-images/sanmarino-bosco-di-serravalle-nature-v2.webp",
   },
   {
     id: "sanmarino-crinale-fiorentino-nature-v2",
@@ -320,6 +329,7 @@ export const sanmarinoNatureV2: POI[] = [
       ro: ["Lungime: 5 km.", "Altitudine: 500–700 m.", "Amplasament de turbine eoliene.", "Habitat pentru plante rare.", "Important habitat pentru păsări.", "Popular printre parapantiști."],
       en: ["Length: 5 km.", "Elevation: 500–700 m.", "Wind turbine location.", "Rare plant habitat.", "Important bird habitat.", "Popular for paragliding."],
     },
+    image: "/poi-images/sanmarino-crinale-fiorentino-nature-v2.webp",
   },
   {
     id: "sanmarino-valle-di-borgo-maggiore-nature-v2",
@@ -352,6 +362,7 @@ export const sanmarinoNatureV2: POI[] = [
       ro: ["Lungimea văii: 12 km.", "Agricultură: vii și măslini.", "Sate istorice, inclusiv Borgo Maggiore.", "Pârâul Rio San Marino o traversează.", "Populară pentru ciclism.", "Terasse și ziduri de piatră uscată."],
       en: ["Valley length: 12 km.", "Agriculture: vineyards, olive groves.", "Historic villages including Borgo Maggiore.", "Rio San Marino flows through.", "Popular for cycling.", "Terraces and dry stone walls."],
     },
+    image: "/poi-images/sanmarino-valle-di-borgo-maggiore-nature-v2.webp",
   },
   {
     id: "sanmarino-sorgente-faetano-nature-v2",
@@ -384,6 +395,7 @@ export const sanmarinoNatureV2: POI[] = [
       ro: ["Debit: 15 l/s.", "Temperatură: 11 °C.", "Folosită pentru irigații.", "Înconjurat de pădure deasă.", "Habitat pentru amfibieni.", "Parte a unui proiect LIFE."],
       en: ["Flow rate: 15 L/s.", "Temperature: 11 °C.", "Used for irrigation.", "Surrounded by dense forest.", "Amphibian habitat.", "Part of a LIFE project."],
     },
+    image: "/poi-images/sanmarino-sorgente-faetano-nature-v2.webp",
   },
   {
     id: "sanmarino-collina-di-domagnano-nature-v2",
@@ -416,5 +428,6 @@ export const sanmarinoNatureV2: POI[] = [
       ro: ["Altitudine: 350 m.", "Săpături romane (vilă, terme).", "Vii pe versanți.", "Vedere spre Marea Adriatică.", "Destinație istorică populară.", "Săpături din secolul I d.Hr."],
       en: ["Elevation: 350 m.", "Roman excavations (villa, baths).", "Vineyards on slopes.", "View of the Adriatic.", "Popular historic site.", "Excavations from 1st century AD."],
     },
+    image: "/poi-images/sanmarino-collina-di-domagnano-nature-v2.webp",
   }
 ];

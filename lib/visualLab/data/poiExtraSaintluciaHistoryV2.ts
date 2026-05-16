@@ -31,6 +31,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Numit după amiralul britanic George Brydges Rodney.", "Situat la o altitudine de aproximativ 68 de metri deasupra nivelului mării.", "Amiralul Rodney a folosit postul în 1782, înainte de Bătălia de la Les Saintes.", "Fortul găzduiește și astăzi mai multe tunuri de fier originale.", "Construit strategic pe unul dintre cele două dealuri ale insulei Pigeon.", "Face parte dintr-o zonă declarată parc național în anul 1979."],
       en: ["Named after the British Admiral George Brydges Rodney.", "Situated at an elevation of approximately 68 meters above sea level.", "Admiral Rodney used the post in 1782 before the Battle of the Saintes.", "The fort still houses several original iron cannons today.", "Strategically built on one of the two peaks of Pigeon Island.", "Part of an area designated as a National Park in 1979."],
     },
+    image: "/poi-images/saintlucia-fort-rodney-history-v2.webp",
   },
   {
     id: "saintlucia-inniskilling-monument-history-v2",
@@ -62,6 +63,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Ridicată în memoria bătăliei din 24 mai 1796.", "Regimentul 27 provenea inițial din Irlanda.", "Locația Morne Fortune înseamnă 'Dealul Norocului'.", "Steagul britanic a fost arborat aici după victorie.", "Monumentul se află în apropierea Casei Guvernului.", "Face parte dintr-un complex istoric militar mai amplu."],
       en: ["Erected to commemorate the battle on May 24, 1796.", "The 27th Regiment was originally from Enniskillen, Ireland.", "Morne Fortune translates to 'Hill of Good Luck'.", "The British flag was hoisted here following the victory.", "The monument is located near the Government House.", "It is a key site within the Morne Fortune historic area."],
     },
+    image: "/poi-images/saintlucia-inniskilling-monument-history-v2.webp",
   },
   {
     id: "saintlucia-derek-walcott-square-history-v2",
@@ -93,6 +95,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Redenumită în 1993 după laureatul premiului Nobel.", "Găzduiește un arbore Samaan de aproximativ 400 de ani.", "Catedrala adiacentă a fost construită în 1897.", "Numele anterior a fost Piața Columb până în 1993.", "Servește ca spațiu pentru festivaluri culturale locale.", "O statuie a lui Derek Walcott este amplasată în parc."],
       en: ["Renamed in 1993 after the Nobel Prize-winning poet.", "Home to a Samaan tree estimated to be 400 years old.", "The adjacent Cathedral was completed in 1897.", "It was formerly called Columbus Square until the 1990s.", "The square serves as a focal point for public events.", "Features a bust of Derek Walcott within the park area."],
     },
+    image: "/poi-images/saintlucia-derek-walcott-square-history-v2.webp",
   },
   {
     id: "saintlucia-diamond-falls-baths-history-v2",
@@ -124,6 +127,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Fondate în 1784 prin decretul lui Ludovic al XVI-lea.", "Apa este bogată în magneziu și oxizi de fier.", "Cascada își schimbă culoarea datorită mineralelor.", "Băile au fost edificate pentru soldații francezi.", "Domeniul Soufrière datează din anul 1713.", "Face parte dintr-o concesiune originală de 2.000 de acri."],
       en: ["Established in 1784 by decree of Louis XVI.", "The waters are rich in magnesium and iron oxides.", "The waterfall changes color based on mineral content.", "Original baths were destroyed during the Revolution.", "The Soufrière Estate was granted to the Devaux family.", "It remains one of the oldest estates on Saint Lucia."],
     },
+    image: "/poi-images/saintlucia-diamond-falls-baths-history-v2.webp",
   },
   {
     id: "saintlucia-balenbouche-estate-history-v2",
@@ -155,6 +159,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Cuprinde o suprafață de aproximativ 70 de acri.", "Conacul istoric are o vechime de peste 180 de ani.", "Găzduiește o roată de apă mecanică bine conservată.", "Loc de descoperire pentru numeroase artefacte Arawak.", "A fost fondată în secolul XVIII de către francezi.", "Moara de zahăr utiliza energia hidraulică."],
       en: ["Spans approximately 70 acres of coastal land.", "The main plantation house is over 180 years old.", "Features a rare, intact 19th-century waterwheel.", "Site of significant pre-Columbian Arawak finds.", "Established as a sugar estate in the 18th century.", "The mill operated using gravity-fed water systems."],
     },
+    image: "/poi-images/saintlucia-balenbouche-estate-history-v2.webp",
   },
   {
     id: "saintlucia-morne-coubaril-estate-history-v2",
@@ -186,6 +191,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Fondată în 1713 ca parte a unei donații regale.", "Cea mai veche plantație lucrată continuu de pe insulă.", "Specializată în fermentarea cacauei și uscarea oprei.", "Include o replică a unui sat tradițional caraibian.", "Oferă vederi panoramice către munții Pitons.", "Familia Devaux a deținut proprietatea timp de secole."],
       en: ["Established in 1713 via a French royal land grant.", "It is the oldest continuously working plantation.", "Demonstrates traditional cocoa and copra production.", "Features a reconstructed authentic stick-and-braid village.", "Located directly overlooking the town of Soufrière.", "The estate house is a 19th-century colonial structure."],
     },
+    image: "/poi-images/saintlucia-morne-coubaril-estate-history-v2.webp",
   },
   {
     id: "saintlucia-la-toc-battery-history-v2",
@@ -217,6 +223,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Construcția a durat din 1888 până în circa 1892.", "Edificată pentru apărarea împotriva flotei franceze.", "Dispune de tuneluri și buncăre subterane adânci.", "Parte a unei rețele de apărare din jurul portului.", "Tunurile puteau trage proiectile la distanțe mari.", "Astăzi este accesibilă ca monument istoric."],
       en: ["Construction occurred between 1888 and 1892.", "Designed to protect the harbor from naval attacks.", "Contains deep underground shell and powder rooms.", "Armed with two 6-inch and two 10-inch RML guns.", "Part of the extensive Morne Fortune defense system.", "Restored and preserved as a private historical site."],
     },
+    image: "/poi-images/saintlucia-la-toc-battery-history-v2.webp",
   },
   {
     id: "saintlucia-vigie-lighthouse-history-v2",
@@ -248,6 +255,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Anul construcției farului este 1883.", "Se află la 154 de metri deasupra nivelului mării.", "Lumina sa este vizibilă de la 22 de mile marine.", "Construit în timpul administrației britanice.", "Marchează promontoriul nordic al portului Castries.", "Funcționează și astăzi ca ajutor de navigație activ."],
       en: ["The current lighthouse was completed in 1883.", "Perched at an elevation of 154 meters (505 feet).", "Its light range is approximately 22 nautical miles.", "The structure is a white cylindrical masonry tower.", "Located near the George F.L. Charles Airport.", "Automated in later years but still operational."],
     },
+    image: "/poi-images/saintlucia-vigie-lighthouse-history-v2.webp",
   },
   {
     id: "saintlucia-vigie-military-cemetery-history-v2",
@@ -279,6 +287,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Conține morminte din a doua jumătate a sec. XVIII.", "Mulți soldați au murit de boli tropicale (febră galbenă).", "Utilizat în principal de garnizoana de pe Vigie.", "Situat pe partea de nord a peninsulei Vigie.", "Unele pietre funerare sunt erodate de trecerea timpului.", "Inclus în patrimoniul istoric național al insulei."],
       en: ["Houses graves dating back to the late 1700s.", "Yellow fever was the primary cause of death for many.", "Served the military barracks located on Vigie Hill.", "Includes burials of high-ranking colonial officers.", "Located near the shore at the tip of the peninsula.", "Managed by the Saint Lucia National Trust."],
     },
+    image: "/poi-images/saintlucia-vigie-military-cemetery-history-v2.webp",
   },
   {
     id: "saintlucia-soufriere-old-courthouse-history-v2",
@@ -310,6 +319,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Construită în stil colonial francez autentic.", "A servit ca sediu pentru tribunale și administrație.", "Situată în centrul istoric al orașului Soufrière.", "Reconstruită după incendiile din secolul XIX.", "Prezintă detalii sculptate în lemn specifice epocii.", "Astăzi este un reper arhitectural protejat."],
       en: ["Constructed primarily in the 19th century.", "Located near the waterfront in central Soufrière.", "Reflects the French heritage of the town's design.", "Survived several major fires and hurricanes.", "Features classic Caribbean fretwork and shutters.", "A key stop on historical tours of the south coast."],
     },
+    image: "/poi-images/saintlucia-soufriere-old-courthouse-history-v2.webp",
   },
   {
     id: "saintlucia-fond-doux-plantation-history-v2",
@@ -341,6 +351,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Plantația funcționează de aproximativ 250 de ani.", "Acoperă o suprafață totală de 135 de acri.", "Situată în zona tampon a patrimoniului UNESCO.", "Cunoscută pentru tehnica tradițională 'dansul cacauei'.", "Găzduiește specii de plante endemice rare.", "Conacul este o structură originală din epoca sa."],
       en: ["The estate has been operating for over 250 years.", "Spans a total area of 135 acres of fertile land.", "Located within the Pitons World Heritage buffer zone.", "Uses the 'cocoa dancing' technique for polishing beans.", "Home to a working chocolate processing facility.", "The main house is a classic French colonial design."],
     },
+    image: "/poi-images/saintlucia-fond-doux-plantation-history-v2.webp",
   },
   {
     id: "saintlucia-anse-la-raye-village-history-v2",
@@ -372,6 +383,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Numele se traduce prin 'Golful Pisicilor de Mare'.", "Biserica catolică actuală a fost construită în 1907.", "Renumit pentru evenimentul săptămânal 'Fish Fry'.", "Păstrează multe case cu detalii din lemn traforat.", "Pirogile tradiționale sunt încă folosite la pescuit.", "Satul este amplasat într-o vale îngustă de coastă."],
       en: ["The name translates to 'Bay of Rays'.", "The village church was completed in 1907.", "Famous for the Friday night Seafood Fish Fry.", "Known for its 'gingerbread' style wooden architecture.", "Local fishermen still use traditional dugout pirogues.", "Located on the western leeward coast of the island."],
     },
+    image: "/poi-images/saintlucia-anse-la-raye-village-history-v2.webp",
   },
   {
     id: "saintlucia-cape-moule-a-chique-lighthouse-history-v2",
@@ -403,6 +415,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Farul a fost finalizat în anul 1912.", "Situat la o altitudine de 222 de metri.", "Considerat al doilea cel mai înalt far ca poziție din lume.", "Reprezintă cel mai sudic punct al insulei.", "Oferă vederi spre insula St. Vincent în zilele senine.", "Punct de reper major pentru aviația de la Hewanorra."],
       en: ["Completed and commissioned in 1912.", "Stands 222 meters (730 feet) above the sea.", "Often cited as the second highest lighthouse in the world.", "Located at the extreme southern tip of Saint Lucia.", "Provides a 360-degree view of the Atlantic and Caribbean.", "Crucial landmark for ships approaching Vieux Fort."],
     },
+    image: "/poi-images/saintlucia-cape-moule-a-chique-lighthouse-history-v2.webp",
   },
   {
     id: "saintlucia-maria-islands-archaeology-history-v2",
@@ -434,6 +447,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Formate din două insule: Maria Major și Minor.", "Adăpostesc cel mai rar șarpe din lume (Saint Lucia Racer).", "Descoperiri arheologice atestă prezența amerindiană.", "Accesul este permis doar în sezonul uscat, cu ghid.", "Declarate rezervație naturală în anul 1982.", "Loc important de cuibărit pentru păsările marine."],
       en: ["Consists of two islets: Maria Major and Maria Minor.", "Home to the Saint Lucia Racer, the world's rarest snake.", "Evidence of Arawak and Carib presence was found here.", "Designated as a Nature Reserve in 1982.", "Managed by the Saint Lucia National Trust.", "Access is strictly regulated to protect fragile ecosystems."],
     },
+    image: "/poi-images/saintlucia-maria-islands-archaeology-history-v2.webp",
   },
   {
     id: "saintlucia-beane-field-wwii-history-v2",
@@ -465,6 +479,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Fondată în 1941 ca bază aeriană a SUA.", "Parte a acordului istoric 'Destroyers for Bases'.", "A servit la protejarea rutelor spre Canalul Panama.", "Dispunea de piste extinse capabile să primească bombardiere.", "A fost returnată administrației locale în 1949.", "Locația actuală a Aeroportului Internațional Hewanorra."],
       en: ["Established in 1941 as a USAAF airbase.", "Acquired by the US under the Lend-Lease Act.", "Key strategic point for anti-submarine patrols.", "The base was named after James Dudley Beane.", "Turned over to Saint Lucian control in 1949.", "The original runways form the core of the modern airport."],
     },
+    image: "/poi-images/saintlucia-beane-field-wwii-history-v2.webp",
   },
   {
     id: "saintlucia-marquis-estate-history-v2",
@@ -496,6 +511,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Fondată la începutul secolului XVIII (cca. 1723).", "A fost cea mai extinsă plantație de pe insulă.", "Râul Marquis era utilizat pentru transportul mărfii.", "A produs zahăr de înaltă calitate timp de decenii.", "Găzduiește ruinele unei mori de apă istorice.", "Situată în apropierea districtului Babonneau."],
       en: ["Established as a French land grant around 1723.", "At its peak, it was the largest estate on the island.", "The Marquis River provided essential irrigation.", "Transitioned from sugar to banana production in the 1950s.", "Ruins of the sugar mill and estate house remain.", "Historically connected to the Marquis shipping bay."],
     },
+    image: "/poi-images/saintlucia-marquis-estate-history-v2.webp",
   },
   {
     id: "saintlucia-rat-island-quarantine-history-v2",
@@ -527,6 +543,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Construcția primelor clădiri de carantină în secolul al XIX-lea", "Utilizare pentru combaterea epidemiilor de variolă și febră galbenă", "Locație strategică lângă portul Castries", "Dezafectarea stației medicale în jurul anului 1900", "Utilizare ulterioară ca loc de recreere pentru oficiali", "Rămășițele zidurilor de piatră și ale fundațiilor sunt vizibile"],
       en: ["Construction of the first quarantine buildings in the 1800s", "Used to combat smallpox and yellow fever outbreaks", "Strategic location near the Castries Harbour entrance", "Decommissioning of the medical station around 1900", "Later served as a recreational site for colonial officers", "Remnants of stone walls and foundations remain visible"],
     },
+    image: "/poi-images/saintlucia-rat-island-quarantine-history-v2.webp",
   },
   {
     id: "saintlucia-choiseul-petroglyphs-history-v2",
@@ -558,6 +575,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Origine în era precolumbiană, înainte de 1500 d.Hr.", "Gravate în roci vulcanice masive", "Reprezentarea unor fețe umane stilizate", "Se află în districtul Choiseul din sud-vest", "Parte a moștenirii culturale a amerindienilor din Sfânta Lucia", "Investigațiile arheologice le datează de câteva secole"],
       en: ["Origin dates to the Pre-Columbian era before 1500 AD", "Etched into massive volcanic boulders", "Depict stylized human faces and symbols", "Located in the Choiseul district in the southwest", "Part of the Amerindian cultural heritage of St. Lucia", "Archaeological studies date them back several centuries"],
     },
+    image: "/poi-images/saintlucia-choiseul-petroglyphs-history-v2.webp",
   },
   {
     id: "saintlucia-laborie-parish-church-history-v2",
@@ -589,6 +607,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Finalizarea clădirii actuale în anul 1914", "Construită din piatră extrasă local", "Prima structură bisericească pe acest loc datează din secolul XVIII", "Găzduiește un altar sculptat elaborat din anul 1900", "Satul Laborie a fost numit după un guvernator francez", "Biserica a supraviețuit mai multor uragane majore"],
       en: ["Completion of the current stone building in 1914", "Constructed using locally quarried stone", "Site of the original 18th-century French parish church", "Features an ornate hand-carved altar from 1900", "The village of Laborie is named after a French governor", "The church has survived several major hurricanes"],
     },
+    image: "/poi-images/saintlucia-laborie-parish-church-history-v2.webp",
   },
   {
     id: "saintlucia-pigeon-island-officers-quarters-history-v2",
@@ -620,6 +639,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Ocuparea insulei de către britanici în anul 1778", "Construcția cartierelor ofițerilor la sfârșitul secolului XVIII", "Utilizarea pietrei locale și a mortarului de var", "Parte a complexului defensiv Fort Rodney", "Punct de observație asupra canalului către Martinica", "Declarat monument național în anul 1972"],
       en: ["British occupation of the island began in 1778", "Construction of the quarters dates to the late 18th century", "Built using local volcanic stone and lime mortar", "Served as part of the Fort Rodney defensive complex", "Strategic viewpoint overlooking the Martinique channel", "Designated as a National Landmark in 1972"],
     },
+    image: "/poi-images/saintlucia-pigeon-island-officers-quarters-history-v2.webp",
   },
   {
     id: "saintlucia-pigeon-island-powder-magazine-history-v2",
@@ -651,6 +671,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Construit la sfârșitul secolului XVIII de armata britanică", "Construcție ignifugă cu boltă semicilindrică", "Capacitate de stocare pentru sute de butoaie de pulbere", "Amplasare strategică în cadrul complexului Fort Rodney", "Restaurat de Saint Lucia National Trust", "Inclus pe lista indicativă UNESCO a Sfintei Lucia"],
       en: ["Constructed in the late 18th century by British forces", "Features a fireproof stone barrel-vault design", "Storage capacity for hundreds of barrels of gunpowder", "Strategically located within the Fort Rodney complex", "Restored and maintained by the Saint Lucia National Trust", "Part of the island's UNESCO tentative world heritage list"],
     },
+    image: "/poi-images/saintlucia-pigeon-island-powder-magazine-history-v2.webp",
   },
   {
     id: "saintlucia-marigot-bay-rodney-history-v2",
@@ -682,6 +703,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Legat de Bătălia de la Les Saintes din anul 1782", "Utilizarea palmierilor de cocos pentru camuflarea catargelor", "Golful este unul dintre cele mai adânci porturi naturale din Caraibe", "Avantaj strategic datorită intrării înguste a golfului", "Flota britanică a scăpat cu succes de urmărirea franceză", "Loc de filmare pentru filmul 'Dr. Dolittle' în 1967"],
       en: ["Associated with the 1782 Battle of the Saints era", "Usage of coconut palms to camouflage naval masts", "The bay is one of the deepest natural harbours in the Caribbean", "Strategic advantage due to the bay's narrow hidden entrance", "British fleet successfully evaded French pursuit here", "Filming location for the 1967 movie 'Dr. Dolittle'"],
     },
+    image: "/poi-images/saintlucia-marigot-bay-rodney-history-v2.webp",
   },
   {
     id: "saintlucia-morne-fortune-powder-magazine-history-v2",
@@ -713,6 +735,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Construcția fortificațiilor în secolul al XVIII-lea", "Situat la aproximativ 260 de metri deasupra nivelului mării", "Utilizarea bolților masive din cărămidă pentru siguranță", "Centrul a numeroase bătălii între 1762 și 1803", "Găzduiește astăzi Sir Arthur Lewis Community College", "Exemplu bine conservat de arhitectură militară colonială"],
       en: ["Fortifications constructed during the 18th century", "Located at approximately 850 feet above sea level", "Features massive brick vaulting for blast safety", "Site of numerous battles between 1762 and 1803", "Now part of the Sir Arthur Lewis Community College grounds", "Well-preserved example of colonial military engineering"],
     },
+    image: "/poi-images/saintlucia-morne-fortune-powder-magazine-history-v2.webp",
   },
   {
     id: "saintlucia-apostles-battery-history-v2",
@@ -744,6 +767,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Construcția bateriei modernizate între 1888 și 1890", "Echipată cu 12 tunuri grele de coastă", "Protecția strategică a intrării în portul Castries", "Utilizarea betonului modern și a armăturilor de oțel", "Ultima extindere majoră a apărării de pe Morne Fortune", "Parte a strategiei victoriene de apărare a coastelor"],
       en: ["Modernized battery constructed between 1888 and 1890", "Equipped with 12 heavy coastal defense guns", "Strategic protection for the entrance to Castries Harbour", "Utilized modern concrete and steel reinforcements", "Last major expansion of the Morne Fortune defenses", "Part of the late Victorian coastal defense network"],
     },
+    image: "/poi-images/saintlucia-apostles-battery-history-v2.webp",
   },
   {
     id: "saintlucia-gros-islet-old-town-history-v2",
@@ -775,6 +799,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Fondarea parohiei Gros Islet în anul 1749", "Numit după 'marea insulă' Pigeon Island de vizavi", "Odată un port principal pentru navigația franceză", "Centrul credinței catolice în nordul insulei", "Conservarea a numeroase clădiri din secolul al XIX-lea", "Gazda faimoasei Friday Night Street Party de zeci de ani"],
       en: ["Establishment of the Gros Islet parish in 1749", "Named after the 'large islet' of Pigeon Island nearby", "Once a primary port for French maritime activities", "Center of Roman Catholic faith in the northern region", "Preservation of several 19th-century wooden structures", "Home to the famous Friday Night Street Party tradition"],
     },
+    image: "/poi-images/saintlucia-gros-islet-old-town-history-v2.webp",
   },
   {
     id: "saintlucia-vieux-fort-old-town-history-v2",
@@ -806,6 +831,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Construcția primului fort francez la sfârșitul secolului XVII", "Centrul producției de zahăr în secolele XVIII și XIX", "Al doilea oraș ca mărime de pe insula Sfânta Lucia", "Locul primei fabrici de zahăr de pe insulă în 1765", "Proximitatea de aeroportul Hewanorra, fostă bază SUA", "Piață istorică cu resturi de clădiri coloniale"],
       en: ["Construction of the first French fort in the late 1600s", "Center of the sugar export industry in the 1700s and 1800s", "Second-largest town on the island of St. Lucia", "Site of the island's first sugar factory in 1765", "Located near the former WWII United States airbase", "Features a historic town square with colonial remnants"],
     },
+    image: "/poi-images/saintlucia-vieux-fort-old-town-history-v2.webp",
   },
   {
     id: "saintlucia-marquis-river-archaeology-history-v2",
@@ -837,6 +863,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Descoperirea a numeroase fragmente de ceramică din cultura Arawak", "Urmele de așezări datează de câteva secole înainte de 1500", "Locație în Marquis Estate, un fost domeniu de plantație", "Importanța estuarului ca sursă de apă potabilă", "Descoperirea deșeurilor de scoici (middens) ale băștinașilor", "Investigații arheologice în anii 1950 și 1960"],
       en: ["Discovery of numerous Arawak culture pottery shards", "Settlement traces date back several centuries before 1500 AD", "Located within the historic Marquis Estate area", "The river estuary served as a vital fresh water source", "Evidence of indigenous shell middens found at the site", "Archaeological surveys conducted in the 1950s and 60s"],
     },
+    image: "/poi-images/saintlucia-marquis-river-archaeology-history-v2.webp",
   },
   {
     id: "saintlucia-victorian-library-castries-history-v2",
@@ -868,6 +895,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Deschiderea oficială la 1 decembrie 1916", "Finanțată de filantropul Andrew Carnegie", "Una dintre puținele clădiri care au supraviețuit incendiului din 1948", "Acoperiș roșu distinctiv și fațadă albă din lemn", "Găzduiește arhivele naționale și hărți istorice", "Situată central în Piața Derek Walcott"],
       en: ["Official opening held on December 1, 1916", "Funding provided by philanthropist Andrew Carnegie", "One of the few structures to survive the Great Fire of 1948", "Features a distinctive red roof and Victorian woodwork", "Repository for national archives and rare historical maps", "Centrally located on the historic Derek Walcott Square"],
     },
+    image: "/poi-images/saintlucia-victorian-library-castries-history-v2.webp",
   },
   {
     id: "saintlucia-mamiku-gardens-estate-history-v2",
@@ -899,6 +927,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Fondarea domeniului în anul 1766", "Numit după 'Ma Micoud', soția baronului", "Locul unei bătălii semnificative în anul 1796", "Rămășițele conacului original sunt încă vizibile", "Odată una dintre cele mai mari plantații de zahăr și cacao", "Situat la gura de vărsare a râului Praslin"],
       en: ["Establishment of the estate in 1766", "Named after 'Ma Micoud', the wife of Baron de Micoud", "Site of a significant military engagement in 1796", "Remnants of the original Great House are still visible", "Formerly one of the largest sugar and cocoa plantations", "Located at the mouth of the Praslin River valley"],
     },
+    image: "/poi-images/saintlucia-mamiku-gardens-estate-history-v2.webp",
   },
   {
     id: "saintlucia-dennery-old-village-history-v2",
@@ -930,6 +959,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Redenumirea localității în Dennery în anul 1768", "Distrugeri majore cauzate de Marele Uragan din 1780", "Odată port principal de export pentru zahărul din Mabouya Valley", "Centru important pentru pescuitul artizanal", "Punct tradițional de plecare pentru observarea balenelor pe coasta de est", "Biserica catolică Sfântul Petru a fost construită în 1850"],
       en: ["Village renamed to Dennery in 1768 after Count d'Ennery", "Suffered massive destruction during the Great Hurricane of 1780", "Once a key shipping port for sugar from the Mabouya Valley", "Significant center for artisanal and deep-sea fishing", "Traditional base for whale watching on the island's east coast", "The Catholic Church of St. Peter was established in 1850"],
     },
+    image: "/poi-images/saintlucia-dennery-old-village-history-v2.webp",
   },
   {
     id: "saintlucia-roseau-sugar-mill-ruins-history-v2",
@@ -961,6 +991,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Construcția fabricii în secolul al XIX-lea", "Introducerea motoarelor cu aburi moderne pentru procesarea zahărului", "Încetarea operațiunilor în anii 1950", "Coș de fum distinctiv din cărămidă și beton", "Centrul unei rețele feroviare extinse pentru transport", "Situată în apropierea faimoasei distilerii St. Lucia din prezent"],
       en: ["Establishment of the factory in the mid-19th century", "Introduced advanced steam-powered sugar processing", "Decline and closure of operations in the 1950s", "Features a prominent brick and concrete chimney stack", "Was the hub of an extensive narrow-gauge railway system", "Located near the site of the modern-day St. Lucia Distillers"],
     },
+    image: "/poi-images/saintlucia-roseau-sugar-mill-ruins-history-v2.webp",
   },
   {
     id: "saintlucia-micoud-parish-church-history-v2",
@@ -992,6 +1023,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Clădirea de piatră a fost finalizată în 1843", "Situată în centrul satului Micoud", "Dedicată Sfintei Lucia", "A înlocuit o biserică de lemn din 1830", "A supraviețuit uraganului Allen în 1980", "Stil arhitectural gotic colonial"],
       en: ["Stone structure completed around 1843", "Located in the center of Micoud village", "Dedicated to Saint Lucy", "Replaced an 1830 wooden church", "Survived Hurricane Allen in 1980", "Colonial Gothic architectural style"],
     },
+    image: "/poi-images/saintlucia-micoud-parish-church-history-v2.webp",
   },
   {
     id: "saintlucia-praslin-island-pirate-history-v2",
@@ -1023,6 +1055,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Bază frecventă a piraților în secolul XVIII", "Parte a ariei protejate Praslin", "Fost sit pentru producția de sare", "Loc de cuibărit pentru specii rare de păsări", "Vedere spre Oceanul Atlantic (coasta de est)", "Fără populație permanentă în prezent"],
       en: ["Frequent pirate base in the 18th century", "Part of the Praslin protected area", "Former site for salt production", "Nesting site for rare bird species", "Overlooks the Atlantic Ocean (East Coast)", "No permanent human settlement today"],
     },
+    image: "/poi-images/saintlucia-praslin-island-pirate-history-v2.webp",
   },
   {
     id: "saintlucia-savannes-bay-arawak-history-v2",
@@ -1054,6 +1087,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Resturi de așezări precolumbiene descoperite", "Artefacte ceramice datând din 200 d.Hr.", "Ecosistemul de mangrove protejează coasta", "Populația Arawak trăia din pescuit", "Situat la sud de Micoud", "Studii arheologice realizate în anii 1960"],
       en: ["Pre-Columbian settlement remains found", "Ceramic finds date back to 200 AD", "Mangrove ecosystem protects the coast", "Arawak population relied on fishing", "Located south of Micoud", "Archaeological studies conducted in 1960s"],
     },
+    image: "/poi-images/saintlucia-savannes-bay-arawak-history-v2.webp",
   },
   {
     id: "saintlucia-paix-bouche-colonial-history-v2",
@@ -1085,6 +1119,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Peste 300 de metri deasupra mării", "Post strategic în secolul al XVIII-lea", "Vedere spre râul Marquis", "Parte a districtului Babonneau", "Ruine istorice ale fortificațiilor", "Punct important în rezistența sclavilor"],
       en: ["Over 300 meters above sea level", "Strategic post in the 18th century", "Overlooks the Marquis River", "Part of the Babonneau district", "Historic ruins of fortifications", "Important site in slave resistance"],
     },
+    image: "/poi-images/saintlucia-paix-bouche-colonial-history-v2.webp",
   },
   {
     id: "saintlucia-troumassee-estate-ruins-history-v2",
@@ -1116,6 +1151,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Fondat în jurul anului 1760", "Centru al producției locale de zahăr", "Situat lângă râul Troumassee", "Ruine ale unei mașini cu abur prezente", "Utilizarea forței de muncă sclave în trecut", "Astăzi utilizat parțial în agricultură"],
       en: ["Founded around 1760", "Center of local sugar production", "Located near the Troumassee River", "Ruins of a steam engine present", "Historical use of enslaved labor", "Currently used for farming in parts"],
     },
+    image: "/poi-images/saintlucia-troumassee-estate-ruins-history-v2.webp",
   },
   {
     id: "saintlucia-tapion-point-battery-history-v2",
@@ -1147,6 +1183,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Construcție la sfârșitul secolului XVIII", "Proteja portul strategic", "Tunuri de fabricație britanică", "Vedere spre farul din Vigie", "Parte a lanțului de apărare costieră", "Astăzi locația unui spital"],
       en: ["Built in the late 18th century", "Protected the strategic harbor", "British-made cannons used", "Overlooks the Vigie lighthouse", "Part of the coastal defense chain", "Currently near the site of a hospital"],
     },
+    image: "/poi-images/saintlucia-tapion-point-battery-history-v2.webp",
   },
   {
     id: "saintlucia-choc-bay-battlefield-history-v2",
@@ -1178,6 +1215,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Bătălia de la Vigie (1778) a avut loc aici", "Invazie britanică sub generalul Grant", "Zonă de debarcare strategică la nord de Castries", "Linia țărmului s-a schimbat istoric", "Monument pentru cei căzuți în apropiere", "Parte a conflictului pentru controlul insulelor"],
       en: ["Battle of Vigie (1778) occurred here", "British invasion under General Grant", "Strategic landing zone north of Castries", "Coastline has shifted historically", "Memorial to the fallen located nearby", "Key site in the Anglo-French island rivalry"],
     },
+    image: "/poi-images/saintlucia-choc-bay-battlefield-history-v2.webp",
   },
   {
     id: "saintlucia-cul-de-sac-valley-sugar-history-v2",
@@ -1209,6 +1247,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Cultivarea trestiei a început în 1720", "Locația terminalelor de banane Geest astăzi", "Cea mai mare vale agricolă de pe insulă", "Fabrica centrală s-a închis în 1953", "Fostă linie ferată pentru transport", "Scena a numeroase revolte ale sclavilor"],
       en: ["Sugar cane cultivation began around 1720", "Current site of Geest banana terminals", "Largest agricultural valley on the island", "Central factory closed in 1953", "Former railway line used for transport", "Site of numerous historical slave revolts"],
     },
+    image: "/poi-images/saintlucia-cul-de-sac-valley-sugar-history-v2.webp",
   },
   {
     id: "saintlucia-pigeon-island-soldiers-barracks-history-v2",
@@ -1240,6 +1279,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Construit între 1808 și 1824", "Găzduia Regimentul 35", "Acoperișurile erau inițial din ardezie", "Parte a Parcului Național Pigeon Island", "Ruine stabilizate după uraganul din 1817", "Vedere spre Golful Rodney"],
       en: ["Built between 1808 and 1824", "Housed the 35th Regiment", "Roofs were originally slated", "Part of the Pigeon Island National Park", "Ruins stabilized after the 1817 hurricane", "Overlooks the scenic Rodney Bay"],
     },
+    image: "/poi-images/saintlucia-pigeon-island-soldiers-barracks-history-v2.webp",
   },
   {
     id: "saintlucia-pigeon-island-musket-redoubt-history-v2",
@@ -1271,6 +1311,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Poziție strategică pe versant", "Ambrazuri pentru muschete cu încărcare frontală", "Responsabilă pentru apărarea de proximitate", "Parte a fortificațiilor britanice", "Resturi de ziduri istorice conservate", "Asigura accesul spre vârful dealului"],
       en: ["Strategic position on the hillside", "Loopholes designed for muzzle-loaders", "Responsible for close-range defense", "Part of the British fortification network", "Historical wall fragments still visible", "Secured the path to the hill summit"],
     },
+    image: "/poi-images/saintlucia-pigeon-island-musket-redoubt-history-v2.webp",
   },
   {
     id: "saintlucia-st-joseph-worker-church-history-v2",
@@ -1302,6 +1343,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Biserica actuală de piatră construită în 1850", "Dedicată patronului muncitorilor", "Situată în centrul localității Gros Islet", "Cunoscută pentru procesiunea de Vinerea Mare", "A înlocuit o capelă din 1749", "Renovată după daunele furtunii din 1966"],
       en: ["Current stone church built in 1850", "Dedicated to the patron saint of workers", "Located in the heart of Gros Islet", "Famous for Good Friday processions", "Replaced a chapel from 1749", "Renovated after storm damage in 1966"],
     },
+    image: "/poi-images/saintlucia-st-joseph-worker-church-history-v2.webp",
   },
   {
     id: "saintlucia-morne-le-blanc-lookout-history-v2",
@@ -1333,6 +1375,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Vedere panoramică asupra golfului Laborie", "Fost post de semnalizare al miliției", "Vedere spre munții Piton la nord", "Loc important pentru festivaluri culturale", "Traseu de drumeție către vârf", "Altitudine de aproximativ 250 metri"],
       en: ["Overlooks the Bay of Laborie", "Historical militia signaling post", "View of the Pitons to the north", "Key site for local cultural festivals", "Hiking trail leads to the summit", "Elevation of approximately 250 meters"],
     },
+    image: "/poi-images/saintlucia-morne-le-blanc-lookout-history-v2.webp",
   },
   {
     id: "saintlucia-marquis-estate-sugar-mill-history-v2",
@@ -1364,6 +1407,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Fondată în secolul al XVIII-lea", "Folosea o roată mare de apă", "Cea mai mare proprietate din Valea Marquis", "Producea zahăr și rom", "Ruine ale complexului fabricii conservate", "Fosta proprietate a coloniștilor francezi"],
       en: ["Founded in the 18th century", "Utilized a large water wheel", "Largest estate in the Marquis Valley", "Produced both sugar and rum", "Ruins of the factory complex still stand", "Formerly owned by French settlers"],
     },
+    image: "/poi-images/saintlucia-marquis-estate-sugar-mill-history-v2.webp",
   },
   {
     id: "saintlucia-provost-redoubt-history-v2",
@@ -1395,6 +1439,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Construită de trupele britanice", "Securiza înălțimile Vigie", "Parte a luptelor din 1778", "Ziduri masive de piatră conservate", "Vedere spre aeroportul Vigie astăzi", "Punct strategic în portul Castries"],
       en: ["Built by British forces", "Secured the Vigie heights", "Involved in the 1778 conflicts", "Massive stone walls still intact", "Overlooks Vigie Airport today", "Strategic point for Castries Harbor"],
     },
+    image: "/poi-images/saintlucia-provost-redoubt-history-v2.webp",
   },
   {
     id: "saintlucia-rabot-estate-history-v2",
@@ -1426,6 +1471,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Fondat în anul 1745", "Cea mai veche fermă de cacao de pe insulă", "Situat la poalele munților Piton", "Solul vulcanic favorizează aroma", "Fostă parte a unui feud francez", "Centru actual pentru cacao 'Tree-to-Bar'"],
       en: ["Established in 1745", "Oldest cocoa farm on the island", "Located in the shadow of the Pitons", "Volcanic soil enhances flavor", "Formerly part of a French land grant", "Now a center for 'Tree-to-Bar' cocoa"],
     },
+    image: "/poi-images/saintlucia-rabot-estate-history-v2.webp",
   },
   {
     id: "saintlucia-canaries-sugar-mill-history-v2",
@@ -1457,6 +1503,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Construită în secolul al XVIII-lea în perioada colonială", "Situată în imediata apropiere a râului Canaries", "Produsul principal era zahărul brut pentru export în Europa", "Ruinele sunt formate în principal din rocă vulcanică locală", "Face parte dintr-o fostă rețea de peste 80 de mori de pe insulă", "Încetarea operațiunilor la mijlocul secolului al XIX-lea"],
       en: ["Built in the 18th century during the colonial period", "Located in close proximity to the Canaries River", "Primary product was raw sugar for export to Europe", "The ruins consist primarily of local volcanic stone", "Part of a former network of over 80 mills on the island", "Operations ceased in the mid-19th century"],
     },
+    image: "/poi-images/saintlucia-canaries-sugar-mill-history-v2.webp",
   },
   {
     id: "saintlucia-union-agricultural-station-history-v2",
@@ -1488,6 +1535,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Fondarea stației în anul 1914", "Concentrare pe cercetarea plantelor de cacao și citrice", "Găzduiește una dintre cele mai vechi grădini botanice de pe insulă", "Sediul departamentului de silvicultură din Saint Lucia", "Dispune de trasee de drumeție prin pădure tropicală secundară", "Introducerea soiului de banane 'Gros Michel' în anii 1920"],
       en: ["Foundation of the station in 1914", "Focus on cocoa and citrus crop research", "Houses one of the island's oldest botanical gardens", "Headquarters of Saint Lucia's Forestry Department", "Features hiking trails through secondary rainforest", "Introduction of the 'Gros Michel' banana variety in the 1920s"],
     },
+    image: "/poi-images/saintlucia-union-agricultural-station-history-v2.webp",
   },
   {
     id: "saintlucia-royal-military-cemetery-morne-fortune-history-v2",
@@ -1519,6 +1567,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Conține morminte din anii 1796 până în 1905", "Locul de odihnă pentru mulți membri ai Royal West India Regiment", "Situat la o altitudine de aproximativ 250 de metri", "Monument pentru victimele febrei galbene din secolul al XIX-lea", "Administrat de Saint Lucia National Trust", "În apropiere se află fostele depozite de pulbere"],
       en: ["Contains graves dating from 1796 to 1905", "Resting place for members of the Royal West India Regiment", "Located at an elevation of approximately 250 meters", "Memorial for victims of yellow fever in the 19th century", "Managed by the Saint Lucia National Trust", "Proximity to the former powder magazines"],
     },
+    image: "/poi-images/saintlucia-royal-military-cemetery-morne-fortune-history-v2.webp",
   },
   {
     id: "saintlucia-pigeon-island-causeway-history-v2",
@@ -1550,6 +1599,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Anul construcției digului a fost 1972", "Lungimea conexiunii este de aproximativ 1,2 kilometri", "Materialul utilizat provine din dragarea portului de iahturi", "A permis desemnarea insulei Pigeon ca parc național", "A cauzat eroziune pe plajele din Golful Rodney", "Este utilizat astăzi de drumul principal către Gros Islet"],
       en: ["Construction of the causeway was completed in 1972", "The length of the connection is about 1.2 kilometers", "Material used came from dredging the yacht marina", "Enabled Pigeon Island to be designated a National Park", "Caused erosion on the beaches of Rodney Bay", "Currently used by the main road leading to Gros Islet"],
     },
+    image: "/poi-images/saintlucia-pigeon-island-causeway-history-v2.webp",
   },
   {
     id: "saintlucia-ferrands-estate-history-v2",
@@ -1581,6 +1631,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Fondată în jurul anului 1760 ca plantație de trestie de zahăr", "Deține resturile unui vechi apeduct pentru alimentarea cu apă", "Trecerea la producția de nucă de cocos și cacao în jurul anului 1900", "Situată în valea fertilă Cul de Sac lângă Castries", "A fost deținută de familii proeminente de coloniști francezi", "Găzduiește un conac istoric din perioada colonială"],
       en: ["Founded around 1760 as a sugar cane plantation", "Contains remains of an old aqueduct for water supply", "Shifted to coconut and cocoa production around 1900", "Located in the fertile Cul de Sac Valley near Castries", "Once owned by prominent French settler families", "Houses a historic manor house from the colonial era"],
     },
+    image: "/poi-images/saintlucia-ferrands-estate-history-v2.webp",
   },
   {
     id: "saintlucia-pigeon-island-lazaretto-history-v2",
@@ -1612,6 +1663,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Deschiderea lazaretului în anul 1845", "A servit în principal pentru izolarea bolnavilor de lepră", "Încetarea operațiunilor medicale în anul 1905", "Situat pe malul sudic al insulei Pigeon", "Construcția a fost realizată din cărămidă și mortar de var", "Parte a actualului Pigeon Island National Landmark"],
       en: ["Opening of the Lazaretto in 1845", "Served primarily for the isolation of leprosy patients", "Medical operations ceased in 1905", "Located on the southern shore of Pigeon Island", "Constructed using bricks and lime mortar", "Part of the current Pigeon Island National Landmark"],
     },
+    image: "/poi-images/saintlucia-pigeon-island-lazaretto-history-v2.webp",
   },
   {
     id: "saintlucia-vieux-fort-sugar-factory-history-v2",
@@ -1643,6 +1695,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Punerea în funcțiune a fabricii centrale moderne în 1883", "Dispunea de propria cale ferată pentru transport", "Exporta zahăr prin portul Vieux Fort", "Angaja peste 500 de muncitori la apogeu", "Conversia într-o stație de încărcare a bananelor în anii 1950", "Resturile coșurilor de fum sunt astăzi repere vizuale"],
       en: ["Commissioning of the modern central factory in 1883", "Featured its own railway system for transport", "Exported sugar through the Vieux Fort harbor", "Employed over 500 workers at its peak", "Converted into a banana loading station in the 1950s", "Remnants of the chimneys are still landmarks today"],
     },
+    image: "/poi-images/saintlucia-vieux-fort-sugar-factory-history-v2.webp",
   },
   {
     id: "saintlucia-monchy-old-estate-history-v2",
@@ -1674,6 +1727,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Prima menționare a proprietății în jurul anului 1785", "Cunoscută pentru producția de cafea de munte de calitate", "Deține resturile unei mori acționate de apă", "Situată în dealurile de la nord de Gros Islet", "A făcut parte din expansiunea colonizării franceze", "Ruinele sunt zidite din piatră locală de câmp"],
       en: ["First mention of the estate around 1785", "Known for producing high-quality highland coffee", "Features remains of a water-powered mill", "Located in the hills north of Gros Islet", "Part of the French colonial settlement expansion", "The ruins are constructed from local fieldstone"],
     },
+    image: "/poi-images/saintlucia-monchy-old-estate-history-v2.webp",
   },
   {
     id: "saintlucia-pointe-du-cap-battery-history-v2",
@@ -1705,6 +1759,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Construcția primelor fortificații în jurul anului 1780", "Echipată cu tunuri de tip 24 de livre", "Monitoriza strâmtoarea de 30 km către Martinique", "A servit ca stație de semnalizare în timpul războaielor napoleoniene", "Fundațiile platformelor pentru tunuri sunt încă vizibile", "A devenit secundară din punct de vedere militar după 1815"],
       en: ["Construction of the first fortifications around 1780", "Equipped with 24-pounder cannons", "Monitored the 30 km wide channel to Martinique", "Served as a signaling station during the Napoleonic Wars", "Foundations of the gun platforms are still visible", "Became militarily secondary after 1815"],
     },
+    image: "/poi-images/saintlucia-pointe-du-cap-battery-history-v2.webp",
   },
   {
     id: "saintlucia-babonneau-historic-district-history-v2",
@@ -1736,6 +1791,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Colonizare timpurie de către sclavi eliberați după 1834", "Centru principal de producție de cacao în secolul al XIX-lea", "Găzduiește biserica istorică a Bunului Păstor", "Cunoscut pentru conservarea dialectului Kweyol", "Sediul unor importante cooperative agricole", "Loc tradițional pentru festivalul 'Jounen Kweyol'"],
       en: ["Early settlement by freed slaves after 1834", "Main center for cocoa production in the 19th century", "Houses the historic Good Shepherd Church", "Known for preserving the Kweyol dialect", "Headquarters of significant agricultural cooperatives", "Traditional venue for the 'Jounen Kweyol' festival"],
     },
+    image: "/poi-images/saintlucia-babonneau-historic-district-history-v2.webp",
   },
   {
     id: "saintlucia-morne-fortune-military-barracks-history-v2",
@@ -1767,6 +1823,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Construcția cazărmilor principale între 1817 și 1820", "Materialul de construcție a fost calcar fasonat local", "Capacitate de cazare pentru până la 600 de soldați", "Ziduri exterioare cu o grosime de 2 metri", "A găzduit odinioară sediul central al Insulelor Windward", "Restaurarea a avut loc în anii 1960"],
       en: ["Construction of the main barracks between 1817 and 1820", "Building material was locally hewn limestone", "Capacity to house up to 600 soldiers", "Features exterior walls up to 2 meters thick", "Once housed the headquarters for the Windward Islands", "Restoration took place in the 1960s"],
     },
+    image: "/poi-images/saintlucia-morne-fortune-military-barracks-history-v2.webp",
   },
   {
     id: "saintlucia-errard-estate-history-v2",
@@ -1798,6 +1855,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Fondată la sfârșitul secolului al XVIII-lea", "Deține o moară de cacao acționată de apă din perioada colonială", "Cultivarea a peste 10 tipuri diferite de condimente", "Situată în apropierea cascadelor Sault Falls", "Câștigătoare de premii naționale pentru calitatea boabelor de cacao", "Parte a unui program de ecoturism de pe insulă"],
       en: ["Founded in the late 18th century", "Features a water-powered cocoa mill from the colonial era", "Cultivation of over 10 different types of spices", "Located near the Sault Falls waterfalls", "Winner of national awards for cocoa bean quality", "Included in the island's ecotourism initiatives"],
     },
+    image: "/poi-images/saintlucia-errard-estate-history-v2.webp",
   },
   {
     id: "saintlucia-paix-bouche-war-memorial-history-v2",
@@ -1829,6 +1887,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Ridicarea monumentului după cel de-al Doilea Război Mondial", "Enumeră numele soldaților locali din ambele războaie mondiale", "Situat în apropierea satului Paix Bouche", "Loc tradițional pentru depunerea de coroane în noiembrie", "Renovat integral în anul 2012", "Simbolizează loialitatea față de Commonwealth"],
       en: ["Erection of the memorial after World War II", "Lists the names of local soldiers from both World Wars", "Located near the village of Paix Bouche", "Traditional site for wreath-laying in November", "Underwent comprehensive renovation in 2012", "Symbolizes loyalty to the Commonwealth"],
     },
+    image: "/poi-images/saintlucia-paix-bouche-war-memorial-history-v2.webp",
   },
   {
     id: "saintlucia-beausejour-military-history-v2",
@@ -1860,6 +1919,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Importanță strategică în timpul ocupației britanice", "Monitoriza traficul maritim din direcția St. Vincent", "Găzduia unități de artilerie mobilă în secolul al XVIII-lea", "Situată pe o câmpie costieră joasă lângă Vieux Fort", "Utilizată de trupele SUA ca tabără în cel de-al Doilea Război Mondial", "Astăzi este locația stadionului internațional de cricket"],
       en: ["Strategic importance during British occupation", "Monitored maritime traffic coming from St. Vincent", "Housed mobile artillery units in the 18th century", "Located on a flat coastal plain near Vieux Fort", "Used as a camp by US troops during World War II", "Current site of the international cricket stadium"],
     },
+    image: "/poi-images/saintlucia-beausejour-military-history-v2.webp",
   },
   {
     id: "saintlucia-marquis-estate-chapel-history-v2",
@@ -1891,6 +1951,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Construită în jurul anului 1840 din piatră locală și lemn", "Proprietatea Marquis cuprindea inițial peste 1000 de hectare", "A servit ca centru pentru botezuri și nunți ale muncitorilor", "Situată lângă Golful Marquis", "A supraviețuit mai multor uragane severe în secolul al XX-lea", "Păstrează plăcile de pardoseală originale din timpul construcției"],
       en: ["Built around 1840 using local stone and timber", "The Marquis Estate originally spanned over 1000 hectares", "Served as a center for workers' baptisms and weddings", "Located near Marquis Bay", "Survived several severe hurricanes in the 20th century", "Features original floor tiles from the construction period"],
     },
+    image: "/poi-images/saintlucia-marquis-estate-chapel-history-v2.webp",
   },
   {
     id: "saintlucia-pigeon-island-military-kitchen-history-v2",
@@ -1922,6 +1983,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Construită în jurul anului 1780 de trupele britanice", "A alimentat garnizoana de la Fort Rodney", "Parte a bazei strategice a amiralului Rodney", "Construită din zidărie masivă de piatră locală", "Situată în incinta Parcului Național Pigeon Island", "Monument istoric al conflictelor navale din Caraibe"],
       en: ["Built around 1780 by British forces", "Served the garrison of Fort Rodney", "Part of Admiral Rodney's strategic naval base", "Massive masonry construction using local stone", "Located within the Pigeon Island National Landmark", "Important relic of 18th-century Caribbean naval history"],
     },
+    image: "/poi-images/saintlucia-pigeon-island-military-kitchen-history-v2.webp",
   },
   {
     id: "saintlucia-marquis-estate-slave-quarters-history-v2",
@@ -1953,6 +2015,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["A fost odinioară cea mai mare plantație de pe insulă", "Fondată la începutul secolului al XVIII-lea", "Centru al producției de trestie de zahăr la scară largă", "Ruinele sunt construite din piatră și calcar de corali", "Situată lângă gura de vărsare a râului Marquis", "Loc important pentru studiul istoriei sclaviei"],
       en: ["Once the largest plantation on the island", "Established in the early 18th century", "Center of large-scale sugar cane production", "Ruins constructed from stone and coral lime", "Located near the mouth of the Marquis River", "Significant site for slavery history research"],
     },
+    image: "/poi-images/saintlucia-marquis-estate-slave-quarters-history-v2.webp",
   },
   {
     id: "saintlucia-morne-fortune-signal-station-history-v2",
@@ -1984,6 +2047,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Înălțime de aproximativ 260 de metri deasupra mării", "Punct strategic pentru apărarea orașului Castries", "Utiliza telegrafia optică în secolul al XVIII-lea", "Parte a complexului militar mai larg Morne Fortune", "Situată în apropierea Casei Guvernului", "Locul unor negocieri importante de pace în 1796"],
       en: ["Elevation of approximately 260 meters above sea level", "Strategic point for the defense of Castries", "Used optical telegraphy in the 18th century", "Part of the broader Morne Fortune military complex", "Located near the Government House", "Site of significant peace negotiations in 1796"],
     },
+    image: "/poi-images/saintlucia-morne-fortune-signal-station-history-v2.webp",
   },
   {
     id: "saintlucia-black-bay-amerindian-site-history-v2",
@@ -2015,6 +2079,7 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Situat în apropiere de Vieux Fort", "Conține petroglife (gravuri în piatră)", "Datat între anii 200 și 1500 d.Hr.", "Descoperiri de ceramică decorată elaborat", "Dovezi ale metodelor timpurii de pescuit și agricultură", "Parte integrantă a moștenirii culturale indigene"],
       en: ["Located near the town of Vieux Fort", "Contains petroglyphs (rock carvings)", "Dated between 200 and 1500 AD", "Findings of elaborately decorated pottery", "Evidence of early fishing and agricultural methods", "Key part of the indigenous cultural heritage"],
     },
+    image: "/poi-images/saintlucia-black-bay-amerindian-site-history-v2.webp",
   },
   {
     id: "saintlucia-pointe-seraphine-maritime-history-v2",
@@ -2046,5 +2111,6 @@ export const saintluciaHistoryV2: POI[] = [
       ro: ["Odinioară locația unor depozite importante de cărbune", "Centru al comerțului maritim în secolul al XIX-lea", "Portul de adâncime permite ancorarea navelor mari", "Deschiderea complexului duty-free în anii 1980", "Fost amplasament al șantierelor de reparații navale", "Factor economic vital pentru capitala Castries"],
       en: ["Once the site of significant coal bunkering", "Center of maritime trade in the 19th century", "Deep-water harbor allows for large vessel docking", "Opening of the duty-free complex in the 1980s", "Former site of ship repair yards", "Crucial economic driver for the capital, Castries"],
     },
+    image: "/poi-images/saintlucia-pointe-seraphine-maritime-history-v2.webp",
   }
 ];

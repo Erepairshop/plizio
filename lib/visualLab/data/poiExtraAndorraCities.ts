@@ -213,6 +213,7 @@ export const poiExtraAndorraCities: POI[] = [
       ro: ["Imagine tradițională a satului cu case din ardezie locală.", "Centru cunoscut pentru excursii călare în Canillo.", "Situat deasupra cursului râului Valira d'Orient.", "Acces rapid către Palau de Gel din centrul Canillo.", "Zidurile istorice din piatră modelează peisajul local.", "Potecile de drumeție leagă satul de Coll d'Ordino."],
       en: ["Traditional village aesthetic with local slate houses.", "Well-known center for horseback riding in Canillo.", "Positioned above the Valira d'Orient river.", "Provides quick access to the Palau de Gel in Canillo.", "Preserved historical dry stone walls define the landscape.", "Hiking trails connect the village with the Coll d'Ordino pass."],
     },
+    image: "/poi-images/city-laldosa-canillo-extra.webp",
   },
   {
     id: "city-el-vilar-canillo-extra",
@@ -426,6 +427,7 @@ export const poiExtraAndorraCities: POI[] = [
       ro: ["Stația de bază din Grau Roig se află la altitudinea de 2.120 de metri.", "Operațiunile de schi au început oficial în acest sector în anul 1971.", "Este singurul sector din domeniul Grandvalira fără o așezare urbană.", "Regiunea găzduiește circului glaciar Pessons cu cele 7 lacuri ale sale.", "Hotelul Grau Roig a fost inaugurat în 1971 ca un mic han montan.", "În anul 2003, Grau Roig a fuzionat pentru a crea domeniul Grandvalira."],
       en: ["The base station of Grau Roig is located at 2,120 meters above sea level.", "Skiing operations in this sector officially commenced in 1971.", "It is the unique sector in Grandvalira without its own urban center.", "The area features the Pessons glacial cirque, containing 7 lakes.", "The Hotel Grau Roig originally opened in 1971 as a modest lodge.", "Grau Roig became part of the Grandvalira ski area in 2003."],
     },
+    image: "/poi-images/city-grau-roig-extra.webp",
   },
   {
     id: "city-les-bons-extra",
@@ -517,6 +519,7 @@ export const poiExtraAndorraCities: POI[] = [
       ro: ["Stația intermediară a telecabinei Funicamp se află la 2.090 metri.", "Lacul artificial Rigoder este folosit iarna pentru producerea zăpezii.", "Aici se află unul dintre cele mai lungi trasee de via ferrata din Andorra.", "Valea cuprinde peste 50 de 'bordes' (colibe montane) istorice.", "Drumul CS-210 face legătura directă între Encamp și vale.", "Regiunea este o zonă de antrenament celebră pentru cicliștii profesioniști."],
       en: ["The middle station of the Funicamp is located at 2,090 meters.", "The artificial Rigoder lake is used for snowmaking during winter.", "It features one of the longest via ferrata routes in Andorra.", "The valley contains over 50 historical 'bordes' (stone huts).", "The CS-210 road connects Encamp directly to this high valley.", "The region is a well-known training ground for professional cyclists."],
     },
+    image: "/poi-images/city-cortals-dencamp-extra.webp",
   },
   {
     id: "city-la-tremada-extra",
@@ -790,6 +793,7 @@ export const poiExtraAndorraCities: POI[] = [
       ro: ["Biserica Sant Climent de Pal a fost menționată documentar pentru prima dată în 1092.", "Satul este situat la o altitudine de 1551 de metri deasupra nivelului mării.", "Pal face parte din domeniul schiabil Vallnord, care dispune de 63 de pârtii.", "Casele tradiționale au adesea acoperișuri realizate din piatră de ardezie locală.", "Există un muzeu specializat în artă romanică chiar în localitate.", "Pal a fost declarat oficial bun cultural protejat în anul 1997."],
       en: ["The Church of Sant Climent de Pal was first documented in the year 1092.", "The village sits at an elevation of 1,551 meters above sea level.", "Pal is part of the Vallnord ski domain, which features 63 slopes.", "Traditional houses often feature roofs made from local slate stone.", "There is a specialized Romanesque Art Interpretive Centre located in the village.", "Pal was officially declared a protected cultural heritage site in 1997."],
     },
+    image: "/poi-images/city-pal-extra.webp",
   },
   {
     id: "city-erets-extra",
@@ -911,6 +915,7 @@ export const poiExtraAndorraCities: POI[] = [
       ro: ["L'Aldosa de La Massana este situat la o altitudine de 1258 de metri.", "Biserica Sant Ermengol datează din secolul al XVIII-lea sau al XIX-lea.", "Satul găzduiește cel mai important centru de echitație (Club Hípic) din Andorra.", "În trecut, localitatea era cunoscută pentru plantațiile sale de tutun de înaltă calitate.", "L'Aldosa se află direct la granița cu parohia Ordino.", "Există o școală internațională aici, care atrage multe familii străine."],
       en: ["L'Aldosa de La Massana is located at an altitude of 1,258 meters.", "The Church of Sant Ermengol dates from the 18th or 19th century.", "The village hosts Andorra's primary equestrian center (Club Hípic).", "The area was formerly renowned for its high-quality tobacco plantations.", "L'Aldosa is situated directly on the border with the parish of Ordino.", "It features an international school that attracts many expatriate families."],
     },
+    image: "/poi-images/city-laldosa-massana-extra.webp",
   },
   {
     id: "city-escas-extra",
@@ -1032,6 +1037,7 @@ export const poiExtraAndorraCities: POI[] = [
       ro: ["Situat în parohia La Massana, deasupra localității Arinsal.", "Se află la o altitudine de aproximativ 1500 de metri.", "Oferă o perspectivă panoramică asupra văii Arinsal.", "Dezvoltarea zonei a început la sfârșitul secolului al XX-lea.", "Acces facil la rețeaua de trasee din masivul Comapedrosa.", "Conectat prin drumul secundar CS-410 cu restul parohiei."],
       en: ["Located in the La Massana parish, high above Arinsal village.", "Situated at an elevation of approximately 1,500 meters.", "Features panoramic views of the Arinsal valley and mountains.", "Developed primarily during the late 20th century property boom.", "Provides direct access to hiking routes in the Comapedrosa range.", "Accessible via the winding CS-410 secondary road."],
     },
+    image: "/poi-images/city-mas-de-ribafeta-extra.webp",
   },
   {
     id: "city-el-cortalet-extra",
@@ -1093,6 +1099,7 @@ export const poiExtraAndorraCities: POI[] = [
       ro: ["Face parte din parohia centrală Escaldes-Engordany.", "Situat pe o colină cu vedere spre Andorra la Vella.", "Arhitectura combină granitul local cu ardezia tradițională.", "Punct de acces către Valea Madriu, sit protejat UNESCO.", "S-a dezvoltat ca o zonă rezidențială deasupra izvoarelor termale.", "Împrejurimile includ grădini terasate și mici păduri de pini."],
       en: ["Part of the central parish of Escaldes-Engordany.", "Situated on an elevation overlooking Andorra la Vella.", "Architecture incorporates local granite and dark slate.", "Close proximity to the UNESCO Madriu-Perafita-Claror Valley.", "Developed as a quiet residential zone above the spa areas.", "Landscape is characterized by terraced gardens and woodlands."],
     },
+    image: "/poi-images/city-jan-dels-plans-extra.webp",
   },
     {
     id: "city-padola-extra",
@@ -1154,6 +1161,7 @@ export const poiExtraAndorraCities: POI[] = [
       ro: ["Situat în parohia La Massana, în vestul Andorrei.", "A aparținut istoric influentei familii andorrane Rossell.", "Reprezintă un exemplu clasic de „borda” (clădire agricolă).", "Locație istorică importantă pentru industria tutunului.", "Amplasat pe versanți însoriți între Anyós și La Massana.", "Astăzi este renovat pentru activități culturale și turism."],
       en: ["Located in the parish of La Massana in western Andorra.", "Formerly the property of the influential Rossell family.", "A typical example of traditional Andorran 'borda' architecture.", "Historically significant for the tobacco cultivation and trade.", "Situated on sunny slopes between Anyós and La Massana.", "Renovated for cultural and high-end gastronomic purposes."],
     },
+    image: "/poi-images/city-borda-rossell-extra.webp",
   },
   {
     id: "city-comapedrosa-base-extra",
@@ -1185,6 +1193,7 @@ export const poiExtraAndorraCities: POI[] = [
       ro: ["Punctul de plecare spre vârful Comapedrosa (2942 m).", "Situat în valea Arinsal din parohia La Massana.", "Altitudinea bazei este de aproximativ 1550 de metri.", "Centru administrativ al Parcului Natural al Văilor Comapedrosa.", "Nod important pe ruta de drumeție trans-pirineană GR-11.", "Găzduiește facilități de salvare montană și informare turistică."],
       en: ["Primary starting point for Pic de Comapedrosa (2,942 m).", "Located in the Arinsal Valley within La Massana parish.", "The base altitude is approximately 1,550 meters.", "Hub for the Comapedrosa Valleys Communal Natural Park.", "Key junction on the GR-11 trans-Pyrenean hiking trail.", "Site of mountain rescue facilities and tourist info centers."],
     },
+    image: "/poi-images/city-comapedrosa-base-extra.webp",
   },
   
   // Ordino (AD-05)
@@ -1218,6 +1227,7 @@ export const poiExtraAndorraCities: POI[] = [
       ro: ["Situat în parohia Ordino din nordul Andorrei.", "Se află la o altitudine de aproximativ 1410 metri.", "Punct cheie pe traseul istoric „Ruta del Ferro”.", "Găzduiește Mina de Llorts, deschisă vizitatorilor.", "Deține biserica istorică Sant Serni de Llorts.", "Fost centru de extracție și transport al minereului de fier."],
       en: ["Located in the Ordino parish in northern Andorra.", "Situated at an altitude of approximately 1,410 meters.", "A key location on the historical 'Iron Route' (Ruta del Ferro).", "Home to the 19th-century Llorts Mine, open for tours.", "Features the Romanesque church of Sant Serni de Llorts.", "Historically significant for ore extraction and transportation."],
     },
+    image: "/poi-images/city-llorts-extra.webp",
   },
   {
     id: "city-el-serrat-extra",
@@ -1369,6 +1379,7 @@ export const poiExtraAndorraCities: POI[] = [
       ro: ["Ancodina este situată la o altitudine medie de aproximativ 1.800 până la 2.000 de metri.", "Zona găzduiește coliba istorică 'Borda de l'Ancodina'.", "Este un habitat important pentru cocoșul de munte și marmota andorrană.", "Pășunile sunt folosite și astăzi pentru creșterea tradițională a bovinelor.", "Drumul CG-3 trece direct prin această secțiune de peisaj.", "Primăvara înfloresc aici specii rare de narcise și brândușe de munte."],
       en: ["Ancodina is situated at an average elevation of approximately 1,800 to 2,000 meters.", "The area is home to the historic 'Borda de l'Ancodina'.", "It is an important habitat for the capercaillie and the Andorran marmot.", "The pastures are still used today for traditional cattle farming.", "The CG-3 road passes directly through this scenic section.", "In spring, rare species of daffodils and mountain crocuses bloom here."],
     },
+    image: "/poi-images/city-ancodina-extra.webp",
   },
   {
     id: "city-arans-extra",
@@ -1520,6 +1531,7 @@ export const poiExtraAndorraCities: POI[] = [
       ro: ["Parcul Natural de la Vall de Sorteny a fost înființat în 1999.", "Găzduiește 700 de specii de plante într-un spațiu foarte restrâns.", "Pic de l'Estanyó este cel mai înalt punct al parcului, cu 2.915 m.", "Refugiul Sorteny este situat la o altitudine de 1.965 de metri.", "Există un program special de cercetare pentru fluturi în vale.", "UNESCO a declarat zona rezervație a biosferei în anul 2020."],
       en: ["The Parc Natural de la Vall de Sorteny was established in 1999.", "It hosts 700 species of plants within a very compact area.", "Pic de l'Estanyó is the park's highest point at 2,915 meters.", "The Refugi de Sorteny is located at an elevation of 1,965 meters.", "There is a dedicated research program for butterflies in the valley.", "UNESCO designated the area as a Biosphere Reserve in 2020."],
     },
+    image: "/poi-images/city-sorteny-valley-extra.webp",
   },
   {
     id: "city-pont-d-arcalis-extra",
@@ -1673,6 +1685,7 @@ export const poiExtraAndorraCities: POI[] = [
       ro: ["Situat la o altitudine de 1.350 de metri.", "Găzduiește biserica istorică Sant Pere d'Aixirivall.", "Biserica datează de la sfârșitul secolului XVI sau începutul secolului XVII.", "Face parte administrativ din parohia Sant Julià de Lòria.", "Populația localității este de aproximativ 800 de locuitori.", "Recunoscut pentru arhitectura tradițională din piatră."],
       en: ["Located at an altitude of 1,350 meters.", "Home to the historic Church of Sant Pere d'Aixirivall.", "The church dates back to the late 16th or early 17th century.", "Part of the administrative parish of Sant Julià de Lòria.", "The population is approximately 800 inhabitants.", "Known for its well-preserved traditional stone architecture."],
     },
+    image: "/poi-images/city-aixirivall-extra.webp",
   },
   {
     id: "city-bixessarri-extra",
@@ -2156,6 +2169,7 @@ export const poiExtraAndorraCities: POI[] = [
       ro: ["Biserica Santa Coloma datează din secolul al IX-lea", "Singurul turn clopotniță circular romanic din Andorra", "Găzduiește picturile murale ale Maestrului de la Santa Coloma", "Sediul centrului cultural Espai Columba", "Unul dintre cele mai vechi nuclee locuite din principat", "Locație strategică pe malul râului Gran Valira"],
       en: ["Church of Santa Coloma dates back to the 9th century", "Only circular Romanesque bell tower in Andorra", "Home to the significant murals by the Master of Santa Coloma", "Site of the Espai Columba cultural center", "One of the oldest inhabited cores of the principality", "Strategic location on the banks of the Gran Valira River"],
     },
+    image: "/poi-images/city-santa-coloma-extra.webp",
   },
   {
     id: "city-la-margineda-extra",
@@ -2247,6 +2261,7 @@ export const poiExtraAndorraCities: POI[] = [
       ro: ["Punctul de belvedere este situat la o altitudine de 1315 metri.", "Drumul către La Comella are o pantă medie de aproximativ 8%.", "Zona găzduiește refugiul Alberg de la Comella, important pentru tineret.", "Vârful Pic de Carroi este accesibil în aproximativ 2 ore de mers pe jos.", "Vegetația este compusă în principal din pini silvestri.", "A fost utilizat de mai multe ori ca punct de control montan în Vuelta a España."],
       en: ["The viewpoint is situated at an elevation of 1,315 meters.", "The road to La Comella features an average gradient of about 8%.", "The area contains a major youth hostel (Alberg de la Comella).", "Pic de Carroi is reachable in about 2 hours of hiking from here.", "The surrounding forest consists mainly of Scots Pine (Pinus sylvestris).", "It has been a designated climb in major cycling tours multiple times."],
     },
+    image: "/poi-images/city-comella-extra.webp",
   },
   {
     id: "city-barri-antic-extra",
@@ -2278,6 +2293,7 @@ export const poiExtraAndorraCities: POI[] = [
       ro: ["Casa de la Vall a fost sediul parlamentului andorran până în 2011.", "Biserica Sant Esteve păstrează o absidă romanică din secolul al XII-lea.", "Cartierul adăpostește 'Dulapul celor șapte chei' cu documente de stat.", "Majoritatea clădirilor istorice sunt construite din granit regional.", "Piața parlamentului (Plaça del Consell) este un punct central în cartier.", "Barri Antic a fost declarat zonă de interes cultural protejată."],
       en: ["Casa de la Vall served as the seat of parliament until 2011.", "The Church of Sant Esteve features a 12th-century Romanesque apse.", "The district contains the 'Cabinet of the Seven Keys' for state archives.", "Most historical buildings are constructed from local granite and slate.", "The area was the primary administrative center for over 400 years.", "It was extensively renovated during the late 20th century to preserve its character."],
     },
+    image: "/poi-images/city-barri-antic-extra.webp",
   },
   {
     id: "city-avinguda-meritxell-area-extra",
@@ -2369,6 +2385,7 @@ export const poiExtraAndorraCities: POI[] = [
       ro: ["Lungimea totală a sistemului fluvial Valira este de circa 44 km.", "Confluența celor două ramuri principale are loc la 1023 m altitudine.", "Râul părăsește Andorra la cota de 840 m în localitatea Runer.", "Bazinul hidrografic acoperă 591 kmp, aproape întreaga suprafață a țării.", "Este habitat pentru specii protejate precum desmanul pirinean.", "Gran Valira este un afluent important al râului Segre din Spania."],
       en: ["The total length of the Valira river system is approximately 44 kilometers.", "The confluence of its two main branches occurs at 1,023 meters altitude.", "The river exits Andorra at an elevation of 840 meters at Runer.", "Its drainage basin covers 591 square kilometers, nearly all of Andorra.", "The river is home to the native brown trout (Salmo trutta).", "The Gran Valira eventually flows into the Segre River in Spain."],
     },
+    image: "/poi-images/city-riu-valira-area-extra.webp",
   },
   {
     id: "city-santa-coloma-d-andorra-extra",
@@ -2432,6 +2449,7 @@ export const poiExtraAndorraCities: POI[] = [
       ro: ["Izvoarele termale din Les Escaldes ating o temperatură de 70°C.", "Centrul Caldea a fost proiectat de arhitectul Jean-Michel Ruols.", "Les Escaldes și Engordany s-au unit într-o singură parohie în 1978.", "Apa este bogată în sulf, sodiu și alte săruri minerale.", "Industria textilă a fost motorul economic principal până în secolul XIX.", "Turnul de sticlă al complexului Caldea are o înălțime de 80 de metri."],
       en: ["The thermal springs in Les Escaldes reach temperatures of 70°C.", "The Caldea center was designed by architect Jean-Michel Ruols.", "Les Escaldes and Engordany became a separate parish only in 1978.", "The waters are rich in sulfur, sodium, and mineral salts.", "Textile manufacturing was the main industry until the 19th century.", "The iconic glass tower of Caldea stands 80 meters tall."],
     },
+    image: "/poi-images/city-les-escaldes-extra.webp",
   },
   {
     id: "city-engolasters-extra",
@@ -2793,6 +2811,7 @@ export const poiExtraAndorraCities: POI[] = [
       ro: ["Pietonizarea completă a fost finalizată în anul 2013", "Peste 200 de magazine și unități comerciale active", "Situată în parohia Escaldes-Engordany", "Se continuă direct cu Avinguda Meritxell din capitală", "Găzduiește renumitul centru termal și spa Caldea", "Zonă renumită pentru sculpturile și arta stradală"],
       en: ["Pedestrianization project completed in 2013", "Home to over 200 retail shops and businesses", "Located in the heart of Escaldes-Engordany", "Forms a continuous shopping axis with Avinguda Meritxell", "Adjacent to the iconic Caldea thermal spa building", "Regular venue for outdoor contemporary art exhibits"],
     },
+    image: "/poi-images/city-vivand-area-extra.webp",
   }
 ];
 

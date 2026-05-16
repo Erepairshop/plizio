@@ -31,6 +31,7 @@ export const mauritaniaReliefV2: POI[] = [
       ro: ["Cel mai înalt punct din Mauritania, cu 915 m", "Compus din minereu de fier de înaltă calitate", "Exploatarea este operată de compania de stat SNIM", "Cauzează anomalii magnetice semnificative", "Deservit de unul dintre cele mai lungi trenuri din lume", "Împrejurimile sunt un deșert de piatră extrem de arid"],
       en: ["Highest point in Mauritania at 915 meters", "Composed of high-grade iron ore (hematite/magnetite)", "Mining operations are managed by the SNIM company", "Causes significant local magnetic anomalies", "Served by the world's longest and heaviest train", "Surrounding area is an extremely arid stone desert"],
     },
+    image: "/poi-images/mauritania-kedia-idjil-relief-v2.webp",
   },
   {
     id: "mauritania-baba-mountain-relief-v2",
@@ -62,6 +63,7 @@ export const mauritaniaReliefV2: POI[] = [
       ro: ["Parte a sistemului mai larg al platoului Adrar", "Compus din gresie rezistentă și cuarțit", "Locație importantă pentru păstorii nomazi", "Regiunea este bogată în gravuri rupestre neolitice", "Altitudinea medie este între 400 și 600 de metri", "Eroziunea a modelat structuri proeminente de tip mesa"],
       en: ["Part of the extensive Adrar Plateau system", "Composed of resistant sandstone and quartzite", "Critical grazing area for nomadic pastoralists", "Region is rich in Neolithic rock engravings", "Average elevation ranges between 400 and 600 meters", "Erosion has carved prominent mesa-like structures"],
     },
+    image: "/poi-images/mauritania-baba-mountain-relief-v2.webp",
   },
   {
     id: "mauritania-dhar-tichitt-relief-v2",
@@ -93,6 +95,7 @@ export const mauritaniaReliefV2: POI[] = [
       ro: ["Patrimoniu UNESCO din 1996 (ca parte a Ksour)", "Centrul tradiției Tichitt (aprox. 2000–500 î.Hr.)", "Așezările au fost construite din zidărie uscată", "Cea mai veche dovadă a cultivării meiului în Africa de Vest", "Faleza se ridică până la 100 m deasupra câmpiei", "Nod important al comerțului istoric cu sare"],
       en: ["UNESCO World Heritage site since 1996 (part of the Ksour)", "Center of the Tichitt Tradition (c. 2000–500 BC)", "Settlements were constructed using dry-stone masonry", "Earliest evidence of millet cultivation in West Africa", "The escarpment rises up to 100 meters above the plain", "Key junction for the historical trans-Saharan salt trade"],
     },
+    image: "/poi-images/mauritania-dhar-tichitt-relief-v2.webp",
   },
   {
     id: "mauritania-guelta-d-archei-relief-v2",
@@ -124,6 +127,7 @@ export const mauritaniaReliefV2: POI[] = [
       ro: ["Rezervor de apă permanent în mediu arid", "Alimentată de izvoare subterane", "Găzduiește populații relicte de crocodili vest-africani", "Loc de adăpare important pentru mii de cămile", "Pereții stâncoși oferă protecție împotriva soarelui direct", "În apropiere se găsesc adesea picturi rupestre vechi"],
       en: ["Permanent water reservoir in a hyper-arid environment", "Sustained by ancient underground springs", "Home to relict populations of the West African crocodile", "Crucial watering hole for thousands of desert camels", "High canyon walls provide shade from direct sunlight", "Surrounding cliffs often feature ancient rock art"],
     },
+    image: "/poi-images/mauritania-guelta-d-archei-relief-v2.webp",
   },
   {
     id: "mauritania-akjoujt-plain-relief-v2",
@@ -155,6 +159,7 @@ export const mauritaniaReliefV2: POI[] = [
       ro: ["Orașul Akjoujt servește drept centru administrativ al regiunii Inchiri.", "Zăcămintele de cupru au fost descoperite aici încă din anii 1930.", "Regiunea înregistrează temperaturi de peste 45 de grade Celsius în timpul verii.", "Proiectul minier Guelb Moghrein este cel mai important angajator din câmpie.", "Cantitatea anuală de precipitații este adesea sub 100 de milimetri.", "Câmpia se află la aproximativ 250 de kilometri nord-est de capitala Nouakchott."],
       en: ["The town of Akjoujt serves as the administrative center of the Inchiri region.", "Copper deposits were discovered here as early as the 1930s.", "The region records temperatures exceeding 45 degrees Celsius during summer.", "The Guelb Moghrein mining project is the main employer in the plain.", "Annual rainfall in the area often falls below 100 millimeters.", "The plain is located approximately 250 kilometers northeast of Nouakchott."],
     },
+    image: "/poi-images/mauritania-akjoujt-plain-relief-v2.webp",
   },
   {
     id: "mauritania-el-djouf-relief-v2",
@@ -186,6 +191,7 @@ export const mauritaniaReliefV2: POI[] = [
       ro: ["Depresiunea se află la o altitudine medie de 200 până la 300 de metri.", "El Djouf este adesea numit 'Cartierul Gol' al deșertului Sahara.", "În regiune au fost documentate descoperiri de meteoriți, precum meteoritul Adrar.", "Vegetația este limitată aproape în întregime la oaze rare de la margini.", "În trecut, bazinul a făcut parte dintr-un sistem extins de lacuri.", "Temperaturile pot atinge 50 de grade ziua și pot scădea drastic noaptea."],
       en: ["The depression lies at an average elevation of 200 to 300 meters.", "El Djouf is often referred to as the 'Empty Quarter' of the Sahara.", "Meteorite finds, such as the Adrar meteorite, have been documented in the region.", "Vegetation is almost entirely restricted to rare oases on its periphery.", "In the geological past, the basin was part of an extensive lake system.", "Daytime temperatures can reach 50°C, with significant drops at night."],
     },
+    image: "/poi-images/mauritania-el-djouf-relief-v2.webp",
   },
   {
     id: "mauritania-tiris-plain-relief-v2",
@@ -217,6 +223,7 @@ export const mauritaniaReliefV2: POI[] = [
       ro: ["Câmpia este numită după regiunea administrativă Tiris Zemmour.", "În apropiere se află Kediet ej Jill, cel mai înalt munte din țară.", "Minereul de fier este extras aici la scară industrială din 1963.", "Linia de cale ferată Zouérat-Nouadhibou traversează părți ale acestei regiuni.", "Cantitatea anuală de precipitații depășește rar 50 de milimetri.", "Aici se găsesc frecvent 'Guelbs', munți insulari izolați din rocă dură."],
       en: ["The plain is named after the Tiris Zemmour administrative region.", "Kediet ej Jill, the highest mountain in Mauritania, is located nearby.", "Iron ore has been mined here on an industrial scale since 1963.", "The Zouérat-Nouadhibou railway line traverses parts of this region.", "Annual rainfall in the plain rarely exceeds 50 millimeters.", "The area features many 'Guelbs', which are isolated inselbergs of hard rock."],
     },
+    image: "/poi-images/mauritania-tiris-plain-relief-v2.webp",
   },
   {
     id: "mauritania-inchiri-relief-v2",
@@ -248,6 +255,7 @@ export const mauritaniaReliefV2: POI[] = [
       ro: ["Akjoujt este capitala și centrul economic al regiunii Inchiri.", "Regiunea are una dintre cele mai scăzute densități ale populației din Mauritania.", "Zăcăminte importante de aur sunt exploatate în mina de la Guelb Moghrein.", "Terenul constă în mare parte din nisipuri și sedimente cuaternare.", "Linia de coastă a regiunii Inchiri este în mare parte nelocuită și nedezvoltată.", "O mare parte a suprafeței este utilizată pentru tranzitul trenurilor miniere."],
       en: ["Akjoujt is the capital and the economic hub of the Inchiri region.", "The region has one of the lowest population densities in Mauritania.", "Significant gold deposits are extracted at the Guelb Moghrein mine.", "The terrain consists mostly of Quaternary sands and sediments.", "Inchiri's coastline is largely uninhabited and remains undeveloped.", "A large portion of the area is used for the transit of mining trains."],
     },
+    image: "/poi-images/mauritania-inchiri-relief-v2.webp",
   },
   {
     id: "mauritania-aftout-es-sahel-relief-v2",
@@ -279,6 +287,7 @@ export const mauritaniaReliefV2: POI[] = [
       ro: ["Depresiunea se întinde pe o lungime de aproximativ 200 de kilometri.", "Părți ale zonei sunt utilizate pentru alimentarea cu apă a orașului Nouakchott.", "Vegetația constă în principal din plante halofite rezistente la sare.", "În perioadele ploioase se formează lacuri temporare care atrag păsări migratoare.", "Regiunea este separată de oceanul direct prin bariere de nisip.", "Istoric, a servit ca o rută importantă pentru traficul nord-sud."],
       en: ["The depression extends over a length of approximately 200 kilometers.", "Parts of the area are utilized for the water supply of Nouakchott.", "Vegetation consists mainly of salt-tolerant halophytic plants.", "During rainy seasons, temporary lakes form, attracting migratory birds.", "The region is separated from the open ocean by sandy barriers.", "Historically, it served as a key route for north-south transportation."],
     },
+    image: "/poi-images/mauritania-aftout-es-sahel-relief-v2.webp",
   },
   {
     id: "mauritania-banc-d-arguin-coast-relief-v2",
@@ -310,6 +319,7 @@ export const mauritaniaReliefV2: POI[] = [
       ro: ["Parcul Național Banc d'Arguin acoperă aproximativ 12.000 km pătrați.", "Peste două milioane de păsări migratoare folosesc zona anual pentru popas.", "Pescarii Imraguen folosesc metode tradiționale, fără bărci cu motor.", "Apa este extrem de bogată în nutrienți datorită curentului Canarelor.", "Găzduiește cea mai mare colonie de foci călugăr din lume.", "Insula Arguin a fost un punct comercial important în secolul al XV-lea."],
       en: ["The Banc d'Arguin National Park covers about 12,000 square kilometers.", "Over two million migratory birds use the area annually for resting.", "The Imraguen fishermen use traditional methods without motorized boats.", "The waters are extremely nutrient-rich due to the Canary Current upwelling.", "It hosts one of the largest remaining populations of Mediterranean monk seals.", "Arguin Island was a major trading outpost as early as the 15th century."],
     },
+    image: "/poi-images/mauritania-banc-d-arguin-coast-relief-v2.webp",
   },
   {
     id: "mauritania-trarza-dunes-relief-v2",
@@ -341,6 +351,7 @@ export const mauritaniaReliefV2: POI[] = [
       ro: ["Rosso este cel mai important oraș de frontieră din regiunea Trarza, pe fluviul Senegal.", "Dunele se deplasează continuu spre sud-vest datorită derivei vântului.", "În depresiunile dintre dune se găsește adesea apă subterană la mică adâncime.", "Regiunea primește anual între 100 și 300 de milimetri de precipitații.", "Guma arabică a fost istoric un produs de export important din această zonă.", "Lanțurile de dune pot atinge înălțimi de până la 30 de metri."],
       en: ["Rosso is the primary border town in the Trarza region on the Senegal River.", "The dunes continuously migrate southwest due to prevailing wind patterns.", "Groundwater can often be found at shallow depths in the interdunal depressions.", "The region receives between 100 and 300 millimeters of annual rainfall.", "Gum arabic was historically a major export commodity from this area.", "The dune ridges can reach heights of up to 30 meters."],
     },
+    image: "/poi-images/mauritania-trarza-dunes-relief-v2.webp",
   },
   {
     id: "mauritania-brakna-plain-relief-v2",
@@ -372,6 +383,7 @@ export const mauritaniaReliefV2: POI[] = [
       ro: ["Aleg este capitala regiunii Brakna și un nod important de transport.", "Câmpia este cunoscută pentru cultivarea sorgului și a meiului.", "Lacurile sezoniere, numite 'mares', sunt vitale pentru animale.", "Regiunea aparține zonei Sahel, având un sezon ploios distinct.", "Istoric, Brakna a fost un emirat puternic în secolele XVIII și XIX.", "Temperaturile medii anuale sunt de aproximativ 29 de grade Celsius."],
       en: ["Aleg is the capital of the Brakna region and a major transport junction.", "The plain is well-known for the cultivation of sorghum and millet.", "Seasonal lakes, known as 'mares', are crucial for livestock watering.", "The region is part of the Sahel zone with a distinct rainy season.", "Historically, Brakna was a powerful emirate during the 18th and 19th centuries.", "Average annual temperatures in the plain are around 29 degrees Celsius."],
     },
+    image: "/poi-images/mauritania-brakna-plain-relief-v2.webp",
   },
   {
     id: "mauritania-gorgol-valley-relief-v2",
@@ -403,6 +415,7 @@ export const mauritaniaReliefV2: POI[] = [
       ro: ["Kaédi este cel mai mare oraș și centrul comercial al văii Gorgol.", "Barajul Foum Gleita reglează alimentarea cu apă pentru irigații.", "Orezul este principala cultură în zonele dezvoltate ale văii.", "Gorgol este un afluent major al fluviului Senegal.", "Regiunea are cea mai mare densitate a populației din mediul rural mauritan.", "Valea găzduiește o varietate de specii de păsări în zonele sale umede."],
       en: ["Kaédi is the largest city and the commercial center of the Gorgol Valley.", "The Foum Gleita dam regulates water supply for irrigation projects.", "Rice is the primary crop grown in the valley's developed areas.", "The Gorgol River is a major tributary of the Senegal River.", "The region has the highest rural population density in Mauritania.", "The valley hosts diverse bird species within its seasonal wetlands."],
     },
+    image: "/poi-images/mauritania-gorgol-valley-relief-v2.webp",
   },
   {
     id: "mauritania-assaba-hills-relief-v2",
@@ -434,6 +447,7 @@ export const mauritaniaReliefV2: POI[] = [
       ro: ["Kiffa este capitala regiunii Assaba și un important oraș de piață.", "Dealurile ating înălțimi de peste 400 de metri deasupra nivelului mării.", "În regiune se găsesc picturi rupestre preistorice în peșteri.", "„Pasul Kiffa” este o legătură rutieră dificilă din punct de vedere tehnic.", "Curmalii prosperă în văile protejate ale lanțului de dealuri.", "Precipitațiile sunt aici mai mari decât în nord, de aproximativ 350 mm."],
       en: ["Kiffa is the capital of the Assaba region and a major marketplace.", "The hills reach elevations of over 400 meters above sea level.", "Prehistoric rock paintings can be found in caves throughout the region.", "The 'Pass of Kiffa' is a technically challenging mountain road link.", "Date palms thrive in the sheltered valleys of the hill range.", "Annual rainfall is higher here than in the north, at around 350 mm."],
     },
+    image: "/poi-images/mauritania-assaba-hills-relief-v2.webp",
   },
   {
     id: "mauritania-guidimaka-plateau-relief-v2",
@@ -465,6 +479,7 @@ export const mauritaniaReliefV2: POI[] = [
       ro: ["Sélibaby este centrul administrativ al platoului Guidimaka.", "Regiunea primește cele mai mari cantități de precipitații din țară (până la 600 mm).", "Arborii baobab definesc peisajul acestei zone sudice.", "Este patria grupului etnic Soninké din Mauritania.", "Platoul este caracterizat de soluri lateritice de culoare roșiatică.", "Sezonul ploios durează aici din iunie până în octombrie."],
       en: ["Sélibaby is the administrative center of the Guidimaka Plateau.", "The region receives the highest rainfall in the country (up to 600 mm).", "Baobab trees are a distinctive feature of this southern landscape.", "It is the primary homeland of the Soninke ethnic group in Mauritania.", "The plateau is characterized by reddish-colored lateritic soils.", "The rainy season here lasts from June until October."],
     },
+    image: "/poi-images/mauritania-guidimaka-plateau-relief-v2.webp",
   },
   {
     id: "mauritania-dhar-nema-relief-v2",
@@ -496,6 +511,7 @@ export const mauritaniaReliefV2: POI[] = [
       ro: ["Nema este capitala regiunii Hodh Ech Chargui, situată la poalele Dhar-ului.", "Creasta formează o cumpănă importantă de ape în această regiune aridă.", "În apropiere se află ruinele orașului Kumbi Saleh, capitala Imperiului Ghana.", "Straturile de gresie datează din era paleozoică.", "Este o zonă importantă de refugiu pentru nomazi în timpul sezonului secetos.", "Dhar-ul atinge diferențe de nivel de aproximativ 100 până la 150 de metri."],
       en: ["Nema is the capital of the Hodh Ech Chargui region at the foot of the Dhar.", "The escarpment forms a significant watershed in this arid region.", "The ruins of Kumbi Saleh, the ancient Ghana Empire capital, are nearby.", "The sandstone layers date back to the Paleozoic era.", "It is a key sanctuary area for nomads during the dry season.", "The Dhar rises approximately 100 to 150 meters above the surrounding plain."],
     },
+    image: "/poi-images/mauritania-dhar-nema-relief-v2.webp",
   },
   {
     id: "mauritania-adrar-dunes-relief-v2",
@@ -527,6 +543,7 @@ export const mauritaniaReliefV2: POI[] = [
       ro: ["Atar este poarta către Adrar și cel mai important centru turistic.", "Oaza Chinguetti face parte din Patrimoniul Mondial UNESCO.", "Erg Amatlich se întinde pe o lungime de peste 200 de kilometri.", "Aici se găsesc faimoase pasuri printre dune, precum cel de la Terjit.", "Regiunea este cunoscută pentru curmalele de Adrar de înaltă calitate.", "Dunele ating aici adesea înălțimi de peste 100 de metri."],
       en: ["Atar is the gateway to the Adrar and the primary tourist hub.", "The oasis of Chinguetti is a recognized UNESCO World Heritage site.", "The Erg Amatlich sand sea extends over 200 kilometers in length.", "The region features famous dune passes, such as the one at Terjit.", "Adrar is renowned for producing high-quality desert dates.", "Sand dunes in this region often reach heights exceeding 100 meters."],
     },
+    image: "/poi-images/mauritania-adrar-dunes-relief-v2.webp",
   },
   {
     id: "mauritania-tiris-zemmour-relief-v2",
@@ -558,6 +575,7 @@ export const mauritaniaReliefV2: POI[] = [
       ro: ["Zouérat este centrul industriei minereului de fier din Mauritania.", "Regiunea găzduiește marginile „Structurii Richat” (Ochiul Saharei).", "Aici circulă cel mai greu și mai lung tren de minereu din lume.", "Temperaturile scad adesea până la punctul de îngheț noaptea în timpul iernii.", "Foum Tizigui este un defileu proeminent situat în acest platou.", "Nu există aproape deloc vegetație permanentă în afara micilor bazine stâncoase."],
       en: ["Zouérat is the hub of Mauritania's vital iron ore mining industry.", "The region lies near the famous 'Richat Structure' (Eye of the Sahara).", "It is home to the world's heaviest and longest iron ore train.", "Nighttime temperatures often drop to freezing during the winter months.", "Foum Tizigui is a prominent and rugged canyon within the plateau.", "Permanent vegetation is almost non-existent except around small rock pools."],
     },
+    image: "/poi-images/mauritania-tiris-zemmour-relief-v2.webp",
   },
   {
     id: "mauritania-tagant-escarpment-relief-v2",
@@ -589,6 +607,7 @@ export const mauritaniaReliefV2: POI[] = [
       ro: ["Tidjikja este capitala regiunii Tagant, faimoasă pentru curmalele sale.", "Guelta d'Matmata găzduiește crocodili de deșert rari.", "Pereții abrupți ating înălțimi de până la 500 de metri.", "Aici s-a aflat Tichitt, un oraș antic al comerțului trans-saharian.", "Platoul este compus din straturi de gresie precambriană.", "Regiunea este renumită pentru arhitectura sa tradițională mauritană."],
       en: ["Tidjikja is the capital of the Tagant region, famous for its date palms.", "The Guelta d'Matmata is known for housing rare desert crocodiles.", "The escarpment cliffs reach elevations of up to 500 meters.", "Tichitt, an ancient trans-Saharan trading town, is located here.", "The plateau is geologically composed of Precambrian sandstone layers.", "The region is renowned for its distinctive traditional Mauritanian architecture."],
     },
+    image: "/poi-images/mauritania-tagant-escarpment-relief-v2.webp",
   },
   {
     id: "mauritania-aouker-dunes-relief-v2",
@@ -620,6 +639,7 @@ export const mauritaniaReliefV2: POI[] = [
       ro: ["Fostul lac avea o suprafață de peste 10.000 km²", "Bazinul se află la o altitudine medie de 200 de metri", "Este situat între podișul Adrar și regiunea Tagant", "Descoperirile arheologice atestă prezența umană de acum 4.000 de ani", "Dunele sunt compuse în principal din nisip fin cuaternar", "Regiunea este astăzi aproape complet nelocuită și extrem de aridă"],
       en: ["The former lake covered an area of over 10,000 km²", "The basin lies at an average elevation of 200 meters", "It is located between the Adrar Plateau and the Tagant region", "Archaeological finds prove human habitation 4,000 years ago", "The dunes consist mainly of fine Quaternary sand", "The region is now almost completely uninhabited and extremely dry"],
     },
+    image: "/poi-images/mauritania-aouker-dunes-relief-v2.webp",
   },
   {
     id: "mauritania-tidjikja-valley-relief-v2",
@@ -651,6 +671,7 @@ export const mauritaniaReliefV2: POI[] = [
       ro: ["Orașul Tidjikja a fost fondat în anul 1660", "Valea adăpostește peste 50.000 de curmali", "Se află la o altitudine de aproximativ 380 de metri deasupra mării", "Regiunea este un centru al producției de curmale din Mauritania", "Climatul este marcat de variații extreme de temperatură", "În apropiere se găsesc picturi rupestre preistorice"],
       en: ["The town of Tidjikja was founded in 1660", "The valley is home to over 50,000 date palms", "It lies at an altitude of approximately 380 meters above sea level", "The region is a center of Mauritanian date production", "The climate is characterized by extreme temperature fluctuations", "Prehistoric rock paintings are located in the vicinity"],
     },
+    image: "/poi-images/mauritania-tidjikja-valley-relief-v2.webp",
   },
   {
     id: "mauritania-guir-plateau-relief-v2",
@@ -682,6 +703,7 @@ export const mauritaniaReliefV2: POI[] = [
       ro: ["Podișul este compus în principal din gresie devoniană", "Altitudinea medie este între 400 și 500 de metri", "Face parte din platoul mai mare Adrar", "Fosile de trilobiți au fost găsite în straturile de rocă", "Precipitațiile anuale sunt adesea sub 50 mm", "Oaze importante sunt situate la marginile podișului"],
       en: ["The plateau consists mainly of Devonian sandstone", "The average elevation is between 400 and 500 meters", "It is part of the larger Adrar highland", "Fossils of trilobites have been found in the rock layers", "Annual rainfall is often below 50 mm", "Important oases are located at the edges of the plateau"],
     },
+    image: "/poi-images/mauritania-guir-plateau-relief-v2.webp",
   },
   {
     id: "mauritania-zini-hills-relief-v2",
@@ -713,5 +735,6 @@ export const mauritaniaReliefV2: POI[] = [
       ro: ["Dealurile ating înălțimi de până la 450 de metri", "Formațiunea are o orientare nord-est-sud-vest", "Roca este compusă în principal din șisturi metamorfice", "Regiunea este bogată în zăcăminte de minereu de fier", "Predomină un climat deșertic extrem cu vânturi puternice", "Unelte de piatră neolitice au fost găsite în împrejurimi"],
       en: ["The hills reach elevations of up to 450 meters", "The formation runs in a northeast-southwest direction", "The rock consists predominantly of metamorphic schists", "The region is rich in iron ore deposits", "An extreme desert climate with strong winds prevails", "Neolithic stone tools have been found in the area"],
     },
+    image: "/poi-images/mauritania-zini-hills-relief-v2.webp",
   }
 ];

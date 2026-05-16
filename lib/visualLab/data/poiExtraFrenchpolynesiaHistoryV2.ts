@@ -31,6 +31,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Platforma: 25 x 12 m.", "Restaurare în 1954 de Paul-Émile Roux.", "Dedicat zeului 'Oro.", "Clasat monument istoric în 2010.", "20.000 de vizitatori anual.", "Muzeu pe sit."],
       en: ["Only 10% of stones were replaced during restoration.", "Built by chief Arahurahu according to oral tradition.", "Part of a network of sacred sites on Tahiti.", "On-site museum opened in 1960.", "Visitors must follow strict conduct rules.", "Used for cultural festivals annually."],
     },
+    image: "/poi-images/frenchpolynesia-marae-arahurahu-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-taputapuatea-history-v2",
@@ -62,6 +63,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["UNESCO din 2017.", "Platforma: 100 x 80 m.", "Datare: secolul IX.", "Restaurare 1990-2000.", "Muzeu cu artefacte.", "Festival anual."],
       en: ["First built in the 9th century AD.", "Served as a hub for Polynesian navigators.", "Aligns with the rising sun.", "Double-hulled canoe launched in 1995.", "Managed by local community.", "Rituals and dances performed regularly."],
     },
+    image: "/poi-images/frenchpolynesia-marae-taputapuatea-history-v2.webp",
   },
   {
     id: "frenchpolynesia-point-venus-history-v2",
@@ -93,6 +95,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Far din 1867, 25 m înălțime.", "Muzeu dedicat expediției Cook.", "100.000 vizitatori anual.", "Placă comemorativă pentru observator.", "Statuia lui Cook.", "Restaurări în 1990 și 2021."],
       en: ["Leonce Reynaud designed lighthouse.", "First missionaries landed here in 1797.", "Cultural center opened in 2015.", "Protected area under French Polynesian law.", "Basalt sand beach from volcanic erosion.", "Panoramic view of Moorea."],
     },
+    image: "/poi-images/frenchpolynesia-point-venus-history-v2.webp",
   },
   {
     id: "frenchpolynesia-pomare-v-tomb-history-v2",
@@ -124,6 +127,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Domnie: 1877-1880.", "Decedat în 1891 la 51 de ani.", "Construit din beton alb, acoperiș piramidal.", "Restaurat în 2000.", "Proprietate privată, acces limitat.", "În apropiere: ruine palat regal."],
       en: ["Last king of Tahiti, ceded sovereignty in 1880.", "Tomb reflects Christian and Tahitian styles.", "Vandalized in 1995, repaired shortly after.", "Maintained by royal descendants.", "Ruins of palace destroyed by fire nearby.", "Potential government purchase for public access."],
     },
+    image: "/poi-images/frenchpolynesia-pomare-v-tomb-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-taata-history-v2",
@@ -155,6 +159,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Datare: secolul XVI.", "Restaurare în anii 1970.", "Unelte din scoici și ceramică descoperite.", "Vedere spre golful Cook.", "Acces liber.", "Parte a unui traseu de patrimoniu."],
       en: ["Family shrine for ancestral worship.", "Oriented east towards sunrise.", "Abandoned after early 19th century Christianization.", "Rediscovered in 1960s.", "No modern additions in restoration.", "Part of a heritage trail."],
     },
+    image: "/poi-images/frenchpolynesia-marae-taata-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-mahaiatea-history-v2",
@@ -186,6 +191,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Baza piramidei de piatră măsura aproximativ 81 pe 22 de metri.", "Structura originală avea o înălțime de circa 14 metri.", "Căpitanul James Cook a descris monumentul în detaliu în anul 1769.", "A fost construit folosind blocuri de coral șlefuite și pietre vulcanice.", "Multe dintre pietrele sale au fost folosite ulterior ca material de construcție.", "Construcția sa a simbolizat pretențiile de supremație ale reginei Purea."],
       en: ["The base of the stone pyramid measured approximately 81 by 22 meters.", "The pyramid originally stood at a height of about 14 meters.", "Captain James Cook provided a detailed description of the site in 1769.", "It was constructed with finely cut coral blocks and basalt stones.", "In the 19th century, much of the stone was repurposed for bridges and roads.", "The marae's construction triggered significant inter-clan warfare on Tahiti."],
     },
+    image: "/poi-images/frenchpolynesia-marae-mahaiatea-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-titiroa-history-v2",
@@ -217,6 +223,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Marae-ul este un punct central pe traseul arheologic din Moorea.", "A fost restaurat sub supravegherea arheologului Kenneth Emory în 1960.", "Platformele de piatră sunt construite din bazalt local neprelucrat.", "Pietrele verticale indicau rangul persoanelor în timpul adunărilor.", "Situl este umbrit de arbori banyan gigantici și castani polinezieni.", "Face parte dintr-un complex care includea locuințe și locuri de cult."],
       en: ["The marae is a highlight of the Opunohu Valley archaeological trail.", "It was carefully restored by archaeologist Kenneth Emory in the 1960s.", "The stone platforms served as the sacred base for wooden structures.", "Upright stones served as ceremonial backrests for high-ranking chiefs.", "The site is surrounded by massive banyan trees and Tahitian chestnuts.", "Over 100 other archaeological remains are scattered in the immediate vicinity."],
     },
+    image: "/poi-images/frenchpolynesia-marae-titiroa-history-v2.webp",
   },
   {
     id: "frenchpolynesia-protestant-church-papetoai-history-v2",
@@ -248,6 +255,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Structura actuală din piatră a fost finalizată în anul 1827.", "Se află pe amplasamentul fostului Marae Taputapuatea din Moorea.", "Regele Pomare al II-lea a fost botezat în apropierea acestui loc.", "Arhitectura octogonală este rară în Polinezia Franceză.", "Interiorul bisericii păstrează un tavan din lemn sculptat tradițional.", "Este considerată leagănul protestantismului în Arhipelagul Societății."],
       en: ["The current stone structure of the church was completed in 1827.", "It was built directly atop the remains of the island's most sacred marae.", "King Pomare II of Tahiti was a key supporter of the mission here.", "The octagonal design is a hallmark of early missionary architecture in the area.", "Memorial plaques inside honor the first missionaries to arrive on Moorea.", "The church is located in the historic village of Papetoai near Cook's Bay."],
     },
+    image: "/poi-images/frenchpolynesia-protestant-church-papetoai-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-anini-history-v2",
@@ -279,6 +287,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Construit în secolul al XV-lea", "Suprafață de aproximativ 500 de metri pătrați", "Format din 12 platforme de piatră", "Înălțimea platformei principale: 1,5 metri", "Conține 3 altare din bazalt", "Situat la 200 de metri de coastă"],
       en: ["Built in the 15th century", "Area of about 500 square meters", "Consists of 12 stone platforms", "Height of main platform: 1.5 meters", "Contains 3 basalt altars", "Located 200 meters from the coast"],
     },
+    image: "/poi-images/frenchpolynesia-marae-anini-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-manunu-history-v2",
@@ -310,6 +319,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Construit în secolul al XVI-lea", "Dimensiunea platformei principale: 30 x 15 metri", "Blocuri de coral de până la 1 tonă", "Număr de altare: 5", "Înălțimea platformei: 2 metri", "Situat la 100 de metri de mare"],
       en: ["Built in the 16th century", "Main platform size: 30 by 15 meters", "Coral blocks weighing up to 1 ton", "Number of altars: 5", "Platform height: 2 meters", "Located 100 meters from the sea"],
     },
+    image: "/poi-images/frenchpolynesia-marae-manunu-history-v2.webp",
   },
   {
     id: "frenchpolynesia-faahia-site-history-v2",
@@ -341,6 +351,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Locuit în jurul anului 850 d.Hr.", "Suprafața săpăturilor: 2 hectare", "Număr de fundații de case dezgropate: 8", "Cele mai vechi dovezi de cultivare a taro-ului: în jurul anului 900 d.Hr.", "Resturi de pești din 30 de specii găsite", "Datare bazată pe analize cu carbon-14"],
       en: ["Inhabited around 850 AD", "Excavation area: 2 hectares", "Number of house foundations uncovered: 8", "Earliest taro cultivation evidence: around 900 AD", "Fish remains from 30 species found", "Dating based on carbon-14 analysis"],
     },
+    image: "/poi-images/frenchpolynesia-faahia-site-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-marotetini-history-v2",
@@ -372,6 +383,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Dedicat zeului 'Oro", "Dimensiunea platformei: 40 x 20 de metri", "Placată cu blocuri de coral", "Înălțimea platformei: 3 metri", "Construit în secolul al XVII-lea", "Situat în districtul Papara"],
       en: ["Dedicated to god 'Oro", "Platform size: 40 by 20 meters", "Faced with coral blocks", "Platform height: 3 meters", "Built in the 17th century", "Located in Papara district"],
     },
+    image: "/poi-images/frenchpolynesia-marae-marotetini-history-v2.webp",
   },
   {
     id: "frenchpolynesia-wwii-cannons-bora-bora-history-v2",
@@ -403,6 +415,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Instalate în 1942", "Calibrul tunurilor: 127 mm", "Număr de tunuri: 4", "Înălțimea poziției: 150 de metri deasupra mării", "Rază de acțiune: 15 kilometri", "Buncăre din beton armat cu pereți de 1 metru grosime"],
       en: ["Installed in 1942", "Cannon caliber: 127 mm", "Number of guns: 4", "Elevation of position: 150 meters above sea level", "Range: 15 kilometers", "Bunkers of reinforced concrete with walls 1 meter thick"],
     },
+    image: "/poi-images/frenchpolynesia-wwii-cannons-bora-bora-history-v2.webp",
   },
   {
     id: "frenchpolynesia-tohua-kamuihei-history-v2",
@@ -434,6 +447,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Construit în secolul al XIX-lea", "Dimensiunea platformei: 60 x 30 de metri", "Număr de rânduri de șezut: 8", "Înălțimea platformei: 1,2 metri", "Capacitate: până la 1000 de persoane", "Restaurat în 1995"],
       en: ["Built in the 19th century", "Platform size: 60 by 30 meters", "Number of seating rows: 8", "Platform height: 1.2 meters", "Capacity: up to 1000 people", "Restored in 1995"],
     },
+    image: "/poi-images/frenchpolynesia-tohua-kamuihei-history-v2.webp",
   },
   {
     id: "frenchpolynesia-meae-ipona-history-v2",
@@ -465,6 +479,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Datat din secolul al XVII-lea", "Număr de terase: 6", "Înălțimea platformei principale: 2,5 metri", "Suprafață: 800 de metri pătrați", "Conține rămășițele a 12 persoane îngropate", "Blocuri de piatră cu greutatea de până la 500 kg"],
       en: ["Dated to the 17th century", "Number of terraces: 6", "Height of main platform: 2.5 meters", "Area: 800 square meters", "Contains remains of 12 buried individuals", "Stone blocks weigh up to 500 kg"],
     },
+    image: "/poi-images/frenchpolynesia-meae-ipona-history-v2.webp",
   },
   {
     id: "frenchpolynesia-calvary-cemetery-atuona-history-v2",
@@ -496,6 +511,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Înființat în secolul al XIX-lea", "Suprafață: 1,5 hectare", "Număr de morminte: peste 200", "Mormântul lui Paul Gauguin: decedat în 1903", "Mormântul lui Jacques Brel: decedat în 1978", "Altitudine: 50 de metri deasupra mării"],
       en: ["Established in the 19th century", "Area: 1.5 hectares", "Number of graves: over 200", "Grave of Paul Gauguin: died 1903", "Grave of Jacques Brel: died 1978", "Elevation: 50 meters above sea level"],
     },
+    image: "/poi-images/frenchpolynesia-calvary-cemetery-atuona-history-v2.webp",
   },
   {
     id: "frenchpolynesia-st-michaels-cathedral-rikitea-history-v2",
@@ -527,6 +543,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Construită în 1838", "Material: blocuri de coral", "Lungime: 40 de metri", "Lățime: 15 metri", "Înălțimea turnului: 25 de metri", "Locuri: 300"],
       en: ["Built in 1838", "Material: coral blocks", "Length: 40 meters", "Width: 15 meters", "Tower height: 25 meters", "Seating capacity: 300"],
     },
+    image: "/poi-images/frenchpolynesia-st-michaels-cathedral-rikitea-history-v2.webp",
   },
   {
     id: "frenchpolynesia-kings-palace-ruins-rikitea-history-v2",
@@ -558,6 +575,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Construit pentru regele Maputeoa (domnie 1830-1850)", "Material: piatră de coral", "Suprafața incintei palatului: 0,5 hectare", "Număr de încăperi păstrate: 8", "Părăsirea palatului: 1880 după anexare", "Înălțimea zidurilor ruinelor: până la 3 metri"],
       en: ["Built for King Maputeoa (r. 1830-1850)", "Material: coral stone", "Palace grounds area: 0.5 hectares", "Number of preserved rooms: 8", "Abandonment of palace: 1880 after annexation", "Height of ruin walls: up to 3 meters"],
     },
+    image: "/poi-images/frenchpolynesia-kings-palace-ruins-rikitea-history-v2.webp",
   },
   {
     id: "frenchpolynesia-fort-of-taravao-history-v2",
@@ -589,6 +607,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Construit în 1844", "Grosimea zidurilor: 1,5 metri", "Înălțimea zidurilor: 4 metri", "Suprafață: 0,3 hectare", "Capacitatea închisorii: 50 de persoane", "Restaurat în 1970"],
       en: ["Built in 1844", "Wall thickness: 1.5 meters", "Wall height: 4 meters", "Area: 0.3 hectares", "Prison capacity: 50 persons", "Restored in 1970"],
     },
+    image: "/poi-images/frenchpolynesia-fort-of-taravao-history-v2.webp",
   },
   {
     id: "frenchpolynesia-james-norman-hall-home-history-v2",
@@ -620,6 +639,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Construită în 1935", "Suprafață locuibilă: 120 de metri pătrați", "Număr de camere: 4", "Dimensiunea terenului: 0,2 hectare", "Muzeu din 1973", "Vizitatori anual: 5000"],
       en: ["Built in 1935", "Living area: 120 square meters", "Number of rooms: 4", "Lot size: 0.2 hectares", "Museum since 1973", "Annual visitors: 5000"],
     },
+    image: "/poi-images/frenchpolynesia-james-norman-hall-home-history-v2.webp",
   },
   {
     id: "frenchpolynesia-museum-of-tahiti-history-v2",
@@ -651,6 +671,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Fondat în 1971", "Suprafață expozițională: 1800 de metri pătrați", "Număr de exponate: peste 50.000", "Suprafața grădinii: 1 hectar", "Vizitatori anual: 40.000", "Lungimea replicii canoe: 15 metri"],
       en: ["Founded in 1971", "Exhibition area: 1800 square meters", "Number of exhibits: over 50,000", "Garden area: 1 hectare", "Annual visitors: 40,000", "Length of canoe replica: 15 meters"],
     },
+    image: "/poi-images/frenchpolynesia-museum-of-tahiti-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-nuupure-history-v2",
@@ -682,6 +703,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Construit în secolul al XVI-lea", "Lungimea platformei: 12 metri", "Lățime: 8 metri", "Înălțime: 1 metru", "Înălțimea altarului: 1,5 metri", "Situat în districtul Opoa"],
       en: ["Built in the 16th century", "Platform length: 12 meters", "Width: 8 meters", "Height: 1 meter", "Altar height: 1.5 meters", "Located in Opoa district"],
     },
+    image: "/poi-images/frenchpolynesia-marae-nuupure-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-tainuu-history-v2",
@@ -713,6 +735,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Construit în secolul al XVII-lea", "Dimensiunea platformei: 25 x 18 metri", "Înălțimea platformei: 2 metri", "Număr de altare: 4", "Material: piatră de coral", "Distanța până la coastă: 50 de metri"],
       en: ["Built in the 17th century", "Platform size: 25 by 18 meters", "Platform height: 2 meters", "Number of altars: 4", "Material: coral stone", "Distance to coast: 50 meters"],
     },
+    image: "/poi-images/frenchpolynesia-marae-tainuu-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-umarea-history-v2",
@@ -744,6 +767,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Construit în secolul al XVI-lea", "Dimensiunea platformei: 20 x 15 metri", "Înălțime: 1,8 metri", "Număr de petroglife: 6", "Material: bazalt", "Altitudine: 80 de metri deasupra mării"],
       en: ["Built in the 16th century", "Platform size: 20 by 15 meters", "Height: 1.8 meters", "Number of petroglyphs: 6", "Material: basalt", "Elevation: 80 meters above sea level"],
     },
+    image: "/poi-images/frenchpolynesia-marae-umarea-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-fare-opu-history-v2",
@@ -775,6 +799,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Construit în secolul al XVIII-lea", "Înălțimea altarului: 1,2 metri", "Suprafața sălii acoperite: 100 de metri pătrați", "Număr de gropi de stâlpi: 12", "Distanța până la lagună: 30 de metri", "Materialul altarului: piatră de coral"],
       en: ["Built in the 18th century", "Altar height: 1.2 meters", "Area of covered hall: 100 square meters", "Number of post holes: 12", "Distance to lagoon: 30 meters", "Altar material: coral stone"],
     },
+    image: "/poi-images/frenchpolynesia-marae-fare-opu-history-v2.webp",
   },
   {
     id: "frenchpolynesia-paeke-archaeological-site-history-v2",
@@ -806,6 +831,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Locuit începând cu secolul al X-lea", "Suprafață: 3 hectare", "Număr de platforme locative: 15", "Număr de statui Tiki: 8", "Înălțimea celui mai mare Tiki: 1,5 metri", "Săpăturile au început în 1920"],
       en: ["Inhabited from the 10th century", "Area: 3 hectares", "Number of residential platforms: 15", "Number of Tiki statues: 8", "Height of largest Tiki: 1.5 meters", "Excavations began in 1920"],
     },
+    image: "/poi-images/frenchpolynesia-paeke-archaeological-site-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-matairea-ahi-history-v2",
@@ -837,6 +863,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Construit în secolul al XVI-lea", "Diametrul platformei: 10 metri", "Diametrul vetrei: 1 metru", "Număr de straturi de cenușă: 5", "Altitudine: 200 de metri deasupra mării", "Material: piatră vulcanică"],
       en: ["Built in the 16th century", "Platform diameter: 10 meters", "Hearth diameter: 1 meter", "Number of ash layers: 5", "Elevation: 200 meters above sea level", "Material: volcanic stone"],
     },
+    image: "/poi-images/frenchpolynesia-marae-matairea-ahi-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-hauviri-history-v2",
@@ -868,6 +895,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Construit în secolul al XIII-lea", "Înălțimea terasei principale: 3 metri", "Lungimea blocurilor de piatră: până la 4 metri", "Greutatea blocurilor: până la 3 tone", "Suprafață: 0,5 hectare", "Număr de terase: 3"],
       en: ["Built in the 13th century", "Main terrace height: 3 meters", "Length of stone blocks: up to 4 meters", "Weight of blocks: up to 3 tons", "Area: 0.5 hectares", "Number of terraces: 3"],
     },
+    image: "/poi-images/frenchpolynesia-marae-hauviri-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-tefano-history-v2",
@@ -899,6 +927,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Datat din secolul al XIII-lea", "Platforma are 20 de metri lungime și 15 metri lățime", "Patru pietre verticale de până la 2,5 metri", "Săpături arheologice în 1982", "Altitudine: 10 metri deasupra nivelului mării", "Timp estimat de construcție: 50 de ani"],
       en: ["Built in the 13th century", "Platform measures 20 x 15 meters", "Features 4 upright stones up to 2.5 meters in height", "First excavation in 1982", "Elevation: 10 meters above sea level", "Estimated construction time: 50 years"],
     },
+    image: "/poi-images/frenchpolynesia-marae-tefano-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-nuurua-history-v2",
@@ -930,6 +959,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Construit în secolul al XIV-lea", "Platformă înălțime: 3 metri", "50 de petroglife documentate", "Restaurare finalizată în 1995", "Suprafață: 0,5 hectare", "Distanța până la cea mai apropiată așezare: 2 km"],
       en: ["Built in the 14th century", "Platform height: 3 meters", "50 documented petroglyphs", "Restoration completed in 1995", "Area: 0.5 hectares", "Distance to nearest settlement: 2 km"],
     },
+    image: "/poi-images/frenchpolynesia-marae-nuurua-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-hitiaa-history-v2",
@@ -961,6 +991,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Construit în secolul al XV-lea", "Platforma principală: 30 x 10 metri", "Două platforme secundare: 10 x 5 metri", "Terasa cea mai înaltă: 2 metri deasupra solului", "Timp estimat de construcție: 30 de ani", "Număr de morminte descoperite: 4"],
       en: ["Built in the 15th century", "Main platform: 30 x 10 meters", "Two secondary platforms: 10 x 5 meters", "Highest terrace: 2 meters above ground", "Estimated construction time: 30 years", "Number of discovered tombs: 4"],
     },
+    image: "/poi-images/frenchpolynesia-marae-hitiaa-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-rahuru-history-v2",
@@ -992,6 +1023,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Construit în secolul al XVI-lea", "Piatra altar: 3 x 2 metri", "12 pietre de ședere", "Platformă: 25 x 18 metri", "Pietre verticale de până la 2 metri", "Prima documentare: 1842"],
       en: ["Built in the 16th century", "Altar stone: 3 x 2 meters", "Number of seat stones: 12", "Platform size: 25 x 18 meters", "Height of upright stones: up to 2 meters", "First documentation: 1842"],
     },
+    image: "/poi-images/frenchpolynesia-marae-rahuru-history-v2.webp",
   },
   {
     id: "frenchpolynesia-tohua-koueva-history-v2",
@@ -1023,6 +1055,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Construit în secolul al XVII-lea", "Diametru: 40 de metri", "5 rânduri de scaune", "Platforma oratorului: 1,5 metri înălțime", "Extindere în secolul al XVIII-lea", "Distanța până la plajă: 500 de metri"],
       en: ["Built in the 17th century", "Diameter: 40 meters", "Number of seating rows: 5", "Speaker platform height: 1.5 meters", "Expansion in the 18th century", "Distance to beach: 500 meters"],
     },
+    image: "/poi-images/frenchpolynesia-tohua-koueva-history-v2.webp",
   },
   {
     id: "frenchpolynesia-tohua-hikokua-history-v2",
@@ -1054,6 +1087,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Construit în secolul al XVI-lea", "Diametru: 60 de metri", "Capacitate: 500 de persoane", "8 rânduri de scaune", "Înălțimea treptelor: până la 2 metri", "Extindere în 1750"],
       en: ["Built in the 16th century", "Diameter: 60 meters", "Capacity: 500 people", "Number of seating rows: 8", "Height of seating tiers: up to 2 meters", "Expansion in 1750"],
     },
+    image: "/poi-images/frenchpolynesia-tohua-hikokua-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-vaiotaha-history-v2",
@@ -1085,6 +1119,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Construit în jurul anului 1600", "Platformă: 15 x 8 metri", "Înălțime: 1,5 metri", "Dedicat zeului războiului 'Oro", "Lungimea râului din apropiere: 5 km", "Număr de cochilii ofrandă: 200"],
       en: ["Built around 1600", "Platform size: 15 x 8 meters", "Height: 1.5 meters", "Dedicated to war god 'Oro", "Length of nearby river: 5 km", "Number of offering shells found: 200"],
     },
+    image: "/poi-images/frenchpolynesia-marae-vaiotaha-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-arahurahu-museum-history-v2",
@@ -1116,6 +1151,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Construit în 1955", "Suprafață: 1,5 hectare", "Număr de platforme: 5", "Înălțimea altarului principal: 2 metri", "Vizitatori anuali: 50.000", "Preț bilet: 10 euro"],
       en: ["Built in 1955", "Area: 1.5 hectares", "Number of platforms: 5", "Height of main altar: 2 meters", "Annual visitors: 50,000", "Entry fee: 10 euros"],
     },
+    image: "/poi-images/frenchpolynesia-marae-arahurahu-museum-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-oroae-history-v2",
@@ -1147,6 +1183,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Construit în jurul anului 1620", "Platformă principală: 18 x 12 metri", "Înălțimea altarului: 1 metru", "Număr de platforme secundare: 3", "Suprafața lagunei: 2 km²", "Adâncimea lagunei: 3 metri"],
       en: ["Built around 1620", "Main platform: 18 x 12 meters", "Altar height: 1 meter", "Number of secondary platforms: 3", "Lagoon area: 2 km²", "Lagoon depth: 3 meters"],
     },
+    image: "/poi-images/frenchpolynesia-marae-oroae-history-v2.webp",
   },
   {
     id: "frenchpolynesia-tohua-pehekua-history-v2",
@@ -1178,6 +1215,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Construit în secolul al XVI-lea", "Suprafață: 0,8 hectare", "Diametru pavaj: 30 de metri", "Număr de trepte: 4", "Înălțimea platformei de dans: 1,2 metri", "Distanța până la golf: 1 km"],
       en: ["Built in the 16th century", "Area: 0.8 hectares", "Paved diameter: 30 meters", "Number of seating rows: 4", "Dance platform height: 1.2 meters", "Distance to bay: 1 km"],
     },
+    image: "/poi-images/frenchpolynesia-tohua-pehekua-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-opoa-history-v2",
@@ -1209,6 +1247,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Construit în jurul anului 1300", "Platformă: 40 x 20 metri", "Înălțime: 3 metri", "Număr de extinderi: 3", "Suprafață: 2 hectare", "Distanța până la râu: 500 de metri"],
       en: ["Built around 1300", "Platform size: 40 x 20 meters", "Height: 3 meters", "Number of expansions: 3", "Area: 2 hectares", "Distance to river: 500 meters"],
     },
+    image: "/poi-images/frenchpolynesia-marae-opoa-history-v2.webp",
   },
   {
     id: "frenchpolynesia-pofatuuraa-fort-history-v2",
@@ -1240,6 +1279,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Construit în secolul al XVI-lea", "Înălțimea zidurilor: până la 5 metri", "Perimetru: 200 de metri", "Suprafață: 0,3 hectare", "Efort de construcție estimat: 10.000 de zile-om", "Număr de platforme: 8"],
       en: ["Built in the 16th century", "Wall height: up to 5 meters", "Perimeter of walls: 200 meters", "Area: 0.3 hectares", "Estimated construction effort: 10,000 man-days", "Number of platforms: 8"],
     },
+    image: "/poi-images/frenchpolynesia-pofatuuraa-fort-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-arituitui-history-v2",
@@ -1271,6 +1311,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Construit în secolul al XV-lea", "Înălțimea pietrei verticale: 1,8 metri", "Platformă: 5 x 4 metri", "Suprafață: 100 m²", "Număr de terase: 3", "Distanța până la cel mai apropiat sat: 3 km"],
       en: ["Built in the 15th century", "Height of upright stone: 1.8 meters", "Platform size: 5 x 4 meters", "Area: 100 m²", "Number of terraces: 3", "Distance to nearest village: 3 km"],
     },
+    image: "/poi-images/frenchpolynesia-marae-arituitui-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-taianapa-history-v2",
@@ -1302,6 +1343,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Construit în jurul anului 1100", "Platformă: 8 x 6 metri", "Înălțime: 1 metru", "Număr de restaurări: 2", "Înălțimea dealului: 50 de metri deasupra mării", "Distanța până la coastă: 1 km"],
       en: ["Built around 1100", "Platform size: 8 x 6 meters", "Height: 1 meter", "Number of restorations: 2", "Hill elevation: 50 meters above sea", "Distance to coast: 1 km"],
     },
+    image: "/poi-images/frenchpolynesia-marae-taianapa-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-ohuu-history-v2",
@@ -1333,6 +1375,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Construit în secolul al XVII-lea", "Platformă: 12 x 9 metri", "Înălțime: 1,2 metri", "Greutatea blocurilor de corali: până la 50 kg", "Număr de iazuri cu pești: 3", "Adâncimea lagunei: 2 metri"],
       en: ["Built in the 17th century", "Platform size: 12 x 9 meters", "Height: 1.2 meters", "Weight of coral blocks: up to 50 kg", "Number of fish ponds: 3", "Lagoon depth: 2 meters"],
     },
+    image: "/poi-images/frenchpolynesia-marae-ohuu-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-haapiti-history-v2",
@@ -1364,6 +1407,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Construit în secolul al XVI-lea", "Platformă principală: 20 x 15 metri", "Număr de pietre verticale: 6", "Înălțimea celei mai mari pietre: 2,2 metri", "Restaurare în 2005", "Distanța până la izvor: 200 de metri"],
       en: ["Built in the 16th century", "Main platform: 20 x 15 meters", "Number of upright stones: 6", "Height of largest stone: 2.2 meters", "Restoration in 2005", "Distance to spring: 200 meters"],
     },
+    image: "/poi-images/frenchpolynesia-marae-haapiti-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-ati-tahito-history-v2",
@@ -1395,6 +1439,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Construit în jurul anului 1400", "Platformă: 25 x 12 metri", "Număr de rânduri de pietre: 4", "Înălțimea platformei: 1,5 metri", "Număr de petroglife: 10", "Distanța până la vulcan: 5 km"],
       en: ["Built around 1400", "Platform size: 25 x 12 meters", "Number of stone rows: 4", "Platform height: 1.5 meters", "Number of petroglyphs: 10", "Distance to volcano: 5 km"],
     },
+    image: "/poi-images/frenchpolynesia-marae-ati-tahito-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-orohiti-history-v2",
@@ -1426,6 +1471,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Construit în secolul al XVI-lea", "Platformă: 30 x 20 de metri", "Greutatea altarului: 4 tone", "Înălțimea stâncii: 30 de metri", "Număr estimat de sacrificii umane: 5", "Restaurare în 1994"],
       en: ["Built in the 16th century", "Platform size: 30 x 20 meters", "Weight of altar stone: 4 tons", "Cliff height: 30 meters", "Estimated number of human sacrifices: 5", "Restoration in 1994"],
     },
+    image: "/poi-images/frenchpolynesia-marae-orohiti-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-faremiro-history-v2",
@@ -1457,6 +1503,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Construit în secolul al XVII-lea", "Platformă: 10 x 8 metri", "Număr de nicovale de piatră: 3", "Lățimea râului: 5 metri", "Număr de duzi de hârtie: 20", "Înălțimea platformei: 0,8 metri"],
       en: ["Built in the 17th century", "Platform size: 10 x 8 meters", "Number of stone anvils: 3", "River width: 5 meters", "Number of paper mulberry trees: 20", "Platform height: 0.8 meters"],
     },
+    image: "/poi-images/frenchpolynesia-marae-faremiro-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-nonoha-history-v2",
@@ -1488,6 +1535,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Construit în secolul al XVIII-lea", "Platformă: 6 x 4 metri", "Înălțime: 0,5 metri", "Perioadă de utilizare: aprox. 20 de ani", "Număr de picturi rupestre: 5", "Distanța până la cel mai apropiat drum: 2 km"],
       en: ["Built in the 18th century", "Platform size: 6 x 4 meters", "Height: 0.5 meters", "Usage period: approx. 20 years", "Number of cave paintings: 5", "Distance to nearest road: 2 km"],
     },
+    image: "/poi-images/frenchpolynesia-marae-nonoha-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-tehoro-history-v2",
@@ -1519,6 +1567,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Construit în secolul al XIV-lea", "Suprafața platformei: 200 de metri pătrați", "Înălțimea zidurilor de piatră: până la 3 metri", "Realizat din peste 1000 de blocuri de bazalt", "Perioada de utilizare: 400 de ani", "Clasificat monument istoric din 1952"],
       en: ["Built in the 14th century", "Platform area: 200 square meters", "Stone wall height: up to 3 meters", "Composed of over 1000 basalt blocks", "Used for approximately 400 years", "Classified as historic monument since 1952"],
     },
+    image: "/poi-images/frenchpolynesia-marae-tehoro-history-v2.webp",
   },
   {
     id: "frenchpolynesia-notre-dame-cathedral-papeete-history-v2",
@@ -1550,6 +1599,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Construită între 1856-1875", "Înălțimea turnurilor: 30 de metri", "Capacitate: 500 de persoane", "Construită din calcar coralifer", "Sfințită în 1875", "Renovări: 1900, 1950, 2000"],
       en: ["Built 1856-1875", "Tower height: 30 meters", "Seating capacity: 500", "Constructed from coral limestone", "Consecrated in 1875", "Renovations: 1900, 1950, 2000"],
     },
+    image: "/poi-images/frenchpolynesia-notre-dame-cathedral-papeete-history-v2.webp",
   },
   {
     id: "frenchpolynesia-maeva-marae-complex-history-v2",
@@ -1581,6 +1631,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["27 de platforme marae", "Perioada de construcție: secolele XIII-XVIII", "Lungimea complexului: 2 kilometri", "Cea mai mare platformă: 30 de metri lungime", "Material: bazalt și coral", "Descoperit: anii 1970"],
       en: ["27 marae platforms", "Construction period: 13th-18th centuries", "Complex length: 2 kilometers", "Largest platform: 30 meters long", "Material: basalt and coral", "Discovered in the 1970s"],
     },
+    image: "/poi-images/frenchpolynesia-maeva-marae-complex-history-v2.webp",
   },
   {
     id: "frenchpolynesia-fort-de-l-ouest-history-v2",
@@ -1612,6 +1663,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Construit între 1846-1849", "Altitudine: 150 de metri deasupra nivelului mării", "Grosimea zidurilor: 1,5 metri", "Număr de tunuri: 12", "Suprafață: 0,5 hectare", "Monument istoric din 1972"],
       en: ["Built 1846-1849", "Elevation: 150 meters above sea level", "Wall thickness: 1.5 meters", "Number of cannons: 12", "Area: 0.5 hectares", "Historic monument since 1972"],
     },
+    image: "/poi-images/frenchpolynesia-fort-de-l-ouest-history-v2.webp",
   },
   {
     id: "frenchpolynesia-papeete-town-hall-history-v2",
@@ -1643,6 +1695,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Construit în 1886", "Număr de camere: 25", "Suprafața grădinii: 0,3 hectare", "Costul inițial de construcție: 10.000 de franci", "Protejat ca monument din 1990", "Înălțimea turnului: 15 metri"],
       en: ["Built in 1886", "Number of rooms: 25", "Garden area: 0.3 hectares", "Original construction cost: 10,000 francs", "Listed as monument since 1990", "Tower height: 15 meters"],
     },
+    image: "/poi-images/frenchpolynesia-papeete-town-hall-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-tara-history-v2",
@@ -1674,6 +1727,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Construit în secolul al XVI-lea", "Suprafața platformei: 50 de metri pătrați", "Număr de blocuri de piatră: 200", "Înălțimea ahu: 1,2 metri", "Înconjurat de 0,5 hectare de pădure", "Protejat din 1980"],
       en: ["Built in the 16th century", "Platform area: 50 square meters", "Number of stone blocks: 200", "Ahu height: 1.2 meters", "Surrounded by 0.5 hectares of forest", "Protected since 1980"],
     },
+    image: "/poi-images/frenchpolynesia-marae-tara-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-ahu-o-mahine-history-v2",
@@ -1705,6 +1759,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Construit în secolul al XVIII-lea", "Lungimea platformei: 25 de metri", "Lățime: 12 metri", "Înălțimea altarului: 2 metri", "Altitudine: 100 de metri deasupra nivelului mării", "Restaurat în 1995"],
       en: ["Built in the 18th century", "Platform length: 25 meters", "Width: 12 meters", "Altar height: 2 meters", "Elevation: 100 meters above sea level", "Restored in 1995"],
     },
+    image: "/poi-images/frenchpolynesia-marae-ahu-o-mahine-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-nonoha-punaauia-history-v2",
@@ -1736,6 +1791,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Marae-ul este situat în zonele interioare ale districtului Punaauia.", "Situl a fost documentat științific pe parcursul secolului al XX-lea.", "Districtul Punaauia este cunoscut istoric pentru rezistența sa culturală.", "Construcția folosește pietre de râu și blocuri de coral extrase din lagună.", "Fiecare piatră verticală avea o semnificație genealogică sau rituală.", "Situl este protejat prin lege ca monument istoric al Polineziei Franceze."],
       en: ["The marae is located in the inland valleys of the Punaauia district.", "The site was extensively documented by archaeologists during the 20th century.", "Punaauia was historically a center for resistance against foreign influence.", "The platforms were constructed using local river stones and coral blocks.", "Specific areas of the marae were strictly reserved for high-ranking chiefs.", "Today, the site is used for cultural education and traditional commemorations."],
     },
+    image: "/poi-images/frenchpolynesia-marae-nonoha-punaauia-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-vaiahu-history-v2",
@@ -1767,6 +1823,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Situl este situat în districtul Vaiea, la poalele muntelui Hotu Parata.", "Construcția utilizează în principal blocuri de bazalt vulcanic.", "Maupiti este considerată una dintre cele mai vechi insule locuite din arhipelag.", "Șefii de trib primeau aici 'Maro Ura', o centură sacră din pene.", "Plăcile de piatră de pe mal serveau drept spătare pentru nobili.", "Abandonarea sitului a avut loc în secolul al XIX-lea, după creștinare."],
       en: ["It is located in the Vaiea district at the base of Mount Hotu Parata.", "The structure was primarily built using volcanic basalt stones.", "Maupiti is among the oldest continuously inhabited islands in the region.", "High chiefs were invested here with the sacred 'Maro Ura' feather belt.", "Upright stones along the waterfront served as backrests for nobility.", "The marae fell into disuse following the arrival of missionaries in the 1800s."],
     },
+    image: "/poi-images/frenchpolynesia-marae-vaiahu-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-tainuu-tevaitoa-history-v2",
@@ -1798,6 +1855,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Zidul de coral al sitului are o lungime de aproximativ 52 de metri.", "Unele plăci de piatră ating o înălțime de peste 3 metri.", "A servit drept centru spiritual pentru clanul Tevaitoa din Raiatea.", "Raiatea este numită în legende 'Hava'i', leagănul polinezienilor.", "Biserica actuală a fost construită în secolul al XIX-lea pe sit.", "A fost cercetat în 1952 de o expediție arheologică internațională."],
       en: ["The coral wall of the marae measures approximately 52 meters in length.", "Some of the vertical stone slabs stand over 3 meters tall.", "It served as the primary religious center for the Tevaitoa clan.", "Raiatea is referred to in legends as 'Hava'i', the cradle of Polynesia.", "A Protestant church was erected on the site's periphery in the 1800s.", "The site was studied in 1952 by researchers following the Kon-Tiki route."],
     },
+    image: "/poi-images/frenchpolynesia-marae-tainuu-tevaitoa-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-manunu-huahine-history-v2",
@@ -1829,6 +1887,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Platforma are aproximativ 40 de metri lungime și 7 metri lățime.", "Adăpostește mormântul căpeteniei Paush, fondatorul dinastiei locale.", "Huahine este cunoscută pentru densitatea mare de situri arheologice.", "Construcția folosește dale masive de coral pentru structura 'Ahu'.", "Este situat în apropierea satului Maeva, pe insula Huahine Iti.", "În mod tradițional, canoele de război erau binecuvântate aici."],
       en: ["The stone platform measures about 40 meters long and 7 meters wide.", "It contains the tomb of Chief Paush, the dynasty's legendary founder.", "Huahine is renowned for its exceptional density of ancient marae.", "The structure was built using massive coral slabs for the 'Ahu'.", "It is situated near Maeva village on the smaller island, Huahine Iti.", "War canoes were traditionally brought here for blessing before voyages."],
     },
+    image: "/poi-images/frenchpolynesia-marae-manunu-huahine-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-taata-punaauia-history-v2",
@@ -1860,6 +1919,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Situl este compus din trei platforme distincte (Ahu).", "Ansamblul a fost restaurat în 1973 sub supraveghere arheologică.", "A fost un loc de adunare pentru căpeteniile de rang înalt din clanul Teva.", "Situl este situat în centrul districtului modern Punaauia.", "Zidurile sunt construite dintr-un amestec de bazalt și coral.", "Aici se încheiau alianțe strategice între clanurile din Tahiti."],
       en: ["The complex features three separate stone platforms or 'Ahu'.", "Extensive restoration work was carried out on the site in 1973.", "It served as a high-ranking assembly point for Teva clan leaders.", "The marae is located within the modern district of Punaauia.", "Construction materials include both basalt rock and coral blocks.", "Crucial political alliances between Tahitian clans were finalized here."],
     },
+    image: "/poi-images/frenchpolynesia-marae-taata-punaauia-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-punaauia-history-v2",
@@ -1891,6 +1951,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Construit în secolul al XVI-lea", "Suprafața platformei: 500 de metri pătrați", "Număr de niveluri: 3", "Cea mai mare piatră: 1,5 metri înălțime", "Distanța până la coastă: 100 de metri", "Monument istoric din 1965"],
       en: ["Built in the 16th century", "Platform area: 500 square meters", "Number of levels: 3", "Largest stone: 1.5 meters tall", "Distance to coast: 100 meters", "Historic monument since 1965"],
     },
+    image: "/poi-images/frenchpolynesia-marae-punaauia-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-nonoha-mataiea-history-v2",
@@ -1922,6 +1983,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Districtul Mataiea a fost centrul istoric al confederației Teva.", "Situl este amplasat într-o zonă cu vegetație bogată, aproape de mare.", "Templul a fost ridicat în onoarea zeităților locale.", "Cercetările arheologice datează perioada principală de utilizare în secolul XVIII.", "Face parte dintr-un grup de mai multe temple mici din zona Mataiea.", "Pietrele utilizate provin din albiile râurilor locale și surse vulcanice."],
       en: ["Mataiea was historically the central hub of the Teva confederation.", "The site is located in a lushly vegetated area near the shoreline.", "The marae was established to honor specific local deities.", "Archaeological evidence suggests peak usage during the 18th century.", "It is one of several smaller ceremonial sites within the Mataiea region.", "The stones were sourced from local riverbeds and volcanic deposits."],
     },
+    image: "/poi-images/frenchpolynesia-marae-nonoha-mataiea-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-vaiahu-tevaitoa-history-v2",
@@ -1953,6 +2015,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Raiatea este considerată capitala spirituală a Polineziei Franceze.", "Templul a fost construit din bazalt local și calcar de coral.", "Alinierea structurii urmărea adesea evenimente astronomice precise.", "Tevaitoa a fost un punct de așezare crucial pentru primii navigatori.", "Situl era conectat spiritual cu marele templu Taputapuatea.", "Platformele de piatră au fost extinse de-a lungul mai multor generații."],
       en: ["Raiatea is widely regarded as the spiritual capital of French Polynesia.", "The marae was constructed using local basalt and coral limestone.", "The site's orientation often aligned with significant astronomical events.", "Tevaitoa served as a major settlement point for early Pacific voyagers.", "It maintained a spiritual link with the renowned Taputapuatea marae.", "The stone platforms were expanded and modified over several generations."],
     },
+    image: "/poi-images/frenchpolynesia-marae-vaiahu-tevaitoa-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-tahiti-iti-history-v2",
@@ -1984,6 +2047,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Număr de marae: 15", "Perioada de construcție: secolele XVI-XVIII", "Dimensiune medie: 10x8 metri", "Cel mai înalt marae: 2 metri", "Anul descoperirii ultimului: 2005", "Suprafața totală estimată: 1 hectar"],
       en: ["Number of marae: 15", "Construction period: 16th-18th centuries", "Average size: 10x8 meters", "Tallest marae: 2 meters", "Year last discovered: 2005", "Estimated total area: 1 hectare"],
     },
+    image: "/poi-images/frenchpolynesia-marae-tahiti-iti-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-vaiotaha-bora-bora-history-v2",
@@ -2015,6 +2079,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Construit în secolul al XVII-lea", "Suprafața platformei: 80 de metri pătrați", "Înălțime: 1,8 metri", "Număr de pietre în aliniament: 12", "Restaurat în 1978", "Vizitatori pe an: 50.000"],
       en: ["Built in the 17th century", "Platform area: 80 square meters", "Height: 1.8 meters", "Number of stones in alignment: 12", "Restored in 1978", "Annual visitors: 50,000"],
     },
+    image: "/poi-images/frenchpolynesia-marae-vaiotaha-bora-bora-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-hauviri-opoa-history-v2",
@@ -2046,6 +2111,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Construit în secolul al XIII-lea", "Suprafața platformei: 600 de metri pătrați", "Înălțime: 3 metri", "Greutatea blocurilor de bazalt: până la 5 tone", "Excavat în 1992", "Candidat UNESCO din 2005"],
       en: ["Built in the 13th century", "Platform area: 600 square meters", "Height: 3 meters", "Weight of basalt blocks: up to 5 tons", "Excavated in 1992", "UNESCO candidacy since 2005"],
     },
+    image: "/poi-images/frenchpolynesia-marae-hauviri-opoa-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-tara-mataiea-history-v2",
@@ -2077,6 +2143,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Numele 'Tara' se referă adesea la o piatră ascuțită sau un corn.", "Face parte dintr-o rețea de situri ceremoniale din sudul insulei Tahiti.", "Districtul Mataiea era renumit pentru pescuit și soluri fertile.", "Pietrele structurii sunt adesea acoperite de mușchi și licheni.", "Templul era utilizat preponderent pentru ceremonii interne ale clanului.", "Este situat aproape de reședința istorică a căpeteniilor Teva."],
       en: ["The name 'Tara' often refers to a pointed stone or a sharp peak.", "It belongs to a wider network of ceremonial sites in southern Tahiti.", "Mataiea was historically famous for its fishing grounds and fertile soil.", "The site's stones are frequently covered in natural moss and lichen.", "The marae was primarily used for ceremonies within the local clan.", "It is located near the historical residence of high-ranking Teva chiefs."],
     },
+    image: "/poi-images/frenchpolynesia-marae-tara-mataiea-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-tahiti-west-coast-history-v2",
@@ -2108,6 +2175,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Marae Arahurahu este cel mai complet restaurat templu din Tahiti.", "Tahiti de Vest a fost centrul politic al clanurilor influente.", "Statuile sculptate în lemn sau piatră sunt numite 'Ti'i'.", "Anual, aici au loc spectacole în cadrul festivalului Heiva.", "Zidurile de piatră au fost construite prin suprapunere precisă, fără mortar.", "Multe situri sunt amplasate strategic în apropierea gurilor de vărsare ale râurilor."],
       en: ["Marae Arahurahu is the most thoroughly restored marae on Tahiti.", "Western Tahiti served as the political stronghold for influential clans.", "Wooden or stone statues found at these sites are called 'Ti'i'.", "The sites host traditional performances during the annual Heiva festival.", "Stone walls were constructed using precise dry-stacking techniques.", "Many complexes are strategically positioned near river mouths for access."],
     },
+    image: "/poi-images/frenchpolynesia-marae-tahiti-west-coast-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-vaiahu-huahine-iti-history-v2",
@@ -2139,6 +2207,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Construit în secolul al XVII-lea", "Platformă de 50 m × 20 m", "Blocuri de corali și bazalt", "Săpături în anii 1990", "Unelte de piatră și ofrande marine descoperite", "Protejat ca patrimoniu cultural din 2005"],
       en: ["Built in the 17th century", "Platform dimensions: 50 m × 20 m", "Constructed from coral blocks and basalt", "Excavations conducted in the 1990s", "Fishhook and stone adze offerings found", "Protected cultural heritage site since 2005"],
     },
+    image: "/poi-images/frenchpolynesia-marae-vaiahu-huahine-iti-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-tainuu-raiatea-history-v2",
@@ -2170,6 +2239,7 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Fondat de navigatorul Hiro", "Platformă principală din blocuri de bazalt", "Centru de formare preoțească", "Orientare astronomică spre Pleiade", "Restaurare parțială în secolul XIX", "Raiatea este cea mai sfântă insulă polineziană"],
       en: ["Legendary founder: Hiro", "Main platform built from basalt blocks", "Used for priest training", "Astronomical alignment with Pleiades", "Partial restoration in the 19th century", "Raiatea considered the holiest Polynesian island"],
     },
+    image: "/poi-images/frenchpolynesia-marae-tainuu-raiatea-history-v2.webp",
   },
   {
     id: "frenchpolynesia-marae-vaiahu-maeva-history-v2",
@@ -2201,5 +2271,6 @@ export const frenchpolynesiaHistoryV2: POI[] = [
       ro: ["Construit în secolul al XVI-lea", "Lungimea platformei: 60 m", "Centrul politico-religios al șefiei Maeva", "Folosit până în secolul XVIII", "Unelte de piatră descoperite", "Înconjurat de vegetație tropicală"],
       en: ["Built in the 16th century", "Platform length: 60 m", "Political and religious center of Maeva chiefdom", "Used until the 18th century", "Stone tools found at site", "Surrounded by tropical vegetation"],
     },
+    image: "/poi-images/frenchpolynesia-marae-vaiahu-maeva-history-v2.webp",
   }
 ];

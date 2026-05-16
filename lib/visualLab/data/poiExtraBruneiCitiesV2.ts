@@ -987,5 +987,6 @@ export const poiExtraBruneiCitiesV2: POI[] = [
       ro: ["Distanța de la Amo la Bangar este de 45 km.", "Distanța până la granița cu Malaysia este de 2 km.", "Populația este de aproximativ 500 de locuitori.", "Recolta anuală de durian este de 20 de tone.", "Punctul de frontieră a fost stabilit în 1995.", "Peștera 'Gua Amo' are o lungime de 100 m."],
       en: ["Distance from Bangar town is 45 km.", "Distance to Malaysian border: 2 km.", "Population approximately 500.", "Annual durian harvest: 20 tons.", "Border checkpoint established in 1995.", "Cave 'Gua Amo' is 100 meters long."],
     },
+    image: "/poi-images/amo-cities-v2.webp",
   }
 ];

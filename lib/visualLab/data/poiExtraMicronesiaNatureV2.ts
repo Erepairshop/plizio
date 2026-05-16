@@ -31,6 +31,7 @@ export const micronesiaNatureV2: POI[] = [
       ro: ["Cel mai înalt munte din Micronezia (782 m)", "Precipitații anuale de peste 10.000 mm", "Găzduiește o pădure de nori tropicală rară", "Bazin hidrografic important pentru Pohnpei", "Accesibil doar prin poteci de junglă nemarcate", "Habitat pentru pasărea cu ochi albi de Pohnpei"],
       en: ["Highest peak in Micronesia (782 m)", "Annual rainfall exceeds 10,000 mm", "Home to a rare tropical cloud forest", "Crucial watershed for Pohnpei island", "Accessible only via unmarked jungle trails", "Habitat for the endemic Pohnpei white-eye"],
     },
+    image: "/poi-images/micronesia-mount-nanlaud-nature-v2.webp",
   },
   {
     id: "micronesia-mount-winipot-nature-v2",
@@ -62,6 +63,7 @@ export const micronesiaNatureV2: POI[] = [
       ro: ["Cel mai înalt punct din Chuuk (439 m)", "Cea mai importantă zonă pentru monarhul de Chuuk", "Conține ultimele păduri primare din regiune", "Compus în principal din roci vulcanice", "Loc important pentru legendele locale", "Insula Tol face parte din grupul Faichuk"],
       en: ["Highest point in Chuuk State (439 m)", "Key sanctuary for the Chuuk Monarch bird", "Contains the region's last primary forests", "Primarily composed of volcanic rock", "Important site for local legends", "Tol Island is part of the Faichuk group"],
     },
+    image: "/poi-images/micronesia-mount-winipot-nature-v2.webp",
   },
   {
     id: "micronesia-mount-matade-nature-v2",
@@ -93,6 +95,7 @@ export const micronesiaNatureV2: POI[] = [
       ro: ["Înălțimea este de aprox. 170 de metri", "Oferă o vedere de 360 de grade asupra Yap", "Găzduiește resturi de tunuri antiaeriene japoneze", "Vegetația constă în ferigi și ierburi", "Cel mai important punct de belvedere lângă Colonia", "Aparține regiunii Tamil a insulei"],
       en: ["Elevation is approximately 170 meters", "Offers 360-degree views over Yap", "Features remains of Japanese anti-aircraft guns", "Vegetation consists of ferns and grasses", "Most important lookout point near Colonia", "Part of the Tamil region of the island"],
     },
+    image: "/poi-images/micronesia-mount-matade-nature-v2.webp",
   },
   {
     id: "micronesia-kepirohi-waterfall-nature-v2",
@@ -124,6 +127,7 @@ export const micronesiaNatureV2: POI[] = [
       ro: ["Înălțimea cascadei este de aprox. 20 de metri", "Formată din coloane naturale de bazalt", "Lățimea cascadei este de aprox. 30 de metri", "Situată în apropiere de Nan Madol", "Cel mai popular loc pentru înot din Pohnpei", "Înconjurată de o grădină de piatră îngrijită"],
       en: ["Height of the falls is about 20 meters", "Composed of natural basalt columns", "Width of the waterfall is about 30 meters", "Located near the ruins of Nan Madol", "Most popular swimming spot on Pohnpei", "Surrounded by a manicured stone garden"],
     },
+    image: "/poi-images/micronesia-kepirohi-waterfall-nature-v2.webp",
   },
   {
     id: "micronesia-liduduhniap-waterfalls-nature-v2",
@@ -155,6 +159,7 @@ export const micronesiaNatureV2: POI[] = [
       ro: ["Sistem format din două cascade principale", "Situat în zona râului Nanpil", "Bazinele sunt ideale pentru baie", "Include formațiuni de bazalt proeminente", "La doar 15 minute de mers cu mașina de Kolonia", "Înconjurat frecvent de ferigi tropicale"],
       en: ["Consists of two main levels (twin falls)", "Located within the Nanpil River area", "The pools are ideal for freshwater bathing", "Features prominent basalt formations", "Only a 15-minute drive from Kolonia", "Often surrounded by tropical ferns"],
     },
+    image: "/poi-images/micronesia-liduduhniap-waterfalls-nature-v2.webp",
   },
   {
     id: "micronesia-sahwar-waterfall-nature-v2",
@@ -186,6 +191,7 @@ export const micronesiaNatureV2: POI[] = [
       ro: ["Situată pe insula Kosrae", "Accesibilă prin poteci de drumeție în junglă", "Căi vechi de piatră antice se află în apropiere", "Cade peste roci vulcanice", "Locație importantă pentru fotografii de natură", "Bazinul este foarte răcoros și revigorant"],
       en: ["Located on the island of Kosrae", "Accessible via jungle hiking trails", "Nearby ancient stone paths from antiquity", "Cascades over volcanic rock faces", "Important site for nature photographers", "The pool is very cool and refreshing"],
     },
+    image: "/poi-images/micronesia-sahwar-waterfall-nature-v2.webp",
   },
   {
     id: "micronesia-chuuk-lagoon-nature-v2",
@@ -217,6 +223,7 @@ export const micronesiaNatureV2: POI[] = [
       ro: ["Conține peste 60 de epave din al Doilea Război Mondial", "Diametrul lagunei este de aprox. 60 km", "Locul Operațiunii Hailstone (1944)", "Cea mai bună destinație de scufundări la epave din lume", "Navele sunt astăzi monumente naționale protejate", "Găzduiește peste 200 de specii de corali"],
       en: ["Contains over 60 shipwrecks from WWII", "Lagoon diameter is approximately 60 km", "Site of Operation Hailstone in 1944", "World's premier wreck diving destination", "Wrecks are now protected national monuments", "Home to over 200 species of corals"],
     },
+    image: "/poi-images/micronesia-chuuk-lagoon-nature-v2.webp",
   },
   {
     id: "micronesia-woleai-atoll-nature-v2",
@@ -248,6 +255,7 @@ export const micronesiaNatureV2: POI[] = [
       ro: ["Suprafața terestră totală este de aproximativ 4,5 km2", "Laguna centrală acoperă o zonă de 29 km2", "Este compus din 22 de insulițe de corali distincte", "Garnizoana japoneză număra peste 6000 de oameni în 1944", "Cunoscut pentru utilizarea canoei tradiționale cu velă", "Situat la circa 700 de kilometri sud de Guam"],
       en: ["Total land area of approximately 4.5 square kilometers", "The central lagoon covers 29 square kilometers", "Consists of 22 distinct coral islets in the chain", "Japanese garrison exceeded 6,000 personnel in 1944", "Key site for traditional Micronesian wayfinding", "Located roughly 700 kilometers south of Guam"],
     },
+    image: "/poi-images/micronesia-woleai-atoll-nature-v2.webp",
   },
   {
     id: "micronesia-kosrae-mangrove-forest-nature-v2",
@@ -279,6 +287,7 @@ export const micronesiaNatureV2: POI[] = [
       ro: ["Acoperă aproximativ 15% din suprafața totală a insulei", "Adăpostește zece specii diferite de arbori de mangrove", "Protejează linia de coastă împotriva eroziunii și furtunilor", "Zonă critică de reproducere pentru pești și păsări", "Arborii pot atinge înălțimi de peste 20 de metri", "Face parte dintr-o rezervație a biosferei monitorizată"],
       en: ["Covers approximately 15% of Kosrae's total land area", "Home to ten different species of mangrove trees", "Protects the coastline from erosion and storm surges", "Crucial breeding ground for marine fish and birds", "Some trees reach heights exceeding 20 meters", "Part of a designated UNESCO biosphere reserve area"],
     },
+    image: "/poi-images/micronesia-kosrae-mangrove-forest-nature-v2.webp",
   },
   {
     id: "micronesia-wiya-bird-cave-nature-v2",
@@ -310,6 +319,7 @@ export const micronesiaNatureV2: POI[] = [
       ro: ["Găzduiește o colonie masivă de lăstuni de peșteră", "Păsările navighează folosind sunete de ecolocație", "Formatiune geologică de tip tub de lavă vulcanică", "Situată în apropierea satului Tafunsak din nord", "Intrarea este marcată de ferigi și liane luxuriante", "Sit important pentru studiul biodiversității locale"],
       en: ["Home to a massive colony of Island Swiftlets", "Birds navigate using clicking sounds (echolocation)", "Geological formation consisting of volcanic lava tubes", "Located near the village of Tafunsak in the north", "Entrance is surrounded by dense ferns and vines", "Important site for the study of local endemic fauna"],
     },
+    image: "/poi-images/micronesia-wiya-bird-cave-nature-v2.webp",
   },
   {
     id: "micronesia-kuop-atoll-nature-v2",
@@ -341,6 +351,7 @@ export const micronesiaNatureV2: POI[] = [
       ro: ["Situat la doar 3 kilometri sud de Laguna Chuuk", "Atolul are o lungime de aproximativ 21 de kilometri", "Mai multe nave au fost scufundate aici în 1944", "Nu are așezări umane permanente pe insulele sale", "Cunoscut pentru populațiile mari de rechini de recif", "Loc important de cuibărit pentru țestoasele verzi"],
       en: ["Located only 3 kilometers south of the Chuuk Lagoon", "The atoll measures approximately 21 kilometers in length", "Several ships were sunk here during World War II", "There are no permanent human inhabitants on the islets", "Famous for its large populations of reef sharks", "Critical nesting site for the endangered green sea turtle"],
     },
+    image: "/poi-images/micronesia-kuop-atoll-nature-v2.webp",
   },
   {
     id: "micronesia-ngulu-atoll-nature-v2",
@@ -372,6 +383,7 @@ export const micronesiaNatureV2: POI[] = [
       ro: ["Cel mai vestic atol locuit din Statele Federate", "Laguna acoperă o suprafață de circa 380 km2", "Suprafața terestră totală este sub 0,5 km2", "Situat aproximativ la jumătatea distanței între Yap și Palau", "Renumit pentru abundența de pești pelagici mari", "Drepturile funciare tradiționale sunt strict menținute"],
       en: ["Westernmost inhabited atoll of the Federated States", "The lagoon covers an area of 380 square kilometers", "Total land area is less than 0.5 square kilometers", "Located roughly midway between Yap and Palau", "Renowned for its abundance of large pelagic fish", "Traditional land rights are strictly observed by locals"],
     },
+    image: "/poi-images/micronesia-ngulu-atoll-nature-v2.webp",
   },
   {
     id: "micronesia-ifalik-atoll-nature-v2",
@@ -403,6 +415,7 @@ export const micronesiaNatureV2: POI[] = [
       ro: ["Suprafața terestră totală este de doar 1,47 km2", "Format din insulele Ifalik, Flalap, Ella și Rauau", "Laguna este puțin adâncă și nu are pasaje navigabile mari", "Utilizarea motoarelor suspendate este limitată cultural", "Tatuajele tradiționale sunt încă practicate pe scară largă", "Accesibil doar prin intermediul navelor comerciale rare"],
       en: ["Total land area is a mere 1.47 square kilometers", "Comprised of Ifalik, Flalap, Ella, and Rauau islands", "The lagoon is shallow without deep-water ship passages", "Use of outboard motors is culturally restricted", "Traditional tattooing practices remain common today", "Reachable only via irregular inter-island cargo ships"],
     },
+    image: "/poi-images/micronesia-ifalik-atoll-nature-v2.webp",
   },
   {
     id: "micronesia-okat-river-nature-v2",
@@ -434,5 +447,6 @@ export const micronesiaNatureV2: POI[] = [
       ro: ["Se varsă în ocean lângă aeroportul din Kosrae", "Utilizat istoric pentru transportul produselor agricole", "Traversează unele dintre cele mai vechi mangrove", "Sursă esențială de apă dulce pentru comunitate", "Adăpostește specii rare de crabi de apă dulce", "Prezintă curenți puternici în timpul sezonului ploios"],
       en: ["Empties into the ocean near the Kosrae Airport", "Historically used for transporting agricultural goods", "Flows through some of the oldest mangrove stands", "A critical source of freshwater for the island", "Inhabited by rare endemic freshwater crabs", "Experiences strong currents during the tropical wet season"],
     },
+    image: "/poi-images/micronesia-okat-river-nature-v2.webp",
   }
 ];

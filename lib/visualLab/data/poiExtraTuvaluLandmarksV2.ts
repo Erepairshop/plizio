@@ -31,6 +31,7 @@ export const tuvaluLandmarksV2: POI[] = [
       ro: ["Inaugurată oficial în anul 2004", "Construită cu asistență financiară din Taiwan", "Găzduiește biroul Prim-ministrului din Tuvalu", "Este una dintre cele mai înalte clădiri din țară", "Situată în satul Vaiaku pe insula Fongafale", "Include camerele Parlamentului național"],
       en: ["Opened officially in 2004", "Funded by the Republic of China (Taiwan)", "Houses the Office of the Prime Minister", "One of the few three-story buildings in Tuvalu", "Located in Vaiaku village on Fongafale islet", "Serves as the meeting place for the Parliament"],
     },
+    image: "/poi-images/tuvalu-government-building-landmarks-v2.webp",
   },
   {
     id: "tuvalu-fetu-ao-lima-church-landmarks-v2",
@@ -62,6 +63,7 @@ export const tuvaluLandmarksV2: POI[] = [
       ro: ["Aparține bisericii Ekalesia Kelisiano Tuvalu", "Cea mai mare biserică din statul Tuvalu", "Situată în centrul administrativ al Funafuti", "Numele înseamnă 'Steaua celor cinci degete'", "Centru pentru competiții de coruri și festivaluri", "Recunoscută după acoperișul roșu proeminent"],
       en: ["Belongs to the Ekalesia Kelisiano Tuvalu (EKT)", "Largest church building in Tuvalu", "Located in the central area of Funafuti", "The name translates to 'Star of the Five Fingers'", "A major venue for community choir competitions", "Distinguished by its large red roof"],
     },
+    image: "/poi-images/tuvalu-fetu-ao-lima-church-landmarks-v2.webp",
   },
   {
     id: "tuvalu-philatelic-bureau-landmarks-v2",
@@ -93,6 +95,7 @@ export const tuvaluLandmarksV2: POI[] = [
       ro: ["Fondat în anul 1975", "O sursă majoră de venituri externe pentru stat", "Renumit pentru timbrele cu tematică marină", "Situat în capitala Funafuti", "A emis primele timbre suverane în 1976", "Găzduiește o mică expoziție de ediții istorice"],
       en: ["Established in 1975", "Formerly a primary source of national revenue", "Famous for marine life and cultural themes", "Located in the capital, Funafuti", "Issued the first sovereign stamps in 1976", "Contains an archive of historic stamp issues"],
     },
+    image: "/poi-images/tuvalu-philatelic-bureau-landmarks-v2.webp",
   },
   {
     id: "tuvalu-princess-margaret-hospital-landmarks-v2",
@@ -124,6 +127,7 @@ export const tuvaluLandmarksV2: POI[] = [
       ro: ["Singurul spital din statul Tuvalu", "Numit după Prințesa Margaret a Marii Britanii", "Clădirea actuală a fost finalizată în 2003", "Construit cu ajutorul financiar al Japoniei", "Capacitate de aproximativ 50 de paturi", "Situat în capitala administrativă Funafuti"],
       en: ["Only hospital in the nation of Tuvalu", "Named in honor of Princess Margaret", "Current facility completed in 2003", "Funded by Japanese overseas aid", "Equipped with approximately 50 beds", "Located on Fongafale islet in Funafuti"],
     },
+    image: "/poi-images/tuvalu-princess-margaret-hospital-landmarks-v2.webp",
   },
   {
     id: "tuvalu-vaiaku-lagi-hotel-landmarks-v2",
@@ -155,6 +159,7 @@ export const tuvaluLandmarksV2: POI[] = [
       ro: ["Singurul hotel de stat din Tuvalu", "Situat direct pe malul lagunei Funafuti", "Principala cazare pentru delegațiile diplomatice", "Oferă camere dotate cu aer condiționat", "Punct central de socializare în satul Vaiaku", "Găzduiește frecvent conferințe internaționale"],
       en: ["The only state-owned hotel in Tuvalu", "Located directly on the Funafuti lagoon shore", "Primary accommodation for visiting diplomats", "Offers air-conditioned guest rooms", "Serves as a major social hub in Vaiaku", "Frequently hosts regional and state conferences"],
     },
+    image: "/poi-images/tuvalu-vaiaku-lagi-hotel-landmarks-v2.webp",
   },
   {
     id: "tuvalu-womens-handicraft-centre-landmarks-v2",
@@ -186,6 +191,7 @@ export const tuvaluLandmarksV2: POI[] = [
       ro: ["Expune artizanat de pe toate cele nouă insule", "Specializat în covoare tradiționale 'Fafetu'", "Sursă importantă de venit pentru femeile locale", "Folosește exclusiv materiale naturale", "Situat în apropierea aeroportului din Funafuti", "Promovează conservarea tehnicilor de împletit străvechi"],
       en: ["Showcases crafts from all nine Tuvaluan islands", "Specializes in traditional 'Fafetu' mats", "Important source of income for local women", "Uses exclusively natural, island-sourced materials", "Located near the Funafuti airport", "Ensures the survival of ancient weaving techniques"],
     },
+    image: "/poi-images/tuvalu-womens-handicraft-centre-landmarks-v2.webp",
   },
   {
     id: "tuvalu-nanumea-church-landmarks-v2",
@@ -217,6 +223,7 @@ export const tuvaluLandmarksV2: POI[] = [
       ro: ["Situată pe cel mai nordic atol, Nanumea", "Construită prin munca voluntară a comunității", "Aparține bisericii naționale congregaționaliste", "Una dintre cele mai rezistente clădiri de pe atol", "Centrul vieții sociale și religioase din Nanumea", "Decorată interior cu rogojini tradiționale"],
       en: ["Located on the northernmost atoll of Nanumea", "Built through collective community effort", "Affiliated with the national congregational church", "One of the sturdiest structures on the atoll", "The center of social and religious life in Nanumea", "Interior features traditional Tuvaluan woven mats"],
     },
+    image: "/poi-images/tuvalu-nanumea-church-landmarks-v2.webp",
   },
   {
     id: "tuvalu-teone-church-landmarks-v2",
@@ -248,6 +255,7 @@ export const tuvaluLandmarksV2: POI[] = [
       ro: ["Sediul principal al Bisericii Catolice din Tuvalu", "Face parte din Misiunea Sui Iuris din Funafuti", "Subordonată Arhidiecezei de Suva (Fiji)", "Reprezintă minoritatea religioasă a țării", "Cunoscută pentru programe de asistență socială", "Situată în capitala Funafuti"],
       en: ["Headquarters of the Catholic Church in Tuvalu", "Seat of the Mission Sui Iuris of Funafuti", "Under the jurisdiction of the Archdiocese of Suva, Fiji", "Represents the nation's religious minority", "Known for its community social outreach programs", "Located in the capital city of Funafuti"],
     },
+    image: "/poi-images/tuvalu-teone-church-landmarks-v2.webp",
   },
   {
     id: "tuvalu-funafuti-post-office-landmarks-v2",
@@ -279,6 +287,7 @@ export const tuvaluLandmarksV2: POI[] = [
       ro: ["Nod logistic central al țării", "Situat lângă Aeroportul Internațional Funafuti", "Punct de vânzare pentru timbre de colecție renumite", "Legătură vitală cu atolii exteriori ai arhipelagului", "Oferă servicii poștale internaționale complete", "Simbol al infrastructurii naționale practice"],
       en: ["Central logistical hub for the nation", "Located adjacent to Funafuti International Airport", "Retail outlet for globally famous collectible stamps", "Vital link to the country's remote outer atolls", "Provides comprehensive international mail services", "Key component of Tuvalu's national infrastructure"],
     },
+    image: "/poi-images/tuvalu-funafuti-post-office-landmarks-v2.webp",
   },
   {
     id: "tuvalu-meteorological-service-landmarks-v2",
@@ -310,6 +319,7 @@ export const tuvaluLandmarksV2: POI[] = [
       ro: ["Monitorizează creșterea nivelului mării", "Emite avertizări oficiale de ciclon", "Colaborează cu Organizația Meteorologică Mondială", "Situat în capitala administrativă Funafuti", "Colectează date despre tendințele climatice pe termen lung", "Operează un sistem de avertizare timpurie pentru maree"],
       en: ["Monitors national sea-level rise", "Issues official cyclone warnings and alerts", "Collaborates with the World Meteorological Organization (WMO)", "Based in the capital city of Funafuti", "Collects data on long-term climate change trends", "Operates early warning systems for tidal surges"],
     },
+    image: "/poi-images/tuvalu-meteorological-service-landmarks-v2.webp",
   },
   {
     id: "tuvalu-niutao-maneapa-landmarks-v2",
@@ -341,6 +351,7 @@ export const tuvaluLandmarksV2: POI[] = [
       ro: ["Casa tradițională de adunări de pe Niutao", "Locul unde se iau deciziile politice locale", "Centru pentru spectacole de dans 'Fatele'", "Acoperiș realizat din materiale naturale locale", "Aranjarea locurilor conform ierarhiei familiilor", "Design deschis pentru ventilație naturală"],
       en: ["Traditional community meeting house on Niutao", "The primary venue for local political decision-making", "Center for performing vibrant 'Fatele' dances", "Architecture utilizes local pandanus leaf thatch", "Seating follows strict family-based cultural protocols", "Open-sided design facilitates natural air circulation"],
     },
+    image: "/poi-images/tuvalu-niutao-maneapa-landmarks-v2.webp",
   },
   {
     id: "tuvalu-nui-church-landmarks-v2",
@@ -372,6 +383,7 @@ export const tuvaluLandmarksV2: POI[] = [
       ro: ["Centrul credinței de pe atolul Nui", "Reflectă influențele culturale din Kiribati", "Aparține bisericii Ekalesia Kelisiano Tuvalu", "Pilon social vital pentru comunitatea insulară", "Arhitectură simplă și rezistentă la intemperii", "Locul desfășurării ceremoniilor religioase tradiționale"],
       en: ["Spiritual center of the Nui atoll community", "Reflects unique Gilbertese cultural influences", "Affiliated with the national congregational church", "Serves as a vital social anchor for the island", "Features a simple yet weather-resistant design", "Host to traditional life-event ceremonies"],
     },
+    image: "/poi-images/tuvalu-nui-church-landmarks-v2.webp",
   },
   {
     id: "tuvalu-nukufetau-wwii-memorial-landmarks-v2",
@@ -403,5 +415,6 @@ export const tuvaluLandmarksV2: POI[] = [
       ro: ["Comemorează baza militară SUA din 1943", "Bază strategică pentru bombardierele B-24", "Păstrează rămășițele unei piste de aterizare istorice", "Mărturie a istoriei războiului din Pacific", "Situat pe atolul Nukufetau", "Construit în onoarea operațiunilor Aliaților"],
       en: ["Commemorates the 1943 U.S. military base", "Strategic base for B-24 Liberator bombers", "Features remains of a historic WWII airfield", "A testament to Pacific War history", "Located on Nukufetau atoll", "Honors the Allied operations in the region"],
     },
+    image: "/poi-images/tuvalu-nukufetau-wwii-memorial-landmarks-v2.webp",
   }
 ];

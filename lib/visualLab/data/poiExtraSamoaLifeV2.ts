@@ -31,6 +31,7 @@ export const samoaLifeV2: POI[] = [
       ro: ["Este primul parc național creat în regiunea Pacificului de Sud (1978).", "Parcul se întinde pe aproximativ 2900 de hectare pe insula Upolu.", "Include cel mai înalt punct de pe insula Upolu, oferind vederi panoramice.", "Coasta de sud a parcului este formată din stânci abrupte de bazalt.", "Adăpostește peste 50 de specii de plante endemice samoane.", "Togitogiga Waterfall este o atracție populară situată în interiorul parcului."],
       en: ["Established in 1978, it is the oldest national park in the South Pacific.", "The park covers 29 square kilometers, extending to the southern coast.", "It is a primary habitat for the endangered tooth-billed pigeon (Manumea).", "The name 'O Le Pupu' translates to 'The Cliffs' in Samoan.", "The park's terrain includes the rugged volcanic peak of Mount Pu'e.", "It is managed by the Ministry of Natural Resources and Environment."],
     },
+    image: "/poi-images/samoa-o-le-pupu-pue-national-park-life-v2.webp",
   },
   {
     id: "samoa-afu-aau-waterfalls-life-v2",
@@ -62,6 +63,7 @@ export const samoaLifeV2: POI[] = [
       ro: ["Cascada se află în districtul Palauli de pe insula Savai'i.", "Este considerată una dintre cele mai curate surse de apă din Samoa.", "Accesul este permis zilnic, cu excepția zilelor de duminică în unele cazuri.", "Bazinul este înconjurat de ferigi gigantice și plante tropicale.", "Adâncimea apei în centrul bazinului depășește 5 metri.", "Veniturile din turism sunt folosite pentru proiecte comunitare în sat."],
       en: ["Afu Aau Waterfalls are located in the Palauli district on Savai'i.", "They are frequently referred to as the Olemoe Falls by locals.", "The falls originate from a freshwater spring in the central highlands.", "The site is 100% community-owned and operated by the local village.", "The pool depth allows for safe diving from designated rocky ledges.", "It is a popular spot for both local families and international tourists."],
     },
+    image: "/poi-images/samoa-afu-aau-waterfalls-life-v2.webp",
   },
   {
     id: "samoa-palolo-deep-marine-reserve-life-v2",
@@ -93,6 +95,7 @@ export const samoaLifeV2: POI[] = [
       ro: ["Rezervația este situată la capătul estic al portului Apia.", "Punctul focal este o depresiune marină adâncă numită 'Blue Hole'.", "Este interzis pescuitul sau colectarea coralilor în perimetrul rezervat.", "Vizibilitatea sub apă depășește adesea 20 de metri în zilele senine.", "Rezervația include o mică plajă cu facilități pentru turiști.", "Palolo Deep este o zonă cheie pentru monitorizarea sănătății recifelor."],
       en: ["The reserve is located at the eastern end of Apia Harbour.", "Its main feature is a natural underwater sinkhole in the reef.", "Snorkeling is most effective during high tide to avoid coral damage.", "It is named after the 'Palolo' sea worm, a local delicacy.", "The site offers rental gear including masks, fins, and snorkels.", "It is one of the most accessible marine parks in the entire Pacific."],
     },
+    image: "/poi-images/samoa-palolo-deep-marine-reserve-life-v2.webp",
   },
   {
     id: "samoa-falealupo-rainforest-preserve-life-v2",
@@ -124,6 +127,7 @@ export const samoaLifeV2: POI[] = [
       ro: ["Rezervația a fost creată printr-un acord între săteni și botaniști străini.", "Canopy Walkway este prima structură de acest tip din Samoa.", "Este situată în extremitatea vestică a insulei Savai'i.", "Pădurea este un habitat vital pentru specia Pteropus samoensis (liliac).", "Include situri arheologice și locuri sacre pentru localnici.", "Proiectul a câștigat premii internaționale pentru conservare sustenabilă."],
       en: ["The preserve was established in 1989 to prevent commercial logging.", "The canopy bridge is 30 meters long and suspended high above the ground.", "It is located in the westernmost part of Samoa, on Savai'i island.", "The area is home to the 'Star Mound' (Tia Seu Lupe) archaeological site.", "The preserve is a major site for biodiversity research in the Pacific.", "Funds from tourism have helped build a new primary school for the village."],
     },
+    image: "/poi-images/samoa-falealupo-rainforest-preserve-life-v2.webp",
   },
   {
     id: "samoa-lake-lanotoo-national-park-life-v2",
@@ -155,6 +159,7 @@ export const samoaLifeV2: POI[] = [
       ro: ["Lacul Lanoto'o este situat într-o calderă vulcanică inactivă.", "A fost declarat sit de importanță internațională sub Convenția Ramsar.", "Pădurile din jur sunt clasificate ca 'păduri de nori' tropicale.", "Traseul este adesea acoperit de ferigi arborescente și orhidee sălbatice.", "Este considerat un loc sacru în tradiția orală a multor sate vecine.", "Lacul nu are afluenți vizibili, fiind alimentat în principal de ploi."],
       en: ["The lake is located in a volcanic crater at an elevation of 600 meters.", "It became Samoa's first Ramsar site of international importance in 2004.", "The lake is populated by goldfish, an introduced species from the 1800s.", "The park is a key habitat for the endemic Samoan Moorhen.", "Access is restricted to foot traffic to protect the fragile ecosystem.", "It acts as a natural reservoir for the island's central water catchment."],
     },
+    image: "/poi-images/samoa-lake-lanotoo-national-park-life-v2.webp",
   },
   {
     id: "samoa-mount-matavanu-crater-life-v2",
@@ -186,6 +191,7 @@ export const samoaLifeV2: POI[] = [
       ro: ["Erupția din 1905 a fost precedată de cutremure resimțite în tot arhipelagul.", "Lava a curs cu o viteză constantă timp de câțiva ani spre nord.", "Craterul este situat în districtul Gaga'emauga de pe Savai'i.", "Grosimea stratului de lavă în unele zone atinge 15-20 de metri.", "Este unul dintre puținele locuri unde se poate vedea un crater recent în Pacific.", "Traseul este marcat și necesită încălțăminte adecvată pentru rocă vulcanică."],
       en: ["Mount Matavanu erupted from August 1905 to November 1911.", "The lava flows created the famous Saleaula Lava Fields.", "The crater is roughly 600 meters wide at its widest point.", "A local man known as 'the crater keeper' famously maintains the path.", "The eruption forced the permanent relocation of entire coastal villages.", "It is considered an active volcanic zone by geological standards."],
     },
+    image: "/poi-images/samoa-mount-matavanu-crater-life-v2.webp",
   },
   {
     id: "samoa-togitogiga-waterfall-life-v2",
@@ -217,6 +223,7 @@ export const samoaLifeV2: POI[] = [
       ro: ["Cascada se află în districtul Falealili, pe coasta de sud a insulei.", "Legendele spun că războinicii se scăldau aici pentru noroc în luptă.", "Există poteci pavate care duc de la parcare direct la cascadă.", "Este o zonă excelentă pentru observarea păsărilor tropicale.", "Apa este filtrată natural prin straturile de rocă vulcanică din amonte.", "Săriturile în apă sunt permise doar în zonele marcate ca fiind adânce."],
       en: ["Togitogiga Waterfall is located in the village of Saleilua.", "It was historically used by Samoan warriors as a resting place.", "The falls feature a series of natural swimming pools and flat rocks.", "The site includes a changing room and picnic tables for public use.", "The surrounding gardens are part of the O Le Pupu-Pu'e National Park.", "It is easily accessible via a short, 5-minute walk from the main road."],
     },
+    image: "/poi-images/samoa-togitogiga-waterfall-life-v2.webp",
   },
   {
     id: "samoa-fuipisia-waterfall-life-v2",
@@ -248,6 +255,7 @@ export const samoaLifeV2: POI[] = [
       ro: ["Înălțimea totală a cascadei Fuipisia este de 55 de metri", "Este alimentată de cursul râului Mulivaifagatola pe Upolu", "Locația se află în districtul Atua, lângă satul Lotofaga", "Zona adăpostește specii de păsări rare specifice Polineziei", "Geologia sitului include straturi de bazalt vulcanic rezistent", "Accesul vizitatorilor se face printr-o rezervație de pădure tropicală"],
       en: ["The total drop of Fuipisia Waterfall is 55 meters", "It is primarily fed by the Mulivaifagatola River on Upolu", "The falls are located in the Atua district near Lotofaga village", "The area is a known habitat for endemic Samoan bird species", "The cliff face is composed of ancient volcanic basalt layers", "A short jungle trek is required to reach the main viewpoint"],
     },
+    image: "/poi-images/samoa-fuipisia-waterfall-life-v2.webp",
   },
   {
     id: "samoa-sopoaga-waterfall-life-v2",
@@ -279,6 +287,7 @@ export const samoaLifeV2: POI[] = [
       ro: ["Cascada Sopoaga este situată lângă satul Lotofaga pe Upolu", "Punctul de belvedere se află într-o grădină botanică îngrijită", "Defileul este înconjurat de o pădure tropicală primară densă", "Vizitatorii pot vedea plante medicinale tradiționale samoane", "Cascada este alimentată de un afluent al râului Mulivaifagatola", "Este considerată una dintre cele mai estetice cascade din Pacific"],
       en: ["Sopoaga Waterfall is located near the village of Lotofaga", "The lookout point is situated within a curated botanical garden", "The surrounding gorge is blanketed in dense primary rainforest", "The site features displays of traditional Samoan medicinal flora", "The falls are part of the southeastern watershed of Upolu", "It is widely regarded as one of Samoa's most photogenic spots"],
     },
+    image: "/poi-images/samoa-sopoaga-waterfall-life-v2.webp",
   },
   {
     id: "samoa-papapapaitai-falls-life-v2",
@@ -310,6 +319,7 @@ export const samoaLifeV2: POI[] = [
       ro: ["Papapapaitai este cea mai înaltă cascadă din Samoa, având 100m", "Se prăbușește într-un crater vulcanic adânc pe insula Upolu", "Locația este accesibilă prin artera principală Cross Island Road", "Fundul craterului este inaccesibil din cauza pereților verticali", "Fenomenul de ceață densă este foarte frecvent în această zonă", "Zona este esențială pentru colectarea apelor pluviale în centrul insulei"],
       en: ["Papapapaitai is the tallest waterfall in Samoa at 100 meters", "It plunges into a spectacular volcanic crater on Upolu Island", "The site is located adjacent to the scenic Cross Island Road", "The gorge floor remains largely unexplored due to its steepness", "The falls are often obscured by low-hanging tropical clouds", "It is a key feature of the island's central highland watershed"],
     },
+    image: "/poi-images/samoa-papapapaitai-falls-life-v2.webp",
   },
   {
     id: "samoa-tafua-peninsula-rainforest-preserve-life-v2",
@@ -341,6 +351,7 @@ export const samoaLifeV2: POI[] = [
       ro: ["Rezervația protejează pădurea tropicală primară de pe Savai'i", "Craterul Tafua este un con vulcanic stins în interiorul ariei", "A fost înființată în 1990 cu sprijinul fundației Seacology", "Zona este un habitat crucial pentru pasărea rară Manumea", "Vulpile zburătoare samoane pot fi observate frecvent aici", "Comunitatea locală deține și administrează direct rezervația"],
       en: ["The preserve protects primary coastal rainforest on Savai'i Island", "Tafua Crater is an extinct volcanic feature within the reserve", "It was established in 1990 with support from the Seacology foundation", "The area is a key sanctuary for the endangered Manumea pigeon", "Large colonies of Samoan flying foxes inhabit the forest canopy", "It is managed by the local community through traditional stewardship"],
     },
+    image: "/poi-images/samoa-tafua-peninsula-rainforest-preserve-life-v2.webp",
   },
   {
     id: "samoa-savaia-marine-protected-area-life-v2",
@@ -372,6 +383,7 @@ export const samoaLifeV2: POI[] = [
       ro: ["Savaia este situată în Golful Lefaga pe coasta de sud a Upolu", "Principala atracție sunt scoicile uriașe (Tridacna gigas) protejate", "Inițiativa este gestionată în totalitate de comunitatea locală", "Pescuitul este strict interzis în perimetrul ariei protejate", "Monitorizarea activă a dus la regenerarea coralilor din zonă", "Proiectul este un model internațional pentru conservarea marină"],
       en: ["Savaia is located in Lefaga Bay on the southern coast of Upolu", "The sanctuary is famous for its protected giant clam population", "The project is entirely managed by the local village community", "Fishing is strictly prohibited within the demarcated conservation zone", "Active stewardship has led to significant coral reef recovery", "It serves as a model for community-based marine resource management"],
     },
+    image: "/poi-images/samoa-savaia-marine-protected-area-life-v2.webp",
   },
   {
     id: "samoa-peapea-cave-life-v2",
@@ -403,6 +415,7 @@ export const samoaLifeV2: POI[] = [
       ro: ["Peștera Pe'ape'a este un tub de lavă natural pe insula Savai'i", "Este numită după drepnelele care cuibăresc în interior", "Păsările folosesc ecolocația pentru a naviga în întuneric", "Geologic, peștera s-a format prin drenarea lavei bazaltice", "Oferă un microclimat răcoros constant sub suprafața solului", "Vizitatorii au nevoie de lanterne pentru a explora interiorul"],
       en: ["Pe'ape'a Cave is a classic example of a volcanic lava tube", "It is named after the White-rumped Swiftlets that inhabit it", "The resident swiftlets use echolocation to fly in total darkness", "The cave was formed during ancient basaltic lava flows", "The subterranean environment is significantly cooler than the surface", "Torches are essential for visitors exploring the cave's length"],
     },
+    image: "/poi-images/samoa-peapea-cave-life-v2.webp",
   },
   {
     id: "samoa-mount-silisili-life-v2",
@@ -434,6 +447,7 @@ export const samoaLifeV2: POI[] = [
       ro: ["Muntele Silisili este cel mai înalt punct din Samoa, la 1858m", "Se află în centrul nelocuit al insulei Savai'i", "Muntele adăpostește o pădure de ceață tropicală rară", "Drumeția spre vârf durează de obicei două până la trei zile", "Geologic, muntele este un con vulcanic relativ recent", "Numele 'Silisili' se traduce prin 'cel mai înalt' în samoană"],
       en: ["Mount Silisili is Samoa's highest elevation at 1,858 meters", "It is situated in the remote central highlands of Savai'i", "The peak supports a high-biodiversity tropical cloud forest", "Reaching the summit typically involves a 2-3 day expedition", "The mountain is a dormant volcanic cone of significant scale", "Its name, 'Silisili', literally means 'highest' in the Samoan language"],
     },
+    image: "/poi-images/samoa-mount-silisili-life-v2.webp",
   },
   {
     id: "samoa-namua-island-life-v2",
@@ -465,6 +479,7 @@ export const samoaLifeV2: POI[] = [
       ro: ["Namu'a face parte din grupul de insule Aleipata", "Nu există rezidenți permanenți sau electricitate pe insulă", "Cazarea se face în fale-uri tradiționale deschise", "Snorkelingul cu țestoase marine este activitatea principală", "Insula este accesibilă doar cu barca de pe coasta Upolu", "Un traseu de drumeție duce la vârful insulei în 20 de minute"],
       en: ["Namu'a is part of the scenic Aleipata Islands group", "There are no permanent residents or power lines on the island", "Visitors stay in traditional open-sided beachfront fales", "Sea turtle sightings are extremely common while snorkeling", "The island is accessed via a 10-minute boat ride from Upolu", "A summit trail provides views of the entire Aleipata region"],
     },
+    image: "/poi-images/samoa-namua-island-life-v2.webp",
   },
   {
     id: "samoa-nuulopa-bird-sanctuary-life-v2",
@@ -496,6 +511,7 @@ export const samoaLifeV2: POI[] = [
       ro: ["Nu'ulopa este situată central în strâmtoarea Apolima", "Insula este protejată la nivel național ca sanctuar aviar", "Găzduiește o populație semnificativă de vulpi zburătoare", "Reciful din jur este renumit pentru biodiversitatea sa ridicată", "Insula este de origine vulcanică și complet nelocuită", "Accesul uman este limitat pentru a proteja cuiburile păsărilor"],
       en: ["Nu'ulopa is located in the strait between Upolu and Savai'i", "The island is a designated national sanctuary for seabirds", "It serves as a major roosting site for Samoan flying foxes", "The surrounding waters are famous for pristine coral health", "The islet is a volcanic formation with no human inhabitants", "Landing on the island is restricted to minimize disturbance"],
     },
+    image: "/poi-images/samoa-nuulopa-bird-sanctuary-life-v2.webp",
   },
   {
     id: "samoa-saleaula-lava-fields-life-v2",
@@ -527,6 +543,7 @@ export const samoaLifeV2: POI[] = [
       ro: ["Câmpurile s-au format prin erupția Muntelui Matavanu (1905-1911)", "Ruina bisericii LMS conține lavă solidificată în interior", "'Mormântul Fecioarei' a fost ocolit miraculos de fluxul de lavă", "Din punct de vedere geologic, câmpul este compus din bazalt", "Erupția vulcanică a durat în total peste șase ani de zile", "Turiștii pot merge direct pe scoarța de lavă solidificată"],
       en: ["The fields resulted from Mount Matavanu's 1905-1911 eruption", "Lava flows filled the interior of the local LMS church ruins", "The 'Virgin's Grave' is a famous site spared by the molten lava", "The terrain features diverse basaltic lava formations like pahoehoe", "The eruption was one of the longest in Samoa's recorded history", "The site offers insight into early 20th-century village life"],
     },
+    image: "/poi-images/samoa-saleaula-lava-fields-life-v2.webp",
   },
   {
     id: "samoa-vaipu-swamp-forest-life-v2",
@@ -558,6 +575,7 @@ export const samoaLifeV2: POI[] = [
       ro: ["Vaipu este una dintre ultimele păduri de mlaștină din Polinezia", "Se află într-o depresiune geologică în estul insulei Upolu", "Pădurea acționează ca un filtru natural pentru apele subterane", "Păsări rare precum Mao cuibăresc în această zonă protejată", "Arborii Pandanus sunt specia dominantă în zona umedă", "Zona este esențială pentru atenuarea inundațiilor în aval"],
       en: ["Vaipu is one of the last remaining lowland swamp forests in Polynesia", "It is located within a volcanic catchment area on eastern Upolu", "The forest provides critical water filtration for the island's aquifer", "It is a primary breeding ground for the endangered Mao bird", "Specialized Pandanus trees are a hallmark of this wet ecosystem", "The area is a priority site for national biodiversity conservation"],
     },
+    image: "/poi-images/samoa-vaipu-swamp-forest-life-v2.webp",
   },
   {
     id: "samoa-mount-vaea-nature-reserve-life-v2",
@@ -589,6 +607,7 @@ export const samoaLifeV2: POI[] = [
       ro: ["Muntele Vaea găzduiește mormântul lui Robert Louis Stevenson", "Vârful se află la o înălțime de 472 de metri deasupra mării", "Traseul principal spre vârf se numește 'Road of Loving Hearts'", "Rezervația protejează o zonă importantă de pădure tropicală", "Oferă o vedere panoramică asupra capitalei Apia și a portului", "Vila Vailima, fosta reședință a scriitorului, este la poalele muntelui"],
       en: ["Mount Vaea is the burial site of author Robert Louis Stevenson", "The summit reaches an elevation of 472 meters above sea level", "The 'Road of Loving Hearts' trail was built by Samoan chiefs", "The reserve is a key site for indigenous forest restoration", "The summit provides the best vantage point overlooking Apia", "Vailima, the Stevenson estate, is located at the mountain's base"],
     },
+    image: "/poi-images/samoa-mount-vaea-nature-reserve-life-v2.webp",
   },
   {
     id: "samoa-aganoa-beach-life-v2",
@@ -620,6 +639,7 @@ export const samoaLifeV2: POI[] = [
       ro: ["Plaja Aganoa este renumită pentru condițiile excelente de surfing", "Se află pe coasta de sud izolată a insulei Savai'i", "Nisipul alb fin contrastează cu rocile vulcanice negre", "Reciful din larg este un loc popular pentru observarea țestoaselor", "Zona nu este dezvoltată cu complexe hoteliere de mari dimensiuni", "Valurile se formează pe un recif situat chiar în fața plajei"],
       en: ["Aganoa Beach is a premier location for consistent surf breaks", "It is situated on the remote and rugged southern coast of Savai'i", "The landscape features a mix of white coral sand and black lava rock", "Green and hawksbill turtles are frequently seen in the bay", "The area promotes low-impact and sustainable eco-tourism", "It is widely considered one of the most beautiful beaches in Samoa"],
     },
+    image: "/poi-images/samoa-aganoa-beach-life-v2.webp",
   },
   {
     id: "samoa-saanapu-mangrove-life-v2",
@@ -651,6 +671,7 @@ export const samoaLifeV2: POI[] = [
       ro: ["Sa'anapu protejează una dintre cele mai mari zone de mangrove", "Administrarea este realizată de șefii de sat prin legi locale", "Canoele tradiționale sunt folosite pentru a explora canalele", "Mangrovele acționează ca un scut natural împotriva tsunami-urilor", "Zona adăpostește numeroase specii rare de crabi și crustacee", "Este un habitat crucial pentru păsările acvatice din regiune"],
       en: ["Sa'anapu protects a major mangrove wetland on southern Upolu", "Management is governed by local village councils and traditions", "Exploration is typically conducted via traditional outrigger canoes", "The mangroves are essential for coastal resilience and flood control", "The area is a significant nursery for Pacific reef fish species", "It is recognized as an Important Bird Area (IBA) in Samoa"],
     },
+    image: "/poi-images/samoa-saanapu-mangrove-life-v2.webp",
   },
   {
     id: "samoa-satoalepai-turtle-sanctuary-life-v2",
@@ -682,6 +703,7 @@ export const samoaLifeV2: POI[] = [
       ro: ["Sato'alepai este situat în districtul Gaga'emauga pe Savai'i", "Sanctuarul se concentrează pe protejarea țestoaselor verzi", "Animalele trăiesc într-un iaz cu apă salmastră lângă țărm", "Proiectul este administrat direct de către comunitatea locală", "Țestoasele rănite sunt îngrijite până la recuperarea completă", "Țestoasa este considerată un animal sacru în tradiția samoană"],
       en: ["Sato'alepai is located in the Gaga'emauga district of Savai'i", "The facility focuses on the Green Sea Turtle (Chelonia mydas)", "The turtles inhabit a large brackish coastal pond environment", "It is a community-based project funded by eco-tourism", "Many of the turtles are released back into the wild annually", "The sanctuary provides essential data for regional turtle tracking"],
     },
+    image: "/poi-images/samoa-satoalepai-turtle-sanctuary-life-v2.webp",
   },
   {
     id: "samoa-apolima-island-life-v2",
@@ -713,6 +735,7 @@ export const samoaLifeV2: POI[] = [
       ro: ["Insula are o suprafață totală de mai puțin de 1 kilometru pătrat.", "Punctul maxim de altitudine de pe marginea craterului este de 165 de metri.", "Populația insulei este estimată la aproximativ 75-100 de locuitori.", "Apolima este situată la 2,4 kilometri distanță de insula Manono.", "Nu există vehicule motorizate sau drumuri asfaltate pe insulă.", "Accesul în port se face printr-o breșă în stâncă lată de doar 10 metri."],
       en: ["The island occupies a total land area of less than 1 square kilometre.", "The highest point on the crater rim stands at 165 metres above sea level.", "The resident population typically ranges between 75 and 100 people.", "Apolima is located approximately 2.4 kilometres west of Manono Island.", "There are no motor vehicles or paved roads anywhere on the island.", "The entrance to the natural harbour is only about 10 metres wide."],
     },
+    image: "/poi-images/samoa-apolima-island-life-v2.webp",
   },
   {
     id: "samoa-manono-island-reefs-life-v2",
@@ -744,6 +767,7 @@ export const samoaLifeV2: POI[] = [
       ro: ["Insula are o suprafață terestră de aproximativ 3 kilometri pătrați.", "Cele patru sate principale sunt Apai, Faleu, Lepuiai și Salua.", "Posesia câinilor este interzisă prin lege pe întreaga insulă.", "Altitudinea maximă este atinsă pe muntele Va'atui, la 110 metri.", "În secolul XIX, insula era supranumită 'Scaunul Războiului' datorită puterii sale.", "Un traseu pietonal de coastă permite înconjurul insulei în aproximativ 2 ore."],
       en: ["The island covers a land area of approximately 3 square kilometres.", "The population is distributed among four villages: Apai, Faleu, Lepuiai, and Salua.", "Dogs have been strictly prohibited on the island for generations.", "The highest point, Mount Va'atui, reaches an elevation of 110 metres.", "During the 1800s, Manono was recognized as a major regional naval power.", "A coastal footpath encircles the island, taking about 2 hours to walk."],
     },
+    image: "/poi-images/samoa-manono-island-reefs-life-v2.webp",
   },
   {
     id: "samoa-cape-mulinuu-marine-life-v2",
@@ -775,6 +799,7 @@ export const samoaLifeV2: POI[] = [
       ro: ["Este cel mai vestic punct geografic al insulei Savai'i și al statului Samoa.", "Lângă promontoriu se găsesc movilele stelate 'Tia Seu Lupe' din piatră.", "Stâncile sunt formate din lavă bazaltică datând din perioada pleistocenului.", "Tradiția menționează două orificii în stâncă prin care sufletele părăseau lumea.", "Zona a fost un centru ceremonial important pentru vânătoarea de porumbei.", "Curenții maritimi sunt extrem de puternici în această regiune a Pacificului."],
       en: ["It is the westernmost point of Savai'i Island and the nation of Samoa.", "The area contains 'Tia Seu Lupe', ancient stone mounds shaped like stars.", "The cliffs are composed primarily of Pleistocene-era basaltic lava flows.", "According to legend, there are two separate portals for spirits at the site.", "The location was historically used for the elite sport of ceremonial pigeon snaring.", "Offshore currents are among the strongest and most unpredictable in Samoa."],
     },
+    image: "/poi-images/samoa-cape-mulinuu-marine-life-v2.webp",
   },
   {
     id: "samoa-mu-pagoa-waterfall-life-v2",
@@ -806,6 +831,7 @@ export const samoaLifeV2: POI[] = [
       ro: ["Cascada este alimentată de râul Lata, unul dintre cele mai mari cursuri de apă din Savai'i.", "Înălțimea căderii de apă este de aproximativ 5 metri până la nivelul mării.", "Este considerată cea mai lată cascadă cu vărsare directă în ocean din Samoa.", "Se află situată la limita geografică dintre satele Gautavai și Taga.", "Bazinul de la bază este un loc de amestec direct între apa dulce și cea sărată.", "Formațiunile stâncoase din jur sunt rezultatul activității vulcanice istorice."],
       en: ["The waterfall is fed by the Lata River, one of Savai'i Island's primary waterways.", "The vertical drop measures approximately 5 metres in height.", "It is recognized as the widest waterfall in Samoa that flows directly into the sea.", "The falls are located near the coastal boundary of Gautavai and Taga villages.", "The pool at the base forms a natural interface between freshwater and saltwater.", "The surrounding landscape is dominated by basaltic rock from ancient lava flows."],
     },
+    image: "/poi-images/samoa-mu-pagoa-waterfall-life-v2.webp",
   },
   {
     id: "samoa-vaisigano-river-valley-life-v2",
@@ -837,6 +863,7 @@ export const samoaLifeV2: POI[] = [
       ro: ["Râul se varsă în Oceanul Pacific chiar în portul capitalei Apia.", "Valea Vaisigano găzduiește cele mai importante instalații hidroelectrice din Samoa.", "Recent, s-au investit sume record în ziduri de protecție împotriva inundațiilor.", "Bazinul hidrografic al râului acoperă o suprafață de circa 34 km².", "Malurile râului sunt habitate pentru specii rare de ferigi și orhidee tropicale.", "Istoric, râul a furnizat prima rețea de apă potabilă pentru așezările din zonă."],
       en: ["The river discharges into the Pacific Ocean at the Port of Apia.", "The Vaisigano Valley contains the primary hydroelectric power stations in Samoa.", "Extensive river walls were constructed recently to mitigate flood risks during cyclones.", "The river's catchment area covers approximately 34 square kilometres of land.", "The upper valley is a refuge for several rare and endemic fern and orchid species.", "The river's flow was the decisive factor for the location of the early Apia settlement."],
     },
+    image: "/poi-images/samoa-vaisigano-river-valley-life-v2.webp",
   },
   {
     id: "samoa-lalomanu-marine-reserve-life-v2",
@@ -868,5 +895,6 @@ export const samoaLifeV2: POI[] = [
       ro: ["Rezervația adăpostește peste 50 de genuri diferite de corali duri și moi.", "Recuperarea recifului după dezastrul din 2009 este considerată un succes ecologic.", "Zona este un loc crucial de hrănire pentru țestoasele marine verzi.", "Adâncimea apei în laguna protejată variază între 2 și 5 metri.", "Lalomanu face parte dintr-o rețea de arii marine protejate la nivel național.", "Pescuitul comercial este strict interzis în perimetrul rezervatului."],
       en: ["The reserve is home to more than 50 distinct genera of corals.", "Marine scientists have noted a rapid recovery rate of the reef since 2009.", "The area serves as a critical feeding ground for the endangered green sea turtle.", "The lagoon's depth is consistently shallow, often less than 4 metres deep.", "The reserve includes several kilometres of Upolu's most pristine reef front.", "Community-led conservation efforts include seasonal bans on certain types of fishing."],
     },
+    image: "/poi-images/samoa-lalomanu-marine-reserve-life-v2.webp",
   }
 ];

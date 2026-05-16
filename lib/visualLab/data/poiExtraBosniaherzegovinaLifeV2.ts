@@ -906,6 +906,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Situat la baza muntelui Igman", "Găzduiește fosta reședință a lui Josip Broz Tito", "Face parte din bazinul hidrologic al râului Bosna", "Cunoscut pentru izvoarele sale de apă potabilă", "Zonă de conflict major în perioada 1992-1995", "Include un sistem complex de canale și lacuri"],
       en: ["Located at the base of Igman Mountain", "Site of a former residence of Josip Broz Tito", "Part of the Bosna River hydrological basin", "Famous for its cold drinking water springs", "Severely damaged during the war from 1992-1995", "Features a network of man-made water canals"],
     },
+    image: "/poi-images/bosniaherzegovina-stojcevac-life-v2.webp",
   },
   {
     id: "bosniaherzegovina-stari-gaj-life-v2",
@@ -938,6 +939,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Exemplu tipic de pădure de luncă lângă Sarajevo", "Specii principale: arinul și stejarul pedunculat", "Funcție vitală de protecție a pânzei freatice", "Habitat pentru specii rare de păsări autohtone", "Parte a ariei protejate 'Vrelo Bosne'", "Biotope modelate de inundațiile periodice"],
       en: ["Significant floodplain forest near Sarajevo", "Dominated by alder and pedunculate oak trees", "Plays a vital role in groundwater protection", "Habitat for rare native bird species", "Integral part of the 'Vrelo Bosne' protected area", "Ecosystem shaped by regular seasonal flooding"],
     },
+    image: "/poi-images/bosniaherzegovina-stari-gaj-life-v2.webp",
   },
   {
     id: "bosniaherzegovina-velika-suma-life-v2",
@@ -970,6 +972,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Masiv forestier vast în Alpii Dinarici", "Pădure de amestec cu fag, brad și molid", "Habitat important pentru muflonul european", "Asigură protecția naturală împotriva eroziunii", "Sursă bogată de fructe de pădure și plante", "Conține numeroase izvoare de munte cristaline"],
       en: ["Large forest massif in the Dinaric Alps", "Mixed forest of beech, fir, and spruce", "Significant habitat for European mouflon", "Serves as natural protection against soil erosion", "Rich in wild berries and medicinal plants", "Contains numerous pristine mountain springs"],
     },
+    image: "/poi-images/bosniaherzegovina-velika-suma-life-v2.webp",
   },
   {
     id: "bosniaherzegovina-vran-mountain-park-life-v2",
@@ -1002,5 +1005,6 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       ro: ["Vârful principal: Veliki Vran, 2074 metri", "Inclus în Parcul Natural Blidinje", "Găzduiește specia rară de pin Pinus heldreichii", "Peisaj carstic marcat de numeroase doline", "Zonă tradițională pentru păstoritul montan", "Destinație majoră pentru drumeții și schi de tură"],
       en: ["Highest peak: Veliki Vran at 2,074 meters", "Part of the Blidinje Nature Park", "Home to the rare Pinus heldreichii pine", "Typical karst landscape with many sinkholes", "Vital area for traditional mountain pastoralism", "Popular spot for hiking and alpine skiing"],
     },
+    image: "/poi-images/bosniaherzegovina-vran-mountain-park-life-v2.webp",
   }
 ];

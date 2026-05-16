@@ -228,6 +228,7 @@ export const montenegroAllPoi: POI[] = [
       ro: ["Anul construcției actuale: 1701-1704", "Reședința mitropoliților Muntenegrului", "Adăpostește mâna dreaptă a Sfântului Ioan Botezătorul", "Fondator: Mitropolitul Danilo I Petrović", "Păstrează fragmente din Adevărata Cruce", "Locul de încoronare a multor conducători muntenegreni"],
       en: ["Year of current construction: 1701 to 1704", "Seat of the Metropolitans of Montenegro", "Houses the relic of the hand of John the Baptist", "Founder: Metropolitan Danilo I Petrović", "Preserves fragments of the True Cross", "Coronation site of numerous Montenegrin rulers"],
     },
+    image: "/poi-images/me-cetinje-monastery.webp",
   },
   {
     id: "me-moraca-monastery",
@@ -318,6 +319,7 @@ export const montenegroAllPoi: POI[] = [
       ro: ["Altitudine medie: 1000 de metri deasupra mării", "Râul principal: Ibar", "Ganića Kula construită în 1797", "Centru economic bazat pe silvicultură", "Oraș de frontieră cu Kosovo", "Înconjurat de munții Hajla"],
       en: ["Average elevation: 1,000 meters above sea level", "Main river: Ibar", "Ganića Kula built in 1797", "Economic center for forestry", "Border town near Kosovo", "Surrounded by the Hajla mountains"],
     },
+    image: "/poi-images/me-002-city.webp",
   },
   {
     id: "me-002-hajla",
@@ -381,6 +383,7 @@ export const montenegroAllPoi: POI[] = [
       ro: ["Anul fondării orașului modern: 1862", "Nume anterior: Ivangrad (1949-1992)", "Râul principal: Lim", "Centrul regiunii Polimlje", "Localizare lângă munții Bjelasica", "Găzduiește Muzeul Polimlje"],
       en: ["Year of modern town foundation: 1862", "Former name: Ivangrad (1949-1992)", "Main river: Lim", "Center of the Polimlje region", "Located near the Bjelasica mountains", "Home of the Polimlje Museum"],
     },
+    image: "/poi-images/me-003-city.webp",
   },
   {
     id: "me-003-djurdjevi-stupovi",
@@ -444,6 +447,7 @@ export const montenegroAllPoi: POI[] = [
       ro: ["Plav este situat la o altitudine de 945 de metri deasupra mării.", "Orașul este reședința municipalității omonime din nord-estul țării.", "Kula Redžepagić a fost construită în secolul al XVII-lea pentru apărare.", "Plav se învecinează direct cu Parcul Național Prokletije.", "Populația orașului este formată în majoritate din bosniaci.", "Istoric, orașul a făcut parte din Vilaietul Kosovo al Imperiului Otoman."],
       en: ["Plav is located at an altitude of 945 meters above sea level.", "The town is the administrative center of the Plav Municipality.", "The Redžepagić Kula was constructed in the 17th century for defense.", "Plav serves as the main gateway to the Prokletije National Park.", "The majority of the town's population identifies as Bosniak.", "Historically, Plav was part of the Ottoman Vilayet of Kosovo."],
     },
+    image: "/poi-images/me-004-city.webp",
   },
   {
     id: "me-004-plav-lake",
@@ -507,6 +511,7 @@ export const montenegroAllPoi: POI[] = [
       ro: ["Pljevlja este a treia municipalitate din Muntenegru ca suprafață.", "Orașul găzduiește singura termocentrală pe cărbune din țară.", "Situl arheologic Municipium S se află în apropierea orașului.", "Între 1576 și 1833, orașul a fost reședința Sangeacului Herțegovina.", "Mănăstirea Sfânta Treime datează din secolul al XII-lea.", "Moscheea lui Husein-pașa are unul dintre cele mai înalte minarete din Balcani."],
       en: ["Pljevlja is the third largest municipality in Montenegro by land area.", "The town is home to the country's only coal-fired power plant.", "The archaeological site of Municipium S is located near the town.", "Between 1576 and 1833, Pljevlja was the seat of the Sanjak of Herzegovina.", "The Monastery of the Holy Trinity dates back to the 12th century.", "The Husein-paša Mosque features one of the tallest minarets in the Balkans."],
     },
+    image: "/poi-images/me-005-city.webp",
   },
   {
     id: "me-005-husein-pasa",
@@ -538,6 +543,7 @@ export const montenegroAllPoi: POI[] = [
       ro: ["Moscheea a fost construită în perioada 1573-1594.", "Minaretul are o înălțime de 42 de metri, fiind printre cele mai înalte din Balcani.", "În moschee se păstrează un Coran scris de mână din anul 1571.", "Ctitorul Husein-pașa Boljanić era originar din zona orașului Pljevlja.", "Edificiul are o cupolă centrală și patru cupole mai mici la colțuri.", "Interiorul este decorat cu picturi murale autentice din secolul al XVI-lea."],
       en: ["The mosque was built between the years 1573 and 1594.", "The minaret stands 42 meters tall, one of the highest in the Balkans.", "A handwritten Quran dating from 1571 is kept inside the mosque.", "The benefactor, Husein-pasha Boljanić, was originally from the Pljevlja area.", "The structure features a main central dome and four smaller corner domes.", "The interior is decorated with original 16th-century wall paintings."],
     },
+    image: "/poi-images/me-005-husein-pasa.webp",
   },
   // ME-006: Bijelo Polje
   {
@@ -570,6 +576,7 @@ export const montenegroAllPoi: POI[] = [
       ro: ["Numele Bijelo Polje înseamnă literal „Câmpul Alb”.", "Orașul este situat pe importanta cale ferată Belgrad-Bar.", "Sub stăpânire otomană, orașul se numea Akova.", "Evanghelia lui Miroslav a fost scrisă în Biserica Sfântul Petru.", "Orașul găzduiește un festival internațional de tambura.", "Bijelo Polje este situat pe malurile râului Lim."],
       en: ["The name Bijelo Polje literally means 'White Field'.", "The city is a key stop on the Belgrade-Bar railway line.", "During Ottoman rule, the city was known as Akova.", "The Miroslav Gospel was written in the town's St. Peter's Church.", "The city hosts an annual international tamburitza festival.", "Bijelo Polje is situated along the banks of the Lim River."],
     },
+    image: "/poi-images/me-006-city.webp",
   },
   {
     id: "me-006-st-peter",
@@ -634,6 +641,7 @@ export const montenegroAllPoi: POI[] = [
       ro: ["Orașul original Plužine se află astăzi pe fundul lacului Piva.", "Orașul actual a fost reconstruit complet în anii 1970.", "Plužine este situat pe malul lacului Piva, cel mai mare rezervor din țară.", "În apropiere se află barajul Mratinje, unul dintre cele mai înalte din Europa.", "Municipalitatea este centrul Parcului Natural Piva.", "Orașul este situat la o altitudine de aproximativ 720 de metri."],
       en: ["The original site of Plužine now lies at the bottom of Lake Piva.", "The current town was constructed entirely in the 1970s.", "Plužine sits on the shore of Lake Piva, the country's largest reservoir.", "Nearby is the Mratinje Dam, one of the highest in Europe.", "The municipality serves as the administrative hub for Piva Nature Park.", "The town is situated at an elevation of approximately 720 meters."],
     },
+    image: "/poi-images/me-008-city.webp",
   },
   {
     id: "me-008-piva-monastery",
@@ -761,6 +769,7 @@ export const montenegroAllPoi: POI[] = [
       ro: ["Fondat oficial în anul 1853", "Altitudine de aproximativ 740 metri", "Centrul clanului Vasojevići", "Situat la confluența a trei râuri", "Poartă de acces către munții Komovi", "Centru administrativ din secolul XIX"],
       en: ["Founded officially in 1853", "Elevation of 740 meters above sea level", "Cultural center of the Vasojevići clan", "Located at a three-river confluence", "Gateway to the Komovi mountains", "Administrative hub since the late 1800s"],
     },
+    image: "/poi-images/me-011-city.webp",
   },
   {
     id: "me-011-komovi",
@@ -891,6 +900,7 @@ export const montenegroAllPoi: POI[] = [
       ro: ["Locul Bătăliei de la Mojkovac (1916)", "Centru minier medieval la Brskovo", "Situat pe malul râului Tara", "Poarta spre Parcul Biogradska Gora", "Altitudine medie de 850 metri", "Găzduiește festivalul de film de toamnă"],
       en: ["Site of the 1916 Battle of Mojkovac", "Medieval mining center of Brskovo", "Located on the banks of the Tara River", "Gateway to Biogradska Gora Park", "Elevation of approximately 850 meters", "Hosts the Mojkovac Film Autumn festival"],
     },
+    image: "/poi-images/me-017-city.webp",
   },
   // ME-018: Cetinje
   {
@@ -955,6 +965,7 @@ export const montenegroAllPoi: POI[] = [
       ro: ["Fondat oficial în anul 1861", "Situat la confluența a 3 râuri", "Fenomenul răsăritului dublu", "Centrul istoric al tribului Drobnjaci", "Cea mai mică municipalitate", "Poartă către Canionul Nevidio"],
       en: ["Founded officially in 1861", "Confluence of 3 distinct rivers", "Known for the double sunrise phenomenon", "Heart of the Drobnjaci tribe area", "Smallest municipality by population", "Primary base for Nevidio Canyon"],
     },
+    image: "/poi-images/me-019-city.webp",
   },
   {
     id: "me-019-nevidio",
@@ -1018,6 +1029,7 @@ export const montenegroAllPoi: POI[] = [
       ro: ["Fondat în anul 1648 de otomani", "Altitudine oficială de 954 m", "Centrul principal de schi din țară", "Situat pe cursul superior al Tarei", "Lângă pădurea virgină Biogradska", "Faimos pentru brânza stratificată"],
       en: ["Founded in 1648 by the Ottomans", "Elevation of 954 meters above sea level", "Montenegro's premier ski hub", "Located on the upper Tara River", "Gateway to Biogradska Gora forest", "Famous for unique 'Lisnati' cheese"],
     },
+    image: "/poi-images/me-020-city.webp",
   },
   {
     id: "me-020-bjelasica",
@@ -1081,5 +1093,6 @@ export const montenegroAllPoi: POI[] = [
       ro: ["Orașul a fost fondat de regele Nikola I în anul 1870.", "Poartă numele prințului Danilo I al Muntenegrului.", "Situat în valea Zeta, o regiune agricolă extrem de fertilă.", "Cunoscut pentru exportul de marmură de înaltă calitate.", "Găzduiește Academia de Poliție din Muntenegru.", "Situl Gradina din apropiere atestă prezența romană în zonă."],
       en: ["Founded by King Nikola I in 1870 as a planned capital.", "Named after Prince Danilo, Montenegro's first secular ruler.", "Located in the Bjelopavlići plain within the Zeta Valley.", "Renowned for its stone masonry and marble processing industry.", "Home to the national Police Academy of Montenegro.", "The Roman site of Gradina is located in its immediate vicinity."],
     },
+    image: "/poi-images/me-021-city.webp",
   },
 ];

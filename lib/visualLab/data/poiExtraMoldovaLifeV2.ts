@@ -1077,5 +1077,6 @@ export const moldovaLifeV2: POI[] = [
       ro: ["Pajiștile Prutului se întind pe aproximativ 20 km.", "Lungimea totală a Prutului este de 953 km.", "Sectorul moldovenesc are circa 695 km.", "Lunca include zone umede și pajiști inundabile.", "Pajiștile oferă habitat pentru stârci și berze.", "Zona este o arie protejată."],
       en: ["The Prut meadows stretch about 20 km.", "The Prut River total length is 953 km.", "The Moldovan section is about 695 km.", "The floodplain includes wetlands and flood meadows.", "The meadows provide habitat for herons and storks.", "The area is a protected zone."],
     },
+    image: "/poi-images/moldova-prut-river-meadows-life-v2.webp",
   }
 ];

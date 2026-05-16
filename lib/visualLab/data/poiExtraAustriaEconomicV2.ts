@@ -32,6 +32,7 @@ export const austriaEconomicV2: POI[] = [
       ro: ["Vöcklabruck a primit drepturi oficiale de oraș în anul 1353.", "Orașul este situat la o altitudine de aproximativ 433 de metri deasupra nivelului mării.", "Districtul Vöcklabruck acoperă o suprafață de circa 1.084 de kilometri pătrați.", "Performanța economică este marcată semnificativ de industria celulozei și a hârtiei.", "În Vöcklabruck se intersectează drumurile federale B1 și B145.", "Orașul este considerat poarta către Salzkammergut datorită poziției sale geografice."],
       en: ["Vocklabruck was officially granted city rights in the year 1353.", "The town is situated at an elevation of approximately 433 meters above sea level.", "The district of Vocklabruck covers an area of around 1,084 square kilometers.", "The economic output is significantly shaped by the pulp and paper industry.", "The federal roads B1 (Wiener Strasse) and B145 (Salzkammergutstrasse) intersect in Vocklabruck.", "The town is known as the gateway to the Salzkammergut due to its geographical location."],
     },
+    image: "/poi-images/austria-vocklabruck-economic-v2.webp",
   },
   {
     id: "austria-ried-im-innkreis-economic-v2",
@@ -64,6 +65,7 @@ export const austriaEconomicV2: POI[] = [
       ro: ["Ried im Innkreis a fost ridicat la rangul de oraș în anul 1867.", "Orașul găzduiește sediul central al producătorului de schiuri Fischer Sports.", "FACC, o companie lider în industria aeronautică, își are originile aici.", "Regiunea Innviertel, unde se află Ried, aparține permanent Austriei doar din 1779 (Pacea de la Teschen).", "Piața centrală din Ried (Stadtplatz) este una dintre cele mai mari din Austria Superioară.", "Orașul este situat la o altitudine de 433 de metri în regiunea subalpină."],
       en: ["Ried im Innkreis was elevated to city status in the year 1867.", "The town hosts the headquarters of the ski manufacturer Fischer Sports.", "FACC, a leading company in the aerospace industry, originated here.", "The Innviertel, where Ried is located, has belonged permanently to Austria since the Treaty of Teschen in 1779.", "The Ried town square is one of the largest marketplaces in Upper Austria.", "The town is situated at an elevation of 433 meters in the Alpine foothills."],
     },
+    image: "/poi-images/austria-ried-im-innkreis-economic-v2.webp",
   },
   {
     id: "austria-bad-wimsbach-economic-v2",
@@ -96,6 +98,7 @@ export const austriaEconomicV2: POI[] = [
       ro: ["Mlaștina din Neydharting s-a format acum aproximativ 10.000 până la 12.000 de ani.", "Localitatea poartă titlul de 'Bad' (Băi) din anul 1954 datorită activității balneare.", "Castelul Wimsbach a fost menționat documentar pentru prima dată în secolul al XII-lea.", "Paracelsus a descris mlaștina Neydharting ca fiind curativă încă din secolul al XVI-lea.", "Bad Wimsbach-Neydharting este situat la o altitudine de 387 de metri.", "Comuna acoperă o suprafață de 24,31 kilometri pătrați în districtul Wels-Land."],
       en: ["The Neydharting moor was formed approximately 10,000 to 12,000 years ago.", "The town has held the title 'Bad' (Spa) since 1954 due to its spa operations.", "Wimsbach Castle was first mentioned in historical documents in the 12th century.", "Paracelsus identified the Neydharting moor as medicinal as early as the 16th century.", "Bad Wimsbach-Neydharting is situated at an elevation of 387 meters.", "The municipality covers an area of 24.31 square kilometers in the Wels-Land district."],
     },
+    image: "/poi-images/austria-bad-wimsbach-economic-v2.webp",
   },
   {
     id: "austria-feldbach-economic-v2",
@@ -128,6 +131,7 @@ export const austriaEconomicV2: POI[] = [
       ro: ["Feldbach a fost ridicat la rangul de oraș în anul 1884.", "Taborul din Feldbach a fost construit în secolul al XV-lea ca structură de protecție împotriva invaziilor din est.", "Orașul face parte din districtul Südoststeiermark, creat în 2013 prin fuziune.", "Un simbol distinctiv este biserica parohială colorată cu turnul său modern.", "Feldbach este situat la o altitudine de aproximativ 282 de metri.", "Calea ferată de est a Stiriei conectează direct Feldbach de Graz și Ungaria."],
       en: ["Feldbach was elevated to city status in the year 1884.", "The Tabor in Feldbach was built in the 15th century as a defensive structure against eastern incursions.", "The town is located in the Southeast Styria district, which was formed in 2013 through a merger.", "A prominent landmark is the colorful parish church with its modern tower.", "Feldbach is situated at an elevation of approximately 282 meters.", "The Styrian Eastern Railway directly connects Feldbach with Graz and Hungary."],
     },
+    image: "/poi-images/austria-feldbach-economic-v2.webp",
   },
   {
     id: "austria-liezen-logistics-economic-v2",
@@ -160,6 +164,7 @@ export const austriaEconomicV2: POI[] = [
       ro: ["Liezen este capitala celui mai mare district din Austria ca suprafață.", "Orașul este situat direct pe autostrada A9 Pyhrn, o rută importantă de tranzit alpin.", "Calea ferată Ennstalbahn conectează locația logistică Liezen de Salzburg și Graz.", "Liezen a primit drepturi de oraș în anul 1947.", "Locația găzduiește o fabrică a companiei Maschinenfabrik Liezen (MFL).", "Altitudinea orașului este de aproximativ 664 de metri deasupra nivelului mării."],
       en: ["Liezen is the capital of Austria's largest district by area.", "The town is located directly on the A9 Pyhrn Motorway, a major Alpine transit route.", "The Enns Valley Railway connects the Liezen logistics site with Salzburg and Graz.", "Liezen was granted city status in the year 1947.", "The location hosts a plant of the Maschinenfabrik Liezen (MFL).", "The elevation of the town is approximately 664 meters above sea level."],
     },
+    image: "/poi-images/austria-liezen-logistics-economic-v2.webp",
   },
   {
     id: "austria-oebb-infrastruktur-economic-v2",
@@ -192,6 +197,7 @@ export const austriaEconomicV2: POI[] = [
       ro: ["Linz este unul dintre cele mai mari puncte de transbordare a mărfurilor ale ÖBB din Austria.", "Westbahn este cea mai circulată linie de cale ferată din țară.", "În triajul din Linz, sute de vagoane de marfă sunt reorganizate zilnic.", "Locația din Linz este centrală pentru coridorul Rin-Dunăre din rețeaua feroviară europeană.", "ÖBB operează în Linz ateliere moderne de ucenicie pentru profesii tehnice.", "Gara Centrală din Linz a fost aleasă de mai multe ori ca fiind cea mai frumoasă gară din Austria."],
       en: ["Linz is one of the largest freight handling points for ÖBB in Austria.", "The Western Line (Westbahn) is the most heavily used railway line in the country.", "In the Linz marshalling yard, hundreds of freight cars are reassembled daily.", "The Linz location is central to the Rhine-Danube corridor in the European rail network.", "ÖBB operates modern apprentice workshops in Linz for technical professions.", "Linz Main Station has been voted several times as the most beautiful station in Austria."],
     },
+    image: "/poi-images/austria-oebb-infrastruktur-economic-v2.webp",
   },
   {
     id: "austria-tulln-trade-economic-v2",
@@ -224,6 +230,7 @@ export const austriaEconomicV2: POI[] = [
       ro: ["Messe Tulln dispune de o suprafață totală de expoziție de aproximativ 85.000 m².", "Târgul 'Austrian Garden Show' din Tulln are loc anual la sfârșitul lunii august/începutul lui septembrie.", "Tulln a fost important strategic încă din epoca romană ca castru de cavalerie Comagena.", "Halele de expoziție 1 și 2 au fost construite ca clădiri moderne cu consum redus de energie.", "Orașul Tulln este situat la aproximativ 40 de kilometri vest de Viena, direct pe Dunăre.", "'Austrian Boat Show - Boot Tulln' este cel mai mare târg de bărci din Europa Centrală și de Est."],
       en: ["Messe Tulln has a total exhibition area of approximately 85,000 m².", "The 'Austrian Garden Show' in Tulln takes place annually in late August/early September.", "Tulln was strategically important as early as Roman times as the cavalry fort Comagena.", "Exhibition halls 1 and 2 were constructed as modern low-energy buildings.", "The town of Tulln is located about 40 kilometers west of Vienna directly on the Danube.", "The 'Austrian Boat Show - Boot Tulln' is the largest boat show in Central and Eastern Europe."],
     },
+    image: "/poi-images/austria-tulln-trade-economic-v2.webp",
   },
   {
     id: "austria-amstetten-industry-economic-v2",
@@ -256,6 +263,7 @@ export const austriaEconomicV2: POI[] = [
       ro: ["Amstetten a primit drepturi oficiale de oraș în anul 1897.", "Doka Group, o companie lider mondial în cofraje, își are sediul central aici.", "Zona industrială este situată în triunghiul strategic format de orașele Linz, Wels și St. Pölten.", "Gara Amstetten este un punct de oprire important pentru traficul feroviar de lungă distanță pe Westbahn.", "Grupul Umdasch are o istorie a companiei care datează din anul 1868.", "Orașul Amstetten este situat la o altitudine de aproximativ 273 de metri deasupra nivelului mării."],
       en: ["Amstetten was officially granted city rights in the year 1897.", "Doka Group, a world-leading formwork company, is headquartered here.", "The industrial area is located in the strategically important city triangle of Linz-Wels-St. Polten.", "Amstetten railway station is a major stop for long-distance traffic on the Western Railway.", "The Umdasch Group boasts a company history that dates back to 1868.", "The town of Amstetten is situated at an elevation of approximately 273 meters above sea level."],
     },
+    image: "/poi-images/austria-amstetten-industry-economic-v2.webp",
   },
   {
     id: "austria-worgl-logistics-economic-v2",
@@ -288,6 +296,7 @@ export const austriaEconomicV2: POI[] = [
       ro: ["Wörgl a primit drepturi de oraș în anul 1951.", "Gara Wörgl este un nod important pentru linia Inntal și linia Giselabahn.", "Orașul este un centru pentru 'Autostrada Rulantă' (ROLA), menită să degajeze autostrăzile.", "În anul 1932, în timpul Marii Depresiuni, Wörgl a realizat un experiment de succes cu o monedă locală.", "Wörgl este situat la confluența râului Inn cu Brixentaler Ache.", "Orașul se află la o altitudine de aproximativ 511 metri în valea Inntal."],
       en: ["Woergl was granted city status in the year 1951.", "Woergl railway station is a major hub for the Inntal line and the Gisela line.", "The town is a center for the 'Rolling Highway' (ROLA) to relieve highway congestion.", "In 1932, during the Great Depression, Woergl conducted a successful 'free money' experiment.", "Woergl is located at the confluence of the Inn and Brixentaler Ache rivers.", "The town is situated at an elevation of approximately 511 meters in the Inn Valley."],
     },
+    image: "/poi-images/austria-worgl-logistics-economic-v2.webp",
   },
   {
     id: "austria-spittal-economy-economic-v2",
@@ -320,6 +329,7 @@ export const austriaEconomicV2: POI[] = [
       ro: ["Spittal an der Drau a primit drepturi de oraș în anul 1930.", "Castelul Porcia a fost construit între 1533 și 1597 în stil renascentist.", "Orașul este locul de fondare și sediul unor divizii importante ale concernului STRABAG.", "Spittal este situat la o altitudine de aproximativ 560 de metri deasupra nivelului mării.", "Lacul Millstätter din apropiere este un factor major pentru turismul regional.", "Calea ferată Drautal și calea ferată Tauern se intersectează în nodul feroviar Spittal-Millstätter See."],
       en: ["Spittal an der Drau was granted city status in the year 1930.", "Porcia Castle was built between 1533 and 1597 in the Renaissance style.", "The town is the founding location and headquarters of key divisions of the STRABAG construction group.", "Spittal is situated at an elevation of approximately 560 meters above sea level.", "The nearby Lake Millstatt is a significant factor for regional tourism.", "The Drava Valley Railway and the Tauern Railway intersect at the Spittal-Millstatter See rail hub."],
     },
+    image: "/poi-images/austria-spittal-economy-economic-v2.webp",
   },
   {
     id: "austria-bischofshofen-industrial-economic-v2",
@@ -352,5 +362,6 @@ export const austriaEconomicV2: POI[] = [
       ro: ["Mineritul cuprului pe Mitterberg este atestat din jurul anului 3000 î.Hr.", "Încetarea mineritului industrial de cupru a avut loc în 1959.", "Fondarea fabricii Liebherr din Bischofshofen în anul 1960.", "Peste 1.100 de angajați lucrează la unitatea locală Liebherr.", "Nod feroviar important pentru rutele Tauern și valea Enns.", "Finala anuală a Turneului celor Patru Trambuline are valoare publicitară mare."],
       en: ["Copper mining on the Mitterberg is evidenced since around 3000 BC.", "Industrial copper mining was discontinued in 1959.", "The Liebherr plant in Bischofshofen was founded in 1960.", "Over 1,100 employees work at the local Liebherr facility.", "Major railway junction for the Tauern and Enns Valley lines.", "The annual Four Hills Tournament final provides high promotional value."],
     },
+    image: "/poi-images/austria-bischofshofen-industrial-economic-v2.webp",
   }
 ];

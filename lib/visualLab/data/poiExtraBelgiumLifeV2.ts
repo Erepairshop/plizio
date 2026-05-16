@@ -1068,6 +1068,7 @@ imageHint: "Blooming yellow witch hazel in a winter garden",
       ro: ["Fondat în anul 1897 de către inspectorul forestier Lucien Nyps.", "Cuprinde o suprafață totală de aproximativ 14 hectare.", "Găzduiește peste 400 de specii diferite de arbori și arbuști.", "Situat pe teritoriul comunei flamande Hoeilaart.", "Parte integrantă a Pădurii Sonian, sit inclus în patrimoniul UNESCO.", "A servit inițial ca teren experimental pentru specii forestiere exotice."],
       en: ["Founded in 1897 by forestry inspector Lucien Nyps.", "Covers a total land area of approximately 14 hectares.", "Houses more than 400 distinct species of trees and shrubs.", "Located within the territory of the Flemish municipality of Hoeilaart.", "An integral part of the Sonian Forest, a UNESCO World Heritage site.", "Originally served as a forestry experimental field for exotic species."],
     },
+    image: "/poi-images/belgium-groenendaal-arboretum-life-v2.webp",
   },
   {
     id: "belgium-knokke-zwin-dunes-life-v2",
@@ -1100,6 +1101,7 @@ imageHint: "Blooming yellow witch hazel in a winter garden",
       ro: ["Înființată în 1952 ca prima rezervație naturală oficială din Belgia.", "Cuprinde o suprafață totală de 222 de hectare în Knokke-Heist.", "Găzduiește lavanda de mare, care colorează porțiuni extinse în mov.", "Servește ca punct de popas vital pentru mii de păsări migratoare anual.", "Formată prin colmatarea fostului braț marin care ducea la Bruges.", "Gestionată prin pășunat cu cai Konik și vite scoțiene Highland."],
       en: ["Established in 1952 as Belgium's first official nature reserve.", "Covers a total area of 222 hectares in Knokke-Heist.", "Home to the rare sea lavender, which colors large areas purple.", "Serves as a vital resting stop for thousands of migratory birds annually.", "Created by the silting up of the former sea arm leading to Bruges.", "Managed through grazing with Konik horses and Highland cattle."],
     },
+    image: "/poi-images/belgium-knokke-zwin-dunes-life-v2.webp",
   },
   {
     id: "belgium-torgny-nature-reserve-life-v2",
@@ -1132,5 +1134,6 @@ imageHint: "Blooming yellow witch hazel in a winter garden",
       ro: ["Torgny este cel mai sudic sat de pe întreg teritoriul statului belgian.", "Rezervația dispune de un microclimat sub-mediteranean unic.", "Primele măsuri de protecție pentru zonă au fost inițiate încă din 1943.", "Găzduiește specii rare, cum ar fi călugărița și șarpele de alun.", "Solul este compus din calcar bajocian din perioada Jurasicului.", "Este administrată de organizația nonprofit Ardenne et Gaume."],
       en: ["Torgny is the southernmost village in the entire Belgian territory.", "The reserve features a unique sub-Mediterranean microclimate.", "First protection measures for the area were initiated as early as 1943.", "Home to rare species such as the praying mantis and the smooth snake.", "The soil consists of Bajocian limestone from the Jurassic period.", "Managed by the non-profit organization Ardenne et Gaume."],
     },
+    image: "/poi-images/belgium-torgny-nature-reserve-life-v2.webp",
   }
 ];

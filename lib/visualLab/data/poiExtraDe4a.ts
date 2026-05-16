@@ -889,6 +889,7 @@ export const poiExtraDe4a: POI[] = [
       ro: ["Primăria a fost construită între anii 1405 și 1410.", "UNESCO a inclus primăria și statuia Roland în Patrimoniul Mondial în 2004.", "În Ratskeller este depozitat vinul 'Rüdesheimer' din anul 1727.", "Fațada magnifică a fost realizată de Lüder von Bentheim între 1608 și 1612.", "Clădirea este singura primărie din Germania construită în Evul Mediu care nu a fost niciodată distrusă.", "Sala Superioară are 41 de metri lungime, 15 metri lățime și 8 metri înălțime."],
       en: ["The city hall was built between 1405 and 1410.", "UNESCO designated the city hall and the Roland statue as World Heritage sites in 2004.", "The 'Rüdesheimer wine' from 1727 is stored in the Ratskeller.", "The magnificent facade was designed by Lüder von Bentheim between 1608 and 1612.", "The building is the only medieval city hall in Germany that has never been destroyed.", "The Upper Hall is 41 meters long, 15 meters wide, and 8 meters high."],
     },
+    image: "/poi-images/landmark-rathaus-bremen-extra.webp",
   },
 
   {
@@ -1111,6 +1112,7 @@ export const poiExtraDe4a: POI[] = [
       ro: ["Primăria din Bremen a fost construită inițial între anii 1405 și 1410.", "Piața centrală (Marktplatz) ocupă o suprafață de aproximativ 3.500 de metri pătrați.", "Clădirea Schütting, sediul Camerei de Comerț, datează de la mijlocul secolului al XVI-lea.", "Mari părți din Altstadt sunt protejate ca monumente istorice încă din 1973.", "Crama Ratskeller adăpostește cea mai veche colecție de vinuri la butoi din Germania.", "Clădirea modernă a Parlamentului a fost ridicată în 1966 ca un contrast arhitectural."],
       en: ["The Bremen City Hall was originally constructed between 1405 and 1410.", "The central market square covers an area of approximately 3,500 square meters.", "The Schütting, seat of the Chamber of Commerce, dates from the mid-16th century.", "Large sections of the Old Town have been heritage-protected since 1973.", "The Ratskeller cellar houses the oldest cask wine in Germany, dating to 1653.", "The modern Parliament building was completed in 1966 in contrast to the old square."],
     },
+    image: "/poi-images/district-altstadt-bremen-extra.webp",
   },
 
   {

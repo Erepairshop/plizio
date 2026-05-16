@@ -32,6 +32,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Altitudine: circa 1000 m deasupra n.m.", "Patrimoniu UNESCO din 2009", "Populație: aproximativ 38.000", "Muzeu al ceasurilor: Muzeul Internațional de Horologie", "Loc de naștere: Le Corbusier (1887)", "Mărci importante de ceasuri: Girard-Perregaux, TAG Heuer"],
       en: ["Altitude: approx. 1000 m above sea level", "UNESCO World Heritage since 2009", "Population: approx. 38,000", "Watch museum: International Museum of Horology", "Birthplace: Le Corbusier (1887)", "Major watch brands: Girard-Perregaux, TAG Heuer"],
     },
+    image: "/poi-images/switzerland-la-chaux-de-fonds-cities-v2.webp",
   },
   {
     id: "switzerland-neuchatel-cities-v2",
@@ -64,6 +65,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Populație: circa 33.000", "Canton: Neuchâtel", "Lac: Lacul Neuchâtel", "Castel: Castelul Neuchâtel (sec. XII)", "Universitate: fondată în 1838", "Festival: Festivalul Internațional de Scurtmetraje"],
       en: ["Population: approx. 33,000", "Canton: Neuchâtel", "Lake: Lake Neuchâtel", "Castle: Neuchâtel Castle (12th century)", "University: founded 1838", "Festival: International Short Film Festival"],
     },
+    image: "/poi-images/switzerland-neuchatel-cities-v2.webp",
   },
   {
     id: "switzerland-zug-cities-v2",
@@ -96,6 +98,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Populație: circa 31.000", "Canton: Zug", "Lac: Lacul Zug", "Cota de impozitare: impozit pe profit circa 11,5%", "Oraș vechi: medieval", "Munte: Zugerberg (1039 m)"],
       en: ["Population: approx. 31,000", "Canton: Zug", "Lake: Lake Zug", "Tax rate: corporate tax approx. 11.5%", "Old town: medieval", "Mountain: Zugerberg (1039 m)"],
     },
+    image: "/poi-images/switzerland-zug-cities-v2.webp",
   },
   {
     id: "switzerland-yverdon-les-bains-cities-v2",
@@ -128,6 +131,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Populație: circa 30.000", "Canton: Vaud", "Lac: Lacul Neuchâtel", "Baie termală: temperatură apă 34°C", "Castel: secolul al XIII-lea", "Transport: nod feroviar"],
       en: ["Population: approx. 30,000", "Canton: Vaud", "Lake: Lake Neuchâtel", "Thermal spa: water temperature 34°C", "Castle: 13th century", "Transport: railway junction"],
     },
+    image: "/poi-images/switzerland-yverdon-les-bains-cities-v2.webp",
   },
   {
     id: "switzerland-frauenfeld-cities-v2",
@@ -160,6 +164,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Capitala cantonului Thurgau", "Populație de aproximativ 26.000 locuitori", "Castel ridicat de conții de Kyburg", "Suprafață totală de 27,37 km²", "Altitudine medie de 417 metri", "Găzduiește un important sit arheologic"],
       en: ["Capital city of Canton Thurgau", "Castle tower dates to 1244", "Population of roughly 26,000", "Area covers 27.37 square km", "Located on the river Murg", "Home to the Cantonal Museum of Nature"],
     },
+    image: "/poi-images/switzerland-frauenfeld-cities-v2.webp",
   },
   {
     id: "switzerland-olten-cities-v2",
@@ -192,6 +197,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Populație: circa 18.000", "Canton: Solothurn", "Râu: Aare", "Gară: Gara Principală Olten (deschisă în 1856)", "Pod: Kapellbrücke (1772)", "Muzee: Muzeul de Artă, Muzeul de Științe Naturale"],
       en: ["Population: approx. 18,000", "Canton: Solothurn", "River: Aare", "Railway station: Olten Main Station (opened 1856)", "Bridge: Kapellbrücke (1772)", "Museums: Art Museum, Natural History Museum"],
     },
+    image: "/poi-images/switzerland-olten-cities-v2.webp",
   },
   {
     id: "switzerland-solothurn-cities-v2",
@@ -224,6 +230,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Cel mai frumos oraș baroc din Elveția", "Catedrala Sf. Urs ridicată în secolul XVIII", "Populație de circa 17.300 locuitori", "Orașul este dominat de cifra mistică 11", "Suprafață restrânsă de 6,28 km²", "Situat la poalele munților Jura"],
       en: ["Switzerland's finest Baroque city", "Home to 11 churches and 11 fountains", "St. Ursus Cathedral built 1762-1773", "Population of approx. 17,300", "Total area of 6.28 square km", "Famous for its Solothurn Film Festival"],
     },
+    image: "/poi-images/switzerland-solothurn-cities-v2.webp",
   },
   {
     id: "switzerland-aarau-cities-v2",
@@ -256,6 +263,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Prima capitală a Republicii Helvetice", "Cunoscut pentru streșinile pictate", "Capitala cantonului Aargau", "Populație de peste 21.000 locuitori", "Suprafață de 12,33 km²", "Orașul are o grădină zoologică faimoasă"],
       en: ["First capital of Switzerland in 1798", "Famous for its painted house gables", "Capital of the Canton Aargau", "Population of approx. 21,800", "Land area of 12.33 square km", "Home to the Aargau Art Museum"],
     },
+    image: "/poi-images/switzerland-aarau-cities-v2.webp",
   },
   {
     id: "switzerland-koniz-cities-v2",
@@ -288,6 +296,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Populație: circa 42.000", "Canton: Berna", "Sectoare: Köniz, Liebefeld, Spiegel", "Castel: Castelul Köniz (sec. XII)", "Transport: S-Bahn Berna", "Suprafață: 51 km²"],
       en: ["Population: approx. 42,000", "Canton: Bern", "Districts: Köniz, Liebefeld, Spiegel", "Castle: Köniz Castle (12th century)", "Transport: Bern S-Bahn", "Area: 51 km²"],
     },
+    image: "/poi-images/switzerland-koniz-cities-v2.webp",
   },
   {
     id: "switzerland-uster-cities-v2",
@@ -320,6 +329,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Al treilea oraș din cantonul Zurich", "Situat pe malul lacului Greifensee", "Premiul Wakker pentru urbanism în 2001", "Populație de circa 35.500 locuitori", "Suprafață totală de 28,5 km²", "Centru regional de transport feroviar"],
       en: ["Third largest city in Canton Zurich", "Located on the shores of Greifensee", "Won the Wakker Prize in 2001", "Population of roughly 35,500", "Covers an area of 28.5 square km", "Major regional hub for sports and events"],
     },
+    image: "/poi-images/switzerland-uster-cities-v2.webp",
   },
   {
     id: "switzerland-emmen-cities-v2",
@@ -352,6 +362,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Găzduiește o bază aeriană majoră", "Centru pentru industria aerospațială", "Populație de aproximativ 31.000 locuitori", "Suprafață de 20,33 km²", "Situat la nord de orașul Lucerna", "Punct de joncțiune pentru două râuri"],
       en: ["Home to a major military airbase", "Headquarters of RUAG aviation", "Population of approx. 31,000", "Located on the Reuss river", "Area covers 20.33 square km", "Second largest city in Canton Lucerne"],
     },
+    image: "/poi-images/switzerland-emmen-cities-v2.webp",
   },
   {
     id: "switzerland-dubendorf-cities-v2",
@@ -384,6 +395,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Populație: circa 30.000", "Canton: Zürich", "Cercetare: Empa (fondată 1880)", "Academie militară: ETH Zürich", "Aerodrom: Aerodromul Militar Dübendorf", "Râu: Glatt"],
       en: ["Population: approx. 30,000", "Canton: Zürich", "Research: Empa (founded 1880)", "Military academy: ETH Zurich", "Airfield: Dübendorf Military Airfield", "River: Glatt"],
     },
+    image: "/poi-images/switzerland-dubendorf-cities-v2.webp",
   },
   {
     id: "switzerland-dietikon-cities-v2",
@@ -416,6 +428,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Capitala districtului Dietikon", "Găzduiește parcul de sculpturi Bruno Weber", "Populație de circa 28.000 locuitori", "Suprafață de 9,33 km²", "Nod feroviar major în valea Limmat", "Altitudine medie de 388 metri"],
       en: ["District capital in Limmat Valley", "Home to Bruno Weber Sculpture Park", "Population of roughly 28,000", "Total area of 9.33 square km", "Major industrial and logistics hub", "Part of the Zurich metropolitan area"],
     },
+    image: "/poi-images/switzerland-dietikon-cities-v2.webp",
   },
   {
     id: "switzerland-baar-cities-v2",
@@ -448,6 +461,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["A doua localitate ca mărime din cantonul Zug", "Faimoasă pentru peșterile Höllgrotten", "Regim fiscal atractiv pentru corporații", "Populație de peste 24.000 locuitori", "Suprafață de 24,8 km²", "Altitudine medie de 443 metri"],
       en: ["Second largest municipality in Canton Zug", "Home to the Höllgrotten caves", "Global hub for commodity trading", "Population of approx. 24,500", "Total area of 24.8 square km", "Hosts a major annual Carnival"],
     },
+    image: "/poi-images/switzerland-baar-cities-v2.webp",
   },
   {
     id: "switzerland-riehen-cities-v2",
@@ -480,6 +494,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Populație: circa 21.000", "Canton: Basel-Stadt", "Muzeu de artă: Fundația Beyeler (deschisă în 1997)", "Locuitor celebru: Jacob Burckhardt (1818–1897)", "Viticul tură: Podgoria Riehen", "Conexiune tramvai: linia 6 către Weil am Rhein (DE)"],
       en: ["Population: approx. 21,000", "Canton: Basel-Stadt", "Art museum: Fondation Beyeler (opened 1997)", "Famous resident: Jacob Burckhardt (1818–1897)", "Viticulture: Riehen vineyard", "Tram connection: line 6 to Weil am Rhein (GE)"],
     },
+    image: "/poi-images/switzerland-riehen-cities-v2.webp",
   },
   {
     id: "switzerland-wetzikon-cities-v2",
@@ -512,6 +527,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Cel mai mare oraș din Oberlandul Zurich", "Situat pe malul lacului Pfäffiker", "Situl arheologic Robenhausen (UNESCO)", "Populație de circa 25.000 locuitori", "Suprafață de 16,73 km²", "Centru feroviar regional vital"],
       en: ["Largest city in the Zurich Highlands", "Located next to lake Pfäffikersee", "Home to UNESCO prehistoric pile dwellings", "Population of approx. 25,000", "Total area of 16.73 square km", "Hub for regional transport and health"],
     },
+    image: "/poi-images/switzerland-wetzikon-cities-v2.webp",
   },
   {
     id: "switzerland-meyrin-cities-v2",
@@ -544,6 +560,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Meyrin are o suprafață de 9,92 km².", "Aeroportul Geneva a deservit peste 17 milioane de pasageri în 2023.", "CERN a fost fondat în 1954 de 12 țări europene.", "Marele Collider de Hadroni are o circumferință de 27 de kilometri.", "Populația este de aproximativ 25.000 de locuitori (în 2020).", "Meyrin este situat la o altitudine de 408 m deasupra nivelului mării."],
       en: ["Meyrin covers an area of 9.92 km².", "Geneva Airport handled over 17 million passengers in 2023.", "CERN was founded in 1954 by 12 European countries.", "The Large Hadron Collider has a circumference of 27 kilometers.", "The population is approximately 25,000 (as of 2020).", "Meyrin is located at an elevation of 408 meters above sea level."],
     },
+    image: "/poi-images/switzerland-meyrin-cities-v2.webp",
   },
   {
     id: "switzerland-wadenswil-cities-v2",
@@ -576,6 +593,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Wädenswil are o suprafață de 17,37 km².", "Suprafața viticolă este de aproximativ 200 de hectare.", "Biserica reformată a fost construită în 1767.", "Populația este de aproximativ 25.000 de locuitori (2020).", "ZHAW are peste 2.000 de studenți aici.", "Wädenswil este situat la 408 m altitudine."],
       en: ["Wädenswil covers an area of 17.37 km².", "The vineyard area is about 200 hectares.", "The Reformed church was built in 1767.", "The population is approximately 25,000 (2020).", "ZHAW has over 2,000 students here.", "Wädenswil is located at 408 meters elevation."],
     },
+    image: "/poi-images/switzerland-wadenswil-cities-v2.webp",
   },
   {
     id: "switzerland-bulle-cities-v2",
@@ -608,6 +626,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Centrul regiunii Gruyère", "Al doilea oraș din cantonul Fribourg", "Aproape de fabrica de ciocolată Cailler", "Populație de aproximativ 24.400 locuitori", "Suprafață de 23,87 km²", "Piață săptămânală tradițională mare"],
       en: ["Economic center of Gruyère region", "Second largest city in Canton Fribourg", "Hub for cheese and chocolate trade", "Population of approx. 24,400", "Total area of 23.87 square km", "Hosted the Fête Fédérale des Yodleurs"],
     },
+    image: "/poi-images/switzerland-bulle-cities-v2.webp",
   },
   {
     id: "switzerland-allschwil-cities-v2",
@@ -640,6 +659,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Cea mai mare comună din Basel-Landschaft", "Păstrează multe case tradiționale din lemn", "Frontieră directă cu Franța", "Populație de peste 21.000 locuitori", "Suprafață de 8,92 km²", "Pol important pentru biotehnologie"],
       en: ["Largest municipality in Basel-Country", "Known for traditional half-timbered houses", "Borders France on two sides", "Population of approx. 21,500", "Total area of 8.92 square km", "Key hub for Swiss life sciences"],
     },
+    image: "/poi-images/switzerland-allschwil-cities-v2.webp",
   },
   {
     id: "switzerland-carouge-cities-v2",
@@ -672,6 +692,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Oraș planificat în stil sardinian", "Cartierul artiștilor din zona Geneva", "Fondat oficial în anul 1786", "Populație de aproximativ 22.800 locuitori", "Suprafață mică de 2,7 km²", "Faimos pentru piețele sale în stil italian"],
       en: ["Planned town in Sardinian style", "Known as Geneva's bohemian quarter", "Founded by Royal Decree in 1786", "Population of roughly 22,800", "Area covers only 2.7 square km", "Home to many artisan workshops"],
     },
+    image: "/poi-images/switzerland-carouge-cities-v2.webp",
   },
   {
     id: "switzerland-wettingen-cities-v2",
@@ -704,6 +725,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Găzduiește mănăstirea cisterciană", "Cea mai populată comună din Aargau", "Situat pe o peninsulă a râului Limmat", "Populație de peste 21.000 locuitori", "Suprafață de 10,59 km²", "Altitudine medie de 395 metri"],
       en: ["Home to the Wettingen Abbey", "Most populous town in Canton Aargau", "Located on a loop of the Limmat river", "Population of approx. 21,000", "Total area of 10.59 square km", "Major secondary education center"],
     },
+    image: "/poi-images/switzerland-wettingen-cities-v2.webp",
   },
   {
     id: "switzerland-renens-cities-v2",
@@ -736,6 +758,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Nod feroviar major în Elveția romandă", "Premiul Wakker în 2016 pentru urbanism", "Populație de aproximativ 21.000 locuitori", "Suprafață restrânsă de 2,96 km²", "Peste 100 de naționalități diferite", "Altitudine medie de 415 metri"],
       en: ["Major railway hub in Western Switzerland", "Won the Wakker Prize in 2016", "Population of roughly 21,000", "Total area of only 2.96 square km", "Over 50% of residents are foreign nationals", "Located in the Lausanne metropolitan area"],
     },
+    image: "/poi-images/switzerland-renens-cities-v2.webp",
   },
   {
     id: "switzerland-reinach-cities-v2",
@@ -768,6 +791,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Reinach are o suprafață de 7,00 km².", "Biserica Sf. Iacob a fost construită în 1494.", "Populația este de aproximativ 19.000 de locuitori (2020).", "Lacul Reinacher Weiher are o suprafață de 1,5 ha.", "Municipalitatea este situată la 273 m altitudine.", "Linia S-Bahn S6 leagă Reinach de Basel în 15 minute."],
       en: ["Reinach covers an area of 7.00 km².", "The Church of St. James was built in 1494.", "The population is approximately 19,000 (2020).", "Reinacher Weiher lake has an area of 1.5 hectares.", "The municipality is at an elevation of 273 meters.", "S-Bahn line S6 connects Reinach to Basel in 15 minutes."],
     },
+    image: "/poi-images/switzerland-reinach-cities-v2.webp",
   },
   {
     id: "switzerland-horgen-cities-v2",
@@ -800,6 +824,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Horgen are o suprafață de 21,07 km².", "Biserica reformată a fost construită în 1482.", "Populația este de aproximativ 23.000 de locuitori (2020).", "Clădirea Kornhaus datează din 1715.", "Țesutul mătăsii a fost cea mai importantă ramură economică până în 1860.", "Horgen este situat la 408 m altitudine."],
       en: ["Horgen covers an area of 21.07 km².", "The Reformed church was built in 1482.", "The population is approximately 23,000 (2020).", "The Kornhaus building dates from 1715.", "Silk weaving was the most important economic sector until 1860.", "Horgen is located at 408 meters elevation."],
     },
+    image: "/poi-images/switzerland-horgen-cities-v2.webp",
   },
   {
     id: "switzerland-nyon-cities-v2",
@@ -832,6 +857,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Nyon are o suprafață de 6,79 km².", "Muzeul Roman prezintă artefacte din secolul I î.Hr.", "Castelul Nyon a fost construit în secolul al XII-lea.", "UEFA s-a mutat la Nyon în 1995.", "Populația este de aproximativ 21.000 de locuitori (2020).", "Nyon este situat la 395 m altitudine."],
       en: ["Nyon covers an area of 6.79 km².", "The Roman Museum exhibits artifacts from the 1st century BC.", "Nyon Castle was built in the 12th century.", "UEFA moved to Nyon in 1995.", "The population is approximately 21,000 (2020).", "Nyon is located at 395 meters elevation."],
     },
+    image: "/poi-images/switzerland-nyon-cities-v2.webp",
   },
   {
     id: "switzerland-gossau-cities-v2",
@@ -864,6 +890,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Gossau are o suprafață de 27,51 km².", "Biserica Sf. Mauritius a fost sfințită în 1506.", "Populația este de aproximativ 18.000 de locuitori (2020).", "Industria textilă a atins apogeul în secolul al XIX-lea.", "Gara Gossau a fost deschisă în 1853.", "Gossau este situat la 612 m altitudine."],
       en: ["Gossau covers an area of 27.51 km².", "The Church of St. Mauritius was consecrated in 1506.", "The population is approximately 18,000 (2020).", "The textile industry peaked in the 19th century.", "Gossau railway station opened in 1853.", "Gossau is located at 612 meters elevation."],
     },
+    image: "/poi-images/switzerland-gossau-cities-v2.webp",
   },
   {
     id: "switzerland-schlieren-cities-v2",
@@ -896,6 +923,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Găzduiește un parc tehnologic major", "Fosta locație a fabricii de vagoane", "Populație de aproximativ 20.000 locuitori", "Suprafață de 6,38 km²", "Liniile de tramvai fac legătura cu Zurich", "Altitudine medie de 393 metri"],
       en: ["Major hub for Swiss biotech companies", "Former home of the Swiss Wagon Factory", "Population of approx. 20,000", "Total area of 6.38 square km", "Borders the city of Zurich directly", "Home to the Schlieren Gas Museum"],
     },
+    image: "/poi-images/switzerland-schlieren-cities-v2.webp",
   },
   {
     id: "switzerland-kloten-cities-v2",
@@ -928,6 +956,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Găzduiește Aeroportul Zurich", "Cel mai mare angajator regional", "Populație de aproximativ 21.000 locuitori", "Suprafață de 19,27 km²", "Sediu central pentru Swiss International Air Lines", "Altitudine medie de 446 metri"],
       en: ["Home to Zurich International Airport", "Hub for Swiss International Air Lines", "Hosts the Kloten Flyers ice hockey team", "Population of approx. 21,000", "Total area of 19.27 square km", "Surrounded by significant marshland reserves"],
     },
+    image: "/poi-images/switzerland-kloten-cities-v2.webp",
   },
   {
     id: "switzerland-muttenz-cities-v2",
@@ -960,6 +989,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Muttenz are o suprafață de 7,00 km².", "Biserica Sf. Arbogast a fost menționată pentru prima dată în 1194.", "Populația este de aproximativ 18.000 de locuitori (2020).", "Parcul Schützenmatt are o suprafață de 3 hectare.", "Novartis angajează peste 10.000 de angajați în Basel.", "Muttenz este situat la 291 m altitudine."],
       en: ["Muttenz covers an area of 7.00 km².", "The Church of St. Arbogast was first mentioned in 1194.", "The population is approximately 18,000 (2020).", "Schützenmatt Park has an area of 3 hectares.", "Novartis employs over 10,000 people in Basel.", "Muttenz is located at 291 meters elevation."],
     },
+    image: "/poi-images/switzerland-muttenz-cities-v2.webp",
   },
   {
     id: "switzerland-peseux-cities-v2",
@@ -992,6 +1022,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Fuzionat cu orașul Neuchâtel în 2021", "Situat la poalele munților Jura", "Populație de aproximativ 5.800 locuitori", "Suprafață de 3,43 km²", "Tradiție viticolă de secole", "Altitudine medie de 543 metri"],
       en: ["Merged into Neuchâtel city in 2021", "Located on the slopes of the Jura", "Population of roughly 5,800 pre-merger", "Total area of 3.43 square km", "Renowned for its local wine production", "Offers views of the Eiger and Mont Blanc"],
     },
+    image: "/poi-images/switzerland-peseux-cities-v2.webp",
   },
   {
     id: "switzerland-belp-cities-v2",
@@ -1024,6 +1055,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Găzduiește Aeroportul Regional Berna", "Castel ridicat în secolul al XVI-lea", "Populație de aproximativ 11.500 locuitori", "Suprafață de 23,26 km²", "Situat în fertila vale Gürbetal", "Altitudine medie de 521 metri"],
       en: ["Home to Bern Regional Airport", "Features a castle built in 1540", "Located in the Gürbe Valley", "Population of approx. 11,500", "Total area of 23.26 square km", "Famous for the 'Belper Knolle' cheese"],
     },
+    image: "/poi-images/switzerland-belp-cities-v2.webp",
   },
   {
     id: "switzerland-bussigny-cities-v2",
@@ -1056,6 +1088,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Situat în zona de vest a Lausannei", "Pol important pentru logistică și servicii", "Populație de aproximativ 10.000 locuitori", "Suprafață de 4,82 km²", "Acces direct la autostrada A1", "Altitudine medie de 446 metri"],
       en: ["Part of the West Lausanne region", "Major hub for service-sector jobs", "Population of approx. 10,000", "Total area of 4.82 square km", "Known as Bussigny-près-Lausanne until 2014", "Directly connected to the A1 motorway"],
     },
+    image: "/poi-images/switzerland-bussigny-cities-v2.webp",
   },
   {
     id: "switzerland-buchs-sg-cities-v2",
@@ -1088,6 +1121,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Buchs are o suprafață de 16,62 km².", "Gara Buchs a fost deschisă în 1858.", "Populația este de aproximativ 12.000 de locuitori (2020).", "Castelul Werdenberg datează din secolul al XIII-lea.", "Frontiera cu Liechtenstein este la 2 km distanță.", "Buchs este situat la 448 m altitudine."],
       en: ["Buchs covers an area of 16.62 km².", "Buchs railway station opened in 1858.", "The population is approximately 12,000 (2020).", "Werdenberg Castle dates from the 13th century.", "The border with Liechtenstein is 2 km away.", "Buchs is located at 448 meters elevation."],
     },
+    image: "/poi-images/switzerland-buchs-sg-cities-v2.webp",
   },
   {
     id: "switzerland-wallisellen-cities-v2",
@@ -1120,6 +1154,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Wallisellen are o suprafață de 6,50 km².", "Glattzentrum a fost deschis în 1975 și are 100 de magazine.", "Populația este de aproximativ 16.000 de locuitori (2020).", "Parcul orașului Wallisellen are o suprafață de 2 hectare.", "Linia S-Bahn S8 circulă la fiecare 15 minute către Zürich.", "Wallisellen este situat la 457 m altitudine."],
       en: ["Wallisellen covers an area of 6.50 km².", "Glattzentrum opened in 1975 and has 100 shops.", "The population is approximately 16,000 (2020).", "Wallisellen City Park covers 2 hectares.", "S-Bahn line S8 runs every 15 minutes to Zurich.", "Wallisellen is located at 457 meters elevation."],
     },
+    image: "/poi-images/switzerland-wallisellen-cities-v2.webp",
   },
   {
     id: "switzerland-herisau-cities-v2",
@@ -1152,6 +1187,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Herisau are o suprafață de 25,17 km².", "Biserica reformată a fost construită în 1514.", "Populația este de aproximativ 16.000 de locuitori (2020).", "Primăria datează din 1747.", "Industria textilă angaja peste 3.000 de muncitori în jurul anului 1850.", "Herisau este situat la 780 m altitudine."],
       en: ["Herisau covers an area of 25.17 km².", "The Reformed church was built in 1514.", "The population is approximately 16,000 (2020).", "The town hall dates from 1747.", "The textile industry employed over 3,000 workers around 1850.", "Herisau is located at 780 meters elevation."],
     },
+    image: "/poi-images/switzerland-herisau-cities-v2.webp",
   },
   {
     id: "switzerland-kreuzlingen-cities-v2",
@@ -1184,6 +1220,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Kreuzlingen are o suprafață de 11,49 km².", "Portul Kreuzlingen a fost inaugurat în 1895.", "Populația este de aproximativ 22.000 de locuitori (2020).", "Biserica Sf. Ulrich a fost construită în 1903 în stil neogotic.", "Frontiera cu Germania trece direct prin oraș.", "Kreuzlingen este situat la 397 m altitudine."],
       en: ["Kreuzlingen covers an area of 11.49 km².", "Kreuzlingen port was inaugurated in 1895.", "The population is approximately 22,000 (2020).", "The Church of St. Ulrich was built in 1903 in Neo-Gothic style.", "The border with Germany runs directly through the city.", "Kreuzlingen is located at 397 meters elevation."],
     },
+    image: "/poi-images/switzerland-kreuzlingen-cities-v2.webp",
   },
   {
     id: "switzerland-limmattan-cities-v2",
@@ -1216,6 +1253,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Al treilea oraș din cantonul Geneva", "Găzduiește stadionul Stade de Genève", "Populație de aproximativ 35.000 locuitori", "Suprafață de 4,77 km²", "Sediu pentru numeroase bănci private", "Altitudine medie de 422 metri"],
       en: ["Third most populous town in Geneva", "Home to the Stade de Genève stadium", "Headquarters of Pictet & Cie", "Population of approx. 35,000", "Total area of 4.77 square km", "Includes the districts of Petit and Grand Lancy"],
     },
+    image: "/poi-images/switzerland-limmattan-cities-v2.webp",
   },
   {
     id: "switzerland-thalwil-cities-v2",
@@ -1248,6 +1286,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Situat pe malul stâng al lacului Zurich", "Nod feroviar crucial pe ruta Gotthard", "Una dintre cele mai scumpe zone rezidențiale", "Populație de aproximativ 18.000 locuitori", "Suprafață de 5,53 km²", "Altitudine medie de 486 metri"],
       en: ["Located on Lake Zurich's west bank", "Key stop on the main Gotthard rail line", "High-income residential municipality", "Population of roughly 18,000", "Total area of 5.53 square km", "Known for its lakeside promenade"],
     },
+    image: "/poi-images/switzerland-thalwil-cities-v2.webp",
   },
   {
     id: "switzerland-littau-cities-v2",
@@ -1280,6 +1319,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Littau are o suprafață de 9,10 km².", "Biserica Sf. Mihail a fost construită în 1767.", "Populația este de aproximativ 16.000 de locuitori (2020).", "Încorporarea în Lucerna a avut loc în 2010.", "Râul Reuss curge pe o lungime de 3,5 km prin Littau.", "Littau este situat la 435 m altitudine."],
       en: ["Littau covers an area of 9.10 km².", "The Church of St. Michael was built in 1767.", "The population is approximately 16,000 (2020).", "The incorporation into Lucerne took place in 2010.", "The Reuss River flows for 3.5 km through Littau.", "Littau is located at 435 meters elevation."],
     },
+    image: "/poi-images/switzerland-littau-cities-v2.webp",
   }
 ,
   {
@@ -1313,6 +1353,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Locarno are o suprafață de 19,27 km².", "Festivalul de Film de la Locarno a fost fondat în 1946.", "Populația este de aproximativ 16.000 de locuitori (2020).", "Madonna del Sasso a fost construită în 1487.", "Durata medie anuală a soarelui depășește 2.200 de ore.", "Locarno este situat la 200 m altitudine."],
       en: ["Locarno covers an area of 19.27 km².", "The Locarno Film Festival was founded in 1946.", "The population is approximately 16,000 (2020).", "Madonna del Sasso was built in 1487.", "Average annual sunshine exceeds 2,200 hours.", "Locarno is located at 200 meters elevation."],
     },
+    image: "/poi-images/switzerland-locarno-cities-v2.webp",
   },
   {
     id: "switzerland-bellinzona-cities-v2",
@@ -1345,6 +1386,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Capitala cantonului Ticino", "Trei castele incluse în UNESCO", "Influență culturală și arhitecturală italiană", "Populație de aproximativ 44.000 locuitori", "Suprafață vastă de 164,2 km²", "Nod feroviar major pe linia Gotthard"],
       en: ["Capital of the Canton of Ticino", "Home to three UNESCO medieval castles", "Gateway to the San Bernardino pass", "Population of approx. 44,000", "Total area of 164.2 square km", "Famous for its traditional Rabadan Carnival"],
     },
+    image: "/poi-images/switzerland-bellinzona-cities-v2.webp",
   },
   {
     id: "switzerland-vevey-cities-v2",
@@ -1377,6 +1419,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Vevey are o suprafață de 2,38 km².", "Nestlé a fost fondată în 1866 de Henri Nestlé.", "Populația este de aproximativ 20.000 de locuitori (2020).", "Biserica Sf. Martin a fost construită în secolul al XV-lea.", "Festivalul vinului are loc la fiecare 25 de ani (ultima oară în 2019).", "Vevey este situat la 383 m altitudine."],
       en: ["Vevey covers an area of 2.38 km².", "Nestlé was founded in 1866 by Henri Nestlé.", "The population is approximately 20,000 (2020).", "The Church of St. Martin was built in the 15th century.", "The wine festival takes place every 25 years (last in 2019).", "Vevey is located at 383 meters elevation."],
     },
+    image: "/poi-images/switzerland-vevey-cities-v2.webp",
   },
   {
     id: "switzerland-brig-cities-v2",
@@ -1409,6 +1452,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Găzduiește Palatul Stockalper", "Punct de intrare pentru tunelul Simplon", "Populație de aproximativ 13.500 locuitori", "Suprafață de 38,01 km²", "Situat la confluența râurilor Rhône și Saltina", "Altitudine de 684 metri"],
       en: ["Home to the Baroque Stockalper Palace", "Major junction for rail traffic to Italy", "Starting point for the Simplon Pass", "Population of approx. 13,500", "Total area of 38.01 square km", "Historical center for the salt trade"],
     },
+    image: "/poi-images/switzerland-brig-cities-v2.webp",
   },
   {
     id: "switzerland-martigny-cities-v2",
@@ -1441,6 +1485,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Ruine romane bine conservate", "Găzduiește Fundația Pierre Gianadda", "Muzeul câinilor Saint-Bernard", "Populație de aproximativ 20.000 locuitori", "Suprafață de 24,97 km²", "Punct de plecare spre Pasul Marele St. Bernard"],
       en: ["Home to a well-preserved Roman amphitheater", "Famous for the Fondation Pierre Gianadda", "Location of the Barryland dog museum", "Population of approx. 20,000", "Total area of 24.97 square km", "Located at the 'Rhone Knee'"],
     },
+    image: "/poi-images/switzerland-martigny-cities-v2.webp",
   },
   {
     id: "switzerland-altdorf-cities-v2",
@@ -1473,6 +1518,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Capitala cantonului Uri", "Locul legendar al mărului lui Wilhelm Tell", "Statuia de bronz a lui Tell din 1895", "Populație de aproximativ 9.500 locuitori", "Suprafață de 10,21 km²", "Aproape de intrarea în tunelul Gotthard"],
       en: ["Capital of the Canton of Uri", "Site of the iconic William Tell monument", "Located in the Reuss River valley", "Population of approx. 9,500", "Total area of 10.21 square km", "Home to the oldest Tell play theater"],
     },
+    image: "/poi-images/switzerland-altdorf-cities-v2.webp",
   },
   {
     id: "switzerland-glarus-cities-v2",
@@ -1505,6 +1551,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Capitala cantonului Glarus", "Oraș reconstruit după planuri ortogonale", "Situat la poalele muntelui Glärnisch", "Populație de aproximativ 12.500 locuitori", "Suprafață vastă de 103,6 km²", "Centru istoric pentru industria textilă"],
       en: ["Capital of the Canton of Glarus", "Grid layout created after the 1861 fire", "Located in the Linth River valley", "Population of approx. 12,500", "Total area of 103.6 square km", "Hosts the historic Landsgemeinde assembly"],
     },
+    image: "/poi-images/switzerland-glarus-cities-v2.webp",
   },
   {
     id: "switzerland-stans-cities-v2",
@@ -1537,6 +1584,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Stans are o suprafață de 11,05 km².", "Biserica Sf. Petru și Pavel a fost construită în 1770.", "Populația este de aproximativ 8.000 de locuitori (2020).", "Stanserhorn are o înălțime de 1.898 m.", "Ruag Aerostructures angajează aproximativ 1.200 de angajați.", "Stans este situat la 452 m altitudine."],
       en: ["Stans covers an area of 11.05 km².", "The Church of St. Peter and Paul was built in 1770.", "The population is approximately 8,000 (2020).", "Stanserhorn is 1,898 m high.", "Ruag Aerostructures employs around 1,200 people.", "Stans is located at 452 meters elevation."],
     },
+    image: "/poi-images/switzerland-stans-cities-v2.webp",
   },
   {
     id: "switzerland-sarnen-cities-v2",
@@ -1569,6 +1617,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Sarnen are o suprafață de 73,11 km².", "Biserica Sf. Petru și Pavel a fost sfințită în 1729.", "Populația este de aproximativ 10.000 de locuitori (2020).", "Lacul Sarnersee are o suprafață de 7,6 km².", "Calea ferată Brünig a fost deschisă în 1888.", "Sarnen este situat la 471 m altitudine."],
       en: ["Sarnen covers an area of 73.11 km².", "The Church of St. Peter and Paul was consecrated in 1729.", "The population is approximately 10,000 (2020).", "Lake Sarnersee has an area of 7.6 km².", "The Brünig railway line opened in 1888.", "Sarnen is located at 471 meters elevation."],
     },
+    image: "/poi-images/switzerland-sarnen-cities-v2.webp",
   },
   {
     id: "switzerland-delémont-cities-v2",
@@ -1601,6 +1650,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Capitala cantonului Jura", "Fosta reședință a prinților-episcopi", "Populație de aproximativ 12.600 locuitori", "Suprafață de 22,01 km²", "Situat la confluența râurilor Sorne și Birse", "Altitudine medie de 435 metri"],
       en: ["Capital of the Canton of Jura", "Summer home for Basel's Prince-Bishops", "Hosts the Museum of Jura Art and History", "Population of approx. 12,600", "Total area of 22.01 square km", "Hub for the Swiss toolmaking industry"],
     },
+    image: "/poi-images/switzerland-delémont-cities-v2.webp",
   },
   {
     id: "switzerland-schwyz-cities-v2",
@@ -1633,6 +1683,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Orașul care a dat numele Elveției", "Găzduiește Muzeul Cartelor Federale", "Populație de aproximativ 15.500 locuitori", "Suprafață de 48,5 km²", "Locul de origine al briceagului Victorinox", "Altitudine medie de 516 metri"],
       en: ["Gave its name to Switzerland", "Keeper of the 1291 Federal Charter", "Located at the foot of the Mythen peaks", "Population of approx. 15,500", "Total area of 48.5 square km", "Headquarters of Victorinox (Swiss Army Knife)"],
     },
+    image: "/poi-images/switzerland-schwyz-cities-v2.webp",
   },
   {
     id: "switzerland-liestal-cities-v2",
@@ -1665,6 +1716,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Capitala cantonului Basel-Landschaft", "Găzduiește procesiunea focului Chienbäse", "Poarta medievală Törli din secolul XIII", "Populație de aproximativ 15.000 locuitori", "Suprafață de 18,21 km²", "Altitudine medie de 327 metri"],
       en: ["Capital of the Canton Basel-Country", "Famous for the Chienbäse fire festival", "Home to the historic Törli city gate", "Population of approx. 15,000", "Total area of 18.21 square km", "Stop on the main Hauenstein rail line"],
     },
+    image: "/poi-images/switzerland-liestal-cities-v2.webp",
   },
   {
     id: "switzerland-appenzell-cities-v2",
@@ -1697,6 +1749,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Appenzell are o suprafață de 16,87 km².", "Primăria a fost construită în 1561.", "Populația este de aproximativ 5.800 de locuitori (2020).", "Landsgemeinde se ține din secolul al XIV-lea.", "Căile ferate appenzelleze circulă din 1889.", "Appenzell este situat la 780 m altitudine."],
       en: ["Appenzell covers an area of 16.87 km².", "The town hall was built in 1561.", "The population is approximately 5,800 (2020).", "The Landsgemeinde has been held since the 14th century.", "The Appenzell Railways have been operating since 1889.", "Appenzell is located at 780 meters elevation."],
     },
+    image: "/poi-images/switzerland-appenzell-cities-v2.webp",
   },
   {
     id: "switzerland-bad-ragaz-cities-v2",
@@ -1729,6 +1782,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Stațiune balneară de renume mondial", "Apa termală provine din Cheile Tamina", "Găzduiește Grand Resort Bad Ragaz", "Populație de aproximativ 6.500 locuitori", "Suprafață de 25,37 km²", "Situat în valea Rinului"],
       en: ["World-famous thermal spa destination", "Thermal water from the Tamina Gorge", "Home to the 5-star Grand Resort", "Population of approx. 6,500", "Total area of 25.37 square km", "Gateway to the Pizol hiking and ski area"],
     },
+    image: "/poi-images/switzerland-bad-ragaz-cities-v2.webp",
   },
   {
     id: "switzerland-davos-cities-v2",
@@ -1761,6 +1815,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Davos are o suprafață de 283,98 km².", "WEF a fost fondat în 1971.", "Populația este de aproximativ 11.000 de locuitori (2020).", "Jacobshorn este un munte de schi cu o înălțime de 2.590 m.", "Davos a fost o stațiune balneară renumită începând cu 1865.", "Calea ferată Landquart–Davos a fost deschisă în 1889."],
       en: ["Davos covers an area of 283.98 km².", "WEF was founded in 1971.", "The population is approximately 11,000 (2020).", "Jacobshorn is a ski mountain with a height of 2,590 m.", "Davos was a renowned health resort from 1865.", "The Landquart–Davos railway line opened in 1889."],
     },
+    image: "/poi-images/switzerland-davos-cities-v2.webp",
   },
   {
     id: "switzerland-saint-moritz-cities-v2",
@@ -1793,6 +1848,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["St. Moritz are o suprafață de 28,69 km².", "Jocurile Olimpice de iarnă au avut loc în 1928 și 1948.", "Populația este de aproximativ 5.000 de locuitori (2020).", "Lacul St. Moritz are o suprafață de 0,78 km².", "Calea ferată Rhätische Bahn a fost extinsă până la St. Moritz în 1904.", "St. Moritz este situat la 1.822 m altitudine."],
       en: ["St. Moritz covers an area of 28.69 km².", "The Winter Olympics were held here in 1928 and 1948.", "The population is approximately 5,000 (2020).", "Lake St. Moritz has an area of 0.78 km².", "The Rhaetian Railway was extended to St. Moritz in 1904.", "St. Moritz is located at 1,822 meters elevation."],
     },
+    image: "/poi-images/switzerland-saint-moritz-cities-v2.webp",
   },
   {
     id: "switzerland-zermatt-cities-v2",
@@ -1825,6 +1881,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Altitudine: 1.620 de metri.", "Populație: circa 5.700 (2023).", "Înălțimea Matterhorn: 4.478 de metri.", "Număr de teleschiuri: 54.", "Lungimea pârtiilor de schi: 360 km.", "Gara din 1891."],
       en: ["Elevation: 1,620 meters.", "Population: approx. 5,700 (2023).", "Matterhorn height: 4,478 meters.", "Number of ski lifts: 54.", "Ski slope length: 360 km.", "Railway station since 1891."],
     },
+    image: "/poi-images/switzerland-zermatt-cities-v2.webp",
   },
   {
     id: "switzerland-andermatt-cities-v2",
@@ -1857,6 +1914,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Andermatt se află la altitudinea de 1.447 m.", "Populația este de aproximativ 1.300 de locuitori.", "Biserica Sf. Petru și Pavel a fost construită în 1670.", "Proiectul 'Andermatt Swiss Alps' se întinde pe 200 de hectare.", "Pasul Gotthard atinge 2.106 m altitudine.", "Calea ferată Gotthard a fost deschisă în 1882."],
       en: ["Andermatt is situated at 1,447 m above sea level.", "The village has a population of about 1,300.", "The baroque church of St. Peter and Paul was built in 1670.", "The 'Andermatt Swiss Alps' resort covers 200 hectares.", "The Gotthard Pass summit is at 2,106 m.", "The Gotthard railway was inaugurated in 1882."],
     },
+    image: "/poi-images/switzerland-andermatt-cities-v2.webp",
   },
   {
     id: "switzerland-verbier-cities-v2",
@@ -1889,6 +1947,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Verbier se află la 1.500 m altitudine.", "Domeniul Les 4 Vallées are 412 km de pârtii.", "Populația este de aproximativ 2.800 de locuitori.", "Festivalul Verbier a fost fondat în 1994.", "Cel mai înalt punct accesibil este Mont Fort (3.330 m).", "Verbier dispune de 90 de instalații de transport pe cablu."],
       en: ["Verbier is situated at 1,500 m above sea level.", "Les 4 Vallées ski area has 412 km of slopes.", "The permanent population is about 2,800.", "The Verbier Festival was established in 1994.", "The highest accessible point is Mont Fort at 3,330 m.", "Verbier has 90 ski lifts."],
     },
+    image: "/poi-images/switzerland-verbier-cities-v2.webp",
   },
   {
     id: "switzerland-gstaad-cities-v2",
@@ -1921,6 +1980,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Gstaad se află la 1.044 m altitudine.", "Domeniul Gstaad-Mountain Ride are 220 km de pârtii.", "Comuna Saanen are 6.800 de locuitori.", "Gstaad are aproximativ 1.000 de locuitori.", "Festivalul Menuhin de la Gstaad a fost fondat în 1957.", "Cel mai înalt punct este Glacier 3000 (3.000 m)."],
       en: ["Gstaad is located at 1,044 m above sea level.", "The Gstaad Mountain Ride ski area spans 220 km of slopes.", "The municipality of Saanen has 6,800 inhabitants.", "Gstaad's population is around 1,000.", "The Gstaad Menuhin Festival was founded in 1957.", "The highest point in the ski area is Glacier 3000 at 3,000 m."],
     },
+    image: "/poi-images/switzerland-gstaad-cities-v2.webp",
   },
   {
     id: "switzerland-mont-soleil-cities-v2",
@@ -1953,6 +2013,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Mont-Soleil se află la 1.100 m altitudine.", "Parcul solar are o suprafață totală de peste 100.000 m².", "Producția anuală este de aproximativ 1,5 GWh.", "Instalația a fost dată în funcțiune în 1992.", "Parcul eolian Mont-Crosin are 8 turbine.", "Mont-Soleil aparține comunei Saint-Imier."],
       en: ["Mont-Soleil is situated at 1,100 m above sea level.", "The solar plant covers over 100,000 m².", "Annual electricity production is about 1.5 GWh.", "The plant was commissioned in 1992.", "The Mont-Crosin wind farm has 8 turbines.", "Mont-Soleil belongs to the municipality of Saint-Imier."],
     },
+    image: "/poi-images/switzerland-mont-soleil-cities-v2.webp",
   },
   {
     id: "switzerland-murten-cities-v2",
@@ -1985,6 +2046,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Murten are aproximativ 6.000 de locuitori.", "Lacul Murten are o suprafață de 22,8 km².", "Bătălia de la Murten a avut loc pe 22 iunie 1476.", "Zidul orașului are aproximativ 1,5 km lungime.", "Castelul Murten a fost construit în secolul al XIII-lea.", "Murten se află la 433 m altitudine."],
       en: ["Murten has a population of about 6,000.", "Lake Murten covers 22.8 km².", "The Battle of Murten occurred on 22 June 1476.", "The city wall is approximately 1.5 km long.", "Murten Castle was built in the 13th century.", "Murten is situated at 433 m above sea level."],
     },
+    image: "/poi-images/switzerland-murten-cities-v2.webp",
   },
   {
     id: "switzerland-niederbipp-cities-v2",
@@ -2017,6 +2079,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Niederbipp se află la 485 m altitudine.", "Populația depășește 4.500 de locuitori.", "Ruinele castelului Bipp datează din secolul al XIII-lea.", "Biserica reformată a fost construită în 1953.", "Niederbipp are o suprafață de 15,5 km².", "Comuna se află în districtul Oberaargau."],
       en: ["Niederbipp is located at 485 m above sea level.", "The population exceeds 4,500.", "Bipp Castle ruins date from the 13th century.", "The Reformed church was built in 1953.", "Niederbipp has an area of 15.5 km².", "The municipality lies in the Oberaargau district."],
     },
+    image: "/poi-images/switzerland-niederbipp-cities-v2.webp",
   },
   {
     id: "switzerland-le-locle-cities-v2",
@@ -2049,6 +2112,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Le Locle se află la 946 m altitudine.", "Orașul are aproximativ 10.000 de locuitori.", "Le Locle a fost declarat Patrimoniu Mondial UNESCO în 2009.", "Producția de ceasuri a început în secolul al XVII-lea.", "Tissot a fost fondată în 1853 la Le Locle.", "Comuna se învecinează cu Franța."],
       en: ["Le Locle is situated at 946 m above sea level.", "The city has about 10,000 inhabitants.", "Le Locle became a UNESCO World Heritage site in 2009.", "Watch production began in the 17th century.", "Tissot was founded in 1853 in Le Locle.", "The municipality borders France."],
     },
+    image: "/poi-images/switzerland-le-locle-cities-v2.webp",
   },
   {
     id: "switzerland-la-chaux-v2-cities-v2",
@@ -2081,6 +2145,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["La Chaux-du-Milieu se află la aproximativ 1.100 m altitudine.", "Populația este de aproximativ 500 de locuitori.", "Comuna face parte din Rezervația Biosferei UNESCO Vallée du Joux.", "Biserica satului a fost construită în secolul al XIX-lea.", "Suprafața comunei este de 4,0 km².", "Se învecinează cu Le Locle și La Chaux-de-Fonds."],
       en: ["La Chaux-du-Milieu is located at about 1,100 m above sea level.", "The population is around 500.", "The municipality is part of the UNESCO Vallée du Joux Biosphere Reserve.", "The village church was built in the 19th century.", "The area of the municipality is 4.0 km².", "It borders Le Locle and La Chaux-de-Fonds."],
     },
+    image: "/poi-images/switzerland-la-chaux-v2-cities-v2.webp",
   },
   {
     id: "switzerland-bulle-v2-cities-v2",
@@ -2113,6 +2178,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Bulle se află la 756 m altitudine.", "Orașul Bulle are peste 25.000 de locuitori.", "Castelul Bulle a fost construit în secolul al XIII-lea.", "Bulle este capitala districtului Gruyères.", "Școala Superioară de Economie și Tehnică din Fribourg este situată în Bulle.", "Comuna Bulle include localitățile Bulle și La Tour."],
       en: ["Bulle is situated at 756 m above sea level.", "The city of Bulle has over 25,000 inhabitants.", "Bulle Castle was built in the 13th century.", "Bulle is the capital of the Gruyère district.", "HEIA-FR (University of Applied Sciences) is located in Bulle.", "The municipality of Bulle includes the neighborhoods of Bulle and La Tour."],
     },
+    image: "/poi-images/switzerland-bulle-v2-cities-v2.webp",
   },
   {
     id: "switzerland-pompaples-cities-v2",
@@ -2145,6 +2211,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Pompaples se află la 513 m altitudine.", "Populația este de aproximativ 900 de locuitori.", "Castelul Pompaples a fost construit în secolul al XIII-lea.", "Biserica reformată a fost sfințită în 1720.", "Pompaples are o suprafață de 6,1 km².", "Localitatea se află pe linia feroviară Lausanne–Vallorbe."],
       en: ["Pompaples is located at 513 m above sea level.", "The population is about 900.", "Château de Pompaples was built in the 13th century.", "The Reformed church was consecrated in 1720.", "Pompaples has an area of 6.1 km².", "The village lies on the SBB Lausanne–Vallorbe railway line."],
     },
+    image: "/poi-images/switzerland-pompaples-cities-v2.webp",
   },
   {
     id: "switzerland-aigle-cities-v2",
@@ -2177,6 +2244,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Aigle se află la 405 m altitudine.", "Orașul are aproximativ 10.000 de locuitori.", "Castelul Aigle a fost construit în secolul al XII-lea.", "Viticultura în Aigle este documentată din secolul al VIII-lea.", "Aigle este reședința districtului Aigle.", "Autostrada A9 traversează teritoriul comunei."],
       en: ["Aigle is situated at 405 m above sea level.", "The town has about 10,000 inhabitants.", "Château d'Aigle was built in the 12th century.", "Wine production in Aigle is documented since the 8th century.", "Aigle is the capital of the Aigle district.", "The A9 motorway runs through the municipality."],
     },
+    image: "/poi-images/switzerland-aigle-cities-v2.webp",
   },
   {
     id: "switzerland-martigny-v2-cities-v2",
@@ -2209,6 +2277,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Martigny-Combe se află la o altitudine medie de 700 m.", "Populația este de aproximativ 2.000 de locuitori.", "Comuna este formată din 3 localități.", "Cascada Pissevache are o înălțime de 70 m.", "Lacul Fully se află la 2.100 m altitudine.", "Martigny-Combe se învecinează cu comuna Bagnes."],
       en: ["Martigny-Combe is located at an average elevation of 700 m.", "The population is about 2,000.", "The municipality consists of 3 hamlets.", "Pissevache waterfall has a height of 70 m.", "Lac de Fully is situated at 2,100 m elevation.", "Martigny-Combe borders the municipality of Bagnes."],
     },
+    image: "/poi-images/switzerland-martigny-v2-cities-v2.webp",
   },
   {
     id: "switzerland-orbe-cities-v2",
@@ -2241,6 +2310,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Orbe se află la 479 m altitudine.", "Orașul are aproximativ 7.000 de locuitori.", "Amfiteatrul roman a fost construit în secolul al II-lea d.Hr.", "Castelul Orbe datează din secolul al XIII-lea.", "Biserica Saint-Germain a fost finalizată în 1493.", "Orbe are o suprafață de 6,6 km²."],
       en: ["Orbe is located at 479 m above sea level.", "The town has about 7,000 inhabitants.", "The Roman amphitheatre was built in the 2nd century AD.", "Château d'Orbe dates from the 13th century.", "The Church of Saint-Germain was completed in 1493.", "Orbe has an area of 6.6 km²."],
     },
+    image: "/poi-images/switzerland-orbe-cities-v2.webp",
   },
   {
     id: "switzerland-yverdon-v2-cities-v2",
@@ -2273,6 +2343,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Yvonand se află la 429 m altitudine.", "Comuna are aproximativ 3.000 de locuitori.", "Camping La Plage este unul dintre cele mai mari de pe Lacul Neuchâtel.", "Rezervația gurii de vărsare a Mentue are 20 de hectare.", "Yvonand are o suprafață de 5,1 km².", "Gara Yvonand a fost deschisă în 1859."],
       en: ["Yvonand is located at 429 m above sea level.", "The municipality has about 3,000 inhabitants.", "La Plage campsite is one of the largest on Lake Neuchâtel.", "The Mentue estuary reserve covers 20 hectares.", "Yvonand has an area of 5.1 km².", "Yvonand railway station was opened in 1859."],
     },
+    image: "/poi-images/switzerland-yverdon-v2-cities-v2.webp",
   },
   {
     id: "switzerland-grandson-cities-v2",
@@ -2305,6 +2376,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Grandson se află la 433 m altitudine.", "Orașul are aproximativ 3.500 de locuitori.", "Castelul Grandson a fost construit în secolul al XI-lea.", "Bătălia de la Grandson a avut loc pe 2 martie 1476.", "Primăria din Grandson datează din secolul al XVI-lea.", "Grandson are o suprafață de 3,9 km²."],
       en: ["Grandson is situated at 433 m above sea level.", "The town has about 3,500 inhabitants.", "Grandson Castle was built in the 11th century.", "The Battle of Grandson took place on 2 March 1476.", "Grandson's town hall dates from the 16th century.", "Grandson has an area of 3.9 km²."],
     },
+    image: "/poi-images/switzerland-grandson-cities-v2.webp",
   },
   {
     id: "switzerland-morges-cities-v2",
@@ -2337,6 +2409,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Morges se află la 381 m altitudine.", "Orașul are aproximativ 16.000 de locuitori.", "Castelul Morges a fost construit în secolul al XIII-lea.", "Generalul Henri Guisan s-a născut în 1874 la Morges.", "Portul Morges are 600 de locuri de acostare.", "Morges are o suprafață de 4,1 km²."],
       en: ["Morges is located at 381 m above sea level.", "The town has about 16,000 inhabitants.", "Morges Castle was built in the 13th century.", "General Henri Guisan was born in 1874 in Morges.", "Morges harbor has 600 berths.", "Morges has an area of 4.1 km²."],
     },
+    image: "/poi-images/switzerland-morges-cities-v2.webp",
   },
   {
     id: "switzerland-rolle-cities-v2",
@@ -2369,6 +2442,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Rolle se află la 370 m altitudine.", "Orașul are aproximativ 6.000 de locuitori.", "Castelul Rolle a fost construit în secolul al XIII-lea.", "Viticultura în Rolle este recunoscută AOC din 1982.", "Portul Rolle are 350 de locuri de acostare.", "Rolle are o suprafață de 4,4 km²."],
       en: ["Rolle is located at 370 m above sea level.", "The town has about 6,000 inhabitants.", "Rolle Castle was built in the 13th century.", "Wine in Rolle has been AOC since 1982.", "Rolle's port has 350 berths.", "Rolle has an area of 4.4 km²."],
     },
+    image: "/poi-images/switzerland-rolle-cities-v2.webp",
   },
   {
     id: "switzerland-coppet-cities-v2",
@@ -2401,6 +2475,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Coppet se află la 373 m altitudine.", "Comuna are aproximativ 3.000 de locuitori.", "Castelul Coppet a fost construit în secolul al XV-lea.", "Madame de Staël a locuit la Coppet între 1803 și 1817.", "Portul Coppet are 200 de locuri de acostare.", "Suprafața comunei este de 2,0 km²."],
       en: ["Coppet is located at 373 m above sea level.", "The municipality has about 3,000 inhabitants.", "Château de Coppet was built in the 15th century.", "Madame de Staël lived in Coppet from 1803 to 1817.", "Coppet's port has 200 berths.", "The municipality covers an area of 2.0 km²."],
     },
+    image: "/poi-images/switzerland-coppet-cities-v2.webp",
   },
   {
     id: "switzerland-versoix-cities-v2",
@@ -2433,6 +2508,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Versoix se află la 374 m altitudine.", "Orașul are aproximativ 13.000 de locuitori.", "Castelul Crest a fost construit în secolul al XVIII-lea.", "Portul Versoix are 400 de locuri de acostare.", "Versoix are o suprafață de 6,5 km².", "Gara Versoix a fost deschisă în 1858."],
       en: ["Versoix is located at 374 m above sea level.", "The town has about 13,000 inhabitants.", "Crest Castle was built in the 18th century.", "Versoix port has 400 berths.", "Versoix covers an area of 6.5 km².", "Versoix railway station was opened in 1858."],
     },
+    image: "/poi-images/switzerland-versoix-cities-v2.webp",
   },
   {
     id: "switzerland-grand-saconnex-cities-v2",
@@ -2465,6 +2541,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Le Grand-Saconnex se află la 410 m altitudine.", "Comuna are aproximativ 12.000 de locuitori.", "OMS are sediul în Le Grand-Saconnex.", "Complexul Palexpo are 110.000 m² de spațiu expozițional.", "Biserica reformată a fost construită în 1870.", "Suprafața comunei este de 4,5 km²."],
       en: ["Le Grand-Saconnex is located at 410 m above sea level.", "The municipality has about 12,000 inhabitants.", "The WHO is headquartered in Le Grand-Saconnex.", "Palexpo covers 110,000 m² of exhibition space.", "The Reformed church was built in 1870.", "The municipality covers an area of 4.5 km²."],
     },
+    image: "/poi-images/switzerland-grand-saconnex-cities-v2.webp",
   },
   {
     id: "switzerland-chancy-cities-v2",
@@ -2497,6 +2574,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Suprafață: 5,3 km²", "Altitudine: 365 m", "Populație: circa 1.500 de locuitori", "Frontiera cu Franța: aproximativ 4 km", "Castelul Chancy construit în secolul al XIII-lea", "Biserica reformată sfințită în 1834"],
       en: ["Area: 5.3 km²", "Elevation: 365 m", "Population: approx. 1,500", "Border with France: about 4 km", "Château de Chancy built in the 13th century", "Reformed church consecrated in 1834"],
     },
+    image: "/poi-images/switzerland-chancy-cities-v2.webp",
   },
   {
     id: "switzerland-veyrier-cities-v2",
@@ -2529,6 +2607,7 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Suprafață: 4,7 km²", "Altitudine: 400-700 m", "Populație: circa 10.000 de locuitori", "Biserica Saint-Maurice construită în secolul al XII-lea", "Castelul Veyrier din secolul al XVIII-lea", "Distanța față de Geneva: aproximativ 5 km"],
       en: ["Area: 4.7 km²", "Elevation: 400–700 m", "Population: approx. 10,000", "Saint-Maurice church built in the 12th century", "Château de Veyrier from the 18th century", "Distance to Geneva: about 5 km"],
     },
+    image: "/poi-images/switzerland-veyrier-cities-v2.webp",
   },
   {
     id: "switzerland-troinex-cities-v2",
@@ -2561,5 +2640,6 @@ export const switzerlandCitiesV2: POI[] = [
       ro: ["Suprafață: 3,4 km²", "Altitudine: 435 m", "Populație: circa 2.500 de locuitori", "Capela Saint-Martin construită în secolul al XI-lea", "Suprafață viticolă: aprox. 50 ha", "Distanța până la Lacul Geneva: aproximativ 6 km"],
       en: ["Area: 3.4 km²", "Elevation: 435 m", "Population: approx. 2,500", "Saint-Martin chapel built in the 11th century", "Vineyard area: about 50 ha", "Distance to Lake Geneva: about 6 km"],
     },
+    image: "/poi-images/switzerland-troinex-cities-v2.webp",
   }
 ];

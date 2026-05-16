@@ -213,7 +213,8 @@ export const poiExtraMonacoOther: POI[] = [
       hu: [],
       ro: [],
       en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into Monégasque society"]
-    }
+    },
+    image: "/poi-images/mc-kid-landmark-koaland-menton-extra.webp",
   },
   {
     id: "mc-kid-landmark-village-des-fous-extra",
@@ -390,7 +391,8 @@ export const poiExtraMonacoOther: POI[] = [
       hu: [],
       ro: [],
       en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into Monégasque society"]
-    }
+    },
+    image: "/poi-images/mc-agriculture-marche-de-la-condamine-extra.webp",
   },
   {
     id: "mc-agriculture-limon-de-menton-extra",
@@ -567,7 +569,8 @@ export const poiExtraMonacoOther: POI[] = [
       hu: [],
       ro: [],
       en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into Monégasque society"]
-    }
+    },
+    image: "/poi-images/mc-industry-parfumerie-fragonard-eze-extra.webp",
   },
   {
     id: "mc-industry-confiserie-florian-extra",
@@ -744,7 +747,8 @@ export const poiExtraMonacoOther: POI[] = [
       hu: [],
       ro: [],
       en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into Monégasque society"]
-    }
+    },
+    image: "/poi-images/mc-port-port-hercules-extra.webp",
   },
   {
     id: "mc-port-port-de-fontvieille-extra",
@@ -921,7 +925,8 @@ export const poiExtraMonacoOther: POI[] = [
       hu: [],
       ro: [],
       en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into Monégasque society"]
-    }
+    },
+    image: "/poi-images/mc-landscape-tete-de-chien-extra.webp",
   },
   {
     id: "mc-landscape-cap-ferrat-extra",
@@ -1062,7 +1067,8 @@ export const poiExtraMonacoOther: POI[] = [
       hu: [],
       ro: ["Parc național vast în Alpii Maritimi", "Celebru pentru Vallée des Merveilles (gravuri preistorice)", "Habitat pentru specii alpine rare", "Peste 600 km de trasee de drumeție marcate", "Peisaj montan spectaculos cu înălțimi de peste 3.000 de metri", "Arie protejată importantă pentru biodiversitate", "Comori culturale prin gravuri rupestre"],
       en: ["Features an iconic location in Monaco", "Integral to the local infrastructure", "Reflects the principality's architectural heritage", "Attracts international interest and prestige", "Strategically situated in a high-value district", "Showcases modern urban planning integrated with history", "Offers unique insights into Monégasque society"]
-    }
+    },
+    image: "/poi-images/mc-landscape-mercantour-national-park-extra.webp",
   }
 ];
 

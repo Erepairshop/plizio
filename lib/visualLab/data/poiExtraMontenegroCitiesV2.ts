@@ -32,6 +32,7 @@ export const montenegroCitiesV2: POI[] = [
       ro: ["Populație: aprox. 1.500", "Altitudine: 60 m", "Distanță de Podgorica: 15 km", "Râu: Zeta", "Fortăreață: otomană", "Biserică: secolul al XIX-lea"],
       en: ["Population: approx. 1,500", "Elevation: 60 m", "Distance from Podgorica: 15 km", "River: Zeta", "Fortress: Ottoman", "Church: 19th century"],
     },
+    image: "/poi-images/montenegro-spuz-cities-v2.webp",
   },
   {
     id: "montenegro-golubovci-cities-v2",
@@ -64,6 +65,7 @@ export const montenegroCitiesV2: POI[] = [
       ro: ["Sediul primăriei Zeta", "Altitudine medie: 33 metri", "Găzduiește Aeroportul Podgorica", "Populație oraș: cca. 3.110 loc.", "Soluri fertile de tip aluvionar", "Nod feroviar pe linia Belgrad-Bar"],
       en: ["Administrative seat of Zeta", "Elevation: 33 meters", "Home to Podgorica Airport (TGD)", "Located in the Zeta Plain", "Key agricultural producer", "Connected to the Belgrade-Bar railway"],
     },
+    image: "/poi-images/montenegro-golubovci-cities-v2.webp",
   },
   {
     id: "montenegro-tuzi-cities-v2",
@@ -96,6 +98,7 @@ export const montenegroCitiesV2: POI[] = [
       ro: ["Suprafață: aproximativ 240 km²", "Populație: circa 12.000 (2011)", "Altitudine: 50 m deasupra nivelului mării", "Înființare municipiu: 2018", "Distanța până la Podgorica: 12 km", "Temperatura medie: 15 °C"],
       en: ["Area: approx. 240 km²", "Population: about 12,000 (2011 census)", "Elevation: 50 m above sea level", "Municipality established: 2018", "Distance to Podgorica: 12 km", "Average temperature: 15 °C"],
     },
+    image: "/poi-images/montenegro-tuzi-cities-v2.webp",
   },
   {
     id: "montenegro-petnjica-cities-v2",
@@ -128,6 +131,7 @@ export const montenegroCitiesV2: POI[] = [
       ro: ["Populație: circa 5.000 (2011)", "Altitudine: 650 m", "Înființare municipiu: 2014", "Suprafață: aproximativ 170 km²", "Distanța până la Berane: 15 km", "Temperatura medie: 9 °C"],
       en: ["Population: about 5,000 (2011)", "Elevation: 650 m", "Municipality established: 2014", "Area: approx. 170 km²", "Distance to Berane: 15 km", "Average temperature: 9 °C"],
     },
+    image: "/poi-images/montenegro-petnjica-cities-v2.webp",
   },
   {
     id: "montenegro-gusinje-cities-v2",
@@ -160,5 +164,6 @@ export const montenegroCitiesV2: POI[] = [
       ro: ["Altitudine: 925 metri", "Poarta către Parcul Național Prokletije", "Izvoarele Ali Pașa în apropiere", "Populație oraș: cca. 1.700 loc.", "Fost centru comercial otoman", "Situat la poalele masivului Visitor"],
       en: ["Elevation: 925 meters", "Gateway to Prokletije National Park", "Home to Ali Pasha Springs", "Near the Albanian border", "Historical caravan trade post", "Seat of Gusinje Municipality"],
     },
+    image: "/poi-images/montenegro-gusinje-cities-v2.webp",
   }
 ];

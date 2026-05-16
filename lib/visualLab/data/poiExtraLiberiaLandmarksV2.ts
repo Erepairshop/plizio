@@ -31,6 +31,7 @@ export const liberiaLandmarksV2: POI[] = [
       ro: ["Clădirea a fost finalizată în 1964.", "Are 3 etaje și 50 de camere.", "Costul construcției a fost de 2 milioane de dolari.", "Terenul are 5 hectare.", "A fost jefuit în 1990 în timpul războaielor civile.", "Renovarea din 2006 a costat 1 milion de dolari."],
       en: ["Construction completed in 1964.", "3 floors and 50 rooms.", "Cost $2 million to build.", "Grounds cover 5 hectares.", "Looted during the civil war in 1990.", "2006 renovation cost $1 million."],
     },
+    image: "/poi-images/liberia-executive-mansion-landmarks-v2.webp",
   },
   {
     id: "liberia-national-museum-landmarks-v2",
@@ -62,6 +63,7 @@ export const liberiaLandmarksV2: POI[] = [
       ro: ["Muzeul a fost fondat în 1958.", "Păstrează peste 5.000 de exponate.", "Colecția include 200 de măști tradiționale.", "Clădirea a fost transformată în muzeu în 1960.", "Prețul biletului este de 2 USD.", "Renovarea din 2016 a costat 500.000 de dolari."],
       en: ["Founded in 1958.", "Holds over 5,000 artifacts.", "Collection includes 200 traditional masks.", "Building converted to museum in 1960.", "Admission fee is $2.", "2016 renovation cost $500,000."],
     },
+    image: "/poi-images/liberia-national-museum-landmarks-v2.webp",
   },
   {
     id: "liberia-temple-of-justice-landmarks-v2",
@@ -93,5 +95,6 @@ export const liberiaLandmarksV2: POI[] = [
       ro: ["Clădirea a fost finalizată în 1956.", "Are 2 etaje și 10 săli de judecată.", "Costul construcției a fost de 1,5 milioane de dolari.", "Clădirea are 3.000 m².", "Curtea Supremă are 5 judecători.", "Renovarea postbelică a avut loc în 2008."],
       en: ["Completed in 1956.", "2 floors and 10 courtrooms.", "Construction cost $1.5 million.", "Building area 3,000 m².", "Supreme Court has 5 justices.", "Post-war renovation in 2008."],
     },
+    image: "/poi-images/liberia-temple-of-justice-landmarks-v2.webp",
   }
 ];

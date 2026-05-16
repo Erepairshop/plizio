@@ -31,6 +31,7 @@ export const republicofcongoEconomicV2: POI[] = [
       ro: ["Aeroportul poartă codul IATA BZV și codul ICAO FCBB.", "Maya-Maya a fost construit inițial la sfârșitul anilor 1940.", "Terminalul modern a fost construit de o companie chineză (WIETC).", "Cea mai lungă pistă a aeroportului măsoară impresionantul număr de 3.700 de metri.", "Aeroportul poate opera avioane de mare capacitate, cum ar fi Airbus A380.", "Este aeroportul de bază pentru compania aeriană națională Equatorial Congo Airlines."],
       en: ["The airport carries the IATA code BZV and the ICAO code FCBB.", "Maya-Maya was originally built in the late 1940s.", "The modern terminal was constructed by a Chinese company (WIETC).", "The airport's longest runway measures an impressive 3,700 meters.", "The airport can handle large aircraft such as the Airbus A380.", "It is the home airport for the national airline Equatorial Congo Airlines."],
     },
+    image: "/poi-images/republicofcongo-maya-maya-airport-economic-v2.webp",
   },
   {
     id: "republicofcongo-imboulou-dam-economic-v2",
@@ -62,6 +63,7 @@ export const republicofcongoEconomicV2: POI[] = [
       ro: ["Barajul are o putere instalată totală de 120 MW.", "Centrala dispune de patru turbine, fiecare cu o putere de 30 MW.", "Construcția a fost finanțată în principal prin împrumuturi de la China Exim Bank.", "Imboulou este conectat la Brazzaville printr-o linie de înaltă tensiune de 225 kV.", "Proiectul a fost inaugurat oficial în mai 2011.", "Barajul a redus semnificativ deficitul de energie electrică din capitală."],
       en: ["The dam has a total installed capacity of 120 MW.", "The power plant features four turbines, each with 30 MW of capacity.", "Construction was primarily financed through loans from the China Exim Bank.", "Imboulou is connected to Brazzaville via a 225 kV high-voltage line.", "The project was officially inaugurated in May 2011.", "The dam significantly reduced electricity shortages in the capital."],
     },
+    image: "/poi-images/republicofcongo-imboulou-dam-economic-v2.webp",
   },
   {
     id: "republicofcongo-nkayi-sugar-factory-economic-v2",
@@ -93,6 +95,7 @@ export const republicofcongoEconomicV2: POI[] = [
       ro: ["Fabrica este operată de SARIS-Congo, o filială a grupului SOMDIAA.", "Nkayi produce anual aproximativ 70.000 de tone de zahăr rafinat.", "Fabrica are peste 2.000 de angajați permanenți direcți.", "Plantațiile de trestie de zahăr se întind pe o suprafață de circa 12.000 de hectare.", "SARIS a fost înființată în anii 1970 după naționalizarea firmelor anterioare.", "Orașul Nkayi se numea oficial Jacob în perioada colonială."],
       en: ["The factory is operated by SARIS-Congo, a subsidiary of the SOMDIAA group.", "Nkayi produces approximately 70,000 tons of refined sugar annually.", "The factory directly employs over 2,000 permanent staff.", "The sugarcane plantations cover an area of around 12,000 hectares.", "SARIS was established in the 1970s following the nationalization of earlier firms.", "The town of Nkayi was officially named Jacob during the colonial period."],
     },
+    image: "/poi-images/republicofcongo-nkayi-sugar-factory-economic-v2.webp",
   },
   {
     id: "republicofcongo-brazzaville-river-port-economic-v2",
@@ -124,6 +127,7 @@ export const republicofcongoEconomicV2: POI[] = [
       ro: ["Situat pe malul drept al fluviului Congo, vizavi de Kinshasa.", "Reprezintă punctul terminus al căii ferate CFCO de 510 km.", "Centru major pentru exportul de lemn tropical din bazinul Congo.", "Nod vital pentru aprovizionarea Republicii Centrafricane.", "Include terminale specializate pentru produse petroliere.", "Capacitatea sa a fost extinsă prin proiecte recente de modernizare."],
       en: ["Located on the right bank of the Congo River across from Kinshasa.", "Serves as the terminus for the 510 km CFCO railway line.", "Primary gateway for timber exports from the northern rainforests.", "Critical transit point for goods destined for the Central African Republic.", "Features specialized docks for handling petroleum and oil products.", "Has undergone major rehabilitation to increase cargo throughput."],
     },
+    image: "/poi-images/republicofcongo-brazzaville-river-port-economic-v2.webp",
   },
   {
     id: "republicofcongo-maloukou-sez-economic-v2",
@@ -155,6 +159,7 @@ export const republicofcongoEconomicV2: POI[] = [
       ro: ["Situată la 80 km nord de Brazzaville, în apropierea fluviului Congo.", "Acoperă o suprafață industrială planificată de 1.000 de hectare.", "Găzduiește o unitate majoră de producție de ceramică și plăci.", "Face parte dintr-un plan național de a crea patru zone economice.", "Dispune de infrastructură proprie de energie și apă.", "Se concentrează pe producția de bunuri care înlocuiesc importurile."],
       en: ["Located 80 km north of Brazzaville near the Congo River.", "Covers a designated industrial area of 1,000 hectares.", "Home to a significant ceramics factory for regional supply.", "One of four special economic zones planned by the government.", "Features independent power and water supply infrastructure.", "Focuses on manufacturing goods to replace expensive imports."],
     },
+    image: "/poi-images/republicofcongo-maloukou-sez-economic-v2.webp",
   },
   {
     id: "republicofcongo-mindouli-copper-mines-economic-v2",
@@ -186,6 +191,7 @@ export const republicofcongoEconomicV2: POI[] = [
       ro: ["Situate în departamentul Pool, în sud-vestul țării.", "Reactivate prin intermediul parteneriatului Soremi (Sino-Congo).", "Resursele principale exploatate sunt cuprul, plumbul și zincul.", "Producția modernă de cupru a început oficial în anul 2014.", "Acces direct la calea ferată CFCO pentru transportul minereului.", "Reprezintă o sursă majoră de venituri pentru regiunea Pool."],
       en: ["Located in the Pool Department in southwestern Congo.", "Reactivated through the Soremi (Sino-Congo) joint venture.", "The primary ores extracted are copper, lead, and zinc concentrates.", "Modern copper production officially commenced in 2014.", "Strategic proximity to the CFCO railway facilitates logistics.", "Provides several hundred jobs in a primarily rural area."],
     },
+    image: "/poi-images/republicofcongo-mindouli-copper-mines-economic-v2.webp",
   },
   {
     id: "republicofcongo-ifo-ngombe-sawmill-economic-v2",
@@ -217,6 +223,7 @@ export const republicofcongoEconomicV2: POI[] = [
       ro: ["Face parte din Grupul Danzer și este operată de IFO.", "Gestionează o concesiune forestieră de 1,16 milioane de hectare.", "Deține certificarea FSC pentru management forestier durabil.", "Produce zeci de mii de metri cubi de cherestea anual.", "Situată în apropierea orașului Ouesso din nordul țării.", "Finanțează infrastructura locală, inclusiv școli și spitale."],
       en: ["Part of the Danzer Group and operated by IFO.", "Manages a forest concession of 1.16 million hectares.", "One of the first in Central Africa to achieve FSC certification.", "Produces tens of thousands of cubic meters of sawn timber annually.", "Located near the town of Ouesso in the northern Sangha region.", "Funds local community infrastructure, including schools and clinics."],
     },
+    image: "/poi-images/republicofcongo-ifo-ngombe-sawmill-economic-v2.webp",
   },
   {
     id: "republicofcongo-zanaga-iron-project-economic-v2",
@@ -248,6 +255,7 @@ export const republicofcongoEconomicV2: POI[] = [
       ro: ["Rezerve estimate la peste 6,8 miliarde de tone de minereu de fier.", "Situat în regiunea Lékoumou din partea de sud-vest a țării.", "Un joint venture între Glencore și Zanaga Iron Ore Co.", "Include planuri pentru un coridor de transport de 370 km până la coastă.", "Vizează producția de pelete de fier de înaltă puritate.", "Se estimează că proiectul va fi operațional timp de peste 30 de ani."],
       en: ["Estimated iron ore reserves exceed 6.8 billion tonnes.", "Located in the Lékoumou region in southwestern Congo.", "A joint venture between Glencore and Zanaga Iron Ore Co.", "Includes plans for a 370 km transport corridor to the coast.", "Targets the production of high-grade iron ore pellets.", "The project has an estimated mine life of over 30 years."],
     },
+    image: "/poi-images/republicofcongo-zanaga-iron-project-economic-v2.webp",
   },
   {
     id: "republicofcongo-moukoukoulou-power-plant-economic-v2",
@@ -279,6 +287,7 @@ export const republicofcongoEconomicV2: POI[] = [
       ro: ["Situată pe râul Bouenza, în apropierea localității Mouyondzi.", "Capacitate totală instalată de 74 megawați (4 turbine de 18,5 MW).", "Construită între anii 1974 și 1979 cu sprijin din partea Chinei.", "Sursa principală de energie pentru rețeaua națională din sud.", "Utilizează căderea naturală a apei pentru generarea de electricitate.", "A trecut printr-un proces major de reabilitare începând cu 2007."],
       en: ["Located on the Bouenza River near the town of Mouyondzi.", "Total installed capacity is 74 megawatts (4 units of 18.5 MW).", "Built between 1974 and 1979 with Chinese assistance.", "Primary power source for the southern national electricity grid.", "Utilizes the river's natural flow and gradient for energy.", "Underwent significant technical rehabilitation starting in 2007."],
     },
+    image: "/poi-images/republicofcongo-moukoukoulou-power-plant-economic-v2.webp",
   },
   {
     id: "republicofcongo-impfondo-river-port-economic-v2",
@@ -310,6 +319,7 @@ export const republicofcongoEconomicV2: POI[] = [
       ro: ["Situat pe râul Ubangi, un afluent major al fluviului Congo.", "Principalul punct de aprovizionare pentru regiunea Likouala.", "Nod strategic pentru exportul de bușteni către Brazzaville.", "Călătoria pe râu de la Brazzaville poate dura până la 10 zile.", "Echipat cu pontoane plutitoare pentru a face față fluctuațiilor de nivel.", "Facilitează comerțul transfrontalier cu RD Congo."],
       en: ["Located on the Ubangi River, a major tributary of the Congo.", "Primary supply point for the remote Likouala region.", "Key transit point for timber being shipped south to Brazzaville.", "The river journey from the capital can take up to 10 days.", "Uses floating docks to accommodate dramatic water level changes.", "Central hub for cross-border trade with the DR Congo."],
     },
+    image: "/poi-images/republicofcongo-impfondo-river-port-economic-v2.webp",
   },
   {
     id: "republicofcongo-mossaka-fish-market-economic-v2",
@@ -341,6 +351,7 @@ export const republicofcongoEconomicV2: POI[] = [
       ro: ["Cunoscut drept capitala pescuitului din Republica Congo.", "Specializat în producția și comercializarea peștelui afumat.", "Situat în departamentul Cuvette, într-o zonă de deltă interioară.", "Aprovizionează capitala Brazzaville cu mii de tone de pește anual.", "Găzduiește periodic târguri regionale dedicate pescuitului.", "Păstrează tehnici tradiționale de conservare a peștelui prin afumare."],
       en: ["Known as the fishing capital of the Republic of the Congo.", "Specializes in the production and trade of smoked fish.", "Located in a water-rich delta region in the Cuvette Department.", "Supplies Brazzaville with tons of freshwater fish annually.", "Hosts regular regional fishing markets and trade fairs.", "Famous for traditional wood-smoked fish preservation techniques."],
     },
+    image: "/poi-images/republicofcongo-mossaka-fish-market-economic-v2.webp",
   },
   {
     id: "republicofcongo-oyo-alima-port-economic-v2",
@@ -372,6 +383,7 @@ export const republicofcongoEconomicV2: POI[] = [
       ro: ["Situat pe râul Alima, un afluent navigabil al fluviului Congo.", "Redeschis în 2011 în urma unor lucrări masive de modernizare.", "Dispune de un chei de 200 de metri pentru navele fluviale.", "Punct central al Zonei Economice Speciale Oyo-Ollombo.", "Facilitează exportul de carne de vită și produse agricole locale.", "Conectat prin drumuri moderne de Aeroportul Internațional Ollombo."],
       en: ["Located on the Alima River, a navigable tributary of the Congo.", "Reopened in 2011 after extensive modernization and expansion.", "Features a 200-meter-long quay for handling river vessels.", "A central logistics component of the Oyo-Ollombo SEZ.", "Facilitates the shipping of beef and diverse agricultural products.", "Linked by high-quality roads to the Ollombo International Airport."],
     },
+    image: "/poi-images/republicofcongo-oyo-alima-port-economic-v2.webp",
   },
   {
     id: "republicofcongo-etoumbi-palm-oil-economic-v2",
@@ -403,6 +415,7 @@ export const republicofcongoEconomicV2: POI[] = [
       ro: ["Situată în departamentul Cuvette-Ouest, în nord-vestul țării.", "Procesează sâmburi de palmier de pe mii de hectare de plantații.", "Modernizată în cadrul proiectelor de parteneriat public-privat.", "Produce ulei brut pentru industria săpunului și cea alimentară.", "Contribuie la diversificarea economică a unei regiuni forestiere.", "Sprijină micii fermieri prin contracte de achiziție a fructelor."],
       en: ["Located in the Cuvette-Ouest Department in northwestern Congo.", "Processes palm nuts from thousands of hectares of plantations.", "Modernized as part of privatization and industrial recovery plans.", "Produces crude oil for the soap and food processing industries.", "Contributes to the economic diversification of the region.", "Supports smallholder farmers through fruit purchase agreements."],
     },
+    image: "/poi-images/republicofcongo-etoumbi-palm-oil-economic-v2.webp",
   },
   {
     id: "republicofcongo-pokola-timber-mill-economic-v2",
@@ -434,6 +447,7 @@ export const republicofcongoEconomicV2: POI[] = [
       ro: ["Operată de CIB, o subsidiară a grupului internațional Olam.", "Gestionează o suprafață certificată FSC de peste 2 milioane de hectare.", "Cel mai mare angajator privat din nordul Republicii Congo.", "Include facilități sociale proprii, cum ar fi un spital și școli.", "Exportă lemn de înaltă calitate către piețele din Europa și America.", "Utilizează tehnologie avansată pentru trasabilitatea buștenilor."],
       en: ["Operated by CIB, a subsidiary of the global Olam group.", "Manages an FSC-certified area exceeding 2 million hectares.", "The largest private employer in northern Republic of the Congo.", "Provides its own social services, including a hospital and schools.", "Exports premium-grade timber to European and North American markets.", "Employs advanced tracking systems for sustainable timber traceability."],
     },
+    image: "/poi-images/republicofcongo-pokola-timber-mill-economic-v2.webp",
   },
   {
     id: "republicofcongo-ouesso-trade-center-economic-v2",
@@ -465,6 +479,7 @@ export const republicofcongoEconomicV2: POI[] = [
       ro: ["Capitala departamentului Sangha din nordul țării.", "Port fluvial important pe râul Sangha pentru transportul lemnului.", "Punctul terminus al drumului național asfaltat RN2 de la Brazzaville.", "Centru major pentru colectarea și procesarea boabelor de cacao.", "Bază logistică pentru Parcul Național Nouabalé-Ndoki.", "Dispune de un aeroport regional cu zboruri regulate către sud."],
       en: ["Capital of the Sangha Department in northern Congo.", "Major river port on the Sangha River used for timber shipping.", "The terminus of the paved RN2 highway originating in Brazzaville.", "A significant hub for the growing domestic cocoa industry.", "Primary logistical base for the Nouabalé-Ndoki National Park.", "Features a regional airport with scheduled flights to the south."],
     },
+    image: "/poi-images/republicofcongo-ouesso-trade-center-economic-v2.webp",
   },
   {
     id: "republicofcongo-dolisie-transport-hub-economic-v2",
@@ -496,6 +511,7 @@ export const republicofcongoEconomicV2: POI[] = [
       ro: ["Al treilea oraș ca mărime și capitala departamentului Niari.", "Nod feroviar central pe linia CFCO (Pointe-Noire - Brazzaville).", "Principalul punct de tranzit pentru mărfurile care merg spre Gabon.", "Numele anterior al orașului a fost Loubomo până în 1991.", "Găzduiește numeroase fabrici de cherestea și depozite de bușteni.", "Situat strategic în valea fertilă a râului Niari."],
       en: ["The country's third-largest city and capital of the Niari Department.", "A central rail junction on the CFCO line (Pointe-Noire to Brazzaville).", "The most important gateway for road transit to and from Gabon.", "Formerly known as Loubomo until the name was changed in 1991.", "Home to numerous sawmills and timber storage facilities.", "Strategically positioned within the fertile Niari River valley."],
     },
+    image: "/poi-images/republicofcongo-dolisie-transport-hub-economic-v2.webp",
   },
   {
     id: "republicofcongo-kayes-industrial-zone-economic-v2",
@@ -527,6 +543,7 @@ export const republicofcongoEconomicV2: POI[] = [
       ro: ["Situată în regiunea Bouenza, bogată în resurse minerale.", "Găzduiește o fabrică majoră de ciment a grupului Dangote.", "Utilizează rezervele locale de calcar pentru procesul de producție.", "Poziționată strategic pe ruta feroviară Pointe-Noire - Brazzaville.", "Contribuie la scăderea prețurilor materialelor de construcții la nivel național.", "Asigură locuri de muncă pentru sute de specialiști și tehnicieni locali."],
       en: ["Located in the mineral-rich Bouenza region of southern Congo.", "Home to a large-scale Dangote cement plant with high output.", "Utilizes local limestone deposits for cement manufacturing.", "Conveniently situated along the Pointe-Noire to Brazzaville rail line.", "Helps lower overall construction costs within the Republic of the Congo.", "Provides employment for hundreds of skilled workers and technicians."],
     },
+    image: "/poi-images/republicofcongo-kayes-industrial-zone-economic-v2.webp",
   },
   {
     id: "republicofcongo-boko-agriculture-hub-economic-v2",
@@ -558,6 +575,7 @@ export const republicofcongoEconomicV2: POI[] = [
       ro: ["Situat pe un platou înalt din departamentul Pool.", "Faimos pentru „ananasul de Boko”, cunoscut pentru dulceața sa.", "Cel mai important furnizor de fructe pentru piețele din Brazzaville.", "Dispune de un microclimat mai răcoros decât restul bazinului Congo.", "Centru pentru cooperativele micilor fermieri din regiune.", "Conectat de capitală printr-o șosea vitală pentru transportul alimentelor."],
       en: ["Located on a high plateau in the Pool Department.", "Famous for the 'Boko pineapple', known for its exceptional sweetness.", "Primary supplier of fresh fruit to the markets of Brazzaville.", "Benefits from a cooler microclimate than the surrounding Congo Basin.", "A central hub for smallholder farming cooperatives in the region.", "Linked to the capital by a critical road for agricultural transport."],
     },
+    image: "/poi-images/republicofcongo-boko-agriculture-hub-economic-v2.webp",
   },
   {
     id: "republicofcongo-kinkala-trade-center-economic-v2",
@@ -589,6 +607,7 @@ export const republicofcongoEconomicV2: POI[] = [
       ro: ["Capitala departamentului Pool", "Situat la 75 de kilometri de Brazzaville", "Centru regional pentru comerțul cu manioc", "Localizat la o altitudine de aproximativ 440 metri", "Situat direct pe autostrada națională RN1", "Centru de aprovizionare pentru peste 20.000 de locuitori"],
       en: ["Capital city of the Pool Department", "Located 75 kilometers from Brazzaville", "Regional hub for the cassava trade", "Situated at an elevation of 440 meters", "Positioned along the RN1 national highway", "Supply center for over 20,000 residents"],
     },
+    image: "/poi-images/republicofcongo-kinkala-trade-center-economic-v2.webp",
   },
   {
     id: "republicofcongo-mvouti-mining-zone-economic-v2",
@@ -620,6 +639,7 @@ export const republicofcongoEconomicV2: POI[] = [
       ro: ["Situat în departamentul Kouilou", "Centru pentru exploatarea artizanală a aurului", "Se află în lanțul muntos Mayombe", "Prezența zăcămintelor de cupru și plumb", "Aproape de Parcul Național Conkouati-Douli", "Înconjurat de pădure tropicală primară"],
       en: ["Located in the Kouilou Department", "Center for artisanal gold mining", "Situated in the Mayombe mountain range", "Rich in copper and lead deposits", "Near the Conkouati-Douli National Park", "Surrounded by primary rainforest environment"],
     },
+    image: "/poi-images/republicofcongo-mvouti-mining-zone-economic-v2.webp",
   },
   {
     id: "republicofcongo-loandjili-industry-park-economic-v2",
@@ -651,6 +671,7 @@ export const republicofcongoEconomicV2: POI[] = [
       ro: ["District industrial din Pointe-Noire", "Focus pe logistică și depozitare", "Infrastructură pentru servicii petroliere", "Proximitatea de portul maritim Pointe-Noire", "Găzduiește unități de procesare", "Centru important de angajare în regiune"],
       en: ["Industrial district of Pointe-Noire", "Focus on logistics and storage", "Significant oil services infrastructure", "Proximity to Pointe-Noire seaport", "Hosts manufacturing and processing plants", "Key employment center for the region"],
     },
+    image: "/poi-images/republicofcongo-loandjili-industry-park-economic-v2.webp",
   },
   {
     id: "republicofcongo-tchiamba-nzassi-oil-economic-v2",
@@ -682,6 +703,7 @@ export const republicofcongoEconomicV2: POI[] = [
       ro: ["Câmp petrolier onshore în Kouilou", "Operațiunile au început în anii 1980", "Administrat de consorții internaționale", "Lângă granița cu Angola (Cabinda)", "Conectat la Pointe-Noire prin conductă", "Parte a strategiei naționale de export"],
       en: ["Onshore oil field in Kouilou", "Operations started in the 1980s", "Managed by international oil consortia", "Near the border with Angola (Cabinda)", "Connected to Pointe-Noire via pipeline", "Contributes to national hydrocarbon export"],
     },
+    image: "/poi-images/republicofcongo-tchiamba-nzassi-oil-economic-v2.webp",
   },
   {
     id: "republicofcongo-yie-substation-economic-v2",
@@ -713,6 +735,7 @@ export const republicofcongoEconomicV2: POI[] = [
       ro: ["Substație electrică lângă Brazzaville", "Parte a rețelei naționale SNE", "Primește energie de la barajul Imboulou", "Capacitate de transmisie de 220 kV", "Reglează tensiunea pentru capitală", "Modernizată în anii 2010 pentru stabilitate"],
       en: ["Electricity substation near Brazzaville", "Vital part of the national grid (SNE)", "Receives power from Imboulou Dam", "220 kV transmission capacity", "Regulates voltage for the capital city", "Modernized in the 2010s for stability"],
     },
+    image: "/poi-images/republicofcongo-yie-substation-economic-v2.webp",
   },
   {
     id: "republicofcongo-mossendjo-timber-zone-economic-v2",
@@ -744,6 +767,7 @@ export const republicofcongoEconomicV2: POI[] = [
       ro: ["Centru al industriei lemnului în Niari", "Faimos pentru lemnul de Okoumé și Limba", "Mari fabrici de cherestea din era colonială", "Accesibil prin ramura feroviară CFCO", "Înconjurat de păduri tropicale dense", "Locație cheie pentru exporturile forestiere"],
       en: ["Major center for timber industry", "Famous for Okoumé and Limba wood", "Large sawmill operations since colonial era", "Accessible via the CFCO railway branch", "Surrounded by dense tropical forests", "Key location for forestry exports"],
     },
+    image: "/poi-images/republicofcongo-mossendjo-timber-zone-economic-v2.webp",
   },
   {
     id: "republicofcongo-makabana-railway-mining-economic-v2",
@@ -775,6 +799,7 @@ export const republicofcongoEconomicV2: POI[] = [
       ro: ["Punct istoric de tranzit pentru mangan", "Capătul unei telecabine de 76 km", "Conectat la sistemul feroviar CFCO", "Situat în departamentul Niari", "Important pentru transportul minereului până în 1986", "Nod strategic pentru exporturile de minerale"],
       en: ["Historical manganese transit point", "Termination of COMILOG cableway (76 km)", "Connected to CFCO railway system", "Located in the Niari Department", "Important for ore transport until 1986", "Strategic junction for mineral exports"],
     },
+    image: "/poi-images/republicofcongo-makabana-railway-mining-economic-v2.webp",
   },
   {
     id: "republicofcongo-djiri-water-works-economic-v2",
@@ -806,5 +831,6 @@ export const republicofcongoEconomicV2: POI[] = [
       ro: ["Principala uzină de apă pentru Brazzaville", "Extrage apă din râul Djiri", "Capacitate de 10.000 m3 pe oră", "Alimentează peste 60% din capitală", "Modernizată cu ajutor internațional în 2013", "Dispune de rezervoare de sedimentare moderne"],
       en: ["Main water treatment plant for Brazzaville", "Draws water from the Djiri River", "Production capacity of 10,000 m3 per hour", "Supplies over 60% of the capital city", "Upgraded with international cooperation in 2013", "Features sedimentation and filtration tanks"],
     },
+    image: "/poi-images/republicofcongo-djiri-water-works-economic-v2.webp",
   }
 ];

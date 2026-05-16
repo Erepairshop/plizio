@@ -31,6 +31,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Populație: 250.000", "Clădirea cea mai înaltă: 484 m (ICC)", "Linii MTR: 3", "Star Ferry: din 1888", "Suprafață: 6,5 km²", "Sediți bancare: peste 70"],
       en: ["Population: 250,000", "Tallest building: 484 m (ICC)", "MTR lines: 3", "Star Ferry: since 1888", "Area: 6.5 km²", "Bank headquarters: 70+"],
     },
+    image: "/poi-images/hongkong-central-cities-v2.webp",
   },
   {
     id: "hongkong-tsim-sha-tsui-cities-v2",
@@ -62,6 +63,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Densitate populație: 40.000/km²", "Muzee: 3", "Avenue of Stars: 420 m lungime", "Hoteluri: peste 50", "Magazine: peste 1.000", "Stații MTR: 2"],
       en: ["Population density: 40,000/km²", "Museums: 3", "Avenue of Stars: 420 m long", "Hotels: 50+", "Shops: 1,000+", "MTR stations: 2"],
     },
+    image: "/poi-images/hongkong-tsim-sha-tsui-cities-v2.webp",
   },
   {
     id: "hongkong-sha-tin-cities-v2",
@@ -93,6 +95,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Populație: peste 630.000", "Capacitate hipodrom: 85.000", "Suprafață universitate: 137 ha", "Muzee: 1", "Parcuri: peste 15", "Linii MTR: 2"],
       en: ["Population: 630,000+", "Racecourse capacity: 85,000", "University area: 137 ha", "Museums: 1", "Parks: 15+", "MTR lines: 2"],
     },
+    image: "/poi-images/hongkong-sha-tin-cities-v2.webp",
   },
   {
     id: "hongkong-tuen-mun-cities-v2",
@@ -124,6 +127,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Populație: 500.000", "Trafic containere: 1 milion TEU", "Stații Light Rail: 12", "Plaje: 3", "Parcuri: peste 10", "Istorie: Dinastia Ming"],
       en: ["Population: 500,000", "Container throughput: 1 million TEU", "Light Rail stations: 12", "Beaches: 3", "Parks: 10+", "History: Ming dynasty"],
     },
+    image: "/poi-images/hongkong-tuen-mun-cities-v2.webp",
   },
   {
     id: "hongkong-tsuen-wan-cities-v2",
@@ -155,6 +159,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Populație: peste 300.000", "Capacitate stadion: 5.000", "Muzee: 1", "Fabrici textile: peste 50 (istoric)", "Centre comerciale: 5", "Stații MTR: 3"],
       en: ["Population: 300,000+", "Stadium capacity: 5,000", "Museums: 1", "Textile factories: 50+ (historical)", "Shopping malls: 5", "MTR stations: 3"],
     },
+    image: "/poi-images/hongkong-tsuen-wan-cities-v2.webp",
   },
   {
     id: "hongkong-mong-kok-cities-v2",
@@ -186,6 +191,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Densitate populație: 130.000/km²", "Piețe: peste 10", "Stații MTR: 4", "Străzi: peste 200", "Magazine: peste 5.000", "Restaurante: peste 500"],
       en: ["Population density: 130,000/km²", "Markets: 10+", "MTR stations: 4", "Streets: 200+", "Shops: 5,000+", "Restaurants: 500+"],
     },
+    image: "/poi-images/hongkong-mong-kok-cities-v2.webp",
   },
   {
     id: "hongkong-yuen-long-cities-v2",
@@ -217,6 +223,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Populație: peste 600.000", "Suprafață zonă umedă: 2 km²", "Producție de orez: 500 t/an", "Temple: peste 10", "Linii Light Rail: 3", "Piețe: 5"],
       en: ["Population: 600,000+", "Wetland area: 2 km²", "Rice production: 500 t/year", "Temples: 10+", "Light Rail lines: 3", "Markets: 5"],
     },
+    image: "/poi-images/hongkong-yuen-long-cities-v2.webp",
   },
   {
     id: "hongkong-tai-po-cities-v2",
@@ -248,6 +255,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Populație: 320.000", "Suprafață industrială: 3 km²", "Muzee: 1", "Parcuri: peste 10", "Lungime râu: 6 km", "Istorie: Dinastia Qing"],
       en: ["Population: 320,000", "Industrial area: 3 km²", "Museums: 1", "Parks: 10+", "River length: 6 km", "History: Qing dynasty"],
     },
+    image: "/poi-images/hongkong-tai-po-cities-v2.webp",
   },
   {
     id: "hongkong-tseung-kwan-o-cities-v2",
@@ -279,6 +287,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Populație: 400.000 (2016)", "Suprafață: 8,5 km² (recuperare de teren)", "Deschidere linie MTR: 2002", "Cea mai înaltă clădire: 220 m (The Wings)", "Deschidere velodrom: 2013", "Lungime tunel: 3,2 km"],
       en: ["Population: 400,000 (2016)", "Area: 8.5 km² (reclaimed)", "MTR line opened: 2002", "Tallest building: 220 m (The Wings)", "Velodrome opened: 2013", "Tunnel length: 3.2 km"],
     },
+    image: "/poi-images/hongkong-tseung-kwan-o-cities-v2.webp",
   },
   {
     id: "hongkong-kwun-tong-cities-v2",
@@ -310,6 +319,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Populație: 620.000 (2021)", "Suprafață: 11 km²", "Deschidere parc industrial: anii 1950", "Cea mai înaltă clădire: 267 m (The Cullinan Towers)", "Deschidere Centru de Comerț: 2008", "Lungime promenadă: 1,2 km"],
       en: ["Population: 620,000 (2021)", "Area: 11 km²", "Industrial park opened: 1950s", "Tallest building: 267 m (The Cullinan Towers)", "Trade Centre opened: 2008", "Promenade length: 1.2 km"],
     },
+    image: "/poi-images/hongkong-kwun-tong-cities-v2.webp",
   },
   {
     id: "hongkong-wan-chai-cities-v2",
@@ -341,6 +351,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Densitatea populației: 150.000/km²", "Suprafață: 9,2 km²", "Deschidere Centru de Convenții: 1997", "Înălțime Golden Bauhinia: 6 m", "An construcție Casă Albastră: 1922", "Deschidere stație MTR: 1985"],
       en: ["Population density: 150,000/km²", "Area: 9.2 km²", "Convention Centre opened: 1997", "Golden Bauhinia height: 6 m", "Blue House built: 1922", "MTR station opened: 1985"],
     },
+    image: "/poi-images/hongkong-wan-chai-cities-v2.webp",
   },
   {
     id: "hongkong-north-point-cities-v2",
@@ -372,6 +383,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Densitatea populației: 180.000/km²", "Suprafață: 2,5 km²", "An construcție Templu Tin Hau: 1870", "Deschidere debarcader feribot: 1950", "Cea mai înaltă clădire: 200 m (Harbourview Horizon)", "Deschidere Arhivă Film Hong Kong: 2000"],
       en: ["Population density: 180,000/km²", "Area: 2.5 km²", "Tin Hau Temple built: 1870", "Ferry pier opened: 1950", "Tallest building: 200 m (Harbourview Horizon)", "Hong Kong Film Archive opened: 2000"],
     },
+    image: "/poi-images/hongkong-north-point-cities-v2.webp",
   },
   {
     id: "hongkong-stanley-cities-v2",
@@ -403,6 +415,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Populație: 30.000 (2021)", "Suprafață: 7,5 km²", "An construcție Fort Stanley: 1840", "Înălțime Murray House: 3 etaje", "Deschidere muzeu: 2013", "Lungime plajă: 500 m"],
       en: ["Population: 30,000 (2021)", "Area: 7.5 km²", "Stanley Fort built: 1840", "Murray House stories: 3", "Museum opened: 2013", "Beach length: 500 m"],
     },
+    image: "/poi-images/hongkong-stanley-cities-v2.webp",
   },
   {
     id: "hongkong-sai-kung-cities-v2",
@@ -434,6 +447,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Cel mai înalt punct: Sharp Peak 468 m", "Suprafață: 136,3 km²", "Parcul Național Sai Kung înființat: 1978", "Populație: 60.000 (2021)", "Lungime MacLehose Trail: 100 km", "Număr insule: 20+"],
       en: ["Highest point: Sharp Peak 468 m", "Area: 136.3 km²", "Sai Kung Country Park established: 1978", "Population: 60,000 (2021)", "MacLehose Trail length: 100 km", "Number of islands: 20+"],
     },
+    image: "/poi-images/hongkong-sai-kung-cities-v2.webp",
   },
   {
     id: "hongkong-tung-chung-cities-v2",
@@ -465,6 +479,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Populație: 80.000 (2021)", "Suprafață: 14,5 km²", "An construcție Fort Tung Chung: 1817", "Lungime telecabină: 5,7 km", "Deschidere linie MTR: 1998", "Deschidere aeroport: 1998"],
       en: ["Population: 80,000 (2021)", "Area: 14.5 km²", "Tung Chung Fort built: 1817", "Cable car length: 5.7 km", "MTR line opened: 1998", "Airport opened: 1998"],
     },
+    image: "/poi-images/hongkong-tung-chung-cities-v2.webp",
   },
   {
     id: "hongkong-sheung-shui-cities-v2",
@@ -496,6 +511,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Populație: 90.000 (2021)", "Suprafață: 12,5 km²", "Deschidere stație MTR: 1930", "Deschidere piață Luen Wo Hui: 1960", "Cea mai înaltă clădire: 180 m (the Balmoral)", "Distanță până la graniță: 3 km"],
       en: ["Population: 90,000 (2021)", "Area: 12.5 km²", "MTR station opened: 1930", "Luen Wo Hui Market opened: 1960", "Tallest building: 180 m (the Balmoral)", "Distance to border: 3 km"],
     },
+    image: "/poi-images/hongkong-sheung-shui-cities-v2.webp",
   },
   {
     id: "hongkong-fanling-cities-v2",
@@ -527,6 +543,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Populație: 150.000 (2021)", "Suprafață: 22,0 km²", "Fanling Golf Club fondat: 1899", "Lungime traseu patrimoniu: 2 km", "Deschidere stație MTR: 1910", "Cea mai înaltă clădire: 160 m (Fanling Centre)"],
       en: ["Population: 150,000 (2021)", "Area: 22.0 km²", "Fanling Golf Club founded: 1899", "Heritage Trail length: 2 km", "MTR station opened: 1910", "Tallest building: 160 m (Fanling Centre)"],
     },
+    image: "/poi-images/hongkong-fanling-cities-v2.webp",
   },
   {
     id: "hongkong-ma-on-shan-cities-v2",
@@ -558,6 +575,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Populație: 200.000 (2021)", "Suprafață: 8,5 km²", "Înălțime Vârf Ma On Shan: 702 m", "Mină de fier închisă: anii 1970", "Deschidere linie MTR: 2004", "Lungime promenadă: 1,5 km"],
       en: ["Population: 200,000 (2021)", "Area: 8.5 km²", "Ma On Shan Peak height: 702 m", "Iron mine closed: 1970s", "MTR line opened: 2004", "Promenade length: 1.5 km"],
     },
+    image: "/poi-images/hongkong-ma-on-shan-cities-v2.webp",
   },
   {
     id: "hongkong-tin-shui-wai-cities-v2",
@@ -589,6 +607,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Populație: 280.000 (2021)", "Suprafață: 7,5 km²", "Deschidere Parc Zone Umede: 2006", "Suprafață parc: 61 ha", "Deschidere Light Rail: 1993", "Cea mai înaltă clădire: 200 m (Tin Shui Wai Towers)"],
       en: ["Population: 280,000 (2021)", "Area: 7.5 km²", "Wetland Park opened: 2006", "Wetland Park area: 61 ha", "Light Rail opened: 1993", "Tallest building: 200 m (Tin Shui Wai Towers)"],
     },
+    image: "/poi-images/hongkong-tin-shui-wai-cities-v2.webp",
   },
   {
     id: "hongkong-tsing-yi-cities-v2",
@@ -620,6 +639,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Populație: 200.000 (2021)", "Suprafață: 15,6 km²", "Lungime Pod Tsing Ma: 1,4 km", "Deschidere pod: 1997", "Capacitate terminal containere: 5 milioane TEU", "Cea mai înaltă clădire: 200 m (Maritime Square)"],
       en: ["Population: 200,000 (2021)", "Area: 15.6 km²", "Tsing Ma Bridge length: 1.4 km", "Bridge opened: 1997", "Container terminal capacity: 5 million TEU", "Tallest building: 200 m (Maritime Square)"],
     },
+    image: "/poi-images/hongkong-tsing-yi-cities-v2.webp",
   },
   {
     id: "hongkong-tai-wai-cities-v2",
@@ -651,6 +671,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Populație: 80.000 (2021)", "Suprafață: 3,5 km²", "Templu Che Kung Miu construit: 1996", "Deschidere schimbător MTR: 2004", "Lungime râu Shing Mun: 7 km", "Cea mai înaltă clădire: 180 m (The Grandeur)"],
       en: ["Population: 80,000 (2021)", "Area: 3.5 km²", "Che Kung Miu Temple built: 1996", "MTR interchange opened: 2004", "Shing Mun River length: 7 km", "Tallest building: 180 m (The Grandeur)"],
     },
+    image: "/poi-images/hongkong-tai-wai-cities-v2.webp",
   },
   {
     id: "hongkong-fo-tan-cities-v2",
@@ -682,6 +703,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Populație: 25.000 (2021)", "Suprafață: 4,2 km²", "Muzeu feroviar deschis: 2005", "Număr dealeri auto: 50+", "Stație MTR deschisă: 1985", "Distanță până la hipodromul Sha Tin: 1 km"],
       en: ["Population: 25,000 (2021)", "Area: 4.2 km²", "Railway Museum opened: 2005", "Number of car dealers: 50+", "MTR station opened: 1985", "Distance to Sha Tin Racecourse: 1 km"],
     },
+    image: "/poi-images/hongkong-fo-tan-cities-v2.webp",
   },
   {
     id: "hongkong-sham-shui-po-cities-v2",
@@ -713,6 +735,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Densitatea populației: 50.000/km²", "Suprafață: 8,5 km²", "An construcție Templu Sam Tai Tsz: 1884", "Număr magazine de calculatoare: 200+", "Deschidere stație MTR: 1979", "Populație: 400.000 (2021)"],
       en: ["Population density: 50,000/km²", "Area: 8.5 km²", "Sam Tai Tsz Temple built: 1884", "Number of computer shops: 200+", "MTR station opened: 1979", "Population: 400,000 (2021)"],
     },
+    image: "/poi-images/hongkong-sham-shui-po-cities-v2.webp",
   },
   {
     id: "hongkong-kowloon-tong-cities-v2",
@@ -744,6 +767,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Populație: 40.000 (2021)", "Suprafață: 5,2 km²", "Universitatea Baptistă Hong Kong fondată: 1956", "Înălțime Beacon Hill: 457 m", "Deschidere stație MTR: 1982", "Număr școli internaționale: 5"],
       en: ["Population: 40,000 (2021)", "Area: 5.2 km²", "Hong Kong Baptist University founded: 1956", "Beacon Hill height: 457 m", "MTR station opened: 1982", "Number of international schools: 5"],
     },
+    image: "/poi-images/hongkong-kowloon-tong-cities-v2.webp",
   },
   {
     id: "hongkong-wong-tai-sin-cities-v2",
@@ -775,6 +799,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Populație: 200.000 (2021)", "Suprafață: 9,3 km²", "Templu Wong Tai Sin fondat: 1921", "Suprafață templu: 8.000 m²", "Deschidere Grădină Nan Lian: 2006", "Deschidere stație MTR: 1979"],
       en: ["Population: 200,000 (2021)", "Area: 9.3 km²", "Wong Tai Sin Temple founded: 1921", "Temple area: 8,000 m²", "Nan Lian Garden opened: 2006", "MTR station opened: 1979"],
     },
+    image: "/poi-images/hongkong-wong-tai-sin-cities-v2.webp",
   },
   {
     id: "hongkong-diamond-hill-cities-v2",
@@ -806,6 +831,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Populație: 100.000 (2021)", "Suprafață: 4,5 km²", "Chi Lin Nunnery construit: 1934", "Număr de săli: 16", "Suprafață Grădină Nan Lian: 3,5 ha", "Deschidere stație MTR: 1979"],
       en: ["Population: 100,000 (2021)", "Area: 4.5 km²", "Chi Lin Nunnery built: 1934", "Number of halls: 16", "Nan Lian Garden area: 3.5 ha", "MTR station opened: 1979"],
     },
+    image: "/poi-images/hongkong-diamond-hill-cities-v2.webp",
   },
   {
     id: "hongkong-ngau-tau-kok-cities-v2",
@@ -837,6 +863,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Populație: 60.000 (2021)", "Suprafață: 2,8 km²", "An construcție Upper Ngau Tau Kok Estate: 1965", "Număr apartamente: 5.000", "Deschidere stație MTR: 1979", "Cea mai înaltă clădire: 150 m (Laguna City)"],
       en: ["Population: 60,000 (2021)", "Area: 2.8 km²", "Upper Ngau Tau Kok Estate built: 1965", "Number of flats: 5,000", "MTR station opened: 1979", "Tallest building: 150 m (Laguna City)"],
     },
+    image: "/poi-images/hongkong-ngau-tau-kok-cities-v2.webp",
   },
   {
     id: "hongkong-lam-tin-cities-v2",
@@ -868,6 +895,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Populație: 100.000 (2021)", "Suprafață: 3,2 km²", "An construcție Lam Tin Estate: 1966", "Număr apartamente: 6.500", "Deschidere stație MTR: 1989", "Cea mai înaltă clădire: 200 m (The Spectacle)"],
       en: ["Population: 100,000 (2021)", "Area: 3.2 km²", "Lam Tin Estate built: 1966", "Number of flats: 6,500", "MTR station opened: 1989", "Tallest building: 200 m (The Spectacle)"],
     },
+    image: "/poi-images/hongkong-lam-tin-cities-v2.webp",
   },
   {
     id: "hongkong-yau-tong-cities-v2",
@@ -899,6 +927,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Suprafața Yau Tong este de aproximativ 1,5 km².", "Stația de metrou Yau Tong a fost deschisă pe 4 august 2002.", "Populația zonei depășește 75.000 de locuitori.", "Golful Yau Tong a fost umplut în anii 1990, creând 0,3 km² de teren.", "Yau Tong Centre are 2.000 de apartamente.", "Clădirile din zonă au în medie 40 de etaje."],
       en: ["Yau Tong covers an area of approximately 1.5 km².", "The MTR Yau Tong station opened on August 4, 2002.", "Population exceeds 75,000 residents.", "Land reclamation added 0.3 km² in the 1990s.", "Yau Tong Centre contains 2,000 residential units.", "The tallest building is 48 stories high."],
     },
+    image: "/poi-images/hongkong-yau-tong-cities-v2.webp",
   },
   {
     id: "hongkong-quarry-bay-cities-v2",
@@ -930,6 +959,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Stația de metrou Quarry Bay a fost deschisă pe 31 mai 1985.", "Taikoo Shing are 61 de blocuri cu aproximativ 12.700 de apartamente.", "Complexul Taikoo Place cuprinde 6 turnuri de birouri cu o suprafață totală de 560.000 m².", "Densitatea populației în Quarry Bay este de circa 32.000 locuitori/km².", "Parcul Quarry Bay se întinde pe 7 hectare.", "Zona găzduiește peste 200 de companii."],
       en: ["Quarry Bay MTR station opened on May 31, 1985.", "Taikoo Shing contains 61 residential blocks with about 12,700 units.", "Taikoo Place office complex comprises 6 towers totaling 560,000 m².", "Population density is around 32,000 people per km².", "Quarry Bay Park spans 7 hectares.", "Over 200 companies are headquartered in the area."],
     },
+    image: "/poi-images/hongkong-quarry-bay-cities-v2.webp",
   },
   {
     id: "hongkong-shau-kei-wan-cities-v2",
@@ -961,6 +991,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Stația de metrou Shau Kei Wan a fost deschisă pe 31 mai 1985.", "Templul Tin Hau datează din 1876.", "Densitatea populației depășește 40.000 locuitori/km².", "Portul găzduiește aproximativ 200 de bărci.", "Shau Kei Wan are o suprafață de circa 1,2 km².", "Dimensiunea medie a unui apartament este de 45 m²."],
       en: ["Shau Kei Wan MTR station opened on May 31, 1985.", "The Tin Hau Temple was built in 1876.", "Population density exceeds 40,000 per km².", "The fishing port accommodates about 200 boats.", "Area covers approximately 1.2 km².", "Average apartment size is 45 m²."],
     },
+    image: "/poi-images/hongkong-shau-kei-wan-cities-v2.webp",
   },
   {
     id: "hongkong-chai-wan-cities-v2",
@@ -992,6 +1023,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Stația de metrou Chai Wan a fost deschisă pe 31 mai 1985.", "Chai Wan are o suprafață de circa 3,5 km².", "Densitatea populației este de aproximativ 25.000 locuitori/km².", "Arhiva de Film din Hong Kong deține peste 500.000 de filme.", "Cimitirul Kap a fost înființat în 1845.", "Parcul Chai Wan se întinde pe 11 hectare."],
       en: ["Chai Wan MTR terminus opened on May 31, 1985.", "Area covers about 3.5 km².", "Population density is approximately 25,000 per km².", "Hong Kong Film Archive holds over 500,000 films.", "Cape Collinson (Kap) Cemetery was established in 1845.", "Chai Wan Park spans 11 hectares."],
     },
+    image: "/poi-images/hongkong-chai-wan-cities-v2.webp",
   },
   {
     id: "hongkong-kennedy-town-cities-v2",
@@ -1023,6 +1055,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Extensia de metrou către Kennedy Town a fost deschisă pe 28 martie 2014.", "Densitatea populației este de aproximativ 30.000 locuitori/km².", "Kennedy Town are o suprafață de circa 0,8 km².", "Piscina publică Kennedy Town a fost deschisă în 2011.", "Dimensiunea medie a unei locuințe este de 50 m².", "Zona este locuită de aproximativ 40.000 de persoane."],
       en: ["MTR extension to Kennedy Town opened on March 28, 2014.", "Population density is about 30,000 per km².", "Area covers approximately 0.8 km².", "Kennedy Town Public Swimming Pool opened in 2011.", "Average apartment size is 50 m².", "Residential population is around 40,000."],
     },
+    image: "/poi-images/hongkong-kennedy-town-cities-v2.webp",
   },
   {
     id: "hongkong-sheung-wan-cities-v2",
@@ -1054,6 +1087,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Stația de metrou Sheung Wan a fost deschisă pe 23 mai 1986.", "Templul Man Mo a fost construit în 1847.", "Piața de pește uscat se întinde pe aproximativ 200 de metri.", "Sheung Wan are o suprafață de circa 0,6 km².", "Piața de antichități Cat Street există din anii 1920.", "Densitatea populației este de aproximativ 35.000 locuitori/km²."],
       en: ["Sheung Wan MTR station opened on May 23, 1986.", "Man Mo Temple was built in 1847.", "The dried fish market stretches about 200 meters.", "Area covers approximately 0.6 km².", "Cat Street antique market has existed since the 1920s.", "Population density is around 35,000 per km²."],
     },
+    image: "/poi-images/hongkong-sheung-wan-cities-v2.webp",
   },
   {
     id: "hongkong-admiralty-cities-v2",
@@ -1085,6 +1119,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Stația de metrou Admiralty a fost deschisă pe 31 mai 1985.", "Parcul Hong Kong se întinde pe 8 hectare.", "Pacific Place include trei centre comerciale cu peste 200 de magazine.", "Complexul Queensway Government Offices are 50 de etaje.", "Admiralty are o suprafață de circa 0,5 km².", "Traficul zilnic al stației de metrou depășește 200.000 de pasageri."],
       en: ["Admiralty MTR station opened on May 31, 1985.", "Hong Kong Park spans 8 hectares.", "Pacific Place comprises three malls with over 200 stores.", "Queensway Government Offices building has 50 floors.", "Area covers approximately 0.5 km².", "MTR station daily ridership exceeds 200,000."],
     },
+    image: "/poi-images/hongkong-admiralty-cities-v2.webp",
   },
   {
     id: "hongkong-happy-valley-cities-v2",
@@ -1116,6 +1151,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Hipodromul Happy Valley a fost deschis în 1845.", "Pista are o lungime de 1.600 de metri.", "Happy Valley are o suprafață de circa 0,4 km².", "Cimitirul Hong Kong cuprinde peste 10.000 de morminte.", "Muzeul de Curse din Hong Kong a fost deschis în 1996.", "Densitatea populației este de aproximativ 20.000 locuitori/km²."],
       en: ["Happy Valley Racecourse opened in 1845.", "The track length is 1,600 meters.", "Area covers approximately 0.4 km².", "Hong Kong Cemetery contains over 10,000 graves.", "Hong Kong Racing Museum opened in 1996.", "Population density is about 20,000 per km²."],
     },
+    image: "/poi-images/hongkong-happy-valley-cities-v2.webp",
   },
   {
     id: "hongkong-pok-fu-lam-cities-v2",
@@ -1147,6 +1183,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["HKU a fost fondată în 1911.", "Rezervorul Pok Fu Lam a fost finalizat în 1923.", "Cyberport a fost deschis în 2002 și găzduiește peste 100 de companii.", "Stația de metrou HKU a fost deschisă pe 28 martie 2014.", "Pok Fu Lam are o suprafață de circa 1,2 km².", "Densitatea populației este de aproximativ 15.000 locuitori/km²."],
       en: ["HKU was founded in 1911.", "Pok Fu Lam Reservoir was completed in 1923.", "Cyberport opened in 2002, housing over 100 companies.", "MTR HKU station opened on March 28, 2014.", "Area covers approximately 1.2 km².", "Population density is around 15,000 per km²."],
     },
+    image: "/poi-images/hongkong-pok-fu-lam-cities-v2.webp",
   },
   {
     id: "hongkong-repulse-bay-cities-v2",
@@ -1178,6 +1215,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Plaja Repulse Bay are o lungime de aproximativ 250 de metri.", "Temperatura medie a apei este de 24 °C.", "Repulse Bay are o suprafață de circa 0,5 km².", "Densitatea populației este de aproximativ 10.000 locuitori/km².", "Cea mai apropiată stație de metrou este la peste 3 km distanță.", "Templul Tin Hau din Repulse Bay datează din anii 1930."],
       en: ["Repulse Bay beach is about 250 meters long.", "Average water temperature is 24 °C.", "Area covers approximately 0.5 km².", "Population density is around 10,000 per km².", "Nearest MTR station is over 3 km away.", "Tin Hau Temple in Repulse Bay dates from the 1930s."],
     },
+    image: "/poi-images/hongkong-repulse-bay-cities-v2.webp",
   },
   {
     id: "hongkong-ap-lei-chau-cities-v2",
@@ -1209,6 +1247,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Podul Ap Lei Chau a fost deschis în 1994.", "Stația de metrou Ap Lei Chau a fost deschisă pe 28 decembrie 2016.", "Insula are o suprafață de circa 1,3 km².", "Densitatea populației depășește 50.000 locuitori/km².", "Ap Lei Chau Estate a fost finalizat în 1980.", "Insula are aproximativ 80.000 de locuitori."],
       en: ["Ap Lei Chau Bridge opened in 1994.", "MTR Ap Lei Chau station opened on December 28, 2016.", "The island covers an area of about 1.3 km².", "Population density exceeds 50,000 per km².", "Ap Lei Chau Estate was completed in 1980.", "The island has approximately 80,000 residents."],
     },
+    image: "/poi-images/hongkong-ap-lei-chau-cities-v2.webp",
   },
   {
     id: "hongkong-jordan-cities-v2",
@@ -1240,6 +1279,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Stația de metrou Jordan a fost deschisă pe 1 octombrie 1979.", "Nathan Road în Jordan are aproximativ 1 km lungime.", "Densitatea populației depășește 40.000 locuitori/km².", "Chungking Mansions are peste 5.000 de locuitori.", "Jordan are o suprafață de circa 0,3 km².", "Parcul Jordan a fost deschis în 1970."],
       en: ["Jordan MTR station opened on October 1, 1979.", "Nathan Road in Jordan is about 1 km long.", "Population density exceeds 40,000 per km².", "Chungking Mansions has over 5,000 residents.", "Area covers approximately 0.3 km².", "Jordan Park opened in 1970."],
     },
+    image: "/poi-images/hongkong-jordan-cities-v2.webp",
   },
   {
     id: "hongkong-yau-ma-tei-cities-v2",
@@ -1271,6 +1311,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Stația de metrou Yau Ma Tei a fost deschisă pe 1 octombrie 1979.", "Temple Street Night Market se întinde pe 1 kilometru.", "Teatrul Yau Ma Tei a fost construit în 1930.", "Yau Ma Tei are o suprafață de circa 0,4 km².", "Templul Tin Hau datează din 1876.", "Densitatea populației este de aproximativ 35.000 locuitori/km²."],
       en: ["Yau Ma Tei MTR station opened on October 1, 1979.", "Temple Street Night Market stretches over 1 kilometer.", "Yau Ma Tei Theatre was built in 1930.", "Area covers approximately 0.4 km².", "Tin Hau Temple dates from 1876.", "Population density is around 35,000 per km²."],
     },
+    image: "/poi-images/hongkong-yau-ma-tei-cities-v2.webp",
   },
   {
     id: "hongkong-prince-edward-cities-v2",
@@ -1302,6 +1343,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Stația de metrou Prince Edward a fost deschisă pe 1 octombrie 1979.", "Piața de Flori se întinde pe 200 de metri.", "Grădina de Păsări are peste 50 de magazine de păsări.", "Prince Edward are o suprafață de circa 0,5 km².", "Densitatea populației este de aproximativ 40.000 locuitori/km².", "Piața de Pești Aurii există din anii 1960."],
       en: ["Prince Edward MTR station opened on October 1, 1979.", "Flower Market stretches over 200 meters.", "Bird Garden has over 50 bird shops.", "Area covers approximately 0.5 km².", "Population density is around 40,000 per km².", "Goldfish Market has existed since the 1960s."],
     },
+    image: "/poi-images/hongkong-prince-edward-cities-v2.webp",
   },
   {
     id: "hongkong-cheung-sha-wan-cities-v2",
@@ -1333,6 +1375,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Stația de metrou Cheung Sha Wan a fost deschisă pe 16 decembrie 2003.", "Industria textilă a angajat peste 30.000 de muncitori în anii 1970.", "Cheung Sha Wan are o suprafață de circa 0,6 km².", "Densitatea populației este de aproximativ 30.000 locuitori/km².", "Piscina Cheung Sha Wan a fost deschisă în 1995.", "Piața angro de pește Cheung Sha Wan a fost mutată în 2005."],
       en: ["Cheung Sha Wan MTR station opened on December 16, 2003.", "Textile industry employed over 30,000 workers in the 1970s.", "Area covers approximately 0.6 km².", "Population density is around 30,000 per km².", "Cheung Sha Wan Swimming Pool opened in 1995.", "Cheung Sha Wan Wholesale Fish Market relocated in 2005."],
     },
+    image: "/poi-images/hongkong-cheung-sha-wan-cities-v2.webp",
   },
   {
     id: "hongkong-lai-chi-kok-cities-v2",
@@ -1364,6 +1407,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Parcul de Distracții Lai Chi Kok a fost închis în 1997.", "Stația de metrou Lai Chi Kok a fost deschisă pe 16 decembrie 2003.", "Lai Chi Kok are o suprafață de circa 0,8 km².", "Densitatea populației este de aproximativ 25.000 locuitori/km².", "Parcul Lai Chi Kok se întinde pe 10 hectare.", "Industria textilă a angajat peste 20.000 de muncitori în anii 1980."],
       en: ["Lai Chi Kok Amusement Park closed in 1997.", "MTR Lai Chi Kok station opened on December 16, 2003.", "Area covers approximately 0.8 km².", "Population density is around 25,000 per km².", "Lai Chi Kok Park spans 10 hectares.", "Textile industry employed over 20,000 workers in the 1980s."],
     },
+    image: "/poi-images/hongkong-lai-chi-kok-cities-v2.webp",
   },
   {
     id: "hongkong-mei-foo-cities-v2",
@@ -1395,6 +1439,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Mei Foo Sun Chuen a fost construit între 1968 și 1978.", "Așezarea are 99 de blocuri cu peste 13.000 de apartamente.", "Stația de metrou Mei Foo a fost deschisă pe 16 decembrie 2003.", "Mei Foo are o suprafață de circa 0,7 km².", "Densitatea populației este de aproximativ 35.000 locuitori/km².", "Terenul de golf din Mei Foo se întinde pe 5 hectare."],
       en: ["Mei Foo Sun Chuen was built between 1968 and 1978.", "The estate comprises 99 blocks with over 13,000 units.", "MTR Mei Foo station opened on December 16, 2003.", "Area covers approximately 0.7 km².", "Population density is around 35,000 per km².", "Golf course in Mei Foo spans 5 hectares."],
     },
+    image: "/poi-images/hongkong-mei-foo-cities-v2.webp",
   },
   {
     id: "hongkong-san-po-kong-cities-v2",
@@ -1426,6 +1471,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Stația de metrou San Po Kong a fost deschisă pe 27 iunie 2021.", "San Po Kong are o suprafață de circa 0,4 km².", "Densitatea populației este de aproximativ 28.000 locuitori/km².", "Parcul San Po Kong a fost deschis în 1990.", "Zona găzduiește peste 100 de ateliere auto.", "Adăpostul de taifun San Po Kong poate găzdui aproximativ 50 de bărci."],
       en: ["MTR San Po Kong station opened on June 27, 2021.", "Area covers approximately 0.4 km².", "Population density is around 28,000 per km².", "San Po Kong Park opened in 1990.", "The area houses over 100 auto repair shops.", "San Po Kong Typhoon Shelter accommodates about 50 boats."],
     },
+    image: "/poi-images/hongkong-san-po-kong-cities-v2.webp",
   },
   {
     id: "hongkong-hung-shui-kiu-cities-v2",
@@ -1457,6 +1503,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Stația de metrou Hung Shui Kiu a fost deschisă pe 27 iunie 2021.", "Zona planificată acoperă aproximativ 450 de hectare.", "Populația estimată depășește 200.000 de locuitori.", "Parcul Hung Shui Kiu se întinde pe 8 hectare.", "Proiectul de dezvoltare a început în anii 2010.", "Zona este situată la aproximativ 5 km nord-est de centrul orașului Yuen Long."],
       en: ["MTR Hung Shui Kiu station opened on June 27, 2021.", "Planned area covers about 450 hectares.", "Projected population exceeds 200,000 residents.", "Hung Shui Kiu Park spans 8 hectares.", "Development project started in the 2010s.", "Area is about 5 km northeast of Yuen Long town centre."],
     },
+    image: "/poi-images/hongkong-hung-shui-kiu-cities-v2.webp",
   },
   {
     id: "hongkong-kam-tin-cities-v2",
@@ -1488,6 +1535,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Stația de metrou Kam Tin a fost deschisă pe 27 iunie 2021.", "Kat Hing Wai a fost construit în secolul al XVII-lea.", "Satul fortificat are un diametru de aproximativ 100 de metri.", "Kam Tin are o suprafață de circa 3 km².", "Densitatea populației este de aproximativ 2.000 locuitori/km².", "Traseul rural Kam Tin are 5 km lungime."],
       en: ["MTR Kam Tin station opened on June 27, 2021.", "Kat Hing Wai was built in the 17th century.", "The walled village has a diameter of about 100 meters.", "Kam Tin covers an area of about 3 km².", "Population density is around 2,000 per km².", "Kam Tin Country Trail is 5 km long."],
     },
+    image: "/poi-images/hongkong-kam-tin-cities-v2.webp",
   },
   {
     id: "hongkong-ping-shan-cities-v2",
@@ -1519,6 +1567,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Clanul Tang s-a stabilit în Ping Shan în secolul al XII-lea.", "Sala de Studiu Kun Ting a fost construită în 1870.", "Sala Strămoșească Tang datează din 1851.", "Turnul Ping Shan are 13 metri înălțime și datează din secolul al XVIII-lea.", "Traseul Patrimoniului a fost deschis în 1993 și include peste 20 de clădiri.", "Ping Shan este situat la aproximativ 10 kilometri nord-vest de Tuen Mun."],
       en: ["The Tang clan settled in Ping Shan in the 12th century.", "Kun Ting Study Hall was built in 1870.", "Tang Ancestral Hall dates from 1851.", "Ping Shan Tower is 13 meters tall and dates from the 18th century.", "The Heritage Trail opened in 1993 and includes over 20 structures.", "Ping Shan is located about 10 km northwest of Tuen Mun."],
     },
+    image: "/poi-images/hongkong-ping-shan-cities-v2.webp",
   },
   {
     id: "hongkong-lau-fau-shan-cities-v2",
@@ -1550,6 +1599,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Creșterea stridiilor în Lau Fau Shan a început în secolul al XIX-lea.", "Populația este de aproximativ 5.000 de locuitori.", "Satul este situat pe golful Deep Bay în nord-vestul Noilor Teritorii.", "Stridiile uscate se numesc hoi sin.", "Paturile de stridii acoperă câteva hectare de zone de maree.", "Lau Fau Shan este la aproximativ 25 km de insula Hong Kong."],
       en: ["Oyster farming in Lau Fau Shan started in the 19th century.", "The village population is about 5,000.", "It is located on Deep Bay in northwest New Territories.", "Dried oysters are called hoi sin in Cantonese.", "The oyster beds cover several hectares of tidal flats.", "Lau Fau Shan is about 25 km from Hong Kong Island."],
     },
+    image: "/poi-images/hongkong-lau-fau-shan-cities-v2.webp",
   },
   {
     id: "hongkong-ha-tsuen-cities-v2",
@@ -1581,6 +1631,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Clanul Tang s-a stabilit în Ha Tsuen în secolul al XIII-lea.", "Templul Yeung Hau a fost construit în 1705.", "Ha Tsuen face parte din Traseul Patrimoniului Ping Shan.", "Așezarea fortificată include un turn de veghe.", "Satul este situat lângă Yuen Long.", "Populația este formată în principal din descendenți ai clanului Tang."],
       en: ["The Tang clan settled in Ha Tsuen in the 13th century.", "Yeung Hau Temple was built in 1705.", "Ha Tsuen is part of the Ping Shan Heritage Trail.", "The walled enclosure includes a watchtower.", "The village is located near Yuen Long.", "The population is primarily Tang clan descendants."],
     },
+    image: "/poi-images/hongkong-ha-tsuen-cities-v2.webp",
   },
   {
     id: "hongkong-sha-tau-kok-cities-v2",
@@ -1612,6 +1663,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Sha Tau Kok a fost un oraș de graniță închis între 1951 și 2012.", "Populația este de aproximativ 7.000 de locuitori.", "Orașul este situat direct la granița cu Guangdong, China.", "Parcul Zonei Umede Sha Tau Kok găzduiește specii rare de păsări.", "Feribotul leagă Sha Tau Kok de Lai Chi Wo.", "Din 2012, vizitarea este posibilă cu un permis special."],
       en: ["Sha Tau Kok was a closed border town from 1951 to 2012.", "The population is about 7,000.", "It is located directly on the border with Guangdong, China.", "Sha Tau Kok Wetland Park hosts rare bird species.", "The ferry connects Sha Tau Kok to Lai Chi Wo.", "Since 2012, visits are possible with a special permit."],
     },
+    image: "/poi-images/hongkong-sha-tau-kok-cities-v2.webp",
   },
   {
     id: "hongkong-mui-wo-cities-v2",
@@ -1643,6 +1695,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Situat în Golful Silver Mine (Wan Tau Wan)", "Conexiune directă cu feribotul către districtul Central", "Mina de argint a fost operată în anii 1890", "Punct de plecare pentru Lantau Trail, lung de 70 km", "Găzduiește cascada Silver Mine", "Plaja Silver Mine Bay este o zonă de scăldat oficială"],
       en: ["Located on Silver Mine Bay (Wan Tau Wan)", "Direct ferry connection to Central District", "The silver mine was active during the 1890s", "Starting point for the 70km-long Lantau Trail", "Home to the scenic Silver Mine Waterfall", "Silver Mine Bay Beach is a gazetted public beach"],
     },
+    image: "/poi-images/hongkong-mui-wo-cities-v2.webp",
   },
   {
     id: "hongkong-tai-o-cities-v2",
@@ -1674,6 +1727,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Renumit pentru casele pe piloni (Pang Uk)", "Căminul comunității de pescari Tanka", "Faimos pentru producția artizanală de pastă de creveți", "Tai O Heritage Hotel ocupă clădirea unei vechi stații de poliție", "Templul Yeung Hau a fost construit în anul 1699", "Loc popular pentru observarea delfinilor albi chinezești"],
       en: ["Famous for its stilt houses known as Pang Uk", "Home to the indigenous Tanka fishing community", "Renowned for its traditional shrimp paste production", "Tai O Heritage Hotel is located in a former police station", "Yeung Hau Temple dates back to 1699", "Popular site for spotting Chinese White Dolphins"],
     },
+    image: "/poi-images/hongkong-tai-o-cities-v2.webp",
   },
   {
     id: "hongkong-peng-chau-cities-v2",
@@ -1705,6 +1759,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Suprafață totală de aproximativ 0,99 km pătrați", "Insulă complet fără automobile", "Finger Hill este punctul culminant (95 metri)", "Templul Tin Hau datează din anul 1792", "Fost sediu al fabricii de chibrituri Great China", "Ruinele cuptorului de var Ho Choi sunt încă vizibile"],
       en: ["Total area of only 0.99 square kilometers", "The island is entirely car-free", "Finger Hill is the highest point at 95 meters", "Tin Hau Temple was built in 1792", "Former home to the Great China Match Factory", "Remains of the Ho Choi Lime Kiln are preserved"],
     },
+    image: "/poi-images/hongkong-peng-chau-cities-v2.webp",
   },
   {
     id: "hongkong-cheung-chau-cities-v2",
@@ -1736,6 +1791,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Festivalul anual al Chiflelor în luna a 4-a lunară", "Templul Pak Tai a fost construit în anul 1783", "Insula are o suprafață de aproximativ 2,46 km²", "Găzduiește peștera celebrului pirat Cheung Po Tsai", "Populație de aproximativ 20.000 de locuitori", "Plaja Tung Wan este cea mai mare de pe insulă"],
       en: ["Annual Bun Festival held in the 4th lunar month", "Pak Tai Temple was built in the year 1783", "The island covers an area of about 2.46 km²", "Home to the famous Cheung Po Tsai pirate cave", "Population of approximately 20,000 residents", "Tung Wan Beach is the island's largest beach"],
     },
+    image: "/poi-images/hongkong-cheung-chau-cities-v2.webp",
   },
   {
     id: "hongkong-discovery-bay-cities-v2",
@@ -1767,6 +1823,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Construcția primei faze a început în anul 1982", "Suprafața totală este de aproximativ 6,5 km²", "Găzduiește cca. 20.000 de locuitori din 30 de țări", "Plajă artificială cu o lungime de 400 de metri", "Serviciul de feribot face 25 de minute până în Central", "Mașinile private sunt interzise în interiorul zonei"],
       en: ["Construction of the first phase began in 1982", "Total land area is approximately 6.5 km²", "Home to about 20,000 residents from 30 nations", "Features a 400-meter long man-made sandy beach", "Dedicated ferry service takes 25 minutes to Central", "Private cars are prohibited within the development"],
     },
+    image: "/poi-images/hongkong-discovery-bay-cities-v2.webp",
   },
   {
     id: "hongkong-sok-kwu-wan-cities-v2",
@@ -1798,6 +1855,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Cunoscut pentru fermele sale piscicole plutitoare", "Templul Tin Hau datează din anul 1826", "Conexiune directă cu feribotul către Central Pier 4", "Situat pe malul unui golf marin adânc și protejat", "Populația este de sub 1.000 de locuitori", "A fost anterior un centru pentru fabricarea cărămizilor"],
       en: ["Famous for its floating fish culture farms", "Local Tin Hau Temple dates back to 1826", "Direct ferry connection to Central Pier 4", "Situated on a deep, sheltered marine bay", "Population is less than 1,000 people", "Formerly a center for brick manufacturing"],
     },
+    image: "/poi-images/hongkong-sok-kwu-wan-cities-v2.webp",
   },
   {
     id: "hongkong-yung-shue-wan-cities-v2",
@@ -1829,6 +1887,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Cea mai mare așezare de pe insula Lamma", "Populație de aproximativ 6.000 de locuitori", "Templul Tin Hau local a fost construit în 1876", "Timpul de călătorie până în Central este de 25-30 min", "Mulți expatriați s-au stabilit aici din anii 1980", "Plaja Hung Shing Ye din apropiere este foarte populară"],
       en: ["Largest settlement on Lamma Island", "Population of approximately 6,000 residents", "Local Tin Hau Temple was built in 1876", "Travel time to Central is about 25 to 30 minutes", "Many expatriates settled here since the 1980s", "Nearby Hung Shing Ye Beach is highly popular"],
     },
+    image: "/poi-images/hongkong-yung-shue-wan-cities-v2.webp",
   },
   {
     id: "hongkong-tai-wai-village-cities-v2",
@@ -1860,6 +1919,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Fondat în anul 1574 în timpul dinastiei Ming", "Numele original înseamnă 'Satul Izvorului de Colectare'", "Locuit în principal de membrii clanului Hau", "Structura zidită este parțial vizibilă și astăzi", "Situat în apropierea râului Shing Mun", "Suprafața zonei centrale este de cca. 2 hectare"],
       en: ["Founded in 1574 during the Ming Dynasty", "Original name means 'Gathering Spring Village'", "Mainly inhabited by the Hau clan", "Walled structure is still partially visible", "Located near the Shing Mun River", "Core area covers approximately 2 hectares"],
     },
+    image: "/poi-images/hongkong-tai-wai-village-cities-v2.webp",
   },
   {
     id: "hongkong-tsang-tai-uk-cities-v2",
@@ -1891,6 +1951,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Perioada de construcție a fost 1847-1867", "Construit de Tsang Koon-man, un maestru pietrar", "Format din trei hale și două curți interioare", "Posedă patru turnuri de apărare distinctive", "Granitul și cărămida albastră sunt materialele principale", "Clasificat ca monument istoric de gradul I în 2009"],
       en: ["Construction period lasted from 1847 to 1867", "Built by Tsang Koon-man, a master stonemason", "Consists of three halls and two courtyards", "Features four distinctive defensive watchtowers", "Granite and blue bricks are the main materials", "Graded as a historic monument in 2009"],
     },
+    image: "/poi-images/hongkong-tsang-tai-uk-cities-v2.webp",
   },
   {
     id: "hongkong-sheung-shui-wai-cities-v2",
@@ -1922,6 +1983,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Sediul clanului Liu din secolul al XIV-lea", "Liu Man Shek Tong a fost construită în 1751", "Monument protejat prin lege din anul 1985", "Sala ancestrală are trei hale principale", "Părți din șanțul original sunt încă vizibile", "Situat aproape de granița de la Lo Wu (Shenzhen)"],
       en: ["Seat of the Liu clan since the 14th century", "Liu Man Shek Tong was built in 1751", "Declared a statutory monument in 1985", "The ancestral hall features three main halls", "Parts of the original moat are still preserved", "Located near the border at Lo Wu (Shenzhen)"],
     },
+    image: "/poi-images/hongkong-sheung-shui-wai-cities-v2.webp",
   },
   {
     id: "hongkong-fanling-wai-cities-v2",
@@ -1953,6 +2015,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Sediul clanului Pang din secolul al XII-lea", "Satul a fost împrejmuit cu ziduri în sec. XVI", "Trei tunuri de fier protejează simbolic intrarea", "Iazul mare servește pentru Feng Shui și apărare", "Cunoscut pentru festivalul anual Ta Jiu", "Sala ancestrală a clanului Pang se află în interior"],
       en: ["Seat of the Pang clan since the 12th century", "Village was enclosed by walls in the 16th century", "Three iron cannons symbolically guard the entrance", "Large pond serves for Feng Shui and defense", "Famous for the annual Ta Jiu Festival", "Ancestral Hall of the Pangs is located inside"],
     },
+    image: "/poi-images/hongkong-fanling-wai-cities-v2.webp",
   },
   {
     id: "hongkong-lung-yeuk-tau-cities-v2",
@@ -1984,6 +2047,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Numele înseamnă 'Muntele Dragonului Săritor'", "Traseul de patrimoniu a fost deschis în anul 1999", "Clanul Tang s-a stabilit aici din secolul XIV", "Lo Wai este cel mai vechi sat din regiune", "Sala Tang Chung Ling datează din anul 1525", "Unul dintre cele 'Cinci Mari Clanuri' din Noile Teritorii"],
       en: ["Name means 'Mountain of the Leaping Dragon'", "Heritage Trail was opened in the year 1999", "Tang clan settled here starting in the 14th century", "Lo Wai is the oldest village in the region", "Tang Chung Ling Ancestral Hall dates to 1525", "One of the 'Five Great Clans' of the New Territories"],
     },
+    image: "/poi-images/hongkong-lung-yeuk-tau-cities-v2.webp",
   },
   {
     id: "hongkong-san-tin-cities-v2",
@@ -2015,6 +2079,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Conacul Tai Fu Tai a fost construit în 1865", "Reședința unui oficial numit de împărat", "Sala Man Lun Fung datează din secolul al XVII-lea", "Influențe vestice unice în decorul interior", "Cunoscut pentru iazurile sale vaste de pești", "Clanul Man provine inițial din sudul Chinei"],
       en: ["Tai Fu Tai Mansion was built in 1865", "Residence of a high-ranking imperial official", "Man Lun Fung Ancestral Hall dates to 17th century", "Unique Western architectural influences in decor", "Known for its extensive fish ponds", "Man clan originally migrated from Southern China"],
     },
+    image: "/poi-images/hongkong-san-tin-cities-v2.webp",
   },
   {
     id: "hongkong-sham-tseng-cities-v2",
@@ -2046,6 +2111,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Considerat 'capitala gâștei fripte' din Hong Kong", "Sediul fabricii Garden Bakery din anul 1938", "Vedere spre podurile Tsing Ma și Kap Shui Mun", "Berăria San Miguel a funcționat aici până în 1996", "Plaja Lido din apropiere este o destinație populară", "Portul a fost anterior important pentru transport"],
       en: ["Regarded as the 'Roasted Goose Capital' of HK", "Site of the Garden Bakery factory since 1938", "Views of the Tsing Ma and Kap Shui Mun bridges", "San Miguel Brewery was located here until 1996", "Nearby Lido Beach is a popular destination", "Harbor was formerly vital for cargo transport"],
     },
+    image: "/poi-images/hongkong-sham-tseng-cities-v2.webp",
   },
   {
     id: "hongkong-so-kwun-wat-cities-v2",
@@ -2077,6 +2143,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Sediul Harrow International School din 2012", "Fostul amplasament al cazărmii britanice Perowne", "Punct de plecare pentru secțiunea 10 a MacLehose Trail", "Aproape de plaja artificială Golden Beach din Tuen Mun", "Găzduiește hotelul și zona rezidențială Gold Coast", "Dezvoltare accelerată prin noi proiecte rezidențiale"],
       en: ["Location of Harrow International School (since 2012)", "Formerly the site of the British Perowne Barracks", "Starting point for Section 10 of the MacLehose Trail", "Proximity to the man-made Golden Beach in Tuen Mun", "Home to the Gold Coast Hotel and residential area", "Developing rapidly with new high-rise housing projects"],
     },
+    image: "/poi-images/hongkong-so-kwun-wat-cities-v2.webp",
   },
   {
     id: "hongkong-lam-tsuen-cities-v2",
@@ -2108,6 +2175,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Peste 700 de ani de așezare continuă", "Templul Tin Hau din satul Fong Ma Po (1768)", "Tradiția aruncării de hârtie în arborii dorințelor", "Arborii dorințelor sunt baniani (ficus) antici", "Festivalul anual de urări 'Hong Kong Well-wishing'", "Înconjurat de parcul rural Lam Tsuen"],
       en: ["Over 700 years of continuous settlement", "Tin Hau Temple in Fong Ma Po built in 1768", "Tradition of throwing joss paper into wishing trees", "Wishing trees are ancient banyan (ficus) trees", "Annual 'Hong Kong Well-wishing Festival' venue", "Surrounded by the Lam Tsuen Country Park"],
     },
+    image: "/poi-images/hongkong-lam-tsuen-cities-v2.webp",
   },
   {
     id: "hongkong-shek-o-cities-v2",
@@ -2139,6 +2207,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Populație: 2.100 locuitori", "Lungimea plajei Shek O: 500 m", "Anul construcției templului Tin Hau: 1891", "Distanța până la Central: 15 km", "Numărul de restaurante: 25", "Altitudinea maximă: 50 m"],
       en: ["Population: 2,100 (2016 census)", "Beach length: 500 meters", "Year Tin Hau Temple built: 1891", "Elevation of Shek O Head: 50 m", "Distance from Central: 15 km", "Number of surf schools: 4"],
     },
+    image: "/poi-images/hongkong-shek-o-cities-v2.webp",
   },
   {
     id: "hongkong-big-wave-bay-cities-v2",
@@ -2170,6 +2239,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Lungimea plajei: 200 m", "Numărul de școli de surf: 4", "Populație: 300 locuitori", "Anul primului festival de surf: 2005", "Distanța până la Shek O: 3 km", "Înălțimea valurilor maxime: 3 m"],
       en: ["Beach length: 200 meters", "Number of surf schools: 4", "Population: approx. 300", "First surf festival: 2005", "Distance from Shek O: 3 km", "Maximum wave height record: 4.5 m"],
     },
+    image: "/poi-images/hongkong-big-wave-bay-cities-v2.webp",
   },
   {
     id: "hongkong-pok-fu-lam-village-cities-v2",
@@ -2201,6 +2271,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Anul fondării: 1650", "Populație: 1.500 locuitori", "Suprafața satului: 0,3 km²", "Altitudine: 50 m", "Anul construirii rezervorului: 1924", "Numărul de clădiri istorice: 10"],
       en: ["Village founded: 1650s", "Population: 1,500 (2020 estimate)", "Area: 0.3 km²", "Elevation: 50 m", "Pok Fu Lam Reservoir completed: 1924", "Number of heritage trees: 3"],
     },
+    image: "/poi-images/hongkong-pok-fu-lam-village-cities-v2.webp",
   },
   {
     id: "hongkong-shanghai-street-cities-v2",
@@ -2232,6 +2303,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Lungimea străzii: 1,5 km", "Numărul de magazine: 250", "Anul deschiderii Pieței de Jad: 1970", "Populația districtului: 300.000", "Distanța până la Victoria Harbour: 1 km", "Numărul de clădiri istorice: 30"],
       en: ["Street length: 1.5 km", "Year street formed: 1860s", "Number of shops: approximately 250", "Jade Market founded: 1970", "Average building height: 4 stories", "Pedestrian traffic daily: 50,000"],
     },
+    image: "/poi-images/hongkong-shanghai-street-cities-v2.webp",
   },
   {
     id: "hongkong-lei-yue-mun-cities-v2",
@@ -2263,6 +2335,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Populație: 1.500 locuitori", "Numărul de restaurante: 65", "Anul construirii fortului: 1887", "Anul deschiderii acvariului: 1997", "Lățimea canalului: 400 m", "Numărul de vase de pescuit: 50"],
       en: ["Population: 1,500", "Number of restaurants: over 60", "Fort built: 1887", "Aquarium opened: 1997", "Channel width: 400 meters", "Tourists per weekend: approx. 10,000"],
     },
+    image: "/poi-images/hongkong-lei-yue-mun-cities-v2.webp",
   },
   {
     id: "hongkong-lamma-island-cities-v2",
@@ -2294,6 +2367,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Suprafața insulei: 13,55 km²", "Populație: 6.000 locuitori", "Înălțimea maximă: 353 m", "Anul construirii centralei: 1992", "Numărul de trasee: 5", "Distanța până la Central: 5 km"],
       en: ["Area: 13.55 km²", "Population: 6,000", "Highest point: Mount Stenhouse (353 m)", "Power station built: 1992", "Hiking trail length: 30 km", "Number of restaurants: 40+"],
     },
+    image: "/poi-images/hongkong-lamma-island-cities-v2.webp",
   },
   {
     id: "hongkong-pui-o-cities-v2",
@@ -2325,6 +2399,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Lungimea plajei: 1 km", "Capacitatea campingului: 100 de locuri", "Populație permanentă: 500", "Numărul de restaurante: 8", "Distanta până la MTR: 10 km", "Numărul de școli de surf: 2"],
       en: ["Beach length: 1 km", "Campsite capacity: 100 pitches", "Permanent population: 500", "Surf schools: 2", "Distance to MTR: 10 km", "Year campsite opened: 1980"],
     },
+    image: "/poi-images/hongkong-pui-o-cities-v2.webp",
   },
   {
     id: "hongkong-cheung-sha-beach-cities-v2",
@@ -2356,6 +2431,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Lungimea plajei: 3 km", "Numărul de secțiuni: 2", "Populația satului Cheung Sha: 300", "Numărul de restaurante: 12", "Distanța până la Tung Chung: 8 km", "Anul deschiderii oficiale: 1975"],
       en: ["Beach length: 3 km", "Number of sections: 2", "Village population: 300", "Distance to Tung Chung: 8 km", "Year designated as beach: 1970s", "Lifeguard stations: 4"],
     },
+    image: "/poi-images/hongkong-cheung-sha-beach-cities-v2.webp",
   },
   {
     id: "hongkong-ngong-ping-cities-v2",
@@ -2387,6 +2463,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Înălțimea statuii: 34 m", "Anul finalizării statuii: 1993", "Anul fondării mănăstirii: 1906", "Lungimea telecabinei: 5,7 km", "Anul deschiderii telecabinei: 2006", "Numărul de vizitatori anual: 2 milioane"],
       en: ["Plateau elevation: 300 m", "Buddha height: 34 m", "Buddha weight: 250 tonnes", "Monastery founded: 1906", "Cable car length: 5.7 km", "Annual visitors: 2 million"],
     },
+    image: "/poi-images/hongkong-ngong-ping-cities-v2.webp",
   },
   {
     id: "hongkong-tai-tam-cities-v2",
@@ -2418,6 +2495,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Anul începerii construcției: 1888", "Capacitatea rezervorului principal: 6,8 milioane m³", "Suprafața parcului: 17,5 km²", "Anul înființării parcului: 1977", "Numărul de specii de păsări: 110", "Înălțimea barajului principal: 30 m"],
       en: ["Construction period: 1888-1917", "Largest reservoir capacity: 6.8 million m³", "Country park area: 17.5 km²", "Park established: 1977", "Number of bird species: 110", "Main dam height: 30 m"],
     },
+    image: "/poi-images/hongkong-tai-tam-cities-v2.webp",
   },
   {
     id: "hongkong-shek-kip-mei-cities-v2",
@@ -2449,6 +2527,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Anul construirii ansamblului: 1953", "Numărul inițial de blocuri: 7", "Populația districtului: 100.000", "Densitatea populației: 40.000/km²", "Anul deschiderii stației MTR: 1979", "Suprafața parcului: 5 ha"],
       en: ["Housing estate built: 1953", "Original population housed: 17,000", "District population: 100,000", "Population density: 40,000/km²", "MTR station opened: 1979", "Park area: 5 hectares"],
     },
+    image: "/poi-images/hongkong-shek-kip-mei-cities-v2.webp",
   },
   {
     id: "hongkong-nam-cheong-cities-v2",
@@ -2480,6 +2559,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Anul deschiderii MTR: 2003", "Suprafața parcului: 2 ha", "Populația districtului Sham Shui Po: 400.000", "Lungimea străzii Nam Cheong: 1 km", "Număr fabrici textile istorice: 50", "Distanța până la aeroport: 5 km"],
       en: ["MTR station opened: 2003", "Park size: 2 hectares", "Sham Shui Po population: 400,000", "Nam Cheong Street length: 1 km", "Historical textile factories: 50", "Distance to airport: 5 km"],
     },
+    image: "/poi-images/hongkong-nam-cheong-cities-v2.webp",
   },
   {
     id: "hongkong-tai-kok-tsui-cities-v2",
@@ -2511,6 +2591,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Populație: 100.000", "Număr de galerii: 20", "Suprafața pieței: 1.000 m²", "Suprafața parcului: 3 ha", "Distanța până la MTR: 0,5 km", "Anul deschiderii MTR: 2000"],
       en: ["Population: 100,000", "Number of art galleries: 20+", "Market area: 1,000 m²", "Park area: 3 hectares", "Distance to MTR Olympic: 0.5 km", "Year MTR Olympic opened: 2000"],
     },
+    image: "/poi-images/hongkong-tai-kok-tsui-cities-v2.webp",
   },
   {
     id: "hongkong-to-kwa-wan-cities-v2",
@@ -2542,6 +2623,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Populație: 120.000", "Deschidere MTR: 27 iunie 2021", "Suprafața pieței: 800 m²", "Anul construirii clădirilor: 1960", "Distanta până la Kai Tak: 1 km", "Număr brutării: 15"],
       en: ["Population: 120,000", "MTR station opened: June 27, 2021", "Market area: 800 m²", "Building age: 1960s", "Distance to Kai Tak: 1 km", "Number of bakeries: 15"],
     },
+    image: "/poi-images/hongkong-to-kwa-wan-cities-v2.webp",
   },
   {
     id: "hongkong-hung-hom-cities-v2",
@@ -2573,6 +2655,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Anul deschiderii gării: 1975", "Număr locuri Coliseum: 12.500", "Anul deschiderii Coliseum: 1983", "Lungimea promenadei: 1 km", "Anul recuperării terenurilor: 1970", "Suprafața campusului: 10 ha"],
       en: ["Station opened: 1975", "Coliseum seats: 12,500", "Coliseum opened: 1983", "Promenade length: 1 km", "Land reclamation: 1970s", "Campus area: 10 hectares"],
     },
+    image: "/poi-images/hongkong-hung-hom-cities-v2.webp",
   },
   {
     id: "hongkong-ho-man-tin-cities-v2",
@@ -2604,6 +2687,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Populație: 80.000", "Anul construirii ansamblului: 1965", "Suprafața parcului: 2,5 ha", "Anul deschiderii MTR: 2021", "Număr cariere istorice: 2", "Altitudine: 50 m"],
       en: ["Population: 80,000", "Housing estate built: 1965", "Park area: 2.5 hectares", "MTR station opened: 2021", "Historical quarries: 2", "Elevation: 50 m"],
     },
+    image: "/poi-images/hongkong-ho-man-tin-cities-v2.webp",
   },
   {
     id: "hongkong-ma-tau-wai-cities-v2",
@@ -2635,6 +2719,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Anul construirii ansamblului: 1962", "Număr de blocuri: 7", "Locuitori în ansamblu: 15.000", "Populație: 60.000", "Distanța până la MTR: 500 m", "Anul începerii reînnoirii: 2010"],
       en: ["Estate completed: 1962", "Number of blocks: 7", "Estate population: 15,000", "Area population: 60,000", "Distance to MTR: 500 m", "Urban renewal started: 2010"],
     },
+    image: "/poi-images/hongkong-ma-tau-wai-cities-v2.webp",
   },
   {
     id: "hongkong-ping-shek-cities-v2",
@@ -2666,6 +2751,7 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Anul construirii: 1973", "Număr turnuri: 4", "Locuitori: 10.000", "Densitatea populației: 55.000/km²", "Distanța până la MTR: 1 km", "Număr etaje: 30"],
       en: ["Estate completed: 1973", "Number of towers: 4", "Residents: 10,000", "Population density: 55,000/km²", "Distance to MTR: 1 km", "Floors per tower: 30"],
     },
+    image: "/poi-images/hongkong-ping-shek-cities-v2.webp",
   },
   {
     id: "hongkong-choi-hung-cities-v2",
@@ -2697,5 +2783,6 @@ export const hongkongCitiesV2: POI[] = [
       ro: ["Anul construirii: 1964", "Număr blocuri: 11", "Locuitori: 17.000", "Populație: 50.000", "Anul deschiderii MTR: 1979", "Număr culori: 7"],
       en: ["Estate built: 1964", "Number of blocks: 11", "Residents: 17,000", "Population: 50,000", "MTR station opened: 1979", "Number of colors: 7"],
     },
+    image: "/poi-images/hongkong-choi-hung-cities-v2.webp",
   }
 ];

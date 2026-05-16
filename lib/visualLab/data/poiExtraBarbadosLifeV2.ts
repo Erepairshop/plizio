@@ -31,6 +31,7 @@ export const barbadosLifeV2: POI[] = [
       ro: ["Fondată în 1954 de Iris Bannochie.", "Suprafață: 6 hectare.", "Colecție de peste 600 de specii de orhidee.", "Include peste 50 de specii de palmieri.", "Altitudine: 100 m deasupra nivelului mării.", "Precipitații anuale: 1500 mm."],
       en: ["Founded in 1954 by Iris Bannochie.", "Area: 6 hectares.", "Collection includes over 600 orchid species.", "Contains more than 50 palm species.", "Elevation: 100 meters above sea level.", "Annual rainfall: 1500 mm."],
     },
+    image: "/poi-images/barbados-andromeda-botanic-gardens-life-v2.webp",
   },
   {
     id: "barbados-huntes-gardens-life-v2",
@@ -62,6 +63,7 @@ export const barbadosLifeV2: POI[] = [
       ro: ["Amenajat pe o suprafață de 2 hectare.", "Terase într-o fostă carieră de calcar.", "Conține peste 100 de specii de orhidee.", "Temperatura medie în grădină: 26°C.", "Altitudine: 150 m deasupra nivelului mării.", "Program de vizitare: zilnic între 9:00 și 17:00."],
       en: ["Covers 2 hectares of land.", "Terraced into a former limestone quarry.", "Contains over 100 orchid species.", "Average garden temperature: 26°C.", "Elevation: 150 meters above sea level.", "Open daily from 9 AM to 5 PM."],
     },
+    image: "/poi-images/barbados-huntes-gardens-life-v2.webp",
   },
   {
     id: "barbados-flower-forest-life-v2",
@@ -93,6 +95,7 @@ export const barbadosLifeV2: POI[] = [
       ro: ["Deschis în 1989.", "Suprafață: 6 hectare.", "Peste 50 de specii de pomi fructiferi.", "Include 3 iazuri și o cascadă artificială.", "Altitudine: 120 m deasupra nivelului mării.", "Aproximativ 20.000 de vizitatori anual."],
       en: ["Opened in 1989.", "Area: 6 hectares.", "Over 50 different fruit tree species.", "Includes 3 ponds and a man-made waterfall.", "Elevation: 120 meters above sea level.", "Annual visitors: approximately 20,000."],
     },
+    image: "/poi-images/barbados-flower-forest-life-v2.webp",
   },
   {
     id: "barbados-orchid-world-life-v2",
@@ -124,6 +127,7 @@ export const barbadosLifeV2: POI[] = [
       ro: ["Deschis în 1985.", "Suprafață: 4 hectare.", "Peste 20.000 de plante de orhidee.", "Include peste 500 de hibrizi de orhidee.", "Sistemul de irigații utilizează 80% apă de ploaie.", "Aproximativ 25.000 de vizitatori anual."],
       en: ["Opened in 1985.", "Area: 4 hectares.", "Over 20,000 orchid plants.", "Contains more than 500 orchid hybrids.", "Irrigation system uses 80% rainwater.", "Annual visitors: approximately 25,000."],
     },
+    image: "/poi-images/barbados-orchid-world-life-v2.webp",
   },
   {
     id: "barbados-barbados-wildlife-reserve-life-v2",
@@ -155,6 +159,7 @@ export const barbadosLifeV2: POI[] = [
       ro: ["Deschis în 1985.", "Suprafață: 4 hectare.", "Adăpostește aproximativ 50 de maimuțe verzi.", "Include peste 100 de specii de păsări.", "Program: zilnic între 9:00 și 17:00.", "Preț intrare: 20 BBD pentru adulți."],
       en: ["Opened in 1985.", "Area: 4 hectares.", "Houses approximately 50 green monkeys.", "Contains over 100 bird species.", "Open daily from 9 AM to 5 PM.", "Admission fee: 20 BBD for adults."],
     },
+    image: "/poi-images/barbados-barbados-wildlife-reserve-life-v2.webp",
   },
   {
     id: "barbados-graeme-hall-nature-sanctuary-life-v2",
@@ -186,6 +191,7 @@ export const barbadosLifeV2: POI[] = [
       ro: ["Fondat în 1995.", "Suprafață: 8,5 hectare.", "Lacul lagunar are o adâncime maximă de 2 m.", "Peste 100 de specii de păsări documentate.", "Lungimea aleilor de lemn: 1,5 km.", "Turn de observație înalt de 10 m."],
       en: ["Established in 1995.", "Area: 8.5 hectares.", "Lagoon lake with maximum depth of 2 meters.", "Over 100 bird species documented.", "Boardwalk length: 1.5 kilometers.", "Observation tower height: 10 meters."],
     },
+    image: "/poi-images/barbados-graeme-hall-nature-sanctuary-life-v2.webp",
   },
   {
     id: "barbados-folkestone-marine-park-life-v2",
@@ -217,6 +223,7 @@ export const barbadosLifeV2: POI[] = [
       ro: ["Fondat în 1981.", "Suprafață: 6,5 hectare.", "Recif artificial format din 5 epave.", "Adâncime maximă de 12 m.", "Include 2 plaje.", "Aproximativ 50.000 de vizitatori anual."],
       en: ["Established in 1981.", "Area: 6.5 hectares.", "Artificial reef consisting of 5 sunken ships.", "Maximum water depth: 12 meters.", "Includes 2 beach sections.", "Annual visitors: approximately 50,000."],
     },
+    image: "/poi-images/barbados-folkestone-marine-park-life-v2.webp",
   },
   {
     id: "barbados-chancery-lane-swamp-life-v2",
@@ -248,6 +255,7 @@ export const barbadosLifeV2: POI[] = [
       ro: ["Suprafață: aproximativ 10 hectare.", "Adâncimea maximă: 1,5 m.", "Adăpostește peste 50 de specii de păsări.", "Lungimea canalului de legătură: 100 m.", "Parte a programului de protecție a coastei din 1995.", "Precipitații anuale: 1400 mm."],
       en: ["Area: approximately 10 hectares.", "Maximum water depth: 1.5 meters.", "Hosts over 50 bird species.", "Connecting channel length: 100 meters.", "Part of coastal protection program since 1995.", "Annual rainfall: 1400 mm."],
     },
+    image: "/poi-images/barbados-chancery-lane-swamp-life-v2.webp",
   },
   {
     id: "barbados-turners-hall-woods-life-v2",
@@ -279,6 +287,7 @@ export const barbadosLifeV2: POI[] = [
       ro: ["Suprafață: 20 hectare.", "Peste 30 de specii de copaci nativi.", "Altitudine: 200 m deasupra nivelului mării.", "2 trasee de drumeție cu lungime totală de 3 km.", "Temperatura medie anuală: 25°C.", "Protejat din 1985."],
       en: ["Area: 20 hectares.", "Over 30 native tree species.", "Elevation: 200 meters above sea level.", "2 hiking trails totaling 3 km.", "Average annual temperature: 25°C.", "Protected since 1985."],
     },
+    image: "/poi-images/barbados-turners-hall-woods-life-v2.webp",
   },
   {
     id: "barbados-joes-river-forest-life-v2",
@@ -310,6 +319,7 @@ export const barbadosLifeV2: POI[] = [
       ro: ["Suprafață: 15 hectare.", "Înălțimea maximă a copacilor: 30 m.", "Precipitații anuale: 2500 mm.", "Lungimea râului în pădure: 2 km.", "Conține 5 specii de orhidee.", "Umiditate medie: 85%."],
       en: ["Area: 15 hectares.", "Maximum tree height: 30 meters.", "Annual rainfall: 2500 mm.", "River length within forest: 2 km.", "Contains 5 orchid species.", "Average humidity: 85%."],
     },
+    image: "/poi-images/barbados-joes-river-forest-life-v2.webp",
   },
   {
     id: "barbados-walkes-spring-life-v2",
@@ -341,6 +351,7 @@ export const barbadosLifeV2: POI[] = [
       ro: ["Debit: aproximativ 20 litri/secundă.", "Suprafața iazului: 0,3 hectare.", "Temperatura apei constantă: 24°C.", "Înconjurat de 5 hectare de pajiști.", "Distanța până la coastă: 5 km.", "Cost anual de întreținere: 10.000 BBD."],
       en: ["Flow rate: approximately 20 liters per second.", "Pond area: 0.3 hectares.", "Water temperature constant at 24°C.", "Surrounded by 5 hectares of grassland.", "Distance to coast: 5 kilometers.", "Annual maintenance cost: 10,000 BBD."],
     },
+    image: "/poi-images/barbados-walkes-spring-life-v2.webp",
   },
   {
     id: "barbados-queens-park-baobab-life-v2",
@@ -372,6 +383,7 @@ export const barbadosLifeV2: POI[] = [
       ro: ["Vârsta baobabului: peste 400 de ani.", "Circumferința trunchiului: 18 m.", "Înălțimea copacului: 20 m.", "Suprafața parcului: 2 hectare.", "Parcul a fost deschis în 1890.", "Copacul a fost declarat monument național în 1990."],
       en: ["Baobab tree age: over 400 years.", "Trunk circumference: 18 meters.", "Tree height: 20 meters.", "Park area: 2 hectares.", "Park opened in 1890.", "Tree declared a national monument in 1990."],
     },
+    image: "/poi-images/barbados-queens-park-baobab-life-v2.webp",
   },
   {
     id: "barbados-long-pond-life-v2",
@@ -403,6 +415,7 @@ export const barbadosLifeV2: POI[] = [
       ro: ["Suprafață: 5 hectare.", "Adâncime maximă: 3 m.", "Volum de apă: aproximativ 150.000 m³.", "Peste 30 de specii de păsări identificate.", "Evaporație anuală: 1,5 milioane de litri.", "Distanța până la coastă: 2 km."],
       en: ["Area: 5 hectares.", "Maximum depth: 3 meters.", "Water volume: approximately 150,000 cubic meters.", "Over 30 bird species recorded.", "Annual evaporation: 1.5 million liters.", "Distance to coast: 2 kilometers."],
     },
+    image: "/poi-images/barbados-long-pond-life-v2.webp",
   },
   {
     id: "barbados-codrington-college-gardens-life-v2",
@@ -434,6 +447,7 @@ export const barbadosLifeV2: POI[] = [
       ro: ["Colegiul fondat în 1745.", "Suprafața grădinilor: 2 hectare.", "18 palmieri regali în alee.", "Grădina de plante medicinale conține 30 de specii.", "Suprafața iazului: 400 m².", "Grădinile sunt deschise publicului din 1990."],
       en: ["College founded in 1745.", "Garden area: 2 hectares.", "18 royal palms in the avenue.", "Herb garden contains 30 species.", "Pond area: 400 square meters.", "Gardens have been open to the public since 1990."],
     },
+    image: "/poi-images/barbados-codrington-college-gardens-life-v2.webp",
   },
   {
     id: "barbados-st-nicholas-abbey-gardens-life-v2",
@@ -465,6 +479,7 @@ export const barbadosLifeV2: POI[] = [
       ro: ["Conac construit în 1658.", "Suprafața grădinilor: 4 hectare.", "Conține 20 de specii de citrice.", "Livada are 50 de pomi.", "Cel mai bătrân palmier: 150 de ani.", "Aproximativ 15.000 de vizitatori anual."],
       en: ["Mansion built in 1658.", "Garden area: 4 hectares.", "Contains 20 different citrus varieties.", "Orchard has 50 trees.", "Oldest palm in garden: 150 years old.", "Annual visitors: approximately 15,000."],
     },
+    image: "/poi-images/barbados-st-nicholas-abbey-gardens-life-v2.webp",
   },
   {
     id: "barbados-carlisle-bay-marine-park-life-v2",
@@ -496,6 +511,7 @@ export const barbadosLifeV2: POI[] = [
       ro: ["Dimensiunea ariei protejate: 1,2 km².", "Conține 6 epave de nave.", "Peste 100 de specii de pești documentate.", "Vizibilitate medie sub apă: 15 m.", "Temperatura apei: 26-28°C.", "Medie de 200 de vizitatori pe zi."],
       en: ["Protected area size: 1.2 km².", "Contains 6 shipwrecks.", "Over 100 fish species documented.", "Average underwater visibility: 15 meters.", "Water temperature: 26-28°C.", "Average daily visitor count: 200."],
     },
+    image: "/poi-images/barbados-carlisle-bay-marine-park-life-v2.webp",
   },
   {
     id: "barbados-paynes-bay-reefs-life-v2",
@@ -527,6 +543,7 @@ export const barbadosLifeV2: POI[] = [
       ro: ["Lungimea recifului: 1,5 km.", "Adâncimea apei: 2-10 m.", "Peste 50 de specii de corali documentate.", "Specie de pește dominantă: pește papagal (Scarus vetula).", "Aproximativ 30.000 de vizitatori anual.", "Digul de protecție a fost construit în 1995."],
       en: ["Reef length: 1.5 kilometers.", "Water depth: 2-10 meters.", "Over 50 coral species documented.", "Most common fish species: parrotfish (Scarus vetula).", "Annual visitors: approximately 30,000.", "Breakwater constructed in 1995."],
     },
+    image: "/poi-images/barbados-paynes-bay-reefs-life-v2.webp",
   },
   {
     id: "barbados-drill-hall-beach-life-v2",
@@ -558,6 +575,7 @@ export const barbadosLifeV2: POI[] = [
       ro: ["Lungimea plajei: 300 m.", "Lățimea medie: 20 m.", "Temperatura apei: în medie 27°C.", "Număr de locuri de parcare: 50.", "Distanța până în centrul Bridgetown: 3 km.", "Aproximativ 40.000 de vizitatori anual."],
       en: ["Beach length: 300 meters.", "Average width: 20 meters.", "Average water temperature: 27°C.", "Number of parking spaces: 50.", "Distance to Bridgetown city center: 3 km.", "Annual visitors: approximately 40,000."],
     },
+    image: "/poi-images/barbados-drill-hall-beach-life-v2.webp",
   },
   {
     id: "barbados-alleynes-bay-life-v2",
@@ -589,6 +607,7 @@ export const barbadosLifeV2: POI[] = [
       ro: ["Lățimea golfului: 100 m.", "Lungimea plajei: 80 m.", "Adâncimea apei: 1-5 m.", "Număr de palmieri: aproximativ 20.", "Distanța până la cel mai apropiat oraș (Bathsheba): 5 km.", "Număr mediu anual de vizitatori: 5.000."],
       en: ["Bay width: 100 meters.", "Beach length: 80 meters.", "Water depth: 1-5 meters.", "Number of palm trees: approximately 20.", "Distance to nearest town (Bathsheba): 5 km.", "Average annual visitors: 5,000."],
     },
+    image: "/poi-images/barbados-alleynes-bay-life-v2.webp",
   },
   {
     id: "barbados-three-houses-park-life-v2",
@@ -620,6 +639,7 @@ export const barbadosLifeV2: POI[] = [
       ro: ["Suprafață: 5 hectare", "Anul deschiderii: 1995", "Altitudine: 15 m deasupra nivelului mării", "Distanța până la mare: 500 m", "Număr de copaci: peste 200", "Vizitatori anuali: aproximativ 10.000"],
       en: ["Area: 5 hectares", "Opened: 1995", "Elevation: 15 m above sea level", "Distance to sea: 500 m", "Number of trees: over 200", "Annual visitors: approx. 10,000"],
     },
+    image: "/poi-images/barbados-three-houses-park-life-v2.webp",
   },
   {
     id: "barbados-gun-hill-gardens-life-v2",
@@ -651,6 +671,7 @@ export const barbadosLifeV2: POI[] = [
       ro: ["Altitudine: 200 m deasupra nivelului mării", "Tun construit în: 1815", "Suprafața grădinii: 2 hectare", "Deschis publicului: 1998", "Număr de specii de plante: peste 100", "Centru vizitatori: 120 m²"],
       en: ["Elevation: 200 m above sea level", "Cannon built: 1815", "Garden area: 2 hectares", "Opened: 1998", "Plant species: over 100", "Visitor center size: 120 m²"],
     },
+    image: "/poi-images/barbados-gun-hill-gardens-life-v2.webp",
   },
   {
     id: "barbados-jack-in-the-box-gully-life-v2",
@@ -682,6 +703,7 @@ export const barbadosLifeV2: POI[] = [
       ro: ["Adâncime: 30 m", "Lungime: 800 m", "Formare prin eroziune", "Parte a unui sistem de peșteri", "Specii endemice de ferigi: 5", "Înălțimea maximă a cascadei: 5 m"],
       en: ["Depth: 30 m", "Length: 800 m", "Formation: erosional", "Part of cave system", "Endemic fern species: 5", "Maximum waterfall height: 5 m"],
     },
+    image: "/poi-images/barbados-jack-in-the-box-gully-life-v2.webp",
   },
   {
     id: "barbados-harrisons-cave-life-v2",
@@ -713,6 +735,7 @@ export const barbadosLifeV2: POI[] = [
       ro: ["Lungime: 2,3 km", "Deschidere: 1970", "Temperatura apei: 22 °C", "Număr de camere: 7", "Adâncime sub suprafață: 50 m", "Vizitatori anuali: 150.000"],
       en: ["Length: 2.3 km", "Opened: 1970", "Water temperature: 22 °C", "Number of chambers: 7", "Depth below surface: 50 m", "Annual visitors: 150,000"],
     },
+    image: "/poi-images/barbados-harrisons-cave-life-v2.webp",
   },
   {
     id: "barbados-harrisons-point-life-v2",
@@ -744,6 +767,7 @@ export const barbadosLifeV2: POI[] = [
       ro: ["Anul construcției: 1890", "Înălțime: 18 m", "Poziție: cel mai vestic punct", "Raza de acțiune a luminii: 30 km", "Material de construcție: calcar", "Stare: activ"],
       en: ["Built: 1890", "Height: 18 m", "Location: westernmost point", "Light range: 30 km", "Construction material: limestone", "Status: active"],
     },
+    image: "/poi-images/barbados-harrisons-point-life-v2.webp",
   },
   {
     id: "barbados-bottom-bay-life-v2",
@@ -775,6 +799,7 @@ export const barbadosLifeV2: POI[] = [
       ro: ["Lungime: 200 m", "Lățime: 50 m", "Culoarea nisipului: alb", "Înălțimea stâncilor: 20 m", "Adâncimea apei: până la 10 m", "Curent: mediu"],
       en: ["Length: 200 m", "Width: 50 m", "Sand color: white", "Cliff height: 20 m", "Water depth: up to 10 m", "Current strength: moderate"],
     },
+    image: "/poi-images/barbados-bottom-bay-life-v2.webp",
   },
   {
     id: "barbados-bathsheba-park-life-v2",
@@ -806,6 +831,7 @@ export const barbadosLifeV2: POI[] = [
       ro: ["Suprafață: 3 hectare", "Renovare: 2005", "Înălțimea stâncilor: 30 m", "Distanța până la sat: 500 m", "Viteza vântului: medie 25 km/h", "Număr platforme de observare: 2"],
       en: ["Area: 3 hectares", "Renovation: 2005", "Cliff height: 30 m", "Distance to village: 500 m", "Average wind speed: 25 km/h", "Number of observation platforms: 2"],
     },
+    image: "/poi-images/barbados-bathsheba-park-life-v2.webp",
   },
   {
     id: "barbados-cobblers-cove-reef-life-v2",
@@ -837,5 +863,6 @@ export const barbadosLifeV2: POI[] = [
       ro: ["Lungime: 500 m", "Adâncimea apei: 3-12 m", "Vizibilitate: >20 m", "Arie protejată din: 2000", "Specii de pești: peste 50", "Temperatura apei: 26-28 °C"],
       en: ["Length: 500 m", "Water depth: 3-12 m", "Visibility: >20 m", "Protected since: 2000", "Fish species: over 50", "Water temperature: 26-28 °C"],
     },
+    image: "/poi-images/barbados-cobblers-cove-reef-life-v2.webp",
   }
 ];

@@ -32,6 +32,7 @@ export const cyprusLandmarksV2: POI[] = [
       ro: ["Moscheea datează probabil din secolul al XIX-lea.", "Este situată în districtul Larnaca, aproape de coastă.", "Minaretul a fost construit din gresie fasonată.", "În apropiere se află o necropolă din perioada anului 1050 î.Hr.", "Mihrab-ul prezintă sculpturi tradiționale otomane.", "Clădirea a fost ridicată folosind materiale de construcție locale."],
       en: ["The mosque likely dates back to the 19th century.", "It is located in the Larnaca district near the coast.", "The minaret was constructed from hewn sandstone.", "A necropolis from around 1050 BC is located nearby.", "The mihrab features traditional Ottoman carvings.", "The building was constructed using local building materials."],
     },
+    image: "/poi-images/cyprus-alaas-mosque-landmarks-v2.webp",
   },
   {
     id: "cyprus-panagia-angeloktisti-landmarks-v2",
@@ -64,6 +65,7 @@ export const cyprusLandmarksV2: POI[] = [
       ro: ["Celebrul mozaic din absidă datează din secolul al VI-lea.", "Numele „Angeloktisti” înseamnă în greacă „construită de îngeri”.", "Biserica a fost ridicată pe o basilică din secolul al V-lea.", "Există o capelă din perioada dominației Lusignan (sec. XIII).", "Structura se află pe lista tentativă a UNESCO.", "În biserică se află un monument funerar important al familiei Gibelet."],
       en: ["The famous mosaic in the apse dates from the 6th century.", "The name 'Angeloktisti' means 'built by angels' in Greek.", "The church was built on a 5th-century basilica.", "There is a chapel from the time of the Lusignan rule (13th century).", "The structure is on the UNESCO tentative list.", "A significant tombstone of the Gibelet family is located in the church."],
     },
+    image: "/poi-images/cyprus-panagia-angeloktisti-landmarks-v2.webp",
   },
   {
     id: "cyprus-agios-georgios-pegeia-landmarks-v2",
@@ -96,6 +98,7 @@ export const cyprusLandmarksV2: POI[] = [
       ro: ["În Agios Georgios au fost descoperite trei basilici creștine timpurii din sec. VI.", "Mozaicurile de pardoseală prezintă reprezentări rare de animale și fructe.", "Locul a fost un centru creștin de pelerinaj important.", "În stânci se află morminte din perioadele elenistică și romană.", "Agios Georgios a fost un port de export important în antichitatea târzie.", "Biserica modernă este o destinație cunoscută pentru nunți și botezuri."],
       en: ["Three early Christian basilicas from the 6th century were discovered in Agios Georgios.", "The floor mosaics feature rare depictions of animals and fruits.", "The site was a significant Christian pilgrimage center.", "The cliffs contain tombs from the Hellenistic and Roman periods.", "Agios Georgios was an important export port in late antiquity.", "The modern church is a popular destination for weddings and christenings."],
     },
+    image: "/poi-images/cyprus-agios-georgios-pegeia-landmarks-v2.webp",
   },
   {
     id: "cyprus-fatih-mosque-larnaca-landmarks-v2",
@@ -128,6 +131,7 @@ export const cyprusLandmarksV2: POI[] = [
       ro: ["Moscheea a fost ridicată în secolul al XVI-lea pe locul unei biserici.", "Este situată în cartierul istoric Skala.", "Minaretul este una dintre cele mai înalte structuri din orașul vechi.", "Numele „Kebir Camii” se traduce prin „Marea Moschee”.", "În curte se află o fântână pentru spălarea rituală.", "Moscheea este un exemplu de reutilizare a edificiilor sacre în Cipru."],
       en: ["The mosque was erected in the 16th century on the site of a church.", "It is located in the historic Skala district.", "The minaret is one of the tallest structures in the old town.", "The name 'Kebir Camii' translates to 'Great Mosque'.", "A fountain for ritual ablution is located in the courtyard.", "The mosque is an example of the repurposing of sacred buildings in Cyprus."],
     },
+    image: "/poi-images/cyprus-fatih-mosque-larnaca-landmarks-v2.webp",
   },
   {
     id: "cyprus-agios-neophytos-monastery-landmarks-v2",
@@ -160,6 +164,7 @@ export const cyprusLandmarksV2: POI[] = [
       ro: ["Mănăstirea a fost fondată în 1159 de către pustnicul Neofit.", "„Enkleistra” conține fresce realizate de pictorul Theodoros Apseudes (1183).", "Moaștele Sfântului Neofit sunt păstrate în biserica principală.", "Mănăstirea este situată într-un defileu lângă satul Tala.", "Adăpostește o colecție valoroasă de manuscrise bizantine.", "Mormintele rupestre prezintă reprezentări rare ale scenelor biblice."],
       en: ["The monastery was founded in 1159 by Neophytos the Hermit.", "The 'Enkleistra' contains frescoes by the painter Theodore Apseudes (1183).", "The remains of Saint Neophytos are kept in the main church.", "The monastery is located in a gorge near the village of Tala.", "It houses a valuable collection of Byzantine manuscripts.", "The rock-cut tombs feature rare depictions of biblical scenes."],
     },
+    image: "/poi-images/cyprus-agios-neophytos-monastery-landmarks-v2.webp",
   },
   {
     id: "cyprus-agios-sozomenos-ruins-landmarks-v2",
@@ -192,6 +197,7 @@ export const cyprusLandmarksV2: POI[] = [
       ro: ["Satul a fost abandonat complet în urma tulburărilor din 1964.", "Biserica neterminată Agios Mamas a fost începută în secolul al XVI-lea.", "Chilia rupestră a Sf. Sozomenos conține fresce din secolul al XII-lea.", "Satul avea anterior o populație mixtă de ciprioți greci și turci.", "Agios Sozomenos este situat în districtul Nicosia, lângă zona-tampon ONU.", "Ruinele sunt un motiv popular pentru producțiile cinematografice internaționale."],
       en: ["The village was completely deserted following the disturbances of 1964.", "The unfinished church of Agios Mamas was started in the 16th century.", "The rock hermitage of St. Sozomenos contains 12th-century frescoes.", "The village formerly had a mixed Greek and Turkish Cypriot population.", "Agios Sozomenos is located in the Nicosia district near the UN buffer zone.", "The ruins are a popular location for international film productions."],
     },
+    image: "/poi-images/cyprus-agios-sozomenos-ruins-landmarks-v2.webp",
   },
   {
     id: "cyprus-agios-andronikos-church-landmarks-v2",
@@ -224,6 +230,7 @@ export const cyprusLandmarksV2: POI[] = [
       ro: ["Biserica a fost construită în secolul al XVI-lea, în perioada venețiană.", "În anul 1571 a fost transformată în moschee.", "Frescele au rămas conservate sub un strat de var timp de peste 400 de ani.", "Lucrările de restaurare au început în anul 1994.", "Este dedicată Sfinților Andronic și Atanasia.", "Clădirea este situată în centrul localității Polis Chrysochous."],
       en: ["The church was built in the 16th century during the Venetian period.", "It was converted into a mosque in the year 1571.", "The frescoes remained preserved under a layer of lime for over 400 years.", "Restoration work began in the year 1994.", "It is dedicated to Saints Andronikos and Athanasia.", "The building is located in the center of Polis Chrysochous."],
     },
+    image: "/poi-images/cyprus-agios-andronikos-church-landmarks-v2.webp",
   },
   {
     id: "cyprus-philippides-tower-landmarks-v2",
@@ -256,6 +263,7 @@ export const cyprusLandmarksV2: POI[] = [
       ro: ["Clădirea are 11 etaje și a fost mult timp cea mai înaltă din Nicosia.", "Observatorul Ledra a fost deschis oficial în anul 1998.", "Este situat la intersecția străzilor Ledra și Arsinoe.", "Vizitatorii pot observa prin binocluri zona de nord a Ciprului.", "Expoziția interioară documentează istoria orașului începând cu 1960.", "La parterul clădirii se află un centru comercial important."],
       en: ["The building consists of 11 floors and was long the tallest in Nicosia.", "The Ledra Observatory was officially opened to the public in 1998.", "It is located at the junction of Ledra and Arsinoe Streets.", "Visitors can use telescopes to view the northern part of the island.", "The exhibit documents the city's history starting from the year 1960.", "The lower floors of the tower house a major retail department store."],
     },
+    image: "/poi-images/cyprus-philippides-tower-landmarks-v2.webp",
   },
   {
     id: "cyprus-panagia-chrysaliniotissa-landmarks-v2",
@@ -288,6 +296,7 @@ export const cyprusLandmarksV2: POI[] = [
       ro: ["Biserica a fost fondată în anul 1450 de regina Elena Paleologina.", "Este cea mai veche biserică bizantină din interiorul zidurilor venețiene.", "Numele provine de la cultura inului de aur care exista în zonă.", "Structura combină elemente arhitecturale bizantine și gotice.", "Interiorul găzduiește icoane valoroase din secolul al XII-lea.", "Clădirea a suferit numeroase modificări și extinderi de-a lungul timpului."],
       en: ["The church was founded in 1450 by Queen Helena Palaeologina.", "It is considered the oldest church within Nicosia's Venetian walls.", "The name refers to the golden flax that was once cultivated nearby.", "The architecture features a blend of Byzantine and Gothic styles.", "The interior houses valuable icons dating back to the 12th century.", "The building was expanded several times, giving it its current form."],
     },
+    image: "/poi-images/cyprus-panagia-chrysaliniotissa-landmarks-v2.webp",
   },
   {
     id: "cyprus-venetian-walls-nikosia-landmarks-v2",
@@ -320,6 +329,7 @@ export const cyprusLandmarksV2: POI[] = [
       ro: ["Zidurile au fost construite de venețieni între anii 1567 și 1570.", "Circumferința totală a fortificațiilor circulare este de circa 4,5 km.", "Sistemul include unsprezece bastioane în formă de inimă.", "Orașul avea inițial trei porți: Famagusta, Paphos și Kyrenia.", "Proiectul a fost realizat de inginerul militar italian Giulio Savorgnano.", "Fortificațiile nu au putut opri cucerirea otomană din anul 1570."],
       en: ["The walls were constructed by the Venetians between 1567 and 1570.", "The total circumference of the circular fortifications is about 4.5 km.", "The system features eleven heart-shaped bastions for defense.", "The city originally had three main gates: Famagusta, Paphos, and Kyrenia.", "The design was created by the Italian military engineer Giulio Savorgnano.", "The walls did not prevent the Ottoman conquest of the city in 1570."],
     },
+    image: "/poi-images/cyprus-venetian-walls-nikosia-landmarks-v2.webp",
   },
   {
     id: "cyprus-agios-ioannis-cathedral-landmarks-v2",
@@ -352,6 +362,7 @@ export const cyprusLandmarksV2: POI[] = [
       ro: ["Actuala catedrală a fost finalizată în anul 1662.", "Este construită pe locul unei foste abații benedictine din secolul al XIV-lea.", "Interiorul este decorat integral cu fresce din secolul al XVIII-lea.", "Catedrala este locul tradițional de întronizare a arhiepiscopilor.", "Iconostasul aurit a fost realizat în anul 1712.", "Lăcașul de cult este dedicat Sfântului Ioan Evanghelistul."],
       en: ["The current cathedral was completed in the year 1662.", "It stands on the site of a 14th-century Benedictine abbey.", "The interior is entirely covered with 18th-century frescoes.", "It is the traditional site for the enthronement of Archbishops.", "The gilded iconostasis was crafted in 1712.", "The cathedral is dedicated to Saint John the Evangelist."],
     },
+    image: "/poi-images/cyprus-agios-ioannis-cathedral-landmarks-v2.webp",
   },
   {
     id: "cyprus-phaneromeni-church-landmarks-v2",
@@ -384,6 +395,7 @@ export const cyprusLandmarksV2: POI[] = [
       ro: ["Actuala biserică a fost finalizată în anul 1872.", "Este cea mai mare biserică din interiorul cetății Nicosia.", "În secolul al XIV-lea, pe acest loc funcționa o mănăstire cisterciană.", "Mausoleul adăpostește oasele martirilor executați în 1821.", "Iconostasul este o operă de artă sculptată în lemn de maeștri locali.", "Numele Phaneromeni înseamnă 'Cea care s-a arătat'."],
       en: ["The current church was completed in the year 1872.", "It is the largest church within Nicosia's Venetian walls.", "A Cistercian nunnery occupied this site in the 14th century.", "The mausoleum commemorates the bishops executed in 1821.", "The iconostasis was carved by renowned local Cypriot artists.", "The name Phaneromeni translates to 'The Revealed One'."],
     },
+    image: "/poi-images/cyprus-phaneromeni-church-landmarks-v2.webp",
   },
   {
     id: "cyprus-dervish-pasha-mansion-landmarks-v2",
@@ -416,6 +428,7 @@ export const cyprusLandmarksV2: POI[] = [
       ro: ["Conacul a fost construit în anul 1801 în cartierul Arabahmet.", "A aparținut lui Dervish Pașa, pionier al jurnalismului cipriot.", "Clădirea este ridicată pe ruinele unei structuri medievale.", "Din 1988, găzduiește Muzeul Etnologic din Nicosia.", "Arhitectura îmbină parterul de piatră cu etajul superior din lemn.", "Balcoanele închise caracteristice sunt denumite 'cumba'."],
       en: ["The mansion was built in 1801 in the Arabahmet quarter.", "It belonged to Dervish Pasha, a pioneer of Cypriot journalism.", "The building was constructed over medieval ruins.", "Since 1988, it has housed the Ethnological Museum of Nicosia.", "The architecture combines stone ground floors with timber upper levels.", "The distinctive enclosed wooden balconies are known as 'cumba'."],
     },
+    image: "/poi-images/cyprus-dervish-pasha-mansion-landmarks-v2.webp",
   },
   {
     id: "cyprus-byzantine-museum-landmarks-v2",
@@ -448,6 +461,7 @@ export const cyprusLandmarksV2: POI[] = [
       ro: ["Muzeul expune peste 230 de icoane de o valoare rară.", "Colecția acoperă o perioadă din secolul IX până în secolul XIX.", "Piesele centrale sunt mozaicurile din Kanakaria (secolul VI).", "Este situat lângă sediul Palatului Arhiepiscopal din Nicosia.", "Mozaicurile au fost repatriate din SUA după un proces celebru.", "Sunt expuse și obiecte de cult din argint și manuscrise vechi."],
       en: ["The museum houses over 230 rare and valuable icons.", "The collection spans from the 9th to the 19th century.", "A major highlight is the 6th-century Kanakaria mosaics.", "It is located within the grounds of the Archbishop's Palace.", "The mosaics were repatriated from the US after a legal battle.", "Historical vestments and manuscripts are also on display."],
     },
+    image: "/poi-images/cyprus-byzantine-museum-landmarks-v2.webp",
   },
   {
     id: "cyprus-leventis-municipal-museum-landmarks-v2",
@@ -480,6 +494,7 @@ export const cyprusLandmarksV2: POI[] = [
       ro: ["Muzeul a fost deschis oficial în anul 1989.", "În 1991, a fost declarat 'Muzeul European al Anului'.", "Colecția acoperă peste 5.000 de ani de istorie urbană.", "Sediul este o casă restaurată construită în anul 1885.", "Exponatele ilustrează perioade de la antichitate până azi.", "Este administrat cu sprijinul Fundației Anastasios G. Leventis."],
       en: ["The museum was officially opened in the year 1989.", "It was named 'European Museum of the Year' in 1991.", "The collection documents over 5,000 years of city history.", "It is housed in a restored mansion dating back to 1885.", "Exhibits range from the ancient times to the modern era.", "The museum is supported by the Anastasios G. Leventis Foundation."],
     },
+    image: "/poi-images/cyprus-leventis-municipal-museum-landmarks-v2.webp",
   },
   {
     id: "cyprus-famagusta-gate-landmarks-v2",
@@ -512,6 +527,7 @@ export const cyprusLandmarksV2: POI[] = [
       ro: ["Poarta a fost finalizată în anul 1567.", "A fost numită Porta Giuliana în onoarea guvernatorului venețian.", "Proiectul a fost realizat de celebrul inginer Giulio Savorgnano.", "Restaurarea din 1981 a fost premiată de organizația Europa Nostra.", "Pasajul boltit are o lungime de aproximativ 35 de metri.", "În prezent, găzduiește expoziții și evenimente culturale municipale."],
       en: ["The gate was completed in the year 1567.", "It was originally named Porta Giuliana after a Venetian governor.", "The design was created by the engineer Giulio Savorgnano.", "In 1981, its restoration was awarded the Europa Nostra prize.", "The gate features a vaulted passage that is 35 meters long.", "Today, it serves as a municipal center for arts and culture."],
     },
+    image: "/poi-images/cyprus-famagusta-gate-landmarks-v2.webp",
   },
   {
     id: "cyprus-archbishop-palace-landmarks-v2",
@@ -544,6 +560,7 @@ export const cyprusLandmarksV2: POI[] = [
       ro: ["Actualul palat a fost construit între anii 1956 și 1960.", "Arhitectura clădirii este realizată în stil neobizantin.", "În fața palatului se află statuia Arhiepiscopului Makarios al III-lea.", "Complexul include și prestigiosul Muzeu Bizantin din Nicosia.", "Vechiul palat arhiepiscopal din apropiere datează din anul 1730.", "Biblioteca palatului adăpostește peste 50.000 de volume."],
       en: ["The current palace was constructed between 1956 and 1960.", "It is designed in a magnificent Neo-Byzantine style.", "A statue of Archbishop Makarios III stands in front of the palace.", "The complex houses the important Byzantine Museum.", "The adjacent old Archbishop's Palace dates back to 1730.", "The library within the palace contains over 50,000 volumes."],
     },
+    image: "/poi-images/cyprus-archbishop-palace-landmarks-v2.webp",
   },
   {
     id: "cyprus-omerye-mosque-landmarks-v2",
@@ -576,6 +593,7 @@ export const cyprusLandmarksV2: POI[] = [
       ro: ["Construită inițial în secolul al XIV-lea ca mănăstire augustiniană", "Transformată în moschee în anul 1571, după cucerirea otomană", "Numită după califul Omar, care s-ar fi odihnit la acest sit", "Păstrează un portal gotic principal din perioada Lusignan", "Găzduiește plăci funerare ale nobililor franci în interior", "Restaurată integral în perioada anilor 2003-2004"],
       en: ["Originally built in the 14th century as an Augustinian monastery", "Converted into a mosque in 1571 following the Ottoman conquest", "Named after Caliph Omar, who reportedly stayed at the site", "Features a well-preserved Gothic main portal from the Lusignan era", "Contains the floor slabs of Frankish nobles inside the structure", "Underwent comprehensive restoration between 2003 and 2004"],
     },
+    image: "/poi-images/cyprus-omerye-mosque-landmarks-v2.webp",
   },
   {
     id: "cyprus-paphos-gate-landmarks-v2",
@@ -608,6 +626,7 @@ export const cyprusLandmarksV2: POI[] = [
       ro: ["Construită între 1567 și 1570 în timpul stăpânirii venețiene", "Proiectată de renumitul inginer militar Giulio Savorgnano", "Cunoscută inițial sub numele de Porta San Domenico", "Una dintre cele trei porți principale ale zidului de 4,5 km", "Situată astăzi direct pe Linia Verde a zonei tampon ONU", "A servit drept principal punct de acces dinspre vestul insulei"],
       en: ["Built between 1567 and 1570 during the Venetian period", "Designed by the famous military engineer Giulio Savorgnano", "Originally known as the Porta San Domenico", "One of three main gates in the 4.5 km long city wall", "Located today directly on the Green Line (UN Buffer Zone)", "Served as the primary entry point from the island's west coast"],
     },
+    image: "/poi-images/cyprus-paphos-gate-landmarks-v2.webp",
   },
   {
     id: "cyprus-church-of-st-kassianos-landmarks-v2",
@@ -640,6 +659,7 @@ export const cyprusLandmarksV2: POI[] = [
       ro: ["Edificiul actual a fost finalizat în anul 1754", "Adăpostește o icoană valoroasă de argint din anul 1782", "Situată în cartierul istoric Chrysaliniotissa", "Localizată la doar câțiva metri de zona tampon a ONU", "Dedicată Sfântului Casian Romanul (sec. IV-V)", "Dispune de un iconostas din lemn sculptat cu mare finețe"],
       en: ["The current structure was completed in the year 1754", "Houses a valuable silver-plated icon of the saint from 1782", "Located in the historic Chrysaliniotissa neighborhood", "Situated just a few meters from the UN Buffer Zone", "Dedicated to St. Kassianos the Roman (4th-5th century)", "Features an elaborately carved wooden iconostasis"],
     },
+    image: "/poi-images/cyprus-church-of-st-kassianos-landmarks-v2.webp",
   },
   {
     id: "cyprus-makarios-cultural-foundation-landmarks-v2",
@@ -672,6 +692,7 @@ export const cyprusLandmarksV2: POI[] = [
       ro: ["Numită după Arhiepiscopul Makarios al III-lea, primul președinte al Ciprului", "Găzduiește cel mai mare Muzeu Bizantin de pe insulă", "Conține faimoasele mozaicuri Kanakaria din secolul al VI-lea", "Colecția de icoane cuprinde peste 200 de exponate (sec. IX-XIX)", "Dispune de o galerie semnificativă de pictură europeană", "Centru de arhivă important pentru istoria independenței cipriote"],
       en: ["Named after Archbishop Makarios III, the first President of Cyprus", "Houses the largest Byzantine Museum on the island", "Contains the famous 6th-century mosaics from Panagia Kanakaria", "The icon collection includes more than 200 items (9th-19th century)", "Features a significant gallery of European paintings", "Major archive site for the history of Cypriot independence"],
     },
+    image: "/poi-images/cyprus-makarios-cultural-foundation-landmarks-v2.webp",
   },
   {
     id: "cyprus-agios-nikolaos-church-landmarks-v2",
@@ -704,5 +725,6 @@ export const cyprusLandmarksV2: POI[] = [
       ro: ["Construită în secolul al XI-lea ca fostă biserică mănăstirească", "Inclusă în patrimoniul mondial UNESCO din anul 1985", "Acoperiș dublu pentru protecție împotriva zăpezii pe timp de iarnă", "Cicluri de fresce din epoci diferite (secolele XI-XVII)", "Singura clădire păstrată dintr-o fostă mănăstire", "Situată la aproximativ 2 km nord de satul Kakopetria"],
       en: ["Built in the 11th century as a former monastery church", "UNESCO World Heritage site since 1985", "Distinctive double roof designed for protection against snow", "Frescoe cycles from various periods (11th-17th centuries)", "Only surviving building of a former monastery complex", "Located approximately 2 km north of Kakopetria village"],
     },
+    image: "/poi-images/cyprus-agios-nikolaos-church-landmarks-v2.webp",
   }
 ];

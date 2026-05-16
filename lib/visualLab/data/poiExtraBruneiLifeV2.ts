@@ -576,6 +576,7 @@ export const poiExtraBruneiLifeV2: POI[] = [
       ro: ["Anul deschiderii: 2012.", "Suprafață: 30 de hectare.", "Număr de soiuri de fructe cultivate: 25.", "Vizitatori anuali: 20.000.", "Lungimea aleilor pietonale: 2 km.", "Număr de ateliere pe an: 50."],
       en: ["Opened in 2012.", "Area: 30 hectares.", "Number of fruit varieties grown: 25.", "Annual visitors: 20,000.", "Walking paths length: 2 km.", "Workshops per year: 50."],
     },
+    image: "/poi-images/luahan-agropark-life-v2.webp",
   },
   {
     id: "pantai-seri-kenangan-playground-life-v2",
@@ -640,5 +641,6 @@ export const poiExtraBruneiLifeV2: POI[] = [
       ro: ["Anul fondării: 1985.", "Suprafață: 5 hectare.", "Număr de terenuri de tenis: 4.", "Dimensiunea piscinei: 25 x 12 m.", "Număr de membri: 2.000.", "Capacitatea restaurantului: 200 de persoane."],
       en: ["Founded in 1985.", "Size: 5 hectares.", "Number of tennis courts: 4.", "Pool dimensions: 25 x 12 m.", "Membership count: 2,000.", "Restaurant capacity: 200 persons."],
     },
+    image: "/poi-images/panaga-club-family-area-life-v2.webp",
   }
 ];

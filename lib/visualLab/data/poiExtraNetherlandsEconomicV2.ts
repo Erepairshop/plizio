@@ -32,6 +32,7 @@ export const netherlandsEconomicV2: POI[] = [
       ro: ["Eemshaven a fost dezvoltat în anii 1970.", "Adâncimea maximă a apei este de 14 metri.", "Suprafața totală: 2.000 de hectare.", "Centrala pe cărbune Eemshaven are o capacitate de 1.560 MW.", "Portul poate primi nave de până la 100.000 de tone.", "Eemshaven găzduiește centre de date cu o putere totală de 200 MW."],
       en: ["Eemshaven was developed in the 1970s.", "Maximum water depth: 14 meters.", "Total port area: 2,000 hectares.", "Eemshaven coal power plant capacity: 1,560 MW.", "Port can handle ships up to 100,000 tons.", "Data centers in Eemshaven have a combined power capacity of 200 MW."],
     },
+    image: "/poi-images/netherlands-emo-port-eems-economic-v2.webp",
   },
   {
     id: "netherlands-brightlands-chem-economic-v2",
@@ -64,6 +65,7 @@ export const netherlandsEconomicV2: POI[] = [
       ro: ["Brightlands Chemelot Campus se întinde pe 100 de hectare.", "Peste 1.000 de oameni de știință lucrează aici.", "Campusul găzduiește peste 100 de companii și startup-uri.", "Instalația pilot permite producția la scară de tone.", "Brightlands a investit 200 de milioane de euro în infrastructura de laborator.", "Sittard-Geleen este situat aproape de granița cu Belgia și Germania."],
       en: ["Brightlands Chemelot Campus covers an area of 100 hectares.", "Over 1,000 scientists and researchers work on campus.", "The campus hosts more than 100 companies and startups.", "The pilot plant enables ton-scale production trials.", "Brightlands invested €200 million in laboratory infrastructure.", "Sittard-Geleen is located near the Dutch-Belgian-German border."],
     },
+    image: "/poi-images/netherlands-brightlands-chem-economic-v2.webp",
   },
   {
     id: "netherlands-vdl-nedcar-economic-v2",
@@ -96,6 +98,7 @@ export const netherlandsEconomicV2: POI[] = [
       ro: ["VDL Nedcar a fost deschis în 1968 ca fabrică DAF.", "Capacitatea anuală de producție: 200.000 de vehicule.", "Fabrica angajează aproximativ 4.000 de persoane (2023).", "Suprafața totală a fabricii: 1,2 milioane de metri pătrați.", "VDL Nedcar produce Mini Cabrio pentru BMW din 2022.", "În 2019, au fost fabricate 117.000 de vehicule."],
       en: ["VDL Nedcar opened in 1968 as a DAF car plant.", "Annual production capacity: 200,000 vehicles.", "The plant employs around 4,000 people (2023).", "Factory site area: 1.2 million square meters.", "VDL Nedcar has produced the BMW Mini Cabrio since 2022.", "In 2019, 117,000 vehicles were manufactured."],
     },
+    image: "/poi-images/netherlands-vdl-nedcar-economic-v2.webp",
   },
   {
     id: "netherlands-port-moerdijk-economic-v2",
@@ -128,6 +131,7 @@ export const netherlandsEconomicV2: POI[] = [
       ro: ["Portul Moerdijk a fost dezvoltat în anii 1960.", "Suprafața totală: 1.200 de hectare.", "Trafic anual: aproximativ 30 de milioane de tone.", "Adâncimea maximă a apei: 12 metri.", "Portul este conectat cu Rotterdam prin canalul Noordzeekanaal.", "Fabrica de bioetanol are o capacitate anuală de 230 de milioane de litri."],
       en: ["Port of Moerdijk developed in the 1960s.", "Total area: 1,200 hectares.", "Annual throughput: ~30 million tonnes.", "Maximum water depth: 12 meters.", "Connected to Rotterdam via the Noordzeekanaal.", "Bioethanol plant capacity: 230 million liters per year."],
     },
+    image: "/poi-images/netherlands-port-moerdijk-economic-v2.webp",
   },
   {
     id: "netherlands-greenport-westland-economic-v2",
@@ -160,6 +164,7 @@ export const netherlandsEconomicV2: POI[] = [
       ro: ["Greenport Westland cuprinde 2.500 de hectare de sere.", "Valoarea anuală a producției depășește 6 miliarde de euro.", "Clusterul angajează aproximativ 25.000 de persoane.", "Westland produce 40% din legumele și fructele olandeze.", "Dimensiunea medie a unei sere este de 1,5 hectare.", "Consumul anual de energie al serelor este de 3.000 MW."],
       en: ["Greenport Westland has 2,500 hectares of greenhouses.", "Annual production value exceeds €6 billion.", "The cluster employs about 25,000 workers.", "Westland produces 40% of Dutch vegetables and fruits.", "Average greenhouse size: 1.5 hectares.", "Annual energy consumption of greenhouses: 3,000 MW."],
     },
+    image: "/poi-images/netherlands-greenport-westland-economic-v2.webp",
   },
   {
     id: "netherlands-brainport-eindhoven-economic-v2",
@@ -192,6 +197,7 @@ export const netherlandsEconomicV2: POI[] = [
       ro: ["Brainport Eindhoven include peste 7.000 de companii.", "Regiunea oferă aproximativ 80.000 de locuri de muncă în high-tech.", "ASML, cu sediul în Veldhoven, are o valoare de piață de peste 200 de miliarde de euro.", "Universitatea de Tehnologie din Eindhoven are 15.000 de studenți.", "Bugetul anual pentru cercetare și dezvoltare este de 1,5 miliarde de euro.", "Brainport se întinde pe o suprafață de 1.500 km²."],
       en: ["Brainport Eindhoven hosts over 7,000 companies.", "The region provides about 80,000 high-tech jobs.", "ASML, headquartered in Veldhoven, has a market cap over €200 billion.", "Eindhoven University of Technology has 15,000 students.", "Annual R&D budget: €1.5 billion.", "Brainport covers an area of 1,500 km²."],
     },
+    image: "/poi-images/netherlands-brainport-eindhoven-economic-v2.webp",
   },
   {
     id: "netherlands-port-vlissingen-economic-v2",
@@ -224,6 +230,7 @@ export const netherlandsEconomicV2: POI[] = [
       ro: ["Portul Vlissingen are o adâncime a apei de până la 17 metri.", "Traficul anual este de aproximativ 30 de milioane de tone.", "Terminalul GNL are o capacitate de 8 miliarde de metri cubi pe an.", "Șantierul naval Damen Shiprepair are 2 docuri uscate de 250 de metri lungime.", "Vlissingen este situat pe Westerschelde, unde râul are o adâncime de 15 metri.", "Portul angajează direct peste 10.000 de persoane."],
       en: ["Port of Vlissingen water depth up to 17 meters.", "Annual throughput: approximately 30 million tonnes.", "LNG terminal capacity: 8 billion cubic meters per year.", "Damen Shiprepair yard features 2 dry docks of 250 meters each.", "Vlissingen lies on the Westerschelde, which has a depth of 15 meters.", "The port directly employs over 10,000 people."],
     },
+    image: "/poi-images/netherlands-port-vlissingen-economic-v2.webp",
   },
   {
     id: "netherlands-chem-park-delfzijl-economic-v2",
@@ -256,6 +263,7 @@ export const netherlandsEconomicV2: POI[] = [
       ro: ["Parcul chimic Delfzijl se întinde pe 300 de hectare.", "A fost fondat în anii 1950.", "Producția anuală de clor este de 500.000 de tone.", "BioMCN produce 200.000 de tone de metanol pe an din biomasă.", "Portul Delfzijl are o adâncime a apei de 10 metri.", "Parcul are acces direct la conducte de gaze naturale de 100 MW."],
       en: ["Delfzijl Chemical Park covers 300 hectares.", "It was founded in the 1950s.", "Annual chlorine production: 500,000 tonnes.", "BioMCN produces 200,000 tonnes of methanol per year from biomass.", "Port of Delfzijl water depth: 10 meters.", "The park has direct access to natural gas pipelines with 100 MW capacity."],
     },
+    image: "/poi-images/netherlands-chem-park-delfzijl-economic-v2.webp",
   },
   {
     id: "netherlands-food-valley-wageningen-economic-v2",
@@ -288,6 +296,7 @@ export const netherlandsEconomicV2: POI[] = [
       ro: ["Food Valley include peste 200 de companii și institute de cercetare.", "Clusterul angajează aproximativ 16.000 de cercetători.", "Universitatea Wageningen are 13.000 de studenți.", "Anual se depun peste 1.000 de brevete în domeniul alimentar.", "Sectorul alimentar regional generează 60 de miliarde de euro anual.", "Regiunea are cea mai mare densitate de oameni de știință în alimentație pe kilometru pătrat."],
       en: ["Food Valley includes over 200 companies and research institutes.", "The cluster employs around 16,000 researchers.", "Wageningen University & Research has 13,000 students.", "Over 1,000 patents are filed annually in the food sector.", "The region's food sector generates €60 billion annually.", "Region has the highest density of food scientists per square kilometer."],
     },
+    image: "/poi-images/netherlands-food-valley-wageningen-economic-v2.webp",
   },
   {
     id: "netherlands-port-terneuzen-economic-v2",
@@ -320,6 +329,7 @@ export const netherlandsEconomicV2: POI[] = [
       ro: ["Portul Terneuzen are o adâncime a apei de până la 18 metri.", "Traficul anual depășește 50 de milioane de tone.", "Eclusa Terneuzen a fost renovată în 2017 și are o lungime de 290 de metri.", "Dow Chemical operează o instalație în Terneuzen cu o capacitate de 1,5 milioane de tone de etilenă pe an.", "Yara produce anual 1 milion de tone de îngrășăminte în Terneuzen.", "Canalul Gent-Terneuzen are o lungime de 32 de kilometri."],
       en: ["Port of Terneuzen water depth: up to 18 meters.", "Annual throughput: over 50 million tonnes.", "Terneuzen lock was renovated in 2017, length 290 meters.", "Dow Chemical operates a plant with 1.5 million tonnes ethylene capacity per year.", "Yara produces 1 million tonnes of fertilizer annually in Terneuzen.", "Ghent-Terneuzen Canal is 32 km long."],
     },
+    image: "/poi-images/netherlands-port-terneuzen-economic-v2.webp",
   },
   {
     id: "netherlands-tu-delft-campus-economic-v2",
@@ -352,6 +362,7 @@ export const netherlandsEconomicV2: POI[] = [
       ro: ["Campusul TU Delft se întinde pe 150 de hectare.", "TU Delft are 27.000 de studenți și 3.500 de doctoranzi.", "Anual se depun peste 300 de brevete.", "Campusul găzduiește 15 institute de cercetare.", "Flightlab are un tunel de vânt cu o viteză de 100 m/s.", "Campusul a generat 60 de companii spin-off (2023)."],
       en: ["TU Delft Campus covers 150 hectares.", "TU Delft has 27,000 students and 3,500 PhD candidates.", "Over 300 patents filed annually.", "The campus hosts 15 research institutes.", "Flightlab has a wind tunnel with speeds up to 100 m/s.", "The campus has produced 60 spin-off companies (as of 2023)."],
     },
+    image: "/poi-images/netherlands-tu-delft-campus-economic-v2.webp",
   },
   {
     id: "netherlands-twente-science-park-economic-v2",
@@ -384,6 +395,7 @@ export const netherlandsEconomicV2: POI[] = [
       ro: ["Twente Science Park se întinde pe 100 de hectare.", "Peste 600 de companii sunt localizate în parc.", "Parcul angajează aproximativ 10.000 de persoane.", "Universitatea Twente are 9.000 de studenți.", "Parcul a fost fondat în anii 1990.", "Anual, peste 100 de startup-uri sunt create aici."],
       en: ["Twente Science Park covers 100 hectares.", "Over 600 companies are located in the park.", "The park employs around 10,000 people.", "University of Twente has 9,000 students.", "The park was founded in the 1990s.", "Over 100 startups are created annually."],
     },
+    image: "/poi-images/netherlands-twente-science-park-economic-v2.webp",
   },
   {
     id: "netherlands-dutch-flower-auction-alsmeer-economic-v2",
@@ -416,6 +428,7 @@ export const netherlandsEconomicV2: POI[] = [
       ro: ["Clădirea licitației de flori Aalsmeer are o suprafață de 1.000.000 m².", "Zilnic, se licitează 20 de milioane de flori și 2 milioane de plante.", "Licitația a fost fondată în 1912.", "Cifra de afaceri anuală depășește 2 miliarde de euro.", "Clădirea are 20.000 de cărucioare de transport automatizat.", "Licitația are 2.500 de angajați (2023)."],
       en: ["Aalsmeer Flower Auction building covers 1,000,000 m².", "Daily auction: 20 million flowers and 2 million plants.", "Founded in 1912.", "Annual turnover exceeds €2 billion.", "The facility has 20,000 automated transport carts.", "The auction employs 2,500 people (2023)."],
     },
+    image: "/poi-images/netherlands-dutch-flower-auction-alsmeer-economic-v2.webp",
   },
   {
     id: "netherlands-high-tech-campus-ehv-economic-v2",
@@ -448,6 +461,7 @@ export const netherlandsEconomicV2: POI[] = [
       ro: ["High Tech Campus Eindhoven găzduiește peste 250 de companii.", "8.000 de cercetători lucrează pe campus.", "Campusul a fost fondat în 2003 de Philips.", "Suprafața birourilor și laboratoarelor: 300.000 m².", "Campusul are propriul centru de date de 10 MW.", "Peste 30 de companii spin-off au fost create aici."],
       en: ["High Tech Campus Eindhoven hosts over 250 companies.", "8,000 researchers work on campus.", "Founded in 2003 by Philips.", "Office and lab space: 300,000 m².", "Campus has its own data center with 10 MW capacity.", "Over 30 spin-off companies have been created here."],
     },
+    image: "/poi-images/netherlands-high-tech-campus-ehv-economic-v2.webp",
   },
   {
     id: "netherlands-rotterdam-the-hague-airport-economic-v2",
@@ -480,6 +494,7 @@ export const netherlandsEconomicV2: POI[] = [
       ro: ["Aeroportul Rotterdam Haga are o pistă de 2.200 de metri.", "Traficul anual de pasageri este de circa 2 milioane (2019).", "Aeroportul a fost deschis în 1956.", "Se află la 6 km nord-vest de Rotterdam.", "Suprafața aeroportului: 1.000 de hectare.", "Approximativ 20 de companii aeriene operează la acest aeroport."],
       en: ["Rotterdam The Hague Airport runway length: 2,200 meters.", "Annual passenger traffic: ~2 million (2019 data).", "The airport opened in 1956.", "Located 6 km northwest of Rotterdam.", "Airport area: 1,000 hectares.", "About 20 airlines serve the airport."],
     },
+    image: "/poi-images/netherlands-rotterdam-the-hague-airport-economic-v2.webp",
   },
   {
     id: "netherlands-port-harlingen-economic-v2",
@@ -512,6 +527,7 @@ export const netherlandsEconomicV2: POI[] = [
       ro: ["Trafic anual de marfă: aproximativ 4 milioane de tone.", "Flotă de pescuit: circa 40 de nave.", "Pasageri anual cu feribotul: peste 500.000.", "Suprafața portului: 120 de hectare.", "Prima extindere a portului: secolul al XIII-lea.", "Adâncimea bazinului principal: până la 10 metri."],
       en: ["Annual cargo throughput: about 4 million tonnes.", "Fishing fleet: approximately 40 cutters.", "Annual ferry passengers: over 500,000 to Terschelling and Vlieland.", "Port area: 120 hectares.", "First port expansion in the 13th century.", "Main basin water depth: up to 10 meters."],
     },
+    image: "/poi-images/netherlands-port-harlingen-economic-v2.webp",
   },
   {
     id: "netherlands-science-park-amsterdam-economic-v2",
@@ -544,6 +560,7 @@ export const netherlandsEconomicV2: POI[] = [
       ro: ["Suprafață: 70 de hectare", "An înființare: 1990", "Număr de companii: 150", "Angajați: peste 5.000", "Institute de cercetare: 3 institute universitare", "Conferințe anuale: peste 50"],
       en: ["Area: 70 hectares", "Established: 1990", "Number of companies: 150", "Employees: over 5,000", "Research institutes: 3 university institutes", "Annual conferences: over 50"],
     },
+    image: "/poi-images/netherlands-science-park-amsterdam-economic-v2.webp",
   },
   {
     id: "netherlands-port-den-helder-economic-v2",
@@ -576,6 +593,7 @@ export const netherlandsEconomicV2: POI[] = [
       ro: ["Trafic anual de nave: 400 de nave", "Adâncimea apei: până la 14 metri", "Lungimea cheiului: 3,5 km", "Bază navală din: 1813", "Flotă de pescuit: 50 de nave", "Locuri de muncă offshore: 6.000"],
       en: ["Annual ship traffic: 400 ships", "Water depth: up to 14 meters", "Quay length: 3.5 km", "Naval base since: 1813", "Fishing fleet: 50 vessels", "Offshore jobs: 6,000"],
     },
+    image: "/poi-images/netherlands-port-den-helder-economic-v2.webp",
   },
   {
     id: "netherlands-tu-eindhoven-campus-economic-v2",
@@ -608,6 +626,7 @@ export const netherlandsEconomicV2: POI[] = [
       ro: ["Suprafața campusului: 100 de hectare", "Număr de studenți: 13.000", "Cercetători: 3.000", "Facultăți: 9", "An înființare: 1956", "Brevete pe an: peste 100"],
       en: ["Campus area: 100 hectares", "Student count: 13,000", "Researchers: 3,000", "Faculties: 9", "Founded: 1956", "Patents per year: over 100"],
     },
+    image: "/poi-images/netherlands-tu-eindhoven-campus-economic-v2.webp",
   },
   {
     id: "netherlands-port-zaandam-economic-v2",
@@ -640,6 +659,7 @@ export const netherlandsEconomicV2: POI[] = [
       ro: ["Tonaj anual: 2 milioane de tone", "Lungimea cheiului: 1,2 km", "Adâncimea apei: 5 metri", "Număr de dane: 10", "Mărfuri principale: lemn, hârtie, materiale de construcție", "Investiții sustenabile: din 2020"],
       en: ["Annual throughput: 2 million tonnes", "Quay length: 1.2 km", "Water depth: 5 meters", "Berths: 10", "Main cargoes: timber, paper, building materials", "Sustainability investments: since 2020"],
     },
+    image: "/poi-images/netherlands-port-zaandam-economic-v2.webp",
   },
   {
     id: "netherlands-maastricht-health-campus-economic-v2",
@@ -672,6 +692,7 @@ export const netherlandsEconomicV2: POI[] = [
       ro: ["Angajați: 5.000", "Centru medical: MUMC+", "Investiții anuale: 2 miliarde de euro", "Suprafață: 15 hectare", "Start-up-uri: peste 50", "Studii clinice pe an: 300"],
       en: ["Employees: 5,000", "Medical center: MUMC+", "Annual investments: €2 billion", "Area: 15 hectares", "Start-ups: over 50", "Clinical trials per year: 300"],
     },
+    image: "/poi-images/netherlands-maastricht-health-campus-economic-v2.webp",
   },
   {
     id: "netherlands-port-zwolle-economic-v2",
@@ -704,6 +725,7 @@ export const netherlandsEconomicV2: POI[] = [
       ro: ["Tonaj anual: 1,5 milioane de tone", "Terminal de containere: da", "Lungimea cheiurilor: 2 km", "Adâncimea apei: 4,5 metri", "Angajați direcți: 500", "Deschis: 1960"],
       en: ["Annual throughput: 1.5 million tonnes", "Container terminal: yes", "Quay length: 2 km", "Water depth: 4.5 meters", "Direct employees: 500", "Opened: 1960"],
     },
+    image: "/poi-images/netherlands-port-zwolle-economic-v2.webp",
   },
   {
     id: "netherlands-chemical-cluster-moerdijk-economic-v2",
@@ -736,6 +758,7 @@ export const netherlandsEconomicV2: POI[] = [
       ro: ["Suprafață: 300 de hectare", "Angajați: 5.000", "Producție anuală de etilenă: 1 milion de tone", "Rețea de conducte: 100 km", "Companii principale: 10", "An înființare: 1960"],
       en: ["Area: 300 hectares", "Employees: 5,000", "Annual ethylene production: 1 million tonnes", "Pipeline network: 100 km", "Main companies: 10", "Founded: 1960"],
     },
+    image: "/poi-images/netherlands-chemical-cluster-moerdijk-economic-v2.webp",
   },
   {
     id: "netherlands-port-nijmegen-economic-v2",
@@ -768,6 +791,7 @@ export const netherlandsEconomicV2: POI[] = [
       ro: ["Tonaj anual: 3 milioane de tone", "Adâncimea apei: 6 metri", "Lungimea cheiului: 3 km", "Terminal de containere: da", "Suprafață de depozitare: 50.000 m²", "Primul port: secolul I î.Hr."],
       en: ["Annual throughput: 3 million tonnes", "Water depth: 6 meters", "Quay length: 3 km", "Container terminal: yes", "Storage area: 50,000 m²", "First port: 1st century BC"],
     },
+    image: "/poi-images/netherlands-port-nijmegen-economic-v2.webp",
   },
   {
     id: "netherlands-agri-hub-venlo-economic-v2",
@@ -800,6 +824,7 @@ export const netherlandsEconomicV2: POI[] = [
       ro: ["Tonaj anual: 5 milioane de tone de produse agricole", "Companii: 1.000", "Suprafață: 2.000 de hectare de parc logistic", "Capacitate de depozitare frigorifică: 500.000 m³", "Apropiere de Germania: 10 km", "Locuri de muncă: 15.000"],
       en: ["Annual throughput: 5 million tonnes of agri-products", "Companies: 1,000", "Area: 2,000 hectares of logistics park", "Cold storage capacity: 500,000 m³", "Proximity to Germany: 10 km", "Jobs: 15,000"],
     },
+    image: "/poi-images/netherlands-agri-hub-venlo-economic-v2.webp",
   },
   {
     id: "netherlands-port-lelystad-economic-v2",
@@ -832,6 +857,7 @@ export const netherlandsEconomicV2: POI[] = [
       ro: ["Locuri de acostare pentru iahturi: 1.200", "Tonaj anual: 500.000 de tone", "Adâncimea apei: 4 metri", "Construit: 1976", "Sistem solar: 1 MWp", "Turisti pe an: 200.000"],
       en: ["Marina berths: 1,200", "Annual throughput: 500,000 tonnes", "Water depth: 4 meters", "Built: 1976", "Solar system: 1 MWp", "Annual tourists: 200,000"],
     },
+    image: "/poi-images/netherlands-port-lelystad-economic-v2.webp",
   },
   {
     id: "netherlands-campus-university-twente-economic-v2",
@@ -864,5 +890,6 @@ export const netherlandsEconomicV2: POI[] = [
       ro: ["Suprafața campusului: 140 de hectare", "Studenți: 8.000", "Cercetători: 2.500", "Facultăți: 5", "Spin-off-uri: peste 100", "Companii în Kennispark: 300"],
       en: ["Campus area: 140 hectares", "Students: 8,000", "Researchers: 2,500", "Faculties: 5", "Spin-offs: over 100", "Kennispark companies: 300"],
     },
+    image: "/poi-images/netherlands-campus-university-twente-economic-v2.webp",
   }
 ];

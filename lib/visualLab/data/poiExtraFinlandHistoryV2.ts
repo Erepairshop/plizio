@@ -32,6 +32,7 @@ export const finlandHistoryV2: POI[] = [
       ro: ["Construită în etape începând cu 1317", "Demolată prin ordin regal în 1528", "Ultimul episcop rezident a fost Arvid Kurck", "Materialele au fost refolosite la Turku", "Accesibilă prin drumul Piispanlinnantie", "Include fundații de piatră bine conservate"],
       en: ["Established as a stone fort in 1317", "Ordered destroyed by Gustav Vasa in 1528", "Served as the only bishop's castle in Finland", "Strategic coastal location in Kaarina", "Site remains managed by Metsähallitus", "Extensive restoration work in the 1900s"],
     },
+    image: "/poi-images/finland-kuusisto-castle-ruins-history-v2.webp",
   },
   {
     id: "finland-liperi-ancient-field-history-v2",
@@ -64,6 +65,7 @@ export const finlandHistoryV2: POI[] = [
       ro: ["Câmpul antic Liperi datează din Epoca Fierului (500 î.Hr.–500 d.Hr.).", "Este situat în comuna Liperi, Karelia de Nord, Finlanda.", "Terasele agricole acoperă aproximativ 2 hectare.", "Săpăturile au descoperit boabe de orz și grâu.", "Situl este protejat ca patrimoniu cultural din 1995.", "Câmpul se află lângă lacul Pyhäselkä, la aproximativ 80 de metri deasupra nivelului mării."],
       en: ["The ancient field of Liperi dates from the Iron Age (500 BC–500 AD).", "It is located in Liperi municipality, North Karelia, Finland.", "The terraced fields cover about 2 hectares.", "Excavations found cereal grains of barley and wheat.", "The site has been protected as cultural heritage since 1995.", "The field lies near Lake Pyhäselkä, about 80 meters above sea level."],
     },
+    image: "/poi-images/finland-liperi-ancient-field-history-v2.webp",
   },
   {
     id: "finland-vantaa-pyhän-laurin-church-history-v2",
@@ -96,6 +98,7 @@ export const finlandHistoryV2: POI[] = [
       ro: ["Biserica Sfântul Laurențiu a fost construită în 1494.", "Este cea mai veche biserică din regiunea Helsinki.", "Turnul clopotniță separat a fost adăugat în secolul al XVIII-lea.", "Biserica conține fresce din secolul al XV-lea.", "Orga datează din 1972.", "Nava bisericii are 27 de metri lungime și 12 metri lățime."],
       en: ["St. Lawrence Church was built in 1494.", "It is the oldest church in the Helsinki region.", "The separate bell tower was added in the 18th century.", "The church contains 15th-century frescoes.", "The organ dates from 1972.", "The nave is 27 meters long and 12 meters wide."],
     },
+    image: "/poi-images/finland-vantaa-pyhän-laurin-church-history-v2.webp",
   },
   {
     id: "finland-suomussalmi-raate-road-history-v2",
@@ -128,6 +131,7 @@ export const finlandHistoryV2: POI[] = [
       ro: ["Luptele au durat între 1 și 7 ianuarie 1940", "Echipament capturat: 71 de tunuri", "Monumentul 'Poarta deschisă' a fost ridicat", "Drumul are o lungime de circa 30 km", "Temperaturile au scăzut sub -40 grade", "Inclus în patrimoniul istoric național"],
       en: ["Battle occurred Jan 1 to Jan 7, 1940", "Soviet casualties exceeded 17,000 men", "Finnish forces used 'motti' encirclement", "Over 1,000 horses lost in the battle", "Memorial field covers several hectares", "Captured 190 trucks and 43 tanks"],
     },
+    image: "/poi-images/finland-suomussalmi-raate-road-history-v2.webp",
   },
   {
     id: "finland-lapinlahti-church-history-v2",
@@ -160,6 +164,7 @@ export const finlandHistoryV2: POI[] = [
       ro: ["Biserica Lapinlahti a fost finalizată în 1827.", "A fost proiectată de Carl Ludvig Engel.", "Biserica este din lemn și are o capacitate de 600 de persoane.", "Turnul clopotniță separat datează din 1840.", "Pictura altarului a fost realizată în 1845 de Johannes Takanen.", "Biserica are 24 de metri lungime și 16 metri lățime."],
       en: ["Lapinlahti Church was completed in 1827.", "It was designed by Carl Ludvig Engel.", "The church is made of wood and seats 600 people.", "The separate bell tower dates from 1840.", "The altarpiece was painted in 1845 by Johannes Takanen.", "The church is 24 meters long and 16 meters wide."],
     },
+    image: "/poi-images/finland-lapinlahti-church-history-v2.webp",
   },
   {
     id: "finland-kuopio-muurahaisvuori-fort-history-v2",
@@ -192,6 +197,7 @@ export const finlandHistoryV2: POI[] = [
       ro: ["Ridicat în perioada 1915-1917", "Include adăposturi săpate în granit", "Parte dintr-un sistem de 3 linii defensive", "Situat în apropierea turnului Puijo", "Ziduri de piatră uscată bine păstrate", "Rol de protecție a nodului feroviar"],
       en: ["Constructed from 1915 to 1917", "Part of the Russian Peter the Great line", "Features zigzag-patterned trenches", "Strategic height overlooking Kuopio city", "Built using local granite and soil", "Remained largely unused in actual combat"],
     },
+    image: "/poi-images/finland-kuopio-muurahaisvuori-fort-history-v2.webp",
   },
   {
     id: "finland-tammisaari-old-town-history-v2",
@@ -224,6 +230,7 @@ export const finlandHistoryV2: POI[] = [
       ro: ["Orașul vechi Tammisaari datează din secolul al XVII-lea.", "Este situat în regiunea Uusimaa, sudul Finlandei.", "Majoritatea clădirilor datează din secolele al XVIII-lea și al XIX-lea.", "Orașul a primit drepturi de oraș în 1546.", "Populația din centrul vechi este de aproximativ 1.500 de locuitori.", "Muzeul de istorie locală expune peste 3.000 de obiecte."],
       en: ["Tammisaari old town dates from the 17th century.", "It is located in the Uusimaa region of southern Finland.", "Most buildings are from the 18th and 19th centuries.", "The town received city rights in 1546.", "The population in the old town core is about 1,500.", "The local history museum displays over 3,000 objects."],
     },
+    image: "/poi-images/finland-tammisaari-old-town-history-v2.webp",
   },
   {
     id: "finland-lieto-vanhalinna-fort-history-v2",
@@ -256,6 +263,7 @@ export const finlandHistoryV2: POI[] = [
       ro: ["Altitudine relativă de 55 metri", "Locuită intermitent timp de 3000 ani", "Săpături arheologice extinse din 1957", "Acces pe poteci abrupte de piatră", "Controla drumul 'Hämeen Härkätie'", "Include un conac muzeu la bază"],
       en: ["Hill rises 55 meters above surroundings", "Inhabited since the Bronze Age", "Last fortified in the 1360s", "Located in the municipality of Lieto", "Archeological finds include silver coins", "Owned by the University of Turku"],
     },
+    image: "/poi-images/finland-lieto-vanhalinna-fort-history-v2.webp",
   },
   {
     id: "finland-hanko-front-museum-history-v2",
@@ -288,6 +296,7 @@ export const finlandHistoryV2: POI[] = [
       ro: ["Muzeul Frontului Hanko a fost deschis în 1995.", "Este găzduit într-o fostă baracă militară din anii 1940.", "Expoziția include peste 500 de exponate.", "Hanko a fost închiriat de Uniunea Sovietică între 1940 și 1941.", "Luptele au durat din iunie până în decembrie 1941.", "Peninsula are 22 km lungime și 2-6 km lățime."],
       en: ["The Hanko Front Museum opened in 1995.", "It is housed in a former military barracks from the 1940s.", "The exhibition includes over 500 artifacts.", "Hanko was leased to the Soviet Union from 1940 to 1941.", "The battles lasted from June to December 1941.", "The peninsula is 22 km long and 2 to 6 km wide."],
     },
+    image: "/poi-images/finland-hanko-front-museum-history-v2.webp",
   },
   {
     id: "finland-joutsa-church-history-v2",
@@ -320,6 +329,7 @@ export const finlandHistoryV2: POI[] = [
       ro: ["Biserica Joutsa a fost construită în 1921.", "A fost proiectată de Josef Stenbäck.", "Biserica are o capacitate de 400 de persoane.", "Turnul clopotniță separat a fost finalizat în 1925.", "Orga datează din 1930 și are 12 registre.", "Biserica are 28 de metri lungime și 14 metri lățime."],
       en: ["Joutsa Church was built in 1921.", "It was designed by Josef Stenbäck.", "The church seats 400 people.", "The separate bell tower was completed in 1925.", "The organ dates from 1930 with 12 registers.", "The church is 28 meters long and 14 meters wide."],
     },
+    image: "/poi-images/finland-joutsa-church-history-v2.webp",
   },
   {
     id: "finland-lappeenranta-old-town-hall-history-v2",
@@ -352,6 +362,7 @@ export const finlandHistoryV2: POI[] = [
       ro: ["Primăria veche din Lappeenranta a fost construită în 1829.", "A fost proiectată de Carl Ludvig Engel.", "Clădirea a servit ca primărie până în 1948.", "Din 1952 găzduiește muzeul orașului.", "Turnul clopotniță are o înălțime de 27 de metri.", "Muzeul deține peste 10.000 de exponate."],
       en: ["Lappeenranta Old Town Hall was built in 1829.", "It was designed by Carl Ludvig Engel.", "The building served as city hall until 1948.", "Since 1952 it houses the town museum.", "The bell tower is 27 meters high.", "The museum holds over 10,000 artifacts."],
     },
+    image: "/poi-images/finland-lappeenranta-old-town-hall-history-v2.webp",
   },
   {
     id: "finland-sotkamo-old-church-history-v2",
@@ -384,6 +395,7 @@ export const finlandHistoryV2: POI[] = [
       ro: ["Biserica veche Sotkamo a fost construită în 1761.", "Este una dintre cele mai vechi biserici de lemn din Finlanda.", "Biserica are o capacitate de 300 de persoane.", "Pictura altarului a fost realizată în 1768.", "Amvonul datează din perioada construcției și este bogat ornamentat.", "Turnul clopotniță a fost construit separat în 1869."],
       en: ["Sotkamo Old Church was built in 1761.", "It is one of the oldest wooden churches in Finland.", "The church seats 300 people.", "The altarpiece was painted in 1768.", "The pulpit dates from the construction period and is richly decorated.", "The bell tower was built separately in 1869."],
     },
+    image: "/poi-images/finland-sotkamo-old-church-history-v2.webp",
   },
   {
     id: "finland-pietarsaari-pedersore-church-history-v2",
@@ -416,6 +428,7 @@ export const finlandHistoryV2: POI[] = [
       ro: ["Biserica Pedersöre a fost construită în secolul al XIV-lea.", "Este cea mai veche biserică din regiunea Ostrobotnia.", "Turnul clopotniță separat a fost construit în 1770.", "Pictura altarului datează din 1665.", "Frescele interioare au fost pictate în jurul anului 1500.", "Biserica are 35 de metri lungime și 15 metri lățime."],
       en: ["Pedersöre Church was built in the 14th century.", "It is the oldest church in the Österbotten region.", "The separate bell tower was built in 1770.", "The altarpiece dates from 1665.", "The interior frescoes were painted around 1500.", "The church is 35 meters long and 15 meters wide."],
     },
+    image: "/poi-images/finland-pietarsaari-pedersore-church-history-v2.webp",
   },
   {
     id: "finland-porvoo-old-railway-station-history-v2",
@@ -448,6 +461,7 @@ export const finlandHistoryV2: POI[] = [
       ro: ["Anul construirii: 1874.", "Arhitect: Carl Albert Edelfelt.", "Traficul de pasageri a încetat în 1981.", "Lungimea clădirii: 30 m.", "Înălțimea sălii de așteptare: 5 m.", "Restaurată în 2000."],
       en: ["Built in 1874.", "Architect: Carl Albert Edelfelt.", "Passenger service ended in 1981.", "Building length: 30 m.", "Waiting room height: 5 m.", "Restored in 2000."],
     },
+    image: "/poi-images/finland-porvoo-old-railway-station-history-v2.webp",
   },
   {
     id: "finland-karkkila-fagerkulla-history-v2",
@@ -480,6 +494,7 @@ export const finlandHistoryV2: POI[] = [
       ro: ["Cartierul Fagerkulla datează de la mijlocul secolului al XIX-lea.", "Este situat în Karkkila, la aproximativ 60 km nord-vest de Helsinki.", "Ferma cuprinde 5 clădiri, toate protejate.", "Clădirile principale au fost construite în 1854.", "Muzeul a fost deschis în 1989.", "Suprafața totală a proprietății este de 2 hectare."],
       en: ["Fagerkulla Quarter dates from the mid-19th century.", "It is located in Karkkila, about 60 km northwest of Helsinki.", "The farm comprises 5 buildings, all protected.", "The main buildings were built in 1854.", "The museum opened in 1989.", "The total area of the estate is 2 hectares."],
     },
+    image: "/poi-images/finland-karkkila-fagerkulla-history-v2.webp",
   },
   {
     id: "finland-iitti-old-church-history-v2",
@@ -512,6 +527,7 @@ export const finlandHistoryV2: POI[] = [
       ro: ["Anul construcției: 1693", "Înălțimea turnului: aprox. 18 metri", "Capacitate de locuri: circa 250", "Lungimea navei: 22 metri", "Lățimea: 12 metri", "Unghiul acoperișului: 45 de grade"],
       en: ["Construction year: 1693", "Tower height: approx. 18 meters", "Seating capacity: about 250", "Nave length: 22 meters", "Width: 12 meters", "Roof pitch: 45 degrees"],
     },
+    image: "/poi-images/finland-iitti-old-church-history-v2.webp",
   },
   {
     id: "finland-mikkeli-headquarters-museum-history-v2",
@@ -544,6 +560,7 @@ export const finlandHistoryV2: POI[] = [
       ro: ["Anul deschiderii muzeului: 1990", "Suprafața clădirii: 1.200 metri pătrați", "Număr de săli de expoziție: 12", "Vizitatori anuali: aproximativ 30.000", "Anul construcției clădirii cartierului general: 1936", "Număr de piese de mobilier originale păstrate: peste 100"],
       en: ["Museum opening year: 1990", "Building area: 1,200 square meters", "Number of exhibition rooms: 12", "Annual visitors: approx. 30,000", "Headquarters building construction year: 1936", "Number of original preserved furniture pieces: over 100"],
     },
+    image: "/poi-images/finland-mikkeli-headquarters-museum-history-v2.webp",
   },
   {
     id: "finland-loviisa-bastion-history-v2",
@@ -576,6 +593,7 @@ export const finlandHistoryV2: POI[] = [
       ro: ["Construcția a început în 1748", "Proiectată de Augustin Ehrensvärd", "Bastioanele Ungern și Rosen sunt păstrate", "Orașul a fost redenumit în 1752"],
       en: ["Construction began in 1748", "Designed by Augustin Ehrensvärd", "The Ungern and Rosen bastions remain", "Renamed in 1752 after Queen Lovisa Ulrika"],
     },
+    image: "/poi-images/finland-loviisa-bastion-history-v2.webp",
   },
   {
     id: "finland-raasepori-ruins-history-v2",
@@ -608,6 +626,7 @@ export const finlandHistoryV2: POI[] = [
       ro: ["Construită în anii 1370", "Abandonată definitiv în anul 1553", "Restaurarea a început în 1890", "Situată inițial pe o insulă stâncoasă"],
       en: ["Built in the 1370s", "Abandoned as a fortress in 1553", "Restoration work started in 1890", "Originally situated on an island"],
     },
+    image: "/poi-images/finland-raasepori-ruins-history-v2.webp",
   },
   {
     id: "finland-forssa-spinning-mill-history-v2",
@@ -640,6 +659,7 @@ export const finlandHistoryV2: POI[] = [
       ro: ["Anul fondării: 1847", "Număr maxim de angajați: 1.300 (circa 1900)", "Lungimea complexului fabricii: 350 de metri", "Număr de clădiri: 12", "Diametrul roții de apă: 5,2 metri", "Anul încetării producției: 1967"],
       en: ["Founding year: 1847", "Peak employment: 1,300 (circa 1900)", "Total length of factory complex: 350 meters", "Number of buildings: 12", "Water wheel diameter: 5.2 meters", "Year production ended: 1967"],
     },
+    image: "/poi-images/finland-forssa-spinning-mill-history-v2.webp",
   },
   {
     id: "finland-kokkola-neristan-history-v2",
@@ -672,6 +692,7 @@ export const finlandHistoryV2: POI[] = [
       ro: ["Număr de case de lemn: 203", "Anul fondării cartierului: 1620", "Suprafață: 0,4 kilometri pătrați", "Anul mediu de construcție al caselor: 1800", "Lungimea străzii principale: 800 de metri", "Număr de clădiri protejate: 150"],
       en: ["Number of wooden houses: 203", "District founding year: 1620", "Area: 0.4 square kilometers", "Average house construction year: 1800", "Main street length: 800 meters", "Number of protected buildings: 150"],
     },
+    image: "/poi-images/finland-kokkola-neristan-history-v2.webp",
   },
   {
     id: "finland-tampere-finlayson-history-v2",
@@ -704,6 +725,7 @@ export const finlandHistoryV2: POI[] = [
       ro: ["Anul fondării: 1820", "Înălțimea coșului: 45 de metri", "Număr de clădiri: 15", "Suprafața terenului: 12 hectare", "Anul transformării: anii 1990", "Număr de angajați în anii 1870: 2.000"],
       en: ["Founding year: 1820", "Chimney height: 45 meters", "Number of buildings: 15", "Area of the site: 12 hectares", "Year of conversion: 1990s", "Workforce in the 1870s: 2,000"],
     },
+    image: "/poi-images/finland-tampere-finlayson-history-v2.webp",
   },
   {
     id: "finland-hameenlinna-castle-surroundings-history-v2",
@@ -736,6 +758,7 @@ export const finlandHistoryV2: POI[] = [
       ro: ["Începutul construcției castelului: 1260", "Înălțimea turnurilor castelului: 30 de metri", "Suprafața incintei castelului: 2 hectare", "Număr de parcuri: 3", "Lungimea zidului castelului: 150 de metri", "Anul remodelării împrejurimilor: 1890"],
       en: ["Castle construction started: 1260", "Castle tower height: 30 meters", "Castle area: 2 hectares", "Number of parks: 3", "Castle wall length: 150 meters", "Year of surroundings redesign: 1890"],
     },
+    image: "/poi-images/finland-hameenlinna-castle-surroundings-history-v2.webp",
   },
   {
     id: "finland-iisalmi-old-church-park-history-v2",
@@ -768,6 +791,7 @@ export const finlandHistoryV2: POI[] = [
       ro: ["Anul construcției bisericii: 1779", "Suprafața parcului: 1,5 hectare", "Număr de pietre funerare: 250", "Înălțimea turnului bisericii: 20 de metri", "Anul transformării în parc: 1932", "Vârsta celui mai bătrân copac: 200 de ani"],
       en: ["Church construction year: 1779", "Park area: 1.5 hectares", "Number of gravestones: 250", "Church tower height: 20 meters", "Year of conversion into park: 1932", "Oldest tree age: 200 years"],
     },
+    image: "/poi-images/finland-iisalmi-old-church-park-history-v2.webp",
   },
   {
     id: "finland-hamina-town-plan-history-v2",
@@ -800,6 +824,7 @@ export const finlandHistoryV2: POI[] = [
       ro: ["Anul planificării urbane: 1723", "Număr de străzi radiale: 6", "Suprafața pieței centrale: 0,5 hectare", "Lungimea fortificației: 1,5 kilometri", "Număr de bastioane: 4", "Diametrul modelului în stea: 1 kilometru"],
       en: ["Year of town planning: 1723", "Number of radial streets: 6", "Area of central square: 0.5 hectares", "Length of rampart: 1.5 kilometers", "Number of bastions: 4", "Diameter of star pattern: 1 kilometer"],
     },
+    image: "/poi-images/finland-hamina-town-plan-history-v2.webp",
   },
   {
     id: "finland-uukuniemi-church-history-v2",
@@ -832,6 +857,7 @@ export const finlandHistoryV2: POI[] = [
       ro: ["Anul construcției: 1788", "Înălțimea turnului clopotniță: 15 metri", "Capacitate de locuri: 300", "Lungimea navei: 20 de metri", "Lățimea: 10 metri", "Anul renovării: 1955"],
       en: ["Construction year: 1788", "Bell tower height: 15 meters", "Seating capacity: 300", "Nave length: 20 meters", "Width: 10 meters", "Renovation year: 1955"],
     },
+    image: "/poi-images/finland-uukuniemi-church-history-v2.webp",
   },
   {
     id: "finland-kuopio-museum-history-v2",
@@ -864,6 +890,7 @@ export const finlandHistoryV2: POI[] = [
       ro: ["Anul fondării: 1907", "Număr de obiecte în colecție: 32.000", "Anul construcției clădirii muzeului: 1912", "Număr de expoziții permanente: 5", "Vizitatori anuali: 25.000", "Suprafața sălilor de expoziție: 1.800 de metri pătrați"],
       en: ["Founding year: 1907", "Number of objects in collection: 32,000", "Construction year of museum building: 1912", "Number of permanent exhibitions: 5", "Annual visitors: 25,000", "Exhibition area: 1,800 square meters"],
     },
+    image: "/poi-images/finland-kuopio-museum-history-v2.webp",
   },
   {
     id: "finland-kajaani-church-history-v2",
@@ -896,6 +923,7 @@ export const finlandHistoryV2: POI[] = [
       ro: ["Anul construcției: 1896", "Înălțimea turnului: 42 de metri", "Capacitate de locuri: 1.100", "Lungimea navei: 35 de metri", "Lățimea: 18 metri", "Anul renovării: 1975"],
       en: ["Construction year: 1896", "Tower height: 42 meters", "Seating capacity: 1,100", "Nave length: 35 meters", "Width: 18 meters", "Renovation year: 1975"],
     },
+    image: "/poi-images/finland-kajaani-church-history-v2.webp",
   },
   {
     id: "finland-viitasaari-church-history-v2",
@@ -928,6 +956,7 @@ export const finlandHistoryV2: POI[] = [
       ro: ["Anul construcției: 1789", "Înălțimea turnului clopotniță: 12 metri", "Capacitate de locuri: 500", "Lungimea navei: 18 metri", "Lățimea: 9 metri", "Ani de renovare: 1855, 1928"],
       en: ["Construction year: 1789", "Bell tower height: 12 meters", "Seating capacity: 500", "Nave length: 18 meters", "Width: 9 meters", "Renovation years: 1855, 1928"],
     },
+    image: "/poi-images/finland-viitasaari-church-history-v2.webp",
   },
   {
     id: "finland-lapua-cathedral-history-v2",
@@ -960,6 +989,7 @@ export const finlandHistoryV2: POI[] = [
       ro: ["Anul finalizării: 1827", "Înălțimea cupolei: 25 de metri", "Capacitate de locuri: 1.500", "Lungimea navei: 40 de metri", "Lățimea: 22 de metri", "Anul renovării: 1975"],
       en: ["Year completed: 1827", "Dome height: 25 meters", "Seating capacity: 1,500", "Nave length: 40 meters", "Width: 22 meters", "Renovation year: 1975"],
     },
+    image: "/poi-images/finland-lapua-cathedral-history-v2.webp",
   },
   {
     id: "finland-naantali-convent-church-history-v2",
@@ -992,6 +1022,7 @@ export const finlandHistoryV2: POI[] = [
       ro: ["Construită în: secolul al XV-lea", "Lungimea navei: 30 de metri", "Lățimea: 12 metri", "Înălțimea bolții: 15 metri", "Număr de picturi murale medievale: 12", "Anul restaurării: 1880"],
       en: ["Built in: 15th century", "Nave length: 30 meters", "Width: 12 meters", "Vault height: 15 meters", "Number of medieval wall paintings: 12", "Restoration year: 1880"],
     },
+    image: "/poi-images/finland-naantali-convent-church-history-v2.webp",
   },
   {
     id: "finland-salo-old-church-history-v2",
@@ -1024,6 +1055,7 @@ export const finlandHistoryV2: POI[] = [
       ro: ["Anul construcției: 1832", "Înălțimea turnului clopotniță: 14 metri", "Capacitate de locuri: 600", "Lungime: 22 de metri", "Lățime: 11 metri", "Anul renovării: 1929"],
       en: ["Construction year: 1832", "Bell tower height: 14 meters", "Seating capacity: 600", "Length: 22 meters", "Width: 11 meters", "Renovation year: 1929"],
     },
+    image: "/poi-images/finland-salo-old-church-history-v2.webp",
   },
   {
     id: "finland-riihimaki-railway-museum-history-v2",
@@ -1056,6 +1088,7 @@ export const finlandHistoryV2: POI[] = [
       ro: ["Anul fondării: 1944", "Număr de locomotive: 60", "Număr de vagoane: 100", "Anul construcției clădirii muzeului: 1914", "Lungimea căii ferate a terenului expozițional: 1,5 kilometri", "Vizitatori anuali: 80.000"],
       en: ["Founding year: 1944", "Number of locomotives: 60", "Number of carriages: 100", "Construction year of museum building: 1914", "Track length of exhibition area: 1.5 kilometers", "Annual visitors: 80,000"],
     },
+    image: "/poi-images/finland-riihimaki-railway-museum-history-v2.webp",
   },
   {
     id: "finland-valkeakoski-mill-history-v2",
@@ -1088,5 +1121,6 @@ export const finlandHistoryV2: POI[] = [
       ro: ["Anul fondării: 1873", "Suprafața terenului: 15 hectare", "Număr de clădiri: 20", "Anul încetării producției: 2011", "Înălțimea celei mai înalte clădiri: 30 de metri", "Număr de angajați în 1950: 2.500"],
       en: ["Founding year: 1873", "Area of the site: 15 hectares", "Number of buildings: 20", "Year production ceased: 2011", "Height of tallest building: 30 meters", "Number of employees in 1950: 2,500"],
     },
+    image: "/poi-images/finland-valkeakoski-mill-history-v2.webp",
   }
 ];

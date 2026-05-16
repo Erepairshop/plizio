@@ -89,7 +89,8 @@ export const mexicoCities: POI[] = [
       en: ["Home of Mariachi music", "Second largest city in Mexico", "Famous for tequila", "Magnificent cathedral"]
     },
     elevation: 1566, historyYear: 1542, historyPeriod: "modern",
-    coords: [-103.3496, 20.6597], type: 'landmark', parent: 'MX'
+    coords: [-103.3496, 20.6597], type: 'landmark', parent: 'MX',
+    image: "/poi-images/mex_gua.webp",
   }
 ];
 

@@ -31,6 +31,7 @@ export const tuvaluCitiesV2: POI[] = [
       ro: ["Vaiaku găzduiește singurul hotel din Tuvalu, denumit Vaiaku Lagi Hotel.", "Localitatea este situată pe insula Fongafale din cadrul atolului Funafuti.", "În Vaiaku se află clădirea Guvernului și Parlamentul statului Tuvalu.", "Altitudinea maximă a satului este de aproximativ 2 metri deasupra mării.", "Aeroportul Internațional Funafuti se află la distanță de mers pe jos de sat.", "Vaiaku este centrul religios al bisericii congregaționaliste Church of Tuvalu."],
       en: ["Vaiaku is home to the Vaiaku Lagi Hotel, the only hotel in Tuvalu.", "The village is located on Fongafale islet within the Funafuti Atoll.", "All government offices and the national Parliament are situated in Vaiaku.", "The average elevation of the village is less than 2 meters above sea level.", "Funafuti International Airport is located immediately adjacent to Vaiaku.", "Vaiaku serves as the primary judicial and administrative hub for the nation."],
     },
+    image: "/poi-images/tuvalu-vaiaku-cities-v2.webp",
   },
   {
     id: "tuvalu-lolua-cities-v2",
@@ -62,6 +63,7 @@ export const tuvaluCitiesV2: POI[] = [
       ro: ["Lolua este reședința administrativă a celui mai nordic atol din Tuvalu, Nanumea.", "Populația locală folosește un dialect distinct al limbii tuvaluane.", "Biserica din Lolua este centrul simbolic și geografic al comunității.", "Sistemul social 'fatupaepae' este unic în lume și se practică doar aici.", "În timpul celui de-al Doilea Război Mondial, zona a servit ca bază aeriană SUA.", "Educația în sat este asigurată de Kaumaile Primary School."],
       en: ["Lolua is the administrative seat of Nanumea, Tuvalu's northernmost atoll.", "Residents of Lolua speak a distinct dialect of the Tuvaluan language.", "The church in Lolua is the largest and most prominent building on the islet.", "The fatupaepae system governs traditional social and economic relations.", "Nanumea hosted a U.S. military base during World War II near Lolua.", "The village is home to the Kaumaile Primary School for local children."],
     },
+    image: "/poi-images/tuvalu-lolua-cities-v2.webp",
   },
   {
     id: "tuvalu-tokelau-village-cities-v2",
@@ -93,6 +95,7 @@ export const tuvaluCitiesV2: POI[] = [
       ro: ["Tokelau este una dintre cele două așezări permanente de pe insula Nanumanga.", "Centrul social al satului este Falekaupule, casa de întruniri a comunității.", "Peșterile subacvatice din apropiere au fost explorate pentru prima dată în 1986.", "Pescuitul marin reprezintă baza securității alimentare pentru locuitorii din Tokelau.", "Satul dispune de o mică unitate de asistență medicală primară.", "Tradițiile orale din Tokelau menționează origini samoane și tongane."],
       en: ["Tokelau is one of only two villages on the reef island of Nanumanga.", "The Falekaupule hall in Tokelau is the seat of local island governance.", "The famous submerged Caves of Nanumanga are located near the village coast.", "The village relies heavily on traditional pulaka pits for food security.", "Deep-sea fishing is a major economic and subsistence activity for the residents.", "The community celebrates specific feast days with traditional music and dance."],
     },
+    image: "/poi-images/tuvalu-tokelau-village-cities-v2.webp",
   },
   {
     id: "tuvalu-kulia-cities-v2",
@@ -124,6 +127,7 @@ export const tuvaluCitiesV2: POI[] = [
       ro: ["Kulia este principala așezare de pe insula Niutao, fără lagună interioară.", "Consiliul bătrânilor din Kulia deține o autoritate morală și politică supremă.", "Locuitorii sunt experți în navigarea prin recifele periculoase ale insulei.", "Satul este echipat cu o școală primară și un centru de sănătate publică.", "Niutao este una dintre cele mai dens populate insule din regiunea centrală.", "Kulia a fost unul dintre centrele timpurii de evanghelizare din Tuvalu."],
       en: ["Kulia is the primary village on Niutao, a reef island without a central lagoon.", "The Falekaupule in Kulia acts as the center for local legislative decisions.", "Niutao residents speak a unique regional variant of the Tuvaluan language.", "The village relies on hand-dug pits for the cultivation of staple pulaka crops.", "Traditional canoe making is still a respected skill among men in Kulia.", "The settlement provides basic healthcare and education for the whole island."],
     },
+    image: "/poi-images/tuvalu-kulia-cities-v2.webp",
   },
   {
     id: "tuvalu-tanrake-cities-v2",
@@ -155,6 +159,7 @@ export const tuvaluCitiesV2: POI[] = [
       ro: ["Tanrake este singurul loc din Tuvalu unde se vorbește oficial limba gilberteză.", "Satul este situat pe Fenua Tapu, insula 'sfântă' a atolului Nui.", "Rădăcinile populației din Tanrake sunt legate de insula Tabiteuea din Kiribati.", "Laguna din jurul satului Tanrake este celebră pentru biodiversitatea sa marină.", "În sat funcționează Vaipua Primary School, singura școală de pe Nui.", "Administrația locală este asigurată de consiliul 'Kaupule' din Tanrake."],
       en: ["Tanrake residents speak a Kiribati-influenced dialect of Gilbertese.", "The village is located on Fenua Tapu islet, the largest in Nui Atoll.", "Tanrake was historically settled by migrants from the Gilbert Islands.", "Fishing and copra harvesting are the mainstays of the local economy.", "Tanrake is home to the Vaipua Primary School, serving the entire atoll.", "The village church is a key landmark and center of social life."],
     },
+    image: "/poi-images/tuvalu-tanrake-cities-v2.webp",
   },
   {
     id: "tuvalu-savave-cities-v2",
@@ -186,6 +191,7 @@ export const tuvaluCitiesV2: POI[] = [
       ro: ["Savave reprezintă singura așezare permanentă de pe cele 33 de insulițe ale atolului.", "Suprafața terestră a satului Savave este de aproximativ 0,16 km pătrați.", "În 1943, SUA au construit o pistă de aterizare și o bază navală pe atol.", "Școala primară Tutasi din Savave este singura instituție de învățământ de pe Nukufetau.", "Pescuitul de recif reprezintă sursa principală de proteine pentru săteni.", "Comunitatea din Savave este condusă de un consiliu local de tip Kaupule."],
       en: ["Savave is the sole inhabited islet among the 33 that make up Nukufetau Atoll.", "The total land area of Savave village is less than 0.2 square kilometers.", "In 1943, Nukufetau was a strategic U.S. military hub in the Pacific.", "Tutasi Primary School in Savave serves the educational needs of the atoll.", "Copra sales and remittances are the main sources of cash income for Savave.", "The village is known for its high-quality traditional weaving and handicrafts."],
     },
+    image: "/poi-images/tuvalu-savave-cities-v2.webp",
   },
   {
     id: "tuvalu-fangaua-cities-v2",
@@ -217,6 +223,7 @@ export const tuvaluCitiesV2: POI[] = [
       ro: ["Fangaua este singura insulă locuită din cele 15 care alcătuiesc atolul.", "Primul misionar creștin, Elekana, a sosit la Fangaua în mai 1861.", "Suprafața locuibilă a satului Fangaua este de aproximativ 22 de hectare.", "Numele Nukulaelae înseamnă 'țara nisipurilor' în limba tuvaluană.", "Fangaua deține o școală primară numită Faikimua Primary School.", "Principala provocare a satului este eroziunea costieră accelerată."],
       en: ["Fangaua is the only inhabited islet in the Nukulaelae Atoll chain.", "The first Christian missionary to Tuvalu landed at Fangaua in 1861.", "The village islet covers a total land area of approximately 0.22 square kilometers.", "Traditional Fatele dancing is a core part of festive celebrations in Fangaua.", "Faikimua Primary School provides education for all village children.", "Subsistence agriculture is centered on coconut and pulaka pit farming."],
     },
+    image: "/poi-images/tuvalu-fangaua-cities-v2.webp",
   },
   {
     id: "tuvalu-alapi-cities-v2",
@@ -248,6 +255,7 @@ export const tuvaluCitiesV2: POI[] = [
       ro: ["Alapi este una dintre cele mai dens populate zone din statul Tuvalu.", "Satul se află pe insula Fongafale, inima administrativă a țării.", "Se învecinează direct cu districtul guvernamental Vaiaku.", "Teritoriul satului cuprinde atât malul lagunei, cât și țărmul oceanului.", "Grupurile de dans Fatele din Alapi sunt considerate printre cele mai bune.", "Locuitorii beneficiază de întreaga infrastructură urbană a capitalei."],
       en: ["Alapi is among the most densely populated residential areas in Tuvalu.", "The village is located on Fongafale islet in the capital atoll of Funafuti.", "It is situated directly adjacent to the government center in Vaiaku.", "Alapi spans the width of the islet from the lagoon to the ocean side.", "Traditional Fatele dance groups from Alapi are famous nationwide.", "The village is a key participant in Funafuti's local community events."],
     },
+    image: "/poi-images/tuvalu-alapi-cities-v2.webp",
   },
   {
     id: "tuvalu-fakaifou-cities-v2",
@@ -279,6 +287,7 @@ export const tuvaluCitiesV2: POI[] = [
       ro: ["Fakaifou a fost creat special pentru a găzdui migranții de pe alte atoli.", "Localitatea ocupă partea de nord a zonei urbane a insulei Fongafale.", "Este una dintre cele mai compacte și aglomerate zone rezidențiale din Tuvalu.", "Inundațiile provocate de mareele înalte reprezintă o problemă constantă aici.", "Comunitatea are o structură de conducere locală foarte activă.", "Fakaifou este sediul mai multor biserici și asociații culturale insulare."],
       en: ["Fakaifou was originally established for settlers from outer Tuvaluan atolls.", "The village is located in the northern residential sector of Fongafale islet.", "It features some of the highest residential density in the entire country.", "Fakaifou is a primary area of concern for climate-induced tidal flooding.", "The village maintains a strong presence in the Funafuti Town Council.", "Fakaifou contains multiple 'Maneapas' (meeting houses) representing various islands."],
     },
+    image: "/poi-images/tuvalu-fakaifou-cities-v2.webp",
   },
   {
     id: "tuvalu-senala-cities-v2",
@@ -310,6 +319,7 @@ export const tuvaluCitiesV2: POI[] = [
       ro: ["Situat pe insula principală Fongafale din atolul Funafuti.", "Parte integrantă a zonei capitalei statului Tuvalu.", "Altitudinea medie este de aproximativ 1,5 - 2 metri.", "Guvernat de consiliul local cunoscut sub numele de Kaupule.", "Sursă importantă de forță de muncă pentru serviciile publice.", "Vulnerabil la inundațiile provocate de mareele de primăvară."],
       en: ["Located on the islet of Fongafale in the Funafuti atoll.", "Serves as a key residential district within the capital.", "Average elevation is extremely low, often below 2 meters.", "Administered by the local government, the Funafuti Kaupule.", "Home to a significant portion of the capital's population.", "Features traditional Tuvaluan meeting houses called maneapas."],
     },
+    image: "/poi-images/tuvalu-senala-cities-v2.webp",
   },
   {
     id: "tuvalu-teone-cities-v2",
@@ -341,6 +351,7 @@ export const tuvaluCitiesV2: POI[] = [
       ro: ["Găzduiește principalele rezervoare de combustibil ale țării.", "Situat pe insula Fongafale din cadrul atolului Funafuti.", "Biserica din Teone este un punct de referință spiritual.", "Centru logistic vital pentru distribuția resurselor în capitală.", "Zona este extrem de îngustă, fiind vulnerabilă la eroziune.", "Populația este compusă din locuitori proveniți din tot arhipelagul."],
       en: ["Home to Tuvalu's primary bulk fuel storage facility.", "Located in the central part of Fongafale islet, Funafuti.", "Features the Teone Church, a major community landmark.", "Vital for the nation's energy security and distribution.", "Highly vulnerable to coastal flooding during high tides.", "Reflects the rapid urbanization of Tuvalu's capital since 1978."],
     },
+    image: "/poi-images/tuvalu-teone-cities-v2.webp",
   },
   {
     id: "tuvalu-lofeagai-cities-v2",
@@ -372,6 +383,7 @@ export const tuvaluCitiesV2: POI[] = [
       ro: ["Situat la extremitatea nordică a insulei principale Fongafale.", "Zonă de expansiune urbană majoră pentru capitala Vaiaku.", "Aproape de Aria de Conservare Funafuti (FCA).", "Beneficiază de proiecte internaționale de protecție a coastei.", "Infrastructura rutieră leagă zona de aeroport și port.", "Sursă importantă de date pentru studiul eroziunii costiere."],
       en: ["Positioned at the northern edge of Fongafale islet.", "Key residential growth area for the expanding capital.", "Located near the Funafuti Conservation Area (FCA).", "Site of significant land reclamation and seawall projects.", "Connected to central Funafuti by the island's main road.", "Maintains strong links to traditional lagoon fishing practices."],
     },
+    image: "/poi-images/tuvalu-lofeagai-cities-v2.webp",
   },
   {
     id: "tuvalu-niulakita-cities-v2",
@@ -403,6 +415,7 @@ export const tuvaluCitiesV2: POI[] = [
       ro: ["Cea mai sudică insulă locuită a arhipelagului Tuvalu.", "Suprafața totală este de aproximativ 40 de hectare.", "Este o insulă de corali solidă, fără lagună interioară.", "Colonizată în 1949 de locuitori din insula Niutao.", "Accesul este dificil din cauza lipsei unui port amenajat.", "Solul este mult mai fertil decât pe celelalte insule ale țării."],
       en: ["The southernmost inhabited island in Tuvalu.", "Total land area is approximately 0.4 square kilometers.", "Unlike other islands, it is a single island with no lagoon.", "Permanently settled in 1949 by people from Niutao.", "Lacks a natural harbor, making boat access challenging.", "Highest point is about 4.6 meters above sea level."],
     },
+    image: "/poi-images/tuvalu-niulakita-cities-v2.webp",
   },
   {
     id: "tuvalu-amatuku-cities-v2",
@@ -434,5 +447,6 @@ export const tuvaluCitiesV2: POI[] = [
       ro: ["Găzduiește Institutul de Instruire Maritimă din Tuvalu.", "Fondat în 1978 pentru a pregăti forță de muncă calificată.", "Situat în nordul atolului Funafuti, separat de insula principală.", "Include facilități de simulare a condițiilor de pe mare.", "Remitențele marinarilor formați aici sunt vitale pentru PIB.", "Accesul se realizează exclusiv cu ambarcațiuni de la Vaiaku."],
       en: ["Home to the Tuvalu Maritime Training Institute (TMTI).", "Established in 1978 to train international merchant seafarers.", "Located on an isolated islet in the northern Funafuti lagoon.", "Graduates provide a major source of foreign remittances.", "Features specialized workshops and maritime simulators.", "Critical site for national human resource development."],
     },
+    image: "/poi-images/tuvalu-amatuku-cities-v2.webp",
   }
 ];

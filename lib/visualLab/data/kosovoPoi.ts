@@ -120,7 +120,8 @@ export const kosovoPois: POI[] = [
         "The monastery houses a precious treasury of icons and manuscripts spanning centuries.",
         "It remains a continuously active monastic site with a history of sustainable agriculture."
       ]
-    }
+    },
+    image: "/poi-images/xk-decan.webp",
   },
   {
     id: "xk-decan-mountains", type: "landmark", parent: "XK-001", coords: [20.20, 42.53],
@@ -167,6 +168,7 @@ export const kosovoPois: POI[] = [
       ro: ["Marele Bazar din Gjakova are o lungime de circa 1 km și sute de spații comerciale.", "Moscheea Hadum a fost construită în anul 1594 de către Hadum Suleiman Aga.", "Orașul Gjakova este traversat de râul Erenik în partea de vest a Kosovo.", "În oraș se află mai multe 'kulla' (case-turn din piatră) tradiționale conservate.", "Podul Terzi din apropiere este cel mai lung pod otoman conservat din Kosovo.", "Gjakova este considerat centrul spiritual al ordinului sufit Bektashi din regiune."],
       en: ["The Grand Bazaar of Gjakova is approximately 1 kilometer long with hundreds of shops.", "The Hadum Mosque was built in 1594 by order of Hadum Suleiman Aga.", "Gjakova is located on the banks of the Erenik River in western Kosovo.", "The city features several well-preserved 'Kullas' (traditional stone tower houses).", "The Terzi Bridge near Gjakova is the longest Ottoman bridge in Kosovo.", "Gjakova is known as the spiritual center for the Bektashi Sufi order in the region."],
     },
+    image: "/poi-images/xk-gjakova.webp",
   },
   {
     id: "xk-hadum-mosque", type: "historical", parent: "XK-002", coords: [20.42, 42.38],
@@ -213,6 +215,7 @@ export const kosovoPois: POI[] = [
       ro: ["Municipalitatea cuprinde un număr de 35 de sate situate în zone montane înalte.", "Brânza de Sharr este maturată în peșteri montane folosind metode neschimbate de secole.", "Altitudinea medie a localității Dragash depășește 1000 de metri peste nivelul mării.", "Regiunea este unul dintre puținele habitate rămase pentru râsul balcanic, specie pe cale de dispariție.", "Munții Sharr adăpostesc peste 2000 de specii de plante vasculare identificate.", "Vârful Bistra, situat în apropiere, atinge o înălțime de 2640 de metri."],
       en: ["The municipality consists of 35 villages located in extreme high-altitude mountain terrain.", "Sharr cheese has been produced using traditional mountain aging methods for centuries.", "Dragash is situated at an average elevation of over 1,000 meters above sea level.", "The region is a habitat for rare species including the Balkan lynx and brown bear.", "The Sharr Mountains are home to more than 2,000 different plant species.", "Bistra Peak reaches an elevation of 2,640 meters near the municipal boundaries."],
     },
+    image: "/poi-images/xk-dragash.webp",
   },
   {
     id: "xk-restelica", type: "city", parent: "XK-003", coords: [20.67, 41.94],
@@ -259,6 +262,7 @@ export const kosovoPois: POI[] = [
       ro: ["Moscheea Sinan Pașa deține cel mai înalt minaret de pe teritoriul Kosovo.", "Podul de Piatră (Ura e Gurit) a fost construit inițial în secolul al XV-lea.", "Prizren este singura municipalitate unde turca și bosniaca sunt limbi oficiale locale.", "Catedrala Maicii Domnului din Ljeviš a fost ridicată pe fundațiile unei bazilici bizantine.", "Festivalul Dokufest atrage anual peste 10.000 de spectatori și turiști.", "Sediul Ligii de la Prizren a fost reconstruit după distrugerile din timpul conflictului din 1999."],
       en: ["The Sinan Pasha Mosque features the highest minaret in Kosovo.", "The Stone Bridge (Ura e Gurit) originally dates back to the 15th century.", "Turkish and Bosnian are recognized as official languages alongside Albanian in Prizren.", "The Our Lady of Ljeviš Church contains significant 14th-century frescoes.", "The Dokufest international film festival was established in 2002.", "The city contains more than 20 historic mosques and several important monasteries."],
     },
+    image: "/poi-images/xk-prizren.webp",
   },
   {
     id: "xk-kalaja-prizren", type: "historical", parent: "XK-004", coords: [20.74, 42.21],
@@ -305,6 +309,7 @@ export const kosovoPois: POI[] = [
       ro: ["Numele orașului Gjilan provine de la familia Gjinolli, fondatorii localității.", "Orașul a fost parțial afectat de un cutremur în anul 2000, fiind ulterior reconstruit.", "Gjilan are una dintre cele mai tinere populații din rândul orașelor kosovare.", "Stațiunea termală Banja e Kllokotit se află în imediata vecinătate a orașului.", "Regiunea Gjilan este cunoscută pentru varietatea mare de produse lactate artizanale.", "Universitatea Publică din Gjilan a fost înființată oficial în anul 2013."],
       en: ["Gjilan was named after the Gjinolli family who established the settlement.", "The city experienced a significant earthquake in 2000 but was rapidly rebuilt.", "Gjilan boasts one of the youngest population demographics in Kosovo.", "The Banja e Kllokotit thermal baths are located in the vicinity of the city.", "The climate in Gjilan is temperate continental, characterized by warm summers.", "The city is home to the Public University 'Kadri Zeka', founded in 2013."],
     },
+    image: "/poi-images/xk-gjilan.webp",
   },
   {
     id: "xk-pogragja-castle", type: "historical", parent: "XK-005", coords: [21.58, 42.42],
@@ -328,6 +333,7 @@ export const kosovoPois: POI[] = [
       ro: ["Fortificația este situată la o altitudine de 567 de metri deasupra nivelului mării.", "Poarta principală de acces era amplasată pe latura de nord-vest a complexului.", "Arheologii au descoperit la fața locului fragmente ceramice ilire și romane.", "În anumite secțiuni, zidurile cetății se păstrează pe o înălțime de până la 4 metri.", "Castelul controla punctele de trecere peste râul Binačka Morava.", "Situl este inclus pe lista monumentelor protejate de Ministerul Culturii din Kosovo."],
       en: ["The fortress is situated at an elevation of 567 meters above sea level.", "The main entrance gate was located on the northwestern side of the complex.", "Archaeologists discovered Illyrian and Roman pottery fragments at the site.", "In some sections, the walls are still preserved up to a height of 4 meters.", "The castle controlled the strategic access to the Binačka Morava Gorge.", "It is part of the extensive network of fortifications built or restored by Justinian I."],
     },
+    image: "/poi-images/xk-pogragja-castle.webp",
   }
 ];
 
