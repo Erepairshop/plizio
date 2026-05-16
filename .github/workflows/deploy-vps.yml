@@ -65,6 +65,14 @@ jobs:
           echo "POI HTML count: $COUNT"
           test "$COUNT" -gt 100000
 
+      - name: Force sitemap.xml index into out/ (Next 16 export omits it)
+        run: |
+          set -euo pipefail
+          cp public/sitemap.xml out/sitemap.xml
+          test -f out/sitemap.xml
+          test -s out/sitemap.xml
+          head -3 out/sitemap.xml
+
       - name: Atomic static release + nginx reload
         run: |
           set -euo pipefail
