@@ -242,15 +242,31 @@ export const InteractiveMap = ({
     const cc = countryData.countryId;
     const base = countryData.pois;
     if (!v2Extras || v2Extras.length === 0) return base;
-    const seen = new Set<string>(base.map((p) => p.id).filter(Boolean) as string[]);
+    const seenIds = new Set<string>(base.map((p) => p.id).filter(Boolean) as string[]);
+    // Coord-bucket dedup (~50m): catches same-place-different-id duplicates between V1 and V2.
+    const coordKey = (p: POI): string | null => {
+      const c = (p as { coords?: [number, number] }).coords
+        ?? ((p as { coordinates?: { lat: number; lng: number } }).coordinates
+            ? [(p as any).coordinates.lng, (p as any).coordinates.lat] : null);
+      if (!c || c.length < 2 || typeof c[0] !== "number" || typeof c[1] !== "number") return null;
+      return `${Math.round(c[1] / 0.0005)}:${Math.round(c[0] / 0.0005)}`;
+    };
+    const seenCoords = new Set<string>();
+    for (const p of base) {
+      if (p?.type === "region" || p?.type === "country") continue;
+      const k = coordKey(p);
+      if (k) seenCoords.add(k);
+    }
     const extras: POI[] = [];
     for (const p of v2Extras) {
-      if (!p || !p.id || seen.has(p.id)) continue;
+      if (!p || !p.id || seenIds.has(p.id)) continue;
       const parent = p.parent || "";
-      if (parent === cc || parent.startsWith(cc + "-")) {
-        extras.push(p);
-        seen.add(p.id);
-      }
+      if (parent !== cc && !parent.startsWith(cc + "-")) continue;
+      const k = coordKey(p);
+      if (k && seenCoords.has(k)) continue;
+      extras.push(p);
+      seenIds.add(p.id);
+      if (k) seenCoords.add(k);
     }
     return extras.length > 0 ? base.concat(extras) : base;
   }, [countryData, v2Extras]);
