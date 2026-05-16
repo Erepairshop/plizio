@@ -460,8 +460,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       hu: ["Gyümölcsös terület: 3.000 hektár.", "Éves gyümölcstermelés: több mint 50.000 tonna.", "Az őszibarack a termelés 40%-át teszi ki.", "20 hűtőház a régióban.", "Exportérték: 20 millió euró évente.", "Szezonális munkaerő: 2.000 fő."],
       ro: ["Suprafața livezilor: 3.000 de hectare.", "Producție anuală de fructe: peste 50.000 de tone.", "Piersicile reprezintă 40% din producție.", "20 de depozite frigorifice.", "Valoarea exporturilor: 20 de milioane de euro anual.", "Forță de muncă sezonieră: 2.000 de muncitori."],
       en: ["Orchard area: 3,000 hectares.", "Annual fruit production: over 50,000 tons.", "Peaches account for 40% of production.", "20 cold storage facilities.", "Export value: €20 million annually.", "Seasonal workforce: 2,000 workers."],
-    },
-  },
+    }, image: "/poi-images/northmacedonia-negotino-orchard-region-economic-v2.webp"},
   {
     id: "northmacedonia-kratovo-mining-heritage-economic-v2",
     type: "mine",

@@ -446,8 +446,7 @@ export const mauritaniaEconomicV2: POI[] = [
       hu: ["Régió lakossága: kb. 500 000 (2013)", "Termőterület: 100 000 ha (ebből 20 000 öntözött)", "Fő termény: rizs (az ország termelésének 50%-a)", "Öntözőcsatornák hossza: 400 km", "Állatállomány: 1,2 millió (szarvasmarha és kecske)", "Átlagos csapadékmennyiség: 200-400 mm/év"],
       ro: ["Populația regiunii: aprox. 500.000 (2013)", "Suprafață cultivată: 100.000 ha (20.000 irigate)", "Principalul produs: orez (50% din producția națională)", "Lungimea canalelor de irigație: 400 km", "Efective de animale: 1,2 milioane capete", "Precipitații medii: 200-400 mm/an"],
       en: ["Regional population: approx. 500,000 (2013)", "Cultivated area: 100,000 hectares (20,000 irrigated)", "Primary product: rice (50% of national production)", "Length of irrigation canals: 400 km (249 mi)", "Livestock count: 1.2 million (cattle and goats)", "Average annual rainfall: 200-400 mm"],
-    },
-  },
+    }, image: "/poi-images/mauritania-trarza-agro-economic-v2.webp"},
   {
     id: "mauritania-nema-market-economic-v2",
     type: "city",
