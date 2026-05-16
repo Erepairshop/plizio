@@ -113,61 +113,7 @@ export const poiExtraDe4b: POI[] = [
       en: ["Constructed on over 3.5 million oak piles", "UNESCO World Heritage site since 2015", "Total area of approximately 26 hectares in the port", "Construction period spanned from 1883 to 1927", "Home to the world's largest model railway museum", "Length of the warehouse complex is about 1.5 km"],
     }, image: "/poi-images/historical-speicherstadt-hh-extra.webp"},
 
-  {
-    id: "port-hamburger-hafen-extra",
-    type: "port",
-    parent: "DE-HH",
-    coords: [9.9600, 53.5380],
-    name: { de: "Hamburger Hafen", hu: "Hamburgi kikötő", ro: "Portul Hamburg", en: "Port of Hamburg" },
-    description: {
-      de: "Der Hamburger Hafen ist der drittgrößte Containerhafen Europas und das wirtschaftliche Herzstück der Stadt, gelegen an der Tideelbe.",
-      hu: "A hamburgi kikötő Európa harmadik legnagyobb konténerkikötője és a város gazdasági magja, amely az ár-apály hatásának kitett Elbán helyezkedik el.",
-      ro: "Portul Hamburg este al treilea port de containere ca mărime din Europa și nucleul economic al orașului, situat pe Elba cu maree.",
-      en: "The Port of Hamburg is Europe's third-largest container port and the city's economic heartbeat, located on the tidal Elbe.",
-    },
-    facts: {
-      de: [
-        "Gegründet im Jahr 1189, hat er über 830 Jahre Geschichte.",
-        "Jährlich werden rund 130 Millionen Tonnen Güter umgeschlagen.",
-        "Der Hafen beschäftigt direkt und indirekt über 150.000 Menschen.",
-        "Das Hamburger Hafengeburtstag ist das weltgrößte Hafenfest.",
-        "Hamburg gilt als 'Tor zur Welt' aufgrund seiner globalen Handelsverbindungen.",
-      ],
-      hu: [
-        "1189-ben alapítva, több mint 830 év történelemmel rendelkezik.",
-        "Évente körülbelül 130 millió tonna árut kezelnek itt.",
-        "A kikötő közvetve és közvetlenül több mint 150 000 embert foglalkoztat.",
-        "A Hamburger Hafengeburtstag a világ legnagyobb kikötőfesztiválja.",
-        "Hamburg 'a világ kapujaként' ismert globális kereskedelmi kapcsolatai miatt.",
-      ],
-      ro: [
-        "Fondat în 1189, are o istorie de peste 830 de ani.",
-        "Anual se manipulează circa 130 de milioane de tone de mărfuri.",
-        "Portul angajează direct și indirect peste 150.000 de oameni.",
-        "Hamburger Hafengeburtstag este cel mai mare festival portuor din lume.",
-        "Hamburg este cunoscut drept 'Poarta către lume' datorită legăturilor comerciale globale.",
-      ],
-      en: [
-        "Founded in 1189, it has over 830 years of history.",
-        "Around 130 million tonnes of goods are handled annually.",
-        "The port employs over 150,000 people directly and indirectly.",
-        "The Hamburger Hafengeburtstag is the world's largest port festival.",
-        "Hamburg is known as 'Gateway to the World' for its global trade links.",
-      ],
-    },
-    descriptionAdvanced: {
-      de: "Der Hamburger Hafen gilt als das 'Tor zur Welt' und ist der größte Seehafen Deutschlands sowie der drittgrößte in Europa. Gegründet wurde er offiziell am 7. Mai 1189 durch einen Freibrief von Kaiser Friedrich Barbarossa, was jährlich mit dem Hafengeburtstag gefeiert wird. Das Hafengebiet erstreckt sich über rund 7.200 Hektar, was etwa zehn Prozent der gesamten Stadtfläche Hamburgs entspricht. Der Hafen ist ein bedeutender Containerumschlagplatz und ein zentraler Knotenpunkt für den internationalen Warenhandel, insbesondere mit Asien. Neben dem Containerumschlag spielen die Kreuzschifffahrt und der Umschlag von Massengütern eine wesentliche Rolle für die regionale Wirtschaft. Die tideabhängige Elbe stellt mit ihrer Fahrrinne eine ständige Herausforderung für die Anlaufbarkeit modernster Megaschiffe dar. Der Hafen ist nicht nur ein Industriestandort, sondern mit den Landungsbrücken und der angrenzenden Speicherstadt auch ein Hauptanziehungspunkt für Millionen von Touristen. Über 150.000 Arbeitsplätze hängen in der Metropolregion direkt oder indirekt vom Hafenbetrieb ab.",
-      hu: "A hamburgi kikötő Németország legnagyobb tengeri kikötője és Európa harmadik legjelentősebb áruforgalmi csomópontja, amelyet gyakran 'a világ kapujaként' emlegetnek. Hivatalos alapítási dátuma 1189. május 7., amikor Barbarossa Frigyes császár mentességi okiratot adott a városnak, ezt az eseményt minden évben nagyszabású ünnepséggel emlékeznek meg. A kikötői terület mintegy 7200 hektáron terül el, ami Hamburg teljes területének körülbelül tíz százalékát teszi ki. A kikötő meghatározó konténerátrakó hely és a nemzetközi árukereskedelem központi csomópontja, különös tekintettel az Ázsiával folytatott forgalomra. A konténerszállítás mellett a luxushajózás és az ömlesztett áruk átrakodása is alapvető szerepet játszik a régió gazdasági életében. Az apály-dagály ciklusnak kitett Elba folyó hajózási útvonala állandó kihívást jelent a legmodernebb óriáshajók fogadása szempontjából. A kikötő nem csupán ipari terület, hanem a Landungsbrücken és a szomszédos raktárváros révén turisták millióinak elsődleges célpontja is. A metropolisz régióban több mint 150 000 munkahely függ közvetlenül vagy közvetve a kikötő működésétől.",
-      ro: "Portul Hamburg este cunoscut drept 'poarta către lume' și este cel mai mare port maritim din Germania, fiind totodată al treilea ca mărime din Europa. A fost fondat oficial la 7 mai 1189 printr-o cartă eliberată de împăratul Friedrich Barbarossa, eveniment sărbătorit anual cu mare fast. Zona portuară se întinde pe aproximativ 7.200 de hectare, ceea ce reprezintă circa zece la sută din suprafața totală a orașului Hamburg. Portul este un centru major de transbordare a containerelor și un nod central pentru comerțul internațional de mărfuri, în special cu Asia. Pe lângă transportul de containere, croazierele și transbordarea mărfurilor în vrac joacă un rol esențial în economia regională. Râul Elba, dependent de maree, reprezintă o provocare constantă pentru accesibilitatea celor mai moderne nave gigant din cauza adâncimii canalului navigabil. Portul nu este doar un amplasament industrial, ci și un magnet turistic principal, datorită zonei Landungsbrücken și a cartierului istoric Speicherstadt. Peste 150.000 de locuri de muncă din regiunea metropolitană depind direct sau indirect de activitățile portuare.",
-      en: "The Port of Hamburg is known as the 'Gateway to the World' and is the largest seaport in Germany and the third largest in Europe. It was officially founded on May 7, 1189, through a charter granted by Emperor Frederick Barbarossa, an event celebrated annually during the Port Anniversary. The port area covers approximately 7,200 hectares, accounting for about ten percent of Hamburg's total city area. The port is a significant container transshipment hub and a central junction for international trade, particularly with Asia. Beyond container handling, cruise shipping and the transshipment of bulk goods play an essential role in the regional economy. The tidal Elbe River presents a constant challenge for the accessibility of modern mega-ships due to the required depth of its navigation channel. The port is not only an industrial site but also a major attraction for millions of tourists, centered around the Landungsbrücken and the adjacent Speicherstadt. More than 150,000 jobs in the metropolitan region depend directly or indirectly on the port's operations.",
-    },
-    factsAdvanced: {
-      de: ["Offizielles Gründungsdatum am 7. Mai 1189", "Gesamtfläche umfasst etwa 7.200 Hektar", "Drittgrößter Containerhafen auf dem europäischen Kontinent", "Jährlicher Umschlag von ca. 9 Millionen TEU", "Über 300 Liegeplätze für Seeschiffe vorhanden", "Hafengeburtstag ist das größte Hafenfest der Welt"],
-      hu: ["Hivatalos alapítási dátuma 1189. május 7.", "A teljes terület körülbelül 7200 hektár", "Európa harmadik legnagyobb konténerkikötője", "Éves forgalma kb. 9 millió TEU konténer", "Több mint 300 kikötőhely tengerjáró hajók számára", "A kikötő születésnapja a világ legnagyobb kikötői ünnepe"],
-      ro: ["Data oficială de fondare este 7 mai 1189", "Suprafața totală cuprinde aproximativ 7.200 hectare", "Al treilea port de containere ca mărime din Europa", "Transbordare anuală de cca. 9 milioane TEU", "Există peste 300 de dane pentru nave maritime", "Ziua Portului este cel mai mare festival portuar din lume"],
-      en: ["Official founding date is May 7, 1189", "Total area covers approximately 7,200 hectares", "Third largest container port on the European continent", "Annual transshipment of approx. 9 million TEU", "Over 300 berths available for seagoing vessels", "Port Anniversary is the world's largest port festival"],
-    }, image: "/poi-images/port-hamburger-hafen-extra.webp"},
-
+  
   {
     id: "historical-rathaus-hamburg-extra",
     type: "historical",

@@ -1398,44 +1398,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       ro: ["Situl din Warnemünde deține unul dintre cele mai mari docuri uscate din Europa.", "Regiunea a produs peste 1.000 de nave de diverse tipuri în ultimul secol.", "Macaraua portal a șantierului este un punct de reper vizibil de la mulți kilometri distanță.", "S-a specializat recent în platforme de înaltă tensiune pentru colectarea energiei eoliene marine.", "Șantierul a fost un punct central al producției de serie a navelor tip 'Liberty' în era RDG.", "Locația beneficiază de acces direct la ape adânci, facilitând lansarea navelor mari."],
       en: ["Features one of the largest covered shipbuilding halls in Europe.", "Historically a center for the GDR's large-scale merchant shipbuilding.", "Capable of building ships up to 340 meters in length.", "The Rostock yard is a key hub for offshore wind energy technology.", "Located at the mouth of the Warnow river in Rostock-Warnemünde.", "A critical industrial employer for the Mecklenburg-Vorpommern region."]
     }, image: "/poi-images/industry-mv-werften-rostock-extra.webp"},
-  {
-    id: "port-rostock-extra",
-    type: "port",
-    parent: "DE-MV",
-    coords: [12.112, 54.148],
-    name: { de: "Seehafen Rostock", hu: "Rostocki tengeri kikötő", ro: "Portul maritim Rostock", en: "Port of Rostock" },
-    description: {
-      de: "Größter deutscher Ostseehafen, ein zentraler Knotenpunkt für den Fährverkehr und Güterumschlag.",
-      hu: "Németország legnagyobb balti-tengeri kikötője, a kompforgalom és az áruforgalom központi csomópontja.",
-      ro: "Cel mai mare port german la Marea Baltică, un nod central pentru traficul de feriboturi și mărfuri.",
-      en: "The largest German port on the Baltic Sea, a major hub for ferry traffic and cargo handling."
-    },
-    facts: {
-      de: ["Wichtigster Hafen für Skandinavien-Verkehr.", "Großes Terminal für Kreuzfahrtschiffe.", "Umschlag von Massengut und Containern.", "Tiefwasserhafen mit guter Anbindung."],
-      hu: ["A skandináv forgalom legfontosabb kikötője.", "Nagy terminál üdülőhajók számára.", "Ömlesztett áruk és konténerek rakodása.", "Mélyvízi kikötő jó összeköttetésekkel."],
-      ro: ["Cel mai important port pentru traficul spre Scandinavia.", "Terminal mare pentru nave de croazieră.", "Transbordare de mărfuri în vrac și containere.", "Port de adâncime cu legături bune."],
-      en: ["Key port for traffic to and from Scandinavia.", "Includes a major terminal for cruise ships.", "Handles bulk goods and container shipments.", "A deep-water port with excellent connectivity."]
-    },
-    descriptionAdvanced: {
-      de: "Der Seehafen Rostock ist der größte und bedeutendste deutsche Ostseehafen und ein zentraler Knotenpunkt für den Verkehr mit Skandinavien, dem Baltikum und Südeuropa. Durch seine Lage an der Warnow-Mündung bietet er hervorragende nautische Bedingungen mit einer tiefen Fahrrinne für große Fähr- und Frachtschiffe. Der Hafen ist Marktführer im Fährverkehr auf der deutschen Ostsee und ein wichtiger Standort für den Umschlag von Massengütern wie Getreide, Öl und Papier. In den letzten Jahren hat sich Rostock zudem zum bedeutendsten deutschen Kreuzfahrthafen entwickelt. Als moderner Logistikstandort verknüpft er den Seeweg effizient mit Schiene und Straße. Geographie K7 – Hafenwirtschaft und internationale Handelsbeziehungen.",
-      hu: "A(z) Seehafen Rostock egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Seehafen Rostock ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "Portul Rostock este singurul port de ape adânci din estul Germaniei și unul dintre cele mai versatile noduri logistice de la Marea Baltică. Situat la vărsarea râului Warnow, portul se remarcă prin facilitățile sale pentru transportul de mărfuri vrac, petrol și containere, dar mai ales prin succesul său în turismul de croazieră. Warnemünde, avanportul orașului Rostock, este cea mai populară destinație de croazieră din Germania, primind anual sute de nave de pasageri din întreaga lume. Cu o infrastructură modernă și o conexiune feroviară excelentă către Berlin, portul Rostock este un pilon economic vital pentru landul Mecklenburg-Vorpommern și un motor al cooperării economice nord-europene. Geografie K7 – Infrastructura portuară și turismul maritim.",
-      en: "Rostock Port is the largest and most important German port on the Baltic Sea, serving as a vital gateway for trade between Central Europe and Scandinavia, the Baltics, and beyond. Its deep-water access and strategic location make it a premier hub for ferry and RoRo (Roll-on/Roll-off) traffic, with daily connections to Gedser and Trelleborg. Beyond passenger ferries, the port is a major center for the handling of bulk goods, grain, and heavy-lift cargo, such as giant wind turbine components. Rostock's port is also one of the most popular cruise destinations in Germany, welcoming hundreds of thousands of international tourists to the picturesque seaside resort of Warnemünde every summer. It is a dynamic engine for regional growth and a symbol of Rostock's Hanseatic heritage. Földrajz K7 – Maritime trade and Baltic Sea logistics."
-    },
-    factsAdvanced: {
-      de: ["Größter deutscher Hafen an der Ostsee mit tiefen Fahrrinnen.", "Marktführer im Fährverkehr mit Verbindungen nach Gedser und Trelleborg.", "Bedeutendster Kreuzfahrthafen Deutschlands (Warnemünde Cruise Center).", "Umschlag von rund 28 Millionen Tonnen Gütern pro Jahr.", "Besitzt eines der größten Getreideterminals an der Ostseeküste.", "Wichtiger Hub für den kombinierten Ladungsverkehr (Schiene/See)."],
-      hu: [
-        "A(z) Seehafen Rostock területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Seehafen Rostock tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
-        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
-        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
-      ],
-      ro: ["Portul poate primi nave cu un pescaj de până la 14,5 metri.", "Găzduiește Warnemünde Cruise Center, unul dintre cele mai moderne terminale de pasageri.", "Este un hub major pentru traficul de feriboturi către Danemarca (Gedser) și Suedia (Trelleborg).", "Regiunea găzduiește și un important șantier naval pentru platforme eoliene offshore.", "Anual, peste 2,5 milioane de pasageri de feribot și croazieră tranzitează portul.", "S-a dezvoltat masiv după reunificare ca o alternativă strategică la porturile Hamburg și Bremen."],
-      en: ["The largest German port on the Baltic Sea coast.", "Germany's leading port for ferry traffic to Scandinavia.", "Handles over 25 million tons of diverse cargo annually.", "A major European hub for the export of wind energy components.", "The cruise terminal in Warnemünde is one of Germany's busiest.", "Provides deep-water access for large ocean-going vessels."]
-    }, image: "/poi-images/port-rostock-extra.webp"},
-  {
+    {
     id: "industry-meyer-werft-extra",
     type: "industry",
     parent: "DE-NI",
@@ -1509,44 +1472,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       ro: ["Compania a fost fondată în Hanovra în anul 1871 sub numele Continental-Caoutchouc- und Gutta-Percha Compagnie.", "Continental este al patrulea cel mai mare producător de anvelope de pe glob.", "A produs prima anvelopă pneumatică pentru biciclete din Germania în 1892.", "Găzduiește peste 190.000 de angajați în locații din întreaga lume.", "Sediul central din Hanovra este un punct de referință arhitectural modern.", "Logo-ul calului a fost adoptat oficial în 1882, fiind inspirat de blazonul Saxoniei Inferioare."],
       en: ["Founded in 1871 as 'Continental-Caoutchouc- und Gutta-Percha-Compagnie'.", "A global leader in tire technology and automotive electronics.", "Headquartered at the modern 'Conti-Campus' in Hannover.", "The historic 'Conti-Tower' is a landmark of Hannover's industrial past.", "Employs approximately 190,000 people across 57 countries.", "Pioneer in the development of sustainable 'dandelion rubber' tires."]
     }, image: "/poi-images/industry-continental-hannover-extra.webp"},
-  {
-    id: "port-duisburg-extra",
-    type: "port",
-    parent: "DE-NW",
-    coords: [6.721, 51.412],
-    name: { de: "Duisburger Hafen (duisport)", hu: "Duisburgi kikötő", ro: "Portul Duisburg", en: "Port of Duisburg" },
-    description: {
-      de: "Größter Binnenhafen der Welt und ein zentraler Logistik-Hub für ganz Europa.",
-      hu: "A világ legnagyobb folyami kikötője és Közép-Európa központi logisztikai csomópontja.",
-      ro: "Cel mai mare port interior din lume și un centru logistic central pentru întreaga Europă.",
-      en: "The world's largest inland port and a central logistics hub for all of Europe."
-    },
-    facts: {
-      de: ["Wichtiger Knotenpunkt der 'Neuen Seidenstraße'.", "Anbindung an Nordseehäfen via Rhein.", "Logport-Areale auf ehemaligen Industrieflächen.", "Tausende Züge und Schiffe jährlich."],
-      hu: ["Az 'Új Selyemút' fontos csomópontja.", "Összeköttetés az északi-tengeri kikötőkkel a Rajnán.", "Logport-területek egykori ipari helyszíneken.", "Évente több ezer vonat és hajó."],
-      ro: ["Nod important al 'Noului Drum al Mătăsii'.", "Legătură cu porturile de la Marea Nordului prin Rin.", "Zone Logport pe foste terenuri industriale.", "Mii de trenuri și nave anual."],
-      en: ["Key hub for the 'New Silk Road' rail links.", "Connected to North Sea ports via the Rhine.", "Logport areas built on former industrial sites.", "Handles thousands of trains and ships per year."]
-    },
-    descriptionAdvanced: {
-      de: "Der Duisburger Hafen, bekannt als 'duisport', ist der größte Binnenhafen der Welt und ein logistisches Drehkreuz von globalem Rang. An der Mündung der Ruhr in den Rhein gelegen, verbindet er den Wasserweg mit einem dichten Netz aus Schienen und Straßen. Duisburg ist der zentrale Endpunkt der 'Neuen Seidenstraße' für Güterzüge aus China, was seine Bedeutung als kontinentales Logistikzentrum unterstreicht. Wo früher Kohle und Stahl dominierten, finden sich heute hunderte von Logistikunternehmen auf modernen Flächen wie dem 'logport'. Der Hafen ist ein entscheidender Faktor für die Wirtschaftskraft Nordrhein-Westfalens und ein Motor für den Strukturwandel im Ruhrgebiet. Geographie K7 – Binnenhäfen als Zentren der Weltwirtschaft.",
-      hu: "A(z) Duisburger Hafen (duisport) egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Duisburger Hafen (duisport) ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "Duisport din orașul Duisburg este cel mai mare port fluvial din lume și cel mai important hub logistic din interiorul Europei. Situat la confluența râului Ruhr cu fluviul Rin, portul servește ca punct central de transbordare între transportul maritim, feroviar și rutier. Duisburg este punctul final european cheie pentru 'Noul Drum al Mătăsii', primind trenuri de marfă direct din China. Cu peste 20 de bazine portuare și sute de companii logistice, Duisport este motorul transformării economice a regiunii Ruhr de la o industrie grea bazată pe cărbune la o economie de servicii și distribuție globală. Geografie K8 – Transportul multimodal și nodurile logistice mondiale.",
-      en: "Duisport, the Port of Duisburg, is the world's largest inland port and a critical hub for global trade located at the confluence of the Rhine and Ruhr rivers. Spanning over 1,500 hectares, it serves as the most important gateway for the 'New Silk Road' rail connection between Europe and China. The port is a masterpiece of multimodal logistics, seamlessly connecting ships, trains, and trucks to distribute goods across the continent. Beyond its role as a transport hub, Duisburg Port is a dynamic industrial zone where over 300 companies are based, supporting thousands of regional jobs. Its transformation from a traditional coal and steel port into a high-tech logistics center is a symbol of the Ruhr area's successful structural change. Földrajz K7 – Inland navigation and global logistics hubs."
-    },
-    factsAdvanced: {
-      de: ["Größter Binnenhafen der Welt mit über 1.500 Hektar Fläche.", "Zentrales Drehkreuz für Güterzüge aus China (Neue Seidenstraße).", "Umschlag von rund 4 Millionen Containern (TEU) pro Jahr.", "Sitz von über 300 Firmen aus dem Logistik- und Dienstleistungsbereich.", "Liegt am Knotenpunkt von Rhein und Ruhr im westlichen Ruhrgebiet.", "Jährlich laufen über 20.000 Schiffe und 25.000 Züge den Hafen an."],
-      hu: [
-        "A(z) Duisburger Hafen (duisport) területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Duisburger Hafen (duisport) tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
-        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
-        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
-      ],
-      ro: ["Zona portuară ocupă o suprafață de peste 1.350 de hectare.", "Peste 20.000 de nave și 25.000 de trenuri trec anual prin portul Duisburg.", "Duisport este conectat cu peste 100 de destinații din China prin rute feroviare.", "Găzduiește Logport, un centru logistic de clasă mondială pe locul fostelor oțelării.", "Aproximativ 50.000 de locuri de muncă depind direct de activitatea portuară.", "Bazinul portuar exterior este dominat de sculptura monumentală 'Rheinorange'."],
-      en: ["The largest inland port in the world by both area and volume.", "A central European hub for the 'New Silk Road' rail link to China.", "Connects over 80 direct rail destinations in Europe and Asia.", "Handles millions of containers every year at its high-tech terminals.", "The 'Schifferbörse' is the historic heart of the inland shipping trade.", "Spans approximately 1,500 hectares with 21 separate basins."]
-    }, image: "/poi-images/port-duisburg-extra.webp"},
-  {
+    {
     id: "industry-bayer-leverkusen-extra",
     type: "industry",
     parent: "DE-NW",

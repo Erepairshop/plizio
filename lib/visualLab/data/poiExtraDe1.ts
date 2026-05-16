@@ -956,63 +956,7 @@ export const poiExtraDe1: POI[] = [
       en: ["Highest point is the Barnacken at 446 meters", "Total length of the range is approx. 105 km", "Battle of Teutoburg Forest occurred in 9 AD", "Hermann Monument was inaugurated in 1875", "Hermannsweg hiking trail spans 156 kilometers", "Part of the Teutoburg Forest/Egge Hills Nature Park"],
     }, image: "/poi-images/forest-teutoburger-wald-extra.webp"},
 
-  {
-    id: "industry-ruhrgebiet-extra",
-    type: "industry",
-    parent: "DE-NW",
-    coords: [7.2162, 51.4556],
-    name: { de: "Ruhrgebiet – Industriekultur", hu: "Ruhr-vidék – Ipari örökség", ro: "Zona Ruhr – Patrimoniu industrial", en: "Ruhr Area – Industrial Heritage" },
-    description: {
-      de: "Das Ruhrgebiet ist das größte Ballungszentrum Deutschlands und war das industrielle Herz Europas im 19. und 20. Jahrhundert.",
-      hu: "A Ruhr-vidék Németország legnagyobb agglomerációja, és a 19–20. századi Európa ipari szíve volt.",
-      ro: "Zona Ruhr este cea mai mare aglomerație din Germania și a fost inima industrială a Europei în secolele XIX și XX.",
-      en: "The Ruhr area is Germany's largest conurbation and was the industrial heart of Europe in the 19th and 20th centuries.",
-    },
-    facts: {
-      de: [
-        "Umfasst Städte wie Dortmund, Essen, Duisburg, Bochum und Gelsenkirchen.",
-        "Zeche Zollverein in Essen ist UNESCO-Welterbe.",
-        "Im 20. Jahrhundert Rückgang der Kohle- und Stahlindustrie.",
-        "Strukturwandel zu Dienstleistung, Technologie und Kultur.",
-        "Ruhr2010 war Europäische Kulturhauptstadt.",
-      ],
-      hu: [
-        "Olyan városokat foglal magában, mint Dortmund, Essen, Duisburg, Bochum és Gelsenkirchen.",
-        "Az Essenben lévő Zollverein szénbánya UNESCO-világörökség.",
-        "A 20. században hanyatlott a szén- és acélipar.",
-        "Strukturális átalakulás a szolgáltatások, technológia és kultúra irányába.",
-        "Ruhr2010 Európa kulturális fővárosa volt.",
-      ],
-      ro: [
-        "Include orașe precum Dortmund, Essen, Duisburg, Bochum și Gelsenkirchen.",
-        "Mina Zollverein din Essen este patrimoniu UNESCO.",
-        "Declinul industriei carbonifere și siderurgice în secolul XX.",
-        "Reconversie structurală spre servicii, tehnologie și cultură.",
-        "Ruhr2010 a fost Capitala Culturală Europeană.",
-      ],
-      en: [
-        "Includes cities such as Dortmund, Essen, Duisburg, Bochum and Gelsenkirchen.",
-        "Zollverein Colliery in Essen is a UNESCO World Heritage Site.",
-        "Decline of coal and steel industry in the 20th century.",
-        "Structural transformation towards services, technology and culture.",
-        "Ruhr2010 was the European Capital of Culture.",
-      ],
-    },
-    descriptionAdvanced: {
-      de: "Das Ruhrgebiet ist mit über fünf Millionen Einwohnern der größte Ballungsraum Deutschlands und war über 150 Jahre lang das industrielle Herz Europas. Geprägt durch den intensiven Abbau von Steinkohle und die Produktion von Stahl, durchlief die Region seit den 1960er Jahren einen tiefgreifenden Strukturwandel hin zu einer modernen Dienstleistungs- und Wissensgesellschaft. Ein Symbol für diesen Wandel ist die Zeche Zollverein in Essen, die heute als UNESCO-Welterbe und Zentrum der Kreativwirtschaft fungiert. Die dichte Vernetzung von Städten wie Dortmund, Essen, Duisburg und Bochum hat eine einzigartige polyzentrische Stadtlandschaft geschaffen, die über eine hohe Dichte an Universitäten und Kultureinrichtungen verfügt. Ehemalige Industrieareale wurden im Rahmen der Route Industriekultur in Parks, Museen und Veranstaltungsorte umgewandelt, was der Region ein neues, grünes Image verliehen hat. Der Binnenhafen von Duisburg gilt zudem als der größte seiner Art weltweit und unterstreicht die anhaltende Bedeutung der Region als logistischer Knotenpunkt.",
-      hu: "A Ruhr-vidék több mint ötmillió lakosával Németország legnagyobb agglomerációja, és több mint 150 éven át Európa ipari szíve volt. A feketekőszén intenzív bányászata és az acélgyártás által meghatározott régió az 1960-as évek óta mélyreható szerkezetváltáson ment keresztül a modern szolgáltatói és tudásalapú társadalom irányába. E változás szimbóluma az esseni Zollverein szénbánya, amely ma UNESCO Világörökség és a kreatív ipar központja. Olyan városok sűrű hálózata, mint Dortmund, Essen, Duisburg és Bochum, egyedülálló policentrikus városi tájat hozott létre, amely nagy számú egyetemmel és kulturális intézménnyel rendelkezik. Az egykori ipari területeket az „Ipari Kultúra Útvonala” keretében parkokká, múzeumokká és rendezvényhelyszínekké alakították át, ami új, zöld arculatot kölcsönzött a régiónak. Duisburg folyami kikötője a legnagyobb a maga nemében a világon, ami hangsúlyozza a régió továbbra is fennálló jelentőségét logisztikai csomópontként.",
-      ro: "Regiunea Ruhr este, cu peste cinci milioane de locuitori, cea mai mare zonă metropolitană din Germania și a fost inima industrială a Europei timp de peste 150 de ani. Marcata de mineritul intensiv de huilă și producția de oțel, regiunea a trecut printr-o schimbare structurală profundă începând cu anii 1960, transformându-se într-o societate modernă bazată pe servicii și cunoaștere. Un simbol al acestei schimbări este mina Zollverein din Essen, care astăzi funcționează ca sit al Patrimoniului Mondial UNESCO și centru al economiei creative. Rețeaua densă de orașe precum Dortmund, Essen, Duisburg și Bochum a creat un peisaj urban policentric unic, cu o densitate mare de universități și instituții culturale. Fostele situri industriale au fost transformate în parcuri, muzee și locații pentru evenimente în cadrul „Rutei Culturii Industriale”, oferind regiunii o nouă imagine, mult mai verde. Portul fluvial din Duisburg este considerat cel mai mare de acest gen din lume, subliniind importanța continuă a regiunii ca nod logistic.",
-      en: "The Ruhr area, with over five million inhabitants, is Germany's largest urban agglomeration and served as the industrial heart of Europe for over 150 years. Shaped by intensive coal mining and steel production, the region has undergone a profound structural transformation since the 1960s, shifting toward a modern service and knowledge-based society. A symbol of this change is the Zollverein Coal Mine in Essen, now a UNESCO World Heritage site and a center for the creative industries. The dense network of cities such as Dortmund, Essen, Duisburg, and Bochum has created a unique polycentric urban landscape with a high concentration of universities and cultural institutions. Former industrial sites have been repurposed into parks, museums, and venues as part of the Industrial Heritage Trail, giving the region a new, greener image. Furthermore, the Port of Duisburg remains the largest inland port in the world, highlighting the region's ongoing importance as a global logistics hub.",
-    },
-    factsAdvanced: {
-      de: ["Bevölkerung von ca. 5,1 Millionen Menschen", "Umfasst 53 Städte und Gemeinden", "Fläche von etwa 4.435 Quadratkilometern", "Höchste Universitätsdichte in Deutschland", "Maximale Kohleförderung im Jahr 1956", "Europäische Kulturhauptstadt im Jahr 2010"],
-      hu: ["Lakossága kb. 5,1 millió fő", "53 várost és községet foglal magában", "Területe körülbelül 4435 négyzetkilométer", "Németország legsűrűbb egyetemi hálózata", "A széntermelés csúcsa 1956-ban volt", "Európa Kulturális Fővárosa 2010-ben"],
-      ro: ["Populație de cca. 5,1 milioane de locuitori", "Cuprinde 53 de orașe și municipalități", "Suprafață de aproximativ 4.435 km²", "Cea mai mare densitate de universități din Germania", "Vârful producției de cărbune a fost în 1956", "Capitală Europeană a Culturii în anul 2010"],
-      en: ["Population of approx. 5.1 million people", "Comprises 53 cities and municipalities", "Total area of about 4,435 square kilometers", "Highest density of universities in Germany", "Peak coal production reached in 1956", "European Capital of Culture in 2010"],
-    },
-    image: "/poi-images/industry-ruhrgebiet-extra.webp",
-  },
-
+  
   {
     id: "landmark-schloss-augustusburg-extra",
     type: "landmark",
@@ -1240,62 +1184,7 @@ export const poiExtraDe1: POI[] = [
       en: ["Highest peak in the Black Forest (1,493 m)", "Protected nature reserve since 1937", "Largest ski area in Germany outside the Alps", "Wind speeds can exceed 200 km/h", "Visibility extends to Mont Blanc (230 km)", "Feldsee tarn below the summit is 32 m deep"],
     }, image: "/poi-images/mnt-feldberg-bw-extra.webp"},
 
-  {
-    id: "river-neckar-extra",
-    type: "river",
-    parent: "DE-BW",
-    coords: [9.1817, 48.8000],
-    length: 367,
-    name: { de: "Neckar", hu: "Neckar", ro: "Neckar", en: "Neckar" },
-    description: {
-      de: "Der Neckar ist ein linker Nebenfluss des Rheins, der von Schwenningen durch Stuttgart und Heidelberg fließt und das Neckartal prägt.",
-      hu: "A Neckar a Rajna bal oldali mellékfolyója, Schwenningentől Stuttgarton és Heidelbergen át folyik, és a Neckart-völgyet formálja.",
-      ro: "Neckar este un afluent stâng al Rinului, care curge de la Schwenningen prin Stuttgart și Heidelberg, modelând Valea Neckarului.",
-      en: "The Neckar is a left tributary of the Rhine, flowing from Schwenningen through Stuttgart and Heidelberg, shaping the Neckar valley.",
-    },
-    facts: {
-      de: [
-        "Gesamtlänge 367 km, Einzugsgebiet ca. 14.000 km².",
-        "Entspringt bei Schwenningen auf der Baar.",
-        "Mündet bei Mannheim in den Rhein.",
-        "Durchfließt Universitätsstädte wie Tübingen und Heidelberg.",
-        "Wichtige Wasserstraße für Schifffahrt und Tourismus.",
-      ],
-      hu: [
-        "Teljes hossza 367 km, vízgyűjtő területe kb. 14 000 km².",
-        "Forrása a Baar-vidéken, Schwenningennél ered.",
-        "Manheimbennél ömlik a Rajnába.",
-        "Olyan egyetemi városokon folyik át, mint Tübingen és Heidelberg.",
-        "Fontos vízi út hajózás és turizmus számára.",
-      ],
-      ro: [
-        "Lungime totală 367 km, bazin hidrografic aprox. 14.000 km².",
-        "Izvorăște la Schwenningen pe platoul Baar.",
-        "Se varsă în Rin la Mannheim.",
-        "Traversează orașe universitare precum Tübingen și Heidelberg.",
-        "Importantă cale navigabilă pentru navigație și turism.",
-      ],
-      en: [
-        "Total length 367 km, catchment area approx. 14,000 km².",
-        "Rises at Schwenningen on the Baar plateau.",
-        "Flows into the Rhine at Mannheim.",
-        "Passes through university cities such as Tübingen and Heidelberg.",
-        "Important waterway for navigation and tourism.",
-      ],
-    },
-    descriptionAdvanced: {
-      de: "Der Neckar ist ein 362 Kilometer langer Nebenfluss des Rheins, der überwiegend im Bundesland Baden-Württemberg verläuft. Seine Quelle liegt im Schwenninger Moos bei Villingen-Schwenningen auf einer Höhe von 705 Metern über dem Meeresspiegel. Der Fluss entwässert ein Einzugsgebiet von rund 14.000 Quadratkilometern und prägt maßgeblich die Topographie Südwestdeutschlands. Entlang seines Laufs liegen bedeutende urbane Zentren wie Stuttgart, Heilbronn, Heidelberg und Tübingen. Historisch wurde der Neckar bereits von den Römern als Transportweg genutzt, während im 20. Jahrhundert umfangreiche Ausbauten zur Großschifffahrtsstraße stattfanden. Heute dient er sowohl als wichtiger Wirtschaftsweg für die Binnenschifffahrt als auch als ökologischer Lebensraum und Naherholungsgebiet. Die charakteristischen Weinberge an den Steilhängen des mittleren Neckars sind ein wesentlicher Bestandteil der regionalen Kulturlandschaft und Zeugnis jahrhundertelanger landwirtschaftlicher Tradition.",
-      hu: "A Neckar egy 362 kilométer hosszú folyó Németország délnyugati részén, Baden-Württemberg tartományban, a Rajna egyik legfontosabb mellékfolyója. Forrása a Fekete-erdő és a Sváb-Alb találkozásánál, a Schwenninger Moos lápvidéken található, 705 méteres tengerszint feletti magasságban. A folyó vízgyűjtő területe mintegy 14 000 négyzetkilométert tesz ki, és olyan jelentős városokat érint, mint Stuttgart, Heidelberg, Heilbronn és Tübingen. A történelem során már a rómaiak is használták szállítási útvonalként, a 20. században pedig jelentős csatornázási munkálatokon esett át, hogy alkalmassá tegyék a nagyhajózásra. Gazdasági szerepe mellett a folyó völgye kiemelkedő kulturális jelentőséggel bír, különösen a meredek partokon elhelyezkedő szőlőültetvények és a számos középkori vár révén. Napjainkban a Neckar völgye népszerű turisztikai célpont, ahol a modern ipari központok és a megőrzött természeti értékek sajátos egyveleget alkotnak.",
-      ro: "Neckar este un râu cu o lungime de 362 de kilometri, situat în principal în statul federal Baden-Württemberg din Germania, fiind unul dintre cei mai importanți afluenți ai Rinului. Izvorul său se află în mlaștina Schwenninger Moos, lângă Villingen-Schwenningen, la o altitudine de 705 metri deasupra nivelului mării. Râul drenează un bazin hidrografic de aproximativ 14.000 de kilometri pătrați și străbate centre urbane majore precum Stuttgart, Heilbronn, Heidelberg și Tübingen. Istoric, Neckar a fost utilizat ca rută de transport încă din epoca romană, iar în secolul al XX-lea a fost transformat într-o cale navigabilă importantă prin construcția a numeroase ecluze. În prezent, râul joacă un rol dual: este o arteră vitală pentru transportul comercial intern și, în același timp, un spațiu recreativ și un habitat ecologic protejat. Versanții abrupți ai văii Neckarului sunt renumiți pentru viticultură, formând un peisaj cultural unic care atestă tradiția agricolă seculară a regiunii.",
-      en: "The Neckar is a 362-kilometer-long tributary of the Rhine, flowing primarily through the state of Baden-Württemberg in southwestern Germany. It originates in the Schwenninger Moos near Villingen-Schwenningen at an elevation of 705 meters above sea level. The river drains a catchment area of approximately 14,000 square kilometers and passes through several major cities, including Stuttgart, Heilbronn, Heidelberg, and Tübingen. Historically, the Neckar has served as a vital transport route since Roman times, and extensive canalization in the 20th century transformed it into a modern waterway for large-scale shipping. Today, it functions as a crucial economic link for inland navigation while also providing essential ecological habitats and recreational spaces. The steep slopes along the middle reaches of the river are famous for their vineyards, which characterize the regional landscape and reflect a winemaking tradition that has shaped the area for centuries.",
-    },
-    factsAdvanced: {
-      de: ["Länge von 362 Kilometern von der Quelle bis zur Mündung.", "Einzugsgebiet umfasst eine Fläche von ca. 14.000 km².", "Mündung in den Rhein erfolgt bei Mannheim auf 88 m Höhe.", "Insgesamt 27 Staustufen regulieren den Wasserstand für Schiffe.", "Der Neckar ist auf 203 Kilometern als Bundeswasserstraße schiffbar.", "Früheste schriftliche Erwähnung als 'Nicarus' um das Jahr 350."],
-      hu: ["A folyó teljes hossza 362 kilométer a forrástól a torkolatig.", "Vízgyűjtő területe körülbelül 14 000 négyzetkilométer.", "Mannheimnél torkollik a Rajnába, 88 méteres tengerszint feletti magasságban.", "Összesen 27 zsilip szabályozza a folyó vízszintjét a hajózás érdekében.", "A folyó 203 kilométeres szakasza minősül szövetségi víziútnak.", "Első írásos említése 'Nicarus' néven Kr. u. 350 környékéről származik."],
-      ro: ["Lungimea totală a râului este de 362 de kilometri.", "Bazinul hidrografic acoperă o suprafață de circa 14.000 km².", "Se varsă în Rin la Mannheim, la o altitudine de 88 de metri.", "Există 27 de ecluze care reglează nivelul apei pentru navigație.", "Râul este navigabil pe o distanță de 203 kilometri ca arteră federală.", "Prima atestare documentară sub numele 'Nicarus' datează din anul 350."],
-      en: ["Total length of 362 kilometers from source to mouth.", "The river basin covers an area of approximately 14,000 km².", "Joins the Rhine at Mannheim at an elevation of 88 meters.", "A total of 27 locks regulate the water level for navigation.", "The river is navigable for 203 kilometers as a federal waterway.", "First recorded mention as 'Nicarus' occurred around the year 350."],
-    }, image: "/poi-images/river-neckar-extra.webp"},
-
+  
   {
     id: "city-tuebingen-extra",
     type: "city",
@@ -1632,61 +1521,7 @@ export const poiExtraDe1: POI[] = [
       en: ["The Hornisgrinde is the region's highest peak at 1163 meters.", "The Black Forest National Park was inaugurated on January 1, 2014.", "The region covers an area of approximately 2,000 square kilometers.", "Mummelsee is a cirque lake dating back to the last ice age.", "Baden-Baden became a UNESCO World Heritage site in 2021.", "The Black Forest High Road is the oldest scenic drive in Germany."],
     }, image: "/poi-images/forest-schwarzwald-nord-extra.webp"},
 
-  {
-    id: "city-freiburg-extra",
-    type: "city",
-    parent: "DE-BW",
-    coords: [7.8522, 47.9990],
-    name: { de: "Freiburg im Breisgau", hu: "Freiburg im Breisgau", ro: "Freiburg im Breisgau", en: "Freiburg im Breisgau" },
-    description: {
-      de: "Freiburg im Breisgau am Rand des Schwarzwalds ist als sonnigste Stadt Deutschlands bekannt und gilt als grüne Hauptstadt des Landes.",
-      hu: "A Fekete-erdő szélén fekvő Freiburg im Breisgau Németország legnaposabb városáról ismert, és az ország zöld fővárosának tartják.",
-      ro: "Freiburg im Breisgau, la marginea Pădurii Negre, este cunoscut ca cel mai însorit oraș din Germania și considerat capitala ecologică a țării.",
-      en: "Freiburg im Breisgau on the edge of the Black Forest is known as Germany's sunniest city and is regarded as the green capital of the country.",
-    },
-    facts: {
-      de: [
-        "Sonnigste Großstadt Deutschlands.",
-        "Bekannt für die historischen Bächle, kleine Wasserkanäle in der Altstadt.",
-        "Die Albert-Ludwigs-Universität ist eine der ältesten Deutschlands (1457).",
-        "Vorreiter in Solarenergie und Nachhaltigkeit.",
-        "Das Freiburger Münster gilt als Juwel der Gotik.",
-      ],
-      hu: [
-        "Németország legnaposabb nagyváros.",
-        "Az óváros kis vízcsatornáiról, a Bächle-kről ismert.",
-        "Az Albert-Ludwigs-Universität Németország egyik legrégebbi (1457).",
-        "Úttörő a napenergia és a fenntarthatóság területén.",
-        "A Freiburgi Münster a gótika ékszerének tartják.",
-      ],
-      ro: [
-        "Cel mai însorit oraș mare din Germania.",
-        "Cunoscut pentru Bächle, mici canale de apă din orașul vechi.",
-        "Universitatea Albert-Ludwigs este una dintre cele mai vechi din Germania (1457).",
-        "Pionier în domeniul energiei solare și al durabilității.",
-        "Münsterul din Freiburg este considerat o bijuterie a goticului.",
-      ],
-      en: [
-        "Germany's sunniest major city.",
-        "Known for the Bächle, small water channels in the old town.",
-        "Albert Ludwigs University is one of Germany's oldest (1457).",
-        "Pioneer in solar energy and sustainability.",
-        "Freiburg Minster is regarded as a jewel of the Gothic.",
-      ],
-    },
-    descriptionAdvanced: {
-      de: "Freiburg im Breisgau ist die südlichste Großstadt Deutschlands und liegt am westlichen Rand des Schwarzwaldes. Die 1120 gegründete Zähringerstadt ist bekannt für ihr mildes Klima und gilt als 'Sonnenhauptstadt' des Landes. Das architektonische Wahrzeichen ist das Freiburger Münster, dessen gotischer Turm als einer der schönsten der Christenheit bezeichnet wird. Einzigartig sind die 'Bächle' – schmale Wasserläufe in den Gassen der Altstadt, die ursprünglich zur Wasserversorgung und Brandbekämpfung dienten. Die Albert-Ludwigs-Universität, gegründet 1457, prägt das studentische Flair und macht Freiburg zu einem bedeutenden Bildungs- und Forschungsstandort. Die Stadt ist zudem ein Vorreiter im Umweltschutz und in der Solarenergie, was sich im nachhaltigen Stadtteil Vauban widerspiegelt. Freiburg dient als Tor zum südlichen Schwarzwald und ist ein beliebter Ausgangspunkt für Ausflüge zum Feldberg oder zum Kaiserstuhl. Die badische Lebensart und die regionale Gastronomie tragen wesentlich zur hohen Lebensqualität bei.",
-      hu: "Freiburg im Breisgau Németország legdélebbi nagyvárosa, amely a Fekete-erdő nyugati peremén fekszik. Az 1120-ban alapított Zähringer-város híres enyhe éghajlatáról, és gyakran az ország 'napsütéses fővárosaként' emlegetik. Építészeti jelképe a freiburgi székesegyház (Münster), amelynek gótikus tornyát a kereszténység egyik legszebbjeként tartják számon. A város egyedülálló látványosságai a 'Bächle'-k – az óváros utcáin futó keskeny csatornák, amelyek eredetileg vízellátási és tűzvédelmi célokat szolgáltak. Az 1457-ben alapított Albert Ludwigs Egyetem meghatározza a város fiatalos hangulatát, és Freiburgot fontos oktatási és kutatási központtá teszi. A város úttörő szerepet tölt be a környezetvédelemben és a napenergia hasznosításában, ami különösen a fenntartható Vauban negyedben érhető tetten. Freiburg a déli Fekete-erdő kapuja, és népszerű kiindulópont a Feldberg vagy a Kaiserstuhl felé irányuló kirándulásokhoz. A bádeni életmód és a regionális gasztronómia nagyban hozzájárul a város magas életszínvonalához.",
-      ro: "Freiburg im Breisgau este cel mai sudic oraș mare din Germania, situat la marginea vestică a Munților Pădurea Neagră. Fondat în 1120 de familia Zähringer, orașul este renumit pentru clima sa blândă și este considerat 'capitala însorită' a țării. Simbolul său arhitectural este Catedrala din Freiburg (Münster), al cărei turn gotic este adesea descris ca fiind unul dintre cele mai frumoase din lumea creștină. O caracteristică unică sunt 'Bächle' – mici canale cu apă care curg prin străduțele centrului istoric, utilizate inițial pentru aprovizionarea cu apă și stingerea incendiilor. Universitatea Albert Ludwigs, fondată în 1457, conferă orașului o atmosferă studențească vibrantă și îl face un centru major de educație și cercetare. Orașul este, de asemenea, un pionier în protecția mediului și energia solară, fapt reflectat în cartierul sustenabil Vauban. Freiburg servește ca poartă către sudul Pădurii Negre și este un punct de plecare popular pentru excursii spre muntele Feldberg sau regiunea viticolă Kaiserstuhl.",
-      en: "Freiburg im Breisgau is the southernmost major city in Germany, located on the western edge of the Black Forest. Founded in 1120 by the Zähringer family, it is known for its mild climate and is often referred to as the 'sunny capital' of the country. Its architectural landmark is the Freiburg Minster, whose Gothic spire is regarded as one of the most beautiful in Christendom. A unique feature of the city are the 'Bächle' – narrow water channels running through the alleys of the old town, originally used for water supply and firefighting. The Albert Ludwigs University, established in 1457, shapes the city's vibrant student atmosphere and makes Freiburg a significant center for education and research. The city is also a pioneer in environmental protection and solar energy, which is particularly evident in the sustainable Vauban district. Freiburg serves as the gateway to the southern Black Forest and is a popular starting point for excursions to the Feldberg or the Kaiserstuhl vineyard region.",
-    },
-    factsAdvanced: {
-      de: ["Das Freiburger Münster wurde im Jahr 1120 begonnen und 1513 vollendet.", "Freiburg hat über 1.800 Sonnenstunden pro Jahr.", "Die Gesamtlänge der Freiburger Bächle beträgt ca. 15,5 Kilometer.", "Die Universität wurde im Jahr 1457 von Erzherzog Albrecht VI. gegründet.", "Der Schlossberg bietet einen Panoramablick aus 456 Metern Höhe.", "Freiburg war im 14. Jahrhundert Teil der Habsburgermonarchie."],
-      hu: ["A freiburgi székesegyház építése 1120-ban kezdődött és 1513-ban fejeződött be.", "Freiburgban évente több mint 1800 a napsütéses órák száma.", "A freiburgi Bächle csatornák teljes hossza körülbelül 15,5 kilométer.", "Az egyetemet 1457-ben alapította VI. Albert főherceg.", "A Schlossberg 456 méteres magasságból kínál panorámás kilátást.", "Freiburg a 14. században a Habsburg Birodalom része volt."],
-      ro: ["Catedrala din Freiburg a fost începută în 1120 și finalizată în 1513.", "Freiburg are peste 1.800 de ore de soare pe an.", "Lungimea totală a canalelor Bächle din Freiburg este de circa 15,5 km.", "Universitatea a fost fondată în anul 1457 de către arhiducele Albrecht al VI-lea.", "Muntele Schlossberg oferă o vedere panoramică de la 456 de metri altitudine.", "Freiburg a făcut parte din monarhia habsburgică în secolul al XIV-lea."],
-      en: ["Construction of Freiburg Minster began in 1120 and was finished in 1513.", "Freiburg enjoys over 1,800 hours of sunshine per year.", "The total length of the Freiburg Bächle is approximately 15.5 kilometers.", "The university was founded in 1457 by Archduke Albrecht VI.", "The Schlossberg offers a panoramic view from an elevation of 456 meters.", "Freiburg was part of the Habsburg Monarchy during the 14th century."],
-    }, image: "/poi-images/city-freiburg-extra.webp"},
-
+  
   // ─── DE-BE Berlin (+10) ──────────────────────────────────────────────────────
 
   {

@@ -2,44 +2,7 @@ import type { POI } from "./poi";
 
 export const poiExtraDe3b: POI[] = [
   // ── DE-BB Brandenburg (15) ──────────────────────────────────────────────────
-  {
-    id: "city-potsdam-extra",
-    type: "state-capital",
-    parent: "DE-BB",
-    coords: [13.0645, 52.3989],
-    name: { de: "Potsdam", hu: "Potsdam", ro: "Potsdam", en: "Potsdam" },
-    description: {
-      de: "Potsdam ist die Landeshauptstadt Brandenburgs und liegt am südwestlichen Stadtrand Berlins. Die Stadt ist weltberühmt für ihre Schlösser und Gartenanlagen, vor allem das Schloss Sanssouci, das Friedrich der Große errichten ließ. Potsdam war jahrhundertelang Residenzstadt der brandenburgisch-preußischen Herrscher.",
-      hu: "Potsdam Brandenburg tartomány fővárosa, és Berlin délnyugati szélén helyezkedik el. A város világhírű kastélyairól és kertjeiről, különösen a Nagy Frigyes által épített Sanssouci kastélyról. Potsdam évszázadokon át a brandenburgi-porosz uralkodók rezidencia-városa volt.",
-      ro: "Potsdam este capitala landului Brandenburg și este situată la marginea de sud-vest a Berlinului. Orașul este renumit în întreaga lume pentru castelele și grădinile sale, în special Castelul Sanssouci, construit de Frederic cel Mare. Potsdam a fost timp de secole reședința conducătorilor brandenburgico-prusaci.",
-      en: "Potsdam is the state capital of Brandenburg and lies on the southwestern outskirts of Berlin. The city is world-famous for its palaces and gardens, especially Sanssouci Palace, built by Frederick the Great. Potsdam was for centuries the residence of the Brandenburg-Prussian rulers.",
-    },
-    facts: {
-      de: ["Sanssouci gehört zum UNESCO-Weltkulturerbe.", "Friedrich der Große ließ das Schloss 1745 errichten.", "Die Potsdamer Konferenz 1945 fand im Schloss Cecilienhof statt.", "Potsdam hat über 170.000 Einwohner."],
-      hu: ["A Sanssouci az UNESCO világörökség része.", "Nagy Frigyes 1745-ben emeltette a kastélyt.", "Az 1945-ös potsdami konferenciát a Cecilienhof kastélyban tartották.", "Potsdam több mint 170 000 lakossal rendelkezik."],
-      ro: ["Sanssouci face parte din Patrimoniul Mondial UNESCO.", "Frederic cel Mare a construit castelul în 1745.", "Conferința de la Potsdam din 1945 a avut loc în Castelul Cecilienhof.", "Potsdam are peste 170.000 de locuitori."],
-      en: ["Sanssouci is part of the UNESCO World Heritage.", "Frederick the Great had the palace built in 1745.", "The 1945 Potsdam Conference took place at Cecilienhof Palace.", "Potsdam has over 170,000 inhabitants."],
-    },
-    descriptionAdvanced: {
-      de: "Potsdam, die Hauptstadt Brandenburgs, ist ein Juwel europäischer Kulturgeschichte und war über Jahrhunderte die glanzvolle Residenzstadt der preußischen Könige. Die Stadt ist weltbekannt für ihr einzigartiges Ensemble aus Schlössern und Gärten, allen voran Park Sanssouci mit dem berühmten Sommerschloss Friedrichs des Großen. Neben der preußischen Pracht ist Potsdam ein Ort der Weltgeschichte: Im Schloss Cecilienhof fand 1945 die Potsdamer Konferenz statt. Die Stadt besticht zudem durch Viertel wie das Holländische Viertel oder die russische Kolonie Alexandrowka. Heute ist Potsdam ein führender Wissenschaftsstandort und das Zentrum der deutschen Filmindustrie mit den traditionsreichen Babelsberger Studios. Geschichte K7 – Preußische Geschichte und europäische Diplomatie.",
-      hu: "A(z) Potsdam egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Potsdam ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "Potsdam, capitala landului Brandenburg, este unul dintre cele mai splendide orașe rezidențiale din Europa, fiind faimos pentru palatele și parcurile sale incluse în patrimoniul mondial UNESCO. Perla orașului este Palatul Sanssouci, construit de regele Frederic cel Mare ca refugiu de vară, înconjurat de grădini terasate spectaculoase. Potsdam a fost scena unor evenimente istorice majore, precum Conferința de la Potsdam din 1945 la Palatul Cecilienhof. Orașul este, de asemenea, un centru al cinematografiei mondiale prin Studiourile Babelsberg, cele mai vechi de acest tip din lume. Podul Glienicke, locul schimbului de spioni în timpul Războiului Rece, completează identitatea complexă a acestui oraș regal. Istorie K7 – Absolutismul prusac și istoria secolului XX.",
-      en: "Potsdam, the capital of Brandenburg, is a city of royal dreams and world-class scientific innovation. As the former residence of the Prussian kings and German emperors, it features a unique ensemble of palaces and parks, recognized as a UNESCO World Heritage site. Its most famous landmark is Sanssouci Palace, the summer retreat of Frederick the Great. Beyond its royal past, Potsdam is a city of film, home to the historic Babelsberg Studio, and a major hub for research, hosting over 30 scientific institutions including the Max Planck Institute. The city's silhouette is defined by its elegant baroque architecture, its numerous lakes, and the historic Dutch Quarter. Potsdam remains a symbol of the Prussian Enlightenment and a vibrant center for culture and knowledge. Geschichte K8 – The Prussian monarchy and Enlightenment."
-    },
-    factsAdvanced: {
-      de: ["Hauptstadt von Brandenburg und ehemalige preußische Residenzstadt.", "Über 75 % der Stadtfläche gehören zum UNESCO-Weltkulturerbe.", "Beherbergt 12 Schlösser, darunter Sanssouci, Cecilienhof und Babelsberg.", "Ort der Potsdamer Konferenz 1945 zum Ende des Zweiten Weltkriegs.", "Sitz des ältesten Großfilmstudios der Welt (Studio Babelsberg).", "Das Holländische Viertel besitzt 134 Häuser aus roten Ziegeln."],
-      hu: [
-        "A(z) Potsdam területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Potsdam tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
-        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
-        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
-      ],
-      ro: ["Palatul Sanssouci este considerat 'Versailles-ul german', fiind finalizat în 1747.", "Întregul peisaj cultural al orașului (500 ha) este sub protecție UNESCO din 1990.", "Studioul Babelsberg, fondat în 1912, este cel mai vechi studio de film din lume.", "Palatul Cecilienhof a găzduit liderii 'Cei Trei Mari' după al Doilea Război Mondial.", "Podul Glienicke a fost locul a trei schimburi celebre de spioni între Est și Vest.", "Cartierul Olandez (Holländisches Viertel) cuprinde 134 de case din cărămidă roșie."],
-      en: ["UNESCO World Heritage site for its unique palaces and parks.", "Home to Sanssouci Palace, the masterpiece of Frederick the Great.", "The birthplace of German cinema at Studio Babelsberg (1912).", "Hosted the historic Potsdam Conference in 1945 at Cecilienhof Palace.", "Features the 'Dutch Quarter', the largest ensemble of Dutch-style houses outside the Netherlands.", "A leading European center for climate and gravitational research."]
-    }, image: "/poi-images/city-potsdam-extra.webp"},
-  {
+    {
     id: "city-cottbus-extra",
     type: "city",
     parent: "DE-BB",
@@ -559,83 +522,7 @@ export const poiExtraDe3b: POI[] = [
     }, image: "/poi-images/city-frankfurt-oder-extra.webp"},
 
   // ── DE-ST Sachsen-Anhalt (15) ────────────────────────────────────────────────
-  {
-    id: "city-magdeburg-extra",
-    type: "state-capital",
-    parent: "DE-ST",
-    coords: [11.6276, 52.1205],
-    name: { de: "Magdeburg", hu: "Magdeburg", ro: "Magdeburg", en: "Magdeburg" },
-    description: {
-      de: "Magdeburg ist die Landeshauptstadt von Sachsen-Anhalt und liegt an der Elbe. Die Stadt hat eine über 1200-jährige Geschichte und war einst eine der mächtigsten Städte des Heiligen Römischen Reiches. Der Magdeburger Dom, das älteste gotische Bauwerk Deutschlands, prägt die Silhouette der Stadt.",
-      hu: "Magdeburg Sachsen-Anhalt tartomány fővárosa és az Elba partján terül el. A városnak több mint 1200 éves története van, és egykor a Német-Római Birodalom egyik legerősebb városai közé tartozott. A magdeburgi dóm, Németország legrégebbi gótikus épülete, meghatározza a város sziluettjét.",
-      ro: "Magdeburg este capitala landului Saxonia-Anhalt și se află pe malul Elbei. Orașul are o istorie de peste 1200 de ani și a fost cândva unul dintre cele mai puternice orașe ale Sfântului Imperiu Roman. Domul din Magdeburg, cea mai veche construcție gotică din Germania, definește silueta orașului.",
-      en: "Magdeburg is the state capital of Saxony-Anhalt and lies on the Elbe. The city has a history spanning over 1,200 years and was once one of the most powerful cities in the Holy Roman Empire. Magdeburg Cathedral, Germany's oldest Gothic building, defines the city's skyline.",
-    },
-    facts: {
-      de: ["Magdeburg hat ca. 238.000 Einwohner.", "Der Dom wurde im 13. Jahrhundert begonnen.", "Magdeburg wurde im Dreißigjährigen Krieg 1631 fast vollständig zerstört.", "Otto der Große wurde in Magdeburg begraben."],
-      hu: ["Magdeburgnak kb. 238 000 lakosa van.", "A dóm építése a 13. században kezdődött.", "Magdeburget a harmincéves háborúban 1631-ben szinte teljesen elpusztították.", "I. Ottót Magdeburgban temették el."],
-      ro: ["Magdeburg are aproximativ 238.000 de locuitori.", "Construcția domului a început în secolul al XIII-lea.", "Magdeburg a fost aproape complet distrus în Războiul de Treizeci de Ani în 1631.", "Otto cel Mare a fost îngropat la Magdeburg."],
-      en: ["Magdeburg has approximately 238,000 inhabitants.", "Construction of the cathedral began in the 13th century.", "Magdeburg was almost completely destroyed in the Thirty Years' War in 1631.", "Otto the Great was buried in Magdeburg."],
-    },
-    descriptionAdvanced: {
-      de: "Magdeburg, die Hauptstadt Sachsen-Anhalts, blickt auf eine über 1.200-jährige Geschichte als Kaiserresidenz und Hansestadt zurück. Otto der Große, der erste Kaiser des Heiligen Römischen Reiches, machte Magdeburg zu seinem Lieblingsort, wovon der imposante Dom St. Mauritius und St. Katharina – der erste gotische Dom auf deutschem Boden – zeugt. Die Stadt war zudem Schauplatz wegweisender Experimente durch Otto von Guericke. Heute besticht Magdeburg durch eine Mischung aus historischem Erbe und moderner Architektur, wie Hundertwassers 'Grüner Zitadelle'. Als bedeutender Binnenhafen und Wissenschaftsstandort hat sich die Stadt zu einem dynamischen Zentrum an der Elbe entwickelt. Geschichte K6 – Das Heilige Römische Reich unter den Ottonen.",
-      hu: "A(z) Magdeburg egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Magdeburg ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "Magdeburg, capitala landului Saxonia-Anhalt, este unul dintre cele mai vechi și importante orașe din estul Germaniei, având o istorie de peste 1200 de ani. Orașul a fost reședința favorită a împăratului Otto cel Mare, care este înmormântat în impresionanta Catedrală din Magdeburg, prima catedrală gotică construită pe pământ german. Orașul este, de asemenea, locul unde fizicianul Otto von Guericke a demonstrat puterea vidului prin celebrul experiment cu emisferele de Magdeburg. Astăzi, orașul îmbină monumentele istorice cu arhitectura modernă avangardistă, precum 'Citadela Verde' proiectată de Friedensreich Hundertwasser, ultimul mare proiect al artistului austriac. Istorie K7 – Împărați medievali și inovații științifice.",
-      en: "Magdeburg, the capital of Saxony-Anhalt, is a city of imperial destiny and incredible resilience, known as the 'Ottostadt.' Its history is defined by two giants: Emperor Otto the Great, who made the city his favorite residence, and Otto von Guericke, the scientist who demonstrated the power of atmospheric pressure here. Magdeburg Cathedral, the first Gothic cathedral on German soil, houses the tomb of Otto the Great and stands as a majestic monument to the city's medieval power. Despite being almost completely destroyed during the Thirty Years' War and again in World War II, Magdeburg has transformed into a modern green metropolis. Its skyline is now highlighted by the 'Green Citadel,' a whimsical pink architectural masterpiece by Friedensreich Hundertwasser. Geschichte K8 – Otto the Great and the Holy Roman Empire."
-    },
-    factsAdvanced: {
-      de: ["Residenzstadt Ottos des Großen und Sitz des Erzbistums seit 968.", "Der Magdeburger Dom beherbergt die Grablege des Kaisers Otto I.", "Berühmt für die 'Magdeburger Halbkugeln' des Erfinders Otto von Guericke.", "Besitzt mit der 'Grünen Zitadelle' das letzte Bauwerk von Friedensreich Hundertwasser.", "Wichtigster Elbhafen in Sachsen-Anhalt und logistisches Drehkreuz.", "Diente im Mittelalter als Namensgeber für das verbreitete 'Magdeburger Recht'."],
-      hu: [
-        "A(z) Magdeburg területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Magdeburg tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
-        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
-        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
-      ],
-      ro: ["Catedrala din Magdeburg este prima catedrală gotică de pe teritoriul Germaniei.", "Împăratul Otto cel Mare a făcut din Magdeburg 'al treilea centru al Romei'.", "Otto von Guericke a inventat pompa de aer și a demonstrat vidul aici în 1654.", "Orașul a fost distrus aproape complet în 1631, în timpul Războiului de 30 de ani.", "Citadela Verde (Die Grüne Zitadelle) este o clădire rezidențială roz proiectată de Hundertwasser.", "Canalul Magdeburg trece peste râul Elbe printr-un pod de apă unic în lume."],
-      en: ["Known as the 'Ottostadt' in honor of Emperor Otto I and Otto von Guericke.", "Home to Germany's oldest Gothic cathedral, completed in 1363.", "The site of the first world demonstration of the vacuum (Magdeburg Hemispheres).", "One of the most important members of the Hanseatic League for centuries.", "Features the 'Green Citadel', the last building designed by Hundertwasser.", "A major hub for the German mechanical engineering and logistics industry."]
-    },
-    image: "/poi-images/city-magdeburg-extra.webp",
-  },
-  {
-    id: "city-halle-saale-extra",
-    type: "city",
-    parent: "DE-ST",
-    coords: [11.9695, 51.4825],
-    name: { de: "Halle (Saale)", hu: "Halle (Saale)", ro: "Halle (Saale)", en: "Halle (Saale)" },
-    description: {
-      de: "Halle (Saale) ist die größte Stadt Sachsen-Anhalts und liegt an der Saale. Die Stadt war ein bedeutendes Salzzentrum und ist Geburtsort des Barockkomponisten Georg Friedrich Händel. Halle ist heute eine wichtige Universitätsstadt mit einer der ältesten deutschen Universitäten.",
-      hu: "Halle (Saale) Sachsen-Anhalt legnagyobb városa, a Saale folyó partján. A város jelentős sóipari központ volt, és itt született a barokk zeneszerző Georg Friedrich Händel. Halle ma fontos egyetemváros, Németország egyik legrégebbi egyetemével.",
-      ro: "Halle (Saale) este cel mai mare oraș din Saxonia-Anhalt și se află pe malul Salei. Orașul a fost un important centru al sării și este locul de naștere al compozitorului baroc Georg Friedrich Händel. Halle este astăzi un important oraș universitar cu una dintre cele mai vechi universități germane.",
-      en: "Halle (Saale) is the largest city in Saxony-Anhalt, lying on the Saale. The city was a major salt centre and is the birthplace of Baroque composer Georg Friedrich Händel. Halle is today an important university city, home to one of Germany's oldest universities.",
-    },
-    facts: {
-      de: ["Georg Friedrich Händel wurde 1685 in Halle geboren.", "Die Martin-Luther-Universität wurde 1694 gegründet.", "Halle war jahrhundertelang ein wichtiges Salzzentrum.", "Die Stadt hat eine lebendige Kunstszene."],
-      hu: ["Georg Friedrich Händel 1685-ben született Halléban.", "A Marthin-Luther Egyetemet 1694-ben alapították.", "Halle évszázadokon át fontos sóközpont volt.", "A városnak élénk művészeti élete van."],
-      ro: ["Georg Friedrich Händel s-a născut la Halle în 1685.", "Universitatea Martin Luther a fost fondată în 1694.", "Halle a fost timp de secole un important centru al sării.", "Orașul are o scenă artistică vibrantă."],
-      en: ["Georg Friedrich Händel was born in Halle in 1685.", "Martin Luther University was founded in 1694.", "Halle was an important salt centre for centuries.", "The city has a vibrant arts scene."],
-    },
-    descriptionAdvanced: {
-      de: "Halle an der Saale ist eine Stadt der Kunst, Kultur und Wissenschaft mit einer über 1.000-jährigen Salztradition. Der Reichtum aus den Solequellen machte Halle im Mittelalter zu einer wohlhabenden Hansestadt. Das Wahrzeichen der Stadt ist der Marktplatz mit den fünf Türmen der Marktkirche und dem Roten Turm. Halle ist zudem die Geburtsstadt des Komponisten Georg Friedrich Händel, dessen Erbe alljährlich mit den Händel-Festspielen gefeiert wird. Mit der Leopoldina, der ältesten naturwissenschaftlichen Akademie der Welt, ist die Stadt ein internationales Zentrum der Forschung. Das fast vollständig erhaltene historische Stadtbild und die lebendige Kunsthochschule Burg Giebichenstein verleihen Halle ein einzigartiges Flair. Geschichte K7 – Salzhandel und hanseatische Handelsgeschichte.",
-      hu: "Halle, város Szász-Anhalt tartományban, a Saale folyó partján, Németország Halle, város Észak-Rajna-Vesztfália tartományban, Németország Halle, település Németországban, Alsó-Szászországban, a Bentheimi járásban Halle, település Németországban, Alsó-Szászországban, a Holzmindeni járásban Halle, város Belgiumban Halle, kanton Belgium Halle-Vilvoorde járásában Halle (album), Halle Berry első albuma A(z) Halle (Saale) egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
-      ro: "Halle pe Saale este un centru cultural și științific major, faimos pentru producția sa de sare care datează de peste un mileniu. Orașul este locul de naștere al compozitorului Georg Friedrich Händel, în onoarea căruia se organizează anual un festival internațional. Halle găzduiește, de asemenea, celebra Academie Națională de Științe Leopoldina și Universitatea Martin Luther, una dintre cele mai vechi din Germania. Un punct de atracție de importanță mondială este Discul de la Nebra, cea mai veche reprezentare a cerului, expus la Muzeul Preistoriei. Orașul îmbină arhitectura industrială a salinelor cu palatele renascentiste și modernismul. Istorie K7 – Producția de sare și Iluminismul german.",
-      en: "Halle (Saale) is a city of profound musical heritage and scientific prestige, often called the 'Cultural Capital' of Saxony-Anhalt. It is world-famous as the birthplace of the Baroque composer George Frideric Handel, whose legacy is celebrated in his historic home and an annual festival. Halle is also home to the Leopoldina, the German National Academy of Sciences, and the prestigious Martin Luther University. The city's unique silhouette is defined by the 'Five Towers' on the marketplace and the medieval Giebichenstein Castle. Unlike many other large German cities, Halle's historic center survived World War II largely intact, preserving its maze of narrow streets and elegant plazas. Today, the city is a vibrant center for the digital economy and nanotechnology, bridging its rich scholarly past with a high-tech future. Geschichte K8 – The history of music and scientific academies."
-    },
-    factsAdvanced: {
-      de: ["Älteste wissenschaftliche Akademie der Welt (Leopoldina) hat hier ihren Sitz.", "Geburtsstadt des Weltkomponisten Georg Friedrich Händel (1685).", "Wahrzeichen: Die vier Türme der Marktkirche Unser Lieben Frauen.", "Beherbergt die 'Himmelsscheibe von Nebra' im Landesmuseum für Vorgeschichte.", "Historisches Zentrum der Salzgewinnung durch die Bruderschaft der Halloren.", "Größte Stadt in Sachsen-Anhalt und bedeutender Hochschulstandort."],
-      hu: [
-        "A(z) Halle (Saale) területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Halle (Saale) tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
-        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
-        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
-      ],
-      ro: ["Compozitorul Georg Friedrich Händel s-a născut aici în anul 1685.", "Academia Leopoldina, fondată în 1652, este cea mai veche societate științifică din lume.", "Producția de sare (Halloren) este atestată documentar încă din anul 806.", "Discul de la Nebra, vechi de 3.600 de ani, este piesa centrală a muzeului local.", "Turnurile Bisericii Mari (Marktkirche) sunt un simbol inconfundabil al pieței centrale.", "Găzduiește Fundațiile Francke, un complex educațional și social unic din secolul XVIII."],
-      en: ["The birthplace of the world-famous composer George Frideric Handel (1685).", "Home to the Leopoldina, the oldest scientific academy in the world.", "Features the iconic 'Five Towers' on the historic marketplace.", "The 'Himmelsscheibe von Nebra' (Nebra Sky Disk) is displayed here.", "Site of the Francke Foundations, a world-unique pietist educational ensemble.", "Historically one of the wealthiest cities due to its salt production (Halloren)."]
-    }, image: "/poi-images/city-halle-saale-extra.webp"},
-  {
+      {
     id: "city-dessau-extra",
     type: "city",
     parent: "DE-ST",

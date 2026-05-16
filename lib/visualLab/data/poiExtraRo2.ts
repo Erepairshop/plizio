@@ -2912,85 +2912,7 @@ export const poiExtraRo2: POI[] = [
       ro: ["Râul Iza are o lungime de aproximativ 83 de kilometri și un bazin hidrografic vast.", "Izvorăște la o altitudine de 1.380 de metri, sub vârful Pietrosu din munții Rodnei.", "Valea Izei găzduiește biserici celebre precum cele din Bârsana, Ieud și Poienile Izei.", "Râul este un afluent de stânga al Tisei, unindu-se cu aceasta la Sighetu Marmației.", "Pe cursul Izei încă mai funcționează instalații tehnice țărănești acționate de apă (vâltori).", "Numele râului se regăsește în numeroase balade și cântece populare maramureșene.", "Valea Izei este recunoscută ca zonă cu o biodiversitate ridicată, protejată prin situri Natura 2000.", "Iza este unul dintre puținele râuri carpatine care păstrează zone extinse de luncă naturală."],
       en: ["Originates in the Rodna Mountains at an altitude of about 1,200 meters.", "Flows for approximately 83 kilometers before joining the Tisa River.", "The Iza Valley is home to several UNESCO World Heritage wooden churches.", "Known for its clear waters, harboring species like trout and huchen.", "Passes through significant cultural centers like Săpânța and Sighetu Marmației.", "The river's name is of ancient origin, possibly related to pre-Roman languages.", "Its basin covers about 1,300 square kilometers of northwestern Romania.", "A key element in the traditional 'Maramureș Village' landscape."]
     }, image: "/poi-images/river-iza-extra.webp"},
-  {
-    id: "river-siret-extra",
-    type: "river",
-    parent: "RO-SV",
-    coords: [26.25, 47.65],
-    name: { de: "Siret", hu: "Szeret", ro: "Râul Siret", en: "Siret River" },
-    description: {
-      de: "Einer der wichtigsten Flüsse Rumäniens, der durch die Moldau fließt.",
-      hu: "Románia egyik legfontosabb folyója, amely Moldván folyik keresztül.",
-      ro: "Unul dintre cele mai importante râuri din Moldova.",
-      en: "One of the most important rivers in the Moldavia region."
-    },
-    facts: {
-      de: ["Größter Zufluss der Donau in RO.", "Stauseen zur Stromerzeugung."],
-      hu: ["A Duna legnagyobb hazai mellékfolyója.", "Víztározók áramtermeléshez."],
-      ro: ["Cel mai mare afluent al Dunării în RO.", "Lacuri de acumulare für energie."],
-      en: ["Largest Danube tributary in RO.", "Features dams for power."]
-    },
-    descriptionAdvanced: {
-      de: "Der Siret ist einer der bedeutendsten Flüsse Rumäniens und der wasserreichste Zufluss der Donau auf rumänischem Staatsgebiet. Er entspringt in den ukrainischen Karpaten und durchfließt den Osten Rumäniens von Norden nach Süden, wobei er die historische Region Moldau maßgeblich prägt. Sein Lauf ist von großer wirtschaftlicher Bedeutung, insbesondere für die Energieerzeugung durch eine Kette von Stauseen und Wasserkraftwerken. Die fruchtbaren Ebenen entlang des Siret sind wichtige landwirtschaftliche Gebiete, während der Fluss selbst ein komplexes Ökosystem für zahlreiche Fisch- und Vogelarten darstellt. Historisch diente der Siret als wichtige Handelsroute und natürliche Grenze. Heute ist das Siret-Tal eine abwechslungsreiche Landschaft, die von sanften Hügeln im Norden bis zu weiten Tiefebenen im Süden reicht, bevor der Fluss bei Galați majestätisch in die Donau mündet und so den Kreislauf des Wassers in dieser Region vervollständigt.",
-      hu: "A Szeret (Siret) folyó Kelet-Románia leghosszabb és egyik legjelentősebb vízfolyása, amely az ukrán Kárpátokban ered és a Duna bal oldali mellékfolyójaként ömlik a tengerbe Galați közelében. A Szeret völgye Moldva gazdasági és ökológiai gerince, amely évszázadokon át meghatározta a régió fejlődését és kereskedelmi útvonalait. A folyó mentén számos víztározó és vízerőmű épült, amelyek fontos szerepet játszanak az ország energiatermelésében és az árvízvédelemben. A Szeret ártere gazdag élővilággal rendelkezik, fontos madárvonulási útvonal és horgászparadicsom. Bár a folyó néha pusztító áradásokkal emlékeztet erejére, szabályozása és a völgyében folyó mezőgazdaság döntő fontosságú a román élelmiszerbiztonság szempontjából. A Szeret mentén sétálva feltárul Moldva változatos tája, a domboktól egészen a dunai torkolatvidékig.",
-      ro: "Râul Siret este cel mai important curs de apă din estul României și cel mai mare afluent al Dunării de pe teritoriul țării în ceea ce privește debitul. Izvorând din Carpații Ucrainei, Siretul traversează Moldova de la nord la sud, modelând relieful regiunii prin văile sale largi și fertile. Râul are o importanță strategică imensă pentru economia națională, pe cursul său fiind construite numeroase baraje și lacuri de acumulare ce produc energie electrică și asigură protecția împotriva inundațiilor. Valea Siretului a fost istoric o rută comercială și de migrație esențială, legând nordul continentului de gurile Dunării. Deși este un râu cu o forță uneori distructivă în perioadele de viituri, Siretul rămâne un ecosistem vital, cu lunci bogate în biodiversitate și zone de pescuit renumite, fiind simbolul forței hidrografice a Moldovei.",
-      en: "The Siret River is one of the most important waterways in Romania, draining a vast portion of the eastern Carpathians and the Moldavian Plateau. As the largest tributary of the Danube in terms of water volume, the Siret has played a crucial role in the economic and social history of the region. Its wide valley has historically been a major trade route and a fertile agricultural zone. Today, the river is harnessed by several large hydroelectric dams and reservoirs, which provide electricity and regulate water flow for irrigation. The lower course of the Siret, near its confluence with the Danube, forms complex wetlands that are vital for migratory birds and local biodiversity. Despite industrial and agricultural pressures, the Siret remains a majestic presence in the eastern Romanian landscape, symbolizing the strength and continuity of life in the Moldavian plains."
-    },
-    factsAdvanced: {
-      de: [
-        "Der Siret hat die größte Abflussmenge aller Donauzuflüsse in Rumänien.",
-        "Sein Einzugsgebiet umfasst einen großen Teil der Region Moldau.",
-        "Entlang des Flusses wurden zahlreiche Deiche zum Hochwasserschutz errichtet.",
-        "Der Fluss bildet an einigen Stellen breite Auenlandschaften mit reicher Flora.",
-        "Wichtige Städte wie Bacău und Roman liegen in unmittelbarer Nähe seines Laufs.",
-        "Die Stauseen am Siret werden auch für die industrielle Wasserversorgung genutzt.",
-        "Der Siret ist bekannt für seine Vorkommen an Welsen und Hechten.",
-        "In der Antike wurde der Fluss unter dem Namen 'Hierasus' erwähnt."
-      ],
-      hu: ["A Szeret folyó teljes hossza 706 kilométer, ebből 559 km Romániában.", "Vízgyűjtő területe a legnagyobb az összes romániai folyó közül.", "A folyón több nagy víztározó tó is található (pl. Beresti, Galbeni).", "A Szeret a Duna legnagyobb mellékfolyója a vízhozam tekintetében.", "Az ártér számos ritka vízi növény- és madárfaj védett élőhelye.", "Történelmileg a Szeret fontos védelmi vonalként is szolgált Moldvában.", "A folyó torkolatánál jelentős ipari központok és kikötők alakultak ki.", "A Szeret menti alluviális talajok kiválóak a gabonatermesztésre."],
-      ro: ["Siretul are o lungime totală de 706 km, dintre care 559 km se află în România.", "Este râul cu cel mai mare bazin hidrografic din România (aproximativ 44.000 kmp).", "Pe Siret se află cascade de hidrocentrale importante la Berești, Galbeni și Răcăciuni.", "Se varsă în Dunăre la sud de orașul Galați, contribuind masiv la debitul fluviului.", "Valea Siretului este una dintre cele mai importante axe feroviare și rutiere ale țării.", "În antichitate, râul era cunoscut sub numele grecesc 'Hierasus'.", "Lunca Siretului adăpostește numeroase rezervații naturale și situri arheologice importante.", "Debitul mediu la vărsare este de aproximativ 250 metri cubi pe secundă."],
-      en: ["The Siret is the largest tributary of the Danube by discharge in Romania.", "Its total length is 706 km, with 559 km flowing through Romanian territory.", "Originates in the Ukrainian Carpathians and flows south through Moldova.", "Hosts several major reservoirs, including Izvoru Muntelui's downstream dams.", "Passes through or near major cities like Bacău, Roman, and Galați.", "The river basin covers over 40,000 square kilometers in Romania.", "Historically marked the border between the principalities of Moldova and Wallachia.", "Important habitat for diverse fish species like barbel, pike, and carp."]
-    }, image: "/poi-images/river-siret-extra.webp"},
-  {
-    id: "river-prut-extra",
-    type: "river",
-    parent: "RO-BT",
-    coords: [27.20, 48.00],
-    name: { de: "Pruth", hu: "Prut", ro: "Râul Prut", en: "Prut River" },
-    description: {
-      de: "Grenzfluss zwischen Rumänien und der Republik Moldau.",
-      hu: "Határfolyó Románia és a Moldovai Köztársaság között.",
-      ro: "Râu de frontieră între România și Republica Moldova.",
-      en: "Border river between Romania and the Republic of Moldova."
-    },
-    facts: {
-      de: ["Zweitlängster Fluss Rumäniens.", "Mündet bei Galați in die Donau."],
-      hu: ["Románia második leghosszabb folyója.", "Galacnál ömlik a Dunába."],
-      ro: ["Al doilea râu ca lungime din RO.", "Se varsă în Dunăre la Galați."],
-      en: ["Second longest river in Romania.", "Flows into the Danube near Galați."]
-    },
-    descriptionAdvanced: {
-      de: "Der Pruth (Prut) ist nicht nur ein bedeutendes Gewässer, sondern auch ein Fluss mit enormer politischer und historischer Symbolkraft, da er die Grenze zwischen Rumänien und der Republik Moldau bildet. Er entspringt in den Waldkarpaten der Ukraine und fließt über fast 1.000 Kilometer bis zu seiner Mündung in die Donau. Die Ufer des Pruth sind von einer wilden Schönheit geprägt, mit weiten Auen und Feuchtgebieten, die unter Naturschutz stehen und ein Paradies für Zugvögel sind. Für die Menschen in der Region ist der Fluss eine lebenswichtige Wasserquelle und ein Symbol der Verbundenheit über nationale Grenzen hinweg. Historisch war der Pruth Schauplatz zahlreicher Friedensverträge und militärischer Auseinandersetzungen, die die Landkarte Südosteuropas formten. Heute ist der Fluss ein ruhiger Strom, der zu Naturbeobachtungen einlädt und durch seine unberührten Landschaften und die reiche Fischfauna besticht, was ihn zu einem wichtigen ökologischen Korridor in Osteuropa macht.",
-      hu: "A Prut folyó Románia keleti határfolyója, amely méltóságteljesen kanyarog és választja el az országot a Moldovai Köztársaságtól, mielőtt a Dunába torkollna. Az ukrán Kárpátokból eredő folyó nemcsak politikai határ, hanem egyedülálló ökológiai folyosó is, amely érintetlen ártéri erdőknek és mocsaras vidékeknek ad otthont. A Prut mentén található számos védett terület, mint például a Stânca-Costești víztározó vagy az Alsó-Prut ártere, ahol ritka madárfajok és gazdag halállomány figyelhető meg. A folyó története szorosan összefonódik a román nép történelmével, számos dalban és irodalmi műben is megjelenik mint a testvéri egység és a távolság szimbóluma. A Prut mente ideális helyszín a csendes természetjárásra, a madármegfigyelésre és a határmenti régiók kulturális örökségének felfedezésére, ahol az idő mintha lassabban telne.",
-      ro: "Râul Prut este o graniță naturală și un simbol istoric de o importanță majoră, separând România de Republica Moldova pe aproape întreg parcursul său românesc. Al doilea râu ca lungime din țară după Dunăre, Prutul izvorăște din Carpații Ucraineni și se varsă în fluviu lângă Galați. Cursul său este marcat de o frumusețe sălbatică, cu numeroase meandre, insule și zone umede care constituie habitate vitale pentru nenumărate specii de păsări și pești. Valea Prutului este un loc al memoriei colective românești, evocat adesea în literatură ca un simbol al unității și separării. Din punct de vedere ecologic, râul face parte din Rezervația Biosferei Delta Dunării prin gurile sale de vărsare și adăpostește ecosisteme unice precum lacul Beleu. Prutul rămâne o punte de legătură spirituală și o resursă naturală esențială pentru comunitățile din estul spațiului românesc.",
-      en: "The Prut River marks the historical and current eastern border of Romania, separating it from the Republic of Moldova. Originating in the Wooded Carpathians of Ukraine, the Prut flows through a variety of landscapes, from steep mountain valleys to wide, fertile floodplains. As a major tributary of the Danube, the Prut has immense ecological significance, particularly in its lower course where the Stânca-Costești reservoir regulates its flow and provides hydroelectric power. The river's banks are dotted with diverse flora and fauna, and its wetlands are critical stops for migratory birds on the European-African flyway. Historically, the Prut has been a border of cultures and empires, and today it remains a vital artery for regional cooperation and environmental conservation. Its serene waters and the vast, quiet landscapes of the Prut Valley offer a sense of timelessness and natural majesty."
-    },
-    factsAdvanced: {
-      de: [
-        "Der Pruth ist nach der Donau der zweitlängste Fluss Rumäniens.",
-        "Große Teile des Flusslaufs gehören zum Biosphärenreservat Unterer Pruth.",
-        "Die berühmte 'Eiffelturm-Brücke' bei Ungheni überquert diesen Fluss.",
-        "Der Pruth ist für seine großen Bestände an Wildkarpfen bekannt.",
-        "An seinen Ufern finden sich zahlreiche archäologische Stätten der Cucuteni-Kultur.",
-        "Der Salzgehalt des Wassers nimmt im Unterlauf aufgrund von Bodenbeschaffenheiten zu.",
-        "Der Fluss markiert die östliche Außengrenze der Europäischen Union.",
-        "Früher war der Pruth schiffbar und diente dem Transport von Getreide und Holz."
-      ],
-      hu: ["A Prut folyó hossza 953 kilométer, amivel Európa egyik leghosszabb folyója.", "711 kilométeren keresztül képezi Románia és Moldova államhatárát.", "A Stânca-Costești gát a folyó egyik legnagyobb technikai létesítménye.", "A Prut torkolata a Duna-deltához hasonlóan gazdag biodiverzitással rendelkezik.", "A folyó menti holtágak fontos ívóhelyek a dunai halak számára.", "Számos régészeti lelőhely tanúskodik a Prut menti korai emberi településekről.", "A folyó vízminősége javult az elmúlt évtizedek közös védelmi projektjei révén.", "A Prut-völgy híres a finom borairól és a határ menti vendégszeretetről."],
-      ro: ["Prutul are o lungime totală de 953 km, fiind unul dintre cei mai lungi râuri din Europa.", "Formează granița de est a României pe o distanță de 711 kilometri.", "Barajul Stânca-Costești de pe Prut este unul dintre cele mai mari din sud-estul Europei.", "Râul este navigabil pe cursul inferior, asigurând transportul local de mărfuri.", "Lunca Prutului este arie protejată la nivel european (Natura 2000) pentru păsările migratoare.", "Prutul se varsă în Dunăre în localitatea Giurgiulești, la punctul de întâlnire a trei state.", "Istoric, râul a fost martorul a numeroase bătălii și tratate de pace între mari imperii.", "Fauna piscicolă include specii valoroase precum somnul, știuca și crapul sălbatic."],
-      en: ["The Prut is the second longest river in Romania, with a total length of 953 km.", "Forms the entire 711 km border between Romania and the Republic of Moldova.", "Originates in the Chornohora Mountains of the Ukrainian Carpathians.", "The Stânca-Costești Dam on the Prut is the largest on a Romanian border river.", "Joins the Danube near Reni, just before the Danube Delta begins.", "Includes the Lower Prut Floodplain Natural Park, a Ramsar protected site.", "Its basin is home to rare fish species like the sterlet and the zingel.", "Historically mentioned by Herodotus under the name 'Pyretos'."]
-    }, image: "/poi-images/river-prut-extra.webp"},
-  {
+      {
     id: "river-bistrita-extra",
     type: "river",
     parent: "RO-NT",
@@ -3224,46 +3146,7 @@ export const poiExtraRo2: POI[] = [
       ro: ["Lacul Mostiștea este unul dintre cele mai mari lacuri antropice din Câmpia Română.", "Suprafața sa totală poate atinge aproximativ 20 de kilometri pătrați.", "Este principala sursă pentru sistemul de irigații Mostiștea, esențial pentru Bărăgan.", "Bazinul este renumit pentru speciile de crap, somn și șalău.", "Face parte din rețeaua europeană Natura 2000 datorită habitatelor avifaunistice.", "Barajul principal este situat în localitatea Frăasinet, județul Călărași.", "Mostiștea a fost creat prin amenajarea unei vechi văi naturale cu debit variabil.", "Adâncimea medie a lacului este redusă, specifică lacurilor de stepă și câmpie."],
       en: ["One of the largest freshwater bodies in southern Romania, spanning over 2,000 hectares.", "Forms a chain of 14 reservoirs designed to regulate the flow of the Mostiștea River.", "Average depth is relatively shallow, typically ranging between 1 and 3 meters.", "Host to significant colonies of grey herons, egrets, and wild ducks.", "An important regional center for commercial and recreational fish farming.", "Crucial for the irrigation of tens of thousands of hectares in the Bărăgan Plain.", "Located just about 60 kilometers east of Bucharest, making it an accessible day trip.", "The lake's surroundings include several archaeological sites from the Gumelnița culture."]
     }, image: "/poi-images/lake-mostistea-extra.webp"},
-  {
-    id: "lake-razim-extra",
-    type: "lake",
-    parent: "RO-TL",
-    coords: [28.95, 44.90],
-    name: { de: "Razim-See", hu: "Razim-tó", ro: "Lacul Razim", en: "Razim Lake" },
-    description: {
-      de: "Der größte Süßwassersee Rumäniens, Teil des Razim-Sinoe-Komplexes.",
-      hu: "Románia legnagyobb édesvizű tava, a Razim-Sinoe komplexum része.",
-      ro: "Cel mai mare lac de apă dulce din România.",
-      en: "The largest freshwater lake in Romania, part of the Razim-Sinoe complex."
-    },
-    facts: {
-      de: ["Ehemalige Lagune.", "Wichtiger Lebensraum für Vögel."],
-      hu: ["Egykori tengeri lagúna.", "Fontos élőhely a madaraknak."],
-      ro: ["Fostă lagună marină.", "Habitat important pentru păsări."],
-      en: ["Former marine lagoon.", "Important habitat for birds."]
-    },
-    descriptionAdvanced: {
-      de: "Der Razim-See (oder Razelm) ist der flächenmäßig größte Süßwassersee Rumäniens und bildet den nördlichen Teil des gewaltigen Razim-Sinoe-Lagunenkomplexes. Gelegen südlich des Donaudeltas, war er ursprünglich eine Meeresbucht des Schwarzen Meeres, die durch die Ablagerung von Flusssedimenten und die Bildung von Sandnehrungen vom offenen Meer getrennt wurde. Heute ist der See ein ökologisches Juwel von europäischem Rang und Teil des Biosphärenreservats Donaudelta. Die schier endlose Wasserfläche bietet einen atemberaubenden Anblick, besonders bei Sonnenuntergang, wenn sich der Himmel im spiegelglatten Wasser bricht. Für die Vogelwelt ist der Razim-See ein lebensnotwendiges Refugium; tausende von Pelikanen, Reihern und seltenen Zugvögeln finden hier ideale Brut- und Rastbedingungen. Die traditionelle Fischerei prägt seit Jahrhunderten das Leben in den umliegenden Dörfern, wo die Zeit oft langsamer zu laufen scheint. Für Reisende bietet der See eine einzigartige Mischung aus maritimer Weite und der mystischen Stille der Delta-Landschaft, fernab von ausgetretenen Touristenpfaden.",
-      hu: "A Razim-tó (vagy Razelm) Románia legnagyobb édesvizű tava és a Razim-Sinoe komplexum központi eleme a Fekete-tenger partján, a Duna-deltától délre. Ez a hatalmas lagúna-rendszer egykor tengeröböl volt, de a folyami hordalék elzárta a tengertől, mára pedig Európa egyik legfontosabb vizes élőhelyévé vált. A Razim-tó sekély vize és hatalmas nádasai ideális fészkelőhelyet biztosítanak számtalan ritka madárfajnak, köztük pelikánoknak és kárókatonáknak. A tó partján fekszik az ókori görög-római város, Argamum (Orgame) romja, ahonnan lélegzetelállító panoráma nyílik a vízfelületre és a Popina-szigetre. A Razim nemcsak természeti kincs és halászati központ, hanem a csendes turizmus és a vitorlázás kedvelt helyszíne is, ahol a végtelen horizont és a természet vadsága egyedülálló élményt nyújt a látogatóknak.",
-      ro: "Lacul Razim (sau Razelm) este cel mai mare lac de apă dulce din România și piesa centrală a complexului lagunar Razim-Sinoe, situat în imediata apropiere a Deltei Dunării. Fost golf marin închis prin depunerea aluviunilor dunărene și formarea grindurilor, Razimul este astăzi o întindere de apă spectaculoasă ce combină caracteristicile deltei cu cele ale zonei litorale. Lacul este un paradis pentru biodiversitate, fiind un habitat esențial pentru numeroase specii de pești și păsări de apă protejate la nivel internațional. În centrul său se află insula Popina, o rezervație naturală de o importanță geologică și faunistică deosebită. Razimul este nu doar o resursă piscicolă vitală pentru comunitățile locale de lipoveni, ci și o destinație turistică de o frumusețe sălbatică, unde cerul se unește cu apa într-un orizont nesfârșit, păstrând spiritul neîmblânzit al Dobrogei maritime.",
-      en: "Lake Razim, also known as Razelm, is the largest freshwater lake in Romania and the center of a vast lagoon complex on the Black Sea coast. Historically a salt-water lagoon open to the sea, Razim was transformed into a freshwater reservoir during the communist era to support massive irrigation projects in Northern Dobruja. Today, it is an integral part of the Danube Delta Biosphere Reserve, an UNESCO World Heritage site. The lake's shallow, expansive waters are a paradise for biodiversity, hosting hundreds of bird species and providing a vital nursery for various fish. The western shores of the lake are dominated by the ruins of ancient fortresses like Enisala, which offer spectacular panoramas over the vast blue horizon. Razim remains a place of raw natural beauty, where the Dobrujan steppe meets the aquatic world of the delta, offering a unique landscape of endless water and historical mystery."
-    },
-    factsAdvanced: {
-      de: [
-        "Der Razim-See ist das größte Süßwasserbecken im gesamten Donaudelta-System.",
-        "Er entstand durch die Abtrennung einer ehemaligen Schwarzmeerbucht vom offenen Meer.",
-        "Der See ist ein Schlüsselhabitat für den Schutz des Krauskopf-Pelikans in Europa.",
-        "Mit einer Tiefe von meist nur wenigen Metern ist er ein typisches Lagunengewässer.",
-        "Der See ist über Kanäle direkt mit dem Sfântu-Gheorghe-Arm der Donau verbunden.",
-        "In der Mitte des Sees liegt die Insel Popina, ein geschütztes Naturreservat.",
-        "Die Region um den See ist reich an griechischen und römischen Ruinen (z.B. Enisala).",
-        "Der Razim-See ist ein bedeutendes Fanggebiet für Süßwasserfische wie Brachsen und Hechte."
-      ],
-      hu: ["A Razim-tó vízfelülete több mint 400 négyzetkilométer.", "Ez a Razim-Sinoe lagúna-komplexum legészakibb és legnagyobb tagja.", "A tó közepén található Popina-sziget szigorúan védett természeti rezervátum.", "A tó vize a Duna csatornáin keresztül frissül, ezért mára édesvizűvé vált.", "A Razim partján találhatók Románia legrégebbi görög kolóniájának romjai.", "A tó híres a gazdag halállományáról, különösen a süllőről és pontyról.", "Fontos állomása a madárvonulási útvonalaknak a Fekete-tenger mentén.", "A tó környéki falvakban ma is élő a hagyományos lipován halászkultúra."],
-      ro: ["Razim este cel mai mare lac din România, având o suprafață de aproximativ 394 kmp.", "Face parte din Rezervația Biosferei Delta Dunării, fiind protejat prin convenții internaționale.", "Inițial a fost un golf al Mării Negre, numit în antichitate Golful Halmyris.", "Insula Popina, aflată în lac, este singura zonă stâncoasă dintr-un peisaj dominat de apă și stuf.", "Adâncimea maximă a lacului este de aproximativ 3,5 metri.", "Razimul comunică cu brațul Sfântu Gheorghe al Dunării prin canalele Dunavăț și Dranov.", "Este o zonă de importanță majoră pentru cuibăritul păsărilor migratoare rare.", "Pe țărmurile sale se află ruinele cetății greco-romane Argamum (Orgame)."],
-      en: ["The largest lake in Romania by surface area, covering approximately 415 square kilometers.", "Part of the Razim-Sinoe complex, the largest lagoon system in the country.", "Connected to the Danube via several channels, which keep its water fresh.", "Maximum depth is surprisingly shallow, reaching only about 3 to 3.5 meters.", "A critical sanctuary for the red-breasted goose and other globally endangered birds.", "The Enisala Fortress on its shore was built by Genovese and Byzantine architects.", "Populated by numerous fish species like pike, zander, and the huge European catfish.", "Integrated into the Danube Delta Biosphere Reserve since 1991."]
-    }, image: "/poi-images/lake-razim-extra.webp"},
-  {
+    {
     id: "lake-sinoe-extra",
     type: "lake",
     parent: "RO-CT",

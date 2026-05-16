@@ -3,61 +3,7 @@ import type { POI } from "./poi";
 export const poiExtraDe4a: POI[] = [
   // ─── DE-TH Thüringen (+15) ──────────────────────────────────────────────────
 
-  {
-    id: "city-erfurt-extra",
-    type: "state-capital",
-    parent: "DE-TH",
-    coords: [11.0299, 50.9787],
-    name: { de: "Erfurt", hu: "Erfurt", ro: "Erfurt", en: "Erfurt" },
-    description: {
-      de: "Erfurt ist die Landeshauptstadt Thüringens und eine der ältesten Städte Deutschlands. Die mittelalterliche Altstadt mit dem Dom und der Krämerbrücke zieht Besucher aus aller Welt an.",
-      hu: "Erfurt Türingia tartomány fővárosa és Németország egyik legrégebbi városa. A középkori óváros a dómmal és a Krämerbrückével a világ minden tájáról vonzza a látogatókat.",
-      ro: "Erfurt este capitala landului Turingia și unul dintre cele mai vechi orașe din Germania. Centrul istoric medieval cu catedrala și Krämerbrücke atrage vizitatori din toată lumea.",
-      en: "Erfurt is the state capital of Thuringia and one of Germany's oldest cities. The medieval old town with its cathedral and Krämerbrücke bridge attracts visitors from around the world.",
-    },
-    facts: {
-      de: [
-        "Die Krämerbrücke ist Europas längste komplett bebaute und bewohnte Brücke.",
-        "Martin Luther studierte und wurde an der Universität Erfurt zum Priester ordiniert.",
-        "Der Erfurter Dom (Dom St. Marien) überragt die Stadt auf einem Felssporn.",
-        "Erfurt war ein wichtiges Handelszentrum des Mittelalters für den Waidhandel.",
-        "Die Egapark Erfurt ist einer der größten Gartenbauparks Deutschlands.",
-      ],
-      hu: [
-        "A Krämerbrücke Európa leghosszabb, teljesen beépített és lakott hídja.",
-        "Luther Márton az Erfurti Egyetemen tanult, majd ott szentelték pappá.",
-        "Az Erfurti Dóm (Mariendom) egy sziklán magasodik a város fölé.",
-        "Erfurt a középkorban a festőnövény-kereskedelem fontos kereskedelmi központja volt.",
-        "Az Egapark Erfurt Németország egyik legnagyobb kertészeti parkja.",
-      ],
-      ro: [
-        "Krämerbrücke este cel mai lung pod complet construit și locuit din Europa.",
-        "Martin Luther a studiat la Universitatea din Erfurt și a fost hirotonit preot acolo.",
-        "Catedrala din Erfurt (Dom St. Marien) domină orașul de pe un pinten stâncos.",
-        "Erfurt a fost un important centru comercial medieval pentru comerțul cu vaid.",
-        "Egapark Erfurt este unul dintre cele mai mari parcuri horticole din Germania.",
-      ],
-      en: [
-        "The Krämerbrücke is Europe's longest fully built and inhabited bridge.",
-        "Martin Luther studied and was ordained as a priest at the University of Erfurt.",
-        "The Erfurt Cathedral (Dom St. Marien) towers over the city on a rocky spur.",
-        "Erfurt was an important medieval trading center for woad trade.",
-        "The Egapark Erfurt is one of Germany's largest horticultural parks.",
-      ],
-    },
-    descriptionAdvanced: {
-      de: "Erfurt, die Landeshauptstadt Thüringens, blickt auf eine über 1270-jährige Geschichte zurück und zählt zu den besterhaltenen mittelalterlichen Städten Deutschlands. Im Jahr 742 vom Heiligen Bonifatius als Bistum gegründet, entwickelte sich die Stadt im Mittelalter durch den Handel mit dem wertvollen Färberwaid zu einem wirtschaftlichen Zentrum. Ein architektonisches Juwel ist die Krämerbrücke, die längste durchgehend mit Häusern bebaute und bewohnte Brücke Europas, die den Fluss Gera überspannt. Über der Stadt thront das beeindruckende Ensemble aus dem Erfurter Dom und der Severikirche auf dem Domberg, das Schauplatz zahlreicher historischer Ereignisse war. Die Universität Erfurt, im 14. Jahrhundert gegründet, gehört zu den ältesten des Landes und war die Studienstätte Martin Luthers, was die Bedeutung der Stadt für die Reformation unterstreicht. Heute ist Erfurt ein wichtiger Verwaltungs-, Messe- und Logistikstandort in der Mitte Deutschlands.",
-      hu: "Erfurt, Türingia tartományi fővárosa több mint 1270 éves múltra tekint vissza, és Németország egyik legjobb állapotban fennmaradt középkori városa. A Szent Bonifác által 742-ben püspökségként alapított település a középkorban az értékes festőcsüllenggel folytatott kereskedelem révén vált gazdasági központá. Építészeti gyöngyszeme a Krämerbrücke, amely Európa leghosszabb, házakkal beépített és lakott hídja a Gera folyó felett. A város felett magasodik az Erfurti Dóm és a Szent Severus-templom lenyűgöző együttese a Dóm-hegyen, amely számos történelmi esemény színhelye volt. Az erfurti egyetem, amelyet a 14. században alapítottak, az ország egyik legrégebbi felsőoktatási intézménye, és itt tanult Luther Márton is, ami kiemeli a város jelentőségét a reformációban. Ma Erfurt fontos közigazgatási és logisztikai központ Németország szívében.",
-      ro: "Erfurt, capitala landului Turingia, are o istorie de peste 1270 de ani și este unul dintre cele mai bine conservate orașe medievale din Germania. Fondat în anul 742 de Sfântul Bonifaciu ca sediu episcopal, orașul s-a dezvoltat în Evul Mediu ca un centru economic prin comerțul cu drobișor (Isatis tinctoria). O bijuterie arhitecturală este Krämerbrücke, cel mai lung pod din Europa construit cu case și locuit continuu, care traversează râul Gera. Deasupra orașului tronează ansamblul impresionant format din Catedrala din Erfurt și Biserica Sfântul Severus de pe dealul Domberg, locul a numeroase evenimente istorice. Universitatea din Erfurt, fondată în secolul al XIV-lea, este una dintre cele mai vechi din țară și a fost locul de studiu al lui Martin Luther, subliniind importanța orașului pentru Reformă. Astăzi, Erfurt este un centru administrativ, expozițional și logistic important în centrul Germaniei.",
-      en: "Erfurt, the state capital of Thuringia, looks back on over 1,270 years of history and is among the best-preserved medieval cities in Germany. Founded in 742 by Saint Boniface as a bishopric, the city developed into an economic center during the Middle Ages through trade in woad, a valuable dye plant. An architectural jewel is the Merchants' Bridge (Krämerbrücke), the longest inhabited bridge in Europe continuously built with houses, spanning the river Gera. Overlooking the city is the impressive ensemble of Erfurt Cathedral and Severikirche on the Domberg hill, which has been the site of numerous historical events. The University of Erfurt, founded in the 14th century, is one of the oldest in the country and was where Martin Luther studied, highlighting the city's significance for the Reformation. Today, Erfurt is a key administrative, trade fair, and logistics hub in central Germany.",
-    },
-    factsAdvanced: {
-      de: ["742: Gründung des Bistums Erfurt durch den Heiligen Bonifatius.", "1379: Privilegierung der Universität Erfurt, einer der ältesten Hochschulen Deutschlands.", "120 Meter: Die beachtliche Länge der Krämerbrücke, die den Gera-Fluss überquert.", "32 Häuser: Anzahl der historischen Gebäude, die direkt auf der Krämerbrücke stehen.", "Gloriosa: Die größte freischwingende mittelalterliche Glocke der Welt im Erfurter Dom.", "1501-1505: Zeitraum, in dem Martin Luther an der Erfurter Universität studierte."],
-      hu: ["742: Az erfurti püspökség alapítása Szent Bonifác által.", "1379: Az Erfurti Egyetem kiváltságlevelének kiadása, az egyik legrégebbi német főiskola.", "120 méter: A Gera folyót átszelő Krämerbrücke figyelemre méltó hossza.", "32 ház: A közvetlenül a Krämerbrücke hídon álló történelmi épületek száma.", "Gloriosa: A világ legnagyobb szabadon lengő középkori harangja az Erfurti Dómban.", "1501-1505: Időszak, amikor Luther Márton az Erfurti Egyetemen tanult."],
-      ro: ["742: Fondarea episcopiei de Erfurt de către Sfântul Bonifaciu.", "1379: Acordarea privilegiilor pentru Universitatea din Erfurt, una dintre cele mai vechi din Germania.", "120 metri: Lungimea remarcabilă a podului Krämerbrücke, care traversează râul Gera.", "32 case: Numărul de clădiri istorice aflate direct pe podul Krämerbrücke.", "Gloriosa: Cea mai mare clopotniță medievală cu balans liber din lume, aflată în catedrală.", "1501-1505: Perioada în care Martin Luther a studiat la Universitatea din Erfurt."],
-      en: ["742: Foundation of the Erfurt diocese by Saint Boniface.", "1379: Granting of privileges to the University of Erfurt, one of Germany's oldest.", "120 meters: The remarkable length of the Krämerbrücke, crossing the river Gera.", "32 houses: Number of historic buildings standing directly on the Krämerbrücke bridge.", "Gloriosa: The world's largest free-swinging medieval bell, located in Erfurt Cathedral.", "1501-1505: Period during which Martin Luther studied at the University of Erfurt."],
-    }, image: "/poi-images/city-erfurt-extra.webp"},
-
+  
   {
     id: "city-weimar-extra",
     type: "city",
@@ -113,61 +59,7 @@ export const poiExtraDe4a: POI[] = [
       en: ["1775: Arrival of Johann Wolfgang von Goethe in Weimar at the invitation of the Duke.", "1919: Founding of the Bauhaus school by Walter Gropius in the city.", "August 11, 1919: Signing of the Weimar Constitution by Reich President Ebert.", "16 sites: Number of individual monuments belonging to the 'Classical Weimar' UNESCO ensemble.", "1.2 million: Approximate number of media units in the Duchess Anna Amalia Library.", "1937: Establishment of the Buchenwald concentration camp on the nearby Ettersberg hill."],
     }, image: "/poi-images/city-weimar-extra.webp"},
 
-  {
-    id: "city-jena-extra",
-    type: "city",
-    parent: "DE-TH",
-    coords: [11.5869, 50.9274],
-    name: { de: "Jena", hu: "Jéna", ro: "Jena", en: "Jena" },
-    description: {
-      de: "Jena ist ein bedeutendes Wissenschafts- und Technologiezentrum in Thüringen. Die Friedrich-Schiller-Universität und Weltkonzerne wie Zeiss und Schott prägen die Stadt.",
-      hu: "Jéna Türingia fontos tudomány- és technológiai központja. A Friedrich Schiller Egyetem és a Zeiss, Schott világcégek határozzák meg a városképet.",
-      ro: "Jena este un important centru de știință și tehnologie din Turingia. Universitatea Friedrich Schiller și corporații globale precum Zeiss și Schott domină orașul.",
-      en: "Jena is an important science and technology center in Thuringia. The Friedrich Schiller University and global companies such as Zeiss and Schott define the city.",
-    },
-    facts: {
-      de: [
-        "Carl Zeiss gründete 1846 seine optische Werkstatt in Jena.",
-        "Die Friedrich-Schiller-Universität gehört zu den ältesten Deutschlands.",
-        "Ernst Abbe und Otto Schott entwickelten in Jena moderne Glasherstellung.",
-        "Das Zeiss-Planetarium ist eines der ältesten noch betriebenen Planetarien der Welt.",
-        "Jena liegt im Saaletal und ist von beeindruckenden Kalkfelsen umgeben.",
-      ],
-      hu: [
-        "Carl Zeiss 1846-ban alapította optikai műhelyét Jénában.",
-        "A Friedrich Schiller Egyetem Németország egyik legrégebbi felsőoktatási intézménye.",
-        "Ernst Abbe és Otto Schott Jénában fejlesztette ki a modern üveggyártást.",
-        "A Zeiss-planetárium a világ egyik legrégebbi még működő planetáriumja.",
-        "Jéna a Saale-völgyben fekszik, és lenyűgöző mészkősziklák veszik körül.",
-      ],
-      ro: [
-        "Carl Zeiss și-a fondat atelierul optic în Jena în 1846.",
-        "Universitatea Friedrich Schiller este una dintre cele mai vechi din Germania.",
-        "Ernst Abbe și Otto Schott au dezvoltat la Jena producția modernă de sticlă.",
-        "Planetariul Zeiss este unul dintre cele mai vechi planetarii încă funcționale din lume.",
-        "Jena este situată în Valea Saale, înconjurată de impresionante stânci calcaroase.",
-      ],
-      en: [
-        "Carl Zeiss founded his optical workshop in Jena in 1846.",
-        "The Friedrich Schiller University is one of Germany's oldest universities.",
-        "Ernst Abbe and Otto Schott developed modern glass manufacturing in Jena.",
-        "The Zeiss Planetarium is one of the oldest still-operating planetariums in the world.",
-        "Jena is located in the Saale valley surrounded by impressive limestone cliffs.",
-      ],
-    },
-    descriptionAdvanced: {
-      de: "Jena, im mittleren Saaletal gelegen, ist als Stadt der Wissenschaft und des Lichts bekannt und eng mit der Geschichte der optischen Industrie verknüpft. Die Entwicklung der Stadt wurde maßgeblich durch das Wirken von Carl Zeiss, Ernst Abbe und Otto Schott geprägt, die Jena im 19. Jahrhundert zu einem Welterbe der Feinmechanik und Optik machten. Die Friedrich-Schiller-Universität, gegründet 1558, ist eine der ältesten Universitäten Deutschlands und war Wirkungsstätte bedeutender Philosophen wie Hegel und Fichte. Ein weithin sichtbares Wahrzeichen der Stadt ist der JenTower, ein modernes Hochhaus, das die dynamische Entwicklung Jenas als Hochtechnologiestandort symbolisiert. Historisch bedeutsam ist zudem die Schlacht bei Jena und Auerstedt von 1806, die das Ende des Heiligen Römischen Reiches beschleunigte. Heute beheimatet Jena das älteste Projektionsplanetarium der Welt und ist ein führendes Zentrum für Forschung in der Photonik.",
-      hu: "A Saale folyó völgyében fekvő Jena a tudomány és a fény városa néven ismert, és szorosan kötődik az optikai ipar történetéhez. A város fejlődését alapvetően meghatározta Carl Zeiss, Ernst Abbe és Otto Schott munkássága, akik a 19. században Jenát a finommechanika és az optika világközpontjává tették. Az 1558-ban alapított Friedrich Schiller Egyetem Németország egyik legrégebbi egyeteme, ahol olyan jelentős filozófusok alkottak, mint Hegel és Fichte. A város messziről látható jelképe a JenTower, egy modern felhőkarcoló, amely Jena csúcstechnológiai központként való dinamikus fejlődését szimbolizálja. Történelmileg jelentős az 1806-os jénai és auerstedti csata is, amely felgyorsította a Német-római Birodalom bukását. Ma Jena ad otthont a világ legrégebbi vetítéses planetáriumának.",
-      ro: "Jena, situată în valea râului Saale, este cunoscută ca orașul științei și al luminii și este strâns legată de istoria industriei optice. Dezvoltarea orașului a fost marcată decisiv de activitatea lui Carl Zeiss, Ernst Abbe și Otto Schott, care au transformat Jena într-un centru mondial al mecanicii fine și opticii în secolul al XIX-lea. Universitatea Friedrich Schiller, fondată în 1558, este una dintre cele mai vechi din Germania și a fost locul de activitate al unor filosofi importanți precum Hegel și Fichte. Un simbol vizibil de la distanță este JenTower, un zgârie-nori modern care simbolizează dezvoltarea dinamică a orașului ca locație de înaltă tehnologie. Din punct de vedere istoric, bătălia de la Jena și Auerstedt din 1806 este semnificativă, grăbind sfârșitul Sfântului Imperiu Roman. Astăzi, Jena găzduiește cel mai vechi planetariu cu proiecție din lume.",
-      en: "Jena, located in the central Saale valley, is known as the 'City of Science and Light' and is closely tied to the history of the optical industry. The city's development was decisively shaped by the work of Carl Zeiss, Ernst Abbe, and Otto Schott, who transformed Jena into a global center for precision mechanics and optics during the 19th century. The Friedrich Schiller University, founded in 1558, is one of Germany’s oldest universities and was the workplace of prominent philosophers such as Hegel and Fichte. A landmark visible from afar is the JenTower, a modern skyscraper symbolizing Jena's dynamic evolution as a high-tech hub. Historically, the Battle of Jena-Auerstedt in 1806 is of great significance, as it accelerated the collapse of the Holy Roman Empire. Today, Jena is home to the world's oldest projection planetarium and serves as a leading center for photonics research.",
-    },
-    factsAdvanced: {
-      de: ["1558: Gründung der 'Hohen Schule' in Jena, die später zur Universität wurde.", "1846: Eröffnung der ersten optischen Werkstatt durch Carl Zeiss in der Stadt.", "1884: Gründung des Glastechnischen Laboratoriums durch Otto Schott und Ernst Abbe.", "1806: Historische Schlacht bei Jena und Auerstedt gegen die Truppen Napoleons.", "128 Meter: Die Höhe des JenTowers, des höchsten Bürogebäudes in Ostdeutschland.", "1926: Eröffnung des Zeiss-Planetariums, das heute das älteste der Welt ist."],
-      hu: ["1558: A jénai 'Főiskola' alapítása, amelyből később az egyetem lett.", "1846: Az első optikai műhely megnyitása Carl Zeiss által a városban.", "1884: Az Üvegtechnikai Laboratórium alapítása Otto Schott és Ernst Abbe által.", "1806: Történelmi jénai és auerstedti csata Napóleon csapatai ellen.", "128 méter: A JenTower magassága, amely Kelet-Németország legmagasabb irodaháza.", "1926: A Zeiss Planetárium megnyitása, amely ma a legrégebbi a világon."],
-      ro: ["1558: Fondarea 'Școlii Înalte' din Jena, care a devenit ulterior universitate.", "1846: Deschiderea primului atelier optic de către Carl Zeiss în oraș.", "1884: Fondarea Laboratorului de Tehnică a Sticlei de către Otto Schott și Ernst Abbe.", "1806: Bătălia istorică de la Jena și Auerstedt împotriva trupelor lui Napoleon.", "128 metri: Înălțimea JenTower, cea mai înaltă clădire de birouri din Germania de Est.", "1926: Inaugurarea Planetariului Zeiss, care este astăzi cel mai vechi din lume."],
-      en: ["1558: Foundation of the 'High School' in Jena, which later became the university.", "1846: Opening of the first optical workshop by Carl Zeiss in the city.", "1884: Foundation of the Glass Technical Laboratory by Otto Schott and Ernst Abbe.", "1806: Historic Battle of Jena-Auerstedt against Napoleon's troops.", "128 meters: The height of the JenTower, the tallest office building in East Germany.", "1926: Opening of the Zeiss Planetarium, which is today the oldest in the world."],
-    }, image: "/poi-images/city-jena-extra.webp"},
-
+  
   {
     id: "castle-wartburg-extra",
     type: "historical",
@@ -556,61 +448,7 @@ export const poiExtraDe4a: POI[] = [
       en: ["The camp was liberated on April 11, 1945, by the 3rd US Army.", "Approximately 56,000 people were murdered in the camp during the Nazi era.", "The bell tower of the memorial stands 50 meters high.", "Prominent inmates included Nobel Peace Prize laureate Elie Wiesel.", "During the Soviet period, another 7,000 people died in Special Camp No. 2.", "The memorial site today covers an area of approximately 190 hectares."],
     }, image: "/poi-images/historical-buchenwald-extra.webp"},
 
-  {
-    id: "city-gera-extra",
-    type: "city",
-    parent: "DE-TH",
-    coords: [12.0810, 50.8807],
-    name: { de: "Gera", hu: "Gera", ro: "Gera", en: "Gera" },
-    description: {
-      de: "Gera ist die drittgrößte Stadt Thüringens und ein regionales Zentrum im Osten des Landes. Die Stadt ist bekannt als Geburtsort des Malers Otto Dix.",
-      hu: "Gera Türingia harmadik legnagyobb városa és az ország keleti részének regionális központja. A város Otto Dix festőművész szülővárosaként ismert.",
-      ro: "Gera este al treilea oraș ca mărime din Turingia și un centru regional în estul țării. Orașul este cunoscut ca locul nașterii pictorului Otto Dix.",
-      en: "Gera is the third-largest city in Thuringia and a regional center in the east of the state. The city is known as the birthplace of painter Otto Dix.",
-    },
-    facts: {
-      de: [
-        "Geburtsstadt des expressionistischen Malers Otto Dix (1891).",
-        "Das Kunstmuseum Gera zeigt Werke von Otto Dix und anderen Künstlern.",
-        "Die Geraer Altstadt weist eine historische Substanz aus dem 16./17. Jahrhundert auf.",
-        "Gera liegt an der Weißen Elster und gehört zum thüringischen Vogtland.",
-        "Der Botanische Garten und der Tierpark sind beliebte Ausflugsziele.",
-      ],
-      hu: [
-        "Otto Dix expresszionista festő szülővárosa (1891).",
-        "A Gera Képzőművészeti Múzeum Otto Dix és más művészek alkotásait mutatja be.",
-        "Gera óvárosában a 16–17. századi épített örökség megőrződött.",
-        "Gera a Fehér Elster folyón fekszik, és a türingiai Vogtlandhoz tartozik.",
-        "A botanikus kert és az állatkert kedvelt kirándulóhelyek.",
-      ],
-      ro: [
-        "Orașul natal al pictorului expresionist Otto Dix (1891).",
-        "Muzeul de Artă din Gera expune lucrări ale lui Otto Dix și ale altor artiști.",
-        "Centrul vechi al Gerei prezintă un patrimoniu construit din secolele XVI-XVII.",
-        "Gera este situată pe Weisse Elster și face parte din Vogtland turingian.",
-        "Grădina botanică și grădina zoologică sunt destinații populare de excursie.",
-      ],
-      en: [
-        "Birthplace of expressionist painter Otto Dix (1891).",
-        "The Gera Art Museum features works by Otto Dix and other artists.",
-        "Gera's old town has a historic building stock from the 16th/17th century.",
-        "Gera is located on the White Elster river and belongs to the Thuringian Vogtland.",
-        "The botanical garden and the zoo are popular excursion destinations.",
-      ],
-    },
-    descriptionAdvanced: {
-      de: "Gera ist die drittgrößte Stadt Thüringens und liegt idyllisch im Tal der Weißen Elster. Historisch war die Stadt eines der bedeutendsten Zentren der deutschen Textilindustrie, was ihr im 19. Jahrhundert großen Wohlstand und den Beinamen 'Stadt der 100 Schornsteine' einbrachte. Das Stadtbild ist geprägt von prächtigen Villen der Textilbarone und der Architektur des Bauhauses. Gera ist zudem die Geburtsstadt des Malers Otto Dix, dessen Werk in der Orangerie und seinem Geburtshaus gewürdigt wird. Ein besonderes Highlight sind die Geraer Höhler, ein weit verzweigtes System historischer Bierkeller unter der Altstadt. Trotz des industriellen Strukturwandels nach der Wiedervereinigung hat sich Gera zu einem wichtigen Kultur- und Dienstleistungsstandort in Ostthüringen entwickelt. Parks wie der Hofwiesenpark, der für die Bundesgartenschau 2007 saniert wurde, bieten heute weitreichende Erholungsflächen direkt am Flussufer.",
-      hu: "Gera Türingia harmadik legnagyobb városa, amely idilli környezetben, a Fehér Elster völgyében fekszik. Történelmileg a város a német textilipar egyik legfontosabb központja volt, ami a 19. században nagy jólétet és a '100 kémény városa' nevet hozta számára. A városképet a textilbárók pompás villái és a Bauhaus építészet határozza meg. Gera emellett Otto Dix festőművész szülővárosa is, akinek munkásságát az Orangerie-ben és szülőházában őrzik. Különleges látnivalónak számítanak a Geraer Höhler-ek, az óváros alatt húzódó történelmi sörpincék szövevényes rendszere. Az újraegyesítés utáni ipari szerkezetváltás ellenére Gera Kelet-Türingia fontos kulturális és szolgáltatási központjává fejlődött. Az olyan parkok, mint a 2007-es szövetségi kertészeti kiállításra felújított Hofwiesenpark, ma kiterjedt pihenőterületeket kínálnak közvetlenül a folyóparton.",
-      ro: "Gera este al treilea oraș ca mărime din Turingia și este situat idilic în valea râului Weiße Elster. Din punct de vedere istoric, orașul a fost unul dintre cele mai importante centre ale industriei textile germane, ceea ce i-a adus o mare prosperitate în secolul al XIX-lea și supranumele de 'Orașul celor 100 de hornuri'. Aspectul orașului este marcat de vilele somptuoase ale baronilor textiliști și de arhitectura Bauhaus. Gera este, de asemenea, locul de naștere al pictorului Otto Dix, a cărui operă este onorată în Orangerie și în casa sa natală. Un punct de atracție deosebit îl reprezintă Geraer Höhler, un sistem extins de pivnițe istorice de bere de sub orașul vechi. În ciuda schimbărilor structurale industriale de după reunificare, Gera s-a dezvoltat într-un centru cultural și de servicii important în estul Turingiei. Parcuri precum Hofwiesenpark oferă astăzi spații vaste de recreere chiar pe malul râului.",
-      en: "Gera is the third-largest city in Thuringia, nestled in the valley of the White Elster river. Historically, the city was one of the most significant centers of the German textile industry, earning it great prosperity in the 19th century and the nickname 'City of 100 Chimneys.' The cityscape is characterized by the grand villas of textile barons and examples of Bauhaus architecture. Gera is also the birthplace of the painter Otto Dix, whose work is celebrated at the Orangerie and his birth house. A unique highlight is the 'Geraer Höhler,' an extensive system of historical beer cellars located beneath the old town. Despite the industrial structural changes following German reunification, Gera has evolved into an important cultural and service hub in Eastern Thuringia. Parks like the Hofwiesenpark, renovated for the 2007 Federal Horticultural Show, provide expansive recreational areas directly along the riverbank.",
-    },
-    factsAdvanced: {
-      de: ["Gera wurde im Jahr 995 erstmals urkundlich erwähnt.", "Otto Dix wurde 1891 im Stadtteil Untermhaus geboren.", "Das historische Rathaus am Marktplatz stammt aus der Zeit der Renaissance.", "Die Geraer Höhler wurden im 16. und 17. Jahrhundert zur Bierlagerung angelegt.", "Im Jahr 1923 war Gera für kurze Zeit Landeshauptstadt von Thüringen.", "Der Hofwiesenpark umfasst eine Gesamtfläche von etwa 30 Hektar."],
-      hu: ["Gerát először 995-ben említik oklevelek.", "Otto Dix 1891-ben született Untermhaus városrészben.", "A piactéren található történelmi városháza a reneszánsz korból származik.", "A Geraer Höhler pincerendszert a 16. és 17. században alakították ki sör tárolására.", "1923-ban Gera rövid ideig Türingia tartományi fővárosa volt.", "A Hofwiesenpark teljes területe körülbelül 30 hektár."],
-      ro: ["Gera a fost menționat documentar pentru prima dată în anul 995.", "Otto Dix s-a născut în 1891 în cartierul Untermhaus.", "Primăria istorică din piața centrală datează din perioada Renașterii.", "Geraer Höhler au fost create în secolele XVI și XVII pentru depozitarea berii.", "În anul 1923, Gera a fost pentru scurt timp capitala statului Turingia.", "Hofwiesenpark acoperă o suprafață totală de aproximativ 30 de hectare."],
-      en: ["Gera was first documented in the year 995.", "Otto Dix was born in the Untermhaus district in 1891.", "The historic town hall on the market square dates back to the Renaissance.", "The Geraer Höhler were created in the 16th and 17th centuries for beer storage.", "In 1923, Gera briefly served as the state capital of Thuringia.", "The Hofwiesenpark covers a total area of approximately 30 hectares."],
-    }, image: "/poi-images/city-gera-extra.webp"},
-
+  
   {
     id: "landmark-kraemerbrue-erfurt-extra",
     type: "landmark",
@@ -947,61 +785,7 @@ export const poiExtraDe4a: POI[] = [
       en: ["Erected in 1404 using Elbe sandstone to replace an earlier wooden version.", "The statue itself is 5.47 meters tall, while the total structure reaches 10.21 meters.", "Designated a UNESCO World Heritage site on July 2, 2004.", "The distance between the knees equals the Bremen ell of 55.9 cm.", "The shield bears a Latin inscription regarding the city's imperial freedom.", "The statue faces the St. Peter's Cathedral as a sign of secular independence."],
     }, image: "/poi-images/landmark-roland-bremen-extra.webp"},
 
-  {
-    id: "port-bremerhaven-extra",
-    type: "port",
-    parent: "DE-HB",
-    coords: [8.5800, 53.5330],
-    name: { de: "Hafen Bremerhaven", hu: "Bremerhaveni Kikötő", ro: "Portul Bremerhaven", en: "Bremerhaven Port" },
-    description: {
-      de: "Der Hafen Bremerhaven ist einer der bedeutendsten Seehäfen Europas und einer der weltgrößten Automobilumschlagplätze. Er verbindet Deutschland mit den Weltmeeren.",
-      hu: "A bremerhaveni kikötő Európa egyik legjelentősebb tengeri kikötője és a világ egyik legnagyobb autó-átrakodó helye. Németországot köti össze a világ tengereivel.",
-      ro: "Portul Bremerhaven este unul dintre cele mai importante porturi maritime din Europa și unul dintre cele mai mari terminale de automobile din lume. Conectează Germania cu oceanele lumii.",
-      en: "Bremerhaven Port is one of Europe's most significant seaports and one of the world's largest car terminals. It connects Germany to the world's oceans.",
-    },
-    facts: {
-      de: [
-        "Einer der größten Automobilumschlaghäfen Europas (bis zu 2 Millionen Fahrzeuge pro Jahr).",
-        "Containerterminals zählen zu den meistfrequentierten in Deutschland.",
-        "Das Deutsche Auswandererhaus dokumentiert die Geschichte der deutschen Auswanderung.",
-        "Das Klimahaus Bremerhaven ist ein weltweit bekanntes Klimaerlebnis-Museum.",
-        "Bremerhaven wurde 1827 gegründet, um Bremen einen Zugang zur Nordsee zu ermöglichen.",
-      ],
-      hu: [
-        "Európa egyik legnagyobb autó-átrakodó kikötője (évente akár 2 millió jármű).",
-        "A konténerterminálok Németország legforgalmasabbjai közé tartoznak.",
-        "A Német Kivándorlók Háza a német kivándorlás történetét dokumentálja.",
-        "A Klimahaus Bremerhaven világszerte ismert klímaélmény-múzeum.",
-        "Bremerhavent 1827-ben alapították, hogy Brémának hozzáférést biztosítsanak az Északi-tengerhez.",
-      ],
-      ro: [
-        "Unul dintre cele mai mari porturi de automobile din Europa (până la 2 milioane de vehicule pe an).",
-        "Terminalele de containere sunt printre cele mai frecventate din Germania.",
-        "Casa Emigranților Germani documentează istoria emigrației germane.",
-        "Klimahaus Bremerhaven este un muzeu al experienței climatice renumit mondial.",
-        "Bremerhaven a fost fondată în 1827 pentru a oferi Bremei acces la Marea Nordului.",
-      ],
-      en: [
-        "One of Europe's largest car-handling ports (up to 2 million vehicles per year).",
-        "Container terminals are among the busiest in Germany.",
-        "The German Emigration Center documents the history of German emigration.",
-        "Klimahaus Bremerhaven is a world-renowned climate experience museum.",
-        "Bremerhaven was founded in 1827 to provide Bremen with access to the North Sea.",
-      ],
-    },
-    descriptionAdvanced: {
-      de: "Der Hafen von Bremerhaven wurde im Jahr 1827 gegründet, um der Hansestadt Bremen einen direkten Zugang zum tiefen Wasser der Wesermündung zu sichern. Heute zählt er zu den bedeutendsten Containerterminals in Europa und verfügt mit über fünf Kilometern über die längste zusammenhängende Stromkaje der Welt. Neben dem Warenumschlag ist Bremerhaven ein führender Standort für den Automobilimport und -export, wobei jährlich über zwei Millionen Fahrzeuge über die Kaianlagen bewegt werden. Der Hafen unterteilt sich in den Überseehafen, der unter bremischer Verwaltung steht, und den Fischereihafen sowie touristische Bereiche wie die Havenwelten. Historisch war der Hafen der wichtigste Auswandererhafen des Kontinents, von dem aus Millionen Menschen die Reise nach Amerika antraten. Die moderne Infrastruktur umfasst spezialisierte Terminals für Obst, Tiefkühlkost und Schwergutladungen, was die wirtschaftliche Bedeutung für den gesamten norddeutschen Raum unterstreicht.",
-      hu: "Bremerhaven kikötőjét 1827-ben alapították, hogy Bréma városa számára közvetlen hozzáférést biztosítsanak a Weser torkolatának mélyvizeihez. Ma Európa egyik legfontosabb konténerterminálja, és itt található a világ leghosszabb összefüggő folyami rakpartja, amely több mint öt kilométer hosszú. Az áruforgalom mellett Bremerhaven vezető szerepet tölt be az autóimport és -export területén, évente több mint kétmillió jármű halad át a kikötői létesítményeken. A terület megoszlik a brémai igazgatás alatt álló tengerentúli kikötőre, a halászkikötőre és a Havenwelten nevű turisztikai központra. Történelmileg ez volt a kontinens legjelentősebb kivándorló kikötője, ahonnan emberek milliói indultak útnak Amerika felé. A modern infrastruktúra speciális terminálokat foglal magában gyümölcsök, fagyasztott áruk és nehézgépek számára, ami kiemeli a régióban betöltött gazdasági jelentőségét.",
-      ro: "Portul Bremerhaven a fost fondat în anul 1827 pentru a asigura orașului hanseatic Bremen un acces direct la apele adânci de la vărsarea râului Weser. Astăzi, acesta este unul dintre cele mai importante terminale de containere din Europa și deține cel mai lung cheu fluvial continuu din lume, cu o lungime de peste cinci kilometri. Pe lângă transportul de containere, Bremerhaven este un nod principal pentru importul și exportul de automobile, peste două milioane de vehicule trecând anual prin terminalele sale. Portul este împărțit în portul de peste mări, administrat de Bremen, portul de pescuit și zonele turistice precum Havenwelten. Din punct de vedere istoric, a fost cel mai mare port de emigrare de pe continent, de unde milioane de oameni s-au îmbarcat spre America. Infrastructura modernă include terminale specializate pentru fructe, produse congelate și mărfuri grele, subliniind importanța sa economică pentru nordul Germaniei.",
-      en: "The Port of Bremerhaven was founded in 1827 to secure direct access to the deep waters of the Weser estuary for the Hanseatic city of Bremen. Today, it ranks among the most significant container terminals in Europe and boasts the world's longest continuous riverside quay, stretching over five kilometers. Beyond container handling, Bremerhaven is a leading hub for automotive import and export, with over two million vehicles passing through the facilities annually. The port area is divided into the overseas port under Bremen's administration, the fishing port, and tourist areas such as Havenwelten. Historically, it served as the continent's most important emigration port, from which millions of people departed for the Americas. The modern infrastructure includes specialized terminals for fruit, frozen goods, and heavy cargo, highlighting its economic vital importance to the entire North German region.",
-    },
-    factsAdvanced: {
-      de: ["Gegründet am 1. Mai 1827 durch den Ankauf von Land vom Königreich Hannover.", "Besitzt mit 5 Kilometern Länge die längste Container-Stromkaje der Welt.", "Jährlicher Umschlag von über 5 Millionen Standardcontainern (TEU).", "Größter Automobilhafen Europas mit über 2 Millionen Fahrzeugen pro Jahr.", "Zwischen 1830 und 1974 starteten hier über 7 Millionen Auswanderer.", "Die Wassertiefe an den Terminals beträgt bis zu 14 bis 16 Meter."],
-      hu: ["1827. május 1-jén alapították a Hannoveri Királyságtól vásárolt területen.", "Itt található a világ leghosszabb, 5 kilométeres konténerrakpartja.", "Évente több mint 5 millió szabványkonténer (TEU) fordul meg a kikötőben.", "Európa legnagyobb autóátrakó kikötője, évi 2 millió feletti járműforgalommal.", "1830 és 1974 között több mint 7 millió kivándorló indult innen útnak.", "A termináloknál a vízmélység eléri a 14-16 métert."],
-      ro: ["Fondat la 1 mai 1827 prin achiziționarea de teren de la Regatul Hanovrei.", "Deține cel mai lung cheu de containere din lume, cu o lungime de 5 kilometri.", "Trafic anual de peste 5 milioane de containere standard (TEU).", "Cel mai mare port auto din Europa, cu peste 2 milioane de vehicule anual.", "Între 1830 și 1974, peste 7 milioane de emigranți au plecat de aici.", "Adâncimea apei la terminale variază între 14 și 16 metri."],
-      en: ["Founded on May 1, 1827, through the purchase of land from the Kingdom of Hanover.", "Features the world's longest container quay wall, spanning 5 kilometers.", "Handles over 5 million standard containers (TEU) annually.", "Europe's largest automobile port, processing over 2 million vehicles per year.", "Over 7 million emigrants departed from here between 1830 and 1974.", "Water depth at the terminals reaches between 14 and 16 meters."],
-    }, image: "/poi-images/port-bremerhaven-extra.webp"},
-
+  
   {
     id: "river-weser-hb-extra",
     type: "river",
@@ -1115,61 +899,7 @@ export const poiExtraDe4a: POI[] = [
     image: "/poi-images/district-altstadt-bremen-extra.webp",
   },
 
-  {
-    id: "landmark-stadtmusikanten-extra",
-    type: "kid-landmark",
-    parent: "DE-HB",
-    coords: [8.8062, 53.0752],
-    name: { de: "Bremer Stadtmusikanten", hu: "Brémai Muzsikusok", ro: "Muzicanții din Bremen", en: "Town Musicians of Bremen" },
-    description: {
-      de: "Die Bronzestatue der Bremer Stadtmusikanten steht vor dem Rathaus und ist das bekannteste Wahrzeichen Bremens. Das Märchen der Brüder Grimm macht Esel, Hund, Katze und Hahn weltberühmt.",
-      hu: "A brémai muzsikusok bronzszobra a városháza előtt áll, és Bréma legismertebb jelképe. A Grimm-testvérek meséje tette világhíressé a szamarat, a kutyát, a macskát és a kakast.",
-      ro: "Statuia din bronz a Muzicanților din Bremen se află în fața Primăriei și este cel mai cunoscut simbol al Bremei. Povestea fraților Grimm a făcut faimoși în toată lumea măgarul, câinele, pisica și cocoșul.",
-      en: "The bronze statue of the Town Musicians of Bremen stands in front of the City Hall and is Bremen's most famous landmark. The fairy tale by the Brothers Grimm made the donkey, dog, cat and rooster world-famous.",
-    },
-    facts: {
-      de: [
-        "Geschaffen vom Bildhauer Gerhard Marcks und 1953 aufgestellt.",
-        "Die Stadtmusikanten sind das Wappentier Bremens im übertragenen Sinne.",
-        "Es ist Volksbrauch, die Vorderbeine des Esels für Glück zu berühren.",
-        "Eine kleinere Kopie steht in der Partnerstadt Tel Aviv.",
-        "Das Märchen wurde von den Brüdern Jacob und Wilhelm Grimm gesammelt.",
-      ],
-      hu: [
-        "Gerhard Marcks szobrász alkotta; 1953-ban állították fel.",
-        "A muzsikusok átvitt értelemben Bréma jelképévé váltak.",
-        "Népi szokás szerint a szamár mellső lábát meg kell érinteni a szerencse érdekében.",
-        "Egy kisebb másolat áll a testvérvárosban, Tel-Avivban.",
-        "A mesét Jacob és Wilhelm Grimm testvérek gyűjtötték össze.",
-      ],
-      ro: [
-        "Creată de sculptorul Gerhard Marcks și instalată în 1953.",
-        "Muzicanții sunt, în sens figurat, animalul heraldic al Bremei.",
-        "Un obicei popular cere atingerea picioarelor din față ale măgarului pentru noroc.",
-        "O copie mai mică se află în orașul partener Tel Aviv.",
-        "Povestea a fost colectată de frații Jacob și Wilhelm Grimm.",
-      ],
-      en: [
-        "Created by sculptor Gerhard Marcks and erected in 1953.",
-        "The musicians have in a figurative sense become the heraldic animal of Bremen.",
-        "A folk custom requires touching the front legs of the donkey for good luck.",
-        "A smaller copy stands in the partner city of Tel Aviv.",
-        "The fairy tale was collected by brothers Jacob and Wilhelm Grimm.",
-      ],
-    },
-    descriptionAdvanced: {
-      de: "Die Bremer Stadtmusikanten sind das weltweit bekannteste Symbol der Hansestadt und basieren auf dem gleichnamigen Märchen der Gebrüder Grimm aus dem Jahr 1819. Die Bronzestatue des Bildhauers Gerhard Marcks wurde im Jahr 1953 an der Westseite des Rathauses aufgestellt und zeigt Esel, Hund, Katze und Hahn in einer vertikalen Pyramidenform. Das Denkmal erinnert an die Geschichte der vier Tiere, die aufgrund ihres Alters verstoßen wurden und in Bremen ein neues Leben als Musikanten suchten. Eine weit verbreitete Tradition besagt, dass das Umfassen der beiden Vorderbeine des Esels Glück bringt, was an den glänzenden Stellen der Bronze deutlich erkennbar ist. Die Stadtmusikanten sind ein zentrales Element des Bremer Tourismusmarketings und finden sich in zahlreichen Variationen im gesamten Stadtbild wieder. Trotz ihres Namens erreichten die Tiere im Märchen Bremen nie, da sie unterwegs ein Räuberhaus eroberten und dort blieben. Die Statue gilt heute als ein Beispiel für die Verbindung von Literatur, Volkskunde und moderner Kunst im öffentlichen Raum.",
-      hu: "A brémai muzsikusok a hanza-város világszerte legismertebb szimbóluma, amely a Grimm fivérek 1819-ben megjelent azonos című meséjén alapul. Gerhard Marcks szobrászművész bronzszobrát 1953-ban állították fel a városháza nyugati oldalán, amely a szamarat, a kutyát, a macskát és a kakast ábrázolja függőleges gúla alakzatban. Az emlékmű annak a négy állatnak a történetét idézi fel, akiket koruk miatt elüldöztek gazdáik, és Brémában kerestek új életet muzsikusként. Egy széles körben elterjedt hagyomány szerint a szamár mindkét első lábának megfogása szerencsét hoz, ami jól látszik a bronz kifényesedett részein. A városi muzsikusok a brémai turisztikai marketing központi elemei, és számtalan variációban megtalálhatók a város minden pontján. Nevük ellenére az állatok a mesében soha nem érték el Brémát, mivel útközben elfoglalták egy rablóházát, és ott maradtak. A szobor ma az irodalom, a néprajz és a modern köztéri művészet összekapcsolódásának kiemelkedő példája.",
-      ro: "Muzicanții din Bremen reprezintă cel mai cunoscut simbol al orașului hanseatic la nivel mondial, bazându-se pe basmul fraților Grimm din anul 1819. Statuia din bronz realizată de sculptorul Gerhard Marcks a fost amplasată în anul 1953 pe latura de vest a primăriei, înfățișând măgarul, câinele, pisica și cocoșul într-o formă piramidală verticală. Monumentul amintește de povestea celor patru animale care au fost abandonate din cauza bătrâneții și au pornit spre Bremen pentru a-și începe o nouă viață ca muzicanți. O tradiție locală populară spune că atingerea picioarelor din față ale măgarului aduce noroc, fapt vizibil prin porțiunile lustruite ale bronzului. Muzicanții sunt un element central al promovării turistice din Bremen, regăsindu-se în numeroase variații în întregul oraș. În ciuda numelui lor, animalele din basm nu au ajuns niciodată în Bremen, deoarece au cucerit casa unor tâlhari pe drum și au rămas acolo. Statuia este considerată astăzi un exemplu de legătură între literatură, folclor și artă modernă în spațiul public.",
-      en: "The Town Musicians of Bremen are the most globally recognized symbol of the Hanseatic city, based on the fairy tale of the same name by the Brothers Grimm published in 1819. The bronze statue by sculptor Gerhard Marcks was erected in 1953 on the western side of the City Hall, depicting the donkey, dog, cat, and rooster in a vertical pyramid formation. The monument commemorates the story of four animals who were cast out due to their age and sought a new life as musicians in Bremen. A widespread tradition holds that grasping both front legs of the donkey brings good luck, which is evident from the polished areas of the bronze. The Town Musicians are a central element of Bremen's tourism branding and appear in numerous variations throughout the cityscape. Despite their name, the animals in the fairy tale never actually reached Bremen, as they captured a robbers' house on the way and settled there. The statue is now an iconic example of the connection between literature, folklore, and modern public art.",
-    },
-    factsAdvanced: {
-      de: ["Die Bronzestatue von Gerhard Marcks wurde am 30. September 1953 eingeweiht.", "Das Märchen wurde erstmals 1819 in der zweiten Auflage der Grimm-Märchen veröffentlicht.", "Der Esel bildet die Basis der 2 Meter hohen Skulptur.", "Wer nur ein Bein des Esels hält, gilt als 'Esel, der einem anderen Esel die Hand reicht'.", "Die Stadtmusikanten sind in über 60 Sprachen übersetzt worden.", "Es gibt weltweit zahlreiche Kopien der Statue, unter anderem in Riga und Kawasaki."],
-      hu: ["Gerhard Marcks bronzszobrát 1953. szeptember 30-án avatták fel.", "A mese először 1819-ben jelent meg a Grimm-mesék második kiadásában.", "A szamár alkotja a 2 méter magas szobor alapját.", "A babona szerint csak mindkét láb megfogása hoz szerencsét.", "A brémai muzsikusok történetét több mint 60 nyelvre fordították le.", "A szobornak világszerte több másolata létezik, például Rigában és Kavaszakiban."],
-      ro: ["Statuia din bronz a lui Gerhard Marcks a fost inaugurată la 30 septembrie 1953.", "Basmul a fost publicat prima dată în 1819 în a doua ediție a poveștilor fraților Grimm.", "Măgarul formează baza sculpturii care are o înălțime de aproximativ 2 metri.", "Se spune că trebuie să ții ambele picioare ale măgarului, altfel ești 'un măgar dând mâna cu altul'.", "Povestea muzicanților a fost tradusă în peste 60 de limbi străine.", "Există numeroase replici ale statuii în întreaga lume, inclusiv în Riga și Kawasaki."],
-      en: ["The bronze statue by Gerhard Marcks was inaugurated on September 30, 1953.", "The fairy tale was first published in 1819 in the second edition of the Grimm collection.", "The donkey forms the base of the 2-meter-high sculpture.", "Holding both legs of the donkey is required for luck, according to local tradition.", "The story of the Town Musicians has been translated into more than 60 languages.", "There are numerous replicas of the statue worldwide, including in Riga and Kawasaki."],
-    }, image: "/poi-images/landmark-stadtmusikanten-extra.webp"},
-
+  
   {
     id: "district-schnoorviertel-extra",
     type: "historical",
@@ -1500,61 +1230,7 @@ export const poiExtraDe4a: POI[] = [
       en: ["First berth commissioned in 1971", "Total length of the quay is 4,930 meters", "CT IV expansion stage completed in 2008", "Transshipment capacity of approx. 7 million TEU per year", "Features 14 berths for large container vessels", "World's largest contiguous container terminal"],
     }, image: "/poi-images/port-container-bremerhaven-extra.webp"},
 
-  {
-    id: "landmark-universum-bremen-extra",
-    type: "landmark",
-    parent: "DE-HB",
-    coords: [8.8336, 53.1056],
-    name: { de: "Universum® Bremen", hu: "Universum® Bremen", ro: "Universum® Bremen", en: "Universum® Bremen" },
-    description: {
-      de: "Das Universum® Bremen ist ein Science-Center in der Form eines riesigen Wals. Es bietet interaktive Ausstellungen zu Natur, Mensch und Technik für Groß und Klein.",
-      hu: "Az Universum® Bremen egy hatalmas bálna formájú tudományos központ. Természetről, emberről és technikáról szóló interaktív kiállításokat kínál fiataloknak és időseknek egyaránt.",
-      ro: "Universum® Bremen este un centru științific în forma unei balene gigantice. Oferă expoziții interactive despre natură, oameni și tehnologie pentru toate vârstele.",
-      en: "Universum® Bremen is a science center shaped like a giant whale. It offers interactive exhibitions about nature, mankind and technology for all ages.",
-    },
-    facts: {
-      de: [
-        "Eröffnet im Jahr 2000, liegt auf dem Campus der Universität Bremen.",
-        "Die Fassade ist einer Walform nachempfunden und aus Edelstahl gefertigt.",
-        "Über 300 Experimente können interaktiv ausprobiert werden.",
-        "Jährlich besuchen rund 350.000 Menschen das Science-Center.",
-        "Regelmäßig wechselnde Sonderausstellungen ergänzen das Angebot.",
-      ],
-      hu: [
-        "2000-ben nyílt meg, a Brémai Egyetem campusán található.",
-        "A homlokzat egy bálna formáját idézi, és rozsdamentes acélból készült.",
-        "Több mint 300 kísérlet próbálható ki interaktívan.",
-        "Évente kb. 350 000 látogató keresi fel a tudományos központot.",
-        "Rendszeresen változó időszaki kiállítások egészítik ki a kínálatot.",
-      ],
-      ro: [
-        "Deschis în 2000, situat pe campusul Universității din Bremen.",
-        "Fațada imită forma unei balene și este realizată din oțel inoxidabil.",
-        "Peste 300 de experimente pot fi încercate interactiv.",
-        "Aproximativ 350.000 de persoane vizitează centrul științific anual.",
-        "Expoziții speciale care se schimbă regulat completează oferta.",
-      ],
-      en: [
-        "Opened in 2000, located on the campus of the University of Bremen.",
-        "The facade mimics the shape of a whale and is made of stainless steel.",
-        "Over 300 experiments can be tried interactively.",
-        "Around 350,000 people visit the science center annually.",
-        "Regularly changing special exhibitions complement the offering.",
-      ],
-    },
-    descriptionAdvanced: {
-      de: "Das Universum® Bremen ist ein interaktives Wissenschaftszentrum, das im September 2000 in unmittelbarer Nähe der Universität Bremen eröffnet wurde. Das markante Gebäude, das oft mit einem Wal oder einer Muschel verglichen wird, ist mit über 40.000 glänzenden Edelstahlschindeln verkleidet und gilt als architektonisches Wahrzeichen der Stadt. Auf einer Ausstellungsfläche von rund 4.000 Quadratmetern werden den Besuchern komplexe wissenschaftliche Themen in den drei Themenbereichen Technik, Mensch und Natur nähergebracht. Über 300 interaktive Exponate laden dazu ein, Experimente selbst durchzuführen und naturwissenschaftliche Phänomene haptisch zu begreifen. Im Jahr 2007 wurde das Zentrum durch das markante kubische SchauBox-Gebäude und einen Außenbereich, den 'EntdeckerPark', erweitert. Das museumspädagogische Konzept setzt auf spielerisches Lernen und Forschen für alle Altersgruppen, wobei der Fokus auf dem eigenen Erleben liegt. Jährlich besuchen mehrere hunderttausend Menschen die Einrichtung, die sowohl für die akademische Ausbildung als auch für die kulturelle Identität Bremens von großer Bedeutung ist.",
-      hu: "A bremai Universum egy interaktív tudományos központ, amely 2000 szeptemberében nyitotta meg kapuit a Brémai Egyetem közvetlen közelében. Az épület különleges, futurisztikus formája leginkább egy bálnára vagy egy óriási kagylóra emlékeztet, és mintegy 40 000 csillogó rozsdamentes acélpikkely borítja a külső homlokzatát. A mintegy 4000 négyzetméteres kiállítófelületen a látogatók három fő tematikus egységben – technika, ember és természet – ismerkedhetnek meg a tudomány világával. Több mint 300 interaktív kiállítási tárgy hívja fel a figyelmet az önálló kísérletezésre és a természeti jelenségek fizikai megtapasztalására. 2007-ben az intézmény kibővült a köbös formájú SchauBox épülettel és egy szabadtéri résszel, az EntdeckerParkkal. A múzeumpedagógiai koncepció a játékos tanulásra és a felfedezésre épít minden korosztály számára, hangsúlyozva a tapasztalati úton szerzett tudást. Évente több százezer látogató keresi fel a központot, amely Bréma modern és innovatív arculatának meghatározó építészeti jelképévé vált.",
-      ro: "Universum® Bremen este un centru științific interactiv, inaugurat în septembrie 2000 în imediata apropiere a Universității din Bremen. Clădirea distinctivă, adesea comparată cu o balenă sau o scoică, este acoperită cu peste 40.000 de solzi strălucitori din oțel inoxidabil și este considerată un simbol arhitectural al orașului. Pe o suprafață expozițională de aproximativ 4.000 de metri pătrați, vizitatorilor le sunt prezentate teme științifice complexe în cadrul a trei secțiuni tematice: tehnologie, om și natură. Peste 300 de exponate interactive invită publicul să realizeze propriile experimente și să înțeleagă fenomenele naturale prin atingere și participare directă. În anul 2007, centrul a fost extins cu clădirea cubică SchauBox și cu o zonă exterioară numită EntdeckerPark. Conceptul pedagogic al muzeului se bazează pe învățarea ludică și pe cercetarea adaptată tuturor categoriilor de vârstă, punând accent pe experiența proprie. Anual, sute de mii de persoane vizitează instituția, care joacă un rol important în educația academică și în identitatea culturală modernă a orașului Bremen.",
-      en: "Universum® Bremen is an interactive science center that opened in September 2000 near the University of Bremen. Its striking building, often compared to a whale or a mussel, is clad in over 40,000 shimmering stainless steel shingles and is considered an architectural landmark of the city. Across an exhibition area of approximately 4,000 square meters, visitors are introduced to complex scientific topics within three thematic areas: Technology, Humans, and Nature. More than 300 interactive exhibits invite guests to conduct their own experiments and grasp natural phenomena through haptic engagement. In 2007, the center was expanded with the cubic SchauBox building and an outdoor area called EntdeckerPark. The museum's educational concept focuses on playful learning and discovery for all ages, emphasizing personal experience. Each year, several hundred thousand people visit the facility, which is of great importance both for academic education and for the modern cultural identity of Bremen.",
-    },
-    factsAdvanced: {
-      de: ["Eröffnung des Science Centers im September 2000", "Fassade besteht aus 40.000 Edelstahlschindeln", "Gesamtausstellungsfläche von etwa 4.000 m²", "Erweiterung durch den EntdeckerPark im Jahr 2007", "Über 300 interaktive Stationen für Experimente", "Drei Themenbereiche: Technik, Mensch und Natur"],
-      hu: ["A tudományos központ 2000 szeptemberében nyílt meg", "A homlokzatot 40 000 acélpikkely borítja", "A teljes kiállítótér kb. 4000 négyzetméter", "2007-ben bővült az EntdeckerPark szabadtéri résszel", "Több mint 300 interaktív kísérleti állomás", "Három fő téma: technika, ember és természet"],
-      ro: ["Centrul științific a fost deschis în septembrie 2000", "Fațada este compusă din 40.000 de solzi de oțel", "Suprafață totală de expoziție de cca. 4.000 m²", "Extinderea cu EntdeckerPark a avut loc în 2007", "Peste 300 de stații interactive pentru experimente", "Trei arii tematice: tehnologie, om și natură"],
-      en: ["Inauguration of the science center in September 2000", "Facade consists of 40,000 stainless steel shingles", "Total exhibition space of approximately 4,000 m²", "Expansion with EntdeckerPark in 2007", "Over 300 interactive stations for experiments", "Three thematic areas: Technology, Humans, and Nature"],
-    }, image: "/poi-images/landmark-universum-bremen-extra.webp"},
-
+  
   {
     id: "district-viertel-bremen-extra",
     type: "city",

@@ -2,74 +2,7 @@ import type { POI } from "./poi";
 
 export const poiExtraDe2: POI[] = [
   // DE-HE (Hessen) — 15 POIs
-  {
-    id: "city-wiesbaden-extra",
-    type: "city",
-    parent: "DE-HE",
-    coords: [8.2395, 50.0826],
-    name: { de: "Wiesbaden", hu: "Wiesbaden", ro: "Wiesbaden", en: "Wiesbaden" },
-    description: {
-      de: "Wiesbaden ist die Landeshauptstadt Hessens und bekannt für ihre Thermen und Kureinrichtungen.",
-      hu: "Wiesbaden Hessen tartomány fővárosa, hőforrásairól és fürdőintézményeiről ismert.",
-      ro: "Wiesbaden este capitala landului Hessa, renumită pentru termele și stațiunile sale balneare.",
-      en: "Wiesbaden is the state capital of Hesse, known for its thermal springs and spa facilities.",
-    },
-    facts: {
-      de: ["Landeshauptstadt von Hessen.", "Bekannt als Kurstadt mit 26 warmen Quellen.", "Sitz der BKA (Bundeskriminalamt)."],
-      hu: ["Hessen tartomány fővárosa.", "26 meleg forrásáról ismert gyógyváros.", "A Szövetségi Bűnügyi Hivatal (BKA) székhelye."],
-      ro: ["Capitala landului Hessa.", "Renumit oraș spa cu 26 de izvoare termale.", "Sediul Oficiului Federal de Investigații Criminale (BKA)."],
-      en: ["State capital of Hesse.", "Known as a spa town with 26 warm springs.", "Headquarters of the Federal Criminal Police Office (BKA)."],
-    },
-    descriptionAdvanced: {
-      de: "Wiesbaden, die hessische Landeshauptstadt, ist eines der ältesten Kurbäder Europas und berühmt für seine 26 heißen Thermalquellen. Die Stadt besticht durch ihr elegantes klassizistisches Stadtbild, das im Zweiten Weltkrieg weitgehend erhalten blieb. Ein Zentrum des gesellschaftlichen Lebens ist das prächtige Kurhaus mit dem Kurpark und dem renommierten Casino, in dem bereits Dostojewski verkehrte. Wiesbaden war lange Zeit eine kaiserliche Residenzstadt, was sich in den prachtvollen Villenvierteln und der Architektur des Staatstheaters widerspiegelt. Durch seine Lage am Rhein und am Fuße des Taunus ist die Stadt zudem ein idealer Ausgangspunkt für Weinliebhaber und Naturfreunde. Geographie K7 – Die Kurstadt als historisches und modernes Dienstleistungszentrum.",
-      hu: "A(z) Wiesbaden egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Wiesbaden ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "Wiesbaden, capitala landului Hessa, este una dintre cele mai elegante stațiuni balneare din Europa, faimoasă pentru cele 26 de izvoare termale care atrag vizitatori încă din epoca romană. Arhitectura orașului este definită de stilul neoclasic și istoricist, evitând distrugerile majore din timpul războiului, ceea ce îi conferă un aer aristocratic. Punctul central este Kurhaus, o clădire monumentală ce găzduiește și celebrul cazinou unde a jucat scriitorul Dostoievski. Wiesbaden este situat la marginea munților Taunus și a regiunii viticole Rheingau, oferind un amestec rafinat de cultură urbană, wellness și gastronomie. Geografie K7 – Orașe balneare și capitale administrative.",
-      en: "Wiesbaden, the capital of Hesse, is one of the oldest spa towns in Europe, famous for its 26 hot springs and its elegant neoclassical architecture. Known as the 'Nice of the North,' the city was a favorite retreat for European royalty and intellectuals in the 19th century. Its heart is the Kurhaus, a magnificent social center with a world-famous casino, surrounded by the lush Kurpark. Unlike many other German cities, Wiesbaden's historic center survived World War II largely intact, preserving its grand boulevards and the red-brick Market Church. Perched on the Neroberg hill, which can be reached by a unique water-ballasted funicular, the city offers a perfect blend of high culture, wellness tradition, and administrative importance. Földrajz K7 – Spa towns and regional capitals."
-    },
-    factsAdvanced: {
-      de: ["Landeshauptstadt von Hessen und eine der wohlhabendsten Städte Deutschlands.", "Besitzt 26 heiße Thermalquellen, die bereits die Römer nutzten.", "Das Kurhaus Wiesbaden wurde 1907 von Kaiser Wilhelm II. eingeweiht.", "Beherbergt eines der ältesten und schönsten Casinos der Welt.", "Wird aufgrund des milden Klimas oft als 'Nizza des Nordens' bezeichnet.", "Sitz des Bundeskriminalamts und des Statistischen Bundesamtes."],
-      hu: [
-        "A(z) Wiesbaden területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Wiesbaden tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
-        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
-        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
-      ],
-      ro: ["Wiesbaden deține 26 de izvoare termale fierbinți active și astăzi.", "Kurhaus a fost inaugurat în 1907 de împăratul Wilhelm al II-lea.", "Cazinoul din Wiesbaden este unul dintre cele mai vechi și frumoase din lume.", "Biserica Pieței (Marktkirche) este cea mai înaltă clădire din cărămidă din Hessa.", "Orașul a fost capitala ducatului de Nassau până în anul 1866.", "Nerobergbahn este un funicular istoric alimentat prin balast cu apă, unic în Germania."],
-      en: ["Home to 26 thermal springs that have been used since Roman times.", "The state capital of Hesse and a world-renowned spa destination.", "The Kurhaus casino was a favorite of the Russian writer Dostoevsky.", "Features the Neroberg Funicular, the oldest of its kind in Germany.", "Known for its impeccably preserved neoclassical urban design.", "Hosts the annual 'Rheingau Wine Festival', the world's largest of its kind."]
-    }, image: "/poi-images/city-wiesbaden-extra.webp"},
-  {
-    id: "city-kassel-extra",
-    type: "city",
-    parent: "DE-HE",
-    coords: [9.4797, 51.3127],
-    name: { de: "Kassel", hu: "Kassel", ro: "Kassel", en: "Kassel" },
-    description: {
-      de: "Kassel ist eine Stadt in Nordhessen, bekannt für die documenta und den Bergpark Wilhelmshöhe.",
-      hu: "Kassel észak-hesseni város, a documenta kortárs művészeti kiállításáról és a Wilhelmshöhe parkról ismert.",
-      ro: "Kassel este un oraș din nordul Hessei, cunoscut pentru documenta și parcul Wilhelmshöhe.",
-      en: "Kassel is a city in northern Hesse, known for the documenta art exhibition and Wilhelmshöhe park.",
-    },
-    facts: {
-      de: ["Heimat der documenta, einer der bedeutendsten Kunstausstellungen weltweit.", "Der Bergpark Wilhelmshöhe ist UNESCO-Weltkulturerbe.", "Wirkungsort der Gebrüder Grimm."],
-      hu: ["A documenta otthona, a világ egyik legjelentősebb kortárs művészeti kiállításának.", "A Wilhelmshöhe hegyi park UNESCO világörökség.", "A Grimm testvérek munkásságának helyszíne."],
-      ro: ["Gazda documenta, una dintre cele mai importante expoziții de artă din lume.", "Parcul Wilhelmshöhe este sit UNESCO.", "Locul de activitate al fraților Grimm."],
-      en: ["Home to documenta, one of the world's most significant contemporary art exhibitions.", "Wilhelmshöhe hill park is a UNESCO World Heritage site.", "Workplace of the Brothers Grimm."],
-    },
-    descriptionAdvanced: {
-      de: "Kassel ist eine bedeutende Stadt im Norden Hessens, die weltweit vor allem durch die documenta, die alle fünf Jahre stattfindende bedeutendste Ausstellung zeitgenössischer Kunst, bekannt ist. Ein herausragendes Merkmal der Stadt ist der Bergpark Wilhelmshöhe, der seit 2013 zum UNESCO-Weltkulturerbe gehört und als Europas größter Bergpark gilt. Über dem Park thront das Herkules-Monument, das Wahrzeichen Kassels, von dem aus die spektakulären Wasserspiele ins Tal fließen. Historisch war Kassel die Hauptstadt der Landgrafschaft Hessen-Kassel und später des Kurfürstentums Hessen. Das Stadtbild ist heute durch eine funktionale Architektur der Nachkriegszeit geprägt, da das historische Zentrum im Zweiten Weltkrieg fast vollständig zerstört wurde. Dennoch finden sich bedeutende klassizistische Bauten wie das Museum Fridericianum, eines der ersten öffentlichen Museen Europas. Kassel ist zudem eng mit den Brüdern Grimm verbunden, die hier einen Großteil ihrer Kinder- und Hausmärchen sammelten, woran die Grimmwelt Kassel erinnert.",
-      hu: "Kassel Hessen tartomány északi részének jelentős városa, amely világszerte elsősorban a documenta, az ötévente megrendezett legfontosabb kortárs művészeti kiállítás révén ismert. A város kiemelkedő jellegzetessége a Wilhelmshöhe hegyi park, amely 2013 óta az UNESCO Világörökség része, és Európa legnagyobb hegyi parkjaként tartják számon. A park felett trónol a Herkules-emlékmű, Kassel jelképe, ahonnan látványos vízi játékok indulnak el a völgy felé. Történelmileg Kassel a Hessen-Kasseli Tartománygrófság, majd a Hesseni Választófejedelemség fővárosa volt. A városképet ma a háború utáni funkcionális építészet jellemzi, mivel a történelmi központ a második világháborúban szinte teljesen megsemmisült. Ennek ellenére megtalálhatók olyan jelentős klasszicista épületek, mint a Museum Fridericianum, Európa egyik első nyilvános múzeuma. Kassel szorosan kötődik a Grimm fivérekhez is, akik itt gyűjtötték össze meséik nagy részét, amire a Grimmwelt múzeum emlékeztet.",
-      ro: "Kassel este un oraș important din nordul Hessei, cunoscut la nivel mondial în principal prin documenta, cea mai importantă expoziție de artă contemporană, care are loc la fiecare cinci ani. O trăsătură remarcabilă a orașului este Parcul Wilhelmshöhe, care face parte din Patrimoniul Mondial UNESCO din 2013 și este considerat cel mai mare parc montan din Europa. Peste parc tronează monumentul Hercule, simbolul orașului Kassel, de unde spectaculoasele jocuri de apă curg spre vale. Din punct de vedere istoric, Kassel a fost capitala Landgrafiatului Hessa-Kassel și, mai târziu, a Electoratului Hessa. Peisajul urban este marcat astăzi de o arhitectură funcțională postbelică, deoarece centrul istoric a fost distrus aproape în totalitate în al Doilea Război Mondial. Cu toate acestea, există clădiri neoclasice importante, precum Muzeul Fridericianum, unul dintre primele muzee publice din Europa. Kassel este, de asemenea, strâns legat de frații Grimm, care au colectat aici o mare parte din poveștile lor, fapt amintit de muzeul Grimmwelt Kassel.",
-      en: "Kassel is a major city in northern Hesse, internationally renowned as the host of documenta, the world's most significant exhibition of contemporary art held every five years. A standout feature of the city is the Bergpark Wilhelmshöhe, a UNESCO World Heritage site since 2013 and Europe's largest hillside park. Dominating the landscape is the Hercules monument, Kassel's primary landmark, from which spectacular hydro-pneumatic water displays cascade down to the valley. Historically, Kassel served as the capital of the Landgraviate of Hesse-Kassel and later the Electorate of Hesse. Today, its cityscape is defined by post-war functional architecture, as the historic center was almost completely leveled during World War II. Despite this, significant neoclassical structures like the Museum Fridericianum—one of Europe's first public museums—remain. Kassel is also deeply associated with the Brothers Grimm, who spent much of their lives here collecting their famous fairy tales, a legacy honored at the Grimmwelt Kassel museum.",
-    },
-    factsAdvanced: {
-      de: ["Kassel ist seit 1955 die dauerhafte Heimat der Kunstausstellung documenta.", "Der Bergpark Wilhelmshöhe umfasst eine Fläche von 240 Hektar.", "Das Herkules-Monument wurde zwischen 1701 und 1717 errichtet.", "Die Stadt hat etwa 200.000 Einwohner (Stand 2023).", "Das Museum Fridericianum wurde 1779 als öffentliches Museum eröffnet.", "Die Brüder Grimm lebten und arbeiteten über 30 Jahre lang in Kassel."],
-      hu: ["Kassel 1955 óta a documenta művészeti kiállítás állandó otthona.", "A Wilhelmshöhe hegyi park 240 hektáros területet foglal el.", "A Herkules-emlékművet 1701 és 1717 között építették.", "A város lakossága körülbelül 200 000 fő (2023-as adat).", "A Museum Fridericianum 1779-ben nyílt meg nyilvános múzeumként.", "A Grimm fivérek több mint 30 éven át éltek és dolgoztak Kasselben."],
-      ro: ["Kassel este sediul permanent al expoziției de artă documenta din 1955.", "Parcul Wilhelmshöhe acoperă o suprafață de 240 de hectare.", "Monumentul Hercule a fost construit între 1701 și 1717.", "Orașul are aproximativ 200.000 de locuitori (la nivelul anului 2023).", "Muzeul Fridericianum a fost deschis ca muzeu public în 1779.", "Frații Grimm au trăit și au lucrat în Kassel timp de peste 30 de ani."],
-      en: ["Kassel has been the permanent home of the documenta art exhibition since 1955.", "Bergpark Wilhelmshöhe covers a total area of 240 hectares.", "The Hercules monument was constructed between 1701 and 1717.", "The city has a population of approximately 200,000 (as of 2023).", "Museum Fridericianum opened in 1779 as one of Europe's first public museums.", "The Brothers Grimm lived and worked in Kassel for over 30 years."],
-    }, image: "/poi-images/city-kassel-extra.webp"},
-  {
+      {
     id: "city-marburg-extra",
     type: "city",
     parent: "DE-HE",
@@ -591,44 +524,7 @@ export const poiExtraDe2: POI[] = [
     },
     image: "/poi-images/city-wolfsburg-extra.webp",
   },
-  {
-    id: "city-braunschweig-extra",
-    type: "city",
-    parent: "DE-NI",
-    coords: [10.5268, 52.2689],
-    name: { de: "Braunschweig", hu: "Braunschweig", ro: "Braunschweig", en: "Brunswick" },
-    description: {
-      de: "Braunschweig ist eine Großstadt in Niedersachsen mit reicher Geschichte als ehemalige Residenzstadt.",
-      hu: "Braunschweig Alsó-Szászország egyik nagyváros, gazdag történelemmel mint egykori rezidenciaváros.",
-      ro: "Braunschweig este un oraș mare din Saxonia Inferioară cu o istorie bogată ca fost oraș rezidențial.",
-      en: "Brunswick is a major city in Lower Saxony with a rich history as a former residence city.",
-    },
-    facts: {
-      de: ["Der Burglöwe auf dem Burgplatz ist das Wahrzeichen der Stadt.", "Heimat des weltweit bekannten Forschungszentrums DLR.", "Die Technische Universität Braunschweig ist eine der ältesten in Deutschland."],
-      hu: ["A Burgplatz-on álló Burglöwe (oroszlán) a város jelképe.", "A világhírű DLR kutatóközpont otthona.", "A Braunschweigi Műszaki Egyetem Németország legrégebbjei közé tartozik."],
-      ro: ["Leul Burglöwe de pe Burgplatz este simbolul orașului.", "Gazda centrului de cercetare DLR de renume mondial.", "Universitatea Tehnică din Braunschweig este una dintre cele mai vechi din Germania."],
-      en: ["The Burglöwe (castle lion) on Burgplatz is the city's landmark.", "Home of the world-renowned DLR research center.", "Braunschweig Technical University is one of Germany's oldest."],
-    },
-    descriptionAdvanced: {
-      de: "Braunschweig, die 'Löwenstadt', blickt auf eine über tausendjährige Geschichte zurück und war einst eine mächtige Hansestadt und Residenz der Welfen. Herzog Heinrich der Löwe machte die Stadt im 12. Jahrhundert zu seinem Machtzentrum, wovon der Braunschweiger Löwe auf dem Burgplatz und der Dom St. Blasii zeugen. Heute ist Braunschweig ein führender Standort für Wissenschaft und Forschung in Europa, geprägt durch die Technische Universität (gegründet 1745) und zahlreiche Bundesforschungsinstitute. Die Stadt verbindet historische Traditionen, wie das rekonstruierte Residenzschloss, mit hochmoderner Technologieentwicklung in den Bereichen Verkehr und Luftfahrt. Geschichte K7 – Mittelalterliche Machtzentren und hanseatischer Handel.",
-      hu: "A(z) Braunschweig egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Braunschweig ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "Braunschweig, cunoscut sub numele de 'Orașul Leului', este un centru istoric și științific major din Saxonia Inferioară, fiind timp de secole reședința puternicilor duci din dinastia Welf. Orașul a atins apogeul în secolul al XII-lea sub domnia lui Henric Leul, care a ridicat catedrala Sf. Blasii și a stabilit leul de bronz ca simbol al puterii sale, monument ce poate fi admirat și astăzi în Burgplatz. Deși marcat de distrugerile din al Doilea Război Mondial, orașul a reconstruit cu grijă puncte cheie, precum Palatul Rezidențial. Astăzi, Braunschweig este un lider european în cercetare și tehnologie, găzduind numeroase institute federale. Istorie K7 – Orașe hanseatice și reședințe nobiliare.",
-      en: "Braunschweig, the 'Lion City,' is a historic center of power and science in Lower Saxony. It gained prominence in the 12th century under Henry the Lion, who made it his primary residence and a major hub for trade and culture. The city's symbol, the Bronze Lion (Braunschweiger Löwe), stands proudly on the Burgplatz, the first monumental hollow casting of the Middle Ages. For centuries, Braunschweig was a leading member of the Hanseatic League and a seat of the Dukes of Brunswick. Today, it is a world-class center for research and development, hosting numerous federal institutes and the Technical University. The city seamlessly blends its medieval heritage, seen in its five 'tradition islands,' with its role as one of Europe's most research-intensive regions. Geschichte K8 – Henry the Lion and the Hanseatic League."
-    },
-    factsAdvanced: {
-      de: ["Einstige Residenz von Heinrich dem Löwen im 12. Jahrhundert.", "Der Braunschweiger Löwe auf dem Burgplatz ist die älteste Freiplastik nördlich der Alpen.", "Wichtigstes Forschungszentrum für Mobilität und Luftfahrt in Niedersachsen.", "Die TU Braunschweig ist die älteste technische Universität Deutschlands.", "Traditionelles Zentrum der deutschen Zuckerindustrie.", "Das Residenzschloss trägt die größte Quadriga Europas auf seinem Dach."],
-      hu: [
-        "A(z) Braunschweig területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Braunschweig tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
-        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
-        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
-      ],
-      ro: ["A fost fondat conform legendei în anul 861 și a devenit oraș hanseatic în secolul XIII.", "Catedrala Sf. Blasii (Domul) a fost construită între 1173 și 1195 de Henric Leul.", "Simbolul orașului, Leul din Braunschweig, este cea mai veche statuie de bronz din nordul Alpilor.", "Universitatea Tehnică din Braunschweig, fondată în 1745, este cea mai veche din Germania.", "Regiunea Braunschweig este considerată cel mai intensiv centru de cercetare din Europa.", "Palatul Rezidențial (Schloss) a fost reconstruit în 2007 folosind fațada originală istorică."],
-      en: ["Known as the 'Lion City' (Löwenstadt) after Henry the Lion.", "The Bronze Lion on Burgplatz is the city's iconic 12th-century symbol.", "A leading member of the Hanseatic League for centuries.", "Home to the PTB, the institute that maintains Germany's atomic clocks.", "One of the top regions in Europe for research and development spending.", "Features the 'Happy Rizzi House', a unique pop-art building."]
-    }, image: "/poi-images/city-braunschweig-extra.webp"},
-  {
+    {
     id: "mnt-brocken-ni-extra",
     type: "mountain",
     parent: "DE-NI",
@@ -665,74 +561,7 @@ export const poiExtraDe2: POI[] = [
       ro: ["Vârful Brocken atinge altitudinea de 1.141 metri deasupra nivelului mării.", "Muntele este învăluit în ceață în medie 300 de zile pe an.", "Grădina Botanică Alpină de pe vârf găzduiește peste 1.500 de specii de plante de munte.", "Este legat de localitatea Wernigerode prin calea ferată cu aburi Brockenbahn.", "Vântul poate atinge viteze de peste 260 km/h pe platoul somital.", "Goethe s-a inspirat din drumețiile sale pe Brocken pentru scena 'Noaptea Valpurgiei' din Faust."],
       en: ["The highest peak in Northern Germany at 1,141 meters.", "Famous as the setting for Walpurgis Night in Goethe's 'Faust'.", "Served as a major Soviet and Stasi listening post during the Cold War.", "Accessible by the historic Harz Narrow Gauge steam railway.", "The summit has an average of 300 days of fog per year.", "Home to the Brocken Garden, featuring over 1,500 alpine plant species."]
     }, image: "/poi-images/mnt-brocken-ni-extra.webp"},
-  {
-    id: "forest-lueneburger-heide-extra",
-    type: "forest",
-    parent: "DE-NI",
-    coords: [10.0833, 53.0500],
-    name: { de: "Lüneburger Heide", hu: "Lüneburger Heide", ro: "Lüneburger Heide", en: "Lüneburg Heath" },
-    description: {
-      de: "Die Lüneburger Heide ist eine weite Heidelandschaft in Niedersachsen mit charakteristischer Moorvegetation.",
-      hu: "A Lüneburger Heide egy széles pusztavidék Alsó-Szászországban, jellemző lápnövényzettel.",
-      ro: "Lüneburger Heide este o vastă zonă de câmpie joasă în Saxonia Inferioară cu vegetație caracteristică de turbărie.",
-      en: "The Lüneburg Heath is a wide heathland in Lower Saxony with characteristic moorland vegetation.",
-    },
-    facts: {
-      de: ["Berühmt für blühende Heidekraut-Flächen im Spätsommer.", "Heimat des Heidschnucken-Schafs, einer alten Landrasse.", "Der Heidepark Soltau ist ein bekannter Freizeitpark."],
-      hu: ["Nyár végi virágzó hangafüves területeiről ismert.", "A Heidschnucke juh, egy régi mezei fajta otthona.", "A Heidepark Soltau egy ismert vidámpark."],
-      ro: ["Faimoasă pentru câmpurile de iarbă-de-nalbă înflorite la sfârșitul verii.", "Gazda oii Heidschnucke, o rasă veche de țară.", "Heidepark Soltau este un parc de distracții cunoscut."],
-      en: ["Famous for blooming heather fields in late summer.", "Home to the Heidschnucke sheep, an old local breed.", "Heidepark Soltau is a well-known amusement park."],
-    },
-    descriptionAdvanced: {
-      de: "Die Lüneburger Heide ist eine weite Geestlandschaft im Nordosten Niedersachsens, die durch ihre charakteristischen Heideflächen, Wacholderhaine und Sandböden besticht. Das Kerngebiet ist als Naturschutzpark Lüneburger Heide geschützt und stellt eines der ältesten und größten Schutzgebiete dieser Art in Deutschland dar. Die Landschaft entstand ursprünglich durch großflächige Rodungen im Mittelalter und die anschließende Beweidung durch das Heidschnuckenschaf, was die Ausbreitung der Besenheide förderte. Der Wilseder Berg bildet mit 169 Metern die höchste Erhebung der norddeutschen Tiefebene und bietet bei klarem Wetter weite Ausblicke über das lila Blütenmeer im Spätsommer. Neben der einzigartigen Natur ist die Region für ihre historischen Heidedörfer mit reetgedeckten Fachwerkhäusern und den typischen Treppenspeichern bekannt. Die Stadt Lüneburg, die der Heide ihren Namen gab, war durch den Salzabbau einst eine der reichsten Städte der Hanse. Heute ist die Lüneburger Heide ein bedeutendes Erholungsgebiet und ein wichtiges Vorbild für den Erhalt historischer Kulturlandschaften.",
-      hu: "A Lüneburgi puszta (Lüneburger Heide) egy tágas tájegység Alsó-Szászország északkeleti részén, amely jellegzetes fenyérterületeivel, borókásaival és homokos talajával nyűgözi le a látogatókat. A központi terület a Lüneburger Heide Természetvédelmi Parkként védett, és Németország egyik legrégebbi és legnagyobb ilyen jellegű védett területe. A táj eredetileg a középkori nagymértékű erdőirtások és az azt követő legeltetés (Heidschnucke juhok) hatására alakult ki, ami elősegítette a csarab elterjedését. A 169 méter magas Wilseder Berg az észak-német alföld legmagasabb pontja, és tiszta időben messzire nyúló kilátást nyújt a késő nyári lila virágtengerre. Az egyedülálló természet mellett a régió híres történelmi falvairól, nádtetős fagerendás házairól és jellegzetes magtárairól. Lüneburg városa, amelyről a puszta a nevét kapta, a sóbányászat révén egykor a Hanza-szövetség egyik leggazdagabb városa volt. Ma a Lüneburgi puszta jelentős üdülőhely és fontos példája a történelmi kultúrtájak megőrzésének.",
-      ro: "Lüneburger Heide este un peisaj vast de câmpie în nord-estul Saxoniei Inferioare, care impresionează prin suprafețele sale caracteristice de vegetație de tip landă, ienuperi și soluri nisipoase. Zona centrală este protejată sub numele de Parcul Natural Lüneburger Heide și reprezintă una dintre cele mai vechi și mai mari zone protejate de acest tip din Germania. Peisajul a luat naștere inițial prin defrișări masive în Evul Mediu și pășunatul ulterior al oilor din rasa Heidschnucke, ceea ce a favorizat răspândirea ierbii neagre. Wilseder Berg, cu 169 de metri, reprezintă cea mai înaltă cotă din Câmpia Germaniei de Nord și oferă, pe vreme senină, vederi vaste asupra mării de flori violete la sfârșitul verii. Pe lângă natura unică, regiunea este cunoscută pentru satele sale istorice cu case tradiționale din paiantă cu acoperiș de stuf. Orașul Lüneburg, care a dat numele regiunii, a fost odată unul dintre cele mai bogate orașe ale Hansei datorită extracției de sare. Astăzi, Lüneburger Heide este o zonă de recreere importantă.",
-      en: "The Lüneburg Heath is a vast heathland landscape in northeastern Lower Saxony, captivated by its characteristic heather fields, juniper groves, and sandy soils. Its core area is protected as the Lüneburg Heath Nature Park, representing one of the oldest and largest protected areas of its kind in Germany. The landscape originally emerged through large-scale deforestation in the Middle Ages followed by grazing by Heidschnucke sheep, which encouraged the spread of common heather. At 169 meters, the Wilseder Berg is the highest elevation in the North German Plain, offering sweeping views of the purple sea of blossoms in late summer. Beyond its unique nature, the region is famous for historic heath villages featuring thatched half-timbered houses and typical multi-story granaries. The city of Lüneburg, which gave the heath its name, was once one of the wealthiest Hanseatic cities due to salt mining. Today, the Lüneburg Heath is a major recreational area and a vital model for preserving historic cultural landscapes.",
-    },
-    factsAdvanced: {
-      de: ["Naturschutzpark wurde am 21. Januar 1921 gegründet.", "Der Wilseder Berg ist mit 169 m die höchste Erhebung der Heide.", "Rund 9.000 Heidschnucken pflegen die Heideflächen ökologisch.", "Die Besenheide (Calluna vulgaris) blüht von August bis September.", "Das Gebiet umfasst insgesamt über 1.000 Quadratkilometer.", "In der Region befinden sich über 10.000 historische Hügelgräber."],
-      hu: ["A természetvédelmi parkot 1921. január 21-én alapították.", "A Wilseder Berg 169 méterrel a puszta legmagasabb pontja.", "Körülbelül 9000 Heidschnucke juh gondozza ökológiailag a területet.", "A csarab (Calluna vulgaris) augusztustól szeptemberig virágzik.", "A terület összesen több mint 1000 négyzetkilométert foglal magában.", "A régióban több mint 10 000 történelmi halomsír található."],
-      ro: ["Parcul natural a fost fondat pe 21 ianuarie 1921.", "Wilseder Berg este cea mai înaltă cotă a landei, cu 169 m.", "Circa 9.000 de oi Heidschnucke întrețin ecologic suprafețele de landă.", "Iarba neagră (Calluna vulgaris) înflorește din august până în septembrie.", "Zona cuprinde în total peste 1.000 de kilometri pătrați.", "În regiune se află peste 10.000 de tumuli (morminte) istorici."],
-      en: ["The nature park was established on January 21, 1921.", "The Wilseder Berg is the highest point in the heath at 169 meters.", "Around 9,000 Heidschnucke sheep maintain the heathlands ecologically.", "Common heather (Calluna vulgaris) blooms from August to September.", "The area covers a total of over 1,000 square kilometers.", "The region contains over 10,000 historic burial mounds."],
-    }, image: "/poi-images/forest-lueneburger-heide-extra.webp"},
-  {
-    id: "city-osnabrueck-extra",
-    type: "city",
-    parent: "DE-NI",
-    coords: [8.0472, 52.2799],
-    name: { de: "Osnabrück", hu: "Osnabrück", ro: "Osnabrück", en: "Osnabrück" },
-    description: {
-      de: "Osnabrück ist eine Großstadt in Niedersachsen, bekannt als Geburtsort von Erich Maria Remarque und Ort des Westfälischen Friedens.",
-      hu: "Osnabrück Alsó-Szászország egyik nagyváros, Erich Maria Remarque szülővárosaként és a vesztfáliai béke helyszíneként ismert.",
-      ro: "Osnabrück este un oraș mare din Saxonia Inferioară, cunoscut ca loc de naștere al lui Erich Maria Remarque și loc al Păcii Westfalice.",
-      en: "Osnabrück is a major city in Lower Saxony, known as the birthplace of Erich Maria Remarque and a site of the Peace of Westphalia.",
-    },
-    facts: {
-      de: ["Mitunterzeichnungsort des Westfälischen Friedens (1648).", "Geburtsort des Autors Erich Maria Remarque ('Im Westen nichts Neues').", "Heimat eines bedeutenden mittelalterlichen Doms."],
-      hu: ["A vesztfáliai béke egyik aláírási helyszíne (1648).", "Erich Maria Remarque ('Nyugaton semmi újság') szülővárosa.", "Egy fontos középkori dóm otthona."],
-      ro: ["Unul dintre locurile de semnare a Păcii Westfalice (1648).", "Locul de naștere al autorului Erich Maria Remarque ('Pe frontul de vest, nimic nou').", "Gazda unei importante catedrale medievale."],
-      en: ["Co-signing location of the Peace of Westphalia (1648).", "Birthplace of author Erich Maria Remarque ('All Quiet on the Western Front').", "Home to an important medieval cathedral."],
-    },
-    descriptionAdvanced: {
-      de: "Osnabrück ist als 'Friedensstadt' weltbekannt, da hier 1648 zusammen mit Münster der Westfälische Friede unterzeichnet wurde, der den Dreißigjährigen Krieg beendete. Die Stadt im Südwesten Niedersachsens verbindet diese historische Bedeutung mit einer dynamischen Gegenwart. Das historische Rathaus mit dem Friedenssaal ist das Wahrzeichen der Stadt. Osnabrück liegt inmitten des Natur- und Geoparks TERRA.vita und bietet eine hohe Lebensqualität zwischen Urbanität und Natur. Die Universität und zahlreiche innovative Unternehmen im Bereich Logistik und Metallverarbeitung prägen die Wirtschaftskraft. Auch als Geburtsstadt des Schriftstellers Erich Maria Remarque und des Malers Felix Nussbaum setzt Osnabrück wichtige kulturelle Akzente. Geschichte K7 – Der Westfälische Friede und seine Bedeutung für Europa.",
-      hu: "A(z) Osnabrück egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Osnabrück ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "Osnabrück este cunoscut în istoria universală ca 'Orașul Păcii', fiind locul unde, împreună cu Münster, a fost semnată Pacea Westfalică în 1648, punând capăt Războiului de Treizeci de Ani. Primăria istorică găzduiește Sala Păcii, unde au avut loc negocierile cruciale. Orașul este și locul de naștere al celebrului scriitor Erich Maria Remarque și al pictorului Felix Nussbaum, căruia îi este dedicat un muzeu avangardist proiectat de Daniel Libeskind. Situat în mijlocul geoparcului UNESCO TERRA.vita, Osnabrück îmbină o moștenire politică și culturală profundă cu un peisaj natural modelat de fenomene geologice de milioane de ani. Istorie K8 – Pacea Westfalică și bazele diplomației moderne.",
-      en: "Osnabrück, known as the 'City of Peace,' shares a historic legacy with Münster as the site where the Peace of Westphalia was negotiated and signed in 1648. This momentous event, which ended the Thirty Years' War, took place in the city's historic Town Hall. Osnabrück is unique for its 'shared' history as both a Catholic and Protestant city, reflected in its two major cathedrals. It is the only large city in Germany located in the middle of a Nature Park – the TERRA.vita UNESCO Global Geopark. The city's old town is a charming ensemble of stone houses and half-timbered buildings, while modern Osnabrück is a thriving center for logistics and industry. It is also the birthplace of the writer Erich Maria Remarque and the painter Felix Nussbaum. Geschichte K8 – The Peace of Westphalia and the history of tolerance."
-    },
-    factsAdvanced: {
-      de: ["Ort der Unterzeichnung des Westfälischen Friedens von 1648.", "Einzige deutsche Großstadt, die in einem Naturpark (TERRA.vita) liegt.", "Geburtsstadt des Autors von 'Im Westen nichts Neues', Erich Maria Remarque.", "Besitzt mit dem Felix-Nussbaum-Haus ein bedeutendes Museum von Daniel Libeskind.", "Wichtiger Eisenbahnknotenpunkt zwischen Hamburg und dem Ruhrgebiet.", "Das Osnabrücker Schloss dient heute als Hauptsitz der Universität."],
-      hu: [
-        "A(z) Osnabrück területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Osnabrück tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
-        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
-        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
-      ],
-      ro: ["Pacea Westfalică din 1648 a fost negociată în Sala Păcii din primăria orașului.", "Erich Maria Remarque, autorul cărții 'Pe frontul de vest nimic nou', s-a născut aici.", "Muzeul Felix-Nussbaum-Haus a fost prima clădire majoră proiectată de Daniel Libeskind.", "Este singurul oraș mare din Germania situat în mijlocul unui parc natural (UNESCO Geopark).", "Orașul a fost sediul unei episcopii fondate de Carol cel Mare în anul 780.", "Simbolul orașului este 'Roata de la Osnabrück', prezentă pe stema locală."],
-      en: ["Co-site of the signing of the Peace of Westphalia in 1648.", "Known as the 'City of Peace' (Friedensstadt) for its historic role.", "Located within the TERRA.vita UNESCO Global Geopark.", "Birthplace of Erich Maria Remarque, author of 'All Quiet on the Western Front'.", "Home to the Felix-Nussbaum-Haus, designed by Daniel Libeskind.", "Features the historic Town Hall with its 'Hall of Peace'."]
-    }, image: "/poi-images/city-osnabrueck-extra.webp"},
-  {
+      {
     id: "river-weser-ni-extra",
     type: "river",
     parent: "DE-NI",
@@ -880,44 +709,7 @@ export const poiExtraDe2: POI[] = [
       ro: ["Legenda fluierașului datează din anul 1284, când 130 de copii ar fi dispărut.", "Casa Rattenfängerhaus (1602) este una dintre cele mai frumoase clădiri renascentiste.", "Jocul de figurine de pe Hochzeitshaus rulează zilnic povestea fluierașului la ore fixe.", "Orașul este situat pe traseul turistic 'Drumul Basmelor Germane'.", "Stilul arhitectural local este cunoscut sub numele de 'Renașterea Weser'.", "Numele orașului este legat de râul Hamel, un afluent al Weser-ului."],
       en: ["The setting of the global legend of the Pied Piper of Hamelin.", "The first record of the children's disappearance dates back to 1284.", "A prime example of the 'Weser Renaissance' architectural style.", "Features the 'Ratcatcher's House' (Rattenfängerhaus) from 1602.", "Located on the German Fairy Tale Route (Deutsche Märchenstraße).", "A leading member of the Hanseatic League in the Middle Ages."]
     }, image: "/poi-images/hist-hameln-extra.webp"},
-  {
-    id: "city-goettingen-extra",
-    type: "city",
-    parent: "DE-NI",
-    coords: [9.9347, 51.5328],
-    name: { de: "Göttingen", hu: "Göttingen", ro: "Göttingen", en: "Göttingen" },
-    description: {
-      de: "Göttingen ist eine Universitätsstadt in Südniedersachsen mit einer renommierten Georg-August-Universität.",
-      hu: "Göttingen Dél-Alsó-Szászország egy egyetemváros, a neves Georg-August Egyetem otthona.",
-      ro: "Göttingen este un oraș universitar din sudul Saxoniei Inferioare, cu renumita Universitate Georg-August.",
-      en: "Göttingen is a university city in southern Lower Saxony home to the renowned Georg-August University.",
-    },
-    facts: {
-      de: ["Die Göttinger Sieben, sieben Professoren, protestierten 1837 gegen den König.", "Zahlreiche Nobelpreisträger lehrten oder studierten hier.", "Das Gänseliesel-Denkmal ist ein Symbol der Stadt."],
-      hu: ["A göttingeni hét, hét professzor, 1837-ben tiltakozott a király ellen.", "Számos Nobel-díjas tanított vagy tanult itt.", "A Gänseliesel-szobor a város szimbóluma."],
-      ro: ["Cei Șapte din Göttingen, șapte profesori, au protestat în 1837 împotriva regelui.", "Numeroși laureați Nobel au predat sau studiat aici.", "Monumentul Gänseliesel este un simbol al orașului."],
-      en: ["The Göttingen Seven, seven professors, protested against the king in 1837.", "Numerous Nobel Prize winners taught or studied here.", "The Gänseliesel monument is a symbol of the city."],
-    },
-    descriptionAdvanced: {
-      de: "Göttingen ist eine klassische deutsche Gelehrtenrepublik, geprägt durch die 1734 gegründete Georg-August-Universität. Die Stadt hat eine beeindruckende Tradition: Über 40 Nobelpreisträger haben hier studiert oder gelehrt, darunter Größen wie Gauß, Lichtenberg und die Brüder Grimm. Ein Wahrzeichen ist das 'Gänseliesel' auf dem Marktplatz – die meistgeküsste Statue der Welt, da es für frisch promovierte Studenten Tradition ist, sie nach bestandenem Examen zu küssen. Die historische Altstadt mit ihren Fachwerkbauten und der grüne Wall um den Stadtkern verleihen Göttingen eine hohe Lebensqualität. Heute ist die Stadt ein führender Standort für Life Sciences und Messtechnik. Geschichte K7 – Universitäten als Zentren von Aufklärung und Wissenschaft.",
-      hu: "A(z) Göttingen egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Göttingen ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "Göttingen este un simbol mondial al excelenței academice, fiind orașul unde au activat sau studiat nu mai puțin de 45 de laureați ai Premiului Nobel. Universitatea Georg-August, fondată în 1734 de regele George al II-lea al Marii Britanii, a dominat lumea științifică în secolele XVIII și XIX, în special în domeniile matematicii și fizicii, prin figuri precum Carl Friedrich Gauss. Simbolul orașului este 'Gänseliesel' (Fata cu gâștele), o fântână situată în fața vechii primării, pe care tradiția îi obligă pe toți proaspeții doctoranzi să o sărute. Centrul medieval cu casele sale pe structură de lemn și zidul orașului oferă un cadru istoric pitoresc. Știință K8 – Centre universitare și istoria cercetării.",
-      en: "Göttingen is a world-renowned 'City of Science,' where the university is the heart and soul of daily life. The Georgia Augusta University, founded in 1734, has been home to more than 40 Nobel Prize winners, including Max Planck and Werner Heisenberg. A charming tradition for every new PhD graduate is to kiss the 'Gänseliesel' (Goose Girl) statue on the market square, making her the 'most kissed girl in the world.' The city's old town is surrounded by a historic rampart that is now a popular walking path, and its narrow streets are filled with bookstores and traditional student pubs. Göttingen's intellectual atmosphere and its role as a hub for the Enlightenment have made it a beacon of academic excellence for nearly three centuries. Geschichte K8 – University history and the age of Enlightenment."
-    },
-    factsAdvanced: {
-      de: ["Heimat der Georg-August-Universität mit über 40 Nobelpreisträgern.", "Das Gänseliesel-Denkmal ist das Wahrzeichen der Stadt.", "Wirkungsstätte des berühmten Mathematikers Carl Friedrich Gauß.", "Die Brüder Grimm lehrten hier und gehörten zu den 'Göttinger Sieben'.", "Der Stadtwall aus dem 14. Jahrhundert ist heute eine 3 km lange Promenade.", "Wichtiger Standort für die optische Industrie und Nanotechnologie."],
-      hu: [
-        "A(z) Göttingen területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Göttingen tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
-        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
-        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
-      ],
-      ro: ["Nu mai puțin de 45 de laureați ai Premiului Nobel au legături directe cu orașul.", "Universitatea Georg-August a fost fondată în anul 1734.", "Fântâna Gänseliesel este considerată 'cea mai sărutată fată din lume'.", "Matematicianul Carl Friedrich Gauss a trăit și a lucrat aici timp de decenii.", "Frații Grimm au predat la universitatea din Göttingen înainte de a fi expulzați.", "Orașul păstrează o mare parte din fortificațiile sale medievale sub formă de ziduri verzi."],
-      en: ["Home to a university associated with over 40 Nobel Prize winners.", "The 'Gänseliesel' is famously the world's most-kissed statue.", "Founded in 1734 and a leading center of the European Enlightenment.", "The Brothers Grimm taught here as members of the 'Göttingen Seven'.", "Surrounded by a complete, 3-kilometer long medieval city wall.", "A major hub for the measurement and precision mechanics industry."]
-    }, image: "/poi-images/city-goettingen-extra.webp"},
-  {
+    {
     id: "landmark-wilhelmshaven-extra",
     type: "landmark",
     parent: "DE-NI",
@@ -1397,44 +1189,7 @@ export const poiExtraDe2: POI[] = [
       ro: ["Prima mențiune documentară a unui pod pe acest loc datează din anul 1287.", "August cel Tare a dispus reconstrucția sa în stil baroc între 1727 și 1731.", "Podul actual are nouă arcuri și a fost finalizat în anul 1910.", "A supraviețuit bombardamentului din 1945, dar a fost aruncat în aer parțial de trupele germane la retragere.", "În timpul marilor inundații din 2002, podul a rezistat presiunii uriașe a râului Elba.", "Este rezervat în prezent exclusiv transportului public, bicicliștilor și pietonilor."],
       en: ["The oldest and most important bridge site in the city of Dresden.", "The current 9-arch sandstone bridge was completed in 1910.", "Named after Augustus the Strong, who ordered its Baroque redesign.", "Offers the world-famous 'Canaletto' view of Dresden's skyline.", "Located at a vital historic crossing point for European trade.", "The bridge was partially destroyed in 1945 and later rebuilt."]
     }, image: "/poi-images/landmark-augustusbruecke-extra.webp"},
-  {
-    id: "city-goerlitz-extra",
-    type: "city",
-    parent: "DE-SN",
-    coords: [14.9872, 51.1547],
-    name: { de: "Görlitz", hu: "Görlitz", ro: "Görlitz", en: "Görlitz" },
-    description: {
-      de: "Görlitz ist die östlichste Stadt Deutschlands an der Neiße, bekannt für ihre prächtig erhaltene Altstadt.",
-      hu: "Görlitz Németország legkeletebbi városa a Neisse folyón, pompásan megőrzött óvárosáról ismert.",
-      ro: "Görlitz este cel mai estic oraș din Germania, pe râul Neisse, cunoscut pentru centrul său vechi magnific conservat.",
-      en: "Görlitz is Germany's easternmost city on the Neisse river, known for its magnificently preserved old town.",
-    },
-    facts: {
-      de: ["Gilt als eine der am besten erhaltenen Altstädte Europas.", "Beliebter Filmstandort ('Inglourious Basterds', 'The Grand Budapest Hotel').", "Die polnische Zwillingsstadt Zgorzelec liegt auf der anderen Neißeseite."],
-      hu: ["Európa egyik legjobban megőrzött óvárosának tartják.", "Kedvelt filmforgatási helyszín ('Inglourious Basterds', 'The Grand Budapest Hotel').", "A lengyel ikerváros, Zgorzelec a Neisse másik oldalán fekszik."],
-      ro: ["Considerată unul dintre cele mai bine conservate orașe vechi din Europa.", "Locație populară pentru filmări ('Inglourious Basterds', 'The Grand Budapest Hotel').", "Orașul geamăn polonez Zgorzelec se află pe cealaltă parte a Neisei."],
-      en: ["Considered one of Europe's best-preserved old towns.", "Popular filming location ('Inglourious Basterds', 'The Grand Budapest Hotel').", "The Polish twin city of Zgorzelec lies on the other side of the Neisse."],
-    },
-    descriptionAdvanced: {
-      de: "Görlitz ist die östlichste Stadt Deutschlands und ein architektonisches Juwel von europäischem Rang. Da die Stadt im Zweiten Weltkrieg fast vollständig unversehrt blieb, besitzt sie eines der am besten erhaltenen historischen Stadtbilder Mitteleuropas mit über 4.000 denkmalgeschützten Gebäuden aus Gotik, Renaissance, Barock und Gründerzeit. Die Grenze zu Polen verläuft heute mitten durch die Stadt, die zusammen mit Zgorzelec eine Europastadt bildet. Weltbekannt wurde Görlitz zudem als 'Görliwood', da seine authentische Kulisse als Drehort für zahlreiche internationale Filmproduktionen wie 'Grand Budapest Hotel' diente. Die prächtigen Hallenhäuser der Renaissance zeugen vom einstigen Reichtum als Tuchmacherstadt an der Via Regia. Geschichte K7 – Mittelalterliche Handelsstädte und moderne Grenzregionen.",
-      hu: "A(z) Görlitz egy lenyűgöző történelmi és kulturális jelentőségű nevezetesség Németországban. Az idelátogatók számára páratlan élményt nyújt a helyszín egyedi atmoszférája és gazdag öröksége. Számos érdekesség és felfedeznivaló várja a látogatókat, amely a német történelem egy fontos darabkáját őrzi. A modern turisztikai fejlesztéseknek köszönhetően a Görlitz ma már könnyen megközelíthető és minden korosztály számára kínál programokat. Felfedezése nem csupán a helyiek, hanem a nemzetközi utazók számára is kihagyhatatlan állomás a németországi utazások során.",
-      ro: "Görlitz este considerat de mulți cel mai frumos oraș din Germania, fiind un muzeu în aer liber ce cuprinde peste 4.000 de monumente arhitecturale din perioadele gotică, renascentistă și barocă. Situat pe malul râului Neisse, la granița cu Polonia, orașul a scăpat aproape intact de distrugerile celui de-al Doilea Război Mondial. Frumusețea sa autentică a transformat orașul în 'Görliwood', fiind o locație de filmare preferată pentru producții de Oscar precum 'The Grand Budapest Hotel' sau 'Inglourious Basterds'. Podul pietonal peste Neisse leagă orașul de partea sa estică, Zgorzelec, formând o singură entitate urbană europeană. Istorie K7 – Conservarea patrimoniului și cultura de frontieră.",
-      en: "Görlitz is widely considered the best-preserved and most beautiful city in Germany, a living architectural museum spanning 500 years of history. Located on the Neisse river at the border with Poland, the city features over 4,000 listed monuments ranging from Gothic and Renaissance to Baroque and Art Nouveau. Because Görlitz was almost completely spared from destruction during World War II, its old town is incredibly authentic, making it a favorite location for Hollywood filmmakers (earning it the nickname 'Görliwood'). The city is part of the 'European City' Görlitz/Zgorzelec, a unique cross-border community that symbolizes European unity. It is a place of quiet, stunning majesty where every street corner tells a story of Central European wealth and culture. Geschichte K8 – European architecture and cross-border cooperation."
-    },
-    factsAdvanced: {
-      de: ["Besitzt die höchste Denkmaldichte aller deutschen Städte (über 4.000).", "Östlichste Stadt Deutschlands, geteilt durch die Lausitzer Neiße.", "Berühmter Drehort für Hollywood-Filme ('Görliwood').", "Die 'Hallenhäuser' sind eine architektonische Besonderheit der Renaissance.", "Sitz des Meridiansteins, da der 15. Meridian direkt durch die Stadt verläuft.", "Die Peterskirche besitzt eine Sonnenorgel mit künstlichen Sonnenstrahlen."],
-      hu: [
-        "A(z) Görlitz területén évente több mint 100 000 látogató fordul meg.",
-        "A látványosság már a 19. században is a régió egyik fontos turisztikai központja volt.",
-        "A terület 1990 után jelentős fejlesztéseken esett át, közel 5 millió eurós beruházással.",
-        "A Görlitz tengerszint feletti magassága és elhelyezkedése miatt különleges klímával rendelkezik.",
-        "Az ide látogató turisták több mint 30 százaléka külföldről érkezik.",
-        "A helyszínen több mint 50 különböző történelmi és kulturális eseményt rendeznek évente."
-      ],
-      ro: ["Orașul deține peste 4.000 de clădiri monument istoric sub protecție.", "Meridianul 15 est trece prin Görlitz, definind ora oficială a Europei Centrale.", "Este o locație de filmare celebră la Hollywood, sub porecla 'Görliwood'.", "Biserica Sf. Petru și Pavel are o orgă faimoasă care poate imita sunete de soare.", "Formează o 'Oraș-Gemene' (Europastadt) împreună cu orașul polonez Zgorzelec.", "Este cel mai estic oraș al Germaniei, fiind poarta către Silezia."],
-      en: ["Home to over 4,000 individually listed architectural monuments.", "Known as 'Görliwood' because it was a filming site for 'The Grand Budapest Hotel'.", "Germany's easternmost city, located on the 15th meridian.", "Spared from any major destruction during World War II.", "Forms a unique cross-border twin city with Zgorzelec, Poland.", "Features the 'Biblisches Haus', a Renaissance masterpiece from 1570."]
-    }, image: "/poi-images/city-goerlitz-extra.webp"},
-  {
+    {
     id: "lake-talsperre-kriebstein-extra",
     type: "lake",
     parent: "DE-SN",
