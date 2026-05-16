@@ -15,24 +15,16 @@ const OUT = path.resolve(__dirname, "..", "public", "data", "pois");
 
 fs.mkdirSync(OUT, { recursive: true });
 
-// Pull build helpers — server-side only, OK to use heavy slugs module here.
+// Pull build helpers + the fully-deduped POI list (V1 + V2 combined).
 import * as _slugs from "../lib/seo/slugs";
 const s: any = (_slugs as any).default ?? _slugs;
-const { buildPoiPath, buildStatePath, SUPPORTED_LANGS } = s;
-
-// Load V2 chunks
-const v2: any[] = [];
-for (let i = 0; i < 16; i++) {
-  const fp = path.join(DATA, `_all_v2_pois_${String(i).padStart(2, "0")}.json`);
-  if (!fs.existsSync(fp)) continue;
-  const arr = JSON.parse(fs.readFileSync(fp, "utf8"));
-  for (const p of arr) v2.push(p);
-}
-console.log(`V2 POIs loaded: ${v2.length}`);
+const { buildPoiPath, buildStatePath, SUPPORTED_LANGS, pois: allPois } = s;
+console.log(`Combined POIs (V1+V2 deduped): ${allPois.length}`);
 
 const byCountry: Record<string, any[]> = {};
-for (const p of v2) {
+for (const p of allPois) {
   if (!p?.parent) continue;
+  if (p.type === "country" || p.type === "region") continue;
   const cc = p.parent.split("-")[0];
   if (!cc || cc.length > 4) continue;
   (byCountry[cc] = byCountry[cc] || []).push(p);
