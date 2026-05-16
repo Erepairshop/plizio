@@ -15,14 +15,37 @@ function isDefinedPoi(poi: POI | null | undefined): poi is POI {
 
 // Base: DE + RO + HU + Vatican (explicit, for backward compat).
 // Plus: all other countries via ALL_COUNTRY_POIS aggregate.
-// De-duplicate by id (RO/HU/Vatican already in the aggregate list too, keep first occurrence).
+// De-duplicate by id, keeping the richest version (most desc+facts chars).
+// Earlier first-wins lost content when V1 was thinner than later V2 entry.
 const _poiById = new Map<string, POI>();
+function _richness(p: POI): number {
+  let n = 0;
+  const desc = (p as { description?: Record<string, string> }).description;
+  const descAdv = (p as { descriptionAdvanced?: Record<string, string> }).descriptionAdvanced;
+  const facts = (p as { facts?: Record<string, string[]> }).facts;
+  const factsAdv = (p as { factsAdvanced?: Record<string, string[]> }).factsAdvanced;
+  for (const obj of [desc, descAdv]) {
+    if (!obj) continue;
+    for (const l of ["de", "hu", "ro", "en"]) n += ((obj as Record<string, string>)[l] || "").length;
+  }
+  for (const obj of [facts, factsAdv]) {
+    if (!obj) continue;
+    for (const l of ["de", "hu", "ro", "en"]) {
+      const arr = (obj as Record<string, unknown>)[l];
+      if (Array.isArray(arr)) for (const s of arr) n += (typeof s === "string" ? s.length : 0);
+    }
+  }
+  if ((p as { image?: string }).image) n += 50;
+  return n;
+}
 // Build via concat — spread of 50K+ items hits V8 stack limit.
 const _allSources: POI[] = ([] as POI[]).concat(
   dePois, ALL_DE_EXTRA_POIS, romaniaAllPois, hungaryAllPoi, [vaticanCountry], vaticanPois, ALL_COUNTRY_POIS,
 );
 for (const p of _allSources) {
-  if (p && p.id && !_poiById.has(p.id)) _poiById.set(p.id, p);
+  if (!p || !p.id) continue;
+  const prev = _poiById.get(p.id);
+  if (!prev || _richness(p) > _richness(prev)) _poiById.set(p.id, p);
 }
 // GPS-alapú dedup: ha 2 POI ugyanazon koordinátán (~50m radius), keep az
 // "összetettebbet" (parent + description + image). Region/country mindenhol.
