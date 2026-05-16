@@ -23,17 +23,38 @@ export const croatiaNatureV2: POI[] = [
     },
 imageHint: "Mljet island monastery on lake",
     descriptionAdvanced: {
-      de: "Mljet ist die südlichste der großen kroatischen Inseln und beherbergt den ältesten Nationalpark der Adria, der im Jahr 1960 gegründet wurde. Der Nationalpark umfasst den westlichen Teil der Insel und ist vor allem für seine beiden Salzwasserseen, das Große und das Kleine Meer, bekannt. Inmitten des Großen Meeres befindet sich die kleine Insel der Heiligen Maria mit einem Benediktinerkloster aus dem 12. Jahrhundert. Die Insel ist zu über 70 % mit Wald bedeckt, was ihr den Beinamen die grüne Insel eingebracht hat. Historisch wurde Mljet bereits von den alten Griechen als Melita erwähnt und spielt eine Rolle in der Legende von Odysseus, der hier sieben Jahre verbracht haben soll. Die unberührte Natur und die artenreiche Meeresfauna machen die Insel zu einem wichtigen Forschungsgebiet für Meeresbiologen. Mljet ist zudem bekannt für seine traditionelle Fischerei und die Erzeugung von hochwertigem Olivenöl und Wein. Die Kombination aus antiker Geschichte und dichter mediterraner Vegetation verleiht der Insel eine besondere Bedeutung für das kroatische Naturerbe.",
-      hu: "Mljet a legdélebbi a nagy horvát szigetek közül, és itt található az Adriai-tenger legrégebbi nemzeti parkja, amelyet 1960-ban alapítottak. A nemzeti park a sziget nyugati részét foglalja el, és leginkább két sós vizű taváról, a Nagy-tóról és a Kis-tóról ismert. A Nagy-tó közepén fekszik a Szent Mária-sziget, amelyen egy 12. századi bencés kolostor áll. A sziget területének több mint 70%-át erdő borítja, ezért gyakran emlegetik zöld szigetként. Történelmileg az ókori görögök Melitaként említették, és a legenda szerint Odüsszeusz itt töltött hét évet fogságban. Az érintetlen természet és a gazdag tengeri élővilág miatt a sziget a tengerbiológusok fontos kutatási területe. Mljet híres továbbá hagyományos halászatáról, valamint a kiváló minőségű olívaolajról és borról. Az antik történelem és a sűrű mediterrán vegetáció kombinációja különleges értéket képvisel a horvát természeti örökségben.",
-      ro: "Mljet este cea mai sudică dintre marile insule croate și găzduiește cel mai vechi parc național de la Marea Adriatică, înființat în anul 1960. Parcul național acoperă partea de vest a insulei și este renumit în special pentru cele două lacuri sărate, Lacul Mare și Lacul Mic. În mijlocul Lacului Mare se află insula Sfânta Maria, care adăpostește o mănăstire benedictină construită în secolul al XII-lea. Insula este acoperită în proporție de peste 70% de păduri, fapt ce i-a adus supranumele de insula verde. Din punct de vedere istoric, Mljet a fost menționată de vechii greci sub numele de Melita și joacă un rol în legenda lui Ulise, care ar fi petrecut aici șapte ani. Natura intactă și fauna marină diversă fac din insulă o zonă de cercetare crucială pentru biologii marini. Mljet este, de asemenea, cunoscută pentru pescuitul tradițional și producția de ulei de măsline și vin de înaltă calitate. Combinația dintre istoria antică și vegetația mediteraneană densă conferă insulei o importanță deosebită pentru patrimoniul natural croat.",
-      en: "Mljet is the southernmost of the major Croatian islands and home to the oldest national park on the Adriatic, established in 1960. The national park covers the western part of the island and is primarily famous for its two saltwater lakes, the Great Lake and the Small Lake. In the middle of the Great Lake lies the islet of St. Mary, featuring a Benedictine monastery dating back to the 12th century. Over 70% of the island is forested, earning it the nickname the green island. Historically, Mljet was mentioned by the ancient Greeks as Melita and features prominently in the legend of Odysseus, who supposedly stayed here for seven years. The pristine nature and rich marine biodiversity make the island a critical research area for marine biologists. Mljet is also renowned for its traditional fishing and the production of high-quality olive oil and wine. The blend of ancient history and dense Mediterranean vegetation gives the island a unique status within Croatia's natural heritage.",
+    
+    "de": "Die Insel Mljet beherbergt im Westen einen Nationalpark mit zwei Salzwasserseen, die durch einen schmalen Kanal mit dem offenen Meer verbunden sind.",
+    "hu": "Mljet szigete az Adria legzÃ¶ldebb szigete, melynek nyugati rÃ©szÃ©n fekvÅ‘ nemzeti parkja kÃ©t kÃ¼lÃ¶nleges sÃ³s tavÃ¡rÃ³l Ã©s buja mediterrÃ¡n erdÅ‘irÅ‘l hÃ­res.",
+    "ro": "Insula Mljet gÄƒzduieÈ™te Ã®n partea sa vesticÄƒ un parc naÈ›ional cu douÄƒ lacuri sÄƒrate conectate printr-un canal Ã®ngust de marea liberÄƒ Ã®nconjurÄƒtoare.",
+    "en": "Mljet Island features a stunning national park in its western part, famous for its two saltwater lakes and the 12th-century Benedictine monastery."
     },
     factsAdvanced: {
-      de: ["Nationalpark seit 1960 geschützt.", "Zweitgrößte Insel Süddalmatiens.", "Benediktinerkloster wurde im 12. Jahrhundert erbaut.", "Wälder bedecken über 70% der Inselfläche.", "Umfasst die zwei Salzseen Veliko und Malo Jezero.", "Die Odysseus-Höhle befindet sich an der Südküste."],
-      hu: ["1960 óta nemzeti park.", "Dél-Dalmácia második legnagyobb szigete.", "A bencés kolostor a 12. században épült.", "A sziget több mint 70%-át erdő borítja.", "Magában foglalja a Veliko és Malo Jezero sós tavakat.", "Az Odüsszeusz-barlang a déli parton található."],
-      ro: ["Declarat parc național în anul 1960.", "A doua insulă ca mărime din Dalmația de Sud.", "Mănăstirea benedictină a fost construită în secolul al XII-lea.", "Peste 70% din suprafața insulei este împădurită.", "Include cele două lacuri sărate, Veliko și Malo Jezero.", "Peștera lui Ulise este situată pe coasta de sud."],
-      en: ["Protected as a national park since 1960.", "The second largest island in South Dalmatia.", "The Benedictine monastery was built in the 12th century.", "Forests cover more than 70% of the island's area.", "Includes the two saltwater lakes, Veliko and Malo Jezero.", "The Odysseus Cave is located on the southern coast."],
-    },
+    "de": [
+        "Nationalpark-GrÃ¼ndung im Jahr 1960",
+        "FlÃ¤che des Parks betrÃ¤gt 54 kmÂ²",
+        "Salzwasserseen Veliko und Malo Jezero",
+        "Kloster auf der Insel Sveta Marija"
+    ],
+    "hu": [
+        "A nemzeti parkot 1960-ban alapÃ­tottÃ¡k",
+        "TerÃ¼lete megkÃ¶zelÃ­tÅ‘leg 54 kmÂ²",
+        "KÃ©t sÃ³s tava a Nagy- Ã©s Kis-tÃ³",
+        "BencÃ©s kolostor a Szent MÃ¡ria-szigeten"
+    ],
+    "ro": [
+        "Parcul NaÈ›ional a fost fondat Ã®n 1960",
+        "SuprafaÈ›a parcului este de 54 kmÂ²",
+        "Lacurile sÄƒrate Veliko È™i Malo Jezero",
+        "MÄƒnÄƒstire pe insula SfÃ¢nta Maria"
+    ],
+    "en": [
+        "National Park established in 1960",
+        "Covers an area of about 54 sq km",
+        "Features Veliko and Malo Jezero lakes",
+        "12th-century monastery on St. Mary Isle"
+    ]
+    }
     , image: "/poi-images/croatia-mljet-island-nature-v2.webp",
 },  {
     id: "croatia-kornati-islands-nature-v2",
@@ -57,17 +78,38 @@ imageHint: "Mljet island monastery on lake",
     },
 imageHint: "Kornati islands aerial view",
     descriptionAdvanced: {
-      de: "Der Kornati-Archipel ist die am dichtesten besiedelte Inselgruppe im Mittelmeer und besteht aus insgesamt 89 Inseln, Inselchen und Riffen. Der Nationalpark Kornati wurde 1980 gegründet und umfasst eine Fläche von etwa 217 Quadratkilometern im zentralen Teil der kroatischen Adria. Die Inseln bestehen überwiegend aus Karstkalkstein und sind bekannt für ihre karge, mondähnliche Landschaft sowie die markanten vertikalen Klippen, die als Kronen bezeichnet werden. Diese Klippen können eine Höhe von bis zu 80 Metern über dem Meeresspiegel erreichen und setzen sich tief unter Wasser fort. Trotz der scheinbaren Trockenheit beherbergen die Inseln über 850 Tier- und Pflanzenarten, während die Unterwasserwelt für ihre enorme Biodiversität berühmt ist. Historisch wurden die Kornaten seit der Jungsteinzeit genutzt, wovon Überreste illyrischer Festungen und römischer Villen zeugen. Die Abwesenheit von dauerhaften Siedlungen und modernen Lichtquellen macht den Park zu einem idealen Ort für astronomische Beobachtungen und nautischen Tourismus. Die Verwaltung des Parks legt großen Wert auf den Schutz der marinen Ökosysteme und die Erhaltung der traditionellen Trockenmauer-Architektur.",
-      hu: "A Kornati-szigetvilág a Földközi-tenger legsűrűbb szigetcsoportja, amely összesen 89 szigetből, sziklából és zátonyból áll. A Kornati Nemzeti Parkot 1980-ban alapították, és mintegy 217 négyzetkilométernyi területet foglal el az Adria középső részén. A szigetek túlnyomórészt karsztmészkőből épülnek fel, és híresek kopár, holdszerű tájukról, valamint a koronáknak nevezett függőleges sziklafalaikról. Ezek a sziklák akár 80 méterrel is a tengerszint fölé magasodhatnak, és a víz alatt is mélyen folytatódnak. A látszólagos szárazság ellenére a szigeteken több mint 850 állat- és növényfaj él, míg a víz alatti világ hatalmas biodiverzitásáról nevezetes. Történelmileg a Kornati-szigeteket az újkőkor óta használták, amiről illír erődmaradványok és római villák tanúskodnak. Az állandó települések és a modern fényforrások hiánya miatt a park ideális helyszín a csillagászati megfigyelésekhez és a hajós turizmushoz. A park vezetése nagy hangsúlyt fektet a tengeri ökoszisztémák védelmére és a hagyományos kőfalak megőrzésére.",
-      ro: "Arhipelagul Kornati este cel mai dens grup de insule din Marea Mediterană, format din 89 de insule, insulițe și recife. Parcul Național Kornati a fost înființat în 1980 și acoperă o suprafață de aproximativ 217 kilometri pătrați în partea centrală a Adriaticii croate. Insulele sunt compuse în principal din calcar carstic și sunt cunoscute pentru peisajul lor arid, asemănător cu cel lunar, precum și pentru falezele verticale spectaculoase numite coroane. Aceste stânci pot atinge o înălțime de până la 80 de metri deasupra nivelului mării și continuă adânc sub apă. În ciuda aridității aparente, insulele găzduiesc peste 850 de specii de animale și plante, în timp ce lumea subacvatică este celebră pentru biodiversitatea sa enormă. Din punct de vedere istoric, arhipelagul a fost utilizat încă din neolitic, dovezi fiind vestigiile fortificațiilor ilire și ale vilelor romane. Absența așezărilor permanente și a poluării luminoase moderne face din parc un loc ideal pentru observații astronomice și turism nautic. Administrația parcului pune un accent deosebit pe protejarea ecosistemelor marine și pe conservarea zidurilor de piatră tradiționale.",
-      en: "The Kornati Archipelago is the densest island group in the Mediterranean, consisting of 89 islands, islets, and reefs. The Kornati National Park was established in 1980 and covers an area of approximately 217 square kilometers in the central part of the Croatian Adriatic. The islands are predominantly made of karst limestone and are famous for their barren, moon-like landscape and the striking vertical cliffs known as crowns. These cliffs can rise up to 80 meters above sea level and extend deep underwater. Despite the apparent aridity, the islands host over 850 species of flora and fauna, while the underwater world is renowned for its immense biodiversity. Historically, the Kornati islands have been used since the Neolithic period, as evidenced by the remains of Illyrian forts and Roman villas. The absence of permanent settlements and modern light sources makes the park an ideal location for astronomical observations and nautical tourism. The park's management prioritizes the protection of marine ecosystems and the preservation of traditional dry-stone wall architecture.",
+    
+    "de": "Der Kornaten-Archipel besteht aus Ã¼ber 80 kargen Inseln und Riffen, die fÃ¼r ihre spektakulÃ¤ren vertikalen Klippen, die sogenannten Kronen, bekannt sind.",
+    "hu": "A Kornati-szigetvilÃ¡g tÃ¶bb mint 80 kopÃ¡r szigetbÅ‘l Ã©s zÃ¡tonybÃ³l Ã¡ll, melyek hÃ­resek a tengerbÅ‘l fÃ¼ggÅ‘legesen kiemelkedÅ‘ hatalmas sziklafalaikrÃ³l.",
+    "ro": "Arhipelagul Kornati cuprinde peste 80 de insule È™i recife aride, renumite pentru falezele lor verticale spectaculoase numite coroane de piatrÄƒ.",
+    "en": "The Kornati archipelago consists of over 80 barren islands and reefs, renowned for their dramatic vertical cliffs known locally as crowns."
     },
     factsAdvanced: {
-      de: ["Nationalpark seit 1980 bestehend.", "Umfasst 89 Inseln und Felsen.", "Die höchste Klippe ist 82 Meter hoch.", "80% des Parks bestehen aus Meeresfläche.", "Gesamtlänge der Trockenmauern beträgt über 300 km.", "Keine Quellen für Süßwasser auf den Inseln vorhanden."],
-      hu: ["1980 óta nemzeti park.", "89 szigetből és sziklából áll.", "A legmagasabb sziklafal 82 méter magas.", "A park területének 80%-a tenger.", "A szárazon rakott kőfalak hossza meghaladja a 300 km-t.", "A szigeteken nincs természetes édesvízforrás."],
-      ro: ["Declarat parc național în anul 1980.", "Cuprinde 89 de insule și stânci.", "Cea mai înaltă faleză are 82 de metri.", "80% din suprafața parcului este marină.", "Lungimea totală a zidurilor de piatră depășește 300 km.", "Nu există surse naturale de apă dulce pe insule."],
-      en: ["National park status since 1980.", "Consists of 89 islands and reefs.", "The highest cliff reaches 82 meters.", "80% of the park's area is marine.", "The total length of dry-stone walls exceeds 300 km.", "There are no natural freshwater sources on the islands."],
-    },
+    "de": [
+        "Nationalpark umfasst 89 Inseln",
+        "GesamtflÃ¤che von etwa 220 kmÂ²",
+        "HÃ¶chste Klippe erreicht 82 Meter",
+        "Keine dauerhafte Besiedlung der Inseln"
+    ],
+    "hu": [
+        "A nemzeti park 89 szigetet foglal magÃ¡ban",
+        "Teljes terÃ¼lete kÃ¶rÃ¼lbelÃ¼l 220 kmÂ²",
+        "A legmagasabb sziklafal 82 mÃ©teres",
+        "A szigeteken nincs Ã¡llandÃ³ lakossÃ¡g"
+    ],
+    "ro": [
+        "Parcul naÈ›ional include 89 de insule",
+        "SuprafaÈ›a totalÄƒ este de circa 220 kmÂ²",
+        "Cea mai Ã®naltÄƒ falezÄƒ are 82 de metri",
+        "Insulele nu au populaÈ›ie permanentÄƒ"
+    ],
+    "en": [
+        "National Park includes 89 islands",
+        "Total area of approximately 220 sq km",
+        "Highest cliff reaches 82 meters high",
+        "No permanent settlements on the islands"
+    ]
+    }
     , image: "/poi-images/croatia-kornati-islands-nature-v2.webp",
 },  {
     id: "croatia-brijuni-islands-nature-v2",
@@ -91,17 +133,38 @@ imageHint: "Kornati islands aerial view",
     },
 imageHint: "Brijuni islands landscape and sea",
     descriptionAdvanced: {
-      de: "Die Brijuni-Inseln sind ein Archipel aus 14 Inseln vor der Küste Istriens, in der Nähe von Pula. Sie wurden 1983 zum Nationalpark erklärt und sind berühmt für ihre Kombination aus natürlicher Schönheit und reichem kulturellem Erbe. Auf der größten Insel, Veliki Brijun, befinden sich bedeutende archäologische Stätten, darunter eine römische Villa in der Verige-Bucht und ein byzantinisches Castrum. Bekanntheit erlangte der Archipel vor allem als offizielle Sommerresidenz des ehemaligen jugoslawischen Präsidenten Josip Broz Tito, der hier Staatsgäste aus aller Welt empfing. Ein besonderes Merkmal ist der Safari-Park, in dem exotische Tiere wie Zebras und indische Elefanten leben, die Tito als Geschenke erhielt. Die Inseln beherbergen zudem über 200 Fußabdrücke von Dinosauriern aus der Kreidezeit, was sie zu einem wichtigen Ort für die Paläontologie macht. Die Vegetation ist geprägt von mediterraner Macchia und sorgfältig angelegten Parks mit Pinien und Olivenbäumen. Die Brijuni-Inseln dienen heute als exklusives Touristenziel und wichtiges Zentrum für Naturschutz und Forschung.",
-      hu: "A Brijuni-szigetek egy 14 szigetből álló csoport Isztria partjainál, Pula közelében. 1983-ban nyilvánították nemzeti parkká, és híresek a természeti szépség és a gazdag kulturális örökség ötvözetéről. A legnagyobb szigeten, Veliki Brijunon jelentős régészeti lelőhelyek találhatók, köztük egy római villa a Verige-öbölben és egy bizánci castrum. A szigetcsoport főként Josip Broz Tito volt jugoszláv elnök nyári rezidenciájaként vált ismertté, aki itt fogadta a világ minden tájáról érkező állami vezetőket. Különlegessége a szafaripark, ahol olyan egzotikus állatok élnek, mint a zebrák és az indiai elefántok, amelyeket Tito ajándékként kapott. A szigeteken emellett több mint 200 dinoszaurusz-lábnyom található a kréta korból, ami fontos paleontológiai lelőhellyé teszi őket. A növényzetet mediterrán makchia és gondosan kialakított parkok jellemzik fenyőkkel és olajfákkal. A Brijuni-szigetek ma exkluzív turisztikai célpontként és fontos természetvédelmi kutatóközpontként működnek.",
-      ro: "Insulele Brijuni reprezintă un arhipelag format din 14 insule situat în largul coastei Istriei, lângă Pula. Acestea au fost declarate parc național în anul 1983 și sunt renumite pentru combinația dintre frumusețea naturală și patrimoniul cultural bogat. Pe cea mai mare insulă, Veliki Brijun, se află situri arheologice importante, inclusiv o vilă romană în golful Verige și un castru bizantin. Arhipelagul a devenit cunoscut în special ca reședință oficială de vară a fostului președinte iugoslav Josip Broz Tito, care a primit aici oaspeți de stat din întreaga lume. O trăsătură distinctivă este parcul safari, unde trăiesc animale exotice precum zebre și elefanți indieni, primite de Tito sub formă de cadouri. Insulele găzduiesc, de asemenea, peste 200 de amprente de dinozauri din perioada cretacică, fiind un loc crucial pentru paleontologie. Vegetația este caracterizată de macchia mediteraneană și parcuri atent amenajate cu pini și măslini. Astăzi, Brijuni servesc ca destinație turistică exclusivistă și centru important pentru conservarea naturii și cercetare.",
-      en: "The Brijuni Islands are an archipelago of 14 islands located off the Istrian coast near Pula. Established as a national park in 1983, they are famous for blending natural beauty with a rich cultural heritage. On the largest island, Veliki Brijun, significant archaeological sites can be found, including a Roman villa in Verige Bay and a Byzantine castrum. The archipelago gained international fame as the official summer residence of the former Yugoslav President Josip Broz Tito, who hosted world leaders here. A unique feature is the Safari Park, home to exotic animals such as zebras and Indian elephants, which were presented to Tito as gifts. Furthermore, the islands host over 200 dinosaur footprints from the Cretaceous period, making them an important site for paleontology. The vegetation is defined by Mediterranean macchia and meticulously planned parks filled with pines and olive trees. Today, the Brijuni Islands serve as an exclusive tourist destination and a vital center for nature conservation and scientific research.",
+    
+    "de": "Die Brijuni-Inseln vor der KÃ¼ste Istriens vereinen unberÃ¼hrte Natur mit historischem Erbe und dienten einst als prestigetrÃ¤chtige Sommerresidenz.",
+    "hu": "Az Isztria partjainÃ¡l fekvÅ‘ Brijuni-szigetek az Ã©rintetlen termÃ©szet Ã©s a tÃ¶rtÃ©nelmi Ã¶rÃ¶ksÃ©g elegye, amely egykor hÃ­res nyÃ¡ri rezidenciakÃ©nt szolgÃ¡lt.",
+    "ro": "Insulele Brijuni de pe coasta Istriei Ã®mbinÄƒ natura virginÄƒ cu moÈ™tenirea istoricÄƒ, servind odinioarÄƒ ca reÈ™edinÈ›Äƒ de varÄƒ prestigioasÄƒ.",
+    "en": "The Brijuni Islands off the Istrian coast combine pristine nature with historical heritage, having served as a prestigious summer residence."
     },
     factsAdvanced: {
-      de: ["Nationalpark seit 1983 geschützt.", "Besteht aus 14 einzelnen Inseln.", "Fundort von über 200 Dinosaurier-Fußabdrücken.", "Ältester Olivenbaum der Insel ist über 1600 Jahre alt.", "Veliki Brijun umfasst eine Fläche von 561 Hektar.", "Byzantinisches Castrum stammt aus dem 2. Jahrhundert v. Chr."],
-      hu: ["1983 óta nemzeti park.", "14 különálló szigetből áll.", "Több mint 200 dinoszaurusz-lábnyom lelőhelye.", "A sziget legidősebb olajfája több mint 1600 éves.", "Veliki Brijun területe 561 hektár.", "A bizánci castrum az i.e. 2. századból származik."],
-      ro: ["Declarat parc național în anul 1983.", "Format din 14 insule individuale.", "Situl a peste 200 de amprente de dinozaur.", "Cel mai bătrân măslin de pe insulă are peste 1600 de ani.", "Veliki Brijun are o suprafață de 561 de hectare.", "Castrul bizantin datează din secolul al II-lea î.Hr."],
-      en: ["National park status since 1983.", "Consists of 14 individual islands.", "Site of over 200 dinosaur footprints.", "The oldest olive tree on the island is over 1600 years old.", "Veliki Brijun covers an area of 561 hectares.", "The Byzantine castrum dates back to the 2nd century BC."],
-    },
+    "de": [
+        "Archipel besteht aus 14 Inseln",
+        "Nationalpark seit dem Jahr 1983",
+        "Safari-Park mit exotischen Tieren",
+        "Ãœber 200 FuÃŸabdrÃ¼cke von Dinosauriern"
+    ],
+    "hu": [
+        "A szigetcsoport 14 szigetbÅ‘l Ã¡ll",
+        "1983 Ã³ta minÅ‘sÃ¼l nemzeti parknak",
+        "Szafari park egzotikus Ã¡llatokkal",
+        "TÃ¶bb mint 200 dinoszaurusz lÃ¡bnyom"
+    ],
+    "ro": [
+        "Arhipelagul este format din 14 insule",
+        "Parc NaÈ›ional Ã®ncepÃ¢nd cu anul 1983",
+        "Parc safari cu animale exotice",
+        "Peste 200 de urme de dinozauri"
+    ],
+    "en": [
+        "Archipelago consists of 14 islands",
+        "National Park status since 1983",
+        "Safari park with exotic animals",
+        "Over 200 dinosaur footprints found"
+    ]
+    }
     , image: "/poi-images/croatia-brijuni-islands-nature-v2.webp",
 },  {
     id: "croatia-north-velebit-park-nature-v2",
@@ -125,17 +188,38 @@ imageHint: "Brijuni islands landscape and sea",
     },
 imageHint: "North Velebit rocky peaks",
     descriptionAdvanced: {
-      de: "Der Nationalpark Nord-Velebit wurde 1999 gegründet und ist der jüngste Nationalpark Kroatiens. Er umfasst den nördlichen Teil des Velebit-Gebirges, des größten Gebirgszuges des Landes, und gehört zum UNESCO-Biosphärenreservat. Der Park ist bekannt für seine außergewöhnliche Vielfalt an Karstphänomenen, darunter tiefe Höhlen, zerklüftete Felsen und weite Grate. Eines der herausragendsten Merkmale ist der Premužić-Weg, ein 57 km langer Wanderweg, der in den 1930er Jahren ohne den Einsatz von Mörtel oder schweren Maschinen angelegt wurde. In diesem Gebiet befindet sich auch die Lukina-Höhle, eine der tiefsten Höhlen der Welt mit einer Tiefe von über 1.400 Metern. Die Flora des Parks ist besonders artenreich und umfasst zahlreiche endemische Arten wie die Velebit-Degenia. Ein weiteres Highlight ist der Velebit-Botanische Garten, der sich in der Nähe der Zavižan-Hütte befindet. Aufgrund seiner isolierten Lage und der extremen klimatischen Bedingungen bietet der Park einen unberührten Lebensraum für Großraubtiere wie Bären, Wölfe und Luchse.",
-      hu: "Az Északi-Velebit Nemzeti Parkot 1999-ben alapították, ezzel Horvátország legfiatalabb nemzeti parkja. Az ország legnagyobb hegységének, a Velebitnek az északi részét foglalja el, és az UNESCO bioszféra-rezervátumának része. A park a karsztjelenségek rendkívüli változatosságáról ismert, beleértve a mély barlangokat, csipkés sziklákat és tágas gerinceket. Egyik legkiemelkedőbb látványossága a Premužić-út, egy 57 km hosszú túraútvonal, amelyet az 1930-as években építettek malter vagy nehézgépek használata nélkül. Ezen a területen található a Lukina-barlang is, amely a világ egyik legmélyebb barlangja, mélysége meghaladja az 1400 métert. A park flórája különösen gazdag, számos endemikus fajt tartalmaz, mint például a velebiti degenia. További látnivaló a Velebit Botanikus Kert, amely a Zavižan menedékház közelében található. Elszigetelt fekvésének és extrém éghajlati viszonyainak köszönhetően a park érintetlen élőhelyet biztosít a nagy ragadozók, például medvék, farkasok és hiúzok számára.",
-      ro: "Parcul Național Velebitul de Nord a fost înființat în anul 1999, fiind cel mai tânăr parc național din Croația. Acesta cuprinde partea de nord a masivului Velebit, cel mai mare lanț muntos din țară, și face parte din Rezervația Biosferei UNESCO. Parcul este renumit pentru diversitatea excepțională a fenomenelor carstice, inclusiv peșteri adânci, stânci zimțate și creste vaste. Una dintre cele mai remarcabile caracteristici este poteca Premužić, un traseu de drumeție de 57 km construit în anii 1930 fără utilizarea mortarului sau a utilajelor grele. În această zonă se află și peștera Lukina jama, una dintre cele mai adânci din lume, cu o adâncime de peste 1.400 de metri. Flora parcului este deosebit de bogată și include numeroase specii endemice, precum degenia de Velebit. Un alt punct de interes este Grădina Botanică Velebit, situată lângă cabana Zavižan. Datorită locației sale izolate și condițiilor climatice extreme, parcul oferă un habitat intact pentru carnivorele mari, cum ar fi urșii, lupii și râșii.",
-      en: "North Velebit National Park was established in 1999, making it the youngest national park in Croatia. It covers the northern section of the Velebit mountains, the country's largest range, and is part of a UNESCO Biosphere Reserve. The park is renowned for its extraordinary diversity of karst phenomena, including deep caves, jagged rocks, and expansive ridges. One of its most outstanding features is the Premužić Trail, a 57 km long hiking path constructed in the 1930s without the use of mortar or heavy machinery. This area also contains Lukina jama, one of the deepest caves in the world, plummeting to over 1,400 meters. The park's flora is exceptionally rich, featuring numerous endemic species such as the Velebit degenia. Another highlight is the Velebit Botanical Garden, located near the Zavižan mountain hut. Due to its isolated location and extreme climatic conditions, the park provides a pristine habitat for large predators like bears, wolves, and lynxes.",
+    
+    "de": "Der Nationalpark Nord-Velebit schÃ¼tzt eine markante Karstlandschaft mit tiefen HÃ¶hlen, schroffen Felsen und einer auÃŸergewÃ¶hnlichen botanischen Vielfalt.",
+    "hu": "Az Ã‰szak-Velebit Nemzeti Park egy lÃ¡tvÃ¡nyos karsztvidÃ©ket Ã³v, mÃ©ly barlangokkal, csipkÃ©s sziklÃ¡kkal Ã©s rendkÃ­vÃ¼li botanikai sokszÃ­nÅ±sÃ©ggel.",
+    "ro": "Parcul NaÈ›ional Velebitul de Nord protejeazÄƒ un peisaj carstic remarcabil, cu peÈ™teri adÃ¢nci, stÃ¢nci abrupte È™i o diversitate botanicÄƒ rarÄƒ.",
+    "en": "Northern Velebit National Park protects a striking karst landscape featuring deep caves, rugged peaks, and exceptional botanical diversity."
     },
     factsAdvanced: {
-      de: ["Gegründet im Jahr 1999.", "Gesamtfläche von 109 Quadratkilometern.", "Lukina-Höhle ist 1.431 Meter tief.", "Premužić-Weg ist 57 Kilometer lang.", "Höchster Punkt im Park ist Veliki Zavižan (1.676 m).", "Wetterstation Zavižan ist die höchste in Kroatien."],
-      hu: ["1999-ben alapították.", "Teljes területe 109 négyzetkilométer.", "A Lukina-barlang 1431 méter mély.", "A Premužić-út hossza 57 kilométer.", "A park legmagasabb pontja a Veliki Zavižan (1676 m).", "A zavižani meteorológiai állomás a legmagasabb Horvátországban."],
-      ro: ["Fondat în anul 1999.", "Suprafață totală de 109 kilometri pătrați.", "Peștera Lukina jama are 1.431 metri adâncime.", "Poteca Premužić are o lungime de 57 de kilometri.", "Cel mai înalt punct din parc este Veliki Zavižan (1.676 m).", "Stația meteorologică Zavižan este cea mai înaltă din Croația."],
-      en: ["Founded in the year 1999.", "Total area of 109 square kilometers.", "Lukina jama cave is 1,431 meters deep.", "The Premužić Trail is 57 kilometers long.", "The highest point in the park is Veliki Zavižan (1,676 m).", "Zavižan weather station is the highest in Croatia."],
-    },
+    "de": [
+        "GrÃ¼ndung des Nationalparks 1999",
+        "FlÃ¤che umfasst 109 Quadratkilometer",
+        "Luka's HÃ¶hle ist 1431 Meter tief",
+        "ZaviÅ¾an-HÃ¼tte ist hÃ¶chstes Wetteramt"
+    ],
+    "hu": [
+        "A nemzeti parkot 1999-ben alapÃ­tottÃ¡k",
+        "TerÃ¼lete 109 nÃ©gyzetkilomÃ©ter",
+        "Luka-barlang mÃ©lysÃ©ge 1431 mÃ©ter",
+        "ZaviÅ¾an a legmagasabb meteorolÃ³giai Ã¡llomÃ¡s"
+    ],
+    "ro": [
+        "Fondarea parcului Ã®n anul 1999",
+        "SuprafaÈ›a este de 109 kilometri pÄƒtraÈ›i",
+        "PeÈ™tera lui Luka are 1431 metri adÃ¢ncime",
+        "Refugiul ZaviÅ¾an e cea mai Ã®naltÄƒ staÈ›ie meteo"
+    ],
+    "en": [
+        "National Park established in 1999",
+        "Covers an area of 109 square kilometers",
+        "Luka's Cave is 1,431 meters deep",
+        "ZaviÅ¾an station is highest weather office"
+    ]
+    }
     , image: "/poi-images/croatia-north-velebit-park-nature-v2.webp",
 },  {
     id: "croatia-kopacki-rit-nature-v2",
@@ -159,17 +243,38 @@ imageHint: "North Velebit rocky peaks",
     },
 imageHint: "Kopacki Rit wetland birds",
     descriptionAdvanced: {
-      de: "Der Naturpark Kopački Rit liegt im Osten Kroatiens, an der Mündung der Drau in die Donau, und ist eines der bedeutendsten Sumpfgebiete Europas. Das Gebiet wurde 1976 unter Schutz gestellt und umfasst ein riesiges Binnendelta, dessen Aussehen sich je nach Wasserstand der Flüsse ständig verändert. Es ist ein wichtiges Brutgebiet für über 260 Vogelarten, darunter der seltene Seeadler und der Schwarzstorch. Die jährlichen Überschwemmungen schaffen einen dynamischen Lebensraum für zahlreiche Fischarten, die das Gebiet als Laichplatz nutzen. Kopački Rit ist seit 1993 als Ramsar-Gebiet von internationaler Bedeutung anerkannt. Die Vegetation wird von Weiden- und Pappelwäldern sowie ausgedehnten Schilfgürteln dominiert. Besucher können den Park über Holzstege oder bei geführten Bootstouren erkunden, um die reiche Fauna aus nächster Nähe zu beobachten. Der Park spielt eine zentrale Rolle für den Hochwasserschutz in der Region und ist ein herausragendes Beispiel für ein intaktes Fluss-Auen-System in Mitteleuropa.",
-      hu: "A Kopački Rit Természetvédelmi Park Horvátország keleti részén, a Dráva és a Duna összefolyásánál található, és Európa egyik legjelentősebb mocsárvidéke. A területet 1976-ban helyezték védelem alá, és egy hatalmas belső deltát foglal magában, amelynek arculata a folyók vízállásától függően folyamatosan változik. Több mint 260 madárfaj fontos fészkelőhelye, köztük a ritka rétisasé és a fekete gólyáé. Az évenkénti áradások dinamikus élőhelyet teremtenek számos halfaj számára, amelyek ívóhelyként használják a területet. A Kopački Rit 1993 óta nemzetközi jelentőségű Ramsari területként elismert. A növényzetet fűz- és nyárerdők, valamint kiterjedt nádasok dominálják. A látogatók fapallókon vagy vezetett hajótúrákon fedezhetik fel a parkot, közelről megfigyelve a gazdag faunát. A park központi szerepet játszik a régió árvízvédelmében, és a közép-európai folyami ártéri rendszerek egyik kiemelkedő példája.",
-      ro: "Parcul Natural Kopački Rit este situat în estul Croației, la confluența râului Drava cu Dunărea, fiind una dintre cele mai importante zone mlaștinoase din Europa. Zona a fost declarată protejată în anul 1976 și cuprinde o vastă deltă interioară, al cărei aspect se schimbă constant în funcție de nivelul apei râurilor. Este un loc crucial de cuibărit pentru peste 260 de specii de păsări, inclusiv vulturul codalb și barza neagră. Inundațiile anuale creează un habitat dinamic pentru numeroase specii de pești care folosesc zona ca loc de depunere a icrelor. Kopački Rit este recunoscut din 1993 ca sit Ramsar de importanță internațională. Vegetația este dominată de păduri de sălcii și plopi, precum și de stufărișuri întinse. Vizitatorii pot explora parcul pe pasarele de lemn sau în cadrul unor tururi ghidate cu barca pentru a observa fauna bogată. Parcul joacă un rol central în protecția împotriva inundațiilor și reprezintă un exemplu remarcabil de sistem fluvial intact în Europa Centrală.",
-      en: "Kopački Rit Nature Park is located in eastern Croatia, at the confluence of the Drava and Danube rivers, making it one of Europe's most significant wetlands. Established in 1976, it comprises a vast inland delta whose appearance constantly shifts depending on river water levels. It is a critical breeding ground for over 260 bird species, including the rare white-tailed eagle and black stork. Annual flooding creates a dynamic habitat for numerous fish species that utilize the area as a spawning ground. Since 1993, Kopački Rit has been recognized as a Ramsar site of international importance. The vegetation is dominated by willow and poplar forests, as well as extensive reed beds. Visitors can explore the park via wooden boardwalks or guided boat tours to observe the rich fauna up close. The park plays a pivotal role in regional flood protection and stands as an outstanding example of an intact river-floodplain system in Central Europe.",
+    
+    "de": "KopaÄki Rit ist eines der bedeutendsten Sumpfgebiete Europas und dient als wichtiger Lebensraum fÃ¼r zahlreiche seltene Vogelarten an der Donau.",
+    "hu": "A KopaÄki Rit EurÃ³pa egyik legjelentÅ‘sebb mocsÃ¡rvidÃ©ke, amely szÃ¡mos ritka madÃ¡rfaj fontos Ã©lÅ‘helyekÃ©nt szolgÃ¡l a Duna Ã©s DrÃ¡va talÃ¡lkozÃ¡sÃ¡nÃ¡l.",
+    "ro": "KopaÄki Rit este una dintre cele mai importante zone umede din Europa, servind ca habitat crucial pentru numeroase specii de pÄƒsÄƒri la DunÄƒre.",
+    "en": "KopaÄki Rit is one of Europe's most significant wetlands, serving as a vital habitat for numerous rare bird species at the Danube confluence."
     },
     factsAdvanced: {
-      de: ["Naturpark seit 1976 geschützt.", "Gesamtfläche von ca. 177 Quadratkilometern.", "Beherbergt über 260 verschiedene Vogelarten.", "Seit 1993 als Ramsar-Gebiet gelistet.", "Über 40 Fischarten leben in den Gewässern.", "Eines der größten natürlichen Laichgebiete an der Donau."],
-      hu: ["1976 óta természetvédelmi park.", "Teljes területe körülbelül 177 négyzetkilométer.", "Több mint 260 különböző madárfajnak ad otthont.", "1993 óta Ramsari területként jegyzik.", "Több mint 40 halfaj él a vizeiben.", "A Duna egyik legnagyobb természetes ívóhelye."],
-      ro: ["Protejat ca parc natural din 1976.", "Suprafață totală de aproximativ 177 kilometri pătrați.", "Adăpostește peste 260 de specii diferite de păsări.", "Listat ca sit Ramsar din anul 1993.", "Peste 40 de specii de pești trăiesc în apele sale.", "Una dintre cele mai mari zone naturale de depunere a icrelor de pe Dunăre."],
-      en: ["Nature park status since 1976.", "Total area of approximately 177 square kilometers.", "Home to over 260 different bird species.", "Listed as a Ramsar site since 1993.", "Over 40 fish species inhabit the waters.", "One of the largest natural fish spawning grounds on the Danube."],
-    },
+    "de": [
+        "GrÃ¶ÃŸtes Binnendelta der Donau",
+        "Ãœber 290 verschiedene Vogelarten",
+        "FlÃ¤che betrÃ¤gt ca. 177 kmÂ²",
+        "Ramsar-Gebiet seit dem Jahr 1993"
+    ],
+    "hu": [
+        "A Duna legnagyobb belsÅ‘ deltÃ¡ja",
+        "TÃ¶bb mint 290 kÃ¼lÃ¶nbÃ¶zÅ‘ madÃ¡rfaj",
+        "TerÃ¼lete kÃ¶rÃ¼lbelÃ¼l 177 kmÂ²",
+        "1993 Ã³ta Ramsari egyezmÃ©nyes terÃ¼let"
+    ],
+    "ro": [
+        "Cea mai mare deltÄƒ interioarÄƒ a DunÄƒrii",
+        "Peste 290 de specii diferite de pÄƒsÄƒri",
+        "SuprafaÈ›a este de aproximativ 177 kmÂ²",
+        "Sit Ramsar din anul 1993"
+    ],
+    "en": [
+        "Largest inland delta of the Danube",
+        "Over 290 different species of birds",
+        "Covers approximately 177 sq km",
+        "Ramsar site status since 1993"
+    ]
+    }
     , image: "/poi-images/croatia-kopacki-rit-nature-v2.webp",
 },  {
     id: "croatia-lonjsko-polje-nature-v2",
@@ -193,17 +298,38 @@ imageHint: "Kopacki Rit wetland birds",
     },
 imageHint: "Lonjsko Polje wooden houses and storks",
     descriptionAdvanced: {
-      de: "Der Naturpark Lonjsko Polje erstreckt sich entlang des Flusses Sava südöstlich von Zagreb und ist mit einer Fläche von über 500 Quadratkilometern eines der größten geschützten Feuchtgebiete im Donauraum. Das Gebiet wurde 1990 zum Naturpark erklärt und ist für sein einzigartiges System von Rückhaltebecken bekannt, die das überschüssige Wasser der Sava aufnehmen. Diese dynamische Hydrologie prägt die Landschaft aus Eichenwäldern, feuchten Wiesen und Weiden. Lonjsko Polje ist berühmt für seine traditionelle Holzarchitektur, insbesondere im Dorf Čigoč, das zum ersten europäischen Storchendorf ernannt wurde. Jährlich brüten hier zahlreiche Weißstörche auf den Dächern der alten Holzhäuser. Der Park beherbergt auch seltene Haustierrassen wie das Posavina-Pferd und das Turopolje-Schwein, die an das Leben in den Überschwemmungsgebieten angepasst sind. Die Region ist zudem ein wichtiger Rastplatz für Zugvögel und ein Lebensraum für den seltenen Löffler. Die Erhaltung der traditionellen Weidewirtschaft ist entscheidend für das ökologische Gleichgewicht des Parks.",
-      hu: "A Lonjsko Polje Természetvédelmi Park a Száva folyó mentén, Zágrábtól délkeletre terül el, és több mint 500 négyzetkilométeres területével a Dunamente egyik legnagyobb védett vizes élőhelye. A területet 1990-ben nyilvánították természetvédelmi parkká, és egyedülálló vízvisszatartó rendszeréről ismert, amely befogadja a Száva többletvizét. Ez a dinamikus hidrológia alakítja a tölgyerdőkből, nedves rétekből és legelőkből álló tájat. Lonjsko Polje híres hagyományos faépítészetéről, különösen Čigoč falujáról, amelyet az első Európai Gólyafalunak választottak. Évente számos fehér gólya fészkel a régi faházak tetején. A park olyan ritka háziállatfajtáknak is otthont ad, mint a posavinai ló és a turopoljei sertés, amelyek alkalmazkodtak az ártéri életmódhoz. A régió emellett a költöző madarak fontos pihenőhelye és a ritka kanalasgém élőhelye. A hagyományos legeltetéses gazdálkodás fenntartása kulcsfontosságú a park ökológiai egyensúlya szempontjából.",
-      ro: "Parcul Natural Lonjsko Polje se întinde de-a lungul râului Sava, la sud-est de Zagreb, și este, cu o suprafață de peste 500 de kilometri pătrați, una dintre cele mai mari zone umede protejate din bazinul Dunării. Zona a fost declarată parc natural în anul 1990 și este cunoscută pentru sistemul său unic de bazine de retenție care preiau surplusul de apă al Savei. Această hidrologie dinamică modelează peisajul format din păduri de stejar, pajiști umede și pășuni. Lonjsko Polje este faimos pentru arhitectura sa tradițională din lemn, în special în satul Čigoč, desemnat primul Sat European al Berzelor. Anual, numeroase berze albe cuibăresc pe acoperișurile vechilor case din lemn. Parcul găzduiește, de asemenea, rase rare de animale domestice, precum calul de Posavina și porcul de Turopolje, adaptate la viața în zonele inundabile. Regiunea este un loc de popas important pentru păsările migratoare și un habitat pentru rara lopătară. Menținerea pășunatului tradițional este esențială pentru echilibrul ecologic al parcului.",
-      en: "Lonjsko Polje Nature Park stretches along the Sava River southeast of Zagreb and, with an area of over 500 square kilometers, is one of the largest protected wetlands in the Danube basin. Established in 1990, the park is renowned for its unique retention system that absorbs the Sava's excess floodwaters. This dynamic hydrology shapes a landscape of oak forests, wet meadows, and pastures. Lonjsko Polje is famous for its traditional wooden architecture, particularly in the village of Čigoč, which was named the first European Stork Village. Each year, numerous white storks nest on the roofs of the old wooden houses. The park also hosts rare domestic animal breeds like the Posavina horse and the Turopolje pig, which are adapted to life in the floodplains. Additionally, the region is a critical stopover for migratory birds and a habitat for the rare Eurasian spoonbill. Preserving traditional grazing practices is vital for maintaining the park's ecological balance.",
+    
+    "de": "Das Naturpark Lonjsko Polje ist eines der grÃ¶ÃŸten erhaltenen Ãœberschwemmungsgebiete Europas und bekannt fÃ¼r seine traditionellen HolzhÃ¤user.",
+    "hu": "A Lonjsko Polje TermÃ©szetvÃ©delmi Park EurÃ³pa egyik legnagyobb megmaradt Ã¡rtere, amely hagyomÃ¡nyos fahÃ¡zairÃ³l Ã©s gazdag madÃ¡rvilÃ¡gÃ¡rÃ³l ismert.",
+    "ro": "Parcul Natural Lonjsko Polje este una dintre cele mai mari zone inundabile conservate din Europa, celebrÄƒ pentru casele sale tradiÈ›ionale din lemn.",
+    "en": "Lonjsko Polje Nature Park is one of Europe's largest preserved floodplains, famous for its traditional wooden houses and diverse birdlife."
     },
     factsAdvanced: {
-      de: ["Gegründet als Naturpark im Jahr 1990.", "Gesamtfläche beträgt ca. 506 Quadratkilometer.", "Dorf Čigoč wurde 1994 zum Storchendorf ernannt.", "Enthält das größte zusammenhängende Eichenwaldgebiet Europas.", "Lebensraum für über 250 Vogelarten.", "Aufgenommen in die Tentativliste des UNESCO-Welterbes."],
-      hu: ["1990-ben alapították természetvédelmi parkként.", "Teljes területe körülbelül 506 négyzetkilométer.", "Čigoč falut 1994-ben választották gólyafalunak.", "Itt található Európa legnagyobb összefüggő tölgyerdője.", "Több mint 250 madárfaj élőhelye.", "Szerepel az UNESCO Világörökség várományosi listáján."],
-      ro: ["Înființat ca parc natural în anul 1990.", "Suprafața totală este de aproximativ 506 kilometri pătrați.", "Satul Čigoč a fost numit Satul Berzelor în 1994.", "Conține cea mai mare suprafață compactă de pădure de stejar din Europa.", "Habitat pentru peste 250 de specii de păsări.", "Inclus pe lista indicativă a Patrimoniului Mondial UNESCO."],
-      en: ["Established as a nature park in 1990.", "Total area is approximately 506 square kilometers.", "The village of Čigoč was named a Stork Village in 1994.", "Contains Europe's largest contiguous oak forest area.", "Habitat for over 250 bird species.", "Included on the UNESCO World Heritage tentative list."],
-    },
+    "de": [
+        "FlÃ¤che von etwa 506 Quadratkilometern",
+        "Bekannt fÃ¼r das Storchendorf ÄŒigoÄ",
+        "Zahlreiche geschÃ¼tzte Tierarten",
+        "UNESCO-Tentativliste seit 2005"
+    ],
+    "hu": [
+        "TerÃ¼lete kb. 506 nÃ©gyzetkilomÃ©ter",
+        "ÄŒigoÄ, az eurÃ³pai gÃ³lyafalu helyszÃ­ne",
+        "SzÃ¡mos vÃ©dett Ã¡llatfaj otthona",
+        "2005 Ã³ta az UNESCO vÃ¡romÃ¡nyosi listÃ¡jÃ¡n"
+    ],
+    "ro": [
+        "SuprafaÈ›Äƒ de circa 506 kilometri pÄƒtraÈ›i",
+        "Cunoscut pentru satul berzelor ÄŒigoÄ",
+        "Numeroase specii de animale protejate",
+        "Pe lista tentativÄƒ UNESCO din 2005"
+    ],
+    "en": [
+        "Area of about 506 square kilometers",
+        "Home to the stork village of ÄŒigoÄ",
+        "Numerous protected animal species",
+        "On UNESCO tentative list since 2005"
+    ]
+    }
     , image: "/poi-images/croatia-lonjsko-polje-nature-v2.webp",
 },  {
     id: "croatia-medvednica-mountain-nature-v2",
@@ -227,17 +353,38 @@ imageHint: "Lonjsko Polje wooden houses and storks",
     },
 imageHint: "Medvednica mountain forest",
     descriptionAdvanced: {
-      de: "Medvednica ist ein Gebirgszug unmittelbar nördlich der kroatischen Hauptstadt Zagreb und wurde 1981 zum Naturpark erklärt. Der höchste Gipfel, Sljeme, liegt auf 1.033 Metern und ist ein beliebtes Ziel für Wanderer und Wintersportler. Eine der bedeutendsten historischen Sehenswürdigkeiten ist die Festung Medvedgrad aus dem 13. Jahrhundert, die zum Schutz vor mongolischen Angriffen errichtet wurde und heute den Altar des Vaterlandes beherbergt. Unterhalb der Oberfläche befindet sich die Veternica-Höhle, die eine der größten Höhlen Kroatiens ist und wichtige archäologische Funde aus der Steinzeit sowie Überreste von Höhlenbären enthält. Die Vegetation wird von dichten Buchen- und Tannenwäldern dominiert, die das Stadtklima von Zagreb positiv beeinflussen. Medvednica beherbergt zudem das Skizentrum, auf dem jährlich Weltcup-Slalomrennen ausgetragen werden. Geologisch gesehen ist das Gebirge sehr vielfältig und besteht aus Sediment- und magmatischen Gesteinen. Der Park bietet zahlreiche Lehrpfade und dient als wichtiges Naherholungsgebiet für die Metropolregion.",
-      hu: "A Medvednica egy hegység közvetlenül a horvát főváros, Zágráb északi részén, amelyet 1981-ben nyilvánítottak természetvédelmi parkká. Legmagasabb csúcsa, a Sljeme 1033 méter magasan fekszik, és a túrázók, valamint a téli sportok kedvelőinek népszerű célpontja. Egyik legjelentősebb történelmi látnivalója a 13. századi Medvedgrad vára, amelyet a mongol támadások elleni védekezésül építettek, és ma a Haza Oltárának ad otthont. A felszín alatt található a Veternica-barlang, amely Horvátország egyik legnagyobb barlangja, és fontos kőkorszaki régészeti leleteket, valamint barlangi medve maradványokat tartalmaz. A növényzetet sűrű bükk- és fenyőerdők dominálják, amelyek pozitívan befolyásolják Zágráb városi klímáját. A Medvednica ad otthont annak a síközpontnak is, ahol évente világkupa műlesikló versenyeket rendeznek. Földtanilag a hegység nagyon változatos, üledékes és magmás kőzetekből áll. A park számos tanösvényt kínál, és a fővárosi régió fontos pihenőövezeteként szolgál.",
-      ro: "Medvednica este un lanț muntos situat imediat la nord de capitala croată Zagreb, declarat parc natural în anul 1981. Cel mai înalt vârf, Sljeme, are o altitudine de 1.033 de metri și este o destinație populară pentru drumeții și sporturi de iarnă. Una dintre cele mai importante atracții istorice este fortăreața Medvedgrad, construită în secolul al XIII-lea pentru protecția împotriva atacurilor mongole, care găzduiește astăzi Altarul Patriei. Sub suprafață se află peștera Veternica, una dintre cele mai mari din Croația, care conține descoperiri arheologice importante din epoca pietrei și rămășițe de urși de peșteră. Vegetația este dominată de păduri dense de fag și brad, care influențează pozitiv clima orașului Zagreb. Medvednica găzduiește, de asemenea, centrul de schi unde se organizează anual curse de slalom din cadrul Cupei Mondiale. Din punct de vedere geologic, muntele este foarte divers, fiind format din roci sedimentare și magmatice. Parcul oferă numeroase trasee educaționale și servește ca zonă de recreere vitală pentru regiunea metropolitană.",
-      en: "Medvednica is a mountain range located immediately north of the Croatian capital, Zagreb, and was designated a nature park in 1981. Its highest peak, Sljeme, stands at 1,033 meters and is a popular destination for hikers and winter sports enthusiasts. One of the most significant historical landmarks is the 13th-century Medvedgrad fortress, built to protect against Mongol invasions and now home to the Altar of the Homeland. Beneath the surface lies the Veternica cave, one of Croatia's largest, containing important Stone Age archaeological finds and remains of cave bears. The vegetation is dominated by dense beech and fir forests that positively influence Zagreb's urban climate. Medvednica also hosts the ski center that annually holds World Cup slalom races. Geologically, the mountain is highly diverse, composed of both sedimentary and igneous rocks. The park offers numerous educational trails and serves as a vital recreational area for the metropolitan region.",
+    
+    "de": "Die Medvednica ist das Hausgebirge von Zagreb und bietet dichte WÃ¤lder, historische Festungen sowie beliebte WintersportmÃ¶glichkeiten direkt vor der Stadt.",
+    "hu": "A Medvednica ZÃ¡grÃ¡b hÃ¡zhegye, amely sÅ±rÅ± erdÅ‘ket, tÃ¶rtÃ©nelmi erÅ‘dÃ¶ket Ã©s nÃ©pszerÅ± tÃ©li sportolÃ¡si lehetÅ‘sÃ©geket kÃ­nÃ¡l kÃ¶zvetlenÃ¼l a vÃ¡ros mellett.",
+    "ro": "Medvednica este muntele de lÃ¢ngÄƒ Zagreb, oferind pÄƒduri dese, cetÄƒÈ›i istorice È™i facilitÄƒÈ›i populare pentru sporturi de iarnÄƒ lÃ¢ngÄƒ oraÈ™.",
+    "en": "Medvednica is the mountain massif overlooking Zagreb, offering dense forests, historic fortresses, and popular winter sports facilities."
     },
     factsAdvanced: {
-      de: ["Seit 1981 als Naturpark geschützt.", "Höchster Punkt ist der Sljeme mit 1.033 Metern.", "Medvedgrad wurde im Jahr 1254 erbaut.", "Veternica-Höhle beherbergt 18 Fledermausarten.", "Skizentrum ist Austragungsort der Snow Queen Trophy.", "Gesamtfläche des Parks beträgt ca. 179 Quadratkilometer."],
-      hu: ["1981 óta természetvédelmi park.", "Legmagasabb pontja a Sljeme, 1033 méter.", "Medvedgrad vára 1254-ben épült.", "A Veternica-barlang 18 denevérfajnak ad otthont.", "A síközpont a Hókirálynő Trófea helyszíne.", "A park teljes területe körülbelül 179 négyzetkilométer."],
-      ro: ["Protejat ca parc natural din anul 1981.", "Cel mai înalt punct este Sljeme, la 1.033 metri.", "Fortăreața Medvedgrad a fost construită în 1254.", "Peștera Veternica adăpostește 18 specii de lilieci.", "Centrul de schi găzduiește trofeul Snow Queen.", "Suprafața totală a parcului este de aproximativ 179 kilometri pătrați."],
-      en: ["Protected as a nature park since 1981.", "Highest point is Sljeme at 1,033 meters.", "Medvedgrad fortress was built in 1254.", "Veternica cave is home to 18 species of bats.", "The ski center hosts the Snow Queen Trophy.", "Total park area is approximately 179 square kilometers."],
-    },
+    "de": [
+        "HÃ¶chster Gipfel Sljeme (1033 m)",
+        "Naturpark seit dem Jahr 1981",
+        "Vetri-HÃ¶hle ist Ã¼ber 7 km lang",
+        "Burg Medvedgrad aus dem 13. Jahrhundert"
+    ],
+    "hu": [
+        "Legmagasabb csÃºcsa a Sljeme (1033 m)",
+        "1981 Ã³ta termÃ©szetvÃ©delmi park",
+        "A Veternica-barlang tÃ¶bb mint 7 km hosszÃº",
+        "A 13. szÃ¡zadi Medvedgrad vÃ¡ra"
+    ],
+    "ro": [
+        "VÃ¢rful maxim Sljeme (1033 m)",
+        "Parc natural din anul 1981",
+        "PeÈ™tera Veternica are peste 7 km lungime",
+        "Castelul Medvedgrad din secolul al XIII-lea"
+    ],
+    "en": [
+        "Highest peak is Sljeme (1,033 m)",
+        "Nature Park status since 1981",
+        "Veternica Cave is over 7 km long",
+        "13th-century Medvedgrad fortress"
+    ]
+    }
     , image: "/poi-images/croatia-medvednica-mountain-nature-v2.webp",
 },  {
     id: "croatia-lastovo-archipelago-nature-v2",
@@ -261,17 +408,38 @@ imageHint: "Medvednica mountain forest",
     },
 imageHint: "Lastovo islands aerial view",
     descriptionAdvanced: {
-      de: "Der Lastovo-Archipel ist die jüngste geschützte Inselgruppe Kroatiens und wurde 2006 zum Naturpark erklärt. Er besteht aus 44 Inseln, Inselchen und Riffen im südlichsten Teil der kroatischen Adria. Die Hauptinsel Lastovo ist bekannt für ihre zerklüftete Küstenlinie, tiefe Buchten und eine reiche mediterrane Flora. Ein architektonisches Markenzeichen der Insel sind die sogenannten Fumari, kunstvoll gestaltete Schornsteine auf den alten Steinhäusern, die einst den Status der Besitzer symbolisierten. Aufgrund seiner strategischen Lage war der Archipel während der Zeit Jugoslawiens eine Militärbasis und für Ausländer unzugänglich, was zur Erhaltung der unberührten Natur beitrug. Die Gewässer rund um Lastovo gehören zu den fischreichsten der Adria und beherbergen seltene Arten wie die Rote Koralle. Der höchste Gipfel der Insel, Hum, bietet einen weiten Panoramablick bis zur italienischen Küste bei klarem Wetter. Lastovo ist zudem bekannt für seinen traditionellen Karneval (Poklad) und die besondere Ruhe, die fernab des Massentourismus erhalten geblieben ist.",
-      hu: "A Lastovo-szigetvilág Horvátország legfiatalabb védett szigetcsoportja, amelyet 2006-ban nyilvánítottak természetvédelmi parkká. Összesen 44 szigetből, sziklából és zátonyból áll az Adriai-tenger legdélebbi részén. A fősziget, Lastovo híres csipkés partvonaláról, mély öbleiről és gazdag mediterrán flórájáról. A sziget építészeti védjegyei az úgynevezett fumarik, azaz a régi kőházak művészien kialakított kéményei, amelyek egykor a tulajdonosok státuszát szimbolizálták. Stratégiai fekvése miatt a szigetcsoport Jugoszlávia idején katonai bázis volt és zárva állt a külföldiek előtt, ami hozzájárult az érintetlen természet megőrzéséhez. A Lastovo körüli vizek az Adria leghalgazdagabb területei közé tartoznak, és olyan ritka fajoknak adnak otthont, mint a vörös korall. A sziget legmagasabb csúcsa, a Hum, tiszta időben rálátást biztosít az olasz partokra is. Lastovo ismert továbbá hagyományos karneváljáról (Poklad) és a tömegturizmustól mentes különleges nyugalmáról.",
-      ro: "Arhipelagul Lastovo este cel mai tânăr grup de insule protejate din Croația, fiind declarat parc natural în anul 2006. Acesta este format din 44 de insule, insulițe și recife în partea cea mai sudică a Adriaticii croate. Insula principală, Lastovo, este cunoscută pentru linia de coastă crestată, golfurile adânci și o floră mediteraneană bogată. O emblemă arhitecturală a insulei sunt așa-numitele fumari, coșuri de fum proiectate artistic pe vechile case din piatră, care simbolizau odinioară statutul proprietarilor. Datorită locației sale strategice, arhipelagul a fost o bază militară în timpul Iugoslaviei și a fost inaccesibil străinilor, ceea ce a contribuit la conservarea naturii intacte. Apele din jurul Lastovo sunt printre cele mai bogate în pește din Adriatică și adăpostesc specii rare, cum ar fi coraliul roșu. Cel mai înalt vârf al insulei, Hum, oferă o vedere panoramică până la coasta italiană în zilele senine. Lastovo este, de asemenea, cunoscută pentru carnavalul său tradițional (Poklad) și pentru liniștea deosebită păstrată departe de turismul de masă.",
-      en: "The Lastovo Archipelago is the youngest protected island group in Croatia, designated as a nature park in 2006. It consists of 44 islands, islets, and reefs in the southernmost reaches of the Croatian Adriatic. The main island, Lastovo, is famous for its jagged coastline, deep bays, and a lush Mediterranean flora. An architectural trademark of the island are the fumari, elaborately designed chimneys on old stone houses that once symbolized the status of the owners. Due to its strategic location, the archipelago served as a military base during the Yugoslav era and was off-limits to foreigners, which helped preserve its pristine nature. The waters surrounding Lastovo are among the richest in fish in the Adriatic and host rare species such as red coral. The island's highest peak, Hum, offers panoramic views stretching as far as the Italian coast on clear days. Lastovo is also renowned for its traditional carnival (Poklad) and a unique tranquility maintained far from the reaches of mass tourism.",
+    
+    "de": "Der Lastovo-Archipel ist ein entlegenes Naturparadies in der sÃ¼dlichen Adria, geprÃ¤gt durch eine unberÃ¼hrte Meereswelt und dichte KiefernwÃ¤lder.",
+    "hu": "A Lastovo-szigetcsoport egy tÃ¡voli paradicsom az Adria dÃ©li rÃ©szÃ©n, amelyet Ã©rintetlen tengeri vilÃ¡g Ã©s sÅ±rÅ± fenyÅ‘erdÅ‘k jellemeznek.",
+    "ro": "Arhipelagul Lastovo este un paradis natural izolat Ã®n sudul Adriaticii, caracterizat de o lume marinÄƒ virginÄƒ È™i pÄƒduri dese de pini.",
+    "en": "The Lastovo Archipelago is a remote natural paradise in the southern Adriatic, defined by its pristine marine world and dense pine forests."
     },
     factsAdvanced: {
-      de: ["Naturpark seit dem Jahr 2006.", "Besteht aus insgesamt 44 Inseln.", "Der höchste Gipfel Hum liegt auf 417 Metern.", "Lastovo hat 46 kleine Kirchen und Kapellen.", "Wurde 1989 für den Tourismus geöffnet.", "Umfasst eine Landfläche von ca. 53 Quadratkilometern."],
-      hu: ["2006 óta természetvédelmi park.", "Összesen 44 szigetből áll.", "Legmagasabb pontja, a Hum, 417 méter.", "Lastovo szigetén 46 kis templom és kápolna található.", "1989-ben nyitották meg a turizmus előtt.", "Szárazföldi területe körülbelül 53 négyzetkilométer."],
-      ro: ["Declarat parc natural în anul 2006.", "Format din 44 de insule în total.", "Cel mai înalt vârf, Hum, are 417 metri.", "Lastovo are 46 de biserici mici și capele.", "Deschis pentru turism în anul 1989.", "Cuprinde o suprafață terestră de aproximativ 53 km²."],
-      en: ["Nature park status since the year 2006.", "Consists of 44 islands in total.", "The highest peak, Hum, reaches 417 meters.", "Lastovo island has 46 small churches and chapels.", "Opened to tourism in 1989.", "Covers a land area of approximately 53 square kilometers."],
-    },
+    "de": [
+        "Besteht aus 44 Inseln und Felsen",
+        "Naturpark seit dem Jahr 2006",
+        "Leuchtturm Struga aus dem Jahr 1839",
+        "Einer der dunkelsten Orte Europas"
+    ],
+    "hu": [
+        "44 szigetbÅ‘l Ã©s sziklÃ¡bÃ³l Ã¡ll",
+        "2006 Ã³ta termÃ©szetvÃ©delmi park",
+        "Struga vilÃ¡gÃ­tÃ³torony 1839-bÅ‘l",
+        "EurÃ³pa egyik legsÃ¶tÃ©tebb Ã©jszakai egÅ± helye"
+    ],
+    "ro": [
+        "Format din 44 de insule È™i stÃ¢nci",
+        "Parc natural din anul 2006",
+        "Farul Struga construit Ã®n 1839",
+        "Unul dintre cele mai Ã®ntunecate locuri din Europa"
+    ],
+    "en": [
+        "Consists of 44 islands and islets",
+        "Nature Park status since 2006",
+        "Struga lighthouse dates back to 1839",
+        "One of the darkest skies in Europe"
+    ]
+    }
     , image: "/poi-images/croatia-lastovo-archipelago-nature-v2.webp",
 },  {
     id: "croatia-vransko-lake-nature-v2",
@@ -295,17 +463,38 @@ imageHint: "Lastovo islands aerial view",
     },
 imageHint: "Vrana lake bird sanctuary",
     descriptionAdvanced: {
-      de: "Der Vrana-See bei Biograd na Moru ist mit einer Fläche von rund 30,2 Quadratkilometern der größte natürliche See Kroatiens. Er wurde im Jahr 1999 zum Naturpark erklärt und stellt ein bedeutendes Feuchtgebiet dar, das als ornithologisches Reservat über 250 Vogelarten beherbergt. Geologisch gesehen handelt es sich um eine Kryptodepression, bei der die Seeoberfläche über dem Meeresspiegel liegt, während der Boden darunter reicht. Das Brackwasser des Sees ist das Ergebnis einer unterirdischen Verbindung zur Adria, was eine einzigartige Mischung aus Süß- und Salzwasserfischen ermöglicht. In unmittelbarer Nähe befinden sich historische Stätten wie die Maškovića Han, eine osmanische Karawanserei aus dem 17. Jahrhundert. Der See ist heute ein wichtiges ökologisches Korridor- und Erholungsgebiet für Angler und Naturbeobachter.",
-      hu: "A Biograd na Moru közelében található Vransko-tó Horvátország legnagyobb természetes tava, amelynek felszíne megközelítőleg 30,2 négyzetkilométer. Az 1999-ben természetvédelmi területté nyilvánított park kiemelkedő jelentőségű vizes élőhely, amely több mint 250 madárfajnak, köztük a ritka üstökösgémnek ad otthont. Geológiai szempontból kriptodepresszió, ami azt jelenti, hogy a tó felszíne a tengerszint felett, míg legmélyebb pontja az alatt helyezkedik el. A tó enyhén sós vize az Adriai-tengerrel való földalatti összeköttetésnek köszönhető, így édesvízi és tengeri halfajok egyaránt megtalálhatóak benne. A környéken jelentős történelmi emlékek láthatók, mint például a 17. századi oszmán Maškovića Han erődítménye. Napjainkban a tó a madármegfigyelők és a sporthorgászok egyik legkedveltebb célpontja az országban.",
-      ro: "Lacul Vrana, situat lângă Biograd na Moru, este cel mai mare lac natural din Croația, având o suprafață de aproximativ 30,2 kilometri pătrați. În anul 1999, zona a fost declarată parc natural, fiind o zonă umedă de o importanță internațională ce adăpostește peste 250 de specii de păsări. Din punct de vedere geologic, acesta este o criptodepresiune, unde suprafața apei se află deasupra nivelului mării, în timp ce fundul lacului este sub acesta. Apa sa salmastră este rezultatul unei conexiuni subterane cu Marea Adriatică, permițând coexistența speciilor de pești de apă dulce și sărată. În apropiere se află situri istorice remarcabile, precum Hanul Maškovića, o fortificație otomană din secolul al XVII-lea. Astăzi, lacul funcționează ca un coridor ecologic vital și o destinație populară pentru pescuit recreativ și observarea păsărilor.",
-      en: "Vrana Lake, situated near Biograd na Moru, is the largest natural lake in Croatia, covering an area of approximately 30.2 square kilometers. Established as a nature park in 1999, it is a significant wetland habitat that serves as an ornithological reserve for over 250 bird species. Geologically, it is a cryptodepression, meaning the lake's surface is above sea level while its deepest parts lie below it. The brackish water of the lake results from underground karst channels connected to the Adriatic Sea, supporting both freshwater and marine fish species. Historical landmarks like the 17th-century Maškovića Han, an Ottoman caravanserai, are located in the lake's immediate vicinity. Today, the park is a crucial ecological corridor and a favored destination for birdwatching and recreational fishing activities.",
+    
+    "de": "Der Vrana-See ist der grÃ¶ÃŸte natÃ¼rliche See Kroatiens und ein bedeutendes ornithologisches Reservat direkt an der dalmatinischen KÃ¼ste.",
+    "hu": "A Vrana-tÃ³ HorvÃ¡torszÃ¡g legnagyobb termÃ©szetes tava Ã©s egy jelentÅ‘s madÃ¡rrezervÃ¡tum kÃ¶zvetlenÃ¼l a dalmÃ¡t tengerpart mellett.",
+    "ro": "Lacul Vrana este cel mai mare lac natural din CroaÈ›ia È™i o rezervaÈ›ie ornitologicÄƒ importantÄƒ situatÄƒ chiar pe coasta dalmatÄƒ.",
+    "en": "Vrana Lake is the largest natural lake in Croatia and a significant ornithological reserve located right on the Dalmatian coast."
     },
     factsAdvanced: {
-      de: ["Mit 30,2 km² ist es der flächenmäßig größte See in ganz Kroatien.", "Der See liegt in einer Kryptodepression mit einer Tiefe von bis zu 4 Metern.", "Seit 1999 ist das Gebiet als Naturpark und ornithologisches Reservat geschützt.", "Im Park wurden bisher 256 verschiedene Vogelarten wissenschaftlich dokumentiert.", "Die unterirdischen Kanäle zur Adria sind etwa 800 bis 1500 Meter lang.", "Die Maškovića Han in der Nähe ist das westlichste Bauwerk osmanischer Architektur."],
-      hu: ["A tó 30,2 km²-es területével Horvátország legnagyobb természetes állóvize.", "Kriptodepresszió jellemzi, legmélyebb pontja 4 méterrel van a tengerszint alatt.", "1999-ben kapott természetvédelmi park státuszt a terület és környezete.", "A tó területén eddig 256 madárfajt figyeltek meg a kutatók.", "A tótól az Adriai-tenger mindössze 800 méteres távolságra fekszik.", "A közeli Maškovića Han a legnyugatibb oszmán kori világi épület Európában."],
-      ro: ["Cu o suprafață de 30,2 km², este cel mai întins lac natural din Croația.", "Este o criptodepresiune, având adâncimea maximă de aproximativ 4 metri.", "Statutul de parc natural a fost acordat oficial în cursul anului 1999.", "Rezervația ornitologică găzduiește un număr de 256 de specii de păsări.", "Canalul Prosika, lung de 800 de metri, leagă lacul de Marea Adriatică.", "Hanul Maškovića din apropiere datează din anul 1644, în timpul dominației otomane."],
-      en: ["It is the largest natural lake in Croatia, spanning 30.2 square kilometers.", "The lake is a cryptodepression with a maximum depth of around 4 meters.", "The area was officially designated as a nature park in the year 1999.", "A total of 256 bird species have been recorded within the park boundaries.", "The lake is separated from the Adriatic Sea by a narrow ridge 800 meters wide.", "Maškovića Han nearby is the westernmost monument of Ottoman civilian architecture."],
-    },
+    "de": [
+        "GrÃ¶ÃŸte WasserflÃ¤che von 30 kmÂ²",
+        "Naturpark umfasst das gesamte Umland",
+        "Ãœber 250 verschiedene Vogelarten",
+        "Kryptodepression unter dem Meeresspiegel"
+    ],
+    "hu": [
+        "VÃ­zfelÃ¼lete elÃ©ri a 30 kmÂ²-t",
+        "A termÃ©szetvÃ©delmi park a kÃ¶rnyÃ©ket is vÃ©di",
+        "TÃ¶bb mint 250 kÃ¼lÃ¶nbÃ¶zÅ‘ madÃ¡rfaj",
+        "KriptodepressziÃ³ a tengerszint alatt"
+    ],
+    "ro": [
+        "SuprafaÈ›a apei este de 30 kmÂ²",
+        "Parcul natural include Ã®ntreaga zonÄƒ",
+        "Peste 250 de specii de pÄƒsÄƒri",
+        "Criptodepresiune sub nivelul mÄƒrii"
+    ],
+    "en": [
+        "Surface area of about 30 sq km",
+        "Nature Park includes the entire area",
+        "Over 250 different bird species",
+        "Cryptodepression below sea level"
+    ]
+    }
     , image: "/poi-images/croatia-vransko-lake-nature-v2.webp",
 },  {
     id: "croatia-cetina-spring-nature-v2",
@@ -329,17 +518,38 @@ imageHint: "Vrana lake bird sanctuary",
     },
 imageHint: "Cetina river spring Eye of the Earth",
     descriptionAdvanced: {
-      de: "Die Quelle der Cetina, oft als das 'Auge der Erde' bezeichnet, ist ein beeindruckendes hydrologisches Denkmal am Fuße des Dinara-Gebirges. Die Hauptquelle, Glavaš, ist ein tiefblauer Karstsee, dessen Tiefe durch Tauchexpeditionen auf über 155 Meter geschätzt wurde. Das Wasser entspringt aus einer labyrinthartigen unterirdischen Höhle und bildet den Anfang des 101 Kilometer langen Flusses Cetina, der schließlich bei Omiš in die Adria mündet. In der Nähe der Quelle steht die Kirche des Heiligen Grals aus dem 9. Jahrhundert, eine der ältesten und am besten erhaltenen Denkmäler der frühen kroatischen Sakralarchitektur. Die konstante Wassertemperatur beträgt das ganze Jahr über etwa 7 bis 8 Grad Celsius. Die Umgebung ist geprägt von rauen Kalksteinfelsen und einer spärlichen, aber ökologisch wertvollen Vegetation.",
-      hu: "A Cetina-folyó forrása, amelyet gyakran a 'Föld szemeként' emlegetnek, lenyűgöző hidrológiai jelenség a Dinara-hegység lábánál. A fő forrás, a Glavaš, egy mélykék karszttó, amelynek mélységét a búvárok már több mint 155 méternek mérték, de pontos alja még ismeretlen. A kristálytiszta víz egy hatalmas földalatti barlangrendszerből tör elő, és innen indul útjára a 101 kilométer hosszú Cetina-folyó, amely Omišnál torkollik az Adriai-tengerbe. A forrás közvetlen közelében található a 9. századból származó Szent Megváltó-templom, amely a korai horvát szakrális építészet egyik legfontosabb emléke. A víz hőmérséklete az év minden szakában állandó, körülbelül 7-8 Celsius-fok. A forrásvidék kopár mészkősziklái és tiszta vize egyedülálló ökológiai környezetet teremt Közép-Dalmáciában.",
-      ro: "Izvorul râului Cetina, cunoscut sub numele de 'Ochiul Pământului', este un monument hidrologic spectaculos situat la poalele munților Dinara. Sursa principală, Glavaš, este un lac carstic de un albastru intens, a cărui adâncime a fost explorată de scafandri până la peste 155 de metri. Apa țâșnește dintr-o peșteră subterană complexă, formând începutul râului Cetina, care parcurge 101 kilometri până la vărsarea în Marea Adriatică, la Omiš. Lângă izvor se află Biserica Sfântului Mântuitor din secolul al IX-lea, unul dintre cele mai vechi și bine conservate monumente ale arhitecturii sacre timpurii din Croația. Temperatura apei rămâne constantă pe tot parcursul anului, situându-se între 7 și 8 grade Celsius. Peisajul înconjurător este definit de formațiuni calcaroase și o vegetație specifică zonelor carstice înalte.",
-      en: "The source of the Cetina River, often called the 'Eye of the Earth,' is a stunning hydrological monument located at the foot of the Dinara Mountains. The primary spring, Glavaš, is a deep blue karst lake that divers have explored to depths exceeding 155 meters, though its true bottom remains unknown. The water emerges from a complex underground cave system to begin the 101-kilometer journey of the Cetina River, which eventually flows into the Adriatic Sea at Omiš. Near the spring stands the Church of the Holy Savior, dating back to the 9th century, representing one of the oldest pre-Romanesque monuments in Croatia. The water temperature is consistently cold, staying around 7 to 8 degrees Celsius throughout the year. The surrounding landscape is characterized by rugged limestone terrain and significant ecological biodiversity.",
+    
+    "de": "Die Quelle der Cetina, auch das Auge der Erde genannt, ist ein beeindruckender Karstquellsee mit tiefblauem Wasser am FuÃŸe des Dinara-Gebirges.",
+    "hu": "A Cetina-folyÃ³ forrÃ¡sa, amelyet a FÃ¶ld szemÃ©nek is neveznek, egy lenyÅ±gÃ¶zÅ‘ karsztforrÃ¡s mÃ©lykÃ©k vÃ­zzel a Dinara-hegysÃ©g lÃ¡bÃ¡nÃ¡l.",
+    "ro": "Izvorul rÃ¢ului Cetina, numit È™i Ochiul PÄƒmÃ¢ntului, este un lac carstic impresionant cu apÄƒ albastrÄƒ adÃ¢ncÄƒ la poalele munÈ›ilor Dinara.",
+    "en": "The Cetina River source, known as the Eye of the Earth, is a stunning karst spring with deep blue waters at the foot of the Dinara mountains."
     },
     factsAdvanced: {
-      de: ["Die Quelle Glavaš wurde von Tauchern bis in eine Tiefe von 155 Metern erkundet.", "Der Fluss Cetina hat eine Gesamtlänge von 101 Kilometern von der Quelle bis zum Meer.", "Die Wassertemperatur der Quelle liegt das ganze Jahr über stabil bei etwa 7-8 °C.", "Die nahegelegene Kirche des Hl. Heils stammt aus der Regierungszeit von Fürst Branimir.", "Das Quellgebiet liegt auf einer Höhe von 385 Metern über dem Meeresspiegel.", "Das Wasser der Cetina versorgt heute weite Teile Dalmatiens mit Trinkwasser."],
-      hu: ["A Glavaš-forrást a búvárok eddig 155 méteres mélységig tudták feltárni.", "A Cetina-folyó teljes hossza a forrástól a torkolatig pontosan 101 kilométer.", "A forrásvíz hőmérséklete télen-nyáron állandóan 7 és 8 Celsius-fok között mozog.", "A közeli Szent Megváltó-templom a 9. században, a kora középkorban épült.", "A forrás tengerszint feletti magassága megközelítőleg 385 méter.", "A Cetina vize jelenleg több mint félmillió ember ivóvízellátását biztosítja Dalmáciában."],
-      ro: ["Izvorul Glavaš a fost explorat până la o adâncime record de peste 155 de metri.", "Râul Cetina are o lungime totală de 101 kilometri de la izvor până la Omiš.", "Temperatura apei la sursă este constantă, măsurând între 7 și 8 grade Celsius.", "Biserica Sfântului Mântuitor din apropiere a fost construită în secolul al IX-lea.", "Izvorul se află la o altitudine de aproximativ 385 de metri deasupra nivelului mării.", "Bazinul hidrografic al Cetinei acoperă o suprafață de peste 4.100 de kilometri pătrați."],
-      en: ["The Glavaš spring has been explored by divers to a depth of over 155 meters.", "The Cetina River flows for exactly 101 kilometers before reaching the sea.", "The spring water maintains a constant temperature between 7 and 8 degrees Celsius.", "The nearby Church of the Holy Savior dates back to the 9th-century Pre-Romanesque period.", "The elevation of the spring source is approximately 385 meters above sea level.", "The river basin of the Cetina covers an area of roughly 4,140 square kilometers."],
-    },
+    "de": [
+        "Tiefe der Hauptquelle Ã¼ber 115 m",
+        "Wassertemperatur konstant bei 7 Grad",
+        "Gelegen in der NÃ¤he von Vrlika",
+        "Naturdenkmal seit dem Jahr 1972"
+    ],
+    "hu": [
+        "A fÅ‘forrÃ¡s mÃ©lysÃ©ge meghaladja a 115 m-t",
+        "VÃ­zhÅ‘mÃ©rsÃ©klete Ã¡llandÃ³ 7 fok",
+        "Vrlika vÃ¡rosa kÃ¶zelÃ©ben talÃ¡lhatÃ³",
+        "1972 Ã³ta termÃ©szeti emlÃ©khely"
+    ],
+    "ro": [
+        "AdÃ¢ncimea izvorului principal peste 115 m",
+        "Temperatura apei constantÄƒ la 7 grade",
+        "Situat Ã®n apropierea oraÈ™ului Vrlika",
+        "Monument al naturii din anul 1972"
+    ],
+    "en": [
+        "Main source depth exceeds 115 m",
+        "Water temperature constant at 7Â°C",
+        "Located near the town of Vrlika",
+        "Natural monument status since 1972"
+    ]
+    }
     , image: "/poi-images/croatia-cetina-spring-nature-v2.webp",
 },  {
     id: "croatia-zrmanja-river-nature-v2",
@@ -363,17 +573,38 @@ imageHint: "Cetina river spring Eye of the Earth",
     },
     imageHint: "Zrmanja river canyon",
     descriptionAdvanced: {
-      de: "Der Zrmanja-Canyon im nördlichen Dalmatien ist eine der spektakulärsten Karstlandschaften Kroatiens. Der Fluss Zrmanja hat sich über Jahrtausende tief in das Kalksteinplateau eingegraben und einen bis zu 200 Meter tiefen Canyon mit steilen Felswänden geformt. Bekanntheit erlangte die Region in den 1960er Jahren als Drehort für die legendären Winnetou-Filme, wobei der 'Pueblo Plateau' genannte Abschnitt besonders markant ist. Der 69 Kilometer lange Fluss zeichnet sich durch seine zahlreichen Wasserfälle und Stromschnellen aus, darunter der 11 Meter hohe Visoki Buk. In seinem Unterlauf vermischt sich das Süßwasser mit dem Meerwasser des Novigrad-Meeres, was ein spezifisches Ökosystem schafft. Die Region ist ein bedeutendes Ziel für Rafting- und Kajaktouren, besonders während der wasserreichen Frühlingsmonate.",
-      hu: "A Zrmanja-kanyon Észak-Dalmáciában található, és Horvátország egyik leglátványosabb karsztvidéki tája. A Zrmanja-folyó évezredek alatt vájt mély utat a mészkőfennsíkba, helyenként 200 méter mély szurdokot alakítva ki meredek sziklafalakkal. A terület világszerte ismertté vált az 1960-as években, mivel itt forgatták a legendás Winnetou-filmek számos jelenetét, különösen a 'Pueblo-fennsíkként' emlegetett részen. A 69 kilométer hosszú folyót számos vízesés és zúgó tarkítja, amelyek közül a legimpozánsabb a 11 méter magas Visoki Buk. A folyó alsó szakaszán az édesvíz keveredik a Novigradi-tenger sós vizével, különleges ökológiai környezetet hozva létre. A kanyon ma a raftingosok és kajakosok egyik legkedveltebb célpontja Európában.",
-      ro: "Canyonul Zrmanja din nordul Dalmației este una dintre cele mai spectaculoase formațiuni carstice din Croația. Râul Zrmanja a săpat timp de milenii în platoul calcaros, creând un defileu cu o adâncime de până la 200 de metri și pereți stâncoși abrupți. Regiunea a devenit faimoasă la nivel internațional în anii 1960, servind ca locație de filmare pentru legendarele filme Winnetou, zona cunoscută sub numele de 'Pariževačka glavica' fiind cea mai recunoscută. Râul, lung de 69 de kilometri, este punctat de numeroase cascade și repezișuri, cea mai înaltă fiind Visoki Buk, de 11 metri. În cursul său inferior, apa dulce se amestecă cu apa sărată a Mării Novigrad, formând un ecosistem specific. Canyonul este în prezent o destinație de top pentru rafting și caiac.",
-      en: "The Zrmanja Canyon in northern Dalmatia is one of the most spectacular karst landscapes in Croatia. Over thousands of years, the Zrmanja River has carved a deep path through the limestone plateau, creating a canyon up to 200 meters deep with steep rocky walls. The area gained international fame in the 1960s as a primary filming location for the legendary Winnetou movies, with the 'Pueblo Plateau' section being particularly iconic. The 69-kilometer-long river features numerous waterfalls and rapids, including the impressive 11-meter-high Visoki Buk. In its lower reaches, the freshwater mixes with the seawater of the Novigrad Sea, creating a unique brackish water ecosystem. Today, the canyon is a premier destination for rafting and kayaking enthusiasts, especially during the high-water spring season.",
+    
+    "de": "Der Fluss Zrmanja hat einen spektakulÃ¤ren Canyon in die Karstlandschaft gegraben und ist bekannt fÃ¼r sein smaragdgrÃ¼nes Wasser und tosende WasserfÃ¤lle.",
+    "hu": "A Zrmanja-folyÃ³ lÃ¡tvÃ¡nyos kanyont vÃ¡jt a karsztvidÃ©kbe, amely smaragdzÃ¶ld vizÃ©rÅ‘l, zÃºgÃ³ vÃ­zesÃ©seirÅ‘l Ã©s vadregÃ©nyes sziklÃ¡irÃ³l vÃ¡lt hÃ­ressÃ©.",
+    "ro": "RÃ¢ul Zrmanja a sÄƒpat un canion spectaculos Ã®n peisajul carstic, fiind renumit pentru apele sale de smarald È™i cascadele zgomotoase.",
+    "en": "The Zrmanja River has carved a spectacular canyon into the karst landscape, famous for its emerald green water and thundering waterfalls."
     },
     factsAdvanced: {
-      de: ["Der Canyon der Zrmanja erreicht an seinen tiefsten Stellen eine Höhe von 200 Metern.", "Der Fluss Zrmanja hat eine Gesamtlänge von 69 Kilometern von der Quelle bis zur Mündung.", "In den 1960er Jahren wurden hier sieben Winnetou-Filme nach Karl May gedreht.", "Der höchste Wasserfall des Flusses ist der Visoki Buk mit einer Höhe von 11 Metern.", "Der Fluss entspringt am Fuße des Poštak-Berges in der südlichen Lika-Region.", "Das Wasser der Zrmanja gilt als eines der saubersten Fließgewässer in Europa."],
-      hu: ["A kanyon legmélyebb pontjain a sziklafalak magassága eléri a 200 métert.", "A Zrmanja-folyó teljes hossza a forrástól a torkolatig 69 kilométer.", "Az 1960-as években hét Winnetou-filmet forgattak a kanyon látványos helyszínein.", "A folyó legmagasabb vízesése a Visoki Buk, amely 11 méter magasból zúdul alá.", "A folyó a Poštak-hegy lábánál ered, 395 méteres tengerszint feletti magasságban.", "A folyó vize olyan tiszta, hogy a felső szakaszán közvetlenül iható."],
-      ro: ["Adâncimea canyonului Zrmanja atinge în anumite puncte cota de 200 de metri.", "Râul parcurge o distanță totală de 69 de kilometri de la izvor până la vărsare.", "Canyonul a fost decorul principal pentru șapte filme din seria Winnetou.", "Cea mai înaltă cascadă de pe parcursul râului este Visoki Buk, măsurând 11 metri.", "Râul Zrmanja izvorăște de sub muntele Poštak, la o altitudine de 395 de metri.", "Râul este cunoscut pentru cele 10 cascade majore și numeroasele sale repezișuri."],
-      en: ["The walls of the Zrmanja Canyon reach heights of up to 200 meters in some areas.", "The Zrmanja River has a total length of 69 kilometers from source to mouth.", "Seven Winnetou films based on Karl May's novels were filmed here in the 1960s.", "The highest waterfall on the river is Visoki Buk, which stands at 11 meters tall.", "The river originates at the foot of Mount Poštak in the southern Lika region.", "The Zrmanja is often referred to as 'The Hidden Beauty' due to its pristine nature."],
-    },
+    "de": [
+        "GesamtlÃ¤nge des Flusses 69 km",
+        "Canyon ist bis zu 200 m tief",
+        "Drehort fÃ¼r Winnetou-Filme",
+        "MÃ¼ndet in das Novigrad-Meer"
+    ],
+    "hu": [
+        "A folyÃ³ teljes hossza 69 km",
+        "A kanyon mÃ©lysÃ©ge elÃ©ri a 200 mÃ©tert",
+        "A Winnetou-filmek egyik forgatÃ¡si helyszÃ­ne",
+        "A NovigrÃ¡di-tengerbe torkollik"
+    ],
+    "ro": [
+        "Lungimea totalÄƒ a rÃ¢ului este de 69 km",
+        "Canionul are o adÃ¢ncime de pÃ¢nÄƒ la 200 m",
+        "Loc de filmare pentru seria Winnetou",
+        "Se varsÄƒ Ã®n Marea Novigrad"
+    ],
+    "en": [
+        "Total river length of 69 km",
+        "Canyon reaches depths of 200 m",
+        "Filming location for Winnetou movies",
+        "Flows into the Novigrad Sea"
+    ]
+    }
   },
   {
     id: "croatia-galesnjak-island-nature-v2",
@@ -397,17 +628,38 @@ imageHint: "Cetina river spring Eye of the Earth",
     },
 imageHint: "Galesnjak heart shaped island aerial",
     descriptionAdvanced: {
-      de: "Galešnjak, auch bekannt als die 'Insel der Liebe', ist eine kleine, herzförmige Insel im Pašman-Kanal der Adria. Ihre markante geometrische Form wurde erstmals 1806 in einem Atlas von Napoleons Kartographen Charles-François Beautemps-Beaupré dokumentiert, erlangte jedoch erst 2009 weltweite Bekanntheit durch Google Earth. Die Insel hat eine Fläche von nur etwa 0,132 Quadratkilometern und eine Küstenlinie von 1,55 Kilometern. Sie befindet sich in Privatbesitz und ist unbewohnt, was zu ihrer unberührten Natur mit mediterraner Macchia und einigen Olivenbäumen beigetragen hat. Auf der Insel wurden archäologische Funde gemacht, die auf eine Besiedlung vor über 7.000 Jahren hinweisen, darunter Reste von Steinbauten aus der Jungsteinzeit. Galešnjak ist heute ein Symbol für Romantik und ein beliebtes Ziel für Bootsausflüge.",
-      hu: "Galešnjak, közismert nevén a 'Szerelem szigete', egy kis, szív alakú sziget az Adriai-tenger Pašman-csatornájában. Különleges, szinte tökéletes mértani formáját először 1806-ban dokumentálta Charles-François Beautemps-Beaupré, Napóleon térképésze, de világhírre csak 2009-ben tett szert a Google Earth révén. A sziget területe mindössze 0,132 négyzetkilométer, partvonalának hossza pedig 1,55 kilométer. Magántulajdonban van és lakatlan, ami segített megőrizni érintetlen mediterrán növényzetét, főként macchiát és olajfákat. Régészeti kutatások során a szigeten több mint 7000 éves emberi jelenlét nyomait fedezték fel, köztük újkőkorszaki kőépítmények maradványait. Galešnjak mára a romantika egyik globális szimbólumává vált, és kedvelt célpontja a hajós kirándulásoknak.",
-      ro: "Galešnjak, cunoscută și sub numele de 'Insula Iubirii', este o mică insulă în formă de inimă situată în canalul Pašman al Mării Adriatice. Forma sa geometrică distinctă a fost documentată pentru prima dată în 1806 de cartograful lui Napoleon, Charles-François Beautemps-Beaupré, dar a câștigat faimă mondială abia în 2009 prin intermediul Google Earth. Insula are o suprafață de doar 0,132 kilometri pătrați și o linie de coastă de 1,55 kilometri. Este o proprietate privată și rămâne nelocuită, fapt ce a permis conservarea vegetației mediteraneene native și a câtorva măslini. Descoperirile arheologice de pe insulă indică o prezență umană datând de acum peste 7.000 de ani, incluzând resturi de structuri din perioada neolitică. Astăzi, Galešnjak este un simbol global al romantismului și o destinație populară pentru excursii cu barca.",
-      en: "Galešnjak, widely known as the 'Island of Love,' is a small, heart-shaped island located in the Pašman Channel of the Adriatic Sea. Its remarkable geometric shape was first documented in 1806 by Napoleon's cartographer, Charles-François Beautemps-Beaupré, but it only achieved global fame in 2009 after being featured on Google Earth. The island covers an area of just 0.132 square kilometers and possesses a coastline of 1.55 kilometers. It is privately owned and remains uninhabited, which has helped preserve its natural Mediterranean scrub and olive trees. Archaeological research on the island has uncovered evidence of human activity dating back over 7,000 years, including Neolithic stone structures. Galešnjak has since become a global symbol of romance and a frequent destination for private boat tours.",
+    
+    "de": "GaleÅ¡njak ist als die Insel der Liebe bekannt, da sie eine nahezu perfekte Herzform besitzt und ein Symbol fÃ¼r Romantik in der kroatischen Adria ist.",
+    "hu": "GaleÅ¡njak a szerelem szigetekÃ©nt ismert, mivel szinte tÃ¶kÃ©letes szÃ­v alakja van, Ã­gy az adriai romantika egyik legfÅ‘bb szimbÃ³lumÃ¡vÃ¡ vÃ¡lt.",
+    "ro": "GaleÅ¡njak este cunoscutÄƒ ca Insula Iubirii, avÃ¢nd o formÄƒ de inimÄƒ aproape perfectÄƒ, fiind un simbol al romantismului Ã®n Adriatica croatÄƒ.",
+    "en": "GaleÅ¡njak is known as the Island of Love due to its near-perfect heart shape, making it a global symbol of romance in the Adriatic Sea."
     },
     factsAdvanced: {
-      de: ["Die Insel Galešnjak hat eine Gesamtfläche von etwa 0,132 Quadratkilometern.", "Ihre charakteristische Herzform wurde erstmals im Jahr 1806 kartografisch erfasst.", "Die Küstenlinie der Insel erstreckt sich über eine Länge von genau 1,55 Kilometern.", "Galešnjak ist eine von nur wenigen natürlich vorkommenden herzförmigen Inseln weltweit.", "Archäologen fanden auf der Insel Überreste von Siedlungen, die 7.000 Jahre alt sind.", "Die Insel befindet sich in Privatbesitz der Familie Jureško aus dem Dorf Mrljane."],
-      hu: ["Galešnjak szigetének teljes területe mindössze 0,132 négyzetkilométer.", "A sziget szív alakját először 1806-ban, a napóleoni időkben vetették papírra.", "A sziget partvonalának teljes hossza megközelítőleg 1,55 kilométer.", "A világon található kevés természetes szív alakú sziget egyike a horvátországi.", "Régészeti leletek bizonyítják, hogy a sziget már 7000 évvel ezelőtt is lakott volt.", "A sziget magántulajdonban van, de turisták hajóval kiköthetnek a partján."],
-      ro: ["Insula Galešnjak ocupă o suprafață totală de aproximativ 0,132 km².", "Forma de inimă a fost înregistrată oficial pe hărți în anul 1806 de francezi.", "Lungimea totală a țărmului insulei Galešnjak este de 1,55 kilometri.", "Este considerată una dintre cele mai perfecte insule în formă de inimă din lume.", "Pe insulă au fost descoperite morminte antice și resturi de ceramică iliră.", "Insula este nelocuită și nu dispune de nicio facilitate turistică permanentă."],
-      en: ["The island of Galešnjak covers a total surface area of 0.132 square kilometers.", "Its heart-like shape was first recorded in a maritime atlas in 1806.", "The coastline of the island measures exactly 1.55 kilometers in length.", "Galešnjak is one of only a few naturally heart-shaped islands in the world.", "Evidence of human habitation on the island dates back more than 7,000 years.", "The highest point on this small island is only 36 meters above sea level."],
-    },
+    "de": [
+        "Privatinsel in der Adria",
+        "Inselumfang betrÃ¤gt ca. 1,55 km",
+        "FlÃ¤che von nur 0,132 kmÂ²",
+        "Entdeckt auf Google Earth (2009)"
+    ],
+    "hu": [
+        "MagÃ¡nsziget az Adriai-tengeren",
+        "A sziget kerÃ¼lete kb. 1,55 km",
+        "TerÃ¼lete mindÃ¶ssze 0,132 kmÂ²",
+        "2009-ben vÃ¡lt vilÃ¡ghÃ­rÅ±vÃ© a Google Earth-Ã¶n"
+    ],
+    "ro": [
+        "InsulÄƒ privatÄƒ Ã®n Marea AdriaticÄƒ",
+        "CircumferinÈ›a insulei este de 1,55 km",
+        "SuprafaÈ›Äƒ de doar 0,132 kmÂ²",
+        "DevenitÄƒ celebrÄƒ prin Google Earth Ã®n 2009"
+    ],
+    "en": [
+        "Private island in the Adriatic",
+        "Island perimeter is about 1.55 km",
+        "Area of only 0.132 sq km",
+        "Became famous via Google Earth in 2009"
+    ]
+    }
     , image: "/poi-images/croatia-galesnjak-island-nature-v2.webp",
 },  {
     id: "croatia-lim-fjord-nature-v2",
@@ -431,17 +683,38 @@ imageHint: "Galesnjak heart shaped island aerial",
     },
 imageHint: "Lim Fjord Istria aerial",
     descriptionAdvanced: {
-      de: "Der Lim-Fjord, auch Limski-Kanal genannt, ist eine schmale Meeresbucht an der Westküste Istriens zwischen Poreč und Rovinj. Geologisch gesehen handelt es sich nicht um einen echten Fjord, sondern um eine Ria, das überflutete Tal des ehemaligen Flusses Pazinčica. Der Kanal erstreckt sich über eine Länge von etwa 10 Kilometern und ist an seiner tiefsten Stelle rund 30 Meter tief, während die umliegenden Klippen bis zu 100 Meter hoch aufragen. Aufgrund des geringen Salzgehalts und der hohen Sauerstoffkonzentration ist das Gewässer ideal für die Zucht von Austern und Miesmuscheln geeignet. In den Felswänden befindet sich die Romualdo-Höhle, in der archäologische Funde aus der Altsteinzeit und Überreste des Höhlenbären entdeckt wurden. Das Gebiet steht seit 1964 unter Naturschutz und ist ein bedeutendes Ziel für den kulinarischen Tourismus in Istrien.",
-      hu: "A Lim-fjord, vagy más néven Limski-csatorna, egy keskeny tengeröböl Isztria nyugati partján, Poreč és Rovinj között. Geológiai értelemben nem valódi fjord, hanem egy ria, azaz a hajdani Pazinčica-folyó elárasztott völgye. A csatorna körülbelül 10 kilométer hosszan nyúlik be a szárazföldbe, legmélyebb pontja 30 méter, míg a környező sziklafalak magassága elérheti a 100 métert is. A víz alacsony sótartalma és magas oxigénkoncentrációja miatt kiválóan alkalmas osztriga- és kagylótenyésztésre, amelyek messze földön híresek. A sziklafalakban található a Romuald-barlang, ahol őskőkorszaki leleteket és barlangi medvék maradványait tárták fel a régészek. A terület 1964 óta természetvédelmi oltalom alatt áll, és az Isztriai-félsziget egyik legfontosabb gasztroturisztikai célpontja.",
-      ro: "Fjordul Lim, cunoscut și sub numele de Limski kanal, este un golf îngust situat pe coasta de vest a Istriei, între Poreč și Rovinj. Din punct de vedere geologic, acesta nu este un fjord adevărat, ci o ria – valea inundată a fostului râu Pazinčica. Canalul se întinde pe o lungime de aproximativ 10 kilometri, având o adâncime maximă de 30 de metri, în timp ce pereții săi abrupți se ridică până la 100 de metri înălțime. Datorită salinității scăzute și concentrației ridicate de oxigen, apele sunt ideale pentru creșterea stridiilor și a midiilor de înaltă calitate. În versanții stâncoși se află Peștera lui Romuald, unde au fost descoperite artefacte din paleolitic și resturi de urs de peșteră. Zona este protejată din 1964 și reprezintă un punct major de atracție culinară și naturală în Istria.",
-      en: "The Lim Fjord, also known as Limski Kanal, is a narrow marine bay on the western coast of Istria between Poreč and Rovinj. Geologically, it is not a true fjord but rather a ria—the submerged valley of the ancient Pazinčica River. The channel stretches for approximately 10 kilometers inland, with a maximum depth of 30 meters and surrounding cliffs reaching heights of up to 100 meters. The brackish water, resulting from numerous underwater springs, combined with high oxygen levels, makes it an ideal environment for oyster and mussel farming. Within the steep cliffs lies Romuald's Cave, which has yielded Paleolithic artifacts and remains of cave bears. The area has been a protected natural landscape since 1964 and remains a highlight for culinary tourism and scenic boat tours in the Istrian region.",
+    
+    "de": "Der Lim-Kanal an der WestkÃ¼ste Istriens gleicht einem Fjord und ist fÃ¼r seine steilen, bewaldeten HÃ¤nge sowie die hervorragende Muschelzucht bekannt.",
+    "hu": "Az Isztria nyugati partjÃ¡n fekvÅ‘ Lim-csatorna egy fjordra emlÃ©keztet, hÃ­res meredek erdÅ‘s partjairÃ³l Ã©s kivÃ¡lÃ³ kagylÃ³tenyÃ©szeteirÅ‘l.",
+    "ro": "Canalul Lim de pe coasta de vest a Istriei seamÄƒnÄƒ cu un fiord, fiind celebru pentru malurile abrupte Ã®mpÄƒdurite È™i crescÄƒtoriile de scoici.",
+    "en": "The Lim Channel on Istria's west coast resembles a fjord and is famous for its steep forested slopes and excellent shellfish farming."
     },
     factsAdvanced: {
-      de: ["Der Limski-Kanal erstreckt sich über eine Länge von etwa 10 Kilometern.", "Die umliegenden Klippen ragen stellenweise bis zu 100 Meter steil empor.", "Geologisch ist es eine Ria, entstanden durch das Absinken der Erdkruste.", "Das Gewässer ist berühmt für seine Austernbänke und Miesmuschelzuchten.", "In der Romualdo-Höhle wurden 10.000 Jahre alte Felsmalereien entdeckt.", "Der Name 'Lim' stammt vom lateinischen Wort 'limes' für Grenze ab."],
-      hu: ["A Limski-csatorna hossza megközelítőleg 10 kilométer a torkolattól a végéig.", "A csatornát övező meredek sziklafalak magassága helyenként a 100 métert is eléri.", "A víz mélysége a csatorna középső szakaszán körülbelül 30 méter.", "A terület híres minőségi osztriga- és feketekagyló-tenyészeteiről.", "A Romuald-barlangban hatezer éves emberi maradványokat találtak.", "A csatorna nevét a latin 'limes' szóból kapta, mivel egykor határ volt."],
-      ro: ["Canalul Lim se întinde pe o lungime totală de aproximativ 10 kilometri.", "Înălțimea maximă a versanților care mărginesc canalul este de 100 de metri.", "Adâncimea apei în interiorul canalului variază, atingând pragul de 30 de metri.", "Canalul este o locație celebră pentru producția de stridii din specia Ostrea edulis.", "Peștera lui Romuald conține urme de locuire umană din perioada Paleoliticului.", "Zona a fost utilizată ca locație pentru filmul 'The Vikings' din anul 1958."],
-      en: ["The Lim Channel extends for approximately 10 kilometers into the Istrian land.", "The surrounding steep cliffs rise to a maximum height of 100 meters.", "The maximum water depth within the channel is approximately 30 meters.", "The area is a significant site for farming oysters and Mediterranean mussels.", "Romuald's Cave is 105 meters long and contains ancient Paleolithic art.", "The name 'Lim' is derived from 'limes', the Latin word for border or limit."],
-    },
+    "de": [
+        "LÃ¤nge des Kanals etwa 12 km",
+        "Tiefe des Wassers bis zu 30 m",
+        "Besonderes maritimes Reservat",
+        "Bekannt fÃ¼r Austern und Miesmuscheln"
+    ],
+    "hu": [
+        "A csatorna hossza kb. 12 km",
+        "A vÃ­z mÃ©lysÃ©ge elÃ©rheti a 30 mÃ©tert",
+        "KÃ¼lÃ¶nleges tengeri rezervÃ¡tum",
+        "Osztriga- Ã©s feketekagylÃ³-tenyÃ©sztÃ©s"
+    ],
+    "ro": [
+        "Lungimea canalului este de circa 12 km",
+        "AdÃ¢ncimea apei pÃ¢nÄƒ la 30 m",
+        "RezervaÈ›ie marinÄƒ specialÄƒ",
+        "Cunoscut pentru stridii È™i midii"
+    ],
+    "en": [
+        "Length of the channel is about 12 km",
+        "Water depth reaches up to 30 m",
+        "Special marine reserve status",
+        "Famous for oysters and mussels"
+    ]
+    }
     , image: "/poi-images/croatia-lim-fjord-nature-v2.webp",
 },  {
     id: "croatia-dinara-peak-nature-v2",
@@ -465,17 +738,38 @@ imageHint: "Lim Fjord Istria aerial",
     },
 imageHint: "Dinara mountain rocky summit",
     descriptionAdvanced: {
-      de: "Die Dinara ist das höchste Gebirgsmassiv Kroatiens und gibt dem gesamten Dinarischen Gebirge seinen Namen. Ihr höchster Gipfel, der Sinjal, ragt 1.831 Meter über den Meeresspiegel und befindet sich im Hinterland von Knin. Das Massiv besteht hauptsächlich aus mesozoischem Kalkstein, was zu einer markanten Karstlandschaft mit tiefen Schluchten, Höhlen und weiten Plateaus geführt hat. Im Jahr 2021 wurde die Region zum zwölften Naturpark Kroatiens erklärt, um die reiche Artenvielfalt und die wertvollen Ökosysteme zu schützen. Das Gebiet beherbergt zahlreiche endemische Pflanzen- und Tierarten, darunter den Dinarischen Wühlmaus. Die Dinara ist zudem ein historisches Grenzgebiet und bietet von ihren Gipfeln aus weitreichende Ausblicke über Dalmatien und bis nach Bosnien und Herzegowina. Für Bergsteiger ist der Aufstieg aufgrund der rauen Wetterbedingungen und der steilen Pfade eine anspruchsvolle Herausforderung.",
-      hu: "A Dinara Horvátország legmagasabb hegysége, amelyről az egész Dinári-hegységrendszer a nevét kapta. Legmagasabb csúcsa, a Sinjal, 1831 méterrel magasodik a tengerszint fölé, és Knin városának hátországában található. A hegység főként mezozoikumi mészkőből épül fel, ami jellegzetes karsztformákat, mély szurdokokat és barlangokat eredményezett. 2001-ben a régiót Horvátország tizenkettedik természetvédelmi parkjává nyilvánították a biológiai sokféleség és az értékes ökoszisztémák megőrzése érdekében. A terület számos endemikus növény- és állatfajnak ad otthont, köztük a dinári pocoknak. A Dinara történelmileg is fontos határvidék, csúcsairól pedig pazar kilátás nyílik Dalmáciára és Bosznia-Hercegovinára. A hegymászók számára a Sinjal meghódítása a zord időjárás és a meredek terep miatt komoly kihívást jelent.",
-      ro: "Muntele Dinara este cel mai înalt masiv muntos din Croația și cel care dă numele întregului lanț al Alpilor Dinarici. Cel mai înalt vârf al său, numit Sinjal, are o altitudine de 1.831 de metri și este situat în apropierea orașului Knin. Masivul este format în principal din calcar mezozoic, prezentând un relief carstic spectaculos cu văi adânci, peșteri și platouri vaste. În anul 2021, regiunea a fost declarată al doisprezecelea parc natural din Croația pentru a proteja biodiversitatea bogată și ecosistemele sale fragile. Zona găzduiește numeroase specii endemice de plante și animale, printre care se numără și șoarecele de câmp dinarici. Dinara este, de asemenea, o zonă istorică de graniță, oferind panorame impresionante asupra Dalmației și Bosniei-Herțegovina. Pentru alpiniști, ascensiunea este o provocare din cauza condițiilor meteorologice aspre.",
-      en: "Mount Dinara is the highest mountain massif in Croatia and the namesake for the entire Dinaric Alps mountain range. Its highest peak, Sinjal, reaches an elevation of 1,831 meters above sea level and is located in the hinterland of Knin. The massif is predominantly composed of Mesozoic limestone, resulting in a classic karst landscape with deep canyons, caves, and vast upland plateaus. In 2021, the region was officially designated as Croatia's twelfth nature park to safeguard its immense biodiversity and fragile ecosystems. The area is home to numerous endemic plant and animal species, including the Dinaric vole. Historically, Dinara has served as a significant border region, and its summits offer expansive views across Dalmatia and into Bosnia and Herzegovina. For hikers, ascending the peak is a demanding feat due to rugged terrain and unpredictable weather.",
+    
+    "de": "Die Dinara ist der hÃ¶chste Gipfel Kroatiens und gibt dem gesamten Dinarischen Gebirge seinen Namen, das sich entlang der westlichen Balkanhalbinsel erstreckt.",
+    "hu": "A Dinara HorvÃ¡torszÃ¡g legmagasabb csÃºcsa, amely az egÃ©sz DinÃ¡ri-hegysÃ©gnek nevet ad, amely a nyugat-balkÃ¡ni fÃ©lsziget mentÃ©n hÃºzÃ³dik.",
+    "ro": "VÃ¢rful Dinara este cel mai Ã®nalt punct din CroaÈ›ia È™i dÄƒ numele Ã®ntregului lanÈ› muntos Dinaric, care se Ã®ntinde de-a lungul Peninsulei Balcanice.",
+    "en": "Dinara is the highest peak in Croatia and gives its name to the entire Dinaric Alps mountain range stretching across the western Balkans."
     },
     factsAdvanced: {
-      de: ["Der Sinjal-Gipfel ist mit 1.831 Metern der höchste Punkt Kroatiens.", "Das Dinara-Massiv erstreckt sich über eine Länge von etwa 100 Kilometern.", "Die Region wurde im Februar 2021 offiziell zum Naturpark erklärt.", "Die Dinara beherbergt über 900 verschiedene Pflanzenarten in ihren Tälern.", "An der Südseite der Dinara befindet sich die 22 Meter hohe Krčić-Wasserfallquelle.", "Das Gebirge bildet die natürliche Grenze zwischen Kroatien und Bosnien."],
-      hu: ["A Sinjal-csúcs 1831 méteres magasságával Horvátország legmagasabb pontja.", "A Dinara-hegység teljes hossza megközelítőleg 100 kilométert tesz ki.", "A területet 2021 februárjában nyilvánították hivatalosan természetvédelmi parkká.", "A hegységben több mint 900 növényfajt azonosítottak a botanikusok.", "A hegység lábánál található a 22 méter magas Krčić-vízesés.", "A Dinara-hegység a természetes határvonal Horvátország és Bosznia között."],
-      ro: ["Vârful Sinjal este cel mai înalt punct din Croația, având 1.831 de metri.", "Masivul muntos Dinara are o lungime de aproximativ 100 de kilometri.", "Parcul Natural Dinara a fost înființat oficial în luna februarie a anului 2021.", "Flora masivului include peste 900 de specii diferite de plante vasculare.", "Izvorul râului Krka se află la baza muntelui, sub cascada Krčić.", "Muntele este compus din roci calcaroase formate în perioada Mezozoicului."],
-      en: ["The Sinjal peak is the highest point in Croatia at 1,831 meters above sea level.", "The Dinara massif stretches for a total distance of about 100 kilometers.", "The region was officially declared a Nature Park in February 2021.", "More than 900 different plant species are found within the mountain area.", "The 22-meter-high Krčić waterfall is located at the foot of the massif.", "The mountain serves as a natural border between Croatia and Bosnia and Herzegovina."],
-    },
+    "de": [
+        "GipfelhÃ¶he betrÃ¤gt 1831 Meter",
+        "Naturpark seit dem Jahr 2021",
+        "Besteht Ã¼berwiegend aus Kalkstein",
+        "Grenzberg zwischen Kroatien und Bosnien"
+    ],
+    "hu": [
+        "A csÃºcs magassÃ¡ga 1831 mÃ©ter",
+        "2021 Ã³ta termÃ©szetvÃ©delmi park",
+        "TÃºlnyomÃ³rÃ©szt mÃ©szkÅ‘bÅ‘l Ã©pÃ¼l fel",
+        "HatÃ¡rhegy HorvÃ¡torszÃ¡g Ã©s Bosznia kÃ¶zÃ¶tt"
+    ],
+    "ro": [
+        "ÃŽnÄƒlÈ›imea vÃ¢rfului este de 1831 metri",
+        "Parc natural Ã®ncepÃ¢nd cu anul 2021",
+        "Format Ã®n principal din calcar",
+        "Munte de graniÈ›Äƒ Ã®ntre CroaÈ›ia È™i Bosnia"
+    ],
+    "en": [
+        "Peak height is 1,831 meters",
+        "Nature Park status since 2021",
+        "Composed primarily of limestone",
+        "Border mountain between Croatia and Bosnia"
+    ]
+    }
     , image: "/poi-images/croatia-dinara-peak-nature-v2.webp",
 },  {
     id: "croatia-neretva-delta-nature-v2",
@@ -499,17 +793,38 @@ imageHint: "Dinara mountain rocky summit",
     },
 imageHint: "Neretva delta mandarin fields",
     descriptionAdvanced: {
-      de: "Das Neretva-Delta im Süden Kroatiens ist ein einzigartiges Schwemmlandgebiet, das oft als das 'kroatische Kalifornien' bezeichnet wird. Die Neretva fächert sich hier in zahlreiche Arme auf und bildet ein über 12.000 Hektar großes Labyrinth aus Kanälen, Sümpfen und fruchtbaren Feldern. Ursprünglich ein riesiges Sumpfgebiet, wurde das Delta durch großflächige Trockenlegungen in eine bedeutende Agrarregion verwandelt, die heute für ihren Anbau von Mandarinen und anderen Zitrusfrüchten bekannt ist. Es ist zudem eines der wichtigsten Rastgebiete für Zugvögel in Europa und beherbergt über 300 verschiedene Vogelarten. Die traditionelle Lebensweise ist eng mit den 'Lada' genannten Holzbooten verbunden, mit denen die Bewohner bis heute die Kanäle befahren. Das Delta mündet in die Adria und bietet weite Sandstrände sowie ideale Bedingungen für Kitesurfer.",
-      hu: "A Neretva-delta Horvátország déli részén található egyedülálló hordalékos vidék, amelyet gyakran 'horvát Kaliforniaként' is emlegetnek. A Neretva-folyó itt számos ágra szakad, egy több mint 12 000 hektáros labirintust alkotva csatornákból, mocsarakból és termékeny mezőkből. Az eredetileg hatalmas mocsárvidéket jelentős lecsapolásokkal alakították át fontos mezőgazdasági területté, amely ma mandarin- és egyéb citrusültetvényeiről híres. Európa egyik legfontosabb vándorlási útvonala a madarak számára, eddig több mint 300 fajt figyeltek meg itt. A helyiek hagyományos életmódja szorosan kötődik a 'ladja' nevű fahajókhoz, amelyekkel ma is közlekednek a szűk csatornákon. A delta torkolatánál elterülő homokos strandok a kiteszörfösök kedvelt paradicsomává váltak az utóbbi években.",
-      ro: "Delta Neretvei din sudul Croației este o zonă aluvionară unică, supranumită adesea 'California croată' datorită fertilității sale. Râul Neretva se ramifică aici în numeroase brațe, formând un labirint de peste 12.000 de hectare compus din canale, mlaștini și terenuri agricole productive. Inițial o zonă mlăștinoasă vastă, delta a fost transformată prin lucrări de drenaj într-o regiune agricolă majoră, celebră pentru plantațiile sale de mandarine și citrice. Este, de asemenea, unul dintre cele mai importante locuri de popas pentru păsările migratoare din Europa, găzduind peste 300 de specii. Modul tradițional de viață este legat de ambarcațiunile din lemn numite 'ladja', utilizate și astăzi pentru transport pe canale. Delta se varsă în Marea Adriatică, oferind plaje de nisip întinse și condiții ideale pentru kitesurfing.",
-      en: "The Neretva Delta in southern Croatia is a unique alluvial plain often referred to as the 'Croatian California' due to its agricultural productivity. Here, the Neretva River branches into numerous streams, creating a 12,000-hectare labyrinth of channels, marshes, and fertile fields. Originally a vast swamp, the delta was transformed through extensive drainage projects into a vital agricultural hub, now famous for its vast mandarin and citrus groves. It is also one of Europe's most important stopover sites for migratory birds, with over 300 species recorded in the area. The traditional way of life is deeply connected to wooden boats called 'ladja,' which residents still use to navigate the narrow waterways. The delta meets the Adriatic Sea with wide sandy beaches that have become a premier destination for kitesurfers.",
+    
+    "de": "Das Delta der Neretva ist eine fruchtbare Sumpflandschaft im SÃ¼den Kroatiens, die fÃ¼r ihren intensiven Mandarinenanbau und die reiche Vogelwelt bekannt ist.",
+    "hu": "A Neretva-delta egy termÃ©keny mocsÃ¡rvidÃ©k HorvÃ¡torszÃ¡g dÃ©li rÃ©szÃ©n, amely intenzÃ­v mandarintermesztÃ©sÃ©rÅ‘l Ã©s gazdag madÃ¡rvilÃ¡gÃ¡rÃ³l hÃ­res.",
+    "ro": "Delta rÃ¢ului Neretva este o zonÄƒ mlaÈ™tinÄƒ fertilÄƒ Ã®n sudul CroaÈ›iei, renumitÄƒ pentru cultura de mandarine È™i viaÈ›a bogatÄƒ a pÄƒsÄƒrilor.",
+    "en": "The Neretva Delta is a fertile wetland region in southern Croatia, famous for its extensive mandarin groves and diverse ornithological life."
     },
     factsAdvanced: {
-      de: ["Das Delta der Neretva umfasst eine Gesamtfläche von etwa 12.000 Hektar.", "In der Region werden jährlich rund 60.000 Tonnen Mandarinen geerntet.", "Über 310 verschiedene Vogelarten nutzen das Delta als Brut- oder Rastplatz.", "Die jährliche Bootsregatta 'Maraton lađa' findet seit 1998 auf der Neretva statt.", "Das Gebiet ist seit 1993 als international bedeutendes Ramsar-Feuchtgebiet gelistet.", "Der Fluss Neretva legt 22 Kilometer auf kroatischem Staatsgebiet bis zur Mündung zurück."],
-      hu: ["A Neretva-delta teljes területe megközelítőleg 12 000 hektárt tesz ki.", "A régióban évente átlagosan 60 000 tonna mandarint takarítanak be.", "Több mint 310 madárfaj használja a deltát pihenőhelyként vándorlás közben.", "A híres 'Maraton lađa' evezősversenyt 1998 óta minden évben megrendezik.", "A terület 1993 óta szerepel a nemzetközi jelentőségű vizes élőhelyek listáján.", "A Neretva-folyó delta vidéke összesen 12 ágra szakadva éri el a tengert."],
-      ro: ["Delta Neretvei acoperă o suprafață totală de aproximativ 12.000 de hectare.", "Regiunea produce anual în medie 60.000 de tone de mandarine de calitate.", "Peste 310 specii de păsări au fost inventariate în acest habitat umed.", "Regata tradițională 'Maraton lađa' este un eveniment sportiv major din 1998.", "Zona este protejată prin Convenția Ramsar ca sit de importanță internațională.", "Brațul principal al râului Neretva are o lățime de peste 100 de metri în deltă."],
-      en: ["The Neretva Delta spans a total area of approximately 12,000 hectares.", "The region produces around 60,000 tons of mandarins every single year.", "More than 310 bird species have been recorded within the delta ecosystem.", "The 'Maraton lađa' boat race has been held annually on the river since 1998.", "The delta has been a protected Ramsar wetland site since the year 1993.", "The Neretva River travels 225 kilometers before forming this massive delta."],
-    },
+    "de": [
+        "Ãœber 1,4 Millionen MandarinenbÃ¤ume",
+        "Wichtiges ornithologisches Reservat",
+        "Traditionelle Boot-Marathons (Ladja)",
+        "Umfasst ca. 12.000 Hektar FlÃ¤che"
+    ],
+    "hu": [
+        "TÃ¶bb mint 1,4 milliÃ³ mandarinfa",
+        "Fontos madÃ¡rvÃ©delmi rezervÃ¡tum",
+        "HagyomÃ¡nyos Ladja hajÃ³-maratonok",
+        "KiterjedÃ©se kb. 12 000 hektÃ¡r"
+    ],
+    "ro": [
+        "Peste 1,4 milioane de pomi de mandarin",
+        "RezervaÈ›ie ornitologicÄƒ importantÄƒ",
+        "Maratoane tradiÈ›ionale de bÄƒrci (Ladja)",
+        "AcoperÄƒ aproximativ 12.000 de hectare"
+    ],
+    "en": [
+        "Over 1.4 million mandarin trees",
+        "Major ornithological reserve",
+        "Traditional Ladja boat marathons",
+        "Covers about 12,000 hectares of land"
+    ]
+    }
     , image: "/poi-images/croatia-neretva-delta-nature-v2.webp",
 },  {
     id: "croatia-rastoke-falls-nature-v2",
@@ -533,17 +848,38 @@ imageHint: "Neretva delta mandarin fields",
     },
 imageHint: "Rastoke waterfalls and houses",
     descriptionAdvanced: {
-      de: "Rastoke ist ein historisches Dorf am Zusammenfluss der Flüsse Slunjčica und Korana in Zentralkroatien. Es ist bekannt für seine gut erhaltenen Wassermühlen und die zahlreichen Wasserfälle, die entstehen, wenn die Slunjčica über Travertinbarrieren in die tiefere Korana stürzt. Diese geologische Besonderheit hat ein malerisches Ensemble aus traditionellen Holzhäusern geschaffen, die direkt über den Wasserfällen errichtet wurden. Das Dorf wird oft als 'das kleine Plitvice' bezeichnet, da die landschaftliche Ähnlichkeit zu den Plitvicer Seen frappierend ist. Die Mühlen von Rastoke spielten jahrhundertelang eine zentrale Rolle für die Wirtschaft der Region, indem sie Getreide mahlten und Wolle verarbeiteten. Heute steht das Dorf unter Denkmalschutz und ist ein bedeutendes Beispiel für die symbiotische Verbindung von Natur und historischer Architektur in der Kordun-Region.",
-      hu: "Rastoke egy történelmi falu Slunj városában, ahol a Slunjčica-folyó a Korana-folyóba torkollik Közép-Horvátországban. A település híres jól megőrzött vízimalmairól és a számos vízesésről, amelyek akkor keletkeznek, amikor a Slunjčica mésztufa gátakon keresztül zúdul alá a mélyebben fekvő Korana medrébe. Ez a geológiai jelenség hozta létre a hagyományos faházakból álló különleges épületegyüttest, amelyeket közvetlenül a zúgók fölé építettek. A falut gyakran 'kis Plitvicének' is nevezik, mivel tájképi hasonlósága a Plitvicei-tavakkal szembetűnő. Rastoke malmai évszázadokon át meghatározóak voltak a régió gazdaságában a gabonaőrlés és a gyapjúfeldolgozás révén. Napjainkban a falu műemlékvédelem alatt áll, és a természet és a történelmi népi építészet összefonódásának egyik legszebb példája.",
-      ro: "Rastoke este un sat istoric situat la confluența râurilor Slunjčica și Korana, în Croația centrală. Este renumit pentru morile sale de apă bine conservate și pentru numeroasele cascade care se formează pe măsură ce Slunjčica se revarsă peste bariere de travertin în râul Korana. Această configurație geologică unică a permis construirea unui ansamblu pitoresc de case tradiționale din lemn direct deasupra căderilor de apă. Satul este supranumit adesea 'Micul Plitvice' datorită asemănării peisajului cu cel al parcului național vecin. Timp de secole, morile din Rastoke au fost esențiale pentru economia locală, fiind folosite la măcinarea cerealelor și prelucrarea lânii. Astăzi, localitatea este protejată ca monument istoric, fiind un exemplu remarcabil de coexistență între natură și arhitectura populară tradițională.",
-      en: "Rastoke is a historic village located at the confluence of the Slunjčica and Korana rivers in central Croatia. It is famous for its exceptionally well-preserved watermills and the numerous waterfalls created as the Slunjčica flows over travertine barriers into the lower Korana riverbed. This unique geological setting resulted in a picturesque ensemble of traditional wooden houses built directly above the cascading waters. The village is often called 'Small Plitvice' due to its striking scenic resemblance to the famous Plitvice Lakes. For centuries, the mills of Rastoke played a vital role in the regional economy by grinding grain and processing wool. Today, the entire village is a protected cultural monument and serves as a prime example of the symbiotic relationship between nature and historic folk architecture in the Kordun region.",
+    
+    "de": "Rastoke wird oft als die kleinen Plitvicer Seen bezeichnet, wo der Fluss SlunjÄica Ã¼ber zahlreiche Kaskaden und WasserfÃ¤lle in die Korana stÃ¼rzt.",
+    "hu": "RastokÃ©t gyakran a kis Plitvicei-tavakkÃ©nt emlegetik, ahol a SlunjÄica-folyÃ³ szÃ¡mos vÃ­zesÃ©sen keresztÃ¼l zÃºdul a Korana-folyÃ³ba.",
+    "ro": "Rastoke este adesea numit micile lacuri Plitvice, unde rÃ¢ul SlunjÄica se varsÄƒ Ã®n rÃ¢ul Korana prin numeroase cascade È™i repeziÈ™uri.",
+    "en": "Rastoke is often called the 'Little Plitvice Lakes', where the SlunjÄica river flows into the Korana through many cascades and waterfalls."
     },
     factsAdvanced: {
-      de: ["Rastoke beherbergt insgesamt 22 historische Wassermühlen aus dem 17. und 18. Jahrhundert.", "Der Ort liegt am Zusammenfluss der Flüsse Slunjčica und Korana.", "Die Slunjčica bildet in Rastoke 23 Wasserfälle und zahlreiche Stromschnellen.", "Rastoke wurde im Jahr 1969 offiziell unter Denkmalschutz gestellt.", "Der höchste Wasserfall in Rastoke ist der 'Buk' mit einer Höhe von 12 Metern.", "Das Wasser der Slunjčica hat das ganze Jahr über eine Temperatur von etwa 11 Grad."],
-      hu: ["Rastoke területén 22 történelmi vízimalom található a 17-18. századból.", "A falu a Slunjčica és a Korana folyók összefolyásánál alakult ki.", "A Slunjčica folyó összesen 23 vízesést hoz létre a falu területén.", "Rastoke települését 1969-ben nyilvánították kulturális műemlékké.", "A település legmagasabb vízesése a 'Buk', amely 12 méter magas.", "A falu első írásos említése a 17. századból, 1689-ből származik."],
-      ro: ["Rastoke cuprinde 22 de mori de apă istorice datând din secolele XVII și XVIII.", "Satul s-a dezvoltat la punctul de întâlnire al râurilor Slunjčica și Korana.", "Râul Slunjčica creează în această zonă un număr de 23 de cascade distincte.", "Localitatea a fost inclusă pe lista monumentelor culturale în anul 1969.", "Cea mai înaltă cascadă din sat se numește Buk și are o înălțime de 12 metri.", "Primul drum care a legat Rastoke de Viena a fost construit în anul 1775."],
-      en: ["Rastoke contains 22 historic watermills built in the 17th and 18th centuries.", "The village is situated at the exact meeting point of the Slunjčica and Korana rivers.", "A total of 23 waterfalls are formed by the Slunjčica River within the village.", "Rastoke was officially registered as a cultural monument in the year 1969.", "The highest waterfall in the village, named Buk, is 12 meters tall.", "The water flow of the Slunjčica varies between 5 and 40 cubic meters per second."],
-    },
+    "de": [
+        "Gelegen in der Stadt Slunj",
+        "Historische WassermÃ¼hlen am Fluss",
+        "Fluss SlunjÄica ist nur 6,5 km lang",
+        "Zentrum des MÃ¼llerhandwerks"
+    ],
+    "hu": [
+        "Slunj vÃ¡rosa mellett talÃ¡lhatÃ³",
+        "TÃ¶rtÃ©nelmi vÃ­zimalmok a folyÃ³n",
+        "A SlunjÄica-folyÃ³ hossza mindÃ¶ssze 6,5 km",
+        "A molnÃ¡r mestersÃ©g egykori kÃ¶zpontja"
+    ],
+    "ro": [
+        "Situat Ã®n oraÈ™ul Slunj",
+        "Mori de apÄƒ istorice pe rÃ¢u",
+        "RÃ¢ul SlunjÄica are doar 6,5 km lungime",
+        "Centru istoric al morÄƒritului"
+    ],
+    "en": [
+        "Located in the town of Slunj",
+        "Historic watermills along the river",
+        "SlunjÄica river is only 6.5 km long",
+        "Former center of the milling trade"
+    ]
+    }
     , image: "/poi-images/croatia-rastoke-falls-nature-v2.webp",
 },  {
     id: "croatia-dragons-eye-lake-nature-v2",
@@ -567,17 +903,38 @@ imageHint: "Rastoke waterfalls and houses",
     },
 imageHint: "Dragons Eye lake Rogoznica",
     descriptionAdvanced: {
-      de: "Das Drachenauge (Zmajevo oko) ist ein einzigartiges meromiktisches Karstphänomen auf der Gradina-Halbinsel in Rogoznica. Der See ist von bis zu 24 Meter hohen Klippen umgeben und hat eine Fläche von rund 10.000 Quadratmetern bei einer maximalen Tiefe von etwa 15 Metern. Sein Wasser besteht aus verschiedenen Schichten, die sich aufgrund geochemischer Barrieren nicht vermischen, wobei die unteren Schichten oft keinen Sauerstoff enthalten. Alle paar Jahre tritt das Phänomen des 'Kochens' auf, bei dem Schwefelwasserstoff aus dem Sediment aufsteigt und das gesamte Leben im See vorübergehend vernichtet, bevor es sich durch natürliche Regeneration erneuert. Der See ist durch unterirdische Höhlen und Risse im Kalkstein mit dem umliegenden Meer verbunden, was zu Gezeiteneffekten führt. Zahlreiche Legenden ranken sich um das Drachenauge, darunter Geschichten über einen Drachen, der im See lebt und die Umgebung bewacht.",
-      hu: "A Sárkány-szem (Zmajevo oko) egy egyedülálló meromiktikus karsztjelenség a Rogoznica melletti Gradina-félszigeten. A tavat akár 24 méter magas sziklafalak veszik körül, felszíne körülbelül 10 000 négyzetméter, legnagyobb mélysége pedig 15 méter. Vize különböző rétegekből áll, amelyek a geokémiai gátak miatt nem keverednek, az alsó rétegek pedig gyakran teljesen oxigénmentesek. Néhány évente bekövetkezik a 'forrás' néven ismert jelenség, amikor a mederből feltörő kén-hidrogén elszínezi a vizet és átmenetileg elpusztítja a tó élővilágát, amely aztán természetes úton regenerálódik. A tó a mészkő alatti járatokon és repedéseken keresztül összeköttetésben áll a tengerrel, így vizében megfigyelhető az apály és a dagály váltakozása. Számos legenda fűződik a tóhoz, leggyakrabban egy sárkányról mesélnek, amely a mélyén lakik.",
-      ro: "Ochiul Dragonului (Zmajevo oko) este un fenomen carstic meromictic unic situat pe peninsula Gradina din Rogoznica. Lacul este înconjurat de stânci verticale ce ating înălțimi de până la 24 de metri, având o suprafață de aproximativ 10.000 de metri pătrați și o adâncime maximă de 15 metri. Apa sa este structurată în straturi care nu se amestecă din cauza barierelor geochimice, straturile inferioare fiind adesea anoxice. Periodic, are loc fenomenul numit 'fierbere', când hidrogenul sulfurat din sedimente urcă la suprafață, eliminând temporar oxigenul și viața din lac, care ulterior se regenerează natural. Lacul este conectat la mare prin peșteri și fisuri subterane în calcar, prezentând variații ale nivelului apei sub influența mareelor. Există numeroase legende locale despre un dragon care ar locui în adâncurile lacului și ar proteja zona.",
-      en: "Dragon's Eye (Zmajevo oko) is a unique meromictic karst lake phenomenon located on the Gradina peninsula in Rogoznica. Surrounded by vertical cliffs up to 24 meters high, the lake covers an area of roughly 10,000 square meters with a maximum depth of approximately 15 meters. Its water is characterized by distinct layers that do not mix due to geochemical barriers, with lower layers often being completely devoid of oxygen. Every few years, a phenomenon known as 'boiling' occurs when hydrogen sulfide rises from the sediment, temporarily depleting oxygen and resetting the lake's ecology before it naturally regenerates. The lake is connected to the surrounding Adriatic Sea via underground limestone fissures and caves, causing it to experience noticeable tidal changes. Local folklore is rich with legends about a dragon dwelling in the depths and guarding the surrounding territory.",
+    
+    "de": "Das Drachenauge in Rogoznica ist ein kreisrunder Salzsee, der von hohen felsen umgeben ist und ein einzigartiges Ã¶kologisches PhÃ¤nomen darstellt.",
+    "hu": "A RogoznicÃ¡ban talÃ¡lhatÃ³ SÃ¡rkÃ¡ny-szem tÃ³ egy kÃ¶r alakÃº sÃ³s tÃ³, amelyet magas sziklÃ¡k vesznek kÃ¶rÃ¼l, Ã©s egyedÃ¼lÃ¡llÃ³ Ã¶kolÃ³giai jelensÃ©get kÃ©pvisel.",
+    "ro": "Ochiul Dragonului din Rogoznica este un lac sÄƒrat circular Ã®nconjurat de stÃ¢nci Ã®nalte, reprezentÃ¢nd un fenomen ecologic unic.",
+    "en": "The Dragon's Eye Lake in Rogoznica is a circular saltwater lake surrounded by high cliffs, representing a unique ecological phenomenon."
     },
     factsAdvanced: {
-      de: ["Der See Zmajevo oko hat eine Gesamtoberfläche von etwa 10.000 Quadratmetern.", "Die maximale Tiefe des Sees beträgt an seiner tiefsten Stelle 15 Meter.", "Die umgebenden Felswände ragen zwischen 4 und 24 Meter über den Wasserspiegel.", "Geologisch ist der See ein meromiktisches Gewässer mit stabilen Wasserschichten.", "Der See reagiert auf Ebbe und Flut, da er unterirdisch mit dem Meer verbunden ist.", "Das Phänomen des Sauerstoffmangels tritt in unregelmäßigen Abständen alle paar Jahre auf."],
-      hu: ["A Sárkány-szem tó teljes vízfelszíne megközelítőleg 10 000 négyzetméter.", "A tó legmélyebb pontja 15 méter mélyen található az átlagos vízszint alatt.", "A tavat övező sziklafalak magassága 4 és 24 méter között váltakozik.", "A tó vize meromiktikus, azaz a rétegek kémiai összetétele jelentősen eltér.", "A tengerrel való összeköttetése miatt a vízszint követi az árapály ciklust.", "A tó 'forrásakor' a víz színe tejszerűvé válik a felszabaduló gázoktól."],
-      ro: ["Lacul Zmajevo oko ocupă o suprafață totală de aproximativ 10.000 m².", "Adâncimea maximă înregistrată în acest lac carstic este de 15 metri.", "Pereții de piatră care încadrează lacul au înălțimi de până la 24 de metri.", "Este un lac meromictic, având straturi de apă cu proprietăți chimice diferite.", "Variațiile mareelor se fac simțite în lac prin canalele subterane de calcar.", "Legenda spune că îndrăgostiții care se scaldă împreună vor rămâne mereu uniți."],
-      en: ["The total surface area of Dragon's Eye lake is approximately 10,000 square meters.", "The maximum depth of the lake is measured at 15 meters below the surface.", "The cliffs surrounding the lake reach heights between 4 and 24 meters.", "It is scientifically classified as a meromictic lake with permanent stratification.", "The lake exhibits tidal movements due to its underground connection to the sea.", "The periodic 'boiling' event is caused by the release of hydrogen sulfide gas."],
-    },
+    "de": [
+        "Tiefe des Sees betrÃ¤gt ca. 15 Meter",
+        "FlÃ¤che von etwa 10.000 Quadratmetern",
+        "Verbindung zum Meer durch HÃ¶hlen",
+        "Bekannt fÃ¼r den kochenden Effekt"
+    ],
+    "hu": [
+        "A tÃ³ mÃ©lysÃ©ge kÃ¶rÃ¼lbelÃ¼l 15 mÃ©ter",
+        "TerÃ¼lete kb. 10 000 nÃ©gyzetmÃ©ter",
+        "Barlangokon keresztÃ¼l kÃ¶tÅ‘dik a tengerhez",
+        "HÃ­res a vÃ­z forrÃ¡sÃ¡t utÃ¡nzÃ³ jelensÃ©grÅ‘l"
+    ],
+    "ro": [
+        "AdÃ¢ncimea lacului este de circa 15 metri",
+        "SuprafaÈ›Äƒ de aproximativ 10.000 mp",
+        "Conectat la mare prin peÈ™teri",
+        "Cunoscut pentru fenomenul de fierbere"
+    ],
+    "en": [
+        "Lake depth is approximately 15 meters",
+        "Area of about 10,000 square meters",
+        "Connected to the sea via underwater caves",
+        "Famous for the 'boiling water' effect"
+    ]
+    }
     , image: "/poi-images/croatia-dragons-eye-lake-nature-v2.webp",
 },  {
     id: "croatia-zlatni-rat-beach-nature-v2",
@@ -601,17 +958,38 @@ imageHint: "Dragons Eye lake Rogoznica",
     },
 imageHint: "Zlatni Rat beach aerial view",
     descriptionAdvanced: {
-      de: "Zlatni Rat, auch das 'Goldene Horn' genannt, ist einer der bekanntesten Strände Kroatiens und befindet sich in Bol auf der Insel Brač. Die markante, hornförmige Landzunge erstreckt sich etwa 500 Meter weit in den Hvarski-Kanal und besteht aus feinem Kieselstein. Eine Besonderheit des Strandes ist seine ständige Veränderung der Form und Ausrichtung der Spitze, die durch die Einwirkung von Meeresströmungen, Wind und Wellen beeinflusst wird. Der Strand ist von einem dichten Kiefernwald umgeben, in dem sich Reste einer römischen 'villa rustica' befinden, was auf eine frühe Besiedlung hinweist. Aufgrund seiner Lage bietet das Goldene Horn ideale Bedingungen für Wind- und Kitesurfer, während die Ostseite meist ruhiger ist. Das Gebiet steht als bedeutende Landschaft unter Naturschutz und ist ein globales Symbol für den kroatischen Tourismus.",
-      hu: "A Zlatni Rat, vagyis az 'Aranytartó', Horvátország egyik leghíresebb strandja, amely a Brač-szigeten található Bol városában. A különleges, szarv alakú földnyelv körülbelül 500 méter hosszan nyúlik bele a Hvar-csatornába, és finom kavicsokból épül fel. A strand egyik legérdekesebb tulajdonsága, hogy a csúcsa folyamatosan változtatja alakját és irányát a tengeráramlatok, a szél és a hullámzás hatására. A strandot sűrű fenyőerdő veszi körül, amelyben egy ókori római 'villa rustica' maradványai is megtalálhatóak, bizonyítva a terület korai lakottságát. Földrajzi elhelyezkedése miatt a Zlatni Rat ideális feltételeket biztosít a szörfösök és kiteszörfösök számára, míg a keleti oldala általában szélvédettebb. A terület védett természeti táj és a horvát turizmus egyik legismertebb jelképe világszerte.",
-      ro: "Zlatni Rat, supranumit și 'Cornul de Aur', este una dintre cele mai emblematice plaje ale Croației, situată în Bol pe insula Brač. Acest promontoriu distinctiv în formă de corn se extinde pe aproximativ 500 de metri în canalul Hvar și este compus din pietriș fin. O trăsătură remarcabilă a plajei este capacitatea sa de a-și schimba constant forma și orientarea vârfului, în funcție de influența curenților marini, a vântului și a valurilor. Plaja este mărginită de o pădure densă de pini, unde au fost descoperite resturile unei 'villa rustica' romane, atestând locuirea antică a zonei. Datorită poziției sale, Zlatni Rat oferă condiții excelente pentru windsurfing și kitesurfing, în timp ce latura sa estică este de regulă mai calmă. Zona este protejată ca peisaj natural semnificativ și reprezintă un simbol global al turismului croat.",
-      en: "Zlatni Rat, also known as the 'Golden Horn,' is one of Croatia's most iconic beaches, located in Bol on the island of Brač. This distinctive horn-shaped spit extends approximately 500 meters into the Hvar Channel and is composed of fine pebbles. A unique feature of the beach is its ever-changing shape and direction of the tip, which shifts according to the prevailing sea currents, wind, and wave action. The beach is bordered by a lush pine forest that contains the remains of an ancient Roman 'villa rustica,' indicating early historical inhabitation. Due to its unique position, Zlatni Rat provides ideal conditions for windsurfing and kitesurfing, while its eastern side typically remains sheltered and calm. The area is protected as a significant natural landscape and remains a global symbol of Croatian tourism.",
+    
+    "de": "Zlatni Rat auf der Insel BraÄ ist einer der markantesten StrÃ¤nde der Welt, dessen Spitze sich je nach Wind und StrÃ¶mung in der Adria bewegt.",
+    "hu": "A BraÄ-szigeten talÃ¡lhatÃ³ Zlatni Rat a vilÃ¡g egyik legkÃ¼lÃ¶nlegesebb strandja, amelynek csÃºcsa a szÃ©l Ã©s az Ã¡ramlatok hatÃ¡sÃ¡ra vÃ¡ltoztatja irÃ¡nyÃ¡t.",
+    "ro": "Zlatni Rat de pe insula BraÄ este una dintre cele mai distinctive plaje din lume, vÃ¢rful sÄƒu miÈ™cÃ¢ndu-se Ã®n funcÈ›ie de vÃ¢nt È™i curenÈ›i.",
+    "en": "Zlatni Rat on BraÄ Island is one of the world's most distinctive beaches, with its tip constantly shifting due to winds and sea currents."
     },
     factsAdvanced: {
-      de: ["Die Landzunge Zlatni Rat erstreckt sich etwa 500 Meter weit in das Meer.", "Der Strand besteht aus feinen Kieseln, die durch Meeresströmungen abgelagert wurden.", "Die Spitze des Strandes kann sich je nach Windrichtung um mehrere Meter biegen.", "Im angrenzenden Pinienwald befinden sich die Ruinen einer römischen Villa.", "Zlatni Rat wurde bereits 1964 zum geschützten geomorphologischen Naturdenkmal erklärt.", "Das Meer um die Landzunge ist für seine außerordentliche Klarheit bekannt."],
-      hu: ["A Zlatni Rat földnyelve pontosan 500 méter hosszan nyúlik bele az Adriába.", "A strand nem homokból, hanem apró, gömbölyű tengeri kavicsokból áll.", "A földnyelv csúcsa az uralkodó széliránytól függően akár 20 fokkal is elhajolhat.", "A strand közvetlen közelében római kori víztározók maradványai láthatóak.", "A területet 1964-ben nyilvánították védett geomorfológiai képződménnyé.", "A strand körüli víz hőmérséklete nyáron eléri a 24-26 Celsius-fokot."],
-      ro: ["Promontoriul Zlatni Rat are o lungime de aproximativ 500 de metri de la bază.", "Plaja este formată din depozite de pietriș fin, nu din nisip fin.", "Vârful plajei se poate curba spre vest sau est în funcție de vânturile locale.", "Pădurea de pini de pe plajă oferă umbră naturală pe o suprafață extinsă.", "Zona a fost declarată monument al naturii protejat în cursul anului 1964.", "Zlatni Rat este considerată una dintre cele mai bune locații de windsurf din Europa."],
-      en: ["The Zlatni Rat spit extends for a length of approximately 500 meters into the sea.", "The beach is composed of fine, rounded pebbles known locally as 'žala'.", "The orientation of the tip changes visibly based on the currents and wind.", "Remains of a Roman pool and buildings are located within the nearby forest.", "The site has been a protected geomorphological monument since 1964.", "The surrounding waters of the Hvar Channel reach depths of up to 100 meters."],
-    },
+    "de": [
+        "LÃ¤nge der Landzunge etwa 630 m",
+        "Besteht aus feinen Kieselsteinen",
+        "Gilt als Wahrzeichen Kroatiens",
+        "Gelegen in der NÃ¤he von Bol"
+    ],
+    "hu": [
+        "A fÃ¶ldnyelv hossza kb. 630 mÃ©ter",
+        "AprÃ³ kavicsokbÃ³l Ã©pÃ¼l fel",
+        "HorvÃ¡torszÃ¡g egyik fÅ‘ jelkÃ©pe",
+        "Bol vÃ¡rosa mellett talÃ¡lhatÃ³"
+    ],
+    "ro": [
+        "Lungimea limbii de pÄƒmÃ¢nt este de 630 m",
+        "FormatÄƒ din pietriÈ™ fin",
+        "ConsideratÄƒ un simbol al CroaÈ›iei",
+        "SituatÄƒ Ã®n apropierea localitÄƒÈ›ii Bol"
+    ],
+    "en": [
+        "Beach spit is about 630 meters long",
+        "Composed of fine golden pebbles",
+        "Regarded as a symbol of Croatia",
+        "Located near the town of Bol"
+    ]
+    }
     , image: "/poi-images/croatia-zlatni-rat-beach-nature-v2.webp",
 },  {
     id: "croatia-blue-lake-imotski-nature-v2",
@@ -635,17 +1013,38 @@ imageHint: "Zlatni Rat beach aerial view",
     },
 imageHint: "Blue lake Imotski sinkhole",
     descriptionAdvanced: {
-      de: "Das Modro jezero liegt am Rand der Stadt Imotski in einem tiefen Karstkrater und ist eines der faszinierendsten Naturphänomene Kroatiens. Der Wasserspiegel des Sees schwankt im Jahresverlauf extrem, wobei die Tiefe zwischen über 90 Metern im Frühjahr und dem völligen Austrocknen im Spätsommer variieren kann. Wenn der See vollständig austrocknet, nutzen die Einheimischen den flachen Seegrund traditionell für ein Fußballspiel, das ein weltweit einzigartiges gesellschaftliches Ereignis darstellt. Die Umgebung wird von steilen Kalksteinwänden dominiert, die sich bis zu 200 Meter über den Seespiegel erheben und eine natürliche Arena bilden. Das Wasser ist für seine intensive blaue Farbe bekannt, die durch die Reinheit des Wassers und die Lichtreflexion am hellen Kalkstein entsteht. Geologisch entstand der See durch den Einsturz einer riesigen unterirdischen Höhle vor Jahrtausenden. Ein im Jahr 1907 angelegter Serpentinenweg aus Stein ermöglicht den Abstieg zum Wasser, das im Sommer als beliebter Badeort für die Region dient.",
-      hu: "Az Imotski város szélén található Kék-tó (Modro jezero) Horvátország egyik leglátványosabb karsztjelensége, amely egy mély, tölcsér alakú víznyelőben jött létre. A tó vízszintje az év során rendkívül nagy mértékben ingadozik, a csapadékos időszakokban a mélysége meghaladhatja a 90 métert is. Aszályos nyarakon előfordul, hogy a tó teljesen kiszárad, ilyenkor a helyiek évszázados hagyomány szerint futballmérkőzést rendeznek a tó medrének sík, kavicsos alján. A víztükröt körülvevő meredek sziklafalak magassága helyenként eléri a 200 métert, lenyűgöző természeti amfiteátrumot alkotva a város mellett. A tó vize kristálytiszta és jellegzetes mélykék színű, amely a fényvisszaverődés és a karsztvíz tisztasága miatt alakul ki. A geológiai kutatások szerint a meder egy hatalmas barlangrendszer beomlásával jött létre több ezer évvel ezelőtt. A tóhoz vezető köves szerpentinutat 1907-ben alakították ki, amely ma is lehetővé teszi a biztonságos lejutást a fürdőzők számára.",
-      ro: "Lacul Albastru (Modro jezero) este situat la marginea orașului Imotski și reprezintă unul dintre cele mai remarcabile fenomene carstice din Croația, fiind format într-o dolină adâncă. Nivelul apei din lac variază dramatic în funcție de anotimp, adâncimea maximă putând depăși 90 de metri în perioadele ploioase de primăvară. În anii extrem de secetoși, lacul se usucă complet, iar localnicii organizează în mod tradițional un meci de fotbal pe fundul plat al acestuia, un eveniment unic în lume. Pereții de calcar care înconjoară lacul se ridică până la o înălțime de 200 de metri deasupra oglinzii apei, oferind un peisaj natural dramatic. Culoarea apei este de un albastru intens, datorată purității sale și modului în care lumina se reflectă pe fundul alb de calcar. Din punct de vedere geologic, formarea sa este rezultatul prăbușirii tavanului unei uriașe peșteri subterane cu mii de ani în urmă. Accesul la apă se face pe o potecă în serpentină construită în anul 1907, care este folosită intens de turiști și localnici în sezonul estival.",
-      en: "Blue Lake (Modro jezero) is situated on the outskirts of Imotski and stands as one of Croatia's most impressive karst phenomena, located within a deep sinkhole. The water level of the lake fluctuates significantly throughout the year, with depths reaching over 90 meters during wet seasons. In periods of extreme drought, the lake can dry up completely, leading to a local tradition where residents play a football match on its flat, gravelly bottom. The surrounding limestone cliffs rise approximately 200 meters above the water surface, creating a dramatic natural amphitheater that frames the city. The water is renowned for its vibrant blue hue, which is a result of light scattering and the exceptional clarity of the filtered karst water. Geologically, the lake was formed by the collapse of a massive underground cavern system thousands of years ago. A series of stone serpentine paths built in 1907 allows visitors to descend to the water for swimming and recreation during the hot summer months.",
+    
+    "de": "Der Blaue See bei Imotski liegt am Boden einer riesigen Einsturzdoline und ist bekannt fÃ¼r seine intensiv blaue Farbe sowie starke Wasserspiegelschwankungen.",
+    "hu": "Az Imotski melletti KÃ©k-tÃ³ egy hatalmas beomlott karsztvidÃ©ki vÃ­znyelÅ‘ aljÃ¡n talÃ¡lhatÃ³, hÃ­res mÃ©lykÃ©k szÃ­nÃ©rÅ‘l Ã©s ingadozÃ³ vÃ­zszintjÃ©rÅ‘l.",
+    "ro": "Lacul Albastru de lÃ¢ngÄƒ Imotski se aflÄƒ la baza unei doline uriaÈ™e, fiind celebru pentru culoarea sa intensÄƒ È™i variaÈ›iile mari de nivel.",
+    "en": "The Blue Lake near Imotski lies at the bottom of a massive sinkhole and is famous for its vibrant blue color and fluctuating water levels."
     },
     factsAdvanced: {
-      de: ["Die Wassertiefe schwankt saisonal zwischen 0 und über 90 Metern.", "Der See liegt in einer trichterförmigen Doline mit 200m hohen Wänden.", "Im Jahr 1907 wurde der erste steinerne Serpentinenweg zum See gebaut.", "Bei Austrocknung findet das traditionelle Fußballspiel der Einheimischen statt.", "Der See ist Teil des UNESCO Global Geoparks Biokovo-Imotski Seen.", "Die Farbe wechselt je nach Lichteinfall von Hellblau bis tiefem Azur."],
-      hu: ["A tó vízmélysége az évszaktól függően 0 és 90 méter között változik.", "A tómeder falai helyenként 200 méterrel magasodnak a vízszint fölé.", "A tóhoz vezető jellegzetes kanyargós utat 1907-ben építették ki.", "Kiszáradás esetén a helyiek futballpályaként használják a tó alját.", "A terület a Biokovo-Imotski tavak UNESCO Globális Geopark része.", "A meder egy hatalmas, ősi barlang beomlásával jött létre évezredekkel ezelőtt."],
-      ro: ["Adâncimea apei variază sezonier între 0 și peste 90 de metri.", "Lacul este situat într-o dolină cu pereți abrupți de 200 de metri înălțime.", "Poteca în serpentină care duce la lac a fost finalizată în anul 1907.", "Când lacul se usucă, se organizează un meci de fotbal tradițional pe fundul său.", "Face parte din Geoparcul Global UNESCO Biokovo-Lakes Imotski.", "Culoarea albastră este cauzată de reflexia luminii pe rocile calcaroase albe."],
-      en: ["The lake's depth fluctuates between 0 and over 90 meters annually.", "Surrounding limestone walls rise 200 meters above the water level.", "The stone serpentine access path was constructed in the year 1907.", "Locals play a traditional football match when the lake dries up completely.", "It is part of the Biokovo-Imotski Lakes UNESCO Global Geopark.", "The lake was formed by the collapse of a massive prehistoric cave roof."],
-    },
+    "de": [
+        "Kann im Sommer komplett austrocknen",
+        "Tiefe variiert bis zu 100 Meter",
+        "Doline ist Ã¼ber 200 m tief",
+        "Naturdenkmal seit dem Jahr 1964"
+    ],
+    "hu": [
+        "NyÃ¡ron nÃ©ha teljesen kiszÃ¡rad",
+        "A vÃ­zmÃ©lysÃ©g akÃ¡r 100 mÃ©ter is lehet",
+        "A vÃ­znyelÅ‘ mÃ©lysÃ©ge tÃ¶bb mint 200 m",
+        "1964 Ã³ta termÃ©szeti emlÃ©khely"
+    ],
+    "ro": [
+        "Poate seca complet Ã®n timpul verii",
+        "AdÃ¢ncimea variazÄƒ pÃ¢nÄƒ la 100 de metri",
+        "Dolina are peste 200 m adÃ¢ncime",
+        "Monument al naturii din anul 1964"
+    ],
+    "en": [
+        "Can completely dry up in summer",
+        "Water depth varies up to 100 meters",
+        "The sinkhole is over 200 meters deep",
+        "Natural monument status since 1964"
+    ]
+    }
     , image: "/poi-images/croatia-blue-lake-imotski-nature-v2.webp",
 },  {
     id: "croatia-red-lake-imotski-nature-v2",
@@ -669,17 +1068,38 @@ imageHint: "Blue lake Imotski sinkhole",
     },
 imageHint: "Red lake Imotski deep hole",
     descriptionAdvanced: {
-      de: "Das Crveno jezero, oder Rote See, in der Nähe von Imotski gilt als einer der tiefsten wassergefüllten Karstschlünde der Welt. Er befindet sich in einer gewaltigen Doline, deren Gesamttiefe vom oberen Rand bis zum Boden etwa 530 Meter beträgt, wobei die Wassersäule oft über 280 Meter tief ist. Seinen Namen verdankt der See den rötlich schimmernden Kalksteinwänden, die durch Eisenoxide gefärbt sind und fast vertikal in die Tiefe stürzen. Da der Boden des Sees unter dem Meeresspiegel liegt, handelt es sich um eine Kryptodepression, was ihn zu einem wichtigen Forschungsgebiet für Hydrogeologen macht. Der See ist aufgrund der extrem steilen und gefährlichen Felswände für normale Besucher unzugänglich, kann aber von einer Aussichtsplattform am Rand bewundert werden. Wissenschaftliche Expeditionen haben in der Tiefe einzigartige endemische Fischarten wie den Delminichthys adspersus entdeckt. Die Entstehung des Schlundes wird auf den Einsturz eines riesigen unterirdischen Höhlensystems zurückgeführt, das durch tektonische Aktivitäten begünstigt wurde.",
-      hu: "Az Imotski közelében található Vörös-tó (Crveno jezero) a világ egyik legmélyebb vízzel telt karszt víznyelője, amely lenyűgöző méreteivel és vöröses szikláival emelkedik ki a tájból. A hatalmas dolina teljes mélysége a peremétől az aljáig körülbelül 530 méter, amelyből a vízoszlop magassága gyakran meghaladja a 280 métert. Nevét a tó körüli meredek, szinte függőleges sziklafalakról kapta, amelyek a bennük található vas-oxidok miatt kaptak jellegzetes vörös árnyalatot. Mivel a tó feneke a tengerszint alatt helyezkedik el, ez egy kriptodepresszió, ami különleges hidrogeológiai jelentőséget kölcsönöz a helyszínnek. A tó megközelítése az extrém meredek és instabil falak miatt gyakorlatilag lehetetlen, így a látogatók csak a peremén kialakított kilátóból csodálhatják meg a mélységet. A kutatók a tó mélyén olyan endemikus halfajokat azonosítottak, mint a foltos gömbhal, amely alkalmazkodott a különleges fényviszonyokhoz. A hatalmas kürtő kialakulását egy óriási földalatti barlangrendszer beomlásának tulajdonítják a geológusok.",
-      ro: "Lacul Roșu (Crveno jezero) de lângă Imotski este considerat una dintre cele mai adânci doline umplute cu apă din lume, reprezentând un monument al naturii de o rară frumusețe. Adâncimea totală a dolinei, măsurată de la buza superioară până la fund, este de aproximativ 530 de metri, coloana de apă având în mod constant peste 280 de metri adâncime. Numele său provine de la pereții de calcar de culoare roșiatică, colorați de oxizii de fier, care coboară aproape vertical spre suprafața apei. Deoarece fundul lacului se află sub nivelul mării, acesta este clasificat ca o criptodepresiune, fiind un obiectiv esențial pentru studiile hidrologice internaționale. Din cauza pantelor extrem de abrupte, accesul la apă este imposibil pentru publicul larg, lacul putând fi observat doar de la punctele de belvedere special amenajate pe marginea prăpastiei. Expedițiile științifice au descoperit aici specii endemice de pești, adaptate la ecosistemul izolat al acestui imens puț natural. Formarea sa este legată de prăbușirea unei camere magmatice sau a unui sistem de peșteri gigantice în perioadele geologice trecute.",
-      en: "Red Lake (Crveno jezero) near Imotski is globally recognized as one of the deepest water-filled karst sinkholes, offering a breathtaking display of geological forces. The total depth of the sinkhole from the surrounding rim to the very bottom is approximately 530 meters, with the water column itself often exceeding 280 meters in depth. It derives its name from the distinctive reddish-brown color of the surrounding limestone cliffs, which are tinted by iron oxides present in the rock. As the bottom of the lake lies below sea level, it is categorized as a cryptodepression, making it a site of significant interest for hydrogeological research. Due to the nearly vertical and dangerous cliffs, the lake is inaccessible to the general public, though it can be viewed from a safe observation platform on the rim. Scientific explorations have identified unique endemic species such as the Imotski gudgeon (Delminichthys adspersus) living within its depths. The sinkhole was likely formed by the collapse of an enormous underground cavern system triggered by tectonic movements.",
+    
+    "de": "Der Rote See ist eine der tiefsten Dolinen der Welt, benannt nach den rÃ¶tlichen Felsen, die steil in den Karstsee abfallen und fast nie austrocknen.",
+    "hu": "A VÃ¶rÃ¶s-tÃ³ a vilÃ¡g egyik legmÃ©lyebb vÃ­znyelÅ‘je, amelyet a vÃ¶rÃ¶ses sziklÃ¡krÃ³l neveztek el, amelyek meredeken szakadnak a karszttÃ³ba.",
+    "ro": "Lacul RoÈ™u este una dintre cele mai adÃ¢nci doline din lume, numitÄƒ dupÄƒ stÃ¢ncile roÈ™iatice care coboarÄƒ abrupt Ã®n lacul carstic.",
+    "en": "Red Lake is one of the deepest sinkholes in the world, named after the reddish cliffs that drop steeply into the permanent karst lake."
     },
     factsAdvanced: {
-      de: ["Die Gesamttiefe der Doline beträgt beeindruckende 530 Meter.", "Der Seespiegel liegt oft 240 Meter unter dem oberen Rand der Doline.", "Die maximale Wassertiefe erreicht bis zu 287 Meter.", "Der Boden des Sees liegt etwa 6 Meter unter dem Meeresspiegel.", "Die rötliche Farbe der Felsen entsteht durch hohen Eisenoxidgehalt.", "Im See lebt der endemische Fisch Delminichthys adspersus."],
-      hu: ["A dolina teljes mélysége a peremtől az aljáig 530 méter.", "A tó vizének mélysége elérheti a 287 métert is.", "A tó feneke 6 méterrel a tengerszint alatt található (kriptodepresszió).", "A vöröses színt a kőzetben található vas-oxidok okozzák.", "A tóban él a ritka, endemikus Delminichthys adspersus halfaj.", "A tó fala szinte függőleges, megközelítése alpintechnikai felszerelést igényel."],
-      ro: ["Adâncimea totală a prăpastiei este de aproximativ 530 de metri.", "Coloana de apă are o adâncime maximă de circa 287 de metri.", "Fundul lacului este situat la 6 metri sub nivelul mării.", "Culoarea roșie a pereților este rezultatul oxidării fierului din calcar.", "Lacul găzduiește specia de pește endemică Delminichthys adspersus.", "Este considerată a treia cea mai mare dolină din lume ca volum."],
-      en: ["The total depth of the sinkhole reaches a staggering 530 meters.", "Maximum water depth has been measured at approximately 287 meters.", "The bottom of the lake is 6 meters below sea level (cryptodepression).", "Reddish cliff colors are caused by a high concentration of iron oxides.", "It is home to the endemic spotted minnow (Delminichthys adspersus).", "It is one of the largest and deepest karst sinkholes on Earth."],
-    },
+    "de": [
+        "Gesamttiefe der Doline ca. 528 m",
+        "Wasserspiegel liegt weit unter Boden",
+        "Wassertiefe erreicht bis zu 287 m",
+        "Gelegen in der NÃ¤he des Blauen Sees"
+    ],
+    "hu": [
+        "A vÃ­znyelÅ‘ teljes mÃ©lysÃ©ge kb. 528 m",
+        "A vÃ­zszint mÃ©lyen a talajszint alatt van",
+        "A vÃ­z mÃ©lysÃ©ge elÃ©rheti a 287 mÃ©tert",
+        "A KÃ©k-tÃ³ kÃ¶zvetlen szomszÃ©dsÃ¡gÃ¡ban"
+    ],
+    "ro": [
+        "AdÃ¢ncimea totalÄƒ a dolinei este de 528 m",
+        "Nivelul apei este mult sub sol",
+        "AdÃ¢ncimea apei atinge 287 metri",
+        "Situat Ã®n apropierea Lacului Albastru"
+    ],
+    "en": [
+        "Total depth of the sinkhole is 528 m",
+        "Water level is far below ground level",
+        "Water depth reaches up to 287 meters",
+        "Located very close to the Blue Lake"
+    ]
+    }
     , image: "/poi-images/croatia-red-lake-imotski-nature-v2.webp",
 },  {
     id: "croatia-blue-cave-bisevo-nature-v2",
@@ -702,17 +1122,38 @@ imageHint: "Red lake Imotski deep hole",
     },
     imageHint: "Blue Cave Bisevo island sunlight underwater",
     descriptionAdvanced: {
-      de: "Die Blaue Grotte auf der Insel Biševo ist eine der bekanntesten Sehenswürdigkeiten an der kroatischen Adriaküste und berühmt für ihr einzigartiges Lichtphänomen. Das Höhlensystem wurde 1884 vom österreichischen Maler Eugen von Ransonnet-Villez entdeckt, der den schmalen Zugang mit Dynamit erweitern ließ, um Booten die Einfahrt zu ermöglichen. Zwischen 11:00 und 12:00 Uhr mittags dringen Sonnenstrahlen durch eine natürliche Unterwasseröffnung in die Grotte ein und werden vom weißen Meeresboden reflektiert. Dieser Effekt taucht das gesamte Innere der Höhle in ein intensives, leuchtendes Blau, während Gegenstände im Wasser silbrig glänzen. Die Höhle hat zwei Öffnungen: eine kleinere für Boote und eine größere, tiefere Öffnung unter dem Meeresspiegel, durch die das Sonnenlicht eintritt. Die Grotte ist 24 Meter lang, bis zu 12 Meter tief und erhebt sich bis zu 15 Meter über den Meeresspiegel. Seit 1951 ist die Blaue Grotte als geschütztes Geomorphologisches Naturdenkmal eingestuft.",
-      hu: "A Biševo-szigeten található Kék-barlang (Modra špilja) az Adriai-tenger egyik legnépszerűbb és legkülönlegesebb természeti látványossága, amely a benne tapasztalható fényhatásról híres. A barlangot 1884-ben fedezte fel Eugen von Ransonnet-Villez osztrák festő és kutató, aki javasolta a bejárat kiszélesítését, hogy a látogatók csónakkal is bejuthassanak. A déli órákban a napfény egy természetes víz alatti nyíláson keresztül hatol be a barlangba, majd a fehér homokos aljzatról visszaverődve intenzív égszínkék fénnyel árasztja el a belső teret. Ezzel egy időben a víz alatti tárgyak ezüstös csillogást kapnak, ami varázslatos látványt nyújt a kristálytiszta vízben. A barlang hossza 24 méter, magassága pedig helyenként eléri a 15 métert a vízszint felett. Mivel a barlang bejárata alacsony, csak kis csónakokkal és nyugodt tenger esetén látogatható. 1951 óta geomorfológiai természeti emlékként áll védelem alatt, korlátozott látogatószám mellett.",
-      ro: "Grota Albastră de pe insula Biševo este unul dintre cele mai faimoase obiective naturale din Marea Adriatică, celebră pentru fenomenul său luminos spectaculos. Această peșteră marină a fost descrisă pentru prima dată în 1884 de către pictorul austriac Eugen von Ransonnet-Villez, care a facilitat accesul bărcilor prin lărgirea intrării cu dinamită. Între orele 11:00 și 12:00, lumina soarelui pătrunde printr-o deschidere subacvatică naturală și este reflectată de fundul alb al mării, creând o lumină albastră intensă în interior. Obiectele aflate sub apă capătă o nuanță argintie strălucitoare datorită indicelui de refracție al luminii în mediul acvatic pur. Peștera are o lungime de 24 de metri și o înălțime de până la 15 metri deasupra nivelului mării, oferind un spațiu vast sub bolta de calcar. Accesul este permis doar cu bărci mici de agrement și depinde în totalitate de condițiile meteorologice și de starea mării. Din 1951, Grota Albastră este protejată prin lege ca monument geomorfologic al naturii.",
-      en: "The Blue Cave on Biševo Island is one of the most iconic natural attractions on the Croatian Adriatic coast, world-renowned for its mesmerizing light effects. The cave was first introduced to the public in 1884 by Baron Eugen von Ransonnet-Villez, who commissioned the widening of the narrow natural entrance to allow small boats to enter. Between 11:00 AM and 12:00 PM, sunlight passes through a submerged natural opening and reflects off the white limestone floor, illuminating the cave in a brilliant azure glow. This phenomenon also gives submerged objects a shimmering silver appearance, creating a surreal and magical atmosphere inside the cavern. The cave is approximately 24 meters long and 10 to 12 meters deep, with its ceiling reaching up to 15 meters above the sea surface. Access is strictly controlled and only possible by small professional boats during calm sea conditions. Since 1951, the Blue Cave has been designated as a protected geomorphological monument of nature.",
+    
+    "de": "Die Blaue Grotte auf der Insel BiÅ¡evo ist ein weltweit bekanntes Naturwunder, wo das Sonnenlicht durch eine UnterwasserÃ¶ffnung ein magisches blaues Licht erzeugt.",
+    "hu": "A BiÅ¡evo-szigeten talÃ¡lhatÃ³ KÃ©k-barlang egy vilÃ¡gszerte ismert termÃ©szeti csoda, ahol a napfÃ©ny egy vÃ­z alatti nyÃ­lÃ¡son Ã¡t varÃ¡zslatos kÃ©k fÃ©nyt hoz lÃ©tre.",
+    "ro": "PeÈ™tera AlbastrÄƒ de pe insula BiÅ¡evo este o minune naturalÄƒ faimoasÄƒ Ã®n Ã®ntreaga lume, unde lumina soarelui creeazÄƒ o luminÄƒ albastrÄƒ magicÄƒ.",
+    "en": "The Blue Cave on BiÅ¡evo Island is a world-famous natural wonder where sunlight passing through an underwater opening creates a magical blue light."
     },
     factsAdvanced: {
-      de: ["Entdeckt im Jahr 1884 vom österreichischen Maler Eugen von Ransonnet.", "Das Lichtphänomen ist zwischen 11:00 und 12:00 Uhr am stärksten.", "Die Grotte ist 24 Meter lang und bis zu 15 Meter hoch.", "Ein natürliches Unterwasserfenster lässt das Sonnenlicht einfallen.", "Der Zugang wurde mit Dynamit auf 1,5 Meter Höhe erweitert.", "Seit 1951 ist die Höhle ein geschütztes geomorphologisches Denkmal."],
-      hu: ["1884-ben fedezte fel Eugen von Ransonnet-Villez osztrák kutató.", "A kék fényhatás délelőtt 11 és dél között a legintenzívebb.", "A barlang hossza 24 méter, belső magassága 15 méter.", "A napfény egy víz alatti kapun keresztül világítja meg a belső teret.", "A csónakok számára fenntartott bejárat mindössze 1,5 méter magas.", "1951 óta védett geomorfológiai természeti emlék."],
-      ro: ["Descoperită în 1884 de baronul și pictorul Eugen von Ransonnet.", "Intervalul optim de vizitare este între orele 11:00 și 12:00.", "Peștera are o lungime de 24 de metri și o lățime de 10 metri.", "Lumina soarelui intră printr-o deschidere naturală subacvatică.", "Accesul bărcilor a fost creat artificial prin explozii controlate.", "Este protejată ca monument al naturii încă din anul 1951."],
-      en: ["Discovered and described in 1884 by Eugen von Ransonnet-Villez.", "The best light effect occurs daily between 11:00 AM and noon.", "The cave measures 24 meters in length and 15 meters in height.", "A submerged natural opening acts as the source of light reflection.", "The current boat entrance is only 1.5 meters high and 2.5 meters wide.", "It has been a protected geomorphological monument since 1951."],
-    },
+    "de": [
+        "Grotte ist etwa 24 Meter lang",
+        "Beste Besuchszeit zwischen 11-12 Uhr",
+        "Eingang wurde 1884 kÃ¼nstlich erweitert",
+        "Gelegen in der Bucht Balun"
+    ],
+    "hu": [
+        "A barlang hossza kb. 24 mÃ©ter",
+        "A legjobb lÃ¡togatÃ¡si idÅ‘ 11 Ã©s 12 Ã³ra kÃ¶zt",
+        "BejÃ¡ratÃ¡t 1884-ben mestersÃ©gesen tÃ¡gÃ­tottÃ¡k",
+        "A Balun-Ã¶bÃ¶lben talÃ¡lhatÃ³"
+    ],
+    "ro": [
+        "PeÈ™tera are aproximativ 24 de metri lungime",
+        "Cea mai bunÄƒ orÄƒ de vizitÄƒ este 11-12",
+        "Intrarea a fost lÄƒrgitÄƒ artificial Ã®n 1884",
+        "SituatÄƒ Ã®n golful Balun"
+    ],
+    "en": [
+        "Cave is approximately 24 meters long",
+        "Best visiting time is between 11 AM - 12 PM",
+        "Entrance was artificially enlarged in 1884",
+        "Located in Balun Bay"
+    ]
+    }
   },
   {
     id: "croatia-klek-mountain-nature-v2",
@@ -735,17 +1176,38 @@ imageHint: "Red lake Imotski deep hole",
     },
 imageHint: "Klek mountain peak sleeping giant shape",
     descriptionAdvanced: {
-      de: "Der Berg Klek liegt am östlichen Rand des Velika Kapela-Massivs in der Nähe von Ogulin und ist eines der markantesten Wahrzeichen Kroatiens. Mit seinem charakteristischen Profil, das aus der Ferne an einen schlafenden Riesen erinnert, erreicht der Gipfel eine Höhe von 1181 Metern. Klek gilt als die Wiege des kroatischen Bergsteigens, da hier im Jahr 1874 die Initiative zur Gründung des ersten Wandervereins des Landes entstand. Die 200 Meter hohen vertikalen Kalksteinwände am Gipfel bieten hervorragende Bedingungen für Kletterer und Wanderer gleichermaßen. Der Berg ist tief in der lokalen Folklore verwurzelt; Legenden besagen, dass sich auf dem Gipfel in stürmischen Nächten Hexen und Geister aus aller Welt versammeln. Geologisch besteht der Klek aus Kalkstein und Dolomit, was zu interessanten Karstformationen und einer vielfältigen Flora führt. Vom Gipfel aus bietet sich ein weiter Panoramablick über Ogulin, das Dobra-Tal und die umliegenden Gebirgszüge des Gorski Kotar.",
-      hu: "A Klek-hegy a Velika Kapela-hegység keleti peremén, Ogulin városa mellett található, és Horvátország egyik legikonikusabb hegycsúcsa. A 1181 méter magas hegy jellegzetes profilja távolról egy háton fekvő, alvó óriásra emlékeztet, ahol a főcsúcs az óriás fejét, a sziklás gerinc pedig a lábait alkotja. A Klek a horvát hegymászás bölcsőjeként ismert, mivel 1874-ben itt született meg a döntés az első horvát hegymászó egyesület megalapításáról. A hegycsúcsot körülvevő 200 méter magas, függőleges sziklafalak a sziklamászók kedvelt gyakorlóhelyei közé tartoznak. A helyi néphagyomány szerint a Klek a boszorkányok találkozóhelye, akik viharos éjszakákon a világ minden tájáról ide sereglenek. Geológiai szempontból karsztos mészkő és dolomit alkotja, amely különleges növénytársulásoknak ad otthont a sziklás felszínen. A tetőről lenyűgöző panoráma nyílik Ogulinra, a Dobra-folyó völgyére és a távolabbi Gorski Kotar vonulataira.",
-      ro: "Muntele Klek este situat la marginea estică a masivului Velika Kapela, lângă orașul Ogulin, fiind unul dintre cele mai recognoscibile vârfuri muntoase din Croația. Cu o înălțime de 1181 de metri, muntele are un profil distinctiv care seamănă de la distanță cu un uriaș adormit pe spate, vârful principal reprezentând capul acestuia. Klek este considerat leagănul alpinismului croat, deoarece aici a fost fondată prima asociație de profil din țară în anul 1874. Pereții de calcar verticali, care se ridică cu 200 de metri deasupra bazei stâncoase, sunt locuri ideale pentru escaladă și antrenamente montane. Muntele este înconjurat de numeroase legende locale, cea mai cunoscută fiind cea a vrăjitoarelor care se adună pe vârf în nopțile furtunoase. Din punct de vedere geologic, este format din roci calcaroase și dolomite, susținând o floră bogată cu numeroase specii rare. De pe platoul de vârf se deschide o vedere panoramică spectaculoasă asupra văii râului Dobra și a munților din regiunea Gorski Kotar.",
-      en: "Klek Mountain is located on the eastern edge of the Velika Kapela massif near the town of Ogulin and is one of Croatia's most striking mountain peaks. Standing at 1,181 meters above sea level, its unique profile resembles a sleeping giant lying on its back, with the main summit forming the giant's head. Klek is historically significant as the birthplace of Croatian mountaineering, where the idea for the first national mountaineering association was conceived in 1874. The vertical limestone cliffs of the summit plateau rise 200 meters, making it a premier destination for both hikers and rock climbers. The mountain is steep in folklore, famous for the legend of the Klek witches who supposedly gather on its summit during stormy nights. Geologically composed of limestone and dolomite, the mountain supports diverse mountain flora and interesting karst features. The summit offers a commanding panoramic view over the town of Ogulin, the Dobra River valley, and the Gorski Kotar mountain range.",
+    
+    "de": "Der Berg Klek bei Ogulin ist bekannt fÃ¼r seine markante Form, die an einen schlafenden Riesen erinnert, und gilt als Geburtsort des kroatischen Bergsteigens.",
+    "hu": "Az Ogulin melletti Klek-hegy jellegzetes alakjÃ¡rÃ³l ismert, amely egy alvÃ³ Ã³riÃ¡sra emlÃ©keztet, Ã©s a horvÃ¡t hegymÃ¡szÃ¡s szÃ¼lÅ‘helyÃ©nek tekintik.",
+    "ro": "Muntele Klek de lÃ¢ngÄƒ Ogulin este cunoscut pentru forma sa distinctivÄƒ care seamÄƒnÄƒ cu un uriaÈ™ adormit, fiind considerat locul de naÈ™tere al alpinismului croat.",
+    "en": "Klek Mountain near Ogulin is known for its distinctive shape resembling a sleeping giant and is regarded as the birthplace of Croatian mountaineering."
     },
     factsAdvanced: {
-      de: ["Die Gipfelhöhe des Klek beträgt 1181 Meter über dem Meeresspiegel.", "Der Berg gilt seit 1874 als Geburtsort des kroatischen Alpinismus.", "Die vertikalen Felswände am Gipfel sind etwa 200 Meter hoch.", "Legenden bezeichnen den Berg als den Haupttreffpunkt für Hexen.", "Der Berg gehört zum Gebirgszug der Velika Kapela.", "Die markante Form erinnert an die Silhouette eines schlafenden Riesen."],
-      hu: ["A Klek-hegy legmagasabb pontja 1181 méteres magasságban van.", "1874-ben itt alapították meg a Horvát Hegymászó Szövetséget.", "A csúcs alatti függőleges mészkőfalak 200 méter magasak.", "A néphit szerint a hegy a boszorkányok éjszakai gyülekezőhelye.", "A hegy formája egy 12 km hosszú fekvő óriásra emlékeztet.", "Az első szervezett túra a hegyre már 1838-ban megvalósult."],
-      ro: ["Vârful principal al muntelui atinge altitudinea de 1181 de metri.", "Este locul unde s-a născut alpinismul croat oficial în anul 1874.", "Pereții de stâncă verticali de pe vârf au o înălțime de 200 de metri.", "Conform mitologiei locale, vârful este un loc de întâlnire al vrăjitoarelor.", "Muntele face parte din sistemul montan al Alpilor Dinarici.", "Forma sa distinctivă este vizibilă de la zeci de kilometri distanță."],
-      en: ["The highest point of Klek Mountain reaches 1,181 meters.", "It was the founding site of the Croatian Mountaineering Society in 1874.", "The summit limestone cliffs rise 200 meters from their base.", "Folklore tells that the mountain is a meeting place for witches.", "The mountain's silhouette resembles a giant lying on its back.", "It is geologically composed of Jurassic limestone and dolomite."],
-    },
+    "de": [
+        "GipfelhÃ¶he betrÃ¤gt 1182 Meter",
+        "Markante 200 m hohe Felswand",
+        "Zentrum zahlreicher Hexensagen",
+        "Schutzgebiet seit dem Jahr 1971"
+    ],
+    "hu": [
+        "A csÃºcs magassÃ¡ga 1182 mÃ©ter",
+        "LÃ¡tvÃ¡nyos 200 m magas sziklafal",
+        "SzÃ¡mos boszorkÃ¡ny-legenda helyszÃ­ne",
+        "1971 Ã³ta vÃ©dett terÃ¼let"
+    ],
+    "ro": [
+        "ÃŽnÄƒlÈ›imea vÃ¢rfului este de 1182 metri",
+        "Perete de stÃ¢ncÄƒ spectaculos de 200 m",
+        "Centrul multor legende cu vrÄƒjitoare",
+        "ZonÄƒ protejatÄƒ din anul 1971"
+    ],
+    "en": [
+        "Peak height is 1,182 meters",
+        "Striking 200m high vertical rock face",
+        "Center of many local witch legends",
+        "Protected landscape since 1971"
+    ]
+    }
     , image: "/poi-images/croatia-klek-mountain-nature-v2.webp",
 },  {
     id: "croatia-krupa-river-nature-v2",
@@ -768,17 +1230,38 @@ imageHint: "Klek mountain peak sleeping giant shape",
     },
 imageHint: "Krupa river canyon Kudin most bridge",
     descriptionAdvanced: {
-      de: "Die Krupa ist ein kleiner, aber außergewöhnlich schöner Nebenfluss der Zrmanja im südlichen Teil des Velebit-Gebirges. Auf einer Länge von nur 7 Kilometern bietet der Fluss eine spektakuläre Landschaft mit insgesamt 19 Wasserfällen und zahlreichen Kaskaden. Eines der bedeutendsten Bauwerke am Fluss ist die Kudin most, eine Steinbrücke mit 12 Bögen, die Ende des 18. Jahrhunderts von einem verliebten Einheimischen erbaut wurde, um zu seiner Geliebten auf der anderen Seite zu gelangen. Der Fluss fließt durch einen tiefen Canyon, dessen Wände steil aufragend sind und eine beeindruckende Kulisse für Wanderer bieten. Das Wasser der Krupa ist kristallklar und von höchster Qualität, was die Bildung von Travertinbarrieren ermöglicht, die die charakteristischen Wasserfälle formen. In der Nähe der Quelle befindet sich das Kloster Krupa, ein serbisch-orthodoxes Kloster aus dem Jahr 1317, das für seine wertvollen Ikonen und Fresken bekannt ist. Die unberührte Natur entlang des Flusses beherbergt eine seltene Flora und Fauna und ist ein Rückzugsort für Erholungssuchende.",
-      hu: "A Krupa-folyó a Zrmanja egyik legszebb és legtisztább mellékfolyója a Velebit-hegység déli lábainál. Mindössze 7 kilométeres hossza ellenére a folyó rendkívül látványos, összesen 19 vízeséssel és számtalan zúgóval tarkított szakaszon halad keresztül. A folyó leghíresebb építménye a Kudin most (Kuda hídja), egy 12 ívből álló kőhíd, amelyet a 18. század végén épített egy helyi fiatalember, hogy átjuthasson kedveséhez a túlsó partra. A folyó egy mély kanyonban fut, amelynek meredek falai és dús növényzete lenyűgöző látványt nyújtanak a túrázók számára. A Krupa vize ivóvíz tisztaságú, ami elősegíti az édesvízi mésztufa gátak kialakulását, melyek a folyó jellegzetes lépcsőzetes vízeséseit hozzák létre. A folyó forrásvidékén található a Krupa-kolostor, amelyet 1317-ben alapítottak, és fontos vallási, valamint kulturális központ értékes freskókkal. Az érintetlen természeti környezet számos ritka növény- és állatfajnak ad otthont, ideális helyszínt biztosítva a természetjárás kedvelőinek.",
-      ro: "Râul Krupa este un afluent scurt, dar excepțional de frumos al râului Zrmanja, situat în partea de sud a munților Velebit. Pe parcursul celor doar 7 kilometri lungime, râul formează un peisaj spectaculos compus din 19 cascade și numeroase praguri de travertin. Cel mai faimos monument de pe râu este Kudin most (Podul lui Kuda), un pod de piatră cu 12 arcade construit la sfârșitul secolului al XVIII-lea de un localnic pentru a ajunge la iubita sa de pe celălalt mal. Râul curge printr-un canion adânc, cu pereți abrupți de calcar care oferă trasee de drumeție impresionante cu vederi panoramice. Apa râului Krupa este de o puritate remarcabilă, fiind una dintre cele mai curate ape curgătoare din regiune, favorizând biodiversitatea locală. Lângă izvoarele sale se află Mănăstirea Krupa, un lăcaș ortodox sârb construit în 1317, renumit pentru tezaurul său cultural și frescele vechi. Această zonă este protejată ca parte a Parcului Natural Velebit, conservând un ecosistem fluvial unic și nealterat de intervenția umană modernă.",
-      en: "The Krupa River is a short but remarkably beautiful tributary of the Zrmanja River, located at the southern foothills of the Velebit mountain range. Despite being only 7 kilometers long, the river features a spectacular landscape with 19 waterfalls and numerous tufa cascades. Its most famous landmark is Kudin most (Kuda's Bridge), a historic dry-stone bridge with 12 arches built in the late 18th century by a local man named Kuda to reach his beloved on the opposite bank. The river winds through a deep, dramatic canyon characterized by steep cliffs and lush vegetation, providing breathtaking views for hikers. The water of the Krupa is crystal clear and of drinking quality, which allows for the continuous formation of travertine barriers that create its signature stepped waterfalls. Near the river's source lies the Krupa Monastery, founded in 1317, which stands as a significant cultural and religious monument with ancient frescoes. This untouched natural area is part of the Velebit Nature Park and offers a sanctuary for diverse wildlife and rare plant species.",
+    
+    "de": "Die Krupa ist ein kleiner, aber auÃŸergewÃ¶hnlich schÃ¶ner Nebenfluss der Zrmanja, berÃ¼hmt fÃ¼r seine Kaskaden und die historische SteinbrÃ¼cke Kudin Most.",
+    "hu": "A Krupa a Zrmanja kis, de rendkÃ­vÃ¼l szÃ©p mellÃ©kfolyÃ³ja, amely mÃ©sztufa kaskÃ¡djairÃ³l Ã©s a tÃ¶rtÃ©nelmi Kudin-hÃ­drÃ³l vÃ¡lt hÃ­ressÃ©.",
+    "ro": "Krupa este un afluent mic, dar excepÈ›ional de frumos al rÃ¢ului Zrmanja, faimos pentru cascadele sale È™i podul istoric din piatrÄƒ Kudin Most.",
+    "en": "The Krupa is a small but exceptionally beautiful tributary of the Zrmanja, famous for its tufa cascades and the historic stone bridge Kudin Most."
     },
     factsAdvanced: {
-      de: ["Der Fluss ist nur 7 Kilometer lang, verfügt aber über 19 Wasserfälle.", "Die Steinbrücke Kudin most hat 12 Bögen und stammt aus dem 18. Jahrhundert.", "Das orthodoxe Kloster Krupa am Oberlauf wurde bereits 1317 gegründet.", "Der Fluss ist ein wichtiger Zufluss der Zrmanja im südlichen Velebit.", "Das Wasser gilt als so rein, dass es direkt getrunken werden kann.", "Entlang des Flusses befinden sich zahlreiche Mühlenruinen aus Stein."],
-      hu: ["A folyó teljes hossza mindössze 7 kilométer a forrástól a torkolatig.", "A Krupa medrében 19 nagyobb vízesés és számtalan zúgó található.", "A Kudin most nevű kőhíd 12 ívből áll, és szárazon rakott kőből készült.", "A folyó menti Krupa-kolostort 1317-ben, II. Milutin király idején alapították.", "A folyó a Velebit Natúrpark területén folyik keresztül.", "A Kuda-híd megépítése két hónapig tartott a helyi legenda szerint."],
-      ro: ["Râul are o lungime totală de 7 km și include 19 cascade majore.", "Podul Kudin most este construit din piatră fără mortar și are 12 arcuri.", "Mănăstirea Krupa din apropiere datează din anul 1317.", "Krupa este cel mai mare și cel mai important afluent al râului Zrmanja.", "Canionul râului atinge adâncimi considerabile sub platoul Velebit.", "Zona este un habitat crucial pentru numeroase specii de păsări rare."],
-      en: ["The river spans only 7 kilometers but hosts 19 distinct waterfalls.", "Kudin most is a 12-arch stone bridge built without mortar around 1789.", "The Krupa Monastery near the source was established in the year 1317.", "It is the largest and most significant tributary of the Zrmanja River.", "The river is situated within the protected Velebit Nature Park.", "The tufa barriers in the river are sensitive and ecologically vital."],
-    },
+    "de": [
+        "FlusslÃ¤nge betrÃ¤gt nur 7 km",
+        "Besitzt 19 beeindruckende Kaskaden",
+        "BrÃ¼cke Kudin Most hat 12 BÃ¶gen",
+        "Erbaut im spÃ¤ten 18. Jahrhundert"
+    ],
+    "hu": [
+        "A folyÃ³ hossza mindÃ¶ssze 7 km",
+        "19 lenyÅ±gÃ¶zÅ‘ kaskÃ¡d talÃ¡lhatÃ³ rajta",
+        "A Kudin-hÃ­d 12 boltÃ­vbÅ‘l Ã¡ll",
+        "A 18. szÃ¡zad vÃ©gÃ©n Ã©pÃ¼lt"
+    ],
+    "ro": [
+        "Lungimea rÃ¢ului este de doar 7 km",
+        "Are 19 cascade impresionante",
+        "Podul Kudin Most are 12 arcade",
+        "Construit la sfÃ¢rÈ™itul secolului XVIII"
+    ],
+    "en": [
+        "River length is only about 7 km",
+        "Features 19 impressive cascades",
+        "Kudin Most bridge has 12 arches",
+        "Built in the late 18th century"
+    ]
+    }
     , image: "/poi-images/croatia-krupa-river-nature-v2.webp",
 },  {
     id: "croatia-stiniva-cove-nature-v2",
@@ -801,17 +1284,38 @@ imageHint: "Krupa river canyon Kudin most bridge",
     },
 imageHint: "Stiniva cove Vis island cliffs beach",
     descriptionAdvanced: {
-      de: "Stiniva Cove auf der Insel Vis ist eine der außergewöhnlichsten und meistfotografierten Buchten Kroatiens, bekannt für ihre spektakuläre Geomorphologie. Die Bucht zeichnet sich durch einen extrem schmalen Zugang zum Meer aus, der nur etwa 4 Meter breit ist und von zwei gewaltigen, fast 30 Meter hohen Felswänden flankiert wird. Geologisch gesehen ist die Bucht durch den Einsturz des Daches einer riesigen Höhle entstanden, von der heute nur noch die Seitenwände stehen. Hinter dem schmalen Durchgang öffnet sich ein wunderschöner Kieselstrand, der von steilen Klippen umschlossen ist und so eine geschützte Oase bildet. Aufgrund des schwierigen Zugangs über Land, der einen steilen Abstieg über einen Ziegenpfad erfordert, erreichen die meisten Besucher die Bucht mit dem Boot. Stiniva wurde 1967 zum geschützten Naturdenkmal erklärt, um ihre einzigartige geologische Struktur und die Artenvielfalt zu bewahren. Im Jahr 2016 wurde sie von der Organisation European Best Destinations zum schönsten Strand Europas gekürt.",
-      hu: "A Vis-szigeten található Stiniva-öböl Horvátország egyik legkülönlegesebb és legtöbbet fényképezett tengerparti helyszíne, amely látványos geomorphológiai felépítéséről híres. Az öböl jellegzetessége a tenger felőli rendkívül szűk bejárat, amely mindössze 4 méter széles, és két hatalmas, közel 30 méter magas sziklafal határolja. Geológiai szempontból az öböl egy hatalmas barlang beomlásával jött létre, amelynek mára csak az oldalfalai maradtak meg, létrehozva ezt a természetes rejtekhelyet. A szűk átjáró után egy gyönyörű kavicsos strand tárul fel, amelyet minden oldalról meredek sziklák vesznek körül, így a nap csak a déli órákban éri közvetlenül. A szárazföld felőli megközelítés nehézkes, egy meredek kecskeösvényen kell leereszkedni, ezért a legtöbb látogató hajóval érkezik. Stinivát 1967-ben védett természeti emlékké nyilvánították egyedülálló geológiai szerkezete és érintetlen környezete miatt. 2016-ban az European Best Destinations szervezet Európa legszebb strandjának választotta.",
-      ro: "Golful Stiniva de pe insula Vis este unul dintre cele mai spectaculoase și fotografiate locuri de pe coasta croată, fiind renumit pentru geomorfologia sa neobișnuită. Golful se remarcă printr-o intrare extrem de îngustă dinspre mare, de aproximativ 4 metri lățime, flancată de două stânci uriașe care se ridică la 30 de metri înălțime. Din punct de vedere geologic, golful s-a format prin prăbușirea tavanului unei peșteri imense, din care au rămas doar pereții laterali, creând un amfiteatru natural. În spatele intrării înguste se află o plajă superbă cu pietriș fin, înconjurată complet de stânci abrupte care oferă umbră naturală în cea mai mare parte a zilei. Accesul terestru este dificil, necesitând o coborâre abruptă pe o potecă îngustă de munte, motiv pentru care majoritatea turiștilor preferă să ajungă aici cu barca. Stiniva a fost declarată monument al naturii protejat în 1967 pentru a conserva structura sa geologică unică și biodiversitatea. În anul 2016, a fost desemnată cea mai frumoasă plajă din Europa de către organizația European Best Destinations.",
-      en: "Stiniva Cove on Vis Island is one of Croatia's most extraordinary and frequently photographed coastal sites, famous for its spectacular geomorphological structure. The bay is characterized by an extremely narrow entrance from the sea, measuring only about 4 meters wide, flanked by two massive cliffs that rise nearly 30 meters high. Geologically, the cove was formed by the collapse of a huge sea cave's ceiling, with only the side walls remaining today to create this natural hidden harbor. Behind the narrow gateway lies a beautiful white pebble beach, entirely enclosed by steep cliffs that provide natural shade throughout much of the day. Reaching the cove by land is challenging, requiring a steep 20-minute descent down a rugged goat path, so most visitors choose to arrive by boat. Stiniva was declared a protected natural monument in 1967 to preserve its unique geological features and untouched environment. In 2016, it was voted the most beautiful beach in Europe by the European Best Destinations organization.",
+    
+    "de": "Die Stiniva-Bucht auf der Insel Vis ist eine versteckte Perle, die durch einen extrem schmalen Felszugang vom offenen Meer getrennt ist.",
+    "hu": "A Vis-szigeten talÃ¡lhatÃ³ Stiniva-Ã¶bÃ¶l egy rejtett gyÃ¶ngyszem, amelyet egy rendkÃ­vÃ¼l szÅ±k sziklabejÃ¡rat vÃ¡laszt el a nyÃ­lt tengertÅ‘l.",
+    "ro": "Golful Stiniva de pe insula Vis este o perlÄƒ ascunsÄƒ, separatÄƒ de marea liberÄƒ printr-o intrare extrem de Ã®ngustÄƒ Ã®ntre stÃ¢nci Ã®nalte.",
+    "en": "Stiniva Cove on Vis Island is a hidden gem, characterized by an extremely narrow cliff entrance that separates it from the open sea."
     },
     factsAdvanced: {
-      de: ["Die Einfahrt vom Meer aus ist an der schmalsten Stelle nur 4 Meter breit.", "Die Klippen, die die Bucht umschließen, sind bis zu 30 Meter hoch.", "Geologisch entstand die Bucht durch den Einsturz einer riesigen Höhle.", "Stiniva ist seit dem Jahr 1967 als geomorphologisches Naturdenkmal geschützt.", "Im Jahr 2016 wurde Stiniva zum schönsten Strand Europas gewählt.", "Der Abstieg zu Fuß dauert etwa 20 Minuten über einen sehr steilen Pfad."],
-      hu: ["A tenger felőli bejárat mindössze 4 méter széles a két szikla között.", "Az öblöt körülvevő függőleges sziklafalak magassága eléri a 30 métert.", "Az öböl eredetileg egy hatalmas tengeri barlang volt, amely beomlott.", "1967 óta áll állami védelem alatt mint geomorfológiai emlék.", "2016-ban elnyerte Európa legjobb strandja (European Best Destinations) címet.", "A szárazföldi ösvényen a szintkülönbség körülbelül 150 méter a strandig."],
-      ro: ["Intrarea dinspre larg este extrem de îngustă, având doar 4 metri lățime.", "Stâncile laterale au o înălțime medie de aproximativ 30 de metri.", "Golful a fost creat prin prăbușirea unei peșteri în perioada cuaternară.", "Este protejat prin lege ca monument al naturii încă din anul 1967.", "A fost votată cea mai frumoasă plajă din Europa în anul 2016.", "Majoritatea ambarcațiunilor mari nu pot intra în golf din cauza lățimii mici."],
-      en: ["The entrance from the sea is only 4 meters wide at its narrowest point.", "Surrounding vertical cliffs reach a height of approximately 30 meters.", "It was formed by the roof collapse of a massive ancient sea cave.", "The cove has been a protected natural monument since the year 1967.", "Voted the most beautiful beach in Europe by European Best Destinations in 2016.", "The hiking path down to the beach is steep and takes about 20 minutes."],
-    },
+    "de": [
+        "Zugang vom Meer nur 4 m breit",
+        "Naturdenkmal seit dem Jahr 1967",
+        "Nur per Boot oder steilem Pfad erreichbar",
+        "Ehemals eine eingestÃ¼rzte HÃ¶hle"
+    ],
+    "hu": [
+        "A tengeri bejÃ¡rat csak 4 m szÃ©les",
+        "1967 Ã³ta termÃ©szeti emlÃ©khely",
+        "Csak hajÃ³val vagy meredek Ã¶svÃ©nyen elÃ©rhetÅ‘",
+        "Eredetileg egy beomlott barlang volt"
+    ],
+    "ro": [
+        "Intrarea dinspre mare are doar 4 m lÄƒÈ›ime",
+        "Monument al naturii din anul 1967",
+        "Accesibil doar cu barca sau pe potecÄƒ",
+        "IniÈ›ial a fost o peÈ™terÄƒ prÄƒbuÈ™itÄƒ"
+    ],
+    "en": [
+        "Sea entrance is only 4 meters wide",
+        "Natural monument status since 1967",
+        "Accessible only by boat or steep path",
+        "Formed by the collapse of a cave ceiling"
+    ]
+    }
     , image: "/poi-images/croatia-stiniva-cove-nature-v2.webp",
 },  {
     id: "croatia-bijele-samarske-rocks-nature-v2",
@@ -834,17 +1338,38 @@ imageHint: "Stiniva cove Vis island cliffs beach",
     },
 imageHint: "Bijele stijene karst rocks Gorski Kotar",
     descriptionAdvanced: {
-      de: "Die Bijele und Samarske stijene im Herzen des Velika Kapela-Massivs bilden eines der wildesten und unzugänglichsten Naturreservate Kroatiens. Als strenges Naturreservat unterliegen sie der höchsten Schutzstufe des Landes, was bedeutet, dass menschliche Eingriffe streng untersagt sind. Das Gebiet ist bekannt für seine bizarren Karstformationen aus weißem Kalkstein, die wie Nadeln, Türme und monumentale Skulpturen aus dem dichten Wald ragen. Die Bijele stijene (Weiße Felsen) erreichen eine Höhe von 1335 Metern, während die Samarske stijene auf 1302 Meter kommen. Zwischen den Felsen erstrecken sich tiefe Schlünde, Höhlen und Labyrinthe, die eine einzigartige Flora beherbergen, darunter seltene alpine Pflanzen wie das Edelweiß. Eine der bekanntesten Strukturen ist das 'Ratkovo sklonište', eine einfache hölzerne Schutzhütte, die geschützt unter einem überhängenden Felsen errichtet wurde. Wanderungen in diesem Gebiet gelten als anspruchsvoll und erfordern gute Kondition sowie Orientierungssinn in der zerklüfteten Karstlandschaft.",
-      hu: "A Velika Kapela-hegység szívében található Bijele és Samarske stijene (Fehér és Samarske sziklák) Horvátország egyik legvadabb és legnehezebben megközelíthető természetvédelmi területe. Szigorú természetvédelmi területként a legmagasabb szintű védettséget élvezik, ami azt jelenti, hogy minden emberi beavatkozás tilos a területen. A vidék híres bizarr karsztformációiról, ahol a fehér mészkősziklák tűkként, tornyokként és monumentális szobrokként emelkednek ki a sűrű bükk- és fenyőerdőből. A Bijele stijene legmagasabb pontja 1335 méter, míg a Samarske stijene 1302 méter magas. A sziklák között mély szakadékok, barlangok és labirintusszerű járatok húzódnak, amelyek ritka alpesi növényeknek, például havasi gyopárnak adnak otthont. A terület egyik legismertebb pontja a Ratkovo-menedékhely, egy különleges faépítmény, amely egy áthajló sziklafal védelmében épült. Az itt vezető túraútvonalak technikailag nehezek, de lenyűgöző betekintést nyújtanak a Dinári-hegység érintetlen karsztvilágába.",
-      ro: "Bijele și Samarske stijene (Stâncile Albe și Samarske) situate în masivul Velika Kapela reprezintă una dintre cele mai sălbatice și inaccesibile rezervații naturale din Croația. Clasificate ca rezervație naturală strictă, acestea beneficiază de cel mai înalt grad de protecție, intervenția umană fiind total interzisă pentru a păstra ecosistemul intact. Zona este celebră pentru formațiunile sale carstice bizare din calcar alb, care se ridică deasupra pădurilor dense sub formă de coloane, turnuri și sculpturi naturale monumentale. Bijele stijene ating o altitudine de 1335 de metri, în timp ce Samarske stijene se opresc la 1302 metri. Între aceste stânci se află prăpăstii adânci, peșteri și labirinturi de piatră care adăpostesc o floră alpină rară, inclusiv floarea-de-colț. Un punct de interes major este refugiul Ratkovo, o construcție din lemn ingenios amplasată sub o stâncă suspendată. Drumețiile în această zonă sunt considerate extrem de solicitante din punct de vista tehnic din cauza terenului foarte accidentat și a reliefului carstic complex.",
-      en: "The Bijele and Samarske Rocks, located in the heart of the Velika Kapela massif, constitute one of the wildest and most inaccessible natural areas in Croatia. As a strict nature reserve, they hold the highest level of environmental protection in the country, meaning all human intervention is prohibited to maintain their pristine state. The area is famous for its bizarre white limestone karst formations, which rise from dense beech and fir forests like needles, towers, and monumental natural sculptures. The highest point of Bijele stijene reaches 1,335 meters, while Samarske stijene stands at 1,302 meters. Between the rocks lie deep pits, caves, and stone labyrinths that harbor rare alpine flora, such as the elusive edelweiss. One of the most famous structures is the Ratkovo shelter, a unique wooden mountain hut built protected beneath a massive overhanging rock. Hiking in this area is physically and technically demanding due to the rugged karst terrain but offers an unparalleled experience of the Dinaric karst wilderness.",
+    
+    "de": "Die Bijele und Samarske Stijene sind ein strenges Naturreservat im Gorski Kotar, bekannt fÃ¼r ihre bizarren weiÃŸen Kalksteinfelsformationen inmitten dichter WÃ¤lder.",
+    "hu": "A Bijele Ã©s Samarske Stijene egy szigorÃºan vÃ©dett rezervÃ¡tum Gorski Kotarban, amely bizarr fehÃ©r mÃ©szkÅ‘formÃ¡ciÃ³irÃ³l ismert a sÅ±rÅ± erdÅ‘k mÃ©lyÃ©n.",
+    "ro": "Bijele È™i Samarske Stijene reprezintÄƒ o rezervaÈ›ie naturalÄƒ strictÄƒ Ã®n Gorski Kotar, cunoscutÄƒ pentru formaÈ›iunile bizare de calcar alb.",
+    "en": "Bijele and Samarske Stijene is a strict nature reserve in Gorski Kotar, famous for its bizarre white limestone rock formations amidst dense forests."
     },
     factsAdvanced: {
-      de: ["Das Gebiet ist seit 1985 als strenges Naturreservat geschützt.", "Der höchste Gipfel der Bijele stijene liegt bei 1335 Metern.", "Die Samarske stijene erreichen eine maximale Höhe von 1302 Metern.", "Das Ratkovo sklonište ist eine berühmte Schutzhütte unter einem Felsdach.", "Menschliche Eingriffe sind in diesem Reservat absolut untersagt.", "Hier wachsen seltene Pflanzen wie das Kroatische Edelweiß."],
-      hu: ["A terület 1985 óta élvez szigorú természetvédelmi oltalmat.", "A Bijele stijene legmagasabb sziklája 1335 méterrel van a tengerszint felett.", "A Samarske stijene csúcsa 1302 méteres magasságig ér fel.", "A Ratkovo-menedékház egy barlangszerű sziklaeresz alatt található.", "A terület a Velika Kapela-hegység középső részén helyezkedik el.", "A karsztformációk között található a híres 'Viharkapu' sziklaív."],
-      ro: ["Zona a fost declarată rezervație naturală strictă în anul 1985.", "Bijele stijene au vârful maxim la altitudinea de 1335 metri.", "Samarske stijene ating o înălțime maximă de 1302 metri.", "Refugiul Ratkovo este considerat cel mai frumos adăpost montan din țară.", "Este una dintre puținele zone din Europa unde natura este complet intactă.", "Relieful este compus din calcar din perioada jurasicului și cretacicului."],
-      en: ["The area was designated as a strict nature reserve in 1985.", "The highest peak of Bijele stijene stands at 1,335 meters altitude.", "Samarske stijene reaches a maximum height of 1,302 meters.", "Ratkovo shelter is a famous mountain hut built under a rock overhang.", "All forms of human activity and intervention are strictly forbidden here.", "The rocks are known for unique formations like the 'Stone Fingers'."],
-    },
+    "de": [
+        "HÃ¶chster Punkt erreicht 1335 Meter",
+        "Strengste Schutzstufe in Kroatien",
+        "FlÃ¤che von ca. 11,75 Quadratkilometern",
+        "Labyrinthartige Karstlandschaft"
+    ],
+    "hu": [
+        "Legmagasabb pontja 1335 mÃ©ter",
+        "A legszigorÃºbb vÃ©dettsÃ©gi fokozat",
+        "TerÃ¼lete kb. 11,75 nÃ©gyzetkilomÃ©ter",
+        "LabirintusszerÅ± karsztvidÃ©k"
+    ],
+    "ro": [
+        "Cel mai Ã®nalt punct are 1335 metri",
+        "Cel mai Ã®nalt grad de protecÈ›ie din CroaÈ›ia",
+        "SuprafaÈ›Äƒ de circa 11,75 kmp",
+        "Peisaj carstic de tip labirint"
+    ],
+    "en": [
+        "Highest point reaches 1,335 meters",
+        "Highest level of nature protection",
+        "Area of about 11.75 square kilometers",
+        "Labyrinth-like karst landscape"
+    ]
+    }
     , image: "/poi-images/croatia-bijele-samarske-rocks-nature-v2.webp",
 },  {
     id: "croatia-bacina-lakes-nature-v2",
@@ -867,17 +1392,38 @@ imageHint: "Bijele stijene karst rocks Gorski Kotar",
     },
 imageHint: "Bacina lakes aerial view Croatia",
     descriptionAdvanced: {
-      de: "Die Seen von Baćina (Baćinska jezera) sind eine Gruppe von sieben malerischen Seen in der Nähe der Stadt Ploče, unweit des Neretva-Deltas. Sechs der sieben Seen sind miteinander verbunden, während einer isoliert liegt, was ein komplexes hydrologisches System bildet. Die Seen sind Karstphänomene und weisen eine Kryptodepression auf, da der Boden einiger Seen unter dem Meeresspiegel liegt. Im Jahr 1912 wurde ein Tunnel gegraben, der die Seen mit dem Meer verbindet, um den Wasserstand zu regulieren und Überschwemmungen zu verhindern. Das Wasser ist eine Mischung aus Süß- und Brackwasser, was zu einer hohen Artenvielfalt bei Fischen und Vögeln führt. Die Umgebung ist von einer üppigen mediterranen Vegetation geprägt und bietet ideale Bedingungen für Aktivitäten wie Kajakfahren, Stand-Up-Paddling und Radfahren. Entlang der Ufer finden sich Überreste antiker Mauern und Denkmäler, die auf eine frühe Besiedlung der Region hinweisen. Die Seen gelten als Oase der Ruhe abseits der großen Touristenströme an der Küste.",
-      hu: "A Baćina-tavak (Baćinska jezera) hét festői tóból álló csoport Ploče városa mellett, a Neretva-delta közelében. A hét tóból hat közvetlen összeköttetésben áll egymással, míg a hetedik különálló, így alkotnak egy komplex hidrológiai rendszert. A tavak karsztjelenségnek számítanak, és kriptodepressziót mutatnak, mivel több tó feneke a tengerszint alatt helyezkedik el. 1912-ben egy alagutat építettek, amely összeköti a tavakat a tengerrel, hogy szabályozzák a vízszintet és megakadályozzák a környező mezőgazdasági területek elöntését. A víz összetétele a forrásokból érkező édesvíz és a tengeri sós víz keveréke, ami rendkívül gazdag hal- és madárvilágot eredményez. A tavak környékét dús mediterrán növényzet borítja, ideális feltételeket biztosítva a kajakozáshoz, kerékpározáshoz és pihenéshez. A partokon ókori falmaradványok és feliratok utalnak a terület korai lakottságára. A tavak a nyugalom szigetei, messze a tengerparti nagy tömegektől, tiszta vizük és érintetlen környezetük miatt.",
-      ro: "Lacurile Baćina (Baćinska jezera) reprezintă un grup de șapte lacuri pitorești situate lângă orașul Ploče, în apropierea deltei râului Neretva. Șase dintre cele șapte lacuri sunt interconectate prin canale naturale, în timp ce al șaptelea este izolat, formând un sistem hidrologic complex și fascinant. Lacurile sunt de origine carstică și reprezintă o criptodepresiune, fundul unora dintre ele fiind situat sub nivelul mării. În anul 1912, a fost construit un tunel care leagă lacurile de mare pentru a drena surplusul de apă și a preveni inundațiile în câmpia adiacentă. Apa este parțial salmastră, ceea ce permite existența unei biodiversități ridicate, cu specii de pești atât de apă dulce, cât și marine. Zona este înconjurată de vegetație mediteraneană luxuriantă și este o destinație populară pentru activități precum caiacul, paddleboarding-ul și ciclismul pe malurile amenajate. Vestigiile arheologice din apropiere atestă faptul că zona a fost locuită încă din antichitate, fiind un punct strategic pe rutele comerciale de atunci.",
-      en: "The Baćina Lakes (Baćinska jezera) are a cluster of seven picturesque lakes located near the town of Ploče, close to the Neretva River delta. Six of the seven lakes are interconnected by natural and artificial channels, while one remains separate, forming a complex hydrological system. The lakes are karst phenomena and exhibit cryptodepression, as the bottom of several lakes lies below sea level. In 1912, a tunnel was constructed to connect the lakes to the sea, primarily to regulate water levels and prevent flooding of nearby agricultural fields. The water chemistry is unique, featuring a mix of fresh spring water and saline seawater, which supports a high biodiversity of fish and bird species. Surrounded by lush Mediterranean vegetation, the lakes offer ideal conditions for kayaking, cycling, and stand-up paddling in a serene environment. Archaeological remains found along the shores indicate that the area was inhabited since ancient times. These lakes serve as a peaceful oasis, offering a quiet alternative to the crowded coastal destinations nearby.",
+    
+    "de": "Die BaÄ‡ina-Seen bestehen aus sieben miteinander verbundenen Karstseen in der NÃ¤he von PloÄe, die durch ihre smaragdgrÃ¼ne Farbe und Ruhe bestechen.",
+    "hu": "A BaÄ‡ina-tavak hÃ©t egymÃ¡ssal Ã¶sszefÃ¼ggÅ‘ karszttÃ³bÃ³l Ã¡llnak PloÄe kÃ¶zelÃ©ben, amelyek smaragdzÃ¶ld szÃ­nÃ¼kkel Ã©s nyugalmukkal hÃ³dÃ­tanak.",
+    "ro": "Lacurile BaÄ‡ina sunt formate din È™apte lacuri carstice interconectate lÃ¢ngÄƒ PloÄe, remarcabile prin culoarea lor smarald È™i liniÈ™tea zonei.",
+    "en": "The BaÄ‡ina Lakes consist of seven interconnected karst lakes near PloÄe, notable for their emerald green color and serene atmosphere."
     },
     factsAdvanced: {
-      de: ["Die Gruppe besteht aus insgesamt sieben Seen unterschiedlicher Größe.", "Sechs der Seen sind durch schmale Kanäle miteinander verbunden.", "Die Seen sind eine Kryptodepression mit Böden unter dem Meeresspiegel.", "Ein im Jahr 1912 erbauter Tunnel verbindet die Seen mit der Adria.", "Die Wassertiefe erreicht im tiefsten See bis zu 34 Meter.", "Hier leben seltene Vogelarten und zahlreiche geschützte Fischarten."],
-      hu: ["A tavak száma hét, ebből hat tó össze van kötve egymással.", "A tavak nevei: Oćuša, Crniševo, Podgora, Sladinac, Vrbnik, Šipak és Plitko.", "A tavak vizét egy 1912-ben ásott alagút vezeti le a tengerbe.", "A legmélyebb tó a Crniševo, amelynek mélysége 34 méter.", "A tavak vize édesvíz és tengervíz keveréke (brakkvíz).", "A környéken római kori települések maradványait is megtalálták."],
-      ro: ["Sistemul este format din 7 lacuri, dintre care 6 sunt comunicante.", "Lacurile reprezintă o criptodepresiune geologică veritabilă.", "Un tunel de drenaj către mare a fost finalizat în anul 1912.", "Cea mai mare adâncime înregistrată în lacuri este de 34 de metri.", "Suprafața totală a oglinzii de apă este de aproximativ 138 de hectare.", "Zona este renumită pentru turismul activ și sporturile nautice ușoare."],
-      en: ["The lake system consists of seven distinct karst lakes.", "Six of the lakes are naturally interconnected via channels.", "The lakes are cryptodepressions, with bottoms below sea level.", "A tunnel connecting the lakes to the Adriatic was built in 1912.", "The deepest of the lakes, Crniševo, reaches a depth of 34 meters.", "The area is a significant habitat for many migratory bird species."],
-    },
+    "de": [
+        "Sechs der sieben Seen sind verbunden",
+        "Durchschnittliche Tiefe betrÃ¤gt 28 m",
+        "OberflÃ¤che liegt Ã¼ber dem Meeresspiegel",
+        "Boden liegt unter dem Meeresspiegel"
+    ],
+    "hu": [
+        "HÃ©t tÃ³bÃ³l hat egymÃ¡ssal Ã¶sszekÃ¶ttetÃ©sben van",
+        "Ãtlagos mÃ©lysÃ©gÃ¼k 28 mÃ©ter",
+        "A felszÃ­n a tengerszint felett van",
+        "A tÃ³fenÃ©k a tengerszint alatt talÃ¡lhatÃ³"
+    ],
+    "ro": [
+        "È˜ase din cele È™apte lacuri sunt conectate",
+        "AdÃ¢ncimea medie este de 28 m",
+        "SuprafaÈ›a este deasupra nivelului mÄƒrii",
+        "Fundul lacului este sub nivelul mÄƒrii"
+    ],
+    "en": [
+        "Six of the seven lakes are connected",
+        "Average depth is about 28 meters",
+        "Surface level is above sea level",
+        "Lake bottom is below sea level"
+    ]
+    }
     , image: "/poi-images/croatia-bacina-lakes-nature-v2.webp",
 },  {
     id: "croatia-mreznica-river-nature-v2",
@@ -900,17 +1446,38 @@ imageHint: "Bacina lakes aerial view Croatia",
     },
 imageHint: "Mreznica river waterfalls kayaking",
     descriptionAdvanced: {
-      de: "Die Mrežnica ist einer der ungewöhnlichsten und schönsten Flüsse im Landesinneren Kroatiens, bekannt für ihre zahlreichen Wasserfälle und Tuffsteinbarrieren. Auf ihrer Gesamtlänge von etwa 63 Kilometern bildet der Fluss insgesamt 93 Wasserfälle, die die Mrežnica in eine Kette von smaragdgrünen Seen verwandeln. Diese Wasserfälle entstehen durch die Ablagerung von Kalziumkarbonat, das sogenannte Travertin- oder Tuffgestein bildet, ähnlich wie im Nationalpark Plitvicer Seen. Der Fluss fließt durch eine abwechslungsreiche Landschaft mit tiefen Schluchten und bewaldeten Tälern, besonders im Oberlauf bei Generalski Stol. Das Wasser der Mrežnica ist außergewöhnlich sauber und im Sommer angenehm warm, was sie zu einem der beliebtesten Ziele für Kajakfahrer und Kanuten macht. Entlang der Ufer finden sich zahlreiche alte Wassermühlen aus Stein, von denen einige heute als Gasthäuser oder Museen dienen. Die Mrežnica mündet schließlich bei Karlovac in die Korana und ist ein wichtiger Teil des ökologischen Netzwerks der Region.",
-      hu: "A Mrežnica Horvátország egyik legkülönlegesebb és legszebb folyója, amely híres számtalan vízeséséről és mésztufa gátjáról. A körülbelül 63 kilométer hosszú folyón összesen 93 vízesés található, amelyek a folyót smaragdzöld tavak láncolatává alakítják. Ezek a vízesések a vízben oldott kalcium-karbonát kiválásával, édesvízi mésztufa képződésével jönnek létre, hasonlóan a Plitvicei-tavakhoz. A folyó változatos tájakon halad keresztül, néhol mély kanyonokban, máshol erdős völgyekben kanyarog, különösen látványos a felső szakasza Generalski Stol közelében. A Mrežnica vize rendkívül tiszta, és nyáron kellemesen felmelegszik, így a kajakosok, kenusok és fürdőzők egyik kedvenc célpontja. A part mentén számos régi, kőből épült vízimalom maradványa látható, amelyek közül többet vendégházzá vagy múzeummá alakítottak át. A folyó végül Karlovac városánál torkollik a Korana-folyóba, és fontos részét képezi a régió ökológiai hálózatának.",
-      ro: "Mrežnica este unul dintre cele mai neobișnuite și frumoase râuri din interiorul Croației, fiind renumit pentru numeroasele sale cascade și bariere de travertin. Pe parcursul lungimii sale de aproximativ 63 de kilometri, râul formează un total de 93 de cascade, care transformă cursul apei într-o succesiune de lacuri de culoare verde smarald. Aceste cascade sunt rezultatul depunerii carbonatului de calciu, formând bariere de tuf calcaros similare cu cele din Parcul Național Lacurile Plitvice. Râul curge printr-un relief variat, cu canioane adânci și văi împădurite, oferind peisaje spectaculoase mai ales în cursul său superior, lângă Generalski Stol. Apa râului Mrežnica este excepțional de curată și se încălzește plăcut în timpul verii, fiind o destinație de top pentru amatorii de rafting, caiac și înot. Pe malurile sale se află numeroase mori de apă vechi, construite din piatră, care mărturisesc tradițiile economice locale din secolele trecute. Mrežnica se varsă în râul Korana la Karlovac, fiind o resursă naturală vitală pentru întreaga regiune.",
-      en: "The Mrežnica is one of the most unique and beautiful rivers in the Croatian interior, renowned for its numerous waterfalls and tufa barriers. Along its total length of approximately 63 kilometers, the river forms 93 waterfalls, which divide the flow into a chain of emerald-green pools and lakes. These waterfalls are created by the deposition of calcium carbonate, forming travertine barriers similar to those found in the world-famous Plitvice Lakes National Park. The river winds through a diverse landscape, ranging from deep canyons to lush wooded valleys, with particularly dramatic scenery in its upper course near Generalski Stol. Mrežnica's water is exceptionally clean and reaches pleasant temperatures in summer, making it a premier destination for kayaking, canoeing, and swimming. Along its banks, many historic stone watermills can still be seen, some of which have been preserved and converted into traditional restaurants or guesthouses. The river eventually joins the Korana River in Karlovac, serving as a key component of the regional ecological network.",
+    
+    "de": "Die MreÅ¾nica ist einer der schÃ¶nsten FlÃ¼sse Zentral-Kroatiens, berÃ¼hmt fÃ¼r ihre 93 Travertin-Barrieren, die zahlreiche kleine WasserfÃ¤lle und Seen bilden.",
+    "hu": "A MreÅ¾nica KÃ¶zÃ©p-HorvÃ¡torszÃ¡g egyik legszebb folyÃ³ja, amely 93 mÃ©sztufa-gÃ¡tjÃ¡rÃ³l hÃ­res, melyek szÃ¡mtalan aprÃ³ vÃ­zesÃ©st Ã©s tavat alkotnak.",
+    "ro": "MreÅ¾nica este unul dintre cele mai frumoase rÃ¢uri din CroaÈ›ia centralÄƒ, faimos pentru cele 93 de bariere de travertin care formeazÄƒ cascade.",
+    "en": "MreÅ¾nica is one of the most beautiful rivers in central Croatia, famous for its 93 travertine barriers that create numerous waterfalls and pools."
     },
     factsAdvanced: {
-      de: ["Auf einer Länge von 63 Kilometern befinden sich insgesamt 93 Wasserfälle.", "Der Fluss bildet zahlreiche smaragdgrüne Seen durch Travertinbarrieren.", "Die Mrežnica mündet bei Karlovac als einer von vier Flüssen in die Korana.", "Das Wasser ist im Sommer warm genug zum Schwimmen (bis zu 24 Grad).", "Der Oberlauf des Flusses ist durch tiefe, unberührte Schluchten geprägt.", "Zahlreiche historische Steinmühlen säumen die Ufer des Flusses."],
-      hu: ["A folyó teljes hossza 63 km, ezen a szakaszon 93 vízesés található.", "A vízesések magassága néhány centimétertől több méterig terjed.", "A folyó Karlovacnál egyesül a Korana-folyóval.", "A nyári vízhőmérséklet gyakran eléri a 24 Celsius-fokot.", "A folyó mentén több mint 30 régi vízimalom maradt fenn.", "A mésztufa gátak folyamatosan épülnek a vízben oldott mészből."],
-      ro: ["Râul găzduiește 93 de cascade pe o distanță de numai 63 de kilometri.", "Multe dintre barierele de travertin au o vechime de mii de ani.", "Mrežnica este unul dintre cele patru râuri care traversează orașul Karlovac.", "Temperatura apei în iulie și august poate ajunge la 24 de grade Celsius.", "Râul oferă condiții excelente pentru practicarea caiac-canoe-ului.", "Sectorul canionului superior este protejat pentru biodiversitatea sa."],
-      en: ["The river features 93 waterfalls over its 63-kilometer course.", "Waterfall formations are caused by tufa (travertine) barriers.", "Mrežnica is one of the four rivers that meet in the city of Karlovac.", "Summer water temperatures often reach a pleasant 24 degrees Celsius.", "Over 30 traditional stone watermills are located along the riverbanks.", "The river flow consists of alternating cascades and deep quiet pools."],
-    },
+    "de": [
+        "GesamtlÃ¤nge betrÃ¤gt 63 Kilometer",
+        "VerfÃ¼gt Ã¼ber 93 natÃ¼rliche WasserfÃ¤lle",
+        "Wassertemperatur ideal zum Baden",
+        "MÃ¼ndet in den Fluss Korana"
+    ],
+    "hu": [
+        "Teljes hossza 63 kilomÃ©ter",
+        "93 termÃ©szetes vÃ­zesÃ©ssel rendelkezik",
+        "VÃ­zhÅ‘mÃ©rsÃ©klete ideÃ¡lis a fÃ¼rdÃ©shez",
+        "A Korana-folyÃ³ba torkollik"
+    ],
+    "ro": [
+        "Lungimea totalÄƒ este de 63 kilometri",
+        "Are 93 de cascade naturale",
+        "Temperatura apei idealÄƒ pentru Ã®not",
+        "Se varsÄƒ Ã®n rÃ¢ul Korana"
+    ],
+    "en": [
+        "Total length is 63 kilometers",
+        "Features 93 natural waterfalls",
+        "Water temperature is ideal for swimming",
+        "Flows into the Korana river"
+    ]
+    }
     , image: "/poi-images/croatia-mreznica-river-nature-v2.webp",
 },  {
     id: "croatia-susak-island-nature-v2",
@@ -933,17 +1500,38 @@ imageHint: "Mreznica river waterfalls kayaking",
     },
 imageHint: "Susak island sandy paths yellow loess cliffs",
     descriptionAdvanced: {
-      de: "Susak ist eine geologische Besonderheit in der kroatischen Adria, da sie fast vollständig aus gelbem Lösssand besteht, der auf einer Kalksteinbasis abgelagert wurde. Mit einer Fläche von etwa 3,8 Quadratkilometern unterscheidet sich die Insel drastisch von den überwiegend felsigen Nachbarinseln des Lošinj-Archipels. Die Insel ist autofrei und bekannt für ihren einzigartigen archaischen Dialekt, den selbst andere Kroaten oft nur schwer verstehen können. Traditionell war Susak für seinen Weinbau und die Herstellung von Seide bekannt, wobei heute vor allem der Tourismus und die Fischerei eine Rolle spielen. Ein besonderes kulturelles Merkmal sind die farbenfrohen Volkstrachten der Frauen, die als die kürzesten in Europa gelten. Das Dorf Susak ist in zwei Teile gegliedert: Gornje Selo (Oberdorf) am Hügel und Donje Selo (Unterdorf) am Hafen. Die flachen Sandbuchten und die üppige Vegetation aus Schilf und Brombeeren verleihen der Insel ein fast exotisches Flair, das Ruhe und Abgeschiedenheit bietet.",
-      hu: "Susak egy geológiai különlegesség az Adriai-tengerben, mivel szinte teljes egészében sárgás löszhomokból épül fel, amely egy mészkő alapzaton nyugszik. A körülbelül 3,8 négyzetkilométer területű sziget drasztikusan különbözik a Lošinj-szigetcsoport többi, többnyire sziklás tagjától. A sziget teljesen autómentes, és híres egyedülálló, archaikus dialektusáról, amelyet még a horvátok számára is nehéz megérteni. Történelmileg Susak a bortermeléséről és selyemhernyó-tenyésztéséről volt híres, ma azonban főként a turizmus és a halászat határozza meg a mindennapokat. Különleges kulturális vonása a nők színes népviselete, amely Európa legrövidebb szoknyájáról nevezetes. A sziget egyetlen települése két részből áll: a dombtetőn fekvő Felsőfaluból (Gornje Selo) és a kikötő melletti Alsófaluból (Donje Selo). A sekély homokos öblök és a náddal, szederrel borított domboldalak egzotikus hangulatot kölcsönöznek a szigetnek, amely a nyugalom és elszigeteltség szigete.",
-      ro: "Insula Susak este o curiozitate geologică în Marea Adriatică, fiind singura insulă formată aproape în întregime din straturi groase de loess nisipos depuse pe o bază de calcar. Cu o suprafață de circa 3,8 kilometri pătrați, Susak se distinge net de restul insulelor stâncoase din arhipelagul Lošinj prin relieful său domol și solul moale. Insula este complet pietonală, fără mașini, și este faimoasă pentru dialectul său arhaic unic, păstrat datorită izolării geografice îndelungate. Tradițional, economia insulei s-a bazat pe viticultură și producția de mătase, vița-de-vie acoperind și astăzi mari porțiuni din terasele nisipoase. Un element cultural distinctiv este costumul popular feminin, remarcabil prin culorile vii și prin faptul că include cele mai scurte fuste din Europa tradițională. Satul Susak este împărțit în Satul de Sus (Gornje Selo) și Satul de Jos (Donje Selo), fiind legate prin scări de piatră. Plajele sale cu nisip fin și ape puțin adânci, împreună cu vegetația de trestie, îi conferă un aspect exotic și liniștit.",
-      en: "Susak is a geological anomaly in the Croatian Adriatic, being almost entirely composed of thick layers of yellow loess sand deposited on a limestone base. Spanning approximately 3.8 square kilometers, the island differs drastically from the predominantly rocky neighboring islands of the Lošinj archipelago. Susak is completely car-free and is famous for its unique, archaic dialect that remains difficult even for other Croats to understand. Historically, the island was renowned for its extensive viticulture and silk production, though today it primarily relies on sustainable tourism and fishing. A standout cultural feature is the women's colorful folk costume, which is noted for having the shortest skirts in traditional European attire. The main settlement is divided into Upper Village (Gornje Selo) on the hill and Lower Village (Donje Selo) by the harbor. Its shallow sandy bays and hills covered in reeds and blackberries give the island an almost exotic feel, offering a peaceful sanctuary far from modern noise.",
+    
+    "de": "Susak ist eine einzigartige Sandinsel in der Kvarner-Bucht, die fast vollstÃ¤ndig aus gelbem LÃ¶ss besteht und fÃ¼r ihre Isolation sowie Traditionen bekannt ist.",
+    "hu": "Susak egy egyedÃ¼lÃ¡llÃ³ homoksziget a Kvarner-Ã¶bÃ¶lben, amely szinte teljesen sÃ¡rga lÃ¶szbÅ‘l Ã©pÃ¼l fel, Ã©s elszigeteltsÃ©gÃ©rÅ‘l Ã©s hagyomÃ¡nyairÃ³l ismert.",
+    "ro": "Susak este o insulÄƒ de nisip unicÄƒ Ã®n golful Kvarner, formatÄƒ aproape Ã®n Ã®ntregime din loess galben, cunoscutÄƒ pentru izolare È™i tradiÈ›ii.",
+    "en": "Susak is a unique sand island in the Kvarner Bay, composed almost entirely of yellow loess and known for its isolation and rich traditions."
     },
     factsAdvanced: {
-      de: ["Die Insel besteht aus bis zu 100 Meter dicken Lösssandschichten.", "Susak ist völlig autofrei; es gibt keine asphaltierten Straßen.", "Der lokale Dialekt ist eine Mischung aus Alt-Kroatisch und Italienisch.", "Die Frauentracht von Susak hat die kürzesten Röcke in Europa.", "Sansego, der alte Name der Insel, bedeutet auf Griechisch Oregano.", "Früher lebten über 1.500 Menschen hier, heute sind es weniger als 200."],
-      hu: ["A sziget löszrétegeinek vastagsága helyenként eléri a 100 métert.", "A szigeten nincsenek autók, csak traktorok és kerékpárok közlekednek.", "Az itt beszéltek nyelvjárását az UNESCO szellemi örökségnek tekinti.", "A sziget görög neve, a Sansego, a vadon növő szurokfűre (oregánó) utal.", "A nők népviselete rendkívül rövid, térd felett érő színes szoknyákból áll.", "A 20. század közepén nagy kivándorlási hullám zajlott az USA felé."],
-      ro: ["Este singura insulă din Adriatică formată predominant din depozite de loess.", "Insula este zonă pietonală, transportul făcându-se cu cărucioare sau tractoare.", "Dialectul vorbit pe insulă este protejat ca patrimoniu cultural imaterial.", "Numele antic 'Sansego' provine din cuvântul grecesc pentru oregano.", "Costumul popular local are fuste scurte și foarte multe jupoane colorate.", "Cea mai mare parte a foștilor locuitori s-au stabilit în Hoboken, New Jersey."],
-      en: ["The island features layers of loess sand up to 100 meters thick.", "Susak is entirely car-free, with no asphalt roads connecting the houses.", "The local archaic dialect is preserved as a unique linguistic heritage.", "Traditional female costumes feature the shortest skirts in Europe.", "The name Susak comes from 'Sansego', Greek for the herb oregano.", "Today, the island has fewer than 200 permanent residents."],
-    },
+    "de": [
+        "Keine Autos auf der gesamten Insel",
+        "FlÃ¤che von ca. 3,8 Quadratkilometern",
+        "Einzige Insel dieser Art in der Adria",
+        "Bekannt fÃ¼r den Susak-Dialekt"
+    ],
+    "hu": [
+        "Az egÃ©sz szigeten nincsenek autÃ³k",
+        "TerÃ¼lete kb. 3,8 nÃ©gyzetkilomÃ©ter",
+        "Az egyetlen ilyen jellegÅ± sziget az AdriÃ¡n",
+        "HÃ­res a kÃ¼lÃ¶nleges susaki nyelvjÃ¡rÃ¡srÃ³l"
+    ],
+    "ro": [
+        "Nu existÄƒ maÈ™ini pe Ã®ntreaga insulÄƒ",
+        "SuprafaÈ›Äƒ de circa 3,8 kilometri pÄƒtraÈ›i",
+        "Singura insulÄƒ de acest tip din AdriaticÄƒ",
+        "CunoscutÄƒ pentru dialectul specific Susak"
+    ],
+    "en": [
+        "No cars allowed on the entire island",
+        "Area of about 3.8 square kilometers",
+        "Only island of its kind in the Adriatic",
+        "Famous for the unique Susak dialect"
+    ]
+    }
     , image: "/poi-images/croatia-susak-island-nature-v2.webp",
 },  {
     id: "croatia-kamacnik-canyon-nature-v2",
@@ -966,17 +1554,38 @@ imageHint: "Susak island sandy paths yellow loess cliffs",
     },
     imageHint: "Kamacnik canyon wooden walkway bridge",
     descriptionAdvanced: {
-      de: "Der Kamačnik-Canyon bei Vrbovsko im Gorski Kotar ist eines der bedeutendsten Naturdenkmäler Kroatiens und steht seit 1963 unter Naturschutz. Die Schlucht erstreckt sich über eine Länge von etwa drei Kilometern vom Ursprung des Baches bis zu seiner Mündung in den Fluss Dobra. Der Wanderweg durch die Schlucht wurde bereits im Jahr 1961 angelegt und führt über zahlreiche Holzbrücken und Galerien direkt an den steilen Felswänden entlang. Geologisch ist das Gebiet durch Karstphänomene und dichte Mischwälder aus Buchen, Tannen und Fichten geprägt. Die Quelle des Kamačnik befindet sich in einer tiefen, bläulich schimmernden Karsthöhle am Ende des Pfades, deren exakte Tiefe Gegenstand fortlaufender speläologischer Untersuchungen ist. Das Gebiet dient als wichtiges Ökosystem für zahlreiche geschützte Pflanzen- und Tierarten der Bergregion. Heute ist der Canyon ein Musterbeispiel für den sanften Tourismus in Kroatien und zieht Besucher durch seine gut erhaltene Infrastruktur und die charakteristische Flora des Gorski Kotar an.",
-      hu: "A Kamačnik-kanyon Vrbovsko közelében, a Gorski Kotar régióban található, és 1963 óta élvez védett természeti táj státuszt. A szurdok körülbelül három kilométer hosszan húzódik a Kamačnik-patak forrásától annak a Dobra-folyóba való torkolatáig. A kanyonon keresztülvezető tanösvényt 1961-ben alakították ki, számos fahidat és galériát építve a meredek sziklafalak mentén. Geológiai szempontból a területet a karsztjelenségek és a sűrű bükk-, jegenyefenyő- és lucfenyőerdők jellemzik. A patak forrása egy mély, kékes vizű karsztbarlangban található az út végén, amelynek pontos mélységét még ma is kutatják a barlangászok. A terület fontos ökoszisztémát alkot, ahol számos védett hegyvidéki növény- és állatfaj talál menedéket. Napjainkban a Kamačnik-kanyon a fenntartható turizmus egyik kiváló példája Horvátországban, amely jól kiépített infrastruktúrájával és a Gorski Kotar jellegzetes flórájával vonzza a látogatókat.",
-      ro: "Canionul Kamačnik situat lângă Vrbovsko, în regiunea Gorski Kotar, este unul dintre cele mai importante monumente naturale din Croația, fiind protejat prin lege încă din anul 1963. Rezervația se întinde pe o lungime de aproximativ trei kilometri, de la izvorul pârâului Kamačnik până la vărsarea acestuia în râul Dobra. Poteca turistică prin canion a fost amenajată în anul 1961 și include numeroase poduri de lemn și galerii construite direct pe pereții stâncoși abrupți. Din punct de vedere geologic, zona este caracterizată de fenomene carstice și păduri dense de fag, brad și molid. Izvorul Kamačnik se află într-o peșteră carstică adâncă, cu ape albăstrui, situată la capătul traseului, a cărei adâncime exactă face încă obiectul cercetărilor speologice. Zona reprezintă un ecosistem vital pentru numeroase specii de plante și animale protejate din regiunea montană. Astăzi, canionul este un model de turism sustenabil în Croația, atrăgând vizitatori prin infrastructura sa bine conservată și flora specifică regiunii Gorski Kotar.",
-      en: "The Kamačnik Canyon near Vrbovsko in the Gorski Kotar region is one of Croatia's most significant natural monuments, protected since 1963. The protected landscape stretches approximately three kilometers from the source of the Kamačnik stream to its confluence with the Dobra River. The hiking trail through the canyon was constructed in 1961, featuring numerous wooden bridges and galleries built directly onto the steep rock faces. Geologically, the area is characterized by karst phenomena and dense mixed forests of beech, fir, and spruce. The source of the Kamačnik is located in a deep, bluish karst cave at the end of the trail, the exact depth of which remains a subject of ongoing speleological research. The area serves as a vital ecosystem for many protected plant and animal species of the mountain region. Today, the canyon stands as a prime example of sustainable tourism in Croatia, attracting visitors with its well-preserved infrastructure and the characteristic flora of Gorski Kotar.",
+    
+    "de": "Der KamaÄnik-Canyon im Gorski Kotar ist ein geschÃ¼tztes Naturgebiet, wo ein glasklarer Bach durch eine enge Schlucht bis zu seiner Quelle flieÃŸt.",
+    "hu": "A Gorski Kotarban talÃ¡lhatÃ³ KamaÄnik-kanyon egy vÃ©dett terÃ¼let, ahol egy kristÃ¡lytiszta patak folyik Ã¡t egy szÅ±k szurdokon egÃ©szen a forrÃ¡sÃ¡ig.",
+    "ro": "Canionul KamaÄnik din Gorski Kotar este o zonÄƒ naturalÄƒ protejatÄƒ, unde un pÃ¢rÃ¢u cristalin curge printr-o cheie Ã®ngustÄƒ pÃ¢nÄƒ la izvorul sÄƒu.",
+    "en": "KamaÄnik Canyon in Gorski Kotar is a protected natural area where a crystal-clear stream flows through a narrow gorge to its source."
     },
     factsAdvanced: {
-      de: ["Länge des Wanderwegs: 3,2 Kilometer", "Jahr der Unterschutzstellung: 1963", "Baujahr der ersten Brücken: 1961", "Region: Gorski Kotar bei Vrbovsko", "Mündung in den Fluss Dobra", "Höhenunterschied der Route: ca. 100 Meter"],
-      hu: ["A túraútvonal hossza: 3,2 kilométer", "A védelem alá helyezés éve: 1963", "Az első hidak építési éve: 1961", "Régió: Gorski Kotar, Vrbovsko mellett", "Torkolat a Dobra-folyóba", "A szintkülönbség: kb. 100 méter"],
-      ro: ["Lungimea traseului: 3,2 kilometri", "Anul declarării ca arie protejată: 1963", "Anul construcției primelor poduri: 1961", "Regiune: Gorski Kotar lângă Vrbovsko", "Vărsare în râul Dobra", "Diferența de nivel: aprox. 100 metri"],
-      en: ["Length of the hiking trail: 3.2 kilometers", "Year of protection status: 1963", "Year of first bridge construction: 1961", "Region: Gorski Kotar near Vrbovsko", "Confluence with the Dobra River", "Elevation gain of the route: approx. 100 meters"],
-    },
+    "de": [
+        "LÃ¤nge des Wanderwegs ca. 3 km",
+        "MÃ¼ndet in den Fluss Dobra",
+        "Besonderes botanisches Reservat",
+        "Quelle ist Ã¼ber 95 Meter tief"
+    ],
+    "hu": [
+        "A tÃºraÃºtvonal hossza kb. 3 km",
+        "A Dobra-folyÃ³ba torkollik",
+        "KÃ¼lÃ¶nleges botanikai rezervÃ¡tum",
+        "ForrÃ¡sa tÃ¶bb mint 95 mÃ©ter mÃ©ly"
+    ],
+    "ro": [
+        "Lungimea potecii este de circa 3 km",
+        "Se varsÄƒ Ã®n rÃ¢ul Dobra",
+        "RezervaÈ›ie botanicÄƒ specialÄƒ",
+        "Izvorul are peste 95 de metri adÃ¢ncime"
+    ],
+    "en": [
+        "Hiking trail length is about 3 km",
+        "Flows into the Dobra river",
+        "Special botanical reserve status",
+        "Source depth exceeds 95 meters"
+    ]
+    }
   }
 ,
   {
@@ -999,16 +1608,16 @@ imageHint: "Susak island sandy paths yellow loess cliffs",
     },
     imageHint: "Vrazji prolaz canyon canyon walkways",
     descriptionAdvanced: {
-      de: "Vražji prolaz, auch als Teufelspass bekannt, gilt als eine der spektakulärsten Schluchten in der kroatischen Region Gorski Kotar nahe der Ortschaft Skrad. Die etwa 800 Meter lange Schlucht wurde über Jahrtausende vom Bach Jasle in den Kalkstein gegraben. An ihrer engsten Stelle misst die Schlucht nur zwei Meter Breite, während die Felswände bis zu 100 Meter fast senkrecht in die Höhe ragen. Ein System aus Metallstegen und Treppen, das fest im Fels verankert ist, ermöglicht den Zugang durch diese dramatische geologische Formation. Am Ende der Schlucht befindet sich die Höhle Muževa hižica, in der sich während der Türkenkriege im 16. Jahrhundert die lokale Bevölkerung versteckte. Die Schlucht ist Teil eines geschützten Gebiets, zu dem auch der nahegelegene Wasserfall Zeleni vir gehört. Die hohe Luftfeuchtigkeit und die geringe Sonneneinstrahlung in der Tiefe der Schlucht haben eine spezifische Flora aus Moosen und Farnen begünstigt. Seit 1962 steht das gesamte Areal unter besonderem staatlichem Schutz.",
-      hu: "A Vražji prolaz, azaz az Ördög-szoros Horvátország egyik leglátványosabb szurdoka, amely a Gorski Kotar régióban, Skrad település közelében található. A körülbelül 800 méter hosszú szurdokot a Jasle-patak vájta ki a mészkősziklákba évezredek alatt. Legszűkebb pontján a szoros mindössze két méter széles, miközben a sziklafalak közel 100 méter magasságba emelkednek függőlegesen. A sziklákba rögzített fémjárdák és lépcsők rendszere teszi lehetővé a haladást ezen a drámai geológiai képződményen keresztül. A szurdok végén található a Muževa hižica barlang, ahol a 16. századi török háborúk idején a helyi lakosság talált menedéket. A szoros egy nagyobb védett terület része, amelyhez a közeli Zeleni vir vízesés is hozzátartozik. A nagy páratartalom és a kevés napsütés miatt a szurdok mélyén sajátos moha- és páfrányflóra alakult ki. A teljes terület 1962 óta áll állami természetvédelmi oltalom alatt.",
-      ro: "Vražji prolaz, cunoscut sub numele de Pasajul Diavolului, este considerat unul dintre cele mai spectaculoase canioane din regiunea Gorski Kotar, lângă localitatea Skrad. Canionul lung de aproximativ 800 de metri a fost săpat în calcar de pârâul Jasle de-a lungul a mii de ani. În cel mai îngust punct, trecătoarea măsoară doar doi metri lățime, în timp ce pereții de stâncă se ridică aproape vertical până la o înălțime de 100 de metri. Un sistem de pasarele metalice și scări ancorate în stâncă permite accesul prin această formațiune geologică dramatică. La capătul canionului se află peștera Muževa hižica, unde populația locală s-a ascuns în timpul războaielor turcești din secolul al XVI-lea. Canionul face parte dintr-o zonă protejată care include și cascada Zeleni vir din apropiere. Umiditatea ridicată și radiația solară scăzută în adâncimea canionului au favorizat o floră specifică formată din mușchi și ferigi. Întreaga zonă se află sub protecție specială de stat din 1962.",
-      en: "Vražji prolaz, also known as the Devil's Passage, is considered one of the most spectacular canyons in Croatia's Gorski Kotar region near the town of Skrad. The canyon, approximately 800 meters long, was carved into the limestone by the Jasle stream over thousands of years. At its narrowest point, the passage measures only two meters wide, while the rock walls rise almost vertically to heights of 100 meters. A system of metal walkways and stairs anchored into the rock enables passage through this dramatic geological formation. At the end of the canyon lies the Muževa hižica cave, where the local population hid during the Turkish wars in the 16th century. The canyon is part of a protected area that also includes the nearby Zeleni vir waterfall. The high humidity and low solar radiation in the depths of the canyon have favored a specific flora of mosses and ferns. Since 1962, the entire area has been under special state protection.",
+      de: "Die 800 Meter lange Schlucht im Gorski Kotar ist von bis zu 100 Meter hohen Felswänden umgeben. Der Bach Jasle formte dieses geomorphologische Reservat über Jahrtausende.",
+      hu: "A Skrad közelében fekvő, 800 méter hosszú Vražji prolaz (Ördög-szoros) egy szűk kanyon. A Jasle-patak által kivájt, 100 méteres falakkal határolt terület 1962 óta védett.",
+      ro: "Canionul Vražji Prolaz din regiunea Gorski Kotar are o lungime de 800 de metri și pereți stâncoși înalți de 100 de metri. Pârâul Jasle curge prin această rezervație din 1962.",
+      en: "Located in the Gorski Kotar region, Devil's Passage is an 800-meter-long narrow canyon. The Jasle stream carved this geomorphological reserve, creating cliffs up to 100m high.",
     },
     factsAdvanced: {
-      de: ["Länge der Schlucht: 800 Meter", "Höhe der Felswände: bis zu 100 Meter", "Jahr der Unterschutzstellung: 1962", "Lage: Skrad, Gorski Kotar", "Name des Baches: Jasle", "Schmalste Stelle: ca. 2 Meter"],
-      hu: ["A szurdok hossza: 800 méter", "A sziklafalak magassága: akár 100 méter", "A védelem kezdete: 1962", "Helyszín: Skrad, Gorski Kotar", "A patak neve: Jasle", "Legszűkebb pont: kb. 2 méter"],
-      ro: ["Lungimea canionului: 800 metri", "Înălțimea pereților: până la 100 metri", "Anul protecției: 1962", "Locație: Skrad, Gorski Kotar", "Numele pârâului: Jasle", "Lățimea minimă: aprox. 2 metri"],
-      en: ["Length of the canyon: 800 meters", "Height of the rock walls: up to 100 meters", "Year of protection: 1962", "Location: Skrad, Gorski Kotar", "Name of the stream: Jasle", "Narrowest point: approx. 2 meters"],
+      de: ["Länge der Schlucht: 800 Meter.", "Höhe der steilen Felswände: bis zu 100 Meter.", "Der Bach Jasle fließt durch den Grund der Schlucht.", "Seit dem Jahr 1962 als geomorphologisches Reservat geschützt.", "In der Nähe befindet sich die Höhle Muževa hižica.", "Die Schlucht liegt in der kroatischen Bergregion Gorski Kotar."],
+      hu: ["A kanyon teljes hossza eléri a 800 métert.", "A meredek mészkőfalak magassága 100 méter is lehet.", "A kanyont a Jasle-patak eróziós tevékenysége hozta létre.", "A terület 1962-ben kapott hivatalos természetvédelmi státuszt.", "A szoros bejáratához közel található a 200 méter hosszú Muževa hižica barlang.", "A Skrad település közelében fekvő rezervátum a Gorski Kotar része."],
+      ro: ["Lungimea totală a canionului este de 800 de metri.", "Pereții verticali de stâncă ating o înălțime de 100 de metri.", "Rezervația geomorfologică a fost înființată în anul 1962.", "Pârâul Jasle a sculptat rocile calcaroase de-a lungul mileniilor.", "Peștera Muževa hižica se găsește la capătul traseului.", "Altitudinea zonei protejate din Gorski Kotar depășește 300 de metri."],
+      en: ["The canyon extends for approximately 800 meters in length.", "The vertical limestone cliffs rise up to 100 meters high.", "The fast-flowing Jasle stream runs through the canyon floor.", "It was officially declared a geomorphological reserve in 1962.", "The nearby Muževa hižica cave serves as an overwintering site for bats.", "Metal walkways have been installed to allow pedestrian access."],
     },
   },
   {
@@ -1031,16 +1640,16 @@ imageHint: "Susak island sandy paths yellow loess cliffs",
     },
     imageHint: "Zeleni vir waterfall and cave Skrad",
     descriptionAdvanced: {
-      de: "Zeleni vir ist ein markantes Naturphänomen in der Nähe von Skrad im Gorski Kotar, das aus einer 70 Meter hohen Felswand besteht, über die der Bach Curak stürzt. Am Fuße dieser Felswand befindet sich eine geräumige Höhle mit einem smaragdgrünen See, dem der Ort seinen Namen verdankt. Das Wasser sammelt sich in einem kleinen Becken, bevor es weiter talwärts fließt. Ein technisches Highlight in unmittelbarer Nähe ist das Wasserkraftwerk Munjara, das im Jahr 1921 erbaut wurde und eines der ältesten in ganz Kroatien ist. Es nutzt das Gefälle des Wassers zur Stromerzeugung und ist noch heute als technisches Denkmal in Betrieb. Die Umgebung ist geprägt von unberührten Mischwäldern und einer reichen Artenvielfalt an Amphibien und Wasserpflanzen. Wanderwege verbinden Zeleni vir mit der benachbarten Schlucht Vražji prolaz und bilden zusammen ein beliebtes Ausflugsziel für Naturfreunde. Die geologische Struktur der Höhle und die konstante Wassertemperatur machen den Ort zu einem wichtigen Forschungsobjekt für Hydrologen.",
-      hu: "A Zeleni vir (Zöld örvény) egy különleges természeti jelenség a Gorski Kotar-beli Skrad közelében, amely egy 70 méter magas sziklafalból áll, ahol a Curak-patak zúdul alá. A sziklafal tövében egy tágas barlang található, benne egy smaragdzöld tavacskával, amelyről a hely a nevét kapta. A víz egy kis medencében gyűlik össze, mielőtt továbbfolyna a völgybe. A közvetlen közelben található technikai érdekesség a Munjara vízerőmű, amelyet 1921-ben építettek, és Horvátország egyik legrégebbi ilyen létesítménye. Az erőmű a víz esését használja áramtermelésre, és ma is működik ipari műemlékként. A környéket érintetlen vegyes erdők, valamint kétéltűekben és vízinövényekben gazdag élővilág jellemzi. Túraútvonalak kötik össze a Zeleni vir-t a szomszédos Vražji prolaz szurdokkal, együtt alkotva a természetjárók kedvelt célpontját. A barlang geológiai szerkezete és a víz állandó hőmérséklete miatt a helyszín a hidrológusok számára is fontos kutatási terület.",
-      ro: "Zeleni vir (Vârtejul Verde) este un fenomen natural remarcabil situat lângă Skrad, în Gorski Kotar, format dintr-un perete de stâncă înalt de 70 de metri, de unde se prăbușește pârâul Curak. La baza acestui perete se află o peșteră spațioasă cu un lac de un verde smarald, care dă și numele locului. Apa se colectează într-un mic bazin înainte de a curge mai departe spre vale. Un reper tehnic important în imediata apropiere este hidrocentrala Munjara, construită în anul 1921, fiind una dintre cele mai vechi din Croația. Centrala utilizează căderea apei pentru a produce electricitate și funcționează și astăzi ca monument tehnic. Împrejurimile sunt dominate de păduri mixte virgine și o biodiversitate bogată de amfibieni și plante acvatice. Traseele de drumeție leagă Zeleni vir de canionul învecinat Vražji prolaz, formând împreună o destinație populară pentru iubitorii de natură. Structura geologică a peșterii și temperatura constantă a apei fac din acest loc un obiect de cercetare important pentru hidrologi.",
-      en: "Zeleni vir (Green Whirlpool) is a striking natural phenomenon near Skrad in Gorski Kotar, consisting of a 70-meter-high cliff over which the Curak stream cascades. At the base of this cliff lies a spacious cave containing an emerald-green pond, which gives the location its name. The water collects in a small pool before flowing further down the valley. A technical highlight in the immediate vicinity is the Munjara hydroelectric plant, built in 1921, making it one of the oldest in Croatia. The plant utilizes the water's drop to generate electricity and still operates today as a technical monument. The surroundings are characterized by untouched mixed forests and a rich biodiversity of amphibians and aquatic plants. Hiking trails connect Zeleni vir with the neighboring Vražji prolaz canyon, together forming a popular destination for nature enthusiasts. The cave's geological structure and the constant water temperature make the site an important object of research for hydrologists.",
+      de: "Der Zeleni Vir (Grüner Strudel) ist eine natürliche Quelle in der Nähe von Skradin, Kroatien. Das Wasser entspringt aus einer Karsthöhle und bildet einen smaragdgrünen See. Die Umgebung ist dicht bewaldet und Teil des Naturparks Krka. Der Zeleni Vir ist ein beliebtes Ausflugsziel für Wanderer und Naturliebhaber. Die Wassertemperatur beträgt ganzjährig etwa 10 Grad Celsius.",
+      hu: "A Zeleni Vir (Zöld Örvény) egy természetes forrás Skradin közelében, Horvátországban. A víz egy karsztbarlangból tör elő, és smaragdzöld tavat alkot. A környék sűrű erdős, és a Krka Nemzeti Park része. A Zeleni Vir népszerű kirándulóhely túrázók és természetkedvelők számára. A víz hőmérséklete egész évben körülbelül 10 °C.",
+      ro: "Zeleni Vir (Vârtejul Verde) este un izvor natural lângă Skradin, Croația. Apa iese dintr-o peșteră carstică și formează un lac verde smarald. Împrejurimile sunt împădurite dens și fac parte din Parcul Natural Krka. Zeleni Vir este o destinație populară pentru drumeții și iubitorii de natură. Temperatura apei este de aproximativ 10 °C pe tot parcursul anului.",
+      en: "Zeleni Vir (Green Whirlpool) is a natural spring near Skradin, Croatia. The water emerges from a karst cave and forms an emerald-green lake. The surrounding area is heavily forested and part of the Krka Nature Park. Zeleni Vir is a popular hiking and nature spot. The water temperature remains around 10°C year-round.",
     },
     factsAdvanced: {
-      de: ["Höhe des Wasserfalls: 70 Meter", "Baujahr des Kraftwerks Munjara: 1921", "Lage: Skrad, Gorski Kotar", "Name des Baches: Curak", "Farbe des Sees: Smaragdgrün", "Höhenlage: 345 Meter über dem Meeresspiegel"],
-      hu: ["A vízesés magassága: 70 méter", "A Munjara erőmű építési éve: 1921", "Helyszín: Skrad, Gorski Kotar", "A patak neve: Curak", "A tó színe: smaragdzöld", "Tengerszint feletti magasság: 345 méter"],
-      ro: ["Înălțimea cascadei: 70 metri", "Anul construcției hidrocentralei Munjara: 1921", "Locație: Skrad, Gorski Kotar", "Numele pârâului: Curak", "Culoarea lacului: verde smarald", "Altitudine: 345 metri deasupra mării"],
-      en: ["Height of the waterfall: 70 meters", "Construction year of Munjara power plant: 1921", "Location: Skrad, Gorski Kotar", "Name of the stream: Curak", "Color of the lake: Emerald green", "Elevation: 345 meters above sea level"],
+      de: ["Der See ist 8 Meter tief.", "Die Quelle liefert 100 Liter Wasser pro Sekunde.", "Die Höhe liegt bei 200 Metern über dem Meeresspiegel.", "Der Durchmesser des Sees beträgt 20 Meter.", "Die Lufttemperatur beträgt im Sommer 25°C.", "Der Park Krka ist 109 km² groß."],
+      hu: ["A tó mélysége 8 méter.", "A forrás 100 liter vizet szolgáltat másodpercenként.", "Tengerszint feletti magassága 200 méter.", "A tó átmérője 20 méter.", "Nyáron a levegő hőmérséklete 25°C.", "A Krka park 109 km² területű."],
+      ro: ["Lacul are o adâncime de 8 metri.", "Izvorul furnizează 100 de litri de apă pe secundă.", "Altitudinea este de 200 de metri deasupra nivelului mării.", "Diametrul lacului este de 20 de metri.", "Temperatura aerului vara este de 25°C.", "Parcul Krka are o suprafață de 109 km²."],
+      en: ["The lake is 8 meters deep.", "The spring supplies 100 liters per second.", "Elevation is 200 meters above sea level.", "The lake diameter is 20 meters.", "Summer air temperature is 25°C.", "Krka Park covers 109 km²."],
     }, image: "/poi-images/croatia-zeleni-vir-nature-v2.webp"},
   {
     id: "croatia-kupa-source-nature-v2",
@@ -1062,16 +1671,16 @@ imageHint: "Susak island sandy paths yellow loess cliffs",
     },
     imageHint: "Source of the Kupa blue spring Risnjak",
     descriptionAdvanced: {
-      de: "Die Quelle des Flusses Kupa befindet sich im Nationalpark Risnjak in der Bergregion Gorski Kotar und gilt als eine der tiefsten und eindrucksvollsten Karstquellen Kroatiens. Das Wasser tritt in einem ovalen, tiefblauen See an die Oberfläche, der von steilen Kalksteinwänden und dichtem Nadelwald umgeben ist. Die Quelle ist als „Vrelo Kupe“ bekannt und liegt auf einer Höhe von 313 Metern über dem Meeresspiegel. Speläologische Tauchexpeditionen haben die Quelle bis in eine Tiefe von über 150 Metern erforscht, wobei der tatsächliche Grund noch nicht erreicht wurde. Die Wassertemperatur bleibt das ganze Jahr über konstant bei etwa 7 Grad Celsius, was auf den tiefen Ursprung des Wassers aus den unterirdischen Karstsystemen hinweist. Der Kupa-Fluss bildet später über weite Strecken die natürliche Grenze zwischen Kroatien und Slowenien. Das Gebiet um die Quelle zeichnet sich durch eine außergewöhnliche botanische Vielfalt aus, darunter seltene Orchideenarten und endemische Farne. Ein markierter Wanderweg vom Dorf Razloge führt Besucher durch die unberührte Natur zu diesem hydrologischen Denkmal.",
-      hu: "A Kupa-folyó forrása a Risnjak Nemzeti Parkban, a Gorski Kotar hegyvidékén található, és Horvátország egyik legmélyebb és leglátványosabb karsztforrásaként tartják számon. A víz egy ovális, mélykék színű tóban tör a felszínre, amelyet meredek mészkőfalak és sűrű fenyőerdők vesznek körül. A forrás „Vrelo Kupe” néven ismert, és 313 méteres tengerszint feletti magasságban fekszik. A barlangi búvárexpedíciók több mint 150 méteres mélységig tárták fel a forrást, de a tényleges alját még nem érték el. A víz hőmérséklete egész évben állandó, körülbelül 7 Celsius-fok, ami a víz föld alatti karsztrendszerekből való mély eredetére utal. A Kupa-folyó később hosszú szakaszon természetes határt képez Horvátország és Szlovénia között. A forrás környékét rendkívüli botanikai sokszínűség jellemzi, ritka orchideafajokkal és endemikus páfrányokkal. A Razloge faluból induló jelzett turistaút az érintetlen természeten keresztül vezeti el a látogatókat ehhez a hidrológiai műemlékhez.",
-      ro: "Izvorul râului Kupa este situat în Parcul Național Risnjak, în regiunea montană Gorski Kotar, fiind considerat unul dintre cele mai adânci și impresionante izvoare carstice din Croația. Apa iese la suprafață într-un lac oval de un albastru intens, înconjurat de pereți abrupți de calcar și păduri dese de conifere. Izvorul este cunoscut sub numele de „Vrelo Kupe” și se află la o altitudine de 313 metri deasupra nivelului mării. Expedițiile de scufundări speologice au explorat izvorul până la o adâncime de peste 150 de metri, deși fundul real nu a fost încă atins. Temperatura apei rămâne constantă pe tot parcursul anului, în jurul valorii de 7 grade Celsius, ceea ce indică originea profundă a apei din sistemele carstice subterane. Râul Kupa formează ulterior, pe porțiuni lungi, granița naturală dintre Croația și Slovenia. Zona din jurul izvorului se caracterizează printr-o diversitate botanică excepțională, incluzând specii rare de orhidee și ferigi endemice. Un traseu marcat din satul Razloge conduce vizitatorii prin natura virgină către acest monument hidrologic.",
-      en: "The source of the Kupa River is located within the Risnjak National Park in the Gorski Kotar mountain region and is considered one of Croatia's deepest and most impressive karst springs. The water emerges in an oval, deep-blue pond surrounded by steep limestone cliffs and dense coniferous forests. Known as 'Vrelo Kupe', the spring lies at an altitude of 313 meters above sea level. Speleological diving expeditions have explored the spring to a depth of over 150 meters, although the actual bottom has not yet been reached. The water temperature remains constant at about 7 degrees Celsius year-round, indicating the deep origin of the water from underground karst systems. The Kupa River later forms a natural border between Croatia and Slovenia over long stretches. The area around the source is characterized by exceptional botanical diversity, including rare orchid species and endemic ferns. A marked hiking trail from the village of Razloge leads visitors through pristine nature to this hydrological monument.",
+      de: "Die Quelle der Kupa im Risnjak Nationalpark ist ein Karstsee von über 150 m Tiefe. Sie zählt zu den wasserreichsten und tiefsten Quellen des kroatischen Karstgebiets.",
+      hu: "A Kupa-folyó forrása a Risnjak Nemzeti Parkban található karsztforrás, amely több mint 150 m mély. Ez Horvátország egyik legmélyebb és leglátványosabb karsztjelensége.",
+      ro: "Izvorul râului Kupa din Parcul Risnjak este un lac carstic de un turcoaz intens, cu o adâncime de peste 150 m. Este una dintre cele mai puternice surse de apă din Croația.",
+      en: "The Kupa River source is a turquoise karst spring in Risnjak National Park, reaching depths over 150 meters. It is one of the strongest and deepest springs in Croatia.",
     },
     factsAdvanced: {
-      de: ["Erforschte Tiefe: über 154 Meter", "Wassertemperatur: konstant ca. 7 °C", "Höhenlage der Quelle: 313 Meter", "Lage: Nationalpark Risnjak", "Status: Hydrologisches Naturdenkmal", "Nächstgelegene Siedlung: Razloge"],
-      hu: ["Feltárt mélység: több mint 154 méter", "Víz hőmérséklete: állandó kb. 7 °C", "Forrás magassága: 313 méter", "Helyszín: Risnjak Nemzeti Park", "Státusz: hidrológiai természeti műemlék", "Legközelebbi település: Razloge"],
-      ro: ["Adâncime explorată: peste 154 metri", "Temperatura apei: constant aprox. 7 °C", "Altitudinea izvorului: 313 metri", "Locație: Parcul Național Risnjak", "Statut: Monument natural hidrologic", "Cea mai apropiată localitate: Razloge"],
-      en: ["Explored depth: over 154 meters", "Water temperature: constant approx. 7 °C", "Elevation of the source: 313 meters", "Location: Risnjak National Park", "Status: Hydrological natural monument", "Nearest settlement: Razloge"],
+      de: ["Tiefe: über 154 Meter", "Teil des Risnjak Nationalparks seit 1953", "Meereshöhe der Quelle: 321 m", "Geschütztes Naturdenkmal seit 1963"],
+      hu: ["Maximális mélysége meghaladja a 154 métert", "1953 óta a Risnjak Nemzeti Park része", "A forrás tengerszint feletti magassága 321 m", "1963-ban nyilvánították természetvédelmi területté"],
+      ro: ["Adâncimea explorată depășește 154 de metri", "Inclus în Parcul Național Risnjak din 1953", "Altitudinea la care se află izvorul: 321 m", "Declarat monument al naturii în anul 1963"],
+      en: ["Spring depth: exceeds 154 meters", "Part of Risnjak National Park since 1953", "Altitude of the spring: 321 m", "Protected as a natural monument since 1963"],
     }, image: "/poi-images/croatia-kupa-source-nature-v2.webp"},
   {
     id: "croatia-una-spring-nature-v2",
@@ -1093,16 +1702,16 @@ imageHint: "Susak island sandy paths yellow loess cliffs",
     },
     imageHint: "Source of the Una spring deep blue",
     descriptionAdvanced: {
-      de: "Die Quelle des Flusses Una befindet sich im südlichen Teil der Lika-Region, nahe der Grenze zu Bosnien und Herzegowina, in der Nähe des Dorfes Donja Suvaja. Sie gilt als eine der tiefsten Karstquellen der Welt und wurde von Tauchern bis in eine Rekordtiefe von 248 Metern erforscht, ohne das Ende des vertikalen Kanals zu erreichen. Die Quelle bildet einen kreisförmigen See mit intensiv blau-grünem Wasser, der am Fuße der Berge Stražbenica und Čemernica liegt. Das gesamte Gebiet um die Quelle wurde 1968 zum hydrologischen Naturdenkmal erklärt und umfasst eine Fläche von etwa 160 Hektar. Die Una zeichnet sich durch ihr extrem sauberes Wasser und den Reichtum an Bachforellen aus. Die Umgebung ist geprägt von unberührter Wildnis und bietet Lebensraum für zahlreiche geschützte Tierarten wie den Steinadler und die Gämse. Historisch war die Quelle ein wichtiger Bezugspunkt für die lokale Bevölkerung und dient heute als bedeutendes Ziel für den ökologischen Tourismus. Die konstante Wasserführung macht die Una zu einem der wasserreichsten rechten Zuflüsse der Save.",
-      hu: "Az Una-folyó forrása a Lika régió déli részén, a bosznia-hercegovinai határ közelében, Donja Suvaja falu mellett található. A világ egyik legmélyebb karsztforrásaként tartják számon, amelyet a búvárok 248 méteres rekordmélységig tártak fel, de a függőleges járat végét még így sem érték el. A forrás egy kör alakú, intenzív kék-zöld vizű tavat alkot a Stražbenica és a Čemernica hegyek lábánál. A forrás körüli teljes területet 1968-ban hidrológiai természeti műemlékké nyilvánították, amely mintegy 160 hektárt foglal magában. Az Una rendkívül tiszta vizéről és sebes pisztrángokban való gazdagságáról ismert. A környéket érintetlen vadon jellemzi, amely számos védett állatfajnak, például a szirti sasnak és a zergének ad otthont. Történelmileg a forrás fontos viszonyítási pont volt a helyi lakosság számára, ma pedig az ökoturizmus jelentős célpontja. Állandó vízhozama miatt az Una a Száva-folyó egyik legbővizűbb jobb oldali mellékfolyója.",
-      ro: "Izvorul râului Una este situat în partea de sud a regiunii Lika, lângă granița cu Bosnia și Herțegovina, în apropierea satului Donja Suvaja. Este considerat unul dintre cele mai adânci izvoare carstice din lume, fiind explorat de scafandri până la o adâncime record de 248 de metri, fără a ajunge la capătul canalului vertical. Izvorul formează un lac circular cu apă de un albastru-verzui intens, situat la poalele munților Stražbenica și Čemernica. Întreaga zonă din jurul izvorului a fost declarată monument natural hidrologic în 1968 și acoperă o suprafață de aproximativ 160 de hectare. Râul Una se remarcă prin apa sa extrem de curată și abundența păstrăvului indigen. Împrejurimile sunt caracterizate de sălbăticie virgină și oferă habitat pentru numeroase specii de animale protejate, cum ar fi acvila de munte și capra neagră. Din punct de vedere istoric, izvorul a fost un punct de referință important pentru populația locală, iar astăzi servește ca destinație majoră pentru turismul ecologic. Debitul constant face din Una unul dintre cei mai bogați afluenți de dreapta ai râului Sava.",
-      en: "The source of the Una River is located in the southern part of the Lika region, near the border with Bosnia and Herzegovina, close to the village of Donja Suvaja. It is considered one of the deepest karst springs in the world, having been explored by divers to a record depth of 248 meters without reaching the end of the vertical shaft. The spring forms a circular lake with intense blue-green water, situated at the foot of the Stražbenica and Čemernica mountains. The entire area around the source was declared a hydrological natural monument in 1968, covering an area of about 160 hectares. The Una is notable for its extremely clean water and richness in brown trout. The surroundings are characterized by untouched wilderness and provide habitat for numerous protected animal species such as the golden eagle and chamois. Historically, the spring was an important reference point for the local population and today serves as a major destination for ecological tourism. Its constant water flow makes the Una one of the most water-rich right tributaries of the Sava River.",
+      de: "Die Karstquelle in der Lika-Region nahe Donja Suvaja erreicht eine bestätigte Tiefe von 248 Metern. Seit 1968 ist dieser Quellsee mit 9 Grad kaltem Wasser ein Naturdenkmal.",
+      hu: "A Lika régióban fakadó Una folyó karsztforrása egy 248 méter mély, tölcsér alakú tó. Az 1968 óta hidrogeológiai műemlékként védett víz hőmérséklete állandóan 9-10 °C körüli.",
+      ro: "Izvorul carstic al râului Una din regiunea Lika are o adâncime explorată de 248 metri. Declarat monument hidrologic în 1968, lacul de izvor are o apă rece de 9-10 grade.",
+      en: "The Una river karst spring near Donja Suvaja has an explored depth of 248 meters. Protected as a hydrological monument since 1968, the pool maintains a 9-10°C temperature.",
     },
     factsAdvanced: {
-      de: ["Erforschte Rekordtiefe: 248 Meter", "Jahr der Unterschutzstellung: 1968", "Wassertemperatur: ca. 7,9 °C", "Fläche des Schutzgebiets: 160 Hektar", "Lage: Gebirge Stražbenica und Čemernica", "Typ: Vaucluse-Karstquelle"],
-      hu: ["Feltárt rekordmélység: 248 méter", "Védelem alá helyezés éve: 1968", "Víz hőmérséklete: kb. 7,9 °C", "Védett terület nagysága: 160 hektár", "Helyszín: Stražbenica és Čemernica hegység", "Típus: Vaucluse-típusú karsztforrás"],
-      ro: ["Adâncime record explorată: 248 metri", "Anul declarării ca monument: 1968", "Temperatura apei: aprox. 7,9 °C", "Suprafața ariei protejate: 160 hectare", "Locație: munții Stražbenica și Čemernica", "Tip: izvor carstiv de tip Vaucluse"],
-      en: ["Record explored depth: 248 meters", "Year of protection: 1968", "Water temperature: approx. 7.9 °C", "Protected area size: 160 hectares", "Location: Stražbenica and Čemernica mountains", "Type: Vaucluse-style karst spring"],
+      de: ["Die tiefste bisher durch Taucher erreichte Tiefe beträgt 248 Meter.", "Die Quelle liegt auf einer Höhe von 396 Metern über dem Meeresspiegel.", "Die Wassertemperatur bleibt konstant zwischen 9 und 10 °C.", "Im Jahr 1968 wurde die Karstquelle als Naturdenkmal unter Schutz gestellt.", "Der Quelltopf befindet sich im kroatischen Teil der Lika-Region.", "Der Fluss Una bildet im weiteren Verlauf die Grenze zu Bosnien und Herzegowina."],
+      hu: ["A búvárok által eddig feltárt legnagyobb mélység 248 méter.", "A forrástó felszíne 396 méteres tengerszint feletti magasságban fekszik.", "A feltörő karsztvíz hőmérséklete télen-nyáron 9-10 °C között ingadozik.", "A forrást és környékét 1968-ban nyilvánították hidrológiai műemlékké.", "A tó alja egy meredeken lejtő, szűk barlangjáratban folytatódik.", "Az Una folyó Donja Suvaja település közelében ered."],
+      ro: ["Scafandrii speologi au atins o adâncime de 248 de metri în anul 2016.", "Izvorul este situat la o altitudine de 396 de metri deasupra nivelului mării.", "Temperatura apei rămâne constantă pe tot parcursul anului, la 9-10 °C.", "Bazinul hidrografic a fost protejat oficial începând cu anul 1968.", "Izvorul principal se află în apropierea satului Donja Suvaja din Lika.", "Debitul apei se menține puternic chiar și în perioadele de secetă."],
+      en: ["Cave divers have explored the spring down to a depth of 248 meters.", "The surface of the karst pool is at an elevation of 396 meters.", "Water temperature fluctuates minimally, staying between 9°C and 10°C.", "It was designated a protected hydrological nature monument in 1968.", "The spring emerges beneath the slopes of the Plješivica mountain.", "It discharges substantial volumes of water, forming the Una river."],
     }, image: "/poi-images/croatia-una-spring-nature-v2.webp"},
   {
     id: "croatia-vrana-lake-cres-nature-v2",
@@ -1124,16 +1733,16 @@ imageHint: "Susak island sandy paths yellow loess cliffs",
     },
     imageHint: "Vrana Lake Cres island freshwater",
     descriptionAdvanced: {
-      de: "Der Vrana-See auf der Insel Cres ist ein einzigartiges hydrologisches Phänomen und das wichtigste Süßwasserreservoir für die Inseln Cres und Lošinj. Es handelt sich um eine Kryptodepression, deren Wasseroberfläche etwa 13 Meter über dem Meeresspiegel liegt, während der tiefste Punkt des Sees 61 Meter unter dem Meeresspiegel erreicht. Der See erstreckt sich über eine Fläche von rund 5,7 Quadratkilometern und enthält etwa 220 Millionen Kubikmeter kristallklares Wasser. Aufgrund seiner strategischen Bedeutung für die Trinkwasserversorgung ist der Zugang zum See streng reglementiert und Schwimmen sowie andere Freizeitaktivitäten sind untersagt. Wissenschaftlich ist der See faszinierend, da er keinen oberirdischen Zufluss hat und ausschließlich durch Niederschläge und unterirdische Quellen gespeist wird. Die Wasserreinheit ist außergewöhnlich hoch, was den See zu einem ökologisch sensiblen System macht. Um den See ranken sich zahlreiche lokale Legenden, darunter Geschichten über versunkene Schlösser und Fabelwesen. Seit Jahrzehnten dient er als stabilisierende Komponente für das gesamte Archipel.",
-      hu: "A Cres-szigeten található Vransko-tó egyedülálló hidrológiai jelenség, és a Cres- és Lošinj-szigetek legfontosabb édesvíz-tartaléka. Ez egy kriptodepresszió, amelynek vízfelülete körülbelül 13 méterrel a tengerszint felett van, míg a tó legmélyebb pontja 61 méterrel a tengerszint alatt található. A tó területe mintegy 5,7 négyzetkilométer, és körülbelül 220 millió köbméter kristálytiszta vizet tárol. Az ivóvízellátásban betöltött stratégiai jelentősége miatt a tóhoz való hozzáférés szigorúan szabályozott, az úszás és egyéb szabadidős tevékenységek tilosak. Tudományos szempontból lenyűgöző, hogy a tónak nincs felszíni befolyása, kizárólag a csapadékból és föld alatti forrásokból táplálkozik. A víz tisztasága rendkívül magas, ami a tavat ökológiailag érzékeny rendszerré teszi. A tóhoz számos helyi legenda fűződik, többek között elsüllyedt kastélyokról és mesebeli lényekről szóló történetek. Évtizedek óta stabilizáló elemként szolgál az egész szigetvilág számára.",
-      ro: "Lacul Vrana de pe insula Cres este un fenomen hidrologic unic și cel mai important rezervor de apă dulce pentru insulele Cres și Lošinj. Este o criptodepresiune a cărei suprafață a apei se află la aproximativ 13 metri deasupra nivelului mării, în timp ce cel mai adânc punct al lacului atinge 61 de metri sub nivelul mării. Lacul se întinde pe o suprafață de aproximativ 5,7 kilometri pătrați și conține circa 220 de milioane de metri cubi de apă cristalină. Datorită importanței sale strategice pentru alimentarea cu apă potabilă, accesul la lac este strict reglementat, iar înotul și alte activități recreative sunt interzise. Din punct de vedere științific, lacul este fascinant deoarece nu are afluenți de suprafață, fiind alimentat exclusiv de precipitații și izvoare subterane. Puritatea apei este excepțional de ridicată, ceea ce face din lac un sistem ecologic sensibil. În jurul lacului circulă numeroase legende locale, inclusiv povești despre castele scufundate și creaturi fabuloase. De decenii, acesta servește ca o componentă stabilizatoare pentru întregul arhipelag.",
-      en: "Vrana Lake on the island of Cres is a unique hydrological phenomenon and the most important freshwater reservoir for the islands of Cres and Lošinj. It is a cryptodepression whose water surface lies about 13 meters above sea level, while the deepest point of the lake reaches 61 meters below sea level. The lake covers an area of around 5.7 square kilometers and contains approximately 220 million cubic meters of crystal-clear water. Due to its strategic importance for drinking water supply, access to the lake is strictly regulated, and swimming as well as other recreational activities are prohibited. Scientifically, the lake is fascinating as it has no surface inflow and is fed exclusively by precipitation and underground springs. The water purity is exceptionally high, making the lake an ecologically sensitive system. Numerous local legends surround the lake, including stories of sunken castles and mythical creatures. For decades, it has served as a stabilizing component for the entire archipelago.",
+      de: "Das Vransko-See auf der Insel Cres ist eine Kryptodepression mit 74 Metern Maximaltiefe. Der 5,5 Quadratkilometer große Süßwassersee versorgt die Region mit Trinkwasser.",
+      hu: "A Cres szigetén fekvő Vransko-tó egy kriptodepresszió, amelynek feneke 61 méterrel a tengerszint alatt van. A 5,5 km² kiterjedésű tó biztosítja a szigetcsoport ivóvízellátását.",
+      ro: "Lacul Vrana de pe insula Cres este o criptodepresiune cu adâncimea maximă de 74 de metri. Acest lac de apă dulce de 5,5 km² furnizează apă potabilă pentru arhipelagul local.",
+      en: "Vrana Lake on Cres island is a cryptodepression reaching a maximum depth of 74 meters. This 5.5-square-kilometer freshwater lake supplies drinking water to the local islands.",
     },
     factsAdvanced: {
-      de: ["Tiefster Punkt: 74 Meter unter Seeoberfläche", "Volumen: ca. 220 Millionen m³ Wasser", "Oberfläche: 5,75 km²", "Höhe über dem Meer: 13 Meter", "Typ: Kryptodepression", "Versorgung: Trinkwasser für Cres und Lošinj"],
-      hu: ["Legmélyebb pont: 74 méterrel a felszín alatt", "Térfogat: kb. 220 millió m³ víz", "Felszíni terület: 5,75 km²", "Magasság a tenger felett: 13 méter", "Típus: kriptodepresszió", "Ellátás: ivóvíz Cres és Lošinj számára"],
-      ro: ["Adâncimea maximă: 74 metri sub suprafață", "Volum: aprox. 220 milioane m³ de apă", "Suprafață: 5,75 km²", "Altitudine: 13 metri deasupra mării", "Tip: criptodepresiune", "Utilitate: apă potabilă pentru Cres și Lošinj"],
-      en: ["Deepest point: 74 meters below surface", "Volume: approx. 220 million m³ of water", "Surface area: 5.75 km²", "Elevation: 13 meters above sea level", "Type: Cryptodepression", "Supply: Drinking water for Cres and Lošinj"],
+      de: ["Die Wasseroberfläche liegt 13 Meter über dem Meeresspiegel.", "Die tiefste Stelle des Sees befindet sich 74 Meter unter der Wasseroberfläche.", "Der Seeboden liegt 61 Meter unter dem Meeresspiegel (Kryptodepression).", "Das Gewässer erstreckt sich über eine Fläche von 5,5 Quadratkilometern.", "Der See fasst ein Wasservolumen von etwa 220 Millionen Kubikmetern.", "Das Betreten der Uferzone ist aus Gründen des Trinkwasserschutzes streng verboten."],
+      hu: ["A víztükör átlagosan 13 méterrel a tengerszint felett helyezkedik el.", "A tó legmélyebb pontja 74 méterre található a felszíntől.", "A tófenék 61 méterrel a tengerszint alatt fekvő kriptodepressziót alkot.", "A felszíni vízgyűjtő terület mérete eléri a 24 négyzetkilométert.", "A tó becsült víztérfogata mintegy 220 millió köbméter.", "A Cres és Lošinj szigetek lakossága innen nyeri az ivóvizet."],
+      ro: ["Nivelul apei este situat la 13 metri deasupra nivelului mării.", "Adâncimea maximă a lacului Vrana atinge 74 de metri.", "Fundul lacului reprezintă o criptodepresiune aflată la -61 de metri.", "Suprafața totală a luciului de apă este de 5,5 kilometri pătrați.", "Lacul stochează aproximativ 220 de milioane de metri cubi de apă dulce.", "Accesul publicului este restricționat pentru a proteja sursa de apă potabilă."],
+      en: ["The surface elevation fluctuates around 13 meters above sea level.", "The deepest measured point reaches down to 74 meters.", "The lake bottom forms a cryptodepression 61 meters below sea level.", "It covers a surface area of 5.5 square kilometers.", "The lake holds roughly 220 million cubic meters of fresh water.", "It provides the sole drinking water supply for the islands of Cres and Lošinj."],
     }, image: "/poi-images/croatia-vrana-lake-cres-nature-v2.webp"},
   {
     id: "croatia-jankovac-valley-nature-v2",
@@ -1155,16 +1764,16 @@ imageHint: "Susak island sandy paths yellow loess cliffs",
     },
     imageHint: "Jankovac waterfall Skakavac Papuk",
     descriptionAdvanced: {
-      de: "Das Jankovac-Tal im Naturpark Papuk ist ein Juwel des slawonischen Hochlandes und wurde nach dem Grafen Josip Janković benannt. Der Graf, ein Naturliebhaber aus dem 19. Jahrhundert, schuf hier eine parkähnliche Landschaft mit Seen und Wanderwegen, auf denen er seinen Lebensabend verbrachte. Das Herzstück des Tals ist der 35 Meter hohe Skakavac-Wasserfall, der über eine Travertinbarriere in den Canyon stürzt. Die geologische Besonderheit des Gebiets liegt im Zusammentreffen von metamorphem Gestein und Kalkstein, was zu zahlreichen Quellen und einer reichen Flora führt. Der Lehrpfad „Grafenweg“ führt Besucher durch dichte Buchenwälder zu historischen Stätten wie der Höhle der slawonischen Räuber. Seit 1955 steht das Tal unter Naturschutz und gilt als eines der schönsten Ausflugsziele im kontinentalen Kroatien. Das Jankovac-Tal beherbergt auch eine Gebirgshütte, die als Ausgangspunkt für zahlreiche Wanderungen im Papuk-Gebirge dient. Die kulturelle und natürliche Bedeutung des Ortes wurde durch die Anerkennung des Papuk als UNESCO Global Geopark weiter gestärkt.",
-      hu: "A Papuk Természetvédelmi Parkban található Jankovac-völgy a szlavóniai hegyvidék egyik gyöngyszeme, amely Josip Janković grófról kapta a nevét. A 19. századi természetkedvelő gróf itt hozott létre egy parkosított tájat tavakkal és sétautakkal, ahol élete utolsó éveit töltötte. A völgy ékköve a 35 méter magas Skakavac-vízesés, amely egy mésztufa gáton keresztül zúdul le a kanyonba. A terület geológiai különlegessége a metamorf kőzetek és a mészkő találkozásában rejlik, ami számos forrást és gazdag flórát eredményez. A „Grófi út” tanösvény sűrű bükkerdőkön keresztül vezet el a látogatókat olyan történelmi helyszínekhez, mint a szlavóniai rablók barlangja. A völgy 1955 óta áll természetvédelmi oltalom alatt, és a kontinentális Horvátország egyik legszebb kirándulóhelyeként ismert. A Jankovac-völgyben egy hegyi menedékház is található, amely számos Papuk-hegységi túra kiindulópontja. A helyszín kulturális és természeti jelentőségét tovább erősítette a Papuk UNESCO Globális Geoparkká nyilvánítása.",
-      ro: "Valea Jankovac din Parcul Natural Papuk este o bijuterie a regiunii muntoase din Slavonia, fiind numită după contele Josip Janković. Contele, un iubitor de natură din secolul al XIX-lea, a creat aici un peisaj de tip parc, cu lacuri și trasee de drumeție, unde și-a petrecut ultimii ani din viață. Piesa centrală a văii este cascada Skakavac, înaltă de 35 de metri, care se prăbușește peste o barieră de travertin în canion. Particularitatea geologică a zonei constă în întâlnirea dintre rocile metamorfice și calcar, ceea ce duce la numeroase izvoare și o floră bogată. Traseul educațional „Calea Contelui” conduce vizitatorii prin păduri dese de fag către situri istorice, cum ar fi peștera tâlharilor din Slavonia. Valea se află sub protecție din 1955 și este considerată una dintre cele mai frumoase destinații din Croația continentală. Valea Jankovac găzduiește și o cabană montană care servește drept punct de plecare pentru numeroase drumeții în munții Papuk. Importanța culturală și naturală a locului a fost consolidată prin recunoașterea Papuk ca UNESCO Global Geopark.",
-      en: "Jankovac Valley in the Papuk Nature Park is a gem of the Slavonian highlands, named after Count Josip Janković. A 19th-century nature lover, the Count created a park-like landscape here with lakes and walking paths where he spent the final years of his life. The centerpiece of the valley is the 35-meter-high Skakavac waterfall, which tumbles over a travertine barrier into the canyon. The area's geological uniqueness lies in the meeting of metamorphic rock and limestone, resulting in numerous springs and rich flora. The 'Count's Path' educational trail leads visitors through dense beech forests to historical sites such as the cave of the Slavonian brigands. Since 1955, the valley has been under protection and is regarded as one of the most beautiful destinations in continental Croatia. Jankovac Valley also hosts a mountain lodge that serves as a starting point for numerous hikes in the Papuk mountains. The cultural and natural significance of the site was further bolstered by Papuk's recognition as a UNESCO Global Geopark.",
+      de: "Der Parkwald Jankovac im Papuk-Gebirge liegt auf 475 Metern Höhe. Buchenwälder, zwei Stauseen und der 35 Meter hohe Skakavac-Wasserfall prägen dieses 1955 geschützte Reservat.",
+      hu: "A Papuk Natúrparkban 475 méteres magasságban fekvő Jankovac parkerdő 1955 óta védett. Bükkerdők, két mesterséges tó és a 35 méter magas Skakavac-vízesés alkotják a völgyet.",
+      ro: "Parcul forestier Jankovac din Munții Papuk se află la 475 metri altitudine. Protejat din 1955, are păduri de fagi, două lacuri artificiale și cascada Skakavac de 35 de metri.",
+      en: "Situated at 475 meters in the Papuk Mountains, Jankovac Forest Park was protected in 1955. It features dense beech forests, two artificial lakes, and the 35m Skakavac waterfall.",
     },
     factsAdvanced: {
-      de: ["Höhe des Skakavac-Wasserfalls: 35 Meter", "Jahr der Unterschutzstellung: 1955", "Namensgeber: Graf Josip Janković (19. Jh.)", "Lage: Naturpark Papuk, Slawonien", "UNESCO-Status: Teil des Global Geoparks", "Höhenlage: ca. 475 Meter über dem Meer"],
-      hu: ["Skakavac-vízesés magassága: 35 méter", "Védelem alá helyezés éve: 1955", "Névadó: Josip Janković gróf (19. sz.)", "Helyszín: Papuk Természetvédelmi Park, Szlavónia", "UNESCO státusz: Globális Geopark része", "Tengerszint feletti magasság: kb. 475 méter"],
-      ro: ["Înălțimea cascadei Skakavac: 35 metri", "Anul protecției: 1955", "Omonim: Contele Josip Janković (sec. XIX)", "Locație: Parcul Natural Papuk, Slavonia", "Statut UNESCO: parte a Global Geopark", "Altitudine: aprox. 475 metri deasupra mării"],
-      en: ["Height of Skakavac waterfall: 35 meters", "Year of protection: 1955", "Eponym: Count Josip Janković (19th century)", "Location: Papuk Nature Park, Slavonia", "UNESCO status: Part of Global Geopark", "Elevation: approx. 475 meters above sea level"],
+      de: ["Der Waldpark liegt auf einer durchschnittlichen Höhe von 475 Metern.", "Der Skakavac-Wasserfall stürzt über eine 35 Meter hohe Felswand.", "Das Gebiet wurde 1955 offiziell als geschützter Parkwald ausgewiesen.", "Benannt nach dem Adeligen Josip Janković, der hier im 19. Jahrhundert lebte.", "Das Tal beherbergt zwei von Menschenhand geschaffene Seen.", "Das Gebiet befindet sich innerhalb des Geoparks Papuk, einem UNESCO-Geopark."],
+      hu: ["A parkerdő átlagos tengerszint feletti magassága 475 méter.", "A völgy legfőbb látványossága a 35 méter magas Skakavac-vízesés.", "A terület 1955-ben kapta meg a parkerdő védett minősítést.", "A völgy névadója gróf Josip Janković, aki a 19. században élt itt.", "A vízfolyások felduzzasztásával két mesterséges tavat alakítottak ki.", "A Papuk Natúrpark részeként a terület UNESCO Geopark státusszal is rendelkezik."],
+      ro: ["Parcul forestier este situat la o altitudine medie de 475 de metri.", "Cascada Skakavac are o cădere verticală impresionantă de 35 de metri.", "Zona a primit statutul oficial de parc forestier protejat în anul 1955.", "Numele provine de la nobilul Josip Janković din secolul al XIX-lea.", "În secolul al XIX-lea au fost construite două lacuri artificiale.", "Valea face parte din Parcul Natural Papuk, desemnat Geoparc UNESCO."],
+      en: ["The forest park is situated at an elevation of 475 meters.", "The impressive Skakavac waterfall features a vertical drop of 35 meters.", "The valley was officially declared a protected forest park in 1955.", "It was named after Count Josip Janković, who settled there in the 19th century.", "The valley contains two artificial lakes created by damming the local springs.", "It is a central feature of the Papuk UNESCO Global Geopark."],
     }, image: "/poi-images/croatia-jankovac-valley-nature-v2.webp"},
   {
     id: "croatia-elafiti-islands-nature-v2",
@@ -1186,16 +1795,16 @@ imageHint: "Susak island sandy paths yellow loess cliffs",
     },
     imageHint: "Elafiti islands aerial view Dubrovnik",
     descriptionAdvanced: {
-      de: "Die Elaphitischen Inseln sind ein Archipel nordwestlich von Dubrovnik und bestehen aus dreizehn Inseln, von denen nur die drei größten – Šipan, Lopud und Koločep – dauerhaft bewohnt sind. Der Name leitet sich vom griechischen Wort „elaphos“ für Hirsch ab, was auf den einstigen Wildreichtum der Inseln hindeutet. Historisch dienten die Inseln der Dubrovniker Aristokratie als Sommerresidenzen, wovon heute noch zahlreiche prachtvolle Villen und Kapellen aus der Renaissance- und Barockzeit zeugen. Šipan ist die größte Insel und bekannt für ihren Oliven- und Weinanbau, während Lopud für seine Sandstrände wie den Sunj-Strand berühmt ist. Koločep, die dem Festland am nächsten gelegene Insel, ist vollständig autofrei und besticht durch dichte Kiefernwälder und versteckte Höhlen. Die Flora des Archipels ist typisch mediterran mit Zypressen, Zitrusfrüchten und Johannisbrotbäumen. Der gesamte Archipel steht unter Naturschutz, um das empfindliche marine Ökosystem und das kulturelle Erbe zu bewahren. Heute sind die Elafiti ein wichtiges Ziel für Tagesausflügler aus Dubrovnik und Yachtreisende.",
-      hu: "Az Elafit-szigetek egy Dubrovniktól északnyugatra fekvő szigetcsoport, amely tizenhárom szigetből áll, de ezek közül csak a három legnagyobb – Šipan, Lopud és Koločep – lakott állandóan. A név a görög „elaphosz” (szarvas) szóból származik, ami a szigetek egykori vadgazdagságára utal. Történelmileg a szigetek a dubrovniki arisztokrácia nyári rezidenciáiként szolgáltak, amiről ma is számos pompás reneszánsz és barokk villa, valamint kápolna tanúskodik. Šipan a legnagyobb sziget, amely olíva- és szőlőtermesztéséről ismert, míg Lopud a homokos strandjairól, például a Sunj-strandról híres. Koločep, a szárazföldhöz legközelebb eső sziget teljesen autómentes, és sűrű fenyőerdőivel, valamint rejtett barlangjaival bűvöli el a látogatókat. A szigetvilág flórája tipikus mediterrán, ciprusokkal, citrusfélékkel és szentjánoskenyérfákkal. Az egész szigetcsoport természetvédelmi terület az érzékeny tengeri ökoszisztéma és a kulturális örökség megőrzése érdekében. Ma az Elafit-szigetek a dubrovniki kirándulók és a jachtosok fontos célpontja.",
-      ro: "Insulele Elafite reprezintă un arhipelag situat la nord-vest de Dubrovnik, format din treisprezece insule, dintre care doar cele mai mari trei – Šipan, Lopud și Koločep – sunt locuite permanent. Numele provine de la cuvântul grecesc „elaphos”, care înseamnă cerb, indicând abundența de vânat de odinioară pe insule. Din punct de vedere istoric, insulele au servit aristocrației din Dubrovnik drept reședințe de vară, fapt atestat astăzi de numeroasele vile și capele magnifice din perioadele renascentistă și barocă. Šipan este cea mai mare insulă și este cunoscută pentru cultivarea măslinelor și a viței de vie, în timp ce Lopud este faimoasă pentru plajele sale cu nisip, cum ar fi plaja Sunj. Koločep, insula cea mai apropiată de continent, este complet fără mașini și impresionează prin pădurile dese de pini și peșterile ascunse. Flora arhipelagului este tipic mediteraneană, cu chiparoși, citrice și roscovi. Întregul arhipelag este protejat pentru a conserva ecosistemul marin sensibil și moștenirea culturală. Astăzi, Elafite sunt o destinație majoră pentru excursioniștii din Dubrovnik și călătorii cu iahtul.",
-      en: "The Elaphiti Islands are an archipelago northwest of Dubrovnik, consisting of thirteen islands, of which only the three largest – Šipan, Lopud, and Koločep – are permanently inhabited. The name is derived from the Greek word 'elaphos' for deer, hinting at the islands' once-abundant wildlife. Historically, the islands served as summer residences for the Dubrovnik aristocracy, evidenced today by numerous magnificent Renaissance and Baroque villas and chapels. Šipan is the largest island and is known for its olive and wine cultivation, while Lopud is famous for its sandy beaches such as Sunj beach. Koločep, the island closest to the mainland, is completely car-free and charms visitors with its dense pine forests and hidden caves. The archipelago's flora is typically Mediterranean, with cypresses, citrus fruits, and carob trees. The entire archipelago is under protection to preserve the delicate marine ecosystem and cultural heritage. Today, the Elaphiti are a key destination for day-trippers from Dubrovnik and yacht travelers.",
+      de: "Die Elaphiten-Inseln sind eine Inselgruppe vor der Küste Dubrovniks in der Adria. Sie bestehen aus 13 Inseln, von denen die größten Koločep, Lopud und Šipan sind. Die Inseln sind bekannt für ihre unberührte Natur, Sandstrände und Olivenhaine. Sie sind Teil des Naturschutzgebiets und beliebt für Tagesausflüge. Die Bevölkerung lebt hauptsächlich von Tourismus und Fischerei.",
+      hu: "Az Elafiti-szigetek egy szigetcsoport a dubrovniki partok előtt az Adriai-tengerben. 13 szigetből áll, a legnagyobbak Koločep, Lopud és Šipan. A szigetek érintetlen természetükről, homokos strandjaikról és olajfaligeteikről híresek. Természetvédelmi terület részét képezik, és népszerűek egynapos kirándulásokra. A lakosság főként turizmusból és halászatból él.",
+      ro: "Insulele Elafite sunt un arhipelag în largul coastei Dubrovnikului, în Marea Adriatică. Sunt alcătuite din 13 insule, dintre care cele mai mari sunt Koločep, Lopud și Šipan. Insulele sunt cunoscute pentru natura lor virgină, plaje cu nisip și livezi de măslini. Fac parte dintr-o arie protejată și sunt populare pentru excursii de o zi. Populația trăiește în principal din turism și pescuit.",
+      en: "The Elafiti Islands are an archipelago off the coast of Dubrovnik in the Adriatic Sea. The group comprises 13 islands, with the largest being Koločep, Lopud, and Šipan. Known for pristine nature, sandy beaches, and olive groves, they are part of a protected area. Popular for day trips, the islands' economy relies on tourism and fishing.",
     },
     factsAdvanced: {
-      de: ["Anzahl der bewohnten Inseln: 3", "Größte Insel: Šipan (15,8 km²)", "Etymologie: Griechisch 'elaphos' (Hirsch)", "Entfernung von Dubrovnik: ca. 15 km", "Insel ohne Autos: Koločep", "Besonderheit: Sommerresidenzen aus der Renaissance"],
-      hu: ["Lakott szigetek száma: 3", "Legnagyobb sziget: Šipan (15,8 km²)", "Etimológia: Görög 'elaphosz' (szarvas)", "Távolság Dubrovniktól: kb. 15 km", "Autómentes sziget: Koločep", "Különlegesség: reneszánsz nyári rezidenciák"],
-      ro: ["Număr de insule locuite: 3", "Cea mai mare insulă: Šipan (15,8 km²)", "Etimologie: Greacă 'elaphos' (cerb)", "Distanța de Dubrovnik: aprox. 15 km", "Insulă fără mașini: Koločep", "Particularitate: reședințe de vară din perioada Renașterii"],
-      en: ["Number of inhabited islands: 3", "Largest island: Šipan (15.8 km²)", "Etymology: Greek 'elaphos' (deer)", "Distance from Dubrovnik: approx. 15 km", "Car-free island: Koločep", "Highlight: Renaissance summer residences"],
+      de: ["Die Inselgruppe hat 13 Inseln.", "Koločep ist 3,5 km² groß.", "Lopud hat eine Fläche von 4,6 km².", "Šipan ist die größte mit 6,2 km².", "Die Entfernung zu Dubrovnik beträgt 10 km.", "Die Bevölkerung der Inseln beträgt etwa 800."],
+      hu: ["A szigetcsoport 13 szigetből áll.", "Koločep 3,5 km² területű.", "Lopud 4,6 km².", "Šipan a legnagyobb 6,2 km²-rel.", "Dubrovniktól való távolság 10 km.", "A szigetek lakossága kb. 800 fő."],
+      ro: ["Arhipelagul are 13 insule.", "Koločep are 3,5 km².", "Lopud are 4,6 km².", "Šipan este cea mai mare cu 6,2 km².", "Distanța până la Dubrovnik este de 10 km.", "Populația insulelor este de aproximativ 800 de locuitori."],
+      en: ["The archipelago has 13 islands.", "Koločep is 3.5 km².", "Lopud is 4.6 km².", "Šipan is the largest at 6.2 km².", "Distance to Dubrovnik is 10 km.", "The islands' population is about 800."],
     }, image: "/poi-images/croatia-elafiti-islands-nature-v2.webp"},
   {
     id: "croatia-vela-draga-nature-v2",
@@ -1217,16 +1826,16 @@ imageHint: "Susak island sandy paths yellow loess cliffs",
     },
     imageHint: "Vela Draga limestone towers Ucka",
     descriptionAdvanced: {
-      de: "Vela Draga ist ein beeindruckendes geomorphologisches Naturdenkmal am nordöstlichen Rand des Naturparks Učka in Istrien. Die Schlucht ist bekannt für ihre spektakulären Kalksteintürme und Felsformationen, die teilweise über 60 Meter hoch in den Himmel ragen. Diese Formationen entstanden durch die erosive Kraft von Wasser über Jahrmillionen, wobei weicheres Gestein abgetragen wurde und die härteren Karstkerne stehen blieben. Das Gebiet wurde bereits im Jahr 1963 unter Naturschutz gestellt und später in das Netzwerk des Naturparks Učka integriert. Entlang der Schlucht führt ein Lehrpfad, der über die Entstehung der Karstlandschaft, die lokale Flora und die Geschichte der Region informiert. Vela Draga ist ein international bekanntes Klettergebiet mit zahlreichen Routen unterschiedlicher Schwierigkeitsgrade an den markanten Felstürmen. Von den Aussichtspunkten am oberen Rand bietet sich ein weiter Blick über das Učka-Massiv und die umliegende istrische Landschaft. Die Flora in der Schlucht ist an die extremen Bedingungen des Karsts angepasst und umfasst seltene endemische Pflanzenarten.",
-      hu: "Vela Draga egy lenyűgöző geomorfológiai természeti műemlék az Isztriai-félszigeten, az Učka Természetvédelmi Park északkeleti peremén. A szurdok látványos mészkőtornyairól és sziklaalakzatairól ismert, amelyek helyenként több mint 60 méter magasra nyúlnak az ég felé. Ezek az alakzatok az erózió hatására jöttek létre évmilliók alatt, amikor a víz elhordta a puhább kőzeteket, a keményebb karsztmagokat pedig hátrahagyta. A területet már 1963-ban természetvédelmi oltalom alá helyezték, majd később az Učka Természetvédelmi Park hálózatába integrálták. A szurdok mentén egy tanösvény halad végig, amely a karszttáj kialakulásáról, a helyi flóráról és a régió történelméről nyújt tájékoztatást. Vela Draga nemzetközileg ismert sziklamászó helyszín, számos különböző nehézségű útvonallal a jellegzetes sziklatűkön. A felső peremen található kilátópontokról széles körkilátás nyílik az Učka-masszívumra és a környező isztriai tájra. A szurdok flórája a karszt szélsőséges körülményeihez alkalmazkodott, és ritka endemikus növényfajokat is tartalmaz.",
-      ro: "Vela Draga este un monument natural geomorfologic impresionant situat la marginea de nord-est a Parcului Natural Učka din Istria. Canionul este cunoscut pentru turnurile sale spectaculoase de calcar și formațiunile stâncoase care se ridică la peste 60 de metri înălțime. Aceste formațiuni s-au format prin forța erozivă a apei de-a lungul a milioane de ani, rocile mai moi fiind îndepărtate, în timp ce nucleele carstice mai dure au rămas în picioare. Zona a fost declarată monument natural încă din anul 1963 și ulterior a fost integrată în rețeaua Parcului Natural Učka. De-a lungul canionului există un traseu educațional care oferă informații despre formarea peisajului carstic, flora locală și istoria regiunii. Vela Draga este o zonă de alpinism cunoscută la nivel internațional, cu numeroase trasee de diferite grade de dificultate pe turnurile de stâncă proeminente. De la punctele de belvedere de pe marginea superioară se deschide o vedere panoramică asupra masivului Učka și a peisajului istrian înconjurător. Flora din canion este adaptată condițiilor extreme ale carstului și include specii de plante endemice rare.",
-      en: "Vela Draga is an impressive geomorphological natural monument on the northeastern edge of the Učka Nature Park in Istria. The canyon is renowned for its spectacular limestone towers and rock formations, some of which soar over 60 meters high into the sky. These formations were created by the erosive force of water over millions of years, as softer rocks were worn away, leaving behind the harder karst cores. The area was placed under protection as early as 1963 and later integrated into the Učka Nature Park network. An educational trail runs along the canyon, providing information about the formation of the karst landscape, local flora, and the region's history. Vela Draga is an internationally known climbing area with numerous routes of varying difficulty levels on the distinct rock needles. From the viewpoints on the upper rim, there is a wide view over the Učka massif and the surrounding Istrian landscape. The flora in the canyon is adapted to extreme karst conditions and includes rare endemic plant species.",
+      de: "Vela Draga ist ein Kalksteincanyon im Naturpark Učka, bekannt für seine bis zu 100 m hohen Felstürme. Die Schlucht entstand durch Erosion und beherbergt fossile Funde.",
+      hu: "A Vela Draga egy mészkő kanyon az Učka Natúrparkban, amely 100 méter magas sziklatornyairól híres. A vízi erózió formálta völgy gazdag eocén kori kövületekben.",
+      ro: "Vela Draga este un canion calcaros din Parcul Natural Učka, renumit pentru turnurile de piatră de 100 m. Formarea sa a început în perioada eocenului prin eroziune.",
+      en: "Vela Draga is a limestone canyon in Učka Nature Park, famous for its rock towers reaching 100 meters. It was formed by erosion and holds significant fossil remains.",
     },
     factsAdvanced: {
-      de: ["Höhe der Felstürme: bis zu 62 Meter", "Jahr der Unterschutzstellung: 1963", "Lage: Naturpark Učka, Istrien", "Typ: Geomorphologisches Denkmal", "Besonderheit: Beliebtes Klettergebiet", "Eröffnung des Lehrpfads: 2004"],
-      hu: ["Sziklatornyok magassága: akár 62 méter", "Védelem alá helyezés éve: 1963", "Helyszín: Učka Természetvédelmi Park, Isztria", "Típus: geomorfológiai műemlék", "Különlegesség: népszerű sziklamászó hely", "Tanösvény megnyitása: 2004"],
-      ro: ["Înălțimea turnurilor de stâncă: până la 62 metri", "Anul declarării ca monument: 1963", "Locație: Parcul Natural Učka, Istria", "Tip: monument geomorfologic", "Particularitate: zonă populară de alpinism", "Deschiderea traseului educațional: 2004"],
-      en: ["Height of rock towers: up to 62 meters", "Year of protection: 1963", "Location: Učka Nature Park, Istria", "Type: Geomorphological monument", "Highlight: Popular climbing area", "Opening of the educational trail: 2004"],
+      de: ["Höhe der Felstürme: bis zu 100 m", "Geomorphologisches Denkmal seit 1963", "Länge des Canyons: ca. 3,5 km", "Teil des Naturparks Učka seit 1999"],
+      hu: ["A sziklatornyok magassága eléri a 100 métert", "Geomorfológiai emlékhely 1963 óta", "A kanyon teljes hossza 3,5 km", "1999 óta az Učka Natúrpark része"],
+      ro: ["Înălțimea turnurilor de piatră: până la 100 m", "Monument geomorfologic protejat din 1963", "Lungimea totală a canionului: 3,5 km", "Parte a Parcului Natural Učka din 1999"],
+      en: ["Height of rock towers: up to 100 meters", "Geomorphological monument since 1963", "Total canyon length: 3.5 km", "Part of Učka Nature Park since 1999"],
     },
   }
 ];
