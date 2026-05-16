@@ -6,6 +6,7 @@ import { LanguageProvider } from "@/components/LanguageProvider";
 import CookieConsent from "@/components/CookieConsent";
 import JsonLd from "@/components/JsonLd";
 import GlobalOverlays from "@/components/GlobalOverlays";
+import MapPrefetcher from "@/components/MapPrefetcher";
 import { buildOrganizationSchema, buildWebsiteSchema } from "@/lib/seo/schema";
 
 const caveat = Caveat({
@@ -128,6 +129,7 @@ export default function RootLayout({
         <LanguageProvider>
           {children}
           <GlobalOverlays />
+          <MapPrefetcher />
         </LanguageProvider>
         <CookieConsent />
         <ServiceWorkerRegister />
