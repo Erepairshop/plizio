@@ -20,7 +20,8 @@ import { type POI } from "../data/poi";
 // V2 POI extras are lazy-fetched per-country at runtime to avoid bundling
 // the entire 250 MB ALL_COUNTRY_POIS array into the client JS chunks.
 import { Building2, Mountain, Waves, Landmark as LandmarkIcon, Eye, Layers, Sprout, Factory, Map as MapIcon } from "lucide-react";
-import { buildPoiPathById, buildStatePath, type Lang as SeoLang } from "@/lib/seo/slugs";
+// Lightweight path lookup — no slugs.ts import (which bundled 250MB POI data into chunks)
+type SeoLang = "de" | "hu" | "ro" | "en";
 import { useRuler, RulerPanel, RulerSvgOverlay } from "../quiz/RulerOverlay";
 import { useQuizEngine, QuizPanel, QuizSvgOverlay } from "../quiz/QuizEngine";
 import type { RulerState } from "../quiz/RulerOverlay";
@@ -207,18 +208,35 @@ export const InteractiveMap = ({
   const deutschlandMap = countryData.map;
   const deutschlandViewBox = countryData.viewBox;
   const projectCoords = countryData.projectCoords;
-  // V2 extras lazy-fetched per-country from /data/pois/{cc}.json (~1-2 MB each)
+  // V2 extras + pre-computed paths lazy-fetched per-country
   const [v2Extras, setV2Extras] = useState<POI[] | null>(null);
+  const [poiPaths, setPoiPaths] = useState<Record<string, Record<string, string>>>({});
+  const [statePaths, setStatePaths] = useState<Record<string, Record<string, string>>>({});
   useEffect(() => {
     let cancelled = false;
-    setV2Extras(null);
+    setV2Extras(null); setPoiPaths({}); setStatePaths({});
     const cc = countryData.countryId;
     fetch(`/data/pois/${cc}.json`)
-      .then((r) => (r.ok ? r.json() : []))
-      .then((arr: POI[]) => { if (!cancelled) setV2Extras(Array.isArray(arr) ? arr : []); })
+      .then((r) => (r.ok ? r.json() : null))
+      .then((payload: any) => {
+        if (cancelled || !payload) { if (!cancelled) setV2Extras([]); return; }
+        // New shape: { pois, poiPaths, statePaths }. Legacy: plain array.
+        if (Array.isArray(payload)) { setV2Extras(payload); return; }
+        setV2Extras(Array.isArray(payload.pois) ? payload.pois : []);
+        setPoiPaths(payload.poiPaths || {});
+        setStatePaths(payload.statePaths || {});
+      })
       .catch(() => { if (!cancelled) setV2Extras([]); });
     return () => { cancelled = true; };
   }, [countryData.countryId]);
+
+  // Path helpers using pre-computed lookups
+  const buildStatePath = (lang: SeoLang, stateId: string): string => {
+    return statePaths[stateId]?.[lang] || `/${lang}/`;
+  };
+  const buildPoiPathById = (lang: SeoLang, poiId: string): string | null => {
+    return poiPaths[poiId]?.[lang] || null;
+  };
 
   const pois: POI[] = useMemo(() => {
     const cc = countryData.countryId;
@@ -1185,6 +1203,7 @@ export const InteractiveMap = ({
             pois={pois}
             subregions={countryData.subregions}
             onClose={() => setDetailFor(null)}
+            poiPaths={poiPaths}
           />
         )}
       </AnimatePresence>
@@ -1205,6 +1224,7 @@ function SubRegionView({
   pois,
   subregions,
   onClose,
+  poiPaths,
 }: {
   stateId: string;
   stateName: string;
@@ -1212,7 +1232,10 @@ function SubRegionView({
   pois: POI[];
   subregions: Record<string, any>;
   onClose: () => void;
+  poiPaths?: Record<string, Record<string, string>>;
 }) {
+  const buildPoiPathById = (l: SeoLang, id: string): string | null =>
+    poiPaths?.[id]?.[l] || null;
   const detail = subregions[stateId];
   const [hovered, setHovered] = useState<string | null>(null);
   const [selected, setSelected] = useState<string | null>(null);
