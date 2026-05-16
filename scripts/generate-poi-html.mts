@@ -170,7 +170,9 @@ function renderHtml(poi: POI, lang: Lang): string | null {
 
   const breadcrumbHome = `<a href="/${lang}/">${I("home", lang)}</a>`;
   const breadcrumbCountry = `<a href="${buildCountryPath(lang, countryId)}">${countrySlugFor(lang, countryId).replace(/-/g, " ")}</a>`;
-  const breadcrumbState = `<a href="${buildStatePath(lang, poi.parent)}">${poi.parent}</a>`;
+  const breadcrumbState = poi.parent === countryId
+    ? "" // country-level POI: skip state crumb (no valid state page)
+    : `<a href="${buildStatePath(lang, poi.parent)}">${poi.parent}</a>`;
 
   // hreflang alternates
   const alternates = getPoiAlternates(poi);
@@ -263,7 +265,7 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   const gameSubject = SUBJECT_FOR_TYPE[(poi.type ?? "").toLowerCase()] ?? "geographie";
   const gameGrade = (poi as { grades?: number[] }).grades?.[0];
   const gameGradeN = typeof gameGrade === "number" && gameGrade >= 1 && gameGrade <= 8 ? gameGrade : 5;
-  const gameCtaHtml = `<section class="plz-game-cta"><h2>${I("gameTitle", lang)}</h2><p>${I("gameIntro", lang)}</p><div class="plz-game-btns"><a class="plz-cta" href="/astro-${gameSubject}/${gameGradeN}/?vlab=${encodeURIComponent(poi.id)}">${I("gamePlay", lang)}</a><a class="plz-cta plz-cta-secondary" href="/${gameSubject}test/?focus=${encodeURIComponent(poi.id)}">${I("gameTest", lang)}</a></div></section>`;
+  const gameCtaHtml = `<section class="plz-game-cta"><h2>${I("gameTitle", lang)}</h2><p>${I("gameIntro", lang)}</p><div class="plz-game-btns"><a class="plz-cta" href="/astro-${gameSubject}/?vlab=${encodeURIComponent(poi.id)}">${I("gamePlay", lang)}</a><a class="plz-cta plz-cta-secondary" href="/${gameSubject}test/?focus=${encodeURIComponent(poi.id)}">${I("gameTest", lang)}</a></div></section>`;
 
   // FAQ
   let faqHtml = "";
@@ -346,7 +348,7 @@ ${structuredData(poi, lang, url, metaDesc)}
 </header>
 <main>
   <nav class="plz-breadcrumb">
-    ${breadcrumbHome}<span>›</span>${breadcrumbCountry}<span>›</span>${breadcrumbState}<span>›</span><span>${escapeHtml(name)}</span>
+    ${breadcrumbHome}<span>›</span>${breadcrumbCountry}${breadcrumbState ? `<span>›</span>${breadcrumbState}` : ""}<span>›</span><span>${escapeHtml(name)}</span>
   </nav>
   <div class="plz-title-row">${coaHtml}<div><p class="plz-eyebrow">Plizio Visual Lab</p><h1>${escapeHtml(name)}</h1></div></div>
   <span class="plz-type-tag">${escapeHtml(typeLabel)}</span>
@@ -359,7 +361,7 @@ ${structuredData(poi, lang, url, metaDesc)}
   ${gameCtaHtml}
   ${faqHtml}
   <section>
-    <a class="plz-cta" href="${buildStatePath(lang, poi.parent)}">${I("viewMap", lang)} →</a>
+    <a class="plz-cta" href="${poi.parent === countryId ? buildCountryPath(lang, countryId) : buildStatePath(lang, poi.parent)}">${I("viewMap", lang)} →</a>
     ${osmLink}
   </section>
   ${relatedItems}
