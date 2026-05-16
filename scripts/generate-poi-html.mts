@@ -124,8 +124,38 @@ const I18N: Record<string, Record<Lang, string>> = {
 const I = (k: string, lang: Lang) => I18N[k]?.[lang] ?? k;
 const T = (type: string, lang: Lang) => TYPE_LABEL[type]?.[lang] ?? type;
 
-function structuredData(poi: POI, lang: Lang, url: string, descText: string): string {
-  const json: Record<string, unknown> = {
+// Wikipedia lang code for slugify lookup
+const WIKI_LANG_FOR: Record<string, string> = { de: "de", hu: "hu", ro: "ro", en: "en" };
+
+function wikipediaSameAs(poi: POI, lang: Lang): string[] {
+  const out: string[] = [];
+  const seen = new Set<string>();
+  for (const l of ["en", lang, "de"] as const) {
+    const name = (poi.name as Record<string, string>)?.[l];
+    if (!name) continue;
+    // Wikipedia titles use spaces (URL-encoded) and case-preserve, but simple slug works for most.
+    const title = name.replace(/\s+/g, "_");
+    const url = `https://${WIKI_LANG_FOR[l]}.wikipedia.org/wiki/${encodeURIComponent(title)}`;
+    if (!seen.has(url)) { out.push(url); seen.add(url); }
+    if (out.length >= 2) break;
+  }
+  return out;
+}
+
+function structuredData(
+  poi: POI,
+  lang: Lang,
+  url: string,
+  descText: string,
+  countryId: string,
+  countryName: string,
+  faqItems: Array<{ q: string; a: string }>,
+  breadcrumbCrumbs: Array<{ name: string; url: string }>,
+): string {
+  const schemas: any[] = [];
+
+  // ----- Place schema (enriched with sameAs Wikipedia) -----
+  const place: Record<string, unknown> = {
     "@context": "https://schema.org",
     "@type": "Place",
     name: getLocalized(poi.name, lang) ?? poi.id,
@@ -133,16 +163,48 @@ function structuredData(poi: POI, lang: Lang, url: string, descText: string): st
     url,
   };
   if (poi.coords && poi.coords.length >= 2) {
-    json.geo = {
+    place.geo = {
       "@type": "GeoCoordinates",
       latitude: poi.coords[1],
       longitude: poi.coords[0],
+      addressCountry: countryName,
     };
   }
   if (poi.image) {
-    json.image = `${SITE_URL}${poi.image}`;
+    place.image = `${SITE_URL}${poi.image}`;
   }
-  return `<script type="application/ld+json">${JSON.stringify(json)}</script>`;
+  const wiki = wikipediaSameAs(poi, lang);
+  if (wiki.length > 0) place.sameAs = wiki;
+  schemas.push(place);
+
+  // ----- BreadcrumbList schema -----
+  if (breadcrumbCrumbs.length > 0) {
+    schemas.push({
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      itemListElement: breadcrumbCrumbs.map((c, i) => ({
+        "@type": "ListItem",
+        position: i + 1,
+        name: c.name,
+        item: c.url.startsWith("http") ? c.url : `${SITE_URL}${c.url}`,
+      })),
+    });
+  }
+
+  // ----- FAQPage schema -----
+  if (faqItems.length > 0) {
+    schemas.push({
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      mainEntity: faqItems.map((f) => ({
+        "@type": "Question",
+        name: f.q,
+        acceptedAnswer: { "@type": "Answer", text: f.a },
+      })),
+    });
+  }
+
+  return schemas.map((s) => `<script type="application/ld+json">${JSON.stringify(s)}</script>`).join("\n");
 }
 
 function renderHtml(poi: POI, lang: Lang): string | null {
@@ -267,14 +329,16 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   const gameGradeN = typeof gameGrade === "number" && gameGrade >= 1 && gameGrade <= 8 ? gameGrade : 5;
   const gameCtaHtml = `<section class="plz-game-cta"><h2>${I("gameTitle", lang)}</h2><p>${I("gameIntro", lang)}</p><div class="plz-game-btns"><a class="plz-cta" href="/astro-${gameSubject}/?vlab=${encodeURIComponent(poi.id)}">${I("gamePlay", lang)}</a><a class="plz-cta plz-cta-secondary" href="/${gameSubject}test/?focus=${encodeURIComponent(poi.id)}">${I("gameTest", lang)}</a></div></section>`;
 
-  // FAQ
+  // FAQ — emit HTML + collect items for JSON-LD FAQPage schema
   let faqHtml = "";
+  const faqItems: Array<{ q: string; a: string }> = [];
   if (Array.isArray(poi.faq)) {
     const items = poi.faq
       .map((f: any) => {
         const q = getLocalized(f.question || f.q, lang);
         const a = getLocalized(f.answer || f.a, lang);
         if (!q || !a) return "";
+        faqItems.push({ q, a });
         return `<details class="plz-faq"><summary>${escapeHtml(q)}</summary><p>${escapeHtml(a)}</p></details>`;
       })
       .filter(Boolean)
@@ -333,7 +397,12 @@ ${hreflangLinks}
 <meta property="og:type" content="website"/>
 ${poi.image ? `<meta property="og:image" content="${SITE_URL}${escapeHtml(poi.image)}"/>` : ""}
 <link rel="stylesheet" href="/poi-static/poi.css"/>
-${structuredData(poi, lang, url, metaDesc)}
+${structuredData(poi, lang, url, metaDesc, countryId, countrySlugFor(lang, countryId).replace(/-/g, " "), faqItems, [
+  { name: I("home", lang), url: `/${lang}/` },
+  { name: countrySlugFor(lang, countryId).replace(/-/g, " "), url: buildCountryPath(lang, countryId) },
+  ...(poi.parent !== countryId ? [{ name: poi.parent, url: buildStatePath(lang, poi.parent) }] : []),
+  { name, url: buildPoiPath(lang, poi) },
+])}
 </head>
 <body>
 <header class="plz-header">

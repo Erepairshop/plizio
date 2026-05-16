@@ -76,6 +76,11 @@ jobs:
           test -s out/sitemap.xml
           head -3 out/sitemap.xml
 
+      - name: Generate image sitemap (for Google Image discovery)
+        env:
+          OUT_DIR: out
+        run: npx tsx scripts/generate-image-sitemap.mts
+
       - name: Atomic static release + nginx reload
         run: |
           set -euo pipefail
