@@ -21,40 +21,16 @@ export const poiExtraIcelandOther: POI[] = [
       en: ["The third-highest waterfall in Iceland.", "The red layers consist of weathered lava and clay.", "A popular hiking spot."]
     },
     descriptionAdvanced: {
-      de: "Hengifoss ist eine der beeindruckendsten Naturschönheiten in Ostisland. Mit einer Fallhöhe von 128 Metern stürzt das Wasser über spektakuläre Basaltformationen, die von deutlich sichtbaren roten Tonschichten durchzogen sind. Diese Schichten erzählen die geologische Geschichte der Region vor Millionen von Jahren, als Island vulkanisch sehr aktiv war. Die Wanderung zum Hengifoss führt die Besucher durch eine atemberaubende Schlucht und bietet unterwegs Ausblicke auf kleinere Wasserfälle, was dieses Naturwunder zu einem absoluten Highlight macht.",
-      hu: "A Hengifoss Kelet-Izland egyik leglenyűgözőbb természeti csodája. A 128 méteres magasságból alázúduló víz látványos bazaltképződményeken keresztül folyik, amelyeket jól látható vörös agyagrétegek szelnek át. Ezek a rétegek több millió évvel ezelőtti geológiai történetet mesélnek el, amikor Izland vulkanikailag nagyon aktív volt. A Hengifoss-hoz vezető túra lélegzetelállító szurdokon keresztül vezet, és az út mentén kisebb vízesésekben is gyönyörködhetünk, ami ezt a természeti csodát kihagyhatatlan látnivalóvá teszi. Földrajz K5.",
-      ro: "Hengifoss este una dintre cele mai impresionante minuni naturale din estul Islandei. Cu o cădere de 128 de metri, apa curge peste formațiuni de bazalt spectaculoase, intercalate cu straturi vizibile de argilă roșie. Aceste straturi spun povestea geologică a regiunii de acum milioane de ani, când Islanda era extrem de activă din punct de vedere vulcanic. Drumeția către Hengifoss duce vizitatorii printr-un defileu uluitor și oferă priveliști asupra unor cascade mai mici pe parcurs, făcând din această minune naturală o destinație obligatorie. Este un loc ideal pentru iubitorii de geologie și drumeții, oferind o perspectivă unică asupra forțelor naturale care au modelat acest peisaj dramatic.",
-      en: "Hengifoss is one of the most stunning natural wonders in East Iceland. Dropping from a height of 128 meters, the water cascades over spectacular basalt formations, interspersed with clearly visible layers of red clay. These layers tell the geological story of the region from millions of years ago, when Iceland was volcanically very active. The hike to Hengifoss takes visitors through a breathtaking gorge and offers views of smaller waterfalls along the way, making this natural wonder an absolute must-see destination."
+      de: "Hengifoss ist mit einer Fallhöhe von 128 Metern der dritthöchste Wasserfall Islands und befindet sich im Osten des Landes nahe der Stadt Egilsstaðir. Was diesen Wasserfall so markant macht, ist die geologische Formation der umgebenden Felswand, die aus basaltischen Gesteinsschichten besteht. Zwischen den dunklen Basaltschichten befinden sich dünne, leuchtend rote Streifen aus sedimentärem Ton. Diese Schichten entstanden vor Millionen von Jahren durch Verwitterungsprozesse zwischen aufeinanderfolgenden Lavaströmen während des Tertiärs. Der Aufstieg zum Wasserfall dauert etwa eine Stunde und bietet auf dem Weg einen Blick auf den kleineren Litlanesfoss, der von perfekt geformten Basaltsäulen umrahmt wird. Hengifoss stürzt in eine tiefe Schlucht, die in den See Lagarfljót entwässert, welcher laut lokalen Legenden die Heimat eines riesigen Wasserungeheuers ist.",
+      hu: "Hengifoss 128 méteres magasságával Izland harmadik legmagasabb vízesése, amely az ország keleti részén, Egilsstaðir közelében található. A vízesés legkülönlegesebb vonása a mögötte magasodó sziklafal geológiai szerkezete, ahol a sötét bazaltrétegek között élénkvörös agyagcsíkok láthatók. Ezek a vörös rétegek a harmadidőszaki vulkáni kitörések közötti nyugalmi időszakokban alakultak ki az egykori növényzet eltemetett maradványaiból és üledékéből. A vízeséshez vezető túraútvonal körülbelül egy órát vesz igénybe, és útközben érinti a Litlanesfoss vízesést is, amelyet látványos, orgonasípszerű bazaltoszlopok vesznek körül. A Hengifoss vize egy mély szurdokba zuhan, majd a Lagarfljót-tóba ömlik, amely a helyi legenda szerint egy hatalmas vízi szörny otthona.",
+      ro: "Hengifoss este a treia cea mai înaltă cascadă din Islanda, având o cădere de apă de 128 de metri, și este situată în estul țării, lângă Egilsstaðir. Ceea ce o face cu adevărat remarcabilă este structura geologică a peretelui de stâncă din spatele său, compus din straturi de bazalt întunecat intercalate cu dungi subțiri de lut roșu aprins. Aceste straturi sedimentare s-au format acum milioane de ani, reprezentând perioade de liniște vulcanică în care s-a depus solul între erupții succesive. Traseul către cascadă durează aproximativ o oră și oferă și vederea asupra cascadei Litlanesfoss, renumită pentru coloanele sale de bazalt perfect hexagonale. Hengifoss se varsă într-un canion adânc care alimentează lacul Lagarfljót, despre care legendele locale spun că ar adăposti un monstru marin legendar.",
+      en: "Hengifoss is the third highest waterfall in Iceland, with a vertical drop of 128 meters, located in East Iceland near the town of Egilsstaðir. The waterfall is most famous for the striking geological layers in the cliff face behind it, where dark basalt layers are separated by thin, bright red bands of sedimentary clay. These red layers were formed millions of years ago when soil and organic matter were trapped between successive lava flows during the Tertiary period. The hike to the waterfall takes about an hour and passes by another notable waterfall, Litlanesfoss, which is framed by spectacular hexagonal basalt columns. Hengifoss flows into a deep gorge that eventually leads to the Lagarfljót lake, a body of water shrouded in local folklore regarding a legendary lake monster.",
     },
     factsAdvanced: {
-      de: [
-        "Die Fallhöhe beträgt insgesamt 128 Meter.",
-        "Die markanten roten Schichten zwischen den Basaltschichten enthalten eisenoxidreiche Ablagerungen.",
-        "Der Wasserfall ist nach einer Reihe von Vulkanausbrüchen entstanden.",
-        "Der Wanderweg ist etwa 2,5 Kilometer lang und bietet einen moderaten Schwierigkeitsgrad.",
-        "Besucher können oft auch den Litlanesfoss auf demselben Weg sehen."
-      ],
-      hu: [
-        "A teljes esésmagasság 128 méter.",
-        "A bazaltrétegek közötti jellegzetes vörös rétegek vas-oxidban gazdag üledékeket tartalmaznak.",
-        "A vízesés egy sor vulkánkitörést követően alakult ki.",
-        "A túraútvonal kb. 2,5 km hosszú, mérsékelt nehézségi fokú.",
-        "Az utazók gyakran láthatják a Litlanesfoss vízesést is ugyanazon az útvonalon."
-      ],
-      ro: [
-        "Înălțimea totală a căderii este de 128 de metri.",
-        "Straturile roșii distinctive dintre straturile de bazalt conțin depozite bogate în oxid de fier.",
-        "Cascada s-a format după o serie de erupții vulcanice.",
-        "Traseul de drumeție are aproximativ 2,5 km lungime, cu un grad de dificultate moderat.",
-        "Vizitatorii pot vedea deseori și cascada Litlanesfoss pe același traseu."
-      ],
-      en: [
-        "The total drop height is 128 meters.",
-        "The distinctive red layers between the basalt layers contain iron-oxide rich deposits.",
-        "The waterfall was formed following a series of volcanic eruptions.",
-        "The hiking trail is about 2.5 km long with a moderate difficulty level.",
-        "Visitors can often see the Litlanesfoss waterfall on the same route."
-      ]
+      de: ["Dritthöchster Wasserfall Islands mit 128 Metern", "Rote Schichten bestehen aus sedimentärem Ton", "Entstanden während der Tertiärzeit (Vulkanismus)", "Litlanesfoss liegt auf dem gleichen Wanderweg", "Entwässert in den See Lagarfljót", "Aufstieg dauert ca. 45-60 Minuten bei mittlerer Steigung"],
+      hu: ["Izland harmadik legmagasabb vízesése (128 méter)", "A vörös rétegek vulkáni kitörések közti üledékből állnak", "A kőzetrétegek a harmadidőszakból származnak", "A Litlanesfoss bazaltoszlopai is láthatók a közelben", "Vize a Lagarfljót-tóba folyik", "A túra hossza oda-vissza kb. 5 kilométer"],
+      ro: ["Înălțime totală de 128 de metri", "Dungile roșii sunt formate din argilă sedimentară", "Geologie datând din perioada terțiară", "Litlanesfoss se află pe același traseu de urcare", "Alimentează lacul Lagarfljót", "Traseul are o lungime de aproximativ 2,5 km pe sens"],
+      en: ["Third highest waterfall in Iceland at 128 meters", "The red layers are made of sedimentary clay", "Geological formations date back to the Tertiary period", "Passes by Litlanesfoss and its basalt columns", "Flows into the Lagarfljót lake system", "The hike covers about 5 km round trip"],
     },
     image: "/poi-images/landmark-hengifoss-extra.webp",
   }
