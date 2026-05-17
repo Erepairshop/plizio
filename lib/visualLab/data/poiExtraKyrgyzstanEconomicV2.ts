@@ -298,34 +298,7 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
       en: ["Located in the Osh Region, in close proximity to the Uzbek border.", "Recognized as the largest wholesale market in the southern territory.", "Serves as the primary distribution center for the entire Fergana Valley.", "Its physical infrastructure heavily utilizes repurposed shipping containers.", "Trades primarily in textiles, household goods, and cheap electronics.", "Secures the primary livelihood for tens of thousands of local families.", "The reopening of the Uzbek border massively boosted market volume."]
     }
   },
-  {
-    id: "osh-bazaar-bishkek-economic-v2",
-    type: "trade-hub",
-    parent: "KG-GB",
-    coords: [74.5706, 42.8775],
-    name: { de: "Osch-Basar", hu: "Os piac (Biskek)", ro: "Bazarul Osh", en: "Osh Bazaar"},
-    image: "/poi-images/osh-bazaar-bishkek-economic-v2.webp",
-    description: { de: "Ein geschäftiger traditioneller Markt im Zentrum von Bischkek.", hu: "Nyüzsgő, hagyományos piac Biskek központjában.", ro: "O piață tradițională aglomerată în centrul orașului Bishkek.", en: "A bustling traditional market in the center of Bishkek." },
-    facts: {
-      de: ["Benannt nach der südkirgisischen Stadt Osch.", "Verkauft Lebensmittel, Kleidung und Handwerk."],
-      hu: ["A dél-kirgizisztáni Os városáról nevezték el.", "Élelmiszert, ruházatot és kézműves termékeket árulnak."],
-      ro: ["Numită după orașul Osh din sudul Kârgâzstanului.", "Vinde alimente, haine și obiecte de artizanat."],
-      en: ["Named after the southern Kyrgyz city of Osh.", "Sells food, clothing, and handicrafts."]
-    }, image: "/poi-images/osh-bazaar-bishkek-economic-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Osch-Basar, nicht zu verwechseln mit einem Markt in der gleichnamigen Stadt, ist der bekannteste und lebhafteste Lebensmittel- und Alltagsmarkt im Herzen der Hauptstadt Bischkek. Im Gegensatz zum auf Großhandel ausgerichteten Dordoi-Basar konzentriert sich der Osch-Basar auf den täglichen Bedarf der Stadtbevölkerung. Hier werden frische landwirtschaftliche Erzeugnisse, Gewürze, traditionelle Kleidung, handgefertigte Souvenirs und Haushaltswaren in einem Labyrinth aus überdachten und offenen Gängen gehandelt. Der Basar ist ein unverzichtbarer Wirtschaftsfaktor für unzählige Kleinbauern und Handwerker aus dem Umland, die ihre Produkte hier direkt an die Endverbraucher verkaufen können.",
-      hu: "Az Osz Bazár – amelyet nem szabad összetéveszteni a névadó városban lévő piaccal – a főváros, Biskek szívében található legélénkebb élelmiszer- és mindennapi cikkek piaca. A nagykereskedelemre fókuszáló Dordoi Bazárral ellentétben az Osz Bazár a városi lakosság napi szükségleteinek kielégítésére összpontosít. A fedett és nyitott folyosók labirintusában friss mezőgazdasági termékeket, fűszereket, hagyományos ruházatot, kézműves ajándéktárgyakat és háztartási cikkeket árulnak. A bazár elengedhetetlen gazdasági tényező a környező régiók számtalan kistermelője és kézművese számára, akik itt közvetlenül a fogyasztóknak értékesíthetik áruikat.",
-      ro: "Bazarul Osh, care nu trebuie confundat cu o piață din orașul cu același nume, este cel mai faimos și animat târg de alimente și bunuri de uz curent din inima capitalei Bishkek. Spre deosebire de bazarul Dordoi, axat pe comerțul en-gros, Bazarul Osh se concentrează pe nevoile zilnice ale populației urbane. Aici se comercializează produse agricole proaspete, condimente, îmbrăcăminte tradițională, suveniruri artizanale și articole de uz casnic, într-un labirint de alei acoperite și în aer liber. Bazarul reprezintă un motor economic indispensabil pentru nenumărați mici fermieri și meșteșugari din împrejurimi, care își pot vinde produsele direct consumatorilor finali.",
-      en: "The Osh Bazaar, not to be confused with a market in the city of the same name, is the most famous and bustling food and daily goods market in the heart of the capital, Bishkek. Unlike the wholesale-oriented Dordoi Bazaar, Osh Bazaar focuses on the everyday retail needs of the urban population. Fresh agricultural produce, vibrant spices, traditional clothing, handcrafted souvenirs, and household goods are traded within a massive labyrinth of covered and open-air aisles. The bazaar is an indispensable economic lifeline for countless small-scale farmers and artisans from the surrounding regions, allowing them to sell their products directly to end consumers."
-    },
-    factsAdvanced: {
-      de: ["Befindet sich im zentralen westlichen Teil von Bischkek.", "Ist der primäre Einzelhandelsmarkt für die Hauptstadtbewohner.", "Verkauft eine immense Auswahl an frischen Lebensmitteln.", "Besitzt separate Sektionen für traditionelle kirgisische Kleidung.", "Bietet direkten Marktzugang für lokale Landwirte aus dem Chüi-Tal.", "Ein wichtiges Zentrum für den Handel mit Trockenfrüchten und Nüssen.", "Zieht auch viele Touristen auf der Suche nach Souvenirs an."],
-      hu: ["Biskek központi nyugati részén terül el.", "A fővárosi lakosok elsődleges kiskereskedelmi piaca.", "Hatalmas választékban kínál friss helyi élelmiszereket.", "Külön részlegek foglalkoznak a hagyományos kirgiz ruházattal.", "Közvetlen piacra jutást biztosít a Chüi-völgy gazdáinak.", "Az aszalt gyümölcsök és diófélék kereskedelmének központja.", "Rengeteg ajándéktárgyat kereső turistát is vonz."],
-      ro: ["Este amplasat în partea central-vestică a orașului Bishkek.", "Constituie piața principală de retail pentru locuitorii capitalei.", "Comercializează o gamă imensă de alimente proaspete.", "Deține secțiuni separate pentru îmbrăcămintea tradițională kârgâză.", "Oferă acces direct la piață fermierilor locali din Valea Chüy.", "Un centru important pentru comerțul cu fructe uscate și nuci.", "Atrage numeroși turiști aflați în căutare de suveniruri autentice."],
-      en: ["Located in the central-western district of Bishkek.", "Serves as the primary retail food market for capital residents.", "Sells an immense variety of fresh domestic agricultural products.", "Features dedicated sections for traditional Kyrgyz garments.", "Provides direct market access for local farmers from the Chüy Valley.", "A major hub for the trade of Central Asian dried fruits and nuts.", "Attracts significant tourist foot traffic looking for authentic souvenirs."]
-    }
-  },
-  {
+    {
     id: "kara-balta-mining-plant-economic-v2",
     type: "industry",
     parent: "KG-C",

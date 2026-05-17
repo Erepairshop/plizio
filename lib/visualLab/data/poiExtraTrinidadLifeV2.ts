@@ -515,61 +515,7 @@ export const poiExtraTrinidadLifeV2: POI[] = [
       en: ["Known by the name Buccoo Reef.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
-  {
-    id: "tt-nylon-pool-life-v2",
-    type: "kid-landmark",
-    parent: "TT-TOB",
-    coords: [-60.83, 11.18],
-    name: { de: "Nylon Pool", hu: "Nylon Pool", ro: "Piscina Nylon", en: "Nylon Pool"},
-    image: "/poi-images/tt-nylon-pool-life-v2.webp",
-    description: { de: "Ein flacher Naturpool mitten im Meer.", hu: "Sekély természetes medence a tenger közepén.", ro: "O piscină naturală puțin adâncă în mijlocul mării.", en: "A shallow natural pool in the middle of the sea." },
-    facts: {
-      de: ["Klares Wasser", "Nur per Boot erreichbar", "Nahe Buccoo Reef"],
-      hu: ["Tiszta víz", "Csak hajóval érhető el", "A Buccoo zátony mellett"],
-      ro: ["Apă limpede", "Accesibil doar cu barcă", "Lângă reciful Buccoo"],
-      en: ["Clear water", "Accessible only by boat", "Near Buccoo Reef"]
-    }, image: "/poi-images/tt-nylon-pool-life-v2.webp",
-    descriptionAdvanced: {
-      de: "Nylon Pool ist ein bemerkenswerter Ort auf der Karibikinsel Trinidad. Ein flacher Naturpool mitten im Meer. Die Lage spiegelt zugleich die geographische Vielfalt und das kulturelle Erbe der Insel wider. Bemerkenswert ist dabei: Klares Wasser. Hervorzuheben ist außerdem: Nur per Boot erreichbar. Für Schülerinnen und Schüler bietet dieser Ort einen anschaulichen Bezug zwischen Lehrplan und realer Welt. Geographie K7 — Inselgeographie und kulturelles Erbe.",
-      hu: "Nylon Pool a karibi Trinidad sziget egyik figyelemre méltó helye. Sekély természetes medence a tenger közepén. Elhelyezkedése egyszerre tükrözi a sziget földrajzi változatosságát és gazdag kulturális örökségét. Említésre méltó, hogy: Tiszta víz. További fontos jellemző: Csak hajóval érhető el. A tanítás során jól szemlélteti a tananyag és a való világ közötti kapcsolatot. Földrajz K7 — sziget-földrajz és kulturális örökség.",
-      ro: "Piscina Nylon este un loc remarcabil de pe insula caraibiană Trinidad. O piscină naturală puțin adâncă în mijlocul mării. Așezarea reflectă deopotrivă diversitatea geografică și moștenirea culturală a insulei. Este de remarcat: Apă limpede. Un alt aspect important: Accesibil doar cu barcă. Pentru elevi, locul oferă o legătură concretă între conținutul programei școlare și lumea reală. Geografie K7 — geografia insulară și patrimoniul cultural.",
-      en: "Nylon Pool is a notable site on the Caribbean island of Trinidad. A shallow natural pool in the middle of the sea. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Clear water. Another point of interest: Accessible only by boat. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
-    },
-    factsAdvanced: {
-      de: ["Bekannt unter dem Namen Nylon Pool.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
-      hu: ["A helyszín neve: Nylon Pool.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Este cunoscut sub numele de Piscina Nylon.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Known by the name Nylon Pool.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
-    }
-  },
-  {
-    id: "tt-main-ridge-forest-reserve-life-v2",
-    type: "animal-habitat",
-    parent: "TT-TOB",
-    coords: [-60.6667, 11.25],
-    name: { de: "Main Ridge Waldreservat", hu: "Main Ridge erdőrezervátum", ro: "Rezervația forestieră Main Ridge", en: "Main Ridge Forest Reserve"},
-    image: "/poi-images/tt-main-ridge-forest-reserve-life-v2.webp",
-    description: { de: "Das älteste gesetzlich geschützte Waldreservat der westlichen Hemisphäre.", hu: "A nyugati félteke legrégebbi törvényileg védett erdőrezervátuma.", ro: "Cea mai veche rezervație forestieră protejată legal din emisfera vestică.", en: "The oldest legally protected forest reserve in the Western Hemisphere." },
-    facts: {
-      de: ["Regenwald auf Tobago", "Sehr artenreich", "Seit 1776 geschützt"],
-      hu: ["Tobagói esőerdő", "Nagyon fajgazdag", "1776 óta védett"],
-      ro: ["Pădure tropicală pe Tobago", "Foarte bogată în specii", "Protejată din 1776"],
-      en: ["Rainforest on Tobago", "Highly biodiverse", "Protected since 1776"]
-    }, image: "/poi-images/tt-main-ridge-forest-reserve-life-v2.webp",
-    descriptionAdvanced: {
-      de: "Main Ridge Waldreservat ist ein bemerkenswerter Ort auf der Karibikinsel Trinidad. Das älteste gesetzlich geschützte Waldreservat der westlichen Hemisphäre. Die Lage spiegelt zugleich die geographische Vielfalt und das kulturelle Erbe der Insel wider. Bemerkenswert ist dabei: Regenwald auf Tobago. Hervorzuheben ist außerdem: Sehr artenreich. Für Schülerinnen und Schüler bietet dieser Ort einen anschaulichen Bezug zwischen Lehrplan und realer Welt. Geographie K7 — Inselgeographie und kulturelles Erbe.",
-      hu: "Main Ridge erdőrezervátum a karibi Trinidad sziget egyik figyelemre méltó helye. A nyugati félteke legrégebbi törvényileg védett erdőrezervátuma. Elhelyezkedése egyszerre tükrözi a sziget földrajzi változatosságát és gazdag kulturális örökségét. Említésre méltó, hogy: Tobagói esőerdő. További fontos jellemző: Nagyon fajgazdag. A tanítás során jól szemlélteti a tananyag és a való világ közötti kapcsolatot. Földrajz K7 — sziget-földrajz és kulturális örökség.",
-      ro: "Rezervația forestieră Main Ridge este un loc remarcabil de pe insula caraibiană Trinidad. Cea mai veche rezervație forestieră protejată legal din emisfera vestică. Așezarea reflectă deopotrivă diversitatea geografică și moștenirea culturală a insulei. Este de remarcat: Pădure tropicală pe Tobago. Un alt aspect important: Foarte bogată în specii. Pentru elevi, locul oferă o legătură concretă între conținutul programei școlare și lumea reală. Geografie K7 — geografia insulară și patrimoniul cultural.",
-      en: "Main Ridge Forest Reserve is a notable site on the Caribbean island of Trinidad. The oldest legally protected forest reserve in the Western Hemisphere. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Rainforest on Tobago. Another point of interest: Highly biodiverse. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
-    },
-    factsAdvanced: {
-      de: ["Bekannt unter dem Namen Main Ridge Waldreservat.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
-      hu: ["A helyszín neve: Main Ridge erdőrezervátum.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Este cunoscut sub numele de Rezervația forestieră Main Ridge.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Known by the name Main Ridge Forest Reserve.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
-    }
-  },
-  {
+      {
     id: "tt-little-tobago-bird-sanctuary-life-v2",
     type: "animal-habitat",
     parent: "TT-TOB",
@@ -758,34 +704,7 @@ export const poiExtraTrinidadLifeV2: POI[] = [
       en: ["Known by the name Point Fortin Beach Park.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
-  {
-    id: "tt-chacachacare-island-life-v2",
-    type: "kid-landmark",
-    parent: "TT-DMN",
-    coords: [-61.75, 10.67],
-    name: { de: "Chacachacare Insel", hu: "Chacachacare sziget", ro: "Insula Chacachacare", en: "Chacachacare Island"},
-    image: "/poi-images/tt-chacachacare-island-life-v2.webp",
-    description: { de: "Eine unbewohnte Insel mit ruhiger Natur und Vogelwelt.", hu: "Lakatlan sziget csendes természettel és madárvilággal.", ro: "O insulă nelocuită cu natură liniștită și păsări.", en: "An uninhabited island with quiet nature and birdlife." },
-    facts: {
-      de: ["Ehemalige Quarantänestation", "Trockener Wald", "Beliebt bei Bootsausflügen"],
-      hu: ["Egykori karanténcentrum", "Száraz erdős terület", "Népszerű hajókirándulás"],
-      ro: ["Fosta stație de carantină", "Pădure uscată", "Populară pentru excursii cu barcă"],
-      en: ["Former quarantine station", "Dry forest", "Popular boat destination"]
-    }, image: "/poi-images/tt-chacachacare-island-life-v2.webp",
-    descriptionAdvanced: {
-      de: "Chacachacare Insel ist ein bemerkenswerter Ort auf der Karibikinsel Trinidad. Eine unbewohnte Insel mit ruhiger Natur und Vogelwelt. Die Lage spiegelt zugleich die geographische Vielfalt und das kulturelle Erbe der Insel wider. Bemerkenswert ist dabei: Ehemalige Quarantänestation. Hervorzuheben ist außerdem: Trockener Wald. Für Schülerinnen und Schüler bietet dieser Ort einen anschaulichen Bezug zwischen Lehrplan und realer Welt. Geographie K7 — Inselgeographie und kulturelles Erbe.",
-      hu: "Chacachacare sziget a karibi Trinidad sziget egyik figyelemre méltó helye. Lakatlan sziget csendes természettel és madárvilággal. Elhelyezkedése egyszerre tükrözi a sziget földrajzi változatosságát és gazdag kulturális örökségét. Említésre méltó, hogy: Egykori karanténcentrum. További fontos jellemző: Száraz erdős terület. A tanítás során jól szemlélteti a tananyag és a való világ közötti kapcsolatot. Földrajz K7 — sziget-földrajz és kulturális örökség.",
-      ro: "Insula Chacachacare este un loc remarcabil de pe insula caraibiană Trinidad. O insulă nelocuită cu natură liniștită și păsări. Așezarea reflectă deopotrivă diversitatea geografică și moștenirea culturală a insulei. Este de remarcat: Fosta stație de carantină. Un alt aspect important: Pădure uscată. Pentru elevi, locul oferă o legătură concretă între conținutul programei școlare și lumea reală. Geografie K7 — geografia insulară și patrimoniul cultural.",
-      en: "Chacachacare Island is a notable site on the Caribbean island of Trinidad. An uninhabited island with quiet nature and birdlife. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Former quarantine station. Another point of interest: Dry forest. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
-    },
-    factsAdvanced: {
-      de: ["Bekannt unter dem Namen Chacachacare Insel.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
-      hu: ["A helyszín neve: Chacachacare sziget.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Este cunoscut sub numele de Insula Chacachacare.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Known by the name Chacachacare Island.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
-    }
-  },
-  {
+    {
     id: "tt-saut-deau-island-life-v2",
     type: "animal-habitat",
     parent: "TT-DMN",

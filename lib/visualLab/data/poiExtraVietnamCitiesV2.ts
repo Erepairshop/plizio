@@ -2,43 +2,7 @@
 import type { POI } from "./poi";
 
 export const poiExtraVietnamCitiesV2: POI[] = [
-  {
-    id: "hanoi-cities-v2",
-    type: "state-capital",
-    parent: "VN-HN",
-    coords: [105.84117, 21.0245],
-    name: {
-      de: "Hanoi",
-      hu: "Hanoi",
-      ro: "Hanoi",
-      en: "Hanoi"},
-    image: "/poi-images/hanoi-cities-v2.webp",
-    description: {
-      de: "Die Hauptstadt Vietnams, bekannt für ihre jahrhundertealte Architektur und eine reiche Kultur mit südostasiatischen, chinesischen und französischen Einflüssen.",
-      hu: "Vietnám fővárosa, évszázados építészetéről és gazdag kultúrájáról ismert, amely délkelet-ázsiai, kínai és francia hatásokat ötvöz.",
-      ro: "Capitala Vietnamului, cunoscută pentru arhitectura sa seculară și o cultură bogată cu influențe din Asia de Sud-Est, China și Franța.",
-      en: "The capital of Vietnam, known for its centuries-old architecture and a rich culture with Southeast Asian, Chinese, and French influences.",
-    },
-    facts: {
-      de: ["Mausoleum von Ho Chi Minh.", "Literaturtempel & Kaiserliche Akademie.", "Wasserpuppentheater.", "Herz des Roten-Fluss-Deltas."],
-      hu: ["Ho Si Minh-mauzóleum.", "Az Irodalom Temploma és a Császári Akadémia.", "Vízi bábszínház.", "A Vörös-folyó deltájának szíve."],
-      ro: ["Mausoleul lui Ho Chi Minh.", "Templul Literaturii și Academia Imperială.", "Teatru de păpuși pe apă.", "Inima Deltei Râului Roșu."],
-      en: ["Ho Chi Minh Mausoleum.", "Temple of Literature & Imperial Academy.", "Water Puppet Theatre.", "Heart of the Red River Delta."],
-    }, image: "/poi-images/hanoi-cities-v2.webp",
-    descriptionAdvanced: {
-      de: "Hanoi, die Hauptstadt Vietnams, ist ein faszinierendes Zentrum, das eine über tausendjährige Geschichte mit modernem vietnamesischen Leben verbindet. Die Altstadt, bekannt als '36 Gassen', zeugt von der traditionellen Handelsgeschichte, während koloniale Architektur und breite Boulevards an die französische Ära erinnern. Die Stadt ist ein Schmelztiegel der Kultur, wo jahrhundertealte Tempel wie der Literaturtempel neben lebhaften Märkten stehen. Geografie K6 — urbane Zentren und Kulturgeschichte.",
-      hu: "Hanoi, Vietnám fővárosa, a Vörös-folyó deltájában fekszik, és több mint ezeréves történelme során számos birodalmi központnak adott otthont. A város egyedülálló módon ötvözi a francia gyarmati építészet eleganciáját a hagyományos vietnámi pagodákkal, miközben a nyüzsgő óváros ('36 utca') ma is őrzi ősi kereskedelmi jellegét. Földrajz K7 — ázsiai nagyvárosok és történelmi régiók.",
-      ro: "Hanoi, capitala Vietnamului, este un centru cultural milenar unde se împletesc tradiția vietnameză cu influențele coloniale franceze. Orașul este celebru pentru Cartierul Vechi, cu străzile sale înguste și templele ascunse, fiind o destinație esențială pentru geografia K7 și istoria K8.",
-      en: "Hanoi is a remarkable feature of the geography and culture of Vietnam. The capital of Vietnam, known for its centuries-old architecture and a rich culture with Southeast Asian, Chinese, and French influences. Ho Chi Minh Mausoleum. Temple of Literature & Imperial Academy. Water Puppet Theatre. This city is among the characteristic settlements of Vietnam, stretching from the Mekong Delta to the Red River region. Like many notable places in Vietnam, it combines regional character with the legacy of a millennia-old civilization and the French colonial era. Thus, this place contributes to the diverse profile of Vietnam — from the Mekong Delta and Ha Long Bay to the terraced rice fields."
-    },
-    factsAdvanced: {
-      de: ["Gegründet im Jahr 1010 als Thang Long", "Mehr als 600 Tempel und Pagoden in der Stadt", "Das historische Zentrum umfasst 36 traditionelle Handelsstraßen", "Zentrum des politischen und kulturellen Lebens", "Wurde 1954 Hauptstadt der Demokratischen Republik Vietnam", "Liegt im Delta des Roten Flusses auf 20 Metern Höhe"],
-      hu: ["A város nevét 1010-ben kapta (Thang Long)", "Több mint 600 templom és pagoda található itt", "A híres Irodalom Temploma 1070-ben épült", "A Ho Si Minh-mauzóleum 1975-ben nyílt meg", "A Vörös-folyó deltájának gazdasági központja", "A város területe 3358 km²-re nőtt 2008-ban"],
-      ro: ["Fondat în 1010 sub numele Thang Long", "Populație de peste 8 milioane locuitori", "Sediul Mausoleului lui Ho Chi Minh", "Situat pe malul drept al Râului Roșu", "Peste 600 de temple și pagode istorice", "Climat subtropical cu patru anotimpuri"],
-      en: ["The capital of Vietnam, known for its centuries-old architecture and a rich culture with Southeast Asian, Chinese, and French influences.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region."]
-    }
-  },
-  {
+    {
     id: "ho-chi-minh-city-cities-v2",
     type: "city",
     parent: "VN-SG",

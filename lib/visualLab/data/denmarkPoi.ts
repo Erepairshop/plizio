@@ -706,48 +706,7 @@ export const denmarkCities: POI[] = [
  },
  image: "/geo-images/denmark/frederikshavn.webp",
  },
- {
- id: "city-sonderborg",
- type: "city",
- parent: "DK",
- coords: [9.7836, 54.9102],
- name: { de: "Sønderborg", hu: "Sønderborg", ro: "Sønderborg", en: "Sønderborg" },
- description: {
- en: "Sonderborg is a southern Jutland city with castle views, a waterfront promenade, and a strong cross-border identity close to Germany. It is a useful location for travelers interested in borderland history, fjord scenery, and Danish-German connections. The city feels compact and scenic, with modern urban renewal around the harbor. Sonderborg offers a smart blend of history, business, and coastal relaxation.",
- de: "Sønderborg ist eine Stadt in Südjütland mit Blick auf das Schloss, einer Uferpromenade und einer starken grenzüberschreitenden Identität nahe Deutschland. Sie ist ein nützliches-Ziel für Reisende, die sich für Grenzlandgeschichte, Fjordlandschaften und dänisch-deutsche Verbindungen interessieren. Die Stadt wirkt kompakt und landschaftlich schön, mit moderner Stadterneuerung rund um den Hafen. Sønderborg bietet eine kluge Mischung aus Geschichte, Wirtschaft und Küstenentspannung.",
- hu: "Sønderborg dél-jütlandi város, kastélyra néző panorámával, vízparti sétánnyal és Németországhoz közeli, erős határmenti identitással. Hasznos-helyszín azoknak, akiket a határvidék történelme, a fjord tájai és a dán–német kapcsolatok érdekelnek. A város kompakt és festői, a kikötő körül modern városmegújítással. Sønderborg okos elegye a történelemnek, az üzleti életnek és a tengerparti kikapcsolódásnak.",
- ro: "Sønderborg este un oraș din sudul Iutlandei, cu vedere la castel, promenadă la apă și o identitate de frontieră puternică, aproape de Germania. Este o locație utilă pentru călătorii interesați de istoria zonei de graniță, peisajul de fiord și conexiunile danezo-germane. Orașul pare compact și pitoresc, cu o regenerare urbană modernă în jurul portului. Sønderborg oferă un amestec bun de istorie, business și relaxare pe coastă."},
- descriptionAdvanced: {
- de: "Sønderborg ist eine geschichtsträchtige Stadt im Süden Jütlands, die malerisch am Alsensund liegt. Die Stadt ist untrennbar mit der dänisch-deutschen Geschichte verbunden, insbesondere durch die Schlacht von Düppel (Dybbøl) im Jahr 1864, die das moderne dänische Nationalbewusstsein prägte. Das Schloss Sønderborg, das direkt am Wasser liegt, beherbergt ein Museum zur Geschichte der Grenzregion. Heute ist Sønderborg eine lebendige Stadt mit einer Universität und einer starken Ausrichtung auf grüne Energie und Technologie. Die maritime Atmosphäre am Hafen und die Nähe zu Deutschland machen sie zu einem einzigartigen kulturellen Treffpunkt. Erdkunde K7 – Dänemarks Geografie und Gesellschaft.",
- hu: "Sønderborg Als szigetén és a Jütland-félszigeten terül el, amelyet a szűk Alssund-szoros választ ketté. A város kiemelkedő szerepet játszott a dán történelemben, különösen a porosz-dán háborúk idején; az itt található Dybbøl Malom a dán nemzeti ellenállás szimbóluma. A Sønderborgi kastély évszázadokon át nyújtott menedéket a királyi családnak, ma pedig Dél-Jütland történelmét bemutató múzeumként működik. A modern Sønderborg egy fiatalos egyetemváros és az innovatív 'Project Zero' kezdeményezés központja, amely célul tűzte ki a szén-dioxid-semlegességet. A határ menti elhelyezkedés gazdag, kétkultúrájú atmoszférát kölcsönöz a városnak. Földrajz K7 – Dánia földrajza és társadalma.",
- ro: "Sønderborg, așezat grațios de-a lungul strâmtorii Alssund, este un oraș definit de relația sa strânsă cu marea și istoria frontierei germano-daneze. Centrul istoric al orașului este fermecător, caracterizat de o arhitectură colorată și de o frumoasă promenadă maritimă care invită la plimbări lungi. Punctul focal absolut este Castelul Sønderborg, a cărui siluetă robustă găzduiește astăzi un muzeu fascinant dedicat culturii și luptelor din sudul Iutlandei. Orașul este recunoscut în întreaga Danemarcă pentru atmosfera sa studențească și inovația industrială, fiind sediul sediului principal al Danfoss. Datorită poziției sale geografice, Sønderborg servește și ca punte de legătură excelentă între cultura scandinavă și cea a Europei Centrale. Geografie K7 – Geografia și societatea Danemarcei.",
- en: "Sønderborg is a picturesque and historically significant city located on both sides of the Alssund strait in Southern Denmark. The city plays a crucial role in the history of the border region between Denmark and Germany, most notably associated with the Battle of Dybbøl in 1864. The beautiful Sønderborg Castle, situated on the waterfront, showcases the region's complex history and royal heritage. Today, the city is a vibrant educational and technological hub, strongly influenced by the presence of the Danfoss headquarters nearby. Sønderborg combines striking coastal scenery, rich historical narratives, and a forward-looking industrial environment. Geography K7 – Denmark's geography and society."
- },
- factsAdvanced: {
- de: [
- "Schloss Sønderborg diente im 16. Jahrhundert als Gefängnis für den abgesetzten König Christian II.",
- "Die Stadt liegt teils auf der Halbinsel Sundewitt und teils auf der Insel Alsen.",
- "Sønderborg ist das Zentrum der dänischen High-Tech-Region im Süden, in der Firmen wie Danfoss ansässig sind.",
- "Jedes Jahr findet in Sønderborg das traditionelle Ringreiten statt, ein großes Volksfest."
- ],
- hu: [
- "Az 1864-es dybbøli csata helyszíne Sønderborg mellett található, ahol Dánia jelentős területeket veszített el.",
- "A Sønderborg-kastély börtönként is szolgált II. Keresztély király számára a 16. században.",
- "A város központjában működik a Danfoss, a világhírű dán fűtés- és hűtéstechnikai vállalat globális központja.",
- "A város egyedi elhelyezkedése miatt a dán és a német kultúra békés egymás mellett élése figyelhető meg."
- ],
- ro: ["Castelul Sønderborg a servit drept închisoare pentru fostul rege danez Christian al II-lea timp de 17 ani în secolul al XVI-lea.", "Centrul de Cercetare Danfoss Universe este una dintre atracțiile majore, popularizând știința și tehnologia pentru familii.", "În fiecare vară, orașul găzduiește 'Ringridning', cel mai mare festival de turnire și lupte medievale ecvestre din Scandinavia.", "Bătălia de la Dybbøl, esențială în Războiul din 1864, a avut loc chiar la marginea vestică a orașului.", "Sønderborg a lansat inițiativa ambițioasă 'Project Zero', propunându-și să devină o municipalitate complet neutră din punct de vedere al emisiilor de carbon până în 2029."],
- en: ["Sønderborg is partly located on the island of Als and partly on the Jutland peninsula.", "The Battle of Dybbøl in 1864, fought nearby, was a defining moment in modern Danish history.", "Sønderborg Castle houses an extensive museum dedicated to the history of the border region.", "The city is known for the traditional ring riding festivals (Ringridning) held every summer."]
- },
- facts: {
- en: ["Sonderborg sits on the Alssund strait.", "The city is closely linked to the island of Als.", "It has strong ties to Danish-German border history.", "The harbor area has seen major redevelopment.", "Sonderborg Castle is a major local highlight."],
- de: ["Sønderborg liegt am Alssund.", "Die Stadt ist eng mit der Insel Als verbunden.", "Sie hat starke Bezüge zur dänisch-deutschen Grenzgeschichte.", "Der Hafenbereich wurde stark umgestaltet.", "Schloss Sønderborg ist ein wichtiges lokales Highlight."],
- hu: ["Sønderborg az Alssund szorosnál fekszik.", "A város szorosan kapcsolódik Als szigetéhez.", "Erős dán–német határtörténeti kötődése van.", "A kikötő környékét jelentősen megújították.", "A Sønderborg kastély fontos helyi látnivaló."],
- ro: ["Sønderborg se află pe strâmtoarea Alssund.", "Orașul este strâns legat de insula Als.", "Are legături puternice cu istoria de frontieră danezo-germană.", "Zona portuară a fost reamenajată masiv.", "Castelul Sønderborg este un punct de atracție local major."]
- },
- image: "/geo-images/denmark/sonderborg.webp",
- },
- {
+  {
  id: "city-holstebro",
  type: "city",
  parent: "DK",

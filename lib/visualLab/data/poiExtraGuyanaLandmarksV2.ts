@@ -657,33 +657,7 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
       ro: ["Fondată în 1745.", "Suprafață: 500 de hectare.", "Producție zahăr: 10.000 tone anual.", "Moară: mașină cu aburi din 1850.", "Conac: 20 de camere.", "Muncitori: 200 în secolul al XIX-lea."],
       en: ["Founded in 1745.", "Area: 500 hectares.", "Annual sugar production: 10,000 tons.", "Mill: steam engine from 1850.", "Mansion rooms: 20.", "Workers in 19th century: 200."],
     },
-  }, {
-    id: "st-andrews-kirk-guyana-landmarks-v2",
-    type: "landmark",
-    parent: "GY-DE",
-    coords: [-58.1655, 6.809],
-    name: { de: "St. Andrew's Kirk", hu: "St. Andrew's Kirk", ro: "Biserica St. Andrew", en: "St. Andrew's Kirk"},
-    image: "/poi-images/st-andrews-kirk-guyana-landmarks-v2.webp",
-    description: { de: "Die älteste Kirche in Georgetown, die ununterbrochen für Gottesdienste genutzt wurde.", hu: "Georgetown legrégebbi temploma, amelyet folyamatosan istentiszteletre használtak.", ro: "Cea mai veche biserică din Georgetown folosită continuu pentru slujbe.", en: "The oldest church in Georgetown to be continuously used for worship." },
-    facts: {
-      de: ["Eröffnet im Jahr 1818.", "Die erste Kirche, die Sklaven in Guyana den Eintritt gewährte."],
-      hu: ["1818-ban nyitották meg.", "Az első templom, amely beengedte a rabszolgákat Guyanában."],
-      ro: ["Deschisă în 1818.", "Prima biserică care a permis intrarea sclavilor în Guyana."],
-      en: ["Opened in 1818.", "The first church to allow slaves to attend in Guyana."]
-    }, image: "/poi-images/st-andrews-kirk-guyana-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "St. Andrew's Kirk in Georgetown, Guyana, ist eine presbyterianische Kirche aus dem 19. Jahrhundert. Sie wurde 1818 geweiht und ist im georgianischen Stil erbaut. Die Kirche hat eine schlichte Fassade und einen Glockenturm. Sie ist eine der ältesten Kirchen der Stadt. Die Gemeinde ist aktiv. St. Andrew's Kirk ist ein historisches Wahrzeichen.",
-      hu: "A St. Andrew's Kirk Georgetownban, Guyanában, egy 19. századi presbiteriánus templom. 1818-ban szentelték fel, grúz stílusban épült. Egyszerű homlokzattal és harangtoronnyal rendelkezik. A város egyik legrégebbi temploma. A gyülekezet aktív. Történelmi nevezetesség.",
-      ro: "Biserica St. Andrew's Kirk din Georgetown, Guyana, este o biserică prezbiteriană din secolul al XIX-lea. Sfințită în 1818, construită în stil georgian. Are o fațadă simplă și un turn cu clopot. Una dintre cele mai vechi biserici din oraș. Comunitatea este activă. Reper istoric.",
-      en: "St. Andrew's Kirk in Georgetown, Guyana, is a 19th-century Presbyterian church consecrated in 1818, built in Georgian style. It features a simple façade and bell tower. As one of the city's oldest churches, it remains active and serves as a historic landmark.",
-    },
-    factsAdvanced: {
-      de: ["Geweiht 1818.", "Glocke: 1 aus Bronze.", "Sitzplätze: 250.", "Turmuhr: 1.", "Höhe: 15 Meter.", "Renoviert 1970."],
-      hu: ["Felszentelve 1818-ban.", "Harang: 1 db bronz.", "Ülőhelyek: 250.", "Toronyóra: 1.", "Magasság: 15 méter.", "Felújítva 1970-ben."],
-      ro: ["Sfințită în 1818.", "Clopot: 1 din bronz.", "Locuri: 250.", "Ceas turn: 1.", "Înălțime: 15 metri.", "Renovată în 1970."],
-      en: ["Consecrated in 1818.", "Bell: 1 bronze.", "Seating capacity: 250.", "Clock tower: 1.", "Height: 15 meters.", "Renovated in 1970."],
-    },
-  }, {
+  },  {
     id: "promenade-gardens-georgetown-landmarks-v2",
     type: "landmark",
     parent: "GY-DE",

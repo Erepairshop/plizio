@@ -406,52 +406,7 @@ export const poiExtraJordanCitiesV2: POI[] = [
     factsAdvanced: {
       de: ["Etwa 50.000 Einwohner auf 1.070 Metern Höhe", "220 Kilometer südlich von Amman", "Historischer Hedschasbahnhof seit 1904", "Wichtige Station auf der Pilgerroute nach Mekka", "Kurzzeitig Hauptstadt des Königreichs Hidschas-Ma'an 1920 bis 1925", "Britisches Mandat 1921 bis 1946", "Al-Hussein Bin Talal Universität seit 1999", "Petra nur 35 Kilometer westlich"]
     }, image: "/poi-images/maan-cities-v2.webp"},
-  {
-    id: "jerash-cities-v2",
-    type: "city",
-    parent: "JO-JA",
-    coords: [35.8997, 32.2808],
-    name: { de: "Jerash", hu: "Dzseras", ro: "Jerash", en: "Jerash"},
-    image: "/poi-images/jerash-cities-v2.webp",
-    description: {
-      de: "Jerash ist weltberühmt für seine hervorragend erhaltenen römischen Ruinen. Die moderne Stadt wuchs direkt neben den antiken Säulenstraßen.",
-      hu: "Dzseras világhírű a kiválóan fennmaradt római romjairól. A modern város közvetlenül az ókori oszlopsorok mellett épült fel.",
-      ro: "Jerash este faimos în lume pentru ruinele sale romane excelent conservate. Orașul modern a crescut chiar lângă străzile antice cu coloane.",
-      en: "Jerash is world-famous for its exceptionally well-preserved Roman ruins. The modern city grew right next to the ancient colonnaded streets."
-    },
-    facts: {
-      de: [
-        "Das ovale Forum ist ein architektonisches Meisterwerk.",
-        "In der Antike hieß die Stadt Gerasa.",
-        "Das jährliche Jerash-Festival zieht Tausende an.",
-        "Der Hadrianbogen empfängt die Besucher."
-      ],
-      hu: [
-        "Az ovális fórum egy építészeti mestermű.",
-        "Az ókorban a várost Gerasa néven ismerték.",
-        "Az éves Dzseras Fesztivál ezreket vonz.",
-        "A látogatókat Hadrianus diadalíve fogadja."
-      ],
-      ro: [
-        "Forumul oval este o capodoperă arhitecturală.",
-        "În antichitate orașul se numea Gerasa.",
-        "Festivalul anual Jerash atrage mii de oameni.",
-        "Arcul lui Hadrian întâmpină vizitatorii."
-      ],
-      en: [
-        "The oval forum is an architectural masterpiece.",
-        "In antiquity, the city was known as Gerasa.",
-        "The annual Jerash Festival attracts thousands.",
-        "Hadrian's Arch welcomes all visitors."
-      ]
-    },
-    descriptionAdvanced: {
-      de: "Jerash liegt rund 50 Kilometer nördlich von Amman auf 600 Metern Höhe und zählt etwa 50.000 Einwohner. Die antike Stadt Gerasa war eine der zehn Städte der römischen Dekapolis und gilt als eine der besterhaltenen römischen Provinzstädte des Nahen Ostens. Die wichtigsten Bauwerke entstanden im 1. und 2. Jahrhundert n. Chr.: der Hadriansbogen wurde 129 n. Chr. zum Besuch Kaiser Hadrians errichtet, das ovale Forum mit 56 ionischen Säulen ist einzigartig in der römischen Welt, der Artemistempel stammt aus dem späten 2. Jahrhundert. Ein verheerendes Erdbeben im Januar 749 zerstörte die Stadt weitgehend, woraufhin sie verlassen wurde. 1806 wurde Gerasa vom deutschen Forschungsreisenden Ulrich Jasper Seetzen wiederentdeckt. Während des britischen Mandats (1921–1946) begannen systematische Ausgrabungen. Das jährliche Jerash Festival of Culture and Arts findet seit 1981 statt."
-    },
-    factsAdvanced: {
-      de: ["Etwa 50.000 Einwohner, 50 Kilometer nördlich von Amman", "Antike Stadt Gerasa der römischen Dekapolis", "Hadriansbogen erbaut 129 n. Chr.", "Ovales Forum mit 56 ionischen Säulen", "Artemistempel aus dem späten 2. Jahrhundert", "Erdbeben im Januar 749 zerstörte die Stadt", "Wiederentdeckung durch Ulrich Jasper Seetzen 1806", "Jerash Festival seit 1981"]
-    }, image: "/poi-images/jerash-cities-v2.webp"},
-  {
+    {
     id: "karak-cities-v2",
     type: "city",
     parent: "JO-KA",

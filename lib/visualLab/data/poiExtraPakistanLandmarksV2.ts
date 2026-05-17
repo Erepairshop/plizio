@@ -2,75 +2,7 @@
 import type { POI } from "./poi";
 
 export const poiExtraPakistanLandmarksV2: POI[] = [
-  {
-    id: "faisal-mosque-landmarks-v2",
-    type: "landmark",
-    parent: "PK-IS",
-    coords: [73.0379, 33.7294],
-    name: {
-      de: "Faisal-Moschee",
-      hu: "Faisal-mecset",
-      ro: "Moscheea Faisal",
-      en: "Faisal Mosque"
-    ,
-    descriptionAdvanced: {
-      de: "Die Faisal-Moschee, gelegen in der Hauptstadt Islamabad am Fuße der Margalla-Hügel, ist ein architektonisches Wunderwerk und eines der bekanntesten Wahrzeichen Pakistans. Ihr markantes Design ahmt die Form eines Beduinenzeltes nach und verzichtet auf die klassischen runden Kuppeln, die man bei den meisten Moscheen findet. Entworfen vom türkischen Architekten Vedat Dalokay und finanziert durch Saudi-Arabien, kann der riesige Komplex über 300.000 Gläubige fassen. Die klaren Linien, die vier spitzen Minarette und der leuchtend weiße Marmor machen sie zu einem Meisterwerk moderner islamischer Architektur. Sie ist ein perfektes Thema für den Kunst- und Architekturunterricht der 9. Klasse.",
-      hu: "A Faisal-mecset nemcsak történelmi, hanem építészeti szempontból is Pakisztán legkülönlegesebb látványossága. A Margalla-hegység kontúrjait követő épület modern turisztikai és vallási mérföldkő. A török Vedat Dalokay által tervezett épület formavilága a sivatagi beduin sátrak funkcionalizmusát ötvözi a modern vasbeton brutalizmusával. Az óriási, nyolcszögletű imaterem oszlopok nélkül épült, terhét négy gigantikus betonárbóc viseli. A kupola hiánya és a négy ceruzavékony, török stílusú minaret éles, geometrikus megjelenést kölcsönöz az épületnek, amely este, kivilágítva Iszlámábád legfényesebb csillagaként ragyog a hegyoldalban. Kunst K8 — a modern iszlám építészet és a betonstruktúrák.",
-      en: "Dominating the skyline of Pakistan's capital, the Faisal Mosque is a landmark of unparalleled modernist design, drawing millions of visitors to its striking, tent-like structure at the foot of the Margalla Hills. Unlike traditional mosques, it shuns domes in favor of angular, sloping concrete lines, creating a vast, column-free interior that inspires awe through its sheer scale and minimalist aesthetic. It serves not only as the spiritual center of the nation but also as a premier architectural tourist destination. The vast white marble courtyards offer spectacular, serene views of the surrounding green hills, making it a favorite spot for evening walks. Plizio curriculum connection: Art K7 — modern architectural landmarks and tourist sites.",
-      ro: "Moscheea Faisal din capitala Islamabad domină vizual peisajul urban cu arhitectura sa revoluționară. Fără a apela la domurile rotunde tradiționale, moscheea a fost proiectată de arhitectul turc Vedat Dalokay sub forma unui cort de beduin cu linii ascuțite, sprijinit de patru minarete gigantice de 90 de metri. Inaugurată în anul 1986, structura uriașă poate primi sute de mii de musulmani simultan, fiind finanțată integral printr-un grant oferit de regele Faisal al Arabiei Saudite. Geografie K7 — monumente arhitecturale contemporane și planificare urbană."},
-    factsAdvanced: {
-      en: ["The largest mosque in Pakistan by capacity, holding up to 100,000 people.", "Designed to visually mimic an eight-sided desert tent.", "Cost approximately $120 million to construct in the 1970s and 80s.", "The main prayer hall is a massive, column-free space covering 54,000 square feet.", "Features a prominent golden chandelier designed to look like a geometric constellation.", "A major focal point for tourism in Islamabad."],
-      ro: ["Proiectată de renumitul arhitect turc Vedat Dalokay", "Inaugurată oficial ca moschee națională în 1986", "Designul neconvențional imită un cort al beduinilor nomazi", "Cele 4 minarete ascuțite ajung fiecare la 90 de metri înălțime", "A fost finanțată printr-un grant masiv din Arabia Saudită", "Sala principală și curtea pot cuprinde 300.000 de credincioși"],
-      de: ["Eine der größten Moscheen der Welt in Islamabad, bekannt für ihre zeitgenössische Architektur.", "Liegt im Gebiet der Islamischen Republik Pakistan.", "Steht unter dem Einfluss der Klimazonen zwischen Hindukusch, Indus-Ebene und Arabischem Meer.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
-      hu: ["A világ egyik legnagyobb mecsete Iszlámábádban, amely modern építészetéről ismert.", "A Pakisztáni Iszlám Köztársaság területén található.", "A Hindukus, az Indus-síkság és az Arab-tenger közötti éghajlati zónák hatása alatt áll.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."] } },
-    image: "/poi-images/faisal-mosque-landmarks-v2.webp",
-    description: {
-      de: "Eine der größten Moscheen der Welt in Islamabad, bekannt für ihre zeitgenössische Architektur.",
-      hu: "A világ egyik legnagyobb mecsete Iszlámábádban, amely modern építészetéről ismert.",
-      ro: "Una dintre cele mai mari moschei din lume, situată în Islamabad, cunoscută pentru arhitectura sa contemporană.",
-      en: "One of the largest mosques in the world located in Islamabad, known for its contemporary architecture."
-    },
-    facts: {
-      de: ["Entworfen von einem türkischen Architekten.", "Kann über 300.000 Gläubige aufnehmen."],
-      hu: ["Török építész tervezte.", "Több mint 300 000 hívő befogadására képes."],
-      ro: ["Proiectată de un arhitect turc.", "Poate găzdui peste 300.000 de credincioși."],
-      en: ["Designed by a Turkish architect.", "Can accommodate over 300,000 worshippers."]
-    }, image: "/poi-images/faisal-mosque-landmarks-v2.webp"},
-  {
-    id: "minar-e-pakistan-landmarks-v2",
-    type: "monument",
-    parent: "PK-PB",
-    coords: [74.3095, 31.5925],
-    name: {
-      de: "Minar-e-Pakistan",
-      hu: "Minar-e-Pakisztán",
-      ro: "Minar-e-Pakistan",
-      en: "Minar-e-Pakistan"
-    ,
-    descriptionAdvanced: {
-      de: "Das Minar-e-Pakistan ist nicht nur ein Turm, sondern das steinerne Manifest der Gründung Pakistans. Das rund 70 Meter hohe Wahrzeichen befindet sich im Iqbal-Park in Lahore und markiert den Ort, an dem die Idee eines eigenständigen muslimischen Staates 1940 offiziell formuliert wurde. Das von Nasreddin Murat-Khan entworfene Bauwerk vereint meisterhaft moderne Ingenieurskunst mit klassisch islamischen und Mogul-Designelementen. Die Basis des Turms besteht aus vier großen, blütenähnlichen Bögen. Das Minar ist heute ein zentraler Ort für politische Versammlungen und nationale Feierlichkeiten. Ein herausragendes Lehrbeispiel für politische Symbolik im Geschichtsunterricht der 8. Klasse.",
-      hu: "A Minar-e-Pakisztán Lahore városképének legkiemelkedőbb vizuális tájékozódási pontja. A Greater Iqbal Park közepén álló gigantikus torony a modern pakisztáni építészet mesterműve. A talapzat lépcsőzetes medencéit és durva kőburkolatait fokozatosan sima, polírozott márvány váltja fel ahogy a torony magasodik, szimbolizálva a pakisztáni nemzet nehéz kezdetektől a sikerig tartó útját. A látogatók lifttel vagy lépcsőn juthatnak fel a kilátóteraszig, ahonnan lélegzetelállító körpanoráma nyílik az óvárosra, a közeli Badshahi mecsetre és a Lahore-i erődre. Ez a park és a torony a pakisztáni politikai nagygyűlések és ünnepségek legfontosabb színtere. Földrajz K8 — a városi parkok és a nemzeti szimbólumok integrációja.",
-      en: "Standing tall in the heart of Greater Iqbal Park in Lahore, the Minar-e-Pakistan is a celebrated national landmark that attracts thousands of visitors daily. The structure is a brilliant fusion of Islamic, Mughal, and modern architectural styles, creating a soaring vertical element in the city's historical skyline. Visitors often take the elevator to the top viewing deck, which offers breathtaking panoramic views of the adjacent Lahore Fort and the sprawling old city. The monument is heavily illuminated at night, acting as a beacon of patriotism. It is the premier site for national day celebrations and political gatherings. Plizio curriculum connection: Civics K6 — national symbols and public gathering spaces.",
-      ro: "Minar-e-Pakistan, situat în vastul Iqbal Park din Lahore, este cel mai important monument istoric al țării. Acest turn zvelt de 62 de metri, construit între 1960 și 1968, a fost ridicat pe locația exactă unde liderii musulmani au semnat \"Rezoluția de la Lahore\" în 1940. Baza turnului are formă de floare de lotus care se deschide, iar panourile de marmură din interior au gravate citate din Coran, precum și discursurile lui Muhammad Ali Jinnah. Geografie K7 — simboluri naționale și identitate culturală."},
-    factsAdvanced: {
-      en: ["The tower reaches a height of 70 meters above its base.", "Constructed on the exact spot where the 1940 Pakistan Resolution was passed.", "The park surrounding it, Greater Iqbal Park, was recently renovated into a major public space.", "Features a viewing deck accessible by an elevator, offering panoramic city views.", "The structure's base is shaped like a blossoming flower.", "Often referred to as the 'Tower of Pakistan'."],
-      ro: ["Inaugurat cu succes în 1968 după un efort de 8 ani", "Turnul principal are o înălțime de 62 de metri de la sol", "Construit exact pe situl unde s-a semnat Rezoluția din 1940", "Baza arhitecturală este modelată ca o uriașă floare de lotus", "Panourile din interior conțin texte gravate în marmură fină", "Este epicentrul festivităților de Ziua Independenței (23 martie)"],
-      de: ["Ein Nationaldenkmal in Lahore, das an die Lahore-Resolution erinnert.", "Liegt im Gebiet der Islamischen Republik Pakistan.", "Steht unter dem Einfluss der Klimazonen zwischen Hindukusch, Indus-Ebene und Arabischem Meer.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
-      hu: ["Lahore-ban található nemzeti emlékmű, amely a Lahore-i határozatra emlékeztet.", "A Pakisztáni Iszlám Köztársaság területén található.", "A Hindukus, az Indus-síkság és az Arab-tenger közötti éghajlati zónák hatása alatt áll.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."] } },
-    image: "/poi-images/minar-e-pakistan-landmarks-v2.webp",
-    description: {
-      de: "Ein Nationaldenkmal in Lahore, das an die Lahore-Resolution erinnert.",
-      hu: "Lahore-ban található nemzeti emlékmű, amely a Lahore-i határozatra emlékeztet.",
-      ro: "Un monument național în Lahore care comemorează Rezoluția de la Lahore.",
-      en: "A national monument in Lahore commemorating the Lahore Resolution."
-    },
-    facts: {
-      de: ["An dem Ort erbaut, an dem 1940 die Resolution verabschiedet wurde.", "Die Höhe beträgt etwa 70 Meter."],
-      hu: ["Azon a helyen épült, ahol 1940-ben elfogadták a határozatot.", "Magassága körülbelül 70 méter."],
-      ro: ["Construit pe locul unde a fost adoptată Rezoluția în 1940.", "Înălțimea este de aproximativ 70 de metri."],
-      en: ["Built at the site where the Resolution was passed in 1940.", "The height is approximately 70 meters."]
-    }, image: "/poi-images/minar-e-pakistan-landmarks-v2.webp"},
-  {
+      {
     id: "lahore-fort-landmarks-v2",
     type: "historical",
     parent: "PK-PB",
@@ -207,41 +139,7 @@ export const poiExtraPakistanLandmarksV2: POI[] = [
       ro: ["Un centru important al hinduismului și budismului.", "Include mai multe mănăstiri și stupe."],
       en: ["An important center of Hinduism and Buddhism.", "Includes several monasteries and stupas."]
     }, image: "/poi-images/taxila-ruins-landmarks-v2.webp"},
-  {
-    id: "pakistan-monument-landmarks-v2",
-    type: "monument",
-    parent: "PK-IS",
-    coords: [73.0683, 33.6931],
-    name: {
-      de: "Pakistan-Denkmal",
-      hu: "Pakisztáni emlékmű",
-      ro: "Monumentul Pakistan",
-      en: "Pakistan Monument"
-    ,
-    descriptionAdvanced: {
-      de: "Das Pakistan Monument ist ein auffälliges und zutiefst symbolisches Wahrzeichen in der Hauptstadt Islamabad, das auf den grünen Shakarparian-Hügeln thront. Es wurde 2007 erbaut, um die nationale Einheit und die Gründung Pakistans zu feiern. Die Architektur hat die Form einer blühenden Blume, deren große Granitblätter die Provinzen des Landes und die kleinen Blätter die autonomen Gebiete repräsentieren. Von seiner erhöhten Position aus bietet das Monument einen Panoramablick über die gesamte Stadt. Die Innenwände der Blätter sind mit filigranen Kunstwerken bedeckt, die die Geschichte der Unabhängigkeit nacherzählen. Es ist ein hervorragendes Beispiel für moderne nationale Symbolik im Sozialkundeunterricht der 7. Klasse.",
-      hu: "A Pakisztán Emlékmű a modern Iszlámábád legfőbb kilátópontja, amely a Shakarparian-dombról tekint le a Margalla-hegységre és a Fővárosi Területre. Építészeti különlegessége a muqarnas (lépcsőzetes arab boltív) szerkezetek modern, absztrakt újraértelmezése a négy gigantikus gránitszirom formájában. Az építmény körül egy tágas, teraszos tér (plaza) található, amely kiváló akusztikájú szabadtéri amfiteátrumként is szolgál. A komplexum mellett egy ötágú csillagot formázó fém alkotás áll, a talapzatban pedig egy hipermodern történeti és kulturális múzeum kapott helyet, viaszbábukkal és digitális kijelzőkkel bemutatva a pakisztáni kultúrát. Földrajz K7 — a panorámás kilátópontok, a városi turizmus és a modern térépítészet.",
-      ro: "Monumentul Pakistanului, ridicat pe dealurile Shakarparian, funcționează ca un magnet turistic major în capitala Islamabad. Construit în forma unei flori înflorite uimitoare realizate din granit masiv, a fost dedicat poporului pakistanez care a luptat pentru independență. Finalizat în 2007, monumentul oferă vederi panoramice excepționale asupra întregului oraș. În interior, relieful de o complexitate uluitoare reprezintă clădiri iconice, cum ar fi Pasul Khyber și Fortul Lahore, celebrând diversitatea regiunilor sale. Geografie K7 — atracții moderne și puncte de belvedere.",
-      en: "The Pakistan Monument is the definitive national landmark of the capital city, Islamabad. Situated prominently on the Shakarparian Hills, its striking, flower-like granite petals make it instantly recognizable from miles away. The monument is specifically designed to be a visual focal point for patriotism, representing the unity of the country's diverse provinces and territories. The surrounding terraces offer sweeping, panoramic views of Islamabad's geometric grid and the lush Margalla Hills in the distance. It is one of the most photographed modern structures in the country, buzzing with families and tourists every evening. Plizio curriculum connection: Civics & Geography K7 — capital cities, national unity, and modern monuments."},
-    factsAdvanced: {
-      en: ["A highly visible national landmark located on the Shakarparian Hills.", "Designed by architect Arif Masoud to resemble a blossoming flower.", "The four large petals represent Pakistan's four main provinces.", "The three smaller petals represent the country's territories.", "Includes a large central plaza featuring a star and crescent design.", "Houses the adjacent Pakistan Monument Museum, detailing the nation's creation."],
-      de: ["Ein Nationaldenkmal und Kulturerbe-Museum in den Shakarparian Hills von Islamabad.", "Liegt im Gebiet der Islamischen Republik Pakistan.", "Steht unter dem Einfluss der Klimazonen zwischen Hindukusch, Indus-Ebene und Arabischem Meer.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
-      hu: ["Nemzeti emlékmű és kulturális örökségi múzeum Iszlámábádban, a Shakarparian-hegyekben.", "A Pakisztáni Iszlám Köztársaság területén található.", "A Hindukus, az Indus-síkság és az Arab-tenger közötti éghajlati zónák hatása alatt áll.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."],
-      ro: ["Un monument național și muzeu de patrimoniu situat în Dealurile Shakarparian din Islamabad.", "Se află pe teritoriul Republicii Islamice Pakistan.", "Se găsește sub influența zonelor climatice dintre Hindu Kush, câmpia Indului și Marea Arabiei.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."] } },
-    image: "/poi-images/pakistan-monument-landmarks-v2.webp",
-    description: {
-      de: "Ein Nationaldenkmal und Kulturerbe-Museum in den Shakarparian Hills von Islamabad.",
-      hu: "Nemzeti emlékmű és kulturális örökségi múzeum Iszlámábádban, a Shakarparian-hegyekben.",
-      ro: "Un monument național și muzeu de patrimoniu situat în Dealurile Shakarparian din Islamabad.",
-      en: "A national monument and heritage museum located in the Shakarparian Hills of Islamabad."
-    },
-    facts: {
-      de: ["Die Form stellt die blühenden Blütenblätter der Provinzen Pakistans dar.", "Bietet einen Panoramablick auf die Stadt."],
-      hu: ["Formája Pakisztán tartományainak virágzó szirmait jelképezi.", "Panorámás kilátást nyújt a városra."],
-      ro: ["Forma reprezintă petalele înfloritoare ale provinciilor Pakistanului.", "Oferă o vedere panoramică asupra orașului."],
-      en: ["The shape represents the blooming flower petals of Pakistan's provinces.", "Offers panoramic views of the city."]
-    }, image: "/poi-images/pakistan-monument-landmarks-v2.webp"},
-  {
+    {
     id: "shah-jahans-mosque-landmarks-v2",
     type: "landmark",
     parent: "PK-SD",
@@ -310,41 +208,7 @@ export const poiExtraPakistanLandmarksV2: POI[] = [
       ro: ["Construită inițial de un conducător Rajput.", "Are patruzeci de bastioane."],
       en: ["Originally built by a Rajput ruler.", "Has forty bastions."]
     }, image: "/poi-images/derawar-fort-landmarks-v2.webp"},
-  {
-    id: "baltit-fort-landmarks-v2",
-    type: "historical",
-    parent: "PK-GB",
-    coords: [74.6719, 36.3156],
-    name: {
-      de: "Festung Baltit",
-      hu: "Baltit erőd",
-      ro: "Fortul Baltit",
-      en: "Baltit Fort"
-    ,
-    descriptionAdvanced: {
-      de: "Das Baltit Fort ist das unbestrittene Wahrzeichen des spektakulären Hunza-Tals in Gilgit-Baltistan. Es thront majestätisch auf einem Felsvorsprung mit einem unvergleichlichen Blick auf die schneebedeckten Gipfel des Karakorum. Die über 700 Jahre alte Festung weist starke architektonische Ähnlichkeiten zum Potala-Palast in Tibet auf, was auf handwerkliche Einflüsse aus Baltistan zurückzuführen ist. Es diente als Palast für die Mirs (Herrscher) von Hunza, bis diese in den 1940er Jahren umzogen. Heute ist das liebevoll restaurierte Gebäude ein Museum und ein herausragendes Beispiel für die einzigartige alpine Kultur Pakistans. Es ist ein exzellentes Lehrstück über Bergarchitektur im Geografieunterricht der 8. Klasse.",
-      hu: "A Baltit erőd a Hunza-völgy kiemelkedő építészeti látványossága, amely drámai sziklaszirten egyensúlyoz Karimabad felett. Az Aga Khan Alapítvány által megmentett és felújított erőd ma egy fantasztikus néprajzi múzeumként működik. A többemeletes, masszív építmény faborítású teraszairól és gazdagon faragott ablakkereteiből árad a közép-ázsiai hegyi kultúra. Belül a látogatók bejárhatják az ősi fegyverraktárakat, a sötét, füstös téli konyhákat, a faragott faoszlopos fogadótermeket és a királyi lakosztályokat, miközben eredeti fegyvereket, szőnyegeket és a Hunza-uralkodók hagyatékait csodálhatják meg. Kunst K8 — a faépítészet (cribbage) és a himalájai múzeumok.",
-      ro: "Datorită vederilor sale spectaculoase din Valea Hunza și a istoriei sale profunde, Fortul Baltit este o atracție emblematică din nordul Pakistanului. Lemnul închis, piatra expusă și arhitectura în trepte amintesc de stilul tibetan tradițional, datând de peste șapte secole. Transformarea cu succes a fortului dintr-un castel dărăpănat într-un muzeu vibrant a fost recunoscută printr-un premiu internațional pentru excelență în conservare din partea UNESCO, aducând un aflux constant de turiști internaționali. Geografie K7 — ecoturism și conservarea patrimoniului.",
-      en: "Baltit Fort is the iconic visual centerpiece of the Hunza Valley, perched like an eagle's nest on an elevated moraine overlooking the town of Karimabad. With its whitewashed walls, intricate timber framing, and dramatic mountainous backdrop, it is the defining image of northern Pakistan. Originally a defensive stronghold for the local Mirs, its architecture reflects a fascinating blend of local stone-and-mud techniques with distinct Tibetan influences, particularly the wooden bay windows. Today, as a beautifully restored museum, it draws thousands of trekkers and tourists who climb the steep cobbled path to experience the panoramic views of the Karakoram range from its roof. Plizio curriculum connection: Geography K7 — mountain tourism and traditional architecture."},
-    factsAdvanced: {
-      en: ["The most recognizable historical landmark in the Hunza Valley.", "The fort is estimated to be around 700 years old.", "Exhibits a unique blend of local Balti and Tibetan architectural styles.", "Restored in the 1990s and repurposed as a heritage museum.", "Constructed using a wooden cribbage framework to withstand frequent earthquakes.", "Offers commanding views of Rakaposhi and the Ultar Sar peaks."],
-      de: ["Eine alte Festung im Hunza-Tal, die einen Einblick in die feudale Vergangenheit der Region bietet.", "Liegt im Gebiet der Islamischen Republik Pakistan.", "Steht unter dem Einfluss der Klimazonen zwischen Hindukusch, Indus-Ebene und Arabischem Meer.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
-      hu: ["Ősi erőd a Hunza-völgyben, amely bepillantást enged a régió feudális múltjába.", "A Pakisztáni Iszlám Köztársaság területén található.", "A Hindukus, az Indus-síkság és az Arab-tenger közötti éghajlati zónák hatása alatt áll.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."],
-      ro: ["O fortăreață veche în Valea Hunza, care oferă o privire asupra trecutului feudal al regiunii.", "Se află pe teritoriul Republicii Islamice Pakistan.", "Se găsește sub influența zonelor climatice dintre Hindu Kush, câmpia Indului și Marea Arabiei.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."] } },
-    image: "/poi-images/baltit-fort-landmarks-v2.webp",
-    description: {
-      de: "Eine alte Festung im Hunza-Tal, die einen Einblick in die feudale Vergangenheit der Region bietet.",
-      hu: "Ősi erőd a Hunza-völgyben, amely bepillantást enged a régió feudális múltjába.",
-      ro: "O fortăreață veche în Valea Hunza, care oferă o privire asupra trecutului feudal al regiunii.",
-      en: "An ancient fort in the Hunza Valley, offering a glimpse into the region's feudal past."
-    },
-    facts: {
-      de: ["Über 700 Jahre alt.", "Bietet atemberaubende Ausblicke auf das Hunza-Tal."],
-      hu: ["Több mint 700 éves.", "Lenyűgöző kilátást nyújt a Hunza-völgyre."],
-      ro: ["Are o vechime de peste 700 de ani.", "Oferă vederi uimitoare ale Văii Hunza."],
-      en: ["Over 700 years old.", "Offers stunning views of the Hunza Valley."]
-    }, image: "/poi-images/baltit-fort-landmarks-v2.webp"},
-  {
+    {
     id: "khewra-salt-mine-landmarks-v2",
     type: "tourist-attraction",
     parent: "PK-PB",
@@ -378,41 +242,7 @@ export const poiExtraPakistanLandmarksV2: POI[] = [
       ro: ["Produce faimoasa sare roz de Himalaya.", "Are o moschee construită în întregime din cărămizi de sare."],
       en: ["Produces the famous pink Himalayan salt.", "Has a mosque built entirely of salt bricks."]
     }, image: "/poi-images/khewra-salt-mine-landmarks-v2.webp"},
-  {
-    id: "wazir-khan-mosque-landmarks-v2",
-    type: "landmark",
-    parent: "PK-PB",
-    coords: [74.3236, 31.5833],
-    name: {
-      de: "Wazir-Khan-Moschee",
-      hu: "Vezír Kán-mecset",
-      ro: "Moscheea Wazir Khan",
-      en: "Wazir Khan Mosque"
-    ,
-    descriptionAdvanced: {
-      de: "Die Wazir-Khan-Moschee in Lahore ist ein architektonisches Juwel und gilt als das farbenprächtigste Wahrzeichen der Mogul-Ära in Pakistan. Versteckt in den engen Gassen der alten ummauerten Stadt, wurde die Moschee in den 1630er Jahren erbaut. Was sie so einzigartig macht, sind die meisterhaften Verzierungen: Praktisch jeder Quadratzentimeter des Innenhofs, der Minarette und der Gebetshalle ist mit komplexen Fresken, persischer Kalligrafie und leuchtenden Mosaikfliesen (Kashi-Kari) bedeckt. Die vier achteckigen Minarette sind ein weiteres markantes Merkmal. Die Wazir-Khan-Moschee ist ein exzellentes Thema für den Kunst- und Geschichtsunterricht der 8. Klasse über islamische Dekorationstechniken.",
-      hu: "A Wazir Khan-mecset Lahore Várfalas Városának legélénkebb vizuális ékköve, amely egy forgalmas bazár közepén, egy szűk kapun keresztül közelíthető meg. A mecset egyediségét a 'kashi-kari' kerámiaművészet páratlan gazdagsága adja: a falakat borító csempéken kék, türkiz, citromsárga, lila és zöld színekben pompáznak a bonyolult ciprusfa-, virág- és csillagmotívumok. A belső imatermet egyedülálló, szinte a padlótól a plafonig érő kalligrafikus freskók díszítik, amelyek a Korán verseit arab és perzsa betűtípusokkal írják le. A mecset elülső árkádsorában a mai napig apró boltok és kalligráfusok műhelyei találhatók. Kunst K8 — a kalligráfia, a perzsa virágmotívumok és a városi bazárok.",
-      en: "The Wazir Khan Mosque is the vibrant, beating heart of Lahore's Walled City and a landmark of unparalleled artistic beauty. Unlike the austere grandeur of the Badshahi Mosque, Wazir Khan is famous for its intimacy and the overwhelming detail of its kashi-kari (tile work) and frescoes. Every surface, from the towering entrance gate to the interior domes, is a riot of colorful floral and geometric patterns. Nestled tightly among the bustling bazaars, the mosque is approached through narrow, chaotic streets, making the sudden transition into its serene, vividly decorated courtyard feel almost magical. It is the absolute pinnacle of Mughal decorative arts in Pakistan. Plizio curriculum connection: Art K8 — Mughal decorative arts and urban landmarks.",
-      ro: "Când vizitezi orașul fortificat Lahore, Moscheea Wazir Khan te copleșește prin culorile ei vii. Construită în 1634 de un guvernator local din timpul lui Shah Jahan, este celebră pentru lucrările extinse în mozaic de faianță smălțuită (kashi-kari), care acoperă fațadele, minaretele și curtea interioară cu motive florale turcoaz, galbene și verzi. Deși necesită eforturi constante de restaurare, această capodoperă este frecvent vizitată de artiști și fotografi din întreaga lume. Geografie K7 — arta islamică și monumente urbane."},
-    factsAdvanced: {
-      en: ["Located inside the Delhi Gate of the Walled City of Lahore.", "Renowned as the most elaborately decorated Mughal-era mosque in Pakistan.", "The entire exterior and interior are covered in vibrant frescoes and glazed tiles.", "Built in the 1630s by Wazir Khan, the governor of Punjab.", "Features four octagonal minarets that anchor the courtyard.", "Recently underwent extensive restoration by the Aga Khan Trust for Culture."],
-      ro: ["Cunoscută pentru cel mai fin mozaic de faianță (kashi-kari) din țară", "Situată în interiorul zidurilor istorice ale orașului antic Lahore", "Construită în anul 1634 pe vremea domniei împăratului Shah Jahan", "Toate cele patru minarete sunt decorate complex cu motive florale", "Considerată o capodoperă absolută a decorațiunilor erei Mughal", "Atrage constant fotografi și istorici de artă internaționali"],
-      de: ["Eine Moschee aus dem 17. Jahrhundert in Lahore, berühmt für ihre aufwändigen Fayence-Fliesenarbeiten.", "Liegt im Gebiet der Islamischen Republik Pakistan.", "Steht unter dem Einfluss der Klimazonen zwischen Hindukusch, Indus-Ebene und Arabischem Meer.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
-      hu: ["17. századi mecset Lahore-ban, amely bonyolult fajansz csempemunkáiról híres.", "A Pakisztáni Iszlám Köztársaság területén található.", "A Hindukus, az Indus-síkság és az Arab-tenger közötti éghajlati zónák hatása alatt áll.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."] } },
-    image: "/poi-images/wazir-khan-mosque-landmarks-v2.webp",
-    description: {
-      de: "Eine Moschee aus dem 17. Jahrhundert in Lahore, berühmt für ihre aufwändigen Fayence-Fliesenarbeiten.",
-      hu: "17. századi mecset Lahore-ban, amely bonyolult fajansz csempemunkáiról híres.",
-      ro: "O moschee din secolul al XVII-lea în Lahore, renumită pentru lucrările sale elaborate cu faianță.",
-      en: "A 17th-century mosque in Lahore, renowned for its intricate faience tile work."
-    },
-    facts: {
-      de: ["Gilt als die am reichsten verzierte Moschee der Mogulzeit.", "Die Wände sind mit Kalligraphie bedeckt."],
-      hu: ["A mogul-kor legdíszesebb mecsetének tartják.", "Falait kalligráfia borítja."],
-      ro: ["Considerată cea mai ornamentată moschee din epoca Mughal.", "Pereții sunt acoperiți cu caligrafie."],
-      en: ["Considered the most ornately decorated Mughal-era mosque.", "The walls are covered in calligraphy."]
-    }, image: "/poi-images/wazir-khan-mosque-landmarks-v2.webp"},
-  {
+    {
     id: "hiran-minar-landmarks-v2",
     type: "monument",
     parent: "PK-PB",
@@ -549,41 +379,7 @@ export const poiExtraPakistanLandmarksV2: POI[] = [
       ro: ["Sit al Patrimoniului Mondial UNESCO.", "Construit de împăratul Shah Jahan."],
       en: ["A UNESCO World Heritage Site.", "Built by Emperor Shah Jahan."]
     }, image: "/poi-images/shalimar-gardens-lahore-landmarks-v2.webp"},
-  {
-    id: "katas-raj-temples-landmarks-v2",
-    type: "historical",
-    parent: "PK-PB",
-    coords: [72.98, 32.72],
-    name: {
-      de: "Katas-Raj-Tempel",
-      hu: "Katas Radzs-templomok",
-      ro: "Templele Katas Raj",
-      en: "Katas Raj Temples"
-    ,
-    descriptionAdvanced: {
-      de: "Die Katas-Raj-Tempel, eingebettet in das Salt Range-Gebirge des Punjab, bilden eines der malerischsten und historisch tiefgründigsten Wahrzeichen Pakistans. Diese Ansammlung hinduistischer Tempel umringt einen smaragdgrünen See, der dem Glauben nach aus den Tränen Lord Shivas entstanden ist. Das Wahrzeichen ist ein Zeugnis tausendjähriger Geschichte, mit Tempeln, die Einflüsse von der antiken Hindu-Shahi-Zeit bis zur Mogul-Ära zeigen. Die Ruinen, die sich harmonisch in die raue Hügellandschaft einfügen, bieten eine tief spirituelle Atmosphäre. Katas Raj ist ein ideales Thema für den Geschichtsunterricht der 7. Klasse, um die religiöse Vielfalt und das vorislamische Erbe der Region zu verstehen.",
-      hu: "A Katasz Rádzs-templomok nemcsak történelmi, hanem lenyűgöző természeti látványosságot is kínálnak. A völgy katlanjában megbújó kőtemplomok egy türkizkék vizű szent tó (Katas) köré épültek, amely drámai kontrasztot alkot a Só-hegység vörösesbarna szikláival. Az épületek bonyolult kőfaragásai, a kupolás tetők és az oszlopos erkélyek labirintusszerű hálózatot alkotnak. A látogatók a meredek, kőből faragott lépcsőkön sétálva bejárhatják az ősi szentélyeket, felfedezhetik a sötét, boltíves meditációs cellákat és élvezhetik a csendet, amit csak a tó vizének tükröződése tör meg. Földrajz K8 — a vallási oázisok, a szakrális tavak és a kőfaragás turizmusa.",
-      en: "The Katas Raj Temples form a visually stunning and spiritually significant landmark set in the rugged Salt Range of Punjab. The complex is a striking cluster of ancient Hindu temples, mostly dedicated to Lord Shiva, built entirely of local stone and clustered tightly around a sacred, emerald-green pond. The architecture is a fascinating mix, featuring Kashmiri-style fluted roofs alongside later Mughal-era additions. The site feels ancient and isolated, offering a powerful visual connection to the region's pre-Islamic heritage. The temples, set against the barren, rocky hills, are a major landmark for history buffs, photographers, and religious pilgrims alike. Plizio curriculum connection: Art & History K8 — ancient temple architecture and religious heritage.",
-      ro: "Templele Katas Raj din Salt Range reprezintă un popas fascinant pentru pasionații de mitologie și istorie arhitecturală. Pe lângă faimosul iaz considerat sfânt de către hinduși, situl reunește sanctuare dedicate lui Shiva, o stupă budistă antică, un haveli (conac) și fortificații. Culoarea uimitoare de verde-smarald a iazului central creează un contrast spectaculos cu piatra degradată a clădirilor de peste o mie de ani. Complexul simbolizează moștenirea spirituală profund diversă a Punjabului antic. Geografie K7 — turism religios și situri de pelerinaj."},
-    factsAdvanced: {
-      en: ["A major Hindu pilgrimage landmark located in the Chakwal District.", "The central holy pond is said to have formed from the tears of the god Shiva.", "The architectural styles range from the 7th-century Kashmiri style to the 19th century.", "The complex includes the remains of the Hari Singh Nalwa fort and a Buddhist stupa.", "Revered as one of the most important Hindu sites in Pakistan.", "The site is currently maintained by the Evacuee Trust Property Board."],
-      ro: ["Un complex arhitectural format din multiple temple hinduse antice", "Iazul sacru are o apă de o culoare turcoaz-smarald intensă", "Incorporează și vestigiile unei vechi stupe budiste", "Multe dintre structurile actuale datează de acum 1000 de ani", "Este un sit protejat pentru a celebra toleranța religioasă istorică", "Localizat convenabil în Munții Salt Range din apropiere de Chakwal"],
-      de: ["Ein Komplex von mehreren Hindu-Tempeln, die durch Gehwege verbunden sind, um einen heiligen Teich herum.", "Liegt im Gebiet der Islamischen Republik Pakistan.", "Steht unter dem Einfluss der Klimazonen zwischen Hindukusch, Indus-Ebene und Arabischem Meer.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
-      hu: ["Több hindu templomból álló komplexum, amelyeket járdák kötnek össze egy szent tó körül.", "A Pakisztáni Iszlám Köztársaság területén található.", "A Hindukus, az Indus-síkság és az Arab-tenger közötti éghajlati zónák hatása alatt áll.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."] } },
-    image: "/poi-images/katas-raj-temples-landmarks-v2.webp",
-    description: {
-      de: "Ein Komplex von mehreren Hindu-Tempeln, die durch Gehwege verbunden sind, um einen heiligen Teich herum.",
-      hu: "Több hindu templomból álló komplexum, amelyeket járdák kötnek össze egy szent tó körül.",
-      ro: "Un complex de mai multe temple hinduse conectate prin pasarele în jurul unui iaz sacru.",
-      en: "A complex of several Hindu temples connected by walkways, centered around a sacred pond."
-    },
-    facts: {
-      de: ["Im Mahabharata erwähnt.", "Der Teich soll aus den Tränen des Gottes Shiva entstanden sein."],
-      hu: ["A Mahábhárata említi.", "A tavat állítólag Siva isten könnyeiből hozták létre."],
-      ro: ["Menționat în Mahabharata.", "Iazul se crede că a fost creat din lacrimile zeului Shiva."],
-      en: ["Mentioned in the Mahabharata.", "The pond is believed to have been created from the teardrops of the god Shiva."]
-    }, image: "/poi-images/katas-raj-temples-landmarks-v2.webp"},
-  {
+    {
     id: "takht-i-bahi-landmarks-v2",
     type: "historical",
     parent: "PK-KP",

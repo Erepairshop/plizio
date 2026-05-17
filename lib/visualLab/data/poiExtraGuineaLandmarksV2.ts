@@ -883,62 +883,7 @@ export const poiExtraGuineaLandmarksV2: POI[] = [
       ro: ["BCRG este singura instituție abilitată să emită monedă în Guineea.", "A fost înființată la doi ani după obținerea independenței față de Franța.", "Sediul său din Kaloum este una dintre cele mai securizate clădiri din țară.", "Banca administrează politica monetară și cursul de schimb al francului guineean.", "Edificiul reflectă stilul arhitectural oficial al instituțiilor financiare din anii '80.", "Reprezintă simbolul autonomiei financiare a Republicii Guineea."],
       en: ["The BCRG was established in 1960 to ensure Guinea's monetary autonomy.", "It is the sole authority for issuing the Guinean Franc (GNF).", "The building is situated in the primary financial district of the Kaloum Peninsula.", "The bank manages Guinea's strategic gold and foreign currency reserves.", "Its architecture is designed to emphasize financial stability and security.", "The institution plays a leading role in the West African Monetary Zone (WAMZ)."]
     }, image: "/poi-images/central-bank-guinea-landmarks-v2.webp"},
-  {
-    id: "kankan-grand-mosque-landmarks-v2",
-    type: "landmark",
-    parent: "GN-K",
-    coords: [-9.308, 10.385],
-    name: {
-      de: "Große Moschee von Kankan",
-      hu: "Kankani nagy mecset",
-      ro: "Marea Moschee din Kankan",
-      en: "Kankan Grand Mosque"},
-    image: "/poi-images/kankan-grand-mosque-landmarks-v2.webp",
-    description: {
-      de: "Die Große Moschee von Kankan ist ein bedeutendes religiöses Zentrum in Oberguinea. Die Stadt Kankan ist historisch als Zentrum der islamischen Gelehrsamkeit bekannt.",
-      hu: "A Kankani nagy mecset Felső-Guinea jelentős vallási központja. Kankan városa történelmileg az iszlám tudományosság központjaként ismert.",
-      ro: "Marea Moschee din Kankan este un centru religios important din Guineea Superioară. Orașul Kankan este cunoscut istoric ca un centru al erudiției islamice.",
-      en: "The Kankan Grand Mosque is a significant religious center in Upper Guinea. The city of Kankan is historically known as a hub of Islamic scholarship."
-    },
-    facts: {
-      de: [
-        "Zentrum des Islam in Oberguinea.",
-        "Bedeutendes Bauwerk in Kankan.",
-        "Ort religiöser Bildung.",
-        "Kulturelles Wahrzeichen."
-      ],
-      hu: [
-        "Az iszlám központja Felső-Guineában.",
-        "Jelentős épület Kankanban.",
-        "Vallási oktatás helyszíne.",
-        "Kulturális jelkép."
-      ],
-      ro: [
-        "Centrul islamului în Guineea Superioară.",
-        "Edificiu important în Kankan.",
-        "Loc de educație religioasă.",
-        "Simbol cultural."
-      ],
-      en: [
-        "Center of Islam in Upper Guinea.",
-        "Major building in Kankan.",
-        "Site of religious education.",
-        "Cultural landmark."
-      ]
-    },
-    descriptionAdvanced: {
-      de: "Die Große Moschee von Kankan ist das religiöse und architektonische Wahrzeichen der zweitgrößten Stadt Guineas und ein bedeutendes Zentrum des Islam in Westafrika. Geografisch liegt sie im Herzen von Kankan, einer Stadt, die als das spirituelle Zentrum der Malinké-Kultur gilt. Die Moschee ist weithin bekannt für ihre imposante Architektur, die traditionelle sudanesische Elemente mit modernen Einflüssen verbindet. Geprägt wird das Bauwerk durch seine großen Kuppeln und hohen Minarette, die die Skyline der Savannenstadt dominieren. Historisch gesehen ist die Moschee ein Symbol für die Jahrhunderte der islamischen Gelehrsamkeit in Kankan, einem Ort, der für seine Koranschulen und seine Gelehrten (Mory) berühmt ist. Jedes Jahr ist die Moschee der Mittelpunkt großer religiöser Feierlichkeiten, insbesondere des Tabaski-Festes, das Gläubige aus der gesamten Region anzieht. Die Moschee dient nicht nur als Gebetsstätte, sondern auch als sozialer Treffpunkt und Ort der moralischen Führung für die lokale Gemeinschaft. Ihre Bedeutung geht weit über die Grenzen Guineas hinaus, da Kankan als eine der 'heiligen Städte' Westafrikas angesehen wird. Für Besucher bietet die Große Moschee ein beeindruckendes Zeugnis der spirituellen Tiefe und des kulturellen Stolzes der Region Oberguinea.",
-      hu: "A Kankan-i Nagymecset Guinea második legnagyobb városának vallási és építészeti jelképe, valamint Nyugat-Afrika egyik legfontosabb iszlám központja. Földrajzilag Kankan szívében található, abban a városban, amelyet a malinké kultúra spirituális fővárosaként tartanak számon. A mecset híres monumentális megjelenéséről, amely a hagyományos szudáni stílusjegyeket ötvözi a modern megoldásokkal. Az épület hatalmas kupolái és magas minaretjei messziről uralják a szavannai város látképét. Történelmileg a mecset a Kankanban évszázadok óta virágzó iszlám tudományosság szimbóluma; a város híres korán-iskoláiról és nagy tudású hittudósairól (moryk). Minden évben ez a mecset a központja a nagyszabású vallási ünnepségeknek, különösen a Tabaski idején, amikor a hívők a tágabb régióból is ide sereglenek. A mecset nem csupán imaház, hanem a közösségi élet és a szellemi útmutatás legfőbb színtere a helyi lakosság számára. Jelentősége messze túlmutat Guinea határain, hiszen Kankant Nyugat-Afrika egyik „szent városaként” tisztelik. A látogatók számára a Nagymecset lenyűgöző bizonysága Felső-Guinea spirituális mélységének és kulturális büszkeségének.",
-      ro: "Marea Moschee din Kankan este principalul reper religios și arhitectural al celui de-al doilea oraș ca mărime din Guineea, fiind un centru vital al islamului în Africa de Vest. Geografic, moscheea este situată în inima orașului Kankan, considerat capitala spirituală a culturii Malinké. Edificiul este renumit pentru arhitectura sa impunătoare, care îmbină elemente tradiționale sudaneze cu influențe moderne, fiind remarcabil prin cupolele sale mari și minaretele înalte care domină panorama orașului. Din punct de vedere istoric, moscheea simbolizează secolele de erudiție islamică din Kankan, un oraș celebru pentru școlile sale coranice și pentru învățații săi (mory). Anual, moscheea reprezintă punctul central al marilor sărbători religioase, în special de Tabaski, atrăgând credincioși din întreaga regiune. Moscheea nu servește doar ca lăcaș de cult, ci și ca loc de întâlnire socială și de îndrumare morală pentru comunitatea locală. Importanța sa depășește granițele Guineei, Kankan fiind perceput ca unul dintre „orașele sfinte” ale Africii de Vest. Pentru vizitatori, Marea Moschee oferă o mărturie impresionantă a profunzimii spirituale și a mândriei culturale a regiunii Guineea Superioară.",
-      en: "The Grand Mosque of Kankan is the religious and architectural landmark of Guinea's second-largest city and a major center of Islam in West Africa. Geographically, it is located in the heart of Kankan, a city regarded as the spiritual capital of the Malinké culture. The mosque is widely known for its grand architecture, which blends traditional Sudanese elements with modern influences, highlighted by its large domes and tall minarets that dominate the city's savanna skyline. Historically, the mosque stands as a symbol of Kankan's centuries-old tradition of Islamic scholarship, famous for its Quranic schools and learned scholars (mory). Each year, the mosque is the centerpiece of major religious festivals, particularly the Tabaski celebrations, drawing worshipers from across the wider region. Beyond its role as a place of prayer, the mosque serves as a vital social hub and a source of moral guidance for the local community. Its significance extends far beyond Guinea's borders, as Kankan is revered as one of West Africa's 'holy cities.' For visitors, the Grand Mosque provides a powerful testament to the spiritual depth and cultural pride of the Upper Guinea region."
-    },
-    factsAdvanced: {
-      de: ["Kankan gilt als das geistige Zentrum der Malinké in Guinea.", "Die Moschee ist eine der größten und am besten besuchten des Landes.", "Das Bauwerk wurde über die Jahrzehnte mehrfach erweitert.", "Kankan ist ein berühmter Ort für den Tabaski-Umzug der Reiter.", "Die Moschee beherbergt eine angesehene Koranschule.", "Ihre Minarette dienen als Orientierungspunkt in der weitläufigen Savannenstadt."],
-      hu: ["A mecset a guineai malinké nép legfontosabb szakrális központja.", "Az épület az ország egyik legnagyobb befogadóképességű mecsetje.", "A mecset modernizálásában a helyi közösség mellett külföldi adományok is szerepet játszottak.", "Kankan híres a Tabaski idején tartott lovas felvonulásairól.", "Az épületkomplexum egyben a régió egyik legfontosabb vallási iskolája.", "A mecset stílusa hűen tükrözi a felső-guineai iszlám építészet fejlődését."],
-      ro: ["Marea Moschee reprezintă nucleul identității culturale a regiunii Kankan.", "Kankan este supranumit 'orașul sfinților' datorită influenței acestui lăcaș.", "Arhitectura moscheii a fost renovată pentru a reflecta statutul său regional.", "Pelerinajele la Kankan sunt printre cele mai importante din Guineea.", "Interiorul este decorat cu motive tradiționale manding.", "Moscheea joacă un rol major în viața politică și socială a Estului Guineei."],
-      en: ["The mosque is the spiritual epicenter for the Malinké people in Guinea.", "It ranks as one of the largest and most historically significant mosques in the country.", "Kankan is internationally recognized as a hub for traditional Islamic learning.", "The mosque is the focal point for the spectacular Tabaski horse parades.", "It serves both as a place of worship and a premier educational facility.", "The building's minarets are iconic features of the Upper Guinea landscape."]
-    }, image: "/poi-images/kankan-grand-mosque-landmarks-v2.webp"},
-  {
+    {
     id: "kankan-cathedral-landmarks-v2",
     type: "landmark",
     parent: "GN-K",

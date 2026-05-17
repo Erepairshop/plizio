@@ -3046,42 +3046,7 @@ export const polandCitiesV2: POI[] = [
       en: ["The city rights were granted by Bolesław II the Bald", "The stone railway bridge over the Bóbr was built in 1846", "Ceramics are fired at temperatures above 1200 degrees", "The town square is one of the largest in Lower Silesia", "Bolesławiec covers an area of 23.57 square kilometers", "The pottery museum is located in a 15th-century tower"],
     },
   },
-  {
-    id: "poland-malbork-cities-v2",
-    parent: "PL",
-    type: "city",
-    name: { de: "Marienburg", hu: "Malbork", ro: "Malbork", en: "Malbork"},
-    image: "/poi-images/poland-malbork-cities-v2.webp",
-    coords: [19.0333, 54.0333],
-    coords: [19.0333, 54.0333],
-    description: {
-      de: "Malbork liegt an der Nogat und beherbergt die Marienburg, die größte Backsteinburg der Welt und ein UNESCO-Weltkulturerbe.",
-      hu: "Malbork a Nogat folyó mentén fekszik, itt található a Malborki vár, a világ legnagyobb téglaépítésű vára (UNESCO).",
-      ro: "Malbork se află pe râul Nogat și găzduiește Castelul Malbork, cea mai mare construcție de cărămidă din lume.",
-      en: "Malbork is located on the Nogat River and is home to Malbork Castle, the world's largest brick castle and a UNESCO World Heritage site.",
-    },
-    facts: {
-      de: ["Einst Hauptsitz des Deutschen Ordens", "Größte gotische Burganlage der Welt", "UNESCO-Welterbe seit 1997", "Bedeutendes Zentrum des Tourismus"],
-      hu: ["Egykor a Német Lovagrend székhelye volt", "A világ legnagyobb gótikus vára", "UNESCO Világörökség 1997 óta", "Jelentős turisztikai központ"],
-      ro: ["Fost sediu al Ordinului Teuton", "Cel mai mare complex gotic din lume", "Patrimoniu mondial UNESCO din 1997", "Centru turistic de importanță majoră"],
-      en: ["Former headquarters of the Teutonic Knights", "Largest Gothic castle complex in the world", "UNESCO World Heritage site since 1997", "Major center for international tourism"],
-    },
-    imageHint: "Malbork Castle view from Nogat river",
-    image: "/poi-images/poland-malbork-cities-v2.webp",
-    descriptionAdvanced: {
-      de: "Malbork beherbergt die größte Backsteinburg der Welt, die einstige Residenz der Hochmeister des Deutschen Ordens. Die mächtige Festung am Nogat ist UNESCO-Welterbe.",
-      hu: "A Nogat folyó partján fekvő Malbork a világ legnagyobb téglavárának ad otthont. A Német Lovagrend egykori székhelye az UNESCO Világörökség része és Európa egyik legfontosabb vára.",
-      ro: "Malbork este faimos pentru castelul său teuton, cea mai mare construcție din cărămidă din lume. Fosta capitală a Ordinului Teuton domină peisajul de pe malul râului Nogat.",
-      en: "Malbork is home to the world's largest brick gothic castle, a former capital of the Teutonic Knights. This UNESCO site attracts visitors to its immense fortifications on the Nogat.",
-    },
-    factsAdvanced: {
-      de: ["Die Marienburg wurde ab 1274 erbaut", "Die Burgfläche umfasst über 21 Hektar", "Malbork war von 1309 bis 1457 Sitz des Deutschen Ordens", "Die Stadt erhielt 1286 das Kulmer Stadtrecht", "Sie liegt an der Eisenbahnstrecke Warschau-Danzig", "Das jährliche Ritterspiel 'Belagerung von Malbork' ist berühmt"],
-      hu: ["A lovagrendi vár 1997 óta az UNESCO Világörökség része", "A vár építéséhez több millió vörös téglát használtak fel", "A város lakossága megközelítőleg 38 000 fő", "A Nogat folyó a Visztula egyik fontos ága a városnál", "A város neve a német 'Marienburg' névből származik", "A vár alsó, középső és felső részből épül fel"],
-      ro: ["Castelul a fost reconstruit parțial după cel de-al Doilea Război Mondial", "Suprafața orașului este de 17,15 kilometri pătrați", "Malbork a devenit oraș polonez în anul 1466", "Altitudinea maximă a zonei este de doar 15 metri", "Muzeul Castelului a fost înființat oficial în 1961", "Gara feroviară din Malbork este un monument de arhitectură"],
-      en: ["The Teutonic Castle covers approximately 52 acres", "Malbork served as a Polish royal residence after 1466", "The High Master's Palace is a masterpiece of secular Gothic", "It is located 40 kilometers southeast of Gdańsk", "The Nogat River was vital for the castle's supply lines", "The fortress walls have a total length of several kilometers"],
-    },
-  },
-  {
+    {
     id: "poland-krosno-cities-v2",
     parent: "PL",
     type: "city",

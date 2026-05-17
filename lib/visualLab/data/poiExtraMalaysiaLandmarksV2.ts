@@ -110,79 +110,7 @@ export const poiExtraMalaysiaLandmarksV2: POI[] = [
       en: ["A 125-metre curved pedestrian cable-stayed bridge on the island of Langkawi, offering stunning views of the surrounding mountains and sea.", "Located within the Federation of Malaysia.", "Shaped by the tropical monsoon climate of Southeast Asia.", "Linked to the heritage of the Malacca Sultanate and the British colonial era."]
     }
   },
-  {
-    id: "gunung-kinabalu-landmarks-v2",
-    type: "landmark",
-    parent: "MY-12",
-    coords: [116.5583, 6.0753],
-    name: {
-      de: "Mount Kinabalu",
-      hu: "Kinabalu-hegy",
-      ro: "Muntele Kinabalu",
-      en: "Mount Kinabalu"},
-    image: "/poi-images/gunung-kinabalu-landmarks-v2.webp",
-    description: {
-      de: "Der höchste Berg Malaysias und ein bedeutendes Naturdenkmal in Sabah, Borneo. Bekannt für seine unglaubliche Artenvielfalt.",
-      hu: "Malajzia legmagasabb hegye és egy jelentős természeti látványosság Sabah-ban, Borneón. Híres hihetetlen biológiai sokféleségéről.",
-      ro: "Cel mai înalt munte din Malaezia și un reper natural proeminent în Sabah, Borneo. Cunoscut pentru biodiversitatea sa incredibilă.",
-      en: "The highest mountain in Malaysia and a prominent natural landmark in Sabah, Borneo. Known for its incredible biodiversity."
-    },
-    facts: {
-      de: ["Ein UNESCO-Weltkulturerbe.", "Der Gipfel ist 4.095 Meter hoch.", "Beherbergt Tausende von Pflanzenarten, darunter viele endemische."],
-      hu: ["UNESCO Világörökségi helyszín.", "A csúcsa 4095 méter magas.", "Több ezer növényfajnak ad otthont, köztük számos endemikus fajnak."],
-      ro: ["Un sit al Patrimoniului Mondial UNESCO.", "Vârful are 4.095 de metri înălțime.", "Găzduiește mii de specii de plante, inclusiv multe endemice."],
-      en: ["A UNESCO World Heritage site.", "The summit is 4,095 meters high.", "Home to thousands of plant species, including many endemics."]
-    }, image: "/poi-images/gunung-kinabalu-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Gunung Kinabalu in Sabah ist nicht nur der höchste Berg Malaysias, sondern auch eine der bedeutendsten biologischen Schatzkammern der Erde. Sein markanter, rauer Granitgipfel ragt dramatisch aus den dichten Regenwäldern Borneos empor und überragt die umliegende Landschaft eindrucksvoll. Für die indigene Kadazan-Dusun Bevölkerung besitzt der Berg eine tiefe spirituelle Bedeutung, da sie glauben, dass die Geister ihrer Vorfahren auf dem kalten, felsigen Gipfel ruhen. Die ökologische Vielfalt an den Hängen ist unvergleichlich, da Flora und Fauna sich von tropischem Tiefland zu alpiner Vegetation drastisch verändern, wobei Tausende endemischer Orchideen- und Kannenpflanzenarten hier gedeihen. Der zweitägige Aufstieg zieht Bergsteiger aus aller Welt an, die den Gipfel rechtzeitig erreichen wollen, um den spektakulären Sonnenaufgang über den Wolken zu erleben. Biologie K8 — Endemische Artenvielfalt und alpine Ökosysteme in den Tropen.",
-      hu: "A Gunung Kinabalu (Kinabalu-hegy) Sabah államban, Borneó szigetén emelkedik 4095 méteres magasságba, ezzel Malajzia és a Maláj-szigetvilág legmagasabb csúcsa (nem számítva Új-Guineát). A gránitmasszívum geológiai szempontjából rendkívül fiatal, mindössze néhány millió éves, és évente néhány millimétert ma is emelkedik. A hegy biológiai sokfélesége globálisan is egyedülálló; lejtőin több mint 5000 növényfaj, köztük a világ legnagyobb virága (a Rafflesia) és a híres húsevő kancsókák (Nepenthes) számos faja él. A helyi Kadazan-Dusun őslakosok számára szent hegy, a halottak lelkeinek végső nyughelye. Földrajz és biológia tanulmányozásában a magassági övezetesség és az endemikus evolúció bemutatásának legkiemelkedőbb ázsiai példája.",
-      ro: "Muntele Kinabalu este un element remarcabil al geografiei și culturii malaeziene. Cel mai înalt munte din Malaezia și un reper natural proeminent în Sabah, Borneo. Cunoscut pentru biodiversitatea sa incredibilă. Un sit al Patrimoniului Mondial UNESCO. Vârful are 4.095 de metri înălțime. Găzduiește mii de specii de plante, inclusiv multe endemice. Acest reper face parte din patrimoniul cultural al Malaeziei, adesea legat de Turnurile Petronas, moschei, temple chinezești și clădiri coloniale. Asemenea multor locuri importante din Malaezia, acesta îmbină particularitățile regionale cu moștenirea societății multiculturale malaeze-chineze-indiene și a tropicelor. Astfel, acest loc contribuie la profilul variat al Malaeziei, între Kuala Lumpur, Borneo, plantațiile de palmier și pădurea tropicală.",
-      en: "Mount Kinabalu is a remarkable feature of the geography and culture of Malaysia. The highest mountain in Malaysia and a prominent natural landmark in Sabah, Borneo. Known for its incredible biodiversity. A UNESCO World Heritage site. The summit is 4,095 meters high. Home to thousands of plant species, including many endemics. This landmark is part of the cultural heritage of Malaysia, often linked to the Petronas Towers, mosques, Chinese temples and colonial-era buildings. Like many notable places in Malaysia, it combines regional character with the legacy of the multicultural Malay-Chinese-Indian society and the tropics. Thus, this place contributes to the diverse profile of Malaysia, between Kuala Lumpur, Borneo, palm oil plantations and tropical rainforest."
-    },
-    factsAdvanced: {
-      de: ["Der Mount Kinabalu hat eine offizielle Gipfelhöhe von 4.095 Metern.", "Der Kinabalu-Nationalpark wurde im Jahr 2000 als erstes malaysisches UNESCO-Weltnaturerbe anerkannt.", "Am Berg wachsen über 5.000 bis 6.000 verschiedene Pflanzenarten.", "Die Region beheimatet mehr als 800 dokumentierte Orchideenarten.", "Der Berg wächst durch tektonische Hebungen noch immer um etwa 5 Millimeter pro Jahr.", "Ein schweres Erdbeben der Stärke 6,0 erschütterte den Berg im Jahr 2015."],
-      hu: ["Magassága 4095 méter (a Low's Peak nevű csúcson), ezzel Malajzia legmagasabb hegye.", "A hegy egy gigantikus gránit pluton, amely még ma is évi 5 millimétert emelkedik.", "Több mint 5000 növényfaj él a lejtőin, több mint Európában és Észak-Amerikában együttvéve.", "2000-ben a Kinabalu Nemzeti Parkot az UNESCO Világörökség részévé nyilvánították.", "A helyi Kadazan-Dusun törzs szent hegyként, őseik szellemének lakhelyeként tiszteli.", "A hegycsúcsot először a brit Sir Hugh Low mászta meg 1851-ben."],
-      ro: ["Cel mai înalt munte din Malaezia și un reper natural proeminent în Sabah, Borneo. Cunoscut pentru biodiversitatea sa incredibilă.", "Se află pe teritoriul Federației Malaeziei.", "Este modelat de climatul musonic tropical din Asia de Sud-Est.", "Este legat de moștenirea Sultanatului Malacca și a perioadei coloniale britanice."],
-      en: ["The highest mountain in Malaysia and a prominent natural landmark in Sabah, Borneo. Known for its incredible biodiversity.", "Located within the Federation of Malaysia.", "Shaped by the tropical monsoon climate of Southeast Asia.", "Linked to the heritage of the Malacca Sultanate and the British colonial era."]
-    }
-  },
-  {
-    id: "gunung-mulu-nationalpark-landmarks-v2",
-    type: "tourist-attraction",
-    parent: "MY-13",
-    coords: [114.923, 4.079],
-    name: {
-      de: "Gunung-Mulu-Nationalpark",
-      hu: "Gunung Mulu Nemzeti Park",
-      ro: "Parcul Național Gunung Mulu",
-      en: "Gunung Mulu National Park"},
-    image: "/poi-images/gunung-mulu-nationalpark-landmarks-v2.webp",
-    description: {
-      de: "Ein Nationalpark in Sarawak, Borneo, berühmt für seine Karstformationen und riesigen Höhlensysteme, einschließlich der Sarawak-Kammer.",
-      hu: "Nemzeti park Sarawakban, Borneón, amely híres karsztképződményeiről és hatalmas barlangrendszereiről, beleértve a Sarawak-kamarát is.",
-      ro: "Un parc național în Sarawak, Borneo, renumit pentru formațiunile sale carstice și sistemele vaste de peșteri, inclusiv Camera Sarawak.",
-      en: "A national park in Sarawak, Borneo, famous for its karst formations and vast cave systems, including the Sarawak Chamber."
-    },
-    facts: {
-      de: ["Ein weiteres UNESCO-Weltkulturerbe.", "Die Sarawak-Kammer ist die größte bekannte Höhlenkammer der Welt.", "Die Pinnacles sind dramatische Kalksteinfelsen."],
-      hu: ["Egy másik UNESCO Világörökségi helyszín.", "A Sarawak-kamra a világ legnagyobb ismert barlangterme.", "A Pinnacles drámai mészkősziklák."],
-      ro: ["Un alt sit al Patrimoniului Mondial UNESCO.", "Camera Sarawak este cea mai mare cameră subterană cunoscută din lume.", "Pinnacles sunt stânci dramatice de calcar."],
-      en: ["Another UNESCO World Heritage site.", "The Sarawak Chamber is the largest known cave chamber in the world.", "The Pinnacles are dramatic limestone spires."]
-    }, image: "/poi-images/gunung-mulu-nationalpark-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Gunung Mulu Nationalpark in Sarawak ist eine surreale Landschaft aus tiefem Dschungel und dramatischen Karstformationen, die einige der gigantischsten Höhlensysteme des Planeten verbergen. Das spektakulärste unterirdische Wunder ist die Sarawak-Kammer, eine Höhle, die so gewaltig ist, dass theoretisch mehrere Boeing 747 Flugzeuge problemlos darin Platz fänden. Ein weiteres Naturphänomen sind die Pinnacles, rasiermesserscharfe Kalksteinnadeln, die aus dem dichten Wald emporragen und oft nur durch anstrengende mehrtägige Dschungeltreks zu erreichen sind. Jeden Abend bei Einbruch der Dämmerung erleben Besucher das beeindruckende Spektakel des Fledermaus-Exodus, wenn Millionen von Faltenlippenfledermäusen wie ein schwarzer Fluss aus der Deer Cave strömen, um auf Nahrungssuche zu gehen. Diese immense Biodiversität und die geologischen Besonderheiten machen Mulu zu einem streng geschützten UNESCO-Weltnaturerbe. Geografie K8 — Karstgeologie und unterirdische Höhlenökosysteme.",
-      hu: "A Gunung Mulu Nemzeti Park Sarawak államban egy lenyűgöző karsztgeológiai csoda, amelyet 2000-ben az UNESCO a Világörökség részévé választott. A park világhírű az 50 méter magas, borotvaéles mészkőtűkből álló 'Pinnacles' (Tűk) formációiról, valamint a Föld egyik legkiterjedtebb barlangrendszeréről. Itt található a Sarawak-kamra, amely a világ legnagyobb egybefüggő barlangterme – akkora, hogy 40 Boeing 747-es repülőgép is elférne benne. A Deer Cave (Szarvas-barlang) pedig az otthona mintegy hárommillió szabadon élő denevérnek, amelyek minden naplemente idején sötét felhőként áradnak ki az égre táplálékot keresni. A biológia és földrajz tantárgyakban a trópusi karsztosodás, a barlangi ökoszisztémák és az esőerdei biodiverzitás legbámulatosabb oktatási helyszíne.",
-      ro: "Parcul Național Gunung Mulu este un element remarcabil al geografiei și culturii malaeziene. Un parc național în Sarawak, Borneo, renumit pentru formațiunile sale carstice și sistemele vaste de peșteri, inclusiv Camera Sarawak. Un alt sit al Patrimoniului Mondial UNESCO. Camera Sarawak este cea mai mare cameră subterană cunoscută din lume. Pinnacles sunt stânci dramatice de calcar. Acest reper face parte din patrimoniul cultural al Malaeziei, adesea legat de Turnurile Petronas, moschei, temple chinezești și clădiri coloniale. Asemenea multor locuri importante din Malaezia, acesta îmbină particularitățile regionale cu moștenirea societății multiculturale malaeze-chineze-indiene și a tropicelor. Astfel, acest loc contribuie la profilul variat al Malaeziei, între Kuala Lumpur, Borneo, plantațiile de palmier și pădurea tropicală.",
-      en: "Gunung Mulu National Park is a remarkable feature of the geography and culture of Malaysia. A national park in Sarawak, Borneo, famous for its karst formations and vast cave systems, including the Sarawak Chamber. Another UNESCO World Heritage site. The Sarawak Chamber is the largest known cave chamber in the world. The Pinnacles are dramatic limestone spires. This landmark is part of the cultural heritage of Malaysia, often linked to the Petronas Towers, mosques, Chinese temples and colonial-era buildings. Like many notable places in Malaysia, it combines regional character with the legacy of the multicultural Malay-Chinese-Indian society and the tropics. Thus, this place contributes to the diverse profile of Malaysia, between Kuala Lumpur, Borneo, palm oil plantations and tropical rainforest."
-    },
-    factsAdvanced: {
-      de: ["Der Gunung Mulu Nationalpark umfasst eine Fläche von 52.864 Hektar.", "Die Sarawak-Kammer ist mit einer Fläche von 164.459 Quadratmetern die größte der Welt.", "Der Park wurde im Jahr 2000 in die Liste des UNESCO-Weltnaturerbes aufgenommen.", "Das Clearwater-Höhlensystem ist mit 227 Kilometern eines der längsten in Asien.", "In der Deer Cave leben schätzungsweise 3 Millionen Faltenlippenfledermäuse.", "Die scharfen Kalkstein-Pinnacles am Gunung Api erreichen Höhen von bis zu 50 Metern."],
-      hu: ["A park területén található a Sarawak-kamra, a világ egyik legnagyobb barlangterme.", "Híres az esőerdőből kiemelkedő, 50 méter magas mészkőtűkről (Pinnacles).", "A Clearwater-barlang (Gua Air Jernih) Ázsia leghosszabb ismert barlangrendszere (227 km).", "A Deer-barlangból minden este több mint 3 millió denevér repül ki vadászni.", "2000-ben az UNESCO Természeti Világörökség részévé nyilvánította.", "Az őserdőben 17 különböző növényzeti zónát és 3500 növényfajt azonosítottak."],
-      ro: ["Un parc național în Sarawak, Borneo, renumit pentru formațiunile sale carstice și sistemele vaste de peșteri, inclusiv Camera Sarawak.", "Se află pe teritoriul Federației Malaeziei.", "Este modelat de climatul musonic tropical din Asia de Sud-Est.", "Este legat de moștenirea Sultanatului Malacca și a perioadei coloniale britanice."],
-      en: ["A national park in Sarawak, Borneo, famous for its karst formations and vast cave systems, including the Sarawak Chamber.", "Located within the Federation of Malaysia.", "Shaped by the tropical monsoon climate of Southeast Asia.", "Linked to the heritage of the Malacca Sultanate and the British colonial era."]
-    }
-  },
-  {
+      {
     id: "sultan-salahuddin-abdul-aziz-moschee-landmarks-v2",
     type: "monument",
     parent: "MY-10",
@@ -614,43 +542,7 @@ export const poiExtraMalaysiaLandmarksV2: POI[] = [
       en: ["Malaysia's only oceanic island, rising from an extinct volcanic cone. Globally renowned as one of the top diving destinations.", "Located within the Federation of Malaysia.", "Shaped by the tropical monsoon climate of Southeast Asia.", "Linked to the heritage of the Malacca Sultanate and the British colonial era."]
     }
   },
-  {
-    id: "perhentian-islands-landmarks-v2",
-    type: "tourist-attraction",
-    parent: "MY-11",
-    coords: [102.753, 5.912],
-    name: {
-      de: "Perhentian-Inseln",
-      hu: "Perhentian-szigetek",
-      ro: "Insulele Perhentian",
-      en: "Perhentian Islands"},
-    image: "/poi-images/perhentian-islands-landmarks-v2.webp",
-    description: {
-      de: "Eine Gruppe von Inseln vor der Küste von Terengganu, die für ihre Korallenriffe und das kristallklare Wasser bekannt sind. Ein Hotspot zum Schnorcheln und Tauchen.",
-      hu: "Szigetcsoport Terengganu partjainál, amely korallzátonyairól és kristálytiszta vizéről ismert. A búvárkodás és a felszíni búvárkodás egyik felkapott helye.",
-      ro: "Un grup de insule în largul coastei Terengganu, cunoscute pentru recifele de corali și apele cristaline. Un punct fierbinte pentru snorkeling și scufundări.",
-      en: "A group of islands off the coast of Terengganu, known for their coral reefs and crystal-clear waters. A hotspot for snorkeling and diving."
-    },
-    facts: {
-      de: ["Besteht aus zwei Hauptinseln: Perhentian Besar und Perhentian Kecil.", "Teil eines Meeresparks.", "Nistplätze für grüne und Echte Karettschildkröten."],
-      hu: ["Két fő szigetből áll: Perhentian Besar és Perhentian Kecil.", "Egy tengeri park része.", "A zöld és a közönséges cserepesteknős fészkelőhelye."],
-      ro: ["Constă din două insule principale: Perhentian Besar și Perhentian Kecil.", "Parte a unui parc marin.", "Locuri de cuibărit pentru broaștele țestoase verzi și Hawksbill."],
-      en: ["Consists of two main islands: Perhentian Besar and Perhentian Kecil.", "Part of a marine park.", "Nesting grounds for green and hawksbill turtles."]
-    }, image: "/poi-images/perhentian-islands-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Perhentian-Inseln, idyllisch vor der Küste von Terengganu im Südchinesischen Meer gelegen, sind der Inbegriff des tropischen Inselparadieses. Die Gruppe besteht primär aus zwei Inseln: Perhentian Besar (die Größere), die eher ruhige Resorts beheimatet, und Perhentian Kecil (die Kleinere), die als lebendiger Treffpunkt für Rucksacktouristen aus aller Welt gilt. Historisch dienten die Inseln als wichtiger Zwischenstopp – Perhentian bedeutet auf Malaiisch Anhaltepunkt – für Fischer und Händler, die zwischen Bangkok und Malaysia navigierten. Heute locken die pulverweißen Strände und das extrem klare Wasser Taucher und Schnorchler an, die das intakte Korallenriff unmittelbar vor der Küste erkunden wollen. Da das Fischen im gesamten Meerespark strengstens untersagt ist, gedeihen hier Schwarzspitzen-Riffhaie und Meeresschildkröten in ihrem natürlichen, ungestörten Lebensraum. Geografie K7 — Inseltourismus und marine Schutzzonen.",
-      hu: "A Perhentian-szigetek (Pulau Perhentian) Terengganu állam partjaitól mintegy 20 kilométerre találhatók a Dél-kínai-tengerben. A szigetcsoport két fő szigetből áll: a nagyobb, családbarát Perhentian Besar-ból és a kisebb, hátizsákos utazók által kedvelt Perhentian Kecil-ből. A név malájul 'megállóhelyet' jelent, ami a szigetek történelmi szerepére utal a Thaiföld és Malajzia közötti tengeri kereskedelmi útvonalon. A terület szigorúan védett tengeri park, amely kristálytiszta, sekély vizéről, finom fehér homokos partjairól és a felszínhez közel úszó tengeri teknősökről, valamint a színes papagájhalakról híres. Mivel nincsenek autóutak és motoros járművek, a közlekedés kizárólag csónakokkal (vízitaxikkal) vagy erdei ösvényeken történik. Földrajz oktatásban a fenntartható szigeti ökoturizmus és a trópusi atollok bemutatására kiváló.",
-      ro: "Insulele Perhentian este un element remarcabil al geografiei și culturii malaeziene. Un grup de insule în largul coastei Terengganu, cunoscute pentru recifele de corali și apele cristaline. Un punct fierbinte pentru snorkeling și scufundări. Constă din două insule principale: Perhentian Besar și Perhentian Kecil. Parte a unui parc marin. Locuri de cuibărit pentru broaștele țestoase verzi și Hawksbill. Acest reper face parte din patrimoniul cultural al Malaeziei, adesea legat de Turnurile Petronas, moschei, temple chinezești și clădiri coloniale. Asemenea multor locuri importante din Malaezia, acesta îmbină particularitățile regionale cu moștenirea societății multiculturale malaeze-chineze-indiene și a tropicelor. Astfel, acest loc contribuie la profilul variat al Malaeziei, între Kuala Lumpur, Borneo, plantațiile de palmier și pădurea tropicală.",
-      en: "Perhentian Islands is a remarkable feature of the geography and culture of Malaysia. A group of islands off the coast of Terengganu, known for their coral reefs and crystal-clear waters. A hotspot for snorkeling and diving. Consists of two main islands: Perhentian Besar and Perhentian Kecil. Part of a marine park. Nesting grounds for green and hawksbill turtles. This landmark is part of the cultural heritage of Malaysia, often linked to the Petronas Towers, mosques, Chinese temples and colonial-era buildings. Like many notable places in Malaysia, it combines regional character with the legacy of the multicultural Malay-Chinese-Indian society and the tropics. Thus, this place contributes to the diverse profile of Malaysia, between Kuala Lumpur, Borneo, palm oil plantations and tropical rainforest."
-    },
-    factsAdvanced: {
-      de: ["Die Inselgruppe liegt etwa 20 Kilometer vor der Nordostküste der Halbinsel.", "Der Name Perhentian bedeutet übersetzt Ort zum Anhalten oder Zwischenstopp.", "Das gesamte Gebiet ist Teil des geschützten Redang National Marine Park.", "Auf den Inseln gibt es keine motorisierten Autos oder asphaltierten Straßen.", "Während der starken Monsunzeit (November bis Februar) sind viele Resorts geschlossen.", "Meeresschildkröten nutzen die unberührten Strände regelmäßig als wichtige Nistplätze."],
-      hu: ["Neve malájul 'megállóhelyet' jelent az ősi tengeri útvonalak miatt.", "A terület a Pulau Redang Nemzeti Tengeri Park védett zónájába tartozik.", "A szigeteken nincsenek aszfaltozott utak, a közlekedés csónakokkal (vízitaxi) történik.", "A part menti sekély vizek fontos táplálkozóhelyei a cserepesteknősöknek.", "A keleti parti monszun miatt november és február között a legtöbb szolgáltatás szünetel."],
-      ro: ["Un grup de insule în largul coastei Terengganu, cunoscute pentru recifele de corali și apele cristaline. Un punct fierbinte pentru snorkeling și scufundări.", "Se află pe teritoriul Federației Malaeziei.", "Este modelat de climatul musonic tropical din Asia de Sud-Est.", "Este legat de moștenirea Sultanatului Malacca și a perioadei coloniale britanice."],
-      en: ["A group of islands off the coast of Terengganu, known for their coral reefs and crystal-clear waters. A hotspot for snorkeling and diving.", "Located within the Federation of Malaysia.", "Shaped by the tropical monsoon climate of Southeast Asia.", "Linked to the heritage of the Malacca Sultanate and the British colonial era."]
-    }
-  },
-  {
+    {
     id: "genting-highlands-landmarks-v2",
     type: "tourist-attraction",
     parent: "MY-06",

@@ -114,35 +114,7 @@ export const poiExtraPanamaLandmarksV2: POI[] = [
       hu: ["Az épület a pénzügyi negyedben, a Calle 50 és Aquilino de la Guardia sarkán áll.", "Körülbelül 180 méter magas, de a pontos magasság forrástól függően változik.", "Jellegzetes kialakítása a modern építészeti trendeket tükrözi.", "Az épületben a BBVA bank mellett más pénzügyi és jogi cégek is működnek.", "A felhőkarcoló a 2010-es évek elején épült.", "Sötét üveg homlokzata segít a belső terek hűtésében a trópusi éghajlaton.", "A legfelső emeletekről 360 fokos kilátás nyílik a városra."]
     }
   },
-  {
-    id: "iglesia-de-la-merced-landmarks-v2",
-    type: "landmark",
-    parent: "PA-8",
-    coords: [-79.536, 8.956],
-    name: { de: "Iglesia de la Merced", hu: "Iglesia de la Merced", ro: "Iglesia de la Merced", en: "Iglesia de la Merced"},
-    image: "/poi-images/iglesia-de-la-merced-landmarks-v2.webp",
-    description: { de: "Eine koloniale Kirche in Casco Viejo.", hu: "Koloniális templom a Casco Viejóban.", ro: "O biserică colonială în Casco Viejo.", en: "A colonial church in Casco Viejo." },
-    facts: {
-      de: ["Barocke Fassade", "Erbaut im 17. Jahrhundert"],
-      hu: ["Barokk homlokzat", "A 17. században épült"],
-      ro: ["Fațadă barocă", "Construită în secolul al XVII-lea"],
-      en: ["Baroque facade", "Built in the 17th century"]
-    },
- image: "/poi-images/iglesia-de-la-merced-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Iglesia de la Merced im Casco Antiguo ist ein herausragendes Wahrzeichen, da sie die physische Verbindung zwischen der zerstörten alten Stadt und der neuen Siedlung darstellt. Nach dem desaströsen Piratenangriff von 1671 war diese Kirche das einzige große Bauwerk, dessen barocke Steinfassade komplett demontiert, in die neue Stadt gebracht und dort wieder aufgebaut wurde. Die Fassade aus dem 17. Jahrhundert steht im Kontrast zum hölzernen, dreischiffigen Innenraum. Diese Kirche hat unzählige Stadtbrände unbeschadet überstanden und fungiert heute als wichtiges Gemeindezentrum. Das angegliederte Museum beherbergt zudem das älteste Taufregister Panamas, ein unschätzbares Dokument für Historiker und Genealogen. Geschichte K8 — Erhalt historischen Erbes nach Katastrophen.",
-      ro: "Biserica La Merced din Casco Viejo este un monument istoric unic, renumit pentru fațada sa din piatră de stil baroc colonial, care a fost transportată integral din vechiul oraș Panama Viejo după distrugerea acestuia în 1671. Acest efort de conservare fără precedent face ca biserica să fie una dintre puținele structuri care păstrează o legătură directă și tangibilă cu prima capitală a isthmului. Interiorul său adăpostește relicve religioase prețioase și picturi de epocă, oferind o atmosferă de liniște și sacralitate în mijlocul agitației urbane. Pe lângă valoarea sa spirituală, biserica este un obiectiv turistic major, fiind considerată una dintre cele mai frumoase exemple de arhitectură sacră din Panama. Prezența sa în districtul istoric consolidează identitatea culturală și istorică a Panamei ca un centru al catolicismului în Lumea Nouă. Istorie K8 — Patrimoniul colonial și reconstrucția istorică.",
-      en: "The Church of La Merced is a unique historical landmark in Panama City's Casco Antiguo, famous for its stone facade that was moved from the original city of Panama Viejo. After the old city was burned in 1671, the Mercedarian friars carefully dismantled the facade of their church and transported it to the new site, where it was reassembled. This makes it one of the oldest and most authentic pieces of colonial architecture in the historic district. The church is a beautiful example of the Spanish Baroque style, with intricate carvings and a dignified stone entrance. Inside, it houses religious art and a small museum that documents its incredible journey across the city. It remains an active parish and a powerful link to Panama's 17th-century heritage. History K8 — the survival and relocation of colonial heritage.",
-      hu: "Az Iglesia de la Merced egyike Panamaváros Casco Viejo történelmi negyedének legfontosabb és legrégebbi templomainak. Az 1680-ban elkészült barokk stílusú templom különlegessége, hogy homlokzatát teljes egészében az eredeti, 17. századi Panamá Viejo városából mentették át, miután azt Henry Morgan kalózai 1671-ben elpusztították. A homlokzatot kőről kőre bontották le és szállították át a mai helyére. A templom belseje egyszerűbb, de számos értékes vallási emléket és műtárgyat őriz. Az Iglesia de la Merced nemcsak egy aktív vallási helyszín, hanem a város kitartásának és újjászületésének szimbóluma is, amely lenyűgöző kontrasztot alkot a modern felhőkarcolók látképével. Az UNESCO Világörökség részét képező Casco Viejo egyik leglátogatottabb pontja."
-    },
-    factsAdvanced: {
-      de: ["Die Steinfassade wurde im 17. Jahrhundert aus Panamá Viejo hierher verbracht.", "Ist eine der ältesten ununterbrochen genutzten Kirchen in Panama.", "Die Kirche überlebte glücklicherweise die großen Stadtbrände des 18. Jahrhunderts.", "Der Innenraum besitzt einen wertvollen dreischiffigen Holzbau.", "Beherbergt das älteste erhaltene Taufregister des Landes."],
-      ro: ["Singura biserică din Casco Viejo cu o fațadă adusă din Panama Viejo.", "Construită la sfârșitul secolului al XVII-lea de ordinul Mercedarilor.", "Adăpostește un muzeu istoric cu documente vechi și obiecte de cult.", "Zidurile de piatră prezintă sculpturi detaliate ale figurilor religioase.", "Este un sit protejat în cadrul Patrimoniului Mondial UNESCO.", "Păstrează coloane de lemn originale din secolul al XVIII-lea.", "Biserica a fost un punct de refugiu pentru comunitate de-a lungul istoriei."],
-      en: ["The stone facade dates back to 1680 and was moved from Panama Viejo.", "One of the few structures in Casco Antiguo with direct ties to the original city.", "Features two bell towers and a beautiful Baroque entrance.", "Houses a museum with original colonial documents and artifacts.", "Located on the corner of Calle 9 and Avenida Central.", "Known for its resilience through multiple city fires.", "The church's interior features traditional colonial woodwork.", "A key National Historic Monument of Panama."],
-      hu: ["A templom építése az új városban, Casco Viejóban 1680-ban fejeződött be.", "Eredeti homlokzata a 17. századi Panamá Viejo városából származik.", "A homlokzatot kőtömbönként szállították át a régi városból az újba.", "A templom a Mercedariánus rend felügyelete alatt áll.", "A templom belsejében őrzik a Szűzanya egy híres kegyképét.", "Az épület a panamai barokk építészet egyik legszebb példája.", "A Casco Viejo részeként 1997 óta az UNESCO Világörökség része."]
-    }
-  },
-  {
+    {
     id: "teatro-nacional-landmarks-v2",
     type: "landmark",
     parent: "PA-8",
@@ -282,35 +254,7 @@ export const poiExtraPanamaLandmarksV2: POI[] = [
       hu: ["Az épület 236 méter magas és 52 emelettel rendelkezik.", "Jellegzetessége a 360 fokos spirális csavarodás.", "2011-ben fejezték be az építését.", "A Pinzón Lozano & Asociados építésziroda tervezte.", "Az Emporis Skyscraper Award 2011-es listáján a 7. helyet érte el.", "A csavarodás minden emeleten 9 fokos elfordulást jelent.", "Panamaváros pénzügyi negyedének egyik legfényképezettebb épülete."]
     }
   },
-  {
-    id: "iglesia-del-carmen-landmarks-v2",
-    type: "landmark",
-    parent: "PA-8",
-    coords: [-79.523, 8.977],
-    name: { de: "Iglesia del Carmen", hu: "Iglesia del Carmen", ro: "Iglesia del Carmen", en: "Iglesia del Carmen"},
-    image: "/poi-images/iglesia-del-carmen-landmarks-v2.webp",
-    description: { de: "Eine neugotische Kirche in Panama-Stadt.", hu: "Neogótikus templom Panamavárosban.", ro: "O biserică neogotică în Ciudad de Panama.", en: "A neo-Gothic church in Panama City." },
-    facts: {
-      de: ["Sehr markante Architektur", "Gilt als eine der schönsten Kirchen"],
-      hu: ["Igen jellegzetes építészet", "Az egyik legszebb templomnak tartják"],
-      ro: ["Arhitectură foarte distinctivă", "Considerată una dintre cele mai frumoase biserici"],
-      en: ["Very striking architecture", "Considered one of the most beautiful churches"]
-    },
- image: "/poi-images/iglesia-del-carmen-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "Als architektonisches Wahrzeichen sticht die Iglesia del Carmen durch ihren unverwechselbaren neogotischen Stil aus dem Stadtbild von Panama-Stadt heraus. Mit ihren hoch aufragenden Doppeltürmen, den spitzbogigen Fenstern und feinen Verzierungen wirkt sie wie eine mittelalterliche Kathedrale, die versehentlich in die Tropen versetzt wurde, obwohl sie erst Mitte des 20. Jahrhunderts vollendet wurde. Sie ist eine der am häufigsten besuchten Kirchen des Landes. Ihre architektonische Bedeutung wird durch ihre historische Rolle ergänzt: Während der Unruhen in den 1980er Jahren öffnete die Kirche ihre massiven Holztüren für Zivilisten, die vor dem Tränengas der Militärpolizei auf der Vía España flüchteten, wodurch sie zu einem Symbol der Bürgerrechtsbewegung wurde. Geschichte K8 — Kirche und Zivilgesellschaft.",
-      ro: "Biserica Iglesia del Carmen este o bijuterie a arhitecturii neo-gotice din Panama, situată strategic pe Vía España, una dintre cele mai tranzitate artere ale capitalei. Construită la mijlocul secolului al XX-lea, biserica se distinge prin turlele sale ascuțite, vitraliile colorate și detaliile sculptate care amintesc de catedralele medievale europene. Fiind administrată de ordinul Carmeliților, aceasta este nu doar un loc de rugăciune, ci și un simbol al continuității tradiției religioase în mijlocul dezvoltării urbane moderne. Contrastul vizual între zidurile sale neo-gotice și zgârie-norii moderni din jur creează un peisaj urban unic, făcând din Iglesia del Carmen unul dintre cele mai fotografiate și recunoscute repere ale orașului Panama. Istorie K8 — Evoluția arhitecturii religioase în secolul XX.",
-      en: "The Iglesia del Carmen is a breathtaking Gothic Revival church located in the modern Bella Vista district of Panama City. Completed in the mid-20th century, it is the only major church in the country built in this ornate European style, featuring soaring twin spires, pointed arches, and intricate stone carvings. It serves as the spiritual home for the Carmelite order in Panama and is widely considered the most beautiful and iconic church in the modern part of the capital. The church's elegant architecture provides a dramatic contrast to the surrounding high-rise office and residential towers. It is a popular venue for traditional weddings and a major landmark for anyone traveling along the Via España, one of the city's main commercial arteries. Geography K8 — religious architecture in the modern city.",
-      hu: "Az Iglesia del Carmen egy fenséges neogótikus stílusú templom Panamaváros Bella Vista negyedében, a Vía España sugárúton. Az 1947 és 1953 között épült templom a város egyik legszebb és legkönnyebben felismerhető vallási épülete, amely lenyűgöző kontrasztot alkot a környező modern irodaházakkal és lakóépületekkel. Két magas, karcsú tornya messziről uralja a látképet. A templomot a Kármel-hegyi Boldogasszony tiszteletére szentelték, és a karmelita rend felügyeli. Belső tereit gyönyörű ólomüveg ablakok díszítik, amelyek a szentek életének jeleneteit ábrázolják, misztikus fénybe vonva a templomhajót. Az Iglesia del Carmen nemcsak a helyi katolikus közösség fontos központja, hanem Panamaváros egyik legkedveltebb fotótémája és építészeti nevezetessége is."
-    },
-    factsAdvanced: {
-      de: ["Das markanteste Beispiel neogotischer Architektur in Panama.", "Die beeindruckenden Doppeltürme dominieren das Straßenbild der Vía España.", "Fertiggestellt in der Mitte des 20. Jahrhunderts durch die Karmeliter.", "Diente in den 1980er Jahren als Zufluchtsort für Demonstranten der Zivilgesellschaft.", "Ein starker architektonischer Kontrast zu den modernen Wolkenkratzern in der Umgebung."],
-      ro: ["Cea mai reprezentativă biserică neo-gotică din întreaga țară.", "Construcția sa a fost finalizată în anii 1950.", "Vitraliile superbe au fost aduse special din ateliere europene.", "Este un punct de întâlnire major pentru ceremoniile religioase solemne.", "Turnurile sale ascuțite sunt iluminate spectaculos pe timpul nopții.", "Situată în inima zonei comerciale și bancare din Ciudad de Panama.", "Interiorul se remarcă prin arce frânte și o acustică deosebită pentru orgă."],
-      en: ["Completed in 1953 in the Bella Vista neighborhood.", "One of the only Neo-Gothic structures in Panama.", "Famous for its impressive stained glass windows.", "The interior features high vaulted ceilings and a serene atmosphere.", "Located near the Iglesia del Carmen Metro station.", "The spires are a prominent feature of the local skyline.", "Hosts large-scale religious processions during Holy Week.", "Designed to resemble the great 13th-century Gothic cathedrals."],
-      hu: ["Az építkezés 1947-ben kezdődött és 1953-ban fejeződött be.", "A templom a neogótikus építészeti stílus gyönyörű példája.", "A Vía España és az Avenida Federico Boyd kereszteződésénél található.", "A templomot a panamai közösség adományaiból finanszírozták.", "Két tornya a város számos pontjáról jól látható.", "Belső terét impozáns ólomüveg ablakok sora díszíti.", "A karmelita rendhez tartozik, és a Kármel-hegyi Boldogasszonynak szentelték."]
-    }
-  },
-  {
+    {
     id: "parque-recreativo-omar-landmarks-v2",
     type: "landmark",
     parent: "PA-8",

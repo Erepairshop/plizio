@@ -578,56 +578,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
       en: ["Located in the former Presidential Palace.", "Showcases contemporary Rwandan and African art.", "The debris of the presidential plane is on display.", "Was the residence of President Juvénal Habyarimana.", "The plane crash triggered the 1994 genocide.", "Combines art, history, and politics.", "Features secret passages used by the former president."]
     }
   },
-  {
-    id: "rw-kandt-house-museum-landmarks-v2",
-    type: "landmark",
-    parent: "RW-01",
-    coords: [30.0545, -1.9422],
-    name: {
-      de: "Kandt-Haus-Museum",
-      hu: "Kandt Ház Múzeum",
-      ro: "Muzeul Casei Kandt",
-      en: "Kandt House Museum"},
-    image: "/poi-images/rw-kandt-house-museum-landmarks-v2.webp",
-    description: {
-      de: "Das Museum befindet sich in der ehemaligen Residenz von Richard Kandt, dem ersten deutschen Residenten in Ruanda, und befasst sich mit der Naturgeschichte und Kolonialzeit.",
-      hu: "A múzeum Richard Kandt, Ruanda elso német rezidensének egykori otthonában található, és a természettörténettel, valamint a gyarmati korszakkal foglalkozik.",
-      ro: "Aflat în fosta re?edin?a a lui Richard Kandt, primul rezident german din Rwanda, muzeul se concentreaza pe istoria naturala.",
-      en: "Located in the former residence of Richard Kandt, the first German Resident in Rwanda, the museum focuses on natural history and the colonial era."
-    },
-    facts: {
-      de: [
-        "Ehemals als Naturhistorisches Museum bekannt.",
-        "Das Gebäude stammt aus dem frühen 20. Jahrhundert.",
-      ],
-      hu: [
-        "Korábban Természettudományi Múzeumként ismerték.",
-        "Az épület a 20. század elejérol származik.",
-      ],
-      ro: [
-        "Cunoscut anterior sub numele de Muzeul de Istorie Naturala.",
-        "Cladirea dateaza de la începutul secolului al XX-lea.",
-      ],
-      en: [
-        "Formerly known as the Natural History Museum.",
-        "The building dates back to the early 20th century.",
-      ]
-    }, image: "/poi-images/rw-kandt-house-museum-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "Das Kandt-Haus-Museum, früher bekannt als Naturkundemuseum, befindet sich in der ehemaligen Residenz von Dr. Richard Kandt. Kandt war ein deutscher Arzt und Entdecker, der 1907 Kigali gründete und der erste Kolonialverwalter von Ruanda wurde. Das Museum ist in drei Teile gegliedert. Der erste Teil zeigt das Leben in Ruanda vor der Kolonialzeit. Der zweite Teil widmet sich der deutschen Kolonialzeit und Kandts Rolle darin, einschließlich seiner Erkundungen und der Auswirkungen der deutschen Herrschaft. Der dritte Teil konzentriert sich auf die Naturgeschichte von Kigali und zeigt eine Ausstellung von Reptilien (Schlangen, Krokodile) im Garten. Das Museum bietet einen Panoramablick auf Kigali und die umliegenden Hügel. Es ist ein wichtiger Ort, um die Ursprünge der modernen Hauptstadt zu verstehen.",
-      hu: "A Kandt-ház Múzeum, korábbi nevén Természettudományi Múzeum, Dr. Richard Kandt egykori rezidenciájában található. Kandt német orvos és felfedező volt, aki 1907-ben megalapította Kigalit, és Ruanda első gyarmati kormányzója lett. A múzeum három részből áll. Az első rész a gyarmatosítás előtti ruandai életet mutatja be. A második rész a német gyarmati időszaknak és Kandt szerepének van szentelve, beleértve felfedezéseit és a német uralom hatásait. A harmadik rész Kigali természettörténetére összpontosít, és a kertben hüllőket (kígyókat, krokodilokat) bemutató kiállítást is tartalmaz. A múzeum panorámás kilátást nyújt Kigalira és a környező dombokra. Fontos hely a modern főváros eredetének megértéséhez.",
-      ro: "Muzeul Casa Kandt, cunoscut anterior ca Muzeul de Istorie Naturală, este situat în fosta reședință a Dr. Richard Kandt. Kandt a fost un medic și explorator german care a fondat Kigali în 1907 și a devenit primul administrator colonial al Rwandei. Muzeul este împărțit în trei secțiuni. Prima parte prezintă viața din Rwanda în perioada pre-colonială. A doua parte este dedicată perioadei coloniale germane și rolului lui Kandt în aceasta, inclusiv explorările sale și impactul dominației germane. A treia secțiune se concentrează pe istoria naturală a Kigaliului, prezentând o expoziție de reptile (șerpi, crocodili) în grădină. Muzeul oferă vederi panoramice asupra Kigaliului și a dealurilor înconjurătoare. Este un loc important pentru înțelegerea originilor capitalei moderne.",
-      en: "The Kandt House Museum, formerly the Natural History Museum, is located in the former home of Dr. Richard Kandt. Kandt was a German doctor and explorer who founded Kigali in 1907 and became the first colonial governor of Rwanda. The museum is divided into three parts. The first part exhibits life in Rwanda in the pre-colonial period. The second part is dedicated to the German colonial period and Kandt's role, including his explorations and the impact of German rule. The third section focuses on the natural history of Kigali, featuring a reptile exhibit (snakes, crocodiles) in the garden. The museum offers a panoramic view of Kigali and the surrounding hills. It's an important site for understanding the origins of the modern capital."
-    },
-    factsAdvanced: {
-      de: ["Ehemalige Residenz von Dr. Richard Kandt, dem Gründer Kigalis.", "Kandt war der erste deutsche Kolonialverwalter.", "Das Museum hat drei Sektionen: präkolonial, kolonial und Naturgeschichte.", "Beinhaltet eine Ausstellung lebender Reptilien.", "Bietet einen Panoramablick über Kigali.", "Erbaut im Jahr 1907, dem Gründungsjahr von Kigali.", "Wurde früher als Naturkundemuseum bezeichnet."],
-      hu: ["Dr. Richard Kandt, Kigali alapítójának egykori otthona.", "Kandt volt az első német gyarmati kormányzó.", "A múzeum három részből áll: prekoloniális, gyarmati és természettudományi.", "Élő hüllőket bemutató kiállítást is magában foglal.", "Panorámás kilátást nyújt Kigalira.", "1907-ben épült, Kigali alapításának évében.", "Korábban Természettudományi Múzeumnak hívták."],
-      ro: ["Fosta reședință a Dr. Richard Kandt, fondatorul Kigali.", "Kandt a fost primul guvernator colonial german.", "Muzeul are trei secțiuni: pre-colonială, colonială și istorie naturală.", "Include o expoziție de reptile vii.", "Oferă o vedere panoramică asupra Kigaliului.", "Construit în 1907, anul fondării Kigaliului.", "Cunoscut anterior ca Muzeul de Istorie Naturală."],
-      en: [],
-      en: ["Former residence of Dr. Richard Kandt, Kigali's founder.", "Kandt was the first German colonial governor.", "The museum has three sections: pre-colonial, colonial, and natural history.", "Includes a live reptile exhibit.", "Offers panoramic views of Kigali.", "Built in 1907, the year Kigali was founded.", "Formerly known as the Natural History Museum."]
-    }
-  },
-  {
+    {
     id: "rw-inema-arts-center-landmarks-v2",
     type: "landmark",
     parent: "RW-01",
@@ -723,56 +674,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
       en: ["Founded by Pacifique Niyonsenga, a former street child.", "A social enterprise combining art and charity.", "Supports the Niyo Cultural Centre Foundation.", "The foundation helps over 120 disadvantaged children.", "Proceeds from art sales fund the foundation.", "Visitors can watch dance performances by the children.", "Showcases colorful, contemporary Rwandan art."]
     }
   },
-  {
-    id: "rw-ibyiwacu-cultural-village-landmarks-v2",
-    type: "landmark",
-    parent: "RW-03",
-    coords: [29.5842, -1.4551],
-    name: {
-      de: "Iby'Iwacu Kulturdorf",
-      hu: "Iby'Iwacu Kulturális Falu",
-      ro: "Satul Cultural Iby'Iwacu",
-      en: "Iby'Iwacu Cultural Village"},
-    image: "/poi-images/rw-ibyiwacu-cultural-village-landmarks-v2.webp",
-    description: {
-      de: "Ein lebendiges Museum nahe dem Vulkan-Nationalpark, in dem Besucher traditionelle ruandische Kultur, Tänze und das Leben ehemaliger Wilderer erleben können.",
-      hu: "Egy élo múzeum a Vulkánok Nemzeti Park közelében, ahol a látogatók megtapasztalhatják a hagyományos ruandai kultúrát, táncokat és az egykori orvvadászok életét.",
-      ro: "Un muzeu viu în apropierea Parcului Național al Vulcanilor, unde vizitatorii pot experimenta cultura tradiționala rwandeza.",
-      en: "A living museum near the Volcanoes National Park where visitors can experience traditional Rwandan culture, dances, and the lives of former poachers."
-    },
-    facts: {
-      de: [
-        "Bietet traditionelles Intore-Tanzen.",
-        "Wird von ehemaligen Wilderern betrieben.",
-      ],
-      hu: [
-        "Hagyományos Intore táncot kínál.",
-        "Egykori orvvadászok üzemeltetik.",
-      ],
-      ro: [
-        "Ofera dansuri tradiționale Intore.",
-        "Administrat de foști braconieri.",
-      ],
-      en: [
-        "Features traditional Intore dancing.",
-        "Run by former poachers.",
-      ]
-    }, image: "/poi-images/rw-ibyiwacu-cultural-village-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "Das Iby'iwacu Cultural Village, jetzt bekannt als Gorilla Guardians Village, befindet sich in der Nähe des Volcanoes National Park. Es wurde gegründet, um ehemaligen Wilderern eine alternative Lebensgrundlage zu bieten und sie in den Naturschutz einzubinden. Besucher können hier in das traditionelle ruandische Leben eintauchen. Das Dorf bietet eine Vielzahl von interaktiven Erlebnissen: Man kann an einer simulierten Königszeremonie teilnehmen, traditionelle Tänze und Trommelvorführungen sehen, lernen, wie man Hirsemehl mahlt oder Bananenbier braut, und einen traditionellen Heiler treffen. Es gibt auch Nachbildungen traditioneller Hütten und des Königspalastes. Das Projekt ist ein erfolgreiches Beispiel für gemeindebasierten Tourismus, der sowohl die Kultur bewahrt als auch den Schutz der vom Aussterben bedrohten Berggorillas unterstützt, indem er die wirtschaftliche Abhängigkeit von der Wilderei verringert.",
-      hu: "Az Iby'iwacu Kulturális Falu, ma már Gorilla Őrzők Falujaként ismert, a Vulkánok Nemzeti Park közelében található. Azért hozták létre, hogy alternatív megélhetést biztosítson a korábbi orvvadászoknak, és bevonja őket a természetvédelembe. A látogatók itt elmerülhetnek a hagyományos ruandai életben. A falu számos interaktív élményt kínál: részt lehet venni egy szimulált királyi ceremónián, megnézni hagyományos tánc- és dob-előadásokat, megtanulni köleslisztet őrölni vagy banánsört főzni, és találkozni egy hagyományos gyógyítóval. Hagyományos kunyhók és a királyi palota másolatai is láthatók. A projekt a közösségi alapú turizmus sikeres példája, amely egyszerre óvja a kultúrát és támogatja a kritikusan veszélyeztetett hegyi gorillák védelmét azáltal, hogy csökkenti az orvvadászattól való gazdasági függőséget.",
-      ro: "Satul Cultural Iby'iwacu, cunoscut acum sub numele de Satul Gardienilor Gorilelor, este situat în apropierea Parcului Național al Vulcanilor. A fost înființat pentru a oferi foștilor braconieri un mijloc de trai alternativ și pentru a-i implica în conservare. Aici, vizitatorii se pot cufunda în viața tradițională rwandeză. Satul oferă o varietate de experiențe interactive: puteți participa la o ceremonie regală simulată, puteți urmări spectacole de dans și tobe tradiționale, puteți învăța cum să măcinați făină de mei sau să preparați bere de banane și puteți întâlni un vindecător tradițional. Există, de asemenea, replici ale colibelor tradiționale și ale palatului regal. Proiectul este un exemplu de succes de turism comunitar care atât conservă cultura, cât și sprijină protecția gorilelor de munte, pe cale de dispariție, prin reducerea dependenței economice de braconaj.",
-      en: "",
-      en: "The Iby'iwacu Cultural Village, now known as the Gorilla Guardians Village, is located near Volcanoes National Park. It was established to provide a livelihood for ex-poachers and involve them in conservation efforts. Visitors can immerse themselves in traditional Rwandan life here. The village offers a variety of interactive experiences: you can participate in a mock royal ceremony, watch traditional dances and drumming, learn how to grind millet flour or brew banana beer, and meet a traditional healer. There are also replicas of traditional huts and the king's palace. The project is a successful example of community-based tourism that both preserves culture and supports the conservation of the critically endangered mountain gorillas by reducing economic dependence on poaching."
-    },
-    factsAdvanced: {
-      de: ["Jetzt als Gorilla Guardians Village bekannt.", "Bietet ehemaligen Wilderern eine alternative Lebensgrundlage.", "Befindet sich in der Nähe des Volcanoes National Park.", "Besucher können das traditionelle ruandische Leben erleben.", "Einnahmen unterstützen den Naturschutz und die Gemeinde.", "Man kann einem traditionellen Heiler begegnen.", "Interaktive Erlebnisse wie Bananenbierbrauen."],
-      hu: ["Ma már Gorilla Őrzők Falujaként ismert.", "Alternatív megélhetést biztosít a volt orvvadászoknak.", "A Vulkánok Nemzeti Park közelében található.", "A látogatók megtapasztalhatják a hagyományos ruandai életet.", "A bevételek a természetvédelmet és a közösséget támogatják.", "Találkozni lehet egy tradicionális gyógyítóval.", "Interaktív élmények, mint a banán sörfőzés."],
-      ro: ["Cunoscut acum ca Satul Gardienilor Gorilelor.", "Oferă foștilor braconieri un mijloc de trai alternativ.", "Situat lângă Parcul Național al Vulcanilor.", "Vizitatorii pot experimenta viața tradițională rwandeză.", "Veniturile sprijină conservarea și comunitatea.", "Puteți întâlni un vindecător tradițional.", "Experiențe interactive precum prepararea berii de banane."],
-      en: ["Now known as the Gorilla Guardians Village.", "Provides ex-poachers with an alternative livelihood.", "Located near Volcanoes National Park.", "Visitors can experience traditional Rwandan life.", "Revenue supports conservation and the community.", "You can meet a traditional healer.", "Interactive experiences like banana beer brewing."]
-    }
-  },
-  {
+    {
     id: "rw-our-lady-of-kibeho-sanctuary-landmarks-v2",
     type: "landmark",
     parent: "RW-05",
@@ -820,55 +722,7 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
       en: ["Only Vatican-approved Marian apparition site in Africa.", "The apparitions began in 1981.", "The Virgin Mary was called 'Nyina wa Jambo'.", "The visions prophesied the 1994 genocide.", "Officially approved by the Vatican in 2001.", "Main pilgrimage day is November 28.", "An important site for prayer and reconciliation."]
     }
   },
-  {
-    id: "rw-museum-of-environment-karongi-landmarks-v2",
-    type: "landmark",
-    parent: "RW-04",
-    coords: [29.3512, -2.0628],
-    name: {
-      de: "Umweltmuseum Karongi",
-      hu: "Karongi Környezetvédelmi Múzeum",
-      ro: "Muzeul Mediului Karongi",
-      en: "Museum of Environment Karongi"},
-    image: "/poi-images/rw-museum-of-environment-karongi-landmarks-v2.webp",
-    description: {
-      de: "Ein einzigartiges Museum am Ufer des Kivu-Sees, das sich auf erneuerbare Energien, den Klimawandel und den Schutz der ruandischen Umwelt konzentriert.",
-      hu: "Egy egyedülálló múzeum a Kivu-tó partján, amely a megújuló energiákra, a klímaváltozásra és a ruandai környezet védelmére összpontosít.",
-      ro: "Un muzeu unic pe malul Lacului Kivu, axat pe energia regenerabila ?i protecția mediului în Rwanda.",
-      en: "A unique museum on the shores of Lake Kivu focusing on renewable energy, climate change, and protecting the Rwandan environment."
-    },
-    facts: {
-      de: [
-        "Verfügt über einen Dachgarten mit Heilpflanzen.",
-        "Einziges Umweltmuseum in der Region.",
-      ],
-      hu: [
-        "Tetokerttel rendelkezik gyógynövényekkel.",
-        "Az egyetlen környezetvédelmi múzeum a régióban.",
-      ],
-      ro: [
-        "Dispune de o gradina pe acoperi? cu plante medicinale.",
-        "Singurul muzeu al mediului din regiune.",
-      ],
-      en: [
-        "Features a rooftop garden with medicinal plants.",
-        "The only environment museum in the region.",
-      ]
-    }, image: "/poi-images/rw-museum-of-environment-karongi-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "Das Umweltmuseum in Karongi, am Ufer des Kivu-Sees gelegen, ist ein einzigartiges Museum in Afrika, das sich ausschließlich Umweltthemen widmet. Das 2015 eröffnete Museum zielt darauf ab, das Bewusstsein für Umweltprobleme zu schärfen und nachhaltige Praktiken zu fördern. Die Hauptausstellung befasst sich mit Energie und den verschiedenen Energiequellen, sowohl erneuerbaren als auch nicht erneuerbaren, und deren Auswirkungen auf die Umwelt. Ein besonderes Highlight ist der Dachgarten, der traditionelle Heilpflanzen aus Ruanda zeigt und Wissen über ihre medizinische Verwendung vermittelt. Das moderne Gebäude selbst ist umweltfreundlich gestaltet und bietet einen atemberaubenden Blick auf den Kivu-See. Es ist eine lehrreiche Attraktion, die die Schönheit der ruandischen Landschaft mit der wichtigen Botschaft des Umweltschutzes verbindet.",
-      hu: "A Karongiban, a Kivu-tó partján található Környezetvédelmi Múzeum egy egyedülálló múzeum Afrikában, amely kizárólag környezetvédelmi témákkal foglalkozik. A 2015-ben megnyitott múzeum célja, hogy felhívja a figyelmet a környezeti problémákra és elősegítse a fenntartható gyakorlatokat. A fő kiállítás az energiával és a különböző energiaforrásokkal – megújuló és nem megújuló – foglalkozik, valamint azok környezeti hatásaival. Különlegessége a tetőkert, amely hagyományos ruandai gyógynövényeket mutat be, és tudást közvetít azok gyógyászati felhasználásáról. Maga a modern épület is környezetbarát kialakítású, és lenyűgöző kilátást nyújt a Kivu-tóra. Ez egy oktatási látványosság, amely összekapcsolja a ruandai táj szépségét a környezetvédelem fontos üzenetével.",
-      ro: "Muzeul Mediului din Karongi, situat pe malul lacului Kivu, este un muzeu unic în Africa, dedicat exclusiv problemelor de mediu. Deschis în 2015, muzeul își propune să crească gradul de conștientizare cu privire la problemele de mediu și să promoveze practicile durabile. Expoziția principală se concentrează pe energie și diferitele surse de energie, atât regenerabile, cât și neregenerabile, și impactul acestora asupra mediului. O atracție specială este grădina de pe acoperiș, care prezintă plante medicinale tradiționale din Rwanda și oferă cunoștințe despre utilizările lor medicinale. Clădirea modernă în sine este proiectată ecologic și oferă vederi uimitoare ale lacului Kivu. Este o atracție educațională care combină frumusețea peisajului rwandez cu mesajul important al protecției mediului.",
-      en: "The Museum of Environment in Karongi, located on the shores of Lake Kivu, is a unique museum in Africa dedicated exclusively to environmental issues. Opened in 2015, the museum aims to raise awareness about environmental challenges and promote sustainable practices. The main exhibition focuses on energy and the different sources of it, both renewable and non-renewable, and their impact on the environment. A special highlight is the rooftop garden, which showcases traditional Rwandan medicinal plants and provides knowledge about their medicinal uses. The modern building itself is designed to be environmentally friendly and offers stunning views of Lake Kivu. It is an educational attraction that combines the beauty of the Rwandan landscape with the important message of environmental conservation."
-    },
-    factsAdvanced: {
-      de: ["Afrikas einziges Museum, das sich dem Umweltschutz widmet.", "Eröffnet im Jahr 2015 in Karongi.", "Liegt am Ufer des Kivu-Sees.", "Die Hauptausstellung konzentriert sich auf Energiequellen.", "Verfügt über einen Dachgarten mit traditionellen Heilpflanzen.", "Fördert nachhaltige Praktiken und Umweltbewusstsein.", "Das Gebäude selbst ist umweltfreundlich gestaltet."],
-      hu: ["Afrika egyetlen, a környezetvédelemnek szentelt múzeuma.", "2015-ben nyílt meg Karongiban.", "A Kivu-tó partján fekszik.", "A fő kiállítás az energiaforrásokra összpontosít.", "Tetőteraszán hagyományos gyógynövénykert található.", "A fenntartható gyakorlatokat és a környezettudatosságot népszerűsíti.", "Maga az épület is környezetbarát kialakítású."],
-      ro: ["Singurul muzeu din Africa dedicat mediului.", "Deschis în 2015 în Karongi.", "Situat pe malul lacului Kivu.", "Expoziția principală se concentrează pe sursele de energie.", "Dispune de o grădină pe acoperiș cu plante medicinale tradiționale.", "Promovează practicile durabile și conștientizarea mediului.", "Clădirea în sine are un design ecologic."],
-      en: ["Africa's only museum dedicated to the environment.", "Opened in 2015 in Karongi.", "Located on the shores of Lake Kivu.", "The main exhibition focuses on energy sources.", "Features a rooftop garden with traditional medicinal plants.", "Promotes sustainable practices and environmental awareness.", "The building itself is eco-friendly in design."]
-    }
-  },
-  {
+    {
     id: "rw-amahoro-national-stadium-landmarks-v2",
     type: "landmark",
     parent: "RW-01",

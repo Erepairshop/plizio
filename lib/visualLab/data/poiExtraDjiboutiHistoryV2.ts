@@ -2,36 +2,7 @@
 import type { POI } from "./poi";
 
 export const poiExtraDjiboutiHistoryV2: POI[] = [
-  {
-    id: "hamoudi-mosque-history-v2",
-    type: "historical",
-    parent: "DJ-DJ",
-    coords: [43.146, 11.587],
-    name: {
-      de: "Hamoudi-Moschee",
-      hu: "Hamoudi-mecset",
-      ro: "Moscheea Hamoudi",
-      en: "Hamoudi Mosque"
-    ,
-    descriptionAdvanced: {
-      ro: "Moscheea Hamoudi este unul dintre cele mai vechi și emblematice edificii religioase din Djibouti, situată în inima capitalei. Construcția sa reflectă amestecul de stiluri arhitecturale locale și influențe arabe, fiind un centru spiritual esențial pentru comunitatea musulmană din regiune de peste un secol. Moscheea a jucat un rol vital în viața socială a orașului, servind drept loc de întâlnire pentru comerț și învățământ religios. Istorie K8 — rolul arhitecturii religioase în dezvoltarea socială.",
-      de: "Die Hamoudi-Moschee ist eines der ältesten und symbolträchtigsten religiösen Bauwerke in Dschibuti und liegt im pulsierenden Herzen der Hauptstadt. Ihre Architektur spiegelt eine faszinierende Mischung aus lokalen Baustilen und arabischen Einflüssen wider und dient der muslimischen Gemeinschaft der Region seit über einem Jahrhundert als spirituelles Zentrum. Die Moschee wurde 1906 erbaut und hat seitdem eine zentrale Rolle im sozialen Leben der Stadt gespielt, indem sie als Ort der Begegnung für den Handel und den religiösen Unterricht fungierte. Ihre markante Silhouette prägt das Bild der Altstadt und ist ein Zeugnis der kulturellen Kontinuität am Horn von Afrika. Geschichte K8 — Die Rolle religiöser Architektur in der sozialen Entwicklung."},
-    factsAdvanced: {
-      de: ["Wurde im Jahr 1906 offiziell eingeweiht.", "Befindet sich im historischen Viertel von Dschibuti-Stadt.", "Gilt als architektonisches Wahrzeichen der Hauptstadt.", "Kombiniert osmanische und klassische arabische Bauelemente.", "Wurde im Laufe der Jahrzehnte mehrfach behutsam restauriert.", "Bietet Platz für über tausend Gläubige bei großen Gebeten."] } },
-    image: "/poi-images/hamoudi-mosque-history-v2.webp",
-    description: {
-      de: "Die Hamoudi-Moschee ist ein zentrales religiöses und historisches Gebäude im Herzen von Djibouti-Stadt.",
-      hu: "Dzsibuti város szívében található jellegzetes mecset 1906-ban épült, és a főváros egyik legismertebb történelmi jelképe.",
-      ro: "Această moschee distinctivă din inima orașului Djibouti a fost construită în 1906 și este unul dintre cele mai cunoscute simboluri istorice ale capitalei.",
-      en: "This distinctive mosque in the heart of Djibouti City was built in 1906 and is one of the capital's most famous historical symbols."
-    },
-    facts: {
-      de: ["Historische Architektur", "Religiöses Zentrum", "Stadtmarke"],
-      hu: ["1906-ban épült", "Az óváros jelképe", "Több mint 1000 hívő befogadására alkalmas", "Oszmán és helyi építészeti stílusok keveréke"],
-      ro: ["Construită în 1906", "Simbol al orașului vechi", "Capacitate de peste 1.000 de credincioși", "Amestec de stiluri arhitecturale otomane și locale"],
-      en: ["Built in 1906", "Landmark of the old city", "Capacity for over 1,000 worshippers", "Mix of Ottoman and local architectural styles"]
-    }, image: "/poi-images/hamoudi-mosque-history-v2.webp"},
-  {
+    {
     id: "abourma-petroglyphs-history-v2",
     type: "historical",
     parent: "DJ-TA",

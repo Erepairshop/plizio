@@ -182,79 +182,7 @@ export const poiExtraSingaporeLifeV2: POI[] = [
       en: ["Area: 10.19 km².", "Population: about 100.", "Historic granite quarrying.", "Chek Jawa wetlands.", "Puaka Hill elevation: 75 meters.", "No motor vehicles allowed."],
     },
   },
-  {
-    id: "sg-singapore-botanic-gardens-life-v2",
-    type: "park",
-    parent: "SG-01",
-    coords: [103.815, 1.313],
-    name: {
-      de: "Botanischer Garten Singapur",
-      hu: "Szingapúri Botanikus Kert",
-      ro: "Grădinile Botanice din Singapore",
-      en: "Singapore Botanic Gardens"},
-    image: "/poi-images/sg-singapore-botanic-gardens-life-v2.webp",
-    description: {
-      de: "Ein 160 Jahre alter tropischer Garten und Singapurs erste UNESCO-Welterbestätte. Heimat des Nationalen Orchideengartens.",
-      hu: "Egy 160 éves trópusi kert, Szingapúr első UNESCO Világörökségi helyszíne. Otthona a Nemzeti Orchidea Kertnek.",
-      ro: "O grădină tropicală veche de 160 de ani și primul sit al Patrimoniului Mondial UNESCO din Singapore. Găzduiește Grădina Națională de Orhidee.",
-      en: "A 160-year-old tropical garden and Singapore's first UNESCO World Heritage Site. Home to the National Orchid Garden."
-    },
-    facts: {
-      de: ["Gegründet im Jahr 1859.", "Der Nationale Orchideengarten hat über 1.000 Arten.", "Einziger tropischer botanischer Garten auf der UNESCO-Liste."],
-      hu: ["1859-ben alapították.", "A Nemzeti Orchidea Kertben több mint 1000 faj található.", "Az egyetlen trópusi botanikus kert az UNESCO listáján."],
-      ro: ["Înființată în 1859.", "Grădina Națională de Orhidee are peste 1.000 de specii.", "Singura grădină botanică tropicală de pe lista UNESCO."],
-      en: ["Founded in 1859.", "The National Orchid Garden has over 1,000 species.", "The only tropical botanic garden on the UNESCO list."]
-    }, image: "/poi-images/sg-singapore-botanic-gardens-life-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Singapore Botanic Gardens, 1859 gegründet, sind ein 82 Hektar großer botanischer Garten und UNESCO-Welterbe seit 2015. Der Garten beherbergt über 10.000 Pflanzenarten, darunter die bedeutende Orchideensammlung mit mehr als 1.000 Hybriden. Das National Orchid Garden, eine Hauptattraktion, zeigt über 60.000 Orchideen. Der Garden ist auch ein Forschungszentrum für Pflanzenwissenschaften. Er umfasst einen Regenwald, einen See und den Jacob Ballas Children's Garden. Der Garden ist ein beliebtes Erholungsgebiet für Einheimische und Touristen. Eintritt frei, nur das Orchideenhaus kostet Eintritt.",
-      hu: "A Singapore Botanic Gardens-t 1859-ben alapították, 82 hektáros területen, és 2015 óta UNESCO Világörökség része. A kert több mint 10.000 növényfajnak ad otthont, beleértve a jelentős orchidea-gyűjteményt, több mint 1.000 hibriddel. A National Orchid Garden, a fő látványosság, több mint 60.000 orchideát mutat be. A kert növénytudományi kutatóközpont is. Része egy esőerdő, egy tó és a Jacob Ballas Gyermekkert. A kert népszerű pihenőhely. A belépés ingyenes, csak az orchideakertbe kell jegyet váltani.",
-      ro: "Grădinile Botanice din Singapore, fondate în 1859, se întind pe 82 de hectare și sunt Patrimoniu Mondial UNESCO din 2015. Grădina găzduiește peste 10.000 de specii de plante, inclusiv o colecție importantă de orhidee cu peste 1.000 de hibrizi. Grădina Națională de Orhidee, principala atracție, prezintă peste 60.000 de orhidee. Grădina este și un centru de cercetare în științele plantelor. Include o pădure tropicală, un lac și Grădina pentru Copii Jacob Ballas. Este o destinație populară de agrement. Intrarea este gratuită, doar grădina de orhidee are taxă de intrare.",
-      en: "The Singapore Botanic Gardens, founded in 1859, is a 82-hectare botanical garden and a UNESCO World Heritage Site since 2015. It contains over 10,000 plant species, including a renowned orchid collection with more than 1,000 hybrids. The National Orchid Garden, a key attraction, displays over 60,000 orchids. The gardens serve as a research center for plant science. It features a rainforest, a lake, and the Jacob Ballas Children's Garden. It is a popular recreational spot. General admission is free; the orchid garden requires a ticket.",
-    },
-    factsAdvanced: {
-      de: ["Gegründet 1859.", "Fläche: 82 Hektar.", "UNESCO-Welterbe seit 2015.", "Über 10.000 Pflanzenarten.", "National Orchid Garden mit über 60.000 Orchideen.", "Über 1.000 Orchideenhybriden."],
-      hu: ["Alapítás éve: 1859.", "Terület: 82 hektár.", "UNESCO Világörökség 2015 óta.", "Több mint 10.000 növényfaj.", "Nemzeti Orchideakert: 60.000 orchidea.", "1.000 feletti orchidea hibrid."],
-      ro: ["Fondată în 1859.", "Suprafață: 82 hectare.", "Patrimoniu UNESCO din 2015.", "Peste 10.000 de specii de plante.", "Grădina Națională de Orhidee: peste 60.000 de orhidee.", "Peste 1.000 de hibrizi de orhidee."],
-      en: ["Founded in 1859.", "Area: 82 hectares.", "UNESCO World Heritage Site since 2015.", "Over 10,000 plant species.", "National Orchid Garden exhibits over 60,000 orchids.", "More than 1,000 orchid hybrids."],
-    },
-  },
-  {
-    id: "sg-gardens-by-the-bay-life-v2",
-    type: "park",
-    parent: "SG-01",
-    coords: [103.863, 1.281],
-    name: {
-      de: "Gardens by the Bay",
-      hu: "Gardens by the Bay",
-      ro: "Grădinile de lângă Golf",
-      en: "Gardens by the Bay"},
-    image: "/poi-images/sg-gardens-by-the-bay-life-v2.webp",
-    description: {
-      de: "Ein futuristischer Park mit den berühmten Supertree Grove, Flower Dome und Cloud Forest. Ein Schaufenster für Gartenbau und Gartenkunst.",
-      hu: "Egy futurisztikus park a híres Supertree Grove-val, a Flower Dome-mal és a Cloud Foresttel. A kertészet és a kertművészet bemutatóhelye.",
-      ro: "Un parc futurist care prezintă faimoasele Supertree Grove, Flower Dome și Cloud Forest. O vitrină a horticulturii și artei grădinăritului.",
-      en: "A futuristic park featuring the famous Supertree Grove, Flower Dome, and Cloud Forest. A showcase of horticulture and garden artistry."
-    },
-    facts: {
-      de: ["Die Supertrees sind zwischen 25 und 50 Meter hoch.", "Der Flower Dome ist das größte Glasgewächshaus der Welt.", "Die Garden Rhapsody Licht- und Tonshow findet jede Nacht statt."],
-      hu: ["A Szuper-fák 25 és 50 méter közötti magasságúak.", "A Flower Dome a világ legnagyobb üvegháza.", "A Garden Rhapsody fény- és hangjáték minden este megrendezésre kerül."],
-      ro: ["Super-arborii au o înălțime între 25 și 50 de metri.", "Flower Dome este cea mai mare seră de sticlă din lume.", "Spectacolul de lumini și sunet Garden Rhapsody are loc în fiecare noapte."],
-      en: ["The Supertrees are between 25 and 50 metres tall.", "The Flower Dome is the world's largest glass greenhouse.", "The Garden Rhapsody light and sound show happens nightly."]
-    }, image: "/poi-images/sg-gardens-by-the-bay-life-v2.webp",
-    descriptionAdvanced: {
-      de: "Gardens by the Bay ist ein 101 Hektar großer Park in der Marina Bay, der 2012 eröffnet wurde. Die Hauptattraktionen sind die Supertrees, 18 bis 50 Meter hohe vertikale Gärten, die nachts beleuchtet sind. Die Kühlen Gewächshäuser, Cloud Forest und Flower Dome, sind zwei der größten begehbaren Gewächshäuser der Welt. Der Flower Dome beherbergt Pflanzen aus mediterranen und halbtrockenen Regionen, während der Cloud Forest einen 35 Meter hohen Bergnebelwald simuliert. Der Park ist ein Beispiel für nachhaltige Landschaftsarchitektur. Der Garten bietet auch einen Kinderbereich und Veranstaltungsorte. Er wird jährlich von Millionen besucht.",
-      hu: "A Gardens by the Bay egy 101 hektáros park a Marina Bay-ben, amelyet 2012-ben nyitottak meg. A fő látnivalók a Supertrees, 18–50 méter magas vertikális kertek, amelyek éjszaka kivilágítva. A hideg üvegházak, a Cloud Forest és a Flower Dome a világ két legnagyobb sétatávolságú üvegháza. A Flower Dome mediterrán és félszáraz növényeket mutat be, míg a Cloud Forest egy 35 méter magas köderdőt szimulál. A park a fenntartható tájépítészet példája. Gyermekterület és rendezvényhelyszínek is találhatók. Évente milliók látogatják.",
-      ro: "Gardens by the Bay este un parc de 101 hectare în Marina Bay, deschis în 2012. Principalele atracții sunt Supertrees, grădini verticale înalte de 18 până la 50 de metri, iluminate noaptea. Serele răcoroase, Cloud Forest și Flower Dome, sunt două dintre cele mai mari sere pietonale din lume. Flower Dome găzduiește plante din regiuni mediteraneene și semi-aride, iar Cloud Forest simulează o pădure de ceață montană de 35 de metri înălțime. Parcul este un exemplu de arhitectură peisagistică sustenabilă. Oferă o zonă pentru copii și locuri pentru evenimente. Este vizitat anual de milioane de oameni.",
-      en: "Gardens by the Bay is a 101-hectare park in Marina Bay, opened in 2012. Key attractions include the Supertrees, vertical gardens ranging from 18 to 50 meters tall, illuminated at night. The cooled conservatories, Cloud Forest and Flower Dome, are among the largest walk-in greenhouses globally. Flower Dome features plants from Mediterranean and semi-arid regions, while Cloud Forest simulates a 35-meter-high mountain cloud forest. The park showcases sustainable landscape architecture. It includes a children's play area and event venues. It attracts millions of visitors annually.",
-    },
-    factsAdvanced: {
-      de: ["Eröffnet 2012.", "Fläche: 101 Hektar.", "Supertrees: 18–50 m hoch.", "Cloud Forest: 35 m hoher Bergnebelwald.", "Flower Dome: größtes begehbares Gewächshaus der Welt.", "Jährlich über 20 Millionen Besucher."],
-      hu: ["Megnyitás éve: 2012.", "Terület: 101 hektár.", "Supertrees magassága: 18–50 m.", "Cloud Forest: 35 m.", "Flower Dome: a világ legnagyobb sétatávolságú üvegháza.", "Évente több mint 20 millió látogató."],
-      ro: ["Deschis în 2012.", "Suprafață: 101 hectare.", "Supertrees: 18–50 m înălțime.", "Cloud Forest: 35 m.", "Flower Dome: cea mai mare seră pietonală din lume.", "Peste 20 de milioane de vizitatori anual."],
-      en: ["Opened in 2012.", "Area: 101 hectares.", "Supertrees height range: 18-50 m.", "Cloud Forest conservatory height: 35 m.", "Flower Dome: world's largest walk-in greenhouse.", "Over 20 million visitors annually."],
-    },
-  },
-  {
+      {
     id: "sg-east-coast-park-life-v2",
     type: "park",
     parent: "SG-01",
@@ -470,43 +398,7 @@ export const poiExtraSingaporeLifeV2: POI[] = [
       en: ["Opened in 2019.", "Area: 64 hectares.", "First mountain bike park in Singapore.", "Mountain bike trail: 4.5 km.", "Hiking loop: 3.5 km.", "Part of Central Catchment Nature Reserve."],
     },
   },
-  {
-    id: "sg-pasir-ris-park-life-v2",
-    type: "kid-friendly",
-    parent: "SG-01",
-    coords: [103.955, 1.378],
-    name: {
-      de: "Pasir Ris Park",
-      hu: "Pasir Ris Park",
-      ro: "Parcul Pasir Ris",
-      en: "Pasir Ris Park"},
-    image: "/poi-images/sg-pasir-ris-park-life-v2.webp",
-    description: {
-      de: "Ein ruhiger Park im Osten, bekannt für seinen riesigen Spielplatz, Mangroven-Promenade und einen der größten Mangrovenwälder in Singapur.",
-      hu: "Egy csendes park keleten, amely hatalmas játszóteréről, mangrove sétányáról és Szingapúr egyik legnagyobb mangroveerdőjéről ismert.",
-      ro: "Un parc liniștit în est, cunoscut pentru locul de joacă uriaș, promenada de mangrove și una dintre cele mai mari păduri de mangrove din Singapore.",
-      en: "A tranquil park in the east, known for its massive playground, mangrove boardwalk, and one of the largest mangrove forests in Singapore."
-    },
-    facts: {
-      de: ["Hat einen dreistöckigen Vogelbeobachtungsturm.", "Der Spielplatz ist einer der größten in Singapur.", "Bietet Ponyreiten und Wassersportmöglichkeiten."],
-      hu: ["Van egy háromszintes madármegfigyelő tornya.", "A játszótér az egyik legnagyobb Szingapúrban.", "Pónilovaglási és vízisportolási lehetőségeket kínál."],
-      ro: ["Are un turn de observare a păsărilor cu trei etaje.", "Locul de joacă este unul dintre cele mai mari din Singapore.", "Oferă plimbări cu ponei și activități de sporturi nautice."],
-      en: ["Has a three-storey bird watching tower.", "The playground is one of the largest in Singapore.", "Offers pony rides and water sports activities."]
-    }, image: "/poi-images/sg-pasir-ris-park-life-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Pasir Ris Park ist ein 71 Hektar großer Küstenpark im Osten Singapurs, der sich entlang der Pasir Ris Strandlinie erstreckt. Der Park bietet eine Vielzahl von Freizeitmöglichkeiten, darunter Radfahren, Inlineskaten, Grillen, Picknicken und Vogelbeobachtung. Es gibt einen 3,5 Kilometer langen Radweg und einen großen Spielplatz. Der Park beherbergt einen Mangrovenwald mit Holzstegen, die das Erkunden ermöglichen. Ein beliebtes Ziel ist der Pasir Ris Beach, der zum Schwimmen und Sonnenbaden geeignet ist. Der Park hat auch ein 'Escape Room'-Spielplatz-Thema. Es gibt zahlreiche Restaurants und Picknickhütten.",
-      hu: "A Pasir Ris Park egy 71 hektáros tengerparti park Szingapúr keleti részén, a Pasir Ris tengerpart mentén. A park számos szabadidős lehetőséget kínál, mint kerékpározás, görkorcsolyázás, grillezés, piknik és madármegfigyelés. Van egy 3,5 kilométeres kerékpárút és egy nagy játszótér. A parkban mangroveerdő található fa pallókkal. Népszerű a Pasir Ris Beach úszásra és napozásra. A park tematikus játszótérrel is rendelkezik. Számos étterem és piknikház található.",
-      ro: "Parcul Pasir Ris este un parc de coastă de 71 de hectare în estul Singapore, care se întinde de-a lungul plajei Pasir Ris. Parcul oferă o varietate de activități recreative, inclusiv ciclism, patinaj, grătar, picnic și observarea păsărilor. Există o pistă de biciclete de 3,5 km și un loc de joacă mare. Parcul găzduiește o pădure de mangrove cu alei din lemn. Plaja Pasir Ris este populară pentru înot și plajă. Parcul are un loc de joacă tematic. Există numeroase restaurante și cabane de picnic.",
-      en: "Pasir Ris Park is a 71-hectare coastal park in eastern Singapore, stretching along Pasir Ris beachfront. It offers diverse recreational activities such as cycling, inline skating, barbecue, picnicking, and birdwatching. There is a 3.5 km cycling path and a large playground. The park features a mangrove boardwalk. Pasir Ris Beach is popular for swimming and sunbathing. The park has a themed playground with an 'escape room' concept. It also has numerous restaurants and picnic shelters.",
-    },
-    factsAdvanced: {
-      de: ["Fläche: 71 Hektar.", "Radweg: 3,5 km.", "Mangrovenwald mit Holzstegen.", "Großer Spielplatz.", "Pasir Ris Beach.", "Zahlreiche Picknickhütten."],
-      hu: ["Terület: 71 hektár.", "Kerékpárút: 3,5 km.", "Mangroveerdő fa pallókkal.", "Nagy játszótér.", "Pasir Ris Beach.", "Tematikus játszótér."],
-      ro: ["Suprafață: 71 de hectare.", "Pistă de biciclete: 3,5 km.", "Pădure de mangrove cu alei din lemn.", "Loc de joacă mare.", "Plaja Pasir Ris.", "Loc de joacă tematic."],
-      en: ["Area: 71 hectares.", "Cycling path: 3.5 km.", "Mangrove boardwalk.", "Large playground.", "Pasir Ris Beach.", "Themed playground."],
-    },
-  },
-  {
+    {
     id: "sg-dairy-farm-nature-park-life-v2",
     type: "park",
     parent: "SG-01",

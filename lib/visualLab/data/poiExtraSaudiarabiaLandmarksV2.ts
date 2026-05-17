@@ -1,39 +1,7 @@
 import type { POI } from "./poi";
 
 export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
-  {
-    id: "hegra-landmarks-v2",
-    type: "landmark",
-    parent: "SA-03",
-    coords: [37.9472, 26.8041],
-    name: { de: "Hegra", hu: "Hegra", ro: "Hegra", en: "Hegra"},
-    image: "/poi-images/hegra-landmarks-v2.webp",
-    description: {
-      de: "Die antike nabatäische Stadt im Nordwesten Saudi-Arabiens ist das erste UNESCO-Welterbe des Landes.",
-      hu: "Szaúd-Arábia északnyugati részén fekvő ókori nabateus város, az ország első UNESCO világörökségi helyszíne.",
-      ro: "Orașul antic nabatean din nord-vestul Arabiei Saudite este primul sit al Patrimoniului Mondial UNESCO din țară.",
-      en: "The ancient Nabataean city in northwestern Saudi Arabia is the country's first UNESCO World Heritage site."
-    },
-    facts: {
-      de: ["Erstes UNESCO-Welterbe Saudi-Arabiens.", "Beherbergt über 100 monumentale Felsengräber.", "War die südliche Hauptstadt der Nabatäer.", "Die Bauwerke stammen aus dem 1. Jahrhundert v. Chr."],
-      hu: ["Szaúd-Arábia első UNESCO világörökségi helyszíne.", "Több mint 100 monumentális sziklasír található itt.", "A nabateusok déli fővárosa volt.", "Az építmények a Kr. e. 1. századból származnak."],
-      ro: ["Primul sit UNESCO din Arabia Saudită.", "Găzduiește peste 100 de morminte monumentale din stâncă.", "A fost capitala sudică a nabateenilor.", "Structurile datează din secolul 1 î.Hr."],
-      en: ["Saudi Arabia's first UNESCO World Heritage site.", "Houses over 100 monumental rock-cut tombs.", "Served as the southern capital of the Nabataeans.", "The structures date back to the 1st century BC."]
-    }, image: "/poi-images/hegra-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "Hegra, auch bekannt als al-Hijr oder Madain Salih, ist eine nabatäische archäologische Stätte im Nordwesten Saudi-Arabiens. Sie wurde 2008 zum UNESCO-Weltkulturerbe erklärt und ist die größte erhaltene Siedlung der Nabatäer nach Petra. Die Stätte umfasst 111 monumentale Gräber mit reich verzierten Fassaden, die in den Sandstein gehauen sind. Hegra diente als wichtiger Handelsknotenpunkt auf der Weihrauchstraße. Die Inschriften und Felszeichnungen geben Einblick in das Leben der Nabatäer. Heute ist die Stätte ein bedeutendes kulturelles Erbe und eine Touristenattraktion.",
-      hu: "Hegra (Madain Salih) a nabateus civilizáció egyik legfontosabb városa volt a Kr. u. 1. században. A város a tömjénút mentén feküdt, és virágzott a kereskedelemből. A 111 sírkamra a gazdagságot és a vallási hiedelmeket tükrözi. A homokkőbe faragott homlokzatok különböző stílusokat mutatnak, egyiptomi és görög hatással. Hegra a nabateus építészet és vízmérnöki tudás példája. A lelőhelyet 2008-ban vették fel a világörökségi listára.",
-      ro: "Hegra este un oraș antic nabatean situat în regiunea Al-Ula. A fost un centru comercial important pe ruta tămâiei. Orașul are un sistem sofisticat de colectare a apei, inclusiv canale și rezervoare. Mormintele monumentale sunt sculptate în stâncă și au fațade elaborate. Hegra include și un sector rezidențial cu case și piețe. Situl oferă dovezi ale coexistenței dintre nabateeni și romani. Este unul dintre cele mai bine conservate situri arheologice din Arabia Saudită.",
-      en: "Hegra (Madain Salih) was a major Nabataean city active from the 1st century BCE to the 1st century CE. It features 111 rock-cut tombs with elaborate façades, showing influences from Assyrian, Egyptian, and Greek art. The site includes a well-preserved water management system with cisterns and channels. Hegra was mentioned in the Quran as the place of the Thamud people. The surrounding landscape includes volcanic basalt fields and sandstone outcrops. Excavations have uncovered inscriptions in various languages, including Nabataean, Aramaic, and Greek.",
-    },
-    factsAdvanced: {
-      de: ["UNESCO-Weltkulturerbe seit 2008", "111 monumentale Gräber", "Größte nabatäische Siedlung nach Petra", "Sandsteinfassaden", "Teil der Weihrauchstraße", "Inschriften in nabatäischer Schrift"],
-      hu: ["Kora: Kr. e. 1. század", "Sírszám: 111", "Világörökségi felvétel: 2008", "Terület: 52 hektár", "Vízgyűjtő rendszer: 130 ciszterna", "Feliratok: nabateus, arámi, görög"],
-      ro: ["Locație: Al-Ula, Arabia Saudită", "Număr morminte: 111", "Înălțime fațade: până la 20 m", "Rezervor de apă: 2.000 m³", "Construcție: secolul I d.Hr.", "Lungimea sitului: 1,4 km"],
-      en: ["Elevation: 600 m", "Annual visitors: 100,000", "Number of decorated tombs: 31", "Oldest tomb dates from 1st century BCE", "Settlement area: 13 hectares", "Number of inscriptions: over 2,000"],
-    },
-  },
-  {
+    {
     id: "kingdom-centre-landmarks-v2",
     type: "landmark",
     parent: "SA-01",
@@ -65,39 +33,7 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
       en: ["Height to tip: 302.3 m", "Floor area: 185,000 m²", "Elevators: 23", "Skybridge length: 65 m", "Construction started: 1999", "Cost: $400 million"],
     },
   },
-  {
-    id: "masmak-fortress-landmarks-v2",
-    type: "landmark",
-    parent: "SA-01",
-    coords: [46.7126, 24.6315],
-    name: { de: "Masmak-Festung", hu: "Masmak-erőd", ro: "Fortăreața Masmak", en: "Masmak Fortress"},
-    image: "/poi-images/masmak-fortress-landmarks-v2.webp",
-    description: {
-      de: "Eine historische Festung aus Lehmziegeln im Zentrum von Riad, die eine wichtige Rolle bei der Gründung Saudi-Arabiens spielte.",
-      hu: "Egy történelmi vályogtégla erőd Rijád központjában, amely fontos szerepet játszott Szaúd-Arábia alapításában.",
-      ro: "O fortăreață istorică din cărămidă de lut în centrul Riadului, cu un rol important în fondarea Arabiei Saudite.",
-      en: "A historic clay and mud-brick fort in the center of Riyadh that played a major role in the founding of Saudi Arabia."
-    },
-    facts: {
-      de: ["Wurde 1865 erbaut.", "1902 von Ibn Saud erobert.", "Besteht aus Lehm und ungebrannten Ziegeln.", "Heute dient es als Museum."],
-      hu: ["1865-ben épült.", "Ibn Szaúd 1902-ben foglalta el.", "Agyagból és vályogtéglából készült.", "Ma múzeumként működik."],
-      ro: ["A fost construită în 1865.", "Capturată de Ibn Saud în 1902.", "Este făcută din lut și cărămizi nearsă.", "Astăzi funcționează ca muzeu."],
-      en: ["Built in 1865.", "Captured by Ibn Saud in 1902.", "Made of clay and mud-brick.", "Today it serves as a museum."]
-    }, image: "/poi-images/masmak-fortress-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Masmak-Festung ist eine Lehmziegelfestung im Zentrum von Riad, die um 1865 erbaut wurde. Sie spielte eine Schlüsselrolle bei der Eroberung Riads durch König Abdulaziz im Jahr 1902. Die Festung ist quadratisch mit dicken Mauern und vier Wachtürmen. Sie diente als königliche Residenz und später als Gefängnis und Waffendepot. Heute ist sie ein Museum, das die Geschichte Saudi-Arabiens zeigt. Die Festung ist ein nationales Symbol für die Einheit des Landes.",
-      hu: "A Masmak erőd Rijád történelmi központjában található, és a szaúdi állam születésének szimbóluma. 1902-ben Abdul-Aziz ibn Szaud innen indította el Rijád visszafoglalását. Az erőd téglalap alakú, tornyokkal és belső udvarral. A múzeumban fegyverek, térképek és történelmi dokumentumok láthatók. Az erőd a szaúdi nemzeti identitás fontos része. Felújítását követően 1999-ben nyitották meg a nagyközönség előtt.",
-      ro: "Fortăreața Masmak este o cetate din chirpici construită în jurul anului 1865. Pereții groși și turnurile o fac aproape inexpugnabile. A fost locul bătăliei decisive pentru cucerirea Riyadhului în 1902. Fortăreața are o singură intrare, o ușă masivă de lemn. Interiorul include o moschee și o cameră a comorii. Astăzi este un muzeu care prezintă arta și arhitectura tradițională saudită.",
-      en: "Masmak Fortress is a clay and mudbrick fort in Riyadh, built in 1865 by the Al Saud family. It measures 28 by 24 meters with walls 3.5 meters thick. The fortress has four watchtowers, each 18 meters high. It was captured by King Abdulaziz in 1902 after a daring raid. The fort now houses a museum with exhibits on Saudi history and culture. The palm tree trunks used in construction are still visible in the roof.",
-    },
-    factsAdvanced: {
-      de: ["Erbaut: 1865", "Fläche: 672 m²", "Mauern: 3,5 Meter dick", "Wachtürme: 4, je 18 m hoch", "Eroberung: 1902", "Museumseröffnung: 1999"],
-      hu: ["Építés éve: 1865", "Alaprajz: 28 x 24 m", "Toronyszám: 4", "Falvastagság: 3,5 m", "Kapu: 3,5 m magas", "Felújítás: 1995-1999"],
-      ro: ["Material: cărămidă de lut", "Înălțimea turnurilor: 18 m", "Grosimea zidurilor: 3,5 m", "Număr de camere: 15", "Intrarea principală: lemn de palmier", "Anul transformării în muzeu: 1995"],
-      en: ["Dimensions: 28 x 24 m", "Wall thickness: 3.5 m", "Tower height: 18 m", "Material: mudbrick with stone foundations", "Date of capture: January 15, 1902", "Current function: museum since 1995"],
-    },
-  },
-  {
+    {
     id: "kaaba-landmarks-v2",
     type: "landmark",
     parent: "SA-02",
@@ -257,39 +193,7 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
       en: ["Length of escarpment: 600 km", "Cliff height: 300 m", "Distance from Riyadh: 90 km", "Rock type: Jurassic limestone", "Age: 150 million years", "Elevation: 1,000 m"],
     },
   },
-  {
-    id: "al-ula-old-town-landmarks-v2",
-    type: "landmark",
-    parent: "SA-03",
-    coords: [37.9255, 26.6200],
-    name: { de: "Altstadt von Al-Ula", hu: "Al-Ula óvárosa", ro: "Orașul vechi Al-Ula", en: "Al-Ula Old Town"},
-    image: "/poi-images/al-ula-old-town-landmarks-v2.webp",
-    description: {
-      de: "Ein Labyrinth aus dicht gedrängten Lehmhäusern, das über Jahrhunderte ein wichtiger Knotenpunkt auf der Weihrauchstraße war.",
-      hu: "Sűrűn egymás mellé épült vályogházak labirintusa, amely évszázadokon át fontos csomópont volt a Tömjénúton.",
-      ro: "Un labirint de case din lut dens împachetate, care a fost un nod important pe Drumul Tămâiei timp de secole.",
-      en: "A labyrinth of tightly packed mud-brick houses that was an important crossroads on the Incense Route for centuries."
-    },
-    facts: {
-      de: ["Besteht aus über 900 historischen Gebäuden.", "Wurde im 12. Jahrhundert gegründet.", "Verfügt über eine Burg aus dem 10. Jahrhundert.", "Wurde vor Kurzem restauriert und für Touristen geöffnet."],
-      hu: ["Több mint 900 történelmi épületből áll.", "A 12. században alapították.", "Egy 10. századi vár is található itt.", "Nemrég felújították és megnyitották a turisták előtt."],
-      ro: ["Este alcătuit din peste 900 de clădiri istorice.", "A fost fondat în secolul al XII-lea.", "Are un castel din secolul al X-lea.", "A fost restaurat recent și deschis turiștilor."],
-      en: ["Consists of over 900 historical buildings.", "Founded in the 12th century.", "Features a 10th-century castle.", "Has been recently restored and opened to tourists."]
-    }, image: "/poi-images/al-ula-old-town-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Altstadt von Al-Ula ist eine historische Siedlung aus Lehmziegelhäusern und engen Gassen. Sie liegt in der Region Al-Ula und war ein wichtiger Zwischenstopp für Karawanen. Die Häuser sind bis zu fünf Stockwerke hoch und mit Holzbalken und Palmblättern gedeckt. Die Stadt wurde im 20. Jahrhundert aufgegeben, aber die Ruinen sind gut erhalten. Sie bietet einen Einblick in die traditionelle Bauweise der Region. Die Altstadt ist Teil des Al-Ula-Projekts zur touristischen Erschließung.",
-      hu: "Al-Ula óvárosa egy régi kereskedelmi város romjai, melyet az 1980-as években hagytak el. A vályogházak szorosan egymás mellett állnak, és labirintusszerű utcákat alkotnak. A város falakkal körülvett erődítmény volt. A házakat bonyolult faajtók és erkélyek díszítik. A romok között felfedezhető a régi mecset és a piactér. A helyreállítási munkák 2020-ban kezdődtek.",
-      ro: "Orașul vechi Al-Ula este un sit istoric din provincia Medina. Casele din chirpici au fost construite în secolele XII-XIX. Orașul era protejat de un zid și avea o moschee și o piață centrală. A fost abandonat în anii 1980 din cauza inundațiilor. În prezent, situl este restaurat pentru a atrage turiști. Arhitectura reflectă stilurile tradiționale din Hejaz.",
-      en: "Al-Ula Old Town is a historical settlement of mudbrick houses, built between the 12th and 19th centuries. It covers an area of 2.5 km² and includes over 1,000 residential units. The town was abandoned in the 1980s due to flooding and modernization. It features a fortress, a mosque, and a market square. The buildings have unique decorative elements like wooden lintels and stone inscriptions. Restoration efforts began in 2019 to preserve the site.",
-    },
-    factsAdvanced: {
-      de: ["Aufgabe: 1980er Jahre", "Anzahl Häuser: über 1.000", "Fläche: 2,5 km²", "Gründung: 12. Jahrhundert", "Baustil: Lehmziegel", "Restaurierung: seit 2019"],
-      hu: ["Elhagyás éve: 1980-as évek", "Házak száma: 1 000+", "Terület: 2,5 km²", "Fal: 2,5 km hosszú", "Mecset: 1 db", "Felújítás kezdete: 2019"],
-      ro: ["Suprafață: 2,5 km²", "Număr de case: peste 1.000", "Pereți de pământ: 1,5 m grosime", "Zidul orașului: 2,5 km lungime", "Anul abandonării: 1981", "Anul începerii restaurării: 2019"],
-      en: ["Area: 2.5 km²", "Number of houses: over 1,000", "Wall length: 2.5 km", "Abandoned: 1980s", "Restoration started: 2019", "Buildings: up to 5 stories"],
-    },
-  },
-  {
+    {
     id: "elephant-rock-landmarks-v2",
     type: "landmark",
     parent: "SA-03",
@@ -321,39 +225,7 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
       en: ["Height: 52 m", "Length: 105 m", "Trunk thickness: 10 m", "Material: sandstone", "Weight: ~15,000 tons", "Distance from Al-Ula: 11 km"],
     },
   },
-  {
-    id: "at-turaif-landmarks-v2",
-    type: "landmark",
-    parent: "SA-01",
-    coords: [46.5744, 24.7350],
-    name: { de: "At-Turaif in Diriyya", hu: "At-Turaif (Dirijja)", ro: "At-Turaif (Diriyah)", en: "At-Turaif in Diriyah"},
-    image: "/poi-images/at-turaif-landmarks-v2.webp",
-    description: {
-      de: "Die historische Altstadt von Diriyya, die einst die Hauptstadt der ersten saudi-arabischen Dynastie war.",
-      hu: "Dirijja történelmi óvárosa, amely egykor az első szaúd-arábiai dinasztia fővárosa volt.",
-      ro: "Centrul istoric al orașului Diriyah, care a fost cândva capitala primei dinastii din Arabia Saudită.",
-      en: "The historic old town of Diriyah, which was once the capital of the first Saudi Arabian dynasty."
-    },
-    facts: {
-      de: ["Seit 2010 UNESCO-Welterbe.", "Gilt als Geburtsort des modernen saudischen Staates.", "Berühmt für die Najdi-Architektur aus Lehm.", "Die Siedlung wurde im 15. Jahrhundert gegründet."],
-      hu: ["2010 óta UNESCO világörökség.", "A modern szaúdi állam szülőhelyének tekintik.", "Híres a vályogból készült nadzsdi építészetről.", "A települést a 15. században alapították."],
-      ro: ["Este sit al Patrimoniului Mondial UNESCO din 2010.", "Considerat locul de naștere al statului saudit modern.", "Renumit pentru arhitectura sa Najdi din lut.", "Așezarea a fost fondată în secolul al XV-lea."],
-      en: ["A UNESCO World Heritage site since 2010.", "Considered the birthplace of the modern Saudi state.", "Famous for its mud-brick Najdi architecture.", "The settlement was founded in the 15th century."]
-    }, image: "/poi-images/at-turaif-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "At-Turaif in Diriyah ist eine historische Stadtanlage, die im 15. Jahrhundert gegründet wurde. Sie war der erste Wohnsitz der Saud-Dynastie und wurde 2010 zum UNESCO-Weltkulturerbe erklärt. Die Anlage besteht aus Palästen, Moscheen und Befestigungsanlagen aus Lehmziegeln. Sie spielte eine zentrale Rolle bei der Gründung des ersten saudischen Staates. Die Stadt war ein politisches und religiöses Zentrum. Heute ist sie eine der wichtigsten historischen Stätten des Landes.",
-      hu: "At-Turaif Dirijah óvárosának szíve, a Szaúd-dinasztia bölcsője. A város 1744-ben vált jelentőségre, amikor Mohamed ibn Szaud és Muhammad ibn Abd al-Wahhab szövetséget kötött. A vályogpaloták és erődítmények a 18. századi építészetet tükrözik. A területet 2010-ben nyilvánították világörökséggé. A helyreállítási munkák során hagyományos technikákat alkalmaztak. At-Turaif ma múzeum és kulturális központ.",
-      ro: "At-Turaif din Diriyah este un sit istoric care datează din secolul al XV-lea. A fost capitala primului stat saudit. Situl include palate, moschei și turnuri de pază. Zidurile sunt construite din cărămidă de lut. At-Turaif a fost înscris în patrimoniul UNESCO în 2010. Restaurarea a început în 2008 și finalizată în 2012. Este un simbol al unității naționale saudite.",
-      en: "At-Turaif is a historic district in Diriyah, founded in the 15th century. It became the capital of the First Saudi State in 1744. The site covers 10 hectares and includes the Salwa Palace, the largest mudbrick palace in the region. It was captured by Ottoman forces in 1818 and fell into ruin. UNESCO declared it a World Heritage Site in 2010. Restoration projects have revived traditional Najdi architecture.",
-    },
-    factsAdvanced: {
-      de: ["UNESCO-Welterbe seit 2010", "Gründung: 15. Jahrhundert", "Fläche: 10 Hektar", "Hauptpalast: Salwa-Palast", "Zerstört: 1818", "Restaurierung: 2008-2012"],
-      hu: ["Világörökség: 2010", "Terület: 10 hektár", "Paloták száma: 5", "Falvastagság: 2 m", "Szövetség: 1744", "Felújítás költsége: 100 millió USD"],
-      ro: ["Suprafață: 10 ha", "Număr de palate: 3", "Grosimea zidurilor: 2 m", "Anul înscrierii UNESCO: 2010", "Capitala primului stat saudit: 1744", "Costul restaurării: 100 milioane USD"],
-      en: ["Area: 10 hectares", "Number of palaces: 3", "Wall thickness: 2 m", "UNESCO status: 2010", "Capital of First Saudi State: 1744", "Restoration cost: $100 million"],
-    },
-  },
-  {
+    {
     id: "quba-mosque-landmarks-v2",
     type: "landmark",
     parent: "SA-03",

@@ -217,61 +217,7 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
       en: ["Necropolis with 1,200 tombs", "12,000 seat theater", "UNESCO World Heritage since 1988", "Sacred Plutonium gateway"],
     },
   },
-  {
-    id: "topkapi-palace-history-v2",
-    type: "historical-site",
-    parent: "TR-34",
-    coords: [28.983, 41.011],
-    name: { de: "Topkapı-Palast", hu: "Topkapı palota", ro: "Palatul Topkapı", en: "Topkapı Palace"},
-    image: "/poi-images/topkapi-palace-history-v2.webp",
-    description: { de: "Der Topkapı-Palast war jahrhundertelang der Wohn- und Regierungssitz der Sultane des Osmanischen Reiches.", hu: "A Topkapı palota évszázadokon át az Oszmán Birodalom szultánjainak lakóhelye és kormányzati központja volt.", ro: "Palatul Topkapı a fost timp de secole reședința și centrul administrativ al sultanilor Imperiului Otoman.", en: "The Topkapı Palace was the residence and administrative center of the sultans of the Ottoman Empire for centuries." },
-    facts: {
-      de: ["Erbaut nach der Eroberung Istanbuls im Jahr 1453.", "Beherbergt heilige islamische Reliquien."],
-      hu: ["Isztambul 1453-as elfoglalása után épült.", "Szent iszlám ereklyéknek ad otthont."],
-      ro: ["Construit după cucerirea Istanbulului în 1453.", "Găzduiește relicve sacre islamice."],
-      en: ["Built after the conquest of Istanbul in 1453.", "Houses sacred Islamic relics."]
-    }, image: "/poi-images/topkapi-palace-history-v2.webp",
-    descriptionAdvanced: {
-      de: "Fast 400 Jahre lang war dieser Palast das Zentrum der osmanischen Sultane. Er beherbergt heute unschätzbare Schätze wie den Löffelmacher-Diamanten und heilige Reliquien.",
-      hu: "Közel 400 évig ez a palota volt az oszmán szultánok közigazgatási és magánlakhelye. Ma felbecsülhetetlen kincseket őriz, köztük a híres Kanalas-gyémántot is.",
-      ro: "Timp de aproape 400 de ani, acest palat a fost centrul administrativ și reședința sultanilor otomani. Găzduiește astăzi comori neprețuite, inclusiv faimosul Diamant al Lingurarului.",
-      en: "For nearly 400 years, this palace served as the administrative hub and residence of Ottoman sultans. Today, it houses priceless treasures like the Spoonmaker's Diamond.",
-    },
-    factsAdvanced: {
-      de: ["Baujahr 1459 durch Mehmed II.", "700.000 Quadratmeter Fläche", "4 große Innenhöfe", "Berühmte Haremsabteilung"],
-      hu: ["Épült 1459-ben II. Mehmed által", "700 000 négyzetméter terület", "4 nagy belső udvar", "Híres Hárem részleg"],
-      ro: ["Construit în 1459 de Mahomed II", "700.000 metri pătrați", "4 curți principale", "Secțiunea faimoasă a haremului"],
-      en: ["Built 1459 by Mehmed II", "700,000 square meters", "4 main courtyards", "Famous Harem section"],
-    },
-  },
-  {
-    id: "hagia-sophia-history-v2",
-    type: "monument",
-    parent: "TR-34",
-    coords: [28.979, 41.008],
-    name: { de: "Hagia Sophia", hu: "Hagia Sophia", ro: "Hagia Sofia", en: "Hagia Sophia"},
-    image: "/poi-images/hagia-sophia-history-v2.webp",
-    description: { de: "Die Hagia Sophia, ursprünglich eine byzantinische Kirche, war für fast tausend Jahre das größte Gebäude der Welt.", hu: "A Hagia Sophia, eredetileg bizánci templom, majdnem ezer évig a világ legnagyobb épülete volt.", ro: "Hagia Sofia, inițial o biserică bizantină, a fost cea mai mare clădire din lume pentru aproape o mie de ani.", en: "Hagia Sophia, originally a Byzantine church, was the largest building in the world for almost a thousand years." },
-    facts: {
-      de: ["Erbaut im 6. Jahrhundert unter Kaiser Justinian.", "Wurde später als Moschee und Museum genutzt."],
-      hu: ["A 6. században épült I. Justinianus császár alatt.", "Később mecsetként és múzeumként is használták."],
-      ro: ["Construită în secolul al VI-lea sub împăratul Iustinian.", "A fost folosită mai târziu ca moschee și muzeu."],
-      en: ["Built in the 6th century under Emperor Justinian.", "Was later used as a mosque and a museum."]
-    }, image: "/poi-images/hagia-sophia-history-v2.webp",
-    descriptionAdvanced: {
-      de: "Als Meisterwerk byzantinischer Architektur wurde sie im 6. Jahrhundert als Kirche geweiht. Ihre riesige Kuppel prägt seit 1.500 Jahren Istanbuls Skyline.",
-      hu: "A bizánci építészet remekműve a 6. században épült templomként, majd mecsetté alakították. Hatalmas kupolája immár 1500 éve meghatározza Isztambul látképét.",
-      ro: "O capodoperă a arhitecturii bizantine, a fost sfințită în secolul VI ca biserică și ulterior transformată în moschee. Cupola sa uriașă domină orizontul Istanbulului de 1.500 de ani.",
-      en: "A masterpiece of Byzantine architecture, it was consecrated in the 6th century as a church. Its massive dome has defined Istanbul's skyline for 1,500 years.",
-    },
-    factsAdvanced: {
-      de: ["Bauzeit 532-537 n. Chr.", "55 Meter Kuppelhöhe", "107 Marmorsäulen", "UNESCO-Welterbe seit 1985"],
-      hu: ["Épült i.sz. 532-537 között", "55 méter kupolamagasság", "107 márványoszlop", "UNESCO Világörökség 1985 óta"],
-      ro: ["Construită 532-537 d.Hr.", "Înălțime cupolă 55 metri", "107 coloane de marmură", "Sit UNESCO din anul 1985"],
-      en: ["Built 532-537 AD", "55 meters dome height", "107 marble columns", "UNESCO World Heritage since 1985"],
-    },
-  },
-  {
+      {
     id: "ani-history-v2",
     type: "ruin",
     parent: "TR-36",

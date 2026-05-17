@@ -736,38 +736,7 @@ export const haitiLandmarks: POI[] = [
       en: ["The palace was completed in 1820, just before the end of Christophe's reign", "It was intended to serve as the administrative heart of the northern Artibonite region", "The structure remains in active use today, housing local government and judicial offices"]
     },
     historyYear: 1820, image: "/poi-images/ht-palais365.webp"},
-  {
-    id: "ht-cathedralcap",
-    type: "historical",
-    parent: "HT",
-    coords: [-72.20, 19.76],
-    name: { de: "Kathedrale von Cap-Haïtien", hu: "Cap-Haïtien-i székesegyház", ro: "Catedrala din Cap-Haïtien", en: "Cathedral of Cap-Haïtien" },
-    description: {
-      de: "Ikonische Kathedrale in der nördlichen Hauptstadt.",
-      hu: "Ikonikus székesegyház az északi fővárosban.",
-      ro: "Catedrală iconică în capitala de nord.",
-      en: "Iconic cathedral in the northern capital."
-    },
-    descriptionAdvanced: {
-      de: "Die Kathedrale Notre-Dame de l'Assomption in Cap-Haïtien ist ein prächtiges Beispiel kolonialer Sakralarchitektur. Sie liegt im Herzen der Stadt am Place d'Armes und ist ein zentraler Ort für religiöse und soziale Feierlichkeiten in der geschichtsträchtigen Region des Nordens.",
-      hu: "A Cap-Haïtien-i Notre-Dame de l'Assomption székesegyház a gyarmati vallási építészet pompás példája. A város szívében, a Place d'Armes-on található, és a történelmi északi régió vallási és társadalmi eseményeinek központja.",
-      ro: "Catedrala Notre-Dame de l'Assomption din Cap-Haïtien este un exemplu magnific de arhitectură sacră colonială. Situată în inima orașului, în Place d'Armes, este un loc central pentru sărbătorile religioase și sociale din regiunea istorică de nord.",
-      en: "The Cathédrale Notre-Dame de l'Assomption in Cap-Haïtien is a majestic centerpiece of French colonial religious architecture. Located on the historic Place d'Armes, it serves as the spiritual heart of the city and a symbol of the North's deep Catholic heritage."
-    },
-    facts: {
-      de: ["Kolonialarchitektur", "Zentrum von Cap-Haïtien", "Historische Kirche", "Religiöses Wahrzeichen"],
-      hu: ["Gyarmati építészet", "Cap-Haïtien központja", "Történelmi templom", "Vallási jelkép"],
-      ro: ["Arhitectură colonială", "Centrul orașului Cap-Haïtien", "Biserică istorică", "Simbol religios"],
-      en: ["French colonial architecture", "Located on Place d'Armes", "Major religious landmark", "Historical cathedral of the North"]
-    },
-    factsAdvanced: {
-      de: ["Die Kathedrale wurde auf den Ruinen einer früheren Kirche aus dem 17. Jh. errichtet", "Hier fand 1804 eine feierliche Messe zur Unabhängigkeit statt", "Die Kuppel ist weithin über der Bucht der Stadt sichtbar"],
-      hu: ["A székesegyház egy korábbi, 17. századi templom romjaira épült", "1804-ben itt tartottak ünnepi misét a függetlenség tiszteletére", "A kupola messziről látható a város öble felett"],
-      ro: ["Catedrala a fost construită pe ruinele unei biserici anterioare din sec. XVII", "Aici a avut loc o slujbă solemnă pentru independență în 1804", "Cupola este vizibilă de la mare distanță deasupra golfului orașului"],
-      en: ["The current structure stands on a site used for worship since the late 1600s", "It has survived multiple fires and earthquakes that reshaped the city's skyline", "The interior features notable religious art and stained glass from the colonial and early republican eras"]
-    },
-    historyYear: 1670, image: "/poi-images/ht-cathedralcap.webp"},
-  {
+    {
     id: "ht-fortcrete",
     type: "historical",
     parent: "HT",

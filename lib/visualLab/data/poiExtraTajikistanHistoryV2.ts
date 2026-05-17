@@ -289,43 +289,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
       en: ["Origins: 6th–5th century BCE, possibly founded by Cyrus the Great.", "Rebuilt: 1866–1868 as Russian garrison.", "Walls: 10 m high, 5 m thick, mud-brick.", "Area: 2 hectares, 5 bastions.", "Museum: opened 1986, holds 3000 artifacts.", "Destruction: 1219 by Mongols, later rebuilt."],
     },
   },
-  {
-    id: "tj-ali-hamadani-mausoleum-history-v2",
-    type: "monument",
-    parent: "TJ-KT",
-    coords: [69.7825, 37.9103],
-    name: {
-      de: "Mausoleum von Mir Sayyid Ali Hamadani",
-      hu: "Mir Szajjid Ali Hamadani mauzóleuma",
-      ro: "Mausoleul lui Mir Sayyid Ali Hamadani",
-      en: "Mir Sayyid Ali Hamadani Mausoleum"},
-    image: "/poi-images/tj-ali-hamadani-mausoleum-history-v2.webp",
-    description: {
-      de: "Dieses Pilgerziel im Zentrum von Kulob ehrt einen der bedeutendsten persischen Sufi-Gelehrten.",
-      hu: "Ez a Kulob központjában található zarándokhely az egyik legjelentősebb perzsa szúfi tudóst tiszteli.",
-      ro: "Această destinație de pelerinaj din centrul orașului Kulob onorează unul dintre cei mai importanți erudiți sufiți persani.",
-      en: "This pilgrimage destination in the center of Kulob honors one of the most important Persian Sufi scholars."
-    },
-    facts: {
-      de: ["Der Gelehrte brachte den Islam nach Kaschmir.", "Das Bauwerk stammt aus dem 14. Jahrhundert."],
-      hu: ["A tudós vitte el az iszlámot Kasmírba.", "Az építmény a 14. századból származik."],
-      ro: ["Eruditul a adus islamul în Kashmir.", "Structura datează din secolul al XIV-lea."],
-      en: ["The scholar brought Islam to Kashmir.", "The structure dates back to the 14th century."]
-    }, image: "/poi-images/tj-ali-hamadani-mausoleum-history-v2.webp",
-    descriptionAdvanced: {
-      de: "Das Mausoleum des Mir Sayyid Ali Hamadani in Kulob, Tadschikistan, ist dem persischen Mystiker und Dichter gewidmet, der im 14. Jahrhundert lebte. Hamadani war ein einflussreicher Sufi-Meister und Missionar, der den Islam in Kaschmir verbreitete. Das Mausoleum, im 15. Jahrhundert erbaut, zeigt eine typisch timuridische Architektur mit einer Kuppel und aufwändigen Fliesenarbeiten. Es ist ein wichtiges Pilgerziel. Der Komplex umfasst auch eine Moschee und einen Garten. Hamadani starb 1384 in Kulob auf einer Reise.",
-      hu: "Mir Szajjid Ali Hamadani mauzóleuma Kulobban, Tadzsikisztánban található. Hamadani 14. századi perzsa misztikus, a szufizmus egyik fontos alakja. Ő terjesztette el az iszlámot Kasmírban. Sírja a 15. században épült, timurida stílusban, kék csempézéssel és kupolával. A síremlék ma is népszerű zarándokhely. Mellette mecset és udvar található. A mauzóleumot 2000-ben restaurálták.",
-      ro: "Mausoleul lui Mir Sayyid Ali Hamadani se află în Kulob, Tadjikistan, și este dedicat misticului persan din secolul XIV, cunoscut pentru răspândirea islamului în Kashmir. Construit în secolul XV, mausoleul prezintă o cupolă și faianță glazurată specific timuridă. Este un important loc de pelerinaj. La interior, se află un sarcofag de marmură. Complexul include o moschee și o curte interioară. A fost restaurat în anul 2000.",
-      en: "The Mausoleum of Mir Sayyid Ali Hamadani in Kulob, Tajikistan, honors the 14th-century Persian Sufi saint and poet. Hamadani played a key role in spreading Islam in Kashmir. The mausoleum was built in the 15th century, featuring a typical Timurid dome and blue tilework. It serves as a major pilgrimage site. The complex includes a mosque and a garden. Hamadani died in Kulob in 1384 CE. The site was renovated in 2000.",
-    },
-    factsAdvanced: {
-      de: ["Lebensdaten: 1304–1384 n. Chr., geboren in Hamadan, Iran.", "Mausoleum erbaut: 15. Jahrhundert, möglicherweise 1430.", "Kuppeldurchmesser: 12 Meter, Höhe 18 Meter.", "Fliesen: 10.000 handgefertigte Kacheln, geometrische Muster.", "Pilger: jährlich ca. 50.000 Besucher.", "Restaurierung: 2000, mit Unterstützung des Iran."],
-      hu: ["Élet: 1304–1384, perzsa szúfi misztikus.", "Mauzóleum: 15. század, timurida.", "Kupola: 12 m átmérő, 18 m magas.", "Csempe: 10 000 db kék és türkiz csempe.", "Zarándokok: évi 50 000.", "Felújítás: 2000-ben Irán támogatásával."],
-      ro: ["Viața: 1304–1384 d.Hr., mistic persan.", "Construire: secolul XV, probabil 1430.", "Dom: diametru 12 m, înălțime 18 m.", "Faianță: 10.000 de plăci smălțuite.", "Pelerini: 50.000 anual.", "Restaurare: 2000, finanțată de Iran."],
-      en: ["Lifespan: 1304–1384 CE, born in Hamadan, Iran.", "Mausoleum built: 15th century, around 1430.", "Dome: 12 m diameter, 18 m high.", "Tiles: 10,000 handmade glazed tiles.", "Pilgrims: estimated 50,000 per year.", "Restoration: 2000, funded by Iran."],
-    },
-  },
-  {
+    {
     id: "tj-khoja-mashkhad-history-v2",
     type: "historical-site",
     parent: "TJ-KT",
@@ -397,43 +361,7 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
       en: ["Built: 6th–8th century CE.", "Hill height: 40 m above plain.", "Area: 1.5 hectares, including two citadels.", "Walls: 3 m thick, up to 8 m high.", "Reservoir: 10×5 m, stone-lined.", "Excavations: 1980s, yielded 5000 pottery fragments."],
     },
   },
-  {
-    id: "tj-ismoil-somoni-monument-history-v2",
-    type: "monument",
-    parent: "TJ-DU",
-    coords: [68.7848, 38.5739],
-    name: {
-      de: "Ismoil-Somoni-Denkmal",
-      hu: "Iszmoil Szomoni-emlékmű",
-      ro: "Monumentul Ismoil Somoni",
-      en: "Ismoil Somoni Monument"},
-    image: "/poi-images/tj-ismoil-somoni-monument-history-v2.webp",
-    description: {
-      de: "Das prunkvolle Denkmal im Herzen von Duschanbe ehrt den Gründer der Samaniden-Dynastie.",
-      hu: "A Dusanbe szívében található pompás emlékmű a Számánida-dinasztia alapítójának állít emléket.",
-      ro: "Monumentul grandios din inima orașului Dușanbe îl onorează pe fondatorul dinastiei Samanizilor.",
-      en: "The magnificent monument in the heart of Dushanbe honors the founder of the Samanid dynasty."
-    },
-    facts: {
-      de: ["Das Monument ist über 25 Meter hoch.", "Gilt als Symbol der nationalen Identität."],
-      hu: ["Az emlékmű több mint 25 méter magas.", "A nemzeti identitás szimbólumának tekintik."],
-      ro: ["Monumentul are o înălțime de peste 25 de metri.", "Este considerat un simbol al identității naționale."],
-      en: ["The monument is over 25 meters high.", "Considered a symbol of national identity."]
-    }, image: "/poi-images/tj-ismoil-somoni-monument-history-v2.webp",
-    descriptionAdvanced: {
-      de: "Das Ismoil-Somoni-Monument in Duschanbe wurde 1999 errichtet und ehrt den Gründer des samanidischen Reiches. Die 25 Meter hohe vergoldete Statue zeigt Somoni mit einer Krone und einem Zepter. Sie steht auf einem Sockel mit Reliefs, die Szenen aus der Geschichte Tadschikistans darstellen. Der Platz ist ein zentraler Ort für nationale Feierlichkeiten. Das Denkmal symbolisiert die nationale Identität und den Stolz auf die samanidische Ära. Es ersetzte 1999 eine Lenin-Statue.",
-      hu: "Az Ismoil Somoni-emlékmű Dusanbéban 1999-ben készült, a Szamanida Birodalom alapítójának tiszteletére. A 25 méteres aranyozott szobor Somonit ábrázolja koronával és jogarral. A talapzaton domborművek mutatják be a tadzsik nép történelmét. A tér nemzeti ünnepek helyszíne. A szobor a tadzsik nemzeti identitás szimbóluma. Korábban itt Lenin szobra állt.",
-      ro: "Monumentul lui Ismoil Somoni din Dușanbe a fost ridicat în 1999 în onoarea întemeietorului Imperiului Samanid. Statuia aurită de 25 m îl înfățișează pe Somoni cu coroană și sceptru. Sociul are basoreliefuri cu scene istorice. Piața este folosită pentru ceremonii naționale. Monumentul este un simbol al identității tadjice. A înlocuit o statuie a lui Lenin.",
-      en: "The Ismoil Somoni Monument in Dushanbe was erected in 1999 to honor the founder of the Samanid Empire. The 25-meter gilded statue depicts Somoni wearing a crown and holding a scepter. The pedestal features reliefs illustrating Tajik history. The square is used for national celebrations. The monument replaced a Lenin statue and symbolizes Tajik national identity.",
-    },
-    factsAdvanced: {
-      de: ["Errichtet: 1999, zum 1100. Jahrestag des Samanidenreiches.", "Höhe: 25 m (Skulptur), 40 m (einschließlich Sockel).", "Gewicht: 42 Tonnen, vergoldet mit Blattgold.", "Sockelmaterial: Granit und Bronzereliefs.", "Standort: 38.5598° N, 68.7864° O, im Zentrum Duschambes.", "Kosten: 5 Millionen US-Dollar (Schätzung)."],
-      hu: ["Építés: 1999, a Szamanida Birodalom 1100. évfordulójára.", "Magasság: 25 m (szobor), 40 m (talapzattal).", "Súly: 42 tonna, aranyozott.", "Talapzat: gránit, bronz domborművekkel.", "Hely: 38.5598° É, 68.7864° K, központi tér.", "Költség: kb. 5 millió USD."],
-      ro: ["Ridicat: 1999, la 1100 de ani de la imperiul samanid.", "Înălțime: 25 m (statuia), 40 m (cu soclu).", "Greutate: 42 tone, aurit cu foiță de aur.", "Soclul: granit, cu basoreliefuri din bronz.", "Locație: 38.5598°N, 68.7864°E, centrul orașului.", "Cost: 5 milioane USD (estimat)."],
-      en: ["Erected: 1999, for 1100th anniversary of Samanid Empire.", "Height: 25 m (statue), 40 m (total with pedestal).", "Weight: 42 tons, gilded with gold leaf.", "Pedestal: granite with bronze reliefs.", "Location: 38.5598°N, 68.7864°E, central Dushanbe.", "Cost: estimated 5 million USD."],
-    },
-  },
-  {
+    {
     id: "tj-rudaki-monument-history-v2",
     type: "monument",
     parent: "TJ-DU",

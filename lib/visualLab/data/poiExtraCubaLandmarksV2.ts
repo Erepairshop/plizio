@@ -83,34 +83,7 @@ export const poiExtraCubaLandmarksV2: POI[] = [
       en: ["One of the oldest cathedrals in the Americas, built in baroque style on the Cathedral Plaza.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub.", "The region is closely tied to tobacco, sugarcane and coffee cultivation."]
     }
   },
-  {
-    id: "cuba-landmarks-v2-04",
-    type: "landmark",
-    parent: "CU-03",
-    coords: [-82.358, 23.136],
-    name: { de: "Museum der Revolution", hu: "Forradalom Múzeuma", ro: "Muzeul Revoluției", en: "Museum of the Revolution"},
-    image: "/poi-images/cuba-landmarks-v2-04.webp",
-    description: { de: "Untergebracht im ehemaligen Präsidentenpalast, dokumentiert es die Geschichte der Revolution.", hu: "Az egykori elnöki palotában kapott helyet, a forradalom történetét mutatja be.", ro: "Găzduit în fostul palat prezidențial, documentează istoria revoluției.", en: "Housed in the former Presidential Palace, it documents the history of the revolution." },
-    facts: {
-      de: ["Das Gebäude wurde 1920 eingeweiht", "Ausstellung beinhaltet die Yacht Granma", "Prächtiger Spiegelsaal im Inneren"],
-      hu: ["Az épületet 1920-ban avatták fel", "A kiállításon látható a Granma jacht", "Pompás tükörterem található benne"],
-      ro: ["Clădirea a fost inaugurată în 1920", "Expoziția include iahtul Granma", "Sală a oglinzilor splendidă la interior"],
-      en: ["Building inaugurated in 1920", "Exhibition includes the Granma yacht", "Magnificent Hall of Mirrors inside"]
-    }, image: "/poi-images/cuba-landmarks-v2-04.webp",
-    descriptionAdvanced: {
-      de: "Untergebracht im ehemaligen Präsidentenpalast, dokumentiert es die Geschichte der Revolution. Das Gebäude wurde 1920 eingeweiht. Ausstellung beinhaltet die Yacht Granma. Prächtiger Spiegelsaal im Inneren. Damit zählt der Ort zu den charakteristischen Punkten der karibischen Inselrepublik Kuba und spiegelt die Verbindung von Geschichte, Tabak- und Zuckerrohranbau sowie tropischer Natur wider. Liegt im karibischen Inselstaat Kuba. Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit. Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes. Region ist eng mit dem Anbau von Tabak, Zuckerrohr und Kaffee verbunden.",
-      hu: "Az egykori elnöki palotában kapott helyet, a forradalom történetét mutatja be. Az épületet 1920-ban avatták fel. A kiállításon látható a Granma jacht. Pompás tükörterem található benne. Ezzel a hely Kuba, a karibi szigetállam egyik jellegzetes pontja, amely a történelem, a dohány- és cukornádtermesztés, valamint a trópusi természet összefonódását tükrözi. A karibi térség legnagyobb szigetországában, Kubában fekszik. Trópusi-nedves éghajlat jellemzi, kifejezett esős és száraz évszakkal. Az ország politikai és kulturális központja a főváros, Havanna. A régió szorosan kötődik a dohány-, cukornád- és kávétermesztéshez.",
-      ro: "Găzduit în fostul palat prezidențial, documentează istoria revoluției. Clădirea a fost inaugurată în 1920. Expoziția include iahtul Granma. Sală a oglinzilor splendidă la interior. Astfel, locul se numără printre punctele caracteristice ale Cubei, statul insular caraibian, reflectând împletirea dintre istorie, cultivarea tutunului și a trestiei de zahăr și natura tropicală. Este situat în Cuba, cel mai mare stat insular din Caraibe. Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate. Capitala Havana este centrul politic și cultural al țării.",
-      en: "Housed in the former Presidential Palace, it documents the history of the revolution. Building inaugurated in 1920. Exhibition includes the Granma yacht. Magnificent Hall of Mirrors inside. Thus, the site is among the characteristic points of Cuba, the Caribbean island nation, reflecting the interplay of history, tobacco and sugarcane cultivation, and tropical nature. Located in Cuba, the largest island state in the Caribbean. Tropical-humid climate with distinct wet and dry seasons. Havana, the capital, is the country's political and cultural hub."
-    },
-    factsAdvanced: {
-      de: ["Untergebracht im ehemaligen Präsidentenpalast, dokumentiert es die Geschichte der Revolution.", "Liegt im karibischen Inselstaat Kuba.", "Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit.", "Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes.", "Region ist eng mit dem Anbau von Tabak, Zuckerrohr und Kaffee verbunden."],
-      hu: ["Az egykori elnöki palotában kapott helyet, a forradalom történetét mutatja be.", "A karibi térség legnagyobb szigetországában, Kubában fekszik.", "Trópusi-nedves éghajlat jellemzi, kifejezett esős és száraz évszakkal.", "Az ország politikai és kulturális központja a főváros, Havanna.", "A régió szorosan kötődik a dohány-, cukornád- és kávétermesztéshez."],
-      ro: ["Găzduit în fostul palat prezidențial, documentează istoria revoluției.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării.", "Regiunea este strâns legată de cultura tutunului, a trestiei de zahăr și a cafelei."],
-      en: ["Housed in the former Presidential Palace, it documents the history of the revolution.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub.", "The region is closely tied to tobacco, sugarcane and coffee cultivation."]
-    }
-  },
-  {
+    {
     id: "cuba-landmarks-v2-05",
     type: "landmark",
     parent: "CU-03",

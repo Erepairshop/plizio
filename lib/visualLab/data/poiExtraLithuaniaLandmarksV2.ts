@@ -477,41 +477,7 @@ imageHint: "Lithuanian Museum of Ethnocosmology futuristic building",
       en: []
     }
     , image: "/poi-images/lithuania-museum-ethnocosmology-landmarks-v2.webp",
-},  {
-    id: "lithuania-treetop-walking-path-landmarks-v2",
-    parent: "LT",
-    type: "landmark",
-    name: { de: "Baumkronenpfad Anykščiai", hu: "Anykščiai lombkorona-sétány", ro: "Traseul prin coronamentul arborilor", en: "Anykščiai Treetop Walking Path"},
-    image: "/poi-images/lithuania-treetop-walking-path-landmarks-v2.webp",
-    coords: [25.06, 55.4853],
-    coords: [25.06, 55.4853],
-    description: {
-      de: "Ein moderner Aussichtspfad, der sich durch die Baumwipfel des Anykščiai-Waldes schlängelt. Die Stahlkonstruktion bietet Besuchern die Möglichkeit, die Natur aus einer Höhe von bis zu 21 Metern zu erleben.",
-      hu: "Modern kilátóösvény, amely az Anykščiai-erdő lombkoronái között kanyarog. Az acélszerkezet lehetővé teszi a látogatók számára, hogy akár 21 méteres magasságból szemléljék a természetet.",
-      ro: "Un traseu modern de observare care șerpuiește prin coronamentul pădurii Anykščiai. Structura de oțel oferă vizitatorilor șansa de a vedea natura de la 21 de metri înălțime.",
-      en: "A modern observation path winding through the treetops of the Anykščiai forest. The steel structure allows visitors to experience nature from a height of up to 21 meters.",
-    },
-    facts: {
-      de: ["Pfadlänge beträgt 300 Meter", "Aussichtsturm ist 34 Meter hoch", "Erster seiner Art im Baltikum", "Blick auf den Fluss Šventoji"],
-      hu: ["A sétány hossza 300 méter", "A kilátótorony 34 méter magas", "Az első ilyen jellegű út a Baltikumban", "Kilátás nyílik a Šventoji folyóra"],
-      ro: ["Lungimea traseului este de 300 metri", "Turnul are 34 de metri înălțime", "Primul de acest fel din Țările Baltice", "Vedere asupra râului Šventoji"],
-      en: ["Path length is 300 meters", "Observation tower is 34 meters high", "First of its kind in the Baltics", "View of the Šventoji River"],
-    },
-imageHint: "Anyksciai treetop walking path forest view",
-    descriptionAdvanced: {
-      de: "Der Baumkronenpfad von Anykščiai, der im Jahr 2015 eröffnet wurde, ist der erste seiner Art im gesamten Baltikum und in Osteuropa. Diese architektonisch beeindruckende Stahl- und Holzkonstruktion windet sich auf einer Länge von 300 Metern sanft durch den dichten Pinienwald des Anykščiai-Regionalparks. Besucher beginnen ihren Spaziergang in Bodennähe und steigen allmählich auf das Niveau der Baumkronen auf, bis sie eine Höhe von 21 Metern erreichen. Der Höhepunkt des Pfades ist der 34 Meter hohe Aussichtsturm, dessen Design von traditionellen litauischen Bändern mit ethnografischen Mustern inspiriert wurde. Von der obersten Plattform aus bietet sich den Besuchern ein atemberaubender Panoramablick auf das Tal des Flusses Šventoji und die Baumspitzen, die den berühmten litauischen Schriftsteller Antanas Baranauskas zu seinem Meisterwerk \"Der Wald von Anykščiai\" inspirierten. Entlang des Pfades informieren zudem zahlreiche interaktive Schautafeln über die lokale Flora und Fauna.",
-      hu: "A 2015-ben megnyitott Anykščiai lombkorona-sétány az első ilyen jellegű építmény a Baltikumban és Kelet-Európában. Ez az építészetileg is lenyűgöző, acélból és fából készült szerkezet 300 méter hosszan kanyarog az Anykščiai Regionális Park sűrű fenyőerdejében. A látogatók a talajszinten kezdik sétájukat, és fokozatosan emelkednek fel a lombkoronák szintjére, egészen 21 méteres magasságig. Az ösvény fénypontja a 34 méter magas kilátótorony, amelynek dizájnját hagyományos, néprajzi mintákkal díszített litván szalagok ihlették. A legfelső platformról lélegzetelállító panoráma nyílik a Šventoji folyó völgyére és arra az erdőre, amely Antanas Baranauskas híres litván írót is megihlette \"Az anykščiai erdő\" című mesterművének megírásakor. Az ösvény mentén számos interaktív információs tábla nyújt ismereteket a helyi növény- és állatvilágról.",
-      ro: "Traseul prin coronamentul arborilor din Anykščiai, deschis în 2015, este primul de acest fel din întreaga regiune baltică și din Europa de Est. Această structură impresionantă din oțel și lemn se șerpuiește ușor pe o lungime de 300 de metri prin pădurea deasă de pini a Parcului Regional Anykščiai. Vizitatorii își încep plimbarea la nivelul solului și urcă treptat până la nivelul coronamentului, atingând o înălțime de 21 de metri. Punctul culminant al traseului este turnul de observare înalt de 34 de metri, al cărui design a fost inspirat de panglicile tradiționale lituaniene cu modele etnografice. De pe platforma superioară, vizitatorii au o vedere panoramică uluitoare asupra văii râului Šventoji și a vârfurilor copacilor care l-au inspirat pe celebrul scriitor lituanian Antanas Baranauskas pentru capodopera sa \"Pădurea Anykščiai\". De-a lungul traseului, numeroase panouri interactive oferă informații despre flora și fauna locală.",
-      en: "The Anykščiai Treetop Walking Path, opened in 2015, holds the distinction of being the first of its kind in the Baltic States and Eastern Europe. This architecturally impressive steel and wood structure winds gracefully for 300 meters through the dense pine forest of the Anykščiai Regional Park. Visitors begin their walk near the ground and gradually ascend to the level of the tree canopy, reaching a height of up to 21 meters. The culmination of the path is a 34-meter-high observation tower, its design inspired by traditional Lithuanian sashes adorned with ethnographic motifs. From the topmost platform, visitors are rewarded with breathtaking panoramic views of the Šventoji River valley and the treetops that famously inspired Lithuanian writer Antanas Baranauskas to pen his literary masterpiece, \"The Forest of Anykščiai.\" Along the walkway, numerous interactive information boards educate visitors about the local flora and fauna."
-    },
-    factsAdvanced: {
-      de: ["Opened to the public in August 2015 as the first in the Baltics", "The entire pathway is exactly 300 meters long", "Pathway reaches a maximum height of 21 meters among the trees", "The main observation tower stands at a height of 34 meters", "Constructed using 395 tons of metal and 1,500 cubic meters of concrete", "Tower design incorporates traditional Lithuanian ethnographic patterns", "Fully accessible for visitors with disabilities and baby strollers"],
-      hu: [],
-      ro: [],
-      en: []
-    }
-    , image: "/poi-images/lithuania-treetop-walking-path-landmarks-v2.webp",
-},  {
+},    {
     id: "lithuania-uzupis-angel-landmarks-v2",
     parent: "LT",
     type: "monument",

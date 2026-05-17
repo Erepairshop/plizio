@@ -3,56 +3,7 @@
 import type { POI } from "./poi";
 
 export const poiExtraAustriaLife: POI[] = [
-  {
-    id: "animal-habitat-alpenzoo-innsbruck-extra",
-    type: "animal-habitat",
-    parent: "AT-7",
-    coords: [11.40, 47.28],
-    name: { de: "Alpenzoo Innsbruck", hu: "Innsbrucki Alpesi Állatkert", ro: "Grădina Zoologică Alpină Innsbruck", en: "Alpine Zoo Innsbruck" },
-    description: {
-      de: "Europas höchstgelegener Zoo, der sich auf die Fauna der Alpen spezialisiert hat und über 2000 Tiere von 150 Arten beherbergt.",
-      hu: "Európa legmagasabban fekvő állatkertje, amely az Alpok állatvilágára szakosodott, és 150 faj 2000-nél is több állatának ad otthont.",
-      ro: "Cea mai înaltă grădină zoologică din Europa, specializată în fauna alpină, găzduiește peste 2000 de animale din 150 de specii.",
-      en: "Europe's highest-altitude zoo, specializing in Alpine fauna, housing over 2000 animals of 150 species."
-    },
-    facts: {
-      de: ["Fokus auf bedrohte Alpentierarten.", "Bietet spektakuläre Ausblicke auf Innsbruck und die Nordkette.", "Erfolgreiche Zuchtprogramme für Steinböcke, Bartgeier und Waldrappe."],
-      hu: ["Fókuszban a veszélyeztetett alpesi állatfajok.", "Látványos kilátást nyújt Innsbruckra és a Nordkette hegyvonulatra.", "Sikeres tenyésztési programok kőszáli kecskékre, szakállas saskeselyűkre és tarvarjakra."],
-      ro: ["Accent pe speciile de animale alpine pe cale de dispariție.", "Oferă vederi spectaculoase asupra Innsbruckului și lanțului montan Nordkette.", "Programe de reproducere de succes pentru ibex, zăgan și ibis chel."],
-      en: ["Focus on endangered Alpine animal species.", "Offers spectacular views of Innsbruck and the Nordkette mountain range.", "Successful breeding programs for ibex, bearded vultures, and bald ibises."]
-    },
-    descriptionAdvanced: {
-      de: "Der Alpenzoo Innsbruck ist in seiner Konzeption weltweit einzigartig, da er sich ausschließlich der Präsentation und dem Erhalt der alpinen Tierwelt widmet. Auf einer Höhe von 750 Metern am Fuß der beeindruckenden Nordkette gelegen, bietet er nicht nur seltene Einblicke in das Leben von Braunbären, Wölfen, Luchsen und Steinadlern, sondern besticht auch durch eine spektakuläre Aussicht auf die Tiroler Landeshauptstadt. Die großzügigen, naturnahen Gehege und Volieren sind in das steile Berggelände integriert und simulieren die natürlichen Lebensräume der Tiere. Besonders bemerkenswert ist das Engagement des Zoos für Artenschutz und Auswilderungsprojekte, wie etwa für den Waldrapp oder den Bartgeier. Ein Kaltwasseraquarium, das größte seiner Art weltweit für alpine Fischarten, rundet das Erlebnis ab. Sachkunde K3 — Tiere und ihre Lebensräume in den Alpen.",
-      hu: "Az Innsbrucki Alpesi Állatkert (Alpenzoo Innsbruck) Európa egyik legmagasabban fekvő állatkertje, amely mintegy 750 méteres tengerszint feletti magasságban, a Nordkette hegyoldalában található. Világszerte egyedülálló, hiszen kizárólag az Alpok élővilágára, mintegy 150 európai hegyvidéki fajra koncentrál. Olyan ritka és gyakran rejtőzködő állatokat láthatnak itt testközelből, mint a kőszáli kecske, a mormota, a zerge, a szakállas saskeselyű, valamint barna medvék, farkasok és hiúzok. Az állatkert nemcsak turisztikai látványosság, hanem kiemelkedő szerepet játszik a veszélyeztetett alpesi fajok, például a saskeselyű visszatelepítési programjaiban is. Biológia K5 – alpesi ökoszisztémák és vadvédelem.",
-      ro: "Grădina Zoologică Alpină din Innsbruck (Alpenzoo) oferă o experiență unică a faunei sălbatice europene, fiind situată spectaculos pe versanții muntelui Nordkette, la peste 700 de metri altitudine. Fiind grădina zoologică la cea mai înaltă altitudine din Europa, se dedică exclusiv animalelor sălbatice native din ecosistemele montane, inclusiv urși bruni, lupi, râși, capre ibex și acvile de munte. În plus față de rolul său ca parc tematic, grădina este un efort continuu de conservare și reproducere a speciilor periclitate la nivel mondial, contribuind semnificativ la programele de reintroducere a zăganului (vulturul bărbos) și a ibexului în zonele alpine.",
-      en: "Perched at an altitude of 750 meters on the sunny slopes of the Nordkette mountain range, the Alpenzoo Innsbruck is Europe's highest-themed zoo, offering a unique focus on Alpine fauna. Founded in 1962, the zoo provides a home to over 2,000 animals from 150 species, including brown bears, wolves, lynx, ibex, and marmots, all housed in spacious, naturalistic enclosures that replicate their native habitats. The zoo plays a crucial role in conservation, running successful breeding and reintroduction programs for endangered species like the bearded vulture and the northern bald ibis. Beyond the animals, the zoo offers breathtaking panoramic views of Innsbruck and the Inn valley, making it a spectacular visit. It's easily accessible from the city center via the Hungerburg funicular."
-    },
-    factsAdvanced: {
-      de: [
-        "Das Kaltwasseraquarium beherbergt seltene und endemische alpine Fischarten in kristallklarem Wasser.",
-        "Die naturnahe Gestaltung erfordert von Besuchern oft Geduld, um scheue Tiere wie den Luchs zu entdecken.",
-        "Der Alpenzoo ist über die moderne Hungerburgbahn direkt aus der Altstadt von Innsbruck erreichbar.",
-        "Ein Schaustall informiert über alte Tiroler Nutztierrassen und traditionelle landwirtschaftliche Methoden."
-      ],
-      hu: [
-        "Európa egyik legmagasabban fekvő állatkertje, egyenesen Innsbruck felett a hegyoldalban.",
-        "Több mint 2000 alpesi állatnak ad otthont, képviselve 150 őshonos hegyvidéki fajt.",
-        "Az Alpenzoo kulcsszerepet játszott a kihaltnak hitt szakállas saskeselyű megmentésében.",
-        "Kizárólag az Alpok állatvilágára fókuszál, egzotikus trópusi fajok nélkül."
-      ],
-      ro: ["Alpenzoo din Innsbruck este grădina zoologică situată la cea mai mare altitudine din toată Europa (750 metri).", "Găzduiește peste 2.000 de animale reprezentând aproape 150 de specii diferite native din mediul alpin.", "Este un jucător global vital în reintroducerea cu succes a zăganului în masivul muntos din Alpi.", "Multe dintre incinte sunt construite direct în deal, folosind stâncile abrupte ale peretelui muntos Nordkette."],
-      en: [
-        "The zoo covers an area of 4.1 hectares.",
-        "Its cold-water aquarium holds the world's largest collection of Alpine fish species.",
-        "The founder of the zoo was Austrian zoologist Hans Psenner.",
-        "In the bear cave, visitors can observe brown bears through a glass wall.",
-        "The 'Schaustall' (Show Barn) presents a historic Tyrolean farm with domestic animals.",
-        "The zoo is a member of the World Association of Zoos and Aquariums (WAZA).",
-        "The northern bald ibis was one of the most successfully reintroduced bird species, with the zoo playing a key role.",
-        "A wolf pack also lives at the zoo and can be observed from a viewing tower."
-      ]
-    }, image: "/poi-images/animal-habitat-alpenzoo-innsbruck-extra.webp"},
-  {
+    {
     id: "kid-landmark-minimundus-extra",
     type: "kid-landmark",
     parent: "AT-2",

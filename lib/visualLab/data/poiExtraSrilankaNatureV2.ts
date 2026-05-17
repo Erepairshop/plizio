@@ -406,34 +406,7 @@ export const poiExtraSrilankaNatureV2: POI[] = [
       en: ["Elevation is 2,524 m (8,281 ft).", "It is the highest peak in Sri Lanka.", "Located in the Central Province near Nuwara Eliya.", "Average annual temperature around 10 °C.", "Summit covered in montane cloud forest.", "The mountain is part of the central highlands."],
     },
   },
-  {
-    id: "knuckles-mountain-range-nature-v2",
-    type: "mountain",
-    parent: "LK-21",
-    coords: [80.783, 7.391],
-    name: { de: "Knuckles-Gebirge", hu: "Knuckles-hegység", ro: "Munții Knuckles", en: "Knuckles Mountain Range"},
-    image: "/poi-images/knuckles-mountain-range-nature-v2.webp",
-    description: { de: "Ein bedeutender Ökotourismusort in Sri Lanka, der seinen Namen trägt, weil seine schroffen Gipfel an die Knöchel einer geballten Faust erinnern.", hu: "Srí Lanka egyik legfontosabb ökoturisztikai célpontja, amely a nevét a szorított ököl ujjperceire emlékeztető zord csúcsairól kapta.", ro: "Un loc major de ecoturism din Sri Lanka, denumit astfel deoarece vârfurile sale abrupte seamănă cu încheieturile unui pumn strâns.", en: "A major eco-tourism site in Sri Lanka, so named because its rugged peaks resemble the knuckles of a clenched fist." },
-    facts: {
-      de: ["Teil des Weltkulturerbes des zentralen Hochlandes", "Sehr hohe Biodiversität"],
-      hu: ["A Középső Felföld Világörökség része", "Nagyon magas biológiai sokféleség"],
-      ro: ["Face parte din Patrimoniul Mondial al zonelor muntoase centrale", "Biodiversitate foarte mare"],
-      en: ["Part of Central Highlands World Heritage Site", "Very high biodiversity"]
-    }, image: "/poi-images/knuckles-mountain-range-nature-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Knuckles-Bergkette im zentralen Hochland Sri Lankas ist ein UNESCO-Weltnaturerbe und erstreckt sich über eine Fläche von etwa 155 km². Sie besteht aus einer Reihe von Gipfeln, die an die Finger eines gefalteten Handknöchels erinnern, daher der Name. Die Region ist bekannt für ihre artenreiche Flora und Fauna mit vielen endemischen Arten. Die höchste Erhebung ist der Kirigalpoththa mit 2.389 m. Das Gebiet ist ein wichtiges Wassereinzugsgebiet für den Mahaweli-Fluss. Wanderungen sind sehr beliebt.",
-      hu: "A Knuckles-hegylánc Srí Lanka középső hegyvidékén található, az UNESCO Világörökség része, területe körülbelül 155 km². Egy sor csúcsból áll, amelyek összehajtott kéz ujjaira emlékeztetnek, innen a név. A régió gazdag növény- és állatvilágáról ismert, számos endemikus fajjal. A legmagasabb pont a Kirigalpoththa (2.389 m). A terület fontos vízgyűjtő a Mahaweli folyó számára. A túrázás nagyon népszerű.",
-      ro: "Lanțul muntos Knuckles din zonele înalte centrale ale Sri Lankăi este un sit al Patrimoniului Mondial UNESCO, întinzându-se pe aproximativ 155 km². Este format dintr-o serie de vârfuri care amintesc de degetele unei mâini îndoite, de unde și numele. Regiunea este cunoscută pentru flora și fauna sa bogată, cu multe specii endemice. Cel mai înalt vârf este Kirigalpoththa cu 2.389 m. Zona este un important bazin hidrografic pentru râul Mahaweli. Drumețiile sunt foarte populare.",
-      en: "The Knuckles Mountain Range, a UNESCO World Heritage site, spans about 155 km² in Sri Lanka's central highlands. Its jagged peaks resemble the knuckles of a fist. The range includes several peaks above 2,000 m, with Kirigalpoththa being the highest at 2,389 m. It harbors a remarkable biodiversity, with endemic reptiles, amphibians, and plants. The area is a major water catchment for the Mahaweli River. It offers challenging trekking trails through cloud forests and grasslands.",
-    },
-    factsAdvanced: {
-      de: ["Der höchste Gipfel ist der Kirigalpoththa mit 2.389 m.", "Die Bergkette erstreckt sich über 155 km².", "Es gibt 35 Säugetierarten, darunter Leoparden.", "Über 130 Vogelarten wurden registriert.", "Das Gebiet wurde 2010 zum UNESCO-Weltnaturerbe erklärt.", "Es gibt 5 Hauptgipfel über 2.000 m."],
-      hu: ["A legmagasabb csúcs a Kirigalpoththa (2.389 m).", "A hegylánc 155 km²-re terjed ki.", "35 emlősfaj él itt, köztük leopárd.", "Több mint 130 madárfajt regisztráltak.", "A terület 2010-ben lett UNESCO Világörökség.", "5 fő csúcs van 2.000 m felett."],
-      ro: ["Cel mai înalt vârf este Kirigalpoththa (2.389 m).", "Lanțul muntos se întinde pe 155 km².", "Există 35 de specii de mamifere, inclusiv leopardul.", "Peste 130 de specii de păsări au fost înregistrate.", "Zona a fost declarată Patrimoniu UNESCO în 2010.", "Există 5 vârfuri principale peste 2.000 m."],
-      en: ["Highest peak Kirigalpoththa at 2,389 m.", "The mountain range covers 155 km².", "Home to 35 mammal species, including leopards.", "Over 130 bird species recorded.", "Designated a UNESCO World Heritage site in 2010.", "There are 5 main peaks above 2,000 m."],
-    },
-  },
-  {
+    {
     id: "lake-beira-nature-v2",
     type: "lake",
     parent: "LK-11",

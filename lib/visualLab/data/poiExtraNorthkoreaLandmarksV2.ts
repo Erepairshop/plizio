@@ -374,38 +374,7 @@ export const poiExtraNorthkoreaLandmarksV2: POI[] = [
       ro: ["Muzeul original a fost deschis în 1953.", "Complexul a fost renovat și extins semnificativ în 2013."],
       en: ["The original museum was opened in 1953.", "The complex was renovated and significantly expanded in 2013."]
     }, image: "/poi-images/victorious-war-museum-landmarks-v2.webp"},
-  {
-    id: "myohyang-mountains-landmarks-v2",
-    type: "tourist-attraction",
-    parent: "KP-03",
-    coords: [126.333, 40.0],
-    name: {
-      de: "Myohyang-Gebirge",
-      hu: "Mjohjang-hegység",
-      ro: "Munții Myohyang",
-      en: "Myohyang Mountains"
-    ,
-    descriptionAdvanced: {
-      de: "Das Myohyang-Gebirge (Berg der geheimnisvollen Düfte) ist eines der schönsten Naturdenkmäler Nordkoreas und ein heiliger Ort. Die Region ist berühmt für ihre spitzen, nebelverhangenen Granitfelsen, dichten Pinienwälder und klaren Wasserfälle, die jahrhundertelang Maler und Dichter inspirierten. Der Sage nach war dieses Gebirge der Aufenthaltsort von Dangun, dem Stammvater Koreas. Heute lockt die Bergkette mit gut ausgebauten Wanderwegen Touristen an und beherbergt den historischen Pohyŏn-Tempel. Das Mikroklima und die unberührte Natur bieten einen starken Kontrast zur stark industrialisierten Umgebung der tiefer gelegenen Provinzen. Geografie K7 — Berge und Täler.",
-      hu: "A Mjohjang (Myohyang) hegység, vagyis a 'Rejtelmes Illatok Hegye' Észak-Korea egyik legszebb és legtiszteltebb természeti kincse, Észak-Phjongan tartományban. A hegylánc sűrű, illatos erdőkkel, drámai sziklaalakzatokkal és vízesések sorozatával (mint a híres Manphok-dong völgy) varázsolja el a látogatókat. A terület nemcsak természeti, hanem történelmi és politikai központ is. Az ősi, 11. századi Pohjon buddhista templom a völgyben bújik meg, míg a hegyoldalba fúrt hatalmas barlangrendszerek rejtik a Nemzetközi Barátság Kiállítást (International Friendship Exhibition). A hegység 2009 óta az UNESCO bioszféra-rezervátuma, megőrizve számos ritka állat- és növényfajt. Plizio tanterv: Földrajz K6 — nemzeti parkok, hegyvidéki bioszféra-rezervátumok.",
-      en: "The Myohyang Mountains, translating to 'Mysterious Fragrant Mountain,' are a sacred and stunningly beautiful mountain range located in North Pyongan Province. Historically, they are revered as the home of King Dangun, the mythological forefather of the Korean people. The area is heavily forested, featuring deep ravines, cascading waterfalls, and ancient Buddhist temples like Pohyon Temple. In modern times, the mountains gained immense prominence as the site of the International Friendship Exhibition, a massive complex built into the mountainside housing gifts presented to North Korean leaders by foreign dignitaries. Plizio Challenge: If a hiker ascends from 200 meters to a peak of 1,909 meters, what is the total vertical elevation gain?"},
-    factsAdvanced: {
-      hu: ["A Mjohjang-hegység neve 'Rejtelmes Illatok Hegyét' jelent.", "A terület 2009-ben megkapta az UNESCO Bioszféra Rezervátum minősítést.", "Itt található a Manphok-dong, a 'Tízezer Vízesés Völgye'.", "A hegy a 11. századi Pohjon templomnak, egy ősi buddhista központnak is otthont ad.", "A hegy belsejében alakították ki a hatalmas Nemzetközi Barátság Kiállítást.", "A hagyomány szerint a hegy a mitikus Dangun király egyik korai lakhelye volt."],
-      en: ["Sacred mountain range located in North Pyongan Province.", "Translates to 'Mysterious Fragrant Mountain' in English.", "Revered as the mythological home of King Dangun, the first Korean.", "Features stunning natural scenery including ravines and waterfalls.", "Home to the ancient and historic Pohyon Buddhist Temple.", "Hosts the massive underground International Friendship Exhibition.", "A major destination for domestic and international state-approved tourism."] } },
-    image: "/poi-images/myohyang-mountains-landmarks-v2.webp",
-    description: {
-      de: "Ein Gebirge, das für seine landschaftliche Schönheit bekannt ist und als einer der heiligsten Orte Koreas gilt. Es ist ein beliebtes Ziel für Touristen.",
-      hu: "Festői szépségéről ismert hegység, amelyet Korea egyik legszentebb helyének tartanak. A turisták kedvelt célpontja.",
-      ro: "Un lanț muntos renumit pentru frumusețea sa pitorească, considerat unul dintre cele mai sacre locuri din Coreea. Este o destinație turistică populară.",
-      en: "A mountain range known for its scenic beauty, considered one of Korea's most sacred places. It's a popular tourist destination."
-    },
-    facts: {
-      de: ["Der Name bedeutet 'Berg des geheimnisvollen Duftes'.", "Hier befindet sich die Internationale Freundschaftsausstellung."],
-      hu: ["A neve 'a titokzatos illat hegyét' jelenti.", "Itt található a Nemzetközi Barátság Kiállítás."],
-      ro: ["Numele înseamnă 'Muntele Parfumului Misterios'.", "Găzduiește Expoziția Internațională a Prieteniei."],
-      en: ["The name means 'Mysterious Fragrant Mountain'.", "It is home to the International Friendship Exhibition."]
-    }, image: "/poi-images/myohyang-mountains-landmarks-v2.webp"},
-  {
+    {
     id: "international-friendship-exhibition-landmarks-v2",
     type: "tourist-attraction",
     parent: "KP-03",

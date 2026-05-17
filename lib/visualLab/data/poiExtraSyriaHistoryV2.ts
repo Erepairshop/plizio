@@ -1,55 +1,7 @@
 import type { POI } from "./poi";
 
 export const poiExtraSyriaHistoryV2: POI[] = [
-  {
-    id: "sy-palmyra-history-v2",
-    type: "ruin",
-    parent: "SY-HI",
-    coords: [38.2678, 34.5539],
-    name: {
-      de: "Palmyra",
-      hu: "Palmyra",
-      ro: "Palmira",
-      en: "Palmyra"},
-    image: "/poi-images/sy-palmyra-history-v2.webp",
-    description: {
-      de: "Diese antike Oasenstadt war einst ein wichtiges Handelszentrum an der Seidenstraße. Ihre Ruinen zeugen von einer reichen römischen und aramäischen Vergangenheit.",
-      hu: "Ez az ősi oázisváros egykor fontos kereskedelmi központ volt a selyemúton. Romjai gazdag római és arámi múltról tanúskodnak.",
-      ro: "Acest antic oraș-oază a fost odată un important centru comercial pe Drumul Mătăsii. Ruinele sale stau mărturie unui bogat trecut roman și arameic.",
-      en: "This ancient oasis city was once an important trade center on the Silk Road. Its ruins bear witness to a rich Roman and Aramean past."
-    },
-    facts: {
-      de: [
-        "Blühte hauptsächlich im 2. und 3. Jahrhundert.",
-        "Königin Zenobia führte von hier aus eine Revolte."
-      ],
-      hu: [
-        "Főként a 2. és 3. században élte fénykorát.",
-        "Zenóbia királynő innen vezetett felkelést Róma ellen."
-      ],
-      ro: [
-        "A înflorit în principal în secolele al II-lea și al III-lea.",
-        "Regina Zenobia a condus o revoltă de aici."
-      ],
-      en: [
-        "Flourished mainly in the 2nd and 3rd centuries.",
-        "Queen Zenobia led a revolt from here."
-      ]
-    }, image: "/poi-images/sy-palmyra-history-v2.webp",
-    descriptionAdvanced: {
-      de: "Palmyra, auch bekannt als Tadmor, war eine antike Stadt in der syrischen Wüste, die als wichtiger Handelsknotenpunkt an der Seidenstraße diente. Die ältesten Siedlungsspuren reichen bis ins 3. Jahrtausend v. Chr. zurück. Ihre Blütezeit erlebte die Stadt im 1. bis 3. Jahrhundert n. Chr. unter der Herrschaft der Königin Zenobia. Die Ruinen umfassen den Baal-Tempel, den Großen Kolonnadeweg, das Theater und den Senat. Palmyra wurde 1980 zum UNESCO-Weltkulturerbe erklärt. Während des Bürgerkriegs erlitt die Stätte schwere Zerstörungen durch den IS, darunter die Sprengung des Baal-Tempels und des Triumphbogens. Seit 2019 werden Restaurierungsarbeiten durchgeführt, jedoch sind viele Denkmäler unwiederbringlich verloren.",
-      hu: "Palmüra (Tadmor) egy ősi város volt a szíriai sivatagban, a Selyemút fontos kereskedelmi csomópontja. A legkorábbi településnyomok a Kr. e. 3. évezredre nyúlnak vissza. Fénykorát az i. sz. 1–3. században élte, Zenobia királynő uralma alatt. A romok között található Baál temploma, az Oszlopos út, a színház és a szenátus. 1980-ban az UNESCO Világörökség részévé nyilvánította. A polgárháború alatt az IS súlyos károkat okozott, felrobbantva Baál templomát és a Diadalívet. 2019 óta helyreállítási munkálatok folynak, de számos emlék elveszett.",
-      ro: "Palmyra (Tadmor) a fost un oraș antic în deșertul sirian, un important nod comercial pe Drumul Mătăsii. Cele mai vechi urme de locuire datează din mileniul III î.Hr. A înflorit în sec. I–III d.Hr. sub regina Zenobia. Ruinele includ Templul lui Bel, Marea Colonadă, teatrul și senatul. A fost declarat Patrimoniu UNESCO în 1980. În timpul războiului civil, Statul Islamic a distrus mare parte din sit, inclusiv Templul lui Bel și Arcul de Triumf. Lucrări de restaurare au început în 2019, dar pagubele sunt ireversibile.",
-      en: "Palmyra, also known as Tadmor, was an ancient city in the Syrian desert, a crucial trading center on the Silk Road. Human settlement dates back to the 3rd millennium BC. Its golden age was in the 1st–3rd centuries AD under Queen Zenobia. Ruins include the Temple of Bel, the Great Colonnade, the theater, and the senate. It became a UNESCO World Heritage site in 1980. During the civil war, the Islamic State severely damaged the site, destroying the Temple of Bel and the Arch of Triumph. Restoration efforts began in 2019, but much is lost forever.",
-    },
-    factsAdvanced: {
-      de: ["Älteste Siedlungsspuren: 3. Jahrtausend v. Chr.", "Blütezeit: 1.–3. Jahrhundert n. Chr.", "UNESCO-Welterbe seit: 1980.", "Temple of Bel: erbaut 32 n. Chr.", "Länge der Kolonnade: 1,2 km.", "Zerstörung durch IS: 2015."],
-      hu: ["Legkorábbi település: Kr. e. 3. évezred.", "Fénykor: i. sz. 1–3. század.", "UNESCO Világörökség: 1980.", "Baál temploma: épült i. sz. 32-ben.", "Oszlopos út hossza: 1,2 km.", "IS általi pusztítás: 2015."],
-      ro: ["Primele urme locative: mileniul III î.Hr.", "Perioada de înflorire: sec. I–III d.Hr.", "Patrimoniu UNESCO din: 1980.", "Templul lui Bel: construit în 32 d.Hr.", "Lungimea colonadei: 1,2 km.", "Distrugere de către IS: 2015."],
-      en: ["Earliest settlement: 3rd millennium BC.", "Golden age: 1st–3rd century AD.", "UNESCO World Heritage since: 1980.", "Temple of Bel: built 32 AD.", "Length of the colonnade: 1.2 km.", "Destruction by ISIS: 2015."],
-    },
-  },
-  {
+    {
     id: "sy-krak-des-chevaliers-history-v2",
     type: "historical-site",
     parent: "SY-HI",

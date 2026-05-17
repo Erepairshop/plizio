@@ -107,42 +107,7 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       ro: ["Un vechi post comercial punic cucerit de Roma, situat chiar pe coasta mediteraneană.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
       en: ["Designated a UNESCO World Heritage site in 1982.", "The Great Basilica is one of the largest early Christian buildings in Africa.", "The Punic necropolis dates back to the 6th century BC.", "Features a Roman theater and a 4th-century amphitheater.", "The site is located about 70 kilometers west of Algiers.", "Albert Camus wrote his famous essay 'Nuptials at Tipasa' here.", "The Royal Mausoleum of Mauretania is located just a few kilometers away.", "Known for its stunning location directly on the coastal cliffs."]
     }, image: "/poi-images/tipasa-ruins-history-v2.webp"},
-  {
-    id: "kasbah-algiers-history-v2",
-    type: "historical",
-    parent: "DZ-16",
-    coords: [3.0588, 36.7836],
-    name: {
-      de: "Kasbah von Algier",
-      hu: "Algíri Kaszba",
-      ro: "Kasbah-ul din Alger",
-      en: "Kasbah of Algiers"},
-    image: "/poi-images/kasbah-algiers-history-v2.webp",
-    description: {
-      de: "Die historische islamische Zitadelle und Altstadt von Algier, berühmt für ihre engen Gassen und osmanischen Paläste.",
-      hu: "Algír történelmi iszlám fellegvára és óvárosa, amely szűk utcáiról és oszmán palotáiról híres.",
-      ro: "Cetatea istorică islamică și orașul vechi din Alger, renumite pentru străzile sale înguste și palatele otomane.",
-      en: "The historic Islamic citadel and old town of Algiers, famous for its narrow streets and Ottoman palaces."
-    },
-    facts: {
-      de: ["Stammt aus dem 16. Jahrhundert.", "War ein wichtiges Zentrum der Barbaresken-Korsaren."],
-      hu: ["A 16. századból származik.", "A berber kalózok fontos központja volt."],
-      ro: ["Datează din secolul al XVI-lea.", "A fost un centru important al corsarilor berberi."],
-      en: ["Dates back to the 16th century.", "Was a major center for the Barbary corsairs."]
-    },
-    descriptionAdvanced: {
-      de: "Kasbah von Algier ist ein bemerkenswertes Element der algerischen Geografie und Kultur. Die historische islamische Zitadelle und Altstadt von Algier, berühmt für ihre engen Gassen und osmanischen Paläste. Stammt aus dem 16. Jahrhundert. War ein wichtiges Zentrum der Barbaresken-Korsaren. Dieser Ort hat eine besondere Bedeutung in der Geschichte Algeriens, von der berberischen und römischen Antike bis zur Unabhängigkeit. Wie viele bedeutende Orte in Algerien vereint dieser Ort berberisches Erbe, mediterrane und saharische Einflüsse. Damit trägt dieser Ort zum vielseitigen Profil Algeriens bei.",
-      hu: "Algír Kaszbája egy élő történelemkönyv, amely az oszmán építészet és a hagyományos arab városszerkezet lenyűgöző ötvözete. A 16. században virágzó negyed meredek, labirintusszerű utcáival és sűrűn épült fehér házaival emelkedik a tenger fölé. Ez a terület war a berber kalózok és a dey-ek (helyi uralkodók) hatalmi központja, ahol pazar paloták, ősi mecsetek és nyüzsgő piacok váltják egymást. A Kaszba nemcsak a múlt emléke, hanem az algériai ellenállás szimbóluma is a francia gyarmati uralom idején. A szűk sikátorok között sétálva felfedezhetjük a Ketchaoua-mecsetet és a különleges belső udvaros házakat. Történelem K7 – Az Oszmán Birodalom és az iszlám városépítészet.",
-      ro: "Kasbah-ul din Alger este un element remarcabil al geografiei și culturii algeriene. Cetatea istorică islamică și orașul vechi din Alger, renumite pentru străzile sale înguste și palatele otomane. Datează din secolul al XVI-lea. A fost un centru important al corsarilor berberi. Acest loc are o importanță deosebită în istoria Algeriei, din antichitatea berberă și romană până la independență. Asemenea multor locuri importante din Algeria, acesta îmbină moștenirea berberă cu influențele mediteraneene și sahariene. Astfel, acest loc contribuie la profilul variat al Algeriei.",
-      en: "The Kasbah of Algiers is an extraordinary example of a traditional Islamic city, or medina, perched on a steep hill overlooking the Mediterranean. This UNESCO World Heritage site is a dense maze of narrow, winding alleys, whitewashed houses, and magnificent Ottoman-era palaces. It represents the heart of old Algiers, having served as a strategic fortress and the seat of the Deys during the Regency of Algiers. The Kasbah was also a legendary stronghold of the resistance during the Algerian War of Independence. Its unique architecture and social fabric continue to be a vital symbol of national identity. History K7 – Ottoman Urbanism and Resistance."
-    },
-    factsAdvanced: {
-      de: ["Die historische islamische Zitadelle und Altstadt von Algier, berühmt für ihre engen Gassen und osmanischen Paläste.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["A Kaszbát 1992-ben nyilvánították az UNESCO Világörökség részévé.", "A negyed legmagasabb pontján található a citadella, amely a dey rezidenciája volt.", "Az utcák olyan szűkek, hogy sok helyen csak szamarakkal lehet közlekedni.", "A terület több mint 10 jelentős történelmi mecsetet foglal magában.", "Az 1827-es 'legyező-incidens' itt történt, ami a francia megszálláshoz vezetett.", "A házak belső udvarai (szahn) segítik a természetes szellőzést a forró nyárban.", "A negyed központi szerepet játszott az 1954-62-es függetlenségi háborúban.", "A Ketchaoua-mecsetet a franciák idején katedrálissá alakították, majd 1962-ben lett ismét mecset."],
-      ro: ["Cetatea istorică islamică și orașul vechi din Alger, renumite pentru străzile sale înguste și palatele otomane.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
-      en: ["The 'kasbah' is the old citadel at the highest point of the city.", "Includes spectacular mosques like Ketchaoua and the Great Mosque.", "The Palace of the Deys (Dar as-Sultan) was the center of power.", "The steep streets often consist of stairways known as 'rampes'.", "Played a central role in the 1966 film 'The Battle of Algiers'.", "Declared a UNESCO World Heritage site in 1992.", "Features traditional hammams and vibrant artisan workshops.", "Home to thousands of people living in historic multi-story houses."]
-    }, image: "/poi-images/kasbah-algiers-history-v2.webp"},
-  {
+    {
     id: "qala-beni-hammad-history-v2",
     type: "historical",
     parent: "DZ-28",
@@ -212,42 +177,7 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       ro: ["Un grup de cinci orașe fortificate în deșert (ksour) construite în secolul al XI-lea de către ibadiți în stânca Saharei.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
       en: ["The towns are Ghardaïa, Melika, Beni Isguen, Bou Noura, and El Atteuf.", "Founded between 1012 and 1350 AD.", "The architecture emphasizes simplicity, utility, and communal living.", "Beni Isguen is the most traditional town, closed to outsiders at night.", "The Mozabites follow the Ibadite school of Islam.", "Features an ancient and highly efficient underground irrigation system.", "The white and ochre houses create a striking geometric landscape.", "Le Corbusier visited the valley and drew inspiration for his work."]
     }, image: "/poi-images/mzab-valley-history-v2.webp"},
-  {
-    id: "mausoleum-mauretania-history-v2",
-    type: "historical",
-    parent: "DZ-42",
-    coords: [2.553, 36.5744],
-    name: {
-      de: "Mausoleum von Mauretanien",
-      hu: "Mauretania királyi mauzóleuma",
-      ro: "Mausoleul regal al Mauretaniei",
-      en: "Royal Mausoleum of Mauretania"},
-    image: "/poi-images/mausoleum-mauretania-history-v2.webp",
-    description: {
-      de: "Ein massives Grabdenkmal in Form einer Pyramide, das die Berberkönige Juba II. und Kleopatra Selene II. beherbergte.",
-      hu: "Piramis alakú hatalmas síremlék, amely II. Juba berber király és II. Kleopátra Szeléné nyughelye volt.",
-      ro: "Un monument funerar masiv în formă de piramidă care a adăpostit regii berberi Juba II și Cleopatra Selene II.",
-      en: "A massive funerary monument in the shape of a pyramid that housed the Berber kings Juba II and Cleopatra Selene II."
-    },
-    facts: {
-      de: ["Erbaut im 3. Jahrhundert vor Christus.", "Lokaler Name ist Kbour-er-Roumia."],
-      hu: ["Krisztus előtt a 3. században épült.", "Helyi neve Kbour-er-Roumia."],
-      ro: ["Construit în secolul al III-lea î.Hr.", "Numele local este Kbour-er-Roumia."],
-      en: ["Built in the 3rd century BC.", "Local name is Kbour-er-Roumia."]
-    },
-    descriptionAdvanced: {
-    de: "Mausoleum von Mauretanien ist ein bemerkenswertes Element der algerischen Geografie und Kultur. Ein massives Grabdenkmal in Form einer Pyramide, das die Berberkönige Juba II. und Kleopatra Selene II. beherbergte. Erbaut im 3. Jahrhundert vor Christus. Lokaler Name ist Kbour-er-Roumia. Dieser Ort hat eine besondere Bedeutung in der Geschichte Algeriens, von der berberischen und römischen Antike bis zur Unabhängigkeit. Wie viele bedeutende Orte in Algerien vereint dieser Ort berberisches Erbe, mediterrane und saharische Einflüsse. Damit trägt dieser Ort zum vielseitigen Profil Algeriens bei.",
-    hu: "A Mauretániai Királyi Mauzóleum, amelyet a helyiek Kbour-er-Roumia néven ismernek, egy monumentális kör alakú építmény Tipaza közelében. Ez a lenyűgöző síremlék II. Juba numidiai király és felesége, II. Kleopátra Szeléné (a híres egyiptomi királynő lánya) nyughelye volt. Az építmény stílusa az egyiptomi piramisok és a hellenisztikus építészet elemeit ötvözi, 60 dór oszloppal díszítve. A mauzóleum méretei és precíz kivitelezése a korabeli berber királyság gazdagságáról és kifinomult kultúrájáról tanúskodik. Rejtélyes folyosói és vakajtói évszázadok óta foglalkoztatják a régészeket és a kalandorokat. Történelem K6 – Berber királyságok és a Római Birodalom kapcsolata.",
-    ro: "Mausoleul regal al Mauretaniei este un element remarcabil al geografiei și culturii algeriene. Un monument funerar masiv în formă de piramidă care a adăpostit regii berberi Juba II și Cleopatra Selene II. Construit în secolul al III-lea î.Hr. Numele local este Kbour-er-Roumia. Acest loc are o importanță deosebită în istoria Algeriei, din antichitatea berberă și romană până la independență. Asemenea multor locuri importante din Algeria, acesta îmbină moștenirea berberă cu influențele mediteraneene și sahariene. Astfel, acest loc contribuie la profilul variat al Algeriei.",
-    en: "Royal Mausoleum of Mauretania is a remarkable feature of the geography and culture of Algeria. A massive funerary monument in the shape of a pyramid that housed the Berber kings Juba II and Cleopatra Selene II. Built in the 3rd century BC. Local name is Kbour-er-Roumia. This site holds particular significance in the history of Algeria, from Berber and Roman antiquity to independence. Like many notable places in Algeria, it combines Berber heritage with Mediterranean and Saharan influences. Thus, this place contributes to the diverse profile of Algeria."
-    },
-    factsAdvanced: {
-    de: ["Ein massives Grabdenkmal in Form einer Pyramide, das die Berberkönige Juba II. und Kleopatra Selene II. beherbergte.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-    hu: ["Az építmény átmérője 60,9 méter, magassága eredetileg elérte a 40 métert.", "II. Juba és II. Kleopátra Szeléné uralkodása alatt épült, Kr. e. 3 körül.", "A mauzóleum belső folyosórendszere egy központi kamrához vezet.", "A legenda szerint a síremlékben hatalmas kincsek voltak elrejtve.", "Az épületen 60 dór stílusú féloszlop található.", "A 16. században egy bég megpróbálta lerombolni ágyúkkal, de az épület ellenállt.", "UNESCO Világörökségi helyszín Tipaza romjaival együtt.", "A négy világtáj felé néző bejáratai közül három vakajtó."],
-    ro: ["Un monument funerar masiv în formă de piramidă care a adăpostit regii berberi Juba II și Cleopatra Selene II.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
-    en: ["A massive funerary monument in the shape of a pyramid that housed the Berber kings Juba II and Cleopatra Selene II.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
-    }, image: "/poi-images/mausoleum-mauretania-history-v2.webp"},
-  {
+    {
     id: "lambaesis-history-v2",
     type: "historical",
     parent: "DZ-05",
@@ -492,42 +422,7 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
     ro: ["Așezare romană faimoasă pentru teatrul său antic bine restaurat care încă mai adăpostește statui impresionante.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
     en: ["Roman settlement famous for its well-restored ancient theater which still houses impressive statues today.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }, image: "/poi-images/calama-guelma-history-v2.webp"},
-  {
-    id: "fort-santa-cruz-oran-history-v2",
-    type: "historical",
-    parent: "DZ-31",
-    coords: [-0.6667, 35.7],
-    name: {
-      de: "Fort Santa Cruz",
-      hu: "Santa Cruz erőd",
-      ro: "Fortul Santa Cruz",
-      en: "Fort Santa Cruz"},
-    image: "/poi-images/fort-santa-cruz-oran-history-v2.webp",
-    description: {
-      de: "Eine massive Festung, die von den Spaniern im 16. Jahrhundert auf dem Berg Murdjadjo erbaut wurde, um den Hafen von Oran zu schützen.",
-      hu: "A spanyolok által a 16. században a Murdjadjo-hegyen épített masszív erődítmény Orán kikötőjének védelmére.",
-      ro: "O cetate masivă construită de spanioli în secolul al XVI-lea pe muntele Murdjadjo pentru a proteja portul Oran.",
-      en: "A massive fortress built by the Spanish in the 16th century on Mount Murdjadjo to protect the port of Oran."
-    },
-    facts: {
-      de: ["Erbaut zwischen 1577 und 1604.", "Bietet einen Panoramablick auf Oran."],
-      hu: ["1577 és 1604 között épült.", "Panorámás kilátást nyújt Orán városára."],
-      ro: ["Construit între 1577 și 1604.", "Oferă o vedere panoramică asupra Oranului."],
-      en: ["Built between 1577 and 1604.", "Offers a panoramic view of Oran."]
-    },
-    descriptionAdvanced: {
-    de: "Fort Santa Cruz ist ein bemerkenswertes Element der algerischen Geografie und Kultur. Eine massive Festung, die von den Spaniern im 16. Jahrhundert auf dem Berg Murdjadjo erbaut wurde, um den Hafen von Oran zu schützen. Erbaut zwischen 1577 und 1604. Bietet einen Panoramablick auf Oran. Dieser Ort hat eine besondere Bedeutung in der Geschichte Algeriens, von der berberischen und römischen Antike bis zur Unabhängigkeit. Wie viele bedeutende Orte in Algerien vereint dieser Ort berberisches Erbe, mediterrane und saharische Einflüsse. Damit trägt dieser Ort zum vielseitigen Profil Algeriens bei.",
-    hu: "A Santa Cruz-erőd Orán legmeghatározóbb jelképe, amely a Murdjadjo-hegy sziklás csúcsáról tekint le a városra és a Földközi-tengerre. A spanyolok építették a 16. században Orán védelmére, miután elfoglalták a várost a móroktól. Az erőd masszív kőfalai, bástyái és titkos járatai a korszak fejlett katonai építészetét dicsérik. Stratégiai elhelyezkedése miatt szinte bevehetetlennek tartották, és kulcsszerepet játszott a spanyol és az oszmán erők közötti évszázados küzdelemben. Az erőd alatt található kápolna és a panoráma egyedülálló spirituális és vizuális élményt nyújt. Történelem K8 – Spanyol-török vetélkedés a Földközi-tengeren.",
-    ro: "Fortul Santa Cruz este un element remarcabil al geografiei și culturii algeriene. O cetate masivă construită de spanioli în secolul al XVI-lea pe muntele Murdjadjo pentru a proteja portul Oran. Construit între 1577 și 1604. Oferă o vedere panoramică asupra Oranului. Acest loc are o importanță deosebită în istoria Algeriei, din antichitatea berberă și romană până la independență. Asemenea multor locuri importante din Algeria, acesta îmbină moștenirea berberă cu influențele mediteraneene și sahariene. Astfel, acest loc contribuie la profilul variat al Algeriei.",
-    en: "Fort Santa Cruz is a remarkable feature of the geography and culture of Algeria. A massive fortress built by the Spanish in the 16th century on Mount Murdjadjo to protect the port of Oran. Built between 1577 and 1604. Offers a panoramic view of Oran. This site holds particular significance in the history of Algeria, from Berber and Roman antiquity to independence. Like many notable places in Algeria, it combines Berber heritage with Mediterranean and Saharan influences. Thus, this place contributes to the diverse profile of Algeria."
-    },
-    factsAdvanced: {
-    de: ["Eine massive Festung, die von den Spaniern im 16. Jahrhundert auf dem Berg Murdjadjo erbaut wurde, um den Hafen von Oran zu schützen.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-    hu: ["Az erődöt 1577 és 1604 között építették a spanyol hódítók.", "Tengerszint feletti magassága meghaladja a 400 métert.", "Egy földalatti alagút kötötte össze az erődöt a lenti tengerparttal.", "A spanyolok 1792-ig uralták az erődöt, mielőtt átadták az oszmánoknak.", "A falak között saját víztározó és lőszerraktár biztosította a védők ellátását.", "Az erőd közelében álló kápolnát 1850-ben emelték egy kolerajárvány után.", "A Santa Cruz-erőd Orán három nagy erődítményének egyike.", "Ma népszerű turisztikai célpont, ahonnan tiszta időben messzire látni a tengeren."],
-    ro: ["O cetate masivă construită de spanioli în secolul al XVI-lea pe muntele Murdjadjo pentru a proteja portul Oran.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
-    en: ["A massive fortress built by the Spanish in the 16th century on Mount Murdjadjo to protect the port of Oran.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
-    }, image: "/poi-images/fort-santa-cruz-oran-history-v2.webp"},
-  {
+    {
     id: "medracen-history-v2",
     type: "historical",
     parent: "DZ-05",

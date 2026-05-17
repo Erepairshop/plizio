@@ -62,37 +62,7 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       en: ["Transatlantic slave trade site", "Southwest Region coast", "Historical ruins", "Memorial landmark"]
     }
   },
-  {
-    id: "kribi-lighthouse-history-v2",
-    type: "historical",
-    parent: "CM-SU",
-    coords: [9.9056, 2.9367],
-    name: {
-      de: "Leuchtturm von Kribi",
-      hu: "Kribi világítótorony",
-      ro: "Farul din Kribi",
-      en: "Kribi Lighthouse"},
-    image: "/poi-images/kribi-lighthouse-history-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Leuchtturm von Kribi ist ein markantes historisches Bauwerk aus der deutschen Kolonialzeit. Er steht symbolisch für die maritime Bedeutung Kribis als Handels- und Anlaufpunkt an der Atlantikküste über mehr als ein Jahrhundert. Geschichte K7 — Kolonialarchitektur."
-    },
-    factsAdvanced: {
-      de: ["Erbaut während der deutschen Kolonialzeit um 1906.", "Historisches Navigationszeichen für die Schifffahrt.", "Symbol für die maritime Geschichte von Kribi.", "Charakteristisches Architekturbeispiel der Zeit.", "Steht unter Denkmalschutz in Kamerun.", "Beliebtes Motiv und historisches Wahrzeichen."]
-    }, image: "/poi-images/kribi-lighthouse-history-v2.webp",
-    description: {
-      de: "Der Leuchtturm von Kribi markiert seit Langem die Küste für die Schifffahrt. Er gehört zu den bekanntesten maritimen Wahrzeichen der Stadt.",
-      hu: "A kribi világítótorony a kameruni part egyik régi tengerészeti pontja. A hajózás biztonságát szolgálta a part mentén.",
-      ro: "Farul din Kribi a ghidat mult timp navele de pe coasta atlantică. Clădirea este legată de navigația și de istoria portuară a orașului.",
-      en: "A colonial-era lighthouse on Kribi's coast. It has long guided shipping along the Atlantic shoreline."
-    },
-    facts: {
-      de: ["an der Atlantikküste", "hilft der Navigation", "bekanntes Küstenzeichen"],
-      hu: ["parti világítótorony", "Kribi kikötőjében", "hajózási jel"],
-      ro: ["pe coasta Atlanticului", "util pentru navigație", "parte din istoria maritimă"],
-      en: ["on the Kribi coast", "used for navigation", "colonial-era landmark"]
-    }
-  },
-  {
+    {
     id: "prime-ministers-lodge-history-v2",
     type: "historical",
     parent: "CM-SW",

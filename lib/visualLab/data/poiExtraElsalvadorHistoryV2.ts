@@ -1066,45 +1066,7 @@ export const poiExtraElsalvadorHistoryV2: POI[] = [
       en: ["The site where the first official cry for Central American independence was issued in 1811.", "The impressive central monument was erected in 1911 to commemorate the nation's centenary.", "Representing the oldest formally planned urban square in the history of San Salvador.", "Recently underwent a comprehensive renovation as part of the historic district's revitalization."]
     }
   },
-  {
-    id: "gerardo-barrios-plaza-history-v2",
-    type: "historical",
-    parent: "SV-SS",
-    coords: [-89.191, 13.698],
-    name: {
-      de: "Plaza Gerardo Barrios",
-      hu: "Gerardo Barrios tér",
-      ro: "Piața Gerardo Barrios",
-      en: "Gerardo Barrios Plaza"},
-    image: "/poi-images/gerardo-barrios-plaza-history-v2.webp",
-    description: {
-      de: "Der zentrale Platz von San Salvador, benannt nach einem ehemaligen Präsidenten und Schauplatz vieler nationaler Veranstaltungen.",
-      hu: "San Salvador központi tere, amelyet egy korábbi elnökről neveztek el, és számos nemzeti esemény helyszíne.",
-      ro: "Piața centrală din San Salvador, numită după un fost președinte și scena multor evenimente naționale.",
-      en: "The central square of San Salvador, named after a former president and the scene of many national events."
-    },
-    facts: {
-      de: ["Im Herzen des historischen Zentrums.", "Statue von Gerardo Barrios.", "Vor der Nationalpalast und Kathedrale.", "Zentrum des öffentlichen Lebens."],
-      hu: ["A történelmi központ szívében.", "Gerardo Barrios szobra.", "A Nemzeti Palota és a Katedrális előtt.", "A közélet központja."],
-      ro: ["În inima centrului istoric.", "Statuia lui Gerardo Barrios.", "În fața Palatului Național și a Catedralei.", "Centrul vieții publice."],
-      en: ["In the heart of the historic center.", "Statue of Gerardo Barrios.", "Faces the National Palace and Cathedral.", "Center of public life."]
-    },
-    
-     image: "/poi-images/gerardo-barrios-plaza-history-v2.webp",
-    descriptionAdvanced: {
-      de: "Der zentrale Platz von San Salvador, benannt nach einem ehemaligen Präsidenten und Schauplatz vieler nationaler Veranstaltungen. Im Herzen des historischen Zentrums. Statue von Gerardo Barrios. Vor der Nationalpalast und Kathedrale. Zentrum des öffentlichen Lebens. Damit zählt der Ort zu den charakteristischen Punkten der mittelamerikanischen Republik El Salvador und spiegelt die Verbindung von pazifischer Küste, vulkanischer Landschaft, Kaffee- und Zuckerrohranbau sowie dem Wiederaufbau nach dem Bürgerkrieg wider. Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik. Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.",
-      hu: "A Gerardo Barrios tér San Salvador társadalmi és politikai életének lüktető központja, ahol a múlt és a jelen látványosan találkozik. A teret az ország egyik legfontosabb elnökéről neveztek el, akinek lovas szobra büszkén magasodik a sétálók felett. Olyan ikonikus épületek veszik körül mint a Nemzeti Palota és a Főszékesegyház, így ez a város egyik leglátványosabb pontja. Itt zajlanak a nagy vallási körmenetek, politikai gyűlések és a mindennapi baráti találkozók is a pálmafák árnyékában. A látogatók számára ez a tökéletes helyszín, hogy megfigyeljék a salvadoriak mindennapjait és átérezzék a főváros dinamizmusát.",
-      ro: "Piața Gerardo Barrios este inima pulsândă a vieții sociale și politice din San Salvador, unde istoria și prezentul se întâlnesc într-un mod spectaculos. Numită după unul dintre cei mai influenți președinți ai țării, piața prezintă o statuie ecvestră maiestuoasă a lui Barrios care domină trecătorii. Este înconjurată de repere iconice precum Palatul Național și Catedrala Metropolitană, fiind unul dintre cele mai frumoase puncte din oraș. Această piață găzduiește procesiuni religioase majore, mitinguri politice și nenumărate întâlniri sociale zilnice la umbra palmierilor săi. Pentru vizitatori, este locul perfect pentru a observa ritmurile zilnice ale salvadoranilor și pentru a simți dinamismul unic al capitalei.",
-      en: "Gerardo Barrios Plaza is the pulsating heart of San Salvador's social and political life, where history and the present meet in spectacular fashion. Named after one of the country's most influential presidents, the square features a majestic equestrian statue of Barrios that towers over pedestrians. It is surrounded by iconic landmarks like the National Palace and the Metropolitan Cathedral, making it one of the city's most visually stunning locations. This square hosts major religious processions, political rallies, and countless daily social gatherings in the shade of its palm trees. For visitors, it is the perfect spot to observe the daily rhythms of Salvadorans and feel the unique dynamism of the capital city. Geography K6"
-    },
-    factsAdvanced: {
-      de: ["Der zentrale Platz von San Salvador, benannt nach einem ehemaligen Präsidenten und Schauplatz vieler nationaler Veranstaltungen.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
-      hu: ["San Salvador legnagyobb és legfontosabb központi tere.", "Gerardo Barrios elnök lovas szobra 1909-ben készült el.", "A tér burkolata és elrendezése modern, európai stílusú.", "Helyszíne a mindenkori elnöki beiktatási ceremóniáknak."],
-      ro: ["Considerată cea mai mare și mai semnificativă piață centrală din San Salvador.", "Statuia ecvestră din bronz a președintelui Gerardo Barrios a fost dezvelită în anul 1909.", "Dispunerea modernă a pieței și pavajul din piatră sunt proiectate în stil european clasic.", "Servește ca locație tradițională pentru ceremoniile de învestire a președinților țării."],
-      en: ["Widely considered the largest and most politically significant central square in San Salvador.", "The bronze equestrian statue of President Gerardo Barrios was completed and unveiled in 1909.", "The plaza's modern layout and stone paving are designed in a classical European style.", "Serves as the traditional venue for the inauguration ceremonies of El Salvador's presidents."]
-    }
-  },
-  {
+    {
     id: "la-palma-artisan-town-history-v2",
     type: "historical",
     parent: "SV-CH",

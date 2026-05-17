@@ -209,33 +209,7 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
       ro: ["Catedrala Sfântul Iosif din Lubango se distinge prin arhitectura sa modernistă izbitoare. A fost finalizată în 1939 și este centrul religios al orașului.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii."],
       en: ["Built in 1939.", "Modernist design.", "Two distinctive towers.", "Center of Lubango.", "St. Joseph's Cathedral in Lubango is notable for its striking modernist architecture. Completed in 1939, it is the religious center of the city.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region."]
     }, image: "/poi-images/se-catedral-lubango-landmarks-v2.webp"},
-  {
-    id: "fortaleza-sao-pedro-barra-landmarks-v2",
-    type: "landmark",
-    parent: "AO-LU",
-    coords: [13.2625, -8.7758],
-    name: { de: "Festung São Pedro da Barra", hu: "São Pedro da Barra erőd", ro: "Fortăreața São Pedro da Barra", en: "Fortaleza de São Pedro da Barra"},
-    image: "/poi-images/fortaleza-sao-pedro-barra-landmarks-v2.webp",
-    description: { de: "Eine historische portugiesische Festung auf einer Klippe, die den Hafen von Luanda bewacht. Sie wurde im 17. Jahrhundert erbaut und diente später als Sklaven-Sammelplatz.", hu: "Egy történelmi portugál erőd egy sziklán, amely Luanda kikötőjét őrzi. A 17. században épült, később rabszolga-gyűjtőhelyként szolgált.", ro: "O fortăreață portugheză istorică pe o stâncă, păzind portul Luanda. A fost construită în secolul al XVII-lea și mai târziu a servit ca loc de adunare a sclavilor.", en: "A historic Portuguese fortress on a cliff guarding the harbor of Luanda. It was built in the 17th century and later served as a slave holding area." },
-    facts: {
-      de: ["Im 17. Jahrhundert erbaut.", "Hafenschutz.", "Historisches Denkmal.", "UNESCO-Kandidat."],
-      hu: ["A 17. században épült.", "Kikötővédelem.", "Történelmi emlékmű.", "UNESCO jelölt."],
-      ro: ["Construită în secolul XVII.", "Protecția portului.", "Monument istoric.", "Candidat UNESCO."],
-      en: ["Built in 17th century.", "Harbor defense.", "Historical monument.", "UNESCO candidate."]
-    },
-    descriptionAdvanced: {
-      de: "Die Festung São Pedro da Barra in Luanda ist eine monumentale Verteidigungsanlage, die strategisch auf einem Hügel über dem Atlantik errichtet wurde. Sie diente jahrhundertelang als Wächter über die Hafeneinfahrt und als Symbol der militärischen Macht an der Küste. Die Architektur der Festung, mit ihren massiven Mauern und Bastionen, zeigt die Meisterschaft der Militäringenieure des 17. Jahrhunderts. Während des Unabhängigkeitskampfes wurde sie als Gefängnis für Nationalhelden genutzt, was ihr eine tiefe emotionale und historische Bedeutung für das heutige Angola verleiht. Besucher können hier die Geschichte der Verteidigung und den Weg zur Freiheit in einer beeindruckenden Kulisse erleben. Geschichte K8 — Festungskunst und Befreiungsgeschichte.",
-      hu: "A(z) São Pedro da Barra erőd az angolai foldrajz es kultura figyelemre melto eleme. Egy történelmi portugál erőd egy sziklán, amely Luanda kikötőjét őrzi. A 17. században épült, később rabszolga-gyűjtőhelyként szolgált. A 17. században épült. Kikötővédelem. Történelmi emlékmű. Ez a nevezetesseg Angola kulturalis oroksegenek resze. Angola szamos jelentos helyszinehez hasonloan ez is otvozi a regionalis sajatossagokat es az altalanos jelentoseget. Ezzel a helyszin hozzajarul Angola sokszinu arculatahoz.",
-      ro: "Fortăreața São Pedro da Barra este un element remarcabil al geografiei si culturii angoleze. O fortăreață portugheză istorică pe o stâncă, păzind portul Luanda. A fost construită în secolul al XVII-lea și mai târziu a servit ca loc de adunare a sclavilor. Construită în secolul XVII. Protecția portului. Monument istoric. Acest reper face parte din patrimoniul cultural al Angolei. Asemenea multor locuri importante din Angola, acesta imbina particularitatile regionale cu o semnificatie mai larga. Astfel, acest loc contribuie la profilul variat al Angolei.",
-      en: "Fortaleza de São Pedro da Barra is a remarkable feature of the geography and culture of Angola. A historic Portuguese fortress on a cliff guarding the harbor of Luanda. It was built in the 17th century and later served as a slave holding area. Built in 17th century. Harbor defense. Historical monument. This landmark is part of the cultural heritage of Angola. Like many notable places in Angola, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Angola."
-    },
-    factsAdvanced: {
-      de: ["Erbaut im Jahr 1663 zur Abwehr von Seeangriffen.", "Teilweise direkt in den natürlichen Fels gehauen.", "Wichtigster historischer Ort für den Gedenktag des 4. Februar.", "Bietet einen spektakulären Panoramablick auf die Bucht von Luanda.", "Beherbergt ein kleines Museum zur Geschichte der Inhaftierten.", "Wurde 1932 zum nationalen historischen Denkmal erklärt.", "Ein architektonisches Highlight der Militärgeschichte in Westafrika.", "Zentraler Punkt für die Erziehung zum nationalen Bewusstsein."],
-      hu: ["Egy történelmi portugál erőd egy sziklán, amely Luanda kikötőjét őrzi. A 17. században épült, később rabszolga-gyűjtőhelyként szolgált.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban."],
-      ro: ["O fortăreață portugheză istorică pe o stâncă, păzind portul Luanda. A fost construită în secolul al XVII-lea și mai târziu a servit ca loc de adunare a sclavilor.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii."],
-      en: ["A historic Portuguese fortress on a cliff guarding the harbor of Luanda. It was built in the 17th century and later served as a slave holding area.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region."]
-    }, image: "/poi-images/fortaleza-sao-pedro-barra-landmarks-v2.webp"},
-  {
+    {
     id: "ponte-4-de-abril-landmarks-v2",
     type: "landmark",
     parent: "AO-BGU",
@@ -369,33 +343,7 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
     }
 
   },
-  {
-    id: "forte-santa-maria-cabinda-landmarks-v2",
-    type: "landmark",
-    parent: "AO-CAB",
-    coords: [12.1969, -5.5564],
-    name: { de: "Festung Santa Maria de Cabinda", hu: "Santa Maria de Cabinda erőd", ro: "Fortăreața Santa Maria de Cabinda", en: "Fort of Santa Maria of Cabinda"},
-    image: "/poi-images/forte-santa-maria-cabinda-landmarks-v2.webp",
-    description: { de: "Eine Festung an der Küste von Cabinda, die während der portugiesischen Kolonialzeit zur Verteidigung des Gebiets diente. Die gut erhaltenen Mauern bieten einen weiten Blick auf den Ozean.", hu: "Egy erőd Cabinda partjainál, amely a portugál gyarmati időkben a terület védelmére szolgált. A jól megőrzött falak széles kilátást nyújtanak az óceánra.", ro: "O fortăreață pe coasta Cabindei, folosită pentru a apăra teritoriul în perioada colonială portugheză. Zidurile bine conservate oferă vederi ample asupra oceanului.", en: "A coastal fortification in Cabinda province showcasing Angola's complex colonial defense history." },
-    facts: {
-      de: ["Koloniale Festung.", "Küstenverteidigung.", "In der Exklave Cabinda.", "Historische Mauern."],
-      hu: ["Gyarmati erőd.", "Partvédelem.", "A Cabinda exklávéban.", "Történelmi falak."],
-      ro: ["Fortăreață colonială.", "Apărare de coastă.", "În exclava Cabinda.", "Ziduri istorice."],
-      en: ["Located in Cabinda", "Coastal defense structure", "Colonial military history", "Strategic maritime position"]
-    },
-    descriptionAdvanced: {
-      de: "Das Fort Santa Maria in Cabinda ist eine historische Küstenbefestigung, die die maritime Geschichte der Exklave repräsentiert. Es wurde im 19. Jahrhundert errichtet, um den Hafen und die Interessen der Kolonialmacht vor Angriffen anderer europäischer Nationen und lokalen Konflikten zu schützen. Die Festung liegt strategisch günstig mit Blick auf den Atlantik und diente über lange Zeit als administrativer und militärhistorischer Stützpunkt. Heute sind die Reste des Forts ein geschütztes Denkmal, das Besuchern einen Einblick in die Zeit der Entdeckungen und der frühen kolonialen Präsenz im Norden Angolas bietet. Geschichte K8 — Küstenschutz und maritime Handelsgeschichte.",
-      hu: "A(z) Santa Maria de Cabinda erőd az angolai foldrajz es kultura figyelemre melto eleme. Egy erőd Cabinda partjainál, amely a portugál gyarmati időkben a terület védelmére szolgált. A jól megőrzött falak széles kilátást nyújtanak az óceánra. Gyarmati erőd. Partvédelem. A Cabinda exklávéban. Ez a nevezetesseg Angola kulturalis oroksegenek resze. Angola szamos jelentos helyszinehez hasonloan ez is otvozi a regionalis sajatossagokat es az altalanos jelentoseget. Ezzel a helyszin hozzajarul Angola sokszinu arculatahoz.",
-      ro: "Fortăreața Santa Maria de Cabinda este un element remarcabil al geografiei si culturii angoleze. O fortăreață pe coasta Cabindei, folosită pentru a apăra teritoriul în perioada colonială portugheză. Zidurile bine conservate oferă vederi ample asupra oceanului. Fortăreață colonială. Apărare de coastă. În exclava Cabinda. Acest reper face parte din patrimoniul cultural al Angolei. Asemenea multor locuri importante din Angola, acesta imbina particularitatile regionale cu o semnificatie mai larga. Astfel, acest loc contribuie la profilul variat al Angolei.",
-      en: "Fort of Santa Maria of Cabinda is a remarkable feature of the geography and culture of Angola. A fort on the coast of Cabinda, used to defend the territory during the Portuguese colonial period. The well-preserved walls offer sweeping ocean views. Colonial fort. Coastal defense. In Cabinda exclave. This landmark is part of the cultural heritage of Angola. Like many notable places in Angola, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Angola."
-    },
-    factsAdvanced: {
-      de: ["Wichtigstes militärisches Denkmal im Zentrum von Cabinda.", "Erbaut zur Sicherung des strategischen Hafens der Exklave.", "Beispiel für die portugiesische Militärbaukunst an der Atlantikküste.", "Bietet einen weiten Blick über den Golf von Guinea.", "Heute Sitz kultureller und administrativer Einrichtungen.", "Wurde im Rahmen der Stadtverschönerung instand gesetzt.", "Symbol für den Schutz der nördlichsten Provinz Angolas.", "Teil des historischen Erbes der Stadt Cabinda."],
-      hu: ["Egy erőd Cabinda partjainál, amely a portugál gyarmati időkben a terület védelmére szolgált. A jól megőrzött falak széles kilátást nyújtanak az óceánra.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban."],
-      ro: ["O fortăreață pe coasta Cabindei, folosită pentru a apăra teritoriul în perioada colonială portugheză. Zidurile bine conservate oferă vederi ample asupra oceanului.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii."],
-      en: ["Colonial fort.", "Coastal defense.", "In Cabinda exclave.", "Historic walls.", "A fort on the coast of Cabinda, used to defend the territory during the Portuguese colonial period. The well-preserved walls offer sweeping ocean views.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region."]
-    }, image: "/poi-images/forte-santa-maria-cabinda-landmarks-v2.webp"},
-  {
+    {
     id: "universidade-agostinho-neto-campus-landmarks-v2",
     type: "landmark",
     parent: "AO-LU",
@@ -763,32 +711,4 @@ export const poiExtraAngolaLandmarksV2: POI[] = [
       ro: ["O biserică importantă din orașul Kuito, provincia Bié. Clădirea poartă încă cicatricile bombardamentelor intense din timpul războiului civil, dar a fost parțial restaurată.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii."],
       en: ["An important church in the city of Kuito, Bié province. The building still bears scars from intense shelling during the civil war but has been partially restored.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region."]
     }, image: "/poi-images/igreja-santo-antonio-kuito-landmarks-v2.webp"},
-  {
-    id: "fortaleza-sao-francisco-penedo-landmarks-v2",
-    type: "landmark",
-    parent: "AO-LU",
-    coords: [13.25, -8.8],
-    name: { de: "Festung São Francisco do Penedo", hu: "São Francisco do Penedo erőd", ro: "Fortăreața São Francisco do Penedo", en: "Fortress of São Francisco do Penedo"},
-    image: "/poi-images/fortaleza-sao-francisco-penedo-landmarks-v2.webp",
-    description: { de: "Diese Festung aus dem 18. Jahrhundert in Luanda spielte eine wichtige Rolle im Sklavenhandel. Später wurde sie als Gefängnis für politische Gefangene während des Unabhängigkeitskampfes genutzt.", hu: "Ez a 18. századi luandai erőd fontos szerepet játszott a rabszolgakereskedelemben. Később a függetlenségi harc során politikai foglyok börtöneként használták.", ro: "Această fortăreață din secolul al XVIII-lea din Luanda a jucat un rol important în comerțul cu sclavi. Mai târziu a fost folosită ca închisoare pentru deținuții politici.", en: "A historic fortress in Luanda with long-standing significance to the city's maritime security." },
-    facts: {
-      de: ["Im 18. Jh. erbaut.", "Ehemaliges Gefängnis.", "In Luanda gelegen.", "Historisches Denkmal."],
-      hu: ["18. században épült.", "Egykori börtön.", "Luandában található.", "Történelmi emlékmű."],
-      ro: ["Construită în sec. XVIII.", "Fostă închisoare.", "Situată în Luanda.", "Monument istoric."],
-      en: ["Maritime security site", "Luanda coastal landmark", "Colonial period defense", "Historical fortress design"]
-    },
-    descriptionAdvanced: {
-      de: "Die Fortaleza de São Francisco do Penedo ist eine majestätische Festung am Rande des Hafens von Luanda, die auf eine lange und wechselvolle Geschichte zurückblickt. Ursprünglich auf einem Felsen im Meer errichtet, war sie ein zentraler Bestandteil des Verteidigungssystems der Hauptstadt. Die Festung besticht durch ihre massive Bauweise und die strategische Lage, die über Jahrhunderte den Zugang zum Landesinneren kontrollierte. In der neueren Geschichte wurde sie als Ort der Unterdrückung politischer Gegner bekannt, was sie heute zu einem Symbol des Triumphs über die Unfreiheit macht. Der Penedo ist ein unverzichtbares Denkmal für das Verständnis der militärischen und sozialen Dynamik des kolonialen Luanda. Geschichte K8 — Kolonialarchitektur und nationale Befreiung.",
-      hu: "A(z) São Francisco do Penedo erőd az angolai foldrajz es kultura figyelemre melto eleme. Ez a 18. századi luandai erőd fontos szerepet játszott a rabszolgakereskedelemben. Később a függetlenségi harc során politikai foglyok börtöneként használták. 18. században épült. Egykori börtön. Luandában található. Ez a nevezetesseg Angola kulturalis oroksegenek resze. Angola szamos jelentos helyszinehez hasonloan ez is otvozi a regionalis sajatossagokat es az altalanos jelentoseget. Ezzel a helyszin hozzajarul Angola sokszinu arculatahoz.",
-      ro: "Fortăreața São Francisco do Penedo este un element remarcabil al geografiei si culturii angoleze. Această fortăreață din secolul al XVIII-lea din Luanda a jucat un rol important în comerțul cu sclavi. Mai târziu a fost folosită ca închisoare pentru deținuții politici. Construită în sec. XVIII. Fostă închisoare. Situată în Luanda. Acest reper face parte din patrimoniul cultural al Angolei. Asemenea multor locuri importante din Angola, acesta imbina particularitatile regionale cu o semnificatie mai larga. Astfel, acest loc contribuie la profilul variat al Angolei.",
-      en: "Fortress of São Francisco do Penedo is a remarkable feature of the geography and culture of Angola. This 18th-century fortress in Luanda played an important role in the slave trade. It was later used as a prison for political prisoners during the independence struggle. Built in 18th century. Former prison. Located in Luanda. This landmark is part of the cultural heritage of Angola. Like many notable places in Angola, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Angola."
-    },
-    factsAdvanced: {
-      de: ["Gegründet im 18. Jahrhundert auf einem markanten Inselfelsen.", "Wahrzeichen für die militärische Absicherung der Luanda-Bucht.", "Diente als berüchtigtes Hochsicherheitsgefängnis der Kolonialmacht.", "Architektonisch geprägt durch komplexe Tunnel- und Kasemattensysteme.", "Heute ein nationales Monument und Ort der historischen Aufarbeitung.", "Bietet eine einzigartige Perspektive auf die industrielle Hafenfront.", "Wird als Teil des maritimen Erbes von Angola geschützt.", "Ein Kraftort der angolanischen Identitätsfindung."],
-      hu: ["Ez a 18. századi luandai erőd fontos szerepet játszott a rabszolgakereskedelemben. Később a függetlenségi harc során politikai foglyok börtöneként használták.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban."],
-      ro: ["Această fortăreață din secolul al XVIII-lea din Luanda a jucat un rol important în comerțul cu sclavi. Mai târziu a fost folosită ca închisoare pentru deținuții politici.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii."],
-      en: ["Built in 18th century.", "Former prison.", "Located in Luanda.", "Historical monument.", "This 18th-century fortress in Luanda played an important role in the slave trade. It was later used as a prison for political prisoners during the independence struggle.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region."]
-    }
-
-  }
-];
+  ];

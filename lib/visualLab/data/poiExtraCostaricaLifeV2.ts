@@ -2,31 +2,7 @@
 import type { POI } from "./poi";
 
 export const poiExtraCostaricaLifeV2: POI[] = [
-  {
-    id: "mercado-central-life-v2",
-    type: "landmark",
-    parent: "CR-SJ",
-    coords: [-84.0822, 9.9350],
-    name: { de: "Zentralmarkt San José", hu: "Központi Piac San José", ro: "Piața Centrală San José", en: "San Jose Central Market"},
-    image: "/poi-images/mercado-central-life-v2.webp",
-    description: { de: "Ein lebhafter historischer Markt im Herzen der Hauptstadt.", hu: "San José legnagyobb piaca, ahol a mindennapi városi élet és a hagyományos costaricai konyha találkozik. A fedett vásárcsarnok ma is élő része a főváros ritmusának.", ro: "Mercado Central din San José este unul dintre cele mai vii locuri din capitală. Aici se amestecă tarabele cu produse, micile localuri și ritmul zilnic al orașului.", en: "San Jose's historic central market is a busy place for food, shopping, and daily city life. It remains one of the capital's most authentic public spaces." },
-    descriptionAdvanced: {
-      de: "",
-      hu: "San José Központi Piaca a város lüktető szíve 1880 óta, ahol a látogatók bepillantást nyerhetnek a valódi Costa Rica-i mindennapokba. A labirintusszerű folyosókon az egzotikus gyümölcsöktől és friss fűszerektől kezdve a kézzel készített bőrárukig minden megtalálható. A piac híres a 'sodáiról', azaz kis kifőzdéiről, ahol a helyiek a hagyományos gallo pintót vagy casadót fogyasztják. Az épület belsejében terjengő frissen pörkölt kávé illata és a kofák harsány kiáltásai felejthetetlen élményt nyújtanak. Ez a hely nem csupán egy bevásárlóközpont, hanem egy élő kulturális múzeum, amely őrzi a főváros múltját és hagyományait. Történelem K7 – városi életmód és kereskedelmi hagyományok.",
-      ro: "Piața Centrală din San José este inima pulsândă a orașului încă din 1880, oferind vizitatorilor o privire autentică în viața de zi cu zi din Costa Rica. Pe coridoarele sale labirintice poți găsi orice, de la fructe exotice și condimente proaspete până la articole din piele lucrate manual. Piața este faimoasă pentru \\\"sodas\\\", micile localuri unde localnicii savurează mâncăruri tradiționale precum gallo pinto sau casado. Aroma cafelei proaspăt prăjite și strigătele vânzătorilor creează o experiență senzorială de neuitat în interiorul clădirii istorice. Acest loc nu este doar un centru comercial, ci un muzeu cultural viu care păstrează tradițiile și trecutul capitalei.",
-      en: "The Central Market in San José is the heart of daily urban life, offering a diverse array of fresh produce, traditional foods, and local crafts. This vibrant landmark has been operating for over a century, reflecting the community's evolution. Geography K7 — urban development."
-    },
-    factsAdvanced: {
-      en: ["Operating for over 100 years.", "Center for urban trade life.", "Provides fresh traditional foods.", "Showcases diverse local crafts.", "Reflects community evolutionary history.", "Vital landmark in daily city life."]
-    },
-    facts: {
-      de: ["Gegründet: 1880", "Über 200 Stände", "Traditionelles Essen"],
-      hu: ["San José legnagyobb piaca", "Hagyományos ételek", "A városi élet központja"],
-      ro: ["În centrul capitalei", "Piață tradițională", "Loc de gastronomie locală"],
-      en: ["Founded in 1880", "Over 200 stalls", "Historic city market"]
-    },
-     image: "/poi-images/mercado-central-life-v2.webp"},
-  {
+    {
     id: "teatro-nacional-life-v2",
     type: "landmark",
     parent: "CR-SJ",

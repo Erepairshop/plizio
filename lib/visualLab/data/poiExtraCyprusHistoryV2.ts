@@ -397,40 +397,7 @@ export const cyprusHistoryV2: POI[] = [
     },
     image: "/poi-images/cyprus-machairas-monastery-history-v2.webp",
   },
-  {
-    id: "cyprus-othello-tower-history-v2",
-    type: "tower",
-    parent: "CY",
-    name: { de: "Othello-Turm", hu: "Othello-torony", ro: "Turnul Othello", en: "Othello Tower" },
-    coords: [33.941, 35.126],
-    description: {
-      de: "Ein befestigter Turm in Famagusta. Er ist Teil der Stadtmauern und nach Shakespeares Drama benannt.",
-      hu: "Famagusta egyik erődített tornya. A városfal része, Shakespeare drámája után kapta nevét.",
-      ro: "Un turn fortificat în Famagusta. Face parte din zidurile orașului și este numit după drama lui Shakespeare.",
-      en: "A fortified tower in Famagusta. It is part of the city walls and named after Shakespeare's drama.",
-    },
-    facts: {
-      de: ["Famagusta", "Stadtmauer", "Shakespeare-Bezug", "Mittelalterliche Architektur"],
-      hu: ["Famagusta", "Városfal", "Shakespeare-vonatkozás", "Középkori építészet"],
-      ro: ["Famagusta", "Zidul orașului", "Legătură cu Shakespeare", "Arhitectură medievală"],
-      en: ["Famagusta", "City wall", "Shakespeare reference", "Medieval architecture"],
-    },
-    imageHint: "Othello Tower Famagusta walls",
-    descriptionAdvanced: {
-      de: "Der Othello-Turm, ursprünglich als Zitadelle von Famagusta bekannt, ist ein beeindruckendes Beispiel mittelalterlicher Festungsarchitektur. Die erste Anlage wurde im 14. Jahrhundert von den Lusignans erbaut, um den strategisch wichtigen Hafen der Stadt zu schützen. Nach der Übernahme Zyperns durch die Venezianer wurde die Zitadelle im Jahr 1492 grundlegend umgestaltet und in das moderne Verteidigungssystem der Stadtmauer integriert. Über dem Haupteingang prangt bis heute der Markuslöwe, das Symbol Venedigs, zusammen mit dem Namen des Kapitäns Nicolo Foscari. Ihren volkstümlichen Namen erhielt die Festung durch die Assoziation mit William Shakespeares Tragödie 'Othello', deren Handlung in einer Hafenstadt auf Zypern spielt. Die dicken Mauern, runden Ecktürme und der zentrale Innenhof vermitteln ein lebendiges Bild der venezianischen Militärtechnik. Heute ist der Turm ein zentrales Denkmal in Famagusta und nach umfangreichen Restaurierungen wieder für die Öffentlichkeit zugänglich.",
-      hu: "Az Othello-torony, eredeti nevén Famagusta citadellája, a középkori erődépítészet egyik leglenyűgözőbb példája Cipruson. Az első erődítményt a 14. században építették a Lusignanok, hogy megvédjék a város stratégiai fontosságú kikötőjét. Miután a velenceiek átvették az uralmat a sziget felett, 1492-ben alaposan átépítették a citadellát, és integrálták a város modern védelmi rendszerébe. A főbejárat felett ma is látható Velence szimbóluma, Szent Márk oroszlánja, valamint Nicolo Foscari kapitány neve. Népszerű nevét William Shakespeare 'Othello' című tragédiájáról kapta, amelynek cselekménye egy ciprusi kikötővárosban játszódik. A vastag falak, a kerek saroktornyok és a központi udvar hűen tükrözik a velencei hadi mérnöki tudományt. Napjainkban a torony Famagusta egyik legfontosabb műemléke, amely egy alapos restaurálás után ismét látogatható a nagyközönség számára.",
-      ro: "Turnul lui Othello, cunoscut inițial sub numele de Citadela din Famagusta, este un exemplu remarcabil de arhitectură militară medievală. Prima structură a fost ridicată în secolul al XIV-lea de către dinastia Lusignan pentru a apăra portul strategic al orașului. După preluarea Ciprului de către venețieni, citadela a fost reconstruită radical în anul 1492, fiind integrată în noul sistem defensiv al zidurilor orașului. Deasupra intrării principale se află și astăzi Leul Sfântului Marcu, simbolul Veneției, alături de numele căpitanului Nicolo Foscari. Numele său popular provine din asocierea cu tragedia 'Othello' de William Shakespeare, a cărei acțiune este plasată într-un oraș portuar din Cipru. Zidurile groase, turnurile circulare de colț și curtea centrală ilustrează avansul ingineriei militare venețiene. Astăzi, turnul reprezintă un monument central în Famagusta, fiind redeschis publicului după ample lucrări de restaurare.",
-      en: "Othello Tower, originally known as the Citadel of Famagusta, is an impressive example of medieval fortification architecture. The first structure on the site was built by the Lusignans in the 14th century to guard the city's vital commercial port. Following the Venetian takeover of Cyprus, the citadel was extensively remodeled in 1492 to align with modern defensive strategies, incorporating thick walls and rounded bastions. Above the main entrance, the relief of the Winged Lion of St. Mark, Venice's official emblem, remains visible alongside the name of Captain Nicolo Foscari. The fortress gained its popular name due to its historical association with William Shakespeare's tragedy 'Othello', which is set in a Cypriot port town. Its massive masonry, interior courtyard, and vaulted halls provide a clear look into Venetian military engineering. Today, after significant conservation efforts, the tower stands as a key historical landmark in Famagusta.",
-    },
-    factsAdvanced: {
-      de: ["Umbau zur venezianischen Festung wurde im Jahr 1492 abgeschlossen.", "Der Markuslöwe über dem Portal trägt den Namen von Nicolo Foscari.", "Die Mauern sind an einigen Stellen bis zu 3,5 Meter dick.", "Der Name Othello-Turm wurde erst während der britischen Kolonialzeit populär.", "Verfügt über einen großen Innenhof, der für Theateraufführungen genutzt wird.", "Umfassende Restaurierung durch UN-Mittel im Jahr 2015 abgeschlossen."],
-      hu: ["A velencei stílusú átépítés 1492-ben fejeződött be.", "A kapu feletti Szent Márk-oroszlán dombormű Nicolo Foscari nevét őrzi.", "A falak vastagsága helyenként eléri a 3,5 métert.", "Az 'Othello-torony' elnevezés csak a brit gyarmati uralom idején vált általánossá.", "A vár belső udvara ma kulturális események és előadások helyszíne.", "2015-ben fejezték be a vár teljes körű, nemzetközileg finanszírozott restaurálását."],
-      ro: ["Reconstrucția în stil venețian a fost finalizată în anul 1492.", "Basorelieful cu Leul Sfântului Marcu menționează numele lui Nicolo Foscari.", "Zidurile de apărare au o grosime de până la 3,5 metri în punctele cheie.", "Numele de 'Turnul lui Othello' a devenit popular în timpul epocii coloniale britanice.", "Complexul include o curte interioară vastă și săli boltite.", "O restaurare majoră a fost finalizată în 2015 cu sprijin internațional."],
-      en: ["The Venetian reconstruction was officially completed in 1492.", "The Lion of St. Mark above the gate features Captain Nicolo Foscari's name.", "The fortress walls reach a thickness of up to 3.5 meters in some sections.", "The name 'Othello Tower' gained widespread use during the British colonial era.", "The castle's courtyard is frequently used for open-air theatrical performances.", "A major structural restoration was completed in 2015 via international funding."],
-    },
-    image: "/poi-images/cyprus-othello-tower-history-v2.webp",
-  },
-  {
+    {
     id: "cyprus-kyrenia-castle-history-v2",
     type: "castle",
     parent: "CY",
@@ -694,40 +661,7 @@ export const cyprusHistoryV2: POI[] = [
     },
     image: "/poi-images/cyprus-agios-ioannis-lampadistis-history-v2.webp",
   },
-  {
-    id: "cyprus-agios-sozomenos-history-v2",
-    type: "ruins",
-    parent: "CY",
-    name: { de: "Ruinen von Agios Sozomenos", hu: "Agios Sozomenos romjai", ro: "Ruinele din Agios Sozomenos", en: "Ruins of Agios Sozomenos" },
-    coords: [33.435, 35.045],
-    description: {
-      de: "Ein verlassenes Dorf nahe Nicosia mit einer historischen Kirche und Ruinen. Ein Ort der Geschichte.",
-      hu: "Elhagyatott falu Nicosia közelében történelmi templommal és romokkal. A történelem egy helyszíne.",
-      ro: "Un sat abandonat lângă Nicosia cu o biserică istorică și ruine. Un loc al istoriei.",
-      en: "An abandoned village near Nicosia with a historic church and ruins. A site of history.",
-    },
-    facts: {
-      de: ["Nicosia", "Verlassenes Dorf", "Kirche", "Ruinen"],
-      hu: ["Nicosia", "Elhagyatott falu", "Templom", "Romok"],
-      ro: ["Nicosia", "Sat abandonat", "Biserică", "Ruine"],
-      en: ["Nicosia", "Abandoned village", "Church", "Ruins"],
-    },
-    imageHint: "Agios Sozomenos abandoned church ruins",
-    descriptionAdvanced: {
-      de: "Die Ruinen von Agios Sozomenos bei Nicosia bilden eine der bewegendsten historischen Stätten Zyperns. Das einst blühende Dorf wurde infolge der interkommunalen Unruhen im Jahr 1964 verlassen und ist heute eine Geisterstadt, die von verfallenden Lehmziegelhäusern und überwucherten Straßen geprägt ist. Herausragendes Merkmal ist die unvollendete gotische Kirche Agios Mamas aus dem 16. Jahrhundert, deren massive Steinarkaden ohne Dach majestätisch in den Himmel ragen. In den nahegelegenen Kalksteinfelsen befindet sich zudem die Eremitenhöhle des Heiligen Sozomenos aus dem 12. Jahrhundert, die mit byzantinischen Fresken geschmückt ist. Diese Höhle diente dem namensgebenden Heiligen als Rückzugsort und ist bis heute ein Ort lokaler Verehrung. Die karge, weite Landschaft rund um das Dorf unterstreicht die melancholische Atmosphäre dieses verlassenen Ortes. Agios Sozomenos dient heute als mahnendes Denkmal für die jüngere Geschichte der Insel und ist ein beliebtes Ziel für Fotografen und Archäologen, die sich für die ländliche Architektur und das religiöse Erbe interessieren.",
-      hu: "Az Agios Sozomenos romjai Nicosia közelében Ciprus egyik legmegrendítőbb történelmi helyszínét alkotják. Az egykor virágzó falut az 1964-es közösségek közötti zavargások következtében hagyták el lakói, és ma szellemfaluként áll, elhagyatott vályogházaival és gazzal benőtt utcáival. A helyszín leglátványosabb eleme a befejezetlen gótikus Szent Mamasz-templom a 16. századból, amelynek tető nélküli, masszív kőívei fenségesen emelkednek az ég felé. A közeli mészkősziklákban található Szent Szozomenosz 12. századi sziklába vájt remetelaka, amelyet bizánci freskók díszítenek. Ez a barlang szolgált a falu névadó szentjének lakóhelyéül, és ma is a helyi tisztelet egyik központja. A falut körülvevő kietlen, tágas táj még inkább hangsúlyozza az elhagyatott település melankolikus hangulatát. Agios Sozomenos ma a sziget közelmúltjának mementójaként szolgál, és kedvelt célpontja a fotósoknak és régészeknek, akiket a vidéki építészet és a vallási örökség vonz.",
-      ro: "Ruinele din Agios Sozomenos, situate lângă Nicosia, reprezintă unul dintre cele mai emoționante situri istorice din Cipru. Satul, odinioară prosper, a fost abandonat în urma conflictelor intercomunitare din anul 1964 și a devenit un „sat fantomă”, caracterizat prin case de chirpici în ruină și străzi invadate de vegetație. Reperul central este biserica gotică neterminată Sfântul Mamas, datând din secolul al XVI-lea, ale cărei arcade masive din piatră se înalță maiestuos spre cer fără acoperiș. În stâncile de calcar din apropiere se află chilia de piatră a Sfântului Sozomenos din secolul al XII-lea, decorată cu fresce bizantine. Această peșteră a servit drept refugiu sfântului care dă numele localității și rămâne până astăzi un loc de venerație locală. Peisajul arid și vast care înconjoară satul subliniază atmosfera melancolică a acestui loc părăsit. Agios Sozomenos servește în prezent ca un monument de avertizare pentru istoria recentă a insulei și este o destinație populară pentru fotografi și arheologi interesați de arhitectura rurală și moștenirea religioasă.",
-      en: "The ruins of Agios Sozomenos near Nicosia form one of the most poignant historical sites in Cyprus. Once a thriving mixed village, it was abandoned following the intercommunal conflicts in 1964 and remains a 'ghost village' characterized by decaying mudbrick houses and overgrown lanes. The most striking feature of the site is the unfinished 16th-century Gothic church of Agios Mamas, whose massive stone arches rise majestically towards the sky without a roof. Carved into the nearby limestone cliffs is the 12th-century hermitage of Saint Sozomenos, decorated with Byzantine frescoes. This cave served as the dwelling for the village's namesake saint and remains a site of local veneration to this day. The stark, expansive landscape surrounding the village heightens the melancholy atmosphere of this deserted place. Today, Agios Sozomenos serves as a silent reminder of the island's recent history and is a popular destination for photographers and archaeologists interested in traditional rural architecture and religious heritage.",
-    },
-    factsAdvanced: {
-      de: ["Dorf wurde 1964 infolge von Unruhen vollständig verlassen.", "Die Kirche Agios Mamas wurde im 16. Jahrhundert unvollendet gelassen.", "Byzantinische Höhleneinsiedelei des Hl. Sozomenos stammt aus dem 12. Jahrhundert.", "Die Ruinen liegen etwa 12 Kilometer südlich der Hauptstadt Nikosia.", "Die Häuser wurden traditionell aus getrockneten Lehmziegeln gebaut.", "Der Ort wird heute oft als Filmkulisse für historische Themen genutzt."],
-      hu: ["A falut 1964-ben, a zavargások idején hagyták el végleg.", "A Szent Mamasz-templom építése a 16. században szakadt félbe.", "A barlangi remetelak a 12. századból származik.", "A romok körülbelül 12 kilométerre délre fekszenek Nikosziától.", "A házak hagyományos módon, napon szárított vályogtéglából épültek.", "A helyszín ma népszerű fotózási helyszín és filmforgatási díszlet."],
-      ro: ["Satul a fost abandonat integral în anul 1964 în urma conflictelor.", "Biserica Sf. Mamas a rămas neterminată încă din secolul al XVI-lea.", "Chilia bizantină în peșteră a Sf. Sozomenos datează din secolul al XII-lea.", "Situl este situat la aproximativ 12 kilometri sud de Nicosia.", "Casele au fost construite tradițional din cărămizi de chirpici uscate la soare.", "Zona este utilizată frecvent ca decor pentru producții cinematografice istorice."],
-      en: ["The village was completely abandoned in 1964 due to civil unrest.", "Agios Mamas Gothic church has remained unfinished since the 16th century.", "Saint Sozomenos' cave hermitage features 12th-century Byzantine art.", "The ruins are located approximately 12 kilometers south of Nicosia.", "Traditional mudbrick construction is clearly visible in the house ruins.", "The site is frequently used by photographers for its dramatic landscape."],
-    },
-    image: "/poi-images/cyprus-agios-sozomenos-history-v2.webp",
-  },
-  {
+    {
     id: "cyprus-frourio-castle-history-v2",
     type: "castle",
     parent: "CY",

@@ -2,34 +2,7 @@
 import type { POI } from "./poi";
 
 export const poiExtraTanzaniaNatureV2: POI[] = [
-  {
-    id: "kilimanjaro-nature-v2",
-    type: "mountain",
-    parent: "TZ-02",
-    coords: [37.3556, -3.0674],
-    name: { de: "Kilimandscharo", hu: "Kilimandzsáró", ro: "Kilimanjaro", en: "Kilimanjaro"},
-    image: "/poi-images/kilimanjaro-nature-v2.webp",
-    description: { de: "Der höchste Berg Afrikas.", hu: "Afrika legmagasabb hegye.", ro: "Cel mai înalt munte din Africa.", en: "The highest mountain in Africa." },
-    facts: {
-      de: ["Er ist ein Schichtvulkan.", "Er hat drei Vulkankegel.", "Er liegt in Tansania.", "Er ist über 5.800 m hoch."],
-      hu: ["Rétegvulkán.", "Három vulkáni kúpja van.", "Tanzániában található.", "Több mint 5800 m magas."],
-      ro: ["Este un vulcan stratificat.", "Are trei conuri vulcanice.", "Este situat în Tanzania.", "Are o înălțime de peste 5.800 m."],
-      en: ["It is a stratovolcano.", "It has three volcanic cones.", "It is located in Tanzania.", "It is over 5,800 m high."]
-    }, image: "/poi-images/kilimanjaro-nature-v2.webp",
-    descriptionAdvanced: {
-      de: "Der höchste Berg Afrikas. Er ist ein Schichtvulkan. Er hat drei Vulkankegel. Er liegt in Tansania. Er ist über 5.800 m hoch. Damit zählt der Ort zu den charakteristischen Punkten Tansanias — eines ostafrikanischen Landes, das vom Kilimandscharo, der Serengeti, dem Ngorongoro-Krater, dem Viktoriasee und dem Tanganjikasee, der Inselwelt um Sansibar an der Küste des Indischen Ozeans sowie vom Reichtum an Kaffee, Gewürznelken und Goldvorkommen geprägt ist — und bietet einen Einblick in die regionale Identität. Liegt im ostafrikanischen Staat Tansania zwischen dem Indischen Ozean und der Region der Großen Seen.",
-      hu: "Afrika legmagasabb hegye. Rétegvulkán. Három vulkáni kúpja van. Tanzániában található. Több mint 5800 m magas. Ezzel a hely Tanzánia egyik jellegzetes pontja — egy olyan kelet-afrikai országé, amelyet a Kilimandzsáró, a Serengeti, a Ngorongoro-kráter, a Viktória-tó és a Tanganyika-tó, a Zanzibár szigetvilága az Indiai-óceán partvidékén, valamint a kávé, a szegfűszeg és az aranybányászat gazdagsága formált —, és betekintést nyújt a regionális identitásba. A kelet-afrikai Tanzánia területén fekszik, az Indiai-óceán és a Nagy-tavak vidéke között.",
-      ro: "Cel mai înalt munte din Africa. Este un vulcan stratificat. Are trei conuri vulcanice. Este situat în Tanzania. Are o înălțime de peste 5.800 m. Astfel, locul se numără printre punctele caracteristice ale Tanzaniei — o țară est-africană modelată de Kilimanjaro, de Serengeti, de craterul Ngorongoro, de lacurile Victoria și Tanganyika, de arhipelagul Zanzibar de pe coasta Oceanului Indian, precum și de bogăția în cafea, cuișoare și minele de aur — și oferă o imagine asupra identității regionale. Este situat în statul est-african Tanzania, între Oceanul Indian și regiunea Marilor Lacuri.",
-      en: "The highest mountain in Africa. It is a stratovolcano. It has three volcanic cones. It is located in Tanzania. It is over 5,800 m high. Thus, the site is among the characteristic points of Tanzania — an East African country shaped by Mount Kilimanjaro, the Serengeti, the Ngorongoro Crater, Lake Victoria and Lake Tanganyika, the Zanzibar archipelago along the Indian Ocean coast, and its wealth in coffee, cloves and gold mining — and offers insight into the regional identity. Located in the East African state of Tanzania, between the Indian Ocean and the Great Lakes region."
-    },
-    factsAdvanced: {
-      de: ["Der höchste Berg Afrikas.", "Liegt im ostafrikanischen Staat Tansania zwischen dem Indischen Ozean und der Region der Großen Seen.", "Die Region zählt zum tropischen Klimagürtel mit ausgeprägter Regen- und Trockenzeit.", "Erreichbar über das nationale Straßennetz, das von Dar es Salaam und Dodoma ausgeht."],
-      hu: ["Afrika legmagasabb hegye.", "A kelet-afrikai Tanzánia területén fekszik, az Indiai-óceán és a Nagy-tavak vidéke között.", "A régiót trópusi éghajlat jellemzi, határozott esős és száraz évszakkal.", "A Dar es Salaamból és Dodomából kiinduló közúthálózaton keresztül érhető el."],
-      ro: ["Cel mai înalt munte din Africa.", "Este situat în statul est-african Tanzania, între Oceanul Indian și regiunea Marilor Lacuri.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Dar es Salaam și Dodoma."],
-      en: ["The highest mountain in Africa.", "Located in the East African state of Tanzania, between the Indian Ocean and the Great Lakes region.", "The region lies within the tropical belt, with marked rainy and dry seasons.", "Accessible via the national road network radiating from Dar es Salaam and Dodoma."]
-    }
-  },
-  {
+    {
     id: "victoria-see-nature-v2",
     type: "lake",
     parent: "TZ-14",

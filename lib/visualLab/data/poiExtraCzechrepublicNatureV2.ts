@@ -36,42 +36,7 @@ export const czechrepublicNatureV2: POI[] = [
       en: [],
     },
   },
-  {
-    id: "czechrepublic-pravcicka-brana-nature-v2",
-    parent: "CZ",
-    type: "landmark",
-    name: { de: "Prebischtor", hu: "Pravčická brána", ro: "Poarta Pravčická", en: "Pravcice Gate"},
-    image: "/poi-images/czechrepublic-pravcicka-brana-nature-v2.webp",
-    coords: [14.2817, 50.8839],
-    coords: [14.2817, 50.8839],
-    description: {
-      de: "Das Prebischtor ist das größte natürliche Sandsteinfelsentor in Europa und ein Wahrzeichen der Böhmischen Schweiz. Es überspannt eine beachtliche Breite am Rande einer Felswand.",
-      hu: "Európa legnagyobb természetes homokkő kapuja, a Cseh Svájc jelképe. Egy sziklafal peremén található, monumentális méretekkel rendelkezik.",
-      ro: "Poarta Pravčická este cea mai mare poartă naturală de gresie din Europa și un simbol al Elveției Boeme. Se întinde pe o lățime considerabilă la marginea unei stânci.",
-      en: "The Pravcice Gate is the largest natural sandstone arch in Europe and a symbol of Bohemian Switzerland. It spans a significant width at the edge of a cliff wall.",
-    },
-    facts: {
-      de: ["Spannweite des Bogens: 26,5 Meter", "Lichte Höhe: 16 Meter", "Drehort für 'Die Chroniken von Narnia'", "Betreten des Bogens seit 1982 verboten"],
-      hu: ["Az ív fesztávolsága 26,5 méter", "Belső magassága 16 méter", "A Narnia krónikái forgatási helyszíne", "Az ívre való rálépés 1982 óta tilos"],
-      ro: ["Deschiderea arcului este de 26,5 metri", "Înălțimea liberă este de 16 metri", "Loc de filmare pentru 'Cronicile din Narnia'", "Accesul pe arc este interzis din 1982"],
-      en: ["Arch span of 26.5 meters", "Clear height of 16 meters", "Filming location for 'The Chronicles of Narnia'", "Stepping on the arch forbidden since 1982"],
-    },
-    imageHint: "Pravcice Gate sandstone arch Czech Switzerland",
-    image: "/poi-images/czechrepublic-pravcicka-brana-nature-v2.webp",
-    descriptionAdvanced: {
-      de: "Das Prebischtor (Pravčická brána) ist das beeindruckendste Naturdenkmal im Nationalpark Böhmische Schweiz und das größte natürliche Sandsteintor Europas. Mit einer Spannweite von 26,5 Metern und einer lichten Höhe von 16 Metern thront es majestätisch auf einem Felsmassiv. Die Formation entstand über Millionen von Jahren durch Verwitterungsprozesse im weicheren Sandstein. Direkt neben dem Tor befindet sich das historische Ausflugsrestaurant 'Sokolfalkennest' (Sokolí hnízdo), das 1881 im alpinen Stil erbaut wurde und eine märchenhafte Atmosphäre schafft. Der Zugang zum Bogen selbst ist seit 1982 für Besucher gesperrt, um die empfindliche Struktur vor Erosion zu schützen, aber zahlreiche Aussichtspunkte in der Umgebung bieten atemberaubende Blicke auf das Tor und die umliegende Felsenlandschaft. Das Prebischtor war auch Drehort für einige Szenen des Films 'Die Chroniken von Narnia'.",
-      hu: "A Pravčická brána (németül Prebischtor) a Cseh Svájc Nemzeti Park leglenyűgözőbb természeti emléke és Európa legnagyobb természetes homokkő sziklakapuja. A 26,5 méteres fesztávolságú és 16 méteres belső magasságú kapu fenségesen magasodik egy sziklamasszívumon. A formáció évmilliók során, a puhább homokkő mállási folyamatai révén jött létre. Közvetlenül a kapu mellett található a történelmi 'Sólyomfészek' (Sokolí hnízdo) kirándulóvendéglő, amely 1881-ben épült alpesi stílusban, mesebeli hangulatot teremtve. Magára a boltívre 1982 óta tilos a belépés, hogy megvédjék az érzékeny szerkezetet az eróziótól, de a környéken számos kilátópontról lélegzetelállító látvány nyílik a kapura és a környező sziklavilágra. A Pravčická brána a 'Narnia krónikái' című film egyes jeleneteinek forgatási helyszínéül is szolgált.",
-      ro: "Poarta Pravčická (Pravčická brána) este cel mai impresionant monument natural din Parcul Național Elveția Boemă și cea mai mare poartă naturală de gresie din Europa. Cu o deschidere de 26,5 metri și o înălțime de 16 metri, se înalță maiestuos pe un masiv stâncos. Formațiunea a apărut de-a lungul a milioane de ani prin procese de eroziune a gresiei mai moi. Chiar lângă poartă se află restaurantul istoric 'Cuibul de Șoim' (Sokolí hnízdo), construit în 1881 în stil alpin, creând o atmosferă de basm. Accesul pe arcadă este interzis vizitatorilor din 1982 pentru a proteja structura sensibilă de eroziune, dar numeroase puncte de belvedere din jur oferă priveliști uluitoare asupra porții și peisajului stâncos înconjurător. Poarta Pravčická a fost, de asemenea, o locație de filmare pentru unele scene din filmul 'Cronicile din Narnia'.",
-      en: "The Pravčice Gate (Pravčická brána) is the most impressive natural monument in the Bohemian Switzerland National Park and the largest natural sandstone arch in Europe. With a span of 26.5 meters and a clear height of 16 meters, it sits majestically atop a rock massif. The formation was created over millions of years through weathering processes in the softer sandstone. Right next to the arch is the historic 'Falcon's Nest' (Sokolí hnízdo) excursion restaurant, built in 1881 in an alpine style, creating a fairytale atmosphere. Access to the arch itself has been prohibited for visitors since 1982 to protect the delicate structure from erosion, but numerous viewpoints in the vicinity offer breathtaking views of the gate and the surrounding rock landscape. The Pravčice Gate also served as a filming location for some scenes in the movie 'The Chronicles of Narnia'.",
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: [],
-    },
-  },
-  {
+    {
     id: "czechrepublic-macocha-abyss-nature-v2",
     parent: "CZ",
     type: "valley",

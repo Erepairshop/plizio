@@ -1057,40 +1057,7 @@ export const denmarkReliefV2: POI[] = [
     },
     image: "/poi-images/denmark-fureso-bakke-relief-v2.webp",
   },
-  {
-    id: "denmark-bronshoj-relief-v2",
-    type: "peak",
-    parent: "DK",
-    name: { de: "Brønshøj", hu: "Brønshøj", ro: "Brønshøj", en: "Brønshøj" },
-    coords: [12.4811, 55.6955],
-    description: {
-      de: "Brønshøj ist eine Anhöhe innerhalb der Kopenhagener Stadtregion. Das Relief ist ein natürliches Moränenplateau.",
-      hu: "Brønshøj egy magaslat Koppenhága városrégióján belül. A domborzat egy természetes morénaplató.",
-      ro: "Brønshøj este o elevație în regiunea metropolitană Copenhaga. Relieful este un platou morenic natural.",
-      en: "Brønshøj is an elevation within the Copenhagen city region. The relief is a natural moraine plateau.",
-    },
-    facts: {
-      de: ["Moränenplateau", "Kopenhagen", "Städtisches Relief", "Eiszeitliche Bildung"],
-      hu: ["Morénaplató", "Koppenhága", "Városi domborzat", "Jégkorszaki képződés"],
-      ro: ["Platou morenic", "Copenhaga", "Relief urban", "Formare din epoca glaciară"],
-      en: ["Moraine plateau", "Copenhagen", "Urban relief", "Ice age formation"],
-    },
-    imageHint: "Bronshoj Copenhagen",
-    descriptionAdvanced: {
-      de: "Brønshøj ist ein hügeliger Stadtteil von Kopenhagen auf einer Endmoräne. Historisch diente die Anhöhe während der Belagerung der Stadt im 17. Jahrhundert als Feldlager.",
-      hu: "Brønshøj Koppenhága dombos negyede, amely egy végmorénán fekszik. Történelmileg a város 17. századi ostromakor katonai táborhelyként szolgált a dombtető.",
-      ro: "Brønshøj este un cartier deluros din Copenhaga, situat pe o morenă terminală. Istoric, înălțimea a servit ca tabără militară în secolul al XVII-lea.",
-      en: "Brønshøj is a hilly district of Copenhagen situated on a terminal moraine. Historically, the elevation served as a military camp during the 17th-century siege.",
-    },
-    factsAdvanced: {
-      de: ["Kopenhagen Stadtteil", "Endmoräne", "Carlstad Feldlager 1658", "Höchste Punkte der Stadt"],
-      hu: ["Koppenhágai kerület", "Végmoréna", "Carlstad tábor 1658", "Városi magaslat"],
-      ro: ["Cartier din Copenhaga", "Morenă terminală", "Tabăra Carlstad 1658", "Punct înalt urban"],
-      en: ["Copenhagen district", "Terminal moraine", "Carlstad camp 1658", "Urban high point"],
-    },
-    image: "/poi-images/denmark-bronshoj-relief-v2.webp",
-  },
-  {
+    {
     id: "denmark-slagelse-bakke-relief-v2",
     type: "peak",
     parent: "DK",

@@ -391,33 +391,7 @@ export const elsalvadorLandmarks: POI[] = [
     },
     historyYear: 100,
     historyPeriod: "Classical", image: "/poi-images/sv-tazumal.webp"},
-  { 
-    id: "sv-coatepeque", 
-    type: "lake", 
-    parent: "SV", 
-    coords: [-89.5500, 13.8667], 
-    name: { de: "Lago de Coatepeque", hu: "Coatepeque-tó", ro: "Lacul Coatepeque", en: "Lake Coatepeque" }, 
-    description: { de: "Ein wunderschöner Kratersee in der Nähe des Vulkans Santa Ana.", hu: "Gyönyörű krátertó a Santa Ana vulkán közelében.", ro: "Un frumos lac de crater lângă vulcanul Santa Ana.", en: "A beautiful volcanic caldera lake near the Santa Ana Volcano." },
-    descriptionAdvanced: {
-      de: "Der Coatepeque-See ist ein prachtvoller Kratersee vulkanischen Ursprungs, der für seine tiefblaue Farbe bekannt ist. Der See liegt in einer riesigen Caldera und ist von bewaldeten Hügeln umgeben, was ihn zu einem der beliebtesten Touristenziele für Wassersport und Entspannung macht.",
-      hu: "A Coatepeque-tó egy gyönyörű, vulkáni eredetű krátertó, amely mélykék színéről ismert. A tó egy hatalmas kalderában fekszik, erdős dombokkal körülvéve, és az ország egyik legnépszerűbb turisztikai célpontja vízi sportokhoz és kikapcsolódáshoz.",
-      ro: "Lacul Coatepeque este un superb lac de crater de origine vulcanică, cunoscut pentru culoarea sa albastru intens. Lacul este situat într-o calderă imensă și este înconjurat de dealuri împădurite.",
-      en: "Lake Coatepeque is a stunning volcanic crater lake renowned for its deep blue waters. Nestled within a massive caldera, the lake is surrounded by lush hills and serves as a premier destination for water sports, fine dining, and weekend getaways."
-    },
-    facts: {
-      de: ["Einer der schönsten Seen der Welt.", "Fläche: ca. 26 km².", "Klarer, tiefblauer Kratersee.", "Wichtiges Touristenziel."],
-      hu: ["A világ egyik legszebb tava.", "Területe: kb. 26 km².", "Tiszta, mélykék krátertó.", "Fontos turisztikai célpont."],
-      ro: ["Unul dintre cele mai frumoase lacuri din lume.", "Suprafață: aprox. 26 km².", "Lac de crater curat, albastru închis.", "Importantă destinație turistică."],
-      en: ["Named one of the most beautiful lakes in the world.", "Surface area: approx. 26 sq km.", "Volcanic caldera formation.", "Popular spot for jet-skiing and sailing."]
-    },
-    factsAdvanced: {
-      de: ["Gelegentlich ändert der See seine Farbe aufgrund von Algenphänomenen zu Türkis.", "Im See gibt es eine Insel namens 'Isla Teopán', ein ehemaliges Maya-Heiligtum.", "Die Caldera entstand durch Einstürze vor Zehntausenden von Jahren."],
-      hu: ["Alkalmanként a tó színe algásodás miatt türkizkékre változik.", "A tóban található egy 'Isla Teopán' nevű sziget, amely egykori maja szentély volt.", "A kaldera több tízezer évvel ezelőtti beomlások során jött létre."],
-      ro: ["Ocazional, lacul își schimbă culoarea în turcoaz din cauza algelor.", "În lac există o insulă numită \\\"Isla Teopán\\\", un fost sanctuar mayaș.", "Caldera s-a format prin prăbușiri în urmă cu zeci de mii de ani."],
-      en: ["The lake's water occasionally turns a vibrant turquoise due to seasonal algae blooms.", "Isla Teopán, located in the lake, was a sacred site for the ancient Pipil and Maya.", "The lake is surrounded by steep caldera walls rising up to 250 meters above the water."]
-    },
-    area: 26, image: "/poi-images/sv-coatepeque.webp"},
-  { 
+    { 
     id: "sv-santaanavolcano", 
     type: "mountain", 
     parent: "SV", 

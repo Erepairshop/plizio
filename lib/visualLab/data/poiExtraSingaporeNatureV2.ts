@@ -74,115 +74,7 @@ export const poiExtraSingaporeNatureV2: POI[] = [
       en: ["202 hectares in size", "Opened in 1993", "First ASEAN Heritage Park in Singapore", "Over 230 bird species recorded", "10 km of walking trails", "3 km mangrove boardwalk"],
     },
   },
-  {
-    id: "sg-macritchie-reservoir-park-nature-v2",
-    type: "lake",
-    parent: "SG-01",
-    coords: [103.8209, 1.3421],
-    name: {
-      de: "MacRitchie-Stausee-Park",
-      hu: "MacRitchie Víztározó Park",
-      ro: "Parcul Rezervorului MacRitchie",
-      en: "MacRitchie Reservoir Park"},
-    image: "/poi-images/sg-macritchie-reservoir-park-nature-v2.webp",
-    description: {
-      de: "Der älteste Stausee Singapurs, umgeben von üppigem Regenwald und ein beliebter Ort für Wassersport und Naturwanderungen.",
-      hu: "Szingapúr legrégebbi víztározója, buja esőerdővel körülvéve, népszerű hely a vízi sportok és a természetjárás szerelmeseinek.",
-      ro: "Cel mai vechi rezervor din Singapore, înconjurat de pădure tropicală luxuriantă și un loc popular pentru sporturi acvatice și drumeții în natură.",
-      en: "Singapore's oldest reservoir, surrounded by lush rainforest and a popular spot for water sports and nature trails."
-    },
-    facts: {
-      de: ["Bekannt für den TreeTop Walk, eine Hängebrücke.", "Heimat von Langschwanzmakaken und Fluglemuren."],
-      hu: ["Híres a TreeTop Walk függőhídról.", "Hosszúfarkú makákók és repülőmókusok otthona."],
-      ro: ["Renumit pentru TreeTop Walk, un pod suspendat.", "Adăpostește macaci cu coadă lungă și lemuri zburători."],
-      en: ["Famous for the TreeTop Walk, a suspension bridge.", "Home to long-tailed macaques and flying lemurs."]
-    }, image: "/poi-images/sg-macritchie-reservoir-park-nature-v2.webp",
-    descriptionAdvanced: {
-      de: "Der MacRitchie Reservoir Park ist ein 125 Hektar großes Wald- und Wasserreservoir im Herzen Singapurs, das 1868 als erstes Wasserreservoir der Insel angelegt wurde. Umgeben von sekundärem Regenwald, bietet der Park ein ausgedehntes Netz von Wander- und Joggingwegen, darunter den berühmten 11 km langen MacRitchie TreeTop Walk, eine 250 m lange Hängebrücke in 25 m Höhe, die Einblicke in das Kronendach des Waldes gewährt. Der Stausee hat eine Kapazität von 4,5 Millionen Kubikmetern und dient der Trinkwasserversorgung. Die Fauna umfasst Langschwanzmakaken, Weißbauch-Seeadler und die seltene Schildkröte Cuora amboinensis.",
-      hu: "A MacRitchie Reservoir Park Szingapúr egyik legrégebbi víztározója, amelyet 1868-ban építettek. A 125 hektáros terület erdővel borított része gazdag biológiai sokféleséggel büszkélkedhet, többek között 150 madárfaj és 34 emlősfaj él itt. A park népszerű a futók és a természetjárók körében, mivel 11 km hosszú, jól karbantartott ösvényekkel rendelkezik. A fák koronaszintjén átvezető 250 m hosszú függőhíd, a TreeTop Walk, 25 m magasságban ível a fák között. A víztározó kapacitása 4,5 millió köbméter. A park ad otthont a Szingapúri Nemzeti Vízügyi Hivatal kutatóközpontjának is.",
-      ro: "MacRitchie Reservoir Park este un parc de 125 de hectare situat în jurul primului rezervor de apă al Singaporelui, construit în 1868. Pădurea secundară tropicală care îl înconjoară găzduiește o diversitate de viețuitoare, inclusiv 150 de specii de păsări și 34 de mamifere. Traseul emblematic TreeTop Walk este o pasarelă suspendată de 250 de metri, situată la 25 de metri deasupra solului, care permite observarea vieții din coronament. Rezervorul are o capacitate de 4,5 milioane de metri cubi și face parte din sistemul de alimentare cu apă al insulei. Pe lângă drumeții, parcul oferă și activități precum pescuitul sportiv și plimbări cu barca pe lac.",
-      en: "MacRitchie Reservoir Park, covering 125 hectares, surrounds Singapore's oldest reservoir, built in 1868. The mature secondary rainforest hosts a wide range of wildlife, including long-tailed macaques, monitor lizards, and over 150 bird species. The centerpiece is the TreeTop Walk, a 250-meter-long suspension bridge 25 meters above the forest floor, offering a canopy-level perspective. The reservoir itself holds 4.5 million cubic meters of water and is a key component of Singapore's water supply network. The park also features a 5.5 km running track along the water's edge and multiple boardwalks through the forest. It is a popular site for nature photography and birdwatching.",
-    },
-    factsAdvanced: {
-      de: ["125 Hektar Fläche", "Erstes Wasserreservoir Singapurs, gebaut 1868", "TreeTop Walk: 250 m lang, 25 m hoch", "4,5 Mio. Kubikmeter Kapazität", "150 Vogelarten", "11 km Wanderwege"],
-      hu: ["125 hektáros terület", "1868-ban épült víztározó", "TreeTop Walk: 250 m hosszú, 25 m magas", "4,5 millió köbméter kapacitás", "150 madárfaj", "11 km hosszú ösvényhálózat"],
-      ro: ["125 de hectare", "Rezervor construit în 1868", "TreeTop Walk: 250 m lungime, 25 m înălțime", "Capacitate de 4,5 milioane mc", "150 de specii de păsări", "11 km de trasee"],
-      en: ["125 hectares", "Oldest reservoir in Singapore, built 1868", "TreeTop Walk: 250 m long, 25 m high", "4.5 million cubic meters capacity", "Over 150 bird species", "11 km of trails"],
-    },
-  },
-  {
-    id: "sg-pulau-ubin-nature-v2",
-    type: "island",
-    parent: "SG-01",
-    coords: [103.9622, 1.4111],
-    name: {
-      de: "Pulau Ubin",
-      hu: "Pulau Ubin",
-      ro: "Pulau Ubin",
-      en: "Pulau Ubin"},
-    image: "/poi-images/sg-pulau-ubin-nature-v2.webp",
-    description: {
-      de: "Eine rustikale Insel vor der Nordostküste Singapurs, die einen Einblick in das Singapur der 1960er Jahre bietet.",
-      hu: "Egy rusztikus sziget Szingapúr északkeleti partjainál, amely bepillantást nyújt a hatvanas évek Szingapúrjába.",
-      ro: "O insulă rustică în largul coastei de nord-est a Singaporelui, oferind o privire în Singapore-ul anilor 1960.",
-      en: "A rustic island off Singapore's northeastern coast, offering a glimpse of what Singapore was like in the 1960s."
-    },
-    facts: {
-      de: ["Heimat der Chek Jawa Feuchtgebiete.", "Beliebt zum Mountainbiken und Wandern.", "Granitsteinbrüche prägen die Landschaft."],
-      hu: ["Itt található a Chek Jawa vizes élőhely.", "Népszerű a hegyi kerékpározás és a túrázás.", "Gránitbányák alakítják a tájat."],
-      ro: ["Găzduiește zonele umede Chek Jawa.", "Populară pentru ciclism montan și drumeții.", "Carierele de granit modelează peisajul."],
-      en: ["Home to the Chek Jawa Wetlands.", "Popular for mountain biking and hiking.", "Granite quarries shape the landscape."]
-    }, image: "/poi-images/sg-pulau-ubin-nature-v2.webp",
-    descriptionAdvanced: {
-      de: "Pulau Ubin ist eine 10,2 Quadratkilometer große Insel vor der Nordostküste Singapurs, die für ihren ländlichen Charakter und ihre reiche Biodiversität bekannt ist. Die Insel war einst ein Zentrum des Granitabbaus, wovon verlassene Steinbrüche wie der „Ubin Quarry“ zeugen. Heute ist sie ein beliebtes Ziel für Naturliebhaber, die die Mangrovenwälder, Küstenwälder und Seegraswiesen erkunden. Über 200 Vogelarten, darunter der seltene Schuppenbartvogel, und 60 Schmetterlingsarten wurden dokumentiert. Die Insel beherbergt auch das „Chek Jawa Wetlands“, ein 100 Hektar großes Feuchtgebiet mit hohem ökologischem Wert. Die Fährverbindung vom Changi Point Ferry Terminal dauert 10 Minuten.",
-      hu: "Pulau Ubin egy 10,2 négyzetkilométeres sziget Szingapúr északkeleti partjainál, amely megőrizte falu hangulatát és természetes környezetét. A sziget egykor virágzó gránitbányászatáról volt ismert, ma már turisták keresik fel a természeti szépségek miatt. A Chek Jawa terület gazdag mangroveerdőkben és tengerifű mezőkben, és számos vándormadár pihen itt. A szigeten biciklitúrák és gyalogtúrák szervezhetők, a kerékpárbérlés népszerű. A szigeten található a „Pulau Ubin Fruit Farm” is, ahol trópusi gyümölcsöket termesztenek. A látogatók számát naponta korlátozzák a környezet védelme érdekében.",
-      ro: "Pulau Ubin este o insulă de 10,2 km² situată în largul coastei de nord-est a Singaporelui, cunoscută pentru peisajele sale rurale și biodiversitatea remarcabilă. Insula a fost un important centru de exploatare a granitului până în anii 1970, iar fostele cariere au fost transformate în iazuri pitorești. Pădurile de mangrove de pe țărmul vestic adăpostesc crabi și macrofaună diversă. Chek Jawa, o zonă umedă de 100 de hectare, este un ecosistem unic care combină pădurea tropicală, mangrovele și recifele de corali. Insula este accesibilă cu feribotul din terminalul Changi Point, într-o călătorie de 10 minute.",
-      en: "Pulau Ubin is a 10.2 square kilometer island off Singapore's northeast coast, known for its rustic charm and diverse ecosystems. Once a hub for granite quarrying, the island now features abandoned quarries that have become freshwater ponds. It is home to over 200 bird species, including the rare Asian Palm Swift, and 60 butterfly species. The Chek Jawa Wetlands, a 100-hectare intertidal area, offer a rare combination of six different habitats: sandy shore, rocky shore, seagrass lagoon, coral rubble, mangroves, and coastal forest. Visitors can explore by bicycle or on foot, with several trails connecting key points. The island's population has dwindled to fewer than 100 residents.",
-    },
-    factsAdvanced: {
-      de: ["10,2 km² Fläche", "Ehemaliger Granitabbau", "Chek Jawa Feuchtgebiet: 100 Hektar", "Über 200 Vogelarten", "60 Schmetterlingsarten", "Fährzeit 10 Minuten ab Changi Point"],
-      hu: ["10,2 km² terület", "Volt gránitbányászat", "Chek Jawa: 100 hektáros vizes élőhely", "Több mint 200 madárfaj", "60 pillangófaj", "Komputazás: 10 perc Changi Pointról"],
-      ro: ["10,2 km² suprafață", "Foste cariere de granit", "Chek Jawa: 100 de hectare umede", "Peste 200 de specii de păsări", "60 de specii de fluturi", "Feribot 10 minute de la Changi Point"],
-      en: ["10.2 square kilometers", "Former granite quarrying", "Chek Jawa wetlands: 100 hectares", "Over 200 bird species", "60 butterfly species", "10-minute ferry from Changi Point"],
-    },
-  },
-  {
-    id: "sg-singapore-botanic-gardens-nature-v2",
-    type: "national-park",
-    parent: "SG-01",
-    coords: [103.8158, 1.3138],
-    name: {
-      de: "Botanischer Garten Singapur",
-      hu: "Szingapúri Botanikus Kert",
-      ro: "Grădinile Botanice din Singapore",
-      en: "Singapore Botanic Gardens"},
-    image: "/poi-images/sg-singapore-botanic-gardens-nature-v2.webp",
-    description: {
-      de: "Ein 160 Jahre alter tropischer Garten im Herzen der Stadt, der als UNESCO-Weltkulturerbe anerkannt ist.",
-      hu: "Egy 160 éves trópusi kert a város szívében, amely az UNESCO Világörökség része.",
-      ro: "O grădină tropicală veche de 160 de ani în inima orașului, recunoscută ca sit al Patrimoniului Mondial UNESCO.",
-      en: "A 160-year-old tropical garden in the heart of the city, recognized as a UNESCO World Heritage Site."
-    },
-    facts: {
-      de: ["Das erste und einzige tropische botanische Garten auf der UNESCO-Liste.", "Beherbergt den Nationalen Orchideengarten."],
-      hu: ["Az első és egyetlen trópusi botanikus kert az UNESCO listáján.", "Itt található a Nemzeti Orchidea Kert."],
-      ro: ["Prima și singura grădină botanică tropicală de pe lista UNESCO.", "Găzduiește Grădina Națională de Orhidee."],
-      en: ["The first and only tropical botanic garden on the UNESCO list.", "Houses the National Orchid Garden."]
-    }, image: "/poi-images/sg-singapore-botanic-gardens-nature-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Singapore Botanic Gardens sind ein 82 Hektar großer botanischer Garten im Herzen der Stadt, der 1859 gegründet und 2015 zum UNESCO-Weltkulturerbe erklärt wurde. Der Garten beherbergt eine der weltweit größten Orchideensammlungen mit über 1.000 Arten und 2.000 Hybriden im „National Orchid Garden“. Die Anlage umfasst verschiedene Themenbereiche wie den „Rain Forest“, einen 6 Hektar großen primären Regenwald, und den „Healing Garden“ mit Heilpflanzen. Die Gärten dienen auch als Forschungszentrum für Pflanzentaxonomie und -konservierung. Jährlich besuchen über 5 Millionen Menschen die Anlagen. Der Eintritt ist frei, mit Ausnahme des National Orchid Garden.",
-      hu: "A Szingapúri Botanikus Kertet 1859-ben alapították, és 2015-ben az UNESCO Világörökség részévé nyilvánították. A 82 hektáros kert trópusi növények ezreit mutatja be, és kiemelkedő a orchidea gyűjteménye, amely több mint 1000 fajt és 2000 hibridet tartalmaz. A kertben található a „Ginger Garden”, ahol a gyömbérfélék számos faját láthatjuk, valamint a „Symphony Lake”, ahol gyakran tartanak koncerteket. A kert fontos kutatási központként is szolgál: a Szingapúri Nemzeti Egyetemmel együttműködve növénygenetikai kutatásokat végeznek. Évente körülbelül 5 millió látogató keresi fel a kertet.",
-      ro: "Grădinile Botanice din Singapore, fondate în 1859, sunt un sit UNESCO din 2015 și se întind pe 82 de hectare. Acestea găzduiesc peste 10.000 de specii de plante, inclusiv una dintre cele mai mari colecții de orhidee din lume, cu peste 1.000 de specii și 2.000 de hibrizi. Grădina Națională de Orhidee, deschisă în 1995, este o atracție majoră. Pe lângă colecțiile botanice, grădinile includ o pădure tropicală primară de 6 hectare, care este mai veche decât grădina însăși. Grădinile sunt și un centru de cercetare, cu un herbar care conține peste 750.000 de specimene. Intrarea este gratuită, cu excepția secțiunii de orhidee.",
-      en: "The Singapore Botanic Gardens, founded in 1859 and a UNESCO World Heritage Site since 2015, spans 82 hectares in the heart of the city. It holds an extensive collection of tropical flora, including the National Orchid Garden featuring over 1,000 species and 2,000 hybrids. The gardens also contain a 6-hectare primary rainforest, one of the few remaining in Singapore, with trees over 100 years old. Three lakes—Eco-Lake, Symphony Lake, and Swan Lake—provide habitats for wildlife such as waterhens and otters. The research department conducts studies on plant taxonomy and conservation, and the library holds over 30,000 botanical volumes.",
-    },
-    factsAdvanced: {
-      de: ["82 Hektar Fläche", "Gegründet 1859", "UNESCO-Welterbe seit 2015", "Über 1.000 Orchideenarten, 2.000 Hybriden", "6 Hektar primärer Regenwald", "Jährlich über 5 Mio. Besucher"],
-      hu: ["82 hektáros terület", "1859-ben alapították", "UNESCO Világörökség 2015 óta", "Több mint 1000 orchideafaj, 2000 hibrid", "6 hektáros elsődleges esőerdő", "Éves látogatottság: 5 millió fő"],
-      ro: ["82 de hectare", "Fondat în 1859", "UNESCO din 2015", "Peste 1.000 de specii de orhidee și 2.000 de hibrizi", "6 hectare de pădure tropicală primară", "5 milioane de vizitatori pe an"],
-      en: ["82 hectares in size", "Founded in 1859", "UNESCO World Heritage Site since 2015", "Over 1,000 orchid species and 2,000 hybrids", "6-hectare primary rainforest", "Over 5 million annual visitors"],
-    },
-  },
-  {
+        {
     id: "sg-labrador-nature-reserve-nature-v2",
     type: "forest",
     parent: "SG-01",
@@ -326,79 +218,7 @@ export const poiExtraSingaporeNatureV2: POI[] = [
       en: ["3-hectare park", "Reservoir built in 1912", "900-meter boardwalk", "Reservoir capacity: 1.2 million cubic meters", "Wildlife: macaques, monitor lizards", "Free entry"],
     },
   },
-  {
-    id: "sg-mount-faber-park-nature-v2",
-    type: "mountain",
-    parent: "SG-01",
-    coords: [103.8183, 1.2736],
-    name: {
-      de: "Mount Faber Park",
-      hu: "Mount Faber Park",
-      ro: "Parcul Mount Faber",
-      en: "Mount Faber Park"},
-    image: "/poi-images/sg-mount-faber-park-nature-v2.webp",
-    description: {
-      de: "Einer der ältesten Parks in Singapur, der einen Panoramablick auf die Stadt und den Hafen bietet.",
-      hu: "Szingapúr egyik legrégebbi parkja, panorámás kilátással a városra és a kikötőre.",
-      ro: "Unul dintre cele mai vechi parcuri din Singapore, oferind vederi panoramice ale orașului și portului.",
-      en: "One of the oldest parks in Singapore, offering panoramic views of the city and harbour."
-    },
-    facts: {
-      de: ["Teil des Southern Ridges.", "Startpunkt der Singapur-Seilbahn nach Sentosa.", "Heimat eines Merlion-Standbilds."],
-      hu: ["A Southern Ridges része.", "A Szingapúri libegő kiindulópontja Sentosa felé.", "Egy Merlion-szobor otthona."],
-      ro: ["Parte a Southern Ridges.", "Punct de plecare pentru telecabina din Singapore către Sentosa.", "Găzduiește o statuie Merlion."],
-      en: ["Part of the Southern Ridges.", "Starting point of the Singapore Cable Car to Sentosa.", "Home to a Merlion statue."]
-    }, image: "/poi-images/sg-mount-faber-park-nature-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Mount Faber Park ist ein 56 Hektar großer Hügelpark im Süden Singapurs, der nach Captain Charles Faber benannt ist, der 1845 die erste Straßenvermessung durchführte. Der 105 m hohe Hügel bietet einen Panoramablick auf den Hafen von Keppel und die Stadt. Der Park ist bekannt für die „Mount Faber Loop“-Seilbahn, die 1974 eröffnet wurde und eine Verbindung zum Sentosa Island herstellt. Die Anlage umfasst auch das „Jewel Box“-Gebäude mit Restaurants und Souvenirläden. Der Park verfügt über 2 km an Wanderwegen, darunter den „Marang Trail“, der zum Telok Blangah Hill Park führt. Die abendliche Beleuchtung schafft eine romantische Atmosphäre.",
-      hu: "A Mount Faber Park egy 56 hektáros park Szingapúr déli részén, a Mount Faber csúcsán (105 m). A parkot 1845-ben nevezték el Charles Faber kapitányról. A Mount Faber Loop felvonó 1974-ben nyílt meg, és összeköti a parkot Sentosa szigetével. A parkból lenyűgöző kilátás nyílik a Keppel-kikötőre és a tengerre. A területen éttermek és ajándékboltok is találhatók. A park népszerű a túrázók körében, a Marang Trail 2 km hosszú.",
-      ro: "Mount Faber Park este un parc pe deal de 56 de hectare în sudul Singaporelui, la 105 m altitudine. Poartă numele căpitanului Charles Faber, care a topografiat zona în 1845. Parcul este renumit pentru telecabina Mount Faber, deschisă în 1974, care leagă parcul de Insula Sentosa. Oferă vederi panoramice ale portului Keppel. Traseul Marang, lung de 2 km, face legătura cu Parcul Telok Blangah. Facilitățile includ restaurante și puncte de belvedere.",
-      en: "Mount Faber Park is a 56-hectare hill park in southern Singapore, rising to 105 meters above sea level. Named after Captain Charles Faber, who surveyed the area in the 1840s, the park offers panoramic views of the Keppel Harbour and the southern islands. The Mount Faber Cable Car, opened in 1974, connects to Sentosa Island and HarbourFront. The park features several walking trails, including the 2 km Marang Trail, which leads to Telok Blangah Hill Park. The Jewel Box complex houses dining and retail outlets. It is a popular spot for sunset viewing and photography.",
-    },
-    factsAdvanced: {
-      de: ["56 Hektar Fläche", "Höhe: 105 m", "Seilbahn eröffnet 1974", "2 km Marang Trail", "Benannt nach Charles Faber (1845)", "Verbindet Sentosa Island"],
-      hu: ["56 hektár", "105 m magas", "Felvonó 1974", "2 km hosszú Marang Trail", "Charles Faber kapitányról elnevezve", "Sentosa szigetére vezet"],
-      ro: ["56 de hectare", "Altitudine 105 m", "Telecabină din 1974", "Traseul Marang de 2 km", "Numit după Charles Faber (1845)", "Legătură cu Sentosa"],
-      en: ["56-hectare park", "Height: 105 meters", "Cable car opened in 1974", "Marang Trail: 2 km", "Named after Captain Charles Faber (1845)", "Connects to Sentosa Island"],
-    },
-  },
-  {
-    id: "sg-chestnut-nature-park-nature-v2",
-    type: "forest",
-    parent: "SG-01",
-    coords: [103.7760, 1.3768],
-    name: {
-      de: "Chestnut Nature Park",
-      hu: "Gesztenye Természetvédelmi Park",
-      ro: "Parcul Natural Chestnut",
-      en: "Chestnut Nature Park"},
-    image: "/poi-images/sg-chestnut-nature-park-nature-v2.webp",
-    description: {
-      de: "Singapurs größter Naturpark, der separate Wander- und Mountainbike-Strecken bietet.",
-      hu: "Szingapúr legnagyobb természetvédelmi parkja, amely külön túra- és hegyikerékpár-útvonalakat kínál.",
-      ro: "Cel mai mare parc natural din Singapore, oferind trasee separate pentru drumeții și ciclism montan.",
-      en: "Singapore's largest nature park, offering separate hiking and mountain biking trails."
-    },
-    facts: {
-      de: ["Mehr als 15 km Wander- und Radwege.", "Ein Aussichtsturm bietet einen Blick auf die Umgebung.", "Grenzt an das zentrale Wassereinzugsgebiet."],
-      hu: ["Több mint 15 km túra- és kerékpárút.", "Egy kilátótoronyból kitekintés nyílik a környékre.", "A központi vízgyűjtő területtel határos."],
-      ro: ["Peste 15 km de trasee de drumeții și ciclism.", "Un turn de observație oferă vederi ale zonei înconjurătoare.", "Se învecinează cu Zona Centrală de Captare a Apei."],
-      en: ["Over 15 km of hiking and biking trails.", "An observation tower offers views of the surroundings.", "Adjoins the Central Catchment Nature Reserve."]
-    }, image: "/poi-images/sg-chestnut-nature-park-nature-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Chestnut Nature Park ist ein 64 Hektar großer Park im nördlichen Teil des Central Catchment Nature Reserve, der 2017 eröffnet wurde. Er ist der erste Park in Singapur mit einem separaten Mountainbike-Streckennetz von 13 km, das sich in eine leichte (6,5 km) und eine schwierige Route (6,5 km) teilt. Der Park besteht aus sekundärem Regenwald und bietet Lebensraum für Tiere wie den Sunda-Plumplori, den Langschwanzmakak und verschiedene Vogelarten. Es gibt auch 4 km an Wanderwegen, darunter den „Chestnut Trail“, der entlang eines Baches verläuft. Der Park verfügt über einen Picknickplatz und einen Kinderspielplatz.",
-      hu: "A Chestnut Nature Park 64 hektáron terül el Szingapúr északi részén, a Central Catchment Nature Reserve részeként, 2017-ben nyitott. Ez az első park Szingapúrban, amely dedikált mountain bike pályákkal rendelkezik, összesen 13 km hosszúságban. A pályák könnyű (6,5 km) és nehéz (6,5 km) szakaszokra oszlanak. A parkban 4 km hosszú gyalogos ösvények is találhatók. A területet másodlagos esőerdő borítja, amelyben makákók és madarak élnek. A parkban piknikezőhelyek és játszótér is van.",
-      ro: "Chestnut Nature Park este un parc de 64 de hectare deschis în 2017, situat în partea de nord a Rezervației Naturale Centrale. Este primul parc din Singapore care oferă piste dedicate pentru mountain bike, totalizând 13 km (6,5 km ușoare și 6,5 km dificile). Pădurea secundară găzduiește macaci, veverițe și diverse păsări. Există și trasee de drumeție de 4 km. Parcul include zone de picnic și un loc de joacă pentru copii.",
-      en: "Chestnut Nature Park, opened in 2017, spans 64 hectares and is part of the Central Catchment Nature Reserve. It is Singapore's first park with dedicated mountain bike trails, featuring 13 km of routes split into easy (6.5 km) and advanced (6.5 km) loops. The park also has 4 km of hiking trails through secondary forest, where visitors may spot long-tailed macaques, plantain squirrels, and various birds. Amenities include a pavilion, washrooms, and a children's playground. The park is open from 7am to 7pm daily.",
-    },
-    factsAdvanced: {
-      de: ["64 Hektar Fläche", "Eröffnet 2017", "13 km Mountainbike-Strecken (6,5 km leicht, 6,5 km schwer)", "4 km Wanderwege", "Erster Park mit Mountainbike-Strecken in Singapur", "Teil des Central Catchment Nature Reserve"],
-      hu: ["64 hektár", "2017-ben nyílt meg", "13 km mountain bike pálya (6,5 km könnyű, 6,5 km nehéz)", "4 km gyalogos ösvény", "Szingapúr első mountain bike parkja", "Része a Central Catchment Nature Reserve-nek"],
-      ro: ["64 de hectare", "Deschis în 2017", "13 km piste mountain bike (6,5 km ușoare, 6,5 km dificile)", "4 km trasee de drumeție", "Primul parc cu piste MTB din Singapore", "Parte a Rezervației Naturale Centrale"],
-      en: ["64-hectare park", "Opened in 2017", "13 km mountain bike trails (6.5 km easy, 6.5 km advanced)", "4 km hiking trails", "First MTB-dedicated park in Singapore", "Part of Central Catchment Nature Reserve"],
-    },
-  },
-  {
+      {
     id: "sg-windsor-nature-park-nature-v2",
     type: "forest",
     parent: "SG-01",
@@ -506,43 +326,7 @@ export const poiExtraSingaporeNatureV2: POI[] = [
       en: ["16-hectare park", "Reservoir built in 1986", "4.3 km promenade", "Reservoir capacity: 3.5 million cubic meters", "Water sports (kayaking)", "Picnic areas"],
     },
   },
-  {
-    id: "sg-coney-island-park-nature-v2",
-    type: "island",
-    parent: "SG-01",
-    coords: [103.9218, 1.4082],
-    name: {
-      de: "Coney Island Park",
-      hu: "Coney Island Park",
-      ro: "Parcul Insula Coney",
-      en: "Coney Island Park"},
-    image: "/poi-images/sg-coney-island-park-nature-v2.webp",
-    description: {
-      de: "Ein ökologisch nachhaltiger Park mit einer reichen Artenvielfalt, der verschiedene Lebensräume wie Küstenwälder und Mangroven beherbergt.",
-      hu: "Egy ökológiailag fenntartható park gazdag biodiverzitással, amely különféle élőhelyeknek ad otthont, mint például parti erdők és mangrovék.",
-      ro: "Un parc ecologic durabil, cu o biodiversitate bogată, care găzduiește diverse habitate, cum ar fi pădurile de coastă și mangrovele.",
-      en: "An ecologically sustainable park with rich biodiversity, housing various habitats such as coastal forests and mangroves."
-    },
-    facts: {
-      de: ["Bekannt für seine rustikale Atmosphäre.", "Off-Grid-Toiletten und Wasser aus Regenwassersammlung.", "Heimat eines einsamen Brahman-Bullen für viele Jahre."],
-      hu: ["Híres a rusztikus hangulatáról.", "Hálózaton kívüli WC-k és esővízgyűjtésből származó víz.", "Évekig egy magányos Brahman bika otthona volt."],
-      ro: ["Renumit pentru atmosfera sa rustică.", "Toalete off-grid și apă din colectarea apei de ploaie.", "A fost casa unui taur Brahman solitar timp de mulți ani."],
-      en: ["Known for its rustic atmosphere.", "Off-grid toilets and water from rainwater harvesting.", "Home to a lone Brahman bull for many years."]
-    }, image: "/poi-images/sg-coney-island-park-nature-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Coney Island Park ist ein 50 Hektar großer Naturpark auf der Insel Coney Island (auch Pulau Serangoon genannt) vor der Nordostküste Singapurs, der 2015 eröffnet wurde. Die Insel ist über einen 250 m langen Fußgängersteg mit dem Festland verbunden. Der Park besteht aus sechs verschiedenen Lebensräumen: Küstenwald, Grasland, Wattflächen, Mangroven, Casuarina-Wald und Strand. Über 80 Vogelarten wurden dokumentiert, darunter der Weißbauch-Seeadler und der Reisfink. Die Insel ist auch ein wichtiger Rastplatz für Zugvögel. Besucher können Rad fahren oder wandern, und es gibt einen 2,5 km langen Strandbereich.",
-      hu: "A Coney Island Park Szingapúr északkeleti partjainál fekvő Coney Island (Pulau Serangoon) szigeten található, 50 hektáron. A parkot 2015-ben nyitották meg, és egy 250 m hosszú gyalogoshíddal lehet megközelíteni. A sziget hatféle élőhelyet kínál: parti erdő, füves terület, árapályövezet, mangrove, casuarina erdő és strand. Több mint 80 madárfajt figyeltek meg itt. A park népszerű a kerékpárosok és a természetjárók körében. A strand 2,5 km hosszú.",
-      ro: "Coney Island Park este un parc natural de 50 de hectare pe insula Coney Island (Pulau Serangoon), deschis în 2015. Accesul se face printr-un pod pietonal de 250 m. Insula are șase habitate: pădure de coastă, pajiște, zonă intertidală, mangrove, pădure de casuarina și plajă. Peste 80 de specii de păsări au fost observate. Parcul este potrivit pentru ciclism și drumeții. Plaja are 2,5 km lungime.",
-      en: "Coney Island Park covers 50 hectares on Coney Island (Pulau Serangoon), opened to the public in 2015. Accessible via a 250-meter bridge, the island features six distinct habitats: coastal forest, grassland, intertidal mudflats, mangroves, casuarina woodland, and beach. Over 80 bird species have been recorded, including the White-bellied Sea Eagle and the Baya Weaver. The park has 5 km of trails for cycling and hiking. Facilities include toilets and picnic shelters. The beach area is 2.5 km long.",
-    },
-    factsAdvanced: {
-      de: ["50 Hektar Fläche", "2015 eröffnet", "250 m Fußgängersteg", "6 verschiedene Lebensräume", "Über 80 Vogelarten", "2,5 km Strand"],
-      hu: ["50 hektár", "2015-ben nyílt", "250 m hosszú gyalogoshíd", "6 élőhelytípus", "Több mint 80 madárfaj", "2,5 km hosszú strand"],
-      ro: ["50 de hectare", "Deschis în 2015", "Pod pietonal de 250 m", "Șase habitate", "Peste 80 de specii de păsări", "Plajă de 2,5 km"],
-      en: ["50-hectare park", "Opened in 2015", "250-meter pedestrian bridge", "Six habitat types", "Over 80 bird species", "2.5 km beach"],
-    },
-  },
-  {
+    {
     id: "sg-kusu-island-nature-v2",
     type: "island",
     parent: "SG-01",
@@ -614,43 +398,7 @@ export const poiExtraSingaporeNatureV2: POI[] = [
       en: ["40-hectare island", "Former quarantine station", "National Marine Laboratory", "0.8 km beach", "Part of Sisters' Islands Marine Park", "30-minute ferry from Marina South Pier"],
     },
   },
-  {
-    id: "sg-dairy-farm-nature-park-nature-v2",
-    type: "forest",
-    parent: "SG-01",
-    coords: [103.7744, 1.3650],
-    name: {
-      de: "Dairy Farm Nature Park",
-      hu: "Dairy Farm Természetvédelmi Park",
-      ro: "Parcul Natural Dairy Farm",
-      en: "Dairy Farm Nature Park"},
-    image: "/poi-images/sg-dairy-farm-nature-park-nature-v2.webp",
-    description: {
-      de: "Ein 63 Hektar großer Park mit mehreren Wanderwegen und einem ehemaligen Steinbruch, der heute ein Feuchtgebiet ist.",
-      hu: "Egy 63 hektáros park több túraútvonallal és egy egykori kőbányával, amely ma vizes élőhely.",
-      ro: "Un parc de 63 de hectare cu mai multe trasee de drumeții și o fostă carieră care este acum o zonă umedă.",
-      en: "A 63-hectare park with multiple hiking trails and a former quarry that is now a wetland."
-    },
-    facts: {
-      de: ["Hauptzugangspunkt zum Bukit Timah Nature Reserve.", "Das Wallace Education Centre befindet sich hier.", "Der Singapore Quarry ist ein beliebter Ort zur Vogelbeobachtung."],
-      hu: ["Fő bejárati pont a Bukit Timah Természetvédelmi Területhez.", "Itt található a Wallace Oktatási Központ.", "A Szingapúri Kőbánya népszerű madármegfigyelő hely."],
-      ro: ["Punct de acces principal la Rezervația Naturală Bukit Timah.", "Centrul Educațional Wallace este situat aici.", "Cariera Singapore este un loc popular pentru observarea păsărilor."],
-      en: ["Main access point to Bukit Timah Nature Reserve.", "The Wallace Education Centre is located here.", "The Singapore Quarry is a popular bird-watching spot."]
-    }, image: "/poi-images/sg-dairy-farm-nature-park-nature-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Dairy Farm Nature Park ist ein 80 Hektar großer Park im Nordwesten Singapurs, der 2017 eröffnet wurde. Er liegt am Rand des Central Catchment Nature Reserve und wandelt ehemalige Ackerflächen in Naturlebensräume um. Der Park verfügt über einen 900 m langen „Dairy Farm Loop“-Weg, der durch Grasland und Sümpfe führt. Ein Highlight ist der „Quarry Lake“, ein 0,5 Hektar großer See, der aus einem ehemaligen Steinbruch entstanden ist. Der Park ist ein wichtiger Lebensraum für Libellen, Frösche und Wasservögel. Es gibt auch einen Obstgarten mit lokalen Fruchtbäumen wie Rambutan und Durian.",
-      hu: "A Dairy Farm Nature Park 80 hektáron terül el Szingapúr északnyugati részén, 2017-ben nyílt. A Central Catchment Nature Reserve szélén fekszik, és mezőgazdasági területekből alakították át. A 900 m hosszú Dairy Farm Loop ösvény füves területeken és mocsarakon halad át. A Quarry Lake egy 0,5 hektáros tó, amely egy régi kőfejtőből keletkezett. A park gazdag szitakötőkben és békákban. Gyümölcsösben helyi gyümölcsfék, mint a rambután és a durián.",
-      ro: "Dairy Farm Nature Park este un parc de 80 de hectare în nord-vestul Singaporelui, deschis în 2017. Este situat la marginea Rezervației Naturale Centrale și a fost creat pe foste terenuri agricole. Traseul Dairy Farm Loop are 900 m și traversează pajiști și mlaștini. Lacul Quarry Lake, de 0,5 ha, s-a format într-o fostă carieră. Parcul găzduiește libelule, broaște și păsări de apă. Există o livadă cu fructe locale.",
-      en: "Dairy Farm Nature Park spans 80 hectares in northwestern Singapore, opened in 2017. It was converted from former agricultural land and serves as a buffer for the Central Catchment Nature Reserve. The park features a 900-meter Dairy Farm Loop trail passing through grasslands and marshes. The 0.5-hectare Quarry Lake was formed from an abandoned quarry. The park is rich in dragonflies, frogs, and water birds. An orchard grows local fruits such as rambutan, durian, and banana.",
-    },
-    factsAdvanced: {
-      de: ["80 Hektar Fläche", "Eröffnet 2017", "900 m Dairy Farm Loop", "Quarry Lake: 0,5 Hektar", "Ehemaliger Steinbruch", "Obstgarten mit lokalen Früchten"],
-      hu: ["80 hektár", "2017-ben nyílt", "900 m hosszú Dairy Farm Loop", "Quarry Lake: 0,5 hektár", "Egykori kőfejtő", "Gyümölcsös"],
-      ro: ["80 de hectare", "Deschis în 2017", "Traseu Dairy Farm Loop de 900 m", "Lacul Quarry Lake: 0,5 ha", "Fostă carieră de piatră", "Livadă de fructe"],
-      en: ["80-hectare park", "Opened in 2017", "900-meter Dairy Farm Loop", "Quarry Lake: 0.5 hectares", "Former quarry", "Orchard with local fruits"],
-    },
-  },
-  {
+    {
     id: "sg-jurong-lake-gardens-nature-v2",
     type: "lake",
     parent: "SG-01",

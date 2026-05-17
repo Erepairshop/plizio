@@ -245,41 +245,7 @@ export const moldovaReliefV2: POI[] = [
       en: ["The reefs are approximately 15 to 20 million years old.", "They are composed of remains from corals, mollusks, and algae.", "The region is often referred to as the 'Switzerland of Moldova'.", "The belt of toltry stretches for nearly 200 kilometers."],
     },
   },
-  {
-    id: "moldova-duruitoarea-ravine-relief-v2",
-    parent: "MD",
-    type: "valley",
-    name: { de: "Duruitoarea-Schlucht", hu: "Duruitoarea-szurdok", ro: "Defileul Duruitoarea", en: "Duruitoarea Ravine"},
-    image: "/poi-images/moldova-duruitoarea-ravine-relief-v2.webp",
-    coords: [27.2667, 47.8833],
-    coords: [27.2667, 47.8833],
-    description: {
-      de: "Die Duruitoarea-Schlucht ist ein tiefes Tal, das von einem kleinen Bach in den Kalkstein gegraben wurde. Die steilen Wände beherbergen prähistorische Höhlen.",
-      hu: "A Duruitoarea-szurdok egy mély völgy, amelyet egy kis patak vájt a mészkőbe. A meredek falak őskori barlangokat rejtenek.",
-      ro: "Defileul Duruitoarea este o vale adâncă săpată de un pârâu în masivul calcaros. Pereții abrupți adăpostesc grote cu urme de locuire preistorică.",
-      en: "The Duruitoarea Ravine is a deep valley carved by a small stream into the limestone massif. The steep walls house prehistoric caves with signs of habitation.",
-    },
-    facts: {
-      de: ["Höhlen aus der Altsteinzeit", "Steile Kalksteinwände", "Seltener Standort für Felsflora", "Naturdenkmal von nationaler Bedeutung"],
-      hu: ["Paleolitikumi barlangok", "Meredek mészkőfalak", "Ritka sziklalakó flóra", "Országos jelentőségű természeti emlék"],
-      ro: ["Grote din perioada paleoliticului", "Pereți calcaroși abrupți", "Habitat pentru floră petrofilă rară", "Monument al naturii protejat"],
-      en: ["Paleolithic era caves", "Steep limestone walls", "Habitat for rare petrophilous flora", "Protected natural monument"],
-    },
-    imageHint: "Duruitoarea ravine cliffs Moldova",
-    descriptionAdvanced: {
-      de: "Die Duruitoarea-Schlucht ist ein wilder Canyon mit einer berühmten prähistorischen Grotte. Sie wurde vom gleichnamigen Bach in den harten Kalkstein gegraben.",
-      hu: "A Duruitoarea-szurdok egy vad kanyon egy híres őskori barlanggal. A névadó patak vájta ki a kemény mészkőbe ezt a mély völgyet.",
-      ro: "Defileul Duruitoarea este un canion sălbatic ce adăpostește o faimoasă grotă preistorică. A fost săpat de pârâul omonim în calcarul dur al regiunii.",
-      en: "The Duruitoarea Ravine is a wild canyon featuring a famous prehistoric grotto. It was carved by the eponymous stream into the region's hard limestone.",
-    },
-    factsAdvanced: {
-      de: ["Die Grotte 'Duruitoarea Veche' ist etwa 49 Meter lang.", "Hier wurden Siedlungsspuren aus der Altsteinzeit gefunden.", "Die Felswände der Schlucht erreichen beachtliche Höhen.", "Sie ist Teil eines geschützten Landschaftsreservats."],
-      hu: ["A 'Duruitoarea Veche' barlang hossza körülbelül 49 méter.", "Itt a paleolitikumból származó településnyomokat találtak.", "A szurdok sziklafalai jelentős magasságokat érnek el.", "A terület egy védett tájvédelmi körzet részét képezi."],
-      ro: ["Grota 'Duruitoarea Veche' are o lungime de circa 49 de metri.", "Aici au fost găsite urme de așezări din epoca paleolitică.", "Pereții de stâncă ai defileului ating înălțimi considerabile.", "Face parte dintr-o rezervație peisagistică protejată de stat."],
-      en: ["The 'Duruitoarea Veche' grotto is approximately 49 meters long.", "Settlement traces from the Paleolithic era were discovered here.", "The ravine's rock walls reach impressive vertical heights.", "It is part of a state-protected landscape reserve."],
-    },
-  },
-  {
+    {
     id: "moldova-fetesti-switzerland-relief-v2",
     parent: "MD",
     type: "landmark",

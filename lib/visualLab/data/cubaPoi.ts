@@ -550,38 +550,7 @@ export const cubaLandmarks: POI[] = [
       en: ["Guevara's remains were only recovered from Bolivia and brought to Cuba in 1997", "A museum dedicated to his life is located beneath the monument", "The statue depicts him with his arm in a sling, as he fought during the battle"]
     },
     historyYear: 1988, image: "/poi-images/cu-cheguevara.webp"},
-  {
-    id: "cu-fuerza",
-    type: "historical",
-    parent: "CU",
-    coords: [-82.3497, 23.1408],
-    name: { de: "Castillo de la Real Fuerza", hu: "Castillo de la Real Fuerza", ro: "Castelul Forței Regale", en: "Castillo de la Real Fuerza" },
-    description: {
-      de: "Eine Festung aus dem 16. Jahrhundert am Hafen von Havanna.",
-      hu: "Egy 16. századi erődítmény Havanna kikötőjében.",
-      ro: "O fortăreață din secolul al XVI-lea în portul Havana.",
-      en: "A 16th-century fortress located on the harbor of Havana."
-    },
-    descriptionAdvanced: {
-      de: "Das Castillo de la Real Fuerza ist die älteste Steinfestung in Amerika und ein herausragendes Beispiel für die Militärarchitektur der spanischen Kolonialzeit. Sie wurde ursprünglich zum Schutz vor Piratenangriffen erbaut, lag jedoch strategisch ungünstig zu weit im Inneren der Bucht.",
-      hu: "A Castillo de la Real Fuerza Amerika legrégebbi kőerődje, és a spanyol gyarmati haditechnikai építészet kiemelkedő példája. Eredetileg a kalóztámadások elleni védelemre épült, de stratégiailag előnytelenül, túl mélyen az öböl belsejében helyezkedett el.",
-      ro: "Castillo de la Real Fuerza este cea mai veche fortăreață de piatră din Americi și un exemplu remarcabil de arhitectură militară colonială spaniolă. A fost construită inițial pentru a proteja împotriva atacurilor piraților, dar a fost situată strategic prea departe în interiorul golfului.",
-      en: "The Castillo de la Real Fuerza is the oldest stone fortress in the Americas and an outstanding example of Spanish colonial military architecture. Originally built to defend against pirate attacks, it was strategically limited by its location too far inside the bay."
-    },
-    facts: {
-      de: ["Bauzeit: 1558–1577", "UNESCO-Weltkulturerbe", "Älteste Steinfestung Amerikas", "Beherbergt das Schifffahrtsmuseum"],
-      hu: ["1558 és 1577 között épült", "UNESCO Világörökségi helyszín", "Amerika legrégebbi kőerődje", "Tengerészeti múzeumnak ad otthont"],
-      ro: ["Construit între 1558 și 1577", "Sit al Patrimoniului Mondial UNESCO", "Cea mai veche fortăreață de piatră din America", "Găzduiește Muzeul Maritim"],
-      en: ["Built between 1558 and 1577", "UNESCO World Heritage site", "Oldest stone fortress in the Americas", "Currently houses a maritime museum"]
-    },
-    factsAdvanced: {
-      de: ["Auf dem Turm befindet sich die Giraldilla, das Wahrzeichen Havannas", "Die Giraldilla ist eine Bronzestatue, die nach Isabel de Bobadilla benannt ist", "Die Festung hat einen quadratischen Grundriss mit vier massiven Bastionen"],
-      hu: ["A tornyon található a Giraldilla, Havanna jelképe", "A Giraldilla egy bronzszobor, amelyet Isabel de Bobadilla-ról neveztek el", "Az erőd négyzet alaprajzú, négy hatalmas bástyával rendelkezik"],
-      ro: ["Pe turn se află Giraldilla, simbolul Havanei", "Giraldilla este o statuie de bronz numită după Isabel de Bobadilla", "Fortăreața are un plan pătrat cu patru bastioane masive"],
-      en: ["The Giraldilla, Havana's official symbol, stands atop the tower", "The Giraldilla statue is modeled after Isabel de Bobadilla", "The fortress features a classic square design with four massive bastions"]
-    },
-    historyYear: 1558, image: "/poi-images/cu-fuerza.webp"},
-  {
+    {
     id: "cu-zapata",
     type: "landmark",
     parent: "CU",

@@ -109,34 +109,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
       en: ["Features 17 thermal springs", "Water temperature is 35°C", "UNESCO World Heritage since 1988", "Terraces span nearly 2,700 meters"],
     },
   },
-  {
-    id: "ephesus-landmarks-v2",
-    type: "landmark",
-    parent: "TR-35",
-    coords: [27.3411, 37.9411],
-    name: { de: "Ephesos", hu: "Epheszosz", ro: "Efes", en: "Ephesus"},
-    image: "/poi-images/ephesus-landmarks-v2.webp",
-    description: { de: "Eine antike griechische Stadt an der Küste Ioniens, die einige der besterhaltenen römischen Ruinen im Mittelmeerraum bietet.", hu: "Egy ókori görög város Jónia partján, amely a Földközi-tenger térségének egyik legjobb állapotban fennmaradt római kori romjait kínálja.", ro: "Un oraș antic grec pe coasta Ioniei, oferind unele dintre cele mai bine conservate ruine romane din Marea Mediterană.", en: "An ancient Greek city on the coast of Ionia, offering some of the best-preserved Roman ruins in the Mediterranean." },
-    facts: {
-      de: ["Einst Standort des Tempels der Artemis, eines der Sieben Weltwunder.", "Berühmt für die Celsus-Bibliothek.", "Das große Theater bot Platz für 25.000 Zuschauer."],
-      hu: ["Egykor Artemisz templomának helyszíne, amely a világ hét csodájának egyike volt.", "A Celsus-könyvtárról híres.", "Nagy színháza 25 000 néző befogadására volt alkalmas."],
-      ro: ["Fostul loc al Templului lui Artemis, una dintre Cele Șapte Minuni ale Lumii.", "Faimos pentru Biblioteca lui Celsus.", "Marele teatru putea găzdui 25.000 de spectatori."],
-      en: ["Once the site of the Temple of Artemis, one of the Seven Wonders of the World.", "Famous for the Library of Celsus.", "The grand theater could accommodate 25,000 spectators."]
-    }, image: "/poi-images/ephesus-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "Ephesus war eine der bedeutendsten Städte der Antike und beherbergte mit dem Artemistempel eines der Sieben Weltwunder sowie die monumentale Celsus-Bibliothek.",
-      hu: "Az ókori világ egyik legnagyobb városa volt, ahol az Artemisz-templom, a világ hét csodájának egyike állt. Ma a Celsus-könyvtár homlokzata a legismertebb romja.",
-      ro: "Ocupând un rol central în antichitate, Efes găzduia Templul Artemisei, una dintre cele șapte minuni ale lumii, și spectaculoasa Bibliotecă a lui Celsus din secolul II.",
-      en: "Once a major Roman metropolis, Ephesus was home to the Temple of Artemis, one of the Seven Wonders, and the stunning 2nd-century Library of Celsus facade.",
-    },
-    factsAdvanced: {
-      de: ["Theater für 25.000 Zuschauer", "Gegründet im 10. Jhd. v. Chr.", "Celsus-Bibliothek bot 12.000 Rollen", "UNESCO-Welterbe seit 2015"],
-      hu: ["A színház 25 000 férőhelyes", "A 10. században alapították", "12 000 papirusztekercs a könyvtárban", "UNESCO Világörökség 2015 óta"],
-      ro: ["Teatru cu 25.000 de locuri", "Fondat în secolul X î.Hr.", "Biblioteca avea 12.000 de pergamente", "Patrimoniu UNESCO din 2015"],
-      en: ["Theater held 25,000 people", "Founded in the 10th century BC", "Library held 12,000 scrolls", "UNESCO World Heritage since 2015"],
-    },
-  },
-  {
+    {
     id: "mount-nemrut-landmarks-v2",
     type: "landmark",
     parent: "TR-02",
@@ -244,34 +217,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
       en: ["Height of 67 meters", "Built in 1348", "Walls are 3.75 meters thick", "Formerly used as a watchtower"],
     },
   },
-  {
-    id: "troy-landmarks-v2",
-    type: "landmark",
-    parent: "TR-17",
-    coords: [26.2389, 39.9575],
-    name: { de: "Troja", hu: "Trója", ro: "Troia", en: "Troy"},
-    image: "/poi-images/troy-landmarks-v2.webp",
-    description: { de: "Die archäologische Stätte der legendären Stadt aus Homers Ilias, ein Ort voller Mythos und antiker Geschichte.", hu: "Homérosz Iliászának legendás városának régészeti lelőhelye, egy mítoszokkal és ókori történelemmel teli hely.", ro: "Situl arheologic al orașului legendar din Iliada lui Homer, un loc plin de mit și istorie antică.", en: "The archaeological site of the legendary city from Homer's Iliad, a place full of myth and ancient history." },
-    facts: {
-      de: ["Entdeckt im 19. Jahrhundert von Heinrich Schliemann.", "Ein großes hölzernes Pferd steht heute am Eingang.", "Besteht aus neun verschiedenen archäologischen Schichten."],
-      hu: ["Heinrich Schliemann fedezte fel a 19. században.", "Ma egy nagy fa ló áll a bejáratánál.", "Kilenc különböző régészeti rétegből áll."],
-      ro: ["Descoperit în secolul al XIX-lea de Heinrich Schliemann.", "Un cal mare de lemn se află astăzi la intrare.", "Se compune din nouă straturi arheologice diferite."],
-      en: ["Discovered in the 19th century by Heinrich Schliemann.", "A large wooden horse stands at the entrance today.", "Consists of nine different archaeological layers."]
-    }, image: "/poi-images/troy-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "Troja, Schauplatz von Homers Ilias, weist neun archäologische Siedlungsschichten auf, die einen Zeitraum von über 3000 Jahren von der Bronzezeit bis zur Antike abdecken.",
-      hu: "Homérosz Iliászának legendás helyszíne kilenc egymásra épült városrétegből áll, melyek a bronzkortól a római korig tartó 3000 éves történelmet ölelik fel.",
-      ro: "Legendara cetate a lui Homer prezintă nouă straturi arheologice succesive, oferind dovezi ale locuirii umane pe o perioadă de peste 3000 de ani, din epoca bronzului.",
-      en: "The legendary setting of Homer's Iliad, Troy features nine archaeological layers spanning over 3,000 years of history from the Bronze Age to the Roman period.",
-    },
-    factsAdvanced: {
-      de: ["9 Siedlungsschichten entdeckt", "Gegründet um 3000 v. Chr.", "UNESCO-Welterbe seit 1998", "Schauplatz des Trojanischen Krieges"],
-      hu: ["9 városréteget tártak fel", "Kr. e. 3000 körül alapították", "UNESCO Világörökség 1998 óta", "A trójai faló másolata látható itt"],
-      ro: ["9 straturi de locuire", "Fondată în 3000 î.Hr.", "Patrimoniu UNESCO din 1998", "Scena Războiului Troian"],
-      en: ["9 settlement layers found", "Founded around 3000 BC", "UNESCO World Heritage since 1998", "Setting of the Trojan War"],
-    },
-  },
-  {
+    {
     id: "mount-ararat-landmarks-v2",
     type: "landmark",
     parent: "TR-04",
@@ -352,34 +298,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
       en: ["336 marble columns", "Holds 80,000 cubic meters", "Built in 532 AD", "Features two Medusa head bases"],
     },
   },
-  {
-    id: "anitkabir-landmarks-v2",
-    type: "landmark",
-    parent: "TR-06",
-    coords: [32.8369, 39.9250],
-    name: { de: "Anıtkabir", hu: "Anıtkabir", ro: "Anıtkabir", en: "Anıtkabir"},
-    image: "/poi-images/anitkabir-landmarks-v2.webp",
-    description: { de: "Das imposante Mausoleum von Mustafa Kemal Atatürk, dem Gründer und ersten Präsidenten der modernen Republik Türkei.", hu: "Mustafa Kemal Atatürk, a modern Török Köztársaság alapítójának és első elnökének impozáns mauzóleuma.", ro: "Impozantul mausoleu al lui Mustafa Kemal Atatürk, fondatorul și primul președinte al Republicii moderne Turcia.", en: "The imposing mausoleum of Mustafa Kemal Atatürk, the founder and first President of the modern Republic of Turkey." },
-    facts: {
-      de: ["Befindet sich in der Hauptstadt Ankara.", "Fertiggestellt im Jahr 1953 nach neunjähriger Bauzeit.", "Zieht jährlich Millionen von Besuchern an, die ihm Respekt zollen."],
-      hu: ["A fővárosban, Ankarában található.", "1953-ban fejezték be kilencéves építkezés után.", "Évente több millió látogatót vonz, akik tiszteletüket teszik."],
-      ro: ["Se află în capitala Ankara.", "Finalizat în anul 1953, după nouă ani de construcție.", "Atrage milioane de vizitatori anual care vin să-și arate respectul."],
-      en: ["Located in the capital city of Ankara.", "Completed in 1953 after nine years of construction.", "Attracts millions of visitors annually paying their respects."]
-    }, image: "/poi-images/anitkabir-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "Anitkabir ist das monumentale Mausoleum von Mustafa Kemal Atatürk, dem Gründer der modernen Türkei, und ein bedeutendes Beispiel für die türkische Architektur der 1940er Jahre.",
-      hu: "Mustafa Kemal Atatürk, a modern Törökország alapítójának monumentális mauzóleuma Ankarában. Az épületegyüttes a török nemzeti büszkeség és építészet jelképe.",
-      ro: "Mausoleul monumental al lui Mustafa Kemal Atatürk din Ankara este un complex vast ce simbolizează nașterea Turciei moderne și mândria națională a poporului turc.",
-      en: "The monumental mausoleum of Mustafa Kemal Atatürk in Ankara is a grand complex reflecting modern Turkish architecture and the legacy of the nation's founder.",
-    },
-    factsAdvanced: {
-      de: ["Fertigstellung im Jahr 1953", "Fläche von 750.000 m²", "Sarkophag wiegt 40 Tonnen", "Liegt auf dem Hügel Anittepe"],
-      hu: ["1953-ban készült el", "750 000 négyzetméteres terület", "A szarkofág 40 tonnás", "Az Anittepe-dombon áll"],
-      ro: ["Finalizat în anul 1953", "Suprafață de 750.000 mp", "Sarcofagul cântărește 40 tone", "Situat pe dealul Anittepe"],
-      en: ["Completed in 1953", "Area of 750,000 square meters", "Sarcophagus weighs 40 tons", "Located on Anittepe Hill"],
-    },
-  },
-  {
+    {
     id: "aspendos-theater-landmarks-v2",
     type: "landmark",
     parent: "TR-07",
@@ -406,34 +325,7 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
       en: ["Seating for 12,000 spectators", "Built under Marcus Aurelius", "Architect: Zenon", "Stage wall height is 31.5 meters"],
     },
   },
-  {
-    id: "gobekli-tepe-landmarks-v2",
-    type: "landmark",
-    parent: "TR-63",
-    coords: [38.9223, 37.2232],
-    name: { de: "Göbekli Tepe", hu: "Göbekli Tepe", ro: "Göbekli Tepe", en: "Göbekli Tepe"},
-    image: "/poi-images/gobekli-tepe-landmarks-v2.webp",
-    description: { de: "Eine prähistorische archäologische Stätte im Südosten der Türkei, die die ältesten bekannten Tempelanlagen der Welt beherbergt.", hu: "Prehisztorikus régészeti lelőhely Törökország délkeleti részén, amely a világ legrégebbi ismert templomait rejti.", ro: "Un sit arheologic preistoric în sud-estul Turciei, care găzduiește cele mai vechi structuri de temple cunoscute din lume.", en: "A prehistoric archaeological site in southeastern Turkey, home to the oldest known temple structures in the world." },
-    facts: {
-      de: ["Die Ruinen sind über 11.000 Jahre alt.", "Veränderte das Verständnis der frühen menschlichen Geschichte.", "Enthält massive Steinpfeiler mit Tierschnitzereien."],
-      hu: ["A romok több mint 11 000 évesek.", "Megváltoztatta a korai emberi történelemről alkotott felfogásunkat.", "Hatalmas kőoszlopokat tartalmaz állatfaragványokkal."],
-      ro: ["Ruinele au o vechime de peste 11.000 de ani.", "A schimbat înțelegerea istoriei timpurii a umanității.", "Conține stâlpi masivi de piatră cu sculpturi de animale."],
-      en: ["The ruins are over 11,000 years old.", "Changed the understanding of early human history.", "Contains massive stone pillars with animal carvings."]
-    }, image: "/poi-images/gobekli-tepe-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "Göbekli Tepe gilt mit einem Alter von etwa 11.500 Jahren als das älteste bekannte religiöse Heiligtum der Welt und revolutionierte unser Verständnis der frühen Menschheit.",
-      hu: "A világ legősibb ismert templomkomplexuma, amely közel 11 500 éves. T-alakú kőoszlopai és állatfaragványai a történelem előtti ember hiedelemvilágát tükrözik.",
-      ro: "Considerat cel mai vechi templu din lume, situl are o vechime de 11.500 de ani și conține coloane monumentale în formă de T decorate cu reliefuri de animale.",
-      en: "As the world's oldest known temple complex, dating back 11,500 years, Göbekli Tepe features T-shaped pillars decorated with intricate animal reliefs.",
-    },
-    factsAdvanced: {
-      de: ["Alter ca. 11.500 Jahre", "T-förmige Kalksteinsäulen", "Säulen wiegen bis zu 20 Tonnen", "UNESCO-Welterbe seit 2018"],
-      hu: ["Kb. 11 500 éves lelet", "T-alakú mészkőoszlopok", "Az oszlopok súlya elérheti a 20 tonnát", "UNESCO Világörökség 2018 óta"],
-      ro: ["Vechime de 11.500 de ani", "Piloni de calcar în formă de T", "Coloane de până la 20 de tone", "Patrimoniu UNESCO din 2018"],
-      en: ["Dating back 11,500 years", "T-shaped limestone pillars", "Pillars weigh up to 20 tons", "UNESCO World Heritage since 2018"],
-    },
-  },
-  {
+    {
     id: "bosphorus-bridge-landmarks-v2",
     type: "landmark",
     parent: "TR-34",

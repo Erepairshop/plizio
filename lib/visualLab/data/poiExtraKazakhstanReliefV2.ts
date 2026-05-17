@@ -1,61 +1,7 @@
 import type { POI } from "./poi";
 
 export const poiExtraKazakhstanReliefV2: POI[] = [
-  {
-    id: "khan-tengri-relief-v2",
-    type: "mountain",
-    parent: "KZ-ALM",
-    coords: [80.1744, 42.2133],
-    name: { de: "Khan Tengri", hu: "Hantengri", ro: "Han Tengri", en: "Khan Tengri"},
-    image: "/poi-images/khan-tengri-relief-v2.webp",
-    description: { de: "Der Khan Tengri ist einer der höchsten Gipfel des Tian Shan und der höchste Punkt Kasachstans.", hu: "A Hantengri a Tien-san egyik legmagasabb csúcsa, és Kazahsztán legmagasabb pontja.", ro: "Han Tengri este unul dintre cele mai înalte vârfuri din Tian Shan și cel mai înalt punct din Kazahstan.", en: "Khan Tengri is one of the highest peaks in the Tian Shan and the highest point in Kazakhstan." },
-    facts: {
-      de: ["Gipfelhöhe von 7010 Metern.", "Liegt an der Grenze zu Kirgisistan und China."],
-      hu: ["A csúcs magassága 7010 méter.", "Kirgizisztán és Kína határán fekszik."],
-      ro: ["Altitudinea vârfului este de 7010 metri.", "Situat la granița cu Kârgâzstan și China."],
-      en: ["Peak elevation of 7010 meters.", "Located on the border with Kyrgyzstan and China."]
-    }, image: "/poi-images/khan-tengri-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Khan Tengri, auch als „Herr der Geister“ oder „Himmelsherrscher“ bekannt, ist mit 7010 Metern der höchste Punkt Kasachstans und der zweithöchste Gipfel im Tian-Shan-Gebirge. Seine markante, fast perfekte Marmorpyramide leuchtet bei Sonnenuntergang in einem rötlichen Farbton, was ihm den Beinamen „Blutberg“ einbrachte. Der Berg liegt im extremen Osten Kasachstans an der Grenze zu Kirgisistan und China und ist für seine extremen Wetterbedingungen und technischen Schwierigkeiten bekannt, was ihn zu einem begehrten Ziel für erfahrene Alpinisten weltweit macht. Die Erstbesteigung gelang 1931 einer sowjetischen Expedition. Die umliegende unberührte Wildnis des zentralen Tian Shan bietet zudem spektakuläre Gletscherlandschaften und ist ein abgeschiedenes, aber faszinierendes Gebiet für Trekking und Bergsteigen.",
-      hu: "A Hantengri, „Szellemek Ura” vagy „Ég Ura” néven is ismert, 7010 méteres magasságával Kazahsztán legmagasabb pontja és a Tien-san második legmagasabb csúcsa. Jellegzetes, szinte tökéletes márványpiramisa naplementekor vöröses árnyalatban izzik, ami miatt a „Vérhegy” becenevet kapta. A hegy Kazahsztán legkeletibb részén, a kirgiz és kínai határon található, és extrém időjárási viszonyairól, valamint technikai nehézségeiről ismert, ami a tapasztalt hegymászók számára világszerte áhított célponttá teszi. Első megmászása egy szovjet expedíció nevéhez fűződik 1931-ben. A központi Tien-san környező érintetlen vadonja emellett látványos gleccser tájakat kínál, és egy eldugott, de lenyűgöző terület a túrázáshoz és hegymászáshoz.",
-      ro: "Han Tengri, cunoscut și ca „Domnul Spiritelor” sau „Stăpânul Cerului”, este cel mai înalt punct din Kazahstan, cu o altitudine de 7010 metri, și al doilea cel mai înalt vârf din munții Tian Shan. Piramida sa distinctivă de marmură, aproape perfectă, strălucește într-o nuanță roșiatică la apus, ceea ce i-a adus porecla de „Muntele Sângelui”. Muntele este situat în estul extrem al Kazahstanului, la granița cu Kârgâzstan și China, și este renumit pentru condițiile sale meteorologice extreme și dificultățile tehnice, făcându-l o țintă râvnită pentru alpiniștii experimentați din întreaga lume. Prima ascensiune reușită a fost realizată de o expediție sovietică în 1931. Sălbăticia neatinsă din jur, din centrul Tian Shan, oferă, de asemenea, peisaje glaciare spectaculoase și este o zonă retrasă, dar fascinantă pentru trekking și alpinism.",
-      en: "Khan Tengri, also known as the 'Lord of the Spirits' or 'Ruler of the Sky', is the highest point in Kazakhstan at 7,010 meters and the second-highest peak in the Tian Shan mountain range. Its distinctive, near-perfect marble pyramid glows with a reddish hue at sunset, earning it the nickname 'Blood Mountain'. The mountain is located in the extreme east of Kazakhstan, on the border with Kyrgyzstan and China, and is renowned for its extreme weather conditions and technical difficulty, making it a coveted prize for experienced alpinists worldwide. The first successful ascent was made by a Soviet expedition in 1931. The surrounding pristine wilderness of the central Tian Shan also offers spectacular glacial landscapes and is a remote yet fascinating area for trekking and mountaineering."
-    },
-    factsAdvanced: {
-      de: ["Elevation: 7,010 meters (22,999 ft)", "Mountain range: Tian Shan", "Highest point in Kazakhstan", "First ascent: 1931 by a Soviet team", "Geological composition: Primarily marble", "Location: Border of Kazakhstan, Kyrgyzstan, and China", "Known for its pyramid shape and reddish glow at sunset.", "Considered one of the most beautiful peaks in the world."],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
-    id: "belukha-mountain-relief-v2",
-    type: "mountain",
-    parent: "KZ-VOS",
-    coords: [86.5911, 49.8077],
-    name: { de: "Belucha", hu: "Beluha", ro: "Muntele Beluha", en: "Belukha Mountain"},
-    image: "/poi-images/belukha-mountain-relief-v2.webp",
-    description: { de: "Die Belucha ist der höchste Berg des Altai-Gebirges an der Grenze zwischen Kasachstan und Russland.", hu: "A Beluha az Altaj hegység legmagasabb hegye Kazahsztán és Oroszország határán.", ro: "Beluha este cel mai înalt munte din Munții Altai, la granița dintre Kazahstan și Rusia.", en: "Belukha is the highest peak of the Altai Mountains, on the border between Kazakhstan and Russia." },
-    facts: {
-      de: ["Erreicht eine Höhe von 4506 Metern.", "Ein bedeutender Gletscherberg."],
-      hu: ["Magassága eléri a 4506 métert.", "Jelentős gleccserhegy."],
-      ro: ["Atinge o altitudine de 4506 metri.", "Un munte glaciar important."],
-      en: ["Reaches an elevation of 4506 meters.", "A significant glaciated mountain."]
-    }, image: "/poi-images/belukha-mountain-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Belucha ist mit 4506 Metern der höchste Gipfel des Altai-Gebirges und liegt genau auf der Grenze zwischen Kasachstan und Russland. Er ist ein Teil des UNESCO-Weltnaturerbes „Goldene Berge des Altai“. Der Berg besitzt zwei markante Gipfel, den Ost- und den Westgipfel, die durch einen Sattel verbunden sind. Seine Hänge sind von über 160 Gletschern bedeckt, die eine Gesamtfläche von etwa 150 Quadratkilometern einnehmen und wichtige Flüsse der Region speisen, darunter den Katun. In den lokalen altaischen Legenden und im Buddhismus gilt der Berg als heilig und als Pforte zu Shambhala, einem mythischen Königreich. Die abgelegene Lage und die anspruchsvollen Bedingungen machen die Besteigung zu einer Herausforderung, die nur von wenigen Alpinisten jedes Jahr unternommen wird.",
-      hu: "A Beluha 4506 méteres magasságával az Altaj-hegység legmagasabb csúcsa, pontosan Kazahsztán és Oroszország határán helyezkedik el. Az UNESCO világörökség részét képező „Az Altaj Arany-hegyei” része. A hegynek két jellegzetes csúcsa van, a Keleti és a Nyugati-csúcs, amelyeket egy nyereg köt össze. Lejtőit több mint 160 gleccser borítja, amelyek összesen mintegy 150 négyzetkilométernyi területet foglalnak el, és a régió fontos folyóit táplálják, köztük a Katunyt. A helyi altaji legendákban és a buddhizmusban a hegyet szentnek tartják, és Sambala, egy misztikus királyság kapujának tekintik. Elzárt fekvése és a kihívást jelentő körülmények miatt a megmászása csak kevés hegymászó által vállalt kihívás minden évben.",
-      ro: "Muntele Beluha, cu o înălțime de 4506 metri, este cel mai înalt vârf din Munții Altai, situat exact la granița dintre Kazahstan și Rusia. Face parte din situl Patrimoniului Mondial UNESCO „Munții de Aur din Altai”. Muntele are două vârfuri distincte, Vârful de Est și Vârful de Vest, conectate printr-o șa. Pantele sale sunt acoperite de peste 160 de ghețari, care ocupă o suprafață totală de aproximativ 150 de kilometri pătrați și alimentează râuri importante din regiune, inclusiv râul Katun. În legendele locale altaice și în budism, muntele este considerat sacru și poarta către Shambhala, un tărâm mitic. Locația sa izolată și condițiile dificile fac din ascensiunea sa o provocare asumată de puțini alpiniști în fiecare an.",
-      en: "Belukha Mountain, at 4,506 meters, is the highest peak of the Altai Mountains, located directly on the border between Kazakhstan and Russia. It is part of the UNESCO World Heritage Site known as the 'Golden Mountains of Altai'. The mountain has two prominent peaks, the East and West peaks, connected by a saddle. Its slopes are covered by over 160 glaciers, which occupy a total area of about 150 square kilometers and feed major rivers in the region, including the Katun River. In local Altai legends and Buddhist beliefs, the mountain is considered sacred and a gateway to Shambhala, a mythical kingdom. Its remote location and challenging conditions make the ascent a serious undertaking attempted by only a few alpinists each year."
-    },
-    factsAdvanced: {
-      de: ["Elevation: 4,506 meters (14,783 ft)", "Mountain range: Altai Mountains", "Highest peak in the Altai range", "Location: Border of Kazakhstan and Russia", "Part of the 'Golden Mountains of Altai' UNESCO site", "Features two distinct peaks (East and West)", "Covered by approximately 160 glaciers", "Considered a sacred place in local traditions."],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
+      {
     id: "charyn-canyon-relief-v2",
     type: "valley",
     parent: "KZ-ALM",

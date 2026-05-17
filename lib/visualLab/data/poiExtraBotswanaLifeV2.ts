@@ -42,27 +42,7 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     factsAdvanced: {
       hu: ["A chobe-national-park-animal-habitat-life-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
     }, image: "/poi-images/chobe-national-park-animal-habitat-life-v2.webp"},
-  {
-    id: "kalahari-desert-animal-habitat-life-v2",
-    type: "animal-habitat",
-    parent: "BW-KG",
-    coords: [22.00, -22.00],
-    name: { de: "Kalahari-Wüste", hu: "Kalahári-sivatag", ro: "Deșertul Kalahari", en: "Kalahari Desert"},
-    image: "/poi-images/kalahari-desert-animal-habitat-life-v2.webp",
-    description: { de: "Eine trockene Savanne mit einzigartiger Tierwelt.", hu: "Száraz szavanna egyedi állatvilággal.", ro: "O savană aridă cu o faună unică.", en: "An arid savanna with unique wildlife." },
-    facts: {
-      de: ["Deckt einen Großteil Botswanas ab.", "Angepasste Raubtiere wie Löwen leben hier."],
-      hu: ["Botswana nagy részét lefedi.", "Alkalmazkodott ragadozók, mint az oroszlánok élnek itt."],
-      ro: ["Acoperă o mare parte din Botswana.", "Prădători adaptați precum leii trăiesc aici."],
-      en: ["Covers most of Botswana.", "Home to adapted predators like lions."]
-    },
-    descriptionAdvanced: {
-      hu: "A(z) kalahari-desert-animal-habitat-life-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
-    },
-    factsAdvanced: {
-      hu: ["A kalahari-desert-animal-habitat-life-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
-    }, image: "/poi-images/kalahari-desert-animal-habitat-life-v2.webp"},
-  {
+    {
     id: "makgadikgadi-pans-animal-habitat-life-v2",
     type: "animal-habitat",
     parent: "BW-CE",
@@ -82,27 +62,7 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     factsAdvanced: {
       hu: ["A makgadikgadi-pans-animal-habitat-life-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
     }, image: "/poi-images/makgadikgadi-pans-animal-habitat-life-v2.webp"},
-  {
-    id: "tsodilo-hills-kid-landmark-life-v2",
-    type: "kid-landmark",
-    parent: "BW-NW",
-    coords: [21.75, -18.75],
-    name: { de: "Tsodilo-Hügel", hu: "Tsodilo-dombok", ro: "Dealurile Tsodilo", en: "Tsodilo Hills"},
-    image: "/poi-images/tsodilo-hills-kid-landmark-life-v2.webp",
-    description: { de: "Ein heiliger Ort mit tausenden Felsmalereien, der wie eine Zeitreise wirkt.", hu: "Szent hely több ezer sziklarajzzal, amely olyan, mint egy időutazás.", ro: "Un loc sacru cu mii de picturi rupestre, care pare o călătorie în timp.", en: "A sacred site with thousands of rock paintings, feeling like a journey through time." },
-    facts: {
-      de: ["UNESCO-Weltkulturerbe.", "Über 4000 Felsmalereien."],
-      hu: ["UNESCO Világörökség.", "Több mint 4000 sziklarajz."],
-      ro: ["Patrimoniul Mondial UNESCO.", "Peste 4000 de picturi rupestre."],
-      en: ["UNESCO World Heritage site.", "Over 4000 rock paintings."]
-    },
-    descriptionAdvanced: {
-      hu: "A(z) tsodilo-hills-kid-landmark-life-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
-    },
-    factsAdvanced: {
-      hu: ["A tsodilo-hills-kid-landmark-life-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
-    }, image: "/poi-images/tsodilo-hills-kid-landmark-life-v2.webp"},
-  {
+    {
     id: "gaborone-game-reserve-animal-habitat-life-v2",
     type: "animal-habitat",
     parent: "BW-SE",

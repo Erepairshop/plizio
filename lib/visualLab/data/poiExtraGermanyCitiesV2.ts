@@ -463,40 +463,7 @@ export const germanyCitiesV2: POI[] = [
     },
     image: "/poi-images/germany-emden-cities-v2.webp",
   },
-  {
-    id: "germany-meissen-cities-v2",
-    type: "city",
-    parent: "DE",
-    name: { de: "Meißen", hu: "Meißen", ro: "Meißen", en: "Meißen" },
-    coords: [13.47, 51.16],
-    description: {
-      de: "Meißen liegt in Sachsen an der Elbe. Die Stadt ist weltweit für ihre traditionsreiche Porzellanmanufaktur berühmt.",
-      hu: "Meißen Szászországban, az Elba mentén fekszik. A város világszerte híres a nagy hagyományokkal rendelkező porcelánmanufaktúrájáról.",
-      ro: "Meißen este situat în Saxonia pe Elba. Orașul este faimos în întreaga lume pentru manufactura sa de porțelan cu tradiție îndelungată.",
-      en: "Meißen is located in Saxony on the Elbe river. The city is world-famous for its traditional porcelain manufactory.",
-    },
-    facts: {
-      de: ["Porzellanstadt", "Meißner Porzellan", "Albrechtsburg", "Elbe-Stadt"],
-      hu: ["Porcelánváros", "Meißeni porcelán", "Albrechtsburg-kastély", "Elba-menti város"],
-      ro: ["Orașul porțelanului", "Porțelan de Meissen", "Castelul Albrechtsburg", "Oraș pe Elba"],
-      en: ["Porcelain city", "Meissen porcelain", "Albrechtsburg Castle", "Elbe city"],
-    },
-    imageHint: "Meissen porcelain factory exterior",
-    descriptionAdvanced: {
-      de: "Meißen liegt malerisch an der Elbe im Freistaat Sachsen und gilt aufgrund seiner über tausendjährigen Geschichte als die Wiege Sachsens. Die Stadt wurde im Jahr 929 von König Heinrich I. gegründet und entwickelte sich schnell zu einem geistlichen und politischen Zentrum der Region. Das markanteste Bauwerk ist die Albrechtsburg, die als das erste Residenzschloss des deutschen Sprachraums gilt und majestätisch über der Stadt thront. Direkt daneben befindet sich der gotische Meißner Dom, dessen charakteristische Türme das Stadtbild prägen. Weltberühmt wurde Meißen jedoch vor allem durch die Gründung der ersten europäischen Porzellanmanufaktur im Jahr 1710, die bis heute exklusives weißes Gold mit den gekreuzten blauen Schwertern produziert. Die historische Altstadt mit ihren engen Gassen und liebevoll restaurierten Bürgerhäusern lädt zu Entdeckungen ein, während die umliegenden Weinberge des sächsischen Elblandes die lange Weinbautradition der Region widerspiegeln. Meißen verbindet auf einzigartige Weise mittelalterliche Architektur mit weltbekannter Handwerkskunst.",
-      hu: "Meißen festői helyen, az Elba partján fekszik Szászországban, és több mint ezeréves történelme miatt Szászország bölcsőjének tekintik. A várost 929-ben I. Henrik király alapította, és hamarosan a régió szellemi és politikai központjává vált. A leglátványosabb épülete az Albrechtsburg, amelyet a német nyelvterület első rezidenciakastélyának tartanak, és fenségesen magasodik a város fölé. Közvetlenül mellette található a gótikus meißeni dóm, amelynek jellegzetes tornyai meghatározzák a városképet. Meißen azonban leginkább az 1710-ben alapított első európai porcelánmanufaktúráról vált világhírűvé, amely a mai napig exkluzív fehér aranyat gyárt a keresztbe tett kék kardok védjegyével. A történelmi óváros szűk utcáival és gondosan restaurált polgárházaival felfedezésre csábít, míg a szász Elba-vidék környező szőlőültetvényei a régió hosszú borászati hagyományait tükrözik. Meißen egyedülálló módon ötvözi a középkori építészetet a világhírű kézművességgel.",
-      ro: "Meißen este situat pitoresc pe Elba, în landul Saxonia, și este considerat leagănul Saxoniei datorită istoriei sale de peste o mie de ani. Orașul a fost fondat în anul 929 de regele Henric I și s-a dezvoltat rapid ca un centru spiritual și politic al regiunii. Cea mai proeminentă structură este Castelul Albrechtsburg, considerat primul palat rezidențial din spațiul vorbitor de limbă germană, care tronează maiestuos deasupra orașului. Chiar lângă acesta se află Catedrala gotică din Meißen, ale cărei turnuri caracteristice definesc peisajul urban. Cu toate acestea, Meißen a devenit faimos în întreaga lume în principal prin fondarea primei manufacturi europene de porțelan în 1710, care produce și astăzi aurul alb exclusiv cu marca săbiilor albastre încrucișate. Orașul vechi istoric, cu străzile sale înguste și casele cetățenești restaurate cu grijă, invită la explorare, în timp ce podgoriile înconjurătoare din regiunea viticolă a Elbei reflectă tradiția îndelungată a vinificației în regiune. Meißen combină într-un mod unic arhitectura medievală cu măiestria artizanală de renume mondial.",
-      en: "Meissen is picturesquely situated on the Elbe River in the Free State of Saxony and is regarded as the cradle of Saxony due to its history spanning over a thousand years. The city was founded in 929 AD by King Henry I and rapidly evolved into a spiritual and political hub of the region. Its most striking structure is Albrechtsburg Castle, considered the first residential palace in the German-speaking world, which towers majestically over the city. Right beside it stands the Gothic Meissen Cathedral, whose characteristic spires define the cityscape. However, Meissen achieved worldwide fame primarily through the establishment of Europe's first porcelain manufactory in 1710, which continues to produce exclusive white gold marked with the crossed blue swords. The historic old town, with its narrow alleys and meticulously restored townhouses, invites discovery, while the surrounding vineyards of the Saxon Elbe region reflect the long-standing winemaking tradition of the area. Meissen uniquely combines medieval architecture with world-renowned craftsmanship.",
-    },
-    factsAdvanced: {
-      de: ["König Heinrich I. gründete die Burg Meißen im Jahr 929.", "Die Albrechtsburg wurde zwischen 1471 und 1524 als Residenzschloss erbaut.", "Die Porzellanmanufaktur Meissen wurde 1710 durch August den Starken gegründet.", "Der Bau des Meißner Doms begann um das Jahr 1250 auf dem Burgberg.", "Meißen liegt im nordöstlichsten Weinanbaugebiet Deutschlands.", "Die Stadt hat heute eine Einwohnerzahl von etwa 28.000 Menschen."],
-      hu: ["I. Henrik király 929-ben alapította Meißen várát.", "Az Albrechtsburg 1471 és 1524 között épült rezidenciakastélyként.", "A meißeni porcelánmanufaktúrát 1710-ben Erős Ágost alapította.", "A meißeni dóm építése 1250 körül kezdődött a várhegyen.", "Meißen Németország legészakkeletibb borvidékén található.", "A város lakossága ma körülbelül 28 000 fő."],
-      ro: ["Regele Henric I a fondat castelul Meißen în anul 929.", "Albrechtsburg a fost construit între 1471 și 1524 ca palat rezidențial.", "Manufactura de porțelan Meissen a fost fondată în 1710 de către August cel Tare.", "Construcția Catedralei din Meißen a început în jurul anului 1250 pe dealul castelului.", "Meißen este situat în cea mai nord-estică regiune viticolă din Germania.", "Orașul are astăzi o populație de aproximativ 28.000 de locuitori."],
-      en: ["King Henry I founded the Meissen fortress in the year 929 AD.", "Albrechtsburg Castle was built between 1471 and 1524 as a residential palace.", "The Meissen Porcelain Manufactory was founded in 1710 by Augustus the Strong.", "The construction of Meissen Cathedral began around 1250 on the castle hill.", "Meissen is located in Germany's northeasternmost wine-growing region.", "The city currently has a population of approximately 28,000 people."],
-    },
-    image: "/poi-images/germany-meissen-cities-v2.webp",
-  },
-  {
+    {
     id: "germany-baden-baden-cities-v2",
     type: "city",
     parent: "DE",

@@ -38,79 +38,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
       en: []
     }
   },
-  {
-    id: "terracotta-army-history-v2",
-    type: "historical-site",
-    parent: "CN-SN",
-    coords: [109.2731, 34.3853],
-    name: {
-      de: "Terrakotta-Armee",
-      hu: "Agyaghadsereg",
-      ro: "Armata de teracotă",
-      en: "Terracotta Army"},
-    image: "/poi-images/terracotta-army-history-v2.webp",
-    description: {
-      de: "Eine Sammlung von Terrakotta-Skulpturen, die die Armeen von Qin Shi Huang, dem ersten Kaiser von China, darstellen.",
-      hu: "Az agyagból készült szobrok gyűjteménye, amelyek Csin Si Huang, az első kínai császár hadseregét ábrázolják.",
-      ro: "O colecție de sculpturi din teracotă care înfățișează armatele lui Qin Shi Huang, primul împărat al Chinei.",
-      en: "A collection of terracotta sculptures depicting the armies of Qin Shi Huang, the first Emperor of China."
-    },
-    facts: {
-      de: ["1974 von lokalen Bauern entdeckt.", "Teil eines viel größeren Mausoleums.", "Jeder Soldat hat einzigartige Gesichtszüge."],
-      hu: ["Helyi farmerek fedezték fel 1974-ben.", "Egy sokkal nagyobb mauzóleum része.", "Minden katonának egyedi arcvonásai vannak."],
-      ro: ["Descoperită de fermieri locali în 1974.", "Parte a unui mausoleu mult mai mare.", "Fiecare soldat are trăsături faciale unice."],
-      en: ["Discovered by local farmers in 1974.", "Part of a much larger mausoleum.", "Each soldier has unique facial features."]
-    }, image: "/poi-images/terracotta-army-history-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Terrakotta-Armee ist eine der spektakulärsten archäologischen Entdeckungen des 20. Jahrhunderts und ein monumentales Zeugnis der Macht des ersten Kaisers von China, Qin Shi Huang. Die tausenden lebensgroßen Tonsoldaten, Pferde und Wagen wurden geschaffen, um den Kaiser in seinem Jenseits zu schützen. Entdeckt wurde die Anlage zufällig im Jahr 1974 von Bauern beim Graben eines Brunnens nahe der Stadt Xi'an. Das Faszinierende an der Armee ist die Individualität jeder einzelnen Figur; kein Gesicht gleicht dem anderen, was auf eine hochgradig organisierte und künstlerisch anspruchsvolle Massenproduktion vor über 2.200 Jahren hindeutet. Die Krieger waren ursprünglich bunt bemalt und hielten echte Waffen aus Bronze. Die Ausgrabungsstätten befinden sich in unmittelbarer Nähe zum noch nicht geöffneten Mausoleum des Kaisers, das Legenden zufolge von Flüssen aus Quecksilber umgeben ist.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Die Terrakotta-Armee besteht aus schätzungsweise 8.000 Soldaten, 130 Streitwagen und 670 Pferden.", "Die Anlage stammt aus dem späten 3. Jahrhundert v. Chr.", "Die Figuren sind zwischen 1,75 m und 1,95 m groß, je nach militärischem Rang.", "Die Soldaten wurden in drei separaten Gruben gefunden, wobei Grube 1 die größte ist.", "Jede Figur trägt individuelle Gesichtszüge, Frisuren und Uniformdetails.", "Die Bronze-Waffen der Soldaten waren mit einer dünnen Chromschicht überzogen, um Korrosion zu verhindern.", "Die Terrakotta-Armee gehört seit 1987 zum UNESCO-Weltkulturerbe.", "Die Farben der Figuren verblassen innerhalb von Sekunden nach dem Kontakt mit Luft."],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
-    id: "leshan-giant-buddha-history-v2",
-    type: "monument",
-    parent: "CN-SC",
-    coords: [103.7742, 29.5489],
-    name: {
-      de: "Großer Buddha von Leshan",
-      hu: "Leshani óriás Buddha",
-      ro: "Marele Buddha din Leshan",
-      en: "Leshan Giant Buddha"},
-    image: "/poi-images/leshan-giant-buddha-history-v2.webp",
-    description: {
-      de: "Eine 71 Meter hohe Steinstatue, die während der Tang-Dynastie in eine Felswand gehauen wurde.",
-      hu: "Egy 71 méter magas kőszobor, amelyet a Tang-dinasztia idején faragtak egy sziklafalba.",
-      ro: "O statuie de piatră înaltă de 71 de metri, sculptată într-o stâncă în timpul dinastiei Tang.",
-      en: "A 71-meter (233 ft) tall stone statue, carved into a cliff face during the Tang dynasty."
-    },
-    facts: {
-      de: ["Größte Stehbuddha-Statue der Welt.", "Sollte die turbulenten Flüsse beruhigen.", "Die Bauarbeiten dauerten 90 Jahre."],
-      hu: ["A világ legnagyobb kőből készült Buddha-szobra.", "A viharos folyók megnyugtatására épült.", "Az építkezés 90 évig tartott."],
-      ro: ["Cea mai mare statuie de Buddha din piatră din lume.", "Construit pentru a calma apele turbulente ale râului.", "Construcția a durat 90 de ani."],
-      en: ["World's largest stone Buddha statue.", "Built to calm the turbulent river waters.", "Construction took 90 years."]
-    }, image: "/poi-images/leshan-giant-buddha-history-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Große Buddha von Leshan ist die größte aus Stein gehauene Buddha-Statue der Welt und ein Meisterwerk der religiösen Kunst der Tang-Dynastie. Die 71 Meter hohe Statue des Maitreya-Buddha wurde direkt in die Sandsteinklippe am Zusammenfluss der Flüsse Min, Dadu und Qingyi gemeißelt. Der Bau wurde im Jahr 713 n. Chr. vom Mönch Hai Tong initiiert, in der Hoffnung, dass die spirituelle Präsenz des Buddha die turbulenten Wasser beruhigen würde, die regelmäßig Schiffskatastrophen verursachten. Nach 90 Jahren Bauzeit wurde das Werk vollendet. Ein ausgeklügeltes, in den Körper integriertes Entwässerungssystem schützt die Statue seit über 1.200 Jahren vor Erosion und Verwitterung. Der Buddha blickt gelassen auf die Flüsse, wobei allein seine Ohren sieben Meter lang sind. Die Stätte ist ein bedeutendes Pilgerziel und Teil des UNESCO-Welterbes Mount Emei Scenic Area.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Der Buddha von Leshan ist 71 Meter hoch und seine Schultern sind 28 Meter breit.", "Ein Mensch könnte bequem auf dem Fingernagel des Buddha sitzen.", "Die Statue hat 1.021 kunstvoll arrangierte Haarlocken aus Stein.", "Das interne Entwässerungssystem umfasst verborgene Kanäle in Kopf, Armen und Kleidung.", "Während der Bauzeit wurden so viele Steine in den Fluss geworfen, dass sich die Strömung tatsächlich änderte.", "Ursprünglich war der Buddha in einem riesigen, dreizehnstöckigen Holzpavillon untergebracht.", "Die Statue blickt direkt auf den heiligen Berg Emei Shan.", "Die Restaurierung im Jahr 2001 kostete über 30 Millionen Yuan."],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
+      {
     id: "yungang-grottoes-history-v2",
     type: "ruin",
     parent: "CN-SX",
@@ -146,43 +74,7 @@ export const poiExtraChinaHistoryV2: POI[] = [
       en: []
     }
   },
-  {
-    id: "mogao-caves-history-v2",
-    type: "ruin",
-    parent: "CN-GS",
-    coords: [94.8093, 40.0423],
-    name: {
-      de: "Mogao-Grotten",
-      hu: "Mokao-barlangok",
-      ro: "Grotele Mogao",
-      en: "Mogao Caves"},
-    image: "/poi-images/mogao-caves-history-v2.webp",
-    description: {
-      de: "Ein Oasensystem buddhistischer Höhlentempel in Dunhuang, Provinz Gansu.",
-      hu: "Buddhista barlangtemplomok oázisrendszere Tunhuangban, Kanszu tartományban.",
-      ro: "Un sistem-oază de temple rupestre budiste în Dunhuang, provincia Gansu.",
-      en: "An oasis system of Buddhist cave temples in Dunhuang, Gansu province."
-    },
-    facts: {
-      de: ["Auch bekannt als die Tausend-Buddha-Grotten.", "Beherbergt einige der schönsten Beispiele buddhistischer Kunst.", "Wichtiger Stopp an der Seidenstraße."],
-      hu: ["Ezer Buddha Barlangjaiként is ismert.", "A buddhista művészet legszebb példáinak ad otthont.", "Fontos megállóhely a Selyemúton."],
-      ro: ["Cunoscute și sub numele de Grotele celor O Mie de Buddha.", "Adăpostesc unele dintre cele mai frumoase exemple de artă budistă.", "O oprire importantă pe Drumul Mătăsii."],
-      en: ["Also known as the Thousand Buddha Grottoes.", "Home to some of the finest examples of Buddhist art.", "An important stop on the Silk Road."]
-    }, image: "/poi-images/mogao-caves-history-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Mogao-Grotten, auch bekannt als die \\\"Höhlen der tausend Buddhas\\\", sind das bedeutendste buddhistische Kunstzentrum der Welt. Gelegen an einem strategischen Punkt der Seidenstraße nahe der Oasenstadt Dunhuang, dienten sie über ein Jahrtausend lang als Ort der Anbetung, Meditation und Kunstschöpfung. Der Komplex beherbergt 492 erhaltene Tempel, die mit über 45.000 Quadratmetern Wandmalereien und Tausenden von farbigen Skulpturen geschmückt sind. Diese Kunstwerke dokumentieren nicht nur die religiöse Entwicklung, sondern bieten auch einzigartige Einblicke in das tägliche Leben, die Mode und den kulturellen Austausch entlang der Seidenstraße. Ein Wendepunkt in der Erforschung war die Entdeckung der \\\"Bibliothekshöhle\\\" im Jahr 1900, die Zehntausende von Manuskripten in zahlreichen Sprachen enthielt. Heute sind die Mogao-Grotten ein UNESCO-Weltkulturerbe und Gegenstand intensiver internationaler Erhaltungsbemühungen.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Die ältesten Grotten datieren auf das Jahr 366 n. Chr.", "Die Wandmalereien in Mogao würden aneinandergereiht eine Länge von 25 Kilometern ergeben.", "Die Statuen sind meist aus Ton gefertigt, der über ein Holzgerüst modelliert wurde.", "Mogao beherbergt die weltweit größte Sammlung von buddhistischer Wandmalerei.", "Die Bibliothekshöhle (Höhle 17) enthielt Dokumente aus dem 4. bis 11. Jahrhundert.", "Die Grotten wurden 1987 als eines der ersten Objekte in China zum UNESCO-Welterbe ernannt.", "Es gibt zwei riesige Buddhas in Mogao, von denen einer 35,5 Meter hoch ist.", "Die Stätte wird durch das 'Dunhuang Research Academy' und das Getty Conservation Institute geschützt."],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
+    {
     id: "battle-of-red-cliffs-site-history-v2",
     type: "battlefield",
     parent: "CN-HB",

@@ -98,39 +98,7 @@ export const poiExtraNamibiaNatureV2: POI[] = [
     
     
      image: "/poi-images/na-etosha-pan-nature-v2.webp"},
-  {
-    id: "na-fish-river-canyon-nature-v2",
-    type: "river",
-    parent: "NA-KA",
-    coords: [17.6, -27.6],
-    name: { de: "Fish River Canyon", hu: "Fish River-kanyon", ro: "Canionul Fish River", en: "Fish River Canyon"},
-    image: "/poi-images/na-fish-river-canyon-nature-v2.webp",
-    description: { de: "Einer der größten Canyons der Welt.", hu: "A világ egyik legnagyobb kanyonja.", ro: "Unul dintre cele mai mari canioane din lume.", en: "One of the largest canyons in the world." },
-    facts: {
-      de: ["Zweitgrößter Canyon der Welt", "Spektakuläre Felsformationen", "Wanderparadies", "Befindet sich im Süden Namibias"],
-      hu: ["A világ második legnagyobb kanyonja", "Látványos sziklaformációk", "Túrázóparadicsom", "Namíbia déli részén található"],
-      ro: ["Al doilea cel mai mare canion din lume", "Formațiuni stâncoase spectaculoase", "Paradis pentru drumeții", "Situat în sudul Namibiei"],
-      en: ["Second largest canyon in the world", "Spectacular rock formations", "Hiking paradise", "Located in southern Namibia"]
-    },
-    descriptionAdvanced: {
-      en: "The Fish River Canyon is the largest canyon in Africa and globally recognized as the second largest after the Grand Canyon. Located in the //Kharas Region, this gigantic ravine extends for roughly 160 kilometers, stretches up to 27 kilometers wide, and plunges up to 550 meters deep. The canyon was formed through a combination of massive tectonic collapse and millions of years of water erosion by the Fish River. Today, the ephemeral river only flows during the late summer rain season, reducing to a chain of stagnant, narrow pools during the harsh, dry winter months. Earth Science K6 — canyon geology.",
-      de: "Der Fish River Canyon ist der größte Canyon Afrikas und weltweit als der zweitgrößte nach dem Grand Canyon anerkannt. In der Region //Kharas gelegen, erstreckt sich diese gigantische Schlucht über rund 160 Kilometer, ist bis zu 27 Kilometer breit und bis zu 550 Meter tief. Der Canyon entstand durch eine Kombination aus massivem tektonischem Kollaps und Millionen von Jahren Wassererosion durch den Fish River. Heute fließt der ephemere Fluss nur während der späten Sommerregenzeit und reduziert sich während der harten, trockenen Wintermonate auf eine Kette von stehenden, schmalen Becken. Geowissenschaften K6 – Canyon-Geologie.",
-      hu: "A Fish River-kanyon Afrika legnagyobb kanyonja, és világszerte a Grand Canyon után a második legnagyobbnak ismerik el. A //Kharas régióban található gigantikus szakadék körülbelül 160 kilométer hosszan terül el, szélessége eléri a 27 kilométert, mélysége pedig az 550 métert. A kanyon masszív tektonikus összeomlás és a Fish River több millió éves vízeróziójának kombinációjával jött létre. Ma a csak időszakosan vízzel telt folyó csak a késő nyári esős évszakban folyik, a zord, száraz téli hónapokban pedig álló, keskeny medencék láncolatára csökken. Földtudomány K6 – kanyon geológia.",
-      ro: "Canionul Fish River este cel mai mare canion din Africa și recunoscut la nivel mondial ca fiind al doilea ca mărime după Marele Canion. Situat în regiunea //Kharas, acest defileu gigantic se întinde pe aproximativ 160 de kilometri, are o lățime de până la 27 de kilometri și o adâncime de până la 550 de metri. Canionul s-a format printr-o combinație de prăbușire tectonică masivă și milioane de ani de eroziune a apei de către râul Fish. Astăzi, râul efemer curge doar în timpul sezonului ploios de la sfârșitul verii, reducându-se la un lanț de bazine înguste, stătătoare, în timpul lunilor de iarnă aspre și uscate. Științele Pământului K6 – geologia canionului."
-    },
-    factsAdvanced: {
-      en: ["The largest canyon in Africa, located in southern Namibia.", "Stretches for approximately 160 kilometers in length.", "Reaches widths of 27 kilometers and depths of 550 meters.", "Formed by tectonic collapse and subsequent water erosion.", "The Fish River only flows continuously during the rainy season.", "A highly popular, grueling five-day hiking trail runs through the base."],
-      de: ["Der größte Canyon Afrikas, im Süden Namibias gelegen.", "Erstreckt sich über eine Länge von ungefähr 160 Kilometern.", "Erreicht Breiten von 27 Kilometern und Tiefen von 550 Metern.", "Entstanden durch tektonischen Kollaps und anschließende Wassererosion.", "Der Fish River fließt nur während der Regenzeit kontinuierlich.", "Ein sehr beliebter, anstrengender fünftägiger Wanderweg führt durch den Grund des Canyons."],
-      hu: ["Afrika legnagyobb kanyonja, Namíbia déli részén található.", "Körülbelül 160 kilométer hosszú.", "Eléri a 27 kilométeres szélességet és az 550 méteres mélységet.", "Tektonikus összeomlás és az azt követő vízerózió alakította ki.", "A Fish River csak az esős évszakban folyik folyamatosan.", "Egy rendkívül népszerű, megerőltető ötnapos túraútvonal vezet át az alján."],
-      ro: ["Cel mai mare canion din Africa, situat în sudul Namibiei.", "Se întinde pe o lungime de aproximativ 160 de kilometri.", "Atinge lățimi de 27 de kilometri și adâncimi de 550 de metri.", "Format prin prăbușire tectonică și eroziune ulterioară a apei.", "Râul Fish curge continuu doar în timpul sezonului ploios.", "Un traseu de drumeție de cinci zile, foarte popular și obositor, străbate baza."]
-    },
-    
-    
-    
-    
-    
-     image: "/poi-images/na-fish-river-canyon-nature-v2.webp"},
-  {
+    {
     id: "na-orange-river-nature-v2",
     type: "river",
     parent: "NA-KA",
@@ -194,39 +162,7 @@ export const poiExtraNamibiaNatureV2: POI[] = [
     
     
      image: "/poi-images/na-kunene-river-nature-v2.webp"},
-  {
-    id: "na-epupa-falls-nature-v2",
-    type: "river",
-    parent: "NA-KU",
-    coords: [13.2, -17.0],
-    name: { de: "Epupa-Fälle", hu: "Epupa-vízesés", ro: "Cascadele Epupa", en: "Epupa Falls"},
-    image: "/poi-images/na-epupa-falls-nature-v2.webp",
-    description: { de: "Spektakuläre Wasserfälle am Kunene-Fluss.", hu: "Látványos vízesések a Kunene folyón.", ro: "Cascade spectaculoase pe râul Kunene.", en: "Spectacular waterfalls on the Kunene River." },
-    facts: {
-      de: ["Wasserfälle am Kunene-Fluss", "Beliebtes Touristenziel", "Umgeben von Makalani-Palmen", "Naturschauspiel im Norden"],
-      hu: ["Vízesések a Kunene folyón", "Népszerű turisztikai célpont", "Makalani-pálmákkal övezve", "Természeti csoda északon"],
-      ro: ["Cascade pe râul Kunene", "Destinație turistică populară", "Înconjurate de palmieri Makalani", "Spectacol natural în nord"],
-      en: ["Waterfalls on Kunene River", "Popular tourist destination", "Surrounded by Makalani palms", "Natural wonder in the north"]
-    },
-    descriptionAdvanced: {
-      en: "Epupa Falls is a spectacular series of waterfalls on the Kunene River, situated right on the border between Namibia and Angola. The name 'Epupa' translates to 'falling waters' in the local Otjiherero language. Here, the river drops in a series of cascades over a span of 1.5 kilometers, with the largest single drop plunging 37 meters into a deep, dark gorge. The falls are surrounded by striking baobab trees, wild fig trees, and makalani palms, creating a stunning, lush oasis that contrasts sharply with the barren, rocky hills of the surrounding Kaokoland. Earth Science K6 — waterfalls and erosion.",
-      de: "Die Epupa-Fälle sind eine spektakuläre Reihe von Wasserfällen am Kunene-Fluss, direkt an der Grenze zwischen Namibia und Angola. Der Name 'Epupa' bedeutet in der lokalen Otjiherero-Sprache 'fallende Wasser'. Hier stürzt der Fluss in einer Reihe von Kaskaden über eine Länge von 1,5 Kilometern, wobei der größte einzelne Fall 37 Meter in eine tiefe, dunkle Schlucht stürzt. Die Fälle sind von markanten Baobab-Bäumen, wilden Feigenbäumen und Makalani-Palmen umgeben, die eine atemberaubende, üppige Oase schaffen, die in starkem Kontrast zu den kahlen, felsigen Hügeln des umliegenden Kaokolandes steht. Geowissenschaften K6 – Wasserfälle und Erosion.",
-      hu: "Az Epupa-vízesés egy látványos vízeséssorozat a Kunene folyón, közvetlenül Namíbia és Angola határán. Az „Epupa” név a helyi otjiherero nyelven „zuhanó vizet” jelent. Itt a folyó 1,5 kilométeren keresztül kaszkádok sorozatában zuhan le, a legnagyobb egyedi esés pedig 37 métert zuhan egy mély, sötét szurdokba. A vízesést feltűnő baobabfák, vadfügefák és makalani pálmák veszik körül, létrehozva egy lenyűgöző, buja oázist, amely éles ellentétben áll a környező Kaokoland kopár, sziklás dombjaival. Földtudomány K6 – vízesések és erózió.",
-      ro: "Cascadele Epupa reprezintă o serie spectaculoasă de cascade pe râul Kunene, situate chiar la granița dintre Namibia și Angola. Numele „Epupa” se traduce prin „ape căzătoare” în limba locală Otjiherero. Aici, râul coboară într-o serie de cascade pe o distanță de 1,5 kilometri, cea mai mare cădere unică prăbușindu-se de la 37 de metri într-un defileu adânc și întunecat. Cascadele sunt înconjurate de baobabi impunători, smochini sălbatici și palmieri makalani, creând o oază uimitoare și luxuriantă, care contrastează puternic cu dealurile sterpe și stâncoase ale Kaokolandului înconjurător. Științele Pământului K6 – cascade și eroziune."
-    },
-    factsAdvanced: {
-      en: ["Located on the Kunene River border with Angola.", "The name 'Epupa' means 'falling waters' in Otjiherero.", "Features a series of cascades spreading over 1.5 kilometers.", "The highest single waterfall drop measures 37 meters.", "Surrounded by an oasis of baobab and makalani palm trees.", "Constantly threatened by proposed hydroelectric dam projects."],
-      de: ["An der Grenze des Kunene-Flusses zu Angola gelegen.", "Der Name 'Epupa' bedeutet 'fallende Wasser' in Otjiherero.", "Besteht aus einer Reihe von Kaskaden, die sich über 1,5 Kilometer erstrecken.", "Der höchste einzelne Wasserfall hat eine Höhe von 37 Metern.", "Umgeben von einer Oase aus Baobab- und Makalani-Palmen.", "Ständig bedroht durch geplante Wasserkraftwerksprojekte."],
-      hu: ["Az angolai határon, a Kunene folyón található.", "Az „Epupa” név otjiherero nyelven „zuhanó vizet” jelent.", "1,5 kilométeren elterülő kaszkádok sorozatából áll.", "A legmagasabb egyedi vízesés 37 méteres.", "Baobab- és makalani-pálmafák oázisa veszi körül.", "Folyamatosan fenyegetik a tervezett vízerőmű-projektek."],
-      ro: ["Situat pe râul Kunene, la granița cu Angola.", "Numele „Epupa” înseamnă „ape căzătoare” în Otjiherero.", "Prezintă o serie de cascade care se întind pe 1,5 kilometri.", "Cea mai înaltă cădere de apă unică măsoară 37 de metri.", "Înconjurat de o oază de baobabi și palmieri makalani.", "Amenințat constant de proiecte propuse de baraje hidroelectrice."]
-    },
-    
-    
-    
-    
-    
-     image: "/poi-images/na-epupa-falls-nature-v2.webp"},
-  {
+    {
     id: "na-brandberg-mountain-nature-v2",
     type: "mountain",
     parent: "NA-ER",

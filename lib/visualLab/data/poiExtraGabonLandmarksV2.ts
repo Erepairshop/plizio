@@ -422,27 +422,7 @@ export const poiExtraGabonLandmarksV2: POI[] = [
     factsAdvanced: {
       de: ["Die Talsperre befindet sich am Fluss Ogooué.", "Sie ist ein zentraler Pfeiler für die Energieversorgung der Region.", "Die Anlage symbolisiert die industrielle Entwicklung.", "Das Stauwehr reguliert den Wasserfluss des Ogooué.", "Es ist ein wichtiges Beispiel moderner technischer Baukunst in Gabun.", "Die Stromerzeugung ist essenziell für die lokale Wirtschaft."]
     }, image: "/poi-images/barrage-poubara-landmarks-v2.webp"},
-  {
-    id: "grottes-lastoursville-landmarks-v2",
-    type: "landmark",
-    parent: "GA-7",
-    coords: [12.7200, -0.8200],
-    name: { de: "Höhlen von Lastoursville", hu: "Lastoursville-i barlangok", ro: "Peșterile din Lastoursville", en: "Grottoes of Lastoursville"},
-    image: "/poi-images/grottes-lastoursville-landmarks-v2.webp",
-  description: { de: "Ein System von Kalksteinhöhlen, die sowohl geologische als auch kulturelle Bedeutung haben.", hu: "Mészkőbarlang-rendszer, amely geológiai és kulturális jelentőséggel is bír.", ro: "Un sistem de peșteri de calcar cu semnificație atât geologică, cât și culturală.", en: "A system of limestone caves that have both geological and cultural significance." },
-    facts: {
-      de: ["UNESCO-Kandidat", "Geologisches Wunder"],
-      hu: ["UNESCO várományos", "Geológiai csoda"],
-      ro: ["Candidat UNESCO", "Minune geologică"],
-      en: ["UNESCO candidate", "Geological wonder"]
-    },
-    descriptionAdvanced: {
-      de: "Die Höhlen von Lastoursville sind ein spektakuläres Naturwahrzeichen, das eine faszinierende unterirdische Welt aus Stalaktiten und Stalagmiten offenbart. Diese Höhlensysteme sind nicht nur für Geologen interessant, sondern auch ein wichtiges Ziel für den Ökotourismus in Gabun. Die Erforschung dieser versteckten Orte liefert zudem wichtige Erkenntnisse über die Erdgeschichte der Region. Als Wahrzeichen der Region Ogooué-Lolo unterstreichen sie die Vielfalt der gabunischen Landschaften, die über den bekannten Regenwald hinausgeht. Geografie K8 — Karstlandschaften und Naturdenkmäler."
-    },
-    factsAdvanced: {
-      de: ["Lastoursville ist für seine ausgedehnten Höhlensysteme bekannt.", "Die Höhlen bieten beeindruckende Stalaktiten-Formationen.", "Sie sind ein Ziel für den aufstrebenden Ökotourismus.", "Die Erforschung der Höhlen liefert wichtige geologische Daten.", "Sie sind ein bedeutendes Naturwahrzeichen für Gabun.", "Die Höhlen zeigen die Vielfalt des lokalen Reliefs."]
-    }, image: "/poi-images/grottes-lastoursville-landmarks-v2.webp"},
-  {
+    {
     id: "palais-roi-denis-landmarks-v2",
     type: "landmark",
     parent: "GA-1",

@@ -261,59 +261,7 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
       en: ["The mosque was built in 1998.", "It has 4 minarets, each 50 meters high.", "The central dome has a diameter of 25 meters.", "Capacity is 5,000 worshippers.", "The construction was funded by the Turkish government.", "The mosque covers an area of 5,000 square meters."],
     },
   },
-  {
-    id: "tm-nisa-fortresses-landmarks-v2",
-    type: "landmark",
-    parent: "TM-A",
-    coords: [58.2096, 37.9658],
-    name: { de: "Parthische Festungen von Nisa", hu: "Nisa Pártus Erődjei", ro: "Cetățile Parte din Nisa", en: "Parthian Fortresses of Nisa"},
-    image: "/poi-images/tm-nisa-fortresses-landmarks-v2.webp",
-    description: {
-      de: "Die antiken Ruinen von Nisa gehörten einst zu den frühesten Hauptstädten des Partherreichs. Sie sind eine UNESCO-Welterbestätte und bieten wertvolle Einblicke in eine mächtige Zivilisation der Antike.",
-      hu: "Nisa ősi romjai egykor a Pártus Birodalom legkorábbi fővárosai közé tartoztak. Az UNESCO Világörökség része, amely értékes bepillantást nyújt az ókor egyik hatalmas civilizációjába.",
-      ro: "Ruinele antice din Nisa au fost odată printre primele capitale ale Imperiului Part. Sunt incluse în Patrimoniul Mondial UNESCO și oferă perspective prețioase asupra unei civilizații antice puternice.",
-      en: "The ancient ruins of Nisa were once among the earliest capitals of the Parthian Empire. They are a UNESCO World Heritage site, providing valuable insights into a powerful ancient civilization."
-    },
-    facts: {
-      de: [
-        "Gehört seit 2007 zum UNESCO-Welterbe.",
-        "War ein wichtiges Zentrum zwischen dem 3. Jh. v. Chr. und 3. Jh. n. Chr.",
-        "Viele elfenbeinerne Rhytons wurden hier entdeckt.",
-        "Liegt malerisch am Fuße des Kopet-Dag-Gebirges."
-      ],
-      hu: [
-        "2007 óta az UNESCO Világörökség része.",
-        "Fontos központ volt az i. e. 3. és az i. sz. 3. század között.",
-        "Sok elefántcsontból faragott ritont (ivókürtöt) találtak itt.",
-        "A Kopet-Dag-hegység lábánál fekszik."
-      ],
-      ro: [
-        "Inclusă în Patrimoniul Mondial UNESCO din 2007.",
-        "A fost un centru important între sec. 3 î.Hr. și sec. 3 d.Hr.",
-        "Aici s-au descoperit numeroase rhytonuri de fildeș.",
-        "Se află la poalele munților Kopet-Dag."
-      ],
-      en: [
-        "A UNESCO World Heritage site since 2007.",
-        "An important center between the 3rd century BC and 3rd century AD.",
-        "Many ivory rhytons have been discovered here.",
-        "Picturesquely located at the foot of the Kopet Dag mountains."
-      ]
-    }, image: "/poi-images/tm-nisa-fortresses-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "Die parthischen Festungen von Nisa liegen in der Nähe von Ashgabat und waren die Hauptstadt des Partherreiches. Die Stätte umfasst die Überreste einer alten Stadt mit Tempeln, Palästen und Befestigungsanlagen. Die Ausgrabungen förderten zahlreiche Kunstwerke und Tontafeln zutage. Nisa war ein bedeutendes kulturelles und politisches Zentrum zwischen dem 3. Jahrhundert v. Chr. und dem 3. Jahrhundert n. Chr. 2007 wurde die Stätte zum UNESCO-Weltkulturerbe erklärt.",
-      hu: "A nisai pártus erődök Ashgabat közelében találhatók, és a Pártus Birodalom fővárosai voltak. A lelőhely egy ősi város romjait foglalja magában, templomokkal, palotákkal és erődítményekkel. A feltárások során számos műalkotás és agyagtábla került elő. Nisa fontos kulturális és politikai központ volt a Kr. e. 3. század és a Kr. u. 3. század között. 2007-ben az UNESCO Világörökség részévé nyilvánították.",
-      ro: "Cetățile parthe de la Nisa sunt situate lângă Ashgabat și au fost capitala Imperiului Part. Situl include rămășițele unui oraș antic cu temple, palate și fortificații. Săpăturile au scos la lumină numeroase opere de artă și tăblițe de lut. Nisa a fost un important centru cultural și politic între secolul III î.Hr. și secolul III d.Hr. În 2007, situl a fost declarat patrimoniu UNESCO.",
-      en: "The Parthian Fortresses of Nisa are located near Ashgabat and were the capital of the Parthian Empire. The site includes the remains of an ancient city with temples, palaces, and fortifications. Excavations have revealed numerous artworks and clay tablets. Nisa was a major cultural and political center between the 3rd century BCE and the 3rd century CE. In 2007, the site was declared a UNESCO World Heritage.",
-    },
-    factsAdvanced: {
-      de: ["Die ältesten Funde stammen aus dem 3. Jahrhundert v. Chr.", "Die Zitadelle hatte eine Fläche von 14 Hektar.", "Es wurden über 2.000 Tontafeln mit Schriftzeugnissen gefunden.", "Die Mauern waren bis zu 6 Meter dick.", "Die Stätte umfasst zwei separate Festungen: Alte und Neue Nisa.", "Nisa war von 247 v. Chr. bis 224 n. Chr. bewohnt."],
-      hu: ["A legrégebbi leletek a Kr. e. 3. századból származnak.", "A fellegvár területe 14 hektár volt.", "Több mint 2.000 agyagtáblát találtak írásos emlékekkel.", "A falak vastagsága elérte a 6 métert.", "A lelőhely két különálló erődöt foglal magában: Ó- és Új-Nisa.", "Nisát Kr. e. 247-től Kr. u. 224-ig lakták."],
-      ro: ["Cele mai vechi descoperiri datează din secolul III î.Hr.", "Cetatea avea o suprafață de 14 hectare.", "Au fost găsite peste 2.000 de tăblițe de lut cu inscripții.", "Zidurile aveau până la 6 metri grosime.", "Situl include două cetăți separate: Nisa Veche și Nisa Nouă.", "Nisa a fost locuită între 247 î.Hr. și 224 d.Hr."],
-      en: ["The earliest finds date from the 3rd century BCE.", "The citadel had an area of 14 hectares.", "Over 2,000 clay tablets with inscriptions have been found.", "The walls were up to 6 meters thick.", "The site includes two separate fortresses: Old and New Nisa.", "Nisa was inhabited from 247 BCE to 224 CE."],
-    },
-  },
-  {
+    {
     id: "tm-alem-center-landmarks-v2",
     type: "icon",
     parent: "TM-S",

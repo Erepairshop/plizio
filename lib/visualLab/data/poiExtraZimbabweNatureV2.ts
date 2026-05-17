@@ -195,39 +195,7 @@ export const poiExtraZimbabweNatureV2: POI[] = [
       en: ["Length: 640 km.", "Catchment: 105,000 km².", "Average discharge: 200 m³/s.", "Basin population: 500,000.", "Sugarcane plantations: 50,000 ha.", "Hydropower plants: 2."],
     },
   },
-  {
-    id: "vumba-mountains-nature-v2",
-    type: "mountain",
-    parent: "ZW-MA",
-    coords: [32.7, -19.1],
-    name: { de: "Vumba-Berge", hu: "Vumba-hegység", ro: "Munții Vumba", en: "Vumba Mountains"},
-    image: "/poi-images/vumba-mountains-nature-v2.webp",
-    description: {
-      de: "Nebelwald-Berge nahe der Grenze zu Mosambik.",
-      hu: "Ködös hegyek a mozambiki határ közelében.",
-      ro: "Munți cu păduri cețoase lângă granița cu Mozambic.",
-      en: "Mist forest mountains near the border with Mozambique."
-    },
-    facts: {
-      de: ["Bekannt für botanische Gärten", "Kühles Klima", "Hohe Artenvielfalt"],
-      hu: ["Híres botanikus kertek", "Hűvös éghajlat", "Magas biodiverzitás"],
-      ro: ["Cunoscut pentru grădini botanice", "Climat răcoros", "Biodiversitate ridicată"],
-      en: ["Known for botanical gardens", "Cool climate", "High biodiversity"]
-    }, image: "/poi-images/vumba-mountains-nature-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Vumba-Berge in der Provinz Manicaland sind ein Gebirgszug nahe der Grenze zu Mosambik. Sie erreichen Höhen von bis zu 1.800 Metern. Die Berge sind bekannt für ihre Regenwälder und botanischen Gärten. Das Klima ist kühl und feucht. Die Vumba-Berge sind ein beliebtes Touristenziel für Wandern und Vogelbeobachtung. Sie beherbergen seltene Pflanzen wie Orchideen. Die Region ist auch für Teeplantagen bekannt. Die Berge sind ein wichtiges Wassereinzugsgebiet.",
-      hu: "A Vumba-hegység Zimbabwe Manicaland tartományában található, egy hegylánc a mozambiki határ közelében. Magassága eléri az 1.800 métert. A hegyek híresek esőerdőikről és botanikus kertjeikről. Az éghajlat hűvös és párás. A Vumba-hegység népszerű turisztikai célpont túrázásra és madármegfigyelésre. Ritka növények, például orchideák élőhelye. A régió teafarmjairól ismert. A hegyek fontos vízgyűjtő területet jelentenek.",
-      ro: "Munții Vumba din provincia Manicaland sunt un lanț muntos lângă granița cu Mozambic. Au altitudini de până la 1.800 de metri. Munții sunt cunoscuți pentru pădurile tropicale și grădinile botanice. Clima este răcoroasă și umedă. Munții Vumba sunt o destinație turistică populară pentru drumeții și observarea păsărilor. Găzduiesc plante rare precum orhideele. Regiunea este cunoscută și pentru plantațiile de ceai. Munții sunt un important bazin hidrografic.",
-      en: "Vumba Mountains in Manicaland are a range near the Mozambique border. They reach heights of 1,800 meters. The mountains are known for rainforests and botanical gardens. The climate is cool and humid. Vumba Mountains are a popular tourist destination for hiking and birdwatching. They host rare plants like orchids. The region is also known for tea plantations. The mountains serve as an important watershed.",
-    },
-    factsAdvanced: {
-      de: ["Höchster Punkt: 1.800 m.", "Regenwaldfläche: 100 km².", "Teeplantagen: 5.000 Hektar.", "Jährlicher Niederschlag: 1.200 mm.", "Orchideenarten: 50.", "Touristen jährlich: 20.000."],
-      hu: ["Legmagasabb csúcs: 1.806 m.", "A botanikus kert 1930-ban létesült.", "A teaültetvények évi 10.000 tonnát termelnek.", "A hegység 300 madárfajnak ad otthont.", "A turisták száma évente 20.000.", "Az esőerdők 8.000 hektáron terülnek el."],
-      ro: ["Altitudine maximă: 1.806 m.", "Grădina botanică: înființată în 1930.", "Producție anuală de ceai: 10.000 t.", "Specii de păsări: 300.", "Vizitatori anual: 20.000.", "Suprafață păduri tropicale: 8.000 ha."],
-      en: ["Highest peak: 1,806 m.", "Botanical garden established: 1930.", "Tea production: 10,000 tons/year.", "Bird species: 300.", "Annual tourists: 20,000.", "Rainforest area: 8,000 ha."],
-    },
-  },
-  {
+    {
     id: "lake-mutirikwi-nature-v2",
     type: "lake",
     parent: "ZW-MV",
@@ -291,39 +259,7 @@ export const poiExtraZimbabweNatureV2: POI[] = [
       en: ["Length: 200 km.", "Catchment: 20,000 km².", "Dam built: 1976.", "Lake area: 20 km².", "Water abstraction: 500,000 m³/day.", "Irrigated area: 10,000 ha."],
     },
   },
-  {
-    id: "matobo-hills-mountains-nature-v2",
-    type: "mountain",
-    parent: "ZW-MN",
-    coords: [28.5, -20.5],
-    name: { de: "Matobo-Berge", hu: "Matobo-hegyek", ro: "Munții Matobo", en: "Matobo Hills"},
-    image: "/poi-images/matobo-hills-mountains-nature-v2.webp",
-    description: {
-      de: "Eine Hügellandschaft aus Granitfelsen.",
-      hu: "Granitsziklákból álló dombvidék.",
-      ro: "Un peisaj deluros din stânci de granit.",
-      en: "A landscape of granite hills."
-    },
-    facts: {
-      de: ["Unesco-Welterbe", "Berühmt für Felsformationen", "Reich an Nashörnern"],
-      hu: ["Világörökség", "Híres sziklaformációk", "Gazdag orrszarvúkban"],
-      ro: ["Patrimoniu Mondial UNESCO", "Faimos pentru formațiuni stâncoase", "Bogată în rinoceri"],
-      en: ["UNESCO World Heritage site", "Famous for rock formations", "Rich in rhinos"]
-    }, image: "/poi-images/matobo-hills-mountains-nature-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Matobo-Hügel in der Provinz Matabeleland South sind eine Granitformation. Sie bedecken eine Fläche von 3.000 km². Die Hügel sind für ihre bizarren Felsformationen und Höhlen bekannt. Sie beherbergen eine reiche Tierwelt, darunter Nashörner und Leoparden. Das Gebiet wurde 1953 zum Nationalpark erklärt. Es hat kulturelle Bedeutung für die San-Völker. Die Hügel sind ein UNESCO-Weltkulturerbe. Sie bieten spektakuläre Aussichten und sind bei Wanderern beliebt.",
-      hu: "A Matobo-dombok Zimbabwe Matabeleland South tartományában található gránitformációk. Területük 3.000 km². A dombok híresek bizarr sziklaformációikról és barlangjaikról. Gazdag vadállománynak adnak otthont, beleértve orrszarvúkat és leopárdokat. A területet 1953-ban nyilvánították nemzeti parkká. Kulturális jelentőséggel bír a szán népek számára. A dombok az UNESCO Világörökség részét képezik. Lenyűgöző kilátást nyújtanak és népszerűek a túrázók körében.",
-      ro: "Dealurile Matobo din provincia Matabeleland South sunt o formațiune de granit. Acoperă o suprafață de 3.000 km². Dealurile sunt cunoscute pentru formațiunile stâncoase bizare și peșteri. Găzduiesc o faună bogată, inclusiv rinoceri și leoparzi. Zona a fost declarată parc național în 1953. Are semnificație culturală pentru poporul San. Dealurile sunt un sit al Patrimoniului Mondial UNESCO. Oferă priveliști spectaculoase și sunt populare printre drumeți.",
-      en: "Matobo Hills in Matabeleland South are granite formations covering 3,000 km². Known for bizarre rock formations and caves, they host rich wildlife including rhinos and leopards. The area was declared a national park in 1953. It has cultural significance for the San people. The hills are a UNESCO World Heritage Site. They offer spectacular views and are popular with hikers.",
-    },
-    factsAdvanced: {
-      de: ["Fläche: 3.000 km².", "Nationalpark seit 1953.", "UNESCO-Welterbe seit 2003.", "Höchster Punkt: 1.549 m.", "Nashornpopulation: 200.", "Felsmalereien: über 500 Stätten."],
-      hu: ["Terület: 3.000 km².", "Nemzeti park: 1953.", "UNESCO: 2003.", "Legmagasabb pont: 1.549 m.", "Orrszarvúk száma: 200.", "Sziklarajzok: 500 helyszín."],
-      ro: ["Suprafață: 3.000 km².", "Parcul Național: 1953.", "UNESCO: 2003.", "Altitudine maximă: 1.549 m.", "Rinoceri: 200.", "Arte rupestră: peste 500 de situri."],
-      en: ["Area: 3,000 km².", "National park: 1953.", "UNESCO World Heritage: 2003.", "Highest point: 1,549 m.", "Rhino population: 200.", "Rock art sites: 500+."],
-    },
-  },
-  {
+    {
     id: "shashe-river-nature-v2",
     type: "river",
     parent: "ZW-MN",
@@ -662,71 +598,7 @@ export const poiExtraZimbabweNatureV2: POI[] = [
       en: ["The lake was named after Sir John McIlwaine in 1952.", "It was renamed Lake Chivero in 1980.", "The lake has a surface area of 2,600 ha.", "Average depth is 10 m.", "The lake hosts over 400 bird species.", "The lake lies in the Manyame River catchment."],
     },
   },
-  {
-    id: "nyanga-mountains-nature-v2",
-    type: "mountain",
-    parent: "ZW-MA",
-    coords: [32.7, -18.2],
-    name: { de: "Nyanga-Berge", hu: "Nyanga-hegység", ro: "Munții Nyanga", en: "Nyanga Mountains"},
-    image: "/poi-images/nyanga-mountains-nature-v2.webp",
-    description: {
-      de: "Eine Bergregion mit Wasserfällen.",
-      hu: "Hegyvidék vízesésekkel.",
-      ro: "Regiune montană cu cascade.",
-      en: "A mountainous region with waterfalls."
-    },
-    facts: {
-      de: ["Höchster Punkt Zimbabwes", "Kühles Hochland", "Wandern"],
-      hu: ["Zimbabwe legmagasabb pontja", "Hűvös felföld", "Túrázás"],
-      ro: ["Cel mai înalt punct din Zimbabwe", "Platou răcoros", "Drumeții"],
-      en: ["Highest point in Zimbabwe", "Cool highland", "Hiking"]
-    }, image: "/poi-images/nyanga-mountains-nature-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Nyanga Mountains sind Teil der Eastern Highlands in Simbabwe und erstrecken sich entlang der Grenze zu Mosambik. Die höchste Erhebung ist der Mount Nyangani mit 2.593 m. Das Gebirge ist geprägt von Granitkuppen, tiefen Tälern und Wasserfällen, darunter die Mutarazi Falls. Die Region empfängt hohe Niederschläge bis zu 2.000 mm jährlich und beherbergt Bergregenwälder. Sie ist Heimat seltener Pflanzen wie der Nyanga-Zeder. Die Berge sind ein Zentrum für Wander- und Klettertourismus. Historisch war die Region Rückzugsgebiet der San.",
-      hu: "A Nyanga-hegység a keleti felföld részét képezi Zimbabwében, Mozambik határa mentén húzódva. A legmagasabb csúcs a Mount Nyangani 2593 m-rel. A hegységet gránitkupolák, mély völgyek és vízesések jellemzik, beleértve a Mutarazi-vízesést. A régióban magas, akár 2000 mm éves csapadék hull, és hegyi esőerdőknek ad otthont. Ritka növények élőhelye, mint a nyanga cédrus. A hegyek a túrázás és a hegymászás központjai. Történelmileg a szanok menedékhelye volt.",
-      ro: "Munții Nyanga fac parte din Podișul Estic al Zimbabwe, întinzându-se de-a lungul graniței cu Mozambic. Cel mai înalt vârf este Mount Nyangani, cu 2.593 m. Munții sunt caracterizați de cupole de granit, văi adânci și cascade, inclusiv Cascada Mutarazi. Regiunea primește precipitații mari, de până la 2.000 mm anual, și adăpostește păduri tropicale montane. Este habitatul unor plante rare precum cedrul Nyanga. Munții sunt un centru pentru drumeții și alpinism. Din punct de vedere istoric, regiunea a fost un refugiu pentru san.",
-      en: "The Nyanga Mountains are part of the Eastern Highlands in Zimbabwe, stretching along the border with Mozambique. The highest peak is Mount Nyangani at 2,593 m. The mountains feature granite domes, deep valleys, and waterfalls, including Mutarazi Falls. The region receives high rainfall up to 2,000 mm annually and hosts montane rainforests. It is home to rare plants like the Nyanga cedar. The mountains are a hub for hiking and climbing. Historically, the area was a refuge for the San people.",
-    },
-    factsAdvanced: {
-      de: ["Der Mount Nyangani ist mit 2.593 m der höchste Gipfel.", "Das Gebirge erstreckt sich über 50 km von Nord nach Süd.", "Die Mutarazi Falls stürzen 762 m tief.", "Die durchschnittliche Jahrestemperatur beträgt 15°C auf den Gipfeln.", "Die Bergkette umfasst über 20 Gipfel über 2.000 m.", "Das Nyanga-Zeder-Vorkommen ist auf nur 20 km² beschränkt."],
-      hu: ["A Mount Nyangani 2593 m magas, a legmagasabb csúcs.", "A hegység észak-déli irányban 50 km hosszú.", "A Mutarazi-vízesés 762 m magas.", "A csúcsokon az éves átlaghőmérséklet 15°C.", "A hegyvonulat több mint 20 csúcsot foglal magában 2000 m felett.", "A nyanga cédrus elterjedése mindössze 20 km²-re korlátozódik."],
-      ro: ["Mount Nyangani are 2.593 m, cel mai înalt vârf.", "Munții se întind pe 50 km de la nord la sud.", "Cascada Mutarazi are o cădere de 762 m.", "Temperatura medie anuală pe vârfuri este de 15°C.", "Lanțul montan include peste 20 de vârfuri de peste 2.000 m.", "Cedrul Nyanga se găsește doar pe 20 km²."],
-      en: ["Mount Nyangani is the highest peak at 2,593 m.", "The range stretches 50 km north-south.", "Mutarazi Falls drops 762 m.", "Average annual temperature on the peaks is 15°C.", "The range includes over 20 peaks above 2,000 m.", "Nyanga cedar is restricted to only 20 km²."],
-    },
-  },
-  {
-    id: "chimanimani-mountains-nature-v2",
-    type: "mountain",
-    parent: "ZW-MA",
-    coords: [32.9, -19.8],
-    name: { de: "Chimanimani-Berge", hu: "Chimanimani-hegység", ro: "Munții Chimanimani", en: "Chimanimani Mountains"},
-    image: "/poi-images/chimanimani-mountains-nature-v2.webp",
-    description: {
-      de: "Beeindruckende Bergkette an der Grenze zu Mosambik.",
-      hu: "Lenyűgöző hegylánc a mozambiki határnál.",
-      ro: "Lanț muntos impresionant la granița cu Mozambic.",
-      en: "Impressive mountain range on the border with Mozambique."
-    },
-    facts: {
-      de: ["Quarzit-Felsen", "Nationalpark", "Ideal für Wanderer"],
-      hu: ["Kvarcit sziklák", "Nemzeti park", "Ideális túrázóknak"],
-      ro: ["Stânci de cuarțit", "Parc național", "Ideal pentru drumeți"],
-      en: ["Quartzite rocks", "National park", "Ideal for hikers"]
-    }, image: "/poi-images/chimanimani-mountains-nature-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Chimanimani Mountains liegen im östlichen Hochland Simbabwes an der Grenze zu Mosambik. Sie erstrecken sich über etwa 50 km und erreichen Höhen von bis zu 2.436 m am Mount Binga. Die Berge bestehen aus Quarzit und Sandstein und sind für ihre spektakulären Felsformationen bekannt. Die Region empfängt hohe Niederschläge und beherbergt artenreiche Wälder, darunter den Chimanimani-Nationalpark. Sie ist Lebensraum für den seltenen Blue Duiker und den Samango-Affen. Die Berge sind beliebt für Wanderungen und Klettern.",
-      hu: "A Chimanimani-hegység Zimbabwe keleti felföldjén, Mozambik határán található. Körülbelül 50 km hosszan húzódik, és eléri a 2436 m magasságot a Mount Bingán. A hegység kvarcitból és homokkőből áll, látványos sziklaformációkkal. A régióban magas a csapadék, és fajgazdag erdők találhatók, beleértve a Chimanimani Nemzeti Parkot. Itt él a ritka kék duiker antilop és a samango majom. A hegyek kedveltek a túrázás és a mászás szempontjából.",
-      ro: "Munții Chimanimani sunt situați în Podișul Estic al Zimbabwe, la granița cu Mozambic. Se întind pe aproximativ 50 km și ating 2.436 m la vârful Mount Binga. Munții sunt formați din cuarțit și gresie, cu formațiuni stâncoase spectaculoase. Regiunea primește precipitații abundente și găzduiește păduri bogate în specii, inclusiv Parcul Național Chimanimani. Adăpostește antilopa albastră rară și maimuța samango. Munții sunt populari pentru drumeții și alpinism.",
-      en: "The Chimanimani Mountains are in Zimbabwe's Eastern Highlands, along the border with Mozambique. They stretch about 50 km and reach 2,436 m at Mount Binga. The mountains are composed of quartzite and sandstone, with spectacular rock formations. The region receives high rainfall and hosts species-rich forests, including Chimanimani National Park. It is home to the rare blue duiker and samango monkey. The mountains are popular for hiking and climbing.",
-    },
-    factsAdvanced: {
-      de: ["Der Mount Binga ist mit 2.436 m der höchste Gipfel.", "Das Gebirge erstreckt sich über 50 km.", "Der Chimanimani-Nationalpark wurde 1949 gegründet.", "Die jährliche Niederschlagsmenge beträgt bis zu 1.800 mm.", "Im Park gibt es über 200 Vogelarten.", "Die durchschnittliche Temperatur liegt bei 18°C."],
-      hu: ["A Mount Binga 2436 m magas, a legmagasabb csúcs.", "A hegység 50 km hosszú.", "A Chimanimani Nemzeti Parkot 1949-ben alapították.", "Az éves csapadékmennyiség elérheti az 1800 mm-t.", "A parkban több mint 200 madárfaj él.", "Az átlaghőmérséklet 18°C."],
-      ro: ["Vârful Mount Binga are 2.436 m, cel mai înalt.", "Munții se întind pe 50 km.", "Parcul Național Chimanimani a fost înființat în 1949.", "Precipitațiile anuale ajung la 1.800 mm.", "Parcul găzduiește peste 200 de specii de păsări.", "Temperatura medie este de 18°C."],
-      en: ["Mount Binga is the highest peak at 2,436 m.", "The range stretches 50 km.", "Chimanimani National Park was established in 1949.", "Annual rainfall can reach 1,800 mm.", "The park hosts over 200 bird species.", "Average temperature is 18°C."],
-    },
-  },
-  {
+      {
     id: "mazowe-dam-lake-nature-v2",
     type: "lake",
     parent: "ZW-MC",

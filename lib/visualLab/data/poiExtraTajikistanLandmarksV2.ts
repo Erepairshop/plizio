@@ -337,63 +337,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
       en: ["Completion year: 2008.", "Area: 38,000 m².", "Cost: approx. USD 200 million.", "Facade material: white marble.", "Number of floors: 5.", "Height: 30 m."],
     },
   },
-  {
-    id: "tj-karakul-lake-landmarks-v2",
-    type: "tourist-attraction",
-    parent: "TJ-GB",
-    coords: [73.4000, 39.0167],
-    name: {
-      de: "Karakul-See",
-      hu: "Karakul-tó",
-      ro: "Lacul Karakul",
-      en: "Karakul Lake"},
-    image: "/poi-images/tj-karakul-lake-landmarks-v2.webp",
-    description: {
-      de: "Ein atemberaubender See in einem Meteoritenkrater im Hochland des Pamir.",
-      hu: "Lélegzetelállító tó egy meteoritkráterben a Pamír-fennsíkon.",
-      ro: "Un lac uluitor într-un crater de meteorit din munții Pamir.",
-      en: "A breathtaking lake in a meteorite crater in the Pamir Highlands."
-    },
-    facts: {
-      de: [
-        "Der See liegt auf einer Höhe von 3914 Metern.",
-        "Er ist einer der höchstgelegenen Seen der Welt.",
-        "Das Wasser ist extrem salzig und beherbergt keine Fische.",
-        "Im Winter ist der See komplett zugefroren."
-      ],
-      hu: [
-        "A tó 3914 méteres magasságban található.",
-        "A világ egyik legmagasabban fekvő tava.",
-        "A vize rendkívül sós és nincsenek benne halak.",
-        "Télen a tó teljesen befagy."
-      ],
-      ro: [
-        "Lacul este situat la o altitudine de 3914 metri.",
-        "Este unul dintre cele mai înalte lacuri din lume.",
-        "Apa este extrem de sărată și nu adăpostește pești.",
-        "În timpul iernii lacul este complet înghețat."
-      ],
-      en: [
-        "The lake is situated at an altitude of 3914 meters.",
-        "It is one of the highest lakes in the world.",
-        "The water is extremely salty and contains no fish.",
-        "In winter, the lake is completely frozen."
-      ]
-    }, image: "/poi-images/tj-karakul-lake-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Karakul-See liegt im Pamir-Gebirge auf 3914 Metern Höhe. Er entstand durch einen Meteoriteneinschlag vor etwa 25 Millionen Jahren. Der See hat einen Durchmesser von 25 Kilometern und eine maximale Tiefe von 230 Metern. Das Wasser ist salzig, mit einem hohen Sulfatgehalt. Die Umgebung ist karg und unbewohnt. Der See ist Teil des Pamir-Nationalparks.",
-      hu: "A Karakul-tó a Pamír hegységben, 3914 méteres tengerszint feletti magasságban található. Körülbelül 25 millió évvel ezelőtt meteoritbecsapódás hozta létre. Átmérője 25 km, maximális mélysége 230 m. A tó vize sós, magas szulfáttartalmú. A környék lakatlan, a tó a Pamír Nemzeti Park része.",
-      ro: "Lacul Karakul se află în Munții Pamir, la 3914 m altitudine. Format în urma impactului unui meteorit acum aproximativ 25 de milioane de ani. Diametrul lacului este de 25 km, iar adâncimea maximă de 230 m. Apa este sărată, cu un conținut ridicat de sulfați. Zona este pustie și face parte din Parcul Național Pamir.",
-      en: "Karakul Lake in the Pamir Mountains lies at 3914 m altitude. It was formed by a meteorite impact about 25 million years ago. The lake has a diameter of 25 km and a maximum depth of 230 m. Its water is saline with high sulfate content. The surrounding area is barren and uninhabited. The lake is part of the Pamir National Park.",
-    },
-    factsAdvanced: {
-      de: ["Höhe: 3914 m über dem Meeresspiegel.", "Entstehung: vor 25 Millionen Jahren durch Meteoriteneinschlag.", "Durchmesser: 25 km.", "Maximale Tiefe: 230 m.", "Salzgehalt: hoch, sulfatreich.", "Fläche: ca. 380 km²."],
-      hu: ["Magasság: 3914 m tszf.", "Keletkezés: 25 millió éve meteoritbecsapódás.", "Átmérő: 25 km.", "Maximális mélység: 230 m.", "Sósság: magas szulfáttartalom.", "Területe: kb. 380 km²."],
-      ro: ["Altitudine: 3914 m.", "Formare: acum 25 milioane de ani prin impact meteoritic.", "Diametru: 25 km.", "Adâncime maximă: 230 m.", "Salinitate: ridicată, bogată în sulfați.", "Suprafață: circa 380 km²."],
-      en: ["Altitude: 3914 m ASL.", "Formation: 25 million years ago by meteor impact.", "Diameter: 25 km.", "Maximum depth: 230 m.", "Salinity: high, sulfate-rich.", "Surface area: approx. 380 km²."],
-    },
-  },
-  {
+    {
     id: "tj-yamchun-fortress-landmarks-v2",
     type: "landmark",
     parent: "TJ-GB",
@@ -505,63 +449,7 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
       en: ["Reopened: 2014.", "Floor area: 10,000 m².", "Number of stalls: over 300.", "Construction period: 2012-2014 post-fire.", "Architect: unknown.", "Daily visitors: several thousand."],
     },
   },
-  {
-    id: "tj-khujand-fortress-landmarks-v2",
-    type: "landmark",
-    parent: "TJ-SU",
-    coords: [69.6217, 40.2856],
-    name: {
-      de: "Festung Chudschand",
-      hu: "Hudzsand-erőd",
-      ro: "Cetatea Khujand",
-      en: "Khujand Fortress"},
-    image: "/poi-images/tj-khujand-fortress-landmarks-v2.webp",
-    description: {
-      de: "Überreste einer historischen Festung am Ufer des Syrdarja.",
-      hu: "Egy történelmi erőd maradványai a Szir-Darja partján.",
-      ro: "Rămășițele unei fortărețe istorice pe malul râului Sîrdaria.",
-      en: "Remains of a historical fortress on the banks of the Syr Darya."
-    },
-    facts: {
-      de: [
-        "Die Ursprünge der Festung reichen über 2500 Jahre zurück.",
-        "Sie wurde von den Truppen Alexanders des Großen eingenommen.",
-        "Heute beherbergt sie das Historische Museum der Provinz Sughd.",
-        "Ein Teil der Anlage wurde aufwendig restauriert."
-      ],
-      hu: [
-        "Az erőd eredete több mint 2500 évre nyúlik vissza.",
-        "Nagy Sándor csapatai foglalták el.",
-        "Ma a Szugd tartományi Történeti Múzeumnak ad otthont.",
-        "A komplexum egy részét gondosan restaurálták."
-      ],
-      ro: [
-        "Originile fortăreței datează de peste 2500 de ani.",
-        "A fost capturată de trupele lui Alexandru cel Mare.",
-        "Astăzi găzduiește Muzeul de Istorie al provinciei Sughd.",
-        "O parte a complexului a fost restaurată elaborat."
-      ],
-      en: [
-        "The origins of the fortress date back over 2500 years.",
-        "It was captured by the troops of Alexander the Great.",
-        "Today it houses the Historical Museum of Sughd Province.",
-        "Part of the complex has been elaborately restored."
-      ]
-    }, image: "/poi-images/tj-khujand-fortress-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Festung von Chudschand aus dem 6. Jahrhundert v. Chr. ist eine der ältesten in Zentralasien. Sie wurde von Alexander dem Großen belagert und später von Arabern und Mongolen zerstört. Die heutigen Mauern stammen aus dem 16. Jahrhundert. Die Festung liegt am Syrdarja und bietet einen Blick auf die Stadt. Ein Museum zeigt archäologische Funde.",
-      hu: "A hudzsandi erőd a Kr.e. 6. században épült, Közép-Ázsia egyik legrégebbi erődje. Nagy Sándor ostromolta, később arabok és mongolok pusztították. A mai falak a 16. századból származnak. A Szir-darja folyó mellett fekszik. A múzeumban régészeti leletek láthatók.",
-      ro: "Cetatea Khujand, construită în secolul al VI-lea î.Hr., este una dintre cele mai vechi din Asia Centrală. Asediată de Alexandru cel Mare, distrusă de arabi și mongoli. Zidurile actuale datează din secolul al XVI-lea. Este situată pe râul Syr Darya. Muzeul adăpostește artefacte arheologice.",
-      en: "Khujand Fortress, dating from the 6th century BC, is one of Central Asia's oldest. Besieged by Alexander the Great, later destroyed by Arabs and Mongols. Current walls date from the 16th century. Located on the Syr Darya river, it houses a museum with archaeological finds.",
-    },
-    factsAdvanced: {
-      de: ["Ursprünglicher Bau: 6. Jh. v. Chr.", "Belagerung durch Alexander den Großen: 329 v. Chr.", "Zerstörung durch Mongolen: 1220.", "Wiederaufbau: 16. Jahrhundert.", "Lage: am Syrdarja, 30 km südlich.", "Museumsgründung: 1986."],
-      hu: ["Eredeti építés: Kr.e. 6. század.", "Nagy Sándor ostroma: Kr.e. 329.", "Mongol pusztítás: 1220.", "Újjáépítés: 16. század.", "Fekvés: Szir-darja folyó, 30 km-re.", "Múzeum alapítás: 1986."],
-      ro: ["Construcție originală: sec. VI î.Hr.", "Asediul lui Alexandru cel Mare: 329 î.Hr.", "Distrugere de către mongoli: 1220.", "Reconstrucție: sec. al XVI-lea.", "Amplasare: pe râul Syr Darya, la 30 km.", "Anul înființării muzeului: 1986."],
-      en: ["Original construction: 6th century BC.", "Siege by Alexander the Great: 329 BC.", "Mongol destruction: 1220.", "Reconstruction: 16th century.", "Location: on Syr Darya river, 30 km south.", "Museum established: 1986."],
-    },
-  },
-  {
+    {
     id: "tj-arbob-cultural-palace-landmarks-v2",
     type: "landmark",
     parent: "TJ-SU",

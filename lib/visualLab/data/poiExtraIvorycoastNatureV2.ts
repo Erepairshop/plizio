@@ -206,28 +206,7 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       de: ["Ruhiges Gewässer im Küstengürtel.", "Wichtiger Brutplatz für Wasservögel.", "Umgeben von schützenden Mangroven.", "Zentrum für kleinteilige, traditionelle Fischerei.", "Ökologisches Bindeglied im Lagunensystem.", "Geringer menschlicher Einfluss im Vergleich zu Abidjan.", "Reich an endemischen Fischarten.", "Wichtiger Puffer für den Küstenschutz."]
     }
   },
-  {
-    id: "forest-ta-i-nature-v2",
-    type: "forest",
-    parent: "CI-CI",
-    coords: [-7.3, 5.8],
-    name: { de: "Taï-Wald", hu: "Taï-erdő", ro: "Pădurea Taï", en: "Taï Forest"},
-    image: "/poi-images/forest-ta-i-nature-v2.webp",
-    description: { de: "Einer der letzten großen Primärregenwälder Westafrikas und Heimat zahlreicher seltener Tierarten.", hu: "Nyugat-Afrika egyik utolsó nagy őserdeje és UNESCO világörökségi helyszíne.", ro: "Una dintre ultimele mari păduri primare din Africa de Vest și sit al Patrimoniului Mondial UNESCO.", en: "One of the last major primary forests in West Africa and a UNESCO World Heritage site." },
-    facts: {
-      de: ["UNESCO-Welterbe seit 1982", "Fläche ca. 3.300 km²", "Heimat von Zwergflusspferden"],
-      hu: ["UNESCO világörökség.", "Hatalmas biodiverzitás.", "Csimpánzok otthona.", "Természetvédelmi terület."],
-      ro: ["Patrimoniu Mondial UNESCO.", "Biodiversitate enormă.", "Habitat pentru cimpanzei.", "Arie protejată."],
-      en: ["UNESCO World Heritage site.", "Enormous biodiversity.", "Home to chimpanzees.", "Protected area."]
-    }, image: "/poi-images/forest-ta-i-nature-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Taï-Wald ist der größte verbliebene zusammenhängende Primärregenwald in Westafrika und ein UNESCO-Weltnaturerbe von unschätzbarem Wert. Er beherbergt eine unglaubliche Artenvielfalt, darunter die berühmten Schimpansen, die Werkzeuge benutzen, sowie das seltene Zwergflusspferd. Der Wald wirkt als gigantischer Klimaregulator für die gesamte Region und ist ein lebendiges Labor für die Erforschung tropischer Ökosysteme. Trotz Schutzstatus bleibt der Erhalt des Waldes eine tägliche Herausforderung gegen Wilderei und illegale Abholzung. Biologie K8 — Regenwälder und Artenschutz."
-    },
-    factsAdvanced: {
-      de: ["Größter Primärwald Westafrikas.", "Heimat der werkzeugnutzenden Schimpansen.", "Wichtigstes Schutzgebiet für Zwergflusspferde.", "Beherbergt über 1.300 Pflanzenarten.", "Klimaregulator für die Elfenbeinküste.", "Umfasst ca. 3.300 Quadratkilometer.", "Zentrum für internationale Primatenforschung."]
-    }
-  },
-  {
+    {
     id: "lagune-abidjan-est-nature-v2",
     type: "lake",
     parent: "CI-CI",

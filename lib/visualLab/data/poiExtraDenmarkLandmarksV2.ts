@@ -397,40 +397,7 @@ export const denmarkLandmarksV2: POI[] = [
     },
     image: "/poi-images/denmark-sankt-petri-kirke-landmarks-v2.webp",
   },
-  {
-    id: "denmark-valdemars-castle-landmarks-v2",
-    type: "castle",
-    parent: "DK",
-    name: { de: "Schloss Valdemar", hu: "Valdemar kastély", ro: "Castelul Valdemar", en: "Valdemar's Castle" },
-    coords: [10.6558, 55.0067],
-    description: {
-      de: "Schloss Valdemar befindet sich auf der Insel Tåsinge. Es wurde von König Christian IV. für seinen Sohn Valdemar erbaut.",
-      hu: "A Valdemar kastély a Tåsinge szigeten található. IV. Keresztély király építtette fia, Valdemar számára.",
-      ro: "Castelul Valdemar este situat pe insula Tåsinge. A fost construit de regele Christian al IV-lea pentru fiul său Valdemar.",
-      en: "Valdemar's Castle is located on the island of Tåsinge. It was built by King Christian IV for his son Valdemar.",
-    },
-    facts: {
-      de: ["Insel Tåsinge", "erbaut 17. Jahrhundert", "Besitz der Familie Juel", "Barockschloss"],
-      hu: ["Tåsinge sziget", "a 17. században épült", "a Juel család tulajdona", "barokk kastély"],
-      ro: ["insula Tåsinge", "construit în secolul al XVII-lea", "proprietatea familiei Juel", "castel baroc"],
-      en: ["Tåsinge island", "built 17th century", "owned by Juel family", "baroque castle"],
-    },
-    imageHint: "Valdemar Castle Tasinge",
-    descriptionAdvanced: {
-      de: "Schloss Valdemar auf der Insel Tåsinge wurde 1639 bis 1644 von König Christian IV. für seinen Sohn Valdemar Christian im Renaissancestil erbaut.",
-      hu: "A Tåsinge szigetén található Valdemar-kastélyt IV. Keresztély dán király építtette 1639 és 1644 között fia, Valdemar Christian számára.",
-      ro: "Castelul Valdemar, situat pe insula Tåsinge, a fost construit între 1639 și 1644 de Regele Christian al IV-lea pentru fiul său, Valdemar.",
-      en: "Valdemar's Castle on the island of Tåsinge was erected between 1639 and 1644 by King Christian IV for his son, Valdemar Christian.",
-    },
-    factsAdvanced: {
-      de: ["König Christian IV. ließ das Schloss von 1639 bis 1644 erbauen.", "Niels Juel erwarb das Anwesen im Jahr 1678.", "Das Schloss liegt auf der Insel Tåsinge, die 70 km² groß ist.", "Im 18. Jahrhundert wurde es barock umgebaut.", "Das Anwesen umfasst etwa 400 Hektar Land.", "Es beherbergt heute ein Jagd- und Trophäenmuseum."],
-      hu: ["A kastélyt IV. Keresztély építtette 1639 és 1644 között.", "Niels Juel admirális 1678-ban szerezte meg az épületet.", "Az épület eredetileg reneszánsz stílusban épült.", "A 18. században barokk stílusú átalakításokon esett át.", "A kastélyhoz tartozó birtok mintegy 400 hektáron terül el.", "A komplexumban tengerészeti és vadászati múzeum működik."],
-      ro: ["Construcția castelului a avut loc între 1639 și 1644.", "Amiralul Niels Juel a primit proprietatea în anul 1678.", "Clădirea a fost remodelată în stil baroc în secolul al XVIII-lea.", "Moșia castelului acoperă o suprafață de aproximativ 400 de hectare.", "Castelul este amplasat pe insula Tåsinge, având 70 km².", "În prezent găzduiește un muzeu maritim și unul de vânătoare."],
-      en: ["King Christian IV commissioned the castle from 1639 to 1644.", "Naval hero Niels Juel acquired the estate in 1678.", "Originally Renaissance, it was remodeled in Baroque style in the 1750s.", "The castle estate comprises approximately 400 hectares of land.", "It is located on Tåsinge island, which spans 70 square kilometers.", "The premises now house a maritime and trophy hunting museum."],
-    },
-    image: "/poi-images/denmark-valdemars-castle-landmarks-v2.webp",
-  },
-  {
+    {
     id: "denmark-bolling-castle-landmarks-v2",
     type: "ruins",
     parent: "DK",

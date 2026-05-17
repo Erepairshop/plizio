@@ -267,40 +267,7 @@ export const belarusHistoryV2: POI[] = [
       en: []
     }
   },
-  {
-    id: "belarus-kosava-castle-history-v2",
-    parent: "BY",
-    type: "palace",
-    name: { de: "Palast von Kosava", hu: "Koszavai kastély", ro: "Palatul Kosava", en: "Kosava Castle"},
-    image: "/poi-images/belarus-kosava-castle-history-v2.webp",
-    coords: [25.1219, 52.7656],
-    coords: [25.1219, 52.7656],
-    description: {
-      de: "Auch bekannt als Puslovsky-Palast, besticht dieses neugotische Gebäude aus dem 19. Jahrhundert durch seine zwölf Türme, die jeweils einen Monat des Jahres symbolisieren.",
-      hu: "A Puslovszkij-palotaként is ismert 19. századi neogótikus épület tizenkét tornyával tűnik ki, amelyek az év egy-egy hónapját jelképezik.",
-      ro: "Cunoscut și sub numele de Palatul Puslovsky, această clădire neogotică din secolul al XIX-lea impresionează prin cele douăsprezece turnuri, fiecare simbolizând o lună a anului.",
-      en: "Also known as the Puslovsky Palace, this 19th-century Neo-Gothic building is notable for its twelve towers, each symbolizing a month of the year.",
-    },
-    facts: {
-      de: ["Bauzeit von 1830 bis 1838", "Besitzt 12 markante Türme", "Liegt nahe dem Mereczowszczyzna-Gut", "Nach dem Krieg lange Ruine"],
-      hu: ["1830 és 1838 között épült", "12 jellegzetes tornya van", "Mereczowszczyzna kúria közelében", "A háború után sokáig romos volt"],
-      ro: ["Construit între 1830 și 1838", "Are 12 turnuri distincte", "Situat lângă moșia Mereczowszczyzna", "A fost ruină mult timp după război"],
-      en: ["Built between 1830 and 1838", "Features 12 distinct towers", "Located near Mereczowszczyzna estate", "Was a ruin for a long time after WWII"],
-    },
-    imageHint: "Kosava Castle with neo-Gothic towers and white facade",
-    descriptionAdvanced: {
-      de: "Der Palast von Kosava, oft auch als Puslovsky-Palast bezeichnet, ist ein einzigartiges architektonisches Juwel im neugotischen Stil, das im 19. Jahrhundert errichtet wurde. Der Bau wurde im Jahr 1838 von Wandalin Pusłowski, einem wohlhabenden Industriellen, in Auftrag gegeben und von den Architekten Franciszek Jaszczołd und Władysław Marconi entworfen. Das markanteste Merkmal des Schlosses sind seine zwölf zinnenbewehrten Türme, die die Monate des Jahres symbolisieren, wobei die vier zentralen Türme für die besonders ertragreichen Erntemonate stehen. Der Palast besaß mehr als 130 Zimmer, von denen jedes über ein eigenes, einzigartiges Interieur verfügte. Während des Zweiten Weltkriegs wurde das prächtige Gebäude 1944 bei einem Brand schwer zerstört und stand jahrzehntelang als Ruine. Erst im Jahr 2008 begann eine umfassende und sorgfältige Restaurierung, die dem Schloss sein majestätisches Aussehen zurückgab.",
-      hu: "A koszavai kastély, amelyet gyakran Puslovszkij-palotaként is emlegetnek, egy egyedülálló, 19. században épült neogótikus építészeti gyöngyszem. Az építkezést 1838-ban rendelte el Vandalin Pusłowski, egy tehetős iparos, a terveket pedig Franciszek Jaszczołd és Władysław Marconi építészek készítették. A kastély legszembetűnőbb jellegzetessége a tizenkét pártázatos tornya, amelyek az év hónapjait szimbolizálják, miközben a négy középső torony a különösen bőséges betakarítási hónapokat jelképezi. A palota több mint 130 szobával rendelkezett, melyek mindegyike saját, egyedi belső kialakítással bírt. A második világháború alatt, 1944-ben a pompás épület egy tűzvészben súlyosan megrongálódott, és évtizedekig romos állapotban volt. Csak 2008-ban kezdődött meg egy átfogó és gondos restaurálás, amely visszaadta a kastély fenséges megjelenését.",
-      ro: "Palatul Kosava, adesea denumit și Palatul Puslovsky, este o bijuterie arhitecturală unică în stil neogotic, construită în secolul al XIX-lea. Construcția a fost comandată în anul 1838 de Wandalin Pusłowski, un industriaș bogat, și a fost proiectată de arhitecții Franciszek Jaszczołd și Władysław Marconi. Cea mai frapantă caracteristică a castelului sunt cele douăsprezece turnuri crenelate ale sale, care simbolizează lunile anului, cele patru turnuri centrale reprezentând lunile deosebit de rodnice ale recoltei. Palatul avea peste 130 de camere, fiecare cu un interior propriu, unic. În timpul celui de-al Doilea Război Mondial, clădirea somptuoasă a fost grav distrusă într-un incendiu în 1944 și a rămas o ruină zeci de ani. Abia în anul 2008 a început o restaurare amplă și meticuloasă, care a redat castelului aspectul său maiestuos de odinioară.",
-      en: "Kosava Castle, often referred to as the Puslovsky Palace, is a unique 19th-century architectural gem built in the Neo-Gothic style. The construction was commissioned in 1838 by Wandalin Pusłowski, a wealthy industrialist, and designed by architects Franciszek Jaszczołd and Władysław Marconi. The most striking feature of the castle is its twelve crenellated towers, which symbolize the months of the year, with the four central towers representing the particularly bountiful harvest months. The palace boasted over 130 rooms, each featuring its own unique interior design. During World War II, the magnificent building was severely destroyed in a fire in 1944 and stood as a ruin for decades. It was not until 2008 that a comprehensive and meticulous restoration began, returning the castle to its majestic historical appearance."
-    },
-    factsAdvanced: {
-      de: ["Construction commissioned by Wandalin Pusłowski in 1838", "Designed in the Neo-Gothic style by Franciszek Jaszczołd", "Features 12 distinct towers symbolizing the months of the year", "Contained 132 uniquely decorated individual rooms", "Located near the birthplace of Tadeusz Kościuszko", "Burned down by partisans during World War II in 1944", "Extensive restoration work began in 2008"],
-      hu: [],
-      ro: [],
-      en: []
-    }, image: "/poi-images/belarus-kosava-castle-history-v2.webp"},
-  {
+    {
     id: "belarus-ruzhany-palace-history-v2",
     parent: "BY",
     type: "ruins",
@@ -399,40 +366,7 @@ export const belarusHistoryV2: POI[] = [
       ro: [],
       en: []
     }, image: "/poi-images/belarus-turov-ancient-history-v2.webp"},
-  {
-    id: "belarus-berestye-archeology-history-v2",
-    parent: "BY",
-    type: "museum",
-    name: { de: "Archäologisches Museum Berestje", hu: "Berestye Régészeti Múzeum", ro: "Muzeul Arheologic Berestye", en: "Berestye Archeological Museum"},
-    image: "/poi-images/belarus-berestye-archeology-history-v2.webp",
-    coords: [23.6558, 52.0797],
-    coords: [23.6558, 52.0797],
-    description: {
-      de: "Dieses einzigartige Museum in der Nähe der Festung Brest bewahrt ein ausgegrabenes Stadtviertel aus dem 13. Jahrhundert unter einem modernen Glasdach. Es zeigt gut erhaltene hölzerne Wohnhäuser.",
-      hu: "Ez az egyedülálló múzeum a breszti erőd közelében egy 13. századi városnegyed feltárt maradványait őrzi egy modern üvegtető alatt. Jó állapotú fa lakóházakat mutat be.",
-      ro: "Acest muzeu unic de lângă cetatea Brest conservă un cartier excavat din secolul al XIII-lea sub un acoperiș modern de sticlă. Prezintă case de locuit din lemn bine conservate.",
-      en: "This unique museum near the Brest Fortress preserves an excavated 13th-century city quarter under a modern glass roof. It showcases well-preserved wooden dwellings.",
-    },
-    facts: {
-      de: ["Gegründet im Jahr 1982", "28 hölzerne Gebäude erhalten", "Liegt 4 Meter unter der Erde", "Zeigt Alltag im Mittelalter"],
-      hu: ["1982-ben alapították", "28 faépület maradt fenn", "4 méterrel a föld alatt fekszik", "Középkori mindennapokat mutat be"],
-      ro: ["Fondat în anul 1982", "Păstrează 28 de clădiri din lemn", "Situat la 4 metri sub pământ", "Expune viața cotidiană medievală"],
-      en: ["Founded in 1982", "Preserves 28 wooden buildings", "Located 4 meters below ground level", "Displays medieval everyday life"],
-    },
-    imageHint: "Ancient wooden houses inside Berestye museum pavilion",
-    descriptionAdvanced: {
-      de: "Das Archäologische Museum Berestje ist eine einzigartige kulturhistorische Einrichtung unweit der Festung Brest, die Besuchern eine direkte Zeitreise ins 13. Jahrhundert ermöglicht. Im Zentrum des Museums befindet sich eine tiefgreifende Ausgrabungsstätte, die durch einen modernen Glaspavillon geschützt wird. Hier können Besucher die beeindruckend gut erhaltenen hölzernen Wohnhäuser und gepflasterten Straßen einer mittelalterlichen slawischen Siedlung bewundern, die mehr als vier Meter unter dem heutigen Bodenniveau freigelegt wurden. Die einzigartigen feuchten Bodenbedingungen konservierten die Holzbauten über Jahrhunderte hinweg nahezu perfekt. Die umfangreiche Ausstellung präsentiert Tausende von Artefakten, darunter Handwerkszeuge, Schmuck, Keramik und Alltagsgegenstände, die das städtische Leben, die Wirtschaft und die Kultur der alten Stadt Berestje, des historischen Vorläufers von Brest, detailliert dokumentieren.",
-      hu: "A Berestye Régészeti Múzeum egy egyedülálló kultúrtörténeti intézmény a breszti erőd közelében, amely közvetlen időutazást kínál a látogatóknak a 13. századba. A múzeum központjában egy mély feltárási terület található, amelyet egy modern üvegpavilon véd. Itt a látogatók megcsodálhatják egy középkori szláv település lenyűgözően jó állapotban fennmaradt fa lakóházait és macskaköves utcáit, amelyeket több mint négy méterrel a mai talajszint alatt tártak fel. Az egyedi, nedves talajviszonyok évszázadokon át szinte tökéletesen konzerválták a faépületeket. A kiterjedt kiállítás több ezer műtárgyat mutat be, köztük kézműves szerszámokat, ékszereket, kerámiákat és mindennapi használati tárgyakat, amelyek részletesen dokumentálják Berestye ősi városának – Breszt történelmi elődjének – városi életét, gazdaságát és kultúráját.",
-      ro: "Muzeul Arheologic Berestye este o instituție cultural-istorică unică, situată nu departe de cetatea Brest, care oferă vizitatorilor o călătorie directă în timp până în secolul al XIII-lea. În centrul muzeului se află un sit de excavare profund, protejat de un pavilion modern din sticlă. Aici, vizitatorii pot admira casele de locuit din lemn și străzile pavate impresionant de bine conservate ale unei așezări slave medievale, descoperite la o adâncime de peste patru metri sub nivelul actual al solului. Condițiile unice de umiditate ale solului au conservat clădirile din lemn aproape perfect de-a lungul secolelor. Expoziția extinsă prezintă mii de artefacte, printre care unelte meșteșugărești, bijuterii, ceramică și obiecte de uz cotidian, care documentează în detaliu viața urbană, economia și cultura vechiului oraș Berestye, precursorul istoric al orașului Brest.",
-      en: "The Berestye Archeological Museum is a unique cultural-historical institution located near the Brest Fortress, offering visitors a direct journey back to the 13th century. At the center of the museum lies a deep excavation site protected by a modern glass pavilion. Here, visitors can admire the impressively well-preserved wooden dwellings and paved streets of a medieval Slavic settlement, uncovered more than four meters below the current ground level. The unique moist soil conditions conserved the wooden structures almost perfectly over the centuries. The extensive exhibition displays thousands of artifacts, including craft tools, jewelry, pottery, and everyday items, which document in detail the urban life, economy, and culture of the ancient city of Berestye, the historical predecessor of modern Brest."
-    },
-    factsAdvanced: {
-      de: ["Museum opened to the public in 1982", "Features 28 well-preserved 13th-century wooden buildings", "Excavations were carried out between 1968 and 1981", "The ancient city lies 4 meters below the modern surface", "The protective pavilion covers an area of 2,400 square meters", "Exhibits over 43,000 historical archaeological artifacts", "Highlights the advanced woodcarving skills of early Slavs"],
-      hu: [],
-      ro: [],
-      en: []
-    }, image: "/poi-images/belarus-berestye-archeology-history-v2.webp"},
-  {
+    {
     id: "belarus-krevo-castle-ruins-history-v2",
     parent: "BY",
     type: "ruins",

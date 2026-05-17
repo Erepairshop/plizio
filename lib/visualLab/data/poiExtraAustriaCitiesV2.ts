@@ -1025,40 +1025,7 @@ export const austriaCitiesV2: POI[] = [
     },
     image: "/poi-images/austria-judenburg-cities-v2.webp",
   },
-  {
-    id: "austria-voecklabruck-cities-v2",
-    type: "city",
-    parent: "AT",
-    name: { de: "Vöcklabruck", hu: "Vöcklabruck", ro: "Vöcklabruck", en: "Vöcklabruck" },
-    coords: [13.655, 48.0083],
-    description: {
-      de: "Vöcklabruck ist die Bezirkshauptstadt im Hausruckviertel, Oberösterreich. Die Stadt liegt am Zusammenfluss der Vöckla und der Ager.",
-      hu: "Vöcklabruck járási székhely a Hausruckviertel régióban, Felső-Ausztriában. A város a Vöckla és az Ager folyók összefolyásánál fekszik.",
-      ro: "Vöcklabruck este reședința de district în regiunea Hausruckviertel, Austria Superioară. Orașul este situat la confluența râurilor Vöckla și Ager.",
-      en: "Vöcklabruck is the district capital in the Hausruckviertel region of Upper Austria. The town is situated at the confluence of the Vöckla and Ager rivers.",
-    },
-    facts: {
-      de: ["Einwohner: ca. 12.000", "Oberösterreich", "Handelsknotenpunkt", "Nahe Attersee"],
-      hu: ["Népesség: kb. 12 000", "Felső-Ausztria", "Kereskedelmi csomópont", "Attersee közelsége"],
-      ro: ["Populație: cca. 12.000", "Austria Superioară", "Nod comercial", "Aproape de Attersee"],
-      en: ["Population: approx. 12,000", "Upper Austria", "Trading hub", "Near Attersee"],
-    },
-    imageHint: "Voecklabruck main square",
-    descriptionAdvanced: {
-      de: "Vöcklabruck liegt im oberösterreichischen Hausruckviertel und gilt als das nördliche Tor zum Salzkammergut. Die Stadt wurde erstmals im Jahr 1134 urkundlich erwähnt und entwickelte sich aufgrund ihrer strategischen Lage an der Vöckla zu einem bedeutenden Marktort. Besonders charakteristisch sind die beiden Tortürme, der Stadt- und der Vorstadtturm, die mit prächtigen Fresken aus der Zeit Kaiser Maximilians I. verziert sind. Die großzügig angelegte Stadtplatz-Anlage bildet das urbane Zentrum und ist von historischen Bürgerhäusern mit spätgotischen Kernen umgeben. Vöcklabruck hat sich in den letzten Jahrzehnten von einer reinen Verwaltungsstadt zu einem dynamischen Schul- und Wirtschaftszentrum mit überregionaler Bedeutung entwickelt. Die Nähe zum Attersee und die Einbettung in das sanfte Alpenvorland machen die Stadt zudem zu einem beliebten Ausgangspunkt für touristische Aktivitäten in der Region.",
-      hu: "Vöcklabruck a felső-ausztriai Hausruckviertel régióban található, és a Salzkammergut északi kapujaként ismert. A várost először 1134-ben említik írásos források, és a Vöckla folyó menti stratégiai elhelyezkedésének köszönhetően jelentős mezővárossá fejlődött. Különösen jellemzőek rá a városkapu-tornyok (Stadtturm és Vorstadtturm), amelyeket I. Miksa császár idejéből származó pompás freskók díszítenek. A tágas főtér alkotja a városi központot, amelyet késő gótikus eredetű történelmi polgárházak vesznek körül. Vöcklabruck az elmúlt évtizedekben tiszta közigazgatási városból dinamikus oktatási és gazdasági központtá vált, amelynek jelentősége túlmutat a régión. Az Attersee közelsége és az Alpok előterének lankás tájai miatt a város kedvelt kiindulópontja a turisztikai tevékenységeknek.",
-      ro: "Vöcklabruck este situat în regiunea Hausruckviertel din Austria Superioară și este considerat poarta nordică către Salzkammergut. Orașul a fost menționat documentar pentru prima dată în anul 1134 și s-a dezvoltat într-un centru comercial important datorită poziției sale strategice pe râul Vöckla. Caracteristice sunt cele două turnuri de poartă, turnul orașului și turnul suburbiei, care sunt decorate cu fresce magnifice din epoca împăratului Maximilian I. Piața centrală spațioasă constituie nucleul urban și este înconjurată de case istorice cu elemente structurale gotice târzii. În ultimele decenii, Vöcklabruck a evoluat de la un oraș pur administrativ la un centru dinamic școlar și economic cu importanță supraregională. Proximitatea față de lacul Attersee și amplasarea în zona prealpină fac din oraș un punct de plecare popular pentru activități turistice.",
-      en: "Vöcklabruck is located in the Hausruckviertel region of Upper Austria and is widely known as the northern gateway to the Salzkammergut. The town was first documented in 1134 and flourished as a significant market town due to its strategic position on the Vöckla River. A defining feature of the townscape is the pair of gate towers, the Town Tower and the Suburb Tower, adorned with impressive frescoes dating back to the reign of Emperor Maximilian I. The expansive town square forms the urban heart, surrounded by historic burgher houses with late Gothic foundations. In recent decades, Vöcklabruck has transitioned from a purely administrative center into a dynamic hub for education and commerce with regional importance. Its proximity to Lake Attersee and its setting in the rolling Alpine foothills also make it a popular base for tourism in the area.",
-    },
-    factsAdvanced: {
-      de: ["Vöcklabruck wurde erstmals im Jahr 1134 urkundlich erwähnt.", "Die Fresken an den Tortürmen zeigen Wappen der Besitzungen Kaiser Maximilians I.", "Die Stadt liegt auf einer Seehöhe von 433 Metern am Fluss Vöckla.", "Vöcklabruck erhielt im Jahr 1952 offiziell das Stadtrecht.", "Der Stadtplatz zählt zu den am besten erhaltenen historischen Anlagen Oberösterreichs.", "Die Stadt ist ein bedeutender Schulstandort mit über 15 Bildungseinrichtungen."],
-      hu: ["Vöcklabruckot először 1134-ben említik írásban.", "A kaputornyok freskói I. Miksa császár birtokainak címereit ábrázolják.", "A város 433 méteres tengerszint feletti magasságban, a Vöckla folyó mentén fekszik.", "Vöcklabruck 1952-ben kapta meg hivatalosan a városi rangot.", "A főtér Felső-Ausztria egyik legjobban megőrzött történelmi tere.", "A település jelentős iskolaváros, több mint 15 oktatási intézménnyel rendelkezik."],
-      ro: ["Vöcklabruck a fost menționat documentar pentru prima dată în anul 1134.", "Frescele de pe turnurile porții înfățișează blazoanele posesiunilor împăratului Maximilian I.", "Orașul este situat la o altitudine de 433 de metri pe malul râului Vöckla.", "Vöcklabruck a primit oficial drepturile de oraș în anul 1952.", "Piața orașului este una dintre cele mai bine conservate situri istorice din Austria Superioară.", "Orașul este un centru educațional important, având peste 15 instituții de învățământ."],
-      en: ["Vöcklabruck was first mentioned in a document in the year 1134.", "The frescoes on the gate towers display the coats of arms of Emperor Maximilian I's territories.", "The town is situated at an elevation of 433 meters on the Vöckla River.", "Vöcklabruck was officially granted city status in 1952.", "The town square is considered one of the best-preserved historical sites in Upper Austria.", "The town is a major educational hub with more than 15 different schools."],
-    },
-    image: "/poi-images/austria-voecklabruck-cities-v2.webp",
-  },
-  {
+    {
     id: "austria-freistadt-cities-v2",
     type: "city",
     parent: "AT",
@@ -1487,40 +1454,7 @@ export const austriaCitiesV2: POI[] = [
     },
     image: "/poi-images/austria-ganserndorf-cities-v2.webp",
   },
-  {
-    id: "austria-tulln-an-der-donau-cities-v2",
-    type: "city",
-    parent: "AT",
-    name: { de: "Tulln an der Donau", hu: "Tulln an der Donau", ro: "Tulln an der Donau", en: "Tulln an der Donau" },
-    coords: [16.0522, 48.3306],
-    description: {
-      de: "Tulln ist eine Stadt in Niederösterreich an der Donau. Sie ist bekannt als Gartenstadt und durch ihre historische Bedeutung.",
-      hu: "Tulln egy város Alsó-Ausztriában, a Duna mentén. Kertvárosként ismert, és történelmi jelentősége is jelentős.",
-      ro: "Tulln este un oraș în Austria Inferioară, pe Dunăre. Este cunoscut ca un oraș-grădină și pentru semnificația sa istorică.",
-      en: "Tulln is a town in Lower Austria on the Danube. It is known as a garden city and for its historical significance.",
-    },
-    facts: {
-      de: ["Donaustadt", "Gartenstadt", "Historisch", "Bezirkshauptstadt"],
-      hu: ["Duna-parti város", "Kertváros", "Történelmi", "Járási székhely"],
-      ro: ["Oraș pe Dunăre", "Oraș-grădină", "Istoric", "Reședință de district"],
-      en: ["Danube town", "Garden city", "Historic", "District capital"],
-    },
-    imageHint: "Tulln riverside architecture",
-    descriptionAdvanced: {
-      de: "Tulln an der Donau ist eine der ältesten Städte Österreichs und wird oft als „Gartenstadt“ bezeichnet. Ihre Ursprünge reichen bis in die Römerzeit zurück, als sie unter dem Namen Comagena ein bedeutendes Reiterkastell am Donaulimes war. Im Nibelungenlied wird Tulln als Ort erwähnt, an dem Etzel die Kriemhild empfing, woran heute das Nibelungendenkmal erinnert. Die Stadt ist weltweit als Geburtsort des Malers Egon Schiele bekannt, dem ein eigenes Museum im ehemaligen Bezirksgefängnis gewidmet ist. Jährlich finden auf dem weitläufigen Messegelände bedeutende Gartenbau- und Bootsmessen statt, die internationales Publikum anziehen. Die „Garten Tulln“ ist eine dauerhafte ökologische Gartenschau und ein Vorzeigeprojekt für nachhaltiges Gärtnern. Architektonisch besticht die Stadt durch den Römerturm und die spätromanische Karnerkapelle. Durch die Lage direkt an der Donau ist Tulln zudem ein wichtiger Stützpunkt für die Schifffahrt und ein beliebter Halt für Radtouristen auf dem Donauradweg.",
-      hu: "Tulln an der Donau Ausztria egyik legrégebbi városa, amelyet gyakran virág- és kertvárosként emlegetnek. Története a római korig nyúlik vissza, amikor Comagena néven fontos lovassági tábor volt a dunai limes mentén. A Nibelung-énekben is szerepel a város, mint az a hely, ahol Etzel (Attila) fogadta Kriemhildet; erre emlékeztet ma a modern Nibelung-emlékmű a Duna-parton. Tulln világszerte ismert mint Egon Schiele festőművész szülővárosa, akinek munkásságát az egykori járási börtön épületében kialakított múzeum mutatja be. A város fontos vásárközpont, ahol évente megrendezik a híres kertészeti és hajókiállításokat. A „Garten Tulln” egyedülálló ökológiai mintakert-rendszer, amely a fenntartható kertgazdálkodást népszerűsíti. Építészeti látnivalói közé tartozik a római kori torony és a késő román stílusú csontház-kápolna. Duna-parti fekvésének köszönhetően a város a folyami hajózás és a Duna menti kerékpárút egyik kiemelt állomása.",
-      ro: "Tulln an der Donau este unul dintre cele mai vechi orașe din Austria, fiind supranumit „orașul grădinilor”. Originile sale datează din epoca romană, când era cunoscut sub numele de Comagena, un important castru de cavalerie pe Limesul dunărean. Orașul este menționat în Cântecul Nibelungilor ca locul unde Attila a întâmpinat-o pe Kriemhild, eveniment marcat astăzi de Monumentul Nibelungilor de pe malul fluviului. Tulln este celebru la nivel mondial ca locul de naștere al pictorului expresionist Egon Schiele, căruia îi este dedicat un muzeu într-o fostă închisoare districtuală. Municipalitatea găzduiește anual mari târguri internaționale de horticultură și nautice. „Die Garten Tulln” este o expoziție ecologică permanentă și un proiect model pentru grădinăritul sustenabil în Europa. Din punct de vedere arhitectural, orașul se remarcă prin Turnul Roman și capela osuar în stil romanic târziu. Poziția sa strategică pe malul Dunării îl face un port important și o oprire favorită pentru turiștii care parcurg traseul ciclist dunărean.",
-      en: "Tulln an der Donau is one of Austria's oldest settlements, frequently referred to as the 'City of Gardens'. Its foundations reach back to the Roman era when it served as Comagena, a significant cavalry fort along the Danube Limes. The city features in the epic Nibelungenlied as the meeting place of Attila the Hun and Kriemhild, commemorated today by the Nibelungen Monument on the riverbank. Tulln is internationally renowned as the birthplace of the painter Egon Schiele, with a dedicated museum housed in a former district prison building. The city's expansive fairgrounds host major annual events, including international gardening and boat shows. 'Die Garten Tulln' is a permanent ecological garden exhibition and a European flagship project for sustainable landscaping. Architectural highlights include the ancient Roman Tower and a late Romanesque charnel house chapel. Situated directly on the Danube, Tulln is a key port for river navigation and a popular rest stop for cyclists traveling the Danube Cycle Path.",
-    },
-    factsAdvanced: {
-      de: ["Tulln war im 10. Jahrhundert zeitweise die Hauptstadt des Markgraftums Österreich.", "Das Egon-Schiele-Museum wurde im Jahr 1990 eröffnet.", "Der Römerturm stammt aus dem 4. Jahrhundert n. Chr.", "Die Stadtpfarrkirche St. Stephan weist romanische, gotische und barocke Baustile auf.", "Tulln liegt an der Franz-Josefs-Bahn, einer wichtigen Zugverbindung nach Wien.", "Die Garten Tulln umfasst über 60 verschiedene Schaugärten."],
-      hu: ["Tulln a 10. században egy ideig az Osztrák Őrgrófság székhelye volt.", "Az Egon Schiele Múzeumot 1990-ben nyitották meg a nagyközönség előtt.", "A város római kori tornya a Krisztus utáni 4. századból származik.", "A Szent István-plébániatemplom román, gótikus és barokk stílusjegyeket is hordoz.", "Tulln a Ferenc József-vasútvonal mentén fekszik, amely közvetlen összeköttetést biztosít Béccsel.", "A Garten Tulln területén több mint 60 különböző bemutatókert található."],
-      ro: ["În secolul al X-lea, Tulln a fost temporar capitala mărcii Austria.", "Muzeul Egon Schiele a fost inaugurat în anul 1990.", "Turnul Roman (Römerturm) datează din secolul al IV-lea d.Hr.", "Biserica parohială Sfântul Ștefan îmbină stilurile romanic, gotic și baroc.", "Tulln este situat pe calea ferată Franz-Josefs-Bahn, o conexiune vitală către Viena.", "Proiectul „Die Garten Tulln” cuprinde peste 60 de grădini tematice diferite."],
-      en: ["In the 10th century, Tulln briefly served as the capital of the Margraviate of Austria.", "The Egon Schiele Museum was officially established in 1990.", "The Roman Tower dates back to the 4th century AD.", "St. Stephen's Parish Church features a mix of Romanesque, Gothic, and Baroque elements.", "Tulln is located on the Franz Joseph Railway, providing major access to Vienna.", "The Garten Tulln exhibition features more than 60 distinct display gardens."],
-    },
-    image: "/poi-images/austria-tulln-an-der-donau-cities-v2.webp",
-  },
-  {
+    {
     id: "austria-st-veit-an-der-glan-cities-v2",
     type: "city",
     parent: "AT",

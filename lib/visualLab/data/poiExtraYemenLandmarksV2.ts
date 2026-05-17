@@ -33,39 +33,7 @@ export const poiExtraYemenLandmarksV2: POI[] = [
       en: ["Built around 1630", "Gate height 12 m", "Width of arch 7 m", "Towers 20 m tall each", "Part of UNESCO Old City of Sanaa since 1986", "Restored in 2012"],
     },
   },
-  {
-    id: "dar-al-hajar-landmarks-v2",
-    type: "landmark",
-    parent: "YE-SA",
-    coords: [44.1264, 15.4397],
-    name: { de: "Dar al-Hadschar", hu: "Dar al-Hadzsar", ro: "Dar al-Hajar", en: "Dar al-Hajar"},
-    image: "/poi-images/dar-al-hajar-landmarks-v2.webp",
-    description: {
-      de: "Der Dar al-Hadschar, auch als Felsenpalast bekannt, ist ein ikonisches Gebäude im Wadi Dhar. Er wurde in den 1930er Jahren als Sommerresidenz für Imam Yahya direkt auf eine markante Felsnadel gebaut.",
-      hu: "A Dar al-Hadzsar, más néven Sziklapalota, a Wadi Dhar egy ikonikus épülete. Az 1930-as években épült Jahja imám nyári rezidenciájaként, közvetlenül egy sziklaoszlop tetejére.",
-      ro: "Dar al-Hajar, cunoscut și sub numele de Palatul de Stâncă, este o clădire iconică din Wadi Dhar. A fost construit în anii 1930 ca reședință de vară pentru Imamul Yahya, direct pe un vârf de stâncă.",
-      en: "Dar al-Hajar, also known as the Rock Palace, is an iconic building in Wadi Dhar. It was built in the 1930s as a summer residence for Imam Yahya, directly atop a prominent rock pinnacle."
-    },
-    facts: {
-      de: ["Auf einer einzelnen Felsnadel erbaut", "Diente als Sommerresidenz von Imam Yahya", "Fünfstöckige Architektur"],
-      hu: ["Egyetlen sziklaoszlopra épült", "Jahja imám nyári rezidenciája volt", "Ötemeletes építészet"],
-      ro: ["Construit pe un singur vârf de stâncă", "A servit drept reședință de vară pentru Imamul Yahya", "Arhitectură pe cinci etaje"],
-      en: ["Built on a single rock pinnacle", "Served as Imam Yahya's summer residence", "Five-story architecture"]
-    }, image: "/poi-images/dar-al-hajar-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "Dar al-Hajar, das Steinhaus, ist ein ehemaliger königlicher Palast, der auf einem Felsvorsprung im Wadi Dhahr thront. Erbaut im 18. Jahrhundert von Imam Mansour Ali bin Mahdi, diente er später als Sommerresidenz. Das Gebäude ist fünfstöckig und aus Stein und Lehm gebaut. Seine Lage macht es zu einem beliebten Fotomotiv.",
-      hu: "Dar al-Hajar egy kastélyszerű palota, amelyet a 18. században építtetett al-Mansour Ali bin Mahdi imám. A palota a sziklára épült, több szintes, díszes erkélyekkel. A belső terekben faragott fa mennyezetek és freskók találhatók. A palota jelenleg múzeum.",
-      ro: "Dar al-Hajar, cunoscută și sub numele de Casa de Piatră, este un palat construit pe un vârf de stâncă în Wadi Dhahr. A fost ridicat în 1786 de imamul al-Mansour Ali. Clădirea are cinci etaje și ferestre arcuite. A servit ca reședință de vară a imamilor.",
-      en: "Dar al-Hajar is a five-story palace perched atop a rock formation in Wadi Dhahr, built in 1786. It exemplifies Yemeni highland architecture with mud-brick and stucco decorations. The palace includes a grand reception hall, multiple living quarters, and a rooftop terrace. It was the summer residence of Imam Yahya in the 20th century.",
-    },
-    factsAdvanced: {
-      de: ["Erbaut 1786", "5 Stockwerke", "Höhe 20 Meter", "Felsvorsprung 10 m hoch", "Fenster 50 Stück", "Imam Mansour regierte 1775-1809"],
-      hu: ["1786-ban épült", "5 emeletes", "Magasság 25 méter", "Szoba 30 darab", "Erkély 8 darab", "Múzeum 1980 óta"],
-      ro: ["Construit în 1786", "Cinci etaje", "Înălțime totală 22 m", "Suprafață 800 mp", "Ferestre arcuite 40", "Restaurat în 1995"],
-      en: ["Built 1786 CE", "5 floors, 22 m high", "Rock height 12 m above wadi", "Total rooms 30", "Last used as residence in 1948", "Converted to museum in 1960s"],
-    },
-  },
-  {
+    {
     id: "al-saleh-mosque-landmarks-v2",
     type: "landmark",
     parent: "YE-SA",
@@ -97,39 +65,7 @@ export const poiExtraYemenLandmarksV2: POI[] = [
       en: ["Completed in 2008", "Dome diameter 50 m", "Minaret height 100 m", "Capacity 44,000 worshippers", "Cost US$ 60 million", "Area 22,000 sq m"],
     },
   },
-  {
-    id: "great-mosque-of-sanaa-landmarks-v2",
-    type: "monument",
-    parent: "YE-SA",
-    coords: [44.2152, 15.3533],
-    name: { de: "Große Moschee von Sanaa", hu: "Szanaai nagymecset", ro: "Marea Moschee din Sana'a", en: "Great Mosque of Sanaa"},
-    image: "/poi-images/great-mosque-of-sanaa-landmarks-v2.webp",
-    description: {
-      de: "Die Große Moschee von Sanaa ist eine der ältesten Moscheen der Welt und wurde noch zu Lebzeiten des Propheten Mohammed gegründet. Ihre alten Säulen und die Bibliothek beherbergen wertvolle islamische Manuskripte.",
-      hu: "A szanaai nagymecset a világ egyik legrégebbi mecsetje, amelyet még Mohamed próféta életében alapítottak. Ősi oszlopai és könyvtára értékes iszlám kéziratokat őriznek.",
-      ro: "Marea Moschee din Sana'a este una dintre cele mai vechi moschei din lume, fondată în timpul vieții profetului Mahomed. Stâlpii săi vechi și biblioteca găzduiesc manuscrise islamice valoroase.",
-      en: "The Great Mosque of Sanaa is one of the oldest mosques in the world, founded during the lifetime of the Prophet Muhammad. Its ancient pillars and library house valuable Islamic manuscripts."
-    },
-    facts: {
-      de: ["Eine der ältesten Moscheen der Welt", "Bewahrt alte Koranfragmente", "UNESCO-Weltkulturerbe als Teil der Altstadt"],
-      hu: ["A világ egyik legrégebbi mecsetje", "Ősi Korán-töredékeket őriz", "Az óváros részeként UNESCO világörökség"],
-      ro: ["Una dintre cele mai vechi moschei din lume", "Păstrează fragmente antice din Coran", "Patrimoniu UNESCO ca parte a orașului vechi"],
-      en: ["One of the oldest mosques in the world", "Preserves ancient Quranic fragments", "UNESCO World Heritage as part of the Old City"]
-    }, image: "/poi-images/great-mosque-of-sanaa-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Große Moschee von Sanaa, auch bekannt als Al-Jami' al-Kabir, ist eine der ältesten Moscheen der islamischen Welt. Erbaut im 7. Jahrhundert unter dem Prophetengefährten Abu Musa al-Ash'ari, wurde sie mehrfach erweitert. Sie beherbergt eine bedeutende Koransammlung und ist ein UNESCO-Weltkulturerbe.",
-      hu: "A nagy szanaai mecset a 7. században épült, az iszlám első időszakában. A mecset építészeti stílusa a korai iszlám és a jemeni hagyományok keveréke. A mecsetben található a híres Korán-gyűjtemény, a Codex Sanaa. A mecsetet a 12. században bővítették.",
-      ro: "Marea Moschee din Sanaa este una dintre cele mai vechi moschei din lume, construită inițial în secolul al VII-lea. A fost extinsă și renovată de-a lungul secolelor. Peretele sudic prezintă inscripții coranice vechi. Este un sit UNESCO.",
-      en: "The Great Mosque of Sanaa, built in the 7th century, is one of the oldest mosques in existence. Its architecture reflects multiple periods, including Abbasid and Ottoman influences. The mosque contains a library with rare Quranic manuscripts discovered in 1972. It continues to serve as a place of worship.",
-    },
-    factsAdvanced: {
-      de: ["Erbaut 630 n. Chr.", "Erweiterung 12. Jahrhundert", "Fläche 3.000 m²", "Minarett 30 m hoch", "Koransammlung 1.000 Manuskripte", "UNESCO seit 1986"],
-      hu: ["Épült 630 körül", "3 hajó, 8 oszlop", "A mecset 2000 négyzetméteres", "A Korán gyűjtemény 6000 lap", "A minaret 35 méter", "1988-ban felújították"],
-      ro: ["Construită în secolul VII", "Suprafață 2.500 mp", "Minaret 30 m înălțime", "Colecție de 5.000 de manuscrise", "Extinsă în 1150", "Sit UNESCO din 1986"],
-      en: ["Founded in 630 CE", "Area 3,000 sq m", "Minaret height 30 m", "Library holds 5,000 manuscripts", "Expanded in 12th century", "UNESCO World Heritage Site since 1986"],
-    },
-  },
-  {
+    {
     id: "tawila-cisterns-landmarks-v2",
     type: "landmark",
     parent: "YE-AD",
@@ -225,39 +161,7 @@ export const poiExtraYemenLandmarksV2: POI[] = [
       en: ["Built 13th century", "Elevation 1,400 m", "Wall height 12 m", "Palace area 500 sq m", "Mosque capacity 200", "Abandoned as fortress in 1800s"],
     },
   },
-  {
-    id: "ashrafiya-mosque-landmarks-v2",
-    type: "monument",
-    parent: "YE-TA",
-    coords: [44.0195, 13.5756],
-    name: { de: "Al-Aschrafiya-Moschee", hu: "Al-Asrafija mecset", ro: "Moscheea Al-Ashrafiya", en: "Al-Ashrafiya Mosque"},
-    image: "/poi-images/ashrafiya-mosque-landmarks-v2.webp",
-    description: {
-      de: "Die Al-Aschrafiya-Moschee in Taiz ist eines der prächtigsten Beispiele rasulidischer Architektur. Sie ist bekannt für ihre strahlend weißen Kuppeln, ihre Zwillingstürme und die farbenfrohen Fresken im Innenraum.",
-      hu: "A taizi Al-Asrafija mecset a raszulida építészet egyik legpompásabb példája. Híres ragyogó fehér kupoláiról, ikertornyairól és a belső tér színes freskóiról.",
-      ro: "Moscheea Al-Ashrafiya din Taiz este unul dintre cele mai magnifice exemple de arhitectură rasulidă. Este cunoscută pentru cupolele sale albe strălucitoare, turnurile gemene și frescele colorate din interior.",
-      en: "The Al-Ashrafiya Mosque in Taiz is one of the most magnificent examples of Rasulid architecture. It is known for its brilliant white domes, twin minarets, and colorful interior frescoes."
-    },
-    facts: {
-      de: ["Erbaut im 13. oder 14. Jahrhundert", "Beherbergt wertvolle rasulidische Fresken", "Besitzt charakteristische weiße Kuppeln"],
-      hu: ["A 13. vagy 14. században épült", "Értékes raszulida freskókat őriz", "Jellegzetes fehér kupolákkal rendelkezik"],
-      ro: ["Construită în secolul al XIII-lea sau al XIV-lea", "Adăpostește fresce rasulide valoroase", "Are cupole albe caracteristice"],
-      en: ["Built in the 13th or 14th century", "Houses valuable Rasulid frescoes", "Features distinctive white domes"]
-    }, image: "/poi-images/ashrafiya-mosque-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Ashrafiya-Moschee (auch bekannt als Al-Ashrafiya) in Taiz ist ein architektonisches Juwel der Rasulidenzeit. Sie wurde im 13. Jahrhundert erbaut und ist für ihre kunstvollen Zierelemente bekannt. Die Moschee hat einen rechteckigen Grundriss mit einem Innenhof. Sie ist noch immer in Gebrauch.",
-      hu: "Az Ashrafiya mecset Taizban a 13. századi iszlám építészet egyik gyöngyszeme. A mecsetet Al-Ashraf Umar szultán építtette. A belső térben gyönyörű növényi motívumok és geometrikus minták láthatók. A minaret a város egyik jelképe.",
-      ro: "Moscheea Ashrafiya din Taiz, construită în secolul al XIII-lea, este renumită pentru decorarea sa bogată. Are o sală de rugăciune cu coloane de marmură și un minaret înalt. A fost restaurată recent, păstrând elementele originale.",
-      en: "The Ashrafiya Mosque in Taiz, built in the 13th century, is a key example of Rasulid architecture. It features a large courtyard surrounded by arcades. The mosque's mihrab is decorated with intricate stucco work. It remains an active religious site.",
-    },
-    factsAdvanced: {
-      de: ["Erbaut 1278", "Minaretthöhe 25 Meter", "Gebetshalle 400 m²", "Hof 200 m²", "Mihrab aus Stuck", "Restaurierung 2010"],
-      hu: ["1278-ban épült", "A minaret 25 méter", "Imaterem 300 négyzetméter", "Oszlopok száma 12", "Udvar 150 négyzetméter", "1995-ben renoválták"],
-      ro: ["Construit în 1278", "Minaret 25 m", "Sala de rugăciune 350 mp", "Coloane 10", "Mihrab sculptat", "Restaurat în 2005"],
-      en: ["Built in 1278", "Minaret height 25 m", "Prayer hall 400 sq m", "Courtyard 200 sq m", "Stucco mihrab", "Restored in 2008"],
-    },
-  },
-  {
+    {
     id: "shibam-skyscrapers-landmarks-v2",
     type: "icon",
     parent: "YE-HD",
@@ -321,39 +225,7 @@ export const poiExtraYemenLandmarksV2: POI[] = [
       en: ["Built 750 BC", "Length 600 m", "Height 16 m", "Irrigated 9,600 hectares", "Collapsed 575 AD", "Rebuilt in modern times as a new dam"],
     },
   },
-  {
-    id: "awam-temple-landmarks-v2",
-    type: "monument",
-    parent: "YE-MA",
-    coords: [45.3533, 15.4035],
-    name: { de: "Awam-Tempel", hu: "Avám-templom", ro: "Templul Awam", en: "Awam Temple"},
-    image: "/poi-images/awam-temple-landmarks-v2.webp",
-    description: {
-      de: "Der Awam-Tempel, auch als Mahram Bilqis bekannt, ist eine riesige sabäische Kultstätte nahe Marib. Der dem Mondgott Almaqah gewidmete Komplex war über Jahrhunderte ein wichtiges religiöses Pilgerzentrum Südarabiens.",
-      hu: "Az Avám-templom, más néven Mahram Bilkisz, egy hatalmas szabeus kultuszhely Márib közelében. Az Almakah holdistennek szentelt komplexum évszázadokon át Dél-Arábia fontos vallási zarándokközpontja volt.",
-      ro: "Templul Awam, cunoscut și sub numele de Mahram Bilqis, este un vast lăcaș de cult sabean lângă Marib. Dedicat zeului lunii Almaqah, complexul a fost un important centru de pelerinaj religios în sudul Arabiei timp de secole.",
-      en: "The Awam Temple, also known as Mahram Bilqis, is a vast Sabaean sanctuary near Marib. Dedicated to the moon god Almaqah, the complex was a major religious pilgrimage center of South Arabia for centuries."
-    },
-    facts: {
-      de: ["Dem sabäischen Mondgott Almaqah gewidmet", "Auch bekannt als Mahram Bilqis (Heiligtum der Königin von Saba)", "Umfangreiche Ausgrabungen durch Archäologen"],
-      hu: ["Almakah szabeus holdistennek szentelték", "Mahram Bilkisz (Sába királynőjének szentélye) néven is ismert", "Kiterjedt régészeti ásatások helyszíne"],
-      ro: ["Dedicat zeului sabean al lunii Almaqah", "Cunoscut și ca Mahram Bilqis (Sanctuarul Reginei din Saba)", "Excavații extinse efectuate de arheologi"],
-      en: ["Dedicated to the Sabaean moon god Almaqah", "Also known as Mahram Bilqis (Sanctuary of the Queen of Sheba)", "Site of extensive archaeological excavations"]
-    }, image: "/poi-images/awam-temple-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Awam-Tempel in Marib, auch bekannt als Mahram Bilqis, ist ein sabäischer Tempel aus dem 7. Jahrhundert v. Chr. Er war dem Mondgott Almaqah geweiht. Der Tempel hat einen ovalen Grundriss mit einer Mauer, die einen heiligen Bezirk umschließt. Er gilt als einer der wichtigsten Tempel des sabäischen Reiches.",
-      hu: "Az Awam-templom Marib közelében található, a szabai királyság legnagyobb temploma. A Kr. e. 7. században épült, és Almaqahnak szentelték. A templomot ovális fal veszi körül, belsejében egy szentély és oltárok találhatók. A helyszínt ásatások tárták fel.",
-      ro: "Templul Awam din Marib, cunoscut sub numele de Mahram Bilqis, este un sanctuar sabean din secolul al VII-lea î.Hr., dedicat zeului Almaqah. Are o incintă ovală cu ziduri înalte. A fost un important centru religios și economic.",
-      en: "The Awam Temple in Marib, also called Mahram Bilqis (Sanctuary of the Queen of Sheba), is one of the largest temples of pre-Islamic Arabia. Its elliptical enclosure wall measures 107 m long. The temple complex includes a forecourt, a hypostyle hall, and sacrificial altars. It dates to the 7th century BC.",
-    },
-    factsAdvanced: {
-      de: ["Erbaut 7. Jahrhundert v. Chr.", "Elliptische Mauer 107 m lang", "Höhe der Mauer 13 m", "Fläche 1,6 Hektar", "Almaqah geweiht", "Ausgrabungen seit 1950"],
-      hu: ["Kr. e. 7. században épült", "Elliptikus fal 107 méter", "A fal magassága 13 méter", "Terület 1,6 hektár", "Almaqahnak szentelt", "1998-ban feltárták"],
-      ro: ["Secolul VII î.Hr.", "Zid eliptic 107 m", "Înălțimea zidului 13 m", "Suprafață 1,6 ha", "Dedicat lui Almaqah", "Săpături arheologice în 2010"],
-      en: ["Built 7th century BC", "Elliptical wall perimeter 107 m", "Wall height 13 m", "Area 1.6 hectares", "Dedicated to Almaqah", "Excavated by archaeologists since 1950s"],
-    },
-  },
-  {
+    {
     id: "baran-temple-landmarks-v2",
     type: "monument",
     parent: "YE-MA",

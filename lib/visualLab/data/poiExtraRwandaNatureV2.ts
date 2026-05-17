@@ -324,33 +324,7 @@ export const poiExtraRwandaNatureV2: POI[] = [
       hu: ["2015-ben alapították, Ruanda negyedik nemzeti parkja.", "Két különálló erdőből áll: Gishwati és Mukura.", "Jelenleg újraerdősítik az erdők összekötésére.", "Egy kis csimpánzpopuláció otthona.", "Több mint 230 madárfajnak ad otthont.", "Fontos vízgyűjtő terület.", "2020-ban UNESCO Bioszféra-rezervátummá nyilvánították."],
       en: ["Established in 2015, Rwanda's fourth national park.", "Comprises two separate forests: Gishwati and Mukura.", "Undergoing reforestation to connect the forests.", "Home to a small population of chimpanzees.", "Hosts over 230 species of birds.", "A crucial water catchment area.", "Designated a UNESCO Biosphere Reserve in 2020."]
     }, image: "/poi-images/gishwati-mukura-nature-v2.webp"},
-  {
-    id: "rweru-lake-nature-v2",
-    type: "lake",
-    parent: "RW-03",
-    coords: [30.28, -2.33],
-    name: { de: "Rweru-See", hu: "Rweru-tó", ro: "Lacul Rweru", en: "Lake Rweru"},
-    image: "/poi-images/rweru-lake-nature-v2.webp",
-    description: { de: "Ein See im Südosten Ruandas, wichtig für die lokale Fischerei.", hu: "Tó Ruanda délkeleti részén, fontos a helyi halászat számára.", ro: "Un lac în sud-estul Rwandei, important pentru pescuitul local.", en: "A lake in southeastern Rwanda, important for local fishing." },
-    facts: {
-      de: ["Liegt an der Grenze zu Burundi.", "Wichtige Nahrungsquelle."],
-      hu: ["Burundi határán fekszik.", "Fontos táplálékforrás."],
-      ro: ["Situat la granița cu Burundi.", "Sursă importantă de hrană."],
-      en: ["Located on the border with Burundi.", "Important source of food."]
-    },
-    descriptionAdvanced: {
-      ro: "Lacul Rweru este o întindere de apă fascinantă situată în sud-estul Rwandei, având o importanță ecologică și hidrologică majoră. Lacul este punctul unde râul Akanyaru se varsă în mlaștinile care alimentează fluviul Kagera, fiind considerat o verigă esențială în sistemul de alimentare al Nilului. Ecosistemul său este caracterizat prin mlaștini de papirus și stufărișuri dense care oferă adăpost pentru numeroase specii de păsări migratoare și pești endemici. Malurile lacului sunt locuite de comunități de pescari care păstrează metode tradiționale de captură. Rweru reprezintă o zonă umedă de importanță internațională, acționând ca un filtru natural imens pentru sedimentele râurilor înainte ca acestea să pornească spre nordul continentului.",
-      de: "Der Rweru-See ist ein großer, flacher See im Südosten Ruandas, der sich über die Grenze nach Burundi erstreckt. Er ist Teil eines Komplexes von Seen und Feuchtgebieten, der vom Akagera-Fluss gespeist wird. Der See ist ein wichtiges Zentrum für Fischerei und Landwirtschaft in der Region. Seine Ufer und Inseln sind dicht besiedelt. Der See ist bekannt für seine reiche Vogelwelt, darunter Pelikane, Kormorane und Reiher. Er ist auch Lebensraum für Flusspferde und Krokodile. Der Wasserstand des Sees kann je nach Jahreszeit und Niederschlag stark schwanken. Umweltprobleme wie Bodenerosion in den umliegenden Hügeln und die Ausbreitung der Wasserhyazinthe bedrohen das Ökosystem des Sees.",
-      hu: "A Rweru-tó egy nagy, sekély tó Ruanda délkeleti részén, amely átnyúlik a burundi határon. Egy tó- és vizesélőhely-komplexum része, amelyet az Akagera-folyó táplál. A tó a régió halászatának és mezőgazdaságának fontos központja. Partjai és szigetei sűrűn lakottak. A tó gazdag madárvilágáról ismert, beleértve a pelikánokat, kormoránokat és gémeket. Ezenkívül vízilovaknak és krokodiloknak is otthont ad. A tó vízszintje az évszaktól és a csapadéktól függően erősen ingadozhat. Az olyan környezeti problémák, mint a környező dombok talajeróziója és a vízijácint terjedése, veszélyeztetik a tó ökoszisztémáját.",
-      en: "Lake Rweru is a large, shallow lake in southeastern Rwanda, straddling the border with Burundi. It is part of a complex of lakes and wetlands fed by the Akagera River. The lake is an important center for fishing and agriculture in the region. Its shores and islands are densely populated. The lake is known for its rich birdlife, including pelicans, cormorants, and herons. It is also a habitat for hippos and crocodiles. The lake's water level can fluctuate significantly depending on the season and rainfall. Environmental challenges such as soil erosion in the surrounding hills and the spread of water hyacinth threaten the lake's ecosystem."
-    },
-    factsAdvanced: {
-      ro: ["Lac de frontieră partajat între Rwanda și Burundi.", "Componentă cheie a ecosistemului bazinului fluviului Kagera.", "Renumit pentru populațiile variate de păsări acvatice.", "Suprafață dominată de zone umede și mlaștini protejate.", "Sursă importantă de pește pentru regiunea Bugesera.", "Altitudine redusă, oferind un climat cald și umed.", "Filtru natural vital pentru sistemul hidrografic al Nilului."],
-      de: ["Liegt an der Grenze zwischen Ruanda und Burundi.", "Größtenteils in Burundi gelegen.", "Wird vom Akagera-Fluss gespeist.", "Maximale Tiefe beträgt etwa 3 Meter.", "Wichtiges Gebiet für Fischerei.", "Lebensraum für Flusspferde und Krokodile.", "Bedroht durch die Ausbreitung der Wasserhyazinthe."],
-      hu: ["Ruanda és Burundi határán fekszik.", "Nagyobb része Burundiban található.", "Az Akagera-folyó táplálja.", "Maximális mélysége körülbelül 3 méter.", "Fontos halászati terület.", "Vízilovak és krokodilok élőhelye.", "A vízijácint terjedése veszélyezteti."],
-      en: ["Located on the border between Rwanda and Burundi.", "The larger part of the lake is in Burundi.", "Fed by the Akagera River.", "Maximum depth is around 3 meters.", "An important area for fishing.", "Habitat for hippos and crocodiles.", "Threatened by the spread of water hyacinth."]
-    }, image: "/poi-images/rweru-lake-nature-v2.webp"},
-  {
+    {
     id: "cyamudongo-forest-nature-v2",
     type: "forest",
     parent: "RW-05",

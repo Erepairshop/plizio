@@ -2,40 +2,7 @@
 import { POI } from './poi';
 export const polandReliefV2: POI[] = [
 
-  {
-    id: "poland-rysy-peak-relief-v2",
-    parent: "PL",
-    type: "peak",
-    name: { de: "Meeraugspitze", hu: "Tengerszem-csúcs", ro: "Vârful Rysy", en: "Rysy"},
-    image: "/poi-images/poland-rysy-peak-relief-v2.webp",
-    coords: [20.0881, 49.1794],
-    coords: [20.0881, 49.1794],
-    description: {
-      de: "Der Rysy ist der höchste Berg Polens und liegt in der Hohen Tatra an der Grenze zur Slowakei. Er besteht aus drei Gipfeln, von denen der nordwestliche der höchste Punkt des Landes ist.",
-      hu: "A Rysy Lengyelország legmagasabb hegycsúcsa, amely a Magas-Tátrában, a szlovák határon fekszik. Három csúcsa közül az északnyugati emelkedik a lengyel oldal fölé.",
-      ro: "Rysy este cel mai înalt vârf din Polonia, situat în Munții Tatra Înalți la granița cu Slovacia. Are trei vârfuri, cel nord-vestic fiind punctul culminant al țării.",
-      en: "Rysy is the highest peak in Poland, located in the High Tatras on the border with Slovakia. It consists of three summits, with the northwestern one being the country's highest point.",
-    },
-    facts: {
-      de: ["Höhe von 2499 Metern über dem Meeresspiegel", "Erste bekannte Besteigung im Jahr 1840", "Gehört zum Tatra-Nationalpark", "Granitmassiv mit alpiner Flora"],
-      hu: ["Tengerszint feletti magassága 2499 méter", "Első ismert megmászása 1840-ben történt", "A Tátrai Nemzeti Park része", "Gránitból felépülő alpesi domborzat"],
-      ro: ["Înălțime de 2499 metri peste nivelul mării", "Prima ascensiune documentată în 1840", "Face parte din Parcul Național Tatra", "Masiv granitic cu floră alpină"],
-      en: ["Elevation of 2499 meters above sea level", "First recorded ascent in 1840", "Part of the Tatra National Park", "Granite massif with alpine flora"],
-    },
-    imageHint: "Rysy peak in High Tatras with snow",
-    descriptionAdvanced: {
-      de: "Der Rysy ist das herausragendste Bergmassiv der Hohen Tatra auf polnischem Gebiet und bildet die natürliche Grenze zur Slowakei. Mit seinen drei markanten Gipfeln prägt er das Landschaftsbild und bietet Kletterern eine alpinistische Herausforderung der Extraklasse. Der höchste Punkt auf polnischer Seite liegt bei 2499 Metern, während der Hauptgipfel jenseits der Grenze noch wenige Meter höher aufragt. Die geologische Struktur aus hartem Granit widersteht den rauen Witterungsbedingungen, die in dieser Höhenlage oft extreme Ausmaße annehmen. Der Aufstieg von der polnischen Seite aus gilt als technisch anspruchsvoll, belohnt jedoch mit weitreichenden Panoramen über tiefblaue Bergseen wie das berühmte Meerauge. Alpine Flora und Fauna, darunter Gämsen und Murmeltiere, finden in den steilen Felswänden einen geschützten Lebensraum.",
-      hu: "A Rysy a lengyelországi Magas-Tátra legikonikusabb hegytömbje, amely egyúttal természetes határt is képez Szlovákia felé. Három jellegzetes csúcsa uralja a tájat, és komoly alpinista kihívást jelent a mászók számára. A lengyel oldal legmagasabb pontja 2499 méteren található, míg a főcsúcs a határ túloldalán pár méterrel magasabbra nyúlik. A kemény gránitból felépülő geológiai szerkezet jól ellenáll a zord, sokszor extrém időjárási körülményeknek. A lengyel oldalról induló feljutás technikailag nehéznek számít, de a fáradalmakért kárpótol a mélykék hegyi tavakra – köztük a híres Halastóra – nyíló széles panoráma. A meredek sziklafalak védett élőhelyet biztosítanak a jellegzetes alpesi növény- és állatvilágnak, például a zergéknek és a mormotáknak.",
-      ro: "Rysy este cel mai proeminent masiv din Munții Tatra Înalți pe teritoriul polonez, formând granița naturală cu Slovacia. Cu cele trei vârfuri distincte ale sale, domină peisajul și oferă alpiniștilor o provocare de primă clasă. Cel mai înalt punct de pe partea poloneză este situat la 2499 de metri, în timp ce vârful principal, aflat dincolo de graniță, se înalță cu câțiva metri mai mult. Structura geologică din granit dur rezistă condițiilor meteorologice aspre, care la această altitudine capătă adesea proporții extreme. Ascensiunea de pe versantul polonez este considerată dificilă din punct de vedere tehnic, dar recompensează cu panorame extinse asupra lacurilor glaciare de un albastru profund, precum faimosul Ochiul Mării. Flora și fauna alpină, inclusiv caprele negre și marmotele, găsesc un habitat protejat pe acești pereți abrupți de stâncă.",
-      en: "Rysy is the most prominent mountain massif of the High Tatras in Polish territory, forming the natural border with Slovakia. With its three distinctive summits, it dominates the landscape and offers climbers a first-class alpine challenge. The highest point on the Polish side sits at 2499 meters, while the main summit just across the border rises a few meters higher. The geological structure of hard granite withstands the harsh weather conditions that often reach extreme levels at this altitude. The ascent from the Polish side is considered technically demanding, yet it rewards with sweeping panoramas over deep blue mountain lakes, including the famous Morskie Oko. Alpine flora and fauna, such as chamois and marmots, find a protected habitat within these steep rock faces."
-    },
-    factsAdvanced: {
-      de: ["A lengyelországi csúcs magassága pontosan 2499 méter", "A szlovák oldalon lévő főcsúcs eléri a 2501 métert", "Az első dokumentált nyári megmászás 1840-ben történt", "Télen először 1884-ben jutottak fel a csúcsra", "A lengyel oldalról a Czarny Staw tavat érintve vezet az út", "A csúcs a Tátrai Nemzeti Park fokozottan védett zónája", "A gránit kőzet a karbon időszakban, mintegy 300 millió éve alakult ki"],
-      hu: [],
-      ro: [],
-      en: []
-    }, image: "/poi-images/poland-rysy-peak-relief-v2.webp"},
-  {
+    {
     id: "poland-tatra-mountains-relief-v2",
     parent: "PL",
     type: "mountain",
@@ -68,40 +35,7 @@ export const polandReliefV2: POI[] = [
       ro: [],
       en: []
     }, image: "/poi-images/poland-tatra-mountains-relief-v2.webp"},
-  {
-    id: "poland-sniezka-peak-relief-v2",
-    parent: "PL",
-    type: "peak",
-    name: { de: "Schneekoppe", hu: "Sněžka", ro: "Vârful Sněžka", en: "Śnieżka"},
-    image: "/poi-images/poland-sniezka-peak-relief-v2.webp",
-    coords: [15.74, 50.736],
-    coords: [15.74, 50.736],
-    description: {
-      de: "Die Schneekoppe ist mit 1603 Metern der höchste Gipfel des Riesengebirges und der Sudeten. Auf dem Gipfel befinden sich eine Kapelle aus dem 17. Jahrhundert und eine futuristische Wetterstation.",
-      hu: "A Sněžka 1603 méteres magasságával az Óriás-hegység és a Szudéták legmagasabb pontja. Csúcsán egy 17. századi kápolna és egy futurisztikus meteorológiai állomás áll.",
-      ro: "Sněžka este cel mai înalt vârf din Munții Karkonosze și din întregul lanț al Sudeților, având 1603 metri. Pe vârf se află o capelă din secolul XVII și o stație meteo futuristă.",
-      en: "Śnieżka is the highest peak of the Karkonosze Mountains and the entire Sudetes range at 1603 meters. The summit hosts a 17th-century chapel and a futuristic weather station.",
-    },
-    facts: {
-      de: ["Liegt an der Grenze zur Tschechischen Republik", "Windgeschwindigkeiten erreichen oft Orkanstärke", "Gipfel besteht aus widerstandsfähigem Hornfels", "St. Laurentius-Kapelle wurde 1681 geweiht"],
-      hu: ["A cseh-lengyel határon fekszik", "A szélsebesség gyakran eléri az orkán erejét", "A csúcs ellenálló szaruszirt kőzetből áll", "Szent Lőrinc-kápolnáját 1681-ben szentelték fel"],
-      ro: ["Situat pe granița cu Republica Cehă", "Viteza vântului atinge adesea forța unui uragan", "Vârful este compus din roci de tip hornfels", "Capela Sfântul Laurențiu a fost sfințită în 1681"],
-      en: ["Located on the border with the Czech Republic", "Wind speeds often reach hurricane force", "Summit is composed of resistant hornfels rock", "St. Lawrence Chapel was consecrated in 1681"],
-    },
-    imageHint: "Śnieżka observatory and chapel in winter",
-    descriptionAdvanced: {
-      de: "Die Schneekoppe erhebt sich als markanter Kegel über das Riesengebirge und dominiert als höchster Gipfel der gesamten Sudeten das Grenzgebiet zwischen Polen und Tschechien. Ihre charakteristische Form resultiert aus dem widerstandsfähigen Hornfelsgestein, das der intensiven Verwitterung besser trotzte als der umgebende Granit. Die meteorologischen Bedingungen am Gipfel sind berüchtigt: Ein raues, fast subpolares Klima mit extremen Windgeschwindigkeiten, häufigem Nebel und monatelanger Schneebedeckung prägt die Umgebung. Auf dem Gipfelplateau befindet sich die historische St. Laurentius-Kapelle aus dem 17. Jahrhundert sowie eine moderne, diskusförmige Wetterstation, die an fliegende Untertassen erinnert. Die karge Vegetation an den Hängen ist typisch für hochalpine Tundren und beherbergt Pflanzen, die die Eiszeit hier als Relikte überdauert haben.",
-      hu: "A Sněžka jellegzetes kúpként magasodik az Óriás-hegység fölé, és az egész Szudéták legmagasabb csúcsaként uralja a lengyel-cseh határvidéket. Karakteres alakja az ellenálló szaruszirt kőzetnek köszönhető, amely jobban dacolt az intenzív mállással, mint a környező gránit. A csúcson uralkodó meteorológiai viszonyok hírhedtek: a környezetet zord, szubpoláris klíma, extrém szélsebesség, gyakori köd és hónapokig tartó hótakaró alakítja. A csúcsplatón áll a 17. századi történelmi Szent Lőrinc-kápolna, valamint egy modern, diszkosz alakú meteorológiai állomás, amely repülő csészealjakra emlékeztet. A lejtőkön található gyér növényzet a magashegyi tundrákra jellemző, és olyan növényeknek ad otthont, amelyek a jégkorszak óta reliktumként maradtak fenn ezen a területen.",
-      ro: "Sněžka se înalță ca un con proeminent deasupra Munților Karkonosze, dominând zona de graniță dintre Polonia și Cehia în calitate de cel mai înalt vârf al întregului lanț al Sudeților. Forma sa distinctivă este rezultatul rocilor dure de tip hornfels, care au rezistat eroziunii intense mult mai bine decât granitul din jur. Condițiile meteorologice de pe vârf sunt de-a dreptul notorii: un climat aspru, aproape subpolar, cu vânturi extreme, ceață frecventă și un strat de zăpadă care persistă luni de zile. Pe platoul din vârf se găsește capela istorică Sfântul Laurențiu, datând din secolul al XVII-lea, precum și o stație meteorologică modernă, în formă de discuri, care amintește de farfuriile zburătoare. Vegetația săracă de pe versanți este tipică tundrelor alpine superioare, adăpostind plante relicte din perioada glaciară.",
-      en: "Śnieżka rises as a prominent cone above the Karkonosze Mountains, dominating the border region between Poland and the Czech Republic as the highest peak of the entire Sudetes range. Its characteristic shape is the result of highly resistant hornfels rock, which withstood intensive weathering much better than the surrounding granite. The meteorological conditions at the summit are notorious: a harsh, almost subpolar climate featuring extreme wind speeds, frequent fog, and months of snow cover defines the environment. The summit plateau hosts the historic 17th-century St. Lawrence Chapel, alongside a modern, disc-shaped weather station that resembles flying saucers. The sparse vegetation on the slopes is typical of high-alpine tundras, providing a habitat for plant species that have survived here as glacial relicts."
-    },
-    factsAdvanced: {
-      de: ["A hegycsúcs tengerszint feletti magassága 1603 méter", "A Szent Lőrinc-kápolnát 1681-ben szentelték fel a csúcson", "A futurisztikus lengyel meteorológiai állomás 1974-ben épült", "Az átlagos évi középhőmérséklet a csúcson csupán 0,2 Celsius-fok", "A szélsebesség a téli viharok során elérheti a 250 km/h-t is", "Az év több mint 300 napján a hegycsúcs felhőbe vagy ködbe burkolózik", "A hegy a lengyel-cseh államhatáron helyezkedik el, megosztva a két ország között"],
-      hu: [],
-      ro: [],
-      en: []
-    }, image: "/poi-images/poland-sniezka-peak-relief-v2.webp"},
-  {
+    {
     id: "poland-bieszczady-mountains-relief-v2",
     parent: "PL",
     type: "mountain",
@@ -365,40 +299,7 @@ export const polandReliefV2: POI[] = [
       ro: [],
       en: []
     }, image: "/poi-images/poland-skrzyczne-peak-relief-v2.webp"},
-  {
-    id: "poland-turbacz-peak-relief-v2",
-    parent: "PL",
-    type: "peak",
-    name: { de: "Turbacz", hu: "Turbacz", ro: "Vârful Turbacz", en: "Turbacz"},
-    image: "/poi-images/poland-turbacz-peak-relief-v2.webp",
-    coords: [20.1114, 49.543],
-    coords: [20.1114, 49.543],
-    description: {
-      de: "Der Turbacz ist mit 1310 Metern der höchste Gipfel des Gorce-Gebirges. Er ist ein zentraler Knotenpunkt für Wanderwege und bekannt für seine große Schutzhütte unterhalb des Gipfels.",
-      hu: "A Turbacz 1310 méteres magasságával a Gorce-hegység legmagasabb csúcsa. Fontos túraútvonalak csomópontja, és híres a csúcs alatt található nagy turistaházáról.",
-      ro: "Turbacz este cel mai înalt vârf din Munții Gorce, având 1310 metri. Este un punct central pentru traseele de drumeție și faimos pentru cabana mare situată sub vârf.",
-      en: "Turbacz is the highest peak of the Gorce Mountains at 1310 meters. It is a central hub for hiking trails and famous for the large mountain hut located just below the summit.",
-    },
-    facts: {
-      de: ["Liegt im Herzen des Gorce-Nationalparks", "Bietet einen der besten Ausblicke auf die Tatra", "Großes Steinkreuz markiert den Gipfel", "Durchschnittliche Jahrestemperatur beträgt 3°C"],
-      hu: ["A Gorce Nemzeti Park szívében fekszik", "Az egyik legszebb kilátást nyújtja a Tátrára", "Nagy kőkereszt jelzi a csúcsot", "Átlagos évi középhőmérséklete 3°C"],
-      ro: ["Situat în inima Parcului Național Gorce", "Oferă una dintre cele mai bune vederi spre Tatra", "O cruce mare de piatră marchează vârful", "Temperatura medie anuală este de 3°C"],
-      en: ["Located in the heart of Gorce National Park", "Offers one of the best views of the Tatra Mountains", "Large stone cross marks the summit", "Average annual temperature is 3°C"],
-    },
-    imageHint: "Turbacz summit with Tatra mountains in background",
-    descriptionAdvanced: {
-      de: "Der Turbacz bildet als höchster Gipfel das geografische und touristische Zentrum des Gorce-Gebirges in den Westbeskiden. Von seiner massiven, flachen Kuppe strahlen die wichtigsten Gebirgskämme sternförmig in alle Himmelsrichtungen aus, was ihn zu einem zentralen Knotenpunkt für zahlreiche Wander- und Radwege macht. Die geologische Basis besteht aus weichem Flyschgestein, das zur Bildung weitläufiger, sanfter Berghänge und tief eingeschnittener Völker geführt hat. Charakteristisch für die Umgebung des Turbacz sind die ausgedehnten, lichtdurchfluteten Lichtungen und Bergwiesen, die früher intensiv für die Schafzucht genutzt wurden und heute eine reiche, artenreiche Flora aufweisen. Direkt unterhalb des bewaldeten Hauptgipfels thront eine der größten und bekanntesten PTTK-Schutzhütten Polens, von deren Terrasse sich ein spektakuläres, unverbautes Panorama auf die gesamte Kette der Tatra und die Pieninen bietet.",
-      hu: "A Turbacz a Nyugati-Beszkidekhez tartozó Gorce-hegység földrajzi és turisztikai központja, egyben legmagasabb csúcsa. Masszív, lapos tetejéről a legfontosabb hegygerincek csillagszerűen ágaznak szét a szélrózsa minden irányába, aminek köszönhetően a hegy számos túra- és kerékpárútvonal központi csomópontjává vált. Geológiai alapját puha fliskőzetek alkotják, amelyek kiterjedt, szelíd hegyoldalak és mélyen bevágódott völgyek kialakulásához vezettek. A Turbacz környékének legfőbb sajátosságai a tágas, napfényes erdei tisztások és hegyi rétek, amelyeket egykor intenzíven használtak juhtenyésztésre, ma pedig rendkívül gazdag, fajoktól nyüzsgő flórával büszkélkedhetnek. Közvetlenül az erdővel borított főcsúcs alatt áll Lengyelország egyik legnagyobb és legismertebb PTTK menedékháza, amelynek teraszáról lenyűgöző, zavartalan panoráma nyílik a Tátra teljes vonulatára és a Pieninekre.",
-      ro: "Turbacz formează, în calitate de cel mai înalt vârf, centrul geografic și turistic al Munților Gorce din Beskizii Occidentali. De pe culmea sa masivă și plată, cele mai importante creste montane radiază în formă de stea în toate direcțiile, transformându-l într-un nod central pentru numeroase trasee de drumeție și ciclism. Baza geologică este constituită din roci moi de fliș, ceea ce a dus la formarea unor versanți extinși și blânzi și a unor văi adânc săpate. O caracteristică a împrejurimilor vârfului Turbacz sunt poienile și pajiștile alpine vaste, scăldate în soare, care în trecut erau folosite intens pentru creșterea oilor, iar astăzi prezintă o floră bogată și diversificată. Chiar sub vârful principal împădurit se înalță una dintre cele mai mari și mai cunoscute cabane PTTK din Polonia, de pe terasa căreia se oferă o panoramă spectaculoasă și neobstrucționată asupra întregului lanț al Munților Tatra și asupra Pieninilor.",
-      en: "Turbacz serves as the geographic and tourist heart of the Gorce Mountains in the Western Beskids, standing as their highest peak. From its massive, flat summit, the primary mountain ridges radiate outwards in a star-like pattern in all directions, establishing it as a central hub for numerous hiking and cycling trails. The geological foundation consists of soft flysch rock, which has resulted in the formation of expansive, gentle mountain slopes and deeply incised valleys. A defining characteristic of the Turbacz vicinity is the extensive, sunlit glades and mountain meadows, which were once intensively used for sheep farming and today boast a rich, highly diverse flora. Situated just below the forested main summit is one of Poland's largest and most renowned PTTK mountain shelters, offering from its terrace a spectacular, unobstructed panoramic view of the entire Tatra mountain chain and the Pieniny."
-    },
-    factsAdvanced: {
-      de: ["A Turbacz tengerszint feletti magassága 1310 méter", "A csúcson egy kőből épült obeliszk jelöli a legmagasabb pontot", "A hegy területén található a Gorce Nemzeti Park jelentős része", "A csúcs alatti turistaházat (Schronisko na Turbaczu) 1958-ban adták át", "A menedékház több mint 100 vendég számára biztosít éjszakai szállást", "A hegyről sugárirányban hét fő hegygerinc ágazik szét", "II. János Pál pápa fiatal korában többször is túrázott ezen a hegyen"],
-      hu: [],
-      ro: [],
-      en: []
-    }, image: "/poi-images/poland-turbacz-peak-relief-v2.webp"},
-  {
+    {
     id: "poland-jura-upland-relief-v2",
     parent: "PL",
     type: "mountain",

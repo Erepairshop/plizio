@@ -562,40 +562,7 @@ export const italyHistoryV2: POI[] = [
     },
     image: "/poi-images/italy-grotta-di-nettuno-history-v2.webp",
   },
-  {
-    id: "italy-abbazia-di-fossanova-history-v2",
-    type: "church",
-    parent: "IT",
-    name: { de: "Abtei Fossanova", hu: "Fossanova apátság", ro: "Abația Fossanova", en: "Fossanova Abbey" },
-    coords: [13.19, 41.442],
-    description: {
-      de: "Ein bedeutendes Zisterzienserkloster in der Nähe von Latina. Es ist ein hervorragendes Beispiel gotischer Architektur.",
-      hu: "Jelentős ciszterci kolostor Latina közelében. A gótikus építészet kiváló példája.",
-      ro: "Mănăstire cisterciană semnificativă lângă Latina. Este un exemplu excelent de arhitectură gotică.",
-      en: "Significant Cistercian monastery near Latina. It is an excellent example of Gothic architecture.",
-    },
-    facts: {
-      de: ["Gründung 12. Jahrhundert", "Stil: Romanisch-Gotisch", "Sterbeort von Thomas von Aquin", "Klosterkomplex"],
-      hu: ["Alapítás 12. század", "Stílus: Román-gótikus", "Aquinói Szent Tamás halála helyszíne", "Kolostorkomplexum"],
-      ro: ["Fondare sec. XII", "Stil: Romanic-Gotic", "Locul morții lui Toma d'Aquino", "Complex mănăstiresc"],
-      en: ["Founded 12th century", "Style: Romanesque-Gothic", "Deathplace of Thomas Aquinas", "Monastic complex"],
-    },
-    imageHint: "Fossanova Abbey architecture",
-    descriptionAdvanced: {
-      de: "Die Fossanova Abbey ist eine ehemalige Zisterzienserabtei in der Region Latium, etwa 100 km südöstlich von Rom. Gegründet im Jahr 1135, gehört sie zu den bedeutendsten Beispielen frühgotischer Architektur in Italien. Der Bau der Kirche begann 1187 und wurde 1208 geweiht. Berühmt ist die Abtei als Sterbeort des heiligen Thomas von Aquin, der 1274 auf dem Weg zum Zweiten Konzil von Lyon hier verstarb. Die Anlage umfasst eine dreischiffige Basilika, einen Kreuzgang und einen Kapitelsaal. Nach der Säkularisation im 19. Jahrhundert wurde die Abtei teilweise restauriert und dient heute als kulturelles Zentrum. Die Fresken im Kapitelsaal stammen aus dem 13. Jahrhundert und zeigen Szenen aus dem Leben Christi. Die Abtei liegt in der fruchtbaren Ebene des Flusses Amaseno, was die landwirtschaftliche Selbstversorgung der Mönche begünstigte.",
-      hu: "A Fossanova Apátság a középkori ciszterci építészet egyik kiemelkedő példája Olaszországban, Lazio régióban. A 12. században épült, a templom hossza 68 méter, szélessége 20 méter. A főhomlokzatot rózsaablak díszíti, a belső teret egyszerű boltívek tagolják. A kolostor udvarát árkádok övezik, a kerengő mérete 30x30 méter. A káptalanterem freskói a 13. századból származnak. A nyugati oldalon helyezkedik el a dormitórium, amely 40 méter hosszú. A templom ablakai 3 méter magasak. Az apátság területén egy 12. századi vízimalom is található. Az épületegyüttes a gótikus stílus jegyeit viseli magán, de román hatás is kimutatható.",
-      ro: "Mănăstirea Fossanova este o fostă abație cisterciană situată în regiunea Lazio, la aproximativ 100 km sud-est de Roma, în apropierea orașului Priverno. Fondată în 1135, este unul dintre cele mai importante exemple de arhitectură gotică timpurie din Italia. Construcția bisericii a început în 1187 și a fost sfințită în 1208. Abația este celebră ca locul de deces al Sfântului Toma de Aquino, care a murit aici în 1274 în drum spre Conciliul de la Lyon. Ansamblul cuprinde o bazilică cu trei nave, un claustru romanic și o sală capitulară. După secularizarea din secolul al XIX-lea, abația a fost restaurată parțial și astăzi servește ca centru cultural. Frescele din sala capitulară datează din secolul al XIII-lea și înfățișează scene din viața lui Hristos.",
-      en: "Fossanova Abbey is located in the Lazio region of central Italy, near the town of Priverno. The abbey was built on a pre-existing Roman structure, and its construction utilized local limestone. The surrounding area is predominantly agricultural, with olive groves and vineyards. The abbey's economy historically relied on farming and milling. Today, the abbey is a popular tourist attraction, drawing visitors for its architectural significance and historical associations. The site also hosts cultural events and concerts. The nearby Amaseno River provided water for the monastery's mills. The abbey's location along the Via Francigena made it an important stop for pilgrims.",
-    },
-    factsAdvanced: {
-      de: ["Die Abtei wurde 1135 gegründet.", "Der Bau der Kirche begann 1187.", "Die Kirche wurde 1208 geweiht.", "Die Basilika ist 68 Meter lang.", "Der Kreuzgang misst 30 x 30 Meter.", "Thomas von Aquin starb 1274 in der Abtei."],
-      hu: ["Az apátságot 1135-ben alapították.", "A templom építése 1187-ben kezdődött.", "A templomot 1208-ban szentelték fel.", "A bazilika hossza 68 méter.", "A kerengő mérete 30x30 méter.", "Aquínói Tamás 1274-ben halt meg az apátságban."],
-      ro: ["Mănăstirea a fost fondată în 1135.", "Construcția bisericii a început în 1187.", "Biserica a fost sfințită în 1208.", "Basilica are 68 de metri lungime.", "Claustrul măsoară 30x30 de metri.", "Toma de Aquino a murit aici în 1274."],
-      en: ["Fossanova Abbey was founded in 1135.", "Church construction started in 1187.", "The church was consecrated in 1208.", "The basilica is 68 meters long.", "The cloister measures 30x30 meters.", "Thomas Aquinas died at the abbey in 1274."],
-    },
-    image: "/poi-images/italy-abbazia-di-fossanova-history-v2.webp",
-  },
-  {
+    {
     id: "italy-teatro-massimo-palermo-history-v2",
     type: "theater",
     parent: "IT",

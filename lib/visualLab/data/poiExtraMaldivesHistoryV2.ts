@@ -157,59 +157,7 @@ export const poiExtraMaldivesHistoryV2: POI[] = [
       en: ["Built in the 12th century", "Dedicated to Abdul Barakat Yusuf al-Barbari", "Location: Malé", "Dome: white", "Pilgrimage site", "Islamic saint"],
     },
   },
-  {
-    id: "mv-tsunami-monument-history-v2",
-    type: "monument",
-    parent: "MV-MLE",
-    coords: [73.5061, 4.1683],
-    name: {
-      de: "Tsunami-Denkmal",
-      hu: "Cunami Emlékmű",
-      ro: "Monumentul Tsunami",
-      en: "Tsunami Monument"},
-    image: "/poi-images/mv-tsunami-monument-history-v2.webp",
-    description: {
-      de: "Dieses moderne Denkmal in Malé erinnert an die Opfer des verheerenden Erdbebens und Tsunamis im Indischen Ozean 2004. Die Stahlkugeln repräsentieren die betroffenen Atolle, während die Säulen die Opfer symbolisieren.",
-      hu: "Ez a modern emlékmű Malé városában a 2004-es pusztító indiai-óceáni földrengés és szökőár áldozatainak állít emléket. Az acélgömbök az érintett atollokat, míg az oszlopok az áldozatokat szimbolizálják.",
-      ro: "Acest monument modern din Malé comemorează victimele devastatorului cutremur și tsunami din Oceanul Indian din 2004. Sferele de oțel reprezintă atolii afectați, în timp ce stâlpii simbolizează victimele.",
-      en: "This modern monument in Malé commemorates the victims of the devastating 2004 Indian Ocean earthquake and tsunami. The steel spheres represent the affected atolls, while the pillars symbolize the victims."
-    },
-    facts: {
-      de: [
-        "Das Denkmal wurde 2005 enthüllt.",
-        "Die Namen aller maledivischen Opfer sind in die Struktur eingraviert.",
-        "Es liegt in der Nähe des Ozeans, um die Verbundenheit mit dem Meer zu betonen."
-      ],
-      hu: [
-        "Az emlékművet 2005-ben adták át.",
-        "Az összes maldív áldozat nevét belevésték a szerkezetbe.",
-        "Az óceán közelében található, hogy hangsúlyozza a tengerhez való kötődést."
-      ],
-      ro: [
-        "Monumentul a fost dezvelit în 2005.",
-        "Numele tuturor victimelor maldiviene sunt gravate în structură.",
-        "Este situat în apropierea oceanului pentru a sublinia legătura cu marea."
-      ],
-      en: [
-        "The monument was unveiled in 2005.",
-        "The names of all Maldivian victims are engraved into the structure.",
-        "It is located near the ocean to emphasize the connection to the sea."
-      ]
-    }, image: "/poi-images/mv-tsunami-monument-history-v2.webp",
-    descriptionAdvanced: {
-      de: "Das Tsunami-Monument in Malé wurde 2005 zum Gedenken an die Opfer des Tsunamis vom 26. Dezember 2004 errichtet. Es besteht aus einer Stele aus weißem Marmor, umgeben von einem kreisförmigen Becken. Die Namen der 82 maledivischen Opfer sind eingraviert. Das Denkmal steht am Hafen von Malé. Es dient als Mahnmal und Ort der Besinnung. Jährlich finden Gedenkzeremonien statt.",
-      hu: "A maléi cunami-emlékművet 2005-ben állították a 2004. december 26-i szökőár áldozatainak emlékére. Egy fehér márvány sztéléből áll, kör alakú medencével. A 82 maledív áldozat neve van bevésve. Az emlékmű Malé kikötőjénél található. Emlékeztető és elmélkedési hely. Évente megemlékezéseket tartanak.",
-      ro: "Monumentul tsunami din Malé a fost ridicat în 2005 în memoria victimelor tsunamiului din 26 decembrie 2004. Este format dintr-o stelă de marmură albă, înconjurată de un bazin circular. Numele celor 82 de victime maldiviene sunt inscripționate. Monumentul se află la portul din Malé. Servește ca memorial și loc de reflecție. Anual au loc ceremonii comemorative.",
-      en: "The Tsunami Monument in Malé was erected in 2005 to commemorate the victims of the tsunami on December 26, 2004. It consists of a white marble stele surrounded by a circular basin. The names of the 82 Maldivian victims are engraved. The monument stands at Malé harbor. It serves as a memorial and place of reflection. Annual remembrance ceremonies are held.",
-    },
-    factsAdvanced: {
-      de: ["Errichtet 2005", "Material: weißer Marmor", "Opfer: 82 Malediver", "Standort: Hafen von Malé", "Katastrophe: Tsunami 2004", "Jährliche Gedenkfeier"],
-      hu: ["Felállítva 2005-ben", "Anyag: fehér márvány", "Áldozatok: 82 maledív", "Helyszín: maléi kikötő", "Katasztrófa: 2004-es cunami", "Éves megemlékezés"],
-      ro: ["Ridicat în 2005", "Material: marmură albă", "Victime: 82 maldivieni", "Locație: portul Malé", "Catastrofă: tsunami 2004", "Ceremonie anuală"],
-      en: ["Erected in 2005", "Material: white marble", "Victims: 82 Maldivians", "Location: Malé harbor", "Disaster: 2004 tsunami", "Annual memorial ceremony"],
-    },
-  },
-  {
+    {
     id: "mv-victory-monument-history-v2",
     type: "monument",
     parent: "MV-MLE",

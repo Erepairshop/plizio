@@ -379,36 +379,7 @@ export const poiExtraLibyaNatureV2: POI[] = [
     
     
   },
-  {
-    id: "sirte-basin-nature-v2",
-    type: "sea",
-    parent: "LY-SR",
-    coords: [17.0, 30.5],
-    name: { de: "Sirte-Becken", hu: "Szirt-medence", ro: "Bazinul Sirte", en: "Sirte Basin"},
-    image: "/poi-images/sirte-basin-nature-v2.webp",
-    description: { de: "Eine große Senke entlang der Küste.", hu: "Nagy mélyedés a tengerpart mentén.", ro: "O depresiune mare de-a lungul coastei.", en: "A large depression along the coast." },
-    facts: {
-      de: ["Bedeutend für Öl.", "Große flache Ebene."],
-      hu: ["Fontos az olaj miatt.", "Nagy lapos síkság."],
-      ro: ["Important pentru petrol.", "Câmpie mare și plată."],
-      en: ["Significant for oil.", "Large flat plain."]
-    },
-    descriptionAdvanced: {
-      en: "The Sirte Basin is unarguably the most economically significant geological feature in Libya, spanning a massive swath of the central desert. While the surface appears as a barren, flat, and unremarkable stony desert, the geology beneath holds the vast majority of the nation's proven oil and gas reserves. The basin is a highly complex system of ancient, subsurface rift faults that perfectly trapped millions of years of organic material. The entire modern history and economy of Libya are built directly upon the geology of this basin. Earth Science K8 — petroleum geology and rift basins.",
-      de: "Sirte-Becken ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Eine große Senke entlang der Küste. Bedeutend für Öl. Große flache Ebene. Dieses Naturgebiet zeigt die landschaftliche Vielfalt Libyens, vom Mittelmeer über die Küstenebenen bis zu den Sandmeeren und Felsplateaus der Sahara. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
-      hu: "A(z) Szirt-medence a líbiai földrajz és kultúra figyelemre méltó eleme. Nagy mélyedés a tengerpart mentén. Fontos az olaj miatt. Nagy lapos síkság. Ez a természeti terület Líbia tájainak sokszínűségét mutatja, a Földközi-tengertől a parti síkságokon át a Szahara homoktengereiig és sziklafennsíkjaiig. Líbia számos jelentős helyszínéhez hasonlóan ez is ötvözi a föníciai-római és berber örökséget a mediterrán és szaharai hatásokkal. Ezzel a helyszín hozzájárul Líbia sokszínű arculatához, az ókori romok, a sivatagi oázisok és a földközi-tengeri partvidék között.",
-      ro: "Bazinul Sirte este un element remarcabil al geografiei și culturii libiene. O depresiune mare de-a lungul coastei. Important pentru petrol. Câmpie mare și plată. Această zonă naturală reflectă diversitatea peisajului Libiei, de la Mediterana, prin câmpiile costiere, până la mările de nisip și platourile stâncoase ale Saharei. Asemenea multor locuri importante din Libia, acesta îmbină moștenirea punico-romană și berberă cu influențele mediteraneene și sahariene. Astfel, acest loc contribuie la profilul variat al Libiei, între ruinele antice, oazele deșertului și coasta Mediteranei."
-    },
-    factsAdvanced: {
-      en: ["A massive geological depression dominating central Libya.", "Holds the vast majority of Libya's proven oil and natural gas reserves.", "Surface features consist primarily of flat, barren, stony desert.", "Formed through highly complex, ancient subsurface tectonic rifting.", "Rift faults created perfect structural traps for subterranean hydrocarbons.", "The absolute foundation of the modern Libyan national economy."],
-      de: ["Eine große Senke entlang der Küste.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Nagy mélyedés a tengerpart mentén.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["O depresiune mare de-a lungul coastei.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
-    }, image: "/poi-images/sirte-basin-nature-v2.webp",
-    
-    
-  },
-  {
+    {
     id: "gulf-of-sidra-nature-v2",
     type: "sea",
     parent: "LY-SR",

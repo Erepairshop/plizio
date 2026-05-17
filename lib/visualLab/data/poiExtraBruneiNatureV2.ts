@@ -53,59 +53,7 @@ export const poiExtraBruneiNatureV2: POI[] = [
       en: ["Established: 1991", "Area: approx. 50,000 ha", "Location: Temburong District", "Species: hornbills, clouded leopard, orchids", "Facilities: suspension bridges, canopy walkways", "Pristine rainforest"],
     },
   },
-  {
-    id: "bn-tasek-merimbun-nature-v2",
-    type: "lake",
-    parent: "BN-TU",
-    coords: [114.673, 4.593],
-    name: { de: "Tasek Merimbun", hu: "Tasek Merimbun", ro: "Tasek Merimbun", en: "Tasek Merimbun"},
-    image: "/poi-images/bn-tasek-merimbun-nature-v2.webp",
-    description: {
-      de: "Der größte natürliche See Bruneis, ein S-förmiger schwarzer See, der von einem dichten Sumpfwald umgeben ist.",
-      hu: "Brunei legnagyobb természetes tava, egy S-alakú fekete tó, amelyet sűrű mocsárerdő vesz körül.",
-      ro: "Cel mai mare lac natural din Brunei, un lac negru în formă de S, înconjurat de o pădure mlăștinoasă densă.",
-      en: "The largest natural lake in Brunei, an S-shaped black lake surrounded by a dense swamp forest."
-    },
-    facts: {
-      de: [
-        "Er ist als ASEAN-Kulturerbe anerkannt.",
-        "Das dunkle Wasser stammt von Tanninen aus den Blättern.",
-        "Die Umgebung ist reich an fleischfressenden Kannenpflanzen.",
-        "Bietet Lebensraum für zahlreiche seltene Vogelarten."
-      ],
-      hu: [
-        "Az ASEAN kulturális örökség részének nyilvánították.",
-        "A sötét vizet a levelekből származó tanninok okozzák.",
-        "A környék gazdag húsevő kancsókákban.",
-        "Számos ritka madárfaj élőhelye."
-      ],
-      ro: [
-        "Este recunoscut ca parc de patrimoniu ASEAN.",
-        "Apa întunecată provine de la taninurile din frunze.",
-        "Zona este bogată în plante carnivore ulcior.",
-        "Oferă habitat pentru numeroase specii rare de păsări."
-      ],
-      en: [
-        "It is recognized as an ASEAN Heritage Park.",
-        "The dark water comes from tannins from the leaves.",
-        "The area is rich in carnivorous pitcher plants.",
-        "Provides habitat for numerous rare bird species."
-      ]
-    }, image: "/poi-images/bn-tasek-merimbun-nature-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Tasek Merimbun ist ein See im Distrikt Tutong, Brunei. Er ist der größte See des Landes und ein wichtiges Feuchtgebiet. Der See ist von Sumpfwald umgeben und beherbergt eine Vielzahl von Wasservögeln. Er wurde 1999 zum ASEAN Heritage Park erklärt. Besucher können Boot fahren und die Tierwelt beobachten.",
-      hu: "A Tasek Merimbun egy tó Brunei Tutong körzetében. Ez az ország legnagyobb tava és fontos vizes élőhely. A tavat mocsári erdő veszi körül, és számos vízimadárnak ad otthont. 1999-ben ASEAN Örökségi Parkká nyilvánították. A látogatók csónakázhatnak és megfigyelhetik a vadon élő állatokat.",
-      ro: "Tasek Merimbun este un lac din districtul Tutong, Brunei. Este cel mai mare lac din țară și o zonă umedă importantă. Lacul este înconjurat de pădure de mlaștină și găzduiește o varietate de păsări acvatice. A fost declarat Parc al Patrimoniului ASEAN în 1999. Vizitatorii pot face plimbări cu barca și pot observa fauna sălbatică.",
-      en: "Tasek Merimbun is a lake in Tutong District, Brunei. It is the largest lake in the country and an important wetland. The lake is surrounded by swamp forest and hosts a variety of water birds. It was declared an ASEAN Heritage Park in 1999. Visitors can go boating and observe wildlife.",
-    },
-    factsAdvanced: {
-      de: ["Größter See Bruneis", "ASEAN Heritage Park seit 1999", "Umgeben von Sumpfwald", "Lebensraum für Wasservögel", "Lage: Distrikt Tutong", "Bootsfahrten möglich"],
-      hu: ["Brunei legnagyobb tava", "ASEAN Örökségi Park 1999 óta", "Mocsári erdő veszi körül", "Vízimadarak élőhelye", "Elhelyezkedés: Tutong körzet", "Csónakázási lehetőség"],
-      ro: ["Cel mai mare lac din Brunei", "Parcul Patrimoniului ASEAN din 1999", "Înconjurat de pădure de mlaștină", "Habitat pentru păsări acvatice", "Locație: districtul Tutong", "Plimbări cu barca"],
-      en: ["Largest lake in Brunei", "ASEAN Heritage Park since 1999", "Surrounded by swamp forest", "Habitat for water birds", "Location: Tutong District", "Boating available"],
-    },
-  },
-  {
+    {
     id: "bn-bukit-patoi-forest-recreation-park-nature-v2",
     type: "forest",
     parent: "BN-TE",
@@ -521,59 +469,7 @@ export const poiExtraBruneiNatureV2: POI[] = [
       en: ["Peradayan Forest Reserve covers about 10 km².", "It is located in Temburong District near the Malaysian border.", "The reserve is home to proboscis monkeys and banteng.", "It is part of the Temburong ecosystem.", "Hiking trails and viewpoints are available for visitors.", "It is managed by the Forestry Department of Brunei."],
     },
   },
-  {
-    id: "bn-bukit-teraja-nature-v2",
-    type: "mountain",
-    parent: "BN-BE",
-    coords: [114.281, 4.298],
-    name: { de: "Bukit Teraja", hu: "Bukit Teraja", ro: "Muntele Bukit Teraja", en: "Bukit Teraja"},
-    image: "/poi-images/bn-bukit-teraja-nature-v2.webp",
-    description: {
-      de: "Einer der höchsten Gipfel im Belait-Distrikt, der inmitten von unberührtem Regenwald liegt und Wasserfälle in seiner Umgebung aufweist.",
-      hu: "A Belait körzet egyik legmagasabb csúcsa, amely érintetlen esőerdő közepén fekszik, és vízeséseket rejt a környezetében.",
-      ro: "Unul dintre cele mai înalte vârfuri din districtul Belait, situat în mijlocul unei păduri tropicale virgine și prezentând cascade în împrejurimile sale.",
-      en: "One of the highest peaks in the Belait district, located amidst pristine rainforest and featuring waterfalls in its vicinity."
-    },
-    facts: {
-      de: [
-        "Die Wanderung zum Gipfel erfordert oft einen lokalen Führer.",
-        "In der Nähe befindet sich der malerische Teraja-Wasserfall.",
-        "Es ist eines der besten Gebiete für Schmetterlingsbeobachtungen.",
-        "Der Berg bietet einen atemberaubenden Blick über die Torfmoore."
-      ],
-      hu: [
-        "A csúcsra vezető túrához gyakran helyi vezetőre van szükség.",
-        "A közelben található a festői Teraja-vízesés.",
-        "Ez a környék egyik legjobb helyszíne a lepkemegfigyelésre.",
-        "A hegy lenyűgöző kilátást nyújt a tőzeglápokra."
-      ],
-      ro: [
-        "Drumeția spre vârf necesită adesea un ghid local.",
-        "În apropiere se află pitoreasca cascadă Teraja.",
-        "Este una dintre cele mai bune zone pentru observarea fluturilor.",
-        "Muntele oferă o priveliște uluitoare asupra turbăriilor."
-      ],
-      en: [
-        "The hike to the summit often requires a local guide.",
-        "Nearby is the picturesque Teraja Waterfall.",
-        "It is one of the best areas for butterfly watching.",
-        "The mountain offers a breathtaking view over the peat bogs."
-      ]
-    }, image: "/poi-images/bn-bukit-teraja-nature-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Bukit Teraja ist ein 1.000 Meter hoher Berg im Belait-Distrikt, der höchste Punkt im Distrikt. Der Berg ist Teil des Teraja-Schutzgebiets und von primärem Dipterocarp-Wald bedeckt. Die Besteigung erfordert eine mehrtägige Wanderung durch dichten Dschungel. Der Gipfel bietet Panoramablicke auf die Küste und das Landesinnere. Die Region ist bekannt für ihre Artenvielfalt, darunter der Borneo-Zwergelefant. Der Berg hat kulturelle Bedeutung für die lokalen Penan-Gemeinschaften. Es gibt keine touristische Infrastruktur.",
-      hu: "A Bukit Teraja egy 1000 méter magas hegy Belait körzetben, a körzet legmagasabb pontja. A hegyet elsődleges dipterokarpusz erdő borítja. A csúcs megmászása többnapos túrát igényel a sűrű dzsungelen keresztül. A hegy a borneói törpe elefánt élőhelye. A helyi penan közösségek számára szent hely. A hegyen nincsenek turistalétesítmények. A kilátás a csúcsról lenyűgöző, a tengerpartra és a belső területekre is rálátni.",
-      ro: "Bukit Teraja este un munte de 1.000 m înălțime în districtul Belait, cel mai înalt punct al districtului. Acoperit de pădure primară de dipterocarpi, ascensiunea necesită mai multe zile de drumeție. Muntele găzduiește elefantul pitic din Borneo. Are semnificație spirituală pentru comunitățile Penan. Nu există infrastructură turistică. De pe vârf se vede coasta și interiorul insulei.",
-      en: "Bukit Teraja, the highest point in Belait district at 1,000 m, is covered in primary dipterocarp forest. Climbing the peak requires multi-day treks through dense jungle. The mountain is habitat for the Bornean pygmy elephant. It holds spiritual significance for the Penan people. No tourist facilities exist. The summit offers panoramic views of the coastline and inland rainforest.",
-    },
-    factsAdvanced: {
-      de: ["Höhe: 1.000 m über dem Meeresspiegel", "Höchster Punkt im Belait-Distrikt", "Wanderdauer zum Gipfel: 2-3 Tage", "Vorkommende Großsäuger: Borneo-Zwergelefant", "Jährliche Niederschlagsmenge: über 3.500 mm", "Kulturelle Bedeutung: heilig für Penan"],
-      hu: ["Magasság: 1000 m", "Belait körzet legmagasabb pontja", "Túra időtartama: 2-3 nap", "Nagyemlősök: borneói törpe elefánt", "Éves csapadék: több mint 3500 mm", "Kulturális jelentőség: szent a penanok számára"],
-      ro: ["Altitudine: 1.000 m", "Cel mai înalt punct din districtul Belait", "Durata drumeției: 2-3 zile", "Mamifere mari: elefantul pitic din Borneo", "Precipitații anuale: peste 3.500 mm", "Semnificație culturală: sacru pentru Penan"],
-      en: ["Height: 1,000 m above sea level", "Highest point in Belait district", "Hiking duration: 2-3 days", "Large mammals: Bornean pygmy elephant", "Annual rainfall: over 3,500 mm", "Cultural significance: sacred to Penan"],
-    },
-  },
-  {
+    {
     id: "bn-temburong-river-nature-v2",
     type: "river",
     parent: "BN-TE",

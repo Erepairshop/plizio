@@ -2,42 +2,7 @@
 import type { POI } from "./poi";
 
 export const poiExtraSurinameLandmarksV2: POI[] = [
-  {
-    id: "fort-zeelandia-landmarks-v2",
-    type: "landmark",
-    parent: "SR-XX",
-    coords: [-55.15, 5.8256],
-    name: {
-      de: "Fort Zeelandia",
-      hu: "Fort Zeelandia",
-      ro: "Fortul Zeelandia",
-      en: "Fort Zeelandia"},
-    image: "/poi-images/fort-zeelandia-landmarks-v2.webp",
-    description: {
-      de: "Eine historische Festung in Paramaribo, die im 17. Jahrhundert erbaut wurde.",
-      hu: "Egy történelmi erőd Paramaribóban, amely a 17. században épült.",
-      ro: "O fortăreață istorică din Paramaribo, construită în secolul al XVII-lea.",
-      en: "A historic fortress in Paramaribo, built in the 17th century."
-    },
-    descriptionAdvanced: {
-      de: "Das Fort Zeelandia ist das wohl markanteste historische Bauwerk in Paramaribo. Ursprünglich als französischer Handelsposten gegründet, wurde es im Laufe der Zeit von den Niederländern erweitert und massiv befestigt. Heute beherbergt es das Suriname-Museum, das tiefgreifende Einblicke in die koloniale Vergangenheit und den Kampf um die nationale Unabhängigkeit gewährt. Die Festung dient nicht nur als touristisches Ziel, sondern auch als mahnendes Denkmal der surinamischen Geschichte. Der weite Blick über den Suriname-Fluss unterstreicht die strategische Bedeutung, die der Ort über Jahrhunderte hinweg für den Handel und die Verteidigung der Kolonie innehatte.",
-      hu: "A Fort Zeelandia Paramaribo legkiemelkedőbb történelmi építménye. Eredetileg francia kereskedelmi állomásként alapították, később a hollandok bővítették és masszívan megerősítették. Ma a Suriname Múzeumnak ad otthont, amely mélyreható betekintést nyújt a gyarmati múltba és a nemzeti függetlenségért folytatott küzdelembe. Az erőd nemcsak turisztikai célpont, hanem Suriname történelmének emlékműve is. A Suriname-folyóra nyíló panoráma aláhúzza azt a stratégiai fontosságot, amelyet a hely évszázadokon keresztül betöltött a gyarmat kereskedelme és védelme szempontjából.",
-      ro: "Fortul Zeelandia este probabil cea mai marcantă structură istorică din Paramaribo. Fondat inițial ca un punct comercial francez, a fost ulterior extins și fortificat masiv de către olandezi. Astăzi găzduiește Muzeul Surinamului, care oferă perspective profunde asupra trecutului colonial și a luptei pentru independența națională. Fortăreața servește nu doar ca destinație turistică, ci și ca un monument care amintește de istoria surinameză. Priveliștea vastă asupra râului Surinam subliniază importanța strategică pe care acest loc a deținut-o timp de secole pentru comerțul și apărarea coloniei.",
-      en: "Fort Zeelandia is arguably the most striking historical structure in Paramaribo. Originally founded as a French trading post, it was later expanded and massively fortified by the Dutch. Today it houses the Suriname Museum, which provides deep insights into the colonial past and the struggle for national independence. The fortress serves not only as a tourist destination but also as a sobering monument of Surinamese history. The vast view over the Suriname River underscores the strategic importance that this place held for centuries for the trade and defense of the colony."
-    },
-    facts: {
-      de: ["Ursprünglich ein französischer Posten.", "Später von den Briten ausgebaut.", "Heute ein Museum.", "Befindet sich am Suriname-Fluss."],
-      hu: ["Eredetileg francia állomás volt.", "Később a britek bővítették.", "Ma múzeumként működik.", "A Suriname-folyó partján található."],
-      ro: ["Inițial un post francez.", "Mai târziu extins de britanici.", "Astăzi funcționează ca muzeu.", "Situat pe râul Suriname."],
-      en: ["Originally a French post.", "Later expanded by the British.", "Today it operates as a museum.", "Located on the Suriname River."]
-    },
-    factsAdvanced: {
-      de: ["Das Fort diente über Jahrhunderte als Verwaltungszentrum der Kolonie.", "Während der Militärdiktatur wurde es als Gefängnis genutzt.", "Die alten Mauern bieten einen einzigartigen Einblick in die Militärarchitektur der Region.", "Ein Spaziergang durch das Fort ist eine Reise durch die gesamte koloniale Zeit Surinames."],
-      hu: ["Az erőd évszázadokon át a gyarmat közigazgatási központjaként szolgált.", "A katonai diktatúra idején börtönként használták.", "Az ősi falak egyedülálló betekintést nyújtanak a régió katonai építészetébe.", "Az erődben tett séta egy utazás Suriname teljes gyarmati történelmén keresztül."],
-      ro: ["Fortul a servit timp de secole ca centru administrativ al coloniei.", "În timpul dictaturii militare a fost folosit ca închisoare.", "Vechi ziduri oferă o perspectivă unică asupra arhitecturii militare a regiunii.", "O plimbare prin fort este o călătorie prin întreaga perioadă colonială a Surinamului."],
-      en: ["The fort served as the administrative center of the colony for centuries.", "During the military dictatorship, it was used as a prison.", "The old walls offer a unique insight into the military architecture of the region.", "A walk through the fort is a journey through the entire colonial period of Suriname."]
-    }, image: "/poi-images/fort-zeelandia-landmarks-v2.webp"},
-  {
+    {
     id: "st-peter-paul-cathedral-landmarks-v2",
     type: "landmark",
     parent: "SR-XX",

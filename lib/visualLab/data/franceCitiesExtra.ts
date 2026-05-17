@@ -110,32 +110,7 @@ const citySeeds: CitySeed[] = [
     },
     image: "/poi-images/nimes.webp",
   },
-  {
-    id: "clermont-ferrand",
-    parent: "FR-ARA",
-    coords: [3.0870, 45.7772],
-    name: { de: "Clermont-Ferrand", hu: "Clermont-Ferrand", ro: "Clermont-Ferrand", en: "Clermont-Ferrand" },
-    description: {
-      de: "Clermont-Ferrand liegt am Rand des Zentralmassivs und ist als Heimat von Michelin und als Tor zu den Vulkanen der Auvergne bekannt.",
-      hu: "Clermont-Ferrand a Közép-franciaországi-hegység peremén fekszik, és a Michelin otthonaként, valamint az auvergne-i vulkánok kapujaként ismert.",
-      ro: "Clermont-Ferrand se află la marginea Masivului Central și este cunoscut ca sediu Michelin și poartă spre vulcanii din Auvergne.",
-      en: "Clermont-Ferrand sits at the edge of the Massif Central and is known as the home of Michelin and the gateway to Auvergne's volcanoes.",
-    },
-    descriptionAdvanced: {
-      de: "Clermont-Ferrand liegt im Herzen der Auvergne am Fuße der Chaîne des Puys, einer Kette von über 80 erloschenen Vulkanen, die zum UNESCO-Welterbe gehören. Die Stadt entstand durch die Zusammenlegung der rivalisierenden Städte Clermont und Montferrand im Jahr 1630 durch das Edikt von Troyes. Das markanteste Wahrzeichen ist die Kathedrale Notre-Dame-de-l'Assomption, die im 13. Jahrhundert aus schwarzem Lavastein erbaut wurde und mit ihren dunklen Türmen das Stadtbild dominiert. Clermont-Ferrand ist weltweit als Hauptsitz des Reifenherstellers Michelin bekannt, der hier 1889 gegründet wurde und die wirtschaftliche Entwicklung maßgeblich prägte. Die Stadt ist zudem der Geburtsort des berühmten Mathematikers und Philosophen Blaise Pascal, nach dem die örtliche Universität benannt ist. Jedes Jahr findet hier das weltweit bedeutendste Festival für Kurzfilme statt, was die kulturelle Bedeutung der Stadt unterstreicht. Die Kombination aus vulkanischer Natur, industrieller Geschichte und studentischem Leben macht die Stadt zu einem einzigartigen Zentrum im Zentralmassiv.",
-      hu: "Clermont-Ferrand az Auvergne régió szívében, a Chaîne des Puys lábánál fekszik, amely több mint 80 kialudt vulkán láncolata, és az UNESCO Világörökség része. A település Clermont és Montferrand rivális városok 1630-as egyesülésével jött létre a troyes-i ediktum nyomán. Legmeghatározóbb jelképe a Notre-Dame-de-l'Assomption-székesegyház, amely a 13. században épült fekete vulkáni kőzetből, sötét tornyaival uralva a városképet. Clermont-Ferrand világszerte a Michelin gumiabroncsgyár székhelyeként ismert, amelyet 1889-ben alapítottak itt, meghatározva a régió gazdasági fejlődését. A város emellett a híres matematikus és filozófus, Blaise Pascal szülőhelye, akinek nevét a helyi egyetem is viseli. Minden évben itt rendezik meg a világ legfontosabb rövidfilmfesztiválját, ami kiemeli a város kulturális jelentőségét. A vulkanikus természet, az ipari múlt és a pezsgő diákélet kombinációja egyedülálló központtá teszi a települést a Francia-középhegységben.",
-      ro: "Clermont-Ferrand este situat în inima regiunii Auvergne, la poalele Chaîne des Puys, un lanț de peste 80 de vulcani stinși inclus în patrimoniul mondial UNESCO. Orașul a fost creat prin fuziunea orașelor rivale Clermont și Montferrand în 1630, prin edictul de la Troyes. Cel mai proeminent reper este Catedrala Notre-Dame-de-l'Assomption, construită în secolul al XIII-lea din piatră de lavă neagră, ale cărei turnuri întunecate domină panorama urbană. Clermont-Ferrand este cunoscut la nivel mondial ca sediu central al producătorului de anvelope Michelin, fondat aici în 1889, marcând decisiv dezvoltarea economică a regiunii. Orașul este, de asemenea, locul de naștere al celebrului matematician și filozof Blaise Pascal, a cărui nume este purtat de universitatea locală. Anual, aici are loc cel mai important festival de scurtmetraje din lume, subliniind relevanța culturală a orașului. Combinația de natură vulcanică, istorie industrială și viață studențească face din acest oraș un centru unic în Masivul Central.",
-      en: "Clermont-Ferrand is situated in the heart of the Auvergne region at the foot of the Chaîne des Puys, a chain of over 80 extinct volcanoes listed as a UNESCO World Heritage site. The city was formed by the merger of the rival towns Clermont and Montferrand in 1630 under the Edict of Troyes. Its most striking landmark is the Cathedral of Our Lady of the Assumption, constructed in the 13th century from black lava stone, with its dark spires dominating the skyline. Clermont-Ferrand is globally famous as the headquarters of the tire manufacturer Michelin, which was founded here in 1889 and significantly shaped the region's economic growth. The city is also the birthplace of the renowned mathematician and philosopher Blaise Pascal, after whom the local university is named. Every year, it hosts the world's most prestigious short film festival, highlighting its cultural importance. The mix of volcanic surroundings, industrial heritage, and vibrant student life makes it a unique hub in the Massif Central.",
-    },
-    factsAdvanced: {
-      de: ["1630 aus zwei Städten vereint", "Kathedrale aus schwarzem Lavastein", "Hauptsitz von Michelin (seit 1889)", "Geburtsort von Blaise Pascal", "Chaîne des Puys (Vulkankette) nahbei", "Internationales Kurzfilmfestival"],
-      hu: ["1630-ban egyesült két városból", "Fekete vulkáni kőből épült katedrális", "A Michelin székhelye (1889 óta)", "Blaise Pascal szülőhelye", "Chaîne des Puys vulkánlánc a közelben", "Nemzetközi rövidfilmfesztivál"],
-      ro: ["Unit din două orașe în 1630", "Catedrală construită din lavă neagră", "Sediul Michelin (din 1889)", "Locul de naștere al lui Blaise Pascal", "Chaîne des Puys (lanț vulcanic) aproape", "Festival internațional de scurtmetraj"],
-      en: ["Merged from two cities in 1630", "Cathedral built from black lava stone", "Michelin headquarters (since 1889)", "Birthplace of Blaise Pascal", "Near Chaîne des Puys volcanic chain", "International Short Film Festival"],
-    },
-    image: "/poi-images/clermont-ferrand.webp",
-  },
-  {
+    {
     id: "brest",
     parent: "FR-BRE",
     coords: [-4.4861, 48.3904],

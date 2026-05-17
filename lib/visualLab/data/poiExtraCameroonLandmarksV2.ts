@@ -92,37 +92,7 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
       en: ["National stadium", "60,000 capacity", "Yaounde location", "Modern sporting hub"]
     }
   },
-  {
-    id: "reunification-monument-landmarks-v2",
-    type: "landmark",
-    parent: "CM-CE",
-    coords: [11.512, 3.856],
-    name: {
-      de: "Wiedervereinigungsdenkmal",
-      hu: "Újraegyesítési Emlékmű",
-      ro: "Monumentul Reunificării",
-      en: "Reunification Monument"},
-    image: "/poi-images/reunification-monument-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "Das Wiedervereinigungsdenkmal ist ein zentrales nationales Wahrzeichen in Yaoundé, das an den Zusammenschluss der beiden Regionen erinnert. Die spiralförmige Architektur ist ein markantes Symbol für die Geschichte und Einheit Kameruns. Geschichte K8 — Nationalstaat."
-    },
-    factsAdvanced: {
-      de: ["Zentrales nationales Wahrzeichen in Yaoundé.", "Symbol für die nationale Einheit Kameruns.", "Markante, spiralförmige Architektur.", "Erinnert an die Wiedervereinigung des Landes.", "Wichtiger Schauplatz bei Staatsakten.", "Symbol der modernen kamerunischen Identität."]
-    },
-    description: {
-      de: "Das Reunification Monument ist eines der wichtigsten Symbole der kamerunischen Einheit. Es steht in Yaounde und erinnert an die Vereinigung von 1961.",
-      hu: "A reunifikációs emlékmű Yaoundé modern szimbóluma. A keleti és nyugati Kamerun egyesülését idézi.",
-      ro: "Monumentul Reunificării este un simbol central al statului camerunez. Sculptura urbană amintește de unirea teritoriilor istorice ale țării.",
-      en: "The Reunification Monument is an iconic statue in Yaounde that symbolizes the joining of Cameroon's diverse colonial histories into one nation."
-    },
-    facts: {
-      de: ["in Yaounde", "Symbol der Einheit", "Bezug auf 1961"],
-      hu: ["egyesülési emlékmű", "Yaoundéban áll", "nemzeti szimbólum"],
-      ro: ["în Yaoundé", "simbol național", "legat de reunificare"],
-      en: ["Iconic national statue", "Yaounde symbol", "National unity theme", "Tourist landmark"]
-    }
-  },
-  {
+    {
     id: "national-museum-landmarks-v2",
     type: "landmark",
     parent: "CM-CE",
@@ -152,37 +122,7 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
       en: ["Former presidential palace", "Located in Yaounde", "Cultural artifacts hub", "Premier national museum"]
     }
   },
-  {
-    id: "douala-cathedral-landmarks-v2",
-    type: "landmark",
-    parent: "CM-LT",
-    coords: [9.686, 4.043],
-    name: {
-      de: "Kathedrale St. Peter und Paul",
-      hu: "Szent Péter és Pál Katedrális",
-      ro: "Catedrala Sf. Petru și Pavel",
-      en: "St. Peter and Paul Cathedral"},
-    image: "/poi-images/douala-cathedral-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Kathedrale von Douala ist ein bedeutendes religiöses und historisches Bauwerk in der Metropole Douala. Mit ihrer markanten Fassade und ihrem zentralen Standort ist sie ein Ankerpunkt im kulturellen und religiösen Leben der Stadt. Religion K7 — Architektur."
-    },
-    factsAdvanced: {
-      de: ["Wichtiges religiöses Gebäude in Douala.", "Spirituelles Zentrum für die Küstenregion.", "Markante Architektur im Stadtbild.", "Historisch bedeutendes Gotteshaus.", "Treffpunkt für die katholische Gemeinde.", "Architektonisches Wahrzeichen der Stadt."]
-    }, image: "/poi-images/douala-cathedral-landmarks-v2.webp",
-    description: {
-      de: "Die Kathedrale von Douala ist ein wichtiges religiöses Bauwerk in der Wirtschaftsmetropole. Sie gehört zu den bekanntesten Kirchen der Stadt.",
-      hu: "A doualai katedrális a város fő katolikus templomai közé tartozik. A belváros vallási arculatának fontos része.",
-      ro: "Catedrala din Douala este unul dintre reperele religioase ale celui mai mare oraș camerunez. Edificiul are o prezență puternică în peisajul urban.",
-      en: "The Cathedral of St. Peter and St. Paul in Douala is a grand and historic church, reflecting the deep-rooted influence of Catholicism in the coastal city."
-    },
-    facts: {
-      de: ["in Douala", "katholische Kathedrale", "städtisches Wahrzeichen"],
-      hu: ["Douala belvárosa", "katolikus katedrális", "városi vallási pont"],
-      ro: ["în Douala", "catedrală catolică", "reper al centrului"],
-      en: ["Douala coastal city", "Colonial era origin", "Major Catholic seat", "Grand architectural design"]
-    }
-  },
-  {
+    {
     id: "japoma-stadium-landmarks-v2",
     type: "landmark",
     parent: "CM-LT",

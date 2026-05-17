@@ -254,43 +254,7 @@ export const poiExtraChinaLandmarksV2: POI[] = [
       en: []
     }
   },
-  {
-    id: "li-river-landmarks-v2",
-    type: "tourist-attraction",
-    parent: "CN-GX",
-    coords: [110.29, 25.27],
-    name: {
-      de: "Li-Fluss",
-      hu: "Li-folyó",
-      ro: "Râul Li",
-      en: "Li River"},
-    image: "/poi-images/li-river-landmarks-v2.webp",
-    description: {
-      de: "Ein Fluss in der Autonomen Region Guangxi Zhuang, berühmt für seine Karsthügel-Landschaft.",
-      hu: "A Kuanghszi-Csuang Autonóm Területen található folyó, amely a karszthegyekről híres.",
-      ro: "Un râu în Regiunea Autonomă Guangxi Zhuang, renumit pentru peisajul său cu dealuri carstice.",
-      en: "A river in Guangxi Zhuang Autonomous Region, famous for its karst mountain landscape."
-    },
-    facts: {
-      de: ["Die Landschaft inspirierte viele chinesische Dichter und Maler.", "Eine Kreuzfahrt auf dem Fluss ist eine beliebte Touristenattraktion.", "Abgebildet auf der 20-Yuan-Note."],
-      hu: ["A táj számos kínai költőt és festőt ihletett.", "A folyami hajókirándulás népszerű turisztikai attrakció.", "A 20 jüanos bankjegyen szerepel."],
-      ro: ["Peisajul a inspirat mulți poeți și pictori chinezi.", "O croazieră pe râu este o atracție turistică populară.", "Reprezentat pe bancnota de 20 de yuani."],
-      en: ["The scenery inspired many Chinese poets and painters.", "A cruise on the river is a popular tourist attraction.", "Featured on the 20 yuan note."]
-    }, image: "/poi-images/li-river-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Li-Fluss in der Autonomen Region Guangxi Zhuang bietet eine der spektakulärsten Karstlandschaften der Erde und gilt als Inbegriff der klassischen chinesischen Schönheit. Auf seinem 83 Kilometer langen Abschnitt zwischen Guilin und Yangshuo windet sich der Fluss durch ein Meer von bizarren Kalksteingipfeln, üppigen Bambushainen und malerischen Bauerndörfern. Diese Landschaft hat über Jahrhunderte zahllose chinesische Dichter und Maler inspiriert und findet sich heute sogar auf der 20-Yuan-Banknote wieder. Eine Fahrt auf dem Li-Fluss offenbart ikonische Aussichten wie das 'Gelbe Tuch', wo sich die Berge im klaren Wasser spiegeln, oder die Szenerie bei Xingping. Trotz seiner Beliebtheit als Touristenziel bewahrt der Fluss eine fast mystische Ruhe, besonders wenn der Morgennebel die Gipfel umhüllt. Die Kombination aus sanft fließendem Wasser und schroffen Felsformationen macht den Li-Fluss zu einem unverzichtbaren Ziel für Naturliebhaber und Fotografen.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Der Li-Fluss entspringt am Mao'er-Berg und legt insgesamt eine Strecke von 437 Kilometern zurück.", "Die Karstberge entstanden vor etwa 200 Millionen Jahren aus urzeitlichen Meeresablagerungen.", "Eine Flusskreuzfahrt von Guilin nach Yangshuo dauert in der Regel etwa 4 bis 5 Stunden.", "Kormoranfischerei ist eine traditionelle Methode, die am Li-Fluss noch heute demonstriert wird.", "Die Szenerie bei Xingping ist das offizielle Motiv auf der Rückseite des 20-Yuan-Scheins.", "Entlang des Flusses wachsen dichte Wälder aus 'Guilin-Bambus', der besonders biegsam ist.", "Der Fluss dient seit über 2.000 Jahren als wichtiger Transportweg in Südchina.", "In den Dörfern am Ufer wird heute noch oft auf traditionelle Weise Reis und Obst angebaut."],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
+    {
     id: "jade-dragon-snow-mountain-landmarks-v2",
     type: "landmark",
     parent: "CN-YN",
@@ -542,43 +506,7 @@ export const poiExtraChinaLandmarksV2: POI[] = [
       en: []
     }
   },
-  {
-    id: "west-lake-landmarks-v2",
-    type: "tourist-attraction",
-    parent: "CN-ZJ",
-    coords: [120.14, 30.24],
-    name: {
-      de: "Westsee",
-      hu: "Nyugati-tó",
-      ro: "Lacul de Vest",
-      en: "West Lake"},
-    image: "/poi-images/west-lake-landmarks-v2.webp",
-    description: {
-      de: "Ein Süßwassersee in Hangzhou, bekannt für seine natürliche Schönheit und historischen Relikte.",
-      hu: "Édesvízi tó Hangcsouban, amely természeti szépségéről és történelmi emlékeiről ismert.",
-      ro: "Un lac de apă dulce în Hangzhou, renumit pentru frumusețea sa naturală și relicvele istorice.",
-      en: "A freshwater lake in Hangzhou, known for its natural beauty and historic relics."
-    },
-    facts: {
-      de: ["Hat zahlreiche Tempel, Pagoden und Gärten um den See.", "Hat chinesische Dichter und Maler seit Jahrhunderten beeinflusst.", "UNESCO-Weltkulturerbe."],
-      hu: ["Számos templom, pagoda és kert veszi körül.", "Évszázadok óta hatással van a kínai költőkre és festőkre.", "Az UNESCO Világörökség része."],
-      ro: ["Are numeroase temple, pagode și grădini în jurul lacului.", "A influențat poeți și pictori chinezi de secole.", "Sit al Patrimoniului Mondial UNESCO."],
-      en: ["Has numerous temples, pagodas, and gardens around the lake.", "Has influenced Chinese poets and painters for centuries.", "A UNESCO World Heritage Site."]
-    }, image: "/poi-images/west-lake-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Westsee (Xihu) in Hangzhou ist der Inbegriff klassischer chinesischer Schönheit und ein Meisterwerk der Landschaftsgestaltung. Seit Jahrhunderten inspiriert dieser künstlich angelegte See Dichter, Philosophen und Maler und diente als Vorbild für Gärten in ganz Ostasien. Die Anlage ist geprägt durch ihre harmonische Dreiteilung durch Dämme, wie den Su-Damm und den Bai-Damm, sowie durch zahlreiche Pavillons, Pagoden und künstliche Inseln. Berühmt sind die 'Zehn Aussichten des Westsees', wie der 'Leifeng-Turm im Abendrot' oder 'Drei Teiche spiegeln den Mond'. Der See ist nicht nur ein Ort der Ruhe und Ästhetik, sondern auch ein Zentrum der Teekultur, da der berühmte Longjing-Tee in den umliegenden Hügeln wächst. Als UNESCO-Weltkulturerbe verkörpert der Westsee das Ideal der Verschmelzung von Mensch und Natur und bleibt eines der beliebtesten und meistfotografierten Reiseziele in China.",
-      hu: "",
-      ro: "",
-      en: ""
-    },
-    factsAdvanced: {
-      de: ["Der Westsee wurde 2011 zum UNESCO-Weltkulturerbe erklärt.", "Er erstreckt sich über eine Fläche von etwa 6,5 Quadratkilometern.", "Die durchschnittliche Tiefe des Sees beträgt lediglich 2,27 Meter.", "Der Su-Damm ist fast 3 Kilometer lang und hat sechs Brücken im traditionellen Stil.", "Drei kleine Steinpagoden im See sind das Motiv auf der Rückseite des 1-Yuan-Scheins.", "Die Pagode der Sechs Harmonien und die Leifeng-Pagode sind wichtige Landmarken am Ufer.", "Marco Polo bezeichnete Hangzhou wegen des Westsees als die 'schönste Stadt der Welt'.", "Jährlich findet auf dem See eine beeindruckende Licht- und Musikshow von Zhang Yimou statt."],
-      hu: [],
-      ro: [],
-      en: []
-    }
-  },
-  {
+    {
     id: "mount-tai-landmarks-v2",
     type: "icon",
     parent: "CN-SD",

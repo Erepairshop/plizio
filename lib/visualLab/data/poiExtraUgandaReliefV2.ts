@@ -2,26 +2,7 @@
 import type { POI } from "./poi";
 
 export const poiExtraUgandaReliefV2: POI[] = [
-  {
-    id: "rwenzori-mountains-relief-v2",
-    type: "mountain",
-    parent: "UG-405",
-    coords: [29.87, 0.38],
-    name: { de: "Rwenzori-Gebirge", hu: "Rwenzori-hegység", ro: "Munții Rwenzori", en: "Rwenzori Mountains"},
-    image: "/poi-images/rwenzori-mountains-relief-v2.webp",
-    description: {
-      de: "Ein mächtiges äquatoriales Gebirge, berühmt für seine schneebedeckten Gipfel.",
-      hu: "Hatalmas egyenlítői hegység, híres hófödte csúcsairól.",
-      ro: "Un munte ecuatorial impunător, celebru pentru vârfurile sale acoperite de zăpadă.",
-      en: "A mighty equatorial mountain range, famous for its snow-capped peaks."
-    },
-    facts: {
-      de: ["Auch als 'Mondberge' bekannt.", "Beheimatet den dritthöchsten Gipfel Afrikas."],
-      hu: ["'Holdhegyek' néven is ismert.", "Itt található Afrika harmadik legmagasabb csúcsa."],
-      ro: ["Cunoscut și sub numele de 'Munții Lunii'.", "Găzduiește al treilea cel mai înalt vârf din Africa."],
-      en: ["Also known as the 'Mountains of the Moon'.", "Home to Africa's third-highest peak."]
-    }, image: "/poi-images/rwenzori-mountains-relief-v2.webp"},
-  {
+    {
     id: "mount-elgon-relief-v2",
     type: "mountain",
     parent: "UG-102",
@@ -91,39 +72,7 @@ export const poiExtraUgandaReliefV2: POI[] = [
       en: ["The Albertine Rift is 1,200 km long.", "Lake Tanganyika is 1,470 m deep.", "Over 500 fish species are endemic to the rift.", "The rift is 30-40 km wide.", "Lake Albert covers 5,300 km².", "Annual rainfall ranges from 1,000 to 1,500 mm."],
     },
   },
-  {
-    id: "mount-kadam-relief-v2",
-    type: "mountain",
-    parent: "UG-501",
-    coords: [34.7, 1.8],
-    name: { de: "Mount Kadam", hu: "Kadam-hegy", ro: "Muntele Kadam", en: "Mount Kadam"},
-    image: "/poi-images/mount-kadam-relief-v2.webp",
-    description: {
-      de: "Ein markantes vulkanisches Massiv in der Karamoja-Region.",
-      hu: "Jellegzetes vulkáni masszívum a Karamoja régióban.",
-      ro: "Un masiv vulcanic proeminent în regiunea Karamoja.",
-      en: "A prominent volcanic massif in the Karamoja region."
-    },
-    facts: {
-      de: ["Erhebt sich steil aus der umgebenden Ebene.", "Ein wichtiges Wahrzeichen im Nordosten."],
-      hu: ["Meredeken emelkedik ki a környező síkságból.", "Fontos tereptárgy északkeleten."],
-      ro: ["Se ridică abrupt din câmpia înconjurătoare.", "Un reper important în nord-est."],
-      en: ["Rises steeply from the surrounding plains.", "An important landmark in the northeast."]
-    }, image: "/poi-images/mount-kadam-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Mount Kadam ist ein erloschener Vulkan im Osten Ugandas an der Grenze zu Kenia. Mit 3.063 m ist er einer der niedrigeren Berge der Region, aber dennoch markant. Der Berg ist Teil des Kadam-Nationalparks, der 1996 gegründet wurde. Die Vegetation reicht von Trockenwäldern bis zu alpinen Grasländern. Die Region ist Lebensraum für Elefanten, Büffel und Leoparden. Der Berg hat eine bedeutende kulturelle Bedeutung für die lokale Gemeinschaft der Karamojong.",
-      hu: "A Mount Kadam egy kialudt vulkán, magassága 3.063 m. A Kadam Nemzeti Park területe 765 km². A hegy a Karamojong-régióban található. A növényzet száraz erdők és szavannák keveréke. A park számos nagyvadnak ad otthont, mint az elefánt és a nádibivaly. A hegy fontos vízgyűjtő terület. A helyi törzsek szent hegyként tartják számon.",
-      ro: "Muntele Kadam este un vulcan stins din estul Ugandei, cu altitudinea de 3.063 m. Parcul Național Kadam, înființat în 1996, acoperă 765 km². Vegetația include păduri uscate și pășuni alpine. Fauna include elefanți, bivoli și leoparzi. Muntele este considerat sacru de către poporul Karamojong. Clima este semi-aridă, cu precipitații anuale de 500-800 mm.",
-      en: "Mount Kadam is an extinct volcano in eastern Uganda, rising to 3,063 m. It is part of the Kadam National Park, which protects a unique dryland ecosystem. The mountain is an important water catchment area. Its slopes are covered with dry montane forest and bamboo. Birdlife includes the endangered Lammergeier. The Kadam area is also home to the Karamojong pastoralists. Tourism is limited due to remoteness.",
-    },
-    factsAdvanced: {
-      de: ["Der Mount Kadam ist 3.063 m hoch.", "Der Kadam-Nationalpark wurde 1996 gegründet.", "Die Parkfläche beträgt 765 km².", "Der Berg beheimatet Elefanten und Leoparden.", "Die jährliche Niederschlagsmenge beträgt 500-800 mm.", "Der Mount Kadam ist ein erloschener Vulkan."],
-      hu: ["A Mount Kadam 3.063 m magas.", "A Kadam Nemzeti Park 765 km²-es.", "A parkot 1996-ban alapították.", "A hegyen elefántok és oroszlánok élnek.", "Az éves csapadék 500-800 mm.", "A Karamojong törzs lakja a környéket."],
-      ro: ["Altitudine: 3.063 m.", "Parcul Național Kadam: 765 km².", "Anul înființării: 1996.", "Faună: elefanți, bivoli, leoparzi.", "Precipitații anuale: 500-800 mm.", "Kadam este un vulcan stins."],
-      en: ["Mount Kadam's elevation is 3,063 m.", "Kadam National Park covers 765 km².", "The park was established in 1996.", "Mammals include elephants, buffalo, and leopards.", "Annual rainfall is 500-800 mm.", "Mount Kadam is an extinct volcano."],
-    },
-  },
-  {
+    {
     id: "mount-moroto-relief-v2",
     type: "mountain",
     parent: "UG-501",

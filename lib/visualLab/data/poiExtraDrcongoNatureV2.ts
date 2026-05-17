@@ -83,34 +83,7 @@ export const poiExtraDrcongoNatureV2: POI[] = [
     
     
   },
-  {
-    id: "virunga-mountains-nature-v2",
-    type: "mountain",
-    parent: "CD-XX",
-    coords: [29.50, -1.50],
-    name: { de: "Virunga-Vulkane", hu: "Virunga-hegység", ro: "Munții Virunga", en: "Virunga Mountains"},
-    image: "/poi-images/virunga-mountains-nature-v2.webp",
-    description: { de: "Die Virunga-Vulkane sind eine Kette imposanter Berge im Osten, die als einer der letzten Rückzugsorte der seltenen Berggorillas bekannt sind.", hu: "Vulkanikus hegylánc Kelet-Afrikában, ahol az ország legmagasabb csúcsai találhatóak.", ro: "Un lanț de opt vulcani maiestuoși, acoperiți de păduri tropicale și zăpezi eterne la altitudini mari.", en: "The Virunga Mountains are a chain of volcanic peaks in the East African Rift, known for their biodiversity and mountain gorillas." },
-    facts: {
-      de: ["Vulkankette", "Grenzregion zu Ruanda und Uganda", "Aktive Vulkane wie der Nyiragongo"],
-      hu: ["A hegység a hegyi gorillák egyik utolsó természetes élőhelye", "Nyolc nagy vulkánból áll, amelyek közül több ma is aktív", "Itt található Afrika legrégebbi nemzeti parkja"],
-      ro: ["Găzduiește gorile de munte", "Munți activi și stinși", "Peisaj montan spectaculos"],
-      en: ["Includes active volcanoes like Nyiragongo", "Highest peak is Mount Karisimbi", "Part of the Virunga National Park"]
-    },
-    descriptionAdvanced: {
-      de: "Die Virunga-Vulkane sind eine Kette von acht Vulkanen im Osten der DR Kongo an der Grenze zu Ruanda und Uganda. Die Region beheimatet die berühmten Berggorillas und ist ein Brennpunkt f?r den Naturschutz im Virunga-Nationalpark. Die geologische Aktivität und die Höhenlage schaffen ein einzigartiges Klima, das die afro-alpine Vegetation gedeihen l?sst. Die Vulkane wie der Nyiragongo sind auch f?r ihre geologischen Ausbr?che bekannt. Erdkunde K8 ? Vulkansysteme und gef?hrdete Arten.",
-      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) virunga-mountains-nature-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
-      ro: "Descriere unică pentru virunga-mountains-nature-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane."
-    },
-    factsAdvanced: {
-      de: ["Kette von acht Vulkanen im ?stlichen Kongobecken.", "Heimat der letzten frei lebenden Berggorillas.", "Nyiragongo ist einer der aktivsten Vulkane weltweit.", "Teil des Virunga-Nationalparks (?lteste Schutzgebiet Afrikas).", "Vulkanische B?den bieten fruchtbares Ackerland in den T?lern.", "Höhenlage erm?glicht afro-alpine Vegetationszonen."],
-      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
-      ro: ["Fapt 1 pentru virunga-mountains-nature-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"]
-    }, image: "/poi-images/virunga-mountains-nature-v2.webp",
-    
-    
-  },
-  {
+    {
     id: "maiko-forest-nature-v2",
     type: "forest",
     parent: "CD-XX",
@@ -299,34 +272,7 @@ export const poiExtraDrcongoNatureV2: POI[] = [
       en: ["The world's second-largest tropical rainforest area.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest."]
     }
   },
-  {
-    id: "salonga-forest-nature-v2",
-    type: "forest",
-    parent: "CD-XX",
-    coords: [21.00, -2.00],
-    name: { de: "Salonga-Nationalpark", hu: "Salonga Nemzeti Park", ro: "Parcul Național Salonga", en: "Salonga National Park"},
-    image: "/poi-images/salonga-forest-nature-v2.webp",
-    description: { de: "Der Salonga-Wald umfasst das größte zusammenhängende Regenwaldschutzgebiet Afrikas und ist von lebenswichtiger Bedeutung für das Weltklima.", hu: "Védett őserdei terület, amely a Salonga Nemzeti Park részét képezi.", ro: "O zonă imensă de pădure umedă, conservată în starea sa naturală, protejată prin statutul de parc național.", en: "The Salonga Forest is a massive area of primary tropical rainforest, forming the heart of the Salonga National Park." },
-    facts: {
-      de: ["Riesiges Waldgebiet", "Heimat bedrohter Arten", "UNESCO-Welterbe"],
-      hu: ["Az érintetlen természet egyik utolsó nagy bástyája", "Számos veszélyeztetett faj, például a bonobó élőhelye", "Kizárólag a folyók mentén, kenuval járható be"],
-      ro: ["Accesibilă doar cu barca", "Refugiu pentru specii amenințate", "Pădure tropicală de câmpie"],
-      en: ["Largest tropical rainforest reserve in Africa", "Critical habitat for the bonobo", "Mostly accessible only by river"]
-    }, image: "/poi-images/salonga-forest-nature-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Salonga-Nationalpark schützt einen der gr??ten zusammenhängenden tropischen Waldkomplexe Afrikas. Das Schutzgebiet liegt tief im Kongobecken und ist nur schwer zugänglich, weil Flüsse, S?mpfe und dichter Prim?rwald das Gelände dominieren. Gerade diese Abgeschiedenheit hat große Teile der Tierwelt bewahrt, darunter Bonobos und der Kongopfau. 1984 wurde der Park als UNESCO-Welterbe anerkannt. F?r den Naturschutz ist er ein Schlüsselraum, weil hier Wald, Wasser und Schutzpolitik direkt zusammenhängen. Natur K8 ? Schutzgebiete des Kongobeckens.",
-      hu: "Ez egy részletes, K7-K8 szintű leírás a(z) salonga-forest-nature-v2 területről, amely kiemeli annak jelentőségét a kongói földrajzi és történelmi tantervben.",
-      ro: "Descriere unică pentru salonga-forest-nature-v2 în contextul Republicii Democrate Congo. Geografie K7 — sisteme fluviale și centre urbane.",
-      en: "Salonga National Park is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. The largest tropical rainforest national park in Africa. Huge national park. Primary forest. Home to endangered species. This natural area reflects the scenic diversity of the DR Congo, from the dense Congo Basin rainforest to the eastern volcanoes and the great lakes. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
-    },
-    factsAdvanced: {
-      de: ["Schutzgebiet von rund 36.000 km?.", "Seit 1984 UNESCO-Welterbe.", "Liegt tief im zentralen Kongobecken.", "Zerf?llt in einen Nord- und einen S?dteil.", "Wichtiger Lebensraum f?r Bonobos und Kongopfau.", "Nur schwer zugänglich wegen Flüssen und S?mpfen."],
-      hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
-      ro: ["Fapt 1 pentru salonga-forest-nature-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
-      en: ["The largest tropical rainforest national park in Africa.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest."]
-    }
-  },
-  {
+    {
     id: "lukuga-river-nature-v2",
     type: "river",
     parent: "CD-XX",

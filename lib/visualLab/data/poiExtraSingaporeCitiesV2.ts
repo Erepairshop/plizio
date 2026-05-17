@@ -758,43 +758,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       en: ["First housing estate in Singapore built entirely on reclaimed land.", "Land reclamation for the area began in the 1960s.", "Home to Parkway Parade, one of the oldest suburban shopping malls.", "Bounded by East Coast Park to the south.", "Known for its proximity to Katong, a center for Peranakan culture.", "Marine Parade Public Library is a major community landmark.", "Represented by Singapore's second Prime Minister, Goh Chok Tong.", "The area is served by the Thomson-East Coast Line."]
     }
   },
-  {
-    id: "sentosa-island-cities-v2",
-    type: "city",
-    parent: "SG-01",
-    coords: [103.823, 1.249],
-    name: {
-      de: "Sentosa Insel",
-      hu: "Szentosa-sziget",
-      ro: "Insula Sentosa",
-      en: "Sentosa Island"},
-    image: "/poi-images/sentosa-island-cities-v2.webp",
-    description: {
-      de: "Eine beliebte Insel-Ferienanlage mit Stränden, Themenparks, einem Casino und Luxushotels.",
-      hu: "Népszerű üdülősziget strandokkal, vidámparkokkal, kaszinóval és luxusszállodákkal.",
-      ro: "O stațiune insulară populară, cu plaje, parcuri tematice, un cazinou și hoteluri de lux.",
-      en: "A popular island resort with beaches, theme parks, a casino, and luxury hotels.",
-    },
-    facts: {
-      de: ["Beherbergt die Universal Studios Singapore.", "Erreichbar mit der Seilbahn, dem Monorail und dem Auto.", "Der Name bedeutet 'Frieden und Ruhe' auf Malaiisch."],
-      hu: ["Itt található a Universal Studios Singapore.", "Megközelíthető kötélpályán, egysínű vasúton és autóval.", "A neve malájul 'békét és nyugalmat' jelent."],
-      ro: ["Găzduiește Universal Studios Singapore.", "Accesibilă cu telecabina, monocabina și mașina.", "Numele înseamnă 'pace și liniște' în malaeză."],
-      en: ["Home to Universal Studios Singapore.", "Accessible by cable car, monorail, and car.", "The name means 'peace and tranquility' in Malay."],
-    }, image: "/poi-images/sentosa-island-cities-v2.webp",
-    descriptionAdvanced: {
-      de: "Sentosa ist Singapurs sichtbarste Freizeitinsel und funktioniert fast wie eine kleine eigene Welt. Zwischen Resorts World Sentosa, Universal Studios Singapore, S.E.A. Aquarium und Fort Siloso trifft Unterhaltung auf Insellandschaft und Küstenraum. Die Strände, die Seilbahn, der Sentosa Express und die Hotelanlagen machen den Ort zu einem sehr klar lesbaren Beispiel für Freizeitentwicklung. Dazu kommen Hotelcluster, Strandpromenaden und eine stark inszenierte Ankunft. Gleichzeitig gibt es hier auch historische Spuren, die an frühere militärische und maritime Funktionen erinnern. Sentosa eignet sich für Geografie K7, Tourismus und die Umnutzung von Inselräumen.",
-      hu: "",
-      ro: "",
-      en: "Sentosa Island is Singapore's premier island resort getaway, located just off the southern coast. Once a British military base known as Pulau Blakang Mati, it was renamed Sentosa, meaning 'peace and tranquility' in Malay, and transformed into a world-class tourism destination. The island features three sandy beaches—Siloso, Palawan, and Tanjong—and numerous attractions including Universal Studios Singapore, S.E.A. Aquarium, and Adventure Cove Waterpark. Sentosa is also home to several high-end resorts, luxury residences at Sentosa Cove, and the award-winning Tanjong and Serapong golf courses. Visitors can access the island via the Sentosa Express monorail, a cable car ride, or a scenic walk across the Sentosa Boardwalk. With its blend of nature, adventure, and entertainment, Sentosa is a must-visit for both locals and international tourists."
-    },
-    factsAdvanced: {
-      de: ["Universal Studios Singapore ist eine der Hauptattraktionen der Insel.", "S.E.A. Aquarium gehört zu den bekannten Großattraktionen.", "Fort Siloso erinnert an die historische Verteidigungsfunktion der Insel.", "Der Sentosa Express verbindet die Insel mit dem Festland.", "Resorts World Sentosa prägt das moderne Freizeitprofil.", "Siloso Beach, Palawan Beach und Tanjong Beach sind die drei bekannten Strände."],
-      hu: [],
-      ro: [],
-      en: ["Name means 'peace and tranquility' in the Malay language.", "Formerly a British military fortress known as Pulau Blakang Mati.", "Home to Universal Studios Singapore, which opened in 2010.", "Features the S.E.A. Aquarium, one of the world's largest aquariums.", "Sentosa Cove is a prestigious waterfront residential enclave.", "Connected to mainland Singapore by a monorail and cable car.", "The island has a total area of about 5 square kilometers.", "Hosted the historic 2018 North Korea–United States summit."]
-    }
-  },
-  {
+    {
     id: "orchard-road-cities-v2",
     type: "city",
     parent: "SG-01",

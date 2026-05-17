@@ -40,45 +40,7 @@ export const poiExtraGambiaHistoryV2: POI[] = [
       en: ["A prominent component of a trans-boundary UNESCO World Heritage Site.", "Consists of precisely arranged circles of carved laterite stone pillars.", "Dates range widely from the 3rd century BC to the 16th century AD.", "Believed to function as sacred burial grounds for ancient nobility.", "Some individual stone pillars weigh several tons, indicating complex engineering.", "Features a dedicated on-site museum explaining ancient quarrying techniques."]
     }
   },
-  {
-    id: "kerbatch-stone-circles-history-v2",
-    type: "historical",
-    parent: "GM-M",
-    coords: [-15.02, 13.75],
-    name: {
-      de: "Steinkreise von Kerbatch",
-      hu: "Kerbatch kőkörei",
-      ro: "Cercurile de piatră de la Kerbatch",
-      en: "Kerbatch Stone Circles"},
-    image: "/poi-images/kerbatch-stone-circles-history-v2.webp",
-    description: {
-      de: "Eine bedeutende Gruppe von Steinkreisen, die für ihren einzigartigen 'V-Stein' oder Doppelsymbol-Stein bekannt ist.",
-      hu: "Jelentős kőkör-csoport, amely az egyedülálló 'V-kő' vagy kettős szimbólumú kő miatt ismert.",
-      ro: "Un grup semnificativ de cercuri de piatră, cunoscut pentru piatra sa unică în formă de \"V\" sau simbol dublu.",
-      en: "A significant group of stone circles known for its unique 'V-stone' or double-symbol stone."
-    },
-    facts: {
-      de: ["Einzigartiger V-förmiger Stein", "Teil der senegambischen Steinkreise"],
-      hu: ["Egyedülálló V-alakú kő", "A szenegambiai kőkörök része"],
-      ro: ["Piatră unică în formă de V", "Parte a cercurilor de piatră senegambiene"],
-      en: ["Unique V-shaped stone", "Part of the Senegambian stone circles"]
-    },
-    
-     image: "/poi-images/kerbatch-stone-circles-history-v2.webp",
-    descriptionAdvanced: {
-      de: "Kerbatch ist ein herausragender Teil der senegambischen Megalith-Stätten und ebenfalls als UNESCO-Welterbe geschützt. Die Stätte ist besonders für ihre Vielfalt an Steinformen bekannt, darunter der berühmte 'V-Stein', der architektonisch einzigartig ist. Die Anlage wurde wahrscheinlich im ersten Jahrtausend n. Chr. als monumentale Grablandschaft erschaffen. Forscher haben hier bei Ausgrabungen neben den riesigen Laterit-Monolithen auch Keramikreste gefunden, die Hinweise auf die Handelsbeziehungen der damaligen Bevölkerung geben. Die Steine wurden aus lokalem Steinbruch-Material gefertigt und über Kilometer transportiert. Geschichte K8 — Frühgeschichte Westafrikas.",
-      hu: "Kerbatch a szenegambiai megalitikus lelőhelyek kiemelkedő része, amelyet szintén az UNESCO Világörökség védelme alatt áll. A helyszín különösen a kőformák változatosságáról híres, köztük a híres 'V-kővel', amely építészetileg egyedülálló. Az építményt valószínűleg az i.sz. első évezredben hozták létre monumentális temetkezési tájként. A régészek az ásatások során a hatalmas laterit monolitok mellett kerámia maradványokat is találtak, amelyek utalnak az akkori lakosság kereskedelmi kapcsolataira. A köveket helyi kőfejtőkből származó anyagból készítették és kilométereken át szállították. Történelem K8 — Nyugat-Afrika őstörténete.",
-      ro: "Kerbatch este o parte remarcabilă a siturilor megalitice senegambiene, protejată de asemenea ca Patrimoniu Mondial UNESCO. Locul este renumit în special pentru varietatea formelor de piatră, inclusiv celebra 'piatră în formă de V', care este unică din punct de vedere arhitectural. Ansamblul a fost probabil creat în primul mileniu d.Hr. ca un peisaj funerar monumental. În timpul săpăturilor, cercetătorii au descoperit aici, pe lângă monoliții imenși de laterit, fragmente de ceramică ce oferă indicii despre relațiile comerciale ale populației de atunci. Pietrele au fost realizate din materiale din cariere locale și transportate pe distanțe de kilometri. Istorie K8 — Preistoria Africii de Vest.",
-      en: "The Kerbatch Stone Circles are another crucial and distinct group of megalithic monuments located on the north bank of the Gambia River. While slightly less visited than Wassu, Kerbatch is famous for its unique 'V-shaped' or 'lyre-shaped' stone, an architectural anomaly not found in other circle complexes in the region. The site contains nine stone circles and one double circle, meticulously carved from laterite rock. Archaeological excavations here have unearthed pottery fragments, copper ornaments, and human remains, painting a vivid picture of a sophisticated, ancient agrarian society that possessed advanced stonemasonry skills long before European contact. (History K7 — archaeological excavations and ancient stonemasonry)"
-    },
-    factsAdvanced: {
-      de: ["Teil des UNESCO-Welterbes", "Bekannt für den 'V-Stein'", "Erste Jahrtausend n. Chr.", "Lokales Laterit-Material", "Monumentale Grablandschaft", "Keramikfunde belegen Handel"],
-      hu: ["Az UNESCO Világörökség része", "Híres a 'V-kőről'", "I.sz. első évezred", "Helyi laterit anyag", "Monumentális temetkezési táj", "Kereskedelemre utaló kerámia leletek"],
-      ro: ["Parte a Patrimoniului Mondial UNESCO", "Cunoscut pentru 'piatra în V'", "Primul mileniu d.Hr.", "Material local de laterit", "Peisaj funerar monumental", "Fragmente ceramice dovedesc comerțul"],
-      en: ["Located on the north bank of the Gambia River in a remote setting.", "Features nine distinct stone circles and one rare double circle.", "Famous for containing a unique, meticulously carved 'V-shaped' (lyre) stone.", "Part of the broader Senegambian Stone Circles UNESCO World Heritage Site.", "Excavations have revealed ancient pottery, copper ornaments, and burials.", "Showcases advanced pre-colonial stonemasonry and societal organization."]
-    }
-  },
-  {
+    {
     id: "fort-bullen-history-v2",
     type: "historical",
     parent: "GM-N",

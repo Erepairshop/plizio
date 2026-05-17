@@ -225,34 +225,7 @@ export const poiExtraTunisiaReliefV2: POI[] = [
       en: ["Gulf area is about 3,000 km².", "Max tidal range is 2.5 m.", "Summer water temperature is 28 °C.", "Annual fish catch is 50,000 tons.", "Kerkennah Islands area is 150 km².", "Average depth is 15 m."],
     },
   },
-  {
-    id: "djebel-orbata-relief-v2",
-    type: "mountain",
-    parent: "TN-05",
-    coords: [8.8, 34.4],
-    name: { de: "Djebel Orbata", hu: "Djebel Orbata", ro: "Djebel Orbata", en: "Djebel Orbata"},
-    image: "/poi-images/djebel-orbata-relief-v2.webp",
-    description: { de: "Ein Gebirgsmassiv in der Region Gafsa.", hu: "Hegyvonulat Gafsa régióban.", ro: "Un masiv muntos în regiunea Gafsa.", en: "A mountain massif in the Gafsa region." },
-    facts: {
-      de: ["Geologisch geprägt von Phosphatvorkommen.", "Trockene Berglandschaft.", "Teil der östlichen Atlasausläufer.", "Wichtiger ökologischer Korridor."],
-      hu: ["Geológiailag foszfátlelőhelyek jellemzik.", "Száraz hegyvidéki táj.", "A keleti Atlasz-hegység része.", "Fontos ökológiai folyosó."],
-      ro: ["Geologic marcat de zăcăminte de fosfați.", "Peisaj montan arid.", "Parte a ramificațiilor estice ale Atlasului.", "Coridor ecologic important."],
-      en: ["Geologically characterized by phosphate deposits.", "Dry mountain landscape.", "Part of the eastern Atlas foothills.", "Important ecological corridor."]
-    }, image: "/poi-images/djebel-orbata-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Djebel Orbata ist ein Berg im südlichen Tunesien, nahe der Stadt Gafsa gelegen. Er hat eine Höhe von etwa 1.200 Metern und besteht aus Kalkstein aus der Kreidezeit. Die Landschaft ist trocken mit spärlicher Vegetation, bestehend aus Halfagras und Dornsträuchern. Der Berg ist bekannt für seine Höhlen und Schluchten, die von temporären Flüssen geformt wurden. Er ist Lebensraum für das Berberwildschaf und Wüstenfüchse. In der Umgebung gibt es prähistorische Felszeichnungen.",
-      hu: "A Djebel Orbata egy hegy Dél-Tunéziában, Gafsa városa közelében. Magassága kb. 1 200 méter, kréta kori mészkőből áll. A táj száraz, gyér növényzettel, félfű és tövises bokrok alkotják. A hegy híres barlangjairól és szurdokairól, melyeket időszakos folyók formáltak. Élőhely a berber muflon és sivatagi rókák számára. A környéken őskori sziklarajzok találhatók.",
-      ro: "Muntele Djebel Orbata este situat în sudul Tunisiei, lângă orașul Gafsa. Are o altitudine de aproximativ 1.200 de metri și este compus din calcar cretacic. Peisajul este uscat, cu vegetație rară compusă din iarbă de jumătate și arbuști spinoși. Muntele este cunoscut pentru peșterile și cheile sale formate de râuri sezoniere. Este habitat pentru muflonul berber și vulpile deșertice. În zonă se găsesc picturi rupestre preistorice.",
-      en: "Djebel Orbata is a mountain in southern Tunisia, rising to 1,200 meters near Gafsa. It consists of Cretaceous limestone and has a rugged terrain with deep wadis. The vegetation is sparse, dominated by esparto grass and thorny bushes adapted to arid conditions. The mountain harbors populations of Barbary sheep and red foxes. Its caves contain prehistoric rock art dating back to the Neolithic period. The area is also known for its ancient Roman water cisterns.",
-    },
-    factsAdvanced: {
-      de: ["Höhe: etwa 1.200 m.", "Der Berg besteht aus Kreide-Kalkstein.", "Die jährliche Niederschlagsmenge beträgt 200 mm.", "Die Berberwildschafpopulation zählt etwa 300 Tiere.", "Die prähistorischen Felszeichnungen sind 5.000 Jahre alt.", "Die römischen Zisternen stammen aus dem 2. Jahrhundert."],
-      hu: ["Magassága kb. 1.200 m.", "A hegy kréta kori mészkőből áll.", "Az éves csapadék 200 mm.", "A berber muflonállomány kb. 300 egyed.", "Az őskori sziklarajzok 5 000 évesek.", "A római ciszternák a 2. századból származnak."],
-      ro: ["Altitudine: aproximativ 1.200 m.", "Muntele este compus din calcar cretacic.", "Precipitațiile anuale sunt de 200 mm.", "Populația de muflon berber este de aproximativ 300 de indivizi.", "Picturile rupestre preistorice au 5.000 de ani.", "Cisternele romane datează din secolul al II-lea."],
-      en: ["Elevation: about 1,200 m.", "Composed of Cretaceous limestone.", "Annual precipitation is 200 mm.", "Barbary sheep population is about 300.", "Prehistoric rock art is 5,000 years old.", "Roman cisterns date from the 2nd century."],
-    },
-  },
-  {
+    {
     id: "kroumirie-gebirge-relief-v2",
     type: "forest",
     parent: "TN-14",
@@ -630,32 +603,5 @@ export const poiExtraTunisiaReliefV2: POI[] = [
       en: ["Elevation: 1,045 meters.", "Rock type: Cretaceous marl and limestone (~100 million years).", "Annual rainfall: about 700 mm.", "Forest area: approximately 80 km².", "Number of springs: over 20 permanent.", "Bird species: over 100 documented."],
     },
   },
-  {
-    id: "djebel-bou-hedma-relief-v2",
-    type: "mountain",
-    parent: "TN-07",
-    coords: [9.5, 34.5],
-    name: { de: "Djebel Bou Hedma", hu: "Djebel Bou Hedma", ro: "Djebel Bou Hedma", en: "Djebel Bou Hedma"},
-    image: "/poi-images/djebel-bou-hedma-relief-v2.webp",
-    description: { de: "Ein Bergmassiv und Nationalpark.", hu: "Hegymasszívum és nemzeti park.", ro: "Un masiv muntos și parc național.", en: "A mountain massif and national park." },
-    facts: {
-      de: ["Heimat seltener Gazellenarten.", "Kombination aus Steppe und Gebirge.", "Hohe Biodiversität.", "Einzigartige Ökologie."],
-      hu: ["Ritka gazellafajok otthona.", "A sztyeppe és a hegység kombinációja.", "Magas biodiverzitás.", "Egyedülálló ökológia."],
-      ro: ["Casă pentru specii rare de gazele.", "Combinație de stepă și munți.", "Biodiversitate ridicată.", "Ecologie unică."],
-      en: ["Home to rare gazelle species.", "Combination of steppe and mountains.", "High biodiversity.", "Unique ecology."]
-    },
-    descriptionAdvanced: {
-      de: "Djebel Bou Hedma ist ein Berg in Zentraltunesien, zwischen Sidi Bouzid und Gafsa gelegen. Mit 1.143 Metern ist er einer der höchsten Punkte der Region. Der Berg ist Teil des Bou-Hedma-Nationalparks, eines Schutzgebiets, das 1980 gegründet wurde. Das Gestein besteht hauptsächlich aus Kalkstein des Eozäns. Das Klima ist semiarid mit etwa 400 mm Niederschlag pro Jahr. Die Vegetation umfasst Halfagras, Akazien und Aleppo-Kiefern. Der Park ist bekannt für die Wiederansiedlung der Mendes-Antilope (Addax) und der Damagazelle. Djebel Bou Hedma bietet Wanderwege und ist ein wichtiges Refugium für bedrohte Arten.",
-      hu: "A Djebel Bou Hedma egy hegy Közép-Tunéziában, Sidi Bouzid és Gafsa között. Magassága 1.143 méter, a régió egyik legmagasabb pontja. A hegy a Bou Hedma Nemzeti Park része, amelyet 1980-ban alapítottak. A hegység eocén mészkőből épül fel. Az éghajlat félszáraz, évi 400 mm csapadékkal. Növényzete félfű, akác és aleppói fenyő. A park híres a mendes-antilop (addax) és a dama-gazella visszatelepítéséről. A hegy túraútvonalakat kínál, és fontos menedék a veszélyeztetett fajok számára.",
-      ro: "Djebel Bou Hedma este un munte din centrul Tunisiei, între Sidi Bouzid și Gafsa. Cu 1.143 de metri, este unul dintre cele mai înalte puncte ale regiunii. Face parte din Parcul Național Bou Hedma, înființat în 1980. Muntele este format din calcar eocen. Clima este semi-aridă, cu precipitații anuale de circa 400 mm. Vegetația include iarba de jumătate, salcâmi și pin de Alep. Parcul este cunoscut pentru reintroducerea antilopei addax și a gazelei dama. Djebel Bou Hedma oferă trasee de drumeție și este un refugiu important pentru specii amenințate.",
-      en: "Djebel Bou Hedma is a mountain in central Tunisia, between Sidi Bouzid and Gafsa. At 1,143 meters, it is one of the highest points in the region. It is part of Bou Hedma National Park, established in 1980. The mountain is composed of Eocene limestone. The climate is semi-arid, with annual precipitation around 400 mm. Vegetation includes halfa grass, acacias, and Aleppo pines. The park is known for the reintroduction of the addax antelope and the dama gazelle. Djebel Bou Hedma offers hiking trails and serves as an important refuge for endangered species.",
-    },
-    factsAdvanced: {
-      de: ["Höhe: 1.143 Meter.", "Gestein: Eozän-Kalkstein (vor 56-34 Millionen Jahren).", "Jahresniederschlag: ca. 400 mm.", "Nationalparkfläche: 165 km².", "Gründungsjahr des Parks: 1980.", "Zahl der Addax-Antilopen: etwa 200 Tiere (Stand 2023)."],
-      hu: ["Magasság: 1.143 méter.", "Kőzet: eocén mészkő (56-34 millió éves).", "Éves csapadék: kb. 400 mm.", "Nemzeti park területe: 165 km².", "Alapítás éve: 1980.", "Addax-antilopok száma: kb. 200 egyed (2023)."],
-      ro: ["Altitudine: 1.143 m.", "Rocă: calcar eocen (56-34 milioane ani).", "Precipitații anuale: circa 400 mm.", "Suprafața parcului național: 165 km².", "Anul înființării: 1980.", "Numărul de antilope addax: aproximativ 200 (2023)."],
-      en: ["Elevation: 1,143 meters.", "Rock type: Eocene limestone (56-34 million years).", "Annual rainfall: about 400 mm.", "National park area: 165 km².", "Year established: 1980.", "Addax antelope population: approx. 200 individuals (2023)."],
-    },
-  }
-];
+  ];
 

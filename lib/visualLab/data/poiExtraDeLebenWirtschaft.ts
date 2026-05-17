@@ -32,45 +32,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       ro: ["Singura combinație de grădină zoologică și botanică într-un complex istoric din Europa.", "Fondată în 1846 ca grădină regală privată în stil maur (arhitectura Alhambra).", "Găzduiește aproximativ 1.200 de specii de animale și peste 8.500 de specii de plante.", "Atrage anual circa 1,8 milioane de vizitatori, fiind printre cei mai vizitați zoo din Germania.", "Include cea mai mare pădure de magnolii de la nord de Alpi.", "Casa maimuțelor antropoide este una dintre cele mai moderne facilități de acest gen din lume."],
       en: ["Home to over 11,500 animals and 6,000 different plant species.", "The historic Moorish buildings were designed by Ludwig von Zanth.", "Features Europe's largest magnolia grove with over 500 trees.", "The Amazon House recreates a tropical rainforest environment.", "Famous for its 'Gorilla Kindergarten' supporting infant apes.", "State-owned by Baden-Württemberg since the end of the monarchy."]
     }, image: "/poi-images/animal-habitat-wilhelma-stuttgart-extra.webp"},
-  {
-    id: "kid-landmark-europa-park-rust-extra",
-    type: "kid-landmark",
-    parent: "DE-BW",
-    coords: [7.721, 48.266],
-    name: { de: "Europa-Park Rust", hu: "Europa-Park Rust", ro: "Europa-Park Rust", en: "Europa-Park Rust" },
-    description: {
-      de: "Größter Freizeitpark im deutschsprachigen Raum mit Themenbereichen zu europäischen Ländern.",
-      hu: "A német nyelvterület legnagyobb vidámparkja, európai országokat bemutató tematikus részlegekkel.",
-      ro: "Cel mai mare parc de distracții din regiunea de limbă germană, cu zone tematice dedicate țărilor europene.",
-      en: "The largest theme park in the German-speaking world, featuring areas themed after European countries."
-    },
-    facts: {
-      de: ["Über 100 Attraktionen und Shows.", "Mehrfach als bester Freizeitpark der Welt ausgezeichnet.", "Eigene Wasserwelt 'Rulantica'.", "Über 5 Millionen Besucher jährlich."],
-      hu: ["Több mint 100 attrakció és show.", "Többször választották a világ legjobb vidámparkjának.", "Saját 'Rulantica' vízi világ.", "Évente több mint 5 millió látogató."],
-      ro: ["Peste 100 de atracții și spectacole.", "Premiat de mai multe ori ca cel mai bun parc de distracții din lume.", "Lume acvatică proprie 'Rulantica'.", "Peste 5 milioane de vizitatori anual."],
-      en: ["Over 100 attractions and shows.", "Multiple-time winner of the world's best theme park award.", "Features its own water world, 'Rulantica'.", "Welcomes over 5 million visitors per year."]
-    },
-    descriptionAdvanced: {
-      de: "Der Europa-Park in Rust ist der meistbesuchte Freizeitpark im deutschsprachigen Raum und weltweit führend in Sachen Innovation und Thematisierung. Seit seiner Eröffnung im Jahr 1975 durch die Familie Mack hat sich der Park auf eine Fläche von rund 95 Hektar ausgedehnt. Das Konzept basiert auf europäischen Themenbereichen, die mit originalgetreuer Architektur und landestypischer Gastronomie gestaltet sind. Mit über 100 Attraktionen, darunter 14 Achterbahnen wie der 'Silver Star' oder der innovative Multi-Launch-Coaster 'Voltron Nevera', bietet er Unterhaltung für alle Altersgruppen. Angeschlossen ist die Wasserwelt Rulantica sowie ein preisgekröntes Hotel-Resort. Geographie K7 – Tourismus und Freizeitwirtschaft in Europa.",
-      hu: "Az Europa-Park egy témapark a németországi Baden-Württemberg tartományban található Rust településen. A park egy 95 hektáros területen helyezkedik el, és húsz tematikus zónában mintegy száz attrakciót kínál, köztük előadásokat és tizennégy hullámvasútat. A parkhoz tartozik továbbá hat szálloda, egy kemping, egy tipi-falu, egy mozi, valamint egy konferenciaközpont is. 2022-ben a látogatók száma elérte az 5,4 millió főt. A(z) Europa-Park Rust egy jelentős turisztikai célpont, amely Németország gazdag történelmét és kultúráját mutatja be. Számos látogatót vonz évről évre. A környék lenyűgöző atmoszférája és az itt található különleges értékek minden utazó számára életre szóló élményt kínálnak.",
-      ro: "Europa-Park din Rust este cel mai mare parc de distracții din țările vorbitoare de germană și unul dintre cele mai premiate din lume. Parcul este structurat pe zone tematice reprezentând diferite țări europene, oferind o experiență culturală și gastronomică imersivă. Cu peste 100 de atracții, inclusiv roller coastere celebre precum 'Silver Star' și 'Blue Fire', parcul atrage milioane de vizitatori anual. Resortul include și 'Rulantica', un univers acvatic spectaculos. Europa-Park este un model de antreprenoriat familial de succes, fiind gestionat de familia Mack, pionieri în industria constructoare de atracții. Sachkunde K4 – Geografie europeană și divertisment.",
-      en: "Europa-Park in Rust is Germany's largest and most popular theme park, offering a journey through the continent's diverse cultures. Spanning roughly 95 hectares, the park is divided into 18 themed areas, most representing European nations like France, Spain, and Scandinavia. Since its opening in 1975 by the Mack family, it has grown to feature 13 world-class roller coasters, including the high-speed 'Silver Star' and the wooden 'WODAN'. The park seamlessly blends thrills with history, as the 15th-century Balthasar Castle stands preserved within its grounds. In 2019, the park expanded with the massive 'Rulantica' water world, further cementing its status as a premier global destination with over 5.7 million visitors annually. Geschichte K8 – European integration and cultural diversity."
-    },
-    factsAdvanced: {
-      de: ["Eröffnet am 12. Juli 1975 von Franz Mack und seinem Sohn Roland.", "Gesamtfläche des Parks beträgt heute etwa 95 Hektar.", "Verfügt über 14 Achterbahnen und über 100 verschiedene Attraktionen.", "Jährlich verzeichnet der Park über 6 Millionen Besucher.", "Eigener Wasserpark 'Rulantica' mit 32.600 m² Indoor-Fläche.", "Inhabergeführtes Familienunternehmen der Mack-Dynastie (Mack Rides)."],
-      hu: [
-        "A parkot 1975-ben alapította a Mack család, akik ma is a tulajdonosok.",
-        "Területe 95 hektár, ahol 18 európai országot elevenítenek meg.",
-        "Több mint 100 attrakciót és 14 hullámvasutat kínál a látogatóknak.",
-        "A 'Silver Star' hullámvasút 73 méter magas, Európa egyik legmagasabbja.",
-        "A 'Rulantica' vízi élményvilág egy 32 600 m²-es fedett résszel is rendelkezik.",
-        "Évente több mint 6 millió látogatójával Németország legnépszerűbb parkja.",
-        "A parkban található a történelmi, 1442-ben épült Balthasar-kastély is."
-      ],
-      ro: ["Inaugurat în anul 1975, parcul ocupă o suprafață de aproximativ 95 de hectare.", "Include 16 zone tematice europene, de la Islanda la Grecia.", "Silver Star este unul dintre cele mai înalte roller coastere din Europa (73 metri).", "Găzduiește șase hoteluri tematice, fiind cel mai mare resort hotelier din Germania.", "A fost votat de opt ori consecutiv drept 'Cel mai bun parc de distracții din lume'.", "Dispune de un sistem de transport intern monorail și un tren panoramic (EP-Express)."],
-      en: ["Founded in 1975 by Franz Mack and his son Roland.", "Features 13 roller coasters and over 100 attractions.", "The Balthasar Castle dates back to the year 1442.", "Voletarium is the largest flying theater in Europe.", "Divided into 18 themed areas representing European regions.", "Rulantica water park added 32,600 square meters of indoor space."]
-    }, image: "/poi-images/kid-landmark-europa-park-rust-extra.webp"},
-  {
+    {
     id: "animal-habitat-tierpark-lohberg-extra",
     type: "animal-habitat",
     parent: "DE-BY",
@@ -460,37 +422,7 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       ro: ["Cel mai mare parc de păsări din lume pe o suprafață de 24 ha", "Fondat în anul 1962 de către negustorul Fritz Geschke", "Adăpostește aproximativ 4.000 de păsări din peste 650 specii", "Spectacole de zbor pe o scenă cu 5.000 de locuri pentru public", "Deține una dintre cele mai mari colecții de specii amenințate", "Include un centru de învățare interactiv pentru mediu"],
       en: ["Largest bird park in the world covering 24 hectares", "Founded in 1962 by the merchant Fritz Geschke", "Home to approx. 4,000 birds from more than 650 species", "The flight show arena has a capacity for 5,000 spectators", "Maintains one of the world's largest collections of rare birds", "Features an interactive learning center for environmental education"],
     }, image: "/poi-images/animal-habitat-weltvogelpark-walsrode-extra.webp"},
-  {
-    id: "kid-landmark-phantasialand-bruehl-extra",
-    type: "kid-landmark",
-    parent: "DE-NW",
-    coords: [6.879, 50.800],
-    name: { de: "Phantasialand Brühl", hu: "Phantasialand Brühl", ro: "Phantasialand Brühl", en: "Phantasialand Brühl" },
-    description: {
-      de: "Hochthematisierter Freizeitpark bei Köln mit weltweit einzigartigen Attraktionen.",
-      hu: "Magas színvonalon tematizált vidámpark Köln közelében, világszerte egyedülálló attrakciókkal.",
-      ro: "Parc de distracții înalt tematizat lângă Köln, cu atracții unice în lume.",
-      en: "A highly immersive theme park near Cologne featuring world-unique attractions and themes."
-    },
-    facts: {
-      de: ["Bekannt für extrem detailreiche Themenwelten.", "Mehrfach ausgezeichnete Achterbahnen.", "Shows auf höchstem Niveau.", "Eigene Erlebnishotels."],
-      hu: ["Rendkívül részletgazdag tematikus világairól ismert.", "Többszörösen díjazott hullámvasutak.", "Legmagasabb színvonalú show-műsorok.", "Saját élményszállodák."],
-      ro: ["Cunoscut pentru lumi tematice extrem de detaliate.", "Roller coastere premiate de mai multe ori.", "Spectacole la cel mai înalt nivel.", "Hoteluri tematice proprii."],
-      en: ["Famous for its extremely detailed immersive worlds.", "Home to multiple award-winning roller coasters.", "Offers high-quality entertainment and shows.", "Includes several on-site themed hotels."]
-    },
-    descriptionAdvanced: {
-      de: "Das Phantasialand in Brühl bei Köln gehört zu den kreativsten und meistbesuchten Freizeitparks Europas. Auf einer vergleichsweise kompakten Fläche von 28 Hektar bietet der Park eine außergewöhnliche Dichte an weltweit einzigartigen Attraktionen, eingebettet in detailverliebte Themenwelten wie Klugheim, Rookburgh oder Afrika. Besonders berühmt ist der Multi-Launch-Coaster 'Taron', der durch eine künstliche Felsenlandschaft rast, sowie der Flying Coaster 'F.L.Y.'. Der Park ist bekannt dafür, dass Technik und Thematisierung perfekt miteinander verschmelzen, was ihm zahlreiche internationale Preise eingebracht hat. Geographie K7 – Bedeutung von Themenparks für den Regionaltourismus.",
-      hu: "A Brühlben található Phantasialand Európa egyik leglátogatottabb tematikus parkja, amely világszínvonalú díszleteiről és innovatív hullámvasútjairól ismert. Az 1967-ben alapított park 28 hektáron hat különböző tematikus világot – köztük Kínát, Mexikót és Afrikát – mutat be elképesztő részletgazdagsággal. Itt található a Taron, a világ egyik leggyorsabb és leghosszabb multi-launch hullámvasútja. A park nemcsak a szórakoztatásról, hanem a különböző kultúrák építészetének és művészetének bemutatásáról is szól. Történelem K6 – világkultúrák és építészet.",
-      ro: "Phantasialand din Brühl, lângă Köln, este recunoscut la nivel mondial pentru calitatea excepțională a tematicii sale și pentru atracțiile inovatoare integrate perfect în spații limitate. Parcul este împărțit în zone spectaculoase precum 'Klugheim', 'Africa Profundă' sau 'Berlinul Vechi', oferind o experiență imersivă totală prin arhitectură, sunet și gastronomie. Roller coastere precum 'Taron' sau 'Black Mamba' sunt puncte de referință pentru pasionații de adrenalină, în timp ce spectacolele de tip Broadway și zonele de joacă pentru copii asigură divertisment de top pentru întreaga familie. Este parcul german cu cele mai multe premii internaționale pentru excelență. Sachkunde K4 – Lumi tematice și ingineria divertismentului.",
-      en: "Phantasialand in Brühl, near Cologne, is one of Europe's most immersive and highly-themed amusement parks. Opened in 1967 in a former lignite mine, it has mastered the art of 'world-building' in a relatively small space. The park is divided into several meticulously detailed themed areas like Klugheim, Chiapas, and Rookburgh. It is famous for world-record coasters like 'Taron,' a high-intensity multi-launch coaster, and 'F.L.Y.,' the world's first launched flying coaster. Every inch of the park is covered in intricate rockwork and architecture, transporting visitors to faraway lands or steampunk futures. Geschichte K8 – Modern entertainment and architectural themes."
-    },
-    factsAdvanced: {
-      de: ["Eröffnet im Jahr 1967 in einem ehemaligen Braunkohle-Tagebau.", "Parkfläche umfasst ca. 28 Hektar, davon 12 Hektar reine Attraktionsfläche.", "Verzeichnet jährlich rund 2,1 Millionen Besucher (Stand 2023).", "Die Achterbahn 'Taron' hält zwei Weltrekorde für Multi-Launch-Coaster.", "Beherbergt den weltweit ersten Flying Launch Coaster namens 'F.L.Y.'.", "Wurde mehrfach als bester Freizeitpark Deutschlands ausgezeichnet."],
-      hu: ["A parkot 1967-ben alapították egy korábbi lignitbánya területén.", "Területe 28 hektár, ami rendkívül sűrűn és kreatívan beépített.", "A Taron hullámvasút két kilövéssel és 117 km/h sebességgel rendelkezik.", "Itt található az F.L.Y., a világ első indításos fekvő hullámvasútja.", "A park számos nemzetközi díjat nyert a tematikus kialakításáért.", "Híres a téli nyitvatartásáról és a különleges fénybemutatóiról."],
-      ro: ["Taron deține mai multe recorduri mondiale pentru un roller coaster de tip multi-launch.", "S-a deschis în anul 1967 într-o fostă mină de lignit de suprafață.", "Parcul utilizează spațiul extrem de eficient prin construcții multi-nivel.", "Include primul roller coaster suspendat din lume cu o inversiune numit 'Black Mamba'.", "Spectacolul de iarnă 'Wintertraum' este considerat unul dintre cele mai frumoase din Germania.", "Găzduiește hoteluri tematice unice, precum Hotelul Matamba sau Hotelul Charles Lindbergh."],
-      en: ["Opened in 1967 by Gottlieb Löffelhardt and Richard Schmidt.", "Features the world's first launched flying coaster, F.L.Y.", "Taron is one of the world's fastest multi-launch coasters.", "Located in a former lignite mine, requiring clever vertical design.", "Includes the highly immersive steampunk-themed world of Rookburgh.", "The 'Black Mamba' coaster was the first to use an African theme."]
-    }, image: "/poi-images/kid-landmark-phantasialand-bruehl-extra.webp"},
-  {
+    {
     id: "animal-habitat-zoom-gelsenkirchen-extra",
     type: "animal-habitat",
     parent: "DE-NW",

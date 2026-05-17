@@ -1,42 +1,7 @@
 import type { POI } from "./poi";
 
 export const poiExtraAngolaHistoryV2: POI[] = [
-  {
-    id: "fortaleza-sao-miguel-history-v2",
-    type: "historical",
-    parent: "AO-LUA",
-    coords: [13.2238, -8.8058],
-    name: {
-      de: "Festung São Miguel",
-      hu: "São Miguel erőd",
-      ro: "Fortăreața São Miguel",
-      en: "Fortaleza de São Miguel"},
-    image: "/poi-images/fortaleza-sao-miguel-history-v2.webp",
-    description: {
-      de: "Eine 1576 erbaute portugiesische Festung in Luanda, die während der Kolonialzeit als administratives und militärisches Zentrum diente.",
-      hu: "Egy 1576-ban épült portugál erőd Luandában, amely a gyarmati időkben adminisztratív és katonai központként szolgált.",
-      ro: "O fortăreață portugheză construită în 1576 în Luanda, servind ca centru administrativ și militar în perioada colonială.",
-      en: "A Portuguese fortress built in 1576 in Luanda, serving as an administrative and military center during the colonial era."
-    },
-    facts: {
-      de: ["Ältestes erhaltenes Gebäude in Luanda.", "Beherbergt heute das Nationale Militärmuseum.", "Wurde von Paulo Dias de Novais gegründet."],
-      hu: ["Luanda legrégebbi fennmaradt épülete.", "Ma a Nemzeti Katonai Múzeumnak ad otthont.", "Paulo Dias de Novais alapította."],
-      ro: ["Cea mai veche clădire supraviețuitoare din Luanda.", "Astăzi găzduiește Muzeul Militar Național.", "Fondată de Paulo Dias de Novais."],
-      en: ["Oldest surviving building in Luanda.", "Today houses the National Military Museum.", "Founded by Paulo Dias de Novais."]
-    },
-    descriptionAdvanced: {
-      de: "Die Fortaleza de São Miguel ist die älteste Verteidigungsanlage Angolas und thront majestätisch auf dem Berg São Miguel über der Bucht von Luanda. Sie wurde 1576 von Paulo Dias de Novais kurz nach der Gründung der Stadt errichtet und diente über Jahrhunderte als administratives und militärhistorisches Zentrum der portugiesischen Kolonie. Die Festung war ein zentraler Punkt bei der Verteidigung gegen niederländische Angriffe und ein düsterer Knotenpunkt im transatlantischen Sklavenhandel. Heute beherbergt sie das Nationale Museum für Militärgeschichte und bietet Besuchern einen tiefen Einblick in die koloniale Vergangenheit und den Kampf um die Unabhängigkeit. Geschichte K8 — Kolonialgeschichte und Militärarchitektur.",
-      hu: "A(z) São Miguel erőd az angolai foldrajz es kultura figyelemre melto eleme. Egy 1576-ban épült portugál erőd Luandában, amely a gyarmati időkben adminisztratív és katonai központként szolgált. Luanda legrégebbi fennmaradt épülete. Ma a Nemzeti Katonai Múzeumnak ad otthont. Paulo Dias de Novais alapította. Ennek a helyszinnek kulonleges jelentosege van Angola tortenelmeben. Angola szamos jelentos helyszinehez hasonloan ez is otvozi a regionalis sajatossagokat es az altalanos jelentoseget. Ezzel a helyszin hozzajarul Angola sokszinu arculatahoz.",
-      ro: "Fortăreața São Miguel este un element remarcabil al geografiei si culturii angoleze. O fortăreață portugheză construită în 1576 în Luanda, servind ca centru administrativ și militar în perioada colonială. Cea mai veche clădire supraviețuitoare din Luanda. Astăzi găzduiește Muzeul Militar Național. Fondată de Paulo Dias de Novais. Acest loc are o importanta deosebita in istoria Angolei. Asemenea multor locuri importante din Angola, acesta imbina particularitatile regionale cu o semnificatie mai larga. Astfel, acest loc contribuie la profilul variat al Angolei.",
-      en: "Fortaleza de São Miguel is a remarkable feature of the geography and culture of Angola. A Portuguese fortress built in 1576 in Luanda, serving as an administrative and military center during the colonial era. Oldest surviving building in Luanda. Today houses the National Military Museum. Founded by Paulo Dias de Novais. This site holds particular significance in the history of Angola. Like many notable places in Angola, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Angola."
-    },
-    factsAdvanced: {
-      de: ["Erste permanente Festung in Angola, erbaut im Jahr 1576.", "Wurde zwischen 1641 und 1648 von den Niederländern besetzt.", "Hieß während der niederländischen Besatzung Fort Aardenburgh.", "Beherbergt heute das Museu Nacional de História Militar.", "Bekannt für seine reich verzierten Azulejo-Fliesen im Inneren.", "Bietet den besten Panoramablick über die Stadt und die Ilha de Luanda.", "Strategischer Kontrollpunkt für den Hafen über Jahrhunderte.", "Die Festung ist ein nationales Kulturdenkmal Angolas."],
-      hu: ["Egy 1576-ban épült portugál erőd Luandában, amely a gyarmati időkben adminisztratív és katonai központként szolgált.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert."],
-      ro: ["O fortăreață portugheză construită în 1576 în Luanda, servind ca centru administrativ și militar în perioada colonială.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala."],
-      en: ["A Portuguese fortress built in 1576 in Luanda, serving as an administrative and military center during the colonial era.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
-    }, image: "/poi-images/fortaleza-sao-miguel-history-v2.webp"},
-  {
+    {
     id: "mbanza-kongo-ruins-history-v2",
     type: "historical",
     parent: "AO-ZAI",

@@ -1,53 +1,7 @@
 import type { POI } from "./poi";
 
 export const poiExtraBangladeshReliefV2: POI[] = [
-  {
-    id: "keokradong-relief-v2",
-    type: "mountain",
-    parent: "BD-B",
-    coords: [92.525, 21.954],
-    name: { de: "Keokradong", hu: "Keokradong", ro: "Keokradong", en: "Keokradong"},
-    image: "/poi-images/keokradong-relief-v2.webp",
-    description: { de: "Einer der höchsten Gipfel in Bangladesch, gelegen in den malerischen Chittagong Hill Tracts.", hu: "Banglades egyik legmagasabb csúcsa, amely a festői Chittagong-hegyvidéken található.", ro: "Unul dintre cele mai înalte vârfuri din Bangladesh, situat în pitorescul Chittagong Hill Tracts.", en: "One of the highest peaks in Bangladesh, located in the scenic Chittagong Hill Tracts." },
-    facts: {
-      de: ["Galt lange als höchster Berg des Landes.", "Beliebtes Ziel für Trekking-Touren.", "Liegt an der Grenze zu Myanmar.", "Ist von dichten Wäldern umgeben."],
-      hu: ["Sokáig az ország legmagasabb hegyének hitték.", "Népszerű célpont a túrázók körében.", "Mianmar határának közelében fekszik.", "Sűrű erdők veszik körül."],
-      ro: ["Mult timp considerat cel mai înalt munte din țară.", "Destinație populară pentru drumeții.", "Se află aproape de granița cu Myanmar.", "Este înconjurat de păduri dense."],
-      en: ["Long considered the highest mountain in the country.", "Popular destination for trekking.", "Located near the border with Myanmar.", "Surrounded by dense forests."]
-    }
-  ,
-    descriptionAdvanced: {
-    
-    "de": "Der Keokradong liegt im südöstlichen Distrikt Bandarban und galt lange Zeit fälschlicherweise als der höchste Berg Bangladeschs. Mit einer offiziellen Höhe von 986 Metern ist er heute als einer der höchsten Gipfel anerkannt, übertroffen nur von Saka Haphong. Der Berg ist Teil der Chittagong Hill Tracts, einer landschaftlich reizvollen, aber abgelegenen Region nahe der Grenze zu Myanmar. Die Wanderung zum Gipfel ist bei einheimischen und internationalen Trekkern beliebt und führt durch dichte Bambuswälder, vorbei an kleinen indigenen Dörfern und über plätschernde Bäche. Oben angekommen, belohnt ein 360-Grad-Panoramablick die Anstrengungen. Die Aussicht auf die umliegenden Hügelketten, die oft in Wolken gehüllt sind, ist besonders bei Sonnenauf- und -untergang spektakulär. Die Gegend ist die Heimat verschiedener ethnischer Gemeinschaften, deren Lebensweise eng mit der Natur verbunden ist.",
-    "hu": "A Keokradong egyike Banglades legmagasabb hegycsúcsainak, a Bandarban körzetben, Mianmar határának közelében található. Bár sokáig az ország legmagasabb pontjának hitték, a modern mérések szerint magassága 986 méter, amellyel a harmadik helyre került. A csúcs a festői szépségű Chittagong-hegyvidéken fekszik, amely sűrű erdőiről és etnikai sokszínűségéről ismert. A hegy meghódítása népszerű program a túrázók körében, az út során a látogatók érintetlen dzsungelen, tradicionális törzsi falvakon és patakokon kelnek át. A csúcsról lenyűgöző panoráma nyílik a környező dombokra, amelyek gyakran felhőtengerben úsznak. A Keokradong nemcsak természeti látványosság, hanem kulturális élmény is, mivel a régióban számos őslakos közösség, például a Bawm törzs él, akik megőrizték hagyományos életmódjukat.",
-    "ro": "Keokradong, situat în districtul Bandarban din sud-estul Bangladeshului, este unul dintre cele mai înalte vârfuri din țară, cu o altitudine oficială de 986 de metri. Timp de mulți ani, a fost considerat în mod eronat cel mai înalt munte din Bangladesh, un titlu care acum este atribuit lui Saka Haphong. Muntele face parte din lanțul pitoresc Chittagong Hill Tracts, aproape de granița cu Myanmar. Ascensiunea pe Keokradong este o activitate populară pentru drumeții locali și internaționali, oferind o călătorie provocatoare prin păduri dese, sate indigene și peste pâraie limpezi. Efortul este răsplătit la vârf cu o vedere panoramică spectaculoasă asupra dealurilor înconjurătoare, care sunt adesea acoperite de nori. Regiunea este locuită de diverse comunități etnice, inclusiv poporul Bawm, adăugând o dimensiune culturală bogată experienței.",
-    "en": "Located in the Bandarban district of southeastern Bangladesh, Keokradong is one of the country's highest peaks, with an official elevation of 986 meters. For a long time, it was mistakenly considered the tallest mountain in Bangladesh, a title now held by Saka Haphong. The mountain is part of the scenic Chittagong Hill Tracts, near the border with Myanmar. Trekking to the summit is a popular adventure for both local and international hikers, involving a journey through dense bamboo forests, past small indigenous villages, and across streams. The reward at the top is a stunning 360-degree panoramic view of the surrounding hills, which are often veiled in clouds, creating a breathtaking landscape. The area is home to several ethnic communities, like the Bawm people, offering a glimpse into their traditional way of life tied to the remote hill country."
-    },
-    factsAdvanced: { multi4: ["Offizielle Höhe: 986 Meter.", "Früher als höchster Berg Bangladeschs bezeichnet.", "Liegt in den Chittagong Hill Tracts.", "Wanderung dauert in der Regel 2 Tage.", "Gipfel bietet Panoramablick.", "Heimat der indigenen Bawm-Gemeinschaft.", "Nahe der Grenze zu Myanmar gelegen.", "Landschaft von Bambuswäldern geprägt."] }, image: "/poi-images/keokradong-relief-v2.webp"},
-  {
-    id: "saka-haphong-relief-v2",
-    type: "mountain",
-    parent: "BD-B",
-    coords: [92.597, 21.786],
-    name: { de: "Saka Haphong", hu: "Saka Haphong", ro: "Saka Haphong", en: "Saka Haphong"},
-    image: "/poi-images/saka-haphong-relief-v2.webp",
-    description: { de: "Der höchste inoffizielle Berg in Bangladesch, versteckt in der abgelegenen Mowdok-Bergkette.", hu: "Banglades legmagasabb, nem hivatalos hegye, amely a távoli Mowdok-hegységben bújik meg.", ro: "Cel mai înalt munte neoficial din Bangladesh, ascuns în îndepărtatul lanț muntos Mowdok.", en: "The highest unofficial mountain in Bangladesh, hidden in the remote Mowdok range." },
-    facts: {
-      de: ["Gipfel erreicht etwa 1052 Meter.", "Wurde 2005 von einem Entdecker vermessen.", "Kein offizielles Straßennetz führt hierher.", "Grenzberg zwischen Bangladesch und Myanmar."],
-      hu: ["A csúcs körülbelül 1052 méter magas.", "2005-ben mérte meg egy felfedező.", "Nincs hivatalos úthálózat a közelében.", "Határhegy Banglades és Mianmar között."],
-      ro: ["Vârful atinge aproximativ 1052 de metri.", "A fost măsurat de un explorator în 2005.", "Nu există o rețea rutieră oficială aici.", "Munte de frontieră între Bangladesh și Myanmar."],
-      en: ["Peak reaches about 1052 meters.", "Measured by an explorer in 2005.", "No official road network leads here.", "Border mountain between Bangladesh and Myanmar."]
-    }
-  ,
-    descriptionAdvanced: {
-    
-    "de": "Saka Haphong, auch bekannt als Mowdok Mual, ist mit einer Höhe von 1052 Metern der höchste Gipfel Bangladeschs. Er befindet sich in der Mowdok-Bergkette im Thanchi Upazila des Distrikts Bandarban, direkt an der Grenze zwischen Bangladesch und Myanmar. Aufgrund seiner extrem abgelegenen Lage und des Fehlens offizieller Wege ist die Besteigung eine erhebliche Herausforderung und nur für erfahrene Trekker zu empfehlen. Die Reise zum Gipfel ist ein echtes Abenteuer, das durch dichten, unberührten Dschungel, über steile Klippen und durch Gebiete führt, die von indigenen Gemeinschaften bewohnt werden. Der Gipfel selbst ist unscheinbar, aber die Aussicht auf die endlosen Hügelketten von Bangladesch und Myanmar ist unvergleichlich. Die Anerkennung als höchster Punkt des Landes ist relativ neu und basiert auf GPS-Messungen von Bergsteigern, da die Region lange unerforscht blieb.",
-    "hu": "A Saka Haphong, más néven Mowdok Mual, Banglades legmagasabb hegycsúcsa, amely 1052 méterrel emelkedik a tengerszint fölé. A Bandarban körzet Thanchi Upazila területén, a Mowdok-hegységben található, közvetlenül Banglades és Mianmar határán. Rendkívül elszigetelt fekvése és a kiépített utak hiánya miatt a csúcs elérése komoly kihívást jelent, amelyet csak tapasztalt túrázók számára ajánlanak. Az expedíció érintetlen esőerdőkön, meredek sziklákon és őslakos közösségek által lakott területeken vezet keresztül. Maga a csúcs jellegtelen, de a környező, végtelennek tűnő hegyvonulatokra nyíló kilátás felejthetetlen élményt nyújt. Viszonylag új keletű, hogy az ország legmagasabb pontjaként tartják számon; ezt hegymászók GPS-mérései erősítették meg, mivel a régió sokáig feltáratlan maradt.",
-    "ro": "Saka Haphong, cunoscut și ca Mowdok Mual, este cel mai înalt vârf din Bangladesh, atingând o altitudine de 1052 de metri. Este situat în lanțul muntos Mowdok, în Thanchi Upazila din districtul Bandarban, chiar la granița dintre Bangladesh și Myanmar. Datorită locației sale extrem de izolate și lipsei de trasee oficiale, ascensiunea este o provocare considerabilă, recomandată doar drumeților experimentați. Călătoria către vârf este o adevărată aventură, trecând prin junglă densă și neatinsă, peste stânci abrupte și prin zone locuite de comunități indigene. Vârful în sine este modest, dar priveliștea asupra lanțurilor muntoase nesfârșite din Bangladesh și Myanmar este de neegalat. Recunoașterea sa ca cel mai înalt punct al țării este relativ recentă, bazându-se pe măsurători GPS efectuate de alpiniști, deoarece regiunea a rămas mult timp neexplorată.",
-    "en": "Saka Haphong, also known as Mowdok Mual, stands as the highest peak in Bangladesh with an elevation of 1052 meters. It is located in the Mowdok mountain range in Thanchi Upazila of Bandarban District, right on the border between Bangladesh and Myanmar. Due to its extremely remote location and the lack of official trails, reaching the summit is a significant challenge recommended only for experienced trekkers. The journey to the peak is a true expedition, leading through dense, untouched jungle, across steep cliffs, and through areas inhabited by indigenous communities. The summit itself is unassuming, but the view across the endless hill ranges of both Bangladesh and Myanmar is unparalleled. Its recognition as the country's highest point is relatively recent, based on GPS data collected by mountaineers, as the region remained largely unexplored for a long time."
-    },
-    factsAdvanced: { multi4: ["Höhe: 1052 Meter.", "Höchster Gipfel in Bangladesch.", "Liegt an der Grenze zu Myanmar.", "Teil der Mowdok-Bergkette.", "Besteigung ist extrem anspruchsvoll.", "Keine offiziellen Wanderwege.", "GPS-Messung bestätigte die Höhe.", "Region ist Heimat indigener Völker."] }, image: "/poi-images/saka-haphong-relief-v2.webp"},
-  {
+      {
     id: "tazing-dong-relief-v2",
     type: "mountain",
     parent: "BD-B",

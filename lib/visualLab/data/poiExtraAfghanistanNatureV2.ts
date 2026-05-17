@@ -1,59 +1,7 @@
 import type { POI } from "./poi";
 
 export const poiExtraAfghanistanNatureV2: POI[] = [
-  {
-    id: "afghanistan-noshaq-nature-v2",
-    type: "mountain",
-    parent: "AF-BDS",
-    coords: [71.833, 36.433],
-    name: { de: "Noshaq", hu: "Noshakh", ro: "Noshaq", en: "Noshaq",
-},
-    description: { de: "Der Noshaq ist der höchste Berg Afghanistans. Er liegt im Hindukusch an der Grenze zu Pakistan.", hu: "A Noshakh Afganisztán legmagasabb hegye. A Hindukus-hegységben található, a pakisztáni határon.", ro: "Noshaq este cel mai înalt munte din Afganistan. Este situat în Hindu Kush, la granița cu Pakistanul.", en: "Noshaq is the highest mountain in Afghanistan. It is located in the Hindu Kush on the border with Pakistan." },
-    facts: {
-      de: ["Höhe: 7.492 Meter", "Höchster Berg des Landes", "Teil des Hindukusch", "Grenzberg zu Pakistan"],
-      hu: ["Magasság: 7 492 méter", "Az ország legmagasabb hegye", "A Hindukus része", "Határhegy Pakisztán felé"],
-      ro: ["Altitudine: 7.492 metri", "Cel mai înalt munte din țară", "Parte a Hindu Kush", "Munte de frontieră cu Pakistan"],
-      en: ["Elevation: 7,492 meters", "Highest mountain in the country", "Part of the Hindu Kush", "Border mountain with Pakistan"]
-}, image: "/poi-images/afghanistan-noshaq-nature-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Noshaq ist mit 7492 m der höchste Berg Afghanistans und der zweithöchste des Hindukusch. Er liegt an der Grenze zu Pakistan in der Provinz Badachschan. Der Berg wurde erstmals 1960 von einer japanischen Expedition bestiegen. Er ist Teil des Wakhan-Korridors und bekannt für seine steilen Grate und Gletscher. Die Region ist seismisch aktiv, und der Berg hat mehrere Felsstürze erlebt.",
-      hu: "A Noshaq (7492 m) Afganisztán legmagasabb hegye, a Hindukus második legmagasabb csúcsa a pakisztáni határon. Az 1960-as években japán expedíció hódította meg először. A hegy a Vahán-folyosó része, jégmezői és meredek sziklafalai miatt ismert. A térség szeizmikus aktivitása miatt gyakoriak a kőomlások.",
-      ro: "Noshaq, cu 7492 m, este cel mai înalt munte din Afganistan și al doilea din Hindukush, situat la granița cu Pakistan. A fost escaladat prima dată de o expediție japoneză în 1960. Face parte din Coridorul Wakhan și este cunoscut pentru crestele sale abrupte și ghețari. Zona este activă seismic, cu frecvente căderi de pietre.",
-      en: "Noshaq, at 7,492 m, is Afghanistan's highest mountain and the second highest in the Hindu Kush range, located on the border with Pakistan. First ascended in 1960 by a Japanese expedition, it is part of the Wakhan Corridor. The mountain features steep ridges and glaciers. The region experiences significant seismic activity, leading to rockfalls.",
-    },
-    factsAdvanced: {
-      de: ["7492 m Höhe", "1960 erstbestiegen", "zweithöchster Gipfel des Hindukusch", "liegt an der Grenze zu Pakistan", "Teil des Wakhan-Korridors", "zahlreiche Gletscher"],
-      hu: ["7492 m magas", "1960-ban hódították meg", "a Hindukus második legmagasabb csúcsa", "Pakisztán határán található", "a Vahán-folyosó része", "sok gleccser található rajta"],
-      ro: ["7492 m înălțime", "prima ascensiune în 1960", "al doilea cel mai înalt vârf din Hindukush", "situat la granița cu Pakistanul", "parte a Coridorului Wakhan", "numeroși ghețari"],
-      en: ["7,492 m elevation", "first climbed in 1960", "second highest peak in Hindu Kush", "located on Pakistan border", "part of Wakhan Corridor", "many glaciers"],
-    },
-  },  {
-    id: "afghanistan-hindukusch-nature-v2",
-    type: "mountain",
-    parent: "AF-BAM",
-    coords: [71.0, 35.0],
-    name: { de: "Hindukusch", hu: "Hindukus", ro: "Hindu Kush", en: "Hindu Kush",
-},
-    description: { de: "Der Hindukusch ist ein gewaltiges Hochgebirge in Zentralasien, das sich größtenteils durch Afghanistan erstreckt. Es ist bekannt für seine raue, unberührte Natur.", hu: "A Hindukus egy hatalmas magashegység Közép-Ázsiában, amely nagyrészt Afganisztánon húzódik keresztül. Zord, érintetlen természetéről ismert.", ro: "Hindu Kush este un lanț muntos masiv din Asia Centrală, care se întinde în mare parte prin Afganistan. Este renumit pentru natura sa aspră și virgină.", en: "The Hindu Kush is a massive high mountain range in Central Asia, stretching largely through Afghanistan. It is known for its rugged, untouched nature." },
-    facts: {
-      de: ["Über 800 km lang", "Trennt Zentral- und Südasien", "Höchste Gipfel über 7.000m", "Wichtige Wasserscheide"],
-      hu: ["Több mint 800 km hosszú", "Közép- és Dél-Ázsiát választja el", "A legmagasabb csúcsok 7000 m felettiek", "Fontos vízválasztó"],
-      ro: ["Peste 800 km lungime", "Separă Asia Centrală de Asia de Sud", "Cele mai înalte vârfuri peste 7.000m", "Importantă cumpănă a apelor"],
-      en: ["Over 800 km long", "Separates Central and South Asia", "Highest peaks over 7,000m", "Important watershed"]
-}, image: "/poi-images/afghanistan-hindukusch-nature-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Hindukusch ist ein über 800 km langes Gebirge in Zentralasien, das sich von Afghanistan bis nach Pakistan erstreckt. Sein höchster Punkt ist der Tirich Mir (7708 m) in Pakistan. Die Bergkette entstand durch die Kollision der indischen und eurasischen Platte. Sie ist wasserreich und speist mehrere Flüsse wie den Kabul. Die Region ist kulturell vielfältig und war historisch Teil der Seidenstraße.",
-      hu: "A Hindukus egy több mint 800 km hosszú hegylánc Közép-Ázsiában, Afganisztántól Pakisztánig. Legmagasabb csúcsa a Tirich Mir (7708 m) Pakisztánban. Az indiai és eurázsiai lemezek ütközésével jött létre. Vízgazdag, több folyót táplál, mint a Kabul folyót. A térség kulturálisan sokszínű, történelmileg a Selyemút része.",
-      ro: "Hindukush este un lanț muntos de peste 800 km lungime în Asia Centrală, întinzându-se din Afganistan până în Pakistan. Cel mai înalt punct este Tirich Mir (7708 m) în Pakistan. Lanțul s-a format prin coliziunea plăcilor indiană și eurasiatică. Este bogat în apă, alimentând râuri precum Kabul. Regiunea este diversă cultural și a făcut parte din Drumul Mătăsii.",
-      en: "The Hindu Kush is a mountain range over 800 km long in Central Asia, stretching from Afghanistan into Pakistan. Its highest point is Tirich Mir (7,708 m) in Pakistan. Formed by the collision of the Indian and Eurasian plates, it is rich in water sources, feeding rivers such as the Kabul. The region is culturally diverse and historically part of the Silk Road.",
-    },
-    factsAdvanced: {
-      de: ["über 800 km Länge", "höchster Gipfel Tirich Mir (7708 m)", "Entstehung durch Plattenkollision", "speist Kabul-Fluss", "historisch Teil der Seidenstraße", "kulturelle Vielfalt der Bewohner"],
-      hu: ["több mint 800 km hosszú", "legmagasabb csúcsa a Tirich Mir (7708 m)", "lemezütközéssel jött létre", "táplálja a Kabul folyót", "történelmileg a Selyemút része", "kulturális sokszínűség"],
-      ro: ["peste 800 km lungime", "cel mai înalt vârf Tirich Mir (7708 m)", "format prin coliziune de plăci", "alimentează râul Kabul", "parte istorică a Drumului Mătăsii", "diversitate culturală"],
-      en: ["over 800 km length", "highest peak Tirich Mir (7,708 m)", "formed by plate collision", "feeds the Kabul River", "historically part of the Silk Road", "cultural diversity"],
-    },
-  },  {
+      {
     id: "afghanistan-pamir-nature-v2",
     type: "mountain",
     parent: "AF-BDS",

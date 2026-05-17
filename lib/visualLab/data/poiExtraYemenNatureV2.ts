@@ -65,39 +65,7 @@ export const poiExtraYemenNatureV2: POI[] = [
       en: ["Wadi Dawan's villages are up to 500 years old.", "The valley floor is 500 meters wide at its broadest.", "Annual honey yield is 12 tons.", "Over 100 archaeological sites are recorded.", "The main crop is sorghum, covering 300 hectares.", "Average summer temperature is 35°C."],
     },
   },
-  {
-    id: "wadi-hadhramaut-nature-v2",
-    type: "river",
-    parent: "YE-HD",
-    coords: [49.5000, 16.0000],
-    name: { de: "Wadi Hadramaut", hu: "Vadi Hadramaut", ro: "Wadi Hadhramaut", en: "Wadi Hadhramaut"},
-    image: "/poi-images/wadi-hadhramaut-nature-v2.webp",
-    description: {
-      de: "Das Wadi Hadramaut ist das größte und wichtigste Talsystem der Arabischen Halbinsel. Der gleichnamige saisonale Fluss zieht sich durch eine karge Wüstenlandschaft und schafft eine grüne Lebensader voller fruchtbarer Oasen.",
-      hu: "A Vadi Hadramaut az Arab-félsziget legnagyobb és legfontosabb völgyrendszere. Az azonos nevű időszakos folyó egy kopár sivatagi tájon vág keresztül, termékeny oázisok zöld sávját teremtve.",
-      ro: "Wadi Hadhramaut este cel mai mare și cel mai important sistem de văi din Peninsula Arabică. Râul sezonier cu același nume traversează un peisaj deșertic arid, creând o linie verde plină de oaze fertile.",
-      en: "Wadi Hadhramaut is the largest and most important valley system in the Arabian Peninsula. The seasonal river of the same name cuts through an arid desert landscape, creating a green lifeline full of fertile oases."
-    },
-    facts: {
-      de: ["Das größte Wadi-System der Arabischen Halbinsel.", "Enthält riesige Grundwasserreserven.", "Ermöglicht intensive Landwirtschaft in der Wüste.", "Historisches Zentrum des Weihrauchhandels."],
-      hu: ["Az Arab-félsziget legnagyobb vádi rendszere.", "Hatalmas talajvízkészletekkel rendelkezik.", "Intenzív mezőgazdaságot tesz lehetővé a sivatagban.", "A tömjénkereskedelem történelmi központja volt."],
-      ro: ["Cel mai mare sistem wadi din Peninsula Arabică.", "Conține rezerve masive de ape subterane.", "Sprijină o agricultură extensivă în deșert.", "Centru istoric al comerțului cu tămâie."],
-      en: ["The largest wadi system in the Arabian Peninsula.", "Contains massive groundwater reserves.", "Supports extensive agriculture in the desert.", "Historic center of the frankincense trade."]
-    }, image: "/poi-images/wadi-hadhramaut-nature-v2.webp",
-    descriptionAdvanced: {
-      de: "Das Wadi Hadhramaut ist eine der größten und bekanntesten Trockentäler im Jemen, das sich über Hunderte von Kilometern durch das Hadhramaut-Gebirge erstreckt. Es ist bekannt für seine fruchtbaren Böden, die durch saisonale Überschwemmungen mit Nährstoffen versorgt werden. In der Schlucht liegen historische Städte wie Shibam und Tarim, die für ihre Lehmziegel-Architektur bekannt sind. Das Wadi beherbergt eine vielfältige Tierwelt, darunter den Arabischen Leoparden. Die Landwirtschaft konzentriert sich auf Datteln, Zitrusfrüchte und Weihrauch.",
-      hu: "Wadi Hadhramaut Jemen leghíresebb völgye, amely a Hadramaut régió fő tengelye. A völgyet évszakos folyók táplálják, amelyek termékeny talajt hagynak hátra. A városok, mint Shibam és Seyun, híresek vályogépületeikről. A völgy gazdag növény- és állatvilággal rendelkezik. A gazdaság a datolya- és citrusfélék termesztésén alapul. A völgy fontos kereskedelmi útvonal is.",
-      ro: "Wadi Hadhramaut este cea mai mare vale uscată din Yemen, cu o lungime de 200 km. Este cunoscută pentru orașele istorice din chirpici, precum Shibam (Patrimoniu UNESCO). Valea este irigată de inundații sezoniere, permițând agricultura de palmieri și citrice. Fauna include ibexul arab și vulpea deșertică. Zona este importantă pentru exportul de smirnă și tămâie.",
-      en: "Wadi Hadhramaut is a vast dry valley in eastern Yemen, stretching over 200 km. It is famed for its ancient mud-brick cities, including Shibam, a UNESCO World Heritage site. The wadi supports agriculture through seasonal floods, cultivating dates, citrus, and frankincense. Wildlife includes the Arabian leopard and various bird species. The valley has been a trade route for centuries.",
-    },
-    factsAdvanced: {
-      de: ["Das Wadi ist 200 Kilometer lang.", "Shibam hat über 500 Lehmziegelhäuser.", "Die Breite des Tals variiert zwischen 1 und 5 Kilometern.", "In Tarim gibt es 365 Moscheen.", "Die jährliche Niederschlagsmenge beträgt 100 mm.", "Der Arabische Leopard ist mit 40 Individuen vertreten."],
-      hu: ["A völgyben 200 000 ember él.", "Shibam épületei akár 30 méter magasak is lehetnek.", "A citrusfélék éves termése 50 000 tonna.", "A völgyben 100 km hosszú autóút halad.", "A frankincens export évi 5 millió USD.", "Tarim városában 1000 éves könyvtár található."],
-      ro: ["Shibam a fost fondat în secolul al XVI-lea.", "Valea are o altitudine medie de 700 m.", "Recolta de curmale este de 30.000 de tone/an.", "Există 15 specii de reptile endemice.", "Sistemul de irigații are 300 km de canale.", "UNESCO a declarat Shibam în 1982."],
-      en: ["Wadi Hadhramaut stretches 200 km east-west.", "Shibam's tallest building is 8 stories high.", "Date production exceeds 30,000 tons annually.", "The valley contains 20 ancient dam sites.", "Tarim's library holds 5,000 manuscripts.", "Over 100 bird species have been recorded."],
-    },
-  },
-  {
+    {
     id: "haraz-mountains-nature-v2",
     type: "mountain",
     parent: "YE-SN",

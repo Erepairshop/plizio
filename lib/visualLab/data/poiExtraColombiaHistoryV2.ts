@@ -167,40 +167,7 @@ export const poiExtraColombiaHistoryV2: POI[] = [
       en: ["Built 100 meters high from the bottom of the Guáitara River canyon.", "Current neo-Gothic structure took 33 years to complete (1916-1949).", "The back of the main altar is the actual stone wall of the canyon.", "Voted as the most beautiful church in the world by the Daily Telegraph in 2015.", "Major pilgrimage site for both Colombians and Ecuadorians."]
     }
   },
-  {
-    id: "salt-cathedral-zipaquira-history-v2",
-    type: "historical",
-    parent: "CO-CUN",
-    coords: [-74.0097, 5.0189],
-    name: { de: "Salzkathedrale von Zipaquirá", hu: "Zipaquirá sókatedrálisa", ro: "Catedrala de Sare din Zipaquirá", en: "Salt Cathedral of Zipaquirá"},
-    image: "/poi-images/salt-cathedral-zipaquira-history-v2.webp",
-    description: {
-      de: "Eine unterirdische römisch-katholische Kirche, die in den Tunneln eines Salzbergwerks erbaut wurde.",
-      hu: "Egy földalatti római katolikus templom, amelyet egy sóbánya alagútjaiban építettek.",
-      ro: "O biserică romano-catolică subterană construită în tunelurile unei mine de sare.",
-      en: "An underground Roman Catholic church built within the tunnels of a salt mine." },
-    facts: {
-      de: ["Befindet sich 200 Meter unter der Erde.", "Ein Meisterwerk kolumbianischer Architektur."],
-      hu: ["200 méterrel a föld alatt található.", "A kolumbiai építészet mesterműve."],
-      ro: ["Situată la 200 de metri sub pământ.", "O capodoperă a arhitecturii columbiene."],
-      en: ["Located 200 meters underground.", "A masterpiece of Colombian architecture."]
-    },
-    
-     image: "/poi-images/salt-cathedral-zipaquira-history-v2.webp",
-    descriptionAdvanced: {
-      de: "Eine unterirdische römisch-katholische Kirche, die in den Tunneln eines Salzbergwerks erbaut wurde. Befindet sich 200 Meter unter der Erde. Ein Meisterwerk kolumbianischer Architektur. Damit zählt der Ort zu den charakteristischen Punkten Kolumbiens und bietet einen Einblick in die regionale Identität. Liegt im südamerikanischen Staat Kolumbien. Region geprägt von vielfältigen Klimazonen zwischen Anden, Amazonas und Karibik. Erreichbar über das nationale Straßen- und Flugnetz. Spielt eine Rolle in der lokalen Wirtschaft und Kultur. Repräsentativ für die Vielfalt der kolumbianischen Landschaft. Bedeutendes Element des kolumbianischen Erbes.",
-      hu: "Ez a helyszín Kolumbia kulturális örökségének fontos része, amely gazdag történelmi múlttal bír. Az évszázadok során kialakult közösség és a környező táj együttesen formálta a régió egyedi arculatát. A látogatók betekintést nyerhetnek a helyi hagyományokba és a kolumbiai mindennapokba. Érdemes felfedezni a környék építészeti emlékeit és a természet adta szépségeket is.",
-      ro: "Bogata în istorie și tradiții, această destinație oferă o perspectivă unică asupra culturii columbiene vibrante. Peisajele sale impresionante și arhitectura locală spun povestea unei dezvoltări continue și a unei conexiuni profunde cu natura. Turiștii pot explora situri istorice fascinante care reflectă moștenirea diversă a regiunii și reziliența comunităților locale. Gastronomia și ospitalitatea oamenilor completează experiența, transformând orice vizită într-o amintire memorabilă și educativă. Această zonă este un exemplu perfect al echilibrului dintre conservarea valorilor tradiționale și modernizarea urbană.",
-      en: "The Salt Cathedral of Zipaquirá is a unique underground Roman Catholic church built within the tunnels of a salt mine, 200 meters below the surface of the Earth. Located in the department of Cundinamarca, it is considered one of the most important achievements of Colombian architecture and is often called a 'jewel of modern engineering'. The cathedral is divided into three sections representing the birth, life, and death of Jesus, with beautifully illuminated stations of the cross carved directly into the salt rock. The main nave features a colossal 16-meter high cross and impressive salt sculptures that create a mystical and serene atmosphere. It was built in the 1990s as a replacement for an older, unstable cathedral constructed by miners in the 1950s. This extraordinary site is not only a place of worship but also a major tourist attraction that showcases the country's mining heritage and artistic creativity."
-    },
-    factsAdvanced: {
-      de: ["Eine unterirdische römisch-katholische Kirche, die in den Tunneln eines Salzbergwerks erbaut wurde.", "Liegt im südamerikanischen Staat Kolumbien.", "Region geprägt von vielfältigen Klimazonen zwischen Anden, Amazonas und Karibik.", "Erreichbar über das nationale Straßen- und Flugnetz.", "Spielt eine Rolle in der lokalen Wirtschaft und Kultur.", "Repräsentativ für die Vielfalt der kolumbianischen Landschaft."],
-      hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."],
-      ro: ["Un element istoric cheie pentru History 6.", "O atracție culturală remarcabilă în zona History 6."],
-      en: ["Located 200 meters underground in a salt mine with 250 million years of history.", "Declared the 'First Wonder of Colombia' in a 2007 national contest.", "Can accommodate up to 3,000 worshippers during major services.", "Features the world's largest underground cross, standing 16 meters tall.", "Includes a complex lighting system that enhances the natural salt formations."]
-    }
-  },
-  {
+    {
     id: "villa-de-leyva-plaza-history-v2",
     type: "historical",
     parent: "CO-BOY",

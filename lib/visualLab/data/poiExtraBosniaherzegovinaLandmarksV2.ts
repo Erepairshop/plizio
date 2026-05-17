@@ -71,42 +71,7 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
       en: ["The mosque was completed in 1530 based on the designs of Adjem Esir Ali.", "The main dome has a diameter of about 13 meters and a height of 26 meters.", "Gazi Husrev-beg was the Ottoman governor of Bosnia from 1521 to 1541.", "The mosque first received electrical lighting in 1898.", "The height of the minaret reaches 45 meters.", "The fountain (šadrvan) in the courtyard is used for ritual ablutions.", "Severely damaged in the 1992 Bosnian War, but restored in 1996."]
     }
   },
-  {
-    id: "bosniaherzegovina-yellow-bastion-landmarks-v2",
-    parent: "BA",
-    type: "tower",
-    name: { de: "Gelbe Bastion", hu: "Sárga bástya", ro: "Bastionul Galben", en: "Yellow Bastion"},
-    image: "/poi-images/bosniaherzegovina-yellow-bastion-landmarks-v2.webp",
-    coords: [18.439, 43.8608],
-    coords: [18.439, 43.8608],
-    description: {
-      de: "Die Gelbe Bastion ist Teil der alten Stadtmauer von Sarajevo und bietet einen Panoramablick über das gesamte Tal.",
-      hu: "A Sárga bástya Szarajevó régi városfalának része, ahonnan panorámás kilátás nyílik az egész völgyre.",
-      ro: "Bastionul Galben face parte din vechiul zid de apărare al orașului Sarajevo și oferă o vedere panoramică asupra văii.",
-      en: "The Yellow Bastion is part of the old city wall of Sarajevo, offering a panoramic view over the entire valley.",
-    },
-    facts: {
-      de: ["Erbaut zwischen 1727 und 1739", "Bestandteil der Festung Vratnik", "Traditioneller Ort für den Ramadan-Kanonenschuss", "Beliebter Treffpunkt bei Sonnenuntergang"],
-      hu: ["1727 és 1739 között épült", "A Vratnik erődrendszer része", "A ramadáni ágyúlövés hagyományos helyszíne", "Kedvelt találkozóhely naplementekor"],
-      ro: ["Construit între 1727 și 1739", "Componentă a cetății Vratnik", "Locul tradițional al focului de tun de Ramadan", "Punct de belvedere popular la apus"],
-      en: ["Built between 1727 and 1739", "Part of the Vratnik fortification system", "Traditional site for the Ramadan cannon fire", "Popular spot for viewing the sunset"],
-    },
-    imageHint: "Yellow Bastion fortress in Sarajevo overlooking the city",
-    image: "/poi-images/bosniaherzegovina-yellow-bastion-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Gelbe Bastion (Žuta Tabija), hoch oben über Sarajevo gelegen, ist einer der bedeutendsten historischen Aussichtspunkte der bosnischen Hauptstadt. Sie wurde zwischen 1727 und 1739 unter dem Kommando des osmanischen Statthalters Gazi Ahmed-Pascha als Teil der massiven Vratnik-Festungsmauern errichtet, um die Stadt nach dem verheerenden Angriff durch Eugen von Savoyen im Jahr 1697 zu verteidigen. Ihre Bezeichnung verdankt die Anlage dem charakteristischen gelblichen Steinbruch, der für den Bau der massiven, unregelmäßig geformten achteckigen Mauern verwendet wurde. Heute ist die Gelbe Bastion vor allem als Ort tief verwurzelter lokaler Traditionen bekannt: Während des heiligen Monats Ramadan wird hier jeden Abend bei Sonnenuntergang eine Kanone abgefeuert, um das Ende des täglichen Fastens (Iftar) zu signalisieren. Von der Festung aus bietet sich Besuchern ein spektakulärer Panoramablick auf die Altstadt Baščaršija, die Hänge des Mount Trebević und das gesamte von Bergen umschlossene Sarajevo-Tal.",
-      hu: "A Sárga bástya (Žuta Tabija), amely magasan Szarajevó városa felett helyezkedik el, a bosnyák főváros egyik legjelentősebb történelmi kilátópontja. 1727 és 1739 között épült Gazi Ahmed pasa oszmán kormányzó parancsára, mint a hatalmas Vratnik erődítmény falainak része, hogy megvédje a várost Savoyai Jenő 1697-es pusztító támadása után. A bástya a nevét arról a jellegzetes sárgás kőről kapta, amelyet a robusztus, szabálytalan nyolcszög alaprajzú falak megépítéséhez használtak. Ma a Sárga bástya elsősorban a mélyen gyökerező helyi hagyományok helyszíneként ismert: a ramadán szent hónapja alatt minden este naplementekor elsütnek itt egy ágyút, ezzel jelezve a napi böjt (iftár) végét. Az erődből a látogatóknak látványos panoráma nyílik a Baščaršija óvárosra, a Trebević-hegy lejtőire és a hegyek által körülvett teljes szarajevói völgyre.",
-      ro: "Bastionul Galben (Žuta Tabija), situat la înălțime deasupra orașului Sarajevo, este unul dintre cele mai importante puncte de belvedere istorice ale capitalei bosniace. A fost construit între anii 1727 și 1739 la ordinul guvernatorului otoman Gazi Ahmed Pașa ca parte a masivelor ziduri ale cetății Vratnik, cu scopul de a apăra orașul după atacul devastator al lui Eugen de Savoia din 1697. Baza sa și-a primit numele de la piatra de carieră cu nuanță gălbuie, folosită la construcția pereților săi masivi de formă octogonală neregulată. Astăzi, Bastionul Galben este cunoscut în special ca un loc al tradițiilor locale profund înrădăcinate: pe durata lunii sfinte a Ramadanului, în fiecare seară la apus se trage cu un tun pentru a semnala sfârșitul postului zilnic (Iftar). De pe fortăreață, vizitatorii au parte de o vedere panoramică spectaculoasă asupra centrului vechi Baščaršija, versanților Muntelui Trebević și asupra întregii văi Sarajevo înconjurate de munți.",
-      en: "The Yellow Bastion (Žuta Tabija), perched high above Sarajevo, is one of the most significant historic viewpoints in the Bosnian capital. It was built between 1727 and 1739 under the command of Ottoman governor Gazi Ahmed Pasha as a key part of the massive Vratnik fortress walls, designed to protect the city after the devastating attack by Prince Eugene of Savoy in 1697. The fortification earned its name from the distinctive yellowish quarried stone used to construct its robust, irregularly shaped octagonal walls. Today, the Yellow Bastion is primarily famous as a site of deeply rooted local traditions: during the holy month of Ramadan, a cannon is fired from here every evening at sunset to mark the end of the daily fast (Iftar). The fortress offers visitors a spectacular panoramic view of the old town Baščaršija, the slopes of Mount Trebević, and the entire mountain-ringed Sarajevo valley."
-    },
-    factsAdvanced: {
-      de: ["Erbaut zwischen 1727 und 1739 unter der Leitung von Gazi Ahmed Pascha.", "Eine der fünf befestigten Bastionen des Vratnik-Festungssystems.", "Für den Bau wurde gelber Tuffstein verwendet, daher der Name.", "Die Verstärkung der Verteidigung wurde nach dem Angriff von Eugen von Savoyen 1697 notwendig.", "Der Grundriss hat die Form eines unregelmäßigen Achtecks.", "Die Dicke der Mauern erreicht stellenweise 1,5 Meter.", "Seit 1997 wird hier wieder die Kanone abgefeuert, um das Ende des Ramadan-Fastens zu signalisieren."],
-      hu: ["1727 és 1739 között épült Gazi Ahmed pasa vezetésével.", "A Vratnik erődrendszer öt megerősített bástyájának egyike.", "Az építéshez sárga tufakövet használtak, innen ered a neve.", "Savoyai Jenő 1697-es támadása után vált szükségessé a védelem megerősítése.", "Alaprajza egy szabálytalan nyolcszög formáját követi.", "Falainak vastagsága helyenként eléri az 1,5 métert.", "1997 óta újra innen sütik el az ágyút a ramadán böjtjének végét jelezve."],
-      ro: ["Construit între 1727 și 1739 sub conducerea lui Gazi Ahmed Pașa.", "Unul dintre cele cinci bastioane fortificate ale sistemului de cetăți Vratnik.", "Pentru construcție s-a folosit tuf galben, de unde și numele.", "Consolidarea apărării a devenit necesară după atacul lui Eugen de Savoia din 1697.", "Planul său are forma unui octogon neregulat.", "Grosimea zidurilor atinge pe alocuri 1,5 metri.", "Din 1997, tunul este tras din nou de aici pentru a semnala sfârșitul postului de Ramadan."],
-      en: ["Built between 1727 and 1739 under the leadership of Gazi Ahmed Pasha.", "One of the five fortified bastions of the Vratnik fortress system.", "Yellow tuff stone was used for its construction, hence the name.", "Strengthening the defense became necessary after the 1697 attack by Eugene of Savoy.", "Its floor plan is in the shape of an irregular octagon.", "The thickness of the walls reaches 1.5 meters in some places.", "Since 1997, the cannon has been fired from here again to signal the end of the Ramadan fast."]
-    }
-  },
-  {
+    {
     id: "bosniaherzegovina-pocitelj-fortress-landmarks-v2",
     parent: "BA",
     type: "castle",

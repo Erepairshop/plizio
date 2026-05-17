@@ -496,40 +496,7 @@ export const austriaReliefV2: POI[] = [
     },
     image: "/poi-images/austria-piz-buin-relief-v2.webp",
   },
-  {
-    id: "austria-hochkonig-gipfel-relief-v2",
-    type: "peak",
-    parent: "AT",
-    name: { de: "Hochkönig", hu: "Hochkönig", ro: "Hochkönig", en: "Hochkönig" },
-    coords: [13.0867, 47.4244],
-    description: {
-      de: "Der Hochkönig ist der höchste Berg der Berchtesgadener Alpen in Salzburg. Er zeichnet sich durch ein mächtiges Massiv aus.",
-      hu: "A Hochkönig a Berchtesgadeni-Alpok legmagasabb hegye Salzburgban. Hatalmas masszívum jellemzi.",
-      ro: "Hochkönig este cel mai înalt munte din Alpii Berchtesgaden în Salzburg. Se remarcă printr-un masiv impunător.",
-      en: "The Hochkönig is the highest mountain of the Berchtesgaden Alps in Salzburg. It is characterized by a massive massif.",
-    },
-    facts: {
-      de: ["Höhe: 2941 m", "Berchtesgadener Alpen", "Mächtiges Kalkmassiv", "Salzburger Land"],
-      hu: ["Magasság: 2941 m", "Berchtesgadeni-Alpok", "Hatalmas mészkőmasszívum", "Salzburg tartomány"],
-      ro: ["Înălțime: 2941 m", "Alpii Berchtesgaden", "Masiv calcaros impunător", "Landul Salzburg"],
-      en: ["Elevation: 2941 m", "Berchtesgaden Alps", "Massive limestone massif", "State of Salzburg"],
-    },
-    imageHint: "Hochkonig mountain",
-    descriptionAdvanced: {
-      de: "Der Hochkönig ist mit 2941 Metern der höchste Gebirgsstock der Berchtesgadener Alpen und liegt im österreichischen Bundesland Salzburg. Er zeichnet sich durch ein weites Kalkplateau aus, das von gewaltigen Felswänden, insbesondere der über 1000 Meter abfallenden Südwand, begrenzt wird. Eine Besonderheit des Hochkönigs ist die „Übergossene Alm“, ein Plateaugletscher, der jedoch infolge der Klimaerwärmung stark zurückgegangen ist. Geologisch besteht das Massiv überwiegend aus Dachsteinkalk auf einem Sockel aus Werfener Schiefern. Historisch war die Region am Fuße des Berges durch den Kupferbergbau in Mühlbach am Hochkönig geprägt, der über Jahrhunderte eine wichtige wirtschaftliche Basis bildete. Die Erstbesteigung des Hauptgipfels wird dem Jäger Peter Sigl im Jahr 1826 zugeschrieben. Heute ist der Hochkönig ein Paradies für Wanderer, Kletterer und Skitourengeher, wobei das Matrashaus direkt auf dem Gipfel eine der höchstgelegenen Schutzhütten der Ostalpen darstellt.",
-      hu: "A Hochkönig 2941 méteres magasságával a Berchtesgadeni-Alpok legmagasabb hegytömbje, amely az osztrák Salzburg tartományban található. Jellemzője egy tágas mészkőfennsík, amelyet hatalmas sziklafalak határolnak, különösen a több mint 1000 méter mélybe szakadó déli fal. A Hochkönig különlegessége az „Übergossene Alm” nevű platógleccser, amely azonban a globális felmelegedés következtében jelentősen visszahúzódott. Geológiailag a hegység túlnyomórészt Dachstein-mészkőből épül fel, amely egy Werfeni-pala alapon nyugszik. Történelmileg a hegy lábánál fekvő régiót a mühlbachi rézbányászat határozta meg, amely évszázadokon át fontos gazdasági alapot jelentett. A főcsúcs első megmászását Peter Sigl vadásznak tulajdonítják 1826-ban. Napjainkban a Hochkönig a túrázók, sziklamászók és sítúrázók paradicsoma, a közvetlenül a csúcson található Matrashaus pedig a Keleti-Alpok egyik legmagasabban fekvő menedékháza.",
-      ro: "Hochkönig este, la 2941 de metri, cel mai înalt masiv din Alpii Berchtesgaden, situat în statul federal austriac Salzburg. Se caracterizează printr-un platou calcaros vast, delimitat de pereți stâncoși uriași, în special peretele sudic care are o cădere de peste 1000 de metri. O trăsătură specială a masivului Hochkönig este „Übergossene Alm”, un ghețar de platou care s-a retras semnificativ ca urmare a încălzirii globale. Din punct de vedere geologic, masivul este format predominant din calcar de Dachstein pe un soclu de șisturi de Werfen. Din punct de vedere istoric, regiunea de la poalele muntelui a fost marcată de mineritul cuprului în Mühlbach am Hochkönig, care a constituit o bază economică importantă timp de secole. Prima ascensiune a vârfului principal îi este atribuită vânătorului Peter Sigl în anul 1826. Astăzi, Hochkönig este un paradis pentru turiști, alpiniști și schiori de tură, cabana Matrashaus, situată chiar pe vârf, fiind una dintre cele mai înalte din Alpii Orientali.",
-      en: "At 2,941 meters, the Hochkönig is the highest massif of the Berchtesgaden Alps, located in the Austrian state of Salzburg. It is characterized by a vast limestone plateau bounded by massive rock faces, most notably the southern face which drops over 1,000 meters. A unique feature of the Hochkönig is the 'Übergossene Alm,' a plateau glacier that has significantly retreated due to global warming. Geologically, the massif consists primarily of Dachstein limestone resting on a base of Werfen schists. Historically, the region at the mountain's foot was shaped by copper mining in Mühlbach am Hochkönig, which provided an important economic foundation for centuries. The first ascent of the main summit is attributed to the hunter Peter Sigl in 1826. Today, the Hochkönig is a haven for hikers, climbers, and ski tourers, with the Matrashaus located directly on the summit being one of the highest mountain huts in the Eastern Alps.",
-    },
-    factsAdvanced: {
-      de: ["Der Hochkönig ist mit 2941 m der höchste Berg der Berchtesgadener Alpen.", "Die Übergossene Alm ist ein seltener Plateaugletscher am Gipfel.", "Peter Sigl gelang im Jahr 1826 die erste dokumentierte Besteigung.", "Das Matrashaus steht direkt auf dem Gipfel des Berges.", "Die Region war jahrhundertelang ein Zentrum des Kupferbergbaus.", "Der Gipfel bietet eine Fernsicht bis zum Großglockner und Dachstein."],
-      hu: ["A 2941 méteres Hochkönig a Berchtesgadeni-Alpok legmagasabb pontja.", "Az Übergossene Alm egy ritka platógleccser a hegy tetején.", "Az első dokumentált megmászás 1826-ban történt Peter Sigl által.", "A Matrashaus menedékház közvetlenül a hegycsúcson épült fel.", "A környék évszázadokon át a rézbányászat egyik központja volt.", "A csúcsról tiszta időben a Großglockner és a Dachstein is látható."],
-      ro: ["Hochkönig este cel mai înalt munte din Alpii Berchtesgaden, la 2941 m.", "Übergossene Alm este un ghețar de platou rar situat pe vârf.", "Prima ascensiune documentată a fost realizată în 1826 de Peter Sigl.", "Cabana Matrashaus este situată chiar pe vârful muntelui.", "Regiunea a fost timp de secole un centru al mineritului de cupru.", "Vârful oferă o panoramă până la masivele Großglockner și Dachstein."],
-      en: ["The Hochkönig is the highest peak in the Berchtesgaden Alps at 2,941 meters.", "The Übergossene Alm is a rare plateau glacier located at the summit.", "Peter Sigl achieved the first documented ascent in the year 1826.", "The Matrashaus mountain hut is situated directly on the summit.", "The region was a center for copper mining for many centuries.", "The summit offers panoramic views stretching to Großglockner and Dachstein."],
-    },
-    image: "/poi-images/austria-hochkonig-gipfel-relief-v2.webp",
-  },
-  {
+    {
     id: "austria-kitzsteinhorn-relief-v2",
     type: "mountain",
     parent: "AT",

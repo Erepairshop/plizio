@@ -298,40 +298,7 @@ export const franceNatureV2: POI[] = [
     },
     image: "/poi-images/france-ile-de-brehat-nature-v2.webp",
   },
-  {
-    id: "france-gorges-de-l-ardeche-nature-v2",
-    type: "valley",
-    parent: "FR",
-    name: { de: "Ardèche-Schlucht", hu: "Ardèche-kanyon", ro: "Cheile Ardèche", en: "Ardèche Gorges" },
-    coords: [4.4167, 44.3833],
-    description: {
-      de: "Die Schlucht wurde über Jahrtausende vom Fluss Ardèche in den Kalkstein gegraben. Sie ist für den markanten Natursteinbogen Pont d'Arc bekannt.",
-      hu: "A kanyont az Ardèche folyó vájta a mészkőbe évezredek során. Jellegzetes természeti látnivalója a Pont d'Arc sziklahíd.",
-      ro: "Cheile au fost săpate în calcar de râul Ardèche de-a lungul mileniilor. Este cunoscută pentru arcada naturală de piatră Pont d'Arc.",
-      en: "The gorge was carved into limestone by the Ardèche River over millennia. It is known for the distinctive natural stone arch, Pont d'Arc.",
-    },
-    facts: {
-      de: ["Länge: ca. 30 km", "Geologie: Kalkstein", "Hauptattraktion: Pont d'Arc", "Region: Auvergne-Rhône-Alpes"],
-      hu: ["Hossz: kb. 30 km", "Geológia: Mészkő", "Fő látnivaló: Pont d'Arc", "Régió: Auvergne-Rhône-Alpes"],
-      ro: ["Lungime: aprox. 30 km", "Geologie: Calcar", "Obiectiv principal: Pont d'Arc", "Regiune: Auvergne-Rhône-Alpes"],
-      en: ["Length: approx. 30 km", "Geology: Limestone", "Main attraction: Pont d'Arc", "Region: Auvergne-Rhône-Alpes"],
-    },
-    imageHint: "Ardeche Gorges Pont d'Arc",
-    descriptionAdvanced: {
-      de: "Die Gorges de l'Ardèche sind ein spektakulärer Canyon im Süden Frankreichs, der sich über etwa 30 Kilometer zwischen Vallon-Pont-d'Arc und Saint-Martin-d'Ardèche erstreckt. Der Fluss Ardèche hat sich über Jahrmillionen tief in das Kalksteinplateau eingegraben und dabei beeindruckende Felswände von bis zu 300 Metern Höhe geschaffen. Ein herausragendes geomorphologisches Merkmal ist der Pont d'Arc, eine natürliche Steinbrücke von 60 Metern Spannweite, die den Eingang zur Schlucht markiert. Geologisch gehört das Gebiet zum Karstsystem, was zur Bildung zahlreicher Höhlen geführt hat, darunter die berühmte Grotte Chauvet mit ihren prähistorischen Malereien. Historisch dienten die Schluchten als natürlicher Schutzraum für frühe Menschen. Heute ist das Gebiet als Naturschutzgebiet (Réserve Naturelle Nationale) ausgewiesen, um die reiche Flora und Fauna zu bewahren. Für Touristen bieten die Schluchten zahlreiche Möglichkeiten zum Kanufahren und Wandern, während die Panoramastraße oberhalb des Canyons atemberaubende Ausblicke auf die Windungen des Flusses ermöglicht.",
-      hu: "Az Ardèche-szurdok egy lenyűgöző kanyon Dél-Franciaországban, amely mintegy 30 kilométer hosszan húzódik Vallon-Pont-d'Arc és Saint-Martin-d'Ardèche között. Az Ardèche folyó évmilliók alatt vájt mély utat a mészkőfennsíkba, létrehozva az akár 300 méter magas sziklafalakat. A terület leglátványosabb képződménye a Pont d'Arc, egy 60 méter széles természetes kőhíd, amely a szurdok bejáratát jelzi. Geológiailag a vidék a karsztrendszer része, ami számos barlang kialakulásához vezetett, köztük a híres Chauvet-barlanghoz, amely világhírű őskori sziklarajzairól ismert. Történelmileg a kanyon védelmet nyújtott az itt élő korai embereknek. Ma a terület nemzeti természetvédelmi terület, amely védi a különleges növény- és állatvilágot. A turisták számára a szurdok a kenu- és kajaktúrák paradicsoma, míg a kanyon peremén futó panorámaút lélegzetelállító kilátást nyújt a folyó kanyarulataira.",
-      ro: "Cheile Ardèche reprezintă un canion spectaculos din sudul Franței, întinzându-se pe o distanță de aproximativ 30 de kilometri între Vallon-Pont-d'Arc și Saint-Martin-d'Ardèche. Râul Ardèche a săpat adânc în platoul calcaros de-a lungul a milioane de ani, creând pereți stâncoși impunători cu o înălțime de până la 300 de metri. O caracteristică geomorfologică remarcabilă este Pont d'Arc, un pod natural de piatră cu o deschidere de 60 de metri, care marchează intrarea în chei. Din punct de vedere geologic, regiunea face parte dintr-un sistem carstic complex, ceea ce a dus la formarea a numeroase peșteri, inclusiv faimoasa Grotă Chauvet, celebră pentru picturile sale preistorice. Istoric, canionul a oferit adăpost comunităților umane timpurii. În prezent, zona este declarată Rezervație Naturală Națională pentru a proteja biodiversitatea locală. Pentru turiști, cheile sunt o destinație majoră pentru canotaj și drumeții, în timp ce drumul panoramic de pe marginea canionului oferă vederi uluitoare asupra meandrelor râului.",
-      en: "The Ardèche Gorges are a spectacular canyon in southern France, extending for about 30 kilometers between Vallon-Pont-d'Arc and Saint-Martin-d'Ardèche. Over millions of years, the Ardèche River has carved deeply into the limestone plateau, creating massive cliffs reaching heights of up to 300 meters. A standout geomorphological feature is the Pont d'Arc, a natural stone bridge with a span of 60 meters that marks the gateway to the gorges. Geologically, the area is part of a karst system, which has led to the formation of numerous caves, most notably the Chauvet Cave, famous for its world-renowned prehistoric paintings. Historically, the canyon provided natural shelter for early humans. Today, the area is designated as a National Nature Reserve to preserve its rich biodiversity. For visitors, the gorges are a premier destination for canoeing and hiking, while a panoramic road running along the top of the canyon offers breathtaking views of the river's winding curves.",
-    },
-    factsAdvanced: {
-      de: ["Die Schlucht ist ca. 30 Kilometer lang.", "Die Felswände ragen bis zu 300 Meter hoch auf.", "Der Pont d'Arc ist 54 Meter hoch.", "Das Gebiet ist seit 1980 ein Naturschutzgebiet.", "In der Nähe liegt die Chauvet-Höhle (36.000 Jahre alt).", "Jedes Jahr befahren Tausende Kanus den Fluss."],
-      hu: ["A kanyon hossza körülbelül 30 kilométer.", "A sziklafalak magassága eléri a 300 métert.", "A Pont d'Arc kőhíd magassága 54 méter.", "A terület 1980 óta nemzeti természetvédelmi terület.", "A közeli Chauvet-barlang 2014-ben lett a Világörökség része.", "A folyó folyásiránya északnyugatról délkeletre tart."],
-      ro: ["Canionul are o lungime de aproximativ 30 km.", "Pereții de stâncă au o înălțime maximă de 300 m.", "Podul natural Pont d'Arc are o înălțime de 54 m.", "Zona este rezervație naturală din anul 1980.", "Gheile adăpostesc Peștera Chauvet, sit UNESCO.", "Râul Ardèche este un afluent al fluviului Ron."],
-      en: ["The canyon is approximately 30 kilometers long.", "The cliffs rise up to 300 meters above the river.", "The Pont d'Arc natural bridge is 54 meters high.", "The area has been a nature reserve since 1980.", "The nearby Chauvet Cave dates back 36,000 years.", "It is a top destination for kayaking in Europe."],
-    },
-    image: "/poi-images/france-gorges-de-l-ardeche-nature-v2.webp",
-  },
-  {
+    {
     id: "france-plateau-de-valensole-nature-v2",
     type: "park",
     parent: "FR",

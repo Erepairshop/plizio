@@ -454,37 +454,7 @@ export const poiExtraMaliCitiesV2: POI[] = [
       en: ["Major center for Islamic scholarship and Quranic schools", "Located in the semi-arid transition zone of the Sahel", "Key producer of millet, sorghum, and groundnuts (peanuts)", "Known for its historic 1905 anti-slavery movement", "Strategic market town on the northern plains of Koulikoro", "Center for traditional Malinké and Bambara cultural values", "Host to a large and vibrant weekly livestock market", "Significantly influenced by its proximity to the Sahara edge"]
     }
   },
-  {
-    id: "san-cities-v2",
-    type: "city",
-    parent: "ML-4",
-    coords: [-4.8956, 13.3033],
-    name: { de: "San", hu: "San", ro: "San", en: "San"},
-    image: "/poi-images/san-cities-v2.webp",
-    description: {
-      de: "Die Stadt ist ein historisches Zentrum der Bobo-Ethnie und besitzt eine wunderschöne traditionelle Lehmmoschee.",
-      hu: "A város a Bobo etnikum történelmi központja, és egy gyönyörű hagyományos vályogmecsettel rendelkezik.",
-      ro: "Orașul este un centru istoric al etniei Bobo și are o frumoasă moschee tradițională din lut.",
-      en: "The city is a historic center of the Bobo ethnic group and has a beautiful traditional mud mosque."
-    },
-    facts: {
-      de: ["Zentrum der Bobo-Kultur", "Architektonisch wertvolle Lehmmoschee"],
-      hu: ["A bobo kultúra központja", "Építészetileg értékes vályogmecset"],
-      ro: ["Centrul culturii Bobo", "Moschee din lut de valoare arhitecturală"],
-      en: ["Center of the Bobo culture", "Architecturally valuable mud mosque"]
-    },
-    descriptionAdvanced: {
-      hu: "San városa a Ségou régióban, a Bani folyó közelében fekszik, és híres vályogmecsetjéről, amely a Djenné-i mecset stílusát idézi. A város a környék mezőgazdasági kereskedelmének központja, különösen a gyapot és a gabonafélék piacán játszik fontos szerepet. San kulturális életének csúcspontja a Sanké-mon rituális halászati ünnep, amelyet évente rendeznek meg a Sanké-tónál, és az UNESCO szellemi örökségének része. Ez az esemény nemcsak a közös halászatról szól, hanem a helyi közösségek egységét és hagyományait is erősíti. A város fontos megálló a Bamako és Mopti közötti főúton. Kultúra K7 — szellemi világörökség Afrikában.",
-      ro: "San este un oraș vital din regiunea Ségou, situat în apropierea râului Bani, fiind renumit pentru moscheea sa impunătoare din chirpici, care amintește de stilul marii moschei din Djenné. Orașul este inima culturii Bobo și joacă un rol esențial în comerțul agricol, în special cu bumbac și cereale. Punctul culminant al vieții culturale din San este festivalul 'Sanké-mon', un ritual de pescuit colectiv desfășurat anual pe lacul Sanké, care a fost inclus pe lista patrimoniului imaterial UNESCO. Acest eveniment simbolizează unitatea comunității și respectul pentru tradițiile ancestrale, atrăgând mii de participanți. Kultúra K7 — patrimoniul imaterial în Africa.",
-      en: "San is a key commercial and agricultural town located in the Ségou Region, strategically positioned on the main road between Bamako and Mopti. It is the heart of a productive agricultural basin, particularly famous for its high-quality cotton and grain production. The town's architecture is dominated by its magnificent Great Mosque, built in the Sudano-Sahelian style, which is one of the most beautiful examples of mud-brick construction in Mali. San is also famous for the annual 'Sanké mon' fishing festival, an UNESCO-listed event held at the nearby Sanké pond. It is a vibrant hub where traditional Sahelian culture and modern commerce meet. Culture K7 — Festivals and religious architecture."
-    },
-    factsAdvanced: {
-      hu: ["Híres a Sanké-mon halászati ünnepről", "UNESCO Szellemi Kulturális Örökség része", "Impozáns vályogmecset jellemzi", "Fontos mezőgazdasági elosztó központ", "A Bani folyó síkságán fekszik", "Ségou régió második legnagyobb városa", "Híres a hagyományos kerámiáiról"],
-      ro: ["Renumit pentru festivalul de pescuit Sanké-mon", "Parte a patrimoniului cultural imaterial UNESCO", "Caracterizat printr-o moschee monumentală din lut", "Centru important de distribuție agricolă", "Situat în câmpia inundabilă a râului Bani", "Al doilea oraș ca mărime din regiunea Ségou", "Faimos pentru producția de ceramică tradițională"],
-      en: ["Center of the annual 'Sanké mon' ritual fishing festival", "Home to a spectacular Sudano-Sahelian Great Mosque", "Key logistics hub on the highway connecting Bamako to the north", "Major industrial center for cotton ginning and grain trade", "Located in the fertile Bani River floodplains", "Known for its unique traditional mud-cloth (bogolan) patterns", "The 'Sanké mon' festival is inscribed on the UNESCO Intangible List", "Strategic market for agricultural products from central Mali"]
-    }
-  },
-  {
+    {
     id: "koulikoro-cities-v2",
     type: "city",
     parent: "ML-2",

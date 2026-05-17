@@ -307,41 +307,7 @@ imageHint: "Novgorod Kremlin red brick walls and towers",
       en: []
     }
     , image: "/poi-images/russia-novgorod-kremlin-history-v2.webp",
-},  {
-    id: "russia-pskov-kremlin-history-v2",
-    parent: "RU",
-    type: "castle",
-    name: { de: "Pskower Kreml", hu: "Pszkovi kreml", ro: "Kremlinul din Pskov", en: "Pskov Kremlin"},
-    image: "/poi-images/russia-pskov-kremlin-history-v2.webp",
-    coords: [28.3303, 57.8222],
-    coords: [28.3303, 57.8222],
-    description: {
-      de: "Die als 'Krom' bekannte Zitadelle von Pskow liegt an der Mündung des Flusses Pskowa in die Welikaja. Sie war eine der mächtigsten Festungen an der Westgrenze des alten Russlands.",
-      hu: "A 'Krom' néven ismert pszkovi citadella a Pszkova folyó torkolatánál fekszik. A régi Oroszország egyik leghatalmasabb erődje volt a nyugati határon.",
-      ro: "Cunoscută sub numele de 'Krom', citadela din Pskov se află la confluența râurilor Pskova și Velikaya. A fost una dintre cele mai puternice fortărețe de la granița vestică.",
-      en: "Known as the 'Krom', the citadel of Pskov is located at the confluence of the Pskova and Velikaya rivers. It was one of the most powerful fortresses on Russia's western border.",
-    },
-    facts: {
-      de: ["Kern der mittelalterlichen Stadt", "Beherbergt die Dreifaltigkeitskathedrale", "Weiße Steinmauern bis zu 8m dick", "Hielt zahlreichen Belagerungen stand"],
-      hu: ["A középkori város magja", "Itt áll a Szentháromság-székesegyház", "Fehér kőfalak, akár 8m vastagságban", "Számos ostromnak ellenállt"],
-      ro: ["Nucleul orașului medieval", "Găzduiește Catedrala Treimii", "Ziduri de piatră albă de 8m grosime", "A rezistat la numeroase asedii"],
-      en: ["Core of the medieval city", "Hosts the Trinity Cathedral", "White stone walls up to 8m thick", "Withstood numerous historic sieges"],
-    },
-imageHint: "Pskov Kremlin Krom fortress and Trinity Cathedral",
-    descriptionAdvanced: {
-      de: "Der Pskower Kreml, lokal als Krom bekannt, thront eindrucksvoll auf einem schmalen felsigen Kap an der Mündung der Pskowa in den breiten Fluss Welikaja. Dieses massive Verteidigungssystem aus weißem Kalkstein war über Jahrhunderte das uneinnehmbare militärische und geistliche Zentrum der westlichsten Grenzen Russlands. Angesichts wiederholter Bedrohungen durch den Deutschen Orden, litauische und schwedische Heere bauten die Bürger Pskows eine Festungsarchitektur auf, deren Mauern bis zu acht Meter dick sind. Die mächtigen Wachtürme, darunter der Vlasyewskaja- und der Dovmont-Turm, sicherten den Handelsweg und die Stadt. Im Herzen der Festung ragt die goldkuppelige Dreifaltigkeitskathedrale in den Himmel, die bis ins 17. Jahrhundert das größte Gebäude Pskows war und wo einst das Veche, die Stadtversammlung der unabhängigen Pskower Republik, abgehalten wurde. Heute gilt der Krom als Symbol der russischen Unbeugsamkeit.",
-      hu: "A pszkovi Kreml, helyi nevén a Krom, lenyűgözően magasodik egy keskeny, sziklás hegyfokon, ahol a Pszkova folyó a széles Velikaja folyóba ömlik. Ez a fehér mészkőből épült hatalmas védelmi rendszer évszázadokon át Oroszország legnyugatibb határainak bevehetetlen katonai és szellemi központja volt. A Német Lovagrend, a litván és a svéd seregek ismétlődő fenyegetései miatt a pszkovi polgárok olyan erődítményt építettek, amelynek falai helyenként elérik a nyolc méteres vastagságot. A masszív őrtornyok, köztük a Vlaszjevszkaja- és a Dovmont-torony biztosították a kereskedelmi útvonalakat és magát a várost. Az erőd szívében emelkedik a magasba az aranykupolás Szentháromság-székesegyház, amely a 17. századig Pszkov legnagyobb épülete volt, és amely előtt egykor a független pszkovi köztársaság népgyűléseit, a vecsét tartották. A Krom ma is az orosz hajthatatlanság és mérnöki tudás szimbóluma.",
-      ro: "Kremlinul din Pskov, cunoscut pe plan local sub numele de Krom, este așezat impresionant pe un promontoriu stâncos îngust la confluența râului Pskova cu latul râu Velikaya. Acest sistem masiv de apărare, din calcar alb, a fost timp de secole centrul militar și spiritual inexpugnabil al granițelor vestice ale Rusiei. Confruntându-se cu amenințări repetate din partea Ordinului Teuton, precum și a armatelor lituaniene și suedeze, cetățenii din Pskov au construit o arhitectură de fortăreață cu ziduri ce ating opt metri grosime. Turnurile masive de pază, inclusiv Vlasyevskaya și Dovmont, au asigurat rutele comerciale și orașul. În inima cetății se înalță Catedrala Treimii, cu cupolele sale aurii, care până în secolul XVII a fost cea mai mare clădire din Pskov, fiind locul unde se desfășura Veche – adunarea orașului a republicii independente Pskov. Astăzi, Krom este considerat un simbol al perseverenței ruse.",
-      en: "The Pskov Kremlin, locally known as the Krom, is impressively perched on a narrow rocky promontory at the confluence of the Pskova River into the broad Velikaya River. This massive defense system constructed of white limestone served for centuries as the impregnable military and spiritual center of Russia's westernmost borders. Facing repeated threats from the Teutonic Order, as well as Lithuanian and Swedish armies, the citizens of Pskov built a fortress architecture whose walls reach up to eight meters in thickness. The mighty watchtowers, including the Vlasyevskaya and Dovmont towers, secured the trade routes and the city. In the heart of the fortress rises the golden-domed Trinity Cathedral, which was Pskov's largest building until the 17th century, where the Veche, the city assembly of the independent Pskov Republic, was once held. Today, the Krom stands as a symbol of Russian resilience."
-    },
-    factsAdvanced: {
-      de: [],
-      hu: [],
-      ro: [],
-      en: []
-    }
-    , image: "/poi-images/russia-pskov-kremlin-history-v2.webp",
-},  {
+},    {
     id: "russia-suzdal-kremlin-history-v2",
     parent: "RU",
     type: "castle",

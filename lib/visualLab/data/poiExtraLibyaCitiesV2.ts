@@ -608,41 +608,7 @@ export const poiExtraLibyaCitiesV2: POI[] = [
     
     
   },
-  {
-    id: "sabratha-cities-v2",
-    type: "city",
-    parent: "LY-ZA",
-    coords: [12.4853, 32.7933],
-    name: { de: "Sabratha", hu: "Szabráta", ro: "Sabratha", en: "Sabratha"},
-    image: "/poi-images/sabratha-cities-v2.webp",
-    description: {
-      de: "Moderne Stadt an der Küste, die direkt neben einem bedeutenden antiken Theater liegt.",
-      hu: "Modern tengerparti város, amely egy jelentős ókori színház közvetlen közelében fekszik.",
-      ro: "Oraș modern pe coastă, situat chiar lângă un teatru antic important.",
-      en: "Modern coastal city located directly adjacent to an important ancient theater."
-    },
-    descriptionAdvanced: {
-      en: "Sabratha is a modern coastal town that exists in the shadow of its magnificent ancient past. It is best known globally for the stunning Roman theater that overlooks the Mediterranean, part of a UNESCO World Heritage archaeological site. The modern town functions as an agricultural and fishing center, while also hosting a significant oil terminal. The contrast between daily contemporary Libyan life and towering ancient columns defines the city's atmosphere. History K6 — Roman architecture and coastal trade.",
-      de: "Sabratha ist eine der eindrucksvollsten antiken Küstenst?dte Libyens und liegt westlich von Tripolis direkt am Mittelmeer. Berühmt wurde der Ort vor allem durch sein r?misches Theater und die gut sichtbaren Ruinen, die den ?bergang von der ph?nizischen zur r?mischen Stadtgeschichte zeigen. Sabratha ist UNESCO-Welterbe und damit ein zentraler Ort f?r das Verst?ndnis der antiken Siedlungskultur in Nordafrika. Zugleich bleibt die Stadt ein Beispiel daf?r, wie arch?ologische Bedeutung und heutiges Küstenleben nebeneinander bestehen. Geschichte K8 ? Antike und Welterbe.",
-      hu: "A(z) Szabráta a líbiai földrajz és kultúra figyelemre méltó eleme. Modern tengerparti város, amely egy jelentős ókori színház közvetlen közelében fekszik. UNESCO Világörökségi helyszín található a közvetlen szomszédságában. Fontos turisztikai célpont. Ez a város Líbia jellegzetes települései közé tartozik, a Tripoli és Bengázi körüli földközi-tengeri partvidék és a Szahara végtelenje között. Líbia számos jelentős helyszínéhez hasonlóan ez is ötvözi a föníciai-római és berber örökséget a mediterrán és szaharai hatásokkal. Ezzel a helyszín hozzájárul Líbia sokszínű arculatához, az ókori romok, a sivatagi oázisok és a földközi-tengeri partvidék között.",
-      ro: "Sabratha este un element remarcabil al geografiei și culturii libiene. Oraș modern pe coastă, situat chiar lângă un teatru antic important. Sit al Patrimoniului Mondial UNESCO în imediata vecinătate. Un magnet pentru turiști. Acest oraș se numără printre așezările caracteristice ale Libiei, între coasta mediteraneană din jurul orașelor Tripoli și Bengazi și întinderile Saharei. Asemenea multor locuri importante din Libia, acesta îmbină moștenirea punico-romană și berberă cu influențele mediteraneene și sahariene. Astfel, acest loc contribuie la profilul variat al Libiei, între ruinele antice, oazele deșertului și coasta Mediteranei."
-    },
-    factsAdvanced: {
-      en: ["Located 70 kilometers west of Tripoli along the coast.", "Home to a remarkably preserved 3rd-century Roman theater.", "The ancient ruins are designated as a UNESCO World Heritage site.", "Modern economy includes agriculture, fishing, and a nearby oil terminal.", "Originally founded as a Phoenician trading post.", "Features beautiful, expansive beaches along the Mediterranean."],
-      de: ["UNESCO-Welterbe an der libyschen Westküste.", "Berühmt f?r das r?mische Theater.", "Liegt westlich von Tripolis am Meer.", "Geht auf ph?nizische Anf?nge zurück.", "Z?hlt zu den wichtigsten Ruinenst?tten Libyens.", "Verbindet Antike, Tourismus und Küstenlage."],
-      hu: ["Modern tengerparti város, amely egy jelentős ókori színház közvetlen közelében fekszik.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Oraș modern pe coastă, situat chiar lângă un teatru antic important.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
-    },
-    facts: {
-      de: ["UNESCO-Weltkulturerbe in direkter Nachbarschaft.", "Ein Anziehungspunkt für Touristen."],
-      hu: ["UNESCO Világörökségi helyszín található a közvetlen szomszédságában.", "Fontos turisztikai célpont."],
-      ro: ["Sit al Patrimoniului Mondial UNESCO în imediata vecinătate.", "Un magnet pentru turiști."],
-      en: ["UNESCO World Heritage site is in its immediate vicinity.", "A major draw for international tourists."]
-    }, image: "/poi-images/sabratha-cities-v2.webp",
-    
-    
-  },
-  {
+    {
     id: "al-jamil-cities-v2",
     type: "city",
     parent: "LY-NQ",

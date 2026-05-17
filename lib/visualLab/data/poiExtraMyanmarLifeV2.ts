@@ -163,34 +163,7 @@ export const poiExtraMyanmarLifeV2: POI[] = [
       en: ["The square covers 10 hectares.", "It was created in 1995.", "The flagpole is 30 meters high.", "The square can accommodate 50,000 people.", "There are 4 fountains in the square.", "20 events are held here annually."],
     },
   },
-  {
-    id: "mahabandoola-park-life-v2",
-    type: "park",
-    parent: "MM-06",
-    coords: [96.1594, 16.7733],
-    name: { de: "Maha-Bandula-Park", hu: "Maha Bandula Park", ro: "Parcul Maha Bandula", en: "Maha Bandula Park"},
-    image: "/poi-images/mahabandoola-park-life-v2.webp",
-    description: { de: "Ein historischer Park im Herzen der Innenstadt von Rangun, umgeben von kolonialer Architektur und der berühmten Sule-Pagode.", hu: "Egy történelmi park Rangun belvárosának szívében, gyarmati építészettel és a híres Sule-pagodával körülvéve.", ro: "Un parc istoric în inima centrului orașului Yangon, înconjurat de arhitectură colonială și faimoasa Pagodă Sule.", en: "A historic park in the heart of downtown Yangon, surrounded by colonial architecture and the famous Sule Pagoda." },
-    facts: {
-      de: ["Benannt nach General Maha Bandula, einem Nationalhelden des 19. Jahrhunderts.", "Im Zentrum des Parks steht das Unabhängigkeitsdenkmal Myanmars.", "Vor der Unabhängigkeit war er als Fytche Square bekannt.", "Ein zentraler Treffpunkt für Einheimische und Straßenverkäufer."],
-      hu: ["Maha Bandula tábornokról, egy 19. századi nemzeti hősről nevezték el.", "A park közepén Mianmar függetlenségi emlékműve áll.", "A függetlenség előtt Fytche Square néven ismerték.", "A helyiek és az utcai árusok központi találkozóhelye."],
-      ro: ["Numit după generalul Maha Bandula, un erou național din secolul al XIX-lea.", "În centrul parcului se află Monumentul Independenței din Myanmar.", "Înainte de independență a fost cunoscut sub numele de Piața Fytche.", "Un punct central de întâlnire pentru localnici și vânzătorii ambulanți."],
-      en: ["Named after General Maha Bandula, a 19th-century national hero.", "The center of the park features Myanmar's Independence Monument.", "Before independence, it was known as Fytche Square.", "A central gathering point for locals and street vendors."]
-    }, image: "/poi-images/mahabandoola-park-life-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Maha Bandula Park (auch Mahabandoola Park) in Yangon ist ein zentraler Park mit einer Fläche von 7 Hektar. Ursprünglich als Fife Park bekannt, wurde er nach der Unabhängigkeit umbenannt. Der Park beherbergt das Unabhängigkeitsdenkmal und ist von wichtigen Gebäuden wie dem Rathaus und dem Obersten Gericht umgeben. Er ist ein beliebter Ort für Spaziergänge und Ruhepausen. Der Park ist gut gepflegt und hat viele Bäume. Er wird auch für politische Versammlungen genutzt.",
-      hu: "A Maha Bandula Park (más néven Mahabandoola Park) Yangon központi parkja, 7 hektáros területtel. Eredetileg Fife Park néven ismerték, a függetlenség után nevezték át. Itt található a Függetlenségi Emlékmű, és fontos épületek veszik körül, mint a városháza és a legfelsőbb bíróság. Népszerű hely sétákhoz és pihenéshez. A park jól karbantartott, sok fával. Politikai gyűlések helyszíne is.",
-      ro: "Parcul Maha Bandula (cunoscut și ca Mahabandoola Park) din Yangon este un parc central cu o suprafață de 7 hectare. Cunoscut inițial sub numele de Fife Park, a fost redenumit după independență. Parcul găzduiește Monumentul Independenței și este înconjurat de clădiri importante precum Primăria și Curtea Supremă. Este un loc popular pentru plimbări și relaxare. Parcul este bine întreținut, cu mulți copaci. De asemenea, este folosit pentru adunări politice.",
-      en: "Maha Bandula Park (also Mahabandoola Park) in Yangon is a central park covering 7 hectares. Originally known as Fife Park, it was renamed after independence. The park houses the Independence Monument and is surrounded by important buildings like City Hall and the Supreme Court. It is a popular spot for walks and relaxation. The park is well-maintained with many trees. It is also used for political gatherings.",
-    },
-    factsAdvanced: {
-      de: ["Der Park ist 7 Hektar groß.", "Er wurde 1868 als Fife Park angelegt.", "Das Denkmal im Park ist 54 Meter hoch.", "Der Park hat 200 Bäume.", "Jährlich besuchen 1 Million Menschen den Park.", "Der Park wurde 2014 renoviert."],
-      hu: ["A park 7 hektár területű.", "1868-ban hozták létre Fife Park néven.", "A parkban lévő emlékmű 54 méter magas.", "A parkban 200 fa található.", "Évente 1 millió ember látogatja.", "2014-ben újították fel."],
-      ro: ["Parcul are 7 hectare.", "A fost amenajat în 1868 sub numele de Fife Park.", "Monumentul din parc are 54 de metri înălțime.", "Parcul are 200 de copaci.", "1 milion de oameni vizitează parcul anual.", "Parcul a fost renovat în 2014."],
-      en: ["The park covers 7 hectares.", "It was established in 1868 as Fife Park.", "The monument in the park is 54 meters high.", "The park has 200 trees.", "1 million people visit the park annually.", "The park was renovated in 2014."],
-    },
-  },
-  {
+    {
     id: "shwesettaw-wildlife-life-v2",
     type: "wildlife-area",
     parent: "MM-04",

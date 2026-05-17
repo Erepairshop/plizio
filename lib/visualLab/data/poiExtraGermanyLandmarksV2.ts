@@ -1,40 +1,7 @@
 import { POI } from './poi';
 export const germanyLandmarksV2: POI[] = [
 
-  {
-    id: "germany-neuschwanstein-castle-landmarks-v2",
-    type: "castle",
-    parent: "DE",
-    name: { de: "Schloss Neuschwanstein", hu: "Neuschwanstein kastély", ro: "Castelul Neuschwanstein", en: "Neuschwanstein Castle" },
-    coords: [10.7498, 47.5576],
-    description: {
-      de: "Schloss Neuschwanstein wurde im 19. Jahrhundert im Auftrag von König Ludwig II. errichtet. Es steht in der Nähe von Füssen in Bayern.",
-      hu: "A Neuschwanstein kastélyt a 19. században építtette II. Lajos király. Bajorországban, Füssen közelében található.",
-      ro: "Castelul Neuschwanstein a fost construit în secolul al XIX-lea din ordinul regelui Ludwig al II-lea. Se află lângă Füssen, în Bavaria.",
-      en: "Neuschwanstein Castle was built in the 19th century under the order of King Ludwig II. It is located near Füssen in Bavaria.",
-    },
-    facts: {
-      de: ["Bauzeit 1869-1886", "Romanischer Baustil", "König Ludwig II.", "Alpenvorlandlage"],
-      hu: ["Épült 1869-1886", "Román stílus", "II. Lajos király", "Alpokalja"],
-      ro: ["Construit între 1869-1886", "Stil romanic", "Regele Ludwig al II-lea", "Zona prealpină"],
-      en: ["Built 1869-1886", "Romanesque revival style", "King Ludwig II", "Alpine foothills location"],
-    },
-    imageHint: "Neuschwanstein Castle in autumn",
-    descriptionAdvanced: {
-      de: "Schloss Neuschwanstein, oberhalb von Hohenschwangau bei Füssen gelegen, wurde ab 1869 im Auftrag des bayerischen Königs Ludwig II. errichtet. Der Entwurf im Stil des romanischen Historismus sollte eine idealisierte Ritterburg aus der Zeit des Mittelalters widerspiegeln und war stark von den Opern Richard Wagners inspiriert. Obwohl der Bau nie vollständig vollendet wurde, gilt das Schloss heute als eines der bekanntesten Wahrzeichen Deutschlands und als Inbegriff der Romantik. Jährlich besuchen rund 1,5 Millionen Touristen die Anlage, die für ihre prächtigen Innenräume wie den Thronsaal und den Sängersaal berühmt ist. Die Architektur diente als Vorbild für das Dornröschen-Schloss in den Disney-Themenparks. Trotz seiner mittelalterlichen Erscheinung verfügte das Schloss bereits bei Baubeginn über modernste Technik, wie eine Zentralheizung und fließendes Wasser. Die Lage auf einem zerklüfteten Felsen bietet spektakuläre Ausblicke auf die Alpen und die umliegenden Seen.",
-      hu: "A Füssen közelében, Hohenschwangau felett található Neuschwanstein kastély építése 1869-ben kezdődött II. Lajos bajor király megbízásából. A román historizáló stílusú épület egy idealizált középkori lovagvárat hivatott megjeleníteni, és nagyban ihlették Richard Wagner operái. Bár az építkezés soha nem fejeződött be teljesen, a kastély ma Németország egyik legismertebb jelképe és a romantika megtestesítője. Évente mintegy 1,5 millió turista látogatja az épületegyüttest, amely olyan pompás belső tereiről híres, mint a Trónterem és a Dalnokok terme. Az építészet mintául szolgált a Disney vidámparkok Csipkerózsika-kastélyához. Középkori megjelenése ellenére a kastély már az építés kezdetekor a legmodernebb technológiával, például központi fűtéssel és folyó vízzel rendelkezett. A meredek sziklán való elhelyezkedése látványos kilátást nyújt az Alpokra és a környező tavakra.",
-      ro: "Castelul Neuschwanstein, situat deasupra localității Hohenschwangau lângă Füssen, a fost construit începând cu 1869 la cererea regelui Ludovic al II-lea al Bavariei. Proiectul în stil istoricist romanic trebuia să reflecte un castel medieval idealizat și a fost puternic inspirat de operele lui Richard Wagner. Deși construcția nu a fost niciodată finalizată complet, castelul este considerat astăzi unul dintre cele mai cunoscute simboluri ale Germaniei și întruchiparea romantismului. Aproximativ 1,5 milioane de turiști vizitează anual complexul, faimos pentru interioarele sale somptuoase, cum ar fi Sala Tronului și Sala Cântăreților. Arhitectura sa a servit drept model pentru castelul Frumoasei din Pădurea Adormită din parcurile tematice Disney. În ciuda aspectului său medieval, castelul dispunea de tehnologie modernă încă de la începutul construcției, cum ar fi încălzirea centrală și apa curentă. Amplasarea pe o stâncă abruptă oferă vederi spectaculoase asupra Alpilor și a lacurilor din jur.",
-      en: "Neuschwanstein Castle, located above Hohenschwangau near Füssen, was built starting in 1869 by order of King Ludwig II of Bavaria. The Romanesque Revival design was intended to reflect an idealized medieval knight's castle and was heavily inspired by the operas of Richard Wagner. Although construction was never fully completed, the castle is now considered one of Germany's most famous landmarks and the epitome of Romanticism. Around 1.5 million tourists visit the complex annually, which is famous for its magnificent interiors such as the Throne Room and the Singers' Hall. The architecture served as the model for the Sleeping Beauty Castle in Disney theme parks. Despite its medieval appearance, the castle already featured state-of-the-art technology at the start of construction, such as central heating and running water. Its location on a rugged cliff offers spectacular views of the Alps and the surrounding lakes.",
-    },
-    factsAdvanced: {
-      de: ["Grundsteinlegung am 5. September 1869", "Etwa 1,5 Millionen Besucher pro Jahr", "Modell für Disneys Dornröschen-Schloss", "Verfügte bereits 1869 über Zentralheizung", "Nur etwa 15 Zimmer wurden fertiggestellt", "Höhe des Hauptturms beträgt 65 Meter"],
-      hu: ["Alapkőletétel 1869. szeptember 5-én", "Évente kb. 1,5 millió látogató", "A Disney Csipkerózsika-kastély modellje", "Már 1869-ben volt központi fűtése", "Csak kb. 15 szoba készült el teljesen", "A főtorony magassága 65 méter"],
-      ro: ["Piatra de temelie pusă la 5 septembrie 1869", "Aproximativ 1,5 milioane de vizitatori anual", "Model pentru castelul Disney", "Dispunea de încălzire centrală încă din 1869", "Doar aproximativ 15 camere au fost finalizate", "Înălțimea turnului principal este de 65 metri"],
-      en: ["Foundation stone laid on Sept 5, 1869", "Approx. 1.5 million visitors per year", "Model for Disney's Sleeping Beauty Castle", "Had central heating as early as 1869", "Only about 15 rooms were completed", "Height of the main tower is 65 meters"],
-    },
-    image: "/poi-images/germany-neuschwanstein-castle-landmarks-v2.webp",
-  },
-  {
+    {
     id: "germany-frankfurt-roemerberg-landmarks-v2",
     type: "landmark",
     parent: "DE",
@@ -199,40 +166,7 @@ export const germanyLandmarksV2: POI[] = [
     },
     image: "/poi-images/germany-achensee-kloster-landmarks-v2.webp",
   },
-  {
-    id: "germany-museumsinsel-berlin-landmarks-v2",
-    type: "museum",
-    parent: "DE",
-    name: { de: "Museumsinsel Berlin", hu: "Berlini Múzeum-sziget", ro: "Insula Muzeelor din Berlin", en: "Museum Island Berlin" },
-    coords: [13.397, 52.52],
-    description: {
-      de: "Die Museumsinsel ist ein einzigartiges Ensemble von fünf Museen in Berlin. Sie gehört seit 1999 zum UNESCO-Welterbe.",
-      hu: "A Múzeum-sziget öt berlini múzeum egyedülálló együttese. 1999 óta az UNESCO világörökség része.",
-      ro: "Insula Muzeelor este un ansamblu unic de cinci muzee din Berlin. Face parte din Patrimoniul Mondial UNESCO din 1999.",
-      en: "Museum Island is a unique ensemble of five museums in Berlin. It has been a UNESCO World Heritage site since 1999.",
-    },
-    facts: {
-      de: ["UNESCO-Welterbe", "Fünf Museen", "Berliner Mitte", "Spreeinsel"],
-      hu: ["UNESCO világörökség", "Öt múzeum", "Berlini Mitte", "Spree-sziget"],
-      ro: ["Patrimoniul Mondial UNESCO", "Cinci muzee", "Mitte Berlin", "Insula Spree"],
-      en: ["UNESCO World Heritage", "Five museums", "Berlin Mitte", "Spree Island"],
-    },
-    imageHint: "Museum Island Berlin Pergamon Museum",
-    descriptionAdvanced: {
-      de: "Die Museumsinsel in Berlin ist ein einzigartiges Ensemble von fünf Museen, das seit 1999 UNESCO-Weltkulturerbe ist. Sie umfasst das Alte Museum (1830), das Neue Museum (1859), die Alte Nationalgalerie (1876), das Bode-Museum (1904) und das Pergamonmuseum (1930). Die Insel beherbergt Kunst- und Kulturschätze von der Antike bis zum 19. Jahrhundert, darunter die Nofretete-Büste und den Pergamonaltar. Die Architektur der Museumsbauten spiegelt die Entwicklung des Museumsbaus im 19. und frühen 20. Jahrhundert wider. Nach Kriegszerstörungen wurden die Gebäude aufwendig restauriert. Der Masterplan Museumsinsel soll die Anlage bis 2030 modernisieren.",
-      hu: "A berlini Múzeum-sziget öt múzeum egyedülálló együttese, amely 1999 óta az UNESCO világörökség része. Magában foglalja a Régi Múzeumot (1830), az Új Múzeumot (1859), a Régi Nemzeti Galériát (1876), a Bode Múzeumot (1904) és a Pergamon Múzeumot (1930). A sziget művészeti és kulturális kincseket őriz az ókortól a 19. századig, köztük Nofertiti mellszobrát és a Pergamon-oltárt. A múzeumépületek építészete tükrözi a múzeumépítészet fejlődését a 19. és 20. században. A háborús pusztítások után az épületeket gondosan restaurálták. A Múzeum-sziget Mesterterve 2030-ig korszerűsíti az együttest.",
-      ro: "Insula Muzeelor din Berlin este un ansamblu unic de cinci muzee, inclusă în Patrimoniul Mondial UNESCO din 1999. Cuprinde Muzeul Vechi (1830), Muzeul Nou (1859), Vechea Galerie Națională (1876), Muzeul Bode (1904) și Muzeul Pergamon (1930). Insula adăpostește comori artistice și culturale din antichitate până în secolul al XIX-lea, inclusiv bustul lui Nefertiti și altarul din Pergamon. Arhitectura muzeelor reflectă evoluția construcției muzeelor în secolul al XIX-lea și începutul secolului al XX-lea. După distrugerile de război, clădirile au fost restaurate minuțios. Planul Director pentru Insula Muzeelor vizează modernizarea ansamblului până în 2030.",
-      en: "Museum Island in Berlin is a unique ensemble of five museums, a UNESCO World Heritage site since 1999. It includes the Altes Museum (1830), Neues Museum (1859), Alte Nationalgalerie (1876), Bode-Museum (1904), and Pergamonmuseum (1930). The island houses art and cultural treasures from antiquity to the 19th century, including the bust of Nefertiti and the Pergamon Altar. The architecture of the museum buildings reflects the evolution of museum construction in the 19th and early 20th centuries. After war damage, the buildings were meticulously restored. The Masterplan Museumsinsel aims to modernize the ensemble by 2030.",
-    },
-    factsAdvanced: {
-      de: ["Die Museumsinsel umfasst 5 Museen auf 8,5 Hektar.", "Das Pergamonmuseum hat jährlich über 1 Million Besucher.", "Der Pergamonaltar stammt aus dem 2. Jahrhundert v. Chr.", "Die Nofretete-Büste ist über 3.300 Jahre alt.", "Das Neue Museum wurde 2009 wiedereröffnet.", "Der Masterplan kostet rund 2 Milliarden Euro."],
-      hu: ["A Múzeum-sziget 5 múzeumból áll, 8,5 hektáron.", "A Pergamon Múzeum évente több mint 1 millió látogatót fogad.", "A Pergamon-oltár a Kr. e. 2. századból származik.", "Nofertiti mellszobra több mint 3 300 éves.", "Az Új Múzeum 2009-ben nyílt meg újra.", "A Mesterterv költsége kb. 2 milliárd euró."],
-      ro: ["Insula Muzeelor cuprinde 5 muzee pe 8,5 hectare.", "Muzeul Pergamon are peste 1 milion de vizitatori anual.", "Altarul din Pergamon datează din secolul al II-lea î.Hr.", "Bustul lui Nefertiti are peste 3.300 de ani.", "Muzeul Nou a fost redeschis în 2009.", "Planul Director costă aproximativ 2 miliarde de euro."],
-      en: ["Museum Island comprises 5 museums on 8.5 hectares.", "The Pergamon Museum has over 1 million visitors annually.", "The Pergamon Altar dates from the 2nd century BC.", "The Nefertiti bust is over 3,300 years old.", "The Neues Museum reopened in 2009.", "The Masterplan costs about 2 billion euros."],
-    },
-    image: "/poi-images/germany-museumsinsel-berlin-landmarks-v2.webp",
-  },
-  {
+    {
     id: "germany-konstanz-konzilgebaeude-landmarks-v2",
     type: "landmark",
     parent: "DE",

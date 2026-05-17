@@ -974,43 +974,7 @@ export const poiExtraSudanHistoryV2: POI[] = [
       en: ["An archaeological site of the Kushite Empire with the remains of a large Amun temple.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones.", "Accessible via the national road network and Nile waterways."]
     }
   },
-  {
-    id: "sd-kh-mahdis-tomb-history-v2",
-    type: "historical",
-    parent: "SD-KH",
-    coords: [32.477, 15.6377],
-    name: {
-      de: "Mahdi-Mausoleum",
-      hu: "Mahdi-mauzóleum",
-      ro: "Mausoleul lui Mahdi",
-      en: "Mahdi's Tomb"},
-    image: "/poi-images/sd-kh-mahdis-tomb-history-v2.webp",
-    description: {
-      de: "Die Grabstätte von Muhammad Ahmad, dem Führer des Mahdi-Aufstands im späten 19. Jahrhundert.",
-      hu: "Muhammad Ahmad, a 19. század végi mahdista felkelés vezetőjének nyughelye.",
-      ro: "Mormântul lui Muhammad Ahmad, liderul revoltei Mahdi la sfârșitul secolului 19.",
-      en: "The tomb of Muhammad Ahmad, leader of the Mahdist revolt in the late 19th century."
-    },
-    facts: {
-      de: ["Befindet sich in Omdurman", "1898 zerstört und wiederaufgebaut", "Wichtige islamische Pilgerstätte"],
-      hu: ["Omdurmanban található", "1898-ban lerombolták, majd újjáépítették", "Fontos iszlám zarándokhely"],
-      ro: ["Situat în Omdurman", "Distrus în 1898 și reconstruit", "Important loc de pelerinaj islamic"],
-      en: ["Located in Omdurman", "Destroyed in 1898 and rebuilt", "Important Islamic pilgrimage site"]
-    }, image: "/poi-images/sd-kh-mahdis-tomb-history-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Grabstätte von Muhammad Ahmad, dem Führer des Mahdi-Aufstands im späten 19. Jahrhundert. Befindet sich in Omdurman. 1898 zerstört und wiederaufgebaut. Wichtige islamische Pilgerstätte. Damit zählt der Ort zu den charakteristischen Punkten Sudans entlang des Nils, der Nubischen Wüste und des Roten Meeres und bietet einen Einblick in das alte nubische Erbe und die regionale Identität. Liegt im nordostafrikanischen Staat Sudan. Region geprägt vom Nil und der Nubischen Wüste. Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen. Erreichbar über das nationale Straßen- und Flussnetz entlang des Nils.",
-      hu: "Muhammad Ahmad, a 19. század végi mahdista felkelés vezetőjének nyughelye. Omdurmanban található. 1898-ban lerombolták, majd újjáépítették. Fontos iszlám zarándokhely. Ezzel a hely Szudán egyik jellegzetes pontja a Nílus, a Núbiai-sivatag és a Vörös-tenger mentén, és betekintést nyújt az ősi núbiai örökségbe és a regionális identitásba. Az északkelet-afrikai Szudán területén fekszik. A régiót a Nílus és a Núbiai-sivatag határozza meg. Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal. Az ország közúthálózatán és a Nílus menti vízi útvonalakon érhető el.",
-      ro: "Mormântul lui Muhammad Ahmad, liderul revoltei Mahdi la sfârșitul secolului 19. Situat în Omdurman. Distrus în 1898 și reconstruit. Important loc de pelerinaj islamic. Astfel, locul se numără printre punctele caracteristice ale Sudanului de-a lungul Nilului, al Deșertului Nubian și al Mării Roșii și oferă o imagine asupra moștenirii nubiene antice și a identității regionale. Este situat în statul nord-est african Sudan. Regiunea este definită de Nil și de Deșertul Nubian. Climatul este predominant cald și uscat, cu zone deșertice și sahelene.",
-      en: "The tomb of Muhammad Ahmad, leader of the Mahdist revolt in the late 19th century. Located in Omdurman. Destroyed in 1898 and rebuilt. Important Islamic pilgrimage site. Thus, the site is among the characteristic points of Sudan along the Nile, the Nubian Desert and the Red Sea, and offers insight into the ancient Nubian heritage and the regional identity. Located in the Northeast African state of Sudan. The region is shaped by the Nile and the Nubian Desert. Climate is mostly hot and dry, with desert and Sahel zones."
-    },
-    factsAdvanced: {
-      de: ["Die Grabstätte von Muhammad Ahmad, dem Führer des Mahdi-Aufstands im späten 19.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen.", "Erreichbar über das nationale Straßen- und Flussnetz entlang des Nils."],
-      hu: ["Muhammad Ahmad, a 19.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal.", "Az ország közúthálózatán és a Nílus menti vízi útvonalakon érhető el."],
-      ro: ["Mormântul lui Muhammad Ahmad, liderul revoltei Mahdi la sfârșitul secolului 19.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene.", "Accesibil prin rețeaua națională de drumuri și pe căile fluviale ale Nilului."],
-      en: ["The tomb of Muhammad Ahmad, leader of the Mahdist revolt in the late 19th century.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones.", "Accessible via the national road network and Nile waterways."]
-    }
-  },
-  {
+    {
     id: "sd-kh-khalifa-house-history-v2",
     type: "historical",
     parent: "SD-KH",

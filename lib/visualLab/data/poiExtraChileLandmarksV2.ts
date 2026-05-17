@@ -274,42 +274,7 @@ export const poiExtraChileLandmarksV2: POI[] = [
       ro: ["Orașul este cunoscut pentru numeroasele sale funiculare.", "Este sit al Patrimoniului Mondial UNESCO."],
       en: ["The city is known for its numerous funiculars.", "It is a UNESCO World Heritage site."]
     }, image: "/poi-images/valparaiso-landmarks-v2.webp"},
-  {
-    id: "parque-nacional-conguillio-landmarks-v2",
-    type: "landmark",
-    parent: "CL-AR",
-    coords: [-71.6500, -38.6500],
-    name: {
-      de: "Nationalpark Conguillío",
-      hu: "Conguillío Nemzeti Park",
-      ro: "Parcul Național Conguillío",
-      en: "Conguillío National Park"},
-    image: "/poi-images/parque-nacional-conguillio-landmarks-v2.webp",
-    description: {
-      de: "Ein spektakulärer Nationalpark, bekannt als 'Regenschirm-Park' wegen seiner riesigen Araukarienwälder und des Vulkans Llaima.",
-      hu: "Lélegzetelállító nemzeti park, amelyet 'Esernyő-parknak' is neveznek hatalmas araukária-erdői és a Llaima vulkán miatt.",
-      ro: "Un parc național spectaculos, cunoscut sub numele de 'Parcul Umbrelă' datorită pădurilor sale imense de araucaria și vulcanului Llaima.",
-      en: "A spectacular national park, known as the 'Umbrella Park' due to its vast araucaria forests and the Llaima volcano."
-    },
-    descriptionAdvanced: {
-      de: "Der Conguillío-Nationalpark wird oft als 'Regenschirm-Park' bezeichnet – ein Name, der auf die massiven Araukarienwälder anspielt, deren Baumkronen an Regenschirme erinnern. Die Landschaft wird vom aktiven Vulkan Llaima dominiert, der die Umgebung mit dramatischen Lavafeldern geprägt hat. Der Park bietet eine der ursprünglichsten und beeindruckendsten Naturerfahrungen Chiles.",
-      hu: "A Conguillío Nemzeti Park Chile egyik legősibb hangulatú tája, amelyet sokan 'őskori parkként' emlegetnek. A látványt az ezeréves araukária fenyők (Araucaria araucana) uralják, amelyek különös, esernyőre emlékeztető lombkoronájukkal a dinoszauruszok korát idézik. A park közepén magasodik az aktív Llaima vulkán, amelynek korábbi kitörései megkövült lávafolyamokkal és fekete vulkáni hamuval borították be a völgyeket, létrehozva az elképesztő kontrasztot a mélykék tavak és a kopár lávamezők között. A terület a UNESCO Araucarias Bioszféra-rezervátum része. Földrajz K8 – Vulkáni geomorfológia és endemikus erdők.",
-      ro: "Parcul Național Conguillío oferă unul dintre cele mai arhaice peisaje din Chile, fiind adesea numit \\\"parcul preistoric\\\". Scena este dominată de păduri de Araucaria (Araucaria araucana), acești pini milenari cu coroane plate ca niște umbrele care evocă era dinozaurilor. În centrul parcului se înalță vulcanul activ Llaima, ale cărui erupții trecute au acoperit văile cu fluxuri de lavă solidificată și cenușă vulcanică neagră, creând un contrast vizual izbitor cu lacurile de un albastru profund. Parcul face parte dintr-o Rezervație a Biosferei UNESCO și este recunoscut pentru biodiversitatea sa endemică. Este un loc unde forțele vulcanice și vegetația antică coexistă într-o armonie rară. Geografie K8 — Geomorfologie vulcanică și păduri endemice.",
-      en: "Conguillío National Park is one of Chile's most ancient-feeling landscapes, often called a 'prehistoric park.' The scene is dominated by thousand-year-old Araucaria pines (Araucaria araucana), whose strange umbrella-like canopies evoke the age of dinosaurs. The active Llaima volcano rises in the park's center; its past eruptions covered valleys in fossilized lava flows and black volcanic ash, creating a stunning contrast between deep blue lakes and barren lava fields. The area is part of the UNESCO Araucarias Biosphere Reserve. Geography K8 — Volcanic geomorphology and endemic forests."
-    },
-    factsAdvanced: {
-      de: ["Heimat von riesigen, uralten Araukarienwäldern.", "Dominiert durch den aktiven Vulkan Llaima.", "Geologische Besonderheiten durch dramatische Lavafelder.", "Einer der natürlich beeindruckendsten Parks Chiles."],
-      hu: ["Itt forgatták a 'Dinoszauruszok, a Föld urai' című sorozat egyes részeit", "A Llaima Chile egyik legaktívabb vulkánja", "Az araukária fa több mint 1000 évig is elélhet", "A parkban található az 'Icalma' és 'Conguillío' tó"],
-      ro: ["Fragmente din documentarul \\\"Mergând cu dinozaurii\\\" au fost filmate în acest parc.", "Llaima este unul dintre cei mai activi vulcani din Chile.", "Copacii Araucaria pot trăi peste 1.000 de ani.", "Parcul găzduiește frumoasele lacuri Icalma și Conguillío."],
-      en: ["Sections of 'Walking with Dinosaurs' were filmed here.", "Llaima is one of Chile's most active volcanoes.", "Araucaria trees can live for over 1,000 years.", "Home to Icalma and Conguillío lakes."]
-    },
-    facts: {
-      de: ["Der Name kommt von den Araukarien, die wie Regenschirme aussehen.", "Der Vulkan Llaima ist ein aktiver Vulkan."],
-      hu: ["A név az esernyőre hasonlító araukáriákból ered.", "A Llaima vulkán egy aktív vulkán."],
-      ro: ["Numele vine de la araucariile care seamănă cu niște umbrele.", "Vulcanul Llaima este un vulcan activ."],
-      en: ["The name comes from the araucarias that look like umbrellas.", "The Llaima volcano is an active volcano."]
-    }, image: "/poi-images/parque-nacional-conguillio-landmarks-v2.webp"},
-  {
+    {
     id: "laguna-san-rafael-landmarks-v2",
     type: "landmark",
     parent: "CL-AI",

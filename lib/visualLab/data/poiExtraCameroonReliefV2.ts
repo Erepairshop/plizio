@@ -2,27 +2,7 @@
 import type { POI } from "./poi";
 
 export const poiExtraCameroonReliefV2: POI[] = [
-  {
-    id: "mount-cameroon-relief-v2",
-    type: "mountain",
-    parent: "CM-SW",
-    coords: [9.1706, 4.2045],
-    name: { de: "Kamerunberg", hu: "Kamerun-hegy", ro: "Muntele Camerun", en: "Mount Cameroon"},
-    image: "/poi-images/mount-cameroon-relief-v2.webp",
-    description: { de: "Der Mount Cameroon ist der höchste Berg Kameruns und ein aktiver Vulkan an der Atlantikküste. Er prägt das Relief des Südwestens deutlich.", hu: "Aktív vulkán, Közép-Afrika legmagasabb hegye.", ro: "Un vulcan activ și cel mai înalt munte din Africa Centrală.", en: "Mount Cameroon is a steep volcanic massif on the coast of southwestern Cameroon. It rises sharply above the Atlantic lowlands." },
-    facts: {
-      de: ["höchster Berg Kameruns", "aktiver Vulkan", "an der Küste"],
-      hu: ["Magasság: 4040 m", "Aktív rétegvulkán", "Utolsó kitörés: 2012"],
-      ro: ["Înălțime: 4040 m", "Vulcan stratificat activ", "Ultima erupție: 2012"],
-      en: ["coastal volcanic massif", "southwest Cameroon", "steep mountain relief"]
-    },
-    descriptionAdvanced: {
-      de: "Das Relief des Mount Cameroon (Fako) ist von gewaltigen vulkanischen Massiven geprägt, die steil aus der Küstenebene aufsteigen. Diese topografische Besonderheit beeinflusst maßgeblich das regionale Klima und die Vegetationszonen. Geografie K7 — Gebirge."
-    },
-    factsAdvanced: {
-      de: ["Massives vulkanisches Gebirge an der Atlantikküste.", "Steiler Aufstieg von Meereshöhe bis auf über 4.000 Meter.", "Topografischer Einfluss auf die regionalen Niederschläge.", "Geformt durch jahrtausendelange vulkanische Aktivität.", "Einzigartige höhenabhängige Vegetationszonen.", "Prägnante Landmarke, die das Relief Westafrikas dominiert."]
-    }, image: "/poi-images/mount-cameroon-relief-v2.webp"},
-  {
+    {
     id: "adamaoua-plateau-relief-v2",
     type: "relief",
     parent: "CM-AD",
@@ -104,27 +84,7 @@ export const poiExtraCameroonReliefV2: POI[] = [
       de: ["Weitläufige Beckenstruktur entlang des Sanaga.", "Sanfte Hügellandschaften im Regenwaldgürtel.", "Prägt den hydrologischen Verlauf des Flusses.", "Geografisch zentraler Teil des kamerunischen Südens.", "Tiefergelegenes Relief mit hoher ökologischer Dichte.", "Wichtige topografische Einheit des Regenwaldgebiets."]
     }
   },
-  {
-    id: "mount-manengouba-relief-v2",
-    type: "mountain",
-    parent: "CM-LT",
-    coords: [9.8, 5.0],
-    name: { de: "Manengouba-Gebirge", hu: "Manengouba-hegység", ro: "Munții Manengouba", en: "Mount Manengouba"},
-    image: "/poi-images/mount-manengouba-relief-v2.webp",
-    description: { de: "Der Mount Manengouba ist ein bekanntes Vulkanmassiv im Westen Kameruns. Krater und Höhenzüge machen ihn zu einem auffälligen Reliefgebiet.", hu: "A Manengouba-hegy vulkáni tömbje tavakkal és meredek lejtőkkel ismert. A Nyugat-Kamerun egyik látványos magaslata.", ro: "Muntele Manengouba este un masiv vulcanic cunoscut pentru conurile sale și pentru peisajul de crater. Este una dintre cele mai clare forme de relief din sud-vest.", en: "The relief of Mount Manengouba is defined by its massive caldera and the lush, rolling grasslands of the highland plateau." },
-    facts: {
-      de: ["vulkanisches Massiv", "im Westen Kameruns", "Kraterlandschaft"],
-      hu: ["vulkáni hegy", "meredek lejtők", "tavakkal tagolt"],
-      ro: ["masiv vulcanic", "în sud-vestul Camerunului", "peisaj de crater"],
-      en: ["Massive caldera peak", "Highland plateau", "Rolling grasslands", "Volcanic relief"]
-    },
-    descriptionAdvanced: {
-      de: "Das Manengouba-Massiv ist bekannt für seine eindrucksvollen Kraterseen und sein markantes vulkanisches Relief. Es bildet einen beeindruckenden Teil der vulkanischen Linie in Westkamerun und bietet eine komplexe topografische Struktur. Geografie K7 — Gebirge."
-    },
-    factsAdvanced: {
-      de: ["Teil der vulkanischen Linie in Westkamerun.", "Bekannt für seine eindrucksvollen Kraterseen.", "Topografisch komplexe und markante Struktur.", "Wichtiger Teil des Hochland-Reliefs.", "Vulkanisch geformte Gebirgslandschaft.", "Prägt das landschaftliche Bild im Westen."]
-    }, image: "/poi-images/mount-manengouba-relief-v2.webp"},
-  {
+    {
     id: "mount-kupe-relief-v2",
     type: "mountain",
     parent: "CM-SW",

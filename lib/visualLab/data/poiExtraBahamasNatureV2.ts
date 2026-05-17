@@ -677,34 +677,7 @@ export const poiExtraBahamasNatureV2: POI[] = [
       en: ["An important wetland area on New Providence, designated as a vital habitat for water birds.", "Located in the Caribbean island nation of the Bahamas.", "The region is marked by a tropical-maritime climate.", "Accessible via the national transport network of the islands.", "Plays a role in the local economy and culture."]
     }
   },
-  {
-    id: "bonefish-pond-national-park-nature-v2",
-    type: "lake",
-    parent: "BS-NP",
-    coords: [-77.41, 25.0],
-    name: { de: "Bonefish Pond Nationalpark", hu: "Bonefish Pond Nemzeti Park", ro: "Parcul Național Iazul Bonefish", en: "Bonefish Pond National Park"},
-    image: "/poi-images/bonefish-pond-national-park-nature-v2.webp",
-    description: { de: "Ein wichtiges Küstenfeuchtgebiet auf New Providence, das als Kinderstube für Fische und Krebstiere dient.", hu: "Fontos tengerparti vizes élőhely New Providence-en, amely a halak és rákfélék bölcsődéjeként szolgál.", ro: "O zonă umedă de coastă importantă pe New Providence, care servește ca pepinieră pentru pești și crustacee.", en: "An important coastal wetland on New Providence, serving as a nursery for fish and crustaceans." },
-    facts: {
-      de: ["Wichtige Kinderstube für Meereslebewesen", "Umfangreiche Mangrovenbestände", "Schützt die Küste vor Erosion"],
-      hu: ["Fontos bölcsőde a tengeri élőlények számára", "Kiterjedt mangrove állományok", "Védi a partot az eróziótól"],
-      ro: ["Pepiniere crucială pentru viața marină", "Standuri extinse de mangrove", "Protejează coasta de eroziune"],
-      en: ["Crucial nursery for marine life", "Extensive mangrove stands", "Protects the coastline from erosion"]
-    }, image: "/poi-images/bonefish-pond-national-park-nature-v2.webp",
-    descriptionAdvanced: {
-      de: "Ein wichtiges Küstenfeuchtgebiet auf New Providence, das als Kinderstube für Fische und Krebstiere dient. Wichtige Kinderstube für Meereslebewesen. Umfangreiche Mangrovenbestände. Schützt die Küste vor Erosion. Damit zählt der Ort zu den charakteristischen Punkten der Bahamas und bietet einen Einblick in die regionale Identität der Inselgruppe. Liegt im karibischen Inselstaat Bahamas. Region geprägt von tropisch-maritimem Klima. Erreichbar über das nationale Verkehrsnetz der Inseln. Spielt eine Rolle in der lokalen Wirtschaft und Kultur. Repräsentativ für die Vielfalt der bahamaischen Landschaft. Bedeutendes Element des bahamaischen Erbes.",
-      hu: "Fontos tengerparti vizes élőhely New Providence-en, amely a halak és rákfélék bölcsődéjeként szolgál. Fontos bölcsőde a tengeri élőlények számára. Kiterjedt mangrove állományok. Védi a partot az eróziótól. Ezzel a hely a Bahama-szigetek egyik jellegzetes pontja, és betekintést nyújt a szigetcsoport regionális identitásába. A karibi térségben fekvő Bahama-szigetek területén található. A régiót trópusi-tengeri éghajlat jellemzi. A szigetek közlekedési hálózatán keresztül érhető el. Szerepet játszik a helyi gazdaságban és kultúrában. A bahamai táj sokszínűségét képviseli. A bahamai örökség fontos eleme.",
-      ro: "O zonă umedă de coastă importantă pe New Providence, care servește ca pepinieră pentru pești și crustacee. Pepiniere crucială pentru viața marină. Standuri extinse de mangrove. Protejează coasta de eroziune. Astfel, locul se numără printre punctele caracteristice ale Bahamas și oferă o imagine asupra identității regionale a arhipelagului. Este situat în statul-arhipelag caraibian Bahamas. Regiunea este caracterizată de un climat tropical-maritim. Accesibil prin rețeaua națională de transport a insulelor. Joacă un rol în economia și cultura locală. Reprezentativ pentru diversitatea peisajului bahamian.",
-      en: "An important coastal wetland on New Providence, serving as a nursery for fish and crustaceans. Crucial nursery for marine life. Extensive mangrove stands. Protects the coastline from erosion. Thus, the site is among the characteristic points of the Bahamas and offers insight into the regional identity of the archipelago. Located in the Caribbean island nation of the Bahamas. The region is marked by a tropical-maritime climate. Accessible via the national transport network of the islands. Plays a role in the local economy and culture."
-    },
-    factsAdvanced: {
-      de: ["Ein wichtiges Küstenfeuchtgebiet auf New Providence, das als Kinderstube für Fische und Krebstiere dient.", "Liegt im karibischen Inselstaat Bahamas.", "Region geprägt von tropisch-maritimem Klima.", "Erreichbar über das nationale Verkehrsnetz der Inseln.", "Spielt eine Rolle in der lokalen Wirtschaft und Kultur."],
-      hu: ["Fontos tengerparti vizes élőhely New Providence-en, amely a halak és rákfélék bölcsődéjeként szolgál.", "A karibi térségben fekvő Bahama-szigetek területén található.", "A régiót trópusi-tengeri éghajlat jellemzi.", "A szigetek közlekedési hálózatán keresztül érhető el.", "Szerepet játszik a helyi gazdaságban és kultúrában."],
-      ro: ["O zonă umedă de coastă importantă pe New Providence, care servește ca pepinieră pentru pești și crustacee.", "Este situat în statul-arhipelag caraibian Bahamas.", "Regiunea este caracterizată de un climat tropical-maritim.", "Accesibil prin rețeaua națională de transport a insulelor.", "Joacă un rol în economia și cultura locală."],
-      en: ["An important coastal wetland on New Providence, serving as a nursery for fish and crustaceans.", "Located in the Caribbean island nation of the Bahamas.", "The region is marked by a tropical-maritime climate.", "Accessible via the national transport network of the islands.", "Plays a role in the local economy and culture."]
-    }
-  },
-  {
+    {
     id: "fowlers-cay-reserve-nature-v2",
     type: "island",
     parent: "BS-AB",

@@ -1687,37 +1687,4 @@ imageHint: "Vatican Museum Sala degli Animali sculptures",
     },
     image: "/poi-images/vatican-tower-of-innocent-history-v2.webp",
   },
-  {
-    id: "vatican-sala-dei-pontefici-history-v2",
-    type: "palace",
-    parent: "VA",
-    name: { de: "Saal der Päpste", hu: "Pápák terme", ro: "Sala Pontifilor", en: "Room of the Pontiffs" },
-    coords: [12.457, 41.905],
-    description: {
-      de: "Ein historischer Saal in den Borgia-Apartments des Apostolischen Palastes.",
-      hu: "Történelmi terem az Apostoli Palota Borgia-lakosztályában.",
-      ro: "O sală istorică în apartamentele Borgia ale Palatului Apostolic.",
-      en: "A historic room in the Borgia Apartments of the Apostolic Palace.",
-    },
-    facts: {
-      de: ["Borgia-Apartments", "Apostolischer Palast", "Historische Fresken", "Päpstliche Geschichte"],
-      hu: ["Borgia-lakosztály", "Apostoli Palota", "Történelmi freskók", "Pápai történelem"],
-      ro: ["Apartamentele Borgia", "Palatul Apostolic", "Fresce istorice", "Istoria papală"],
-      en: ["Borgia Apartments", "Apostolic Palace", "Historic frescoes", "Papal history"],
-    },
-    imageHint: "sala dei pontefici vatican",
-    descriptionAdvanced: {
-      de: "Die Sala dei Pontefici (Saal der Päpste) im Apostolischen Palast wurde im 16. Jahrhundert unter Papst Leo X. eingerichtet. Die Wände sind mit Fresken geschmückt, die Porträts aller Päpste von Petrus bis zur Gegenwart zeigen. Der Saal ist 30 Meter lang und 15 Meter breit. Das Deckengemälde stammt von Raffael. Der Saal dient für offizielle Zeremonien. Die Porträts wurden im Laufe der Zeit aktualisiert.",
-      hu: "A Sala dei Pontefici (Pápák terme) az Apostoli Palotában található, a 16. században alakították ki X. Leó pápa alatt. A falakon minden pápa portréja látható Szent Pétertől napjainkig. A terem 30 méter hosszú és 15 méter széles. A mennyezeti freskó Raffaello műve. Hivatalos ünnepségekhez használják. A portrékat folyamatosan frissítik.",
-      ro: "Sala Pontifilor (Sala dei Pontefici) se află în Palatul Apostolic, decorată în secolul al XVI-lea sub Papa Leon al X-lea. Pereții prezintă portretele tuturor papilor de la Petru până în prezent. Sala are 30 m lungime și 15 m lățime. Fresca tavanului este de Rafael. Este folosită pentru ceremonii oficiale. Portretele sunt actualizate periodic.",
-      en: "The Room of the Pontiffs (Sala dei Pontefici) in the Apostolic Palace was created in the 16th century under Pope Leo X. The walls feature portraits of all popes from Saint Peter to the present. The hall measures 30 meters by 15 meters. The ceiling fresco is by Raphael. It is used for official ceremonies. The portraits are updated with each new pope.",
-    },
-    factsAdvanced: {
-      de: ["Saal geschaffen unter Papst Leo X. (1513–1521).", "Fresken von Raffael an der Decke (1517).", "Länge: 30 Meter, Breite: 15 Meter.", "Höhe: 12 Meter.", "Anzahl Porträts: 266 (Stand 2023).", "Der Saal ist für die Öffentlichkeit geschlossen."],
-      hu: ["X. Leó pápa alatt készült (1513-1521).", "Mennyezeti freskó: Raffaello (1517).", "Méretek: 30x15 méter.", "Belmagasság: 12 méter.", "Portrék száma: 266 (2023-ban).", "A terem nem látogatható."],
-      ro: ["Creat sub Papa Leon al X-lea (1513–1521).", "Frescă pe tavan: Rafael (1517).", "Dimensiuni: 30 m × 15 m.", "Înălțime: 12 m.", "Număr portrete: 266 (în 2023).", "Acces restricționat publicului."],
-      en: ["Created: 1513–1521 under Pope Leo X.", "Ceiling fresco: Raphael, 1517.", "Dimensions: 30 m × 15 m (98 ft × 49 ft).", "Height: 12 m (39 ft).", "Number of portraits: 266 (as of 2023).", "Access: not open to the public."],
-    },
-    image: "/poi-images/vatican-sala-dei-pontefici-history-v2.webp",
-  }
-];
+  ];

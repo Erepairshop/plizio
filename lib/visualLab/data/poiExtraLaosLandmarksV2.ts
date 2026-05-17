@@ -57,63 +57,7 @@ export const poiExtraLaosLandmarksV2: POI[] = [
       en: ["Considered the official national symbol of Laos", "The monument reaches a total height of 44 metres", "Consists of three symbolic architectural levels", "Believed to house a sacred relic of Lord Buddha", "Underwent a major restoration during the 1930s", "Attracts thousands of Buddhist pilgrims annually"]
     }
   },
-  {
-    id: "patuxai-landmarks-v2",
-    type: "landmark",
-    parent: "LA-VT",
-    coords: [102.6183, 17.9708],
-    name: {
-      de: "Patuxai",
-      hu: "Patuxai",
-      ro: "Patuxai",
-      en: "Patuxai"},
-    image: "/poi-images/patuxai-landmarks-v2.webp",
-    description: {
-      de: "Ein Kriegsdenkmal in Vientiane, das an einen Triumphbogen erinnert, aber mit typisch laotischen Motiven und Verzierungen gestaltet ist.",
-      hu: "Egy háborús emlékmű Vientiánban, amely egy diadalívre emlékeztet, de jellegzetes laoszi motívumokkal és díszítésekkel van ellátva.",
-      ro: "Un monument de război în Vientiane care seamănă cu un arc de triumf, dar prezintă motive și decorațiuni tipic laoțiene.",
-      en: "A war monument in Vientiane that resembles a triumphal arch but features typically Laotian motifs and decorations."
-    },
-    facts: {
-      de: [
-        "Erbaut zwischen 1957 und 1968.",
-        "Gewidmet den Gefallenen im Unabhängigkeitskrieg.",
-        "Verfügt über fünf Türme im traditionellen Stil.",
-        "Bietet eine Aussichtsplattform auf der Spitze."
-      ],
-      hu: [
-        "1957 és 1968 között épült.",
-        "A függetlenségi háborúban elesetteknek szentelték.",
-        "Öt hagyományos stílusú toronnyal rendelkezik.",
-        "A tetején egy kilátóterasz található."
-      ],
-      ro: [
-        "Construit între 1957 și 1968.",
-        "Dedicat celor care au luptat pentru independență.",
-        "Prezintă cinci turnuri în stil tradițional.",
-        "Oferă o platformă de observație în vârf."
-      ],
-      en: [
-        "Built between 1957 and 1968.",
-        "Dedicated to those who fought for independence.",
-        "Features five towers in traditional style.",
-        "Offers an observation deck at the top."
-      ]
-    }, image: "/poi-images/patuxai-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "Patuxai ist ein markantes Kriegsdenkmal im Zentrum von Vientiane, das zwischen 1957 und 1968 erbaut wurde, um derer zu gedenken, die im Unabhängigkeitskampf gegen Frankreich gefallen sind. Das oft als \"Triumphbogen von Vientiane\" bezeichnete Bauwerk kombiniert westliche Proportionen mit typisch laotischen Designelementen, wie etwa mythologischen Kinnari-Kreaturen und traditionellen buddhistischen Verzierungen. Interessanterweise wurde der Beton für den Bau von den Vereinigten Staaten für die Erweiterung eines Flughafens gespendet, aber stattdessen für das Monument verwendet. Besucher können das Bauwerk besteigen, um von der Spitze aus einen weiten Blick über die Stadt und die nahe gelegenen Parkanlagen zu genießen.",
-      hu: "A Patuxai egy jellegzetes háborús emlékmű Vientián központjában, amelyet 1957 és 1968 között építettek a Franciaország elleni függetlenségi harcban elesettek emlékére. A gyakran \"Vientián Diadalíveként\" emlegetett építmény ötvözi a nyugati arányokat a tipikus laoszi dizájnelemekkel, mint például a mitológiai kinnari lények és a hagyományos buddhista díszítések. Érdekesség, hogy az építkezéshez használt betont az Egyesült Államok adományozta egy repülőtér bővítésére, de végül az emlékműhöz használták fel. A látogatók felmászhatnak az építmény tetejére, ahonnan széles kilátás nyílik a városra és a környező parkokra.",
-      ro: "Patuxai este un monument de război proeminent în centrul orașului Vientiane, construit între 1957 și 1968 pentru a comemora pe cei care au luptat pentru independența față de Franța. Cunoscut adesea sub numele de \"Arcul de Triumf din Vientiane\", edificiul combină proporțiile occidentale cu elemente de design tipic laotiene, cum ar fi creaturile mitologice kinnari și decorațiunile budiste tradiționale. Interesant este că cimentul folosit pentru construcție a fost donat de Statele Unite pentru extinderea unui aeroport, dar a fost redirecționat către acest monument. Vizitatorii pot urca pe structură pentru a se bucura de o vedere panoramică asupra orașului și a parcurilor din apropiere.",
-      en: "Patuxai is a prominent war monument in the centre of Vientiane, built between 1957 and 1968 to commemorate those who fought in the struggle for independence from France. Often referred to as the \"Arc de Triomphe of Vientiane\", the structure combines western proportions with typical Laotian design elements, such as mythological kinnari creatures and traditional Buddhist ornamentation. Interestingly, the concrete used for the construction was donated by the United States for an airport expansion, but was controversially repurposed for the monument. Visitors can climb the structure to enjoy a sweeping panoramic view of the city and its surrounding parks."
-    },
-    factsAdvanced: {
-      de: ["Wurde zwischen 1957 und 1968 im Zentrum errichtet", "Gedenkt der Opfer im Kampf um die Unabhängigkeit", "Wird oft als Triumphbogen von Vientiane bezeichnet", "Kombiniert westliche und traditionell laotische Architektur", "Wurde mit für einen Flughafen bestimmten US-Mitteln gebaut", "Bietet eine Aussichtsplattform mit Blick über die Stadt"],
-      hu: ["1957 és 1968 között épült a főváros központjában", "A függetlenségi harc áldozatainak állít emléket", "Gyakran Vientián Diadalíveként hivatkoznak rá", "Ötvözi a nyugati és a hagyományos laoszi építészetet", "Egy repülőtérre szánt amerikai betonból épült fel", "Kilátóteraszt kínál, ahonnan belátható a város"],
-      ro: ["A fost construit între 1957 și 1968 în centrul capitalei", "Comemorează victimele luptei pentru independență", "Este denumit frecvent Arcul de Triumf din Vientiane", "Combină arhitectura occidentală cu cea tradițională lao", "A fost ridicat cu beton american destinat unui aeroport", "Oferă o platformă de observare cu vedere asupra orașului"],
-      en: ["Was built between 1957 and 1968 in the city centre", "Commemorates the victims of the struggle for independence", "Is frequently referred to as the Arc de Triomphe of Vientiane", "Combines western and traditional Lao architectural styles", "Was constructed using US concrete intended for an airport", "Offers an observation deck with a view over the city"]
-    }
-  },
-  {
+    {
     id: "wat-xieng-thong-landmarks-v2",
     type: "landmark",
     parent: "LA-LP",
@@ -449,63 +393,7 @@ export const poiExtraLaosLandmarksV2: POI[] = [
       en: ["Was built in 1904 as the official residence for King Sisavang Vong", "Combines traditional Lao architecture with the French Beaux-Arts style", "Houses the sacred Phra Bang Buddha statue made of a gold alloy", "Was officially converted into a state national museum in 1995", "The grounds also include a royal temple and manicured gardens", "Displays valuable gifts received from various foreign heads of state"]
     }
   },
-  {
-    id: "that-ing-hang-landmarks-v2",
-    type: "landmark",
-    parent: "LA-SV",
-    coords: [104.8364, 16.6092],
-    name: {
-      de: "That Ing Hang",
-      hu: "That Ing Hang",
-      ro: "That Ing Hang",
-      en: "That Ing Hang"},
-    image: "/poi-images/that-ing-hang-landmarks-v2.webp",
-    description: {
-      de: "Ein heiliger Stupa in der Provinz Savannakhet, ein bedeutender Pilgerort für Buddhisten in ganz Laos.",
-      hu: "Egy szent sztúpa Savannakhet tartományban, amely jelentős zarándokhely Laosz buddhistái számára.",
-      ro: "O stupă sacră în provincia Savannakhet, un loc de pelerinaj important pentru budiștii din Laos.",
-      en: "A sacred stupa in Savannakhet Province, a major pilgrimage site for Buddhists across Laos."
-    },
-    facts: {
-      de: [
-        "Der Stupa ist neun Meter hoch.",
-        "Soll Reliquien von Buddhas Wirbelsäule enthalten.",
-        "Frauen müssen beim Besuch traditionelle Sinh-Röcke tragen.",
-        "Jährlich findet hier ein großes Festival statt."
-      ],
-      hu: [
-        "A sztúpa kilenc méter magas.",
-        "A legenda szerint Buddha gerincének ereklyéit tartalmazza.",
-        "A nőknek hagyományos Sinh szoknyát kell viselniük a látogatáskor.",
-        "Évente nagy fesztivált rendeznek itt."
-      ],
-      ro: [
-        "Stupa are o înălțime de nouă metri.",
-        "Se spune că ar conține relicve din coloana vertebrală a lui Buddha.",
-        "Femeile trebuie să poarte fuste tradiționale Sinh la vizitare.",
-        "Găzduiește un mare festival anual."
-      ],
-      en: [
-        "The stupa is nine meters high.",
-        "Said to contain relics of Buddha's spine.",
-        "Women must wear traditional Sinh skirts when visiting.",
-        "Hosts a large annual festival."
-      ]
-    }, image: "/poi-images/that-ing-hang-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "That Ing Hang ist ein bedeutender heiliger Stupa in der Provinz Savannakhet, der auf den Fundamenten eines älteren Bauwerks aus der Mon-Periode im 16. Jahrhundert errichtet wurde. Die 9 Meter hohe Struktur wird tief verehrt, da sie der Legende nach eine Knochenreliquie aus der Wirbelsäule des historischen Buddha birgt. Im Laufe der Geschichte wurde die Stätte unter anderem von König Setthathirath besucht und erweitert, was ihre nationale und religiöse Bedeutung weiter festigte. Für den Eintritt in den heiligen Tempelbereich gelten strenge Kleidungsvorschriften; so müssen weibliche Besucher traditionelle laotische Wickelröcke, sogenannte Sinhs, tragen.",
-      hu: "A That Ing Hang egy jelentős szent sztúpa Savannakhet tartományban, amelyet egy régebbi, Mon-korszakból származó építmény alapjaira emeltek a 16. században. A 9 méter magas építményt mély tisztelet övezi, mivel a legenda szerint a történelmi Buddha gerincéből származó csontereklyét rejt. A történelem során a helyszínt Széthathirát király is meglátogatta és bővítette, ami tovább erősítette nemzeti és vallási jelentőségét. A szent templom területére való belépésre szigorú öltözködési szabályok vonatkoznak; a női látogatóknak például hagyományos laoszi szoknyát, úgynevezett sinh-t kell viselniük.",
-      ro: "That Ing Hang este o stupă sacră importantă din provincia Savannakhet, construită în secolul al XVI-lea pe fundațiile unei structuri mai vechi din perioada Mon. Edificiul înalt de 9 metri este profund venerat, deoarece, conform legendei, conține o relicvă din os, provenind din coloana vertebrală a lui Buddha. De-a lungul istoriei, situl a fost vizitat și extins de regele Setthathirath, ceea ce i-a consolidat și mai mult semnificația națională și religioasă. Există reguli stricte de vestimentație pentru intrarea în zona sacră a templului; de exemplu, femeile trebuie să poarte fuste tradiționale laotiene, cunoscute sub numele de sinh.",
-      en: "That Ing Hang is an important sacred stupa in Savannakhet Province, constructed in the 16th century on the foundations of an older structure from the Mon period. The 9-metre-high edifice is deeply revered, as legend states it contains a bone relic from the spine of the historical Buddha. Throughout history, the site was visited and expanded by King Setthathirath, which further solidified its national and religious significance. Strict dress codes apply for entering the sacred temple area; female visitors, for example, are required to wear traditional Lao skirts known as sinhs."
-    },
-    factsAdvanced: {
-      de: ["Wurde im 16. Jahrhundert auf älteren Ruinen errichtet", "Die zentrale Stupa erreicht eine Höhe von 9 Metern", "Soll eine Reliquie aus der Wirbelsäule Buddhas enthalten", "Wurde vom bedeutenden König Setthathirath historisch erweitert", "Frauen müssen traditionelle Sinh-Röcke beim Besuch tragen", "Ist ein wichtiges Pilgerziel in der Provinz Savannakhet"],
-      hu: ["A 16. században épült régebbi korokból származó romokra", "A központi sztúpa 9 méteres magasságot ér el", "Úgy tartják, hogy Buddha gerincéből származó ereklyét rejt", "A nagy jelentőségű Széthathirát király történelmileg kibővítette", "A nőknek hagyományos sinh szoknyát kell viselniük a látogatáskor", "Savannakhet tartomány egyik legfontosabb zarándokhelye"],
-      ro: ["A fost construit în secolul al XVI-lea pe ruine mult mai vechi", "Stupa centrală atinge o înălțime de 9 metri", "Se spune că adăpostește o relicvă din coloana lui Buddha", "A fost extins istoric de către importantul rege Setthathirath", "Femeile trebuie să poarte fuste tradiționale sinh la vizitare", "Este o destinație majoră de pelerinaj în provincia Savannakhet"],
-      en: ["Was constructed in the 16th century over much older ruins", "The central stupa reaches a total height of 9 metres", "Is believed to contain a spinal relic of the Lord Buddha", "Was historically expanded by the prominent King Setthathirath", "Women are strictly required to wear traditional sinh skirts to visit", "Is a major pilgrimage destination within Savannakhet Province"]
-    }
-  },
-  {
+    {
     id: "that-sikhottabong-landmarks-v2",
     type: "landmark",
     parent: "LA-KH",
@@ -1009,63 +897,7 @@ export const poiExtraLaosLandmarksV2: POI[] = [
       en: ["Honours the final sovereign king of the historical Kingdom of Vientiane", "Was unveiled in 2010 to mark the 450th anniversary of the capital", "The large-scale statue is cast from solid bronze", "Symbolically looks out across the Mekong River towards Thailand", "Is a highly popular gathering place for locals on the river promenade", "Stands as a potent symbol of historical Lao resistance against Siam"]
     }
   },
-  {
-    id: "wat-aham-landmarks-v2",
-    type: "landmark",
-    parent: "LA-LP",
-    coords: [102.1394, 19.8861],
-    name: {
-      de: "Wat Aham",
-      hu: "Wat Aham",
-      ro: "Wat Aham",
-      en: "Wat Aham"},
-    image: "/poi-images/wat-aham-landmarks-v2.webp",
-    description: {
-      de: "Ein kleiner, ruhiger Tempel in Luang Prabang, der historisch ein wichtiges Zentrum für den Schutzgeist der Stadt war.",
-      hu: "Egy kis, csendes templom Luangprabangban, amely történelmileg a város védőszellemének fontos központja volt.",
-      ro: "Un templu mic și liniștit din Luang Prabang, istoric un centru important pentru spiritul protector al orașului.",
-      en: "A small, quiet temple in Luang Prabang that was historically an important center for the city's protective spirit."
-    },
-    facts: {
-      de: [
-        "Erbaut im Jahr 1818.",
-        "Zwei große Banyanbäume auf dem Gelände beherbergen Schutzgeister.",
-        "Verfügt über bunte Wandmalereien von Buddhas Leben.",
-        "Steht in unmittelbarer Nähe zu Wat Visounnarath."
-      ],
-      hu: [
-        "1818-ban épült.",
-        "A területen lévő két nagy banyan fa védőszellemeknek ad otthont.",
-        "Buddha életét ábrázoló színes falfestményekkel rendelkezik.",
-        "Közvetlenül a Wat Visounnarath közelében található."
-      ],
-      ro: [
-        "Construit în 1818.",
-        "Doi copaci mari Banyan de pe proprietate adăpostesc spirite protectoare.",
-        "Are picturi murale colorate care înfățișează viața lui Buddha.",
-        "Se află în imediata vecinătate a Wat Visounnarath."
-      ],
-      en: [
-        "Built in 1818.",
-        "Two large banyan trees on the grounds host protective spirits.",
-        "Features colorful murals depicting Buddha's life.",
-        "Stands in close proximity to Wat Visounnarath."
-      ]
-    }, image: "/poi-images/wat-aham-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "Wat Aham, dessen Name oft als \"Das Kloster des geöffneten Herzens\" übersetzt wird, ist ein kleiner buddhistischer Tempel in Luang Prabang, der sich unmittelbar neben dem älteren Wat Visounnarath befindet. Das heutige Hauptgebäude wurde 1818 errichtet, jedoch hat der Ort eine weit tiefer reichende spirituelle Geschichte. Bevor Wat Aham zu einem klassischen buddhistischen Tempel umgewandelt wurde, war es ein wichtiges Zentrum der animistischen Geisterverehrung. Noch heute zeugen zwei massive, alte Banyan-Bäume auf dem Gelände von dieser Vergangenheit; sie gelten traditionell als Wohnort der Devata Luang, der mächtigen Schutzgeister von Luang Prabang.",
-      hu: "A Wat Aham, amelynek nevét gyakran \"A Nyitott Szív Kolostora\" néven fordítják, egy kis buddhista templom Luang Prabangban, közvetlenül a régebbi Wat Visounnarath mellett. A jelenlegi főépület 1818-ban épült, a hely azonban ennél sokkal mélyebbre nyúló spirituális történelemmel rendelkezik. Mielőtt a Wat Aham klasszikus buddhista templommá alakult volna, az animista szellemtisztelet fontos központja volt. A területen ma is álló két hatalmas, öreg banyan fa tanúskodik erről a múltról; a hagyomány szerint ezek adnak otthont a Devata Luang-nak, Luang Prabang hatalmas védőszellemeinek.",
-      ro: "Wat Aham, al cărui nume este adesea tradus ca \"Mănăstirea Inimii Deschise\", este un mic templu budist din Luang Prabang, situat chiar lângă mai vechiul Wat Visounnarath. Clădirea principală actuală a fost construită în 1818, însă locul are o istorie spirituală mult mai profundă. Înainte ca Wat Aham să fie transformat într-un templu budist clasic, acesta a fost un centru important al venerării spiritelor animiste. Chiar și astăzi, doi copaci banyan masivi și bătrâni de pe domeniu stau mărturie acestui trecut; se crede în mod tradițional că aceștia găzduiesc Devata Luang, puternicele spirite protectoare ale orașului Luang Prabang.",
-      en: "Wat Aham, whose name is often translated as \"The Monastery of the Opened Heart\", is a small Buddhist temple in Luang Prabang, situated right next to the older Wat Visounnarath. The current main building was erected in 1818, but the site has a much deeper spiritual history. Before Wat Aham was converted into a classical Buddhist temple, it was a significant centre for animist spirit worship. Even today, two massive, ancient banyan trees on the grounds bear witness to this past; they are traditionally believed to house the Devata Luang, the powerful guardian spirits of Luang Prabang."
-    },
-    factsAdvanced: {
-      de: ["Befindet sich in Luang Prabang neben dem Wat Visounnarath", "Das heutige Tempelgebäude stammt aus dem Jahr 1818", "Der Name bedeutet übersetzt \"Kloster des geöffneten Herzens\"", "War ursprünglich ein wichtiges Zentrum der animistischen Geisterverehrung", "Verfügt über zwei riesige Banyan-Bäume auf dem Gelände", "Die Bäume sollen die Schutzgeister der Stadt, die Devata Luang, beherbergen"],
-      hu: ["Luang Prabangban, a Wat Visounnarath szomszédságában található", "A jelenlegi templomépület a 19. század elején, 1818-ban épült", "Neve magyarra fordítva \"A Nyitott Szív Kolostora\"", "Eredetileg a hagyományos animista szellemtisztelet központja volt", "A területén két hatalmas, öreg banyan fa is magasodik", "A fák a hiedelem szerint a város védőszellemeinek adnak otthont"],
-      ro: ["Este situat în Luang Prabang, lângă celebrul Wat Visounnarath", "Clădirea actuală a templului datează de la începutul secolului al XIX-lea (1818)", "Numele se traduce literal prin \"Mănăstirea Inimii Deschise\"", "A fost inițial un centru important de venerare a spiritelor animiste", "Dispune de doi copaci banyan masivi aflați pe terenul templului", "Se spune că acești copaci adăpostesc spiritele protectoare ale orașului"],
-      en: ["Is located in Luang Prabang adjacent to the famous Wat Visounnarath", "The present-day temple building dates back to the year 1818", "The name literally translates to \"The Monastery of the Opened Heart\"", "Was originally an important centre for traditional animist spirit worship", "Features two massive and ancient banyan trees on the temple grounds", "The trees are believed to be the home of the city's guardian spirits"]
-    }
-  },
-  {
+    {
     id: "lao-national-museum-landmarks-v2",
     type: "landmark",
     parent: "LA-VT",

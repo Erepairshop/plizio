@@ -262,33 +262,7 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       ro: ["Zonă dunară faimoasă, Erg Chebbi.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
       en: ["Famous dune area Erg Chebbi.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
     }, image: "/poi-images/merzouga-dunes-relief-v2.webp"},
-  {
-    id: "moulouya-river-valley-relief-v2",
-    type: "relief",
-    parent: "MA-11",
-    coords: [-2.5, 34.8],
-    name: { de: "Moulouya-Tal", hu: "Moulouya-völgy", ro: "Valea Moulouya", en: "Moulouya Valley"},
-    image: "/poi-images/moulouya-river-valley-relief-v2.webp",
-    description: { de: "Flusstal im Nordosten Marokkos.", hu: "Folyóvölgy Marokkó északkeleti részén.", ro: "Valea râului în nord-estul Marocului.", en: "River valley in northeastern Morocco." },
-    facts: {
-      de: ["Mündet in das Mittelmeer.", "Wichtige landwirtschaftliche Region."],
-      hu: ["A Földközi-tengerbe torkollik.", "Fontos mezőgazdasági régió."],
-      ro: ["Se varsă în Marea Mediterană.", "Regiune agricolă importantă."],
-      en: ["Flows into the Mediterranean Sea.", "Important agricultural region."]
-    },
-    descriptionAdvanced: {
-      de: "Moulouya-Tal ist ein bemerkenswertes Element der marokkanischen Geografie und Kultur. Flusstal im Nordosten Marokkos. Mündet in das Mittelmeer. Wichtige landwirtschaftliche Region. Diese Geländeform prägt die Topografie Marokkos. Wie viele bedeutende Orte in Marokko vereint dieser Ort regionale Eigenheiten und übergreifende Bedeutung. Damit trägt dieser Ort zum vielseitigen Profil Marokkos bei.",
-      hu: "A(z) Moulouya-völgy a marokkói földrajz és kultúra figyelemre méltó eleme. Folyóvölgy Marokkó északkeleti részén. A Földközi-tengerbe torkollik. Fontos mezőgazdasági régió. Ez a domborzati elem Marokkó felszínét alakítja. Marokkó számos jelentős helyszínéhez hasonlóan ez is ötvözi a regionális sajátosságokat és az általános jelentőséget. Ezzel a helyszín hozzájárul Marokkó sokszínű arculatához.",
-      ro: "Valea Moulouya este un element remarcabil al geografiei și culturii marocane. Valea râului în nord-estul Marocului. Se varsă în Marea Mediterană. Regiune agricolă importantă. Această formă de relief modelează topografia Marocului. Asemenea multor locuri importante din Maroc, acesta îmbină particularitățile regionale cu o semnificație mai largă. Astfel, acest loc contribuie la profilul variat al Marocului.",
-      en: "Moulouya Valley is a remarkable feature of the geography and culture of Morocco. River valley in northeastern Morocco. Flows into the Mediterranean Sea. Important agricultural region. This landform shapes the topography of Morocco. Like many notable places in Morocco, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Morocco.",
-    },
-    factsAdvanced: {
-      de: ["Flusstal im Nordosten Marokkos.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Folyóvölgy Marokkó északkeleti részén.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Valea râului în nord-estul Marocului.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
-      en: ["River valley in northeastern Morocco.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
-    }, image: "/poi-images/moulouya-river-valley-relief-v2.webp"},
-  {
+    {
     id: "zaer-plateau-relief-v2",
     type: "relief",
     parent: "MA-12",

@@ -255,43 +255,7 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
       en: ["Area: 1,849 km²", "Highest peak: Hallasan (1,950 m)", "Population: ca. 700,000", "UNESCO World Heritage since: 2007", "Number of lava tubes: over 100", "Annual tourists: over 15 million"],
     },
   },
-  {
-    id: "changdeokgung-palace-landmarks-v2",
-    type: "landmark",
-    parent: "KR-11",
-    coords: [126.9918, 37.5794],
-    name: {
-      de: "Changdeokgung-Palast",
-      hu: "Cshangdokkung palota",
-      ro: "Palatul Changdeokgung",
-      en: "Changdeokgung Palace"},
-    image: "/poi-images/changdeokgung-palace-landmarks-v2.webp",
-    description: {
-      de: "Einer der 'Fünf Großen Paläste', erbaut von den Königen der Joseon-Dynastie. Bekannt für seinen Geheimen Garten.",
-      hu: "Az 'Öt Nagy Palota' egyike, amelyet a Csoszon-dinasztia királyai építettek. Híres a Titkos Kertjéről.",
-      ro: "Unul dintre cele 'Cinci Mari Palate' construite de regii dinastiei Joseon. Renumit pentru Grădina sa Secretă.",
-      en: "One of the 'Five Grand Palaces' built by the kings of the Joseon Dynasty. Famous for its Secret Garden."
-    },
-    facts: {
-      de: ["UNESCO-Weltkulturerbe.", "Der am besten erhaltene Palast der Joseon-Ära.", "Der Geheime Garten (Huwon) war ein Ruheplatz für die königliche Familie.", "Der Bau begann 1405."],
-      hu: ["Az UNESCO Világörökség része.", "A Csoszon-kor legépebben megmaradt palotája.", "A Titkos Kert (Huwon) a királyi család pihenőhelye volt.", "Építése 1405-ben kezdődött."],
-      ro: ["Situl Patrimoniului Mondial UNESCO.", "Cel mai bine conservat palat din era Joseon.", "Grădina Secretă (Huwon) a fost un loc de odihnă pentru familia regală.", "Construcția a început în 1405."],
-      en: ["UNESCO World Heritage Site.", "The most well-preserved palace of the Joseon era.", "The Secret Garden (Huwon) was a place of rest for the royal family.", "Construction started in 1405."]
-    }, image: "/poi-images/changdeokgung-palace-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Changdeokgung-Palast in Seoul ist einer der fünf großen Paläste der Joseon-Dynastie und seit 1997 UNESCO-Weltkulturerbe. Er wurde 1405 erbaut und diente als Hauptresidenz vieler Könige. Der Palast ist bekannt für seinen „Geheimen Garten“ (Hurawon), einen 78 Hektar großen königlichen Garten mit Teichen, Pavillons und jahrhundertealten Bäumen. Anders als der Gyeongbokgung blieb Changdeokgung weitgehend im Originalzustand erhalten. Die Architektur fügt sich harmonisch in die natürliche Topographie ein. Der Palast beherbergt auch das königliche Archiv.",
-      hu: "A Changdeokgung palota Szöulban a Joseon-dinasztia öt nagy palotájának egyike, 1997 óta UNESCO világörökségi helyszín. 1405-ben épült, és több király fő rezidenciájaként szolgált. A palota híres a titkos kertjéről (Hurawon), egy 78 hektáros királyi kertről tavakkal, pavilonokkal és évszázados fákkal. A Gyeongbokgunggal ellentétben a Changdeokgung nagyrészt eredeti állapotában maradt fenn. Az építészet harmonikusan illeszkedik a természetes domborzathoz. A palota a királyi levéltárnak is otthont ad.",
-      ro: "Palatul Changdeokgung din Seul este unul dintre cele cinci palate mari ale dinastiei Joseon și face parte din Patrimoniul Mondial UNESCO din 1997. A fost construit în 1405 și a servit ca reședință principală a multor regi. Palatul este renumit pentru „Grădina Secretă” (Hurawon), o grădină regală de 78 de hectare cu iazuri, pavilioane și copaci seculari. Spre deosebire de Gyeongbokgung, Changdeokgung a rămas în mare parte în stare originală. Arhitectura se integrează armonios în topografia naturală. Palatul găzduiește și arhivele regale.",
-      en: "Changdeokgung Palace is a UNESCO World Heritage site in Seoul, built in 1405 as a secondary palace of the Joseon Dynasty. It served as the main royal residence for many kings due to its harmonious integration with nature. The palace features the Huwon (Secret Garden), a 78-hectare landscaped garden with pavilions, ponds, and over 26,000 trees. Changdeokgung is particularly admired for its adherence to traditional Korean architectural principles, with buildings oriented according to the natural terrain. It also houses the royal library and government offices.",
-    },
-    factsAdvanced: {
-      de: ["Erbaut: 1405", "UNESCO-Welterbe seit: 1997", "Fläche des geheimen Gartens: 78 ha", "Anzahl der Gebäude: 59", "Größe des Palastgeländes: 57,6 ha", "Besucher pro Jahr: über 1 Million"],
-      hu: ["Épült: 1405", "UNESCO világörökségi: 1997 óta", "Titkos kert területe: 78 ha", "Épületek száma: 59", "Palota területe: 57,6 ha", "Éves látogatók: több mint 1 millió"],
-      ro: ["Construit: 1405", "Patrimoniu UNESCO din: 1997", "Suprafața grădinii secrete: 78 ha", "Număr de clădiri: 59", "Suprafața palatului: 57,6 ha", "Vizitatori anuali: peste 1 milion"],
-      en: ["Built: 1405", "UNESCO World Heritage since: 1997", "Area of Secret Garden: 78 ha", "Number of buildings: 59", "Palace grounds area: 57.6 ha", "Annual visitors: over 1 million"],
-    },
-  },
-  {
+    {
     id: "seoraksan-national-park-landmarks-v2",
     type: "landmark",
     parent: "KR-42",
@@ -435,43 +399,7 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
       en: ["Height: 555 m", "Floors: 123", "Completed: 2017", "Elevator speed: 10 m/s", "Observation deck: Seoul Sky at 478 m", "World ranking: 6th (2017)"],
     },
   },
-  {
-    id: "jongmyo-shrine-landmarks-v2",
-    type: "historical",
-    parent: "KR-11",
-    coords: [126.9941, 37.575],
-    name: {
-      de: "Jongmyo-Schrein",
-      hu: "Csongmjo szentély",
-      ro: "Sanctuarul Jongmyo",
-      en: "Jongmyo Shrine"},
-    image: "/poi-images/jongmyo-shrine-landmarks-v2.webp",
-    description: {
-      de: "Ein konfuzianischer Schrein, der den Gedenktafeln der Könige und Königinnen der Joseon-Dynastie gewidmet ist. Die Ahnenrituale werden hier immer noch durchgeführt.",
-      hu: "Egy konfuciánus szentély, amelyet a Csoszon-dinasztia királyainak és királynőinek emléktábláinak szenteltek. Az ősi rituálékat ma is itt tartják.",
-      ro: "Un sanctuar confucianist dedicat tăblițelor memoriale ale regilor și reginelor dinastiei Joseon. Ritualurile ancestrale sunt încă efectuate aici.",
-      en: "A Confucian shrine dedicated to the memorial tablets of the kings and queens of the Joseon Dynasty. The ancestral rites are still performed here."
-    },
-    facts: {
-      de: ["UNESCO-Weltkulturerbe.", "Das älteste erhaltene königliche konfuzianische Heiligtum.", "Die Hauptzeremonie, Jongmyo Jerye, findet jährlich im Mai statt.", "Die Architektur ist für ihre Feierlichkeit und Einfachheit bekannt."],
-      hu: ["Az UNESCO Világörökség része.", "A legrégebbi fennmaradt királyi konfuciánus szentély.", "A fő szertartást, a Jongmyo Jerye-t minden év májusában tartják.", "Építészete ünnepélyességéről és egyszerűségéről ismert."],
-      ro: ["Situl Patrimoniului Mondial UNESCO.", "Cel mai vechi sanctuar confucianist regal care a supraviețuit.", "Principala ceremonie, Jongmyo Jerye, are loc anual în luna mai.", "Arhitectura este cunoscută pentru solemnitatea și simplitatea sa."],
-      en: ["UNESCO World Heritage Site.", "The oldest surviving royal Confucian shrine.", "The main ceremony, Jongmyo Jerye, is held annually in May.", "The architecture is known for its solemnity and simplicity."]
-    }, image: "/poi-images/jongmyo-shrine-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Jongmyo-Schrein in Seoul ist der älteste und authentischste konfuzianische Königsschrein, der 1394 erbaut wurde. Er ist UNESCO-Weltkulturerbe und beherbergt die Gedenktafeln der Joseon-Könige und -Königinnen. Die Zeremonie Jongmyo Jerye, die jährlich abgehalten wird, ist ein immaterielles Kulturerbe der UNESCO. Der Schrein besteht aus dem Jeongjeon (Haupthalle) und dem Yeongnyeongjeon. Die Architektur ist schlicht und symbolisiert die konfuzianische Bescheidenheit. Der Schrein wurde im Koreakrieg beschädigt, aber restauriert.",
-      hu: "A Jongmyo szentély Szöulban a legrégebbi és leghitelesebb konfuciánus királyi szentély, amelyet 1394-ben építettek. UNESCO világörökségi helyszín, és a Joseon királyok és királynők emléktábláit őrzi. A Jongmyo Jerye szertartást évente rendezik meg, és az UNESCO szellemi kulturális örökségének része. A szentély a Jeongjeon (főcsarnok) és a Yeongnyeongjeon épületekből áll. Az építészet egyszerű, a konfuciánus szerénységet szimbolizálva. A szentély a koreai háborúban megsérült, de helyreállították.",
-      ro: "Altarul Jongmyo din Seul este cel mai vechi și mai autentic altar regal confucianist, construit în 1394. Este sit UNESCO și păstrează plăcile memoriale ale regilor și reginelor Joseon. Ceremonia Jongmyo Jerye, desfășurată anual, face parte din Patrimoniul Cultural Imaterial UNESCO. Altarul este format din Jeongjeon (sala principală) și Yeongnyeongjeon. Arhitectura este simplă, simbolizând modestia confuciană. Altarul a fost deteriorat în Războiul Coreean, dar restaurat.",
-      en: "Jongmyo Shrine is a Confucian shrine dedicated to the memorial tablets of Joseon Dynasty kings and queens, built in 1394. It is the oldest royal Confucian shrine in the world and a UNESCO World Heritage site. The shrine hosts the Jongmyo Jerye, a ritual performance that includes traditional music and dance, performed annually in May. The main hall, Jeongjeon, has 19 chambers housing the tablets. The architecture is noted for its simplicity and long, rectangular courtyards. The shrine was rebuilt after being burned down during the Japanese invasions and repaired after the Korean War.",
-    },
-    factsAdvanced: {
-      de: ["Erbaut: 1394", "UNESCO-Welterbe seit: 1995", "Anzahl der Gedenktafeln: 83 (Könige und Königinnen)", "Länge des Jeongjeon: 101 m", "Zeremonie: Jongmyo Jerye (seit 1462)", "Zerstörungen: 1592 (japanische Invasion)"],
-      hu: ["Épült: 1394", "UNESCO világörökségi: 1995 óta", "Emléktáblák száma: 83 (királyok és királynők)", "Jeongjeon hossza: 101 m", "Szertartás: Jongmyo Jerye (1462 óta)", "Pusztulások: 1592 (japán invázió)"],
-      ro: ["Construit: 1394", "Patrimoniu UNESCO din: 1995", "Număr de plăci memoriale: 83 (regi și regine)", "Lungimea Jeongjeon: 101 m", "Ceremonia: Jongmyo Jerye (din 1462)", "Distrugeri: 1592 (invazia japoneză)"],
-      en: ["Built: 1394", "UNESCO World Heritage since: 1995", "Number of memorial tablets: 83 (kings and queens)", "Length of Jeongjeon: 101 m", "Ceremony: Jongmyo Jerye (since 1462)", "Destructions: 1592 (Japanese invasion)"],
-    },
-  },
-  {
+    {
     id: "gamcheon-culture-village-landmarks-v2",
     type: "tourist-attraction",
     parent: "KR-26",
@@ -543,43 +471,7 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
       en: ["Number of hanok houses: over 800", "Area: approx. 0.5 km²", "City: Jeonju (population: 650,000)", "UNESCO City of Gastronomy: 2016", "Annual visitors: over 10 million", "Main attraction: Jeonju Bibimbap"],
     },
   },
-  {
-    id: "seokguram-grotto-landmarks-v2",
-    type: "monument",
-    parent: "KR-47",
-    coords: [129.349, 35.793],
-    name: {
-      de: "Seokguram-Grotte",
-      hu: "Sokkuram-barlang",
-      ro: "Grota Seokguram",
-      en: "Seokguram Grotto"},
-    image: "/poi-images/seokguram-grotto-landmarks-v2.webp",
-    description: {
-      de: "Eine Einsiedelei und Teil des Bulguksa-Tempelkomplexes. Es ist eine künstliche Steinhöhle, die eine monumentale Buddha-Statue beherbergt.",
-      hu: "Egy remetelak és a Pulguksza-templomkomplexum része. Ez egy mesterséges kőbarlang, amely egy monumentális Buddha-szobornak ad otthont.",
-      ro: "Un schit și o parte a complexului templului Bulguksa. Este o peșteră de piatră artificială care adăpostește o statuie monumentală a lui Buddha.",
-      en: "A hermitage and part of the Bulguksa temple complex. It is a man-made stone cave housing a monumental Buddha statue."
-    },
-    facts: {
-      de: ["UNESCO-Weltkulturerbe.", "Erbaut im 8. Jahrhundert während des Silla-Königreichs.", "Die Buddha-Statue blickt auf das Meer.", "Repräsentiert den Höhepunkt der Silla-Kunst."],
-      hu: ["Az UNESCO Világörökség része.", "A 8. században épült a Silla-királyság idején.", "A Buddha-szobor a tengerre néz.", "A Silla-művészet csúcspontját képviseli."],
-      ro: ["Situl Patrimoniului Mondial UNESCO.", "Construită în secolul al VIII-lea în timpul Regatului Silla.", "Statuia lui Buddha este orientată spre mare.", "Reprezintă apogeul artei Silla."],
-      en: ["UNESCO World Heritage Site.", "Constructed in the 8th century during the Silla Kingdom.", "The Buddha statue faces the sea.", "Represents the pinnacle of Silla art."]
-    }, image: "/poi-images/seokguram-grotto-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Seokguram-Grotte am Tohamsan-Berg in Gyeongju ist ein UNESCO-Weltkulturerbe und ein Meisterwerk der buddhistischen Kunst. Sie wurde im 8. Jahrhundert unter der Silla-Dynastie erbaut und beherbergt eine monumentale Buddha-Statue aus Granit, umgeben von Reliefs von Bodhisattvas und Göttern. Die Grotte ist so konstruiert, dass das Sonnenlicht den Buddha zu bestimmten Zeiten beleuchtet. Sie gilt als Höhepunkt der koreanischen Steinmetzkunst. Die Grotte wurde im 20. Jahrhundert restauriert, um Feuchtigkeitsschäden zu beheben.",
-      hu: "A Seokguram-barlang a Tohamsan hegyen Gyeongjuban az UNESCO világörökség része és a buddhista művészet remekműve. A 8. században épült a Silla-dinasztia idején, és egy hatalmas gránit Buddha-szobrot rejt, amelyet bodhiszattvák és istenek domborművei vesznek körül. A barlang úgy épült, hogy a napfény meghatározott időpontokban megvilágítsa a Buddhát. A koreai kőfaragás csúcsának tartják. A barlangot a 20. században restaurálták a nedvességkárok helyreállítására.",
-      ro: "Grota Seokguram de pe Muntele Tohamsan din Gyeongju face parte din Patrimoniul Mondial UNESCO și este o capodoperă a artei budiste. A fost construită în secolul al VIII-lea în timpul dinastiei Silla și adăpostește o statuie monumentală a lui Buddha din granit, înconjurată de reliefuri ale bodhisattva și zeițe. Grota este construită astfel încât lumina soarelui să lumineze statuia la anumite ore. Este considerată apogeul sculpturii în piatră coreeană. Grotă a fost restaurată în secolul XX pentru a repara daunele cauzate de umiditate.",
-      en: "Seokguram Grotto is a Buddhist cave sanctuary on Mount Tohamsan in Gyeongju, built in 751-774 during the Silla Dynasty. It features a 3.3-meter-high granite Buddha statue seated in a circular chamber, with 39 relief figures on the surrounding walls. The grotto is renowned for its sophisticated engineering, which controls moisture and temperature. It was designated a UNESCO World Heritage site in 1995 along with Bulguksa Temple. The grotto has undergone several restorations, including a major one from 1913 to 1923.",
-    },
-    factsAdvanced: {
-      de: ["Erbaut: 751–774", "Höhe der Buddha-Statue: 3,3 m", "Anzahl der Reliefs: 39", "UNESCO-Welterbe seit: 1995", "Höhe über dem Meeresspiegel: 750 m", "Restaurierung: 1913–1923"],
-      hu: ["Épült: 751–774", "Buddha-szobor magassága: 3,3 m", "Domborművek száma: 39", "UNESCO világörökségi: 1995 óta", "Tengerszint feletti magasság: 750 m", "Restaurálás: 1913–1923"],
-      ro: ["Construit: 751–774", "Înălțimea statuii lui Buddha: 3,3 m", "Număr de reliefuri: 39", "Patrimoniu UNESCO din: 1995", "Altitudine: 750 m", "Restaurare: 1913–1923"],
-      en: ["Built: 751–774", "Height of Buddha statue: 3.3 m", "Number of reliefs: 39", "UNESCO World Heritage since: 1995", "Altitude: 750 m above sea level", "Restoration: 1913–1923"],
-    },
-  },
-  {
+    {
     id: "dongdaemun-design-plaza-landmarks-v2",
     type: "icon",
     parent: "KR-11",

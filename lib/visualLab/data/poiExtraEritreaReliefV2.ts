@@ -26,31 +26,7 @@ export const poiExtraEritreaReliefV2: POI[] = [
     
     
      image: "/poi-images/danakil-depression-relief-v2.webp"},
-  {
-    id: "soira-mountain-relief-v2",
-    type: "mountain",
-    parent: "ER-MA",
-    coords: [39.46, 14.73],
-    name: { de: "Soira", hu: "Soira", ro: "Soira", en: "Soira"},
-    image: "/poi-images/soira-mountain-relief-v2.webp",
-    description: { de: "Der höchste Berg Eritreas.", hu: "Eritrea legmagasabb hegye.", ro: "Cel mai înalt munte din Eritreea.", en: "The highest mountain in Eritrea." },
-    facts: {
-      de: ["3018 Meter Höhe", "Teil des äthiopischen Hochlandes"],
-      hu: ["3018 méter magas", "Az etióp-felföld része"],
-      ro: ["Înălțime de 3018 metri", "Parte a platoului etiopian"],
-      en: ["3018 meters high", "Part of the Ethiopian Highlands"]
-    },
-    descriptionAdvanced: {
-      ro: "Muntele Soira este cel mai înalt punct din Eritreea, oferind o priveliște panoramică asupra platourilor înalte și a câmpiilor de coastă. Acest munte face parte din masivul muntos care se întinde de-a lungul estului țării, având o importanță majoră în modelarea climei regionale. Escaladarea sa este o provocare pentru alpiniștii ce explorează structura geologică a țării. Földrajz K7 — munți și platouri în Africa."
-    },
-    factsAdvanced: {
-      ro: ["Altitudinea sa maximă este de 3.018 metri.", "Este situat în regiunea Debub din Eritreea.", "Climatul de pe vârf este semnificativ mai rece decât la poale.", "Masivul este format în principal din roci vulcanice și metamorfice.", "Soira servește drept barieră naturală pentru curenții de aer.", "Zona înconjurătoare găzduiește comunități rurale tradiționale."]
-    },
-    
-    
-    
-     image: "/poi-images/soira-mountain-relief-v2.webp"},
-  {
+    {
     id: "barkai-plain-relief-v2",
     type: "relief",
     parent: "ER-GB",

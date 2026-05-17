@@ -71,76 +71,7 @@ export const poiExtraPakistanHistoryV2: POI[] = [
       ro: ["Un alt Sit al Patrimoniului Mondial UNESCO.", "A fost un centru important al hinduismului și budismului.", "A găzduit una dintre cele mai vechi universități din lume."],
       en: ["Another UNESCO World Heritage Site.", "Was an important center of Hinduism and Buddhism.", "Housed one of the earliest universities in the world."]
     }, image: "/poi-images/taxila-ruins-history-v2.webp"},
-  {
-    id: "badshahi-mosque-monument-history-v2",
-    type: "monument",
-    parent: "PK-PB",
-    coords: [74.3117, 31.5880],
-    name: {
-      de: "Badshahi-Moschee",
-      hu: "Bádsáhi-mecset",
-      ro: "Moscheea Badshahi",
-      en: "Badshahi Mosque"
-    ,
-    descriptionAdvanced: {
-      de: "Die majestätische Badshahi-Moschee in Lahore ist eines der ikonischsten Wahrzeichen Pakistans und ein Meisterwerk der späten Mogul-Architektur. Sie wurde 1673 vom Mogulkaiser Aurangzeb in Auftrag gegeben und war über 300 Jahre lang die größte Moschee der Welt. Die Außenfassade aus rotem Sandstein, geschmückt mit aufwendigen weißen Marmor-Intarsien, verleiht dem Bauwerk eine beeindruckende visuelle Präsenz. Der riesige Innenhof bietet Platz für bis zu 100.000 Gläubige. Die Moschee verkörpert die architektonische Größe und die Macht des Mogulreichs auf seinem Höhepunkt. Ein hervorragendes Fallbeispiel für islamische Kunst und Architektur im Geschichtsunterricht der 8. Klasse.",
-      hu: "A Badshahi-mecset (Királyi Mecset) a mogul építészet egyik legfenségesebb remekműve, amely Lahore szívében, a Lahore-i erőd szomszédságában tornyosul. Aurangzeb császár megbízásából épült 1673-ban, és több mint három évszázadon keresztül a világ legnagyobb mecsetje volt, amelynek udvarán százezer hívő is elfér. A mecset lenyűgöző külsejét a vörös homokkő falak és a három hatalmas fehér márványkupolájának kontrasztja adja. A szikh uralom alatt (18. század) katonai helyőrségként és fegyverraktárként használták, de mára visszanyerte eredeti pompáját és spirituális jelentőségét. Kunst K8 — a Mogul Birodalom monumentális építészete.",
-      ro: "Moscheea Badshahi din Lahore, comandată de al șaselea împărat Mughal Aurangzeb și finalizată în 1673, este una dintre cele mai iconice și mai mari moschei din perioada islamică. Fațada sa spectaculoasă, construită din piatră de gresie roșie masivă, este contrastată de trei domuri imense din marmură albă pură. Curtea sa poate găzdui incredibilul număr de 100.000 de credincioși simultan. Reflectând apogeul grandorii imperiale Mughal, moscheea a fost folosită temporar ca fortăreață în perioada dominației sikh. Istorie K8 — apogeul Imperiului Mughal și arhitectură islamică.",
-      en: "The Badshahi Mosque, located in Lahore, is a masterpiece of Mughal architecture and one of the largest mosques in South Asia, commissioned by Emperor Aurangzeb in 1671. Known for its imposing red sandstone structure and intricate marble inlays, the mosque represents the pinnacle of Mughal artistic and engineering achievement during the late 17th century. Its sprawling courtyard, capable of accommodating tens of thousands of worshippers, serves as a monumental testament to the grandeur and religious patronage of the Mughal era. Today, it remains an iconic landmark of Lahore, representing the rich cultural and Islamic heritage of the Mughal period. Plizio curriculum connection: History K8 — Mughal Empire architecture."},
-    factsAdvanced: {
-      en: ["Commissioned by Mughal Emperor Aurangzeb in 1671.", "One of the largest mosques in South Asia and a landmark of Lahore.", "Built using red sandstone and decorated with exquisite marble inlays.", "Iconic example of late-17th century Mughal engineering and artistry.", "Features a massive courtyard for large-scale congregational prayers.", "Symbolizes the cultural and religious legacy of the Mughal Empire."],
-      de: ["Eine ikonische Moschee aus der Mogulzeit in Lahore, die vom Kaiser Aurangzeb in Auftrag gegeben wurde.", "Liegt im Gebiet der Islamischen Republik Pakistan.", "Steht unter dem Einfluss der Klimazonen zwischen Hindukusch, Indus-Ebene und Arabischem Meer.", "Spielt eine Rolle in der lokalen Identität der Region."],
-      hu: ["Egy ikonikus mogul-kori mecset Lahore-ban, amelyet Aurangzeb császár rendelt meg.", "A Pakisztáni Iszlám Köztársaság területén található.", "A Hindukus, az Indus-síkság és az Arab-tenger közötti éghajlati zónák hatása alatt áll.", "Szerepet játszik a régió helyi identitásában."],
-      ro: ["O moschee emblematică din era Mughal în Lahore, comandată de împăratul Aurangzeb.", "Se află pe teritoriul Republicii Islamice Pakistan.", "Se găsește sub influența zonelor climatice dintre Hindu Kush, câmpia Indului și Marea Arabiei.", "Are un rol în identitatea locală a regiunii."] } },
-    image: "/poi-images/badshahi-mosque-monument-history-v2.webp",
-    description: {
-      de: "Eine ikonische Moschee aus der Mogulzeit in Lahore, die vom Kaiser Aurangzeb in Auftrag gegeben wurde.",
-      hu: "Egy ikonikus mogul-kori mecset Lahore-ban, amelyet Aurangzeb császár rendelt meg.",
-      ro: "O moschee emblematică din era Mughal în Lahore, comandată de împăratul Aurangzeb.",
-      en: "An iconic Mughal-era mosque in Lahore, commissioned by Emperor Aurangzeb."
-    },
-    facts: {
-      de: ["Eine der größten Moscheen Pakistans.", "Bekannt für ihre beeindruckende rote Sandsteinarchitektur.", "Fertiggestellt im Jahr 1673."],
-      hu: ["Pakisztán egyik legnagyobb mecsete.", "Lenyűgöző vörös homokkő építészetéről ismert.", "1673-ban fejezték be."],
-      ro: ["Una dintre cele mai mari moschei din Pakistan.", "Cunoscută pentru arhitectura sa impresionantă din gresie roșie.", "Finalizată în 1673."],
-      en: ["One of Pakistan's largest mosques.", "Known for its impressive red sandstone architecture.", "Completed in 1673."]
-    }, image: "/poi-images/badshahi-mosque-monument-history-v2.webp"},
-  {
-    id: "lahore-fort-historical-site-v2",
-    type: "historical-site",
-    parent: "PK-PB",
-    coords: [74.3140, 31.5875],
-    name: {
-      de: "Festung von Lahore",
-      hu: "Lahore-i erőd",
-      ro: "Fortul Lahore",
-      en: "Lahore Fort"
-    ,
-    descriptionAdvanced: {
-      de: "Das Lahore Fort, lokal auch als Shahi Qila bekannt, ist eine gewaltige Festungsanlage, die die reiche und komplexe Geschichte des Punjab verkörpert. Während die Ursprünge der Festung in die Antike zurückreichen, wurde die heutige Struktur im 16. Jahrhundert vom Mogulkaiser Akbar dem Großen komplett aus Backsteinmauerwerk neu errichtet. Nachfolgende Herrscher, darunter Jahangir, Shah Jahan und Ranjit Singh, fügten dem Fort prächtige Paläste, Pavillons und Gärten hinzu, wie den berühmten Spiegelpalast (Sheesh Mahal). Die Festung ist eine steinerne Chronik der Mogul- und Sikh-Dynastien. Sie bietet einen tiefen Einblick in die königliche Architektur und ist ein ideales Thema für den Geschichtsunterricht der 8. Klasse.",
-      hu: "A Lahore-i erőd (Shahi Qila) a Mogul Birodalom ragyogásának és történelmi viharainak élő múzeuma, amely Lahore óvárosának északi részén magasodik. Bár a helyén már az ókorban is állt erődítmény, a ma látható pompás palota- és erődrendszert Nagy Akbar császár kezdte építeni az 1560-as években, amit utódai, Jahangir, Shah Jahan és Aurangzeb tovább bővítettek. Az UNESCO Világörökség részét képező komplexum leghíresebb részei a Sheesh Mahal (Tükörpalota), amely ezernyi apró tükördarabkával van kirakva, és a lenyűgözően díszített Alamgiri kapu. Geschichte K8 — a mogul uralkodók palotaerődjei és művészeti mecénásai.",
-      ro: "Fortul Lahore, cunoscut pe plan local sub numele de Shahi Qila, este o fortăreață maiestuoasă din inima orașului Lahore. Reconstruit complet în secolul 16 sub domnia legendarului împărat Akbar, fortul ascunde în interiorul zidurilor sale masive palate uimitoare, precum \"Sheesh Mahal\" (Palatul Oglinzilor), decorat cu mii de piese mici de sticlă colorată. Reflectând evoluția arhitecturală a mai multor generații de regi Mughal, sikh și chiar britanici, fortul este o enciclopedie vizuală a istoriei pakistaneze și este protejat de UNESCO. Istorie K8 — cetăți regale și succesiunea dinastiilor.",
-      en: "The Lahore Fort, or Shahi Qila, is a sprawling citadel complex located in the historic heart of Lahore, representing the diverse architectural influences of the Mughal dynasty. The fort features various sections added by different emperors, from Akbar to Aurangzeb, showcasing a blend of Persian and indigenous architectural styles. Its ornate features, including the Pictured Wall and the iconic Sheesh Mahal (Palace of Mirrors), are renowned for their intricate tile work, glass mosaics, and exquisite craftsmanship. As a central defensive and residential citadel for the Mughals, it provides a window into the daily life, power, and cultural patronage of one of history's greatest empires. Plizio curriculum connection: History K8 — Mughal dynasty."},
-    factsAdvanced: {
-      en: ["Citadel complex representing multiple generations of Mughal emperors.", "Famous for the 'Pictured Wall' featuring elaborate tile work.", "Blends Persian and indigenous architectural design elements.", "A key site reflecting the residential and defensive life of the Mughals.", "A central historical monument within the walled city of Lahore."],
-      de: ["Eine Zitadelle in der Stadt Lahore, deren Ursprünge bis in die Antike zurückreichen, aber während der Mogul-Ära erheblich umgebaut wurde.", "Liegt im Gebiet der Islamischen Republik Pakistan.", "Steht unter dem Einfluss der Klimazonen zwischen Hindukusch, Indus-Ebene und Arabischem Meer.", "Spielt eine Rolle in der lokalen Identität der Region."],
-      hu: ["Egy citadella Lahore városában, amelynek eredete az ókorba nyúlik vissza, de a mogul korban jelentősen átépítették.", "A Pakisztáni Iszlám Köztársaság területén található.", "A Hindukus, az Indus-síkság és az Arab-tenger közötti éghajlati zónák hatása alatt áll.", "Szerepet játszik a régió helyi identitásában."],
-      ro: ["O citadelă în orașul Lahore, cu origini datând din antichitate, dar reconstruită semnificativ în timpul erei Mughal.", "Se află pe teritoriul Republicii Islamice Pakistan.", "Se găsește sub influența zonelor climatice dintre Hindu Kush, câmpia Indului și Marea Arabiei.", "Are un rol în identitatea locală a regiunii."] } },
-    image: "/poi-images/lahore-fort-historical-site-v2.webp",
-    description: {
-      de: "Eine Zitadelle in der Stadt Lahore, deren Ursprünge bis in die Antike zurückreichen, aber während der Mogul-Ära erheblich umgebaut wurde.",
-      hu: "Egy citadella Lahore városában, amelynek eredete az ókorba nyúlik vissza, de a mogul korban jelentősen átépítették.",
-      ro: "O citadelă în orașul Lahore, cu origini datând din antichitate, dar reconstruită semnificativ în timpul erei Mughal.",
-      en: "A citadel in the city of Lahore with origins dating back to antiquity, but significantly rebuilt during the Mughal era."
-    },
-    facts: {
-      de: ["Beherbergt berühmte Stätten wie den Sheesh Mahal (Spiegelpalast).", "UNESCO-Weltkulturerbe.", "War die Residenz vieler Mogulkaiser."],
-      hu: ["Olyan híres helyszíneknek ad otthont, mint a Sheesh Mahal (Tükörpalota).", "UNESCO Világörökségi helyszín.", "Számos mogul császár rezidenciája volt."],
-      ro: ["Găzduiește situri renumite precum Sheesh Mahal (Palatul Oglinzilor).", "Sit al Patrimoniului Mondial UNESCO.", "A fost reședința multor împărați Mughal."],
-      en: ["Houses famous sites like the Sheesh Mahal (Palace of Mirrors).", "A UNESCO World Heritage Site.", "It was the residence of many Mughal emperors."]
-    }
-  },
-  {
+      {
     id: "hiran-minar-monument-history-v2",
     type: "monument",
     parent: "PK-PB",
@@ -446,42 +377,7 @@ export const poiExtraPakistanHistoryV2: POI[] = [
       ro: ["A fost reședința Mirilor din Hunza.", "Prezintă influență arhitecturală tibetană.", "A fost restaurat și acum este un muzeu."],
       en: ["Was the residence of the Mirs of Hunza.", "Shows Tibetan architectural influence.", "Has been restored and is now a museum."]
     }, image: "/poi-images/baltit-fort-historical-site-v2.webp"},
-  {
-    id: "ranikot-fort-historical-site-v2",
-    type: "historical-site",
-    parent: "PK-SD",
-    coords: [67.9036, 25.8942],
-    name: {
-      de: "Festung Ranikot",
-      hu: "Ranikot erőd",
-      ro: "Fortul Ranikot",
-      en: "Ranikot Fort"
-    ,
-    descriptionAdvanced: {
-      de: "Das Ranikot Fort in der Provinz Sindh wird oft als die 'Große Mauer von Sindh' bezeichnet und gilt mit einem Umfang von etwa 32 Kilometern als eine der größten Festungsanlagen der Welt. Mitten in der trockenen, zerklüfteten Hügellandschaft der Kirthar Range gelegen, bleiben der exakte Zweck und der ursprüngliche Erbauer ein historisches Rätsel, auch wenn ein Großteil der heutigen Mauern von der Talpur-Dynastie im frühen 19. Jahrhundert repariert wurde. Die gewaltigen Zickzack-Mauern schlängeln sich entlang der natürlichen Hügelkämme und bieten einen atemberaubenden Anblick. Das Rätsel um Ranikot Fort bietet Stoff für spannende geschichtliche Untersuchungen in der 9. Klasse.",
-      hu: "A Ranikot erőd, amelyet 'Szindh Nagy Falának' is neveznek, a világ egyik legnagyobb, legrejtélyesebb erődítménye. Szindh tartomány kietlen Kirthar-hegységében található, falai közel 32 kilométer hosszan kanyarognak a hegygerinceken és a kanyonokon keresztül. Bár a szénizotópos kormeghatározás szerint a jelenlegi kapukat és falak egy részét a Talpur-dinasztia idején, a 18-19. században építették, az erőd alapjainak eredete máig vita tárgya. A hatalmas kiterjedésű falakon belül kisebb erődök (például a Miri Qila) is helyet kaptak. Monumentális mérete és kihalt, sivatagi környezete misztikus atmoszférát teremt. Geschichte K8 — rejtélyes katonai infrastruktúrák és a sivatagi topográfia.",
-      en: "Often dubbed the 'Great Wall of Sindh', Ranikot Fort is an enigmatic and colossal structure that holds the title of the world's largest fort. Its massive, undulating stone walls snake across the barren Kirthar hills for an incredible 31 kilometers, following the natural contours of the rugged landscape. The exact origins of the fort remain one of Pakistan's greatest historical mysteries; while the current structure is believed to have been heavily modified by the Talpur dynasty in the early 19th century, parts of it may date back much further. Entering through its imposing gates feels like stepping into a forgotten, giant's realm hidden deep within the desert hills. Plizio curriculum connection: History & Geography K8 — colossal fortifications and historical mysteries.",
-      ro: "Cunoscut sub numele de \"Marele Zid din Sindh\", Fortul Ranikot este adesea considerat cel mai mare fort din lume, având un perimetru al zidurilor ce depășește uluitoarea lungime de 30 de kilometri. Situat în districtul Jamshoro, zidurile sale groase de piatră șerpuiesc peste dealuri sterpe și chei abrupte. Deși originile sale exacte rămân un mister arheologic, o mare parte din structura actuală a fost construită în secolul 19 de dinastia Talpur. A fost inclus pe lista tentativă a UNESCO. Istorie K8 — fortificații colosale și mistere arheologice."},
-    factsAdvanced: {
-      en: ["Recognized as the largest fort in the world by circumference.", "The outer defensive walls stretch for approximately 31 kilometers (19 miles).", "Located in the Kirthar mountain range in the Sindh province.", "The precise date of its original construction remains unknown.", "The fort contains three smaller interior fortresses within its vast perimeter.", "Features four main entrance gates: Sann, Amri, Shah-Pere, and Mohan."],
-      ro: ["Considerat a fi cel mai mare fort din întreaga lume", "Circumferința zidurilor sale de apărare depășește 30 de kilometri", "Supranumit frecvent \"Marele Zid din Sindh\"", "Reconstruit substanțial în secolul 19 de conducătorii Talpur", "Originile primilor săi constructori rămân necunoscute", "Zidurile sale masive unesc munți izolați din regiunea Jamshoro"],
-      de: ["Eine riesige historische Festung in der Nähe von Sann, die auch als die Große Mauer von Sindh bekannt ist.", "Liegt im Gebiet der Islamischen Republik Pakistan.", "Steht unter dem Einfluss der Klimazonen zwischen Hindukusch, Indus-Ebene und Arabischem Meer.", "Spielt eine Rolle in der lokalen Identität der Region."],
-      hu: ["Egy hatalmas történelmi erőd Sann közelében, amelyet Sindh nagy falaként is ismernek.", "A Pakisztáni Iszlám Köztársaság területén található.", "A Hindukus, az Indus-síkság és az Arab-tenger közötti éghajlati zónák hatása alatt áll.", "Szerepet játszik a régió helyi identitásában."] } },
-    image: "/poi-images/ranikot-fort-historical-site-v2.webp",
-    description: {
-      de: "Eine riesige historische Festung in der Nähe von Sann, die auch als die Große Mauer von Sindh bekannt ist.",
-      hu: "Egy hatalmas történelmi erőd Sann közelében, amelyet Sindh nagy falaként is ismernek.",
-      ro: "O fortăreață istorică masivă lângă Sann, cunoscută și sub numele de Marele Zid al Sindhului.",
-      en: "A massive historical fort near Sann, also known as The Great Wall of Sindh."
-    },
-    facts: {
-      de: ["Gilt als die größte Festung der Welt.", "Der genaue Ursprung und Zweck sind noch umstritten.", "Die Mauern erstrecken sich über fast 32 Kilometer."],
-      hu: ["A világ legnagyobb erődjének tartják.", "Pontos eredete és célja még mindig vita tárgya.", "A falak csaknem 32 kilométeren húzódnak."],
-      ro: ["Considerat cel mai mare fort din lume.", "Originea și scopul său exact sunt încă dezbătute.", "Zidurile se întind pe aproape 32 de kilometri."],
-      en: ["Believed to be the world's largest fort.", "Its exact origin and purpose are still debated.", "The walls extend for nearly 32 kilometers."]
-    }
-  },
-  {
+    {
     id: "chaukhandi-tombs-historical-site-v2",
     type: "historical-site",
     parent: "PK-SD",
@@ -651,39 +547,4 @@ export const poiExtraPakistanHistoryV2: POI[] = [
       ro: ["Considerată cea mai elaborat decorată moschee din era Mughal.", "Lucrările de restaurare au început în 2009.", "Situată în interiorul orașului fortificat."],
       en: ["Considered the most ornately decorated Mughal-era mosque.", "Restoration work began in 2009.", "Located within the Walled City."]
     }, image: "/poi-images/wazir-khan-mosque-monument-history-v2.webp"},
-  {
-    id: "derawar-fort-historical-site-v2",
-    type: "historical-site",
-    parent: "PK-PB",
-    coords: [71.3325, 28.7667],
-    name: {
-      de: "Festung Derawar",
-      hu: "Derawar erőd",
-      ro: "Fortul Derawar",
-      en: "Derawar Fort"
-    ,
-    descriptionAdvanced: {
-      de: "Das Derawar Fort erhebt sich wie eine steinerne Fata Morgana aus den Sanddünen der Cholistan-Wüste im südlichen Punjab. Die gewaltige quadratische Festung beeindruckt durch ihre vierzig massiven kreisförmigen Bastionen, die bis zu 30 Meter in den Himmel ragen und weithin sichtbar sind. Ursprünglich im 9. Jahrhundert von hinduistischen Rajputen erbaut, wurde das Fort später von den muslimischen Nawabs von Bahawalpur im 18. Jahrhundert übernommen und massiv erweitert. Die monumentalen Mauern, die aus lokal gebrannten Ziegeln bestehen, trotzen der harten Wüstenumgebung seit Jahrhunderten. Das Fort ist ein exzellentes Lehrstück über Wüstenarchitektur und feudale Militärgeschichte für den Erdkundeunterricht der 8. Klasse.",
-      hu: "A Derawar erőd egy hatalmas, lenyűgöző téglavár, amely a kegyetlen Cholistan-sivatag közepén emelkedik ki délibábként. A 9. században hindu rajput uralkodók alapították, de a ma látható, hatalmas kerek bástyákkal megerősített falait a Bahawalpur-i Nawabok (az Abbasi dinasztia) építették újjá a 18. század elején. A 40 monumentális, dob formájú bástya kerülete eléri az 1500 métert, és akár 30 méter magasan is tornyosulhat a homokdűnék fölé. Évszázadokon keresztül ez volt az Abbasi Nawabok védelmi és uralkodói központja, védve őket a sivatagi invázióktól és a rivális törzsektől. Geschichte K8 — a rajput várak, a sivatagi fejedelemségek és a Bahawalpur állam.",
-      en: "Rising like a mirage from the barren sands of the Cholistan Desert, Derawar Fort is an imposing, square fortress that dominates the desolate landscape for miles. Originally built by a Hindu Rajput ruler in the 9th century, the current massive brick structure was constructed by the Nawabs of Bahawalpur in the 18th century. The fort's walls feature 40 massive, circular bastions that stand 30 meters high, creating a formidable and photogenic perimeter. Adjacent to the fort lies an elegant, white marble mosque modeled after the Red Fort in Delhi, creating a striking contrast against the red desert sand. Derawar remains a powerful symbol of the erstwhile royal state of Bahawalpur. Plizio curriculum connection: Geography & History K8 — desert fortifications, the Cholistan region, and princely states.",
-      ro: "Fortul Derawar este o fortăreață vizual copleșitoare situată direct în mijlocul Deșertului Cholistan din Punjab. Având origini antice sub regii hindusi Rajputi, a fost capturat și refăcut extensiv de dinastia Nawab de Bahawalpur în secolul 18. Cei patruzeci de bastioane masive de formă circulară se ridică la 30 de metri din nisip, formând un perimetru uriaș de 1.5 kilometri vizibil de la mile distanță. Pe lângă importanța militară, situl atrage turiști în timpul faimosului raliu pe nisip din Cholistan. Istorie K8 — fortărețe în deșert și dinastiile din Bahawalpur."},
-    factsAdvanced: {
-      en: ["Located in the Cholistan Desert, south of the city of Bahawalpur.", "The current brick structure was largely rebuilt in 1732 by Nawab Sadeq Mohammad Khan.", "The fort features 40 massive circular bastions, standing 30 meters (98 feet) high.", "The outer walls measure approximately 1,500 meters in total circumference.", "Originally a 9th-century Hindu Rajput fort before being captured by Muslim rulers.", "The adjacent white marble mosque was built by Nawab Bahawal Khan in 1849."],
-      ro: ["Construit și reconstruit în inima Marelui Deșert Cholistan", "Prezintă o arhitectură impresionantă cu 40 de bastioane masive circulare", "Zidurile de apărare ajung până la 30 de metri înălțime", "Formează un perimetru exterior de aproximativ 1.5 kilometri", "A fost principala fortăreață pentru familia Nawab din Bahawalpur", "Atrage numeroși turiști în timpul raliului anual de jeep-uri din Cholistan"],
-      de: ["Eine große quadratische Festung in der Cholistan-Wüste. Ihre vierzig Bastionen sind aus der Ferne in der Wüste sichtbar.", "Liegt im Gebiet der Islamischen Republik Pakistan.", "Steht unter dem Einfluss der Klimazonen zwischen Hindukusch, Indus-Ebene und Arabischem Meer.", "Spielt eine Rolle in der lokalen Identität der Region."],
-      hu: ["Egy nagy, négyzet alakú erőd a Cholistan-sivatagban. Negyven bástyája messziről látható a sivatagban.", "A Pakisztáni Iszlám Köztársaság területén található.", "A Hindukus, az Indus-síkság és az Arab-tenger közötti éghajlati zónák hatása alatt áll.", "Szerepet játszik a régió helyi identitásában."] } },
-    image: "/poi-images/derawar-fort-historical-site-v2.webp",
-    description: {
-      de: "Eine große quadratische Festung in der Cholistan-Wüste. Ihre vierzig Bastionen sind aus der Ferne in der Wüste sichtbar.",
-      hu: "Egy nagy, négyzet alakú erőd a Cholistan-sivatagban. Negyven bástyája messziről látható a sivatagban.",
-      ro: "O fortăreață pătrată mare în deșertul Cholistan. Cele patruzeci de bastioane ale sale sunt vizibile de la mile depărtare în deșert.",
-      en: "A large square fortress in the Cholistan Desert. Its forty bastions are visible for miles in the desert."
-    },
-    facts: {
-      de: ["Erbaut im 9. Jahrhundert von einem Hindu-Rajputen.", "Später von den Nawabs von Bahawalpur übernommen.", "Die Mauern haben einen Umfang von 1500 Metern."],
-      hu: ["A 9. században építette egy hindu rádzsput.", "Később Bahawalpur navábjai vették át.", "A falak kerülete 1500 méter."],
-      ro: ["Construit în secolul al IX-lea de un rajput hindus.", "Preluat ulterior de Nawabii din Bahawalpur.", "Zidurile au o circumferință de 1500 de metri."],
-      en: ["Built in the 9th century by a Hindu Rajput.", "Later taken over by the Nawabs of Bahawalpur.", "The walls have a circumference of 1500 meters."]
-    }
-  }
-];
+  ];

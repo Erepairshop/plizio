@@ -355,79 +355,7 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       en: ["Construction period: 1899–1907", "Occupant: Emperor Menelik II", "Battle of Adwa: 1896", "Treaty of Wuchale", "Location: Addis Ababa", "Now a museum"],
     },
   },
-  {
-    id: "holy-trinity-cathedral-history-v2",
-    type: "historical",
-    parent: "ET-AA",
-    coords: [38.7667, 9.0306],
-    name: {
-      de: "Dreifaltigkeitskathedrale",
-      hu: "Szentháromság-székesegyház",
-      ro: "Catedrala Sfânta Treime",
-      en: "Holy Trinity Cathedral"},
-    image: "/poi-images/holy-trinity-cathedral-history-v2.webp",
-    description: {
-      de: "Die höchste orthodoxe Kirche Äthiopiens in Addis Abeba. Sie wurde zur Feier der Befreiung Äthiopiens von der italienischen Besatzung erbaut und ist die Ruhestätte von Kaiser Haile Selassie.",
-      hu: "Etiópia legmagasabb rangú ortodox temploma Addisz-Abebában. Etiópia olasz megszállás alóli felszabadulásának megünneplésére épült, és Hailé Szelasszié császár nyughelye.",
-      ro: "Biserica ortodoxă cu cel mai înalt rang din Etiopia, în Addis Abeba. A fost construită pentru a comemora eliberarea Etiopiei de sub ocupația italiană și este locul de odihnă al împăratului Haile Selassie.",
-      en: "The highest ranking Orthodox church in Ethiopia, located in Addis Ababa. It was built to commemorate Ethiopia's liberation from Italian occupation and is the resting place of Emperor Haile Selassie."
-    },
-    facts: {
-      de: ["Architektur mischt europäische und äthiopische Stile", "Gedenkstätte für die Patrioten von 1936–1941"],
-      hu: ["Az építészet ötvözi az európai és etióp stílusokat", "Emlékmű az 1936-1941-es hazafiak számára"],
-      ro: ["Arhitectura îmbină stilurile europene și etiopiene", "Memorial pentru patrioții din 1936–1941"],
-      en: ["Architecture blends European and Ethiopian styles", "Memorial for the patriots of 1936–1941"]
-    }, image: "/poi-images/holy-trinity-cathedral-history-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Holy Trinity Cathedral (auch bekannt als Kidist Selassie) in Addis Abeba ist die wichtigste Kathedrale der Äthiopisch-Orthodoxen Tewahedo-Kirche. Erbaut zwischen 1928 und 1936 unter Kaiser Haile Selassie, der später dort begraben wurde. Die Kathedrale im neobarocken Stil mit koptischen Elementen hat eine beeindruckende Kuppel. In der Krypta ruhen auch Mitglieder der kaiserlichen Familie und Patriarchen. Die Glasfenster zeigen biblische Szenen. Sie ist ein aktiver Gottesdienstort und ein beliebtes Touristenziel.",
-      hu: "A Szent Háromság székesegyház (más néven Kidist Selassie) Addisz-Abebában az Etióp Ortodox Tewahedo Egyház legfontosabb székesegyháza. 1928 és 1936 között épült Haile Selassie császár alatt, akit később itt temettek el. A neobarokk stílusú, kopt elemekkel tarkított székesegyház lenyűgöző kupolával rendelkezik. A kriptában a császári család tagjai és pátriárkák nyugszanak. Az üvegablakok bibliai jeleneteket ábrázolnak. Aktív istentiszteleti hely és népszerű turisztikai célpont.",
-      ro: "Catedrala Sfintei Treimi (cunoscută și ca Kidist Selassie) din Addis Abeba este cea mai importantă catedrală a Bisericii Ortodoxe Etiopiene Tewahedo. Construită între 1928 și 1936 sub împăratul Haile Selassie, care a fost înmormântat ulterior acolo. Catedrala în stil neobaroc cu elemente copte are o cupolă impresionantă. În criptă se odihnesc membri ai familiei imperiale și patriarhi. Vitraliile înfățișează scene biblice. Este un loc de cult activ și o destinație turistică populară.",
-      en: "Holy Trinity Cathedral (also known as Kidist Selassie) in Addis Ababa is the most important cathedral of the Ethiopian Orthodox Tewahedo Church. Built between 1928 and 1936 under Emperor Haile Selassie, who was later buried there. The cathedral in Neo-Baroque style with Coptic elements has an impressive dome. The crypt houses members of the imperial family and patriarchs. Stained glass windows depict biblical scenes. It is an active place of worship and popular tourist destination.",
-    },
-    factsAdvanced: {
-      de: ["Bauzeit: 1928–1936", "Baustil: Neobarock mit koptischen Elementen", "Begräbnisstätte: Haile Selassie", "Krypta mit kaiserlichen Familienmitgliedern", "Glasfenster mit biblischen Szenen", "Standort: Addis Abeba"],
-      hu: ["Építési idő: 1928–1936", "Építészeti stílus: neobarokk kopt elemekkel", "Temetkezési hely: Haile Selassie", "Kripta császári családtagokkal", "Üvegablakok bibliai jelenetekkel", "Helyszín: Addisz-Abeba"],
-      ro: ["Perioada construcției: 1928–1936", "Stil arhitectural: neobaroc cu elemente copte", "Loc de înmormântare: Haile Selassie", "Criptă cu membri ai familiei imperiale", "Vitralii cu scene biblice", "Locație: Addis Abeba"],
-      en: ["Construction period: 1928–1936", "Architectural style: Neo-Baroque with Coptic elements", "Burial site: Haile Selassie", "Crypt with imperial family members", "Stained glass windows with biblical scenes", "Location: Addis Ababa"],
-    },
-  },
-  {
-    id: "biete-medhane-alem-history-v2",
-    type: "historical",
-    parent: "ET-AM",
-    coords: [39.0433, 12.0322],
-    name: {
-      de: "Biete Medhane Alem",
-      hu: "Biete Medhane Alem",
-      ro: "Biete Medhane Alem",
-      en: "Biete Medhane Alem"},
-    image: "/poi-images/biete-medhane-alem-history-v2.webp",
-    description: {
-      de: "Die als größte monolithische Felskirche der Welt geltende Biete Medhane Alem in Lalibela ist aus einem einzigen Felsblock gehauen und ähnelt einem griechischen Tempel.",
-      hu: "A világ legnagyobb monolitikus sziklatemplomának tartott lalibelai Biete Medhane Alem-t egyetlen sziklatömbből faragták ki, és egy görög templomhoz hasonlít.",
-      ro: "Considerată a fi cea mai mare biserică monolitică din stâncă din lume, Biete Medhane Alem din Lalibela este tăiată dintr-un singur bloc de piatră și seamănă cu un templu grec.",
-      en: "Believed to be the largest monolithic rock-hewn church in the world, Biete Medhane Alem in Lalibela is carved from a single block of stone and resembles a Greek temple."
-    },
-    facts: {
-      de: ["Beherbergt das 800 Jahre alte Kreuz von Lalibela", "Hat 72 Säulen, die innen und außen stützen"],
-      hu: ["A 800 éves Lalibela keresztet őrzi", "72 oszlopa van, amelyek kívül és belül is tartják"],
-      ro: ["Găzduiește Crucea Lalibela, veche de 800 de ani", "Are 72 de coloane care o susțin în interior și exterior"],
-      en: ["Houses the 800-year-old Lalibela Cross", "Features 72 pillars supporting it inside and out"]
-    }, image: "/poi-images/biete-medhane-alem-history-v2.webp",
-    descriptionAdvanced: {
-      de: "Biete Medhane Alem („Haus des Erlösers der Welt“) ist eine der elf monolithischen Felsenkirchen von Lalibela in der Region Amhara. Sie gilt als die größte monolithische Kirche der Welt, vollständig aus dem Fels gehauen. Erbaut unter König Lalibela (spätes 12. bis frühes 13. Jahrhundert). Die Kirche ist 33 Meter lang, 23 Meter breit und 11 Meter hoch, mit einem kreuzförmigen Grundriss und 28 fensterartigen Nischen. Sie ist dem Erlöser geweiht und Teil des UNESCO-Weltkulturerbes. Das Dach hat ein zur Schau gestelltes Kreuz.",
-      hu: "A Biete Medhane Alem („A világ Megváltójának háza“) Lalibela tizenegy monolitikus sziklából faragott templomának egyike, az Amhara régióban. A világ legnagyobb monolitikus templomának tartják, teljes egészében sziklába vésve. Lalibela király alatt épült (késő 12. – kora 13. század). A templom 33 méter hosszú, 23 méter széles és 11 méter magas, kereszt alakú alaprajzzal és 28 ablakszerű fülkével. A Megváltónak van szentelve, és az UNESCO Világörökség része. A tetején egy kereszt látható.",
-      ro: "Biete Medhane Alem („Casa Mântuitorului Lumii”) este una dintre cele unsprezece biserici monolitice din Lalibela, în regiunea Amhara. Este considerată cea mai mare biserică monolitică din lume, săpată integral în stâncă. Construită sub regele Lalibela (sfârșitul secolului al XII-lea – începutul secolului al XIII-lea). Biserica are 33 de metri lungime, 23 de metri lățime și 11 metri înălțime, cu un plan în formă de cruce și 28 de nișe asemănătoare ferestrelor. Este dedicată Mântuitorului și face parte din Patrimoniul Mondial UNESCO. Acoperișul are o cruce afișată.",
-      en: "Biete Medhane Alem (House of the Saviour of the World) is one of the eleven monolithic rock-hewn churches of Lalibela in the Amhara region. It is considered the largest monolithic church in the world, entirely carved from rock. Built under King Lalibela (late 12th to early 13th century). The church is 33 meters long, 23 meters wide, and 11 meters high, with a cruciform plan and 28 window-like niches. It is dedicated to the Saviour and is part of the UNESCO World Heritage site. The roof features a displayed cross.",
-    },
-    factsAdvanced: {
-      de: ["Länge: 33 Meter", "Breite: 23 Meter", "Höhe: 11 Meter", "Anzahl der Kirchen in Lalibela: 11", "Bauzeit: spätes 12. – frühes 13. Jahrhundert", "UNESCO-Weltkulturerbe"],
-      hu: ["Hosszúság: 33 méter", "Szélesség: 23 méter", "Magasság: 11 méter", "Lalibela templomainak száma: 11", "Építési idő: késő 12. – kora 13. század", "UNESCO Világörökség"],
-      ro: ["Lungime: 33 de metri", "Lățime: 23 de metri", "Înălțime: 11 metri", "Numărul bisericilor din Lalibela: 11", "Perioada construcției: sfârșitul secolului al XII-lea – începutul secolului al XIII-lea", "Patrimoniu Mondial UNESCO"],
-      en: ["Length: 33 meters", "Width: 23 meters", "Height: 11 meters", "Number of churches in Lalibela: 11", "Construction period: late 12th – early 13th century", "UNESCO World Heritage site"],
-    },
-  },
-  {
+      {
     id: "bete-giyorgis-history-v2",
     type: "historical",
     parent: "ET-AM",
@@ -679,43 +607,7 @@ export const poiExtraEthiopiaHistoryV2: POI[] = [
       en: ["1.7 million years old", "Area: 40 sq km", "Discovered in 1960", "Over 5,000 stone tools found", "15 animal species identified", "Elevation: 2,000 m"],
     },
   },
-  {
-    id: "dire-dawa-station-history-v2",
-    type: "historical",
-    parent: "ET-DD",
-    coords: [41.8661, 9.5931],
-    name: {
-      de: "Bahnhof Dire Dawa",
-      hu: "Dire Dawa vasútállomás",
-      ro: "Gara Dire Dawa",
-      en: "Dire Dawa Train Station"},
-    image: "/poi-images/dire-dawa-station-history-v2.webp",
-    description: {
-      de: "Ein historisches Bahnhofsgebäude, das im frühen 20. Jahrhundert von den Franzosen für die Strecke Addis Abeba - Dschibuti erbaut wurde und eine einzigartige koloniale Architektur aufweist.",
-      hu: "Történelmi vasútállomás épülete, amelyet a franciák építettek a 20. század elején az Addisz-Abeba - Dzsibuti vonal számára, egyedülálló gyarmati építészettel.",
-      ro: "O clădire istorică a unei gări, construită la începutul secolului al XX-lea de francezi pentru linia Addis Abeba - Djibouti, având o arhitectură colonială unică.",
-      en: "A historic train station building constructed in the early 20th century by the French for the Addis Ababa - Djibouti line, featuring unique colonial architecture."
-    },
-    facts: {
-      de: ["Zeugnis der frühen Industrialisierung Äthiopiens", "Einige alte Dampflokomotiven stehen noch vor Ort"],
-      hu: ["Etiópia korai iparosodásának bizonyítéka", "Néhány régi gőzmozdony még mindig a helyszínen áll"],
-      ro: ["O dovadă a industrializării timpurii a Etiopiei", "Unele locomotive cu abur vechi se află încă la fața locului"],
-      en: ["Evidence of Ethiopia's early industrialization", "Some old steam locomotives remain on site"]
-    }, image: "/poi-images/dire-dawa-station-history-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Bahnhof Dire Dawa ist ein historisches Bauwerk aus der Zeit der französischen Kolonialbahn. Er wurde 1902 im Rahmen der Eisenbahnlinie Dschibuti-Addis Abeba erbaut. Das Stationsgebäude zeigt eine Mischung aus französischer und äthiopischer Architektur. Es ist aus Stein und Ziegeln errichtet, mit einem markanten Uhrenturm. Die Station war ein wichtiger Knotenpunkt für den Transport von Kaffee und anderen Gütern. Während der italienischen Besatzung wurde sie verstärkt genutzt. Heute ist der Bahnhof ein Kulturdenkmal und dient noch dem Personenverkehr. Die Renovierung im Jahr 2016 bewahrte die historische Fassade. Der Bahnhof ist ein Symbol der industriellen Entwicklung Äthiopiens.",
-      hu: "A Dire Dawa-i vasútállomás 1902-ben épült, a Dzsibuti-Addisz-Abeba vasútvonal részeként. Az épület francia gyarmati stílusú, de etióp elemekkel. Kőből és téglából készült, magas óratoronnyal. Az állomás fontos szerepet játszott a kávé és más áruk szállításában. Az olasz megszállás idején katonai célokra használták. 2016-ban felújították, megőrizve történelmi jellegét. Ma is üzemelő vasútállomás. A város egyik jelképe.",
-      ro: "Gara Dire Dawa este o clădire istorică construită în 1902 pentru calea ferată Djibouti-Addis Abeba. Stilul arhitectural combină elemente franceze și etiopiene. Clădirea din piatră și cărămidă are un turn cu ceas. Gara a fost esențială pentru exportul de cafea. În timpul ocupației italiene, a fost folosită militar. Renovată în 2016, păstrează fațada originală. Încă funcționează ca gară de pasageri. Este un simbol al modernizării Etiopiei.",
-      en: "Dire Dawa Train Station, built in 1902, is a historic railway station on the Djibouti-Addis Ababa line. Its architecture blends French colonial and Ethiopian styles. The building features a prominent clock tower and is made of stone and brick. The station was crucial for coffee transport. During Italian occupation, it served military logistics. Renovated in 2016, it maintains its historical facade. Today, it remains an active station. It symbolizes Ethiopia's industrial heritage and connection to the outside world.",
-    },
-    factsAdvanced: {
-      de: ["Erbaut 1902", "Architekt: französische Ingenieure", "Uhrenturmhöhe: 20 Meter", "Streckenlänge Dschibuti-Addis: 784 km", "Renoviert 2016", "Personenverkehr täglich"],
-      hu: ["Építés éve: 1902", "Vasútvonal hossza: 784 km", "Torony magassága: 20 m", "Kávéexport volumene: évi 100 000 tonna", "Olasz megszállás: 1936-1941", "Felújítás költsége: 5 millió dollár"],
-      ro: ["Construit în 1902", "Înălțimea turnului: 20 m", "Linia ferată: 784 km", "Renovare: 2016", "Stil arhitectural: colonial francez", "Gara deservește 10 000 de călători pe lună"],
-      en: ["Built in 1902", "Railway length: 784 km", "Clock tower height: 20 meters", "Renovation year: 2016", "Architects: French engineers", "Daily passenger traffic: 300"],
-    },
-  },
-  {
+    {
     id: "jimma-abba-jifar-history-v2",
     type: "historical",
     parent: "ET-OR",

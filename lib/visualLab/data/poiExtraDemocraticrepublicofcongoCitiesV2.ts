@@ -157,37 +157,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       ro: ["Punct terminus al unei linii de cale ferată din sud.", "Centru important pentru comerțul cu aur și diamante.", "A fost un post comercial istoric arabo-swahili."],
       en: ["Terminus of a railway line from the south.", "Major center for gold and diamond trading.", "Was a historical Arab-Swahili trading post."]
     }, image: "/poi-images/cd-kindu-cities-v2.webp"},
-  {
-    id: "cd-kasongo-cities-v2",
-    type: "city",
-    parent: "CD-MA",
-    coords: [26.6667, -4.45],
-    name: {
-      de: "Kasongo",
-      hu: "Kasongo",
-      ro: "Kasongo",
-      en: "Kasongo"
-    ,
-    descriptionAdvanced: {
-      de: "Kasongo hat eine lange historische Bedeutung als Handelszentrum im Osten des Landes. Die Stadt entwickelte sich durch den Austausch zwischen dem zentralen Kongo und dem Swahili-Raum und ist ein Zentrum für lokale kulturelle Identität. Geschichte K8 — Kolonialgeschichte Zentralafrikas.",
-      ro: "Kasongo este un oraș istoric din provincia Maniema, situat în apropierea fluviului Lualaba, brațul superior al fluviului Congo. A fost un centru comercial vital în secolul al XIX-lea, servind drept punct de legătură pentru caravanele swahili care traversau interiorul continentului. Astăzi, Kasongo își păstrează arhitectura colonială și tradițiile culturale, fiind un loc unde istoria se împletește cu realitatea contemporană a congolezilor. Geografie K8 — istorie și rute comerciale.",
-      en: "Kasongo is a historical town in the Maniema province, situated near the Lualaba River, the upper arm of the Congo River. In the 19th century, it served as a vital trade center, acting as a crossroads for Swahili-Arab caravans that traversed the interior of the continent. Today, Kasongo retains its historical architectural character and cultural traditions, serving as a site where local history is deeply interwoven with the contemporary reality of the Congolese people. The town's significance lies in its role in the regional historical landscape, reflecting the long-standing impacts of trade routes and local cultural heritage. Geography K8 — history and trade routes."},
-    factsAdvanced: {
-      en: ["Strategically located near the Lualaba River.", "Served as a vital historical trade center in the 19th century.", "Preserves significant historical colonial and pre-colonial architectural features.", "Functions as a key cultural node in the Maniema region.", "Historically associated with the expansion of Swahili-Arab trade networks.", "The local climate is typical of the tropical eastern Congolese region."] } },
-    image: "/poi-images/cd-kasongo-cities-v2.webp",
-    description: {
-      de: "Kasongo ist eine historische Stadt in Maniema, bekannt für ihr arabisch-swahilisches Erbe.",
-      hu: "Kasongo egy történelmi város Maniemában, mely arab-szuahéli örökségéről ismert.",
-      ro: "Kasongo este un oraș istoric din Maniema, cunoscut pentru moștenirea sa arabo-swahili.",
-      en: "Kasongo is a historical town in Maniema, known for its Arab-Swahili heritage."
-    },
-    facts: {
-      de: ["Ehemalige Hochburg des Sklaven- und Elfenbeinhändlers Tippu Tip.", "Wichtiges islamisches Zentrum in der Region.", "Liegt in der Nähe des Lualaba-Flusses."],
-      hu: ["Tippu Tip rabszolga- és elefántcsont-kereskedő egykori bázisa.", "A régió jelentős iszlám központja.", "A Lualaba folyó közelében fekszik."],
-      ro: ["Fosta fortăreață a negustorului de sclavi și fildeș Tippu Tip.", "Centru islamic important în regiune.", "Situat aproape de râul Lualaba."],
-      en: ["Former stronghold of the slave and ivory trader Tippu Tip.", "Important Islamic center in the region.", "Located near the Lualaba River."]
-    }, image: "/poi-images/cd-kasongo-cities-v2.webp"},
-  {
+    {
     id: "cd-kalima-cities-v2",
     type: "city",
     parent: "CD-MA",

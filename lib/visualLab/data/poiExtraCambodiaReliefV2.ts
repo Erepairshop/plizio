@@ -271,34 +271,7 @@ export const poiExtraCambodiaReliefV2: POI[] = [
       en: ["Mekong length in Cambodia: 500 km.", "Over 80% of population in the valley.", "Irrawaddy dolphin habitat.", "Annual rice production: millions of tonnes.", "Valley width: 5-50 km.", "Phnom Penh at Tonle Sap confluence."],
     },
   },
-  {
-    id: "phnom-samkos-relief-v2",
-    type: "mountain",
-    parent: "KH-15",
-    coords: [103.0333, 12.1500],
-    name: { de: "Phnom Samkos", hu: "Phnom Samkos", ro: "Phnom Samkos", en: "Phnom Samkos"},
-    image: "/poi-images/phnom-samkos-relief-v2.webp",
-    description: { de: "Der zweithöchste Berg Kambodschas, gelegen im westlichen Teil der Kardamomberge.", hu: "Kambodzsa második legmagasabb hegye, a Kardamom-hegység nyugati részén fekszik.", ro: "Al doilea cel mai înalt munte din Cambodgia, situat în partea de vest a Munților Cardamom.", en: "The second highest mountain in Cambodia, located in the western part of the Cardamom Mountains." },
-    facts: {
-      de: ["Erreicht eine Höhe von 1717 Metern.", "Ein wichtiger Hotspot für die Artenvielfalt."],
-      hu: ["Magassága eléri az 1717 métert.", "Fontos biológiai sokféleség központ."],
-      ro: ["Atinge o înălțime de 1717 metri.", "Un hotspot important pentru biodiversitate."],
-      en: ["Reaches an elevation of 1717 meters.", "An important biodiversity hotspot."]
-    }, image: "/poi-images/phnom-samkos-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Phnom Samkos (1.717 m) ist der dritthöchste Berg Kambodschas und liegt im Cardamom-Gebirge. Der Berg ist aus Sandstein und Granit aufgebaut. Seine Hänge sind von dichten Regenwäldern bedeckt, die in höheren Lagen in Nebelwald übergehen. Die Region ist reich an endemischen Pflanzenarten. Der Berg ist ein wichtiger Wasserspeicher. Wegen seiner Abgeschiedenheit ist er schwer zugänglich. Forschungsexpeditionen haben hier neue Orchideenarten entdeckt. Der Schutzstatus besteht seit 2010. Die Tierwelt umfasst Elefanten und Gibbons.",
-      hu: "A Phnom Samkos (1.717 m) Kambodzsa harmadik legmagasabb hegye, a Cardamom-hegységben. Geológiailag homokkőből és gránitból áll. A hegyet esőerdő borítja, a magasabb részeken köderdővel. Számos endemikus növényfaj otthona, főleg orchideák. A terület vízgyűjtő szerepet tölt be. Nehezen megközelíthető. 2010-ben védetté nyilvánították. Faunájában megtalálható az ázsiai elefánt és a gibbon. A hegy a helyi közösségek számára szent hely.",
-      ro: "Phnom Samkos (1.717 m) este al treilea munte ca înălțime din Cambodgia, parte a Munților Cardamom. Format din gresie și granit. Pădurile tropicale dense acoperă versanții, iar la altitudine apare pădurea de ceață. Este un centru de endemism pentru plante, cu multe orhidee. A fost declarat arie protejată în 2010. Fauna include elefanți, giboni și urși. Accesul dificil a păstrat sălbăticia. Cercetătorii au descoperit specii noi de broaște.",
-      en: "Phnom Samkos (1,717 m) is Cambodia's third highest peak, located in the Cardamom Mountains. Composed of sandstone and granite, its slopes are cloaked in pristine rainforest and cloud forest at higher elevations. The mountain is a biodiversity hotspot with many endemic orchids. It serves as a critical watershed for regional rivers. Protected since 2010, the area remains largely unexplored. Wildlife includes Asian elephants, gibbons, and sun bears. Recent surveys have documented several new amphibian species.",
-    },
-    factsAdvanced: {
-      de: ["Höhe: 1.717 Meter (dritthöchster Berg).", "Gestein: Sandstein und Granit.", "Schutzstatus seit 2010.", "Endemische Orchideenarten.", "Lebensraum für Sun Bear (Malaiischer Bär).", "Wichtiges Wassereinzugsgebiet."],
-      hu: ["Magasság: 1.717 m (harmadik legmagasabb).", "Homokkő és gránit.", "2010 óta védett.", "Endemikus orchideák.", "Napmedve élőhelye.", "Vízgyűjtő terület."],
-      ro: ["Altitudine: 1.717 m (al treilea).", "Gresie și granit.", "Protejat din 2010.", "Orhidee endemice.", "Habitat pentru ursul malaiez.", "Bazin de captare."],
-      en: ["Elevation: 1,717 m (third highest).", "Rock: sandstone and granite.", "Protected since 2010.", "Endemic orchids.", "Sun bear habitat.", "Watershed."],
-    },
-  },
-  {
+    {
     id: "mondulkiri-plateau-relief-v2",
     type: "plateau",
     parent: "KH-11",

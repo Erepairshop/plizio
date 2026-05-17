@@ -1,88 +1,7 @@
 import type { POI } from "./poi";
 
 export const poiExtraPeruHistoryV2: POI[] = [
-  {
-    id: "machu-picchu-history-v2",
-    type: "historical",
-    parent: "PE-CUS",
-    coords: [-72.545, -13.163],
-    name: { de: "Machu Picchu", hu: "Machu Picchu", ro: "Machu Picchu", en: "Machu Picchu"},
-    image: "/poi-images/machu-picchu-history-v2.webp",
-    description: { de: "Die berühmteste Inka-Stadt der Welt, hoch oben in den Anden gelegen.", hu: "A világ leghíresebb inka romvárosa, magasan az Andok hegyei között.", ro: "Cel mai faimos oraș incaș din lume, situat la înălțime în munții Anzi.", en: "The most famous Inca city in the world, located high in the Andes mountains." },
-    facts: { de: ["Im 15. Jahrhundert erbaut.", "1911 von Hiram Bingham wiederentdeckt."], hu: ["A 15. században épült.", "Hiram Bingham fedezte fel újra 1911-ben."], ro: ["Construit în secolul al XV-lea.", "Redescoperit de Hiram Bingham în 1911."], en: ["Built in the 15th century.", "Rediscovered by Hiram Bingham in 1911."] },
-    descriptionAdvanced: {
-      de: "Machu Picchu wurde im 15. Jahrhundert vom Inka-Herrscher Pachacútec auf einem schmalen Bergrücken zwischen den Gipfeln Machu Picchu und Huayna Picchu errichtet. Die Stadt diente vermutlich als königliches Anwesen und religiöses Zentrum, blieb aber nach dem Zusammenbruch des Reiches jahrhundertelang vergessen. Die beeindruckende Architektur zeichnet sich durch präzise bearbeitete Granitblöcke aus, die ohne Mörtel perfekt ineinandergreifen. Da die Spanier die Stadt nie fanden, blieb sie weitgehend intakt und bietet heute tiefe Einblicke in das Leben der Inka. Ihre Entdeckung durch Hiram Bingham im Jahr 1911 machte sie zu einer der bedeutendsten archäologischen Stätten weltweit. Geschichte K8 — Inka-Zivilisation.",
-      hu: "A Machu Picchu az Inka Birodalom 15. századi citadellája, amelyet Pachacútec inka uralkodó építtetett egy keskeny hegygerincen, az Andok hegyei között. A város valószínűleg királyi birtokként és vallási központként funkcionált, de a birodalom bukása után évszázadokra feledésbe merült. Lenyűgöző építészete precízen megmunkált gránittömbökből áll, amelyek habarcs nélkül illeszkednek egymáshoz. Mivel a spanyolok soha nem találták meg, a város nagyrészt érintetlen maradt, és mély betekintést nyújt az inkák életébe. Hiram Bingham 1911-es felfedezése a világ egyik legjelentősebb régészeti lelőhelyévé tette. Történelem K8 — Inka civilizáció.",
-      ro: "Machu Picchu este o citadelă incașă din secolul al XV-lea, construită de împăratul incaș Pachacútec pe o creastă montană îngustă, între vârfurile Machu Picchu și Huayna Picchu. Orașul a servit probabil ca reședință regală și centru religios, dar a rămas uitat timp de secole după prăbușirea imperiului. Arhitectura sa impresionantă se caracterizează prin blocuri de granit prelucrate cu precizie, care se îmbină perfect fără mortar. Deoarece spaniolii nu l-au găsit niciodată, orașul a rămas în mare parte intact și oferă astăzi o perspectivă profundă asupra vieții incașilor. Descoperirea sa de către Hiram Bingham în 1911 l-a transformat într-unul dintre cele mai importante situri arheologice din lume. Istorie K8 — Civilizația Inca.",
-      en: "Machu Picchu is a 15th-century Inca citadel, built by the Inca emperor Pachacútec on a narrow mountain ridge between the Machu Picchu and Huayna Picchu peaks. The city likely served as a royal estate and religious center but was forgotten for centuries after the fall of the empire. Its impressive architecture features precisely worked granite blocks that fit together perfectly without mortar. Because the Spanish never found it, the city remained largely intact, offering deep insights into Inca life today. Its discovery by Hiram Bingham in 1911 made it one of the world's most significant archaeological sites. History K8 — Inca Civilization."
-    },
-    factsAdvanced: {
-      de: [
-        "Die Anlage besteht aus über 200 Gebäuden, die auf verschiedenen Ebenen durch Treppen verbunden sind.",
-        "Das Bewässerungssystem der Stadt ist so fortschrittlich, dass es noch heute Regenwasser effizient ableitet.",
-        "Der 'Intihuatana'-Stein diente den Inkas wahrscheinlich als astronomische Uhr oder Kalender.",
-        "Machu Picchu wurde 1983 in die Liste des UNESCO-Weltkulturerbes aufgenommen.",
-        "Trotz seiner Popularität wird die tägliche Besucherzahl heute streng limitiert, um die Ruinen zu schützen."
-      ],
-      hu: ["A komplexum több mint 200 épületből áll, amelyeket lépcsők kötnek össze.", "A város öntözőrendszere annyira fejlett, hogy ma is hatékonyan vezeti el az esővizet.", "Az 'Intihuatana' kő valószínűleg csillagászati óraként vagy naptárként szolgált.", "A Machu Picchu 1983-ban került fel az UNESCO Világörökség listájára.", "Népszerűsége ellenére a napi látogatók számát ma már szigorúan korlátozzák a romok védelmében."],
-      ro: ["Complexul este format din peste 200 de clădiri conectate prin scări pe diferite niveluri.", "Sistemul de irigații al orașului este atât de avansat încât încă drenează eficient apa de ploaie astăzi.", "Piatra 'Intihuatana' a servit probabil incașilor ca ceas astronomic sau calendar.", "Machu Picchu a fost inclus în Patrimoniul Mondial UNESCO în 1983.", "În ciuda popularității sale, numărul zilnic de vizitatori este acum strict limitat pentru a proteja ruinele."],
-      en: ["The complex consists of over 200 buildings connected by stairs on various levels.", "The city's irrigation system is so advanced that it still efficiently drains rainwater today.", "The 'Intihuatana' stone likely served the Incas as an astronomical clock or calendar.", "Machu Picchu was added to the UNESCO World Heritage list in 1983.", "Despite its popularity, the daily number of visitors is now strictly limited to protect the ruins."]
-    }, image: "/poi-images/machu-picchu-history-v2.webp"},
-  {
-    id: "sacsayhuaman-history-v2",
-    type: "historical",
-    parent: "PE-CUS",
-    coords: [-71.981, -13.509],
-    name: { de: "Sacsayhuamán", hu: "Sacsayhuamán", ro: "Sacsayhuamán", en: "Sacsayhuamán"},
-    image: "/poi-images/sacsayhuaman-history-v2.webp",
-    description: { de: "Eine beeindruckende Inka-Festung nahe Cusco mit massiven, perfekt eingefügten Steinblöcken.", hu: "Lenyűgöző inka erődítmény Cusco közelében, tökéletesen illeszkedő kőtömbökkel.", ro: "O fortăreață incașă impresionantă lângă Cusco, cu blocuri de piatră perfect îmbinate.", en: "An impressive Inca fortress near Cusco with massive, perfectly fitted stone blocks." },
-    facts: { de: ["Einige Steine wiegen über 100 Tonnen.", "Schauplatz der Inti Raymi Zeremonie."], hu: ["Néhány kő több mint 100 tonnát nyom.", "Az Inti Raymi ceremónia helyszíne."], ro: ["Unele pietre cântăresc peste 100 de tone.", "Locul ceremoniei Inti Raymi."], en: ["Some stones weigh over 100 tons.", "Site of the Inti Raymi ceremony."] },
-    descriptionAdvanced: {
-      de: "Sacsayhuamán ist eine monumentale Anlage oberhalb der Stadt Cusco, die für ihre zyklopischen Mauern aus riesigen Kalksteinblöcken berühmt ist. Die Bauherren der Inka fügten diese Steine so präzise zusammen, dass selbst heute keine Messerklinge zwischen sie passt. Ursprünglich diente der Komplex sowohl als militärische Festung als auch als zeremonielles Zentrum für religiöse Riten. Während der spanischen Eroberung war Sacsayhuamán Schauplatz einer der blutigsten Schlachten zwischen den Inka und den Konquistadoren. Heute bilden die verbliebenen Mauern die Kulisse für das jährliche Inti Raymi Fest zur Wintersonnenwende. Geschichte K8 — Militärische Architektur der Inka.",
-      hu: "A Sacsayhuamán egy monumentális komplexum Cusco városa felett, amely a hatalmas mészkőtömbökből álló küklopikus falairól híres. Az inka építők olyan precízen illesztették össze ezeket a köveket, hogy még ma sem fér be egy kés pengéje közéjük. Eredetileg a komplexum katonai erődítményként és vallási szertartások ceremoniális központjaként is szolgált. A spanyol hódítás során Sacsayhuamán az inkák és a konkvisztádorok közötti egyik legvéressebb csata helyszíne volt. Ma a megmaradt falak adják a hátteret az évente megrendezett Inti Raymi ünnepségnek a téli napfordulókor. Történelem K8 — Az inkák katonai építészete.",
-      ro: "Sacsayhuamán este un complex monumental deasupra orașului Cusco, renumit pentru zidurile sale ciclopice din blocuri uriașe de calcar. Constructorii incași au îmbinat aceste pietre cu o asemenea precizie încât nici astăzi o lamă de cuțit nu încape între ele. Inițial, complexul a servit atât ca fortăreață militară, cât și ca centru ceremonial pentru rituri religioase. În timpul cuceririi spaniole, Sacsayhuamán a fost scena uneia dintre cele mai sângeroase bătălii între incași și conchistadori. Astăzi, zidurile rămase formează fundalul pentru festivalul anual Inti Raymi la solstițiul de iarnă. Istorie K8 — Arhitectura militară a incașilor.",
-      en: "Sacsayhuamán is a monumental complex above the city of Cusco, famous for its cyclopean walls made of giant limestone blocks. The Inca builders fitted these stones together so precisely that not even a knife blade can fit between them today. Originally, the complex served as both a military fortress and a ceremonial center for religious rites. During the Spanish conquest, Sacsayhuamán was the scene of one of the bloodiest battles between the Incas and the conquistadors. Today, the remaining walls form the backdrop for the annual Inti Raymi festival at the winter solstice. History K8 — Inca Military Architecture."
-    },
-    factsAdvanced: {
-      de: [
-        "Der größte verwendete Steinblock ist über 8 Meter hoch und wiegt schätzungsweise 128 Tonnen.",
-        "Vom Gelände aus hat man einen Panoramablick über die gesamte Stadt Cusco.",
-        "Die drei im Zickzack verlaufenden Verteidigungswälle repräsentieren möglicherweise die Zähne eines Pumas.",
-        "Nach der Eroberung nutzten die Spanier viele Steine der Anlage für den Bau von Gebäuden in Cusco.",
-        "Sacsayhuamán ist Teil des UNESCO-Weltkulturerbes der Stadt Cusco."
-      ],
-      hu: ["A legnagyobb felhasznált kőtömb több mint 8 méter magas és becslések szerint 128 tonnát nyom.", "A területről panorámás kilátás nyílik Cusco egész városára.", "A három cikk-cakkban futó védőfal valószínűleg egy puma fogait jelképezi.", "A hódítás után a spanyolok a komplexum számos kövét felhasználták cuscói épületek építéséhez.", "A Sacsayhuamán Cusco városának UNESCO Világörökségi részét képezi."],
-      ro: ["Cel mai mare bloc de piatră folosit are peste 8 metri înălțime și cântărește aproximativ 128 de tone.", "De pe sit se deschide o vedere panoramică asupra întregului oraș Cusco.", "Cele trei ziduri de apărare în zigzag reprezintă posibil dinții unei pume.", "După cucerire, spaniolii au folosit multe pietre din complex pentru a construi clădiri în Cusco.", "Sacsayhuamán face parte din situl Patrimoniului Mondial UNESCO al orașului Cusco."],
-      en: ["The largest stone block used is over 8 meters high and weighs an estimated 128 tons.", "The site offers a panoramic view over the entire city of Cusco.", "The three zigzagging defensive walls may represent the teeth of a puma.", "After the conquest, the Spanish used many of the complex's stones to build structures in Cusco.", "Sacsayhuamán is part of the UNESCO World Heritage site of the city of Cusco."]
-    }, image: "/poi-images/sacsayhuaman-history-v2.webp"},
-  {
-    id: "ollantaytambo-history-v2",
-    type: "historical",
-    parent: "PE-CUS",
-    coords: [-72.263, -13.257],
-    name: { de: "Ollantaytambo", hu: "Ollantaytambo", ro: "Ollantaytambo", en: "Ollantaytambo"},
-    image: "/poi-images/ollantaytambo-history-v2.webp",
-    description: { de: "Ein bedeutendes archäologisches Zentrum und eine der letzten Festungen des Inka-Widerstands.", hu: "Jelentős régészeti központ és az inka ellenállás egyik utolsó erődítménye.", ro: "Un centru arheologic important și una dintre ultimele fortărețe ale rezistenței incașe.", en: "An important archaeological center and one of the last fortresses of Inca resistance." },
-    facts: { de: ["Diente als Tempel und militärischer Stützpunkt.", "Ort eines großen Sieges gegen die Spanier."], hu: ["Templomként és katonai bázisként is szolgált.", "Nagy győzelem helyszíne a spanyolok ellen."], ro: ["A servit drept templu și bază militară.", "Locul unei mari victorii împotriva spaniolilor."], en: ["Served as a temple and military base.", "Site of a major victory against the Spanish."] },
-    descriptionAdvanced: {
-      de: "Ollantaytambo war zur Zeit des Inka-Reiches ein königliches Landgut von Pachacútec und ein wichtiges Verwaltungszentrum. Die Stadt ist ein einzigartiges Beispiel für die Stadtplanung der Inka, da viele der ursprünglichen Gebäude und Straßenzüge noch bewohnt sind. Während der Rebellion von Manco Inca diente die Festung als strategischer Rückzugsort gegen die spanischen Angreifer. Hier gelang den Inka im Jahr 1537 ein seltener militärischer Sieg, indem sie das Tal fluteten und so den spanischen Vormarsch stoppten. Die Anlage umfasst beeindruckende Terrassen und einen unvollendeten Sonnentempel mit massiven Monolithen. Geschichte K8 — Widerstand gegen die Eroberung.",
-      hu: "Az Ollantaytambo az Inka Birodalom idején Pachacútec királyi birtoka és fontos közigazgatási központ volt. A város az inka várostervezés egyedülálló példája, mivel számos eredeti épület és utca ma is lakott. Manco Inca lázadása idején az erőd stratégiai menedékhelyként szolgált a spanyol támadók ellen. Itt az inkák 1537-ben ritka katonai győzelmet arattak azzal, hogy elárasztották a völgyet, és ezzel megállították a spanyol előrenyomulást. A komplexum lenyűgöző teraszokat és egy befejezetlen Naptemplomot foglal magában, masszív monolitokkal. Történelem K8 — Ellenállás a hódítással szemben.",
-      ro: "Ollantaytambo a fost, în timpul Imperiului Inca, o proprietate regală a lui Pachacútec și un important centru administrativ. Orașul este un exemplu unic de planificare urbană incașă, deoarece multe dintre clădirile și străzile originale sunt încă locuite. În timpul rebeliunii lui Manco Inca, fortăreața a servit ca un refugiu strategic împotriva atacatorilor spanioli. Aici, incașii au obținut o victorie militară rară în 1537, inundând valea și oprind astfel înaintarea spaniolă. Complexul include terase impresionante și un Templu al Soarelui neterminat, cu monoliți masivi. Istorie K8 — Rezistența împotriva cuceririi.",
-      en: "Ollantaytambo was a royal estate of Pachacútec and an important administrative center during the Inca Empire. The town is a unique example of Inca urban planning, as many of the original buildings and street layouts are still inhabited. During Manco Inca's rebellion, the fortress served as a strategic retreat against the Spanish attackers. Here, in 1537, the Incas achieved a rare military victory by flooding the valley, thus halting the Spanish advance. The complex includes impressive terraces and an unfinished Sun Temple with massive monoliths. History K8 — Resistance against the Conquest."
-    },
-    factsAdvanced: {
-      de: [
-        "Ollantaytambo gilt als die einzige Inka-Stadt, in der die ursprüngliche Struktur fast vollständig erhalten blieb.",
-        "Die riesigen Steinplatten des Sonnentempels wurden aus einem Steinbruch auf der anderen Talseite herantransportiert.",
-        "Die Anlage diente auch als religiöses Zentrum mit einem Bad der Prinzessin (Baño de la Ñusta).",
-        "Auf der gegenüberliegenden Bergseite befinden sich Vorratskammern (Qolqas) der Inka.",
-        "Heute ist der Ort ein wichtiger Ausgangspunkt für den Zug nach Machu Picchu."
-      ],
-      hu: ["Ollantaytambót tartják az egyetlen inka városnak, ahol az eredeti szerkezet szinte teljesen megmaradt.", "A Naptemplom hatalmas kőlapjait a völgy túlsó oldalán lévő kőbányából szállították ide.", "A komplexum vallási központként is szolgált, a hercegnő fürdőjével (Baño de la Ñusta).", "A szemközti hegyoldalon az inkák raktárépületei (Qolqas) találhatók.", "Ma a helység fontos kiindulópont a Machu Picchu-ra tartó vonat számára."],
-      ro: ["Ollantaytambo este considerat singurul oraș incaș unde structura originală a fost aproape complet conservată.", "Plăcile uriașe de piatră ale Templului Soarelui au fost transportate dintr-o carieră de pe cealaltă parte a văii.", "Complexul a servit și ca centru religios, cu Baia Prințesei (Baño de la Ñusta).", "Pe versantul opus al muntelui se găsesc depozite (Qolqas) ale incașilor.", "Astăzi, localitatea este un punct de plecare important pentru trenul spre Machu Picchu."],
-      en: ["Ollantaytambo is considered the only Inca town where the original structure has remained almost completely intact.", "The massive stone slabs of the Sun Temple were transported from a quarry on the other side of the valley.", "The complex also served as a religious center, featuring the Princess's Baths (Baño de la Ñusta).", "On the opposite mountainside, there are Inca storehouses (Qolqas).", "Today, the town is an important starting point for the train to Machu Picchu."]
-    }, image: "/poi-images/ollantaytambo-history-v2.webp"},
-  {
+        {
     id: "pisac-history-v2",
     type: "historical",
     parent: "PE-CUS",
@@ -109,116 +28,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
       ro: ["Terasele din Pisac sunt încă folosite de populația locală pentru agricultură.", "Complexul are canale de apă sofisticate care alimentează fântâni sacre cu apă.", "Cimitirul 'Tantanamarca' a adăpostit odată mii de mumii.", "Pisac a fost un punct de control strategic important pentru accesul la bazinul Amazonului.", "Sub ruine are loc în mod regulat una dintre cele mai mari piețe de artizanat din regiune."],
       en: ["The terraces of Pisac are still used for cultivation by the local population today.", "The complex features sophisticated water channels that supply sacred fountains with water.", "The 'Tantanamarca' cemetery once housed thousands of mummies.", "Pisac was an important strategic checkpoint for access to the Amazon basin.", "One of the region's largest craft markets is regularly held below the ruins."]
     }, image: "/poi-images/pisac-history-v2.webp"},
-  {
-    id: "moray-history-v2",
-    type: "historical",
-    parent: "PE-CUS",
-    coords: [-72.196, -13.329],
-    name: { de: "Moray", hu: "Moray", ro: "Moray", en: "Moray"},
-    image: "/poi-images/moray-history-v2.webp",
-    description: { de: "Ein kreisförmiges Inka-Terrassensystem, das wahrscheinlich als landwirtschaftliches Labor diente.", hu: "Körkörös inka teraszrendszer, amely valószínűleg mezőgazdasági laboratóriumként működött.", ro: "Un sistem circular de terase incașe, care probabil a servit ca laborator agricol.", en: "A circular Inca terrace system that likely served as an agricultural laboratory." },
-    facts: { de: ["Besteht aus konzentrischen Kreisen.", "Erzeugt verschiedene Mikroklimata."], hu: ["Koncentrikus körökből áll.", "Különböző mikroklímákat hoz létre."], ro: ["Constă din cercuri concentrice.", "Creează diferite microclimate."], en: ["Consists of concentric circles.", "Creates different microclimates."] },
-    descriptionAdvanced: {
-      de: "Moray ist eine faszinierende archäologische Stätte, die aus mehreren trichterförmigen, konzentrischen Terrassen besteht, die tief in die Hochebene gegraben wurden. Die größte dieser Vertiefungen hat eine Tiefe von etwa 150 Metern und weist einen Temperaturunterschied von bis zu 15 Grad Celsius zwischen oben und unten auf. Wissenschaftler vermuten, dass die Inka diesen Ort als landwirtschaftliches Versuchsfeld nutzten, um Pflanzen unter verschiedenen klimatischen Bedingungen zu testen. Durch die variierenden Mikroklimata konnten sie möglicherweise Samen aus dem Amazonasbecken an die Bedingungen des Hochlandes gewöhnen. Diese Anlage demonstriert das enorme botanische Wissen des Inka-Reiches. Biologie K8 — Pflanzenanpassung und Landwirtschaft.",
-      hu: "A Moray egy lenyűgöző régészeti lelőhely, amely több, a fennsíkba mélyen beásott, tölcsér alakú, koncentrikus teraszból áll. A legnagyobb mélyedés körülbelül 150 méter mély, és a teteje és az alja között akár 15 Celsius-fokos hőmérséklet-különbség is lehet. A tudósok azt feltételezik, hogy az inkák ezt a helyet mezőgazdasági kísérleti terepként használták, hogy különböző éghajlati körülmények között teszteljék a növényeket. A változó mikroklímáknak köszönhetően valószínűleg képesek voltak az Amazonas-medencéből származó magokat a magasföldi körülményekhez szoktatni. Ez a létesítmény az Inka Birodalom hatalmas botanikai tudását mutatja be. Biológia K8 — Növényi adaptáció és mezőgazdaság.",
-      ro: "Moray este un sit arheologic fascinant, format din mai multe terase concentrice în formă de pâlnie, săpate adânc în platou. Cea mai mare dintre aceste depresiuni are o adâncime de aproximativ 150 de metri și prezintă o diferență de temperatură de până la 15 grade Celsius între partea de sus și cea de jos. Oamenii de știință presupun că incașii au folosit acest loc ca un câmp experimental agricol pentru a testa plante în diferite condiții climatice. Datorită microclimatelor variate, ei au putut probabil să aclimatizeze semințe din bazinul Amazonului la condițiile de la altitudine. Acest complex demonstrează cunoștințele botanice enorme ale Imperiului Inca. Biologie K8 — Adaptarea plantelor și agricultura.",
-      en: "Moray is a fascinating archaeological site consisting of several funnel-shaped, concentric terraces dug deep into the plateau. The largest of these depressions is about 150 meters deep and has a temperature difference of up to 15 degrees Celsius between the top and bottom. Scientists believe the Incas used this site as an agricultural experimental field to test plants under different climatic conditions. The varying microclimates likely allowed them to acclimate seeds from the Amazon basin to highland conditions. This facility demonstrates the vast botanical knowledge of the Inca Empire. Biology K8 — Plant Adaptation and Agriculture."
-    },
-    factsAdvanced: {
-      de: [
-        "Jede Terrasse in Moray repräsentiert eine andere ökologische Zone der Anden.",
-        "Die Entwässerung der Trichter erfolgt auf natürliche Weise durch das poröse Gestein am Boden.",
-        "Die Inka konnten hier vermutlich über 250 verschiedene Pflanzenarten kultivieren.",
-        "Einige Terrassen sind durch Treppensteine verbunden, die direkt in die Stützmauern eingelassen sind.",
-        "Moray liegt auf einer Höhe von etwa 3.500 Metern über dem Meeresspiegel."
-      ],
-      hu: ["A Moray minden terasza az Andok egy-egy különböző ökológiai zónáját képviseli.", "A tölcsérek vízelvezetése természetes módon történik az alján lévő porózus kőzeten keresztül.", "Az inkák itt valószínűleg több mint 250 különböző növényfajt tudtak termeszteni.", "Néhány teraszt közvetlenül a támfalakba épített lépcsőfokok kötnek össze.", "A Moray körülbelül 3500 méteres tengerszint feletti magasságban fekszik."],
-      ro: ["Fiecare terasă din Moray reprezintă o zonă ecologică diferită a Anzilor.", "Drenajul pâlniilor se face în mod natural prin roca poroasă de la bază.", "Incașii au putut probabil cultiva peste 250 de specii diferite de plante aici.", "Unele terase sunt conectate prin trepte de piatră încorporate direct în zidurile de sprijin.", "Moray este situat la o altitudine de aproximativ 3.500 de metri deasupra nivelului mării."],
-      en: ["Each terrace in Moray represents a different ecological zone of the Andes.", "The funnels drain naturally through the porous rock at the bottom.", "The Incas were likely able to cultivate over 250 different plant species here.", "Some terraces are connected by stone steps set directly into the retaining walls.", "Moray is located at an altitude of about 3,500 meters above sea level."]
-    }
-  },
-  {
-    id: "choquequirao-history-v2",
-    type: "historical",
-    parent: "PE-CUS",
-    coords: [-72.873, -13.394],
-    name: { de: "Choquequirao", hu: "Choquequirao", ro: "Choquequirao", en: "Choquequirao"},
-    image: "/poi-images/choquequirao-history-v2.webp",
-    description: { de: "Eine Inka-Zitadelle, die Machu Picchu ähnelt, aber viel schwerer zu erreichen ist.", hu: "Egy inka fellegvár, amely hasonlít a Machu Picchuhoz, de sokkal nehezebben megközelíthető.", ro: "O citadelă incașă asemănătoare cu Machu Picchu, dar mult mai greu accesibilă.", en: "An Inca citadel similar to Machu Picchu, but much harder to reach." },
-    facts: { de: ["Liegt auf über 3.000 Metern Höhe.", "Nur durch eine mehrtägige Wanderung erreichbar."], hu: ["Több mint 3000 méteres magasságban fekszik.", "Csak többnapos túrával érhető el."], ro: ["Situat la peste 3.000 de metri altitudine.", "Accesibil doar printr-o drumeție de câteva zile."], en: ["Located at over 3,000 meters altitude.", "Only accessible by a multi-day hike."] },
-    descriptionAdvanced: {
-      de: "Choquequirao, oft als 'Schwesterstadt von Machu Picchu' bezeichnet, liegt spektakulär über dem Canyon des Flusses Apurímac. Die Anlage wurde vermutlich im späten 15. Jahrhundert errichtet und diente als wichtige Verbindung zwischen Cusco und dem Amazonas-Tiefland. Nach der Eroberung Cuscos durch die Spanier wurde Choquequirao zu einem der letzten Zufluchtsorte der Inka-Herrscher von Vilcabamba. Einzigartig sind die Terrazas de las Llamas, landwirtschaftliche Terrassen, die mit kunstvollen Steinmosaiken in Form von Lamas verziert sind. Aufgrund der schwierigen Erreichbarkeit ist Choquequirao weit weniger besucht als Machu Picchu und bewahrt eine geheimnisvolle Atmosphäre. Geschichte K8 — Die letzten Refugien der Inka.",
-      hu: "A Choquequirao, amelyet gyakran 'Machu Picchu testvérvárosának' is neveznek, látványosan helyezkedik el az Apurímac folyó kanyonja felett. A komplexumot valószínűleg a 15. század végén építették, és fontos összekötő kapocsként szolgált Cusco és az Amazonas-alföld között. Cusco spanyolok általi elfoglalása után Choquequirao a vilcabambai inka uralkodók egyik utolsó menedékhelyévé vált. Egyedülállóak a Terrazas de las Llamas, mezőgazdasági teraszok, amelyeket lámákat formázó művészi kőmozaikok díszítenek. A nehéz megközelíthetőség miatt a Choquequirao sokkal kevésbé látogatott, mint a Machu Picchu, és megőrizte titokzatos hangulatát. Történelem K8 — Az inkák utolsó menedékei.",
-      ro: "Choquequirao, adesea numit 'orașul soră al lui Machu Picchu', este situat spectaculos deasupra canionului râului Apurímac. Complexul a fost probabil construit la sfârșitul secolului al XV-lea și a servit ca o legătură importantă între Cusco și câmpiile amazoniene. După cucerirea Cuscului de către spanioli, Choquequirao a devenit unul dintre ultimele refugii ale conducătorilor incași din Vilcabamba. Unice sunt Terrazas de las Llamas, terase agricole decorate cu mozaicuri artistice din piatră în formă de lame. Datorită accesibilității dificile, Choquequirao este mult mai puțin vizitat decât Machu Picchu și păstrează o atmosferă misterioasă. Istorie K8 — Ultimele refugii ale incașilor.",
-      en: "Choquequirao, often called the 'sister city of Machu Picchu', is spectacularly located above the Apurímac River canyon. The complex was likely built in the late 15th century and served as an important link between Cusco and the Amazon lowlands. After the Spanish conquest of Cusco, Choquequirao became one of the last refuges for the Inca rulers of Vilcabamba. Unique to the site are the 'Terrazas de las Llamas,' agricultural terraces adorned with artistic stone mosaics in the shape of llamas. Due to its difficult accessibility, Choquequirao is far less visited than Machu Picchu, preserving a mysterious atmosphere. History K8 — The Last Refuges of the Incas."
-    },
-    factsAdvanced: {
-      de: [
-        "Bisher ist erst ein kleiner Teil der Anlage (geschätzt 30-40 %) vollständig freigelegt.",
-        "Der Name Choquequirao bedeutet in der Sprache Quechua 'Wiege des Goldes'.",
-        "Die Anlage umfasst Zeremonialplätze, Tempel, Vorratskammern und Wohnviertel für Adlige.",
-        "Wanderer benötigen in der Regel zwei Tage intensiven Aufstiegs, um die Ruinen zu erreichen.",
-        "Geplant ist der Bau einer Seilbahn, um die Stätte für den Massentourismus zu öffnen."
-      ],
-      hu: ["A komplexumnak eddig csak egy kis részét (becslések szerint 30-40%) tárták fel teljesen.", "A Choquequirao név kecsua nyelven 'arany bölcsőt' jelent.", "A komplexum szertartási tereket, templomokat, raktárakat és a nemesség lakónegyedeit foglalja magában.", "A túrázóknak általában két nap intenzív emelkedőre van szükségük a romok eléréséhez.", "Tervezik egy felvonó építését, hogy a helyszínt megnyissák a tömegturizmus előtt."],
-      ro: ["Până acum, doar o mică parte a complexului (estimată la 30-40%) a fost complet excavată.", "Numele Choquequirao înseamnă 'Leagănul de Aur' în limba quechua.", "Complexul include piețe ceremoniale, temple, depozite și cartiere rezidențiale pentru nobili.", "Drumeții au nevoie de obicei de două zile de urcare intensă pentru a ajunge la ruine.", "Se planifică construirea unei telecabine pentru a deschide situl turismului de masă."],
-      en: ["So far, only a small part of the site (estimated at 30-40%) has been fully excavated.", "The name Choquequirao means 'Cradle of Gold' in the Quechua language.", "The complex includes ceremonial plazas, temples, storehouses, and residential quarters for nobility.", "Hikers typically need two days of intense ascent to reach the ruins.", "There are plans to build a cable car to open the site to mass tourism."]
-    }, image: "/poi-images/choquequirao-history-v2.webp"},
-  {
-    id: "kuelap-history-v2",
-    type: "historical",
-    parent: "PE-AMA",
-    coords: [-77.923, -6.418],
-    name: { de: "Kuélap", hu: "Kuélap", ro: "Kuélap", en: "Kuélap"},
-    image: "/poi-images/kuelap-history-v2.webp",
-    description: { de: "Eine massive Festungsanlage der Chachapoya-Kultur in den Wolkenwäldern.", hu: "A chachapoya kultúra hatalmas erődítménye a felhőerdőkben.", ro: "O fortăreață masivă a culturii Chachapoya din pădurile noroase.", en: "A massive fortress of the Chachapoya culture in the cloud forests." },
-    facts: { de: ["Erbaut von den 'Wolkenkriegern'.", "Umfasst hunderte von Rundbauten."], hu: ["A 'felhőharcosok' építették.", "Több száz kerek épületből áll."], ro: ["Construit de 'războinicii norilor'.", "Include sute de clădiri rotunde."], en: ["Built by the 'Cloud Warriors'.", "Includes hundreds of round buildings."] },
-    descriptionAdvanced: {
-      de: "Kuélap ist eine gewaltige Festungsstadt im Norden Perus, die von der Kultur der Chachapoya ('Wolkenkrieger') zwischen dem 6. und 16. Jahrhundert erbaut wurde. Die Anlage liegt auf einem Bergkamm in 3.000 Metern Höhe und ist von einer bis zu 20 Meter hohen Steinmauer umgeben. Im Inneren befinden sich über 400 Rundbauten, die oft mit geometrischen Friesen verziert sind. Kuélap diente als Schutzraum gegen feindliche Stämme und später auch als religiöses Zentrum. Trotz ihrer massiven Bauweise wurde die Stadt schließlich von den Inka erobert, kurz bevor diese selbst den Spaniern unterlagen. Geschichte K7 — Prä-Inka-Zivilisationen des Nordens.",
-      hu: "A Kuélap egy hatalmas erődváros Észak-Peruban, amelyet a Chachapoya ('felhőharcosok') kultúra épített a 6. és 16. század között. A komplexum 3000 méteres magasságban egy hegygerincen fekszik, és egy akár 20 méter magas kőfal veszi körül. Belsejében több mint 400 kerek épület található, amelyeket gyakran geometrikus frízek díszítenek. A Kuélap védelmet nyújtott az ellenséges törzsek ellen, később pedig vallási központként is szolgált. Masszív építése ellenére a várost végül az inkák hódították meg, röviddel azelőtt, hogy ők maguk is alulmaradtak a spanyolokkal szemben. Történelem K7 — Észak pre-inka civilizációi.",
-      ro: "Kuélap este un oraș fortificat masiv în nordul Peru, construit de cultura Chachapoya ('războinicii norilor') între secolele al VI-lea și al XVI-lea. Complexul este situat pe o creastă montană la 3.000 de metri altitudine și este înconjurat de un zid de piatră de până la 20 de metri înălțime. În interior se găsesc peste 400 de clădiri rotunde, adesea decorate cu frize geometrice. Kuélap a servit ca adăpost împotriva triburilor inamice și mai târziu ca centru religios. În ciuda construcției sale masive, orașul a fost în cele din urmă cucerit de incași, cu puțin timp înainte ca aceștia să fie învinși de spanioli. Istorie K7 — Civilizațiile pre-incașe din nord.",
-      en: "Kuélap is a massive fortress city in northern Peru, built by the Chachapoya ('Cloud Warriors') culture between the 6th and 16th centuries. The complex is situated on a mountain ridge at 3,000 meters and is surrounded by a stone wall up to 20 meters high. Inside, there are over 400 circular buildings, often decorated with geometric friezes. Kuélap served as a shelter against enemy tribes and later as a religious center. Despite its massive construction, the city was eventually conquered by the Incas, shortly before they themselves were defeated by the Spanish. History K7 — Pre-Inca Civilizations of the North."
-    },
-    factsAdvanced: {
-      de: [
-        "Die Mauern von Kuélap enthalten schätzungsweise das dreifache Volumen an Stein wie die Große Pyramide von Gizeh.",
-        "Die drei Eingänge sind so schmal gebaut, dass jeweils nur eine Person hindurchpasste.",
-        "In den Rundhäusern wurden Gräber und Opfergaben direkt im Boden unter den Häusern gefunden.",
-        "Seit 2017 ist die Anlage bequem per Seilbahn von dem Dorf Tingo aus erreichbar.",
-        "Ein markantes Gebäude der Stadt ist 'El Tintero', ein Turm in Form eines umgekehrten Kegels."
-      ],
-      hu: ["A Kuélap falai becslések szerint háromszor annyi követ tartalmaznak, mint a gízai nagy piramis.", "A három bejáratot olyan szűkre építették, hogy egyszerre csak egy ember fért át rajtuk.", "A kerek házakban a sírokat és áldozati ajándékokat közvetlenül a házak alatti földben találták meg.", "2017 óta a komplexum kényelmesen elérhető felvonóval Tingo faluból.", "A város egyik jellegzetes épülete az 'El Tintero', egy fordított kúp alakú torony."],
-      ro: ["Zidurile din Kuélap conțin un volum de piatră estimat a fi de trei ori mai mare decât cel al Marii Piramide din Giza.", "Cele trei intrări sunt construite atât de îngust încât doar o singură persoană putea trece odată.", "În casele rotunde, morminte și ofrande au fost găsite direct în pământul de sub case.", "Din 2017, situl este ușor accesibil cu telecabina din satul Tingo.", "O clădire distinctivă a orașului este 'El Tintero', un turn în formă de con inversat."],
-      en: ["Kuélap's walls contain an estimated three times the volume of stone as the Great Pyramid of Giza.", "The three entrances are built so narrowly that only one person could pass through at a time.", "Inside the round houses, tombs and offerings were found directly in the ground beneath the homes.", "Since 2017, the site has been conveniently accessible by cable car from the village of Tingo.", "A distinctive building in the city is 'El Tintero', a tower shaped like an inverted cone."]
-    }, image: "/poi-images/kuelap-history-v2.webp"},
-  {
-    id: "chan-chan-history-v2",
-    type: "historical",
-    parent: "PE-LAL",
-    coords: [-79.075, -8.106],
-    name: { de: "Chan Chan", hu: "Chan Chan", ro: "Chan Chan", en: "Chan Chan"},
-    image: "/poi-images/chan-chan-history-v2.webp",
-    description: { de: "Die größte präkolumbische Lehmziegelstadt Amerikas und ehemalige Hauptstadt der Chimú.", hu: "Amerika legnagyobb prekolumbián vályogvárosa és a Csimú birodalom egykori fővárosa.", ro: "Cel mai mare oraș precolumbian de adobe din America și fosta capitală Chimú.", en: "The largest pre-Columbian adobe city in the Americas and former Chimú capital." },
-    facts: { de: ["UNESCO-Weltkulturerbe seit 1986.", "Bedeckte einst eine Fläche von 20 Quadratkilometern."], hu: ["1986 óta UNESCO világörökség.", "Egykor 20 négyzetkilométernyi területet foglalt el."], ro: ["Patrimoniu Mondial UNESCO din 1986.", "Odată acoperea o suprafață de 20 de kilometri pătrați."], en: ["UNESCO World Heritage site since 1986.", "Once covered an area of 20 square kilometers."] },
-    descriptionAdvanced: {
-      de: "Chan Chan war die glanzvolle Hauptstadt des Chimú-Reiches und gilt als die größte jemals errichtete Stadt aus Adobe (Luftgetrockneten Lehmziegeln). Der Komplex bestand ursprünglich aus neun Zitadellen, die von hohen Mauern umgeben waren und Tempel, Paläste und riesige Vorratskammern beherbergten. Die Wände sind kunstvoll mit Reliefs von Fischen, Vögeln und geometrischen Mustern verziert, die die enge Verbindung des Volkes zum Meer widerspiegeln. Auf ihrem Höhepunkt im 15. Jahrhundert beherbergte die Stadt bis zu 60.000 Einwohner, bevor sie von den Inka erobert wurde. Durch die zunehmenden Regenfälle infolge des El-Niño-Phänomens ist die Stätte heute stark in ihrem Bestand bedroht. Geschichte K7 — Die Chimú-Kultur an der Küste.",
-      hu: "A Chan Chan a Chimú Birodalom ragyogó fővárosa volt, és a legnagyobb, vályogból (levegőn szárított agyagtéglából) épült városnak számít. A komplexum eredetileg kilenc, magas falakkal körülvett citadellából állt, amelyek templomokat, palotákat és hatalmas raktárakat rejtettek. A falakat halakat, madarakat és geometrikus mintákat ábrázoló domborművek díszítik, amelyek a nép tengerhez való szoros kötődését tükrözik. Fénykorában, a 15. században a városban akár 60 000 ember is lakott, mielőtt az inkák meghódították. Az El Niño-jelenség következtében egyre gyakoribb esőzések miatt a lelőhely ma erősen veszélyeztetett. Történelem K7 — A Chimú-kultúra a tengerparton.",
-      ro: "Chan Chan a fost capitala strălucitoare a Imperiului Chimú și este considerat cel mai mare oraș construit vreodată din chirpici (cărămizi de lut uscate la soare). Complexul era format inițial din nouă cetăți înconjurate de ziduri înalte, care adăposteau temple, palate și depozite uriașe. Zidurile sunt decorate artistic cu reliefuri de pești, păsări și modele geometrice, reflectând legătura strânsă a poporului cu marea. La apogeul său în secolul al XV-lea, orașul găzduia până la 60.000 de locuitori, înainte de a fi cucerit de incași. Datorită ploilor tot mai frecvente cauzate de fenomenul El Niño, situl este astăzi grav amenințat. Istorie K7 — Cultura Chimú pe coastă.",
-      en: "Chan Chan was the splendid capital of the Chimú Empire and is considered the largest city ever built from adobe (sun-dried mud bricks). The complex originally consisted of nine citadels surrounded by high walls, housing temples, palaces, and huge storehouses. The walls are artfully decorated with reliefs of fish, birds, and geometric patterns, reflecting the people's close connection to the sea. At its peak in the 15th century, the city housed up to 60,000 inhabitants before being conquered by the Incas. Due to increasing rainfall caused by the El Niño phenomenon, the site is now severely threatened. History K7 — The Chimú Culture on the Coast."
-    },
-    factsAdvanced: {
-      de: [
-        "Die Stadt ist ein Meisterwerk der Bewässerungstechnik in einer extrem trockenen Wüstenregion.",
-        "In den Palastanlagen befanden sich riesige Becken, die Grundwasser für die Bewohner lieferten.",
-        "Chan Chan wurde 1986 auf die Liste des gefährdeten Welterbes der UNESCO gesetzt.",
-        "Der Name Chan Chan leitet sich vermutlich vom Wort 'Sonn-Sonne' ab.",
-        "Jede der neun Zitadellen diente vermutlich einem einzigen Herrscher als Palast und wurde nach seinem Tod zu seinem Mausoleum."
-      ],
-      hu: ["A város az öntözéstechnika mesterműve egy rendkívül száraz sivatagi régióban.", "A palotakomplexumokban hatalmas medencék voltak, amelyek talajvizet biztosítottak a lakosoknak.", "A Chan Chan 1986-ban felkerült az UNESCO veszélyeztetett világörökségi listájára.", "A Chan Chan név valószínűleg a 'Nap-Nap' szóból származik.", "A kilenc citadella mindegyike valószínűleg egy-egy uralkodó palotájaként szolgált, és halála után mauzóleumává vált."],
-      ro: ["Orașul este o capodoperă a ingineriei de irigații într-o regiune deșertică extrem de aridă.", "Complexele palatului conțineau bazine uriașe care furnizau apă subterană locuitorilor.", "Chan Chan a fost inclus pe Lista Patrimoniului Mondial în Pericol a UNESCO în 1986.", "Numele Chan Chan derivă probabil din cuvântul 'Soare-Soare'.", "Fiecare dintre cele nouă cetăți a servit probabil ca palat pentru un singur conducător și a devenit mausoleul său după moarte."],
-      en: ["The city is a masterpiece of irrigation engineering in an extremely arid desert region.", "The palace compounds contained huge reservoirs that supplied groundwater for the inhabitants.", "Chan Chan was placed on UNESCO's List of World Heritage in Danger in 1986.", "The name Chan Chan probably derives from the word for 'Sun-Sun'.", "Each of the nine citadels likely served as a palace for a single ruler and became their mausoleum after death."]
-    }, image: "/poi-images/chan-chan-history-v2.webp"},
-  {
+          {
     id: "huaca-del-sol-history-v2",
     type: "historical",
     parent: "PE-LAL",
@@ -326,61 +136,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
       ro: ["Caral a fost descris științific abia în 1994 de arheologul Ruth Shady Solís.", "Locuitorii foloseau 'quipus', un sistem de sfori cu noduri, probabil pentru stocarea datelor.", "În complex au fost găsite 32 de flaute făcute din oase de condor și pelican.", "Orașul a fost abandonat în jurul anului 1800 î.Hr. din cauza perioadelor de secetă și a furtunilor de nisip.", "Caral se află pe lista Patrimoniului Mondial UNESCO din 2009."],
       en: ["Caral was only scientifically described in 1994 by archaeologist Ruth Shady Solís.", "The inhabitants used 'quipus', a system of knotted cords, likely for data storage.", "32 flutes made from condor and pelican bones were found in the complex.", "The city was abandoned around 1800 BC due to droughts and sandstorms.", "Caral has been on the UNESCO World Heritage list since 2009."]
     }, image: "/poi-images/caral-history-v2.webp"},
-  {
-    id: "chavin-de-huantar-history-v2",
-    type: "historical",
-    parent: "PE-ANC",
-    coords: [-77.177, -9.593],
-    name: { de: "Chavín de Huántar", hu: "Chavín de Huántar", ro: "Chavín de Huántar", en: "Chavín de Huántar"},
-    image: "/poi-images/chavin-de-huantar-history-v2.webp",
-    description: { de: "Eine archäologische Stätte, die als religiöses Zentrum der Chavín-Kultur diente.", hu: "Régészeti lelőhely, amely a chavín kultúra vallási központjaként szolgált.", ro: "Un sit arheologic care a servit ca centru religios al culturii Chavín.", en: "An archaeological site that served as the religious center of the Chavín culture." },
-    facts: { de: ["Beinhaltet ein komplexes Labyrinth aus Tunneln.", "Bekannt für den Lanzón-Monolithen."], hu: ["Alagutak bonyolult labirintusát tartalmazza.", "A Lanzón-monolitról ismert."], ro: ["Conține un labirint complex de tuneluri.", "Cunoscut pentru monolitul Lanzón."], en: ["Contains a complex labyrinth of tunnels.", "Known for the Lanzón monolith."] },
-    descriptionAdvanced: {
-      de: "Chavín de Huántar war zwischen 1200 und 200 v. Chr. das bedeutendste religiöse und zeremonielle Zentrum der Anden. Die Anlage ist berühmt für ihre monumentalen Steinstrukturen und ein tiefes, unterirdisches System von Galerien und Tunneln. Pilger aus weiten Teilen der Region besuchten den Ort, um Orakel zu befragen und an schamanischen Ritualen teilzunehmen. Die Kunst der Chavín, geprägt durch Darstellungen von Raubkatzen, Schlangen und Greifvögeln, beeinflusste nachfolgende Kulturen bis hin zu den Inka. Im Herzen des Tempels befindet sich der Lanzón-Monolith, eine 4,5 Meter hohe Stele mit furchteinflößenden Götterdarstellungen. Geschichte K7 — Frühe religiöse Zentren der Anden.",
-      hu: "A Chavín de Huántar i. e. 1200 és 200 között az Andok legjelentősebb vallási és szertartási központja volt. A komplexum híres monumentális kőépítményeiről és egy mély, föld alatti galériákból és alagutakból álló rendszeréről. A régió távoli részeiről zarándokok látogatták a helyet, hogy jóslatokat kérjenek és sámánisztikus rituálékon vegyenek részt. A Chavín művészete, amelyet macskafélék, kígyók és ragadozó madarak ábrázolásai jellemeznek, a későbbi kultúrákat egészen az inkákig befolyásolta. A templom szívében található a Lanzón-monolit, egy 4,5 méter magas, félelmetes istenábrázolásokkal díszített sztélé. Történelem K7 — Az Andok korai vallási központjai.",
-      ro: "Chavín de Huántar a fost cel mai important centru religios și ceremonial din Anzi între 1200 și 200 î.Hr. Complexul este renumit pentru structurile sale monumentale din piatră și pentru un sistem subteran adânc de galerii și tuneluri. Pelerinii din zone îndepărtate ale regiunii vizitau locul pentru a consulta oracole și a participa la ritualuri șamanice. Arta Chavín, caracterizată prin reprezentări de feline, șerpi și păsări de pradă, a influențat culturile ulterioare până la incași. În inima templului se află Monolitul Lanzón, o stelă de 4,5 metri înălțime cu reprezentări înfricoșătoare de zei. Istorie K7 — Centrele religioase timpurii ale Anzilor.",
-      en: "Chavín de Huántar was the most important religious and ceremonial center in the Andes between 1200 and 200 BC. The site is famous for its monumental stone structures and a deep, subterranean system of galleries and tunnels. Pilgrims from distant parts of the region visited the site to consult oracles and participate in shamanic rituals. The art of Chavín, characterized by depictions of felines, snakes, and birds of prey, influenced subsequent cultures up to the Incas. At the heart of the temple is the Lanzón monolith, a 4.5-meter-high stela with fearsome depictions of deities. History K7 — Early Religious Centers of the Andes."
-    },
-    factsAdvanced: {
-      de: [
-        "In den Galerien wurden Muschelhörner gefunden, die für akustische Rituale genutzt wurden.",
-        "Die steinernen 'Nagelköpfe' an den Außenwänden stellten die Metamorphose von Menschen zu heiligen Tieren dar.",
-        "Das Bewässerungssystem unter dem Tempel erzeugte wahrscheinlich donnernde Geräusche zur Einschüchterung der Besucher.",
-        "Chavín de Huántar wurde 1985 zum UNESCO-Weltkulturerbe erklärt.",
-        "Die Anlage wurde durch Naturkatastrophen wie Erdrutsche im Laufe der Jahrtausende mehrfach beschädigt."
-      ],
-      hu: ["A galériákban kagylókürtöket találtak, amelyeket akusztikus rituálékhoz használtak.", "A külső falakon lévő kő 'szögfejek' az emberek szent állatokká való átalakulását ábrázolták.", "A templom alatti öntözőrendszer valószínűleg mennydörgő hangokat keltett a látogatók megfélemlítésére.", "Chavín de Huántart 1985-ben az UNESCO Világörökség részévé nyilvánították.", "A komplexumot természeti katasztrófák, például földcsuszamlások, az évezredek során többször megrongálták."],
-      ro: ["În galerii au fost găsite coarne de scoică folosite pentru ritualuri acustice.", "‘Capetele de cui’ din piatră de pe pereții exteriori reprezentau metamorfoza oamenilor în animale sacre.", "Sistemul de irigații de sub templu probabil genera sunete tunătoare pentru a intimida vizitatorii.", "Chavín de Huántar a fost declarat Patrimoniu Mondial UNESCO în 1985.", "Complexul a fost deteriorat de mai multe ori de-a lungul mileniilor de dezastre naturale, cum ar fi alunecările de teren."],
-      en: ["Conch shell horns used for acoustic rituals were found in the galleries.", "The stone 'tenon heads' on the outer walls depicted the metamorphosis of humans into sacred animals.", "The irrigation system beneath the temple likely created thundering sounds to intimidate visitors.", "Chavín de Huántar was declared a UNESCO World Heritage site in 1985.", "The complex has been damaged multiple times over the millennia by natural disasters like landslides."]
-    }, image: "/poi-images/chavin-de-huantar-history-v2.webp"},
-  {
-    id: "huaca-rajada-history-v2",
-    type: "historical",
-    parent: "PE-LAM",
-    coords: [-79.601, -6.804],
-    name: { de: "Huaca Rajada", hu: "Huaca Rajada", ro: "Huaca Rajada", en: "Huaca Rajada"},
-    image: "/poi-images/huaca-rajada-history-v2.webp",
-    description: { de: "Der archäologische Fundort des Herrschers von Sipán, einer der wichtigsten Moche-Funde.", hu: "Sipán urának régészeti lelőhelye, az egyik legfontosabb moche lelet.", ro: "Situl arheologic al Domnului din Sipán, una dintre cele mai importante descoperiri Moche.", en: "The archaeological site of the Lord of Sipán, one of the most important Moche discoveries." },
-    facts: { de: ["1987 ungestört entdeckt.", "Grab enthielt große Mengen an Goldschmuck."], hu: ["1987-ben érintetlenül fedezték fel.", "A sír nagy mennyiségű aranyékszert tartalmazott."], ro: ["Descoperit intact în 1987.", "Mormântul conținea cantități mari de bijuterii din aur."], en: ["Discovered undisturbed in 1987.", "Tomb contained large amounts of gold jewelry."] },
-    descriptionAdvanced: {
-      de: "Huaca Rajada erlangte weltweite Berühmtheit durch die Entdeckung des ungeöffneten Grabes des 'Señor de Sipán' durch den Archäologen Walter Alva im Jahr 1987. Es war das erste Mal, dass das Grab eines hochrangigen präkolumbischen Herrschers mit all seinen Reichtümern intakt gefunden wurde. Die Grabkammer enthielt neben der Mumie des Herrschers kostbare Beigaben aus Gold, Silber und Halbedelsteinen sowie die Skelette seiner Frauen, Wächter und Diener. Diese Entdeckung revolutionierte das Verständnis der Moche-Kultur, ihrer sozialen Hierarchien und ihrer hochentwickelten Metallverarbeitung. Huaca Rajada besteht aus zwei massiven Adobe-Pyramiden und einer niedrigeren Plattform, auf der sich die Gräber befanden. Geschichte K7 — Gräber und Schätze der Moche-Elite.",
-      hu: "A Huaca Rajada világhírnévre tett szert a 'Sipáni úr' érintetlen sírjának 1987-es felfedezésével, amelyet Walter Alva régész tárt fel. Ez volt az első alkalom, hogy egy magas rangú prekolumbián uralkodó sírját minden gazdagságával együtt épségben találták meg. A sírkamra az uralkodó múmiája mellett aranyból, ezüstből és féldrágakövekből készült értékes mellékleteket, valamint feleségei, őrei és szolgái csontvázait tartalmazta. Ez a felfedezés forradalmasította a Moche-kultúráról, társadalmi hierarchiájukról és magasan fejlett fémfeldolgozásukról alkotott képet. A Huaca Rajada két masszív vályogpiramisból és egy alacsonyabb platformból áll, ahol a sírok találhatók. Történelem K7 — A Moche-elit sírjai és kincsei.",
-      ro: "Huaca Rajada a devenit faimoasă la nivel mondial prin descoperirea mormântului intact al 'Domnului din Sipán' de către arheologul Walter Alva în 1987. A fost pentru prima dată când mormântul unui conducător precolumbian de rang înalt a fost găsit intact, cu toate bogățiile sale. Camera funerară conținea, pe lângă mumia conducătorului, ofrande prețioase din aur, argint și pietre semiprețioase, precum și scheletele soțiilor, gărzilor și slujitorilor săi. Această descoperire a revoluționat înțelegerea culturii Moche, a ierarhiilor sale sociale și a prelucrării metalelor foarte dezvoltate. Huaca Rajada constă din două piramide masive de chirpici și o platformă mai joasă unde se aflau mormintele. Istorie K7 — Mormintele și comorile elitei Moche.",
-      en: "Huaca Rajada gained worldwide fame with the 1987 discovery of the untouched tomb of the 'Lord of Sipán' by archaeologist Walter Alva. It was the first time that the tomb of a high-ranking pre-Columbian ruler was found intact with all its riches. The burial chamber contained the ruler's mummy, precious grave goods of gold, silver, and semi-precious stones, as well as the skeletons of his wives, guards, and servants. This discovery revolutionized the understanding of the Moche culture, its social hierarchies, and its highly developed metalworking. Huaca Rajada consists of two massive adobe pyramids and a lower platform where the tombs were located. History K7 — Tombs and Treasures of the Moche Elite."
-    },
-    factsAdvanced: {
-      de: [
-        "Der Fund wird oft als das 'Tutanchamun von Amerika' bezeichnet.",
-        "Die Metallgegenstände zeigen meisterhafte Vergoldungstechniken der Moche.",
-        "Heute befindet sich ein Großteil der Funde im Museum 'Tumbas Reales de Sipán' in Lambayeque.",
-        "In der Anlage wurden später noch weitere wichtige Gräber hochrangiger Persönlichkeiten entdeckt.",
-        "Die Entdeckung half dabei, den illegalen Handel mit geraubten Altertümern in der Region einzudämmen."
-      ],
-      hu: ["A leletet gyakran 'Amerika Tutanhamonjának' is nevezik.", "A fémtárgyak a Moche-k mesteri aranyozási technikáit mutatják be.", "Ma a leletek nagy része a lambayeque-i 'Tumbas Reales de Sipán' múzeumban található.", "A komplexumban később további fontos, magas rangú személyiségek sírjait is felfedezték.", "A felfedezés segített megfékezni a rabolt régiségek illegális kereskedelmét a régióban."],
-      ro: ["Descoperirea este adesea denumită 'Tutankhamonul Americilor'.", "Obiectele metalice demonstrează tehnicile meșteșugite de aurire ale Moche.", "Astăzi, o mare parte din artefacte se află la muzeul 'Tumbas Reales de Sipán' din Lambayeque.", "În sit au fost descoperite ulterior și alte morminte importante ale unor personalități de rang înalt.", "Descoperirea a contribuit la stoparea comerțului ilegal cu antichități jefuite în regiune."],
-      en: ["The find is often referred to as the 'Tutankhamun of the Americas'.", "The metal objects showcase the masterful gilding techniques of the Moche.", "Today, a large portion of the artifacts is housed in the 'Tumbas Reales de Sipán' museum in Lambayeque.", "Other important tombs of high-ranking individuals were later discovered at the site.", "The discovery helped to curb the illegal trade of looted antiquities in the region."]
-    }, image: "/poi-images/huaca-rajada-history-v2.webp"},
-  {
+      {
     id: "el-brujo-history-v2",
     type: "historical",
     parent: "PE-LAL",
@@ -434,34 +190,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
       ro: ["Hiram Bingham a crezut în mod eronat că Machu Picchu este Vilcabamba pe care o căuta.", "În complex se găsesc atât arhitectură incașă, cât și influențe din zona amazoniană.", "Spaniolii au ars orașul după cucerire și l-au lăsat în seama junglei.", "Este unul dintre cele mai dificil de vizitat situri incașe datorită locației sale izolate.", "Ruinele includ palate, temple și zone rezidențiale pentru sute de oameni."],
       en: ["Hiram Bingham mistakenly believed Machu Picchu was the Vilcabamba he was searching for.", "The complex features both Inca architecture and influences from the Amazon region.", "The Spanish burned the city down after the conquest and left it to the jungle.", "It is one of the most difficult Inca sites to visit due to its remote location.", "The ruins include palaces, temples, and residential areas for hundreds of people."]
     }, image: "/poi-images/vilcabamba-history-v2.webp"},
-  {
-    id: "pachacamac-history-v2",
-    type: "historical",
-    parent: "PE-LIM",
-    coords: [-76.908, -12.257],
-    name: { de: "Pachacámac", hu: "Pachacámac", ro: "Pachacámac", en: "Pachacámac"},
-    image: "/poi-images/pachacamac-history-v2.webp",
-    description: { de: "Ein antikes religiöses Zentrum mit Tempeln, das vor und während der Inka-Zeit genutzt wurde.", hu: "Egy ősi vallási központ templomokkal, amelyet az inka idők előtt és alatt használtak.", ro: "Un vechi centru religios cu temple, folosit înainte și în timpul perioadei incașe.", en: "An ancient religious center with temples, used before and during the Inca period." },
-    facts: { de: ["Wichtige Pilgerstätte der Küstenkulturen.", "Dem Schöpfergott Pachacámac gewidmet."], hu: ["A parti kultúrák fontos zarándokhelye.", "Pachacámac teremtő istennek szentelték."], ro: ["Loc important de pelerinaj pentru culturile de coastă.", "Dedicat zeului creator Pachacámac."], en: ["Important pilgrimage site of coastal cultures.", "Dedicated to the creator god Pachacámac."] },
-    descriptionAdvanced: {
-      de: "Pachacámac war über 1.500 Jahre lang eines der mächtigsten Orakel und Pilgerzentren an der peruanischen Zentralküste. Die Anlage wurde nacheinander von den Kulturen der Lima, Wari, Ichma und schließlich von den Inka genutzt und erweitert. Der Name leitet sich vom Gott Pachacámac ab, dem 'Schöpfer der Welt' und Beweger der Erde, der für Erdbeben verantwortlich gemacht wurde. Die Inka respektierten die Macht des Orakels so sehr, dass sie neben dem alten Tempel ihren eigenen prachtvollen Sonnentempel und ein Acllahuasi (Haus der Auserwählten) errichteten. Heute ist die weitläufige archäologische Stätte nur eine kurze Autofahrt von der modernen Hauptstadt Lima entfernt. Geschichte K7 — Küstenheiligtümer und Orakel.",
-      hu: "A Pachacámac több mint 1500 éven át a perui központi partvidék egyik leghatalmasabb jósló- és zarándokközpontja volt. A komplexumot egymás után a Lima, Wari, Ichma és végül az Inka kultúrák használták és bővítették. A neve Pachacámac isten nevéből származik, a 'világ teremtőjéből' és a föld mozgatójából, akit a földrengésekért tettek felelőssé. Az inkák annyira tisztelték a jósda hatalmát, hogy a régi templom mellé saját pompás Naptemplomot és Acllahuasit (a kiválasztottak házát) építettek. Ma a kiterjedt régészeti lelőhely csak egy rövid autóútra van a modern fővárostól, Limától. Történelem K7 — Part menti szentélyek és jósdák.",
-      ro: "Pachacámac a fost, timp de peste 1.500 de ani, unul dintre cele mai puternice oracole și centre de pelerinaj de pe coasta centrală a Perului. Complexul a fost folosit și extins succesiv de culturile Lima, Wari, Ichma și, în final, de incași. Numele său provine de la zeul Pachacámac, 'creatorul lumii' și mișcătorul pământului, care era considerat responsabil pentru cutremure. Incașii au respectat atât de mult puterea oracolului, încât au construit propriul lor magnific Templu al Soarelui și un Acllahuasi (casa celor aleși) lângă vechiul templu. Astăzi, situl arheologic vast se află la doar o scurtă călătorie cu mașina de capitala modernă, Lima. Istorie K7 — Sanctuare și oracole de coastă.",
-      en: "Pachacámac was one of the most powerful oracles and pilgrimage centers on the central coast of Peru for over 1,500 years. The complex was successively used and expanded by the Lima, Wari, Ichma, and finally the Inca cultures. Its name derives from the god Pachacámac, the 'creator of the world' and mover of the earth, who was held responsible for earthquakes. The Incas respected the oracle's power so much that they built their own magnificent Sun Temple and an Acllahuasi (house of the chosen women) next to the old temple. Today, the extensive archaeological site is just a short drive from the modern capital, Lima. History K7 — Coastal Sanctuaries and Oracles."
-    },
-    factsAdvanced: {
-      de: [
-        "Das hölzerne Idol des Gottes Pachacámac überlebte die Zerstörung durch die Spanier.",
-        "Pilger reisten oft Monate, um dem Orakel Fragen zu stellen und Opfergaben zu bringen.",
-        "Die Anlage umfasst 16 monumentale Pyramiden mit Rampen für zeremonielle Aufzüge.",
-        "Während der Inka-Zeit war Pachacámac administrativ dem Zentrum Cusco unterstellt.",
-        "Von den oberen Terrassen des Sonnentempels bietet sich ein Blick auf die nahen Inseln im Pazifik."
-      ],
-      hu: ["Pachacámac isten fából készült bálványa túlélte a spanyolok pusztítását.", "A zarándokok gyakran hónapokig utaztak, hogy kérdéseket tegyenek fel a jósdának és áldozatokat hozzanak.", "A komplexum 16 monumentális piramist foglal magában, rámpákkal a szertartásos felvonulásokhoz.", "Az inka időkben Pachacámac közigazgatásilag Cusco központjának volt alárendelve.", "A Naptemplom felső teraszairól kilátás nyílik a közeli csendes-óceáni szigetekre."],
-      ro: ["Idolul de lemn al zeului Pachacámac a supraviețuit distrugerii de către spanioli.", "Pelerinii călătoreau adesea luni de zile pentru a pune întrebări oracolului și a aduce ofrande.", "Complexul include 16 piramide monumentale cu rampe pentru procesiuni ceremoniale.", "În timpul perioadei incașe, Pachacámac era subordonat administrativ centrului Cusco.", "De pe terasele superioare ale Templului Soarelui se oferă o vedere spre insulele din apropiere, în Pacific."],
-      en: ["The wooden idol of the god Pachacámac survived destruction by the Spanish.", "Pilgrims often traveled for months to ask the oracle questions and bring offerings.", "The complex includes 16 monumental pyramids with ramps for ceremonial processions.", "During the Inca period, Pachacámac was administratively subordinate to the center of Cusco.", "The upper terraces of the Sun Temple offer a view of the nearby islands in the Pacific."]
-    }, image: "/poi-images/pachacamac-history-v2.webp"},
-  {
+    {
     id: "tipon-history-v2",
     type: "historical",
     parent: "PE-CUS",
@@ -515,34 +244,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
       ro: ["Complexul este situat foarte aproape de sanctuarul de apă Tambomachay.", "Puka Pukara are numeroase camere mici care serveau drept dormitoare pentru gărzi.", "Zidurile sunt mai puțin fin lucrate decât în Cusco, ceea ce indică scopul militar.", "Datorită locației sale, locul a servit probabil și ca loc de odihnă pentru anturajul incaș.", "Culoarea roșie este cauzată de conținutul ridicat de fier din roca locală."],
       en: ["The complex is located very close to the water sanctuary of Tambomachay.", "Puka Pukara features numerous small chambers that served as sleeping quarters for guards.", "The walls are less finely worked than in Cusco, indicating its military purpose.", "Due to its location, the site likely also served as a resting place for the Inca's entourage.", "The red color is caused by the high iron content in the local rock."]
     }, image: "/poi-images/puka-pukara-history-v2.webp"},
-  {
-    id: "tambomachay-history-v2",
-    type: "historical",
-    parent: "PE-CUS",
-    coords: [-71.968, -13.48],
-    name: { de: "Tambomachay", hu: "Tambomachay", ro: "Tambomachay", en: "Tambomachay"},
-    image: "/poi-images/tambomachay-history-v2.webp",
-    description: { de: "Ein Inka-Kultort für das Wasser, der auch als Bad der Inkas bekannt ist.", hu: "Az inkák víz-kultuszhelye, amely az inkák fürdőjeként is ismert.", ro: "Un loc de cult incaș pentru apă, cunoscut și ca baia incașilor.", en: "An Inca cult site for water, also known as the Inca's bath." },
-    facts: { de: ["Verfügt über präzise gefertigte Aquädukte.", "Das Wasser fließt seit Jahrhunderten stetig."], hu: ["Precizen kidolgozott vízvezetékekkel rendelkezik.", "A víz évszázadok óta folyamatosan folyik."], ro: ["Are apeducte lucrate cu precizie.", "Apa curge constant de secole."], en: ["Features precisely crafted aqueducts.", "The water has been flowing steadily for centuries."] },
-    descriptionAdvanced: {
-      de: "Tambomachay, auch bekannt als 'El Baño del Inca', war ein wichtiger heiliger Ort, der der Verehrung des Wassers gewidmet war. Die Anlage besteht aus einer Reihe von Mauern und Terrassen mit Nischen, in denen heilige Kanäle zwei perfekt synchrone Wasserfälle speisen. Die Inka betrachteten Wasser als reinigendes Element und Tambomachay diente wahrscheinlich als ritueller Badeort für den Inka-Herrscher und seinen Hofstaat. Die Architektur zeichnet sich durch die typische Inka-Präzision aus, wobei die Wasserleitung so konstruiert wurde, dass sie unabhängig von der Jahreszeit konstant fließt. Der Ort liegt in einer ruhigen Schlucht und strahlt eine Atmosphäre der Gelassenheit und Spiritualität aus. Geschichte K8 — Religiöse Bedeutung natürlicher Ressourcen.",
-      hu: "A Tambomachay, más néven 'El Baño del Inca', egy fontos szent hely volt, amelyet a víz tiszteletére szenteltek. A komplexum egy sor falból és teraszból áll fülkékkel, amelyekben szent csatornák táplálnak két tökéletesen szinkronban lévő vízesést. Az inkák a vizet tisztító elemnek tekintették, és a Tambomachay valószínűleg rituális fürdőhelyként szolgált az inka uralkodó és udvartartása számára. Az építészetet a tipikus inka precizitás jellemzi, a vízvezetéket úgy tervezték, hogy az évszaktól függetlenül folyamatosan folyjon. A hely egy csendes szurdokban fekszik, és a nyugalom és a spiritualitás légkörét árasztja. Történelem K8 — A természeti erőforrások vallási jelentősége.",
-      ro: "Tambomachay, cunoscut și ca 'El Baño del Inca', a fost un important loc sacru dedicat venerării apei. Complexul constă dintr-o serie de ziduri și terase cu nișe, în care canale sacre alimentează două cascade perfect sincrone. Incașii considerau apa un element purificator, iar Tambomachay a servit probabil ca loc de baie rituală pentru conducătorul incaș și curtea sa. Arhitectura se caracterizează prin precizia tipic incașă, conducta de apă fiind proiectată să curgă constant, indiferent de anotimp. Locul este situat într-un defileu liniștit și emană o atmosferă de seninătate și spiritualitate. Istorie K8 — Semnificația religioasă a resurselor naturale.",
-      en: "Tambomachay, also known as 'El Baño del Inca', was an important sacred site dedicated to the worship of water. The complex consists of a series of walls and terraces with niches, where sacred channels feed two perfectly synchronous waterfalls. The Incas considered water a purifying element, and Tambomachay likely served as a ritual bathing place for the Inca ruler and his court. The architecture is characterized by typical Inca precision, with the water system designed to flow continuously regardless of the season. The site is located in a quiet canyon and exudes an atmosphere of serenity and spirituality. History K8 — Religious Significance of Natural Resources."
-    },
-    factsAdvanced: {
-      de: [
-        "Das Wasser von Tambomachay entspringt einer unterirdischen Quelle, deren Ursprung unbekannt ist.",
-        "Die Anlage umfasst auch einen Wachturm, der zur Festung Puka Pukara gehörte.",
-        "Die trapezförmigen Nischen in den Mauern dienten vermutlich für religiöse Statuen oder Opfergaben.",
-        "Der Name Tambomachay bedeutet in Quechua 'Ort der Erholung' oder 'Rasthaus'.",
-        "Aufgrund der Höhenlage von 3.700 Metern ist der Ort oft der Startpunkt für Wanderungen nach Cusco."
-      ],
-      hu: ["A Tambomachay vize egy föld alatti forrásból származik, amelynek eredete ismeretlen.", "A komplexum egy őrtornyot is magában foglal, amely a Puka Pukara erődhöz tartozott.", "A falak trapéz alakú fülkéi valószínűleg vallási szobroknak vagy áldozati ajándékoknak adtak helyet.", "A Tambomachay név kecsua nyelven 'pihenőhelyet' vagy 'vendégfogadót' jelent.", "A 3700 méteres magassága miatt a hely gyakran a Cuscóba tartó túrák kiindulópontja."],
-      ro: ["Apa din Tambomachay provine dintr-un izvor subteran a cărui origine este necunoscută.", "Complexul include și un turn de veghe care aparținea fortăreței Puka Pukara.", "Nișele trapezoidale din ziduri au servit probabil pentru statui religioase sau ofrande.", "Numele Tambomachay înseamnă 'loc de odihnă' sau 'han' în quechua.", "Datorită altitudinii sale de 3.700 de metri, locul este adesea punctul de plecare pentru drumeții spre Cusco."],
-      en: ["The water of Tambomachay comes from an underground spring whose origin is unknown.", "The complex also includes a watchtower that belonged to the Puka Pukara fortress.", "The trapezoidal niches in the walls likely held religious statues or offerings.", "The name Tambomachay means 'place of rest' or 'resting house' in Quechua.", "Due to its altitude of 3,700 meters, the site is often the starting point for hikes to Cusco."]
-    }, image: "/poi-images/tambomachay-history-v2.webp"},
-  {
+    {
     id: "pikillaqta-history-v2",
     type: "historical",
     parent: "PE-CUS",
@@ -650,34 +352,7 @@ export const poiExtraPeruHistoryV2: POI[] = [
       ro: ["Piramidele au fost puternic erodate de-a lungul timpului de ploile El Niño.", "La Túcume a fost descoperit mormântul 'Domnului din Túcume' cu ofrande bogate.", "Locul era considerat atât de sacru de către incași încât și-au construit propriul templu acolo.", "Se credea că piramidele reprezentau munți artificiali care găzduiau zeii.", "Muzeul modern de la fața locului explică miturile și istoria văii."],
       en: ["The pyramids have been heavily eroded over time by El Niño rains.", "The tomb of the 'Lord of Túcume' with rich offerings was discovered in Túcume.", "The site was considered so sacred by the Incas that they built their own temple there.", "It was believed that the pyramids represented artificial mountains that housed the gods.", "The modern on-site museum explains the myths and history of the valley."]
     }, image: "/poi-images/tucume-history-v2.webp"},
-  {
-    id: "sillustani-history-v2",
-    type: "historical",
-    parent: "PE-PUN",
-    coords: [-70.155, -15.72],
-    name: { de: "Sillustani", hu: "Sillustani", ro: "Sillustani", en: "Sillustani"},
-    image: "/poi-images/sillustani-history-v2.webp",
-    description: { de: "Ein prä-inkaischer Friedhof am Ufer des Umayo-Sees, bekannt für seine zylinderförmigen Grabtürme (Chullpas).", hu: "Pre-inka temető az Umayo-tó partján, amely hengeres sírtornyairól (chullpas) ismert.", ro: "Un cimitir pre-incaș pe malul lacului Umayo, cunoscut pentru turnurile sale funerare cilindrice (chullpas).", en: "A pre-Inca cemetery on the shores of Lake Umayo, known for its cylindrical burial towers (chullpas)." },
-    facts: { de: ["Türme dienten als Gräber für Adlige der Colla-Kultur.", "Einige Türme sind bis zu 12 Meter hoch."], hu: ["A tornyok a colla nemesek sírjaiként szolgáltak.", "Néhány torony eléri a 12 méteres magasságot is."], ro: ["Turnurile au servit ca morminte pentru nobilii culturii Colla.", "Unele turnuri au o înălțime de până la 12 metri."], en: ["Towers served as tombs for nobles of the Colla culture.", "Some towers are up to 12 meters high."] },
-    descriptionAdvanced: {
-      de: "Sillustani ist eine beeindruckende archäologische Stätte auf einer Halbinsel im Umayo-See, in der Nähe von Puno. Der Ort war die bedeutendste Nekropole der Colla-Kultur, eines kriegerischen Volkes, das vor der Ankunft der Inka in der Altiplano-Region herrschte. Die markantesten Bauwerke sind die 'Chullpas', massive Grabtürme aus Stein, in denen ganze Adelsfamilien mitsamt wertvollen Grabbeigaben bestattet wurden. Die Türme verjüngen sich oft nach unten, was eine außergewöhnliche architektonische Leistung darstellt. Als die Inka das Gebiet eroberten, respektierten sie die Tradition und fügten ihre eigenen, noch präziser gearbeiteten Türme hinzu. Geschichte K7 — Bestattungsriten und Ahnenkult in den Anden.",
-      hu: "A Sillustani egy lenyűgöző régészeti lelőhely egy félszigeten az Umayo-tóban, Puno közelében. A hely a Colla-kultúra legjelentősebb nekropolisza volt, egy harcias népé, amely az inkák érkezése előtt uralkodott az Altiplano-régióban. A legjellegzetesebb építmények a 'chullpák', masszív kőből készült sírtornyok, amelyekbe egész nemesi családokat temettek értékes sírmellékletekkel együtt. A tornyok gyakran lefelé szűkülnek, ami rendkívüli építészeti teljesítményt jelent. Amikor az inkák meghódították a területet, tiszteletben tartották a hagyományt, és saját, még precízebben megmunkált tornyokat adtak hozzá. Történelem K7 — Temetkezési rítusok és őskultusz az Andokban.",
-      ro: "Sillustani este un sit arheologic impresionant pe o peninsulă în lacul Umayo, lângă Puno. Locul a fost cea mai importantă necropolă a culturii Colla, un popor războinic care a domnit în regiunea Altiplano înainte de sosirea incașilor. Cele mai distinctive structuri sunt 'chullpas', turnuri funerare masive din piatră, unde familii nobiliare întregi au fost îngropate împreună cu ofrande funerare valoroase. Turnurile se îngustează adesea în jos, reprezentând o realizare arhitecturală extraordinară. Când incașii au cucerit zona, au respectat tradiția și au adăugat propriile lor turnuri, lucrate și mai precis. Istorie K7 — Rituri funerare și cultul strămoșilor în Anzi.",
-      en: "Sillustani is an impressive archaeological site on a peninsula in Lake Umayo, near Puno. The site was the most important necropolis of the Colla culture, a warlike people who ruled the Altiplano region before the arrival of the Incas. The most distinctive structures are the 'chullpas', massive stone burial towers where entire noble families were buried with valuable grave goods. The towers often taper downwards, representing an extraordinary architectural achievement. When the Incas conquered the area, they respected the tradition and added their own, even more precisely crafted towers. History K7 — Burial Rites and Ancestor Worship in the Andes."
-    },
-    factsAdvanced: {
-      de: [
-        "Die Eingänge der Türme sind immer nach Osten gerichtet, zur aufgehenden Sonne.",
-        "Viele der Türme wurden durch Grabräuber oder Blitzeinschläge beschädigt.",
-        "Die Steine der Inka-Chullpas sind so glatt poliert, dass sie glänzen.",
-        "Sillustani liegt auf einer Höhe von fast 3.900 Metern über dem Meeresspiegel.",
-        "Der Name Sillustani leitet sich wahrscheinlich von Wörtern für 'Nagel' und 'Form' ab."
-      ],
-      hu: ["A tornyok bejáratai mindig kelet felé, a felkelő nap felé néznek.", "Sok tornyot sírrablók vagy villámcsapások rongáltak meg.", "Az inka chullpák kövei olyan simára vannak csiszolva, hogy csillognak.", "A Sillustani közel 3900 méteres tengerszint feletti magasságban fekszik.", "A Sillustani név valószínűleg a 'szög' és 'forma' szavakból származik."],
-      ro: ["Intrările turnurilor sunt întotdeauna orientate spre est, spre soarele răsare.", "Multe dintre turnuri au fost avariate de jefuitori de morminte sau de fulgere.", "Pietrele chullpa-urilor incașe sunt atât de lustruite încât strălucesc.", "Sillustani se află la o altitudine de aproape 3.900 de metri deasupra nivelului mării.", "Numele Sillustani provine probabil din cuvinte pentru 'cui' și 'formă'."],
-      en: ["The entrances to the towers always face east, towards the rising sun.", "Many of the towers have been damaged by tomb raiders or lightning strikes.", "The stones of the Inca chullpas are polished so smoothly that they shine.", "Sillustani is located at an altitude of almost 3,900 meters above sea level.", "The name Sillustani likely derives from words for 'nail' and 'shape'."]
-    }, image: "/poi-images/sillustani-history-v2.webp"},
-  {
+    {
     id: "pampa-de-ayacucho-history-v2",
     type: "historical",
     parent: "PE-AYA",

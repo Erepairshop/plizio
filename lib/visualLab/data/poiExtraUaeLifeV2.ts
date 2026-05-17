@@ -129,39 +129,7 @@ export const poiExtraUaeLifeV2: POI[] = [
       en: ["Opened in 1995", "Area of 0.5 square kilometers", "Over 100 animal species", "Arabian Wildlife Centre", "Natural history museum with 200 exhibits", "50,000 annual visitors"],
     },
   },
-  {
-    id: "dubai-miracle-garden-life-v2",
-    type: "park",
-    parent: "AE-DU",
-    coords: [55.2445, 25.0599],
-    name: { de: "Dubai Miracle Garden", hu: "Dubai Miracle Garden", ro: "Dubai Miracle Garden", en: "Dubai Miracle Garden"},
-    image: "/poi-images/dubai-miracle-garden-life-v2.webp",
-    description: {
-      de: "Der größte natürliche Blumengarten der Welt mit Millionen von Blumen, die in kreativen Mustern gepflanzt sind.",
-      hu: "A világ legnagyobb természetes virágoskertje millió virággal, amelyeket kreatív mintákban ültettek el.",
-      ro: "Cea mai mare grădină naturală de flori din lume, cu milioane de flori plantate în modele creative.",
-      en: "The world's largest natural flower garden featuring millions of flowers planted in creative patterns."
-    },
-    facts: {
-      de: ["Wurde am Valentinstag 2013 eröffnet.", "Zeigt über 50 Millionen blühende Blumen.", "Besitzt eine blumige Nachbildung eines Airbus A380.", "Wird in den heißen Sommermonaten geschlossen."],
-      hu: ["2013 Valentin-napján nyitotta meg kapuit.", "Több mint 50 millió nyíló virágot mutat be.", "Egy Airbus A380-as repülőgép virágos másával is büszkélkedhet.", "A forró nyári hónapokban zárva tart."],
-      ro: ["A fost deschisă de Ziua Îndrăgostiților în 2013.", "Prezintă peste 50 de milioane de flori înflorite.", "Are o replică florală a unui Airbus A380.", "Este închisă în timpul lunilor fierbinți de vară."],
-      en: ["Opened on Valentine's Day in 2013.", "Displays over 50 million blooming flowers.", "Features a floral replica of an Airbus A380.", "Closes during the hot summer months."]
-    }, image: "/poi-images/dubai-miracle-garden-life-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Dubai Miracle Garden wurde 2013 eröffnet und ist der größte Blumengarten der Welt. Auf einer Fläche von 72.000 Quadratmetern werden über 150 Millionen Blumen in kunstvollen Installationen präsentiert. Beliebt sind die herzförmige Blumenallee und der nachgebaute Airbus A380. Der Garten wird von einem ausgeklügelten Tropfbewässerungssystem versorgt und ist saisonal von November bis April geöffnet.",
-      hu: "A Dubai Miracle Garden 2013-ban nyílt meg, és a világ legnagyobb virágoskertje. 72.000 négyzetméteren több mint 150 millió virágot ültettek el művészi elrendezésekben. Népszerű a szív alakú virágút és a levetített Airbus A380. A kert korszerű csepegtető öntözőrendszerrel működik, és novembertől áprilisig tart nyitva.",
-      ro: "Dubai Miracle Garden, deschis în 2013, este cea mai mare grădină de flori din lume. Pe 72.000 de metri pătrați sunt expuse peste 150 de milioane de flori în aranjamente artistice. Atracții includ aleea în formă de inimă și un Airbus A380 acoperit cu flori. Grădina folosește un sistem de irigare prin picurare și este deschisă sezonier, din noiembrie până în aprilie.",
-      en: "Dubai Miracle Garden, opened in 2013, is the world's largest natural flower garden. Spanning 72,000 square meters, it features over 150 million flowers arranged in stunning designs. Highlights include a heart-shaped pathway and a replica Airbus A380 covered in blooms. The garden uses a drip irrigation system and operates seasonally from November to April.",
-    },
-    factsAdvanced: {
-      de: ["Eröffnet 2013", "Fläche: 72.000 m²", "150 Millionen Blumen", "120 Blumensorten", "Tropfbewässerung spart 75% Wasser", "Größter Blumengarten laut Guinness-Buch"],
-      hu: ["2013-ban nyitott", "Területe 72.000 m²", "150 millió virág", "120 virágfajta", "Csepegtető öntözés 75% vízmegtakarítással", "Guinness-rekord a legnagyobb virágos kert"],
-      ro: ["Deschis în 2013", "Suprafață de 72.000 m²", "150 de milioane de flori", "120 de soiuri de flori", "Irigare prin picurare cu economie de 75% apă", "Cea mai mare grădină de flori conform Guinness"],
-      en: ["Opened in 2013", "Area of 72,000 m²", "150 million flowers", "120 flower varieties", "Drip irrigation saves 75% water", "Largest flower garden in Guinness World Records"],
-    },
-  },
-  {
+    {
     id: "dubai-butterfly-garden-life-v2",
     type: "park",
     parent: "AE-DU",

@@ -86,35 +86,7 @@ export const poiExtraPanamaHistoryV2: POI[] = [
       hu: ["1749 és 1760 között épült.", "Az első egyetemnek adott otthont a földszoroson.", "A jezsuitákat 1767-ben űzték ki Panamából.", "Az épület egy 1781-es tűzvészben súlyosan megrongálódott.", "Lenyűgöző kő boltívekkel és egy nagy központi udvarral rendelkezik.", "Az UNESCO által védett Casco Antiguo szívében található.", "A 19. században iskolaként, sőt színházként is használták.", "A történelmi és régészeti kutatások egyik fő helyszíne."]
     }
   },
-  {
-    id: "fuerte-san-jeronimo-history-v2",
-    type: "historical",
-    parent: "PA-3",
-    coords: [-79.649, 9.551],
-    name: { de: "Fuerte San Jerónimo", hu: "Fuerte San Jerónimo", ro: "Fuerte San Jerónimo", en: "Fuerte San Jerónimo"},
-    image: "/poi-images/fuerte-san-jeronimo-history-v2.webp",
-    description: { de: "Eine der Verteidigungsanlagen in Portobelo zum Schutz vor Piraten.", hu: "Egyik a portobelói védművek közül, a kalózok elleni védelemre.", ro: "Unul dintre sistemele de apărare din Portobelo pentru protecția împotriva piraților.", en: "One of the defensive systems in Portobelo to protect against pirates." },
-    facts: {
-      de: ["Erbaut 1658", "Schutzhafen für Goldtransporte", "Teil des UNESCO-Welterbes"],
-      hu: ["1658-ban épült", "Aranyszállítmányok védőkikötője", "UNESCO Világörökség része"],
-      ro: ["Construit în 1658", "Port de protecție pentru transporturile de aur", "Parte a Patrimoniului UNESCO"],
-      en: ["Built in 1658", "Protection port for gold shipments", "Part of UNESCO World Heritage"]
-    },
- image: "/poi-images/fuerte-san-jeronimo-history-v2.webp",
-    descriptionAdvanced: {
-      de: "Das Fuerte San Jerónimo ist die imposanteste und am besten erhaltene Festungsanlage in der Bucht von Portobelo. Erbaut im späten 16. Jahrhundert durch das spanische Imperium, hatte diese massive Batterie die Aufgabe, den Hafen vor den ständigen Überfällen von englischen Piraten wie Sir Francis Drake zu schützen. Die Festung wurde mehrfach erweitert, zuletzt im 18. Jahrhundert nach den Plänen des berühmten Militäringenieurs Antonelli. Ihre Kanonen waren strategisch so platziert, dass sie jedes feindliche Schiff im Kreuzfeuer nehmen konnten, das versuchte, in die Bucht einzulaufen, wo die kostbaren Silberflotten ankerten. Die massiven Korallensteinmauern haben die Jahrhunderte überdauert und symbolisieren die koloniale Macht Spaniens. Geschichte K8 — Verteidigung der spanischen Silberflotte.",
-      hu: "A San Jerónimo erőd Portobelo egyik legimpozánsabb védműve, amely közvetlenül a tengerparton állva őrizte a spanyol ezüstflották horgonyzóhelyét. Az erődöt a 16. század végén kezdték építeni, hogy megvédjék a várost és a királyi vámházat a folytonos kalóztámadásoktól. Kialakítása követte a korszak legmodernebb spanyol katonai elveit, masszív bástyákkal és számos ágyúállással, amelyek a kikötő bejárata felé néztek. Bár az angol flotta Edward Vernon admirális vezetésével 1739-ben súlyosan megrongálta, az erőd ma is büszkén áll, falaiban az eredeti spanyol ágyúkkal. A látogatók számára a San Jerónimo erőd a koloniális hatalom és a tengeri csaták kézzelfogható emléke. Történelem K8 — Erődrendszerek és a spanyol korona védelme.",
-      ro: "Fortul San Jerónimo este cea mai mare și mai impunătoare structură defensivă din Portobelo, jucând un rol crucial în apărarea unuia dintre cele mai importante porturi comerciale ale Spaniei în Lumea Nouă. Construit pentru a înlocui fortificațiile anterioare distruse de pirați, acesta se mândrește cu o baterie de tunuri dispusă în două niveluri, capabilă să respingă cele mai agresive atacuri maritime. Zidurile sale, construite din coral și piatră, au fost martorele celebrelor târguri de la Portobelo, unde bogățiile Americii de Sud erau schimbate pe mărfuri europene. Astăzi, ruinele sale silențioase de la malul mării servesc drept un amemento puternic al conflictelor sângeroase dintre imperiile coloniale și al eforturilor supraomenești de a proteja rutele comerciale interoceanice. Istorie K8 — Comerțul transoceanic și conflictele maritime imperiale.",
-      en: "Fort San Jeronimo is the largest and most impressive of the forts in Portobelo, once the primary Caribbean port of the Spanish Empire. Its massive walls, built directly on the water's edge, were designed to hold back the naval forces of England and France. The fort was a critical node in the 'Flota de Indias' system, where the silver from South America was traded for goods from Europe during the famous Portobelo Fairs. Despite multiple destructions and rebuilds following pirate attacks, the fort remains a formidable presence. Its wide batteries and rows of cannons still face the sea, guarding the entrance to the bay. As part of a UNESCO World Heritage site, it is a cornerstone of Panama's colonial history and a must-visit for any student of Caribbean maritime history. History K7 — global trade and naval warfare."
-    },
-    factsAdvanced: {
-      de: ["Die größte und am besten erhaltene Festung in der Bucht von Portobelo.", "Sollte den Hafen vor den Überfällen englischer Freibeuter schützen.", "Zuletzt im 18. Jahrhundert durch den Ingenieur Antonelli massiv verstärkt.", "Wurde erbaut, um die Schiffe der spanischen Silberflotte zu verteidigen.", "Teil der Festungsanlagen, die von der UNESCO zum Weltkulturerbe erklärt wurden."],
-      hu: ["Portobelo városának legnagyobb és legfontosabb erődítménye.", "Közvetlenül a királyi vámház mellett épült a kincsek védelmére.", "A falai között ma is tucatnyi eredeti 18. századi spanyol ágyú található.", "Az UNESCO Világörökség része a Portobelo-San Lorenzo erődrendszer tagjaként.", "Kialakítása lehetővé tette a keresztirányú tüzelést a kikötő bejárata felé.", "Az erőd bástyáiról belátható az egész Portobelói-öböl.", "Ma népszerű helyszín történelmi hagyományőrző rendezvények számára."],
-      ro: ["Cea mai mare fortificație din complexul Portobelo.", "Construit la sfârșitul secolului al XVII-lea după planurile inginerului Antonelli.", "Găzduia o garnizoană numeroasă și peste 20 de tunuri de calibru mare.", "A fost atacat și parțial distrus de amiralul englez Edward Vernon în 1739.", "Declarat monument istoric național și parte a Patrimoniului UNESCO.", "Tunurile originale spaniole sunt încă orientate spre gura golfului.", "Construcția folosește coral creier și mortar de var, rezistente la coroziunea marină."],
-      en: ["Constructed in various phases starting in the 17th century.", "The battery could hold up to 18 large cannons.", "Sacked by Admiral Edward Vernon in 1739.", "Built using local volcanic rock and coral blocks.", "Features a prominent sentry box (garita) overlooking the bay.", "The fort's design was influenced by the military engineer Juan de Tejeda.", "Site of the famous Portobelo trade fairs.", "Integrated into the modern town of Portobelo."]
-    }
-  },
-  {
+    {
     id: "fuerte-santiago-portobelo-history-v2",
     type: "historical",
     parent: "PA-3",
@@ -281,35 +253,7 @@ export const poiExtraPanamaHistoryV2: POI[] = [
       hu: ["Portobelo történelmi városában található.", "A Congo kultúrát az UNESCO a szellemi kulturális örökség részeként ismeri el.", "Helyi afro-panamai művészeti és kézműves galériát mutat be.", "Közösségi műhelyként működik a hagyományos tánc és zene számára.", "A 'Congo' hagyomány a spanyol gyarmati urakat szatirizálja.", "Élénk, sokszínű jelmezeiről és maszkjairól ismert.", "A kétévente megrendezett Congo és Ördög Fesztivál központi pontja.", "Elősegíti a fenntartható turizmust és a közösségfejlesztést."]
     }
   },
-  {
-    id: "iglesia-de-san-jose-history-v2",
-    type: "historical",
-    parent: "PA-8",
-    coords: [-79.535, 8.956],
-    name: { de: "Iglesia de San José", hu: "Iglesia de San José", ro: "Iglesia de San José", en: "Iglesia de San José"},
-    image: "/poi-images/iglesia-de-san-jose-history-v2.webp",
-    description: { de: "Bekannt für seinen goldenen Altar in Casco Viejo, Panama-Stadt.", hu: "Híres az aranyoltáráról Casco Viejóban, Panamavárosban.", ro: "Cunoscută pentru altarul său de aur din Casco Viejo, Panama City.", en: "Known for its golden altar in Casco Viejo, Panama City." },
-    facts: {
-      de: ["Goldener Altar", "Barockstil", "Historisches Monument"],
-      hu: ["Aranyoltár", "Barokk stílus", "Történelmi emlékmű"],
-      ro: ["Altar de aur", "Stil baroc", "Monument istoric"],
-      en: ["Golden altar", "Baroque style", "Historic monument"]
-    },
- image: "/poi-images/iglesia-de-san-jose-history-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Iglesia de San José im Casco Antiguo von Panama-Stadt ist weltweit berühmt für ihren spektakulären 'Altar de Oro' (Goldener Altar). Der Legende nach ist dieser kunstvoll geschnitzte, mit Blattgold überzogene Barockaltar das einzige wertvolle Relikt, das den zerstörerischen Angriff des Piraten Henry Morgan auf Panamá Viejo 1671 überstanden hat. Ein listiger Mönch soll den Altar mit schwarzem Schlamm oder Teer überzogen haben, um die Freibeuter zu täuschen. Nach der Gründung der neuen Stadt wurde der Altar in die neu errichtete Kirche San José überführt. Die Kirche selbst besticht durch ihre schlichte koloniale Architektur, die in starkem Kontrast zu der überwältigenden Pracht des Goldaltars im Inneren steht. Geschichte K8 — Religiöse Kunst und Piratenlegenden.",
-      ro: "Biserica San José din Casco Viejo este una dintre cele mai vizitate și iubite lăcașuri de cult din Panama, faimoasă în întreaga lume pentru legendarul său Altar de Aur. Conform tradiției, altarul a fost salvat de la piratul Henry Morgan în 1671, când călugării l-au vopsit cu negru pentru a-l ascunde de ochii jefuitorilor. Deși cercetările istorice sugerează că actualul altar baroc este o capodoperă din secolul al XVIII-lea, povestea rămâne un simbol al ingeniozității și credinței panameze. Interiorul bisericii, cu detaliile sale ornamentate și vitraliile superbe, oferă o atmosferă de reculegere, fiind o mărturie a bogăției religioase și a supraviețuirii spiritului colonial în noul oraș fondat în 1673. Istorie K8 — Barocul colonial și legendele rezistenței în fața piraților.",
-      en: "The Church of San Jose in Panama City's Casco Antiguo is world-famous for its spectacular 'Golden Altar' (Altar de Oro). According to local legend, when the pirate Henry Morgan attacked the original city in 1671, the monks painted the solid gold altar black to hide its value, saving it from being looted. It was later moved to the new church in Casco Antiguo, where it remains one of Panama's most precious historical treasures. The altar is a masterpiece of Baroque woodcarving, covered in thick gold leaf. The church itself is a beautiful example of colonial architecture, with a simple exterior that belies its magnificent interior. It remains an active place of worship and a symbol of Panama's survival and continuity throughout the colonial era. History K8 — legends and treasures of colonial Panama.",
-      hu: "Panamaváros Casco Antiguo negyedében található San José-templom világhírű a látványos „Aranyoltáráról” (Altar de Oro). A helyi legenda szerint, amikor Henry Morgan kalóz 1671-ben megtámadta az eredeti várost, a szerzetesek feketére festették a tömör arany oltárt, hogy elrejtsék értékét, megmentve azt a fosztogatástól. Később átszállították az új templomba Casco Antiguóban, ahol Panama egyik legértékesebb történelmi kincse maradt. Az oltár a barokk fafaragás mesterműve, vastag aranylemezzel borítva. Maga a templom a gyarmati építészet gyönyörű példája, egyszerű külsővel, amely meghazudtolja csodálatos belső terét. Aktív istentiszteleti hely és Panama túlélésének és folytonosságának szimbóluma a gyarmati korszakban. Történelem K8 — a gyarmati Panama legendái és kincsei."
-    },
-    factsAdvanced: {
-      de: ["Die Kirche befindet sich im historischen Stadtteil Casco Antiguo.", "Berühmt für den 'Altar de Oro', einen gigantischen barocken Goldaltar.", "Der Legende nach wurde der Altar vor Piraten durch schwarzen Schlamm versteckt.", "Der Altar wurde aus den Ruinen von Panamá Viejo in die neue Stadt gebracht.", "Die Architektur der Kirche selbst ist ein typisches Beispiel kolonialer Schlichtheit."],
-      ro: ["Găzduiește faimosul Altar de Aur, capodoperă a barocului colonial.", "Altarul este realizat din lemn de cedru acoperit cu foiță de aur.", "Legenda spune că a fost salvat de piratul Morgan prin deghizare.", "Biserica aparține ordinului călugărilor augustinieni recolectați.", "Situată pe Avinguda A în districtul istoric Casco Antiguo.", "Interioarele prezintă o fuziune de stiluri baroc și neoclasic.", "Este unul dintre puținele altare coloniale care au supraviețuit intacte."],
-      en: ["Famous for the Baroque Altar de Oro (Golden Altar).", "The altar is made of mahogany and covered in gold leaf.", "The current church was built in the late 1670s.", "Legend says the altar was saved from Henry Morgan by a clever ruse.", "Located on Avenida A in the Casco Antiguo district.", "The interior features beautiful colonial paintings and carvings.", "One of the most visited religious sites in Panama.", "The altar is a prime example of the Churrigueresque style."],
-      hu: ["Híres a barokk Altar de Oro-ról (Aranyoltár).", "Az oltár mahagóniból készült és aranylemezzel van bevonva.", "A jelenlegi templom az 1670-es évek végén épült.", "A legenda szerint az oltárt egy ügyes csellel mentették meg Henry Morgantől.", "Az Avenida A-n található a Casco Antiguo negyedben.", "Belső terében gyönyörű gyarmati festmények és faragványok láthatók.", "Panama egyik leglátogatottabb vallási helyszíne.", "Az oltár a churriguereszk stílus kiemelkedő példája."]
-    }
-  },
-  {
+    {
     id: "ruinas-del-convento-de-santo-domingo-history-v2",
     type: "historical",
     parent: "PA-8",

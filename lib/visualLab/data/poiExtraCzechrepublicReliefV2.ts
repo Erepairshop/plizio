@@ -701,42 +701,7 @@ export const czechrepublicReliefV2: POI[] = [
       en: ["Highest peak Praděd 1,491m", "CHKO Jeseníky established in 1969", "Dlouhé stráně reservoir at 1,350m altitude", "Praděd TV tower is 146.5m high", "Karlova Studánka is the highest spa town", "Second highest range in the Czech Republic"],
     },
   },
-  {
-    id: "czechrepublic-krkonose-relief-v2",
-    parent: "CZ",
-    type: "mountain",
-    name: { de: "Riesengebirge", hu: "Óriás-hegység", ro: "Muntii Karkonosze", en: "Giant Mountains"},
-    image: "/poi-images/czechrepublic-krkonose-relief-v2.webp",
-    coords: [15.6, 50.75],
-    coords: [15.6, 50.75],
-    description: {
-      de: "Das Riesengebirge ist das höchste Gebirge Tschechiens und Teil der Sudeten. Es beherbergt die Sněžka, den höchsten Berg des Landes, und ist ein UNESCO-Biosphärenreservat.",
-      hu: "Az Óriás-hegység (Krkonose) Csehország legmagasabb hegysége az ország északi részén. Itt található a Sněžka, az ország csúcsa, valamint az Elba folyó forrása is.",
-      ro: "Munții Karkonosze (Uriași) reprezintă cel mai înalt lanț muntos din Cehia. Masivul face parte din Sudeți și găzduiește izvorul râului Elba și vârful Snezka.",
-      en: "The Giant Mountains (Krkonose) are the highest range in the Czech Republic and part of the Sudetes. They host the country's highest peak, Snezka, and the source of the Elbe River.",
-    },
-    facts: {
-      de: ["Höchstes Gebirge CZ", "UNESCO-Biosphärenreservat", "Quelle der Elbe", "Grenzgebirge"],
-      hu: ["Csehország legmagasabbja", "UNESCO bioszféra-rezervátum", "Az Elba forrása", "Észak-Csehország"],
-      ro: ["Cel mai înalt masiv din Cehia", "Rezervație UNESCO", "Izvorul Elbei", "Granița cu Polonia"],
-      en: ["Highest CZ mountain range", "UNESCO Biosphere Reserve", "Source of the Elbe", "Part of the Sudetes"],
-    },
-    imageHint: "Giant Mountains ridgeline in summer",
-    image: "/poi-images/czechrepublic-krkonose-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Das Riesengebirge (Krkonoše) ist das höchste und bekannteste Gebirge der Tschechischen Republik, gelegen an der Grenze zu Polen. Sein höchster Gipfel, die Schneekoppe (Sněžka), ragt mit 1603 Metern empor und ist ein Symbol des tschechischen Bergsports. Die Region ist die Wiege des Flusses Elbe (Labe), dessen Quelle auf einer Höhe von 1386 Metern auf der Labská louka liegt. Seit 1963 ist das Gebiet als Nationalpark Krkonoše (KRNAP) geschützt und wurde 1992 von der UNESCO als Biosphärenreservat anerkannt. Die Landschaft ist geprägt von eiszeitlichen Karen, Wasserfällen wie dem Mumlavský vodopád und weitläufigen Bergwiesen. Das Riesengebirge beherbergt eine einzigartige Flora mit Relikten aus der Eiszeit, die sonst nur in der Arktis oder den Alpen zu finden sind. Als bedeutendes touristisches Ziel bietet es erstklassige Infrastruktur für Skifahrer in Orten wie Špindlerův Mlýn und endlose Wanderwege für den Sommertourismus.",
-      hu: "Az Óriás-hegység (Krkonoše) Csehország legmagasabb és legismertebb hegysége, amely a lengyel határon húzódik. Legmagasabb csúcsa, a Sněžka 1603 méterrel magasodik a táj fölé, és a cseh hegyi sportok szimbóluma. A régió az Elba (Labe) folyó bölcsője, amelynek forrása 1386 méteres magasságban található a Labská louka területén. A hegység 1963 óta a Krkonoše Nemzeti Park (KRNAP) része, 1992-ben pedig az UNESCO bioszféra-rezervátumnak nyilvánította. A tájat jégkorszaki gleccservölgyek, vízesések (mint a Mumlavai-vízesés) és kiterjedt hegyi rétek jellemzik. Az Óriás-hegység egyedülálló flórával rendelkezik, jégkorszaki maradványfajokkal, amelyek egyébként csak az Arktiszon vagy az Alpokban találhatók meg. Jelentős turisztikai célpontként elsőosztályú infrastruktúrát kínál a síelőknek olyan helyeken, mint Špindlerův Mlýn, és végtelen túraútvonalakat a nyári szezonban.",
-      ro: "Munții Uriași (Krkonoše) reprezintă cel mai înalt și mai cunoscut lanț muntos din Republica Cehă, situat la granița cu Polonia. Cel mai înalt vârf al său, Sněžka, se înalță la 1603 metri și este un simbol al sporturilor montane cehe. Regiunea este leagănul râului Elba (Labe), a cărui sursă se află la o altitudine de 1386 metri pe Labská louka. Din 1963, zona este protejată ca Parcul Național Krkonoše (KRNAP) și a fost recunoscută de UNESCO ca Rezervație a Biosferei în 1992. Peisajul este marcat de circuri glaciare, cascade precum Mumlavský vodopád și pajiști montane vaste. Munții Uriași găzduiesc o floră unică cu relicte glaciare care se mai găsesc doar în Arctica sau în Alpi. Ca destinație turistică majoră, oferă infrastructură de primă clasă pentru schiori în localități precum Špindlerův Mlýn și nenumărate trasee de drumeție pentru vara.",
-      en: "The Giant Mountains (Krkonoše) are the highest and most famous mountain range in the Czech Republic, located on the border with Poland. Its highest peak, Sněžka, rises to 1,603 meters and is a symbol of Czech mountain sports. The region is the cradle of the Elbe (Labe) river, whose source is located at an altitude of 1,386 meters on the Labská louka. Since 1963, the area has been protected as the Krkonoše National Park (KRNAP) and was recognized by UNESCO as a Biosphere Reserve in 1992. The landscape is characterized by glacial cirques, waterfalls like the Mumlava Waterfall, and extensive mountain meadows. The Giant Mountains house a unique flora with glacial relics otherwise found only in the Arctic or the Alps. As a major tourist destination, it offers top-class infrastructure for skiers in resorts like Špindlerův Mlýn and endless hiking trails for the summer season.",
-    },
-    factsAdvanced: {
-      de: ["Höchster Gipfel Sněžka 1603m", "Nationalpark KRNAP gegründet 1963", "Elbquelle auf 1386m Höhe", "UNESCO-Biosphärenreservat seit 1992", "Fläche des Parks ca. 548 km²", "Mumlavský vodopád ist 10m hoch"],
-      hu: ["Legmagasabb csúcs a Sněžka 1603m", "KRNAP Nemzeti Park alapítása: 1963", "Az Elba forrása 1386m magasan", "1992 óta UNESCO bioszféra-rezervátum", "A nemzeti park területe kb. 548 km²", "A Mumlavai-vízesés 10 méter magas"],
-      ro: ["Cel mai înalt vârf Sněžka 1603m", "Parcul Național KRNAP fondat în 1963", "Izvorul Elbei la 1386m altitudine", "Rezervație a Biosferei UNESCO din 1992", "Suprafața parcului aprox. 548 km²", "Cascada Mumlava are 10m înălțime"],
-      en: ["Highest peak Sněžka 1,603m", "KRNAP National Park founded in 1963", "Source of the Elbe at 1,386m altitude", "UNESCO Biosphere Reserve since 1992", "Park area approx. 548 square kilometers", "Mumlava Waterfall is 10m high"],
-    },
-  },
-  {
+    {
     id: "czechrepublic-ceske-stredohori-relief-v2",
     parent: "CZ",
     type: "mountain",

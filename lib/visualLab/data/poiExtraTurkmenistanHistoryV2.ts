@@ -289,43 +289,7 @@ export const poiExtraTurkmenistanHistoryV2: POI[] = [
       en: ["Built in the 14th century", "For a princess of the Golden Horde", "Dome diameter 12 m", "Glazed bricks", "Monumental portal", "Constructed of fired brick"],
     },
   },
-  {
-    id: "kutlug-timur-minaret-history-v2",
-    type: "monument",
-    parent: "TM-D",
-    coords: [59.1481, 42.3275],
-    name: {
-      de: "Kutlug-Timur-Minarett",
-      hu: "Kutlug Timur minaret",
-      ro: "Minaretul Kutlug Timur",
-      en: "Kutlug Timur Minaret"},
-    image: "/poi-images/kutlug-timur-minaret-history-v2.webp",
-    description: {
-      de: "Mit über 60 Metern ist dies das höchste erhaltene historische Minarett in ganz Zentralasien.",
-      hu: "Több mint 60 méteres magasságával ez Közép-Ázsia legmagasabb fennmaradt történelmi minaretje.",
-      ro: "Cu peste 60 de metri, acesta este cel mai înalt minaret istoric supraviețuitor din Asia Centrală.",
-      en: "At over 60 meters, this is the highest surviving historical minaret in Central Asia."
-    },
-    facts: {
-      de: ["Ist über 60 Meter hoch.", "Gehört zu den höchsten antiken Minaretten Zentralasiens."],
-      hu: ["Több mint 60 méter magas.", "Közép-Ázsia egyik legmagasabb ókori minaretje."],
-      ro: ["Are peste 60 de metri înălțime.", "Este unul dintre cele mai înalte minarete antice din Asia Centrală."],
-      en: ["Is over 60 meters high.", "Is one of the highest ancient minarets in Central Asia."]
-    }, image: "/poi-images/kutlug-timur-minaret-history-v2.webp",
-    descriptionAdvanced: {
-      de: "Das Kutlug-Timur-Minarett in Kunya-Urgench wurde im 12. Jahrhundert erbaut und ist 62 Meter hoch. Es wurde aus gebrannten Ziegeln errichtet und hat einen Durchmesser von 12 Metern an der Basis. Das Minarett gehörte zur Freitagsmoschee und diente als Aussichtsturm. Es überlebte die Mongolenzeit und ist das höchste historische Ziegelminarett Zentralasiens. Die Inschriften auf den Ziegeln zitieren Verse aus dem Koran.",
-      hu: "A Kutlug Timur minaret Kunya-Urgenchben a 12. században épült, magassága 62 méter. Égetett téglából készült, alapátmérője 12 méter. A péntek mecsethez tartozott, és kilátóként szolgált. Túlélte a mongol kort, és Közép-Ázsia legmagasabb történelmi téglaminaretje. A téglákba vésett feliratok Korán-verseket idéznek.",
-      ro: "Minaretul Kutlug Timur din Kunya-Urgench a fost construit în secolul al XII-lea, având 62 de metri înălțime. Este construit din cărămidă arsă, cu un diametru la bază de 12 metri. Minaretul aparținea moscheii de vineri și servea ca turn de observație. A supraviețuit perioadei mongole și este cel mai înalt minaret istoric de cărămidă din Asia Centrală. Inscripțiile pe cărămizi citează versete din Coran.",
-      en: "The Kutlug Timur Minaret in Kunya-Urgench was built in the 12th century and stands 62 meters tall. Made of fired brick, its base diameter is 12 meters. The minaret belonged to the Friday mosque and served as a watchtower. It survived the Mongol era and is the tallest historical brick minaret in Central Asia. Brick inscriptions quote verses from the Quran.",
-    },
-    factsAdvanced: {
-      de: ["Erbaut im 12. Jahrhundert", "Höhe 62 m", "Durchmesser an der Basis 12 m", "Höchstes Ziegelminarett Zentralasiens", "Gehörte zur Freitagsmoschee", "Koranverse in Ziegelinschriften"],
-      hu: ["12. században épült", "Magasság 62 m", "Alapátmérő 12 m", "Közép-Ázsia legmagasabb téglaminaretje", "A péntek mecsethez tartozott", "Korán-versek a téglákon"],
-      ro: ["Construit în secolul al XII-lea", "Înălțimea de 62 m", "Diametrul la bază 12 m", "Cel mai înalt minaret de cărămidă din Asia Centrală", "Aparținea moscheii de vineri", "Inscripții cu versete din Coran"],
-      en: ["Built in the 12th century", "Height 62 m", "Base diameter 12 m", "Tallest brick minaret in Central Asia", "Belonged to the Friday mosque", "Inscriptions with Quranic verses"],
-    },
-  },
-  {
+    {
     id: "dekhistan-ruins-history-v2",
     type: "ruin",
     parent: "TM-B",

@@ -2,43 +2,7 @@
 import type { POI } from "./poi";
 
 export const poiExtraSouthkoreaHistoryV2: POI[] = [
-  {
-    id: "gyeongbokgung-palace-history-v2",
-    type: "historical-site",
-    parent: "KR-11",
-    coords: [126.9770, 37.5796],
-    name: {
-      de: "Gyeongbokgung-Palast",
-      hu: "Kjongbokkung palota",
-      ro: "Palatul Gyeongbokgung",
-      en: "Gyeongbokgung Palace"},
-    image: "/poi-images/gyeongbokgung-palace-history-v2.webp",
-    description: {
-      de: "Der größte der Fünf Großen Paläste, die während der Joseon-Dynastie erbaut wurden. Er diente als Hauptpalast und repräsentiert die Pracht der koreanischen Architektur.",
-      hu: "Az Öt Nagy Palota közül a legnagyobb, amely a Csoszon-dinasztia idején épült. Fő palotaként szolgált, és a koreai építészet pompáját képviseli.",
-      ro: "Cel mai mare dintre cele Cinci Mari Palate construite în timpul dinastiei Joseon. A servit ca palat principal și reprezintă splendoarea arhitecturii coreene.",
-      en: "The largest of the Five Grand Palaces built during the Joseon Dynasty. It served as the main palace and represents the splendor of Korean architecture."
-    },
-    facts: {
-      de: ["Erbaut im Jahr 1395.", "Während der japanischen Invasionen schwer beschädigt.", "Beherbergt das Nationale Volkskundemuseum Koreas.", "Der Name bedeutet 'Palast des strahlenden Glücks'."],
-      hu: ["1395-ben épült.", "Súlyosan megrongálódott a japán inváziók során.", "Itt található a Koreai Nemzeti Népművészeti Múzeum.", "A neve 'Ragyogó boldogság palotáját' jelenti."],
-      ro: ["Construit în 1395.", "Grav avariat în timpul invaziilor japoneze.", "Găzduiește Muzeul Național Folcloric al Coreei.", "Numele înseamnă 'Palatul Fericirii Strălucitoare'."],
-      en: ["Built in 1395.", "Severely damaged during the Japanese invasions.", "Houses the National Folk Museum of Korea.", "The name means 'Palace of Shining Happiness'."]
-    }, image: "/poi-images/gyeongbokgung-palace-history-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Gyeongbokgung-Palast in Seoul war der Hauptpalast der Joseon-Dynastie, erbaut 1395. Er wurde während der japanischen Invasion 1592 zerstört und zwischen 1867 und 1872 wiederaufgebaut. Der Palastkomplex umfasst über 500 Gebäude. Das Thronhaus Geunjeongjeon ist das beeindruckendste. Der Palast war bis 1910 Sitz der koreanischen Könige. Heute ist er ein Museum und eine Touristenattraktion. Die Größe des Geländes beträgt 432.000 m².",
-      hu: "A Gyeongbokgung-palota Szöulban, a Joseon-dinasztia fő palotája, 1395-ben épült. 1592-ben a japán invázió során elpusztult, majd 1867-1872 között építették újjá. A palotaegyüttes több mint 500 épületet foglal magába, köztük a Geunjeongjeon tróntermet. A palota 1910-ig a koreai királyok rezidenciája volt. Ma múzeum és népszerű turisztikai látványosság. Területe 432 000 m².",
-      ro: "Palatul Gyeongbokgung din Seul, construit în 1395, a fost palatul principal al dinastiei Joseon. A fost ars în 1592 în timpul invaziei japoneze și reconstruit între 1867-1872. Complexul include peste 500 de clădiri, cu Sala Tronului Geunjeongjeon. Palatul a servit ca reședință regală până în 1910. Astăzi, este deschis publicului și găzduiește Muzeul Național al Coreei. Suprafața totală este de 432.000 m².",
-      en: "Gyeongbokgung Palace, built in 1395 in Seoul, served as the main royal palace of the Joseon dynasty. Destroyed by Japanese forces in 1592, it lay in ruins for 275 years before being reconstructed (1867-1872). The complex spans 432,000 m² with 500+ buildings. Key structures include Geunjeongjeon (throne hall) and Gyeonghoeru Pavilion. The palace was home to the royal family until Japan's annexation in 1910. It underwent major restoration in the 1990s and now hosts the National Palace Museum.",
-    },
-    factsAdvanced: {
-      de: ["Baujahr: 1395", "Zerstörung: 1592", "Wiederaufbau: 1867-1872", "Fläche: 432.000 m²", "Anzahl Gebäude: über 500", "Thronsaal: Geunjeongjeon"],
-      hu: ["Épült: 1395", "Elpusztult: 1592", "Újjáépítés: 1867-1872", "Terület: 432 000 m²", "Épületek száma: több mint 500", "Trónterem: Geunjeongjeon"],
-      ro: ["Construit: 1395", "Ars în 1592", "Reconstruit: 1867-1872", "Suprafață: 432.000 m²", "Clădiri: peste 500", "Sala tronului: Geunjeongjeon"],
-      en: ["Built: 1395", "Destroyed: 1592", "Reconstructed: 1867-1872", "Area: 432,000 m²", "Number of buildings: 500+", "Throne hall: Geunjeongjeon"],
-    },
-  },
-  {
+    {
     id: "dmz-panmunjom-history-v2",
     type: "historical-site",
     parent: "KR-41",
@@ -74,43 +38,7 @@ export const poiExtraSouthkoreaHistoryV2: POI[] = [
       en: ["Width: 4 km", "Length: 248 km", "Established: 1953", "Estimated landmines: >1 million", "Notable ecology: refuge for endangered species", "Peace talks location: Panmunjom"],
     },
   },
-  {
-    id: "bulguksa-temple-history-v2",
-    type: "historical-site",
-    parent: "KR-47",
-    coords: [129.332, 35.790],
-    name: {
-      de: "Bulguksa-Tempel",
-      hu: "Pulguksza-templom",
-      ro: "Templul Bulguksa",
-      en: "Bulguksa Temple"},
-    image: "/poi-images/bulguksa-temple-history-v2.webp",
-    description: {
-      de: "Ein Meisterwerk der buddhistischen Kunst aus dem Silla-Königreich. Der Tempelkomplex umfasst mehrere Nationalschätze Koreas.",
-      hu: "A Silla királyság buddhista művészetének mesterműve. A templomkomplexum Korea több nemzeti kincsét is magában foglalja.",
-      ro: "O capodoperă a artei budiste din Regatul Silla. Complexul templului include mai multe comori naționale ale Coreei.",
-      en: "A masterpiece of Buddhist art from the Silla Kingdom. The temple complex includes several National Treasures of Korea."
-    },
-    facts: {
-      de: ["UNESCO-Weltkulturerbe.", "Beherbergt zwei Steinpagoden, Dabotap und Seokgatap.", "Ursprünglich im 8. Jahrhundert erbaut.", "Repräsentiert die buddhistische Utopie auf Erden."],
-      hu: ["UNESCO Világörökség.", "Két kőpagodának, a Dabotapnak és a Seokgatapnak ad otthont.", "Eredetileg a 8. században épült.", "A földi buddhista utópiát képviseli."],
-      ro: ["Situl Patrimoniului Mondial UNESCO.", "Găzduiește două pagode de piatră, Dabotap și Seokgatap.", "Construit inițial în secolul al VIII-lea.", "Reprezintă utopia budistă pe pământ."],
-      en: ["UNESCO World Heritage Site.", "Home to two stone pagodas, Dabotap and Seokgatap.", "Originally built in the 8th century.", "Represents the Buddhist utopia on Earth."]
-    }, image: "/poi-images/bulguksa-temple-history-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Bulguksa-Tempel in Gyeongju ist ein bedeutendes buddhistisches Heiligtum aus der Silla-Zeit. Er wurde 751 unter König Gyeongdeok erbaut und 774 nach seinem Tod fertiggestellt. Der Tempel beherbergt zwei berühmte Steinstupas: den Dabotap und den Seokgatap, die zu den Nationalschätzen Koreas gehören. Bulguksa wurde während der Joseon-Dynastie teilweise zerstört, aber im 20. Jahrhundert umfassend restauriert. 1995 wurde er zum UNESCO-Weltkulturerbe erklärt.",
-      hu: "A Bulguksza templom Kjongdzsu városában a Silla-dinasztia korának egyik legfontosabb buddhista temploma. 751-ben kezdték építeni, és 774-ben fejezték be. Két híres kőpagodája, a Dabotap és a Seokgatap, a koreai nemzeti kincsek közé tartozik. A templomot a Joseon-korban részben lerombolták, a 20. században állították helyre. 1995-ben az UNESCO Világörökség része lett.",
-      ro: "Templul Bulguksa din Gyeongju, construit în 751 și finalizat în 774, este unul dintre cele mai importante temple budiste din Coreea. Include două pagode de piatră celebre: Dabotap (pagoda multietajată) și Seokgatap (pagoda simplă). Templul a fost parțial distrus în timpul dinastiei Joseon și restaurat în anii 1970. A fost înscris pe lista Patrimoniului Mondial UNESCO în 1995. Reprezintă arta și arhitectura budistă din perioada Silla.",
-      en: "Bulguksa Temple, located in Gyeongju, South Korea, was constructed in 751 CE under King Gyeongdeok of the Silla Kingdom and completed in 774. It is a masterpiece of Buddhist art, featuring two iconic stone pagodas: Dabotap (multi-tiered) and Seokgatap (simple, three-story). The temple was damaged during the Joseon period and underwent major restoration from 1969 to 1973. It was designated a UNESCO World Heritage site in 1995 as part of the Gyeongju Historic Areas.",
-    },
-    factsAdvanced: {
-      de: ["Bauzeit: 751-774", "Herrschaftsdynastie: Silla", "Zwei Hauptpagoden: Dabotap und Seokgatap", "UNESCO-Weltkulturerbe seit: 1995", "Standort: Gyeongju", "Restaurierung: 1969-1973"],
-      hu: ["Építés: 751-774", "Dinasztia: Silla", "Fő pagódák: Dabotap és Seokgatap", "UNESCO világörökség: 1995", "Helyszín: Kjongdzsu", "Helyreállítás: 1969-1973"],
-      ro: ["Construit: 751-774", "Dinastia: Silla", "Pagode principale: Dabotap și Seokgatap", "UNESCO: 1995", "Locație: Gyeongju", "Restaurare: 1969-1973"],
-      en: ["Construction: 751 to 774", "Dynasty: Silla", "Main pagodas: Dabotap and Seokgatap", "UNESCO World Heritage: 1995", "Location: Gyeongju, North Gyeongsang", "Major restoration: 1969-1973"],
-    },
-  },
-  {
+    {
     id: "hwaseong-fortress-history-v2",
     type: "historical-site",
     parent: "KR-41",

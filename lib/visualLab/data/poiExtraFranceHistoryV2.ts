@@ -694,40 +694,7 @@ export const franceHistoryV2: POI[] = [
     },
     image: "/poi-images/france-haut-koenigsbourg-history-v2.webp",
   },
-  {
-    id: "france-fontainebleau-palace-history-v2",
-    type: "palace",
-    parent: "FR",
-    name: { de: "Schloss Fontainebleau", hu: "Fontainebleau-i kastély", ro: "Palatul Fontainebleau", en: "Palace of Fontainebleau" },
-    coords: [2.7, 48.4],
-    description: {
-      de: "Eine der größten königlichen Residenzen Frankreichs, bewohnt von Herrschern vom 12. bis zum 19. Jahrhundert.",
-      hu: "Franciaország egyik legnagyobb királyi rezidenciája, a 12. és 19. század közötti uralkodók lakták.",
-      ro: "Una dintre cele mai mari reședințe regale ale Franței, locuită de suverani între secolele XII și XIX.",
-      en: "One of the largest royal residences in France, inhabited by monarchs from the 12th to the 19th century.",
-    },
-    facts: {
-      de: ["Renaissance", "Napoleon", "UNESCO", "Schlosspark"],
-      hu: ["Reneszánsz", "Napóleon", "UNESCO", "Kastélypark"],
-      ro: ["Renaștere", "Napoleon", "UNESCO", "Parcul palatului"],
-      en: ["Renaissance", "Napoleon", "UNESCO", "Palace park"],
-    },
-    imageHint: "Palace of Fontainebleau France",
-    descriptionAdvanced: {
-      de: "Der Palast von Fontainebleau ist ein großes königliches Schloss im Département Seine-et-Marne. Er war von Franz I. bis Napoleon III. Residenz der französischen Monarchen. Der Palast vereint Renaissance, Klassizismus und Empire-Stil. Der Wald von Fontainebleau ist ein beliebtes Ausflugsziel. Das Schloss ist UNESCO-Weltkulturerbe. Der Grand Parterre und der Teich sind bemerkenswerte Gartenanlagen.",
-      hu: "A fontainebleau-i palota egy hatalmas királyi kastély Seine-et-Marne megyében. I. Ferenctől III. Napóleonig a francia uralkodók rezidenciája volt. A palota reneszánsz, klasszicista és empire stílusokat ötvöz. A fontainebleau-i erdő népszerű kirándulóhely. A kastély az UNESCO Világörökség része. A Grand Parterre és a tó figyelemre méltó kertépítészeti alkotások.",
-      ro: "Palatul de la Fontainebleau este un mare castel regal din departamentul Seine-et-Marne. A fost reședința monarhilor francezi de la Francisc I până la Napoleon al III-lea. Palatul combină stilurile renascentist, clasic și empire. Pădurea Fontainebleau este o destinație populară pentru excursii. Castelul este Patrimoniu Mondial UNESCO. Grand Parterre și iazul sunt grădini remarcabile.",
-      en: "The Palace of Fontainebleau is a large royal château in the Seine-et-Marne department. It was a residence of French monarchs from Francis I to Napoleon III. The palace blends Renaissance, Classicism, and Empire styles. The Forest of Fontainebleau is a popular recreation area. The palace is a UNESCO World Heritage Site. The Grand Parterre and the pond are notable garden features.",
-    },
-    factsAdvanced: {
-      de: ["Der Palast umfasst 1.500 Räume.", "Die Fläche beträgt 130 Hektar.", "Der Wald von Fontainebleau erstreckt sich über 25.000 Hektar.", "Franz I. ließ ab 1528 umbauen.", "Der Grand Parterre wurde im 17. Jahrhundert angelegt.", "Fontainebleau ist seit 1981 UNESCO-Welterbe."],
-      hu: ["A palota 1500 szobával rendelkezik.", "Területe 130 hektár.", "A fontainebleau-i erdő 25 000 hektáron terül el.", "I. Ferenc 1528-tól kezdte átépíteni.", "A Grand Parterre a 17. században létesült.", "Fontainebleau 1981 óta UNESCO Világörökség."],
-      ro: ["Palatul are 1.500 de camere.", "Suprafața este de 130 de hectare.", "Pădurea Fontainebleau se întinde pe 25.000 de hectare.", "Francisc I a început renovarea în 1528.", "Grand Parterre a fost amenajat în secolul al XVII-lea.", "Fontainebleau este Patrimoniu UNESCO din 1981."],
-      en: ["The palace has 1,500 rooms.", "The estate covers 130 hectares.", "The Forest of Fontainebleau spans 25,000 hectares.", "Francis I began remodeling in 1528.", "The Grand Parterre was laid out in the 17th century.", "Fontainebleau has been a UNESCO site since 1981."],
-    },
-    image: "/poi-images/france-fontainebleau-palace-history-v2.webp",
-  },
-  {
+    {
     id: "france-valencay-history-v2",
     type: "castle",
     parent: "FR",

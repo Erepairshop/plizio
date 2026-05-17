@@ -645,43 +645,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       en: ["Lake Yirol annual catch: 3.000 tons", "Nile perch average weight: 20 kg", "Number of cattle around lake: 400.000", "Distance to Rumbek: 100 km", "Primary schools: 6", "Health centers: 2 (one in town)"],
     },
   },
-  {
-    id: "akobo-cities-v2",
-    type: "city",
-    parent: "SS-JO",
-    coords: [33.004, 7.789],
-    name: {
-      de: "Akobo",
-      hu: "Akobo",
-      ro: "Akobo",
-      en: "Akobo"},
-    image: "/poi-images/akobo-cities-v2.webp",
-    description: {
-      de: "Akobo ist eine Grenzstadt zu Äthiopien und ein wichtiger Außenposten im Osten des Bundesstaates Jonglei.",
-      hu: "Akobo egy határváros Etiópia felé, és Jonglei állam keleti részének fontos őrhelye.",
-      ro: "Akobo este un oraș de frontieră cu Etiopia și un avanpost important în estul statului Jonglei.",
-      en: "Akobo is a border town with Ethiopia and an important outpost in eastern Jonglei State."
-    },
-    facts: {
-      de: ["Grenzstadt zu Äthiopien", "Liegt am Fluss Akobo", "Handelszentrum für Vieh", "Entlegene Region"],
-      hu: ["Etióp határváros", "Az Akobo-folyó partján", "Állatkereskedelmi központ", "Távoli régió"],
-      ro: ["Oraș de graniță cu Etiopia", "Situat pe râul Akobo", "Centru comercial pentru vite", "Regiune izolată"],
-      en: ["Border town with Ethiopia", "Located on the Akobo River", "Livestock trading center", "Remote region"]
-    }, image: "/poi-images/akobo-cities-v2.webp",
-    descriptionAdvanced: {
-      de: "Akobo ist eine Stadt im Bundesstaat Jonglei im Osten Südsudans, nahe der Grenze zu Äthiopien. Die Stadt liegt am Akobo-Fluss, einem Nebenfluss des Sobat. Die Region ist flach und regelmäßigen Überschwemmungen ausgesetzt. Die Bevölkerung sind hauptsächlich Nuer (Lak-Nuer). Seit 2013 kam es wiederholt zu interethnischen Konflikten und Vertreibungen. Die Wirtschaft basiert auf Viehzucht und Fischfang. Akobo hat einen kleinen Flugplatz.",
-      hu: "Akobo Dél-Szudán Jonglei államában található, az etióp határ mellett. A város az Akobo-folyó partján fekszik, amely a Sobat vizébe ömlik. A területet gyakran áradások sújtják. A nuer törzs tagjai pásztorkodással és halászattal foglalkoznak. A lakosság nagy része elmenekült a konfliktusok miatt. Akobo egy fontos humanitárius központ, ahol az ENSZ segélyszervezetei működnek.",
-      ro: "Akobo este un oraș de graniță în statul Jonglei, Sudanul de Sud, situat pe râul Akobo. Economia locală este predominant pastorală și de pescuit. Orașul a suferit distrugeri grave în conflictul civil din 2013-2014. Populația actuală este estimată la 10.000 de locuitori, majoritatea de etnie Nuer. Există un mic aeroport și o tabără pentru persoanele strămutate. Agricultura este limitată din cauza inundațiilor.",
-      en: "Akobo is a border town with Ethiopia, often hosting refugee populations. The Akobo River provides water for livestock. The town is connected to Juba by a poor dirt road. During the dry season, the road becomes impassable. Akobo has a market where sorghum and livestock are traded. The area has suffered from famine due to conflict and drought. The local community relies on international aid for food and healthcare.",
-    },
-    factsAdvanced: {
-      de: ["Bevölkerung: ca. 10.000 (2016, geschätzt)", "Höhe: ca. 450 m ü. M.", "Entfernung zu Äthiopien: 10 km", "Fluss: Akobo-Fluss (Länge ca. 300 km)", "Etniengruppe: Nuer (Lak) 95%", "Niederschlag: 600 mm/Jahr"],
-      hu: ["Népesség: 12.000 (2018, becslés)", "Távolság az etióp határtól: 10 km", "Áradások gyakorisága: évente 1-2", "Szarvasmarha állomány: 200.000", "Átlaghőmérséklet: 30 °C", "Humanitárius szervezetek: 5"],
-      ro: ["Altitudine: 450 m", "Populație: 10.000 (2020)", "Distanța până la Juba: 400 km", "Tabără pentru strămutați: 20.000 persoane (2015)", "Сuprafață urbană: 8 km²", "Piață: 200 comercianți"],
-      en: ["Distance to Ethiopia border: 10 km", "Nuer population: 95%", "Annual rainfall: 600 mm", "Livestock population in county: 1 million", "Number of boreholes: 10", "Food aid recipients: 80% of population"],
-    },
-  },
-  {
+    {
     id: "kodok-cities-v2",
     type: "city",
     parent: "SS-NU",

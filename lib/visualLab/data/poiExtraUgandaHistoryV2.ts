@@ -218,43 +218,7 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       en: ["Built in 1872.", "Builder: Samuel Baker.", "Wall height: 4 meters.", "Number of towers: 4.", "Location: 10 km from Gulu.", "National monument since 1962."],
     },
   },
-  {
-    id: "bulange-mengo-history-v2",
-    type: "historical",
-    parent: "UG-C",
-    coords: [32.56, 0.306],
-    name: {
-      de: "Bulange Mengo",
-      hu: "Bulange Mengo",
-      ro: "Bulange Mengo",
-      en: "Bulange Mengo"},
-    image: "/poi-images/bulange-mengo-history-v2.webp",
-    description: {
-      de: "Bulange Mengo ist das Verwaltungsgebäude und das Parlament des Königreichs Buganda in Kampala.",
-      hu: "A Bulange Mengo a Buganda Királyság közigazgatási épülete és parlamentje Kampalában.",
-      ro: "Bulange Mengo este clădirea administrativă și parlamentul Regatului Buganda din Kampala.",
-      en: "Bulange Mengo is the administrative building and parliament of the Buganda Kingdom in Kampala."
-    },
-    facts: {
-      de: ["Sitz des Lukiiko (Parlaments)", "Wichtiges Zentrum der Ganda-Kultur", "Traditionelle Architektur"],
-      hu: ["A Lukiiko (parlament) székhelye", "A ganda kultúra fontos központja", "Hagyományos építészet"],
-      ro: ["Sediul Lukiiko (parlamentului)", "Centru important al culturii Ganda", "Arhitectură tradițională"],
-      en: ["Seat of the Lukiiko (parliament)", "Important center of Ganda culture", "Traditional architecture"]
-    }, image: "/poi-images/bulange-mengo-history-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Bulange in Mengo (Kampala) ist der Sitz des Kabaka von Buganda, des traditionellen Herrschers des Königreichs Buganda. Der Palast wurde 1955 im neoklassizistischen Stil erbaut und ist ein Symbol der gandischen Monarchie. Das Gebäude beherbergt den Lukiiko (Parlament) von Buganda und Verwaltungsbüros. Der Bulange ist Teil eines Ensembles mit dem Kabaka-Palast und dem Parlamentsgebäude. Er ist ein Ort politischer und kultureller Bedeutung. Die Architektur verbindet koloniale Einflüsse mit afrikanischen Elementen.",
-      hu: "A Bulange Mengóban (Kampala) a bugandai királyi palota, a kabaka székhelye. Az épület 1955-ben épült neoklasszicista stílusban. Itt ülésezik a bugandai parlament (Lukiiko) és itt vannak a királyság adminisztratív irodái. A Bulange a kabaka palotája és a parlament épülete mellett található, együttesük a ganda monarchia központja. A hely politikai és kulturális jelentőséggel bír. Az építészet ötvözi a gyarmati hatásokat az afrikai elemekkel.",
-      ro: "Bulange din Mengo (Kampala) este palatul regal al kabakăi Bugandei. Construit în 1955 în stil neoclasic, găzduiește Lukiiko (parlamentul) Bugandei și birouri administrative. Clădirea face parte dintr-un ansamblu care include Palatul Kabaka și clădirea parlamentului. Este un simbol al monarhiei gande și un centru politic și cultural. Arhitectura combină influențe coloniale cu elemente africane.",
-      en: "Bulange in Mengo (Kampala) is the seat of the Kabaka of Buganda, the traditional king. Built in 1955 in neoclassical style, it houses the Lukiiko (Buganda parliament) and administrative offices. The building is part of a complex that includes the Kabaka's Palace and the parliament building. It symbolizes Buganda's monarchy and cultural identity. Its architecture blends colonial and African influences.",
-    },
-    factsAdvanced: {
-      de: ["Erbaut: 1955.", "Architekturstil: Neoklassizistisch.", "Höhe des Hauptgebäudes: 20 Meter.", "Sitzungssaal des Lukiiko: 500 Sitzplätze.", "Grundstücksfläche: 2 Hektar.", "Standort: Mengo, Kampala."],
-      hu: ["Építés éve: 1955.", "Építészeti stílus: neoklasszicista.", "Főépület magassága: 20 méter.", "Lukiiko ülésterem: 500 férőhely.", "Telek területe: 2 hektár.", "Helyszín: Mengo, Kampala."],
-      ro: ["Construit în 1955.", "Stil arhitectural: neoclasic.", "Înălțimea clădirii principale: 20 de metri.", "Sala Lukiiko: 500 de locuri.", "Suprafața terenului: 2 hectare.", "Locație: Mengo, Kampala."],
-      en: ["Built in 1955.", "Architectural style: Neoclassical.", "Height of main building: 20 meters.", "Lukiiko hall capacity: 500 seats.", "Land area: 2 hectares.", "Location: Mengo, Kampala."],
-    },
-  },
-  {
+    {
     id: "kabakas-palace-lubiri-history-v2",
     type: "historical",
     parent: "UG-C",

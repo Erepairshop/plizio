@@ -2,45 +2,7 @@
 import type { POI } from "./poi";
 
 export const poiExtraElsalvadorLandmarksV2: POI[] = [
-  {
-    id: "teatro-nacional-san-salvador-landmarks-v2",
-    type: "landmark",
-    parent: "SV-SS",
-    coords: [-89.1906, 13.6978],
-    name: {
-      de: "Nationaltheater von San Salvador",
-      hu: "San Salvador-i Nemzeti Színház",
-      ro: "Teatrul Național din San Salvador",
-      en: "National Theatre of San Salvador"},
-    image: "/poi-images/teatro-nacional-san-salvador-landmarks-v2.webp",
-    description: {
-      de: "Das älteste Theater Mittelamerikas, ein architektonisches Juwel im Herzen der Stadt.",
-      hu: "Közép-Amerika legrégebbi színháza, egy építészeti gyöngyszem a vörös tetők felett.",
-      ro: "Cel mai vechi teatru din America Centrală, o bijuterie arhitecturală în inima orașului.",
-      en: "The oldest theatre in Central America, an architectural jewel in the heart of the city.",
-    },
-    
-    facts: {
-      de: ["Eröffnet 1917", "Französischer Renaissance-Stil", "Nationaldenkmal", "Bietet Platz für 650 Zuschauer"],
-      hu: ["1917-ben nyílt meg", "Francia reneszánsz stílus", "Nemzeti műemlék", "650 nézőt tud befogadni"],
-      ro: ["Inaugurat în 1917", "Stil renascentist francez", "Monument național", "Capacitate de 650 de spectatori"],
-      en: ["Opened in 1917", "French Renaissance style", "National Monument", "Seats 650 spectators"],
-    },
-     image: "/poi-images/teatro-nacional-san-salvador-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "Das älteste Theater Mittelamerikas, ein architektonisches Juwel im Herzen der Stadt. Eröffnet 1917. Französischer Renaissance-Stil. Nationaldenkmal. Bietet Platz für 650 Zuschauer. Damit zählt der Ort zu den charakteristischen Punkten der mittelamerikanischen Republik El Salvador und spiegelt die Verbindung von pazifischer Küste, vulkanischer Landschaft, Kaffee- und Zuckerrohranbau sowie dem Wiederaufbau nach dem Bürgerkrieg wider. Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik. Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region. Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes.",
-      hu: "A San Salvador szívében magasodó Nemzeti Színház Közép-Amerika legrégebbi és egyik legpompásabb teátruma. Az 1917-ben megnyitott épület a francia reneszánsz stílusjegyeit hordozza, belső terét pedig gazdag stukkók, márvány és aranyozott díszítések teszik felejthetetlenné. A színház nem csupán kulturális központ, hanem a salvadori büszkeség szimbóluma is, amely túlélte a történelem viharait és földrengéseit. Látogatói elmerülhetnek a századfordulós eleganciában, miközben kortárs és klasszikus előadásokat élvezhetnek a 650 fős nézőtéren.",
-      ro: "Teatrul Național din San Salvador este o capodoperă a arhitecturii franceze renascentiste, fiind cea mai veche și mai elegantă instituție de acest gen din America Centrală. Inaugurată în 1917, clădirea impresionează prin detaliile sale rafinate, de la stucaturile aurite până la marmura prețioasă folosită în decorarea interioară. Inima teatrului este Marea Sală, unde spectatorii pot admira o cupolă spectaculoasă pictată de renumitul artist Carlos Cañas, reprezentând mestisajul cultural al națiunii. De-a lungul deceniilor, teatrul a servit drept bastion al artelor, supraviețuind cutremurelor și perioadelor de instabilitate pentru a rămâne astăzi un simbol al rezilienței culturale salvadoriene. O vizită aici oferă o incursiune fascinantă în splendoarea începutului de secol XX, fiind locul unde se întâlnesc tradiția clasică și creativitatea contemporană.",
-      en: "The National Theatre of San Salvador stands in the heart of the city as the oldest and most magnificent theater in Central America. Opened in 1917, the building showcases beautiful French Renaissance architectural details. Its interior is decorated with rich stuccos, marble, and gilded ornaments that create an unforgettable atmosphere. The theater serves as a cultural hub and a symbol of Salvadoran pride, having survived numerous historical events and earthquakes. Visitors can experience the elegance of the early 20th century while enjoying performances in the 650-seat auditorium. History K8"
-    },
-    factsAdvanced: {
-      de: ["Das älteste Theater Mittelamerikas, ein architektonisches Juwel im Herzen der Stadt.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
-      hu: ["Az építkezés 1911-ben kezdődött Daniel Beylard tervei alapján.", "A belső kupolát Carlos Cañas monumentális festménye díszíti.", "1979-ben nyilvánították nemzeti műemlékké.", "Ez az ország legfontosabb kulturális és művészeti központja."],
-      ro: ["Construcția clădirii a început în anul 1911, pe baza planurilor arhitectului francez Daniel Beylard.", "Marea Sală are o capacitate de 650 de locuri și este renumită pentru acustica sa impecabilă.", "Clădirea a fost declarată Monument Național în anul 1979, datorită valorii sale istorice și artistice excepționale.", "Cupola teatrului găzduiește o pictură murală monumentală care acoperă o suprafață de 230 de metri pătrați."],
-      en: ["Construction began in 1911 based on designs by Daniel Beylard.", "The interior dome features a monumental painting by Carlos Cañas.", "It was declared a National Monument in 1979.", "The theater remains the most important center for performing arts in El Salvador."]
-    }
-  },
-  {
+    {
     id: "palacio-nacional-el-salvador-landmarks-v2",
     type: "landmark",
     parent: "SV-SS",

@@ -714,43 +714,7 @@ export const poiExtraDjiboutiLandmarksV2: POI[] = [
       en: ["Built in the 1960s", "Quay length: 200 meters", "Depth: 6 meters", "50,000 tons of cargo annually", "Fishing port", "Local trade"],
     },
   },
-  {
-    id: "sagallou-fort-landmarks-v2",
-    type: "landmark",
-    parent: "DJ-TA",
-    coords: [42.724, 11.684],
-    name: {
-      de: "Fort von Sagallou",
-      hu: "Sagallou erőd",
-      ro: "Fortăreața Sagallou",
-      en: "Fort of Sagallou"},
-    image: "/poi-images/sagallou-fort-landmarks-v2.webp",
-    description: {
-      de: "Die Ruinen einer alten Festung, die Zeugnis von der kurzen russischen Präsenz in der Region ablegen.",
-      hu: "Egy régi erőd romjai, amelyek a rövid ideig tartó orosz jelenlétről tanúskodnak a régióban.",
-      ro: "Ruinele unei vechi fortărețe care stau mărturie pentru scurta prezență rusă în regiune.",
-      en: "The ruins of an old fortress that bear witness to the brief Russian presence in the region."
-    },
-    facts: {
-      de: ["Überrest der Siedlung 'Neu-Moskau'", "Historisch bedeutsamer Ort des 19. Jahrhunderts", "Blick auf den Golf von Tadjoura"],
-      hu: ["Az 'Új Moszkva' település maradványa", "A 19. század történelmileg jelentős helyszíne", "Kilátás a Tadjourai-öbölre"],
-      ro: ["Vestigiu al așezării 'Noua Moscovă'", "Loc semnificativ din punct de vedere istoric din secolul al XIX-lea", "Vedere către Golful Tadjoura"],
-      en: ["Remnant of the 'New Moscow' settlement", "Historically significant site of the 19th century", "View of the Gulf of Tadjoura"]
-    },
-    descriptionAdvanced: {
-      de: "Das Fort von Sagallou ist eine historische Festung aus dem 19. Jahrhundert, die von den Franzosen erbaut wurde. Es liegt auf einer Anhöhe mit Blick auf den Golf von Tadjoura. Das Fort diente dem Schutz der französischen Kolonialinteressen. Es hat dicke Steinmauern und ist von einem Graben umgeben. Heute ist es eine Touristenattraktion und ein militärisches Denkmal.",
-      hu: "A Sagallou erőd a 19. században épült francia erődítmény. A Tadjoura-öbölre néző dombon található. Falai vastag kőből készültek, árok veszi körül. Az erőd stratégiai jelentőségű volt. Ma múzeumként működik, és nyitva áll a látogatók előtt. 2018-ban felújították.",
-      ro: "Fortul Sagallou este o fortăreață construită de francezi în secolul al XIX-lea. Este situată pe un deal deasupra Golfului Tadjoura. Zidurile groase de piatră și șanțul oferă protecție. A jucat un rol strategic în epoca colonială. Astăzi este un sit turistic și a fost renovat în 2018.",
-      en: "Fort Sagallou, built by the French in the 19th century, sits on a hill overlooking the Gulf of Tadjoura. Its thick stone walls and surrounding ditch exemplify colonial military architecture. The fort served as a strategic defense post. Renovated in 2018, it now operates as a museum and tourist attraction.",
-    },
-    factsAdvanced: {
-      de: ["Erbaut im 19. Jahrhundert", "Bauherr: Frankreich", "Lage: Hügel über dem Golf", "Steinmauern", "Graben umgeben", "Renoviert 2018"],
-      hu: ["19. században épült", "Francia építés", "Dombtetőn", "Kőfalak", "Árok", "2018-ban felújítva"],
-      ro: ["Construit în secolul al XIX-lea", "Construit de francezi", "Pe un deal", "Ziduri de piatră", "Șanț de apărare", "Renovat în 2018"],
-      en: ["Built in the 19th century", "Constructed by the French", "Hilltop location", "Stone walls", "Defensive ditch", "Renovated in 2018"],
-    },
-  },
-  {
+    {
     id: "french-institute-landmarks-v2",
     type: "landmark",
     parent: "DJ-DJ",

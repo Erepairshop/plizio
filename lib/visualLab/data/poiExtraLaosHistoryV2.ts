@@ -37,43 +37,7 @@ export const poiExtraLaosHistoryV2: POI[] = [
       en: ["Originally dedicated to the Hindu god Shiva", "Oldest building parts date from the 5th century", "Situated at the base of the sacred Mount Phu Kao", "Inscribed as a UNESCO World Heritage site in 2001", "Features a 1.4 km long axial procession structure", "Served as a center for the early Chenla kingdom"]
     }
   },
-  {
-    id: "pha-that-luang-history-v2",
-    type: "monument",
-    parent: "LA-VT",
-    coords: [102.636, 17.976],
-    name: {
-      de: "Pha That Luang",
-      hu: "Pha That Luang",
-      ro: "Pha That Luang",
-      en: "Pha That Luang"},
-    image: "/poi-images/pha-that-luang-history-v2.webp",
-    description: {
-      de: "Ein massiver goldener Stupa im Zentrum von Vientiane, der als das wichtigste nationale Monument von Laos gilt.",
-      hu: "Egy hatalmas arany sztúpa Vientiane központjában, amelyet Laosz legfontosabb nemzeti emlékművének tartanak.",
-      ro: "O stupă de aur masivă în centrul orașului Vientiane, considerată cel mai important monument național din Laos.",
-      en: "A massive golden stupa in the center of Vientiane, considered the most important national monument of Laos."
-    },
-    facts: {
-      de: ["Wurde ursprünglich im 3. Jahrhundert gegründet.", "Das heutige Bauwerk stammt aus dem Jahr 1566."],
-      hu: ["Eredetileg a 3. században alapították.", "A jelenlegi építmény 1566-ból származik."],
-      ro: ["A fost fondată inițial în secolul al III-lea.", "Structura actuală datează din anul 1566."],
-      en: ["Originally founded in the 3rd century.", "The current structure dates from the year 1566."]
-    }, image: "/poi-images/pha-that-luang-history-v2.webp",
-    descriptionAdvanced: {
-      de: "Pha That Luang ist eine große, goldbedeckte buddhistische Stupa in Vientiane und gilt als das wichtigste nationale Monument von Laos. König Setthathirath ordnete den Bau im Jahr 1566 an, nachdem er die Hauptstadt von Luang Prabang hierher verlegt hatte. Das Bauwerk wurde über den Ruinen eines älteren Khmer-Tempels errichtet und ist 44 Meter hoch. Es ist in drei architektonische Ebenen unterteilt, die jeweils unterschiedliche Stadien der buddhistischen Lehre repräsentieren, von der materiellen Welt bis hin zum Nichts. Die Stupa wurde mehrfach von burmesischen und siamesischen Invasoren geplündert, insbesondere 1828, und in den 1930er Jahren von den Franzosen rekonstruiert.",
-      hu: "A Pha That Luang egy nagyméretű, arannyal borított buddhista sztúpa Vientiane városában, amelyet Laosz legfontosabb nemzeti emlékművének tartanak. Széthathirath király rendelte el az építését 1566-ban, miután a fővárost Luang Prabangból ide helyezte át. Az építményt egy régebbi khmer templom romjaira emelték, és 44 méter magas. Három építészeti szintre oszlik, amelyek mindegyike a buddhista tanítások különböző szakaszait képviseli az anyagi világtól a semmiig. A sztúpát a burmai és sziámi hódítók többször is kifosztották, különösen 1828-ban, majd az 1930-as években a franciák állították helyre.",
-      ro: "Pha That Luang este o mare stupă budistă acoperită cu aur din Vientiane și este considerată cel mai important monument național al Laosului. Regele Setthathirath a ordonat construcția în anul 1566, după ce a mutat capitala de la Luang Prabang aici. Structura a fost ridicată pe ruinele unui vechi templu khmer și are o înălțime de 44 de metri. Este împărțită în trei niveluri arhitecturale, fiecare reprezentând diferite etape ale învățăturilor budiste, de la lumea materială la starea de nimic. Stupa a fost jefuită de mai multe ori de invadatorii birmanezi și siamezi, mai ales în 1828, și reconstruită în anii 1930 de francezi.",
-      en: "Pha That Luang is a large, gold-covered Buddhist stupa in Vientiane, widely regarded as the most important national monument in Laos. King Setthathirath ordered its construction in 1566 after relocating the capital from Luang Prabang. The structure was built over the ruins of an older Khmer temple and reaches a height of 44 meters. It is divided into three architectural levels, each representing different stages of Buddhist doctrine, from the material world to the state of nothingness. The stupa was repeatedly plundered by Burmese and Siamese invaders, notably in 1828, and was eventually reconstructed by the French in the 1930s."
-    },
-    factsAdvanced: {
-      de: ["Errichtet im Jahr 1566 unter König Setthathirath", "Steht auf den Überresten eines alten Khmer-Tempels", "Erreicht eine Höhe von 44 Metern", "Wurde 1828 bei einer siamesischen Invasion zerstört", "In den 1930er Jahren von den Franzosen rekonstruiert", "Besteht aus drei symbolischen architektonischen Ebenen"],
-      hu: ["1566-ban épült Széthathirath király uralkodása alatt", "Egy régi khmer templom maradványain áll", "Magassága eléri a 44 métert", "1828-ban egy sziámi invázió során elpusztult", "Az 1930-as években a franciák állították helyre", "Három szimbolikus építészeti szintből áll"],
-      ro: ["Construită în 1566 sub regele Setthathirath", "Se află pe rămășițele unui vechi templu khmer", "Atinge o înălțime de 44 de metri", "Distrusă în timpul unei invazii siameze în 1828", "Reconstruită de francezi în anii 1930", "Este formată din trei niveluri arhitecturale simbolice"],
-      en: ["Constructed in 1566 under King Setthathirath", "Stands on the remains of an ancient Khmer temple", "Reaches a height of 44 meters", "Destroyed during a Siamese invasion in 1828", "Reconstructed by the French in the 1930s", "Consists of three symbolic architectural levels"]
-    }
-  },
-  {
+    {
     id: "patuxai-history-v2",
     type: "monument",
     parent: "LA-VT",
@@ -109,43 +73,7 @@ export const poiExtraLaosHistoryV2: POI[] = [
       en: ["Constructed between the years 1957 and 1968", "Dedicated to the victims of the Laotian independence struggle", "Built using cement originally intended for an airport", "Combines French structural design with Laotian ornamentation", "Frequently referred to as 'the vertical runway'", "Features an observation deck overlooking Vientiane"]
     }
   },
-  {
-    id: "wat-xieng-thong-history-v2",
-    type: "historical-site",
-    parent: "LA-LP",
-    coords: [102.143, 19.897],
-    name: {
-      de: "Wat Xieng Thong",
-      hu: "Vat Xieng Thong",
-      ro: "Wat Xieng Thong",
-      en: "Wat Xieng Thong"},
-    image: "/poi-images/wat-xieng-thong-history-v2.webp",
-    description: {
-      de: "Einer der historisch bedeutendsten buddhistischen Tempel in Luang Prabang, berühmt für sein tief herabgezogenes Dach und Mosaike.",
-      hu: "Luang Prabang egyik történelmileg legjelentősebb buddhista temploma, amely mélyre nyúló tetőszerkezetéről és mozaikjairól híres.",
-      ro: "Unul dintre cele mai importante temple budiste istorice din Luang Prabang, faimos pentru acoperișul său coborât și mozaicurile sale.",
-      en: "One of the most historically significant Buddhist temples in Luang Prabang, famous for its sweeping roof and mosaics."
-    },
-    facts: {
-      de: ["Wurde im Jahr 1560 von König Setthathirath erbaut.", "Überlebte die Plünderungen der Schwarzen Flaggen im Jahr 1887."],
-      hu: ["Szethathirath király építtette 1560-ban.", "Túlélte a Fekete Zászlósok fosztogatását 1887-ben."],
-      ro: ["A fost construit în anul 1560 de regele Setthathirath.", "A supraviețuit jefuirii de către Steagurile Negre în 1887."],
-      en: ["Built in 1560 by King Setthathirath.", "Survived the sacking by the Black Flags in 1887."]
-    }, image: "/poi-images/wat-xieng-thong-history-v2.webp",
-    descriptionAdvanced: {
-      de: "Wat Xieng Thong, der 'Tempel der goldenen Stadt', ist das historisch bedeutendste buddhistische Kloster in Luang Prabang. Er wurde 1559 von König Setthathirath nahe dem Zusammenfluss von Mekong und Nam Khan erbaut und blieb bis 1975 unter königlicher Schirmherrschaft. Die Anlage diente als Ort für die Krönung laotischer Könige und entging der Zerstörung durch die chinesischen Schwarzen Flaggen im Jahr 1887. Das Hauptgebäude zeichnet sich durch ein geschwungenes, tief herabreichendes Dach aus, das den klassischen Luang-Prabang-Stil definiert. Ein markantes Merkmal ist das prächtige 'Baum des Lebens'-Mosaik an der westlichen Außenwand sowie die königliche Begräbniskapelle.",
-      hu: "A Wat Xieng Thong, vagyis az 'Arany Város Temploma' a történelmileg legjelentősebb buddhista kolostor Luang Prabangban. Széthathirath király építtette 1559-ben a Mekong és a Nam Khan folyók találkozásának közelében, és egészen 1975-ig királyi pártfogás alatt állt. Az épületegyüttes a laoszi királyok koronázási helyszíneként szolgált, és 1887-ben megmenekült a kínai fekete zászlósok pusztításától. A főépületet a mélyen lenyúló, ívelt tető jellemzi, amely a klasszikus Luang Prabang-i stílust határozza meg. Kiemelkedő jellemzője a nyugati külső falon található pompás 'Életfa' mozaik, valamint a királyi temetkezési kápolna.",
-      ro: "Wat Xieng Thong, 'Templul Orașului de Aur', este cea mai importantă mănăstire budistă din Luang Prabang din punct de vedere istoric. A fost construită în 1559 de regele Setthathirath, aproape de confluența râurilor Mekong și Nam Khan, și a rămas sub patronaj regal până în 1975. Complexul a servit drept loc pentru încoronarea regilor laotieni și a scăpat de distrugerea armatei Steagurilor Negre chineze în anul 1887. Clădirea principală se remarcă printr-un acoperiș curbat care coboară adânc, definind stilul clasic din Luang Prabang. O trăsătură distinctivă este magnificul mozaic 'Arborele Vieții' de pe peretele exterior vestic, alături de capela funerară regală.",
-      en: "Wat Xieng Thong, the 'Temple of the Golden City', is historically the most significant Buddhist monastery in Luang Prabang. Built in 1559 by King Setthathirath near the confluence of the Mekong and Nam Khan rivers, it remained under royal patronage until 1975. The complex served as the site for the coronation of Laotian kings and survived the destruction by the Chinese Black Flag army in 1887. The main structure features a sweeping, low-reaching roof that defines the classic Luang Prabang architectural style. A prominent feature is the exquisite 'Tree of Life' glass mosaic on the western exterior wall, as well as the royal funerary chariot chapel."
-    },
-    factsAdvanced: {
-      de: ["Gegründet im Jahr 1559 von König Setthathirath", "Traditioneller Krönungsort der laotischen Monarchen", "Überstand die Plünderung von 1887 unbeschadet", "Bekannt für das 'Baum des Lebens'-Glasmosaik", "Architektur im klassischen Luang-Prabang-Stil", "Beherbergt einen königlichen Bestattungswagen"],
-      hu: ["Széthathirath király alapította 1559-ben", "A laoszi uralkodók hagyományos koronázási helye", "Sértetlenül vészelte át az 1887-es fosztogatást", "Híres a külső falon lévő 'Életfa' üvegmozaikról", "A klasszikus Luang Prabang-i építészeti stílust képviseli", "Egy királyi temetkezési kocsinak is helyet ad"],
-      ro: ["Fondat în anul 1559 de către regele Setthathirath", "Locul tradițional de încoronare al monarhilor laotieni", "A supraviețuit intact jefuirii din anul 1887", "Renumit pentru mozaicul de sticlă 'Arborele Vieții'", "Reprezintă stilul arhitectural clasic din Luang Prabang", "Găzduiește un car funerar regal ornamentat"],
-      en: ["Founded in 1559 by King Setthathirath", "Traditional coronation site for Laotian monarchs", "Survived the city's 1887 sacking entirely intact", "Renowned for its 'Tree of Life' glass mosaic", "Represents the classic Luang Prabang architectural style", "Houses a heavily gilded royal funerary carriage"]
-    }
-  },
-  {
+    {
     id: "haw-kham-history-v2",
     type: "historical-site",
     parent: "LA-LP",

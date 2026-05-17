@@ -193,39 +193,7 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
       en: ["Built during the 19th century by Emir Bashir Shihab II.", "Considered a masterpiece of Lebanese emirate architecture.", "Houses a significant collection of well-preserved Byzantine mosaics.", "Currently serves as the summer residence for the Lebanese President.", "The venue for the annual Beiteddine Art Festival.", "Features elaborately decorated courtyards and traditional hammams."]
     }
   },
-  {
-    id: "our-lady-of-lebanon-landmarks-v2",
-    type: "landmark",
-    parent: "LB-JL",
-    coords: [35.6531, 33.9806],
-    name: { de: "Unsere Liebe Frau vom Libanon", hu: "A Libanoni Miasszonyunk", ro: "Sfânta Maria din Liban", en: "Our Lady of Lebanon"},
-    image: "/poi-images/our-lady-of-lebanon-landmarks-v2.webp",
-    description: {
-      de: "Ein bedeutender christlicher Wallfahrtsort mit einer riesigen Marienstatue, die über die Bucht von Jounieh blickt.",
-      hu: "Jelentős keresztény zarándokhely egy hatalmas Mária-szoborral, amely a Dzsúnija-öbölre néz.",
-      ro: "Un important loc de pelerinaj creștin, cu o statuie uriașă a Fecioarei Maria ce privește spre golful Jounieh.",
-      en: "A major Christian pilgrimage site featuring a huge statue of Mary overlooking the Bay of Jounieh."
-    },
-    facts: {
-      de: ["Die Statue ist 8,5 Meter hoch.", "Errichtet im Jahr 1904."],
-      hu: ["A szobor 8,5 méter magas.", "1904-ben épült."],
-      ro: ["Statuia are 8,5 metri înălțime.", "Construită în anul 1904."],
-      en: ["The statue is 8.5 meters high.", "Erected in the year 1904."]
-    }, image: "/poi-images/our-lady-of-lebanon-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Statue Unserer Lieben Frau vom Libanon (Notre Dame du Liban) ist ein bedeutendes maronitisches Heiligtum in Harissa, das hoch über der Bucht von Jounieh thront. Die 15 Tonnen schwere, weiß gestrichene Bronzestatue der Jungfrau Maria wurde 1908 eingeweiht und blickt segnend auf das Mittelmeer hinab. Der Wallfahrtsort zieht jährlich Millionen von Besuchern an und kann über eine spektakuläre Seilbahnfahrt von der Küste aus erreicht werden.",
-      hu: "A Libanoni Miasszonyunk (Notre Dame du Liban) szobra egy jelentős maronita szentély Harissában, amely magasan a Jounieh-öböl fölött magasodik. A 15 tonnás, fehérre festett bronz Szűz Mária-szobrot 1908-ban avatták fel, és áldást osztó pózban tekint le a Földközi-tengerre. A zarándokhely évente látogatók millióit vonzza, és a partról egy látványos utazást kínáló libegővel is megközelíthető.",
-      ro: "Statuia Fecioarei din Liban (Notre Dame du Liban) este un important sanctuar maronit în Harissa, situat la înălțime deasupra golfului Jounieh. Statuia din bronz vopsită în alb, cântărind 15 tone și reprezentând-o pe Fecioara Maria, a fost inaugurată în 1908 și privește binecuvântând spre Marea Mediterană. Locul de pelerinaj atrage milioane de vizitatori anual și poate fi accesat printr-o călătorie spectaculoasă cu telecabina de pe coastă.",
-      en: "The Shrine of Our Lady of Lebanon (Notre Dame du Liban) is a major Maronite sanctuary in Harissa, perched high above the Bay of Jounieh. The 15-ton, white-painted bronze statue of the Virgin Mary was inaugurated in 1908 and gazes down in blessing toward the Mediterranean Sea. The pilgrimage site attracts millions of visitors annually and can be reached via a spectacular cable car ride from the coastal city below."
-    },
-    factsAdvanced: {
-      de: ["Befindet sich in Harissa, hoch über der Stadt Jounieh.", "Die Bronzestatue wiegt 15 Tonnen und wurde in Frankreich gefertigt.", "Wurde 1908 zum 50. Jubiläum des Dogmas der Unbefleckten Empfängnis eingeweiht.", "Die Basis der Statue dient als kleine Kapelle.", "Kann mit der Teleférique-Seilbahn von Jounieh aus erreicht werden.", "Ein wichtiger Wallfahrtsort für Christen und Muslime."],
-      hu: ["Harissa hegyén áll, kilátással a Jounieh-öbölre.", "A 15 tonnás bronzszobrot Franciaországban öntötték.", "1908-ban avatták fel a Szeplőtelen Fogantatás dogmájának évfordulóján.", "A szobor talapzata egy kis kápolnát rejt.", "A Jounieh-ből induló Teleférique libegővel is elérhető.", "Keresztények és muszlimok számára egyaránt fontos zarándokhely."],
-      ro: ["Situată în Harissa, dominând orașul de coastă Jounieh.", "Statuia de bronz de 15 tone a fost fabricată în Franța.", "Inaugurată în 1908 pentru a marca o sărbătoare mariană.", "Baza statuii este o capelă mică în formă de trunchi de con.", "Poate fi accesată cu telecabina Téléphérique din Jounieh.", "Un loc de pelerinaj vizitat de creștini și musulmani."],
-      en: ["Located in Harissa, overlooking the Bay of Jounieh.", "The 15-ton bronze statue was manufactured in France.", "Inaugurated in 1908 to commemorate the dogma of the Immaculate Conception.", "The pedestal beneath the statue functions as a small chapel.", "Accessible via the Téléphérique cable car from Jounieh.", "A significant pilgrimage destination for both Christians and Muslims."]
-    }
-  },
-  {
+    {
     id: "byblos-castle-landmarks-v2",
     type: "landmark",
     parent: "LB-JL",
@@ -321,71 +289,7 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
       en: ["The principal museum of archaeology in Lebanon.", "Opened in 1942, featuring artifacts from prehistory onwards.", "Renowned for housing the Phoenician sarcophagus of King Ahiram.", "Located directly on the 'Green Line' during the civil war.", "Curators protected massive artifacts with concrete during the conflict.", "The building was designed in a French Neo-Renaissance style."]
     }
   },
-  {
-    id: "temple-of-bacchus-landmarks-v2",
-    type: "landmark",
-    parent: "LB-BH",
-    coords: [36.2039, 34.0064],
-    name: { de: "Bacchustempel", hu: "Bacchus-templom", ro: "Templul lui Bacchus", en: "Temple of Bacchus"},
-    image: "/poi-images/temple-of-bacchus-landmarks-v2.webp",
-    description: {
-      de: "Einer der am besten erhaltenen römischen Tempel der Welt, Teil der antiken Stadt Baalbek.",
-      hu: "A világ egyik legjobb állapotban fennmaradt római temploma, az ókori Baalbek része.",
-      ro: "Unul dintre cele mai bine conservate temple romane din lume, parte a orașului antic Baalbek.",
-      en: "One of the best preserved Roman temple ruins in the world, part of the ancient city of Baalbek."
-    },
-    facts: {
-      de: ["Im 2. Jahrhundert nach Christus erbaut.", "Die Säulen sind 19 Meter hoch."],
-      hu: ["A Krisztus utáni 2. században épült.", "Az oszlopok 19 méter magasak."],
-      ro: ["Construit în secolul al II-lea după Hristos.", "Coloanele au 19 metri înălțime."],
-      en: ["Built in the 2nd century AD.", "The columns are 19 meters high."]
-    }, image: "/poi-images/temple-of-bacchus-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Bacchustempel in Baalbek ist einer der am besten erhaltenen und imposantesten römischen Tempel weltweit. Er wurde im 2. Jahrhundert n. Chr. zu Ehren des Weingottes Bacchus erbaut und beeindruckt mit gigantischen, reich verzierten Säulen sowie einem prunkvollen Tor, das mit detaillierten Reliefs geschmückt ist. Als Teil des monumentalen Tempelkomplexes von Baalbek gehört er zum UNESCO-Welterbe und zeugt von der architektonischen Meisterschaft des Römischen Reiches im Nahen Osten.",
-      hu: "A baalbeki Bacchus-templom a világ egyik legjobb állapotban fennmaradt és legimpozánsabb római kori temploma. A Kr. u. 2. században épült a bor istenének tiszteletére, és gigantikus, gazdagon díszített oszlopaival, valamint részletes domborművekkel ékesített hatalmas kapujával nyűgözi le a látogatókat. A baalbeki monumentális templomegyüttes részeként az UNESCO Világörökséghez tartozik, és a Római Birodalom közel-keleti építészeti zsenialitását hirdeti.",
-      ro: "Templul lui Bacchus din Baalbek este unul dintre cele mai bine conservate și mai impunătoare temple romane din lume. A fost construit în secolul al II-lea d.Hr. în onoarea zeului vinului, Bacchus, și impresionează prin coloanele sale gigantice, bogat decorate, precum și printr-o poartă magnifică împodobită cu reliefuri detaliate. Ca parte a complexului monumental de temple din Baalbek, aparține Patrimoniului Mondial UNESCO și stă mărturie măiestriei arhitecturale a Imperiului Roman în Orientul Mijlociu.",
-      en: "The Temple of Bacchus in Baalbek is one of the best-preserved and most imposing Roman temples in the world. Built in the 2nd century AD in honor of the god of wine, it impresses with gigantic, richly decorated columns and a magnificent gateway adorned with detailed reliefs. As part of the monumental temple complex of Baalbek, it belongs to the UNESCO World Heritage list and testifies to the architectural mastery of the Roman Empire in the Middle East."
-    },
-    factsAdvanced: {
-      de: ["Einer der besterhaltenen römischen Tempel der Welt.", "Im 2. Jahrhundert n. Chr. im antiken Heliopolis (Baalbek) erbaut.", "Größer als der Parthenon in Athen.", "Verfügt über reich verzierte korinthische Säulen.", "Teil der UNESCO-Welterbestätte von Baalbek.", "Das monumentale Portal zeigt feine Reliefs von Bacchus und Ceres."],
-      hu: ["A világ egyik legépebben maradt ókori római temploma.", "A Kr. u. 2. században épült az ókori Heliopoliszban (Baalbek).", "Méreteiben felülmúlja az athéni Parthenónt is.", "Hatalmas korinthoszi oszlopok veszik körül.", "A baalbeki UNESCO Világörökségi helyszín központi eleme.", "Főbejáratát bor- és mezőgazdasági motívumokkal díszítették."],
-      ro: ["Unul dintre cele mai bine păstrate temple romane la nivel global.", "Construit în secolul al II-lea d.Hr. în Heliopolis (Baalbek).", "Este mai mare ca dimensiuni decât Partenonul din Atena.", "Prezintă coloane corintice masive și bogat ornamentate.", "Face parte din situl Patrimoniului Mondial UNESCO Baalbek.", "Poarta sa principală este sculptată cu motive legate de vin și agricultură."],
-      en: ["One of the best-preserved grand Roman temples in the world.", "Constructed during the 2nd century AD in ancient Heliopolis (Baalbek).", "Its dimensions exceed those of the Parthenon in Athens.", "Surrounded by massive, intricately carved Corinthian columns.", "A key component of the Baalbek UNESCO World Heritage site.", "The monumental entrance portal features exquisite carvings of vines."]
-    }
-  },
-  {
-    id: "sidon-sea-castle-landmarks-v2",
-    type: "landmark",
-    parent: "LB-JA",
-    coords: [35.3675, 33.5647],
-    name: { de: "Seefestung von Sidon", hu: "Szidóni tengeri erőd", ro: "Castelul Mării din Sidon", en: "Sidon Sea Castle"},
-    image: "/poi-images/sidon-sea-castle-landmarks-v2.webp",
-    description: {
-      de: "Eine Kreuzritterburg aus dem 13. Jahrhundert, die auf einer kleinen Insel vor der Küste erbaut wurde.",
-      hu: "Egy 13. századi keresztes erőd, amely a part menti kis szigetre épült.",
-      ro: "O cetate cruciată din secolul al XIII-lea construită pe o mică insulă în largul coastei.",
-      en: "A 13th-century Crusader fortress built on a small island off the coast."
-    },
-    facts: {
-      de: ["Mit dem Festland durch eine Steinbrücke verbunden.", "Erbaut auf den Ruinen eines antiken phönizischen Tempels."],
-      hu: ["A szárazfölddel egy kőhíd köti össze.", "Egy ókori föníciai templom romjaira épült."],
-      ro: ["Conectat la continent printr-un pod de piatră.", "Construit pe ruinele unui vechi templu fenician."],
-      en: ["Connected to the mainland by a stone bridge.", "Built on the ruins of an ancient Phoenician temple."]
-    }, image: "/poi-images/sidon-sea-castle-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Seefestung von Sidon ist eine historische Kreuzritterburg, die im frühen 13. Jahrhundert auf einer kleinen Insel vor der Küste erbaut wurde. Sie ist über eine steinerne Brücke mit dem Festland verbunden und besteht aus markanten Mauerblöcken, die teilweise aus antiken phönizischen und römischen Bauwerken stammen. Im Laufe der Jahrhunderte wurde die Festung mehrfach zerstört und wieder aufgebaut, insbesondere durch die Mamluken, die der Struktur ihre heutigen charakteristischen Merkmale verliehen.",
-      hu: "A Szidóni tengeri erőd egy történelmi keresztes lovagvár, amelyet a 13. század elején építettek egy kis szigeten, közvetlenül a part közelében. A szárazfölddel egy kőhíd köti össze, falai pedig olyan masszív kőtömbökből állnak, amelyek egy része ókori föníciai és római épületekből származik. Az évszázadok során többször lerombolták és újjáépítették, leginkább a mamlukok, akik kialakították az építmény mai jellegzetes formáját.",
-      ro: "Castelul Mării din Sidon este o cetate istorică a cruciaților, construită la începutul secolului al XIII-lea pe o mică insulă în largul coastei. Este legată de continent printr-un pod de piatră și este formată din blocuri de zidărie distincte, care provin parțial din structuri antice feniciene și romane. De-a lungul secolelor, cetatea a fost distrusă și reconstruită de mai multe ori, în special de către mameluci, care i-au conferit caracteristicile distinctive de astăzi.",
-      en: "The Sidon Sea Castle is a historic Crusader fortress built in the early 13th century on a small island just off the coast. It is connected to the mainland by a stone bridge and features distinctive masonry blocks, some of which were repurposed from ancient Phoenician and Roman structures. Over the centuries, the fortress was repeatedly destroyed and rebuilt, notably by the Mamluks, who gave the structure its current characteristic features."
-    },
-    factsAdvanced: {
-      de: ["Erbaut von den Kreuzfahrern im Jahr 1228.", "Befindet sich auf einer kleinen Insel im Mittelmeer.", "Eine 80 Meter lange Steinbrücke verbindet sie mit dem Festland.", "Die Mauern enthalten Säulen aus römischen Ruinen.", "Wurde von den Mamluken nach Zerstörungen wieder aufgebaut.", "Bietet einen hervorragenden Blick auf den Hafen von Sidon."],
-      hu: ["A keresztes lovagok építették 1228 körül.", "Egy apró szigeten áll a Földközi-tengerben.", "Egy 80 méter hosszú kőhíd köti össze a parttal.", "Építéséhez ókori római oszlopokat is felhasználtak.", "A mamlukok jelentősen átépítették az erődöt.", "A toronyból csodálatos kilátás nyílik Szidón kikötőjére."],
-      ro: ["Construit inițial de cruciați în anul 1228.", "Situat pe o mică insulă în Marea Mediterană.", "Un pod de piatră lung de 80 de metri îl leagă de continent.", "Zidurile incorporează coloane preluate din ruine romane.", "A fost restaurat și modificat semnificativ de mameluci.", "Oferă vederi pitorești asupra portului antic Sidon."],
-      en: ["Erected by the Crusaders in the year 1228.", "Located on a small islet in the Mediterranean Sea.", "Connected to the mainland by an 80-meter stone bridge.", "The walls incorporate reused columns from earlier Roman eras.", "Significantly altered and rebuilt by the Mamluks.", "Provides excellent panoramic views of the modern port of Sidon."]
-    }
-  },
-  {
+      {
     id: "baatara-gorge-waterfall-landmarks-v2",
     type: "landmark",
     parent: "LB-AS",
@@ -417,39 +321,7 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
       en: ["Often referred to as the Cave of the Three Bridges.", "The waterfall drops 255 meters into a limestone sinkhole.", "Features three naturally formed rock bridges spanning the gorge.", "Flows most powerfully during the spring snowmelt.", "Located near the town of Tannourine in the Mount Lebanon range.", "The limestone formation dates back to the Jurassic period."]
     }
   },
-  {
-    id: "beaufort-castle-landmarks-v2",
-    type: "landmark",
-    parent: "LB-NA",
-    coords: [35.5317, 33.3217],
-    name: { de: "Burg Beaufort", hu: "Beaufort vár", ro: "Castelul Beaufort", en: "Beaufort Castle"},
-    image: "/poi-images/beaufort-castle-landmarks-v2.webp",
-    description: {
-      de: "Eine beeindruckende Kreuzritterfestung auf einem Hügel mit strategischem Blick über den Südlibanon.",
-      hu: "Egy lenyűgöző keresztes erődítmény egy dombon, stratégiai kilátással Dél-Libanonra.",
-      ro: "O fortăreață cruciată impresionantă pe un deal cu o vedere strategică asupra sudului Libanului.",
-      en: "An impressive Crusader fortress on a hill offering a strategic view over southern Lebanon."
-    },
-    facts: {
-      de: ["Der Name bedeutet 'Schöne Festung'.", "Wurde im 12. Jahrhundert erobert."],
-      hu: ["A név jelentése 'Szép erőd'.", "A 12. században hódították meg."],
-      ro: ["Numele înseamnă 'Fortăreață Frumoasă'.", "A fost cucerită în secolul al XII-lea."],
-      en: ["The name means 'Beautiful Fortress'.", "Was conquered in the 12th century."]
-    }, image: "/poi-images/beaufort-castle-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Burg Beaufort, lokal als Qalaat al-Shaqif bekannt, ist eine strategisch bedeutsame Festung auf einem markanten Felsvorsprung im Südlibanon. Ursprünglich von den Kreuzfahrern im 12. Jahrhundert erbaut, thront sie hoch über dem Litani-Fluss und bietet einen weiten Blick über die umliegenden Täler. Aufgrund ihrer herausragenden militärischen Lage war die Burg über Jahrhunderte Schauplatz zahlreicher Konflikte und wurde von verschiedenen Mächten, darunter Saladin und den Mamluken, erobert und erweitert.",
-      hu: "A Beaufort-vár, helyi nevén Qalaat al-Shaqif, egy stratégiai fontosságú erődítmény egy kiemelkedő sziklaszirten Dél-Libanonban. Eredetileg a keresztes lovagok építették a 12. században, és magasan a Litani-folyó felett magasodik, ahonnan belátni az egész környező völgyrendszert. Kiemelkedő katonai elhelyezkedése miatt a vár évszázadokon át számos konfliktus helyszíne volt, és különböző hatalmak, köztük Szaladin és a mamlukok is elfoglalták és kibővítették.",
-      ro: "Castelul Beaufort, cunoscut local sub numele de Qalaat al-Shaqif, este o fortăreață importantă din punct de vedere strategic, situată pe un promontoriu stâncos proeminent din sudul Libanului. Construit inițial de cruciați în secolul al XII-lea, tronează la înălțime deasupra râului Litani și oferă o vedere largă asupra văilor din jur. Datorită poziției sale militare remarcabile, castelul a fost scena a numeroase conflicte de-a lungul secolelor și a fost capturat și extins de diferite puteri, inclusiv de Saladin și de mameluci.",
-      en: "Beaufort Castle, known locally as Qalaat al-Shaqif, is a strategically significant fortress perched on a prominent rocky outcrop in southern Lebanon. Originally built by the Crusaders in the 12th century, it towers high above the Litani River, commanding sweeping views over the surrounding valleys. Due to its exceptional military position, the castle was the site of numerous conflicts over the centuries and was captured and expanded by various powers, including Saladin and the Mamluks."
-    },
-    factsAdvanced: {
-      de: ["Kreuzritterburg auf einer 1000 Meter hohen Klippe.", "Bietet einen strategischen Blick über den Litani-Fluss.", "Erbaut im 12. Jahrhundert von den fränkischen Kreuzfahrern.", "1190 von Saladin nach langer Belagerung eingenommen.", "Im 13. Jahrhundert von den Tempelrittern erweitert.", "Die Burg war bis ins 20. Jahrhundert militärisch umkämpft."],
-      hu: ["Keresztes lovagvár egy 1000 méter magas szirten Dél-Libanonban.", "Stratégiai rálátást biztosít a Litani-folyó völgyére.", "A 12. században építették a frank keresztesek.", "Szaladin szultán hosszú ostrom után, 1190-ben foglalta el.", "Később a templomos lovagrend birtokolta és bővítette.", "Még a 20. században is fontos katonai bázisként szolgált."],
-      ro: ["Castel cruciat situat pe o stâncă de 1000 de metri altitudine.", "Oferă o vedere strategică deasupra defileului râului Litani.", "Construit de cruciații franci în secolul al XII-lea.", "Capturat de Saladin în 1190 după un asediu prelungit.", "Achiziționat și fortificat de Cavalerii Templieri în secolul XIII.", "A fost un punct de conflict militar chiar și în secolul XX."],
-      en: ["A Crusader castle situated on a 1,000-meter-high cliff.", "Commands a strategic vantage point over the Litani River.", "Constructed by Frankish Crusaders during the 12th century.", "Captured by Saladin in 1190 following a lengthy siege.", "Acquired and heavily fortified by the Knights Templar.", "The site remained militarily contested well into the late 20th century."]
-    }
-  },
-  {
+    {
     id: "mzaar-kfardebian-landmarks-v2",
     type: "landmark",
     parent: "LB-JL",
@@ -577,39 +449,7 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
       en: ["An ancient public bath complex situated in downtown Beirut.", "Accidentally rediscovered during construction work in 1968.", "The brick pillars of the hypocaust heating system are clearly visible.", "Constructed during the Roman period in the 1st century AD.", "Included traditional cold, warm, and hot bathing chambers.", "The site now functions as an archaeological park and event venue."]
     }
   },
-  {
-    id: "tyre-hippodrome-landmarks-v2",
-    type: "landmark",
-    parent: "LB-JA",
-    coords: [35.2133, 33.2689],
-    name: { de: "Hippodrom von Tyros", hu: "Türoszi hippodrom", ro: "Hipodromul din Tir", en: "Tyre Hippodrome"},
-    image: "/poi-images/tyre-hippodrome-landmarks-v2.webp",
-    description: {
-      de: "Ein gigantisches antikes Stadion für Wagenrennen, das heute zu den UNESCO-Weltkulturerbestätten gehört.",
-      hu: "Egy hatalmas ókori stadion szekérversenyekhez, amely ma az UNESCO világörökség része.",
-      ro: "Un stadion antic gigantic pentru curse de care, care face astăzi parte din Patrimoniul Mondial UNESCO.",
-      en: "A gigantic ancient stadium for chariot racing, now part of a UNESCO World Heritage site."
-    },
-    facts: {
-      de: ["Es bot Platz für 20.000 Zuschauer.", "Gilt als das am besten erhaltene römische Hippodrom."],
-      hu: ["20 000 néző számára biztosított helyet.", "A legjobb állapotban fennmaradt római hippodromként tartják számon."],
-      ro: ["A oferit spațiu pentru 20.000 de spectatori.", "Este considerat cel mai bine conservat hipodrom roman."],
-      en: ["It offered space for 20,000 spectators.", "Considered the best-preserved Roman hippodrome."]
-    }, image: "/poi-images/tyre-hippodrome-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "Das Hippodrom von Tyros ist eine der größten und am besten erhaltenen Pferderennbahnen der römischen Welt und Teil einer riesigen archäologischen Stätte im Südlibanon. Die im 2. Jahrhundert n. Chr. erbaute Anlage bot auf ihren steinernen Tribünen Platz für bis zu 20.000 Zuschauer, die den spannenden Wagenrennen beiwohnten. Neben der monumentalen Rennbahn umfasst das Areal auch eine ausgedehnte römische Nekropole und einen gut erhaltenen Triumphbogen, was den Ort zu einem der bedeutendsten UNESCO-Welterbestätten der Region macht.",
-      hu: "A türoszi hippodrom a római világ egyik legnagyobb és legjobb állapotban fennmaradt lóversenypályája, amely egy hatalmas dél-libanoni régészeti lelőhely része. A Kr. u. 2. században épült létesítmény kőlelátóin akár 20 000 néző is helyet foglalhatott, hogy végignézze az izgalmas kocsiversenyeket. A monumentális versenypálya mellett a területen egy kiterjedt római nekropolisz és egy épen maradt diadalív is található, ami a régió egyik legfontosabb UNESCO világörökségi helyszínévé teszi.",
-      ro: "Hipodromul din Tir este una dintre cele mai mari și mai bine conservate piste de curse din lumea romană și face parte dintr-un vast sit arheologic din sudul Libanului. Construită în secolul al II-lea d.Hr., structura oferea locuri pe tribunele sale de piatră pentru până la 20.000 de spectatori care veneau să asiste la cursele palpitante de care. Pe lângă pista monumentală, zona include și o extinsă necropolă romană și un arc de triumf bine conservat, făcând din acest loc unul dintre cele mai importante situri UNESCO din regiune.",
-      en: "The Tyre Hippodrome is one of the largest and best-preserved racecourses of the Roman world, forming part of a vast archaeological site in southern Lebanon. Built in the 2nd century AD, the facility provided seating on its stone tribunes for up to 20,000 spectators who attended thrilling chariot races. In addition to the monumental racecourse, the area also encompasses an extensive Roman necropolis and a well-preserved triumphal arch, making it one of the region's most significant UNESCO World Heritage sites."
-    },
-    factsAdvanced: {
-      de: ["Eines der größten römischen Hippodrome der Antike.", "Erbaut im 2. Jahrhundert n. Chr. für Wagenrennen.", "Bot Platz für rund 20.000 Zuschauer auf Steintribünen.", "Das Gelände umfasst auch eine große römische Nekropole.", "Teil der UNESCO-Welterbestätte von Tyros.", "In der Mitte der Arena befand sich ein Granitobelisk."],
-      hu: ["Az ókor egyik legnagyobb és legépebb római hippodromja.", "A Kr. u. 2. században épült izgalmas harcikocsi-versenyekhez.", "Kőlelátóin egykor 20 000 néző fért el kényelmesen.", "A komplexum mellett egy hatalmas római nekropolisz terül el.", "A türoszi UNESCO Világörökségi lelőhely kulcsfontosságú része.", "A versenypálya közepét (spina) egy gránit obeliszk díszítette."],
-      ro: ["Unul dintre cele mai mari hipodromuri romane din antichitate.", "Construit în secolul al II-lea d.Hr. pentru curse de care.", "Tribunele de piatră puteau găzdui aproximativ 20.000 de spectatori.", "Situl arheologic include și o vastă necropolă romană adiacentă.", "Este o componentă majoră a sitului UNESCO din Tir.", "Pista centrală (spina) avea un obelisc de granit."],
-      en: ["Ranked among the largest and best-preserved Roman hippodromes.", "Built in the 2nd century AD primarily for chariot racing.", "The stone grandstands could seat an estimated 20,000 spectators.", "The surrounding archaeological area includes a massive Roman necropolis.", "A major component of the Tyre UNESCO World Heritage site.", "An ancient granite obelisk once stood in the center of the track."]
-    }
-  },
-  {
+    {
     id: "ksara-caves-landmarks-v2",
     type: "landmark",
     parent: "LB-BI",

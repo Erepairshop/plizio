@@ -2,43 +2,7 @@
 import type { POI } from "./poi";
 
 export const poiExtraMalaysiaNatureV2: POI[] = [
-  {
-    id: "gunung-mulu-national-park-nature-v2",
-    type: "national-park",
-    parent: "MY-13",
-    coords: [114.9219, 4.0475],
-    name: {
-      de: "Gunung-Mulu-Nationalpark",
-      hu: "Gunung Mulu Nemzeti Park",
-      ro: "Parcul Național Gunung Mulu",
-      en: "Gunung Mulu National Park"},
-    image: "/poi-images/gunung-mulu-national-park-nature-v2.webp",
-    description: {
-      de: "Ein UNESCO-Weltkulturerbe in Sarawak, bekannt für seine beeindruckenden Höhlen und Karstformationen inmitten eines artenreichen Regenwaldes.",
-      hu: "Az UNESCO Világörökség része Sarawakban, amely lenyűgöző barlangjairól és karsztképződményeiről híres egy fajokban gazdag esőerdő közepén.",
-      ro: "Un sit al Patrimoniului Mondial UNESCO din Sarawak, renumit pentru peșterile sale impresionante și formațiunile carstice în mijlocul unei păduri tropicale bogate în specii.",
-      en: "A UNESCO World Heritage Site in Sarawak, famous for its impressive caves and karst formations in the middle of a species-rich rainforest."
-    },
-    facts: {
-      de: ["Beherbergt eine der größten Höhlenkammern der Welt.", "Heimat von Millionen von Fledermäusen.", "Bietet anspruchsvolle Wanderwege und Gipfelbesteigungen."],
-      hu: ["A világ egyik legnagyobb barlangterme itt található.", "Több millió denevér otthona.", "Kihívást jelentő túraútvonalakat és csúcsmászásokat kínál."],
-      ro: ["Găzduiește una dintre cele mai mari camere de peșteră din lume.", "Acasă pentru milioane de lilieci.", "Oferă trasee de drumeții provocatoare și ascensiuni pe vârfuri."],
-      en: ["Home to one of the world's largest cave chambers.", "Home to millions of bats.", "Offers challenging trekking trails and peak climbing."]
-    }, image: "/poi-images/gunung-mulu-national-park-nature-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Gunung Mulu Nationalpark in Sarawak ist eine unbezwingbare Wildnis und ein geologisches Wunderwerk, das völlig isoliert vom modernen Straßennetz liegt. Dominiert von drei markanten Bergen, ist die Region vor allem für ihre gigantischen unterirdischen Karsthöhlensysteme weltberühmt. Tief unter dem dichten Primärregenwald winden sich gewaltige Höhlen wie das Clearwater Cave System, das zu den längsten der Welt zählt, und die Deer Cave, die ein massives Portal besitzt, aus dem bei Sonnenuntergang Millionen Fledermäuse strömen. Über der Erde erheben sich die Pinnacles, extrem scharfe und spitze Kalksteinnadeln, die sich wie Klingen in den Himmel bohren. Der Erhalt dieses hochkomplexen und fragilen Ökosystems führte im Jahr 2000 zur Anerkennung als UNESCO-Weltnaturerbe. Geografie K8 — Karstgeologie und isolierte Tropenökosysteme.",
-      hu: "A Gunung Mulu Nemzeti Park egy geológiai és biológiai csoda Sarawak állam dzsungelének mélyén, amelyet az UNESCO Természeti Világörökségként tart számon. Karsztvidéke a világ legösszetettebb és leginkább feltárt trópusi barlangrendszerét rejti, köztük a hírhedt Sarawak-kamrát (a világ legnagyobb egybefüggő barlangtermét) és a szarvasokról elnevezett Deer-barlangot, ahonnan esténként hárommillió ráncosajkú denevér repül ki hatalmas sötét felhőt formálva. A felszínt az úgynevezett 'Pinnacles', az akár 50 méter magas, borotvaéles mészkőtűk uralják, amelyek a heves trópusi esőzések évmilliókig tartó eróziójának eredményei. A park annyira elzárt, hogy aszfaltozott út nem vezet ide, csupán kisrepülővel vagy a folyón hajózva (longboat) közelíthető meg. Földrajz és biológia tantárgyak számára a karsztosodási folyamatok és az izolált ökoszisztémák egyedülálló példája.",
-      ro: "Parcul Național Gunung Mulu este un element remarcabil al geografiei și culturii malaeziene. Un sit al Patrimoniului Mondial UNESCO din Sarawak, renumit pentru peșterile sale impresionante și formațiunile carstice în mijlocul unei păduri tropicale bogate în specii. Găzduiește una dintre cele mai mari camere de peșteră din lume. Acasă pentru milioane de lilieci. Oferă trasee de drumeții provocatoare și ascensiuni pe vârfuri. Această zonă naturală reflectă diversitatea peisajului Malaeziei, de la Peninsula Malaya, prin insulele Strâmtorii Malacca, până în Borneo. Asemenea multor locuri importante din Malaezia, acesta îmbină particularitățile regionale cu moștenirea societății multiculturale malaeze-chineze-indiene și a tropicelor. Astfel, acest loc contribuie la profilul variat al Malaeziei, între Kuala Lumpur, Borneo, plantațiile de palmier și pădurea tropicală.",
-      en: "Gunung Mulu National Park in Sarawak is a UNESCO World Heritage site renowned for its exceptional biodiversity and stunning karst landscapes. The park is dominated by Gunung Mulu, a 2,377-meter-high sandstone pinnacle. It is most famous for its extensive cave systems, including the world's largest cave chamber, the Sarawak Chamber, which is large enough to hold 40 Boeing 747 aircraft. The park also features the Deer Cave, which has one of the world's largest cave passages and is home to millions of bats. The headhunter's trail, a historic route used by warring tribes, is now a popular trekking route. The park's rich ecosystem supports thousands of species of ferns, fungi, and flowering plants."
-    },
-    factsAdvanced: {
-      de: ["Der Nationalpark umfasst eine geschützte Gesamtfläche von 528 Quadratkilometern.", "Die Sarawak Chamber ist die volumenmäßig größte unterirdische Kammer der Welt.", "Der Park wurde im Jahr 2000 als UNESCO-Weltnaturerbe ausgezeichnet.", "Das Clearwater Cave System hat eine vermessene Länge von über 227 Kilometern.", "Die extrem scharfen Pinnacles bestehen aus bis zu 50 Meter hohem Kalkstein.", "Der Park kann nur über Kleinflugzeuge oder lange Bootstrips erreicht werden."],
-      hu: ["A parkot az UNESCO 2000-ben Természeti Világörökségi helyszínné nyilvánította.", "Itt található a Sarawak-kamra, amelyben mintegy 40 Boeing 747-es repülőgép elférne.", "A Deer-barlang a világ egyik legszélesebb barlangbejáratával rendelkezik.", "Az erdő fölé emelkedő mészkőtűket (Pinnacles) csak többnapos extrém túrával lehet elérni.", "A Clearwater-barlang (Gua Air Jernih) hálózatának hossza meghaladja a 220 kilométert.", "A területhez nem vezet közút, logisztikája teljesen a folyami és légi közlekedésre épül."],
-      ro: ["Un sit al Patrimoniului Mondial UNESCO din Sarawak, renumit pentru peșterile sale impresionante și formațiunile carstice în mijlocul unei păduri tropicale bogate în specii.", "Se află pe teritoriul Federației Malaeziei.", "Este modelat de climatul musonic tropical din Asia de Sud-Est.", "Este legat de moștenirea Sultanatului Malacca și a perioadei coloniale britanice."],
-      en: ["UNESCO World Heritage Site: Inscribed in 2000.", "Sarawak Chamber: The largest known cave chamber in the world by area.", "Deer Cave: Home to an estimated 3 million bats, which exit in a spectacular 'bat exodus' each evening.", "The Pinnacles: A series of 45-meter high, sharp limestone spikes on the slopes of Gunung Api.", "Area: Covers an area of 528.64 square kilometers.", "Highest peak: Gunung Mulu at 2,377 meters.", "Biodiversity: Over 3,500 species of vascular plants have been recorded.", "Accessibility: The park is only accessible by air or by a long boat journey."]
-    }
-  },
-  {
+    {
     id: "taman-negara-national-park-nature-v2",
     type: "national-park",
     parent: "MY-06",

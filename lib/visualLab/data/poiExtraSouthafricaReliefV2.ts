@@ -2,61 +2,7 @@
 import type { POI } from "./poi";
 
 export const poiExtraSouthafricaReliefV2: POI[] = [
-  {
-    id: "drakensberg-relief-v2",
-    type: "mountain",
-    parent: "ZA-KZN",
-    coords: [29.288, -29.355],
-    name: { de: "Drakensberge", hu: "Drakensberg", ro: "Munții Drakensberg", en: "Drakensberg"},
-    image: "/poi-images/drakensberg-relief-v2.webp",
-    description: { de: "Das höchste Gebirge Südafrikas mit markanten Gipfeln.", hu: "Dél-Afrika legmagasabb hegysége látványos csúcsokkal.", ro: "Cel mai înalt lanț muntos din Africa de Sud cu vârfuri spectaculoase.", en: "The highest mountain range in South Africa with striking peaks." },
-    facts: {
-      de: ["Höchster Gipfel Thabana Ntlenyana.", "Teil des UNESCO-Welterbes.", "Bekannt als 'uKhahlamba'."],
-      hu: ["Legmagasabb csúcs: Thabana Ntlenyana.", "UNESCO világörökség része.", "Ismert 'uKhahlamba'-ként is."],
-      ro: ["Vârful cel mai înalt: Thabana Ntlenyana.", "Parte a Patrimoniului Mondial UNESCO.", "Cunoscut și ca 'uKhahlamba'."],
-      en: ["Highest peak: Thabana Ntlenyana.", "Part of UNESCO World Heritage.", "Known as 'uKhahlamba'."]
-    }, image: "/poi-images/drakensberg-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Drakensberge im Osten Südafrikas sind das höchste Gebirge des Landes, mit Gipfeln über 3.000 m. Sie erstrecken sich über 1.000 km von Ostkap bis Mpumalanga. Der höchste Gipfel, der Mafadi, erreicht 3.450 m. Die Berge entstanden durch Vulkanismus vor 180 Millionen Jahren. Sie sind UNESCO-Weltkulturerbe für ihre San-Felsmalereien. Die Region ist reich an Flora mit endemischen Arten.",
-      hu: "A Drakensberg-hegység Dél-Afrika legmagasabb hegylánca, leghosszabb része 200 km. A legmagasabb csúcs a Thabana Ntlenyana (Lesotho) mellett a Mafadi (3450 m). A hegység vulkanikus eredetű, bazalt rétegekkel. Az UNESCO világörökség része (uKhahlamba park). A növényzet alpesi réteket és erdőket foglal magában. Itt él a veszélyeztetett fehérfarkú sas.",
-      ro: "Munții Dragonului (Drakensberg) formează o barieră naturală între Africa de Sud și Lesotho. Cel mai înalt vârf este Mafadi (3.450 m). Lanțul muntos se întinde pe 1.000 km. Este recunoscut de UNESCO pentru peisaj și picturile rupestre San. Clima variază de la subtropical la alpin. Specii endemice: țestoasa Drakensberg și 39 de specii de plante.",
-      en: "The Drakensberg Mountains extend over 1,000 km, forming the eastern escarpment. The highest peak Mafadi reaches 3,450 m. The range is a UNESCO World Heritage Site (Maloti-Drakensberg Park) for its natural beauty and San rock art. The vegetation includes Afro-alpine grasslands and forests. The mountains are a major source of water for the region, with many rivers rising here.",
-    },
-    factsAdvanced: {
-      de: ["Höchster Gipfel: Mafadi (3.450 m)", "Länge: 1.000 km", "Alter: 180 Millionen Jahre", "UNESCO-Welterbe seit 2000", "San-Felsmalereien: über 35.000 Abbildungen", "Endemische Pflanzen: 146 Arten"],
-      hu: ["Legmagasabb: Mafadi (3450 m)", "Hossz: 200 km a lesothoi határ mentén", "Vulkanikus bazalt vastagság: 1.000 m", "UNESCO világörökség: uKhahlamba park (2000)", "San sziklarajzok: 35.000 darab", "Védett madárfajok: 45"],
-      ro: ["Vârf: Mafadi (3.450 m)", "Lungime: 1.000 km", "Altitudine medie: 2.000 m", "UNESCO din 2000", "Picturi rupestre: peste 35.000", "Parcul Maloti-Drakensberg: 2.428 km²"],
-      en: ["Highest peak: Mafadi at 3,450 m", "Total length: 1,000 km", "Part of the Great Escarpment", "UNESCO site since 2000", "San rock art: over 35,000 images", "Alpine zone above 2,800 m"],
-    },
-  },
-  {
-    id: "table-mountain-relief-v2",
-    type: "mountain",
-    parent: "ZA-WC",
-    coords: [18.406, -33.963],
-    name: { de: "Tafelberg", hu: "Tábla-hegy", ro: "Muntele Masă", en: "Table Mountain"},
-    image: "/poi-images/table-mountain-relief-v2.webp",
-    description: { de: "Ein markanter, flacher Berg über Kapstadt.", hu: "Jellegzetes, lapos tetejű hegy Fokváros felett.", ro: "Un munte plat caracteristic deasupra orașului Cape Town.", en: "A striking, flat-topped mountain above Cape Town." },
-    facts: {
-      de: ["Höhe ca. 1086 m.", "Wahrzeichen Kapstadts.", "Nationalpark-Gebiet."],
-      hu: ["Magassága kb. 1086 m.", "Fokváros jelképe.", "Nemzeti park terület."],
-      ro: ["Înălțime aprox. 1086 m.", "Simbolul orașului Cape Town.", "Zonă de parc național."],
-      en: ["Height approx. 1086 m.", "Cape Town's landmark.", "National Park area."]
-    }, image: "/poi-images/table-mountain-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Tafelberg in Kapstadt ist ein 1.085 m hoher Tafelberg mit einer 3 km langen flachen Spitze. Er ist das Wahrzeichen der Stadt und ein UNESCO-Welterbe. Die Felsen bestehen aus quarzitischem Sandstein (Ordovizium). Die Vegetation ist endemischer Kap-Fynbos mit über 1.400 Pflanzenarten. Die Tafelbucht und der City Bowl liegen zu seinen Füßen. Der Berg ist Teil des Tafelberg-Nationalparks.",
-      hu: "A Tábla-hegy (Table Mountain) Fokváros ikonikus hegye, 1085 m magas. A lapos tetejét gyakran felhők borítják (abrosz). A hegy geológiailag 500 millió éves tengeri üledékből áll. A fynbos növényzet 1470 fajt számlál. A hegycsúcsra siklóval lehet feljutni, 1929 óta működik. A parkba 1998-ban nyilvánították.",
-      ro: "Masa Table Mountain (Muntele Masa) are o altitudine de 1.085 m și o suprafață plată de 3 km. Este un simbol al orașului Cape Town, desemnat sit UNESCO în 1998. Formațiunea de gresie datează de 500 de milioane de ani. Endemismele vegetale sunt unice: 1.470 de specii de plante, majoritatea fynbos. Trasee de drumeție: 20. Telecabina transportă 2.000 de persoane pe oră.",
-      en: "Table Mountain rises 1,085 m above Cape Town, its flat top spanning 3 km. A UNESCO Global Geopark, it is composed of Cape Supergroup sandstone. The mountain hosts 1,470 floral species, many endemic. It was declared a national park in 1998. The iconic aerial cableway, operational since 1929, carries millions of visitors. Historically, the mountain was used as a navigation landmark by early explorers.",
-    },
-    factsAdvanced: {
-      de: ["Höhe: 1.085 m", "Länge der Spitze: 3 km", "Alter: 500 Millionen Jahre", "Pflanzenarten: über 1.400", "Sesselbahn: 1929 eröffnet", "Nationalpark seit 1998"],
-      hu: ["Magasság: 1085 m", "Lapos tetejű terület: 3 km × 0,5 km", "Kora: 500 millió év", "Növényfaj: 1470", "Siklóvasút hossza: 1,2 km", "Látogatók évente: 2 millió"],
-      ro: ["Înălțime: 1.085 m", "Suprafața plată: 3 km lungime", "Vârsta: 500 milioane de ani", "Specii de plante: 1.470", "Telecabina: lungime 1.220 m, cădere 792 m", "Parcul Național Table Mountain: 22.000 ha"],
-      en: ["Elevation: 1,085 m", "Tabletop area: 3 km long", "Geological age: 500 million years", "Cableway opened: 1929", "Plants: 1,470 species", "National park size: 22,000 ha"],
-    },
-  },
-  {
+      {
     id: "cederberg-relief-v2",
     type: "mountain",
     parent: "ZA-WC",
@@ -83,34 +29,7 @@ export const poiExtraSouthafricaReliefV2: POI[] = [
       en: ["Highest peak: Sneeuberg at 2,026 m", "Protected area: 71,000 ha", "Established as wilderness: 1973", "Clanwilliam cedar: fewer than 2,000 individuals", "Rock art sites: over 2,500", "Hiking trails: 150 km total"],
     },
   },
-  {
-    id: "swartberg-relief-v2",
-    type: "mountain",
-    parent: "ZA-WC",
-    coords: [22.0, -33.3],
-    name: { de: "Swartberge", hu: "Swartberg-hegység", ro: "Munții Swartberg", en: "Swartberg Mountains"},
-    image: "/poi-images/swartberg-relief-v2.webp",
-    description: { de: "Eine beeindruckende Bergkette in der Kleinen Karoo.", hu: "Lenyűgöző hegylánc a Kis-Karoo régióban.", ro: "Un lanț muntos impresionant în regiunea Little Karoo.", en: "An impressive mountain range in the Little Karoo." },
-    facts: {
-      de: ["Swartberg-Pass ist eine berühmte Route.", "Teil der Kap-Faltengebirge.", "Hohe geologische Vielfalt."],
-      hu: ["A Swartberg-hágó híres útvonal.", "A Fokföldi-hegyrendszer része.", "Magas geológiai változatosság."],
-      ro: ["Trecătoarea Swartberg este o rută celebră.", "Parte a lanțului muntos Cape Fold.", "Diversitate geologică mare."],
-      en: ["Swartberg Pass is a famous route.", "Part of Cape Fold Belt.", "High geological diversity."]
-    }, image: "/poi-images/swartberg-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Das Swartberg-Gebirge (Schwarzes Gebirge) in der Westkap-Provinz ist ein Teil der Kapfaltengebirge. Der höchste Gipfel ist der Seweweekspoort (2.325 m). Die Berge bestehen aus devonischem Quarzit und Schiefer. Der Swartberg-Pass (69 km) ist eine berühmte Schotterstraße, die Oudtshoorn verbindet. Die Flora umfasst den Fynbos-Busch. Das Gebirge ist Teil des Cape Floral Kingdom UNESCO-Welterbes.",
-      hu: "A Swartberg (Fekete-hegység) a Nyugat-Fokföldön húzódik, leghosszabb része 80 km. A legmagasabb csúcs a Seweweekspoort (2325 m). A hegységet a Swartberg-hágó szeli át, amely 69 km hosszú és 1922-ben épült. A növényzet fynbos, 500 fajjal. A terület a Fokföldi Virágzóna része. Az éghajlat mediterrán, télen havazás is előfordul.",
-      ro: "Munții Swartberg se întind pe 80 km, cu vârful Seweweekspoort la 2.325 m. Trece prin ei Pasul Swartberg, un drum de pietriș de 69 km construit în 1922. Zona face parte din Regiunea Floristică a Capului, sit UNESCO. Vegetația este fynbos, cu 500 de specii. Clima este mediteraneană, cu precipitații de 300-600 mm/an. În trecut, a fost exploatat pentru aur și șisturi bituminoase.",
-      en: "The Swartberg Mountains run roughly east-west for 80 km in the Western Cape. The highest point is Seweweekspoort Peak at 2,325 m. The Swartberg Pass, built by convicts between 1881 and 1888, is a gravel road connecting the Great Karoo to the Little Karoo. The mountains are part of the Cape Fold Belt. The area is rich in endemic plants and fossil evidence.",
-    },
-    factsAdvanced: {
-      de: ["Höchster Gipfel: Seweweekspoort (2.325 m)", "Länge: 80 km", "Swartberg-Pass: 69 km Schotterstraße", "Baujahr: 1881-1888", "Teil des Kap-Faltengebirges", "Fynbos-Arten: 500"],
-      hu: ["Legmagasabb: Seweweekspoort (2325 m)", "Hossz: 80 km", "Swartberg-hágó: 69 km hossz, 1922-ben adták át", "Építők: 600 elítélt", "Átlagos magasság: 1500 m", "Téli hóvastagság: akár 30 cm"],
-      ro: ["Vârf: Seweweekspoort (2.325 m)", "Lungime: 80 km", "Pasul Swartberg: 69 km drum de pietriș", "Construit între 1881-1888", "Altitudine medie: 1.500 m", "Parte a Patrimoniului UNESCO Cape Floral Region"],
-      en: ["Highest peak: Seweweekspoort at 2,325 m", "Length of range: 80 km", "Swartberg Pass: 69 km gravel road", "Construction: 1881-1888 by convicts", "Part of Cape Fold Belt", "UNESCO World Heritage site (Cape Floral Kingdom)"],
-    },
-  },
-  {
+    {
     id: "outeniqua-relief-v2",
     type: "mountain",
     parent: "ZA-WC",

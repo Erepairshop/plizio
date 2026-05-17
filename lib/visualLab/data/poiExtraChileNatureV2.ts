@@ -2,38 +2,7 @@
 import type { POI } from "./poi";
 
 export const poiExtraChileNatureV2: POI[] = [
-  {
-    id: "parque-nacional-lauca-nature-v2",
-    type: "nature",
-    parent: "CL-AP",
-    coords: [-69.3000, -18.2000],
-    name: {
-      de: "Nationalpark Lauca",
-      hu: "Lauca Nemzeti Park",
-      ro: "Parcul Național Lauca",
-      en: "Lauca National Park"},
-    image: "/poi-images/parque-nacional-lauca-nature-v2.webp",
-    descriptionAdvanced: {
-      ro: "Parcul Național Lauca, situat la mare altitudine în Anzii nordici, este un ecosistem unic de tip 'altiplano', dominat de lacul Chungará și vulcanii din apropiere. Această zonă protejată găzduiește o faună specifică zonelor alpine, precum vicuñas, alpaca și numeroase specii de păsări endemice, fiind un punct de interes pentru ornitologi și pasionați de fotografie. Peisajul este marcat de bofedales (zone umede de mare altitudine) care sunt vitale pentru supraviețuirea speciilor în mediul arid și rece al Anzilor. Lauca reprezintă un ecosistem extrem de fragil și spectaculos, esențial pentru înțelegerea adaptării biologice la altitudine. Geografie K7 — ecosisteme alpine."
-    },
-    factsAdvanced: {
-      ro: ["Altitudine: Mare (Altiplano)", "Repere: Lacul Chungará, vulcani", "Faună: Vicuñas, alpaca, păsări endemice", "Specific: Bofedales (zone umede)", "Mediu: Alpin, arid și rece", "Importanță: Ecosistem fragil"]
-    },
-    description: {
-      de: "Ein atemberaubendes Hochgebirgsökosystem in den chilenischen Anden mit dem Chungará-See und vulkanischen Gipfeln.",
-      hu: "Lélegzetelállító magashegyi ökoszisztéma a chilei Andokban, a Chungará-tóval és vulkáni csúcsokkal.",
-      ro: "Un ecosistem spectaculos de mare altitudine în Anzii chilieni, cu Lacul Chungará și vârfuri vulcanice.",
-      en: "A spectacular high-altitude ecosystem in the Chilean Andes with Chungará Lake and volcanic peaks."
-    },
-    
-    
-    facts: {
-      de: ["Der Chungará-See liegt über 4.500 m hoch.", "Der Park beheimatet die Vulkane Parinacota und Pomerape."],
-      hu: ["A Chungará-tó több mint 4500 méter magasan fekszik.", "A park otthont ad a Parinacota és Pomerape vulkánoknak."],
-      ro: ["Lacul Chungará se află la peste 4.500 m altitudine.", "Parcul găzduiește vulcanii Parinacota și Pomerape."],
-      en: ["Chungará Lake is over 4,500m above sea level.", "The park is home to the Parinacota and Pomerape volcanoes."]
-    }, image: "/poi-images/parque-nacional-lauca-nature-v2.webp"},
-  {
+    {
     id: "parque-nacional-torres-del-paine-nature-v2",
     type: "nature",
     parent: "CL-MA",

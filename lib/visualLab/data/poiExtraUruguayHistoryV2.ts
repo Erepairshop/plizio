@@ -28,33 +28,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       ro: ["A fost finalizată în 1809.", "A servit și ca far."],
       en: ["It was completed in 1809.", "It also served as a lighthouse."]
     }, image: "/poi-images/fortaleza-del-cerro-history-v2.webp"},
-  {
-    id: "palacio-salvo-history-v2",
-    type: "historical",
-    parent: "UY-MO",
-    coords: [-56.1983, -34.9064],
-    name: {
-      de: "Palacio Salvo",
-      hu: "Salvo-palota",
-      ro: "Palatul Salvo",
-      en: "Salvo Palace"},
-    image: "/poi-images/palacio-salvo-history-v2.webp",
-    description: {
-      de: "Ein emblematisches Gebäude in Montevideo, das bei seiner Fertigstellung 1928 das höchste Gebäude Südamerikas war.",
-      hu: "Montevideo emblematikus épülete, amely 1928-as elkészültekor Dél-Amerika legmagasabb épülete volt.",
-      ro: "O clădire emblematică din Montevideo, care la finalizarea sa în 1928 era cea mai înaltă clădire din America de Sud.",
-      en: "An emblematic building in Montevideo, which was the tallest building in South America upon its completion in 1928." },
-    descriptionAdvanced: { de: "Palacio Salvo prägt die Silhouette an der Plaza Independencia wie ein Archiv aus Stein und Beton. Als das Gebäude 1928 fertig wurde, war es das höchste Bauwerk Südamerikas und ein Zeichen für den urbanen Ehrgeiz des damaligen Montevideo. Der Entwurf von Mario Palanti verbindet Art-déco-Details mit monumentaler Vertikale und erklärt, warum das Haus bis heute so stark mit der Stadt identifiziert wird. Es ist ein guter Einstieg in die Modernisierung Uruguays im 20. Jahrhundert. Geschichte K8 — Stadtentwicklung und nationale Moderne.", hu: "Uruguay történelme a spanyol és portugál gyarmatosításig nyúlik vissza, ami formálta a mai ország határait és kultúráját. Az 1828-ban elnyert függetlenség után az ország hosszú időszakokat élt át politikai küzdelmekkel és társadalmi reformokkal. A 20. században Uruguay élen járt a szociális vívmányok bevezetésében, ami 'Dél-Amerika Svájcává' tette. Történelmi emlékművek és múzeumok őrzik a szabadságharcok és a modern államalapítás emlékeit.", ro: "Acest oraș reprezintă un punct de reper esențial în dezvoltarea economică și culturală a regiunii, oferind o perspectivă autentică asupra modului de viață local. Vizitatorii sunt atrași de mixul echilibrat dintre tradițiile seculare și progresele urbane moderne. De-a lungul timpului, zona a fost un centru important pentru schimburile comerciale care au modelat economia regiunii. Arhitectura diversă reflectă istoria bogată a zonei, îmbinând stilurile coloniale cu elemente contemporane. Comunitatea locală este recunoscută pentru spiritul său rezistent și pentru conservarea cu grijă a patrimoniului cultural. Fiecare colț al orașului povestește o istorie unică, contribuind la farmecul irezistibil al acestei destinații uruguayene.", en: "An emblematic building in Montevideo, which was the tallest building in South America upon its completion in 1928. Salvo Palace lies in the Montevideo department and is a notable example of Uruguay's diversity. The building documents a defining era of Uruguay's history and carries high cultural value. Conservation efforts secure the monument for future generations and support educational tourism. The site is closely tied to the country's independence struggles and national identity. History Y8 — Latin American identity and culture of memory."
-    },
-    factsAdvanced: { de: ["1928 eingeweiht.", "Entwurf von Mario Palanti.", "An der Plaza Independencia in Montevideo.", "War zeitweise das höchste Gebäude Südamerikas.", "Art-déco-Elemente prägen die Fassade.", "Rund um den 100-Meter-Turm organisiert sich die Skyline."], hu: ["Uruguay 1828-ban vált teljesen független köztársasággá.", "José Artigas a nemzeti függetlenségi mozgalom legfontosabb hőse.", "Az 1900-as évek elején az ország az egyik legfejlettebb szociális rendszerrel rendelkezett a világon."], ro: ["Ora\\u0219ul joac\\u0103 un rol vital \\u00een economia regiunii, fiind un hub pentru activit\\u0103\\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\\u0103 prin numeroase evenimente \\u0219i festivaluri locale.", "Arhitectura ora\\u0219ului \\u00eembin\\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\\u0103 men\\u021bine vii tradi\\u021biile seculare, oferind o experien\\u021b\\u0103 autentic\\u0103 vizitatorilor.", "Pozi\\u021bia strategic\\u0103 a ora\\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."], en: ["A witness to significant events in Uruguayan history.", "Often under state protection as a historical monument.", "A popular destination for school trips and cultural education.", "Embedded in the urban or rural fabric of the Montevideo department.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
-    },
-    facts: {
-      de: ["Entworfen vom Architekten Mario Palanti.", "Höhe von 100 Metern."],
-      hu: ["Mario Palanti építész tervezte.", "Magassága 100 méter."],
-      ro: ["Proiectat de arhitectul Mario Palanti.", "Înălțimea de 100 de metri."],
-      en: ["Designed by architect Mario Palanti.", "Height of 100 meters."]
-    }, image: "/poi-images/palacio-salvo-history-v2.webp"},
-  {
+    {
     id: "teatro-solis-history-v2",
     type: "historical",
     parent: "UY-MO",
@@ -238,33 +212,7 @@ export const poiExtraUruguayHistoryV2: POI[] = [
       ro: ["Găzduiește mausoleul lui José Artigas.", "Proiectată în 1837."],
       en: ["Houses the mausoleum of José Artigas.", "Designed in 1837."]
     }, image: "/poi-images/plaza-independencia-history-v2.webp"},
-  {
-    id: "palacio-legislativo-history-v2",
-    type: "historical",
-    parent: "UY-MO",
-    coords: [-56.1872, -34.8911],
-    name: {
-      de: "Palacio Legislativo",
-      hu: "Törvényhozási palota",
-      ro: "Palatul Legislativ",
-      en: "Legislative Palace"},
-    image: "/poi-images/palacio-legislativo-history-v2.webp",
-    description: {
-      de: "Der monumentale Sitz des uruguayischen Parlaments, der 1925 in einem neoklassizistischen Stil eingeweiht wurde.",
-      hu: "Az uruguayi parlament monumentális székhelye, amelyet 1925-ben avattak fel neoklasszikus stílusban.",
-      ro: "Sediul monumental al parlamentului uruguayan, inaugurat în 1925 în stil neoclasic.",
-      en: "The monumental seat of the Uruguayan parliament, inaugurated in 1925 in a neoclassical style." },
-    descriptionAdvanced: { de: "Der Palacio Legislativo gehört zu den eindrucksvollsten Staatsbauten Südamerikas. Seit der Einweihung 1925 steht das Parlament für die institutionelle Reife Uruguays und für den Anspruch, Politik architektonisch sichtbar zu machen. Der neoklassizistische Bau mit Marmor, Kuppel und reich gearbeiteten Innenräumen erklärt, warum das Gebäude nicht nur Verwaltungsort, sondern auch nationales Symbol ist. Es erzählt von einer Republik, die ihre demokratischen Formen bewusst monumental inszenierte. Geschichte K8 — Demokratie und Staatsarchitektur.", hu: "Uruguay történelme a spanyol és portugál gyarmatosításig nyúlik vissza, ami formálta a mai ország határait és kultúráját. Az 1828-ban elnyert függetlenség után az ország hosszú időszakokat élt át politikai küzdelmekkel és társadalmi reformokkal. A 20. században Uruguay élen járt a szociális vívmányok bevezetésében, ami 'Dél-Amerika Svájcává' tette. Történelmi emlékművek és múzeumok őrzik a szabadságharcok és a modern államalapítás emlékeit.", ro: "Acest oraș reprezintă un punct de reper esențial în dezvoltarea economică și culturală a regiunii, oferind o perspectivă autentică asupra modului de viață local. Vizitatorii sunt atrași de mixul echilibrat dintre tradițiile seculare și progresele urbane moderne. De-a lungul timpului, zona a fost un centru important pentru schimburile comerciale care au modelat economia regiunii. Arhitectura diversă reflectă istoria bogată a zonei, îmbinând stilurile coloniale cu elemente contemporane. Comunitatea locală este recunoscută pentru spiritul său rezistent și pentru conservarea cu grijă a patrimoniului cultural. Fiecare colț al orașului povestește o istorie unică, contribuind la farmecul irezistibil al acestei destinații uruguayene.", en: "The monumental seat of the Uruguayan parliament, inaugurated in 1925 in a neoclassical style. Legislative Palace lies in the Montevideo department and is a notable example of Uruguay's diversity. The building documents a defining era of Uruguay's history and carries high cultural value. Conservation efforts secure the monument for future generations and support educational tourism. The site is closely tied to the country's independence struggles and national identity. History Y8 — Latin American identity and culture of memory. The site is part of Uruguay's national heritage and is featured in school and educational materials."
-    },
-    factsAdvanced: { de: ["1925 eingeweiht.", "Sitz des uruguayischen Parlaments.", "Neoklassizistischer Stil.", "In Montevideo gelegen.", "Einer der monumentalsten Staatsbauten des Landes.", "Bekannt für Marmor und Kuppel."], hu: ["Uruguay 1828-ban vált teljesen független köztársasággá.", "José Artigas a nemzeti függetlenségi mozgalom legfontosabb hőse.", "Az 1900-as évek elején az ország az egyik legfejlettebb szociális rendszerrel rendelkezett a világon."], ro: ["Ora\\u0219ul joac\\u0103 un rol vital \\u00een economia regiunii, fiind un hub pentru activit\\u0103\\u021bile comerciale.", "Patrimoniul cultural al zonei este conservat cu grij\\u0103 prin numeroase evenimente \\u0219i festivaluri locale.", "Arhitectura ora\\u0219ului \\u00eembin\\u0103 armonios elementele coloniale cu cele moderne.", "Comunitatea local\\u0103 men\\u021bine vii tradi\\u021biile seculare, oferind o experien\\u021b\\u0103 autentic\\u0103 vizitatorilor.", "Pozi\\u021bia strategic\\u0103 a ora\\u0219ului a facilitat dezvoltarea sa ca centru important de schimburi economice."], en: ["A witness to significant events in Uruguayan history.", "Often under state protection as a historical monument.", "A popular destination for school trips and cultural education.", "Embedded in the urban or rural fabric of the Montevideo department.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
-    },
-    facts: {
-      de: ["Verwendet Marmor in verschiedenen Farben.", "Architekt war Vittorio Meano."],
-      hu: ["Különböző színű márványokat használtak az építéshez.", "Vittorio Meano volt az építész."],
-      ro: ["Folosește marmură de diferite culori.", "Arhitectul a fost Vittorio Meano."],
-      en: ["Uses marble of different colors.", "Architect was Vittorio Meano."]
-    }, image: "/poi-images/palacio-legislativo-history-v2.webp"},
-  {
+    {
     id: "mercado-del-puerto-history-v2",
     type: "historical",
     parent: "UY-MO",

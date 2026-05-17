@@ -49,55 +49,7 @@ export const poiExtraTajikistanNatureV2: POI[] = [
       en: ["Ismail Samani Peak: 7,495 m", "Over 1,000 glaciers", "Glacier area: approx. 8,000 km²", "Pamir Highway up to 4,655 m", "Marco Polo sheep (Ovis ammon polii)", "Winter temperatures below -40°C"],
     },
   },
-  {
-    id: "iskanderkul-nature-v2",
-    type: "lake",
-    parent: "TJ-SU",
-    coords: [68.3667, 39.0667],
-    name: {
-      de: "Iskanderkul",
-      hu: "Iszkander-tó",
-      ro: "Lacul Iskanderkul",
-      en: "Iskanderkul"},
-    image: "/poi-images/iskanderkul-nature-v2.webp",
-    description: {
-      de: "Ein malerischer Bergsee im Fann-Gebirge, benannt nach Alexander dem Großen, der hier auf seinen Feldzügen gerastet haben soll.",
-      hu: "Festői hegyi tó a Fan-hegységben, amely Nagy Sándor nevét viseli a legenda szerinti itteni táborozása után.",
-      ro: "Un lac montan pitoresc în Munții Fann, numit după Alexandru cel Mare, care s-ar fi odihnit aici.",
-      en: "A picturesque mountain lake in the Fann Mountains, named after Alexander the Great who supposedly rested here."
-    },
-    facts: {
-      de: [
-        "Liegt auf 2195 Metern Höhe",
-        "Dreiecksförmiger See glazialen Ursprungs"
-      ],
-      hu: [
-        "2195 méteres magasságban fekszik",
-        "Háromszög alakú, gleccsereredetű tó"
-      ],
-      ro: [
-        "Situat la 2195 metri altitudine",
-        "Lac de origine glaciară cu formă triunghiulară"
-      ],
-      en: [
-        "Located at 2195 meters altitude",
-        "Triangular lake of glacial origin"
-      ]
-    }, image: "/poi-images/iskanderkul-nature-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Iskanderkul ist ein glazialer See im Fann-Gebirge Tadschikistans, benannt nach Alexander dem Großen (Iskander). Der See liegt auf 2.195 m Höhe und hat eine maximale Tiefe von 72 m. Er entstand durch einen Bergsturz, der den Saritagh-Fluss aufstaute. Die Umgebung ist von Walnuss- und Ahornwäldern geprägt, die Lebensraum für seltene Tierarten wie den Schneeleoparden bieten. Der See ist ein beliebtes Touristenziel und Teil des Shirkent-Nationalparks.",
-      hu: "Az Iskanderkul-tó a Fann-hegységben található, Tadzsikisztán egyik leglátványosabb természeti kincse. A tavat gleccserek táplálják, vize kristálytiszta. A környező erdőkben dió- és juharfák nőnek, gazdag állatvilág él itt. A tó népszerű kirándulóhely, számos túraútvonal indul innen. A helyi legenda szerint Nagy Sándor lovának nevét viseli. A tó területe 3,4 km², maximális mélysége 72 méter.",
-      ro: "Lacul Iskanderkul, situat în Munții Fann din Tadjikistan, este un lac glaciar cu o altitudine de 2.195 metri. Acesta poartă numele lui Alexandru cel Mare, cunoscut local ca Iskander. Apa sa limpede și verde smarald atrage turiști din întreaga lume. În jurul lacului, pădurile de nuc și arțar oferă habitat pentru animale rare. Lacul s-a format în urma unei alunecări de teren care a blocat râul Saritagh. Este o destinație populară pentru drumeții.",
-      en: "Iskanderkul is a glacial lake located in the Fann Mountains of Tajikistan, at an altitude of 2,195 meters (7,201 feet). The lake has a surface area of 3.4 square kilometers and a maximum depth of 72 meters. It was formed by a landslide that dammed the Saritagh River. The surrounding forests are dominated by walnut and maple trees, providing habitat for snow leopards and other wildlife. The lake is a popular tourist destination and part of the Shirkent National Park.",
-    },
-    factsAdvanced: {
-      de: ["Höhe: 2.195 m", "Maximale Tiefe: 72 m", "Oberfläche: 3,4 km²", "Entstehung: durch Bergsturz", "Benannt nach Alexander dem Großen (Iskander)", "Teil des Shirkent-Nationalparks"],
-      hu: ["Tengerszint feletti magasság: 2195 m", "Maximális mélység: 72 m", "Felszín: 3,4 km²", "Kialakulás: földcsuszamlás által", "Név: Nagy Sándor (Iszkander) után", "Shirkent Nemzeti Park része"],
-      ro: ["Altitudine: 2.195 m", "Adâncime maximă: 72 m", "Suprafață: 3,4 km²", "Formare: alunecare de teren", "Denumit după Alexandru cel Mare", "Parte a Parcului Național Shirkent"],
-      en: ["Elevation: 2,195 m (7,201 ft)", "Maximum depth: 72 m (236 ft)", "Surface area: 3.4 km² (1.3 sq mi)", "Formed by a landslide", "Named after Alexander the Great (Iskander)", "Part of Shirkent National Park"],
-    },
-  },
-  {
+    {
     id: "karakul-lake-nature-v2",
     type: "lake",
     parent: "TJ-GB",

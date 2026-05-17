@@ -136,34 +136,7 @@ export const poiExtraTaiwanNatureV2: POI[] = [
       en: ["The park's highest peak is Xueshan at 3886 meters.", "The park was established on June 1, 1992.", "Its area is 76,850 hectares.", "Dabajian Peak measures 3492 meters.", "Average annual temperature in highlands is 10 °C.", "Over 300 butterfly species have been recorded in the park."],
     },
   },
-  {
-    id: "sun-moon-lake-nature-v2",
-    type: "lake",
-    parent: "TW-NAN",
-    coords: [120.9167, 23.8667],
-    name: { de: "Sonne-Mond-See", hu: "Nap Hold-tó", ro: "Lacul Soarelui și Lunii", en: "Sun Moon Lake"},
-    image: "/poi-images/sun-moon-lake-nature-v2.webp",
-    description: { de: "Der Sonne-Mond-See ist das größte natürliche Gewässer in Taiwan und ein tiefblaues Juwel inmitten von bewaldeten Bergen.", hu: "A Nap Hold-tó Tajvan legnagyobb természetes tava, egy mélykék ékkő az erdős hegyek között.", ro: "Lacul Soarelui și Lunii este cea mai mare apă naturală din Taiwan, o bijuterie de un albastru profund înconjurată de munți împăduriți.", en: "Sun Moon Lake is the largest natural body of water in Taiwan, a deep blue jewel surrounded by forested mountains." },
-    facts: {
-      de: ["Die östliche Seite ähnelt einer Sonne, die westliche einem Mond.", "Ein wichtiges spirituelles Zentrum des Thao-Volkes."],
-      hu: ["A keleti oldala a napra, a nyugati a holdra hasonlít.", "A thao őslakosok fontos spirituális központja."],
-      ro: ["Partea estică seamănă cu un soare, iar cea vestică cu o lună.", "Un centru spiritual important al poporului Thao."],
-      en: ["The eastern side resembles a sun, while the western side resembles a moon.", "An important spiritual center for the Thao people."]
-    }, image: "/poi-images/sun-moon-lake-nature-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Sun-Moon-See (Riyuetan) ist der größte natürliche See Taiwans und liegt im zentralen Bergland in einer Höhe von 748 m. Der See hat eine unregelmäßige Form, die an Sonne und Halbmond erinnert. Die Fläche beträgt 7,93 km² bei einer maximalen Tiefe von 27 m. Der See ist umgeben von Bergen, darunter der Maolan-Berg. Er dient als Wasserkraftreservoir und ist durch einen Tunnel mit dem Fluss Zhuoshui verbunden. Kulturell bedeutsam ist der See für die Thao-Ureinwohner und als Standort des Wenwu-Tempels. Der berühmte Radweg rund um den See ist 30 km lang. Das Klima ist mild, mit Durchschnittstemperaturen von 19 °C. Der See ist auch für sein abendliches Nebelspiel bekannt.",
-      hu: "A Nap-Hold-tó (Riyuetan) Tajvan legnagyobb természetes tava, a központi hegyvidéken, 748 m tengerszint feletti magasságban. A tó szabálytalan alakú, amely a napra és a félholdra emlékeztet. Területe 7,93 km², maximális mélysége 27 m. A tavat hegyek veszik körül, köztük a Maolan-hegy. Vízierőművi tározóként szolgál, és egy alagút köti össze a Zhuoshui folyóval. Kulturális jelentősége a Thao őslakosok számára és a Wenwu-templom helyszíneként fontos. A híres kerékpárút a tó körül 30 km hosszú. Az éghajlat enyhe, átlaghőmérséklete 19 °C. A tó esti ködjátékáról is ismert.",
-      ro: "Lacul Soarelui și al Lunii (Riyuetan) este cel mai mare lac natural din Taiwan, situat în munții centrali la o altitudine de 748 m. Lacul are o formă neregulată, amintind de soare și semilună. Suprafața sa este de 7,93 km², cu o adâncime maximă de 27 m. Este înconjurat de munți, inclusiv Muntele Maolan. Servește ca rezervor hidroelectric și este conectat printr-un tunel la râul Zhuoshui. Cultural, lacul este important pentru indigenii Thao și ca loc al Templului Wenwu. Faimoasa pistă de biciclete din jurul lacului are 30 km. Clima este blândă, cu o temperatură medie de 19 °C. Lacul este cunoscut și pentru ceața sa de seară.",
-      en: "Sun Moon Lake (Riyuetan) is Taiwan's largest natural lake, at 748 m elevation in the central mountains. Its irregular shape resembles a sun and crescent moon. Area is 7.93 km² with a maximum depth of 27 m. Surrounded by peaks like Maolan Mountain, it serves as a hydroelectric reservoir, connected via tunnel to Zhuoshui River. Culturally, it is sacred to the Thao indigenous people and home to the Wenwu Temple. The famous lakeside bicycle path is 30 km. The climate is mild, averaging 19 °C. Evening mist effects are a notable feature.",
-    },
-    factsAdvanced: {
-      de: ["Der See liegt auf einer Höhe von 748 m.", "Die Wasserfläche beträgt 7,93 km².", "Die maximale Tiefe beträgt 27 m.", "Der Radweg um den See ist 30 km lang.", "Der Wenwu-Tempel wurde 1938 erbaut.", "Die durchschnittliche Wassertemperatur beträgt 20 °C."],
-      hu: ["A tó 748 m tengerszint feletti magasságban található.", "A vízfelület 7,93 km².", "A maximális mélység 27 m.", "A tó körüli kerékpárút 30 km hosszú.", "A Wenwu-templom 1938-ban épült.", "Az átlagos vízhőmérséklet 20 °C."],
-      ro: ["Lacul se află la o altitudine de 748 m.", "Suprafața apei este de 7,93 km².", "Adâncimea maximă este de 27 m.", "Pista de biciclete din jurul lacului are 30 km.", "Templul Wenwu a fost construit în 1938.", "Temperatura medie a apei este de 20 °C."],
-      en: ["Lake elevation is 748 meters.", "Water area is 7.93 km².", "Maximum depth is 27 meters.", "The lakeside bike path is 30 km long.", "Wenwu Temple was built in 1938.", "Average water temperature is 20 °C."],
-    },
-  },
-  {
+    {
     id: "alishan-forest-nature-v2",
     type: "forest",
     parent: "TW-CYQ",

@@ -97,39 +97,7 @@ export const poiExtraBahrainLandmarksV2: POI[] = [
     "en": "The Al-Fateh Grand Mosque in Manama is one of the largest mosques in the world and a stunning example of modern Islamic architecture. It was built in 1987 under the patronage of Sheikh Isa bin Salman Al Khalifa and named after Ahmed Al Fateh, the conqueror of Bahrain. The complex covers 6,500 square meters and can accommodate over 7,000 worshippers. Its massive dome, constructed entirely of fiberglass, is one of the largest in the world, weighing over 60 tonnes. The flooring is Italian marble and the doors are made from Indian teak wood. The mosque also houses the National Library of Bahrain. Since 2006, the mosque has been open to tourists, offering guided tours to provide visitors with insights into Islamic culture and architecture."
     },
     factsAdvanced: { multi4: ["Capacity: Over 7,000 worshippers", "Built: 1987", "Area: 6,500 square meters", "The dome is the world's largest fiberglass dome", "Dome weight: Over 60,000 kg", "Materials include Italian marble and Indian teak", "Houses the National Library of Bahrain", "Open for guided tourist visits since 2006"] }, image: "/poi-images/bh-al-fateh-grand-mosque-landmarks-v2.webp"},
-  {
-    id: "bh-bab-al-bahrain-landmarks-v2",
-    type: "landmark",
-    parent: "BH-13",
-    coords: [50.575, 26.233],
-    name: {
-      de: "Bab Al Bahrain",
-      hu: "Bab Al Bahrain",
-      ro: "Bab Al Bahrain",
-      en: "Bab Al Bahrain"},
-    image: "/poi-images/bh-bab-al-bahrain-landmarks-v2.webp",
-    description: {
-      de: "Ein historisches Gebäude am Zollplatz in Manama, das den Haupteingang zum Manama Souq markiert.",
-      hu: "Történelmi épület a manamai vám téren, amely a Manama Souq főbejáratát jelöli.",
-      ro: "O clădire istorică situată în piața vamală din Manama, marcând intrarea principală în Manama Souq.",
-      en: "A historical building located in the customs square in Manama, marking the main entrance to the Manama Souq."
-    },
-    facts: {
-      de: ["Entworfen von Sir Charles Belgrave.", "Erbaut im Jahr 1949.", "In seinem ursprünglichen Glanz restauriert."],
-      hu: ["Sir Charles Belgrave tervezte.", "1949-ben épült.", "Eredeti pompájában újították fel."],
-      ro: ["Proiectată de Sir Charles Belgrave.", "Construită în 1949.", "Renovată la gloria sa originală."],
-      en: ["Designed by Sir Charles Belgrave.", "Built in 1949.", "Refurbished to its original glory."]
-    }
-  ,
-    descriptionAdvanced: {
-    
-    "de": "Bab Al Bahrain, was 'Tor von Bahrain' bedeutet, ist ein historisches Gebäude im Herzen von Manamas Finanzviertel. Es wurde 1949 von Sir Charles Belgrave, dem britischen Berater des damaligen Herrschers, entworfen und markierte einst den Haupteingang zum Manama Souq vom Meer aus. Aufgrund der Landgewinnung steht das Gebäude heute einige Entfernung vom Wasser entfernt. Ursprünglich beherbergte es die Regierungsbüros und war ein Symbol für die Autorität des Staates. Im Jahr 1986 wurde es einer umfassenden Renovierung unterzogen, um ihm ein islamischeres Aussehen zu verleihen. Heute beherbergt es das Tourismusinformationsbüro und ein kleines Handwerksgeschäft. Der Bogen des Gebäudes führt direkt in den Souq, einen belebten traditionellen Markt, auf dem Besucher alles von Gewürzen und Textilien bis hin zu Souvenirs und Elektronik finden können.",
-    "hu": "A Bab Al Bahrain, amelynek jelentése 'Bahrein kapuja', egy történelmi épület Manama pénzügyi negyedének szívében. 1949-ben tervezte Sir Charles Belgrave, az akkori uralkodó brit tanácsadója, és egykor a Manama Souq (piac) fő bejáratát jelölte a tenger felől. A földfeltöltések miatt az épület ma már távolabb áll a víztől. Eredetileg kormányzati irodáknak adott otthont, és az állami tekintély szimbóluma volt. 1986-ban átfogó felújításon esett át, hogy iszlámabb jelleget kapjon. Ma a turisztikai információs irodának és egy kis kézműves boltnak ad otthont. Az épület boltíve közvetlenül a Souqba vezet, egy nyüzsgő hagyományos piacra, ahol a látogatók a fűszerektől és textíliáktól kezdve az ajándéktárgyakig és elektronikáig mindent megtalálhatnak.",
-    "ro": "Bab Al Bahrain, însemnând 'Poarta Bahrainului', este o clădire istorică situată în inima districtului financiar din Manama. A fost proiectată în 1949 de Sir Charles Belgrave, consilierul britanic al conducătorului de atunci, și marca odinioară intrarea principală în Manama Souq de la malul mării. Din cauza recuperării terenurilor, clădirea se află acum la o oarecare distanță de apă. Inițial, a găzduit birourile guvernamentale și a fost un simbol al autorității statului. În 1986, a suferit o renovare majoră pentru a-i conferi un aspect mai islamic. Astăzi, găzduiește biroul de informații turistice și un mic magazin de artizanat. Arcul clădirii duce direct în souq, o piață tradițională plină de viață, unde vizitatorii pot găsi de la condimente și textile la suveniruri și electronice.",
-    "en": "Bab Al Bahrain, meaning 'Gateway of Bahrain', is a historical building located in the heart of Manama's financial district. It was designed in 1949 by Sir Charles Belgrave, the British advisor to the then-ruler, and once marked the main entrance to the Manama Souq from the seafront. Due to land reclamation, the building now stands some distance from the water. It originally housed the government's offices and was a symbol of state authority. In 1986, it underwent a major refurbishment to give it a more Islamic character. Today, it houses the tourism information office and a small handicraft shop. The building's archway leads directly into the souq, a bustling traditional market where visitors can find everything from spices and textiles to souvenirs and electronics."
-    },
-    factsAdvanced: { multi4: ["Built in 1949", "Designed by Sir Charles Belgrave", "Original function: Government offices", "Marks the entrance to the Manama Souq", "Renovated in 1986 to add Islamic architectural features", "Previously located on the waterfront", "Currently houses the main tourist information office", "The name translates to 'Gateway of Bahrain'"] }, image: "/poi-images/bh-bab-al-bahrain-landmarks-v2.webp"},
-  {
+    {
     id: "bh-tree-of-life-landmarks-v2",
     type: "landmark",
     parent: "BH-14",
@@ -225,39 +193,7 @@ export const poiExtraBahrainLandmarksV2: POI[] = [
     "en": "The Bahrain National Museum, inaugurated in 1988, is the crown jewel of the kingdom's cultural scene. Located at a scenic waterfront spot in Manama, it is an architectural masterpiece constructed from white travertine stone. The museum takes visitors on a journey through 5,000 years of Bahraini history. The exhibits are divided into several halls, including the Dilmun Gallery, the Hall of Graves, which features a replica of an actual burial mound, and the Hall of Customs and Traditions. One of the most unique displays is a satellite map of Bahrain laid across the entire floor of one of the main galleries. The museum also houses an art gallery, a café, and a gift shop. It is an essential first stop for anyone looking to understand Bahrain's rich past and vibrant present."
     },
     factsAdvanced: { multi4: ["Opened: December 15, 1988", "Area: 27,800 square meters", "Architect: KHR Arkitekter from Denmark", "Chronicles 5,000 years of Bahrain's history", "Features nine main halls", "Includes sections on Dilmun, Tylos, and Islamic periods", "Contains a natural history wing", "Overlooks the Bahrain National Theatre"] }},
-  {
-    id: "bh-beit-al-quran-landmarks-v2",
-    type: "landmark",
-    parent: "BH-13",
-    coords: [50.589, 26.240],
-    name: {
-      de: "Beit Al Quran",
-      hu: "Beit Al Quran",
-      ro: "Beit Al Quran",
-      en: "Beit Al Quran"},
-    image: "/poi-images/bh-beit-al-quran-landmarks-v2.webp",
-    description: {
-      de: "Ein Mehrzweckkomplex, der den islamischen Künsten gewidmet ist und eine umfangreiche Sammlung seltener Koranmanuskripte beherbergt.",
-      hu: "Az iszlám művészeteknek szentelt többcélú komplexum, amely ritka Korán-kéziratok hatalmas gyűjteményének ad otthont.",
-      ro: "Un complex multifuncțional dedicat artelor islamice și găzduind o vastă colecție de manuscrise coranice rare.",
-      en: "A multi-purpose complex dedicated to Islamic arts and housing a vast collection of rare Quranic manuscripts."
-    },
-    facts: {
-      de: ["Gegründet im Jahr 1990.", "Enthält Manuskripte aus dem 7. Jahrhundert.", "Verfügt über klassische islamische Architektur."],
-      hu: ["1990-ben alapították.", "A 7. századból származó kéziratokat tartalmaz.", "Klasszikus iszlám építészettel rendelkezik."],
-      ro: ["Înființat în 1990.", "Conține manuscrise din secolul al VII-lea.", "Prezintă arhitectură islamică clasică."],
-      en: ["Established in 1990.", "Contains manuscripts from the 7th century.", "Features classical Islamic architecture."]
-    }
-  ,
-    descriptionAdvanced: {
-    
-    "de": "Das Beit Al Quran (Haus des Korans) in Hoora ist ein auf die Erhaltung und Ausstellung des Heiligen Korans spezialisiertes Museum. Es wurde 1990 gegründet und beherbergt eine international bekannte Sammlung von Koranhandschriften und islamischer Kunst. Der Komplex, der im Stil eines klassischen islamischen Forts aus dem 12. Jahrhundert erbaut wurde, umfasst eine Moschee, eine Bibliothek, ein Auditorium, eine Madrasa (Schule) und zehn Ausstellungshallen. Die Sammlung umfasst Koranhandschriften aus verschiedenen Epochen, einige davon auf Pergament, die bis ins 7. Jahrhundert zurückreichen. Ein bemerkenswertes Stück ist der erste auf einer Druckpresse in Deutschland im Jahr 1694 gedruckte Koran. Das Museum zeigt auch seltene islamische Kalligraphie, Holzschnitzereien und Töpferwaren. Beit Al Quran ist ein wichtiges Zentrum für islamische Studien und ein Zeugnis für das reiche islamische Erbe Bahrains.",
-    "hu": "A Beit Al Quran (a Korán Háza) Hoorában egy, a Szent Korán megőrzésére és kiállítására szakosodott múzeum. Az 1990-ben alapított intézmény a Korán-kéziratok és az iszlám művészet nemzetközileg elismert gyűjteményének ad otthont. A komplexum, amelyet egy 12. századi klasszikus iszlám erőd stílusában építettek, mecsetet, könyvtárat, előadótermet, medreszét (iskolát) és tíz kiállítótermet foglal magában. A gyűjtemény különböző korokból származó Korán-kéziratokat tartalmaz, némelyik pergamenre íródott és a 7. századból származik. Egyik figyelemre méltó darabja az első, 1694-ben Németországban, nyomdában készült Korán. A múzeum ritka iszlám kalligráfiát, fafaragásokat és kerámiákat is bemutat. A Beit Al Quran az iszlám tanulmányok fontos központja és Bahrein gazdag iszlám örökségének tanúbizonysága.",
-    "ro": "Beit Al Quran (Casa Coranului) din Hoora este un muzeu specializat în conservarea și expunerea Sfântului Coran. Înființat în 1990, găzduiește o colecție de manuscrise coranice și artă islamică de renume internațional. Complexul, construit în stilul unui fort islamic clasic din secolul al XII-lea, include o moschee, o bibliotecă, un auditoriu, o madrasa (școală) și zece săli de expoziție. Colecția cuprinde manuscrise coranice din diverse epoci, unele pe pergament datând din secolul al VII-lea. O piesă notabilă este primul Coran tipărit la o presă în Germania în 1694. Muzeul expune, de asemenea, caligrafie islamică rară, sculpturi în lemn și ceramică. Beit Al Quran este un centru important pentru studiile islamice și un testament al bogatei moșteniri islamice a Bahrainului.",
-    "en": "Beit Al Quran (House of the Quran) in Hoora is a museum specializing in the preservation and exhibition of the Holy Quran. Established in 1990, it houses an internationally renowned collection of Quranic manuscripts and Islamic art. The complex, built in the style of a 12th-century classical Islamic fort, includes a mosque, a library, an auditorium, a madrasa (school), and ten exhibition halls. The collection features Quranic manuscripts from various eras, some on parchment dating back to the 7th century. A notable piece is the first Quran printed on a press in Germany in 1694. The museum also showcases rare Islamic calligraphy, woodcarvings, and pottery. Beit Al Quran serves as a significant center for Islamic studies and a testament to Bahrain's rich Islamic heritage."
-    },
-    factsAdvanced: { multi4: ["Established in 1990", "Houses rare Quranic manuscripts, some from the 7th century", "The building design is based on a 12th-century mosque", "Features a library with over 50,000 books and manuscripts", "The main hall is named Al-Hayat Museum", "Includes a small mosque with a stained-glass dome", "Financed entirely by public donations", "Displays a Quranic verse engraved on a grain of rice"] }, image: "/poi-images/bh-beit-al-quran-landmarks-v2.webp"},
-  {
+    {
     id: "bh-arad-fort-landmarks-v2",
     type: "landmark",
     parent: "BH-15",
@@ -449,71 +385,7 @@ export const poiExtraBahrainLandmarksV2: POI[] = [
     "en": "Bu Maher Fort, located at the southern tip of Muharraq island, serves as the official starting point of the 'Pearling Path' UNESCO World Heritage site. Although smaller than other forts in Bahrain, its historical significance is immense. The fort was originally built in 1840 and later expanded. It served as a vital fortress, protecting the sea lanes to the Muharraq channel and the island's former capital. Today, only a single tower of the original fort survives, but it has been carefully restored. Visitors typically reach the fort via a short boat ride from the Bahrain National Museum, adding a maritime component to the experience. Inside the fort, a visitor center provides a detailed audio-visual introduction to the story of the Pearling Path, explaining its significance in Bahrain's development."
     },
     factsAdvanced: { multi4: ["Official start of the Pearling Path UNESCO World Heritage site", "Originally built in 1840", "Located on the southern tip of Muharraq Island", "Accessible via a short boat trip from the Bahrain National Museum", "Only the main tower remains from the original structure", "It was built to protect the pearling fleet and Muharraq bay", "The visitor centre provides an overview of the Pearling Path history", "Restoration work began in 2010"] }, image: "/poi-images/bh-bu-maher-fort-landmarks-v2.webp"},
-  {
-    id: "bh-barbar-temple-landmarks-v2",
-    type: "landmark",
-    parent: "BH-17",
-    coords: [50.485, 26.226],
-    name: {
-      de: "Barbar-Tempel",
-      hu: "Barbar templom",
-      ro: "Templul Barbar",
-      en: "Barbar Temple"},
-    image: "/poi-images/bh-barbar-temple-landmarks-v2.webp",
-    description: {
-      de: "Eine archäologische Stätte, die aus drei aufeinanderfolgenden Dilmun-Tempeln besteht, die über antiken Süßwasserquellen erbaut wurden.",
-      hu: "Egy régészeti lelőhely, amely három, egymást követő Dilmun templomból áll, amelyeket ősi édesvizű források fölé építettek.",
-      ro: "Un sit arheologic format din trei temple Dilmun succesive construite peste izvoare antice de apă dulce.",
-      en: "An archaeological site comprising three successive Dilmun temples built over ancient freshwater springs."
-    },
-    facts: {
-      de: ["Entdeckt im Jahr 1954.", "Dem Gott Enki gewidmet.", "Stammt aus der Zeit um 3000 v. Chr."],
-      hu: ["1954-ben fedezték fel.", "Enki istennek szentelték.", "I. e. 3000-re nyúlik vissza."],
-      ro: ["Descoperit în 1954.", "Dedicat zeului Enki.", "Datează din anul 3000 î.Hr."],
-      en: ["Discovered in 1954.", "Dedicated to the god Enki.", "Dates back to 3000 BC."]
-    }
-  ,
-    descriptionAdvanced: {
-    
-    "de": "Der Barbar-Tempel ist eine bedeutende archäologische Stätte im Dorf Barbar und ein wichtiges Relikt der Dilmun-Kultur. Die Stätte besteht aus den Überresten von drei aufeinanderfolgenden Tempeln, die zwischen 3000 und 2000 v. Chr. erbaut wurden. Diese Tempel wurden dem Wassergott Enki gewidmet, was durch die zentrale Rolle von Wasser in ihrer Konstruktion deutlich wird. Der bemerkenswerteste Aspekt ist ein heiliger Brunnen im Herzen des Komplexes. Die Tempel wurden aus sorgfältig behauenen Kalksteinblöcken errichtet, was für die damalige Zeit auf ein hohes Maß an handwerklichem Geschick schließen lässt. Archäologische Funde an der Stätte, darunter Werkzeuge, Waffen und Keramik, sind im Nationalmuseum von Bahrain ausgestellt. Der Barbar-Tempel bietet faszinierende Einblicke in die religiösen Praktiken und die fortgeschrittene Zivilisation von Dilmun.",
-    "hu": "A Barbar-templom egy jelentős régészeti lelőhely Barbar faluban, és a Dilmun-kultúra fontos emléke. A helyszín három, egymást követő templom maradványaiból áll, amelyeket i.e. 3000 és 2000 között építettek. Ezeket a templomokat Enki vízistennek szentelték, amit a víz központi szerepe is bizonyít az építkezés során. A legfigyelemreméltóbb része egy szent kút a komplexum szívében. A templomokat gondosan faragott mészkőtömbökből építették, ami az akkori időkhöz képest magas szintű kézműves tudásról tanúskodik. A helyszínen talált régészeti leletek, köztük szerszámok, fegyverek és kerámiák, a Bahreini Nemzeti Múzeumban vannak kiállítva. A Barbar-templom lenyűgöző bepillantást nyújt a Dilmun-civilizáció vallási gyakorlataiba és fejlett kultúrájába.",
-    "ro": "Templul Barbar este un sit arheologic important situat în satul Barbar și o relicvă importantă a culturii Dilmun. Situl constă din rămășițele a trei temple succesive construite între 3000 și 2000 î.Hr. Aceste temple au fost dedicate zeului apei, Enki, ceea ce este evident prin rolul central al apei în construcția lor. Cel mai remarcabil aspect este o fântână sfântă în inima complexului. Templele au fost construite din blocuri de calcar atent cioplite, indicând un nivel ridicat de măiestrie pentru acea perioadă. Artefactele arheologice găsite la sit, inclusiv unelte, arme și ceramică, sunt expuse la Muzeul Național al Bahrainului. Templul Barbar oferă perspective fascinante asupra practicilor religioase și a civilizației avansate a Dilmunului.",
-    "en": "The Barbar Temple is a significant archaeological site located in the village of Barbar and an important relic of the Dilmun culture. The site consists of the remains of three successive temples built between 3000 and 2000 BC. These temples were dedicated to the god of water, Enki, which is evident from the central role of water in their construction. The most notable aspect is a sacred well at the heart of the complex. The temples were constructed from carefully carved limestone blocks, indicating a high level of craftsmanship for the period. Archaeological finds at the site, including tools, weapons, and pottery, are displayed at the Bahrain National Museum. The Barbar Temple provides fascinating insights into the religious practices and advanced civilization of Dilmun."
-    },
-    factsAdvanced: { multi4: ["Part of the ancient Dilmun culture", "Site contains three temples built on top of each other", "Dates back to between 3000 and 2000 BC", "Dedicated to Enki, the Sumerian god of wisdom and freshwater", "Discovered by a Danish archaeological team in 1954", "Features a sacred well and a sacrificial altar", "Built with precisely-cut limestone blocks", "Artifacts are now housed in the Bahrain National Museum"] }, image: "/poi-images/bh-barbar-temple-landmarks-v2.webp"},
-  {
-    id: "bh-dilmun-burial-mounds-landmarks-v2",
-    type: "landmark",
-    parent: "BH-17",
-    coords: [50.521, 26.156],
-    name: {
-      de: "Dilmun-Hügelgräber",
-      hu: "Dilmun sírhalmok",
-      ro: "Movilele funerare Dilmun",
-      en: "Dilmun Burial Mounds"},
-    image: "/poi-images/bh-dilmun-burial-mounds-landmarks-v2.webp",
-    description: {
-      de: "Ein UNESCO-Weltkulturerbe, das aus Zehntausenden von antiken Hügelgräbern aus der Zeit der Dilmun-Zivilisation besteht.",
-      hu: "UNESCO Világörökség, amely több tízezer ősi, a Dilmun civilizáció idejéből származó halomsírból áll.",
-      ro: "Un sit al Patrimoniului Mondial UNESCO care constă din zeci de mii de tumuli antici datând din civilizația Dilmun.",
-      en: "A UNESCO World Heritage site consisting of tens of thousands of ancient tumuli dating back to the Dilmun civilization."
-    },
-    facts: {
-      de: ["Erbaut zwischen 2200 und 1750 v. Chr.", "Es gibt über 85.000 Hügelgräber.", "2019 von der UNESCO anerkannt."],
-      hu: ["I. e. 2200 és 1750 között épültek.", "Több mint 85 000 halomsír létezik.", "Az UNESCO 2019-ben ismerte el."],
-      ro: ["Construite între 2200 și 1750 î.Hr.", "Există peste 85.000 de movile.", "Recunoscute de UNESCO în 2019."],
-      en: ["Built between 2200 and 1750 BC.", "Over 85,000 mounds exist.", "Recognized by UNESCO in 2019."]
-    }
-  ,
-    descriptionAdvanced: {
-    
-    "de": "Die Dilmun-Grabhügel sind eine außergewöhnliche archäologische Landschaft und ein Zeugnis für die frühe Dilmun-Zivilisation. Im Jahr 2019 wurden sie zum UNESCO-Weltkulturerbe erklärt. Die Stätte umfasst Zehntausende von Grabhügeln, die zwischen 2200 und 1750 v. Chr. errichtet wurden. Diese Hügel, die über die Landschaft verstreut sind, dienten als Grabstätten für die Bewohner der antiken Zivilisation und bilden die größte prähistorische Nekropole der Welt. Die Größe und der Stil der Hügel variieren, was auf einen sozialen Statusunterschied der Bestatteten hindeutet, wobei einige königliche Hügel besonders groß und komplex sind. Die meisten Hügel bestehen aus einer zentralen Steinkammer, die mit Erde und Kies bedeckt ist. Grabbeigaben, die in einigen der Gräber gefunden wurden, geben wertvolle Einblicke in die Handelsbeziehungen und den Glauben der Dilmun-Kultur. Sie sind ein Muss für jeden Geschichtsinteressierten.",
-    "hu": "A Dilmun-halomsírok egy rendkívüli régészeti táj és a korai Dilmun-civilizáció tanúbizonysága. 2019-ben az UNESCO Világörökség részévé nyilvánították. A helyszín több tízezer halomsírt foglal magában, amelyeket i.e. 2200 és 1750 között emeltek. Ezek a tájon szétszórtan elhelyezkedő halmok az ókori civilizáció lakosainak temetkezési helyéül szolgáltak, és a világ legnagyobb őskori nekropoliszát alkotják. A halmok mérete és stílusa változó, ami az eltemetettek társadalmi státuszbeli különbségeire utal, némelyik királyi halom különösen nagy és összetett. A legtöbb halom egy központi kőkamrából áll, amelyet földdel és kaviccsal borítottak. Néhány sírban talált sírmellékletek értékes bepillantást engednek a Dilmun-kultúra kereskedelmi kapcsolataiba és hiedelmeibe. Minden történelem iránt érdeklődő számára kötelező látnivaló.",
-    "ro": "Movilele funerare Dilmun sunt un peisaj arheologic extraordinar și o mărturie a civilizației timpurii Dilmun. În 2019, au fost declarate sit al Patrimoniului Mondial UNESCO. Situl cuprinde zeci de mii de tumuli funerari construiți între 2200 și 1750 î.Hr. Aceste movile, împrăștiate pe peisaj, au servit drept locuri de înmormântare pentru locuitorii civilizației antice și formează cea mai mare necropolă preistorică din lume. Mărimea și stilul movilelor variază, indicând o diferență de statut social între cei îngropați, unele movile regale fiind deosebit de mari și complexe. Majoritatea movilelor constau dintr-o cameră centrală de piatră acoperită cu pământ și pietriș. Bunurile funerare găsite în unele dintre morminte oferă informații valoroase despre legăturile comerciale și credințele culturii Dilmun. Acestea sunt o vizită obligatorie pentru orice pasionat de istorie.",
-    "en": "The Dilmun Burial Mounds are an extraordinary archaeological landscape and a testament to the Early Dilmun civilization. In 2019, they were declared a UNESCO World Heritage site. The site comprises tens of thousands of burial mounds, constructed between 2200 and 1750 BC. These mounds, scattered across the landscape, served as the burial places for the inhabitants of the ancient civilization, forming the world's largest prehistoric necropolis. The size and style of the mounds vary, indicating a difference in social status among those interred, with some royal mounds being particularly large and complex. Most mounds consist of a central stone chamber covered by earth and gravel. Grave goods found in some of the tombs provide valuable insights into the trade links and beliefs of the Dilmun culture. They are a must-see for any history enthusiast."
-    },
-    factsAdvanced: { multi4: ["UNESCO World Heritage Site since 2019", "World's largest prehistoric necropolis", "Dated between 2200 and 1750 BC", "Some estimates suggest over 85,000 mounds originally", "Mound sizes vary, reflecting social hierarchy", "The largest mounds are known as the 'Royal Tombs of A'ali'", "Contain stone-built burial chambers", "Excavations revealed pottery, seals, and other artifacts"] }},
-  {
+      {
     id: "bh-al-khamis-mosque-landmarks-v2",
     type: "landmark",
     parent: "BH-13",

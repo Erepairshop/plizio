@@ -166,40 +166,7 @@ export const polandNatureV2: POI[] = [
       ro: [],
       en: []
     }, image: "/poi-images/poland-dunajec-gorge-nature-v2.webp"},
-  {
-    id: "poland-tarnica-peak-nature-v2",
-    parent: "PL",
-    type: "peak",
-    name: { de: "Tarnica", hu: "Tarnica", ro: "Vârful Tarnica", en: "Tarnica Peak"},
-    image: "/poi-images/poland-tarnica-peak-nature-v2.webp",
-    coords: [22.7267, 49.0747],
-    coords: [22.7267, 49.0747],
-    description: {
-      de: "Die Tarnica ist der höchste Gipfel der polnischen Bieszczady im Südosten des Landes. Der Berg zeichnet sich durch seine charakteristische Form und die weiten Almwiesen, die sogenannten Poloninas, aus.",
-      hu: "A Tarnica a lengyel Bieszczady legmagasabb csúcsa az ország délkeleti részén. A hegyet jellegzetes alakja és a kiterjedt hegyi rétek, az úgynevezett polonyinák jellemzik.",
-      ro: "Tarnica este cel mai înalt vârf din Bieszczady polonezi, în sud-estul țării. Muntele se distinge prin forma sa caracteristică și pajiștile alpine vaste, numite poloninas.",
-      en: "Tarnica is the highest peak of the Polish Bieszczady Mountains in the southeast of the country. The mountain is known for its distinctive shape and vast alpine meadows called poloninas.",
-    },
-    facts: {
-      de: ["Höhe von 1.346 Metern", "Höchster Punkt im Bieszczady-Nationalpark", "Gipfelkreuz zum Gedenken an Johannes Paul II.", "Teil der Ostkarpaten"],
-      hu: ["Magassága 1346 méter", "A Bieszczady Nemzeti Park legmagasabb pontja", "Kereszt áll a csúcson II. János Pál emlékére", "A Keleti-Kárpátok része"],
-      ro: ["Înălțime de 1.346 metri", "Cel mai înalt punct din Parcul Național Bieszczady", "Cruce pe vârf în memoria lui Ioan Paul al II-lea", "Parte a Carpaților Orientali"],
-      en: ["Elevation of 1,346 meters", "Highest point in Bieszczady National Park", "Summit cross commemorates John Paul II", "Part of the Eastern Carpathians"],
-    },
-    imageHint: "Tarnica peak Bieszczady Mountains Poland",
-    descriptionAdvanced: {
-      de: "Die Tarnica ist die markanteste Erhebung im Nationalpark Bieszczady und bietet ein völlig anderes Gebirgserlebnis als die rauen Tatras. Charakteristisch für den Berg sind die weitläufigen, baumlosen Almwiesen, die sogenannten Poloninas, die sich ab einer bestimmten Höhe erstrecken und das Landschaftsbild dominieren. Der Aufstieg führt meist durch dichte, urwaldartige Buchenwälder, bevor sich das Gelände oberhalb der Waldgrenze öffnet und einen ungestörten Blick auf das sanft gewellte Karpatenvorland freigibt. Auf dem felsigen Gipfel steht ein großes Eisenkreuz, das an die heimlichen Wanderungen des späteren Papstes Johannes Paul II. in dieser damals entlegenen Grenzregion erinnert. Die Region ist auch für ihren Sternenreichtum bekannt, weshalb die Gegend um die Tarnica ein beliebter Ort für Astronomen und Nachtwanderer ist.",
-      hu: "A Tarnica a Bieszczady Nemzeti Park legjellegzetesebb és legmagasabb kiemelkedése, amely a zord Tátrával ellentétben egy teljesen más, szelídebb hegyvidéki élményt kínál. A hegy legfőbb jellemzői a kiterjedt, fátlan havasi rétek, az úgynevezett polonyinák, amelyek egy bizonyos magasság felett teljesen uralják a tájképet. A csúcsra vezető út nagyrészt sűrű, őserdőszerű bükkösökön halad keresztül, mielőtt az erdőhatár felett a terep kinyílik, és zavartalan kilátást nyújt a lágyan hullámzó Kárpátok vonulataira. A sziklás hegytetőn egy hatalmas vaskereszt áll, amely a későbbi II. János Pál pápa titkos túráinak állít emléket ebben az egykor elszigetelt, elzárt határvidéken. A régió továbbá rendkívül alacsony fényszennyezettségéről is híres, így a Tarnica környéke a csillagászok és az éjszakai túrázók egyik kedvelt célpontja.",
-      ro: "Tarnica este cea mai proeminentă înălțime din Parcul Național Bieszczady, oferind o experiență montană complet diferită față de munții stâncoși Tatra. Muntele se caracterizează prin pajiștile sale alpine vaste și lipsite de copaci, cunoscute sub numele de poloninas, care domină peisajul de la o anumită altitudine. Ascensiunea se face inițial prin păduri dense, seculare, de fagi, înainte ca terenul să se deschidă deasupra limitei arborilor, oferind o priveliște neîntreruptă asupra crestelor ușor ondulate ale Carpaților. Pe vârful stâncos se înalță o cruce mare de fier, comemorând drumețiile secrete ale viitorului Papă Ioan Paul al II-lea în această regiune de graniță, odinioară izolată. Zona este, de asemenea, renumită pentru cerul său plin de stele, fiind un loc îndrăgit de astronomi și drumeți nocturni.",
-      en: "Tarnica is the most prominent elevation in the Bieszczady National Park, offering a completely different mountain experience compared to the rugged Tatras. The mountain is most strongly characterized by its extensive, treeless alpine meadows known as poloninas, which completely dominate the landscape above a certain altitude. The ascent primarily leads through dense, primeval-like beech forests before the terrain dramatically opens up above the tree line, revealing an unobstructed panoramic view of the gently rolling Carpathian ridges. On the rocky summit stands a large iron cross, specifically commemorating the secret hiking trips of the future Pope John Paul II in this once deeply isolated border region. The area is also highly renowned for its exceptionally dark skies, making the surroundings of Tarnica a highly favored destination for stargazers and night hikers."
-    },
-    factsAdvanced: {
-      de: ["A hegycsúcs tengerszint feletti magassága 1346 méter.", "A Keleti-Kárpátokhoz tartozó lengyel Bieszczady legmagasabb pontja.", "A csúcson található emlékművet, egy fémkeresztet, II. János Pál pápa tiszteletére emelték.", "Nyáron népszerű célpont, tiszta időben egészen az ukrán Kárpátokig el lehet látni.", "A hegyvidék a barna medvék, farkasok és hiúzok egyik utolsó európai menedéke.", "A fátlan hegyi rétek (polonyinák) gazdag alpesi növényvilággal rendelkeznek."],
-      hu: [],
-      ro: [],
-      en: []
-    }, image: "/poi-images/poland-tarnica-peak-nature-v2.webp"},
-  {
+    {
     id: "poland-sniardwy-lake-nature-v2",
     parent: "PL",
     type: "lake",

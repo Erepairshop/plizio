@@ -1,40 +1,7 @@
 import type { POI } from "./poi";
 
 export const poiExtraBhutanLifeV2: POI[] = [
-  {
-    id: "phobjikha-valley-life-v2",
-    type: "wildlife-area",
-    parent: "BT-24",
-    coords: [90.1764, 27.4439],
-    name: { de: "Phobjikha-Tal", hu: "Phobjikha-völgy", ro: "Valea Phobjikha", en: "Phobjikha Valley",
-},
-    description: {
-      de: "Ein weites Gletschertal, das als wichtigstes Winterquartier für die stark gefährdeten Schwarzhalskraniche aus Tibet bekannt ist.",
-      hu: "Széles gleccservölgy, amely a Tibetből érkező, veszélyeztetett feketenyakú darvak legfontosabb telelőhelyeként ismert.",
-      ro: "O vale glaciară largă, cunoscută ca principalul loc de iernat pentru cocorii cu gât negru pe cale de dispariție din Tibet.",
-      en: "A wide glacial valley known as the most important wintering ground for the highly endangered black-necked cranes from Tibet."
-    },
-    facts: {
-      de: ["Winterquartier für seltene Kraniche", "Rund 3000 Meter über dem Meeresspiegel", "Beliebt für Ökotourismus", "Traditionelle Landwirtschaft prägt das Bild"],
-      hu: ["Ritka darvak telelőhelye", "Körülbelül 3000 méter tengerszint feletti magasságban", "Népszerű az ökoturizmus számára", "A hagyományos mezőgazdaság jellemzi"],
-      ro: ["Loc de iernat pentru cocori rari", "Aproximativ 3000 de metri deasupra nivelului mării", "Popular pentru ecoturism", "Agricultura tradițională domină peisajul"],
-      en: ["Wintering ground for rare cranes", "Around 3000 meters above sea level", "Popular for ecotourism", "Traditional agriculture shapes the landscape"]
-    },
-    image: "/poi-images/phobjikha-valley-life-v2.webp",
-    descriptionAdvanced: {
-      de: "Das Phobjikha-Tal im Wangdue Phodrang-Distrikt ist eines der schönsten Gletschertäler Bhutans. Es liegt auf einer Höhe von etwa 3.000 Metern und ist bekannt für seine unberührte Natur und die jährliche Ankunft der gefährdeten Schwarzhalskraniche. Das Tal wird von der Gemeinde Phobjikha bewohnt, die hauptsächlich Landwirtschaft betreibt. Die traditionellen Bauernhäuser sind aus Lehm und Holz gebaut. Das Tal ist auch der Standort des Gangtey-Klosters, eines bedeutenden buddhistischen Zentrums aus dem 17. Jahrhundert. Die Umgebung bietet Wanderwege durch Bambuswälder und Feuchtgebiete. Der Kranichbeobachtungsposten am Rand des Tals zieht Vogelkundler an. Jedes Jahr werden zwischen November und Februar Hunderte von Kranichen gesichtet.",
-      hu: "A Phobjikha-völgy Bhután egyik legfestőibb gleccservölgye, amely 3000 méteres tengerszint feletti magasságban fekszik. A völgy vulkanikus talajú, és jellegzetes növényvilággal rendelkezik, például rododendron- és bambusz erdőkkel. A terület híres a télen érkező feketenyakú darvakról, amelyek novembertől februárig tartózkodnak itt. A völgyben található a Gangtey kolostor, amelyet 1613-ban alapítottak. A kolostor a drukpa kagyü buddhista hagyományhoz tartozik. A völgyben mezőgazdasági tevékenységet folytatnak, főként burgonya és rizs termesztését. A látogatók számára számos túraútvonal áll rendelkezésre, melyek keresztülvezetnek a hagyományos falvakon és a védett területeken.",
-      ro: "Valea Phobjikha este o vale glaciară situată în districtul Wangdue Phodrang, la o altitudine de aproximativ 3.000 de metri. Este renumită pentru populația de cocori cu gât negru, o specie pe cale de dispariție, care iernează aici între noiembrie și februarie. Valea este înconjurată de păduri de pini și bambus, iar pe fundal se înalță vârfuri înzăpezite. În vale se află mănăstirea Gangtey, fondată în secolul al XVII-lea, un important centru al budismului Vajrayana. Locuitorii văii practică agricultura de subzistență, cultivând cartofi și orez. Centrul de vizitare al cocorilor oferă informații despre aceste păsări și despre eforturile de conservare. Valea este accesibilă pe drum, iar peisajul include terase agricole și pășuni alpine.",
-      en: "Phobjikha Valley is a glacial valley in Bhutan, known for its pristine environment and the black-necked cranes that migrate here each winter. The valley floor is flat and marshy, surrounded by steep hillsides covered in bamboo and rhododendron forests. The Gangtey Monastery perched on a ridge overlooks the valley. The area is a designated conservation zone to protect the cranes. Agriculture is the main livelihood, with crops like potatoes and buckwheat. The valley offers trekking trails connecting villages and sacred sites. The annual Crane Festival celebrates the arrival of the cranes and is held at the Gangtey Monastery. The valley's remote location has preserved its traditional Bhutanese culture.",
-    },
-    factsAdvanced: {
-      de: ["Höhe: 3.000 Meter", "Fläche: ca. 200 km²", "Kranichpopulation: 400–500 Vögel pro Jahr", "Gründung Gangtey-Kloster: 1613", "Durchschnittstemperatur im Winter: –5 °C", "Einwohner: ca. 4.500"],
-      hu: ["Tengerszint feletti magasság: 3.000 m", "Terület: 200 négyzetkilométer", "Darvak száma: 400–500 évente", "Gangtey kolostor alapítása: 1613", "Téli átlaghőmérséklet: –5 °C", "Lakosság: 4.500 fő"],
-      ro: ["Altitudine: 3.000 m", "Suprafață: 200 km²", "Populație de cocori: 400–500 anual", "Anul fondării mănăstirii Gangtey: 1613", "Temperatura medie iarna: –5 °C", "Populație locală: 4.500 locuitori"],
-      en: ["Elevation: 3,000 m (9,843 ft)", "Area: 200 km²", "Crane population: 400–500 annually", "Gangtey Monastery founded: 1613", "Winter average temperature: –5 °C (23 °F)", "Local population: 4,500"],
-    },
-  },
-  {
+    {
     id: "motithang-takin-preserve-life-v2",
     type: "wildlife-area",
     parent: "BT-11",

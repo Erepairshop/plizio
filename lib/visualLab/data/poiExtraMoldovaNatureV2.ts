@@ -71,42 +71,7 @@ export const moldovaNatureV2: POI[] = [
       en: ["Founded in May 1992", "Area of 5,642 hectares", "900 different plant species", "Elevation up to 400 meters"],
     },
   },
-  {
-    id: "moldova-suta-de-movile-nature-v2",
-    parent: "MD",
-    type: "valley",
-    name: { de: "Hundert Hügel", hu: "Száz domb vidéke", ro: "Suta de Movile", en: "Hundred Knolls"},
-    image: "/poi-images/moldova-suta-de-movile-nature-v2.webp",
-    coords: [27.233, 47.816],
-    coords: [27.233, 47.816],
-    description: {
-      de: "Ein einzigartiges geomorphologisches Phänomen entlang des Prut, bestehend aus über 3.500 Hügeln unterschiedlicher Größe. Ihre Entstehung ist bis heute ein wissenschaftliches Rätsel zwischen Erosion und Erdrutschen.",
-      hu: "Egyedülálló felszíni jelenség a Prut mentén, amely több mint 3500 különböző méretű dombból áll. Eredetük ma is tudományos vita tárgya az erózió és a földcsuszamlások között.",
-      ro: "Un fenomen geomorfologic unic de-a lungul Prutului, format din peste 3.500 de movile de dimensiuni variate. Originea lor rămâne o enigmă științifică între eroziune și alunecări de teren.",
-      en: "A unique geomorphological phenomenon along the Prut, consisting of over 3,500 knolls of various sizes. Their origin remains a scientific puzzle between erosion and landslides.",
-    },
-    facts: {
-      de: ["Erstreckt sich über 1.600 Hektar", "Hügel erreichen Höhen bis zu 30 Meter", "Liegt zwischen den Dörfern Braniște und Cobani", "Teil des Reservats Pădurea Domnească"],
-      hu: ["1600 hektáron terül el", "A dombok magassága elérheti a 30 métert", "Braniște és Cobani falvak között található", "A Pădurea Domnească rezervátum része"],
-      ro: ["Se întinde pe 1.600 de hectare", "Movilele ating înălțimi de până la 30 metri", "Situat între satele Braniște și Cobani", "Parte a rezervației Pădurea Domnească"],
-      en: ["Covers 1,600 hectares", "Knolls reach heights up to 30 meters", "Located between Braniște and Cobani villages", "Part of the Royal Forest Reserve"],
-    },
-    imageHint: "Green landscape with many small symmetrical hills",
-    image: "/poi-images/moldova-suta-de-movile-nature-v2.webp",
-    descriptionAdvanced: {
-      de: "Einzigartige geologische Formation am Pruth mit über 3.500 Hügeln, die sich über 1.600 Hektar erstrecken und deren Ursprung bis heute wissenschaftlich umstritten ist.",
-      hu: "Egyedülálló geológiai képződmény a Prut mentén, több mint 3500 halommal 1600 hektáron, melyek pontos kialakulása máig tudományos viták tárgya.",
-      ro: "Formațiune geologică unică pe malul Prutului, cuprinzând peste 3.500 de movile dispuse pe 1.600 de hectare, a căror origine rămâne intens dezbătută.",
-      en: "A unique geological formation along the Prut featuring over 3,500 mounds across 1,600 hectares, whose exact origin remains a subject of scientific debate.",
-    },
-    factsAdvanced: {
-      de: ["Über 3.500 einzelne Hügel", "Erstreckt sich über 1.600 Hektar", "Maximale Hügelhöhe von 30m", "Gelegen auf der Pruth-Terrasse"],
-      hu: ["Több mint 3500 egyedi halom", "1600 hektáros kiterjedés", "30 méteres maximális magasság", "A Prut folyó teraszán található"],
-      ro: ["Peste 3.500 de movile", "Întindere de 1.600 hectare", "Înălțime maximă de 30 metri", "Situată pe terasa râului Prut"],
-      en: ["Over 3,500 individual mounds", "Spans over 1,600 hectares", "Maximum mound height of 30m", "Located on the Prut terrace"],
-    },
-  },
-  {
+    {
     id: "moldova-balanesti-hill-nature-v2",
     parent: "MD",
     type: "peak",

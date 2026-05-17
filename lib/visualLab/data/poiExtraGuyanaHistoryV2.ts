@@ -163,85 +163,7 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
       ro: ["Construită în 1881", "Turn de ceas de 18 metri", "Stil victorian", "Pe malul râului Demerara", "Acoperiș din fier", "Arsă de mai multe ori"],
       en: ["Built in 1881", "18-meter clock tower", "Victorian style", "Location on Demerara River", "Iron roof structure", "Burned down multiple times"],
     },
-  }, {
-    id: "gy-parliament-building-history-v2",
-    type: "historical",
-    parent: "GY-DE",
-    coords: [-58.1645, 6.8088],
-    name: { de: "Parlamentsgebäude", hu: "Parlament Épülete", ro: "Clădirea Parlamentului", en: "Parliament Building"},
-    image: "/poi-images/gy-parliament-building-history-v2.webp",
-    description: { de: "Ein klassizistisches Gebäude aus dem Jahr 1834, in dem die Nationalversammlung von Guyana tagt.", hu: "Egy 1834-ből származó klasszicista épület, ahol a guyanai nemzetgyűlés ülésezik.", ro: "O clădire neoclasică din 1834, unde se întrunește Adunarea Națională a Guyanei.", en: "A neoclassical building dating back to 1834, where the National Assembly of Guyana meets." },
-    facts: {
-      de: ["Hier wurden Sklaven formell emanzipiert.", "Entworfen vom Architekten Joseph Hadfield."],
-      hu: ["Itt hirdették ki hivatalosan a rabszolgák felszabadítását.", "Joseph Hadfield építész tervezte."],
-      ro: ["Aici s-a proclamat oficial emanciparea sclavilor.", "Proiectată de arhitectul Joseph Hadfield."],
-      en: ["This is where slaves were formally emancipated.", "Designed by architect Joseph Hadfield."]
-    }, image: "/poi-images/gy-parliament-building-history-v2.webp",
-    descriptionAdvanced: {
-      de: "Das Parliament Building in Georgetown, auch bekannt als Public Buildings, wurde 1829 bis 1834 erbaut. Es beherbergt die Nationalversammlung von Guyana. Der neoklassizistische Bau aus rotem Backstein mit weißen Säulen ist ein markantes Wahrzeichen. Ursprünglich als Gerichtsgebäude genutzt, wurde es später Sitz des Parlaments. Die Fassade zeigt eine Kolonnade mit ionischen Kapitellen. Im Inneren befinden sich der Sitzungssaal und historische Gemälde. Das Gebäude steht unter Denkmalschutz.",
-      hu: "A guyánai parlament épülete Georgetownban, más néven Public Buildings, 1829 és 1834 között épült. Itt ülésezik Guyana Nemzetgyűlése. A vörös téglából épült, fehér oszlopokkal díszített neoklasszicista épület jellegzetes nevezetesség. Eredetileg bíróságként használták, később lett a parlament székhelye. A homlokzaton ion oszlopfős oszlopsor látható. Belül található az ülésterem és történelmi festmények. Az épület műemléki védettséget élvez.",
-      ro: "Clădirea Parlamentului din Georgetown, cunoscută și sub numele de Public Buildings, a fost construită între 1829 și 1834. Găzduiește Adunarea Națională a Guyanei. Structura neoclasică din cărămidă roșie cu coloane albe este un reper distinctiv. Inițial folosită ca tribunal, a devenit ulterior sediul parlamentului. Fațada prezintă o colonadă cu capiteluri ionice. Interiorul include sala de ședințe și picturi istorice. Clădirea este protejată ca monument.",
-      en: "The Parliament Building in Georgetown, also known as the Public Buildings, was built between 1829 and 1834. It houses the National Assembly of Guyana. The neoclassical red brick structure with white columns is a prominent landmark. Originally used as a courthouse, it later became the seat of parliament. The façade features a colonnade with Ionic capitals. Inside are the chamber and historical paintings. The building is a protected monument.",
-    },
-    factsAdvanced: {
-      de: ["Erbaut 1829-1834", "Neoklassizistischer Stil", "Roter Backstein", "Ionische Säulen", "Sitz der Nationalversammlung", "Ursprünglich Gerichtsgebäude"],
-      hu: ["1829-1834 között épült", "Neoklasszicista stílus", "Vörös tégla", "Ion oszlopok", "Nemzetgyűlés székhelye", "Eredetileg bíróság"],
-      ro: ["Construit între 1829-1834", "Stil neoclasic", "Cărămidă roșie", "Coloane ionice", "Sediu al Adunării Naționale", "Inițial tribunal"],
-      en: ["Built 1829-1834", "Neoclassical style", "Red brick", "Ionic columns", "Seat of National Assembly", "Originally a courthouse"],
-    },
-  }, {
-    id: "gy-georgetown-city-hall-history-v2",
-    type: "historical",
-    parent: "GY-DE",
-    coords: [-58.1642, 6.8122],
-    name: { de: "Rathaus von Georgetown", hu: "Georgetown Városháza", ro: "Primăria din Georgetown", en: "Georgetown City Hall"},
-    image: "/poi-images/gy-georgetown-city-hall-history-v2.webp",
-    description: { de: "Ein herausragendes Beispiel der gotischen Wiedergeburtsarchitektur, oft als das schönste Gebäude der Karibik bezeichnet.", hu: "A neogótikus építészet kiemelkedő példája, amelyet gyakran a Karib-térség legszebb épületének neveznek.", ro: "Un exemplu remarcabil de arhitectură neogotică, adesea numită cea mai frumoasă clădire din Caraibe.", en: "An outstanding example of Gothic Revival architecture, often described as the most handsome building in the Caribbean." },
-    facts: {
-      de: ["Das Gebäude wurde 1889 fertiggestellt.", "Der Turm ist etwa 30 Meter hoch."],
-      hu: ["Az épület 1889-ben készült el.", "A torony körülbelül 30 méter magas."],
-      ro: ["Clădirea a fost finalizată în 1889.", "Turnul are o înălțime de aproximativ 30 de metri."],
-      en: ["The building was completed in 1889.", "The tower is approximately 30 meters high."]
-    }, image: "/poi-images/gy-georgetown-city-hall-history-v2.webp",
-    descriptionAdvanced: {
-      de: "Das Georgetown City Hall wurde 1889 im neugotischen Stil erbaut. Das Gebäude aus lokalem Holz und Backstein dient als Sitz der Stadtverwaltung. Charakteristisch sind der zentrale Turm, die Spitzbogenfenster und das Ziergiebel. Es liegt an der Avenue of the Republic und ist ein Beispiel für viktorianische Architektur in den Tropen. Das Rathaus beherbergt den Bürgermeister und den Stadtrat. Es wurde mehrfach renoviert, um Erdbeben und Wirbelstürmen standzuhalten.",
-      hu: "A Georgetown City Hall 1889-ben épült neogótikus stílusban. A helyi fából és téglából készült épület a városi önkormányzat székhelye. Jellemzője a központi torony, a csúcsíves ablakok és a díszes oromzat. A Köztársaság sugárúton található, és a trópusi viktoriánus építészet példája. Az épület a polgármester és a városi tanács irodáinak ad otthont. Többször felújították, hogy ellenálljon a földrengéseknek és hurrikánoknak.",
-      ro: "Primăria orașului Georgetown a fost construită în 1889 în stil neogotic. Clădirea din lemn local și cărămidă servește ca sediu al administrației orașului. Caracteristicile includ turnul central, ferestrele ogivale și frontoanele ornamentate. Se află pe Avenue of the Republic și este un exemplu de arhitectură victoriană în tropice. Primăria găzduiește biroul primarului și consiliul orașului. A fost renovată de mai multe ori pentru a rezista cutremurelor și cicloanelor.",
-      en: "Georgetown City Hall was built in 1889 in Gothic Revival style. The building, made of local timber and brick, serves as the seat of city government. Features include a central tower, pointed arch windows, and decorative gables. It is located on Avenue of the Republic and is an example of Victorian architecture in the tropics. The hall houses the mayor and city council. It has been renovated several times to withstand earthquakes and hurricanes.",
-    },
-    factsAdvanced: {
-      de: ["Erbaut 1889", "Neugotischer Stil", "Holz und Backstein", "Zentraler Turm", "Sitz der Stadtverwaltung", "Mehrfach renoviert"],
-      hu: ["1889-ben épült", "Neogótikus stílus", "Fa és tégla", "Központi torony", "Városi önkormányzat székhelye", "Többször felújították"],
-      ro: ["Construită în 1889", "Stil neogotic", "Lemn și cărămidă", "Turn central", "Sediu al administrației orașului", "Renovată de mai multe ori"],
-      en: ["Built in 1889", "Gothic Revival style", "Timber and brick", "Central tower", "Seat of city government", "Renovated multiple times"],
-    },
-  }, {
-    id: "gy-umana-yana-history-v2",
-    type: "historical",
-    parent: "GY-DE",
-    coords: [-58.1663, 6.8275],
-    name: { de: "Umana Yana", hu: "Umana Yana", ro: "Umana Yana", en: "Umana Yana"},
-    image: "/poi-images/gy-umana-yana-history-v2.webp",
-    description: { de: "Eine traditionelle indianische Versammlungshütte in Georgetown, die 1972 für eine wichtige diplomatische Konferenz erbaut wurde.", hu: "Hagyományos indián gyülekezeti kunyhó Georgetownban, amelyet 1972-ben építettek egy fontos diplomáciai konferenciára.", ro: "O colibă tradițională amerindiană în Georgetown, construită în 1972 pentru o conferință diplomatică importantă.", en: "A traditional Amerindian meeting benab in Georgetown, built in 1972 for a major diplomatic conference." },
-    facts: {
-      de: ["Der Name bedeutet \\\"Treffpunkt des Volkes\\\".", "Nach einem Brand im Jahr 2014 originalgetreu wiederaufgebaut."],
-      hu: ["A név jelentése: \\\"Az emberek találkozóhelye\\\".", "Egy 2014-es tűzvész után hűen újjáépítették."],
-      ro: ["Numele înseamnă \\\"Locul de întâlnire al oamenilor\\\".", "Reconstruită fidel după un incendiu în 2014."],
-      en: ["The name means \\\"Meeting place of the people\\\".", "Faithfully rebuilt following a fire in 2014."]
-    }, image: "/poi-images/gy-umana-yana-history-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Umana Yana ist ein reetgedecktes Versammlungsgebäude in Georgetown, das 1972 für den Außenministertreffen der Blockfreien Staaten errichtet wurde. Der Name stammt aus der Sprache der Wai-Wai und bedeutet „Versammlungshaus“. Die kegelförmige Struktur aus Palmblättern und Holz ist 16 Meter hoch. Sie wurde von indigenen Handwerkern gebaut. Heute dient sie als Ort für Veranstaltungen und Ausstellungen. Die Umana Yana symbolisiert die indigene Kultur Guyanas.",
-      hu: "Az Umana Yana egy nádtetős gyűlésterem Georgetownban, amelyet 1972-ben építettek az el nem kötelezett országok külügyminiszteri találkozójára. A név a wai-wai nyelvből származik, jelentése „gyülekezőhely”. A kúp alakú szerkezet pálmalevelekből és fából készült, magassága 16 méter. Bennszülött kézművesek építették. Ma rendezvények és kiállítások helyszíne. Az Umana Yana Guyana őslakos kultúráját szimbolizálja.",
-      ro: "Umana Yana este o clădire de adunări cu acoperiș de stuf din Georgetown, construită în 1972 pentru întâlnirea miniștrilor de externe ai țărilor nealiniate. Numele provine din limba wai-wai și înseamnă „casă de adunare”. Structura conică din frunze de palmier și lemn are 16 metri înălțime. A fost construită de meșteșugari indigeni. Astăzi este folosită pentru evenimente și expoziții. Umana Yana simbolizează cultura indigenă a Guyanei.",
-      en: "Umana Yana is a thatched meeting hall in Georgetown, built in 1972 for the Non-Aligned Movement foreign ministers' conference. The name comes from the Wai-Wai language, meaning 'meeting house'. The conical structure, made of palm leaves and timber, is 16 meters high. It was built by indigenous craftsmen. Today it serves as a venue for events and exhibitions. Umana Yana symbolizes Guyana's indigenous culture.",
-    },
-    factsAdvanced: {
-      de: ["Erbaut 1972", "16 Meter Höhe", "Aus Palmblättern und Holz", "Kegelförmig", "Für Blockfreie Staaten", "Wai-Wai Name"],
-      hu: ["1972-ben épült", "16 méter magas", "Pálmalevelekből és fából", "Kúp alakú", "El nem kötelezett országok számára", "Wai-wai név"],
-      ro: ["Construită în 1972", "Înălțime de 16 metri", "Din frunze de palmier și lemn", "Formă conică", "Pentru țări nealiniate", "Nume din limba wai-wai"],
-      en: ["Built in 1972", "16 meters high", "Made of palm leaves and timber", "Conical shape", "For Non-Aligned Movement", "Wai-Wai name"],
-    },
-  }, {
+  },    {
     id: "gy-1763-monument-history-v2",
     type: "historical",
     parent: "GY-DE",
@@ -267,59 +189,7 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
       ro: ["Inaugurat în 1976", "Înălțime de 5 metri", "Statuie de bronz", "Comemorează 1763", "Revolta condusă de Cuffy", "Simbol național"],
       en: ["Unveiled in 1976", "5 meters tall", "Bronze statue", "Commemorates 1763", "Cuffy-led revolt", "National symbol"],
     },
-  }, {
-    id: "gy-walter-roth-museum-history-v2",
-    type: "historical",
-    parent: "GY-DE",
-    coords: [-58.1633, 6.8155],
-    name: { de: "Walter Roth Museum", hu: "Walter Roth Múzeum", ro: "Muzeul Walter Roth", en: "Walter Roth Museum"},
-    image: "/poi-images/gy-walter-roth-museum-history-v2.webp",
-    description: { de: "Das erste Museum in der englischsprachigen Karibik, das sich der indianischen Anthropologie widmet.", hu: "Az angol nyelvű Karib-térség első múzeuma, amely az indián antropológiának szenteli magát.", ro: "Primul muzeu din Caraibele anglofone dedicat antropologiei amerindiene.", en: "The first museum in the English-speaking Caribbean dedicated to Amerindian anthropology." },
-    facts: {
-      de: ["Gegründet im Jahr 1974.", "Befindet sich in einem historischen Gebäude aus dem 19. Jahrhundert."],
-      hu: ["1974-ben alapították.", "Egy 19. századi történelmi épületben található."],
-      ro: ["Fondat în anul 1974.", "Găzduit într-o clădire istorică din secolul al XIX-lea."],
-      en: ["Founded in the year 1974.", "Housed in a historic 19th-century building."]
-    }, image: "/poi-images/gy-walter-roth-museum-history-v2.webp",
-    descriptionAdvanced: {
-      de: "Das Walter Roth Museum in Georgetown ist ein anthropologisches Museum, das der indigenen Kultur Guyanas gewidmet ist. Es wurde 1982 eröffnet und ist im viktorianischen Holzhaus beherbergt. Die Sammlung umfasst Artefakte, Kostüme, Werkzeuge und Zeremonialgegenstände der neun indigenen Stämme. Benannt ist es nach dem Ethnologen Walter Roth. Das Museum veranstaltet Bildungsprogramme und Ausstellungen.",
-      hu: "A Walter Roth Múzeum Georgetownban egy antropológiai múzeum, amely Guyana bennszülött kultúrájának szentelt. 1982-ben nyitották meg, és egy viktoriánus faházban kapott helyet. A gyűjtemény a kilenc bennszülött törzs tárgyait, ruháit, eszközeit és szertartási kellékeit tartalmazza. Nevét Walter Roth etnológusról kapta. A múzeum oktatási programokat és kiállításokat szervez.",
-      ro: "Muzeul Walter Roth din Georgetown este un muzeu antropologic dedicat culturii indigene a Guyanei. A fost deschis în 1982 și este găzduit într-o casă victoriană din lemn. Colecția include artefacte, costume, unelte și obiecte ceremoniale ale celor nouă triburi indigene. Poartă numele etnologului Walter Roth. Muzeul organizează programe educaționale și expoziții.",
-      en: "The Walter Roth Museum in Georgetown is an anthropological museum dedicated to Guyana's indigenous culture. It opened in 1982 and is housed in a Victorian wooden house. The collection includes artifacts, costumes, tools, and ceremonial items from the nine indigenous tribes. It is named after ethnologist Walter Roth. The museum runs educational programs and exhibitions.",
-    },
-    factsAdvanced: {
-      de: ["Eröffnet 1982", "Viktorianisches Holzhaus", "Neun indigene Stämme", "Benannt nach Walter Roth", "Anthropologische Sammlung", "Bildungsprogramme"],
-      hu: ["1982-ben nyílt", "Viktoriánus faház", "Kilenc bennszülött törzs", "Walter Rothról elnevezve", "Antropológiai gyűjtemény", "Oktatási programok"],
-      ro: ["Deschis în 1982", "Casă victoriană din lemn", "Nouă triburi indigene", "Numit după Walter Roth", "Colecție antropologică", "Programe educaționale"],
-      en: ["Opened in 1982", "Victorian wooden house", "Nine indigenous tribes", "Named after Walter Roth", "Anthropological collection", "Educational programs"],
-    },
-  }, {
-    id: "gy-guyana-national-museum-history-v2",
-    type: "historical",
-    parent: "GY-DE",
-    coords: [-58.1652, 6.8130],
-    name: { de: "Nationalmuseum von Guyana", hu: "Guyanai Nemzeti Múzeum", ro: "Muzeul Național din Guyana", en: "Guyana National Museum"},
-    image: "/poi-images/gy-guyana-national-museum-history-v2.webp",
-    description: { de: "Ein bedeutendes Museum, das 1868 gegründet wurde und Artefakte zur Flora, Fauna und Geschichte Guyanas bewahrt.", hu: "Jelentős múzeum, amelyet 1868-ban alapítottak, és Guyana növény- és állatvilágának, valamint történelmének emlékeit őrzi.", ro: "Un muzeu major fondat în 1868, care păstrează artefacte din flora, fauna și istoria Guyanei.", en: "A major museum established in 1868, preserving artifacts related to Guyana's flora, fauna, and history." },
-    facts: {
-      de: ["Eines der ältesten Museen der Region.", "Das heutige Gebäude wurde 1951 eröffnet."],
-      hu: ["A régió egyik legrégebbi múzeuma.", "A jelenlegi épületet 1951-ben nyitották meg."],
-      ro: ["Unul dintre cele mai vechi muzee din regiune.", "Clădirea actuală a fost deschisă în 1951."],
-      en: ["One of the oldest museums in the region.", "The current building was opened in 1951."]
-    }, image: "/poi-images/gy-guyana-national-museum-history-v2.webp",
-    descriptionAdvanced: {
-      de: "Das Guyana National Museum in Georgetown wurde 1868 gegründet und ist das älteste Museum des Landes. Es beherbergt eine umfangreiche Sammlung zur Naturgeschichte, Archäologie und Geschichte Guyanas. Ausgestellt sind präkolumbianische Artefakte, Kolonialzeit-Dokumente, Mineralien und ausgestopfte Tiere. Das Gebäude im neoklassizistischen Stil wurde 1901 eröffnet. Es dient auch als Forschungsinstitut.",
-      hu: "A Guyana Nemzeti Múzeumot Georgetownban 1868-ban alapították, ez az ország legrégebbi múzeuma. Természettudományi, régészeti és történelmi gyűjteménye van. Kiállításai között szerepelnek prekolumbiánus tárgyak, gyarmati kori dokumentumok, ásványok és kitömött állatok. Az épület neoklasszicista stílusban épült, 1901-ben nyílt meg. Kutatóintézetként is szolgál.",
-      ro: "Muzeul Național al Guyanei din Georgetown a fost fondat în 1868 și este cel mai vechi muzeu al țării. Deține o colecție vastă de istorie naturală, arheologie și istorie a Guyanei. Expozițiile includ artefacte precolumbiene, documente coloniale, minerale și animale împăiate. Clădirea în stil neoclasic a fost deschisă în 1901. Servește și ca institut de cercetare.",
-      en: "The Guyana National Museum in Georgetown was founded in 1868 and is the oldest museum in the country. It houses extensive collections on natural history, archaeology, and history of Guyana. Exhibits include pre-Columbian artifacts, colonial documents, minerals, and stuffed animals. The neoclassical building opened in 1901. It also serves as a research institute.",
-    },
-    factsAdvanced: {
-      de: ["Gegründet 1868", "Ältestes Museum Guyanas", "Neoklassizistisches Gebäude", "Eröffnet 1901", "Natur- und Kulturgeschichte", "Forschungseinrichtung"],
-      hu: ["1868-ban alapították", "Guyana legrégebbi múzeuma", "Neoklasszicista épület", "1901-ben nyílt meg", "Természet- és kultúrtörténet", "Kutatóintézet"],
-      ro: ["Fondat în 1868", "Cel mai vechi muzeu din Guyana", "Clădire neoclasică", "Deschis în 1901", "Istorie naturală și culturală", "Institut de cercetare"],
-      en: ["Founded in 1868", "Oldest museum in Guyana", "Neoclassical building", "Opened in 1901", "Natural and cultural history", "Research institute"],
-    },
-  }, {
+  },   {
     id: "gy-red-house-history-v2",
     type: "historical",
     parent: "GY-DE",

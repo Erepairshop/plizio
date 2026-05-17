@@ -2,37 +2,7 @@
 import type { POI } from "./poi";
 
 export const poiExtraBotswanaHistoryV2: POI[] = [
-  {
-    id: "tsodilo-hills-history-v2",
-    type: "historical",
-    parent: "BW-NW",
-    coords: [21.7486, -18.7618],
-    name: {
-      de: "Tsodilo-Hügel",
-      hu: "Tsodilo-hegyek",
-      ro: "Dealurile Tsodilo",
-      en: "Tsodilo Hills"},
-    image: "/poi-images/tsodilo-hills-history-v2.webp",
-    descriptionAdvanced: {
-      hu: "A(z) tsodilo-hills-history-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
-    },
-    factsAdvanced: {
-      hu: ["A tsodilo-hills-history-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
-    }, image: "/poi-images/tsodilo-hills-history-v2.webp",
-    description: {
-      de: "Die Tsodilo-Hügel beherbergen eine der weltweit höchsten Dichten an Felsmalereien und gelten als heiliger Ort.",
-      hu: "Az UNESCO Világörökség része, amely több mint 4500 ősi sziklafestménynek ad otthont a Kalahári-sivatagban.",
-      ro: "Un sit din patrimoniul mondial UNESCO supranumit 'Louvre-ul deșertului' pentru picturile sale rupestre străvechi.",
-      en: "The Tsodilo Hills are a sacred UNESCO World Heritage site featuring over 4,500 rock paintings by the San people."
-    },
-    facts: {
-      de: ["UNESCO-Welterbe", "Über 4500 Felsmalereien", "Spiritualität der San-Völker"],
-      hu: ["A sivatag Louvre-jának hívják", "Szent hely a szan nép számára", "Több mint 100 000 évnyi történelem", "Négy fő domb alkotja"],
-      ro: ["Peste 4.500 de picturi", "Sălaș spiritual pentru San", "Locuit de mii de ani", "Patru dealuri principale"],
-      en: ["UNESCO World Heritage site", "Over 4,500 rock paintings", "Sacred site for San and Hambukushu", "Spans 100,000 years of history"]
-    }
-  },
-  {
+    {
     id: "domboshaba-ruins-history-v2",
     type: "historical",
     parent: "BW-NE",

@@ -271,33 +271,7 @@ export const nicaraguaCities: POI[] = [
       ro: ["Parte a Coridorului Biologic", "Peste 200.000 hectare de zonă centrală", "Amenințat de defrișări ilegale"],
       en: ["Key segment of the Biological Corridor", "Core zone exceeds 200,000 hectares", "Threatened by illegal logging"]
     }, image: "/poi-images/ni-bosawas.webp"},
-  {
-    id: "ni-leon-viejo",
-    type: "historical",
-    parent: "NI",
-    coords: [-86.6167, 12.4000],
-    name: { de: "Ruinen von León Viejo", hu: "León Viejo romjai", ro: "Ruinele León Viejo", en: "Ruins of León Viejo" },
-    description: { de: "Die Überreste einer der ersten spanischen Kolonialsiedlungen in Amerika.", hu: "Az egyik legelső amerikai spanyol gyarmati település maradványai.", ro: "Rămășițele uneia dintre primele așezări coloniale spaniole din America.", en: "The remains of one of the earliest Spanish colonial settlements in the Americas." },
-    descriptionAdvanced: {
-      de: "León Viejo wurde 1524 gegründet und 1610 nach einem Ausbruch des Vulkans Momotombo und schweren Erdbeben verlassen. Die Ruinen wurden erst 1967 wiederentdeckt und sind heute UNESCO-Welterbe.",
-      hu: "León Viejót 1524-ben alapították, de 1610-ben, a Momotombo-vulkán kitörése és súlyos földrengések után elhagyták. A romokat csak 1967-ben fedezték fel újra, ma az UNESCO világörökség része.",
-      ro: "León Viejo a fost fondat în 1524 și abandonat în 1610 în urma unei erupții a vulcanului Momotombo și a cutremurelor severe. Ruinele au fost redescoperite abia în 1967 și sunt acum sit UNESCO.",
-      en: "León Viejo was founded in 1524 but abandoned in 1610 following an eruption of the Momotombo volcano and series of earthquakes. Its ruins were rediscovered in 1967 and are now a UNESCO World Heritage site."
-    },
-    facts: {
-      de: ["Gegründet: 1524", "UNESCO-Weltkulturerbe", "Verlassen im Jahr 1610", "Wiederentdeckt: 1967"],
-      hu: ["Alapítva: 1524", "UNESCO Világörökség", "Elhagyva 1610-ben", "Újra felfedezve: 1967"],
-      ro: ["Fondat: 1524", "Patrimoniu UNESCO", "Abandonat în 1610", "Redescoperit: 1967"],
-      en: ["Founded: 1524", "UNESCO World Heritage site", "Abandoned in 1610", "Rediscovered in 1967"]
-    },
-    factsAdvanced: {
-      de: ["Älteste spanische Stadt in Nicaragua", "Diente als ursprüngliche Hauptstadt", "Zeigt das frühe koloniale Stadtlayout"],
-      hu: ["Nicaragua legrégebbi spanyol városa", "Eredetileg fővárosként szolgált", "A korai gyarmati városszerkezetet mutatja"],
-      ro: ["Cel mai vechi oraș spaniol din Nicaragua", "A servit drept capitală inițială", "Prezintă planul urbanistic colonial timpuriu"],
-      en: ["Oldest Spanish-built city in Nicaragua", "Served as the first colonial capital", "Exhibits early Spanish colonial urban planning"]
-    },
-    historyYear: 1524, image: "/poi-images/ni-leon-viejo.webp"},
-  {
+    {
     id: "ni-el-castillo",
     type: "historical",
     parent: "NI",
@@ -734,32 +708,7 @@ export const nicaraguaLandmarks: POI[] = [
       ro: ["Situată aproape de Managua", "Dispune de piscine mari", "Populară pentru nunți"],
       en: ["Close proximity to Managua", "Features expansive resort facilities", "Highly popular wedding destination"]
     }, image: "/poi-images/ni-montelimar.webp"},
-  {
-    id: "ni-tiscapa",
-    type: "landmark",
-    parent: "NI",
-    coords: [-86.2667, 12.1333],
-    name: { de: "Loma de Tiscapa", hu: "Tiscapa-domb", ro: "Loma de Tiscapa", en: "Tiscapa Lagoon" },
-    description: { de: "Ein historischer Hügel und Kratersee im Herzen von Managua.", hu: "Történelmi domb és krátertó Managua szívében.", ro: "Un deal istoric și un lac de crater chiar în inima orașului Managua.", en: "A historic hill and crater lake located in the heart of Managua." },
-    descriptionAdvanced: {
-      de: "Die Loma de Tiscapa ist ein Nationaldenkmal und bietet einen Rundumblick auf Managua. Hier steht die ikonische Silhouette des Nationalhelden Augusto C. Sandino.",
-      hu: "A Tiscapa-domb nemzeti emlékmű, amely körpanorámát nyújt Managuára. Itt áll Augusto C. Sandino nemzeti hős ikonikus sziluett-szobra.",
-      ro: "Loma de Tiscapa este un monument național și oferă o vedere panoramică asupra orașului Managua. Aici se află silueta iconică a eroului național Augusto C. Sandino.",
-      en: "The Loma de Tiscapa is a historic landmark offering panoramic views of Managua. It features the iconic silhouette statue of national hero Augusto C. Sandino overlooking the city."
-    },
-    facts: {
-      de: ["Historischer Aussichtspunkt", "Kratersee im Zentrum", "Sandino-Silhouette", "Ehemaliger Präsidentenpalast"],
-      hu: ["Történelmi kilátópont", "Krátertó a központban", "Sandino-sziluett", "Egykori elnöki palota helyszíne"],
-      ro: ["Punct de belvedere istoric", "Lac de crater în centru", "Silueta lui Sandino", "Locul fostului palat prezidențial"],
-      en: ["Historic viewpoint", "Crater lake in city center", "Sandino silhouette statue", "Site of the former presidential palace"]
-    },
-    factsAdvanced: {
-      de: ["Vulkanischen Ursprungs", "Zentrum wichtiger politischer Ereignisse", "Bietet Ziplining über den See"],
-      hu: ["Vulkáni eredetű", "Fontos politikai események helyszíne", "Zipline lehetőség a tó felett"],
-      ro: ["De origine vulcanică", "Centrul unor evenimente politice majore", "Oferă zipline peste lac"],
-      en: ["Formed by volcanic activity", "Witness to key political history", "Offers an urban zipline experience"]
-    }, image: "/poi-images/ni-tiscapa.webp"},
-  {
+    {
     id: "ni-puerto-cabezas",
     type: "landmark",
     parent: "NI",

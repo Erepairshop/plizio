@@ -1,40 +1,7 @@
 import { POI } from './poi';
 export const belarusLandmarksV2: POI[] = [
 
-  {
-    id: "belarus-mir-castle-landmarks-v2",
-    parent: "BY",
-    type: "castle",
-    name: { de: "Schloss Mir", hu: "Miri várkastély", ro: "Castelul Mir", en: "Mir Castle Complex"},
-    image: "/poi-images/belarus-mir-castle-landmarks-v2.webp",
-    coords: [26.473, 53.451],
-    coords: [26.473, 53.451],
-    description: {
-      de: "Das Schloss Mir ist ein UNESCO-Weltkulturerbe aus dem 16. Jahrhundert. Es vereint gotische, Renaissance- und Barockelemente und war einst Sitz der Familie Radziwill.",
-      hu: "A Miri várkastély egy 16. századi UNESCO Világörökségi helyszín. Az épületegyüttes a gótika, a reneszánsz és a barokk stílusjegyeit ötvözi, egykor a Radziwiłł család székhelye volt.",
-      ro: "Castelul Mir este un sit al Patrimoniului Mondial UNESCO din secolul al XVI-lea. Acesta îmbină elemente gotice, renascentiste și baroce, fiind fosta reședință a familiei Radziwill.",
-      en: "Mir Castle is a 16th-century UNESCO World Heritage site and a masterpiece of Belarusian architecture. It blends Gothic, Renaissance, and Baroque styles and served as a Radziwill family residence.",
-    },
-    facts: {
-      de: ["Bauarbeiten begannen um 1520.", "UNESCO-Weltkulturerbe seit dem Jahr 2000.", "Verfügt über fünf massive Backsteintürme.", "Wurde im Zweiten Weltkrieg als Ghetto genutzt."],
-      hu: ["Az építkezés 1520 körül kezdődött.", "2000-ben került fel az UNESCO listájára.", "Öt jellegzetes bástyatoronnyal rendelkezik.", "A második világháború alatt gettóként működött."],
-      ro: ["Construcția a început în jurul anului 1520.", "Inclus în patrimoniul UNESCO din anul 2000.", "Are cinci turnuri masive de cărămidă.", "Folosit ca ghetou în timpul celui de-al Doilea Război Mondial."],
-      en: ["Construction began around 1520.", "UNESCO World Heritage site since 2000.", "Features five massive brick towers.", "Used as a ghetto during World War II."],
-    },
-    imageHint: "Mir Castle with its five towers reflected in the pond",
-    descriptionAdvanced: {
-      de: "Das Schloss Mir, eines der herausragendsten architektonischen Denkmäler in Belarus, liegt in der Region Hrodna und verkörpert eine faszinierende Mischung aus Gotik, Renaissance und Barock. Die fünf massiven Backsteintürme, die um 1520 errichtet wurden, prägen das unverwechselbare Erscheinungsbild der Festung, die über Jahrhunderte hinweg als prunkvolle Residenz der mächtigen Adelsfamilie Radziwiłł diente. Das Schloss hat im Laufe seiner Geschichte zahlreiche Kriege und Zerstörungen überstanden, darunter den Zweiten Weltkrieg, in dem es tragischerweise als Ghetto für die örtliche jüdische Bevölkerung missbraucht wurde. Nach umfangreichen Restaurierungsarbeiten wurde die Anlage im Jahr 2000 in die Liste des UNESCO-Weltkulturerbes aufgenommen und beherbergt heute ein vielbesuchtes Museum mit historischen Artefakten und prachtvollen Sälen.",
-      hu: "A Miri várkastély Fehéroroszország egyik legkiemelkedőbb építészeti műemléke, amely a Hrodnai területen található. A 16. század elején épült, öt lenyűgöző tégla bástyatoronnyal rendelkező erődítmény a gótika, a reneszánsz és a barokk építészet stílusjegyeinek különleges harmóniáját nyújtja. Évszázadokon keresztül a hatalmas Radziwiłł nemesi család fényűző rezidenciájaként működött, és számos háborús pusztítást vészelt át, beleértve a második világháborút is, amikor falai között gettót rendeztek be a helyi zsidó lakosság számára. A gondos és átfogó helyreállítási munkálatoknak köszönhetően a kastély együttes 2000-ben felkerült az UNESCO Világörökségi listájára. Napjainkban múzeumként üzemel, ahol a látogatók bejárhatják az egykori lakosztályokat és megismerhetik a régió gazdag történelmét.",
-      ro: "Castelul Mir, situat în regiunea Grodno, este unul dintre cele mai importante și impresionante monumente de arhitectură din Belarus, recunoscut la nivel internațional. Construcția sa a început în jurul anului 1520, fortăreața evidențiindu-se prin cele cinci turnuri masive de cărămidă roșie care îmbină armonios stilurile gotic, renascentist și baroc. Timp de secole, castelul a servit drept reședință fastuoasă pentru influenta familie nobiliară Radziwill, rezistând unor numeroase asedii și distrugeri de-a lungul timpului. În timpul celui de-al Doilea Război Mondial, incinta sa a fost folosită în mod tragic ca ghetou pentru populația evreiască locală. Restaurat meticulos, ansamblul a fost inclus în anul 2000 pe lista Patrimoniului Mondial UNESCO, devenind astăzi un muzeu vizitat de mii de turiști.",
-      en: "Mir Castle Complex, located in the Grodno Region, is one of the most prominent and recognizable architectural monuments in Belarus. Its construction began in the 1520s, resulting in a striking fortress featuring five massive red brick towers that uniquely blend Gothic, Renaissance, and Baroque architectural elements. For centuries, the castle served as the grand residence of the powerful and wealthy Radziwill family, enduring numerous wars and periods of destruction. During the dark times of World War II, the fortress was tragically utilized as a ghetto for the local Jewish population. Following extensive and careful restoration efforts, the entire complex was designated as a UNESCO World Heritage site in 2000. Today, it functions as a comprehensive museum showcasing the rich historical legacy of the region."
-    },
-    factsAdvanced: {
-      de: ["Construction of the fortress initially began in the 1520s under Duke Ilinich.", "Features five massive brick towers, each rising to approximately 25 meters.", "Passed into the ownership of the powerful Radziwill family in the year 1568.", "The complex includes a picturesque artificial lake and an English-style park.", "Tragically utilized as a ghetto for the Jewish population during World War II.", "Officially added to the UNESCO World Heritage list in the year 2000.", "Completely restored and fully opened to the public as a museum in 2010."],
-      hu: [],
-      ro: [],
-      en: []
-    }, image: "/poi-images/belarus-mir-castle-landmarks-v2.webp"},
-  {
+    {
     id: "belarus-national-library-landmarks-v2",
     parent: "BY",
     type: "landmark",
@@ -200,40 +167,7 @@ export const belarusLandmarksV2: POI[] = [
       en: []
     }
   },
-  {
-    id: "belarus-old-grodno-castle-landmarks-v2",
-    parent: "BY",
-    type: "castle",
-    name: { de: "Altes Schloss Grodno", hu: "Hrodnai öregvár", ro: "Castelul Vechi din Grodno", en: "Old Grodno Castle"},
-    image: "/poi-images/belarus-old-grodno-castle-landmarks-v2.webp",
-    coords: [23.823, 53.677],
-    coords: [23.823, 53.677],
-    description: {
-      de: "Das Alte Schloss in Grodno war einst die Residenz von Großfürsten und Königen. Es wurde im 14. Jahrhundert als Verteidigungsanlage erbaut und später zum Palast umgebaut.",
-      hu: "A hrodnai öregvár egykor nagyfejedelmek és királyok rezidenciája volt. A 14. században épült védelmi célokra, majd később palotává alakították át.",
-      ro: "Castelul Vechi din Grodno a fost reședința marilor duci și regi. Construit în secolul al XIV-lea pentru apărare, a fost ulterior transformat în palat.",
-      en: "The Old Grodno Castle was once the residence of Grand Dukes and Kings. Built in the 14th century as a defense fortification, it was later converted into a palace.",
-    },
-    facts: {
-      de: ["Von Großfürst Vytautas zur Festung ausgebaut.", "Wurde im 16. Jahrhundert für Stephan Báthory umgestaltet.", "Beherbergt heute ein historisches Museum.", "Wird derzeit umfassend im Renaissance-Stil restauriert."],
-      hu: ["Vitold nagyfejedelem építette ki erőddé.", "Báthory István király számára alakították át a 16. században.", "Ma történelmi-régészeti múzeumnak ad otthont.", "Jelenleg zajlik a reneszánsz stílusú rekonstrukciója."],
-      ro: ["Fortificat de Marele Duce Vytautas.", "Remodelat pentru Ștefan Báthory în secolul XVI.", "Găzduiește un muzeu de istorie și arheologie.", "Se află într-un amplu proces de restaurare renascentistă."],
-      en: ["Fortified by Grand Duke Vytautas.", "Remodeled for King Stephen Báthory in the 16th century.", "Houses a history and archaeology museum.", "Currently undergoing extensive Renaissance-style restoration."],
-    },
-    imageHint: "Old Grodno Castle stone walls and bridge",
-    descriptionAdvanced: {
-      de: "Das Alte Schloss in Grodno (Hrodna) thront erhaben auf einem steilen Hügel über dem malerischen Fluss Njemen und ist ein tief verwurzeltes Symbol der belarussischen Geschichte. Ursprünglich im 11. Jahrhundert als hölzerne Festung zur Verteidigung der westlichen Grenzen gegründet, wurde es im 14. Jahrhundert unter dem litauischen Großfürsten Vytautas dem Großen zu einer massiven Steinburg ausgebaut. Im 16. Jahrhundert ließ König Stephan Báthory die strenge Festung im Stil der Renaissance zu einem eleganten königlichen Palast umgestalten, in dem er auch zeitweise residierte und verstarb. Die Burg war Schauplatz zahlreicher wichtiger politischer Ereignisse der Polnisch-Litauischen Union. Heute beherbergt das Schloss ein faszinierendes historisch-archäologisches Museum, und die Anlage durchläuft seit einiger Zeit einen umfassenden Restaurierungsprozess, um ihr prachtvolles Aussehen aus der Renaissancezeit wiederherzustellen.",
-      hu: "A hrodnai öregvár a festői Nyeman folyó fölé magasodó meredek dombon helyezkedik el, és Fehéroroszország történelmének egyik legfontosabb szimbóluma. Eredetileg a 11. században alapították fából készült erődként a nyugati határok védelmére, majd a 14. században Nagy Vitold litván nagyfejedelem masszív kővárrá építtette át. A 16. században Báthory István lengyel király és erdélyi fejedelem a zord katonai erődítményt elegáns reneszánsz palotává alakíttatta, aki sokat tartózkodott itt és e falak között is hunyt el. A vár a Lengyel-Litván Unió számos fontos politikai eseményének volt helyszíne. Napjainkban az épület egy gazdag történelmi és régészeti múzeumnak ad otthont, és nagyszabású helyreállítási munkálatok zajlanak annak érdekében, hogy visszanyerje Báthory-korabeli reneszánsz pompáját.",
-      ro: "Castelul Vechi din Grodno se înalță maiestuos pe un deal abrupt deasupra râului Neman, fiind un simbol profund ancorat în istoria și identitatea națională a Belarusului. Fondat inițial în secolul al XI-lea ca o cetate de lemn pentru protejarea frontierelor vestice, a fost fortificat și transformat într-un castel masiv de piatră în secolul al XIV-lea de către Marele Duce lituanian Vytautas. În secolul al XVI-lea, regele Ștefan Báthory a ordonat reconstrucția fortăreței militare într-un palat regal rafinat, în stil renascentist, unde a și locuit adesea și unde a murit în 1586. Castelul a fost martorul multor evenimente politice majore ale Uniunii Polono-Lituaniene. Astăzi, acesta găzduiește un complex muzeal de istorie și arheologie și se află într-un proces amplu de restaurare pentru a recăpăta aspectul său renascentist strălucitor.",
-      en: "The Old Grodno Castle sits majestically atop a steep hill overlooking the picturesque Neman River, serving as a deeply rooted symbol of Belarusian history. Originally established in the 11th century as a wooden defensive outpost protecting the western borders, it was significantly expanded into a massive stone fortress in the 14th century under the Lithuanian Grand Duke Vytautas the Great. During the 16th century, King Stephen Báthory commissioned the transformation of the austere fortress into an elegant Renaissance royal palace, where he frequently resided and eventually passed away in 1586. The castle witnessed numerous crucial political events of the Polish-Lithuanian Commonwealth. Today, it houses a fascinating historical and archaeological museum and is undergoing a major, multi-phase restoration project designed to completely recreate its magnificent Renaissance appearance."
-    },
-    factsAdvanced: {
-      de: ["Initially founded as a wooden defensive fortification in the 11th century.", "Rebuilt as a formidable stone castle by Grand Duke Vytautas in the 14th century.", "Transformed into a Renaissance palace for King Stephen Báthory in the 1580s.", "King Stephen Báthory of Poland actually died within the castle walls in 1586.", "Suffered extensive damage during the Great Northern War in the early 18th century.", "Currently houses the primary exhibits of the Grodno State History and Archaeology Museum.", "Undergoing a massive, state-funded reconstruction to restore its Renaissance form."],
-      hu: [],
-      ro: [],
-      en: []
-    }, image: "/poi-images/belarus-old-grodno-castle-landmarks-v2.webp"},
-  {
+    {
     id: "belarus-new-grodno-castle-landmarks-v2",
     parent: "BY",
     type: "palace",
@@ -668,40 +602,7 @@ export const belarusLandmarksV2: POI[] = [
       ro: [],
       en: []
     }, image: "/poi-images/belarus-halshany-castle-ruins-landmarks-v2.webp"},
-  {
-    id: "belarus-bobruisk-fortress-landmarks-v2",
-    parent: "BY",
-    type: "monument",
-    name: { de: "Festung Babrujsk", hu: "Babrujszki erőd", ro: "Cetatea Bobruisk", en: "Bobruisk Fortress"},
-    image: "/poi-images/belarus-bobruisk-fortress-landmarks-v2.webp",
-    coords: [29.243, 53.139],
-    coords: [29.243, 53.139],
-    description: {
-      de: "Die Festung Babrujsk war eine der größten Verteidigungsanlagen des Russischen Reiches im 19. Jahrhundert. Sie spielte eine wichtige Rolle im Krieg gegen Napoleon.",
-      hu: "A babrujszki erőd az Orosz Birodalom egyik legnagyobb védelmi létesítménye volt a 19. században. Fontos szerepet játszott a Napóleon elleni háborúban.",
-      ro: "Cetatea Bobruisk a fost una dintre cele mai mari fortificații ale Imperiului Rus în secolul XIX. A jucat un rol vital în războiul contra lui Napoleon.",
-      en: "The Bobruisk Fortress was one of the largest defense installations of the Russian Empire in the 19th century. It played a vital role during Napoleon's invasion.",
-    },
-    facts: {
-      de: ["Bau begann im Jahr 1810.", "Galt zu seiner Zeit als uneinnehmbar.", "Besteht aus zahlreichen Backstein-Kasematten.", "Teile der Festung werden heute museal genutzt."],
-      hu: ["Az építkezés 1810-ben kezdődött.", "Saját korában bevehetetlennek tartották.", "Számos tégla kazamatából és sáncból áll.", "Az erőd egyes részei ma múzeumként látogathatók."],
-      ro: ["Construcția a început în anul 1810.", "Considerată inexpugnabilă la vremea sa.", "Compusă din numeroase cazemate de cărămidă.", "Părți ale cetății sunt folosite astăzi ca muzeu."],
-      en: ["Construction began in 1810.", "Considered impregnable during its time.", "Consists of numerous brick casemates and ramparts.", "Parts of the fortress are now used as a museum."],
-    },
-    imageHint: "Bobruisk Fortress brick casemates and ruins",
-    descriptionAdvanced: {
-      de: "Die Festung Babrujsk (Bobruisk) ist ein monumentales Meisterwerk der russischen Militärarchitektur und war im frühen 19. Jahrhundert eine der stärksten Verteidigungsanlagen in ganz Europa. Der Bau der gewaltigen Anlage begann im Jahr 1810 auf direkten Befehl von Zar Alexander I., um die westlichen Grenzen des Russischen Reiches gegen die drohende französische Invasion zu sichern. Während des Vaterländischen Krieges von 1812 spielte die Festung eine entscheidende Rolle, als sie einer langen Belagerung durch Napoleons Truppen erfolgreich standhielt und damit den Rückzug der russischen Hauptarmee absicherte. Die Festung bestand aus zahlreichen massiven Backsteinkasematten, weitläufigen Erdwällen und tiefen Gräben. Nach ihrer militärischen Blütezeit diente sie unter anderem als Gefängnis für politische Gefangene (wie die Dekabristen). Heute sind die beeindruckenden roten Backsteinruinen ein wichtiges historisches Denkmal.",
-      hu: "A babrujszki erőd az orosz katonai építészet egyik monumentális remekműve, amely a 19. század elején egész Európa egyik legerősebb védelmi rendszerének számított. A gigantikus létesítmény építése 1810-ben kezdődött I. Sándor orosz cár közvetlen utasítására, azzal a céllal, hogy megerősítsék a birodalom nyugati határait a fenyegető francia invázióval szemben. Az 1812-es honvédő háború során az erőd kulcsfontosságú szerepet játszott: hősiesen és sikeresen állt ellen Napóleon csapatainak hosszú ostromának, ezzel biztosítva a fő orosz hadsereg visszavonulását. A komplexum masszív tégla kazamatákból, kiterjedt földsáncokból és mély vizesárkokból állt. Katonai fénykorát követően az erődöt többek között politikai foglyok (például a dekabristák) börtöneként is használták. Napjainkban a lenyűgöző vöröstéglás romok fontos történelmi emlékhelyként várják a látogatókat.",
-      ro: "Cetatea Bobruisk este o capodoperă monumentală a arhitecturii militare ruse și a reprezentat una dintre cele mai formidabile structuri de apărare din Europa la începutul secolului al XIX-lea. Construcția uriașului complex fortificat a început în anul 1810, din ordinul direct al Țarului Alexandru I, cu scopul de a securiza granițele vestice ale Imperiului Rus împotriva iminentei invazii franceze. În timpul Războiului Patriotic din 1812, cetatea a jucat un rol strategic crucial, rezistând cu succes unui asediu prelungit al trupelor lui Napoleon și asigurând astfel retragerea în siguranță a armatei principale ruse. Fortăreața era compusă din numeroase cazemate masive de cărămidă, metereze de pământ și șanțuri adânci. După perioada sa de glorie militară, a servit, printre altele, ca închisoare pentru deținuți politici (cum ar fi decembriștii). Astăzi, ruinele sale impresionante din cărămidă roșie constituie un monument istoric de mare importanță.",
-      en: "The Bobruisk Fortress is a monumental masterpiece of Russian military architecture and stood as one of the most formidable defensive structures in Europe during the early 19th century. Construction of the massive complex began in 1810 under the direct orders of Tsar Alexander I, specifically designed to secure the western borders of the Russian Empire against the looming French invasion. During the Patriotic War of 1812, the fortress played a critically strategic role by successfully withstanding a prolonged siege by Napoleon's forces, thereby covering the safe retreat of the main Russian army. The stronghold consisted of numerous massive brick casemates, extensive earthen ramparts, and deep defensive moats. Following its military heyday, the fortress was repurposed as a political prison, notably holding participants of the Decembrist revolt. Today, its impressive red-brick ruins are preserved as a significant historical monument."
-    },
-    factsAdvanced: {
-      de: ["Construction officially commenced in 1810, directed by the military engineer Karl Opperman.", "Successfully held off a grueling four-month siege by Napoleon's army in 1812.", "The complete fortress complex covered an astonishing area of nearly 120 hectares.", "Later served as a high-security prison, notably detaining members of the Decembrist revolt.", "Tragically used as a brutal concentration camp for Soviet prisoners during World War II.", "Constructed using highly durable red bricks and sophisticated vaulted arch designs.", "Several key surviving structures and casemates are now open for public exploration."],
-      hu: [],
-      ro: [],
-      en: []
-    }, image: "/poi-images/belarus-bobruisk-fortress-landmarks-v2.webp"}
-,
+  ,
   {
     id: "belarus-budslau-basilica-landmarks-v2",
     parent: "BY",

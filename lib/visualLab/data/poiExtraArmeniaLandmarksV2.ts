@@ -1,87 +1,7 @@
 import type { POI } from "./poi";
 
 export const poiExtraArmeniaLandmarksV2: POI[] = [
-  {
-    id: "armenia-garni-temple-landmarks-v2",
-    type: "landmark",
-    parent: "AM-KO",
-    coords: [44.7302, 40.1124],
-    name: { de: "Tempel von Garni", hu: "Garni-templom", ro: "Templul Garni", en: "Garni Temple"},
-    image: "/poi-images/armenia-garni-temple-landmarks-v2.webp",
-    description: {
-      de: "Ein hellenistischer Tempel, der als einziges erhaltenes Bauwerk mit Säulenhallen in Armenien gilt.",
-      hu: "Egy hellenisztikus templom, amely az egyetlen fennmaradt oszlopsoros ókori építmény Örményországban.",
-      ro: "Un templu elenistic care este considerat singura clădire cu coloane din antichitate care a supraviețuit în Armenia.",
-      en: "A Hellenistic temple that is considered the only surviving colonnaded building in Armenia."
-    },
-    facts: {
-      de: [
-        "Im 1. Jahrhundert erbaut.",
-        "Nach einem Erdbeben 1679 zerstört und wiederaufgebaut."
-      ],
-      hu: [
-        "Az 1. században épült.",
-        "Egy 1679-es földrengés pusztította el, majd újjáépítették."
-      ],
-      ro: [
-        "Construit în secolul I.",
-        "Distrus de un cutremur în 1679 și reconstruit ulterior."
-      ],
-      en: [
-        "Built in the 1st century AD.",
-        "Destroyed by a 1679 earthquake and later reconstructed."
-      ]
-    }
-  ,
-    descriptionAdvanced: {
-    
-    "de": "Der Garni-Tempel in der armenischen Provinz Kotayk ist ein bemerkenswertes Beispiel hellenistischer Architektur und das einzige erhaltene heidnische Bauwerk mit Kolonnaden im Land. Er wurde im 1. Jahrhundert n. Chr. unter der Herrschaft von König Trdat I. erbaut und war dem Sonnengott Mihr gewidmet. Die Struktur wurde mit griechischem und römischem Einfluss entworfen, was sich in den ionischen Säulen und dem kunstvollen Fries zeigt. Nach einem verheerenden Erdbeben im Jahr 1679 lag der Tempel jahrhundertelang in Trümmern. Zwischen 1969 und 1975 wurde er sorgfältig rekonstruiert, wobei die ursprünglichen Steine verwendet wurden. Heute steht er als Zeugnis für die reiche vorchristliche Geschichte Armeniens und ist eine der meistbesuchten Sehenswürdigkeiten des Landes, die einen Einblick in eine vergangene Ära bietet.",
-    "hu": "A Garni-templom, amely az örmény Kotajk tartományban található, a hellenisztikus építészet lenyűgöző emléke és az egyetlen fennmaradt ókori, oszlopcsarnokos pogány építmény az országban. Az i.sz. 1. században épült I. Tiridatész király uralkodása alatt, és Mihr napistennek szentelték. Tervezésében görög és római hatások érvényesülnek, amit a jón oszlopok és a díszes frízek is tanúsítanak. Egy 1679-es pusztító földrengés után a templom évszázadokig romokban hevert. 1969 és 1975 között aprólékos munkával újjáépítették, felhasználva az eredeti köveket. Napjainkban Örményország gazdag kereszténység előtti történelmének tanúbizonysága és az ország egyik legnépszerűbb látványossága, amely betekintést nyújt egy letűnt korba.",
-    "ro": "Templul Garni, situat în provincia Kotayk din Armenia, este un exemplu remarcabil de arhitectură elenistică și singura clădire păgână cu colonade care a supraviețuit în țară. Construit în secolul I d.Hr. în timpul domniei regelui Tiridates I, acesta a fost dedicat zeului soarelui Mihr. Structura a fost proiectată cu influențe grecești și romane, evidente în coloanele ionice și friza sa ornamentală. După un cutremur devastator în 1679, templul a rămas în ruine timp de secole. Între anii 1969 și 1975, a fost reconstruit meticulos, folosindu-se pietrele originale. Astăzi, acesta stă ca o mărturie a istoriei bogate pre-creștine a Armeniei și este una dintre cele mai vizitate atracții ale țării, oferind o perspectivă asupra unei epoci trecute.",
-    "en": "The Garni Temple, located in Armenia's Kotayk Province, is a remarkable example of Hellenistic architecture and the only surviving pagan colonnaded building in the country. Constructed in the 1st century AD during the reign of King Tiridates I, it was dedicated to the sun god Mihr. The structure was designed with Greek and Roman influence, evident in its Ionic columns and ornate frieze. Following a devastating earthquake in 1679, the temple lay in ruins for centuries. It was meticulously reconstructed between 1969 and 1975, using its original stones. Today, it stands as a testament to Armenia's rich pre-Christian history and is one of the nation's most visited attractions, offering a glimpse into a bygone era."
-    },
-    factsAdvanced: { multi4: ["Constructed in the 1st century AD.", "Dedicated to the Armenian sun god, Mihr.", "The only standing Greco-Roman colonnaded building in Armenia.", "Destroyed by an earthquake in 1679.", "Reconstruction took place between 1969 and 1975.", "Features 24 Ionic columns symbolizing the hours of the day.", "Located in the Kotayk Province.", "Part of the Garni Fortress complex."] }, image: "/poi-images/armenia-garni-temple-landmarks-v2.webp"},
-  {
-    id: "armenia-geghard-monastery-landmarks-v2",
-    type: "landmark",
-    parent: "AM-KO",
-    coords: [44.8185, 40.1404],
-    name: { de: "Kloster Geghard", hu: "Gegard-kolostor", ro: "Mănăstirea Geghard", en: "Geghard Monastery"},
-    image: "/poi-images/armenia-geghard-monastery-landmarks-v2.webp",
-    description: {
-      de: "Ein mittelalterliches Kloster, das teilweise in den angrenzenden Berg gehauen ist und von Klippen umgeben ist.",
-      hu: "Egy középkori kolostor, amelyet részben a szomszédos sziklába vájtak, és meredek sziklafalak vesznek körül.",
-      ro: "O mănăstire medievală săpată parțial în stânca muntelui adiacent, înconjurată de stânci abrupte.",
-      en: "A medieval monastery being partially carved out of the adjacent mountain, surrounded by cliffs."
-    },
-    facts: {
-      de: [
-        "UNESCO-Weltkulturerbe seit 2000.",
-        "Gegründet im 4. Jahrhundert von Gregor dem Erleuchter."
-      ],
-      hu: [
-        "2000 óta az UNESCO Világörökség része.",
-        "Világosító Szent Gergely alapította a 4. században."
-      ],
-      ro: [
-        "Parte a Patrimoniului Mondial UNESCO din 2000.",
-        "Fondată în secolul al IV-lea de Grigorie Luminătorul."
-      ],
-      en: [
-        "UNESCO World Heritage site since 2000.",
-        "Founded in the 4th century by Gregory the Illuminator."
-      ]
-    }
-  ,
-    descriptionAdvanced: {
-    
-    "de": "Das Geghard-Kloster ist ein außergewöhnliches mittelalterliches Kloster in der Provinz Kotayk, das teilweise direkt in den Fels eines Berges gehauen ist. Es wurde im 4. Jahrhundert von Gregor dem Erleuchter an der Stelle einer heiligen Quelle gegründet. Der Komplex, wie er heute existiert, wurde größtenteils im 13. Jahrhundert erbaut. Sein Name, Geghardavank, bedeutet 'Kloster des Speers', was sich auf den Speer bezieht, der Jesus bei der Kreuzigung verwundet haben soll und der hier aufbewahrt wurde. Die beeindruckende Akustik in der Hauptkammer und die kunstvollen Khachkars (Kreuzsteine) sind bemerkenswerte Merkmale. Aufgrund seiner einzigartigen Felsenarchitektur und seiner spirituellen Bedeutung wurde das Kloster im Jahr 2000 zum UNESCO-Weltkulturerbe erklärt, was seine Bedeutung als Meisterwerk menschlicher Kreativität unterstreicht.",
-    "hu": "A Gegard-kolostor egy rendkívüli középkori kolostor Kotajk tartományban, amelyet részben egyenesen a hegy sziklájába vájtak. A 4. században alapította Világosító Szent Gergely egy szent forrás helyén. A ma látható komplexum nagy részét a 13. században építették. A neve, Geghardavank, azt jelenti, hogy 'a lándzsa kolostora', utalva arra a lándzsára, amellyel a hagyomány szerint megsebezték Jézust a keresztre feszítéskor, és amelyet itt őriztek. A főkápolna lenyűgöző akusztikája és a díszes khacskárok (keresztkövek) figyelemre méltó jellegzetességei. Egyedülálló sziklaépítészete és spirituális jelentősége miatt a kolostort 2000-ben az UNESCO Világörökség részévé nyilvánították, kiemelve az emberi kreativitás mesterműveként betöltött szerepét.",
-    "ro": "Mănăstirea Geghard este un complex monahal medieval excepțional din provincia Kotayk, parțial sculptat direct în stânca unui munte. A fost fondată în secolul al IV-lea de către Grigore Luminătorul, la locul unui izvor sacru. Complexul, așa cum există astăzi, a fost construit în mare parte în secolul al XIII-lea. Numele său, Geghardavank, înseamnă 'Mănăstirea Suliței', referindu-se la sulița care se presupune că l-a rănit pe Iisus la crucificare și care a fost păstrată aici. Acustica impresionantă din camera principală și khachkar-urile (crucile de piatră) elaborate sunt caracteristici remarcabile. Datorită arhitecturii sale unice, sculptate în stâncă, și a semnificației sale spirituale, mănăstirea a fost inclusă în Patrimoniul Mondial UNESCO în anul 2000, subliniind importanța sa ca o capodoperă a creativității umane.",
-    "en": "Geghard Monastery is an exceptional medieval monastery in the Kotayk province, partially carved directly out of the rock of a mountain. It was founded in the 4th century by Gregory the Illuminator at the site of a sacred spring. The complex as it exists today was largely built in the 13th century. Its name, Geghardavank, means 'Monastery of the Spear', referring to the spear which supposedly wounded Jesus at the crucifixion, which was kept here. The impressive acoustics in the main chamber and the elaborate khachkars (cross-stones) are notable features. Due to its unique rock-cut architecture and spiritual importance, the monastery was designated a UNESCO World Heritage site in 2000, highlighting its status as a masterpiece of human creativity."
-    },
-    factsAdvanced: { multi4: ["Founded in the 4th century by St. Gregory the Illuminator.", "Listed as a UNESCO World Heritage Site since 2000.", "The name 'Geghard' means 'spear' in Armenian.", "Partially carved out of the adjacent mountain.", "The main chapel was built in 1215.", "Known for its rock-cut churches and tombs.", "Famous for the incredible acoustics of its chambers.", "Located in the upper Azat Valley in Kotayk province."] }, image: "/poi-images/armenia-geghard-monastery-landmarks-v2.webp"},
-  {
+      {
     id: "armenia-khor-virap-landmarks-v2",
     type: "landmark",
     parent: "AM-AR",
@@ -121,47 +41,7 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
     "en": "Khor Virap is a significant Armenian monastery located in the Ararat plain, near the closed border with Turkey. Its historical importance is immense as it is where Saint Gregory the Illuminator was imprisoned for 13 years by King Tiridates III in a deep pit, before curing the king and converting him to Christianity, making Armenia the first nation to adopt Christianity as its state religion. The name 'Khor Virap' means 'deep pit'. Visitors can descend into this pit. The monastery offers the most iconic view of Mount Ararat, a national symbol for Armenia. Due to its role in the birth of Armenian Christianity, it is one of the most visited pilgrimage sites in the country and a symbol of national faith and resilience."
     },
     factsAdvanced: { multi4: ["The site of St. Gregory the Illuminator's 13-year imprisonment.", "The name translates to 'deep pit' or 'deep dungeon'.", "Offers one of the most famous views of Mount Ararat.", "Located in the Ararat Plain, near the border with Turkey.", "Armenia became the first Christian nation in 301 AD.", "The chapel of St. Gevorg was first built in the 7th century.", "It is a major pilgrimage site in Armenia.", "The current complex dates back to the 17th century."] }, image: "/poi-images/armenia-khor-virap-landmarks-v2.webp"},
-  {
-    id: "armenia-tatev-monastery-landmarks-v2",
-    type: "landmark",
-    parent: "AM-SU",
-    coords: [46.2501, 39.3794],
-    name: { de: "Kloster Tatew", hu: "Tatev-kolostor", ro: "Mănăstirea Tatev", en: "Tatev Monastery"},
-    image: "/poi-images/armenia-tatev-monastery-landmarks-v2.webp",
-    description: {
-      de: "Ein historisches Kloster auf einem großen Basaltplateau, erreichbar über die längste Seilbahn der Welt.",
-      hu: "Történelmi kolostor egy nagy bazaltfennsíkon, amely a világ leghosszabb kötélpályáján közelíthető meg.",
-      ro: "O mănăstire istorică aflată pe un platou de bazalt, accesibilă prin cel mai lung teleferic din lume.",
-      en: "A historic monastery on a large basalt plateau, accessible via the longest reversible cableway in the world."
-    },
-    facts: {
-      de: [
-        "Im 9. Jahrhundert erbaut.",
-        "Das wirtschaftliche und spirituelle Zentrum der Region Sjunik."
-      ],
-      hu: [
-        "A 9. században épült.",
-        "Szjunik régió gazdasági és szellemi központja volt."
-      ],
-      ro: [
-        "Construită în secolul al IX-lea.",
-        "A fost centrul economic și spiritual al regiunii Syunik."
-      ],
-      en: [
-        "Built in the 9th century.",
-        "The economic and spiritual center of the Syunik region."
-      ]
-    }
-  ,
-    descriptionAdvanced: {
-    
-    "de": "Das Tatev-Kloster, ein Meisterwerk aus dem 9. Jahrhundert in der Provinz Sjunik, thront auf einem großen Basaltplateau über der tiefen Worotan-Schlucht. Es war ein wichtiges spirituelles, wirtschaftliches und kulturelles Zentrum des mittelalterlichen Armeniens und beherbergte eine der bedeutendsten Universitäten der damaligen Zeit. Der Komplex besteht aus drei Kirchen, einem Refektorium, einer Bibliothek und anderen Verwaltungsgebäuden. Seit 2010 ist das Kloster über die 'Wings of Tatev' erreichbar, die längste umkehrbare Seilbahn der Welt, die im Guinness-Buch der Rekorde verzeichnet ist. Die Fahrt bietet atemberaubende Ausblicke auf die Schlucht. Tatev spielte eine entscheidende Rolle bei der Bewahrung der armenischen Kultur und Religion und ist nach wie vor ein Symbol für das architektonische und spirituelle Erbe des Landes.",
-    "hu": "A Tatev-kolostor, egy 9. századi mestermű Szjunik tartományban, egy nagy bazaltfennsíkon trónol a mély Vorotan-szurdok felett. A középkori Örményország fontos spirituális, gazdasági és kulturális központja volt, és az akkori idők egyik legjelentősebb egyetemének adott otthont. A komplexum három templomból, refektóriumból, könyvtárból és más adminisztratív épületekből áll. 2010 óta a kolostor a 'Tatev szárnyai' nevű, a világ leghosszabb, megfordítható drótkötélpályáján keresztül érhető el, amely szerepel a Guinness Rekordok Könyvében. Az utazás lélegzetelállító kilátást nyújt a szurdokra. Tatev döntő szerepet játszott az örmény kultúra és vallás megőrzésében, és továbbra is az ország építészeti és spirituális örökségének szimbóluma.",
-    "ro": "Mănăstirea Tatev, o capodoperă din secolul al IX-lea din provincia Syunik, este așezată pe un platou mare de bazalt deasupra defileului adânc al râului Vorotan. A fost un centru spiritual, economic și cultural vital al Armeniei medievale, găzduind una dintre cele mai importante universități ale vremii. Complexul este format din trei biserici, o trapeză, o bibliotecă și alte clădiri administrative. Din 2010, mănăstirea este accesibilă prin 'Wings of Tatev', cel mai lung teleferic reversibil din lume, înregistrat în Cartea Recordurilor Guinness. Călătoria oferă priveliști uluitoare ale defileului. Tatev a jucat un rol crucial în conservarea culturii și religiei armene și rămâne un simbol al moștenirii arhitecturale și spirituale a națiunii.",
-    "en": "Tatev Monastery, a 9th-century masterpiece in the Syunik Province, is perched on a large basalt plateau above the deep Vorotan River gorge. It was a vital spiritual, economic, and cultural hub of medieval Armenia, hosting one of the most important universities of its time. The complex comprises three churches, a refectory, a library, and other administrative buildings. Since 2010, the monastery has been accessible via the 'Wings of Tatev', the world's longest reversible aerial tramway, which is registered in the Guinness World Records. The ride offers breathtaking views of the gorge. Tatev played a crucial role in preserving Armenian culture and religion and remains a symbol of the nation's architectural and spiritual heritage."
-    },
-    factsAdvanced: { multi4: ["Founded in the 9th century.", "Located in the Syunik Province of Armenia.", "Hosted one of the most important medieval universities.", "Accessible by the 'Wings of Tatev', the world's longest non-stop double track cable car.", "The cable car is 5,752 meters long.", "The monastery was a major economic and political center.", "It was the seat of the Bishopric of Syunik.", "The complex overlooks the Vorotan River gorge."] }, image: "/poi-images/armenia-tatev-monastery-landmarks-v2.webp"},
-  {
+    {
     id: "armenia-sevanavank-landmarks-v2",
     type: "landmark",
     parent: "AM-GE",
@@ -281,87 +161,7 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
     "en": "Noravank is a 13th-century Armenian monastery located in a narrow gorge of the Amaghu River in Vayots Dzor Province. Its name means 'New Monastery'. The complex is famous for the harmony of its architecture with the dramatic landscape of reddish cliffs. Founded in 1205 by Bishop Hovhannes, it was a major religious and cultural center, closely associated with the Orbelian dynasty. The jewel of the complex is the two-story Surb Astvatsatsin (Holy Mother of God) church, designed by the famous architect and sculptor Momik. A narrow, cantilevered stone staircase on its facade leads to the upper floor. Noravank is not only a spiritual place but also a masterpiece of medieval Armenian construction art, known for its ornate stone reliefs and khachkars."
     },
     factsAdvanced: { multi4: ["Founded in 1205 by Bishop Hovhannes.", "The name 'Noravank' means 'New Monastery' in Armenian.", "Located in the Vayots Dzor province.", "Famous for the two-story Surb Astvatsatsin Church.", "The architect Momik designed and sculpted parts of the monastery.", "The surrounding cliffs are known for their reddish color.", "It was the residence of the Orbelian princes.", "The monastery is a UNESCO World Heritage site."] }, image: "/poi-images/armenia-noravank-landmarks-v2.webp"},
-  {
-    id: "armenia-haghpat-monastery-landmarks-v2",
-    type: "landmark",
-    parent: "AM-LO",
-    coords: [44.7118, 41.0938],
-    name: { de: "Kloster Haghpat", hu: "Haghpat-kolostor", ro: "Mănăstirea Haghpat", en: "Haghpat Monastery"},
-    image: "/poi-images/armenia-haghpat-monastery-landmarks-v2.webp",
-    description: {
-      de: "Ein byzantinisches Klosterkomplex, der das höchste Niveau der armenischen religiösen Architektur repräsentiert.",
-      hu: "Egy bizánci kolostorkomplexum, amely az örmény vallási építészet legmagasabb szintjét képviseli.",
-      ro: "Un complex monastic bizantin care reprezintă cel mai înalt nivel al arhitecturii religioase armene.",
-      en: "A Byzantine monastery complex that represents the highest flowering of Armenian religious architecture."
-    },
-    facts: {
-      de: [
-        "Gegründet im 10. Jahrhundert.",
-        "Zusammen mit Sanahin ein UNESCO-Weltkulturerbe."
-      ],
-      hu: [
-        "A 10. században alapították.",
-        "A Szanahin-kolostorral együtt UNESCO Világörökség."
-      ],
-      ro: [
-        "Fondată în secolul al X-lea.",
-        "Parte a Patrimoniului Mondial UNESCO împreună cu Sanahin."
-      ],
-      en: [
-        "Founded in the 10th century.",
-        "A UNESCO World Heritage site alongside Sanahin."
-      ]
-    }
-  ,
-    descriptionAdvanced: {
-    
-    "de": "Das Kloster Haghpat, ein UNESCO-Weltkulturerbe in der Provinz Lori, ist ein herausragendes Beispiel byzantinischer Klosterarchitektur in Armenien. Gegründet im 10. Jahrhundert während der Herrschaft von König Aschot III., wurde es zu einem bedeutenden Zentrum für Lernen, Manuskriptproduktion und Theologie. Der Komplex verbindet Elemente der byzantinischen Kirchenarchitektur mit dem traditionellen armenischen Baustil. Zu den bemerkenswerten Bauten gehören die Surb Nshan Kathedrale, eine große Bibliothek und ein beeindruckender Glockenturm aus dem 13. Jahrhundert. Zusammen mit dem nahegelegenen Kloster Sanahin bildet es eine Einheit, die den Höhepunkt der armenischen religiösen Architektur während der Kiurikian-Dynastie darstellt. Die Lage des Klosters auf einem zerklüfteten Plateau mit Blick auf den Fluss Debed trägt zu seiner majestätischen Atmosphäre bei.",
-    "hu": "A Haghpat-kolostor, amely az UNESCO Világörökség része Lori tartományban, a bizánci kolostorépítészet kiemelkedő példája Örményországban. A 10. században, III. Asot király uralkodása alatt alapították, és a tanulás, a kéziratkészítés és a teológia fontos központjává vált. A komplexum ötvözi a bizánci egyházi építészet elemeit a hagyományos örmény építészeti stílussal. A figyelemre méltó épületek közé tartozik a Szurb Nsan-katedrális, egy nagy könyvtár és egy lenyűgöző, 13. századi harangtorony. A közeli Szanahin-kolostorral egységet alkotva képviseli az örmény vallási építészet csúcspontját a Kjurikjan-dinasztia idején. A kolostor elhelyezkedése egyenetlen fennsíkon, kilátással a Debed folyóra, hozzájárul fenséges hangulatához.",
-    "ro": "Mănăstirea Haghpat, un sit al Patrimoniului Mondial UNESCO din provincia Lori, este un exemplu remarcabil de arhitectură monahală bizantină în Armenia. Fondată în secolul al X-lea în timpul domniei regelui Ashot al III-lea, a devenit un centru important pentru învățătură, producția de manuscrise și teologie. Complexul combină elemente de arhitectură ecleziastică bizantină cu stilul tradițional de construcție armean. Printre structurile sale notabile se numără Catedrala Surb Nshan, o bibliotecă mare și un turn clopotniță impresionant din secolul al XIII-lea. Împreună cu mănăstirea Sanahin din apropiere, formează o unitate care reprezintă apogeul arhitecturii religioase armene în timpul dinastiei Kiurikian. Amplasarea mănăstirii pe un platou accidentat, cu vedere la râul Debed, adaugă la atmosfera sa maiestuoasă.",
-    "en": "Haghpat Monastery, a UNESCO World Heritage site in the Lori Province, is an outstanding example of Byzantine monastic architecture in Armenia. Founded in the 10th century during the reign of King Ashot III, it became a major center for learning, manuscript production, and theology. The complex blends elements of Byzantine ecclesiastical architecture with the traditional Armenian building style. Its notable structures include the Surb Nshan Cathedral, a large library, and an impressive 13th-century bell tower. Along with the nearby Sanahin Monastery, it forms a unit representing the highest flowering of Armenian religious architecture during the Kiurikian dynasty. The monastery's location on a dissected plateau overlooking the Debed River adds to its majestic atmosphere."
-    },
-    factsAdvanced: { multi4: ["Founded during the reign of King Ashot III (953–977).", "A UNESCO World Heritage Site since 1996 (along with Sanahin).", "Located in the Lori Province of Armenia.", "Represents a fusion of Byzantine and traditional Armenian architecture.", "Was a major center of learning in the Middle Ages.", "The oldest structure, Surb Nshan Cathedral, dates to 976.", "The complex includes a famous 13th-century bell tower.", "Overlooks the Debed River gorge."] }, image: "/poi-images/armenia-haghpat-monastery-landmarks-v2.webp"},
-  {
-    id: "armenia-zvartnots-cathedral-landmarks-v2",
-    type: "landmark",
-    parent: "AM-AV",
-    coords: [44.3364, 40.1610],
-    name: { de: "Kathedrale von Swartnoz", hu: "Zvartnotsz-székesegyház", ro: "Catedrala Zvartnots", en: "Zvartnots Cathedral"},
-    image: "/poi-images/armenia-zvartnots-cathedral-landmarks-v2.webp",
-    description: {
-      de: "Die Ruinen einer runden Kathedrale aus dem 7. Jahrhundert, die durch ein Erdbeben zerstört wurde.",
-      hu: "Egy 7. századi kerek székesegyház romjai, amelyet egy földrengés pusztított el.",
-      ro: "Ruinele unei catedrale circulare din secolul al VII-lea, distrusă de un cutremur.",
-      en: "The ruins of a 7th-century circularly planned cathedral, which was destroyed by an earthquake."
-    },
-    facts: {
-      de: [
-        "Erbaut auf Befehl des Katholikos Nerses III.",
-        "Wurde 1989 zum UNESCO-Weltkulturerbe erklärt."
-      ],
-      hu: [
-        "III. Nerszész katolikosz parancsára épült.",
-        "1989-ben az UNESCO Világörökség részévé nyilvánították."
-      ],
-      ro: [
-        "Construită la ordinul Catolicosului Nerses al III-lea.",
-        "A devenit un sit al Patrimoniului Mondial UNESCO în 1989."
-      ],
-      en: [
-        "Built by the order of Catholicos Nerses III.",
-        "Declared a UNESCO World Heritage site in 1989."
-      ]
-    }
-  ,
-    descriptionAdvanced: {
-    
-    "de": "Die Ruinen der Kathedrale von Swartnoz, in der Nähe von Etschmiadsin gelegen, sind ein Zeugnis für die architektonische Innovation des mittelalterlichen Armeniens. Die im 7. Jahrhundert auf Befehl des Katholikos Nerses III., dem 'Erbauer', errichtete Kathedrale war in ihrer Zeit einzigartig. Sie hatte einen kreisförmigen Grundriss, war reich mit Schnitzereien verziert und soll eines der höchsten Gebäude der Welt gewesen sein. Leider stand sie nur etwa 300 Jahre, bevor sie im 10. Jahrhundert durch ein Erdbeben zerstört wurde. Ihre Ruinen wurden erst im frühen 20. Jahrhundert wiederentdeckt. Heute können Besucher die Basis der Säulen, den Altarbereich und die kunstvollen Steinreliefs bewundern. Zusammen mit den Kirchen von Etschmiadsin wurde Swartnoz 2000 zum UNESCO-Weltkulturerbe erklärt und ist ein Symbol für das reiche, aber oft turbulente architektonische Erbe Armeniens.",
-    "hu": "A Zvartnotsz-székesegyház romjai, amelyek Ecsmiadzin közelében találhatók, a középkori Örményország építészeti innovációjának tanúbizonyságai. A 7. században épült III. Nerszész katolikosz, az 'Építő' parancsára, és a maga korában egyedülálló volt. Kör alakú alaprajzzal rendelkezett, gazdagon díszítették faragványokkal, és a világ egyik legmagasabb épületének tartották. Sajnos csak mintegy 300 évig állt, mielőtt a 10. században egy földrengés elpusztította. Romjait csak a 20. század elején fedezték fel újra. Ma a látogatók megcsodálhatják az oszlopok alapjait, az oltárterületet és a díszes kőfaragásokat. Az ecsmiadzini templomokkal együtt Zvartnocot 2000-ben az UNESCO Világörökség részévé nyilvánították, és Örményország gazdag, de gyakran viharos építészeti örökségének szimbóluma.",
-    "ro": "Ruinele Catedralei Zvartnots, situate lângă Etchmiadzin, stau ca o mărturie a inovației arhitecturale din Armenia medievală. Construită în secolul al VII-lea la ordinul Catolicosului Nerses al III-lea, 'Constructorul', catedrala a fost unică pentru vremea sa. Avea un plan circular, era bogat decorată cu sculpturi și se spune că ar fi fost una dintre cele mai înalte clădiri din lume la acea vreme. Din păcate, a rezistat doar aproximativ 300 de ani înainte de a fi distrusă de un cutremur în secolul al X-lea. Ruinele sale nu au fost redescoperite până la începutul secolului al XX-lea. Astăzi, vizitatorii pot admira baza coloanelor, zona altarului și reliefurile elaborate în piatră. Împreună cu bisericile din Etchmiadzin, Zvartnots a fost declarat sit al Patrimoniului Mondial UNESCO în 2000 și este un simbol al moștenirii arhitecturale bogate, dar adesea turbulente, a Armeniei.",
-    "en": "The ruins of Zvartnots Cathedral, located near Echmiadzin, stand as a testament to the architectural innovation of medieval Armenia. Built in the 7th century by the order of Catholicos Nerses III, 'the Builder', the cathedral was unique for its time. It featured a circular plan, was lavishly decorated with carvings, and was said to be one of the tallest buildings in the world at the time. Unfortunately, it stood for only about 300 years before being destroyed by an earthquake in the 10th century. Its ruins were not rediscovered until the early 20th century. Today, visitors can admire the base of the pillars, the altar area, and the elaborate stone reliefs. Along with the churches of Echmiadzin, Zvartnots was declared a UNESCO World Heritage site in 2000 and is a symbol of Armenia's rich yet often turbulent architectural legacy."
-    },
-    factsAdvanced: { multi4: ["Built between 643 and 652 AD.", "Commissioned by Catholicos Nerses III 'the Builder'.", "It was a centrally planned, aisled tetraconch design.", "Destroyed by an earthquake in the 10th century.", "The ruins were excavated in the early 20th century.", "A UNESCO World Heritage site since 2000.", "The name 'Zvartnots' means 'celestial angels'.", "The site offers a view of Mount Ararat."] }, image: "/poi-images/armenia-zvartnots-cathedral-landmarks-v2.webp"},
-  {
+      {
     id: "armenia-cascade-complex-landmarks-v2",
     type: "tourist-attraction",
     parent: "AM-ER",
@@ -401,47 +201,7 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
     "en": "The Cascade Complex in Yerevan is a giant stairway made of travertine stone, connecting the city's center with the higher-altitude Victory Park and the Monument neighborhood. Construction began in the 1970s during the Soviet era but was left unfinished after the 1988 earthquake and the collapse of the Soviet Union. In the early 2000s, the project was revitalized and completed by the Armenian-American philanthropist Gerard Cafesjian. Inside the complex is the Cafesjian Center for the Arts, which exhibits an impressive collection of modern art, including many works of glass. The exterior is adorned with gardens, sculptures, and fountains, offering panoramic views of central Yerevan and Mount Ararat from the top. It has become one of the city's main social and cultural hubs."
     },
     factsAdvanced: { multi4: ["Construction began in 1971 and was partially completed in 1980.", "Designed by architects Jim Torosyan, Aslan Mkhitaryan, and Sargis Gurzadyan.", "The project was revived in 2002 by Gerard Cafesjian.", "Houses the Cafesjian Center for the Arts.", "The exterior stairway has 572 steps.", "Connects the Kentron (center) district with the Monument neighborhood.", "Features multiple fountains and contemporary sculptures.", "Offers a panoramic view of Yerevan and Mount Ararat."] }},
-  {
-    id: "armenia-mother-armenia-monument-landmarks-v2",
-    type: "monument",
-    parent: "AM-ER",
-    coords: [44.5247, 40.1952],
-    name: { de: "Mutter Armenien", hu: "Örményország Anyja", ro: "Mama Armenia", en: "Mother Armenia"},
-    image: "/poi-images/armenia-mother-armenia-monument-landmarks-v2.webp",
-    description: {
-      de: "Eine monumentale Statue im Siegespark, die als weibliche Personifikation Armeniens über Eriwan wacht.",
-      hu: "Egy monumentális szobor a Győzelem-parkban, amely Örményország női megtestesítőjeként őrködik Jereván felett.",
-      ro: "O statuie monumentală din Parcul Victoriei, care veghează asupra Erevanului ca personificare feminină a Armeniei.",
-      en: "A monumental statue in Victory Park that watches over Yerevan as the female personification of Armenia."
-    },
-    facts: {
-      de: [
-        "Die Statue ist 22 Meter hoch, mit Sockel 51 Meter.",
-        "Ersetzte 1967 eine Statue von Josef Stalin."
-      ],
-      hu: [
-        "A szobor 22 méter magas, a talapzattal együtt 51 méter.",
-        "1967-ben egy Sztálin-szobrot váltott fel."
-      ],
-      ro: [
-        "Statuia are 22 de metri înălțime, 51 de metri cu tot cu piedestal.",
-        "A înlocuit o statuie a lui Iosif Stalin în 1967."
-      ],
-      en: [
-        "The statue is 22 meters high, 51 meters with the pedestal.",
-        "Replaced a statue of Joseph Stalin in 1967."
-      ]
-    }
-  ,
-    descriptionAdvanced: {
-    
-    "de": "Die Statue von Mutter Armenien ist eine monumentale Figur in Eriwan, die die weibliche Personifikation der Nation darstellt. Sie steht im Siegespark und wacht symbolisch über die armenische Hauptstadt. Die 22 Meter hohe Kupferstatue wurde 1967 auf einem 51 Meter hohen Basaltsockel errichtet und ersetzte eine Statue von Josef Stalin. Der Sockel, entworfen vom Architekten Rafael Israelyan, beherbergt das Militärmuseum des Verteidigungsministeriums. Die Statue symbolisiert Frieden durch Stärke und stellt eine Wächterfigur dar, die das Heimatland verteidigt. Ihre ernste Miene und das Schwert an ihrer Seite sollen die Entschlossenheit des armenischen Volkes widerspiegeln, seine Unabhängigkeit zu schützen. Das Monument ist ein wichtiger nationaler Ort und erinnert an die Stärke und Widerstandsfähigkeit Armeniens im Laufe seiner Geschichte.",
-    "hu": "A Jerevánban található Örményország Anyja szobor a nemzet női megszemélyesítője. A Győzelem parkban áll, és szimbolikusan őrködik az örmény főváros felett. A 22 méter magas rézszobrot 1967-ben állították fel egy 51 méteres bazalttalapzatra, egy korábbi Sztálin-szobor helyére. Az alapzat, amelyet Rafael Israelyan építész tervezett, a Védelmi Minisztérium Katonai Múzeumának ad otthont. A szobor az 'erő által elért békét' szimbolizálja, és egy őrfigurát ábrázol, aki megvédi a hazát. Szigorú arckifejezése és az oldalán lévő kard az örmény nép eltökéltségét hivatott tükrözni függetlenségük megvédésére. Az emlékmű fontos nemzeti helyszín, amely Örményország történelme során tanúsított erejére és ellenálló képességére emlékeztet.",
-    "ro": "Statuia Mama Armenia este o figură monumentală din Erevan, reprezentând personificarea feminină a națiunii. Situată în Parcul Victoriei, aceasta veghează simbolic asupra capitalei armene. Statuia de cupru, înaltă de 22 de metri, a fost ridicată în 1967 pe un piedestal de bazalt de 51 de metri, înlocuind o statuie a lui Iosif Stalin. Piedestalul, proiectat de arhitectul Rafael Israelyan, găzduiește Muzeul Militar al Ministerului Apărării. Statuia simbolizează pacea prin forță și reprezintă o figură de pază care apără patria. Expresia sa sobră și sabia de la șold sunt menite să reflecte hotărârea poporului armean de a-și proteja independența. Monumentul este un loc național important, comemorând puterea și rezistența Armeniei de-a lungul istoriei sale.",
-    "en": "The Mother Armenia statue is a monumental figure in Yerevan, representing the female personification of the nation. Located in Victory Park, it symbolically watches over the Armenian capital. The 22-meter-tall copper statue was erected in 1967 on a 51-meter-high basalt pedestal, replacing a former statue of Joseph Stalin. The pedestal, designed by architect Rafael Israelyan, houses the Military Museum of the Ministry of Defense. The statue symbolizes peace through strength, representing a guardian figure defending the homeland. Her grave expression and the sword at her side are meant to reflect the Armenian people's determination to protect their independence. The monument is an important national site, commemorating Armenia's strength and resilience throughout its history."
-    },
-    factsAdvanced: { multi4: ["The statue itself is 22 meters (72 ft) high.", "The total height of the monument with its pedestal is 51 meters (167 ft).", "It was unveiled in 1967.", "It replaced a monumental statue of Joseph Stalin.", "The pedestal houses the Military Museum of Mother Armenia.", "Located in Victory Park, Yerevan.", "Represents the female personification of Armenia.", "Symbolizes strength and the role of women in Armenian society."] }, image: "/poi-images/armenia-mother-armenia-monument-landmarks-v2.webp"},
-  {
+    {
     id: "armenia-republic-square-landmarks-v2",
     type: "tourist-attraction",
     parent: "AM-ER",
@@ -481,47 +241,7 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
     "en": "Republic Square is the central town square in Yerevan and the heart of urban life. Designed by architect Alexander Tamanian in 1924, it was constructed between the 1920s and the 1950s. The square is famous for its magnificent architectural ensemble, consisting of five main buildings constructed in a neoclassical style with traditional Armenian motifs. The buildings are faced with the region's characteristic pink and yellow tuff stone. Prominent structures include Government House, the History Museum of Armenia, the Marriott Armenia Hotel, and the Ministry of Foreign Affairs. In front of the museum is a large pool with the 'singing fountains', which attract tourists and locals alike with music and light shows in the evenings. The square is a popular gathering place and a venue for national celebrations and concerts."
     },
     factsAdvanced: { multi4: ["Designed by architect Alexander Tamanian in 1924.", "Construction was completed in the 1950s.", "Features five major buildings designed in the neoclassical style.", "The buildings are made of local pink and yellow tuff stone.", "Home to the famous 'singing fountains'.", "Includes the Government House and the History Museum of Armenia.", "A major venue for festivals and celebrations in Yerevan.", "Originally called Lenin Square during the Soviet era."] }, image: "/poi-images/armenia-republic-square-landmarks-v2.webp"},
-  {
-    id: "armenia-tsitsernakaberd-landmarks-v2",
-    type: "monument",
-    parent: "AM-ER",
-    coords: [44.4905, 40.1858],
-    name: { de: "Zizernakaberd", hu: "Cicernekaberd", ro: "Tsitsernakaberd", en: "Tsitsernakaberd"},
-    image: "/poi-images/armenia-tsitsernakaberd-landmarks-v2.webp",
-    description: {
-      de: "Das offizielle Denkmal Armeniens, das den Opfern des Völkermords an den Armeniern von 1915 gewidmet ist.",
-      hu: "Örményország hivatalos emlékműve, amelyet az 1915-ös örmény népirtás áldozatainak szenteltek.",
-      ro: "Memorialul oficial al Armeniei dedicat victimelor genocidului armean din 1915.",
-      en: "Armenia's official memorial complex dedicated to the victims of the Armenian genocide in 1915."
-    },
-    facts: {
-      de: [
-        "Der Name bedeutet Schwalbenfestung.",
-        "Die ewige Flamme im Zentrum brennt ununterbrochen."
-      ],
-      hu: [
-        "A név jelentése Fecskeerőd.",
-        "A középpontban lévő örökláng megszakítás nélkül ég."
-      ],
-      ro: [
-        "Numele înseamnă Cetatea Rândunelelor.",
-        "Flacăra eternă din centru arde neîntrerupt."
-      ],
-      en: [
-        "The name translates to Fortress of Swallows.",
-        "The eternal flame in the center burns uninterruptedly."
-      ]
-    }
-  ,
-    descriptionAdvanced: {
-    
-    "de": "Zizernakaberd, die 'Schwalbenfestung', ist Armeniens feierliche Gedenkstätte für die Opfer des armenischen Völkermords von 1915. Die 1967 auf einem Hügel in Eriwan errichtete Gedenkstätte ist ein Ort nationaler Trauer und Erinnerung. Der Komplex besteht aus drei Hauptteilen: einer 44 Meter hohen Stele, die die Wiedergeburt der Armenier symbolisiert, zwölf großen, nach innen geneigten Basaltplatten, die einen Kreis um eine ewige Flamme bilden und die verlorenen westarmenischen Provinzen repräsentieren, und einer 100 Meter langen Gedenkmauer mit den Namen der zerstörten Dörfer. Jedes Jahr am 24. April, dem Gedenktag des Völkermords, versammeln sich hier Hunderttausende von Armeniern, um Blumen niederzulegen und der 1,5 Millionen Opfer zu gedenken. Zizernakaberd ist ein kraftvolles Symbol des nationalen Gedächtnisses und der Forderung nach internationaler Anerkennung des Völkermords.",
-    "hu": "A Cicernekaberd, azaz a 'Fecskeerőd', Örményország hivatalos emlékműve az 1915-ös örmény népirtás áldozatainak. A jereváni hegyen 1967-ben emelt emlékhely a nemzeti gyász és emlékezés központja. A komplexum három fő részből áll: egy 44 méter magas sztéléből, amely az örmények újjászületését szimbolizálja; tizenkét befelé dőlő bazaltlapból, amelyek körbeveszik az öröklángot és az elvesztett nyugat-örményországi tartományokat jelképezik; valamint egy 100 méter hosszú emlékfalból, amelyen az elpusztított falvak nevei szerepelnek. Minden év április 24-én, a népirtás emléknapján, százezrek gyűlnek itt össze, hogy virágot helyezzenek el és megemlékezzenek a 1,5 millió áldozatról. A Cicernekaberd a nemzeti emlékezet és a népirtás nemzetközi elismertetéséért folytatott küzdelem erőteljes szimbóluma.",
-    "ro": "Tsitsernakaberd, 'Fortăreața Rândunelelor', este memorialul solemn al Armeniei dedicat victimelor Genocidului Armean din 1915. Construit în 1967 pe un deal din Erevan, memorialul este un loc de doliu și comemorare națională. Complexul are trei componente principale: o stelă de 44 de metri care simbolizează renașterea armenilor; douăsprezece dale mari de bazalt înclinate spre interior, formând un cerc în jurul unei flăcări veșnice și reprezentând provinciile pierdute din Armenia de Vest; și un zid memorial de 100 de metri cu numele satelor distruse. În fiecare an, pe 24 aprilie, Ziua de Comemorare a Genocidului, sute de mii de armeni se adună aici pentru a depune flori și a-i onora pe cei 1,5 milioane de victime. Tsitsernakaberd este un simbol puternic al memoriei naționale și al cererii de recunoaștere internațională a genocidului.",
-    "en": "Tsitsernakaberd, the 'Swallow's Fortress', is Armenia's solemn memorial to the victims of the Armenian Genocide of 1915. Built in 1967 on a hill in Yerevan, the memorial is a site of national mourning and remembrance. The complex has three main components: a 44-meter stele symbolizing the rebirth of the Armenian people; twelve large basalt slabs leaning inward, forming a circle around an eternal flame and representing the lost Western Armenian provinces; and a 100-meter memorial wall bearing the names of destroyed villages. Every year on April 24th, Genocide Remembrance Day, hundreds of thousands of Armenians gather here to lay flowers and honor the 1.5 million victims. Tsitsernakaberd is a powerful symbol of national memory and the demand for international recognition of the genocide."
-    },
-    factsAdvanced: { multi4: ["Official memorial to the victims of the Armenian Genocide.", "Built between 1966 and 1968.", "Located on Tsitsernakaberd hill in Yerevan.", "The name means 'Swallow's Fortress'.", "Features a 44-meter stele symbolizing Armenian rebirth.", "An eternal flame is centered within 12 basalt slabs.", "April 24th is the official Genocide Remembrance Day.", "The complex includes a museum and research institute opened in 1995."] }, image: "/poi-images/armenia-tsitsernakaberd-landmarks-v2.webp"},
-  {
+    {
     id: "armenia-matenadaran-landmarks-v2",
     type: "tourist-attraction",
     parent: "AM-ER",
@@ -561,47 +281,7 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
     "en": "The Matenadaran, officially the Mesrop Mashtots Institute of Ancient Manuscripts, is one of the world's most significant repositories of ancient manuscripts. Located in Yerevan, it is named after the creator of the Armenian alphabet. The institute holds over 17,000 Armenian manuscripts and more than 100,000 medieval and modern documents, covering a wide range of subjects including history, theology, philosophy, medicine, and art. The current building was completed in 1959 and is an impressive example of Soviet-Armenian architecture. In front of the building stand statues of prominent Armenian scholars. The Matenadaran is not just a museum but also an active research institute, playing a crucial role in the preservation and study of the written heritage of Armenian civilization and other cultures."
     },
     factsAdvanced: { multi4: ["Repository for over 17,000 Armenian manuscripts.", "Named after Mesrop Mashtots, creator of the Armenian alphabet.", "The collection includes manuscripts in over 2,000 other languages.", "The current building opened in 1959.", "Declared a national research institute in 1962.", "The collection includes the largest Armenian manuscript, the 'Homilies of Mush'.", "It is one of the world's richest depositories of medieval manuscripts.", "The complex was designed by architect Mark Grigorian."] }, image: "/poi-images/armenia-matenadaran-landmarks-v2.webp"},
-  {
-    id: "armenia-amberd-fortress-landmarks-v2",
-    type: "landmark",
-    parent: "AM-AG",
-    coords: [44.2266, 40.3887],
-    name: { de: "Festung Amberd", hu: "Amberd-erőd", ro: "Cetatea Amberd", en: "Amberd Fortress"},
-    image: "/poi-images/armenia-amberd-fortress-landmarks-v2.webp",
-    description: {
-      de: "Eine Burgruine aus dem 7. Jahrhundert, die sich auf einer Höhe von über 2300 Metern an den Hängen des Berges Aragaz befindet.",
-      hu: "Egy 7. századi várrom, amely több mint 2300 méteres magasságban található az Aragac-hegy lejtőin.",
-      ro: "O fortăreață ruinată din secolul al VII-lea situată la o altitudine de peste 2300 de metri pe pantele muntelui Aragaț.",
-      en: "A 7th-century fortress ruin situated at an altitude of over 2,300 meters on the slopes of Mount Aragats."
-    },
-    facts: {
-      de: [
-        "Der Name bedeutet Festung in den Wolken.",
-        "Die Anlage umfasst auch eine Kirche aus dem 11. Jahrhundert."
-      ],
-      hu: [
-        "A név jelentése Erőd a felhőkben.",
-        "Az épületegyütteshez egy 11. századi templom is tartozik."
-      ],
-      ro: [
-        "Numele înseamnă fortăreața din nori.",
-        "Complexul include și o biserică din secolul al XI-lea."
-      ],
-      en: [
-        "The name translates to fortress in the clouds.",
-        "The complex also includes an 11th-century church."
-      ]
-    }
-  ,
-    descriptionAdvanced: {
-    
-    "de": "Die Festung Amberd, deren Name 'Festung in den Wolken' bedeutet, ist eine beeindruckende mittelalterliche Festungsanlage an den Hängen des Berges Aragaz in einer Höhe von 2.300 Metern. Die strategische Lage zwischen zwei Flüssen bot natürlichen Schutz. Die ersten Bauten stammen aus dem 7. Jahrhundert, aber die Hauptstruktur, einschließlich der Mauern und der Kirche, wurde im 11. Jahrhundert unter der Pahlavuni-Dynastie errichtet. Der Komplex umfasste eine Festung, ein Schloss, eine Kirche und ein Badehaus mit einem ausgeklügelten Wasserversorgungssystem. Amberd war eine wichtige militärische Bastion, wurde aber im 13. Jahrhundert von den Mongolen erobert und zerstört. Heute sind die Ruinen, insbesondere die gut erhaltene Kirche Vahramashen von 1026, ein beliebtes Touristenziel. Sie bieten einen faszinierenden Einblick in die mittelalterliche armenische Militärarchitektur und atemberaubende Ausblicke auf die umliegende Landschaft.",
-    "hu": "Az Amberd-erőd, melynek neve 'erőd a felhőkben'-t jelent, egy lenyűgöző középkori erődítmény az Aragac-hegy lejtőin, 2300 méteres magasságban. Stratégiai elhelyezkedése két folyó között természetes védelmet nyújtott. Az első építmények a 7. századból származnak, de a fő szerkezetet, beleértve a falakat és a templomot, a 11. században építették a Pahlavuni-dinasztia alatt. A komplexum egy erődöt, egy várat, egy templomot és egy fürdőházat foglalt magában, kifinomult vízellátó rendszerrel. Amberd fontos katonai bástya volt, de a 13. században a mongolok elfoglalták és elpusztították. Ma a romok, különösen a jól megőrzött, 1026-ban épült Vahramasen-templom, népszerű turisztikai célpontot jelentenek. Lenyűgöző betekintést nyújtanak a középkori örmény hadépítészetbe, és lélegzetelállító kilátást kínálnak a környező tájra.",
-    "ro": "Cetatea Amberd, al cărei nume înseamnă 'cetate în nori', este o fortăreață medievală impresionantă, situată pe versanții Muntelui Aragats, la o altitudine de 2.300 de metri. Poziția sa strategică între două râuri oferea protecție naturală. Primele structuri datează din secolul al VII-lea, dar structura principală, inclusiv zidurile și biserica, a fost construită în secolul al XI-lea sub dinastia Pahlavuni. Complexul includea o fortăreață, un castel, o biserică și o baie cu un sistem sofisticat de alimentare cu apă. Amberd a fost un bastion militar important, dar a fost cucerit și distrus de mongoli în secolul al XIII-lea. Astăzi, ruinele, în special biserica Vahramashen, bine conservată, din 1026, sunt o destinație turistică populară. Acestea oferă o perspectivă fascinantă asupra arhitecturii militare medievale armene și vederi uluitoare ale peisajului înconjurător.",
-    "en": "Amberd Fortress, whose name means 'fortress in the clouds', is an impressive medieval fortress located on the slopes of Mount Aragats at an altitude of 2,300 meters. Its strategic location between two rivers provided natural protection. The first structures date back to the 7th century, but the main structure, including the walls and the church, was built in the 11th century under the Pahlavuni dynasty. The complex included a fortress, a castle, a church, and a bathhouse with a sophisticated water supply system. Amberd was an important military stronghold but was captured and destroyed by the Mongols in the 13th century. Today, the ruins, especially the well-preserved Vahramashen Church from 1026, are a popular tourist destination. They offer a fascinating glimpse into medieval Armenian military architecture and breathtaking views of the surrounding landscape."
-    },
-    factsAdvanced: { multi4: ["Located 2,300 meters (7,500 ft) above sea level.", "The name 'Amberd' translates to 'fortress in the clouds'.", "Some structures date back to the 7th century.", "The main fortress and the Vahramashen Church were built in the 11th-13th centuries.", "The site includes remnants of a fortified wall, castle, and bathhouse.", "The Vahramashen Church was built in 1026.", "It is situated on the slopes of Mount Aragats.", "The fortress was partially destroyed by the Mongols in 1236."] }, image: "/poi-images/armenia-amberd-fortress-landmarks-v2.webp"},
-  {
+    {
     id: "armenia-zorats-karer-landmarks-v2",
     type: "landmark",
     parent: "AM-SU",

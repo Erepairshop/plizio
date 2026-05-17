@@ -802,31 +802,7 @@ export const liechtensteinNature: POI[] = [
       en: ["Located at around 1,300 meters above sea level", "Supplies the Samina power plant in the valley", "Consists of a reservoir and a swimming lake (Gänglesee)", "Heart of the Steg recreation area", "Collects water from the Malbun and Valorsch streams", "Popular spot for hobby fishers and hikers"],
     },
   },
-  {
-    id: "li-nat-malbun",
-    type: "landmark",
-    parent: "LI-003",
-    coords: [9.6083, 47.1027],
-    name: {
-      de: "Malbun",
-      hu: "Malbun síközpont",
-      ro: "Stațiunea Malbun",
-      en: "Malbun Resort"
-    }, image: "/poi-images/li-nat-malbun.webp",
-    descriptionAdvanced: {
-      de: "Das Resort Malbun liegt auf einer Höhe von rund 1600 Metern über dem Meeresspiegel in der Gemeinde Triesenberg und stellt das einzige bedeutende Wintersportgebiet im Fürstentum Liechtenstein dar. Geografisch befindet sich der Ort in einem abgeschlossenen Hochtal, das durch das Saminatal erschlossen wird und von markanten Alpengipfeln umgeben ist. Die touristische Entwicklung des Ortes begann in den 1930er Jahren, während der erste offizielle Skilift im Jahr 1959 eingeweiht wurde. Heute verfügt das Skigebiet über etwa 23 Kilometer präparierte Pisten, die durch moderne Sesselbahnen und Lifte erschlossen sind. Malbun ist bekannt für seine Auszeichnung als familienfreundlicher Ferienort und bietet im Sommer zahlreiche Wanderwege sowie die berühmte Falknerei Galina. Die Architektur des Dorfes ist durch eine Mischung aus traditionellen Holzhäusern und modernen Hotelbauten geprägt, was den alpinen Charakter unterstreicht.",
-      hu: "A Malbun üdülőhely körülbelül 1600 méteres tengerszint feletti magasságban található Triesenberg községben, és ez Liechtenstein egyetlen jelentős téli sportközpontja. Földrajzilag a település egy zárt völgyben fekszik, amelyet az Alpok magas csúcsai vesznek körül, és a Saminatal völgyön keresztül érhető el. A turisztikai fejlesztések az 1930-as években kezdődtek, az első sífelvonót pedig 1959-ben helyezték üzembe a területen. Napjainkban a síközpont 23 kilométernyi karbantartott pályával rendelkezik, amelyeket modern felvonók szolgálnak ki. Malbun különösen híres családbarát infrastruktúrájáról, nyáron pedig túraútvonalai és a Galina solymászközpont vonzza a látogatókat. A falu építészeti képe a hagyományos alpesi faházak és a modern szállodák ötvözete, amely harmonikusan illeszkedik a hegyi környezetbe.",
-      ro: "Stațiunea Malbun este situată la o altitudine de aproximativ 1600 de metri deasupra nivelului mării în comuna Triesenberg, fiind singura zonă majoră de sporturi de iarnă din Principatul Liechtenstein. Din punct de vedere geografic, localitatea se află într-o vale înaltă și izolată, înconjurată de vârfuri alpine proeminente și accesibilă prin valea Saminatal. Dezvoltarea turistică a început intens în anii 1930, primul teleschi fiind inaugurat oficial în anul 1959. În prezent, domeniul schiabil oferă peste 23 de kilometri de pârtii amenajate, deservite de instalații moderne de transport pe cablu. Malbun este recunoscut pentru certificările sale de stațiune dedicată familiilor, oferind în timpul verii numeroase trasee de drumeție și faimoasa școală de șoimărit Galina. Arhitectura satului îmbină stilul tradițional al cabanelor din lemn cu structuri hoteliere moderne, păstrând un caracter montan autentic.",
-      en: "Malbun Resort is situated at an altitude of approximately 1600 meters above sea level within the municipality of Triesenberg, serving as the only major winter sports destination in the Principality of Liechtenstein. Geographically, the resort lies in a secluded high valley surrounded by prominent Alpine peaks and is accessed via the Saminatal valley. The tourist development of the area began in the 1930s, with the first official ski lift becoming operational in 1959. Today, the ski area features about 23 kilometers of groomed slopes, serviced by modern chairlifts and T-bars. Malbun is widely recognized for its family-friendly infrastructure and awards, while the summer season offers extensive hiking trails and the renowned Galina Falconry center. The village architecture showcases a blend of traditional wooden chalets and contemporary hotel buildings, maintaining a distinct Alpine atmosphere.",
-    },
-    factsAdvanced: {
-      de: ["Die Ortschaft liegt auf einer Höhe von 1600 Metern.", "Der erste Skilift wurde im Jahr 1959 in Betrieb genommen.", "Das Skigebiet umfasst insgesamt 23 Kilometer Pistenlänge.", "Malbun gehört politisch zur Gemeinde Triesenberg.", "Die Falknerei Galina bietet Greifvogel-Flugschauen auf 1600 m Höhe.", "Das Resort ist seit 2004 als 'Family Destination' zertifiziert."],
-      hu: ["A település 1600 méteres tengerszint feletti magasságban fekszik.", "Az első sífelvonót 1959-ben adták át a forgalomnak.", "A síközpont összesen 23 kilométernyi pályarendszerrel rendelkezik.", "Malbun közigazgatásilag Triesenberg községhez tartozik.", "A Galina solymászközpont ragadozómadár-bemutatókat tart.", "A terület 2004 óta viseli a hivatalos családbarát minősítést."],
-      ro: ["Localitatea este situată la o altitudine fixă de 1600 de metri.", "Primul teleschi din stațiune a fost dat în folosință în 1959.", "Domeniul schiabil însumează o lungime totală de 23 de kilometri.", "Din punct de vedere administrativ, aparține de Triesenberg.", "Centrul de șoimărit Galina organizează demonstrații la înălțime.", "Stațiunea deține certificarea 'Family Destination' din anul 2004."],
-      en: ["The resort is located at an altitude of 1600 meters.", "The first ski lift was officially opened in 1959.", "The ski area offers a total of 23 kilometers of slopes.", "Malbun is part of the municipality of Triesenberg.", "The Galina Falconry center is a major local tourist attraction.", "The resort has held the 'Family Destination' seal since 2004."],
-    },
-  },
-  {
+    {
     id: "li-poi-planken-gafadura",
     type: "landmark",
     parent: "LI-005",

@@ -531,35 +531,7 @@ export const costaricaLandmarks: POI[] = [
       ro: ["Administrat de o cooperativă locală", "Înconjurat de pădure secundară", "Locație excelentă pentru fotografii"],
       en: ["Managed by a local non-profit ADIFORT", "Surrounded by lush secondary rainforest", "Iconic spot for tropical photography"]
     }, image: "/poi-images/cr-lafortuna.webp"},
-  {
-    id: "cr-nationaltheater",
-    type: "historical",
-    parent: "CR",
-    coords: [-84.0767, 9.9333],
-    name: { de: "Nationaltheater von Costa Rica", hu: "Costa Rica-i Nemzeti Színház", ro: "Teatrul Național din Costa Rica", en: "National Theater of Costa Rica" },
-    description: { de: "Ein prächtiges historisches Gebäude im Herzen von San José.", hu: "Pompás történelmi épület San José szívében.", ro: "O clădire istorică magnifică în inima orașului San José.", en: "A magnificent historic building in the heart of San José." },
-    descriptionAdvanced: {
-      de: "Das Nationaltheater wurde im späten 19. Jahrhundert erbaut und durch eine Sondersteuer auf den Kaffeeexport finanziert. Es gilt als das architektonische Juwel von San José mit seiner prunkvollen Innenausstattung.",
-      hu: "A Nemzeti Színházat a 19. század végén építették, és a kávéexportra kivetett különadóból finanszírozták. San José építészeti ékkövének tartják pazar belső díszítései miatt.",
-      ro: "Teatrul Național a fost construit la sfârșitul secolului al XIX-lea și finanțat printr-o taxă specială pe exportul de cafea. Este considerat bijuteria arhitecturală a orașului San José.",
-      en: "Completed in 1897, the National Theater was funded by a tax on coffee exports. It remains Costa Rica's finest architectural achievement, modeled after the Paris Opera House."
-    },
-    facts: {
-      de: ["Eröffnet: 1897", "Durch Kaffeesteuer finanziert", "Neoklassizistischer Stil", "Architektonisches Juwel"],
-      hu: ["Megnyitva: 1897", "Kávéadóból épült", "Neoklasszicista stílus", "Építészeti ékszerdoboz"],
-      ro: ["Inaugurat în 1897", "Finanțat din taxa pe cafea", "Stil neoclasic", "Bijuterie arhitecturală"],
-      en: ["Opened in 1897", "Funded by coffee export taxes", "Neoclassical architecture", "National architectural jewel"]
-    },
-    factsAdvanced: {
-      de: ["Deckengemälde 'Allegorie von Kaffee und Bananen'", "Aus italienischem Marmor gebaut", "Nationales Symbol"],
-      hu: ["Híres 'Kávé és banán allegóriája' mennyezetkép", "Olasz márványból épült", "Nemzeti szimbólum"],
-      ro: ["Pictură murală \\\"Alegoria cafelei și bananelor\\\"", "Construit cu marmură italiană", "Simbol național"],
-      en: ["Features the famous 'Allegory of Coffee' mural", "Built using Carrara marble from Italy", "Considered a symbol of national pride"]
-    },
-    historyYear: 1891,
-    image: "/poi-images/cr-nationaltheater.webp",
-  },
-  {
+    {
     id: "cr-irazu",
     type: "mountain",
     parent: "CR",

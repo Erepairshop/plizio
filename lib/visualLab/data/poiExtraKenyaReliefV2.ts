@@ -58,35 +58,7 @@ export const poiExtraKenyaReliefV2: POI[] = [
     },
     
      image: "/poi-images/mount-kenya-massif-relief-v2.webp"},
-  {
-    id: "aberdare-range-relief-v2",
-    type: "mountain",
-    parent: "KE-20",
-    coords: [36.7, -0.4],
-    name: { de: "Aberdare-Gebirge", hu: "Aberdare-hegység", ro: "Munții Aberdare", en: "Aberdare Range"},
-    image: "/poi-images/aberdare-range-relief-v2.webp",
-    description: { de: "Vulkanisches Hochlandgebirge.", hu: "Vulkanikus felföldi hegység.", ro: "Munți vulcanici de podiș.", en: "Volcanic highland mountains." },
-    facts: {
-      de: ["Hohe Plateaus", "Tiefe Täler"],
-      hu: ["Magas fennsíkok", "Mély völgyek"],
-      ro: ["Podișuri înalte", "Văi adânci"],
-      en: ["High plateaus", "Deep valleys"]
-    },
-    descriptionAdvanced: {
-      en: "The Aberdare Range is a 160 km long mountain range of volcanic origin, located in the central highlands of Kenya, west of Mount Kenya. It forms a key part of the eastern wall of the Great Rift Valley. The landscape is characterized by high moorlands, deep V-shaped valleys, and dense indigenous forests, including a significant bamboo zone. The highest peak is Mount Satima at 4,001 meters. The range is a critical water catchment area, supplying water to the Tana and Ewaso Nyiro rivers, as well as the city of Nairobi. The Aberdare National Park covers a large portion of the range, providing a habitat for a diverse array of wildlife, including elephants, black rhinos, and the elusive bongo antelope. The area is also known for its spectacular waterfalls, such as the Karuru Falls.",
-      de: "Die Aberdare Range bildet einen langen, kühlen Gebirgszug am Ostrand des Rift Valley. Auf der Westseite fällt die Landschaft fast wandartig ab, während sie nach Osten hin flacher zum Hochland ausläuft. Tiefe Flusstäler, Nebelwälder und Hochmoor ziehen sich durch den Rücken des Gebirges, und die Wasserläufe speisen weite Teile von Zentralkenia. Gerade dieser Kontrast zwischen schroffen Schluchten und offenen Moorflächen macht das Massiv geologisch so klar lesbar. Erdkunde K8 – asymmetrische Gebirgsränder.",
-      hu: "Az Aberdare-hegység egy 160 km hosszú, vulkanikus eredetű hegylánc Kenya központi felföldjén, a Kenya-hegytől nyugatra. A Nagy-hasadékvölgy keleti falának kulcsfontosságú részét képezi. A tájat magaslati lápvidékek, mély, V-alakú völgyek és sűrű őshonos erdők jellemzik, beleértve egy jelentős bambuszzónát is. Legmagasabb csúcsa a 4001 méteres Mount Satima. A hegység kritikus vízgyűjtő terület, amely a Tana és az Ewaso Nyiro folyókat, valamint Nairobi városát is ellátja vízzel. Az Aberdare Nemzeti Park a hegység nagy részét magában foglalja, élőhelyet biztosítva sokféle vadon élő állatnak, köztük elefántoknak, fekete orrszarvúknak és a ritka bongo antilopnak. A terület látványos vízeséseiről is ismert, mint például a Karuru-vízesés.",
-      ro: "Munții Aberdare sunt un lanț muntos de 160 km lungime, de origine vulcanică, situat în podișurile centrale ale Kenyei, la vest de Muntele Kenya. Formează o parte cheie a peretelui estic al Marelui Rift African. Peisajul este caracterizat de platouri înalte mlăștinoase, văi adânci în formă de 'V' și păduri indigene dense, incluzând o zonă semnificativă de bambus. Cel mai înalt vârf este Muntele Satima, cu 4.001 metri. Lanțul montan este o zonă de captare a apei critică, furnizând apă râurilor Tana și Ewaso Nyiro, precum și orașului Nairobi. Parcul Național Aberdare acoperă o mare parte a lanțului, oferind habitat pentru o gamă diversă de faună sălbatică, inclusiv elefanți, rinoceri negri și antilopa bongo, o specie rară. Zona este, de asemenea, cunoscută pentru cascadele sale spectaculoase, cum ar fi Cascada Karuru."
-    },
-    factsAdvanced: {
-      en: ["Approximately 160 km long", "Highest peak: Mount Satima (4,001 m)", "Part of the Rift Valley's eastern wall", "Important water catchment for Nairobi", "Aberdare National Park", "Deep, V-shaped valleys", "Home to forest elephants and bongos", "Spectacular waterfalls like Karuru Falls"],
-      de: ["Länge ca. 160 km", "Höchster Gipfel: Mount Satima (4.001 m)", "Teil der Rift-Valley-Ostwand", "Wichtiges Wasser-Einzugsgebiet für Nairobi", "Aberdare-Nationalpark", "Tiefe, V-förmige Täler", "Heimat von Waldelefanten und Bongos", "Spektakuläre Wasserfälle wie die Karuru Falls"],
-      hu: ["Hossza kb. 160 km", "Legmagasabb csúcsa: Mount Satima (4001 m)", "A Rift-völgy keleti falának része", "Fontos vízgyűjtő terület Nairobi számára", "Aberdare Nemzeti Park", "Mély, V-alakú völgyek", "Erdei elefántok és bongók otthona", "Látványos vízesések, mint a Karuru-vízesés"],
-      ro: ["Lungime de cca. 160 km", "Cel mai înalt vârf: Muntele Satima (4.001 m)", "Parte a peretelui estic al Rift Valley", "Zonă de captare a apei importantă pentru Nairobi", "Parcul Național Aberdare", "Văi adânci în formă de 'V'", "Habitat pentru elefanți de pădure și antilope bongo", "Cascade spectaculoase precum Karuru Falls"]
-    },
-    
-     image: "/poi-images/aberdare-range-relief-v2.webp"},
-  {
+    {
     id: "cherangani-hills-relief-v2",
     type: "mountain",
     parent: "KE-26",
@@ -114,63 +86,7 @@ export const poiExtraKenyaReliefV2: POI[] = [
     },
     
      image: "/poi-images/cherangani-hills-relief-v2.webp"},
-  {
-    id: "mount-elgon-relief-v2",
-    type: "mountain",
-    parent: "KE-26",
-    coords: [34.55, 1.1],
-    name: { de: "Mount Elgon", hu: "Elgon-hegy", ro: "Muntele Elgon", en: "Mount Elgon"},
-    image: "/poi-images/mount-elgon-relief-v2.webp",
-    description: { de: "Gigantischer erloschener Schildvulkan an der Grenze.", hu: "Hatalmas kialudt pajzsvulkán a határon.", ro: "Vulcan scut gigantic stins la frontieră.", en: "Gigantic extinct shield volcano on the border." },
-    facts: {
-      de: ["Massive Caldera", "Vulkanischer Boden"],
-      hu: ["Hatalmas kaldera", "Vulkáni talaj"],
-      ro: ["Calderă masivă", "Sol vulcanic"],
-      en: ["Massive caldera", "Volcanic soil"]
-    },
-    descriptionAdvanced: {
-      en: "Mount Elgon is a massive, extinct shield volcano located on the border of Uganda and Kenya. It is one of the oldest and largest solitary volcanic mountains in East Africa, with a base diameter of about 80 km. The mountain features one of the largest intact calderas in the world, measuring around 8 km in diameter. The cool, moist slopes are covered with a progression of vegetation zones, from montane forest to bamboo and eventually to high-altitude moorland. Mount Elgon is a crucial water catchment area for the Nzoia River, which flows to Lake Victoria. The mountain and its surrounding area are protected as Mount Elgon National Park in both countries. The park is home to a variety of wildlife, including elephants known for visiting the Kitum Cave to lick salt.",
-      de: "Mount Elgon ist ein breiter Schildvulkan an der Grenze zwischen Kenia und Uganda. Statt einer spitzen Kegelform zeigt er eine weit ausladende, alte Vulkanlandschaft mit großer Caldera, Höhlen und tief eingeschnittenen Erosionsrinnen. Die Hänge sind feucht genug für Bergwälder, und auf der Höhe wechseln Bambus, Heide und offene Hochlagen. Gerade die Kombination aus altem Vulkanbau, karstähnlichem Höhlenraum und grenzüberschreitender Lage macht den Berg außergewöhnlich. Erdkunde K8 – erloschene Schildvulkane.",
-      hu: "Az Elgon-hegy egy hatalmas, kialudt pajzsvulkán Uganda és Kenya határán. Kelet-Afrika egyik legrégebbi és legnagyobb magányos vulkanikus hegye, alapjának átmérője körülbelül 80 km. A hegy a világ egyik legnagyobb érintetlen kalderájával rendelkezik, amelynek átmérője körülbelül 8 km. A hűvös, nedves lejtőket növényzeti zónák sora borítja, a hegyi erdőktől a bambuszon át a magaslati lápvidékig. Az Elgon-hegy létfontosságú vízgyűjtő terület az Nzoia folyó számára, amely a Viktória-tóba ömlik. A hegyet és környékét mindkét országban az Elgon-hegy Nemzeti Park védi. A park számos vadon élő állatnak ad otthont, köztük az elefántoknak, amelyek a Kitum-barlangot látogatják sóért.",
-      ro: "Muntele Elgon este un vulcan scut masiv, stins, situat la granița dintre Uganda și Kenya. Este unul dintre cei mai vechi și mai mari munți vulcanici solitari din Africa de Est, cu un diametru la bază de aproximativ 80 km. Muntele prezintă una dintre cele mai mari caldere intacte din lume, cu un diametru de aproximativ 8 km. Pantele răcoroase și umede sunt acoperite de o succesiune de zone de vegetație, de la pădure montană la bambus și, în final, la lande de mare altitudine. Muntele Elgon este un bazin hidrografic crucial pentru râul Nzoia, care se varsă în Lacul Victoria. Muntele și zona înconjurătoare sunt protejate ca Parcul Național Muntele Elgon în ambele țări. Parcul găzduiește o varietate de animale sălbatice, inclusiv elefanți cunoscuți pentru vizitarea Peșterii Kitum pentru a linge sare."
-    },
-    factsAdvanced: {
-      en: ["Borders Uganda and Kenya", "Extinct shield volcano", "One of the world's largest calderas (approx. 8 km diameter)", "Highest peak: Wagagai (4,321 m)", "Important water catchment area", "Mount Elgon National Park in both countries", "Famous for the salt-licking elephants of Kitum Cave", "Base diameter of approx. 80 km"],
-      de: ["Grenzt an Uganda und Kenia", "Erloschener Schildvulkan", "Eine der größten Calderen der Welt (ca. 8 km Durchmesser)", "Höchster Gipfel: Wagagai (4.321 m)", "Wichtiges Wasser-Einzugsgebiet", "Mount-Elgon-Nationalpark in beiden Ländern", "Berühmt für die salzleckenden Elefanten der Kitum-Höhle", "Basisdurchmesser von ca. 80 km"],
-      hu: ["Uganda és Kenya határán fekszik", "Kialudt pajzsvulkán", "A világ egyik legnagyobb kalderája (kb. 8 km átmérő)", "Legmagasabb csúcsa: Wagagai (4321 m)", "Fontos vízgyűjtő terület", "Mount Elgon Nemzeti Park mindkét országban", "Híres a Kitum-barlang sót nyalogató elefántjairól", "Alapjának átmérője kb. 80 km"],
-      ro: ["Se învecinează cu Uganda și Kenya", "Vulcan scut stins", "Una dintre cele mai mari caldere din lume (diametru de cca. 8 km)", "Cel mai înalt vârf: Wagagai (4.321 m)", "Bazin hidrografic important", "Parcul Național Muntele Elgon în ambele țări", "Renumit pentru elefanții din peștera Kitum care ling sare", "Diametrul bazei de cca. 80 km"]
-    },
-    
-     image: "/poi-images/mount-elgon-relief-v2.webp"},
-  {
-    id: "laikipia-plateau-relief-v2",
-    type: "relief",
-    parent: "KE-20",
-    coords: [37.0, 0.25],
-    name: { de: "Laikipia-Plateau", hu: "Laikipia-fennsík", ro: "Platoul Laikipia", en: "Laikipia Plateau"},
-    image: "/poi-images/laikipia-plateau-relief-v2.webp",
-    description: { de: "Großflächiges Hochland zwischen Gebirgen.", hu: "Kiterjedt felföld a hegységek között.", ro: "Podiș întins între munți.", en: "Extensive highland between mountains." },
-    facts: {
-      de: ["Grasland-Savanne", "Erhöhtes Plateau"],
-      hu: ["Füves szavanna", "Emelt fennsík"],
-      ro: ["Savană cu iarbă", "Podiș ridicat"],
-      en: ["Grassland savanna", "Raised plateau"]
-    },
-    descriptionAdvanced: {
-      en: "The Laikipia Plateau is a vast, high-altitude plateau in central Kenya, stretching from the foothills of Mount Kenya to the edge of the Great Rift Valley. Covering over 9,500 square kilometers, it is a mosaic of private and community-owned ranches, wildlife conservancies, and small farms. The landscape is predominantly semi-arid grassland and acacia scrub. Laikipia is renowned for its pioneering conservation efforts, hosting significant populations of wildlife, including the second-largest elephant population in Kenya. It is a critical habitat for endangered species like the black rhino, Grevy's zebra, and wild dogs. The plateau's high elevation, averaging around 1,700 meters, gives it a cool climate despite its location on the equator.",
-      de: "Das Laikipia-Plateau liegt zwischen Mount Kenya und der Rift-Talstufe und wirkt wie eine weite, leicht erhöhte Plattform. Anders als die steilen Berge rundherum besteht es aus offenen Ebenen, saisonalen Flusstälern und halbtrockenen Weideflächen, die heute teils von großen Conservancies genutzt werden. Hier treffen Viehhaltung, Wildtierkorridore und Wasserknappheit unmittelbar aufeinander. Der Raum zeigt deshalb gut, wie Klima, Relief und Landnutzung ineinandergreifen. Erdkunde K8 – Hochplateaus und Trockenräume.",
-      hu: "A Laikipia-fennsík egy hatalmas, magaslati fennsík Közép-Kenyában, amely a Kenya-hegy lábától a Nagy-hasadékvölgy pereméig terjed. Több mint 9500 négyzetkilométeren terül el, és magán- és közösségi tulajdonú farmok, vadvédelmi területek és kisgazdaságok mozaikja. A táj túlnyomórészt félszáraz gyep és akácos bozót. Laikipia úttörő természetvédelmi erőfeszítéseiről híres, jelentős vadállománynak ad otthont, köztük Kenya második legnagyobb elefántpopulációjának. Kritikus élőhelye a veszélyeztetett fajoknak, mint a fekete orrszarvú, a Grevy-zebra és a vadkutya. A fennsík átlagosan 1700 méteres magassága hűvös éghajlatot biztosít, annak ellenére, hogy az Egyenlítőn fekszik.",
-      ro: "Platoul Laikipia este un platou vast, de mare altitudine, în centrul Kenyei, care se întinde de la poalele Muntelui Kenya până la marginea Marelui Rift African. Acoperind peste 9.500 de kilometri pătrați, este un mozaic de ferme private și comunitare, rezervații de faună sălbatică și mici ferme. Peisajul este predominant format din pajiști semi-aride și tufișuri de acacia. Laikipia este renumită pentru eforturile sale de pionierat în conservare, găzduind populații semnificative de animale sălbatice, inclusiv a doua cea mai mare populație de elefanți din Kenya. Este un habitat critic pentru speciile pe cale de dispariție, cum ar fi rinocerul negru, zebra Grevy și câinii sălbatici. Altitudinea ridicată a platoului, în medie de aproximativ 1.700 de metri, îi conferă un climat răcoros, în ciuda locației sale pe ecuator."
-    },
-    factsAdvanced: {
-      en: ["Between Mount Kenya and the Great Rift Valley", "Area of over 9,500 km²", "Average altitude of 1,700 m", "Mosaic of ranches and conservancies", "Kenya's second-largest elephant population", "Key habitat for Grevy's zebra and wild dogs", "Hosts large populations of black rhinos", "Pioneering private and community conservation"],
-      de: ["Zwischen Mount Kenya und dem Great Rift Valley", "Fläche von über 9.500 km²", "Durchschnittliche Höhe von 1.700 m", "Mosaik aus Farmen und Conservancies", "Zweitgrößte Elefantenpopulation Kenias", "Wichtiger Lebensraum für Grevy-Zebras und Wildhunde", "Beheimatet große Populationen von Spitzmaulnashörnern", "Pionierarbeit im privaten und kommunalen Naturschutz"],
-      hu: ["A Kenya-hegy és a Nagy-hasadékvölgy között", "Területe több mint 9500 km²", "Átlagos magassága 1700 m", "Farmok és vadvédelmi területek mozaikja", "Kenya második legnagyobb elefántpopulációja", "Fontos élőhely a Grevy-zebrák és vadkutyák számára", "Jelentős fekete orrszarvú populáció otthona", "Úttörő a magán- és közösségi vadvédelemben"],
-      ro: ["Între Muntele Kenya și Marele Rift African", "Suprafață de peste 9.500 km²", "Altitudine medie de 1.700 m", "Mozaic de ferme și rezervații", "A doua cea mai mare populație de elefanți din Kenya", "Habitat important pentru zebrele Grevy și câinii sălbatici", "Găzduiește populații mari de rinoceri negri", "Pionierat în conservarea privată și comunitară"]
-    },
-    
-     image: "/poi-images/laikipia-plateau-relief-v2.webp"},
-  {
+      {
     id: "nyambene-hills-relief-v2",
     type: "mountain",
     parent: "KE-20",
@@ -254,91 +170,7 @@ export const poiExtraKenyaReliefV2: POI[] = [
     },
     
      image: "/poi-images/mathews-range-relief-v2.webp"},
-  {
-    id: "mount-kulal-relief-v2",
-    type: "mountain",
-    parent: "KE-25",
-    coords: [36.9, 2.7],
-    name: { de: "Mount Kulal", hu: "Kulal-hegy", ro: "Muntele Kulal", en: "Mount Kulal"},
-    image: "/poi-images/mount-kulal-relief-v2.webp",
-    description: { de: "Vulkanischer Berg nahe dem Turkana-See.", hu: "Vulkanikus hegy a Turkana-tó közelében.", ro: "Munte vulcanic lângă Lacul Turkana.", en: "Volcanic mountain near Lake Turkana." },
-    facts: {
-      de: ["Hohe Biodiversität", "Trockene Umgebung"],
-      hu: ["Magas biodiverzitás", "Száraz környezet"],
-      ro: ["Biodiversitate ridicată", "Mediu arid"],
-      en: ["High biodiversity", "Arid environment"]
-    },
-    descriptionAdvanced: {
-      en: "Mount Kulal is an eroded, extinct volcano in northern Kenya, rising from the eastern shore of Lake Turkana. It is a designated UNESCO Biosphere Reserve, recognized for its unique ecological value. The mountain creates a highland oasis in the midst of a vast desert, with its two main peaks, separated by a deep gorge, trapping moisture from the winds. This results in a lush montane forest on its upper slopes, a stark contrast to the arid lowlands. The forest is home to a variety of wildlife not found in the surrounding desert, and it's a vital water source for local communities, including the Samburu, Rendille, and Turkana peoples. Mount Kulal is considered a sacred site and represents a critical area for biodiversity.",
-      de: "Mount Kulal erhebt sich nördlich von Marsabit als grüne Berginsel über einer trockenen Landschaft. Die Hänge fangen Feuchtigkeit ein, sodass sich ein ungewöhnlich artenreicher Wald bilden konnte, obwohl ringsum Halbwüste dominiert. Das Massiv ist deshalb nicht nur ein Reliefobjekt, sondern auch ein ökologischer Sonderfall mit Quellen, Nebelwald und traditioneller Nutzung durch lokale Gemeinschaften. Besonders auffällig ist der Kontrast zwischen dem feuchten Berg und den trockenen Flächen in Richtung Lake Turkana. Erdkunde K8 – Berginseln und Mikroklimate.",
-      hu: "A Kulal-hegy egy erodálódott, kialudt vulkán Észak-Kenyában, amely a Turkana-tó keleti partjáról emelkedik ki. Az UNESCO által kijelölt bioszféra-rezervátum, amelyet egyedülálló ökológiai értéke miatt ismertek el. A hegy egy hegyvidéki oázist hoz létre egy hatalmas sivatag közepén; két fő csúcsa, amelyeket egy mély szurdok választ el, megköti a szelek nedvességét. Ez buja hegyi erdőt eredményez a felső lejtőin, ami éles ellentétben áll a száraz alföldekkel. Az erdő számos olyan vadon élő állatnak ad otthont, amelyek nem találhatók meg a környező sivatagban, és létfontosságú vízforrás a helyi közösségek, köztük a szamburu, a rendille és a turkana nép számára. A Kulal-hegyet szent helynek tekintik, és a biodiverzitás szempontjából kritikus területet képvisel.",
-      ro: "Muntele Kulal este un vulcan erodat, stins, în nordul Kenyei, care se ridică de pe malul estic al Lacului Turkana. Este desemnat Rezervație a Biosferei UNESCO, recunoscută pentru valoarea sa ecologică unică. Muntele creează o oază montană în mijlocul unui deșert vast, cu cele două vârfuri principale, separate de o prăpastie adâncă, captând umiditatea din vânturi. Acest lucru are ca rezultat o pădure montană luxuriantă pe versanții săi superiori, un contrast puternic cu câmpiile aride. Pădurea găzduiește o varietate de animale sălbatice care nu se găsesc în deșertul înconjurător și este o sursă vitală de apă pentru comunitățile locale, inclusiv pentru popoarele Samburu, Rendille și Turkana. Muntele Kulal este considerat un sit sacru și reprezintă o zonă critică pentru biodiversitate."
-    },
-    factsAdvanced: {
-      en: ["Extinct volcano on Lake Turkana", "UNESCO Biosphere Reserve since 1979", "Forms an oasis in the desert", "Two peaks separated by a gorge", "Montane forest in an arid environment", "Vital water source for local tribes", "Sacred mountain for surrounding peoples", "High biodiversity compared to surroundings"],
-      de: ["Erloschener Vulkan am Turkana-See", "UNESCO-Biosphärenreservat seit 1979", "Bildet eine Oase in der Wüste", "Zwei Gipfel, getrennt durch eine Schlucht", "Bergwald in arider Umgebung", "Wichtige Wasserquelle für lokale Stämme", "Heiliger Berg für die umliegenden Völker", "Hohe Biodiversität im Vergleich zur Umgebung"],
-      hu: ["Kialudt vulkán a Turkana-tónál", "UNESCO Bioszféra Rezervátum 1979 óta", "Oázist alkot a sivatagban", "Két csúcs, amelyeket egy szurdok választ el", "Hegyi erdő egy száraz környezetben", "Fontos vízforrás a helyi törzsek számára", "Szent hegy a környező népek számára", "Magas biodiverzitás a környezetéhez képest"],
-      ro: ["Vulcan stins pe malul lacului Turkana", "Rezervație a Biosferei UNESCO din 1979", "Formează o oază în deșert", "Două vârfuri separate de o prăpastie", "Pădure montană într-un mediu arid", "Sursă importantă de apă pentru triburile locale", "Munte sacru pentru popoarele înconjurătoare", "Biodiversitate ridicată în comparație cu mediul înconjurător"]
-    },
-    
-     image: "/poi-images/mount-kulal-relief-v2.webp"},
-  {
-    id: "mount-nyiru-relief-v2",
-    type: "mountain",
-    parent: "KE-25",
-    coords: [36.8, 2.1],
-    name: { de: "Mount Nyiru", hu: "Nyiru-hegy", ro: "Muntele Nyiru", en: "Mount Nyiru"},
-    image: "/poi-images/mount-nyiru-relief-v2.webp",
-    description: { de: "Massives Gebirgsmassiv im Norden.", hu: "Masszív hegytömb északon.", ro: "Masiv muntos în nord.", en: "Massive mountain massif in the north." },
-    facts: {
-      de: ["Steile Anstiege", "Wüstenoase"],
-      hu: ["Meredek emelkedők", "Sivatagi oázis"],
-      ro: ["Urcări abrupte", "Oază deșertică"],
-      en: ["Steep ascents", "Desert oasis"]
-    },
-    descriptionAdvanced: {
-      en: "Mount Nyiru is a large, isolated mountain massif in the arid northern region of Kenya, located south of Lake Turkana. It is a broad, forested mountain that rises to 2,752 meters, creating a significant 'sky island' ecosystem. The mountain is not volcanic but is composed of ancient Precambrian basement rocks. Its extensive forests, primarily of podocarpus and juniper, are a stark contrast to the surrounding desert and are vital for water catchment, supporting the pastoralist communities in the area. Mount Nyiru is considered the sacred ancestral home of the Samburu people, who believe their god, Nkai, resides there. The mountain's isolation and sacred status have helped preserve its unique biodiversity, including several endemic plant species.",
-      de: "Mount Nyiru ist ein raues, abgelegenes Bergland im Norden Kenias, das sich deutlich von den bekannteren Vulkanen im Rift unterscheidet. Die Hänge sind felsig, trocken und von saisonalen Wasserläufen zerschnitten, doch in höheren Lagen hält sich genug Feuchtigkeit für Bergvegetation und Weidegründe. Für die umliegenden Gemeinschaften ist Nyiru vor allem als Orientierungsmarke, Wasserquelle und Weideland wichtig. Als Reliefform zeigt der Berg, wie stark selbst kleine Höhenzüge das Leben in ariden Regionen strukturieren können. Erdkunde K8 – Relief und Wasserknappheit.",
-      hu: "A Nyiru-hegy egy nagy, elszigetelt hegytömb Kenya száraz északi régiójában, a Turkana-tótól délre. Ez egy széles, erdős hegy, amely 2752 méter magasra emelkedik, jelentős „égi sziget” ökoszisztémát hozva létre. A hegy nem vulkanikus, hanem ősi, prekambriumi alapkőzetekből áll. Kiterjedt erdői, amelyek elsősorban podokárpuszból és borókából állnak, éles ellentétben állnak a környező sivataggal, és létfontosságúak a vízgyűjtés szempontjából, támogatva a környék pásztorkodó közösségeit. A Nyiru-hegyet a szamburu nép szent ősi otthonának tekintik, akik úgy vélik, hogy istenük, Nkai, ott lakik. A hegy elszigeteltsége és szent státusza segített megőrizni egyedülálló biológiai sokféleségét, beleértve számos endemikus növényfajt.",
-      ro: "Muntele Nyiru este un masiv muntos mare, izolat, în regiunea aridă de nord a Kenyei, situat la sud de Lacul Turkana. Este un munte larg, împădurit, care se ridică la 2.752 de metri, creând un ecosistem semnificativ de tip „insulă celestă”. Muntele nu este vulcanic, ci este compus din roci de bază precambriene vechi. Pădurile sale extinse, în principal de podocarpus și ienupăr, contrastează puternic cu deșertul înconjurător și sunt vitale pentru captarea apei, sprijinind comunitățile pastorale din zonă. Muntele Nyiru este considerat casa ancestrală sacră a poporului Samburu, care crede că zeul lor, Nkai, locuiește acolo. Izolarea și statutul sacru al muntelui au ajutat la conservarea biodiversității sale unice, inclusiv a mai multor specii de plante endemice."
-    },
-    factsAdvanced: {
-      en: ["Isolated mountain massif south of Lake Turkana", "Altitude of 2,752 m", "Not volcanic, but Precambrian basement rock", "Sacred mountain of the Samburu people", "Important podocarpus and juniper forests", "Significant water catchment in an arid region", "Habitat for endemic plant species", "Important site for Samburu culture and belief"],
-      de: ["Isoliertes Bergmassiv südlich des Turkana-Sees", "Höhe von 2.752 m", "Nicht vulkanisch, sondern präkambrisches Grundgebirge", "Heiliger Berg des Samburu-Volkes", "Wichtige Podocarpus- und Juniperuswälder", "Bedeutendes Wasser-Einzugsgebiet in arider Region", "Lebensraum für endemische Pflanzenarten", "Wichtiger Ort für die Samburu-Kultur und -Glauben"],
-      hu: ["Elszigetelt hegytömb a Turkana-tótól délre", "Magassága 2752 m", "Nem vulkanikus, hanem prekambriumi alapkőzet", "A szamburu nép szent hegye", "Fontos podokárpusz- és borókaerdők", "Jelentős vízgyűjtő terület egy száraz régióban", "Endemikus növényfajok élőhelye", "Fontos hely a szamburu kultúra és hit számára"],
-      ro: ["Masiv muntos izolat la sud de Lacul Turkana", "Altitudine de 2.752 m", "Nu este vulcanic, ci din roci de bază precambriene", "Muntele sacru al poporului Samburu", "Păduri importante de podocarpus și ienupăr", "Bazin hidrografic semnificativ într-o regiune aridă", "Habitat pentru specii de plante endemice", "Loc important pentru cultura și credința Samburu"]
-    },
-    
-     image: "/poi-images/mount-nyiru-relief-v2.webp"},
-  {
-    id: "mount-longonot-relief-v2",
-    type: "mountain",
-    parent: "KE-26",
-    coords: [36.45, -0.9],
-    name: { de: "Mount Longonot", hu: "Longonot-hegy", ro: "Muntele Longonot", en: "Mount Longonot"},
-    image: "/poi-images/mount-longonot-relief-v2.webp",
-    description: { de: "Markanter Stratovulkan im Rift Valley.", hu: "Jellegzetes rétegvulkán a Rift-völgyben.", ro: "Stratovulcan proeminent în Rift Valley.", en: "Prominent stratovolcano in the Rift Valley." },
-    facts: {
-      de: ["Tiefer Krater", "Vulkanisches Gestein"],
-      hu: ["Mély kráter", "Vulkáni kőzet"],
-      ro: ["Crater adânc", "Rocă vulcanică"],
-      en: ["Deep crater", "Volcanic rock"]
-    },
-    descriptionAdvanced: {
-      en: "Mount Longonot is a stratovolcano located southeast of Lake Naivasha in the Great Rift Valley of Kenya. The name 'Longonot' is derived from the Maasai word 'Oloonong'ot', meaning 'mountains of many spurs' or 'steep ridges'. It is a relatively young volcano, with its last eruption thought to have been in the 1860s. Its most prominent feature is a large caldera, about 3.5 km in diameter, with a smaller, forested crater cone within it. The entire mountain is a national park and a popular destination for hiking. A trail runs from the park entrance up to the crater rim, and it's possible to walk the circumference of the caldera. The crater floor is covered in a dense forest, which is home to various wildlife species.",
-      de: "Mount Longonot ist ein junger Stratovulkan südöstlich des Naivasha-Sees und gehört zu den markantesten Einzelbergen der Rift-Zone. Sein großer Kraterrand ist ein Wanderziel, doch geologisch zählt vor allem die Caldera mit ihren inneren Lavafeldern. Der Berg steht für den aktiven Vulkanismus des Rift Valley: steile Flanken, frische Schlacken und die Nähe zu geothermisch aktiven Zonen zeigen, dass diese Landschaft keineswegs abgeschlossen ist. Erdkunde K8 – Vulkanformen im Grabenbruch.",
-      hu: "A Longonot-hegy egy rétegvulkán, amely a Naivasha-tótól délkeletre található a kenyai Nagy-hasadékvölgyben. A „Longonot” név a maszáj „Oloonong'ot” szóból származik, ami „sok sarkantyú hegyét” vagy „meredek gerinceket” jelent. Viszonylag fiatal vulkán, utolsó kitörését az 1860-as évekre teszik. Legkiemelkedőbb jellegzetessége egy nagy, körülbelül 3,5 km átmérőjű kaldera, amelyen belül egy kisebb, erdős kráterkúp található. Az egész hegy egy nemzeti park és népszerű túrázóhely. Egy ösvény vezet a park bejáratától a kráter pereméig, és körbe lehet járni a kalderát. A kráter alját sűrű erdő borítja, amely különféle vadon élő állatfajoknak ad otthont.",
-      ro: "Muntele Longonot este un stratovulcan situat la sud-est de Lacul Naivasha, în Marele Rift African din Kenya. Numele „Longonot” provine din cuvântul Maasai „Oloonong'ot”, care înseamnă „munți cu multe pinteni” sau „creste abrupte”. Este un vulcan relativ tânăr, ultima sa erupție fiind considerată a fi avut loc în anii 1860. Cea mai proeminentă caracteristică a sa este o calderă mare, de aproximativ 3,5 km în diametru, cu un con de crater mai mic, împădurit, în interiorul ei. Întregul munte este un parc național și o destinație populară pentru drumeții. O potecă urcă de la intrarea în parc până la marginea craterului și este posibil să se parcurgă circumferința calderei. Fundul craterului este acoperit de o pădure densă, care găzduiește diverse specii de animale sălbatice."
-    },
-    factsAdvanced: {
-      en: ["Stratovolcano in the Great Rift Valley", "Southeast of Lake Naivasha", "Last eruption thought to be in the 1860s", "Large caldera with a diameter of approx. 3.5 km", "Name is derived from a Maasai word", "Part of Mount Longonot National Park", "Popular destination for hiking to the crater rim", "Crater floor is covered by forest"],
-      de: ["Stratovulkan im Great Rift Valley", "Südöstlich des Naivasha-Sees", "Letzte Eruption in den 1860er Jahren vermutet", "Große Caldera mit ca. 3,5 km Durchmesser", "Name leitet sich von einem Maasai-Wort ab", "Teil des Mount-Longonot-Nationalparks", "Beliebtes Ziel für Wanderungen zum Kraterrand", "Kraterboden ist von Wald bedeckt"],
-      hu: ["Rétegvulkán a Nagy-hasadékvölgyben", "A Naivasha-tótól délkeletre", "Utolsó kitörését az 1860-as évekre teszik", "Nagy, kb. 3,5 km átmérőjű kaldera", "Neve egy maszáj szóból származik", "A Mount Longonot Nemzeti Park része", "Népszerű túraútvonal a kráter peremére", "A kráter alját erdő borítja"],
-      ro: ["Stratovulcan în Marele Rift African", "La sud-est de Lacul Naivasha", "Ultima erupție suspectată în anii 1860", "Calderă mare cu diametrul de cca. 3,5 km", "Numele provine dintr-un cuvânt Maasai", "Parte a Parcului Național Muntele Longonot", "Destinație populară pentru drumeții pe marginea craterului", "Fundul craterului este acoperit de pădure"]
-    },
-    
-     image: "/poi-images/mount-longonot-relief-v2.webp"},
-  {
+        {
     id: "menengai-crater-relief-v2",
     type: "relief",
     parent: "KE-26",
@@ -618,35 +450,7 @@ export const poiExtraKenyaReliefV2: POI[] = [
     },
     
      image: "/poi-images/kinangop-plateau-relief-v2.webp"},
-  {
-    id: "mount-satima-relief-v2",
-    type: "mountain",
-    parent: "KE-20",
-    coords: [36.6, -0.4],
-    name: { de: "Mount Satima", hu: "Satima-hegy", ro: "Muntele Satima", en: "Mount Satima"},
-    image: "/poi-images/mount-satima-relief-v2.webp",
-    description: { de: "Höchster Gipfel im Aberdare-Massiv.", hu: "Az Aberdare-hegység legmagasabb csúcsa.", ro: "Cel mai înalt vârf din masivul Aberdare.", en: "Highest peak in the Aberdare massif." },
-    facts: {
-      de: ["Vulkanische Gipfel", "Alpine Vegetation"],
-      hu: ["Vulkanikus csúcs", "Alpesi növényzet"],
-      ro: ["Vârf vulcanic", "Vegetație alpină"],
-      en: ["Volcanic peak", "Alpine vegetation"]
-    },
-    descriptionAdvanced: {
-      en: "Mount Satima, also known as 'Oldoinyo Lesatima' in the Maasai language, is the highest peak in the Aberdare Range, reaching an elevation of 4,001 meters. Located in central Kenya, it marks the northernmost point of the range. The name means 'mountain of the bull calf'. The peak itself is a rugged, rocky outcrop rising above the high-altitude moorlands that characterize the upper Aberdares. From its summit, on a clear day, it is possible to see panoramic views of Mount Kenya, the Laikipia Plateau, and the Great Rift Valley. The approach to the peak takes hikers through unique Afro-alpine vegetation, including giant groundsels and lobelias. The area is part of the Aberdare National Park, a critical water catchment area and a habitat for diverse wildlife.",
-      de: "Mount Satima, auch Ol Donyo Lesatima, ist der höchste Punkt der Aberdare Range und markiert den nördlichen Rand dieser Berglandschaft. Der Gipfelbereich ist nicht scharf zugespitzt, sondern als offenes Hochmoor mit bizarren Felsformationen ausgebildet. Besonders bekannt sind die sogenannten Dragon's Teeth, die aus der Moorfläche aufragen und an versteinerten Zacken wirken. Unterhalb wechseln Bambus, Bergwald und Moorland in kurzen Abständen. So wird Satima zu einem idealen Beispiel für Höhenstufung in den kenianischen Hochgebirgen. Erdkunde K8 – alpines Moorland.",
-      hu: "A Satima-hegy, maszáj nyelven „Oldoinyo Lesatima”, az Aberdare-hegység legmagasabb csúcsa, eléri a 4001 méteres magasságot. Közép-Kenyában található, és a hegység legészakibb pontját jelöli. A név jelentése „a bika borjának hegye”. Maga a csúcs egy zord, sziklás kibúvás, amely a magaslati lápvidékek fölé emelkedik, amelyek a felső Aberdare-hegységet jellemzik. Csúcsáról tiszta napon panorámás kilátás nyílik a Kenya-hegyre, a Laikipia-fennsíkra és a Nagy-hasadékvölgyre. A csúcshoz vezető út egyedülálló afro-alpin növényzeten keresztül vezet, beleértve az óriás aggófüveket és lobéliákat. A terület az Aberdare Nemzeti Park része, amely kritikus vízgyűjtő terület és változatos vadvilág élőhelye.",
-      ro: "Muntele Satima, cunoscut și sub numele de „Oldoinyo Lesatima” în limba Maasai, este cel mai înalt vârf din Munții Aberdare, atingând o altitudine de 4.001 metri. Situat în centrul Kenyei, marchează cel mai nordic punct al lanțului montan. Numele înseamnă „muntele vițelului de taur”. Vârful în sine este un afloriment stâncos și accidentat, care se ridică deasupra landelor de mare altitudine ce caracterizează partea superioară a Munților Aberdare. De pe vârful său, într-o zi senină, se pot vedea priveliști panoramice ale Muntelui Kenya, Platoului Laikipia și Marelui Rift African. Abordarea vârfului îi poartă pe drumeți prin vegetația unică afro-alpină, inclusiv specii gigantice de Senecio și Lobelia. Zona face parte din Parcul Național Aberdare, o zonă critică de captare a apei și un habitat pentru o faună diversă."
-    },
-    factsAdvanced: {
-      en: ["Highest peak of the Aberdare Range (4,001 m)", "Name means 'mountain of the young bull' in Maasai", "Offers panoramic views of Mount Kenya and the Rift Valley", "Part of the Aberdare National Park", "Surrounded by high-altitude moorlands", "Afro-alpine vegetation with giant groundsels", "Northernmost point of the Aberdare chain", "Important water catchment area"],
-      de: ["Höchster Gipfel der Aberdare Range (4.001 m)", "Name bedeutet 'Berg des jungen Bullen' auf Maasai", "Bietet Panoramablick auf Mount Kenya und das Rift Valley", "Teil des Aberdare-Nationalparks", "Umgeben von hochalpinen Mooren", "Afro-alpine Vegetation mit Riesensenecien", "Nördlichster Punkt der Aberdare-Kette", "Wichtiger Wassereinzugsgebiet"],
-      hu: ["Az Aberdare-hegység legmagasabb csúcsa (4001 m)", "Neve maszáj nyelven „a fiatal bika hegye”", "Panorámás kilátást nyújt a Kenya-hegyre és a Rift-völgyre", "Az Aberdare Nemzeti Park része", "Magaslati lápok veszik körül", "Afro-alpin növényzet óriás aggófüvekkel", "Az Aberdare-hegylánc legészakibb pontja", "Fontos vízgyűjtő terület"],
-      ro: ["Cel mai înalt vârf din Munții Aberdare (4.001 m)", "Numele înseamnă „muntele taurului tânăr” în Maasai", "Oferă vederi panoramice spre Muntele Kenya și Rift Valley", "Parte a Parcului Național Aberdare", "Înconjurat de lande de mare altitudine", "Vegetație afro-alpină cu Senecio gigantic", "Cel mai nordic punct al lanțului Aberdare", "Zonă importantă de captare a apei"]
-    },
-    
-     image: "/poi-images/mount-satima-relief-v2.webp"},
-  {
+    {
     id: "ndere-island-relief-v2",
     type: "mountain",
     parent: "KE-43",

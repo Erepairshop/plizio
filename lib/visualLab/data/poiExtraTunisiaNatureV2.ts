@@ -44,28 +44,7 @@ export const poiExtraTunisiaNatureV2: POI[] = [
       hu: ["A tó az UNESCO világörökség része.", "Fontos megállóhely a vándormadarak számára.", "A környék mocsaras élőhelyei különlegesek.", "A tó vize szezonálisan változó sós tartalmú.", "Egyedülálló növénytársulások jellemzik a partvidéket.", "A természetvédelmi terület szigorúan őrzött."]
     }
   },
-  {
-    id: "gulf-of-gabes-nature-v2",
-    type: "sea",
-    parent: "TN-GB",
-    coords: [10.5, 34.0],
-    name: { de: "Golf von Gabès", hu: "Gabèsi-öböl", ro: "Golful Gabes", en: "Gulf of Gabes"},
-    image: "/poi-images/gulf-of-gabes-nature-v2.webp",
-    description: { de: "Ein Golf im Mittelmeer an der tunesischen Küste.", hu: "Öböl a Földközi-tengeren, Tunézia partjainál.", ro: "Un golf în Marea Mediterană pe coasta tunisiană.", en: "A gulf in the Mediterranean on the Tunisian coast." },
-    facts: {
-      de: ["Bekannt für Gezeiten.", "Reiche Fischgründe."],
-      hu: ["Ismert az árapály jelenségről.", "Gazdag halászterületek."],
-      ro: ["Cunoscut pentru maree.", "Zone de pescuit bogate."],
-      en: ["Known for its tides.", "Rich fishing grounds."]
-    }, image: "/poi-images/gulf-of-gabes-nature-v2.webp",
-    descriptionAdvanced: {
-      hu: "A Gabès-i öböl Tunézia partvidékének legjelentősebb öblözete, amely gazdag tengeri élővilággal és híres lagúnákkal rendelkezik. A terület a halászat és a tengerbiológiai kutatások szempontjából is kiemelt jelentőségű, miközben természeti szépségei is elismertek. Földrajz K7 — tengerek és partvidékek."
-    },
-    factsAdvanced: {
-      hu: ["Ez Tunézia legnagyobb partmenti öble.", "Gazdag tengeri élővilág és korallzátonyok jellemzik.", "A halászat az öböl környékének legfontosabb tevékenysége.", "Az apály és dagály szintkülönbsége itt a legjelentősebb.", "Környezetvédelmi szempontból fokozottan figyelt terület.", "A térség egyedülálló tengeri mikroklímával rendelkezik."]
-    }
-  },
-  {
+    {
     id: "djerba-island-nature-v2",
     type: "island",
     parent: "TN-MD",

@@ -1,55 +1,7 @@
 import type { POI } from "./poi";
 
 export const poiExtraSrilankaReliefV2: POI[] = [
-  {
-    id: "pidurutalagala-relief-v2",
-    type: "mountain",
-    parent: "LK-2",
-    coords: [80.7719, 7.0011],
-    name: { de: "Pidurutalagala", hu: "Pidurutalagala", ro: "Pidurutalagala", en: "Pidurutalagala"},
-    image: "/poi-images/pidurutalagala-relief-v2.webp",
-    description: {
-      de: "Der höchste Berg in Sri Lanka, der sich in der zentralen Provinz in der Nähe von Nuwara Eliya befindet.",
-      hu: "Srí Lanka legmagasabb hegye, amely a Középső Tartományban, Nuwara Eliya közelében található.",
-      ro: "Cel mai înalt munte din Sri Lanka, situat în Provincia Centrală lângă Nuwara Eliya.",
-      en: "The highest mountain in Sri Lanka, located in the Central Province near Nuwara Eliya."
-    },
-    facts: {
-      de: [
-        "Höhe beträgt 2524 Meter.",
-        "Befindet sich nahe Nuwara Eliya.",
-        "Radarstation auf dem Gipfel."
-      ],
-      hu: [
-        "Magassága 2524 méter.",
-        "Nuwara Eliya közelében található.",
-        "A csúcson radarállomás működik."
-      ],
-      ro: [
-        "Are o înălțime de 2524 metri.",
-        "Situat lângă Nuwara Eliya.",
-        "O stație radar pe vârf."
-      ],
-      en: [
-        "Elevation is 2524 meters.",
-        "Located near Nuwara Eliya.",
-        "Radar station on the summit."
-      ]
-    }, image: "/poi-images/pidurutalagala-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Pidurutalagala ist mit 2.524 m der höchste Berg Sri Lankas. Er liegt in der Zentralprovinz nahe der Stadt Nuwara Eliya. Der Berg ist Teil des zentralen Hochlandes und besteht hauptsächlich aus Granit. Die Spitze ist von Nebelwald umgeben und dient als Wetterradarstation der sri-lankischen Luftwaffe. Der Berg ist eine wichtige Wasserscheide, von der mehrere Flüsse wie der Mahaweli und der Kelani entspringen. Der Zugang zum Gipfel ist eingeschränkt.",
-      hu: "A Pidurutalagala Srí Lanka legmagasabb hegye, magassága 2.524 m. A középső tartományban, Nuwara Eliya város közelében található. A hegy a középső hegyvidék része, főként gránitból áll. A csúcsot köderdő borítja, és a Srí Lanka-i légierő időjárásradar-állomása található rajta. A hegy fontos vízválasztó, számos folyó, mint a Mahaweli és a Kelani, itt ered. A csúcs látogatása korlátozott.",
-      ro: "Muntele Pidurutalagala, cu 2.524 m, este cel mai înalt vârf din Sri Lanka. Se află în provincia centrală, lângă orașul Nuwara Eliya. Face parte din zonele înalte centrale și este compus în principal din granit. Vârful este acoperit de pădure de ceață și găzduiește o stație radar meteorologică a forțelor aeriene sri lankene. Muntele este o importantă cumpănă a apelor, de unde izvorăsc mai multe râuri, cum ar fi Mahaweli și Kelani. Accesul la vârf este restricționat.",
-      en: "Pidurutalagala, at 2,524 m, is Sri Lanka's highest peak. Located near Nuwara Eliya, it is a critical watershed for the country's major rivers. The summit is covered with montane cloud forest and hosts a military radar facility. Despite its height, the climb is relatively gentle, but public access is prohibited due to the military installation. The mountain's name translates to 'straw plateau' in Sinhala. It is part of the central highlands UNESCO World Heritage site.",
-    },
-    factsAdvanced: {
-      de: ["Die Höhe beträgt 2.524 m.", "Es ist der höchste Berg Sri Lankas.", "Der Berg liegt in der Zentralprovinz.", "Die durchschnittliche Jahrestemperatur beträgt 10 °C.", "Der Gipfel ist bewaldet.", "Die Entfernung nach Nuwara Eliya beträgt 10 km."],
-      hu: ["A magassága 2.524 m.", "Srí Lanka legmagasabb hegye.", "A hegy a középső tartományban található.", "Az éves átlaghőmérséklet 10 °C.", "A csúcsot erdő borítja.", "Nuwara Eliya távolsága 10 km."],
-      ro: ["Altitudinea este de 2.524 m.", "Este cel mai înalt munte din Sri Lanka.", "Muntele este situat în provincia centrală.", "Temperatura medie anuală este de 10 °C.", "Vârful este împădurit.", "Distanța până la Nuwara Eliya este de 10 km."],
-      en: ["Elevation is 2,524 m (8,281 ft).", "It is the highest peak in Sri Lanka.", "Located in the Central Province near Nuwara Eliya.", "Average annual temperature around 10 °C.", "Summit covered in montane cloud forest.", "The mountain is part of the central highlands."],
-    },
-  },
-  {
+    {
     id: "kirigalpotta-relief-v2",
     type: "mountain",
     parent: "LK-2",

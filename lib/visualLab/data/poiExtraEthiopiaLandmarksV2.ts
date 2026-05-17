@@ -923,43 +923,7 @@ export const poiExtraEthiopiaLandmarksV2: POI[] = [
       hu: ["Figyelemre méltó nevezetesség.", "Sok látogatót vonz."],
       ro: ["Un punct de reper notabil.", "Atrage mulți vizitatori."]
     }, image: "/poi-images/harar-jugol-walls-landmarks-v2.webp"},
-  {
-    id: "gondar-fasiledes-bath-landmarks-v2",
-    type: "landmark",
-    parent: "ET-AM",
-    coords: [37.464, 12.615],
-    name: {
-      en: "Fasilides' Bath",
-      de: "Bad des Fasilides",
-      hu: "Fasilides Fürdője",
-      ro: "Baia lui Fasilides"},
-    image: "/poi-images/gondar-fasiledes-bath-landmarks-v2.webp",
-    description: {
-      en: "A historic royal bath structure in Gondar, deeply associated with the annual Timkat celebration.",
-      de: "Ein historisches königliches Bad in Gondar, das tief mit dem jährlichen Timkat-Fest verbunden ist.",
-      hu: "Történelmi királyi fürdőépület Gondarban, amely szorosan kapcsolódik az éves Timkat ünnephez.",
-      ro: "O structură istorică a unei băi regale din Gondar, profund asociată cu sărbătoarea anuală Timkat."
-    },
-    facts: {
-      en: ["A notable landmark.", "Attracts many visitors."],
-      de: ["Ein bemerkenswertes Wahrzeichen.", "Zieht viele Besucher an."],
-      hu: ["Figyelemre méltó nevezetesség.", "Sok látogatót vonz."],
-      ro: ["Un punct de reper notabil.", "Atrage mulți vizitatori."]
-    }, image: "/poi-images/gondar-fasiledes-bath-landmarks-v2.webp",
-    descriptionAdvanced: {
-      de: "Das Fasilides-Bad in Gondar ist ein großes Steinbecken, das im 17. Jahrhundert von Kaiser Fasilides erbaut wurde. Es ist Teil der königlichen Badeanlage und wird jährlich während des Timkat-Festes mit Wasser gefüllt, das dann gesegnet wird. Das Becken ist etwa 50 Meter lang und 30 Meter breit. Umgeben ist es von einer Mauer mit Zinnen und Türmen. Der Legende nach diente das Bad auch als Schwimmbad für den Kaiser. Es ist heute eine Touristenattraktion und Schauplatz der Timkat-Zeremonie. Die Anlage gehört zum UNESCO-Weltkulturerbe Fasil Ghebbi.",
-      hu: "A Fasilides-fürdő Gondarban egy hatalmas kőmedence, amelyet a 17. században építettek. A medencét évente egyszer, a Timkat ünnepén töltik meg vízzel, amelyet megáldanak. A medence mérete 50x30 méter. A falak mentén lépcsők és ülőhelyek találhatók. A fürdő a királyi palota része volt. Ma a Timkat fesztivál központi helyszíne. A medence körül kis tornyok és falak vannak. Az UNESCO világörökség része. A vízszint eléri a 2 métert is az ünnep alatt.",
-      ro: "Baia lui Fasilides din Gondar este un bazin de piatră de mari dimensiuni, construit în secolul al XVII-lea de împăratul Fasilides. Bazinul este umplut cu apă o singură dată pe an, cu ocazia sărbătorii Timkat (Bobotează), când apa este binecuvântată. Are dimensiunile de aproximativ 50 m lungime și 30 m lățime. Pereții sunt creneleți, cu turnuri la colțuri. Inițial, servea ca piscină regală. Astăzi, este o atracție turistică majoră în timpul Timkat. Face parte din ansamblul Fasil Ghebbi, sit UNESCO.",
-      en: "Fasilides' Bath in Gondar is a 17th-century royal swimming pool built by Emperor Fasilides. The massive stone reservoir measures approximately 50 by 30 meters and is surrounded by a crenellated wall with towers. The bath is filled with water only once a year during the Timkat (Epiphany) festival, when it is blessed by priests. The festival draws thousands of pilgrims who immerse themselves in the water. The bath is part of the Fasil Ghebbi UNESCO World Heritage site. It is a unique example of Ethiopian imperial leisure architecture.",
-    },
-    factsAdvanced: {
-      de: ["Erbaut im 17. Jahrhundert von Fasilides.", "Länge: 50 Meter, Breite: 30 Meter.", "Wassertiefe während Timkat: bis zu 2 Meter.", "Jährliche Befüllung zu Timkat.", "Teil des UNESCO-Welterbes Fasil Ghebbi.", "Mauerhöhe: 4 Meter."],
-      hu: ["Épült a 17. században Fasilides alatt.", "Mérete: 50x30 méter.", "Vízmélység a Timkat alatt: 2 méter.", "Évente egyszer töltik fel vízzel.", "UNESCO világörökség része.", "Falmagasság: 4 méter."],
-      ro: ["Construită în secolul al XVII-lea.", "Dimensiuni: 50 m lungime, 30 m lățime.", "Adâncimea apei la Timkat: 2 m.", "Se umple anual la Timkat.", "Parte din situl UNESCO Fasil Ghebbi.", "Înălțimea zidurilor: 4 m."],
-      en: ["Built in 17th century by Emperor Fasilides.", "Dimensions: 50 m long, 30 m wide.", "Water depth during Timkat: up to 2 meters.", "Filled only once a year for Timkat.", "Part of Fasil Ghebbi UNESCO site.", "Wall height: 4 meters."],
-    },
-  },
-  {
+    {
     id: "biete-amanuel-landmarks-v2",
     type: "landmark",
     parent: "ET-AM",

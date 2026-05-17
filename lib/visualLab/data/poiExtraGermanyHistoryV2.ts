@@ -67,40 +67,7 @@ export const germanyHistoryV2: POI[] = [
     },
     image: "/poi-images/germany-trier-kaiserthermen-history-v2.webp",
   },
-  {
-    id: "germany-hambach-castle-history-v2",
-    type: "castle",
-    parent: "DE",
-    name: { de: "Hambacher Schloss", hu: "Hambachi kastély", ro: "Castelul Hambach", en: "Hambach Castle" },
-    coords: [8.1345, 49.3175],
-    description: {
-      de: "Schloss in der Pfalz, bekannt als Wiege der deutschen Demokratie durch das Hambacher Fest 1832.",
-      hu: "Kastély a Rajna-vidék-Pfalz tartományban, a német demokrácia bölcsőjeként ismert az 1832-es hambachi ünnepség miatt.",
-      ro: "Castel în Renania-Palatinat, cunoscut ca leagănul democrației germane datorită Festivalului de la Hambach din 1832.",
-      en: "Castle in the Palatinate, known as the cradle of German democracy due to the Hambach Festival of 1832.",
-    },
-    facts: {
-      de: ["Hambacher Fest 1832", "Demokratiebewegung", "Restauriert 1980", "Ausblick über Pfalz"],
-      hu: ["Hambachi ünnepség 1832", "Demokratikus mozgalom", "1980-ban restaurálva", "Kilátás a Pfalzra"],
-      ro: ["Festivalul de la Hambach 1832", "Mișcarea democratică", "Restaurat în 1980", "Vedere peste Palatinat"],
-      en: ["Hambach Festival 1832", "Democratic movement", "Restored 1980", "View over the Palatinate"],
-    },
-    imageHint: "Hambach Castle exterior view",
-    descriptionAdvanced: {
-      de: "Das Hambacher Schloss bei Neustadt an der Weinstraße gilt als die „Wiege der deutschen Demokratie“. Ursprünglich als mittelalterliche Burg (Kästenburg) im 11. Jahrhundert errichtet, erlangte es am 27. Mai 1832 historische Weltgeltung durch das Hambacher Fest. Zu diesem Zeitpunkt versammelten sich rund 30.000 Menschen aus allen Bevölkerungsschichten, um für Freiheit, nationale Einheit und europäische Brüderlichkeit zu demonstrieren. Erstmals wurde dabei die schwarz-rot-goldene Fahne als Symbol der deutschen Einheitsbewegung in der heute bekannten Form geführt. Nach den Zerstörungen im Pfälzischen Erbfolgekrieg Ende des 17. Jahrhunderts blieb die Burg lange Zeit eine Ruine, bevor sie im 19. Jahrhundert teilweise wiederaufgebaut wurde. Die Architektur zeigt heute eine Mischung aus romanischen Grundmauern und neugotischen Ergänzungen des bayrischen Kronprinzen Maximilian. Seit einer umfassenden Sanierung zum 150. Jahrestag des Festes beherbergt das Schloss eine bedeutende Dauerausstellung zur Geschichte der Demokratiebewegung in Deutschland.",
-      hu: "A Neustadt an der Weinstraße közelében található Hambachi kastély a „német demokrácia bölcsőjeként” ismert. Eredetileg a 11. században épült középkori várként (Kästenburg), történelmi jelentőségét azonban az 1832. május 27-én tartott Hambachi ünnepnek köszönheti. Ekkor mintegy 30 000 ember gyűlt össze a társadalom minden rétegéből, hogy a szabadságért, a nemzeti egységért és az európai testvériségért tüntessenek. Ezen az eseményen használták először a ma ismert formájában a fekete-vörös-arany zászlót a német egységmozgalom szimbólumaként. A 17. század végi pfalzi örökösödési háború pusztításai után a vár sokáig romokban állt, mielőtt a 19. században részben újjáépítették volna. Építészete ma a román kori alapfalak és Miksa bajor koronaherceg neogótikus kiegészítéseinek keverékét mutatja. Az ünnep 150. évfordulójára végzett átfogó felújítás óta a kastély jelentős állandó kiállításnak ad otthont, amely a németországi demokratikus mozgalmak történetét mutatja be.",
-      ro: "Castelul Hambach, situat lângă Neustadt an der Weinstraße, este considerat „leagănul democrației germane”. Construit inițial ca o cetate medievală (Kästenburg) în secolul al XI-lea, acesta a dobândit o importanță istorică mondială pe 27 mai 1832 prin Festivalul de la Hambach. La acel moment, aproximativ 30.000 de oameni din toate straturile sociale s-au adunat pentru a manifesta pentru libertate, unitate națională și fraternitate europeană. Atunci a fost purtat pentru prima dată steagul negru-roșu-auriu în forma cunoscută astăzi, ca simbol al mișcării de unitate germană. După distrugerile din Războiul de Succesiune al Palatinatului de la sfârșitul secolului al XVII-lea, castelul a rămas mult timp o ruină înainte de a fi parțial reconstruit în secolul al XIX-lea. Arhitectura de astăzi prezintă un amestec de ziduri de fundație romanice și completări neogotice ale prințului moștenitor bavarez Maximilian. De la o renovare amplă pentru a 150-a aniversare a festivalului, castelul găzduiește o expoziție permanentă importantă despre istoria mișcării democratice din Germania.",
-      en: "Hambach Castle, located near Neustadt an der Weinstraße, is regarded as the \"cradle of German democracy.\" Originally built as a medieval fortress (Kästenburg) in the 11th century, it achieved global historical significance on May 27, 1832, during the Hambach Festival. At that time, approximately 30,000 people from all walks of life gathered to demonstrate for freedom, national unity, and European brotherhood. It was here that the black-red-gold flag was first carried in its modern form as a symbol of the German unity movement. Following the destruction during the War of the Palatine Succession at the end of the 17th century, the castle remained a ruin for a long time before being partially rebuilt in the 19th century. Today, the architecture displays a blend of Romanesque foundation walls and neo-Gothic additions by the Bavarian Crown Prince Maximilian. Since a comprehensive renovation for the festival's 150th anniversary, the castle has housed a major permanent exhibition on the history of the democracy movement in Germany.",
-    },
-    factsAdvanced: {
-      de: ["Das Hambacher Fest fand vom 27. Mai bis zum 1. Juni 1832 statt.", "Etwa 30.000 Teilnehmer versammelten sich auf dem Schlossberg.", "Die originale Flagge von 1832 ist heute im Schlossmuseum ausgestellt.", "Die Burg liegt auf etwa 325 Metern Höhe über dem Meeresspiegel.", "Im Jahr 1844 schenkte der bayerische König die Ruine dem Kronprinzen Maximilian.", "Seit 2015 trägt das Hambacher Schloss das Europäische Kulturerbe-Siegel."],
-      hu: ["A Hambachi ünnepet 1832. május 27. és június 1. között tartották.", "Körülbelül 30 000 résztvevő gyűlt össze a várhegyen.", "Az eredeti 1832-es zászlót ma a kastély múzeumában őrzik.", "A vár körülbelül 325 méterrel a tengerszint felett helyezkedik el.", "1844-ben a bajor király a romokat Miksa koronahercegnek ajándékozta.", "A kastély 2015 óta viseli az Európai Örökség címet."],
-      ro: ["Festivalul de la Hambach a avut loc între 27 mai și 1 iunie 1832.", "Aproximativ 30.000 de participanți s-au adunat pe dealul castelului.", "Steagul original din 1832 este expus astăzi în muzeul castelului.", "Castelul este situat la o altitudine de aproximativ 325 de metri deasupra nivelului mării.", "În 1844, regele Bavariei a dăruit ruinele prințului moștenitor Maximilian.", "Din 2015, Castelul Hambach poartă Marca Patrimoniului European."],
-      en: ["The Hambach Festival took place from May 27 to June 1, 1832.", "Approximately 30,000 participants gathered on the castle hill.", "The original flag from 1832 is currently on display in the castle museum.", "The castle is situated at an elevation of about 325 meters above sea level.", "In 1844, the Bavarian king gifted the ruins to Crown Prince Maximilian.", "Since 2015, Hambach Castle has held the European Heritage Label."],
-    },
-    image: "/poi-images/germany-hambach-castle-history-v2.webp",
-  },
-  {
+    {
     id: "germany-berlin-tempelhof-history-v2",
     type: "landmark",
     parent: "DE",

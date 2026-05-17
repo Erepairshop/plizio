@@ -2,55 +2,7 @@
 import type { POI } from "./poi";
 
 export const poiExtraSouthafricaHistoryV2: POI[] = [
-  {
-    id: "robben-island-history-v2",
-    type: "historical",
-    parent: "ZA-WC",
-    coords: [18.3666, -33.8055],
-    name: {
-      de: "Robben Island",
-      hu: "Robben-sziget",
-      ro: "Insula Robben",
-      en: "Robben Island"},
-    image: "/poi-images/robben-island-history-v2.webp",
-    description: {
-      de: "Robben Island ist eine Insel in der Tafelbucht, bekannt als Gefängnis, in dem Nelson Mandela jahrelang inhaftiert war.",
-      hu: "A Robben-sziget a Tábla-öbölben található egykori börtönsziget, ahol Nelson Mandela hosszú éveket töltött fogságban.",
-      ro: "Insula Robben este o fostă insulă-închisoare din Golful Table, unde Nelson Mandela a fost încarcerat timp de mulți ani.",
-      en: "Robben Island is a former prison island in Table Bay, famously where Nelson Mandela was incarcerated for many years."
-    },
-    facts: {
-      de: [
-        "Nelson Mandela war hier 18 Jahre lang inhaftiert.",
-        "Es ist seit 1999 UNESCO-Weltkulturerbe."
-      ],
-      hu: [
-        "Nelson Mandela 18 éven át raboskodott itt.",
-        "1999 óta az UNESCO Világörökség része."
-      ],
-      ro: [
-        "Nelson Mandela a fost închis aici timp de 18 ani.",
-        "Este în Patrimoniul Mondial UNESCO din 1999."
-      ],
-      en: [
-        "Nelson Mandela was imprisoned here for 18 years.",
-        "It became a UNESCO World Heritage Site in 1999."
-      ]
-    }, image: "/poi-images/robben-island-history-v2.webp",
-    descriptionAdvanced: {
-      de: "Robben Island ist eine Insel in der Tafelbucht vor der Küste Kapstadts und wurde über Jahrhunderte als Gefängnis, Leprakolonie und Militärstützpunkt genutzt. Weltweit bekannt wurde sie als Gefängnis, in dem Nelson Mandela 18 Jahre lang inhaftiert war. Die Insel wurde 1999 zum UNESCO-Weltkulturerbe erklärt. Die Geschichte der Insel reicht bis ins 17. Jahrhundert zurück, als die Niederländische Ostindien-Kompanie sie als Gefängnis für politische Gefangene nutzte. Heute ist Robben Island eine Gedenkstätte und Touristenattraktion, die jährlich Tausende von Besuchern anzieht.",
-      hu: "Robben-sziget egy sziget a Table-öbölben, Fokváros partjainál, és évszázadokon át börtönként, lepratelepként és katonai támaszpontként szolgált. Világhírnévre tett szert, mint a börtön, ahol Nelson Mandela 18 évet raboskodott. A szigetet 1999-ben az UNESCO Világörökség részévé nyilvánították. A sziget története a 17. századig nyúlik vissza, amikor a Holland Kelet-Indiai Társaság politikai foglyok börtöneként használta. Ma a Robben-sziget emlékhely és turisztikai látványosság, amely évente több ezer látogatót vonz.",
-      ro: "Insula Robben este o insulă în Golful Table, în largul coastei orașului Cape Town, și a fost folosită de-a lungul secolelor ca închisoare, colonie de leproși și bază militară. A devenit faimoasă în întreaga lume ca închisoarea în care Nelson Mandela a fost deținut timp de 18 ani. Insula a fost declarată Patrimoniu Mondial UNESCO în 1999. Istoria insulei datează din secolul al XVII-lea, când Compania Olandeză a Indiilor de Est a folosit-o ca închisoare pentru deținuți politici. Astăzi, Insula Robben este un memorial și o atracție turistică, atrăgând mii de vizitatori anual.",
-      en: "Robben Island is an island in Table Bay off the coast of Cape Town, used over centuries as a prison, leper colony, and military base. It gained worldwide fame as the prison where Nelson Mandela was held for 18 years. The island was declared a UNESCO World Heritage Site in 1999. Its history dates back to the 17th century when the Dutch East India Company used it as a prison for political prisoners. Today, Robben Island is a memorial and tourist attraction, drawing thousands of visitors annually.",
-    },
-    factsAdvanced: {
-      de: ["Größe: 5,18 km²", "UNESCO-Welterbe seit 1999", "Nelson Mandela inhaftiert 1964–1982", "Entfernung zu Kapstadt: 12 km", "Früher: Leprakolonie (1845–1931)", "Gefängnis geschlossen 1996"],
-      hu: ["Terület: 5,18 km²", "UNESCO Világörökség 1999 óta", "Nelson Mandela bebörtönözve 1964–1982", "Távolság Fokvárostól: 12 km", "Korábban: lepratelep (1845–1931)", "Börtön bezárva 1996-ban"],
-      ro: ["Suprafață: 5,18 km²", "Patrimoniu UNESCO din 1999", "Nelson Mandela închis 1964–1982", "Distanță față de Cape Town: 12 km", "Anterior: colonie de leproși (1845–1931)", "Închisoare închisă în 1996"],
-      en: ["Area: 5.18 km²", "UNESCO World Heritage since 1999", "Nelson Mandela imprisoned 1964–1982", "Distance from Cape Town: 12 km", "Former leper colony (1845–1931)", "Prison closed in 1996"],
-    },
-  },
-  {
+    {
     id: "cradle-of-humankind-history-v2",
     type: "historical",
     parent: "ZA-GT",

@@ -572,45 +572,7 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
     
     
   },
-  {
-    id: "ras-lanuf-refinery-landmarks-v2",
-    type: "landmark",
-    parent: "LY-SR",
-    coords: [18.5772, 30.5056],
-    name: {
-      de: "Raffinerie Ras Lanuf",
-      hu: "Rasz Lanuf Finomító",
-      ro: "Rafinăria Ras Lanuf",
-      en: "Ras Lanuf Refinery"},
-    image: "/poi-images/ras-lanuf-refinery-landmarks-v2.webp",
-    descriptionAdvanced: {
-      en: "The Ras Lanuf Refinery is a monumental feat of industrial engineering that dominates the central Libyan coastline. As the largest petrochemical complex in the country, its skyline is defined by massive distillation columns, cooling towers, and a vast labyrinth of pipelines. The facility is so large that it functions practically as its own enclosed city, complete with internal transport networks and dedicated power generation. It stands as a stark, metallic contrast to the barren, flat desert plains surrounding it. Economics K8 — mega-scale petrochemical engineering.",
-      de: "Raffinerie Ras Lanuf ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Eine der größten Ölraffinerien Libyens, deren Fackeltürme schon von weitem sichtbar sind. Eröffnet 1984. Hohe Verarbeitungskapazität. Visuelles Wahrzeichen am Golf von Sidra. Dieses Wahrzeichen ist Teil des kulturellen Erbes Libyens und spiegelt punisch-römische, arabische, berberische und mediterrane Einflüsse wider. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
-      hu: "A(z) Rasz Lanuf Finomító a líbiai földrajz és kultúra figyelemre méltó eleme. Líbia egyik legnagyobb olajfinomítója, melynek fáklyatornyai már messziről láthatóak. 1984-ben adták át. Nagy feldolgozói kapacitás. Vizuális jelkép a Szidra-öbölnél. Ez a nevezetesség Líbia kulturális örökségének része, és föníciai-római, arab, berber valamint mediterrán hatásokat tükröz. Líbia számos jelentős helyszínéhez hasonlóan ez is ötvözi a föníciai-római és berber örökséget a mediterrán és szaharai hatásokkal. Ezzel a helyszín hozzájárul Líbia sokszínű arculatához, az ókori romok, a sivatagi oázisok és a földközi-tengeri partvidék között.",
-      ro: "Rafinăria Ras Lanuf este un element remarcabil al geografiei și culturii libiene. Una dintre cele mai mari rafinării de petrol din Libia, ale cărei turnuri de faclă sunt vizibile de departe. Deschisă în 1984. Capacitate mare de procesare. Reper vizual la Golful Sidra. Acest reper face parte din patrimoniul cultural al Libiei și reflectă influențe punico-romane, arabe, berbere și mediteraneene. Asemenea multor locuri importante din Libia, acesta îmbină moștenirea punico-romană și berberă cu influențele mediteraneene și sahariene. Astfel, acest loc contribuie la profilul variat al Libiei, între ruinele antice, oazele deșertului și coasta Mediteranei."
-    },
-    factsAdvanced: {
-      en: ["The largest and most visually imposing oil refinery complex in Libya.", "Skyline is dominated by towering distillation columns and cooling towers.", "Functions almost as an independent, enclosed industrial city.", "Produces a massive visual contrast against the flat, barren desert coast.", "Features dedicated internal power generation and transport networks.", "A highly strategic landmark constantly monitored for national security."],
-      de: ["Eine der größten Ölraffinerien Libyens, deren Fackeltürme schon von weitem sichtbar sind.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
-      hu: ["Líbia egyik legnagyobb olajfinomítója, melynek fáklyatornyai már messziről láthatóak.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."],
-      ro: ["Una dintre cele mai mari rafinării de petrol din Libia, ale cărei turnuri de faclă sunt vizibile de departe.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."]
-    },
-    description: {
-      de: "Eine der größten Ölraffinerien Libyens, deren Fackeltürme schon von weitem sichtbar sind.",
-      hu: "Líbia egyik legnagyobb olajfinomítója, melynek fáklyatornyai már messziről láthatóak.",
-      ro: "Una dintre cele mai mari rafinării de petrol din Libia, ale cărei turnuri de faclă sunt vizibile de departe.",
-      en: "One of Libya's largest oil refineries, whose flare towers are visible from afar."
-    },
-    facts: {
-      de: ["Eröffnet 1984", "Hohe Verarbeitungskapazität", "Visuelles Wahrzeichen am Golf von Sidra"],
-      hu: ["1984-ben adták át", "Nagy feldolgozói kapacitás", "Vizuális jelkép a Szidra-öbölnél"],
-      ro: ["Deschisă în 1984", "Capacitate mare de procesare", "Reper vizual la Golful Sidra"],
-      en: ["Opened in 1984", "High processing capacity", "Visual landmark at the Gulf of Sidra"]
-    }, image: "/poi-images/ras-lanuf-refinery-landmarks-v2.webp",
-    
-    
-  },
-  {
+    {
     id: "fortezza-margherita-sabha-landmarks-v2",
     type: "landmark",
     parent: "LY-SB",

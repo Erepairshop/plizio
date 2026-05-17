@@ -74,43 +74,7 @@ export const poiExtraSingaporeReliefV2: POI[] = [
       en: ["Height: 105 meters above sea level.", "Named in 1845 after Captain Edward Faber.", "Cable car opened in 1974.", "Henderson Waves bridge is 36 meters high.", "Faber Walk is 2.2 km long.", "Park is part of the Southern Ridges."],
     },
   },
-  {
-    id: "sg-fort-canning-park-relief-v2",
-    type: "mountain",
-    parent: "SG-01",
-    coords: [103.8465, 1.2943],
-    name: {
-      de: "Fort Canning Park",
-      hu: "Fort Canning Park",
-      ro: "Parcul Fort Canning",
-      en: "Fort Canning Park"},
-    image: "/poi-images/sg-fort-canning-park-relief-v2.webp",
-    description: {
-      de: "Ein kleiner Hügel im Herzen von Singapur, reich an historischer Bedeutung.",
-      hu: "Egy kis hegy Szingapúr szívében, történelmileg rendkívül jelentős.",
-      ro: "Un deal mic în inima Singaporelui, bogat în semnificație istorică.",
-      en: "A small hill in the heart of Singapore, rich with historical significance."
-    },
-    facts: {
-      de: ["Einst der Standort der Paläste der malaiischen Könige des 14. Jahrhunderts.", "Wichtiger Ort für britische Militäranlagen im Zweiten Weltkrieg."],
-      hu: ["Egykor a 14. századi maláj királyok palotáinak helyszíne volt.", "Fontos brit katonai bázis volt a II. világháborúban."],
-      ro: ["Odinioară locul palatelor regilor malaezieni din secolul al XIV-lea.", "Loc important pentru instalațiile militare britanice în Al Doilea Război Mondial."],
-      en: ["Once the site of 14th-century Malay kings' palaces.", "Key site for British WWII military installations."]
-    }, image: "/poi-images/sg-fort-canning-park-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Fort Canning Park ist ein historischer Hügel im Herzen von Singapur, der eine Fläche von 18 Hektar umfasst. Der Hügel war einst der Sitz malaiischer Herrscher im 14. Jahrhundert und diente später als Militärfestung der Briten. Im Park befinden sich die Überreste des Fort Canning Hill Fort aus den 1850er Jahren. Heute ist der Park ein kulturelles Zentrum mit dem Battlebox Museum, einem unterirdischen Kommandobunker aus dem Zweiten Weltkrieg. Der Park beherbergt auch den Spice Garden, der an die Zeit von Sir Stamford Raffles erinnert.",
-      hu: "A Fort Canning Park Szingapúr szívében, egy 18 hektáros dombon fekszik. A terület a 14. században maláj uralkodók székhelye volt, később brit katonai erődítményként szolgált. A parkban található a Battlebox, egy föld alatti parancsnoki bunker a második világháborúból. A parkban lévő Spice Garden egy botanikus kert, amelyet Stamford Raffles alapított. A park számos történelmi emléknek ad otthont, köztük a maláj síroknak és a Szent József templom romjainak.",
-      ro: "Parcul Fort Canning, situat pe o colină de 18 hectare în centrul Singapore, are o istorie bogată. A fost reședința conducătorilor malaezi în secolul al XIV-lea și ulterior o fortăreață britanică. Parcul adăpostește Battlebox, un buncăr subteran din cel de-al Doilea Război Mondial, și Grădina de Condimente fondată de Stamford Raffles. De asemenea, include ruinele bisericii Sf. Iosif și mormintele regale malaeze. Parcul este un loc popular pentru evenimente culturale și oferă panorame asupra orașului.",
-      en: "Fort Canning Park, a 18-hectare hilltop park in the civic district of Singapore, is steeped in history. Once the site of 14th-century Malay kingdoms and later a British military fort, it now hosts cultural landmarks. The Battlebox is a preserved underground command centre from World War II. The Spice Garden features plants introduced by Sir Stamford Raffles in the 1820s. The park includes ancient artifacts, such as the Fort Canning Green, a former 9-hole golf course, and the ruins of St. Joseph's Church, built in 1846.",
-    },
-    factsAdvanced: {
-      de: ["Fläche: 18 Hektar.", "Der Hügel war im 14. Jahrhundert ein malaiischer Palast.", "Das Fort Canning Hill Fort wurde 1859 fertiggestellt.", "Die Battlebox wurde 1942 genutzt.", "Der Spice Garden wurde 1822 angelegt.", "Die St. Joseph's Kirche wurde 1846 erbaut."],
-      hu: ["Terület: 18 hektár.", "A domb a 14. században maláj palota volt.", "A Fort Canning erőd 1859-ben készült el.", "A Battleboxot 1942-ben használták.", "A Fűszerkertet 1822-ben hozták létre.", "A Szent József-templom 1846-ban épült."],
-      ro: ["Suprafață: 18 hectare.", "Colina a fost un palat malaez în secolul al XIV-lea.", "Fortăreața Fort Canning a fost finalizată în 1859.", "Battlebox a fost folosită în 1942.", "Grădina de condimente a fost creată în 1822.", "Biserica Sf. Iosif a fost construită în 1846."],
-      en: ["Area: 18 hectares.", "Hill was a Malay palace in the 14th century.", "Fort Canning fort was completed in 1859.", "Battlebox was used in 1942.", "Spice Garden was created in 1822.", "St. Joseph's Church was built in 1846."],
-    },
-  },
-  {
+    {
     id: "sg-macritchie-reservoir-park-relief-v2",
     type: "valley",
     parent: "SG-01",
@@ -146,43 +110,7 @@ export const poiExtraSingaporeReliefV2: POI[] = [
       en: ["Reservoir was completed in 1868.", "TreeTop Walk is 250 m long and 25 m high.", "Park area is 12 hectares.", "Trail network spans 11 km.", "Reservoir capacity is 4.9 million cubic meters.", "Over 100 bird species in the park."],
     },
   },
-  {
-    id: "sg-east-coast-park-relief-v2",
-    type: "coast",
-    parent: "SG-01",
-    coords: [103.9126, 1.3006],
-    name: {
-      de: "East Coast Park",
-      hu: "East Coast Park",
-      ro: "Parcul East Coast",
-      en: "East Coast Park"},
-    image: "/poi-images/sg-east-coast-park-relief-v2.webp",
-    description: {
-      de: "Ein beliebter Küstenpark, der sich über 15 km erstreckt und eine Vielzahl von Freizeitaktivitäten bietet.",
-      hu: "Egy népszerű tengerparti park 15 km hosszan, számos szabadidős tevékenységgel.",
-      ro: "Un parc de coastă popular care se întinde pe 15 km, oferind o varietate de activități recreative.",
-      en: "A popular coastal park stretching over 15 km, offering a variety of recreational activities."
-    },
-    facts: {
-      de: ["Vollständig auf Neuland gebaut.", "Beinhaltet einen von Menschenhand geschaffenen Strand."],
-      hu: ["Teljesen feltöltött földre épült.", "Mesterséges strandot is magában foglal."],
-      ro: ["Construit în întregime pe teren recuperat.", "Include o plajă creată de om."],
-      en: ["Built entirely on reclaimed land.", "Includes a man-made beach."]
-    }, image: "/poi-images/sg-east-coast-park-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Der East Coast Park ist mit 185 Hektar der größte Park Singapurs und erstreckt sich über 15 Kilometer entlang der Südostküste. Der Park wurde in den 1970er Jahren auf Landgewinnungsflächen errichtet. Er bietet eine Vielzahl von Freizeitmöglichkeiten wie Radfahren, Inlineskaten, Windsurfen und Angeln. Der Park verfügt über 11 verschiedene Themenbereiche, darunter einen Gourmet Village mit Meeresfrüchterestaurants. Der Strandabschnitt ist 7,5 Kilometer lang. Der Park ist ein beliebtes Ziel für Jogger und Familien und beherbergt das East Coast Park Sea Sports Centre.",
-      hu: "Az East Coast Park Szingapúr legnagyobb parkja, 185 hektáron terül el, és 15 kilométer hosszan húzódik a délkeleti parton. A parkot az 1970-es években hozták létre mesterséges feltöltéssel. Számos sportolási lehetőséget kínál, mint kerékpározás, görkorcsolyázás és szörföz. A park 11 tematikus területre oszlik, köztük a Marine Cove játszótérrel és a nyüzsgő éttermi negyeddel. A strand 7,5 kilométer hosszú. A park népszerű a kocogók és piknikezők körében.",
-      ro: "East Coast Park, cel mai mare parc din Singapore, se întinde pe 185 de hectare de-a lungul coastei de sud-est, având o lungime de 15 kilometri. Construit în anii 1970 pe terenuri recuperate, parcul oferă facilități pentru ciclism, patinaj, windsurfing și pescuit. Are 11 zone tematice, inclusiv Marine Cove și un sat gastronomic. Plaja se întinde pe 7,5 kilometri. Parcul găzduiește numeroase evenimente și este o destinație populară pentru relaxare și sport.",
-      en: "East Coast Park, Singapore's largest park at 185 hectares, stretches 15 km along the southeastern coastline. Created on reclaimed land in the 1970s, it features a 7.5 km beach and over 11 themed zones. The park offers extensive recreational facilities including cycling paths, inline skating tracks, barbecue pits, and the East Coast Lagoon Food Village. It is a hub for water sports such as sailing, kayaking, and windsurfing. The park also hosts the annual Singapore Dragon Boat Festival and is a key part of the city's green corridor.",
-    },
-    factsAdvanced: {
-      de: ["Fläche: 185 Hektar.", "Länge: 15 Kilometer Küstenlinie.", "Strandlänge: 7,5 Kilometer.", "Der Park wurde in den 1970er Jahren auf Landgewinnung errichtet.", "Es gibt 11 Themenbereiche im Park.", "Der Park hat über 1000 Parkplätze."],
-      hu: ["Terület: 185 hektár.", "Hossz: 15 km a part mentén.", "A strand hossza: 7,5 km.", "A parkot az 1970-es években építették feltöltött területen.", "11 tematikus terület található a parkban.", "Több mint 1000 parkolóhely áll rendelkezésre."],
-      ro: ["Suprafață: 185 hectare.", "Lungime: 15 km de coastă.", "Lungimea plajei: 7,5 km.", "Parcul a fost construit în anii 1970 pe terenuri recuperate.", "Există 11 zone tematice.", "Peste 1000 de locuri de parcare."],
-      en: ["Area: 185 hectares.", "Length: 15 km of coastline.", "Beach length: 7.5 km.", "Park built in the 1970s on reclaimed land.", "11 themed zones in the park.", "Over 1000 parking lots."],
-    },
-  },
-  {
+    {
     id: "sg-changi-beach-park-relief-v2",
     type: "coast",
     parent: "SG-01",
@@ -218,43 +146,7 @@ export const poiExtraSingaporeReliefV2: POI[] = [
       en: ["Area: 28 hectares.", "Beach length: 3.3 km.", "Cycling path is 1.2 km long.", "Fishing jetty is 400 m long.", "Park is near Changi Airport.", "Historical WWII site."],
     },
   },
-  {
-    id: "sg-pasir-ris-park-relief-v2",
-    type: "coast",
-    parent: "SG-01",
-    coords: [103.9494, 1.3787],
-    name: {
-      de: "Pasir Ris Park",
-      hu: "Pasir Ris Park",
-      ro: "Parcul Pasir Ris",
-      en: "Pasir Ris Park"},
-    image: "/poi-images/sg-pasir-ris-park-relief-v2.webp",
-    description: {
-      de: "Ein Küstenpark an der Nordostküste Singapurs, bekannt für seinen großen Spielplatz und Mangrovenwald.",
-      hu: "Egy tengerparti park Szingapúr északkeleti partján, nagy játszóteréről és mangroveerdőjéről ismert.",
-      ro: "Un parc de coastă în nord-estul Singapore, cunoscut pentru terenul său de joacă mare și pădurea de mangrove.",
-      en: "A coastal park in northeastern Singapore, known for its large playground and mangrove forest."
-    },
-    facts: {
-      de: ["Beherbergt einen 6 Hektar großen Mangrovenwald.", "Ein beliebter Ort für Vogelbeobachtung."],
-      hu: ["Egy 6 hektáros mangroveerdőnek ad otthont.", "Népszerű madármegfigyelő hely."],
-      ro: ["Găzduiește o pădure de mangrove de 6 hectare.", "Un loc popular pentru observarea păsărilor."],
-      en: ["Home to a 6-hectare mangrove forest.", "A popular spot for bird watching."]
-    }, image: "/poi-images/sg-pasir-ris-park-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Pasir Ris Park (Relief-Version) konzentriert sich auf die topografischen Merkmale des Parks. Der Park liegt auf leicht erhöhtem Gelände mit einem natürlichen Hügel von etwa 15 Metern Höhe, der einen Blick auf die Küste bietet. Der Park ist in zwei Hauptbereiche unterteilt: den Strandbereich und den Mangrovenbereich. Der Mangrovenbereich ist durch Holzstege erschlossen und beherbergt Krebse und Schnecken. Der Park hat eine Fläche von 70 Hektar und wurde 1991 eröffnet.",
-      hu: "A Pasir Ris Park (domborzati változat) a park domborzati jellemzőire összpontosít. A park enyhén emelkedő terepen fekszik, természetes dombbal, amely körülbelül 15 méter magas, és rálátást biztosít a partra. A park két fő részre oszlik: a strand területére és a mangrove területére. A mangrove terület fából készült sétányokkal van ellátva, ahol rákok és csigák élnek. A park 70 hektáron terül el, és 1991-ben nyitották meg.",
-      ro: "Parcul Pasir Ris (versiunea relief) se concentrează pe caracteristicile topografice. Parcul este situat pe un teren ușor înălțat, cu o colină naturală de aproximativ 15 metri, oferind vederi asupra coastei. Parcul este împărțit în două zone principale: zona de plajă și zona de mangrove. Zona de mangrove are promenade din lemn și găzduiește crabi și melci. Parcul se întinde pe 70 de hectare și a fost deschis în 1991.",
-      en: "Pasir Ris Park (relief version) emphasizes the topographic features of the park. The park sits on slightly elevated terrain with a natural hill about 15 meters high, providing views of the coastline. The park is divided into two main areas: the beach area and the mangrove area. The mangrove area features wooden walkways and hosts crabs and snails. The park covers 70 hectares and opened in 1991.",
-    },
-    factsAdvanced: {
-      de: ["Natürlicher Hügel: etwa 15 Meter hoch.", "Parkfläche: 70 Hektar.", "Eröffnet 1991.", "Zwei Hauptbereiche: Strand und Mangroven.", "Mangrovenbereich mit Holzstegen.", "Beherbergt verschiedene Krebstierarten."],
-      hu: ["Természetes domb: kb. 15 méter magas.", "Park területe: 70 hektár.", "Megnyitva: 1991-ben.", "Két fő rész: strand és mangrove.", "Mangrove terület fa sétányokkal.", "Rákfajok élőhelye."],
-      ro: ["Colină naturală: aproximativ 15 metri.", "Suprafața parcului: 70 de hectare.", "Deschis în 1991.", "Două zone principale: plajă și mangrove.", "Zona de mangrove cu promenade din lemn.", "Adăpostește specii de crustacee."],
-      en: ["Natural hill: about 15 meters high.", "Park area: 70 hectares.", "Opened in 1991.", "Two main zones: beach and mangrove.", "Mangrove area with wooden walkways.", "Hosts various crustacean species."],
-    },
-  },
-  {
+    {
     id: "sg-labrador-nature-reserve-relief-v2",
     type: "coast",
     parent: "SG-01",
@@ -326,115 +218,7 @@ export const poiExtraSingaporeReliefV2: POI[] = [
       en: ["Total coastline: 3.2 km.", "Siloso Beach is 800 m long.", "Beaches created in the 1970s.", "Island area is 500 hectares.", "Palawan Beach has a 50 m suspension bridge.", "Tanjong Beach is 350 m long."],
     },
   },
-  {
-    id: "sg-southern-ridges-relief-v2",
-    type: "mountain",
-    parent: "SG-01",
-    coords: [103.808, 1.280],
-    name: {
-      de: "Southern Ridges",
-      hu: "Southern Ridges",
-      ro: "Crestele Sudice",
-      en: "The Southern Ridges"},
-    image: "/poi-images/sg-southern-ridges-relief-v2.webp",
-    description: {
-      de: "Ein 10 km langer Pfad, der mehrere Parks entlang des südlichen Bergrückens von Singapur verbindet.",
-      hu: "Egy 10 km hosszú ösvény, amely több parkot köt össze Szingapúr déli hegygerince mentén.",
-      ro: "O potecă de 10 km care leagă mai multe parcuri de-a lungul crestei sudice a Singaporelui.",
-      en: "A 10-km trail that connects several parks along the southern ridge of Singapore."
-    },
-    facts: {
-      de: ["Beinhaltet die Henderson Waves Brücke.", "Bietet Panoramablicke auf die Stadt, den Hafen und die südlichen Inseln."],
-      hu: ["Magában foglalja a Henderson Waves hidat.", "Panorámás kilátást nyújt a városra, a kikötőre és a déli szigetekre."],
-      ro: ["Include podul Henderson Waves.", "Oferă vederi panoramice ale orașului, portului și insulelor sudice."],
-      en: ["Includes the Henderson Waves bridge.", "Offers panoramic views of the city, harbour and Southern Islands."]
-    }, image: "/poi-images/sg-southern-ridges-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Die Southern Ridges sind ein 10 Kilometer langes Wanderwegenetz, das mehrere Parks im Süden Singapurs verbindet: Mount Faber Park, Telok Blangah Hill Park, HortPark, Kent Ridge Park und Labrador Nature Reserve. Die Route umfasst die Henderson Waves Brücke, die mit 36 Metern die höchste Fußgängerbrücke Singapurs ist. Der Forest Walk ist ein 1,3 Kilometer langer erhöhter Steg durch den Sekundärwald. Das Netzwerk wurde 2008 fertiggestellt und bietet Panoramablicke auf den Hafen und die Inseln.",
-      hu: "A Southern Ridges egy 10 kilométer hosszú túraútvonal-hálózat, amely összeköti Szingapúr déli parkjait: Mount Faber Park, Telok Blangah Hill Park, HortPark, Kent Ridge Park és Labrador Nature Reserve. Az útvonal része a Henderson Waves híd, amely 36 méter magas, Szingapúr legmagasabb gyalogoshídja. A Forest Walk egy 1,3 kilométeres magasított sétány a másodlagos erdőn keresztül. A hálózat 2008-ban készült el, és panorámás kilátást nyújt a kikötőre és a szigetekre.",
-      ro: "Southern Ridges este o rețea de trasee de drumeție de 10 km care leagă parcuri din sudul Singapore: Mount Faber Park, Telok Blangah Hill Park, HortPark, Kent Ridge Park și Labrador Nature Reserve. Traseul include podul Henderson Waves, cel mai înalt pod pietonal din Singapore, la 36 de metri. Forest Walk este o pasarelă supraînălțată de 1,3 km printr-o pădure secundară. Rețeaua a fost finalizată în 2008 și oferă vederi panoramice asupra portului și insulelor.",
-      en: "The Southern Ridges is a 10 km network of green connectors linking several parks in southern Singapore: Mount Faber Park, Telok Blangah Hill Park, HortPark, Kent Ridge Park, and Labrador Nature Reserve. The route features the Henderson Waves, a 36-meter-high pedestrian bridge, and the Forest Walk, a 1.3 km elevated metal walkway through the forest canopy. Completed in 2008, it offers stunning views of the Singapore Harbour and the Southern Islands.",
-    },
-    factsAdvanced: {
-      de: ["Gesamtlänge des Wegenetzes: 10 Kilometer.", "Henderson Waves Brücke: 36 Meter hoch.", "Forest Walk: 1,3 Kilometer lang.", "Das Netzwerk verbindet 5 Parks.", "Fertiggestellt im Jahr 2008.", "Die Brücke ist 274 Meter lang."],
-      hu: ["Az útvonalhálózat teljes hossza: 10 km.", "Henderson Waves híd: 36 méter magas.", "Forest Walk: 1,3 km hosszú.", "A hálózat 5 parkot köt össze.", "2008-ban fejezték be.", "A híd hossza 274 méter."],
-      ro: ["Lungimea totală a traseelor: 10 km.", "Podul Henderson Waves: 36 m înălțime.", "Forest Walk: 1,3 km lungime.", "Rețeaua leagă 5 parcuri.", "Finalizat în 2008.", "Podul are 274 m lungime."],
-      en: ["Total trail network: 10 km.", "Henderson Waves bridge: 36 m high.", "Forest Walk: 1.3 km long.", "Network links 5 parks.", "Completed in 2008.", "Bridge length is 274 m."],
-    },
-  },
-  {
-    id: "sg-pulau-ubin-relief-v2",
-    type: "coast",
-    parent: "SG-01",
-    coords: [103.9632, 1.4121],
-    name: {
-      de: "Pulau Ubin",
-      hu: "Pulau Ubin",
-      ro: "Pulau Ubin",
-      en: "Pulau Ubin"},
-    image: "/poi-images/sg-pulau-ubin-relief-v2.webp",
-    description: {
-      de: "Eine Insel nordöstlich von Singapur, die für ihre rustikale Küstenlandschaft und reiche Natur bekannt ist.",
-      hu: "Egy sziget Szingapúrtól északkeletre, rusztikus tengerparti tájáról és gazdag természetéről ismert.",
-      ro: "O insulă la nord-est de Singapore, cunoscută pentru peisajul său costier rustic și natura bogată.",
-      en: "An island northeast of Singapore, known for its rustic coastline and abundant nature."
-    },
-    facts: {
-      de: ["Heimat des Chek Jawa Feuchtgebiets.", "Eine der letzten ländlichen Gegenden in Singapur."],
-      hu: ["Itt található a Chek Jawa vizes élőhely.", "Szingapúr egyik utolsó vidéki területe."],
-      ro: ["Găzduiește zonele umede Chek Jawa.", "Una dintre ultimele zone rurale din Singapore."],
-      en: ["Home to the Chek Jawa Wetlands.", "One of the last rural areas in Singapore."]
-    }, image: "/poi-images/sg-pulau-ubin-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Pulau Ubin ist eine 10,2 Quadratkilometer große Insel im Nordosten Singapurs, die für ihren ländlichen Charme und ihre Granitsteinbrüche bekannt ist. Die Insel wurde in den 1960er Jahren zu einem Zentrum des Granitabbaus. Heute ist sie ein Naturparadies mit Sekundärwald und Mangroven. Die Insel beherbergt das Chek Jawa Feuchtgebiet, ein 100 Hektar großes Wattenmeer mit einer reichen Biodiversität. Die Insel ist nur mit der Fähre erreichbar und hat eine kleine ständige Bevölkerung von etwa 100 Einwohnern.",
-      hu: "Pulau Ubin egy 10,2 négyzetkilométeres sziget Szingapúr északkeleti részén, amely vidéki hangulatáról és gránitbányáiról ismert. A sziget az 1960-as években a gránitbányászat központja volt. Ma természeti paradicsom másodlagos erdőkkel és mangrovekkal. A szigeten található a Chek Jawa vizes élőhely, egy 100 hektáros árapálysíkság gazdag biodiverzitással. A sziget csak komppal érhető el, és körülbelül 100 állandó lakosa van.",
-      ro: "Pulau Ubin este o insulă de 10,2 km² în nord-estul Singapore, cunoscută pentru farmecul rustic și fostele cariere de granit. Insula a fost un centru de exploatare a granitului în anii 1960. Astăzi este un paradis natural cu păduri secundare și mangrove. Adăpostește zona umedă Chek Jawa, o întindere de 100 de hectare de maree bogată în biodiversitate. Insula este accesibilă doar cu feribotul și are o populație permanentă de aproximativ 100 de locuitori.",
-      en: "Pulau Ubin is a 10.2 km² island off northeastern Singapore, known for its rustic kampong (village) atmosphere and granite quarries. The island was a major granite mining site in the 1960s. Today, it is a natural haven with secondary forests and mangroves. Highlights include the Chek Jawa Wetlands, a 100-hectare intertidal area teeming with marine life. The island is accessible by a 15-minute ferry ride from Changi Point and has a resident population of about 100 people.",
-    },
-    factsAdvanced: {
-      de: ["Fläche: 10,2 Quadratkilometer.", "Granitabbau in den 1960er Jahren.", "Chek Jawa Feuchtgebiet: 100 Hektar.", "Fährfahrt von Changi Point: 15 Minuten.", "Ständige Bevölkerung: etwa 100.", "Höchster Punkt: 70 Meter über dem Meer."],
-      hu: ["Terület: 10,2 négyzetkilométer.", "Gránitbányászat az 1960-as években.", "Chek Jawa vizes élőhely: 100 hektár.", "Komputazás Changi Pointból: 15 perc.", "Állandó lakosság: kb. 100 fő.", "Legmagasabb pont: 70 méter tengerszint felett."],
-      ro: ["Suprafață: 10,2 km².", "Exploatare de granit în anii 1960.", "Zona umedă Chek Jawa: 100 de hectare.", "Cursa cu feribotul de la Changi Point: 15 minute.", "Populație permanentă: aproximativ 100 de locuitori.", "Cel mai înalt punct: 70 de metri deasupra nivelului mării."],
-      en: ["Area: 10.2 km².", "Granite mining in the 1960s.", "Chek Jawa wetlands: 100 hectares.", "Ferry ride from Changi Point: 15 minutes.", "Permanent population: about 100.", "Highest point: 70 meters above sea level."],
-    },
-  },
-  {
-    id: "sg-lower-peirce-reservoir-park-relief-v2",
-    type: "valley",
-    parent: "SG-01",
-    coords: [103.8219, 1.3719],
-    name: {
-      de: "Lower Peirce Reservoir Park",
-      hu: "Lower Peirce-víztározó Park",
-      ro: "Parcul Rezervorului Lower Peirce",
-      en: "Lower Peirce Reservoir Park"},
-    image: "/poi-images/sg-lower-peirce-reservoir-park-relief-v2.webp",
-    description: {
-      de: "Umgibt Singapurs zweitältestes Reservoir, eingebettet in ein üppiges Tal.",
-      hu: "Szingapúr második legrégebbi víztározóját veszi körül, egy buja völgyben.",
-      ro: "Înconjoară al doilea cel mai vechi rezervor din Singapore, amplasat într-o vale luxuriantă.",
-      en: "Surrounds Singapore's second-oldest reservoir, nestled within a lush valley."
-    },
-    facts: {
-      de: ["Verfügt über einen malerischen Spazierweg am Wasser.", "Ein reifer Sekundärwald umgibt das Reservoir."],
-      hu: ["Festői vízparti sétánya van.", "Érett másodlagos erdő veszi körül a tározót."],
-      ro: ["Dispune de o promenadă pitorească pe malul apei.", "O pădure secundară matură înconjoară rezervorul."],
-      en: ["Features a picturesque boardwalk along the water's edge.", "A mature secondary forest surrounds the reservoir."]
-    }, image: "/poi-images/sg-lower-peirce-reservoir-park-relief-v2.webp",
-    descriptionAdvanced: {
-      de: "Der Lower Peirce Reservoir Park liegt im Zentrum Singapurs und ist ein 6 Hektar kleiner Park rund um den älteren der beiden Peirce-Stauseen, der 1910 fertiggestellt wurde. Der Park ist bekannt für seinen 900 Meter langen Holzsteg durch den Regenwald, der affenreiche Baumkronen bietet. Der Stausee hat eine Kapazität von 3,7 Millionen Kubikmetern. Der Park ist Teil des Central Catchment Nature Reserve und beherbergt viele Schmetterlingsarten. Ein Aussichtspunkt bietet Blick auf die Wasserfläche.",
-      hu: "A Lower Peirce Reservoir Park Szingapúr központjában, egy 6 hektáros park a két Peirce-tározó közül a régebbi körül, amelyet 1910-ben fejeztek be. A park híres 900 méteres fa sétányáról, amely az esőerdőn halad keresztül, és majmokban gazdag lombkoronákat kínál. A tározó kapacitása 3,7 millió köbméter. A park a Central Catchment Nature Reserve része, és számos lepkefaj él itt. Egy kilátópont nyújt rálátást a vízfelületre.",
-      ro: "Parcul Lower Peirce Reservoir este un parc de 6 hectare din centrul Singapore, în jurul celui mai vechi dintre cele două rezervoare Peirce, finalizat în 1910. Parcul este renumit pentru pasarela sa de lemn de 900 de metri prin pădurea tropicală, care oferă vederi ale coronamentului plin de maimuțe. Rezervorul are o capacitate de 3,7 milioane de metri cubi. Parcul face parte din Rezervația Naturală Central Catchment și găzduiește numeroase specii de fluturi. Un punct de observație oferă vedere asupra apei.",
-      en: "Lower Peirce Reservoir Park is a 6-hectare park in central Singapore, surrounding the older of the two Peirce reservoirs, completed in 1910. It features a 900-meter boardwalk through the rainforest, offering canopy views frequented by monkeys. The reservoir has a capacity of 3.7 million cubic meters. The park is part of the Central Catchment Nature Reserve and is a habitat for many butterfly species. A scenic lookout gives panoramic reservoir views.",
-    },
-    factsAdvanced: {
-      de: ["Parkfläche: 6 Hektar.", "Stausee fertiggestellt 1910.", "Holzsteg: 900 Meter lang.", "Kapazität: 3,7 Millionen Kubikmeter.", "Teil des Central Catchment Nature Reserve.", "Über 50 Schmetterlingsarten."],
-      hu: ["Park területe: 6 hektár.", "A víztározót 1910-ben fejezték be.", "Fa sétány: 900 méter hosszú.", "Kapacitás: 3,7 millió köbméter.", "A Central Catchment Nature Reserve része.", "Több mint 50 lepkefaj él itt."],
-      ro: ["Suprafața parcului: 6 hectare.", "Rezervorul finalizat în 1910.", "Pasarelă de lemn: 900 de metri.", "Capacitate: 3,7 milioane de metri cubi.", "Parte a Rezervației Naturale Central Catchment.", "Peste 50 de specii de fluturi."],
-      en: ["Park area: 6 hectares.", "Reservoir completed in 1910.", "Boardwalk: 900 meters long.", "Capacity: 3.7 million cubic meters.", "Part of Central Catchment Nature Reserve.", "Over 50 butterfly species."],
-    },
-  },
-  {
+        {
     id: "sg-telok-blangah-hill-park-relief-v2",
     type: "mountain",
     parent: "SG-01",
@@ -686,41 +470,5 @@ export const poiExtraSingaporeReliefV2: POI[] = [
       en: ["Area: 85 hectares.", "Former plantation.", "Abandoned in the 1970s.", "Length along river: 2 km.", "Popular with mountain bikers.", "No official trails."],
     },
   },
-  {
-    id: "sg-coney-island-park-relief-v2",
-    type: "coast",
-    parent: "SG-01",
-    coords: [103.9213, 1.4087],
-    name: {
-      de: "Coney Island Park",
-      hu: "Coney Island Park",
-      ro: "Parcul Insula Coney",
-      en: "Coney Island Park"},
-    image: "/poi-images/sg-coney-island-park-relief-v2.webp",
-    description: {
-      de: "Ein rustikaler Küstenpark auf einer Insel mit vielfältigen Lebensräumen, darunter Küstenwälder und Mangroven.",
-      hu: "Egy rusztikus tengerparti park egy szigeten, változatos élőhelyekkel, beleértve a part menti erdőket és mangroveerdőket.",
-      ro: "Un parc de coastă rustic pe o insulă, cu habitate diverse, inclusiv păduri de coastă și mangrove.",
-      en: "A rustic coastal park on an island, featuring diverse habitats including coastal forests and mangroves."
-    },
-    facts: {
-      de: ["Ökologisch nachhaltiger Park mit vielen Naturmerkmalen.", "Heimat einer Vielzahl von Vogelarten."],
-      hu: ["Ökológiailag fenntartható park számos természeti elemmel.", "Sokféle madárfajnak ad otthont."],
-      ro: ["Parc ecologic sustenabil cu multe caracteristici naturale.", "Găzduiește o mare varietate de specii de păsări."],
-      en: ["Ecologically sustainable park with many natural features.", "Home to a wide variety of bird species."]
-    },
-    descriptionAdvanced: {
-      de: "Der Coney Island Park in Singapur ist ein 50 Hektar großer Naturpark auf der gleichnamigen Insel vor der Nordostküste. Ursprünglich als Standort für ein Erholungsheim genutzt, wurde der Park 2015 eröffnet und bietet eine vielfältige Küstenlandschaft mit Stränden, Wäldern und Feuchtgebieten. Der Park ist Teil des Ubin–Ketam–Naturkorridors und beherbergt über 80 Vogelarten sowie seltene Pflanzen wie die Seemandelbäume. Besucher können auf Wanderwegen die Ruhe genießen, während die historischen Relikte, wie die Überreste eines alten Ferienhauses, an die koloniale Vergangenheit erinnern.",
-      hu: "A Coney Island Park Szingapúr északkeleti partján, egy 50 hektáros természetvédelmi terület, amely 2015-ben nyílt meg. A sziget korábban magántulajdonban volt, és egy üdülőhelyként szolgált, ma azonban a biodiverzitás fontos menedéke. A park partvidéke homokos strandokból, mangroveerdőkből és mocsarakból áll. Kiemelt látnivaló a régi üdülőház romja, amelyet 1910-ben építettek. A terület fontos madármegfigyelő hely, több mint 80 fajjal, köztük a ritka fehérhasú rétisas. A park népszerű a kerékpárosok és természetjárók körében, és számos piknikhelyet kínál.",
-      ro: "Parcul Coney Island din Singapore este o arie naturală de 50 de hectare situată pe insula cu același nume, deschisă publicului în anul 2015. Insula a fost inițial o proprietate privată folosită ca stațiune de vacanță, iar astăzi păstrează ruinele unei case de oaspeți construite în 1910. Ecosistemele diverse includ plaje nisipoase, păduri de mangrove și zone umede, care adăpostesc peste 80 de specii de păsări. Parcul face parte din coridorul natural Ubin-Ketam și este un punct important pentru observarea păsărilor migratoare. Traseele de drumeție și piste pentru biciclete atrag vizitatori interesați de natură și relaxare.",
-      en: "Coney Island Park is a 50-hectare nature park located on Coney Island, off the northeastern coast of Singapore. Opened to the public in 2015, the island was formerly a private retreat and holiday destination. Today, it serves as a sanctuary for biodiversity, featuring sandy beaches, coastal forests, and mangroves. The park is part of the Ubin–Ketam Nature Corridor and is home to over 80 bird species, including the endangered white-bellied sea eagle. Visitors can explore historical remnants like a 1910s chalet ruins. The park offers trails for hiking and cycling, promoting eco-tourism and conservation.",
-    },
-    factsAdvanced: {
-      de: ["Fläche: 50 Hektar", "Eröffnung: 2015", "Vogelarten: über 80", "Baumart: Seemandelbäume", "Historisches Gebäude: Ruine eines Ferienhauses von 1910", "Lage: 1,5 km vor der Nordostküste Singapurs"],
-      hu: ["Terület: 50 hektár", "Megnyitás: 2015", "Madárfajok: több mint 80", "Növényzet: mangrove és parti erdők", "Történelmi rom: 1910-es üdülőház", "Része az Ubin–Ketam Természeti Folyosónak"],
-      ro: ["Suprafață: 50 de hectare", "Deschidere: 2015", "Specii de păsări: peste 80", "Ecosisteme: plaje, păduri de mangrove", "Clădire istorică: ruinele unui foișor din 1910", "Parte a coridorului natural Ubin-Ketam"],
-      en: ["Area: 50 hectares", "Opened: 2015", "Bird species: over 80", "Habitats: sandy beaches, mangroves, coastal forests", "Historical structure: ruins of a 1910s chalet", "Location: 1.5 km off Singapore's northeast coast"],
-    },
-  }
-];
+  ];
 
